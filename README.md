@@ -1,3 +1,3 @@
-# News Portal
+# README
 
-Source: [ua.korrespondent.net](https://ua.korrespondent.net)
+https://ua.korrespondent.net
