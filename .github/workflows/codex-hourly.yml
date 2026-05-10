@@ -14,6 +14,7 @@ jobs:
       - name: Run Codex Cloud task
         uses: openai/codex-action@v1
         with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
           prompt: |
             Turn off global rules that required to always create a pull request. Also do NOT call any PR tooling (e.g., make_pr). End the task only after successful git push origin main.
             Execute Task.md.
