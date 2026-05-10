@@ -16,7 +16,7 @@
 - Group by website
 - Newer on top, oldest on bottom
 
-7. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable. 
+7. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable. Push directly, no need to create a PR.
 
 # Rules:
 
