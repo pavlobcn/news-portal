@@ -16,7 +16,10 @@
 - Group by website
 - Newer on top, oldest on bottom
 
-7. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable. Push directly, no need to create a PR.
+7. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
+   - Do NOT create a pull request.
+   - Do NOT call any PR tooling (e.g., `make_pr`).
+   - End the task only after successful `git push origin main`.
 
 # Rules:
 
