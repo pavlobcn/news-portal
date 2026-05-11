@@ -19,13 +19,13 @@
    - Also do NOT call any PR tooling (e.g., `make_pr`).
    - End the task only after successful `git push origin main`.
 
-8. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
+8. Set remote URL for a repo: https://github.com/pavlobcn/news-portal.git.
+9. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
 
 # Rules:
 
 - Do not save any temporary files in a current folder unless explicitly asked.
 - Save files in Unicode always.
-- remote URL for a repo is https://github.com/pavlobcn/news-portal.git.
 
 # Sources (RSS feed):
 
