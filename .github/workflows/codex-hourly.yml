@@ -1,4 +1,4 @@
-name: Codex Cloud Task
+name: Trigger Codex Cloud Task to refresh data
 
 on:
   schedule:
