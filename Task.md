@@ -2,7 +2,7 @@
 
 Format example: `2026-05-12 14:37`.
 
-1. Remember current date and time. Use Barcelona local time. Use it later everywhere. When need to output time, use Time (24h): `HH:mm` format.
+1. Remember current date and time. Use timezone `Europe/Madrid` (including DST automatically). Use it later everywhere. When need to output time, use Time (24h): `HH:mm` format.
 2. Download sources.
 3. Find news on the downloaded sources.
 4. Write result in JSON file: array of links, topics and titles. File should be in a folder: `YYYY-MM-DD`. File name in format: `HH-mm-sitedomain.json`.
@@ -34,6 +34,8 @@ Format example: `2026-05-12 14:37`.
 # Rules:
 
 - Do not save any temporary files in a current folder unless explicitly asked.
+- If host/system timezone differs from `Europe/Madrid`, convert all source/current times to `Europe/Madrid` before comparing, filtering, naming files, or displaying times.
+- All persisted timestamps (in filenames, JSON content, and README headers) must be generated in timezone `Europe/Madrid`.
 - Save files in Unicode always.
 - Always use these formats:
   - Date: `YYYY-MM-DD`
