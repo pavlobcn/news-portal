@@ -6,8 +6,15 @@ Format example: `2026-05-12 14:37`.
 2. Download sources.
 3. Find news on the downloaded sources.
 4. Write result in JSON file: array of links, topics and titles. File should be in a folder: `YYYY-MM-DD`. File name in format: `HH-mm-sitedomain.json`.
-5. Exclude in JSON files generated on previous step links to pages that exist in JSON files of the last 24 hours or news with published day older than 24 hours.
-6. Create/Update files with all news from today in JSON files.
+5. Apply one dedupe policy explicitly: **rolling 24-hour window**.
+   - Exclude any news item if the same link, topic, or title already appears in any JSON file created in the previous 24 hours, measured from current Barcelona local datetime (`now - 24h`).
+   - Exclude any news item whose published datetime is older than 24 hours from current Barcelona local datetime.
+6. Create/Update files with all news that pass step 5 dedupe policy in JSON files.
+   - This repository uses only the rolling 24-hour window for dedupe (no calendar-day dedupe in `Europe/Madrid`).
+   - Day boundary behavior: crossing midnight does not reset dedupe; inclusion/exclusion depends only on whether an item is within the last 24 hours.
+   - Midnight examples (`Europe/Madrid`):
+     - If current time is `2026-05-12 00:10`, an item seen at `2026-05-11 00:05` is **excluded** (within previous 24 hours), while an item seen at `2026-05-11 00:00` is **included** (older than 24 hours).
+     - If current time is `2026-05-12 23:55`, an item seen at `2026-05-11 23:56` is **excluded** (within previous 24 hours), while an item seen at `2026-05-11 23:54` is **included** (older than 24 hours).
    - Put on the top the time when file was created.
    - Group by website (not from RSS Feed but by target link domain)
    - Newer on top, oldest on bottom
