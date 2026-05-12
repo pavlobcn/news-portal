@@ -1,19 +1,24 @@
 # Actions:
 
-1. Remember current date and time. Use it later everywhere.
+1. Remember current date and time. Use Barcelona local time. Use it later everywhere. When need to output time, use hh:MM format.
 2. Download sources.
 3. Find news on the downloaded sources.
 4. Write result in JSON file: array of links, topics and titles. File should be in a folder: yyyy-mm-dd. File name in format: hh-MM-sitedomain.json.
-5. Exclude in JSON files generated on previous step links to pages that exist in JSON files of the last 2 days or news with published day older than 1 day.
-6. Create README.md page with all news from today in JSON files.
-   - files (doublecheck how filter applied to put the news in a correct file):
-    - news included in filter: README-excluded.md
-      - add a short line which filter applied
-      - duplicates from previous days should not be mentioned in any file
-    - news not included in filter: README.md
-  - Put on the top the time when file was created. Format: "yyyy-mm-dd hh:MM".
-  - Group by website
+5. Exclude in JSON files generated on previous step links to pages that exist in JSON files of the last 24 hours or news with published day older than 24 hours.
+6. Create/Update files with all news from today in JSON files.
+  - Put on the top the time when file was created.
+  - Group by website (not from RSS Feed but by target link domain)
   - Newer on top, oldest on bottom
+  - news duplicates from previous days should not be mentioned in any file
+  - for each news (using topic and title) define boolean attribute to decide if it's included in New Filter or not
+    - double check this decision
+  - files:
+    - README-excluded.md
+      - include in this file news which titles or topics are mentioned in News Filter
+      - add a short line which filter applied
+    - README.md
+      - include in this file news which titles or topic are NOT mentioned in News Filter
+
 
 7. Set remote URL for a repo: https://github.com/pavlobcn/news-portal.git.
 8. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
@@ -29,6 +34,7 @@
 
 - Do not save any temporary files in a current folder unless explicitly asked.
 - Save files in Unicode always.
+- Always use "yyyy-mm-dd hh:MM" format for time.
 
 # Sources (RSS feed):
 
@@ -40,7 +46,7 @@
 - https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/mundial_baloncesto/
 - https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/mas_baloncesto/
 
-# News filter:
+# News Filter:
 
 - гороскопи
 - лотереї
