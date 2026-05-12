@@ -1,9 +1,11 @@
 # Actions:
 
-1. Remember current date and time. Use Barcelona local time. Use it later everywhere. When need to output time, use hh:MM format.
+Format example: `2026-05-12 14:37`.
+
+1. Remember current date and time. Use Barcelona local time. Use it later everywhere. When need to output time, use Time (24h): `HH:mm` format.
 2. Download sources.
 3. Find news on the downloaded sources.
-4. Write result in JSON file: array of links, topics and titles. File should be in a folder: yyyy-mm-dd. File name in format: hh-MM-sitedomain.json.
+4. Write result in JSON file: array of links, topics and titles. File should be in a folder: `YYYY-MM-DD`. File name in format: `HH-mm-sitedomain.json`.
 5. Exclude in JSON files generated on previous step links to pages that exist in JSON files of the last 24 hours or news with published day older than 24 hours.
 6. Create/Update files with all news from today in JSON files.
    - Put on the top the time when file was created.
@@ -33,7 +35,10 @@
 
 - Do not save any temporary files in a current folder unless explicitly asked.
 - Save files in Unicode always.
-- Always use "yyyy-mm-dd hh:MM" format for time.
+- Always use these formats:
+  - Date: `YYYY-MM-DD`
+  - Time (24h): `HH:mm`
+  - Datetime: `YYYY-MM-DD HH:mm`
 
 # Sources (RSS feed):
 
