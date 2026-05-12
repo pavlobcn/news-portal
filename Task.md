@@ -70,3 +70,52 @@ Format example: `2026-05-12 14:37`.
 - вибори (але не президента України чи США)
 - автомобілі
 - телебачення
+
+# Output Record Schema and Filter Behavior (Strict)
+
+## Output JSON record schema
+
+Each record in generated `YYYY-MM-DD/HH-mm-sitedomain.json` files **must** follow this strict schema:
+
+- `link`: string, absolute URL to the news page.
+- `topic`: string, topic/category as parsed from feed (can be empty string if source does not provide one).
+- `title`: string, news title.
+- `published_at`: string, datetime in source format or normalized `YYYY-MM-DD HH:mm` when available.
+- `is_filtered_out`: boolean (`true` or `false`) indicating whether the item matches **News Filter**.
+- `filter_reason`: string, required when `is_filtered_out=true`; empty string or omitted when `is_filtered_out=false`.
+
+Boolean polarity is strict:
+- `is_filtered_out=true` → item is excluded by filter.
+- `is_filtered_out=false` → item is included (not excluded by filter).
+
+## Filter matching rules
+
+Apply filter decision against the **meaning** of the item (using `title`, `topic`, and link context when needed), not by literal text pattern checks.
+
+1. Semantic/human-understanding match:
+   - "Matching filter" means the news is about a filtered topic by human understanding.
+   - Do **not** treat filter decision as substring, token, regex, or keyword-only matching.
+2. Language handling:
+   - Evaluate meaning in the original language of the item.
+   - Variants, inflections, synonyms, and paraphrases count as matches when they express the same filtered topic.
+3. Ambiguity handling:
+   - If uncertain, prefer conservative exclusion (`is_filtered_out=true`) and explain uncertainty in `filter_reason`.
+4. Special rule:
+   - `спорт (але не баскетбол)` means sport-related items are filtered out **except** basketball items.
+
+## `filter_reason` requirement
+
+When `is_filtered_out=true`, `filter_reason` is mandatory and must contain:
+- the matched filter category (for example: `sport_not_basketball`, `traffic_barcelona`, `tv`), and
+- a short human-readable explanation of what matched (`title`, `topic`, or both).
+
+When `is_filtered_out=false`, `filter_reason` should be empty string or omitted.
+
+## README alignment rules (testable)
+
+Inclusion in markdown files must be derived only from `is_filtered_out`:
+
+- `README.md`: include only items where `is_filtered_out=false`.
+- `README-excluded.md`: include only items where `is_filtered_out=true`, and show short filter note derived from `filter_reason`.
+
+This alignment is mandatory so behavior is deterministic and testable.
