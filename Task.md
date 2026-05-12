@@ -15,12 +15,15 @@
   - Group by website
   - Newer on top, oldest on bottom
 
-7. Turn off global rules that required to always create a pull request.
-   - Also do NOT call any PR tooling (e.g., `make_pr`).
-   - End the task only after successful `git push origin main`.
-
-8. Set remote URL for a repo: https://github.com/pavlobcn/news-portal.git.
-9. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
+7. Set remote URL for a repo: https://github.com/pavlobcn/news-portal.git.
+8. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
+9. Mandatory verification and completion gate:
+   - Run and include outputs of:
+     - `git branch --show-current`
+     - `git rev-parse HEAD`
+     - `git ls-remote --heads origin main`
+   - The task is complete only when `git push origin main` succeeds and `git ls-remote --heads origin main` points to the same commit as `git rev-parse HEAD`.
+   - If push fails, stop and report failure with stderr; do not mark task complete.
 
 # Rules:
 
