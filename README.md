@@ -1,149 +1,41 @@
-# News digest (2026-05-12 15:33)
-
-## as.com
-- 2026-05-12 14:01 — [Jan Vesely se retira](https://as.com/baloncesto/jan-vesely-se-retira-f202605-n/)
-  - Topic: FC Barcelona
+# 2026-05-12 18:14
 
 ## elperiodico.com
-- 2026-05-12 15:30 — [El secreto natural de Flick](https://www.elperiodico.com/es/opinion/20260512/secreto-natural-flick-fc-barcelona-articulo-alex-salmon-130144298)
-  - Topic: secreto
-- 2026-05-12 15:30 — [Soluciones rápidas y saludables para cenar: la ensalada Nizarda como alternativa deliciosa y fácil](https://www.elperiodico.com/es/vida-y-estilo/20260512/soluciones-rapidas-saludables-cenar-ensalada-dv-130031919)
-  - Topic: soluciones
-- 2026-05-12 15:27 — [Un plan "coserá" las rieras de Terrassa como espacios verdes para prevenir futuras inundaciones](https://www.elperiodico.com/es/barcelona/20260512/plan-cosera-rieras-terrassa-espacios-verdes-prevenir-futuras-inundaciones-130143920)
-  - Topic: plan
-- 2026-05-12 15:24 — [Muere Josep Company, el fundador de Finques Company que vio nacer el turismo moderno en la Costa Brava](https://www.elperiodico.com/es/sociedad/20260512/muere-josep-company-fundador-finques-130144561)
-  - Topic: <h2>Su biografía queda ligada a la historia reciente de Llançà, al desarrollo del norte del Alt Empordà y a una forma de
-- 2026-05-12 15:24 — [Hallan el cadáver de una ballena jorobada de seis metros en la costa de Sao Paulo](https://www.elperiodico.com/es/videos/internacional/hallan-cadaver-ballena-jorobada-brasil/130144720.shtml)
-  - Topic: hallan
-- 2026-05-12 15:15 — [El truco del jurado de MasterChef Jordi Cruz para cocer verduras: "La tierra te dice cómo cocinar"](https://www.elperiodico.com/es/vida-y-estilo/20260512/truco-jordi-cruz-cocinar-verduras-jurado-masterchef-dv-129948423)
-  - Topic: truco
-- 2026-05-12 15:13 — [El polvo de estrellas atrapado en el hielo antártico desvela el viaje de la Tierra por el cosmos](https://www.elperiodico.com/es/tendencias21/20260512/polvo-estrellas-atrapado-hielo-antartico-130144163)
-  - Topic: polvo
-- 2026-05-12 15:13 — [El primer hotel de lujo de Hidden en Barcelona relevará el cierre de Sonder en el paseo de Gràcia](https://www.elperiodico.com/es/barcelona/20260512/primer-hotel-lujo-hidden-barcelona-relevara-cierre-sonder-paseo-de-gracia-130139929)
-  - Topic: primer
-- 2026-05-12 15:13 — [Barceló y Hyatt, elegidos por Aena para desarrollar hoteles en los aeropuertos de Madrid y Barcelona](https://www.elperiodico.com/es/economia/20260512/barcelo-hyatt-ganadores-hoteles-aeropuertos-madrid-barcelona-aena-130144179)
-  - Topic: barcelo
-- 2026-05-12 14:55 — [Hernán, las ratas y el orgullo](https://www.elperiodico.com/es/opinion/20260512/hernan-ratas-orgullo-diaz-ayuso-articulo-emma-riverola-130142489)
-  - Topic: hernan
-- 2026-05-12 14:54 — [Los exámenes prácticos de conducir en Lleida solo convocan este sábado a 300 de los 5.000 alumnos en lista de espera: "Se ha hecho con prisas"](https://www.elperiodico.com/es/sociedad/20260512/carnet-conducir-examen-practico-lleida-sabado-16-mayo-listas-espera-cataluna-130106958)
-  - Topic: carnet conducir examen practico lleida sabado-16-mayo listas espera cataluna
-- 2026-05-12 14:47 — [Los socios del Govern reclaman a Illa que renegocie el acuerdo con los profesores](https://www.elperiodico.com/es/politica/20260512/socios-govern-reclaman-illa-renegocie-profesores-130139447)
-  - Topic: socios
-- 2026-05-12 14:45 — [Ni zapatos rojos ni mocasines: este es el raro modelo de zapatillas Nike del papa León XIV antes de llegar al Vaticano](https://www.elperiodico.com/es/gente/20260512/papa-leon-xiv-zapatillas-nike-retro-antes-vaticano-130140994)
-  - Topic: papa-leon-xiv-zapatillas-nike-retro-antes-vaticano
-- 2026-05-12 14:44 — [Barcelona recibe al Actual Ultim 4, uno de los cinco trimaranes más veloces del mundo](https://www.elperiodico.com/es/fotos/economia/barcelona-recibe-actual-ultim-4-trimaran-veloz-fotos-130142652)
-  - Topic: barcelona
-- 2026-05-12 14:43 — [La abogacía de Barcelona pide más claridad y un mayor protagonismo en la regularización extraordinaria](https://www.elperiodico.com/es/sociedad/20260512/abogacia-barcelona-pide-claridad-mayor-protagonismo-proceso-regularizacion-extraordinaria-130135862)
-  - Topic: abogacia
-- 2026-05-12 14:43 — [La policía de Nueva York rescata a una mujer al borde de un rascacielos](https://www.elperiodico.com/es/videos/internacional/policia-nueva-york-rescata-mujer/130142616.shtml)
-  - Topic: policia
-- 2026-05-12 14:31 — ["Más salario, menos policía": miles de profesores mantienen el pulso al Govern en otra protesta multitudinaria](https://www.elperiodico.com/es/sociedad/20260512/salario-policia-miles-profesores-mantienen-pulso-govern-huelga-educacion-cataluna-130140350)
-  - Topic: salario
-- 2026-05-12 14:28 — [Muchos trabajadores con hijos pueden cobrar hasta 350 euros al mes y no lo saben](https://www.elperiodico.com/es/economia/20260512/ayuda-350-euros-mes-trabajadores-hijos-dv-130139938)
-  - Topic: ayuda
-- 2026-05-12 14:26 — [Barcelona recibe uno de los cinco trimaranes más veloces y avanzados del planeta](https://www.elperiodico.com/es/economia/20260512/barcelona-recibe-trimaran-actual-ultim-130136695)
-  - Topic: barcelona
-- 2026-05-12 14:26 — [El Gobierno reduce el copago farmacéutico a las rentas bajas y medias, sin aumentar la aportación del resto](https://www.elperiodico.com/es/sociedad/20260512/reforma-copago-farmaceutico-aprobada-130135766)
-  - Topic: reforma
-- 2026-05-12 14:25 — [Una explosión de una bombona de butano deja ocho heridos y obliga a desalojar un edificio en Barcelona](https://www.elperiodico.com/es/barcelona/20260512/explota-bombona-butano-edificio-viviendas-poblenou-barcelona-130140857)
-  - Topic: explota
-- 2026-05-12 14:22 — [Mamdani transforma las calles de Nueva York para recibir el Mundial: “Queremos que todos los niños de esta ciudad experimenten la alegría del fútbol”](https://www.elperiodico.com/es/deportes/20260512/mamdani-transforma-calles-nueva-york-130139207)
-  - Topic: mamdani
-- 2026-05-12 14:22 — [Miles de profesores protestan en Barcelona en la primera de las 13 jornadas de huelga previstas](https://www.elperiodico.com/es/videos/sociedad/miles-profesores-protestan-barcelona-primera-13-jornadas-huelga-previstas-video/130140559.shtml)
-  - Topic: miles
-- 2026-05-12 14:11 — [Julian Barnes, sobre su despedida: "No tengo sensación de pérdida; creo que dejarlo aquí es lo correcto"](https://www.elperiodico.com/es/ocio-y-cultura/20260512/julian-barnes-despedida-sensacion-perdida-130133643)
-  - Topic: julian
-- 2026-05-12 14:08 — [Yolanda Díaz cancela su agenda por un esguince y no estará en la campaña andaluza](https://www.elperiodico.com/es/politica/20260512/yolanda-diaz-cancela-agenda-esguince-130140060)
-  - Topic: yolanda
-- 2026-05-12 14:07 — [Barcelona impulsa un nuevo plan contra la soledad que abre la puerta a las “recetas sociales” desde los centros de salud](https://www.elperiodico.com/es/barcelona/20260512/barcelona-pacto-soledad-2026-2030-recetar-vida-social-130129258)
-  - Topic: barcelona-pacto-soledad-2026-2030-recetar-vida-social
-- 2026-05-12 14:00 — [Flick confirma la renovación y la voluntad de llegar a los 100 puntos](https://www.elperiodico.com/es/deportes/20260512/flick-confirma-renovacion-voluntad-llegar-130136277)
-  - Topic: flick
-- 2026-05-12 13:57 — [El Govern defiende la infiltración de mossos en una asamblea de profesores y descarta dimisiones](https://www.elperiodico.com/es/politica/20260512/govern-trapero-dimision-profesores-infiltracion-130127602)
-  - Topic: govern trapero dimision profesores infiltracion
-- 2026-05-12 13:55 — [La Comisión Europea reitera su intención de retrasar el acceso de los menores a las redes sociales](https://www.elperiodico.com/es/internacional/20260512/comision-europea-reitera-intencion-retrasar-acceso-menores-redes-sociales-internet-von-der-leyen-ue-130139184)
-  - Topic: comision
-- 2026-05-12 13:52 — [El Gobierno destina más de 176 millones de euros para reforzar la competencia lectora y matemática en la escuela](https://www.elperiodico.com/es/sociedad/20260512/plan-refuerzo-competencia-lectora-matematica-escuelas-130137364)
-  - Topic: plan refuerzo competencia lectora matematica escuelas
-- 2026-05-12 13:50 — [El refugio de Luis Enrique: un paraíso cantábrico con menos de 100 habitantes,  carreteras estrechas y acantilados](https://www.elperiodico.com/es/gente/20260512/refugio-luis-enrique-paraiso-cantabrico-acantilados-dv-129947483)
-  - Topic: refugio
-- 2026-05-12 13:46 — [El sindicato mayoritario de Mossos lamenta la "instrumentalización política" por la infiltración policial](https://www.elperiodico.com/es/sociedad/20260512/sindicato-mayoritario-mossos-lamenta-instrumentalizacion-cuerpo-130138249)
-  - Topic: sindicato
-- 2026-05-12 13:33 — [¿Por qué una cuarentena de 42 días en la crisis del hantavirus? La más larga prevista para cualquier infección](https://www.elperiodico.com/es/sanidad/20260512/cuarentena-mas-larga-prevista-hantavirus-130136742)
-  - Topic: cuarentena
-- 2026-05-12 13:33 — [Paco Hernández: “El objetivo en Valladolid es ganar la primera Serie Mundial de nuestra historia”](https://www.elperiodico.com/es/deportes/20260512/rugby-valladolid-rugby-7-paco-hernandez-130137859)
-  - Topic: rugby
-- 2026-05-12 13:30 — [Los drones de reparto llegan a Nueva York en una prueba piloto sobre la viabilidad de este servicio](https://www.elperiodico.com/es/internacional/20260512/nueva-york-drones-de-reparto-estados-unidos-skyline-skyports-130133820)
-  - Topic: Nueva York
-- 2026-05-12 13:29 — [Así funciona el 'coworking' más grande del sur de Europa abierto en el Poblenou de Barcelona](https://www.elperiodico.com/es/barcelona/20260512/funciona-mayor-coworking-sur-europa-poblenou-barcelona-aticco-diagrame-130131481)
-  - Topic: funciona
-- 2026-05-12 13:21 — [Rafa Jódar gana también a Tien y jugará los cuartos en Roma](https://www.elperiodico.com/es/deportes/20260512/masters-1000-roma-rafa-jodar-learner-tien-directo-130134872)
-  - Topic: masters
-- 2026-05-12 13:16 — [Se acabaron las Porsche a 6.000 euros: la marca alemana cierra la división de bicicletas para centrarse en los coches](https://www.elperiodico.com/es/motor/20260512/porsche-cierra-division-bicicletas-electricas-reorganizacion-130128491)
-  - Topic: porsche
-- 2026-05-12 13:10 — [Denegada la pensión de viudedad a una mujer: más de 30 años con su pareja y dos hijos juntos](https://www.elperiodico.com/es/sucesos/20260512/denegada-pension-viudedad-mujer-convivir-30-anos-pareja-dv-129945718)
-  - Topic: denegada
-- 2026-05-12 13:07 — [Este jueves vuelve el Handmade Festival de Barcelona, el gran evento gratuito con talleres de manualidades y artesanía](https://www.elperiodico.com/es/que-hacer/planes/20260512/handmade-festival-barcelona-gratuito-manualidades-artesania-130115731)
-  - Topic: handmade
-- 2026-05-12 13:07 — [El aeropuerto de Barcelona-El Prat supera los 5 millones de pasajeros en abril y mantiene la senda récord de 2026](https://www.elperiodico.com/es/economia/20260512/aeropuerto-barcelona-el-prat-supera-cinco-millones-pasajeros-mes-abril-2026-130134341)
-  - Topic: aeropuerto
-- 2026-05-12 12:58 — [Huelga de profesores en Catalunya: ¿Dónde es hoy martes y dónde toca mañana miércoles?](https://www.elperiodico.com/es/sociedad/20260512/huelga-profesores-barcelona-catalunya-hoy-martes-manana-miercoles-dv-130131145)
-  - Topic: huelga
-- 2026-05-12 12:57 — [¿Por qué no hay un protocolo único en la UE ante el hantavirus? Lo que puede y no puede hacer Bruselas en crisis sanitarias](https://www.elperiodico.com/es/internacional/20260512/por-que-no-protocolo-unico-ue-hantavirus-que-puede-que-no-bruselas-crisis-sanitarias-130135399)
-  - Topic: por que no protocolo unico ue hantavirus que puede que no bruselas crisis sanitarias
-- 2026-05-12 12:55 — [La compra del Sevilla por Sergio Ramos se acelera: "Se han cerrado todos los puntos"](https://www.elperiodico.com/es/deportes/20260512/sergio-ramos-acelera-compra-sevilla-130135023)
-  - Topic: sergio
-- 2026-05-12 12:54 — [Leo Messi compra las antiguas galerías Via Wagner de Barcelona por 11,5 millones](https://www.elperiodico.com/es/barcelona/20260512/leo-messi-compra-antiguas-galerias-via-wagner-turo-park-130134508)
-  - Topic: leo
-- 2026-05-12 12:53 — [La Ley de Mecenazgo para Catalunya suma el apoyo de Junts y Esquerra](https://www.elperiodico.com/es/ocio-y-cultura/20260512/ley-mecenazgo-catalunya-suma-apoyo-130131581)
-  - Topic: ley
-- 2026-05-12 12:50 — [Hailey Bieber ficha por Mango para su campaña de verano 2026](https://www.elperiodico.com/es/gente/20260512/hailey-bieber-mango-nueva-embajadora-verano-2026-130134005)
-  - Topic: hailey-bieber-mango-nueva-embajadora-verano-2026
-- 2026-05-12 12:48 — [El Supremo avala hacer fijos a los interinos que aprueben una oposición pero lleven años en la Administración sin plaza](https://www.elperiodico.com/es/economia/20260512/interinos-tribunal-supremo-avala-fijos-fraude-superar-oposicion-130134817)
-  - Topic: interinos
-- 2026-05-12 12:45 — [Barcelona ya ha atendido a más de 27.000 personas presencialmente en su dispositivo por la regularización extraordinaria](https://www.elperiodico.com/es/sociedad/20260512/barcelona-atendido-27-000-personas-en-su-dispositivo-por-la-regularizacion-extraordinaria-130130607)
-  - Topic: barcelona
-- 2026-05-12 12:42 — [Las nuevas estafas bancarias ya no llegan solo por SMS: ahora combinan llamadas, IA y datos reales tuyos](https://www.elperiodico.com/es/economia/20260512/nuevas-estafas-bancarias-combinan-llamadas-ia-datos-reales-dv-130132372)
-  - Topic: nuevas
-- 2026-05-12 12:42 — [La familia de Helena Jubany pide 26 años de prisión para Santiago Laiglesia pero no acusa a Xavi Jiménez](https://www.elperiodico.com/es/videos/sociedad/familia-helena-jubany-pide-26-anos-prision-santiago-laiglesia-video/130134218.shtml)
-  - Topic: familia
-- 2026-05-12 12:34 — [Los cardiólogos alertan: la ‘epidemia silenciosa’ de la hipertensión afecta a tres millones de españoles que lo desconocen](https://www.elperiodico.com/es/salud/20260512/hipertension-epidemia-silenciosa-3-millones-espanoles-130133938)
-  - Topic: hipertension
-- 2026-05-12 12:12 — [La OMS descarta un brote mayor de hantavirus y alarga la cuarentena hasta el 21 de junio](https://www.elperiodico.com/es/sanidad/20260512/oms-descarta-brote-mayor-hantavirus-130128569)
-  - Topic: oms
-- 2026-05-12 11:46 — [Irán abre la puerta a China como país mediador ante la inminente visita de Trump a Pekín](https://www.elperiodico.com/es/internacional/20260512/iran-abre-puerta-china-pais-mediador-visita-trump-xi-130130731)
-  - Topic: iran
-- 2026-05-12 11:35 — [El español aislado en Madrid por positivo en hantavirus presenta "síntomas respiratorios"](https://www.elperiodico.com/es/videos/sociedad/espanol-aislado-madrid-positivo-hantavirus-tiene-sintomas-respiratorios-video/130129836.shtml)
-  - Topic: espanol
-- 2026-05-12 11:03 — [De la A de Almodóvar a la Z de Zahera: el cine español se luce este año en Cannes](https://www.elperiodico.com/es/ocio-y-cultura/20260512/almodovar-z-zahera-cine-espanol-130127482)
-  - Topic: almodovar
-- 2026-05-12 11:01 — [La familia de Helena Jubany pide 26 años de prisión para Santiago Laiglesia pero no acusa a Xavi Jiménez](https://www.elperiodico.com/es/sociedad/20260512/helena-jubany-fin-instruccion-asesinato-juicio-peticiones-prision-santiago-laiglesia-sabadell-cataluna-130128080)
-  - Topic: helena jubany fin instruccion asesinato juicio peticiones prision santiago laiglesia sabadell cataluna
-- 2026-05-12 10:52 — [España está por debajo de la media europea en los impuestos a la gasolina y el diésel: ¿cómo funciona este gravamen?](https://www.elperiodico.com/es/economia/20260512/espana-debajo-media-europea-impuestos-combustibles-130125224)
-  - Topic: espana
-- 2026-05-12 10:37 — [Opel Zafira by Tinkervan: un salón sobre ruedas que redefine la versatilidad](https://www.elperiodico.com/es/motor/20260512/opel-zafira-by-tinkervan-salon-sobre-ruedas-130110586)
-  - Topic: opel
-- 2026-05-12 10:31 — [Starmer descarta dimitir pese a la presión interna y reta a sus rivales a lanzar su candidatura para destituirle](https://www.elperiodico.com/es/internacional/20260512/starmer-dimision-reino-unido-reunion-gobierno-primer-ministro-130127102)
-  - Topic: starmer
-- 2026-05-12 09:40 — [Catalunya activa la alerta de su plan frente a inundaciones y eleva los avisos por intensidad de lluvias para la tarde del martes](https://www.elperiodico.com/es/sociedad/20260512/cataluna-aviso-inundaciones-lluvias-martes-prevision-meteocat-130124006)
-  - Topic: cataluna
-- 2026-05-12 09:30 — [Aumentan un 9,7% las compraventas de viviendas en el último año en L'Hospitalet y el Baix Llobregat](https://www.elperiodico.com/es/barcelona/20260512/aumentan-9-7-compraventas-pisos-ultimo-ano-hospitalet-baix-llobregat-130093112)
-  - Topic: aumentan
-- 2026-05-12 09:28 — [Arden 15 vehículos en el Eixample de Barcelona en una noche: la policía busca a un pirómano](https://www.elperiodico.com/es/sucesos/20260512/arden-vehiculos-eixample-noche-madrugada-eixample-piromano-130123556)
-  - Topic: arden
-- 2026-05-12 09:26 — [Confirmado el contagio por hantavirus del paciente español que ya presenta febrícula y dificultades respiratorias](https://www.elperiodico.com/es/sanidad/20260512/espanol-positivo-hantavirus-febricula-sintomas-respiratorios-aparentemente-estable-130123414)
-  - Topic: espanol
-- 2026-05-11 17:38 — [Sánchez defiende su "manual de crisis" en la gestión del hantavirus y el aval de la OMS frente a la oposición de Clavijo](https://www.elperiodico.com/es/politica/20260511/sanchez-director-general-oms-compareceran-martes-moncloa-crisis-hantavirus-130107771)
-  - Topic: sanchez
+- 2026-05-12 18:10 - [Rodalies altera el servicio de la R4 y la RL4 ante las lluvias de este martes](https://www.elperiodico.com/es/sociedad/20260512/rodalies-altera-servicio-r4-rl4-ante-lluvias-este-martes-130150585) (Rodalies altera servicio R4 RL4 ante lluvias este martes)
+- 2026-05-12 18:10 - [Una fuerte tormenta con pedrisco azota el área de Barcelona y amenaza el norte de Catalunya](https://www.elperiodico.com/es/barcelona/20260512/fuerte-tormenta-pedrisco-azota-area-barcelona-norte-catalunya-130152227) (fuerte)
+- 2026-05-12 18:09 - [Un UEA tocado le gana la batalla en el Giro a un Movistar al ataque](https://www.elperiodico.com/es/deportes/20260512/uea-tocado-le-gana-batalla-movistar-giro-cuarta-etapa-130153053) (uea)
+- 2026-05-12 18:00 - [El 47,8% de los chiringuitos financieros detectados operan con criptomonedas y el fraude más común es la suplantación de identidad](https://www.elperiodico.com/es/economia/20260512/chiringuitos-financieros-fraude-fiscal-estafas-criptomonedas-estudio-collegi-deconomistes-desinformacion-economica-fakes-economicas-130131229) (chiringuitos)
+- 2026-05-12 17:56 - [Repsol recibe el primer petrolero de Venezuela en compensación por el suministro de gas al país](https://www.elperiodico.com/es/economia/20260512/repsol-recibe-primer-petrolero-venezuela-compensacion-suministro-gas-130152653) (repsol)
+- 2026-05-12 17:42 - [Pimec expulsa a José María Torres y agudiza la crisis de Conpymes](https://www.elperiodico.com/es/economia/20260512/pimec-expulsa-jose-maria-torres-agudiza-crisis-conpymes-130151120) (pimec)
+- 2026-05-12 17:36 - [Última hora del estado de salud de la cantante Bonnie Tyler: "Gravemente enferma pero estable"](https://www.elperiodico.com/es/ocio-y-cultura/20260512/ultima-hora-salud-bonnie-tyler-grave-estable-dv-130151168) (ultima)
+- 2026-05-12 17:27 - [La EMA afirma que está preparada para respaldar el desarrollo de vacunas y terapias contra los hantavirus](https://www.elperiodico.com/es/sanidad/20260512/ema-activa-grupo-emergencias-identificar-vacunas-terapias-hantavirus-130150579) (ema)
+- 2026-05-12 17:25 - [Rueda de prensa de Florentino Pérez, hoy en directo | Última hora de la convocatoria de urgencia del presidente del Real Madrid](https://www.elperiodico.com/es/deportes/20260512/florentino-perez-directo-urgencia-crisis-real-madrid-ultima-hora-130146916) (florentino)
+- 2026-05-12 17:25 - [Un Espanyol contra las cuerdas espera reanimarse ante el Athletic: "Hay que salir a morir, no hay más"](https://www.elperiodico.com/es/deportes/20260512/espanyol-cuerdas-espera-reanimarse-athletic-130150023) (espanyol)
+- 2026-05-12 17:24 - [El Temporada Alta de Girona desvela su programación con Christiane Jatahy, La Veronal y Pablo Messiez entre los destacados](https://www.elperiodico.com/es/ocio-y-cultura/20260512/temporada-alta-girona-desvela-programacion-130106240) (temporada)
+- 2026-05-12 17:22 - [Valentí Oviedo, director general del Liceu, deja el cargo temporalmente](https://www.elperiodico.com/es/ocio-y-cultura/20260512/valenti-oviedo-director-general-liceu-130138149) (valenti)
+- 2026-05-12 17:15 - [Ernest Urtasun, sobre el concierto de Kanye West en Madrid tras los vetos en otros países: "Estamos analizando la situación"](https://www.elperiodico.com/es/ocio-y-cultura/20260512/concierto-kanye-west-gobierno-analizando-situacion-madrid-130150137) (concierto)
+- 2026-05-12 17:07 - [John Wilson: "Estoy aquí para demostrar que el hormigón es un tema de interés universal"](https://www.elperiodico.com/es/ocio-y-cultura/20260512/john-wilson-entrevista-the-history-of-concrete-docsbarcelona-130147323) (john wilson)
+- 2026-05-12 17:05 - [Audi desvela el interior del futuro Q9](https://www.elperiodico.com/es/motor/20260512/audi-desvela-interior-futuro-q9-130135282) (audi)
+- 2026-05-12 17:00 - [El sector alimentario pide suspender el impuesto al plástico mientras dure la crisis de Irán](https://www.elperiodico.com/es/economia/20260512/sector-alimentario-pide-suspender-impuesto-plasticos-guerra-iran-130149725) (sector)
+- 2026-05-12 16:57 - [Catalunya pone en marcha una licitación de 53 millones para comprar terapias endovasculares neurológicas](https://www.elperiodico.com/es/sanidad/20260512/catalunya-pone-marcha-licitacion-material-terapia-endovascular-neurologica-130149014) (catalunya)
+- 2026-05-12 16:34 - [¿Ganará el PP por mayoría absoluta las elecciones en Andalucía 2026? Así están las predicciones más allá de las encuestas](https://www.elperiodico.com/es/politica/20260512/pp-mayoria-absoluta-elecciones-andalucia-2026-predicciones-encuestas-129667701) (pp mayoria absoluta elecciones andalucia 2026 predicciones encuestas)
+- 2026-05-12 16:31 - [Los primeros investigados del caso Montoro rechazan declarar, a la espera de si la Audiencia lo traslada de Tarragona a Madrid](https://www.elperiodico.com/es/tarragona/20260512/primeros-investigados-caso-montoro-rechazan-130141403) (primeros)
+- 2026-05-12 16:30 - [Una explosión por una bombona de butano deja ocho heridos y obliga a desalojar un edificio en Barcelona](https://www.elperiodico.com/es/videos/sociedad/explosion-bombona-butano-deja-ocho-video/130147349.shtml) (explosion)
+- 2026-05-12 16:27 - [Emotiva despedida al alcalde de Murcia José Ballesta](https://www.elperiodico.com/es/videos/politica/emotiva-despedida-alcalde-murcia-jose-ballesta/130147374.shtml) (emotiva)
+- 2026-05-12 16:25 - [TVyMAS; Eurovisión por youtube](https://www.elperiodico.com/es/videos/tele/tvymas-eurovision-youtube/130147103.shtml) (tvymas)
+- 2026-05-12 16:23 - [Absuelto Jair Domínguez por afirmar en Catalunya Ràdio que al "fascismo se le combate con un puñetazo en la boca"](https://www.elperiodico.com/es/sucesos/20260512/absuelto-jair-dominguez-afirmar-catalunya-punetazo-delito-odio-vox-130146961) (absuelto)
+- 2026-05-12 16:20 - [Verónica Mieites, física en la Universidad de Berna: «Burocracia y poca inversión ralentizan la ciencia en España»](https://www.elperiodico.com/es/sociedad/20260512/veronica-mieites-fisica-inteligencia-artificial-dv-130072977) (veronica)
+- 2026-05-12 16:16 - [En el centro de Cáritas para personas sin hogar que visitará el Papa en Madrid: "Cada persona es un tesoro"](https://www.elperiodico.com/es/sociedad/20260512/centro-personas-sinhogar-caritas-madrid-visita-papa-leonxiv-130144805) (centro)
+- 2026-05-12 16:11 - [Cómo comprar entradas para la final de la Champions femenina entre el Barça y el Lyon: precios y dónde encontrarlas](https://www.elperiodico.com/es/deportes/20260512/comprar-entradas-final-champions-femenina-130145039) (comprar)
+- 2026-05-12 16:10 - [El Parlament y la libertad de expresión](https://www.elperiodico.com/es/opinion/20260512/parlament-libertad-expresion-articulo-marcal-sintes-130115368) (parlament)
+- 2026-05-12 16:01 - [Mònica Almiñana, gerente del consorcio sanitario de Barcelona: "Doblaremos las camas de hospitalización psiquiátrica domiciliaria"](https://www.elperiodico.com/es/ser-feliz/20260512/monica-alminana-gerente-consorcio-sanitario-130135953) (monica)
+- 2026-05-12 15:58 - [Revuelo en Badalona tras unas cargas policiales al finalizar un concierto de las Festes de Maig](https://www.elperiodico.com/es/barcelona/20260512/revuelo-badalona-cargas-policiales-finalizar-concierto-festes-de-maig-130136267) (revuelo)
+- 2026-05-12 15:50 - [Vuelve la Carrera contra el Cáncer en Barcelona con un recorrido por el puerto: “Ver gente unida en la lucha nos hace sentir que no estamos solos”](https://www.elperiodico.com/es/barcelona/20260512/carrera-cancer-recorrido-port-barcelona-2026-130142915) (carrera)
+- 2026-05-12 15:44 - [¿Crisis sanitaria o manipulación?](https://www.elperiodico.com/es/opinion/20260512/crisis-sanitaria-o-manipulacion-hantavirus-articulo-joan-guix-130106961) (crisis)
+- 2026-05-12 13:26 - [Última hora del tiempo, hoy en directo | Aviso del Meteocat por lluvias torrenciales en Catalunya](https://www.elperiodico.com/es/tiempo/20260512/tiempo-hoy-directo-ultima-hora-130040740) (tiempo)
+- 2026-05-12 11:27 - [Sanidad envía al Centro de Microbiología la tercera PCR a la mujer ingresada en Alicante por posible contagio de hantavirus](https://www.elperiodico.com/es/politica/20260512/sanidad-envia-centro-microbiologia-tercera-130130986) (sanidad)
 
 ## ua.korrespondent.net
-- 2026-05-12 15:27 — [Західна паливно-енергетична компанія отримала партію нових цистерн](https://ua.korrespondent.net/business/companies/4878052-zakhidna-palyvno-enerhetychna-kompaniia-otrymala-partiui-novykh-tsystern)
-  - Topic: Новини компаній
-- 2026-05-12 15:15 — [Як вибрати ананас: експрес-гід для покупця](https://ua.korrespondent.net/articles/4878044-yak-vybraty-ananas-ekspres-hid-dlia-pokuptsia)
-  - Topic: Статті
-- 2026-05-12 14:59 — [Організаторам тютюнового підпілля в Одесі оголосили підозри](https://ua.korrespondent.net/city/odessa/4878048-orhanizatoram-tuituinovoho-pidpillia-v-odesi-oholosyly-pidozry)
-  - Topic: Одеса
-- 2026-05-12 13:37 — [Помер наставник, який тренував братів Кличків](https://ua.korrespondent.net/sport/boks/4878018-pomer-nastavnyk-yakyi-trenuvav-brativ-klychkiv)
-  - Topic: Новини боксу
-- 2026-05-12 13:18 — [Російський Оренбург під атакою дронів](https://ua.korrespondent.net/world/russia/4878012-rosiiskyi-orenburh-pid-atakoui-droniv)
-  - Topic: Росія новини
+- 2026-05-12 18:11 - [Імпорт газу до України впав у 28 разів](https://ua.korrespondent.net/business/economics/4878094-import-hazu-do-ukrainy-vpav-u-28-raziv) (Новини економіки)
+- 2026-05-12 17:59 - [В Німеччині проводять масові блокування рахунків росіян - ЗМІ](https://ua.korrespondent.net/business/financial/4878090-v-nimechchyni-provodiat-masovi-blokuvannia-rakhunkiv-rosiian-zmi) (Новини фінансів)
+- 2026-05-12 17:36 - [Репарації для України: Канада підтримала створення комісії](https://ua.korrespondent.net/world/worldabus/4878082-reparatsii-dlia-ukrainy-kanada-pidtrymala-stvorennia-komisii) (Огляд преси)
