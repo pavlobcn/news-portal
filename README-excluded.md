@@ -1,595 +1,1145 @@
-# 2026-05-13 22:19
+2026-05-13 23:51
 
 ## Excluded news
-- [El PSOE apela a lo que fue en Andalucía para no hundirse en la depresión: “Nos jugamos la vida”](https://www.elperiodico.com/es/politica/20260513/psoe-apela-andalucia-hundirse-depresion-130202445) | El PSOE apela a lo que fue en Andalucía para no hundirse en la depresión: “Nos jugamos la vida” | 2026-05-13 22:11
+
+### as.com
+- [¡A la Final Four!](https://as.com/baloncesto/euroliga/a-la-final-four-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-13 23:41
   - filter: duplicate in rolling 24h window
-- [Valencia - Panathinaikos, en directo: Euroliga 2025-26 en vivo hoy](https://as.com/baloncesto/euroliga/valencia-panathinaikos-en-directo-euroliga-2025-26-en-vivo-hoy-f202605-d/) | Baloncesto | 2026-05-13 22:11
+- [Así queda la Final Four 2026 de la Euroliga](https://as.com/baloncesto/euroliga/asi-queda-la-final-four-2026-de-la-euroliga-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-13 22:59
   - filter: duplicate in rolling 24h window
-- [Manolo rompe a llorar con el triunfo del Espanyol: "La liberación es muy grande, queda un último paso para alcanzar el puñetero objetivo"](https://www.elperiodico.com/es/deportes/20260513/manolo-rompe-llorar-triunfo-espanyol-130202013) | Manolo rompe a llorar con el triunfo del Espanyol: "La liberación es muy grande, queda un último paso para alcanzar el puñetero objetivo" | 2026-05-13 22:07
+- [Así están los cruces del Playoff de la Euroliga: resultados, cuadro y horarios de Real Madrid y Valencia Basket](https://as.com/baloncesto/euroliga/asi-estan-los-cruces-del-playoff-de-la-euroliga-resultados-cuadro-y-horarios-de-real-madrid-y-valencia-f202604-n/)
+  - topic: Baloncesto
+  - published: 2026-05-13 22:58
   - filter: duplicate in rolling 24h window
-- [Enrique Riquelme pide a Florentino Pérez acordar un proceso electoral "más amplio" y acorde a las "democracias modernas"](https://www.elperiodico.com/es/deportes/20260513/enrique-riquelme-pide-florentino-perez-130202201) | Enrique Riquelme pide a Florentino Pérez acordar un proceso electoral "más amplio" y acorde a las "democracias modernas" | 2026-05-13 22:05
+- [El Asvel deja solo al Madrid](https://as.com/baloncesto/euroliga/el-asvel-deja-solo-al-madrid-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-13 22:54
   - filter: duplicate in rolling 24h window
-- [El Barça rubrica el descenso del Granada](https://as.com/baloncesto/el-barca-rubrica-el-descenso-del-granada-f202605-n/) | FC Barcelona baloncesto | 2026-05-13 21:59
+- [El Río Breogán sigue en estado de felicidad](https://as.com/baloncesto/acb/el-rio-breogan-sigue-en-estado-de-felicidad-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-13 22:28
   - filter: duplicate in rolling 24h window
-- [Drone Deal: Зеленський пропонує Румунії співпрацю](https://ua.korrespondent.net/ukraine/4878418-Drone-Deal-zelenskyi-proponuie-rumunii-spivpratsui) | Новини України | 2026-05-13 21:57
+- [El Barça rubrica el descenso del Granada](https://as.com/baloncesto/el-barca-rubrica-el-descenso-del-granada-f202605-n/)
+  - topic: FC Barcelona baloncesto
+  - published: 2026-05-13 21:59
   - filter: duplicate in rolling 24h window
-- [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain) | Новини політики | 2026-05-13 21:50
+- [Cita con los ángeles](https://as.com/baloncesto/euroliga/cita-con-los-angeles-f202605-n/)
+  - topic: Valencia Basket Club
+  - published: 2026-05-13 21:01
   - filter: duplicate in rolling 24h window
-- [Lo tenemos cerca, lo tenemos cerca... por Sergi Mas](https://www.elperiodico.com/es/deportes/20260513/tenemos-cerca-salvacion-sergi-mas-130201798) | Lo tenemos cerca, lo tenemos cerca... por Sergi Mas | 2026-05-13 21:50
+- [“El riesgo para la NBA en Europa es ser percibida como algo de segundo rango”](https://as.com/baloncesto/euroliga/el-riesgo-para-la-nba-en-europa-es-ser-percibida-como-algo-de-segundo-rango-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-13 17:53
   - filter: duplicate in rolling 24h window
-- [Acuerdo en el ERE de Glovo: los despidos bajan de 750 a 436 'riders'](https://www.elperiodico.com/es/economia/20260513/glovo-ere-acuerdo-despidos-repartidores-130201774) | Acuerdo en el ERE de Glovo: los despidos bajan de 750 a 436 'riders' | 2026-05-13 21:49
+- [Un Hall of Fame de triples y medallas](https://as.com/baloncesto/mas_baloncesto/un-hall-of-fame-de-triples-y-medallas-f202605-n/)
+  - topic: Hall of Fame
+  - published: 2026-05-13 17:01
   - filter: duplicate in rolling 24h window
-- [Florentino: "El Barça haría muy bien en demandarme si cree que tiene que hacerlo"](https://www.elperiodico.com/es/deportes/20260513/florentino-barca-haria-demandarme-cree-130201989) | Florentino: "El Barça haría muy bien en demandarme si cree que tiene que hacerlo" | 2026-05-13 21:47
+- [Iyana Martín anuncia su marcha del Perfumerías Avenida](https://as.com/baloncesto/mas_baloncesto/iyana-martin-anuncia-su-marcha-del-perfumerias-avenida-f202605-n/)
+  - topic: Liga Femenina Baloncesto
+  - published: 2026-05-13 14:03
   - filter: duplicate in rolling 24h window
-- [Promotores Musicales alertan de "inseguridad jurídica" tras el fallo del Bernabéu y piden un marco "claro y equilibrado"](https://www.elperiodico.com/es/ocio-y-cultura/20260513/promotores-musicales-alertan-inseguridad-juridica-fallo-bernabeu-marco-claro-equilibrado-130198767) | Promotores Musicales alertan de "inseguridad jurídica" tras el fallo del Bernabéu y piden un marco "claro y equilibrado" | 2026-05-13 21:45
+- [Son 12″ que tienen alucinando a un país y una liga entera: la ‘marcianada’ de Aday Mara que ya es viral](https://as.com/baloncesto/videos/son-12-que-tienen-alucinando-a-un-pais-y-una-liga-entera-la-marcianada-de-aday-mara-que-ya-es-viral-f202605-v/)
+  - topic: Aday Mara
+  - published: 2026-05-13 12:27
   - filter: duplicate in rolling 24h window
-- [Лукаку у своїй зверхності до Наполі покине клуб](https://ua.korrespondent.net/sport/football/4878417-lukaku-u-svoii-zverkhnosti-do-napoli-pokyne-klub) | Новини футболу | 2026-05-13 21:39
+- [Son 12″ que tienen alucinando a un país y una liga entera: la ‘marcianada’ de Aday Mara que ya es viral](https://as.com/baloncesto/videos/son-12-que-tienen-alucinando-a-un-pais-y-una-liga-entera-la-marcianada-de-aday-mara-que-ya-es-viral-f202605-v/)
+  - topic: Aday Mara
+  - published: 2026-05-13 12:27
   - filter: duplicate in rolling 24h window
-- [Collboni sitúa como objetivo reducir a "cero" los cruceros con escala en Barcelona y subir la tasa](https://www.elperiodico.com/es/barcelona/20260513/collboni-situa-objetivo-reducir-cero-cruceros-escala-barcelona-subir-tasa-turistica-130201666) | Collboni sitúa como objetivo reducir a "cero" los cruceros con escala en Barcelona y subir la tasa | 2026-05-13 21:38
+- [Son 12″ que tienen alucinando a un país y una liga entera: la ‘marcianada’ de Aday Mara que ya es viral](https://as.com/baloncesto/videos/son-12-que-tienen-alucinando-a-un-pais-y-una-liga-entera-la-marcianada-de-aday-mara-que-ya-es-viral-f202605-v/)
+  - topic: Aday Mara
+  - published: 2026-05-13 12:27
   - filter: duplicate in rolling 24h window
-- [На Чернігівщині командир "прикривав" військових-прогульників](https://ua.korrespondent.net/ukraine/4878415-na-chernihivschyni-komandyr-prykryvav-viiskovykh-prohulnykiv) | Новини України | 2026-05-13 21:36
+- [Una “mancha” en el Bilbao Basket](https://as.com/baloncesto/una-mancha-en-el-bilbao-basket-f202605-n/)
+  - topic: Bilbao basket
+  - published: 2026-05-13 11:45
   - filter: duplicate in rolling 24h window
-- [El fondo británico Cap Capital adquiere Pronovias](https://www.elperiodico.com/es/economia/20260513/fondo-britanico-cap-capital-adquiere-129566205) | El fondo británico Cap Capital adquiere Pronovias | 2026-05-13 21:36
+- [El Manresa minimiza las opciones de playoff del Girona](https://as.com/baloncesto/acb/el-manresa-minimiza-las-opciones-de-playoff-del-girona-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-12 22:33
+  - filter: older than 24h
+- [Valencia sube de temperatura](https://as.com/opinion/valencia-sube-de-temperatura-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-12 19:13
+  - filter: older than 24h
+- [El Valencia, a un paso de la gesta del Madrid 2023](https://as.com/baloncesto/euroliga/el-valencia-a-un-paso-de-la-gesta-del-madrid-2023-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-12 17:16
+  - filter: older than 24h
+- [A Coruña será la sede de la Final Four 2026 en Primera FEB](https://as.com/baloncesto/mas_baloncesto/la-coruna-sera-la-sede-de-la-final-four-2026-en-primera-feb-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-12 15:34
+  - filter: older than 24h
+- [Golpe durísimo al Real Madrid: Tavares y Len se pierden la Final Four](https://as.com/baloncesto/euroliga/golpe-durisimo-al-real-madrid-tavares-y-len-se-pierden-la-final-four-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-12 15:18
+  - filter: older than 24h
+- [Jan Vesely se retira](https://as.com/baloncesto/jan-vesely-se-retira-f202605-n/)
+  - topic: Euroliga
+  - published: 2026-05-12 14:01
+  - filter: older than 24h
+- [El Bilbao Basket ya tiene himno](https://as.com/baloncesto/el-bilbao-basket-ya-tiene-himno-f202605-n/)
+  - topic: Bilbao basket
+  - published: 2026-05-12 13:36
+  - filter: older than 24h
+- [Pedro Martínez: “El factor cancha no es tan importante”](https://as.com/baloncesto/euroliga/pedro-martinez-el-factor-cancha-no-es-tan-importante-f202605-n/)
+  - topic: Valencia Basket Club
+  - published: 2026-05-12 13:17
+  - filter: older than 24h
+- [Doncic anuncia su baja con Eslovenia por cuestiones personales](https://as.com/baloncesto/mas_baloncesto/doncic-anuncia-su-baja-con-eslovenia-por-cuestiones-personales-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-12 11:33
+  - filter: older than 24h
+- [Jiménez: “Yo le puse Conan a Fernando Martín; y él me bautizó Jimix”](https://as.com/baloncesto/mas_baloncesto/jimenez-yo-le-puse-conan-a-fernando-martin-y-el-me-bautizo-jimix-f202605-n/)
+  - topic: Selección Española Baloncesto
+  - published: 2026-05-12 06:46
+  - filter: older than 24h
+- [Folgueiras, al frente del nuevo ‘training camp’ convocado por Chus Mateo](https://as.com/baloncesto/mas_baloncesto/folgueiras-al-frente-del-nuevo-training-camp-convocado-por-chus-mateo-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-11 13:34
+  - filter: older than 24h
+- [Key se rompe la nariz](https://as.com/baloncesto/euroliga/key-se-rompe-la-nariz-f202605-n/)
+  - topic: Valencia Basket Club
+  - published: 2026-05-11 12:39
+  - filter: older than 24h
+- [El Dubái se entromete en los planes de futuro del Barcelona](https://as.com/baloncesto/euroliga/el-dubai-se-entromete-en-los-planes-de-futuro-del-barcelona-f202605-n/)
+  - topic: Dubái BC
+  - published: 2026-05-11 12:13
+  - filter: older than 24h
+- [El Valencia Basket, finalista al límite](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-finalista-al-limite-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-10 21:26
+  - filter: older than 24h
+- [El Baskonia asalta el Roig Arena y aprieta  la clasificación](https://as.com/baloncesto/acb/baskonia-asalta-el-roig-arena-y-aprieta-la-clasificacion-f202605-n/)
+  - topic: Valencia Basket Club
+  - published: 2026-05-10 21:10
+  - filter: older than 24h
+- [Scariolo: “No quiero manchar públicamente la victoria del Breogán”](https://as.com/baloncesto/acb/scariolo-no-quiero-manchar-publicamente-la-victoria-del-breogan-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-10 20:44
+  - filter: older than 24h
+- [Así vivimos el Real Madrid-Río Breogán: Liga Endesa de baloncesto 2026](https://as.com/baloncesto/acb/real-madrid-rio-breogan-en-directo-liga-endesa-de-baloncesto-2026-en-vivo-hoy-f202605-d/)
+  - topic: Baloncesto
+  - published: 2026-05-10 19:41
+  - filter: older than 24h
+- [El Breogán asalta la pista del Madrid casi 24 años después](https://as.com/baloncesto/acb/el-breogan-asalta-la-pista-del-madrid-casi-24-anos-despues-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-10 19:29
+  - filter: older than 24h
+- [Resumen del Real Madrid vs Breogán, jornada 30 de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-breogan-jornada-30-de-la-liga-endesa-f202605-v/)
+  - topic: Liga ACB
+  - published: 2026-05-10 19:20
+  - filter: older than 24h
+- [Giannakopoulos reaparece: “Hemos enviado un vídeo a la Euroliga”](https://as.com/futbol/giannakopoulos-reaparece-hemos-enviado-un-video-a-la-euroliga-f202605-n/)
+  - topic: Valencia Basket Club
+  - published: 2026-05-10 15:56
+  - filter: older than 24h
+- [Pustovyi castiga al Baxi Manresa](https://as.com/baloncesto/acb/pustovyi-castiga-al-baxi-manresa-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-10 15:42
+  - filter: older than 24h
+- [El Lleida roza la salvación](https://as.com/baloncesto/el-lleida-roza-la-salvacion-f202605-n/)
+  - topic: Lleida bàsquet
+  - published: 2026-05-10 14:10
+  - filter: older than 24h
+- [En directo, Casademont Zaragoza-Perfumerías Avenidas de Liga Femenina Endesa](https://as.com/baloncesto/videos/en-directo-casademont-zaragoza-perfumerias-avenidas-de-liga-femenina-endesa-f202605-v/)
+  - topic: Baloncesto femenino
+  - published: 2026-05-10 12:29
+  - filter: older than 24h
+- [Scariolo entra en un selecto grupo](https://as.com/baloncesto/euroliga/scariolo-entra-en-un-selecto-grupo-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-10 08:01
+  - filter: older than 24h
+- [Lukosius se viste de héroe y le da la primera Champions al Rytas con una brutal remontada](https://as.com/baloncesto/mas_baloncesto/el-rytas-conquista-su-primer-titulo-con-una-remontada-memorable-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 22:27
+  - filter: older than 24h
+- [Un UCAM Murcia histórico](https://as.com/baloncesto/acb/un-ucam-murcia-historico-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 20:51
+  - filter: older than 24h
+- [Barcelona - Burgos: resumen y resultado, ACB (91-76)](https://as.com/baloncesto/acb/barcelona-burgos-en-directo-acb-liga-endesa-202526-hoy-en-vivo-f202605-d/)
+  - topic: Baloncesto
+  - published: 2026-05-09 20:48
+  - filter: older than 24h
+- [El mejor Núñez esboza una sonrisa al Barça](https://as.com/baloncesto/acb/el-mejor-nunez-esboza-una-sonrisa-al-barca-f202605-n/)
+  - topic: ACB
+  - published: 2026-05-09 20:40
+  - filter: older than 24h
+- [El Covirán Granada se da una vida extra](https://as.com/baloncesto/acb/el-coviran-granada-se-da-una-vida-extra-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 20:40
+  - filter: older than 24h
+- [El Unicaja pone algo de calma al caos](https://as.com/baloncesto/el-unicaja-pone-algo-de-calma-al-caos-f202605-n/)
+  - topic: Unicaja Málaga
+  - published: 2026-05-09 20:12
+  - filter: older than 24h
+- [Se completa la primera Final 6 de la Liga U](https://as.com/baloncesto/mas_baloncesto/se-completa-la-primera-final-6-de-la-liga-u-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 19:09
+  - filter: older than 24h
+- [El calendario no da tregua al Valencia](https://as.com/baloncesto/euroliga/el-calendario-no-da-tregua-al-valencia-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 18:57
+  - filter: older than 24h
+- [Así queda el playoff de ascenso a la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-queda-el-playoff-por-el-ascenso-a-la-liga-endesa-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 16:56
+  - filter: older than 24h
+- [El Madrid, casi un fijo en la Final Four](https://as.com/baloncesto/euroliga/el-madrid-casi-un-fijo-en-la-final-four-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-09 16:30
+  - filter: older than 24h
+- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/)
+  - topic: Unicaja Málaga
+  - published: 2026-05-09 15:31
+  - filter: older than 24h
+- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/)
+  - topic: Unicaja Málaga
+  - published: 2026-05-09 15:31
+  - filter: older than 24h
+- [Ataman calienta el quinto partido: “Nunca había visto algo tan extraño”](https://as.com/baloncesto/euroliga/ataman-calienta-el-quinto-partido-en-valencia-nunca-habia-visto-cosas-tan-extranas-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 23:55
+  - filter: older than 24h
+- [Panathinaikos - Valencia: resumen y resultado, Playoff Euroliga (86-89)](https://as.com/baloncesto/euroliga/panathinaikos-valencia-4-en-directo-playoff-euroliga-2026-hoy-en-vivo-f202605-d/)
+  - topic: Euroliga
+  - published: 2026-05-08 23:38
+  - filter: older than 24h
+- [El Fenerbahçe sigue su camino: 3-1 y a la Final Four](https://as.com/baloncesto/euroliga/el-fenerbahce-sigue-su-camino-3-1-y-a-la-final-four-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 23:35
+  - filter: older than 24h
+- [Épico Valencia Basket](https://as.com/baloncesto/euroliga/epico-valencia-basket-f202605-n/)
+  - topic: Euroliga
+  - published: 2026-05-08 23:11
+  - filter: older than 24h
+- [El Monbus Obradoiro regresa a la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/el-monbus-obradoiro-regresa-a-la-liga-endesa-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 22:49
+  - filter: older than 24h
+- [Sigue en directo el CB Canarias vs. Basquet Girona de Liga U](https://as.com/baloncesto/sigue-en-directo-el-cb-canarias-vs-basquet-girona-de-liga-u-f202605-v/)
+  - topic: Baloncesto
+  - published: 2026-05-08 20:56
+  - filter: older than 24h
+- [Casimiro: “Este Real Madrid puede jugar a 130 puntos o a 60″](https://as.com/baloncesto/acb/casimiro-este-real-madrid-puede-jugar-a-130-puntos-o-a-60-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 19:29
+  - filter: older than 24h
+- [Chris Duarte explota contra el Unicaja: “Una soga me tiene atado”](https://as.com/baloncesto/chris-duarte-explota-contra-el-unicaja-una-soga-me-tiene-atado-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 18:41
+  - filter: older than 24h
+- [Las cuentas de la última jornada en la Primera FEB](https://as.com/baloncesto/mas_baloncesto/las-cuentas-de-la-ultima-jornada-en-la-primera-feb-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 18:01
+  - filter: older than 24h
+- [Los ACB copan los premios de la Champions](https://as.com/baloncesto/los-acb-copan-los-premios-de-la-champions-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 14:41
+  - filter: older than 24h
+- [El Bilbao Basket, orgullo de la ACB](https://as.com/baloncesto/el-bilbao-basket-orgullo-de-la-acb-f202605-n/)
+  - topic: FIBA Europe Cup
+  - published: 2026-05-08 13:37
+  - filter: older than 24h
+- [La Euroliga bate récords: de asistencia, audiencias y en redes](https://as.com/baloncesto/euroliga/numeros-euroliga-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 12:08
+  - filter: older than 24h
+- [Gracia Alonso de Armiño y Juana Camilión lideran la lista para la Copa del Mundo 3x3](https://as.com/baloncesto/mas_baloncesto/gracia-alonso-de-armino-y-juana-camilion-lideran-la-lista-para-la-copa-del-mundo-3x3-f202605-n/)
+  - topic: Baloncesto femenino
+  - published: 2026-05-08 12:01
+  - filter: older than 24h
+- [La NBA redistribuirá 3.000 millones en la nueva competición europea](https://as.com/baloncesto/euroliga/la-nba-pondra-3000-millones-en-europa-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-08 10:09
+  - filter: older than 24h
+- [Unicaja - AEK: resumen y resultado, Champions FIBA 2026 (65-78)](https://as.com/baloncesto/mas_baloncesto/unicaja-aek-en-directo-champions-fiba-2026-en-vivo-hoy-f202605-d/)
+  - topic: Baloncesto
+  - published: 2026-05-07 23:41
+  - filter: older than 24h
+- [Hapoel - Real Madrid: resumen y resultado, Playoff Euroliga (81-87)](https://as.com/baloncesto/euroliga/hapoel-real-madrid-4-en-directo-playoff-euroliga-2026-hoy-en-vivo-f202605-d/)
+  - topic: Euroliga
+  - published: 2026-05-07 23:34
+  - filter: older than 24h
+- [Resumen del Hapoel vs. Real Madrid de Euroliga](https://as.com/videos/euroliga/resumen-del-hapoel-vs-real-madrid-de-euroliga-f202605-v/)
+  - topic: Baloncesto
+  - published: 2026-05-07 23:33
+  - filter: older than 24h
+- [Recado de Tavares: “Disfrázate de agencia de viajes y te vas para tu casa”](https://as.com/baloncesto/euroliga/recado-de-tavares-disfrazate-de-agencia-de-viajes-y-te-vas-para-tu-casa-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-07 23:27
+  - filter: older than 24h
+- [Duro final de reinado](https://as.com/baloncesto/duro-final-de-reinado-f202605-n/)
+  - topic: Unicaja Málaga
+  - published: 2026-05-07 23:24
+  - filter: older than 24h
+- [El rugido de Garuba](https://as.com/opinion/el-rugido-de-garuba-f202605-n/)
+  - topic: Usman Garuba
+  - published: 2026-05-07 23:04
+  - filter: older than 24h
+- [Scariolo: “Hemos devuelto al Madrid al lugar donde debe estar”](https://as.com/baloncesto/euroliga/scariolo-hemos-devuelto-al-madrid-al-lugar-donde-debe-estar-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-07 22:49
+  - filter: older than 24h
+- [Iyana manda al Avenida con ventaja a Zaragoza](https://as.com/baloncesto/mas_baloncesto/iyana-manda-al-avenida-con-ventaja-a-zaragoza-f202605-n/)
+  - topic: Baloncesto femenino
+  - published: 2026-05-07 22:43
+  - filter: older than 24h
+- [El Madrid está de vuelta](https://as.com/baloncesto/euroliga/el-madrid-esta-de-vuelta-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-07 22:24
+  - filter: older than 24h
+- [El Valencia pierde una gran oportunidad](https://as.com/baloncesto/mas_baloncesto/el-valencia-pierde-una-gran-oportunidad-f202605-n/)
+  - topic: Baloncesto femenino
+  - published: 2026-05-07 21:19
+  - filter: older than 24h
+- [Resumen y resultado del Rytas Vilna - La Laguna Tenerife: Champions FIBA 2025-26](https://as.com/baloncesto/mas_baloncesto/rytas-vilna-la-laguna-tenerife-en-directo-champions-fiba-2026-en-vivo-hoy-f202605-d/)
+  - topic: Baloncesto
+  - published: 2026-05-07 21:02
+  - filter: older than 24h
+- [BaCaLá de La Laguna Tenerife](https://as.com/baloncesto/bacala-de-la-laguna-tenerife-f202605-n/)
+  - topic: CB Canarias
+  - published: 2026-05-07 20:57
+  - filter: older than 24h
+- [El playoff de la Liga Endesa empezará el 2 de junio y acabará como muy tarde el 28 de junio](https://as.com/baloncesto/acb/el-playoff-de-la-liga-endesa-empezara-el-2-de-junio-y-acabara-como-muy-tarde-el-28-de-junio-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-07 15:15
+  - filter: older than 24h
+- [Diez jugadores para la concentración previa a la Copa del Mundo](https://as.com/baloncesto/mas_baloncesto/diez-jugadores-para-la-concentracion-previa-a-la-copa-del-mundo-f202605-n/)
+  - topic: Baloncesto 3x3
+  - published: 2026-05-07 14:23
+  - filter: older than 24h
+- [Clyburn, obligado a parar hasta el ‘playoff’ por un problema de corazón](https://as.com/baloncesto/acb/clyburn-obligado-a-parar-hasta-el-playoff-por-un-problema-de-corazon-f202605-n/)
+  - topic: FC Barcelona baloncesto
+  - published: 2026-05-05 09:45
+  - filter: older than 24h
+- [Hezonja baja los precios del baloncesto](https://as.com/baloncesto/acb/hezonja-baja-los-precios-del-baloncesto-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-04 13:46
+  - filter: older than 24h
+- [‘Supermario’ Hezonja firma el partido del siglo](https://as.com/baloncesto/acb/supermario-hezonja-firma-el-partido-del-siglo-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-03 15:14
+  - filter: older than 24h
+- [El partido de récord de Supermario: “Ganar así sabe mejor”](https://as.com/baloncesto/acb/el-partido-de-record-de-supermario-ganar-asi-sabe-mejor-f202605-n/)
+  - topic: Baloncesto
+  - published: 2026-05-03 15:14
+  - filter: older than 24h
+- [Cerca de 30.000 personas abarrotan la Virgen Blanca](https://as.com/futbol/cerca-de-30000-personas-abarrotan-la-virgen-blanca-f202602-n/)
+  - topic: Baskonia
+  - published: 2026-02-24 21:18
+  - filter: older than 24h
+- [Pedro Martínez critica el arbitraje frente al Madrid](https://as.com/baloncesto/copa_del_rey/pedro-martinez-critica-el-arbitraje-frente-al-madrid-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-24 16:10
+  - filter: older than 24h
+- [El Baskonia vuelve a rugir](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-rugir-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-24 06:43
+  - filter: older than 24h
+- [Mason Broyles, otro invitado del Madrid que se lleva el MVP](https://as.com/baloncesto/copa_del_rey/mason-broyne-otro-invitado-del-madrid-que-se-lleva-el-mvp-f202602-n/)
+  - topic: Baloncesto cantera
+  - published: 2026-02-23 11:23
+  - filter: older than 24h
+- [Scariolo: “Nos ha faltado un poco de todo”](https://as.com/baloncesto/scariolo-nos-ha-faltado-un-poco-de-todo-f202602-n/)
+  - topic: Real Madrid baloncesto
+  - published: 2026-02-23 09:49
+  - filter: older than 24h
+- [Los seis males del Madrid en la final](https://as.com/baloncesto/copa_del_rey/los-seis-males-del-madrid-en-la-final-f202602-n/)
+  - topic: Copa Rey Baloncesto
+  - published: 2026-02-23 09:08
+  - filter: older than 24h
+- [Real Madrid - Baskonia hoy, en directo: reacciones de última hora a la final de Copa del Rey 2026, en vivo](https://as.com/baloncesto/copa_del_rey/real-madrid-baskonia-en-directo-final-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/)
+  - topic: Baloncesto
+  - published: 2026-02-22 22:44
+  - filter: older than 24h
+- [Galbiati: “Soy un superviviente, en noviembre pudieron echarme”](https://as.com/futbol/galbiati-soy-un-superviviente-en-noviembre-pudieron-echarme-f202602-n/)
+  - topic: Baskonia
+  - published: 2026-02-22 22:23
+  - filter: older than 24h
+- [El Milagro de Paolo Galbiati](https://as.com/opinion/el-milagro-de-paolo-galbiati-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-22 22:09
+  - filter: older than 24h
+- [El Madrid de Scariolo no remata](https://as.com/baloncesto/copa_del_rey/el-madrid-de-scariolo-no-remata-f202602-n/)
+  - topic: Copa Rey Baloncesto
+  - published: 2026-02-22 22:00
+  - filter: older than 24h
+- [Galbiati, especialista en Copas](https://as.com/baloncesto/copa_del_rey/galbiati-especialista-en-copas-f202602-n/)
+  - topic: Liga ACB
+  - published: 2026-02-22 21:57
+  - filter: older than 24h
+- [Baskonia es la magia de la Copa](https://as.com/opinion/baskonia-es-la-magia-de-la-copa-f202602-n/)
+  - topic: Baskonia
+  - published: 2026-02-22 21:49
+  - filter: older than 24h
+- [Baskonia vuelve a ser gigante](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-reinar-f202602-n/)
+  - topic: Baskonia
+  - published: 2026-02-22 21:32
+  - filter: older than 24h
+- [Trent Forrest, MVP de la Copa](https://as.com/baloncesto/copa_del_rey/trent-forrest-mvp-de-la-copa-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-22 21:19
+  - filter: older than 24h
+- [Palmarés de la Copa del Rey de baloncesto: quién tiene más títulos y cuántas ha ganado cada equipo](https://as.com/baloncesto/copa_del_rey/palmares-de-la-copa-del-rey-de-baloncesto-quien-tiene-mas-titulos-y-cuantas-ha-ganado-cada-equipo-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-22 21:04
+  - filter: older than 24h
+- [Y ahora, la final de verdad](https://as.com/baloncesto/copa_del_rey/y-ahora-la-final-de-verdad-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-22 18:55
+  - filter: older than 24h
+- [¿A qué hora es la final de la Copa del Rey de baloncesto? TV, horario, cómo y dónde ver online el Real Madrid - Baskonia](https://as.com/baloncesto/copa_del_rey/a-que-hora-es-el-real-madrid-baskonia-hoy-tv-horario-como-y-donde-ver-en-directo-la-final-de-la-copa-del-rey-2026-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-22 18:26
+  - filter: older than 24h
+- [Resumen y resultado del Valencia - Real Madrid: final de la MiniCopa Endesa](https://as.com/baloncesto/copa_del_rey/valencia-basket-real-madrid-en-directo-final-de-la-minicopa-endesa-2026-en-vivo-hoy-f202602-d/)
+  - topic: Baloncesto
+  - published: 2026-02-22 15:14
+  - filter: older than 24h
+- [El Real Madrid levanta su décima Minicopa Endesa tras vencer al Valencia](https://as.com/baloncesto/el-real-madrid-levanta-su-decima-minicopa-endesa-tras-vencer-al-valencia-f202602-n/)
+  - topic: Valencia Basket Club
+  - published: 2026-02-22 15:13
+  - filter: older than 24h
+- [Las reacciones al triple de Hezonja](https://as.com/baloncesto/copa_del_rey/las-reacciones-al-triple-de-hezonja-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-22 12:07
+  - filter: older than 24h
+- [Barcelona - Baskonia: resumen y resultado, Copa del Rey de baloncesto 2026 (67-70)](https://as.com/baloncesto/copa_del_rey/barcelona-baskonia-en-directo-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/)
+  - topic: Baloncesto
+  - published: 2026-02-22 01:11
+  - filter: older than 24h
+- [¿Cuándo y a qué hora es la final de la Minicopa? TV, horario y cómo ver online el Valencia - Real Madrid](https://as.com/baloncesto/copa_del_rey/cuando-y-a-que-hora-es-la-final-de-la-minicopa-tv-horario-y-como-ver-online-el-valencia-real-madrid-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-21 23:43
+  - filter: older than 24h
+- [El Baskonia evita otro Clásico](https://as.com/baloncesto/copa_del_rey/el-baskonia-evita-otro-clasico-f202602-n/)
+  - topic: FC Barcelona baloncesto
+  - published: 2026-02-21 23:30
+  - filter: older than 24h
+- [Galbiati: “El Real Madrid tiene doce fenómenos”](https://as.com/baloncesto/copa_del_rey/galbiati-el-real-madrid-tiene-doce-fenomenos-f202602-n/)
+  - topic: FC Barcelona baloncesto
+  - published: 2026-02-21 23:27
+  - filter: older than 24h
+- [Supermario Hezonja firma una remontada antológica](https://as.com/baloncesto/copa_del_rey/supermario-hezonja-firma-una-remontada-antologica-f202602-n/)
+  - topic: Baloncesto
+  - published: 2026-02-21 20:52
+  - filter: older than 24h
+- [Jaime Fernández, baja de peso para el España-Georgia](https://as.com/baloncesto/mundial_baloncesto/jaime-fernandez-baja-de-peso-para-el-espana-georgia-f202511-n/)
+  - topic: FEB
+  - published: 2025-11-29 12:56
+  - filter: older than 24h
+- [España pierde el liderato y pasa a octavos como segunda](https://as.com/baloncesto/mundial_baloncesto/espana-pierde-el-liderato-y-pasa-a-octavos-como-segunda-n/)
+  - topic: Baloncesto
+  - published: 2025-08-04 21:43
+  - filter: older than 24h
+- [España - Bélgica: horario, TV y dónde ver la final del Eurobasket 2025](https://as.com/baloncesto/mundial_baloncesto/espana-belgica-horario-tv-y-donde-ver-la-final-del-eurobasket-2025-n/)
+  - topic: Baloncesto
+  - published: 2025-06-29 05:49
+  - filter: older than 24h
+- [España, contra Georgia y dos rivales de la previa](https://as.com/baloncesto/mundial_baloncesto/espana-contra-georgia-y-dos-rivales-de-la-previa-n/)
+  - topic: Selección Española Baloncesto
+  - published: 2025-05-13 19:41
+  - filter: older than 24h
+- [Resumen y resultado del Estados Unidos - Montenegro: Mundial 2023](https://as.com/us/masdeporte/estados-unidos-montenegro-en-directo-mundial-2023-en-vivo-hoy-n/)
+  - topic: Baloncesto
+  - published: 2024-10-10 11:30
+  - filter: older than 24h
+- [En Islandia sin Scariolo](https://as.com/baloncesto/mundial_baloncesto/en-islandia-sin-scariolo-n/)
+  - topic: Baloncesto
+  - published: 2024-10-08 17:11
+  - filter: older than 24h
+- [Resumen y resultado del España - Canadá: Mundial 2023](https://as.com/baloncesto/mundial_baloncesto/espana-canada-en-directo-mundial-de-baloncesto-2023-en-vivo-hoy-n/)
+  - topic: Baloncesto
+  - published: 2024-10-08 17:10
+  - filter: older than 24h
+- [España se mete en la boca del lobo](https://as.com/baloncesto/mundial_baloncesto/espana-se-mete-en-la-boca-del-lobo-n/)
+  - topic: Mundial Baloncesto
+  - published: 2024-10-08 17:10
+  - filter: older than 24h
+- [Estados Unidos - Alemania, Mundial 2023: resumen y resultado (111-113)](https://as.com/us/masdeporte/estados-unidos-alemania-en-directo-mundial-baloncesto-2023-hoy-en-vivo-n/)
+  - topic: Mundial Baloncesto
+  - published: 2024-10-08 17:09
+  - filter: older than 24h
+- [Porzingis echa la culpa de su ausencia en el Mundial a unas zapatillas](https://as.com/baloncesto/mundial_baloncesto/porzingis-echa-la-culpa-de-su-ausencia-en-el-mundial-a-unas-zapatillas-n/)
+  - topic: NBA
+  - published: 2023-10-09 10:00
+  - filter: older than 24h
+- [La intrahistoria de Zagars, el verdugo de España: “Triplicó su dinero después del Mundial”](https://as.com/baloncesto/eurocup/la-intrahistoria-del-verdugo-de-espana-triplico-su-dinero-despues-del-mundial-n/)
+  - topic: Baloncesto
+  - published: 2023-09-26 07:46
+  - filter: older than 24h
+- [Rondae Hollis-Jefferson sale a flote gracias a un Mundial viral](https://as.com/baloncesto/mundial_baloncesto/rondae-hollis-jefferson-sale-a-flote-gracias-a-un-mundial-viral-n/)
+  - topic: Mundial Baloncesto
+  - published: 2023-09-20 10:00
+  - filter: older than 24h
+- [Doncic se despide con victoria y Zagars hace historia](https://as.com/baloncesto/mundial_baloncesto/doncic-se-despide-con-victoria-y-rozando-el-triple-doble-n/)
+  - topic: Mundial Baloncesto
+  - published: 2023-09-13 15:38
+  - filter: older than 24h
+- [Svetislav Pesic, un ‘old school’ para la eternidad](https://as.com/baloncesto/mundial_baloncesto/svetislav-pesic-un-old-school-para-la-eternidad-n/)
+  - topic: Baloncesto
+  - published: 2023-09-13 09:06
+  - filter: older than 24h
+- [Alemania, un campeón en crecimiento](https://as.com/baloncesto/mundial_baloncesto/alemania-un-campeon-en-crecimiento-n/)
+  - topic: Baloncesto
+  - published: 2023-09-13 08:36
+  - filter: older than 24h
+- [Dillon Brooks se desmelena: “Si no piensas así, no te gusta el baloncesto”](https://as.com/baloncesto/mundial_baloncesto/dillon-brooks-se-desmelena-si-no-piensas-asi-no-te-gusta-el-baloncesto-n/)
+  - topic: Baloncesto
+  - published: 2023-09-11 13:43
+  - filter: older than 24h
+- [Canadá, árbitros, Zagars, Francia… Lo mejor y lo peor del Mundial](https://as.com/baloncesto/mundial_baloncesto/canada-arbitros-zagars-francia-lo-mejor-y-lo-peor-del-mundial-n/)
+  - topic: Baloncesto
+  - published: 2023-09-11 11:57
+  - filter: older than 24h
+- [Histórico Jordi Fernández: un español sin techo en los banquillos de la NBA](https://as.com/baloncesto/mundial_baloncesto/historico-jordi-fernandez-un-espanol-sin-techo-en-los-banquillos-de-la-nba-n-2/)
+  - topic: Baloncesto
+  - published: 2023-09-11 08:40
+  - filter: older than 24h
+- [Dennis Schroder, el MVP que domina el ‘skate’](https://as.com/baloncesto/dennis-schorder-el-mvp-que-domina-el-skate-n/)
+  - topic: Baloncesto
+  - published: 2023-09-10 17:02
+  - filter: older than 24h
+- [Alemania se sienta en el trono](https://as.com/baloncesto/mundial_baloncesto/alemania-se-sienta-en-el-trono-n/)
+  - topic: Mundial Baloncesto
+  - published: 2023-09-10 16:51
+  - filter: older than 24h
+- [Una Canadá de presente y futuro deja sin medalla a Estados Unidos](https://as.com/us/masdeporte/una-canada-de-presente-y-futuro-deja-sin-medalla-a-estados-unidos-n/)
+  - topic: Mundial Baloncesto
+  - published: 2023-09-10 13:13
+  - filter: older than 24h
+- [El lobo serbio contra el ogro alemán](https://as.com/baloncesto/mundial_baloncesto/el-lobo-serbio-contra-el-ogro-aleman-n/)
+  - topic: Mundial Baloncesto
+  - published: 2023-09-10 08:18
+  - filter: older than 24h
+- [Domingo sin corona](https://as.com/opinion/domingo-sin-corona-n/)
+  - topic: Selección española baloncesto
+  - published: 2023-09-09 21:04
+  - filter: older than 24h
+- [Doncic: “La pierna no está bien”](https://as.com/baloncesto/mundial_baloncesto/luka-doncic-la-pierna-no-esta-bien-n/)
+  - topic: Mundial Baloncesto
+  - published: 2023-09-09 06:25
+  - filter: older than 24h
+- [Eurobasket en Manila](https://as.com/opinion/eurobasket-en-manila-n/)
+  - topic: Selección baloncesto Alemania
+  - published: 2023-09-08 22:08
+  - filter: older than 24h
+- [Bogdanovic entierra el sueño de Canadá](https://as.com/baloncesto/mundial_baloncesto/bogdanovic-entierra-el-sueno-de-canada-n/)
+  - topic: Baloncesto
+  - published: 2023-09-08 12:46
+  - filter: older than 24h
+
+### elperiodico.com
+- [El PSOE apela a lo que fue en Andalucía para no hundirse en la depresión: “Nos jugamos la vida”](https://www.elperiodico.com/es/politica/20260513/psoe-apela-andalucia-hundirse-depresion-130202445)
+  - topic: psoe
+  - published: 2026-05-13 22:11
   - filter: duplicate in rolling 24h window
-- [Lo urgente: Ormuz, no Pekín](https://www.elperiodico.com/es/opinion/20260513/urgente-ormuz-pekin-trump-pekin-articulo-joan-tapia-130201463) | Lo urgente: Ormuz, no Pekín | 2026-05-13 21:36
+- [Manolo rompe a llorar con el triunfo del Espanyol: "La liberación es muy grande, queda un último paso para alcanzar el puñetero objetivo"](https://www.elperiodico.com/es/deportes/20260513/manolo-rompe-llorar-triunfo-espanyol-130202013)
+  - topic: manolo
+  - published: 2026-05-13 22:07
   - filter: duplicate in rolling 24h window
-- [La debilidad de Trump abre la puerta a concesiones inéditas a China en el estatus de Taiwán](https://www.elperiodico.com/es/internacional/20260513/debilidad-trump-abre-puerta-concesiones-ineditas-china-taiwan-130201586) | La debilidad de Trump abre la puerta a concesiones inéditas a China en el estatus de Taiwán | 2026-05-13 21:30
+- [Enrique Riquelme pide a Florentino Pérez acordar un proceso electoral "más amplio" y acorde a las "democracias modernas"](https://www.elperiodico.com/es/deportes/20260513/enrique-riquelme-pide-florentino-perez-130202201)
+  - topic: enrique
+  - published: 2026-05-13 22:05
   - filter: duplicate in rolling 24h window
-- [La Sociedad Española de Neurología lanza una guía para "mejorar la comprensión social de la migraña y su impacto real"](https://www.elperiodico.com/es/salud/20260513/sociedad-espanola-neurologia-lanza-guia-mejorar-comprension-social-migrana-130198277) | La Sociedad Española de Neurología lanza una guía para "mejorar la comprensión social de la migraña y su impacto real" | 2026-05-13 21:30
+- [Lo tenemos cerca, lo tenemos cerca... por Sergi Mas](https://www.elperiodico.com/es/deportes/20260513/tenemos-cerca-salvacion-sergi-mas-130201798)
+  - topic: tenemos
+  - published: 2026-05-13 21:50
   - filter: duplicate in rolling 24h window
-- [El Asvel deja solo al Madrid](https://as.com/baloncesto/euroliga/el-asvel-deja-solo-al-madrid-f202605-n/) | Baloncesto | 2026-05-13 21:22
+- [Acuerdo en el ERE de Glovo: los despidos bajan de 750 a 436 'riders'](https://www.elperiodico.com/es/economia/20260513/glovo-ere-acuerdo-despidos-repartidores-130201774)
+  - topic: glovo
+  - published: 2026-05-13 21:49
   - filter: duplicate in rolling 24h window
-- [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain) | Новини світу | 2026-05-13 21:20
+- [Florentino: "El Barça haría muy bien en demandarme si cree que tiene que hacerlo"](https://www.elperiodico.com/es/deportes/20260513/florentino-barca-haria-demandarme-cree-130201989)
+  - topic: florentino
+  - published: 2026-05-13 21:47
   - filter: duplicate in rolling 24h window
-- [НАТО запросить країни Перської затоки на саміт Альянсу - ЗМІ](https://ua.korrespondent.net/world/4878413-nato-zaprosyt-krainy-perskoi-zatoky-na-samit-aliansu-zmi) | Новини світу | 2026-05-13 21:15
+- [Collboni sitúa como objetivo reducir a "cero" los cruceros con escala en Barcelona y subir la tasa](https://www.elperiodico.com/es/barcelona/20260513/collboni-situa-objetivo-reducir-cero-cruceros-escala-barcelona-subir-tasa-turistica-130201666)
+  - topic: collboni
+  - published: 2026-05-13 21:38
   - filter: duplicate in rolling 24h window
-- [Cannes se rinde al delirio cinéfago de Jane Schoenbrun](https://www.elperiodico.com/es/ocio-y-cultura/20260513/cannes-rinde-delirio-cinefago-jane-schoenbrun-130200502) | Cannes se rinde al delirio cinéfago de Jane Schoenbrun | 2026-05-13 21:15
+- [El fondo británico Cap Capital adquiere Pronovias](https://www.elperiodico.com/es/economia/20260513/fondo-britanico-cap-capital-adquiere-129566205)
+  - topic: fondo
+  - published: 2026-05-13 21:36
   - filter: duplicate in rolling 24h window
-- [Alavés - Barcelona, en directo el partido de Liga en Mendizorroza](https://www.elperiodico.com/es/deportes/20260513/alaves-barcelona-directo-partido-liga-130176990) | Alavés - Barcelona, en directo el partido de Liga en Mendizorroza | 2026-05-13 21:11
+- [Lo urgente: Ormuz, no Pekín](https://www.elperiodico.com/es/opinion/20260513/urgente-ormuz-pekin-trump-pekin-articulo-joan-tapia-130201463)
+  - topic: urgente
+  - published: 2026-05-13 21:36
   - filter: duplicate in rolling 24h window
-- [Acuerdo en el ERE de Glovo: los despidos bajan de 750 a 436 'riders'](https://www.elperiodico.com/es/economia/20260513/glovo-acuerda-sindicatos-ere-afectara-436-repartidores-130201090) | Acuerdo en el ERE de Glovo: los despidos bajan de 750 a 436 'riders' | 2026-05-13 21:09
+- [La debilidad de Trump abre la puerta a concesiones inéditas a China sobre Taiwán](https://www.elperiodico.com/es/internacional/20260513/debilidad-trump-abre-puerta-concesiones-ineditas-china-taiwan-130201586)
+  - topic: debilidad
+  - published: 2026-05-13 21:30
   - filter: duplicate in rolling 24h window
-- [El Espanyol gana cinco meses después, desata el éxtasis en Cornellà y avanza hacia la salvación](https://www.elperiodico.com/es/deportes/20260513/espanyol-gana-cinco-meses-despues-130200539) | El Espanyol gana cinco meses después, desata el éxtasis en Cornellà y avanza hacia la salvación | 2026-05-13 21:02
+- [La Sociedad Española de Neurología lanza una guía para "mejorar la comprensión social de la migraña y su impacto real"](https://www.elperiodico.com/es/salud/20260513/sociedad-espanola-neurologia-lanza-guia-mejorar-comprension-social-migrana-130198277)
+  - topic: sociedad
+  - published: 2026-05-13 21:30
   - filter: duplicate in rolling 24h window
-- [La alineación del Barça ante el Alavés: debuta Cortés, otro canterano](https://www.elperiodico.com/es/deportes/20260513/alineacion-barca-alaves-debuta-cortes-130199622) | La alineación del Barça ante el Alavés: debuta Cortés, otro canterano | 2026-05-13 21:01
+- [Cannes se rinde al delirio cinéfago de Jane Schoenbrun](https://www.elperiodico.com/es/ocio-y-cultura/20260513/cannes-rinde-delirio-cinefago-jane-schoenbrun-130200502)
+  - topic: cannes
+  - published: 2026-05-13 21:15
   - filter: duplicate in rolling 24h window
-- [Cita con los ángeles](https://as.com/baloncesto/euroliga/cita-con-los-angeles-f202605-n/) | Valencia Basket Club | 2026-05-13 21:01
+- [Alavés - Barcelona, en directo el partido de Liga en Mendizorroza](https://www.elperiodico.com/es/deportes/20260513/alaves-barcelona-directo-partido-liga-130176990)
+  - topic: alaves
+  - published: 2026-05-13 21:11
   - filter: duplicate in rolling 24h window
-- [El 40% de los conductores en España preferiría tener un coche en renting antes que comprarlo](https://www.elperiodico.com/es/motor/20260513/40-conductores-espana-preferiria-coche-renting-130190964) | El 40% de los conductores en España preferiría tener un coche en renting antes que comprarlo | 2026-05-13 21:00
+- [El Espanyol gana cinco meses después, desata el éxtasis en Cornellà y avanza hacia la salvación](https://www.elperiodico.com/es/deportes/20260513/espanyol-gana-cinco-meses-despues-130200539)
+  - topic: espanyol
+  - published: 2026-05-13 21:02
   - filter: duplicate in rolling 24h window
-- [El horóscopo de mañana, jueves 14 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco](https://www.elperiodico.com/es/vida-y-estilo/20260513/horoscopo-hoy-jueves-14-mayo-dv-129926955) | El horóscopo de mañana, jueves 14 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco | 2026-05-13 21:00
+- [La alineación del Barça ante el Alavés: debuta Cortés, otro canterano](https://www.elperiodico.com/es/deportes/20260513/alineacion-barca-alaves-debuta-cortes-130199622)
+  - topic: alineacion
+  - published: 2026-05-13 21:01
   - filter: duplicate in rolling 24h window
-- [Un halcón entre dudas sobre su independencia: comienza la era de Kevin Warsh en la Fed](https://www.elperiodico.com/es/economia/20260513/halcon-dudas-independencia-comienza-kevin-130200445) | Un halcón entre dudas sobre su independencia: comienza la era de Kevin Warsh en la Fed | 2026-05-13 20:51
+- [El 40% de los conductores en España preferiría tener un coche en renting antes que comprarlo](https://www.elperiodico.com/es/motor/20260513/40-conductores-espana-preferiria-coche-renting-130190964)
+  - topic: 40
+  - published: 2026-05-13 21:00
   - filter: duplicate in rolling 24h window
-- [Нафтовидобуток РФ впав до рівня пандемії 2020 року](https://ua.korrespondent.net/business/economics/4878410-naftovydobutok-rf-vpav-do-rivnia-pandemii-2020-roku) | Новини економіки | 2026-05-13 20:48
+- [El horóscopo de mañana, jueves 14 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco](https://www.elperiodico.com/es/vida-y-estilo/20260513/horoscopo-hoy-jueves-14-mayo-dv-129926955)
+  - topic: horoscopo
+  - published: 2026-05-13 21:00
   - filter: duplicate in rolling 24h window
-- [MG представила нове флагманське авто 07 у Китаї](https://ua.korrespondent.net/lifestyle/motors/4878408-MG-predstavyla-nove-flahmanske-avto-07-u-kytai) | Автомобілі | 2026-05-13 20:44
+- [Un halcón entre dudas sobre su independencia: comienza la era de Kevin Warsh en la Fed](https://www.elperiodico.com/es/economia/20260513/halcon-dudas-independencia-comienza-kevin-130200445)
+  - topic: halcon
+  - published: 2026-05-13 20:51
+  - filter: duplicate in rolling 24h window
+- [MotoGP llega al corazón de Barcelona](https://www.elperiodico.com/es/deportes/20260513/motogp-llega-corazon-barcelona-130187213)
+  - topic: motogp
+  - published: 2026-05-13 20:43
+  - filter: duplicate in rolling 24h window
+- [Una familia busca casa al perder todo en la explosión de Poblenou | Vídeo reportaje](https://www.elperiodico.com/es/videos/barcelona/familia-busca-casa-perder-explosion-poblenou-incendio-piso-bombona-video/130199980.shtml)
+  - topic: familia
+  - published: 2026-05-13 20:41
+  - filter: duplicate in rolling 24h window
+- ["Pensaba que había caído una bomba": una familia pierde su casa en la explosión del Poblenou y una vecina les da refugio](https://www.elperiodico.com/es/barcelona/20260513/explosion-poblenou-familia-bebe-pierde-casa-vecina-acoge-130186083)
+  - topic: explosion-poblenou-familia-bebe-pierde-casa-vecina-acoge
+  - published: 2026-05-13 20:15
+  - filter: duplicate in rolling 24h window
+- [Educació y sindicatos se sientan a negociar tras tres huelgas generales y más de mil centros amenazando con no ir de colonias](https://www.elperiodico.com/es/sociedad/20260513/huelga-profesores-reunion-conselleria-educacio-sindicatos-cataluna-negociaciones-130184827)
+  - topic: huelga profesores reunion conselleria educacio sindicatos cataluna
+  - published: 2026-05-13 20:15
+  - filter: duplicate in rolling 24h window
+- [Una familia busca casa al perder todo en la explosión de Poblenou | Vídeo reportaje](https://www.elperiodico.com/es/videos/barcelona/familia-busca-casa-perder-explosion-bombona-poblenou-piso-incendio-video/130199479.shtml)
+  - topic: familia
+  - published: 2026-05-13 20:15
+  - filter: duplicate in rolling 24h window
+- [Los sindicatos de profesores consideran "insuficientes" las explicaciones de Parlon y Trapero y reclaman su dimisión](https://www.elperiodico.com/es/politica/20260513/sindicatos-profesores-consideran-insuficientes-explicaciones-dimision-parlon-trapero-130199612)
+  - topic: sindicatos
+  - published: 2026-05-13 20:14
+  - filter: duplicate in rolling 24h window
+- [Gio Garbelini, la estrella del Atlético de Madrid que denunció públicamente al Barça](https://www.elperiodico.com/es/deportes/20260513/gio-queiroz-estrella-atletico-madrid-130196129)
+  - topic: gio
+  - published: 2026-05-13 19:45
+  - filter: duplicate in rolling 24h window
+- [Cuerpo cifra en un punto del IPC el impacto de las medidas del Gobierno ante la guerra de Irán](https://www.elperiodico.com/es/economia/20260513/cuerpo-destaca-escudo-economico-gobierno-130194076)
+  - topic: cuerpo
+  - published: 2026-05-13 19:45
+  - filter: duplicate in rolling 24h window
+- [Los pasajeros del 'MV Hondius' que no hayan sido evacuados a sus países de origen harán cuarentena en Países Bajos](https://www.elperiodico.com/es/sanidad/20260513/pasajeros-mv-hondius-cuarentena-paises-bajos-130197226)
+  - topic: pasajeros
+  - published: 2026-05-13 19:29
+  - filter: duplicate in rolling 24h window
+- [Peter Jackson escribe su película de Tintín en Cannes: "He estado escribiendo el guion aquí, en la habitación del hotel"](https://www.elperiodico.com/es/ocio-y-cultura/20260513/peter-jackson-escribe-pelicula-tintin-festival-cannes-130196056)
+  - topic: peter
+  - published: 2026-05-13 19:19
+  - filter: duplicate in rolling 24h window
+- [No conviertas un "like" en una inversión: los gurús financieros que no son más que charlatanes](https://www.elperiodico.com/es/economia/20260513/conviertas-like-inversion-gurus-financieros-dv-130181903)
+  - topic: conviertas
+  - published: 2026-05-13 19:15
+  - filter: duplicate in rolling 24h window
+- [Expertos de la Armada descartan que fuera un torpedo lo que hundió al carguero ruso cerca de Cartagena](https://www.elperiodico.com/es/internacional/20260513/expertos-armada-descartan-torpedo-hundimiento-ursa-major-buque-ruso-130197505)
+  - topic: expertos
+  - published: 2026-05-13 19:07
+  - filter: duplicate in rolling 24h window
+- [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260513/huelga-profesores-ultima-hora-directo-130098594)
+  - topic: huelga profesores ultima hora directo
+  - published: 2026-05-13 19:00
+  - filter: duplicate in rolling 24h window
+- [La estación del metro del Clot completa su adaptación tras dos años y cuatro meses de obras](https://www.elperiodico.com/es/barcelona/20260513/acaban-obras-accesibilidad-metro-clot-130192843)
+  - topic: acaban
+  - published: 2026-05-13 18:45
+  - filter: duplicate in rolling 24h window
+- [Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español que ha dado positivo, cuarentena en el Gómez Ulla y comparecencia de Pedro Sánchez](https://www.elperiodico.com/es/sociedad/20260513/hantavirus-brote-contagios-positivos-sintomas-crucero-hondius-ultima-hora-directo-129857561)
+  - topic: hantavirus brote contagios positivos sintomas crucero hondius ultima hora directo
+  - published: 2026-05-13 18:35
+  - filter: duplicate in rolling 24h window
+- [Un nuevo congreso reclama desde Barcelona un nuevo internet más sano para los menores](https://www.elperiodico.com/es/tecnologia/20260513/nuevo-congreso-convierte-barcelona-capital-derechos-digitales-gobierno-tecnologia-doctorow-eisenstat-trump-130171748)
+  - topic: nuevo
+  - published: 2026-05-13 18:34
+  - filter: duplicate in rolling 24h window
+- [Alain Cabot encuentra en Francia, 100 huevos de dinosaurio de 72 millones de años de antigüedad](https://www.elperiodico.com/es/fotos/ciencia/alain-cabot-encuentra-francia-100-130195551)
+  - topic: alain
+  - published: 2026-05-13 18:32
+  - filter: duplicate in rolling 24h window
+- [Anna Torrent protagoniza 'Las amargas lágrimas de Petra von Kant' en su debut en el Teatre Romea](https://www.elperiodico.com/es/ocio-y-cultura/20260513/anna-torrent-protagoniza-amargas-lagrimas-130186473)
+  - topic: anna
+  - published: 2026-05-13 18:24
+  - filter: duplicate in rolling 24h window
+- [Illa busca inversiones para Catalunya en Silicon Valley y contrapone su modelo al de Ayuso: "Nuestro ánimo es colaborar, no confrontar"](https://www.elperiodico.com/es/politica/20260513/salvador-illa-silicon-valley-inversiones-catalunya-isabel-diaz-ayuso-colaboracion-confrontacion-130192370)
+  - topic: salvador illa silicon valley inversiones catalunya isabel díaz ayuso colaboración confrontación
+  - published: 2026-05-13 18:19
+  - filter: duplicate in rolling 24h window
+- [#afterwork con Juan Francisco Pérez Llorca, presidente de la Generalitat Valenciana](https://www.elperiodico.com/es/videos/afterwork/afterwork-juan-francisco-perez-llorca/130194708.shtml)
+  - topic: afterwork
+  - published: 2026-05-13 18:16
+  - filter: duplicate in rolling 24h window
+- [Alejandro Mesonero y el Alfa Romeo 33 Stradale: el coche que nació como una apuesta imposible](https://www.elperiodico.com/es/motor/20260513/alejandro-mesonero-alfa-romeo-33-stradale-entrevista-diseno-130181513)
+  - topic: alejandro
+  - published: 2026-05-13 18:09
+  - filter: duplicate in rolling 24h window
+- [Participa en las últimas predicciones diarias sobre las elecciones de Andalucía: te explicamos cómo hacerlo](https://www.elperiodico.com/es/politica/20260513/predicciones-elecciones-andalucia-2026-predilect-periodico-129586421)
+  - topic: predicciones
+  - published: 2026-05-13 18:07
+  - filter: duplicate in rolling 24h window
+- [Barcelona prevé consolidar 11 pacificaciones tácticas de proximidad en seis distritos](https://www.elperiodico.com/es/barcelona/20260513/barcelona-preve-consolidar-pacificacion-tactica-11-calles-130187831)
+  - topic: barcelona
+  - published: 2026-05-13 18:00
+  - filter: duplicate in rolling 24h window
+- [DIRECTO | Pedro Sánchez y María Jesús Montero en Granada](https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-maria-jesus-montero-granada/130193835.shtml)
+  - topic: directo
+  - published: 2026-05-13 18:00
+  - filter: duplicate in rolling 24h window
+- [El chemsex, una "prioridad" para el Gobierno "en la futura Estrategia Nacional de Adicciones"](https://www.elperiodico.com/es/salud/20260513/chemsex-prioridad-gobierno-futura-estrategia-130192540)
+  - topic: chemsex
+  - published: 2026-05-13 17:43
+  - filter: duplicate in rolling 24h window
+- [El cambio climático amenaza el liderazgo de España como potencia productora de cerveza en Europa](https://www.elperiodico.com/es/economia/20260513/cambio-climatico-amenaza-liderazgo-espana-produccion-cerveza-130192788)
+  - topic: cambio
+  - published: 2026-05-13 17:41
+  - filter: duplicate in rolling 24h window
+- [TVyMAS; Un hombre sólo y equivocado](https://www.elperiodico.com/es/videos/deportes/tvymas-hombre-equivocado/130191696.shtml)
+  - topic: tvymas
+  - published: 2026-05-13 17:26
+  - filter: duplicate in rolling 24h window
+- [Parlon y Trapero piden perdón por la infiltración de mossos en una asamblea de profesores y abren una investigación](https://www.elperiodico.com/es/sociedad/20260513/informacion-reservada-esclarecer-perdon-trapero-parlon-perdon-investigacion-mossos-asamblea-docentes-130191520)
+  - topic: informacion
+  - published: 2026-05-13 17:17
+  - filter: duplicate in rolling 24h window
+- [La Fundación Pasqual Maragall busca predecir el alzhéimer a partir del historial médico de la población](https://www.elperiodico.com/es/sanidad/20260513/recopilar-historial-medico-poblacion-estudiar-como-comportan-alzheimer-predictor-enfermedad-130189431)
+  - topic: recopilar
+  - published: 2026-05-13 17:13
+  - filter: duplicate in rolling 24h window
+- [Las Mamarazzis destapan en exclusiva las "amistades íntimas" de Omar Montes en plena polémica familiar](https://www.elperiodico.com/es/gente/20260513/omar-montes-amistades-intimas-mamarazzis-destapan-exclusiva-130181131)
+  - topic: omar montes
+  - published: 2026-05-13 17:01
+  - filter: duplicate in rolling 24h window
+- [Junts se abre a facilitar el decreto de vivienda del Gobierno si permite desgravar las hipotecas](https://www.elperiodico.com/es/politica/20260513/junts-decreto-vivienda-alquileres-desgravar-hipoteca-alquiler-deduciones-renta-130186836)
+  - topic: junts
+  - published: 2026-05-13 17:00
+  - filter: duplicate in rolling 24h window
+- [El jurado considera culpable de asesinato con alevosía al acusado de matar y descuartizar a su compañero de casa en Piera](https://www.elperiodico.com/es/sucesos/20260513/jurado-considera-culpable-asesinato-alevosia-130189807)
+  - topic: 
+  - published: 2026-05-13 16:33
+  - filter: duplicate in rolling 24h window
+- [No cuelgues las llamadas 'spam': lo que tienes que decir exactamente para que se acaben de una vez](https://www.elperiodico.com/es/tecnologia/20260513/llamadas-spam-que-decir-acaben-dv-125956692)
+  - topic: llamadas
+  - published: 2026-05-13 16:32
+  - filter: duplicate in rolling 24h window
+- [El exprofesor del Conservatori del Liceu acusado de tocamientos se aparta de sus funciones como concejal de un pueblo del Solsonès](https://www.elperiodico.com/es/ocio-y-cultura/20260513/exprofesor-conservatori-liceu-acusado-tocamientos-concejal-aparta-pueblo-solsones-130187143)
+  - topic: exprofesor
+  - published: 2026-05-13 16:19
+  - filter: duplicate in rolling 24h window
+- [Qué es el norovirus que ha provocado el confinamiento de 1.700 personas en un crucero en Francia por las sospechas de contagio](https://www.elperiodico.com/es/salud/20260513/contagioso-norovirus-confinamiento-crucero-brudeos-francia-130189315)
+  - topic: contagioso
+  - published: 2026-05-13 16:15
+  - filter: duplicate in rolling 24h window
+- [El Govern certifica su apuesta por la defensa firmando un convenio de colaboración con AeroS](https://www.elperiodico.com/es/economia/20260513/govern-certifica-apuesta-defensa-firmando-acuerdo-colaboracion-aeros-130187842)
+  - topic: govern
+  - published: 2026-05-13 16:09
+  - filter: duplicate in rolling 24h window
+- [Tesla se despide del Model X y el Model S, los que iniciaron su historia, pero que ya no se venden](https://www.elperiodico.com/es/motor/20260513/tesla-despide-model-x-model-s-130170657)
+  - topic: tesla
+  - published: 2026-05-13 16:07
+  - filter: duplicate in rolling 24h window
+- [Mònica Almiñana, gerente del Consorcio Sanitario: "Hacemos una actuación quirúrgica en las urgencias psiquiátricas"](https://www.elperiodico.com/es/ser-feliz/20260513/monica-alminana-gerente-consorcio-sanitario-barcelona-urgencias-psiquiatricas-hospitalizacion-domiciliaria-130135953)
+  - topic: monica almiñana gerente consorcio sanitario barcelona
+  - published: 2026-05-13 16:01
+  - filter: duplicate in rolling 24h window
+- [IA, chips y guerra comercial: el desafío tecnológico que marcará la cumbre de Trump y Xi Jinping](https://www.elperiodico.com/es/internacional/20260513/trump-china-xi-jinping-guerra-inteligencia-artificial-chatgpt-deepseek-ia-estados-unidos-130188664)
+  - topic: trump
+  - published: 2026-05-13 16:00
+  - filter: duplicate in rolling 24h window
+- [La revolución de los 'tests del alzhéimer' acelera la búsqueda de pruebas similares para el párkinson y otras demencias](https://www.elperiodico.com/es/sanidad/20260513/biomarcadores-sangre-alzheimer-abren-puerta-parkinson-demencia-frontotemporal-130181909)
+  - topic: biomarcadores
+  - published: 2026-05-13 15:39
+  - filter: duplicate in rolling 24h window
+- [Just Eat negocia un ERE de 50 despidos entre sus jefes de área: "Nos sustituyen por la IA"](https://www.elperiodico.com/es/economia/20260513/just-eat-negocia-ere-50-despidos-coordinadores-reparto-130174172)
+  - topic: just
+  - published: 2026-05-13 15:39
+  - filter: duplicate in rolling 24h window
+- [Ayuso y la Malinche de Nacho Cano](https://www.elperiodico.com/es/opinion/20260513/ayuso-malinche-nacho-cano-articulo-pilar-garces-130185708)
+  - topic: ayuso
+  - published: 2026-05-13 15:31
+  - filter: duplicate in rolling 24h window
+- [La Fira Trapezi de Reus cumple 30 años como un referente internacional: "El circo contemporáneo catalán ya interesa a nivel europeo"](https://www.elperiodico.com/es/tarragona/20260513/fira-trapezi-reus-30-anos-circo-contemporaneo-internacional-130183903)
+  - topic: fira
+  - published: 2026-05-13 15:30
+  - filter: duplicate in rolling 24h window
+- [La ciencia desmonta el mito de los arándanos: este gesto puede arruinar sus propiedades saludables](https://www.elperiodico.com/es/vida-y-estilo/20260513/beneficios-arandano-nutricion-alimento-baya-fruta-dv-125724149)
+  - topic: beneficios
+  - published: 2026-05-13 15:30
+  - filter: duplicate in rolling 24h window
+- [El gran secreto del Barça es el fuet](https://www.elperiodico.com/es/opinion/20260513/gran-secreto-barca-fuet-liga-rua-articulo-miqui-otero-130143764)
+  - topic: gran
+  - published: 2026-05-13 15:20
+  - filter: duplicate in rolling 24h window
+- [La extranjera eres tú](https://www.elperiodico.com/es/opinion/20260513/extranjera-viajar-texas-ayuso-articulo-imma-sust-130150274)
+  - topic: extranjera
+  - published: 2026-05-13 15:14
+  - filter: duplicate in rolling 24h window
+- [La Comisión Europea pedirá a los gobiernos en 2027 que prohíban las terapias de conversión dirigidas al colectivo LGTBI+](https://www.elperiodico.com/es/sociedad/20260513/comision-europea-prohibicion-terapias-conversion-lgtbiq-130185336)
+  - topic: comision
+  - published: 2026-05-13 15:12
+  - filter: duplicate in rolling 24h window
+- [Detenida una persona por estafar a 13 ancianos con la técnica de la "urgencia hospitalaria": "No llores, hijo"](https://www.elperiodico.com/es/sociedad/20260513/detenida-persona-estafar-13-ancianos-urgencia-hospitalaria-130185029)
+  - topic: detenida
+  - published: 2026-05-13 15:03
+  - filter: duplicate in rolling 24h window
+- [El Sónar ambiciona un récord de público, 160.000 personas, con jornadas de hasta 14 horas de música ininterrumpidas en Fira Gran Via](https://www.elperiodico.com/es/ocio-y-cultura/20260513/sonar-ambiciona-record-publico-160-130181872)
+  - topic: sonar
+  - published: 2026-05-13 14:36
+  - filter: duplicate in rolling 24h window
+- [Yael Eisenstat, exanalista de la CIA: "La alianza de Trump con Silicon Valley es muy peligrosa para la integridad de las elecciones en EEUU"](https://www.elperiodico.com/es/internacional/20260513/yael-eisenstat-exanalista-cia-alianza-trump-silicon-valley-muy-peligrosa-integridad-elecciones-eeuu-130184173)
+  - topic: yael
+  - published: 2026-05-13 14:28
+  - filter: duplicate in rolling 24h window
+- [Parfois abre en Barcelona su primera pop up con su nueva colección Bridal: faldas de gasa con cola de volantes, tops etéreos y hasta un kimono de seda](https://www.elperiodico.com/es/gente/20260513/parfois-pop-up-barcelona-coleccion-bridal-novias-bodas-ceremonias-130181707)
+  - topic: parfois-pop-up-barcelona-coleccion-bridal-novias-bodas-ceremonias
+  - published: 2026-05-13 14:27
+  - filter: duplicate in rolling 24h window
+- [Volvo Trucks estrenará nuevos motores más eficiente y compatibles con combustibles alternativos](https://www.elperiodico.com/es/motor/20260513/volvo-trucks-camiones-nuevos-motores-eficientes-combustibles-alternativos-130170542)
+  - topic: volvo
+  - published: 2026-05-13 14:02
+  - filter: duplicate in rolling 24h window
+- [¿Ganará el PP por mayoría absoluta las elecciones en Andalucía 2026? Así están las predicciones más allá de las encuestas](https://www.elperiodico.com/es/politica/20260513/pp-mayoria-absoluta-elecciones-andalucia-2026-predicciones-encuestas-129667701)
+  - topic: pp mayoria absoluta elecciones andalucia 2026 predicciones encuestas
+  - published: 2026-05-13 13:58
+  - filter: duplicate in rolling 24h window
+- [El abogado de Gerard Piqué deja en el aire si piensa demandar a Shakira por sobreexponer a sus hijos](https://www.elperiodico.com/es/gente/20260513/abogado-gerard-pique-deja-aire-130178282)
+  - topic: abogado
+  - published: 2026-05-13 13:43
+  - filter: duplicate in rolling 24h window
+- [La 28º edición del SIL Barcelona reunirá más de 160 innovaciones y cerca de 80 startups](https://www.elperiodico.com/es/consorci-zona-franca/20260513/28o-edicion-sil-barcelona-reunira-bc-130177288)
+  - topic: 28o
+  - published: 2026-05-13 13:31
+  - filter: duplicate in rolling 24h window
+- [Detenidos por robar 150 metros de cobre en Sant Feliu de Llobregat que ha provocado retrasos en la R4](https://www.elperiodico.com/es/sucesos/20260513/detenidos-robar-150-metros-cobre-sant-feliu-mossos-130179513)
+  - topic: detenidos
+  - published: 2026-05-13 13:23
+  - filter: duplicate in rolling 24h window
+- [Ni Miguel Ángel Blanco ni Hipercor: los jóvenes desconocen qué fue ETA](https://www.elperiodico.com/es/sociedad/20260513/jovenes-espana-desconocen-eta-130177980)
+  - topic: jovenes espana desconocen eta
+  - published: 2026-05-13 13:09
+  - filter: duplicate in rolling 24h window
+- [Soledad Puértolas, escritora: "Solo me siento libre de verdad cuando estoy escribiendo"](https://www.elperiodico.com/es/ocio-y-cultura/20260513/soledad-puertolas-escritora-siento-libre-130171426)
+  - topic: soledad
+  - published: 2026-05-13 13:05
+  - filter: duplicate in rolling 24h window
+- [Caen los "Whiteboys", la organización juvenil de ultraderecha más violenta de Asturias: hay 19 detenidos, cuatro de ellos menores](https://www.elperiodico.com/es/sucesos/20260513/caen-whiteboys-organizacion-juvenil-ultraderecha-130178068)
+  - topic: caen
+  - published: 2026-05-13 13:02
+  - filter: duplicate in rolling 24h window
+- [Tras superar un cáncer, la princesa Catalina retoma su agenda internacional con un viaje a Italia](https://www.elperiodico.com/es/gente/20260513/superar-cancer-princesa-catalina-retoma-130176179)
+  - topic: superar
+  - published: 2026-05-13 12:41
+  - filter: duplicate in rolling 24h window
+- [El hantavirus 'infecta' las relaciones entre el Gobierno de Canarias y la oposición](https://www.elperiodico.com/es/politica/20260513/hantavirus-infecta-relaciones-gobierno-canarias-130176481)
+  - topic: hantavirus
+  - published: 2026-05-13 12:18
+  - filter: duplicate in rolling 24h window
+- [La llegada de una masa de aire polar a España provocará una bajada de las temperaturas de entre 5 y 10 grados](https://www.elperiodico.com/es/sociedad/20260513/masa-aire-polar-espana-bajada-temperaturas-aemet-prevision-130173852)
+  - topic: masa
+  - published: 2026-05-13 12:12
+  - filter: duplicate in rolling 24h window
+- [Más del 90% los adultos apoyan fijar una edad mínima para acceder a las redes sociales](https://www.elperiodico.com/es/sociedad/20260513/adultos-aprueban-veto-redes-sociales-menores-130171350)
+  - topic: adultos aprueban veto redes sociales menores
+  - published: 2026-05-13 11:30
+  - filter: duplicate in rolling 24h window
+- [GAM consolida su giro hacia un crecimiento más estable y diversificado](https://www.elperiodico.com/es/comunicacion-empresarial/20260513/gam-consolida-giro-crecimiento-estable-bc-130173573)
+  - topic: gam
+  - published: 2026-05-13 11:28
+  - filter: duplicate in rolling 24h window
+- [Un asesinato en el Camino de Santiago abre la nueva temporada de 'true crime' de Carles Porta en Movistar Plus+: "Siempre contactamos con las familias"](https://www.elperiodico.com/es/tele/20260513/carles-porta-peregrina-movistar-true-crime-camino-santiago-130138563)
+  - topic: Carles
+  - published: 2026-05-13 10:05
+  - filter: duplicate in rolling 24h window
+- [Restaurante Roig Robí: una casa que ofrece seguridad (y un relajante jardín)](https://www.elperiodico.com/es/gastronomia/restaurantes/20260513/restaurante-roig-robi-barcelona-130085799)
+  - topic: restaurante
+  - published: 2026-05-13 07:45
+  - filter: duplicate in rolling 24h window
+- [Los mejores platos de bacalao de Barcelona se cocinan en estos restaurantes](https://www.elperiodico.com/es/gastronomia/restaurantes/20260513/mejor-bacalao-barcelona-restaurantes-128788367)
+  - topic: mejor bacalao barcelona
+  - published: 2026-05-13 07:44
+  - filter: duplicate in rolling 24h window
+- [La sumiller del estrella Michelin Pabú nos descubre 7 joyas en la zona de Gredos](https://www.elperiodico.com/es/gastronomia/vinos/20260513/mejores-vinos-gredos-130157618)
+  - topic: mejores vinos gredos
+  - published: 2026-05-13 07:43
+  - filter: duplicate in rolling 24h window
+- [Así será el primer tardeo en un mercado municipal: conciertos, ‘dj’ y tapas kilómetro 0 en Santa Coloma de Gramanet](https://www.elperiodico.com/es/que-hacer/planes/20260513/primer-tardeo-mercado-municipal-santa-coloma-de-gramanet-barcelona-mercat-sagarra-130159055)
+  - topic: primer
+  - published: 2026-05-13 07:30
+  - filter: duplicate in rolling 24h window
+- [Las mejores tortillas con 'cosas' por encima de Barcelona (y con cosas por debajo)](https://www.elperiodico.com/es/gastronomia/restaurantes/20260513/mejores-tortillas-toppings-restaurantes-barcelona-107673998)
+  - topic: mejores
+  - published: 2026-05-13 07:00
+  - filter: duplicate in rolling 24h window
+- [Este fin de semana hay macrosalón recreativo de los años 80 y 90 en L’Hospitalet](https://www.elperiodico.com/es/que-hacer/planes/20260513/sera-macrosalon-recreativo-anos-80-129882749)
+  - topic: sera
+  - published: 2026-05-13 07:00
+  - filter: duplicate in rolling 24h window
+- [Eurovisión por Youtube](https://www.elperiodico.com/es/tele/20260513/eurovision-youtube-130146318)
+  - topic: eurovision
+  - published: 2026-05-13 07:00
+  - filter: duplicate in rolling 24h window
+- [Moverse en coche eléctrico por menos de 2 euros los 100 km: así está cambiando la movilidad](https://www.elperiodico.com/es/economia/20260513/ahorrar-combustible-coche-electrico-bassols-energia-bc-130083249)
+  - topic: ahorrar
+  - published: 2026-05-13 06:30
+  - filter: duplicate in rolling 24h window
+- [La defensa de Jordi Pujol Ferrusola pide su absolución porque no hay "nada" que acredite que cobró por obra pública](https://www.elperiodico.com/es/politica/20260513/juicio-pujol-informe-defensa-hijos-expresidente-negar-corrupcion-130154931)
+  - topic: juicio pujol
+  - published: 2026-05-13 06:01
+  - filter: duplicate in rolling 24h window
+- [SIL Barcelona pone de relieve la confianza de las empresas en la IA como aliada para mejorar su logística](https://www.elperiodico.com/es/consorci-zona-franca/20260513/sil-barcelona-pone-relieve-confianza-empresas-ia-aliada-mejorar-logistica-bc-129880631)
+  - topic: sil
+  - published: 2026-05-13 06:00
+  - filter: duplicate in rolling 24h window
+- [Catalunya reforzará las urgencias psiquiátricas con hospitalización domiciliaria: Clínic y Vall d'Hebron doblarán camas](https://www.elperiodico.com/es/ser-feliz/20260513/urgencias-psiquiatricas-plan-refuerzo-hospitalizacion-domiciliaria-hospitales-barcelona-cataluna-130126113)
+  - topic: urgencias
+  - published: 2026-05-13 06:00
+  - filter: duplicate in rolling 24h window
+- [Huelga de profesores en Catalunya: ¿Dónde es hoy miércoles y dónde toca mañana jueves?](https://www.elperiodico.com/es/sociedad/20260513/huelga-profesores-barcelona-catalunya-hoy-miercoles-manana-jueves-dv-130131145)
+  - topic: huelga
+  - published: 2026-05-13 00:01
+  - filter: duplicate in rolling 24h window
+- [Mucho más que escalada: así será la experiencia alrededor de la Copa del Mundo en Alcobendas](https://www.elperiodico.com/es/deportes/20260512/escalada-sera-experiencia-alrededor-copa-bc-130163576)
+  - topic: escalada
+  - published: 2026-05-12 23:59
+  - filter: duplicate in rolling 24h window
+- [Argentina busca el "punto cero" del contagio del hantavirus y las provincias patagónicas llaman a la tranquilidad](https://www.elperiodico.com/es/internacional/20260512/argentina-busca-punto-cero-contagio-hantavirus-patagonia-llama-calma-130158283)
+  - topic: argentina
+  - published: 2026-05-12 20:38
+  - filter: older than 24h
+- [Las enfermeras lo tienen claro: estas son las mejores zapatillas para estar 12 horas de pie](https://www.elperiodico.com/es/shopping/20260512/zapatillas-skechers-mejores-mas-comodas-evitar-dolor-pies-bc-130146254)
+  - topic: zapatillas
+  - published: 2026-05-12 20:00
+  - filter: older than 24h
+- [Los primeros investigados del caso Montoro rechazan declarar, a la espera de si la Audiencia lo traslada de Tarragona a Madrid](https://www.elperiodico.com/es/tarragona/20260512/primeros-investigados-caso-montoro-rechazan-130141403)
+  - topic: primeros
+  - published: 2026-05-12 16:31
+  - filter: older than 24h
+- [¿Crisis sanitaria o manipulación?](https://www.elperiodico.com/es/opinion/20260512/crisis-sanitaria-o-manipulacion-hantavirus-articulo-joan-guix-130106961)
+  - topic: crisis
+  - published: 2026-05-12 15:44
+  - filter: older than 24h
+- [Hernán, las ratas y el orgullo](https://www.elperiodico.com/es/opinion/20260512/hernan-ratas-orgullo-diaz-ayuso-articulo-emma-riverola-130142489)
+  - topic: hernan
+  - published: 2026-05-12 14:55
+  - filter: older than 24h
+- [Este jueves vuelve el Handmade Festival de Barcelona, el gran evento gratuito con talleres de manualidades y artesanía](https://www.elperiodico.com/es/que-hacer/planes/20260512/handmade-festival-barcelona-gratuito-manualidades-artesania-130115731)
+  - topic: handmade
+  - published: 2026-05-12 13:07
+  - filter: older than 24h
+- [La OMS minimiza "un brote mayor" de hantavirus pero no descarta más casos: "Hubo muchas interacciones en el barco"](https://www.elperiodico.com/es/sanidad/20260512/oms-descarta-brote-mayor-hantavirus-130128569)
+  - topic: oms
+  - published: 2026-05-12 12:12
+  - filter: older than 24h
+- [Narcotráfico: la amenaza que cambió de escala](https://www.elperiodico.com/es/opinion/20260512/narcotrafico-amenaza-cambio-escala-130108287)
+  - topic: narcotrafico
+  - published: 2026-05-12 07:00
+  - filter: older than 24h
+- [Loles León y la normalidad](https://www.elperiodico.com/es/tele/20260512/loles-leon-normalidad-130106305)
+  - topic: loles
+  - published: 2026-05-12 07:00
+  - filter: older than 24h
+- [El hospital (fantasma) de pandemias](https://www.elperiodico.com/es/opinion/20260512/hospital-fantasma-pandemias-130106220)
+  - topic: hospital
+  - published: 2026-05-12 06:00
+  - filter: older than 24h
+- [Eloísa Román, psiquiatra: "El autismo es una manera de percibir y procesar, no implica una patología mental"](https://www.elperiodico.com/es/ser-feliz/20260512/eloisa-roman-psiquiatra-autismo-manera-129882704)
+  - topic: eloisa
+  - published: 2026-05-12 06:00
+  - filter: older than 24h
+- [De 90 a 49 euros: Skechers desploma el precio de sus zapatillas más versátiles, cómodas y bonitas (¡y más!)](https://www.elperiodico.com/es/shopping/20260511/amazon-ofertas-dia-mejores-rebajas-descuentos-productos-mas-buscados-130103428)
+  - topic: amazon
+  - published: 2026-05-11 16:42
+  - filter: older than 24h
+- [Rubén Viñuales: "Tarragona necesita empresas que generen progreso y riqueza para el territorio"](https://www.elperiodico.com/es/tarragona/20260511/alcalde-ruben-vinuales-tarragona-necesita-130094395)
+  - topic: alcalde
+  - published: 2026-05-11 13:56
+  - filter: older than 24h
+- [El reto de replicar en Tarragona el modelo de regeneración del agua en Barcelona: "Es absolutamente viable"](https://www.elperiodico.com/es/tarragona/20260511/reto-replicar-tarragona-modelo-regeneracion-agua-barcelona-absolutamente-viable-130086083)
+  - topic: reto
+  - published: 2026-05-11 12:50
+  - filter: older than 24h
+- [Las centrales de Ascó y Vandellós estiman que el apagón nuclear llegará al quedarles "la mitad de vida útil" en Tarragona](https://www.elperiodico.com/es/tarragona/20260511/centrales-asco-vandellos-estiman-apagon-nucelar-la-mitad-vida-util-tarragona-130085710)
+  - topic: centrales
+  - published: 2026-05-11 12:16
+  - filter: older than 24h
+- [Catalunya refuerza el control en la selectividad con detectores de dispositivos electrónicos](https://www.elperiodico.com/es/sociedad/20260511/cataluna-vigilancia-selectividad-dispositivos-electronicos-130085382)
+  - topic: cataluna vigilancia selectividad dispositivos electronicos
+  - published: 2026-05-11 10:10
+  - filter: older than 24h
+- [Judit Argüera, maestra diagnosticada con autismo: "Los niños están preparados. ¿Lo está la comunidad educativa?, ¿lo están los padres?"](https://www.elperiodico.com/es/ser-feliz/20260511/judit-arguera-maestra-diagnosticada-autismo-129832696)
+  - topic: judit
+  - published: 2026-05-11 06:00
+  - filter: older than 24h
+- [La gama de Kia ofrece todas las soluciones y confianza necesarias para decantarse por un vehículo 100% eléctrico](https://www.elperiodico.com/es/sociedad/20260510/gama-kia-ofrece-soluciones-confianza-bc-130079211)
+  - topic: gama
+  - published: 2026-05-10 23:59
+  - filter: older than 24h
+- [Más ahorro para los conductores: Repsol amplía sus descuentos en combustibles hasta el 31 de mayo](https://www.elperiodico.com/es/sociedad/20260507/ahorro-conductores-repsol-amplia-descuentos-bc-129977737)
+  - topic: ahorro
+  - published: 2026-05-07 23:59
+  - filter: older than 24h
+- [Movistar Plus+ estrena por sorpresa una de las series más adictivas del momento (y ya puedes verla por 4,99 euros)](https://www.elperiodico.com/es/shopping/20260507/mejores-series-online-movistar-plus-ver-peliculas-contratar-bc-129935118)
+  - topic: mejores
+  - published: 2026-05-07 05:30
+  - filter: older than 24h
+- [La World Climbing Series Comunidad de Madrid 2026: todo lo que necesitas saber](https://www.elperiodico.com/es/deportes/20260506/world-climbing-series-comunidad-madrid-bc-129935793)
+  - topic: world
+  - published: 2026-05-06 23:59
+  - filter: older than 24h
+- [El presidente de la Generalitat Valenciana, Juan Francisco Pérez Llorca, en el Afterwork de EL PERIÓDICO](https://www.elperiodico.com/es/politica/20260505/presidente-generalitat-valenciana-juan-francisco-perez-llorca-afterwork-el-periodico-129881462)
+  - topic: presidente
+  - published: 2026-05-05 18:23
+  - filter: older than 24h
+- [Esta plancha de Russell Hobbs es una auténtica superventas, alisa hasta las arrugas más difíciles y no llega ni a los 50 euros](https://www.elperiodico.com/es/shopping/20260505/plancha-vapor-mejor-vertical-russell-hobbs-129860494)
+  - topic: plancha
+  - published: 2026-05-05 11:36
+  - filter: older than 24h
+- [Nealis, Premio Empresa del Año Banco Sabadell Levante EMV](https://www.elperiodico.com/es/sociedad/20260428/nealis-premio-empresa-ano-banco-bc-129602991)
+  - topic: nealis
+  - published: 2026-04-28 11:00
+  - filter: older than 24h
+- [Adolfo Utor, empresario clave del sector marítimo en España](https://www.elperiodico.com/es/sociedad/20260428/adolfo-utor-empresario-clave-sector-bc-129603216)
+  - topic: adolfo
+  - published: 2026-04-28 10:50
+  - filter: older than 24h
+- [Avales públicos para hipotecas de jóvenes](https://www.elperiodico.com/es/economia/20260427/avales-publicos-hipotecas-comprar-vivienda-jovenes-129104227)
+  - topic: Avales
+  - published: 2026-04-27 06:04
+  - filter: older than 24h
+- [El mercado inmobiliario español acumula un déficit de 730.000 viviendas ante el crecimiento poblacional](https://www.elperiodico.com/es/economia/20260427/tendencias-mercado-inmobiliario-2026-escasez-vivienda-129337330)
+  - topic: tendencias
+  - published: 2026-04-27 06:04
+  - filter: older than 24h
+- [Cinco factores clave que debes conocer antes de contratar una hipoteca en 2026](https://www.elperiodico.com/es/economia/20260427/cinco-factores-clave-debes-conocer-antes-contratar-hipoteca-129093016)
+  - topic: cinco
+  - published: 2026-04-27 06:01
+  - filter: older than 24h
+- [Cancha Solidaria Endesa activa el matchfunding para impulsar cinco proyectos sociales vinculados al baloncesto](https://www.elperiodico.com/es/deportes/20260420/cancha-solidaria-endesa-activa-matchfunding-bc-129289763)
+  - topic: cancha
+  - published: 2026-04-20 09:30
+  - filter: older than 24h
+- [Los microcréditos impulsan el autoempleo en pleno récord histórico de trabajadores autónomos](https://www.elperiodico.com/es/economia/20260323/microcreditos-impulsan-autoempleo-pleno-record-trabajadores-autonomos-microbank-128059221)
+  - topic: microcreditos
+  - published: 2026-03-23 06:00
+  - filter: older than 24h
+- [El temor a Trump impulsa la "nube soberana" en Europa para proteger sus datos en Internet](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20260322/temor-trump-impulsa-nube-soberana-union-europea-dependencia-eeuu-google-amazon-microsoft-128132075)
+  - topic: temor
+  - published: 2026-03-22 06:00
+  - filter: older than 24h
+- [Robots sobre ruedas, la IA toma cuerpo en la automoción](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20260214/robots-humanoides-ia-irrumpe-sector-automovil-126272947)
+  - topic: robots
+  - published: 2026-02-14 05:58
+  - filter: older than 24h
+- [Sobre (vivir) a la crianza](https://www.elperiodico.com/es/videos/podcast/vivir-crianza/123475995.shtml)
+  - topic: vivir
+  - published: 2025-11-07 16:30
+  - filter: older than 24h
+- [Mas Barcelona](https://www.elperiodico.com/es/videos/podcast/barcelona/123475904.shtml)
+  - topic: barcelona
+  - published: 2025-11-07 16:27
+  - filter: older than 24h
+- [En paradero desconocido](https://www.elperiodico.com/es/videos/podcast/paradero-desconocido/124915301.shtml)
+  - topic: paradero
+  - published: 2025-10-20 08:59
+  - filter: older than 24h
+- [Mamarazzis](https://www.elperiodico.com/es/videos/podcast/mamarazzis/123475831.shtml)
+  - topic: mamarazzis
+  - published: 2025-10-01 08:59
+  - filter: older than 24h
+- [Libros y cosas](https://www.elperiodico.com/es/videos/podcast/libros-cosas/123475863.shtml)
+  - topic: libros
+  - published: 2025-10-01 08:59
+  - filter: older than 24h
+
+### ua.korrespondent.net
+- [Зеленський подякував прем’єру Угорщини за осуд РФ](https://ua.korrespondent.net/ukraine/4878433-zelenskyi-podiakuvav-premieru-uhorschyny-za-osud-rf)
+  - topic: Новини України
+  - published: 2026-05-13 23:25
+  - filter: duplicate in rolling 24h window
+- [Шахтар закріплює чемпіонський успіх у переривчастому матчі з Оболонню](https://ua.korrespondent.net/sport/football/4878431-shakhtar-zakripluiie-chempionskyi-uspikh-u-pereryvchastomu-matchi-z-obolonnui)
+  - topic: Новини футболу
+  - published: 2026-05-13 22:59
+  - filter: duplicate in rolling 24h window
+- [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain)
+  - topic: Новини політики
+  - published: 2026-05-13 22:50
+  - filter: duplicate in rolling 24h window
+- [У Сумах на зупинці чоловік підірвав гранату і сам загинув](https://ua.korrespondent.net/ukraine/4878422-u-sumakh-na-zupyntsi-cholovik-pidirvav-hranatu-i-sam-zahynuv)
+  - topic: Новини України
+  - published: 2026-05-13 22:23
+  - filter: duplicate in rolling 24h window
+- [Вперше за 9 років. Трамп приїхав в Китай](https://ua.korrespondent.net/world/4878434-vpershe-za-9-rokiv-tramp-pryikhav-v-kytai)
+  - topic: Новини світу
+  - published: 2026-05-13 22:14
+  - filter: duplicate in rolling 24h window
+- [Усик коригує плани щодо завершення кар'єри](https://ua.korrespondent.net/sport/boks/4878421-usyk-koryhuie-plany-schodo-zavershennia-kariery)
+  - topic: Новини боксу
+  - published: 2026-05-13 22:09
+  - filter: duplicate in rolling 24h window
+- [Drone Deal: Зеленський пропонує Румунії співпрацю](https://ua.korrespondent.net/ukraine/4878418-Drone-Deal-zelenskyi-proponuie-rumunii-spivpratsui)
+  - topic: Новини України
+  - published: 2026-05-13 21:57
+  - filter: duplicate in rolling 24h window
+- [Лукаку у своїй зверхності до Наполі покине клуб](https://ua.korrespondent.net/sport/football/4878417-lukaku-u-svoii-zverkhnosti-do-napoli-pokyne-klub)
+  - topic: Новини футболу
+  - published: 2026-05-13 21:39
+  - filter: duplicate in rolling 24h window
+- [На Чернігівщині командир "прикривав" військових-прогульників](https://ua.korrespondent.net/ukraine/4878415-na-chernihivschyni-komandyr-prykryvav-viiskovykh-prohulnykiv)
+  - topic: Новини України
+  - published: 2026-05-13 21:36
+  - filter: duplicate in rolling 24h window
+- [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)
+  - topic: Новини світу
+  - published: 2026-05-13 21:20
+  - filter: duplicate in rolling 24h window
+- [НАТО запросить країни Перської затоки на саміт Альянсу - ЗМІ](https://ua.korrespondent.net/world/4878413-nato-zaprosyt-krainy-perskoi-zatoky-na-samit-aliansu-zmi)
+  - topic: Новини світу
+  - published: 2026-05-13 21:15
+  - filter: duplicate in rolling 24h window
+- [Нафтовидобуток РФ впав до рівня пандемії 2020 року](https://ua.korrespondent.net/business/economics/4878410-naftovydobutok-rf-vpav-do-rivnia-pandemii-2020-roku)
+  - topic: Новини економіки
+  - published: 2026-05-13 20:48
+  - filter: duplicate in rolling 24h window
+- [MG представила нове флагманське авто 07 у Китаї](https://ua.korrespondent.net/lifestyle/motors/4878408-MG-predstavyla-nove-flahmanske-avto-07-u-kytai)
+  - topic: Автомобілі
+  - published: 2026-05-13 20:44
   - filter: news filter keyword
-- [MotoGP llega al corazón de Barcelona](https://www.elperiodico.com/es/deportes/20260513/motogp-llega-corazon-barcelona-130187213) | MotoGP llega al corazón de Barcelona | 2026-05-13 20:43
+- [Барселона вирішила не квапитися в питанні стосовно Левандовські](https://ua.korrespondent.net/sport/football/4878406-barselona-vyrishyla-ne-kvapytysia-v-pytanni-stosovno-levandovski)
+  - topic: Новини футболу
+  - published: 2026-05-13 20:36
   - filter: duplicate in rolling 24h window
-- [Una familia busca casa al perder todo en la explosión de Poblenou | Vídeo reportaje](https://www.elperiodico.com/es/videos/barcelona/familia-busca-casa-perder-explosion-poblenou-incendio-piso-bombona-video/130199980.shtml) | Una familia busca casa al perder todo en la explosión de Poblenou | Vídeo reportaje | 2026-05-13 20:41
+- [Угорщина вперше викликала посла Росії через обстріл Закарпаття](https://ua.korrespondent.net/world/4878403-uhorschyna-vpershe-vyklykala-posla-rosii-cherez-obstril-zakarpattia)
+  - topic: Новини світу
+  - published: 2026-05-13 20:15
   - filter: duplicate in rolling 24h window
-- [Барселона вирішила не квапитися в питанні стосовно Левандовські](https://ua.korrespondent.net/sport/football/4878406-barselona-vyrishyla-ne-kvapytysia-v-pytanni-stosovno-levandovski) | Новини футболу | 2026-05-13 20:36
+- [У Бєлгородській області поїзд зійшов з рейок через авіабомбу РФ](https://ua.korrespondent.net/world/russia/4878401-u-bielhorodskii-oblasti-poizd-ziishov-z-reiok-cherez-aviabombu-rf)
+  - topic: Росія новини
+  - published: 2026-05-13 19:58
   - filter: duplicate in rolling 24h window
-- [Угорщина вперше викликала посла Росії через обстріл Закарпаття](https://ua.korrespondent.net/world/4878403-uhorschyna-vpershe-vyklykala-posla-rosii-cherez-obstril-zakarpattia) | Новини світу | 2026-05-13 20:15
+- [Італія спорядила мінні тральники до Ормузької протоки](https://ua.korrespondent.net/world/4878398-italiia-sporiadyla-minni-tralnyky-do-ormuzkoi-protoky)
+  - topic: Новини світу
+  - published: 2026-05-13 19:54
   - filter: duplicate in rolling 24h window
-- ["Pensaba que había caído una bomba": una familia pierde su casa en la explosión del Poblenou y una vecina les da refugio](https://www.elperiodico.com/es/barcelona/20260513/explosion-poblenou-familia-bebe-pierde-casa-vecina-acoge-130186083) | "Pensaba que había caído una bomba": una familia pierde su casa en la explosión del Poblenou y una vecina les da refugio | 2026-05-13 20:15
+- [Париж подивиться матч Стародубцевої з американкою у чвертьфіналі WTA 125](https://ua.korrespondent.net/sport/tenis/4878396-paryzh-podyvytsia-match-starodubtsevoi-z-amerykankoui-u-chvertfinali-WTA-125)
+  - topic: Новини тенісу
+  - published: 2026-05-13 19:35
   - filter: duplicate in rolling 24h window
-- [Educació y sindicatos se sientan a negociar tras tres huelgas generales y más de mil centros amenazando con no ir de colonias](https://www.elperiodico.com/es/sociedad/20260513/huelga-profesores-reunion-conselleria-educacio-sindicatos-cataluna-negociaciones-130184827) | Educació y sindicatos se sientan a negociar tras tres huelgas generales y más de mil centros amenazando con no ir de colonias | 2026-05-13 20:15
-  - filter: duplicate in rolling 24h window
-- [Una familia busca casa al perder todo en la explosión de Poblenou | Vídeo reportaje](https://www.elperiodico.com/es/videos/barcelona/familia-busca-casa-perder-explosion-bombona-poblenou-piso-incendio-video/130199479.shtml) | Una familia busca casa al perder todo en la explosión de Poblenou | Vídeo reportaje | 2026-05-13 20:15
-  - filter: duplicate in rolling 24h window
-- [Los sindicatos de profesores consideran "insuficientes" las explicaciones de Parlon y Trapero y reclaman su dimisión](https://www.elperiodico.com/es/politica/20260513/sindicatos-profesores-consideran-insuficientes-explicaciones-dimision-parlon-trapero-130199612) | Los sindicatos de profesores consideran "insuficientes" las explicaciones de Parlon y Trapero y reclaman su dimisión | 2026-05-13 20:14
-  - filter: duplicate in rolling 24h window
-- [У Бєлгородській області поїзд зійшов з рейок через авіабомбу РФ](https://ua.korrespondent.net/world/russia/4878401-u-bielhorodskii-oblasti-poizd-ziishov-z-reiok-cherez-aviabombu-rf) | Росія новини | 2026-05-13 19:58
-  - filter: duplicate in rolling 24h window
-- [Італія спорядила мінні тральники до Ормузької протоки](https://ua.korrespondent.net/world/4878398-italiia-sporiadyla-minni-tralnyky-do-ormuzkoi-protoky) | Новини світу | 2026-05-13 19:54
-  - filter: duplicate in rolling 24h window
-- [Gio Garbelini, la estrella del Atlético de Madrid que denunció públicamente al Barça](https://www.elperiodico.com/es/deportes/20260513/gio-queiroz-estrella-atletico-madrid-130196129) | Gio Garbelini, la estrella del Atlético de Madrid que denunció públicamente al Barça | 2026-05-13 19:45
-  - filter: duplicate in rolling 24h window
-- [Cuerpo cifra en un punto del IPC el impacto de las medidas del Gobierno ante la guerra de Irán](https://www.elperiodico.com/es/economia/20260513/cuerpo-destaca-escudo-economico-gobierno-130194076) | Cuerpo cifra en un punto del IPC el impacto de las medidas del Gobierno ante la guerra de Irán | 2026-05-13 19:45
-  - filter: duplicate in rolling 24h window
-- [Париж подивиться матч Стародубцевої з американкою у чвертьфіналі WTA 125](https://ua.korrespondent.net/sport/tenis/4878396-paryzh-podyvytsia-match-starodubtsevoi-z-amerykankoui-u-chvertfinali-WTA-125) | Новини тенісу | 2026-05-13 19:35
-  - filter: duplicate in rolling 24h window
-- [Сирський повідомив про успіхи ЗСУ на фронті](https://ua.korrespondent.net/ukraine/4878394-syrskyi-povidomyv-pro-uspikhy-zsu-na-fronti) | Новини України | 2026-05-13 19:30
-  - filter: duplicate in rolling 24h window
-- [Los pasajeros del 'MV Hondius' que no hayan sido evacuados a sus países de origen harán cuarentena en Países Bajos](https://www.elperiodico.com/es/sanidad/20260513/pasajeros-mv-hondius-cuarentena-paises-bajos-130197226) | Los pasajeros del 'MV Hondius' que no hayan sido evacuados a sus países de origen harán cuarentena en Países Bajos | 2026-05-13 19:29
-  - filter: duplicate in rolling 24h window
-- [Росіяни обезголовили двох полеглих оборонців](https://ua.korrespondent.net/ukraine/4878390-rosiiany-obezgholovyly-dvokh-polehlykh-oborontsiv) | Новини України | 2026-05-13 19:27
-  - filter: duplicate in rolling 24h window
-- [Peter Jackson escribe su película de Tintín en Cannes: "He estado escribiendo el guion aquí, en la habitación del hotel"](https://www.elperiodico.com/es/ocio-y-cultura/20260513/peter-jackson-escribe-pelicula-tintin-festival-cannes-130196056) | Peter Jackson escribe su película de Tintín en Cannes: "He estado escribiendo el guion aquí, en la habitación del hotel" | 2026-05-13 19:19
-  - filter: duplicate in rolling 24h window
-- [Sony представила смартфон Xperia 1 VIII](https://ua.korrespondent.net/lifestyle/gadgets/4878387-Sony-predstavyla-smartfon-Xperia-1-VIII) | Гаджети | 2026-05-13 19:16
-  - filter: duplicate in rolling 24h window
-- [Перемога над Полтавою приносить ЛНЗ єврокубки](https://ua.korrespondent.net/sport/football/4878389-peremoha-nad-poltavoui-prynosyt-lnz-yevrokubky) | Новини футболу | 2026-05-13 19:16
-  - filter: duplicate in rolling 24h window
-- [No conviertas un "like" en una inversión: los gurús financieros que no son más que charlatanes](https://www.elperiodico.com/es/economia/20260513/conviertas-like-inversion-gurus-financieros-dv-130181903) | No conviertas un "like" en una inversión: los gurús financieros que no son más que charlatanes | 2026-05-13 19:15
-  - filter: duplicate in rolling 24h window
-- [Expertos de la Armada descartan que fuera un torpedo lo que hundió al carguero ruso cerca de Cartagena](https://www.elperiodico.com/es/internacional/20260513/expertos-armada-descartan-torpedo-hundimiento-ursa-major-buque-ruso-130197505) | Expertos de la Armada descartan que fuera un torpedo lo que hundió al carguero ruso cerca de Cartagena | 2026-05-13 19:07
-  - filter: duplicate in rolling 24h window
-- [Атака РФ може тривати до завтрашнього обіду - Флеш](https://ua.korrespondent.net/ukraine/4878385-ataka-rf-mozhe-tryvaty-do-zavtrashnoho-obidu-flesh) | Новини України | 2026-05-13 19:04
-  - filter: duplicate in rolling 24h window
-- [У Норвегії шестирічний хлопчик знайшов у полі меч віком 1300 років](https://ua.korrespondent.net/tech/science/4878383-u-norvehii-shestyrichnyi-khlopchyk-znaishov-u-poli-mech-vikom-1300-rokiv) | Новини науки | 2026-05-13 19:01
-  - filter: duplicate in rolling 24h window
-- [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260513/huelga-profesores-ultima-hora-directo-130098594) | Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos | 2026-05-13 19:00
-  - filter: duplicate in rolling 24h window
-- [Jeep оновив кросовер Avenger для Європи та представив ювілейну версію](https://ua.korrespondent.net/lifestyle/motors/4878379-Jeep-onovyv-krosover-Avenger-dlia-yevropy-ta-predstavyv-yuvileinu-versiui) | Автомобілі | 2026-05-13 18:47
-  - filter: news filter keyword
-- [Espanyol - Athletic, en directo el partido de Liga en Cornellà](https://www.elperiodico.com/es/deportes/20260513/espanyol-athletic-directo-partido-liga-130177115) | Espanyol - Athletic, en directo el partido de Liga en Cornellà | 2026-05-13 18:45
-  - filter: duplicate in rolling 24h window
-- [La estación del metro del Clot completa su adaptación tras dos años y cuatro meses de obras](https://www.elperiodico.com/es/barcelona/20260513/acaban-obras-accesibilidad-metro-clot-130192843) | La estación del metro del Clot completa su adaptación tras dos años y cuatro meses de obras | 2026-05-13 18:45
-  - filter: duplicate in rolling 24h window
-- [Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español que ha dado positivo, cuarentena en el Gómez Ulla y comparecencia de Pedro Sánchez](https://www.elperiodico.com/es/sociedad/20260513/hantavirus-brote-contagios-positivos-sintomas-crucero-hondius-ultima-hora-directo-129857561) | Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español que ha dado positivo, cuarentena en el Gómez Ulla y comparecencia de Pedro Sánchez | 2026-05-13 18:35
-  - filter: duplicate in rolling 24h window
-- [Un nuevo congreso reclama desde Barcelona un nuevo internet más sano para los menores](https://www.elperiodico.com/es/tecnologia/20260513/nuevo-congreso-convierte-barcelona-capital-derechos-digitales-gobierno-tecnologia-doctorow-eisenstat-trump-130171748) | Un nuevo congreso reclama desde Barcelona un nuevo internet más sano para los menores | 2026-05-13 18:34
-  - filter: duplicate in rolling 24h window
-- [Alain Cabot encuentra en Francia, 100 huevos de dinosaurio de 72 millones de años de antigüedad](https://www.elperiodico.com/es/fotos/ciencia/alain-cabot-encuentra-francia-100-130195551) | Alain Cabot encuentra en Francia, 100 huevos de dinosaurio de 72 millones de años de antigüedad | 2026-05-13 18:32
-  - filter: duplicate in rolling 24h window
-- [Igor Arrieta supera las adversidades y gana la quinta etapa del Giro](https://www.elperiodico.com/es/deportes/20260513/igor-arrieta-supera-adversidades-gana-quinta-etapa-giro-italia-130195202) | Igor Arrieta supera las adversidades y gana la quinta etapa del Giro | 2026-05-13 18:31
-  - filter: duplicate in rolling 24h window
-- [El INE sitúa a L'Hospitalet en los 300.000 habitantes, su récord de población desde 1981](https://www.elperiodico.com/es/barcelona/20260513/ine-situa-lhospitalet-300000-habitantes-record-poblacion-1981-130190962) | El INE sitúa a L'Hospitalet en los 300.000 habitantes, su récord de población desde 1981 | 2026-05-13 18:31
-  - filter: duplicate in rolling 24h window
-- [Anna Torrent protagoniza 'Las amargas lágrimas de Petra von Kant' en su debut en el Teatre Romea](https://www.elperiodico.com/es/ocio-y-cultura/20260513/anna-torrent-protagoniza-amargas-lagrimas-130186473) | Anna Torrent protagoniza 'Las amargas lágrimas de Petra von Kant' en su debut en el Teatre Romea | 2026-05-13 18:24
-  - filter: duplicate in rolling 24h window
-- [Illa busca inversiones para Catalunya en Silicon Valley y contrapone su modelo al de Ayuso: "Nuestro ánimo es colaborar, no confrontar"](https://www.elperiodico.com/es/politica/20260513/salvador-illa-silicon-valley-inversiones-catalunya-isabel-diaz-ayuso-colaboracion-confrontacion-130192370) | Illa busca inversiones para Catalunya en Silicon Valley y contrapone su modelo al de Ayuso: "Nuestro ánimo es colaborar, no confrontar" | 2026-05-13 18:19
-  - filter: duplicate in rolling 24h window
-- [#afterwork con Juan Francisco Pérez Llorca, presidente de la Generalitat Valenciana](https://www.elperiodico.com/es/videos/afterwork/afterwork-juan-francisco-perez-llorca/130194708.shtml) | #afterwork con Juan Francisco Pérez Llorca, presidente de la Generalitat Valenciana | 2026-05-13 18:16
-  - filter: duplicate in rolling 24h window
-- [Alejandro Mesonero y el Alfa Romeo 33 Stradale: el coche que nació como una apuesta imposible](https://www.elperiodico.com/es/motor/20260513/alejandro-mesonero-alfa-romeo-33-stradale-entrevista-diseno-130181513) | Alejandro Mesonero y el Alfa Romeo 33 Stradale: el coche que nació como una apuesta imposible | 2026-05-13 18:09
-  - filter: duplicate in rolling 24h window
-- [Participa en las últimas predicciones diarias sobre las elecciones de Andalucía: te explicamos cómo hacerlo](https://www.elperiodico.com/es/politica/20260513/predicciones-elecciones-andalucia-2026-predilect-periodico-129586421) | Participa en las últimas predicciones diarias sobre las elecciones de Andalucía: te explicamos cómo hacerlo | 2026-05-13 18:07
-  - filter: duplicate in rolling 24h window
-- [Barcelona prevé consolidar 11 pacificaciones tácticas de proximidad en seis distritos](https://www.elperiodico.com/es/barcelona/20260513/barcelona-preve-consolidar-pacificacion-tactica-11-calles-130187831) | Barcelona prevé consolidar 11 pacificaciones tácticas de proximidad en seis distritos | 2026-05-13 18:00
-  - filter: duplicate in rolling 24h window
-- [DIRECTO | Pedro Sánchez y María Jesús Montero en Granada](https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-maria-jesus-montero-granada/130193835.shtml) | DIRECTO | Pedro Sánchez y María Jesús Montero en Granada | 2026-05-13 18:00
-  - filter: duplicate in rolling 24h window
-- [Rafa Nadal descarta cualquier relación con posibles candidaturas a la presidencia del Real Madrid](https://www.elperiodico.com/es/deportes/20260513/rafa-nadal-descarta-relacion-posibles-130193386) | Rafa Nadal descarta cualquier relación con posibles candidaturas a la presidencia del Real Madrid | 2026-05-13 17:55
-  - filter: duplicate in rolling 24h window
-- [“El riesgo para la NBA en Europa es ser percibida como algo de segundo rango”](https://as.com/baloncesto/euroliga/el-riesgo-para-la-nba-en-europa-es-ser-percibida-como-algo-de-segundo-rango-f202605-n/) | Baloncesto | 2026-05-13 17:53
-  - filter: duplicate in rolling 24h window
-- [El chemsex, una "prioridad" para el Gobierno "en la futura Estrategia Nacional de Adicciones"](https://www.elperiodico.com/es/salud/20260513/chemsex-prioridad-gobierno-futura-estrategia-130192540) | El chemsex, una "prioridad" para el Gobierno "en la futura Estrategia Nacional de Adicciones" | 2026-05-13 17:43
-  - filter: duplicate in rolling 24h window
-- [El cambio climático amenaza el liderazgo de España como potencia productora de cerveza en Europa](https://www.elperiodico.com/es/economia/20260513/cambio-climatico-amenaza-liderazgo-espana-produccion-cerveza-130192788) | El cambio climático amenaza el liderazgo de España como potencia productora de cerveza en Europa | 2026-05-13 17:41
-  - filter: duplicate in rolling 24h window
-- [TVyMAS; Un hombre sólo y equivocado](https://www.elperiodico.com/es/videos/deportes/tvymas-hombre-equivocado/130191696.shtml) | TVyMAS; Un hombre sólo y equivocado | 2026-05-13 17:26
-  - filter: duplicate in rolling 24h window
-- [Parlon y Trapero piden perdón por la infiltración de mossos en una asamblea de profesores y abren una investigación](https://www.elperiodico.com/es/sociedad/20260513/informacion-reservada-esclarecer-perdon-trapero-parlon-perdon-investigacion-mossos-asamblea-docentes-130191520) | Parlon y Trapero piden perdón por la infiltración de mossos en una asamblea de profesores y abren una investigación | 2026-05-13 17:17
-  - filter: duplicate in rolling 24h window
-- [La Fundación Pasqual Maragall busca predecir el alzhéimer a partir del historial médico de la población](https://www.elperiodico.com/es/sanidad/20260513/recopilar-historial-medico-poblacion-estudiar-como-comportan-alzheimer-predictor-enfermedad-130189431) | La Fundación Pasqual Maragall busca predecir el alzhéimer a partir del historial médico de la población | 2026-05-13 17:13
-  - filter: duplicate in rolling 24h window
-- [Las Mamarazzis destapan en exclusiva las "amistades íntimas" de Omar Montes en plena polémica familiar](https://www.elperiodico.com/es/gente/20260513/omar-montes-amistades-intimas-mamarazzis-destapan-exclusiva-130181131) | Las Mamarazzis destapan en exclusiva las "amistades íntimas" de Omar Montes en plena polémica familiar | 2026-05-13 17:01
-  - filter: duplicate in rolling 24h window
-- [Un Hall of Fame de triples y medallas](https://as.com/baloncesto/mas_baloncesto/un-hall-of-fame-de-triples-y-medallas-f202605-n/) | Hall of Fame | 2026-05-13 17:01
-  - filter: duplicate in rolling 24h window
-- [Junts se abre a facilitar el decreto de vivienda del Gobierno si permite desgravar las hipotecas](https://www.elperiodico.com/es/politica/20260513/junts-decreto-vivienda-alquileres-desgravar-hipoteca-alquiler-deduciones-renta-130186836) | Junts se abre a facilitar el decreto de vivienda del Gobierno si permite desgravar las hipotecas | 2026-05-13 17:00
-  - filter: duplicate in rolling 24h window
-- ['La Panthère des neiges' un film de Vincent Munier, que muestra la fauna salvaje de los bosques de los Vosgos](https://www.elperiodico.com/es/videos/sociedad/panthere-des-neiges-film-vincent/130190609.shtml) | 'La Panthère des neiges' un film de Vincent Munier, que muestra la fauna salvaje de los bosques de los Vosgos | 2026-05-13 16:57
-  - filter: duplicate in rolling 24h window
-- [El jurado considera culpable de asesinato con alevosía al acusado de matar y descuartizar a su compañero de casa en Piera](https://www.elperiodico.com/es/sucesos/20260513/jurado-considera-culpable-asesinato-alevosia-130189807) | El jurado considera culpable de asesinato con alevosía al acusado de matar y descuartizar a su compañero de casa en Piera | 2026-05-13 16:33
-  - filter: duplicate in rolling 24h window
-- [No cuelgues las llamadas 'spam': lo que tienes que decir exactamente para que se acaben de una vez](https://www.elperiodico.com/es/tecnologia/20260513/llamadas-spam-que-decir-acaben-dv-125956692) | No cuelgues las llamadas 'spam': lo que tienes que decir exactamente para que se acaben de una vez | 2026-05-13 16:32
-  - filter: duplicate in rolling 24h window
-- [Tráiler de 'Le Chant Des Forêts"](https://www.elperiodico.com/es/videos/sociedad/trailer-le-chant-des-forets-video/130189547.shtml) | Tráiler de 'Le Chant Des Forêts" | 2026-05-13 16:24
-  - filter: duplicate in rolling 24h window
-- [El exprofesor del Conservatori del Liceu acusado de tocamientos se aparta de sus funciones como concejal de un pueblo del Solsonès](https://www.elperiodico.com/es/ocio-y-cultura/20260513/exprofesor-conservatori-liceu-acusado-tocamientos-concejal-aparta-pueblo-solsones-130187143) | El exprofesor del Conservatori del Liceu acusado de tocamientos se aparta de sus funciones como concejal de un pueblo del Solsonès | 2026-05-13 16:19
-  - filter: duplicate in rolling 24h window
-- [Qué es el norovirus que ha provocado el confinamiento de 1.700 personas en un crucero en Francia por las sospechas de contagio](https://www.elperiodico.com/es/salud/20260513/contagioso-norovirus-confinamiento-crucero-brudeos-francia-130189315) | Qué es el norovirus que ha provocado el confinamiento de 1.700 personas en un crucero en Francia por las sospechas de contagio | 2026-05-13 16:15
-  - filter: duplicate in rolling 24h window
-- [El Govern certifica su apuesta por la defensa firmando un convenio de colaboración con AeroS](https://www.elperiodico.com/es/economia/20260513/govern-certifica-apuesta-defensa-firmando-acuerdo-colaboracion-aeros-130187842) | El Govern certifica su apuesta por la defensa firmando un convenio de colaboración con AeroS | 2026-05-13 16:09
-  - filter: duplicate in rolling 24h window
-- [Tesla se despide del Model X y el Model S, los que iniciaron su historia, pero que ya no se venden](https://www.elperiodico.com/es/motor/20260513/tesla-despide-model-x-model-s-130170657) | Tesla se despide del Model X y el Model S, los que iniciaron su historia, pero que ya no se venden | 2026-05-13 16:07
-  - filter: duplicate in rolling 24h window
-- [Mònica Almiñana, gerente del Consorcio Sanitario: "Hacemos una actuación quirúrgica en las urgencias psiquiátricas"](https://www.elperiodico.com/es/ser-feliz/20260513/monica-alminana-gerente-consorcio-sanitario-barcelona-urgencias-psiquiatricas-hospitalizacion-domiciliaria-130135953) | Mònica Almiñana, gerente del Consorcio Sanitario: "Hacemos una actuación quirúrgica en las urgencias psiquiátricas" | 2026-05-13 16:01
-  - filter: duplicate in rolling 24h window
-- [IA, chips y guerra comercial: el desafío tecnológico que marcará la cumbre de Trump y Xi Jinping](https://www.elperiodico.com/es/internacional/20260513/trump-china-xi-jinping-guerra-inteligencia-artificial-chatgpt-deepseek-ia-estados-unidos-130188664) | IA, chips y guerra comercial: el desafío tecnológico que marcará la cumbre de Trump y Xi Jinping | 2026-05-13 16:00
-  - filter: duplicate in rolling 24h window
-- [La revolución de los 'tests del alzhéimer' acelera la búsqueda de pruebas similares para el párkinson y otras demencias](https://www.elperiodico.com/es/sanidad/20260513/biomarcadores-sangre-alzheimer-abren-puerta-parkinson-demencia-frontotemporal-130181909) | La revolución de los 'tests del alzhéimer' acelera la búsqueda de pruebas similares para el párkinson y otras demencias | 2026-05-13 15:39
-  - filter: duplicate in rolling 24h window
-- [Just Eat negocia un ERE de 50 despidos entre sus jefes de área: "Nos sustituyen por la IA"](https://www.elperiodico.com/es/economia/20260513/just-eat-negocia-ere-50-despidos-coordinadores-reparto-130174172) | Just Eat negocia un ERE de 50 despidos entre sus jefes de área: "Nos sustituyen por la IA" | 2026-05-13 15:39
-  - filter: duplicate in rolling 24h window
-- [Ayuso y la Malinche de Nacho Cano](https://www.elperiodico.com/es/opinion/20260513/ayuso-malinche-nacho-cano-articulo-pilar-garces-130185708) | Ayuso y la Malinche de Nacho Cano | 2026-05-13 15:31
-  - filter: duplicate in rolling 24h window
-- [La Fira Trapezi de Reus cumple 30 años como un referente internacional: "El circo contemporáneo catalán ya interesa a nivel europeo"](https://www.elperiodico.com/es/tarragona/20260513/fira-trapezi-reus-30-anos-circo-contemporaneo-internacional-130183903) | La Fira Trapezi de Reus cumple 30 años como un referente internacional: "El circo contemporáneo catalán ya interesa a nivel europeo" | 2026-05-13 15:30
-  - filter: duplicate in rolling 24h window
-- [La ciencia desmonta el mito de los arándanos: este gesto puede arruinar sus propiedades saludables](https://www.elperiodico.com/es/vida-y-estilo/20260513/beneficios-arandano-nutricion-alimento-baya-fruta-dv-125724149) | La ciencia desmonta el mito de los arándanos: este gesto puede arruinar sus propiedades saludables | 2026-05-13 15:30
-  - filter: duplicate in rolling 24h window
-- [El gran secreto del Barça es el fuet](https://www.elperiodico.com/es/opinion/20260513/gran-secreto-barca-fuet-liga-rua-articulo-miqui-otero-130143764) | El gran secreto del Barça es el fuet | 2026-05-13 15:20
-  - filter: duplicate in rolling 24h window
-- [La extranjera eres tú](https://www.elperiodico.com/es/opinion/20260513/extranjera-viajar-texas-ayuso-articulo-imma-sust-130150274) | La extranjera eres tú | 2026-05-13 15:14
-  - filter: duplicate in rolling 24h window
-- [La Comisión Europea pedirá a los gobiernos en 2027 que prohíban las terapias de conversión dirigidas al colectivo LGTBI+](https://www.elperiodico.com/es/sociedad/20260513/comision-europea-prohibicion-terapias-conversion-lgtbiq-130185336) | La Comisión Europea pedirá a los gobiernos en 2027 que prohíban las terapias de conversión dirigidas al colectivo LGTBI+ | 2026-05-13 15:12
-  - filter: duplicate in rolling 24h window
-- [Detenida una persona por estafar a 13 ancianos con la técnica de la "urgencia hospitalaria": "No llores, hijo"](https://www.elperiodico.com/es/sociedad/20260513/detenida-persona-estafar-13-ancianos-urgencia-hospitalaria-130185029) | Detenida una persona por estafar a 13 ancianos con la técnica de la "urgencia hospitalaria": "No llores, hijo" | 2026-05-13 15:03
-  - filter: duplicate in rolling 24h window
-- [Parfois abre su primera pop up en Barcelona con moda Bridal](https://www.elperiodico.com/es/fotos/gente/parfois-abre-primera-pop-up-barcelona-moda-bridal-fotos-130185206) | Parfois abre su primera pop up en Barcelona con moda Bridal | 2026-05-13 14:45
-  - filter: duplicate in rolling 24h window
-- [El Sónar ambiciona un récord de público, 160.000 personas, con jornadas de hasta 14 horas de música ininterrumpidas en Fira Gran Via](https://www.elperiodico.com/es/ocio-y-cultura/20260513/sonar-ambiciona-record-publico-160-130181872) | El Sónar ambiciona un récord de público, 160.000 personas, con jornadas de hasta 14 horas de música ininterrumpidas en Fira Gran Via | 2026-05-13 14:36
-  - filter: duplicate in rolling 24h window
-- [Yael Eisenstat, exanalista de la CIA: "La alianza de Trump con Silicon Valley es muy peligrosa para la integridad de las elecciones en EEUU"](https://www.elperiodico.com/es/internacional/20260513/yael-eisenstat-exanalista-cia-alianza-trump-silicon-valley-muy-peligrosa-integridad-elecciones-eeuu-130184173) | Yael Eisenstat, exanalista de la CIA: "La alianza de Trump con Silicon Valley es muy peligrosa para la integridad de las elecciones en EEUU" | 2026-05-13 14:28
-  - filter: duplicate in rolling 24h window
-- [Parfois abre en Barcelona su primera pop up con su nueva colección Bridal: faldas de gasa con cola de volantes, tops etéreos y hasta un kimono de seda](https://www.elperiodico.com/es/gente/20260513/parfois-pop-up-barcelona-coleccion-bridal-novias-bodas-ceremonias-130181707) | Parfois abre en Barcelona su primera pop up con su nueva colección Bridal: faldas de gasa con cola de volantes, tops etéreos y hasta un kimono de seda | 2026-05-13 14:27
-  - filter: duplicate in rolling 24h window
-- [Iyana Martín anuncia su marcha del Perfumerías Avenida](https://as.com/baloncesto/mas_baloncesto/iyana-martin-anuncia-su-marcha-del-perfumerias-avenida-f202605-n/) | Liga Femenina Baloncesto | 2026-05-13 14:03
-  - filter: duplicate in rolling 24h window
-- [Volvo Trucks estrenará nuevos motores más eficiente y compatibles con combustibles alternativos](https://www.elperiodico.com/es/motor/20260513/volvo-trucks-camiones-nuevos-motores-eficientes-combustibles-alternativos-130170542) | Volvo Trucks estrenará nuevos motores más eficiente y compatibles con combustibles alternativos | 2026-05-13 14:02
-  - filter: duplicate in rolling 24h window
-- [¿Ganará el PP por mayoría absoluta las elecciones en Andalucía 2026? Así están las predicciones más allá de las encuestas](https://www.elperiodico.com/es/politica/20260513/pp-mayoria-absoluta-elecciones-andalucia-2026-predicciones-encuestas-129667701) | ¿Ganará el PP por mayoría absoluta las elecciones en Andalucía 2026? Así están las predicciones más allá de las encuestas | 2026-05-13 13:58
-  - filter: duplicate in rolling 24h window
-- [El abogado de Gerard Piqué deja en el aire si piensa demandar a Shakira por sobreexponer a sus hijos](https://www.elperiodico.com/es/gente/20260513/abogado-gerard-pique-deja-aire-130178282) | El abogado de Gerard Piqué deja en el aire si piensa demandar a Shakira por sobreexponer a sus hijos | 2026-05-13 13:43
-  - filter: duplicate in rolling 24h window
-- [La 28º edición del SIL Barcelona reunirá más de 160 innovaciones y cerca de 80 startups](https://www.elperiodico.com/es/consorci-zona-franca/20260513/28o-edicion-sil-barcelona-reunira-bc-130177288) | La 28º edición del SIL Barcelona reunirá más de 160 innovaciones y cerca de 80 startups | 2026-05-13 13:31
-  - filter: duplicate in rolling 24h window
-- [Detenidos por robar 150 metros de cobre en Sant Feliu de Llobregat que ha provocado retrasos en la R4](https://www.elperiodico.com/es/sucesos/20260513/detenidos-robar-150-metros-cobre-sant-feliu-mossos-130179513) | Detenidos por robar 150 metros de cobre en Sant Feliu de Llobregat que ha provocado retrasos en la R4 | 2026-05-13 13:23
-  - filter: duplicate in rolling 24h window
-- [Ni Miguel Ángel Blanco ni Hipercor: los jóvenes desconocen qué fue ETA](https://www.elperiodico.com/es/sociedad/20260513/jovenes-espana-desconocen-eta-130177980) | Ni Miguel Ángel Blanco ni Hipercor: los jóvenes desconocen qué fue ETA | 2026-05-13 13:09
-  - filter: duplicate in rolling 24h window
-- [Soledad Puértolas, escritora: "Solo me siento libre de verdad cuando estoy escribiendo"](https://www.elperiodico.com/es/ocio-y-cultura/20260513/soledad-puertolas-escritora-siento-libre-130171426) | Soledad Puértolas, escritora: "Solo me siento libre de verdad cuando estoy escribiendo" | 2026-05-13 13:05
-  - filter: duplicate in rolling 24h window
-- [Caen los "Whiteboys", la organización juvenil de ultraderecha más violenta de Asturias: hay 19 detenidos, cuatro de ellos menores](https://www.elperiodico.com/es/sucesos/20260513/caen-whiteboys-organizacion-juvenil-ultraderecha-130178068) | Caen los "Whiteboys", la organización juvenil de ultraderecha más violenta de Asturias: hay 19 detenidos, cuatro de ellos menores | 2026-05-13 13:02
-  - filter: duplicate in rolling 24h window
-- [Tras superar un cáncer, la princesa Catalina retoma su agenda internacional con un viaje a Italia](https://www.elperiodico.com/es/gente/20260513/superar-cancer-princesa-catalina-retoma-130176179) | Tras superar un cáncer, la princesa Catalina retoma su agenda internacional con un viaje a Italia | 2026-05-13 12:41
-  - filter: duplicate in rolling 24h window
-- [Son 12″ que tienen alucinando a un país y una liga entera: la ‘marcianada’ de Aday Mara que ya es viral](https://as.com/baloncesto/videos/son-12-que-tienen-alucinando-a-un-pais-y-una-liga-entera-la-marcianada-de-aday-mara-que-ya-es-viral-f202605-v/) | Aday Mara | 2026-05-13 12:27
-  - filter: duplicate in rolling 24h window
-- [Son 12″ que tienen alucinando a un país y una liga entera: la ‘marcianada’ de Aday Mara que ya es viral](https://as.com/baloncesto/videos/son-12-que-tienen-alucinando-a-un-pais-y-una-liga-entera-la-marcianada-de-aday-mara-que-ya-es-viral-f202605-v/) | Aday Mara | 2026-05-13 12:27
-  - filter: duplicate in rolling 24h window
-- [Son 12″ que tienen alucinando a un país y una liga entera: la ‘marcianada’ de Aday Mara que ya es viral](https://as.com/baloncesto/videos/son-12-que-tienen-alucinando-a-un-pais-y-una-liga-entera-la-marcianada-de-aday-mara-que-ya-es-viral-f202605-v/) | Aday Mara | 2026-05-13 12:27
-  - filter: duplicate in rolling 24h window
-- [El hantavirus 'infecta' las relaciones entre el Gobierno de Canarias y la oposición](https://www.elperiodico.com/es/politica/20260513/hantavirus-infecta-relaciones-gobierno-canarias-130176481) | El hantavirus 'infecta' las relaciones entre el Gobierno de Canarias y la oposición | 2026-05-13 12:18
-  - filter: duplicate in rolling 24h window
-- [La llegada de una masa de aire polar a España provocará una bajada de las temperaturas de entre 5 y 10 grados](https://www.elperiodico.com/es/sociedad/20260513/masa-aire-polar-espana-bajada-temperaturas-aemet-prevision-130173852) | La llegada de una masa de aire polar a España provocará una bajada de las temperaturas de entre 5 y 10 grados | 2026-05-13 12:12
-  - filter: duplicate in rolling 24h window
-- [Una “mancha” en el Bilbao Basket](https://as.com/baloncesto/una-mancha-en-el-bilbao-basket-f202605-n/) | Bilbao basket | 2026-05-13 11:45
-  - filter: duplicate in rolling 24h window
-- [Más del 90% los adultos apoyan fijar una edad mínima para acceder a las redes sociales](https://www.elperiodico.com/es/sociedad/20260513/adultos-aprueban-veto-redes-sociales-menores-130171350) | Más del 90% los adultos apoyan fijar una edad mínima para acceder a las redes sociales | 2026-05-13 11:30
-  - filter: duplicate in rolling 24h window
-- [GAM consolida su giro hacia un crecimiento más estable y diversificado](https://www.elperiodico.com/es/comunicacion-empresarial/20260513/gam-consolida-giro-crecimiento-estable-bc-130173573) | GAM consolida su giro hacia un crecimiento más estable y diversificado | 2026-05-13 11:28
-  - filter: duplicate in rolling 24h window
-- [Un asesinato en el Camino de Santiago abre la nueva temporada de 'true crime' de Carles Porta en Movistar Plus+: "Siempre contactamos con las familias"](https://www.elperiodico.com/es/tele/20260513/carles-porta-peregrina-movistar-true-crime-camino-santiago-130138563) | Un asesinato en el Camino de Santiago abre la nueva temporada de 'true crime' de Carles Porta en Movistar Plus+: "Siempre contactamos con las familias" | 2026-05-13 10:05
-  - filter: duplicate in rolling 24h window
-- [Restaurante Roig Robí: una casa que ofrece seguridad (y un relajante jardín)](https://www.elperiodico.com/es/gastronomia/restaurantes/20260513/restaurante-roig-robi-barcelona-130085799) | Restaurante Roig Robí: una casa que ofrece seguridad (y un relajante jardín) | 2026-05-13 07:45
-  - filter: duplicate in rolling 24h window
-- [Los mejores platos de bacalao de Barcelona se cocinan en estos restaurantes](https://www.elperiodico.com/es/gastronomia/restaurantes/20260513/mejor-bacalao-barcelona-restaurantes-128788367) | Los mejores platos de bacalao de Barcelona se cocinan en estos restaurantes | 2026-05-13 07:44
-  - filter: duplicate in rolling 24h window
-- [La sumiller del estrella Michelin Pabú nos descubre 7 joyas en la zona de Gredos](https://www.elperiodico.com/es/gastronomia/vinos/20260513/mejores-vinos-gredos-130157618) | La sumiller del estrella Michelin Pabú nos descubre 7 joyas en la zona de Gredos | 2026-05-13 07:43
-  - filter: duplicate in rolling 24h window
-- [Así será el primer tardeo en un mercado municipal: conciertos, ‘dj’ y tapas kilómetro 0 en Santa Coloma de Gramanet](https://www.elperiodico.com/es/que-hacer/planes/20260513/primer-tardeo-mercado-municipal-santa-coloma-de-gramanet-barcelona-mercat-sagarra-130159055) | Así será el primer tardeo en un mercado municipal: conciertos, ‘dj’ y tapas kilómetro 0 en Santa Coloma de Gramanet | 2026-05-13 07:30
-  - filter: duplicate in rolling 24h window
-- [Las mejores tortillas con 'cosas' por encima de Barcelona (y con cosas por debajo)](https://www.elperiodico.com/es/gastronomia/restaurantes/20260513/mejores-tortillas-toppings-restaurantes-barcelona-107673998) | Las mejores tortillas con 'cosas' por encima de Barcelona (y con cosas por debajo) | 2026-05-13 07:00
-  - filter: duplicate in rolling 24h window
-- [Este fin de semana hay macrosalón recreativo de los años 80 y 90 en L’Hospitalet](https://www.elperiodico.com/es/que-hacer/planes/20260513/sera-macrosalon-recreativo-anos-80-129882749) | Este fin de semana hay macrosalón recreativo de los años 80 y 90 en L’Hospitalet | 2026-05-13 07:00
-  - filter: duplicate in rolling 24h window
-- [Eurovisión por Youtube](https://www.elperiodico.com/es/tele/20260513/eurovision-youtube-130146318) | Eurovisión por Youtube | 2026-05-13 07:00
-  - filter: duplicate in rolling 24h window
-- [Moverse en coche eléctrico por menos de 2 euros los 100 km: así está cambiando la movilidad](https://www.elperiodico.com/es/economia/20260513/ahorrar-combustible-coche-electrico-bassols-energia-bc-130083249) | Moverse en coche eléctrico por menos de 2 euros los 100 km: así está cambiando la movilidad | 2026-05-13 06:30
-  - filter: duplicate in rolling 24h window
-- [La defensa de Jordi Pujol Ferrusola pide su absolución porque no hay "nada" que acredite que cobró por obra pública](https://www.elperiodico.com/es/politica/20260513/juicio-pujol-informe-defensa-hijos-expresidente-negar-corrupcion-130154931) | La defensa de Jordi Pujol Ferrusola pide su absolución porque no hay "nada" que acredite que cobró por obra pública | 2026-05-13 06:01
-  - filter: duplicate in rolling 24h window
-- [SIL Barcelona pone de relieve la confianza de las empresas en la IA como aliada para mejorar su logística](https://www.elperiodico.com/es/consorci-zona-franca/20260513/sil-barcelona-pone-relieve-confianza-empresas-ia-aliada-mejorar-logistica-bc-129880631) | SIL Barcelona pone de relieve la confianza de las empresas en la IA como aliada para mejorar su logística | 2026-05-13 06:00
-  - filter: duplicate in rolling 24h window
-- [Catalunya reforzará las urgencias psiquiátricas con hospitalización domiciliaria: Clínic y Vall d'Hebron doblarán camas](https://www.elperiodico.com/es/ser-feliz/20260513/urgencias-psiquiatricas-plan-refuerzo-hospitalizacion-domiciliaria-hospitales-barcelona-cataluna-130126113) | Catalunya reforzará las urgencias psiquiátricas con hospitalización domiciliaria: Clínic y Vall d'Hebron doblarán camas | 2026-05-13 06:00
-  - filter: duplicate in rolling 24h window
-- [Huelga de profesores en Catalunya: ¿Dónde es hoy miércoles y dónde toca mañana jueves?](https://www.elperiodico.com/es/sociedad/20260513/huelga-profesores-barcelona-catalunya-hoy-miercoles-manana-jueves-dv-130131145) | Huelga de profesores en Catalunya: ¿Dónde es hoy miércoles y dónde toca mañana jueves? | 2026-05-13 00:01
-  - filter: duplicate in rolling 24h window
-- [Mucho más que escalada: así será la experiencia alrededor de la Copa del Mundo en Alcobendas](https://www.elperiodico.com/es/deportes/20260512/escalada-sera-experiencia-alrededor-copa-bc-130163576) | Mucho más que escalada: así será la experiencia alrededor de la Copa del Mundo en Alcobendas | 2026-05-12 23:59
-  - filter: duplicate in rolling 24h window
-- [El Manresa minimiza las opciones de playoff del Girona](https://as.com/baloncesto/acb/el-manresa-minimiza-las-opciones-de-playoff-del-girona-f202605-n/) | Baloncesto | 2026-05-12 22:33
-  - filter: duplicate in rolling 24h window
-- [Argentina busca el "punto cero" del contagio del hantavirus y las provincias patagónicas llaman a la tranquilidad](https://www.elperiodico.com/es/internacional/20260512/argentina-busca-punto-cero-contagio-hantavirus-patagonia-llama-calma-130158283) | Argentina busca el "punto cero" del contagio del hantavirus y las provincias patagónicas llaman a la tranquilidad | 2026-05-12 20:38
-  - filter: older than 24h
-- [Las enfermeras lo tienen claro: estas son las mejores zapatillas para estar 12 horas de pie](https://www.elperiodico.com/es/shopping/20260512/zapatillas-skechers-mejores-mas-comodas-evitar-dolor-pies-bc-130146254) | Las enfermeras lo tienen claro: estas son las mejores zapatillas para estar 12 horas de pie | 2026-05-12 20:00
-  - filter: older than 24h
-- [Valencia sube de temperatura](https://as.com/opinion/valencia-sube-de-temperatura-f202605-n/) | Baloncesto | 2026-05-12 19:13
-  - filter: older than 24h
-- [El Valencia, a un paso de la gesta del Madrid 2023](https://as.com/baloncesto/euroliga/el-valencia-a-un-paso-de-la-gesta-del-madrid-2023-f202605-n/) | Baloncesto | 2026-05-12 17:16
-  - filter: older than 24h
-- [Los primeros investigados del caso Montoro rechazan declarar, a la espera de si la Audiencia lo traslada de Tarragona a Madrid](https://www.elperiodico.com/es/tarragona/20260512/primeros-investigados-caso-montoro-rechazan-130141403) | Los primeros investigados del caso Montoro rechazan declarar, a la espera de si la Audiencia lo traslada de Tarragona a Madrid | 2026-05-12 16:31
-  - filter: older than 24h
-- [¿Crisis sanitaria o manipulación?](https://www.elperiodico.com/es/opinion/20260512/crisis-sanitaria-o-manipulacion-hantavirus-articulo-joan-guix-130106961) | ¿Crisis sanitaria o manipulación? | 2026-05-12 15:44
-  - filter: older than 24h
-- [A Coruña será la sede de la Final Four 2026 en Primera FEB](https://as.com/baloncesto/mas_baloncesto/la-coruna-sera-la-sede-de-la-final-four-2026-en-primera-feb-f202605-n/) | Baloncesto | 2026-05-12 15:34
-  - filter: older than 24h
-- [Golpe durísimo al Real Madrid: Tavares y Len se pierden la Final Four](https://as.com/baloncesto/euroliga/golpe-durisimo-al-real-madrid-tavares-y-len-se-pierden-la-final-four-f202605-n/) | Baloncesto | 2026-05-12 15:18
-  - filter: older than 24h
-- [Hernán, las ratas y el orgullo](https://www.elperiodico.com/es/opinion/20260512/hernan-ratas-orgullo-diaz-ayuso-articulo-emma-riverola-130142489) | Hernán, las ratas y el orgullo | 2026-05-12 14:55
-  - filter: older than 24h
-- [Jan Vesely se retira](https://as.com/baloncesto/jan-vesely-se-retira-f202605-n/) | Euroliga | 2026-05-12 14:01
-  - filter: older than 24h
-- [El Bilbao Basket ya tiene himno](https://as.com/baloncesto/el-bilbao-basket-ya-tiene-himno-f202605-n/) | Bilbao basket | 2026-05-12 13:36
-  - filter: older than 24h
-- [Pedro Martínez: “El factor cancha no es tan importante”](https://as.com/baloncesto/euroliga/pedro-martinez-el-factor-cancha-no-es-tan-importante-f202605-n/) | Valencia Basket Club | 2026-05-12 13:17
-  - filter: older than 24h
-- [Este jueves vuelve el Handmade Festival de Barcelona, el gran evento gratuito con talleres de manualidades y artesanía](https://www.elperiodico.com/es/que-hacer/planes/20260512/handmade-festival-barcelona-gratuito-manualidades-artesania-130115731) | Este jueves vuelve el Handmade Festival de Barcelona, el gran evento gratuito con talleres de manualidades y artesanía | 2026-05-12 13:07
-  - filter: older than 24h
-- [La OMS minimiza "un brote mayor" de hantavirus pero no descarta más casos: "Hubo muchas interacciones en el barco"](https://www.elperiodico.com/es/sanidad/20260512/oms-descarta-brote-mayor-hantavirus-130128569) | La OMS minimiza "un brote mayor" de hantavirus pero no descarta más casos: "Hubo muchas interacciones en el barco" | 2026-05-12 12:12
-  - filter: older than 24h
-- [Doncic anuncia su baja con Eslovenia por cuestiones personales](https://as.com/baloncesto/mas_baloncesto/doncic-anuncia-su-baja-con-eslovenia-por-cuestiones-personales-f202605-n/) | Baloncesto | 2026-05-12 11:33
-  - filter: older than 24h
-- [Jornada de huelga de profesores en Catalunya](https://www.elperiodico.com/es/fotos/sociedad/jornada-huelga-profesores-catalunya-fotos-130122843) | Jornada de huelga de profesores en Catalunya | 2026-05-12 08:44
-  - filter: older than 24h
-- [Narcotráfico: la amenaza que cambió de escala](https://www.elperiodico.com/es/opinion/20260512/narcotrafico-amenaza-cambio-escala-130108287) | Narcotráfico: la amenaza que cambió de escala | 2026-05-12 07:00
-  - filter: older than 24h
-- [Loles León y la normalidad](https://www.elperiodico.com/es/tele/20260512/loles-leon-normalidad-130106305) | Loles León y la normalidad | 2026-05-12 07:00
-  - filter: older than 24h
-- [Jiménez: “Yo le puse Conan a Fernando Martín; y él me bautizó Jimix”](https://as.com/baloncesto/mas_baloncesto/jimenez-yo-le-puse-conan-a-fernando-martin-y-el-me-bautizo-jimix-f202605-n/) | Selección Española Baloncesto | 2026-05-12 06:46
-  - filter: older than 24h
-- [El hospital (fantasma) de pandemias](https://www.elperiodico.com/es/opinion/20260512/hospital-fantasma-pandemias-130106220) | El hospital (fantasma) de pandemias | 2026-05-12 06:00
-  - filter: older than 24h
-- [Eloísa Román, psiquiatra: "El autismo es una manera de percibir y procesar, no implica una patología mental"](https://www.elperiodico.com/es/ser-feliz/20260512/eloisa-roman-psiquiatra-autismo-manera-129882704) | Eloísa Román, psiquiatra: "El autismo es una manera de percibir y procesar, no implica una patología mental" | 2026-05-12 06:00
-  - filter: older than 24h
-- [De 90 a 49 euros: Skechers desploma el precio de sus zapatillas más versátiles, cómodas y bonitas (¡y más!)](https://www.elperiodico.com/es/shopping/20260511/amazon-ofertas-dia-mejores-rebajas-descuentos-productos-mas-buscados-130103428) | De 90 a 49 euros: Skechers desploma el precio de sus zapatillas más versátiles, cómodas y bonitas (¡y más!) | 2026-05-11 16:42
-  - filter: older than 24h
-- [Rubén Viñuales: "Tarragona necesita empresas que generen progreso y riqueza para el territorio"](https://www.elperiodico.com/es/tarragona/20260511/alcalde-ruben-vinuales-tarragona-necesita-130094395) | Rubén Viñuales: "Tarragona necesita empresas que generen progreso y riqueza para el territorio" | 2026-05-11 13:56
-  - filter: older than 24h
-- [Folgueiras, al frente del nuevo ‘training camp’ convocado por Chus Mateo](https://as.com/baloncesto/mas_baloncesto/folgueiras-al-frente-del-nuevo-training-camp-convocado-por-chus-mateo-f202605-n/) | Baloncesto | 2026-05-11 13:34
-  - filter: older than 24h
-- [El reto de replicar en Tarragona el modelo de regeneración del agua en Barcelona: "Es absolutamente viable"](https://www.elperiodico.com/es/tarragona/20260511/reto-replicar-tarragona-modelo-regeneracion-agua-barcelona-absolutamente-viable-130086083) | El reto de replicar en Tarragona el modelo de regeneración del agua en Barcelona: "Es absolutamente viable" | 2026-05-11 12:50
-  - filter: older than 24h
-- [Key se rompe la nariz](https://as.com/baloncesto/euroliga/key-se-rompe-la-nariz-f202605-n/) | Valencia Basket Club | 2026-05-11 12:39
-  - filter: older than 24h
-- [Las centrales de Ascó y Vandellós estiman que el apagón nuclear llegará al quedarles "la mitad de vida útil" en Tarragona](https://www.elperiodico.com/es/tarragona/20260511/centrales-asco-vandellos-estiman-apagon-nucelar-la-mitad-vida-util-tarragona-130085710) | Las centrales de Ascó y Vandellós estiman que el apagón nuclear llegará al quedarles "la mitad de vida útil" en Tarragona | 2026-05-11 12:16
-  - filter: older than 24h
-- [El Dubái se entromete en los planes de futuro del Barcelona](https://as.com/baloncesto/euroliga/el-dubai-se-entromete-en-los-planes-de-futuro-del-barcelona-f202605-n/) | Dubái BC | 2026-05-11 12:13
-  - filter: older than 24h
-- [Catalunya refuerza el control en la selectividad con detectores de dispositivos electrónicos](https://www.elperiodico.com/es/sociedad/20260511/cataluna-vigilancia-selectividad-dispositivos-electronicos-130085382) | Catalunya refuerza el control en la selectividad con detectores de dispositivos electrónicos | 2026-05-11 10:10
-  - filter: older than 24h
-- [Judit Argüera, maestra diagnosticada con autismo: "Los niños están preparados. ¿Lo está la comunidad educativa?, ¿lo están los padres?"](https://www.elperiodico.com/es/ser-feliz/20260511/judit-arguera-maestra-diagnosticada-autismo-129832696) | Judit Argüera, maestra diagnosticada con autismo: "Los niños están preparados. ¿Lo está la comunidad educativa?, ¿lo están los padres?" | 2026-05-11 06:00
-  - filter: older than 24h
-- [La gama de Kia ofrece todas las soluciones y confianza necesarias para decantarse por un vehículo 100% eléctrico](https://www.elperiodico.com/es/sociedad/20260510/gama-kia-ofrece-soluciones-confianza-bc-130079211) | La gama de Kia ofrece todas las soluciones y confianza necesarias para decantarse por un vehículo 100% eléctrico | 2026-05-10 23:59
-  - filter: older than 24h
-- [El Valencia Basket, finalista al límite](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-finalista-al-limite-f202605-n/) | Baloncesto | 2026-05-10 21:26
-  - filter: older than 24h
-- [El Baskonia asalta el Roig Arena y aprieta  la clasificación](https://as.com/baloncesto/acb/baskonia-asalta-el-roig-arena-y-aprieta-la-clasificacion-f202605-n/) | Valencia Basket Club | 2026-05-10 21:10
-  - filter: older than 24h
-- [Scariolo: “No quiero manchar públicamente la victoria del Breogán”](https://as.com/baloncesto/acb/scariolo-no-quiero-manchar-publicamente-la-victoria-del-breogan-f202605-n/) | Baloncesto | 2026-05-10 20:44
-  - filter: older than 24h
-- [Así vivimos el Real Madrid-Río Breogán: Liga Endesa de baloncesto 2026](https://as.com/baloncesto/acb/real-madrid-rio-breogan-en-directo-liga-endesa-de-baloncesto-2026-en-vivo-hoy-f202605-d/) | Baloncesto | 2026-05-10 19:41
-  - filter: older than 24h
-- [El Breogán asalta la pista del Madrid casi 24 años después](https://as.com/baloncesto/acb/el-breogan-asalta-la-pista-del-madrid-casi-24-anos-despues-f202605-n/) | Baloncesto | 2026-05-10 19:29
-  - filter: older than 24h
-- [Resumen del Real Madrid vs Breogán, jornada 30 de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-breogan-jornada-30-de-la-liga-endesa-f202605-v/) | Liga ACB | 2026-05-10 19:20
-  - filter: older than 24h
-- [Giannakopoulos reaparece: “Hemos enviado un vídeo a la Euroliga”](https://as.com/futbol/giannakopoulos-reaparece-hemos-enviado-un-video-a-la-euroliga-f202605-n/) | Valencia Basket Club | 2026-05-10 15:56
-  - filter: older than 24h
-- [Pustovyi castiga al Baxi Manresa](https://as.com/baloncesto/acb/pustovyi-castiga-al-baxi-manresa-f202605-n/) | Baloncesto | 2026-05-10 15:42
-  - filter: older than 24h
-- [El Lleida roza la salvación](https://as.com/baloncesto/el-lleida-roza-la-salvacion-f202605-n/) | Lleida bàsquet | 2026-05-10 14:10
-  - filter: older than 24h
-- [En directo, Casademont Zaragoza-Perfumerías Avenidas de Liga Femenina Endesa](https://as.com/baloncesto/videos/en-directo-casademont-zaragoza-perfumerias-avenidas-de-liga-femenina-endesa-f202605-v/) | Baloncesto femenino | 2026-05-10 12:29
-  - filter: older than 24h
-- [Scariolo entra en un selecto grupo](https://as.com/baloncesto/euroliga/scariolo-entra-en-un-selecto-grupo-f202605-n/) | Baloncesto | 2026-05-10 08:01
-  - filter: older than 24h
-- [Lukosius se viste de héroe y le da la primera Champions al Rytas con una brutal remontada](https://as.com/baloncesto/mas_baloncesto/el-rytas-conquista-su-primer-titulo-con-una-remontada-memorable-f202605-n/) | Baloncesto | 2026-05-09 22:27
-  - filter: older than 24h
-- [Un UCAM Murcia histórico](https://as.com/baloncesto/acb/un-ucam-murcia-historico-f202605-n/) | Baloncesto | 2026-05-09 20:51
-  - filter: older than 24h
-- [Barcelona - Burgos: resumen y resultado, ACB (91-76)](https://as.com/baloncesto/acb/barcelona-burgos-en-directo-acb-liga-endesa-202526-hoy-en-vivo-f202605-d/) | Baloncesto | 2026-05-09 20:48
-  - filter: older than 24h
-- [El mejor Núñez esboza una sonrisa al Barça](https://as.com/baloncesto/acb/el-mejor-nunez-esboza-una-sonrisa-al-barca-f202605-n/) | ACB | 2026-05-09 20:40
-  - filter: older than 24h
-- [El Covirán Granada se da una vida extra](https://as.com/baloncesto/acb/el-coviran-granada-se-da-una-vida-extra-f202605-n/) | Baloncesto | 2026-05-09 20:40
-  - filter: older than 24h
-- [El Unicaja pone algo de calma al caos](https://as.com/baloncesto/el-unicaja-pone-algo-de-calma-al-caos-f202605-n/) | Unicaja Málaga | 2026-05-09 20:12
-  - filter: older than 24h
-- [Se completa la primera Final 6 de la Liga U](https://as.com/baloncesto/mas_baloncesto/se-completa-la-primera-final-6-de-la-liga-u-f202605-n/) | Baloncesto | 2026-05-09 19:09
-  - filter: older than 24h
-- [El calendario no da tregua al Valencia](https://as.com/baloncesto/euroliga/el-calendario-no-da-tregua-al-valencia-f202605-n/) | Baloncesto | 2026-05-09 18:57
-  - filter: older than 24h
-- [Así queda el playoff de ascenso a la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-queda-el-playoff-por-el-ascenso-a-la-liga-endesa-f202605-n/) | Baloncesto | 2026-05-09 16:56
-  - filter: older than 24h
-- [El Madrid, casi un fijo en la Final Four](https://as.com/baloncesto/euroliga/el-madrid-casi-un-fijo-en-la-final-four-f202605-n/) | Baloncesto | 2026-05-09 16:30
-  - filter: older than 24h
-- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/) | Unicaja Málaga | 2026-05-09 15:31
-  - filter: older than 24h
-- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/) | Unicaja Málaga | 2026-05-09 15:31
-  - filter: older than 24h
-- [Ataman calienta el quinto partido: “Nunca había visto algo tan extraño”](https://as.com/baloncesto/euroliga/ataman-calienta-el-quinto-partido-en-valencia-nunca-habia-visto-cosas-tan-extranas-f202605-n/) | Baloncesto | 2026-05-08 23:55
-  - filter: older than 24h
-- [Panathinaikos - Valencia: resumen y resultado, Playoff Euroliga (86-89)](https://as.com/baloncesto/euroliga/panathinaikos-valencia-4-en-directo-playoff-euroliga-2026-hoy-en-vivo-f202605-d/) | Euroliga | 2026-05-08 23:38
-  - filter: older than 24h
-- [El Fenerbahçe sigue su camino: 3-1 y a la Final Four](https://as.com/baloncesto/euroliga/el-fenerbahce-sigue-su-camino-3-1-y-a-la-final-four-f202605-n/) | Baloncesto | 2026-05-08 23:35
-  - filter: older than 24h
-- [Épico Valencia Basket](https://as.com/baloncesto/euroliga/epico-valencia-basket-f202605-n/) | Euroliga | 2026-05-08 23:11
-  - filter: older than 24h
-- [El Monbus Obradoiro regresa a la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/el-monbus-obradoiro-regresa-a-la-liga-endesa-f202605-n/) | Baloncesto | 2026-05-08 22:49
-  - filter: older than 24h
-- [Así están los cruces del Playoff de la Euroliga: resultados, cuadro y horarios de Real Madrid y Valencia Basket](https://as.com/baloncesto/euroliga/asi-estan-los-cruces-del-playoff-de-la-euroliga-resultados-cuadro-y-horarios-de-real-madrid-y-valencia-f202604-n/) | Baloncesto | 2026-05-08 22:22
-  - filter: older than 24h
-- [Sigue en directo el CB Canarias vs. Basquet Girona de Liga U](https://as.com/baloncesto/sigue-en-directo-el-cb-canarias-vs-basquet-girona-de-liga-u-f202605-v/) | Baloncesto | 2026-05-08 20:56
-  - filter: older than 24h
-- [Casimiro: “Este Real Madrid puede jugar a 130 puntos o a 60″](https://as.com/baloncesto/acb/casimiro-este-real-madrid-puede-jugar-a-130-puntos-o-a-60-f202605-n/) | Baloncesto | 2026-05-08 19:29
-  - filter: older than 24h
-- [Chris Duarte explota contra el Unicaja: “Una soga me tiene atado”](https://as.com/baloncesto/chris-duarte-explota-contra-el-unicaja-una-soga-me-tiene-atado-f202605-n/) | Baloncesto | 2026-05-08 18:41
-  - filter: older than 24h
-- [Las cuentas de la última jornada en la Primera FEB](https://as.com/baloncesto/mas_baloncesto/las-cuentas-de-la-ultima-jornada-en-la-primera-feb-f202605-n/) | Baloncesto | 2026-05-08 18:01
-  - filter: older than 24h
-- [Los ACB copan los premios de la Champions](https://as.com/baloncesto/los-acb-copan-los-premios-de-la-champions-f202605-n/) | Baloncesto | 2026-05-08 14:41
-  - filter: older than 24h
-- [El Bilbao Basket, orgullo de la ACB](https://as.com/baloncesto/el-bilbao-basket-orgullo-de-la-acb-f202605-n/) | FIBA Europe Cup | 2026-05-08 13:37
-  - filter: older than 24h
-- [La Euroliga bate récords: de asistencia, audiencias y en redes](https://as.com/baloncesto/euroliga/numeros-euroliga-f202605-n/) | Baloncesto | 2026-05-08 12:08
-  - filter: older than 24h
-- [Gracia Alonso de Armiño y Juana Camilión lideran la lista para la Copa del Mundo 3x3](https://as.com/baloncesto/mas_baloncesto/gracia-alonso-de-armino-y-juana-camilion-lideran-la-lista-para-la-copa-del-mundo-3x3-f202605-n/) | Baloncesto femenino | 2026-05-08 12:01
-  - filter: older than 24h
-- [La NBA redistribuirá 3.000 millones en la nueva competición europea](https://as.com/baloncesto/euroliga/la-nba-pondra-3000-millones-en-europa-f202605-n/) | Baloncesto | 2026-05-08 10:09
-  - filter: older than 24h
-- [Tras los pasos de Pedro](https://as.com/baloncesto/euroliga/tras-los-pasos-de-pedro-f202605-n/) | Valencia Basket Club | 2026-05-08 05:04
-  - filter: older than 24h
-- [Más ahorro para los conductores: Repsol amplía sus descuentos en combustibles hasta el 31 de mayo](https://www.elperiodico.com/es/sociedad/20260507/ahorro-conductores-repsol-amplia-descuentos-bc-129977737) | Más ahorro para los conductores: Repsol amplía sus descuentos en combustibles hasta el 31 de mayo | 2026-05-07 23:59
-  - filter: older than 24h
-- [Unicaja - AEK: resumen y resultado, Champions FIBA 2026 (65-78)](https://as.com/baloncesto/mas_baloncesto/unicaja-aek-en-directo-champions-fiba-2026-en-vivo-hoy-f202605-d/) | Baloncesto | 2026-05-07 23:41
-  - filter: older than 24h
-- [Hapoel - Real Madrid: resumen y resultado, Playoff Euroliga (81-87)](https://as.com/baloncesto/euroliga/hapoel-real-madrid-4-en-directo-playoff-euroliga-2026-hoy-en-vivo-f202605-d/) | Euroliga | 2026-05-07 23:34
-  - filter: older than 24h
-- [Resumen del Hapoel vs. Real Madrid de Euroliga](https://as.com/videos/euroliga/resumen-del-hapoel-vs-real-madrid-de-euroliga-f202605-v/) | Baloncesto | 2026-05-07 23:33
-  - filter: older than 24h
-- [Recado de Tavares: “Disfrázate de agencia de viajes y te vas para tu casa”](https://as.com/baloncesto/euroliga/recado-de-tavares-disfrazate-de-agencia-de-viajes-y-te-vas-para-tu-casa-f202605-n/) | Baloncesto | 2026-05-07 23:27
-  - filter: older than 24h
-- [Duro final de reinado](https://as.com/baloncesto/duro-final-de-reinado-f202605-n/) | Unicaja Málaga | 2026-05-07 23:24
-  - filter: older than 24h
-- [El rugido de Garuba](https://as.com/opinion/el-rugido-de-garuba-f202605-n/) | Usman Garuba | 2026-05-07 23:04
-  - filter: older than 24h
-- [Scariolo: “Hemos devuelto al Madrid al lugar donde debe estar”](https://as.com/baloncesto/euroliga/scariolo-hemos-devuelto-al-madrid-al-lugar-donde-debe-estar-f202605-n/) | Baloncesto | 2026-05-07 22:49
-  - filter: older than 24h
-- [Iyana manda al Avenida con ventaja a Zaragoza](https://as.com/baloncesto/mas_baloncesto/iyana-manda-al-avenida-con-ventaja-a-zaragoza-f202605-n/) | Baloncesto femenino | 2026-05-07 22:43
-  - filter: older than 24h
-- [El Madrid está de vuelta](https://as.com/baloncesto/euroliga/el-madrid-esta-de-vuelta-f202605-n/) | Baloncesto | 2026-05-07 22:24
-  - filter: older than 24h
-- [El Valencia pierde una gran oportunidad](https://as.com/baloncesto/mas_baloncesto/el-valencia-pierde-una-gran-oportunidad-f202605-n/) | Baloncesto femenino | 2026-05-07 21:19
-  - filter: older than 24h
-- [Resumen y resultado del Rytas Vilna - La Laguna Tenerife: Champions FIBA 2025-26](https://as.com/baloncesto/mas_baloncesto/rytas-vilna-la-laguna-tenerife-en-directo-champions-fiba-2026-en-vivo-hoy-f202605-d/) | Baloncesto | 2026-05-07 21:02
-  - filter: older than 24h
-- [BaCaLá de La Laguna Tenerife](https://as.com/baloncesto/bacala-de-la-laguna-tenerife-f202605-n/) | CB Canarias | 2026-05-07 20:57
-  - filter: older than 24h
-- [El playoff de la Liga Endesa empezará el 2 de junio y acabará como muy tarde el 28 de junio](https://as.com/baloncesto/acb/el-playoff-de-la-liga-endesa-empezara-el-2-de-junio-y-acabara-como-muy-tarde-el-28-de-junio-f202605-n/) | Baloncesto | 2026-05-07 15:15
-  - filter: older than 24h
-- [Diez jugadores para la concentración previa a la Copa del Mundo](https://as.com/baloncesto/mas_baloncesto/diez-jugadores-para-la-concentracion-previa-a-la-copa-del-mundo-f202605-n/) | Baloncesto 3x3 | 2026-05-07 14:23
-  - filter: older than 24h
-- [Movistar Plus+ estrena por sorpresa una de las series más adictivas del momento (y ya puedes verla por 4,99 euros)](https://www.elperiodico.com/es/shopping/20260507/mejores-series-online-movistar-plus-ver-peliculas-contratar-bc-129935118) | Movistar Plus+ estrena por sorpresa una de las series más adictivas del momento (y ya puedes verla por 4,99 euros) | 2026-05-07 05:30
-  - filter: older than 24h
-- [La World Climbing Series Comunidad de Madrid 2026: todo lo que necesitas saber](https://www.elperiodico.com/es/deportes/20260506/world-climbing-series-comunidad-madrid-bc-129935793) | La World Climbing Series Comunidad de Madrid 2026: todo lo que necesitas saber | 2026-05-06 23:59
-  - filter: older than 24h
-- [El presidente de la Generalitat Valenciana, Juan Francisco Pérez Llorca, en el Afterwork de EL PERIÓDICO](https://www.elperiodico.com/es/politica/20260505/presidente-generalitat-valenciana-juan-francisco-perez-llorca-afterwork-el-periodico-129881462) | El presidente de la Generalitat Valenciana, Juan Francisco Pérez Llorca, en el Afterwork de EL PERIÓDICO | 2026-05-05 18:23
-  - filter: older than 24h
-- [Esta plancha de Russell Hobbs es una auténtica superventas, alisa hasta las arrugas más difíciles y no llega ni a los 50 euros](https://www.elperiodico.com/es/shopping/20260505/plancha-vapor-mejor-vertical-russell-hobbs-129860494) | Esta plancha de Russell Hobbs es una auténtica superventas, alisa hasta las arrugas más difíciles y no llega ni a los 50 euros | 2026-05-05 11:36
-  - filter: older than 24h
-- [Clyburn, obligado a parar hasta el ‘playoff’ por un problema de corazón](https://as.com/baloncesto/acb/clyburn-obligado-a-parar-hasta-el-playoff-por-un-problema-de-corazon-f202605-n/) | FC Barcelona baloncesto | 2026-05-05 09:45
-  - filter: older than 24h
-- [Hezonja baja los precios del baloncesto](https://as.com/baloncesto/acb/hezonja-baja-los-precios-del-baloncesto-f202605-n/) | Baloncesto | 2026-05-04 13:46
-  - filter: older than 24h
-- [‘Supermario’ Hezonja firma el partido del siglo](https://as.com/baloncesto/acb/supermario-hezonja-firma-el-partido-del-siglo-f202605-n/) | Baloncesto | 2026-05-03 15:14
-  - filter: older than 24h
-- [El partido de récord de Supermario: “Ganar así sabe mejor”](https://as.com/baloncesto/acb/el-partido-de-record-de-supermario-ganar-asi-sabe-mejor-f202605-n/) | Baloncesto | 2026-05-03 15:14
-  - filter: older than 24h
-- [Surrealista: el Joventut-Unicaja se suspende por un fallo en el videomarcador](https://as.com/baloncesto/surrealista-el-joventut-unicaja-se-suspende-por-un-fallo-en-el-videomarcador-f202605-n/) | ACB | 2026-05-02 20:40
-  - filter: older than 24h
-- [Nealis, Premio Empresa del Año Banco Sabadell Levante EMV](https://www.elperiodico.com/es/sociedad/20260428/nealis-premio-empresa-ano-banco-bc-129602991) | Nealis, Premio Empresa del Año Banco Sabadell Levante EMV | 2026-04-28 11:00
-  - filter: older than 24h
-- [Adolfo Utor, empresario clave del sector marítimo en España](https://www.elperiodico.com/es/sociedad/20260428/adolfo-utor-empresario-clave-sector-bc-129603216) | Adolfo Utor, empresario clave del sector marítimo en España | 2026-04-28 10:50
-  - filter: older than 24h
-- [Avales públicos para hipotecas de jóvenes](https://www.elperiodico.com/es/economia/20260427/avales-publicos-hipotecas-comprar-vivienda-jovenes-129104227) | Avales públicos para hipotecas de jóvenes | 2026-04-27 06:04
-  - filter: older than 24h
-- [El mercado inmobiliario español acumula un déficit de 730.000 viviendas ante el crecimiento poblacional](https://www.elperiodico.com/es/economia/20260427/tendencias-mercado-inmobiliario-2026-escasez-vivienda-129337330) | El mercado inmobiliario español acumula un déficit de 730.000 viviendas ante el crecimiento poblacional | 2026-04-27 06:04
-  - filter: older than 24h
-- [Cinco factores clave que debes conocer antes de contratar una hipoteca en 2026](https://www.elperiodico.com/es/economia/20260427/cinco-factores-clave-debes-conocer-antes-contratar-hipoteca-129093016) | Cinco factores clave que debes conocer antes de contratar una hipoteca en 2026 | 2026-04-27 06:01
-  - filter: older than 24h
-- [Cancha Solidaria Endesa activa el matchfunding para impulsar cinco proyectos sociales vinculados al baloncesto](https://www.elperiodico.com/es/deportes/20260420/cancha-solidaria-endesa-activa-matchfunding-bc-129289763) | Cancha Solidaria Endesa activa el matchfunding para impulsar cinco proyectos sociales vinculados al baloncesto | 2026-04-20 09:30
-  - filter: older than 24h
-- [Los microcréditos impulsan el autoempleo en pleno récord histórico de trabajadores autónomos](https://www.elperiodico.com/es/economia/20260323/microcreditos-impulsan-autoempleo-pleno-record-trabajadores-autonomos-microbank-128059221) | Los microcréditos impulsan el autoempleo en pleno récord histórico de trabajadores autónomos | 2026-03-23 06:00
-  - filter: older than 24h
-- [El temor a Trump impulsa la "nube soberana" en Europa para proteger sus datos en Internet](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20260322/temor-trump-impulsa-nube-soberana-union-europea-dependencia-eeuu-google-amazon-microsoft-128132075) | El temor a Trump impulsa la "nube soberana" en Europa para proteger sus datos en Internet | 2026-03-22 06:00
-  - filter: older than 24h
-- [Cerca de 30.000 personas abarrotan la Virgen Blanca](https://as.com/futbol/cerca-de-30000-personas-abarrotan-la-virgen-blanca-f202602-n/) | Baskonia | 2026-02-24 21:18
-  - filter: older than 24h
-- [Pedro Martínez critica el arbitraje frente al Madrid](https://as.com/baloncesto/copa_del_rey/pedro-martinez-critica-el-arbitraje-frente-al-madrid-f202602-n/) | Baloncesto | 2026-02-24 16:10
-  - filter: older than 24h
-- [El Baskonia vuelve a rugir](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-rugir-f202602-n/) | Baloncesto | 2026-02-24 06:43
-  - filter: older than 24h
-- [Mason Broyles, otro invitado del Madrid que se lleva el MVP](https://as.com/baloncesto/copa_del_rey/mason-broyne-otro-invitado-del-madrid-que-se-lleva-el-mvp-f202602-n/) | Baloncesto cantera | 2026-02-23 11:23
-  - filter: older than 24h
-- [Scariolo: “Nos ha faltado un poco de todo”](https://as.com/baloncesto/scariolo-nos-ha-faltado-un-poco-de-todo-f202602-n/) | Real Madrid baloncesto | 2026-02-23 09:49
-  - filter: older than 24h
-- [Los seis males del Madrid en la final](https://as.com/baloncesto/copa_del_rey/los-seis-males-del-madrid-en-la-final-f202602-n/) | Copa Rey Baloncesto | 2026-02-23 09:08
-  - filter: older than 24h
-- [Real Madrid - Baskonia hoy, en directo: reacciones de última hora a la final de Copa del Rey 2026, en vivo](https://as.com/baloncesto/copa_del_rey/real-madrid-baskonia-en-directo-final-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/) | Baloncesto | 2026-02-22 22:44
-  - filter: older than 24h
-- [Galbiati: “Soy un superviviente, en noviembre pudieron echarme”](https://as.com/futbol/galbiati-soy-un-superviviente-en-noviembre-pudieron-echarme-f202602-n/) | Baskonia | 2026-02-22 22:23
-  - filter: older than 24h
-- [El Milagro de Paolo Galbiati](https://as.com/opinion/el-milagro-de-paolo-galbiati-f202602-n/) | Baloncesto | 2026-02-22 22:09
-  - filter: older than 24h
-- [El Madrid de Scariolo no remata](https://as.com/baloncesto/copa_del_rey/el-madrid-de-scariolo-no-remata-f202602-n/) | Copa Rey Baloncesto | 2026-02-22 22:00
-  - filter: older than 24h
-- [Galbiati, especialista en Copas](https://as.com/baloncesto/copa_del_rey/galbiati-especialista-en-copas-f202602-n/) | Liga ACB | 2026-02-22 21:57
-  - filter: older than 24h
-- [Baskonia es la magia de la Copa](https://as.com/opinion/baskonia-es-la-magia-de-la-copa-f202602-n/) | Baskonia | 2026-02-22 21:49
-  - filter: older than 24h
-- [Baskonia vuelve a ser gigante](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-reinar-f202602-n/) | Baskonia | 2026-02-22 21:32
-  - filter: older than 24h
-- [Trent Forrest, MVP de la Copa](https://as.com/baloncesto/copa_del_rey/trent-forrest-mvp-de-la-copa-f202602-n/) | Baloncesto | 2026-02-22 21:19
-  - filter: older than 24h
-- [Palmarés de la Copa del Rey de baloncesto: quién tiene más títulos y cuántas ha ganado cada equipo](https://as.com/baloncesto/copa_del_rey/palmares-de-la-copa-del-rey-de-baloncesto-quien-tiene-mas-titulos-y-cuantas-ha-ganado-cada-equipo-f202602-n/) | Baloncesto | 2026-02-22 21:04
-  - filter: older than 24h
-- [Y ahora, la final de verdad](https://as.com/baloncesto/copa_del_rey/y-ahora-la-final-de-verdad-f202602-n/) | Baloncesto | 2026-02-22 18:55
-  - filter: older than 24h
-- [¿A qué hora es la final de la Copa del Rey de baloncesto? TV, horario, cómo y dónde ver online el Real Madrid - Baskonia](https://as.com/baloncesto/copa_del_rey/a-que-hora-es-el-real-madrid-baskonia-hoy-tv-horario-como-y-donde-ver-en-directo-la-final-de-la-copa-del-rey-2026-f202602-n/) | Baloncesto | 2026-02-22 18:26
-  - filter: older than 24h
-- [Resumen y resultado del Valencia - Real Madrid: final de la MiniCopa Endesa](https://as.com/baloncesto/copa_del_rey/valencia-basket-real-madrid-en-directo-final-de-la-minicopa-endesa-2026-en-vivo-hoy-f202602-d/) | Baloncesto | 2026-02-22 15:14
-  - filter: older than 24h
-- [El Real Madrid levanta su décima Minicopa Endesa tras vencer al Valencia](https://as.com/baloncesto/el-real-madrid-levanta-su-decima-minicopa-endesa-tras-vencer-al-valencia-f202602-n/) | Valencia Basket Club | 2026-02-22 15:13
-  - filter: older than 24h
-- [Las reacciones al triple de Hezonja](https://as.com/baloncesto/copa_del_rey/las-reacciones-al-triple-de-hezonja-f202602-n/) | Baloncesto | 2026-02-22 12:07
-  - filter: older than 24h
-- [Barcelona - Baskonia: resumen y resultado, Copa del Rey de baloncesto 2026 (67-70)](https://as.com/baloncesto/copa_del_rey/barcelona-baskonia-en-directo-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/) | Baloncesto | 2026-02-22 01:11
-  - filter: older than 24h
-- [¿Cuándo y a qué hora es la final de la Minicopa? TV, horario y cómo ver online el Valencia - Real Madrid](https://as.com/baloncesto/copa_del_rey/cuando-y-a-que-hora-es-la-final-de-la-minicopa-tv-horario-y-como-ver-online-el-valencia-real-madrid-f202602-n/) | Baloncesto | 2026-02-21 23:43
-  - filter: older than 24h
-- [El Baskonia evita otro Clásico](https://as.com/baloncesto/copa_del_rey/el-baskonia-evita-otro-clasico-f202602-n/) | FC Barcelona baloncesto | 2026-02-21 23:30
-  - filter: older than 24h
-- [Galbiati: “El Real Madrid tiene doce fenómenos”](https://as.com/baloncesto/copa_del_rey/galbiati-el-real-madrid-tiene-doce-fenomenos-f202602-n/) | FC Barcelona baloncesto | 2026-02-21 23:27
-  - filter: older than 24h
-- [Supermario Hezonja firma una remontada antológica](https://as.com/baloncesto/copa_del_rey/supermario-hezonja-firma-una-remontada-antologica-f202602-n/) | Baloncesto | 2026-02-21 20:52
-  - filter: older than 24h
-- [Robots sobre ruedas, la IA toma cuerpo en la automoción](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20260214/robots-humanoides-ia-irrumpe-sector-automovil-126272947) | Robots sobre ruedas, la IA toma cuerpo en la automoción | 2026-02-14 05:58
-  - filter: older than 24h
-- [Jaime Fernández, baja de peso para el España-Georgia](https://as.com/baloncesto/mundial_baloncesto/jaime-fernandez-baja-de-peso-para-el-espana-georgia-f202511-n/) | FEB | 2025-11-29 12:56
-  - filter: older than 24h
-- [Sobre (vivir) a la crianza](https://www.elperiodico.com/es/videos/podcast/vivir-crianza/123475995.shtml) | Sobre (vivir) a la crianza | 2025-11-07 16:30
-  - filter: older than 24h
-- [Mas Barcelona](https://www.elperiodico.com/es/videos/podcast/barcelona/123475904.shtml) | Mas Barcelona | 2025-11-07 16:27
-  - filter: older than 24h
-- [En paradero desconocido](https://www.elperiodico.com/es/videos/podcast/paradero-desconocido/124915301.shtml) | En paradero desconocido | 2025-10-20 08:59
-  - filter: older than 24h
-- [Mamarazzis](https://www.elperiodico.com/es/videos/podcast/mamarazzis/123475831.shtml) | Mamarazzis | 2025-10-01 08:59
-  - filter: older than 24h
-- [Libros y cosas](https://www.elperiodico.com/es/videos/podcast/libros-cosas/123475863.shtml) | Libros y cosas | 2025-10-01 08:59
-  - filter: older than 24h
-- [España pierde el liderato y pasa a octavos como segunda](https://as.com/baloncesto/mundial_baloncesto/espana-pierde-el-liderato-y-pasa-a-octavos-como-segunda-n/) | Baloncesto | 2025-08-04 21:43
-  - filter: older than 24h
-- [España - Bélgica: horario, TV y dónde ver la final del Eurobasket 2025](https://as.com/baloncesto/mundial_baloncesto/espana-belgica-horario-tv-y-donde-ver-la-final-del-eurobasket-2025-n/) | Baloncesto | 2025-06-29 05:49
-  - filter: older than 24h
-- [España, contra Georgia y dos rivales de la previa](https://as.com/baloncesto/mundial_baloncesto/espana-contra-georgia-y-dos-rivales-de-la-previa-n/) | Selección Española Baloncesto | 2025-05-13 19:41
-  - filter: older than 24h
-- [Resumen y resultado del Estados Unidos - Montenegro: Mundial 2023](https://as.com/us/masdeporte/estados-unidos-montenegro-en-directo-mundial-2023-en-vivo-hoy-n/) | Baloncesto | 2024-10-10 11:30
-  - filter: older than 24h
-- [En Islandia sin Scariolo](https://as.com/baloncesto/mundial_baloncesto/en-islandia-sin-scariolo-n/) | Baloncesto | 2024-10-08 17:11
-  - filter: older than 24h
-- [Resumen y resultado del España - Canadá: Mundial 2023](https://as.com/baloncesto/mundial_baloncesto/espana-canada-en-directo-mundial-de-baloncesto-2023-en-vivo-hoy-n/) | Baloncesto | 2024-10-08 17:10
-  - filter: older than 24h
-- [España se mete en la boca del lobo](https://as.com/baloncesto/mundial_baloncesto/espana-se-mete-en-la-boca-del-lobo-n/) | Mundial Baloncesto | 2024-10-08 17:10
-  - filter: older than 24h
-- [Estados Unidos - Alemania, Mundial 2023: resumen y resultado (111-113)](https://as.com/us/masdeporte/estados-unidos-alemania-en-directo-mundial-baloncesto-2023-hoy-en-vivo-n/) | Mundial Baloncesto | 2024-10-08 17:09
-  - filter: older than 24h
-- [Porzingis echa la culpa de su ausencia en el Mundial a unas zapatillas](https://as.com/baloncesto/mundial_baloncesto/porzingis-echa-la-culpa-de-su-ausencia-en-el-mundial-a-unas-zapatillas-n/) | NBA | 2023-10-09 10:00
-  - filter: older than 24h
-- [La intrahistoria de Zagars, el verdugo de España: “Triplicó su dinero después del Mundial”](https://as.com/baloncesto/eurocup/la-intrahistoria-del-verdugo-de-espana-triplico-su-dinero-despues-del-mundial-n/) | Baloncesto | 2023-09-26 07:46
-  - filter: older than 24h
-- [Rondae Hollis-Jefferson sale a flote gracias a un Mundial viral](https://as.com/baloncesto/mundial_baloncesto/rondae-hollis-jefferson-sale-a-flote-gracias-a-un-mundial-viral-n/) | Mundial Baloncesto | 2023-09-20 10:00
-  - filter: older than 24h
-- [Doncic se despide con victoria y Zagars hace historia](https://as.com/baloncesto/mundial_baloncesto/doncic-se-despide-con-victoria-y-rozando-el-triple-doble-n/) | Mundial Baloncesto | 2023-09-13 15:38
-  - filter: older than 24h
-- [Svetislav Pesic, un ‘old school’ para la eternidad](https://as.com/baloncesto/mundial_baloncesto/svetislav-pesic-un-old-school-para-la-eternidad-n/) | Baloncesto | 2023-09-13 09:06
-  - filter: older than 24h
-- [Alemania, un campeón en crecimiento](https://as.com/baloncesto/mundial_baloncesto/alemania-un-campeon-en-crecimiento-n/) | Baloncesto | 2023-09-13 08:36
-  - filter: older than 24h
-- [Dillon Brooks se desmelena: “Si no piensas así, no te gusta el baloncesto”](https://as.com/baloncesto/mundial_baloncesto/dillon-brooks-se-desmelena-si-no-piensas-asi-no-te-gusta-el-baloncesto-n/) | Baloncesto | 2023-09-11 13:43
-  - filter: older than 24h
-- [Canadá, árbitros, Zagars, Francia… Lo mejor y lo peor del Mundial](https://as.com/baloncesto/mundial_baloncesto/canada-arbitros-zagars-francia-lo-mejor-y-lo-peor-del-mundial-n/) | Baloncesto | 2023-09-11 11:57
-  - filter: older than 24h
-- [Histórico Jordi Fernández: un español sin techo en los banquillos de la NBA](https://as.com/baloncesto/mundial_baloncesto/historico-jordi-fernandez-un-espanol-sin-techo-en-los-banquillos-de-la-nba-n-2/) | Baloncesto | 2023-09-11 08:40
-  - filter: older than 24h
-- [Dennis Schroder, el MVP que domina el ‘skate’](https://as.com/baloncesto/dennis-schorder-el-mvp-que-domina-el-skate-n/) | Baloncesto | 2023-09-10 17:02
-  - filter: older than 24h
-- [Alemania se sienta en el trono](https://as.com/baloncesto/mundial_baloncesto/alemania-se-sienta-en-el-trono-n/) | Mundial Baloncesto | 2023-09-10 16:51
-  - filter: older than 24h
-- [Una Canadá de presente y futuro deja sin medalla a Estados Unidos](https://as.com/us/masdeporte/una-canada-de-presente-y-futuro-deja-sin-medalla-a-estados-unidos-n/) | Mundial Baloncesto | 2023-09-10 13:13
-  - filter: older than 24h
-- [El lobo serbio contra el ogro alemán](https://as.com/baloncesto/mundial_baloncesto/el-lobo-serbio-contra-el-ogro-aleman-n/) | Mundial Baloncesto | 2023-09-10 08:18
-  - filter: older than 24h
-- [Domingo sin corona](https://as.com/opinion/domingo-sin-corona-n/) | Selección española baloncesto | 2023-09-09 21:04
-  - filter: older than 24h
-- [Doncic: “La pierna no está bien”](https://as.com/baloncesto/mundial_baloncesto/luka-doncic-la-pierna-no-esta-bien-n/) | Mundial Baloncesto | 2023-09-09 06:25
-  - filter: older than 24h
-- [Eurobasket en Manila](https://as.com/opinion/eurobasket-en-manila-n/) | Selección baloncesto Alemania | 2023-09-08 22:08
-  - filter: older than 24h
-- [Bogdanovic entierra el sueño de Canadá](https://as.com/baloncesto/mundial_baloncesto/bogdanovic-entierra-el-sueno-de-canada-n/) | Baloncesto | 2023-09-08 12:46
-  - filter: older than 24h
