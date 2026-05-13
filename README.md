@@ -1,43 +1,36 @@
-2026-05-13 23:51
+2026-05-14 00:56
 
 ## Included news
 
+### as.com
+- 2026-05-14 00:25 | Resumen del Valencia Basket vs. Panathinaikos de Euroliga | https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-panathinaikos-de-euroliga-f202605-v/
+- 2026-05-14 00:25 | Resumen del Valencia Basket vs. Panathinaikos de Euroliga | https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-panathinaikos-de-euroliga-f202605-v/
+- 2026-05-14 00:25 | Resumen del Valencia Basket vs. Panathinaikos de Euroliga | https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-panathinaikos-de-euroliga-f202605-v/
+- 2026-05-14 00:25 | Resumen del Valencia Basket vs. Panathinaikos de Euroliga | https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-panathinaikos-de-euroliga-f202605-v/
+- 2026-05-14 00:15 | Pedro Martínez: “Nunca nos dimos por vencidos” | https://as.com/baloncesto/euroliga/pedro-martinez-nunca-nos-dimos-por-vencidos-f202605-n/
+- 2026-05-14 00:15 | Ataman: “Si el criterio arbitral es el mismo en la Final Four, el Valencia ganará la Euroliga” | https://as.com/baloncesto/euroliga/ataman-el-valencia-ha-tirado-29-tiros-libres-nosotros-8-es-algo-extrano-f202605-n/
+- 2026-05-13 23:57 | El Valencia es grande de Europa | https://as.com/opinion/el-valencia-es-grande-de-europa-f202605-n/
+- 2026-05-13 23:41 | ¡A la Final Four! | https://as.com/baloncesto/euroliga/a-la-final-four-f202605-n/
+- 2026-05-13 22:59 | Así queda la Final Four 2026 de la Euroliga | https://as.com/baloncesto/euroliga/asi-queda-la-final-four-2026-de-la-euroliga-f202605-n/
+- 2026-05-13 22:58 | Así están los cruces del Playoff de la Euroliga: resultados, cuadro y horarios de Real Madrid y Valencia Basket | https://as.com/baloncesto/euroliga/asi-estan-los-cruces-del-playoff-de-la-euroliga-resultados-cuadro-y-horarios-de-real-madrid-y-valencia-f202604-n/
+- 2026-05-13 22:28 | El Río Breogán sigue en estado de felicidad | https://as.com/baloncesto/acb/el-rio-breogan-sigue-en-estado-de-felicidad-f202605-n/
+
 ### elperiodico.com
-- [El Sevilla remonta ante el Villarreal y acaricia la permanencia](https://www.elperiodico.com/es/deportes/20260513/sevilla-remonta-villarreal-acaricia-permanencia-130201316)
-  - topic: sevilla
-  - published: 2026-05-13 23:22
-- [Un histórico Valencia Basket tumba al Panathinaikos y jugará su primera Final Four](https://www.elperiodico.com/es/deportes/20260513/historico-valencia-basket-tumba-panathinaikos-jugara-primera-final-four-euroliga-130204104)
-  - topic: historico
-  - published: 2026-05-13 23:22
-- [El PSG se corona en la Ligue 1 y Luis Enrique ya es histórico en Francia](https://www.elperiodico.com/es/deportes/20260513/psg-corona-ligue-1-luis-enrique-historico-francia-130204319)
-  - topic: psg
-  - published: 2026-05-13 23:22
-- [El Barça juega relajado ante el Alavés y sucumbe](https://www.elperiodico.com/es/deportes/20260513/barca-juega-relajado-alaves-sucumbe-130202232)
-  - topic: barca
-  - published: 2026-05-13 23:21
-- [Jofre Bardagí rinde homenaje a Serrat y a su padre, el 'mestre' Bardagí](https://www.elperiodico.com/es/fotos/ocio-y-cultura/jofre-bardagi-rinde-homenaje-serrat-130204122)
-  - topic: jofre
-  - published: 2026-05-13 23:13
-- [Una emotiva ofrenda a Serrat de la mano familiar de Jofre Bardagí en Paral·lel 62](https://www.elperiodico.com/es/ocio-y-cultura/20260513/emotiva-ofrenda-serrat-mano-familiar-jofre-bardagi-paralel-62-130203279)
-  - topic: emotiva
-  - published: 2026-05-13 23:09
-- [Donald Trump llega a Pekín después de 9 años para reunirse con Xi](https://www.elperiodico.com/es/videos/internacional/donald-trump-llega-pekin-despues/130203024.shtml)
-  - topic: donald
-  - published: 2026-05-13 22:40
-- [Parlon pide disculpas por el "error humano" de la infiltración de Mossos y lo califica de "maniobra mal planteada"](https://www.elperiodico.com/es/videos/politica/parlon-pide-disculpas-error-humano/130202683.shtml)
-  - topic: parlon
-  - published: 2026-05-13 22:35
-- [La portada de EL PERIÓDICO del 14 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260513/portada-periodico-14-mayo-2026-130202258)
-  - topic: portada
-  - published: 2026-05-13 22:30
-- [Àlex Márquez y otros pilotos, en la Fan Fest 2026 de MotoGP en la Plaça de Catalunya](https://www.elperiodico.com/es/fotos/deportes/alex-marquez-pilotos-fan-fest-130201080)
-  - topic: alex
-  - published: 2026-05-13 21:11
+- 2026-05-14 00:12 | "Es el mejor día de mi vida", proclama el debutante Álvaro Cortés | https://www.elperiodico.com/es/deportes/20260514/mejor-dia-vida-proclama-debutante-130204351
+- 2026-05-14 00:02 | Solo un tercio del ahorro de energía de la industria de las últimas tres décadas se debe a una mayor eficiencia | https://www.elperiodico.com/es/economia/20260514/ahorro-energia-industria-ultimas-tres-decadas-eficiencia-130199694
+- 2026-05-14 00:01 | Huelga de profesores en Barcelona y Catalunya: ¿Dónde es hoy jueves y dónde toca mañana viernes? | https://www.elperiodico.com/es/sociedad/20260514/huelga-profesores-barcelona-catalunya-hoy-jueves-manana-viernes-dv-130131145
+- 2026-05-13 23:59 | Illa reivindica una Catalunya "sin complejos" tras reforzar la alianza con Nvidia y Supermicro para potenciar la IA europea | https://www.elperiodico.com/es/politica/20260513/illa-reivindica-catalunya-complejos-reforzar-130204168
+- 2026-05-13 23:59 | Del asfalto al aire: así se vive el skateboarding en GRAVITEO | https://www.elperiodico.com/es/deportes/20260513/asfalto-aire-vive-skateboarding-graviteo-bc-130176661
+- 2026-05-13 23:59 | Jaime García y Alejandro Puiggròs (Banco Mediolanum): Invertir es como volver a la Luna, un plan a largo plazo | https://www.elperiodico.com/es/economia/20260513/jaime-garcia-alejandro-puiggros-banco-bc-130179226
 
 ### ua.korrespondent.net
-- [Світоліна перегорнула чвертьфінал WTA 1000 у Римі виходом у півфінал](https://ua.korrespondent.net/sport/tenis/4878437-svitolina-perehornula-chvertfinal-WTA-1000-u-rymi-vykhodom-u-pivfinal)
-  - topic: Новини тенісу
-  - published: 2026-05-13 23:29
-- [Харків знову під масованою атакою РФ: є влучання](https://ua.korrespondent.net/city/kharkov/4878426-kharkiv-znovu-pid-masovanoui-atakoui-rf-ye-vluchannia)
-  - topic: Харків
-  - published: 2026-05-13 22:47
+- 2026-05-14 00:43 | Полтавщину атакують БПЛА, Україні загрожує балістика | https://ua.korrespondent.net/ukraine/4878445-poltavschynu-atakuuit-bpla-ukraini-zahrozhuie-balistyka
+- 2026-05-14 00:27 | Польща вкотре перехопила літак-розвідник РФ над Балтійським морем | https://ua.korrespondent.net/world/4878440-polscha-vkotre-perekhopyla-litak-rozvidnyk-rf-nad-baltiiskym-morem
+- 2026-05-13 23:56 | На британському лайнері виявили спалах "кишкового вірусу" | https://ua.korrespondent.net/world/4878428-na-brytanskomu-laineri-vyiavyly-spalakh-kyshkovoho-virusu
+- 2026-05-13 23:25 | Зеленський подякував прем’єру Угорщини за осуд РФ | https://ua.korrespondent.net/ukraine/4878433-zelenskyi-podiakuvav-premieru-uhorschyny-za-osud-rf
+- 2026-05-13 22:59 | Шахтар закріплює чемпіонський успіх у переривчастому матчі з Оболонню | https://ua.korrespondent.net/sport/football/4878431-shakhtar-zakripluiie-chempionskyi-uspikh-u-pereryvchastomu-matchi-z-obolonnui
+- 2026-05-13 22:23 | У Сумах на зупинці чоловік підірвав гранату і сам загинув | https://ua.korrespondent.net/ukraine/4878422-u-sumakh-na-zupyntsi-cholovik-pidirvav-hranatu-i-sam-zahynuv
+- 2026-05-13 22:14 | Вперше за 9 років. Трамп приїхав в Китай | https://ua.korrespondent.net/world/4878434-vpershe-za-9-rokiv-tramp-pryikhav-v-kytai
+- 2026-05-13 21:36 | На Чернігівщині командир "прикривав" військових-прогульників | https://ua.korrespondent.net/ukraine/4878415-na-chernihivschyni-komandyr-prykryvav-viiskovykh-prohulnykiv
+- 2026-05-13 20:36 | Барселона вирішила не квапитися в питанні стосовно Левандовські | https://ua.korrespondent.net/sport/football/4878406-barselona-vyrishyla-ne-kvapytysia-v-pytanni-stosovno-levandovski
+- 2026-05-13 20:15 | Угорщина вперше викликала посла Росії через обстріл Закарпаття | https://ua.korrespondent.net/world/4878403-uhorschyna-vpershe-vyklykala-posla-rosii-cherez-obstril-zakarpattia
