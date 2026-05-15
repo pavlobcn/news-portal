@@ -1,4 +1,4 @@
-# 2026-05-15 10:37
+# 2026-05-15 13:13
 
 ## Excluded news
 - [В Кишиневі підписано Угоду про керівний комітет Спецтрибуналу для РФ](https://ua.korrespondent.net/ukraine/4878789-v-kyshynevi-pidpysano-uhodu-pro-kerivnyi-komitet-spetstrybunalu-dlia-rf) — Новини України (2026-05-15 10:12)
