@@ -1,6 +1,7 @@
-Updated: 2026-05-15 01:46
+# 2026-05-15 03:54
 
 ## Included news
 
-### elperiodico.com
-- [Mbappé desata la tormenta perfecta en el Real Madrid: "Arbeloa me ha dicho que soy el cuarto delantero de la plantilla"](https://www.elperiodico.com/es/deportes/20260515/mbappe-desata-tormenta-perfecta-real-madrid-130248657) (2026-05-15 01:14)
+### ua.korrespondent.net
+- 2026-05-15 03:19 - [Дрони знову зупинили роботу ГПЗ у Росії - ЗМІ](https://ua.korrespondent.net/world/russia/4878710-drony-znovu-zupynyly-robotu-hpz-u-rosii-zmi) [Росія новини]
+- 2026-05-15 01:19 - [Світоліна вийшла у фінал турніру WTA 1000](https://ua.korrespondent.net/sport/4878725-svitolina-vyishla-u-final-turniru-WTA-1000) [Новини спорту]
