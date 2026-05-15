@@ -1,7 +1,9 @@
-# 2026-05-16 00:44
+# 2026-05-16 01:45
 
 ## Included news
 
+### elperiodico.com
+- [El intimismo épico de Hamaguchi vuelve a tomar Cannes](https://www.elperiodico.com/es/ocio-y-cultura/20260516/intimismo-epico-hamaguchi-vuelve-cannes-130281206) (2026-05-16 00:56)
+
 ### ua.korrespondent.net
-- [На Шахеди почали ставити засоби РЕБ - Флеш](https://ua.korrespondent.net/ukraine/4878998-na-shakhedy-pochaly-stavyty-zasoby-reb-flesh) (2026-05-16 00:21)
-- [Путін спростив отримання громадянства РФ для жителів Придністров'я](https://ua.korrespondent.net/world/4878996-putin-sprostyv-otrymannia-hromadianstva-rf-dlia-zhyteliv-prydnistrovia) (2026-05-15 23:55)
+- [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain) (2026-05-15 22:00)

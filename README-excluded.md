@@ -1,58 +1,167 @@
-# 2026-05-16 00:44
+# 2026-05-16 01:45
 
 ## Excluded news
 
+### as.com
 - [El Movistar Estudiantes pulsa el interruptor del playoff](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-pulsa-el-interruptor-del-playoff-f202605-n/) (2026-05-15 23:31) — duplicate in rolling 24h window
-- [Трафік через Ормузьку протоку зростає, але є "але"](https://ua.korrespondent.net/world/4878994-trafik-cherez-ormuzku-protoku-zrostaie-ale-ye-ale) (2026-05-15 23:26) — duplicate in rolling 24h window
+- [Madrid-Burgos, duelo en la caldera](https://as.com/baloncesto/mas_baloncesto/madrid-burgos-duelo-en-la-caldera-f202605-n/) (2026-05-15 22:45) — duplicate in rolling 24h window
+- [La Pequecopa corona a Estudio por partida doble](https://as.com/baloncesto/mas_baloncesto/la-pequecopa-corona-a-estudio-por-partida-doble-f202605-n/) (2026-05-15 22:09) — duplicate in rolling 24h window
+- [Barça-Zaragoza, semifinal confirmada](https://as.com/baloncesto/mas_baloncesto/barca-zaragoza-semifinal-confirmada-f202605-n/) (2026-05-15 20:40) — duplicate in rolling 24h window
+- [Burgos Grupo de Santiago - Fundación CB Canarias en directo](https://as.com/baloncesto/videos/burgos-grupo-de-santiago-fundacion-cb-canarias-en-directo-f202605-v/) (2026-05-15 20:00) — duplicate in rolling 24h window
+- [Burgos Grupo de Santiago - Fundación CB Canarias en directo](https://as.com/baloncesto/videos/burgos-grupo-de-santiago-fundacion-cb-canarias-en-directo-f202605-v/) (2026-05-15 20:00) — duplicate in rolling 24h window
+- [Burgos Grupo de Santiago - Fundación CB Canarias en directo](https://as.com/baloncesto/videos/burgos-grupo-de-santiago-fundacion-cb-canarias-en-directo-f202605-v/) (2026-05-15 20:00) — duplicate in rolling 24h window
+- [Perfumerías Avenida dice adiós tras 25 años](https://as.com/baloncesto/mas_baloncesto/el-perfumerias-avenida-dice-adios-tras-25-anos-f202605-n/) (2026-05-15 16:12) — duplicate in rolling 24h window
+- [Elisa Aguilar, Medalla de Madrid](https://as.com/baloncesto/mas_baloncesto/elisa-aguilar-medalla-de-madrid-f202605-n/) (2026-05-15 16:11) — duplicate in rolling 24h window
+- [El Barça niega contactos con Ibon Navarro](https://as.com/baloncesto/acb/el-barca-niega-contactos-con-ibon-navarro-f202605-n/) (2026-05-15 15:39) — duplicate in rolling 24h window
+- [El Madrid ficha a Yurtseven](https://as.com/baloncesto/yurtseven-podria-estar-a-un-paso-del-madrid-f202605-n/) (2026-05-15 13:38) — duplicate in rolling 24h window
+- [Locura colegial](https://as.com/baloncesto/mas_baloncesto/locura-colegial-f202605-n/) (2026-05-15 07:56) — duplicate in rolling 24h window
+- [Garuba, solo ante el peligro](https://as.com/baloncesto/euroliga/garuba-solo-ante-el-peligro-f202605-n/) (2026-05-15 07:00) — duplicate in rolling 24h window
+- [Ataman y el Panathinaikos: un fracaso histórico](https://as.com/baloncesto/euroliga/ataman-y-el-panathinaikos-un-fracaso-historico-f202605-n/) (2026-05-15 06:59) — duplicate in rolling 24h window
+- [Un futuro para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/liga-u-un-futuro-para-el-baloncesto-espanol-f202605-n/) (2026-05-15 06:58) — duplicate in rolling 24h window
+- [El Baskonia se lleva el partido y el average particular](https://as.com/baloncesto/el-baskonia-se-lleva-el-partido-y-el-average-particular-f202605-n/) (2026-05-14 23:53) — older than 24h
+- [El Granca tortura a su eterno rival en el derbi canario](https://as.com/baloncesto/acb/el-granca-tortura-a-su-eterno-rival-en-el-derbi-canario-f202605-n/) (2026-05-14 23:37) — older than 24h
+- [El Valencia Basket, a un paso de su cuarta Liga consecutiva](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-a-un-paso-de-su-cuarta-liga-consecutiva-f202605-n/) (2026-05-14 23:00) — older than 24h
+- [Sigue en directo el Casademont Zaragoza vs Valencia Basket, final de la Liga F Endesa](https://as.com/baloncesto/videos/sigue-en-directo-el-casademont-zaragoza-vs-valencia-basket-final-de-la-liga-f-endesa-f202605-v/) (2026-05-14 22:50) — older than 24h
+- [Ricky complica la vida al Andorra](https://as.com/baloncesto/acb/ricky-complica-la-vida-al-andorra-f202605-n/) (2026-05-14 22:16) — older than 24h
+- [Scariolo: “Estoy satisfecho del entrenamiento que hicimos”](https://as.com/baloncesto/acb/scariolo-estoy-satisfecho-del-entrenamiento-que-hicimos-f202605-n/) (2026-05-14 22:03) — older than 24h
+- [Resumen y resultado del Surne Bilbao - Real Madrid: Liga Endesa 2025-26](https://as.com/baloncesto/acb/surne-bilbao-real-madrid-en-directo-liga-endesa-de-baloncesto-2025-26-en-vivo-hoy-f202605-d/) (2026-05-14 21:59) — older than 24h
+- [El Burgos encuentra vida y el Unicaja se despeña](https://as.com/baloncesto/el-burgos-encuentra-vida-y-el-unicaja-se-despena-f202605-n/) (2026-05-14 21:52) — older than 24h
+- [Resumen del Surne Bilbao vs Real Madrid, jornada 31 de la Liga Endesa](https://as.com/videos/acb/resumen-del-surne-bilbao-vs-real-madrid-jornada-31-de-la-liga-endesa-f202605-v/) (2026-05-14 21:47) — older than 24h
+- [La cabeza estaba en Atenas](https://as.com/baloncesto/la-cabeza-estaba-en-atenas-f202605-n/) (2026-05-14 21:35) — older than 24h
+- [El Valencia solo tendrá 600 entradas para sus aficionados](https://as.com/baloncesto/el-valencia-solo-tendra-600-entradas-para-sus-aficionados-f202605-n/) (2026-05-14 10:16) — older than 24h
+- [Brancou Badio, el senegalés que pasó por el Barça y cumple el sueño del Valencia](https://as.com/baloncesto/euroliga/brancou-badio-el-senegales-que-paso-por-el-barca-y-cumple-el-sueno-del-valencia-f202605-n/) (2026-05-14 08:26) — older than 24h
+- [El Movistar Estudiantes y la fe en el interruptor](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-y-la-fe-en-el-interruptor-f202605-n/) (2026-05-14 07:32) — older than 24h
+- [Awa Fam quiere la Liga antes de irse a la WNBA](https://as.com/baloncesto/mas_baloncesto/awa-fam-quiere-la-liga-antes-de-irse-a-la-wnba-f202605-n/) (2026-05-14 07:29) — older than 24h
+- [Un Bilbao Basket multidisciplinar](https://as.com/baloncesto/un-bilbao-basket-multidisciplinar-f202605-n/) (2026-05-14 07:28) — older than 24h
+- [Resumen del Valencia Basket vs. Panathinaikos de Euroliga](https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-panathinaikos-de-euroliga-f202605-v/) (2026-05-14 00:25) — older than 24h
+- [Ataman: “Si el criterio arbitral es el mismo en la Final Four, el Valencia ganará la Euroliga”](https://as.com/baloncesto/euroliga/ataman-el-valencia-ha-tirado-29-tiros-libres-nosotros-8-es-algo-extrano-f202605-n/) (2026-05-14 00:15) — older than 24h
+- [Pedro Martínez: “Nunca nos dimos por vencidos”](https://as.com/baloncesto/euroliga/pedro-martinez-nunca-nos-dimos-por-vencidos-f202605-n/) (2026-05-14 00:15) — older than 24h
+- [El Valencia es grande de Europa](https://as.com/opinion/el-valencia-es-grande-de-europa-f202605-n/) (2026-05-13 23:57) — older than 24h
+- [Resumen y resultado del Valencia - Panathinaikos: Euroliga 2025-26](https://as.com/baloncesto/euroliga/valencia-panathinaikos-en-directo-euroliga-2025-26-en-vivo-hoy-f202605-d/) (2026-05-13 23:42) — older than 24h
+- [¡A la Final Four!](https://as.com/baloncesto/euroliga/a-la-final-four-f202605-n/) (2026-05-13 23:41) — older than 24h
+- [Así queda la Final Four 2026 de la Euroliga](https://as.com/baloncesto/euroliga/asi-queda-la-final-four-2026-de-la-euroliga-f202605-n/) (2026-05-13 22:59) — older than 24h
+- [Así están los cruces del Playoff de la Euroliga: resultados, cuadro y horarios de Real Madrid y Valencia Basket](https://as.com/baloncesto/euroliga/asi-estan-los-cruces-del-playoff-de-la-euroliga-resultados-cuadro-y-horarios-de-real-madrid-y-valencia-f202604-n/) (2026-05-13 22:58) — older than 24h
+- [El Asvel deja solo al Madrid](https://as.com/baloncesto/euroliga/el-asvel-deja-solo-al-madrid-f202605-n/) (2026-05-13 22:54) — older than 24h
+- [El Río Breogán sigue en estado de felicidad](https://as.com/baloncesto/acb/el-rio-breogan-sigue-en-estado-de-felicidad-f202605-n/) (2026-05-13 22:28) — older than 24h
+- [El Barça rubrica el descenso del Granada](https://as.com/baloncesto/el-barca-rubrica-el-descenso-del-granada-f202605-n/) (2026-05-13 21:59) — older than 24h
+- [Cita con los ángeles](https://as.com/baloncesto/euroliga/cita-con-los-angeles-f202605-n/) (2026-05-13 21:01) — older than 24h
+- [“El riesgo para la NBA en Europa es ser percibida como algo de segundo rango”](https://as.com/baloncesto/euroliga/el-riesgo-para-la-nba-en-europa-es-ser-percibida-como-algo-de-segundo-rango-f202605-n/) (2026-05-13 17:53) — older than 24h
+- [Un Hall of Fame de triples y medallas](https://as.com/baloncesto/mas_baloncesto/un-hall-of-fame-de-triples-y-medallas-f202605-n/) (2026-05-13 17:01) — older than 24h
+- [Iyana Martín anuncia su marcha del Perfumerías Avenida](https://as.com/baloncesto/mas_baloncesto/iyana-martin-anuncia-su-marcha-del-perfumerias-avenida-f202605-n/) (2026-05-13 14:03) — older than 24h
+- [Una “mancha” en el Bilbao Basket](https://as.com/baloncesto/una-mancha-en-el-bilbao-basket-f202605-n/) (2026-05-13 11:45) — older than 24h
+- [El Manresa minimiza las opciones de playoff del Girona](https://as.com/baloncesto/acb/el-manresa-minimiza-las-opciones-de-playoff-del-girona-f202605-n/) (2026-05-12 22:33) — older than 24h
+- [Valencia sube de temperatura](https://as.com/opinion/valencia-sube-de-temperatura-f202605-n/) (2026-05-12 19:13) — older than 24h
+- [El Valencia, a un paso de la gesta del Madrid 2023](https://as.com/baloncesto/euroliga/el-valencia-a-un-paso-de-la-gesta-del-madrid-2023-f202605-n/) (2026-05-12 17:16) — older than 24h
+- [A Coruña será la sede de la Final Four 2026 en Primera FEB](https://as.com/baloncesto/mas_baloncesto/la-coruna-sera-la-sede-de-la-final-four-2026-en-primera-feb-f202605-n/) (2026-05-12 15:34) — older than 24h
+- [Golpe durísimo al Real Madrid: Tavares y Len se pierden la Final Four](https://as.com/baloncesto/euroliga/golpe-durisimo-al-real-madrid-tavares-y-len-se-pierden-la-final-four-f202605-n/) (2026-05-12 15:18) — older than 24h
+- [Jan Vesely se retira](https://as.com/baloncesto/jan-vesely-se-retira-f202605-n/) (2026-05-12 14:01) — older than 24h
+- [El Bilbao Basket ya tiene himno](https://as.com/baloncesto/el-bilbao-basket-ya-tiene-himno-f202605-n/) (2026-05-12 13:36) — older than 24h
+- [Pedro Martínez: “El factor cancha no es tan importante”](https://as.com/baloncesto/euroliga/pedro-martinez-el-factor-cancha-no-es-tan-importante-f202605-n/) (2026-05-12 13:17) — older than 24h
+- [Doncic anuncia su baja con Eslovenia por cuestiones personales](https://as.com/baloncesto/mas_baloncesto/doncic-anuncia-su-baja-con-eslovenia-por-cuestiones-personales-f202605-n/) (2026-05-12 11:33) — older than 24h
+- [Jiménez: “Yo le puse Conan a Fernando Martín; y él me bautizó Jimix”](https://as.com/baloncesto/mas_baloncesto/jimenez-yo-le-puse-conan-a-fernando-martin-y-el-me-bautizo-jimix-f202605-n/) (2026-05-12 06:46) — older than 24h
+- [Folgueiras, al frente del nuevo ‘training camp’ convocado por Chus Mateo](https://as.com/baloncesto/mas_baloncesto/folgueiras-al-frente-del-nuevo-training-camp-convocado-por-chus-mateo-f202605-n/) (2026-05-11 13:34) — older than 24h
+- [Key se rompe la nariz](https://as.com/baloncesto/euroliga/key-se-rompe-la-nariz-f202605-n/) (2026-05-11 12:39) — older than 24h
+- [El Dubái se entromete en los planes de futuro del Barcelona](https://as.com/baloncesto/euroliga/el-dubai-se-entromete-en-los-planes-de-futuro-del-barcelona-f202605-n/) (2026-05-11 12:13) — older than 24h
+- [El Valencia Basket, finalista al límite](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-finalista-al-limite-f202605-n/) (2026-05-10 21:26) — older than 24h
+- [El Baskonia asalta el Roig Arena y aprieta  la clasificación](https://as.com/baloncesto/acb/baskonia-asalta-el-roig-arena-y-aprieta-la-clasificacion-f202605-n/) (2026-05-10 21:10) — older than 24h
+- [Scariolo: “No quiero manchar públicamente la victoria del Breogán”](https://as.com/baloncesto/acb/scariolo-no-quiero-manchar-publicamente-la-victoria-del-breogan-f202605-n/) (2026-05-10 20:44) — older than 24h
+- [El Breogán asalta la pista del Madrid casi 24 años después](https://as.com/baloncesto/acb/el-breogan-asalta-la-pista-del-madrid-casi-24-anos-despues-f202605-n/) (2026-05-10 19:29) — older than 24h
+- [Giannakopoulos reaparece: “Hemos enviado un vídeo a la Euroliga”](https://as.com/futbol/giannakopoulos-reaparece-hemos-enviado-un-video-a-la-euroliga-f202605-n/) (2026-05-10 15:56) — older than 24h
+- [Pustovyi castiga al Baxi Manresa](https://as.com/baloncesto/acb/pustovyi-castiga-al-baxi-manresa-f202605-n/) (2026-05-10 15:42) — older than 24h
+- [El Lleida roza la salvación](https://as.com/baloncesto/el-lleida-roza-la-salvacion-f202605-n/) (2026-05-10 14:10) — older than 24h
+- [Scariolo entra en un selecto grupo](https://as.com/baloncesto/euroliga/scariolo-entra-en-un-selecto-grupo-f202605-n/) (2026-05-10 08:01) — older than 24h
+- [Lukosius se viste de héroe y le da la primera Champions al Rytas con una brutal remontada](https://as.com/baloncesto/mas_baloncesto/el-rytas-conquista-su-primer-titulo-con-una-remontada-memorable-f202605-n/) (2026-05-09 22:27) — older than 24h
+- [Un UCAM Murcia histórico](https://as.com/baloncesto/acb/un-ucam-murcia-historico-f202605-n/) (2026-05-09 20:51) — older than 24h
+- [El mejor Núñez esboza una sonrisa al Barça](https://as.com/baloncesto/acb/el-mejor-nunez-esboza-una-sonrisa-al-barca-f202605-n/) (2026-05-09 20:40) — older than 24h
+- [El Covirán Granada se da una vida extra](https://as.com/baloncesto/acb/el-coviran-granada-se-da-una-vida-extra-f202605-n/) (2026-05-09 20:40) — older than 24h
+- [El Unicaja pone algo de calma al caos](https://as.com/baloncesto/el-unicaja-pone-algo-de-calma-al-caos-f202605-n/) (2026-05-09 20:12) — older than 24h
+- [Se completa la primera Final 6 de la Liga U](https://as.com/baloncesto/mas_baloncesto/se-completa-la-primera-final-6-de-la-liga-u-f202605-n/) (2026-05-09 19:09) — older than 24h
+- [Así queda el playoff de ascenso a la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-queda-el-playoff-por-el-ascenso-a-la-liga-endesa-f202605-n/) (2026-05-09 16:56) — older than 24h
+- [El Madrid, casi un fijo en la Final Four](https://as.com/baloncesto/euroliga/el-madrid-casi-un-fijo-en-la-final-four-f202605-n/) (2026-05-09 16:30) — older than 24h
+- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/) (2026-05-09 15:31) — older than 24h
+- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/) (2026-05-09 15:31) — older than 24h
+- [Ataman calienta el quinto partido: “Nunca había visto algo tan extraño”](https://as.com/baloncesto/euroliga/ataman-calienta-el-quinto-partido-en-valencia-nunca-habia-visto-cosas-tan-extranas-f202605-n/) (2026-05-08 23:55) — older than 24h
+- [Épico Valencia Basket](https://as.com/baloncesto/euroliga/epico-valencia-basket-f202605-n/) (2026-05-08 23:11) — older than 24h
+- [La NBA redistribuirá 3.000 millones en la nueva competición europea](https://as.com/baloncesto/euroliga/la-nba-pondra-3000-millones-en-europa-f202605-n/) (2026-05-08 10:09) — older than 24h
+- [El playoff de la Liga Endesa empezará el 2 de junio y acabará como muy tarde el 28 de junio](https://as.com/baloncesto/acb/el-playoff-de-la-liga-endesa-empezara-el-2-de-junio-y-acabara-como-muy-tarde-el-28-de-junio-f202605-n/) (2026-05-07 15:15) — older than 24h
+- [Cerca de 30.000 personas abarrotan la Virgen Blanca](https://as.com/futbol/cerca-de-30000-personas-abarrotan-la-virgen-blanca-f202602-n/) (2026-02-24 21:18) — older than 24h
+- [Pedro Martínez critica el arbitraje frente al Madrid](https://as.com/baloncesto/copa_del_rey/pedro-martinez-critica-el-arbitraje-frente-al-madrid-f202602-n/) (2026-02-24 16:10) — older than 24h
+- [El Baskonia vuelve a rugir](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-rugir-f202602-n/) (2026-02-24 06:43) — older than 24h
+- [Mason Broyles, otro invitado del Madrid que se lleva el MVP](https://as.com/baloncesto/copa_del_rey/mason-broyne-otro-invitado-del-madrid-que-se-lleva-el-mvp-f202602-n/) (2026-02-23 11:23) — older than 24h
+- [Scariolo: “Nos ha faltado un poco de todo”](https://as.com/baloncesto/scariolo-nos-ha-faltado-un-poco-de-todo-f202602-n/) (2026-02-23 09:49) — older than 24h
+- [Los seis males del Madrid en la final](https://as.com/baloncesto/copa_del_rey/los-seis-males-del-madrid-en-la-final-f202602-n/) (2026-02-23 09:08) — older than 24h
+- [Real Madrid - Baskonia hoy, en directo: reacciones de última hora a la final de Copa del Rey 2026, en vivo](https://as.com/baloncesto/copa_del_rey/real-madrid-baskonia-en-directo-final-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/) (2026-02-22 22:44) — older than 24h
+- [Galbiati: “Soy un superviviente, en noviembre pudieron echarme”](https://as.com/futbol/galbiati-soy-un-superviviente-en-noviembre-pudieron-echarme-f202602-n/) (2026-02-22 22:23) — older than 24h
+- [El Milagro de Paolo Galbiati](https://as.com/opinion/el-milagro-de-paolo-galbiati-f202602-n/) (2026-02-22 22:09) — older than 24h
+- [El Madrid de Scariolo no remata](https://as.com/baloncesto/copa_del_rey/el-madrid-de-scariolo-no-remata-f202602-n/) (2026-02-22 22:00) — older than 24h
+- [Galbiati, especialista en Copas](https://as.com/baloncesto/copa_del_rey/galbiati-especialista-en-copas-f202602-n/) (2026-02-22 21:57) — older than 24h
+- [Baskonia es la magia de la Copa](https://as.com/opinion/baskonia-es-la-magia-de-la-copa-f202602-n/) (2026-02-22 21:49) — older than 24h
+- [Baskonia vuelve a ser gigante](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-reinar-f202602-n/) (2026-02-22 21:32) — older than 24h
+- [Trent Forrest, MVP de la Copa](https://as.com/baloncesto/copa_del_rey/trent-forrest-mvp-de-la-copa-f202602-n/) (2026-02-22 21:19) — older than 24h
+- [Palmarés de la Copa del Rey de baloncesto: quién tiene más títulos y cuántas ha ganado cada equipo](https://as.com/baloncesto/copa_del_rey/palmares-de-la-copa-del-rey-de-baloncesto-quien-tiene-mas-titulos-y-cuantas-ha-ganado-cada-equipo-f202602-n/) (2026-02-22 21:04) — older than 24h
+- [Y ahora, la final de verdad](https://as.com/baloncesto/copa_del_rey/y-ahora-la-final-de-verdad-f202602-n/) (2026-02-22 18:55) — older than 24h
+- [¿A qué hora es la final de la Copa del Rey de baloncesto? TV, horario, cómo y dónde ver online el Real Madrid - Baskonia](https://as.com/baloncesto/copa_del_rey/a-que-hora-es-el-real-madrid-baskonia-hoy-tv-horario-como-y-donde-ver-en-directo-la-final-de-la-copa-del-rey-2026-f202602-n/) (2026-02-22 18:26) — older than 24h
+- [Resumen y resultado del Valencia - Real Madrid: final de la MiniCopa Endesa](https://as.com/baloncesto/copa_del_rey/valencia-basket-real-madrid-en-directo-final-de-la-minicopa-endesa-2026-en-vivo-hoy-f202602-d/) (2026-02-22 15:14) — older than 24h
+- [El Real Madrid levanta su décima Minicopa Endesa tras vencer al Valencia](https://as.com/baloncesto/el-real-madrid-levanta-su-decima-minicopa-endesa-tras-vencer-al-valencia-f202602-n/) (2026-02-22 15:13) — older than 24h
+- [Las reacciones al triple de Hezonja](https://as.com/baloncesto/copa_del_rey/las-reacciones-al-triple-de-hezonja-f202602-n/) (2026-02-22 12:07) — older than 24h
+- [Barcelona - Baskonia: resumen y resultado, Copa del Rey de baloncesto 2026 (67-70)](https://as.com/baloncesto/copa_del_rey/barcelona-baskonia-en-directo-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/) (2026-02-22 01:11) — older than 24h
+- [¿Cuándo y a qué hora es la final de la Minicopa? TV, horario y cómo ver online el Valencia - Real Madrid](https://as.com/baloncesto/copa_del_rey/cuando-y-a-que-hora-es-la-final-de-la-minicopa-tv-horario-y-como-ver-online-el-valencia-real-madrid-f202602-n/) (2026-02-21 23:43) — older than 24h
+- [El Baskonia evita otro Clásico](https://as.com/baloncesto/copa_del_rey/el-baskonia-evita-otro-clasico-f202602-n/) (2026-02-21 23:30) — older than 24h
+- [Galbiati: “El Real Madrid tiene doce fenómenos”](https://as.com/baloncesto/copa_del_rey/galbiati-el-real-madrid-tiene-doce-fenomenos-f202602-n/) (2026-02-21 23:27) — older than 24h
+- [Supermario Hezonja firma una remontada antológica](https://as.com/baloncesto/copa_del_rey/supermario-hezonja-firma-una-remontada-antologica-f202602-n/) (2026-02-21 20:52) — older than 24h
+- [Jaime Fernández, baja de peso para el España-Georgia](https://as.com/baloncesto/mundial_baloncesto/jaime-fernandez-baja-de-peso-para-el-espana-georgia-f202511-n/) (2025-11-29 12:56) — older than 24h
+- [España pierde el liderato y pasa a octavos como segunda](https://as.com/baloncesto/mundial_baloncesto/espana-pierde-el-liderato-y-pasa-a-octavos-como-segunda-n/) (2025-08-04 21:43) — older than 24h
+- [España - Bélgica: horario, TV y dónde ver la final del Eurobasket 2025](https://as.com/baloncesto/mundial_baloncesto/espana-belgica-horario-tv-y-donde-ver-la-final-del-eurobasket-2025-n/) (2025-06-29 05:49) — older than 24h
+- [España, contra Georgia y dos rivales de la previa](https://as.com/baloncesto/mundial_baloncesto/espana-contra-georgia-y-dos-rivales-de-la-previa-n/) (2025-05-13 19:41) — older than 24h
+- [Resumen y resultado del Estados Unidos - Montenegro: Mundial 2023](https://as.com/us/masdeporte/estados-unidos-montenegro-en-directo-mundial-2023-en-vivo-hoy-n/) (2024-10-10 11:30) — older than 24h
+- [En Islandia sin Scariolo](https://as.com/baloncesto/mundial_baloncesto/en-islandia-sin-scariolo-n/) (2024-10-08 17:11) — older than 24h
+- [Resumen y resultado del España - Canadá: Mundial 2023](https://as.com/baloncesto/mundial_baloncesto/espana-canada-en-directo-mundial-de-baloncesto-2023-en-vivo-hoy-n/) (2024-10-08 17:10) — older than 24h
+- [España se mete en la boca del lobo](https://as.com/baloncesto/mundial_baloncesto/espana-se-mete-en-la-boca-del-lobo-n/) (2024-10-08 17:10) — older than 24h
+- [Estados Unidos - Alemania, Mundial 2023: resumen y resultado (111-113)](https://as.com/us/masdeporte/estados-unidos-alemania-en-directo-mundial-baloncesto-2023-hoy-en-vivo-n/) (2024-10-08 17:09) — older than 24h
+- [Porzingis echa la culpa de su ausencia en el Mundial a unas zapatillas](https://as.com/baloncesto/mundial_baloncesto/porzingis-echa-la-culpa-de-su-ausencia-en-el-mundial-a-unas-zapatillas-n/) (2023-10-09 10:00) — older than 24h
+- [La intrahistoria de Zagars, el verdugo de España: “Triplicó su dinero después del Mundial”](https://as.com/baloncesto/eurocup/la-intrahistoria-del-verdugo-de-espana-triplico-su-dinero-despues-del-mundial-n/) (2023-09-26 07:46) — older than 24h
+- [Rondae Hollis-Jefferson sale a flote gracias a un Mundial viral](https://as.com/baloncesto/mundial_baloncesto/rondae-hollis-jefferson-sale-a-flote-gracias-a-un-mundial-viral-n/) (2023-09-20 10:00) — older than 24h
+- [Doncic se despide con victoria y Zagars hace historia](https://as.com/baloncesto/mundial_baloncesto/doncic-se-despide-con-victoria-y-rozando-el-triple-doble-n/) (2023-09-13 15:38) — older than 24h
+- [Svetislav Pesic, un ‘old school’ para la eternidad](https://as.com/baloncesto/mundial_baloncesto/svetislav-pesic-un-old-school-para-la-eternidad-n/) (2023-09-13 09:06) — older than 24h
+- [Alemania, un campeón en crecimiento](https://as.com/baloncesto/mundial_baloncesto/alemania-un-campeon-en-crecimiento-n/) (2023-09-13 08:36) — older than 24h
+- [Dillon Brooks se desmelena: “Si no piensas así, no te gusta el baloncesto”](https://as.com/baloncesto/mundial_baloncesto/dillon-brooks-se-desmelena-si-no-piensas-asi-no-te-gusta-el-baloncesto-n/) (2023-09-11 13:43) — older than 24h
+- [Canadá, árbitros, Zagars, Francia… Lo mejor y lo peor del Mundial](https://as.com/baloncesto/mundial_baloncesto/canada-arbitros-zagars-francia-lo-mejor-y-lo-peor-del-mundial-n/) (2023-09-11 11:57) — older than 24h
+- [Histórico Jordi Fernández: un español sin techo en los banquillos de la NBA](https://as.com/baloncesto/mundial_baloncesto/historico-jordi-fernandez-un-espanol-sin-techo-en-los-banquillos-de-la-nba-n-2/) (2023-09-11 08:40) — older than 24h
+- [Dennis Schroder, el MVP que domina el ‘skate’](https://as.com/baloncesto/dennis-schorder-el-mvp-que-domina-el-skate-n/) (2023-09-10 17:02) — older than 24h
+- [Alemania se sienta en el trono](https://as.com/baloncesto/mundial_baloncesto/alemania-se-sienta-en-el-trono-n/) (2023-09-10 16:51) — older than 24h
+- [Una Canadá de presente y futuro deja sin medalla a Estados Unidos](https://as.com/us/masdeporte/una-canada-de-presente-y-futuro-deja-sin-medalla-a-estados-unidos-n/) (2023-09-10 13:13) — older than 24h
+- [El lobo serbio contra el ogro alemán](https://as.com/baloncesto/mundial_baloncesto/el-lobo-serbio-contra-el-ogro-aleman-n/) (2023-09-10 08:18) — older than 24h
+- [Domingo sin corona](https://as.com/opinion/domingo-sin-corona-n/) (2023-09-09 21:04) — older than 24h
+- [Doncic: “La pierna no está bien”](https://as.com/baloncesto/mundial_baloncesto/luka-doncic-la-pierna-no-esta-bien-n/) (2023-09-09 06:25) — older than 24h
+- [Eurobasket en Manila](https://as.com/opinion/eurobasket-en-manila-n/) (2023-09-08 22:08) — older than 24h
+- [Bogdanovic entierra el sueño de Canadá](https://as.com/baloncesto/mundial_baloncesto/bogdanovic-entierra-el-sueno-de-canada-n/) (2023-09-08 12:46) — older than 24h
+
+### elperiodico.com
 - [Moreno Bonilla y Feijóo cierran campaña en Andalucía por separado](https://www.elperiodico.com/es/videos/politica/moreno-bonilla-feijoo-cierran-campana/130284952.shtml) (2026-05-15 23:22) — duplicate in rolling 24h window
 - [Vox | Gavira llama a las urnas para "una nueva Andalucía donde los españoles serán lo primero"](https://www.elperiodico.com/es/videos/politica/vox-gavira-llama-urnas-nueva/130284856.shtml) (2026-05-15 23:16) — duplicate in rolling 24h window
 - [VÍDEO | José Ignacio García parafrasea la letra de la comparsa de Jesús Bienvenido en el final de campaña de Adelante Andalucía.](https://www.elperiodico.com/es/videos/politica/video-jose-ignacio-garcia-parafrasea/130284793.shtml) (2026-05-15 23:14) — duplicate in rolling 24h window
 - [Vídeo | El PSOE se rebela contra las encuestas y llama a concentrar el voto en María Jesús Montero](https://www.elperiodico.com/es/videos/politica/video-psoe-rebela-encuestas-llama/130284744.shtml) (2026-05-15 23:12) — duplicate in rolling 24h window
 - [Sopa de Cabra abre en la sala Razzmatazz de Barcelona su gira del 40 aniversario](https://www.elperiodico.com/es/ocio-y-cultura/20260515/catalunya-sopa-cabra-abre-sala-gira-40-aniversario-130284647) (2026-05-15 23:06) — duplicate in rolling 24h window
 - [Hijos de la Ruina hacen rugir el Palau Sant Jordi con su rap crecido en los márgenes](https://www.elperiodico.com/es/ocio-y-cultura/20260515/hijos-ruina-rugir-palau-sant-jordi-critica-concierto-barcelona-130284359) (2026-05-15 22:55) — duplicate in rolling 24h window
-- [Росіяни атакували Харківщину дронами, є постраждалі](https://ua.korrespondent.net/city/kharkov/4878991-rosiiany-atakuvaly-kharkivschynu-dronamy-ye-postrazhdali) (2026-05-15 22:49) — duplicate in rolling 24h window
 - [La portada de EL PERIÓDICO del 16 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260515/portada-periodico-16-mayo-2026-130284351) (2026-05-15 22:48) — duplicate in rolling 24h window
-- [Madrid-Burgos, duelo en la caldera](https://as.com/baloncesto/mas_baloncesto/madrid-burgos-duelo-en-la-caldera-f202605-n/) (2026-05-15 22:45) — duplicate in rolling 24h window
-- [Фронт проти країн НАТО. Загроза з Білорусі](https://ua.korrespondent.net/ukraine/4878993-front-proty-krain-nato-zahroza-z-bilorusi) (2026-05-15 22:41) — duplicate in rolling 24h window
 - [PP y Vox escudan a Mazón y se 'olvidan' de Pradas en sus conclusiones sobre la dana en las Corts valencianes](https://www.elperiodico.com/es/politica/20260515/pp-vox-escudan-mazon-olvidan-130284230) (2026-05-15 22:39) — duplicate in rolling 24h window
-- [Смертельне ДТП у Дніпрі: авто влетіло у зупинку транспорту](https://ua.korrespondent.net/city/dnepr/4878989-smertelne-dtp-u-dnipri-avto-vletilo-u-zupynku-transportu) (2026-05-15 22:24) — sports non-basketball filter
 - [Gavira y Abascal cierran la campaña de las elecciones andaluzas en Sevilla cargando contra Moreno: "Estaba pensando en Eurovisión"](https://www.elperiodico.com/es/politica/20260515/gavira-abascal-cierran-campana-elecciones-andaluzas-130283938) (2026-05-15 22:15) — duplicate in rolling 24h window
 - [Termina el lento escrutinio en Perú: Keiko Fujimori y Roberto Sánchez al segundo turno de las elecciones presidenciales de junio](https://www.elperiodico.com/es/internacional/20260515/termina-lento-escrutinio-peru-keiko-130283837) (2026-05-15 22:14) — duplicate in rolling 24h window
-- [La Pequecopa corona a Estudio por partida doble](https://as.com/baloncesto/mas_baloncesto/la-pequecopa-corona-a-estudio-por-partida-doble-f202605-n/) (2026-05-15 22:09) — duplicate in rolling 24h window
-- [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain) (2026-05-15 22:00) — duplicate in rolling 24h window
-- [Масштабна пожежа на стратегічному нафтовому об'єкті в РФ: є загиблі](https://ua.korrespondent.net/world/russia/4878986-masshtabna-pozhezha-na-stratehichnomu-naftovomu-obiekti-v-rf-ye-zahybli) (2026-05-15 21:58) — duplicate in rolling 24h window
 - [Entre versos de Bienvenido y el Cabrero, con 'age' y ante cerca de mil personas: Adelante Andalucía, pendiente de ser la sorpresa el 17M](https://www.elperiodico.com/es/politica/20260515/mitin-adelante-andalucia-cierre-campana-sevilla-130283499) (2026-05-15 21:57) — duplicate in rolling 24h window
 - [El último baile de campaña de Juanma Moreno, en Málaga: "Necesito que los andaluces nos ayudáis a ayudaros"](https://www.elperiodico.com/es/politica/20260515/ultimo-baile-campana-juanma-moreno-130283322) (2026-05-15 21:53) — duplicate in rolling 24h window
 - [Cannes entrega por sorpresa una Palma de Oro de honor a Travolta: "Es mas que un Óscar"](https://www.elperiodico.com/es/ocio-y-cultura/20260515/cannes-entrega-sorpresa-palma-oro-honor-travolta-130283198) (2026-05-15 21:49) — duplicate in rolling 24h window
 - [El PP acaricia la mayoría absoluta en Andalucía y el PSOE se asoma al peor dato de su historia](https://www.elperiodico.com/es/politica/20260515/elecciones-andaluzas-pp-acaricia-mayoria-absoluta-psoe-asoma-peor-dato-130283051) (2026-05-15 21:46) — duplicate in rolling 24h window
-- [14 personas atendidas por un incendio en una vivienda en Roda de Ter](https://www.elperiodico.com/es/sucesos/20260515/catalunya-incendio-vivienda-roda-de-ter-osona-130282877) (2026-05-15 21:44) — duplicate in rolling 24h window
-- [Трамп зробив різку заяву про Тайвань](https://ua.korrespondent.net/world/4878982-tramp-zrobyv-rizku-zaiavu-pro-taivan) (2026-05-15 21:32) — duplicate in rolling 24h window
 - [El Líbano e Israel acuerdan en Washington extender el alto el fuego 45 días más mientras los ataques en el sur continúan provocando víctimas mortales](https://www.elperiodico.com/es/internacional/20260515/libano-israel-acuerdan-washington-extender-130282728) (2026-05-15 21:30) — duplicate in rolling 24h window
-- [Моделі Jeep і Peugeot китайського виробництва вийдуть на глобальний ринок](https://ua.korrespondent.net/business/auto/4878978-modeli-Jeep-i-Peugeot-kytaiskoho-vyrobnytstva-vyidut-na-hlobalnyi-rynok) (2026-05-15 21:10) — duplicate in rolling 24h window
 - [Un ciudadano de Rumanía reduce su factura de luz con placas solares: "Quería ser prácticamente independiente energéticamente"](https://www.elperiodico.com/es/economia/20260515/ciudadano-rumania-reducido-factura-luz-placas-solares-dv-130036010) (2026-05-15 21:10) — duplicate in rolling 24h window
-- [Уряд вивів агентство PlayCity з координації Мінцифри](https://ua.korrespondent.net/ukraine/4878972-uriad-vyviv-ahentstvo-PlayCity-z-koordynatsii-mintsyfry) (2026-05-15 21:00) — duplicate in rolling 24h window
 - [PP y Vox cierran una campaña al alza en Andalucía frente a un PSOE que "no tira" y una izquierda emergente](https://www.elperiodico.com/es/politica/20260515/elecciones-en-andalucia-pp-psoe-vox-alelante-andalucia-por-andalucia-130280508) (2026-05-15 21:00) — duplicate in rolling 24h window
 - [El horóscopo de hoy, sábado 16 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco](https://www.elperiodico.com/es/vida-y-estilo/20260515/horoscopo-hoy-sabado-16-mayo-dv-130184860) (2026-05-15 21:00) — duplicate in rolling 24h window
-- [У Хорватії знайшли більше 300 римських монет](https://ua.korrespondent.net/tech/science/4878976-u-khorvatii-znaishly-bilshe-300-rymskykh-monet) (2026-05-15 20:59) — duplicate in rolling 24h window
-- [Центральний захисник Манчестер Юнайтед повідомив про операцію](https://ua.korrespondent.net/sport/football/4878974-tsentralnyi-zakhysnyk-manchester-yunaited-povidomyv-pro-operatsiui) (2026-05-15 20:56) — duplicate in rolling 24h window
 - [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260515/huelga-profesores-ultima-hora-directo-130098594) (2026-05-15 20:50) — duplicate in rolling 24h window
 - [El PSC nombra a Fernando Carrera como candidato a la alcaldía de Badalona en las municipales de 2027](https://www.elperiodico.com/es/barcelona/20260515/badalona-elecciones-municipales-2027-candidato-psc-fernando-carrera-130281519) (2026-05-15 20:50) — duplicate in rolling 24h window
-- [﻿У горах у Польщі блискавка влучила у групу туристів: є постраждалі](https://ua.korrespondent.net/world/4878970-u-horakh-u-polschi-blyskavka-vluchyla-u-hrupu-turystiv-ye-postrazhdali) (2026-05-15 20:47) — duplicate in rolling 24h window
-- [Barça-Zaragoza, semifinal confirmada](https://as.com/baloncesto/mas_baloncesto/barca-zaragoza-semifinal-confirmada-f202605-n/) (2026-05-15 20:40) — duplicate in rolling 24h window
 - [Irvine Welsh: "A los veintitantos no sabes ni en qué pub vas a beber, pero tienes que tomar las grandes decisiones que definirán tu vida"](https://www.elperiodico.com/es/ocio-y-cultura/20260515/irvine-welsh-entrevista-hombres-enamorados-trainspotting-130275682) (2026-05-15 20:32) — duplicate in rolling 24h window
 - [‘The Match’ en Cannes: ¿El mejor partido de fútbol de la historia?](https://www.elperiodico.com/es/ocio-y-cultura/20260515/the-match-cannes-mejor-partido-130281199) (2026-05-15 20:30) — duplicate in rolling 24h window
 - [Teresa Valero hace historia en un Cómic Barcelona que encumbra la legendaria fantasía de Esteban Maroto como Gran Premio](https://www.elperiodico.com/es/ocio-y-cultura/20260515/teresa-valero-maroto-comic-barcelona-premios-130246463) (2026-05-15 20:24) — duplicate in rolling 24h window
-- [Єрмак залишається у СІЗО: заставу не змогли внести](https://ua.korrespondent.net/ukraine/4878968-yermak-zalyshaietsia-u-sizo-zastavu-ne-zmohly-vnesty) (2026-05-15 20:22) — duplicate in rolling 24h window
-- [У мережу злили характеристики флагманського Xiaomi 17 Max](https://ua.korrespondent.net/lifestyle/gadgets/4878966-u-merezhu-zlyly-kharakterystyky-flahmanskoho-Xiaomi-17-Max) (2026-05-15 20:12) — duplicate in rolling 24h window
 - [El rincón de Lleida que ya está en la historia del cine](https://www.elperiodico.com/es/ocio-y-cultura/20260515/rincon-lleida-cine-alcarras-municipio-dv-loc-105102578) (2026-05-15 20:10) — duplicate in rolling 24h window
 - [Un tercio de los mercados de Barcelona recibe ayuda para pagar facturas por tener más de un 20% de su superficie vacía](https://www.elperiodico.com/es/barcelona/20260515/barcelona-mercados-puestos-cerrados-ayudas-comercio-ayuntamiento-130274367) (2026-05-15 20:01) — duplicate in rolling 24h window
-- [Іспанія видала Німеччині українця у справі про шпигунство на користь РФ](https://ua.korrespondent.net/world/4878964-ispaniia-vydala-nimechchyni-ukraintsia-u-spravi-pro-shpyhunstvo-na-koryst-rf) (2026-05-15 20:00) — duplicate in rolling 24h window
-- [Burgos Grupo de Santiago - Fundación CB Canarias en directo](https://as.com/baloncesto/videos/burgos-grupo-de-santiago-fundacion-cb-canarias-en-directo-f202605-v/) (2026-05-15 20:00) — duplicate in rolling 24h window
-- [Burgos Grupo de Santiago - Fundación CB Canarias en directo](https://as.com/baloncesto/videos/burgos-grupo-de-santiago-fundacion-cb-canarias-en-directo-f202605-v/) (2026-05-15 20:00) — duplicate in rolling 24h window
-- [Burgos Grupo de Santiago - Fundación CB Canarias en directo](https://as.com/baloncesto/videos/burgos-grupo-de-santiago-fundacion-cb-canarias-en-directo-f202605-v/) (2026-05-15 20:00) — duplicate in rolling 24h window
-- [У Сінгапурі відкрили новий вид смертельно небезпечної медузи](https://ua.korrespondent.net/tech/science/4878962-u-sinhapuri-vidkryly-novyi-vyd-smertelno-nebezpechnoi-meduzy) (2026-05-15 19:50) — duplicate in rolling 24h window
-- [Убивцю поліцейського на Хмельниччині ліквідували](https://ua.korrespondent.net/ukraine/4878959-ubyvtsui-politseiskoho-na-khmelnychchyni-likviduvaly) (2026-05-15 19:45) — duplicate in rolling 24h window
-- [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain) (2026-05-15 19:44) — duplicate in rolling 24h window
 - [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260515/hoy-barcelona-agenda-actividades-planes-semana-102304377) (2026-05-15 19:20) — duplicate in rolling 24h window
 - [DIRECTO | Alberto Núñez Feijóo clausura un mitin en Almería](https://www.elperiodico.com/es/videos/politica/directo-alberto-nunez-feijoo-clausura/130279695.shtml) (2026-05-15 19:20) — duplicate in rolling 24h window
 - [Un sindicato de Mossos denuncia que se usan pistólas táser con los cartuchos caducados](https://www.elperiodico.com/es/sociedad/20260515/sindicato-mossos-denuncia-pistolas-taser-cartuchos-caducados-130279360) (2026-05-15 19:11) — duplicate in rolling 24h window
@@ -90,12 +199,9 @@
 - [Todos los libros de la saga 'Trainspotting', que regresa con 'Hombres enamorados': nunca unos tíos chungos fueron tan magnéticos](https://www.elperiodico.com/es/ocio-y-cultura/20260515/todos-los-libros-de-la-saga-trainspotting-irvine-welsh-130213213) (2026-05-15 16:14) — duplicate in rolling 24h window
 - [Trapero admite ante los sindicatos de Mossos que se deben actualizar protocolos "obsoletos" para recabar información](https://www.elperiodico.com/es/politica/20260515/trapero-admite-sindicatos-mossos-deben-protocolos-obsoletos-130271665) (2026-05-15 16:14) — duplicate in rolling 24h window
 - [Dr. Florentino y Mr. Pérez](https://www.elperiodico.com/es/opinion/20260515/dr-florentino-mr-perez-articulo-marti-saballs-pons-130256495) (2026-05-15 16:12) — duplicate in rolling 24h window
-- [Perfumerías Avenida dice adiós tras 25 años](https://as.com/baloncesto/mas_baloncesto/el-perfumerias-avenida-dice-adios-tras-25-anos-f202605-n/) (2026-05-15 16:12) — duplicate in rolling 24h window
 - [Maria del Mar Bonet, la voz mágica de la 'cançó', brinda una fiesta para los sentidos en 'L’aigua no cansa'](https://www.elperiodico.com/es/ocio-y-cultura/20260515/maria-mar-bonet-nuevo-disco-laigua-no-cansa-130270584) (2026-05-15 16:11) — duplicate in rolling 24h window
-- [Elisa Aguilar, Medalla de Madrid](https://as.com/baloncesto/mas_baloncesto/elisa-aguilar-medalla-de-madrid-f202605-n/) (2026-05-15 16:11) — duplicate in rolling 24h window
 - [Florentino Pérez y Omar Montes, dos perlas](https://www.elperiodico.com/es/gente/20260515/florentino-perez-omar-montes-perlas-130271114) (2026-05-15 16:03) — duplicate in rolling 24h window
 - [El Barça asegura que "solo contempla" a Xavi Pascual para el banquillo](https://www.elperiodico.com/es/deportes/20260515/barca-asegura-contempla-xavi-pascual-130270794) (2026-05-15 15:57) — duplicate in rolling 24h window
-- [El Barça niega contactos con Ibon Navarro](https://as.com/baloncesto/acb/el-barca-niega-contactos-con-ibon-navarro-f202605-n/) (2026-05-15 15:39) — duplicate in rolling 24h window
 - [El síndrome de ovario poliquístico cambia su nombre para reflejar mejor la complejidad de una enfermedad que afecta a 1 de cada 8 mujeres](https://www.elperiodico.com/es/sociedad/20260515/sindrome-ovario-poliquistico-cambia-nombre-metabolico-poliendocrino-130265714) (2026-05-15 15:26) — duplicate in rolling 24h window
 - [Rins busca sitio en MotoGP tras el portazo de Yamaha: “He impreso algún currículum”](https://www.elperiodico.com/es/deportes/20260515/rins-busca-sitio-motogp-portazo-130269460) (2026-05-15 15:24) — duplicate in rolling 24h window
 - [La OCU lanza una advertencia sobre Monster, Red Bull y otras bebidas energéticas: "No son refrescos"](https://www.elperiodico.com/es/salud/20260515/bebidas-energeticas-prohibicion-ocu-consumo-dv-130218266) (2026-05-15 15:00) — duplicate in rolling 24h window
@@ -104,7 +210,6 @@
 - [Tarragona aprueba, con los votos de PSC, Junts y PP, actuar como acusación para "expulsar" a multirreincidentes de la ciudad](https://www.elperiodico.com/es/tarragona/20260515/tarragona-aprueba-votos-psc-junts-130264594) (2026-05-15 14:28) — duplicate in rolling 24h window
 - [Polestar actualiza su gama SUV con nuevas versiones del Polestar 3 y Polestar 4](https://www.elperiodico.com/es/motor/20260515/polestar-actualiza-gama-suv-nuevas-versiones-130159333) (2026-05-15 14:05) — duplicate in rolling 24h window
 - [Los sectores con salarios por debajo de 27.500 euros “subvencionan” el modelo económico catalán, según un informe](https://www.elperiodico.com/es/economia/20260515/informe-fenix-economia-catalana-industria-carnica-turismo-empobrecimiento-de-la-poblacion-salarios-bajos-economistas-130264074) (2026-05-15 13:40) — duplicate in rolling 24h window
-- [El Madrid ficha a Yurtseven](https://as.com/baloncesto/yurtseven-podria-estar-a-un-paso-del-madrid-f202605-n/) (2026-05-15 13:38) — duplicate in rolling 24h window
 - [Entra en vigor el pago por Bizum en las tiendas: así funciona el nuevo sistema y la app para pagar en comercios y grandes superficies](https://www.elperiodico.com/es/economia/20260515/bizum-pago-tiendas-comercios-asi-funciona-sistema-app-entra-en-vigor-130186645) (2026-05-15 13:00) — duplicate in rolling 24h window
 - [Catalunya lanza una nueva aplicación para que los profesores interinos puedan aceptar o rechazar las sustituciones](https://www.elperiodico.com/es/sociedad/20260515/educacio-app-aplicacion-aceptar-sustituciones-profesores-interinos-130259069) (2026-05-15 12:20) — duplicate in rolling 24h window
 - [Cae una banda con 270 kilos de hachís y 16 de cocaína para distribuir a Italia en máquinas de agua a presión y moldes especiales](https://www.elperiodico.com/es/sucesos/20260515/cae-banda-kilos-hachis-cocaina-mossos-trafico-italia-oculto-corbera-llobregat-130260511) (2026-05-15 12:18) — duplicate in rolling 24h window
@@ -123,30 +228,16 @@
 - [Si quieres un finde con sabor a 'xuixo', lo tendrás en estos 3 restaurantes de Barcelona](https://www.elperiodico.com/es/gastronomia/restaurantes/20260515/mejor-xuixo-barcelona-restaurantes-130176430) (2026-05-15 08:38) — duplicate in rolling 24h window
 - [Concurso solidario de paellas en La Rambla (y otros planes gastro para el finde)](https://www.elperiodico.com/es/gastronomia/20260515/concurso-solidario-paellas-rambla-barcelona-130126582) (2026-05-15 08:33) — duplicate in rolling 24h window
 - [El espectacular patio escondido en un hotel de 1 estrella de Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260515/espectacular-patio-escondido-hotel-raval-barcelona-peninsular-121480907) (2026-05-15 08:00) — duplicate in rolling 24h window
-- [Locura colegial](https://as.com/baloncesto/mas_baloncesto/locura-colegial-f202605-n/) (2026-05-15 07:56) — duplicate in rolling 24h window
 - [UNIVERSAE: Una nueva manera de aprender que se adapta al ritmo de vida del estudiante](https://www.elperiodico.com/es/sociedad/20260515/universae-nueva-manera-aprender-adapta-bc-130251103) (2026-05-15 07:01) — duplicate in rolling 24h window
 - [¿Hay fantasmas en los tours de misterio? Nos vamos de ruta paranormal por el casco antiguo de Barcelona con los cazafantasmas más virales | VÍDEO](https://www.elperiodico.com/es/que-hacer/planes/20260515/tour-paranormal-cazafantasmas-barcelona-ciutat-vella-ruta-fantasmas-psicofonias-130237324) (2026-05-15 07:01) — duplicate in rolling 24h window
 - [Manu Sánchez y Mercedes Milà](https://www.elperiodico.com/es/tele/20260515/manu-sanchez-mercedes-mila-130233057) (2026-05-15 07:01) — duplicate in rolling 24h window
 - [¿Por qué se enciende esta luz del coche y qué debes hacer?](https://www.elperiodico.com/es/motor/20260515/enciende-luz-coche-debes-130217153) (2026-05-15 07:01) — duplicate in rolling 24h window
 - [David Pujol, estudiante de la UAB, denuncia a Rodalies: "Reclamo 9.211,35 euros por negligencia continuada"](https://www.elperiodico.com/es/trafico-y-transportes/20260515/renfe-rodalies-incidencias-denuncia-david-pujol-dv-130170365) (2026-05-15 07:01) — duplicate in rolling 24h window
-- [Garuba, solo ante el peligro](https://as.com/baloncesto/euroliga/garuba-solo-ante-el-peligro-f202605-n/) (2026-05-15 07:00) — duplicate in rolling 24h window
-- [Ataman y el Panathinaikos: un fracaso histórico](https://as.com/baloncesto/euroliga/ataman-y-el-panathinaikos-un-fracaso-historico-f202605-n/) (2026-05-15 06:59) — duplicate in rolling 24h window
-- [Un futuro para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/liga-u-un-futuro-para-el-baloncesto-espanol-f202605-n/) (2026-05-15 06:58) — duplicate in rolling 24h window
 - [El impulso cultural que activa territorios](https://www.elperiodico.com/es/sociedad/20260515/impulso-cultural-activa-territorios-bc-130251582) (2026-05-15 06:01) — duplicate in rolling 24h window
 - [15 años del 15-M: el voto de cabreo cambia de bando tras el fracaso de la "nueva política"](https://www.elperiodico.com/es/politica/20260515/15-m-aniversario-voto-cabreo-vox-podemos-130217244) (2026-05-15 06:01) — duplicate in rolling 24h window
 - [Las mafias se apoderan de la gestión ilegal de residuos: actúan por encargo y entierran los vertidos](https://www.elperiodico.com/es/sociedad/20260515/mafias-vertidos-residuos-ilegales-espana-encargo-entierran-sella-residuos-129696344) (2026-05-15 06:01) — duplicate in rolling 24h window
 - [Dos expertas reclaman más recursos para entender la lengua y la cultura de los migrantes con trastornos mentales](https://www.elperiodico.com/es/ser-feliz/20260515/expertas-reclaman-recursos-entender-lengua-130091263) (2026-05-15 06:01) — duplicate in rolling 24h window
-- [El Baskonia se lleva el partido y el average particular](https://as.com/baloncesto/el-baskonia-se-lleva-el-partido-y-el-average-particular-f202605-n/) (2026-05-14 23:53) — older than 24h
-- [El Granca tortura a su eterno rival en el derbi canario](https://as.com/baloncesto/acb/el-granca-tortura-a-su-eterno-rival-en-el-derbi-canario-f202605-n/) (2026-05-14 23:37) — older than 24h
-- [El Valencia Basket, a un paso de su cuarta Liga consecutiva](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-a-un-paso-de-su-cuarta-liga-consecutiva-f202605-n/) (2026-05-14 23:00) — older than 24h
-- [Sigue en directo el Casademont Zaragoza vs Valencia Basket, final de la Liga F Endesa](https://as.com/baloncesto/videos/sigue-en-directo-el-casademont-zaragoza-vs-valencia-basket-final-de-la-liga-f-endesa-f202605-v/) (2026-05-14 22:50) — older than 24h
-- [Ricky complica la vida al Andorra](https://as.com/baloncesto/acb/ricky-complica-la-vida-al-andorra-f202605-n/) (2026-05-14 22:16) — older than 24h
-- [Scariolo: “Estoy satisfecho del entrenamiento que hicimos”](https://as.com/baloncesto/acb/scariolo-estoy-satisfecho-del-entrenamiento-que-hicimos-f202605-n/) (2026-05-14 22:03) — older than 24h
-- [Resumen y resultado del Surne Bilbao - Real Madrid: Liga Endesa 2025-26](https://as.com/baloncesto/acb/surne-bilbao-real-madrid-en-directo-liga-endesa-de-baloncesto-2025-26-en-vivo-hoy-f202605-d/) (2026-05-14 21:59) — older than 24h
-- [El Burgos encuentra vida y el Unicaja se despeña](https://as.com/baloncesto/el-burgos-encuentra-vida-y-el-unicaja-se-despena-f202605-n/) (2026-05-14 21:52) — older than 24h
 - [Menos de 12 euros y un sabor que deja huella: el vino que querrás tener siempre en casa](https://www.elperiodico.com/es/shopping/20260514/mejor-vino-recomendado-para-casa-barato-130242743) (2026-05-14 21:50) — older than 24h
-- [Resumen del Surne Bilbao vs Real Madrid, jornada 31 de la Liga Endesa](https://as.com/videos/acb/resumen-del-surne-bilbao-vs-real-madrid-jornada-31-de-la-liga-endesa-f202605-v/) (2026-05-14 21:47) — older than 24h
-- [La cabeza estaba en Atenas](https://as.com/baloncesto/la-cabeza-estaba-en-atenas-f202605-n/) (2026-05-14 21:35) — older than 24h
 - [Afterwork en Casa Seat con Juanfran Pérez Llorca](https://www.elperiodico.com/es/fotos/en-imagenes/afterwork-casa-seat-juanfran-perez-130241421) (2026-05-14 20:11) — older than 24h
 - [Dieta socialdemócrata de acelgas hervidas](https://www.elperiodico.com/es/opinion/20260514/dieta-socialdemocrata-acelgas-hervidas-keir-starmer-articulo-joan-canete-130238592) (2026-05-14 19:02) — older than 24h
 - [Sergio Delgado, entrenador: "¿Sabes cuántas cervezas quemas con cada partido de pádel?"](https://www.elperiodico.com/es/salud/20260514/sergio-delgado-entrenador-cervezas-quemas-padel-dv-130190944) (2026-05-14 18:00) — older than 24h
@@ -159,74 +250,18 @@
 - [Magí Seritjol, en su último Tarraco Viva como director: "El patrimonio histórico no es para los arqueólogos, es para la vida diaria de la gente"](https://www.elperiodico.com/es/tarragona/20260514/magi-seritjol-tarraco-viva-festival-reconstruccion-historica-tarragona-romana-130216610) (2026-05-14 12:55) — older than 24h
 - [El Foro Mediterráneo reivindica su peso desde Madrid: "Barcelona es innovación, es dinamismo económico"](https://www.elperiodico.com/es/economia/20260514/foro-mediterraneo-reivindica-peso-arco-130220626) (2026-05-14 12:54) — older than 24h
 - [La Policía salva a un joven que intentó suicidarse en una playa de Tarragona](https://www.elperiodico.com/es/sucesos/20260514/policia-salva-joven-intentaba-suicidarse-playa-tarragona-130216655) (2026-05-14 11:52) — older than 24h
-- [El Valencia solo tendrá 600 entradas para sus aficionados](https://as.com/baloncesto/el-valencia-solo-tendra-600-entradas-para-sus-aficionados-f202605-n/) (2026-05-14 10:16) — older than 24h
 - [La escuela inclusiva sin recursos fractura al profesorado: unos piden más apoyos y otros, "acabar con este engaño"](https://www.elperiodico.com/es/sociedad/20260514/escuela-inclusiva-sin-recursos-division-profesores-cataluna-129439536) (2026-05-14 09:15) — older than 24h
-- [Brancou Badio, el senegalés que pasó por el Barça y cumple el sueño del Valencia](https://as.com/baloncesto/euroliga/brancou-badio-el-senegales-que-paso-por-el-barca-y-cumple-el-sueno-del-valencia-f202605-n/) (2026-05-14 08:26) — older than 24h
-- [El Movistar Estudiantes y la fe en el interruptor](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-y-la-fe-en-el-interruptor-f202605-n/) (2026-05-14 07:32) — older than 24h
-- [Awa Fam quiere la Liga antes de irse a la WNBA](https://as.com/baloncesto/mas_baloncesto/awa-fam-quiere-la-liga-antes-de-irse-a-la-wnba-f202605-n/) (2026-05-14 07:29) — older than 24h
-- [Un Bilbao Basket multidisciplinar](https://as.com/baloncesto/un-bilbao-basket-multidisciplinar-f202605-n/) (2026-05-14 07:28) — older than 24h
 - [Ruta por la Barcelona que no sale en las guías: redescubre la Vila Olímpica](https://www.elperiodico.com/es/que-hacer/planes/20260514/barcelona-ruta-redescubre-vila-olimpica-barrio-130200848) (2026-05-14 07:01) — older than 24h
 - [Un hombre solo y equivocado](https://www.elperiodico.com/es/tele/20260514/hombre-equivocado-130188929) (2026-05-14 07:00) — older than 24h
 - [Una de cada cinco bajas de profesores en Catalunya no se ha cubierto en los últimos cinco cursos por falta de docentes](https://www.elperiodico.com/es/politica/20260514/bajas-profesores-escuelas-cataluna-130127650) (2026-05-14 06:01) — older than 24h
 - [Jim van Os, neuropsiquiatra: “Hemos enseñado a los jóvenes a traducir el estrés social en diagnósticos psiquiátricos"](https://www.elperiodico.com/es/ser-feliz/20260514/jim-neuropsiquiatra-hemos-ensenado-jovenes-130098199) (2026-05-14 06:01) — older than 24h
-- [Resumen del Valencia Basket vs. Panathinaikos de Euroliga](https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-panathinaikos-de-euroliga-f202605-v/) (2026-05-14 00:25) — older than 24h
-- [Ataman: “Si el criterio arbitral es el mismo en la Final Four, el Valencia ganará la Euroliga”](https://as.com/baloncesto/euroliga/ataman-el-valencia-ha-tirado-29-tiros-libres-nosotros-8-es-algo-extrano-f202605-n/) (2026-05-14 00:15) — older than 24h
-- [Pedro Martínez: “Nunca nos dimos por vencidos”](https://as.com/baloncesto/euroliga/pedro-martinez-nunca-nos-dimos-por-vencidos-f202605-n/) (2026-05-14 00:15) — older than 24h
-- [El Valencia es grande de Europa](https://as.com/opinion/el-valencia-es-grande-de-europa-f202605-n/) (2026-05-13 23:57) — older than 24h
-- [Resumen y resultado del Valencia - Panathinaikos: Euroliga 2025-26](https://as.com/baloncesto/euroliga/valencia-panathinaikos-en-directo-euroliga-2025-26-en-vivo-hoy-f202605-d/) (2026-05-13 23:42) — older than 24h
-- [¡A la Final Four!](https://as.com/baloncesto/euroliga/a-la-final-four-f202605-n/) (2026-05-13 23:41) — older than 24h
-- [Así queda la Final Four 2026 de la Euroliga](https://as.com/baloncesto/euroliga/asi-queda-la-final-four-2026-de-la-euroliga-f202605-n/) (2026-05-13 22:59) — older than 24h
-- [Así están los cruces del Playoff de la Euroliga: resultados, cuadro y horarios de Real Madrid y Valencia Basket](https://as.com/baloncesto/euroliga/asi-estan-los-cruces-del-playoff-de-la-euroliga-resultados-cuadro-y-horarios-de-real-madrid-y-valencia-f202604-n/) (2026-05-13 22:58) — older than 24h
-- [El Asvel deja solo al Madrid](https://as.com/baloncesto/euroliga/el-asvel-deja-solo-al-madrid-f202605-n/) (2026-05-13 22:54) — older than 24h
-- [El Río Breogán sigue en estado de felicidad](https://as.com/baloncesto/acb/el-rio-breogan-sigue-en-estado-de-felicidad-f202605-n/) (2026-05-13 22:28) — older than 24h
-- [El Barça rubrica el descenso del Granada](https://as.com/baloncesto/el-barca-rubrica-el-descenso-del-granada-f202605-n/) (2026-05-13 21:59) — older than 24h
-- [Cita con los ángeles](https://as.com/baloncesto/euroliga/cita-con-los-angeles-f202605-n/) (2026-05-13 21:01) — older than 24h
-- [“El riesgo para la NBA en Europa es ser percibida como algo de segundo rango”](https://as.com/baloncesto/euroliga/el-riesgo-para-la-nba-en-europa-es-ser-percibida-como-algo-de-segundo-rango-f202605-n/) (2026-05-13 17:53) — older than 24h
-- [Un Hall of Fame de triples y medallas](https://as.com/baloncesto/mas_baloncesto/un-hall-of-fame-de-triples-y-medallas-f202605-n/) (2026-05-13 17:01) — older than 24h
 - [La Fira Trapezi de Reus cumple 30 años como un referente internacional: "El circo contemporáneo catalán ya interesa a nivel europeo"](https://www.elperiodico.com/es/tarragona/20260513/fira-trapezi-reus-30-anos-circo-contemporaneo-internacional-130183903) (2026-05-13 15:30) — older than 24h
-- [Iyana Martín anuncia su marcha del Perfumerías Avenida](https://as.com/baloncesto/mas_baloncesto/iyana-martin-anuncia-su-marcha-del-perfumerias-avenida-f202605-n/) (2026-05-13 14:03) — older than 24h
-- [Una “mancha” en el Bilbao Basket](https://as.com/baloncesto/una-mancha-en-el-bilbao-basket-f202605-n/) (2026-05-13 11:45) — older than 24h
 - [Vivir con EPOC: la “asesina silenciosa” que te quita el aire](https://www.elperiodico.com/es/sociedad/20260512/vivir-epoc-asesina-silenciosa-quita-bc-130163553) (2026-05-12 23:59) — older than 24h
 - [Mucho más que escalada: así será la experiencia alrededor de la Copa del Mundo en Alcobendas](https://www.elperiodico.com/es/deportes/20260512/escalada-sera-experiencia-alrededor-copa-bc-130163576) (2026-05-12 23:59) — older than 24h
-- [El Manresa minimiza las opciones de playoff del Girona](https://as.com/baloncesto/acb/el-manresa-minimiza-las-opciones-de-playoff-del-girona-f202605-n/) (2026-05-12 22:33) — older than 24h
-- [Valencia sube de temperatura](https://as.com/opinion/valencia-sube-de-temperatura-f202605-n/) (2026-05-12 19:13) — older than 24h
-- [El Valencia, a un paso de la gesta del Madrid 2023](https://as.com/baloncesto/euroliga/el-valencia-a-un-paso-de-la-gesta-del-madrid-2023-f202605-n/) (2026-05-12 17:16) — older than 24h
 - [¿Crisis sanitaria o manipulación?](https://www.elperiodico.com/es/opinion/20260512/crisis-sanitaria-o-manipulacion-hantavirus-articulo-joan-guix-130106961) (2026-05-12 15:44) — older than 24h
-- [A Coruña será la sede de la Final Four 2026 en Primera FEB](https://as.com/baloncesto/mas_baloncesto/la-coruna-sera-la-sede-de-la-final-four-2026-en-primera-feb-f202605-n/) (2026-05-12 15:34) — older than 24h
-- [Golpe durísimo al Real Madrid: Tavares y Len se pierden la Final Four](https://as.com/baloncesto/euroliga/golpe-durisimo-al-real-madrid-tavares-y-len-se-pierden-la-final-four-f202605-n/) (2026-05-12 15:18) — older than 24h
-- [Jan Vesely se retira](https://as.com/baloncesto/jan-vesely-se-retira-f202605-n/) (2026-05-12 14:01) — older than 24h
-- [El Bilbao Basket ya tiene himno](https://as.com/baloncesto/el-bilbao-basket-ya-tiene-himno-f202605-n/) (2026-05-12 13:36) — older than 24h
-- [Pedro Martínez: “El factor cancha no es tan importante”](https://as.com/baloncesto/euroliga/pedro-martinez-el-factor-cancha-no-es-tan-importante-f202605-n/) (2026-05-12 13:17) — older than 24h
-- [Doncic anuncia su baja con Eslovenia por cuestiones personales](https://as.com/baloncesto/mas_baloncesto/doncic-anuncia-su-baja-con-eslovenia-por-cuestiones-personales-f202605-n/) (2026-05-12 11:33) — older than 24h
-- [Jiménez: “Yo le puse Conan a Fernando Martín; y él me bautizó Jimix”](https://as.com/baloncesto/mas_baloncesto/jimenez-yo-le-puse-conan-a-fernando-martin-y-el-me-bautizo-jimix-f202605-n/) (2026-05-12 06:46) — older than 24h
 - [El fenómeno teatral que emociona sin texto llega al Grec Festival de Barcelona este verano](https://www.elperiodico.com/es/ocio-y-cultura/20260512/kulunka-teatre-condal-barcelona-bc-130089522) (2026-05-12 06:00) — older than 24h
 - [Rebajas de hasta el 73 %: Amazon liquida sus productos más solicitados a su precio mínimo histórico](https://www.elperiodico.com/es/shopping/20260511/amazon-ofertas-dia-mejores-rebajas-descuentos-productos-mas-buscados-130103428) (2026-05-11 16:42) — older than 24h
-- [Folgueiras, al frente del nuevo ‘training camp’ convocado por Chus Mateo](https://as.com/baloncesto/mas_baloncesto/folgueiras-al-frente-del-nuevo-training-camp-convocado-por-chus-mateo-f202605-n/) (2026-05-11 13:34) — older than 24h
-- [Key se rompe la nariz](https://as.com/baloncesto/euroliga/key-se-rompe-la-nariz-f202605-n/) (2026-05-11 12:39) — older than 24h
-- [El Dubái se entromete en los planes de futuro del Barcelona](https://as.com/baloncesto/euroliga/el-dubai-se-entromete-en-los-planes-de-futuro-del-barcelona-f202605-n/) (2026-05-11 12:13) — older than 24h
-- [El Valencia Basket, finalista al límite](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-finalista-al-limite-f202605-n/) (2026-05-10 21:26) — older than 24h
-- [El Baskonia asalta el Roig Arena y aprieta la clasificación](https://as.com/baloncesto/acb/baskonia-asalta-el-roig-arena-y-aprieta-la-clasificacion-f202605-n/) (2026-05-10 21:10) — older than 24h
-- [Scariolo: “No quiero manchar públicamente la victoria del Breogán”](https://as.com/baloncesto/acb/scariolo-no-quiero-manchar-publicamente-la-victoria-del-breogan-f202605-n/) (2026-05-10 20:44) — older than 24h
-- [El Breogán asalta la pista del Madrid casi 24 años después](https://as.com/baloncesto/acb/el-breogan-asalta-la-pista-del-madrid-casi-24-anos-despues-f202605-n/) (2026-05-10 19:29) — older than 24h
-- [Giannakopoulos reaparece: “Hemos enviado un vídeo a la Euroliga”](https://as.com/futbol/giannakopoulos-reaparece-hemos-enviado-un-video-a-la-euroliga-f202605-n/) (2026-05-10 15:56) — older than 24h
-- [Pustovyi castiga al Baxi Manresa](https://as.com/baloncesto/acb/pustovyi-castiga-al-baxi-manresa-f202605-n/) (2026-05-10 15:42) — older than 24h
-- [El Lleida roza la salvación](https://as.com/baloncesto/el-lleida-roza-la-salvacion-f202605-n/) (2026-05-10 14:10) — older than 24h
-- [Scariolo entra en un selecto grupo](https://as.com/baloncesto/euroliga/scariolo-entra-en-un-selecto-grupo-f202605-n/) (2026-05-10 08:01) — older than 24h
-- [Lukosius se viste de héroe y le da la primera Champions al Rytas con una brutal remontada](https://as.com/baloncesto/mas_baloncesto/el-rytas-conquista-su-primer-titulo-con-una-remontada-memorable-f202605-n/) (2026-05-09 22:27) — older than 24h
-- [Un UCAM Murcia histórico](https://as.com/baloncesto/acb/un-ucam-murcia-historico-f202605-n/) (2026-05-09 20:51) — older than 24h
-- [El mejor Núñez esboza una sonrisa al Barça](https://as.com/baloncesto/acb/el-mejor-nunez-esboza-una-sonrisa-al-barca-f202605-n/) (2026-05-09 20:40) — older than 24h
-- [El Covirán Granada se da una vida extra](https://as.com/baloncesto/acb/el-coviran-granada-se-da-una-vida-extra-f202605-n/) (2026-05-09 20:40) — older than 24h
-- [El Unicaja pone algo de calma al caos](https://as.com/baloncesto/el-unicaja-pone-algo-de-calma-al-caos-f202605-n/) (2026-05-09 20:12) — older than 24h
-- [Se completa la primera Final 6 de la Liga U](https://as.com/baloncesto/mas_baloncesto/se-completa-la-primera-final-6-de-la-liga-u-f202605-n/) (2026-05-09 19:09) — older than 24h
-- [Así queda el playoff de ascenso a la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-queda-el-playoff-por-el-ascenso-a-la-liga-endesa-f202605-n/) (2026-05-09 16:56) — older than 24h
-- [El Madrid, casi un fijo en la Final Four](https://as.com/baloncesto/euroliga/el-madrid-casi-un-fijo-en-la-final-four-f202605-n/) (2026-05-09 16:30) — older than 24h
-- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/) (2026-05-09 15:31) — older than 24h
-- [El Unicaja expedienta a Chris Duarte y le suspende de empleo](https://as.com/baloncesto/el-unicaja-expedienta-a-chris-duarte-y-le-suspende-de-empleo-f202605-n/) (2026-05-09 15:31) — older than 24h
-- [Ataman calienta el quinto partido: “Nunca había visto algo tan extraño”](https://as.com/baloncesto/euroliga/ataman-calienta-el-quinto-partido-en-valencia-nunca-habia-visto-cosas-tan-extranas-f202605-n/) (2026-05-08 23:55) — older than 24h
-- [Épico Valencia Basket](https://as.com/baloncesto/euroliga/epico-valencia-basket-f202605-n/) (2026-05-08 23:11) — older than 24h
-- [La NBA redistribuirá 3.000 millones en la nueva competición europea](https://as.com/baloncesto/euroliga/la-nba-pondra-3000-millones-en-europa-f202605-n/) (2026-05-08 10:09) — older than 24h
 - [Más ahorro para los conductores: Repsol amplía sus descuentos en combustibles hasta el 31 de mayo](https://www.elperiodico.com/es/sociedad/20260507/ahorro-conductores-repsol-amplia-descuentos-bc-129977737) (2026-05-07 23:59) — older than 24h
-- [El playoff de la Liga Endesa empezará el 2 de junio y acabará como muy tarde el 28 de junio](https://as.com/baloncesto/acb/el-playoff-de-la-liga-endesa-empezara-el-2-de-junio-y-acabara-como-muy-tarde-el-28-de-junio-f202605-n/) (2026-05-07 15:15) — older than 24h
 - [Movistar Plus+ estrena por sorpresa una de las series más adictivas del momento (y ya puedes verla por 4,99 euros)](https://www.elperiodico.com/es/shopping/20260507/mejores-series-online-movistar-plus-ver-peliculas-contratar-bc-129935118) (2026-05-07 05:30) — older than 24h
 - [La World Climbing Series Comunidad de Madrid 2026: todo lo que necesitas saber](https://www.elperiodico.com/es/deportes/20260506/world-climbing-series-comunidad-madrid-bc-129935793) (2026-05-06 23:59) — older than 24h
 - [Esta plancha de Russell Hobbs es una auténtica superventas, alisa hasta las arrugas más difíciles y no llega ni a los 50 euros](https://www.elperiodico.com/es/shopping/20260505/plancha-vapor-mejor-vertical-russell-hobbs-129860494) (2026-05-05 11:36) — older than 24h
@@ -236,60 +271,30 @@
 - [Cancha Solidaria Endesa activa el matchfunding para impulsar cinco proyectos sociales vinculados al baloncesto](https://www.elperiodico.com/es/deportes/20260420/cancha-solidaria-endesa-activa-matchfunding-bc-129289763) (2026-04-20 09:30) — older than 24h
 - [Los microcréditos impulsan el autoempleo en pleno récord histórico de trabajadores autónomos](https://www.elperiodico.com/es/economia/20260323/microcreditos-impulsan-autoempleo-pleno-record-trabajadores-autonomos-microbank-128059221) (2026-03-23 06:00) — older than 24h
 - [El temor a Trump impulsa la "nube soberana" en Europa para proteger sus datos en Internet](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20260322/temor-trump-impulsa-nube-soberana-union-europea-dependencia-eeuu-google-amazon-microsoft-128132075) (2026-03-22 06:00) — older than 24h
-- [Cerca de 30.000 personas abarrotan la Virgen Blanca](https://as.com/futbol/cerca-de-30000-personas-abarrotan-la-virgen-blanca-f202602-n/) (2026-02-24 21:18) — older than 24h
-- [Pedro Martínez critica el arbitraje frente al Madrid](https://as.com/baloncesto/copa_del_rey/pedro-martinez-critica-el-arbitraje-frente-al-madrid-f202602-n/) (2026-02-24 16:10) — older than 24h
-- [El Baskonia vuelve a rugir](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-rugir-f202602-n/) (2026-02-24 06:43) — older than 24h
-- [Mason Broyles, otro invitado del Madrid que se lleva el MVP](https://as.com/baloncesto/copa_del_rey/mason-broyne-otro-invitado-del-madrid-que-se-lleva-el-mvp-f202602-n/) (2026-02-23 11:23) — older than 24h
-- [Scariolo: “Nos ha faltado un poco de todo”](https://as.com/baloncesto/scariolo-nos-ha-faltado-un-poco-de-todo-f202602-n/) (2026-02-23 09:49) — older than 24h
-- [Los seis males del Madrid en la final](https://as.com/baloncesto/copa_del_rey/los-seis-males-del-madrid-en-la-final-f202602-n/) (2026-02-23 09:08) — older than 24h
-- [Real Madrid - Baskonia hoy, en directo: reacciones de última hora a la final de Copa del Rey 2026, en vivo](https://as.com/baloncesto/copa_del_rey/real-madrid-baskonia-en-directo-final-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/) (2026-02-22 22:44) — older than 24h
-- [Galbiati: “Soy un superviviente, en noviembre pudieron echarme”](https://as.com/futbol/galbiati-soy-un-superviviente-en-noviembre-pudieron-echarme-f202602-n/) (2026-02-22 22:23) — older than 24h
-- [El Milagro de Paolo Galbiati](https://as.com/opinion/el-milagro-de-paolo-galbiati-f202602-n/) (2026-02-22 22:09) — older than 24h
-- [El Madrid de Scariolo no remata](https://as.com/baloncesto/copa_del_rey/el-madrid-de-scariolo-no-remata-f202602-n/) (2026-02-22 22:00) — older than 24h
-- [Galbiati, especialista en Copas](https://as.com/baloncesto/copa_del_rey/galbiati-especialista-en-copas-f202602-n/) (2026-02-22 21:57) — older than 24h
-- [Baskonia es la magia de la Copa](https://as.com/opinion/baskonia-es-la-magia-de-la-copa-f202602-n/) (2026-02-22 21:49) — older than 24h
-- [Baskonia vuelve a ser gigante](https://as.com/baloncesto/copa_del_rey/el-baskonia-vuelve-a-reinar-f202602-n/) (2026-02-22 21:32) — older than 24h
-- [Trent Forrest, MVP de la Copa](https://as.com/baloncesto/copa_del_rey/trent-forrest-mvp-de-la-copa-f202602-n/) (2026-02-22 21:19) — older than 24h
-- [Palmarés de la Copa del Rey de baloncesto: quién tiene más títulos y cuántas ha ganado cada equipo](https://as.com/baloncesto/copa_del_rey/palmares-de-la-copa-del-rey-de-baloncesto-quien-tiene-mas-titulos-y-cuantas-ha-ganado-cada-equipo-f202602-n/) (2026-02-22 21:04) — older than 24h
-- [Y ahora, la final de verdad](https://as.com/baloncesto/copa_del_rey/y-ahora-la-final-de-verdad-f202602-n/) (2026-02-22 18:55) — older than 24h
-- [¿A qué hora es la final de la Copa del Rey de baloncesto? TV, horario, cómo y dónde ver online el Real Madrid - Baskonia](https://as.com/baloncesto/copa_del_rey/a-que-hora-es-el-real-madrid-baskonia-hoy-tv-horario-como-y-donde-ver-en-directo-la-final-de-la-copa-del-rey-2026-f202602-n/) (2026-02-22 18:26) — older than 24h
-- [Resumen y resultado del Valencia - Real Madrid: final de la MiniCopa Endesa](https://as.com/baloncesto/copa_del_rey/valencia-basket-real-madrid-en-directo-final-de-la-minicopa-endesa-2026-en-vivo-hoy-f202602-d/) (2026-02-22 15:14) — older than 24h
-- [El Real Madrid levanta su décima Minicopa Endesa tras vencer al Valencia](https://as.com/baloncesto/el-real-madrid-levanta-su-decima-minicopa-endesa-tras-vencer-al-valencia-f202602-n/) (2026-02-22 15:13) — older than 24h
-- [Las reacciones al triple de Hezonja](https://as.com/baloncesto/copa_del_rey/las-reacciones-al-triple-de-hezonja-f202602-n/) (2026-02-22 12:07) — older than 24h
-- [Barcelona - Baskonia: resumen y resultado, Copa del Rey de baloncesto 2026 (67-70)](https://as.com/baloncesto/copa_del_rey/barcelona-baskonia-en-directo-copa-del-rey-de-baloncesto-2026-hoy-en-vivo-f202602-d/) (2026-02-22 01:11) — older than 24h
-- [¿Cuándo y a qué hora es la final de la Minicopa? TV, horario y cómo ver online el Valencia - Real Madrid](https://as.com/baloncesto/copa_del_rey/cuando-y-a-que-hora-es-la-final-de-la-minicopa-tv-horario-y-como-ver-online-el-valencia-real-madrid-f202602-n/) (2026-02-21 23:43) — older than 24h
-- [El Baskonia evita otro Clásico](https://as.com/baloncesto/copa_del_rey/el-baskonia-evita-otro-clasico-f202602-n/) (2026-02-21 23:30) — older than 24h
-- [Galbiati: “El Real Madrid tiene doce fenómenos”](https://as.com/baloncesto/copa_del_rey/galbiati-el-real-madrid-tiene-doce-fenomenos-f202602-n/) (2026-02-21 23:27) — older than 24h
-- [Supermario Hezonja firma una remontada antológica](https://as.com/baloncesto/copa_del_rey/supermario-hezonja-firma-una-remontada-antologica-f202602-n/) (2026-02-21 20:52) — older than 24h
 - [Robots sobre ruedas, la IA toma cuerpo en la automoción](https://www.elperiodico.com/es/nodos-industria-tecnologia-digital-telecomunicaciones/20260214/robots-humanoides-ia-irrumpe-sector-automovil-126272947) (2026-02-14 05:58) — older than 24h
-- [Jaime Fernández, baja de peso para el España-Georgia](https://as.com/baloncesto/mundial_baloncesto/jaime-fernandez-baja-de-peso-para-el-espana-georgia-f202511-n/) (2025-11-29 12:56) — older than 24h
 - [Sobre (vivir) a la crianza](https://www.elperiodico.com/es/videos/podcast/vivir-crianza/123475995.shtml) (2025-11-07 16:30) — older than 24h
 - [Mas Barcelona](https://www.elperiodico.com/es/videos/podcast/barcelona/123475904.shtml) (2025-11-07 16:27) — older than 24h
 - [En paradero desconocido](https://www.elperiodico.com/es/videos/podcast/paradero-desconocido/124915301.shtml) (2025-10-20 08:59) — older than 24h
 - [Libros y cosas](https://www.elperiodico.com/es/videos/podcast/libros-cosas/123475863.shtml) (2025-10-01 08:59) — older than 24h
 - [Mamarazzis](https://www.elperiodico.com/es/videos/podcast/mamarazzis/123475831.shtml) (2025-10-01 08:59) — older than 24h
-- [España pierde el liderato y pasa a octavos como segunda](https://as.com/baloncesto/mundial_baloncesto/espana-pierde-el-liderato-y-pasa-a-octavos-como-segunda-n/) (2025-08-04 21:43) — older than 24h
-- [España - Bélgica: horario, TV y dónde ver la final del Eurobasket 2025](https://as.com/baloncesto/mundial_baloncesto/espana-belgica-horario-tv-y-donde-ver-la-final-del-eurobasket-2025-n/) (2025-06-29 05:49) — older than 24h
-- [España, contra Georgia y dos rivales de la previa](https://as.com/baloncesto/mundial_baloncesto/espana-contra-georgia-y-dos-rivales-de-la-previa-n/) (2025-05-13 19:41) — older than 24h
-- [Resumen y resultado del Estados Unidos - Montenegro: Mundial 2023](https://as.com/us/masdeporte/estados-unidos-montenegro-en-directo-mundial-2023-en-vivo-hoy-n/) (2024-10-10 11:30) — older than 24h
-- [En Islandia sin Scariolo](https://as.com/baloncesto/mundial_baloncesto/en-islandia-sin-scariolo-n/) (2024-10-08 17:11) — older than 24h
-- [Resumen y resultado del España - Canadá: Mundial 2023](https://as.com/baloncesto/mundial_baloncesto/espana-canada-en-directo-mundial-de-baloncesto-2023-en-vivo-hoy-n/) (2024-10-08 17:10) — older than 24h
-- [España se mete en la boca del lobo](https://as.com/baloncesto/mundial_baloncesto/espana-se-mete-en-la-boca-del-lobo-n/) (2024-10-08 17:10) — older than 24h
-- [Estados Unidos - Alemania, Mundial 2023: resumen y resultado (111-113)](https://as.com/us/masdeporte/estados-unidos-alemania-en-directo-mundial-baloncesto-2023-hoy-en-vivo-n/) (2024-10-08 17:09) — older than 24h
-- [Porzingis echa la culpa de su ausencia en el Mundial a unas zapatillas](https://as.com/baloncesto/mundial_baloncesto/porzingis-echa-la-culpa-de-su-ausencia-en-el-mundial-a-unas-zapatillas-n/) (2023-10-09 10:00) — older than 24h
-- [La intrahistoria de Zagars, el verdugo de España: “Triplicó su dinero después del Mundial”](https://as.com/baloncesto/eurocup/la-intrahistoria-del-verdugo-de-espana-triplico-su-dinero-despues-del-mundial-n/) (2023-09-26 07:46) — older than 24h
-- [Rondae Hollis-Jefferson sale a flote gracias a un Mundial viral](https://as.com/baloncesto/mundial_baloncesto/rondae-hollis-jefferson-sale-a-flote-gracias-a-un-mundial-viral-n/) (2023-09-20 10:00) — older than 24h
-- [Doncic se despide con victoria y Zagars hace historia](https://as.com/baloncesto/mundial_baloncesto/doncic-se-despide-con-victoria-y-rozando-el-triple-doble-n/) (2023-09-13 15:38) — older than 24h
-- [Svetislav Pesic, un ‘old school’ para la eternidad](https://as.com/baloncesto/mundial_baloncesto/svetislav-pesic-un-old-school-para-la-eternidad-n/) (2023-09-13 09:06) — older than 24h
-- [Alemania, un campeón en crecimiento](https://as.com/baloncesto/mundial_baloncesto/alemania-un-campeon-en-crecimiento-n/) (2023-09-13 08:36) — older than 24h
-- [Dillon Brooks se desmelena: “Si no piensas así, no te gusta el baloncesto”](https://as.com/baloncesto/mundial_baloncesto/dillon-brooks-se-desmelena-si-no-piensas-asi-no-te-gusta-el-baloncesto-n/) (2023-09-11 13:43) — older than 24h
-- [Canadá, árbitros, Zagars, Francia… Lo mejor y lo peor del Mundial](https://as.com/baloncesto/mundial_baloncesto/canada-arbitros-zagars-francia-lo-mejor-y-lo-peor-del-mundial-n/) (2023-09-11 11:57) — older than 24h
-- [Histórico Jordi Fernández: un español sin techo en los banquillos de la NBA](https://as.com/baloncesto/mundial_baloncesto/historico-jordi-fernandez-un-espanol-sin-techo-en-los-banquillos-de-la-nba-n-2/) (2023-09-11 08:40) — older than 24h
-- [Dennis Schroder, el MVP que domina el ‘skate’](https://as.com/baloncesto/dennis-schorder-el-mvp-que-domina-el-skate-n/) (2023-09-10 17:02) — older than 24h
-- [Alemania se sienta en el trono](https://as.com/baloncesto/mundial_baloncesto/alemania-se-sienta-en-el-trono-n/) (2023-09-10 16:51) — older than 24h
-- [Una Canadá de presente y futuro deja sin medalla a Estados Unidos](https://as.com/us/masdeporte/una-canada-de-presente-y-futuro-deja-sin-medalla-a-estados-unidos-n/) (2023-09-10 13:13) — older than 24h
-- [El lobo serbio contra el ogro alemán](https://as.com/baloncesto/mundial_baloncesto/el-lobo-serbio-contra-el-ogro-aleman-n/) (2023-09-10 08:18) — older than 24h
-- [Domingo sin corona](https://as.com/opinion/domingo-sin-corona-n/) (2023-09-09 21:04) — older than 24h
-- [Doncic: “La pierna no está bien”](https://as.com/baloncesto/mundial_baloncesto/luka-doncic-la-pierna-no-esta-bien-n/) (2023-09-09 06:25) — older than 24h
-- [Eurobasket en Manila](https://as.com/opinion/eurobasket-en-manila-n/) (2023-09-08 22:08) — older than 24h
-- [Bogdanovic entierra el sueño de Canadá](https://as.com/baloncesto/mundial_baloncesto/bogdanovic-entierra-el-sueno-de-canada-n/) (2023-09-08 12:46) — older than 24h
+
+### ua.korrespondent.net
+- [В Ужгороді блискавка влучила у будинок, викликавши пожежу](https://ua.korrespondent.net/ukraine/4879002-v-uzhhorodi-blyskavka-vluchyla-u-budynok-vyklykavshy-pozhezhu) (2026-05-16 01:22) — duplicate in rolling 24h window
+- [У британському Ессексі правопопулісти зняли український прапор](https://ua.korrespondent.net/world/4879000-u-brytanskomu-esseksi-pravopopulisty-znialy-ukrainskyi-prapor) (2026-05-16 00:53) — duplicate in rolling 24h window
+- [На Шахеди почали ставити засоби РЕБ - Флеш](https://ua.korrespondent.net/ukraine/4878998-na-shakhedy-pochaly-stavyty-zasoby-reb-flesh) (2026-05-16 00:21) — duplicate in rolling 24h window
+- [Путін спростив отримання громадянства РФ для жителів Придністров'я](https://ua.korrespondent.net/world/4878996-putin-sprostyv-otrymannia-hromadianstva-rf-dlia-zhyteliv-prydnistrovia) (2026-05-15 23:55) — duplicate in rolling 24h window
+- [Трафік через Ормузьку протоку зростає, але є "але"](https://ua.korrespondent.net/world/4878994-trafik-cherez-ormuzku-protoku-zrostaie-ale-ye-ale) (2026-05-15 23:26) — news filter keyword
+- [Росіяни атакували Харківщину дронами, є постраждалі](https://ua.korrespondent.net/city/kharkov/4878991-rosiiany-atakuvaly-kharkivschynu-dronamy-ye-postrazhdali) (2026-05-15 22:49) — duplicate in rolling 24h window
+- [Фронт проти країн НАТО. Загроза з Білорусі](https://ua.korrespondent.net/ukraine/4878993-front-proty-krain-nato-zahroza-z-bilorusi) (2026-05-15 22:41) — duplicate in rolling 24h window
+- [Смертельне ДТП у Дніпрі: авто влетіло у зупинку транспорту](https://ua.korrespondent.net/city/dnepr/4878989-smertelne-dtp-u-dnipri-avto-vletilo-u-zupynku-transportu) (2026-05-15 22:24) — news filter keyword
+- [Масштабна пожежа на стратегічному нафтовому об'єкті в РФ: є загиблі](https://ua.korrespondent.net/world/russia/4878986-masshtabna-pozhezha-na-stratehichnomu-naftovomu-obiekti-v-rf-ye-zahybli) (2026-05-15 21:58) — duplicate in rolling 24h window
+- [Трамп зробив різку заяву про Тайвань](https://ua.korrespondent.net/world/4878982-tramp-zrobyv-rizku-zaiavu-pro-taivan) (2026-05-15 21:32) — duplicate in rolling 24h window
+- [Моделі Jeep і Peugeot китайського виробництва вийдуть на глобальний ринок](https://ua.korrespondent.net/business/auto/4878978-modeli-Jeep-i-Peugeot-kytaiskoho-vyrobnytstva-vyidut-na-hlobalnyi-rynok) (2026-05-15 21:10) — duplicate in rolling 24h window
+- [Уряд вивів агентство PlayCity з координації Мінцифри](https://ua.korrespondent.net/ukraine/4878972-uriad-vyviv-ahentstvo-PlayCity-z-koordynatsii-mintsyfry) (2026-05-15 21:00) — duplicate in rolling 24h window
+- [У Хорватії знайшли більше 300 римських монет](https://ua.korrespondent.net/tech/science/4878976-u-khorvatii-znaishly-bilshe-300-rymskykh-monet) (2026-05-15 20:59) — duplicate in rolling 24h window
+- [Центральний захисник Манчестер Юнайтед повідомив про операцію](https://ua.korrespondent.net/sport/football/4878974-tsentralnyi-zakhysnyk-manchester-yunaited-povidomyv-pro-operatsiui) (2026-05-15 20:56) — duplicate in rolling 24h window
+- [﻿У горах у Польщі блискавка влучила у групу туристів: є постраждалі](https://ua.korrespondent.net/world/4878970-u-horakh-u-polschi-blyskavka-vluchyla-u-hrupu-turystiv-ye-postrazhdali) (2026-05-15 20:47) — duplicate in rolling 24h window
+- [Єрмак залишається у СІЗО: заставу не змогли внести](https://ua.korrespondent.net/ukraine/4878968-yermak-zalyshaietsia-u-sizo-zastavu-ne-zmohly-vnesty) (2026-05-15 20:22) — duplicate in rolling 24h window
+- [У мережу злили характеристики флагманського Xiaomi 17 Max](https://ua.korrespondent.net/lifestyle/gadgets/4878966-u-merezhu-zlyly-kharakterystyky-flahmanskoho-Xiaomi-17-Max) (2026-05-15 20:12) — duplicate in rolling 24h window
+- [Іспанія видала Німеччині українця у справі про шпигунство на користь РФ](https://ua.korrespondent.net/world/4878964-ispaniia-vydala-nimechchyni-ukraintsia-u-spravi-pro-shpyhunstvo-na-koryst-rf) (2026-05-15 20:00) — duplicate in rolling 24h window
+- [У Сінгапурі відкрили новий вид смертельно небезпечної медузи](https://ua.korrespondent.net/tech/science/4878962-u-sinhapuri-vidkryly-novyi-vyd-smertelno-nebezpechnoi-meduzy) (2026-05-15 19:50) — duplicate in rolling 24h window
