@@ -1,7 +1,41 @@
-# 2026-05-15 03:54
+# 2026-05-15 07:47
 
 ## Included news
 
+### elperiodico.com
+- [Grison (41 años) y su rutina dulce-salado: "Perdí alrededor de diez kilos"](https://www.elperiodico.com/es/gente/20260515/grison-41-anos-rutina-diaria-dv-130037773) (2026-05-15 07:45)
+- [Trump endurece sanciones a Cuba, en directo | EEUU anuncia que "tomará el control casi de inmediato"](https://www.elperiodico.com/es/internacional/20260515/explosiones-venezuela-directo-ultima-hora-125330876) (2026-05-15 07:35)
+- [Trump dice que Xi Jinping y él comparten una visión "similar" sobre el fin de la guerra en Irán](https://www.elperiodico.com/es/internacional/20260515/trump-dice-xi-jinping-comparten-130252561) (2026-05-15 07:23)
+- [Barcelona se convertirá en capital mundial del perfume con experiencias olfativas en 20 espacios emblemáticos | MAPA](https://www.elperiodico.com/es/gente/20260515/barcelona-capital-mundial-perfume-barcelona-olfaction-week-2026-programa-visitas-actividades-mapa-130226473) (2026-05-15 07:02)
+- [UNIVERSAE: Una nueva manera de aprender que se adapta al ritmo de vida del estudiante](https://www.elperiodico.com/es/sociedad/20260515/universae-nueva-manera-aprender-adapta-bc-130251103) (2026-05-15 07:01)
+- [Carlo Padial, director de 'Pizza Movies': "Me carga todo ese cine cínico y 'destroyer' que es un reflejo del enfado actual"](https://www.elperiodico.com/es/ocio-y-cultura/20260515/carlo-padial-director-pizza-movies-entrevista-130239682) (2026-05-15 07:01)
+- ['Tour' por el casco antiguo de Barcelona con dos cazafantasmas | VÍDEO](https://www.elperiodico.com/es/que-hacer/planes/20260515/tour-paranormal-cazafantasmas-barcelona-ciutat-vella-ruta-fantasmas-psicofonias-130237324) (2026-05-15 07:01)
+- [Manu Sánchez y Mercedes Milà](https://www.elperiodico.com/es/tele/20260515/manu-sanchez-mercedes-mila-130233057) (2026-05-15 07:01)
+- [¿Por qué se enciende esta luz del coche y qué debes hacer?](https://www.elperiodico.com/es/motor/20260515/enciende-luz-coche-debes-130217153) (2026-05-15 07:01)
+- [En busca de fantasmas por el casco antiguo de Barcelona](https://www.elperiodico.com/es/videos/que-hacer/busca-fantasmas-casco-antiguo-barcelona/130240124.shtml) (2026-05-15 06:45)
+- [La sanidad privada atiende más del 32% de las urgencias y realiza 4 de cada 10 cirugías](https://www.elperiodico.com/es/sociedad/20260515/sanidad-privada-atiende-32-urgencias-bc-130252318) (2026-05-15 06:42)
+- [Guerra Ucrania - Rusia, en directo, última hora | DIRECTO UCRANIA | Sube a 24 el número de muertos en el ataque ruso contra Kiev del jueves](https://www.elperiodico.com/es/internacional/20260515/guerra-ucrania-rusia-directo-ultima-126605559) (2026-05-15 06:35)
+- [La mitad de los robos violentos de L'Hospitalet de Llobregat se cometen en patinete y hay ladrones de entre 11 y 13 años](https://www.elperiodico.com/es/barcelona/hospitalet/20260515/mitad-robos-violentos-lhospitalet-llobregat-patinete-menores-130241785) (2026-05-15 06:01)
+- [Las 6 incógnitas del juicio a la familia Pujol que deberá resolver el tribunal en su sentencia](https://www.elperiodico.com/es/politica/20260515/claves-juicio-pujol-familia-sentencia-andorra-audiencia-nacional-130224362) (2026-05-15 06:01)
+- [La Fiscalía de Barcelona denuncia a un fondo de inversión de las Islas Caimán por defraudar a Hacienda en el sector hotelero](https://www.elperiodico.com/es/economia/20260515/fiscalia-de-barcelona-denuncia-fondo-inversion-islas-caiman-129971932) (2026-05-15 06:01)
+- [Nit dels Museus de Barcelona este sábado: techno con cantos gregorianos, exposiciones guiadas y obras de teatro](https://www.elperiodico.com/es/ocio-y-cultura/20260515/techno-cantos-gregorianos-exposiciones-guiadas-130218950) (2026-05-15 06:01)
+- [Las mafias se apoderan de la gestión ilegal de residuos: actúan por encargo y entierran los vertidos](https://www.elperiodico.com/es/sociedad/20260515/mafias-vertidos-residuos-ilegales-espana-encargo-entierran-sella-residuos-129696344) (2026-05-15 06:01)
+- [El Cómic Barcelona 2026 abre con la mitad de espacio una edición atípica, histórica y con récord de invitados](https://www.elperiodico.com/es/ocio-y-cultura/20260515/comic-barcelona-2026-programacion-exposiciones-130198197) (2026-05-15 06:01)
+- [El puerto de Barcelona convocará un gran concurso para diseñar una Rambla del Port con amarres y arquitectura de autor](https://www.elperiodico.com/es/barcelona/20260515/puerto-barcelona-convocara-gran-concurso-rambla-port-130183955) (2026-05-15 06:01)
+- [La hamburguesería Deleito abrirá 5 locales en Madrid para alcanzar los 6 millones de ingresos](https://www.elperiodico.com/es/economia/20260515/hamburgueseria-deleito-abrira-5-locales-madrid-facturacion-6-millones-130215249) (2026-05-15 06:01)
+- [Dos expertas reclaman más recursos para entender la lengua y la cultura de los migrantes con trastornos mentales](https://www.elperiodico.com/es/ser-feliz/20260515/expertas-reclaman-recursos-entender-lengua-130091263) (2026-05-15 06:01)
+- [Catalunya localiza más de 300 vehículos abandonados en espacios naturales en un año](https://www.elperiodico.com/es/sociedad/20260515/agentes-rurales-vehiculos-abandonados-cataluna-espacios-naturales-129825304) (2026-05-15 06:01)
+- [Anu Bradford, jurista: "Musk no debería ofrecer sus productos en Europa si no cumple las normas"](https://www.elperiodico.com/es/internacional/20260515/anu-bradford-musk-normas-europa-regulacion-ia-autoritarismo-digital-eeuu-china-trump-union-europea-superpotencia-130251585) (2026-05-15 06:01)
+- [Juan Carlos Monedero: "Detrás del auge de la extrema derecha hay un fracaso de la izquierda transformadora"](https://www.elperiodico.com/es/politica/20260515/juan-carlos-monedero-podemos-15m-extrema-derecha-izquierda-130231152) (2026-05-15 06:01)
+- [Moreno consolida un perfil alternativo al de Ayuso dentro del PP a la espera de revalidar su mayoría absoluta en Andalucía](https://www.elperiodico.com/es/politica/20260515/pp-moreno-bonilla-perfil-alternativo-ayuso-elecciones-andalucia-130224578) (2026-05-15 06:01)
+- [El Moll de la Fusta de Barcelona rehabilitará sus cinco pérgolas para acoger usos ciudadanos, juegos y un único bar](https://www.elperiodico.com/es/barcelona/20260515/moll-fusta-rehabilitara-cinco-pergolas-uso-ciudadano-bar-130181505) (2026-05-15 06:01)
+- [La nueva Ley de Movilidad Sostenible que cambia el transporte en España](https://www.elperiodico.com/es/motor/20260515/nueva-ley-movilidad-sostenible-cambia-espana-130212500) (2026-05-15 06:01)
+- [Encuestas de las elecciones en Andalucía 2026: así están los sondeos](https://www.elperiodico.com/es/politica/20260515/encuestas-elecciones-andalucia-2026-sondeos-128324131) (2026-05-15 06:00)
+- [Se busca a Kichi: está acusado de llevarse 101 relojes de lujo que tenía que reparar en su taller de Madrid](https://www.elperiodico.com/es/sucesos/20260515/robo-relojes-lujo-joyeria-busca-captura-130251333) (2026-05-15 05:00)
+- [Juicio al cura pedófilo de colegio Pare Manyanet por abusos a un menor: "Me dijo que si lo contaba la próxima vez sería sin ropa"](https://www.elperiodico.com/es/sucesos/20260514/juicio-sacerdote-colegio-pare-manyanet-sant-andreu-barcelona-abusos-menor-autismo-130232414) (2026-05-14 17:06)
+- [El 'mosso' acusado de agredir sexualmente a una mujer con discapacidad psíquica en Rajadell tiene abierta una segunda causa por presuntamente drogar a otra joven para abusar de ella](https://www.elperiodico.com/es/sucesos/20260514/mosso-acusado-agredir-sexualmente-mujer-130230768) (2026-05-14 15:59)
+
 ### ua.korrespondent.net
-- 2026-05-15 03:19 - [Дрони знову зупинили роботу ГПЗ у Росії - ЗМІ](https://ua.korrespondent.net/world/russia/4878710-drony-znovu-zupynyly-robotu-hpz-u-rosii-zmi) [Росія новини]
-- 2026-05-15 01:19 - [Світоліна вийшла у фінал турніру WTA 1000](https://ua.korrespondent.net/sport/4878725-svitolina-vyishla-u-final-turniru-WTA-1000) [Новини спорту]
+- [Світоліна зіграє у фіналі престижного турніру в Римі](https://ua.korrespondent.net/sport/tenis/4878746-svitolina-zihraie-u-finali-prestyzhnoho-turniru-v-rymi) (2026-05-15 07:23)
+- [Економіка РФ тягне з собою на дно Білорусь - розвідка](https://ua.korrespondent.net/business/economics/4878744-ekonomika-rf-tiahne-z-soboui-na-dno-bilorus-rozvidka) (2026-05-15 06:57)
+- [Київ атакували дрони, працювала ППО](https://ua.korrespondent.net/city/kiev/4878740-kyiv-atakuvaly-drony-pratsuivala-ppo) (2026-05-15 06:22)
