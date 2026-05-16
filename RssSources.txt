@@ -1,0 +1,7 @@
+http://k.img.com.ua/rss/ua/all_news2.0.xml
+https://www.elperiodico.com/es/cds/rss/?id=board.xml
+https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/acb/
+https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/euroliga/
+https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/copa_del_rey/
+https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/mundial_baloncesto/
+https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/mas_baloncesto/
