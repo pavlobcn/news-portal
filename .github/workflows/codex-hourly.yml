@@ -10,6 +10,7 @@ defaults:
 
 jobs:
   comment-on-pr:
+    if: ${{ false }} # Temporary disable
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
