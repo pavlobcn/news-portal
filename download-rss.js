@@ -42,7 +42,7 @@ async function main() {
         '--show-error',
         '--location',
         '--max-time',
-        '60',
+        '300',
         url,
       ], { maxBuffer: 20 * 1024 * 1024 });
 
