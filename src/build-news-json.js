@@ -6,9 +6,6 @@ const rssDir = path.join(repoRoot, 'RSS');
 const outputDir = path.join(repoRoot, 'data');
 const outputFile = path.join(outputDir, 'news.json');
 
-// Single normalized output format used in news.json (Barcelona local wall time).
-const OUTPUT_DATE_FORMAT = 'YYYY-MM-DD HH:mm:ss';
-
 function decodeXml(value = '') {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -70,7 +67,6 @@ function parseItemsFromXml(xmlText) {
         title: getTagValue(itemXml, 'title'),
         link: getTagValue(itemXml, 'link'),
         pubDate: parseAndFormatPubDate(pubDateRaw),
-        pubDateFormat: OUTPUT_DATE_FORMAT,
         category: getTagValue(itemXml, 'category'),
       },
     };
