@@ -4,6 +4,9 @@ const path = require('path');
 const rssDir = path.join(__dirname, 'RSS');
 const outputFile = path.join(__dirname, 'news.json');
 
+// Single normalized output format used in news.json (Barcelona local wall time).
+const OUTPUT_DATE_FORMAT = 'YYYY-MM-DD HH:mm:ss';
+
 function decodeXml(value = '') {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -20,17 +23,56 @@ function getTagValue(itemXml, tag) {
   return decodeXml(match ? match[1] : '');
 }
 
+function formatParts(parts) {
+  return {
+    year: parts.find((p) => p.type === 'year')?.value,
+    month: parts.find((p) => p.type === 'month')?.value,
+    day: parts.find((p) => p.type === 'day')?.value,
+    hour: parts.find((p) => p.type === 'hour')?.value,
+    minute: parts.find((p) => p.type === 'minute')?.value,
+    second: parts.find((p) => p.type === 'second')?.value,
+  };
+}
+
+function parseAndFormatPubDate(pubDateRaw) {
+  if (!pubDateRaw) return '';
+
+  const date = new Date(pubDateRaw);
+  if (Number.isNaN(date.getTime())) {
+    // Keep original value if unparseable.
+    return pubDateRaw;
+  }
+
+  const dtf = new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'Europe/Madrid',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false,
+  });
+
+  const parts = formatParts(dtf.formatToParts(date));
+  return `${parts.year}-${parts.month}-${parts.day} ${parts.hour}:${parts.minute}:${parts.second}`;
+}
+
 function parseItemsFromXml(xmlText) {
   const itemMatches = xmlText.match(/<item\b[\s\S]*?<\/item>/gi) || [];
 
-  return itemMatches.map((itemXml) => ({
-    item: {
-      title: getTagValue(itemXml, 'title'),
-      link: getTagValue(itemXml, 'link'),
-      pubDate: getTagValue(itemXml, 'pubDate'),
-      category: getTagValue(itemXml, 'category'),
-    },
-  }));
+  return itemMatches.map((itemXml) => {
+    const pubDateRaw = getTagValue(itemXml, 'pubDate');
+    return {
+      item: {
+        title: getTagValue(itemXml, 'title'),
+        link: getTagValue(itemXml, 'link'),
+        pubDate: parseAndFormatPubDate(pubDateRaw),
+        pubDateFormat: OUTPUT_DATE_FORMAT,
+        category: getTagValue(itemXml, 'category'),
+      },
+    };
+  });
 }
 
 function main() {
