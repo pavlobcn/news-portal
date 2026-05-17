@@ -73,7 +73,7 @@ function compareByPubDateDesc(a, b) {
   return 0;
 }
 
-function buildMarkdown(items, dayLabel) {
+function buildMarkdown(items, dayLabel, previousDayLabel) {
   const sortedItems = [...items].sort(compareByPubDateDesc);
   const grouped = new Map();
 
@@ -93,6 +93,11 @@ function buildMarkdown(items, dayLabel) {
   lines.push(`# News for ${dayLabel}`);
   lines.push(`Generated at: ${formatDateTime(new Date())}`);
   lines.push('');
+
+  if (previousDayLabel) {
+    lines.push(`Previous day: [${previousDayLabel}](./${previousDayLabel}.md)`);
+    lines.push('');
+  }
 
   for (const [domain, domainItems] of grouped.entries()) {
     lines.push(`## ${domain}`);
@@ -115,8 +120,17 @@ function processDay(date) {
   const jsonPath = path.join(dataDir, `${dayLabel}.json`);
   const mdPath = path.join(dataDir, `${dayLabel}.md`);
 
+  const previousDay = new Date(date);
+  previousDay.setUTCDate(previousDay.getUTCDate() - 1);
+  const previousDayLabel = formatDate(previousDay);
+  const previousMdPath = path.join(dataDir, `${previousDayLabel}.md`);
+
   const items = readJsonArray(jsonPath);
-  const markdown = buildMarkdown(items, dayLabel);
+  const markdown = buildMarkdown(
+    items,
+    dayLabel,
+    fs.existsSync(previousMdPath) ? previousDayLabel : null,
+  );
 
   fs.writeFileSync(mdPath, markdown, 'utf8');
 
