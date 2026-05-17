@@ -9,7 +9,7 @@ function formatDate(date) {
 }
 
 function formatDateTime(date) {
-  return date.toISOString().replace('T', ' ').slice(0, 19) + ' UTC';
+  return date.toISOString().replace('T', ' ').slice(0, 16);
 }
 
 function readJsonArray(filePath) {
