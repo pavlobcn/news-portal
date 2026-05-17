@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 const rssDir = path.join(__dirname, 'RSS');
-const outputFile = path.join(__dirname, 'news.json');
+const outputDir = path.join(__dirname, 'data');
+const outputFile = path.join(outputDir, 'news.json');
 
 // Single normalized output format used in news.json (Barcelona local wall time).
 const OUTPUT_DATE_FORMAT = 'YYYY-MM-DD HH:mm:ss';
@@ -90,6 +91,10 @@ function main() {
     const xmlText = fs.readFileSync(fullPath, 'utf8');
     return parseItemsFromXml(xmlText);
   });
+
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
 
   fs.writeFileSync(outputFile, JSON.stringify(allItems, null, 2), 'utf8');
   console.log(`Saved ${allItems.length} items to ${outputFile}`);
