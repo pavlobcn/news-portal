@@ -7,8 +7,9 @@ const { promisify } = require('util');
 
 const execFileAsync = promisify(execFile);
 
-const SOURCES_FILE = path.resolve(__dirname, 'RssSources.txt');
-const OUTPUT_DIR = path.resolve(__dirname, 'RSS');
+const repoRoot = path.resolve(__dirname, '..');
+const SOURCES_FILE = path.resolve(repoRoot, 'RssSources.txt');
+const OUTPUT_DIR = path.resolve(repoRoot, 'RSS');
 
 function sanitizeFileName(value) {
   return value.replace(/[^a-zA-Z0-9._-]/g, '_');

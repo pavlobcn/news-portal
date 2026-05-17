@@ -1,8 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const rssDir = path.join(__dirname, 'RSS');
-const outputDir = path.join(__dirname, 'data');
+const repoRoot = path.resolve(__dirname, '..');
+const rssDir = path.join(repoRoot, 'RSS');
+const outputDir = path.join(repoRoot, 'data');
 const outputFile = path.join(outputDir, 'news.json');
 
 // Single normalized output format used in news.json (Barcelona local wall time).

@@ -1,7 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const inputFile = path.join(__dirname, 'news.json');
+const repoRoot = path.resolve(__dirname, '..');
+const dataDir = path.join(repoRoot, 'data');
+const inputFile = path.join(dataDir, 'news.json');
 
 function formatDate(date) {
   return date.toISOString().slice(0, 10);
@@ -67,8 +69,8 @@ function main() {
     }
   }
 
-  const todayFile = path.join(__dirname, `${todayKey}.json`);
-  const yesterdayFile = path.join(__dirname, `${yesterdayKey}.json`);
+  const todayFile = path.join(dataDir, `${todayKey}.json`);
+  const yesterdayFile = path.join(dataDir, `${yesterdayKey}.json`);
 
   fs.writeFileSync(todayFile, JSON.stringify(todayItems, null, 2), 'utf8');
   fs.writeFileSync(yesterdayFile, JSON.stringify(yesterdayItems, null, 2), 'utf8');
