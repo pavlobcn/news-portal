@@ -3,7 +3,8 @@ const path = require('path');
 
 const repoRoot = path.resolve(__dirname, '..');
 const dataDir = path.join(repoRoot, 'data');
-const rootNewsFile = path.join(repoRoot, 'news.json');
+const dataNewsFile = path.join(dataDir, 'news.json');
+const promotedTodayFile = path.join(repoRoot, 'README.md');
 
 function formatDate(date) {
   return date.toISOString().slice(0, 10);
@@ -19,13 +20,18 @@ function main() {
     throw new Error(`Today's file not found: ${todayFile}`);
   }
 
-  if (fs.existsSync(rootNewsFile)) {
-    fs.unlinkSync(rootNewsFile);
-    deletedFiles.push(rootNewsFile);
+  if (fs.existsSync(dataNewsFile)) {
+    fs.unlinkSync(dataNewsFile);
+    deletedFiles.push(dataNewsFile);
   }
 
-  fs.copyFileSync(todayFile, rootNewsFile);
-  createdFiles.push(rootNewsFile);
+  if (fs.existsSync(promotedTodayFile)) {
+    fs.unlinkSync(promotedTodayFile);
+    deletedFiles.push(promotedTodayFile);
+  }
+
+  fs.copyFileSync(todayFile, promotedTodayFile);
+  createdFiles.push(promotedTodayFile);
 
   console.log(`Created files: ${createdFiles.join(', ') || '(none)'}`);
   console.log(`Deleted files: ${deletedFiles.join(', ') || '(none)'}`);
