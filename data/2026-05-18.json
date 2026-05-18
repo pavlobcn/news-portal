@@ -1,6 +1,30 @@
 [
   {
     "item": {
+      "title": "Al menos cinco muertos, dos de ellos los tiradores, en ataque a una mezquita en San Diego",
+      "link": "https://www.elperiodico.com/es/internacional/20260518/cinco-muertos-tiradores-ataque-mezquita-130380718",
+      "pubDate": "2026-05-18 23:30:48",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Ancelotti desvela el enigma y convoca a Neymar para jugar el Mundial con Brasil",
+      "link": "https://www.elperiodico.com/es/deportes/20260518/ancelotti-desvela-enigma-convoca-neymar-130380575",
+      "pubDate": "2026-05-18 23:26:04",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Росіяни атакували балістикою об'єкти Нафтогазу",
+      "link": "https://ua.korrespondent.net/ukraine/4879630-rosiiany-atakuvaly-balistykoui-obiekty-naftohazu",
+      "pubDate": "2026-05-18 23:20:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
       "title": "El Arsenal roza la Premier con un triunfo por la mínima ante el Burnley",
       "link": "https://www.elperiodico.com/es/deportes/20260518/arsenal-roza-premier-triunfo-minima-130380513",
       "pubDate": "2026-05-18 23:16:17",
@@ -25,6 +49,14 @@
   },
   {
     "item": {
+      "title": "Зеленський анонсував кадрові зміни",
+      "link": "https://ua.korrespondent.net/ukraine/4879628-zelenskyi-anonsuvav-kadrovi-zminy",
+      "pubDate": "2026-05-18 22:52:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
       "title": "Javier Moll, presidente de Prensa Ibérica: \"Tenemos en nuestra mano el triunfo para poner al Noroeste en el mapa\"",
       "link": "https://www.elperiodico.com/es/economia/20260518/javier-moll-presidente-prensa-iberica-130380260",
       "pubDate": "2026-05-18 22:49:58",
@@ -41,10 +73,26 @@
   },
   {
     "item": {
+      "title": "Ювентус націлився на перспективного захисника",
+      "link": "https://ua.korrespondent.net/sport/football/4879626-yuventus-natsilyvsia-na-perspektyvnoho-zakhysnyka",
+      "pubDate": "2026-05-18 22:31:00",
+      "category": "Новини футболу"
+    }
+  },
+  {
+    "item": {
       "title": "Comienza el Foro del Noroeste: El despegue de Asturias, Galicia y Castilla y Léon",
       "link": "https://www.elperiodico.com/es/videos/economia/comienza-foro-noroeste-despegue-asturias/130379989.shtml",
       "pubDate": "2026-05-18 22:26:53",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "США знову продовжили послаблення проти нафти з РФ",
+      "link": "https://ua.korrespondent.net/world/4879624-ssha-znovu-prodovzhyly-poslablennia-proty-nafty-z-rf",
+      "pubDate": "2026-05-18 22:24:00",
+      "category": "Новини світу"
     }
   },
   {
@@ -65,10 +113,26 @@
   },
   {
     "item": {
+      "title": "Трамп заявив, що відклав заплановані атаки на Іран",
+      "link": "https://ua.korrespondent.net/world/4879622-tramp-zaiavyv-scho-vidklav-zaplanovani-ataky-na-iran",
+      "pubDate": "2026-05-18 21:58:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
       "title": "Feijóo se compromete a \"incrementar las plantillas\" médicas y a crear un fondo estatal para enfermedades raras",
       "link": "https://www.elperiodico.com/es/politica/20260518/feijoo-compromete-incrementar-plantillas-medicas-130379139",
       "pubDate": "2026-05-18 21:47:21",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "ЄС планує прив’язати частину допомоги Україні до нового податку - ЗМІ",
+      "link": "https://ua.korrespondent.net/ukraine/4879620-yes-planuie-pryviazaty-chastynu-dopomohy-ukraini-do-novoho-podatku-zmi",
+      "pubDate": "2026-05-18 21:47:00",
+      "category": "Новини України"
     }
   },
   {
@@ -89,6 +153,14 @@
   },
   {
     "item": {
+      "title": "Гвардіола піде з Манчестер Сіті після сезону",
+      "link": "https://ua.korrespondent.net/sport/football/4879616-hvardiola-pide-z-manchester-siti-pislia-sezonu",
+      "pubDate": "2026-05-18 21:32:00",
+      "category": "Новини футболу"
+    }
+  },
+  {
+    "item": {
       "title": "Cristian Mungiu cuestiona el ‘wokismo’ en Cannes",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260518/cristian-mungiu-cuestiona-wokismo-cannes-130375773",
       "pubDate": "2026-05-18 21:30:47",
@@ -101,6 +173,14 @@
       "link": "https://www.elperiodico.com/es/opinion/20260518/polarizacion-toca-techo-130378157",
       "pubDate": "2026-05-18 21:30:44",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Киянин скоїв стрілянину і забарикадувався в оселі",
+      "link": "https://ua.korrespondent.net/city/kiev/4879614-kyianyn-skoiv-strilianynu-i-zabarykaduvavsia-v-oseli",
+      "pubDate": "2026-05-18 21:26:00",
+      "category": "Київ"
     }
   },
   {
@@ -137,6 +217,14 @@
   },
   {
     "item": {
+      "title": "Глава МЗС Литви закликав НАТО за потреби напасти на Калінінград",
+      "link": "https://ua.korrespondent.net/world/4879612-hlava-mzs-lytvy-zaklykav-nato-za-potreby-napasty-na-kalininhrad",
+      "pubDate": "2026-05-18 20:58:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
       "title": "BMW recupera el espíritu Alpina con un gigantesco V8",
       "link": "https://www.elperiodico.com/es/motor/20260518/bmw-vision-alpina-gigantesco-v8-130359827",
       "pubDate": "2026-05-18 20:56:26",
@@ -145,10 +233,34 @@
   },
   {
     "item": {
+      "title": "Пентагон: Відмова перекидати війська США в Польщу не була \"раптовою\"",
+      "link": "https://ua.korrespondent.net/world/4879610-pentahon-vidmova-perekydaty-viiska-ssha-v-polschu-ne-bula-raptovoui",
+      "pubDate": "2026-05-18 20:46:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
       "title": "Enrique Riquelme anunciará \"en dos o tres días\" si se presenta a las elecciones del Real Madrid",
       "link": "https://www.elperiodico.com/es/deportes/20260518/enrique-riquelme-elecciones-real-madrid-130377686",
       "pubDate": "2026-05-18 20:42:53",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Зеленський назвав втрати РФ від ударів України",
+      "link": "https://ua.korrespondent.net/ukraine/4879608-zelenskyi-nazvav-vtraty-rf-vid-udariv-ukrainy",
+      "pubDate": "2026-05-18 20:26:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "Час спливає. Назріває відновлення війни з Іраном",
+      "link": "https://ua.korrespondent.net/world/4879605-chas-splyvaie-nazrivaie-vidnovlennia-viiny-z-iranom",
+      "pubDate": "2026-05-18 20:20:00",
+      "category": "Новини світу"
     }
   },
   {
@@ -201,6 +313,30 @@
   },
   {
     "item": {
+      "title": "Уряд Гренландії заявив США, що \"острів не продається\"",
+      "link": "https://ua.korrespondent.net/world/4879604-uriad-hrenlandii-zaiavyv-ssha-scho-ostriv-ne-prodaietsia",
+      "pubDate": "2026-05-18 19:59:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "ЗМІ: Пакистан скерував авіацію у Саудівську Аравію",
+      "link": "https://ua.korrespondent.net/world/4879600-zmi-pakystan-skeruvav-aviatsiui-u-saudivsku-araviui",
+      "pubDate": "2026-05-18 19:56:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Мадяр розкрив, чим Кремль прикриває Москву",
+      "link": "https://ua.korrespondent.net/world/russia/4879602-madiar-rozkryv-chym-kreml-prykryvaie-moskvu",
+      "pubDate": "2026-05-18 19:50:00",
+      "category": "Росія новини"
+    }
+  },
+  {
+    "item": {
       "title": "Ángel Simón fuerza la salida de José Vicente de los Mozos como consejero delegado de Indra tras pactarlo con el Gobierno",
       "link": "https://www.elperiodico.com/es/economia/20260518/angel-simon-fuerza-salida-jose-130376338",
       "pubDate": "2026-05-18 19:44:12",
@@ -237,6 +373,30 @@
       "link": "https://www.elperiodico.com/es/politica/20260518/gobierno-aclara-espana-ampliara-contrato-palantir-ia-ejercito-guerra-peter-thiel-inteligencia-artificial-130368144",
       "pubDate": "2026-05-18 19:29:25",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Стало відомо, скільки випадків зараження хантавірусом зафіксували в Україні",
+      "link": "https://ua.korrespondent.net/ukraine/4879598-stalo-vidomo-skilky-vypadkiv-zarazhennia-khantavirusom-zafiksuvaly-v-ukraini",
+      "pubDate": "2026-05-18 19:28:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "Ізраїль заблокував нову морську місію до Гази",
+      "link": "https://ua.korrespondent.net/world/4879593-izrail-zablokuvav-novu-morsku-misiui-do-hazy",
+      "pubDate": "2026-05-18 19:24:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Збірна України оголосила склад на товариські матчі",
+      "link": "https://ua.korrespondent.net/sport/football/4879595-zbirna-ukrainy-oholosyla-sklad-na-tovaryski-matchi",
+      "pubDate": "2026-05-18 19:16:00",
+      "category": "Новини футболу"
     }
   },
   {
@@ -300,6 +460,14 @@
       "title": "Un Álex Palou de menos a más consigue su segunda pole en las 500 Millas de Indianápolis",
       "link": "https://www.elperiodico.com/es/deportes/20260518/alex-palou-segunda-pole-indianapolis-500-indycar-2026-130373174",
       "pubDate": "2026-05-18 18:31:34",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Albares confirma el nuevo asalto de Israel a la Flotilla a Gaza con 45 españoles: \"Es una violación del derecho internacional\"",
+      "link": "https://www.elperiodico.com/es/internacional/20260518/albares-confirma-israel-asaltado-nueva-flotilla-130373673",
+      "pubDate": "2026-05-18 18:30:45",
       "category": ""
     }
   },
