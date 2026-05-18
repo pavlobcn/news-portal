@@ -77,6 +77,8 @@ function main() {
 
   console.log(`Wrote ${todayItems.length} items to ${todayFile}`);
   console.log(`Wrote ${yesterdayItems.length} items to ${yesterdayFile}`);
+  console.log(`Number of items in ${path.basename(todayFile)}: ${todayItems.length}`);
+  console.log(`Number of items in ${path.basename(yesterdayFile)}: ${yesterdayItems.length}`);
 }
 
 main();
