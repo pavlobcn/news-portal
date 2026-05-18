@@ -1,9 +1,12 @@
 # News for 2026-05-18
-Generated at: 2026-05-18 21:47
+Generated at: 2026-05-18 22:02
 
 Previous day: [2026-05-17](./2026-05-17.md)
 
 ## www.elperiodico.com
+- 23:59 [El Instituto Español Funerario y José Luis Mulero Plata consolidan la profesionalización del sector con un nuevo ciclo de FP en Barcelona](https://www.elperiodico.com/es/sociedad/20260518/instituto-espanol-funerario-jose-luis-bc-130259266)
+- 23:59 [Una receta solidaria para que nadie duerma en la calle](https://www.elperiodico.com/es/sociedad/20260518/receta-solidaria-nadie-duerma-calle-bc-130213913)
+- 23:54 [Comienza el Foro del Noroeste: El despegue de Asturias, Galicia y Castilla y Léon](https://www.elperiodico.com/es/videos/economia/comienza-foro-noroeste-despegue-asturias/130381011.shtml)
 - 23:30 [Al menos cinco muertos, dos de ellos los tiradores, en ataque a una mezquita en San Diego](https://www.elperiodico.com/es/internacional/20260518/cinco-muertos-tiradores-ataque-mezquita-130380718)
 - 23:26 [Ancelotti desvela el enigma y convoca a Neymar para jugar el Mundial con Brasil](https://www.elperiodico.com/es/deportes/20260518/ancelotti-desvela-enigma-convoca-neymar-130380575)
 - 23:16 [El Arsenal roza la Premier con un triunfo por la mínima ante el Burnley](https://www.elperiodico.com/es/deportes/20260518/arsenal-roza-premier-triunfo-minima-130380513)
@@ -113,8 +116,10 @@ Previous day: [2026-05-17](./2026-05-17.md)
 - 00:32 [Robert Lewandowski se despide del Camp Nou](https://www.elperiodico.com/es/fotos/en-imagenes/robert-lewandowski-despide-camp-nou-barca-fotos-130340987)
 
 ## ua.korrespondent.net
+- 23:47 [У Харкові повідомляють про "прильоти" і пожежу](https://ua.korrespondent.net/city/kharkov/4879634-u-kharkovi-povidomliauit-pro-pryloty-i-pozhezhu)
 - 23:20 [Росіяни атакували балістикою об'єкти Нафтогазу](https://ua.korrespondent.net/ukraine/4879630-rosiiany-atakuvaly-balistykoui-obiekty-naftohazu)
 - 22:52 [Зеленський анонсував кадрові зміни](https://ua.korrespondent.net/ukraine/4879628-zelenskyi-anonsuvav-kadrovi-zminy)
+- 22:46 [Повернення Меркель? ЄС шукає переговорника з РФ](https://ua.korrespondent.net/world/4879633-povernennia-merkel-yes-shukaie-perehovornyka-z-rf)
 - 22:31 [Ювентус націлився на перспективного захисника](https://ua.korrespondent.net/sport/football/4879626-yuventus-natsilyvsia-na-perspektyvnoho-zakhysnyka)
 - 22:24 [США знову продовжили послаблення проти нафти з РФ](https://ua.korrespondent.net/world/4879624-ssha-znovu-prodovzhyly-poslablennia-proty-nafty-z-rf)
 - 21:58 [Трамп заявив, що відклав заплановані атаки на Іран](https://ua.korrespondent.net/world/4879622-tramp-zaiavyv-scho-vidklav-zaplanovani-ataky-na-iran)
