@@ -20,6 +20,10 @@ function describeError(error) {
 }
 
 async function main() {
+  const startedAt = process.hrtime.bigint();
+  let successCount = 0;
+  let totalBytes = 0;
+
   const content = await fs.readFile(SOURCES_FILE, 'utf8');
   const urls = content
     .split(/\r?\n/)
@@ -54,11 +58,20 @@ async function main() {
       const filePath = path.join(OUTPUT_DIR, name);
 
       await fs.writeFile(filePath, body, 'utf8');
+      successCount += 1;
+      totalBytes += Buffer.byteLength(body, 'utf8');
       console.log(`Saved: ${filePath}`);
     } catch (error) {
       console.error(`Failed: ${url} (${describeError(error)})`);
     }
   }
+
+  const elapsedMs = Number(process.hrtime.bigint() - startedAt) / 1e6;
+  const totalKilobytes = totalBytes / 1024;
+
+  console.log(`Successfully downloaded files: ${successCount}`);
+  console.log(`Total size: ${totalKilobytes.toFixed(2)} kB`);
+  console.log(`Download time: ${(elapsedMs / 1000).toFixed(2)} s`);
 }
 
 main().catch((error) => {
