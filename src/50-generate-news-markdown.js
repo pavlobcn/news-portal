@@ -76,6 +76,7 @@ function compareByPubDateDesc(a, b) {
 function buildMarkdown(items, dayLabel, previousDayLabel) {
   const sortedItems = [...items].sort(compareByPubDateDesc);
   const grouped = new Map();
+  let addedItemCount = 0;
 
   for (const entry of sortedItems) {
     const link = getLinkValue(entry);
@@ -87,6 +88,7 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
     }
 
     grouped.get(domain).push(entry);
+    addedItemCount += 1;
   }
 
   const lines = [];
@@ -112,7 +114,10 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
     lines.push('');
   }
 
-  return lines.join('\n').trimEnd() + '\n';
+  return {
+    markdown: lines.join('\n').trimEnd() + '\n',
+    addedItemCount,
+  };
 }
 
 function processDay(date) {
@@ -126,7 +131,7 @@ function processDay(date) {
   const previousMdPath = path.join(dataDir, `${previousDayLabel}.md`);
 
   const items = readJsonArray(jsonPath);
-  const markdown = buildMarkdown(
+  const { markdown, addedItemCount } = buildMarkdown(
     items,
     dayLabel,
     fs.existsSync(previousMdPath) ? previousDayLabel : null,
@@ -135,6 +140,7 @@ function processDay(date) {
   fs.writeFileSync(mdPath, markdown, 'utf8');
 
   console.log(`Loaded ${items.length} items from ${jsonPath}`);
+  console.log(`Added ${addedItemCount} items to ${mdPath}`);
   console.log(`Saved markdown to ${mdPath}`);
 }
 
