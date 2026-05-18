@@ -52,13 +52,15 @@ function main() {
 
   const todayItems = readJsonArray(todayFile);
   const yesterdayItems = readJsonArray(yesterdayFile);
+  const existingNewsItems = readJsonArray(outputFile);
 
-  const mergedItems = [...todayItems, ...yesterdayItems].sort(compareByPubDateDesc);
+  const mergedItems = [...todayItems, ...yesterdayItems, ...existingNewsItems].sort(compareByPubDateDesc);
 
   fs.writeFileSync(outputFile, JSON.stringify(mergedItems, null, 2), 'utf8');
 
   console.log(`Loaded ${todayItems.length} items from ${todayFile}`);
   console.log(`Loaded ${yesterdayItems.length} items from ${yesterdayFile}`);
+  console.log(`Loaded ${existingNewsItems.length} items from ${outputFile}`);
   console.log(`Saved ${mergedItems.length} items to ${outputFile}`);
   console.log(`Total items in news.json after adding: ${mergedItems.length}`);
 }
