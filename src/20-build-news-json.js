@@ -86,8 +86,12 @@ function main() {
   const allItems = files.flatMap((file) => {
     const fullPath = path.join(rssDir, file);
     const xmlText = fs.readFileSync(fullPath, 'utf8');
-    return parseItemsFromXml(xmlText);
+    const items = parseItemsFromXml(xmlText);
+    console.log(`[build-news-json] ${file}: ${items.length} items`);
+    return items;
   });
+
+  console.log(`[build-news-json] Total items: ${allItems.length}`);
 
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
