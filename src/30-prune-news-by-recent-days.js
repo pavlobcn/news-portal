@@ -50,11 +50,14 @@ function main() {
   );
 
   const filteredNewsItems = newsItems.filter((item) => !linksToRemove.has(getLink(item)));
+  const removedItemsCount = newsItems.length - filteredNewsItems.length;
 
   fs.writeFileSync(newsFile, JSON.stringify(filteredNewsItems, null, 2), 'utf8');
 
   console.log(`Loaded ${newsItems.length} items from ${newsFile}`);
   console.log(`Found ${linksToRemove.size} links to remove from today's and yesterday's files`);
+  console.log(`Number of items to remove: ${removedItemsCount}`);
+  console.log(`Number of items left in the file: ${filteredNewsItems.length}`);
   console.log(`Saved ${filteredNewsItems.length} items to ${newsFile}`);
 }
 
