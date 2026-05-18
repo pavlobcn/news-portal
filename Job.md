@@ -1,3 +1,5 @@
+# Actions:
+
 1. Execute scripts (in the exact order), output all logs from executed scripts to a summary (will be used for debugging):
    - 10-download-rss.js
    - 20-build-news-json.js
