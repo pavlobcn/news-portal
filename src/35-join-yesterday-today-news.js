@@ -60,6 +60,7 @@ function main() {
   console.log(`Loaded ${todayItems.length} items from ${todayFile}`);
   console.log(`Loaded ${yesterdayItems.length} items from ${yesterdayFile}`);
   console.log(`Saved ${mergedItems.length} items to ${outputFile}`);
+  console.log(`Total items in news.json after adding: ${mergedItems.length}`);
 }
 
 main();
