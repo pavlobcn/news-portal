@@ -1,0 +1,11 @@
+Execute scripts (in the exact order):
+- 10-download-rss.js
+- 20-build-news-json.js
+- 30-prune-news-by-recent-days.js
+- 35-join-yesterday-today-news.js
+- 40-split-news-by-day.js 
+- 50-generate-news-markdown.js 
+- 60-promote-today-news-json.js
+
+Output all logs from executed scripts to a summary.
+Include in PR only *.json and *.md files.
