@@ -1,7 +1,0 @@
-{
-  "name": "news-portal",
-  "private": true,
-  "scripts": {
-    "70-push-json-md-to-main": "node src/70-push-json-md-to-main.js"
-  }
-}
