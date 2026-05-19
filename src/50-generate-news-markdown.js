@@ -3,6 +3,11 @@ const path = require('path');
 
 const repoRoot = path.resolve(__dirname, '..');
 const dataDir = path.join(repoRoot, 'data');
+const PREFERRED_DOMAIN_ORDER = [
+  'ua.korrespondent.net',
+  'as.com',
+  'www.elperiodico.com',
+];
 
 function formatDate(date) {
   return date.toISOString().slice(0, 10);
@@ -113,7 +118,21 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
     lines.push('');
   }
 
-  for (const [domain, domainItems] of grouped.entries()) {
+  const orderedDomains = [...grouped.keys()].sort((a, b) => {
+    const indexA = PREFERRED_DOMAIN_ORDER.indexOf(a);
+    const indexB = PREFERRED_DOMAIN_ORDER.indexOf(b);
+    const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
+    const rankB = indexB === -1 ? Number.MAX_SAFE_INTEGER : indexB;
+
+    if (rankA !== rankB) {
+      return rankA - rankB;
+    }
+
+    return a.localeCompare(b);
+  });
+
+  for (const domain of orderedDomains) {
+    const domainItems = grouped.get(domain);
     lines.push(`## ${domain}`);
 
     for (const entry of domainItems) {
