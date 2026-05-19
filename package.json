@@ -1,0 +1,7 @@
+{
+  "name": "news-portal",
+  "private": true,
+  "scripts": {
+    "70-run-daily-news-pipeline": "node src/10-download-rss.js && node src/20-build-news-json.js && node src/30-prune-news-by-recent-days.js && node src/35-join-yesterday-today-news.js && node src/40-split-news-by-day.js && node src/50-generate-news-markdown.js && node src/60-promote-today-news-json.js"
+  }
+}
