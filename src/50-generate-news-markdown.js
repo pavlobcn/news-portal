@@ -8,8 +8,20 @@ function formatDate(date) {
   return date.toISOString().slice(0, 10);
 }
 
+const BARCELONA_TIMEZONE = 'Europe/Madrid';
+
 function formatDateTime(date) {
-  return date.toISOString().replace('T', ' ').slice(0, 16);
+  const formatter = new Intl.DateTimeFormat('en-GB', {
+    timeZone: BARCELONA_TIMEZONE,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+
+  return formatter.format(date);
 }
 
 function readJsonArray(filePath) {
