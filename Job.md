@@ -8,13 +8,4 @@
    - 40-split-news-by-day.js 
    - 50-generate-news-markdown.js 
    - 60-promote-today-news-json.js
-2. Include in commit only *.json and *.md files.
-3. Set remote URL for a repo: https://github.com/pavlobcn/news-portal.git.
-4. Push changes to "main" branch using https: user in github_user variable, PAT in github_pat variable.
-5. Mandatory verification and completion gate:
-   - Run and include outputs of:
-     - git branch --show-current
-     - git rev-parse HEAD
-     - git ls-remote --heads origin main
-   - The task is complete only when git push origin main succeeds and git ls-remote --heads origin main points to the same commit as git rev-parse HEAD.
-   - If push fails, try again (max 3 attempts). After max attenmpts failed stop and report failure with stderr; do not mark task complete.
+   - 70-push-json-md-to-main.js
