@@ -17,4 +17,4 @@
      - git rev-parse HEAD
      - git ls-remote --heads origin main
    - The task is complete only when git push origin main succeeds and git ls-remote --heads origin main points to the same commit as git rev-parse HEAD.
-   - If push fails, stop and report failure with stderr; do not mark task complete.
+   - If push fails, try again (max 3 attempts). After max attenmpts failed stop and report failure with stderr; do not mark task complete.
