@@ -4,6 +4,8 @@ const path = require('path');
 const repoRoot = path.resolve(__dirname, '..');
 const dataDir = path.join(repoRoot, 'data');
 const promotedTodayFile = path.join(repoRoot, 'README.md');
+const dataNewsFile = path.join(dataDir, 'news.json');
+const rootNewsFile = path.join(repoRoot, 'news.json');
 
 function formatDate(date) {
   return date.toISOString().slice(0, 10);
@@ -26,6 +28,13 @@ function main() {
 
   fs.copyFileSync(todayFile, promotedTodayFile);
   createdFiles.push(promotedTodayFile);
+
+  [dataNewsFile, rootNewsFile].forEach((filePath) => {
+    if (fs.existsSync(filePath)) {
+      fs.unlinkSync(filePath);
+      deletedFiles.push(filePath);
+    }
+  });
 
   console.log(`Created files: ${createdFiles.join(', ') || '(none)'}`);
   console.log(`Deleted files: ${deletedFiles.join(', ') || '(none)'}`);
