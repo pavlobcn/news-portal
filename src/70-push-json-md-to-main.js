@@ -13,13 +13,22 @@ if (!githubUser || !githubPat) {
 const remoteUrl = 'https://github.com/pavlobcn/news-portal.git';
 const authRemoteUrl = `https://${githubUser}:${githubPat}@github.com/pavlobcn/news-portal.git`;
 
-const run = (command) => {
-  execSync(command, { stdio: 'inherit' });
+const run = (command, options = {}) => {
+  execSync(command, { stdio: 'inherit', ...options });
 };
 
-try {
+const originExists = (() => {
+  try {
+    execSync('git remote get-url origin', { stdio: 'pipe' });
+    return true;
+  } catch {
+    return false;
+  }
+})();
+
+if (originExists) {
   run(`git remote set-url origin ${remoteUrl}`);
-} catch {
+} else {
   run(`git remote add origin ${remoteUrl}`);
 }
 
