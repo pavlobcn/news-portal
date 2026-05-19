@@ -34,4 +34,10 @@ if (originExists) {
 
 run("git add '*.json' '*.md'");
 
-run(`git push ${authRemoteUrl} HEAD:main`);
+try {
+  run(`git push ${authRemoteUrl} HEAD:main`);
+  console.log('Successfully pushed HEAD to main.');
+} catch (error) {
+  console.error('Failed to push HEAD to main.');
+  throw error;
+}
