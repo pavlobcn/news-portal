@@ -2,8 +2,8 @@
 
 const { execSync } = require('child_process');
 
-const githubUser = process.env.github_user;
-const githubPat = process.env.github_pat;
+const githubUser = process.env.GITHUB_USER;
+const githubPat = process.env.GITHUB_PAT;
 
 if (!githubUser || !githubPat) {
   console.error('Missing github_user or github_pat environment variables.');
