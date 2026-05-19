@@ -27,6 +27,17 @@ function main() {
   }
 
   fs.copyFileSync(todayFile, promotedTodayFile);
+
+  const promotedContent = fs.readFileSync(promotedTodayFile, 'utf8');
+  const fixedPromotedContent = promotedContent.replace(
+    /(Previous day:\s*\[\d{4}-\d{2}-\d{2}\]\()\.\//g,
+    '$1./data/',
+  );
+
+  if (fixedPromotedContent !== promotedContent) {
+    fs.writeFileSync(promotedTodayFile, fixedPromotedContent, 'utf8');
+  }
+
   createdFiles.push(promotedTodayFile);
 
   [dataNewsFile, rootNewsFile].forEach((filePath) => {
