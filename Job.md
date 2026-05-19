@@ -9,3 +9,10 @@
    - 50-generate-news-markdown.js 
    - 60-promote-today-news-json.js
    - 70-push-json-md-to-main.js
+
+
+Run command:
+
+```bash
+node src/main.js
+```
