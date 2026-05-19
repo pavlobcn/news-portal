@@ -1,5 +1,5 @@
 # News for 2026-05-19
-Generated at: 19/05/2026, 22:16
+Generated at: 19/05/2026, 23:52
 
 Previous day: [2026-05-18](./data/2026-05-18.md)
 
@@ -94,6 +94,14 @@ Previous day: [2026-05-18](./data/2026-05-18.md)
 - 06:37 [Baloncesto Sin Fronteras: el sueño, más vivo que nunca](https://as.com/baloncesto/mas_baloncesto/baloncesto-sin-fronteras-el-sueno-mas-vivo-que-nunca-f202605-n/)
 
 ## www.elperiodico.com
+- 23:14 [La conexión alicantina del caso Plus Ultra: Zaplana, el nexo entre Zapatero y su amigo Julito, el “musulmán” de Elda](https://www.elperiodico.com/es/politica/20260519/conexion-alicantina-caso-plus-ultra-130429624)
+- 23:07 [Gatti, Buratto, Garanca y Berheim crean magia con Verdi](https://www.elperiodico.com/es/ocio-y-cultura/20260519/gatti-buratto-garanca-berheim-requiem-de-verdi-palau-musica-barcelona-critica-130429437)
+- 23:03 [Detenido por el apuñalamiento de una mujer de 79 años hallada muerta en una casa incendiada en Granada](https://www.elperiodico.com/es/sucesos/20260519/detenido-apunalamiento-mujer-79-anos-130429516)
+- 22:57 [El anticiclón estabiliza el tiempo en España con un ascenso generalizado de las temperaturas](https://www.elperiodico.com/es/tiempo/20260519/anticiclon-estabiliza-tiempo-espana-ascenso-130429219)
+- 22:54 [Un acertante de O Pino (A Coruña) se lleva un premio de un millón de euros del sorteo de Euromillones](https://www.elperiodico.com/es/sociedad/20260519/acertante-o-pino-coruna-lleva-millon-euros-euromillones-130429216)
+- 22:52 [Un acertante de La Bonoloto gana más de dos millones de euros en Chinchón (Madrid)](https://www.elperiodico.com/es/sociedad/20260519/acertante-bonoloto-gana-millones-euros-130429214)
+- 22:41 [Zapatero, un faro que si se apaga puede llevar a Sánchez al naufragio](https://www.elperiodico.com/es/politica/20260519/zapatero-faro-apaga-llevar-sanchez-130429096)
+- 22:28 [Guardiola y el City se despiden de la Premier y coronan al Arsenal](https://www.elperiodico.com/es/deportes/20260519/guardiola-city-despiden-premier-coronan-130428248)
 - 22:12 [Zvyagintsev reclama la Palma de Oro](https://www.elperiodico.com/es/ocio-y-cultura/20260519/cannes-zvyagintsev-reclama-la-palma-de-oro-festival-cine-130428048)
 - 22:00 [Dejar trabajar a la justicia](https://www.elperiodico.com/es/opinion/20260519/trabajar-justicia-investigacion-rodriguez-zapatero-editorial-130428173)
 - 21:55 [Unai Emery quiere devolver al Aston Villa al olimpo europeo](https://www.elperiodico.com/es/deportes/20260519/unai-emery-quiere-devolver-aston-130428200)
