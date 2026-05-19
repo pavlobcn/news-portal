@@ -1,7 +1,0 @@
-{
-  "name": "news-portal",
-  "private": true,
-  "scripts": {
-    "70-push-json-md-to-main": "node -e \"const {execSync}=require('child_process'); const user=process.env.github_user; const pat=process.env.github_pat; if(!user||!pat){console.error('Missing github_user or github_pat env var'); process.exit(1);} const remote='https://github.com/pavlobcn/news-portal.git'; const authRemote=`https://${user}:${pat}@github.com/pavlobcn/news-portal.git`; const run=(cmd)=>execSync(cmd,{stdio:'inherit'}); try{run(`git remote set-url origin ${remote}`);}catch{run(`git remote add origin ${remote}`);} run(`git add '*.json' '*.md'`); try{run(`git commit -m \\\"Automate 70- JSON/MD commit and push\\\"`);}catch(e){if((e.status||0)!==1) throw e;} run(`git push ${authRemote} HEAD:main`); \""
-  }
-}
