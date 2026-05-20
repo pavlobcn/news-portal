@@ -4,8 +4,11 @@ const path = require('path');
 const { spawnSync } = require('child_process');
 
 const scripts = [
-  'prepare-data.js',
-  'generate-summary.js',
+  '35-join-yesterday-today-news.js',
+  '40-split-news-by-day.js',
+  '50-generate-news-markdown.js',
+  '60-promote-today-news-json.js',
+  '70-push-json-md-to-main.js',
 ];
 
 for (const script of scripts) {
@@ -27,4 +30,4 @@ for (const script of scripts) {
   }
 }
 
-console.log('\nAll scripts completed successfully.');
+console.log('\nGenerate-summary scripts completed successfully.');
