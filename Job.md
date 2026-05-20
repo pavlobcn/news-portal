@@ -3,5 +3,6 @@
 1. Run command:
 
 ```bash
-node src/main.js
+node src/prepare-data.js
+node src/generate-summary.js
 ```
