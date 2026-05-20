@@ -1,6 +1,106 @@
 [
   {
     "item": {
+      "title": "Tenerife: el refugio donde el Atlántico, la tierra y el firmamento se abrazan",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/tenerife-refugio-atlantico-tierra-firmamento-bc-130436784",
+      "pubDate": "2026-05-20 23:59:13",
+      "category": "",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Mallorca: cuando el éxito turístico ya no se mide solo en cifras",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/mallorca-exito-turistico-mide-cifras-bc-130475970",
+      "pubDate": "2026-05-20 23:59:13",
+      "category": "",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Зеленський переговорив зі Стармером: про що йшлося",
+      "link": "https://ua.korrespondent.net/ukraine/4880210-zelenskyi-perehovoryv-zi-starmerom-pro-scho-yshlosia",
+      "pubDate": "2026-05-20 23:49:00",
+      "category": "Новини України",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Nadal: \"Creo que Florentino Pérez es el mejor presidente de la historia del Madrid\"",
+      "link": "https://www.elperiodico.com/es/deportes/20260520/nadal-creo-florentino-perez-mejor-130475592",
+      "pubDate": "2026-05-20 23:47:20",
+      "category": "",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Sorteo Bonoloto del miércoles 20 de mayo de 2026",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/sorteo-bonoloto-miercoles-20-mayo-130474056",
+      "pubDate": "2026-05-20 23:44:03",
+      "category": "",
+      "topic": "лотереї",
+      "topic_match_probability": 80
+    }
+  },
+  {
+    "item": {
+      "title": "La asamblea de la ONU aprueba una resolución histórica para exigir responsabilidades legales a los países contaminantes",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/asamblea-onu-resolucion-historica-responsabilidad-climatica-cambio-climatico-130474739",
+      "pubDate": "2026-05-20 23:35:16",
+      "category": "",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Luis Enrique en París: “No quiero ser el abuelo cebolleta entrenando… Espero no verme más allá de los sesenta años”",
+      "link": "https://www.elperiodico.com/es/deportes/20260520/luis-enrique-paris-quiero-abuelo-130473883",
+      "pubDate": "2026-05-20 23:32:55",
+      "category": "",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Las juventudes de ERC no vetarán los presupuestos de Illa pero cuestionan el pacto de Junqueras",
+      "link": "https://www.elperiodico.com/es/politica/20260520/juventudes-erc-jovent-avalan-presupuestos-catalunya-illa-junqueras-130470031",
+      "pubDate": "2026-05-20 23:29:24",
+      "category": "",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "El Joventut remonta al Tenerife y sella el billete para el playoff",
+      "link": "https://as.com/baloncesto/acb/el-joventut-remonta-al-tenerife-y-sella-el-billete-para-el-playoff-f202605-n/",
+      "pubDate": "2026-05-20 23:28:09",
+      "category": "Baloncesto",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "В Британії радіостанція помилково повідомила про смерть короля",
+      "link": "https://ua.korrespondent.net/world/4880206-v-brytanii-radiostantsiia-pomylkovo-povidomyla-pro-smert-korolia",
+      "pubDate": "2026-05-20 23:20:00",
+      "category": "Новини світу",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
       "title": "Michael Bay llevará al cine el rescate de los dos pilotos de EEUU derribados en Irán",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260520/michael-bay-llevara-cine-rescate-130475042",
       "pubDate": "2026-05-20 23:13:10",
@@ -9,10 +109,30 @@
   },
   {
     "item": {
+      "title": "Ангеліна Калініна вийшла до чвертьфіналу турніру WTA 250 у Марокко",
+      "link": "https://ua.korrespondent.net/sport/tenis/4880208-anhelina-kalinina-vyishla-do-chvertfinalu-turniru-WTA-250-u-marokko",
+      "pubDate": "2026-05-20 23:09:00",
+      "category": "Новини тенісу",
+      "topic": "спорт",
+      "topic_match_probability": 80
+    }
+  },
+  {
+    "item": {
       "title": "Unai Emery gana con el Aston Villa su quinta Europa League",
       "link": "https://www.elperiodico.com/es/deportes/20260520/friburgo-aston-villa-europa-league-final-130474559",
       "pubDate": "2026-05-20 22:57:04",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "США офіційно звинуватили експрезидента Куби у вбивстві",
+      "link": "https://ua.korrespondent.net/world/4880200-ssha-ofitsiino-zvynuvatyly-eksprezydenta-kuby-u-vbyvstvi",
+      "pubDate": "2026-05-20 22:52:00",
+      "category": "Новини світу",
+      "topic": "телебачення",
+      "topic_match_probability": 80
     }
   },
   {
@@ -33,10 +153,70 @@
   },
   {
     "item": {
+      "title": "Є ознакою слабкості: у ЄС прокоментували погрози РФ Балтії",
+      "link": "https://ua.korrespondent.net/world/4880195-ye-oznakoui-slabkosti-u-yes-prokomentuvaly-pohrozy-rf-baltii",
+      "pubDate": "2026-05-20 22:24:00",
+      "category": "Новини світу",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Відновлення перемовин про мир. Надія на Європу",
+      "link": "https://ua.korrespondent.net/ukraine/4880212-vidnovlennia-peremovyn-pro-myr-nadiia-na-yevropu",
+      "pubDate": "2026-05-20 22:16:00",
+      "category": "Новини України",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Динамо Київ виграло Кубок України-2025/26",
+      "link": "https://ua.korrespondent.net/sport/4880196-dynamo-kyiv-vyhralo-kubok-ukrainy-202526",
+      "pubDate": "2026-05-20 22:12:00",
+      "category": "Новини спорту",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Українські клуби остаточно розподілили участь у єврокубках 2026/27",
+      "link": "https://ua.korrespondent.net/sport/football/4880202-ukrainski-kluby-ostatochno-rozpodilyly-uchast-u-yevrokubkakh-202627",
+      "pubDate": "2026-05-20 22:10:00",
+      "category": "Новини футболу",
+      "topic": "спорт",
+      "topic_match_probability": 80
+    }
+  },
+  {
+    "item": {
       "title": "El Barça celebra la Liga con una cena en Castelldefels por todo lo alto: Laporta aclamado, Araujo teñido azul, Lamine con su nueva novia...",
       "link": "https://www.elperiodico.com/es/deportes/20260520/barca-celebra-liga-cena-casteldefels-130473464",
       "pubDate": "2026-05-20 22:06:08",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Вторгнення Росії в Україну. Онлайн",
+      "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+      "pubDate": "2026-05-20 21:59:00",
+      "category": "Новини політики",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Франція ускладнила правила перебування росіян - правозахисники",
+      "link": "https://ua.korrespondent.net/world/4880192-frantsiia-uskladnyla-pravyla-perebuvannia-rosiian-pravozakhysnyky",
+      "pubDate": "2026-05-20 21:56:00",
+      "category": "Новини світу",
+      "topic": "",
+      "topic_match_probability": 0
     }
   },
   {
@@ -53,6 +233,26 @@
       "link": "https://www.elperiodico.com/es/ciencia/20260520/vacas-reconocer-rostro-humano-familiar-130471380",
       "pubDate": "2026-05-20 21:45:47",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "У Данії стався найсильніший землетрус із 2012 року",
+      "link": "https://ua.korrespondent.net/world/4880188-u-danii-stavsia-naisylnishyi-zemletrus-iz-2012-roku",
+      "pubDate": "2026-05-20 21:43:00",
+      "category": "Новини світу",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Динамо здобуло Кубок України",
+      "link": "https://ua.korrespondent.net/sport/football/4880191-dynamo-zdobulo-kubok-ukrainy",
+      "pubDate": "2026-05-20 21:42:00",
+      "category": "Новини футболу",
+      "topic": "спорт",
+      "topic_match_probability": 80
     }
   },
   {
@@ -97,10 +297,30 @@
   },
   {
     "item": {
+      "title": "Газпром програв Нафтогазу мільярдну суперечку у Казахстані",
+      "link": "https://ua.korrespondent.net/business/companies/4880186-hazprom-prohrav-naftohazu-miliardnu-superechku-u-kazakhstani",
+      "pubDate": "2026-05-20 21:28:00",
+      "category": "Новини компаній",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
       "title": "Rufián pone condiciones a ERC para volver a ser candidato y a la vez se ofrece a liderar un nuevo espacio de izquierda en España",
       "link": "https://www.elperiodico.com/es/politica/20260520/esquerra-republicana-gabriel-rufian-130472958",
       "pubDate": "2026-05-20 21:17:42",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Skoda повністю розкрила новий електричний кросовер",
+      "link": "https://ua.korrespondent.net/lifestyle/motors/4880183-Skoda-povnistui-rozkryla-novyi-elektrychnyi-krosover",
+      "pubDate": "2026-05-20 21:10:00",
+      "category": "Автомобілі",
+      "topic": "автомобілі",
+      "topic_match_probability": 80
     }
   },
   {
@@ -137,6 +357,26 @@
   },
   {
     "item": {
+      "title": "Російський дрон атакував підприємство у Кривому Розі",
+      "link": "https://ua.korrespondent.net/ukraine/4880181-rosiiskyi-dron-atakuvav-pidpryiemstvo-u-kryvomu-rozi",
+      "pubDate": "2026-05-20 20:59:00",
+      "category": "Новини України",
+      "topic": "телебачення",
+      "topic_match_probability": 80
+    }
+  },
+  {
+    "item": {
+      "title": "LG представила перший у світі монітор із частотою оновлення 1000 Гц",
+      "link": "https://ua.korrespondent.net/lifestyle/gadgets/4880179-LG-predstavyla-pershyi-u-sviti-monitor-iz-chastotoui-onovlennia-1000-hts",
+      "pubDate": "2026-05-20 20:52:00",
+      "category": "Гаджети",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
       "title": "Los forenses consideran que no se puede juzgar a Negreira al haber empeorado de su demencia",
       "link": "https://www.elperiodico.com/es/deportes/20260520/forenses-consideran-juzgar-negreira-haber-130472069",
       "pubDate": "2026-05-20 20:48:35",
@@ -145,10 +385,40 @@
   },
   {
     "item": {
+      "title": "Розвідка попередила про нову інформаційну атаку РФ",
+      "link": "https://ua.korrespondent.net/world/4880176-rozvidka-poperedyla-pro-novu-informatsiinu-ataku-rf",
+      "pubDate": "2026-05-20 20:37:00",
+      "category": "Новини світу",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
       "title": "Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos",
       "link": "https://www.elperiodico.com/es/sociedad/20260520/huelga-profesores-ultima-hora-directo-130098594",
       "pubDate": "2026-05-20 20:15:00",
       "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Mercedes-AMG представила свій найпотужніший автомобіль в історії",
+      "link": "https://ua.korrespondent.net/lifestyle/motors/4880174-Mercedes-AMG-predstavyla-svii-naipotuzhnishyi-avtomobil-v-istorii",
+      "pubDate": "2026-05-20 20:15:00",
+      "category": "Автомобілі",
+      "topic": "автомобілі",
+      "topic_match_probability": 80
+    }
+  },
+  {
+    "item": {
+      "title": "До груп оповіщення Полтавського ТЦК залучатимуть лише УБД",
+      "link": "https://ua.korrespondent.net/ukraine/4880172-do-hrup-opovischennia-poltavskoho-ttsk-zaluchatymut-lyshe-ubd",
+      "pubDate": "2026-05-20 20:14:00",
+      "category": "Новини України",
+      "topic": "",
+      "topic_match_probability": 0
     }
   },
   {
