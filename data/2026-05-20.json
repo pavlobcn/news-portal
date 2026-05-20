@@ -1,6 +1,470 @@
 [
   {
     "item": {
+      "title": "Eider Rodríguez: \"Me parece un halago que digan que no hay frases subrayables en mis libros\"",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260520/eider-rodriguez-parece-halago-digan-130455000",
+      "pubDate": "2026-05-20 14:36:20",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Crítica del final de serie de 'The Boys' (Prime Video): los superhéroes nunca mueren del todo",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260520/critica-final-the-boys-prime-video-130452330",
+      "pubDate": "2026-05-20 14:36:16",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El Barça firma un acuerdo de patrocinio con la entidad financiera Emirates Islamic hasta 2028",
+      "link": "https://www.elperiodico.com/es/deportes/20260520/barca-firma-acuerdo-patrocinio-entidad-130453562",
+      "pubDate": "2026-05-20 14:33:48",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Патріарх Кирил може потрапити до нового \"мініпакета\" санкцій проти РФ - ЗМІ",
+      "link": "https://ua.korrespondent.net/world/4880071-patriarkh-kyryl-mozhe-potrapyty-do-novoho-minipaketa-sanktsii-proty-rf-zmi",
+      "pubDate": "2026-05-20 14:32:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Leapmotor fabricará dos nuevos coches eléctricos en la planta de Stellantis en Villaverde",
+      "link": "https://www.elperiodico.com/es/motor/20260520/leapmotor-fabricara-nuevos-coches-electricos-130452232",
+      "pubDate": "2026-05-20 14:31:57",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Відповідальність як за ДТП: що треба знати водіям електросамокатів",
+      "link": "https://ua.korrespondent.net/ukraine/4880068-vidpovidalnist-yak-za-dtp-scho-treba-znaty-vodiiam-elektrosamokativ",
+      "pubDate": "2026-05-20 14:31:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "El caso Tomé afronta una jornada clave con la primera declaración en el juzgado de la denunciante",
+      "link": "https://www.elperiodico.com/es/politica/20260520/caso-tome-afronta-jornada-clave-130454158",
+      "pubDate": "2026-05-20 14:20:50",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "\"Благодійників\" викрили на схемі для ухилянтів",
+      "link": "https://ua.korrespondent.net/ukraine/4880069-blahodiinykiv-vykryly-na-skhemi-dlia-ukhyliantiv",
+      "pubDate": "2026-05-20 14:19:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "Clavijo exige explicaciones políticas \"cuanto antes\" para esclarecer las \"sombras\" de Zapatero en el 'caso Plus Ultra'",
+      "link": "https://www.elperiodico.com/es/politica/20260520/clavijo-exige-explicaciones-politicas-esclarecer-130453988",
+      "pubDate": "2026-05-20 14:17:29",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "La crisis de Rodalies cambia de lugar las mayores aglomeraciones en el metro de Barcelona",
+      "link": "https://www.elperiodico.com/es/barcelona/20260520/crisis-rodalies-cambia-lugar-aglomeraciones-usuarios-metro-fabra-i-puig-130450251",
+      "pubDate": "2026-05-20 14:17:10",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Un dermatólogo desmonta a Marcos Llorente: \"Lo único que hace es generar bulos, usar crema solar es lo más importante\"",
+      "link": "https://www.elperiodico.com/es/salud/20260520/marcos-llorente-tomar-sol-crema-verano-130453449",
+      "pubDate": "2026-05-20 14:13:44",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Barcelona descarta pedir al Estado que cierre las discotecas del Front Marítim",
+      "link": "https://www.elperiodico.com/es/barcelona/20260520/barcelona-discotecas-front-maritim-cierre-130451702",
+      "pubDate": "2026-05-20 14:13:35",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Podemos pasa de denunciar lawfare a usar la imputación de Zapatero contra el Gobierno: \"Sánchez está atado a él\"",
+      "link": "https://www.elperiodico.com/es/politica/20260520/pasa-denunciar-lawfare-imputacion-zapatero-130453292",
+      "pubDate": "2026-05-20 14:10:51",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Confirmado por la Ley de Propiedad Horizontal : no hay que votar para arreglar las escaleras o el ascensor si hay mayores de 70 años entre los vecinos",
+      "link": "https://www.elperiodico.com/es/economia/20260520/ley-propiedad-horizontal-confirma-mayores-70-anos-vecinos-escaleras-ascensor-dv-130233499",
+      "pubDate": "2026-05-20 14:10:00",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Stellantis y Dongfeng crean una joint venture con sede en Europa después de reactivar su actividad en China",
+      "link": "https://www.elperiodico.com/es/motor/20260520/stellantis-dongfeng-crean-joint-venture-sede-europa-130439715",
+      "pubDate": "2026-05-20 14:05:45",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Cuevillas se postula para ser el candidato de Junts en Barcelona y disputarse el puesto con Jordi Martí",
+      "link": "https://www.elperiodico.com/es/politica/20260520/cuevillas-candidato-junts-barcelona-alcaldia-130451080",
+      "pubDate": "2026-05-20 14:05:27",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Exposición 'El culto a la belleza' en el CCCB",
+      "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/exposicion-culto-belleza-cccb-fotos-130452326",
+      "pubDate": "2026-05-20 14:00:39",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Catalunya eleva hasta los 90.000 euros las multas por pintar grafitis en los trenes",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/catalunya-eleva-90-000-multas-pintar-grafitis-trenes-130421235",
+      "pubDate": "2026-05-20 13:59:47",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El Ejército desplegará en Eslovaquia la brigada OTAN que lidera España para disuadir a Rusia",
+      "link": "https://www.elperiodico.com/es/politica/20260520/ejercito-desplegara-eslovaquia-brigada-otan-disuasion-rusia-liderazgo-espana-130452387",
+      "pubDate": "2026-05-20 13:59:41",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Молодий киянин ошукав доньку загиблого військового на 700 тисяч",
+      "link": "https://ua.korrespondent.net/city/kiev/4880060-molodyi-kyianyn-oshukav-donku-zahybloho-viiskovoho-na-700-tysiach",
+      "pubDate": "2026-05-20 13:58:00",
+      "category": "Київ"
+    }
+  },
+  {
+    "item": {
+      "title": "Falta grave de arena en las playas del área de Barcelona: el AMB promete 20 millones de euros si Govern y Estado se implican",
+      "link": "https://www.elperiodico.com/es/barcelona/20260520/amb-condiciona-inyeccion-20-millones-playas-area-barcelona-colaboracion-estado-generalitat-130410920",
+      "pubDate": "2026-05-20 13:56:27",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Мадяр зробив заяву щодо гарантій для України",
+      "link": "https://ua.korrespondent.net/world/4880062-madiar-zrobyv-zaiavu-schodo-harantii-dlia-ukrainy",
+      "pubDate": "2026-05-20 13:53:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Баварія готується до фіналу Кубка з кадровими проблемами",
+      "link": "https://ua.korrespondent.net/sport/football/4880059-bavariia-hotuietsia-do-finalu-kubka-z-kadrovymy-problemamy",
+      "pubDate": "2026-05-20 13:51:00",
+      "category": "Новини футболу"
+    }
+  },
+  {
+    "item": {
+      "title": "Análisis Relevante, Whathefav, Gertru...: Quién es quién en la presunta trama de Zapatero",
+      "link": "https://www.elperiodico.com/es/politica/20260520/analisis-relevante-whathefav-gertru-presunta-130448201",
+      "pubDate": "2026-05-20 13:50:37",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El refugio de Sergio Ramos en su hogar natal, Sevilla: una finca de lujo con vigas de madera y 13.000 m2",
+      "link": "https://www.elperiodico.com/es/gente/20260520/refugio-sergio-ramos-sevilla-finca-dv-130233175",
+      "pubDate": "2026-05-20 13:50:00",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "У Польщі затримали трьох місцевих жителів за підозрою у шпигунстві на користь РФ",
+      "link": "https://ua.korrespondent.net/world/4880061-u-polschi-zatrymaly-trokh-mistsevykh-zhyteliv-za-pidozroui-u-shpyhunstvi-na-koryst-rf",
+      "pubDate": "2026-05-20 13:47:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Mikel Arteta, el entrenador de los trucos motivacionales que ha iluminado al Arsenal",
+      "link": "https://www.elperiodico.com/es/deportes/20260520/mikel-arteta-entrenador-trucos-motivacionales-130445107",
+      "pubDate": "2026-05-20 13:45:50",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Rutte quita importancia a la retirada de tropas de EEUU y la achaca a una mayor responsabilidad de Europa en la OTAN",
+      "link": "https://www.elperiodico.com/es/internacional/20260520/rutte-quita-importancia-retirada-tropas-estados-unidos-europa-otan-130451383",
+      "pubDate": "2026-05-20 13:45:11",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "La Copa Colegial finaliza la primera edición del 2-Ball Inclusivo ABC",
+      "link": "https://as.com/baloncesto/mas_baloncesto/la-copa-colegial-finaliza-la-primera-edicion-del-2-ball-inclusivo-abc-f202605-n/",
+      "pubDate": "2026-05-20 13:41:54",
+      "category": "Baloncesto"
+    }
+  },
+  {
+    "item": {
+      "title": "Trump confirma su presencia en la cumbre del G7 que acogerá Francia en junio",
+      "link": "https://www.elperiodico.com/es/internacional/20260520/trump-confirma-presencia-cumbre-g7-francia-junio-130450783",
+      "pubDate": "2026-05-20 13:36:23",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Riquelme confirma su intención de presentarse: \"Hay una obligación moral y ética de dar un paso adelante”",
+      "link": "https://www.elperiodico.com/es/deportes/20260520/riquelme-confirma-real-madrid-florentino-perez-130450719",
+      "pubDate": "2026-05-20 13:36:07",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Los ideales de belleza, a examen: el CCCB subvierte el canon con una exposición \"revolucionaria\"",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260520/ideales-belleza-examen-cccb-subvierte-130449186",
+      "pubDate": "2026-05-20 13:34:16",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "VIDEO | Minuto de silencio por el crimen machista de Figueres",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/video-minuto-silencio-crimen-machista/130450297.shtml",
+      "pubDate": "2026-05-20 13:33:07",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Сибіга прибув з візитом до Швеції",
+      "link": "https://ua.korrespondent.net/ukraine/4880057-sybiha-prybuv-z-vizytom-do-shvetsii",
+      "pubDate": "2026-05-20 13:32:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "Латвія вручила РФ ноту протесту через дезінформацію російської розвідки",
+      "link": "https://ua.korrespondent.net/world/4880055-latviia-vruchyla-rf-notu-protestu-cherez-dezinformatsiui-rosiiskoi-rozvidky",
+      "pubDate": "2026-05-20 13:27:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Las guarderías catalanas vuelven a salir a la calle en Barcelona para pedir más recursos",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/guarderias-catalanas-vuelven-salir-calle-barcelona-huelgas-130449238",
+      "pubDate": "2026-05-20 13:21:42",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "La primera mediación de la Generalitat entre sindicatos y Renfe por la huelga en Rodalies acaba sin acuerdo",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/primera-mediacion-generalitat-sindicatos-renfe-huelga-rodalies-sin-acuerdo-130426487",
+      "pubDate": "2026-05-20 13:19:32",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Подорожі для переживання горя стають новим світовим трендом",
+      "link": "https://ua.korrespondent.net/lifestyle/travel/4880051-podorozhi-dlia-perezhyvannia-horia-stauit-novym-svitovym-trendom",
+      "pubDate": "2026-05-20 13:13:00",
+      "category": "Новини туризму"
+    }
+  },
+  {
+    "item": {
+      "title": "У Німеччині подружжя підозрюють у шпигунстві на Китай - ЗМІ",
+      "link": "https://ua.korrespondent.net/world/4880052-u-nimechchyni-podruzhzhia-pidozruiuit-u-shpyhunstvi-na-kytai-zmi",
+      "pubDate": "2026-05-20 13:13:00",
+      "category": "Новини світу"
+    }
+  },
+  {
+    "item": {
+      "title": "Proceso de producción de helados en la fábrica de La Menorquina, en Palau-Solità i Plegamans (Barcelona)",
+      "link": "https://www.elperiodico.com/es/videos/economia/proceso-produccion-helados-fabrica-menorquina/130449163.shtml",
+      "pubDate": "2026-05-20 13:12:47",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "¿Cómo quedarían unas elecciones generales con los votos de las autonómicas de Andalucía, Castilla y León, Aragón y Extremadura?",
+      "link": "https://www.elperiodico.com/es/politica/20260520/elecciones-generales-votos-autonomicas-andalucia-extremadura-aragon-castilla-y-leon-130368142",
+      "pubDate": "2026-05-20 13:12:00",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Моурінью знайшов вразливі зони у складі мадридського гранда",
+      "link": "https://ua.korrespondent.net/sport/football/4880047-mourinui-znaishov-vrazlyvi-zony-u-skladi-madrydskoho-hranda",
+      "pubDate": "2026-05-20 13:07:00",
+      "category": "Новини футболу"
+    }
+  },
+  {
+    "item": {
+      "title": "У РФ частка секретних видатків бюджету торік досягла майже 30%",
+      "link": "https://ua.korrespondent.net/world/russia/4880048-u-rf-chastka-sekretnykh-vydatkiv-buidzhetu-torik-dosiahla-maizhe-30",
+      "pubDate": "2026-05-20 13:04:00",
+      "category": "Росія новини"
+    }
+  },
+  {
+    "item": {
+      "title": "Fad Juventud cumple 40 años impulsando el bienestar de los jóvenes y su pensamiento crítico",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/fad-juventud-40-anos-aniversario-130439004",
+      "pubDate": "2026-05-20 13:02:38",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Стало відомо, чому штучний інтелект ніколи не замінить людину",
+      "link": "https://ua.korrespondent.net/tech/science/4880045-stalo-vidomo-chomu-shtuchnyi-intelekt-nikoly-ne-zaminyt-luidynu",
+      "pubDate": "2026-05-20 13:01:00",
+      "category": "Новини науки"
+    }
+  },
+  {
+    "item": {
+      "title": "Стало відомо про наслідки масованої атаки на Конотоп",
+      "link": "https://ua.korrespondent.net/ukraine/4880043-stalo-vidomo-pro-naslidky-masovanoi-ataky-na-konotop",
+      "pubDate": "2026-05-20 12:58:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "В окупованому Севастополі обвалився балкон у школі: постраждали 10 учнів",
+      "link": "https://ua.korrespondent.net/ukraine/4880041-v-okupovanomu-sevastopoli-obvalyvsia-balkon-u-shkoli-postrazhdaly-10-uchniv",
+      "pubDate": "2026-05-20 12:53:00",
+      "category": "Новини України"
+    }
+  },
+  {
+    "item": {
+      "title": "Сара Джессіка Паркер замилувала архівними фото з чоловіком",
+      "link": "https://ua.korrespondent.net/lifestyle/4880039-sara-dzhessika-parker-zamyluvala-arkhivnymy-foto-z-cholovikom",
+      "pubDate": "2026-05-20 12:46:00",
+      "category": "LifestyleFashion"
+    }
+  },
+  {
+    "item": {
+      "title": "Ford Mustang 60-х продали на аукціоні майже за 4 мільйони доларів",
+      "link": "https://ua.korrespondent.net/lifestyle/motors/4880036-Ford-Mustang-60-kh-prodaly-na-auktsioni-maizhe-za-4-miliony-dolariv",
+      "pubDate": "2026-05-20 12:41:00",
+      "category": "Автомобілі"
+    }
+  },
+  {
+    "item": {
+      "title": "Así es \"el monstruo\", el barco en el que Israel detiene en aguas internacionales a los activistas de las flotillas",
+      "link": "https://www.elperiodico.com/es/internacional/20260520/barco-israel-detiene-interroga-ah-nachshon-flotilla-monstruo-130447267",
+      "pubDate": "2026-05-20 12:40:45",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "SpaceX запустила у космос ще 24 супутники Starlink",
+      "link": "https://ua.korrespondent.net/business/web/4880034-SpaceX-zapustyla-u-kosmos-sche-24-suputnyky-Starlink",
+      "pubDate": "2026-05-20 12:36:00",
+      "category": "Інтернет та IT"
+    }
+  },
+  {
+    "item": {
+      "title": "La subasta de las fábricas de Serra Soldadura en Zona Franca queda desierta y sus 180 trabajadores enfilan el paro",
+      "link": "https://www.elperiodico.com/es/economia/20260520/serra-soldadura-fabricas-zona-franca-subasta-desierta-130443697",
+      "pubDate": "2026-05-20 12:27:18",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "¿Por qué la jueza deja en libertad con fianza a Jonathan Andic si lo acusa de homicidio?",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/jonathan-andic-por-que-libertad-fianza-acusacion-homicidio-auto-jueza-130442786",
+      "pubDate": "2026-05-20 12:20:00",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El Banco Mundial de Semillas de Svalbard, santuario mundial de la biodiversidad, premio Princesa de Cooperación Internacional",
+      "link": "https://www.elperiodico.com/es/internacional/20260520/banco-mundial-semillas-svalbard-premio-princesa-asturias-cooperacion-internacional-130445357",
+      "pubDate": "2026-05-20 12:10:22",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El Audi A6 Avant TDI mantiene vivo el espíritu diésel",
+      "link": "https://www.elperiodico.com/es/motor/20260520/prueba-audi-a6-avant-tdi-diesel-ranchera-familiar-mhev-microhibrido-130388415",
+      "pubDate": "2026-05-20 12:10:14",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Irán amenaza con llevar la guerra \"fuera de Oriente Medio\" si es atacado de nuevo por EEUU",
+      "link": "https://www.elperiodico.com/es/internacional/20260520/iran-amenaza-llevar-guerra-fuera-oriente-medio-ataque-eeuu-130445475",
+      "pubDate": "2026-05-20 12:08:10",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El Parlament valida el 'pla Cura' del Govern para reducir las listas de espera de la dependencia en Catalunya",
+      "link": "https://www.elperiodico.com/es/sociedad/20260520/parlament-valida-definitivamente-pla-cura-listas-espera-dependencia-cataluna-130416110",
+      "pubDate": "2026-05-20 12:03:47",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Collboni reeditará los ‘Bonus Consum’ este otoño para gastar en tiendas de barrio de Barcelona",
+      "link": "https://www.elperiodico.com/es/barcelona/20260520/barcelona-reedicion-bonus-consum-vales-gastar-tiendas-barrio-130412111",
+      "pubDate": "2026-05-20 12:01:00",
+      "category": ""
+    }
+  },
+  {
+    "item": {
       "title": "Barcelona queda fuera de las mejores ciudades culturales para sus vecinos, que no perciben la oferta como tan accesible",
       "link": "https://www.elperiodico.com/es/barcelona/20260520/barcelona-fuera-ranking-cultural-time-out-ciudadanos-cultura-accesible-130442600",
       "pubDate": "2026-05-20 11:56:23",
@@ -545,6 +1009,14 @@
   },
   {
     "item": {
+      "title": "The Svalbard Line: 15 días hacia los confines del Ártico",
+      "link": "https://www.elperiodico.com/es/vida-y-estilo/20260520/the-svalbard-line-15-dias-129999900",
+      "pubDate": "2026-05-20 08:00:50",
+      "category": ""
+    }
+  },
+  {
+    "item": {
       "title": "Sánchez muestra todo su “apoyo” a Zapatero y Feijóo le reprocha que el lema de su Gobierno es “el que pueda robar, que robe”",
       "link": "https://www.elperiodico.com/es/politica/20260520/gobierno-espera-sanchez-defienda-zapatero-130434996",
       "pubDate": "2026-05-20 07:57:41",
@@ -731,6 +1203,14 @@
     "item": {
       "title": "Los Roca abren por sorpresa un bar en Girona",
       "link": "https://www.elperiodico.com/es/gastronomia/20260520/roca-abren-sorpresa-bar-girona-130355171",
+      "pubDate": "2026-05-20 07:00:00",
+      "category": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Los hermanos Roca abren por sorpresa un bar en Girona con croquetas y paté de campaña",
+      "link": "https://www.elperiodico.com/es/gastronomia/20260520/hermanos-roca-abren-sorpresa-bar-130355171",
       "pubDate": "2026-05-20 07:00:00",
       "category": ""
     }
