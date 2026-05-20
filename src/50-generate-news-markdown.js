@@ -77,6 +77,26 @@ function escapeMdText(text) {
   return text.replace(/[\[\]]/g, '\\$&');
 }
 
+function getTopicValue(item) {
+  const topic = item?.item?.topic;
+  return typeof topic === 'string' && topic.trim() ? topic.trim() : 'unknown';
+}
+
+function getTopicMatchProbabilityValue(item) {
+  const value = item?.item?.topic_match_probability;
+
+  if (typeof value === 'number' && Number.isFinite(value)) {
+    return value.toFixed(3);
+  }
+
+  return 'unknown';
+}
+
+function getCategoryValue(item) {
+  const category = item?.item?.category;
+  return typeof category === 'string' && category.trim() ? category.trim() : 'unknown';
+}
+
 function compareByPubDateDesc(a, b) {
   const dateA = getPubDateValue(a);
   const dateB = getPubDateValue(b);
@@ -139,6 +159,10 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
       const timeLabel = getTimeLabel(entry);
       const link = getLinkValue(entry);
       const title = escapeMdText(getTitleValue(entry));
+      const topic = escapeMdText(getTopicValue(entry));
+      const topicMatchProbability = getTopicMatchProbabilityValue(entry);
+      const category = escapeMdText(getCategoryValue(entry));
+      lines.push(`  - topic: ${topic}; topic match probability: ${topicMatchProbability}; category: ${category}`);
       lines.push(`- ${timeLabel} [${title}](${link})`);
     }
 
