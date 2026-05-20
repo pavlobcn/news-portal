@@ -1,9 +1,12 @@
 # News for 2026-05-20
-Generated at: 20/05/2026, 07:16
+Generated at: 20/05/2026, 07:55
 
 Previous day: [2026-05-19](./data/2026-05-19.md)
 
 ## ua.korrespondent.net
+- 07:42 [Гвардіола вперше залишився без трофеїв два сезони поспіль](https://ua.korrespondent.net/sport/football/4879958-hvardiola-vpershe-zalyshyvsia-bez-trofeiv-dva-sezony-pospil)
+- 07:31 [Генштаб розповів, що відбувається фронті](https://ua.korrespondent.net/ukraine/4879956-henshtab-rozpoviv-scho-vidbuvaietsia-fronti)
+- 07:15 [Росіяни атакували Одесу: з'явилися фото наслідків](https://ua.korrespondent.net/city/odessa/4879954-rosiiany-atakuvaly-odesu-ziavylysia-foto-naslidkiv)
 - 07:03 [Гравець Арсеналу встановив унікальне гольове досягнення](https://ua.korrespondent.net/sport/football/4879952-hravets-arsenalu-vstanovyv-unikalne-holove-dosiahnennia)
 - 06:49 [Атака на Дніпро: стало відомо про загиблих](https://ua.korrespondent.net/city/dnepr/4879950-ataka-na-dnipro-stalo-vidomo-pro-zahyblykh)
 - 06:41 [У Манчестер Сіті назріває ще один гучний відхід](https://ua.korrespondent.net/sport/football/4879948-u-manchester-siti-nazrivaie-sche-odyn-huchnyi-vidkhid)
@@ -22,16 +25,26 @@ Previous day: [2026-05-19](./data/2026-05-19.md)
 - 00:59 [Білий дім захищатиме "імперія дронів" - Трамп](https://ua.korrespondent.net/world/4879924-bilyi-dim-zakhyschatyme-imperiia-droniv-tramp)
 - 00:38 [В США назвали строки нападу Китаю на Тайвань - ЗМІ](https://ua.korrespondent.net/world/4879922-v-ssha-nazvaly-stroky-napadu-kytaui-na-taivan-zmi)
 
+## as.com
+- 07:41 [La Liga U, penúltimo reto del Real Madrid](https://as.com/baloncesto/mas_baloncesto/la-liga-u-penultimo-reto-del-real-madrid-f202605-n/)
+
 ## www.elperiodico.com
+- 07:47 [Restaurante Mineral: el regreso de Oliver Peña con hierros, brasa y pollo con patatas fritas](https://www.elperiodico.com/es/gastronomia/restaurantes/20260520/restaurante-mineral-barcelona-130263381)
+- 07:46 [No solo son los extranjeros: cada vez nos animamos más a cenas a las 6 de la tarde](https://www.elperiodico.com/es/gastronomia/restaurantes/20260520/cenar-seis-tarde-tendencia-restaurantes-130422698)
+- 07:46 [¿Cuándo empiezan las rebajas de verano 2026? Todas las fechas de Mango, Zara, H&M, Cortefiel y El Corte Inglés](https://www.elperiodico.com/es/sociedad/20260520/rebajas-verano-2026-zara-mango-hm-corte-ingles-dv-130230778)
+- 07:35 [Ya están disponibles estas nuevas monedas de 2 euros sobre la reforma del artículo 49 de la constitución](https://www.elperiodico.com/es/economia/20260520/monedas-conmemorativas-2-euros-constitucion-articulo-49-dv-130222455)
+- 07:30 [El negocio familiar de vestidos de Barcelona que se ha convertido en fenómeno viral en TikTok: "Es un canal muy eficiente de ventas"](https://www.elperiodico.com/es/barcelona/20260520/tiktok-shop-oh-juliette-barcelona-dv-loc-130098015)
 - 07:04 [Guerra Ucrania - Rusia, en directo, última hora | Un muerto en Bélgorod y dos heridos en Kursk por ataques ucranianos con drones](https://www.elperiodico.com/es/internacional/20260520/guerra-ucrania-rusia-directo-ultima-126605559)
 - 07:01 [Jonathan Andic, hijo del empresario y fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo](https://www.elperiodico.com/es/sociedad/20260520/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411)
 - 07:00 [El regreso de Mourinho devuelve al Real Madrid a las trincheras: confrontación, victimismo, polarización...](https://www.elperiodico.com/es/deportes/20260520/regreso-mourinho-devuelve-real-madrid-130422802)
+- 07:00 [El regreso de Mourinho devuelve al Real Madrid a las trincheras: confrontación, victimismo, polarización...](https://www.elperiodico.com/es/deportes/20260520/regreso-mourinho-devuelve-real-madrid-trinchera-130422802)
 - 07:00 [El 80% de los usuarios en España desconoce los daños reales de su coche](https://www.elperiodico.com/es/motor/20260520/usuarios-espana-desconocen-danos-reales-su-vehiculo-130418449)
 - 07:00 ['Pubertat': una serie muy necesaria](https://www.elperiodico.com/es/tele/20260520/pubertat-serie-necesaria-130413630)
 - 07:00 [Primavera Sound Barcelona suma una camiseta del colectivo Top Manta a su colección oficial de prendas](https://www.elperiodico.com/es/gente/20260520/primavera-sound-barcelona-suma-camiseta-primavera-sound-barcelona-camiseta-top-manta-coleccion-oficial-130404503)
 - 07:00 [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260520/huelga-profesores-ultima-hora-directo-130098594)
 - 07:00 [Antes de comprar en Cataluña, mira esto: los catálogos digitales que ayudan a ahorrar tiempo y dinero](https://www.elperiodico.com/es/sociedad/20260520/catalogos-digitales-cataluna-ahorrar-comprar-mejor-bc-130256642)
 - 07:00 [Este es el nuevo local de los hermanos Roca en el Barri Vell de Girona](https://www.elperiodico.com/es/gastronomia/20260520/nuevo-local-hermanos-roca-barri-130355171)
+- 07:00 [¡Macarrones! Los mejores restaurantes donde darse un festival](https://www.elperiodico.com/es/gastronomia/restaurantes/20260520/mejores-macarrones-barcelona-77545669)
 - 06:30 [Vilanova i la Geltrú estrena un memorial pionero que utiliza pantallas interactivas para personalizar el duelo](https://www.elperiodico.com/es/sociedad/20260520/vilanova-geltru-estrena-memorial-columbario-innovacion-bc-130175573)
 - 06:01 [La trama de Zapatero cobró por conseguir que Venezuela autorizara los vuelos de Plus Ultra en plena pandemia de coronavirus](https://www.elperiodico.com/es/politica/20260520/trama-zapatero-cobro-venezuela-autorizara-130429123)
 - 06:01 [Plus Ultra consiguió un aplazamiento de su deuda con la Seguridad Social un mes después de una reunión de Zapatero con Escrivá](https://www.elperiodico.com/es/politica/20260520/plus-ultra-consiguio-aplazamiento-deuda-130428081)
