@@ -26,7 +26,9 @@ function formatDateTime(date) {
     hour12: false,
   });
 
-  return formatter.format(date);
+  const parts = formatter.formatToParts(date);
+  const get = (type) => parts.find((part) => part.type === type)?.value || '';
+  return `${get('year')}-${get('month')}-${get('day')} ${get('hour')}:${get('minute')}`;
 }
 
 function readJsonArray(filePath) {
@@ -133,8 +135,7 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
   }
 
   const lines = [];
-  lines.push(`# News for ${dayLabel}`);
-  lines.push(`Generated at: ${formatDateTime(new Date())}`);
+  lines.push(`# News for ${dayLabel} ${formatDateTime(new Date())}`);
   lines.push('');
 
   if (previousDayLabel) {
