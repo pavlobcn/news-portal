@@ -52,7 +52,7 @@ function getPubDateValue(item) {
 function getTimeLabel(item) {
   const pubDate = getPubDateValue(item);
   const match = pubDate.match(/\b(\d{2}:\d{2})(?::\d{2})?\b/);
-  return match ? match[1] : 'unknown';
+  return match ? match[1] : '';
 }
 
 function getLinkValue(item) {
@@ -79,22 +79,26 @@ function escapeMdText(text) {
 
 function getTopicValue(item) {
   const topic = item?.item?.topic;
-  return typeof topic === 'string' && topic.trim() ? topic.trim() : 'unknown';
+  if (typeof topic !== 'string') return '';
+  const normalized = topic.trim();
+  return normalized && normalized.toLowerCase() !== 'unknown' ? normalized : '';
 }
 
 function getTopicMatchProbabilityValue(item) {
   const value = item?.item?.topic_match_probability;
 
   if (typeof value === 'number' && Number.isFinite(value)) {
-    return value.toFixed(3);
+    return String(Math.round(value));
   }
 
-  return 'unknown';
+  return '';
 }
 
 function getCategoryValue(item) {
   const category = item?.item?.category;
-  return typeof category === 'string' && category.trim() ? category.trim() : 'unknown';
+  if (typeof category !== 'string') return '';
+  const normalized = category.trim();
+  return normalized && normalized.toLowerCase() !== 'unknown' ? normalized : '';
 }
 
 function compareByPubDateDesc(a, b) {
@@ -162,7 +166,7 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
       const topic = escapeMdText(getTopicValue(entry));
       const topicMatchProbability = getTopicMatchProbabilityValue(entry);
       const category = escapeMdText(getCategoryValue(entry));
-      lines.push(`  - topic: ${topic}; topic match probability: ${topicMatchProbability}; category: ${category}`);
+      lines.push(`- ${topic} | ${topicMatchProbability} | ${category}`);
       lines.push(`- ${timeLabel} [${title}](${link})`);
     }
 
