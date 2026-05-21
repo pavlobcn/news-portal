@@ -68,6 +68,7 @@ function parseItemsFromXml(xmlText) {
         link: getTagValue(itemXml, 'link'),
         pubDate: parseAndFormatPubDate(pubDateRaw),
         category: getTagValue(itemXml, 'category'),
+        description: getTagValue(itemXml, 'description'),
       },
     };
   });
