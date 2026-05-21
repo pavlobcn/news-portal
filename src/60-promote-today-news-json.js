@@ -40,12 +40,13 @@ function main() {
 
   createdFiles.push(promotedTodayFile);
 
-  [dataNewsFile, rootNewsFile].forEach((filePath) => {
-    if (fs.existsSync(filePath)) {
-      fs.unlinkSync(filePath);
-      deletedFiles.push(filePath);
-    }
-  });
+  // Keep news.json files for downstream steps; only README.md is rotated above.
+  // [dataNewsFile, rootNewsFile].forEach((filePath) => {
+  //   if (fs.existsSync(filePath)) {
+  //     fs.unlinkSync(filePath);
+  //     deletedFiles.push(filePath);
+  //   }
+  // });
 
   console.log(`Created files: ${createdFiles.join(', ') || '(none)'}`);
   console.log(`Deleted files: ${deletedFiles.join(', ') || '(none)'}`);
