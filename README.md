@@ -1,8 +1,48 @@
-# News for 2026-05-21 2026-05-21 13:57
+# News for 2026-05-21 2026-05-21 17:55
 
 Previous day: [2026-05-20](./data/2026-05-20.md)
 
 ## ua.korrespondent.net
+-  | 0 | Новини світу
+- 17:49 [Естонія направила ноту посольству Росії через дезінформацію щодо дронів](https://ua.korrespondent.net/world/4880432-estoniia-napravyla-notu-posolstvu-rosii-cherez-dezinformatsiui-schodo-droniv)
+- спорт | 25 | Новини економіки
+- 17:36 [Україна та Сербія відновлять роботу з укладення угоди про вільну торгівлю](https://ua.korrespondent.net/business/economics/4880430-ukraina-ta-serbiia-vidnovliat-robotu-z-ukladennia-uhody-pro-vilnu-torhivlui)
+-  | 0 | Новини світу
+- 17:28 [Іран розширив претензії в Ормузькій протоці](https://ua.korrespondent.net/world/4880428-iran-rozshyryv-pretenzii-v-ormuzkii-prototsi)
+-  | 0 | Росія новини
+- 17:23 [У Кремлі не бачать ризиків із забезпеченням РФ паливом через атаки дронів](https://ua.korrespondent.net/world/russia/4880426-u-kremli-ne-bachat-ryzykiv-iz-zabezpechenniam-rf-palyvom-cherez-ataky-droniv)
+-  | 0 | Дніпро
+- 17:13 [У Дніпрі "шахеди" атакували будинки, 11 поранених](https://ua.korrespondent.net/city/dnepr/4880422-u-dnipri-shakhedy-atakuvaly-budynky-11-poranenykh)
+-  | 0 | Статті
+- 17:00 [Перепоховання: з-за кордону почали повертати прах видатних українців](https://ua.korrespondent.net/articles/4880409-perepokhovannia-z-za-kordonu-pochaly-povertaty-prakh-vydatnykh-ukraintsiv)
+-  | 0 | Новини світу
+- 16:59 [Іран відмовився вивозити збагачений уран - ЗМІ](https://ua.korrespondent.net/world/4880420-iran-vidmovyvsia-vyvozyty-zbahachenyi-uran-zmi)
+- автомобілі | 50 | Новини України
+- 16:52 [Росіяни скинули бомби на Дружківку, є загиблі](https://ua.korrespondent.net/ukraine/4880418-rosiiany-skynuly-bomby-na-druzhkivku-ye-zahybli)
+-  | 0 | Новини України
+- 16:43 [На Запоріжжі шахраї ошукали підприємців на 700 тис. грн](https://ua.korrespondent.net/ukraine/4880416-na-zaporizhzhi-shakhrai-oshukaly-pidpryiemtsiv-na-700-tys-hrn)
+-  | 0 | Новини світу
+- 16:41 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)
+- трафік в Барселоні | 20 | Новини України
+- 16:38 [Детектив НАБУ отримав нерухомість від фігуранта справи Князєва - ЗМІ](https://ua.korrespondent.net/ukraine/4880414-detektyv-nabu-otrymav-nerukhomist-vid-fihuranta-spravy-kniazieva-zmi)
+- ресторани, їжа | 25 | Новини науки
+- 16:36 [Горбатий кит побив світовий рекорд, пропливши понад 15 000 км](https://ua.korrespondent.net/tech/science/4880410-horbatyi-kyt-pobyv-svitovyi-rekord-proplyvshy-ponad-15-000-km)
+-  | 0 | Новини України
+- 16:34 [Суд залишив без змін запобіжний захід Єрмаку](https://ua.korrespondent.net/ukraine/4880408-sud-zalyshyv-bez-zmin-zapobizhnyi-zakhid-yermaku)
+-  | 0 | Новини моди
+- 16:31 [Casio і J Balvin випустили мініатюрний цифровий годинник-каблучку](https://ua.korrespondent.net/lifestyle/fashion/4880406-Casio-i-J-Balvin-vypustyly-miniatuirnyi-tsyfrovyi-hodynnyk-kabluchku)
+-  | 0 | Новини України
+- 16:15 [Викрито схему розкрадання 71 млн на закупівлях для ЗСУ](https://ua.korrespondent.net/ukraine/4880402-vykryto-skhemu-rozkradannia-71-mln-na-zakupivliakh-dlia-zsu)
+-  | 0 | Новини світу
+- 16:15 [На корпусі нового телефона Трампа помітили неправильний прапор США](https://ua.korrespondent.net/world/4880404-na-korpusi-novoho-telefona-trampa-pomityly-nepravylnyi-prapor-ssha)
+- ситуація на дорогах | 25 | Новини науки
+- 16:13 [У Польщі під час будівництва дороги знайшли монстра з синьою кров’ю](https://ua.korrespondent.net/tech/science/4880400-u-polschi-pid-chas-budivnytstva-dorohy-znaishly-monstra-z-synoui-krovui)
+-  | 0 | Новини світу
+- 16:10 [Лукашенко заявив про готовність приїхати в Україну](https://ua.korrespondent.net/world/4880398-lukashenko-zaiavyv-pro-hotovnist-pryikhaty-v-ukrainu)
+- ресторани, їжа | 25 | Новини туризму
+- 16:08 [У Японії відкриється перший у світі аеропорт у стилі Pokémon](https://ua.korrespondent.net/lifestyle/travel/4880396-u-yaponii-vidkryietsia-pershyi-u-sviti-aeroport-u-styli-Pokmon)
+-  | 0 | Новини політики
+- 16:07 [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain)
 -  |  | Новини України
 - 13:50 [На Закарпатті викрили схему з нерухомістю іноземки на понад 21 млн](https://ua.korrespondent.net/ukraine/4880350-na-zakarpatti-vykryly-skhemu-z-nerukhomistui-inozemky-na-ponad-21-mln)
 -  |  | Новини України
@@ -45,6 +85,12 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 11:47 [РФ завдала масованого удару по Сумах, є поранені](https://ua.korrespondent.net/ukraine/4880311-rf-zavdala-masovanoho-udaru-po-sumakh-ye-poraneni)
 
 ## as.com
+-  | 0 | Baloncesto
+- 17:40 [Hayes-Davis: “A cada perro le llega su día”](https://as.com/baloncesto/euroliga/hayes-davis-a-cada-perro-le-llega-su-dia-f202605-n/)
+-  | 0 | Baloncesto
+- 17:13 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
+-  | 0 | Baloncesto 3x3
+- 14:52 [Ocho jugadores para defender en Polonia el trono de la Copa del Mundo](https://as.com/baloncesto/mas_baloncesto/ocho-jugadores-para-defender-en-polonia-el-trono-de-la-copa-del-mundo-f202605-n/)
 -  |  | Baloncesto
 - 13:18 [La última bola de la Final Four: del “si estoy abierto, tiro” a “se la daría a Llull”](https://as.com/baloncesto/euroliga/la-ultima-bola-de-la-final-four-del-si-estoy-abierto-tiro-a-se-la-daria-a-llull-f202605-n/)
 -  |  | Baloncesto
@@ -61,10 +107,116 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 06:36 [Rodilla: “El Valencia no es flor de un día”](https://as.com/baloncesto/euroliga/rodilla-el-valencia-no-es-flor-de-un-dia-f202605-n/)
 
 ## www.elperiodico.com
+-  | 0 | 
+- 17:50 [El estreno del bar de los hermanos Torres en el mercado de Santa Caterina de Barcelona desata colas y expectación](https://www.elperiodico.com/es/barcelona/20260521/bar-hermanos-torres-mercado-santa-caterina-barcelona-colas-expectacion-estreno-130507016)
+-  | 0 | 
+- 17:43 [El Congreso invitará a Felipe González, Aznar, Zapatero y Rajoy a asistir al discurso del Papa](https://www.elperiodico.com/es/politica/20260521/congreso-felipe-aznar-zapatero-rajoy-papa-130508500)
+-  | 0 | 
+- 17:42 [Condenado a 13 años de cárcel por asesinar y descuartizar con una motosierra a su compañero de piso en Piera](https://www.elperiodico.com/es/sucesos/20260521/condenado-anos-carcel-asesinar-piera-descuartizar-companero-piso-trece-130507791)
+-  | 0 | 
+- 17:42 [Se viraliza en Perú el video de un alcalde disparando pistola de electrochoque a un asesor](https://www.elperiodico.com/es/videos/internacional/viraliza-peru-video-alcalde-disparando-video/130508348.shtml)
+-  | 0 | 
+- 17:40 [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260521/huelga-profesores-ultima-hora-directo-130098594)
+-  | 0 | 
+- 17:38 [Los mutualistas catalanes podrán usar la receta electrónica a partir del 1 de junio](https://www.elperiodico.com/es/sociedad/20260521/receta-electronica-muface-cataluna-130506500)
+-  | 0 | 
+- 17:35 [Jonathan Andic, hijo del fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo](https://www.elperiodico.com/es/sociedad/20260521/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411)
+-  | 0 | 
+- 17:30 [El pueblo donde pasa los veranos Dani Mateo: "Mis padres tienen un apartamento"](https://www.elperiodico.com/es/gente/20260521/pueblo-pasa-veranos-dani-mateo-dv-130494048)
+-  | 0 | 
+- 17:30 [Hacienda avisa: compartir una cuenta bancaria con un hijo puede acarrear sanciones si detecta una donación no declarada](https://www.elperiodico.com/es/economia/20260521/aviso-hacienda-compartir-cuenta-bancaria-padres-e-hijos-dv-130264770)
+-  | 0 | 
+- 17:30 [Lo dice el BOE: para estas oposiciones con sueldos de 1.500 euros solo piden la ESO](https://www.elperiodico.com/es/sociedad/20260521/boe-mejores-oposiciones-eso-buen-sueldo-dv-130235149)
+-  | 0 | 
+- 17:18 [Jonathan Andic mantiene la vicepresidencia del consejo de Mango, que cierra filas con él](https://www.elperiodico.com/es/economia/20260521/jonathan-andic-mantiene-vicepresidencia-consejo-mango-130505572)
+-  | 0 | 
+- 17:18 [Ficosa rebaja los despidos de 172 a 113 y ofrece indemnizaciones de 18 días por año trabajado](https://www.elperiodico.com/es/economia/20260521/ficosa-ere-rebaja-despidos-ofrece-indemnizaciones-18-dias-130501923)
+-  | 0 | 
+- 17:17 [¿Puedo librar un día extra si un festivo cae en sábado? Claves de la última sentencia de la AN y a qué trabajadores afecta](https://www.elperiodico.com/es/economia/20260521/festivo-sabado-derecho-dia-extra-sentencia-audiencia-nacional-call-center-130506693)
+-  | 0 | 
+- 17:17 [El juez Calama bloquea cuentas del expresidente Zapatero](https://www.elperiodico.com/es/politica/20260521/juez-calama-bloquea-cuentas-bancarias-130507069)
+-  | 0 | 
+- 17:15 [El 31% de los turistas que visiten Catalunya este año gastarán más que el pasado](https://www.elperiodico.com/es/economia/20260521/turistas-visiten-catalunya-2026-gastaran-mas-130442322)
+-  | 0 | 
+- 17:15 [El enfado de un joven al ver la nómina de un ingeniero en 1992: "Vivía con casi tres veces más renta en la misma ciudad"](https://www.elperiodico.com/es/economia/20260521/enfado-joven-nomina-ingeniero-1992-triplica-renta-dv-130279872)
+-  | 0 | 
+- 17:13 [TVyMAS; Arguiñano: grande entre los grandes](https://www.elperiodico.com/es/videos/tele/tvymas-arguinano-grande-grandes/130506673.shtml)
+-  | 0 | 
+- 17:02 [Ensayo inédito de reparto de paquetería: una línea de bus interurbano aprovecha el maletero vacío para mercancias](https://www.elperiodico.com/es/barcelona/20260521/sagales-autobus-interurbano-reparto-urbano-mercancias-130502991)
+-  | 0 | 
+- 17:00 [¿Por qué ya nadie habla de 'maletines' al final de las ligas? “Los jugadores ya no se prestan, saben que pueden acabar en la cárcel”](https://www.elperiodico.com/es/deportes/20260521/maletines-amanos-ultima-jornada-liga-futbol-130506128)
+-  | 0 | 
+- 17:00 [Temor al colapso en una comarca de Soria por un festival de electrónica que reunirá a 10.000 personas para celebrar el eclipse](https://www.elperiodico.com/es/sociedad/20260521/temor-colapso-soria-festival-eclipse-130379243)
+-  | 0 | 
+- 17:00 [La fiscal reclama hasta 14 años de prisión para una mafia que traficaba con tortugas protegidas](https://www.elperiodico.com/es/sociedad/20260521/fiscal-reclama-14-anos-prision-mafia-trafico-tortugas-protegidas-130369263)
+-  | 0 | 
+- 16:35 [Denunciado un ganadero por robar terneros, cambiarles los crotales identificativos y sacrificarlos como si fueran suyos](https://www.elperiodico.com/es/sucesos/20260521/denunciado-ganadero-robar-terneros-cambiarles-crotales-sacrificarlos-130504290)
+-  | 0 | 
+- 16:33 [Zara pone a la venta la colección diseñada por Bad Bunny](https://www.elperiodico.com/es/videos/sociedad/zara-pone-venta-coleccion-disenada/130504625.shtml)
+-  | 0 | 
+- 16:25 [Rosa López se abre tras su ruptura: "Sí, Iñaki y yo hemos tomado caminos diferentes"](https://www.elperiodico.com/es/gente/20260521/rosa-lopez-abre-ruptura-inaki-130504271)
+-  | 0 | 
+- 16:25 [De 400 a 109 euros: Amazon liquida el robot aspirador más potente y solicitado por los usuarios a su precio mínimo, ¡y más!](https://www.elperiodico.com/es/shopping/20260521/amazon-ofertas-dia-mejores-rebajas-descuentos-productos-mas-buscados-130103428)
+-  | 0 | 
+- 16:16 [Premiada en el festival de Venecia y en la Seminci, 'Un mundo frágil y maravilloso' plantea una historia de amor marcada por el contexto político del Líbano](https://www.elperiodico.com/es/ocio-y-cultura/20260521/premiada-festival-venecia-seminci-mundo-130503297)
+-  | 0 | 
+- 16:12 [Stellantis presenta su plan para crecer en 2030 con una nueva plataforma, STLA One, en el centro y 60 coches nuevos en camino](https://www.elperiodico.com/es/motor/20260521/stellantis-presenta-plan-crecer-2030-130500148)
+-  | 0 | 
+- 16:11 [La carrera por la Sindicatura de Barcelona arranca con 50 entidades apoyando a Bondia y tres a Calvet](https://www.elperiodico.com/es/barcelona/20260521/sindicatura-barcelona-apoyos-david-bondia-gemma-calvet-130501685)
+-  | 0 | 
+- 16:10 [478 euros al mes para los maestros y 544 para los profesores: la contrapropuesta de los sindicatos para la reunión con el Govern de hoy](https://www.elperiodico.com/es/sociedad/20260521/478-euros-mes-maestros-544-profesores-contrapropuesta-marco-negociacion-unitario-sindicatos-huelga-130493366)
+-  | 0 | 
+- 16:00 [Todas las medidas que ha pactado el Govern para aprobar los presupuestos de 2026](https://www.elperiodico.com/es/politica/20260521/pacto-presupuestos-cataluna-illa-erc-comuns-claves-infraestructuras-vivienda-educacion-financiacion-130414484)
+-  | 0 | 
+- 15:51 [Un homenaje agradable y nada indiscreto a una de las obras maestras de Hitchcock, ‘La ventana indiscreta’, entre el suspense y la comedia](https://www.elperiodico.com/es/ocio-y-cultura/20260521/homenaje-agradable-indiscreto-obras-maestras-130502828)
+-  | 0 | 
+- 15:49 [Los jubilados españoles siguen ahorrando más de lo esperado y los analistas alertan de su impacto en la economía](https://www.elperiodico.com/es/economia/20260521/jubilados-espanoles-ahorran-mas-impacto-economia-dv-130500920)
+-  | 0 | 
+- 15:47 [Entrevista Patri Guijarro](https://www.elperiodico.com/es/videos/deportes/entrevista-patri-guijarro/130501775.shtml)
+-  | 0 | 
+- 15:47 [Patri Guijarro, futbolista del Barça: "Sin trabajo, yo no estaría aquí"](https://www.elperiodico.com/es/deportes/20260521/patri-gujarro-futbolista-barca-trabajo-130457056)
+-  | 0 | 
+- 15:41 [Vídeo | Un hombre de 37 años cose a puñaladas a su expareja de 60 años en un piso de Las Fuentes](https://www.elperiodico.com/es/videos/sociedad/video-agresion-mujer-barrio-fuentes/130502689.shtml)
+-  | 0 | 
+- 15:34 [El musical 'Cop de rock', inspirado en el rock català de los 90 y 2000, regresa al Coliseum de Barcelona en septiembre](https://www.elperiodico.com/es/ocio-y-cultura/20260521/musical-cop-rock-inspirado-rock-130457739)
+-  | 0 | 
+- 15:30 [El equipo de buzos especializados concluye las operaciones de rescate de los fallecidos en Maldivas](https://www.elperiodico.com/es/videos/internacional/equipo-buzos-especializados-concluye-operaciones/130502205.shtml)
+-  | 0 | 
+- 15:29 [La exposición 'Seny i Rauxa' reúne 500 piezas para desvelar la arquitectura catalana de los últimos 150 años](https://www.elperiodico.com/es/ocio-y-cultura/20260521/exposicion-seny-rauxa-reune-500-130501843)
+-  | 0 | 
+- 15:25 [Jódar evita a Sinner hasta la final en Roland Garros en un camino para soñar](https://www.elperiodico.com/es/deportes/20260521/jodar-evita-sinner-final-roland-130501789)
+-  | 0 | 
+- 15:01 [La Mitja Marató de Barcelona agota los 40.000 dorsales en solo una semana](https://www.elperiodico.com/es/deportes/20260521/mitja-marato-barcelona-agota-40-mil-dorsales-record-130500658)
+-  | 0 | 
+- 14:37 [Lesiones, exageraciones y un agarrón de pelo: los Thunder igualan las Finales del Oeste con un triunfo marcado por los incidentes](https://www.elperiodico.com/es/deportes/20260521/lesiones-exageraciones-agarron-pelo-thunder-130492937)
+-  | 0 | 
+- 14:32 [El Reino Unido y España lanzan una nueva coalición internacional contra la violencia machista](https://www.elperiodico.com/es/sociedad/20260521/reino-unido-espana-coalicion-contra-violencia-genero-130423868)
+-  | 0 | 
+- 14:30 [Shock en Antena 3: un juez exige la cancelación inmediata del rosco de 'Pasapalabra' de manera definitiva](https://www.elperiodico.com/es/tele/yotele/20260521/tribunal-supremo-dicta-sentencia-atresmedia-pasapalabra-emitir-concurso-rosco-130498505)
+-  | 0 | 
+- 14:25 [Alumnos del IE Baldomer Solà de Sant Roc organizan su 4º festival internacional de cortos: "Podemos hacer cosas importantes"](https://www.elperiodico.com/es/sociedad/20260521/alumnos-baldomer-sola-sant-roc-badalona-festival-internacional-cine-festibaldo-130486341)
+-  | 0 | 
+- 14:18 [Catalunya estrena material para enseñar educación vial en las clases de Educación Física](https://www.elperiodico.com/es/sociedad/20260521/profesores-educacion-fisica-disponen-material-educacion-viaria-130495834)
+-  | 0 | 
+- 14:17 [Un hombre de 37 años cose a puñaladas a su expareja de 60 años en un piso de Zaragoza](https://www.elperiodico.com/es/sucesos/20260521/hombre-37-anos-cose-punaladas-130498091)
+-  | 0 | 
+- 14:08 [Jeep abre pedidos del nuevo Avenger en el 85º aniversario de la marca](https://www.elperiodico.com/es/motor/20260521/jeep-abre-pedidos-nuevo-avenger-130235818)
+-  | 0 | 
+- 14:07 [El Supremo tumba el registro único de pisos turísticos, la medida del Gobierno para evitar anuncios ilegales en Airbnb y Booking](https://www.elperiodico.com/es/economia/20260521/supremo-tumba-registro-unico-pisos-130497194)
+-  | 0 | 
+- 14:06 [La final y ¿el final?](https://www.elperiodico.com/es/deportes/20260521/final-final-130496798)
+-  | 0 | 
+- 14:04 [Tarragona ampliará la campaña para impulsar el catalán en los comercios a 200 establecimientos de Ponent este otoño](https://www.elperiodico.com/es/tarragona/20260521/tarragona-ampliara-campana-impulsar-catalan-130494372)
+-  | 0 | 
+- 14:02 [Guerra Ucrania - Rusia, en directo, última hora | El Kremlin matiza que Putin no propuso al excanciller Schroeder como mediador en la guerra con Ucrania](https://www.elperiodico.com/es/internacional/20260521/guerra-ucrania-rusia-directo-ultima-126605559)
+-  | 0 | 
+- 14:01 [La Sagrada Família, a 19 días de la visita del Papa](https://www.elperiodico.com/es/videos/barcelona/sagrada-familia-19-dias-visita-papa-video/130496145.shtml)
 -  |  | 
 - 13:53 [El objetivo de España es convertirse en el primer fabricante de Europa en tres años](https://www.elperiodico.com/es/motor/20260521/objetivo-espana-convertirse-primer-fabricante-europeo-coches-2030-130490987)
 -  |  | 
 - 13:50 [Cornellà y Cerdanyola acogen un proyecto piloto para impulsar "bosques urbanos de crecimiento rápido"](https://www.elperiodico.com/es/barcelona/20260521/cornella-cerdanyola-acogen-proyecto-piloto-130494736)
+-  | 0 | 
+- 13:50 [Cornellà y Cerdanyola acogen un proyecto piloto para impulsar "bosques urbanos de crecimiento rápido"](https://www.elperiodico.com/es/barcelona/20260521/cornella-cerdanyola-acogen-proyecto-piloto-impulsar-bosques-urbanos-crecimiento-rapido-130494736)
 -  |  | 
 - 13:46 [El HUB Alzheimer Barcelona financia tres becas destinadas a investigar en esta demencia](https://www.elperiodico.com/es/sanidad/20260521/hub-alzheimer-barcelona-financia-tres-becas-investigar-demencia-130493415)
 -  |  | 
@@ -85,8 +237,14 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 13:17 [Hamza Abdelkarim, el juvenil del Barça convocado con Egipto para el Mundial](https://www.elperiodico.com/es/deportes/20260521/hamza-abdelkarim-juvenil-barca-convocado-130484489)
 -  |  | 
 - 13:11 [Detenido un fugitivo buscado por Francia por tráfico de drogas que se escondía en Corbera de Llobregat](https://www.elperiodico.com/es/sucesos/20260521/detenido-fugitivo-buscado-francia-trafico-droga-corbera-llobregat-130492759)
+-  | 0 | 
+- 13:02 [Una familia denuncia la muerte de su hijo de dos años durante su traslado en ambulancia entre dos hospitales privados de Sevilla](https://www.elperiodico.com/es/sucesos/20260521/familia-denuncia-muerte-hijo-anos-130492889)
+-  | 0 | 
+- 13:02 [Estos son los festivos que caen en sábado que deberán ser compensados con día libre este 2026 tras la sentencia de la Audiencia Nacional](https://www.elperiodico.com/es/economia/20260521/estos-son-festivos-caen-sabado-compensados-dia-libre-audiencia-nacional-dv-130490427)
 -  |  | 
 - 12:59 [L’Espai Texas y el Museu Tàpies reivindican la figura cinematográfica y video-artística de Àngel Jové](https://www.elperiodico.com/es/ocio-y-cultura/20260521/l-espai-texas-museu-tapies-130492054)
+-  | 0 | 
+- 12:56 [El Gobierno defiende el rescate a Plus Ultra que cerca a Zapatero: “Cumplía los requisitos”](https://www.elperiodico.com/es/politica/20260521/gobierno-rescate-plus-ultra-zapatero-130492448)
 -  |  | 
 - 12:55 [La Guardia Civil detiene a un ciudadano suizo que se escondía en un pueblo de Tarragona por el presunto asesinato de su pareja](https://www.elperiodico.com/es/videos/politica/guardia-civil-detiene-ciudadano-suizo-tarragona/130492275.shtml)
 -  |  | 
@@ -97,6 +255,8 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 12:11 [Jet privado, arte y sociedades patrimoniales: así estaba repartida la fortuna de Isak Andic más allá de Mango](https://www.elperiodico.com/es/economia/20260521/fortuna-isak-andic-mango-jet-arte-sociedades-patrimoniales-dv-130489046)
 -  |  | 
 - 12:10 [Aldama declara en la Audiencia Nacional que  Zapatero usaba teléfonos desechables y desvincula a Armengol del cobro de comisiones](https://www.elperiodico.com/es/politica/20260521/aldama-declara-audiencia-nacional-rodriguez-130489634)
+-  | 0 | 
+- 12:04 [La Guardia Civil detiene a un ciudadano suizo que se escondía en un pueblo de Tarragona por el presunto asesinato de su pareja](https://www.elperiodico.com/es/tarragona/20260521/detenido-hombre-escondido-tarragona-muerte-suiza-asesinato-130488524)
 -  |  | 
 - 12:00 [Precintado un establecimiento de Santa Coloma por infringir las normas básicas de higiene y conservación de alimentos](https://www.elperiodico.com/es/barcelona/20260521/precintado-carniceria-santa-coloma-infringir-normas-basicas-higiene-130482548)
 -  |  | 
@@ -189,6 +349,8 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 06:01 [Medio siglo del primer trasplante de médula ósea en España: "Mi gemela tuvo leucemia y yo fui su donante: no sentí miedo, solo quería salvarla"](https://www.elperiodico.com/es/sanidad/20260521/medio-siglo-primer-trasplante-medula-osea-espana-hermana-gemela-sant-pau-130461450)
 -  |  | 
 - 06:00 ['The Boroughs: Jubilación rebelde' (Netflix): los creadores de 'Stranger things' proponen ahora una aventura de septuagenarios](https://www.elperiodico.com/es/ocio-y-cultura/20260521/the-boroughs-serie-netflix-duffer-brothers-introduccion-130461118)
+-  | 0 | 
+- 06:00 [El absentismo estudiantil obliga a la universidad a mover ficha: "Hay docentes que se limitan a leer un PDF"](https://www.elperiodico.com/es/sociedad/20260521/motivos-absentismo-universidad-atencion-innovacion-profesores-pdf-130218885)
 -  |  | 
 - 06:00 [Los 'Juegos Mejorados': el sueño trumpista para crear "superhumanos" y comercializar fármacos](https://www.elperiodico.com/es/deportes/20260521/juegos-mejorados-sueno-trumpista-crear-130449489)
 -  |  | 
