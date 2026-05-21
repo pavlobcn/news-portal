@@ -1,8 +1,34 @@
-# News for 2026-05-21 2026-05-21 17:55
+# News for 2026-05-21 2026-05-21 20:17
 
 Previous day: [2026-05-20](./data/2026-05-20.md)
 
 ## ua.korrespondent.net
+-  |  | Новини економіки
+- 19:53 [Уряд спростив імпорт компонентів для виробників озброєння і техніки](https://ua.korrespondent.net/business/economics/4880458-uriad-sprostyv-import-komponentiv-dlia-vyrobnykiv-ozbroiennia-i-tekhniky)
+-  |  | Дніпро
+- 19:44 [Удар по Дніпру: число поранених різко зросло](https://ua.korrespondent.net/city/dnepr/4880456-udar-po-dnipru-chyslo-poranenykh-rizko-zroslo)
+-  |  | Новини світу
+- 19:21 [Москва вирішила "захистити" росіян у Придністров’ї](https://ua.korrespondent.net/world/4880454-moskva-vyrishyla-zakhystyty-rosiian-u-prydnistrovi)
+-  |  | Новини України
+- 19:15 [Справа Князєва: ВАКС обрав запобіжний захід двом суддям Верховного суду](https://ua.korrespondent.net/ukraine/4880452-sprava-kniazieva-vaks-obrav-zapobizhnyi-zakhid-dvom-suddiam-verkhovnoho-sudu)
+-  |  | Новини України
+- 18:56 [У справі про "порноофіси" арештували п’ятьох підозрюваних](https://ua.korrespondent.net/ukraine/4880450-u-spravi-pro-pornoofisy-areshtuvaly-piatokh-pidozruivanykh)
+-  |  | Новини України
+- 18:34 [Зеленський анонсував розмови з трьома країнами щодо посилення тиску на РФ](https://ua.korrespondent.net/ukraine/4880447-zelenskyi-anonsuvav-rozmovy-z-troma-krainamy-schodo-posylennia-tysku-na-rf)
+-  |  | Новини економіки
+- 18:28 [ЗМІ заявили про додаткові ризики для металургії України через рішення ЄС](https://ua.korrespondent.net/business/economics/4880442-zmi-zaiavyly-pro-dodatkovi-ryzyky-dlia-metalurhii-ukrainy-cherez-rishennia-yes)
+-  |  | Новини світу
+- 18:24 [Іран планує назавжди закріпити платний прохід в Ормузі](https://ua.korrespondent.net/world/4880441-iran-planuie-nazavzhdy-zakripyty-platnyi-prokhid-v-ormuzi)
+-  |  | Росія новини
+- 18:20 [Страх за безпеку. Путін перестав їздити Росією](https://ua.korrespondent.net/world/russia/4880440-strakh-za-bezpeku-putin-perestav-yizdyty-rosiieui)
+-  |  | Новини футболу
+- 18:16 [Останній тур УПЛ: Колос переміг Шахтар](https://ua.korrespondent.net/sport/football/4880443-ostannii-tur-upl-kolos-peremih-shakhtar)
+-  |  | Новини України
+- 18:06 [Програв у казино кошти військових: ексфінансист бригади отримав 8 років](https://ua.korrespondent.net/ukraine/4880438-prohrav-u-kazyno-koshty-viiskovykh-eksfinansyst-bryhady-otrymav-8-rokiv)
+-  |  | Новини України
+- 17:59 [На Дніпропетровщині викрили схему "дзвінок з банку"](https://ua.korrespondent.net/ukraine/4880435-na-dnipropetrovschyni-vykryly-skhemu-dzvinok-z-banku)
+-  |  | Новини України
+- 17:58 [Загроза з Білорусі: Зеленський прибув у Славутич](https://ua.korrespondent.net/ukraine/4880434-zahroza-z-bilorusi-zelenskyi-prybuv-u-slavutych)
 -  | 0 | Новини світу
 - 17:49 [Естонія направила ноту посольству Росії через дезінформацію щодо дронів](https://ua.korrespondent.net/world/4880432-estoniia-napravyla-notu-posolstvu-rosii-cherez-dezinformatsiui-schodo-droniv)
 - спорт | 25 | Новини економіки
@@ -85,6 +111,12 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 11:47 [РФ завдала масованого удару по Сумах, є поранені](https://ua.korrespondent.net/ukraine/4880311-rf-zavdala-masovanoho-udaru-po-sumakh-ye-poraneni)
 
 ## as.com
+-  |  | Baloncesto
+- 20:06 [La NCAA no entiende de edades: Yam Madar, a punto de irse con 25 años](https://as.com/baloncesto/mas_baloncesto/la-ncaa-no-entiende-de-edades-yam-madar-a-punto-de-irse-con-25-anos-f202605-n/)
+-  |  | Baloncesto
+- 20:06 [La NCAA no entiende de edades: Yam Madar, a punto de irse con 25 años](https://as.com/baloncesto/mas_baloncesto/la-ncaa-no-entiende-de-edades-yam-madar-a-punto-de-irse-con-25-anos-f202605-n/)
+-  |  | Valencia Basket Club
+- 18:13 [Mumbrú: “Para el Real Madrid es una Final Four más, para el Valencia no”](https://as.com/baloncesto/mumbru-para-el-real-madrid-es-una-final-four-mas-para-el-valencia-no-f202605-n/)
 -  | 0 | Baloncesto
 - 17:40 [Hayes-Davis: “A cada perro le llega su día”](https://as.com/baloncesto/euroliga/hayes-davis-a-cada-perro-le-llega-su-dia-f202605-n/)
 -  | 0 | Baloncesto
@@ -107,6 +139,66 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 06:36 [Rodilla: “El Valencia no es flor de un día”](https://as.com/baloncesto/euroliga/rodilla-el-valencia-no-es-flor-de-un-dia-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 20:07 [La Generalitat paraliza un rodaje cinematográfico en Sant Cugat por la peste porcina](https://www.elperiodico.com/es/ocio-y-cultura/20260521/generalitat-paraliza-rodaje-cinematografico-sant-cugat-peste-porcina-130512245)
+-  |  | 
+- 19:57 [Marco Rubio critica a España por vetar el uso de las bases militares: "¿Para qué estar en la OTAN?"](https://www.elperiodico.com/es/internacional/20260521/rubio-critica-espana-vetar-bases-guerra-de-iran-130514358)
+-  |  | 
+- 19:56 [Confirmado el crimen machista de Girona y ya son 22 las mujeres asesinadas este 2026](https://www.elperiodico.com/es/sucesos/20260521/confirmado-crimen-machista-girona-son-130514279)
+-  |  | 
+- 19:49 [Bad Bunny a todo lujo en Barcelona: supersuite de 236 m2 y de ruta gastronómica en un tres estrellas Michelin](https://www.elperiodico.com/es/barcelona/20260521/bad-bunny-lujo-barcelona-supersuite-130511225)
+-  |  | 
+- 19:46 [El escritor nicaragüense Sergio Ramírez, elegido académico de la RAE](https://www.elperiodico.com/es/ocio-y-cultura/20260521/escritor-nicaraguense-sergio-ramirez-elegido-130514000)
+-  |  | 
+- 19:37 [La trama de Zapatero pactó una "comisión" del 3% por la construcción del complejo de 2.000 millones del Hard Rock de Tarragona](https://www.elperiodico.com/es/politica/20260521/trama-zapatero-pacto-comision-3-130513620)
+-  |  | 
+- 19:36 [Paula Badosa anuncia que reaparecerá en la gira de hierba en Países Bajos](https://www.elperiodico.com/es/deportes/20260521/paula-badosa-anuncia-reaparecera-gira-130513320)
+-  |  | 
+- 19:30 [Raúl Guillermo Rodríguez Castro, alias 'el Cangrejo': el nieto de Raúl que negocia en secreto con Marco Rubio](https://www.elperiodico.com/es/internacional/20260521/cuba-raul-guillermo-rodriguez-castro-nieto-raul-castro-negocia-secreto-marco-rubio-eeuu-130513394)
+-  |  | 
+- 19:30 [La Agencia Espacial Europea retransmitirá el eclipse desde Javalambre (Teruel)](https://www.elperiodico.com/es/sociedad/20260521/agencia-espacial-europea-eclipse-javalambre-130513237)
+-  |  | 
+- 19:30 [Cinco errores que arruinan tu pelo mientras duermes, según los expertos](https://www.elperiodico.com/es/vida-y-estilo/20260521/rutina-pelo-errores-dormir-dv-130320899)
+-  |  | 
+- 19:27 [Bolivia se desliza hacia el abismo arrastrada por las crecientes protestas sociales contra el Gobierno de Rodrigo Paz](https://www.elperiodico.com/es/internacional/20260521/bolivia-desliza-abismo-crecientes-protestas-sociales-contra-gobierno-rodrigo-paz-130513259)
+-  |  | 
+- 19:25 [La peste porcina suma dos nuevos positivos, la subida más baja desde que empezó la crisis](https://www.elperiodico.com/es/economia/20260521/peste-porcina-suma-dos-nuevos-positivos-130507184)
+-  |  | 
+- 19:17 [La base naval de Rota cierra su aeródromo por obras, desvía vuelos a Morón y plantea un ERTE a sus trabajadores](https://www.elperiodico.com/es/politica/20260521/base-naval-rota-cierra-aerodromo-vuelos-moron-130512985)
+-  |  | 
+- 19:00 [Barcelona comenzará la reforma pendiente de la Magòria en 2028 con las obras de un complejo deportivo](https://www.elperiodico.com/es/barcelona/20260521/barcelona-magoria-obras-edificio-campo-futbol-130502643)
+-  |  | 
+- 18:58 [Enrique Riquelme comunica a la junta electoral del Real Madrid que presentará su candidatura](https://www.elperiodico.com/es/deportes/20260521/enrique-riquelme-notifica-junta-electoral-real-madrid-130512213)
+-  |  | 
+- 18:39 [El Parlament tumba la "prioridad nacional" que defienden PP y Vox](https://www.elperiodico.com/es/politica/20260521/parlament-tumba-prioridad-nacional-defienden-pp-vox-130493277)
+-  |  | 
+- 18:30 [La Ley de Bienestar Animal lo confirma: los bares que no admitan perros deberán tener una señal que lo indique fuera](https://www.elperiodico.com/es/vida-y-estilo/20260521/ley-bienestar-animal-confirma-bares-no-admitan-perros-senal-dv-130460833)
+-  |  | 
+- 18:29 [El Parlament pide el cese de Parlon y Trapero por la infiltración de dos mossos en una asamblea de profesores](https://www.elperiodico.com/es/politica/20260521/parlament-cese-trapero-parlon-infiltracion-mossos-130502990)
+-  |  | 
+- 18:27 [Europa espera que Rubio concrete ante los aliados el repliegue de tropas de EEUU](https://www.elperiodico.com/es/internacional/20260521/europa-espera-rubio-concrecion-repliegue-tropas-eeuu-reunion-otan-suecia-130510896)
+-  |  | 
+- 18:24 [El Govern se compromete a perdonar las deudas de las personas vulnerables con Endesa hasta 2025](https://www.elperiodico.com/es/sociedad/20260521/govern-compromete-taula-tercer-sector-perdonar-deudas-personas-vulnerables-endesa-pobreza-energetica-130502393)
+-  |  | 
+- 18:22 [Los planes de Atresmedia con 'Pasapalabra' durante las próximas semanas tras la sentencia del Tribunal Supremo: ¿se emitirá hoy el concurso de Roberto Leal?](https://www.elperiodico.com/es/tele/yotele/20260521/planes-atresmedia-pasapalabra-durante-proximas-semanas-sentencia-tribunal-supremo-emitira-hoy-programa-roberto-leal-130509571)
+-  |  | 
+- 18:19 [Tarantino y Fincher resucitan al personaje de Brad Pitt en ‘Érase una vez en… Hollywood’](https://www.elperiodico.com/es/ocio-y-cultura/20260521/tarantino-fincher-resucitan-personaje-brad-130509513)
+-  |  | 
+- 18:16 [Badalona aprueba abonar 14,2 millones de euros en concepto de facturas atrasadas por el servicio de limpieza viaria](https://www.elperiodico.com/es/barcelona/20260521/badalona-aprueba-pleno-municipal-extraordinario-paquete-16-millones-pago-facturas-atrasadas-130487389)
+-  |  | 
+- 18:15 [La epopeya lorquiana de los Javis apabulla en Cannes](https://www.elperiodico.com/es/ocio-y-cultura/20260521/epopeya-lorquiana-javis-apabulla-cannes-130509354)
+-  |  | 
+- 18:13 [Trump despliega el portaviones nuclear 'USS Nimitz' en aguas caribeñas en medio de la tensión creciente con Cuba](https://www.elperiodico.com/es/internacional/20260521/uss-nimitz-trump-despliega-portaviones-nuclear-caribe-tension-cuba-130509939)
+-  |  | 
+- 18:04 [Colas en Barcelona por la nueva colección de Bad Bunny con Zara](https://www.elperiodico.com/es/videos/sociedad/colas-barcelona-nueva-coleccion-bad/130509412.shtml)
+-  |  | 
+- 18:03 [Christian Horner y Stella Li (BYD) se ven en Cannes: ¿un paso más cerca de que la marca entre en F1?](https://www.elperiodico.com/es/motor/20260521/christian-horner-stella-li-byd-formula-1-130485817)
+-  |  | 
+- 18:00 [Los nuevos presupuestos catalanes excluyen el despliegue de la Agència de la Natura](https://www.elperiodico.com/es/sociedad/20260521/presupuestos-2026-excluyen-agencia-natura-cataluna-130447830)
+-  |  | 
+- 17:59 [Sólo el portugués Eulálio entretiene en una etapa intrascendente del Giro](https://www.elperiodico.com/es/deportes/20260521/portugues-eulalio-entretiene-etapa-intrascendente-giro-italia-130508759)
+-  |  | 
+- 17:56 [La casita de Bad Bunny: el escenario por el que han pasado Penélope Cruz, Javier Bardem, Bad Gyal y LeBron James](https://www.elperiodico.com/es/ocio-y-cultura/20260521/casita-bad-bunny-escenario-barcelona-famosos-130457892)
 -  | 0 | 
 - 17:50 [El estreno del bar de los hermanos Torres en el mercado de Santa Caterina de Barcelona desata colas y expectación](https://www.elperiodico.com/es/barcelona/20260521/bar-hermanos-torres-mercado-santa-caterina-barcelona-colas-expectacion-estreno-130507016)
 -  | 0 | 
@@ -141,6 +233,8 @@ Previous day: [2026-05-20](./data/2026-05-20.md)
 - 17:15 [El enfado de un joven al ver la nómina de un ingeniero en 1992: "Vivía con casi tres veces más renta en la misma ciudad"](https://www.elperiodico.com/es/economia/20260521/enfado-joven-nomina-ingeniero-1992-triplica-renta-dv-130279872)
 -  | 0 | 
 - 17:13 [TVyMAS; Arguiñano: grande entre los grandes](https://www.elperiodico.com/es/videos/tele/tvymas-arguinano-grande-grandes/130506673.shtml)
+-  |  | 
+- 17:10 [Visita al interior de la Sagrada Familia](https://www.elperiodico.com/es/fotos/sociedad/visita-interior-sagrada-familia-130506001)
 -  | 0 | 
 - 17:02 [Ensayo inédito de reparto de paquetería: una línea de bus interurbano aprovecha el maletero vacío para mercancias](https://www.elperiodico.com/es/barcelona/20260521/sagales-autobus-interurbano-reparto-urbano-mercancias-130502991)
 -  | 0 | 
