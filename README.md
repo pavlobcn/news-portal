@@ -1,8 +1,48 @@
-# News for 2026-05-22 2026-05-22 15:41
+# News for 2026-05-22 2026-05-22 18:13
 
 Previous day: [2026-05-21](./data/2026-05-21.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 18:00 [У МЗС назвали, від чого залежатиме зустріч Зеленського і Мадяра](https://ua.korrespondent.net/ukraine/4880711-u-mzs-nazvaly-vid-choho-zalezhatyme-zustrich-zelenskoho-i-madiara)
+-  |  | Кіно новини
+- 17:58 [Вийшов трейлер серіалу про Майкла Джексона](https://ua.korrespondent.net/showbiz/cinema/4880712-vyishov-treiler-serialu-pro-maikla-dzheksona)
+-  |  | Новини світу
+- 17:57 [Рубіо заявив про паузу в переговорах щодо України](https://ua.korrespondent.net/world/4880709-rubio-zaiavyv-pro-pauzu-v-perehovorakh-schodo-ukrainy)
+-  |  | Новини футболу
+- 17:50 [Названо кращих футболістів Серії А за підсумками сезону](https://ua.korrespondent.net/sport/football/4880707-nazvano-kraschykh-futbolistiv-serii-a-za-pidsumkamy-sezonu)
+-  |  | Новини світу
+- 17:39 [Путін доручив готувати "відповідь" на "удар по гуртожитку" на Луганщині](https://ua.korrespondent.net/world/4880704-putin-doruchyv-hotuvaty-vidpovid-na-udar-po-hurtozhytku-na-luhanschyni)
+-  |  | Новини України
+- 17:37 [Під ударом ЗСУ: окупанти обмежили рух вантажівок дорогою до Криму](https://ua.korrespondent.net/ukraine/4880701-pid-udarom-zsu-okupanty-obmezhyly-rukh-vantazhivok-dorohoui-do-krymu)
+-  |  | Музика
+- 17:34 [Козловський переклав на українську свій легендарний хіт](https://ua.korrespondent.net/showbiz/music/4880702-kozlovskyi-pereklav-na-ukrainsku-svii-lehendarnyi-khit)
+-  |  | Новини України
+- 17:26 [Уражено російську логістику і засоби ППО - Генштаб](https://ua.korrespondent.net/ukraine/4880699-urazheno-rosiisku-lohistyku-i-zasoby-ppo-henshtab)
+-  |  | Новини України
+- 17:21 [Росіяни застосовують 695 форм тортур проти полонених - Лубінець](https://ua.korrespondent.net/ukraine/4880697-rosiiany-zastosovuuit-695-form-tortur-proty-polonenykh-lubinets)
+-  |  | Новини футболу
+- 17:09 [Венесуелець Кривбаса став гравцем Шахтаря](https://ua.korrespondent.net/sport/football/4880695-venesuelets-kryvbasa-stav-hravtsem-shakhtaria)
+-  |  | Новини України
+- 17:07 [Розкрадання у Держрезерві: екскерівник і його спільники отримали підозру](https://ua.korrespondent.net/ukraine/4880692-rozkradannia-u-derzhrezervi-ekskerivnyk-i-yoho-spilnyky-otrymaly-pidozru)
+-  |  | Новини України
+- 17:01 [У Марганці 13 поранених через російську атаку](https://ua.korrespondent.net/ukraine/4880689-u-marhantsi-13-poranenykh-cherez-rosiisku-ataku)
+-  |  | LifestyleFashion
+- 16:59 [Наталка Денисенко назвала свою ідеальну вагу](https://ua.korrespondent.net/lifestyle/4880690-natalka-denysenko-nazvala-svoui-idealnu-vahu)
+-  |  | Новини світу
+- 16:57 [Болгарія засумнівалася у спецтрибуналі проти РФ](https://ua.korrespondent.net/world/4880684-bolhariia-zasumnivalasia-u-spetstrybunali-proty-rf)
+-  |  | Новини культури
+- 16:53 [Картину Герхарда Ріхтер продали на аукціоні за 35 мільйонів доларів](https://ua.korrespondent.net/showbiz/culture/4880685-kartynu-herkharda-rikhter-prodaly-na-auktsioni-za-35-milioniv-dolariv)
+-  |  | Новини економіки
+- 16:49 [Cвириденко анонсувала конкурс на будівництво понад 1,3 ГВт нової генерації](https://ua.korrespondent.net/business/economics/4880681-Cvyrydenko-anonsuvala-konkurs-na-budivnytstvo-ponad-13-hvt-novoi-heneratsii)
+-  |  | Кіно новини
+- 16:41 [Емілі в Парижі завершиться на шостому сезоні: що відомо про фінал](https://ua.korrespondent.net/showbiz/cinema/4880680-emili-v-paryzhi-zavershytsia-na-shostomu-sezoni-scho-vidomo-pro-final)
+-  |  | Новини України
+- 16:40 [Сибіга заявив про "вичерпання" переговорів з РФ](https://ua.korrespondent.net/ukraine/4880673-sybiha-zaiavyv-pro-vycherpannia-perehovoriv-z-rf)
+-  |  | Новини світу
+- 16:36 [ЄС на рік скасував мита на деякі азотні добрива](https://ua.korrespondent.net/world/4880672-yes-na-rik-skasuvav-myta-na-deiaki-azotni-dobryva)
+-  |  | Новини туризму
+- 16:36 [Названо недооцінені міста Азії для літньої подорожі](https://ua.korrespondent.net/lifestyle/travel/4880675-nazvano-nedootsineni-mista-azii-dlia-litnoi-podorozhi)
 -  |  | Новини України
 - 15:34 [На Львівщині викрили схему вимагання, яку координували з колонії](https://ua.korrespondent.net/ukraine/4880647-na-lvivschyni-vykryly-skhemu-vymahannia-yaku-koordynuvaly-z-kolonii)
 -  |  | Новини України
@@ -91,6 +131,10 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 - 00:36 [Трамп і Нетаньягу зітнулися через Іран - CNN](https://ua.korrespondent.net/world/4880495-tramp-i-netaniahu-zitnulysia-cherez-iran-CNN)
 
 ## as.com
+-  |  | Baloncesto
+- 18:12 [Olympiacos - Fenerbahçe, en directo: Final Four de la Euroliga en vivo hoy](https://as.com/baloncesto/euroliga/olympiacos-fenerbahce-en-directo-semifinal-de-la-euroliga-en-vivo-hoy-f202605-d/)
+-  |  | Florentino Pérez
+- 16:03 [Pérez y Roig, dos presidentes y un destino](https://as.com/opinion/perez-y-roig-dos-presidentes-y-un-destino-f202605-n/)
 -  |  | FC Barcelona baloncesto
 - 13:12 [Laporta no da por perdido a Pascual: “Hablaremos al final”](https://as.com/baloncesto/laporta-no-da-por-perdido-a-pascual-hablaremos-al-final-f202605-n/)
 -  |  | Baloncesto
@@ -117,6 +161,82 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 - 06:34 [La sensación contra el Rey en un duelo de ensueño](https://as.com/baloncesto/euroliga/la-sensacion-contra-el-rey-en-un-duelo-de-ensueno-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 18:12 [El Real Madrid confirma que Alaba no seguirá en el club la próxima temporada](https://www.elperiodico.com/es/deportes/20260522/real-madrid-confirma-alaba-seguira-130551369)
+-  |  | 
+- 18:11 [El feminicidio de Figueres activa las alertas por los fallos en el control de los agresores reincidentes](https://www.elperiodico.com/es/sociedad/20260522/asesinato-figueres-fallos-control-agresores-violencia-machista-reincidentes-130533173)
+-  |  | 
+- 18:07 [El SEPC convoca huelga en Secundaria y universidades para el próximo martes en apoyo a los docentes](https://www.elperiodico.com/es/educacion/20260522/sepc-convoca-huelga-secundaria-universidades-130551290)
+-  |  | 
+- 18:07 [EEUU insiste ante la OTAN en sus planes de reducir tropas en Europa: "Tenemos otras obligaciones"](https://www.elperiodico.com/es/internacional/20260522/eeuu-insiste-otan-planes-reducir-tropas-europa-tenemos-otras-obligaciones-130551738)
+-  |  | 
+- 18:06 [Últimos días para gastar en comercios de Badalona los bonos de descuento que se agotaron en dos horas](https://www.elperiodico.com/es/barcelona/20260522/ultimos-dias-gastar-comercios-badalona-bonos-descuento-agotaron-dos-horas-130550944)
+-  |  | 
+- 18:04 [Con acuerdos, Catalunya avanza](https://www.elperiodico.com/es/opinion/20260522/acuerdos-catalunya-avanza-130550490)
+-  |  | 
+- 18:03 [El Tribunal Supremo rechaza suspender la regularización de migrantes, como pedían Vox y la Comunidad de Madrid](https://www.elperiodico.com/es/politica/20260522/tribunal-supremo-rechaza-suspender-regularizacion-130551556)
+-  |  | 
+- 17:59 [Un aparatoso accidente entre cuatro turismos provoca 17 kilómetros de retenciones en la AP-7 entre Llinars y Parets](https://www.elperiodico.com/es/trafico-y-transportes/20260522/aparatoso-accidente-cuatro-turismos-kilometros-retenciones-llinars-operacion-salida-pascua-130550447)
+-  |  | 
+- 17:57 [Un aparatoso accidente entre cuatro turismos provoca 17 kilómetros de retenciones en la AP-7](https://www.elperiodico.com/es/videos/sociedad/aparatoso-accidente-cuatro-turismos-provoca-retenciones-ap7/130550979.shtml)
+-  |  | 
+- 17:53 [El Gobierno de Cuba intenta mostrar músculo en la calle con una marcha en apoyo a Raúl Castro mientras EEUU estrecha el cerco](https://www.elperiodico.com/es/internacional/20260522/gobierno-cuba-mostrar-musculo-calle-marcha-apoyo-raul-castro-eeuu-estrecha-cerco-130551068)
+-  |  | 
+- 17:43 [El italiano Bettiol triunfa en el Giro con Vingegaard mirando a los Alpes](https://www.elperiodico.com/es/deportes/20260522/italiano-bettiol-triunfa-giro-vingegaard-mira-alpes-130550166)
+-  |  | 
+- 17:36 [Países Bajos confirma un nuevo caso de hantavirus en un tripulante del 'MV Hondius' que desembarcó en Tenerife](https://www.elperiodico.com/es/sanidad/20260522/paises-bajos-confirma-nuevo-caso-hantavirus-mv-hondius-tenerife-130550079)
+-  |  | 
+- 17:30 [Estar algunos años sin cotizar castiga más a un autónomo que a un asalariado: “Es una anomalía del sistema”](https://www.elperiodico.com/es/economia/20260522/pensiones-autonomos-lagunas-cotizacion-discriminacion-jubilacion-dv-130548551)
+-  |  | 
+- 17:30 [Los nutricionistas alertan: retirar el gluten de la alimentación puede retrasar siete años el diagnóstico de la celiaquía](https://www.elperiodico.com/es/sociedad/20260522/nutricionistas-avisan-retirar-gluten-alimentacion-retrasar-diagnostico-celiaquia-dv-130270124)
+-  |  | 
+- 17:29 [La UE ve en la crisis en Oriente Medio una razón más para diversificar su comercio](https://www.elperiodico.com/es/internacional/20260522/ue-ve-crisis-oriente-medio-diversificar-comercio-130550113)
+-  |  | 
+- 17:28 [El Espanyol despide la Liga con una fiesta ante la Real Sociedad: "Sería bonito acabar con un nueve de nueve"](https://www.elperiodico.com/es/deportes/20260522/espanyol-despide-liga-fiesta-real-130549074)
+-  |  | 
+- 17:26 [Zapatero, de ti no lo esperábamos](https://www.elperiodico.com/es/opinion/20260522/zapatero-no-lo-esperabamos-130410643)
+-  |  | 
+- 17:23 [Michel y el Girona, en la hora límite: la permanencia o el descenso a Segunda](https://www.elperiodico.com/es/deportes/20260522/michel-girona-hora-limite-permanencia-130532559)
+-  |  | 
+- 17:13 [Rodalies recuperó un millón de viajeros en abril y superó los registros del mismo mes del año pasado](https://www.elperiodico.com/es/sociedad/20260522/rodalies-renfe-recupero-millon-viajeros-abril-supero-registros-2025-cataluna-130528822)
+-  |  | 
+- 17:08 [La periodista catalana Àngels Barceló abandona la Cadena SER](https://www.elperiodico.com/es/tele/20260522/angels-barcelo-abandona-cadena-ser-130548899)
+-  |  | 
+- 17:06 [Enrique Riquelme explica su candidatura al Real Madrid frente a Florentino: “Recuperaremos los valores del club”](https://www.elperiodico.com/es/videos/deportes/enrique-riquelme-explica-candidatura-real-madrid/130548895.shtml)
+-  |  | 
+- 17:01 [Rodríguez Zapatero. El final del optimismo](https://www.elperiodico.com/es/opinion/20260522/rodriguez-zapatero-final-optimismo-130547670)
+-  |  | 
+- 16:58 [Los Mossos se integran en el órgano que se dedica a recuperar bienes y ganancias de delincuentes](https://www.elperiodico.com/es/sociedad/20260522/mossos-integran-organo-dedica-recuperar-bienes-delitos-130548378)
+-  |  | 
+- 16:47 [Gabo y Cuba en el corazón](https://www.elperiodico.com/es/opinion/20260522/gabo-cuba-corazon-130546347)
+-  |  | 
+- 16:44 [Penélope Cruz revela el momento más “surrealista” del rodaje de ‘La bola negra’: “No me desmayé de milagro”](https://www.elperiodico.com/es/videos/ocio-y-cultura/penelope-cruz-revela-momento-surrealista/130548025.shtml)
+-  |  | 
+- 16:44 [Josep Pallarès o Domènec Puig: cerca de 20.000 personas están llamadas a escoger al nuevo rector de la URV de Tarragona](https://www.elperiodico.com/es/tarragona/20260522/josep-pallares-o-domenec-puig-130546850)
+-  |  | 
+- 16:32 [Julieta Venegas brinda un dulce y vivaz homenaje a sus raíces en 'Norteña'](https://www.elperiodico.com/es/ocio-y-cultura/20260522/julieta-venegas-nortena-critica-disco-130540045)
+-  |  | 
+- 16:32 [Iniesta inicia su etapa como entrenador en Dubái](https://www.elperiodico.com/es/deportes/20260522/iniesta-inicia-etapa-entrenador-dubai-130547004)
+-  |  | 
+- 16:22 [Colas para el concierto de Bad Bunny en el Palau Sant Jordi.](https://www.elperiodico.com/es/fotos/en-imagenes/colas-concierto-bad-bunny-palau-130547026)
+-  |  | 
+- 16:12 [Así es el nuevo Tiggo 9 CHS de Lewandowski y este es el 'gemelo' que te podrás comprar en España](https://www.elperiodico.com/es/motor/20260522/nuevo-tiggo-9-chs-lewandowski-ebro-s900-130540991)
+-  |  | 
+- 16:10 [Los 13 españoles aislados en el Gómez Ulla podrán guardar cuarentena en sus casas a partir del 7 de junio](https://www.elperiodico.com/es/sociedad/20260522/espanoles-hantavirus-cuarentena-casas-domicilio-130545258)
+-  |  | 
+- 16:08 [Videos | Los familiares de los detenidos por el crimen de Francisca Cadenas abandonan el juzgado](https://www.elperiodico.com/es/videos/sociedad/videos-pasa-disposicion-judicial-detenido/130546475.shtml)
+-  |  | 
+- 16:05 [Barcelona se llena de pianos con una iniciativa de la Fundación Occident y el Concurso Internacional María Canals.](https://www.elperiodico.com/es/fotos/sociedad/barcelona-llena-pianos-iniciativa-fundacion-130546002)
+-  |  | 
+- 16:00 [Hablar sin miedo del trastorno límte de personalidad](https://www.elperiodico.com/es/ser-feliz/20260522/hablar-miedo-trastorno-limte-personalidad-130446863)
+-  |  | 
+- 15:58 [El Gobierno activa ayudas de hasta 15.000 euros para jóvenes que compren vivienda en pueblos](https://www.elperiodico.com/es/economia/20260522/gobierno-ayudas-15000-euros-jovenes-comprar-vivienda-pueblos-dv-130545105)
+-  |  | 
+- 15:57 ["Acuerdo histórico" entre Spotify y Universal: la plataforma ofrecerá una herramienta para remezclar canciones con IA](https://www.elperiodico.com/es/ocio-y-cultura/20260522/spotify-ofrecera-herramienta-remezclar-inteligencia-artificial-ia-canciones-130545560)
+-  |  | 
+- 15:52 [Análisis gráfico del auto sobre la muerte de Isak Andic: el lugar de la caída](https://www.elperiodico.com/es/videos/sociedad/analisis-grafico-auto-muerte-isak/130545669.shtml)
+-  |  | 
+- 15:51 [Análisis gráfico del auto sobre la muerte de Isak Andic: el único punto donde la caída es mortal](https://www.elperiodico.com/es/videos/sociedad/analisis-grafico-auto-muerte-isak/130545638.shtml)
 -  |  | 
 - 15:21 [La marca catalana de moda Batech estrena tienda insignia en el Eixample de Barcelona](https://www.elperiodico.com/es/barcelona/20260522/marca-barcelonesa-moda-masculina-batech-abre-tienda-insignia-eixample-130450438)
 -  |  | 
@@ -290,6 +410,8 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 -  |  | 
 - 09:59 [El editor Luis Solano, en el videopódcast del suplemento ABRIL: “En la librería muchas veces levantas el libro por la cubierta”](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260522/editor-luis-solano-videopodcast-suplemento-abril-130412857)
 -  |  | 
+- 09:51 [Puig se hunde un 13% y Estée Lauder se dispara un 12% al frustrarse la fusión](https://www.elperiodico.com/es/economia/20260522/puig-hunde-14-bolsa-cancelar-130526175)
+-  |  | 
 - 09:50 [El FMI urge a España a liberar suelo y agilizar licencias para frenar el encarecimiento de la vivienda](https://www.elperiodico.com/es/economia/20260522/fmi-urge-espana-liberar-suelo-agilizar-licencias-frenar-encarecimiento-vivienda-130526164)
 -  |  | 
 - 09:47 [La grave enfermedad que pasa desapercibida y crece cada vez más: "Me decían que no tenía nada y llegué a pensar que era cáncer"](https://www.elperiodico.com/es/salud/20260522/carlos-paciente-esofagitis-eosinofilica-seis-anos-sin-diagnostico-117698404)
@@ -325,6 +447,8 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 - 08:01 [25 de mayo: ¿Dónde es festivo la Segunda Pascua en Barcelona y Catalunya?](https://www.elperiodico.com/es/catalunya/20260522/festivo-25-mayo-segunda-pascua-barcelona-cataluna-dv-loc-130505771)
 -  |  | 
 - 08:01 [Dos millonarios quieren llevar la Fórmula 1 a un pueblo de 4.000 habitantes](https://www.elperiodico.com/es/motor/20260522/millonarios-quieren-llevar-formula-1-pueblo-4000-habitantes-130495135)
+-  |  | 
+- 08:01 [Sergi López, actor en 'Ravalear': "La inmigración y la pobreza se expulsan de las ciudades para convertir el centro en un parque temático, como a veces parece Barcelona"](https://www.elperiodico.com/es/tele/20260522/sergi-lopez-ravalear-ravalejar-serie-hbo-130397872)
 -  |  | 
 - 07:00 [Haz tu propio bikini en 1 hora en Barcelona: así funciona el Bikini Lab más viral](https://www.elperiodico.com/es/que-hacer/planes/20260522/bikini-lab-barcelona-viral-personaliza-online-camila-130510962)
 -  |  | 
