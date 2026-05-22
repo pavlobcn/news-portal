@@ -1,8 +1,44 @@
-# News for 2026-05-22 2026-05-22 22:17
+# News for 2026-05-22 2026-05-22 23:39
 
 Previous day: [2026-05-21](./data/2026-05-21.md)
 
 ## ua.korrespondent.net
+-  |  | Росія новини
+- 23:20 [У Новоросійську після атаки палає порт – соцмережі](https://ua.korrespondent.net/world/russia/4880771-u-novorosiisku-pislia-ataky-palaie-port-sotsmerezhi)
+-  |  | Новини України
+- 22:52 [Україна та РФ домовлися про евакуацію цивільних із району Олешок](https://ua.korrespondent.net/ukraine/4880769-ukraina-ta-rf-domovlysia-pro-evakuatsiui-tsyvilnykh-iz-raionu-oleshok)
+-  |  | Новини світу
+- 22:24 [В резиденції Макрона відбулися обшуки](https://ua.korrespondent.net/world/4880765-v-rezydentsii-makrona-vidbulysia-obshuky)
+-  |  | Новини футболу
+- 22:23 [Вірус Ебола вносить свої корективи в чемпіонат світу 2026 року](https://ua.korrespondent.net/sport/football/4880767-virus-ebola-vnosyt-svoi-korektyvy-v-chempionat-svitu-2026-roku)
+-  |  | Новини економіки
+- 21:44 [Угорщина заборонила імпорт української агропродукції](https://ua.korrespondent.net/business/economics/4880763-uhorschyna-zaboronyla-import-ukrainskoi-ahroproduktsii)
+-  |  | Новини світу
+- 21:34 [Рубіо назвав "тривожними" заяви РФ щодо Балтії](https://ua.korrespondent.net/world/4880759-rubio-nazvav-tryvozhnymy-zaiavy-rf-schodo-baltii)
+-  |  | Новини футболу
+- 21:32 [Боруссія з Менхенгладбаха прийме захисника Шахтаря](https://ua.korrespondent.net/sport/football/4880760-borussiia-z-menkhenhladbakha-pryime-zakhysnyka-shakhtaria)
+-  |  | Новини світу
+- 21:17 [Глава Нацрозвідки США подала у відставку](https://ua.korrespondent.net/world/4880757-hlava-natsrozvidky-ssha-podala-u-vidstavku)
+-  |  | Новини України
+- 20:59 [Справа "порноофісів": четверо поліціянтів вийшли під заставу](https://ua.korrespondent.net/ukraine/4880753-sprava-pornoofisiv-chetvero-politsiiantiv-vyishly-pid-zastavu)
+-  |  | Новини футболу
+- 20:49 [Відомий німецький нападник завершує професійну кар'єру](https://ua.korrespondent.net/sport/football/4880754-vidomyi-nimetskyi-napadnyk-zavershuie-profesiinu-karieru)
+-  |  | Новини науки
+- 20:41 [Другий Т. Рекс: Американські вчені дали ім'я нововиявленому хижаку](https://ua.korrespondent.net/tech/science/4880751-druhyi-t-reks-amerykanski-vcheni-daly-imia-novovyiavlenomu-khyzhaku)
+-  |  | Новини України
+- 20:39 [Уряд змінив правила бронювання](https://ua.korrespondent.net/ukraine/4880749-uriad-zminyv-pravyla-bronuivannia)
+-  |  | Новини світу
+- 20:28 [ЄС застосовуватиме санкції за блокування Ормузу](https://ua.korrespondent.net/world/4880745-yes-zastosovuvatyme-sanktsii-za-blokuvannia-ormuzu)
+-  |  | Гаджети
+- 20:26 [Lenovo представила два потужних планшети](https://ua.korrespondent.net/lifestyle/gadgets/4880747-Lenovo-predstavyla-dva-potuzhnykh-planshety)
+-  |  | Новини компаній
+- 20:09 [Україна скоротила виплавку сталі на 25% у квітні](https://ua.korrespondent.net/business/companies/4880742-ukraina-skorotyla-vyplavku-stali-na-25-u-kvitni)
+-  |  | Новини України
+- 19:57 [Загроза з Білорусі: куди і коли може вдарити ворог](https://ua.korrespondent.net/ukraine/4880741-zahroza-z-bilorusi-kudy-i-koly-mozhe-vdaryty-voroh)
+-  |  | Новини світу
+- 19:46 [Посланець США зробив заяву про нафту Гренландії](https://ua.korrespondent.net/world/4880737-poslanets-ssha-zrobyv-zaiavu-pro-naftu-hrenlandii)
+-  |  | Новини бізнесу
+- 19:34 [PlayCity оштрафувало організатора азартних ігор на ₴4,3 млн](https://ua.korrespondent.net/business/4880735-PlayCity-oshtrafuvalo-orhanizatora-azartnykh-ihor-na-43-mln)
 -  |  | Новини України
 - 18:00 [У МЗС назвали, від чого залежатиме зустріч Зеленського і Мадяра](https://ua.korrespondent.net/ukraine/4880711-u-mzs-nazvaly-vid-choho-zalezhatyme-zustrich-zelenskoho-i-madiara)
 -  |  | Кіно новини
@@ -132,6 +168,24 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 
 ## as.com
 -  |  | Baloncesto
+- 23:25 [Resumen del Valencia Basket vs. Real Madrid, semifinales de Euroliga](https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-real-madrid-semifinales-de-euroliga-f202605-v/)
+-  |  | Baloncesto
+- 23:25 [Resumen del Valencia Basket vs. Real Madrid, semifinales de Euroliga](https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-real-madrid-semifinales-de-euroliga-f202605-v/)
+-  |  | Baloncesto
+- 23:25 [Resumen del Valencia Basket vs. Real Madrid, semifinales de Euroliga](https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-real-madrid-semifinales-de-euroliga-f202605-v/)
+-  |  | Baloncesto
+- 23:25 [Resumen del Valencia Basket vs. Real Madrid, semifinales de Euroliga](https://as.com/videos/euroliga/resumen-del-valencia-basket-vs-real-madrid-semifinales-de-euroliga-f202605-v/)
+-  |  | Real Madrid baloncesto
+- 23:21 [El Madrid enseñó el escudo](https://as.com/opinion/el-madrid-enseno-el-escudo-f202605-n/)
+-  |  | Baloncesto
+- 23:13 [Scariolo: “Sin Garuba creo que responderemos bien”](https://as.com/baloncesto/euroliga/scariolo-sin-garuba-creo-que-responderemos-bien-f202605-n/)
+-  |  | Baloncesto
+- 23:13 [Martínez: “El rebote defensivo nos ha ralentizado nuestro juego”](https://as.com/baloncesto/euroliga/martinez-el-rebote-defensivo-nos-ha-ralentizado-nuestro-juego-f202605-n/)
+-  |  | Baloncesto
+- 22:31 [Aprobados y suspensos del Madrid: el ritmo de Hezonja, el dolor por Garuba](https://as.com/baloncesto/euroliga/aprobados-y-suspensos-del-madrid-el-ritmo-de-hezonja-el-dolor-por-garuba-f202605-n/)
+-  |  | Baloncesto
+- 22:27 [El Madrid lo borda y peleará por el viejo trono de Europa](https://as.com/baloncesto/euroliga/el-madrid-lo-borda-y-peleara-por-el-viejo-trono-de-europa-f202605-n/)
+-  |  | Baloncesto
 - 22:06 [Garuba, lesionado en las semifinales](https://as.com/baloncesto/euroliga/garuba-lesionado-en-las-semifinales-f202605-n/)
 -  |  | Baloncesto
 - 22:00 [Si vuelves así de loco al locutor es que Campazzo ha vuelto a hacer una locura: “¡Oh, Dios mío!"](https://as.com/videos/euroliga/si-vuelves-asi-de-loco-al-locutor-es-que-campazzo-ha-vuelto-a-hacer-una-locura-oh-dios-mio-f202605-v/)
@@ -175,6 +229,22 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 - 06:34 [La sensación contra el Rey en un duelo de ensueño](https://as.com/baloncesto/euroliga/la-sensacion-contra-el-rey-en-un-duelo-de-ensueno-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 23:18 [Bad Bunny desata la fiebre y el orgullo latino en una noche para la historia en el Estadi Olímpic](https://www.elperiodico.com/es/ocio-y-cultura/20260522/bad-bunny-desata-fiebre-orgullo-latino-noche-barcelona-estadi-olimpic-critica-130560017)
+-  |  | 
+- 23:04 [Muere un joven ahogado al auxiliar a una persona en una playa de Huelva](https://www.elperiodico.com/es/sucesos/20260522/muere-joven-ahogado-auxiliar-persona-130559975)
+-  |  | 
+- 23:02 [Así ha sido el inicio del primer concierto de Bad Bunny en Barcelona, en imágenes](https://www.elperiodico.com/es/ocio-y-cultura/20260522/primer-concierto-bad-bunny-barcelona-imagenes-130559814)
+-  |  | 
+- 22:57 [México y la Unión Europea fortalecen su relación comercial y política ante el caos que impone Trump](https://www.elperiodico.com/es/internacional/20260522/mexico-union-europea-fortalecen-relacion-comercial-politica-caos-eeuu-trump-130559849)
+-  |  | 
+- 22:52 [Misión cumplida de UDEF, Fiscalía Anticorrupción y juez: ¡creada la trama Zapatero!](https://www.elperiodico.com/es/opinion/20260522/mision-cumplida-udef-fiscalia-anticorrupcion-130559418)
+-  |  | 
+- 22:45 [Los invitados del primer concierto de Bad Bunny en Barcelona: de Lamine Yamal al 'Yo perreo sola' de Bad Gyal](https://www.elperiodico.com/es/ocio-y-cultura/20260522/invitados-primer-concierto-bad-bunny-130559260)
+-  |  | 
+- 22:44 [Ayuso inicia un año de precampaña autonómica pidiendo elecciones generales: "Señor Sánchez, usted está obligado a irse a su casa"](https://www.elperiodico.com/es/politica/20260522/ayuso-inicia-ano-precampana-autonomica-130559707)
+-  |  | 
+- 22:24 [Unos presupuestos para la estabilidad](https://www.elperiodico.com/es/opinion/20260522/presupuestos-estabilidad-130558749)
 -  |  | 
 - 22:17 [Carme Sánchez, sexóloga: "Una mujer me contó que había tenido su primer orgasmo con 75 años"](https://www.elperiodico.com/es/sociedad/20260522/mujeres-mayores-sexo-vejez-disfrutar-primer-orgasmo-129826466)
 -  |  | 
