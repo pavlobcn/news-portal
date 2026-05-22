@@ -1,6 +1,78 @@
 [
   {
     "item": {
+      "title": "Президент Сербії анонсував дострокові вибори до парламенту",
+      "link": "https://ua.korrespondent.net/world/4880501-prezydent-serbii-anonsuvav-dostrokovi-vybory-do-parlamentu",
+      "pubDate": "2026-05-22 01:59:00",
+      "category": "Новини світу",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4438027.jpg\">Вибори до сербського парламенту можуть стати п'ятими в Сербії за 10 років, пише Bloomberg."
+    }
+  },
+  {
+    "item": {
+      "title": "Дрони атакували Ярославль: траса на Москву закрита",
+      "link": "https://ua.korrespondent.net/world/russia/4880499-drony-atakuvaly-yaroslavl-trasa-na-moskvu-zakryta",
+      "pubDate": "2026-05-22 01:41:00",
+      "category": "Росія новини",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4438017.jpg\">Місцеві жителі налічили в Ярославлі близько 20 вибухів, повідомляє російський Telegram-канал Shot."
+    }
+  },
+  {
+    "item": {
+      "title": "Сибіга: Нині відбувається переломний момент війни",
+      "link": "https://ua.korrespondent.net/ukraine/4880497-sybiha-nyni-vidbuvaietsia-perelomnyi-moment-viiny",
+      "pubDate": "2026-05-22 00:58:00",
+      "category": "Новини України",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4437983.jpg\">\"Новий поштовх\" необхідний сьогодні в спільних зусиллях заради миру, наголосив голова МЗС України."
+    }
+  },
+  {
+    "item": {
+      "title": "Трамп і Нетаньягу зітнулися через Іран - CNN",
+      "link": "https://ua.korrespondent.net/world/4880495-tramp-i-netaniahu-zitnulysia-cherez-iran-CNN",
+      "pubDate": "2026-05-22 00:36:00",
+      "category": "Новини світу",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4437973.jpg\">Анонсоване лідером США продовження переговорів  Тегераном викликало невдоволення прем'єр-міністра Ізраїлю."
+    }
+  },
+  {
+    "item": {
+      "title": "Huelga de profesores en Barcelona y Catalunya: Cuándo es el próximo día y calendario al completo",
+      "link": "https://www.elperiodico.com/es/sociedad/20260522/huelga-profesores-barcelona-catalunya-calendario-paro-general-dv-130131145",
+      "pubDate": "2026-05-22 00:05:00",
+      "category": "",
+      "description": "<h2 class=\"item\">El actual ciclo de movilizaciones prevé tres huelgas en la educación en toda Catalunya y dos jornadas adicionales por territorio, además de dos manifestaciones en Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260521/huelga-profesores-ultima-hora-directo-130098594\">Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos</a></h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "La portada de EL PERIÓDICO del 22 de mayo de 2026",
+      "link": "https://www.elperiodico.com/es/sociedad/20260521/portada-periodico-22-mayo-2026-130518857",
+      "pubDate": "2026-05-21 23:59:45",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "El momento de defender un legado: el desenlace total de LALIGA EA SPORTS y LALIGA HYPERMOTION",
+      "link": "https://www.elperiodico.com/es/deportes/20260521/momento-defender-legado-desenlace-total-bc-130518903",
+      "pubDate": "2026-05-21 23:59:38",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "США перекинуть у Польщу 5000 військових - Трамп",
+      "link": "https://ua.korrespondent.net/world/4880491-ssha-perekynut-u-polschu-5000-viiskovykh-tramp",
+      "pubDate": "2026-05-21 23:58:00",
+      "category": "Новини світу",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4437962.jpg\">Американський лідер пов'язав своє рішення з перемогою на президентських виборах Кароля Навроцького, які пройшли ще торік."
+    }
+  },
+  {
+    "item": {
       "title": "Росія планує захопити Суми чи Харків - ДШВ",
       "link": "https://ua.korrespondent.net/ukraine/4880487-rosiia-planuie-zakhopyty-sumy-chy-kharkiv-dshv",
       "pubDate": "2026-05-21 23:38:00",
@@ -2732,47 +2804,11 @@
   },
   {
     "item": {
-      "title": "La asamblea de la ONU aprueba una resolución histórica para exigir responsabilidades legales a los países contaminantes",
-      "link": "https://www.elperiodico.com/es/sociedad/20260520/asamblea-onu-resolucion-historica-responsabilidad-climatica-cambio-climatico-130474739",
-      "pubDate": "2026-05-20 23:35:16",
-      "category": "",
-      "description": "<h2 class=\"item\">Un total de 141 países han apoyado la resolución en la que se establece que los combustibles fósiles están en el centro del daño climático y su explotación continuada supone \"una violación del derecho internacional\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250723/tribunal-internacional-haya-juicio-climatico-veredicto-119982648\">\"Juicio climático del siglo\": el tribunal de La Haya dicta por primera vez que los países están \"legalmente obligados\" a frenar la crisis climática</a></h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Luis Enrique en París: “No quiero ser el abuelo cebolleta entrenando… Espero no verme más allá de los sesenta años”",
-      "link": "https://www.elperiodico.com/es/deportes/20260520/luis-enrique-paris-quiero-abuelo-130473883",
-      "pubDate": "2026-05-20 23:32:55",
-      "category": "",
-      "description": "<h2>\"Si el año pasado me dices que íbamos a jugar otra final de Champions… no me lo habría creído\", afirma el técnico del PSG </h2>"
-    }
-  },
-  {
-    "item": {
       "title": "El Joventut remonta al Tenerife y sella el billete para el playoff",
       "link": "https://as.com/baloncesto/acb/el-joventut-remonta-al-tenerife-y-sella-el-billete-para-el-playoff-f202605-n/",
       "pubDate": "2026-05-20 23:28:09",
       "category": "Baloncesto",
       "description": "La Penya se impone en la prórroga con un tapón providencial de Ricky Rubio en un encuentro aplazado de la jornada 30."
-    }
-  },
-  {
-    "item": {
-      "title": "Unai Emery gana con el Aston Villa su quinta Europa League",
-      "link": "https://www.elperiodico.com/es/deportes/20260520/friburgo-aston-villa-europa-league-final-130474559",
-      "pubDate": "2026-05-20 22:57:04",
-      "category": "",
-      "description": "<h2>El equipo de Birmingham aplasta sin piedad al Friburgo (0-3), reforzando el legendario idilio del entrenador guipuzcoano con esta competición</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "El Barça celebra la Liga con una cena en Castelldefels por todo lo alto: Laporta, aclamado; Araujo, teñido de azul, Lamine, con su nueva novia...",
-      "link": "https://www.elperiodico.com/es/deportes/20260520/barca-celebra-liga-cena-casteldefels-130473464",
-      "pubDate": "2026-05-20 22:06:08",
-      "category": "",
-      "description": "<h2 class=\"item\">Jugadores, cuerpo técnico y directivos se dan cita en un restaurante para despedir la temporada.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260520/mensaje-fermin-perderse-mundial-vida-130456447\" target=\"_blank\">El mensaje de Fermín tras perderse el Mundial: \"La vida y el fútbol son crueles\"</a></h2>"
     }
   },
   {
@@ -2795,92 +2831,11 @@
   },
   {
     "item": {
-      "title": "Bad Bunny x Zara: las seis mejores prendas de 'Benito Antonio', la exclusiva colección del astro puertorriqueño con el gigante de la moda",
-      "link": "https://www.elperiodico.com/es/gente/20260520/zara-bad-bunny-ropa-benito-antonio-130348699",
-      "pubDate": "2026-05-20 21:32:00",
-      "category": "",
-      "description": "<h2>Tras vestir del gigante de Inditex en la Super Bowl y la Met Gala, el actual rey del pop lanza una cápsula en comandita con la archiconocida firma: analizamos el lanzamiento, pura mezcla de estética urbana, guiños deportivos y nostalgia caribeña. Estará a la venta ('online') justo antes de sus conciertos en Barcelona y Madrid</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Rufián pone condiciones a ERC para volver a ser candidato y a la vez se ofrece a liderar un nuevo espacio de izquierda en España",
-      "link": "https://www.elperiodico.com/es/politica/20260520/esquerra-republicana-gabriel-rufian-130472958",
-      "pubDate": "2026-05-20 21:17:42",
-      "category": "",
-      "description": "<h2 class=\"item\">Se presenta \"dispuesto\" a liderar un nuevo espacio de izquierdas en las próximas elecciones generales</h2><h2 class=\"item\">El dirigente republicano afirma que \"si estuviéramos ante la 'Gürtel' del PSOE sería coherente cargarnos al Gobierno\"</h2>"
-    }
-  },
-  {
-    "item": {
       "title": "La prioridad, el 'seny'",
       "link": "https://www.elperiodico.com/es/opinion/20260520/prioridad-seny-130471948",
       "pubDate": "2026-05-20 21:06:20",
       "category": "",
       "description": "<h2>El president Illa y Oriol Junqueras pactan los presupuestos de 2026, garantizan la estabilidad política y abren una nueva perspectiva</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Jonathan Andic entregó a los Mossos un iPhone sin los Whatsapps anteriores a la muerte de su padre",
-      "link": "https://www.elperiodico.com/es/sociedad/20260520/jonathan-andic-mango-movil-iphone-sin-whatsapp-130469603",
-      "pubDate": "2026-05-20 21:00:59",
-      "category": "",
-      "description": "<h2 class=\"item\">El hijo del fundador de Mango declaró que le robarón su móvil en Ecuador en un viaje relámpago en marzo de 2025</h2><h2 class=\"item\">Al adquirir uno nuevo no recuperó las conversaciones del antiguo, por lo que la policía no tiene los mensajes previos a esa fecha</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260520/jonathan-andic-pedira-volver-declarar-juzgado-martorell-mango-130470683\" target=\"_blank\">Jonathan Andic pedirá volver a declarar ante la jueza para rebatir las \"graves imprecisiones\" de Mossos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260520/jueza-prision-jonathan-andic-mango-resbalon-descartado-odio-al-padre-planificacion-130442786\" target=\"_blank\">Las pruebas que acorralan a Jonathan Andic: resbalón descartado, \"odio al padre\" y planificación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260519/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411\">Jonathan Andic, hijo del empresario y fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo</a></h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "La centenaria pastelería Ideal de Barcelona se despedirá con una fiesta popular en Gràcia",
-      "link": "https://www.elperiodico.com/es/barcelona/20260520/pasteleria-ideal-gracia-despedira-fiesta-cierre-jubilacion-dv-130469710",
-      "pubDate": "2026-05-20 20:05:52",
-      "category": "",
-      "description": "<h2 class=\"item\">El histórico establecimiento hará una celebración el 23 de mayo y sus titulares prevén bajar la persiana el 31 por jubilación si no logran traspasarlo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260519/cierre-pastisseria-ideal-gracia-barcelona-1919-dv-128442472\">Adiós a una panadería histórica de Barcelona: cierra la Pastisseria Ideal de Gràcia tras más de 100 años de historia</a></h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Bad Bunny, cazado en un céntrico hotel de Barcelona antes de sus conciertos en el Estadi Olímpic",
-      "link": "https://www.elperiodico.com/es/gente/20260520/bad-bunny-cazado-centrico-hotel-130470063",
-      "pubDate": "2026-05-20 19:59:46",
-      "category": "",
-      "description": ""
-    }
-  },
-  {
-    "item": {
-      "title": "¿Hay un desmoronamiento institucional?",
-      "link": "https://www.elperiodico.com/es/opinion/20260520/hay-desmoronamiento-institucional-130465899",
-      "pubDate": "2026-05-20 19:00:34",
-      "category": "",
-      "description": "<h2>En un escenario de cambio profundo de mentalidad, la sociedad de hoy cuestiona aquello que generaciones anteriores aceptaban casi como verdades indiscutibles</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Crítica de ‘The Mandalorian and Grogu’: televisión en pantalla grande",
-      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260520/critica-the-mandalorian-and-grogu-television-pantalla-grande-130467769",
-      "pubDate": "2026-05-20 18:43:56",
-      "category": "",
-      "description": "<h2 class=\"item\">Pese a ver la luz a modo de continuación de tres temporadas de ficción televisiva cargadas de densa mitología, la película presenta una historia tan simple y directa que apenas requiere conocimientos previos del universo en el que transcurre</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Una boda a los 90 años, bajo sospecha de estafa: piden tres años y medio de cárcel por apropiarse de 100.000 euros tras el matrimonio",
-      "link": "https://www.elperiodico.com/es/sucesos/20260520/boda-90-anos-sospecha-estafa-tres-anos-hija-esposa-apropiarse-100000-euros-dv-130259210",
-      "pubDate": "2026-05-20 18:30:00",
-      "category": "",
-      "description": "<h2>La Fiscalía pide tres años y medio a los responsables de una inmobiliaria por apropiarse de 100.000 euros tras el matrimonio de la víctima con la madre de una de las acusadas</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Sánchez, acabado una vez más",
-      "link": "https://www.elperiodico.com/es/opinion/20260520/sanchez-acabado-vez-130464520",
-      "pubDate": "2026-05-20 18:06:14",
-      "category": "",
-      "description": "<h2>El presidente del Gobierno se encuentra en una situación delicada tras la imputación de Zapatero, aunque ya ha superado crisis similares</h2>"
     }
   },
   {
@@ -2948,56 +2903,11 @@
   },
   {
     "item": {
-      "title": "Exposición 'El culto a la belleza' en el CCCB",
-      "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/exposicion-culto-belleza-cccb-fotos-130452326",
-      "pubDate": "2026-05-20 14:00:39",
-      "category": "",
-      "description": ""
-    }
-  },
-  {
-    "item": {
       "title": "La Copa Colegial finaliza la primera edición del 2-Ball Inclusivo ABC",
       "link": "https://as.com/baloncesto/mas_baloncesto/la-copa-colegial-finaliza-la-primera-edicion-del-2-ball-inclusivo-abc-f202605-n/",
       "pubDate": "2026-05-20 13:41:54",
       "category": "Baloncesto",
       "description": "El espectacular torneo estrenó un nuevo formato inclusivo que se juega en parejas y que se celebró en el Colegio San Agustín."
-    }
-  },
-  {
-    "item": {
-      "title": "Iolanda Segura, portavoz de USTEC-STEs: «Las colonias se sostienen por el voluntarismo de los docentes»",
-      "link": "https://www.elperiodico.com/es/sociedad/20260520/iolanda-segura-portavoz-ustec-stes-130450620",
-      "pubDate": "2026-05-20 13:37:10",
-      "category": "",
-      "description": "<h2>La portavoz de USTEC-STEs defiende que las colonias y otras actividades fuera del horario escolar suponen una carga que afecta incluso a la vida personal y familiar de los docentes y que, además, no la ven recompensada</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "Mañana se esperan colas kilométricas en Lidl para hacerse con la potente máquina de coser de Singer que es la más barata del mercado:  tiene un descuento de casi el 70 %",
-      "link": "https://www.elperiodico.com/es/shopping/20260520/manana-esperan-colas-kilometricas-lidl-maquina-coser-singer-130380438",
-      "pubDate": "2026-05-20 13:01:03",
-      "category": "",
-      "description": "<h2>Una oportunidad única para hacerte con ella</h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "¿Por qué la jueza deja en libertad con fianza a Jonathan Andic si lo acusa de homicidio?",
-      "link": "https://www.elperiodico.com/es/sociedad/20260520/jonathan-andic-por-que-libertad-fianza-acusacion-homicidio-auto-jueza-130442786",
-      "pubDate": "2026-05-20 12:20:00",
-      "category": "",
-      "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260520/jueza-prision-jonathan-andic-mango-resbalon-descartado-odio-al-padre-planificacion-130442786\" target=\"_blank\">Las pruebas que acorralan a Jonathan Andic: resbalón descartado, \"odio al padre\" y planificación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260520/fundacion-mango-isak-movil-jonathan-andic-130426027\" target=\"_blank\">La ‘Fundación Mango’ que Isak Andic quiso montar y acabó de separarle de su hijo Jonathan Andic</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260519/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411\">Jonathan Andic, hijo del empresario y fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo</a></h2>"
-    }
-  },
-  {
-    "item": {
-      "title": "La Policía Nacional expulsa a Marruecos y Gambia siete multirreincidentes que actuaban en Girona",
-      "link": "https://www.elperiodico.com/es/sucesos/20260520/policia-nacional-expulsa-marruecos-gambia-multirreincidentes-130441854",
-      "pubDate": "2026-05-20 11:07:48",
-      "category": "",
-      "description": "<h2>Los sospechosos, con 100 antecedentes, causaban \"gran alarma social\" según los agentes </h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20251114/expulsados-multirreincidentes-extranjeros-espana-cataluna-123719803\">Expulsados de España 16 multirreincidentes por múltiples delitos cometidos en Catalunya</a></h2>"
     }
   },
   {
@@ -3042,9 +2952,7 @@
       "link": "https://www.elperiodico.com/es/sociedad/20260520/preocupacion-casas-colonias-amenaza-docentes-130439603",
       "pubDate": "2026-05-20 10:19:10",
       "category": "",
-      "description": "<h2 class=\"item\">Los gestores de casas aseguran que las colonias les suponen entre el 70% y el 80% de su facturación anual, de manera que si los profesores se niegan a hacerlas el curso que viene experimentarán «un batacazo muy grande»</h2><h2 class=\"item\">«Entendemos las quejas de los docentes, pero nosotros no somos quienes debemos sufrir las consecuencias», manifiestan agentes del sector</h2>",
-      "topic": "",
-      "topic_match_probability": 0
+      "description": "<h2 class=\"item\">Los gestores de casas aseguran que las colonias les suponen entre el 70% y el 80% de su facturación anual, de manera que si los profesores se niegan a hacerlas el curso que viene experimentarán «un batacazo muy grande»</h2><h2 class=\"item\">«Entendemos las quejas de los docentes, pero nosotros no somos quienes debemos sufrir las consecuencias», manifiestan agentes del sector</h2>"
     }
   },
   {
@@ -3085,15 +2993,6 @@
   },
   {
     "item": {
-      "title": "Restaurante Mineral: barra para 20 personas, brasa y 'mochi' de pollo a la catalana",
-      "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260520/restaurante-mineral-barcelona-130263381",
-      "pubDate": "2026-05-20 07:47:31",
-      "category": "",
-      "description": "<h2 class=\"item\">Oliver Peña y Cristina Losada afrontan su primer negocio después de una vida en la hostelería: una barra donde explorar la <a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260302/mejores-restaurantes-nueva-cocina-catalana-barcelona-114262685\">‘nova cuina catalana’</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260218/mejores-barras-restaurantes-barcelona-estrellas-108049427\">Las mejores barras de restaurantes de Barcelona (sin contar los que tienen estrellas)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20241017/mejores-barras-restaurantes-estrellas-michelin-barcelona-108361706\">Las mejores barras con estrellas de Barcelona</a></h2>"
-    }
-  },
-  {
-    "item": {
       "title": "'Pubertat': una serie muy necesaria",
       "link": "https://www.elperiodico.com/es/tele/20260520/pubertat-serie-necesaria-130413630",
       "pubDate": "2026-05-20 07:00:21",
@@ -3117,9 +3016,7 @@
       "pubDate": "2026-05-19 23:59:55",
       "category": "",
       "description": "<h2 style=\"text-align: justify;\">La sostenibilidad en la escalada evoluciona más allá del entorno natural y se integra en todo el ecosistema del deporte. World Climbing impulsa este cambio con iniciativas concretas que redefinen el impacto de las competiciones y su futuro</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3128,9 +3025,7 @@
       "pubDate": "2026-05-19 20:31:42",
       "category": "",
       "description": "<h2>El consejero delegado de Prensa Ibérica cierra la intensa jornada del Foro con una apuesta por “unos medios de comunicación comprometidos con el desarrollo económico y social de los territorios donde estamos presentes”</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3139,9 +3034,7 @@
       "pubDate": "2026-05-19 20:18:25",
       "category": "",
       "description": "<h2>Los responsables del sector destacan la importancia del turismo rural para fijar población y dejar riqueza en el medio rural y reclaman buenas comunicaciones para facilitar la llegada de viajeros </h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3150,9 +3043,7 @@
       "pubDate": "2026-05-19 19:45:00",
       "category": "",
       "description": "<h2 style=\"text-align: justify;\">La ciencia respalda la eficacia de este suplemento de colágeno pensado para dar una mayor firmeza a la piel, estimular la pérdida de peso y mejorar la salud ósea y articular</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3161,9 +3052,7 @@
       "pubDate": "2026-05-19 19:41:01",
       "category": "",
       "description": "<h2>Los responsables de Orovalle y Minersa defienden la \"seguridad\" que blinda la regulación actual del sector, pero piden \"determinación política\" para \"aterrizarla\" y garantizar la actividad productiva de recursos críticos</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3172,9 +3061,7 @@
       "pubDate": "2026-05-19 19:28:45",
       "category": "",
       "description": "<h2 class=\"item\">El II Foro de Prensa Ibérica, una cumbre con casi doscientos líderes políticos y empresariales de Asturias, Galicia y Castilla y León, reúne a medio centenar de expertos </h2><h2 class=\"item\">Los intervinientes perfilan el futuro de una macrorregión que se presenta como ejemplo de cooperación y suma de talentos, pero que ve vital para su futuro la actualización de sus infraestructuras y una financiación autonómica que atienda su singularidad demográfica</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3183,9 +3070,7 @@
       "pubDate": "2026-05-19 18:28:41",
       "category": "Baloncesto",
       "description": "El equipo turco anuncia oficialmente su renovación por diez años con la Euroliga. Los blancos, los únicos que no han dado el paso."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3194,9 +3079,7 @@
       "pubDate": "2026-05-19 18:24:25",
       "category": "",
       "description": "<h2 class=\"item\">El estudio del Iqac-Csic y el Vhir utiliza una forma modificada de la cloroquina que se activa mediante iluminación localizada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250728/vall-hebron-primer-ciclotron-catalunya-120057317\">Vall d’Hebron instala el primer ciclotrón público de Catalunya para producir radiofármacos de alta precisión</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3205,9 +3088,7 @@
       "pubDate": "2026-05-19 18:14:45",
       "category": "",
       "description": "<h2> El horror continuará hasta que el conjunto de la sociedad sepa mirar como miró una cría de 11 años que avisó a la polícía con su móvil ante una agresión machista</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3216,9 +3097,7 @@
       "pubDate": "2026-05-19 17:42:56",
       "category": "Baloncesto",
       "description": "El equipo burgalés realizó una valoración tras el cierre definitivo del expediente relativo a las condiciones económicas de acceso a la Liga ACB."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3227,9 +3106,7 @@
       "pubDate": "2026-05-19 17:30:40",
       "category": "",
       "description": "<h2>Este divulgador científico explica detalladamente qué le ocurre al cerebro en la adolescencia</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260314/adolescencia-dispara-estres-burnout-madres-127643049\">La adolescencia dispara el 'burnout' en las madres: \"No es que te quemes, es que vives en un horno\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260317/david-bueno-adjunto-divulgacion-ub-128070000\">La UB nombra a David Bueno adjunto para la divulgación científica</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3238,9 +3115,7 @@
       "pubDate": "2026-05-19 17:06:29",
       "category": "Baloncesto",
       "description": "Ambos responden con naturalidad sobre su continuidad en el Madrid la próxima temporada y analizan la Final Four, al igual que Campazzo, Llull, Abalde, Deck y Garuba."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3249,9 +3124,7 @@
       "pubDate": "2026-05-19 15:56:07",
       "category": "Euroliga",
       "description": "Scariolo fue tajante sobre la ambición de su equipo en esta Final Four pese a las bajas de Tavares y Len: “El Madrid es el Madrid, siempre compite”."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3260,9 +3133,7 @@
       "pubDate": "2026-05-19 14:33:07",
       "category": "Baloncesto",
       "description": "El Olympiacos, más favorito que nunca, aspira a romper el gafe que persigue al líder de la fase regular. En cinco de ocho ediciones ni siquiera jugó la final."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3271,9 +3142,7 @@
       "pubDate": "2026-05-19 14:16:45",
       "category": "Vega Gimeno",
       "description": "La jugadora, que anunció hace unas semanas su retirada del baloncesto 3x3, ha sido homenajeada por el Proyecto FER."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3282,9 +3151,7 @@
       "pubDate": "2026-05-19 14:09:56",
       "category": "",
       "description": "<h2 class=\"item\">La saturación de la única vía entre Sant Vicenç de Calders y Tarragona, al 85% de su capacidad, podría obligar a trasladar las mercancías a la carretera</h2><h2 class=\"item\">COLAPSO | <a href=\"https://www.elperiodico.com/es/tarragona/20260519/movilidad-tarragona-rodalies-autopista-ap-7-reus-penedes-130393211\">Un accidente en la AP-7 en el Penedès y dos incidencias ferroviarias en el Baix Camp tensionan la movilidad en Tarragona</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3293,9 +3160,7 @@
       "pubDate": "2026-05-19 09:19:45",
       "category": "",
       "description": "<h2>La competición internacional de escalada contará con distintas opciones de movilidad y alojamiento para facilitar la llegada del público durante los cuatro días de evento</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3304,9 +3169,7 @@
       "pubDate": "2026-05-19 08:00:02",
       "category": "",
       "description": "<h2>Los cines Mooby celebran este viernes el 55º aniversario del clásico de Kubrick con una proyección especial que incluirá prefiesta de hora y media </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260518/mundo-today-barcelona-hacienda-confirma-catalan-tendra-pagar-8-57-euros-shakira-130354824\" target=\"_blank\">El Mundo Today | Hacienda confirma que cada catalán tendrá que pagar 8,57 euros a Shakira</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3315,9 +3178,7 @@
       "pubDate": "2026-05-19 07:22:05",
       "category": "Baloncesto",
       "description": "Novaschool, en categoría masculina, y Pia Santa Anna Mataró, en categoría femenina, conquistaron este domingo el estandarte nacional en una espectacular jornada final disputada en el Pabellón Veleta de Granada, sede de la quinta edición estatal del torneo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3326,9 +3187,7 @@
       "pubDate": "2026-05-19 07:03:42",
       "category": "Valencia Basket Club",
       "description": "El base de Valencia Basket es uno de los referentes del equipo y atiende a AS en la semana previa de la Final Four de la Euroliga."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3337,9 +3196,7 @@
       "pubDate": "2026-05-19 07:01:03",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3348,9 +3205,7 @@
       "pubDate": "2026-05-19 06:38:17",
       "category": "Baloncesto",
       "description": "El entrenador llega a su sexta Final Four consecutiva, la séptima en total de su carrera. Algo insólito en la historia y que el técnico ha logrado con tres equipos diferentes."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3359,9 +3214,7 @@
       "pubDate": "2026-05-19 06:37:37",
       "category": "Baloncesto",
       "description": "La asociación inicia su octava edición llena de ilusión, nuevos proyectos y más participantes. El Espinillo, flamante residencia en el horizonte."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3370,9 +3223,7 @@
       "pubDate": "2026-05-19 06:34:28",
       "category": "Baloncesto",
       "description": "Cherelle George, conocida como Torch, es una de las mejores jugadoras que jamás han visto unos Harlem Globetrotters que juegan hoy en el Movistar Arena de Madrid como colofón a una gira histórica: la del 100 aniversario."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3381,9 +3232,7 @@
       "pubDate": "2026-05-19 05:30:21",
       "category": "",
       "description": "<h2>Estas zapatillas de Skechers se han convertido en un auténtico fenómeno entre todos los que buscan la zapatilla perfecta para correr</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3392,9 +3241,7 @@
       "pubDate": "2026-05-18 22:13:58",
       "category": "Valencia Basket femenino",
       "description": "Más de un millar de aficionados se concentran en el Roig Arena para celebrar la Liga y decir adiós a una de sus estrellas."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3403,9 +3250,7 @@
       "pubDate": "2026-05-18 18:40:56",
       "category": "Xavi Pascual",
       "description": "El técnico se ha reunido con la directiva para comunicarle que pagará su cláusula de salida y saldrá del club en verano."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3414,9 +3259,7 @@
       "pubDate": "2026-05-18 14:05:09",
       "category": "",
       "description": "<h2 class=\"item\">El consistorio busca recuperar espacio público, reducir la presencia de construcciones en primera línea de mar y reordenar el paseo Jaume I</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3425,9 +3268,7 @@
       "pubDate": "2026-05-18 14:04:26",
       "category": "Baloncesto",
       "description": "El seleccionador nacional se muestra “muy contento” con lo que está viendo en el ‘training camp’ de jugadores universitarios que ha organizado la FEB."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3436,9 +3277,7 @@
       "pubDate": "2026-05-18 13:10:34",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3447,9 +3286,7 @@
       "pubDate": "2026-05-18 10:03:17",
       "category": "Baloncesto",
       "description": "Su estado de forma, las estadísticas y los hándicaps en sus rivales convierten al equipo griego en el gran aspirante a la Euroliga."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3458,9 +3295,7 @@
       "pubDate": "2026-05-18 10:02:05",
       "category": "FC Barcelona baloncesto",
       "description": "Xavi Pascual tiene ahora mismo más de un pie fuera de un Barça que puede recibir un golpe aparentemente mortal, en su planificación deportiva y en dirección como proyecto."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3469,9 +3304,7 @@
       "pubDate": "2026-05-18 02:59:48",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3480,9 +3313,7 @@
       "pubDate": "2026-05-17 23:09:17",
       "category": "Baloncesto",
       "description": "El técnico, que llegó al equipo maño el 17 de febrero, ha durado solo tres meses. Su sustituto será su ayudante Gonzalo García de Vitoria."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3491,9 +3322,7 @@
       "pubDate": "2026-05-17 22:49:06",
       "category": "Baloncesto",
       "description": "El técnico azulgrana aseguró que ahora está centrado en la temporada y que luego “se verá” tras las noticias que le colocan en Dubái la próxima temporada."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3502,9 +3331,7 @@
       "pubDate": "2026-05-17 22:17:23",
       "category": "ACB",
       "description": "El Barça de un gran Juani Marcos (18 puntos) se impuso a un Tenerife que remontó en la segunda parte y llegó con vida a los últimos minutos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3513,9 +3340,7 @@
       "pubDate": "2026-05-17 21:55:17",
       "category": "CB Canarias",
       "description": "Los azulgranas, guiados por Juani Marcos, tuvieron que pelear hasta el final"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3524,9 +3349,7 @@
       "pubDate": "2026-05-17 21:50:02",
       "category": "Baloncesto",
       "description": "Victoria agónica ante el MoraBanc Andorra, rival directo por escapar de esa penúltima plaza, con 19 puntos de Happ."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3535,9 +3358,7 @@
       "pubDate": "2026-05-17 20:39:47",
       "category": "Baloncesto",
       "description": "Los colegiales vencieron al HLA Alicante por segunda vez y están a un partido de comprar billete hacia A Coruña. Silverio, Sergi García y Nwogbo, claves."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3546,9 +3367,7 @@
       "pubDate": "2026-05-17 19:41:30",
       "category": "Baskonia",
       "description": "Un parcial de 23-7 en el segundo cuarto resultó definitivo para el triunfo del equipo de Paolo Galbiati"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3557,9 +3376,7 @@
       "pubDate": "2026-05-17 19:18:09",
       "category": "Bilbao basket",
       "description": "El Valencia Basket supera a un Bilbao Basket respondón liderado por Jaworski antes de ponerse en ‘modo Euroliga’."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3568,9 +3385,7 @@
       "pubDate": "2026-05-17 18:44:47",
       "category": "Valencia Basket femenino",
       "description": "El equipo femenino ha conquistado su cuarta Liga consecutiva antes de un verano con muchos cambios."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3579,9 +3394,7 @@
       "pubDate": "2026-05-17 18:33:14",
       "category": "Baloncesto",
       "description": "El conjunto de Javi Juárez bate al Barça en una final igualadísima y se corona como el primer campeón de la historia de la Liga U. Hugo Alonso, MVP."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3590,9 +3403,7 @@
       "pubDate": "2026-05-17 18:32:09",
       "category": "Liga U",
       "description": "Los de Javi Suárez se llevaron una disputada final doblegando al máximo rival. Una jugada a 17 segundos del final, clave para el triunfo blanco."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3601,9 +3412,7 @@
       "pubDate": "2026-05-17 18:08:00",
       "category": "Baloncesto",
       "description": "El Real Madrid conquista la primera Liga U de la historia en El Plantío: 86-82. Victoria en un Clásico trepidante frente al Barcelona. El madrileño Hugo Alonso, MVP."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3612,9 +3421,7 @@
       "pubDate": "2026-05-17 18:02:34",
       "category": "Real Madrid baloncesto",
       "description": "El equipo azulgrana, que fue por debajo todo el partido tenía posesión para empatar el partido y se les fueron todas las opciones de esta manera."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3623,9 +3430,7 @@
       "pubDate": "2026-05-17 15:06:04",
       "category": "ACB",
       "description": "Los de Sito acarician la segunda plaza ante un equipo malagueño que suma ocho derrotas en las últimas nueve jornadas y se aleja peligrosamente del playoff."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3634,9 +3439,7 @@
       "pubDate": "2026-05-17 15:03:19",
       "category": "Baloncesto",
       "description": "El Real Madrid enlaza su tercera derrota seguida en la Liga Endesa. El Joventut logra una victoria importante con un notable Ricky Rubio (21 puntos)."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3645,9 +3448,7 @@
       "pubDate": "2026-05-17 15:00:09",
       "category": "Baloncesto",
       "description": "El entrenador, de 53 años, dejará el Barça para liderar el proyecto del conjunto emiratí, según Basket News. El de Gavà debe pagar su cláusula de salida."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3656,9 +3457,7 @@
       "pubDate": "2026-05-17 14:56:28",
       "category": "Baloncesto",
       "description": "El Joventut resuelve en el último cuarto. El base, 21 puntos. El Madrid, con la mente en la Final Four y sin pívots, encadena tres derrotas ligueras."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3667,9 +3466,7 @@
       "pubDate": "2026-05-17 14:41:44",
       "category": "Baloncesto",
       "description": "Un triple de Batemon a falta de cuatro segundos dio la victoria al conjunto catalán sobre un Gran Canaria que rozó la proeza tras estar 21 puntos abajo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3678,9 +3475,7 @@
       "pubDate": "2026-05-17 13:23:43",
       "category": "Valencia Basket femenino",
       "description": "Valencia Basket se ha proclamado campeón de la Liga Femenina con una canasta sobre la bocina."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3689,9 +3484,7 @@
       "pubDate": "2026-05-17 08:51:14",
       "category": "Baloncesto",
       "description": "En el marco de la Final Four de la Champions League, varias voces analizan sobre el futuro del baloncesto en Europa."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3700,9 +3493,7 @@
       "pubDate": "2026-05-17 07:00:49",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3711,9 +3502,7 @@
       "pubDate": "2026-05-17 06:23:50",
       "category": "Baloncesto",
       "description": "Real Madrid y Barça Atlètic batallan este domingo por el primer título de la historia de la Liga U. A las 16:00 horas, en AS.com. Éstas son las claves."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3722,9 +3511,7 @@
       "pubDate": "2026-05-17 06:22:44",
       "category": "Baloncesto",
       "description": "Momento muy delicado para el equipo malagueño, ahora mismo fuera del playoff, con un preocupante 1-7 en ACB y demasiadas turbulencias alrededor del club."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3733,9 +3520,7 @@
       "pubDate": "2026-05-17 06:21:21",
       "category": "Liga Femenina Baloncesto",
       "description": "Si el Valencia Basket vuelve a ganar hoy al Casademont Zaragoza (11:00, Teledeporte), logrará su cuarta LF Endesa seguida."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3744,9 +3529,7 @@
       "pubDate": "2026-05-16 23:28:19",
       "category": "Baloncesto",
       "description": "El Casademont tiene nueve triunfos, los mismos que el MoraBanc, 17º y que este domingo recibe al San Pablo Burgos (19:00)."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3755,9 +3538,7 @@
       "pubDate": "2026-05-16 20:31:13",
       "category": "Real Madrid baloncesto",
       "description": "El Madrid domina en Burgos y se gana un pase a la final. Habrá clásico en el partido que decidirá el primer ganador de la historia de la Liga U."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3766,9 +3547,7 @@
       "pubDate": "2026-05-16 20:22:04",
       "category": "Baloncesto",
       "description": "El Real Madrid también pisará la final de la Liga U después de derrotar al anfitrión en Burgos. Un Clásico, choque que decidirá el campeón mañana domingo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3777,9 +3556,7 @@
       "pubDate": "2026-05-16 20:21:21",
       "category": "Baloncesto",
       "description": "Los gallegos hicieron bueno su fortín en el Pazo Prvincial de Lugo y acabó con la pobre resistencia de un Girona que nada pudo hacer."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3788,9 +3565,7 @@
       "pubDate": "2026-05-16 15:29:20",
       "category": "Baloncesto",
       "description": "El pívot turco (27 años y 2,13 m) firma por el conjunto blanco hasta final de temporada ante las bajas en el juego interior. Solo disputará la Liga Endesa."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3799,9 +3574,7 @@
       "pubDate": "2026-05-16 11:43:49",
       "category": "Baloncesto",
       "description": "Según Mundo Deportivo, el entrenador de Gavà, de 53 años, está decepcionado por el incumplimiento de promesas y los flirteos del club con otros técnicos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3810,9 +3583,7 @@
       "pubDate": "2026-05-16 09:30:34",
       "category": "Baloncesto",
       "description": "El turco (27 años y 2,13 m) aterriza en el Madrid tras cerrar la temporada con los Warriors. El Panathinaikos le despidió para hacer hueco a Lessort."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3821,9 +3592,7 @@
       "pubDate": "2026-05-16 09:16:45",
       "category": "Baloncesto",
       "description": "El fallecimiento del mítico jugador puertorriqueño ha traído a la memoria su inolvidable paso por la ACB. “Era una figura inmensa”, asegura Nacho Rodríguez."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3832,9 +3601,7 @@
       "pubDate": "2026-05-15 15:39:05",
       "category": "Baloncesto",
       "description": "El conjunto azulgrana ha emitido un comunicado tras las informaciones que apuntaban al fichaje del entrenador del Unicaja si Pascual se marchaba."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3843,9 +3610,7 @@
       "pubDate": "2026-05-15 13:38:43",
       "category": "Baloncesto",
       "description": "El pívot (2,13 m y 27 años) firma hasta final de temporada por las bajas de Tavares y Len. El turco solo podrá disputar la Liga Endesa."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3854,9 +3619,7 @@
       "pubDate": "2026-05-15 07:01:52",
       "category": "",
       "description": "<h2>El  modelo de UNIVERSAE plantea diferentes caminos para llegar al mismo conocimiento, permitiendo que cada estudiante encuentre el que mejor se ajusta a su manera de avanzar</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3865,9 +3628,7 @@
       "pubDate": "2026-05-15 07:00:27",
       "category": "Baloncesto",
       "description": "Las lesiones de Tavares y Len dejan al internacional español como único pívot de garantías de cara a la cita más importante del año."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3876,9 +3637,7 @@
       "pubDate": "2026-05-14 23:53:49",
       "category": "Baskonia",
       "description": "El UCAM Murcia había ganado por 5 puntos en su pabellón en la ida y el conjunto de Galbiati le dio la vuelta a la tortilla con este +7."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3887,9 +3646,7 @@
       "pubDate": "2026-05-14 23:37:13",
       "category": "Baloncesto",
       "description": "Los de Che García, infinitamente superiores, logran una victoria clave en la lucha por el descenso. Fran Guerra, expulsado por intentar agredir a Jefferson."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3898,9 +3655,7 @@
       "pubDate": "2026-05-14 22:03:56",
       "category": "Baloncesto",
       "description": "El entrenador del Madrid habló para los micrófonos de DAZN tras la derrota contra el Surne Bilbao Basket en Miribilla."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3909,9 +3664,7 @@
       "pubDate": "2026-05-14 21:52:51",
       "category": "Unicaja Málaga",
       "description": "Victoria capital del equipo de Fisac, impulsado por la dupla Neto-Corbalán, para agarrarse con fuerza a la permanencia y sacar a los malagueños de playoff."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3920,9 +3673,7 @@
       "pubDate": "2026-05-14 14:30:52",
       "category": "",
       "description": "<h2>Martí Saballs, director de Información Económica de Prensa Ibérica y Cristina Martín, directora de Diario de Ibiza, analizan las medidas impulsadas en las islas para afrontar la saturación, la movilidad y la preservación del territorio mediterráneo </h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3931,9 +3682,7 @@
       "pubDate": "2026-05-14 13:52:14",
       "category": "",
       "description": "<h2>La doctora en Matemáticas por la Universitat de València ha repasado en una ponencia los principales retos a los que se enfrenta el Mediterráneo, deteniéndose especialmente en la migración, la demografía y la educación</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3942,9 +3691,7 @@
       "pubDate": "2026-05-14 12:54:09",
       "category": "",
       "description": "<h2>La capital española acoge la presentación de la tercera edición del encuentro tras su paso por Málaga y antes de su desembarco en Barcelona, el próximo 16, 17 y 18 de junio </h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3953,9 +3700,7 @@
       "pubDate": "2026-05-14 09:00:46",
       "category": "",
       "description": "<h2>El club de Rubí (Barcelona), con más de 60 años de historia, recibe 10.000 euros de Endesa para desarrollar ‘Sigue Jugando’, una iniciativa que busca frenar el abandono deportivo a través del apoyo a la salud mental de las adolescentes</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3964,9 +3709,7 @@
       "pubDate": "2026-05-14 00:25:47",
       "category": "Baloncesto",
       "description": "Los de Pedro Martínez se meten en la final four maniatando a Panathinaikos, dominando de principio a fin. Ataman acabó desesperado."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3975,9 +3718,7 @@
       "pubDate": "2026-05-10 23:59:38",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3986,9 +3727,7 @@
       "pubDate": "2026-05-07 05:30:32",
       "category": "",
       "description": "<h2 style=\"text-align: justify;\">La plataforma lanza por fin el plan más esperado: por menos de cinco euros, acceso a todo el catálogo de cine, series, programas y más de 70 canales de Movistar Plus+</h2><h2 style=\"text-align: justify;\"><a href=\"https://clk.tradedoubler.com/click?p=357743&a=3149064&url=https%3A%2F%2Fwww.movistarplus.es%2Fseries%2Fdonde-ver%3F_gl%3D1\" target=\"_blank\" rel=\"nofollow\">Aquí puedes encontrar más información sobre el nuevo plan de Movistar Plus+</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -3997,9 +3736,7 @@
       "pubDate": "2026-04-27 06:04:21",
       "category": "",
       "description": "<h2 class=\"item\"> En España existen distintos programas de avales públicos que facilitan el acceso a la vivienda a jóvenes con estabilidad económica, pero sin ahorro suficiente para afrontar la entrada de una hipoteca </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260427/tendencias-mercado-inmobiliario-2026-escasez-vivienda-129337330\">El mercado inmobiliario español acumula un déficit de 730.000 viviendas ante el crecimiento poblacional</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260427/cinco-factores-clave-debes-conocer-antes-contratar-hipoteca-129093016\">Cinco factores clave que debes conocer antes de contratar una hipoteca en 2026</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4008,9 +3745,7 @@
       "pubDate": "2026-04-27 06:04:21",
       "category": "",
       "description": "<h2>La política monetaria del BCE y la incertidumbre geopolítica impactan en la economía española, afectando a la capacidad de compra de los hogares</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260427/avales-publicos-hipotecas-comprar-vivienda-jovenes-129104227\">Avales públicos para hipotecas de jóvenes </a> </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260427/cinco-factores-clave-debes-conocer-antes-contratar-hipoteca-129093016\">Cinco factores clave que debes conocer antes de contratar una hipoteca en 2026</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4019,9 +3754,7 @@
       "pubDate": "2026-04-27 06:01:16",
       "category": "",
       "description": "<h2 class=\"item\">Tener ahorrado un 30% del valor de la vivienda que se quiera comprar y que la cuota del préstamo no supere el 30-35% de los ingresos netos mensuales son dos requisitos fundamentales</h2><h2 class=\"item\"> <a href=\"https://www.elperiodico.com/es/economia/20260427/avales-publicos-hipotecas-comprar-vivienda-jovenes-129104227\">Avales públicos para hipotecas de jóvenes  </a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260427/tendencias-mercado-inmobiliario-2026-escasez-vivienda-129337330\">El mercado inmobiliario español acumula un déficit de 730.000 viviendas ante el crecimiento poblacional</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4030,9 +3763,7 @@
       "pubDate": "2026-03-23 06:00:50",
       "category": "",
       "description": "<h2 class=\"item\">El emprendimiento es un motor económico, pero requiere de valentía, resiliencia para gestionar el fracaso y de los recursos económicos suficientes para poder empezar</h2><h2 class=\"item\">La capitalización del paro, las ayudas que ofrecen familiares y amigos o los microcréditos facilitados por entidades como MicroBank permiten obtener el capital necesario para arrancar </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260323/atom-h2-start-up-universidad-hidrogeno-solido-energia-verde-128083194\">Atom H2, la 'start-up' nacida en la universidad que usa hidrógeno sólido para ofrecer energía verde</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4041,9 +3772,7 @@
       "pubDate": "2026-03-22 06:00:57",
       "category": "",
       "description": "<h2 class=\"item\">La UE apoya alternativas europeas de <em>cloud</em> con la intención de reforzar su soberanía digital, un sentir que los gigantes tecnológicos están tratando de cooptar para mantener su negocio en el Viejo Continente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260308/espana-depende-tecnologia-estados-unidos-problema-riesgo-amenaza-embargo-comercial-guerra-donald-trump-pedro-sanchez-127651159\" target=\"_blank\">España depende de la tecnología de EEUU: ¿Puede ser un problema tras las amenazas de embargo de Trump?</a></h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4052,9 +3781,7 @@
       "pubDate": "2026-02-24 21:18:50",
       "category": "Baskonia",
       "description": "Celebración de la Copa del Rey de Valencia con presencia de autoridades en la balconada de la patrona."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4063,9 +3790,7 @@
       "pubDate": "2026-02-24 16:10:45",
       "category": "Baloncesto",
       "description": "El entrenador del Valencia Basket compartió en redes sociales las jugadas polémicas de las semifinales que perdieron contra los blancos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4074,9 +3799,7 @@
       "pubDate": "2026-02-24 06:43:39",
       "category": "Baloncesto",
       "description": "Con Xevi Pujol en los despachos y Paolo Galbiati en el banquillo el equipo vasco ha regresado a la senda del éxito."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4085,9 +3808,7 @@
       "pubDate": "2026-02-23 11:23:13",
       "category": "Baloncesto cantera",
       "description": "Los dos últimos casos, Felipe Quiñones y Mahamadou Landoure, tampoco pertenecían a la cantera del equipo blanco en ese momento."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4096,9 +3817,7 @@
       "pubDate": "2026-02-23 09:49:39",
       "category": "Real Madrid baloncesto",
       "description": "El entrenador del Real Madrid habló después de la final de la Copa del Rey que  su equipo perdió contra el Kosner Baskonia."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4107,9 +3826,7 @@
       "pubDate": "2026-02-23 09:08:19",
       "category": "Copa Rey Baloncesto",
       "description": "El equipo blanco perdió su segundo título esta temporada ante el Kosner Baskonia. No hubo efecto Hezonja y la defensa del uno contra uno hizo aguas."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4118,9 +3835,7 @@
       "pubDate": "2026-02-22 22:44:00",
       "category": "Baloncesto",
       "description": "Tremenda final de Copa del Rey del Baskonia de Galbiati, nuevo campeón de la competición. El Real Madrid se vio superado en un cierre muy tibio de partido."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4129,9 +3844,7 @@
       "pubDate": "2026-02-22 22:23:30",
       "category": "Baskonia",
       "description": "El técnico del Baskonia analizó la final entre su equipo y el Real Madrid, en la final de la Copa, en la que levantó su primer título copero."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4140,9 +3853,7 @@
       "pubDate": "2026-02-22 22:09:18",
       "category": "Baloncesto",
       "description": "El Baskonia vuelve a estar entre los grandes después de uno de los tramos más complicados de su historia reciente. La llegada de Galbiati, fundamental."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4151,9 +3862,7 @@
       "pubDate": "2026-02-22 22:00:28",
       "category": "Copa Rey Baloncesto",
       "description": "Los blancos pierden su segunda final de la temporada, la Copa después de la Supercopa, y Scariolo no se puede permitir más tropiezos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4162,9 +3871,7 @@
       "pubDate": "2026-02-22 21:57:28",
       "category": "Liga ACB",
       "description": "El técnico italiano ya ganó antes este título en Turín y Trento. En Vitoria suma la tercera Copa de una meteórica carrera como entrenador: el viernes cumplió 42 años."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4173,9 +3880,7 @@
       "pubDate": "2026-02-22 21:49:24",
       "category": "Baskonia",
       "description": "Después de dos años ausente en la Copa del Rey, el Baskonia ha conquistado el Roig Arena contra todo pronóstico, empujado por su pasional afición, tumbando por el camino al Barça y al Real Madrid."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4184,9 +3889,7 @@
       "pubDate": "2026-02-22 21:32:00",
       "category": "Baskonia",
       "description": "El equipo de Galbiati fuerza con su versatilidad y talento el escenario perfecto para darle el zarpazo al Madrid en el último cuarto. Luwawu-Cabarrot, descomunal. Trent Forrest, MVP. Séptima Copa vitoriana."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4195,9 +3898,7 @@
       "pubDate": "2026-02-22 21:19:18",
       "category": "Baloncesto",
       "description": "El base norteamericano fue el mejor de la cita del Roig Arena. Se quedó a un rebote del triple-doble, en la final"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4206,9 +3907,7 @@
       "pubDate": "2026-02-22 21:04:40",
       "category": "Baloncesto",
       "description": "Un repaso a todos los ganadores de la Copa del Rey de baloncesto a lo largo de su historia. El Real Madrid domina este palmarés con 29 triunfos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4217,9 +3916,7 @@
       "pubDate": "2026-02-22 18:55:07",
       "category": "Baloncesto",
       "description": "El Madrid es superfavorito en un duelo inédito por el título copero. El Baskonia no gana el trofeo desde 2009. “Scariolo es un maestro”, dice Galbiati."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4228,9 +3925,7 @@
       "pubDate": "2026-02-22 18:26:51",
       "category": "Baloncesto",
       "description": "Conoce el horario y cómo ver la final de la Copa del Rey 2026 (baloncesto) entre Real Madrid y Kosner Baskonia. Este domingo, 22 de febrero, a las 19:00 horas."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4239,9 +3934,7 @@
       "pubDate": "2026-02-22 15:14:36",
       "category": "Baloncesto",
       "description": "El Madrid se proclama campeón de la Minicopa Endesa tras dominar en la segunda parte. El Valencia dio la cara y jugó una final muy digna. Exhibición de Traore."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4250,9 +3943,7 @@
       "pubDate": "2026-02-22 15:13:48",
       "category": "Valencia Basket Club",
       "description": "Mason Broyles fue nombrado MVP del torneo. La final se disputó en el Roig Arena."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4261,9 +3952,7 @@
       "pubDate": "2026-02-22 12:07:52",
       "category": "Baloncesto",
       "description": "Los jugadores del Real Madrid hablan de cómo vivieron el triple de Hezonja con el que los blancos pasaban a la final de Copa."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4272,9 +3961,7 @@
       "pubDate": "2026-02-22 01:11:10",
       "category": "Baloncesto",
       "description": "Diakite taponó a Shengelia y Parra no embocó el triple final. El Barça se queda fuera de la final de la Copa, sitio que es para el Baskonia de Galbiati."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4283,9 +3970,7 @@
       "pubDate": "2026-02-21 23:43:00",
       "category": "Baloncesto",
       "description": "La gran final se disputa este domingo con el Roig Arena como gran escenario."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4294,9 +3979,7 @@
       "pubDate": "2026-02-21 23:30:13",
       "category": "FC Barcelona baloncesto",
       "description": "Un Barça decepcionante se deja remontar 9 puntos de ventaja en el último cuarto."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4305,9 +3988,7 @@
       "pubDate": "2026-02-21 23:27:42",
       "category": "FC Barcelona baloncesto",
       "description": "El técnico de Baskonia está muy feliz por jugar la final y ha tenido palabras de elogio hacia Scariolo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4316,9 +3997,7 @@
       "pubDate": "2026-02-21 20:52:14",
       "category": "Baloncesto",
       "description": "El alero contesta con cuatro triples, tres en los últimos 75 segundos, a la exhibición de Montero y le arrebata de una forma increíble la victoria de las manos al Valencia."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4327,9 +4006,7 @@
       "pubDate": "2026-02-14 05:58:30",
       "category": "",
       "description": "<h2 class=\"item\">Los fabricantes de vehículos ponen el foco en la IA y desarrollan robots humanoides para competir más allá de los propios coches</h2>"
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4338,9 +4015,7 @@
       "pubDate": "2025-11-29 12:56:45",
       "category": "FEB",
       "description": "El escolta del Tenerife sufrió una lesión en el muslo derecho en el partido contra Dinamarca y no podrá jugar este domingo. Es el gran generador de juego de la Selección."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4349,9 +4024,7 @@
       "pubDate": "2025-11-07 16:30:46",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4360,9 +4033,7 @@
       "pubDate": "2025-11-07 16:27:52",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4371,9 +4042,7 @@
       "pubDate": "2025-10-20 08:59:00",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4382,9 +4051,7 @@
       "pubDate": "2025-10-01 08:59:00",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4393,9 +4060,7 @@
       "pubDate": "2025-10-01 08:59:00",
       "category": "",
       "description": ""
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4404,9 +4069,7 @@
       "pubDate": "2025-08-04 21:43:59",
       "category": "Baloncesto",
       "description": "Bélgica derrota a la Selección femenina en lo que supone el primer tropiezo en el Europeo Sub-20. El miércoles, el partido de octavos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4415,9 +4078,7 @@
       "pubDate": "2025-06-29 05:49:55",
       "category": "Baloncesto",
       "description": "Conoce el horario y cómo ver la gran final del Eurobasket 2025. España contra Bélgica en Atenas, este domingo, 29 de junio, a las 19:30 horas."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4426,9 +4087,7 @@
       "pubDate": "2025-05-13 19:41:31",
       "category": "Selección Española Baloncesto",
       "description": "La FIBA ha sorteado los grupos de la fase de clasificación para el Mundial de 2027 que se disputará en Qatar con 32 selecciones. Hay 12 plazas para Europa."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4437,9 +4096,7 @@
       "pubDate": "2024-10-10 11:30:11",
       "category": "Baloncesto",
       "description": "El Team USA sufrió por primera vez en el Mundial, pero solventó sus problemas con una gran segunda mitad. Las 22 pérdidas de Montenegro, una losa demasiado grande."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4448,9 +4105,7 @@
       "pubDate": "2024-10-08 17:11:45",
       "category": "Baloncesto",
       "description": "El italiano (Brescia, Italia, 1961) falta al duelo de la Selección de las Ventanas por su compromiso con la Virtus. Luis Guil es su reemplazo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4459,9 +4114,7 @@
       "pubDate": "2024-10-08 17:10:49",
       "category": "Baloncesto",
       "description": "España, que llegó 12 arriba al último cuarto, colapsó totalmente en ataque y dice adiós al Mundial. Shai y Brooks, los mejores de Canadá."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4470,9 +4123,7 @@
       "pubDate": "2024-10-08 17:10:08",
       "category": "Mundial Baloncesto",
       "description": "La Selección, en el alambre en el Mundial después de una sorprendente derrota contra Letonia, está obligada a ganar a Canadá para estar en cuartos de final."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4481,9 +4132,7 @@
       "pubDate": "2023-10-09 10:00:00",
       "category": "NBA",
       "description": "El nuevo jugador de los Celtics quiso explicar en su presentación con el equipo de Boston por qué no había forzado para jugar el Mundial."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4492,9 +4141,7 @@
       "pubDate": "2023-09-26 07:46:10",
       "category": "Baloncesto",
       "description": "Arturs Zagars cuajó un Mundial excelente y llamó así la atención del Fenerbahçe. Su actuación en la cita le abrió muchas puertas."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4503,9 +4150,7 @@
       "pubDate": "2023-09-20 10:00:00",
       "category": "Mundial Baloncesto",
       "description": "Las actuaciones con Jordania de Rondae Hollis-Jefferson en el Mundial le han devuelto al primer plano del baloncesto. Ya piensa en la NBA de nuevo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4514,9 +4159,7 @@
       "pubDate": "2023-09-13 15:38:15",
       "category": "Mundial Baloncesto",
       "description": "Eslovenia cierra su participación con victoria frente a Italia (85-89) y acaba séptima. Letonia gana a Lituania, es quinta, y su base bate el récord histórico de asistencias (17) en un partido del Mundial."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4525,9 +4168,7 @@
       "pubDate": "2023-09-13 09:06:16",
       "category": "Baloncesto",
       "description": "Siempre fiel a sí mismo, Pesic volvió a la final de un Mundial 21 años después. Con un currículum enorme y 74 años, el laureado entrenador triunfa en el baloncesto moderno igual que lo hizo en el pasado."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4536,9 +4177,7 @@
       "pubDate": "2023-09-13 08:36:12",
       "category": "Baloncesto",
       "description": "El baloncesto germano, oro Mundial, avanza con paso firme en el escenario internacional con un proyecto sólido en lo local."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4547,9 +4186,7 @@
       "pubDate": "2023-09-11 13:43:09",
       "category": "Baloncesto",
       "description": "Siempre polémico, Dillon Brooks vuelve a ser protagonista en el Mundial por su defensa, actitud y reivindicación propia. Su exhibición en la victoria por el bronce (39 puntos), para los anales."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4558,9 +4195,7 @@
       "pubDate": "2023-09-11 11:57:14",
       "category": "Baloncesto",
       "description": "El torneo intercontinental de Filipinas, Indonesia y Japón terminó este domingo con muchas buenas noticias, pero también malas."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4569,9 +4204,7 @@
       "pubDate": "2023-09-11 08:40:47",
       "category": "Baloncesto",
       "description": "El entrenador español consigue la primera medalla mundialista para Canadá y la clasificación para los Juegos Olímpicos. Su futuro en la NBA no tiene techo."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4580,9 +4213,7 @@
       "pubDate": "2023-09-10 17:02:39",
       "category": "Baloncesto",
       "description": "El base alemán (29 años y 1,90 m.) fue elegido como el mejor del Mundial tras promediar 19,1 puntos. Hizo 28 tantos en la final contra Serbia."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4591,9 +4222,7 @@
       "pubDate": "2023-09-10 16:51:29",
       "category": "Mundial Baloncesto",
       "description": "Un excepcional Schröder, elegido MVP, dirige el oro de una Alemania que ha sido el mejor equipo del Mundial y logra el mayor éxito de su historia. Serbia se quedó corta."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4602,9 +4231,7 @@
       "pubDate": "2023-09-10 13:13:00",
       "category": "Mundial Baloncesto",
       "description": "Con una prórroga y el mejor partido de la vida de Dillon Brooks llegó la Canadá de Fernández al podio del Mundial de baloncesto. Estados Unidos, decepcionante."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4613,9 +4240,7 @@
       "pubDate": "2023-09-10 08:18:01",
       "category": "Mundial Baloncesto",
       "description": "Alemania y Serbia luchan hoy por el oro mundial, y por suceder a España en el trono, en el Mall Of Asia Arena de Manila. Bogdanovic, en estado de gracia, contra el mejor bloque."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4624,9 +4249,7 @@
       "pubDate": "2023-09-09 21:04:34",
       "category": "Selección española baloncesto",
       "description": "Tanto la Selección de Sergio Scariolo como Carlos Alcaraz van a ceder en este 10 de septiembre sus respectivos títulos del Mundial y del US Open."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4635,9 +4258,7 @@
       "pubDate": "2023-09-09 06:25:09",
       "category": "Mundial Baloncesto",
       "description": "“Me dan en la nariz y ni se revisa”, asegura el esloveno, que asume los problemas de su selección: “Somos débiles, no pegamos a nadie”."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4646,9 +4267,7 @@
       "pubDate": "2023-09-08 22:08:14",
       "category": "Selección baloncesto Alemania",
       "description": "Ni Estados Unidos, ni Canadá, los dos equipos más NBA, pudieron doblegar a Alemania y a Serbia, que jugarán la final del Mundial."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   },
   {
     "item": {
@@ -4657,8 +4276,6 @@
       "pubDate": "2023-09-08 12:46:18",
       "category": "Baloncesto",
       "description": "Serbia pasa a la final del Mundial con todo merecimiento, manejando el partido y sentenciando al final a través de Bogdanovic. A Canadá le faltaron argumentos."
-    },
-    "topic": "",
-    "topic_match_probability": 0
+    }
   }
 ]
