@@ -1,4 +1,4 @@
-# News for 2026-05-22 2026-05-22 02:19
+# News for 2026-05-22 2026-05-22 06:44
 
 Previous day: [2026-05-21](./data/2026-05-21.md)
 
@@ -13,5 +13,35 @@ Previous day: [2026-05-21](./data/2026-05-21.md)
 - 00:36 [Трамп і Нетаньягу зітнулися через Іран - CNN](https://ua.korrespondent.net/world/4880495-tramp-i-netaniahu-zitnulysia-cherez-iran-CNN)
 
 ## www.elperiodico.com
+-  | 0 | 
+- 06:20 [Los ricos de la calle de Jorge Juan, contra la 'dinojunta' de Florentino](https://www.elperiodico.com/es/deportes/20260522/ricos-calle-jorge-juan-dinojunta-130518972)
+-  | 0 | 
+- 06:15 [El delirante final del Lleida CF: un salvador transformado en estafador](https://www.elperiodico.com/es/deportes/20260522/final-delirante-lleida-cf-presunta-estafa-inversor-130516656)
+-  | 0 | 
+- 06:00 [La UE y México exhiben un simbólico acercamiento con su primera cumbre en 10 años](https://www.elperiodico.com/es/internacional/20260522/ue-mexico-exhiben-simbolico-acercamiento-cumbre-130520645)
+-  | 0 | 
+- 06:00 [Bad Bunny, ¿un gran músico o ‘solo’ un fenómeno cultural y político?](https://www.elperiodico.com/es/ocio-y-cultura/20260522/bad-bunny-gran-musico-o-130512589)
+-  | 0 | 
+- 06:00 [Plus Ultra pagó 4 millones de euros en 2023 a una de las empresas de la trama de Zapatero](https://www.elperiodico.com/es/politica/20260522/plus-ultra-pago-4-millones-130513881)
+-  | 0 | 
+- 06:00 [Telefónica agita la batalla comercial del móvil: gana 352.000 líneas quitando clientes a sus rivales todos los meses durante dos años seguidos](https://www.elperiodico.com/es/economia/20260522/telefonica-agita-batalla-comercial-movil-130509113)
+-  | 0 | 
+- 06:00 [La curiosa y obligatoria señal de tráfico que muchos conductores no entienden](https://www.elperiodico.com/es/motor/20260522/curiosa-obligatoria-senal-trafico-conductores-130489045)
+-  | 0 | 
+- 06:00 [El Govern de Illa aprueba hoy sus primeros presupuestos tras pactarlos con ERC y Comuns](https://www.elperiodico.com/es/politica/20260522/govern-primeros-presupuestos-govern-salvador-illa-erc-comuns-130495781)
+-  | 0 | 
+- 06:00 [Comienza el pago de las pensiones de mayo: los dos bancos que ya las han ingresado y los que aún no](https://www.elperiodico.com/es/economia/20260522/pensiones-mayo-2026-bancos-fechas-cobro-130493068)
+-  | 0 | 
+- 06:00 [La evolución del Barça femenino: plantilla y táctica renovadas para ganar la cuarta Champions](https://www.elperiodico.com/es/deportes/femenino/20260522/evolucion-barca-femenino-plantilla-tactica-117703991)
+-  | 0 | 
+- 05:35 [Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos](https://www.elperiodico.com/es/sociedad/20260522/huelga-profesores-ultima-hora-directo-130098594)
+-  | 0 | 
+- 05:34 [Guerra de Irán, en directo: última hora | Las conversaciones entre EEUU e Irán encuentran frenos en el uranio enriquecido y los peajes](https://www.elperiodico.com/es/internacional/20260522/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)
+-  | 0 | 
+- 05:34 [Jonathan Andic, hijo del fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo](https://www.elperiodico.com/es/sociedad/20260522/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411)
+-  | 0 | 
+- 05:32 [Guerra Ucrania - Rusia, en directo, última hora | Bruselas trabaja en su 21º paquete de sanciones ante la escalada de amenazas rusas contra los países bálticos](https://www.elperiodico.com/es/internacional/20260522/guerra-ucrania-rusia-directo-ultima-126605559)
 -  |  | 
 - 00:05 [Huelga de profesores en Barcelona y Catalunya: Cuándo es el próximo día y calendario al completo](https://www.elperiodico.com/es/sociedad/20260522/huelga-profesores-barcelona-catalunya-calendario-paro-general-dv-130131145)
+-  | 0 | 
+- 00:02 [Este verano, vívelo mejor en las piscinas de Eurofitness](https://www.elperiodico.com/es/vida-y-estilo/20260522/verano-vivelo-mejor-piscinas-eurofitness-bc-130482078)
