@@ -1,8 +1,14 @@
-# News for 2026-05-23 22:12
+# News for 2026-05-23 23:11
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## ua.korrespondent.net
+-  | 0 | Новини світу
+- 22:59 [В Сербії відбувся масштабний протест проти Вучича](https://ua.korrespondent.net/world/4880937-v-serbii-vidbuvsia-masshtabnyi-protest-proty-vuchycha)
+-  | 0 | Новини боксу
+- 22:31 [Боксер Лапін зазнав своєї першої поразки в Гізі](https://ua.korrespondent.net/sport/boks/4880931-bokser-lapin-zaznav-svoiei-pershoi-porazky-v-hizi)
+-  | 0 | Новини України
+- 22:28 [Сибіга зробив заяву щодо можливого удару РФ](https://ua.korrespondent.net/ukraine/4880930-sybiha-zrobyv-zaiavu-schodo-mozhlyvoho-udaru-rf)
 - спорт | 70 | Новини спорту
 - 22:05 [Усик - Верховен: онлайн-трансляція бою](https://ua.korrespondent.net/sport/4880918-usyk-verkhoven-onlain-transliatsiia-boui)
 -  | 0 | Новини політики
@@ -45,6 +51,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 17:10 [Липові звіти і смерть дитини: директорка терцентру отримала підозру](https://ua.korrespondent.net/ukraine/4880885-lypovi-zvity-i-smert-dytyny-dyrektorka-tertsentru-otrymala-pidozru)
 
 ## as.com
+-  | 0 | Baloncesto
+- 22:30 [El Baxi Manresa también se cuela en la infinita pesadilla del Gran Canaria](https://as.com/baloncesto/acb/el-baxi-manresa-tambien-se-cuela-en-la-infinita-pesadilla-del-gran-canaria-f202605-n/)
 -  | 0 | Unicaja Málaga
 - 21:12 [El Unicaja se agarra al playoff](https://as.com/baloncesto/el-unicaja-se-agarra-al-playoff-f202605-n/)
 -  | 0 | Baloncesto
@@ -81,6 +89,20 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 00:09 [Aprobados y suspensos del Madrid: el ritmo de Hezonja, el dolor por Garuba](https://as.com/baloncesto/euroliga/aprobados-y-suspensos-del-madrid-el-ritmo-de-hezonja-el-dolor-por-garuba-f202605-n/)
 
 ## www.elperiodico.com
+- спорт | 100 | 
+- 23:09 [El Barça cierra la temporada con derrota ante el València (3-1)](https://www.elperiodico.com/es/deportes/20260523/barca-cierra-temporada-derrota-valencia-130579229)
+-  | 0 | 
+- 23:03 [Bad Bunny ya es leyenda: Ibai Llanos, perreo y oxitocina en un baile inolvidable](https://www.elperiodico.com/es/ocio-y-cultura/20260523/bad-bunny-ya-es-leyenda-ibai-llanos-concierto-barcelona-130582668)
+-  | 0 | 
+- 22:58 [El Real Madrid despide a Carvajal y Mbappé se abraza a Arbeloa en su triste adiós](https://www.elperiodico.com/es/deportes/20260523/real-madrid-athletic-resumen-resultado-laliga-futbol-130583086)
+-  | 0 | 
+- 22:53 [El informe de la UDEF sobre Zapatero sostiene que "Julito" pagó 10.000 euros al director del fondo de rescate de Plus Ultra: "10k done"](https://www.elperiodico.com/es/politica/20260523/informe-udef-caso-zapatero-sostiene-130582991)
+- спорт | 100 | 
+- 22:51 [El Barça celebra y rompe la maldición: "Es el mejor dia de mi vida"](https://www.elperiodico.com/es/deportes/20260523/barca-celebra-rompe-maldicion-mejor-130581870)
+-  | 0 | 
+- 22:41 [Resultados de la Primitiva del sábado 23 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260523/resultados-primitiva-sabado-23-mayo-130581828)
+-  | 0 | 
+- 22:40 [Carlos Elías, catedrático en la Carlos III: "El inglés no debería estar en la selectividad"](https://www.elperiodico.com/es/sociedad/20260523/examen-ingles-fuera-selectividad-catedratico-carlos-elias-118195332)
 -  | 0 | 
 - 22:05 [La UDEF constata el liderazgo de Zapatero en la red de influencia en la "validación de potenciales clientes" y que imparte instrucciones](https://www.elperiodico.com/es/politica/20260523/udef-constata-liderazgo-zapatero-red-influencia-clientes-instrucciones-130581659)
 -  | 0 | 
