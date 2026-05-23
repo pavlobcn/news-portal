@@ -1,8 +1,16 @@
-# News for 2026-05-23 2026-05-23 14:49
+# News for 2026-05-23 2026-05-23 16:22
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 15:59 [ЗМІ: В окупованих районах - бензинова лихоманка](https://ua.korrespondent.net/ukraine/4880877-zmi-v-okupovanykh-raionakh-benzynova-lykhomanka)
+-  |  | Новини України
+- 15:35 [Сили оборони успішно відбивають атаки загарбників](https://ua.korrespondent.net/ukraine/4880875-syly-oborony-uspishno-vidbyvauit-ataky-zaharbnykiv)
+-  |  | Новини України
+- 15:10 [З’явилося відео знищення російських об'єктів на Луганщині](https://ua.korrespondent.net/ukraine/4880873-ziavylosia-video-znyschennia-rosiiskykh-obiektiv-na-luhanschyni)
+-  |  | Новини України
+- 14:46 [Генштаб розповів про удари по важливих об’єктах РФ](https://ua.korrespondent.net/ukraine/4880871-henshtab-rozpoviv-pro-udary-po-vazhlyvykh-obiektakh-rf)
 -  |  | Новини України
 - 14:22 [Зеленський: Присутність України в ЄС має бути повноцінною](https://ua.korrespondent.net/ukraine/4880869-zelenskyi-prysutnist-ukrainy-v-yes-maie-buty-povnotsinnoui)
 -  |  | Новини України
@@ -115,6 +123,48 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 01:30 [Un Movistar Estudiantes de récord regresa a la Final Four](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 16:21 [Ordenan evacuar a 40.000 personas en California por una fuga química con riesgo de explosión](https://www.elperiodico.com/es/internacional/20260523/california-fuga-quimica-evacuados-estados-unidos-130573418)
+-  |  | 
+- 16:19 [Las predicciones](https://www.elperiodico.com/es/opinion/20260523/predicciones-130573473)
+-  |  | 
+- 16:18 [Irán afirma que un protocolo de acuerdo con EEUU está en fase de finalización](https://www.elperiodico.com/es/internacional/20260523/iran-afirma-protocolo-acuerdo-eeuu-130573525)
+-  |  | 
+- 16:08 [Un dron estalla tras impactar en un lago de Letonia](https://www.elperiodico.com/es/internacional/20260523/dron-estalla-lago-letonia-130573304)
+-  |  | 
+- 16:06 [Paneque se compromete a "ajustar al máximo" el impacto del Plan de Energías Renovables después de las quejas del territorio](https://www.elperiodico.com/es/sociedad/20260523/paneque-compromete-ajustar-maximo-impacto-130573071)
+-  |  | 
+- 16:01 [El operativo para atrapar a roedores transmisores del hantavirus se cierra sin capturas en Argentina](https://www.elperiodico.com/es/sociedad/20260523/hantavirus-ratones-ushuaia-argentina-hondius-130573043)
+-  |  | 
+- 16:00 [Defensa investiga un accidente ocurrido durante un ejercicio de tiro en una base de Madrid](https://www.elperiodico.com/es/politica/20260523/defensa-investiga-accidente-ocurrido-durante-130573295)
+-  |  | 
+- 16:00 [La emprendedora que tenía los huevos cuadrados](https://www.elperiodico.com/es/opinion/20260523/emprendedora-tenia-huevos-cuadrados-130532555)
+-  |  | 
+- 16:00 [Los expertos coinciden: la hipoteca no desaparece cuando muere el titular y esto es lo que deben hacer los herederos](https://www.elperiodico.com/es/economia/20260523/expertos-coinciden-hipoteca-muerte-titular-dv-130503553)
+-  |  | 
+- 16:00 [Un mecánico revela lo que le puede pasar a tu coche después de pasar la ITV: "Hay ciertas pruebas que ponen más al límite el motor"](https://www.elperiodico.com/es/sociedad/20260523/mecanico-revela-pasar-coche-itv-dv-130533686)
+-  |  | 
+- 15:56 [Cómo configurar los resultados de Google para no perderte nada de EL PERIÓDICO](https://www.elperiodico.com/es/sociedad/20260523/configura-google-seguir-periodico-129736197)
+-  |  | 
+- 15:48 [Educadores infantiles de toda España se manifiestan en Madrid por unas "condiciones dignas"](https://www.elperiodico.com/es/videos/sociedad/educadores-infantiles-espana-manifiestan-madrid/130573118.shtml)
+-  |  | 
+- 15:46 [El expresidente Jordi Pujol asiste a la inauguración de la plaza Ricard Masó de Girona](https://www.elperiodico.com/es/politica/20260523/expresidente-jordi-pujol-asiste-inauguracion-130572780)
+-  |  | 
+- 15:35 [Valentía, decisión y obstinación](https://www.elperiodico.com/es/ocio-y-cultura/20260523/valentia-decision-obstinacion-130572622)
+-  |  | 
+- 15:24 [Hallados los cadáveres de dos turistas apuñalados en el Parque Nacional Kruger de Sudáfrica](https://www.elperiodico.com/es/internacional/20260523/sucesos-asesinato-turistas-parque-kruger-sudafrica-130572424)
+-  |  | 
+- 15:21 [Amigos y familiares de los participantes en la Flotilla los han recibido en el aeropuerto de El Prat](https://www.elperiodico.com/es/videos/sociedad/amigos-familiares-participantes-flotilla-han/130572561.shtml)
+-  |  | 
+- 15:14 [Zelenski reclama a la UE un rol "pleno e igualitario" tras la propuesta de "asociación" alemana](https://www.elperiodico.com/es/internacional/20260523/zelenski-reclama-ue-rol-pleno-130572482)
+-  |  | 
+- 15:07 [Dos heridos, uno de ellos crítico, en un choque entre una moto y un coche en Manresa](https://www.elperiodico.com/es/sociedad/20260523/manresa-accidente-motorista-estado-critico-130572023)
+-  |  | 
+- 15:06 [Álex Palou se cita con la historia en Indianápolis](https://www.elperiodico.com/es/deportes/20260523/alex-palou-cita-historia-500-millas-de-indianapolis-130565123)
+-  |  | 
+- 14:59 [Al menos 90 muertos por una explosión de gas en una mina de carbón en el norte de China](https://www.elperiodico.com/es/videos/internacional/90-muertos-explosion-gas-mina/130572160.shtml)
+-  |  | 
+- 14:52 [Educadores infantiles de toda España se manifiestan exigen en Madrid unas "condiciones dignas"](https://www.elperiodico.com/es/videos/sociedad/educadores-infantiles-espana-manifiestan-exigen/130571882.shtml)
 -  |  | 
 - 14:46 [Bruselas advierte de que emitir más deuda común de la UE "no sale gratis"](https://www.elperiodico.com/es/economia/20260523/bruselas-comision-europea-deuda-comun-no-gratis-130571289)
 -  |  | 
@@ -331,6 +381,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 06:01 [Pilarín Bayés, la emoción por el Barça y su "rezo" para la final de la Champions](https://www.elperiodico.com/es/deportes/20260523/pilarin-bayes-emocion-barca-rezo-130496074)
 -  |  | 
 - 06:01 [La fiscalidad, cara B de la fusión Puig-Estée Lauder](https://www.elperiodico.com/es/economia/20260523/fiscalidad-cara-b-fusion-puig-130502784)
+-  |  | 
+- 06:01 [La imputación de Zapatero deja a Sánchez sin un activo negociador con los socios de la investidura](https://www.elperiodico.com/es/politica/20260523/imputacion-zapatero-activo-negociacion-socios-sanchez-130537229)
 -  |  | 
 - 06:01 [Sánchez compartirá discurso con el Papa en inmigración, inteligencia artificial y paz durante su viaje a España](https://www.elperiodico.com/es/politica/20260523/sanchez-discurso-papa-inmigracion-ia-paz-130539170)
 -  |  | 
