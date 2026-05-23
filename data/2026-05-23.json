@@ -1,6 +1,28 @@
 [
   {
     "item": {
+      "title": "Riquelme presenta su candidatura a la presidencia del Real Madrid: \"Después de 20 años se va a poder votar. No vamos en contra de nadie\"",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/riquelme-candidato-presidencia-real-madrid-130576314",
+      "pubDate": "2026-05-23 18:28:17",
+      "category": "",
+      "description": "<h2>El empresario alicantino presentó los documentos y el aval en Valdebebas y ahora la junta debe dar validez a los mismos </h2>",
+      "topic": "спорт (але не баскетбол)",
+      "topic_match_probability": 25
+    }
+  },
+  {
+    "item": {
+      "title": "Trump dice que está dividido entre cerrar un acuerdo o atacar a Irán",
+      "link": "https://www.elperiodico.com/es/internacional/20260523/trump-dice-dividido-cerrar-acuerdo-130575853",
+      "pubDate": "2026-05-23 18:18:51",
+      "category": "",
+      "description": "<h2>El presidente tiene previsto reunirse este mismo sábado con su equipo de seguridad, incluido el vicepresidente, JD Vance, y el equipo negociador estadounidense, Steve Witkoff y Jared Kushner, para evaluar la situación</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260523/trump-renuncia-asistir-compromiso-hijo-responsabilidades-de-gobierno-130564624\">Trump renuncia a asistir a la boda de su hijo por \"responsabilidades de Gobierno\" en plena tensión con Irán y Cuba</a></h2>",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
       "title": "Fiscalía pide cuatro años de cárcel para el empresario espacial Kamal Kharbachim por un presunto delito de estafa",
       "link": "https://www.elperiodico.com/es/sociedad/20260523/fiscalia-pide-cuatro-anos-carcel-130576019",
       "pubDate": "2026-05-23 18:11:09",
@@ -336,6 +358,17 @@
       "pubDate": "2026-05-23 14:33:14",
       "category": "",
       "description": "<h2>La 'marea amarilla' pide la plena integración de esta etapa educativa en el sistema para acabar \"con el modelo precarizado y de explotación\"</h2>",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Krampelj, Petrasek, Normantas y Hilliard renuevan hasta 2028",
+      "link": "https://as.com/baloncesto/krampelj-petrasek-normantas-y-hilliard-renuevan-hasta-2028-f202605-n/",
+      "pubDate": "2026-05-23 14:20:37",
+      "category": "Bilbao basket",
+      "description": "El Bilbao Basket ata a parte de su columna vertebral.",
       "topic": "",
       "topic_match_probability": 0
     }
@@ -897,6 +930,28 @@
       "pubDate": "2026-05-23 04:03:05",
       "category": "Baloncesto",
       "description": "El Olympiacos domina en casa de principio a fin y se gana un puesto en la final del domingo. El favorito es más favorito que nunca.",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Un Movistar Estudiantes de récord regresa a la Final Four",
+      "link": "https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/",
+      "pubDate": "2026-05-23 01:30:19",
+      "category": "Primera FEB",
+      "description": "Los colegiales barren al Alicante 3-0 en los cuartos y entran en su cuarto fase de ascenso en cinco años. Lluvia de triples: 27, tope en ACB y Primera FEB.",
+      "topic": "",
+      "topic_match_probability": 0
+    }
+  },
+  {
+    "item": {
+      "title": "Aprobados y suspensos del Madrid: el ritmo de Hezonja, el dolor por Garuba",
+      "link": "https://as.com/baloncesto/euroliga/aprobados-y-suspensos-del-madrid-el-ritmo-de-hezonja-el-dolor-por-garuba-f202605-n/",
+      "pubDate": "2026-05-23 00:09:35",
+      "category": "Baloncesto",
+      "description": "El equipo blanco se clasificó para la final de Atenas tras doblegar al Valencia con 25 puntos del croata y la lesión del internacional español.",
       "topic": "",
       "topic_match_probability": 0
     }

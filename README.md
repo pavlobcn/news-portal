@@ -1,10 +1,12 @@
-# News for 2026-05-23 2026-05-23 18:23
+# News for 2026-05-23 18:46
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## as.com
 -  | 0 | Baloncesto cantera
 - 16:10 [Un Clásico para decidir la Euroliga júnior](https://as.com/baloncesto/euroliga/el-real-madrid-tambien-peleara-por-la-euroliga-junior-f202605-n/)
+-  | 0 | Bilbao basket
+- 14:20 [Krampelj, Petrasek, Normantas y Hilliard renuevan hasta 2028](https://as.com/baloncesto/krampelj-petrasek-normantas-y-hilliard-renuevan-hasta-2028-f202605-n/)
 -  | 0 | Baloncesto
 - 13:58 [Lío en Atenas: “La Euroliga tiene la obligación de explicarlo”](https://as.com/baloncesto/euroliga/lio-en-atenas-la-euroliga-tiene-la-obligacion-de-explicarlo-f202605-n/)
 -  | 0 | Baloncesto
@@ -19,8 +21,16 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 08:42 [Era la canasta ganadora al 99,9% y acabó en prórroga: lo que le sucedió al Hestia Menorca no pasa en 100 vidas](https://as.com/baloncesto/era-la-canasta-ganadora-al-999-y-acabo-en-prorroga-lo-que-le-sucedio-al-hestia-menorca-no-pasa-en-100-vidas-f202605-v/)
 -  | 0 | Baloncesto
 - 04:03 [Olympiacos - Fenerbahçe: resumen y resultado, Final Four de la Euroliga en vivo hoy](https://as.com/baloncesto/euroliga/olympiacos-fenerbahce-en-directo-semifinal-de-la-euroliga-en-vivo-hoy-f202605-d/)
+-  | 0 | Primera FEB
+- 01:30 [Un Movistar Estudiantes de récord regresa a la Final Four](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/)
+-  | 0 | Baloncesto
+- 00:09 [Aprobados y suspensos del Madrid: el ritmo de Hezonja, el dolor por Garuba](https://as.com/baloncesto/euroliga/aprobados-y-suspensos-del-madrid-el-ritmo-de-hezonja-el-dolor-por-garuba-f202605-n/)
 
 ## www.elperiodico.com
+- спорт (але не баскетбол) | 25 | 
+- 18:28 [Riquelme presenta su candidatura a la presidencia del Real Madrid: "Después de 20 años se va a poder votar. No vamos en contra de nadie"](https://www.elperiodico.com/es/deportes/20260523/riquelme-candidato-presidencia-real-madrid-130576314)
+-  | 0 | 
+- 18:18 [Trump dice que está dividido entre cerrar un acuerdo o atacar a Irán](https://www.elperiodico.com/es/internacional/20260523/trump-dice-dividido-cerrar-acuerdo-130575853)
 -  | 0 | 
 - 18:11 [Fiscalía pide cuatro años de cárcel para el empresario espacial Kamal Kharbachim por un presunto delito de estafa](https://www.elperiodico.com/es/sociedad/20260523/fiscalia-pide-cuatro-anos-carcel-130576019)
 -  | 0 | 
