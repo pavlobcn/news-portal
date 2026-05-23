@@ -1,4 +1,4 @@
-# News for 2026-05-23 18:46
+# News for 2026-05-23 18:59
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
@@ -27,6 +27,14 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 00:09 [Aprobados y suspensos del Madrid: el ritmo de Hezonja, el dolor por Garuba](https://as.com/baloncesto/euroliga/aprobados-y-suspensos-del-madrid-el-ritmo-de-hezonja-el-dolor-por-garuba-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 18:58 [La Audiencia madrileña ve incompatible que la exabogada del Estado del caso Plus Ultra defienda a un imputado del caso Zapatero](https://www.elperiodico.com/es/politica/20260523/audiencia-madrilena-ve-incompatible-exabogada-130577211)
+-  |  | 
+- 18:57 [La Casa Blanca publica un vídeo realizado con IA de Trump tirando a la basura a Stephen Colbert](https://www.elperiodico.com/es/videos/internacional/casa-blanca-publica-video-realizado/130577162.shtml)
+-  |  | 
+- 18:54 [Roland Garros se pone en manos de Sinner ante la ausencia de Alcaraz](https://www.elperiodico.com/es/deportes/20260523/roland-garros-pone-manos-sinner-130577009)
+-  |  | 
+- 18:50 [Cómo invertir tus ahorros sin cometer errores ni perder dinero: las recomendaciones del Banco de España](https://www.elperiodico.com/es/economia/20260523/invertir-ahorros-sin-errores-consejos-banco-espana-dv-130571736)
 - спорт (але не баскетбол) | 25 | 
 - 18:28 [Riquelme presenta su candidatura a la presidencia del Real Madrid: "Después de 20 años se va a poder votar. No vamos en contra de nadie"](https://www.elperiodico.com/es/deportes/20260523/riquelme-candidato-presidencia-real-madrid-130576314)
 -  | 0 | 
