@@ -1,34 +1,34 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const repoRoot = path.resolve(__dirname, '..');
-const dataDir = path.join(repoRoot, 'data');
+const repoRoot = path.resolve(__dirname, "..");
+const dataDir = path.join(repoRoot, "data");
 const PREFERRED_DOMAIN_ORDER = [
-  'ua.korrespondent.net',
-  'as.com',
-  'www.elperiodico.com',
+  "ua.korrespondent.net",
+  "as.com",
+  "www.elperiodico.com",
 ];
 
 function formatDate(date) {
   return date.toISOString().slice(0, 10);
 }
 
-const BARCELONA_TIMEZONE = 'Europe/Madrid';
+const BARCELONA_TIMEZONE = "Europe/Madrid";
 
 function formatDateTime(date) {
-  const formatter = new Intl.DateTimeFormat('en-GB', {
+  const formatter = new Intl.DateTimeFormat("en-GB", {
     timeZone: BARCELONA_TIMEZONE,
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit',
-    hour: '2-digit',
-    minute: '2-digit',
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
     hour12: false,
   });
 
   const parts = formatter.formatToParts(date);
-  const get = (type) => parts.find((part) => part.type === type)?.value || '';
-  return `${get('year')}-${get('month')}-${get('day')} ${get('hour')}:${get('minute')}`;
+  const get = (type) => parts.find((part) => part.type === type)?.value || "";
+  return `${get("year")}-${get("month")}-${get("day")} ${get("hour")}:${get("minute")}`;
 }
 
 function readJsonArray(filePath) {
@@ -36,7 +36,7 @@ function readJsonArray(filePath) {
     throw new Error(`Missing file: ${filePath}`);
   }
 
-  const raw = fs.readFileSync(filePath, 'utf8');
+  const raw = fs.readFileSync(filePath, "utf8");
   const parsed = JSON.parse(raw);
 
   if (!Array.isArray(parsed)) {
@@ -48,59 +48,61 @@ function readJsonArray(filePath) {
 
 function getPubDateValue(item) {
   const pubDate = item?.item?.pubDate;
-  return typeof pubDate === 'string' ? pubDate.trim() : '';
+  return typeof pubDate === "string" ? pubDate.trim() : "";
 }
 
 function getTimeLabel(item) {
   const pubDate = getPubDateValue(item);
   const match = pubDate.match(/\b(\d{2}:\d{2})(?::\d{2})?\b/);
-  return match ? match[1] : '';
+  return match ? match[1] : "";
 }
 
 function getLinkValue(item) {
   const link = item?.item?.link;
-  return typeof link === 'string' ? link.trim() : '';
+  return typeof link === "string" ? link.trim() : "";
 }
 
 function getDomain(link) {
   try {
     return new URL(link).hostname;
   } catch {
-    return 'unknown-domain';
+    return "unknown-domain";
   }
 }
 
 function getTitleValue(item) {
   const title = item?.item?.title;
-  return typeof title === 'string' && title.trim() ? title.trim() : '(untitled)';
+  return typeof title === "string" && title.trim()
+    ? title.trim()
+    : "(untitled)";
 }
 
 function escapeMdText(text) {
-  return text.replace(/[\[\]]/g, '\\$&');
+  return text.replace(/[\[\]]/g, "\\$&");
 }
 
 function getTopicValue(item) {
   const topic = item?.item?.topic;
-  if (typeof topic !== 'string') return '';
+  if (typeof topic !== "string") return "";
   const normalized = topic.trim();
-  return normalized && normalized.toLowerCase() !== 'unknown' ? normalized : '';
+  return normalized && normalized.toLowerCase() !== "unknown" ? normalized : "";
 }
 
 function getTopicMatchProbabilityValue(item) {
   const value = item?.item?.topic_match_probability;
 
-  if (typeof value === 'number' && Number.isFinite(value)) {
+  if (typeof value === "number" && Number.isFinite(value)) {
     return String(Math.round(value));
   }
 
-  return '';
+  return "";
 }
 
 function getCategoryValue(item) {
   const category = item?.item?.category;
-  if (typeof category !== 'string') return '';
+  if (typeof category !== "string") return "";
   const normalized = category.trim();
-  return normalized && normalized.toLowerCase() !== 'unknown' ? normalized : '';
+  return normalized && normalized.toLowerCase() !== "unknown" ? normalized : "";
 }
 
 function compareByPubDateDesc(a, b) {
@@ -116,7 +118,7 @@ function compareByPubDateDesc(a, b) {
   return 0;
 }
 
-function buildMarkdown(items, dayLabel, previousDayLabel) {
+function buildMarkdown(items, previousDayLabel) {
   const sortedItems = [...items].sort(compareByPubDateDesc);
   const grouped = new Map();
   let addedItemCount = 0;
@@ -135,12 +137,12 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
   }
 
   const lines = [];
-  lines.push(`# News for ${dayLabel} ${formatDateTime(new Date())}`);
-  lines.push('');
+  lines.push(`# News for ${formatDateTime(new Date())}`);
+  lines.push("");
 
   if (previousDayLabel) {
     lines.push(`Previous day: [${previousDayLabel}](./${previousDayLabel}.md)`);
-    lines.push('');
+    lines.push("");
   }
 
   const orderedDomains = [...grouped.keys()].sort((a, b) => {
@@ -171,11 +173,11 @@ function buildMarkdown(items, dayLabel, previousDayLabel) {
       lines.push(`- ${timeLabel} [${title}](${link})`);
     }
 
-    lines.push('');
+    lines.push("");
   }
 
   return {
-    markdown: lines.join('\n').trimEnd() + '\n',
+    markdown: lines.join("\n").trimEnd() + "\n",
     addedItemCount,
   };
 }
@@ -193,11 +195,10 @@ function processDay(date) {
   const items = readJsonArray(jsonPath);
   const { markdown, addedItemCount } = buildMarkdown(
     items,
-    dayLabel,
     fs.existsSync(previousMdPath) ? previousDayLabel : null,
   );
 
-  fs.writeFileSync(mdPath, markdown, 'utf8');
+  fs.writeFileSync(mdPath, markdown, "utf8");
 
   console.log(`Loaded ${items.length} items from ${jsonPath}`);
   console.log(`Added ${addedItemCount} items to ${mdPath}`);
