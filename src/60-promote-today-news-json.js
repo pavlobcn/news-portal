@@ -40,9 +40,8 @@ function main() {
   createdFiles.push(promotedTodayFile);
 
   if (fs.existsSync(dataNewsFile)) {
-    // do not delete news.json file for debug
-    // fs.unlinkSync(dataNewsFile);
-    // deletedFiles.push(dataNewsFile);
+    fs.unlinkSync(dataNewsFile);
+    deletedFiles.push(dataNewsFile);
   }
 
   console.log(`Created files: ${createdFiles.join(", ") || "(none)"}`);
