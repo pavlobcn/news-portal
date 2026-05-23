@@ -1,4 +1,4 @@
-# News for 2026-05-23 2026-05-23 09:11
+# News for 2026-05-23 2026-05-23 11:19
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
@@ -61,6 +61,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 00:21 [Рубіо розповів про ситуацію у переговорах з Іраном](https://ua.korrespondent.net/world/4880775-rubio-rozpoviv-pro-sytuatsiui-u-perehovorakh-z-iranom)
 
 ## as.com
+-  |  | Baloncesto
+- 09:38 [“Soy optimista, creo que el Madrid seguirá en la Euroliga”](https://as.com/baloncesto/euroliga/soy-optimista-creo-que-el-madrid-seguira-en-la-euroliga-f202605-n/)
 -  |  | Menorca bàsquet
 - 08:42 [Era la canasta ganadora al 99,9% y acabó en prórroga: lo que le sucedió al Hestia Menorca no pasa en 100 vidas](https://as.com/baloncesto/era-la-canasta-ganadora-al-999-y-acabo-en-prorroga-lo-que-le-sucedio-al-hestia-menorca-no-pasa-en-100-vidas-f202605-v/)
 -  |  | Menorca bàsquet
@@ -71,6 +73,46 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 01:30 [Un Movistar Estudiantes de récord regresa a la Final Four](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 11:08 [Detenido por cometer 18 robos rompiendo las lunas de los vehículos en un parking de Barcelona](https://www.elperiodico.com/es/barcelona/20260523/barcelona-robos-parking-eixample-130565900)
+-  |  | 
+- 11:05 [El aviso de la OCU: el método de los ciberdelincuentes que vacían cuentas bancarias sin robar la tarjeta](https://www.elperiodico.com/es/sociedad/20260523/ocu-avisa-ciberdelincuentes-robos-tarjeta-de-credito-guia-dv-130149348)
+-  |  | 
+- 11:01 [Los 18 catalanes de la Global Sumud Flotilla llegan este sábado a Barcelona](https://www.elperiodico.com/es/internacional/20260523/18-catalanes-global-sumud-flotilla-llegan-barcelona-130565947)
+-  |  | 
+- 11:00 [La Ley de Propiedad Horizontal lo confirma: los propietarios pueden rechazar el pago de obras y mejoras opcionales en su comunidad de vecinos](https://www.elperiodico.com/es/vivienda/20260523/ley-horizontal-comunidad-vecinos-impago-derramas-cuotas-ordinarias-dv-130388002)
+-  |  | 
+- 11:00 [El error que muchas familias cometen con el inglés: más academia no siempre ayuda](https://www.elperiodico.com/es/sociedad/20260523/error-familias-cometen-ingles-academia-130139274)
+-  |  | 
+- 10:59 [De Asturias a la Luna: Arturo Fernández, el ingeniero español en la misión Artemis 2 cuenta su experiencia](https://www.elperiodico.com/es/sociedad/20260523/asturias-luna-arturo-fernandez-ingeniero-130533518)
+-  |  | 
+- 10:56 [Barcelona cambia el mobiliario y los recorridos en 12 áreas de perros de parques y jardines](https://www.elperiodico.com/es/barcelona/20260523/barcelona-perros-areas-zuc-parques-jardines-130565602)
+-  |  | 
+- 10:45 [Bill Gates, sobre qué puestos de trabajo seguirán existiendo pese a la irrupación de la IA](https://www.elperiodico.com/es/tecnologia/20260523/ia-bill-gates-empleos-dv-130392242)
+-  |  | 
+- 10:15 [Ya es oficial: La UE cambia las normas y permitirá limitar las prestaciones sociales a los ciudadanos que no cumplan estas condiciones](https://www.elperiodico.com/es/economia/20260523/oficial-ue-cambia-normas-permitira-limitar-prestaciones-sociales-ciudadanos-condiciones-dv-130413292)
+-  |  | 
+- 10:15 [David Bueno, neurocientífico: "Cuando una niña llega a adolescente, cambia la respuesta cerebral al oír la voz de su madre"](https://www.elperiodico.com/es/sociedad/20260523/cerebro-adolescentes-padres-hijos-david-bueno-neurocientifico-dv-130367646)
+-  |  | 
+- 10:13 [El sector turístico confía en que el efecto del viaje del Papa se alargue en Barcelona tras su visita](https://www.elperiodico.com/es/barcelona/20260523/papa-leon-xiv-visita-barcelona-precios-hoteles-turismo-130564851)
+-  |  | 
+- 10:00 [La imputación de Zapatero hiere el corazón del PSOE](https://www.elperiodico.com/es/opinion/20260523/imputacion-zapatero-hiere-corazon-psoe-130554756)
+-  |  | 
+- 10:00 [El último mitin de ZP](https://www.elperiodico.com/es/opinion/20260523/ultimo-mitin-zp-130552685)
+-  |  | 
+- 10:00 [Un año para las elecciones municipales: así preparan los partidos catalanes la cita con las urnas](https://www.elperiodico.com/es/politica/20260523/elecciones-municipales-cataluna-candidatos-130443153)
+-  |  | 
+- 09:50 [Cae una banda que estafó 400.000 euros en toda España mediante estafas telefónicas](https://www.elperiodico.com/es/sociedad/20260523/estafas-telefonicas-banda-alicante-detenidos-guardia-civil-130564701)
+-  |  | 
+- 09:35 [Trump renuncia a asistir a la boda de su hijo por "responsabilidades de Gobierno" en plena tensión con Irán y Cuba](https://www.elperiodico.com/es/internacional/20260523/trump-renuncia-asistir-compromiso-hijo-responsabilidades-de-gobierno-130564624)
+-  |  | 
+- 09:35 [Barcelona roza las 7.000 terrazas en bares y restaurantes, un 6% más que hace cuatro años](https://www.elperiodico.com/es/barcelona/20260523/barcelona-terrazas-bares-restaurantes-nuevas-sanciones-130564251)
+-  |  | 
+- 09:18 [Pilar Jurado: "La música es mágica: tocas sentimientos y conmueves, que es algo sagrado y maravilloso"](https://www.elperiodico.com/es/ocio-y-cultura/20260523/pilar-jurado-musica-magica-tocas-130564457)
+-  |  | 
+- 09:15 [Fiestas descomunales para los más pequeños en Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260523/fiestas-descomunales-pequenos-barcelona-ninos-padres-caldera-130555562)
+-  |  | 
+- 09:14 [Un café en las alturas: Pilar Jurado](https://www.elperiodico.com/es/videos/politica/cafe-alturas-pilar-jurado/130564285.shtml)
 -  |  | 
 - 09:05 [Cambios en Rodalies: estos son los horarios del 25 de mayo, festivo en muchas localidades de Catalunya](https://www.elperiodico.com/es/trafico-y-transportes/20260523/cambios-rodalies-son-horarios-25-mayo-festivo-cataluna-dv-130409056)
 -  |  | 
@@ -93,6 +135,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 08:10 [Guerra de Irán, en directo: última hora | Irán acusa a EEUU de sabotear las negociaciones de paz](https://www.elperiodico.com/es/internacional/20260523/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)
 -  |  | 
 - 08:06 [Mueren al menos 90 personas en una explosión en una mina de carbón en China](https://www.elperiodico.com/es/internacional/20260523/mueren-82-personas-accidente-mina-130563242)
+-  |  | 
+- 08:06 [Al menos 90 muertos por una explosión de gas en una mina de carbón en el norte de China](https://www.elperiodico.com/es/internacional/20260523/muertos-explosion-gas-mina-carbon-china-130563242)
 -  |  | 
 - 08:06 [Se filtran imágenes del 'Dacia Duster ruso': ¿llegará el nuevo Lada Niva por fin a la carretera?](https://www.elperiodico.com/es/motor/20260523/filtran-imagenes-dacia-duster-ruso-lada-niva-130439370)
 -  |  | 
