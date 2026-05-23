@@ -1,8 +1,36 @@
-# News for 2026-05-23 2026-05-23 06:13
+# News for 2026-05-23 2026-05-23 09:11
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## ua.korrespondent.net
+-  |  | Новини спорту
+- 08:53 [Усик – Верховен: анонс поєдинку за звання чемпіона світу](https://ua.korrespondent.net/sport/4880622-usyk-verkhoven-anons-poiedynku-za-zvannia-chempiona-svitu)
+-  |  | Новини боксу
+- 08:49 [Усик різко відповів критикам перед боєм](https://ua.korrespondent.net/sport/boks/4880823-usyk-rizko-vidpoviv-krytykam-pered-boiem)
+-  |  | Новини України
+- 08:46 [Мельник порівняв Росію в Радбезі ООН з Лжедмитрієм](https://ua.korrespondent.net/ukraine/4880824-melnyk-porivniav-rosiui-v-radbezi-oon-z-lzhedmytriiem)
+-  |  | Новини хокею
+- 08:30 [Плей-оф НХЛ: Вегас обіграв Колорадо](https://ua.korrespondent.net/sport/hokey/4880820-plei-of-nkhl-vehas-obihrav-kolorado)
+-  |  | Новини України
+- 08:21 [Стало відомо, як вночі відпрацювала ППО](https://ua.korrespondent.net/ukraine/4880819-stalo-vidomo-yak-vnochi-vidpratsuivala-ppo)
+-  |  | Новини баскетболу
+- 08:06 [Плей-оф НБА: Оклахома обіграла Сан-Антоніо](https://ua.korrespondent.net/sport/basketball/4880816-plei-of-nba-oklakhoma-obihrala-san-antonio)
+-  |  | Росія новини
+- 08:01 [Росія оголосила Каспарова у міжнародний розшук](https://ua.korrespondent.net/world/russia/4880815-rosiia-oholosyla-kasparova-u-mizhnarodnyi-rozshuk)
+-  |  | Новини футболу
+- 07:45 [Модрич готовий вийти на поле з переломом](https://ua.korrespondent.net/sport/football/4880813-modrych-hotovyi-vyity-na-pole-z-perelomom)
+-  |  | Новини України
+- 07:39 [ЗСУ уразили дев'ять скупчень російських військ](https://ua.korrespondent.net/ukraine/4880811-zsu-urazyly-deviat-skupchen-rosiiskykh-viisk)
+-  |  | Новини світу
+- 07:24 [Cловенія отримала нового прем’єр-міністра](https://ua.korrespondent.net/world/4880809-Cloveniia-otrymala-novoho-premier-ministra)
+-  |  | Росія новини
+- 07:04 [У Іркутську спалахнув науково-дослідний інститут](https://ua.korrespondent.net/world/russia/4880806-u-irkutsku-spalakhnuv-naukovo-doslidnyi-instytut)
+-  |  | Новини України
+- 06:46 [Генштаб назвав втрати Росії станом на 23 травня](https://ua.korrespondent.net/ukraine/4880804-henshtab-nazvav-vtraty-rosii-stanom-na-23-travnia)
+-  |  | Новини футболу
+- 06:30 [Лідер збірної Аргентини отримав перелом пальця](https://ua.korrespondent.net/sport/football/4880802-lider-zbirnoi-arhentyny-otrymav-perelom-paltsia)
+-  |  | Новини світу
+- 06:29 [США призупинили видачу віз громадянам із країн, охоплених Еболою - ЗМІ](https://ua.korrespondent.net/world/4880800-ssha-pryzupynyly-vydachu-viz-hromadianam-iz-krain-okhoplenykh-eboloui-zmi)
 -  |  | Новини України
 - 05:58 [Підсумки 22.05: Зупинка перемовин і удари по НПЗ](https://ua.korrespondent.net/ukraine/4880654-pidsumky-2205-zupynka-peremovyn-i-udary-po-npz)
 -  |  | Новини світу
@@ -33,10 +61,74 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 00:21 [Рубіо розповів про ситуацію у переговорах з Іраном](https://ua.korrespondent.net/world/4880775-rubio-rozpoviv-pro-sytuatsiui-u-perehovorakh-z-iranom)
 
 ## as.com
+-  |  | Menorca bàsquet
+- 08:42 [Era la canasta ganadora al 99,9% y acabó en prórroga: lo que le sucedió al Hestia Menorca no pasa en 100 vidas](https://as.com/baloncesto/era-la-canasta-ganadora-al-999-y-acabo-en-prorroga-lo-que-le-sucedio-al-hestia-menorca-no-pasa-en-100-vidas-f202605-v/)
+-  |  | Menorca bàsquet
+- 08:42 [Era la canasta ganadora al 99,9% y acabó en prórroga: lo que le sucedió al Hestia Menorca no pasa en 100 vidas](https://as.com/baloncesto/era-la-canasta-ganadora-al-999-y-acabo-en-prorroga-lo-que-le-sucedio-al-hestia-menorca-no-pasa-en-100-vidas-f202605-v/)
+-  |  | Menorca bàsquet
+- 08:42 [Era la canasta ganadora al 99,9% y acabó en prórroga: lo que le sucedió al Hestia Menorca no pasa en 100 vidas](https://as.com/baloncesto/era-la-canasta-ganadora-al-999-y-acabo-en-prorroga-lo-que-le-sucedio-al-hestia-menorca-no-pasa-en-100-vidas-f202605-v/)
 -  |  | Primera FEB
 - 01:30 [Un Movistar Estudiantes de récord regresa a la Final Four](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 09:05 [Cambios en Rodalies: estos son los horarios del 25 de mayo, festivo en muchas localidades de Catalunya](https://www.elperiodico.com/es/trafico-y-transportes/20260523/cambios-rodalies-son-horarios-25-mayo-festivo-cataluna-dv-130409056)
+-  |  | 
+- 09:00 [Movimientos tras el caso Zapatero](https://www.elperiodico.com/es/politica/20260523/movimientos-caso-zapatero-sanchez-feijoo-130560898)
+-  |  | 
+- 09:00 [Elisabeth Finch, la guionista de 'Anatomía de Grey' que se inventó un cáncer para triunfar](https://www.elperiodico.com/es/tele/20260523/elisabeth-finch-guionista-anatomia-grey-cancer-mentiras-130527651)
+-  |  | 
+- 09:00 [Las obras del Trambesòs cortarán la T4, T5 y T6 desde julio y mantendrán afectadas la T5 y T6 hasta 2027](https://www.elperiodico.com/es/barcelona/20260523/corte-lineas-t4-t5-t6-trambesos-gran-via-diagonal-130533280)
+-  |  | 
+- 09:00 [Reyes, coroneles y lucha callejera en Grecia](https://www.elperiodico.com/es/internacional/20260523/grecia-reyes-coroneles-lucha-callejera-anarquia-130487132)
+-  |  | 
+- 08:22 [Jonathan Andic, hijo del fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo](https://www.elperiodico.com/es/sociedad/20260523/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411)
+-  |  | 
+- 08:20 [Operación salida de la Segunda Pascua, hoy en directo: última hora del tráfico en Barcelona y Catalunya](https://www.elperiodico.com/es/sociedad/20260523/operacion-salida-segunda-pascua-hoy-130546574)
+-  |  | 
+- 08:15 [Guerra Ucrania - Rusia, en directo, última hora | Rusia afirma que el ataque ucraniano sobre la universidad de Lugansk "debilita" el proceso de negociación](https://www.elperiodico.com/es/internacional/20260523/guerra-ucrania-rusia-directo-ultima-126605559)
+-  |  | 
+- 08:14 [Bad Bunny en Barcelona, en directo: última hora del concierto en el Estadi Olímpic, setlist y actuación del artista](https://www.elperiodico.com/es/ocio-y-cultura/20260523/bad-bunny-concierto-barcelona-ultima-hora-directo-130536385)
+-  |  | 
+- 08:10 [Guerra de Irán, en directo: última hora | Irán acusa a EEUU de sabotear las negociaciones de paz](https://www.elperiodico.com/es/internacional/20260523/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)
+-  |  | 
+- 08:06 [Mueren al menos 90 personas en una explosión en una mina de carbón en China](https://www.elperiodico.com/es/internacional/20260523/mueren-82-personas-accidente-mina-130563242)
+-  |  | 
+- 08:06 [Se filtran imágenes del 'Dacia Duster ruso': ¿llegará el nuevo Lada Niva por fin a la carretera?](https://www.elperiodico.com/es/motor/20260523/filtran-imagenes-dacia-duster-ruso-lada-niva-130439370)
+-  |  | 
+- 08:00 [Sánchez: ¿Moreno, el mal menor?](https://www.elperiodico.com/es/opinion/20260523/sanchez-moreno-mal-menor-130556622)
+-  |  | 
+- 08:00 [Bardem y el machismo español](https://www.elperiodico.com/es/opinion/20260523/bardem-machismo-espanol-130553881)
+-  |  | 
+- 08:00 [Los profesionales del tercer sector denuncian falta de apoyo psicológico: "Deberíamos tener terapia gratuita"](https://www.elperiodico.com/es/ser-feliz/20260523/profesionales-tercer-sector-denuncian-falta-130354536)
+-  |  | 
+- 08:00 [El Enigma es Albert Adrià: camino de la década, el restaurante rompe las reglas del menú](https://www.elperiodico.com/es/gastronomia/restaurantes/20260523/restaurante-enigma-barcelona-130370630)
+-  |  | 
+- 08:00 [Un idioma para denigrar a Zapatero en cada red social](https://www.elperiodico.com/es/gente/20260523/idioma-denigrar-zapatero-red-social-130504655)
+-  |  | 
+- 08:00 [Chloe Dalton y las lecciones de vida de una liebre: "Una criatura totalmente silenciosa me ayudó a encontrar mi propia voz"](https://www.elperiodico.com/es/ocio-y-cultura/20260523/chloe-dalton-liebre-lebrato-lecciones-vida-130354607)
+-  |  | 
+- 08:00 [Del 'superárbol' navideño de Albiol a los 'tardeos' ochenteros: la plaza de los grandes eventos en Badalona](https://www.elperiodico.com/es/barcelona/20260523/superarbol-navideno-albiol-tardeos-ochenteros-plaza-grandes-eventos-badalona-130548689)
+-  |  | 
+- 08:00 [Crónica desde Berlín: el Späti, donde arranca o termina toda fiesta](https://www.elperiodico.com/es/internacional/20260523/cronica-berlin-spati-quioscos-arranca-termina-fiesta-130563144)
+-  |  | 
+- 07:17 [Las claves de la investigación sobre la muerte de Isak Andic en Montserrat](https://www.elperiodico.com/es/videos/sucesos/claves-investigacion-muerte-isak-andic/130543760.shtml)
+-  |  | 
+- 07:06 [Rocío Crusset, hija de Mariló Montero, se casará en Nueva York en apenas una semana: "Nos vamos de boda"](https://www.elperiodico.com/es/gente/20260523/rocio-crusset-hija-marilo-montero-boda-nueva-york-dv-130546094)
+-  |  | 
+- 07:00 [El pódcast de EL PERIÓDICO | De Florentinooo… a Zapaterooo.](https://www.elperiodico.com/es/deportes/20260523/podcast-periodico-florentinooo-zapaterooo-130555808)
+-  |  | 
+- 07:00 [El Real Madrid cierra por fin su 'annus horribilis' con las despedidas de Carvajal, Arbeloa, Alaba... ¿y Florentino?](https://www.elperiodico.com/es/deportes/20260523/bernabeu-carvajal-arbeloa-alaba-florentino-real-madrid-athletic-130546946)
+-  |  | 
+- 07:00 [La Fiscalía pide cárcel para los nueve activistas que lanzaron pintura roja a los leones del Congreso](https://www.elperiodico.com/es/sucesos/20260523/activistas-climatico-pintura-roja-congreso-130563027)
+-  |  | 
+- 07:00 [Familiares de alcohólicos, del infierno a la esperanza: “A la persona querida la he enterrado muchas veces y así no se puede vivir”](https://www.elperiodico.com/es/sociedad/20260523/familiares-alcoholicos-infierno-esperanza-persona-130367412)
+-  |  | 
+- 07:00 [¿Prosperar sin combustibles fósiles? Las ciudades verdes demuestran que es posible](https://www.elperiodico.com/es/sociedad/20260523/prosperar-combustibles-fosiles-ciudades-verdes-130508028)
+-  |  | 
+- 06:30 [Así se amañan algunos partidos, en la jornada 38, sin dinero](https://www.elperiodico.com/es/deportes/20260523/amanan-partidos-jornada-38-dinero-130560157)
+-  |  | 
+- 06:30 [El lugar de la Costa Daurada donde aterrizó el autor de El Principito](https://www.elperiodico.com/es/tarragona/20260523/ruta-costa-daurada-autor-el-principito-hospitalet-infant-vall-de-llors-bc-130390590)
 -  |  | 
 - 06:01 [Partidos de izquierda exploran acuerdos a un año de las municipales y en plena crisis de identidad](https://www.elperiodico.com/es/politica/20260523/izquierda-explora-acuerdos-partidos-ano-130557830)
 -  |  | 
@@ -66,10 +158,16 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 -  |  | 
 - 06:01 [Paco Roca: "No hay un manual de qué hacer cuando te dicen ‘ya no te quiero’"](https://www.elperiodico.com/es/ocio-y-cultura/20260523/paco-roca-el-viaje-comic-entrevista-130303587)
 -  |  | 
+- 06:01 [¿Quién se presentará a la alcaldía de Barcelona y de las principales ciudades de Catalunya en 2027?](https://www.elperiodico.com/es/barcelona/candidatos-alcalde-elecciones-municipales-2027-130470671-rm/index.html)
+-  |  | 
 - 06:01 [¿Quién se presentará a la alcaldía de Barcelona y de las principales ciudades de Catalunya en 2027?](https://www.elperiodico.com/es/barcelona/20260523/presentara-alcaldia-barcelona-principales-ciudades-130509514)
 -  |  | 
 - 06:01 [La lavandería que conquistó al Rey, a Ana Botín y al sector hotelero](https://www.elperiodico.com/es/economia/20260523/lavanderia-conquisto-rey-ana-botin-130507580)
 -  |  | 
 - 06:01 [Los tres círculos de la empresa familiar](https://www.elperiodico.com/es/economia/20260523/tres-circulos-empresa-familiar-130507047)
+-  |  | 
+- 06:01 [Catalunya acelera el reto de la economía circular](https://www.elperiodico.com/es/economia/20260523/catalunya-acelera-reto-economia-circular-bc-130500524)
+-  |  | 
+- 06:01 [Juan Abarca (HM Hospitales): "No queremos apilar hospitales; queremos ser imprescindibles allí donde estemos"](https://www.elperiodico.com/es/economia/20260523/juan-abarca-hm-hospitales-queremos-130492978)
 -  |  | 
 - 05:50 [Entrevista con Pilarín Bayés, gran aficionada del Barça femenino, antes de la final de la Champions](https://www.elperiodico.com/es/videos/sociedad/entrevista-pilarin-bayes-gran-aficionada/130508007.shtml)
