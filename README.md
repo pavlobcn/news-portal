@@ -1,8 +1,42 @@
-# News for 2026-05-23 2026-05-23 12:50
+# News for 2026-05-23 2026-05-23 13:49
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 13:39 [Україна відповіла на "урізане" членство в ЄС - ЗМІ](https://ua.korrespondent.net/ukraine/4880864-ukraina-vidpovila-na-urizane-chlenstvo-v-yes-zmi)
+-  |  | Новини футболу
+- 13:35 [Бастоні може продовжити кар'єру в Ла Лізі](https://ua.korrespondent.net/sport/football/4880862-bastoni-mozhe-prodovzhyty-karieru-v-la-lizi)
+-  |  | Новини України
+- 13:14 [У Новгороді-Сіверському троє поліцейських постраждали через атаку дрона](https://ua.korrespondent.net/ukraine/4880860-u-novhorodi-siverskomu-troie-politseiskykh-postrazhdaly-cherez-ataku-drona)
+-  |  | Новини світу
+- 12:59 [США чотири рази відкривали попереджувальний вогонь по кораблям в Ормузі](https://ua.korrespondent.net/world/4880857-ssha-chotyry-razy-vidkryvaly-poperedzhuvalnyi-vohon-po-korabliam-v-ormuzi)
+-  |  | Львів
+- 12:28 [У Львові через наїзд потяга загинув чоловік](https://ua.korrespondent.net/city/lvov/4880855-u-lvovi-cherez-naizd-potiaha-zahynuv-cholovik)
+-  |  | Новини футболу
+- 12:26 [Барселона не відмовилася від трансферу топ-форварда](https://ua.korrespondent.net/sport/football/4880852-barselona-ne-vidmovylasia-vid-transferu-top-forvarda)
+-  |  | Новини України
+- 12:01 [СБУ уразила хімічний завод у Пермському краї](https://ua.korrespondent.net/ukraine/4880850-sbu-urazyla-khimichnyi-zavod-u-permskomu-krai)
+-  |  | Новини боксу
+- 11:59 [Спаринг-партнер Верховена розкрив несподіваний факт перед боєм з Усиком](https://ua.korrespondent.net/sport/boks/4880847-sparynh-partner-verkhovena-rozkryv-nespodivanyi-fakt-pered-boiem-z-usykom)
+-  |  | Новини України
+- 11:43 [Дрон РФ атакував похоронну процесію в Сумах](https://ua.korrespondent.net/ukraine/4880846-dron-rf-atakuvav-pokhoronnu-protsesiui-v-sumakh)
+-  |  | Новини України
+- 11:22 [Сибіга заявив про новий прогрес у межах PURL](https://ua.korrespondent.net/ukraine/4880844-sybiha-zaiavyv-pro-novyi-prohres-u-mezhakh-PURL)
+-  |  | Новини фінансів
+- 10:57 [НБУ випустив нову монету незвичної форми](https://ua.korrespondent.net/business/financial/4880841-nbu-vypustyv-novu-monetu-nezvychnoi-formy)
+-  |  | Новини футболу
+- 10:49 [Артета назвав головний фактор чемпіонства Арсеналу](https://ua.korrespondent.net/sport/football/4880839-arteta-nazvav-holovnyi-faktor-chempionstva-arsenalu)
+-  |  | Новини спорту
+- 10:30 [Чи зупинить Штутгарт чемпіонську Баварію: анонс фіналу Кубка Німеччини](https://ua.korrespondent.net/sport/4880667-chy-zupynyt-shtuthart-chempionsku-bavariui-anons-finalu-kubka-nimechchyny)
+-  |  | Новини компаній
+- 10:22 [Росія продасть чверть Аерофлоту для поповнення дірявого бюджету](https://ua.korrespondent.net/business/companies/4880837-rosiia-prodast-chvert-aeroflotu-dlia-popovnennia-diriavoho-buidzhetu)
+-  |  | Новини України
+- 09:56 [Суми будуть повністю знеструмлені](https://ua.korrespondent.net/ukraine/4880834-sumy-budut-povnistui-znestrumleni)
+-  |  | Новини світу
+- 09:29 [У Данії провалилась спроба сформувати уряд меншості](https://ua.korrespondent.net/world/4880831-u-danii-provalylas-sproba-sformuvaty-uriad-menshosti)
+-  |  | Новини світу
+- 09:07 [У Китаї через вибух на шахті загинули 82 гірники](https://ua.korrespondent.net/world/4880828-u-kytai-cherez-vybukh-na-shakhti-zahynuly-82-hirnyky)
 -  |  | Новини спорту
 - 08:53 [Усик – Верховен: анонс поєдинку за звання чемпіона світу](https://ua.korrespondent.net/sport/4880622-usyk-verkhoven-anons-poiedynku-za-zvannia-chempiona-svitu)
 -  |  | Новини боксу
@@ -62,6 +96,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## as.com
 -  |  | Baloncesto
+- 12:56 [“Es muy raro que el Madrid no sea favorito en una final”](https://as.com/baloncesto/euroliga/es-muy-raro-que-el-madrid-no-sea-favorito-en-una-final-f202605-n/)
+-  |  | Baloncesto
 - 09:38 [“Soy optimista, creo que el Madrid seguirá en la Euroliga”](https://as.com/baloncesto/euroliga/soy-optimista-creo-que-el-madrid-seguira-en-la-euroliga-f202605-n/)
 -  |  | Menorca bàsquet
 - 08:42 [Era la canasta ganadora al 99,9% y acabó en prórroga: lo que le sucedió al Hestia Menorca no pasa en 100 vidas](https://as.com/baloncesto/era-la-canasta-ganadora-al-999-y-acabo-en-prorroga-lo-que-le-sucedio-al-hestia-menorca-no-pasa-en-100-vidas-f202605-v/)
@@ -73,6 +109,26 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 01:30 [Un Movistar Estudiantes de récord regresa a la Final Four](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 13:34 [El Reino Unido planteó a la UE crear un mercado único de bienes, según medios](https://www.elperiodico.com/es/internacional/20260523/reino-unido-planteo-ue-crear-130569812)
+-  |  | 
+- 13:30 [¿Aire acondicionado o ventilador? Descubre qué es mejor para tu descanso nocturno](https://www.elperiodico.com/es/vida-y-estilo/20260523/jose-manuel-felices-medico-revela-mejor-ventilador-aire-acondicionado-bacterias-dv-120242327)
+-  |  | 
+- 13:21 [El calor sube en Barcelona este fin de semana y las temperaturas se disparan a 35 grados en Catalunya](https://www.elperiodico.com/es/barcelona/20260523/tiempo-barcelona-calor-temperaturas-catalunya-fin-semana-130569068)
+-  |  | 
+- 13:20 [Ya es oficial: fechas, requisitos y novedades de los vales escolares de Catalunya](https://www.elperiodico.com/es/educacion/20260523/vales-escolares-cataluna-fechas-requisitos-novedades-dv-loc-130176495)
+-  |  | 
+- 13:15 [Florentino arranca la campaña con una lona frente al Bernabéu a la espera de Riquelme](https://www.elperiodico.com/es/deportes/20260523/enrique-riquelme-florentino-perez-real-madrid-elecciones-130569139)
+-  |  | 
+- 13:15 [Indignación en el primer concierto de Bad Bunny en Barcelona: un asistente denuncia haber pagado 500 euros por una experiencia VIP "sin poder moverse"](https://www.elperiodico.com/es/ocio-y-cultura/20260523/indignacion-primer-concierto-bad-bunny-130568723)
+-  |  | 
+- 13:00 [La inversión desconocida de Bad Bunny: socio de una histórica franquicia en Puerto Rico valorada en más de dos millones de dólares](https://www.elperiodico.com/es/gente/20260523/inversion-desconocida-bad-bunny-franquicia-puerto-rico-millones-dv-130546904)
+-  |  | 
+- 13:00 [Encuentran muerto a Stewart McLean, el actor de la serie de Netflix 'Un lugar para soñar', tras varios días desaparecido](https://www.elperiodico.com/es/ocio-y-cultura/20260523/encuentran-muerto-stewart-mclean-actor-130567851)
+-  |  | 
+- 12:55 [Uganda confirma tres nuevos casos de ébola y pide calma a la población](https://www.elperiodico.com/es/internacional/20260523/uganda-confirma-tres-nuevos-casos-ebola-130568648)
+-  |  | 
+- 12:50 [Marc Giró y Lamine Yamal entre los invitados del concierto de Bad Bunny en Barcelona](https://www.elperiodico.com/es/videos/ocio-y-cultura/marc-giro-lamine-yamal-invitados/130568429.shtml)
 -  |  | 
 - 12:45 ["La mejor pastelería": los dulces que han enamorado a Santa Coloma](https://www.elperiodico.com/es/barcelona/santa-coloma/20260523/mejor-pasteleria-santa-coloma-google-dv-loc-107209626)
 -  |  | 
