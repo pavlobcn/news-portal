@@ -1,8 +1,12 @@
-# News for 2026-05-23 2026-05-23 13:49
+# News for 2026-05-23 2026-05-23 14:49
 
 Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 14:22 [Зеленський: Присутність України в ЄС має бути повноцінною](https://ua.korrespondent.net/ukraine/4880869-zelenskyi-prysutnist-ukrainy-v-yes-maie-buty-povnotsinnoui)
+-  |  | Новини України
+- 14:01 [Президент ввів санкції проти російських ракетників](https://ua.korrespondent.net/ukraine/4880866-prezydent-vviv-sanktsii-proty-rosiiskykh-raketnykiv)
 -  |  | Новини України
 - 13:39 [Україна відповіла на "урізане" членство в ЄС - ЗМІ](https://ua.korrespondent.net/ukraine/4880864-ukraina-vidpovila-na-urizane-chlenstvo-v-yes-zmi)
 -  |  | Новини футболу
@@ -96,6 +100,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 
 ## as.com
 -  |  | Baloncesto
+- 13:58 [Lío en Atenas: “La Euroliga tiene la obligación de explicarlo”](https://as.com/baloncesto/euroliga/lio-en-atenas-la-euroliga-tiene-la-obligacion-de-explicarlo-f202605-n/)
+-  |  | Baloncesto
 - 12:56 [“Es muy raro que el Madrid no sea favorito en una final”](https://as.com/baloncesto/euroliga/es-muy-raro-que-el-madrid-no-sea-favorito-en-una-final-f202605-n/)
 -  |  | Baloncesto
 - 09:38 [“Soy optimista, creo que el Madrid seguirá en la Euroliga”](https://as.com/baloncesto/euroliga/soy-optimista-creo-que-el-madrid-seguira-en-la-euroliga-f202605-n/)
@@ -109,6 +115,36 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 01:30 [Un Movistar Estudiantes de récord regresa a la Final Four](https://as.com/baloncesto/mas_baloncesto/un-movistar-estudiantes-de-record-regresa-a-la-final-four-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 14:46 [Bruselas advierte de que emitir más deuda común de la UE "no sale gratis"](https://www.elperiodico.com/es/economia/20260523/bruselas-comision-europea-deuda-comun-no-gratis-130571289)
+-  |  | 
+- 14:46 [Helados que se derriten en un minuto por un calor sin precedentes en Asturias: "Solo se puede estar debajo de un árbol"](https://www.elperiodico.com/es/sociedad/20260523/helados-derriten-minuto-calor-precedentes-130571743)
+-  |  | 
+- 14:42 [Una mujer da a luz a una niña en plena calle en Palma](https://www.elperiodico.com/es/sociedad/20260523/mujer-da-luz-nina-plena-130571690)
+-  |  | 
+- 14:40 [Decenas de miles de personas claman en Madrid contra el Gobierno "corrupto" de Sánchez y piden su dimisión "inmediata"](https://www.elperiodico.com/es/politica/20260523/dirigentes-pp-vox-manifiestan-cientos-madrid-dimision-sanchez-130568960)
+-  |  | 
+- 14:38 [Manel Manzano, veterinario: "Hay un medicamento que le podemos dar a nuestro perro para casi cualquier tipo de dolor"](https://www.elperiodico.com/es/vida-y-estilo/20260523/manel-manzano-veterinario-medicamento-dolor-perro-dv-130567790)
+-  |  | 
+- 14:33 [Educadores infantiles de toda España se manifiestan en Madrid para exigir unas "condiciones dignas"](https://www.elperiodico.com/es/sociedad/20260523/educadores-infantiles-espana-manifiestan-madrid-130571283)
+-  |  | 
+- 14:30 [Ibai Llanos prueba la tortilla más cara del mundo y llega a esta reflexión: "Las cosas como son"](https://www.elperiodico.com/es/gente/20260523/ibai-llanos-prueba-tortilla-mas-cara-del-mundo-dv-130536320)
+-  |  | 
+- 14:19 [Estados Unidos ordena entrenar bajo aislamiento a la selección de RD Congo por el brote de ébola](https://www.elperiodico.com/es/internacional/20260523/ebola-virus-mundial-futbol-seleccion-rd-congo-aislamiento-130570181)
+-  |  | 
+- 14:13 [FC Barcelona - OL Lyonnes, en directo: cuándo es el partido y última hora de la final de la Champions League femenina 2026](https://www.elperiodico.com/es/deportes/20260523/fc-barcelona-barca-oly-lyonnes-final-champions-league-femenina-2026-130565780)
+-  |  | 
+- 14:00 [El gemelo digital de Michelin mejora la seguridad del coche sin usar sensores físicos](https://www.elperiodico.com/es/motor/20260523/gemelo-digital-michelin-mejora-seguridad-coche-130526776)
+-  |  | 
+- 13:58 [El brote de ébola en la RD del Congo desborda los mecanismos de rastreo: solo se hace seguimiento a 1 de cada 5 contactos identificados](https://www.elperiodico.com/es/internacional/20260523/brote-ebola-rd-congo-desborda-rastreo-sanitario-seguimiento-1-cada-5-contactos-130570366)
+-  |  | 
+- 13:58 [Decenas de miles de personas claman en Madrid contra Sánchez y exigen su dimisión](https://www.elperiodico.com/es/videos/sociedad/decenas-miles-personas-claman-madrid/130570478.shtml)
+-  |  | 
+- 13:55 [Lola Lolita y Alonso López hablan de sus planes de futuro con los rumores de posible boda](https://www.elperiodico.com/es/videos/gente/lola-lolita-alonso-lopez-hablan/130570178.shtml)
+-  |  | 
+- 13:54 [Lucía Pombo, "con ganas y miedo" en plena cuenta atrás para convertirse en madre](https://www.elperiodico.com/es/videos/gente/lucia-pombo-ganas-miedo-plena/130570243.shtml)
+-  |  | 
+- 13:50 [Gijón pondrá el nombre de Luis Enrique a una playa de la ciudad](https://www.elperiodico.com/es/deportes/20260523/luis-enrique-gijon-playa-nombre-130569810)
 -  |  | 
 - 13:34 [El Reino Unido planteó a la UE crear un mercado único de bienes, según medios](https://www.elperiodico.com/es/internacional/20260523/reino-unido-planteo-ue-crear-130569812)
 -  |  | 
@@ -167,6 +203,8 @@ Previous day: [2026-05-22](./data/2026-05-22.md)
 - 11:43 [Madrid activa 55.700 plazas en casas, colegios y parroquias para acoger a los peregrinos del viaje del Papa: "Es un milagro"](https://www.elperiodico.com/es/sociedad/20260523/madrid-plazas-dormir-peregrinos-visita-papa-leonxiv-130428049)
 -  |  | 
 - 11:36 [La imputación de Zapatero reabre el debate sobre la opacidad del estatuto de los expresidentes](https://www.elperiodico.com/es/politica/20260523/imputacion-zapatero-caso-plus-ultra-estatuto-expresidentes-130566073)
+-  |  | 
+- 11:31 [Feijóo sostiene que Zapatero "tenía al Gobierno detrás" en el caso Plus Ultra: "No era un jubilado haciendo negocios"](https://www.elperiodico.com/es/politica/20260523/feijoo-respalda-prohens-reeleccion-presidenta-130566493)
 -  |  | 
 - 11:29 [DIRECTO | Feijóo y Prohens intervienen en el XVII Congreso Autonómico del PP de Islas Baleares](https://www.elperiodico.com/es/videos/politica/directo-feijoo-prohens-intervienen-xvii/130566431.shtml)
 -  |  | 
