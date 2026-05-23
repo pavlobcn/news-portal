@@ -1,6 +1,28 @@
 [
   {
     "item": {
+      "title": "Incendio de un autobús en Badalona: cortada la C-31 en ambos sentidos",
+      "link": "https://www.elperiodico.com/es/barcelona/20260523/incendio-autobus-badalona-cortada-c-130577489",
+      "pubDate": "2026-05-23 19:19:10",
+      "category": "",
+      "description": "<h2>El siniestro se registró a las 18.30 horas y no hay constancia de heridos</h2>",
+      "topic": "трафік в Барселоні",
+      "topic_match_probability": 80
+    }
+  },
+  {
+    "item": {
+      "title": "Operación salida de la Segunda Pascua, hoy en directo: última hora del tráfico en Barcelona y Catalunya",
+      "link": "https://www.elperiodico.com/es/sociedad/20260523/operacion-salida-segunda-pascua-hoy-130546574",
+      "pubDate": "2026-05-23 19:17:00",
+      "category": "",
+      "description": "",
+      "topic": "трафік в Барселоні",
+      "topic_match_probability": 100
+    }
+  },
+  {
+    "item": {
       "title": "El joven marroquí detenido por no saber explicar su dirección logra un permiso provisional de residencia y trabajo",
       "link": "https://www.elperiodico.com/es/sucesos/20260523/joven-marroqui-detenido-altea-logra-permiso-residencia-trabajo-130577306",
       "pubDate": "2026-05-23 19:09:34",
@@ -9,6 +31,17 @@
     },
     "topic": "автомобілі",
     "topic_match_probability": 85
+  },
+  {
+    "item": {
+      "title": "Гравці Динамо та Шахтаря опинилися у списку претендентів на Golden Boy-2026",
+      "link": "https://ua.korrespondent.net/sport/football/4880903-hravtsi-dynamo-ta-shakhtaria-opynylysia-u-spysku-pretendentiv-na-Golden-Boy-2026",
+      "pubDate": "2026-05-23 19:09:00",
+      "category": "Новини футболу",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4439941.jpg\">Матвій Пономаренко та Кауан Еліас потрапили до списку ста найкращих футболістів віком до 21 року.",
+      "topic": "спорт (але не баскетбол)",
+      "topic_match_probability": 100
+    }
   },
   {
     "item": {
