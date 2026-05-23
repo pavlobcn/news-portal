@@ -39,11 +39,10 @@ function main() {
 
   createdFiles.push(promotedTodayFile);
 
-  // Keep news.json files for downstream steps; only README.md is rotated above.
-  // if (fs.existsSync(dataNewsFile)) {
-  //   fs.unlinkSync(dataNewsFile);
-  //   deletedFiles.push(dataNewsFile);
-  // }
+  if (fs.existsSync(dataNewsFile)) {
+    fs.unlinkSync(dataNewsFile);
+    deletedFiles.push(dataNewsFile);
+  }
 
   console.log(`Created files: ${createdFiles.join(", ") || "(none)"}`);
   console.log(`Deleted files: ${deletedFiles.join(", ") || "(none)"}`);
