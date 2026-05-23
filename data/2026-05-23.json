@@ -1,6 +1,312 @@
 [
   {
     "item": {
+      "title": "¿Vendió 'humo' Julito Martínez al fingir la influencia de su amigo Zapatero en el rescate de Plus Ultra para cobrar la comisión de 530.000 euros?",
+      "link": "https://www.elperiodico.com/es/politica/20260523/vendio-humo-julio-martinez-fingir-influencia-zapatero-rescate-plus-ultra-cobrar-comision-ernesto-ekaizer-130580750",
+      "pubDate": "2026-05-23 21:47:12",
+      "category": "",
+      "description": "<h2>Cui prodest es una locución latina que significa a quién beneficia. Si Julio Martínez Martínez alias Julito, el amigo y asociado a José Luis Rodríguez Zapatero, obtuvo el contrato de 530.000 euros con Plus Ultra fue porque vendió a la compañía que tenía un as en la manga para conseguir el préstamo de 53 millones de euros y ese as era Zapatero tendrá que aportar pruebas. El expresidente lo niega</h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "Bad Bunny  durante su segundo concierto, en el estadio Lluis Companys.",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/bad-bunny-durante-segundo-concierto/130581246.shtml",
+      "pubDate": "2026-05-23 21:46:33",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Ambiente en el segundo concierto de Bad Bunny en el estadio Lluis Companys",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/ambiente-segundo-concierto-bad-bunny/130581003.shtml",
+      "pubDate": "2026-05-23 21:37:03",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "На Сумщині росіяни поранили трьох дітей",
+      "link": "https://ua.korrespondent.net/ukraine/4880922-na-sumschyni-rosiiany-poranyly-trokh-ditei",
+      "pubDate": "2026-05-23 21:35:00",
+      "category": "Новини України",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440025.jpg\">Від ударів російських воєнних злочинців постраждали дівчата 12 і 16 років, а також восьмирічний хлопчик."
+    }
+  },
+  {
+    "item": {
+      "title": "Investigados del caso Zapatero hablaron de \"cortar\" el caso Plus Ultra con sus contactos con la Fiscalía",
+      "link": "https://www.elperiodico.com/es/politica/20260523/investigados-caso-zapatero-hablaron-cortar-130580893",
+      "pubDate": "2026-05-23 21:32:22",
+      "category": "",
+      "description": "<h2>Las fuentes consultadas sostienen que se se referían a la contratación de un letrado y que en realidad no conocían a la fiscal del caso</h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "Los Javis ganan el premio a mejor dirección en Cannes con 'La bola negra'",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260523/javis-ganan-premio-mejor-direccion-cannes-bola-negra-130580653",
+      "pubDate": "2026-05-23 21:28:37",
+      "category": "",
+      "description": "<h2>Los cineastas españoles comparten el galardón ex aequo con el director polaco Pawel Pawlikowski</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260521/epopeya-lorquiana-javis-apabulla-cannes-130509354\">'La bola negra', La epopeya lorquiana de los Javis apabulla en Cannes</a></h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "Sigue en directo la última jornada de La Liga: la permanencia del Girona, en juego",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/sigue-directo-ultima-jornada-liga-barca-girona-espanyol-130580024",
+      "pubDate": "2026-05-23 21:15:55",
+      "category": "",
+      "description": "<h2>Siga, en directo, los partidos del Barça, del Girona y del Espanyol</h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "Segundo concierto de Bad Bunny en el estadio Lluis Companys",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/segundo-concierto-bad-bunny-estadio/130580455.shtml",
+      "pubDate": "2026-05-23 21:14:12",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Санду закликала світ посилити тиск на Росію",
+      "link": "https://ua.korrespondent.net/world/worldabus/4880920-sandu-zaklykala-svit-posylyty-tysk-na-rosiui",
+      "pubDate": "2026-05-23 21:10:00",
+      "category": "Огляд преси",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440011.jpeg\">Президентка Молдови наголосила, що продовження всебічної підтримки України є єдиним способом повернути стабільність і мир у європейський регіон."
+    }
+  },
+  {
+    "item": {
+      "title": "El contacto de un caso hantavirus aislado en el Clínic da negativo en la tercera PCR",
+      "link": "https://www.elperiodico.com/es/sociedad/20260523/contacto-caso-hantavirus-aislado-clinic-130580160",
+      "pubDate": "2026-05-23 21:06:22",
+      "category": "",
+      "description": "<h2>La persona seguirá el aislamiento en su casa durante dos semanas más</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260508/protocolo-guardias-civiles-canarias-gomez-129983815\">El protocolo frente al hantavirus para los guardias civiles en Canarias y en el Gómez Ulla: ventanillas cerradas y trajes de protección</a></h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "María Corina Machado: \"Seré candidata\" en unas \"elecciones limpias y libres\" en Venezuela",
+      "link": "https://www.elperiodico.com/es/internacional/20260523/maria-corina-machado-sere-candidata-130580176",
+      "pubDate": "2026-05-23 21:02:44",
+      "category": "",
+      "description": "<h2>La líder opositora venezolana confirma su intención de ser candidata en las próximas elecciones presidenciales </h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "El horóscopo de mañana, domingo 24 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+      "link": "https://www.elperiodico.com/es/vida-y-estilo/20260523/horoscopo-hoy-domingo-24-mayo-dv-130466624",
+      "pubDate": "2026-05-23 21:00:40",
+      "category": "",
+      "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "Shermadini, de baja por una arritmia cardiaca",
+      "link": "https://as.com/baloncesto/acb/shermadini-de-baja-por-una-arritmia-cardiaca-f202605-n/",
+      "pubDate": "2026-05-23 21:00:00",
+      "category": "Baloncesto",
+      "description": "Giorgi Shermadini estará un tiempo de baja en La Laguna Tenerife por culpa de una arritmia cardiaca que, según indica el club, ya está controlada."
+    }
+  },
+  {
+    "item": {
+      "title": "Valencia - Barcelona, en directo el partido de Liga en Mestall",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/valencia-barcelona-directo-partido-liga-130573524",
+      "pubDate": "2026-05-23 20:50:25",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Girona - Elche, en directo el partido de Liga por la salvación en Montilivi",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/girona-elche-directo-partido-liga-130573568",
+      "pubDate": "2026-05-23 20:50:24",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Усик - Верховен: онлайн-трансляція бою",
+      "link": "https://ua.korrespondent.net/sport/4880918-usyk-verkhoven-onlain-transliatsiia-boui",
+      "pubDate": "2026-05-23 20:50:00",
+      "category": "Новини спорту",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440010.jpg\">Дивіться онлайн-трансляцію титульного поєдинку між Олександром Усиком і Ріко Верховеном на Korrespondent.net"
+    }
+  },
+  {
+    "item": {
+      "title": "Deck: “El baloncesto siempre da revancha”",
+      "link": "https://as.com/baloncesto/euroliga/deck-el-baloncesto-siempre-da-revancha-f202605-n/",
+      "pubDate": "2026-05-23 20:47:44",
+      "category": "Baloncesto",
+      "description": "El jugador argentino, que llega en un gran momento de forma a la Final Four, por fin podrá jugar el partido por el título tras perderse los dos últimos por lesión."
+    }
+  },
+  {
+    "item": {
+      "title": "Україні можуть віддати останки тіл Бандери, Петлюри й Коновальця - ЗМІ",
+      "link": "https://ua.korrespondent.net/ukraine/4880916-ukraini-mozhut-viddaty-ostanky-til-bandery-petluiry-y-konovaltsia-zmi",
+      "pubDate": "2026-05-23 20:46:00",
+      "category": "Новини України",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440009.jpg\">Голова Організації Українських Націоналістів Богдан Червак розповів, що ведуться переговори про перепоховання видатних українців у пантеоні героїв."
+    }
+  },
+  {
+    "item": {
+      "title": "Las manos de la diosa Cata",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/manos-diosa-cata-130575455",
+      "pubDate": "2026-05-23 20:44:43",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "De cuando cobraban con vales del Corte Inglés",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/cobraban-vales-corte-ingles-130579212",
+      "pubDate": "2026-05-23 20:40:53",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Espanyol - Real Sociedad, en directo el partido de Liga en Cornellà",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/espanyol-real-sociedad-directo-partido-130573508",
+      "pubDate": "2026-05-23 20:40:08",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Nueva alerta alimentaria: amplían la retirada de productos con moringa por riesgo de salmonela",
+      "link": "https://www.elperiodico.com/es/salud/20260523/alerta-alimentaria-amplian-retirada-productos-con-moringa-riesgo-salmonela-dv-130573083",
+      "pubDate": "2026-05-23 20:30:56",
+      "category": "",
+      "description": "<h2 class=\"item\">La Agencia Española de Seguridad Alimentaria y Nutrición suma ocho nuevos productos afectados y pide no consumir cápsulas ni moringa en polvo de varias marcas vendidas en España</h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "В Україні на фронті загинув доброволець з Великої Британії",
+      "link": "https://ua.korrespondent.net/ukraine/4880911-v-ukraini-na-fronti-zahynuv-dobrovolets-z-velykoi-brytanii",
+      "pubDate": "2026-05-23 20:20:00",
+      "category": "Новини України",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4439967.jpg\">Міністерство закордонних справ Великої Британії заявило, що підтримує родину загиблого військового і перебуває в контакті з українською владою."
+    }
+  },
+  {
+    "item": {
+      "title": "У Конго від вірусу Ебола померли троє волонтерів Червоного Хреста",
+      "link": "https://ua.korrespondent.net/world/4880914-u-konho-vid-virusu-ebola-pomerly-troie-volonteriv-chervonoho-khresta",
+      "pubDate": "2026-05-23 20:20:00",
+      "category": "Новини світу",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4439982.jpg\">Волонтери працювали з тілами померлих в місті Монгбвалу, однак ще до того, як було виявлено спалах вірусу Ебола."
+    }
+  },
+  {
+    "item": {
+      "title": "Así será la celebración del Barça de la Champions femenina: fecha y horarios",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/sera-celebracion-barca-champions-femenina-130572739",
+      "pubDate": "2026-05-23 20:19:09",
+      "category": "",
+      "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260523/barca-campeon-gana-cuarta-champions-130575748\">Un Barça campeón gana su cuarta Champions ante el Olympique de Lyon (4-0)</a></h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "¿A qué hora es el Real Madrid - Barcelona de Euroliga júnior? TV, horario y cómo ver el Clásico en vivo",
+      "link": "https://as.com/baloncesto/euroliga/a-que-hora-es-el-real-madrid-barcelona-de-euroliga-junior-tv-horario-y-como-ver-el-clasico-en-vivo-f202605-n/",
+      "pubDate": "2026-05-23 20:10:07",
+      "category": "Baloncesto",
+      "description": "Conoce el horario y cómo y dónde ver en TV el partido final de la Euroliga júnior (ANGT) entre Real Madrid y Barcelona; este domingo 24 de mayo, a las 17:00 horas, en AS."
+    }
+  },
+  {
+    "item": {
+      "title": "Посольство США попереджає про можливу масштабну повітряну атаку РФ",
+      "link": "https://ua.korrespondent.net/ukraine/4880908-posolstvo-ssha-poperedzhaie-pro-mozhlyvu-masshtabnu-povitrianu-ataku-rf",
+      "pubDate": "2026-05-23 19:57:00",
+      "category": "Новини України",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4439966.jpg\">У диппредставництві закликали громадян США бути готовими негайно перейти в укриття у разі оголошення повітряної тривоги."
+    }
+  },
+  {
+    "item": {
+      "title": "Un Barça campeón gana su cuarta Champions ante el OL Lyonnes (4-0)",
+      "link": "https://www.elperiodico.com/es/deportes/20260523/barca-campeon-gana-cuarta-champions-130575748",
+      "pubDate": "2026-05-23 19:56:15",
+      "category": "",
+      "description": "<h2>Los dobletes de Ewa Pajor y Salma Paralluelo, con la actuación imperial de Cata Coll, encumbra a las azulgranas hacia su cuarta corona europea en el Ullevaal Stadion</h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "¿Cuándo es la final de Euroliga 2026? TV, horario y cómo ver el Olympiacos - Real Madrid en vivo online",
+      "link": "https://as.com/baloncesto/euroliga/cuando-es-la-final-de-euroliga-2026-tv-horario-y-como-ver-el-olympiacos-real-madrid-en-vivo-online-f202605-n/",
+      "pubDate": "2026-05-23 19:45:00",
+      "category": "Baloncesto",
+      "description": "Conoce el horario y cómo ver la gran final de la Euroliga 2025/26 entre Olympiacos y Real Madrid. Este domingo, 24 de mayo, a las 20:00 horas."
+    }
+  },
+  {
+    "item": {
+      "title": "Riquelme presenta su candidatura a la presidencia del Real Madrid: \"No vamos en contra de nadie\"",
+      "link": "https://www.elperiodico.com/es/videos/deportes/riquelme-presenta-candidatura-presidencia-real/130578015.shtml",
+      "pubDate": "2026-05-23 19:39:10",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Así ha sido la embestida de un coche robado a los Mossos en una gasolinera de Badalona",
+      "link": "https://www.elperiodico.com/es/barcelona/20260523/badalona-mossos-robo-tiros-coches-detencion-investigacion-130577782",
+      "pubDate": "2026-05-23 19:36:33",
+      "category": "",
+      "description": "<h2>Los ocupantes del turismo, que figuraba como robado, han embestido un vehículo policial y han huido tras la intervención de los agentes, que han detenido a uno de los sospechososç</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sucesos/20260523/sucesos-badalona-mossos-desquadra-disparos-atropello-130567968\">Los ocupantes de un coche robado embisten un vehículo de los Mossos en Badalona y los agentes responden con varios disparos</a></h2>"
+    }
+  },
+  {
+    "item": {
+      "title": "Enfrentamiento de Mossos con ladrones de coches en la gasolinera Esclat de Badalona",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/badalona/enfrentamiento-mossos-ladrones-coches-gasolinera/130577783.shtml",
+      "pubDate": "2026-05-23 19:30:59",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
+      "title": "Понад добу РФ атакує нафтогазові об’єкти на Харківщині та Полтавщині",
+      "link": "https://ua.korrespondent.net/ukraine/4880905-ponad-dobu-rf-atakuie-naftohazovi-obiekty-na-kharkivschyni-ta-poltavschyni",
+      "pubDate": "2026-05-23 19:29:00",
+      "category": "Новини України",
+      "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4439940.jpg\">Ситуація залишається складною. Оцінити наслідки атак наразі неможливо через небезпеку повторних ударів."
+    }
+  },
+  {
+    "item": {
+      "title": "Incendio de un autobús en Badalona: cortada la C-31 en ambos sentidos",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-autobus-badalona-cortada-c/130577609.shtml",
+      "pubDate": "2026-05-23 19:21:32",
+      "category": "",
+      "description": ""
+    }
+  },
+  {
+    "item": {
       "title": "Incendio de un autobús en Badalona: cortada la C-31 en ambos sentidos",
       "link": "https://www.elperiodico.com/es/barcelona/20260523/incendio-autobus-badalona-cortada-c-130577489",
       "pubDate": "2026-05-23 19:19:10",
@@ -350,6 +656,15 @@
     },
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "item": {
+      "title": "El orgullo de Juan Roig: “Volveremos”",
+      "link": "https://as.com/baloncesto/euroliga/el-orgullo-de-juan-roig-volveremos-f202605-n/",
+      "pubDate": "2026-05-23 16:21:04",
+      "category": "Valencia Basket Club",
+      "description": "El Valencia valora la participación en la Final Four como el siguiente escalón en el crecimiento exponencial del club."
+    }
   },
   {
     "item": {
