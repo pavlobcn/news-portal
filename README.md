@@ -1,4 +1,4 @@
-# News for 2026-05-24 11:41
+# News for 2026-05-24 11:45
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
@@ -87,6 +87,10 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 11:43 [El ‘Apóstol del caos’ conquistó San Mamés con su “espontaneidad estructurada”](https://www.elperiodico.com/es/deportes/20260524/apostol-caos-san-mames-champions-rugby-san-mames-130593370)
+- 100 | спорт | 
+- 11:41 [La planificación del Barça: el club se enfoca en el relevo de Lewandowski](https://www.elperiodico.com/es/deportes/20260524/planificacion-barca-club-enfoca-relevo-130550159)
 - 85 | ситуація на дорогах | 
 - 11:37 [Un motorista muere en la misma carretera de El Brull donde otro conductor de moto falleció a principios de mes](https://www.elperiodico.com/es/sociedad/20260524/accidente-motorista-muere-carretera-brull-130592988)
 - 100 | спорт | 
