@@ -1,231 +1,233 @@
-# News for 2026-05-24 11:34
+# News for 2026-05-24 11:41
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
--  | 0 | Київ
+- 0 |  | Київ
 - 11:25 [Удар по Києву: пошкоджена будівля МЗС, музей, церкви, театр і виші](https://ua.korrespondent.net/city/kiev/4881026-udar-po-kyievu-poshkodzhena-budivlia-mzs-muzei-tserkvy-teatr-i-vyshi)
-- автомобілі | 70 | Новини України
+- 70 | автомобілі | Новини України
 - 11:13 [Війська РФ вдарили по Богодухову, 12 поранених](https://ua.korrespondent.net/ukraine/4881024-viiska-rf-vdaryly-po-bohodukhovu-12-poranenykh)
--  | 0 | Новини футболу
+- 0 |  | Новини футболу
 - 11:07 [Стадіон імені Лобановського постраждав після атаки на Київ](https://ua.korrespondent.net/sport/football/4881021-stadion-imeni-lobanovskoho-postrazhdav-pislia-ataky-na-kyiv)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 10:45 [Сулейман відповів, чи позбавлять Усика титулу WBC](https://ua.korrespondent.net/sport/boks/4881017-suleiman-vidpoviv-chy-pozbavliat-usyka-tytulu-WBC)
--  | 0 | Росія новини
+- 0 |  | Росія новини
 - 10:45 [Уражено нафтовий термінал у Краснодарському краї](https://ua.korrespondent.net/world/russia/4881020-urazheno-naftovyi-terminal-u-krasnodarskomu-krai)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 10:32 [Відео найкращих моментів боїв Усика і Лапіна на Glory in Giza](https://ua.korrespondent.net/sport/boks/4881014-video-naikraschykh-momentiv-boiv-usyka-i-lapina-na-Glory-in-Giza)
--  | 0 | Київ
+- 0 |  | Київ
 - 10:19 [Удар по Києву: двоє загиблих, 56 постраждалих](https://ua.korrespondent.net/city/kiev/4881016-udar-po-kyievu-dvoie-zahyblykh-56-postrazhdalykh)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 10:03 [Верховен хоче перегляду результату бою з Усиком](https://ua.korrespondent.net/sport/boks/4881012-verkhoven-khoche-perehliadu-rezultatu-boui-z-usykom)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 09:48 [ППО знешкодила 55 ракет та 549 дронів РФ](https://ua.korrespondent.net/ukraine/4881010-ppo-zneshkodyla-55-raket-ta-549-droniv-rf)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 09:37 [З'явилася повна статистика ударів бою Усик - Верховен](https://ua.korrespondent.net/sport/boks/4881005-ziavylasia-povna-statystyka-udariv-boui-usyk-verkhoven)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 09:21 [РФ завдала удару Орєшніком у районі Білої Церкви](https://ua.korrespondent.net/ukraine/4881008-rf-zavdala-udaru-orieshnikom-u-raioni-biloi-tserkvy)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 09:20 [ЗМІ назвали гонорари Усика і Верховена за бій](https://ua.korrespondent.net/sport/boks/4881003-zmi-nazvaly-honorary-usyka-i-verkhovena-za-bii)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 08:59 [Усик емоційно відреагував на перемогу над Верховеном](https://ua.korrespondent.net/sport/boks/4881000-usyk-emotsiino-vidreahuvav-na-peremohu-nad-verkhovenom)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 08:56 [У Генштабі оцінили ситуацію на фронті](https://ua.korrespondent.net/ukraine/4881001-u-henshtabi-otsinyly-sytuatsiui-na-fronti)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 08:38 [Верховен різко розкритикував рефері після бою](https://ua.korrespondent.net/sport/boks/4880996-verkhoven-rizko-rozkrytykuvav-referi-pislia-boui)
--  | 0 | Новини хокею
+- 0 |  | Новини хокею
 - 08:28 [Плей-оф НХЛ: Кароліна перемогла Монреаль](https://ua.korrespondent.net/sport/hokey/4880992-plei-of-nkhl-karolina-peremohla-monreal)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 08:20 [Опубліковані суддівські записки бою Усик - Верховен](https://ua.korrespondent.net/sport/boks/4880993-opublikovani-suddivski-zapysky-boui-usyk-verkhoven)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 08:20 [На Київщині унаслідок атаки РФ загинули двоє людей](https://ua.korrespondent.net/ukraine/4880998-na-kyivschyni-unaslidok-ataky-rf-zahynuly-dvoie-luidei)
--  | 0 | Київ
+- 0 |  | Київ
 - 07:53 [У Києві кількість постраждалих зросла до 44 людей](https://ua.korrespondent.net/city/kiev/4880989-u-kyievi-kilkist-postrazhdalykh-zrosla-do-44-luidei)
--  | 0 | Новини баскетболу
+- 0 |  | Новини баскетболу
 - 07:51 [НБА: Нью-Йорк узяв гору над Клівлендом](https://ua.korrespondent.net/sport/basketball/4880988-nba-nui-york-uziav-horu-nad-klivlendom)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 07:40 [У Черкасах дрон РФ влучив у багатоповерхівку, 11 поранених](https://ua.korrespondent.net/ukraine/4880986-u-cherkasakh-dron-rf-vluchyv-u-bahatopoverkhivku-11-poranenykh)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 07:19 [У Нікополі через обстріл поранені семеро людей, серед яких немовля](https://ua.korrespondent.net/ukraine/4880983-u-nikopoli-cherez-obstril-poraneni-semero-luidei-sered-yakykh-nemovlia)
--  | 0 | Новини боксу
+- 0 |  | Новини боксу
 - 06:55 [Усик визначив кандидатів на наступний бій](https://ua.korrespondent.net/sport/boks/4880977-usyk-vyznachyv-kandydativ-na-nastupnyi-bii)
--  | 0 | Новини футболу
+- 0 |  | Новини футболу
 - 06:55 [Циганков отримав оцінку за матч з Ельче](https://ua.korrespondent.net/sport/football/4880981-tsyhankov-otrymav-otsinku-za-match-z-elche)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 06:51 [Генштаб назвав нові втрати РФ](https://ua.korrespondent.net/ukraine/4880978-henshtab-nazvav-novi-vtraty-rf)
--  | 0 | Київ
+- 0 |  | Київ
 - 06:23 [В укритті бізнес-центру у Києві заблоковані люди - голова МВА](https://ua.korrespondent.net/city/kiev/4880975-v-ukrytti-biznes-tsentru-u-kyievi-zablokovani-luidy-holova-mva)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 05:58 [Підсумки 23.05: "Урізане" членство в ЄС і удар РФ](https://ua.korrespondent.net/ukraine/4880941-pidsumky-2305-urizane-chlenstvo-v-yes-i-udar-rf)
--  | 0 | Київ
+- 0 |  | Київ
 - 05:34 [Удар по Києву: зросла кількість потерпілих](https://ua.korrespondent.net/city/kiev/4880973-udar-po-kyievu-zrosla-kilkist-poterpilykh)
--  | 0 | Новини світу
+- 0 |  | Новини світу
 - 05:12 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 05:07 [В Луганську та Мелітополі прогриміли вибухи](https://ua.korrespondent.net/ukraine/4880971-v-luhansku-ta-melitopoli-prohrymily-vybukhy)
--  | 0 | Київ
+- 0 |  | Київ
 - 04:44 [Атака на Київ: пошкоджено станцію метро Лук'янівську](https://ua.korrespondent.net/city/kiev/4880969-ataka-na-kyiv-poshkodzheno-stantsiui-metro-lukianivsku)
--  | 0 | Новини України
+- 0 |  | Новини України
 - 04:20 [Стали відомі наслідки атаки РФ на Київщину](https://ua.korrespondent.net/ukraine/4880967-staly-vidomi-naslidky-ataky-rf-na-kyivschynu)
--  | 0 | Новини світу
+- 0 |  | Новини світу
 - 03:54 [РФ ударила по двох школах Києва: засипало укриття](https://ua.korrespondent.net/world/4880965-rf-udaryla-po-dvokh-shkolakh-kyieva-zasypalo-ukryttia)
--  | 0 | Новини світу
+- 0 |  | Новини світу
 - 03:33 [Росія посилила тиск на Вірменію через її курс на ЄС - ЗМІ](https://ua.korrespondent.net/world/4880963-rosiia-posylyla-tysk-na-virmeniui-cherez-yii-kurs-na-yes-zmi)
--  | 0 | Київ
+- 0 |  | Київ
 - 02:45 [Атака на Київ: є влучання, відомо про потерпілих](https://ua.korrespondent.net/city/kiev/4880961-ataka-na-kyiv-ye-vluchannia-vidomo-pro-poterpilykh)
--  | 0 | Новини світу
+- 0 |  | Новини світу
 - 02:23 [Поблизу Білого дому сталася стрілянина: є поранені](https://ua.korrespondent.net/world/4880959-poblyzu-biloho-domu-stalasia-strilianyna-ye-poraneni)
 
 ## as.com
--  | 0 | Baloncesto
+- 0 |  | Baloncesto
 - 10:29 [Florentino, de camino a Atenas para ver la final](https://as.com/baloncesto/euroliga/florentino-de-camino-a-atenas-para-ver-la-final-f202605-n/)
--  | 0 | Baloncesto
+- 0 |  | Baloncesto
 - 06:50 [El viejo enemigo blanco: un plantillón y el mejor dúo de Europa](https://as.com/baloncesto/euroliga/el-viejo-enemigo-blanco-un-plantillon-y-el-mejor-duo-de-europa-f202605-n/)
--  | 0 | Baloncesto
+- 0 |  | Baloncesto
 - 06:47 [El reto definitivo de Sergio Scariolo](https://as.com/baloncesto/euroliga/el-reto-definitivo-de-sergio-scariolo-f202605-n/)
--  | 0 | Baloncesto
+- 0 |  | Baloncesto
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
-- спорт | 100 | 
+- 85 | ситуація на дорогах | 
+- 11:37 [Un motorista muere en la misma carretera de El Brull donde otro conductor de moto falleció a principios de mes](https://www.elperiodico.com/es/sociedad/20260524/accidente-motorista-muere-carretera-brull-130592988)
+- 100 | спорт | 
 - 11:34 [Las consecuencias de la cuarta Champions del Barça: del éxtasis al vértigo](https://www.elperiodico.com/es/deportes/20260524/consecuencias-cuarta-champions-barca-extasis-130593093)
--  | 0 | 
+- 0 |  | 
 - 11:30 [Nueva app para encontrar al compañero de piso perfecto: se acabó el problema de encontrar a la persona adecuada](https://www.elperiodico.com/es/vivienda/20260524/compartir-piso-domate-app-dv-130529587)
--  | 0 | 
+- 0 |  | 
 - 11:30 [El PSC apela a Junts a recuperar la vocación de "centralidad" que tenía Convergència](https://www.elperiodico.com/es/politica/20260524/presupuestos-cataluna-psc-junts-centralidad-convergencia-moret-130592857)
-- автомобілі | 70 | 
+- 70 | автомобілі | 
 - 11:30 [Los expertos coinciden: "Sacar dinero del cajero de esta manera es ponérselo fácil a los estafadores"](https://www.elperiodico.com/es/economia/20260524/recibo-sacar-dinero-cajero-automatico-estafa-robo-dv-130462980)
--  | 0 | 
+- 0 |  | 
 - 11:18 [La Generalitat tramitará 197.000 becas para alumnos de estudios superiores en la primera convocatoria que asume](https://www.elperiodico.com/es/sociedad/20260524/becas-universidad-bachillerato-fp-generalitat-catalunya-130592630)
--  | 0 | 
+- 0 |  | 
 - 11:17 [EEUU e Irán ultiman los detalles de un acuerdo que ponga fin a la guerra y dé paso a negociaciones sobre el programa nuclear](https://www.elperiodico.com/es/internacional/20260524/eeuu-iran-ultiman-detalles-acuerdo-fin-guerra-negociaciones-programa-nuclear-130592914)
--  | 0 | 
+- 0 |  | 
 - 11:10 [Este es el árbol de 400 años nombrado el más bonito de España: bajo su sombra caben todos los 1.300 habitantes de su pueblo](https://www.elperiodico.com/es/vida-y-estilo/20260524/arbol-400-anos-mas-bonito-espana-dv-129741745)
--  | 0 | 
+- 0 |  | 
 - 11:07 [Rusia lanza un ataque masivo contra Ucrania con 600 drones y 90 misiles, en su mayoría contra Kiev](https://www.elperiodico.com/es/internacional/20260524/rusia-lanza-ataque-masivo-ucrania-drones-misiles-kiev-130592673)
--  | 0 | 
+- 0 |  | 
 - 11:01 [Albiol apoya al mosso que disparó al aire en Badalona para intentar detener a los ladrones de un coche](https://www.elperiodico.com/es/barcelona/20260524/albiol-badalona-mosso-disparos-gasolinera-coche-robado-130592237)
--  | 0 | 
+- 0 |  | 
 - 11:01 [Andreu Escrivà, ambientólogo: "La Tierra no pertenece a los humanos, solo somos una especie más entre millones de otras"](https://www.elperiodico.com/es/sociedad/20260524/andreu-escriva-ambientologo-planeta-tierra-seres-humanos-sostenibilidad-130459922)
--  | 0 | 
+- 0 |  | 
 - 11:01 [La fe del otro](https://www.elperiodico.com/es/opinion/20260524/fe-130559836)
--  | 0 | 
+- 0 |  | 
 - 10:51 [La UDEF revela que el matrimonio Zapatero-Espinosa canceló una hipoteca en 11 meses con una transferencia de 498.000 euros](https://www.elperiodico.com/es/politica/20260524/udef-revela-matrimonio-zapatero-espinosa-hipoteca-meses-transferencia-130592285)
--  | 0 | 
+- 0 |  | 
 - 10:46 ['Man in the middle': el nuevo método de robo que puede dejarte sin un euro](https://www.elperiodico.com/es/sociedad/20260524/delito-estafa-man-in-the-middle-ciberdelincuencia-espana-dv-129697075)
--  | 0 | 
+- 0 |  | 
 - 10:44 [Detenidos por estafar 14.600 euros mediante móviles y tarjetas robadas en Barcelona](https://www.elperiodico.com/es/barcelona/20260524/barcelona-estafas-robos-moviles-tarjetas-130591688)
-- автомобілі | 70 | 
+- 70 | автомобілі | 
 - 10:35 [El Girona, de la Champions al desastre: "Toca admitir errores, rectificar y buscar soluciones"](https://www.elperiodico.com/es/deportes/20260524/girona-champions-desastre-toca-admitir-130591751)
--  | 0 | 
+- 0 |  | 
 - 10:22 [Míchel asume culpas en el drama del Girona: “He fallado a nuestra gente; es un paso atrás difícil de asimilar”](https://www.elperiodico.com/es/deportes/20260524/michel-asume-culpas-drama-girona-130591528)
--  | 0 | 
+- 0 |  | 
 - 10:12 [Los hoteles de Barcelona aspiran a la plena ocupación durante la visita del Papa León XIV](https://www.elperiodico.com/es/barcelona/20260524/barcelona-hoteles-visita-papa-leon-xiv-130591086)
--  | 0 | 
+- 0 |  | 
 - 10:08 [Manolo González advierte a Monchi: "Quiero quedarme en el Espanyol, estoy fuerte"](https://www.elperiodico.com/es/deportes/20260524/manolo-gonzalez-advierte-monchi-quiero-130590810)
--  | 0 | 
+- 0 |  | 
 - 10:04 [Eric García y el madridista Gonzalo pelean por los dos puestos para el Mundial que le bailan a De la Fuente](https://www.elperiodico.com/es/deportes/20260524/luis-de-la-fuente-lista-mundial-2026-130591298)
--  | 0 | 
+- 0 |  | 
 - 10:00 [Los heladeros prevén un 2026 de récord gracias al turismo y a un consumo que ya se alarga todo el año](https://www.elperiodico.com/es/economia/20260524/heladeros-preven-2026-record-gracias-turismo-consumo-todo-ano-130549227)
--  | 0 | 
+- 0 |  | 
 - 10:00 [Malditos virus](https://www.elperiodico.com/es/opinion/20260524/malditos-virus-130558205)
--  | 0 | 
+- 0 |  | 
 - 10:00 [Lexus presenta su nueva bicicleta, basada en el rendimiento y la exclusividad](https://www.elperiodico.com/es/motor/20260524/lexus-presenta-nueva-bicicleta-basada-rendimiento-exclusividad-130506631)
--  | 0 | 
+- 0 |  | 
 - 09:55 [Entrevista a Elías Santín, director de innovación de The Magnum Ice Cream Company](https://www.elperiodico.com/es/videos/economia/entrevista-elias-santin-director-innovacion/130187830.shtml)
--  | 0 | 
+- 0 |  | 
 - 09:50 [El lugar más extremo de la Tierra, donde no debería haber vida (y la hay)](https://www.elperiodico.com/es/medio-ambiente/20260524/lugar-extremo-tierra-deberia-haber-13339178)
--  | 0 | 
+- 0 |  | 
 - 09:41 [De Shakira a los 'youtubers': así averigua Hacienda si viven (y deben tributar) en España](https://www.elperiodico.com/es/economia/20260524/shakira-youtubers-averigua-hacienda-viven-130590658)
--  | 0 | 
+- 0 |  | 
 - 09:25 [El Último de la Fila vuelve a Madrid 30 años después y llena el Metropolitano en una noche de reencuentro](https://www.elperiodico.com/es/ocio-y-cultura/20260524/ultimo-fila-vuelve-madrid-30-130590495)
--  | 0 | 
+- 0 |  | 
 - 09:24 [El 'hacker' Alcasec se enfrenta a una petición de tres años de cárcel por robar medio millón de datos bancarios](https://www.elperiodico.com/es/economia/20260524/hacker-alcasec-juicio-robo-datos-bancarios-130590038)
-- ресторани, їжа | 85 | 
+- 85 | ресторани, їжа | 
 - 09:15 [Descubre una joya gastronómica escondida en el Putxet](https://www.elperiodico.com/es/que-hacer/donde-comer/20260524/descubre-joya-gastronomica-escondida-putxet-barcelona-restaurante-130578190)
--  | 0 | 
+- 0 |  | 
 - 09:15 [La tradicional forma de vender queso en esta ciudad de Países Bajos ya es viral: una campana, una subasta y muchos aplausos](https://www.elperiodico.com/es/gastronomia/20260524/tradicional-forma-vender-queso-ciudad-paises-bajos-dv-130413307)
--  | 0 | 
+- 0 |  | 
 - 09:12 [La Cursa Diagonal DiR se reivindica como uno de los grandes 10k de Barcelona en su 12ª edición](https://www.elperiodico.com/es/politica/20260524/12-cursa-diagonal-dir-barcelona-130373102)
--  | 0 | 
+- 0 |  | 
 - 09:10 [Al menos 29 muertos y 102 heridos tras un ataque con explosivos contra un tren en Pakistán](https://www.elperiodico.com/es/internacional/20260524/29-muertos-102-heridos-explosion-130590005)
-- телебачення | 85 | 
+- 85 | телебачення | 
 - 09:00 [Marc Redondo, meteorólogo: “Me apasiona comunicar los fenómenos meteorológicos”](https://www.elperiodico.com/es/deportes/20260524/marc-redondo-meteorologo-apasiona-comunicar-130365259)
--  | 0 | 
+- 0 |  | 
 - 09:00 [David Bondia inicia con una ventaja notable el pulso con Gemma Calvet por la Sindicatura de Greuges de Barcelona](https://www.elperiodico.com/es/barcelona/20260524/david-bondia-inicia-ventaja-notable-carrera-sindicatura-greuges-barcelona-con-gemma-calvet-130551158)
--  | 0 | 
+- 0 |  | 
 - 09:00 [Expresidentes, tráfico de influencias y lobis](https://www.elperiodico.com/es/opinion/20260524/expresidentes-trafico-influencias-lobis-130555675)
--  | 0 | 
+- 0 |  | 
 - 09:00 [Loquillo rememora su adolescencia en la Barcelona de los años 70: "Yo tenía a los grises debajo de casa todos los días”](https://www.elperiodico.com/es/catalunya/20260524/loquillo-barcelona-franquismo-el-clot-cataluna-rock-dv-loc-130553649)
--  | 0 | 
+- 0 |  | 
 - 09:00 [La nueva tendencia en las herencias: los testamentos solidarios con la naturaleza ganan fuerza en España](https://www.elperiodico.com/es/sociedad/20260524/testamentos-solidarios-planeta-naturaleza-animales-herencia-oeneges-130467397)
--  | 0 | 
+- 0 |  | 
 - 09:00 [La batalla por el liderazgo del Partido Laborista reabre el debate sobre el Brexit](https://www.elperiodico.com/es/internacional/20260524/batalla-liderazgo-partido-laborista-reabre-debate-brexit-reino-unido-130589820)
--  | 0 | 
+- 0 |  | 
 - 09:00 [Solo seis presupuestos de la Generalitat se han aprobado después de junio desde la restauración de la democracia](https://www.elperiodico.com/es/politica/20260524/seis-presupuestos-generalitat-han-aprobado-128105340)
--  | 0 | 
+- 0 |  | 
 - 09:00 [Mamen Mendizábal, periodista: "A Jesús Gil le reímos las gracias durante muchos años, pero era muy peligroso"](https://www.elperiodico.com/es/tele/20260524/mamen-mendizabal-anatomia-jesus-gil-lasexta-130451480)
--  | 0 | 
+- 0 |  | 
 - 08:15 [Guerra de Irán, en directo: última hora | Pakistán espera albergar "muy pronto" otra ronda de diálogo entre Irán y EEUU en Islamabad](https://www.elperiodico.com/es/internacional/20260524/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)
--  | 0 | 
+- 0 |  | 
 - 08:09 [Guerra Ucrania - Rusia, en directo, última hora | Al menos un muerto y 16 heridos en un nuevo ataque masivo con misiles y drones rusos contra Kiev](https://www.elperiodico.com/es/internacional/20260524/guerra-ucrania-rusia-directo-ultima-126605559)
--  | 0 | 
+- 0 |  | 
 - 08:05 [¿Qué centros comerciales abren este lunes 25 de mayo, Segunda Pascua, en Barcelona y Catalunya?](https://www.elperiodico.com/es/economia/20260524/centros-comerciales-abren-lunes-25-mayo-segunda-pascua-barcelona-cataluna-dv-130544998)
--  | 0 | 
+- 0 |  | 
 - 08:00 [Los niños con trastornos del neurodesarrollo tienen mayores niveles de malestar emocional](https://www.elperiodico.com/es/ser-feliz/20260524/ninos-trastornos-neurodesarrollo-mayores-niveles-130269492)
-- автомобілі | 70 | 
+- 70 | автомобілі | 
 - 08:00 [De la inseguridad de Perú a una nueva vida en Galicia: «Queremos trabajar tranquilos y sacar adelante a nuestro hijo»](https://www.elperiodico.com/es/sociedad/20260524/inmigrantes-peru-regularizacion-galicia-130369754)
--  | 0 | 
+- 0 |  | 
 - 08:00 [Quiz | ¿Eres más de almendrado o de polo de hielo? Escoge cuál es tu helado favorito](https://www.elperiodico.com/es/economia/20260524/quizz-escoge-helado-verano-almendrado-polo-130547036)
--  | 0 | 
+- 0 |  | 
 - 08:00 [Los Mossos detectan nuevas formas de plantar marihuana: 'narcobúnkeres' al lado de las viviendas](https://www.elperiodico.com/es/sociedad/20260524/narcobunkeres-marihuana-metodos-plantacion-drogas-narcotraficantes-130375570)
--  | 0 | 
+- 0 |  | 
 - 08:00 [Piensa bien y dudarás](https://www.elperiodico.com/es/opinion/20260524/piensa-dudaras-130556163)
--  | 0 | 
+- 0 |  | 
 - 08:00 [La asfixia de la Cisjordania ocupada: violencia de los colonos, incursiones militares y guerra económica](https://www.elperiodico.com/es/internacional/20260524/asfixia-cisjordania-ocupada-violencia-colonos-incursiones-militares-guerra-economica-130589043)
--  | 0 | 
+- 0 |  | 
 - 08:00 [Crítica de 'Contra Antígona': Andrea Jiménez convoca en el Lliure una democracia de cartón piedra](https://www.elperiodico.com/es/ocio-y-cultura/20260524/critica-antigona-andrea-jimenez-convoca-130539344)
--  | 0 | 
+- 0 |  | 
 - 08:00 [Alejandra Costamagna: "En Chile, con 1.500 detenidos desaparecidos, vivimos habitados por fantasmas"](https://www.elperiodico.com/es/ocio-y-cultura/20260524/alejandra-costamagna-chile-1-500-129748649)
--  | 0 | 
+- 0 |  | 
 - 07:59 [Sobre (vivir) a la crianza - Generación de cristal](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-generacion-cristal/130214039.shtml)
--  | 0 | 
+- 0 |  | 
 - 07:59 [Mas Barcelona - Marc Redondo](https://www.elperiodico.com/es/videos/podcast/barcelona-marc-redondo/130215990.shtml)
-- автомобілі | 70 | 
+- 70 | автомобілі | 
 - 07:01 [Los tres pilares del candidato Riquelme: el Real Madrid para los socios, españolizar la plantilla y no bajar al barro](https://www.elperiodico.com/es/deportes/20260524/pilares-enrique-riquelme-candidatura-real-madrid-130583774)
--  | 0 | 
+- 0 |  | 
 - 07:00 [El Servicio Secreto mata al autor de un tiroteo junto a la Casa Blanca](https://www.elperiodico.com/es/internacional/20260524/abatido-autor-tiroteo-casa-blanca-130588804)
--  | 0 | 
+- 0 |  | 
 - 07:00 [El día en que Miles Davis dejó plantada a Barcelona](https://www.elperiodico.com/es/ocio-y-cultura/20260524/miles-davis-dejo-plantada-barcelona-centenario-trompetista-nacimiento-130541563)
--  | 0 | 
+- 0 |  | 
 - 07:00 [Margarita García, primera comisaria en Catalunya: “Creamos las unidades femeninas de maltrato en los 90 y aumentaron las denuncias porque las mujeres se sentían protegidas”](https://www.elperiodico.com/es/sociedad/20260524/margarita-garcia-primera-comisaria-catalunya-130449118)
--  | 0 | 
+- 0 |  | 
 - 07:00 [Rebeca Domenech, periodista de moda y escritora: "Soñé con tener a Anna Wintour dirigiéndome, pero ahora veo que hay otras formas de liderar"](https://www.elperiodico.com/es/gente/20260524/rebeca-domenech-tras-focos-vogue-anna-wintour-diablo-viste-prada-novela-entrevista-130212901)
--  | 0 | 
+- 0 |  | 
 - 06:55 [La Cita con Margarita García, comisaria de la Policía Judicial](https://www.elperiodico.com/es/videos/sociedad/cita-margarita-garcia-comisaria-policia-video/130465599.shtml)
--  | 0 | 
+- 0 |  | 
 - 06:01 [La SEPI y el rescate de Plus Ultra: un salvamento discrecional bajo sospecha](https://www.elperiodico.com/es/opinion/20260524/sepi-rescate-plus-ultra-salvamento-sospecha-130582997)
--  | 0 | 
+- 0 |  | 
 - 06:01 [La defensa de Zapatero recurre a la figura de 'Julito' para desligarse de las acusaciones de corrupción](https://www.elperiodico.com/es/opinion/20260524/defensa-zapatero-recurre-figura-julito-130569640)
--  | 0 | 
+- 0 |  | 
 - 06:01 [La isla bonita](https://www.elperiodico.com/es/opinion/20260524/isla-bonita-cuba-articulo-rafael-vilasanjuan-130569620)
--  | 0 | 
+- 0 |  | 
 - 06:01 [Arcadi España: "Vamos a llevar adelante la nueva financiación aunque el PP la rechace con el objetivo de tenerla el año que viene"](https://www.elperiodico.com/es/politica/20260524/arcadi-espana-adelante-nueva-financiacion-pp-presupuestos-130555726)
--  | 0 | 
+- 0 |  | 
 - 06:01 [Entrevista a Arcadi España, ministro de Hacienda.](https://www.elperiodico.com/es/videos/politica/entrevista-arcadi-espana-ministro-hacienda/130557898.shtml)
--  | 0 | 
+- 0 |  | 
 - 06:00 [Cunde el convencimiento en la derecha de que Sánchez podría maniobrar para apurar la legislatura más allá del límite](https://www.elperiodico.com/es/politica/20260524/cunde-convencimiento-derecha-sanchez-maniobrar-130556297)
--  | 0 | 
+- 0 |  | 
 - 06:00 [Los alcaldes exigen al Govern soluciones concretas para las urbanizaciones sin legalizar: "Necesitamos financiación"](https://www.elperiodico.com/es/barcelona/20260524/alcaldes-exigen-govern-soluciones-concretas-130357725)
--  | 0 | 
+- 0 |  | 
 - 06:00 [Arcadi España rechaza un adelanto electoral tras la imputación de Zapatero: “El Gobierno sigue funcionando”](https://www.elperiodico.com/es/politica/20260524/arcadi-espana-rechaza-adelanto-electoral-130553860)
--  | 0 | 
+- 0 |  | 
 - 06:00 [Unos 70.000 vecinos viven en urbanizaciones barcelonesas con alcantarillado deficiente o inexistente](https://www.elperiodico.com/es/barcelona/20260524/70000-vecinos-urbanizaciones-barcelonesas-alcantarillado-deficiente-inexistente-130190344)
--  | 0 | 
+- 0 |  | 
 - 06:00 [Illa abre una nueva etapa tras el pacto de presupuestos con el foco puesto en maestros, pisos, trenes y financiación](https://www.elperiodico.com/es/politica/20260524/salvador-illa-govern-nueva-etapa-pacto-presupuestos-maestros-trenes-pisos-financiacion-130503558)
-- автомобілі | 70 | 
+- 70 | автомобілі | 
 - 06:00 [Buscar soluciones para no colapsar](https://www.elperiodico.com/es/economia/20260524/buscar-soluciones-colapsar-130502482)
--  | 0 | 
+- 0 |  | 
 - 06:00 [Baleares busca soluciones para frenar la saturación de vehículos](https://www.elperiodico.com/es/economia/20260524/baleares-busca-soluciones-frenar-saturacion-vehiculos-130501676)
--  | 0 | 
+- 0 |  | 
 - 01:08 [Botellas y sillas volando junto a Mestalla: aficionados del Valencia CF se encaran con los antidisturbios](https://www.elperiodico.com/es/videos/deportes/botellas-sillas-volando-mestalla-aficionados/130580536.shtml)
