@@ -1,8 +1,10 @@
-# News for 2026-05-24 23:41
+# News for 2026-05-24 23:57
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 23:48 [Богодухів вдруге за добу зазнав удару](https://ua.korrespondent.net/ukraine/4881127-bohodukhiv-vdruhe-za-dobu-zaznav-udaru)
 - 85 | ресторани, їжа | Новини України
 - 23:20 [Гроза гаражів: залишки "Орєшніка" передали на експертизу](https://ua.korrespondent.net/ukraine/4881123-hroza-harazhiv-zalyshky-orieshnika-peredaly-na-ekspertyzu)
 - 0 |  | Київ
