@@ -1,4 +1,4 @@
-# News for 2026-05-24 23:57
+# News for 2026-05-25 00:16
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
@@ -91,6 +91,10 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:47 [Атака на Київ: кількість постраждалих зросла до 69](https://ua.korrespondent.net/city/kiev/4881030-ataka-na-kyiv-kilkist-postrazhdalykh-zrosla-do-69)
 
 ## as.com
+-  |  | Baloncesto
+- 23:56 [Abalde: “Si hablo de los árbitros me sancionan”](https://as.com/baloncesto/euroliga/abalde-si-hablo-de-los-arbitros-me-sancionan-f202605-n/)
+-  |  | Baloncesto
+- 23:45 [Pesar y orgullo en el vestuario blanco: “Alguna cosa rara pasó al final”](https://as.com/baloncesto/euroliga/pena-y-orgullo-en-el-madrid-alguna-cosa-rara-paso-al-final-f202605-n/)
 - 90 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | Baloncesto
 - 23:13 [Un 0/3 y máxima presión para el Madrid](https://as.com/baloncesto/euroliga/un-03-y-maxima-presion-para-el-madrid-f202605-n/)
 -  |  | Baloncesto
@@ -147,6 +151,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 23:59 [Assistència Sanitària, el modelo de salud mejor valorado por los médicos](https://www.elperiodico.com/es/sociedad/20260524/assistencia-sanitaria-modelo-salud-mejor-bc-129648261)
 - 0 | 0 | 
 - 23:27 [La portada de EL PERIÓDICO del 25 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260524/portada-periodico-25-mayo-2026-130610106)
 -  |  | 
