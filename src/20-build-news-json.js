@@ -110,15 +110,13 @@ function parseItemsFromXml(xmlText) {
     const { topic, probability } = matchTopic({ title, category, description });
 
     return {
-      item: {
-        title,
-        link: getTagValue(itemXml, 'link'),
-        pubDate: parseAndFormatPubDate(pubDateRaw),
-        category,
-        description,
-        topic,
-        topic_match_probability: probability,
-      },
+      title,
+      link: getTagValue(itemXml, 'link'),
+      pubDate: parseAndFormatPubDate(pubDateRaw),
+      category,
+      description,
+      topic,
+      topic_match_probability: probability,
     };
   });
 }
