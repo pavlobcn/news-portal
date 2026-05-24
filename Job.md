@@ -6,9 +6,18 @@
 node src/prepare-data.js
 ```
 
-2. Define filter matching:
+2. Define filter matching with LLM (human-like understanding):
 
-Update `news.json`: for each item add two new fields — `topic` (best matching topic from `filter.md`) and `topic_match_probability` (0..100 match score based on item title/category/description; 0 when no filter matches, 100 when very close, e.g. FC Barcelona football news => sport=100).
+Use `filter.md` as the source of topics and update `news.json`: for each item add two new fields:
+- `topic` — best matching topic from `filter.md`
+- `topic_match_probability` — 0..100 score based on title/category/description semantic meaning
+
+Rules for LLM matching:
+- Match by meaning, not only by exact keywords.
+- Use category/title context as a human editor would.
+- If category is about boxing (`бокс`, `boxing`, `boxeo`), it should be a high-confidence match to `спорт`.
+- Keep `0` when nothing meaningfully matches.
+- Use `100` for very close matches (e.g., FC Barcelona football news => `спорт=100`; boxing news => `спорт` with high score).
 
 3. Run command:
 
