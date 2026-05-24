@@ -1,10 +1,12 @@
-# News for 2026-05-24 20:45
+# News for 2026-05-24 20:51
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
 - 0 |  | Новини світу
 - 20:27 [У російських елітах зростає невдоволення Путіним - ЗМІ](https://ua.korrespondent.net/world/4881105-u-rosiiskykh-elitakh-zrostaie-nevdovolennia-putinym-zmi)
+- 0 |  | Новини світу
+- 20:27 [Поміж російської еліти зростає невдоволення Путіним - ЗМІ](https://ua.korrespondent.net/world/4881105-pomizh-rosiiskoi-elity-zrostaie-nevdovolennia-putinym-zmi)
 - 35 | спорт | Новини футболу
 - 19:53 [Ярмоленко залишається в Динамо](https://ua.korrespondent.net/sport/football/4881101-yarmolenko-zalyshaietsia-v-dynamo)
 -  |  | Новини світу
