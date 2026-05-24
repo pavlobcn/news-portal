@@ -19,9 +19,7 @@ Rules for LLM matching:
 - Keep `0` when nothing meaningfully matches.
 - Use `100` for very close matches (e.g., FC Barcelona football news => `спорт=100`; boxing news => `спорт` with high score).
 
-3. Execute step #2 again to compare `topic_match_probability`. If values are different from 2 runs for the same item then run the step #3 for such items only.
-
-4. Run command:
+3. Run command:
 
 ```bash
 node src/generate-summary.js
