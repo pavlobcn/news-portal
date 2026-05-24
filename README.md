@@ -1,8 +1,10 @@
-# News for 2026-05-24 19:47
+# News for 2026-05-24 20:07
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+-  |  | Новини світу
+- 19:49 [Сербія не вважає Росію "братньою країною"](https://ua.korrespondent.net/world/4881099-serbiia-ne-vvazhaie-rosiui-bratnoui-krainoui)
 -  |  | Новини України
 - 19:17 [Росіяни вбили двох цивільних у Херсоні](https://ua.korrespondent.net/ukraine/4881094-rosiiany-vbyly-dvokh-tsyvilnykh-u-khersoni)
 -  |  | Новини світу
@@ -89,6 +91,12 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 19:54 [VÍDEO | Encuentran dos cachalotes muertos a 12 millas de Barcelona](https://www.elperiodico.com/es/barcelona/20260524/video-encuentran-cachalotes-muertos-barcelona-130603498)
+-  |  | 
+- 19:53 [Encuentran dos cachalotes muertos a 12 millas de Barcelona](https://www.elperiodico.com/es/videos/sociedad/encuentran-cachalotes-muertos-12-millas/130605121.shtml)
+-  |  | 
+- 19:51 [Aitor Esteban considera "irresponsable" que el Gobierno "siga más allá de 2026"](https://www.elperiodico.com/es/videos/politica/aitor-esteban-considera-irresponsable-gobierno/130605162.shtml)
 -  |  | 
 - 19:36 [Israel tacha a Sánchez de "hipócrita" por el trato de la Ertzaintza a activistas de la Flotilla](https://www.elperiodico.com/es/internacional/20260524/israel-tacha-sanchez-hipocrita-trato-130604771)
 -  |  | 
