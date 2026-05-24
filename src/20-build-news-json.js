@@ -18,7 +18,7 @@ const TOPIC_RULES = [
   },
   {
     topic: 'спорт',
-    include: ['спорт', 'sport', 'futbol', 'football', 'soccer', 'fc barcelona', 'barça'],
+    include: ['спорт', 'sport', 'futbol', 'football', 'soccer', 'fc barcelona', 'barça', 'бокс', 'boxing', 'boxeo'],
     exclude: ['basket', 'баскет'],
   },
   {
@@ -170,6 +170,13 @@ function matchTopic({ title = '', category = '', description = '' }) {
 }
 
 function main() {
+  const declaredTopics = new Set(getFilterTopicsFromMarkdown());
+  const activeRules = TOPIC_RULES.filter((rule) => declaredTopics.has(rule.topic));
+  if (activeRules.length > 0) {
+    TOPIC_RULES.length = 0;
+    TOPIC_RULES.push(...activeRules);
+  }
+
   if (!fs.existsSync(rssDir)) {
     throw new Error(`RSS directory not found: ${rssDir}`);
   }
@@ -196,11 +203,4 @@ function main() {
   fs.writeFileSync(outputFile, JSON.stringify(allItems, null, 2), 'utf8');
   console.log(`Saved ${allItems.length} items to ${outputFile}`);
 }
-
 main();
-  const declaredTopics = new Set(getFilterTopicsFromMarkdown());
-  const activeRules = TOPIC_RULES.filter((rule) => declaredTopics.has(rule.topic));
-  if (activeRules.length > 0) {
-    TOPIC_RULES.length = 0;
-    TOPIC_RULES.push(...activeRules);
-  }
