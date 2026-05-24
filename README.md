@@ -1,8 +1,16 @@
-# News for 2026-05-24 17:51
+# News for 2026-05-24 18:47
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+-  |  | Новини футболу
+- 18:38 [Чеський клуб вирішив викупити воротаря Карпат](https://ua.korrespondent.net/sport/football/4881089-cheskyi-klub-vyrishyv-vykupyty-vorotaria-karpat)
+-  |  | Новини тенісу
+- 18:21 [Стародубцева розпочала з перемоги виступ на Ролан Гаррос](https://ua.korrespondent.net/sport/tenis/4881087-starodubtseva-rozpochala-z-peremohy-vystup-na-rolan-harros)
+-  |  | Новини світу
+- 18:19 [Україна скликає Радбез ООН після масованого удару РФ](https://ua.korrespondent.net/world/4881085-ukraina-sklykaie-radbez-oon-pislia-masovanoho-udaru-rf)
+-  |  | Новини України
+- 17:59 [У ДПСУ оцінили ситуаці на кордоні з Білоруссю](https://ua.korrespondent.net/ukraine/4881082-u-dpsu-otsinyly-sytuatsi-na-kordoni-z-bilorussui)
 - 0 |  | Київ
 - 17:39 [У Києві відновили роботу метро Лук’янівська](https://ua.korrespondent.net/city/kiev/4881080-u-kyievi-vidnovyly-robotu-metro-lukianivska)
 - 0 |  | Новини світу
@@ -73,6 +81,24 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 18:45 [Fichar con el móvil personal puede ser ilegal: el aviso de un abogado laboralista para que reclames](https://www.elperiodico.com/es/economia/20260524/fichar-trabajo-movil-personal-ilegal-aviso-abogado-laboralista-dv-130552630)
+-  |  | 
+- 18:34 [Dreame presenta la serie X60 Pro y Cyber X, su robot capaz de subir escaleras](https://www.elperiodico.com/es/tecnologia/20260524/dreame-presenta-serie-x60-pro-cyber-130603040)
+-  |  | 
+- 18:30 [Global Sumud informa de que ha perdido el contacto con una caravana de activistas con españoles en Libia](https://www.elperiodico.com/es/internacional/20260524/global-sumud-informa-perdido-contacto-130603301)
+-  |  | 
+- 18:30 [Guille Pelegrín, joven ciego, sobre cómo se orienta en el metro para ir a trabajar: "Hay veces que el braille no lo ha puesto una persona ciega y está al revés"](https://www.elperiodico.com/es/sociedad/20260524/guille-pelegrin-joven-ciego-como-se-orienta-metro-trabajar-dv-130446694)
+-  |  | 
+- 18:23 [Se derrumba un edificio en construcción en Filipinas](https://www.elperiodico.com/es/videos/internacional/derrumba-edificio-construccion-filipinas/130603025.shtml)
+-  |  | 
+- 18:19 [Guerra de Irán, en directo: última hora | Rubio afirma que es posible un anuncio sobre la guerra en Irán este domingo](https://www.elperiodico.com/es/internacional/20260524/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)
+-  |  | 
+- 18:08 [Muere una mujer al caer con su furgoneta por un terraplén en Asturias: sus vecinos habían salido a buscarla al no saber nada de ella](https://www.elperiodico.com/es/sucesos/20260524/muere-mujer-caer-furgoneta-terraplen-asturias-130602567)
+-  |  | 
+- 18:06 [El actor José Luis Gil años reaparece años después de sufrir un accidente cerebrovascular para recibir un premio:  "25 años luchando"](https://www.elperiodico.com/es/gente/20260524/actor-jose-luis-gil-reaparece-estado-salud-accidente-cardiovascular-premio-dv-130602343)
+-  |  | 
+- 18:01 [Los Mossos ponen el foco en la distribución de marihuana: encuentran menos plantaciones pero aumentan los kilos requisados](https://www.elperiodico.com/es/sucesos/20260524/mossos-distribucion-marihuana-menos-plantaciones-mas-kilos-droga-cataluna-130509048)
 - 0 |  | 
 - 17:44 [Davidovich gana a Dzumhur un partido loco de más de cuatro horas y cinco sets y se mete en segunda ronda](https://www.elperiodico.com/es/deportes/20260524/davidovich-gana-dzumhur-partido-loco-130599727)
 - 0 |  | 
@@ -175,6 +201,10 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 12:00 [Xabier Gómez: “El Papa visitará a hombres y mujeres en la cárcel de Brians, la parroquia que más quiero”](https://www.elperiodico.com/es/barcelona/20260524/xabier-gomez-conseller-espadaler-presos-ilusion-papa-visitara-can-brians-barcelona-130539909)
 - 0 |  | 
 - 12:00 [Porsche rompe los moldes con esta edición del GT3 RS](https://www.elperiodico.com/es/motor/20260524/porsche-rompe-moldes-edicion-especial-gt3-rs-130230062)
+-  |  | 
+- 12:00 [PSC, ERC y Comuns pugnan por abanderar la línea orbital de tren a un año de las municipales](https://www.elperiodico.com/es/politica/20260524/tren-orbital-catalunya-linea-erc-comuns-rodalies-presupuestos-129909069)
+-  |  | 
+- 11:53 [Al menos 30 personas desaparecidas tras derrumbarse un edificio en construcción en Filipinas](https://www.elperiodico.com/es/internacional/20260524/filipinas-derrumbe-edficio-construccion-desaparecidos-atrapados-rescatados-130593280)
 - 85 | спорт | 
 - 11:43 [El ‘Apóstol del caos’ conquistó San Mamés con su “espontaneidad estructurada”](https://www.elperiodico.com/es/deportes/20260524/apostol-caos-san-mames-champions-rugby-san-mames-130593370)
 - 85 | спорт | 
@@ -193,6 +223,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:01 [Andreu Escrivà, ambientólogo: "La Tierra no pertenece a los humanos, solo somos una especie más entre millones de otras"](https://www.elperiodico.com/es/sociedad/20260524/andreu-escriva-ambientologo-planeta-tierra-seres-humanos-sostenibilidad-130459922)
 - 0 |  | 
 - 11:01 [La fe del otro](https://www.elperiodico.com/es/opinion/20260524/fe-130559836)
+-  |  | 
+- 10:51 [La UDEF sospecha de una hipoteca cancelada por Zapatero que el expresidente justifica por la venta de otro inmueble](https://www.elperiodico.com/es/politica/20260524/udef-revela-matrimonio-zapatero-espinosa-hipoteca-meses-transferencia-130592285)
 - 25 | пограбування, афера | 
 - 10:44 [Detenidos por estafar 14.600 euros mediante móviles y tarjetas robadas en Barcelona](https://www.elperiodico.com/es/barcelona/20260524/barcelona-estafas-robos-moviles-tarjetas-130591688)
 - 85 | спорт | 
@@ -239,7 +271,13 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:01 [La defensa de Zapatero recurre a la figura de 'Julito' para desligarse de las acusaciones de corrupción](https://www.elperiodico.com/es/opinion/20260524/defensa-zapatero-recurre-figura-julito-130569640)
 - 25 | спорт | 
 - 06:01 [Arcadi España: "Vamos a llevar adelante la nueva financiación aunque el PP la rechace con el objetivo de tenerla el año que viene"](https://www.elperiodico.com/es/politica/20260524/arcadi-espana-adelante-nueva-financiacion-pp-presupuestos-130555726)
+-  |  | 
+- 06:00 [Los alcaldes exigen al Govern soluciones concretas para las urbanizaciones sin legalizar: "Necesitamos financiación"](https://www.elperiodico.com/es/barcelona/20260524/alcaldes-exigen-govern-soluciones-concretas-130357725)
 - 50 | вибори | 
 - 06:00 [Unos 70.000 vecinos viven en urbanizaciones barcelonesas con alcantarillado deficiente o inexistente](https://www.elperiodico.com/es/barcelona/20260524/70000-vecinos-urbanizaciones-barcelonesas-alcantarillado-deficiente-inexistente-130190344)
+-  |  | 
+- 06:00 [El golpe de Zapatero trastoca los planes del Gobierno y espera a su declaración ante el juez para decidir nuevos pasos](https://www.elperiodico.com/es/politica/20260524/golpe-zapatero-trastoca-planes-gobierno-130545346)
 - 25 | вибори | 
 - 06:00 [Illa abre una nueva etapa tras el pacto de presupuestos con el foco puesto en maestros, pisos, trenes y financiación](https://www.elperiodico.com/es/politica/20260524/salvador-illa-govern-nueva-etapa-pacto-presupuestos-maestros-trenes-pisos-financiacion-130503558)
+-  |  | 
+- 00:31 [La trama de Zapatero creó una empresa en Islas Vírgenes británicas para representar a un banco que dependía de Delcy Rodríguez en Dubái](https://www.elperiodico.com/es/politica/20260524/trama-zapatero-creo-empresa-islas-130586190)
