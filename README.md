@@ -1,8 +1,10 @@
-# News for 2026-05-24 11:21
+# News for 2026-05-24 11:34
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+-  | 0 | Київ
+- 11:25 [Удар по Києву: пошкоджена будівля МЗС, музей, церкви, театр і виші](https://ua.korrespondent.net/city/kiev/4881026-udar-po-kyievu-poshkodzhena-budivlia-mzs-muzei-tserkvy-teatr-i-vyshi)
 - автомобілі | 70 | Новини України
 - 11:13 [Війська РФ вдарили по Богодухову, 12 поранених](https://ua.korrespondent.net/ukraine/4881024-viiska-rf-vdaryly-po-bohodukhovu-12-poranenykh)
 -  | 0 | Новини футболу
@@ -85,6 +87,14 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+- спорт | 100 | 
+- 11:34 [Las consecuencias de la cuarta Champions del Barça: del éxtasis al vértigo](https://www.elperiodico.com/es/deportes/20260524/consecuencias-cuarta-champions-barca-extasis-130593093)
+-  | 0 | 
+- 11:30 [Nueva app para encontrar al compañero de piso perfecto: se acabó el problema de encontrar a la persona adecuada](https://www.elperiodico.com/es/vivienda/20260524/compartir-piso-domate-app-dv-130529587)
+-  | 0 | 
+- 11:30 [El PSC apela a Junts a recuperar la vocación de "centralidad" que tenía Convergència](https://www.elperiodico.com/es/politica/20260524/presupuestos-cataluna-psc-junts-centralidad-convergencia-moret-130592857)
+- автомобілі | 70 | 
+- 11:30 [Los expertos coinciden: "Sacar dinero del cajero de esta manera es ponérselo fácil a los estafadores"](https://www.elperiodico.com/es/economia/20260524/recibo-sacar-dinero-cajero-automatico-estafa-robo-dv-130462980)
 -  | 0 | 
 - 11:18 [La Generalitat tramitará 197.000 becas para alumnos de estudios superiores en la primera convocatoria que asume](https://www.elperiodico.com/es/sociedad/20260524/becas-universidad-bachillerato-fp-generalitat-catalunya-130592630)
 -  | 0 | 
