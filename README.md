@@ -1,8 +1,12 @@
-# News for 2026-05-24 15:45
+# News for 2026-05-24 16:05
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+- 0 |  | Новини світу
+- 15:59 [Угорщина зреагувала на російський удар по Києву](https://ua.korrespondent.net/world/4881066-uhorschyna-zreahuvala-na-rosiiskyi-udar-po-kyievu)
+- 0 |  | Новини України
+- 15:47 [Росіяни пошкодили будівлю МЗС у центрі Києва](https://ua.korrespondent.net/ukraine/4881064-rosiiany-poshkodyly-budivlui-mzs-u-tsentri-kyieva)
 - 0 |  | Новини світу
 - 15:34 [Трамп став на захист прем’єрки Японії перед Сі - ЗМІ](https://ua.korrespondent.net/world/4881062-tramp-stav-na-zakhyst-premierky-yaponii-pered-si-zmi)
 - 0 |  | Новини світу
@@ -25,7 +29,7 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 13:20 [Удар РФ пошкодив резиденцію посла Албанії у Києві](https://ua.korrespondent.net/ukraine/4881043-udar-rf-poshkodyv-rezydentsiui-posla-albanii-u-kyievi)
 - 0 |  | Новини України
 - 12:56 [Зеленський відвідав місця влучань у Києві](https://ua.korrespondent.net/ukraine/4881041-zelenskyi-vidvidav-mistsia-vluchan-u-kyievi)
-- 97 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | Новини боксу
+- 90 | спорт | Новини боксу
 - 12:43 [Колишній суперник Усика розкритикував зупинку бою з Верховеном](https://ua.korrespondent.net/sport/boks/4881038-kolyshnii-supernyk-usyka-rozkrytykuvav-zupynku-boui-z-verkhovenom)
 - 0 |  | Новини України
 - 12:34 [СБУ уразила нафтоперекачувальну станцію у РФ](https://ua.korrespondent.net/ukraine/4881036-sbu-urazyla-naftoperekachuvalnu-stantsiui-u-rf)
@@ -33,16 +37,12 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 12:02 [У туалеті тернопільського ТЦК застрелився чоловік](https://ua.korrespondent.net/ukraine/4881034-u-tualeti-ternopilskoho-ttsk-zastrelyvsia-cholovik)
 - 0 |  | Київ
 - 11:47 [Атака на Київ: кількість постраждалих зросла до 69](https://ua.korrespondent.net/city/kiev/4881030-ataka-na-kyiv-kilkist-postrazhdalykh-zrosla-do-69)
-- 97 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | Новини боксу
+- 90 | спорт | Новини боксу
 - 11:45 [Скандальне визнання інсайдера викликало ажіотаж у мережі](https://ua.korrespondent.net/sport/boks/4881029-skandalne-vyznannia-insaidera-vyklykalo-azhiotazh-u-merezhi)
 - 0 |  | Київ
 - 11:25 [Удар по Києву: пошкоджена будівля МЗС, музей, церкви, театр і виші](https://ua.korrespondent.net/city/kiev/4881026-udar-po-kyievu-poshkodzhena-budivlia-mzs-muzei-tserkvy-teatr-i-vyshi)
-- 86 | автомобілі | Новини України
+- 0 |  | Новини України
 - 11:13 [Війська РФ вдарили по Богодухову, 12 поранених](https://ua.korrespondent.net/ukraine/4881024-viiska-rf-vdaryly-po-bohodukhovu-12-poranenykh)
-- 88 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | Новини футболу
-- 11:07 [Стадіон імені Лобановського постраждав після атаки на Київ](https://ua.korrespondent.net/sport/football/4881021-stadion-imeni-lobanovskoho-postrazhdav-pislia-ataky-na-kyiv)
-- 97 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | Новини боксу
-- 10:45 [Сулейман відповів, чи позбавлять Усика титулу WBC](https://ua.korrespondent.net/sport/boks/4881017-suleiman-vidpoviv-chy-pozbavliat-usyka-tytulu-WBC)
 
 ## as.com
 - 0 |  | Baloncesto
@@ -64,30 +64,34 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## www.elperiodico.com
 - 0 |  | 
+- 16:00 [El "Grupo Zapatero" ingresó casi medio millón de euros de empresas de capital chino](https://www.elperiodico.com/es/politica/20260524/grupo-zapatero-ingreso-medio-millon-130597044)
+- 0 |  | 
+- 16:00 [Una menor y dos personas con discapacidad se quedan sin vivienda tras un desahucio fratricida en Ibiza](https://www.elperiodico.com/es/sociedad/20260524/menor-personas-dispacidad-vivienda-ibiza-desahucio-130549480)
+- 0 |  | 
+- 16:00 [En el bar del 'Chino facha' de Usera: "Hay libertad de expresión, Franco es historia y con él España estaba más unida"](https://www.elperiodico.com/es/sociedad/20260524/bar-chino-facha-usera-espana-unida-franco-memoria-historica-130499389)
+- 0 |  | 
+- 15:59 [Jonathan Andic, hijo del fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo](https://www.elperiodico.com/es/sociedad/20260524/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411)
+- 0 |  | 
+- 15:54 [El catalán Bernat Costa, doble de Johnny Depp: "Me invitan a subir a yates pensando que soy el original"](https://www.elperiodico.com/es/ocio-y-cultura/20260524/bernat-costa-doble-johnny-depp-me-invitan-barcos-130598835)
+- 0 |  | 
+- 15:47 [Mas, Turull y Trias cuestionan diez años después que la disolución de Convergència fuera una decisión acertada](https://www.elperiodico.com/es/politica/20260524/artur-mas-jordi-turull-xavier-trias-aniversario-pdecat-decision-acertada-130594636)
+- 0 |  | 
 - 15:37 [Sindicatos y vecinos vuelven a las calles de Madrid en defensa de una vivienda "digna"](https://www.elperiodico.com/es/videos/sociedad/sindicatos-vecinos-vuelven-calles-madrid/130599242.shtml)
 - 0 |  | 
 - 15:36 [La detención del hijo de Isak Andic reactiva el "turismo negro" en Montserrat](https://www.elperiodico.com/es/sociedad/20260524/detencion-hijo-isak-andic-reactiva-turismo-negro-montserrat-130598856)
 - 0 |  | 
-- 15:25 [Dos policías en prácticas salvan la vida a un bañista en Mallorca: "Lo vimos flotar inerte, nos miramos y dijimos: '¡Vamos, vamos!'"](https://www.elperiodico.com/es/sucesos/20260524/policias-practicas-salvan-vida-banista-inconsciente-mallorca-130598782)
-- 96 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | 
 - 15:23 [El decálogo de Riquelme: "El Real Madrid no puede permitirse apoyar al Barcelona después de lo que hicieron en el caso Negreira"](https://www.elperiodico.com/es/deportes/20260524/decalogo-riquelme-real-madrid-130598839)
-- 0 |  | 
-- 15:21 [Detenidos en Ibiza por robar relojes de alta gama mientras ofrecían servicios sexuales](https://www.elperiodico.com/es/sucesos/20260524/detenidos-ibiza-robar-relojes-ofrecian-sexo-fq-130598784)
-- 0 |  | 
-- 15:16 [Miles de personas recorren Madrid en defensa de una vivienda "digna" y frente a los "ataques del rentismo"](https://www.elperiodico.com/es/sociedad/20260524/sindicatos-vecinos-vuelven-calle-domingo-vivienda-cuesta-vida-130596320)
-- 0 |  | 
-- 15:15 [Muere a los cien años el empresario Joan Antoni Pujals, figura clave en la patronal Cecot](https://www.elperiodico.com/es/economia/20260524/muere-cien-anos-empresario-joan-130595477)
 - 0 |  | 
 - 15:14 [Patxi López: "No nos cuadra de ninguna de las maneras que Zapatero se haya podido corromper"](https://www.elperiodico.com/es/videos/politica/patxi-lopez-cuadra-maneras-zapatero/130598736.shtml)
 - 0 |  | 
 - 15:12 [Quince detenidos por estafar 400.000 euros mediante llamadas tras la denuncia de un club de Alicante](https://www.elperiodico.com/es/sucesos/20260524/quince-detenidos-estafar-400-000-llamadas-club-sant-joan-alicante-dv-130598500)
 - 0 |  | 
 - 15:10 [Aitor Esteban (PNV) considera "irresponsable" que el Gobierno "siga más allá de 2026"](https://www.elperiodico.com/es/videos/politica/aitor-esteban-pnv-considera-irresponsable/130598669.shtml)
-- 90 | ресторани, їжа | 
+- 0 |  | 
 - 15:05 ["Un menú excepcional y barato": los elogios al mejor restaurante de Figueres según Tripadvisor](https://www.elperiodico.com/es/gastronomia/20260524/menu-excepcional-elogios-mejor-restaurante-figueres-dv-loc-108428649)
-- 92 | трафік в Барселоні | 
+- 0 |  | 
 - 14:55 [Herido un hombre en el metro de Barcelona al intentar mediar en una pelea multitudinaria](https://www.elperiodico.com/es/barcelona/20260524/barcelona-metro-pelea-herido-estacion-pau-l4-130598211)
-- 96 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | 
+- 0 |  | 
 - 14:53 [Un éxcel de clientes mostraría el mando de Zapatero en la empresa clave de caso Plus Ultra](https://www.elperiodico.com/es/politica/20260524/excel-clientes-mostraria-mando-zapatero-130598333)
 - 0 |  | 
 - 14:43 [Rusia lanza un ataque masivo contra Ucrania con 600 drones y 90 misiles](https://www.elperiodico.com/es/videos/internacional/rusia-lanza-ataque-masivo-ucrania/130598155.shtml)
@@ -95,25 +99,25 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 14:29 [Video | Entrevista con Álvaro Sánchez Cotrina, secretario general del PSOE en Extremadura](https://www.elperiodico.com/es/videos/politica/video-entrevista-alvaro-sanchez-cotrina/130597480.shtml)
 - 0 |  | 
 - 14:28 [Vídeo | Cotrina expresa su "sorpresa" por la imputación de Zapatero y pide "respeto a la justicia"](https://www.elperiodico.com/es/videos/politica/video-cotrina-expresa-sorpresa-imputacion/130597423.shtml)
-- 92 | трафік в Барселоні | 
+- 0 |  | 
 - 14:13 [Detenidos ocho ladrones multirreincidentes en Barcelona en un operativo contra robos violentos](https://www.elperiodico.com/es/barcelona/20260524/barcelona-robos-ladrones-multirreincidentes-detenidos-plan-kanpai-130596901)
 - 0 |  | 
 - 14:13 [El PNV ve "irresponsable" que Sánchez siga "más allá de 2026 sin rumbo, sin mayoría estable y con una agenda judicializada"](https://www.elperiodico.com/es/politica/20260524/pnv-ve-irresponsable-sanchez-siga-sin-rumbo-sin-mayoria-estable-agenda-judicializada-130597194)
 - 0 |  | 
 - 14:07 [Barcelona es más de Bad Bunny que de Hernán Cortés](https://www.elperiodico.com/es/ocio-y-cultura/20260524/concierto-barcelona-bad-bunny-130595699)
-- 92 | трафік в Барселоні | 
+- 0 |  | 
 - 14:03 [Barcelona afronta una noche de calor tropical este domingo, con temperaturas por encima de los 20 grados](https://www.elperiodico.com/es/sociedad/20260524/barcelona-calor-tiempo-noche-tropical-prevision-temperaturas-130595436)
-- 88 | вибори (але не президента України чи США) | 
+- 0 |  | 
 - 14:00 [El PP exige a Sánchez aclarar qué influencia tenía Zapatero: "Es el mayor escándalo de la política en nuestro país"](https://www.elperiodico.com/es/politica/20260524/pp-zapatero-plus-ultra-mayor-escandalo-miguel-tellado-130593270)
 - 0 |  | 
 - 13:45 [Salir de la depresión](https://www.elperiodico.com/es/opinion/20260524/salir-depresion-zapatero-130595556)
-- 0 |  | 
+- 90 | спорт | 
 - 13:37 [Asaltan el domicilio de Ada Hegerberg, la estrella del Lyon, la víspera de la final de la Champions contra el Barça](https://www.elperiodico.com/es/deportes/20260524/asaltan-domicilio-ada-hederberg-estrella-130596023)
 - 0 |  | 
 - 13:30 [Tim Spector, experto en longevidad: "No todos los alimentos ultraprocesados son iguales"](https://www.elperiodico.com/es/salud/20260524/tim-spector-experto-longevidad-alimentos-alimentos-ultraprocesados-dv-130549370)
 - 0 |  | 
 - 13:00 [Bares que aún exhiben simbología franquista pese a la Ley de Memoria Democrática: "No se entiende que no los multen"](https://www.elperiodico.com/es/sociedad/20260524/bares-simbologia-franquista-espana-exaltacion-franquismo-memoria-130533899)
-- 88 | вибори (але не президента України чи США) | 
+- 0 |  | 
 - 12:44 [Elma Saiz: "Frente a la siniestra prioridad nacional de PP y Vox, nuestra prioridad es la igualdad de oportunidades"](https://www.elperiodico.com/es/politica/20260524/elma-saiz-aragon-perder-oportunidades-130595058)
 - 0 |  | 
 - 12:00 [La gran derrota moral de Occidente](https://www.elperiodico.com/es/opinion/20260524/gran-derrota-moral-occidente-gaza-130538302)
@@ -121,7 +125,7 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 12:00 [Xabier Gómez: “El Papa visitará a hombres y mujeres en la cárcel de Brians, la parroquia que más quiero”](https://www.elperiodico.com/es/barcelona/20260524/xabier-gomez-conseller-espadaler-presos-ilusion-papa-visitara-can-brians-barcelona-130539909)
 - 0 |  | 
 - 12:00 [La candidatura de Junts en Barcelona aviva la pugna entre el núcleo de Puigdemont y el sector convergente](https://www.elperiodico.com/es/politica/20260524/junts-barcelona-candidatura-elecciones-municipales-primarias-rius-jordi-marti-puigdemont-130462197)
-- 88 | вибори (але не президента України чи США) | 
+- 0 |  | 
 - 12:00 [PSC, ERC y Comuns pugnan por abanderar la línea orbital de tren a un año de las municipales](https://www.elperiodico.com/es/politica/20260524/tren-orbital-catalunya-linea-erc-comuns-rodalies-presupuestos-129909069)
 - 0 |  | 
 - 12:00 [Porsche rompe los moldes con esta edición del GT3 RS](https://www.elperiodico.com/es/motor/20260524/porsche-rompe-moldes-edicion-especial-gt3-rs-130230062)
@@ -129,51 +133,49 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:43 [El ‘Apóstol del caos’ conquistó San Mamés con su “espontaneidad estructurada”](https://www.elperiodico.com/es/deportes/20260524/apostol-caos-san-mames-champions-rugby-san-mames-130593370)
 - 0 |  | 
 - 11:41 [La planificación del Barça: el club se enfoca en el relevo de Lewandowski](https://www.elperiodico.com/es/deportes/20260524/planificacion-barca-club-enfoca-relevo-130550159)
-- 86 | автомобілі | 
+- 0 |  | 
 - 11:37 [Un motorista muere en la misma carretera de El Brull donde otro conductor de moto falleció a principios de mes](https://www.elperiodico.com/es/sociedad/20260524/accidente-motorista-muere-carretera-brull-130592988)
 - 0 |  | 
 - 11:34 [Las consecuencias de la cuarta Champions del Barça: del éxtasis al vértigo](https://www.elperiodico.com/es/deportes/20260524/consecuencias-cuarta-champions-barca-extasis-130593093)
 - 0 |  | 
 - 11:30 [Los expertos coinciden: "Sacar dinero del cajero de esta manera es ponérselo fácil a los estafadores"](https://www.elperiodico.com/es/economia/20260524/recibo-sacar-dinero-cajero-automatico-estafa-robo-dv-130462980)
-- 84 | телебачення | 
+- 0 |  | 
 - 11:17 [EEUU e Irán ultiman los detalles de un acuerdo que ponga fin a la guerra y dé paso a negociaciones sobre el programa nuclear](https://www.elperiodico.com/es/internacional/20260524/eeuu-iran-ultiman-detalles-acuerdo-fin-guerra-negociaciones-programa-nuclear-130592914)
-- 86 | автомобілі | 
+- 0 |  | 
 - 11:01 [Albiol apoya al mosso que disparó al aire en Badalona para intentar detener a los ladrones de un coche](https://www.elperiodico.com/es/barcelona/20260524/albiol-badalona-mosso-disparos-gasolinera-coche-robado-130592237)
 - 0 |  | 
 - 11:01 [Andreu Escrivà, ambientólogo: "La Tierra no pertenece a los humanos, solo somos una especie más entre millones de otras"](https://www.elperiodico.com/es/sociedad/20260524/andreu-escriva-ambientologo-planeta-tierra-seres-humanos-sostenibilidad-130459922)
 - 0 |  | 
 - 11:01 [La fe del otro](https://www.elperiodico.com/es/opinion/20260524/fe-130559836)
 - 0 |  | 
-- 10:51 [La UDEF sospecha de una hipoteca cancelada por Zapatero que el expresidente justifica por la venta de otro inmueble](https://www.elperiodico.com/es/politica/20260524/udef-revela-matrimonio-zapatero-espinosa-hipoteca-meses-transferencia-130592285)
-- 0 |  | 
 - 10:44 [Detenidos por estafar 14.600 euros mediante móviles y tarjetas robadas en Barcelona](https://www.elperiodico.com/es/barcelona/20260524/barcelona-estafas-robos-moviles-tarjetas-130591688)
-- 0 |  | 
+- 90 | спорт | 
 - 10:35 [El Girona, de la Champions al desastre: "Toca admitir errores, rectificar y buscar soluciones"](https://www.elperiodico.com/es/deportes/20260524/girona-champions-desastre-toca-admitir-130591751)
-- 0 |  | 
+- 90 | спорт | 
 - 10:22 [Míchel asume culpas en el drama del Girona: “He fallado a nuestra gente; es un paso atrás difícil de asimilar”](https://www.elperiodico.com/es/deportes/20260524/michel-asume-culpas-drama-girona-130591528)
-- 88 | вибори (але не президента України чи США) | 
-- 10:04 [Eric García y el madridista Gonzalo pelean por los dos puestos para el Mundial que le bailan a De la Fuente](https://www.elperiodico.com/es/deportes/20260524/luis-de-la-fuente-lista-mundial-2026-130591298)
 - 0 |  | 
 - 10:00 [Los heladeros prevén un 2026 de récord gracias al turismo y a un consumo que ya se alarga todo el año](https://www.elperiodico.com/es/economia/20260524/heladeros-preven-2026-record-gracias-turismo-consumo-todo-ano-130549227)
 - 0 |  | 
 - 10:00 [Lexus presenta su nueva bicicleta, basada en el rendimiento y la exclusividad](https://www.elperiodico.com/es/motor/20260524/lexus-presenta-nueva-bicicleta-basada-rendimiento-exclusividad-130506631)
 - 0 |  | 
 - 09:24 [El 'hacker' Alcasec se enfrenta a una petición de tres años de cárcel por robar medio millón de datos bancarios](https://www.elperiodico.com/es/economia/20260524/hacker-alcasec-juicio-robo-datos-bancarios-130590038)
-- 90 | ресторани, їжа | 
+- 0 |  | 
 - 09:15 [Descubre una joya gastronómica escondida en el Putxet](https://www.elperiodico.com/es/que-hacer/donde-comer/20260524/descubre-joya-gastronomica-escondida-putxet-barcelona-restaurante-130578190)
-- 84 | телебачення | 
+- 90 | спорт | 
 - 09:00 [Marc Redondo, meteorólogo: “Me apasiona comunicar los fenómenos meteorológicos”](https://www.elperiodico.com/es/deportes/20260524/marc-redondo-meteorologo-apasiona-comunicar-130365259)
 - 0 |  | 
 - 09:00 [Expresidentes, tráfico de influencias y lobis](https://www.elperiodico.com/es/opinion/20260524/expresidentes-trafico-influencias-lobis-130555675)
 - 0 |  | 
 - 09:00 [La nueva tendencia en las herencias: los testamentos solidarios con la naturaleza ganan fuerza en España](https://www.elperiodico.com/es/sociedad/20260524/testamentos-solidarios-planeta-naturaleza-animales-herencia-oeneges-130467397)
-- 84 | телебачення | 
+- 0 |  | 
 - 09:00 [Mamen Mendizábal, periodista: "A Jesús Gil le reímos las gracias durante muchos años, pero era muy peligroso"](https://www.elperiodico.com/es/tele/20260524/mamen-mendizabal-anatomia-jesus-gil-lasexta-130451480)
 - 0 |  | 
 - 08:05 [¿Qué centros comerciales abren este lunes 25 de mayo, Segunda Pascua, en Barcelona y Catalunya?](https://www.elperiodico.com/es/economia/20260524/centros-comerciales-abren-lunes-25-mayo-segunda-pascua-barcelona-cataluna-dv-130544998)
 - 0 |  | 
 - 08:00 [Los niños con trastornos del neurodesarrollo tienen mayores niveles de malestar emocional](https://www.elperiodico.com/es/ser-feliz/20260524/ninos-trastornos-neurodesarrollo-mayores-niveles-130269492)
-- 88 | вибори (але не президента України чи США) | 
+- 0 |  | 
+- 08:00 [De la inseguridad de Perú a una nueva vida en Galicia: «Queremos trabajar tranquilos y sacar adelante a nuestro hijo»](https://www.elperiodico.com/es/sociedad/20260524/inmigrantes-peru-regularizacion-galicia-130369754)
+- 0 |  | 
 - 08:00 [Quiz | ¿Eres más de almendrado o de polo de hielo? Escoge cuál es tu helado favorito](https://www.elperiodico.com/es/economia/20260524/quizz-escoge-helado-verano-almendrado-polo-130547036)
 - 0 |  | 
 - 08:00 [Los Mossos detectan nuevas formas de plantar marihuana: 'narcobúnkeres' al lado de las viviendas](https://www.elperiodico.com/es/sociedad/20260524/narcobunkeres-marihuana-metodos-plantacion-drogas-narcotraficantes-130375570)
@@ -189,15 +191,11 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 07:00 [Rebeca Domenech, periodista de moda y escritora: "Soñé con tener a Anna Wintour dirigiéndome, pero ahora veo que hay otras formas de liderar"](https://www.elperiodico.com/es/gente/20260524/rebeca-domenech-tras-focos-vogue-anna-wintour-diablo-viste-prada-novela-entrevista-130212901)
 - 0 |  | 
 - 06:01 [La SEPI y el rescate de Plus Ultra: un salvamento discrecional bajo sospecha](https://www.elperiodico.com/es/opinion/20260524/sepi-rescate-plus-ultra-salvamento-sospecha-130582997)
-- 88 | спорт (футбол, бокс, олімпійські ігри; але не баскетбол) | 
+- 90 | спорт | 
 - 06:01 [La defensa de Zapatero recurre a la figura de 'Julito' para desligarse de las acusaciones de corrupción](https://www.elperiodico.com/es/opinion/20260524/defensa-zapatero-recurre-figura-julito-130569640)
 - 0 |  | 
 - 06:01 [Arcadi España: "Vamos a llevar adelante la nueva financiación aunque el PP la rechace con el objetivo de tenerla el año que viene"](https://www.elperiodico.com/es/politica/20260524/arcadi-espana-adelante-nueva-financiacion-pp-presupuestos-130555726)
 - 0 |  | 
-- 06:00 [Cunde el convencimiento en la derecha de que Sánchez podría maniobrar para apurar la legislatura más allá del límite](https://www.elperiodico.com/es/politica/20260524/cunde-convencimiento-derecha-sanchez-maniobrar-130556297)
-- 0 |  | 
 - 06:00 [Unos 70.000 vecinos viven en urbanizaciones barcelonesas con alcantarillado deficiente o inexistente](https://www.elperiodico.com/es/barcelona/20260524/70000-vecinos-urbanizaciones-barcelonesas-alcantarillado-deficiente-inexistente-130190344)
-- 0 |  | 
-- 06:00 [El golpe de Zapatero trastoca los planes del Gobierno y espera a su declaración ante el juez para decidir nuevos pasos](https://www.elperiodico.com/es/politica/20260524/golpe-zapatero-trastoca-planes-gobierno-130545346)
 - 0 |  | 
 - 06:00 [Illa abre una nueva etapa tras el pacto de presupuestos con el foco puesto en maestros, pisos, trenes y financiación](https://www.elperiodico.com/es/politica/20260524/salvador-illa-govern-nueva-etapa-pacto-presupuestos-maestros-trenes-pisos-financiacion-130503558)
