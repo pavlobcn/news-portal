@@ -15,5 +15,3 @@ Update `news.json`: for each item add two new fields — `topic` (best matching 
 ```bash
 node src/generate-summary.js
 ```
-
-Do not test the code. Exeeution of this task does not expect any changes left in the repository.
