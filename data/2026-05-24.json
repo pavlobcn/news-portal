@@ -1,5 +1,104 @@
 [
   {
+    "title": "У Києві відновили роботу метро Лук’янівська",
+    "link": "https://ua.korrespondent.net/city/kiev/4881080-u-kyievi-vidnovyly-robotu-metro-lukianivska",
+    "pubDate": "2026-05-24 17:39:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440862.jpg\">Під час масованої атаки вибухова хвиля пошкодила вестибюль станції метро Лук'янівська.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un ataque con explosivos contra un tren en Pakistán deja una treintena de muertos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ataque-explosivos-tren-pakistan-deja/130601974.shtml",
+    "pubDate": "2026-05-24 17:36:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ucraniana Kostyuk vence a la 'nueva' española Selekhmeteva: \"Un misil ha caído a 100 metros de mis padres esta mañana\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260524/ucraniana-kostyuk-vence-nueva-espanola-130596610",
+    "pubDate": "2026-05-24 17:34:20",
+    "category": "",
+    "description": "<h2>La tenista ucraniana se mostró afectada tras su victoria de primera ronda en París</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los socios del Real Madrid podrán elegir entre dos candidatos 20 años después: la junta electoral confirma la candidatura de Riquelme en las elecciones",
+    "link": "https://www.elperiodico.com/es/deportes/20260524/elecciones-real-madrid-junta-enrique-riquelme-florentino-perez-130601862",
+    "pubDate": "2026-05-24 17:32:18",
+    "category": "",
+    "description": "<h2>El aval del empresario alicantino financiado por el banco andorrano Andbank cumple los requisitos exigidos </h2>",
+    "topic": "вибори",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Ya están disponibles estas nuevas monedas de 2 euros: conmemoran la reforma del artículo 49 de la Constitución",
+    "link": "https://www.elperiodico.com/es/economia/20260524/monedas-conmemorativas-2-euros-constitucion-articulo-49-dv-130222455",
+    "pubDate": "2026-05-24 17:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Están en circulación una tirada de un millón y medio de monedas con el lema 'España y la discapacidad: protección, derechos e inclusión'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260417/confirmado-boe-sera-moneda-60-euros-princesa-leonor-dv-129216284\">Confirmado por el BOE: así será la exclusiva moneda de 60 euros con la cara de la princesa Leonor para celebrar el fin de su formación militar</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260413/monedas-falsas-identificar-policia-nacional-banco-espana-dv-128499776\">La Policía Nacional advierte: las monedas falsas que circulan y cómo identificarlas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se desprende parte del forjado de la última planta del edificio de Fecsa en las Tres Xemeneies de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260524/desprende-parte-forjado-ultima-planta-130601447",
+    "pubDate": "2026-05-24 17:25:44",
+    "category": "",
+    "description": "<h2>Los Bomberos de Barcelona confirman que no hay personas heridas ni afectación al edificio</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260430/tres-xemeneies-parallel-inician-obras-oficinas-2027-129663554\">Las Tres Xemeneies del Paral·lel inician las obras para su metamorfosis en oficinas de élite en 2027</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La policía turca ataca con gases lacrimógenos y toma la sede del principal partido de la oposición",
+    "link": "https://www.elperiodico.com/es/videos/internacional/policia-turca-ataca-gases-lacrimogenos/130601615.shtml",
+    "pubDate": "2026-05-24 17:24:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Confirmado: el Citroën 2CV vuelve con motor eléctrico y ya sabemos cuándo se presentará",
+    "link": "https://www.elperiodico.com/es/motor/20260524/confirmado-citroen-2cv-vuelve-electrico-130533191",
+    "pubDate": "2026-05-24 17:23:59",
+    "category": "",
+    "description": "<h2>Durante la presentación del plan estratégico de Stellantis, el CEO de Citroën confirmó que el nuevo 2CV llegará al mercado y que se conocerán más detalles en el Salón del Automóvil de París.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Daniel López Acuña, epidemiólogo: \"La gripe aviar es una de las posibles futuras pandemias\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260524/daniel-lopez-acuna-epidemiologo-gripe-aviar-posible-futura-pandemia-130601520",
+    "pubDate": "2026-05-24 17:23:58",
+    "category": "",
+    "description": "<h2>\"El hantavirus es un virus al que debemos prestar atención, pero por fortuna tiene un alcance más limitado\", afirma el experto, que ofrece una charla este lunes en el Antiguo Instituto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США збережуть блокаду іранських портів до підписання угоди",
+    "link": "https://ua.korrespondent.net/world/4881077-ssha-zberezhut-blokadu-iranskykh-portiv-do-pidpysannia-uhody",
+    "pubDate": "2026-05-24 17:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440855.jpg\"> \"Відносини з Іраном стають набагато професійнішими та продуктивнішими\", відзначив президент США.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La policía turca ataca con gases lacrimógenos y toma la sede del principal partido de la oposición",
+    "link": "https://www.elperiodico.com/es/internacional/20260524/policia-turca-ataca-gases-lacrimogenos-toma-sede-principal-partido-oposicion-130601412",
+    "pubDate": "2026-05-24 17:12:29",
+    "category": "",
+    "description": "<h2>Durante la semana, la justicia del país anatolio decretó la expulsión del combativo líder socialdemócrata, Özgür Özel, de la secretaría general de la formación, la principal rival del presidente turco, Recep Tayyip Erdogan</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Barcelona disfruta de un domingo soleado y con máximas de 28ºC",
     "link": "https://www.elperiodico.com/es/videos/sociedad/barcelona-disfruta-domingo-soleado-maximas/130601270.shtml",
     "pubDate": "2026-05-24 17:09:51",
@@ -25,6 +124,15 @@
     "description": "<h2>En el nuevo episodio de ‘Sobrevivir a la crianza’ hablamos con Ana Forés, Jaume Funes y Eva Bach sobre sobreprotección, límites, frustración y miedo a traumatizar a nuestros hijos</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260517/jordi-grane-educacion-parque-tematico-crisis-130144832\">Jordi Grané, filósofo: “Hemos convertido la educación en un parque de atracciones”</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Динамо та Металіст 1925 року обіграли суперників у матчах УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4881075-dynamo-ta-metalist-1925-roku-obihraly-supernykiv-u-matchakh-upl",
+    "pubDate": "2026-05-24 16:58:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4440848.jpg\">У неділю, 24 травня, завершився останній тур УПЛ. Команди з Києва та Харкова здолали своїх суперників.",
+    "topic": "спорт",
+    "topic_match_probability": 90
   },
   {
     "title": "Ігнат розповів, як відпрацювали F-16 під час атаки",
