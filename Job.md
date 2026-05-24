@@ -13,9 +13,8 @@ Use `Filter.md` as the source of topics and update `news.json`: for each item ad
 - `topic_match_probability` — 0..100 score based on title/category/description semantic meaning
 
 Rules for LLM matching:
-- Match by meaning, not only by exact keywords.
-- Use category/title context as a human editor would.
-- If category is about boxing (`бокс`, `boxing`, `boxeo`), it should be a high-confidence match to `спорт`.
+- Match by meaning, not by exact keywords.
+- Use title/category/description context as a human editor would.
 - Keep `0` when nothing meaningfully matches.
 - Use `100` for very close matches (e.g., FC Barcelona football news => `спорт=100`; boxing news => `спорт` with high score).
 
