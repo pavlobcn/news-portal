@@ -1,8 +1,10 @@
-# News for 2026-05-24 23:16
+# News for 2026-05-24 23:34
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+- 85 | ресторани, їжа | Новини України
+- 23:20 [Гроза гаражів: залишки "Орєшніка" передали на експертизу](https://ua.korrespondent.net/ukraine/4881123-hroza-harazhiv-zalyshky-orieshnika-peredaly-na-ekspertyzu)
 - 0 |  | Київ
 - 22:52 [Атака на Київ: з’явилося відео з бодікамер поліції](https://ua.korrespondent.net/city/kiev/4881120-ataka-na-kyiv-ziavylosia-video-z-bodikamer-politsii)
 -  |  | Новини тенісу
@@ -87,6 +89,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:47 [Атака на Київ: кількість постраждалих зросла до 69](https://ua.korrespondent.net/city/kiev/4881030-ataka-na-kyiv-kilkist-postrazhdalykh-zrosla-do-69)
 
 ## as.com
+- 90 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | Baloncesto
+- 23:13 [Un 0/3 y máxima presión para el Madrid](https://as.com/baloncesto/euroliga/un-03-y-maxima-presion-para-el-madrid-f202605-n/)
 -  |  | Baloncesto
 - 23:02 [Scariolo: “Con este ambiente algo tienes que poner en la cuenta”](https://as.com/baloncesto/euroliga/scariolo-con-este-ambiente-algo-tienes-que-poner-en-la-cuenta-f202605-n/)
 -  |  | Real Madrid baloncesto
@@ -141,6 +145,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+- 0 | 0 | 
+- 23:27 [La portada de EL PERIÓDICO del 25 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260524/portada-periodico-25-mayo-2026-130610106)
 -  |  | 
 - 22:59 [Álex Palou no puede revalidar su éxito en las 500 Millas de Indianápolis y acaba séptimo](https://www.elperiodico.com/es/deportes/20260524/110-edicion-500-millas-indianapolis-alex-palou-130609571)
 - 0 |  | 
