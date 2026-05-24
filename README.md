@@ -1,4 +1,4 @@
-# News for 2026-05-24 16:55
+# News for 2026-05-24 17:12
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
@@ -67,6 +67,12 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 17:09 [Barcelona disfruta de un domingo soleado y con máximas de 28ºC](https://www.elperiodico.com/es/videos/sociedad/barcelona-disfruta-domingo-soleado-maximas/130601270.shtml)
+- 22 | пограбування, афера | 
+- 17:07 [Detenido un hombre de 44 años por herir con un arma blanca a su compañero de piso en Juneda (Lleida)](https://www.elperiodico.com/es/sucesos/20260524/detenido-hombre-44-anos-herir-arma-blanca-companero-piso-juneda-lleida-130601281)
+- 0 |  | 
+- 17:00 [Jaume Funes, Psicólogo, educador y periodista: "Hemos psiquiatrizado todo: a todo le ponemos etiquetas cuando en realidad estamos agobiados"](https://www.elperiodico.com/es/educacion/20260524/jaume-funes-psicologo-educador-periodista-130356412)
 - 85 | спорт | 
 - 16:36 [Florentino Pérez cuelga una lona junto al Bernabéu recordando sus siete Champions](https://www.elperiodico.com/es/videos/deportes/florentino-perez-cuelga-lona-bernabeu/130600628.shtml)
 - 0 |  | 
@@ -103,6 +109,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 15:10 [Aitor Esteban (PNV) considera "irresponsable" que el Gobierno "siga más allá de 2026"](https://www.elperiodico.com/es/videos/politica/aitor-esteban-pnv-considera-irresponsable/130598669.shtml)
 - 25 | ресторани, їжа | 
 - 15:05 ["Un menú excepcional y barato": los elogios al mejor restaurante de Figueres según Tripadvisor](https://www.elperiodico.com/es/gastronomia/20260524/menu-excepcional-elogios-mejor-restaurante-figueres-dv-loc-108428649)
+- 82 | вибори | 
+- 15:00 [El PNV se aleja de Sánchez y ve "irresponsable" que agote el mandato hasta mediados de 2027](https://www.elperiodico.com/es/politica/20260524/pnv-zapatero-gobierno-sanchez-elecciones-aitor-esteban-130597549)
 - 0 |  | 
 - 14:55 [Herido un hombre en el metro de Barcelona al intentar mediar en una pelea multitudinaria](https://www.elperiodico.com/es/barcelona/20260524/barcelona-metro-pelea-herido-estacion-pau-l4-130598211)
 - 0 |  | 
