@@ -7,6 +7,7 @@ const scripts = [
   '10-download-rss.js',
   '20-build-news-json.js',
   '30-prune-news-by-recent-days.js',
+  '32-prune-news-before-yesterday.js',
 ];
 
 for (const script of scripts) {
