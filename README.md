@@ -1,8 +1,14 @@
-# News for 2026-05-24 22:17
+# News for 2026-05-24 22:57
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+- 0 |  | Київ
+- 22:52 [Атака на Київ: з’явилося відео з бодікамер поліції](https://ua.korrespondent.net/city/kiev/4881120-ataka-na-kyiv-ziavylosia-video-z-bodikamer-politsii)
+- 0 |  | Новини футболу
+- 22:26 [Кривбас припиняє співпрацю зі своїм капітаном](https://ua.korrespondent.net/sport/football/4881118-kryvbas-prypyniaie-spivpratsui-zi-svoim-kapitanom)
+- 0 |  | Одеса
+- 22:24 [В Одесі вибухнуло авто з людьми: СБУ підозрює теракт](https://ua.korrespondent.net/city/odessa/4881116-v-odesi-vybukhnulo-avto-z-luidmy-sbu-pidozruiie-terakt)
 -  |  | Новини світу
 - 21:44 [У НАТО заблокували план допомоги Україні - ЗМІ](https://ua.korrespondent.net/world/4881114-u-nato-zablokuvaly-plan-dopomohy-ukraini-zmi)
 -  |  | Новини України
@@ -79,6 +85,18 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:47 [Атака на Київ: кількість постраждалих зросла до 69](https://ua.korrespondent.net/city/kiev/4881030-ataka-na-kyiv-kilkist-postrazhdalykh-zrosla-do-69)
 
 ## as.com
+- 0 |  | Euroliga
+- 22:35 [Los árbitros nos quitaron la Duodécima](https://as.com/opinion/los-arbitros-nos-quitaron-la-duodecima-f202605-n/)
+- 0 |  | Baloncesto
+- 22:34 [El Real Madrid roza la hazaña; el Olympiacos, campeón de Europa](https://as.com/baloncesto/euroliga/el-madrid-roza-la-hazana-el-olympicacos-campeon-f202605-n/)
+- 0 |  | Baloncesto
+- 22:29 [Aprobados y suspensos del Madrid: Lyles, Hezonja y un esfuerzo grupal](https://as.com/baloncesto/euroliga/aprobados-y-suspensos-del-madrid-lyles-hezonja-y-un-esfuerzo-grupal-f202605-n/)
+- 0 |  | Real Madrid baloncesto
+- 22:22 [Indignación máxima en el Madrid: la falta que decidió el partido se hará viral en todo el mundo](https://as.com/baloncesto/videos/indignacion-maxima-en-el-madrid-la-falta-que-decidio-el-partido-se-hara-viral-en-todo-el-mundo-f202605-v/)
+- 0 |  | Real Madrid baloncesto
+- 22:22 [Indignación máxima en el Madrid: la falta que decidió el partido se hará viral en todo el mundo](https://as.com/baloncesto/videos/indignacion-maxima-en-el-madrid-la-falta-que-decidio-el-partido-se-hara-viral-en-todo-el-mundo-f202605-v/)
+- 0 |  | Real Madrid baloncesto
+- 22:22 [Indignación máxima en el Madrid: la falta que decidió el partido se hará viral en todo el mundo](https://as.com/baloncesto/videos/indignacion-maxima-en-el-madrid-la-falta-que-decidio-el-partido-se-hara-viral-en-todo-el-mundo-f202605-v/)
 -  |  | Baloncesto
 - 22:10 [Lluvia de millones en la Final Four de Euroliga: el dinero que cobrará cada equipo por su participación en Atenas](https://as.com/baloncesto/euroliga/lluvia-de-millones-en-la-final-four-de-euroliga-el-dinero-que-cobrara-cada-equipo-por-su-participacion-en-atenas-f202605-n-2/)
 -  |  | Baloncesto
@@ -113,6 +131,10 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 22:50 [Javier Ambrossi sobre su paso por Cannes junto a Javier Calvo: "Hay cosas que son para siempre"](https://www.elperiodico.com/es/gente/20260524/javier-ambrossi-cannes-javier-calvo-cosas-para-siempre-130609286)
+- 0 |  | 
+- 22:45 [El Reino Unido alcanza los 30,5 grados en plena ola de calor y prevé temperaturas récord](https://www.elperiodico.com/es/tiempo/20260524/reino-unido-alcanza-30-5-130609239)
 - 0 |  | 
 - 22:15 [Un Real Madrid épico roza el milagro en Grecia](https://www.elperiodico.com/es/deportes/20260524/olympiacos-real-madrid-final-four-baloncesto-resumen-resultado-130608948)
 -  |  | 
