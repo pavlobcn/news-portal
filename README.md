@@ -1,8 +1,10 @@
-# News for 2026-05-24 19:18
+# News for 2026-05-24 19:47
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 19:17 [Росіяни вбили двох цивільних у Херсоні](https://ua.korrespondent.net/ukraine/4881094-rosiiany-vbyly-dvokh-tsyvilnykh-u-khersoni)
 -  |  | Новини світу
 - 18:48 [Макрон зателефонував Лукашенку вперше з 2022 року](https://ua.korrespondent.net/world/4881091-makron-zatelefonuvav-lukashenku-vpershe-z-2022-roku)
 -  |  | Новини футболу
@@ -61,6 +63,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:47 [Атака на Київ: кількість постраждалих зросла до 69](https://ua.korrespondent.net/city/kiev/4881030-ataka-na-kyiv-kilkist-postrazhdalykh-zrosla-do-69)
 
 ## as.com
+-  |  | Baloncesto
+- 19:41 [Boumtje Boumtje y la zurda de oro que vale un MVP de la Euroliga](https://as.com/baloncesto/boumtje-boumtje-y-la-zurda-de-oro-que-vale-un-mvp-de-la-euroliga-f202605-n/)
 - 0 |  | Baloncesto
 - 19:01 [El Barça se desquita a lo grande: campeón de Europa júnior](https://as.com/baloncesto/euroliga/el-barca-se-desquita-a-lo-grande-campeon-de-europa-junior-f202605-n/)
 - 0 |  | Baloncesto
@@ -85,6 +89,12 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 19:36 [Israel tacha a Sánchez de "hipócrita" por el trato de la Ertzaintza a activistas de la Flotilla](https://www.elperiodico.com/es/internacional/20260524/israel-tacha-sanchez-hipocrita-trato-130604771)
+-  |  | 
+- 19:30 [La fruta prohibida para los perros que nunca debes darles, aunque parezca inofensiva](https://www.elperiodico.com/es/vida-y-estilo/20260524/fruta-prohibida-perros-dv-130469612)
+-  |  | 
+- 19:30 [Carlos Rojo, entrenador: "Si eres corredor, el problema no son las zancadas, la sentadilla o el peso muerto"](https://www.elperiodico.com/es/vida-y-estilo/20260524/carlos-rojo-experto-running-corredor-consejos-entrenamiento-fuerza-dv-130447469)
 - 0 |  | 
 - 19:12 [Amazfit lanza el Bip Max: un smartwatch asequible para iniciarse en el ejercicio](https://www.elperiodico.com/es/tecnologia/20260524/amazfit-lanza-bip-max-precio-130603800)
 - 0 |  | 
