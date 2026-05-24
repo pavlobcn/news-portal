@@ -47,7 +47,7 @@ function readJsonArray(filePath) {
 }
 
 function getPubDateValue(item) {
-  const pubDate = item?.item?.pubDate;
+  const pubDate = item?.pubDate;
   return typeof pubDate === "string" ? pubDate.trim() : "";
 }
 
@@ -58,7 +58,7 @@ function getTimeLabel(item) {
 }
 
 function getLinkValue(item) {
-  const link = item?.item?.link;
+  const link = item?.link;
   return typeof link === "string" ? link.trim() : "";
 }
 
@@ -71,7 +71,7 @@ function getDomain(link) {
 }
 
 function getTitleValue(item) {
-  const title = item?.item?.title;
+  const title = item?.title;
   return typeof title === "string" && title.trim()
     ? title.trim()
     : "(untitled)";
@@ -82,14 +82,14 @@ function escapeMdText(text) {
 }
 
 function getTopicValue(item) {
-  const topic = item?.item?.topic;
+  const topic = item?.topic;
   if (typeof topic !== "string") return "";
   const normalized = topic.trim();
   return normalized && normalized.toLowerCase() !== "unknown" ? normalized : "";
 }
 
 function getTopicMatchProbabilityValue(item) {
-  const value = item?.item?.topic_match_probability;
+  const value = item?.topic_match_probability;
 
   if (typeof value === "number" && Number.isFinite(value)) {
     return String(Math.round(value));
@@ -99,7 +99,7 @@ function getTopicMatchProbabilityValue(item) {
 }
 
 function getCategoryValue(item) {
-  const category = item?.item?.category;
+  const category = item?.category;
   if (typeof category !== "string") return "";
   const normalized = category.trim();
   return normalized && normalized.toLowerCase() !== "unknown" ? normalized : "";
