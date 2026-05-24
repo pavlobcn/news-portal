@@ -1,8 +1,16 @@
-# News for 2026-05-24 20:56
+# News for 2026-05-24 21:47
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+-  |  | Новини світу
+- 21:44 [У НАТО заблокували план допомоги Україні - ЗМІ](https://ua.korrespondent.net/world/4881114-u-nato-zablokuvaly-plan-dopomohy-ukraini-zmi)
+-  |  | Новини України
+- 21:13 [Війська РФ вдарили по Дружківці, є загибла](https://ua.korrespondent.net/ukraine/4881111-viiska-rf-vdaryly-po-druzhkivtsi-ye-zahybla)
+-  |  | Новини світу
+- 21:01 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)
+-  |  | Новини України
+- 20:53 [Рятувальники понад 15 годин гасили пожежі після атаки РФ - Зеленський](https://ua.korrespondent.net/ukraine/4881107-riatuvalnyky-ponad-15-hodyn-hasyly-pozhezhi-pislia-ataky-rf-zelenskyi)
 - 0 |  | Новини світу
 - 20:27 [У російських елітах зростає невдоволення Путіним - ЗМІ](https://ua.korrespondent.net/world/4881105-u-rosiiskykh-elitakh-zrostaie-nevdovolennia-putinym-zmi)
 - 0 |  | Новини світу
@@ -99,6 +107,22 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 21:36 [El Barcelona femenino celebra los títulos de la temporada con la afición un día después del ganar su cuarta Champions.](https://www.elperiodico.com/es/fotos/deportes/barcelona-femenino-celebra-titulos-temporada-130608124)
+-  |  | 
+- 21:33 [Taylor Fritz protagoniza el primer gran batacazo en Roland Garros que favorece a Jódar](https://www.elperiodico.com/es/deportes/20260524/taylor-fritz-protagoniza-primer-gran-130607531)
+-  |  | 
+- 21:32 [Muere a los 22 años Gabriel Ganley, fisicoculturista e influencer brasileño](https://www.elperiodico.com/es/ocio-y-cultura/20260524/muere-22-anos-gabriel-ganley-130607341)
+-  |  | 
+- 21:16 [La fiesta azulgrana de un Barça con el futuro pendiente: "Alexia, quédate"](https://www.elperiodico.com/es/deportes/20260524/fiesta-azulgrana-barca-renovaciones-pendientes-130606023)
+-  |  | 
+- 21:02 [Los conservadores ganan las elecciones chipriotas y los ultras avanzan al tercer lugar](https://www.elperiodico.com/es/internacional/20260524/conservadores-ganan-elecciones-chipriotas-ultras-130606878)
+-  |  | 
+- 21:01 [Freenow y BP se unen para abaratar la factura de carburante y carga eléctrica de los taxistas](https://www.elperiodico.com/es/motor/20260524/freenow-bp-unen-abaratar-factura-carburante-carga-electrica-130509213)
+-  |  | 
+- 21:01 [El horóscopo de mañana, lunes 25 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco](https://www.elperiodico.com/es/vida-y-estilo/20260524/horoscopo-hoy-lunes-25-mayo-dv-130467393)
+-  |  | 
+- 20:56 [El Real Zaragoza desciende a Primera Federación tras empatar ante Las Palmas](https://www.elperiodico.com/es/deportes/20260524/real-zaragoza-desciende-empatar-palmas-130606485)
 - 100 | спорт | 
 - 20:48 [El Deportivo vuelve a Primera ocho años después](https://www.elperiodico.com/es/deportes/20260524/deportivo-vuelve-primera-ocho-anos-130606355)
 - 0 |  | 
