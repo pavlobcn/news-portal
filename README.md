@@ -1,8 +1,12 @@
-# News for 2026-05-24 20:07
+# News for 2026-05-24 20:45
 
 Previous day: [2026-05-23](./data/2026-05-23.md)
 
 ## ua.korrespondent.net
+- 0 |  | Новини світу
+- 20:27 [У російських елітах зростає невдоволення Путіним - ЗМІ](https://ua.korrespondent.net/world/4881105-u-rosiiskykh-elitakh-zrostaie-nevdovolennia-putinym-zmi)
+- 35 | спорт | Новини футболу
+- 19:53 [Ярмоленко залишається в Динамо](https://ua.korrespondent.net/sport/football/4881101-yarmolenko-zalyshaietsia-v-dynamo)
 -  |  | Новини світу
 - 19:49 [Сербія не вважає Росію "братньою країною"](https://ua.korrespondent.net/world/4881099-serbiia-ne-vvazhaie-rosiui-bratnoui-krainoui)
 -  |  | Новини України
@@ -65,6 +69,8 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 11:47 [Атака на Київ: кількість постраждалих зросла до 69](https://ua.korrespondent.net/city/kiev/4881030-ataka-na-kyiv-kilkist-postrazhdalykh-zrosla-do-69)
 
 ## as.com
+- 0 |  | Baloncesto
+- 20:23 [El Asisa Joventut suma su cuarta victoria seguida en la Liga Endesa](https://as.com/baloncesto/acb/el-asisa-joventut-suma-su-cuarta-victoria-seguida-en-la-liga-endesa-f202605-n/)
 -  |  | Baloncesto
 - 19:41 [Boumtje Boumtje y la zurda de oro que vale un MVP de la Euroliga](https://as.com/baloncesto/boumtje-boumtje-y-la-zurda-de-oro-que-vale-un-mvp-de-la-euroliga-f202605-n/)
 - 0 |  | Baloncesto
@@ -91,6 +97,20 @@ Previous day: [2026-05-23](./data/2026-05-23.md)
 - 06:46 [A una hazaña de la Duodécima](https://as.com/baloncesto/euroliga/a-una-hazana-de-la-duodecima-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 20:41 [Vox espera la llamada de Moreno y el PP activa el control de daños sobre la 'marca Juanma'](https://www.elperiodico.com/es/politica/20260524/vox-espera-llamada-moreno-pp-130606401)
+- 35 | спорт | 
+- 20:39 [Directo | Final de Euroliga: Olympiacos - Real Madrid](https://www.elperiodico.com/es/deportes/20260524/directo-final-euroliga-olympiacos-real-130605211)
+- 0 |  | 
+- 20:39 [El irreductible Jaén Paraíso Interior remontó y alzó su primera Copa del Rey](https://www.elperiodico.com/es/deportes/20260524/irreductible-jaen-paraiso-interior-remonto-130603672)
+- 0 |  | 
+- 20:38 [Directo | Villarreal - Atlético de Madrid](https://www.elperiodico.com/es/deportes/20260524/directo-villarreal-atletico-madrid-130605395)
+- 35 | спорт | 
+- 20:30 ["Maximiza" tu apariencia y triunfarás: así afecta la presión estética a los chicos adolescentes](https://www.elperiodico.com/es/sociedad/20260524/maximiza-apariencia-triunfaras-afecta-presion-adolescentes-dv-130536791)
+- 35 | автомобілі | 
+- 20:30 [Los expertos coinciden: esta es la razón por la que ves peor al conducir de noche aunque durante el día no tengas problemas](https://www.elperiodico.com/es/sociedad/20260524/expertos-coinciden-razon-ves-peor-conduccion-de-noche-dv-130455856)
+- 35 | ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії | 
+- 20:16 [Dos personas mueren en un accidente en la A-2 en Jorba](https://www.elperiodico.com/es/sociedad/20260524/personas-mueren-accidente-2-jorba-130605774)
 -  |  | 
 - 19:54 [VÍDEO | Encuentran dos cachalotes muertos a 12 millas de Barcelona](https://www.elperiodico.com/es/barcelona/20260524/video-encuentran-cachalotes-muertos-barcelona-130603498)
 -  |  | 
