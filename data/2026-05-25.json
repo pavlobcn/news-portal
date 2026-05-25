@@ -1,5 +1,50 @@
 [
   {
+    "title": "Siete personas atrapadas en una cueva en Laos desde hace cinco días: \"No sabemos si siguen con vida\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260525/siete-personas-atrapadas-cueva-laos-cinco-dias-130643686",
+    "pubDate": "2026-05-25 17:57:15",
+    "category": "",
+    "description": "<h2>Las autoridades locales y los habitantes de la zona intentaron evacuar el agua de la cueva con bombas, pero los equipos de rescate todavía no han logrado llegar hasta el grupo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Papa recibe en audiencia al Círculo Ecuestre",
+    "link": "https://www.elperiodico.com/es/economia/20260525/papa-recibe-audiencia-circulo-ecuestre-130643646",
+    "pubDate": "2026-05-25 17:57:15",
+    "category": "",
+    "description": "<h2>León XIV da audiencia a una representación de la entidad barcelonesa con motivo de su 170º aniversario</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260504/visita-papal-leon-xiv-espana-que-se-sabe-calendario-fechas-ciudades-actos-madrid-barcelona-canarias-129736130\">Qué se sabe de la visita del papa León XIV a España: calendario de fechas, ciudades y actos</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Trump exige a varios países musulmanes que normalicen relaciones con Israel como condición del acuerdo con Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260525/trump-exige-paises-musulmanes-normalicen-relaciones-israel-pacto-iran-130644029",
+    "pubDate": "2026-05-25 17:57:08",
+    "category": "",
+    "description": "<h2>El presidente estadounidense insta a Qatar y Arabia Saudí para que sean los primeros en firmar los Acuerdos de Abraham y que Turquía y Pakistán les sigan</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Qué hacer esta semana en Barcelona: estos son los mejores planes",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260525/hoy-barcelona-agenda-actividades-planes-semana-102304377",
+    "pubDate": "2026-05-25 17:55:00",
+    "category": "",
+    "description": "<h2>Actividades y planes de ocio para la semana del 25 al 31 de mayo</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260501/snack-bar-barcelona-mejores-bocadillos-resenas-google-pont-129727422\" target=\"_blank\">El bar de barrio de Barcelona con las mejores reseñas en Google</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20250408/mundo-today-barcelona-aranceles-trump-hunden-oferta-tres-por-uno-cruasanes-panaderia-pili-116165946\" target=\"_blank\">La actualidad del mañana en Barcelona de El Mundo Today</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Затримано російського агента, який коригував атаку РФ по Києву 24 травня",
+    "link": "https://ua.korrespondent.net/ukraine/4881361-zatrymano-rosiiskoho-ahenta-yakyi-koryhuvav-ataku-rf-po-kyievu-24-travnia",
+    "pubDate": "2026-05-25 17:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4441920.jpeg\">Фігуранта затримали наступного дня після кривавого обстрілу столиці, коли він проводив дорозвідку поблизу об’єкта Міноборони та з’ясовував наслідки ворожих прильотів.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 55
+  },
+  {
     "title": "Mueren 17 personas al chocar una furgoneta contra un autobús averiado en Pakistán",
     "link": "https://www.elperiodico.com/es/internacional/20260525/mueren-17-personas-chocar-furgoneta-130643652",
     "pubDate": "2026-05-25 17:49:45",
@@ -7,6 +52,33 @@
     "description": "",
     "topic": "автомобілі",
     "topic_match_probability": 88
+  },
+  {
+    "title": "В Анталії знайшли монументальну гробницю римської епохи",
+    "link": "https://ua.korrespondent.net/tech/science/4881358-v-antalii-znaishly-monumentalnu-hrobnytsui-rymskoi-epokhy",
+    "pubDate": "2026-05-25 17:49:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4441921.jpg\">У портовому місті на узбережжі Середземного моря археологи виявили величну усипальницю з мармуровим саркофагом, прикрашеним сценами полювання та образами античних богів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українська співачка потрапила в ДТП",
+    "link": "https://ua.korrespondent.net/lifestyle/4881357-ukrainska-spivachka-potrapyla-v-dtp",
+    "pubDate": "2026-05-25 17:47:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4441929.jpeg\">Після інциденту зірка вже встигла зустрітися з колегою - артисти випили кави та повернулися до робочого процесу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Барселона має намір оформити трансфер Рашфорда до ЧС-2026",
+    "link": "https://ua.korrespondent.net/sport/football/4881355-barselona-maie-namir-oformyty-transfer-rashforda-do-chs-2026",
+    "pubDate": "2026-05-25 17:44:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4441930.jpg\">Каталонський клуб прагне виторгувати максимально вигідні для себе умови.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 55
   },
   {
     "title": "Ірина Федишин показала 15-річного сина",

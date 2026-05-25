@@ -1,8 +1,16 @@
-# News for 2026-05-25 17:52
+# News for 2026-05-25 17:59
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+- 55 | вибори (але не президента України чи США) | Новини України
+- 17:53 [Затримано російського агента, який коригував атаку РФ по Києву 24 травня](https://ua.korrespondent.net/ukraine/4881361-zatrymano-rosiiskoho-ahenta-yakyi-koryhuvav-ataku-rf-po-kyievu-24-travnia)
+- 0 |  | Новини науки
+- 17:49 [В Анталії знайшли монументальну гробницю римської епохи](https://ua.korrespondent.net/tech/science/4881358-v-antalii-znaishly-monumentalnu-hrobnytsui-rymskoi-epokhy)
+- 0 |  | LifestyleFashion
+- 17:47 [Українська співачка потрапила в ДТП](https://ua.korrespondent.net/lifestyle/4881357-ukrainska-spivachka-potrapyla-v-dtp)
+- 55 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | Новини футболу
+- 17:44 [Барселона має намір оформити трансфер Рашфорда до ЧС-2026](https://ua.korrespondent.net/sport/football/4881355-barselona-maie-namir-oformyty-transfer-rashforda-do-chs-2026)
 - 0 | 0 | LifestyleFashion
 - 17:41 [Ірина Федишин показала 15-річного сина](https://ua.korrespondent.net/lifestyle/4881353-iryna-fedyshyn-pokazala-15-richnoho-syna)
 - 88 | автомобілі | Автомобілі
@@ -225,6 +233,14 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 17:57 [Siete personas atrapadas en una cueva en Laos desde hace cinco días: "No sabemos si siguen con vida"](https://www.elperiodico.com/es/internacional/20260525/siete-personas-atrapadas-cueva-laos-cinco-dias-130643686)
+- 90 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
+- 17:57 [El Papa recibe en audiencia al Círculo Ecuestre](https://www.elperiodico.com/es/economia/20260525/papa-recibe-audiencia-circulo-ecuestre-130643646)
+- 0 |  | 
+- 17:57 [Trump exige a varios países musulmanes que normalicen relaciones con Israel como condición del acuerdo con Irán](https://www.elperiodico.com/es/internacional/20260525/trump-exige-paises-musulmanes-normalicen-relaciones-israel-pacto-iran-130644029)
+- 90 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
+- 17:55 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260525/hoy-barcelona-agenda-actividades-planes-semana-102304377)
 - 88 | автомобілі | 
 - 17:49 [Mueren 17 personas al chocar una furgoneta contra un autobús averiado en Pakistán](https://www.elperiodico.com/es/internacional/20260525/mueren-17-personas-chocar-furgoneta-130643652)
 - 0 | 0 | 
