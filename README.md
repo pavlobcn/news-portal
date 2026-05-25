@@ -1,8 +1,10 @@
-# News for 2026-05-25 19:44
+# News for 2026-05-25 19:52
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 19:43 ["Гаряча фаза" війни може закінчиться до зими - Зеленський](https://ua.korrespondent.net/ukraine/4881394-hariacha-faza-viiny-mozhe-zakinchytsia-do-zymy-zelenskyi)
 -  |  | Новини України
 - 19:32 [Зеленський заявив про стабілізацію фронту](https://ua.korrespondent.net/ukraine/4881391-zelenskyi-zaiavyv-pro-stabilizatsiui-frontu)
 -  |  | Київ
@@ -267,6 +269,8 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 19:44 [Morante de la Puebla se divorcia de Elisabeth Garrido tras 16 años de matrimonio y dos hijas](https://www.elperiodico.com/es/gente/20260525/morante-puebla-divorcia-elisabeth-garrido-130649241)
 -  |  | 
 - 19:43 [MuereToshifumi Suzuki,  ex presidente de Seven-Eleven Japan  y 'padre' de los 'konbini' japoneses](https://www.elperiodico.com/es/economia/20260525/mueretoshifumi-suzuki-ex-presidente-seven-130649124)
 -  |  | 
