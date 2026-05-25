@@ -1,8 +1,28 @@
-# News for 2026-05-25 07:06
+# News for 2026-05-25 08:48
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+-  |  | Новини світу
+- 08:39 [США зробили Ірану чергове попередження](https://ua.korrespondent.net/world/4881179-ssha-zrobyly-iranu-cherhove-poperedzhennia)
+-  |  | Новини боксу
+- 08:28 [Тренер Верховена розповів, чому Ріко заслуговує на реванш](https://ua.korrespondent.net/sport/boks/4881177-trener-verkhovena-rozpoviv-chomu-riko-zasluhovuie-na-revansh)
+-  |  | Новини України
+- 08:21 [Тихановська прибула з першим візитом до України](https://ua.korrespondent.net/ukraine/4881175-tykhanovska-prybula-z-pershym-vizytom-do-ukrainy)
+-  |  | Новини хокею
+- 08:13 [Колорадо поступився Вегасу в матчі плейоф НХЛ](https://ua.korrespondent.net/sport/hokey/4881173-kolorado-postupyvsia-vehasu-v-matchi-pleiof-nkhl)
+-  |  | Новини баскетболу
+- 08:01 [НБА: Сан-Антоніо взяв реванш в Оклахоми](https://ua.korrespondent.net/sport/basketball/4881168-nba-san-antonio-vziav-revansh-v-oklakhomy)
+-  |  | Київ
+- 07:59 [Удар РФ по Києву: у лікарнях перебуває 21 постраждалий](https://ua.korrespondent.net/city/kiev/4881170-udar-rf-po-kyievu-u-likarniakh-perebuvaie-21-postrazhdalyi)
+-  |  | Новини футболу
+- 07:47 [Герой фіналу ЛЧ-2019 завершив футбольну кар'єру](https://ua.korrespondent.net/sport/football/4881165-heroi-finalu-lch-2019-zavershyv-futbolnu-karieru)
+-  |  | Новини України
+- 07:34 [Повітряні сили розкрили подробиці нічної атаки РФ](https://ua.korrespondent.net/ukraine/4881166-povitriani-syly-rozkryly-podrobytsi-nichnoi-ataky-rf)
+-  |  | Новини України
+- 07:15 [Генштаб ЗСУ назвав найважчі напрямки фронту](https://ua.korrespondent.net/ukraine/4881163-henshtab-zsu-nazvav-naivazhchi-napriamky-frontu)
+-  |  | Новини футболу
+- 07:08 [Відомі оцінки Миколенка за фінальний матч проти Тоттенгема](https://ua.korrespondent.net/sport/football/4881161-vidomi-otsinky-mykolenka-za-finalnyi-match-proty-tottenhema)
 - 0 |  | Новини світу
 - 06:53 [Танкери з нафтою та СПГ виходять з Ормузької протоки - ЗМІ](https://ua.korrespondent.net/world/4881159-tankery-z-naftoui-ta-sph-vykhodiat-z-ormuzkoi-protoky-zmi)
 - 0 |  | Новини футболу
@@ -41,6 +61,48 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:44 [Golpazo del Olympiacos al mercado nada más ganar la Euroliga](https://as.com/baloncesto/euroliga/golpazo-del-olympiacos-al-mercado-nada-mas-ganar-la-euroliga-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 08:45 [Moeve Fútbol Zone 1x27: cierre de LaLiga, descensos y el ascenso del Dépor, a debate](https://www.elperiodico.com/es/deportes/20260525/moeve-futbol-zone-1x27-cierre-bc-130615386)
+-  |  | 
+- 08:42 [Extremadura estrena el regadío más moderno de España: energía solar y control desde el móvil](https://www.elperiodico.com/es/economia/20260525/extremadura-estrena-regadio-moderno-espana-130615328)
+-  |  | 
+- 08:40 [Amancio Ortega ya navega hacia el verano a bordo del yate 'Valoria B': en Galicia y acompañado por su mujer Flora Pérez y amigos](https://www.elperiodico.com/es/gente/20260525/amancio-ortega-desembarca-puerto-aldan-pontevedra-130615178)
+-  |  | 
+- 08:34 [La Armada bautiza con el nombre de ‘Hispania’ su nuevo velero de alta competición: todas las claves](https://www.elperiodico.com/es/sociedad/20260525/armada-bautiza-nombre-hispania-nuevo-130614624)
+-  |  | 
+- 08:34 [Felipe VI entrega en Yuste (Cáceres) el Premio Europeo Carlos V al Comité Europeo de las Regiones](https://www.elperiodico.com/es/sociedad/20260525/felipe-vi-entrega-premio-europeo-carlos-v-130614785)
+-  |  | 
+- 08:34 [Pirineo y Tierras de Lleida: tu próxima aventura](https://www.elperiodico.com/es/vida-y-estilo/20260525/pirineo-tierras-lleida-proxima-aventura-bc-130615098)
+-  |  | 
+- 08:31 [Siete heridos, uno de ellos muy grave, tras una explosión en un bar de Madrid](https://www.elperiodico.com/es/sucesos/20260525/siete-heridos-grave-explosion-bar-madrid-130615011)
+-  |  | 
+- 08:30 [Sargento Matanza, el militar que hará el salto de precisión en paracaídas el Día de las Fuerzas Armadas: "Me tiro una media de cinco veces al día"](https://www.elperiodico.com/es/sociedad/20260525/sargento-matanza-militar-salto-paracaidas-dia-fuerzas-armadas-dv-130603202)
+-  |  | 
+- 08:30 [El arte de la metamorfosis, Tenerife según tu estilo de vida](https://www.elperiodico.com/es/vida-y-estilo/20260525/arte-metamorfosis-tenerife-estilo-vida-bc-130614945)
+-  |  | 
+- 08:27 [Oviedo, entre sidra, paisaje y cultura](https://www.elperiodico.com/es/vida-y-estilo/20260525/oviedo-sidra-paisaje-cultura-bc-130614815)
+-  |  | 
+- 08:24 [La Andalucía más singular: de dunas a acantilados salvajes](https://www.elperiodico.com/es/vida-y-estilo/20260525/andalucia-singular-dunas-acantilados-salvajes-bc-130614703)
+-  |  | 
+- 08:20 [El petróleo se desploma y las bolsas celebran la posible tregua entre Estados Unidos e Irán](https://www.elperiodico.com/es/economia/20260525/petroleo-desploma-bolsas-celebran-posible-130614454)
+-  |  | 
+- 08:17 [Cómo recuperar la concentración en un mundo de interrupciones: lo que la ciencia sabe sobre notificaciones y multitarea](https://www.elperiodico.com/es/tendencias21/20260525/recuperar-concentracion-mundo-interrupciones-ciencia-130614505)
+-  |  | 
+- 08:06 [Entrevista con Mar Vaquero, vicepresidenta del Gobierno de Aragón y consejera de Presidencia, Justicia y Cultura.](https://www.elperiodico.com/es/videos/politica/entrevista-mar-vaquero-vicepresidenta-gobierno-aragon-presidencia-justicia-cultura/130614191.shtml)
+-  |  | 
+- 08:03 [Los trabajadores de la base de Rota estudian "nuevas movilizaciones" tras anunciar la empresa americana un ERTE por las obras en el aeropuerto](https://www.elperiodico.com/es/politica/20260525/trabajadores-base-rota-estudian-nuevas-130614069)
+-  |  | 
+- 08:00 [La extraña pegatina amarilla que llevan algunos coches y que casi nadie sabe qué significa](https://www.elperiodico.com/es/motor/20260525/extrana-pegatina-amarilla-llevan-coches-130533261)
+-  |  | 
+- 08:00 [¿Dónde es fiesta hoy 25 de mayo, día de la Segunda Pascua, en España?](https://www.elperiodico.com/es/economia/20260525/hoy-25-mayo-fiesta-segunda-pascua-localidades-espana-dv-130508371)
+-  |  | 
+- 07:38 [Los mejores restaurantes a dos calles o menos del Hospital Clínic](https://www.elperiodico.com/es/gastronomia/restaurantes/20260525/mejores-restaurantes-cerca-hospital-clinic-barcelona-130092593)
+-  |  | 
+- 07:37 [Casa Fernández amplía la carta tras renovar el local (y otras noticias gastro)](https://www.elperiodico.com/es/gastronomia/restaurantes/20260525/casa-fernandez-restaurante-barcelona-130547846)
+-  |  | 
+- 07:05 [Estos son los mejores restaurantes de Tarragona y provincia para disfrutar como un césar](https://www.elperiodico.com/es/gastronomia/restaurantes/20260525/mejores-restaurantes-tarragona-provincia-91862084)
+-  |  | 
+- 07:05 [¿Qué centros comerciales abren hoy, lunes 25 de mayo, Segunda Pascua, en Barcelona y Catalunya?](https://www.elperiodico.com/es/economia/20260525/centros-comerciales-abren-lunes-25-mayo-segunda-pascua-barcelona-cataluna-dv-130544998)
 - 0 |  | 
 - 07:01 [Noto muchos nervios](https://www.elperiodico.com/es/tele/20260525/noto-muchos-nervios-130604545)
 - 0 |  | 
@@ -49,6 +111,8 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 07:00 [Sofía Balbuena: "Las latinas ya no estamos de moda; ahora lo que vende es la autoficción española traumática"](https://www.elperiodico.com/es/ocio-y-cultura/20260525/sofia-balbuena-latinas-moda-ahora-130501684)
 - 92 | спорт | 
 - 07:00 [25 de mayo: ¿Dónde es festivo hoy, día de la Segunda Pascua, en Barcelona y Catalunya?](https://www.elperiodico.com/es/catalunya/20260525/festivo-hoy-25-mayo-segunda-pascua-barcelona-cataluna-dv-loc-130505771)
+-  |  | 
+- 07:00 [No te pierdas estos flanes en Barcelona: ¡te harán temblar de gusto!](https://www.elperiodico.com/es/gastronomia/restaurantes/20260525/mejores-flanes-barcelona-restaurantes-122684322)
 - 0 |  | 
 - 06:55 [TVyMAS Lunes 25; Noto muchos nervios](https://www.elperiodico.com/es/videos/tele/tvymas-lunes-25-noto-nervios/130604619.shtml)
 - 0 |  | 
@@ -73,8 +137,12 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 06:00 [De Grifols a Mango, pasando por Puig: dos años de turbulencias para la gran empresa familiar catalana](https://www.elperiodico.com/es/economia/20260525/mango-puig-grifols-dos-anos-turbulencias-empresa-familiar-catalana-130548151)
 - 88 | вибори (але не президента України чи США) | 
 - 06:00 [ERC y Junts buscan blindar los requisitos para tener grupo parlamentario en el Congreso para el próximo ciclo electoral](https://www.elperiodico.com/es/politica/20260525/erc-junts-buscan-blindar-requisitos-130536361)
+-  |  | 
+- 06:00 [ERC y Junts buscan blindar los requisitos para tener grupo parlamentario en el Congreso para el próximo ciclo electoral](https://www.elperiodico.com/es/politica/20260525/erc-junts-blindar-grupo-parlamentario-congreso-130536361)
 - 0 |  | 
 - 06:00 [Marruecos frena las compras de gas a España tras años exprimiendo al máximo la ayuda de Sánchez](https://www.elperiodico.com/es/economia/20260525/marruecos-frena-compras-gas-espana-130550366)
+-  |  | 
+- 06:00 [Marruecos frena las compras de gas a España tras años exprimiendo al máximo la ayuda de Sánchez](https://www.elperiodico.com/es/economia/20260525/marruecos-compras-gas-espana-ayuda-sanchez-130550366)
 - 0 |  | 
 - 05:50 [Jonathan Andic, hijo del fundador de Mango, detenido por presunto homicidio: última hora del caso Isak Andic, en directo](https://www.elperiodico.com/es/sociedad/20260525/jonathan-andic-detenido-isak-andic-ultima-hora-directo-130387411)
 - 0 |  | 
