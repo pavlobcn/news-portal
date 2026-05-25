@@ -1,10 +1,22 @@
-# News for 2026-05-25 18:37
+# News for 2026-05-25 18:55
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+- 95 | гороскопи | LifestyleFashion
+- 18:49 [Гороскоп для всіх знаків Зодіаку на 26 травня 2026 року](https://ua.korrespondent.net/lifestyle/4881386-horoskop-dlia-vsikh-znakiv-zodiaku-na-26-travnia-2026-roku)
+- 0 |  | Автомобілі
+- 18:47 [Cupra готує серійний електрокросовер Tindaya](https://ua.korrespondent.net/lifestyle/motors/4881381-Cupra-hotuie-seriinyi-elektrokrosover-Tindaya)
+- 0 |  | Новини футболу
+- 18:43 [Мілан провів кадрові перестановки в керівництві](https://ua.korrespondent.net/sport/football/4881383-milan-proviv-kadrovi-perestanovky-v-kerivnytstvi)
+- 0 |  | Новини України
+- 18:42 [Аналог Patriot з'явитися в Україні до кінця року](https://ua.korrespondent.net/ukraine/4881372-analoh-Patriot-ziavytysia-v-ukraini-do-kintsia-roku)
+- 0 |  | LifestyleFashion
+- 18:35 [Свята 26 травня 2026: іменини, заборони, факти](https://ua.korrespondent.net/lifestyle/4881376-sviata-26-travnia-2026-imenyny-zaborony-fakty)
 - 0 |  | Технології
 - 18:30 [Ентузіасти розігнали FPV-дрон до рекордних 730 км/год](https://ua.korrespondent.net/tech/technews/4881374-entuziasty-rozihnaly-FPV-dron-do-rekordnykh-730-kmhod)
+- 0 |  | Новини футболу
+- 18:26 [Збірна України залишилася без хавбека на товариські матчі](https://ua.korrespondent.net/sport/football/4881377-zbirna-ukrainy-zalyshylasia-bez-khavbeka-na-tovaryski-matchi)
 - 0 |  | Новини України
 - 18:20 [TikTok обмежив канал Арестовича в Україні](https://ua.korrespondent.net/ukraine/4881368-TikTok-obmezhyv-kanal-arestovycha-v-ukraini)
 - 0 |  | Музика
@@ -247,6 +259,12 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 18:53 [El triunfo del algoritmo frente a Google 'a la chita callando'](https://www.elperiodico.com/es/opinion/20260525/triunfo-algoritmo-frente-google-chita-130647323)
+- 0 |  | 
+- 18:50 [La IA resuelve un problema matemático de Erdős que llevaba 80 años abierto](https://www.elperiodico.com/es/tendencias21/20260525/ia-resuelve-problema-matematico-erdos-130647213)
+- 80 | автомобілі | 
+- 18:41 [Una nueva etiqueta avala por primera vez en España los aceites de oliva que son realmente saludables](https://www.elperiodico.com/es/economia/20260525/etiqueta-avala-aceites-oliva-extra-virgen-saludables-siqev-130646805)
 - 0 |  | 
 - 18:33 [Usman Garuba tiene una rotura completa del tendón de Aquiles y podría estar un año de baja](https://www.elperiodico.com/es/deportes/20260525/usman-garuba-rotura-completa-tendon-130646102)
 - 92 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
