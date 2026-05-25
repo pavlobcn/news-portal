@@ -1,5 +1,59 @@
 [
   {
+    "title": "Noto muchos nervios",
+    "link": "https://www.elperiodico.com/es/tele/20260525/noto-muchos-nervios-130604545",
+    "pubDate": "2026-05-25 07:01:02",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Esta carretera desaparece si sube la marea",
+    "link": "https://www.elperiodico.com/es/motor/20260525/carretera-desaparece-sube-marea-130527343",
+    "pubDate": "2026-05-25 07:00:57",
+    "category": "",
+    "description": "<h2>El Passage du Gois, en la costa atlántica francesa, queda completamente sumergido con la marea y solo puede cruzarse durante unas pocas horas al día</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sofía Balbuena: \"Las latinas ya no estamos de moda; ahora lo que vende es la autoficción española traumática\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260525/sofia-balbuena-latinas-moda-ahora-130501684",
+    "pubDate": "2026-05-25 07:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">La autora argentina publica 'Personaje secundario', libro de relatos con el que ganó la última edición del Premio Ribera del Duero</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260307/fernanda-trias-vuelve-cuento-miembro-fantasma-127603304\">Fernanda Trías vuelve al cuento con 'Miembro fantasma': \"Es terrorífico y fascinante cómo el cerebro se resiste a aceptar la ausencia\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "25 de mayo: ¿Dónde es festivo hoy, día de la Segunda Pascua, en Barcelona y Catalunya?",
+    "link": "https://www.elperiodico.com/es/catalunya/20260525/festivo-hoy-25-mayo-segunda-pascua-barcelona-cataluna-dv-loc-130505771",
+    "pubDate": "2026-05-25 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El calendario laboral español establece un máximo de 14 días de descanso anuales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260522/25-mayo-fiesta-segunda-localidades-espana-cataluna-getafe-zamora-santander-ciudad-real-dv-130508371\">¿Dónde es fiesta el 25 de mayo, día de la Segunda Pascua, en España?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260521/estos-son-festivos-caen-sabado-compensados-dia-libre-audiencia-nacional-dv-130490427\">Estos son los festivos que caen en sábado que deberán ser compensados con día libre este 2026 tras la sentencia de la Audiencia Nacional</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "TVyMAS Lunes 25; Noto muchos nervios",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-25-noto-nervios/130604619.shtml",
+    "pubDate": "2026-05-25 06:55:10",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Танкери з нафтою та СПГ виходять з Ормузької протоки - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4881159-tankery-z-naftoui-ta-sph-vykhodiat-z-ormuzkoi-protoky-zmi",
+    "pubDate": "2026-05-25 06:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4441438.jpg\">До війни через Ормузьку протоку зазвичай проходило близько п'ятої частини світових поставок нафти та СПГ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Cierra la campaña electoral de la primera vuelta en Colombia con la izquierda como favorita",
     "link": "https://www.elperiodico.com/es/internacional/20260525/cierra-campana-electoral-primera-vuelta-130613378",
     "pubDate": "2026-05-25 06:43:06",

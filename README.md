@@ -1,8 +1,10 @@
-# News for 2026-05-25 06:48
+# News for 2026-05-25 07:06
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+- 0 |  | Новини світу
+- 06:53 [Танкери з нафтою та СПГ виходять з Ормузької протоки - ЗМІ](https://ua.korrespondent.net/world/4881159-tankery-z-naftoui-ta-sph-vykhodiat-z-ormuzkoi-protoky-zmi)
 - 0 |  | Новини футболу
 - 06:27 [Команда з другого дивізіону шокувала Португалію перемогою в Кубку](https://ua.korrespondent.net/sport/football/4881129-komanda-z-druhoho-dyvizionu-shokuvala-portuhaliui-peremohoui-v-kubku)
 - 0 |  | Новини України
@@ -39,6 +41,16 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:44 [Golpazo del Olympiacos al mercado nada más ganar la Euroliga](https://as.com/baloncesto/euroliga/golpazo-del-olympiacos-al-mercado-nada-mas-ganar-la-euroliga-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 07:01 [Noto muchos nervios](https://www.elperiodico.com/es/tele/20260525/noto-muchos-nervios-130604545)
+- 0 |  | 
+- 07:00 [Esta carretera desaparece si sube la marea](https://www.elperiodico.com/es/motor/20260525/carretera-desaparece-sube-marea-130527343)
+- 85 | автомобілі | 
+- 07:00 [Sofía Balbuena: "Las latinas ya no estamos de moda; ahora lo que vende es la autoficción española traumática"](https://www.elperiodico.com/es/ocio-y-cultura/20260525/sofia-balbuena-latinas-moda-ahora-130501684)
+- 92 | спорт | 
+- 07:00 [25 de mayo: ¿Dónde es festivo hoy, día de la Segunda Pascua, en Barcelona y Catalunya?](https://www.elperiodico.com/es/catalunya/20260525/festivo-hoy-25-mayo-segunda-pascua-barcelona-cataluna-dv-loc-130505771)
+- 0 |  | 
+- 06:55 [TVyMAS Lunes 25; Noto muchos nervios](https://www.elperiodico.com/es/videos/tele/tvymas-lunes-25-noto-nervios/130604619.shtml)
 - 0 |  | 
 - 06:43 [Cierra la campaña electoral de la primera vuelta en Colombia con la izquierda como favorita](https://www.elperiodico.com/es/internacional/20260525/cierra-campana-electoral-primera-vuelta-130613378)
 - 93 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
