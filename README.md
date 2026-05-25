@@ -1,8 +1,12 @@
-# News for 2026-05-25 19:52
+# News for 2026-05-25 20:20
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 20:15 [На центр Краматорська РФ скинула дві авіабомби](https://ua.korrespondent.net/ukraine/4881398-na-tsentr-kramatorska-rf-skynula-dvi-aviabomby)
+-  |  | Новини світу
+- 19:54 [ЗМІ: Іран готовий вивезти збагачений уран до Китаю](https://ua.korrespondent.net/world/4881395-zmi-iran-hotovyi-vyvezty-zbahachenyi-uran-do-kytaui)
 -  |  | Новини України
 - 19:43 ["Гаряча фаза" війни може закінчиться до зими - Зеленський](https://ua.korrespondent.net/ukraine/4881394-hariacha-faza-viiny-mozhe-zakinchytsia-do-zymy-zelenskyi)
 -  |  | Новини України
@@ -269,6 +273,28 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 20:18 [Project Rabbit se inspira en Alicia en el País de las Maravillas para crear un soulslike de extracción](https://www.elperiodico.com/es/tecnologia/20260525/project-rabbit-inspira-alicia-pais-130637772)
+-  |  | 
+- 20:14 [Descubren una nueva especie de pequeño pulpo azul en el archipiélago ecuatoriano de Galápagos](https://www.elperiodico.com/es/ciencia/20260525/descubren-nueva-especie-pequeno-pulpo-130650049)
+-  |  | 
+- 20:09 [La Policía encontró 107.000 euros y 75.000 dólares en efectivo en la caja fuerte de la vivienda del presidente de Plus Ultra](https://www.elperiodico.com/es/politica/20260525/policia-encontro-107-000-euros-130650024)
+-  |  | 
+- 20:05 [Laura Bianchi, entrenadora: "Así debes caminar para quemar hasta 300 calorías"](https://www.elperiodico.com/es/vida-y-estilo/20260525/laura-bianchi-entrenadora-caminar-asi-quemar-calorias-dv-130460568)
+-  |  | 
+- 20:05 [¿Cuándo empiezan las rebajas de verano 2026? Las fechas de Mango, Zara, H&M, Cortefiel y El Corte Inglés](https://www.elperiodico.com/es/sociedad/20260525/rebajas-verano-2026-zara-mango-hm-corte-ingles-dv-130230778)
+-  |  | 
+- 20:03 [La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 25 de mayo de 2026, en directo](https://www.elperiodico.com/es/sociedad/20260525/primitiva-hoy-lunes-25-mayo-2026-resultados-comprobar-numeros-directo-130649808)
+-  |  | 
+- 20:00 [La demanda de pisos de protección oficial aumenta un 22% en un año en los municipios del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260525/area-metropolitana-barcelona-incremento-peticiones-pisos-proteccion-oficial-130603235)
+-  |  | 
+- 20:00 [Barcelona sorteará 316 pisos públicos de seis promociones hasta final de año, tres de ellas pendientes desde hace una década](https://www.elperiodico.com/es/barcelona/20260525/sorteos-2026-pisos-proteccion-oficial-barcelona-130610400)
+-  |  | 
+- 20:00 [Brote de Hantavirus en el crucero MV Hondius, en directo: última hora del español positivo, cuarentena en el Gómez Ulla y estado crítico de la paciente francesa](https://www.elperiodico.com/es/sociedad/20260525/hantavirus-brote-contagios-positivos-sintomas-crucero-hondius-ultima-hora-directo-129857561)
+-  |  | 
+- 19:58 [Las llamas continúan devorando el hotel Ibis en el centro de Málaga](https://www.elperiodico.com/es/videos/sociedad/llamas-continuan-devorando-hotel-ibis/130649725.shtml)
+-  |  | 
+- 19:55 [El Sónar se alía con el NU Festival y volverá a tener presencia en Japón](https://www.elperiodico.com/es/ocio-y-cultura/20260525/sonar-japon-nu-festival-130643731)
 -  |  | 
 - 19:44 [Morante de la Puebla se divorcia de Elisabeth Garrido tras 16 años de matrimonio y dos hijas](https://www.elperiodico.com/es/gente/20260525/morante-puebla-divorcia-elisabeth-garrido-130649241)
 -  |  | 
