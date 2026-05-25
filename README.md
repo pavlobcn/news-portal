@@ -1,4 +1,4 @@
-# News for 2026-05-25 23:07
+# News for 2026-05-25 23:21
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
@@ -291,6 +291,10 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+-  |  | 
+- 23:17 [Tailandia investiga una retransmisión en directo de pornografía durante horas en Facebook](https://www.elperiodico.com/es/internacional/20260525/tailandia-investiga-retransmision-directo-pornografia-130653336)
+-  |  | 
+- 23:08 [Los40 Music Awards Santander 2026 se celebrarán en Barcelona el próximo 20 de noviembre](https://www.elperiodico.com/es/ocio-y-cultura/20260525/los40-music-awards-santander-2026-130653287)
 - 0 |  | 
 - 22:14 [España debuta en el Europeo sub-17 con goleada ante la anfitriona Estonia (1-4)](https://www.elperiodico.com/es/deportes/20260525/espana-debuta-europeo-130652639)
 - 0 |  | 
