@@ -1,8 +1,30 @@
-# News for 2026-05-25 14:50
+# News for 2026-05-25 16:20
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+- 0 |  | Росія новини
+- 16:01 [Москва готує нову атаку і закликає покинути Київ](https://ua.korrespondent.net/world/russia/4881325-moskva-hotuie-novu-ataku-i-zaklykaie-pokynuty-kyiv)
+- 0 |  | Новини України
+- 15:52 [Удар по Дніпру: кількість поранених зросла](https://ua.korrespondent.net/ukraine/4881323-udar-po-dnipru-kilkist-poranenykh-zrosla)
+- 0 |  | Росія новини
+- 15:50 [Небо над Москвою закривають для малої авіації](https://ua.korrespondent.net/world/russia/4881317-nebo-nad-moskvoui-zakryvauit-dlia-maloi-aviatsii)
+- 0 |  | Росія новини
+- 15:46 [В Росії пропонують роздавати інтернет за розкладом за "хорошу поведінку"](https://ua.korrespondent.net/world/russia/4881319-v-rosii-proponuuit-rozdavaty-internet-za-rozkladom-za-khoroshu-povedinku)
+- 0 |  | LifestyleFashion
+- 15:45 [Христина Решетнік пожалілася на набрані у відпустці кілограми](https://ua.korrespondent.net/lifestyle/4881318-khrystyna-reshetnik-pozhalilasia-na-nabrani-u-vidpusttsi-kilohramy)
+- 0 |  | Новини України
+- 15:26 [Викрито підприємців, які постачали будматеріали армії РФ](https://ua.korrespondent.net/ukraine/4881315-vykryto-pidpryiemtsiv-yaki-postachaly-budmaterialy-armii-rf)
+- 0 |  | Новини України
+- 15:22 [Названо умови депортації українців з ЄС](https://ua.korrespondent.net/ukraine/4881313-nazvano-umovy-deportatsii-ukraintsiv-z-yes)
+- 0 |  | Новини України
+- 15:13 [РФ вдруге за день обстріляла лікарню на Херсонщині, постраждали медсестри](https://ua.korrespondent.net/ukraine/4881311-rf-vdruhe-za-den-obstriliala-likarnui-na-khersonschyni-postrazhdaly-medsestry)
+- 0 |  | Новини України
+- 15:04 [РФ могла промахнутися "Орєшніком" на 80 км - Defense Express](https://ua.korrespondent.net/ukraine/4881306-rf-mohla-promakhnutysia-orieshnikom-na-80-km-Defense-Express)
+- 0 |  | Київ
+- 14:59 [Іноземні дипломати відвідали місця ударів у Києві](https://ua.korrespondent.net/city/kiev/4881307-inozemni-dyplomaty-vidvidaly-mistsia-udariv-u-kyievi)
+- 0 |  | Новини України
+- 14:52 [РФ завербувала для війни проти України африканців із 36 країн - МЗС](https://ua.korrespondent.net/ukraine/4881305-rf-zaverbuvala-dlia-viiny-proty-ukrainy-afrykantsiv-iz-36-krain-mzs)
 -  |  | Київ новини
 - 14:39 [Удар Росії по Києву: зросла кількість постраждалих](https://ua.korrespondent.net/kyiv/4881301-udar-rosii-po-kyievu-zrosla-kilkist-postrazhdalykh)
 -  |  | Новини України
@@ -163,16 +185,68 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:21 [У Харкові сталася стрілянина: затримали військового у СЗЧ](https://ua.korrespondent.net/city/kharkov/4881130-u-kharkovi-stalasia-strilianyna-zatrymaly-viiskovoho-u-szch)
 
 ## as.com
+- 0 |  | Baloncesto
+- 15:08 [Se confirma lo peor: Usman Garuba tiene roto el tendón de Aquiles](https://as.com/baloncesto/acb/se-confirma-lo-peor-usman-garuba-tiene-roto-el-tendon-de-aquiles-f202605-n/)
 -  |  | Baloncesto
 - 13:31 [Las jugadas que pudieron cambiar el desenlace del Olympiacos-Madrid](https://as.com/baloncesto/euroliga/las-jugadas-que-pudieron-cambiar-el-desenlace-del-olympiacos-madrid-f202605-n/)
 -  |  | Baloncesto
 - 13:11 [Bartzokas: “Esto es un privilegio”](https://as.com/baloncesto/euroliga/-f202605-n/)
+- 0 |  | Bilbao basket
+- 12:12 [Pantzar, centenario](https://as.com/baloncesto/pantzar-centenario-f202605-n/)
 - 0 |  | Baloncesto
 - 00:44 [Golpazo del Olympiacos al mercado nada más ganar la Euroliga](https://as.com/baloncesto/euroliga/golpazo-del-olympiacos-al-mercado-nada-mas-ganar-la-euroliga-f202605-n/)
 -  |  | Baloncesto
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 16:19 [Juan Francisco Navarro, médico: "Hoy un virus puede cruzar al otro extremo del mundo en apenas 12 horas”](https://www.elperiodico.com/es/sanidad/20260525/juan-francisco-navarro-medico-preventiva-virus-cruzar-mundo-doce-horas-sanidad-alicante-hantavirus-130634033)
+- 0 |  | 
+- 16:15 [El precio del euríbor hoy, 25 de mayo: incertidumbre por el próximo cambio en el mercado de las hipotecas](https://www.elperiodico.com/es/economia/20260525/precio-euribor-hoy-25-mayo-dv-130639851)
+- 0 |  | 
+- 16:10 [Nace en China una cría de elefante asiático de 158 kilos, la más grande registrada en la zona](https://www.elperiodico.com/es/videos/internacional/nace-china-cria-elefante-asiatico/130639725.shtml)
+- 0 |  | 
+- 16:09 [El capitán del barco que naufragó en Indonesia con la familia española "compró su licencia sin recibir formación"](https://www.elperiodico.com/es/internacional/20260525/capitan-barco-naufrago-indonesia-familia-130639689)
+- 0 |  | 
+- 16:05 [Moción instrumental](https://www.elperiodico.com/es/opinion/20260525/mocion-instrumental-pnv-junts-pp-psoe-articulo-pilar-rahola-130637094)
+- 0 |  | 
+- 16:00 [La Iglesia católica en tiempos de IA: El Papa, la "herejía" de Palantir y la apuesta por Anthropic](https://www.elperiodico.com/es/internacional/20260525/enciclica-inteligencia-artificial-ia-papa-palantir-anthropic-130637932)
+- 0 |  | 
+- 15:59 [Treball pone el foco en las empresas que usan el periodo de prueba para despedir gratis: 2 de cada 3 ceses son legales](https://www.elperiodico.com/es/economia/20260525/despidos-periodo-prueba-inspeccion-trabajo-empresas-130263554)
+- 0 |  | 
+- 15:55 [Vídeo | La escena viral de un elefante bebé que intenta asustar a unos turistas de safari en Sudáfrica](https://www.elperiodico.com/es/internacional/20260525/video-escena-viral-elefante-bebe-asusta-turistas-safari-dv-130636868)
+- 0 |  | 
+- 15:55 [El 60% de los gerundenses utiliza el catalán como lengua habitual en las relaciones sociales](https://www.elperiodico.com/es/sociedad/20260525/60-gerundenses-utiliza-catalan-lengua-130637661)
+- 0 |  | 
+- 15:54 [Luis de la Fuente cuenta con Joan Garcia, Eric Garcia y Pubill, en una lista del Mundial sin Huijsen](https://www.elperiodico.com/es/videos/deportes/luis-fuente-cuenta-joan-garcia/130637459.shtml)
+- 0 |  | 
+- 15:49 [Tres barrios de Girona tienen más de la mitad de la población nacida en el extranjero](https://www.elperiodico.com/es/sociedad/20260525/tres-barrios-girona-mitad-poblacion-130637386)
+- 0 |  | 
+- 15:48 [Así es el misil Oreshnik, el arma hipersónica estrella del arsenal de Putin con el que Rusia ataca a Ucrania y amenaza a Europa](https://www.elperiodico.com/es/internacional/20260525/misil-oreshnik-arma-hipersonica-estrella-putin-ataca-ucrania-amenaza-europa-130637320)
+- 0 |  | 
+- 15:48 [El rey Felipe VI se "cuela" en el vídeo de anuncio de la lista de España para el Mundial](https://www.elperiodico.com/es/videos/deportes/rey-felipe-vi-cuela-video-seleccion/130637282.shtml)
+- 0 |  | 
+- 15:36 [Coro soldados rusos](https://www.elperiodico.com/es/videos/internacional/coro-soldados-rusos/130613115.shtml)
+- 0 |  | 
+- 15:31 [Así es el dispositivo de seguridad y las afecciones al tráfico ante la visita del Papa a Madrid](https://www.elperiodico.com/es/videos/politica/dispositivo-seguridad-afecciones-trafico-visita-papa-madrid/130636696.shtml)
+- 0 |  | 
+- 15:30 [El refugio de Gerard Piqué en Catalunya: un pueblo de 400 habitantes escondido entre las montañas del Pirineo catalán](https://www.elperiodico.com/es/catalunya/20260525/pueblos-cataluna-gerard-pique-girona-la-cerdanya-bolvir-dv-loc-130625666)
+- 0 |  | 
+- 15:30 [Ángela Fernández, psicóloga: "La autoexigencia sin autocompasión es puro machaque psicológico"](https://www.elperiodico.com/es/salud/20260525/angela-fernandez-psicologa-autoexigencia-autocompasion-machaque-psicologico-dv-130460935)
+- 0 |  | 
+- 15:30 [La indignación de un joven al ver la nómina de un ingeniero en 1992: "Vivía con casi tres veces más renta en la misma ciudad"](https://www.elperiodico.com/es/economia/20260525/enfado-joven-nomina-ingeniero-1992-triplica-renta-dv-130279872)
+- 0 |  | 
+- 15:25 [Víctor Muñoz, el hijo del celador que jugará el Mundial: "Cuando se fue del Barça todos le perdimos de vista"](https://www.elperiodico.com/es/deportes/20260525/victor-munoz-hijo-celador-supero-129737467)
+- 0 |  | 
+- 15:19 [Florentino no tiene a quién mirar en la selección española](https://www.elperiodico.com/es/deportes/20260525/florentino-mirar-seleccion-espanola-130630434)
+- 0 |  | 
+- 15:15 [Felipe González pide agotar la legislatura ya y convocar elecciones este año](https://www.elperiodico.com/es/videos/politica/felipe-gonzalez-pide-agotar-legislatura/130636236.shtml)
+- 0 |  | 
+- 15:02 [Nace en Lleida un sindicato de maestros que apuesta por restablecer el carácter "instructivo" de la escuela](https://www.elperiodico.com/es/sociedad/20260525/nace-lleida-sindicato-maestros-apuesta-130627909)
+- 0 |  | 
+- 15:01 [Expertos alertan sobre la atención desmedida de los niños a las pantallas: "Muestran riesgos en salud mental, convivencia, sexualidad, juego, redes sociales y videojuegos”](https://www.elperiodico.com/es/salud/20260525/expertos-alertan-atencion-desmedida-ninos-pantallas-dv-130574084)
+- 0 |  | 
+- 14:53 [Se busca a la protagonista de la foto más célebre de las jornadas feministas de 1976: aún es un misterio 50 años después](https://www.elperiodico.com/es/barcelona/eixample/20260525/se-busca-protagonista-foto-celebre-pilar-aymerich-jornadas-catalanas-mujer-1976-130628977)
 - 0 |  | 
 - 14:45 [El uso del chupete o sentir dolor en el pezón, entre los motivos que frenan la lactancia materna exclusiva](https://www.elperiodico.com/es/sanidad/20260525/chupete-sentir-dolor-pezon-motivos-frenan-lactancia-materna-130633469)
 -  |  | 
