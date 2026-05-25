@@ -1,12 +1,22 @@
-# News for 2026-05-25 23:38
+# News for 2026-05-26 00:21
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+- 0 |  | Харків
+- 23:59 [У двох районах Харкова впали російські дрони](https://ua.korrespondent.net/city/kharkov/4881422-u-dvokh-raionakh-kharkova-vpaly-rosiiski-drony)
+- 0 |  | Новини України
+- 23:44 [В МЗС відрегаували на погрозу Росії новою атакою](https://ua.korrespondent.net/ukraine/4881418-v-mzs-vidrehauvaly-na-pohrozu-rosii-novoui-atakoui)
+- 90 | автомобілі | Автомобілі
+- 23:40 [Ferrari представила свій перший електромобіль](https://ua.korrespondent.net/lifestyle/motors/4881416-Ferrari-predstavyla-svii-pershyi-elektromobil)
 -  |  | Одеса
 - 22:59 [Росія завдала удару по Одесі: є потерпілі](https://ua.korrespondent.net/city/odessa/4881414-rosiia-zavdala-udaru-po-odesi-ye-poterpili)
+- 0 |  | Новини України
+- 22:58 [Битва за Малу Токмачку. Чим так важливе село](https://ua.korrespondent.net/ukraine/4881423-bytva-za-malu-tokmachku-chym-tak-vazhlyve-selo)
 - 0 |  | Новини світу
 - 22:27 [Іран після трьох місяців відключення поновлює доступ до інтернету](https://ua.korrespondent.net/world/4881412-iran-pislia-trokh-misiatsiv-vidkluichennia-ponovluiie-dostup-do-internetu)
+- 0 |  | Новини України
+- 22:12 [Системні удари по Києву. Нові погрози РФ](https://ua.korrespondent.net/ukraine/4881419-systemni-udary-po-kyievu-novi-pohrozy-rf)
 - 95 | спорт | Новини футболу
 - 22:02 [Англійський клуб націлився на українського воротаря](https://ua.korrespondent.net/sport/football/4881410-anhliiskyi-klub-natsilyvsia-na-ukrainskoho-vorotaria)
 -  |  | Новини України
