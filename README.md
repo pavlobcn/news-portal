@@ -1,10 +1,24 @@
-# News for 2026-05-25 17:59
+# News for 2026-05-25 18:37
 
 Previous day: [2026-05-24](./data/2026-05-24.md)
 
 ## ua.korrespondent.net
+- 0 |  | Технології
+- 18:30 [Ентузіасти розігнали FPV-дрон до рекордних 730 км/год](https://ua.korrespondent.net/tech/technews/4881374-entuziasty-rozihnaly-FPV-dron-do-rekordnykh-730-kmhod)
+- 0 |  | Новини України
+- 18:20 [TikTok обмежив канал Арестовича в Україні](https://ua.korrespondent.net/ukraine/4881368-TikTok-obmezhyv-kanal-arestovycha-v-ukraini)
+- 0 |  | Музика
+- 18:17 [Легендарний хіт Fleetwood Mac знову у чартах через майже 50 років](https://ua.korrespondent.net/showbiz/music/4881371-lehendarnyi-khit-Fleetwood-Mac-znovu-u-chartakh-cherez-maizhe-50-rokiv)
+- 0 |  | Новини світу
+- 18:08 [Сизранський НПЗ в Росії зупинився після атаки дронів - ЗМІ](https://ua.korrespondent.net/world/4881367-syzranskyi-npz-v-rosii-zupynyvsia-pislia-ataky-droniv-zmi)
+- 0 |  | Новини України
+- 17:59 [У Черкасах водій провіз військового ТЦК на капоті](https://ua.korrespondent.net/ukraine/4881363-u-cherkasakh-vodii-proviz-viiskovoho-ttsk-na-kapoti)
+- 0 |  | LifestyleFashion
+- 17:59 [Житло відомої акторки постраждало під час ракетної атаки на Київ](https://ua.korrespondent.net/lifestyle/4881365-zhytlo-vidomoi-aktorky-postrazhdalo-pid-chas-raketnoi-ataky-na-kyiv)
 - 55 | вибори (але не президента України чи США) | Новини України
 - 17:53 [Затримано російського агента, який коригував атаку РФ по Києву 24 травня](https://ua.korrespondent.net/ukraine/4881361-zatrymano-rosiiskoho-ahenta-yakyi-koryhuvav-ataku-rf-po-kyievu-24-travnia)
+- 0 |  | Новини України
+- 17:53 [Затримано корегувальника атаки по Києву](https://ua.korrespondent.net/ukraine/4881361-zatrymano-korehuvalnyka-ataky-po-kyievu)
 - 0 |  | Новини науки
 - 17:49 [В Анталії знайшли монументальну гробницю римської епохи](https://ua.korrespondent.net/tech/science/4881358-v-antalii-znaishly-monumentalnu-hrobnytsui-rymskoi-epokhy)
 - 0 |  | LifestyleFashion
@@ -233,6 +247,32 @@ Previous day: [2026-05-24](./data/2026-05-24.md)
 - 00:19 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)
 
 ## www.elperiodico.com
+- 0 |  | 
+- 18:33 [Usman Garuba tiene una rotura completa del tendón de Aquiles y podría estar un año de baja](https://www.elperiodico.com/es/deportes/20260525/usman-garuba-rotura-completa-tendon-130646102)
+- 92 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
+- 18:33 [La explicación de De la Fuente al Mundial sin jugadores del Real Madrid: “No miro de qué equipo vienen”](https://www.elperiodico.com/es/videos/deportes/explicacion-fuente-mundial-jugadores-real-madrid/130646283.shtml)
+- 0 |  | 
+- 18:30 [Explicaciones, resultados y un nuevo 'día del inversor': las claves de Puig para salir airosa del desacuerdo con Estée Lauder](https://www.elperiodico.com/es/economia/20260525/explicaciones-resultados-dia-inversor-claves-puig-superar-desacuerdo-fusion-estee-lauder-130626637)
+- 0 |  | 
+- 18:30 [Lo dice el BOE: para estas oposiciones con sueldos de 1.500 euros solo piden la ESO](https://www.elperiodico.com/es/sociedad/20260525/boe-mejores-oposiciones-eso-buen-sueldo-dv-130235149)
+- 0 |  | 
+- 18:20 [Italia activa la vigilancia del ébola tras hospitalizar a dos viajeros de Uganda con fiebre](https://www.elperiodico.com/es/internacional/20260525/italia-activa-vigilancia-ebola-130644875)
+- 82 | ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії | 
+- 18:20 [El catalán que ha cruzado América con su Fiat Marea del año 1998: "Disfruto mucho de mi compañía"](https://www.elperiodico.com/es/vida-y-estilo/20260525/catalan-ruta-america-coche-fabio-belnome-dv-130393962)
+- 0 |  | 
+- 18:18 [Una terapia de ARN baja el colesterol con una sola dosis y de forma duradera](https://www.elperiodico.com/es/sanidad/20260525/terapia-baja-colesterol-sola-dosis-forma-duradera-130641819)
+- 0 |  | 
+- 18:16 [La reina Margarita de Dinamarca, hospitalizada tras una caída](https://www.elperiodico.com/es/internacional/20260525/reina-margrethe-dinamarca-hospitalizada-caida-estado-salud-130644549)
+- 0 |  | 
+- 18:15 [Ramon Terrats se despide del Espanyol con una emotiva carta: "Era la oportunidad de mi vida"](https://www.elperiodico.com/es/deportes/20260525/ramon-terrats-despide-espanyol-emotiva-130643842)
+- 92 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
+- 18:08 [El Barça de Hansi Flick deja unos números para la historia](https://www.elperiodico.com/es/deportes/20260525/barca-hansi-flick-deja-numeros-130627789)
+- 0 |  | 
+- 18:04 [Transportes adjudica los estudios para ampliar el tramo Castelldefels–Sants de Rodalies por 1,2 millones de euros](https://www.elperiodico.com/es/barcelona/20260525/transportes-adjudica-estudios-ampliar-tramo-castelldefelssants-rodalies-1-millones-de-euros-130643100)
+- 74 | автомобілі | 
+- 18:01 [La UDEF señala el despacho de Zapatero como "centro de dirección operativo" y su casa como el lugar de "planificación" de las instrucciones "más sensibles"](https://www.elperiodico.com/es/politica/20260525/udef-senala-despacho-zapatero-centro-direccion-vivienda-instrucciones-sensibles-130644150)
+- 0 |  | 
+- 18:00 [Uno de cada cinco trabajadores con horario rotativo toma hipnóticos para dormir: "Los turnos van a más, urgen respuestas urgentes"](https://www.elperiodico.com/es/sanidad/20260525/trabajadores-horarios-rotativos-turnos-hipnoticos-dormir-benzodiacepinas-respuesta-129073548)
 - 0 |  | 
 - 17:57 [Siete personas atrapadas en una cueva en Laos desde hace cinco días: "No sabemos si siguen con vida"](https://www.elperiodico.com/es/internacional/20260525/siete-personas-atrapadas-cueva-laos-cinco-dias-130643686)
 - 90 | спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com) | 
