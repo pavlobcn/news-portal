@@ -1,8 +1,10 @@
-# News for 2026-05-26 23:01
+# News for 2026-05-27 00:23
 
 Previous day: [2026-05-25](./data/2026-05-25.md)
 
 ## ua.korrespondent.net
+23:49 [Орєшнік складається з компонентів часів СРСР](https://ua.korrespondent.net/ukraine/4881723-orieshnik-skladaietsia-z-komponentiv-chasiv-srsr)<br>
+23:20 [Сибіга анонсував новий рівень співпраці з Африкою: про що йдеться](https://ua.korrespondent.net/ukraine/4881721-sybiha-anonsuvav-novyi-riven-spivpratsi-z-afrykoui-pro-scho-ydetsia)<br>
 22:51 [НАТО створить окрему структуру для захисту Балтії - ЗМІ](https://ua.korrespondent.net/world/4881716-nato-stvoryt-okremu-strukturu-dlia-zakhystu-baltii-zmi)<br>
 22:42 [Ветеран залишиться в Інтері ще на сезон](https://ua.korrespondent.net/sport/football/4881719-veteran-zalyshytsia-v-interi-sche-na-sezon)<br>
 22:24 [В ООН прокоментували плани РФ масовано бити по Києву](https://ua.korrespondent.net/ukraine/4881711-v-oon-prokomentuvaly-plany-rf-masovano-byty-po-kyievu)<br>
@@ -81,6 +83,7 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 00:45 [ЗМІ дізналися, коли Іран планує відкрити Ормузьку протоку](https://ua.korrespondent.net/world/4881427-zmi-diznalysia-koly-iran-planuie-vidkryty-ormuzku-protoku)<br>
 
 ## as.com
+23:26 [El Valencia aún está aquí](https://as.com/baloncesto/acb/el-valencia-aun-esta-aqui-f202605-n/)<br>
 21:17 [El Joventut no necesitó esforzarse ante un Unicaja más apagado que el videomarcador](https://as.com/baloncesto/el-joventut-no-necesito-esforzarse-ante-un-unicaja-mas-apagado-que-el-videomarcador-f202605-n/)<br>
 17:27 [La toma más clara de la bochornosa pelea entre el presidente del Olympiacos y el sobrino del primer ministro griego](https://as.com/baloncesto/videos/la-toma-mas-clara-de-la-bochornosa-pelea-del-presidente-del-olympiacos-y-el-sobrino-del-primer-ministro-griego-f202605-v/)<br>
 17:27 [La toma más clara de la bochornosa pelea entre el presidente del Olympiacos y el sobrino del primer ministro griego](https://as.com/baloncesto/videos/la-toma-mas-clara-de-la-bochornosa-pelea-del-presidente-del-olympiacos-y-el-sobrino-del-primer-ministro-griego-f202605-v/)<br>
@@ -90,6 +93,9 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 10:45 [Izan Almansa se decanta por la ‘vía NCAA’ dejando atrás el Real Madrid](https://as.com/baloncesto/acb/izan-almansa-se-decanta-por-la-via-ncaa-dejando-atras-el-real-madrid-f202605-n/)<br>
 
 ## www.elperiodico.com
+23:35 [La portada de EL PERIÓDICO del 27 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260526/portada-periodico-27-mayo-2026-130693886)<br>
+23:05 [Rocket League: la revolución UE6 se hará esperar, pero las novedades de juego llegarán muy pronto](https://www.elperiodico.com/es/videojuegos/20260526/rocket-league-revolucion-ue6-hara-130672599)<br>
+23:05 ['Dune: Awakening' lleva la guerra del agua a Arrakis con su última actualización gratuita](https://www.elperiodico.com/es/videojuegos/20260526/dune-awakening-lleva-guerra-agua-130685374)<br>
 22:28 [Woman y SPORT, rendidos al poder del deporte femenino](https://www.elperiodico.com/es/deportes/20260526/premios-woman-sport-poder-rendidos-deporte-femenino-130692934)<br>
 22:10 [Las elecciones del Real Madrid se celebrarán el domingo 7 de junio en Valdebebas](https://www.elperiodico.com/es/deportes/20260526/elecciones-real-madrid-celebraran-domingo-7-de-junio-florentino-perez-enrique-riquelme-130692653)<br>
 22:06 [Cultura declara inexportable un documento firmado por Cervantes que sale a subasta este miércoles en Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20260526/cultura-declara-inexportable-documento-firmado-130692617)<br>
