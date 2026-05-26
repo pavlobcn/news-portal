@@ -1,5 +1,285 @@
 [
   {
+    "title": "La NASA y Blue Origin iniciarán este año la construcción de una base en la Luna",
+    "link": "https://www.elperiodico.com/es/sociedad/20260526/nasa-blue-origin-iniciaran-construccion-base-luna-130691594",
+    "pubDate": "2026-05-26 21:10:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El alunizador elegido para la primera misión está diseñado por la empresa espacial de Jeff Bezos, fundador de Amazon</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260523/elon-musk-spacex-starship-vuelo-prueba-luna-marte-130565185\" >La compañía de Elon Musk completa el duodécimo vuelo de prueba del Starship V3 en su reto de viajar a la Luna y Marte</a></h2>"
+  },
+  {
+    "title": "La Nit del Galerisme distingue a Joan Gaspar y Rocío SantaCruz y homenajea a Francesc Torres, la Galería Mayoral y la Fundació Bassat",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260526/nit-galerisme-distingue-joan-gaspar-130681922",
+    "pubDate": "2026-05-26 21:01:02",
+    "category": "",
+    "description": "<h2>Francesc Torres, Lluís Bassat y la Galería Mayoral, los grandes homenajeados en los Premios GAC por sus aportaciones al mundo del arte</h2>"
+  },
+  {
+    "title": "Volkswagen ID Polo, llega la hora de la electrificación",
+    "link": "https://www.elperiodico.com/es/motor/20260526/volkswagen-id-polo-llega-hora-electrificacion-130636887",
+    "pubDate": "2026-05-26 21:01:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El VW ID.Polo eléctrico llega al mercado en septiembre y se ofrecerá con tres potencias diferentes de 116, 135 y 211 CV y con autonomías que pueden llegar a los 449 kilómetros</h2><h2 class=\"item\">El precio de partida de la versión básica, con ayudas, rondará los 20.000 euros</h2>"
+  },
+  {
+    "title": "MV Agusta Brutale 1000 ABT: cuando el arte italiano se encuentra con la ingeniería alemana",
+    "link": "https://www.elperiodico.com/es/motor/20260526/mv-agusta-brutale-1000-abt-130644676",
+    "pubDate": "2026-05-26 21:01:02",
+    "category": "",
+    "description": "<h2>La exclusiva naked italiana une fuerzas con ABT Sportsline en una edición limitada de solo 130 unidades</h2>"
+  },
+  {
+    "title": "El horóscopo de mañana, miércoles 27 de mayo: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260526/horoscopo-hoy-miercoles-27-mayo-dv-130547425",
+    "pubDate": "2026-05-26 21:01:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>"
+  },
+  {
+    "title": "Біля узбережжя Оману вибухнув танкер, зафіксовано витік пального",
+    "link": "https://ua.korrespondent.net/world/4881696-bilia-uzberezhzhia-omanu-vybukhnuv-tanker-zafiksovano-vytik-palnoho",
+    "pubDate": "2026-05-26 20:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442704.png\">Вибух стався з лівого борту в кормовій частині поблизу ватерлінії. Екіпаж і судно залишилися в безпеці, однак частина бункерного палива потрапила в море."
+  },
+  {
+    "title": "Volkswagen представила в Китаї електроседан ID. Unyx 07",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4881693-Volkswagen-predstavyla-v-kytai-elektrosedan-ID-Unyx-07",
+    "pubDate": "2026-05-26 20:38:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442690.jpg\">Нова модель отримала сучасну електроплатформу, запас ходу до 558 км і стартову ціну від $16200."
+  },
+  {
+    "title": "Xavi Pascual y Juan Carlos Navarro dejarán la sección de baloncesto del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260526/xavi-pascual-juan-carlos-navarro-130689712",
+    "pubDate": "2026-05-26 20:37:27",
+    "category": "",
+    "description": "<h2>Laporta no logra convencer a Pascual, que se irá a Dubai, y retira su confianza en Navarro, el director deportivo, que podría completar su tercera temporada en blanco</h2>"
+  },
+  {
+    "title": "Зеленський сказав, що чекає на Україну після війни",
+    "link": "https://ua.korrespondent.net/ukraine/4881691-zelenskyi-skazav-scho-chekaie-na-ukrainu-pislia-viiny",
+    "pubDate": "2026-05-26 20:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442684.jpg\">Українська молодь може долучатися як до державного управління через спеціальні програми, так і отримати гранти на бізнес."
+  },
+  {
+    "title": "Educació y profesores acercan posiciones, pero los sindicatos llaman a una \"gran huelga\" este miércoles para \"terminar de desencallar\" el conflicto",
+    "link": "https://www.elperiodico.com/es/sociedad/20260526/educacio-docentes-acercan-posiciones-sindicatos-huelga-salarios-130677005",
+    "pubDate": "2026-05-26 20:30:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El Govern avanza en la mejora salarial y plantea un nuevo complemento para el conjunto de la plantilla de 35 euros brutos mensuales, que los sindicatos siguen juzgando insuficiente</h2><h2 class=\"item\">Ambas partes volverán a sentarse a la mesa este miércoles a las tres de al tarde</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260504/docentes-catalanes-monitorizan-app-sofocante-temperatura-aulas-calor-129735890\">Los profesores catalanes monitorizan en una 'app' las temperaturas \"extremas\" de las aulas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260526/huelga-profesores-ultima-hora-directo-130098594\">Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos</a></h2>"
+  },
+  {
+    "title": "El Govern crea una oficina para denunciar discriminación lingüística y ultima un plan para el catalán en las empresas",
+    "link": "https://www.elperiodico.com/es/politica/20260526/govern-oficina-denuncia-discriminacion-catalan-130678044",
+    "pubDate": "2026-05-26 20:25:06",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260513/catalan-cataluna-balance-pacte-nacional-per-llengua-govern-illa-partidos-129346837\">El Pacte Nacional per la Llengua, un año después</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260422/catalan-regularizacion-migrantes-govern-junts-illa-129355350\">El Govern trabaja en una norma para que el catalán se tenga en cuenta en la renovación de papeles tras la regularización</a></h2>"
+  },
+  {
+    "title": "Netanyahu anuncia una escalada en el Líbano y la toma de nuevas \"zonas estratégicas\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/netanyahu-anuncia-escalada-libano/130689806.shtml",
+    "pubDate": "2026-05-26 20:21:38",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "Tecnologías exponenciales, amenaza existencial y perogrullada",
+    "link": "https://www.elperiodico.com/es/opinion/20260526/tecnologias-exponenciales-amenaza-existencial-tecnologias-perogrullada-130689595",
+    "pubDate": "2026-05-26 20:13:56",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/autor/eduardo-lopez-alonso-29278/\" target=\"_blank\">Otros artículos de Eduardo López Alonso.</a></h2>"
+  },
+  {
+    "title": "Alexia dice adiós al Barça: 11 momentos para la historia de una leyenda",
+    "link": "https://www.elperiodico.com/es/deportes/20260526/alexia-dice-adios-barca-11-130643856",
+    "pubDate": "2026-05-26 20:13:31",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "El juez de Koldo se abstuvo de investigar el caso Zapatero por su relación con uno de los abogados imputados en la trama",
+    "link": "https://www.elperiodico.com/es/politica/20260526/juez-koldo-abstuvo-investigar-caso-130687107",
+    "pubDate": "2026-05-26 20:11:30",
+    "category": "",
+    "description": "<h2>Mantuvo encuentros por un asunto de tierras con un letrado que hoy sigue imputado por el presunto blanqueo de fondos venezolanos con el dinero del rescate de Plus Ultra</h2>"
+  },
+  {
+    "title": "Україна визначила 500 цілей у Білорусі - Командувач СБС",
+    "link": "https://ua.korrespondent.net/ukraine/4881689-ukraina-vyznachyla-500-tsilei-u-bilorusi-komanduvach-sbs",
+    "pubDate": "2026-05-26 20:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442678.jpg\">\"Перші 500 цілей вже на олівці. Безкоштовна і дуже практична порада: не лізь у очі Україні\", - написав Бровді в Телеграм."
+  },
+  {
+    "title": "De los Mozos se despide de Indra: \"Me voy con la satisfacción de haber contribuido a dejar una compañía más sólida y más global\"",
+    "link": "https://www.elperiodico.com/es/economia/20260526/mozos-despide-indra-satisfaccion-haber-130689431",
+    "pubDate": "2026-05-26 20:07:44",
+    "category": "",
+    "description": "<h2>El hasta ahora consejero delegado de la compañía de defensa ha compartido un post de despedida en LinkedIn, en el que ha afirmado conservar \"la energía intacta para lo que viene\"</h2>"
+  },
+  {
+    "title": "Sergio Álvarez, el profesor que persigue una patente  que permitiría alargar la esperanza de vida: \"Los escenarios son muy prometedores\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260526/sergio-alvarez-profesor-persigue-patente-alargar-esperanza-vida-dv-130534175",
+    "pubDate": "2026-05-26 20:05:00",
+    "category": "",
+    "description": "<h2>\"Si conseguimos que el nanodispositivo actúe como un refrigerador dentro de la célula, esta se degradará menos\", resalta el docente de la Escuela Revillagigedo de Gijón</h2>"
+  },
+  {
+    "title": "BMW припинить випуск M3 покоління G80 у 2027 році",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4881687-BMW-prypynyt-vypusk-M3-pokolinnia-G80-u-2027-rotsi",
+    "pubDate": "2026-05-26 20:01:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442677.jpg\">Спортивний седан 2027 модельного року стане останньою моделлю поточного покоління, а майбутня заміна вперше отримає електричну версію."
+  },
+  {
+    "title": "Los Mossos creen que hubo un forcejeo entre los Andic frente al punto de la caída en Collbató",
+    "link": "https://www.elperiodico.com/es/sociedad/20260526/jonathan-andic-forcejeo-padre-hijo-lugar-caida-fundador-mango-investigacion-mossos-130643708",
+    "pubDate": "2026-05-26 20:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía se basa en la huella hallada en el lugar, que aseguran es del empresario, extremo que la defensa rebatirá</h2><h2 class=\"item\">Las sospechas sobre Jonathan Andic comenzaron cuando confundió el lugar en el que había aparcado su coche el día de la muerte de su padre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260523/anatomia-caida-isak-andic-claves-videos-graficos-130504536\" target=\"_blank\">Anatomía de la caída de Isak Andic: 5 factores clave explicados con gráficos y vídeos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260519/cronologia-muerte-isak-andic-caso-jonathan-andic-130417515\">Cronología del caso de Isak Andic: desde su muerte hasta la detención de su hijo, Jonathan Andic</a></h2>"
+  },
+  {
+    "title": "El juez Calama desvela que casi 16 millones del rescate de Plus Ultra se transfirieron a la red de blanqueo del oro venezolano",
+    "link": "https://www.elperiodico.com/es/politica/20260526/juez-calama-desvela-16-millones-130687933",
+    "pubDate": "2026-05-26 20:00:52",
+    "category": "",
+    "description": "<h2>El magistrado destaca que la aerolínea envió 13,1 millones a Puerto Rico desde sus cuentas españolas</h2>"
+  },
+  {
+    "title": "Rosalía logra cinco galardones en el inicio de los III Premios de la Academia de la Música",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260526/rosalia-dispara-inicio-premios-academia-musica-130688978",
+    "pubDate": "2026-05-26 19:57:07",
+    "category": "",
+    "description": "<h2>La artista recibe los premios a productora del año por 'Lux', mejor álbum de pop por ese mismo trabajo, mejor canción pop por 'La perla', compositora del año y mejor videoclip por 'Berghain' </h2>"
+  },
+  {
+    "title": "Страхування воєнних ризиків: перші компанії отримали компенсації",
+    "link": "https://ua.korrespondent.net/business/4881683-strakhuvannia-voiennykh-ryzykiv-pershi-kompanii-otrymaly-kompensatsii",
+    "pubDate": "2026-05-26 19:57:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442670.jpg\">Загалом вже отримано 40 заявок з Київської, Львівської, Рівненської, Черкаської областей та Києва. Загальна вартість страхового покриття за ними становить 4,3 млрд грн."
+  },
+  {
+    "title": "Прикордонники за допомогою БПЛА взяли у полон чотирьох військових РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4881684-prykordonnyky-za-dopomohoui-bpla-vzialy-u-polon-chotyrokh-viiskovykh-rf",
+    "pubDate": "2026-05-26 19:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442675.png\">Окупанти залишили укриття, склали зброю та, виконуючи команди операторів українського дрона, рушили у напрямку українських позицій, щоб здатися."
+  },
+  {
+    "title": "Alexia Putellas confirma su salida del Barça con un vídeo",
+    "link": "https://www.elperiodico.com/es/videos/deportes/alexia-putellas-confirma-salida-barca/130688892.shtml",
+    "pubDate": "2026-05-26 19:49:12",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "Наполі зацікавився колишнім тренером Мілана",
+    "link": "https://ua.korrespondent.net/sport/football/4881681-napoli-zatsikavyvsia-kolyshnim-trenerom-milana",
+    "pubDate": "2026-05-26 19:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442676.jpg\">Массиміліано Алегрі залагодив усі фінансові та спортивні нюанси угоди з новим клубом."
+  },
+  {
+    "title": "Babel y el temor de Dios",
+    "link": "https://www.elperiodico.com/es/opinion/20260526/babel-temor-dios-enciclica-leon-xiv-articulo-josep-maria-fonalleras-130687932",
+    "pubDate": "2026-05-26 19:41:23",
+    "category": "",
+    "description": "<h2>El texto del Papa es de un grosor intelectual notabilísimo, y una de sus bases es la consideración de la fragilidad, de la vulnerabilidad, como factores constitutivos de la experiencia humana, frente al poshumanismo promovido por los algoritmos y la IA</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260525/leon-xiv-pide-primera-enciclica-freno-tecnoelites-codigo-etico-global-ia-130621221\">León XIV pide en su primera encíclica poner freno al poder de las tecnoélites y crear un código ético global para la I</a>A</h2>"
+  },
+  {
+    "title": "Rufián tira de ironía tras el caso Zapatero: \"Las legislaturas duran lo que diga el PNV\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/rufian-tira-ironia-caso-zapatero-legislaturas-duran-pnv/130688598.shtml",
+    "pubDate": "2026-05-26 19:37:53",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "Alexia es de las personas más importantes de mi vida",
+    "link": "https://www.elperiodico.com/es/deportes/20260526/alexia-personas-importantes-vida-130665417",
+    "pubDate": "2026-05-26 19:37:45",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "Florentino Pérez lanza su campaña reivindicando sus logros: \"El mejor ciclo de la historia aún no ha acabado\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260526/florentino-perez-lanza-campana-reivindicando-130688067",
+    "pubDate": "2026-05-26 19:34:47",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "Економісти Кремля зафіксували скорочення реальних доходів росіян",
+    "link": "https://ua.korrespondent.net/world/russia/4881679-ekonomisty-kremlia-zafiksuvaly-skorochennia-realnykh-dokhodiv-rosiian",
+    "pubDate": "2026-05-26 19:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442664.jpg\">Споживання домашніх господарств є основним драйвером економіки, але воно впирається у можливості нарощування оплати праці."
+  },
+  {
+    "title": "Cruyff, Guardiola, Messi y... Alexia",
+    "link": "https://www.elperiodico.com/es/deportes/20260526/cruyff-guardiola-messi-alexia-130644872",
+    "pubDate": "2026-05-26 19:28:58",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "ЗСУ спростували захоплення РФ селища на Сумщині",
+    "link": "https://ua.korrespondent.net/ukraine/4881677-zsu-sprostuvaly-zakhoplennia-rf-selyscha-na-sumschyni",
+    "pubDate": "2026-05-26 19:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442665.jpg\">Угруповання військ \"Курськ\" офіційно заявило, що Запсілля продовжує перебувати під контролем Сил оборони України."
+  },
+  {
+    "title": "Alexia Putellas no renueva y dice adiós al Barça 14 años después",
+    "link": "https://www.elperiodico.com/es/deportes/20260526/alexia-putellas-renueva-dice-adios-130641304",
+    "pubDate": "2026-05-26 19:24:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La capitana azulgrana se despide como uno de los grandes emblemas de la historia del club</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/adios-alexia-putellas-barca-barcelona-mejores-momentos-130642654-rm/index.html\">Los 11 momentos de Alexia y el Barça</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260526/cruyff-guardiola-messi-alexia-130644872\">Cruyff, Guardiola, Messi y... Alexia</a>, por Francisco Cabezas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260526/alexia-personas-importantes-vida-130665417\">Alexia es de las personas más importantes de mi vida</a>, por Virginia Torrecilla</h2>"
+  },
+  {
+    "title": "Los inmigrantes cobran de media 7.000 euros anuales menos que el resto de la población en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20260526/inmigrantes-cobran-media-7-000-euros-menos-resto-poblacion-cataluna-130682463",
+    "pubDate": "2026-05-26 19:19:18",
+    "category": "",
+    "description": "<h2 class=\"item\">Cuatro de cada diez extranjeros que llegan al país ocupan empleos por debajo de su nivel formativo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251218/inmigrantes-recien-llegados-estudios-superiores-124890351\">Cuatro de cada 10 migrantes que llegan a España tienen estudios superiores</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260223/inmigracion-cataluna-trabajadores-cuidados-convivencia-informe-cetis-drets-socials-127162218\">El 22% de trabajadores en Catalunya son migrantes y ya representan el 40% en el sector de los cuidados</a></h2>"
+  },
+  {
+    "title": "Terrassa crea una unidad sancionadora para perseguir mafias de viviendas ocupadas, acoso inmobiliario y pisos turísticos ilegales",
+    "link": "https://www.elperiodico.com/es/barcelona/20260526/terrassa-crea-unidad-sancionadora-perseguir-mafias-ocupaciones-acoso-inmobiliario-130686863",
+    "pubDate": "2026-05-26 19:17:06",
+    "category": "",
+    "description": "<h2>La tercera ciudad de Catalunya eleva la presión contra las malas prácticas en su nuevo Plan Local de Vivienda</h2><h2>El gobierno de Ballart trabaja en una modificación del POUM para cercar a los pisos turísticos tras el veto barcelonés</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260525/terrassa-planea-construir-3-000-proteccion-oficial-proximos-cinco-anos-130628176\">Terrassa planea construir más de 3.000 pisos de protección oficial en los próximos cinco años</a></h2>"
+  },
+  {
+    "title": "El Congreso tramitará la iniciativa de ERC y Junts para blindar sus grupos parlamentarios tras las próximas elecciones",
+    "link": "https://www.elperiodico.com/es/politica/20260526/congreso-reforma-reglamento-erc-junts-grupo-parlamentario-130687077",
+    "pubDate": "2026-05-26 19:12:38",
+    "category": "",
+    "description": "<h2>El PSOE  y Sumar respaldan la propuesta para que el porcentaje de votos necesario sea menor y facilite la constitución de los grupos</h2>"
+  },
+  {
+    "title": "Liux inaugura la primera fábrica de carrocerías de fibras naturales de España",
+    "link": "https://www.elperiodico.com/es/motor/20260526/liux-inaugura-primera-fabrica-carrocerias-fibras-naturales-130646448",
+    "pubDate": "2026-05-26 19:03:54",
+    "category": "",
+    "description": "<h2>Esta nueva instalación, situada en Elche, está destinada al desarrollo de carrocerías para la producción en serie en la planta que la compañía tiene en Azuqueca de Henares</h2>"
+  },
+  {
+    "title": "Los migrantes en oficios mal pagados triplican a los catalanes: \"No somos capaces de integrar con trabajo de calidad\"",
+    "link": "https://www.elperiodico.com/es/economia/20260526/inmigrantes-acceso-empleo-informe-ctesc-parlament-cataluna-130685220",
+    "pubDate": "2026-05-26 19:03:36",
+    "category": "",
+    "description": "<h2>Un informe del Ctesc reclama a la Generalitat disponer de más recursos públicos para que las personas venidas del extranjero puedan aprender catalán de forma fácil y gratuita</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260208/regularizacion-inmigrantes-perfil-beneficiados-126557675\">Latino, con trabajo y familia en España: así es el perfil mayoritario entre los 800.000 migrantes que podrán beneficiarse de la regularización</a></h2>"
+  },
+  {
+    "title": "Кількість учасників Чеської ініціативи для України скоротилася вдвічі",
+    "link": "https://ua.korrespondent.net/world/4881674-kilkist-uchasnykiv-cheskoi-initsiatyvy-dlia-ukrainy-skorotylasia-vdvichi",
+    "pubDate": "2026-05-26 19:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4442659.jpg\">Ініціатива все ще діє, але нова складність полягає в тому, що лише близько дев’яти держав-членів роблять фінансовий внесок."
+  },
+  {
     "title": "США попередньо погодили виробництво ракет Patriot у Польщі",
     "link": "https://ua.korrespondent.net/world/4881672-ssha-poperedno-pohodyly-vyrobnytstvo-raket-Patriot-u-polschi",
     "pubDate": "2026-05-26 18:53:00",
@@ -159,6 +439,13 @@
     "pubDate": "2026-05-26 18:00:19",
     "category": "",
     "description": "<h2 class=\"item\">Expertos advierten de que las altas temperaturas de mayo, hasta 10 grados por encima de lo habitual, son un síntoma claro del cambio climático</h2><h2 class=\"item\">El meteorólogo Mario Picazo asegura que el verano se ha alargado, comiéndose parte de la primavera y el otoño, y dando lugar a episodios de calor más intensos y duraderos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260526/calor-mayo-prevision-verano-temperaturas-record-espana-130678718\" target=\"_blank\">El calor asfixiante en pleno mayo y las previsiones sobre El Niño hacen presagiar otro verano de récord en España</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260526/resfriados-comunes-alergias-llegan-atencion-primaria-cataluna-cuadros-viricos-vias-altas-respiratorias-130677665\" target=\"_blank\">Repunte de resfriados comunes en plena subida de temperaturas: el rinovirus es el que más circula</a></h2>"
+  },
+  {
+    "title": "Caen a la mitad los viajes de estudios en Mallorca: \"No podemos tratarlos como delincuentes por venir en grupo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260526/caen-mitad-viajes-estudios-mallorca-130683164",
+    "pubDate": "2026-05-26 17:57:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Destinos como Malta, Marruecos o incluso el Caribe están ganando terreno porque tienen \"ganas\" e \"intención\" de absorber a estos clientes</h2>"
   },
   {
     "title": "Гороскоп для всіх знаків Зодіаку на 27 травня 2026 року",
