@@ -88,14 +88,19 @@ function getTopicValue(item) {
   return normalized && normalized.toLowerCase() !== "unknown" ? normalized : "";
 }
 
-function getTopicMatchProbabilityValue(item) {
+function getTopicMatchProbabilityNumber(item) {
   const value = item?.topic_match_probability;
 
   if (typeof value === "number" && Number.isFinite(value)) {
-    return String(Math.round(value));
+    return value;
   }
 
-  return "";
+  return null;
+}
+
+function getTopicMatchProbabilityValue(item) {
+  const value = getTopicMatchProbabilityNumber(item);
+  return value === null ? "" : String(Math.round(value));
 }
 
 function getCategoryValue(item) {
@@ -126,6 +131,11 @@ function buildMarkdown(items, previousDayLabel) {
   for (const entry of sortedItems) {
     const link = getLinkValue(entry);
     if (!link) continue;
+
+    const topicMatchProbability = getTopicMatchProbabilityNumber(entry);
+    if (topicMatchProbability !== null && topicMatchProbability >= 20) {
+      continue;
+    }
 
     const domain = getDomain(link);
     if (!grouped.has(domain)) {
