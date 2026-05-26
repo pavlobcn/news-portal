@@ -4,14 +4,14 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 
 ## ua.korrespondent.net
  |  | Новини футболу
-06:31 [Манчестер Юнайтед хоче втримати капітана новим контрактом](https://ua.korrespondent.net/sport/football/4881451-manchester-yunaited-khoche-vtrymaty-kapitana-novym-kontraktom)
+ 06:31 [Манчестер Юнайтед хоче втримати капітана новим контрактом](https://ua.korrespondent.net/sport/football/4881451-manchester-yunaited-khoche-vtrymaty-kapitana-novym-kontraktom)
  |  | Новини України
-06:23 [Генштаб назвав втрати Росії станом на 26 травня](https://ua.korrespondent.net/ukraine/4881449-henshtab-nazvav-vtraty-rosii-stanom-na-26-travnia)
-0 |  | Новини України
+ 06:23 [Генштаб назвав втрати Росії станом на 26 травня](https://ua.korrespondent.net/ukraine/4881449-henshtab-nazvav-vtraty-rosii-stanom-na-26-travnia)
+ 0 |  | Новини України
 05:58 [Підсумки 25.05: Протидія ракетам і погрози Москви](https://ua.korrespondent.net/ukraine/4881425-pidsumky-2505-protydiia-raketam-i-pohrozy-moskvy)
 0 |  | Новини світу
 05:43 [Тайвань зафіксував друге за тиждень "бойове" патрулювання Китаю](https://ua.korrespondent.net/world/4881447-taivan-zafiksuvav-druhe-za-tyzhden-boiove-patruluivannia-kytaui)
-  |  | Новини політики
+|  | Новини політики
 05:28 [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain)
 0 |  | Новини світу
 05:23 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)
