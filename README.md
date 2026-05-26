@@ -1,10 +1,21 @@
-# News for 2026-05-26 21:16
+# News for 2026-05-26 23:01
 
 Previous day: [2026-05-25](./data/2026-05-25.md)
 
 ## ua.korrespondent.net
+22:51 [НАТО створить окрему структуру для захисту Балтії - ЗМІ](https://ua.korrespondent.net/world/4881716-nato-stvoryt-okremu-strukturu-dlia-zakhystu-baltii-zmi)<br>
+22:42 [Ветеран залишиться в Інтері ще на сезон](https://ua.korrespondent.net/sport/football/4881719-veteran-zalyshytsia-v-interi-sche-na-sezon)<br>
+22:24 [В ООН прокоментували плани РФ масовано бити по Києву](https://ua.korrespondent.net/ukraine/4881711-v-oon-prokomentuvaly-plany-rf-masovano-byty-po-kyievu)<br>
+22:22 [Удари по Києву. Послів не злякали погрози Росії](https://ua.korrespondent.net/ukraine/4881708-udary-po-kyievu-posliv-ne-zliakaly-pohrozy-rosii)<br>
+22:02 [Олейникова вперше виграла матч у основній сітці Грендслему](https://ua.korrespondent.net/sport/tenis/4881713-oleinykova-vpershe-vyhrala-match-u-osnovnii-sittsi-hrendslemu)<br>
+21:55 [Генштаб оновив дані про бої на фронті](https://ua.korrespondent.net/ukraine/4881709-henshtab-onovyv-dani-pro-boi-na-fronti)<br>
+21:40 [У РФ бізнес просить у Путіна зброю та резервістів для захисту від БПЛА](https://ua.korrespondent.net/world/russia/4881704-u-rf-biznes-prosyt-u-putina-zbroui-ta-rezervistiv-dlia-zakhystu-vid-bpla)<br>
+21:31 [Ferrari зареєструвала одразу десять нових назв для майбутніх моделей](https://ua.korrespondent.net/lifestyle/motors/4881702-Ferrari-zareiestruvala-odrazu-desiat-novykh-nazv-dlia-maibutnikh-modelei)<br>
+21:22 [Спаллетті націлився на двох гравців Ліверпуля](https://ua.korrespondent.net/sport/football/4881700-spalletti-natsilyvsia-na-dvokh-hravtsiv-liverpulia)<br>
+21:17 [Трамп скликає екстрену нараду уряду США](https://ua.korrespondent.net/world/4881698-tramp-sklykaie-ekstrenu-naradu-uriadu-ssha)<br>
 20:55 [Біля узбережжя Оману вибухнув танкер, зафіксовано витік пального](https://ua.korrespondent.net/world/4881696-bilia-uzberezhzhia-omanu-vybukhnuv-tanker-zafiksovano-vytik-palnoho)<br>
 20:38 [Volkswagen представила в Китаї електроседан ID. Unyx 07](https://ua.korrespondent.net/lifestyle/motors/4881693-Volkswagen-predstavyla-v-kytai-elektrosedan-ID-Unyx-07)<br>
+20:38 [Volkswagen представив в Китаї електроседан ID. Unyx 07](https://ua.korrespondent.net/lifestyle/motors/4881693-Volkswagen-predstavyv-v-kytai-elektrosedan-ID-Unyx-07)<br>
 20:31 [Зеленський сказав, що чекає на Україну після війни](https://ua.korrespondent.net/ukraine/4881691-zelenskyi-skazav-scho-chekaie-na-ukrainu-pislia-viiny)<br>
 20:10 [Україна визначила 500 цілей у Білорусі - Командувач СБС](https://ua.korrespondent.net/ukraine/4881689-ukraina-vyznachyla-500-tsilei-u-bilorusi-komanduvach-sbs)<br>
 20:01 [BMW припинить випуск M3 покоління G80 у 2027 році](https://ua.korrespondent.net/lifestyle/motors/4881687-BMW-prypynyt-vypusk-M3-pokolinnia-G80-u-2027-rotsi)<br>
@@ -70,6 +81,7 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 00:45 [ЗМІ дізналися, коли Іран планує відкрити Ормузьку протоку](https://ua.korrespondent.net/world/4881427-zmi-diznalysia-koly-iran-planuie-vidkryty-ormuzku-protoku)<br>
 
 ## as.com
+21:17 [El Joventut no necesitó esforzarse ante un Unicaja más apagado que el videomarcador](https://as.com/baloncesto/el-joventut-no-necesito-esforzarse-ante-un-unicaja-mas-apagado-que-el-videomarcador-f202605-n/)<br>
 17:27 [La toma más clara de la bochornosa pelea entre el presidente del Olympiacos y el sobrino del primer ministro griego](https://as.com/baloncesto/videos/la-toma-mas-clara-de-la-bochornosa-pelea-del-presidente-del-olympiacos-y-el-sobrino-del-primer-ministro-griego-f202605-v/)<br>
 17:27 [La toma más clara de la bochornosa pelea entre el presidente del Olympiacos y el sobrino del primer ministro griego](https://as.com/baloncesto/videos/la-toma-mas-clara-de-la-bochornosa-pelea-del-presidente-del-olympiacos-y-el-sobrino-del-primer-ministro-griego-f202605-v/)<br>
 17:27 [La toma más clara de la bochornosa pelea entre el presidente del Olympiacos y el sobrino del primer ministro griego](https://as.com/baloncesto/videos/la-toma-mas-clara-de-la-bochornosa-pelea-del-presidente-del-olympiacos-y-el-sobrino-del-primer-ministro-griego-f202605-v/)<br>
@@ -78,6 +90,16 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 10:45 [Izan Almansa se decanta por la ‘vía NCAA’ dejando atrás el Real Madrid](https://as.com/baloncesto/acb/izan-almansa-se-decanta-por-la-via-ncaa-dejando-atras-el-real-madrid-f202605-n/)<br>
 
 ## www.elperiodico.com
+22:28 [Woman y SPORT, rendidos al poder del deporte femenino](https://www.elperiodico.com/es/deportes/20260526/premios-woman-sport-poder-rendidos-deporte-femenino-130692934)<br>
+22:10 [Las elecciones del Real Madrid se celebrarán el domingo 7 de junio en Valdebebas](https://www.elperiodico.com/es/deportes/20260526/elecciones-real-madrid-celebraran-domingo-7-de-junio-florentino-perez-enrique-riquelme-130692653)<br>
+22:06 [Cultura declara inexportable un documento firmado por Cervantes que sale a subasta este miércoles en Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20260526/cultura-declara-inexportable-documento-firmado-130692617)<br>
+22:00 [Seis indicios apuntalan en el sumario la imputación de Zapatero: de los dos millones de euros de "nuestro pana" a las 'off-shore'](https://www.elperiodico.com/es/politica/20260526/son-indicios-apuntalan-imputacion-rodriguez-zapatero-130687774)<br>
+22:00 [Renault y los sindicatos llegan a un acuerdo salarial que implica la llegada de nuevos modelos a Valladolid y Palencia](https://www.elperiodico.com/es/economia/20260526/renault-sindicatos-llegan-acuerdo-salarial-130692508)<br>
+21:56 [Dimes, diretes y joyas, ¿pero qué hizo Zapatero para que le prestaran 53 millones a Plus Ultra?](https://www.elperiodico.com/es/politica/20260526/ernesto-ekaizer-dimes-diretes-joyas-hizo-zapatero-130690324)<br>
+21:30 [Guía para no perderse con las negociaciones EEUU-Irán: esto es lo que esperan los expertos en acuerdos de paz](https://www.elperiodico.com/es/internacional/20260526/negociaciones-eeuu-iran-acuerdo-claves-situacion-130692019)<br>
+21:30 [Laberinto negociador](https://www.elperiodico.com/es/opinion/20260526/laberinto-negociador-eeuu-iran-editorial-130690232)<br>
+21:26 [El papa León XIV se pone a los mandos del primer modelo eléctrico de Ferrari](https://www.elperiodico.com/es/videos/internacional/papa-leon-mandos-primer-modelo-electrico-ferrari/130691962.shtml)<br>
+21:20 [La marcha de Alexia del Barça agita el mundo del fútbol: "La historia no hubiese sido la misma sin ti"](https://www.elperiodico.com/es/deportes/20260526/marcha-alexia-barca-agita-mundo-130656878)<br>
 21:10 [La NASA y Blue Origin iniciarán este año la construcción de una base en la Luna](https://www.elperiodico.com/es/sociedad/20260526/nasa-blue-origin-iniciaran-construccion-base-luna-130691594)<br>
 21:01 [La Nit del Galerisme distingue a Joan Gaspar y Rocío SantaCruz y homenajea a Francesc Torres, la Galería Mayoral y la Fundació Bassat](https://www.elperiodico.com/es/ocio-y-cultura/20260526/nit-galerisme-distingue-joan-gaspar-130681922)<br>
 21:01 [Volkswagen ID Polo, llega la hora de la electrificación](https://www.elperiodico.com/es/motor/20260526/volkswagen-id-polo-llega-hora-electrificacion-130636887)<br>
@@ -173,6 +195,7 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 12:20 [Márquez viaja a Mugello con la intención de reaparecer en el GP de Italia](https://www.elperiodico.com/es/deportes/20260526/marquez-viaja-mugello-intencion-reaparecer-130666014)<br>
 12:03 ['Spider-Noir' (Prime Video), un hombre araña detective en blanco y negro con el carisma de Nicolas Cage](https://www.elperiodico.com/es/ocio-y-cultura/20260526/spider-noir-serie-prime-video-entrevista-showrunner-130663510)<br>
 12:00 [De 140 a 83 euros: Amazon hunde el precio de este ventilador de pie de Rowenta que alcanza su mínimo histórico](https://www.elperiodico.com/es/shopping/20260526/amazon-ofertas-dia-mejores-rebajas-descuentos-productos-mas-buscados-130103428)<br>
+11:58 [El incendio del parque nacional de Doñana supera ya las 300 hectáreas afectadas y amenaza una zona "de gran valor ecológico"](https://www.elperiodico.com/es/sociedad/20260526/mantienen-amplio-dispositivo-incendio-activo-donana-almonte-130664261)<br>
 11:53 [Las sospechas contra Zapatero surgieron en 2024 al aparecer en un chat de empresarios imputados como "Z" o el "Zorro"](https://www.elperiodico.com/es/politica/20260526/sospechas-zapatero-surgieron-2024-chat-empresarios-zorro-130664978)<br>
 11:34 [El Mundo Today | La gira de Bad Bunny empieza a dar pérdidas por el alquiler de la casita en Barcelona](https://www.elperiodico.com/es/que-hacer/20260526/mundo-today-barcelona-gira-bad-bunny-perdidas-alquiler-casita-130663110)<br>
 10:58 [El juez imputa al agente de jugadores Minguella júnior y a excargos del Barça por el 'forensic' de Laporta](https://www.elperiodico.com/es/deportes/20260526/juez-imputado-minguella-pimentel-forensic-fc-barcelona-investigacion-malcom-130643070)<br>
