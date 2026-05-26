@@ -1,4 +1,4 @@
-# News for 2026-05-26 10:25
+# News for 2026-05-26 10:35
 
 Previous day: [2026-05-25](./data/2026-05-25.md)
 
@@ -40,6 +40,9 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 00:45 [ЗМІ дізналися, коли Іран планує відкрити Ормузьку протоку](https://ua.korrespondent.net/world/4881427-zmi-diznalysia-koly-iran-planuie-vidkryty-ormuzku-protoku)<br>
 
 ## www.elperiodico.com
+10:31 [Muere Sonny Rollins, el gran coloso del jazz moderno](https://www.elperiodico.com/es/ocio-y-cultura/20260526/muere-sonny-rollins-gran-coloso-130661013)<br>
+10:30 [La odisea de dos ballenas jorobadas: récord de travesía al nadar 14.000 kilómetros](https://www.elperiodico.com/es/medio-ambiente/20260526/odisea-ballenas-jorobadas-record-travesia-130661359)<br>
+10:28 [El juez Peinado cita a Begoña Gómez el 9 de junio a una audiencia preliminar para adoptar medidas que minimicen un riesgo de fuga](https://www.elperiodico.com/es/politica/20260526/juez-peinado-cita-begona-gomez-130661240)<br>
 10:23 [¿Cómo será el barrio de la Marina en el 2035?](https://www.elperiodico.com/es/mas-barcelona/20260526/como-sera-barrio-marina-2035-bc-130659258)<br>
 10:22 [Leo Messi sufre una sobrecarga en los isquiotibiales](https://www.elperiodico.com/es/deportes/20260526/messi-sufre-sobrecarga-isquiotibiales-130660766)<br>
 10:21 [Conducir estresa a 8 de cada 10 jóvenes en España](https://www.elperiodico.com/es/motor/20260526/conducir-estresa-8-10-jovenes-130629742)<br>
