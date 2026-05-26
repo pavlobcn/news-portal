@@ -1,8 +1,11 @@
-# News for 2026-05-26 10:09
+# News for 2026-05-26 10:25
 
 Previous day: [2026-05-25](./data/2026-05-25.md)
 
 ## ua.korrespondent.net
+10:22 [Другий випадок за місяць: у Башкортостані загорілася нафтобаза](https://ua.korrespondent.net/world/russia/4881490-druhyi-vypadok-za-misiats-u-bashkortostani-zahorilasia-naftobaza)<br>
+10:17 [На Закарпатті мобілізували сотні "мертвих душ"](https://ua.korrespondent.net/ukraine/4881489-na-zakarpatti-mobilizuvaly-sotni-mertvykh-dush)<br>
+10:09 [Новий рейтинг The Ring: Усик втримав пояс лідера](https://ua.korrespondent.net/sport/boks/4881486-novyi-reitynh-The-Ring-usyk-vtrymav-poias-lidera)<br>
 09:53 [На Донеччині у військового ЗСУ мати виявилась агенткою ФСБ](https://ua.korrespondent.net/ukraine/4881484-na-donechchyni-u-viiskovoho-zsu-maty-vyiavylas-ahentkoui-fsb)<br>
 09:52 [Оля Полякова відверто розповіла про ботокс, ліфтинг і косметологію](https://ua.korrespondent.net/lifestyle/4881483-olia-poliakova-vidverto-rozpovila-pro-botoks-liftynh-i-kosmetolohiui)<br>
 09:46 [У ЄС розділилися у питанні призначення переговірника з Росією - ЗМІ](https://ua.korrespondent.net/world/4881481-u-yes-rozdilylysia-u-pytanni-pryznachennia-perehovirnyka-z-rosiieui-zmi)<br>
@@ -37,6 +40,11 @@ Previous day: [2026-05-25](./data/2026-05-25.md)
 00:45 [ЗМІ дізналися, коли Іран планує відкрити Ормузьку протоку](https://ua.korrespondent.net/world/4881427-zmi-diznalysia-koly-iran-planuie-vidkryty-ormuzku-protoku)<br>
 
 ## www.elperiodico.com
+10:23 [¿Cómo será el barrio de la Marina en el 2035?](https://www.elperiodico.com/es/mas-barcelona/20260526/como-sera-barrio-marina-2035-bc-130659258)<br>
+10:22 [Leo Messi sufre una sobrecarga en los isquiotibiales](https://www.elperiodico.com/es/deportes/20260526/messi-sufre-sobrecarga-isquiotibiales-130660766)<br>
+10:21 [Conducir estresa a 8 de cada 10 jóvenes en España](https://www.elperiodico.com/es/motor/20260526/conducir-estresa-8-10-jovenes-130629742)<br>
+10:19 [Un nuevo incidente químico en la empresa Aqualimp de Manresa obliga a confinar un sector del polígono Bufalvent](https://www.elperiodico.com/es/sociedad/20260526/incidente-quimico-empresa-aqualimp-130660346)<br>
+10:09 [Una inversión de más de 300 millones de euros impulsará la primera planta de hidrógeno verde en Tarragona](https://www.elperiodico.com/es/tarragona/20260526/inversion-300-millones-euros-primera-planta-hidrogeno-verde-tarragona-130659599)<br>
 10:06 [José Abellán, cardiólogo y coautor de un estudio de TCA y adolescentes: "El uso de redes sociales se asocia a comportamientos compatibles con trastornos de la conducta alimentaria"](https://www.elperiodico.com/es/salud/20260526/jose-abellan-cardiologo-coautor-estudio-adolescentes-redes-sociales-tca-dv-130635943)<br>
 10:05 [Confirmado por el BOE: Servicio Militar voluntario para los jóvenes nacidos en 2007 y 2008](https://www.elperiodico.com/es/sociedad/20260526/vuelve-mili-boe-servicio-militar-voluntario-dv-130441138)<br>
 10:00 [Luis Enrique y su hija Sira Martínez: "Nunca hablamos de fútbol. Cuando nos sentamos a la mesa, cambiamos de tema".](https://www.elperiodico.com/es/gente/20260526/luis-enrique-hija-sira-martinez-dv-130602937)<br>
