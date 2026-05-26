@@ -180,8 +180,8 @@ function buildMarkdown(items, previousDayLabel) {
       const topicMatchProbability = getTopicMatchProbabilityValue(entry);
       const category = escapeMdText(getCategoryValue(entry));
       // DEBUG: Topic match info
-      // lines.push(`- ${topicMatchProbability} | ${topic} | ${category}<br>`);
-      lines.push(`- ${timeLabel} [${title}](${link})<br>`);
+      // lines.push(`${topicMatchProbability} | ${topic} | ${category}<br>`);
+      lines.push(`${timeLabel} [${title}](${link})<br>`);
     }
 
     lines.push("");
