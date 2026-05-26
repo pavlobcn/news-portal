@@ -1,8 +1,10 @@
-# News for 2026-05-26 06:23
+# News for 2026-05-26 06:37
 
 Previous day: [2026-05-25](./data/2026-05-25.md)
 
 ## ua.korrespondent.net
+-  |  | Новини України
+- 06:23 [Генштаб назвав втрати Росії станом на 26 травня](https://ua.korrespondent.net/ukraine/4881449-henshtab-nazvav-vtraty-rosii-stanom-na-26-travnia)
 - 0 |  | Новини України
 - 05:58 [Підсумки 25.05: Протидія ракетам і погрози Москви](https://ua.korrespondent.net/ukraine/4881425-pidsumky-2505-protydiia-raketam-i-pohrozy-moskvy)
 - 0 |  | Новини світу
