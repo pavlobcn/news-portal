@@ -1,8 +1,19 @@
-# News for 2026-05-27 20:39
+# News for 2026-05-27 22:54
 
 Previous day: [2026-05-26](./data/2026-05-26.md)
 
 ## ua.korrespondent.net
+22:36 [В США відреагували на новину про "проєкт угоди" з Іраном](https://ua.korrespondent.net/world/4882004-v-ssha-vidreahuvaly-na-novynu-pro-proiekt-uhody-z-iranom)<br>
+22:17 [Вінгер Ньюкасла має усну домовленість із Барселоною щодо переходу](https://ua.korrespondent.net/sport/football/4882001-vinher-nuikasla-maie-usnu-domovlenist-iz-barselonoui-schodo-perekhodu)<br>
+21:56 [Зеленський пояснив листування з Трампом](https://ua.korrespondent.net/ukraine/4881999-zelenskyi-poiasnyv-lystuvannia-z-trampom)<br>
+21:45 [Елітну київську квартиру нафтового бізнесмена РФ передано АРМА](https://ua.korrespondent.net/ukraine/4881997-elitnu-kyivsku-kvartyru-naftovoho-biznesmena-rf-peredano-arma)<br>
+21:20 [У Запоріжжі майор поліції зґвалтував неповнолітню](https://ua.korrespondent.net/ukraine/4881992-u-zaporizhzhi-maior-politsii-zgvaltuvav-nepovnolitnui)<br>
+21:14 [Sony представила останні телевізори Bravia перед злиттям з TCL](https://ua.korrespondent.net/lifestyle/gadgets/4881990-Sony-predstavyla-ostanni-televizory-Bravia-pered-zlyttiam-z-TCL)<br>
+21:12 [Визначена суддівська бригада на товариський матч збірної України](https://ua.korrespondent.net/sport/football/4881989-vyznachena-suddivska-bryhada-na-tovaryskyi-match-zbirnoi-ukrainy)<br>
+21:01 [Названо найпопулярніші кросовери травня в Україні](https://ua.korrespondent.net/business/auto/4881986-nazvano-naipopuliarnishi-krosovery-travnia-v-ukraini)<br>
+21:01 [По всій Україні повітряна тривога через зліт МіГ-31К](https://ua.korrespondent.net/ukraine/4881995-po-vsii-ukraini-povitriana-tryvoha-cherez-zlit-mih-31k)<br>
+20:53 [Зеленський анонсував нові далекобійні операції](https://ua.korrespondent.net/ukraine/4881985-zelenskyi-anonsuvav-novi-dalekobiini-operatsii)<br>
+20:43 [Лаціо відпустив головного тренера в інший клуб](https://ua.korrespondent.net/sport/football/4881982-latsio-vidpustyv-holovnoho-trenera-v-inshyi-klub)<br>
 20:29 [Пашинян пригрозив позбавити РФ контролю за залізницями Вірменії](https://ua.korrespondent.net/world/4881980-pashynian-pryhrozyv-pozbavyty-rf-kontrolui-za-zaliznytsiamy-virmenii)<br>
 20:06 [Вчені створили систему опріснення морської води без відходів](https://ua.korrespondent.net/tech/science/4881975-vcheni-stvoryly-systemu-oprisnennia-morskoi-vody-bez-vidkhodiv)<br>
 20:02 [Стародубцева обіграла дуже досвідчену суперницю в другому колі Ролан Гаррос](https://ua.korrespondent.net/sport/tenis/4881974-starodubtseva-obihrala-duzhe-dosvidchenu-supernytsui-v-druhomu-koli-rolan-harros)<br>
@@ -72,6 +83,7 @@ Previous day: [2026-05-26](./data/2026-05-26.md)
 00:21 [США відмовили у візі заступнику Лаврова](https://ua.korrespondent.net/world/4881725-ssha-vidmovyly-u-vizi-zastupnyku-lavrova)<br>
 
 ## as.com
+22:24 [El Panathinaikos desinfecta el OAKA tras la victoria del Olympiacos](https://as.com/baloncesto/euroliga/el-panathinaikos-desinfecta-el-oaka-tras-la-victoria-del-olympiacos-f202605-n/)<br>
 20:10 [Real Madrid - Baskonia, en directo: Liga Endesa de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/real-madrid-baskonia-en-directo-liga-endesa-de-baloncesto-2026-en-vivo-hoy-f202605-d/)<br>
 20:01 [Oficial: Xavi Pascual deja el Barça](https://as.com/baloncesto/acb/oficial-xavi-pascual-deja-el-barca-f202605-n/)<br>
 20:01 [Oficial: Xavi Pascual deja el Barça](https://as.com/baloncesto/acb/oficial-xavi-pascual-deja-el-barca-f202605-n/)<br>
@@ -85,6 +97,21 @@ Previous day: [2026-05-26](./data/2026-05-26.md)
 06:36 [Lyles encarece su continuidad en el Madrid](https://as.com/baloncesto/acb/lyles-encarece-su-continuidad-en-el-madrid-f202605-n/)<br>
 
 ## www.elperiodico.com
+22:52 [De lo espectacular a lo grave](https://www.elperiodico.com/es/opinion/20260527/espectacular-grave-juez-pedraz-psoe-investigacion-editorial-130735666)<br>
+22:42 [Paquito D'Rivera, Joshua Redman y Nils Landgren encabezan el 42º Festival de Jazz de Andorra](https://www.elperiodico.com/es/ocio-y-cultura/20260527/paquito-drivera-joshua-redman-nils-jazz-andorra-festival-130732975)<br>
+22:32 [Las mudanzas de Zapatero](https://www.elperiodico.com/es/opinion/20260527/mudanzas-zapatero-130725512)<br>
+22:32 [Sorteo Bonoloto del miércoles 27 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260527/sorteo-bonoloto-miercoles-27-mayo-130735603)<br>
+22:12 [El acuerdo del Sevilla con Sergio Ramos para la compra del club salta por los aires: las negociaciones se han roto](https://www.elperiodico.com/es/deportes/20260527/venta-sevilla-sergio-ramos-rota-130734330)<br>
+22:11 [La muerte de Matthew Perry, el caso que desentrañó el tráfico de ketamina en Hollywood](https://www.elperiodico.com/es/gente/20260527/muerte-matthew-perry-caso-desentrano-130735194)<br>
+22:11 [Dos grandes ligas pugnan por Alexia Putellas: "No pienso en el futuro"](https://www.elperiodico.com/es/deportes/20260527/grandes-ligas-pugnan-alexia-putellas-130728937)<br>
+22:07 [La justicia condena a tres años y cinco meses al asistente de Matthew Perry por su muerte](https://www.elperiodico.com/es/gente/20260527/meses-asistente-matthew-perry-muerte-justicia-condena-130735192)<br>
+21:40 [La caraba y la guerra de Irán que nunca acaba](https://www.elperiodico.com/es/opinion/20260527/caraba-guerra-iran-petroleo-negociaciones-acuerdo-130734851)<br>
+21:36 [La reina Sonia de Noruega, hospitalizada por problemas cardíacos](https://www.elperiodico.com/es/gente/20260527/reina-sonia-noruega-hospitalizada-problemas-cardiacos-130734572)<br>
+21:11 [Carmen Calvo: "Me parece una joya en estos tiempos que el Gobierno siga los dictámenes del Consejo de Estado al 99%"](https://www.elperiodico.com/es/politica/20260527/carmen-calvo-gobierno-sigue-dictamenes-consejo-estado-130734101)<br>
+21:02 [El último baile de La Reina: Alexia dice adiós al Barça en el Johan Cruyff con su última reverencia](https://www.elperiodico.com/es/deportes/20260527/ultimo-baile-reina-alexia-dice-130727666)<br>
+20:56 [Los cortes de carretera de los profesores tensionan una nueva reunión con el Govern que acaba sin acuerdo](https://www.elperiodico.com/es/sociedad/20260527/nueva-negociacion-sindicatos-educacion-govern-sin-acuerdo-tension-cortes-carreteras-huelga-130719562)<br>
+20:49 [Trump descarta un acuerdo que permita a Irán controlar el estrecho de Ormuz: “Si no ceden, acabaremos con ellos”](https://www.elperiodico.com/es/videos/internacional/trump-descarta-acuerdo-iran-controlar-estrecho-ormuz/130733649.shtml)<br>
+20:46 [Poco, tarde y mal](https://www.elperiodico.com/es/opinion/20260527/tarde-mal-supermercado-24-horas-colmados-ciutat-vella-articulo-jordi-punti-130733411)<br>
 20:34 [Trump rechaza un pacto que permita a Irán controlar el estrecho de Ormuz](https://www.elperiodico.com/es/internacional/20260527/trump-descarta-acuerdo-permita-iran-controlar-estrecho-ormuz-guerra-130733298)<br>
 20:32 [Las empresas del sector del deporte en Catalunya aumentan un 18,4% entre 2018 y 2024, según Pimec](https://www.elperiodico.com/es/economia/20260527/empresas-sector-deporte-catalunya-aumentan-130733243)<br>
 20:21 [Jaume Giró no se presentará a las primarias de Junts para ser candidato en Barcelona](https://www.elperiodico.com/es/politica/20260527/jaume-giro-candidato-junts-barcelona-primarias-elecciones-municipales-130732387)<br>
@@ -172,6 +199,7 @@ Previous day: [2026-05-26](./data/2026-05-26.md)
 13:00 [Monchi Fútbol Club](https://www.elperiodico.com/es/deportes/20260527/monchi-futbol-club-130708812)<br>
 12:58 [Huelga de profesores en Barcelona](https://www.elperiodico.com/es/fotos/en-imagenes/huelga-profesores-barcelona-130708836)<br>
 12:56 [Los ganaderos calculan más de 900 millones en pérdidas por la peste porcina: "Mientras haya jabalíes no estaremos tranquilos"](https://www.elperiodico.com/es/economia/20260527/ganaderos-calculan-900-millones-perdidas-peste-porcina-seis-meses-130708903)<br>
+12:54 [La crisis de la vivienda dispara un 22% las donaciones de padres a hijos en Catalunya, que alcanzan un máximo histórico](https://www.elperiodico.com/es/sociedad/20260527/donaciones-aumentan-catalunya-crisis-inmobiliaria-catalunya-130708420)<br>
 12:53 [Los 'Crims' de Carles Porta regresan con nueva temporada del pódcast y casos marcados por la premeditación](https://www.elperiodico.com/es/tele/20260527/crims-carles-porta-130706488)<br>
 12:38 [Riquelme anuncia "una reducción del 50% de la cuota al socio hasta que no se vuelva a ganar la Champions" y presenta "la Ciudad del Socio"](https://www.elperiodico.com/es/deportes/20260527/enrique-riquelme-elecciones-real-madrid-130707894)<br>
 12:07 [Tina Fey, de regreso con 'Las cuatro estaciones' (Netflix): "A la gente le gusta preocuparse por nuestros personajes"](https://www.elperiodico.com/es/ocio-y-cultura/20260527/tina-fey-will-forte-entrevista-netflix-las-cuatro-estaciones-nueva-temporada-130704346)<br>
