@@ -1,8 +1,17 @@
-# News for 2026-05-28 18:42
+# News for 2026-05-28 21:19
 
 Previous day: [2026-05-27](./data/2026-05-27.md)
 
 ## ua.korrespondent.net
+20:56 [МАГАТЕ зафіксувало збій зв’язку на ЗАЕС](https://ua.korrespondent.net/ukraine/4882291-mahate-zafiksuvalo-zbii-zviazku-na-zaes)<br>
+20:42 [У Мелітополі було атаковано будівлю ФСБ, є загиблі - соцмережі](https://ua.korrespondent.net/ukraine/4882287-u-melitopoli-bulo-atakovano-budivlui-fsb-ye-zahybli-sotsmerezhi)<br>
+20:20 [Каллас пояснила, чому ЄС не може бути посередником між Україною та РФ](https://ua.korrespondent.net/world/4882285-kallas-poiasnyla-chomu-yes-ne-mozhe-buty-poserednykom-mizh-ukrainoui-ta-rf)<br>
+19:55 [Зеленський зробив заяву щодо української балістики](https://ua.korrespondent.net/ukraine/4882281-zelenskyi-zrobyv-zaiavu-schodo-ukrainskoi-balistyky)<br>
+19:47 [Канада скасувала візи громадянам трьох країн Африки через Еболу](https://ua.korrespondent.net/world/4882278-kanada-skasuvala-vizy-hromadianam-trokh-krain-afryky-cherez-ebolu)<br>
+19:31 [У ЦПД назвали головне джерело фейків про мігрантів в Україні](https://ua.korrespondent.net/ukraine/4882277-u-tspd-nazvaly-holovne-dzherelo-feikiv-pro-mihrantiv-v-ukraini)<br>
+19:19 [Сейм Латвії затвердив новий уряд](https://ua.korrespondent.net/world/4882273-seim-latvii-zatverdyv-novyi-uriad)<br>
+19:01 [Росіяни поранили 12 осіб на Дніпропетровщині](https://ua.korrespondent.net/ukraine/4882267-rosiiany-poranyly-12-osib-na-dnipropetrovschyni)<br>
+18:46 [ЗСУ взяли в полон іноземців з 48 країн світу - МЗС](https://ua.korrespondent.net/ukraine/4882263-zsu-vzialy-v-polon-inozemtsiv-z-48-krain-svitu-mzs)<br>
 18:27 [США та Іран узгодили 60-денний меморандум - ЗМІ](https://ua.korrespondent.net/world/4882258-ssha-ta-iran-uzghodyly-60-dennyi-memorandum-zmi)<br>
 18:20 [Росіяни безуспішно намагались завербувати 13 школярів з Житомира](https://ua.korrespondent.net/ukraine/4882255-rosiiany-bezuspishno-namahalys-zaverbuvaty-13-shkoliariv-z-zhytomyra)<br>
 18:02 [Долар відступив від рекордних максимумів в Україні](https://ua.korrespondent.net/business/financial/4882253-dolar-vidstupyv-vid-rekordnykh-maksymumiv-v-ukraini)<br>
@@ -65,6 +74,8 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 00:46 [Трамп зробив заяву про угоду з Іраном](https://ua.korrespondent.net/world/4882025-tramp-zrobyv-zaiavu-pro-uhodu-z-iranom)<br>
 
 ## as.com
+20:43 [Giannakopoulos da la razón al Madrid con el arbitraje](https://as.com/baloncesto/euroliga/giannakopoulos-da-la-razon-al-madrid-con-el-arbitraje-f202605-n/)<br>
+19:20 [Garuba ya piensa en la recuperación](https://as.com/baloncesto/euroliga/garuba-ya-piensa-en-la-recuperacion-f202605-n/)<br>
 15:41 [El Tenerife cambia Champions por Eurocup](https://as.com/baloncesto/eurocup/el-tenerife-cambia-champions-por-eurocup-f202605-n/)<br>
 13:32 [María Conde brilla en la WNBA](https://as.com/baloncesto/mas_baloncesto/maria-conde-brilla-en-la-wnba-f202605-n/)<br>
 12:26 [“No hay una guerra entre Pascual y el Barça”](https://as.com/baloncesto/no-hay-una-guerra-entre-pascual-y-el-barca-f202605-n/)<br>
@@ -74,6 +85,17 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 08:44 [Olympiacos-Knicks, duelo en la cumbre](https://as.com/baloncesto/euroliga/olympiacos-knicks-duelo-en-la-cumbre-f202605-n/)<br>
 
 ## www.elperiodico.com
+20:52 [El periodista y escritor Álex Grijelmo, candidato a ocupar la silla 'o' de la RAE](https://www.elperiodico.com/es/ocio-y-cultura/20260528/periodista-escritor-alex-grijelmo-candidato-silla-rae-130776763)<br>
+20:44 [El ruido electromagnético de las ciudades altera el comportamiento de los murciélagos](https://www.elperiodico.com/es/sociedad/20260528/ruido-electromagnetico-ciudades-altera-comportamiento-murcielagos-130776638)<br>
+20:30 [El ‘gemelo digital’ se expande a Catalunya y guiará al sector inmobiliario en la construcción de 50.000 parcelas](https://www.elperiodico.com/es/barcelona/20260528/gemelo-digital-expande-catalunya-guiara-sector-inmobiliario-construccion-50000-parcelas-130774929)<br>
+20:28 [Las 8 bazas de la defensa de Jonathan Andic: artrosis en las rodillas de Isak, "pena social anticipada" e indicios "contaminados"](https://www.elperiodico.com/es/sociedad/20260528/claves-defensa-jonathan-andic-vio-buena-relacion-130771739)<br>
+20:27 [El Supremo absuelve a la teniente coronel Ruth Obregón y desmonta seis años de sospechas en el Gómez Ulla](https://www.elperiodico.com/es/sociedad/20260528/supremo-absuelve-teniente-coronel-gomez-ulla-hospital-130776309)<br>
+20:14 [Los Bomberos trabajan en el incendio de Òrrius y lo consideran como un fuego industrial](https://www.elperiodico.com/es/fotos/en-imagenes/bomberos-incendio-orrius-consideran-fuego-fotos-130775868)<br>
+20:09 [Muere Héctor, el niño de 4 años de Cáceres que dio voz al Tay-Sachs infantil en España](https://www.elperiodico.com/es/sociedad/20260528/muere-hector-tay-sachs-infantil-caceres-130775389)<br>
+20:01 [Descubierto el secreto de las palomas para orientarse: tienen 'sensores' en el hígado alineados con el campo magnético terrestre](https://www.elperiodico.com/es/sociedad/20260528/palomas-sensores-campo-magnetico-terrestre-higado-estudio-130767581)<br>
+19:52 [Sumar amenazó a Sánchez con abrir un frente en el Gobierno si no comparecía en el Congreso 'motu proprio': "O lo hacía él o lo pedíamos nosotros"](https://www.elperiodico.com/es/politica/20260528/sumar-amenazo-sanchez-abrir-frente-130775133)<br>
+19:30 [Plataforma per la Llengua denuncia la gentrificación lingüística del Poblenou: 26% de rótulos en inglés y 78% de atención en castellano](https://www.elperiodico.com/es/barcelona/20260528/catalan-retrocede-comercios-gentrificacion-poblenou-130750054)<br>
+19:21 [La Generalitat gastará en cultura 76,8 euros por habitante en 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260528/generalitat-cultura-presupuesto-incremento-consellera-hernandez-130773233)<br>
 18:40 [Edreams mejora resultados y se dispara en bolsa el 11,3%](https://www.elperiodico.com/es/economia/20260528/edreams-mejora-resultados-dispara-bolsa-130772125)<br>
 18:40 [España roza los 40 grados en una de las jornadas de mayo más cálidas desde que hay registros](https://www.elperiodico.com/es/sociedad/20260528/espana-40-grados-jueves-calor-balance-aemet-meteocat-130768608)<br>
 18:37 [La Generalitat valenciana avisa de los 'castigos' para los profesores que no se presenten a la PAU](https://www.elperiodico.com/es/educacion/20260528/consell-recuerda-castigos-docentes-selectividad-130771939)<br>
@@ -98,10 +120,13 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 16:26 [La defensa de Jonathan Andic recurre contra la prisión provisional y aduce que el fundador de Mango tenía una dolencia en las rodillas](https://www.elperiodico.com/es/sociedad/20260528/defensa-jonathan-andic-prision-fianza-mango-caida-muerte-130704287)<br>
 16:23 [La propuesta "definitiva" de Educació eleva casi 400 euros al mes la subida salarial docente y a 7.000 las contrataciones para la inclusiva](https://www.elperiodico.com/es/sociedad/20260528/propuesta-definitiva-educacio-eleva-400-euros-sueldo-docentes-huelga-130755713)<br>
 16:16 [España recibirá favipiravir, un antiviral experimental japonés contra el hantavirus](https://www.elperiodico.com/es/sanidad/20260528/espana-recibira-favipiravir-antiviral-experimental-130763339)<br>
+16:02 [El maravilloso error](https://www.elperiodico.com/es/opinion/20260528/maravilloso-error-inteligencia-artificial-articulo-juan-tallon-130763703)<br>
+15:52 [Cantar 'La Balanguera'](https://www.elperiodico.com/es/opinion/20260528/cantar-balanguera-himno-articulo-josep-maria-fonalleras-130731163)<br>
 15:47 [Seis meses para ver al traumatólogo y más de tres para una endoscopia: Metges de Catalunya avisa de que las listas de espera están "peor"](https://www.elperiodico.com/es/sanidad/20260528/seis-meses-ver-traumatologo-tres-endoscopia-cataluna-empeoramiento-listas-espera-sindicato-metges-cataluna-130761963)<br>
 15:46 [‘Downsizing’ inmobiliario: cada vez más jubilados se plantean vivir en casas más pequeñas para gastar menos](https://www.elperiodico.com/es/economia/20260528/downsizing-inmobiliario-jubilados-vivir-casas-mas-pequenas-gastar-menos-dv-130762304)<br>
 15:30 [La industria cárnica catalana vende un 128% más a Corea y un 257% más a Vietnam en plena crisis de la peste porcina](https://www.elperiodico.com/es/economia/20260528/industria-carnica-catalana-crecen-exportaciones-corea-vietnam-peste-porcina-130741348)<br>
 14:55 [Sateliot pide una política industrial europea "a la americana", con menos ayudas y más contratos](https://www.elperiodico.com/es/economia/20260528/sateliot-pide-politica-industrial-europea-130761305)<br>
+14:54 [La industria de defensa reclama más capital, talento y consorcios para ganar escala en España y Europa](https://www.elperiodico.com/es/economia/20260528/industria-defensa-reclama-capital-talento-130761288)<br>
 14:42 [Israel escala su ofensiva contra el Líbano con un ataque en una zona de Beirut fuera de la influencia de Hezbolá](https://www.elperiodico.com/es/internacional/20260528/israel-escala-ofensiva-libano-ataque-130760684)<br>
 14:25 [Telefónica reafirma su apuesta por la defensa](https://www.elperiodico.com/es/economia/20260528/telefonica-reafirma-apuesta-defensa-130755780)<br>
 14:25 [La Guardia Urbana de L’Hospitalet requisa 373 patinetes eléctricos en cinco meses, más que en todo 2025](https://www.elperiodico.com/es/barcelona/20260528/guardia-urbana-hospitalet-requisa-requisa-373-patinetes-electricos-cinco-meses-mas-que-todo-2025-130758439)<br>
@@ -118,6 +143,7 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 14:02 [Giro de Italia, etapa 18: Fai della Paganella - Pieve di Soligo, en directo](https://www.elperiodico.com/es/deportes/ciclismo/20260528/giro-italia-etapa-18-fai-130757020)<br>
 14:02 ["Lo que pasa en Mallorca, se queda en Mallorca": el polémico anuncio alemán en el aeropuerto de Palma que indigna a la isla](https://www.elperiodico.com/es/sociedad/20260528/pasa-mallorca-queda-mallorca-polemico-cartel-aeropuerto-palma-dvl-130757699)<br>
 13:58 [La imagen de Carmen Machi junto a su pareja que rompe con años de discreción](https://www.elperiodico.com/es/gente/20260528/carmen-machi-pareja-imagen-medalla-oro-merito-bellas-artes-dv-130743053)<br>
+13:58 [Asistentes al II Foro Prensa Ibérica sobre Paz y Seguridad en Europa](https://www.elperiodico.com/es/fotos/en-imagenes/asistentes-ii-foro-prensa-iberica-130755688)<br>
 13:50 [Penélope Cruz, Javier Bardem e incluso Messi: esta playa de Catalunya es la preferida por muchos famosos para desconectar y relajarse](https://www.elperiodico.com/es/catalunya/20260528/costa-brava-calella-de-palafrugell-calas-playas-penelope-cruz-javier-bardem-messi-girona-dv-loc-130754773)<br>
 13:46 [Vídeo | Las defensas piden las nulidades en el caso David Sánchez](https://www.elperiodico.com/es/videos/politica/video-defensas-piden-nulidades-caso/130758036.shtml)<br>
 13:43 [Más de 6.000 policías, cortes de tráfico y llegada en coche descubierto a la Sagrada Familia: así será el viaje del Papa a Catalunya](https://www.elperiodico.com/es/sociedad/20260528/6-000-policias-cortes-trafico-130755062)<br>
@@ -155,6 +181,7 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 12:00 [¿Necesitas tomar anticoagulantes como el Sintrom? Recuerda lo que dice el especialista](https://www.elperiodico.com/es/salud/20260528/anticoagulantes-sintrom-consejos-precauciones-95043071)<br>
 11:57 [Los profesores catalanes ganarían 548 euros más al mes en 2029 al sumar la última oferta del Govern y la subida estatal](https://www.elperiodico.com/es/sociedad/20260528/sueldos-profesores-aumento-negociacion-educacion-cataluna-130744956)<br>
 11:54 [El Govern empieza a entregar las ayudas de hasta 15.000 euros al mes previstas en la ley ELA](https://www.elperiodico.com/es/sociedad/20260528/presupuestos-generalitat-2026-govern-empieza-entregar-ayudas-ley-ela-130741515)<br>
+11:45 [Algo falla](https://www.elperiodico.com/es/opinion/20260528/falla-130748069)<br>
 11:38 [Ferrocarrils de la Generalitat pide perdón a un usuario: "El tren ha salido 5 segundos antes de su horario. Disculpe las molestias"](https://www.elperiodico.com/es/catalunya/20260528/ferrocarrils-generalitat-renfe-rodalies-retrasos-perdon-twitter-dv-loc-130747087)<br>
 11:34 [Jesús Carrasco, escritor: "Si el éxito de 'Intemperie' me hubiese pillado con 20 no sé si lo hubiera superado"](https://www.elperiodico.com/es/ocio-y-cultura/20260528/jesus-carrasco-escritor-exito-intemperie-130747350)<br>
 11:27 [Márquez recibe un permiso provisional solo para probarse mañana en Mugello](https://www.elperiodico.com/es/deportes/20260528/marquez-recibira-hoy-permiso-provisional-130746019)<br>
