@@ -1,8 +1,14 @@
-# News for 2026-05-28 21:19
+# News for 2026-05-28 23:24
 
 Previous day: [2026-05-27](./data/2026-05-27.md)
 
 ## ua.korrespondent.net
+23:20 [Петер Мадяр озвучив позицію щодо зброї для України](https://ua.korrespondent.net/world/4882313-peter-madiar-ozvuchyv-pozytsiui-schodo-zbroi-dlia-ukrainy)<br>
+22:24 [До трупа вивів собака: у Запоріжжі сталося моторошне вбивство](https://ua.korrespondent.net/city/zaporozhye/4882307-do-trupa-vyviv-sobaka-u-zaporizhzhi-stalosia-motoroshne-vbyvstvo)<br>
+21:55 [Генштаб оновив дані про ситуацію на фронті](https://ua.korrespondent.net/ukraine/4882304-henshtab-onovyv-dani-pro-sytuatsiui-na-fronti)<br>
+21:43 [Українські пілоти вже проходять навчання на Gripen - міністр оборони Швеції](https://ua.korrespondent.net/ukraine/4882299-ukrainski-piloty-vzhe-prokhodiat-navchannia-na-Gripen-ministr-oborony-shvetsii)<br>
+21:35 [Вчені відтворили останні години світу динозаврів після падіння астероїда](https://ua.korrespondent.net/tech/science/4882297-vcheni-vidtvoryly-ostanni-hodyny-svitu-dynozavriv-pislia-padinnia-asteroida)<br>
+21:23 [Чохли для складаного iPhone розкрили дизайн майбутнього смартфона Apple](https://ua.korrespondent.net/lifestyle/gadgets/4882294-chokhly-dlia-skladanoho-iPhone-rozkryly-dyzain-maibutnoho-smartfona-Apple)<br>
 20:56 [МАГАТЕ зафіксувало збій зв’язку на ЗАЕС](https://ua.korrespondent.net/ukraine/4882291-mahate-zafiksuvalo-zbii-zviazku-na-zaes)<br>
 20:42 [У Мелітополі було атаковано будівлю ФСБ, є загиблі - соцмережі](https://ua.korrespondent.net/ukraine/4882287-u-melitopoli-bulo-atakovano-budivlui-fsb-ye-zahybli-sotsmerezhi)<br>
 20:20 [Каллас пояснила, чому ЄС не може бути посередником між Україною та РФ](https://ua.korrespondent.net/world/4882285-kallas-poiasnyla-chomu-yes-ne-mozhe-buty-poserednykom-mizh-ukrainoui-ta-rf)<br>
@@ -85,6 +91,9 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 08:44 [Olympiacos-Knicks, duelo en la cumbre](https://as.com/baloncesto/euroliga/olympiacos-knicks-duelo-en-la-cumbre-f202605-n/)<br>
 
 ## www.elperiodico.com
+22:33 [Oportunidad y retos para la paz y seguridad](https://www.elperiodico.com/es/opinion/20260528/oportunidad-retos-paz-seguridad-foro-prensa-iberica-editorial-130778556)<br>
+22:18 [Sant Adrià augura que las obras de Inditex y las Tres Xemeneies serán una “revolución” para el área de Barcelona](https://www.elperiodico.com/es/barcelona/20260528/sant-adria-obras-inditex-tres-xemeneies-filo-canete-130778259)<br>
+21:31 [Diez detenidos en una redada antiyihadista en cinco provincias](https://www.elperiodico.com/es/politica/20260528/diez-detenidos-redada-antiyihadista-cinco-provincias-130777782)<br>
 20:52 [El periodista y escritor Álex Grijelmo, candidato a ocupar la silla 'o' de la RAE](https://www.elperiodico.com/es/ocio-y-cultura/20260528/periodista-escritor-alex-grijelmo-candidato-silla-rae-130776763)<br>
 20:44 [El ruido electromagnético de las ciudades altera el comportamiento de los murciélagos](https://www.elperiodico.com/es/sociedad/20260528/ruido-electromagnetico-ciudades-altera-comportamiento-murcielagos-130776638)<br>
 20:30 [El ‘gemelo digital’ se expande a Catalunya y guiará al sector inmobiliario en la construcción de 50.000 parcelas](https://www.elperiodico.com/es/barcelona/20260528/gemelo-digital-expande-catalunya-guiara-sector-inmobiliario-construccion-50000-parcelas-130774929)<br>
