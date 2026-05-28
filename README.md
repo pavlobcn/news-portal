@@ -1,10 +1,12 @@
-# News for 2026-05-28 23:24
+# News for 2026-05-29 00:50
 
 Previous day: [2026-05-27](./data/2026-05-27.md)
 
 ## ua.korrespondent.net
+23:49 [Федоров говорив з конгресменами США про ракети для Patriot](https://ua.korrespondent.net/ukraine/4882316-fedorov-hovoryv-z-konhresmenamy-ssha-pro-rakety-dlia-Patriot)<br>
 23:20 [Петер Мадяр озвучив позицію щодо зброї для України](https://ua.korrespondent.net/world/4882313-peter-madiar-ozvuchyv-pozytsiui-schodo-zbroi-dlia-ukrainy)<br>
 22:24 [До трупа вивів собака: у Запоріжжі сталося моторошне вбивство](https://ua.korrespondent.net/city/zaporozhye/4882307-do-trupa-vyviv-sobaka-u-zaporizhzhi-stalosia-motoroshne-vbyvstvo)<br>
+22:19 [Карта Європи. Переговори про мир і нові учасники](https://ua.korrespondent.net/ukraine/4882321-karta-yevropy-perehovory-pro-myr-i-novi-uchasnyky)<br>
 21:55 [Генштаб оновив дані про ситуацію на фронті](https://ua.korrespondent.net/ukraine/4882304-henshtab-onovyv-dani-pro-sytuatsiui-na-fronti)<br>
 21:43 [Українські пілоти вже проходять навчання на Gripen - міністр оборони Швеції](https://ua.korrespondent.net/ukraine/4882299-ukrainski-piloty-vzhe-prokhodiat-navchannia-na-Gripen-ministr-oborony-shvetsii)<br>
 21:35 [Вчені відтворили останні години світу динозаврів після падіння астероїда](https://ua.korrespondent.net/tech/science/4882297-vcheni-vidtvoryly-ostanni-hodyny-svitu-dynozavriv-pislia-padinnia-asteroida)<br>
