@@ -1,8 +1,27 @@
-# News for 2026-05-28 07:40
+# News for 2026-05-28 11:03
 
 Previous day: [2026-05-27](./data/2026-05-27.md)
 
 ## ua.korrespondent.net
+10:51 [На Харківщині 16-річний школяр коригував удари РФ](https://ua.korrespondent.net/city/kharkov/4882113-na-kharkivschyni-16-richnyi-shkoliar-koryhuvav-udary-rf)<br>
+10:46 [Українська ведуча показала свою матір](https://ua.korrespondent.net/lifestyle/4882112-ukrainska-veducha-pokazala-svoui-matir)<br>
+10:42 [Посольство США підтвердило, що залишається в Києві](https://ua.korrespondent.net/ukraine/4882109-posolstvo-ssha-pidtverdylo-scho-zalyshaietsia-v-kyievi)<br>
+10:39 [Інсайдер розкрив ім'я майбутнього опонента Ломаченка](https://ua.korrespondent.net/sport/boks/4882107-insaider-rozkryv-imia-maibutnoho-oponenta-lomachenka)<br>
+10:30 [На Харківщині ліквідували найманця із Нігерії](https://ua.korrespondent.net/ukraine/4882105-na-kharkivschyni-likviduvaly-naimantsia-iz-niherii)<br>
+10:18 [Генштаб заявив про удари Storm Shadow по Росії](https://ua.korrespondent.net/ukraine/4882102-henshtab-zaiavyv-pro-udary-Storm-Shadow-po-rosii)<br>
+10:13 [Страсті Христові Мела Гібсона отримали продовження](https://ua.korrespondent.net/showbiz/cinema/4882100-strasti-khrystovi-mela-hibsona-otrymaly-prodovzhennia)<br>
+10:03 [Президент Реала дотепно відповів на питання про повернення Моурінью](https://ua.korrespondent.net/sport/football/4882094-prezydent-reala-dotepno-vidpoviv-na-pytannia-pro-povernennia-mourinui)<br>
+10:01 [Помер зірка серіалу Емілі в Парижі](https://ua.korrespondent.net/lifestyle/4882096-pomer-zirka-serialu-emili-v-paryzhi)<br>
+09:58 [Росія і Талібан домовилися про військову співпрацю](https://ua.korrespondent.net/world/russia/4882095-rosiia-i-taliban-domovylysia-pro-viiskovu-spivpratsui)<br>
+09:49 [Помічника Меттью Перрі засудили у справі про смерть актора](https://ua.korrespondent.net/lifestyle/4882092-pomichnyka-mettui-perri-zasudyly-u-spravi-pro-smert-aktora)<br>
+09:46 [Відключення світла охопили 12 областей України](https://ua.korrespondent.net/ukraine/4882090-vidkluichennia-svitla-okhopyly-12-oblastei-ukrainy)<br>
+09:40 [На Чернігівщині фермери загинули під час спроби розібрати дрон](https://ua.korrespondent.net/ukraine/4882088-na-chernihivschyni-fermery-zahynuly-pid-chas-sproby-rozibraty-dron)<br>
+09:31 [МЗС зробило заяву щодо посольства США](https://ua.korrespondent.net/ukraine/4882085-mzs-zrobylo-zaiavu-schodo-posolstva-ssha)<br>
+09:22 [Путіна на офіційній зустрічі назвали "Пал Лаїчем"](https://ua.korrespondent.net/world/russia/4882083-putina-na-ofitsiinii-zustrichi-nazvaly-pal-laichem)<br>
+09:05 [Рома вступила в боротьбу за вінгера Марселя](https://ua.korrespondent.net/sport/football/4882076-roma-vstupyla-v-borotbu-za-vinhera-marselia)<br>
+08:58 [Відновлення ударів між США та Іраном: стали відомі подробиці](https://ua.korrespondent.net/world/4882078-vidnovlennia-udariv-mizh-ssha-ta-iranom-staly-vidomi-podrobytsi)<br>
+08:52 [У моторошній ДТП загинула блогерка Vikunciy](https://ua.korrespondent.net/lifestyle/4882075-u-motoroshnii-dtp-zahynula-bloherka-Vikunciy)<br>
+08:33 [WBA офіційно призначила Девісу обов'язкового претендента](https://ua.korrespondent.net/sport/boks/4882073-WBA-ofitsiino-pryznachyla-devisu-oboviazkovoho-pretendenta)<br>
 07:29 [Кількість боїв на фронті росте - Генштаб](https://ua.korrespondent.net/ukraine/4882060-kilkist-boiv-na-fronti-roste-henshtab)<br>
 07:12 [Біля Вінниці знайшли спалене авто з тілом у салоні](https://ua.korrespondent.net/ukraine/4882058-bilia-vinnytsi-znaishly-spalene-avto-z-tilom-u-saloni)<br>
 06:53 [Трамп публічно підтримав Пашиняна перед виборами в Вірменії](https://ua.korrespondent.net/world/4882055-tramp-publichno-pidtrymav-pashyniana-pered-vyboramy-v-virmenii)<br>
@@ -25,13 +44,57 @@ Previous day: [2026-05-27](./data/2026-05-27.md)
 00:53 [Захисник Ліверпуля стане гравцем Тоттенгема](https://ua.korrespondent.net/sport/football/4882026-zakhysnyk-liverpulia-stane-hravtsem-tottenhema)<br>
 00:46 [Трамп зробив заяву про угоду з Іраном](https://ua.korrespondent.net/world/4882025-tramp-zrobyv-zaiavu-pro-uhodu-z-iranom)<br>
 
+## as.com
+08:44 [Olympiacos-Knicks, duelo en la cumbre](https://as.com/baloncesto/euroliga/olympiacos-knicks-duelo-en-la-cumbre-f202605-n/)<br>
+
 ## www.elperiodico.com
+11:00 [El restaurante favorito de Ferran Adrià está en el pueblo más bonito de Aragón: "Gracias por valorar una cocina hecha desde el territorio"](https://www.elperiodico.com/es/sociedad/20260528/restaurante-favorito-ferran-adria-pueblo-aragon-dv-130713634)<br>
+11:00 [Los artistas españoles generaron 156 millones de euros en 'royalties' a través de Spotify durante 2025](https://www.elperiodico.com/es/ocio-y-cultura/20260528/artistas-espanoles-generaron-156-millones-130745589)<br>
+10:51 [Militantes feministas irrumpen en obra de teatro de Patrick Bruel al grito de "violador"](https://www.elperiodico.com/es/ocio-y-cultura/20260528/militantes-feministas-irrumpen-obra-teatro-130745418)<br>
+10:51 [¿Por qué el ictus no está incluido entre las enfermedades que pueden acogerse a la jubilación anticipada? "Supone una forma de discriminación"](https://www.elperiodico.com/es/sanidad/20260528/ictus-incluido-enfermedades-acogerse-jubilacion-anticipada-forma-discriminacion-130743248)<br>
+10:46 [Danilo Díazgranados (62 años): el bróker del chavismo, consuegro del cantante Luis Miguel, en el caso de Zapatero](https://www.elperiodico.com/es/politica/20260528/danilo-diazgranados-62-anos-broker-chavismo-130745343)<br>
+10:46 [Carlos Franganillo y Lara Síscar presentarán el acto del Papa León XIV en Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20260528/carlos-franganillo-lara-siscar-presentaran-130745213)<br>
+10:46 [Esteban (PNV): "La legislatura ha llegado a su fin" y el "interés general" demanda elecciones](https://www.elperiodico.com/es/politica/20260528/esteban-pnv-legislatura-llegado-interes-130745275)<br>
+10:43 [El juez del caso Plus Ultra investiga si el jefe superior de Canarias, Jesús Gómez, borró la ficha policial del hijo de un bróker chavista](https://www.elperiodico.com/es/politica/20260528/juez-caso-plus-ultra-investiga-130745148)<br>
+10:42 [Illa, ante las investigaciones judiciales que cercan al PSOE: "Si alguien cree que nos doblegará, no lo logrará"](https://www.elperiodico.com/es/politica/20260528/salvador-illa-investigaciones-causas-judiciales-psoe-psc-doblegara-no-lo-lograra-130742348)<br>
+10:39 [Muere un trabajador tras golpearse con la pala de una retroexcavadora en un túnel de Cercanías de Madrid](https://www.elperiodico.com/es/videos/sucesos/muere-trabajador-golpearse-pala-retroexcavadora-madrid/130744859.shtml)<br>
+10:36 [Muere Pierre Deny, actor de la serie Emily en París](https://www.elperiodico.com/es/gente/20260528/muere-pierre-deny-actor-emily-en-paris-dv-130742835)<br>
+10:35 [La nueva generación del Fiat 500 Hybrid completa la gama del icónico modelo italiano](https://www.elperiodico.com/es/motor/20260528/nueva-generacion-fiat-500-hybrid-completa-gama-iconico-modelo-italiano-130685279)<br>
+10:35 [Catalunya bate un récord de calor nocturno y se adentra en la jornada más cálida de este episodio de calor extremo para un mes de mayo](https://www.elperiodico.com/es/sociedad/20260528/cataluna-record-calor-nocturno-mayo-portbou-prevision-temperaturas-jueves-130743304)<br>
+10:34 [Aitor Moll: "No habrá prosperidad sin seguridad, no habrá una Europa fuerte si no es capaz de defenderse"](https://www.elperiodico.com/es/economia/20260528/aitor-moll-prosperidad-seguridad-europa-defensa-prensa-iberica-ii-forum-sobre-pau-i-seguretat-a-europa-130744322)<br>
+10:29 [Llega el pico de calor en Catalunya: máximas que pueden alcanzar los 35ºC en estas zonas](https://www.elperiodico.com/es/catalunya/20260528/tiempo-cataluna-temperaturas-barcelona-lluvias-calor-dv-loc-130743698)<br>
+10:26 [Aulas que parecen hornos: las familias catalanas reclaman medidas urgentes para combatir el calor en los colegios](https://www.elperiodico.com/es/sociedad/20260528/familias-cataluna-medidas-calor-extremo-colegios-130743117)<br>
+10:19 [David Sánchez llega a la Audiencia de Badajoz entre la expectación mediática y ciudadana](https://www.elperiodico.com/es/politica/20260528/david-sanchez-juicio-audiencia-badajoz-expectacion-130743690)<br>
+10:15 [El epidemiólogo Daniel López Acuña alerta: "La gripe aviar es una de las posibles futuras pandemias"](https://www.elperiodico.com/es/sociedad/20260528/daniel-lopez-acuna-epidemiologo-gripe-aviar-posible-futura-pandemia-130601520)<br>
+10:11 [Kallas alerta de la "trampa" de Rusia sobre quién representaría a la UE en las negociaciones de paz con Ucrania](https://www.elperiodico.com/es/internacional/20260528/kallas-alerta-trampa-rusia-representaria-ue-negociaciones-de-paz-130743252)<br>
+10:06 [Melody desvela su gran reto internacional: cantará en la final del Mundial de Fútbol 2026](https://www.elperiodico.com/es/tele/yotele/20260528/melody-desvela-gran-reto-internacional-cantara-final-mundial-futbol-2026-130742428)<br>
+10:01 [El oasis secreto de paseo de Gràcia escondido dentro de una tienda Guess](https://www.elperiodico.com/es/videos/que-hacer/oasis-secreto-paseo-gracia-escondido/130742960.shtml)<br>
+10:01 [Sigue en directo el II Foro Prensa Ibérica sobre paz y seguridad en Europa](https://www.elperiodico.com/es/economia/20260528/foro-defensa-el-periodico-prensa-iberica-barcelona-directo-130742928)<br>
+09:57 [Junts descarta que las investigaciones contra el PSOE sean "lawfare": "Hay indicios, no es un invento"](https://www.elperiodico.com/es/politica/20260528/junts-investigaciones-psoe-psc-lawfare-casos-zapatero-130742209)<br>
+09:55 [EEUU ataca una base iraní y Teherán responde con el bombardeo a otra estadounidense](https://www.elperiodico.com/es/videos/internacional/eeuu-ataca-base-irani-teheran/130742262.shtml)<br>
+09:52 [DIRECTO | El ex número dos de Interior, Francisco Martínez, comparece en el juicio de la Kitchen](https://www.elperiodico.com/es/videos/politica/directo-exministro-jorge-fernandez-comparece-juicio-kitchen/130742768.shtml)<br>
+09:30 [Aulas a 35º: por qué los colegios protegen peor del calor que las granjas de pollos](https://www.elperiodico.com/es/sociedad/20260528/calor-colegios-falta-climatizacion-126658982)<br>
+09:23 [El Pentágono adjudica un contrato de 9.700 millones de dólares a Dell y Microsoft para digitalizar el ejército de EEUU](https://www.elperiodico.com/es/internacional/20260528/pentagono-adjudica-contrato-millones-dell-microsoft-digitalizar-ejercito-estados-unidos-nube-trump-guerra-130742149)<br>
+09:07 [Rafa Mir llega a la Ciudad de la Justicia en València para ser juzgado por agresión sexual](https://www.elperiodico.com/es/deportes/20260528/rafa-mir-pablo-jara-sientan-juez-acusados-violar-dos-jovenes-130741260)<br>
+09:06 [El Barça ficha a Anthony Gordon en una operación relámpago por 70 millones más variables](https://www.elperiodico.com/es/videos/deportes/barca-ficha-anthony-gordon-operacion/130741511.shtml)<br>
+09:05 [Dan Buettner, experto en longevidad: "La jardinería te mantiene activo a diario sin sentir que haces ejercicio"](https://www.elperiodico.com/es/salud/20260528/dan-buettner-experto-longevidad-actividad-fisica-cultivo-huerto-dv-130594570)<br>
+09:04 [Cuatro detenidos y 150 identificados en una operación contra la multirreincidencia en Sant Martí](https://www.elperiodico.com/es/sucesos/20260528/cuatro-detenidos-150-identificados-operacion-barcelona-multirreincidentes-kanpai-130741387)<br>
+08:50 [El cuñado del expresidente Quim Torra, a un paso de ingresar en prisión por fraude a Hacienda](https://www.elperiodico.com/es/videos/politica/cunado-expresidente-quim-torra-paso/130741183.shtml)<br>
+08:39 [El petróleo rebota con fuerza y las bolsas giran a la baja tras el ataque iraní a una base de EEUU](https://www.elperiodico.com/es/economia/20260528/petroleo-rebota-fuerza-bolsas-giran-130741060)<br>
+08:18 [Xerta: el restaurante de Barcelona que abre la puerta a la cocina de las Terres de l'Ebre cumple una década](https://www.elperiodico.com/es/gastronomia/restaurantes/20260528/restaurante-xerta-barcelona-hotel-ohla-130399320)<br>
+08:17 [Menú del día: Cal Gausac, 'castells' con fundamento en Sant Cugat del Vallès](https://www.elperiodico.com/es/gastronomia/restaurantes/20260528/cal-gausac-restaurante-sant-cugat-menu-dia-130705199)<br>
+08:16 [Tast a la Rambla ofrece tapas de restaurantes con estrella Michelin a 6 €](https://www.elperiodico.com/es/gastronomia/20260528/tast-rambla-2026-barcelona-plaza-catalunya-130646849)<br>
+08:12 [María Pombo amplía sus negocios hacia el 'skincare' con YUZZ, su nuevo refresco con vitamina C y ácido hialurónico](https://www.elperiodico.com/es/gente/20260528/maria-pombo-yuzz-refresco-skincare-acido-hialuronico-vitamina-c-mahou-san-miguel-130740324)<br>
+08:00 [Ficosa recibe el Premio Desarrollo Tecnológico](https://www.elperiodico.com/es/motor/20260528/ficosa-recibe-premio-desarrollo-tecnologico-gala-neomotor-130714586)<br>
+08:00 [Desde jardines secretos hasta piscinas: estos son los mejores interiores de ‘illa’ de Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260528/jardines-secretos-piscinas-mejores-interiores-illa-barcelona-130723392)<br>
+08:00 [Carles Porta busca a los padres de tres niños abandonados en Barcelona en 1984: "Fue una montaña rusa"](https://www.elperiodico.com/es/tele/20260528/abandonados-carles-porta-disney-hermanos-documental-130007399)<br>
 07:39 [Irán bombardea una base estadounidense en respuesta a un ataque previo](https://www.elperiodico.com/es/internacional/20260528/iran-bombardea-base-estadounidense-respuesta-ataque-previo-130739573)<br>
 07:25 [La UCO entra en la sede del PSOE en Ferraz, en directo | Última hora de la comparecencia de Sánchez y la entrada en la sede de la Guardia Civil](https://www.elperiodico.com/es/politica/20260528/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522)<br>
 07:00 [Tan solo un fallo técnico](https://www.elperiodico.com/es/tele/20260528/fallo-tecnico-130719471)<br>
 07:00 [La tienda del paseo de Gràcia con un patio escondido de postal: “Puedes olvidar que estás en Barcelona”](https://www.elperiodico.com/es/que-hacer/planes/20260528/jardin-secreto-patio-barcelona-tienda-guess-paseo-gracia-130720913)<br>
 07:00 [Las pymes empiezan a buscar alternativas a la banca tradicional para cobrar: “Las criptomonedas ya entran en la conversación”](https://www.elperiodico.com/es/economia/20260528/pymes-alternativas-banca-tradicional-criptomonedas-130717102)<br>
 07:00 [LEGO lanza el mítico BMW M3 E30 en versión Speed Champions por el 40 aniversario del icono alemán](https://www.elperiodico.com/es/motor/20260528/lego-lanza-mitico-bmw-m3-130702648)<br>
+07:00 [Las mejores barras con estrellas de Barcelona](https://www.elperiodico.com/es/gastronomia/restaurantes/20260528/mejores-barras-restaurantes-estrellas-michelin-barcelona-108361706)<br>
 06:54 [Así convierte GRAVITEO el Circuit de Barcelona-Catalunya en el mayor encuentro de skate, scooter y roller de España](https://www.elperiodico.com/es/deportes/20260528/convierte-graviteo-circuit-barcelona-catalunya-bc-130738964)<br>
 06:34 [Aliseda y Servihabitat se imponen a Hipoges, Intrum y Clikalia en el contrato de gestión de los activos de Sareb](https://www.elperiodico.com/es/economia/20260528/aliseda-servihabitat-sareb-130738837)<br>
 06:30 [El camping convierte los paisajes de Girona en el destino del año para ir de vacaciones](https://www.elperiodico.com/es/economia/20260528/mejores-campings-girona-costa-brava-pirineo-bc-130531949)<br>
