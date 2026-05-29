@@ -1,8 +1,25 @@
-# News for 2026-05-29 12:35
+# News for 2026-05-29 15:47
 
 Previous day: [2026-05-28](./data/2026-05-28.md)
 
 ## ua.korrespondent.net
+15:36 [Росіяни атакували об'єкти Нафтогазу на Харківщині та Сумщині](https://ua.korrespondent.net/ukraine/4882502-rosiiany-atakuvaly-obiekty-naftohazu-na-kharkivschyni-ta-sumschyni)<br>
+15:10 [НАТО готує фортецю на Балтиці на випадок атаки Путіна - Politico](https://ua.korrespondent.net/world/4882490-nato-hotuie-fortetsui-na-baltytsi-na-vypadok-ataky-putina-Politico)<br>
+15:07 [Олена Зеленська відвідала Книжковий Арсенал і розповіла, які книги придбала](https://ua.korrespondent.net/lifestyle/4882488-olena-zelenska-vidvidala-knyzhkovyi-arsenal-i-rozpovila-yaki-knyhy-prydbala)<br>
+15:01 [Фільм Мстислава Чернова 2000 метрів до Андріївки здобув премію Еммі](https://ua.korrespondent.net/showbiz/cinema/4882486-film-mstyslava-chernova-2000-metriv-do-andriivky-zdobuv-premiui-emmi)<br>
+14:59 [Туск закликав Україну і Польщу не сваритися через минуле](https://ua.korrespondent.net/world/4882483-tusk-zaklykav-ukrainu-i-polschu-ne-svarytysia-cherez-mynule)<br>
+14:56 [У мережі розсекретили всі кольори iPhone 18 Pro](https://ua.korrespondent.net/tech/technews/4882480-u-merezhi-rozsekretyly-vsi-kolory-iPhone-18-Pro)<br>
+14:42 [Румунія закриває консульство РФ у Констанці](https://ua.korrespondent.net/world/4882476-rumuniia-zakryvaie-konsulstvo-rf-u-konstantsi)<br>
+14:41 [Ісландія обігнала Швейцарію: Bloomberg назвав найдорожчу країну світу](https://ua.korrespondent.net/lifestyle/travel/4882475-islandiia-obihnala-shveitsariui-Bloomberg-nazvav-naidorozhchu-krainu-svitu)<br>
+14:34 [Під автомагістраллю в Італії знайшли стародавні храми та таємничі написи](https://ua.korrespondent.net/tech/science/4882472-pid-avtomahistrallui-v-italii-znaishly-starodavni-khramy-ta-taiemnychi-napysy)<br>
+14:29 [Ольга Сумська висловилася про спілкування з донькою, яка живе в Росії](https://ua.korrespondent.net/lifestyle/4882469-olha-sumska-vyslovylasia-pro-spilkuvannia-z-donkoui-yaka-zhyve-v-rosii)<br>
+14:28 [На НПЗ у Волгограді масштабні ураження - Генштаб](https://ua.korrespondent.net/ukraine/4882467-na-npz-u-volhohradi-masshtabni-urazhennia-henshtab)<br>
+14:28 [ЗСУ спростували захоплення росіянами Нововасилівки на Харківщині](https://ua.korrespondent.net/ukraine/4882468-zsu-sprostuvaly-zakhoplennia-rosiianamy-novovasylivky-na-kharkivschyni)<br>
+14:23 [Євген Кошовий опублікував фото з донькою](https://ua.korrespondent.net/lifestyle/4882465-yevhen-koshovyi-opublikuvav-foto-z-donkoui)<br>
+14:18 [Ніколас Кейдж офіційно змінив ім’я](https://ua.korrespondent.net/lifestyle/4882462-nikolas-keidzh-ofitsiino-zminyv-imia)<br>
+14:00 [У Брюсселі затвердили графік переговорів щодо членства України в ЄС](https://ua.korrespondent.net/articles/4882442-u-bruisseli-zatverdyly-hrafik-perehovoriv-schodo-chlenstva-ukrainy-v-yes)<br>
+14:00 [Удар по Румунії: чому військові не збили "шахед"](https://ua.korrespondent.net/world/4882456-udar-po-rumunii-chomu-viiskovi-ne-zbyly-shakhed)<br>
+13:56 [Зеленський попередив про новий масований удар РФ](https://ua.korrespondent.net/ukraine/4882455-zelenskyi-poperedyv-pro-novyi-masovanyi-udar-rf)<br>
 12:29 [Румунія викликала посла РФ після удару дрона](https://ua.korrespondent.net/world/4882424-rumuniia-vyklykala-posla-rf-pislia-udaru-drona)<br>
 12:27 [СБС показали удари по цілях росіян у Криму та ТОТ](https://ua.korrespondent.net/ukraine/4882422-sbs-pokazaly-udary-po-tsiliakh-rosiian-u-krymu-ta-tot)<br>
 12:17 [Рейтинг Трампа впав до рекордного мінімуму](https://ua.korrespondent.net/world/4882419-reitynh-trampa-vpav-do-rekordnoho-minimumu)<br>
@@ -39,9 +56,48 @@ Previous day: [2026-05-28](./data/2026-05-28.md)
 00:43 [У Волгограді скаржаться на масовану атаку БПЛА](https://ua.korrespondent.net/world/russia/4882327-u-volhohradi-skarzhatsia-na-masovanu-ataku-bpla)<br>
 00:21 [США застерегли РФ від масованих ударів по Києву](https://ua.korrespondent.net/world/4882319-ssha-zasterehly-rf-vid-masovanykh-udariv-po-kyievu)<br>
 
+## as.com
+13:53 [Grecia también opina sobre la final de la Euroliga: “Ningún arbitraje te da una falta por la patada de Campazzo”](https://as.com/baloncesto/euroliga/grecia-tambien-opina-sobre-la-final-de-la-euroliga-ningun-arbitraje-te-da-una-falta-por-la-patada-de-campazzo-f202605-n/)<br>
+
 ## www.elperiodico.com
+15:43 [Una previa caída de Andic, en vídeo](https://www.elperiodico.com/es/videos/sociedad/previa-caida-andic-video/130806621.shtml)<br>
+15:42 [VIDEO / La caída de Isak Andic en Mutua Universal meses antes de su muerte en Collbató](https://www.elperiodico.com/es/sociedad/20260529/video-tropiezo-isak-andic-mutua-universal-mango-130806090)<br>
+15:39 [La Dreta de l'Eixample denuncia que la compra especulativa de fincas ha crecido un 22% en dos años](https://www.elperiodico.com/es/barcelona/eixample/20260529/dreta-leixample-denuncia-compra-especulativa-130805785)<br>
+15:31 [El déficit público se reduce a 4.310 millones en el primer trimestre, un 31,2 % menos](https://www.elperiodico.com/es/economia/20260529/deficit-publico-reduce-4-310-130806219)<br>
+15:30 [Las jornadas unificadas, por Enrique Ballester](https://www.elperiodico.com/es/deportes/20260529/jornadas-unificadas-enrique-ballester-130805802)<br>
+15:21 [Letizia inaugura la Feria del Libro en un Madrid loco por el Papa y Bad Bunny](https://www.elperiodico.com/es/politica/20260529/letizia-feria-libro-madrid-bad-bunny-papa-leon-xiv-130805861)<br>
+15:18 [El vídeo de una caída previa de Isak Andic](https://www.elperiodico.com/es/videos/sociedad/video-caida-previa-isak-andic-video/130805663.shtml)<br>
+15:09 [Bruselas autoriza a España a dar ayudas de hasta 9.000 millones a las eléctricas para montar un nuevo sistema ‘antiapagones’](https://www.elperiodico.com/es/economia/20260529/bruselas-autoriza-espana-ayudas-9000-millones-electricas-sistema-antiapagones-130805193)<br>
+15:06 [El mejor camping de Europa 2026 está en Catalunya: bungalows premium y acceso directo a la playa](https://www.elperiodico.com/es/catalunya/20260529/cataluna-camping-mejor-europa-2026-salou-resort-dv-loc-130804525)<br>
+15:02 [Puig subraya que no está en venta y defiende su potencial tras la ruptura con Estée Lauder](https://www.elperiodico.com/es/videos/economia/puig-subraya-venta-defiende-potencial/130804719.shtml)<br>
+15:00 [De hoteles a drones](https://www.elperiodico.com/es/opinion/20260529/hoteles-drones-turismo-articulo-marti-saballs-pons-130803257)<br>
+14:56 [Muere el filólogo y exdirector de la RAE José Manuel Blecua Perdices, Creu de Sant Jordi en 2014](https://www.elperiodico.com/es/ocio-y-cultura/20260529/muere-el-filologo-aragones-y-exdirector-de-la-rae-jose-manuel-blecua-perdices-130804601)<br>
+14:54 [Una imputada en el caso Montoro justifica los pagos al despacho fundado por el exministro](https://www.elperiodico.com/es/politica/20260529/juez-tarragona-montoro-declaracion-imputada-130804458)<br>
+14:26 [La prohibición de fumar en las playas se amplía a una veintena de ciudades del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260529/prohibicion-fumar-playas-amplia-veintena-ciudades-area-barcelona-130799997)<br>
+14:23 [El PP liderará las acusaciones populares en el Caso Zapatero](https://www.elperiodico.com/es/politica/20260529/pp-liderara-acusaciones-populares-caso-130802829)<br>
+14:19 [El TSJC anula un plan urbanístico de Colau que fuerza más vivienda pública en Gràcia](https://www.elperiodico.com/es/barcelona/20260529/tsjc-anula-plan-urbanistico-colau-vivienda-publica-gracia-130795667)<br>
+14:18 [Los colegios profesionales reclaman coordinar recursos y aprobar la nueva ley para erradicar el sinhogarismo](https://www.elperiodico.com/es/sociedad/20260529/colegios-profesionales-reclaman-coordinar-recursos-aprobar-nueva-ley-erradicar-sinhogarismo-130794525)<br>
+14:16 [Una acción judicial de Ecologistes en Acció pide suspender unas obras en el gran pulmón verde de Badalona](https://www.elperiodico.com/es/barcelona/20260529/ecologistas-accion-lleva-tribunales-proyecto-urbanizacion-parque-can-solei-i-ca-larnus-badalona-130793323)<br>
+14:15 [Barcelona se compromete a limitar la entrada de turistas a los búnkers del Turó de la Rovira](https://www.elperiodico.com/es/barcelona/20260529/barcelona-turo-rovira-control-entrada-turistas-130801142)<br>
+14:13 ["No es sostenible": la Comisión Europea cuestiona su relación comercial con China](https://www.elperiodico.com/es/internacional/20260529/sostenible-comision-europea-cuestiona-relacion-comercial-ue-inversion-china-ciberseguridad-130801969)<br>
+14:02 [La defensa de Jonathan Andic carga contra los Mossos: "El investigador del caso ha falseado e inventado pruebas, ha hecho una caza al hombre"](https://www.elperiodico.com/es/sociedad/20260529/defensa-jonathan-andic-carga-mossos-inventa-falsea-pruebas-mango-isak-130796066)<br>
+13:57 [Jesús Tortosa: "Es posible que esta sea una prueba que se consolide en Alcobendas"](https://www.elperiodico.com/es/videos/deportes/jesus-tortosa-posible-sea-prueba/130800834.shtml)<br>
+13:57 ["Si no pagas la hipoteca del pub, le quitamos la casa a tu padre": así inventó el tardeo Alfonso Gómez](https://www.elperiodico.com/es/sociedad/20260529/alfonso-gomez-inventor-tardeo-albacete-abrir-tardes-130792711)<br>
+13:46 [Un mapa de la Aemet muestra cuáles son las zonas de España con más riesgo de nubes el día del eclipse del 12 de agosto](https://www.elperiodico.com/es/sociedad/20260529/eclipse-solar-12-agosto-probabilidad-nubes-espana-analisis-aemet-130789169)<br>
+13:44 [Un reconocimiento a las empresas que ayudan a crecer a la Región](https://www.elperiodico.com/es/sociedad/20260529/reconocimiento-empresas-ayudan-crecer-region-bc-130799768)<br>
+13:33 [La primera ola de calor del año deja al menos 64 muertes prematuras atribuibles a las altas temperaturas en España](https://www.elperiodico.com/es/sociedad/20260529/primera-ola-calor-ano-deja-muertes-prematuras-atribuibles-altas-temperaturas-130791062)<br>
+13:29 [Represión turca, pasividad europea](https://www.elperiodico.com/es/opinion/20260529/represion-turca-pasividad-europea-130798044)<br>
+13:29 [El PP pide a los socios de Gobierno que llamen a Sánchez y digan "esto se ha acabado"](https://www.elperiodico.com/es/videos/politica/pp-pide-socios-gobierno-llamen-sanchez/130798404.shtml)<br>
+13:23 [Sondeo CIS: El 45% de los españoles avalan el principio de 'prioridad nacional' en el acceso a las ayudas públicas](https://www.elperiodico.com/es/politica/20260529/encuesta-cis-prioridad-nacional-pp-vox-130797958)<br>
+13:13 [La Seguridad Social subirá hasta 125 euros al mes algunas pensiones de viudedad](https://www.elperiodico.com/es/economia/20260529/seguridad-social-subira-125-euros-mes-1700-ano-pensiones-viudedad-dv-130796303)<br>
+13:06 [Puig zanja sin matices la fusión con Estée Lauder: "No estamos en venta, la familia permanecerá como accionista a largo plazo"](https://www.elperiodico.com/es/economia/20260529/puig-zanja-matices-fusion-estee-lauder-no-estamos-en-venta-130796701)<br>
+13:06 [El mapa del tardeo: nació en Albacete, fue bautizado en Murcia y explotó en la Comunidad Valenciana](https://www.elperiodico.com/es/sociedad/20260529/mapa-tardeo-albacete-valencia-madrid-barcelona-espana-130771468)<br>
+13:01 [Así es el hotel especializado en cabañas de madera con jacuzzi y piscinas climatizadas en bosques catalanes](https://www.elperiodico.com/es/que-hacer/planes/20260529/hotel-cabanas-madera-jacuzzi-bosques-catalunya-130788784)<br>
+13:00 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260529/hoy-barcelona-agenda-actividades-planes-semana-102304377)<br>
+12:37 [Último baile bien agarrado](https://www.elperiodico.com/es/deportes/20260529/ultimo-baile-agarrado-130794760)<br>
 12:30 [Desaparece en Barcelona una joven de 17 años: los Mossos mantienen una investigación abierta para localizarla](https://www.elperiodico.com/es/barcelona/20260529/desaparecida-julia-17-anos-poble-sec-montjuic-130789622)<br>
 12:30 [Lexus concreta la autonomía, capacidad de carga y acabados del nuevo ES](https://www.elperiodico.com/es/motor/20260529/lexus-es-2026-autonomia-capacidad-carga-gama-acabados-130788391)<br>
+12:30 [Los municipios de Tarragona ajustan sus proyectos para tener más éxito en la segunda convocatoria del Pla de Barris](https://www.elperiodico.com/es/tarragona/20260529/municipios-tarragona-proyectos-exito-pla-barris-generalitat-130794500)<br>
 12:28 [Mahou San Miguel sigue diversificando su negocio con su entrada en la categoría de refrescos funcionales](https://www.elperiodico.com/es/economia/20260529/mahou-san-miguel-bebidas-funcionales-130794607)<br>
 12:28 [Las imágenes de la Virgen de la Almudena y el Cristo de Medinaceli procesionarán por el Bernabéu para recibir al Papa](https://www.elperiodico.com/es/sociedad/20260529/virgen-almudena-procesionaran-bernabeu-papa-leonxiv-130793853)<br>
 12:25 [La víctima que destapó el 'caso Montserrat' pide al Papa que no visite la Abadía por ser "la zona cero de la pederastia clerical"](https://www.elperiodico.com/es/sociedad/20260529/victima-montserrat-pide-papa-cancelar-visita-abadia-130789870)<br>
@@ -76,9 +132,11 @@ Previous day: [2026-05-28](./data/2026-05-28.md)
 10:35 [Vídeo | Las exigencias de Vox para pactar con Juanma Moreno](https://www.elperiodico.com/es/videos/politica/video-exigencias-vox-pactar-juanma/130787976.shtml)<br>
 10:30 [La Airef valida que España controla el gasto en pensiones y las cuotas de los trabajadores no subirán](https://www.elperiodico.com/es/economia/20260529/pensiones-airef-valida-espana-gasto-130787286)<br>
 10:22 [Los jóvenes de entre 23 y 29 años que vivan con sus padres podrán recibir esta ayuda de 700 euros](https://www.elperiodico.com/es/economia/20260529/seguridad-social-ingreso-minimo-vital-733-euros-jovenes-casa-padres-2026-dv-129034982)<br>
+10:20 [Los gimnasios detectan ya el cambio de tendencia antes del verano: "Cada vez menos pagan la cuota y no vienen"](https://www.elperiodico.com/es/salud/20260529/gimnasios-detectan-cambio-tendencia-verano-ejercicio-fisico-dv-130573824)<br>
 10:06 [Vuelve a Santa Susanna el festival neonazi Chaos in the Sun este viernes entre críticas y denuncias](https://www.elperiodico.com/es/barcelona/20260529/festival-neonazi-cataluna-chaos-in-the-sun-sin-permisos-130784809)<br>
 10:05 [El mensaje de la reina Letizia en el Día Mundial Sin Tabaco](https://www.elperiodico.com/es/videos/sanidad/mensaje-reina-letizia-dia-mundial-sin-tabaco/130786172.shtml)<br>
 10:03 [A Estrada: rito ancestral y placer gastronómico](https://www.elperiodico.com/es/vida-y-estilo/20260529/estrada-rito-ancestral-placer-gastronomico-bc-130786129)<br>
+09:59 [Marta Carnicero, en el videopódcast del suplemento 'ABRIL': "Yo siempre les doy las gracias a mis lectores porque me han dedicado tiempo"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260529/marta-carnicero-videopodcast-suplemento-abril-130666842)<br>
 09:58 [ESTIMAR Hotels: cuatro maneras de vivir el verano](https://www.elperiodico.com/es/vida-y-estilo/20260529/estimar-hotels-cuatro-maneras-vivir-bc-130785864)<br>
 09:57 [VÍDEO | La reina Letizia combate la moda del vapeo con un 'trabalenguas químico' de sustancias tóxicas](https://www.elperiodico.com/es/politica/20260529/reina-letizia-tabaco-trabalenguas-sustancias-toxicas-vapeadores-130785836)<br>
 09:55 [La catedral de Toledo celebra ocho siglos con una exposición irrepetible](https://www.elperiodico.com/es/vida-y-estilo/20260529/catedral-toledo-celebra-ocho-siglos-bc-130785781)<br>
@@ -103,6 +161,7 @@ Previous day: [2026-05-28](./data/2026-05-28.md)
 07:00 ['Corredora' retrata la enfermedad mental en el deporte de élite: "Damos mucho valor a la autoexigencia, pero eso pasa factura"](https://www.elperiodico.com/es/ocio-y-cultura/20260529/corredora-enfermedad-mental-deporte-competicion-laura-garcia-alonso-130763305)<br>
 07:00 [TVyMAS Viernes 29](https://www.elperiodico.com/es/videos/tele/tvymas-viernes-29/130761906.shtml)<br>
 07:00 [Los agresores machistas reincidentes recurren antes a la violencia cuando sus parejas son mayores que ellos](https://www.elperiodico.com/es/sociedad/20260529/mujeres-mayores-riesgo-violencia-genero-130722222)<br>
+06:30 [Barcelona se conoce a través de la cultura](https://www.elperiodico.com/es/que-hacer/20260529/agenda-cultural-barcelona-verano-2026-bc-130394328)<br>
 06:10 [Laporta pone todos los huevos en la misma cesta](https://www.elperiodico.com/es/deportes/20260529/laporta-pone-huevos-cesta-130779868)<br>
 06:01 [Los Puig venden la mitad de una de sus torres de oficinas en Barcelona a Colonial](https://www.elperiodico.com/es/economia/20260529/puig-colonial-oficinas-barcelona-130776685)<br>
 06:01 [Los radares con inteligencia artificial llegan a España a partir de junio](https://www.elperiodico.com/es/motor/20260529/radares-inteligencia-artificial-llegan-espana-130749416)<br>
