@@ -1,8 +1,23 @@
-# News for 2026-05-29 15:47
+# News for 2026-05-29 19:04
 
 Previous day: [2026-05-28](./data/2026-05-28.md)
 
 ## ua.korrespondent.net
+18:37 [У ДР Конго зафіксували перше одужання під час нового спалаху Еболи](https://ua.korrespondent.net/world/4882550-u-dr-konho-zafiksuvaly-pershe-oduzhannia-pid-chas-novoho-spalakhu-eboly)<br>
+18:36 [Трамп скликав Ситуаційну кімнату щодо Ірану](https://ua.korrespondent.net/world/4882549-tramp-sklykav-sytuatsiinu-kimnatu-schodo-iranu)<br>
+18:36 [Середня зарплата в Україні у квітні виросла на 0,5% - Держстат](https://ua.korrespondent.net/ukraine/4882554-serednia-zarplata-v-ukraini-u-kvitni-vyrosla-na-05-derzhstat)<br>
+18:29 [Нацбанк встановив курс валют на перший день літа](https://ua.korrespondent.net/business/financial/4882547-natsbank-vstanovyv-kurs-valuit-na-pershyi-den-lita)<br>
+18:00 [Путін і лідери ЄАЕС вимагають референдум у Вірменії](https://ua.korrespondent.net/world/russia/4882536-putin-i-lidery-yeaes-vymahauit-referendum-u-virmenii)<br>
+17:58 [Світовий банк надає Україні $880 млн на соцзахист](https://ua.korrespondent.net/business/financial/4882537-svitovyi-bank-nadaie-ukraini-880-mln-na-sotszakhyst)<br>
+17:34 [У Росії уражено важливий об'єкт розвідки - СБУ](https://ua.korrespondent.net/ukraine/4882532-u-rosii-urazheno-vazhlyvyi-obiekt-rozvidky-sbu)<br>
+17:17 [Встановлено особу десантника РФ, який застрелив цивільного в Бучі](https://ua.korrespondent.net/ukraine/4882530-vstanovleno-osobu-desantnyka-rf-yakyi-zastrelyv-tsyvilnoho-v-buchi)<br>
+17:16 [В окупованому Криму зник бензин на АЗС](https://ua.korrespondent.net/ukraine/4882527-v-okupovanomu-krymu-znyk-benzyn-na-azs)<br>
+16:51 [Спецслужби ліквідували канал контрабанди з Абхазії](https://ua.korrespondent.net/ukraine/4882524-spetssluzhby-likviduvaly-kanal-kontrabandy-z-abkhazii)<br>
+16:45 [Зеленський змінив склад Ставки](https://ua.korrespondent.net/ukraine/4882523-zelenskyi-zminyv-sklad-stavky)<br>
+16:44 [Експравоохоронців з Дніпра підозрюють у катуванні](https://ua.korrespondent.net/city/dnepr/4882519-ekspravookhorontsiv-z-dnipra-pidozruiuit-u-katuvanni)<br>
+16:34 [Нова ніч терору. РФ готує "символічний" обстріл](https://ua.korrespondent.net/ukraine/4882518-nova-nich-teroru-rf-hotuie-symvolichnyi-obstril)<br>
+16:27 [У відомого українського гумориста діагностували біполярний розлад](https://ua.korrespondent.net/lifestyle/4882500-u-vidomoho-ukrainskoho-humorysta-diahnostuvaly-bipoliarnyi-rozlad)<br>
+16:19 [Росія вперше оголосила ракетну небезпеку на Ямалі](https://ua.korrespondent.net/world/4882515-rosiia-vpershe-oholosyla-raketnu-nebezpeku-na-yamali)<br>
 15:36 [Росіяни атакували об'єкти Нафтогазу на Харківщині та Сумщині](https://ua.korrespondent.net/ukraine/4882502-rosiiany-atakuvaly-obiekty-naftohazu-na-kharkivschyni-ta-sumschyni)<br>
 15:10 [НАТО готує фортецю на Балтиці на випадок атаки Путіна - Politico](https://ua.korrespondent.net/world/4882490-nato-hotuie-fortetsui-na-baltytsi-na-vypadok-ataky-putina-Politico)<br>
 15:07 [Олена Зеленська відвідала Книжковий Арсенал і розповіла, які книги придбала](https://ua.korrespondent.net/lifestyle/4882488-olena-zelenska-vidvidala-knyzhkovyi-arsenal-i-rozpovila-yaki-knyhy-prydbala)<br>
@@ -57,9 +72,36 @@ Previous day: [2026-05-28](./data/2026-05-28.md)
 00:21 [США застерегли РФ від масованих ударів по Києву](https://ua.korrespondent.net/world/4882319-ssha-zasterehly-rf-vid-masovanykh-udariv-po-kyievu)<br>
 
 ## as.com
+18:57 [Baxi Manresa - Real Madrid, en directo: última jornada de la Liga ACB baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/baxi-manresa-real-madrid-en-directo-ultima-jornada-de-la-liga-acb-baloncesto-2026-en-vivo-hoy-f202605-d/)<br>
 13:53 [Grecia también opina sobre la final de la Euroliga: “Ningún arbitraje te da una falta por la patada de Campazzo”](https://as.com/baloncesto/euroliga/grecia-tambien-opina-sobre-la-final-de-la-euroliga-ningun-arbitraje-te-da-una-falta-por-la-patada-de-campazzo-f202605-n/)<br>
 
 ## www.elperiodico.com
+19:00 [Las Fuerzas de Seguridad ponen el foco en las drogas altamente tóxicas del 'chemsex'](https://www.elperiodico.com/es/sociedad/20260529/chemsex-drogas-peligrosas-alerta-130810651)<br>
+18:57 [Mucho ruido, pocas nueces](https://www.elperiodico.com/es/opinion/20260529/ruido-nueces-zapatero-golpe-blando-derecha-130815700)<br>
+18:53 [La peor cara de la ola de calor que ha azotado a Asturias: 24 muertos a causa de las altas temperaturas en mayo](https://www.elperiodico.com/es/sociedad/20260529/ola-calor-azotado-asturias-130815684)<br>
+18:49 [El cuartel de El Bruc abre puertas para mostrar en Barcelona blindados, armamento y habilidades de los ejércitos](https://www.elperiodico.com/es/politica/20260529/cuartel-bruc-abre-mostrar-medios-ejercito-jornada-puertas-abiertas-130814019)<br>
+18:48 [España sumará medio millón de ocupados y 90.000 parados con la regularización de migrantes](https://www.elperiodico.com/es/economia/20260529/regularizacion-masiva-inmigrantes-resultados-empleo-paro-informe-airef-130813861)<br>
+18:46 [Profesores en huelga sacan las aulas a la calle en València: “Luchando también estamos educando”](https://www.elperiodico.com/es/educacion/20260529/profesores-huelga-sacan-aulas-calle-130815419)<br>
+18:32 [Catalunya alcanza máximas de 39,5 grados en Vinebre y bate su récord absoluto de calor para un mes de mayo](https://www.elperiodico.com/es/sociedad/20260529/cataluna-record-calor-mes-mayo-meteocat-130814012)<br>
+18:30 [Aurelio Rojas, cardiólogo, advierte de que dormir con varias almohadas es la primera señal de alarma:  "Puede que el corazón no funcione bien"](https://www.elperiodico.com/es/salud/20260529/aurelio-rojas-cardiologo-alerta-dormir-varias-almohadas-problemas-del-corazon-dv-130577066)<br>
+18:05 [Javier Cercas, con la mano de Dios y el lápiz de Lenin en el Cornellà Creació Fòrum](https://www.elperiodico.com/es/ocio-y-cultura/20260529/javier-cercas-mano-dios-lapiz-130805244)<br>
+18:03 [Catalunya reclamará al Gobierno central los 72 millones que lleva gastados en combatir la peste porcina](https://www.elperiodico.com/es/economia/20260529/catalunya-reclamara-gobierno-central-dinero-gastado-peste-porcina-130794551)<br>
+18:00 [El tobogán de agua más alto de Europa está en España y ya puedes visitarlo](https://www.elperiodico.com/es/vida-y-estilo/20260529/tobogan-agua-alto-europa-espana-parque-acuatico-dv-130700551)<br>
+18:00 [Pilar García de la Granja, economista: "Los pensionistas deberían ser responsables también y ser conscientes"](https://www.elperiodico.com/es/economia/20260529/pilar-garcia-granja-experta-economica-pensionistas-responsables-jubilacion-dv-130096518)<br>
+17:48 [Una ballena rorcual de unos ocho metros queda varada en la bahía de los Alfacs, en el delta del Ebro](https://www.elperiodico.com/es/videos/sociedad/ballena-rorcual-ocho-metros-queda/130812502.shtml)<br>
+17:33 [El cadáver de la famosa ballena Timmy podría explotar en la costa de Dinamarca](https://www.elperiodico.com/es/videos/sociedad/cadaver-famosa-ballena-timmy-explotar/130811899.shtml)<br>
+17:32 [Prioridades nacionales](https://www.elperiodico.com/es/opinion/20260529/prioridades-nacionales-130811688)<br>
+17:30 [Los Mossos buscan a Pedro Antonio, desparecido el 26 de mayo en Badalona](https://www.elperiodico.com/es/barcelona/20260529/mossos-buscan-pedro-antonio-desparecido-26-de-mayo-badalona-130811529)<br>
+17:28 [Territori reserva una partida para instalar aerogeneradores en el golfo de Roses e impulsar la Agència de la Natura](https://www.elperiodico.com/es/sociedad/20260529/presupuestos-aerogeneradores-roses-parque-eolico-agencia-natura-130810674)<br>
+17:28 [Los graduados en FP salen con empleo casi seguro, pero cobrando menos de 1.500 euros](https://www.elperiodico.com/es/economia/20260529/fp-graduados-salen-empleo-seguro-salarios-bajos-130809642)<br>
+17:23 [La visita del Papa coincidirá con la selectividad en Barcelona: "Pedimos a los estudiantes que se desplacen con antelación"](https://www.elperiodico.com/es/barcelona/20260529/barcelona-visita-papa-selectividad-desplazamientos-recomendaciones-130810866)<br>
+17:15 [Juan Gómez-Jurado, escritor, advierte a los autores noveles: "Si estás empezando, escúchame: no te sientas mal cuando te pase esto"](https://www.elperiodico.com/es/ocio-y-cultura/20260529/juan-gomez-jurado-escritor-advierte-autores-noveles-dv-130763545)<br>
+17:05 [La psicóloga Ángela Fernández advierte: "La autoexigencia sin autocompasión es puro machaque psicológico"](https://www.elperiodico.com/es/salud/20260529/angela-fernandez-psicologa-autoexigencia-autocompasion-machaque-psicologico-dv-130460935)<br>
+17:00 [Estados Unidos admite que sus enemigos compran datos de geolocalización de sus tropas para atacarlas o espiarlas](https://www.elperiodico.com/es/internacional/20260529/estados-unidos-admite-enemigos-compran-datos-geolocalizacion-soldados-ejercito-ataque-espionaje-internet-pentagono-130810533)<br>
+16:37 [Territori eleva un 35% su presupuesto hasta los 3.453 millones y destina 902 millones a vivienda](https://www.elperiodico.com/es/economia/20260529/consellera-presenta-presupuesto-2026-territori-eleva-130806103)<br>
+16:28 [Desmantelada una trama de explotación sexual a una menor tutelada en Lanzarote](https://www.elperiodico.com/es/sucesos/20260529/desmantelada-trama-explotacion-sexual-menor-tutelada-lanzarote-130808551)<br>
+16:05 [Jódar, en el nombre de Rafa en Roland Garros: remontada y a octavos ante Carreño](https://www.elperiodico.com/es/deportes/20260529/roland-garros-alex-michelsen-rafa-130797188)<br>
+16:00 [Bruselas anuncia el desbloqueo de 16.400 millones en fondos europeos para Hungría tras pactar reformas democráticas](https://www.elperiodico.com/es/internacional/20260529/bruselas-anuncia-desbloqueo-16-400-millones-ayuda-hungria-130807327)<br>
 15:43 [Una previa caída de Andic, en vídeo](https://www.elperiodico.com/es/videos/sociedad/previa-caida-andic-video/130806621.shtml)<br>
 15:42 [VIDEO / La caída de Isak Andic en Mutua Universal meses antes de su muerte en Collbató](https://www.elperiodico.com/es/sociedad/20260529/video-tropiezo-isak-andic-mutua-universal-mango-130806090)<br>
 15:39 [La Dreta de l'Eixample denuncia que la compra especulativa de fincas ha crecido un 22% en dos años](https://www.elperiodico.com/es/barcelona/eixample/20260529/dreta-leixample-denuncia-compra-especulativa-130805785)<br>
