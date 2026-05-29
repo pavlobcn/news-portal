@@ -1,8 +1,16 @@
-# News for 2026-05-29 19:04
+# News for 2026-05-29 21:38
 
 Previous day: [2026-05-28](./data/2026-05-28.md)
 
 ## ua.korrespondent.net
+21:21 [Голова ЄК і прем'єр Угорщини погодили розблокування заморожених €16,4 млрд](https://ua.korrespondent.net/world/4882584-holova-yek-i-premier-uhorschyny-pohodyly-rozblokuvannia-zamorozhenykh-164-mlrd)<br>
+20:56 [Зеленський подякував Фінляндії за допомогу](https://ua.korrespondent.net/ukraine/4882578-zelenskyi-podiakuvav-finliandii-za-dopomohu)<br>
+20:14 [Путін відмовився назвати терміни завершення війни](https://ua.korrespondent.net/world/russia/4882573-putin-vidmovyvsia-nazvaty-terminy-zavershennia-viiny)<br>
+19:53 [На Дніпропетровщині через обстріли поранено шестеро людей](https://ua.korrespondent.net/ukraine/4882570-na-dnipropetrovschyni-cherez-obstrily-poraneno-shestero-luidei)<br>
+19:45 [Фінляндія надасть Україні допомогу на 128 млн євро](https://ua.korrespondent.net/world/4882568-finliandiia-nadast-ukraini-dopomohu-na-128-mln-yevro)<br>
+19:44 [Японія скерувала понад $14 млн внеску до PURL](https://ua.korrespondent.net/world/4882563-yaponiia-skeruvala-ponad-14-mln-vnesku-do-PURL)<br>
+19:13 [У DeepState оцінили темпи звільнення українських територій](https://ua.korrespondent.net/ukraine/4882561-u-DeepState-otsinyly-tempy-zvilnennia-ukrainskykh-terytorii)<br>
+19:01 [Путін зреагував на інцидент з дроном у Румунії](https://ua.korrespondent.net/world/4882559-putin-zreahuvav-na-intsydent-z-dronom-u-rumunii)<br>
 18:37 [У ДР Конго зафіксували перше одужання під час нового спалаху Еболи](https://ua.korrespondent.net/world/4882550-u-dr-konho-zafiksuvaly-pershe-oduzhannia-pid-chas-novoho-spalakhu-eboly)<br>
 18:36 [Трамп скликав Ситуаційну кімнату щодо Ірану](https://ua.korrespondent.net/world/4882549-tramp-sklykav-sytuatsiinu-kimnatu-schodo-iranu)<br>
 18:36 [Середня зарплата в Україні у квітні виросла на 0,5% - Держстат](https://ua.korrespondent.net/ukraine/4882554-serednia-zarplata-v-ukraini-u-kvitni-vyrosla-na-05-derzhstat)<br>
@@ -72,10 +80,27 @@ Previous day: [2026-05-28](./data/2026-05-28.md)
 00:21 [США застерегли РФ від масованих ударів по Києву](https://ua.korrespondent.net/world/4882319-ssha-zasterehly-rf-vid-masovanykh-udariv-po-kyievu)<br>
 
 ## as.com
+21:23 [Resumen del Manresa vs Real Madrid, jornada 34 de la Liga Endesa](https://as.com/videos/acb/resumen-del-manresa-vs-real-madrid-jornada-34-de-la-liga-endesa-f202605-v/)<br>
+21:23 [Resumen del Manresa vs Real Madrid, jornada 34 de la Liga Endesa](https://as.com/videos/acb/resumen-del-manresa-vs-real-madrid-jornada-34-de-la-liga-endesa-f202605-v/)<br>
+21:23 [Resumen del Manresa vs Real Madrid, jornada 34 de la Liga Endesa](https://as.com/videos/acb/resumen-del-manresa-vs-real-madrid-jornada-34-de-la-liga-endesa-f202605-v/)<br>
+21:23 [Resumen del Manresa vs Real Madrid, jornada 34 de la Liga Endesa](https://as.com/videos/acb/resumen-del-manresa-vs-real-madrid-jornada-34-de-la-liga-endesa-f202605-v/)<br>
+21:21 [Última jornada de Liga Endesa, en directo: resultados, partidos, descenso y quién va al playoff en la ACB](https://as.com/baloncesto/acb/ultima-jornada-de-liga-endesa-en-directo-resultados-partidos-descenso-y-quien-va-al-playoff-en-la-acb-f202605-d/)<br>
+20:44 [El Manresa hace historia y el Madrid también](https://as.com/baloncesto/acb/el-manresa-hace-historia-y-el-madrid-tambien-f202605-n/)<br>
+20:38 [Las selecciones 3x3 ya están preparadas para Polonia](https://as.com/baloncesto/mas_baloncesto/las-selecciones-3x3-ya-estan-preparadas-para-polonia-f202605-n/)<br>
+19:55 [Yurtseven: insulto al árbitro, expulsión y gestos a la grada](https://as.com/baloncesto/acb/yurtseven-insulto-al-arbitro-expulsion-y-gestos-a-la-grada-f202605-n/)<br>
 18:57 [Baxi Manresa - Real Madrid, en directo: última jornada de la Liga ACB baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/baxi-manresa-real-madrid-en-directo-ultima-jornada-de-la-liga-acb-baloncesto-2026-en-vivo-hoy-f202605-d/)<br>
 13:53 [Grecia también opina sobre la final de la Euroliga: “Ningún arbitraje te da una falta por la patada de Campazzo”](https://as.com/baloncesto/euroliga/grecia-tambien-opina-sobre-la-final-de-la-euroliga-ningun-arbitraje-te-da-una-falta-por-la-patada-de-campazzo-f202605-n/)<br>
 
 ## www.elperiodico.com
+21:31 [Debate por entregas: ¿Y tú qué harías si… fueras Pedro Sánchez?](https://www.elperiodico.com/es/politica/20260529/debate-entregas-harias-fueras-pedro-130820556)<br>
+21:25 [Anatomía del mal humor](https://www.elperiodico.com/es/opinion/20260529/anatomia-mal-humor-130815952)<br>
+21:13 [El Baxi Manresa gana al Real Madrid en el Nou Congost 28 años después (94-87)](https://www.elperiodico.com/es/deportes/20260529/baxi-manresa-gana-real-madrid-130819812)<br>
+21:11 [Detenido en Madrid un hombre tras matar a otro a puñaladas](https://www.elperiodico.com/es/sucesos/20260529/detenido-madrid-hombre-matar-punaladas-130820150)<br>
+21:00 [Sanam Naraghi Anderlini, activista iraní: "La presión de EEUU a Irán ha afectado más a la sociedad civil que al régimen"](https://www.elperiodico.com/es/internacional/20260529/guerra-de-iran-teheran-estados-unidos-trump-israel-sanam-naraghi-anderlini-130757492)<br>
+20:54 [El nuevo libro de Sarah J. Maas ya tiene fecha de publicación en España](https://www.elperiodico.com/es/ocio-y-cultura/20260529/acotar-6-sarah-j-maas-nuevo-libro-130816403)<br>
+20:40 [Diez nuevas ‘stolpersteine’ recuerdan a dos barcelonesas exterminadas en Auschwitz y otras ocho víctimas del nazismo](https://www.elperiodico.com/es/barcelona/20260529/barcelona-victimas-campos-concentracion-nazismo-stolpersteine-130819053)<br>
+19:30 [Familiares de alcohólicos, del infierno a la esperanza: "Cuando la persona afectada está mal debes dejar que aún esté peor"](https://www.elperiodico.com/es/sociedad/20260529/familiares-alcoholicos-infierno-esperanza-recuperacion-dv-130575467)<br>
+19:14 [Judit Martín desvela que Lluís Pasqual hizo pasar su voz por la de Montserrat Caballé en un homenaje póstumo en el Liceu](https://www.elperiodico.com/es/ocio-y-cultura/20260529/judit-martin-desvela-lluis-pasqual-130814321)<br>
 19:00 [Las Fuerzas de Seguridad ponen el foco en las drogas altamente tóxicas del 'chemsex'](https://www.elperiodico.com/es/sociedad/20260529/chemsex-drogas-peligrosas-alerta-130810651)<br>
 18:57 [Mucho ruido, pocas nueces](https://www.elperiodico.com/es/opinion/20260529/ruido-nueces-zapatero-golpe-blando-derecha-130815700)<br>
 18:53 [La peor cara de la ola de calor que ha azotado a Asturias: 24 muertos a causa de las altas temperaturas en mayo](https://www.elperiodico.com/es/sociedad/20260529/ola-calor-azotado-asturias-130815684)<br>
