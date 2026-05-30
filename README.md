@@ -1,8 +1,11 @@
-# News for 2026-05-30 19:43
+# News for 2026-05-30 20:48
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+20:34 [Зеленський прокоментував успішні удари ЗСУ по РФ](https://ua.korrespondent.net/ukraine/4882757-zelenskyi-prokomentuvav-uspishni-udary-zsu-po-rf)<br>
+20:14 [На Харківщині четверо чоловіків побили військових ТЦК](https://ua.korrespondent.net/city/kharkov/4882754-na-kharkivschyni-chetvero-cholovikiv-pobyly-viiskovykh-ttsk)<br>
+19:50 [США випробовують в Україні людиноподібних роботів-солдатів - ЗМІ](https://ua.korrespondent.net/ukraine/4882751-ssha-vyprobovuuit-v-ukraini-luidynopodibnykh-robotiv-soldativ-zmi)<br>
 19:17 [Зеленський попередив українців про можливий удар](https://ua.korrespondent.net/ukraine/4882747-zelenskyi-poperedyv-ukraintsiv-pro-mozhlyvyi-udar)<br>
 18:53 [США збільшать виробництво зброї для України](https://ua.korrespondent.net/world/4882743-ssha-zbilshat-vyrobnytstvo-zbroi-dlia-ukrainy)<br>
 18:36 [Рівень загрози - критичний: кораблі в Ормузі попередили про небезпеку](https://ua.korrespondent.net/world/4882741-riven-zahrozy-krytychnyi-korabli-v-ormuzi-poperedyly-pro-nebezpeku)<br>
@@ -56,6 +59,9 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+20:36 [Investigan la muerte de un hombre en Murcia: la puerta de su casa estaba abierta y el cadáver se encontraba en el suelo](https://www.elperiodico.com/es/sucesos/20260530/investigan-muerte-hombre-murcia-puerta-130844680)<br>
+20:30 [El refugio de la influencer Marta Castro: un pueblo con tantos hórreos como habitantes donde la ex de Fonsi Nieto tiene sus raíces](https://www.elperiodico.com/es/gente/20260530/refugio-influencer-marta-castro-pueblo-ex-fonsi-nieto-dv-130772790)<br>
+20:21 [Medio centenar de jubilados de Castellón se quedan bloqueados en Lloret de Mar con el Imserso: "Aún estamos esperando a que nos vengan a buscar"](https://www.elperiodico.com/es/sucesos/20260530/medio-centenar-jubilados-quedaron-bloqueados-lloret-mar-imserso-130844198)<br>
 19:41 [Muere la actriz Kelly Curtis, hermana de Jamie Lee Curtis, a los 69 años](https://www.elperiodico.com/es/ocio-y-cultura/20260530/kelly-curtis-muere-hermana-jamie-lee-curtis-69-anos-130842531)<br>
 19:39 [Felipe VI celebra el "esfuerzo y brillantez" de la princesa Leonor durante su formación](https://www.elperiodico.com/es/politica/20260530/felipe-vi-celebra-esfuerzo-brillantez-leonor-formacion-130843359)<br>
 19:25 [El director general de la OMS llega a Bunia, epicentro del brote de ébola en República Democrática del Congo](https://www.elperiodico.com/es/videos/internacional/director-general-oms-llega-bunia/130843242.shtml)<br>
