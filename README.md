@@ -1,8 +1,10 @@
-# News for 2026-05-30 18:41
+# News for 2026-05-30 19:43
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+19:17 [Зеленський попередив українців про можливий удар](https://ua.korrespondent.net/ukraine/4882747-zelenskyi-poperedyv-ukraintsiv-pro-mozhlyvyi-udar)<br>
+18:53 [США збільшать виробництво зброї для України](https://ua.korrespondent.net/world/4882743-ssha-zbilshat-vyrobnytstvo-zbroi-dlia-ukrainy)<br>
 18:36 [Рівень загрози - критичний: кораблі в Ормузі попередили про небезпеку](https://ua.korrespondent.net/world/4882741-riven-zahrozy-krytychnyi-korabli-v-ormuzi-poperedyly-pro-nebezpeku)<br>
 18:12 [Укренерго визначилось щодо відключень у неділю](https://ua.korrespondent.net/ukraine/4882738-ukrenerho-vyznachylos-schodo-vidkluichen-u-nedilui)<br>
 17:44 [Помста за Бучу: дрони розбили полігон РФ у тилу](https://ua.korrespondent.net/ukraine/4882734-pomsta-za-buchu-drony-rozbyly-polihon-rf-u-tylu)<br>
@@ -54,6 +56,13 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+19:41 [Muere la actriz Kelly Curtis, hermana de Jamie Lee Curtis, a los 69 años](https://www.elperiodico.com/es/ocio-y-cultura/20260530/kelly-curtis-muere-hermana-jamie-lee-curtis-69-anos-130842531)<br>
+19:39 [Felipe VI celebra el "esfuerzo y brillantez" de la princesa Leonor durante su formación](https://www.elperiodico.com/es/politica/20260530/felipe-vi-celebra-esfuerzo-brillantez-leonor-formacion-130843359)<br>
+19:25 [El director general de la OMS llega a Bunia, epicentro del brote de ébola en República Democrática del Congo](https://www.elperiodico.com/es/videos/internacional/director-general-oms-llega-bunia/130843242.shtml)<br>
+19:10 [Una mujer muere ahogada en la playa de Ponent de Salou](https://www.elperiodico.com/es/sucesos/20260530/mujer-muere-ahogada-playa-ponent-salou-130842262)<br>
+19:03 ["Después de verlo tantos años por la tele, estar a unos metros es increíble"](https://www.elperiodico.com/es/politica/20260530/despues-verlo-anos-tele-metros-130842227)<br>
+19:00 [Los jueces marcan la agenda a Sánchez y Feijóo](https://www.elperiodico.com/es/politica/20260530/jueces-marcan-agenda-sanchez-feijoo-130759245)<br>
+18:45 [Antonio Valenzuela, fisioterapeuta, alerta: “Una hora de gimnasio no compensa pasarse el día sentado”](https://www.elperiodico.com/es/vida-y-estilo/20260530/antonio-valenzuela-fisioterapeuta-hora-gimnasio-no-compensa-dia-sentado-dv-130635272)<br>
 18:24 [Muere a los 58 años el fiscal Carlos Tejada Bañales,  figura clave en la persecución del tráfico de drogas en la Costa del Sol](https://www.elperiodico.com/es/sociedad/20260530/58-muere-anos-carlos-tejada-banales-fiscal-antidroga-130841189)<br>
 18:15 [Ni cremas ni espráis: el truco casero que muchos utilizan para ahuyentar a los mosquitos por la noche](https://www.elperiodico.com/es/vida-y-estilo/20260530/truco-viral-casero-mosquitos-buen-tiempo-dv-130603563)<br>
 18:10 [El relajado pueblo a tan solo 15 minutos de Santa Coloma de Gramenet para los amantes de la naturaleza](https://www.elperiodico.com/es/barcelona/santa-coloma/20260530/tiana-pueblo-cuento-cerca-santa-coloma-de-gramenet-dv-loc-109287809)<br>
