@@ -1,10 +1,433 @@
 [
   {
+    "title": "Entrevista a Josep Sánchez Llibre, president de Foment del Treball",
+    "link": "https://www.elperiodico.com/es/videos/economia/entrevista-josep-sanchez-llibre-president-video/130813425.shtml",
+    "pubDate": "2026-05-30 07:31:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Josep Sánchez Llibre (Foment): \"Hoy con un salario de menos de 2.000 euros es difícil llegar a final de mes\"",
+    "link": "https://www.elperiodico.com/es/economia/20260530/josep-sanchez-llibre-foment-del-treball-entrevista-salarios-llegar-a-final-de-mes-130725944",
+    "pubDate": "2026-05-30 07:31:25",
+    "category": "",
+    "description": "<h2>El recién reelegido presidente de Foment del Treball afirma que ningún partido le ha propuesto encabezar una moción de censura contra Pedro Sánchez</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260518/josep-sanchez-llibre-proclamado-presidente-foment-del-treball-2030-130353164\">Sánchez Llibre es reelegido como presidente de Foment hasta 2030</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Interrumpida la línea R3 de Rodalies entre La Garriga y Figaró por un incendio próximo a las vías",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/interrumpida-linea-r3-rodalies-garriga-figaro-130826108",
+    "pubDate": "2026-05-30 07:24:14",
+    "category": "",
+    "description": "<h2>Se mantiene operativo el servicio de refuerzo por carretera habilitado en toda la línea R3</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "Підлітки влаштували ДТП на Київщині, загинув випускник",
+    "link": "https://ua.korrespondent.net/ukraine/4882654-pidlitky-vlashtuvaly-dtp-na-kyivschyni-zahynuv-vypusknyk",
+    "pubDate": "2026-05-30 07:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445900.jpg\">У Переяславі на перехресті зіткнулися два автомобілі – BMW X7 та Skoda Superb.Загинув 17-річний хлопець.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 86
+  },
+  {
+    "title": "El doctor en finanzas Luis Garvía advierte: \"Tendríamos que empezar a jubilarnos a partir de los 72 años\"",
+    "link": "https://www.elperiodico.com/es/economia/20260530/luis-garvia-experto-economia-tendriamos-empezar-jubilarnos-72-anos-dv-129817680",
+    "pubDate": "2026-05-30 07:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El economista cuestiona la sostenibilidad del sistema público de pensiones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260502/profesor-65-anos-indignado-desigualdad-jubilaciones-alemania-dv-129542100\" >Un profesor de 65 años a punto de jubilarse: \"Cobrar 2.600 euros de pensión es injusto\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cómo preparar un 'ristretto' para disfrutar como Clooney",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/preparar-ristretto-disfrutar-clooney-130823547",
+    "pubDate": "2026-05-30 07:11:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Hay auténticos enfermos, es decir, apasionados, degustadores, profesionales exigentes del buen café. Cierto, no todo el mundo está obsesionado con esta bebida. Un buen café, un fenomenal 'ristretto', debe cumplir sus leyes, sus mandamientos. Aquí tiene algunos de ellos.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "Шостка зазнала масованої атаки, пошкоджено інфраструктуру",
+    "link": "https://ua.korrespondent.net/ukraine/4882649-shostka-zaznala-masovanoi-ataky-poshkodzheno-infrastrukturu",
+    "pubDate": "2026-05-30 07:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445873.jpg\">Через атаку дронів пошкоджено житлові та нежитлові будівлі, адміністративні приміщення і транспорт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Плей-оф НХЛ: Кароліна тріумфувала, вигравши фінал Сходу",
+    "link": "https://ua.korrespondent.net/sport/hokey/4882651-plei-of-nkhl-karolina-triumfuvala-vyhravshy-final-skhodu",
+    "pubDate": "2026-05-30 07:01:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445874.jpg\">Огляд ігрового дня НХЛ: всі результати, забиті шайби та ключові моменти минулих матчів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Ana Molina Hita, maestra: \"Nuestra profesión puede ser desesperante, corremos el riesgo de convertirnos en autómatas para sobrevivir\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/ana-molina-hita-maestra-profesion-educacion-130517466",
+    "pubDate": "2026-05-30 07:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Hablamos con esta docente de música y plástica sobre <a href=\"https://viruseditorial.net/libreria/un-diamante-en-la-basura/\">'Un diamante en la basura'</a> (Escritos Contextarios), recopilatorio de escritos y dibujos de su alumnado del colegio Pío XII de La Ventilla (Madrid), sobre el que Nacho Vigalondo ha dicho que \"recomendarlo es algo tan cristalino y desconcertante como recomendar el verano\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251101/josep-maria-castella-linguista-ortografia-gramatica-aprender-escribir-chatgpt-cervantes-122978113\">Josep Maria Castellà, lingüista: \"No está demostrado que haya que estudiar gramática para redactar bien\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pódcast de EL PERIÓDICO | “Dar mucho, pedir poco”: aquell reclam del dia de la mare",
+    "link": "https://www.elperiodico.com/es/politica/20260530/podcast-periodico-dar-pedir-aquell-130812090",
+    "pubDate": "2026-05-30 07:00:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los mensajes del actor Luis Lorenzo: \"La idea es sacar 10.000, porque le queda poco a la anciana\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260530/luis-lorenzo-actor-mensajes-tia-isabel-130826046",
+    "pubDate": "2026-05-30 07:00:50",
+    "category": "",
+    "description": "<h2>Isabel Suárez, de 85 años, murió en mayo de 2021. Su sobrina, Arancha Palomino, y su pareja, Luis Lorenzo, están acusados de maltrato y estafa. En tres meses gastaron 17.400 euros de los ahorros de la anciana</h2><h2>Un mes antes de la muerte de la anciana, Lorenzo consultó a un gestor cómo podía sacar dinero de sus cuentas sin resultar sospechoso. Y anunció sus planes para \"revocar su testamento\" y dejar fuera a los hermanos y sobrinos de Isabel</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El universo arcade revive: jóvenes y nostálgicos comparten la emoción de las máquinas de juego físicas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/nostalgia-impulsa-coleccionismo-maquinas-arcade-130524826",
+    "pubDate": "2026-05-30 07:00:00",
+    "category": "",
+    "description": "<h2>La saturación por la hiperconexión de los dispositivos actuales impulsa el placer de lo tangible que se manifiesta en un mercado en auge de máquinas recreativas y pinball, revalorizando los clásicos como el 'Pac-Man'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El mayor desierto natural de Europa se encuentra en España: se han rodado videoclips, series y películas",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260530/desierto-natural-navarra-barcelona-cataluna-coche-dv-130747366",
+    "pubDate": "2026-05-30 06:45:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Destino perfecto para hacer una escapada durante el fin de semana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260306/encontrar-escapada-ideal-catalunya-tinder-casas-rurales-127612763\">\"Serás el único turista\": cómo encontrar tu escapada ideal en Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260123/montseny-barcelona-parque-natural-cataluna-excursiones-invierno-dv-loc-125749133\">El parque natural de Catalunya que se transforma en invierno y parece sacado de una postal</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 30 травня",
+    "link": "https://ua.korrespondent.net/ukraine/4882647-henshtab-nazvav-vtraty-rosii-stanom-na-30-travnia",
+    "pubDate": "2026-05-30 06:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445849.jpg\">Українські військові знищили понад 2350 одиниць російської техніки, серед якої 70 гармат, п’ять РСЗВ і один засіб ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: última hora | Trump sólo aceptará un acuerdo con Irán que respete sus \"líneas rojas\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260530/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-05-30 06:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Meta pone precio a WhatsApp, Instagram y Facebook Plus: así serán las nuevas suscripciones de pago",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260530/whatsapp-plus-meta-sucripcion-instagram-facebook-dv-130786284",
+    "pubDate": "2026-05-30 06:30:16",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresa tecnológica prueba otras alternaticas en la oferta de su aplicación Meta AI y más planes profesionales para empresas y creadores de contenido</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260506/whatsapp-uso-aplicacion-compatibilidad-moviles-antiguos-android-5-0-dv-129654476\">WhatsApp advierte a los usuarios de móviles antiguos: 'Dejará de estar disponible...'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260430/polemica-instagram-ia-recomienda-productos-129727120\">Polémica en Instagram: la IA recomienda productos con la imagen de 'influencers' sin su consentimiento</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Депутат Одеської облради \"забув\" задекларувати 58 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4882645-deputat-odeskoi-oblrady-zabuv-zadeklaruvaty-58-mln",
+    "pubDate": "2026-05-30 06:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445848.jpg\">Усвоїх щорічних деклараціях за 2024 і 2025 роки посадовець свідомо приховав фінансові зобов’язання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La final de la Champions entre el PSG y el Arsenal: el más goleador contra el menos goleado",
+    "link": "https://www.elperiodico.com/es/deportes/20260530/final-champions-psg-arsenal-goleador-130816604",
+    "pubDate": "2026-05-30 06:01:01",
+    "category": "",
+    "description": "<h2>Luis Enrique conduce al equipo más goleador del torneo mientras que Mikel Arteta ha convertido al Arsenal en el menos goleado. El PSG aspira a revalidar el título ante el cuadro londinense, que aún tiene la espina clavada de 2006</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Cupra Raval arranca con fuerza en su estreno en Ondinauto de Sant Cugat",
+    "link": "https://www.elperiodico.com/es/motor/20260530/cupra-raval-arranca-fuerza-estreno-130814239",
+    "pubDate": "2026-05-30 06:00:54",
+    "category": "",
+    "description": "<h2>El grupo Yomovova inaugura en la localidad barcelonesa el nuevo espacio de exposición Ondinauto Seat & Cupra con presencia de la dirección de la marca en España.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "El juez bloqueó 300.000 euros a los integrantes de la trama dos meses antes de entrar en el despacho de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260530/juez-bloqueo-300-000-euros-130815955",
+    "pubDate": "2026-05-30 06:00:53",
+    "category": "",
+    "description": "<h2>Un banco de EEUU inmovilizó 653.874 dólares a la 'offshore' de Islas Vírgenes</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260529/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">En Directo. Situación política tras la entrada de la UCO en Ferraz y el caso Zapatero | Última hora </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Es posible prevenir la esclerosis múltiple atacando el virus de Epstein-Barr? La línea que investigan los neurólogos",
+    "link": "https://www.elperiodico.com/es/sanidad/20260530/prevenir-esclerosis-multiple-atacando-virus-epstein-barr-investigacion-130726604",
+    "pubDate": "2026-05-30 06:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Pasar este virus es 'conditio sine qua non' para desarrollar esta enfermedad autoinmune neurodegenerativa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260529/esclerosis-multiple-pira-silenciosa-sin-brotes-gran-reto-investigacion-130706023\" target=\"_blank\">La esclerosis múltiple que avanza silenciosa sin presentar brotes: \"Esta modalidad es el gran reto de la investigación\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20250131/entrevista-xavier-montalban-neurologo-alzheimer-mejora-esclerosis-multiple-113847482\" target=\"_blank\">Xavier Montalban, neurólogo: \"Veremos una mejora en el tratamiento del alzhéimer similar al de la esclerosis múltiple\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Del evento ‘macro’ al ciclo 'boutique': el festival marca la música en directo en Catalunya",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/evento-macro-ciclo-boutique-festival-130729188",
+    "pubDate": "2026-05-30 06:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La nueva edición del Primavera Sound, la semana que viene, es el pórtico de una temporada de programaciones musicales que presenta una gran densidad, con citas de gran aforo y profusión de ciclos de pequeño y medio formato, en Barcelona, el Empordà y la línea costera como focos destacados, reafirmando la tendencia que asocia al concierto a la marca que lo acoge, así como el evento y la experiencia compartida</h2><h2 class=\"item\"><a href=\"https://cms.prensaiberica.es/api/zeta/front/url/article/130798871/es\"  rel=\"nofollow\">Buscador de festivales de música 2026: dónde actúa tu artista favorito y fechas de los conciertos</a></h2><h2 class=\"item\">MULTIMEDIA: <a>Kit de supervivencia si vas a un festival de música</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "La esclerosis múltiple silenciosa que avanza sin brotes y afecta a un 15% de pacientes: \"Es el gran reto de la investigación\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260530/esclerosis-multiple-pira-silenciosa-sin-brotes-gran-reto-investigacion-130706023",
+    "pubDate": "2026-05-30 06:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta forma de la enfermedad, llamada PIRA, afecta a entre un 10% y un 15% de pacientes y tiene un único tratamiento autorizado, cuya eficacia es del 30%-35%</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20250131/entrevista-xavier-montalban-neurologo-alzheimer-mejora-esclerosis-multiple-113847482\" target=\"_blank\">Xavier Montalban, neurólogo: \"Veremos una mejora en el tratamiento del alzhéimer similar al de la esclerosis múltiple\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260529/prevenir-esclerosis-multiple-atacando-virus-epstein-barr-investigacion-130726604\" target=\"_blank\">¿Es posible prevenir la esclerosis múltiple atacando el virus de Epstein-Barr? La línea que investigan los neurólogos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Buscador de festivales de música 2026: dónde actúa tu artista favorito y fechas de los conciertos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/buscador-festivales-musica-2026-donde-fechas-conciertos-130798871",
+    "pubDate": "2026-05-30 06:00:42",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 86
+  },
+  {
+    "title": "España creó unidades de alto aislamiento para virus como el ébola tras el caso de Teresa Romero: \"Hay medios para tratar los casos importados\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260530/teresa-romero-ebola-unidades-alto-aislamiento-protocolo-espana-130663817",
+    "pubDate": "2026-05-30 06:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">El contagio de la auxiliar de enfermería del Hospital Carlos III de Madrid provocó una gran crisis sanitaria en el país que forzó a crear protocolos y a prepararse para brotes tan graves como el actual del Congo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260525/italia-activa-vigilancia-ebola-130644875\" target=\"_blank\">Italia activa la vigilancia del ébola tras hospitalizar a dos viajeros de Uganda con fiebre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260506/unidad-alto-aislamiento-cataluna-creo-por-ebola-preparada-para-hantavirus-129911983\" target=\"_blank\">Así es la unidad de alto aislamiento de Catalunya que se creó en 2014 por el ébola y que está preparada para el hantavirus</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El conflicto armado y la falta de recursos minan la respuesta al brote de ébola en RD Congo",
+    "link": "https://www.elperiodico.com/es/internacional/20260530/rd-congo-conflicto-armado-falta-recursos-minan-respuesta-brote-ebola-130825430",
+    "pubDate": "2026-05-30 06:00:39",
+    "category": "",
+    "description": "<h2>El país centroafricano ha sufrido 17 epidemias de este virus desde que fue descubierto en 1976; este último con 1.077 posibles casos y 246 fallecidos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El nuevo brote de ébola en RD Congo desborda la respuesta sanitaria: \"La situación epidemiológica es poco clara y evoluciona extremadamente rápido\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260530/nuevo-brote-ebola-rd-congo-desborda-respuesta-sanitaria-situacion-poco-clara-evoluciona-muy-rapido-130825415",
+    "pubDate": "2026-05-30 06:00:38",
+    "category": "",
+    "description": "<h2>El país africano registra más de 1.000 casos en una epidemia que ya ha cruzado fronteras y se desarrolla en un contexto de violencia, falta de recursos y ausencia de vacunas específicas para la variante Bundibugyo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya refuerza sus servicios de prevención de agresiones en festivales",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/catalunya-refuerza-servicios-prevencion-agresiones-bc-130791243",
+    "pubDate": "2026-05-30 06:00:36",
+    "category": "",
+    "description": "<h2>Frente a los episodios machistas y la LGTBIfobia, la Generalitat de Catalunya apuesta por una estrategia basada en la prevención, la detección precoz y la atención especializada </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El abogado alicantino que venció a la Hacienda española sin ser Shakira",
+    "link": "https://www.elperiodico.com/es/economia/20260530/abogado-alicantino-vencio-hacienda-espanola-130798906",
+    "pubDate": "2026-05-30 06:00:36",
+    "category": "",
+    "description": "<h2>Víctor Riera ha logrado que Bruselas exija al Gobierno el fin de la discriminación que sufren los nómadas digitales y los eurofuncionarios por la posesión de una vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la estrategia a la acción: el gran reto de la movilidad sostenible",
+    "link": "https://www.elperiodico.com/es/economia/20260530/estrategia-accion-gran-reto-movilidad-130752211",
+    "pubDate": "2026-05-30 06:00:35",
+    "category": "",
+    "description": "<h2>El Periódico, El Periódico de España, ‘activos’ y Prensa Ibérica abordan cómo transformar los objetivos de movilidad sostenible en soluciones concretas para la ciudadanía y el tejido empresarial </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ainoa Irurre Pérez: la directiva que convirtió la diversidad en estrategia empresarial",
+    "link": "https://www.elperiodico.com/es/economia/20260530/ainoa-irurre-perez-directiva-convirtio-130753335",
+    "pubDate": "2026-05-30 06:00:34",
+    "category": "",
+    "description": "<h2>Personas, el único activo incopiable. \"Schneider Electric lleva la diversidad, la equidad y la inclusión grabadas en su ADN, y el propio CEO de la compañía las ha elevado a prioridad estratégica\", afirma Ainoa Irurre Pérez. Para respaldar esa convicción, recurre a un estudio de McKinsey que lo cuantifica con nitidez: las empresas diversas en todos sus niveles profesionales obtienen el 35% más de ebitda que sus competidoras. El argumento, sin embargo, va más allá de los números. En un mercado donde todo se replica con facilidad, \"el talento humano sigue siendo el único activo que no se puede copiar\". Quienes eligen trabajar contigo y por qué determinan la cultura de una organización y, en última instancia, son lo que hacen posibles las otras dos grandes transformaciones que el grupo tiene sobre la mesa: la digital y la energética.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kit de supervivencia si vas a un festival de música",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/kit-supervivencia-vas-festival-musica-130753637",
+    "pubDate": "2026-05-30 06:00:33",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Cunit Music Festival propone la mejor fórmula para sentir el verano",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/cunit-music-festival-propone-mejor-bc-130785280",
+    "pubDate": "2026-05-30 06:00:33",
+    "category": "",
+    "description": "<h2>La tercera edición invita a viajar al pasado con una fiesta ‘remember’ del dance los 90 y 2000, además de visitar la escena urban actual y cerrar con la luminosidad de Nil Moliner</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 86
+  },
+  {
+    "title": "'Caso Leire', una 'Kitchen' de baratillo",
+    "link": "https://www.elperiodico.com/es/opinion/20260530/caso-leire-kitchen-baratillo-130788908",
+    "pubDate": "2026-05-30 06:00:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts celebra su convención municipalista con la disputa abierta por Barcelona",
+    "link": "https://www.elperiodico.com/es/politica/20260530/junts-convencion-municipalista-candidato-barcelona-elecciones-municipales-130708352",
+    "pubDate": "2026-05-30 06:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260528/candidatos-primarias-junts-elecciones-municipales-barcelona-marti-cuevillas-giro-argimon-freixa-130483276\">Martí, Calvo, Freixa, Cuevillas y Argimon: los posibles candidatos de Junts a la alcaldía de Barcelona</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Renfe triplicará las estaciones de Rodalies preparadas para limpiar graffitis de los trenes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/renfe-triplicara-estaciones-rodalies-lavar-grafitis-trenes-130806824",
+    "pubDate": "2026-05-30 06:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">A fecha de hoy, solo hay cinco puntos con instalaciones para lavar los convoyes: la idea es que haya 9 más</h2><h2 class=\"item\">Las pintadas supusieron un gasto de 7,4 millones de euros en 2025 y afectaron a los trayectos de 1,4 millones de viajeros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260509/rodalies-ganara-29-vias-talleres-mantenimiento-renfe-antes-2030-130012271\">Rodalies doblará sus 'vías de reparación' antes de 2030 para acelerar el mantenimiento de los trenes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260526/govern-asegura-rodalies-renfe-recuperado-servicio-descarta-gratuidad-130672251\">El Govern asegura que Rodalies ha recuperado el 99% del servicio y descarta reinstaurar la gratuidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 29.05: Новий удар РФ і \"приліт\" в Румунії",
+    "link": "https://ua.korrespondent.net/ukraine/4882633-pidsumky-2905-novyi-udar-rf-i-prylit-v-rumunii",
+    "pubDate": "2026-05-30 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445662.jpg\">Путін зреагував на інцидент з дроном у Румунії. Зеленський попередив про новий масований удар РФ. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-05-30 05:41:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-05-30 05:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4388528.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакували дрони: під ударом нафтобаза й танкер",
+    "link": "https://ua.korrespondent.net/world/russia/4882643-rf-atakuvaly-drony-pid-udarom-naftobaza-y-tanker",
+    "pubDate": "2026-05-30 05:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445787.jpg\">Вибухи гриміли в районі Таганрозької затоки і авіазаводу; внаслідок атаки БПЛА сталося загоряння танкера.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Inforges refuerza su liderazgo nacional en consultoría tecnológica integrando ERP, IA y ciberseguridad",
+    "link": "https://www.elperiodico.com/es/economia/20260530/inforges-refuerza-liderazgo-consultoria-tecnologica-ia-ciberseguridad-bc-130792785",
+    "pubDate": "2026-05-30 05:00:00",
+    "category": "",
+    "description": "<h2>La consultora consolida su crecimiento con más de 400 profesionales y presencia en más de una docena de provincias, apoyada en un portfolio tecnológico integral y el avance de la inteligencia artificial.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Греція дала ЗСУ більше артилерії, ніж гадали - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4882641-hretsiia-dala-zsu-bilshe-artylerii-nizh-hadaly-zmi",
+    "pubDate": "2026-05-30 04:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445746.jpg\">Україна могла отримати значно більше 155-мм гармат M114, ніж вважалося раніше, Defense Express",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Польща першою в ЄС одержала кошти за програмою SAFE",
+    "link": "https://ua.korrespondent.net/world/4882639-polscha-pershoui-v-yes-oderzhala-koshty-za-prohramoui-SAFE",
+    "pubDate": "2026-05-30 04:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445725.jpg\">Варшава отримала перший транш у розмірі 6,6 мільярда євро, що становить близько 15% від загального обсягу коштів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La música en directo, una experiencia que va más allá del escenario",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/musica-directo-experiencia-escenario-bc-130755352",
+    "pubDate": "2026-05-30 03:59:07",
+    "category": "",
+    "description": "<h2>Los festivales forman parte de una forma de vivir con la música como protagonista. En esta línea, Occident<em> Live</em> refuerza su compromiso con quienes quieren disfrutar de este lenguaje universal con la tranquilidad de sentirse acompañados.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Адміністрація Трампа оскаржить рішення судді про повернення грошей з мит",
+    "link": "https://ua.korrespondent.net/business/financial/4882637-administratsiia-trampa-oskarzhyt-rishennia-suddi-pro-povernennia-hroshei-z-myt",
+    "pubDate": "2026-05-30 03:59:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445684.jpg\">Мін'юст США оскаржить постанову суду, який зобов'язав митні органи перераховувати всі імпортні податки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Естонії заговорили про призов для жінок",
+    "link": "https://ua.korrespondent.net/world/4882635-v-estonii-zahovoryly-pro-pryzov-dlia-zhinok",
+    "pubDate": "2026-05-30 03:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445683.jpg\">Демографічна ситуація свідчить: в майбутньому чоловіків народжуватиметься недостатньо для комплектування армії Естонії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Збиття F-15: США підозрюють Китай в допомозі Ірану",
     "link": "https://ua.korrespondent.net/world/4882631-zbyttia-F-15-ssha-pidozruiuit-kytai-v-dopomozi-iranu",
     "pubDate": "2026-05-30 02:59:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4445621.jpg\">Американські чиновники й досі розслідують обставини збиття винищувача F-15E Strike Eagle у квітні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sorpresiva reunión en Guantánamo entre un general de Estados Unidos y altos mandos de las Fuerzas Armadas de Cuba",
+    "link": "https://www.elperiodico.com/es/internacional/20260530/sorpresiva-reunion-guantanamo-general-estados-130823951",
+    "pubDate": "2026-05-30 02:58:43",
+    "category": "",
+    "description": "<h2>La presencia en la basa naval del general Francis L. Donovan, del Comando Sur de Estados Unidos (SOUTHCOM) tiene lugar en momentos de fuertes roces entre La Habana y Washington</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
