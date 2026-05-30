@@ -1,8 +1,14 @@
-# News for 2026-05-30 07:38
+# News for 2026-05-30 10:07
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+09:44 [СБС знищили Іскандер і два Ту-142 у Таганрозі](https://ua.korrespondent.net/ukraine/4882672-sbs-znyschyly-iskander-i-dva-tu-142-u-tahanrozi)<br>
+09:12 [У Херсоні дрон влучив у газопровід, п'ятеро поранених](https://ua.korrespondent.net/ukraine/4882669-u-khersoni-dron-vluchyv-u-hazoprovid-piatero-poranenykh)<br>
+08:51 [Канада може налагодити виробництво Gripen для України](https://ua.korrespondent.net/world/4882666-kanada-mozhe-nalahodyty-vyrobnytstvo-Gripen-dlia-ukrainy)<br>
+08:24 [Ракети і дрони з семи напрямків: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4882663-rakety-i-drony-z-semy-napriamkiv-yak-spratsuivala-ppo)<br>
+08:01 [У Запоріжжі під ударом промислові об'єкти, є поранені](https://ua.korrespondent.net/city/zaporozhye/4882658-u-zaporizhzhi-pid-udarom-promyslovi-obiekty-ye-poraneni)<br>
+07:40 [Уражено важливі цілі і скупчення росіян - Генштаб](https://ua.korrespondent.net/ukraine/4882656-urazheno-vazhlyvi-tsili-i-skupchennia-rosiian-henshtab)<br>
 07:02 [Шостка зазнала масованої атаки, пошкоджено інфраструктуру](https://ua.korrespondent.net/ukraine/4882649-shostka-zaznala-masovanoi-ataky-poshkodzheno-infrastrukturu)<br>
 06:45 [Генштаб назвав втрати Росії станом на 30 травня](https://ua.korrespondent.net/ukraine/4882647-henshtab-nazvav-vtraty-rosii-stanom-na-30-travnia)<br>
 06:29 [Депутат Одеської облради "забув" задекларувати 58 млн](https://ua.korrespondent.net/ukraine/4882645-deputat-odeskoi-oblrady-zabuv-zadeklaruvaty-58-mln)<br>
@@ -21,12 +27,35 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 00:52 [Перейменування підрозділу ССО: МЗС відповів Польщі](https://ua.korrespondent.net/ukraine/4882613-pereimenuvannia-pidrozdilu-sso-mzs-vidpoviv-polschi)<br>
 00:26 [Путін пригрозив "знищити" економіку Вірменії](https://ua.korrespondent.net/world/russia/4882607-putin-pryhrozyv-znyschyty-ekonomiku-virmenii)<br>
 
+## as.com
+09:00 [El Gran Canaria, un histórico en el infierno](https://as.com/baloncesto/acb/el-gran-canaria-un-historico-en-el-infierno-f202605-n/)<br>
+07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
+
 ## www.elperiodico.com
+10:00 [PSOE sin luces largas](https://www.elperiodico.com/es/opinion/20260530/psoe-luces-largas-pedro-sanchez-oscar-puente-articulo-valenti-puig-130809687)<br>
+09:58 [El calor deja huella en los genes: así podría afectar el cambio climático a la evolución](https://www.elperiodico.com/es/tendencias21/20260530/calor-deja-huella-genes-afectar-128916976)<br>
+09:48 [El Zaragoza obra el milagro de la salvación con una canasta increíble sobre la bocina](https://www.elperiodico.com/es/deportes/20260530/zaragoza-obra-milagro-salvacion-canasta-130823210)<br>
+09:46 [Estados Unidos ataca una nueva lancha en el Pacífico y mata a tres presuntos narcotraficantes](https://www.elperiodico.com/es/internacional/20260530/estados-unidos-ataca-nueva-lancha-pacifico-mata-narcotraficantes-130828002)<br>
+09:35 [El calvario de Alfredo Cuervo, de 44 años y con una enfermedad ultra rara: "Los dedos de los pies se me mueven solos y eso me provoca muchísimo dolor"](https://www.elperiodico.com/es/sociedad/20260530/calvario-alfredo-cuervo-44-anos-enfermedad-ultra-rara-dedos-pies-mueven-solos-dv-130787100)<br>
+09:21 [Estado de los embalses hoy, 30 de mayo en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos](https://www.elperiodico.com/es/sociedad/20260530/embalses-hoy-30-mayo-catalunya-dv-130827519)<br>
+09:20 [Desahuciada una familia con una madre de 95 años pide ayuda al Ayuntamiento en Málaga: "Vengo como una vecina desesperada a pedirles auxilio y amparo para mi familia"](https://www.elperiodico.com/es/sociedad/20260530/desahuciada-familia-madre-95-anos-ayuda-malaga-desesperada-dv-130809611)<br>
+09:04 [El crecimiento de Barcelona frena y se apoya en la inmigración ante una natalidad ínfima y la fuga de jóvenes](https://www.elperiodico.com/es/barcelona/20260530/inmigracion-sostiene-poblacion-barcelona-caida-nacimientos-fuga-jovenes-130811775)<br>
+09:04 [Hegseth ofrece armamento estadounidense a Asia contra la amenaza china](https://www.elperiodico.com/es/internacional/20260530/hegseth-ofrece-armamento-estadounidense-asia-amenaza-china-130826945)<br>
+09:00 [ERC y Junts mantienen a Sánchez en el alambre](https://www.elperiodico.com/es/politica/20260530/sanchez-gobierno-psoe-zapatero-erc-junts-130750735)<br>
+09:00 [¿No se puede opinar sobre cuerpos ajenos?](https://www.elperiodico.com/es/opinion/20260530/opinar-cuerpos-delgadez-canon-articulo-ana-bernal-trivino-130805120)<br>
+09:00 [Negociaciones directas entre Rusia y la UE: pros y contras de una propuesta hasta hace poco tabú](https://www.elperiodico.com/es/internacional/20260530/negociaciones-directas-rusia-ue-pros-contras-propuesta-tabu-130827022)<br>
+09:00 [La guerra de Irán deja a EEUU sin munición defensiva y pone bajo presión a Ucrania y Taiwán: "Gastamos misiles de un millón de dólares contra drones de 20.000"](https://www.elperiodico.com/es/internacional/20260530/guerra-iran-deja-eeuu-misiles-thaad-patriot-130827046)<br>
+08:56 [Un café en las alturas: Mario Saavedra](https://www.elperiodico.com/es/videos/politica/cafe-alturas-mario-saavedra/130826955.shtml)<br>
+08:25 [Mario Saavedra, periodista: "Trump ha lanzado una guerra estúpida en Irán: ni ha derribado el régimen ni ha logrado la entrega del arsenal nuclear"](https://www.elperiodico.com/es/internacional/20260530/mario-saavedra-periodista-entrevista-trump-guerra-estupida-iran-130827007)<br>
+08:24 [Un estudio del Hospital del Mar detalla numerosas enfermedades físicas relacionadas con traumas infantiles](https://www.elperiodico.com/es/ser-feliz/20260530/traumas-infantiles-enfermedades-fisicas-estudio-hospital-del-mar-barcelona-130662536)<br>
+08:05 [José Abellán, cardiólogo:  "El uso de redes sociales se asocia a comportamientos compatibles con trastornos de la conducta alimentaria"](https://www.elperiodico.com/es/salud/20260530/jose-abellan-cardiologo-coautor-estudio-adolescentes-redes-sociales-tca-dv-130635943)<br>
+08:01 [Illa denuncia 'ciertas casualidades'](https://www.elperiodico.com/es/opinion/20260530/illa-denuncia-casualidades-forum-defensa-articulo-joan-tapia-130807088)<br>
 07:31 [Entrevista a Josep Sánchez Llibre, president de Foment del Treball](https://www.elperiodico.com/es/videos/economia/entrevista-josep-sanchez-llibre-president-video/130813425.shtml)<br>
 07:31 [Josep Sánchez Llibre (Foment): "Hoy con un salario de menos de 2.000 euros es difícil llegar a final de mes"](https://www.elperiodico.com/es/economia/20260530/josep-sanchez-llibre-foment-del-treball-entrevista-salarios-llegar-a-final-de-mes-130725944)<br>
 07:15 [El doctor en finanzas Luis Garvía advierte: "Tendríamos que empezar a jubilarnos a partir de los 72 años"](https://www.elperiodico.com/es/economia/20260530/luis-garvia-experto-economia-tendriamos-empezar-jubilarnos-72-anos-dv-129817680)<br>
 07:00 [Ana Molina Hita, maestra: "Nuestra profesión puede ser desesperante, corremos el riesgo de convertirnos en autómatas para sobrevivir"](https://www.elperiodico.com/es/sociedad/20260530/ana-molina-hita-maestra-profesion-educacion-130517466)<br>
 07:00 [El pódcast de EL PERIÓDICO | “Dar mucho, pedir poco”: aquell reclam del dia de la mare](https://www.elperiodico.com/es/politica/20260530/podcast-periodico-dar-pedir-aquell-130812090)<br>
+07:00 [El enredo de las monjas de Sijena: de vender sin permiso los tesoros del monasterio a ofrecer las pinturas murales para pagar un crédito con el Incasòl](https://www.elperiodico.com/es/ocio-y-cultura/20260530/enredo-monjas-sijena-vender-permiso-130539022)<br>
 07:00 [El universo arcade revive: jóvenes y nostálgicos comparten la emoción de las máquinas de juego físicas](https://www.elperiodico.com/es/ocio-y-cultura/20260530/nostalgia-impulsa-coleccionismo-maquinas-arcade-130524826)<br>
 06:35 [Guerra de Irán, en directo: última hora | Trump sólo aceptará un acuerdo con Irán que respete sus "líneas rojas"](https://www.elperiodico.com/es/internacional/20260530/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
 06:30 [Meta pone precio a WhatsApp, Instagram y Facebook Plus: así serán las nuevas suscripciones de pago](https://www.elperiodico.com/es/tecnologia/20260530/whatsapp-plus-meta-sucripcion-instagram-facebook-dv-130786284)<br>
@@ -43,6 +72,7 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 06:00 ['Caso Leire', una 'Kitchen' de baratillo](https://www.elperiodico.com/es/opinion/20260530/caso-leire-kitchen-baratillo-130788908)<br>
 06:00 [Renfe triplicará las estaciones de Rodalies preparadas para limpiar graffitis de los trenes](https://www.elperiodico.com/es/sociedad/20260530/renfe-triplicara-estaciones-rodalies-lavar-grafitis-trenes-130806824)<br>
 05:00 [Inforges refuerza su liderazgo nacional en consultoría tecnológica integrando ERP, IA y ciberseguridad](https://www.elperiodico.com/es/economia/20260530/inforges-refuerza-liderazgo-consultoria-tecnologica-ia-ciberseguridad-bc-130792785)<br>
+04:50 [La literatura se rinde a Ruiz Zafón](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260530/literatura-rinde-ruiz-zafon-130723478)<br>
 03:59 [La música en directo, una experiencia que va más allá del escenario](https://www.elperiodico.com/es/ocio-y-cultura/20260530/musica-directo-experiencia-escenario-bc-130755352)<br>
 02:58 [Sorpresiva reunión en Guantánamo entre un general de Estados Unidos y altos mandos de las Fuerzas Armadas de Cuba](https://www.elperiodico.com/es/internacional/20260530/sorpresiva-reunion-guantanamo-general-estados-130823951)<br>
 00:03 [World of Tanks HEAT traslada con acierto sus tanques al terreno del hero shooter](https://www.elperiodico.com/es/videojuegos/20260530/world-of-tanks-heat-traslada-130815068)<br>
