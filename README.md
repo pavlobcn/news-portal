@@ -1,8 +1,12 @@
-# News for 2026-05-30 14:51
+# News for 2026-05-30 16:22
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+15:59 [У США зробили заяву про підтримку України](https://ua.korrespondent.net/world/4882720-u-ssha-zrobyly-zaiavu-pro-pidtrymku-ukrainy)<br>
+15:36 [США контролюють ситуацію в Ормузькій протоці - Пентагон](https://ua.korrespondent.net/world/4882718-ssha-kontroluiuit-sytuatsiui-v-ormuzkii-prototsi-pentahon)<br>
+15:11 [Росія ударила по залізниці в Запоріжжі: загинув машиніст](https://ua.korrespondent.net/city/zaporozhye/4882716-rosiia-udaryla-po-zaliznytsi-v-zaporizhzhi-zahynuv-mashynist)<br>
+14:57 [Генштаб розкрив результати нічних ударів по Росії](https://ua.korrespondent.net/ukraine/4882714-henshtab-rozkryv-rezultaty-nichnykh-udariv-po-rosii)<br>
 14:38 [Зняла на відео: на Вінниччині 82-річний чоловік зґвалтував 10-річну дитину](https://ua.korrespondent.net/ukraine/4882712-zniala-na-video-na-vinnychchyni-82-richnyi-cholovik-zgvaltuvav-10-richnu-dytynu)<br>
 14:17 [За 500 км від України: Зеленський підтвердив удар по нафтобазі РФ](https://ua.korrespondent.net/ukraine/4882710-za-500-km-vid-ukrainy-zelenskyi-pidtverdyv-udar-po-naftobazi-rf)<br>
 13:57 [Зеленський анонсував важливі переговори](https://ua.korrespondent.net/ukraine/4882705-zelenskyi-anonsuvav-vazhlyvi-perehovory)<br>
@@ -45,6 +49,14 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+16:00 [Pilarín Bayés conquista la noche solidaria de la cultura](https://www.elperiodico.com/es/opinion/20260530/pilarin-bayes-conquista-noche-solidaria-130806315)<br>
+16:00 [Guerra Congreso-Senado por agasajar al Papa: el Liber Horarum contra el Códice de Liebana](https://www.elperiodico.com/es/politica/20260530/guerra-congreso-senado-regalo-papa-leon-130799171)<br>
+15:42 [Vídeo | La broma del rey Felipe VI a Leonor sobre su futuro durante el cóctel institucional en Vigo: "Ya veremos"](https://www.elperiodico.com/es/politica/20260530/broma-rey-felipe-leonor-dia-fuerzas-armadas-vigo-futuro-130836698)<br>
+15:41 [La broma del rey Felipe VI a Leonor sobre su futuro durante el cóctel institucional en Vigo: «Ya veremos»](https://www.elperiodico.com/es/videos/politica/broma-rey-felipe-vi-leonor/130836752.shtml)<br>
+15:27 [El 80% de los profesores de València vota mantener la huelga indefinida pero la mayoría apuesta por rebajar la movilización](https://www.elperiodico.com/es/sociedad/20260530/profesores-vota-mantener-huelga-indefinida-valencia-protesta-educativa-130836405)<br>
+15:15 [Manolo, Jenny, Emma, Ona y Anna salen de la UCI: cinco tortugas regresan a las aguas del Mediterráneo este fin de semana en Barcelona](https://www.elperiodico.com/es/medio-ambiente/20260530/tortugas-castelldefels-torna-a-casa-barcelona-cram-dv-loc-130749957)<br>
+15:00 [El Partido Popular de las Cucarachas: el movimiento viral que desafía al Gobierno de la India](https://www.elperiodico.com/es/internacional/20260530/india-partido-cucarachas-contra-gobierno-narendra-modi-130836211)<br>
+14:57 [Las Fuerzas Armadas marchan en Vigo en un desfile deslucido sin aviones ni paracaidistas](https://www.elperiodico.com/es/videos/politica/fuerzas-armadas-marchan-vigo-desfile/130836113.shtml)<br>
 14:29 [El otro juicio](https://www.elperiodico.com/es/opinion/20260530/otro-juicio-agnes-marques-130835320)<br>
 14:00 [Casanova 71: una placa recuerda la finca natal de Oriol Bohigas y, a su manera, el lugar en que se gestó la Barcelona actual](https://www.elperiodico.com/es/barcelona/eixample/20260530/casanova-71-placa-recuerda-finca-natal-oriol-bohigas-124966913)<br>
 14:00 [Redexis gana el Premio al Desarrollo Sostenible por su apuesta por el biometano](https://www.elperiodico.com/es/motor/20260530/redexis-premio-desarrollo-sostenible-gala-neomotor-130720186)<br>
@@ -115,6 +127,7 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 06:00 [Ainoa Irurre Pérez: la directiva que convirtió la diversidad en estrategia empresarial](https://www.elperiodico.com/es/economia/20260530/ainoa-irurre-perez-directiva-convirtio-130753335)<br>
 06:00 [Kit de supervivencia si vas a un festival de música](https://www.elperiodico.com/es/ocio-y-cultura/kit-supervivencia-festival-musica-130724903-rm/index.html)<br>
 06:00 [Las 5 ciudades españolas donde comprar un piso se lleva más del 50% del sueldo](https://www.elperiodico.com/es/economia/esfuerzo-compra-vivienda-barcelona-palma-madrid-malaga-130511336-rm/index.html)<br>
+06:00 [Las 5 ciudades españolas donde comprar un piso se lleva más del 50% del sueldo](https://www.elperiodico.com/es/economia/20260530/5-ciudades-espanolas-comprar-piso-130511512)<br>
 06:00 ['Caso Leire', una 'Kitchen' de baratillo](https://www.elperiodico.com/es/opinion/20260530/caso-leire-kitchen-baratillo-130788908)<br>
 06:00 [Renfe triplicará las estaciones de Rodalies preparadas para limpiar graffitis de los trenes](https://www.elperiodico.com/es/sociedad/20260530/renfe-triplicara-estaciones-rodalies-lavar-grafitis-trenes-130806824)<br>
 05:00 [Inforges refuerza su liderazgo nacional en consultoría tecnológica integrando ERP, IA y ciberseguridad](https://www.elperiodico.com/es/economia/20260530/inforges-refuerza-liderazgo-consultoria-tecnologica-ia-ciberseguridad-bc-130792785)<br>
