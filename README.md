@@ -1,8 +1,10 @@
-# News for 2026-05-30 20:48
+# News for 2026-05-30 21:58
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+21:25 [Зеленський прокоментував погрози Путіна Вірменії](https://ua.korrespondent.net/ukraine/4882764-zelenskyi-prokomentuvav-pohrozy-putina-virmenii)<br>
+20:59 [У Росії створять міністерство для захисту від дронів](https://ua.korrespondent.net/world/russia/4882761-u-rosii-stvoriat-ministerstvo-dlia-zakhystu-vid-droniv)<br>
 20:34 [Зеленський прокоментував успішні удари ЗСУ по РФ](https://ua.korrespondent.net/ukraine/4882757-zelenskyi-prokomentuvav-uspishni-udary-zsu-po-rf)<br>
 20:14 [На Харківщині четверо чоловіків побили військових ТЦК](https://ua.korrespondent.net/city/kharkov/4882754-na-kharkivschyni-chetvero-cholovikiv-pobyly-viiskovykh-ttsk)<br>
 19:50 [США випробовують в Україні людиноподібних роботів-солдатів - ЗМІ](https://ua.korrespondent.net/ukraine/4882751-ssha-vyprobovuuit-v-ukraini-luidynopodibnykh-robotiv-soldativ-zmi)<br>
@@ -54,11 +56,16 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 00:26 [Путін пригрозив "знищити" економіку Вірменії](https://ua.korrespondent.net/world/russia/4882607-putin-pryhrozyv-znyschyty-ekonomiku-virmenii)<br>
 
 ## as.com
+21:06 [Playoff de ascenso de Primera FEB: resultados, calendario, partidos y quién sube a Liga Endesa](https://as.com/baloncesto/mas_baloncesto/asi-estan-los-cuartos-de-ascenso-a-la-liga-endesa-f202605-n/)<br>
 13:30 [El Madrid ultima el fichaje de Sissoko](https://as.com/baloncesto/acb/el-madrid-ultima-el-fichaje-de-sissoko-f202605-n/)<br>
 09:00 [El Gran Canaria, un histórico en el infierno](https://as.com/baloncesto/acb/el-gran-canaria-un-historico-en-el-infierno-f202605-n/)<br>
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+21:33 [EEUU ataca un barco que intentaba romper el bloqueo de Washington a Irán cerca del estrecho de Ormuz](https://www.elperiodico.com/es/internacional/20260530/eeuu-ataca-barco-intentaba-romper-bloqueo-washington-iran-cerca-estrecho-ormuz-130846087)<br>
+21:15 [El juez Peinado hacia el remate final de la carrera](https://www.elperiodico.com/es/politica/20260530/juez-peinado-remate-final-carrera-ekaizer-130838018)<br>
+21:04 [Los retos del nuevo Gobierno de la Región de Murcia: Presupuestos, reducir las listas de espera y salvar el Tajo-Segura](https://www.elperiodico.com/es/politica/20260530/retos-nuevo-gobierno-region-murcia-presupuestos-130845486)<br>
+20:48 [Una nueva manifestación en Valencia reclama la supresión del aforamiento de Mazón](https://www.elperiodico.com/es/politica/20260530/nueva-manifestacion-valencia-reclama-supresion-aforamiento-mazon-130845007)<br>
 20:36 [Investigan la muerte de un hombre en Murcia: la puerta de su casa estaba abierta y el cadáver se encontraba en el suelo](https://www.elperiodico.com/es/sucesos/20260530/investigan-muerte-hombre-murcia-puerta-130844680)<br>
 20:30 [El refugio de la influencer Marta Castro: un pueblo con tantos hórreos como habitantes donde la ex de Fonsi Nieto tiene sus raíces](https://www.elperiodico.com/es/gente/20260530/refugio-influencer-marta-castro-pueblo-ex-fonsi-nieto-dv-130772790)<br>
 20:21 [Medio centenar de jubilados de Castellón se quedan bloqueados en Lloret de Mar con el Imserso: "Aún estamos esperando a que nos vengan a buscar"](https://www.elperiodico.com/es/sucesos/20260530/medio-centenar-jubilados-quedaron-bloqueados-lloret-mar-imserso-130844198)<br>
@@ -111,6 +118,7 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 11:30 [Rafa Guerrero, psicólogo: "Hoy en día tener una baja autoestima es algo normal desgraciadamente"](https://www.elperiodico.com/es/salud/20260530/autoestima-jovenes-padres-rafa-guerrero-psicologo-dv-130720183)<br>
 11:25 [Aparece Julia, la menor de 17 años desaparecida en Barcelona tras una semana en paradero desconocido](https://www.elperiodico.com/es/barcelona/20260530/julia-aparece-menor-desaparecida-17-anos-130829412)<br>
 11:19 [Los sindicatos de profesores mantienen la huelga del lunes mientras consultan al colectivo docente](https://www.elperiodico.com/es/sociedad/20260530/sindicatos-profesores-mantienen-huelga-lunes-130829734)<br>
+11:19 [El sindicato mayoritario Ustec suspende la huelga hasta el jueves mientras los maestros votan el acuerdo con Educació](https://www.elperiodico.com/es/sociedad/20260530/sindicatos-profesores-huelga-lunes-130829734)<br>
 11:16 [Directo | Vigo acoge este sábado el desfile del Día de las Fuerzas Armadas que presiden los reyes](https://www.elperiodico.com/es/politica/20260530/vigo-acoge-sabado-desfile-dia-130829751)<br>
 11:10 [Los expertos coinciden: la psicología revela por qué las personas desvían la mirada al hablar](https://www.elperiodico.com/es/sociedad/20260530/psicologia-explica-personas-desvian-mirada-al-hablar-dv-130602352)<br>
 11:00 [17 días de agonía con comité federal al fondo](https://www.elperiodico.com/es/opinion/20260530/17-dias-agonia-comite-federal-pedro-sanchez-articulo-manuel-sanchez-130808138)<br>
