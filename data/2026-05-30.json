@@ -1,5 +1,167 @@
 [
   {
+    "title": "La caída de la bandera marca un accidentado desfile de las Fuerzas Armadas en Vigo",
+    "link": "https://www.elperiodico.com/es/videos/politica/bandera-cae-mastil-desfile-presidido/130840204.shtml",
+    "pubDate": "2026-05-30 17:35:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Final de la Champions: PSG - Arsenal, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/20260530/final-champions-psg-arsenal-directo-130840056",
+    "pubDate": "2026-05-30 17:34:14",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vingegaard logra un quinto triunfo y este domingo conquistará el Giro en Roma",
+    "link": "https://www.elperiodico.com/es/deportes/20260530/vingegaard-logra-quinto-triunfo-domingo-conquistara-giro-italia-130839409",
+    "pubDate": "2026-05-30 17:26:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Triunfo inapelable del astro danés que acabará la carrera con el segundo clasificado, el austríaco Felix Gall, a más de cinco minutos.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Грузії вперше відкрили погріб Сталіна з 40 000 пляшок вина",
+    "link": "https://ua.korrespondent.net/world/4882731-u-hruzii-vpershe-vidkryly-pohrib-stalina-z-40-000-pliashok-vyna",
+    "pubDate": "2026-05-30 17:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446447.png\">Влада Грузії планує продати колекцію Сталіна на аукціоні, а на зароблені гроші профінансувати відкриття школи виноробства.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Florentino recibe el apoyo del baloncesto: “El mejor presidente del mundo”",
+    "link": "https://as.com/baloncesto/acb/florentino-recibe-el-apoyo-del-baloncesto-el-mejor-presidente-del-mundo-f202605-n/",
+    "pubDate": "2026-05-30 17:12:34",
+    "category": "Baloncesto",
+    "description": "Doncic, Causeur y Poirier, leyendas del Madrid, muestran por redes sociales su preferencia para las elecciones del club del próximo domingo 7 de junio.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El ocaso de Sterling: detenido tras un accidente por conducir drogado y posesión de drogas",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20260530/ocaso-sterling-detenido-accidente-conducir-130838362",
+    "pubDate": "2026-05-30 17:12:24",
+    "category": "",
+    "description": "<h2>El futbolista inglés, que ahora juega en el Feyenoord, se estrelló con su Lamborghini contra una valla y no pudo pasar la prueba de control antidroga </h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muere a los 80 años Marcia Lucas,  la editora que hizo de 'Star Wars' un fenómeno mundial",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/muere-80-anos-marcia-lucas-editora-star-wars-oscar-130838510",
+    "pubDate": "2026-05-30 17:08:37",
+    "category": "",
+    "description": "<h2>Tuvo un papel fundamental en algunas de las producciones más influyentes de la historia del cine, pese a ser prácticamente una desconocida. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP urge al PNV a decidir si \"estar con Pedro Sánchez o estar con la democracia\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/pp-urge-pnv-decidir-pedro/130839036.shtml",
+    "pubDate": "2026-05-30 17:02:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Galloper regresa a las carreteras españolas con dos nuevos modelos de gasolina",
+    "link": "https://www.elperiodico.com/es/motor/20260530/galloper-regresa-carreteras-espanolas-nuevos-modelos-gasolina-130813719",
+    "pubDate": "2026-05-30 17:00:48",
+    "category": "",
+    "description": "<h2>Un grupo inversor nacional se alía con un fabricante asiático para comercializar un 4x4 clásico y un pick-up con precios competitivos antes de que termine el año </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Сирський заявив про нарощення спроможностей ВМС",
+    "link": "https://ua.korrespondent.net/ukraine/4882729-syrskyi-zaiavyv-pro-naroschennia-spromozhnostei-vms",
+    "pubDate": "2026-05-30 16:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446415.jpg\">Присутність флоту Росії у Чорному й Азовському морях практично нівельована, наголосив головком.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La CUP toma como ejemplo las protestas de los profesores y llama a sus bases a \"resistir\" en las elecciones municipales",
+    "link": "https://www.elperiodico.com/es/politica/20260530/cup-ejemplo-protestas-profesores-llama-resistir-elecciones-municipales-130838327",
+    "pubDate": "2026-05-30 16:52:01",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260530/junts-convencion-municipalista-elecciones-municipales-alianca-catalana-barcelona-130795435\" target=\"_blank\">Junts abre la carrera hacia las municipales entrando en el cuerpo a cuerpo con Aliança: \"Una cosa es hablar claro y la otra insultar\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Crítica musical: manual de reciclaje para pijos aspiracionales",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/critica-musical-manual-reciclaje-pijos-130838717",
+    "pubDate": "2026-05-30 16:50:15",
+    "category": "",
+    "description": "<h2>Hay pocas dudas sobre el hecho de que la música no cambia el mundo. Pero, ¿podemos negar su poder para transformar las mentes? ¡Quia! </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "На Ролан Гаррос на стадії 1/16 фіналу Олійникова покинула турнір",
+    "link": "https://ua.korrespondent.net/sport/tenis/4882727-na-rolan-harros-na-stadii-116-finalu-oliinykova-pokynula-turnir",
+    "pubDate": "2026-05-30 16:49:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446400.jpg\">Українська тенісистка програла битву за участь у 1/8 фіналу Відкритого чемпіонату Франції з тенісу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La gripe aviar impulsa al alza el precio del huevo tras sacrificar 2,7 millones de aves",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/gripe-aviar-impulsa-alza-precio-huevo-130838206",
+    "pubDate": "2026-05-30 16:38:46",
+    "category": "",
+    "description": "<h2>El sector productor está \"alerta\" por cómo puede afectar al suministro de vitaminas, minerales o aminoácidos la guerra en Irán</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muere Frank Francés, expareja de Bárbara Rey y extenista, a los 62 años",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260530/muere-frank-frances-expareja-barbara-rey-enfermedad-marbella-130838236",
+    "pubDate": "2026-05-30 16:37:33",
+    "category": "",
+    "description": "<h2>El deportista, que mantuvo un sonado romance con la vedette a principios de los años 2000, ha fallecido a los 62 años tras una larga enfermedad</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Cancelados los conciertos de los raperos Travis Scott y Kanye West en Italia por seguridad",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/cancelados-conciertos-raperos-travis-scott-kanye-weat-italia-130837916",
+    "pubDate": "2026-05-30 16:33:40",
+    "category": "",
+    "description": "<h2>West también fue vetado en Reino Unido por sus declaraciones antisemitas y posiciones sobre el nazismo</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Real Madrid inunda su web y sus redes de fotos del \"presidente\" Florentino en plena campaña electoral",
+    "link": "https://www.elperiodico.com/es/deportes/20260530/real-madrid-inunda-web-fotos-florentino-130838328",
+    "pubDate": "2026-05-30 16:32:27",
+    "category": "",
+    "description": "<h2>Riquelme ha enviado cuatro autobuses publicitarios a la final de la Champions, que el actual mandatario presenciará desde el palco</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "США шукають для Орбана високу посаду в ООН - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4882725-ssha-shukauit-dlia-orbana-vysoku-posadu-v-oon-zmi",
+    "pubDate": "2026-05-30 16:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446414.jpg\">У Вашингтоні думають дати Орбану високу посаду в ООН для уникнення переслідувань на батьківщині.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Atlètic Barceloneta pone la directa y conquista su 24ª Liga",
     "link": "https://www.elperiodico.com/es/deportes/20260530/atletic-barceloneta-pone-directa-conquista-130837828",
     "pubDate": "2026-05-30 16:05:09",

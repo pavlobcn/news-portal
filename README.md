@@ -1,8 +1,10 @@
-# News for 2026-05-30 16:22
+# News for 2026-05-30 17:41
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+16:53 [Сирський заявив про нарощення спроможностей ВМС](https://ua.korrespondent.net/ukraine/4882729-syrskyi-zaiavyv-pro-naroschennia-spromozhnostei-vms)<br>
+16:28 [США шукають для Орбана високу посаду в ООН - ЗМІ](https://ua.korrespondent.net/world/4882725-ssha-shukauit-dlia-orbana-vysoku-posadu-v-oon-zmi)<br>
 15:59 [У США зробили заяву про підтримку України](https://ua.korrespondent.net/world/4882720-u-ssha-zrobyly-zaiavu-pro-pidtrymku-ukrainy)<br>
 15:36 [США контролюють ситуацію в Ормузькій протоці - Пентагон](https://ua.korrespondent.net/world/4882718-ssha-kontroluiuit-sytuatsiui-v-ormuzkii-prototsi-pentahon)<br>
 15:11 [Росія ударила по залізниці в Запоріжжі: загинув машиніст](https://ua.korrespondent.net/city/zaporozhye/4882716-rosiia-udaryla-po-zaliznytsi-v-zaporizhzhi-zahynuv-mashynist)<br>
@@ -49,6 +51,9 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+17:35 [La caída de la bandera marca un accidentado desfile de las Fuerzas Armadas en Vigo](https://www.elperiodico.com/es/videos/politica/bandera-cae-mastil-desfile-presidido/130840204.shtml)<br>
+17:08 [Muere a los 80 años Marcia Lucas,  la editora que hizo de 'Star Wars' un fenómeno mundial](https://www.elperiodico.com/es/ocio-y-cultura/20260530/muere-80-anos-marcia-lucas-editora-star-wars-oscar-130838510)<br>
+17:02 [El PP urge al PNV a decidir si "estar con Pedro Sánchez o estar con la democracia"](https://www.elperiodico.com/es/videos/politica/pp-urge-pnv-decidir-pedro/130839036.shtml)<br>
 16:00 [Pilarín Bayés conquista la noche solidaria de la cultura](https://www.elperiodico.com/es/opinion/20260530/pilarin-bayes-conquista-noche-solidaria-130806315)<br>
 16:00 [Guerra Congreso-Senado por agasajar al Papa: el Liber Horarum contra el Códice de Liebana](https://www.elperiodico.com/es/politica/20260530/guerra-congreso-senado-regalo-papa-leon-130799171)<br>
 15:42 [Vídeo | La broma del rey Felipe VI a Leonor sobre su futuro durante el cóctel institucional en Vigo: "Ya veremos"](https://www.elperiodico.com/es/politica/20260530/broma-rey-felipe-leonor-dia-fuerzas-armadas-vigo-futuro-130836698)<br>
