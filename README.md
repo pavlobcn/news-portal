@@ -1,8 +1,10 @@
-# News for 2026-05-30 21:58
+# News for 2026-05-30 22:45
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+22:24 [Фредеріксен переконана, що РФ готує нові удари по Європі](https://ua.korrespondent.net/world/4882770-frederiksen-perekonana-scho-rf-hotuie-novi-udary-po-yevropi)<br>
+21:56 [Сили оборони спростували фейк РФ про "удар України" по ЗАЕС](https://ua.korrespondent.net/ukraine/4882766-syly-oborony-sprostuvaly-feik-rf-pro-udar-ukrainy-po-zaes)<br>
 21:25 [Зеленський прокоментував погрози Путіна Вірменії](https://ua.korrespondent.net/ukraine/4882764-zelenskyi-prokomentuvav-pohrozy-putina-virmenii)<br>
 20:59 [У Росії створять міністерство для захисту від дронів](https://ua.korrespondent.net/world/russia/4882761-u-rosii-stvoriat-ministerstvo-dlia-zakhystu-vid-droniv)<br>
 20:34 [Зеленський прокоментував успішні удари ЗСУ по РФ](https://ua.korrespondent.net/ukraine/4882757-zelenskyi-prokomentuvav-uspishni-udary-zsu-po-rf)<br>
