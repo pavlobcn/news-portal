@@ -1,8 +1,13 @@
-# News for 2026-05-30 12:12
+# News for 2026-05-30 13:45
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+13:39 [Ведмедиця зупинила на кордоні ухилянта з Києва](https://ua.korrespondent.net/ukraine/4882702-vedmedytsia-zupynyla-na-kordoni-ukhylianta-z-kyieva)<br>
+13:20 [Зеленський синхронізував санкції з рішеннями ЄС](https://ua.korrespondent.net/ukraine/4882699-zelenskyi-synkhronizuvav-sanktsii-z-rishenniamy-yes)<br>
+12:59 [Росія відкликала посла з Вірменії "для консультацій"](https://ua.korrespondent.net/world/russia/4882695-rosiia-vidklykala-posla-z-virmenii-dlia-konsultatsii)<br>
+12:36 [Катар відмовився розморозити $12 млрд для Ірану - ЗМІ](https://ua.korrespondent.net/world/4882693-katar-vidmovyvsia-rozmorozyty-12-mlrd-dlia-iranu-zmi)<br>
+12:13 [Росіяни повторно вдарили по Запоріжжю, є жертви](https://ua.korrespondent.net/city/zaporozhye/4882689-rosiiany-povtorno-vdaryly-po-zaporizhzhui-ye-zhertvy)<br>
 11:40 [Уражено два нафтові об'єкти і танкер - СБС](https://ua.korrespondent.net/ukraine/4882685-urazheno-dva-naftovi-obiekty-i-tanker-sbs)<br>
 11:09 [Стало відомо, скільки українців складатимуть НМТ](https://ua.korrespondent.net/ukraine/4882682-stalo-vidomo-skilky-ukraintsiv-skladatymut-nmt)<br>
 10:42 [Глава Пентагону назвав "вигідною" будь-яку угоду з Іраном](https://ua.korrespondent.net/world/4882678-hlava-pentahonu-nazvav-vyhidnoui-bud-yaku-uhodu-z-iranom)<br>
@@ -32,10 +37,17 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 00:26 [Путін пригрозив "знищити" економіку Вірменії](https://ua.korrespondent.net/world/russia/4882607-putin-pryhrozyv-znyschyty-ekonomiku-virmenii)<br>
 
 ## as.com
+13:30 [El Madrid ultima el fichaje de Sissoko](https://as.com/baloncesto/acb/el-madrid-ultima-el-fichaje-de-sissoko-f202605-n/)<br>
 09:00 [El Gran Canaria, un histórico en el infierno](https://as.com/baloncesto/acb/el-gran-canaria-un-historico-en-el-infierno-f202605-n/)<br>
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+13:41 [En nivel rojo 24 municipios de Lleida por riesgo muy alto de incendio forestal](https://www.elperiodico.com/es/sociedad/20260530/nivel-rojo-24-municipios-lleida-riesgo-muy-alto-incendio-forestal-130833019)<br>
+13:31 [Los muchos viajes de Robert Prevost a España antes de ser papa](https://www.elperiodico.com/es/sociedad/20260530/viajes-robert-prevost-espana-papa-130832549)<br>
+13:15 [La princesa Leonor preside el Día de las Fuerzas Armadas por primera vez](https://www.elperiodico.com/es/videos/politica/princesa-leonor-preside-dia-fuerzas/130832453.shtml)<br>
+13:09 [El principio fundamental](https://www.elperiodico.com/es/opinion/20260530/el-principio-fundamental-articulo-rafael-vilasanjuan-130831988)<br>
+12:48 [Controlado el incendio de vegetación en Barberà de la Conca (Tarragona)](https://www.elperiodico.com/es/sucesos/20260530/bombers-incendio-vegetacion-forestal-barbera-conca-tarragona-130831757)<br>
+12:36 [Hegseth, secretario de Guerra de EEUU: "Trump es paciente en la búsqueda de un acuerdo con Irán"](https://www.elperiodico.com/es/videos/internacional/hegseth-secretario-guerra-eeuu-trump/130831627.shtml)<br>
 12:10 [La neurocientífica Nazareth Castellanos: "No vemos las cosas como son, sino como somos"](https://www.elperiodico.com/es/ser-feliz/20260530/neurociencia-nazareth-castellanos-vemos-cosas-como-somos-dv-130446776)<br>
 12:09 [El aeropuerto de Múnich cierra durante una hora tras una alerta por un posible dron](https://www.elperiodico.com/es/internacional/20260530/aeropuerto-munich-cierra-durante-hora-130831031)<br>
 12:04 [El calor récord de mayo dispara el riesgo de incendios en las Terres de l’Ebre y adelanta la campaña forestal](https://www.elperiodico.com/es/sociedad/20260530/calor-record-tarragona-incendios-terres-ebre-alerta-maxima-130830106)<br>
@@ -92,6 +104,7 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 06:00 [De la estrategia a la acción: el gran reto de la movilidad sostenible](https://www.elperiodico.com/es/economia/20260530/estrategia-accion-gran-reto-movilidad-130752211)<br>
 06:00 [Ainoa Irurre Pérez: la directiva que convirtió la diversidad en estrategia empresarial](https://www.elperiodico.com/es/economia/20260530/ainoa-irurre-perez-directiva-convirtio-130753335)<br>
 06:00 [Kit de supervivencia si vas a un festival de música](https://www.elperiodico.com/es/ocio-y-cultura/kit-supervivencia-festival-musica-130724903-rm/index.html)<br>
+06:00 [Las 5 ciudades españolas donde comprar un piso se lleva más del 50% del sueldo](https://www.elperiodico.com/es/economia/esfuerzo-compra-vivienda-barcelona-palma-madrid-malaga-130511336-rm/index.html)<br>
 06:00 ['Caso Leire', una 'Kitchen' de baratillo](https://www.elperiodico.com/es/opinion/20260530/caso-leire-kitchen-baratillo-130788908)<br>
 06:00 [Renfe triplicará las estaciones de Rodalies preparadas para limpiar graffitis de los trenes](https://www.elperiodico.com/es/sociedad/20260530/renfe-triplicara-estaciones-rodalies-lavar-grafitis-trenes-130806824)<br>
 05:00 [Inforges refuerza su liderazgo nacional en consultoría tecnológica integrando ERP, IA y ciberseguridad](https://www.elperiodico.com/es/economia/20260530/inforges-refuerza-liderazgo-consultoria-tecnologica-ia-ciberseguridad-bc-130792785)<br>

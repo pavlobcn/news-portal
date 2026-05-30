@@ -1,5 +1,212 @@
 [
   {
+    "title": "Barcelona instalará pantallas gigantes en Glòries y Arc de Triomf para seguir en directo la visita del papa León XIV",
+    "link": "https://www.elperiodico.com/es/barcelona/20260530/barcelona-pantallas-gigantes-papa-leon-xiv-directo-glories-arc-triomf-130831887",
+    "pubDate": "2026-05-30 13:42:40",
+    "category": "",
+    "description": "<h2>El ayuntamiento habilitará estos dos puntos ante la alta expectación por la visita papal</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260528/metro-barcelona-cierra-sagrada-familia-visita-papa-leon-xiv-10-junio-130741309\" >El metro de Barcelona cerrará la estación de Sagrada Família el 10 de junio por la visita del papa León XIV</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260530/cortes-barcelona-visita-papa-leon-xiv-eixample-2026-130830944\" target=\"_blank\">Barcelona se prepara para los cortes de tráfico por la visita del papa León XIV y coloca carteles informativos en la ciudad</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "En nivel rojo 24 municipios de Lleida por riesgo muy alto de incendio forestal",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/nivel-rojo-24-municipios-lleida-riesgo-muy-alto-incendio-forestal-130833019",
+    "pubDate": "2026-05-30 13:41:46",
+    "category": "",
+    "description": "<h2>Este sábado se han producido dos incendios, ya controlados por los Bombers, en Barberà de la Conca (Conca de Barberà) y Tremp (Pallars Jussà)</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ведмедиця зупинила на кордоні ухилянта з Києва",
+    "link": "https://ua.korrespondent.net/ukraine/4882702-vedmedytsia-zupynyla-na-kordoni-ukhylianta-z-kyieva",
+    "pubDate": "2026-05-30 13:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446263.jpg\">Чоловік самостійно спланував маршрут поза пунктами пропуску, але під час переходу натрапив на дику тварину.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los muchos viajes de Robert Prevost a España antes de ser papa",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/viajes-robert-prevost-espana-papa-130832549",
+    "pubDate": "2026-05-30 13:31:06",
+    "category": "",
+    "description": "<h2>Entre 2001 y 2013, periodo en el que fue prior general de los Agustinos, recorrió España desde Navarra hasta Andalucía, pasando por Barcelona, Valencia, Madrid o Valladolid</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260528/6-000-policias-cortes-trafico-130755062\">Más de 6.000 policías para la visita de León XIV a Barcelona: cortes de tráfico y llegada en 'papamóvil' a la Sagrada Familia por Rosselló</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Madrid ultima el fichaje de Sissoko",
+    "link": "https://as.com/baloncesto/acb/el-madrid-ultima-el-fichaje-de-sissoko-f202605-n/",
+    "pubDate": "2026-05-30 13:30:34",
+    "category": "Baloncesto",
+    "description": "El interior maliense (2,06, 25 años) tiene muchas opciones de reforzar al equipo blanco para los playoffs de la Liga Endesa. Ha rendido a buen nivel en Trieste.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ha sido la semifinal masculina de boulder donde el español Guillermo Peinado se ha clasifica para la final",
+    "link": "https://www.elperiodico.com/es/videos/deportes/sido-semifinal-masculina-boulder-espanol/130832843.shtml",
+    "pubDate": "2026-05-30 13:28:46",
+    "category": "",
+    "description": "a escalada mundial se cita del 28 al 31 de mayo en la explanada del polideportivo José Caballero de Alcobendas",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Ha domesticado Bad Bunny el machismo del reguetón? \"Su imaginario es feminista, pero refuerza ideas patriarcales\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260530/domesticado-bad-bunny-machismo-regueton-feminista-analisis-conciertos-madrid-130832719",
+    "pubDate": "2026-05-30 13:24:01",
+    "category": "",
+    "description": "<h2>La socióloga Silvia Díaz, autora de la primera tesis en España sobre el artista de Puerto Rico, analiza las contradicciones de este fenómeno mundial: este sábado, arranca los 10 conciertos que dará en Madrid</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський синхронізував санкції з рішеннями ЄС",
+    "link": "https://ua.korrespondent.net/ukraine/4882699-zelenskyi-synkhronizuvav-sanktsii-z-rishenniamy-yes",
+    "pubDate": "2026-05-30 13:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446262.jpg\">Синхронізація санкцій охоплює 120 осіб та організацій і запроваджує обмеження, спрямовані на ключові сектори економіки РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts acusa a Illa de estar más preocupado por \"salvar\" al PSOE de sus \"corruptelas\" que del \"sufrimiento\" de los catalanes",
+    "link": "https://www.elperiodico.com/es/politica/20260530/jordi-turull-convencion-municipalista-junts-130808246",
+    "pubDate": "2026-05-30 13:19:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Jordi Turull reprocha a Pedro Sánchez que siga en la Moncloa a pesar de tener \"una mayoría parlamentaria en contra\" en el Congreso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260530/junts-convencion-municipalista-candidato-barcelona-elecciones-municipales-130708352\">Junts celebra su convención municipalista con la disputa abierta por Barcelona</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La princesa Leonor preside el Día de las Fuerzas Armadas por primera vez",
+    "link": "https://www.elperiodico.com/es/videos/politica/princesa-leonor-preside-dia-fuerzas/130832453.shtml",
+    "pubDate": "2026-05-30 13:15:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вінгер збірної України потрапив у сферу інтересів клубу МЛС",
+    "link": "https://ua.korrespondent.net/sport/football/4882697-vinher-zbirnoi-ukrainy-potrapyv-u-sferu-interesiv-klubu-mls",
+    "pubDate": "2026-05-30 13:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446261.jpg\">Олександр Зубков виставлений на трансфер керівництвом Трабзонспора.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El principio fundamental",
+    "link": "https://www.elperiodico.com/es/opinion/20260530/el-principio-fundamental-articulo-rafael-vilasanjuan-130831988",
+    "pubDate": "2026-05-30 13:09:06",
+    "category": "",
+    "description": "<h2 class=\"item\">La guerra de Irán no era necesaria, ni aconsejable y el resultado puede acabar siendo lo que todos pensamos, el fracaso de de un presidente bravucón incapaz de entender que las guerras no solo se ganan si tienes el ejercito más poderoso del mundo en primera línea, sino también la posibilidad de ganar la retaguardia.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія відкликала посла з Вірменії \"для консультацій\"",
+    "link": "https://ua.korrespondent.net/world/russia/4882695-rosiia-vidklykala-posla-z-virmenii-dlia-konsultatsii",
+    "pubDate": "2026-05-30 12:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446245.jpg\">З послом проведуть роботу у зв'язку з кроками вірменського керівництва зі зближення з Євросоюзом, пояснили у Москві.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lotería Nacional hoy: resultados y comprobar números premiados en el sorteo de este sábado 30 de mayo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260530/loteria-nacional-hoy-resultados-comprobar-numeros-sabado-130829859",
+    "pubDate": "2026-05-30 12:58:00",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Giro de Italia, etapa 20: Gemona del Friuli - Piancavallo, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/ciclismo/20260530/giro-italia-etapa-20-gemona-130830021",
+    "pubDate": "2026-05-30 12:49:20",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Controlado el incendio de vegetación en Barberà de la Conca (Tarragona)",
+    "link": "https://www.elperiodico.com/es/sucesos/20260530/bombers-incendio-vegetacion-forestal-barbera-conca-tarragona-130831757",
+    "pubDate": "2026-05-30 12:48:11",
+    "category": "",
+    "description": "<h2>Los Bombers han trabajado el perímetro con herramientas manuales y línea de agua, y continúan rematando puntos calientes con 10 dotaciones terrestres y 1 helicóptero</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona se prepara para los cortes de tráfico por la visita del papa León XIV y coloca carteles informativos en la ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20260530/cortes-barcelona-visita-papa-leon-xiv-eixample-2026-130830944",
+    "pubDate": "2026-05-30 12:43:26",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260528/metro-barcelona-cierra-sagrada-familia-visita-papa-leon-xiv-10-junio-130741309\" target=\"_blank\">El metro de Barcelona cerrará la estación de Sagrada Família el 10 de junio por la visita del papa León XIV</a></h2><h2>Dispositivo | <a href=\"https://www.elperiodico.com/es/sociedad/20260528/6-000-policias-cortes-trafico-130755062\" >Más de 6.000 policías para la visita de León XIV a Barcelona</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Hegseth, secretario de Guerra de EEUU: \"Trump es paciente en la búsqueda de un acuerdo con Irán\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/hegseth-secretario-guerra-eeuu-trump/130831627.shtml",
+    "pubDate": "2026-05-30 12:36:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Катар відмовився розморозити $12 млрд для Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4882693-katar-vidmovyvsia-rozmorozyty-12-mlrd-dlia-iranu-zmi",
+    "pubDate": "2026-05-30 12:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446229.jpg\">Доха запропонувала розморозити лише $6 млрд у вигляді кредиту, на який Тегеран купував би лише катарські товари, стверджують джерела.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У команді Усика пояснили зупинку бою з Верховеном",
+    "link": "https://ua.korrespondent.net/sport/boks/4882691-u-komandi-usyka-poiasnyly-zupynku-boui-z-verkhovenom",
+    "pubDate": "2026-05-30 12:35:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446228.jpg\">Погляд команди чемпіона: менеджер Усика прокоментував суддівство у поєдинку проти Верховена.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pillado un hombre en Oviedo con una cámara bajo la peluca y un pinganillo para que le chivasen las respuestas del examen de recuperación el carné de conducir",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/pillado-hombre-oviedo-camara-peluca/130797710.shtml",
+    "pubDate": "2026-05-30 12:30:04",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Pillado con una cámara bajo la peluca y un pinganillo para que le chivasen las respuestas del examen de recuperación del carné de conducir",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260530/pillado-camara-peluca-pinganillo-examen-permiso-conducir-dv-130815440",
+    "pubDate": "2026-05-30 12:30:04",
+    "category": "",
+    "description": "<h2>El infractor se enfrenta a una multa de 500 euros y no podrá presentarse a más pruebas en seis meses</h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260524/500-euros-perdida-4-puntos-error-muchos-conductores-carnet-conducir-dv-130263606\" target=\"_blank\">500 euros de multa y 4 puntos del permiso de conducir: el error que muchos conductores desconocen</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни повторно вдарили по Запоріжжю, є жертви",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4882689-rosiiany-povtorno-vdaryly-po-zaporizhzhui-ye-zhertvy",
+    "pubDate": "2026-05-30 12:13:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446211.jpg\">Внаслідок ворожої атаки пошкоджено дев'ять багатоквартирних будинків, один з яких отримав значні руйнування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La neurocientífica Nazareth Castellanos: \"No vemos las cosas como son, sino como somos\"",
     "link": "https://www.elperiodico.com/es/ser-feliz/20260530/neurociencia-nazareth-castellanos-vemos-cosas-como-somos-dv-130446776",
     "pubDate": "2026-05-30 12:10:00",
@@ -948,6 +1155,15 @@
     "title": "Kit de supervivencia si vas a un festival de música",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/kit-supervivencia-festival-musica-130724903-rm/index.html",
     "pubDate": "2026-05-30 06:00:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 ciudades españolas donde comprar un piso se lleva más del 50% del sueldo",
+    "link": "https://www.elperiodico.com/es/economia/esfuerzo-compra-vivienda-barcelona-palma-madrid-malaga-130511336-rm/index.html",
+    "pubDate": "2026-05-30 06:00:32",
     "category": "",
     "description": "",
     "topic": "",
