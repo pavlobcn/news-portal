@@ -1,8 +1,10 @@
-# News for 2026-05-30 22:45
+# News for 2026-05-30 23:42
 
 Previous day: [2026-05-29](./data/2026-05-29.md)
 
 ## ua.korrespondent.net
+23:12 [У Ростовській області палає нафтобаза - соцмережі](https://ua.korrespondent.net/world/russia/4882774-u-rostovskii-oblasti-palaie-naftobaza-sotsmerezhi)<br>
+22:52 [Естонія розгортає системи моніторингу дронів на кордоні з РФ](https://ua.korrespondent.net/world/4882772-estoniia-rozghortaie-systemy-monitorynhu-droniv-na-kordoni-z-rf)<br>
 22:24 [Фредеріксен переконана, що РФ готує нові удари по Європі](https://ua.korrespondent.net/world/4882770-frederiksen-perekonana-scho-rf-hotuie-novi-udary-po-yevropi)<br>
 21:56 [Сили оборони спростували фейк РФ про "удар України" по ЗАЕС](https://ua.korrespondent.net/ukraine/4882766-syly-oborony-sprostuvaly-feik-rf-pro-udar-ukrainy-po-zaes)<br>
 21:25 [Зеленський прокоментував погрози Путіна Вірменії](https://ua.korrespondent.net/ukraine/4882764-zelenskyi-prokomentuvav-pohrozy-putina-virmenii)<br>
@@ -64,6 +66,8 @@ Previous day: [2026-05-29](./data/2026-05-29.md)
 07:52 [¿Dónde jugará el Madrid la próxima temporada?](https://as.com/baloncesto/euroliga/donde-jugara-el-madrid-la-proxima-temporada-f202605-n/)<br>
 
 ## www.elperiodico.com
+23:17 [La portada de EL PERIÓDICO del 31 de mayo de 2026](https://www.elperiodico.com/es/sociedad/20260530/portada-periodico-31-mayo-2026-130848536)<br>
+22:45 [La Junta de Andalucía responde al Gobierno y convocará el pacto para el derribo del Algarrobico](https://www.elperiodico.com/es/sociedad/20260530/junta-andalucia-responde-gobierno-convocara-pacto-derribo-algarrobico-130844284)<br>
 21:33 [EEUU ataca un barco que intentaba romper el bloqueo de Washington a Irán cerca del estrecho de Ormuz](https://www.elperiodico.com/es/internacional/20260530/eeuu-ataca-barco-intentaba-romper-bloqueo-washington-iran-cerca-estrecho-ormuz-130846087)<br>
 21:15 [El juez Peinado hacia el remate final de la carrera](https://www.elperiodico.com/es/politica/20260530/juez-peinado-remate-final-carrera-ekaizer-130838018)<br>
 21:04 [Los retos del nuevo Gobierno de la Región de Murcia: Presupuestos, reducir las listas de espera y salvar el Tajo-Segura](https://www.elperiodico.com/es/politica/20260530/retos-nuevo-gobierno-region-murcia-presupuestos-130845486)<br>
