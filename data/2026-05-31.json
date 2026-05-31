@@ -1,5 +1,464 @@
 [
   {
+    "title": "Una dosis única de psilocibina deja huella en el cerebro un mes después",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260531/dosis-unica-psilocibina-deja-huella-130268600",
+    "pubDate": "2026-05-31 08:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio detecta cambios en la actividad cerebral y posibles alteraciones en la sustancia blanca</h2><h2 class=\"item\">La complejidad cerebral durante la experiencia psicodélica podría anticipar mejoras en el bienestar psicológico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP recicla sus propias leyes: 8 de las últimas 14 normas defendidas en el Congreso las impulsó antes en el Senado",
+    "link": "https://www.elperiodico.com/es/politica/20260531/pp-leyes-congreso-reutiliza-senado-130797932",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2>Los populares han reducido drásticamente el impulso de iniciativad en la Cámara Alta en este último periodo de sesiones </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crónica desde París, la ciudad que convirtió sus calles en un salón",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/cronica-paris-ciudad-convirtio-calles-salon-terrazas-130852098",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2>Las terrazas en la capital francesa son un símbolo que han resistido a auténticas transformaciones sociales, crisis históricas e incluso a la reciente pandemia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alimentos de temporada: Judías verdes para saborear la cercanía del verano",
+    "link": "https://www.elperiodico.com/es/economia/20260531/alimentos-temporada-judias-verdes-junio-2026-130272931",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2>Esta hortaliza, que llegó a Europa con otros alimentos de origen americano como el tomate, la patata y el maíz, empieza en junio la producción al aire libre y es ahora cuando presenta mejor textura y frescura</h2><h2><a href=\"https://www.elperiodico.com/es/economia/consumo/20250612/alimentos-temporada-arandanos-frambuesas-junio-2025-117364771\" target=\"_blank\">Alimentos de temporada: arándanos y frambuesas ponen color al mes de junio</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/alimentos-temporada-junio-patata-sh/index.html\" target=\"_blank\">Multimedia | Pequeña guía de alimentos de temporada, en junio llega la patata nueva y el pescado azul</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El cronista de los años duros del sida reivindica su herencia activista: \"Cambiamos la ciencia y la medicina\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/cronista-anos-duros-sida-reivindica-herencia-covid-130729660",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">David France, autor de 'Cómo sobrevivir a una plaga', que ahora se publica en castellano, denuncia una regresión en la lucha contra la enfermedad por las políticas de Trump</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estos son los trabajos y comunidades autónomas en los que más se cobra (y en los que menos)",
+    "link": "https://www.elperiodico.com/es/economia/20260531/estos-son-trabajos-comunidades-autonomas-mas-cobra-y-menos-dv-130796856",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2>El sueldo bruto anual más frecuente en España se sitúa en 16.520,2 euros, por debajo de la media nacional según la Encuesta Anual de Estructura Salarial</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260529/salario-medio-catalunya-maximos-historicos-32000-euros-dv-130789798\" target=\"_blank\">El salario medio en Catalunya alcanza máximos históricos y roza los 32.000 euros, aunque la mayoría cobra 27.000</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Sociedad Matemática pide plazas universitarias para los medallistas científicos, como ya ocurre con los deportistas de élite",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/reserva-plazas-universidad-olimpiadas-matematicas-130498215",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La institución pide al Gobierno, a las autonomías y a los campus que el reconocimiento institucional al esfuerzo y la dedicación deportiva se extienda también al ámbito académico</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260528/como-ayudar-menos-nervios-hijos-selectividad-130715204\" target=\"_blank\">\"Un examen no define tu valía\": qué necesita escuchar tu hijo antes de la selectividad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuando un 10 no basta: la FP superior gana terreno entre buenos brillantes que no logran la nota para la universidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/fp-superior-alternativa-universidad-selectividad-nota-130485218",
+    "pubDate": "2026-05-31 08:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Los umbrales de admisión en las carreras sanitarias y científicas se han disparado tanto que los ciclos se han convertido en una alternativa “perfectamente válida” para los estudiantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260518/mejor-manera-estudiar-selectividad-130352846\" target=\"_blank\">Cómo estudia la selectividad la generación Z: \"El problema no es la IA, sino delegar en ella la tarea de pensar\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mas Barcelona - Gemma Martínez",
+    "link": "https://www.elperiodico.com/es/videos/podcast/barcelona-gemma-martinez/130813802.shtml",
+    "pubDate": "2026-05-31 07:59:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sobre (vivir) a la crianza - Sexo bajo mi techo",
+    "link": "https://www.elperiodico.com/es/videos/podcast/vivir-crianza-sexo-techo/130420941.shtml",
+    "pubDate": "2026-05-31 07:59:22",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Плей-оф НБА: Оклахома поступилася Сан-Антоніо",
+    "link": "https://ua.korrespondent.net/sport/basketball/4882819-plei-of-nba-oklakhoma-postupylasia-san-antonio",
+    "pubDate": "2026-05-31 07:59:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447053.jpg\">Представляємо результати та детальний відеоогляд зіграного матчу в НБА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрони з семи напрямків: як відпрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4882825-drony-z-semy-napriamkiv-yak-vidpratsuivala-ppo",
+    "pubDate": "2026-05-31 07:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447054.jpg\">Зафіксовано влучання 14 ударних БпЛА на 11 локаціях, а також падіння збитих (уламки БпЛА) на п'яти локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Розкрито заробітки фіналістів Ліги чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/football/4882820-rozkryto-zarobitky-finalistiv-lihy-chempioniv",
+    "pubDate": "2026-05-31 07:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447052.jpg\">Арсенал заробив безпрецедентну суму за сезон у Лізі чемпіонів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США атакували судно на шляху до Ірану",
+    "link": "https://ua.korrespondent.net/world/4882821-ssha-atakuvaly-sudno-na-shliakhu-do-iranu",
+    "pubDate": "2026-05-31 07:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447046.png\">Армія США \"зробила понад 20 попереджень\", повідомивши екіпаж \"про порушення американської блокади\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El diagnóstico de Santiago Niño Becerra, economista: “La economía catalana está muy desequilibrada”",
+    "link": "https://www.elperiodico.com/es/catalunya/20260531/salarios-cataluna-barcelona-santiago-nino-becerra-economista-economia-pib-dv-loc-130707910",
+    "pubDate": "2026-05-31 07:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las desigualdades de renta han aumentado en la mayoría de los países occidentales</h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/economia/20260527/gonzalo-bernardos-vivienda-subida-precios-caida-ventas-dv-130705639\" >Gonzalo Bernardos, economista: \"La clase media-alta no está dispuesta a pagar los elevados precios que piden los propietarios\"</a></u></h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/economia/20260512/alfonso-munoz-funcionario-seguridad-social-proporcionalidad-contributiva-jubilacion-anticipada-dv-130131310\" >Alfonso Muñoz, funcionario de la Seguridad Social, sobre la proporcionalidad contributiva de las pensiones: “El sistema debe ser coherente en todos sus elementos”</a></u></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Чернігівщині загинув чоловік внаслідок атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4882817-na-chernihivschyni-zahynuv-cholovik-vnaslidok-ataky-rf",
+    "pubDate": "2026-05-31 07:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447039.jpg\">У ніч на 31 травня російський безпілотник атакував територію одного з підприємств у Корюківському районі області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José Abellán, cardiólogo: \"La buena alimentación salva más vidas que las pastillas\"",
+    "link": "https://www.elperiodico.com/es/salud/20260531/infarto-alimentacion-pastillas-ejercicio-jose-abellan-cardiologo-dv-130451792",
+    "pubDate": "2026-05-31 07:15:29",
+    "category": "",
+    "description": "<h2 class=\"item\">El especialista habla sobre la rehabilitación tras sufrir un infarto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260513/deporte-hormonas-cuerpo-jose-abellan-cardiologo-dv-129881860\">José Abellán, cardiólogo: \"Cuando haces ejercicio, unas hormonas tienen un efecto positivo en todo tu cuerpo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260530/jose-abellan-cardiologo-coautor-estudio-adolescentes-redes-sociales-tca-dv-130635943\">José Abellán, cardiólogo y coautor de un estudio de TCA y adolescentes: \"El uso de redes sociales se asocia a comportamientos compatibles con trastornos de la conducta alimentaria\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Ведмедиця зірвала втечу ухилянта до Румунії",
+    "link": "https://ua.korrespondent.net/ukraine/4882815-vedmedytsia-zirvala-vtechu-ukhylianta-do-rumunii",
+    "pubDate": "2026-05-31 07:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447023.png\">Під час переходу киянин натрапив на дику тварину у Карпатах. Рятуючись від ведмедиці, він виліз на дерево, звідки зателефонував по допомогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Артета готовий розлучитися з гравцем після невдалого сезону",
+    "link": "https://ua.korrespondent.net/sport/football/4882813-arteta-hotovyi-rozluchytysia-z-hravtsem-pislia-nevdaloho-sezonu",
+    "pubDate": "2026-05-31 07:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447022.jpg\">Тренер Арсеналу прокоментував промах Габріела в серії післяматчевих пенальті.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dar el relevo y tomar el relevo",
+    "link": "https://www.elperiodico.com/es/opinion/20260531/dar-relevo-relevo-130826779",
+    "pubDate": "2026-05-31 07:00:28",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maite Gassó, directora creativa de Lola Casademunt: \"Ahora mi madre volverá a la Llotja por la puerta grande\"",
+    "link": "https://www.elperiodico.com/es/gente/20260531/maite-gasso-lola-casademunt-45-aniversario-llotja-mar-entrevista-130744702",
+    "pubDate": "2026-05-31 07:00:20",
+    "category": "",
+    "description": "<h2>La mujer que ha llevado la firma de accesorios al 'total look', nos recibe en su cuartel general de Cardedeu, a solo una semana del gran desfile por el 45º aniversario de la marca. Que se prepare Barcelona, se viene un aquelarre en la Llotja de Mar, 'full color', 'print animal' y muchos famosos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tía de Arancha y Luis Lorenzo, a su cuidadora: \"Me tienen secuestrada. No me dejan irme a Asturias\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260531/luis-lorenzo-tia-isabel-asturias-secuestrada-130851517",
+    "pubDate": "2026-05-31 07:00:20",
+    "category": "",
+    "description": "<h2>Dos mujeres que fueron contratadas por el actor Luis Lorenzo y su pareja Arancha Palomino para cuidar a su tía anciana, que falleció en junio de 2021, la vieron \"bien\" un mes antes: \"Andaba y hablaba, pero no le daban de comer\" </h2><h2>Una de las cuidadoras pidió disculpas por no haber acudido a la policía cuando decidió dejar ese trabajo. Explicó ante el juez que la anciana le dijo: \"Oti, no sabes lo que me hacen cuando tú no estás\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Росії вирішили переписати історію предків Путіна",
+    "link": "https://ua.korrespondent.net/world/russia/4882811-v-rosii-vyrishyly-perepysaty-istoriui-predkiv-putina",
+    "pubDate": "2026-05-31 06:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447009.jpg\">Російська влада вирішила написати історію роду Володимира Путіна. Завдання доручили Російському державному гуманітарному університету.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Moreira a Márquez: \"No sé cuánto tiempo vas a seguir, pero un día tengo que meterte la moto, quiero esa foto\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260531/moreira-marquez-tiempo-vas-seguir-130849231",
+    "pubDate": "2026-05-31 06:51:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Ocurrió en la primera vuelta de la carrera al 'sprint' de ayer en Mugello. El joven brasileño Diogo Moreira (Honda) logró el sueño, la foto, de su vida, aquella en la que adelanta a su ídolo y protector Marc Márquez (Ducati). \"Yo soñaba con tener esa foto algún día\", dijo el brasileño. \"Ala, pues ya la tienes\", añadió, con una amplia sonrisa, su amigo campeón.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Más de 400 detenidos y siete policías heridos durante las celebraciones del PSG en Francia",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/detenciones-heridos-festejos-paris-champions-psg-130848293",
+    "pubDate": "2026-05-31 06:50:00",
+    "category": "",
+    "description": "<h2>Se produjeron altercados y pillajes en unas quince ciudades francesas</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Стала відома оцінка Забарного за фінал Ліги чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/football/4882807-stala-vidoma-otsinka-zabarnoho-za-final-lihy-chempioniv",
+    "pubDate": "2026-05-31 06:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447008.jpg\">Український захисник, який замінив капітана команди Маркіньйоса на 106-й хвилині.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни здійснили 976 ударів по Запорізькій області, є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4882808-rosiiany-zdiisnyly-976-udariv-po-zaporizkii-oblasti-ye-zahybli",
+    "pubDate": "2026-05-31 06:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447007.jpg\">Загалом упродовж доби окупанти завдали 976 ударів по 55 населених пунктах Запорізької області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: última hora |  Israel anuncia operación militar en el sur de Líbano para ampliar su control sobre zonas vinculadas a Hezbolá",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-05-31 06:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кремль відкрив полювання на власних підприємців - розвідка",
+    "link": "https://ua.korrespondent.net/world/4882805-kreml-vidkryv-poluivannia-na-vlasnykh-pidpryiemtsiv-rozvidka",
+    "pubDate": "2026-05-31 06:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446980.jpg\">Федеральна податкова служба РФ методично закриває будь-яку лазівку, через яку підприємці досі рятували свої гроші від держави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ дізналися про нові плани США щодо військ у Європі",
+    "link": "https://ua.korrespondent.net/world/4882803-zmi-diznalysia-pro-novi-plany-ssha-schodo-viisk-u-yevropi",
+    "pubDate": "2026-05-31 06:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446979.jpg\">США мають представити плани союзникам на конференції з пошуку сил Північноатлантичного договору (НАТО) вже наступного місяця.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José Muñoz (CEO de Hyundai): \"Si tratas de adaptar tu estrategia a la legislación te haces muy vulnerable\"",
+    "link": "https://www.elperiodico.com/es/motor/20260531/jose-munoz-ceo-hyundai-solo-adaptas-legislacion-eres-vulnerable-130770697",
+    "pubDate": "2026-05-31 06:03:44",
+    "category": "",
+    "description": "<h2>El CEO mundial de Hyundai reconoce la necesidad de ser flexibles para sobrevivir porque la industría del automóvil va más allá de fabricar coches.</h2><h2>\"\"A España le vendría bien invertir y tener más capacidad de desarrollo tecnológico\"</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La start-up financiera SeQura quiere convertirse en el próximo unicornio catalán antes de 2030",
+    "link": "https://www.elperiodico.com/es/economia/20260531/start-up-financiera-sequra-quiere-130622194",
+    "pubDate": "2026-05-31 06:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">La fintech catalana prevé alcanzar los 1.000 millones de euros en ingresos antes del final de la década tras consolidar su expansión internacional, reforzar su negocio en el sector óptico y evolucionar hacia una infraestructura financiera sectorial con mayor alcance global</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20241112/startup-catalana-pagos-sequra-recauda-410-millones-111623866\">La 'startup' catalana SeQura obtiene 410 millones para entrar en Estados Unidos, Reino Unido y Alemania</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El caudal del Rec Comtal se reduce de forma preocupante en la última semana",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/reduccion-caudal-rec-comtal-preocupante-montcada-130815987",
+    "pubDate": "2026-05-31 06:00:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Las inspecciones realizadas por la ACA este jueves y viernes han constatado que el caudal ha sufrido \"una alteración\"</h2><h2 class=\"item\">MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/sociedad/rio-besos-naturaleza-transformacion-agua-130279879-rm/index.html\" target=\"_blank\">El Besòs busca cómo encajar 'fábricas de agua' y naturaleza</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un siglo de Marilyn Monroe, el mito hermoso y trágico de Hollywood",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260531/centenario-marilyn-monroe-mito-hollywood-130810909",
+    "pubDate": "2026-05-31 06:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El 1 de junio se cumplen 100 años del nacimiento de Norma Jeane Baker, el gran icono sexual y cultural de los 50, que falleció en 1962, a los 36 años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Si vas en grupo no ves lo que te apetece\": así se preparan los festivales ante el auge de los asistentes que van solos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260531/vas-grupo-ves-apetece-preparan-130770371",
+    "pubDate": "2026-05-31 06:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Según un estudio de Ticketmaster, el porcentaje de personas que asiste a conciertos sin acompañante ha aumentado del 8% de antes de la pandemia a un 29% en 2025. Una tendencia que han detectado los promotores, que lo aprovechan para crear comunidad apoyándose en las redes. Es el movimiento 'going solo'. </h2><h2 class=\"item\"><a href=\"https://cms.prensaiberica.es/api/zeta/front/url/article/130798871/es\"  rel=\"nofollow\">Buscador de festivales de música 2026: dónde actúa tu artista favorito y fechas de los conciertos</a></h2><h2 class=\"item\">MULTIMEDIA: <a href=\"https://cms.prensaiberica.es/api/zeta/front/url/scrollytelling/130724903/es\"  rel=\"nofollow\">Kit de supervivencia si vas a un festival de música</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Una Colombia polarizada acude a las urnas para decidir entre profundizar la experiencia de izquierdas o un cambio radical",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/colombia-polarizada-acude-urnas-decidir-izquierda-cambio-radical-ivan-cepeda-de-la-espriella-130851024",
+    "pubDate": "2026-05-31 06:00:34",
+    "category": "",
+    "description": "<h2>Iván Cepeda, el candidato oficialista, lidera los sondeos, que vaticinan una segunda vuelta a finales de junio con el ultraderechista Abelardo de la Espriella</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dos años de la ley de amnistía: ¿quién se ha beneficiado de ella y quién sigue pendiente?",
+    "link": "https://www.elperiodico.com/es/politica/20260531/dos-anos-ley-amnistia-puigdemont-supremo-constitucional-130755275",
+    "pubDate": "2026-05-31 06:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">La ley se ha aplicado a 64 políticos y cargos públicos, mientras que a otros 93 se les ha denegado o están pendientes de resolución</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20241117/cuestion-inconstitucionalidad-supremo-tc-asuntos-proces-111728846\">La cuestión contra la amnistía del Supremo en manos del TC arrastra a todos los asuntos del 'procés'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El quién y el cómo del caso Plus Ultra, más allá de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/plus-ultra-zapatero-protagonistas-130805970-rm/index.html",
+    "pubDate": "2026-05-31 06:00:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El quién y el cómo del caso Plus Ultra, más allá de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260531/caso-plus-ultra-zapatero-130811748",
+    "pubDate": "2026-05-31 06:00:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una inyección del Govern de dos millones busca incentivar el comercio local en el mundo rural catalán",
+    "link": "https://www.elperiodico.com/es/barcelona/20260531/una-inyeccion-del-govern-de-dos-millones-busca-incentivar-el-comercio-local-en-el-mundo-rural-catalan-130802348",
+    "pubDate": "2026-05-31 06:00:30",
+    "category": "",
+    "description": "<h2>El despliegue del Estatut de Municipis Rurals pone el foco en ayudas para micropueblos de menos de 1.000 habitantes</h2><h2>CONTEXTO |  <a href=\"https://www.elperiodico.com/es/barcelona/20260428/reforma-urbanistica-govern-buscara-agilizar-creacion-vivienda-catalunya-rural-129614841\" target=\"_blank\">Una reforma urbanística del Govern buscará agilizar la creación de vivienda en la Catalunya rural</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Vaticano quiere ordenar sus finanzas",
+    "link": "https://www.elperiodico.com/es/economia/20260531/vaticano-quiere-ordenar-finanzas-130795158",
+    "pubDate": "2026-05-31 06:00:27",
+    "category": "",
+    "description": "<h2>Ha tardado 20 años y tres papas en dejar de ser un paraíso fiscal. Hoy sus inversiones financieras éticas son cada vez más un verdadero salvavidas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Reinventar la red viaria: mantenimiento, tecnología y financiación",
+    "link": "https://www.elperiodico.com/es/economia/20260531/reinventar-red-viaria-mantenimiento-tecnologia-bc-130764151",
+    "pubDate": "2026-05-31 06:00:27",
+    "category": "",
+    "description": "<h2>La movilidad del futuro exige infraestructuras más resilientes y sistemas estables de inversión a largo plazo</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La hostelería balear pide \"menos especulación y más largo plazo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260531/hosteleria-balear-pide-especulacion-plazo-130797558",
+    "pubDate": "2026-05-31 06:00:27",
+    "category": "",
+    "description": "<h2>Un centenar de profesionales del sector se reúnen en Palma para debatir sobre la estrategia de gestión, marcada por la diversidad de modelos y la sostenibilidad </h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La tarea más difícil: predicar y dar ejemplo",
+    "link": "https://www.elperiodico.com/es/economia/20260531/tarea-dificil-predicar-dar-ejemplo-130792666",
+    "pubDate": "2026-05-31 06:00:26",
+    "category": "",
+    "description": "<h2>El nivel de gobernanza económica del Vaticano no superaría ningún examen serio de auditoría. La falta de transparencia y la complejidad financiera de la Santa Sede son un reto que puede solucionar León XIV</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hipoteca inversa:sacar rendimiento  a tu casa cuando  te haces mayor",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/hipoteca-inversa-sacar-rendimiento-casa-bc-130787371",
+    "pubDate": "2026-05-31 06:00:25",
+    "category": "",
+    "description": "<h2>Expertos, clientes y familiares defienden este producto bancario como una vía para complementar pensiones y financiar cuidados sin renunciar a la vivienda. El sector prevé un fuerte crecimiento de este tipo de financiación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 30.05:  Втрати РФ і США обіцяють зброю",
+    "link": "https://ua.korrespondent.net/ukraine/4882733-pidsumky-3005-vtraty-rf-i-ssha-obitsiauit-zbroui",
+    "pubDate": "2026-05-31 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446913.jpg\">США збільшать виробництво зброї для України; СБС знищили Іскандер і два Ту-142. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Франції масові заворушення і арешти під час святкування перемоги ПСЖ",
+    "link": "https://ua.korrespondent.net/world/4882800-u-frantsii-masovi-zavorushennia-i-areshty-pid-chas-sviatkuvannia-peremohy-pszh",
+    "pubDate": "2026-05-31 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446899.jpg\">По всій Франції затримали понад 400 осіб, більшість з них - у Парижі. Хулігани палили автомобілі та сміттєві баки, розбивали вітрини магазинів, і навіть здійснили спробу штурму поліцейської дільниці.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ШІ може стати більшою загрозою, ніж ядерна зброя - безпековий форум",
+    "link": "https://ua.korrespondent.net/world/4882798-shi-mozhe-staty-bilshoui-zahrozoui-nizh-yaderna-zbroia-bezpekovyi-forum",
+    "pubDate": "2026-05-31 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446885.jpg\">Використання ШІ скорочує так звану \"петлю OODA\" - цикл спостереження, орієнтації, ухвалення рішення та дії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tabaco sigue siendo la principal de causa prevenible de cáncer en el mundo: \"No existe una cantidad segura\"",
+    "link": "https://www.elperiodico.com/es/salud/20260531/tabaco-sigue-principal-causa-prevenible-cancer-130850450",
+    "pubDate": "2026-05-31 04:50:35",
+    "category": "",
+    "description": "<h2>El tabaquismo es el principal factor de riesgo prevenible a nivel mundial, ligado a millones de diagnósticos y a una de cada cinco muertes por cáncer en Europa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Молдова поки не збирається в НАТО: названа причина",
+    "link": "https://ua.korrespondent.net/world/4882796-moldova-poky-ne-zbyraietsia-v-nato-nazvana-prychyna",
+    "pubDate": "2026-05-31 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446858.jpg\">Ідея вступу в альянс не користується популярністю у більшості населення, через що політики свідомо уникають дискусій на цю тему.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар БПЛА по Румунії: НАТО та ЄС готують спільну відповідь",
+    "link": "https://ua.korrespondent.net/world/4882790-udar-bpla-po-rumunii-nato-ta-yes-hotuuit-spilnu-vidpovid",
+    "pubDate": "2026-05-31 03:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446790.jpg\">У Німеччині наголосили, що удар дрона по житловому будинку у Галаці ще раз свідчать про те, що дії РФ загрожують безпеці громадян по всій Європі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Трейлер як понтон: у ЗСУ показали, як зірвали креативну ідею окупантів",
     "link": "https://ua.korrespondent.net/ukraine/4882791-treiler-yak-ponton-u-zsu-pokazaly-yak-zirvaly-kreatyvnu-ideui-okupantiv",
     "pubDate": "2026-05-31 03:24:00",
