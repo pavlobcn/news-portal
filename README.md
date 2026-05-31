@@ -1,8 +1,9 @@
-# News for 2026-05-31 16:09
+# News for 2026-05-31 17:27
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+16:42 [Зеленський озвучив далекобійні санкції за тиждень](https://ua.korrespondent.net/ukraine/4882911-zelenskyi-ozvuchyv-dalekobiini-sanktsii-za-tyzhden)<br>
 15:55 [ЗСУ ведуть бої з росіянами на 11 напрямках](https://ua.korrespondent.net/ukraine/4882901-zsu-vedut-boi-z-rosiianamy-na-11-napriamkakh)<br>
 15:32 [У Греції пропонують безкоштовне житло за догляд за кішками на острові](https://ua.korrespondent.net/world/4882898-u-hretsii-proponuuit-bezkoshtovne-zhytlo-za-dohliad-za-kishkamy-na-ostrovi)<br>
 15:10 [ЗСУ заявили про контроль над логістикою росіян на Луганщині](https://ua.korrespondent.net/ukraine/4882894-zsu-zaiavyly-pro-kontrol-nad-lohistykoui-rosiian-na-luhanschyni)<br>
@@ -49,6 +50,12 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+17:17 [Para eso pagamos impuestos](https://www.elperiodico.com/es/opinion/20260531/pagamos-impuestos-articulo-opinion-sergi-sol-130863526)<br>
+17:17 [Page desliza en su discurso del Día de Castilla-La Mancha mensajes contra Sánchez y contra los "gestores de odio"](https://www.elperiodico.com/es/videos/politica/page-desliza-discurso-mensajes-contra-sanchez/130863846.shtml)<br>
+17:00 [Samanta Villar, madre y periodista: “Un día te encuentras con la pareja de tu hijo en ropa interior en el pasillo de casa”](https://www.elperiodico.com/es/educacion/20260531/samanta-villar-madre-periodista-dia-130509577)<br>
+16:48 [Page defiende a jueces, fiscales y miembros de las fuerzas de seguridad, que "sufren ataques por hacer su trabajo"](https://www.elperiodico.com/es/politica/20260531/page-defiende-jueces-fiscales-fuerzas-seguridad-ataque-trabajo-130862908)<br>
+16:29 [Irene Montero: “Este Gobierno está enterrado ya”](https://www.elperiodico.com/es/videos/politica/irene-montero-gobierno-enterrado/130862391.shtml)<br>
+16:20 [Brasil investiga dos casos sospechosos de ébola](https://www.elperiodico.com/es/sociedad/20260531/brasil-investiga-casos-sospechosos-ebola-130861907)<br>
 16:05 [Así trasladan a la playa a 'Timmy', la ballena que murió tras ser rescatada](https://www.elperiodico.com/es/videos/sociedad/trasladan-playa-timmy-ballena-murio-rescate/130861488.shtml)<br>
 16:00 [El aviso de Juanma Lorente, abogado laboralista, sobre los despidos en viernes: “La Justicia lo ha dejado claro”](https://www.elperiodico.com/es/economia/20260531/aviso-juanma-lorente-abogado-laboralista-despidos-laborales-dv-130811270)<br>
 16:00 [Bill Gates, Sting y Mark Zuckerberg: la tendencia de los multimillonarios de no dejar herencia a sus hijos](https://www.elperiodico.com/es/gente/20260531/bill-gates-sting-mark-zuckerberg-130763333)<br>
@@ -102,6 +109,7 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 08:00 [Cuando un 10 no basta: la FP superior gana terreno entre buenos brillantes que no logran la nota para la universidad](https://www.elperiodico.com/es/sociedad/20260531/fp-superior-alternativa-universidad-selectividad-nota-130485218)<br>
 07:59 [Mas Barcelona - Gemma Martínez](https://www.elperiodico.com/es/videos/podcast/barcelona-gemma-martinez/130813802.shtml)<br>
 07:59 [Sobre (vivir) a la crianza - Sexo bajo mi techo](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-sexo-techo/130420941.shtml)<br>
+07:53 [Trump ha solicitado varias enmiendas al futuro acuerdo con Irán: "No tengo prisa"](https://www.elperiodico.com/es/internacional/20260531/trump-habria-pedido-enmiendas-futuro-paz-iran-axios-130852015)<br>
 07:30 [El diagnóstico de Santiago Niño Becerra, economista: “La economía catalana está muy desequilibrada”](https://www.elperiodico.com/es/catalunya/20260531/salarios-cataluna-barcelona-santiago-nino-becerra-economista-economia-pib-dv-loc-130707910)<br>
 07:00 [Dar el relevo y tomar el relevo](https://www.elperiodico.com/es/opinion/20260531/dar-relevo-relevo-130826779)<br>
 07:00 [Maite Gassó, directora creativa de Lola Casademunt: "Ahora mi madre volverá a la Llotja por la puerta grande"](https://www.elperiodico.com/es/gente/20260531/maite-gasso-lola-casademunt-45-aniversario-llotja-mar-entrevista-130744702)<br>
