@@ -1,8 +1,10 @@
-# News for 2026-05-31 17:27
+# News for 2026-05-31 18:41
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+18:29 [Зеленський заявив про політичний тиск РФ на НАТО](https://ua.korrespondent.net/ukraine/4882926-zelenskyi-zaiavyv-pro-politychnyi-tysk-rf-na-nato)<br>
+17:35 [Атаки на Запорізьку АЕС: з'явилась реакція МАГАТЕ](https://ua.korrespondent.net/ukraine/4882921-ataky-na-zaporizku-aes-ziavylas-reaktsiia-mahate)<br>
 16:42 [Зеленський озвучив далекобійні санкції за тиждень](https://ua.korrespondent.net/ukraine/4882911-zelenskyi-ozvuchyv-dalekobiini-sanktsii-za-tyzhden)<br>
 15:55 [ЗСУ ведуть бої з росіянами на 11 напрямках](https://ua.korrespondent.net/ukraine/4882901-zsu-vedut-boi-z-rosiianamy-na-11-napriamkakh)<br>
 15:32 [У Греції пропонують безкоштовне житло за догляд за кішками на острові](https://ua.korrespondent.net/world/4882898-u-hretsii-proponuuit-bezkoshtovne-zhytlo-za-dohliad-za-kishkamy-na-ostrovi)<br>
@@ -46,10 +48,15 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 00:21 [Італія напрявляє до Румунії військову місію](https://ua.korrespondent.net/world/4882780-italiia-napriavliaie-do-rumunii-viiskovu-misiui)<br>
 
 ## as.com
+18:20 [Barcelona - Valencia, en directo: Liga Endesa 2025-26 en vivo hoy](https://as.com/baloncesto/acb/barcelona-valencia-en-directo-liga-endesa-2025-26-en-vivo-hoy-f202605-d/)<br>
+17:15 [El Trieste despide a Sissoko rumbo al Madrid](https://as.com/baloncesto/acb/el-trieste-despide-a-sissoko-rumbo-al-madrid-f202605-n/)<br>
 13:26 [Ibon Navarro se marcha del Unicaja](https://as.com/baloncesto/el-unicaja-que-viene-f202605-n/)<br>
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+18:26 [Psicológos coinciden: elegir sentarse en una esquina no implica ser una persona introvertida, sino que responde a una necesidad humana](https://www.elperiodico.com/es/ser-feliz/20260531/psicologia-elegir-sentarse-esquina-introvertido-dv-130667102)<br>
+18:23 [Muere Josep Maria Salvatella, exalcalde de Llançà, exdiputado en el Parlament y escritor de largo recorrido](https://www.elperiodico.com/es/politica/20260531/muere-josep-maria-salvatella-exalcalde-llanca-exdiputado-parlament-130865375)<br>
+17:38 [Las ‘startups’ y sus inversores aplauden la creación de un 'Delawere europeo': "Que cada país tenga sus reglas es una pesadilla administrativa"](https://www.elperiodico.com/es/economia/20260531/startups-inversores-aplauden-creacion-delawere-euorpeo-eu-inc-130864447)<br>
 17:17 [Para eso pagamos impuestos](https://www.elperiodico.com/es/opinion/20260531/pagamos-impuestos-articulo-opinion-sergi-sol-130863526)<br>
 17:17 [Page desliza en su discurso del Día de Castilla-La Mancha mensajes contra Sánchez y contra los "gestores de odio"](https://www.elperiodico.com/es/videos/politica/page-desliza-discurso-mensajes-contra-sanchez/130863846.shtml)<br>
 17:00 [Samanta Villar, madre y periodista: “Un día te encuentras con la pareja de tu hijo en ropa interior en el pasillo de casa”](https://www.elperiodico.com/es/educacion/20260531/samanta-villar-madre-periodista-dia-130509577)<br>
