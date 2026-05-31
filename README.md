@@ -1,8 +1,12 @@
-# News for 2026-05-31 21:58
+# News for 2026-05-31 22:53
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+22:51 [Росіяни атакують Одесу і район дронами, є пошкодження](https://ua.korrespondent.net/city/odessa/4882968-rosiiany-atakuuit-odesu-i-raion-dronamy-ye-poshkodzhennia)<br>
+22:29 [У Польщі торнадо пошкодило майже 20 будівель](https://ua.korrespondent.net/world/4882966-u-polschi-tornado-poshkodylo-maizhe-20-budivel)<br>
+22:24 [Сину Кадирова подарували чергову медаль](https://ua.korrespondent.net/world/russia/4882964-synu-kadyrova-podaruvaly-cherhovu-medal)<br>
+22:00 [Зеленський побачив "вікно" для переговорів з РФ](https://ua.korrespondent.net/ukraine/4882959-zelenskyi-pobachyv-vikno-dlia-perehovoriv-z-rf)<br>
 21:35 [Біля берегів Криму зафіксували землетрус](https://ua.korrespondent.net/ukraine/4882955-bilia-berehiv-krymu-zafiksuvaly-zemletrus)<br>
 21:16 [Румунія озвучила результат експертизи дрона](https://ua.korrespondent.net/world/4882952-rumuniia-ozvuchyla-rezultat-ekspertyzy-drona)<br>
 20:53 [У М'янмі понад 40 загиблих через вибух на складі](https://ua.korrespondent.net/world/4882948-u-mianmi-ponad-40-zahyblykh-cherez-vybukh-na-skladi)<br>
@@ -56,6 +60,12 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 00:21 [Італія напрявляє до Румунії військову місію](https://ua.korrespondent.net/world/4882780-italiia-napriavliaie-do-rumunii-viiskovu-misiui)<br>
 
 ## as.com
+22:00 [Resumen del Barcelona vs Valencia Basket , jornada 33 de la Liga Endesa](https://as.com/videos/acb/resumen-del-barcelona-vs-valencia-basket-jornada-33-de-la-liga-endesa-f202605-v/)<br>
+22:00 [Resumen del Barcelona vs Valencia Basket , jornada 33 de la Liga Endesa](https://as.com/videos/acb/resumen-del-barcelona-vs-valencia-basket-jornada-33-de-la-liga-endesa-f202605-v/)<br>
+22:00 [Resumen del Barcelona vs Valencia Basket , jornada 33 de la Liga Endesa](https://as.com/videos/acb/resumen-del-barcelona-vs-valencia-basket-jornada-33-de-la-liga-endesa-f202605-v/)<br>
+22:00 [Resumen del Barcelona vs Valencia Basket , jornada 33 de la Liga Endesa](https://as.com/videos/acb/resumen-del-barcelona-vs-valencia-basket-jornada-33-de-la-liga-endesa-f202605-v/)<br>
+21:46 [Xavi Pascual: “Hemos hecho el ridículo”](https://as.com/baloncesto/acb/xavi-pascual-hemos-hecho-el-ridiculo-f202605-n/)<br>
+20:41 [El Barça se desangra](https://as.com/baloncesto/el-barca-se-desangra-f202605-n/)<br>
 20:35 [Así quedan los playoffs de la Liga Endesa: cuadro, emparejamientos y cuándo se juegan los partidos](https://as.com/baloncesto/acb/asi-quedan-los-playoffs-de-la-liga-endesa-cuadro-emparejamientos-y-cuando-se-juegan-los-partidos-f202605-n/)<br>
 18:20 [Barcelona - Valencia, en directo: Liga Endesa 2025-26 en vivo hoy](https://as.com/baloncesto/acb/barcelona-valencia-en-directo-liga-endesa-2025-26-en-vivo-hoy-f202605-d/)<br>
 17:15 [El Trieste despide a Sissoko rumbo al Madrid](https://as.com/baloncesto/acb/el-trieste-despide-a-sissoko-rumbo-al-madrid-f202605-n/)<br>
@@ -63,6 +73,8 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+22:22 [La portada de EL PERIÓDICO del 1 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260531/portada-periodico-1-junio-2026-130871716)<br>
+22:21 [Dos heridas al hundirse una terraza en Girona y caer al local de abajo](https://www.elperiodico.com/es/sucesos/20260531/heridos-hundirse-terraza-girona-caer-metros-local-abajo-130871833)<br>
 21:53 [Los sindicatos se encierran en la Conselleria de Educación valenciana a la espera de una respuesta y denuncian cargas policiales en los manifestantes](https://www.elperiodico.com/es/videos/sociedad/sindicatos-encierran-conselleria-educacion-valenciana/130870717.shtml)<br>
 21:53 [Los sindicatos se encierran en la conselleria de Educación valenciana a la espera de una respuesta y denuncian cargas policiales en los manifestantes](https://www.elperiodico.com/es/sociedad/20260531/stepv-ccoo-ugt-permanecen-conselleria-educacion-valenciana-denuncia-cargas-policiales-130871021)<br>
 21:31 [El PSOE andaluz, vapuleado entre Zapatero y la 'fontanera' de Ferraz: "Es un milagro que tuviéramos un millón de votos"](https://www.elperiodico.com/es/politica/20260531/psoe-andaluz-vapuleado-zapatero-fontanera-130870929)<br>
