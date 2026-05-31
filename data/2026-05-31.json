@@ -1,5 +1,338 @@
 [
   {
+    "title": "Se amplía la oferta del servicio de bus entre Barcelona y el Aeropuerto de Girona durante los meses de verano",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260531/amplia-oferta-servicio-bus-barcelona-aeropuerto-girona-verano-130854244",
+    "pubDate": "2026-05-31 10:45:18",
+    "category": "",
+    "description": "<h2>El servicio tendrá un horario regular con 56 expediciones diarias, un 40% más que el año pasado (40) y las mejoras se mantendrán hasta el 31 de octubre</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Росіяни вдарили по Дніпру",
+    "link": "https://ua.korrespondent.net/city/dnepr/4882856-rosiiany-vdaryly-po-dnipru",
+    "pubDate": "2026-05-31 10:34:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447149.jpg\">Наразі інформація про постраждалих уточнюється, відзначив начальник ОВА Ганжа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Restablecida la circulación en la R3 entre La Garriga y Figaró, afectada por un robo de cobre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/interrumpida-linea-r3-rodalies-garriga-figaro-130826108",
+    "pubDate": "2026-05-31 10:33:00",
+    "category": "",
+    "description": "<h2>La incidencia se produjo ayer sábado por la mañana y provocó un pequeño incendio de vegetación en la zon</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ni residencia ni vivir solo: este hombre de 84 años sorprende con su solución para envejecer acompañado",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/residencia-vivir-hombre-84-anos-solucion-envejecer-acompanado-dv-130816887",
+    "pubDate": "2026-05-31 10:31:23",
+    "category": "",
+    "description": "<h2>Jacob Watson encontró la fórmula: compartir su casa con inquilinos que le ayudan a cambio de un alquiler reducido</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260528/downsizing-inmobiliario-jubilados-vivir-casas-mas-pequenas-gastar-menos-dv-130762304\" target=\"_blank\">‘Downsizing’ inmobiliario: cada vez más jubilados se plantean vivir en casas más pequeñas para gastar menos</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260526/jubilacion-flexible-autonomos-nuevos-cambios-seguridad-social-130680765\" target=\"_blank\">Cambios en la jubilación flexible: así pueden los autónomos volver a trabajar y seguir cobrando su pensión</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Енріке націлився повторити історичний успіх Реала",
+    "link": "https://ua.korrespondent.net/sport/football/4882853-enrike-natsilyvsia-povtoryty-istorychnyi-uspikh-reala",
+    "pubDate": "2026-05-31 10:30:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447148.jpg\">Луїс Енріке висловився щодо можливості оформити хет-трик із кубків Ліги чемпіонів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Huelga de profesores en Catalunya, en directo | Última hora del acuerdo con Educació y la decisión de USTEC de desconvocar la huelga",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594",
+    "pubDate": "2026-05-31 10:28:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260528/propuesta-definitiva-educacio-eleva-400-euros-sueldo-docentes-huelga-130755713\">Los profesores catalanes rechazan la subida de sueldo de 400 euros mensuales y se encierran en la conselleria</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260526/lidon-gasull-directora-affac-profesores-atender-conjunto-alumando-papel-familias-conflicto-sindicatos-130659810\">Lidón Gasull, directora de la aFFaC: \"Los profesores que no quieran trabajar para todos los alumnos, sean como sean, que se dediquen a otra cosa\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Spurs destronan a los Thunder y jugarán la gran final contra los Knicks",
+    "link": "https://www.elperiodico.com/es/deportes/20260531/spurs-destronan-thunder-final-nba-130853509",
+    "pubDate": "2026-05-31 10:27:01",
+    "category": "",
+    "description": "<h2 class=\"item\">El conjunto de San Antonio, liderado por Wembanyama, se impuso en Oklahoma (103-111) en el séptimo y decisivo partido de las finales del Oeste.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué están apareciendo gigantescos hoyos en Turquía? Ya hay 700 y la población está angustiada",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260531/apareciendo-gigantescos-hoyos-turquia-hay-125550477",
+    "pubDate": "2026-05-31 10:25:00",
+    "category": "",
+    "description": "<h2>Estos enormes socavones son la consecuencia de una acción humana muy frecuente en el planeta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenida una mujer acusada de robar 920 euros de una parroquia de Barcelona que debían sufragar excursiones infantiles",
+    "link": "https://www.elperiodico.com/es/sucesos/20260531/detenida-mujer-robar-920-euros-parroquia-barcelona-excursiones-infantiles-130853936",
+    "pubDate": "2026-05-31 10:19:07",
+    "category": "",
+    "description": "<h2>Los sospechosos, que se hicieron pasar por personas necesitadas, hicieron salir al cura de su despacho y robaron el dinero aprovechando su distracción </h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Японія відповіла на критику Пекіна щодо оборонної політики",
+    "link": "https://ua.korrespondent.net/world/4882852-yaponiia-vidpovila-na-krytyku-pekina-schodo-oboronnoi-polityky",
+    "pubDate": "2026-05-31 10:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447140.jpg\">Японія відповіла на звинувачення Китаю у \"новому мілітаризмі\", наголосивши на прозорості своєї оборонної політики.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Опубліковано заявку збірної України на матч з Польщею",
+    "link": "https://ua.korrespondent.net/sport/football/4882848-opublikovano-zaiavku-zbirnoi-ukrainy-na-match-z-polscheui",
+    "pubDate": "2026-05-31 10:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447137.jpg\">Кадрові сюрпризи: хто увійшов до заявки національної команди на найближчий товариський матч.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El refugio de Luis Enrique (56 años): un paraíso cantábrico de menos de 100 habitantes, entre carreteras estrechas y acantilados, con una playa declarada monumento natural",
+    "link": "https://www.elperiodico.com/es/gente/20260531/refugio-luis-enrique-paraiso-cantabrico-acantilados-dv-129947483",
+    "pubDate": "2026-05-31 10:10:00",
+    "category": "",
+    "description": "<h2>El entrenador del Paris Saint-Germain elige la tranquilidad de Soirana, un enclave rural de Navia, para recargar energías lejos de los focos mediáticos</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260220/luis-enrique-padres-mayor-ejemplo-dv-127060623\">Luis Enrique: \"Mis padres fueron y siguen siendo el mayor ejemplo que tengo de lo que significa luchar, trabajar y sacrificarse por una familia\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lola López- Muelas, abogada de familia: \"Los casos de sustracciones internacionales de menores son muy frecuentes en Mallorca\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/lola-lopez-muelas-abogada-familia-sustracciones-internacionales-menores-frecuentes-mallorca-130853698",
+    "pubDate": "2026-05-31 10:09:11",
+    "category": "",
+    "description": "<h2>La presidenta de la la Asociación Española de Abogados de Familia (AEAFA) ha estado esta semana en Palma para participar en unas jornadas sobre derecho de familia. Especializada en sustracción de menores, señala: “Ahora el porcentaje es mucho mayor de mujeres que sustraen a los niños que hombres”</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor de la contradicción",
+    "link": "https://www.elperiodico.com/es/opinion/20260531/calor-contradiccion-articulo-emma-riverola-130853297",
+    "pubDate": "2026-05-31 10:00:33",
+    "category": "",
+    "description": "<h2>La subida de la temperatura de los termómetros de los últimos días ha coincidido con un ascenso también del nivel de la contradicción de una buena parte de la ciudadanía progresista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ayuntamiento completa la transformación de Marina frente a la Sagrada Família en una ágora, cuando sea posible, vecinal",
+    "link": "https://www.elperiodico.com/es/barcelona/eixample/20260531/ayuntamiento-completa-transformacion-marina-frente-130786440",
+    "pubDate": "2026-05-31 10:00:30",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260528/metro-barcelona-cierra-sagrada-familia-visita-papa-leon-xiv-10-junio-130741309\" target=\"_blank\">El metro de Barcelona cerrará la estación de Sagrada Família el 10 de junio por la visita del papa León XIV</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260522/souvenirs-turisticos-papa-aterrizan-tiendas-sagrada-familia-130536388\" target=\"_blank\">Los souvenirs turísticos del Papa aterrizan en el entorno de la Sagrada Família y se adelantan al 'merchandising' oficial</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jamones y chorizos",
+    "link": "https://www.elperiodico.com/es/opinion/20260531/jamones-chorizos-corrupcion-psoe-zapatero-articulo-jorge-dezcallar-130810803",
+    "pubDate": "2026-05-31 10:00:30",
+    "category": "",
+    "description": "<h2>Se echa de menos una acción más decidida contra la corrupción por parte de la clase política</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260524/pnv-zapatero-gobierno-sanchez-elecciones-aitor-esteban-130597549\">El PNV se aleja de Sánchez y ve \"irresponsable\" que agote el mandato hasta mediados de 2027</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260526/zapatero-solicita-aplazamiento-declaracion-complejidad-130665352\">El juez atiende la petición de Zapatero y aplaza su declaración al 17 y 18 de junio por la complejidad de las acusaciones contra él</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Fiat amplía su catálogo urbano con el nuevo 500 Dolcevita, una versión retro de colección",
+    "link": "https://www.elperiodico.com/es/motor/20260531/fiat-amplia-catalogo-urbano-nuevo-500-dolcevita-130751414",
+    "pubDate": "2026-05-31 10:00:30",
+    "category": "",
+    "description": "<h2>La firma combina el espíritu mediterráneo con la versatilidad en un modelo con carrocería descapotable</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна отримала нову пускову установку IRIS-T",
+    "link": "https://ua.korrespondent.net/ukraine/4882847-ukraina-otrymala-novu-puskovu-ustanovku-IRIS-T",
+    "pubDate": "2026-05-31 09:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447129.jpg\">Зеленський висловив вдячність Німеччині за постійний внесок у захист, зауваживши, що тисячі життів вдалося зберегти саме завдяки сильній підтримці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Manuel Manzano, veterinario, avisa: correr mucho no siempre cansa a un perro hiperactivo",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260531/veterinario-manuel-manzano-avisa-correr-perro-hiperactivo-dv-130636167",
+    "pubDate": "2026-05-31 09:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto recomienda combinar ejercicio y olfato durante unos minutos para relajar mucho antes a esos perros que parecen tener energía infinita</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Німеччина створює надшвидкий дрон проти реактивних \"Шахедів\"",
+    "link": "https://ua.korrespondent.net/world/4882845-nimechchyna-stvoruiie-nadshvydkyi-dron-proty-reaktyvnykh-shakhediv",
+    "pubDate": "2026-05-31 09:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447128.jpg\">Метою програми є створення безпілотника, здатного розвивати швидкість понад 700 км/год.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, en directo, última hora | La OTAN y la UE arremeten contra Rusia tras el impacto de un dron en Rumania",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/guerra-ucrania-rusia-directo-ultima-126605559",
+    "pubDate": "2026-05-31 09:34:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Сумщині дрони РФ поранили двох цивільних",
+    "link": "https://ua.korrespondent.net/ukraine/4882842-na-sumschyni-drony-rf-poranyly-dvokh-tsyvilnykh",
+    "pubDate": "2026-05-31 09:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447120.jpg\">Правоохоронці задокументували наслідки атак, зафіксували руйнування та зібрали докази воєнних злочинів РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ruta de bares de Cobi de Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260531/ruta-bares-cobi-barcelona-olimpiada-92-olimpic-130846902",
+    "pubDate": "2026-05-31 09:15:06",
+    "category": "",
+    "description": "<h2>¿Dónde está Cobi?, ¿mirando obras? No, no. A la mascota de Mariscal, que en el 92 ya tenía barriguilla cervecera, aún se la puede ver de bares </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/donde-comer/20260530/pizzas-virales-picnic-playa-barceloneta-barcelona-barata-130818250\" target=\"_blank\"> Pícnic en la playa por 3 euros: estas son las pizzas más virales de la Barceloneta</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Беллью зробив гучний прогноз на реванш Усика і Верховена",
+    "link": "https://ua.korrespondent.net/sport/boks/4882839-bellui-zrobyv-huchnyi-prohnoz-na-revansh-usyka-i-verkhovena",
+    "pubDate": "2026-05-31 09:10:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447106.jpg\">Верховену порадили навіть не думати про поєдинки проти Джошуа і Ф’юрі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gemma Martínez: \"Dirigir El Periódico es un privilegio y una oportunidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260531/gemma-martinez-dirigir-periodico-privilegio-130810749",
+    "pubDate": "2026-05-31 09:00:25",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260521/gemma-martinez-sera-directora-periodico-130482162\">Gemma Martínez será directora de EL PERIÓDICO a partir del 1 de junio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La batalla por liderar las juventudes del PP: un elegido de Ayuso y una diputada valenciana rivalizan con el candidato continuista",
+    "link": "https://www.elperiodico.com/es/politica/20260531/juventudes-pp-nuevas-generaciones-batalla-liderazgo-ayuso-moreno-130747812",
+    "pubDate": "2026-05-31 09:00:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Ignacio Dancausa, líder de NNGG de Madrid; Candela Anglés, parlamentaria de Les Corts; y Antonio Landáburu, de las juventudes del PP de Murcia, se disputan la presidencia </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260311/genova-atribuye-crisis-nngg-herencia-127801010\" target=\"_blank\">Génova atribuye la crisis de NNGG a una herencia envenenada del casadismo</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "¿De Meliá a Marriott? El órdago de Trump sobre Cuba amenaza el negocio turístico de empresas españolas",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/melia-marriott-amenaza-trump-cuba-turismo-negocio-empresas-espanolas-130852650",
+    "pubDate": "2026-05-31 09:00:25",
+    "category": "",
+    "description": "<h2>El secretario de Estado, Marco Rubio, ha puesto en el foco a la empresa estatal cubana GAESA, que controla las concesiones hoteleras, entre ellas las que ahora ostentan las empresas españolas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Radiografía de GAESA, el emporio militar empresarial de Cuba que Estados Unidos quiere hundir",
+    "link": "https://www.elperiodico.com/es/internacional/20260531/radiografia-gaesa-emporio-militar-empresarial-cuba-eeuu-quiere-hundir-130852717",
+    "pubDate": "2026-05-31 09:00:25",
+    "category": "",
+    "description": "<h2>El grupo controla el turismo, gasolineras, las finanzas, la recepción de remesas, los supermercados en dólares, servicios médicos e internet</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Китай вислав журналістку NYT після інтерв’ю з президентом Тайваню",
+    "link": "https://ua.korrespondent.net/world/4882837-kytai-vyslav-zhurnalistku-NYT-pislia-intervui-z-prezydentom-taivanui",
+    "pubDate": "2026-05-31 08:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447098.jpg\">Пекін у лютому зобов'язав журналістку Вівіан Ван залишити країну після інтерв'ю газети з Лай Цінде, опублікованим у грудні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зінченко підтримав засмученого Габріела",
+    "link": "https://ua.korrespondent.net/sport/football/4882833-zinchenko-pidtrymav-zasmuchenoho-habriela",
+    "pubDate": "2026-05-31 08:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447097.jpg\">Арсенал програв ПСЖ серію пенальті у фіналі єврокубка через неточний удар Габріеля.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Absuelto de violar a una menor de 14 años por la ‘cláusula Romeo y Julieta’",
+    "link": "https://www.elperiodico.com/es/sucesos/20260531/absuelto-violar-menor-14-anos-clausula-romeo-julieta-130852404",
+    "pubDate": "2026-05-31 08:43:56",
+    "category": "",
+    "description": "<h2>La fiscal pedía inicialmente para el acusado, entonces de 17 años, diez años de prisión por un presunto delito de abusos sexuales</h2><h2>La denunciante declaró en el juicio que fueron relaciones consentidas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dubái se fija en el mercado español",
+    "link": "https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/",
+    "pubDate": "2026-05-31 08:40:00",
+    "category": "Baloncesto",
+    "description": "El Dubái le birla dos fichajes casi hechos al Barcelona y también a Pascual. Otros dos técnicos nacionales habían sido tanteados. Diakite, del Baskonia, irá igualmente allí.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Бердянську дітей змусили виготовляти речі для російських військових - ЦНС",
+    "link": "https://ua.korrespondent.net/ukraine/4882834-u-berdiansku-ditei-zmusyly-vyhotovliaty-rechi-dlia-rosiiskykh-viiskovykh-tsns",
+    "pubDate": "2026-05-31 08:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447096.jpg\">Через дитячі табори окупанти намагаються сформувати у молодого покоління позитивне ставлення до російських військових та війни загалом.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Posturitas y slogans",
+    "link": "https://www.elperiodico.com/es/opinion/20260531/posturitas-slogans-real-madrid-florentino-articulo-carlos-perez-laporta-130852233",
+    "pubDate": "2026-05-31 08:24:42",
+    "category": "",
+    "description": "<h2>Sólo un loco podía haberse hecho cargo del Real Madrid en junio de 2009. Parecía que no éramos nada. Pero la fe inaudita de Florentino en el Real Madrid nos hizo creer contra toda esperanza.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Решфорд розраховує продовжити кар'єру в Барселоні",
+    "link": "https://ua.korrespondent.net/sport/football/4882827-reshford-rozrakhovuie-prodovzhyty-karieru-v-barseloni",
+    "pubDate": "2026-05-31 08:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447078.jpg\">Головний тренер Хансі Флік задоволений англійським нападником і готовий залишити його в складі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Озвучено нові втрати росіян на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4882831-ozvucheno-novi-vtraty-rosiian-na-fronti",
+    "pubDate": "2026-05-31 08:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447080.jpg\">Загальні втрати країни-агрессора Росії з початку повномасштабного вторгнення орієнтовно становлять 1 364 060 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оновив карту боїв на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4882828-henshtab-onovyv-kartu-boiv-na-fronti",
+    "pubDate": "2026-05-31 08:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447056.jpg\">Протягом доби зафіксовано 302 боєзіткнення. Найгарячішими залишається Покровський та Гуляйпільський напрямки, де відбулося по 46 атак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Una dosis única de psilocibina deja huella en el cerebro un mes después",
     "link": "https://www.elperiodico.com/es/ser-feliz/20260531/dosis-unica-psilocibina-deja-huella-130268600",
     "pubDate": "2026-05-31 08:00:29",
@@ -70,6 +403,15 @@
     "description": "<h2 class=\"item\">Los umbrales de admisión en las carreras sanitarias y científicas se han disparado tanto que los ciclos se han convertido en una alternativa “perfectamente válida” para los estudiantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260518/mejor-manera-estudiar-selectividad-130352846\" target=\"_blank\">Cómo estudia la selectividad la generación Z: \"El problema no es la IA, sino delegar en ella la tarea de pensar\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Польща VS Україна: прев’ю матчу збірної",
+    "link": "https://ua.korrespondent.net/sport/4882722-polscha-VS-ukraina-prevui-matchu-zbirnoi",
+    "pubDate": "2026-05-31 08:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4446399.jpg\">\r\nПропонуємо вашій увазі разом із betking, ліцензійним беттінг-партнером проєкту, анонс товариського матчу між збірними Польщі та України.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Mas Barcelona - Gemma Martínez",
@@ -439,6 +781,15 @@
     "description": "<h2>El tabaquismo es el principal factor de riesgo prevenible a nivel mundial, ligado a millones de diagnósticos y a una de cada cinco muertes por cáncer en Europa</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Sorato Anraku, oro de boulder en la World Climbing Series: \"Siempre que compito voy buscando la victoria, me imaginaba ya ganador antes de la final\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260531/sorato-anraku-oro-boulder-world-130850164",
+    "pubDate": "2026-05-31 04:30:06",
+    "category": "",
+    "description": "<h2>El escalador japonés se ha coronado campeón de boulder de la World Climbing Series Comunidad de Madrid 2026 en Alcobendas este sábado</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Молдова поки не збирається в НАТО: названа причина",
