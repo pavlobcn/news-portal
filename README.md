@@ -1,8 +1,12 @@
-# News for 2026-05-31 10:51
+# News for 2026-05-31 12:51
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+12:39 [У Білорусі виявили ймовірну дислокацію Орєшника](https://ua.korrespondent.net/world/4882872-u-bilorusi-vyiavyly-ymovirnu-dyslokatsiui-orieshnyka)<br>
+12:22 [Китай пригрозив "відповісти" на торговельні обмеження ЄС](https://ua.korrespondent.net/business/economics/4882870-kytai-pryhrozyv-vidpovisty-na-torhovelni-obmezhennia-yes)<br>
+11:18 [Генштаб підтвердив ураження Саратовського НПЗ](https://ua.korrespondent.net/ukraine/4882863-henshtab-pidtverdyv-urazhennia-saratovskoho-npz)<br>
+10:53 [Кличко привітав усіх українців з Днем Києва](https://ua.korrespondent.net/city/kiev/4882860-klychko-pryvitav-usikh-ukraintsiv-z-dnem-kyieva)<br>
 10:34 [Росіяни вдарили по Дніпру](https://ua.korrespondent.net/city/dnepr/4882856-rosiiany-vdaryly-po-dnipru)<br>
 10:17 [Японія відповіла на критику Пекіна щодо оборонної політики](https://ua.korrespondent.net/world/4882852-yaponiia-vidpovila-na-krytyku-pekina-schodo-oboronnoi-polityky)<br>
 09:58 [Україна отримала нову пускову установку IRIS-T](https://ua.korrespondent.net/ukraine/4882847-ukraina-otrymala-novu-puskovu-ustanovku-IRIS-T)<br>
@@ -37,6 +41,18 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+12:48 [Una nueva estrategia reduce un 52% el riesgo de progresión en casos de cáncer de próstata metastásico](https://www.elperiodico.com/es/sociedad/20260531/estrategia-reduce-riesgo-cancer-prostata-metastasis-hospital-vall-hebron-130857464)<br>
+12:46 [Francia prohíbe los saquitos de nicotina: un fenómeno viral y perjudicial entre los jóvenes de EEUU](https://www.elperiodico.com/es/sociedad/20260531/francia-prohibe-saquitos-nicotina-jovenes-fenomeno-viral-dv-130680573)<br>
+12:42 [Muere una montañera finlandesa en una caída durante un descenso en Huesca](https://www.elperiodico.com/es/sucesos/20260531/muere-montanera-finlandesa-caida-durante-130857359)<br>
+12:30 [Nuria Roure, psicóloga del sueño: "Uno de los patrones más frecuentes en la consulta es despertarse y no poder volver a dormir"](https://www.elperiodico.com/es/salud/20260531/fase-rem-sueno-microdespertares-nuria-roure-dv-130660784)<br>
+12:21 [Se hunde parcialmente el tejado del Centre Excursionista de Terrassa sin causar heridos](https://www.elperiodico.com/es/barcelona/terrasa/20260531/se-hunde-parcialmente-tejado-centre-excursionista-terrassa-sin-heridos-130856466)<br>
+12:00 [La relación de los Reyes y los Papas: de la alianza en la transición a visitar una España fragmentada](https://www.elperiodico.com/es/politica/20260531/visita-leon-xiv-relacion-reyes-vaticano-vox-canarias-inmigracion-130833271)<br>
+12:00 [Jesús Bel, capellán penitenciario: “Con su visita a Brians, el Papa hace que la gente mire la cárcel con otros ojos”](https://www.elperiodico.com/es/barcelona/20260531/jesus-bel-capellan-penitenciario-visita-papa-leon-xiv-carcel-brians-barcelona-130794538)<br>
+12:00 [Zapatero,  ¿"Canciller" en la sombra para China y Venezuela?](https://www.elperiodico.com/es/opinion/20260531/zapatero-canciller-sombra-china-venezuela-130812582)<br>
+11:44 [Empate de impotencias, responsabilidad asimétrica](https://www.elperiodico.com/es/opinion/20260531/empate-impotencias-responsabilidad-asimetrica-articulo-astrid-barrio-130855280)<br>
+11:40 [Los científicos coinciden: leer, escuchar música y visitar museos ayudan a frenar el envejecimiento](https://www.elperiodico.com/es/ser-feliz/20260531/actividades-culturales-para-frenar-envejecimiento-humano-dv-130360279)<br>
+11:15 [Israel amplía su operación terrestre en el Líbano y captura un castillo medieval protegido por la UNESCO](https://www.elperiodico.com/es/internacional/20260531/israel-amplia-operacion-terrestre-libano-castillo-beaufort-130854830)<br>
+10:57 [Un meteorito explota sobre Estados Unidos con una explosión equivalente a 300 toneladas de TNT](https://www.elperiodico.com/es/internacional/20260531/meteorito-explota-estados-unidos-toneladas-tnt-130854386)<br>
 10:31 [Ni residencia ni vivir solo: este hombre de 84 años sorprende con su solución para envejecer acompañado](https://www.elperiodico.com/es/sociedad/20260531/residencia-vivir-hombre-84-anos-solucion-envejecer-acompanado-dv-130816887)<br>
 10:28 [Huelga de profesores en Catalunya, en directo | Última hora del acuerdo con Educació y la decisión de USTEC de desconvocar la huelga](https://www.elperiodico.com/es/sociedad/20260531/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594)<br>
 10:27 [Los Spurs destronan a los Thunder y jugarán la gran final contra los Knicks](https://www.elperiodico.com/es/deportes/20260531/spurs-destronan-thunder-final-nba-130853509)<br>
