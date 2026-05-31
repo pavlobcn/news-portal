@@ -1,8 +1,10 @@
-# News for 2026-05-31 19:44
+# News for 2026-05-31 20:51
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+20:28 [Зеленський про Patriot: 60 ракет на місяць - ніщо](https://ua.korrespondent.net/ukraine/4882945-zelenskyi-pro-Patriot-60-raket-na-misiats-nischo)<br>
+19:56 [Чернігів частково знеструмлений через російську атаку](https://ua.korrespondent.net/ukraine/4882939-chernihiv-chastkovo-znestrumlenyi-cherez-rosiisku-ataku)<br>
 19:31 [Зеленський зробив заяву у День Києва](https://ua.korrespondent.net/city/kiev/4882936-zelenskyi-zrobyv-zaiavu-u-den-kyieva)<br>
 19:01 [Укренерго визначилось щодо відключень на початку літа](https://ua.korrespondent.net/ukraine/4882931-ukrenerho-vyznachylos-schodo-vidkluichen-na-pochatku-lita)<br>
 18:46 [500 цілей у Білорусі: Лукашенко відповів погрозами](https://ua.korrespondent.net/world/4882928-500-tsilei-u-bilorusi-lukashenko-vidpoviv-pohrozamy)<br>
@@ -51,12 +53,20 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 00:21 [Італія напрявляє до Румунії військову місію](https://ua.korrespondent.net/world/4882780-italiia-napriavliaie-do-rumunii-viiskovu-misiui)<br>
 
 ## as.com
+20:35 [Así quedan los playoffs de la Liga Endesa: cuadro, emparejamientos y cuándo se juegan los partidos](https://as.com/baloncesto/acb/asi-quedan-los-playoffs-de-la-liga-endesa-cuadro-emparejamientos-y-cuando-se-juegan-los-partidos-f202605-n/)<br>
 18:20 [Barcelona - Valencia, en directo: Liga Endesa 2025-26 en vivo hoy](https://as.com/baloncesto/acb/barcelona-valencia-en-directo-liga-endesa-2025-26-en-vivo-hoy-f202605-d/)<br>
 17:15 [El Trieste despide a Sissoko rumbo al Madrid](https://as.com/baloncesto/acb/el-trieste-despide-a-sissoko-rumbo-al-madrid-f202605-n/)<br>
 13:26 [Ibon Navarro se marcha del Unicaja](https://as.com/baloncesto/el-unicaja-que-viene-f202605-n/)<br>
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+20:50 [Zapatero, el único rojo de la trama](https://www.elperiodico.com/es/opinion/20260531/zapatero-unico-rojo-trama-opinion-matias-valles-130869640)<br>
+20:42 [El Valencia aplasta al Barça y le condena al peor camino del 'play off'](https://www.elperiodico.com/es/deportes/20260531/valencia-aplasta-barca-le-condena-130865713)<br>
+20:30 [Ya es oficial: Gmail permitirá cambiar tu correo electrónico sin perder fotos, archivos ni mensajes (así puedes hacerlo)](https://www.elperiodico.com/es/tecnologia/20260531/como-cambiar-nombre-correo-gmail-google-dv-130700973)<br>
+20:30 [Thomi Müller, adiestrador canino, alerta: "Tu perro te está manipulando y tú ni te das cuenta"](https://www.elperiodico.com/es/vida-y-estilo/20260531/thomi-muller-adiestrador-canino-avisa-perro-manipulando-dv-130637184)<br>
+20:29 [Mueren dos mujeres al intentar salvar a un niño de 3 años que se ahogaba en una presa de Palencia](https://www.elperiodico.com/es/sucesos/20260531/mueren-mujeres-salvar-nino-3-anos-ahogaba-presa-palencia-130869326)<br>
+19:57 [El angustioso vuelo de una mallorquina de Nueva York a Palma: "En más de 20 años viajando nunca había vivido algo así"](https://www.elperiodico.com/es/sociedad/20260531/angustioso-vuelo-mallorquina-nueva-york-palma-susto-bluetooth-bomba-130867973)<br>
+19:48 [Un avión con destino a Mallorca regresa a EEUU por un altavoz Bluetooth llamado "bomba"](https://www.elperiodico.com/es/sociedad/20260531/avion-mallorca-regresa-eeuu-altavoz-bluetooth-bomba-130867541)<br>
 19:15 [Estos son los dos hospitales públicos catalanes que se cuelan en el top 50 del mundo: destacan por su tecnología y sus servicios](https://www.elperiodico.com/es/catalunya/20260531/cataluna-barcelona-hospitales-publicos-sanidad-dv-loc-130702338)<br>
 19:14 [Los trabajadores de Pascual cortan la C-17 en Gurb para protestar por la incertidumbre laboral](https://www.elperiodico.com/es/economia/20260531/trabajadores-pascual-cortan-c-17-protesta-130866948)<br>
 19:00 [Bodas, comuniones y graduaciones: la ‘cuesta de la primavera’ que pone en riesgo las vacaciones de verano](https://www.elperiodico.com/es/economia/20260531/bodas-comuniones-graduaciones-cuesta-primavera-130866771)<br>
