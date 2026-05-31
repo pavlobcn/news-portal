@@ -1,8 +1,9 @@
-# News for 2026-05-31 22:53
+# News for 2026-05-31 23:45
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+23:16 [В Одесі дрон влучив у багатоповерхівку](https://ua.korrespondent.net/city/odessa/4882976-v-odesi-dron-vluchyv-u-bahatopoverkhivku)<br>
 22:51 [Росіяни атакують Одесу і район дронами, є пошкодження](https://ua.korrespondent.net/city/odessa/4882968-rosiiany-atakuuit-odesu-i-raion-dronamy-ye-poshkodzhennia)<br>
 22:29 [У Польщі торнадо пошкодило майже 20 будівель](https://ua.korrespondent.net/world/4882966-u-polschi-tornado-poshkodylo-maizhe-20-budivel)<br>
 22:24 [Сину Кадирова подарували чергову медаль](https://ua.korrespondent.net/world/russia/4882964-synu-kadyrova-podaruvaly-cherhovu-medal)<br>
@@ -73,6 +74,7 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+22:55 [Investigan un posible delito de odio contra dos mujeres con simbología judía expulsadas de una sauna de Barcelona](https://www.elperiodico.com/es/barcelona/20260531/investigan-posible-delito-odio-mujeres-simbologia-judia-expulsadas-evento-sauna-barcelona-130872114)<br>
 22:22 [La portada de EL PERIÓDICO del 1 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260531/portada-periodico-1-junio-2026-130871716)<br>
 22:21 [Dos heridas al hundirse una terraza en Girona y caer al local de abajo](https://www.elperiodico.com/es/sucesos/20260531/heridos-hundirse-terraza-girona-caer-metros-local-abajo-130871833)<br>
 21:53 [Los sindicatos se encierran en la Conselleria de Educación valenciana a la espera de una respuesta y denuncian cargas policiales en los manifestantes](https://www.elperiodico.com/es/videos/sociedad/sindicatos-encierran-conselleria-educacion-valenciana/130870717.shtml)<br>
