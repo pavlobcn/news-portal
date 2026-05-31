@@ -1,8 +1,12 @@
-# News for 2026-05-31 14:08
+# News for 2026-05-31 16:09
 
 Previous day: [2026-05-30](./data/2026-05-30.md)
 
 ## ua.korrespondent.net
+15:55 [ЗСУ ведуть бої з росіянами на 11 напрямках](https://ua.korrespondent.net/ukraine/4882901-zsu-vedut-boi-z-rosiianamy-na-11-napriamkakh)<br>
+15:32 [У Греції пропонують безкоштовне житло за догляд за кішками на острові](https://ua.korrespondent.net/world/4882898-u-hretsii-proponuuit-bezkoshtovne-zhytlo-za-dohliad-za-kishkamy-na-ostrovi)<br>
+15:10 [ЗСУ заявили про контроль над логістикою росіян на Луганщині](https://ua.korrespondent.net/ukraine/4882894-zsu-zaiavyly-pro-kontrol-nad-lohistykoui-rosiian-na-luhanschyni)<br>
+14:24 [Зеленський відрегував на російський удар по Дніпру](https://ua.korrespondent.net/ukraine/4882890-zelenskyi-vidrehuvav-na-rosiiskyi-udar-po-dnipru)<br>
 13:53 [Стали відомі наслідки російської атаки у Дніпрі](https://ua.korrespondent.net/city/dnepr/4882885-staly-vidomi-naslidky-rosiiskoi-ataky-u-dnipri)<br>
 13:39 [Іранські консерватори намагаються зірвати переговори зі США - NYT](https://ua.korrespondent.net/world/4882881-iranski-konservatory-namahauitsia-zirvaty-perehovory-zi-ssha-NYT)<br>
 13:14 [Над США вибухнув метеорит](https://ua.korrespondent.net/world/4882876-nad-ssha-vybukhnuv-meteoryt)<br>
@@ -41,9 +45,21 @@ Previous day: [2026-05-30](./data/2026-05-30.md)
 00:21 [Італія напрявляє до Румунії військову місію](https://ua.korrespondent.net/world/4882780-italiia-napriavliaie-do-rumunii-viiskovu-misiui)<br>
 
 ## as.com
+13:26 [Ibon Navarro se marcha del Unicaja](https://as.com/baloncesto/el-unicaja-que-viene-f202605-n/)<br>
 08:40 [Dubái se fija en el mercado español](https://as.com/baloncesto/euroliga/dubai-se-fija-en-el-mercado-espanol-f202605-n/)<br>
 
 ## www.elperiodico.com
+16:05 [Así trasladan a la playa a 'Timmy', la ballena que murió tras ser rescatada](https://www.elperiodico.com/es/videos/sociedad/trasladan-playa-timmy-ballena-murio-rescate/130861488.shtml)<br>
+16:00 [El aviso de Juanma Lorente, abogado laboralista, sobre los despidos en viernes: “La Justicia lo ha dejado claro”](https://www.elperiodico.com/es/economia/20260531/aviso-juanma-lorente-abogado-laboralista-despidos-laborales-dv-130811270)<br>
+16:00 [Bill Gates, Sting y Mark Zuckerberg: la tendencia de los multimillonarios de no dejar herencia a sus hijos](https://www.elperiodico.com/es/gente/20260531/bill-gates-sting-mark-zuckerberg-130763333)<br>
+16:00 [La psicóloga Elena Arnaiz lanza una reflexión que va más allá del agotamiento laboral: “Cansa trabajar, pero más aún sentir que siempre tienes que demostrar tu valor”](https://www.elperiodico.com/es/sociedad/20260531/psicologa-elena-arnaiz-lanza-reflexion-agotamiento-laboral-dv-130804629)<br>
+15:51 [Los hogares unipersonales crecieron un 81% en España en las últimas tres décadas](https://www.elperiodico.com/es/economia/20260531/hogares-unipersonales-crecieron-81-espana-ultimas-tres-decadas-130860906)<br>
+15:48 [Can Baró, en el distrito de Horta-Guinardó, estrena dos calles renovadas con mayor accesibilidad y espacios pensados para los peatones](https://www.elperiodico.com/es/barcelona/20260531/can-baro-distrito-horta-guinardo-barcelona-130860565)<br>
+15:45 [Urtasun señala que "hay cosas graves" por las que el PSOE debe asumir responsabilidades](https://www.elperiodico.com/es/politica/20260531/ernest-urtasun-comuns-graves-psoe-asumir-responsabilidades-pedro-sanchez-130860406)<br>
+15:23 [Vídeo | El papamóvil ya está en Barcelona](https://www.elperiodico.com/es/videos/barcelona/video-papamovil-barcelona-aeropuerto-prat/130860548.shtml)<br>
+15:00 [El temor a un Putin "a la desesperada" desata las ansias defensivas europeas: paraguas nuclear, búnkeres y defensas contra los drones que hackea Rusia](https://www.elperiodico.com/es/internacional/20260531/temor-putin-desesperada-desata-ansias-paises-balticos-bunkeres-paraguas-nuclear-drones-130860184)<br>
+14:54 [Los Bombers trabajan en un incendio de vegetación en Vilallonga del Camp (Tarragona)](https://www.elperiodico.com/es/sucesos/20260531/bombers-incendio-vegetacion-vilallonga-camp-tarragona-130859996)<br>
+14:34 [El papamóvil llega a Barcelona bajo máxima seguridad para la visita de León XIV](https://www.elperiodico.com/es/barcelona/20260531/papamovil-barcelona-maxima-seguridad-visita-leon-xiv-130859433)<br>
 14:05 [Berta Viñas, la estudiante sorda que hace radio en Barcelona gracias a la IA: "No era una situación cómoda ni 100% accesible"](https://www.elperiodico.com/es/tecnologia/20260531/berta-vinas-ia-upf-lenguaje-signos-radio-dv-130639988)<br>
 14:00 [Lista de las bebidas que contienen más cafeína: pueden superar al café solo y expreso](https://www.elperiodico.com/es/salud/20260531/cafe-bebidas-alimentos-cafeina-chocolate-bebidas-energeticas-te-matcha-lista-dv-130705207)<br>
 13:54 [Illa reivindica a Sánchez como "referente moral" y pide un cierre de filas: "Nosotros, a su lado"](https://www.elperiodico.com/es/politica/20260531/salvador-illa-pedro-sanchez-reivindica-referente-moral-psc-cierre-filas-lado-psoe-130858067)<br>
