@@ -1,8 +1,9 @@
-# News for 2026-06-01 23:49
+# News for 2026-06-02 01:19
 
 Previous day: [2026-05-31](./data/2026-05-31.md)
 
 ## ua.korrespondent.net
+23:53 [Російські БПЛА пошкодили сонячні панелі на Одещині](https://ua.korrespondent.net/ukraine/4883260-rosiiski-bpla-poshkodyly-soniachni-paneli-na-odeschyni)<br>
 23:22 [У Запоріжжі РФ уразила критичну інфраструктуру](https://ua.korrespondent.net/city/zaporozhye/4883258-u-zaporizhzhi-rf-urazyla-krytychnu-infrastrukturu)<br>
 22:55 [Туреччина домовляється з Росією про закупівлю газу надалі](https://ua.korrespondent.net/world/4883254-turechchyna-domovliaietsia-z-rosiieui-pro-zakupivlui-hazu-nadali)<br>
 22:24 [На Харківщині РФ атакувала підприємство повторно](https://ua.korrespondent.net/ukraine/4883251-na-kharkivschyni-rf-atakuvala-pidpryiemstvo-povtorno)<br>
@@ -72,6 +73,7 @@ Previous day: [2026-05-31](./data/2026-05-31.md)
 06:23 [Diego de Blas, el último gran héroe del 3x3](https://as.com/baloncesto/mas_baloncesto/diego-de-blas-el-ultimo-gran-heroe-del-3x3-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Ence, un modelo diferencial en su negocio de biofertilizantes y biometano](https://www.elperiodico.com/es/economia/20260601/ence-modelo-diferencial-negocio-biofertilizantes-bc-130902220)<br>
 23:24 [Las PCR a los 12 aislados por hantavirus en el hospital en Madrid vuelven a ser negativas](https://www.elperiodico.com/es/sociedad/20260601/pcr-12-aislados-hantavirus-hospital-130910190)<br>
 23:23 [Minecraft Dungeons II confirma su regreso para 2026 en la presentación de Minecraft Live](https://www.elperiodico.com/es/videojuegos/20260601/minecraft-dungeons-ii-confirma-regreso-130904698)<br>
 23:08 [Testigos del juicio por David Sánchez sostienen que la modificación de su plaza respondió a necesidades administrativas](https://www.elperiodico.com/es/politica/20260601/testigos-juicio-david-sanchez-sostienen-130911629)<br>
