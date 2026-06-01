@@ -1,8 +1,20 @@
-# News for 2026-06-01 14:41
+# News for 2026-06-01 20:29
 
 Previous day: [2026-05-31](./data/2026-05-31.md)
 
 ## ua.korrespondent.net
+20:08 [Інсульт на дебатах? Мемуари дружина Байдена](https://ua.korrespondent.net/world/4883201-insult-na-debatakh-memuary-druzhyna-baidena)<br>
+20:03 [Росія підготувала масований удар - Зеленський](https://ua.korrespondent.net/ukraine/4883229-rosiia-pidhotuvala-masovanyi-udar-zelenskyi)<br>
+19:48 [Прохолодно, подекуди дощитиме: синоптики про погоду на початку червня](https://ua.korrespondent.net/ukraine/4883225-prokholodno-podekudy-doschytyme-synoptyky-pro-pohodu-na-pochatku-chervnia)<br>
+19:39 [Трамп відреагував на рішення Ірану призупинити переговори зі США](https://ua.korrespondent.net/world/4883222-tramp-vidreahuvav-na-rishennia-iranu-pryzupynyty-perehovory-zi-ssha)<br>
+19:25 [У Дніпрі засудили тренера за розбещення 11-річної дівчинки](https://ua.korrespondent.net/city/dnepr/4883216-u-dnipri-zasudyly-trenera-za-rozbeschennia-11-richnoi-divchynky)<br>
+19:18 [Неанонсований годинник Google знайшли на дні океану](https://ua.korrespondent.net/lifestyle/gadgets/4883214-neanonsovanyi-hodynnyk-Google-znaishly-na-dni-okeanu)<br>
+19:14 [В Укрзалізниці заявили про 7,9 млрд збитків через війну](https://ua.korrespondent.net/business/companies/4883210-v-ukrzaliznytsi-zaiavyly-pro-79-mlrd-zbytkiv-cherez-viinu)<br>
+19:08 [Міноборони: Напруження на фронті досягло максимуму](https://ua.korrespondent.net/ukraine/4883211-minoborony-napruzhennia-na-fronti-dosiahlo-maksymumu)<br>
+18:45 [На Дніпропетровщині внаслідок вибуху загинув 27-річний поліцейський](https://ua.korrespondent.net/ukraine/4883207-na-dnipropetrovschyni-vnaslidok-vybukhu-zahynuv-27-richnyi-politseiskyi)<br>
+18:26 [Замість паніки – жарти. Україна в очікуванні удару](https://ua.korrespondent.net/ukraine/4883200-zamist-paniky-zharty-ukraina-v-ochikuvanni-udaru)<br>
+18:16 [У Метінвесті назвали головні барʼєри для інвестицій](https://ua.korrespondent.net/business/companies/4883198-u-metinvesti-nazvaly-holovni-bariery-dlia-investytsii)<br>
+18:10 [ППО і посилення позицій: Зеленський провів Ставку](https://ua.korrespondent.net/ukraine/4883195-ppo-i-posylennia-pozytsii-zelenskyi-proviv-stavku)<br>
 14:30 [Китай відреагував на рішення Японії приєднатися до місії НАТО по Україні](https://ua.korrespondent.net/world/4883129-kytai-vidreahuvav-na-rishennia-yaponii-pryiednatysia-do-misii-nato-po-ukraini)<br>
 14:29 [Ексзаступнику міністра розвитку громад Лозинському оголосили нову підозру](https://ua.korrespondent.net/ukraine/4883131-ekszastupnyku-ministra-rozvytku-hromad-lozynskomu-oholosyly-novu-pidozru)<br>
 13:58 [Світлана Білоножко та її невістка розкрили вартість своїх образів](https://ua.korrespondent.net/lifestyle/fashion/4883122-svitlana-bilonozhko-ta-yii-nevistka-rozkryly-vartist-svoikh-obraziv)<br>
@@ -43,11 +55,54 @@ Previous day: [2026-05-31](./data/2026-05-31.md)
 00:01 [Харків під ударом БПЛА: куди прилетіло](https://ua.korrespondent.net/city/kharkov/4882984-kharkiv-pid-udarom-bpla-kudy-pryletilo)<br>
 
 ## as.com
+17:09 [Hay nervios en el Madrid](https://as.com/opinion/hay-nervios-en-el-madrid-f202606-n/)<br>
+14:55 [El Granca se reordena tras el descenso: el Cabildo sigue pero se marcha Savané](https://as.com/baloncesto/acb/el-granca-se-reordena-tras-el-descenso-el-cabildo-sigue-pero-se-marcha-savane-f202606-n/)<br>
 07:40 [El rompecabezas interior del Madrid](https://as.com/baloncesto/acb/el-rompecabezas-interior-del-madrid-f202606-n/)<br>
 06:24 [España y el sueño del 3x3](https://as.com/baloncesto/mas_baloncesto/espana-y-el-sueno-del-3x3-f202606-n/)<br>
 06:23 [Diego de Blas, el último gran héroe del 3x3](https://as.com/baloncesto/mas_baloncesto/diego-de-blas-el-ultimo-gran-heroe-del-3x3-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:15 ["Hubiera sido el número uno del mundo de haber sabido inglés": el actor español que pasó de la comedia de barrio a símbolo de todo un país](https://www.elperiodico.com/es/gente/20260601/actor-espanol-comedia-simbolo-pais-hubiera-sido-uno-mundo-dv-130767306)<br>
+20:14 [Éxito en Córdoba: el primer trasplante de corazón infantil ABO incompatible salva la vida a Greta](https://www.elperiodico.com/es/sanidad/20260601/exito-cordoba-primer-trasplante-corazon-130907739)<br>
+20:10 [El aviso del abogado laboralista Miguel Benito si te despiden un viernes: "No es legal que no te paguen el fin de semana"](https://www.elperiodico.com/es/economia/20260601/aviso-abogado-laboralista-despido-viernes-dv-130534970)<br>
+20:07 [Kast pide paciencia a los chilenos en momentos de retracción económica y una caída en su popularidad](https://www.elperiodico.com/es/internacional/20260601/kast-pide-paciencia-chilenos-momentos-130908770)<br>
+20:05 [Andreu Mumbrú (Ustec): "Los profesores debemos ser el único colectivo del mundo al que se le recrimina que reclame mejoras salariales"](https://www.elperiodico.com/es/sociedad/20260601/andreu-mumbru-ustec-defiende-preacuerdo-govern-consulta-docentes-130903812)<br>
+20:01 [Nuestros ancestros aprendieron a utilizar el fuego antes de lo que creíamos: un estudio español encuentra restos de 'fogatas' de hace 1,8 millones de años](https://www.elperiodico.com/es/sociedad/20260601/primera-fogata-ancestros-homo-erectus-sudafrica-descubrimiento-130892206)<br>
+20:00 [Catalunya refuerza su ciberseguridad con talento femenino y del sector privado](https://www.elperiodico.com/es/tecnologia/20260601/catalunya-refuerza-ciberseguridad-talento-femenino-susana-calvo-govern-salvador-illa-130886536)<br>
+19:57 [De los aranceles a la erosión democrática: Europa ante la incertidumbre del futuro de Estados Unidos](https://www.elperiodico.com/es/internacional/20260601/aranceles-erosion-democratica-europa-incertidumbre-estados-unidos-cercle-economia-130905535)<br>
+19:50 [Controlado el incendio forestal de Sant Gregori, donde siguen trabajando 12 dotaciones terrestres](https://www.elperiodico.com/es/sociedad/20260601/controlado-incendio-forestal-sant-gregori-girona-bombers-12-dotaciones-130908111)<br>
+19:50 [La Vecina Rubia revela la portada de su nueva novela: "Sentiréis que no habéis leído nada igual"](https://www.elperiodico.com/es/ocio-y-cultura/20260601/vecina-rubia-nueva-portada-el-hombre-ideal-130907543)<br>
+19:42 [La Policía Nacional y la Guardia Urbana de L'Hospitalet organizan una carrera solidaria en beneficio de enfermos con parálisis cerebral](https://www.elperiodico.com/es/barcelona/hospitalet/20260601/policia-nacional-guardia-urbana-lhospitalet-130907675)<br>
+19:38 [Hacienda envía una carta a las comunidades para abordar la reforma de la financiación autonómica](https://www.elperiodico.com/es/economia/20260601/hacienda-envia-carta-cc-aa-130907818)<br>
+19:05 [Isabel Faya, cuidadora de 69 años en Catalunya: “No me toca vivir así a esta edad. Debería estar jubilada, no buscando trabajo"](https://www.elperiodico.com/es/sociedad/20260601/isabel-faya-cuidadora-69-anos-trabajo-urgente-luchando-sobrevivir-jubilada-dv-130753032)<br>
+19:02 [Albares: "Hay que ir más allá de la autonomía estratégica y hablar de soberanía europea"](https://www.elperiodico.com/es/internacional/20260601/albares-autonomia-estrategica-soberania-europea-reunio-cercle-economia-130900448)<br>
+19:01 [El Papa no tiene tiempo. Ni ganas](https://www.elperiodico.com/es/opinion/20260601/papa-tiempo-ganas-pederastia-articulo-olga-ruiz-130905836)<br>
+19:00 [La defensa de Jonathan Andic usa el paseíllo esposado como baza ante un posible juicio con jurado](https://www.elperiodico.com/es/sociedad/20260601/jonathan-andic-paseillo-esposado-juzgados-martorell-directiva-europea-presuncion-inocencia-defensa-mango-130892942)<br>
+19:00 [Arte español de posguerra en valija diplomática](https://www.elperiodico.com/es/ocio-y-cultura/20260601/arte-espanol-posguerra-valija-diplomatica-130900581)<br>
+18:49 [Entidades científicas y ambientales denuncian retrasos en las políticas ambientales del Govern](https://www.elperiodico.com/es/sociedad/20260601/entidades-cientificas-denuncian-abandono-naturaleza-politicas-ambientales-130903370)<br>
+18:37 [El fiscal pide 10 años de prision para tres hombres por violar por turnos a una joven en Barcelona y grabar la agresión](https://www.elperiodico.com/es/sucesos/20260601/fiscal-prision-acusados-violacion-discoteca-barcelona-130904530)<br>
+18:31 [Netanyahu ordena al Ejército atacar el sur de Beirut y las tropas exigen el desplazamiento forzoso de la población](https://www.elperiodico.com/es/internacional/20260601/netanyahu-ordena-ejercito-atacar-sur-beirut-desplazamiento-forzoso-poblacion-130905024)<br>
+18:20 [El discurso de Gemma Martínez durante el acto de posesión como directora de EL PERIÓDICO](https://www.elperiodico.com/es/videos/fotos/discurso-gemma-martinez-acto-posesion-directora-elperiodico-video/130903161.shtml)<br>
+18:20 [Indemnizado con 190.000 euros por la demora en el diagnóstico de un cáncer de páncreas: "deficiente asistencia sanitaria"](https://www.elperiodico.com/es/sucesos/20260601/indemnizado-190000-euros-demora-diagnostico-cancer-pancreas-130728264)<br>
+18:13 [Illa anuncia la inversión de 3.300 millones en materia de infraestructuras](https://www.elperiodico.com/es/videos/economia/illa-anuncia-inversion-3-300/130903842.shtml)<br>
+18:06 [Vídeo | Incendio forestal entre Girona y Sant Gregori](https://www.elperiodico.com/es/videos/sociedad/video-incendio-forestal-girona-sant/130903417.shtml)<br>
+17:58 [El plante de los médicos a hacer horas extra obliga a anular endoscopias en los hospitales de Catalunya](https://www.elperiodico.com/es/sanidad/20260601/hospitales-catalanes-anulan-endoscopias-tarde-plante-medicos-horas-extra-130898827)<br>
+17:56 [Defensa nombra delegado en Catalunya al exjefe del Regimiento Barcelona 63](https://www.elperiodico.com/es/politica/20260601/defensa-nombra-delegado-catalunya-exjefe-regimiento-barcelona-pedro-valdes-130900740)<br>
+17:56 [Javier Moll: "EL PERIÓDICO cuenta hoy con un equipo cohesionado y ganador"](https://www.elperiodico.com/es/sociedad/20260601/javier-moll-periodico-cuenta-hoy-equipo-cohesionado-ganador-130891882)<br>
+17:44 [Paula Blasi será la gran atracción de la Volta en 18 días](https://www.elperiodico.com/es/deportes/20260601/paula-blasi-sera-gran-atraccion-volta-catalunya-19-junio-130902249)<br>
+17:41 [Congreso Mundial de Arquitectos Barcelona 2026. Carmen Torres](https://www.elperiodico.com/es/videos/ocio-y-cultura/congreso-mundial-arquitectos-barcelona-2026/130902453.shtml)<br>
+17:30 [Catalunya da el primer paso para concentrar en una ventanilla única las 50 ayudas sociales de siete conselleries](https://www.elperiodico.com/es/sociedad/20260601/ventanilla-unica-ayudas-sociales-generalitat-cataluna-130873452)<br>
+17:20 [Illa anuncia una inversión de 3.300 millones en materia de infraestructuras](https://www.elperiodico.com/es/economia/20260601/illa-anuncia-inversion-3-300-130897477)<br>
+17:16 [Un 40% de las mariposas del área de Barcelona están en caída libre: "Los herbazales abandonados son su último refugio"](https://www.elperiodico.com/es/sociedad/20260601/mariposas-area-barcelona-declive-130814048)<br>
+17:01 [El comité de rutas aéreas del aeropuerto de Barcelona-El Prat detecta una demanda de 5,3 millones de pasajeros de vuelos intercontinentales sin servir](https://www.elperiodico.com/es/economia/20260601/comite-rutas-aereas-aeropuerto-barcelona-el-prat-rutas-intercontinentales-130897827)<br>
+17:00 [Abuela, hijo y nieto: retrato del diseño de Barcelona a través de una saga familiar que estudió en la escuela Elisava](https://www.elperiodico.com/es/barcelona/20260601/abuela-hijo-nieto-retrato-diseno-barcelona-elisava-130809153)<br>
+16:25 [La reunión entre Sanidad y los médicos finaliza sin acuerdo: los sindicatos mantienen la huelga del 15 al 19 de junio](https://www.elperiodico.com/es/sanidad/20260601/reunion-sanidad-medicos-finaliza-acuerdo-sindicatos-mantienen-huelga-130888838)<br>
+16:17 [Los trabajadores de Nestlé inician una semana de huelgas parciales en distintas fábricas durante la recta final del ERE](https://www.elperiodico.com/es/economia/20260601/nestle-huelga-fabrica-ere-despidos-final-negociaciones-130897057)<br>
+16:12 [Vall d’Hebron estrena una nueva área pionera para niños y adolescentes con cáncer](https://www.elperiodico.com/es/videos/salud/vall-d-hebron-estrena-nueva/130898164.shtml)<br>
+16:00 [¿Quién mató a Marilyn Monroe?](https://www.elperiodico.com/es/ocio-y-cultura/20260601/marilyn-monroe-muerte-blonde-ana-de-armas-60-aniversario-14212615)<br>
+15:54 [Comienza el plazo para presentar la declaración de la Renta de forma presencial en las oficinas de Hacienda](https://www.elperiodico.com/es/economia/declaracion-renta/20260601/comienza-plazo-presentar-declaracion-renta-presencial-oficinas-hacienda-130897292)<br>
+15:53 [Apartur exige al ayuntamiento retirar la campaña sobre el fin de los pisos turísticos en Barcelona en 2028](https://www.elperiodico.com/es/barcelona/20260601/apartur-exige-ayuntamiento-retirar-campana-final-licencias-pisos-turisticos-barcelona-130896999)<br>
+15:41 [La tarifa plana de lavandería ya es tendencia en Barcelona](https://www.elperiodico.com/es/economia/20260601/telelavo-tarifa-plana-lavanderia-barcelona-bc-130897077)<br>
 14:32 [Una impresionante Luna Azul despide mayo sobre el templo de Poseidón](https://www.elperiodico.com/es/videos/internacional/impresionante-luna-azul-despide-mayo/130894703.shtml)<br>
 14:29 [Alberto, propietario de más de 7.000 trasteros, sobre el negocio que hay detrás: "El ticket medio en particulares puede oscilar entre los 50 y 100 euros al mes, y en empresas entre 100 y 200"](https://www.elperiodico.com/es/economia/20260601/alberto-propietario-empresa-alquiler-trasteros-rentabilidad-negocio-dv-130888209)<br>
 14:21 [El calor extremo presiona al sistema sanitario: se estima un coste médico de más de 17 millones de euros anuales en 2030](https://www.elperiodico.com/es/sanidad/20260601/calor-extremo-presiona-sistema-sanitario-coste-medico-130892043)<br>
