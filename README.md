@@ -1,8 +1,22 @@
-# News for 2026-06-01 09:02
+# News for 2026-06-01 14:41
 
 Previous day: [2026-05-31](./data/2026-05-31.md)
 
 ## ua.korrespondent.net
+14:30 [Китай відреагував на рішення Японії приєднатися до місії НАТО по Україні](https://ua.korrespondent.net/world/4883129-kytai-vidreahuvav-na-rishennia-yaponii-pryiednatysia-do-misii-nato-po-ukraini)<br>
+14:29 [Ексзаступнику міністра розвитку громад Лозинському оголосили нову підозру](https://ua.korrespondent.net/ukraine/4883131-ekszastupnyku-ministra-rozvytku-hromad-lozynskomu-oholosyly-novu-pidozru)<br>
+13:58 [Світлана Білоножко та її невістка розкрили вартість своїх образів](https://ua.korrespondent.net/lifestyle/fashion/4883122-svitlana-bilonozhko-ta-yii-nevistka-rozkryly-vartist-svoikh-obraziv)<br>
+13:56 [На Дніпропетровщині військові ТЦК отримали підозру за викрадення людини](https://ua.korrespondent.net/ukraine/4883121-na-dnipropetrovschyni-viiskovi-ttsk-otrymaly-pidozru-za-vykradennia-luidyny)<br>
+13:50 [Гуморист із Левів на джипі одружився](https://ua.korrespondent.net/lifestyle/4883117-humoryst-iz-leviv-na-dzhypi-odruzhyvsia)<br>
+13:44 [Зірка Спіймати Кайдаша вагітна первістком](https://ua.korrespondent.net/lifestyle/4883113-zirka-spiimaty-kaidasha-vahitna-pervistkom)<br>
+13:44 [Працівники ТЦК вимагали 250 тис. у військовозобов’язаного](https://ua.korrespondent.net/ukraine/4883114-pratsivnyky-ttsk-vymahaly-250-tys-u-viiskovozoboviazanoho)<br>
+13:43 [Софія Ротару показалася в центрі Києва](https://ua.korrespondent.net/lifestyle/4883110-sofiia-rotaru-pokazalasia-v-tsentri-kyieva)<br>
+13:30 [ЗСУ використовуватимуть 175 нових зразків озброєння](https://ua.korrespondent.net/ukraine/4883107-zsu-vykorystovuvatymut-175-novykh-zrazkiv-ozbroiennia)<br>
+13:19 [У Києві назвали обсяги руйнувань з початку війни](https://ua.korrespondent.net/city/kiev/4883105-u-kyievi-nazvaly-obsiahy-ruinuvan-z-pochatku-viiny)<br>
+13:14 [У Китаї розробили фарбу для "маскування" дронів](https://ua.korrespondent.net/world/4883103-u-kytai-rozrobyly-farbu-dlia-maskuvannia-droniv)<br>
+13:06 [ООН опинилася на межі фінансового колапсу](https://ua.korrespondent.net/world/4883101-oon-opynylasia-na-mezhi-finansovoho-kolapsu)<br>
+12:41 [Кремль відреагував на кризу з бензином у Криму](https://ua.korrespondent.net/ukraine/4883097-kreml-vidreahuvav-na-kryzu-z-benzynom-u-krymu)<br>
+12:25 [Коли дім стає офісом: чому організація простору має значення](https://ua.korrespondent.net/articles/4883075-koly-dim-staie-ofisom-chomu-orhanizatsiia-prostoru-maie-znachennia)<br>
 08:54 [Франція затримала танкер РФ в Атлантичному океані](https://ua.korrespondent.net/world/4883026-frantsiia-zatrymala-tanker-rf-v-atlantychnomu-okeani)<br>
 08:37 [На Херсонщині РФ вдарила по зупинці транспорту, є загиблий](https://ua.korrespondent.net/ukraine/4883024-na-khersonschyni-rf-vdaryla-po-zupyntsi-transportu-ye-zahyblyi)<br>
 08:24 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)<br>
@@ -34,6 +48,32 @@ Previous day: [2026-05-31](./data/2026-05-31.md)
 06:23 [Diego de Blas, el último gran héroe del 3x3](https://as.com/baloncesto/mas_baloncesto/diego-de-blas-el-ultimo-gran-heroe-del-3x3-f202606-n/)<br>
 
 ## www.elperiodico.com
+14:32 [Una impresionante Luna Azul despide mayo sobre el templo de Poseidón](https://www.elperiodico.com/es/videos/internacional/impresionante-luna-azul-despide-mayo/130894703.shtml)<br>
+14:29 [Alberto, propietario de más de 7.000 trasteros, sobre el negocio que hay detrás: "El ticket medio en particulares puede oscilar entre los 50 y 100 euros al mes, y en empresas entre 100 y 200"](https://www.elperiodico.com/es/economia/20260601/alberto-propietario-empresa-alquiler-trasteros-rentabilidad-negocio-dv-130888209)<br>
+14:21 [El calor extremo presiona al sistema sanitario: se estima un coste médico de más de 17 millones de euros anuales en 2030](https://www.elperiodico.com/es/sanidad/20260601/calor-extremo-presiona-sistema-sanitario-coste-medico-130892043)<br>
+14:18 [Un examen de Lengua "más fácil de lo esperado" y "mucha incertidumbre" con el de Filosofía: así han vivido los madrileños el primer día de la PAU](https://www.elperiodico.com/es/sociedad/20260601/examen-lengua-pau-madrid-2026-selectividad-filosofia-130893239)<br>
+13:58 [El exdirector del conservatorio  de Badajoz reafirma que había "rumores" de que David Sánchez se iba a presentar a la plaza convocada por la Diputación](https://www.elperiodico.com/es/videos/politica/exdirector-conservatorio-badajoz-reafirma-habia/130892437.shtml)<br>
+13:44 [Powell rompe el silencio y alerta de que la credibilidad de la Fed está en riesgo: afronta un “test de estrés” político](https://www.elperiodico.com/es/economia/20260601/powell-rompe-silencio-alerta-credibilidad-130891274)<br>
+12:45 [Ainhoa, una de las pacientes de la nueva área de oncohematología del Vall d'Hebron](https://www.elperiodico.com/es/videos/sociedad/ainhoa-pacientes-nueva-area-oncohematologia-video/130813323.shtml)<br>
+12:44 [Hasta un 2% TAE el primer año: así es la nueva cuenta remunerada de Kutxabank](https://www.elperiodico.com/es/economia/20260601/2-tae-primer-ano-nueva-130887497)<br>
+12:38 [La población migrante está más sana y consume menos recursos sanitarios que los españoles](https://www.elperiodico.com/es/sanidad/20260601/poblacion-migrante-sana-consume-recursos-sanitarios-espanoles-130879010)<br>
+12:37 [El calvario de una joven pareja gerundense para encontrar un piso de alquiler: "No puedes abandonar a tu perro porque no encuentras piso"](https://www.elperiodico.com/es/sociedad/20260601/calvario-pareja-joven-gerundense-encontrar-piso-alquiler-abandonar-perro-dv-130887092)<br>
+12:21 [Hallado muerto a los 42 años Matt Brown, estrella de 'Mi familia vive en Alaska'](https://www.elperiodico.com/es/videos/gente/hallado-muerto-42-anos-matt-brown-estrella-familia-vive-alaska-video/130886571.shtml)<br>
+12:18 [Indra refuerza su apuesta por Catalunya con el nombramiento de Enric Blasco como director territorial](https://www.elperiodico.com/es/economia/20260601/indra-refuerza-apuesta-cataluna-nombramiento-130885942)<br>
+12:16 [La Seguridad Social aplicará recortes de hasta el 21% a quienes adelanten su jubilación en 2026](https://www.elperiodico.com/es/economia/20260601/seguridad-social-reduce-pension-2026-jubilarse-antes-dv-130635738)<br>
+12:12 [Tecnio reclama 40 millones a la Generalitat hasta 2030 para duplicar el número de empresas salidas de la universidad](https://www.elperiodico.com/es/economia/20260601/tecnio-reclama-40-millones-generalitat-130269352)<br>
+12:12 [La Policía inicia el proceso para abrir expediente disciplinario al agente que agredió a la docente en Valencia](https://www.elperiodico.com/es/sociedad/20260601/policia-inicia-proceso-abrir-expediente-130885891)<br>
+12:04 [Nuevo intercambio de ataques entre Irán y EEUU mientras se mantiene el bloqueo en las negociaciones](https://www.elperiodico.com/es/internacional/20260601/nuevo-intercambio-ataques-iran-eeuu-negociaciones-bloqueo-130885790)<br>
+11:57 [La farmacéutica francesa tras el Betadine compra Gelocatil y el resto de marcas de gran consumo de Ferrer](https://www.elperiodico.com/es/economia/20260601/cooper-consumer-health-farmaceutica-duena-betadine-compra-gelocatil-ferrer-130885497)<br>
+11:43 [Podemos dará plantón al Papa en el acto del Congreso: "No hay motivo para un reconocimiento con honores"](https://www.elperiodico.com/es/politica/20260601/dara-planton-papa-acto-congreso-130885014)<br>
+11:28 [Los Comuns sitúan como línea roja con Sánchez que se "demuestre" financiación irregular del PSOE](https://www.elperiodico.com/es/politica/20260601/comuns-linea-roja-pedro-sanchez-corrupcion-financiacion-irregular-psoe-gobierno-130878903)<br>
+11:07 [Begoña Gómez reprocha al juez Peinado la "velocidad de crucero" adoptada para llevarla a juicio y reclama una suspensión](https://www.elperiodico.com/es/politica/20260601/begona-gomez-reprocha-juez-peinado-130882768)<br>
+10:11 [Los vinos de A Coruña, una tierra atlántica que también se bebe](https://www.elperiodico.com/es/vida-y-estilo/20260601/vinos-coruna-tierra-atlantica-bebe-bc-130880234)<br>
+10:07 [Comunitat Valenciana, el destino que siempre suma](https://www.elperiodico.com/es/vida-y-estilo/20260601/comunitat-valenciana-destino-suma-bc-130880069)<br>
+10:04 [Sant Antoni de Portmany: una forma mediterránea de celebrar el verano](https://www.elperiodico.com/es/vida-y-estilo/20260601/sant-antoni-portmany-forma-mediterranea-bc-130879898)<br>
+09:59 [La Rioja, verano en todos los sentidos](https://www.elperiodico.com/es/vida-y-estilo/20260601/rioja-verano-sentidos-bc-130879732)<br>
+09:29 [Golpe al 'top manta': tres detenidos en Terrassa por vender ropa y calzado falso valorado en 2,3 millones de euros](https://www.elperiodico.com/es/sucesos/20260601/golpe-top-manta-tres-detenidos-130878514)<br>
+09:20 [Muere a los 42 años Matt Brown, estrella de 'Mi familia vive en Alaska': su cuerpo ha sido hallado en un río de Washington](https://www.elperiodico.com/es/gente/20260601/muere-matt-brown-mi-familia-vive-alaska-rio-washington-130878070)<br>
 08:59 [Andalucía entra en periodo de alto riesgo de incendios: máximo despliegue y prohibición de barbacoas y quemas forestales](https://www.elperiodico.com/es/sociedad/20260601/andalucia-entra-periodo-maximo-riesgo-incendios-bomberos-infoca-130877886)<br>
 08:53 [Indra confía en despejar esta semana la operación de Barros](https://www.elperiodico.com/es/economia/20260601/indra-confia-despejar-semana-operacion-130877885)<br>
 08:51 [Extremadura: los presupuestos del Gobierno PP-Vox inician su camino hacia la votación del 30 de julio](https://www.elperiodico.com/es/politica/20260601/extremadura-presupuestos-gobierno-pp-vox-130877887)<br>
