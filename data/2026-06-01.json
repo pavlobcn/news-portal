@@ -1,7 +1,592 @@
 [
   {
+    "title": "El Cupra Raval gana en mayo y arranca la votación de junio con Jaecoo 5 SHS, Peugeot 408 y Volkswagen ID. Polo",
+    "link": "https://www.elperiodico.com/es/motor/20260601/premio-coche-ano-lectores-mayo-junio-cupra-raval-130811749",
+    "pubDate": "2026-06-01 09:00:09",
+    "category": "",
+    "description": "<h2>El Premio Coche del Año de los Lectores cerró la votación de mayo con la victoria del Cupra Raval ante Geely Starray y Volvo EX60</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Andalucía entra en periodo de alto riesgo de incendios: máximo despliegue y prohibición de barbacoas y quemas forestales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260601/andalucia-entra-periodo-maximo-riesgo-incendios-bomberos-infoca-130877886",
+    "pubDate": "2026-06-01 08:59:57",
+    "category": "",
+    "description": "<h2>El Plan Infoca se activa en el máximo nivel desde este lunes y el Gobierno adelanta su dispositivo debido a las altas temperatura en la comunidad autónoma</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sergio Ramos dará explicaciones este lunes a la afición sevillista sobre los detalles de su oferta para comprar el club",
+    "link": "https://www.elperiodico.com/es/deportes/20260601/sergio-ramos-rueda-prensa-sevilla-fc-130877884",
+    "pubDate": "2026-06-01 08:59:52",
+    "category": "",
+    "description": "<h2>El camero pondrá sobre la mesa a partir de las 17.00 horas en un hotel de la capital su versión sobre lo sucedido en los últimos días, tras bloquearse la oferta del grupo que lidera</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Вінгер національної збірної розглядає новий етап кар'єри",
+    "link": "https://ua.korrespondent.net/sport/football/4883028-vinher-natsionalnoi-zbirnoi-rozghliadaie-novyi-etap-kariery",
+    "pubDate": "2026-06-01 08:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448101.jpg\">Український вінгер Жирони Циганков потрапив на радар європейських топ-клубів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Франція затримала танкер РФ в Атлантичному океані",
+    "link": "https://ua.korrespondent.net/world/4883026-frantsiia-zatrymala-tanker-rf-v-atlantychnomu-okeani",
+    "pubDate": "2026-06-01 08:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448100.png\">Операцію провели в Атлантичному океані у міжнародних водах за підтримки низки партнерів, зокрема Великої Британії",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Indra confía en despejar esta semana la operación de Barros",
+    "link": "https://www.elperiodico.com/es/economia/20260601/indra-confia-despejar-semana-operacion-130877885",
+    "pubDate": "2026-06-01 08:53:55",
+    "category": "",
+    "description": "<h2>La multinacional espera completar ya en corto plazo la compra del antiguo taller de Duro Felguera por el que ofreció 6 millones de euros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Extremadura: los presupuestos del Gobierno PP-Vox inician su camino hacia la votación del 30 de julio",
+    "link": "https://www.elperiodico.com/es/politica/20260601/extremadura-presupuestos-gobierno-pp-vox-130877887",
+    "pubDate": "2026-06-01 08:51:32",
+    "category": "",
+    "description": "<h2>El plazo para presentar enmiendas a la totalidad se abrirá el 1 de junio, seguido de comparecencias y debates en comisión </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El obispo de Canarias defiende el viaje de León XIV: \"La visita del papa será más barata que los Carnavales\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260601/obispo-canarias-defiende-viaje-leon-130877888",
+    "pubDate": "2026-06-01 08:51:10",
+    "category": "",
+    "description": "<h2>El prelado destaca el impacto internacional de la llegada de León XIV, el foco sobre la ruta migratoria atlántica y la movilización social y religiosa que generará el viaje del pontífice al Archipiélago</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: última hora | Trump apunta que está \"cerca\" de un acuerdo con Irán y asegura no tener prisa por negociar el fin de la guerra",
+    "link": "https://www.elperiodico.com/es/internacional/20260601/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-06-01 08:45:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Херсонщині РФ вдарила по зупинці транспорту, є загиблий",
+    "link": "https://ua.korrespondent.net/ukraine/4883024-na-khersonschyni-rf-vdaryla-po-zupyntsi-transportu-ye-zahyblyi",
+    "pubDate": "2026-06-01 08:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448099.jpg\">Внаслідок скидання вибухівки загинув 62-річний чоловік, який перебував на зупинці громадського транспорту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio forestal en Sevilla daña la planta termosolar de Sanlúcar la Mayor, una de las más grandes de Andalucía",
+    "link": "https://www.elperiodico.com/es/sociedad/20260601/incendio-provincia-sevilla-infoca-controlar-130877594",
+    "pubDate": "2026-06-01 08:31:02",
+    "category": "",
+    "description": "<h2>El fuego se declaró este domingo y se han desplazado hasta el lugar medios de cinco parques de la provincia y dispositivos aéreos, dado que ha sido de \"grandes dimensiones\" y se ha \"activado en varios frentes\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-06-01 08:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4388528.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¡Ni una gilda más!",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260601/historia-de-la-gilda-pincho-130710203",
+    "pubDate": "2026-06-01 08:20:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La gilda es el síntoma: la enfermedad es la reincidencia de los platos calcados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20230426/bodega-borras-barcelona-por-pau-arenos-86316980\">Bodega Borràs, en Barcelona: la gilda pasa del palillo al plato</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб оцінив ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4883019-henshtab-otsinyv-sytuatsiui-na-fronti",
+    "pubDate": "2026-06-01 08:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448066.jpg\">Авіація Сил оборони уразила три пункти управління і чотири райони зосередження особового складу росіян.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "3 nuevos vinos blancos de Rioja que puedes beber ahora o dentro de unos años",
+    "link": "https://www.elperiodico.com/es/gastronomia/vinos/20260601/mejores-vinos-blancos-guarda-rioja-130725341",
+    "pubDate": "2026-06-01 08:18:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Elegimos tres botellas que acaban de salir al mercado y que tienen un gran potencial de guarda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20250901/vinos-blancos-buenos-navarra-valladolid-rioja-bierzo-120158638\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20211004/trivial-vinos-12127600\" >Navarra, Valladolid, Rioja, El Bierzo...: los vinos blancos buenos llegan de todas partes</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20211004/trivial-vinos-12127600\" >Trivial: ¿cuánto sabes de vinos?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20240620/vinos-blancos-josep-roca-cata-mayor-103783226\" >VÍDEO | Esto va de blancos: ¿chardonnay, albariño, Penedès, La Rioja? ¿joven, añejo? Responde el sumiller Josep Roca</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Comer y 'janguear' como Bad Bunny en Madrid: así es El Casal de Pepa, el único restaurante puertorriqueño de Madrid",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260601/donde-comer-como-bad-bunny-madrid-130793690",
+    "pubDate": "2026-06-01 08:16:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí se sirve mofongo, arroz mamposteado y chuleta Kan Kan, platos emblemáticos de la isla de moda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260323/mejores-restaurantes-mexicanos-barcelona-tacos-13456437\" target=\"_blank\">Más que tacos: los mejores restaurantes mexicanos de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260520/boali-restaurante-barcelona-deco-130462680\" target=\"_blank\">Deco se mete a restaurador: abre en Barcelona Boali, cadena campeona de la comida saludable en Brasil</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США знищили радари та командні пункти Ірану у відповідь на збитий дрон MQ-1",
+    "link": "https://ua.korrespondent.net/world/4883021-ssha-znyschyly-radary-ta-komandni-punkty-iranu-u-vidpovid-na-zbytyi-dron-MQ-1",
+    "pubDate": "2026-06-01 08:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448067.jpg\">Сили Корпусу вартових ісламської революції Ірану збили ударний американський безпілотник MQ-1 Predator.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 11 series que no te puedes perder este junio",
+    "link": "https://www.elperiodico.com/es/tele/20260601/series-estrenos-junio-2026-netflix-disney-movistar-amazon-prime-atresplayer-hbo-filmin-skyshowtime-apple-130661420",
+    "pubDate": "2026-06-01 08:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre los estrenos de Netflix, HBO, Disney+, Prime, Movistar Plus+, Filmin, Apple TV, Atresplayer y SkyShowtime destacan 'La Casa del Dragón' y 'Cape Fear'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20250925/carles-porta-33-dias-serie-brito-picatoste-fuga-121935628\">Carles Porta presenta '33 días', su primera serie de ficción, inspirada en la fuga de Brito y Picatoste: \"Partiendo de la realidad, podemos inventar\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los híbridos ya dominan el mercado español mientras el diésel se desploma en Europa",
+    "link": "https://www.elperiodico.com/es/motor/20260601/hibridos-dominan-mercado-espanol-130792649",
+    "pubDate": "2026-06-01 08:00:53",
+    "category": "",
+    "description": "<h2>España supera las 407.000 matriculaciones en 2026 y los coches electrificados ya representan más de la mitad de las ventas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Se acabó esperar al teléfono: la nueva ley obligará a las empresas a atenderte en menos de tres minutos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260601/telefono-atencion-cliente-nueva-ley-largas-esperas-dv-130705128",
+    "pubDate": "2026-06-01 08:00:53",
+    "category": "",
+    "description": "<h2>La normativa también limita el uso de contestadores automáticos y de otros sistemas similares</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260508/luz-subir-40-por-ciento-millones-hogares-desaparece-tarifa-regulada-dv-129873273\">Bruselas pide a España eliminar la tarifa de luz regulada: la factura podría subir hasta un 40% más al mes en millones de hogares</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Дніпропетровщині через обстріли поранено четверо людей",
+    "link": "https://ua.korrespondent.net/ukraine/4883017-na-dnipropetrovschyni-cherez-obstrily-poraneno-chetvero-luidei",
+    "pubDate": "2026-06-01 07:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448050.jpg\">Росіяни майже 30 разів атакував три райони області безпілотниками та обстрілювали з артилерії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El rompecabezas interior del Madrid",
+    "link": "https://as.com/baloncesto/acb/el-rompecabezas-interior-del-madrid-f202606-n/",
+    "pubDate": "2026-06-01 07:40:15",
+    "category": "Baloncesto",
+    "description": "Sissoko se convertirá en séptimo pívot esta temporada en un equipo blanco que no encuentra el equilibrio por dentro desde la salida de Poirier en 2024.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стало відомо, як відпрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4883015-stalo-vidomo-yak-vidpratsuivala-ppo",
+    "pubDate": "2026-06-01 07:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448034.jpg\">Зафіксовані влучання 27 ударних БПЛА на 18 локаціях, а також падіння збитих (уламки) на 12 локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Одесі: зросла кількість постраждалих",
+    "link": "https://ua.korrespondent.net/city/odessa/4883013-udar-po-odesi-zrosla-kilkist-postrazhdalykh",
+    "pubDate": "2026-06-01 07:19:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448033.jpg\">Постраждали п’ятеро людей. Двох госпіталізовано, двом надали допомогу на місці, ще одна людина від госпіталізації відмовилася.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ювентус не відмовився від ідеї трансферу гравця збірної Франції",
+    "link": "https://ua.korrespondent.net/sport/football/4883011-yuventus-ne-vidmovyvsia-vid-idei-transferu-hravtsia-zbirnoi-frantsii",
+    "pubDate": "2026-06-01 07:13:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448017.jpg\">висока ефективність: форвард з Франції забив 10 голів у 20 матчах під час оренди в Турині.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una doctora y dos comadronas de un hospital de Girona se enfrentan a penas de cárcel por causar un 96% de discapacidad a una bebé",
+    "link": "https://www.elperiodico.com/es/sucesos/20260601/doctora-comadronas-hospital-girona-negligencia-medica-discapacidad-bebe-130731027",
+    "pubDate": "2026-06-01 07:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">El juzgado insta a que ellas o sus aseguradoras consignen tres millones de euros por las secuelas a la menor</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20231210/juez-investiga-negligencia-medica-hospital-girona-parto-bebe-discapacidad-95608471\">Una juez investiga una negligencia médica en un hospital de Girona que dejó a una bebé con un 96% de discapacidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las salidas de vía ya son el accidente más mortal en España",
+    "link": "https://www.elperiodico.com/es/motor/20260601/salidas-via-son-accidente-mortal-130786932",
+    "pubDate": "2026-06-01 07:00:22",
+    "category": "",
+    "description": "<h2>La DGT alerta de que este tipo de siniestros provoca el 40% de las muertes en carretera y en la mayoría de los casos solo hay un vehículo implicado</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Marilyn Monroe: sus frases más icónicas, en el centenario de Norma Jeane",
+    "link": "https://www.elperiodico.com/es/gente/20260601/marilyn-monroe-frases-centenario-norma-jeane-130783056",
+    "pubDate": "2026-06-01 07:00:19",
+    "category": "",
+    "description": "<h2>El 1 de junio se cumplen cien años del nacimiento de la estrella que convirtió su vida, su imagen y su estilo en una de las grandes leyendas del cine, la moda y la cultura popular del siglo XX</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Los restaurantes italianos de Barcelona que no puedes perderte",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260601/mejores-restaurantes-italianos-barcelona-11928602",
+    "pubDate": "2026-06-01 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La gastronomía transalpina tiene muy buenos representantes en Barcelona. Estos son una garantía para decir 'mamma mia!' al acabar cada plato</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/recetas/20210602/platos-desconocidos-gastronomia-italiana-11783975\" >5 platos desconocidos de la gastronomía italiana</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20210712/productos-italianos-denominacion-origen-protegidos-desconocidos-11895638\" >Un caviar y otros 4 productos italianos que no conoces</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗСУ за добу знищили понад 1400 окупантів",
+    "link": "https://ua.korrespondent.net/ukraine/4883009-zsu-za-dobu-znyschyly-ponad-1400-okupantiv",
+    "pubDate": "2026-06-01 06:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448001.jpg\">Загальні бойові втрати російської армії з 24.02.22 по 01.06.2026 орієнтовно склали близько 1 365 470 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España y el sueño del 3x3",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-y-el-sueno-del-3x3-f202606-n/",
+    "pubDate": "2026-06-01 06:24:23",
+    "category": "Baloncesto",
+    "description": "Las selecciones femenina y masculina afrontan el Mundial de Polonia sin expectativas, pero con el objetivo de competir: ellas son vigente subcampeonas olímpicas; ellos, campeones del mundo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Diego de Blas, el último gran héroe del 3x3",
+    "link": "https://as.com/baloncesto/mas_baloncesto/diego-de-blas-el-ultimo-gran-heroe-del-3x3-f202606-n/",
+    "pubDate": "2026-06-01 06:23:46",
+    "category": "Baloncesto",
+    "description": "Criado en la cantera del Real Madrid, el que fuera campeón del mundo con España en el Mundial de 2025 afronta ahora una nueva cita con la Selección en Varsovia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ обстріляла Суми: пошкоджений дитсадок та будинки",
+    "link": "https://ua.korrespondent.net/ukraine/4883007-rf-obstriliala-sumy-poshkodzhenyi-dytsadok-ta-budynky",
+    "pubDate": "2026-06-01 06:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447985.png\">Ворожий безпілотник типу Герань-2 завдав удару по житловому сектору в Ковпаківському районі Сум.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ярмоленко переписав рекорд Шевченка, який тримався з Євро-2012",
+    "link": "https://ua.korrespondent.net/sport/football/4882978-yarmolenko-perepysav-rekord-shevchenka-yakyi-trymavsia-z-yevro-2012",
+    "pubDate": "2026-06-01 06:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447969.jpg\">Ярмоленко переписав історію, ставши найстаршим автором гола за \"синьо-жовтих\".",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El emprendimiento rural se erige como la gran palanca para frenar la despoblación",
+    "link": "https://www.elperiodico.com/es/economia/20260601/emprendimiento-rural-erige-gran-palanca-frenar-despoblacion-programa-tierra-oportunidades-130627504",
+    "pubDate": "2026-06-01 06:03:10",
+    "category": "",
+    "description": "<h2>Internet y las redes sociales permiten el florecimiento de todo tipo de iniciativas empresariales que contribuyen de forma decidida no solo a fijar población, sino también al retorno de muchas personas que se habían ido a las grandes ciudades</h2><h2>Programas como Tierra de Oportunidades ofrecen ayuda económica, formación y acompañamiento a emprendedores rurales como los impulsores de Barconatura, Aloe Vitae o La Moza de las Redes</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260601/pueblos-empiezan-ganar-habitantes-emprendedores-130679555\">Los pueblos ganan habitantes y emprendedores: \"Internet me permite estar en toda España\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sentencia pionera: cárcel para un constructor de Salou por el accidente mortal que sufrió un camionero al estallar una rueda en mal estado",
+    "link": "https://www.elperiodico.com/es/sucesos/20260601/sentencia-carcel-constructor-salou-accidente-mortal-camionero-neumaticos-en-mal-estado-castellbisbal-130788589",
+    "pubDate": "2026-06-01 06:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La víctima murió después de perder el control del trailer por el reventón de un neumático </h2><h2 class=\"item\">El juzgado considera al empresario responsable por hacer circular a su empleado con un camión que tenía los neumáticos desgastados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20251003/muerte-camionero-juicio-terrassa-fiscalia-acusa-constructora-salou-neumaticos-en-mal-estado-accidente-castellbisbal-122204375\">Juicio por la muerte de un camionero: la fiscalía acusa a una constructora de Salou de \"obligarle\" a conducir con ruedas en mal estado</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Florentino Pérez le cuelga el cartel de \"se vende\" al Real Madrid: \"Se ha quitado la careta\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260601/florentino-perez-venta-real-madrid-elecciones-130866329",
+    "pubDate": "2026-06-01 06:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El actual presidente pide abiertamente el voto en las elecciones del domingo para \"vender\" una parte del club a un inversor externo que, según explica, no recibiría \"nada\" a cambio</h2><h2 class=\"item\">\"Pido que el mensaje en las urnas sea claro: el Real Madrid no se vende\", le reprocha Enrique Riquelme sobre su proyecto, al que considera \"la mayor amenaza de la historia al club\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Instagram cambia el algoritmo",
+    "link": "https://www.elperiodico.com/es/tele/20260601/instagram-cambia-algoritmo-130865605",
+    "pubDate": "2026-06-01 06:00:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Federaciones del PSOE: del cierre de filas con Ferraz a la apuesta por adelantar las elecciones",
+    "link": "https://www.elperiodico.com/es/politica/20260601/federaciones-psoe-cierre-filas-ferraz-130819816",
+    "pubDate": "2026-06-01 06:00:16",
+    "category": "",
+    "description": "<h2>Sin haberse recuperado aun de los impactos en las filas socialistas por los casos de José Luis Ábalos y Santos Cerdán, y los varapalos electorales del PSOE en el ciclo autonómico; el Gobierno, el PSOE y el presidente Pedro Sánchez han visto cómo la UCO entraba en la sede federal del partido, se imputaba a la gerente, y José Luis Rodríguez Zapatero era citado como investigado a declarar ante el juez. PRENSA IBÉRICA repasa con sus cabeceras la situación de todas las federaciones socialistas</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La Barcelona metropolitana blinda el futuro de los ejes verdes reformando la norma con la que los jueces tumbaron las 'Superilles'",
+    "link": "https://www.elperiodico.com/es/barcelona/20260601/barcelona-metropolitana-blinda-futuro-ejes-verdes-reforma-norma-jueces-superilles-130774728",
+    "pubDate": "2026-06-01 06:00:15",
+    "category": "",
+    "description": "<h2>El AMB incorpora la mirada de la movilidad sostenible al sistema viario del Plan General Metropolitano, en el ojo del huracán judicial en la capital</h2><h2>La actualización dispara a la línea de flotación del conflicto judicial: proyecta que la función de las calles trascienda la mera circulación de coches</h2><h2>ALEGACIONES | <a href=\"https://www.elperiodico.com/es/barcelona/20260530/foment-barcelona-oberta-rechazan-reforma-amb-favor-ejes-verdes-eludir-sentencias-130816486\" target=\"_blank\">Foment y Barcelona Oberta rechazan una reforma del AMB en favor de los ejes verdes: \"Busca eludir las sentencias\"</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20230907/jueza-ordena-desmantelar-eje-verde-consell-de-cent-91809437\" target=\"_blank\">Una jueza ordena desmantelar el eje verde de Consell de Cent de Barcelona</a></h2><h2>PDUM | <a href=\"https://www.elperiodico.com/es/barcelona/20260210/plan-construir-220-000-viviendas-area-de-barcelona-vuelve-a-aprobarse-lluvia-alegaciones-126651423\" target=\"_blank\">El plan para construir 220.000 viviendas en el área de Barcelona vuelve a aprobarse tras una lluvia de alegaciones</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Llega la selectividad 2026: detectores de dispositivos electrónicos, cero por copiar y presión por las notas de corte",
+    "link": "https://www.elperiodico.com/es/sociedad/20260601/empieza-selectividad-espana-detectores-moviles-dispositivos-electronicos-copiar-notas-corte-130752499",
+    "pubDate": "2026-06-01 06:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\">La comunidad madrileña estrena el 1 de junio los exámenes, que se celebran los días 2, 3 y 4 en la mayoría de las autonomías y que en Catalunya se retrasan hasta la semana siguiente  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260528/como-ayudar-menos-nervios-hijos-selectividad-130715204\" target=\"_blank\">\"Un examen no define tu valía\": qué necesita escuchar tu hijo antes de la selectividad</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260421/selectividad-2026-cataluna-fechas-horario-examenes-pau-129346563\" target=\"_blank\">¿Cuándo es la selectividad 2026 en Catalunya? Fechas y horario de los exámenes de PAU</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Foment y Barcelona Oberta rechazan una reforma del AMB en favor de los ejes verdes: \"Busca eludir las sentencias judiciales\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260601/foment-barcelona-oberta-rechazan-reforma-amb-favor-ejes-verdes-eludir-sentencias-130816486",
+    "pubDate": "2026-06-01 06:00:15",
+    "category": "",
+    "description": "<h2>Las patronales, que han tumbado urbanísticamente en los tribunales las 'Superilles', piden la nulidad de una modificación del PGM</h2><h2>NOTICIA | <a href=\"https://www.elperiodico.com/es/barcelona/20260529/barcelona-metropolitana-blinda-futuro-ejes-verdes-reforma-norma-jueces-superilla-130774728\" target=\"_blank\">La Barcelona metropolitana blinda el futuro de los ejes verdes reformando la norma con la que los jueces tumbaron las 'Superilles'</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20230907/jueza-ordena-desmantelar-eje-verde-consell-de-cent-91809437\" target=\"_blank\">Una jueza ordena desmantelar el eje verde de Consell de Cent de Barcelona</a></h2><h2>PDUM | <a href=\"https://www.elperiodico.com/es/barcelona/20260210/plan-construir-220-000-viviendas-area-de-barcelona-vuelve-a-aprobarse-lluvia-alegaciones-126651423\" target=\"_blank\">El plan para construir 220.000 viviendas en el área de Barcelona vuelve a aprobarse tras una lluvia de alegaciones</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un topo ruso en la cúpula de la CIA: David McCloskey alimenta el mayor temor del espionaje estadounidense",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260601/topo-ruso-cupula-cia-david-130769761",
+    "pubDate": "2026-06-01 06:00:14",
+    "category": "",
+    "description": "<h2 class=\"item\">El novelista, autor de 'Estación Damasco' y 'Moscú X', publica 'Langley, séptimo piso'. \"No hace falta demasiada imaginación para ver a los rusos haciendo algo terrible en Langley\", asegura </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251022/hijo-john-le-carre-revive-122894342\">El hijo de John Le Carré revive al legendario espía George Smiley: \"Vivimos constantemente en las consecuencias del pasado\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "PP y PSOE mantienen bloqueada la ley que regula la mediación de los lobistas entre las empresas y el Gobierno",
+    "link": "https://www.elperiodico.com/es/politica/20260601/pp-psoe-bloqueada-ley-congreso-130559049",
+    "pubDate": "2026-06-01 06:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">Los dos partidos coinciden en que la norma haría más difíciles actuaciones como las que apunta la investigación a Zapatero</h2><h2 class=\"item\">Los socialistas acusan a los populares de impedir la aprobación de la norma, que podría aprobarse con la abstención del PP</h2><h2 class=\"item\">La ley crearía un registro de lobistas y obligaría a que hicieran públicas todas sus reuniones con el Gobierno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos d'Esquadra detectan un auge de la prostitución ‘low cost’ en Barcelona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260601/prostitucion-low-cost-barcelona-auge-preocupacion-mossos-esquadra-explotacion-mujeres-130814369",
+    "pubDate": "2026-06-01 06:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía alerta de que la ciudad se está convirtiendo en un destino de turismo sexual</h2><h2 class=\"item\">La falta de denuncias por parte de las mujeres explotadas agrava la problemática </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260529/prostitucion-barcelona-queja-malos-olores-destapa-local-mujeres-chinas-les-corts-130811555\" target=\"_blank\">Una queja por malos olores destapa un local de esclavas sexuales en Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La trama de blanqueo del caso Zapatero movió el dinero del rescate de Plus Ultra por Suiza, Gibraltar, Isla Mauricio y Montenegro",
+    "link": "https://www.elperiodico.com/es/politica/20260601/trama-blanqueo-caso-zapatero-movio-130815592",
+    "pubDate": "2026-06-01 06:00:12",
+    "category": "",
+    "description": "<h2>Según las autoridades suizas una cuenta bancaria que recibió desde España 519.000 dólares recibe otros 2.230.000 francos suizos procedentes de Isla Mauricio y 14.194.074 euros de la sociedad Ensa Energia AG, en Malasia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una queja por malos olores destapa un local de esclavas sexuales en Barcelona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260601/prostitucion-barcelona-queja-malos-olores-destapa-local-mujeres-chinas-les-corts-130811555",
+    "pubDate": "2026-06-01 06:00:12",
+    "category": "",
+    "description": "<h2 class=\"item\">La Guardia Urbana descubre a tres mujeres chinas que comían y dormían en unos bajos sin ventanas de Les Corts en el que se vendían a 30 euros por 20 minutos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260529/prostitucion-low-cost-barcelona-auge-preocupacion-mossos-esquadra-explotacion-mujeres-130814369\" target=\"_blank\">Los Mossos d’Esquadra alertan de un aumento de la prostitución 'low cost'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "SAP amplía en casi 2.000 metros cuadrados su ‘hub’ de Barcelona en el marco de su 20 aniversario",
+    "link": "https://www.elperiodico.com/es/economia/20260601/sap-amplia-hub-barcelona-20-aniversario-130771699",
+    "pubDate": "2026-06-01 06:00:12",
+    "category": "",
+    "description": "<h2>La compañía ha sumado dos plantas a unas oficinas en las que ya trabajan unas 600 personas, siendo uno de los mayores centros en Europa, Oriente Medio y África</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El difícil equilibrio de los socios de Gobierno ante los 'casos del PSOE': marcar distancias sin dejarlo caer",
+    "link": "https://www.elperiodico.com/es/politica/20260601/dificil-equilibrio-socios-gobierno-zapatero-130806354",
+    "pubDate": "2026-06-01 06:00:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Los partidos endurecen el tono contra el principal lazo de Gobierno, pero son reacios a apoyar una moción de censura</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260529/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">En Directo. Situación política tras la entrada de la UCO en Ferraz y el caso Zapatero | Última hora</a> </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los pueblos ganan habitantes y emprendedores: \"Internet me permite estar en toda España\"",
+    "link": "https://www.elperiodico.com/es/economia/20260601/pueblos-empiezan-ganar-habitantes-emprendedores-130679555",
+    "pubDate": "2026-06-01 06:00:09",
+    "category": "",
+    "description": "<h2>Desde 2018, los pueblos han atraído población nacional y extranjera y ha crecido el número de personas ocupadas, especialmente mujeres</h2><h2>El emprendimiento rural se erige como la gran palanca para frenar la despoblación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 3 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20260601/gasolineras-mas-baratas-hoy-lunes-1-junio-2026-130795085",
+    "pubDate": "2026-06-01 06:00:09",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya carece de datos unificados sobre contenciones, ingresos involuntarios y tiempos de espera en urgencias",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260601/catalunya-carece-datos-unificados-contenciones-130751208",
+    "pubDate": "2026-06-01 06:00:07",
+    "category": "",
+    "description": "<h2 class=\"item\">\"No podemos mejorar lo que no medimos\", denuncia el jefe de Psiquiatría de Can Ruti, Jorge Cuevas</h2><h2 class=\"item\">Las personas atendidas en ese centro pasan una media de 12 horas en urgencias, ingresen o no</h2><h2 class=\"item\">Profesionales, activistas, familiares y juristas plantean la necesidad de revisar espacios, circuitos, garantías y alternativas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Competencia estrecha el cerco sobre los vídeos de grandes ‘influencers’ en Youtube y Twitch para proteger a los menores",
+    "link": "https://www.elperiodico.com/es/economia/20260601/vigilancia-videos-menores-internet-youtube-twitch-cnmc-competencia-130795223",
+    "pubDate": "2026-06-01 06:00:06",
+    "category": "",
+    "description": "<h2 class=\"item\">La CNMC quiere contratar a empresas privadas para hacer una vigilancia específica de la calificación por edad de los contenidos en las mayores plataformas de vídeos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué pasa si te pillan copiando en la selectividad? Estas son las sanciones",
+    "link": "https://www.elperiodico.com/es/sociedad/20260601/copiar-examenes-selectividad-130581485",
+    "pubDate": "2026-06-01 06:00:06",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260518/mejor-manera-estudiar-selectividad-130352846\" target=\"_blank\">Cómo estudia la selectividad la generación Z: \"El problema no es la IA, sino delegar en ella la tarea de pensar\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/selectividad-dudas-nota-examenes-acceso-universidad-sh/index.html\" target=\"_blank\">Guía para entender cómo funciona la PAU: exámanes y notas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El JOMO,  el 'joy of missing out', es el nuevo FOMO: \"La persona que quiere ir a todo ahora da 'cringe'\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260601/jomo-joy-of-missing-out-130760998",
+    "pubDate": "2026-06-01 06:00:06",
+    "category": "",
+    "description": "<h2>El ensayo 'JOMO. El gusto de perder' de Juan Evaristo Valls Boix explora el 'joy of missing out' como reacción al agotamiento y la presión social por estar siempre conectado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Josep Vila, presidente de la ANC: \"Illa no respeta la autodeterminación y esto no es democrático\"",
+    "link": "https://www.elperiodico.com/es/politica/20260601/presidente-anc-josep-vila-entrevista-autodeterminacion-salvador-illa-independentismo-130449993",
+    "pubDate": "2026-06-01 06:00:05",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Se necesita una regeneración democrática de los partidos independentistas más allá de los liderazgos\", defiende el nuevo dirigente de la entidad independentista </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260420/anc-elecciones-secretariado-nacional-direccion-lluis-llach-participacion-baja-129092912\">La ANC renueva su dirección en las elecciones con la participación más baja de la historia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251124/encuesta-ceo-independencia-catalunya-noviembre-2025-124057418\">Encuesta CEO: El apoyo a la independencia de Catalunya se desploma entre los más jóvenes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 31.05: Контроль логістики і нова IRIS-T",
+    "link": "https://ua.korrespondent.net/ukraine/4882910-pidsumky-3105-kontrol-lohistyky-i-nova-IRIS-T",
+    "pubDate": "2026-06-01 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447920.jpg\">ЗСУ заявили про контроль над логістикою росіян на Луганщині; Україна отримала нову пускову установку IRIS-T. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Entrevista  Josep Vila presidente de la ANC",
+    "link": "https://www.elperiodico.com/es/videos/politica/entrevista-josep-vila-presidente-anc/130529634.shtml",
+    "pubDate": "2026-06-01 05:55:59",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TVYMAS LUNES 1",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-1/130863147.shtml",
+    "pubDate": "2026-06-01 05:55:59",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, en directo, última hora | La OTAN y la UE arremeten contra Rusia tras el impacto de un dron en Rumania",
+    "link": "https://www.elperiodico.com/es/internacional/20260601/guerra-ucrania-rusia-directo-ultima-126605559",
+    "pubDate": "2026-06-01 05:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ готує аналог Starlink і вже запускає супутники",
+    "link": "https://ua.korrespondent.net/world/russia/4883001-rf-hotuie-analoh-Starlink-i-vzhe-zapuskaie-suputnyky",
+    "pubDate": "2026-06-01 05:27:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447886.jpg\">На орбіті у тестовому режимі працюють перші 16 супутників. Однак для стабільної передачі даних потрібно щонайменше 200–250.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué no se acusa de asesinato al actor Luis Lorenzo y a Arancha Palomino?",
+    "link": "https://www.elperiodico.com/es/sucesos/20260601/luis-lorenzo-actor-asesinato-tia-isabel-130875371",
+    "pubDate": "2026-06-01 05:00:49",
+    "category": "",
+    "description": "<h2>La pareja estuvo investigada por la muerte de su tía, Isabel Suárez después de que la autopsia revelara que la anciana tenía en su sangre dos metales pesados, cadmio y manganeso, 200 y 20 veces por encima de los niveles normales</h2><h2>Otro informe forense posterior apuntó la posibilidad de que el hallazgo se debiera a un fenómeno de \"redistribución postmortem\" y el juez retiró la acusación de asesinato contra el actor y su mujer</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ціни на нафту зростають через відсутність прогресу між Іраном і США",
+    "link": "https://ua.korrespondent.net/business/economics/4883003-tsiny-na-naftu-zrostauit-cherez-vidsutnist-prohresu-mizh-iranom-i-ssha",
+    "pubDate": "2026-06-01 04:56:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447903.jpg\">Вашингтон і Тегеран протягом вихідних обмінялися поправками до проєкту мирної угоди, однак ситуація продовжує бути невизначеною.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У травні СБС уразили 18 НПЗ росіян",
+    "link": "https://ua.korrespondent.net/world/russia/4882996-u-travni-sbs-urazyly-18-npz-rosiian",
+    "pubDate": "2026-06-01 04:22:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447787.jpg\">Палали установки первинної переробки нафти і газу, а також нафтобази, нафтоперекачувальні станції і хімзаводи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Бухаресті вимагають, щоб РФ била по Україні, не зачипаючи Румунії",
     "link": "https://ua.korrespondent.net/world/4882999-u-bukharesti-vymahauit-schob-rf-byla-po-ukraini-ne-zachypauichy-rumunii",
+    "pubDate": "2026-06-01 03:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447837.jpg\">Нікушор Дан хоче, щоб росіяни завдаючи ударів по містах на іншому березі Дунаю, бути впевнені, що їхні дії не загрожують румунським громадянам.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Бухаресті вимагають, щоб РФ била по Україні, не зачепаючи Румунії",
+    "link": "https://ua.korrespondent.net/world/4882999-u-bukharesti-vymahauit-schob-rf-byla-po-ukraini-ne-zachepauichy-rumunii",
     "pubDate": "2026-06-01 03:48:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4447837.jpg\">Нікушор Дан хоче, щоб росіяни завдаючи ударів по містах на іншому березі Дунаю, бути впевнені, що їхні дії не загрожують румунським громадянам.",
