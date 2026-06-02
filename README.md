@@ -1,8 +1,9 @@
-# News for 2026-06-02 23:32
+# News for 2026-06-03 01:16
 
 Previous day: [2026-06-01](./data/2026-06-01.md)
 
 ## ua.korrespondent.net
+23:54 [ISW назвав причини відмови Путіна закінчити війну](https://ua.korrespondent.net/world/russia/4883544-ISW-nazvav-prychyny-vidmovy-putina-zakinchyty-viinu)<br>
 23:25 [Рубіо заявив про зростання активності верховного лідера Ірану](https://ua.korrespondent.net/world/4883542-rubio-zaiavyv-pro-zrostannia-aktyvnosti-verkhovnoho-lidera-iranu)<br>
 22:57 [Масований удар РФ по Києву: кількість жертв зросла](https://ua.korrespondent.net/kyiv/4883538-masovanyi-udar-rf-po-kyievu-kilkist-zhertv-zrosla)<br>
 22:24 [Угорщина розблокувала кошти ЄС на зброю для України](https://ua.korrespondent.net/world/4883536-uhorschyna-rozblokuvala-koshty-yes-na-zbroui-dlia-ukrainy)<br>
@@ -77,6 +78,7 @@ Previous day: [2026-06-01](./data/2026-06-01.md)
 00:33 [Росія атакує Україну БПЛА і запустила Калібри](https://ua.korrespondent.net/ukraine/4883266-rosiia-atakuie-ukrainu-bpla-i-zapustyla-kalibry)<br>
 
 ## as.com
+23:28 [Un genial Jaime Fernández pone al Madrid contra las cuerdas](https://as.com/baloncesto/acb/un-genial-jaime-fernandez-pone-al-madrid-contra-las-cuerdas-f202606-n/)<br>
 23:06 [Resumen del Real Madrid vs La Laguna Tenerife, playoffs de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-la-laguna-tenerife-playoffs-de-la-liga-endesa-f202606-v/)<br>
 23:06 [Resumen del Real Madrid vs La Laguna Tenerife, playoffs de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-la-laguna-tenerife-playoffs-de-la-liga-endesa-f202606-v/)<br>
 23:06 [Resumen del Real Madrid vs La Laguna Tenerife, playoffs de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-la-laguna-tenerife-playoffs-de-la-liga-endesa-f202606-v/)<br>
@@ -100,6 +102,8 @@ Previous day: [2026-06-01](./data/2026-06-01.md)
 06:00 [Una ACB de récord](https://as.com/baloncesto/acb/una-acb-de-record-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:59 [El Museo de Historia de Barcelona inaugura la exposición “Vendrán las mujeres. 150 años de luchas en las calles de Barcelona”](https://www.elperiodico.com/es/ocio-y-cultura/20260602/museo-historia-barcelona-inaugura-exposicion-bc-130503496)<br>
+23:43 [La portada de EL PERIÓDICO del 3 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260602/portada-periodico-3-junio-2026-130953144)<br>
 23:25 [La Laguna Tenerife sorprende al Real Madrid y se adelanta en el play-off](https://www.elperiodico.com/es/deportes/20260602/laguna-tenerife-sorprende-real-madrid-130952928)<br>
 23:13 [Blue Origin prevé lanzar este año su cohete New Glenn, pese a la explosión en una prueba](https://www.elperiodico.com/es/sociedad/20260602/blue-origin-preve-lanzar-ano-130952804)<br>
 22:23 [Fallece Josep Maria Cadena: Memoria de una época](https://www.elperiodico.com/es/ocio-y-cultura/20260602/josep-maria-cadena-muere-obituario-memoria-epoca-albert-garrido-130951831)<br>
