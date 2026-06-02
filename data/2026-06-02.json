@@ -1,5 +1,585 @@
 [
   {
+    "title": "Huelga de profesores en Barcelona y Catalunya: ¿Dónde es hoy martes 2 de junio y dónde toca mañana miércoles?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/huelga-profesores-barcelona-catalunya-calendario-hoy-martes-2-junio-manana-miercoles-dv-130131145",
+    "pubDate": "2026-06-02 08:17:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las movilizaciones siguen adelante a medio gas pese al preacuerdo alcanzado entre los sindicatos mayoritarios y Educació</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594\">Huelga de profesores, en directo: última hora de la convocatoria, cortes en carreteras y servicios mínimos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El rescate que Sánchez concedió a Plus Ultra se blanqueó desde Mallorca",
+    "link": "https://www.elperiodico.com/es/politica/20260602/rescate-sanchez-concedio-plus-ultra-130916060",
+    "pubDate": "2026-06-02 08:16:58",
+    "category": "",
+    "description": "<h2>Según la Audiencia Nacional, las sociedades instrumentales que Simon Verhoeven manejaba desde su residencia en Santa Maria lavaron 16 millones de euros de la aerolínea mediante la trama de Zapatero</h2>",
+    "topic": "пограбування, афера",
+    "probability": 85,
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La Interpol busca al residente mallorquín clave en el escándalo de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260602/interpol-busca-residente-mallorquin-clave-130915847",
+    "pubDate": "2026-06-02 08:11:09",
+    "category": "",
+    "description": "<h2>El juez califica a Simon Verhoeven, domiciliado en la localidad de Santa Maria, de \"principal persona en la generación de facturas falsas\" de Plus Ultra</h2>",
+    "topic": "пограбування, афера",
+    "probability": 85,
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Huelga de profesores en Catalunya, en directo | Última hora del acuerdo con Educació y la decisión de USTEC de desconvocar la huelga",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594",
+    "pubDate": "2026-06-02 08:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260530/sindicatos-profesores-huelga-lunes-130829734\">El sindicato mayoritario Ustec suspende la huelga hasta el jueves mientras los maestros votan el acuerdo con Educació</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260529/principales-sindicatos-educacio-govern-sellan-acuerdo-govern-ustec-desconvocan-huelgas-130803273\">Profesores y Educació firman 'in extremis' un acuerdo que incluye un aumento de 450 euros mensuales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260526/lidon-gasull-directora-affac-profesores-atender-conjunto-alumando-papel-familias-conflicto-sindicatos-130659810\">Lidón Gasull, directora de la aFFaC: \"Los profesores que no quieran trabajar para todos los alumnos, sean como sean, que se dediquen a otra cosa\"</a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los psicólogos coinciden: \"El orden de nacimiento es uno de los factores que influyen en la personalidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/hermanos-mayores-mas-inteligentes-psicologos-personalidad-orden-nacimiento-dv-130663129",
+    "pubDate": "2026-06-02 08:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio revela que los hijos mayores suelen tener un coeficiente intelectual superior al resto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tendencias21/20260525/obesidad-padres-altera-metabolismo-hijos-130636744\">La obesidad de los padres altera el metabolismo de sus hijos y aumenta el riesgo de enfermedades</a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La pastelería de Girona donde se hace la mejor coca tradicional de Sant Joan de Catalunya",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260602/pasteleria-girona-mejor-coca-tradicional-sant-jordi-dv-130725328",
+    "pubDate": "2026-06-02 08:05:00",
+    "category": "",
+    "description": "<h2>Toda la oferta de helados, pastas de té, chocolatería, buñuelos, panellets y repostería que ofrece este local es de producción propia</h2><h2><a href=\"https://www.elperiodico.com/es/gastronomia/20260527/mejores-cocas-sant-joan-2026-catalunya-130701132\">Estas son las mejores cocas de Sant Joan de Catalunya 2026</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260321/pasteleria-girona-gana-premio-mejor-xuixo-mundo-2026-128251740\">Una pastelería de Girona gana el premio al mejor 'xuixo' del mundo 2026</a></h2>",
+    "topic": "ресторани, їжа",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cinco universidades españolas, entre las cien mejores de Europa",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/selectividad-universidades-espana-cien-mejores-europa-130881273",
+    "pubDate": "2026-06-02 08:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">La UB, la UAB, la Autónoma de Madrid, la Complutense y la UPF están entre las cien mejores del continente, según el ranking QS</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260531/reserva-plazas-universidad-olimpiadas-matematicas-130498215\" target=\"_blank\">La Sociedad Matemática pide plazas universitarias para los medallistas científicos, como ya ocurre con los deportistas de élite</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260527/siete-diez-mejores-universidades-espana-130665923\" target=\"_blank\">Siete de las diez mejores universidades de España son catalanas, según el ranking CYD</a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Seguridad Social podrá reclamar devoluciones de dinero incluso años después por cobros indebidos",
+    "link": "https://www.elperiodico.com/es/economia/20260602/seguridad-social-reclamar-devoluciones-dinero-anos-despues-cobros-indebidos-130887623",
+    "pubDate": "2026-06-02 08:01:02",
+    "category": "",
+    "description": "<h2>La Ley General de la Seguridad Social permite exigir el reintegro de prestaciones percibidas indebidamente y descontar cantidades futuras en determinados casos</h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nueva norma para camiones y autobuses: los neumáticos deberán tener al menos 1 milímetro de dibujo",
+    "link": "https://www.elperiodico.com/es/motor/20260602/nueva-norma-camiones-autobuses-neumaticos-130886834",
+    "pubDate": "2026-06-02 08:01:02",
+    "category": "",
+    "description": "<h2>La modificación ya está en vigor y su incumplimiento puede acarrear multas de hasta 200 euros por cada rueda en mal estado</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "probability": 80,
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Las mejores bodegas de Barcelona",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260602/mejores-bodegas-barcelona-restaurantes-130106860",
+    "pubDate": "2026-06-02 08:01:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí tienes unos cuantos sitios donde comer muy bien a precios asequibles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260507/mejores-restaurantes-cocina-casera-barcelona-128600414\">La mejor cocina casera: en estos restaurantes cocinan (casi) mejor que las abuelas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250121/bodegas-autenticas-barcelona-113228489\">Estas son las bodegas más auténticas de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Japonés abre un nuevo establecimiento junto al Arc del Triomf (y otras noticias gastro)",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260602/el-japones-restaurante-barcelona-arco-triunfo-130753431",
+    "pubDate": "2026-06-02 07:58:57",
+    "category": "",
+    "description": "<h2 class=\"item\">Te contamos lo que pasa en el mundillo gastro en estos 'flashes'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250801/mejores-restaurantes-japoneses-barcelona-11616041\">Los mejores restaurantes japoneses de Barcelona en los que te sentirás como en Tokio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260525/casa-fernandez-restaurante-barcelona-130547846\">Casa Fernández amplía la carta tras renovar el local (y otras noticias gastro</a></h2>",
+    "topic": "ресторани, їжа",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Масований удар: є влучання 30 балістичних ракет",
+    "link": "https://ua.korrespondent.net/ukraine/4883302-masovanyi-udar-ye-vluchannia-30-balistychnykh-raket",
+    "pubDate": "2026-06-02 07:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449162.jpg\">Протиповітряною обороною збито/подавлено 642 цілі росіян - 40 ракет та 602 безпілотники різних типів.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un gran ejemplo de cómo dar sabor y elegancia a un pescado crudo: pargo con hinojo y cítricos",
+    "link": "https://www.elperiodico.com/es/gastronomia/recetas/20260602/receta-crudo-pargo-restaurante-fiskebar-barcelona-130794377",
+    "pubDate": "2026-06-02 07:55:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta es la receta de uno los platos más destacados del año de <a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20220729/fiskebar-restaurante-barcelona-reail-club-maritim-14177570\" >Fiskebar</a>, el restaurante del Reial Club Marítim</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250331/mejores-restaurantes-pescado-barcelona-115501592\">Los mejores restaurantes de pescado de Barcelona (1)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20231012/receta-carpaccio-atun-aguacate-pistacho-restaurante-rias-kru-93018620\">Así se hace un carpacho de atún que no olvidarás jamás</a></h2>",
+    "topic": "ресторани, їжа",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dura lesión de Poirier",
+    "link": "https://as.com/baloncesto/euroliga/dura-lesion-de-poirier-f202606-n/",
+    "pubDate": "2026-06-02 07:55:09",
+    "category": "Baloncesto",
+    "description": "El expívot del Madrid, actualmente en el Anadolu Efes de Pablo Laso, tuvo que retirarse en el último cuarto ante el Fenerbahçe. Pinta a talón de Aquiles.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Помер один із найуспішніших тренерів в історії НБА",
+    "link": "https://ua.korrespondent.net/sport/basketball/4883301-pomer-odyn-iz-naiuspishnishykh-treneriv-v-istorii-nba",
+    "pubDate": "2026-06-02 07:55:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449160.jpg\">Один із найшанованіших наставників в історії НБА за свою тривалу кар'єру здобув понад тисячу перемог у регулярних чемпіонатах.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "10 razones de peso para seguir confiando en Marc Márquez",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/razones-seguir-confiando-marc-marquez-130912449",
+    "pubDate": "2026-06-02 07:48:36",
+    "category": "",
+    "description": "<h2 class=\"item\">\"¡Ojalá me tenga que tragar mis propias palabras pero, a día de hoy, no me veo, no, peleando por el título\". Marc Márquez (Ducati) está lejos del líder de MotoGP, el italiano Marco Bezzecchi, bueno, está lejos de los favoritos al título, pero nadie se atreve a descartarlo. Nadie.</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "probability": 80,
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, en directo, última hora | La UE estudia suspender la residencia legal de los ucranianos en edad de combatir",
+    "link": "https://www.elperiodico.com/es/internacional/20260602/guerra-ucrania-rusia-directo-ultima-126605559",
+    "pubDate": "2026-06-02 07:47:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tabla de jubilación 2026 y 2027: cuánto se cobra según los años cotizados según el experto Ignacio Solsona",
+    "link": "https://www.elperiodico.com/es/economia/20260602/tabla-jubilacion-2026-2027-cobra-anos-cotizados-experto-ignacio-solsona-dv-130890754",
+    "pubDate": "2026-06-02 07:45:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El autor del libro 'De cara a la jubilación' y abogado laboralista explica cómo calcular lo que te va a quedar según el tiempo cotizado durante toda la vida laboral</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260512/ignacio-solsona-abogado-importancia-cotizaciones-futuras-prestaciones-dv-130129017\">Ignacio Solsona, abogado: “Las cotizaciones son muy importantes de cara a las futuras prestaciones”</a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США обговорюють розширення розгортання ядерної зброї в Європі - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4883300-ssha-obhovoruiuit-rozshyrennia-rozghortannia-yadernoi-zbroi-v-yevropi-zmi",
+    "pubDate": "2026-06-02 07:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449153.png\">Джерела видання заявили, що готовність обговорювати розширення мала на меті продемонструвати прихильність США до забезпечення ядерної парасольки",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Esta es la localidad de Catalunya con un restaurante que ha conquistado a Marc Márquez: cocina catalana y una estrella Michelín",
+    "link": "https://www.elperiodico.com/es/catalunya/20260602/pueblo-barcelona-vic-calldetenes-restaurante-can-jubany-cataluna-marc-marquez-dv-loc-130718069",
+    "pubDate": "2026-06-02 07:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La localidad ofrece diferentes rutas por la montaña aptas para toda la familia</h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/catalunya/20260527/turismo-barcelona-atenas-grecia-turistas-dv-loc-130646753\" >“No podemos convertirnos en Barcelona” el mensaje que lanza el alcalde de Atenas contra el turismo en Grecia</a></u></h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/catalunya/20260526/santuario-puig-agut-barcelona-cataluna-osona-manlleu-alpes-video-dv-loc-130676305\" >Este santuario de Catalunya parece sacado de los Alpes y se ha convertido en uno de los lugares más virales en redes</a></u></h2>",
+    "topic": "ресторани, їжа",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зросла кількість загиблих внаслідок атаки на Дніпро",
+    "link": "https://ua.korrespondent.net/ukraine/4883297-zrosla-kilkist-zahyblykh-vnaslidok-ataky-na-dnipro",
+    "pubDate": "2026-06-02 07:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449147.png\">У 23 людей госпіталізовані. Серед них і 13-річна дівчинка. Її стан медики оцінюють як середньої тяжкості. Троє поранених у важкому стані.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las audiencias de mayo en televisión",
+    "link": "https://www.elperiodico.com/es/tele/20260602/audiencias-mayo-television-130900045",
+    "pubDate": "2026-06-02 07:00:53",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así puedes saber cuántos puntos te quedan en el carnet de conducir sin salir de casa",
+    "link": "https://www.elperiodico.com/es/motor/20260602/puedes-puntos-quedan-carnet-conducir-130879921",
+    "pubDate": "2026-06-02 07:00:48",
+    "category": "",
+    "description": "<h2>La consulta es gratuita y puede realizarse en pocos minutos a través de varios canales habilitados por Tráfico</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los restaurantes del barrio de Gràcia que no deberías perder de vista",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260602/mejores-restaurantes-gracia-barcelona-81106586",
+    "pubDate": "2026-06-02 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Te proponemos que visites alguno de estos establecimientos (o todos) del animado barrio de Barcelona, algunos de ellos veteranos y otros recién llegados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230501/buenos-restaurantes-badalona-84300825\" >5 buenos restaurantes para acercarse a Badalona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20221128/restaurantes-sants-barcelona-77697316\" >5 restaurantes de Sants que deberías tener en la agenda</a></h2>",
+    "topic": "ресторани, їжа",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атлетіко робить усе, аби форвард не дістався прямим конкурентам",
+    "link": "https://ua.korrespondent.net/sport/football/4883294-atletiko-robyt-use-aby-forvard-ne-distavsia-priamym-konkurentam",
+    "pubDate": "2026-06-02 06:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449140.jpg\">Керівництво \"матрацників\" категорично проти трансферу форварда до каталонської Барселони, яка виявляє чималий інтерес до гравця.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати РФ за добу",
+    "link": "https://ua.korrespondent.net/ukraine/4883293-henshtab-nazvav-vtraty-rf-za-dobu",
+    "pubDate": "2026-06-02 06:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449132.jpg\">Загальні бойові втрати противника з 24.02.22 по 02.06.2026 орієнтовно склали близько 1 366 910 осіб.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тренер пояснив роль Неймара у збірній Бразилії на ЧС-2026",
+    "link": "https://ua.korrespondent.net/sport/football/4883290-trener-poiasnyv-rol-neimara-u-zbirnii-brazylii-na-chs-2026",
+    "pubDate": "2026-06-02 06:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449131.jpg\">За словами Анчелотті, Неймару доведеться витримати конкуренцію на флангах атаки, де зараз грають Вінісіус Жуніор і Рафінья.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удар по Києву: зросла кількість загиблих і поранених",
+    "link": "https://ua.korrespondent.net/city/kiev/4883289-udar-po-kyievu-zrosla-kilkist-zahyblykh-i-poranenykh",
+    "pubDate": "2026-06-02 06:23:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449113.png\">У Подільському районі попередньо, внаслідок повторного влучання ракети в 9-поверховий житловий будинок стався частковий обвал конструкцій.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sissoko, el chico que andaba 90 minutos al día para estudiar",
+    "link": "https://as.com/baloncesto/acb/sissoko-el-chico-que-andaba-90-minutos-al-dia-para-estudiar-f202606-n/",
+    "pubDate": "2026-06-02 06:21:33",
+    "category": "Baloncesto",
+    "description": "El nuevo pívot del Madrid (25 años y 2,06 m) llegó a los 16 años a Estados Unidos desde Tangafoya, una aldea de 1.000 habitantes a 560 km de Bamako.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "UCAM Murcia - Barcelona: horario, TV y dónde ver el playoff ACB 2025-26",
+    "link": "https://as.com/baloncesto/acb/ucam-murcia-barcelona-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n/",
+    "pubDate": "2026-06-02 06:19:51",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver los cuartos del playoff de la Liga Endesa 2025-26 entre UCAM Murcia y Barcelona. Este martes, 2 de junio, a las 19:00 horas.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid - La Laguna Tenerife: horario, TV y dónde ver el playoff ACB 2025-26",
+    "link": "https://as.com/baloncesto/acb/real-madrid-la-laguna-tenerife-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n/",
+    "pubDate": "2026-06-02 06:15:11",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver los cuartos del playoff de la Liga Endesa 2025-26 entre Madrid y el Tenerife. Este martes, 2 de junio, a las 21:00 horas.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Recuerdos de 1999, la última vez que los Knicks más \"pendencieros\" rozaron el título de la NBA",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/recuerdos-new-york-knicks-1999-final-nba-san-antonio-spurs-130890790",
+    "pubDate": "2026-06-02 06:15:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo neoyorquino afronta su primera final ante los San Antonio Spurs, al igual que aquel grupo liderado por un entrenador sin ningún glamour llamado Jeff van Gundy y con jugadores como Pat Ewing y Allan Houston en una temporada anómala</h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Enfermera en invierno, estrella del 3x3 en verano",
+    "link": "https://as.com/baloncesto/mas_baloncesto/enfermera-en-invierno-estrella-del-3x3-en-verano-f202606-n/",
+    "pubDate": "2026-06-02 06:05:33",
+    "category": "Baloncesto",
+    "description": "Gracia Alonso de Armiño abandonó el 5x5 para dedicarse a su trabajo y estar sólo en el 3x3. Una maravillosa anomalía para la nueva líder de la Selección en Polonia.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sandra Ygueravide, la leyenda en pista que vive su nueva aventura en los banquillos",
+    "link": "https://as.com/baloncesto/mas_baloncesto/sandra-ygueravide-la-leyenda-en-pista-que-vive-su-nueva-aventura-en-los-banquillos-f202606-n/",
+    "pubDate": "2026-06-02 06:03:22",
+    "category": "Baloncesto",
+    "description": "La ya exjugadora, referente del baloncesto español, es la entrenadora de la Selección en el Mundial 3x3 que se celebra en Varsovia del 1 al 7 de junio.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid TV ignora a Riquelme y se pone al servicio de Florentino durante la campaña electoral",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/real-madrid-tv-canal-elecciones-negreira-130909553",
+    "pubDate": "2026-06-02 06:03:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El canal corporativo del club solo está informando de los actos en los que el candidato a la reelección acude como \"presidente\"</h2><h2 class=\"item\">El aspirante ha criticado el presupuesto de \"45 millones de euros\" para el canal con menos audiencia de la TDT nacional</h2>",
+    "topic": "телебачення",
+    "probability": 75,
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Madrid se refuerza ante “el equipo más viejo del mundo”",
+    "link": "https://as.com/baloncesto/acb/el-madrid-se-refuerza-ante-el-equipo-mas-viejo-del-mundo-f202606-n/",
+    "pubDate": "2026-06-02 06:02:49",
+    "category": "Baloncesto",
+    "description": "El Madrid anuncia a Sissoko y La Laguna Tenerife viene de fichar a Fridriksson y Yebo. “Estoy emocionado. Tengo que ayudar a ganar”, dice la incorporación merengue.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El UCAM Murcia amenaza el fin de ciclo azulgrana",
+    "link": "https://as.com/baloncesto/acb/el-ucam-murcia-amenaza-el-fin-de-ciclo-azulgrana-f202606-n/",
+    "pubDate": "2026-06-02 06:02:26",
+    "category": "UCAM Murcia Baloncesto",
+    "description": "El Barça llega al playoff muy tocado tras la durísima derrota en el Palau contra el Valencia Basket en el último partido de la fase regular.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UDEF desvela que el inversor venezolano que regaló vinos a Zapatero compró Vega Sicilias por 40.000 euros",
+    "link": "https://www.elperiodico.com/es/politica/20260602/udef-desvela-inversor-venezolano-regalo-130910139",
+    "pubDate": "2026-06-02 06:01:21",
+    "category": "",
+    "description": "<h2>Entre el 19 de febrero de 2020 y el 24 de octubre de 2024 una cuenta de Danilo Díazgranados \"presenta abonos por un importe total de 5.193.234 euros y cargos por valor de 4.743.879 euros\"</h2>",
+    "topic": "пограбування, афера",
+    "probability": 85,
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El reloj inteligente para la tercera edad que ya tienen 15.000 ancianos en España",
+    "link": "https://www.elperiodico.com/es/economia/20260602/durcal-reloj-inteligente-tercera-edad-15000-ancianos-129820490",
+    "pubDate": "2026-06-02 06:01:20",
+    "category": "",
+    "description": "<h2>Durcal está integrando la IA en su solución y pretende terminar el año en en el doble de farmacias que ahora (800) y habiendo cerrado una ronda de financiación que les ayude con su escalado</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20241003/generacion-sandwich-mitad-cuida-padres-hijos-trabaja-cambra-de-comerc-108871745\" target=\"_blank\">'Generación sándwich': Más de 33.000 personas en Catalunya cuidan de sus padres, hijos y también trabajan</a></h2><h2><a href=\"https://www.elperiodico.com/es/opinion/20241011/economia-cuidados-personas-mayores-articulo-carme-poveda-109209489\" target=\"_blank\"><em>La economía de los cuidados de las personas mayores</em></a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez exige a la dirección socialista que responda \"con rotundidad\" a \"los bulos y las actuaciones nada democráticas\" contra el Gobierno",
+    "link": "https://www.elperiodico.com/es/politica/20260602/sanchez-socialista-pedro-sanchez-psoe-130909318",
+    "pubDate": "2026-06-02 06:01:18",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/ferraz-oidos-sordos-peticiones-psoe-130896676\" target=\"_blank\">La Ejecutiva del PSOE ni siquiera debate las peticiones de adelanto electoral o de congreso extraordinario</a></h2><h2 class=\"item\">El partido no adoptará medidas sobre el 'caso Leire Díez' hasta que no se levante el secreto de sumario</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/federaciones-psoe-cierre-filas-ferraz-130819816\" target=\"_blank\">Federaciones del PSOE: del cierre de filas con Ferraz a la apuesta por adelantar las elecciones</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "probability": 75,
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El PP agita la idea de una moción con convocatoria inmediata de elecciones para que Junts y PNV se retraten y relajar la presión interna",
+    "link": "https://www.elperiodico.com/es/politica/20260602/pp-agita-idea-mocion-convocatoria-130907694",
+    "pubDate": "2026-06-02 06:01:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El PP apela a Junts y PNV para una posible moción de censura, ofreciendo a cambio \"decencia y elecciones\" anticipadas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Trama del PSOE, en directo | Última hora de reacciones tras el caso Leire Díez y Zapatero</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "probability": 90,
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Hacienda advirtió a la jueza en febrero del escaso patrimonio del presunto testaferro de Zapatero frente al alto número de empresas que controla",
+    "link": "https://www.elperiodico.com/es/politica/20260602/hacienda-advirtio-jueza-febrero-escaso-130907026",
+    "pubDate": "2026-06-02 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Los ingresos declarados por las empresas entre 2020 y 2025 fueron de 4,8 millones de euros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Trama del PSOE, en directo | Última hora de Pedro Sánchez y reacciones tras el registro de la UCO en Ferraz por el caso Leire Díez y Zapatero</a></h2>",
+    "topic": "пограбування, афера",
+    "probability": 85,
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cabreo y decepción al reasignarse los sectores para el público de la Misa del Papa en Cibeles: \"Es lamentable, no iré\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/polemica-reasignacion-sectores-misa-papa-cibeles-130896900",
+    "pubDate": "2026-06-02 06:01:08",
+    "category": "",
+    "description": "<h2>Los responsables del Viaje apostólico de León XIV a Madrid han cambiado la nomenclatura de las zonas habilitadas para el público a apenas una semana del evento tras detectar un \"error\" </h2><h2>Muchos inscritos para acceder se quejan de que sus sitios de ahora son mucho más lejanos a la Plaza que los que tenían: \"Es una tomadura de pelo\"</h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sumar reaviva el choque con el PSOE en el Gobierno para desmarcarse del foco de la corrupción",
+    "link": "https://www.elperiodico.com/es/politica/20260602/sumar-reaviva-choque-psoe-gobierno-130903694",
+    "pubDate": "2026-06-02 06:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El socio minoritario pide al PSOE \"salir del shock\" y poner en agenda las medidas del Consejo de Ministros para rehuir el desgaste </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Trama del PSOE, en directo | Última hora de Pedro Sánchez y reacciones tras el caso Leire Díez y Zapatero</a></h2>",
+    "topic": "пограбування, афера",
+    "probability": 85,
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Sánchez, entre Shackleton y Franklin",
+    "link": "https://www.elperiodico.com/es/opinion/20260602/sanchez-shackleton-franklin-130903182",
+    "pubDate": "2026-06-02 06:01:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Supremo obliga al Gobierno a dar a las eléctricas un alud de información sensible sobre los costes de cerrar las centrales nucleares",
+    "link": "https://www.elperiodico.com/es/economia/20260602/centrales-nucleares-tribunal-supremo-gobierno-electricas-cierre-nuclear-130902087",
+    "pubDate": "2026-06-02 06:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las grandes energéticas llevan meses logrando victorias judiciales para acceder a datos confidenciales sobre los cálculos usados para subir casi un 30% la tasa que pagan las centrales para financiar su desmontaje</h2><h2 class=\"item\">El Alto Tribunal estima ahora un recurso de Endesa para obtener un información muy detallada acerca del sobrecoste de 2.100 millones por construir siete almacenes nucleares, sobre las inversiones de Enresa con el dinero recaudado a las centrales o sobre todas las versiones del Plan de Residuos Radiactivos que hasta su aprobación</h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fiebre 'coworker' en el paseo de Gràcia: las oficinas 'flex' conquistan la avenida del lujo de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260602/fiebre-coworker-paseo-gracia-oficinas-flex-coworkings-130883539",
+    "pubDate": "2026-06-02 06:00:53",
+    "category": "",
+    "description": "<h2>Una veintena de espacios de corta estancia y coworkings premium han consolidado en pocos años una oferta alternativa al alquiler tradicional y “orientada al cliente corporativo internacional”</h2><h2>David Vega, CEO de Lexington: \"No somos un coworking tradicional, somos una alternativa al alquiler convencional\"</h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Te pueden multar por comer o beber mientras conduces? Esto es lo que dice la DGT",
+    "link": "https://www.elperiodico.com/es/motor/20260602/multar-comer-o-beber-conduces-dgt-130795869",
+    "pubDate": "2026-06-02 06:00:53",
+    "category": "",
+    "description": "<h2>Aunque no está prohibido expresamente, una simple botella de agua o un bocadillo pueden acabar en sanción si afectan a la conducción</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "probability": 80,
+    "topic_match_probability": 80
+  },
+  {
+    "title": "10 claves para afrontar el reto psicológico de la fecundación asistida",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260602/10-claves-afrontar-reto-psicologico-129943290",
+    "pubDate": "2026-06-02 06:00:44",
+    "category": "",
+    "description": "<h2 class=\"item\">La ansiedad por la incertidumbre, el duelo genético, el sentimiento de culpa o las discrepancias internas ponen a prueba a muchas parejas</h2><h2 class=\"item\">El apoyo profesional es clave para acompañar un proceso siempre incierto</h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una ACB de récord",
+    "link": "https://as.com/baloncesto/acb/una-acb-de-record-f202606-n/",
+    "pubDate": "2026-06-02 06:00:09",
+    "category": "Baloncesto",
+    "description": "La Liga Endesa ha cerrado la temporada regular con el mejor dato de asistencia a los pabellones de la historia y el segundo mejor de anotación.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detectores de frecuencia y otras propuestas para frenar la IA en la selectividad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/selectividad-vigilancia-dispositivos-electronicos-copiar-130085382",
+    "pubDate": "2026-06-02 06:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260528/como-ayudar-menos-nervios-hijos-selectividad-130715204\" target=\"_blank\">\"Un examen no define tu valía\": qué necesita escuchar tu hijo antes de la selectividad</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260421/selectividad-2026-cataluna-fechas-horario-examenes-pau-129346563\" target=\"_blank\">¿Cuándo es la selectividad 2026 en Catalunya? Fechas y horario de los exámenes de PAU</a></h2>",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 01.06: Знятий стяг України і проблеми РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4883224-pidsumky-0106-zniatyi-stiah-ukrainy-i-problemy-rf",
+    "pubDate": "2026-06-02 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4448867.jpg\">У Любліні зняли прапор України з ратуші; Зеленський заявив про великі проблеми Росії. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Росії палає Ільський НПЗ після атаки дронів",
+    "link": "https://ua.korrespondent.net/world/russia/4883286-u-rosii-palaie-ilskyi-npz-pislia-ataky-droniv",
+    "pubDate": "2026-06-02 05:43:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449096.jpg\">Уражений НПЗ постачає пальне для Збройних сил Росії, які беруть участь у бойових діях в Україні. Це як мінімум 16-та атака на цей завод.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нафта злетіла через паузу в перемовах США та Ірану",
+    "link": "https://ua.korrespondent.net/business/companies/4883284-nafta-zletila-cherez-pauzu-v-peremovakh-ssha-ta-iranu",
+    "pubDate": "2026-06-02 05:27:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449077.jpg\">Іранська влада розглядає можливість повного закриття Ормузької протоки - ключового маршруту транспортування нафти.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luis Lorenzo \"buscaba mujeres ricas, sin hijos\" y tenía especial interés en Carmen Lomana",
+    "link": "https://www.elperiodico.com/es/sucesos/20260602/luis-lorenzo-buscaba-mujeres-ricas-lomana-130913607",
+    "pubDate": "2026-06-02 05:00:31",
+    "category": "",
+    "description": "<h2>La Guardia Civil encontró en casa del actor 142.315 euros en varias bolsas. Lorenzo, que cobraba el paro, aseguró que procedían de un depósito bancario, pero los investigadores no creen esa versión</h2><h2>Una mujer adinerada que fue pareja de Lorenzo asegura que éste le robó 130.000 euros. La abogada Teresa Bueyes declaró que el presentador de televisión le pidió que le presentase millonarias \"sin hijos ni familia\"</h2>",
+    "topic": "телебачення",
+    "probability": 100,
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Влада озвучила наслідки російської атаки на Харків",
+    "link": "https://ua.korrespondent.net/city/kharkov/4883282-vlada-ozvuchyla-naslidky-rosiiskoi-ataky-na-kharkiv",
+    "pubDate": "2026-06-02 04:57:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449068.jpg\">Росія застосувала 15 ударних БПЛА та дві ракети. Наразі відомо про десятьох постраждалих, серед них одна дитина.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нічна атака РФ на Київ: є загиблий, 29 поранених",
+    "link": "https://ua.korrespondent.net/city/kiev/4883280-nichna-ataka-rf-na-kyiv-ye-zahyblyi-29-poranenykh",
+    "pubDate": "2026-06-02 04:26:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449051.jpg\">Серед травмованих Росією киян є дві дитини. У столиці фіксують численні пошкодження, місто затягнуло чорним димом.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гроссі назвав умову успіху перемовин США й Ірану щодо ядерного питання",
+    "link": "https://ua.korrespondent.net/world/4883276-hrossi-nazvav-umovu-uspikhu-peremovyn-ssha-y-iranu-schodo-yadernoho-pytannia",
+    "pubDate": "2026-06-02 03:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449022.jpg\">Глава МАГАТЕ підтримує контакти з обома сторонами, надаючи технічні консультації.",
+    "topic": "",
+    "probability": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Наслідки атаки РФ на Дніпро: чотири жертви і руїни",
     "link": "https://ua.korrespondent.net/city/dnepr/4883278-naslidky-ataky-rf-na-dnipro-chotyry-zhertvy-i-ruiny",
     "pubDate": "2026-06-02 03:26:00",
