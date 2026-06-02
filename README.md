@@ -1,8 +1,26 @@
-# News for 2026-06-02 08:22
+# News for 2026-06-02 13:02
 
 Previous day: [2026-06-01](./data/2026-06-01.md)
 
 ## ua.korrespondent.net
+12:51 [Суд не дозволив стягнути понад 1 млрд грн із державної вугільної компанії](https://ua.korrespondent.net/ukraine/4883384-sud-ne-dozvolyv-stiahnuty-ponad-1-mlrd-hrn-iz-derzhavnoi-vuhilnoi-kompanii)<br>
+12:49 [ЄС на 20% скоротив видачу мультивіз росіянам](https://ua.korrespondent.net/world/4883382-yes-na-20-skorotyv-vydachu-multyviz-rosiianam)<br>
+12:38 [На Харківщині росіяни вдарили дроном по тепловозу, постраждав залізничник](https://ua.korrespondent.net/ukraine/4883379-na-kharkivschyni-rosiiany-vdaryly-dronom-po-teplovozu-postrazhdav-zaliznychnyk)<br>
+12:34 [У Херсоні після обстрілів до лікарні потрапили троє осіб](https://ua.korrespondent.net/ukraine/4883376-u-khersoni-pislia-obstriliv-do-likarni-potrapyly-troie-osib)<br>
+12:33 [На Закарпатті затримали агента ГРУ](https://ua.korrespondent.net/ukraine/4883375-na-zakarpatti-zatrymaly-ahenta-hru)<br>
+12:23 [У Києві пошкоджено п'ять медзакладів через атаку РФ](https://ua.korrespondent.net/city/kiev/4883373-u-kyievi-poshkodzheno-piat-medzakladiv-cherez-ataku-rf)<br>
+12:10 [Пашинян пообіцяв підтримку підприємствам, які постраждали від обмежень РФ](https://ua.korrespondent.net/world/4883368-pashynian-poobitsiav-pidtrymku-pidpryiemstvam-yaki-postrazhdaly-vid-obmezhen-rf)<br>
+12:09 [Сибіга запропонував три кроки у відповідь на атаку РФ](https://ua.korrespondent.net/ukraine/4883369-sybiha-zaproponuvav-try-kroky-u-vidpovid-na-ataku-rf)<br>
+12:02 [У ПС назвали особливості нічної атаки Росії](https://ua.korrespondent.net/ukraine/4883364-u-ps-nazvaly-osoblyvosti-nichnoi-ataky-rosii)<br>
+11:57 [На Харківщині суд взяв під варту підозрюваного у розбещенні дітей](https://ua.korrespondent.net/ukraine/4883361-na-kharkivschyni-sud-vziav-pid-vartu-pidozruivanoho-u-rozbeschenni-ditei)<br>
+11:41 [Чоловіка засудили за зґвалтування малолітніх сестер, скоєне 13 років тому](https://ua.korrespondent.net/ukraine/4883358-cholovika-zasudyly-za-zgvaltuvannia-malolitnikh-sester-skoiene-13-rokiv-tomu)<br>
+11:40 [Польща підтримує виключення українців призовного віку з системи захисту ЄС](https://ua.korrespondent.net/world/4883356-polscha-pidtrymuie-vykluichennia-ukraintsiv-pryzovnoho-viku-z-systemy-zakhystu-yes)<br>
+11:30 [ЄС розробляє новий 21-й пакет санкцій проти РФ](https://ua.korrespondent.net/articles/4883353-yes-rozrobliaie-novyi-21-y-paket-sanktsii-proty-rf)<br>
+11:27 [На Миколаївщині з військового складу зникли продукти на 3,5 млн](https://ua.korrespondent.net/ukraine/4883351-na-mykolaivschyni-z-viiskovoho-skladu-znykly-produkty-na-35-mln)<br>
+11:16 [Нафта зреагувала на заяву Трампа щодо переговорів з Іраном](https://ua.korrespondent.net/business/economics/4883348-nafta-zreahuvala-na-zaiavu-trampa-schodo-perehovoriv-z-iranom)<br>
+11:15 [У ДПСУ сказали, скільки порушників кордону затримали у травні](https://ua.korrespondent.net/ukraine/4883346-u-dpsu-skazaly-skilky-porushnykiv-kordonu-zatrymaly-u-travni)<br>
+11:14 [Атака РФ: у Києві і Дніпрі зросла кількість жертв](https://ua.korrespondent.net/ukraine/4883344-ataka-rf-u-kyievi-i-dnipri-zrosla-kilkist-zhertv)<br>
+11:04 [Відомий український ведучий розповів про наслідки нічної атаки РФ](https://ua.korrespondent.net/lifestyle/4883366-vidomyi-ukrainskyi-veduchyi-rozpoviv-pro-naslidky-nichnoi-ataky-rf)<br>
 07:58 [Масований удар: є влучання 30 балістичних ракет](https://ua.korrespondent.net/ukraine/4883302-masovanyi-udar-ye-vluchannia-30-balistychnykh-raket)<br>
 07:55 [Помер один із найуспішніших тренерів в історії НБА](https://ua.korrespondent.net/sport/basketball/4883301-pomer-odyn-iz-naiuspishnishykh-treneriv-v-istorii-nba)<br>
 07:40 [США обговорюють розширення розгортання ядерної зброї в Європі - ЗМІ](https://ua.korrespondent.net/world/4883300-ssha-obhovoruiuit-rozshyrennia-rozghortannia-yadernoi-zbroi-v-yevropi-zmi)<br>
@@ -36,6 +54,48 @@ Previous day: [2026-06-01](./data/2026-06-01.md)
 06:00 [Una ACB de récord](https://as.com/baloncesto/acb/una-acb-de-record-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:57 [Atascos kilométricos en la M-30, vagones del Metro llenos...: Madrid se convierte en una ratonera a cuatro días de la llegada del Papa](https://www.elperiodico.com/es/sociedad/20260602/atascos-kilometricos-madrid-visita-papa-130924156)<br>
+12:54 [Directo | El ministro Arcadi España explica las entregas a cuenta a las autonomías tras el Consejo de MInistros](https://www.elperiodico.com/es/politica/20260602/consejo-ministros-arcadi-espana-hacienda-autonomias-130928105)<br>
+12:49 [La princesa Leonor completa el curso básico de paracaidismo](https://www.elperiodico.com/es/fotos/politica/princesa-leonor-completa-curso-basico-paracaidismo-fotos-130927544)<br>
+12:46 [El turismo marca un nuevo récord en un abril marcado por la Semana Santa y la guerra de Irán](https://www.elperiodico.com/es/economia/20260602/turismo-marca-nuevo-record-abril-semana-santa-guerra-iran-130927316)<br>
+12:46 [La primavera lluviosa y calurosa anticipa un verano de mosquitos, cucarachas y ratas en Catalunya](https://www.elperiodico.com/es/sociedad/20260602/primavera-lluviosa-calurosa-anticipa-verano-130926588)<br>
+12:43 [Compromís reclama a Marlaska explicar en el Congreso la actuación policial en la huelga de profesores de Valencia](https://www.elperiodico.com/es/politica/20260602/compromis-reclama-marlaska-explicar-congreso-130927119)<br>
+12:40 [Rusia lanza el mayor ataque contra Ucrania de los últimos meses: 73 misiles y más de 600 drones](https://www.elperiodico.com/es/videos/internacional/rusia-lanza-mayor-ataque-ucrania/130926905.shtml)<br>
+12:33 [El viaje apostólico del Papa a España costará 25 millones de euros: casi la mitad lo financian "benefactores"](https://www.elperiodico.com/es/sociedad/20260602/viaje-papa-espana-costara-25millones-130923552)<br>
+12:30 [León XIV conquista las tiendas de 'souvenirs' de Madrid: el papa 'sin rostro' que llena camisetas, tazas y escaparates](https://www.elperiodico.com/es/sociedad/20260602/papa-leon-xiv-conquista-tienda-souvenirs-madrid-sin-rostro-130925498)<br>
+12:27 [Mette-Marit de Noruega empeora: Haakon recorta su viaje a Japón y la princesa Ingrid Alexandra vuelve a casa](https://www.elperiodico.com/es/gente/20260602/mette-marit-noruega-empeora-haakon-japon-ingrid-alexandra-130924306)<br>
+12:26 [Feijóo ofrece al empresariado catalán "más vivienda, menos impuestos y menos inmigración irregular"](https://www.elperiodico.com/es/politica/20260602/feijoo-cercle-economia-ofrece-empresarios-catalanes-mas-vivienda-bajar-impuestos-menos-inmigracion-irregular-130919476)<br>
+12:25 [Los biomarcadores digitales en alzhéimer evaluarán la memoria, el lenguaje y los movimientos del paciente a través del móvil](https://www.elperiodico.com/es/sanidad/20260602/biomarcadores-digitales-alzheimer-permitiran-evaluar-lenguaje-memoria-movimientos-telefono-movil-130922056)<br>
+12:22 [Clint Eastwood: siete décadas en el mundo del cine y un patrimonio millonario](https://www.elperiodico.com/es/gente/20260602/clint-eastwood-patrimonio-hijos-retirada-dv-130918880)<br>
+12:11 [El Govern aprueba dos convenios con el Estado para mejorar la identificación de víctimas y de fosas durante la Guerra Civil y el franquismo](https://www.elperiodico.com/es/politica/20260602/govern-memoria-democratica-convenios-estado-victimas-fosas-franquismo-guerra-civil-130904401)<br>
+12:09 [Catalunya activa los avisos frente a inundaciones tras la previsión de lluvias torrenciales de este martes en la provincia de Girona](https://www.elperiodico.com/es/sociedad/20260602/avisos-inundaciones-provincia-girona-martes-lluvias-torrenciales-meteocat-130924346)<br>
+12:00 [David Solomon (Goldman Sachs) enfría el miedo a la IA: “La gente encontrará formas más productivas de emplear su tiempo”](https://www.elperiodico.com/es/economia/20260602/david-solomon-goldman-sachs-enfria-miedo-ia-sustitucion-empleo-130895896)<br>
+11:57 [Europa aprueba el fármaco tarlatamab para un tipo de cáncer de pulmón muy agresivo](https://www.elperiodico.com/es/sanidad/20260602/europa-aprueba-farmaco-tarlatamab-tipo-cancer-pulmon-muy-agresivo-130923240)<br>
+11:53 [Feijóo insiste en la moción de censura instrumental y rechaza que sea un "atajo" para llegar a la Moncloa: "No pido favores"](https://www.elperiodico.com/es/politica/20260602/feijoo-mocion-censura-instrumental-atajo-moncloa-junts-cercle-economia-130918203)<br>
+11:51 [Trama del PSOE, en directo | Última hora de Pedro Sánchez y reacciones tras el registro de la UCO en Ferraz por el caso Leire Díez y Zapatero](https://www.elperiodico.com/es/politica/20260602/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522)<br>
+11:43 [El emotivo mensaje de Carme Chaparro en redes sobre su delicado momento personal: "Elijo sonreír. Porque sigo viva"](https://www.elperiodico.com/es/gente/20260602/enfermedad-carme-chaparro-mensaje-redes-sociales-dv-130883535)<br>
+11:36 [La inflación de la Eurozona escala hasta el 3,2% y deja al BCE sin más opción que subir los tipos](https://www.elperiodico.com/es/economia/20260602/inflacion-eurozona-escala-3-2-130923467)<br>
+11:36 [Los profesores ponen fecha a la protesta: Csif amenaza con una huelga nacional en septiembre](https://www.elperiodico.com/es/sociedad/20260602/movilizaciones-profesores-septiembre-huelga-espana-130922673)<br>
+11:30 [Estos son los museos que puedes visitar gratis este primer domingo de mes en Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260602/museos-gratis-barcelona-primer-domingo-mes-junio-2026-122139263)<br>
+11:26 [El Consejo del Poder Judicial reclama respeto frente a las descalificaciones contra los jueces en plena tormenta de causas contra el Gobierno](https://www.elperiodico.com/es/politica/20260602/consejo-judicial-reclama-respeto-frente-130923056)<br>
+11:22 [El Govern reclama a la Iglesia que el Papa incluya el catalán en la bendición de la torre de Jesús de la Sagrada Familia](https://www.elperiodico.com/es/politica/20260602/papa-leon-visita-catalan-govern-reclama-iglesia-bendicion-sagrada-familia-torre-jesus-130921566)<br>
+11:18 [Imágenes de los primeros saltos en paracaídas de la princesa Leonor](https://www.elperiodico.com/es/videos/politica/leonor-curso-basico-paracaidismo/130922601.shtml)<br>
+11:09 [Loewe cumple 180 años con Julia Garner, Sissy Spacek, Giselle y el bolso del deseo este verano](https://www.elperiodico.com/es/gente/20260602/loewe-180-anos-julia-garner-sissy-spacek-giselle-amazona-180-130920240)<br>
+11:03 [Junts pide a Illa que reclame a la Iglesia más uso del catalán en los actos del Papa](https://www.elperiodico.com/es/politica/20260602/junts-illa-catalan-visita-papa-sagrada-familia-130919956)<br>
+10:51 [La princesa Leonor hace sus primeros saltos en paracaídas (incluido uno de noche)](https://www.elperiodico.com/es/politica/20260602/princesa-leonor-salta-paracaidas-noche-ejercito-130920741)<br>
+10:46 [DIRECTO | Feijóo participa en la Reunión del Cercle d’Economia 2026 en Barcelona](https://www.elperiodico.com/es/videos/politica/directo-feijoo-participa-reunion-cercle-economia-barcelona/130920571.shtml)<br>
+10:44 [Una gran fiesta el 13 y 14 de febrero de 2027 culminará cuatro años de reforma integral de la Rambla de Barcelona](https://www.elperiodico.com/es/barcelona/20260602/gran-fiesta-ciudadana-13-y-14-febrero-2027-celebrara-final-reforma-integral-rambla-barcelona-130916898)<br>
+10:36 [El paro cae en 36.323 personas en mayo y marca su menor nivel en este mes en 19 años](https://www.elperiodico.com/es/videos/economia/paro-cae-36323-personas-mayo-video/130920073.shtml)<br>
+10:11 [Los trabajadores de PortAventura World firman el convenio colectivo con la empresa y entierran el conflicto laboral](https://www.elperiodico.com/es/tarragona/20260602/trabajadores-portaventura-world-convenio-laboral-conflicto-130918476)<br>
+10:00 [El héroe envuelto en la bandera](https://www.elperiodico.com/es/opinion/20260602/heroe-envuelto-bandera-130911283)<br>
+10:00 [82 empresas e inversores piden a Bruselas que electrifique la mitad de la economía europea antes de 2040](https://www.elperiodico.com/es/economia/20260602/82-empresas-inversores-piden-bruselas-130905792)<br>
+10:00 [Las empresas podrán cambiar el horario y el salario del trabajador en determinadas situaciones](https://www.elperiodico.com/es/economia/20260602/empresas-cambiar-horario-salario-trabajador-determinadas-situaciones-130889155)<br>
+09:03 [Conmoción en el mundo del cine ante el anuncio de la retirada de Clint Eastwood](https://www.elperiodico.com/es/ocio-y-cultura/20260602/conmocion-mundo-cine-anuncio-retirada-clint-eastwood-130916373)<br>
+09:01 [Los migrantes tiran del empleo en mayo, que deja 231.000 ocupados más y su mejor registro desde 2018](https://www.elperiodico.com/es/economia/20260602/paro-mayo-2026-empleo-evolucion-mercado-laboral-130910673)<br>
+09:00 [La ONU afirma que El Niño ya se está formando y que podría ser muy intenso: "Será como echar leña al fuego en un mundo que ya se calienta"](https://www.elperiodico.com/es/sociedad/20260602/onu-formacion-el-nino-intenso-previsiones-clima-temperatura-impactos-130915624)<br>
+08:56 [Trump abronca a Netanyahu por teléfono: "Estás jodidamente loco. Estarías en la cárcel si no fuera por mí"](https://www.elperiodico.com/es/internacional/20260602/trump-carga-netanyahu-llamarle-jodidamente-loco-130916602)<br>
+08:47 [Una víctima de Epstein acusa a Buckingham de tapar durante años los correos que comprometen al expríncipe Andrés](https://www.elperiodico.com/es/gente/20260602/victima-epstein-acusa-buckingham-tapar-correos-principe-andres-130916139)<br>
+08:27 [El malentendido](https://www.elperiodico.com/es/opinion/20260602/malentendido-130915743)<br>
 08:10 [Huelga de profesores en Catalunya, en directo | Última hora del acuerdo con Educació y la decisión de USTEC de desconvocar la huelga](https://www.elperiodico.com/es/sociedad/20260602/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594)<br>
 08:05 [Los psicólogos coinciden: "El orden de nacimiento es uno de los factores que influyen en la personalidad"](https://www.elperiodico.com/es/sociedad/20260602/hermanos-mayores-mas-inteligentes-psicologos-personalidad-orden-nacimiento-dv-130663129)<br>
 08:01 [Cinco universidades españolas, entre las cien mejores de Europa](https://www.elperiodico.com/es/sociedad/20260602/selectividad-universidades-espana-cien-mejores-europa-130881273)<br>
@@ -44,6 +104,7 @@ Previous day: [2026-06-01](./data/2026-06-01.md)
 07:45 [Tabla de jubilación 2026 y 2027: cuánto se cobra según los años cotizados según el experto Ignacio Solsona](https://www.elperiodico.com/es/economia/20260602/tabla-jubilacion-2026-2027-cobra-anos-cotizados-experto-ignacio-solsona-dv-130890754)<br>
 06:15 [Recuerdos de 1999, la última vez que los Knicks más "pendencieros" rozaron el título de la NBA](https://www.elperiodico.com/es/deportes/20260602/recuerdos-new-york-knicks-1999-final-nba-san-antonio-spurs-130890790)<br>
 06:01 [El reloj inteligente para la tercera edad que ya tienen 15.000 ancianos en España](https://www.elperiodico.com/es/economia/20260602/durcal-reloj-inteligente-tercera-edad-15000-ancianos-129820490)<br>
+06:01 [Mejor viviendas que oficinas](https://www.elperiodico.com/es/opinion/20260602/mejor-viviendas-oficinas-coworking-articulo-juli-capella-130907134)<br>
 06:01 [Cabreo y decepción al reasignarse los sectores para el público de la Misa del Papa en Cibeles: "Es lamentable, no iré"](https://www.elperiodico.com/es/sociedad/20260602/polemica-reasignacion-sectores-misa-papa-cibeles-130896900)<br>
 06:01 [Sánchez, entre Shackleton y Franklin](https://www.elperiodico.com/es/opinion/20260602/sanchez-shackleton-franklin-130903182)<br>
 06:01 [El Supremo obliga al Gobierno a dar a las eléctricas un alud de información sensible sobre los costes de cerrar las centrales nucleares](https://www.elperiodico.com/es/economia/20260602/centrales-nucleares-tribunal-supremo-gobierno-electricas-cierre-nuclear-130902087)<br>
