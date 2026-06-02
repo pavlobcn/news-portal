@@ -1,8 +1,23 @@
-# News for 2026-06-02 13:02
+# News for 2026-06-02 16:55
 
 Previous day: [2026-06-01](./data/2026-06-01.md)
 
 ## ua.korrespondent.net
+16:52 [Стало відомо, хто допомагав росіянам бити по Дніпру](https://ua.korrespondent.net/city/dnepr/4883470-stalo-vidomo-khto-dopomahav-rosiianam-byty-po-dnipru)<br>
+16:51 [Українські аграрії засіяли 97% площ зернових](https://ua.korrespondent.net/business/economics/4883469-ukrainski-ahrarii-zasiialy-97-plosch-zernovykh)<br>
+16:48 [На Львівщині відкриють новий веломаршрут, що з’єднає три відомі замки](https://ua.korrespondent.net/lifestyle/travel/4883467-na-lvivschyni-vidkryuit-novyi-velomarshrut-scho-ziednaie-try-vidomi-zamky)<br>
+16:39 [В ООН зреагували на масовану атаку РФ по Україні](https://ua.korrespondent.net/world/4883463-v-oon-zreahuvaly-na-masovanu-ataku-rf-po-ukraini)<br>
+16:34 [США випробували ракету Jackal, яка здатна самостійно виявити ціль](https://ua.korrespondent.net/world/4883460-ssha-vyprobuvaly-raketu-Jackal-yaka-zdatna-samostiino-vyiavyty-tsil)<br>
+16:29 [Генштаб розповів, де атакує армія Росії](https://ua.korrespondent.net/ukraine/4883458-henshtab-rozpoviv-de-atakuie-armiia-rosii)<br>
+16:13 [У Києві пошкоджено 11 закладів освіти через атаку РФ](https://ua.korrespondent.net/city/kiev/4883455-u-kyievi-poshkodzheno-11-zakladiv-osvity-cherez-ataku-rf)<br>
+16:10 [На Харківщині розширили зону обов'язкової евакуації](https://ua.korrespondent.net/city/kharkov/4883451-na-kharkivschyni-rozshyryly-zonu-oboviazkovoi-evakuatsii)<br>
+15:52 [Удар по Дніпру: число загиблих зросло до 15](https://ua.korrespondent.net/city/dnepr/4883447-udar-po-dnipru-chyslo-zahyblykh-zroslo-do-15)<br>
+15:49 [Весняна температура у Києві перевищила кліматичну норму](https://ua.korrespondent.net/city/kiev/4883444-vesniana-temperatura-u-kyievi-perevyschyla-klimatychnu-normu)<br>
+15:46 [Генерал РФ отримав довічний термін за спробу захопити Київ за три дні](https://ua.korrespondent.net/ukraine/4883445-heneral-rf-otrymav-dovichnyi-termin-za-sprobu-zakhopyty-kyiv-za-try-dni)<br>
+15:37 [Остапчук із родиною оселився в Канаді: дружина показала нове житло](https://ua.korrespondent.net/lifestyle/interiors/4883439-ostapchuk-iz-rodynoui-oselyvsia-v-kanadi-druzhyna-pokazala-nove-zhytlo)<br>
+15:35 [Куди інвестувати сьогодні, щоб завтра забути про фінансові проблеми](https://ua.korrespondent.net/articles/4883438-kudy-investuvaty-sohodni-schob-zavtra-zabuty-pro-finansovi-problemy)<br>
+15:23 [Сили ППО знищили понад 5 тисяч "шахедів" у травні](https://ua.korrespondent.net/ukraine/4883434-syly-ppo-znyschyly-ponad-5-tysiach-shakhediv-u-travni)<br>
+15:22 [Україна та Іспанія домовились про взаємну депортацію громадян](https://ua.korrespondent.net/ukraine/4883429-ukraina-ta-ispaniia-domovylys-pro-vzaiemnu-deportatsiui-hromadian)<br>
 12:51 [Суд не дозволив стягнути понад 1 млрд грн із державної вугільної компанії](https://ua.korrespondent.net/ukraine/4883384-sud-ne-dozvolyv-stiahnuty-ponad-1-mlrd-hrn-iz-derzhavnoi-vuhilnoi-kompanii)<br>
 12:49 [ЄС на 20% скоротив видачу мультивіз росіянам](https://ua.korrespondent.net/world/4883382-yes-na-20-skorotyv-vydachu-multyviz-rosiianam)<br>
 12:38 [На Харківщині росіяни вдарили дроном по тепловозу, постраждав залізничник](https://ua.korrespondent.net/ukraine/4883379-na-kharkivschyni-rosiiany-vdaryly-dronom-po-teplovozu-postrazhdav-zaliznychnyk)<br>
@@ -54,6 +69,45 @@ Previous day: [2026-06-01](./data/2026-06-01.md)
 06:00 [Una ACB de récord](https://as.com/baloncesto/acb/una-acb-de-record-f202606-n/)<br>
 
 ## www.elperiodico.com
+16:39 [El 'presidente' Feijóo no convence al empresariado catalán](https://www.elperiodico.com/es/economia/20260602/presidente-feijoo-convence-empresariado-catalan-130920854)<br>
+16:37 [Vueling inaugura una nueva ruta entre Barcelona y Fez con dos vuelos semanales hasta septiembre](https://www.elperiodico.com/es/economia/20260602/vueling-inaugura-nueva-ruta-barcelona-fez-marruecos-temporada-verano-2026-130938903)<br>
+16:37 [Iberdrola logra 50 millones de ayudas europeas para electrificar el calor industrial en España](https://www.elperiodico.com/es/economia/20260602/iberdrola-logra-50-millones-ayudas-europeas-electrificar-calor-industrial-espana-130940417)<br>
+16:36 [El Govern impulsa dos nuevos parques naturales en plena crisis laboral con sus trabajadores](https://www.elperiodico.com/es/sociedad/20260602/govern-impulsa-nuevos-parques-naturales-130938742)<br>
+16:34 [El Gobierno ve "cinismo" y "desesperación" en Feijóo al pedir ayuda al PNV y Junts](https://www.elperiodico.com/es/videos/politica/gobierno-ve-cinismo-desesperacion-feijoo/130940339.shtml)<br>
+16:30 [Del 'Rebombori del pa' a la lucha por la vivienda: Barcelona como campo de batalla de las revoluciones femeninas](https://www.elperiodico.com/es/ocio-y-cultura/20260602/vindran-dones-luchas-mujeres-exposicion-barcelona-130929755)<br>
+16:23 [Trump nombra al jefe de una agencia federal de vivienda como director interino de inteligencia](https://www.elperiodico.com/es/internacional/20260602/trump-nombra-bil-pulte-jefe-agencia-federal-inteligencia-130939894)<br>
+16:19 [Los depósitos de las familias marcan un nuevo máximo pese a no crecer apenas en abril](https://www.elperiodico.com/es/economia/20260602/depositos-familias-marcan-nuevo-maximo-130939707)<br>
+16:05 [Cómo construir un nido artificial para aves urbanas: la recomendación de la la Sociedad Española de Ornitología para convivir con los pájaros](https://www.elperiodico.com/es/vida-y-estilo/20260602/construir-nido-artificial-aves-urbanas-ornitologia-dv-130720487)<br>
+16:00 [Abel Carrasco, activista en salud mental: "Parece que ser 'normal' no encaja en nuestro colectivo"](https://www.elperiodico.com/es/ser-feliz/20260602/abel-carrasco-activista-salud-mental-130921207)<br>
+15:58 [El Pentágono veta a los periodistas la entrada en la oficina de prensa](https://www.elperiodico.com/es/internacional/20260602/pentagono-veta-periodistas-entrada-oficina-prensa-130938618)<br>
+15:57 [Clint Eastwood se retira del cine a los 96 años: 5 películas de leyenda del último clásico vivo](https://www.elperiodico.com/es/ocio-y-cultura/20260602/clint-eastwood-retira-cine-96-5-mejores-peliculas-130931626)<br>
+15:53 [El cambio silencioso de las pensiones en España: bajarán en 2031 y en 2050 representarán menos salario que ahora](https://www.elperiodico.com/es/economia/20260602/pensiones-espana-bajaran-2031-en-2050-representaran-menos-salario-dv-130936865)<br>
+15:46 [Un hombre estrangula a su mujer y se entrega a la Guardia Civil en Alicante](https://www.elperiodico.com/es/sucesos/20260602/investigan-crimen-machista-asesinato-mujer-callosa-segura-alicante-130938154)<br>
+15:34 [Clint Eastwood se retira del cine a los 96 años tras siete décadas de trayectoria](https://www.elperiodico.com/es/videos/ocio-y-cultura/clint-eastwood-retira-cine/130937678.shtml)<br>
+15:30 [El orden de administración de los fármacos en el cáncer de colon metastásico influye en la eficacia del tratamiento](https://www.elperiodico.com/es/sanidad/20260602/orden-administracion-farmacos-cancer-colon-metastasico-eficacia-tratamiento-130806770)<br>
+15:21 [Verdades y mentiras sobre el preacuerdo alcanzado entre profesores y Educació: ¿qué están votando exactamente los docentes?](https://www.elperiodico.com/es/sociedad/20260602/verdades-mentiras-acuerdo-profesores-maestros-cataluna-govern-educacio-votacion-130917498)<br>
+15:20 [Impacto de la IA en el empleo](https://www.elperiodico.com/es/opinion/20260602/impacto-ia-empleo-articulo-carme-poveda-130936451)<br>
+15:06 [Una exposición muestra suvenires de diseño alternativos a los que se venden en la Rambla](https://www.elperiodico.com/es/barcelona/20260602/exposicion-muestra-suvenires-diseno-alternativos-rambla-barcelona-130933295)<br>
+15:00 [El Govern de Illa emplaza a Feijóo a explicar "qué ofrece" a Catalunya más allá de su "obsesión" por echar a Sánchez](https://www.elperiodico.com/es/politica/20260602/govern-mocion-censura-pp-feijoo-ofrece-catalunya-silvia-paneque-130931436)<br>
+14:59 [Ensueño bélico](https://www.elperiodico.com/es/opinion/20260602/ensueno-belico-eeuu-donald-trump-guerra-articulo-emma-riverola-130935656)<br>
+14:57 [La réplica de la capilla de la Asunción de Gaudí en Reus se construirá en el parque Gandhi](https://www.elperiodico.com/es/tarragona/20260602/replica-capilla-asuncion-gaudi-reus-130933942)<br>
+14:42 [Abogados expertos en herencias alertan de un error común: “La sucesión se abre en el instante mismo del fallecimiento”](https://www.elperiodico.com/es/economia/20260602/abogados-expertos-herencias-alertan-error-comun-sucesion-instante-fallecimiento-dv-130933624)<br>
+14:42 [El liderazgo de Felipe VI](https://www.elperiodico.com/es/opinion/20260602/liderazgo-felipe-vi-desfile-bandera-articulo-alex-salmon-130934849)<br>
+14:38 [La densificación en vivienda no basta: los urbanistas piden vincularla a empleo y transporte para evitar 'ciudades dormitorio'](https://www.elperiodico.com/es/barcelona/20260602/densificacion-basta-urbanistas-piden-vincularla-empleo-transporte-evitar-ciudades-dormitorio-130932533)<br>
+14:33 [El PSOE reconoce al juez que pagó 45.000 euros a Leire Díez entre 2015 y 2017 como periodista del PSOE de Cantabria](https://www.elperiodico.com/es/politica/20260602/psoe-reconocio-juez-pago-45-130934809)<br>
+14:17 [Catalunya descarta recomendar el teletrabajo por la visita del Papa](https://www.elperiodico.com/es/politica/20260602/catalunya-teletrabajo-visita-papa-govern-descarta-recomendar-130931956)<br>
+14:16 [Protestas en el barrio de Cerdanyola de Mataró tras un desahucio se saldan con tres menores detenidos y cinco agentes heridos leves](https://www.elperiodico.com/es/videos/sociedad/protestas-barrio-cerdanyola-mataro-desahucio-detenciones-agentes-heridos-video/130933280.shtml)<br>
+13:57 [El Rey llama a acelerar la integración de la UE como espacio de "convivencia, libertad y prosperidad"](https://www.elperiodico.com/es/economia/20260602/rey-felipe-vi-entrega-martin-wolf-premio-cercle-construccion-130929199)<br>
+13:55 [Las comunidades recibirán un 7,7% más de financiación este año hasta alcanzar un récord de 170.300 millones](https://www.elperiodico.com/es/economia/20260602/comunidades-recibiran-7-7-financiacion-130932194)<br>
+13:46 [Feijóo insiste en la moción de censura instrumental y rechaza que sea un "atajo" para llegar a la Moncloa: "No pido favores"](https://www.elperiodico.com/es/videos/politica/feijoo-insiste-mocion-censura-rechaza-atajo-moncloa/130931565.shtml)<br>
+13:41 [El Govern emplaza a las escuelas a "replantear" el boicot a las colonias tras el preacuerdo de mejoras salariales](https://www.elperiodico.com/es/politica/20260602/conflicto-educacion-boicot-colonias-escuelas-replantear-preacuerdo-profesores-130930128)<br>
+13:40 [Inscríbete para asistir al Consejo del Agua de EL PERIÓDICO ante el III Foro Económico y Social del Mediterráneo](https://www.elperiodico.com/es/barcelona/20260602/inscribete-asistir-consejo-agua-periodico-foro-economico-social-mediterraneo-130929864)<br>
+13:39 [Antonio Brufau: "China está destruyendo el planeta"](https://www.elperiodico.com/es/economia/20260602/antonio-brufau-china-destruyendo-planeta-130922549)<br>
+13:17 ["Se sabía para quién era el puesto": la aspirante a la plaza de David Sánchez cuestiona el proceso y un técnico niega que trabajaran juntos a diario](https://www.elperiodico.com/es/politica/20260602/senti-desigualdad-oportunidades-aspirante-puesto-david-sanchez-badajoz-130929565)<br>
+13:09 [Centros de deportación, más de 2 años de detención, sanciones...: las claves del acuerdo que endurece aún más la política migratoria de la UE](https://www.elperiodico.com/es/internacional/20260602/claves-acuerdo-migratorio-ue-centros-detencion-deportacion-detencion-sanciones-130929072)<br>
+13:07 [DIRECTO | Rueda de prensa posterior al Consejo de Ministras y Ministros](https://www.elperiodico.com/es/videos/politica/directo-rueda-prensa-posterior-consejo-ministros/130928941.shtml)<br>
+13:00 [Una mujer migrante, con estudios universitarios y residente de Catalunya: el nuevo rostro del emprendedor en España](https://www.elperiodico.com/es/economia/20260602/mujer-migrante-estudios-universitarios-residente-130928592)<br>
+13:00 [Seis de cada 10 mayores de 55 años emprenden "para ganarse la vida" ante un mercado laboral que les expulsa](https://www.elperiodico.com/es/sociedad/20260602/emprendedores-negocios-mayores-ganarse-vida-130902775)<br>
 12:57 [Atascos kilométricos en la M-30, vagones del Metro llenos...: Madrid se convierte en una ratonera a cuatro días de la llegada del Papa](https://www.elperiodico.com/es/sociedad/20260602/atascos-kilometricos-madrid-visita-papa-130924156)<br>
 12:54 [Directo | El ministro Arcadi España explica las entregas a cuenta a las autonomías tras el Consejo de MInistros](https://www.elperiodico.com/es/politica/20260602/consejo-ministros-arcadi-espana-hacienda-autonomias-130928105)<br>
 12:49 [La princesa Leonor completa el curso básico de paracaidismo](https://www.elperiodico.com/es/fotos/politica/princesa-leonor-completa-curso-basico-paracaidismo-fotos-130927544)<br>

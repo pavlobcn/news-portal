@@ -1,5 +1,635 @@
 [
   {
+    "title": "Стало відомо, хто допомагав росіянам бити по Дніпру",
+    "link": "https://ua.korrespondent.net/city/dnepr/4883470-stalo-vidomo-khto-dopomahav-rosiianam-byty-po-dnipru",
+    "pubDate": "2026-06-02 16:52:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449456.jpg\">Агентом виявився колишній військовий із Криничанського району, в якого є російський паспорт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські аграрії засіяли 97% площ зернових",
+    "link": "https://ua.korrespondent.net/business/economics/4883469-ukrainski-ahrarii-zasiialy-97-plosch-zernovykh",
+    "pubDate": "2026-06-02 16:51:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449450.jpg\">Найбільше зернових та зернобобових культур посіяли аграрії у Полтавській, Чернігівській, Вінницькій, Київській та Черкаській областях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Львівщині відкриють новий веломаршрут, що з’єднає три відомі замки",
+    "link": "https://ua.korrespondent.net/lifestyle/travel/4883467-na-lvivschyni-vidkryuit-novyi-velomarshrut-scho-ziednaie-try-vidomi-zamky",
+    "pubDate": "2026-06-02 16:48:00",
+    "category": "Новини туризму",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449451.jpg\">У Львівській ОВА додають, що проєкт має на меті розвиток внутрішнього туризму та популяризацію історико-культурної спадщини регіону серед велотуристів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гравець Динамо став найдорожчим футболістом української Прем'єр-ліги",
+    "link": "https://ua.korrespondent.net/sport/football/4883465-hravets-dynamo-stav-naidorozhchym-futbolistom-ukrainskoi-premier-lihy",
+    "pubDate": "2026-06-02 16:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449449.jpg\">Нові трансферні реалії: Transfermarkt оновив вартість футболістів УПЛ після завершення чемпіонату.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El 'presidente' Feijóo no convence al empresariado catalán",
+    "link": "https://www.elperiodico.com/es/economia/20260602/presidente-feijoo-convence-empresariado-catalan-130920854",
+    "pubDate": "2026-06-02 16:39:50",
+    "category": "",
+    "description": "<h2>El líder del PP decepciona en el Cercle tras rechazar el modelo de financiación y evitar la idea de los grandes consensos con el PSOE </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260602/feijoo-cercle-economia-ofrece-empresarios-catalanes-mas-vivienda-bajar-impuestos-menos-inmigracion-irregular-130919476\">Feijóo ofrece al empresariado catalán \"más vivienda, menos impuestos y menos inmigración irregular\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260601/reunion-cercle-arranca-llamamiento-impulsar-130906366\">La reunión del Cercle arranca con un llamamiento a impulsar el empleo de calidad y fortalecer los servicios públicos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В ООН зреагували на масовану атаку РФ по Україні",
+    "link": "https://ua.korrespondent.net/world/4883463-v-oon-zreahuvaly-na-masovanu-ataku-rf-po-ukraini",
+    "pubDate": "2026-06-02 16:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449448.jpg\">Загострення риторики з боку Російської Федерації та ескалація ударів мають припинитися, щоб розпочати шлях до справедливого миру, відзначили в ООН.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vueling inaugura una nueva ruta entre Barcelona y Fez con dos vuelos semanales hasta septiembre",
+    "link": "https://www.elperiodico.com/es/economia/20260602/vueling-inaugura-nueva-ruta-barcelona-fez-marruecos-temporada-verano-2026-130938903",
+    "pubDate": "2026-06-02 16:37:45",
+    "category": "",
+    "description": "<h2>La aerolínea del grupo IAG amplía a seis sus destinos en Marruecos desde el aeropuerto de El Prat</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260330/vueling-nueva-ruta-barcelona-nador-frecuencias-verano-marruecos-128599547\" target=\"_blank\">Vueling estrena una nueva ruta entre Barcelona y Nador</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iberdrola logra 50 millones de ayudas europeas para electrificar el calor industrial en España",
+    "link": "https://www.elperiodico.com/es/economia/20260602/iberdrola-logra-50-millones-ayudas-europeas-electrificar-calor-industrial-espana-130940417",
+    "pubDate": "2026-06-02 16:37:18",
+    "category": "",
+    "description": "<h2 class=\"item\">La compañía se adjudica ocho proyectos en la primera subasta europea de descarbonización del calor industrial, que movilizarán más de 150 MW renovables y requerirán unos 240 GWh anuales de electricidad verde</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern impulsa dos nuevos parques naturales en plena crisis laboral con sus trabajadores",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/govern-impulsa-nuevos-parques-naturales-130938742",
+    "pubDate": "2026-06-02 16:36:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Los próximos espacios que se impulsarán son L'Albera y el Montsec</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250622/chequeo-parques-naturales-catalunya-8-118802485\" target=\"_blank\">Radiografía de los parques naturales catalanes: presupuestos dignos pero plantillas tensionadas y ausencia de planes obligatorios</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El consejo de un mecánico para que el aire acondicionado del coche no se averíe: \"Solo hay que apagar un botón\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260602/consejo-mecanico-aire-acondicionado-coche-averia-dv-130725306",
+    "pubDate": "2026-06-02 16:35:00",
+    "category": "",
+    "description": "<h2>El experto explica el gesto que conviene hacer antes de apagar el vehículo para cuidar el sistema de climatización y respirar un aire más limpio</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260523/mecanico-revela-pasar-coche-itv-dv-130533686\">Un mecánico revela lo que le puede pasar a tu coche después de pasar la ITV: \"Hay ciertas pruebas que ponen más al límite el motor\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Gobierno ve \"cinismo\" y \"desesperación\" en Feijóo al pedir ayuda al PNV y Junts",
+    "link": "https://www.elperiodico.com/es/videos/politica/gobierno-ve-cinismo-desesperacion-feijoo/130940339.shtml",
+    "pubDate": "2026-06-02 16:34:28",
+    "category": "",
+    "description": "La portavoz del Gobierno ha hablado tras el Consejo de Ministros sobre la petición de Junts a Feijóo para que se reúna con Puigdemont en Waterloo y aborden así la moción de censura",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США випробували ракету Jackal, яка здатна самостійно виявити ціль",
+    "link": "https://ua.korrespondent.net/world/4883460-ssha-vyprobuvaly-raketu-Jackal-yaka-zdatna-samostiino-vyiavyty-tsil",
+    "pubDate": "2026-06-02 16:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449439.png\">Для наведення Jackal використовує алгоритми штучного інтелекту, які дозволяють автономно виявляти та уражати цілі навіть без прямої видимості.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Del 'Rebombori del pa' a la lucha por la vivienda: Barcelona como campo de batalla de las revoluciones femeninas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260602/vindran-dones-luchas-mujeres-exposicion-barcelona-130929755",
+    "pubDate": "2026-06-02 16:30:15",
+    "category": "",
+    "description": "<h2 class=\"item\">La exposición 'Vindran les dones. 150 anys de lluites als carrers de Barcelona' se instala en el Museu d'Història de Barcelona tras su paso por Guadalajara como parte de la programación de la FIL </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/fotos/en-imagenes/vendran-mujeres-150-anos-luchas-fotos-130936830\">EN IMÁGENES | 'Vindran les dones. 150 anys de lluites las carrers de Barcelona' </a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260520/ideales-belleza-examen-cccb-subvierte-130449186\">Los ideales de belleza, a examen: el CCCB subvierte el canon con una exposición \"revolucionaria\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno aprueba el anteproyecto de la nueva Ley Antidopaje para adaptarla al Código Mundial de 2027",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/gobierno-aprueba-anteproyecto-nueva-ley-130939758",
+    "pubDate": "2026-06-02 16:30:03",
+    "category": "",
+    "description": "<h2 class=\"item\">\"La nueva norma actualiza y refuerza el sistema español de lucha antidopaje para adecuarse a los estándares internacionales\", dijo Tolón </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Генштаб розповів, де атакує армія Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4883458-henshtab-rozpoviv-de-atakuie-armiia-rosii",
+    "pubDate": "2026-06-02 16:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449440.jpg\">Найгарячішим залишається Покровський напрямок, де вже відбулося 19 бойових зіткнень в районах восьми населених пунктів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump nombra al jefe de una agencia federal de vivienda como director interino de inteligencia",
+    "link": "https://www.elperiodico.com/es/internacional/20260602/trump-nombra-bil-pulte-jefe-agencia-federal-inteligencia-130939894",
+    "pubDate": "2026-06-02 16:23:52",
+    "category": "",
+    "description": "<h2> El director de Inteligencia Nacional ocupa un puesto de Gabinete que requiere confirmación del Senado cuando se designa de forma permanente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los depósitos de las familias marcan un nuevo máximo pese a no crecer apenas en abril",
+    "link": "https://www.elperiodico.com/es/economia/20260602/depositos-familias-marcan-nuevo-maximo-130939707",
+    "pubDate": "2026-06-02 16:19:29",
+    "category": "",
+    "description": "<h2 class=\"item\">El ahorro de los hogares en depósitos bancarios superó los 1,102 billones de euros, un 4,9% respecto al año anterior</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Доля Влаховича в Ювентусі вирішиться на фінальній зустрічі",
+    "link": "https://ua.korrespondent.net/sport/football/4883453-dolia-vlakhovycha-v-yuventusi-vyrishytsia-na-finalnii-zustrichi",
+    "pubDate": "2026-06-02 16:14:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449430.jpg\">Форвард не продається: Ювентус не поспішає відпускати Душана Влаховича, незважаючи на чутки.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві пошкоджено 11 закладів освіти через атаку РФ",
+    "link": "https://ua.korrespondent.net/city/kiev/4883455-u-kyievi-poshkodzheno-11-zakladiv-osvity-cherez-ataku-rf",
+    "pubDate": "2026-06-02 16:13:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449431.jpg\">Загалом від лютого 2022 року пошкоджень зазнали майже 200 закладів освіти Києва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Харківщині розширили зону обов'язкової евакуації",
+    "link": "https://ua.korrespondent.net/city/kharkov/4883451-na-kharkivschyni-rozshyryly-zonu-oboviazkovoi-evakuatsii",
+    "pubDate": "2026-06-02 16:10:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449428.jpg\">У більш безпечні населені пункти мають вивезти 7157 осіб, з яких 1702 дитини та 311 маломобільних людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "McLaren celebrar las 1.000 carreras en Fórmula 1 con un crea un Artura muy especial",
+    "link": "https://www.elperiodico.com/es/motor/20260602/mclaren-artura-celebrar-1000-gp-mso-f1-monaco-130933397",
+    "pubDate": "2026-06-02 16:06:29",
+    "category": "",
+    "description": "<h2>La marca británica presenta el McLaren Artura 1000GP by MSO, una serie de solo diez unidades inspirada en el monoplaza que competirá en el Gran Premio de Mónaco de </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cómo construir un nido artificial para aves urbanas: la recomendación de la la Sociedad Española de Ornitología para convivir con los pájaros",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260602/construir-nido-artificial-aves-urbanas-ornitologia-dv-130720487",
+    "pubDate": "2026-06-02 16:05:00",
+    "category": "",
+    "description": "<h2>Aunque la época de nidificar en nuestra zona se asocia a marzo, la llegada del buen tiempo y del momento en el que los pájaros abandonan el nido paterno se transforma en una oportunidad para este tipo de proyectos</h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260522/no-cojas-pajaros-suelo-sociedad-espanola-ornitologia-dv-130233820\">No cojas pájaros del suelo: la Sociedad Española de Ornitología recuerda lo qué debes hacer en caso de encontrar una cría fuera de su nido</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pulso de Rufián por la lista electoral dispara la tensión de ERC en el Congreso",
+    "link": "https://www.elperiodico.com/es/politica/20260602/gabriel-rufian-pulso-lista-electoral-tension-erc-congreso-130924262",
+    "pubDate": "2026-06-02 16:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">Las condiciones que ha puesto Rufián para volver a ser candidato han hecho aflorar el malestar en el grupo   </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/erc-gabriel-rufian-conflicto-lista-generales-frente-izquierdas-130885495\" target=\"_blank\">ERC activa la elaboración de la lista electoral para las generales en pleno conflicto con Rufián</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260520/esquerra-republicana-gabriel-rufian-130472958\" target=\"_blank\">Rufián pone condiciones a ERC para volver a ser candidato y a la vez se ofrece a liderar un nuevo espacio de izquierda</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260506/gabriel-rufian-criticos-erc-denuncia-interna-deslealtad-frente-izquierdas-129899102\" target=\"_blank\">Críticos de ERC presentan una denuncia interna contra Rufián por \"deslealtad al partido\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Abel Carrasco, activista en salud mental: \"Parece que ser 'normal' no encaja en nuestro colectivo\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260602/abel-carrasco-activista-salud-mental-130921207",
+    "pubDate": "2026-06-02 16:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Nos queda mucho trabajo de divulgación para ampliar la visión que tenemos sobre nosotros mismos\"</h2><h2 class=\"item\">\"Somos diferentes incluso en cómo vivimos el trastorno\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Pentágono veta a los periodistas la entrada en la oficina de prensa",
+    "link": "https://www.elperiodico.com/es/internacional/20260602/pentagono-veta-periodistas-entrada-oficina-prensa-130938618",
+    "pubDate": "2026-06-02 15:58:36",
+    "category": "",
+    "description": "<h2>El portavoz del Departamento de Defensa justifica la inédita decisión en que el personal maneja \"información sensible\" de forma habitual</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Clint Eastwood se retira del cine a los 96 años: 5 películas de leyenda del último clásico vivo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260602/clint-eastwood-retira-cine-96-5-mejores-peliculas-130931626",
+    "pubDate": "2026-06-02 15:57:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Era el último clásico vivo, un director y actor forjado en los géneros violentos que consolidó una obra propia y mucho más poliédrica de lo que la estigmatización ideológica había establecido.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El cambio silencioso de las pensiones en España: bajarán en 2031 y en 2050 representarán menos salario que ahora",
+    "link": "https://www.elperiodico.com/es/economia/20260602/pensiones-espana-bajaran-2031-en-2050-representaran-menos-salario-dv-130936865",
+    "pubDate": "2026-06-02 15:53:40",
+    "category": "",
+    "description": "<h2>Los analistas calculan que las pensiones seguirán subiendo a corto plazo, pero crecerán menos que los salarios durante las próximas décadas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260529/pensiones-airef-valida-espana-gasto-130787286\" target=\"_blank\">La Airef valida que España controla el gasto en pensiones y las cuotas de los trabajadores no subirán</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Дніпру: число загиблих зросло до 15",
+    "link": "https://ua.korrespondent.net/city/dnepr/4883447-udar-po-dnipru-chyslo-zahyblykh-zroslo-do-15",
+    "pubDate": "2026-06-02 15:52:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449420.jpg\">Рятувальники дістали з-під завалів зруйнованого житлового будинку тіла двох жінок та чоловіка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Весняна температура у Києві перевищила кліматичну норму",
+    "link": "https://ua.korrespondent.net/city/kiev/4883444-vesniana-temperatura-u-kyievi-perevyschyla-klimatychnu-normu",
+    "pubDate": "2026-06-02 15:49:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449416.jpg\">Загалом за весну у столиці зареєстрували лише три температурних рекорди у травні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un hombre estrangula a su mujer y se entrega a la Guardia Civil en Alicante",
+    "link": "https://www.elperiodico.com/es/sucesos/20260602/investigan-crimen-machista-asesinato-mujer-callosa-segura-alicante-130938154",
+    "pubDate": "2026-06-02 15:46:09",
+    "category": "",
+    "description": "<h2>La mujer de 48 años convivía con un hombre de la misma edad, que ha sido detenido</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генерал РФ отримав довічний термін за спробу захопити Київ за три дні",
+    "link": "https://ua.korrespondent.net/ukraine/4883445-heneral-rf-otrymav-dovichnyi-termin-za-sprobu-zakhopyty-kyiv-za-try-dni",
+    "pubDate": "2026-06-02 15:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449419.png\">Саме під командуванням Олександра Лапіна російські війська просувалися до Києва лівим берегом Дніпра.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вживання кавуна може знизити ризик серцево-судинних захворювань - вчені",
+    "link": "https://ua.korrespondent.net/tech/medicine/4883442-vzhyvannia-kavuna-mozhe-znyzyty-ryzyk-sertsevo-sudynnykh-zakhvoruivan-vcheni",
+    "pubDate": "2026-06-02 15:41:00",
+    "category": "Новини медицини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449417.png\">За даними вчених, регулярне вживання цього фрукта сприяє покращенню раціону, зниженню артеріального тиску та підтримці здоров’я серцево-судинної системи.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Остапчук із родиною оселився в Канаді: дружина показала нове житло",
+    "link": "https://ua.korrespondent.net/lifestyle/interiors/4883439-ostapchuk-iz-rodynoui-oselyvsia-v-kanadi-druzhyna-pokazala-nove-zhytlo",
+    "pubDate": "2026-06-02 15:37:00",
+    "category": "Інтер'єри",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449408.jpg\">Подружжя разом із однорічним сином Тимофієм тимчасово оселилося в орендованій квартирі в Монреалі, де планує залишатися лише на період пошуку більш комфортного та довгострокового житла.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Куди інвестувати сьогодні, щоб завтра забути про фінансові проблеми",
+    "link": "https://ua.korrespondent.net/articles/4883438-kudy-investuvaty-sohodni-schob-zavtra-zabuty-pro-finansovi-problemy",
+    "pubDate": "2026-06-02 15:35:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449401.png\">Дехто й досі вважає, що найнадійніший спосіб збереження заощаджень - це тримати їх під матрацом. Але існують ефективні механізми управління капіталом, які дозволяють активам давати додатковий дохід.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Clint Eastwood se retira del cine a los 96 años tras siete décadas de trayectoria",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/clint-eastwood-retira-cine/130937678.shtml",
+    "pubDate": "2026-06-02 15:34:42",
+    "category": "",
+    "description": "El cineasta estrenó su última película como director, 'Jurado nº2', en 2024, protagonizada por Nicholas Hoult, Toni Collette y Kiefer Sutherland",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El orden de administración de los fármacos en el cáncer de colon metastásico influye en la eficacia del tratamiento",
+    "link": "https://www.elperiodico.com/es/sanidad/20260602/orden-administracion-farmacos-cancer-colon-metastasico-eficacia-tratamiento-130806770",
+    "pubDate": "2026-06-02 15:30:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Un grupo español dirigido por el doctor Salazar del ICO demuestra que la secuencia de las terapias dirigidas influye en la reducción tumoral y el control temprano </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260331/govern-anuncia-ampliacion-cribados-cancer-colon-74-anos-cataluna-a-partir-octubre-128619957\" target=\"_blank\">Catalunya ampliará los cribados de cáncer de colon hasta los 74 años a partir de octubre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20251030/cancer-colon-hombres-jovenes-aumenta-espana-desde-2005-123135129\" target=\"_blank\">El cáncer de colon en varones de 20 a 29 años sube un 14% anualmente en España desde 2005</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La junta electoral del Real Madrid carga contra las \"declaraciones, dudas y desconfianza\" de Enrique Riquelme",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/junta-electoral-real-madrid-carga-enrique-riquelme-130937285",
+    "pubDate": "2026-06-02 15:27:03",
+    "category": "",
+    "description": "<h2>Ha emitido un comunicado \"ante las declaraciones del candidato Enrique Riquelme, en las que afirma que solo una de las candidaturas maneja el censo del club, así como las dudas y la desconfianza manifestadas\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Сили ППО знищили понад 5 тисяч \"шахедів\" у травні",
+    "link": "https://ua.korrespondent.net/ukraine/4883434-syly-ppo-znyschyly-ponad-5-tysiach-shakhediv-u-travni",
+    "pubDate": "2026-06-02 15:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449399.jpg\">Українська ППО протягом місяця знищила зокрема 5 053 ударних безпілотники типу Shahed, 1 316 розвідувальних БпЛА та 50 894 безпілотники інших типів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна та Іспанія домовились про взаємну депортацію громадян",
+    "link": "https://ua.korrespondent.net/ukraine/4883429-ukraina-ta-ispaniia-domovylys-pro-vzaiemnu-deportatsiui-hromadian",
+    "pubDate": "2026-06-02 15:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449390.jpg\">Підписано імплементаційний протокол між урядами двох держав до угоди між Україною та Європейським Співтовариством про реадмісію осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Verdades y mentiras sobre el preacuerdo alcanzado entre profesores y Educació: ¿qué están votando exactamente los docentes?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/verdades-mentiras-acuerdo-profesores-maestros-cataluna-govern-educacio-votacion-130917498",
+    "pubDate": "2026-06-02 15:21:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El viernes, Ustec y Aspepc, los sindicatos mayoritarios que mantenían las huelgas, firmaron un preacuerdo con el Govern que hasta el jueves podrá ser refrendado por el profesorado</h2><h2 class=\"item\">En los grupos de docentes y redes sociales corren todo tipo de informaciones y 'fake news': aquí aclaramos los puntos acordados  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594\">Huelga de profesores en Catalunya, en directo | Última hora de los cortes de tráfico en Barcelona, manifestaciones y el acuerdo con Educació</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Impacto de la IA en el empleo",
+    "link": "https://www.elperiodico.com/es/opinion/20260602/impacto-ia-empleo-articulo-carme-poveda-130936451",
+    "pubDate": "2026-06-02 15:20:37",
+    "category": "",
+    "description": "<h2>La exposición a la inteligencia artificial no es sinónimo de sustitución, sino de transformación del puesto de trabajo a través de la automatización de tareas o de la complementariedad con el trabajo humano</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260521/empresas-gastan-miles-millones-ia-siguen-sin-ver-resultados-dv-130446727\">Las empresas gastan miles de millones en IA, pero siguen sin ver resultados ni retorno económico</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una exposición muestra suvenires de diseño alternativos a los que se venden en la Rambla",
+    "link": "https://www.elperiodico.com/es/barcelona/20260602/exposicion-muestra-suvenires-diseno-alternativos-rambla-barcelona-130933295",
+    "pubDate": "2026-06-02 15:06:46",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260602/gran-fiesta-ciudadana-13-y-14-febrero-2027-celebrara-final-reforma-integral-rambla-barcelona-130916898\">Una gran fiesta el 13 y 14 de febrero de 2027 culminará cuatro años de reforma integral de la Rambla de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20250528/nuevos-souvenirs-barcelona-elisava-rambla-117929781\">Barcelona presenta una colección de souvenirs diseñados por jóvenes talentos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La estación de buses Barcelona Nord estrena renovación y ganará cerca de un millón de usuarios en tres años",
+    "link": "https://www.elperiodico.com/es/barcelona/20260602/estacion-buses-barcelona-nord-estreno-instalacion-130930424",
+    "pubDate": "2026-06-02 15:00:44",
+    "category": "",
+    "description": "<h2> El alcalde, Jaume Collboni, ha situado como horizonte 2035 para poder disponer de una terminal de bus interurbano en cada corredor de entrada y salida de la ciudad</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260526/ayuntamiento-avanza-mejoras-paradas-bus-interurbano-diagonal-130680199\" target=\"_blank\">El Ayuntamiento avanza a este año las mejoras en las paradas del bus interurbano en la salida por la Diagonal</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Govern de Illa emplaza a Feijóo a explicar \"qué ofrece\" a Catalunya más allá de su \"obsesión\" por echar a Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20260602/govern-mocion-censura-pp-feijoo-ofrece-catalunya-silvia-paneque-130931436",
+    "pubDate": "2026-06-02 15:00:09",
+    "category": "",
+    "description": "<h2>La portavoz del Executiu acusa al líder del PP de rechazar la amnistía, la oficialidad del catalán en Europa y la mejora de la financiación </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260602/feijoo-mocion-censura-instrumental-atajo-moncloa-junts-cercle-economia-130918203\" target=\"_blank\">Feijóo insiste en la moción de censura instrumental y rechaza que sea un \"atajo\" para llegar a la Moncloa: \"No pido favores\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ensueño bélico",
+    "link": "https://www.elperiodico.com/es/opinion/20260602/ensueno-belico-eeuu-donald-trump-guerra-articulo-emma-riverola-130935656",
+    "pubDate": "2026-06-02 14:59:51",
+    "category": "",
+    "description": "<h2>Trump puede acabar la guerra con un mal acuerdo (ya se inventará algún malabarismo para disimular) o seguir empobreciendo al mundo, también a sus votantes</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260107/trump-dice-presupuesto-militar-eeuu-125465865\">Trump dice que el presupuesto militar de EEUU para 2027 debería crecer un 50% más</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La réplica de la capilla de la Asunción de Gaudí en Reus se construirá en el parque Gandhi",
+    "link": "https://www.elperiodico.com/es/tarragona/20260602/replica-capilla-asuncion-gaudi-reus-130933942",
+    "pubDate": "2026-06-02 14:57:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ayuntamiento cederá los terrenos para la ubicación del monumento, que también será bendecido</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/tarragona/20260601/reus-replica-capilla-asuncion-gaudi-sagrada-familia-barcelona-130887108\">Reus tendrá una réplica de la capilla de la Asunción de Gaudí igual que la de la Sagrada Família de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bizarrap también se cuela en 'Toy Story 5' junto a Bad Bunny y Taylor Swift",
+    "link": "https://www.elperiodico.com/es/gente/20260602/bizarrap-toy-story-5-bad-bunny-taylor-swift-130935224",
+    "pubDate": "2026-06-02 14:55:10",
+    "category": "",
+    "description": "<h2>El productor argentino pondrá voz a Gnomo de Jardín en la versión en español de la nueva película de Disney y Pixar, donde compartirá escena con el personaje de Bad Bunny</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260527/bad-bunny-toy-story-5-pizza-gafas-sol-130697823\">Bad Bunny entra en el universo de 'Toy Story': este es el nuevo personaje que aparece en la quinta entrega</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260601/taylor-swift-confirma-participacion-toy-story-130909550\">Taylor Swift confirma su participación en 'Toy Story 5' con una canción original</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Abogados expertos en herencias alertan de un error común: “La sucesión se abre en el instante mismo del fallecimiento”",
+    "link": "https://www.elperiodico.com/es/economia/20260602/abogados-expertos-herencias-alertan-error-comun-sucesion-instante-fallecimiento-dv-130933624",
+    "pubDate": "2026-06-02 14:42:32",
+    "category": "",
+    "description": "<h2>Muchos herederos desconocen que aceptar una herencia implica asumir también deudas y obligaciones fiscales. Los especialistas recomiendan planificar con tiempo y revisar bien el patrimonio antes de firmar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El liderazgo de Felipe VI",
+    "link": "https://www.elperiodico.com/es/opinion/20260602/liderazgo-felipe-vi-desfile-bandera-articulo-alex-salmon-130934849",
+    "pubDate": "2026-06-02 14:42:29",
+    "category": "",
+    "description": "<h2>El rey demostró, en centésimas, saber lo que se tenía que hacer. No estaba ensayado, ni previsto</h2><h2><a href=\"https://www.elperiodico.com/es/videos/politica/reaccion-rey-felipe-vi-caida/130833319.shtml\">La reacción del rey Felipe VI tras la caída de la bandera en el Día de las Fuerzas Armadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La densificación en vivienda no basta: los urbanistas piden vincularla a empleo y transporte para evitar 'ciudades dormitorio'",
+    "link": "https://www.elperiodico.com/es/barcelona/20260602/densificacion-basta-urbanistas-piden-vincularla-empleo-transporte-evitar-ciudades-dormitorio-130932533",
+    "pubDate": "2026-06-02 14:38:30",
+    "category": "",
+    "description": "<h2>El debate sobre la construcción en Catalunya pone de manifiesto la urgencia de estructurar el territorio con una discusión política sobre el modelo de país</h2><h2>VIVIENDA Y DENSIFICACIÓN | <a href=\"https://www.elperiodico.com/es/barcelona/20260419/barcelona-metropolitana-marca-duplicar-vivienda-planificada-densificar-segunda-corona-129143113\" target=\"_blank\">La Barcelona metropolitana se marca duplicar la vivienda planificada y densificar la segunda corona</a></h2><h2>TRANSPORTE Y DENSIFICACIÓN | <a href=\"https://www.elperiodico.com/es/barcelona/20260429/densificar-barcelona-metropolitana-hara-servicios-129563987\" target=\"_blank\">Densificar la Barcelona metropolitana hará que algunos servicios de transporte público casi tripliquen su demanda</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PSOE reconoce al juez que pagó 45.000 euros a Leire Díez entre 2015 y 2017 como periodista del PSOE de Cantabria",
+    "link": "https://www.elperiodico.com/es/politica/20260602/psoe-reconocio-juez-pago-45-130934809",
+    "pubDate": "2026-06-02 14:33:23",
+    "category": "",
+    "description": "<h2>La información fue entregada al juez Zamarriego, que investiga el denominado 'caso Leire' dos semanas antes de la entrada en Ferraz por orden de la Audiencia Nacional</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya descarta recomendar el teletrabajo por la visita del Papa",
+    "link": "https://www.elperiodico.com/es/politica/20260602/catalunya-teletrabajo-visita-papa-govern-descarta-recomendar-130931956",
+    "pubDate": "2026-06-02 14:17:02",
+    "category": "",
+    "description": "<h2>El Govern defiende que estará centrado en garantizar la movilidad esos días reforzando los transportes públicos para que los trabajadores no tengan problemas de desplazamiento </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260602/teletrabajo-visita-papa-yolanda-diaz-recomienda-empresas-barcelona-madrid-reducir-movilidad-130919027\" target=\"_blank\">El Gobierno recomienda a las empresas de Barcelona y Madrid dar teletrabajo durante la visita del Papa</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260602/papa-leon-visita-catalan-govern-reclama-iglesia-bendicion-sagrada-familia-torre-jesus-130921566\" target=\"_blank\">El Govern reclama a la Iglesia que el Papa incluya el catalán en la bendición de la torre de Jesús de la Sagrada Familia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Riquelme lanza su proclama electoral en Barcelona: \"Me presento para que Florentino no venda el Real Madrid\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/riquelme-lanza-proclama-electoral-barcelona-130920278",
+    "pubDate": "2026-06-02 14:16:58",
+    "category": "",
+    "description": "<h2>El regreso de Raúl al club como director deportivo es el gran reclamo electoral del empresario alicantino</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Protestas en el barrio de Cerdanyola de Mataró tras un desahucio se saldan con tres menores detenidos y cinco agentes heridos leves",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/protestas-barrio-cerdanyola-mataro-desahucio-detenciones-agentes-heridos-video/130933280.shtml",
+    "pubDate": "2026-06-02 14:16:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Parlament rechaza que Illa comparezca esta semana por las causas que afectan al PSOE",
+    "link": "https://www.elperiodico.com/es/politica/20260602/parlament-rechaza-comparecencia-salvador-illa-casos-corrupcion-psoe-130925564",
+    "pubDate": "2026-06-02 14:03:05",
+    "category": "",
+    "description": "<h2 class=\"item\">ERC y Comuns tumban la petición al considerar que ninguna investigación afecta al PSC ni a Catalunya, mientras que Junts les acusa de \"encubrir sombras de corrupción\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260602/govern-mocion-censura-pp-feijoo-ofrece-catalunya-silvia-paneque-130931436\">El Govern de Illa emplaza a Feijóo a explicar \"qué ofrece\" a Catalunya más allá de su \"obsesión\" por echar a Sánchez</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Renault Clio con motor GLP llega con un precio más que interesante",
+    "link": "https://www.elperiodico.com/es/motor/20260602/renault-clio-motor-glp-precio-eco-novedades-gama-130919131",
+    "pubDate": "2026-06-02 14:02:29",
+    "category": "",
+    "description": "<h2>El Clio Eco-G 120 EDC ofrece etiqueta ECO, cambio automático, hasta 1.450 km de autonomía y una cuota desde 89 euros al mes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Riquelme avisa: \"El Real Madrid está en venta\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/riquelme-avisa-real-madrid-venta/130932640.shtml",
+    "pubDate": "2026-06-02 14:01:38",
+    "category": "",
+    "description": "Tras cerrar a Raúl de director deportivo, el candidato promete más anuncios: \"Vamos a seguir dando nombres que puedan seguir dando identidad y transmitir el ADN del madridismo al club”",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Rey llama a acelerar la integración de la UE como espacio de \"convivencia, libertad y prosperidad\"",
+    "link": "https://www.elperiodico.com/es/economia/20260602/rey-felipe-vi-entrega-martin-wolf-premio-cercle-construccion-130929199",
+    "pubDate": "2026-06-02 13:57:10",
+    "category": "",
+    "description": "<h2>El monarca entrega al periodista Martin Wolf el premio del Cercle a la 'Construcción Europea'</h2><h2><a>Feijóo insiste en la moción de censura instrumental y rechaza que sea un \"atajo\" para llegar a la Moncloa: \"No pido favores\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las comunidades recibirán un 7,7% más de financiación este año hasta alcanzar un récord de 170.300 millones",
+    "link": "https://www.elperiodico.com/es/economia/20260602/comunidades-recibiran-7-7-financiacion-130932194",
+    "pubDate": "2026-06-02 13:55:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El Gobierno aprueba un real decreto ley para actualizar las entregas a cuenta de comunidades autónomas y entidades locales en 2026 y permite a los ayuntamientos con superávit destinar remanentes a inversiones sostenibles, incluida vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dani Olmo: \"Veo bien a Lamine. El proceso de recuperación va por buen camino\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/dani-olmo-veo-lamine-proceso-recuperacion-130931614",
+    "pubDate": "2026-06-02 13:47:01",
+    "category": "",
+    "description": "<h2>Ferran Torres también compareció ante los medios y señaló que \"hay presión porque tenemos la ilusión de todo el país detrás, pero esta presión nos gusta porque queremos hacer feliz a la gente\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo insiste en la moción de censura instrumental y rechaza que sea un \"atajo\" para llegar a la Moncloa: \"No pido favores\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-insiste-mocion-censura-rechaza-atajo-moncloa/130931565.shtml",
+    "pubDate": "2026-06-02 13:46:19",
+    "category": "",
+    "description": "\"Quienes coincidimos en que esta situación es insostenible deberíamos hacer todo lo posible\", ha dicho el presidente del PP ante los empresarios catalanes",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern emplaza a las escuelas a \"replantear\" el boicot a las colonias tras el preacuerdo de mejoras salariales",
+    "link": "https://www.elperiodico.com/es/politica/20260602/conflicto-educacion-boicot-colonias-escuelas-replantear-preacuerdo-profesores-130930128",
+    "pubDate": "2026-06-02 13:41:57",
+    "category": "",
+    "description": "<h2 class=\"item\">Los impulsores de la campaña 'Aturem sortides i colònies', a la que se han sumado más de 1.200 centros, han hecho público un comunicado pidiendo el 'no' en la consulta docente sobre el preacuerdo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/huelga-profesores-cataluna-sindicatos-movilizaciones-ultima-hora-directo-130098594\">Huelga de profesores en Catalunya, en directo | Última hora de los cortes de tráfico en Barcelona, manifestaciones y el acuerdo con Educació</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Inscríbete para asistir al Consejo del Agua de EL PERIÓDICO ante el III Foro Económico y Social del Mediterráneo",
+    "link": "https://www.elperiodico.com/es/barcelona/20260602/inscribete-asistir-consejo-agua-periodico-foro-economico-social-mediterraneo-130929864",
+    "pubDate": "2026-06-02 13:40:49",
+    "category": "",
+    "description": "<h2>Asiste al encuentro para conocer las conclusiones sobre la crisis hídrica y el modelo pionero de regeneración de agua en la Barcelona metropolitana</h2><h2>PROGRAMA | <a href=\"https://www.elperiodico.com/es/internacional/consell-laigua-130532787-rm/index.html\" target=\"_blank\">Éste es el programa del Consejo del Agua de EL PERIÓDICO de este jueves 4 de junio</a></h2><h2>ÚLTIMA EDICIÓN | <a href=\"https://www.elperiodico.com/es/internacional/consell-laigua-130532787-rm/index.html\" target=\"_blank\">Llamada a una acción conjunta en el Mediterráneo para que España lidere la economía azul</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260528/consenso-politico-operador-solvente-receta-exportar-mediterraneo-agua-regenerada-barcelona-metropolitana-130736950\" target=\"_blank\">Consenso político y un operador solvente: la 'receta' para exportar al Mediterráneo el modelo de agua regenerada de la Barcelona metropolitana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Antonio Brufau: \"China está destruyendo el planeta\"",
+    "link": "https://www.elperiodico.com/es/economia/20260602/antonio-brufau-china-destruyendo-planeta-130922549",
+    "pubDate": "2026-06-02 13:39:58",
+    "category": "",
+    "description": "<h2>El presidente de Repsol y Francisco Reynés, su homólogo en Naturgy, critican con dureza la política de descarbonización de la Unión Europea</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260526/cercle-deconomia-alerta-autonomia-estrategica-130645303\">El Cercle d'Economia alerta de que la autonomía estratégica de Europa \"no es una realidad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona presenta su Gran Premio más emocional con todo vendido",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/barcelona-presenta-gran-premio-emocional-130929311",
+    "pubDate": "2026-06-02 13:17:22",
+    "category": "",
+    "description": "<h2>El Gran Premi de Barcelona-Catalunya de Fórmula 1 se disputará del 12 al 14 de junio</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "\"Se sabía para quién era el puesto\": la aspirante a la plaza de David Sánchez cuestiona el proceso y un técnico niega que trabajaran juntos a diario",
+    "link": "https://www.elperiodico.com/es/politica/20260602/senti-desigualdad-oportunidades-aspirante-puesto-david-sanchez-badajoz-130929565",
+    "pubDate": "2026-06-02 13:17:01",
+    "category": "",
+    "description": "<h2>Cristina de Frutos asegura que sintió que \"no hubo igualdad de oportunidades\" durante el proceso de contratación, mientras Ángel Seco rechaza la versión de que colaborara diariamente con el coordinador de conservatorios</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Centros de deportación, más de 2 años de detención, sanciones...: las claves del acuerdo que endurece aún más la política migratoria de la UE",
+    "link": "https://www.elperiodico.com/es/internacional/20260602/claves-acuerdo-migratorio-ue-centros-detencion-deportacion-detencion-sanciones-130929072",
+    "pubDate": "2026-06-02 13:09:49",
+    "category": "",
+    "description": "<h2>La nueva regulación da a los gobiernos europeos la posibilidad de llegar a pactos con terceros países para expulsar a personas que hayan llegado a Europa de manera irregular</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Rueda de prensa posterior al Consejo de Ministras y Ministros",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-rueda-prensa-posterior-consejo-ministros/130928941.shtml",
+    "pubDate": "2026-06-02 13:07:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una mujer migrante, con estudios universitarios y residente de Catalunya: el nuevo rostro del emprendedor en España",
+    "link": "https://www.elperiodico.com/es/economia/20260602/mujer-migrante-estudios-universitarios-residente-130928592",
+    "pubDate": "2026-06-02 13:00:58",
+    "category": "",
+    "description": "<h2>El 13% de las extranjeras lidera iniciativas de negocios frente al 6% de las nativas en España, aunque solo el 5% mantiene negocios consolidados </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seis de cada 10 mayores de 55 años emprenden \"para ganarse la vida\" ante un mercado laboral que les expulsa",
+    "link": "https://www.elperiodico.com/es/sociedad/20260602/emprendedores-negocios-mayores-ganarse-vida-130902775",
+    "pubDate": "2026-06-02 13:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El emprendimiento séniors se consolida como salida laboral estable en un mercado donde el paro de los mayores de 55 años casi se ha duplicado desde 2008</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260127/mayores-senior-habitos-sexo-jovenes-125998844\" target=\"_blank\">Los séniors se sienten al menos cinco años más jóvenes: salen para conocer gente y dan importancia al sexo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Atascos kilométricos en la M-30, vagones del Metro llenos...: Madrid se convierte en una ratonera a cuatro días de la llegada del Papa",
     "link": "https://www.elperiodico.com/es/sociedad/20260602/atascos-kilometricos-madrid-visita-papa-130924156",
     "pubDate": "2026-06-02 12:57:39",
@@ -439,6 +1069,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4449232.jpg\">У Дніпрі рятувальники дістали тіла жінки та 8-річного хлопчика з-під руїн чотириповерхівки.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Cuál es el mejor ventilador de techo: las 12 mejores opciones con mejor calidad-precio que existen",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260602/mejor-ventilador-techo-mejores-bc-130922023",
+    "pubDate": "2026-06-02 11:11:59",
+    "category": "",
+    "description": "<h2>Descubre cómo no pasar calor este verano de la manera más fácil y económica </h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
   },
   {
     "title": "Loewe cumple 180 años con Julia Garner, Sissy Spacek, Giselle y el bolso del deseo este verano",
