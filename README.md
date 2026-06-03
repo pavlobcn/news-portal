@@ -1,8 +1,22 @@
-# News for 2026-06-03 18:06
+# News for 2026-06-03 21:55
 
 Previous day: [2026-06-02](./data/2026-06-02.md)
 
 ## ua.korrespondent.net
+21:46 [Угорщина готова розблокувати вступ України до ЄС](https://ua.korrespondent.net/world/4883817-uhorschyna-hotova-rozblokuvaty-vstup-ukrainy-do-yes)<br>
+21:28 [Росія виробляє 120 ракет щомісяця - Зеленський](https://ua.korrespondent.net/ukraine/4883814-rosiia-vyrobliaie-120-raket-schomisiatsia-zelenskyi)<br>
+20:58 [Держбюджет від початку року отримав 1,36 трлн: названо головне джерело](https://ua.korrespondent.net/business/financial/4883805-derzhbuidzhet-vid-pochatku-roku-otrymav-136-trln-nazvano-holovne-dzherelo)<br>
+20:39 [Україна не в фокусі: Зеленський заявив про зміну пріоритетів США](https://ua.korrespondent.net/ukraine/4883803-ukraina-ne-v-fokusi-zelenskyi-zaiavyv-pro-zminu-priorytetiv-ssha)<br>
+20:20 [ЄБРР погіршив прогноз зростання економіки України](https://ua.korrespondent.net/business/financial/4883797-yebrr-pohirshyv-prohnoz-zrostannia-ekonomiky-ukrainy)<br>
+20:18 [Інсайдер розкрив ємність акумуляторів iPhone 18 Pro](https://ua.korrespondent.net/lifestyle/gadgets/4883796-insaider-rozkryv-yemnist-akumuliatoriv-iPhone-18-Pro)<br>
+19:56 [У Мінекономіки уточнили, коли діє норма про зарплату для бронювання](https://ua.korrespondent.net/business/economics/4883789-u-minekonomiky-utochnyly-koly-diie-norma-pro-zarplatu-dlia-bronuivannia)<br>
+19:51 [Американських вчених звинуватили у контрабанді вірусу віспи мавп з Африки](https://ua.korrespondent.net/ukraine/4883790-amerykanskykh-vchenykh-zvynuvatyly-u-kontrabandi-virusu-vispy-mavp-z-afryky)<br>
+19:30 [США офіційно оголосили про скорочення участі в силах НАТО](https://ua.korrespondent.net/world/4883784-ssha-ofitsiino-oholosyly-pro-skorochennia-uchasti-v-sylakh-nato)<br>
+19:19 [Зеленський назвав умову отримання Patriot](https://ua.korrespondent.net/ukraine/4883782-zelenskyi-nazvav-umovu-otrymannia-Patriot)<br>
+19:01 [Викрито розтрату 11 млн на закупівлях для ЗСУ](https://ua.korrespondent.net/ukraine/4883780-vykryto-roztratu-11-mln-na-zakupivliakh-dlia-zsu)<br>
+18:47 [У Білорусі заявили про загрозу глобальної війни](https://ua.korrespondent.net/world/4883776-u-bilorusi-zaiavyly-pro-zahrozu-hlobalnoi-viiny)<br>
+18:39 [Зеленський і Рютте зробили заяви про постачання ракет PAC-3](https://ua.korrespondent.net/ukraine/4883774-zelenskyi-i-ruitte-zrobyly-zaiavy-pro-postachannia-raket-PAC-3)<br>
+18:13 [Долар тримається на рекордному максимумі в Україні](https://ua.korrespondent.net/business/financial/4883772-dolar-trymaietsia-na-rekordnomu-maksymumi-v-ukraini)<br>
 17:52 [Стало відомо про перебіг ремонтів на АЕС України](https://ua.korrespondent.net/business/economics/4883767-stalo-vidomo-pro-perebih-remontiv-na-aes-ukrainy)<br>
 17:49 [У Німеччині вилучили рекордні вісім тонн кокаїну](https://ua.korrespondent.net/world/4883765-u-nimechchyni-vyluchyly-rekordni-visim-tonn-kokainu)<br>
 17:36 [РФ вдарила по житловій забудові Краматорська: є загиблі та поранені](https://ua.korrespondent.net/ukraine/4883762-rf-vdaryla-po-zhytlovii-zabudovi-kramatorska-ye-zahybli-ta-poraneni)<br>
@@ -52,6 +66,12 @@ Previous day: [2026-06-02](./data/2026-06-02.md)
 00:26 [У Москві заявили про "знищення" десятків БПЛА](https://ua.korrespondent.net/world/russia/4883548-u-moskvi-zaiavyly-pro-znyschennia-desiatkiv-bpla)<br>
 
 ## as.com
+21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
+21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
+21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
+21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
+21:17 [El Madrid se asoma al abismo](https://as.com/opinion/el-madrid-se-asoma-al-abismo-f202606-n/)<br>
+21:06 [El Valencia Basket despierta a tiempo](https://as.com/baloncesto/acb/el-valencia-basket-despierta-a-tiempo-f202606-n/)<br>
 17:39 [Un mural para rivales](https://as.com/baloncesto/mas_baloncesto/un-mural-para-rivales-f202606-n/)<br>
 16:32 [El Panathinaikos quiere bañar en millones a Obradovic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-banar-en-millones-a-obradovic-f202606-n/)<br>
 12:35 [El Baskonia, vía de escape para Willy Hernangómez](https://as.com/baloncesto/acb/el-baskonia-via-de-escape-para-willy-hernangomez-f202606-n/)<br>
@@ -62,6 +82,38 @@ Previous day: [2026-06-02](./data/2026-06-02.md)
 00:21 [Scariolo: “No me planteo caer el jueves”](https://as.com/baloncesto/acb/scariolo-no-me-planteo-caer-el-jueves-f202606-n/)<br>
 
 ## www.elperiodico.com
+21:51 [“Dijo que estaba buscando una toalla”: habla la madre de la bebé fallecida tras sufrir quemaduras en Sevilla](https://www.elperiodico.com/es/videos/sucesos/muerte-bebe-quemaduras-banaba-expareja-madre-sevilla/130992718.shtml)<br>
+21:15 [El refugio de Marta Castro, influencer: un pueblo con tantos hórreos como habitantes donde la ex de Fonsi Nieto tiene sus raíces](https://www.elperiodico.com/es/gente/20260603/refugio-influencer-marta-castro-pueblo-ex-fonsi-nieto-dv-130772790)<br>
+21:09 [Un texto de Ana Bernal-Triviño publicado en EL PERIÓDICO, en el examen de castellano de Euskadi](https://www.elperiodico.com/es/educacion/20260603/texto-ana-bernal-trivino-selectividad-130991288)<br>
+21:00 [La jueza sospecha que Jonathan Andic se deshizo del móvil porque desactivó la app de contar pasos justo antes de viajar a Ecuador](https://www.elperiodico.com/es/sociedad/20260603/jueza-jonathan-andic-deshizo-movil-aplicacion-salud-cuenta-pasos-antes-viajar-ecuador-130987443)<br>
+21:00 [Maite Gassó, directora creativa de Lola Casademunt: "Ahora mi madre volverá a la Llotja por la puerta grande"](https://www.elperiodico.com/es/gente/20260603/maite-gasso-lola-casademunt-45-aniversario-llotja-mar-entrevista-130744702)<br>
+20:59 [Retornos y Estado de derecho](https://www.elperiodico.com/es/opinion/20260603/retornos-derecho-inmigracion-union-europea-editorial-130991146)<br>
+20:59 [Las víctimas de la pederastia se concentrarán en Madrid para expresar "su indignación" porque el Papa no prevé recibirlas](https://www.elperiodico.com/es/sociedad/20260603/victimas-pederastia-protesta-visita-papa-130990581)<br>
+20:50 [Aurelio Rojas, cardiólogo, sobre los beneficios de la ducha nocturna: "Un sencillo hábito para vivir más y mejor"](https://www.elperiodico.com/es/vida-y-estilo/20260603/aurelio-rojas-ducha-nocturna-dormir-mejor-dv-121659835)<br>
+20:35 [La Diputación de Barcelona llama a acabar con los vertidos ilegales en los bosques para prevenir incendios: "El año pasado detectamos 2.500"](https://www.elperiodico.com/es/barcelona/20260603/diputacion-barcelona-llama-acabar-vertidos-130989427)<br>
+20:34 [El libro como milagro cultural y locomotora económica: "La IA no ha superado la creatividad humana"](https://www.elperiodico.com/es/ocio-y-cultura/20260603/nuria-cabuti-libro-milagro-cultural-locomotora-economica-130984687)<br>
+20:33 [Qué personas pueden cobrar el Ingreso Mínimo Vital si tienen ingresos inferiores a 723 euros y por qué deben presentar la Renta](https://www.elperiodico.com/es/economia/20260603/cobrar-ingreso-minimo-vital-ingresos-inferiores-723-euros-presentar-declaracion-renta-dv-130990309)<br>
+20:33 [¿Un ICE español? No, gracias](https://www.elperiodico.com/es/opinion/20260603/ice-espanol-gracias-130978037)<br>
+20:33 ['Dune: Awakening' llegará a consolas en septiembre con un modo para un jugador y nuevo contenido](https://www.elperiodico.com/es/videojuegos/20260603/dune-awakening-fecha-lanzamiento-consolas-septiembre-130984008)<br>
+20:13 [Así se prepara Cibeles para la misa del papa León XIV](https://www.elperiodico.com/es/videos/politica/cibeles-misa-papa-leon-madrid/130990360.shtml)<br>
+20:11 [L'Hospitalet, 'laboratorio' de cómo la movilidad previene el cáncer: será la única ciudad española de un proyecto europeo](https://www.elperiodico.com/es/barcelona/20260603/lhospitalet-laboratorio-prevencion-cancer-movilidad-unica-ciudad-espanola-proyecto-europeo-130986099)<br>
+20:06 [Sirera presenta el proyecto del PP para Barcelona basado en vivienda, seguridad y comercio local](https://www.elperiodico.com/es/barcelona/20260603/sirera-pp-presenta-proyecto-candidato-alcalde-barcelona-130989667)<br>
+20:01 [El Parlament pide un "pacto de país" para la educación en Catalunya en medio del conflicto con los profesores](https://www.elperiodico.com/es/politica/20260603/junts-parlament-pacto-pais-educacion-130979191)<br>
+19:53 [Óscar Puente celebra el avance del Corredor Mediterráneo, pero admite que los trenes “no llegan”](https://www.elperiodico.com/es/economia/20260603/oscar-puente-admite-espana-sigue-130981382)<br>
+19:53 [Ferraz encapsula la 'trama Leire' en "comportamientos individuales" de unos "farsantes que usaron el nombre del PSOE en vano"](https://www.elperiodico.com/es/politica/20260603/ferraz-encapsula-trama-leire-comportamientos-130989617)<br>
+19:51 [Cesc Guim, el ingeniero a los mandos de una de las grandes promesas tecnológicas de Europa](https://www.elperiodico.com/es/economia/20260603/cesc-guim-openchip-ingeniero-mandos-grandes-promesas-tecnologicas-130940215)<br>
+19:47 [Catalunya se moviliza para desarrollar y fabricar chips: "Tenemos una dependencia esencial en una capacidad de la que hoy no disponemos"](https://www.elperiodico.com/es/economia/20260603/catalunya-chips-semiconductores-european-bridges-130981403)<br>
+19:40 [Leire Díez mantuvo "diferentes encuentros" con la directora de la Guardia Civil e intentó colocarle de asesor al agente imputado en el 'caso Koldo'](https://www.elperiodico.com/es/politica/20260603/leire-diez-mantuvo-diferentes-encuentros-130989187)<br>
+19:25 [Investigan la muerte de una bebé por quemaduras mientras la bañaba la expareja de su madre](https://www.elperiodico.com/es/videos/sociedad/investigan-muerte-bebe-quemaduras-sevilla/130988413.shtml)<br>
+19:00 [Leire Díez alardeó de su mediación para que el 'dos' de Cerdán buscara trabajo a la mujer que denunció al fiscal Grinda: "Juanfran ha sido obediente"](https://www.elperiodico.com/es/politica/20260603/leire-diez-alardeo-mediacion-cerdan-130984534)<br>
+18:58 ['Clàssica a la platja' contará con una sinfonía imaginaria y música para todos](https://www.elperiodico.com/es/ocio-y-cultura/20260603/classica-platja-contara-sinfonia-imaginaria-130979284)<br>
+18:42 [¿Quién es Julia L., la psicóloga y "gurú" que trató a los Andic y que la jueza ahora pide investigar?](https://www.elperiodico.com/es/sociedad/20260603/julia-psicologa-psicoanalista-andic-isak-jonathan-quien-es-retrato-130982810)<br>
+18:39 [El ex jefe de la UCO admitió presiones de sus superiores para no ser "proactivos" en el caso contra el hermano de Sánchez](https://www.elperiodico.com/es/politica/20260603/ex-jefe-uco-admitio-presiones-130986366)<br>
+18:29 [Un juez avala que una madre con jornada reducida cobre tras un accidente el 100% de pensión de incapacidad](https://www.elperiodico.com/es/economia/20260603/jornada-reducida-cobrar-pension-incapacidad-integra-sentencia-pionera-madre-cuidar-hijos-130983384)<br>
+18:21 [Puigdemont llama a recibir al Papa con 'estelades' y silbidos contra el "renacimiento del catolicismo franquista"](https://www.elperiodico.com/es/politica/20260603/puigdemont-llama-recibir-papa-estelades-silbidos-renacimiento-catalocismo-franquista-130983824)<br>
+18:09 [La princesa Leonor destaca el impacto de su formación militar: "No soy la misma persona"](https://www.elperiodico.com/es/videos/politica/princesa-leonor-destaca-impacto-formacion-militar/130984772.shtml)<br>
+18:08 [ERC carga contra el anuncio presupuestario de Sánchez: "Es el primer acto de precampaña"](https://www.elperiodico.com/es/politica/20260603/pedro-sanchez-presupuestos-generales-erc-acto-precampana-130983518)<br>
+18:06 [El reto de reinventar Europa para plantar cara a las superpotencias](https://www.elperiodico.com/es/economia/20260603/reto-reinventar-europa-plantar-cara-130960781)<br>
 18:00 [Prisión inmediata al acabar el juicio para el acusado de drogar y violar a una menor discapacitada en Palma](https://www.elperiodico.com/es/sucesos/20260603/prision-inmediata-acabar-juicio-acusado-130984259)<br>
 18:00 [Dasler, pionera en el alquiler de material para eventos en Barcelona, cumple 65 años: "Ahora todo tiene que ser instagrameable"](https://www.elperiodico.com/es/barcelona/20260603/empresa-dasler-barcelona-65-anos-alquiler-muebles-eventos-130877945)<br>
 17:58 [La UE califica de "injustificados" los aranceles de EEUU por no luchar contra el comercio de bienes producidos con trabajo forzoso](https://www.elperiodico.com/es/internacional/20260603/ue-califica-injustificados-aranceles-eeuu-comercio-bienes-producidos-trabajo-forzoso-130984359)<br>
