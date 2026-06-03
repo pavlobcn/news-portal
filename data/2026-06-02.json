@@ -81,6 +81,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"Viví una adolescencia salvaje\": Rossy de Palma sorprende a Pablo Motos al confesar su pasado",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260602/el-hormiguero-rossy-palma-vivi-adolescencia-salvaje-130952798",
+    "pubDate": "2026-06-02 23:25:21",
+    "category": "",
+    "description": "<h2>La actriz visitó el plató de Pablo Motos para presentar su nueva película, 'Día de Caza', y recordar sus locos inicios en la capital junto a Pedro Almodóvar.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Рубіо заявив про зростання активності верховного лідера Ірану",
     "link": "https://ua.korrespondent.net/world/4883542-rubio-zaiavyv-pro-zrostannia-aktyvnosti-verkhovnoho-lidera-iranu",
     "pubDate": "2026-06-02 23:25:00",
@@ -563,6 +572,15 @@
     "pubDate": "2026-06-02 19:51:49",
     "category": "",
     "description": "<h2>Justo este lunes se hizo público que el Mónaco pretende ejecutar la cláusula de compra de once millones de euros</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La hoja de ruta deportiva que Florentino esconde en campaña: Mourinho, Konaté, Dumfries, Rodri…",
+    "link": "https://www.elperiodico.com/es/deportes/20260602/hoja-ruta-deportiva-florentino-esconde-130948896",
+    "pubDate": "2026-06-02 19:48:34",
+    "category": "",
+    "description": "<h2>El portugués será presentado la próxima semana, el central francés y el lateral neerlandés están cerrados y el español llegará tras el Mundial</h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
   },
