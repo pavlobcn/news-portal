@@ -1,8 +1,13 @@
-# News for 2026-06-03 21:55
+# News for 2026-06-04 00:20
 
 Previous day: [2026-06-02](./data/2026-06-02.md)
 
 ## ua.korrespondent.net
+23:52 [Франція заарештувала капітана танкера з "тіньового флоту РФ"](https://ua.korrespondent.net/world/4883836-frantsiia-zaareshtuvala-kapitana-tankera-z-tinovoho-flotu-rf)<br>
+23:21 [РФ атакувала Херсон: є жертви і поранені](https://ua.korrespondent.net/ukraine/4883832-rf-atakuvala-kherson-ye-zhertvy-i-poraneni)<br>
+22:54 [Удар по Пітеру: супутник показав наслідки](https://ua.korrespondent.net/world/russia/4883827-udar-po-piteru-suputnyk-pokazav-naslidky)<br>
+22:23 [РФ вдарила по Павлограду: горить багатоповерхівка](https://ua.korrespondent.net/ukraine/4883822-rf-vdaryla-po-pavlohradu-horyt-bahatopoverkhivka)<br>
+21:58 [Стало відомо, чи візьме Трамп участь у саміті НАТО](https://ua.korrespondent.net/world/4883819-stalo-vidomo-chy-vizme-tramp-uchast-u-samiti-nato)<br>
 21:46 [Угорщина готова розблокувати вступ України до ЄС](https://ua.korrespondent.net/world/4883817-uhorschyna-hotova-rozblokuvaty-vstup-ukrainy-do-yes)<br>
 21:28 [Росія виробляє 120 ракет щомісяця - Зеленський](https://ua.korrespondent.net/ukraine/4883814-rosiia-vyrobliaie-120-raket-schomisiatsia-zelenskyi)<br>
 20:58 [Держбюджет від початку року отримав 1,36 трлн: названо головне джерело](https://ua.korrespondent.net/business/financial/4883805-derzhbuidzhet-vid-pochatku-roku-otrymav-136-trln-nazvano-holovne-dzherelo)<br>
@@ -66,6 +71,8 @@ Previous day: [2026-06-02](./data/2026-06-02.md)
 00:26 [У Москві заявили про "знищення" десятків БПЛА](https://ua.korrespondent.net/world/russia/4883548-u-moskvi-zaiavyly-pro-znyschennia-desiatkiv-bpla)<br>
 
 ## as.com
+23:05 [Un gran cuarto final da la victoria al Baskonia en el primer partido de la serie](https://as.com/baloncesto/un-gran-cuarto-final-da-la-victoria-al-baskonia-en-el-primer-partido-de-la-serie-f202606-n/)<br>
+22:16 [Espara pierde contra Austria y Madagascar y está eliminada](https://as.com/baloncesto/mas_baloncesto/espara-pierde-contra-austria-y-madagascar-f202606-n/)<br>
 21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
 21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
 21:22 [Resumen del Valencia Basket vs Surne Bilbao, Playoff Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-surne-bilbao-playoff-liga-endesa-f202606-v/)<br>
@@ -82,6 +89,11 @@ Previous day: [2026-06-02](./data/2026-06-02.md)
 00:21 [Scariolo: “No me planteo caer el jueves”](https://as.com/baloncesto/acb/scariolo-no-me-planteo-caer-el-jueves-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:36 [Un sólido Baskonia se adelanta al Joventut en la primera ronda de los play off](https://www.elperiodico.com/es/deportes/20260603/playoffs-kosner-baskonia-joventut-play-off-resultado-130994313)<br>
+22:51 [Trump dice que un acuerdo de paz con Irán podría llegar este fin de semana](https://www.elperiodico.com/es/internacional/20260603/trump-acuerdo-paz-iran-fin-semana-130993631)<br>
+22:38 [Lola Casademunt celebra 45 años con un aquelarre 'animal print' lleno de caras famosas en la Llotja de Mar de Barcelona](https://www.elperiodico.com/es/gente/20260603/lola-casademunt-desfile-joya-llotja-nieves-alvarez-victoria-abril-barcelona-130959364)<br>
+22:37 [La UE avanza para abrir el primer bloque de negociaciones para la adhesión de Ucrania](https://www.elperiodico.com/es/internacional/20260603/ue-primer-bloque-negociaciones-adhesion-ucrania-130993417)<br>
+21:57 [¿Presupuestos contra la censura?](https://www.elperiodico.com/es/opinion/20260603/presupuestos-censura-feijoo-sanchez-articulo-joan-tapia-130992596)<br>
 21:51 [“Dijo que estaba buscando una toalla”: habla la madre de la bebé fallecida tras sufrir quemaduras en Sevilla](https://www.elperiodico.com/es/videos/sucesos/muerte-bebe-quemaduras-banaba-expareja-madre-sevilla/130992718.shtml)<br>
 21:15 [El refugio de Marta Castro, influencer: un pueblo con tantos hórreos como habitantes donde la ex de Fonsi Nieto tiene sus raíces](https://www.elperiodico.com/es/gente/20260603/refugio-influencer-marta-castro-pueblo-ex-fonsi-nieto-dv-130772790)<br>
 21:09 [Un texto de Ana Bernal-Triviño publicado en EL PERIÓDICO, en el examen de castellano de Euskadi](https://www.elperiodico.com/es/educacion/20260603/texto-ana-bernal-trivino-selectividad-130991288)<br>
