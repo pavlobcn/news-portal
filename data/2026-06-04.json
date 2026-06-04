@@ -1,5 +1,419 @@
 [
   {
+    "title": "Preservar la integridad institucional",
+    "link": "https://www.elperiodico.com/es/opinion/20260604/preservar-integridad-institucional-leire-diez-psoe-editorial-131034238",
+    "pubDate": "2026-06-04 21:37:59",
+    "category": "",
+    "description": "<h2>Más allá de la confrontación partidista, la gravedad de los hechos requiere explicaciones y la asunción de las responsabilidades políticas</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260604/uco-deduce-mensajes-interceptados-leire-131007720\">La UCO \"deduce\" de los mensajes interceptados a Leire Díez que Pedro Sánchez conocía la actividad que desarrollaba la 'fontanera' del PSOE</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260604/uco-encuentra-mensajes-leire-diez-130992728\">La UCO encuentra mensajes de Leire Díez en los que alardea de poder alcanzar pactos con la Fiscalía</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iraola, nuevo entrenador del Liverpool",
+    "link": "https://www.elperiodico.com/es/deportes/20260604/iraola-nuevo-entrenador-liverpool-131034106",
+    "pubDate": "2026-06-04 21:34:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El vasco sustituye a Arne Slot y se convierte en el segundo técnico español en dirigir al conjunto de Anfield tras Rafa Benítez.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Telefónica acude a la Justicia estadounidense para obligar a Colombia a pagarle 430,3 millones de un laudo",
+    "link": "https://www.elperiodico.com/es/economia/20260604/telefonica-acude-justicia-estadounidense-obligar-131034367",
+    "pubDate": "2026-06-04 21:34:56",
+    "category": "",
+    "description": "<h2>La compañía presidida por Marc Murtra tomó la decisión el pasado 2 de junio </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський звернувся до Путіна з пропозицією",
+    "link": "https://ua.korrespondent.net/ukraine/4884105-zelenskyi-zvernuvsia-do-putina-z-propozytsiieui",
+    "pubDate": "2026-06-04 21:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451740.jpg\">До переговорів України та Росії потрібно залучити Європу та США, заявив Зеленський у листі Путіну.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El refugio de Luis Enrique en Formentera: un infinito jardín con buganvillas, piscina y zona 'chill out'",
+    "link": "https://www.elperiodico.com/es/deportes/20260604/formentera-refugio-luis-enrique-champons-vacaciones-casa-jardin-piscina-dv-130861848",
+    "pubDate": "2026-06-04 21:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/gente/20250710/casa-luis-enrique-afueras-barcelona-gava-dv-119550213\" target=\"_blank\">Así es la casa de Gavà donde tiene una propiedad Luis Enrique a las afueras de Barcelona: casa con todos los lujos y frente al mar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Laguna Tenerife - Real Madrid, en directo: playoff Liga Endesa 2026, en vivo",
+    "link": "https://as.com/baloncesto/acb/la-laguna-tenerife-real-madrid-en-directo-liga-endesa-202526-en-vivo-hoy-f202606-n/",
+    "pubDate": "2026-06-04 21:28:04",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo del segundo partido de cuartos de final entre La Laguna Tenerife y y Real Madrid; hoy a las 21:00; en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Florentino Pérez recupera el \"por qué\" de Mourinho para explicar su fichaje",
+    "link": "https://www.elperiodico.com/es/videos/deportes/florentino-perez-recupera-por-que-mourinho-explicar-fichaje/131034130.shtml",
+    "pubDate": "2026-06-04 21:27:31",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Iñaki Barrón, presidente de la CIAF, sobre el accidente de Adamuz: \"Es un misterio por qué el tren se fue hacia el lado contrario e invadió la otra vía\"",
+    "link": "https://www.elperiodico.com/es/economia/20260604/inaki-barron-presidente-ciaf-accidente-adamuz-entrevista-131034194",
+    "pubDate": "2026-06-04 21:26:58",
+    "category": "",
+    "description": "<h2>El presidente de la comisión que investiga la tragedia ferroviaria de Adamuz subraya, a raíz de este accidente, que entre los retos de futuro está lograr \"que no se escape nunca un carril roto sin detectar\" y avanza otras posibles recomendaciones, como la mejora de la inspección y el incremento de la distancia entre vías</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Martí, Calvo, Freixa y Cuevillas se disputarán la candidatura de Junts en Barcelona: quiénes son y qué apoyos tienen",
+    "link": "https://www.elperiodico.com/es/politica/20260604/primarias-junts-barcelona-marti-calvo-freixa-cuevillas-elecciones-municipales-2027-130963693",
+    "pubDate": "2026-06-04 21:23:13",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260601/junts-candidato-barcelona-primarias-elecciones-municipales-130903581\">Junts pone en marcha las primarias para elegir a su candidato en Barcelona el 21 de junio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260530/junts-convencion-municipalista-elecciones-municipales-alianca-catalana-barcelona-130795435\">Junts abre la carrera hacia las municipales entrando en el cuerpo a cuerpo con Aliança: \"Una cosa es hablar claro y la otra insultar\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ávoris acuerda la adquisición del 100% de Atrápalo y refuerza su liderazgo turístico en España y Latinoamérica",
+    "link": "https://www.elperiodico.com/es/economia/20260604/avoris-acuerda-adquisicion-atrapalo-131033995",
+    "pubDate": "2026-06-04 21:22:44",
+    "category": "",
+    "description": "<h2 class=\"item\">La operación convierte al grupo en uno de los principales actores del turismo B2C digital en el mercado de habla hispana y fortalece su presencia en el negocio de experiencias y ocio</h2><h2 class=\"item\">La integración permitirá combinar la fortaleza industrial y turística de Ávoris con la experiencia digital y el posicionamiento de Atrápalo en la distribución online de viajes y ocio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Primavera Sound 2026 suspende algunos de sus conciertos temporalmente por la lluvia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260604/primavera-sound-2026-suspende-conciertos-131033513",
+    "pubDate": "2026-06-04 21:18:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Por qué Alicante se ha llenado de “zapateros”: la explicación detrás de la invasión de estos bichos rojos y negros",
+    "link": "https://www.elperiodico.com/es/sociedad/20260604/alicante-llenado-zapateros-explicacion-detras-131033675",
+    "pubDate": "2026-06-04 21:16:08",
+    "category": "",
+    "description": "<h2>El calor, la humedad de los últimos días y el ciclo natural de estos insectos pueden explicar su aparición masiva en aceras, patios, parques y fachadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія готує плани війни на 2027-2028 роки - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4884103-rosiia-hotuie-plany-viiny-na-2027-2028-roky-zelenskyi",
+    "pubDate": "2026-06-04 21:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451730.jpg\">Український лідер закликав російського диктатора припинити війну та заявив про розвіддані щодо планів РФ на 2027-2028 роки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nacen cuatro crías de tigre de sumatra en Indonesia",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/nacen-cuatro-crias-tigre-sumatra-indonesia/131033664.shtml",
+    "pubDate": "2026-06-04 21:14:01",
+    "category": "",
+    "description": "Es la subespecie más pequeña dentro de los tigres y los cachorros son el futuro para su conservación en el país",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Audi представила 1000-сильний суперкар Nuvolari",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4884101-Audi-predstavyla-1000-sylnyi-superkar-Nuvolari",
+    "pubDate": "2026-06-04 21:12:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451723.jpg\">Новий флагман бренду став найпотужнішим і найшвидшим серійним Audi в історії, а його тираж обмежений лише 499 екземплярами.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona - Murcia: resumen y resultado, Playoff ACB (87-90)",
+    "link": "https://as.com/baloncesto/acb/barcelona-murcia-partido-2-en-directo-playoff-acb-2026-hoy-en-vivo-f202606-d/",
+    "pubDate": "2026-06-04 21:08:13",
+    "category": "Baloncesto",
+    "description": "El Barcelona falla en casa y queda condenado a luchar en Murcia en el tercer y último partido de esta serie del Playoff de la Liga. DeJulius y Martin, los mejores.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un juzgado mercantil condena al 'socio' de Leire Díez a pagar casi 30 millones por \"alzamiento de bienes\"",
+    "link": "https://www.elperiodico.com/es/politica/20260604/juzgado-mercantil-condena-socio-leire-131033505",
+    "pubDate": "2026-06-04 21:07:52",
+    "category": "",
+    "description": "<h2>Un investigado reconoció que se limitaba \"a firmar los contratos, a emitir facturas a empresas del grupo Zed y a realizar los pagos a terceras empresas en el extranjero siguiendo indicaciones de Javier Pérez Dolset\"</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Barça deja escapar la ventaja de jugar en el Palau y regresa a Murcia",
+    "link": "https://www.elperiodico.com/es/deportes/20260604/barca-deja-escapar-ventaja-jugar-131028441",
+    "pubDate": "2026-06-04 21:07:49",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "UCAM Murcia se gana otra oportunidad",
+    "link": "https://as.com/baloncesto/ucam-murcia-se-gana-otra-oportunidad-f202606-n/",
+    "pubDate": "2026-06-04 21:07:46",
+    "category": "UCAM Murcia Baloncesto",
+    "description": "Los de Sito Alonso ganan en el Palau de forma heroica, con David DeJulius lesionado en el último cuarto, e igualan la eliminatoria. El sábado, la resolución.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del jueves, 4 de junio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260604/primitiva-hoy-jueves-4-de-junio-resultados-comprobar-numeros-131031965",
+    "pubDate": "2026-06-04 21:00:04",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Por qué se enciende el testigo del airbag y qué debes hacer para solucionarlo?",
+    "link": "https://www.elperiodico.com/es/motor/20260604/enciende-testigo-airbag-debes-solucionarlo-128431204",
+    "pubDate": "2026-06-04 21:00:03",
+    "category": "",
+    "description": "<h2>Descubre las causas más comunes del fallo del airbag, si puedes seguir conduciendo y por qué es clave acudir al taller cuanto antes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El horóscopo de mañana, viernes 5 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260604/horoscopo-hoy-viernes-5-junio-dv-130973034",
+    "pubDate": "2026-06-04 21:00:03",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los psicológos coinciden: elegir sentarse en una esquina no implica ser una persona introvertida, responde a una necesidad humana",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260604/psicologia-elegir-sentarse-esquina-introvertido-dv-130667102",
+    "pubDate": "2026-06-04 21:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El 73% de las personas prefieren sentarse en las esquinas cuando están disponibles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260530/neurociencia-nazareth-castellanos-vemos-cosas-como-somos-dv-130446776\">Nazareth Castellanos, neurocientífica: \"No vemos las cosas como son, sino como somos\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260530/psicologia-explica-personas-desvian-mirada-al-hablar-dv-130602352\">Los expertos coinciden: la psicología explica por qué las personas desvían la mirada al hablar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленький написав відкритого листа Путіну",
+    "link": "https://ua.korrespondent.net/ukraine/4884098-zelenkyi-napysav-vidkrytoho-lysta-putinu",
+    "pubDate": "2026-06-04 20:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451713.png\">Президент України у відкритому листі до правителя Росії запропонував особисту зустріч для обговорення завершення війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos deducen de la app de contar pasos del móvil de Jonathan Andic que caminó hasta el lugar de la caída cuatro días antes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260604/aplicacion-contar-pasos-movil-jonathan-andic-camino-cuatro-dias-antes-caida-mortal-isak-investigacion-mossos-131022413",
+    "pubDate": "2026-06-04 20:51:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía ha reconstruido con la aplicación 'Health' y las antenas telefónicas la visita que el hijo de Andic hizo a la zona el 10 de diciembre</h2><h2 class=\"item\">Ese paseo es para los investigadores otro indicio de que la muerte del magnate fue un crimen premeditado </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260603/jonathan-andic-tardo-cuatro-minutos-llamada-caida-collbato-pareja-padre-130982284\">Jonathan Andic tardó 4:34 minutos en hacer la primera llamada tras la caída de Isak y fue a la pareja de su padre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260603/jueza-jonathan-andic-deshizo-movil-aplicacion-salud-cuenta-pasos-antes-viajar-ecuador-130987443\" target=\"_blank\">La jueza sospecha que Jonathan Andic se deshizo del móvil porque desactivó la app de contar pasos justo antes de viajar a Ecuador</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Robots, algoritmos e innovación social protagonizan el segundo día del SIL",
+    "link": "https://www.elperiodico.com/es/economia/20260604/robots-algoritmos-innovacion-social-protagonizan-131031285",
+    "pubDate": "2026-06-04 20:50:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Los  Premios SIL a la Mejor Innovación reconocen a LYL-Hai Robotics y a Fundación Cares por sus propuestas tecnológica y social</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260603/oscar-puente-admite-espana-sigue-130981382\">Óscar Puente celebra el avance del Corredor Mediterráneo, pero admite que los trenes “no llegan”</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/consorci-zona-franca/20260604/sil-barcelona-empieza-reivindicando-capacidad-innovacion-peso-logistica-economia-global-bc-131006798\">El SIL Barcelona empieza reivindicando la capacidad de innovación y el peso de la logística en la economía global</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін пригрозив ударами Орєшніком по міській забудові в Україні",
+    "link": "https://ua.korrespondent.net/world/russia/4884096-putin-pryhrozyv-udaramy-orieshnikom-po-miskii-zabudovi-v-ukraini",
+    "pubDate": "2026-06-04 20:41:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451712.jpg\">Російський диктатор розповів про два удари Орєшніком по Україні, які \"не були бойовим застосуванням зброї\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una avioneta se estrella en Croacia: al menos cuatro muertos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/avioneta-estrella-croacia-cuatro-muertos/131032086.shtml",
+    "pubDate": "2026-06-04 20:32:39",
+    "category": "",
+    "description": "La aeronave habría despegado de Alemania",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Javier García Ruiz, psicólogo, advierte: \"La amabilidad tiene que ser obligatoria en una pareja\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260604/javier-garcia-ruiz-psicologo-amabilidad-obligatoria-pareja-dv-130770508",
+    "pubDate": "2026-06-04 20:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto en psicología explica que esta cualidad \"debería ser indispensable\" en cualquier relación y que resulta clave observar cómo trata a los demás</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Європі назвали нового кандидата в переговірники з Росією",
+    "link": "https://ua.korrespondent.net/world/4884092-v-yevropi-nazvaly-novoho-kandydata-v-perehovirnyky-z-rosiieui",
+    "pubDate": "2026-06-04 20:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451692.jpg\">Прем'єр Чехії бачить кацлера Німеччини перемовником від Євросоюзу з Росією щодо закінчення війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Чемпіон Італії має намір посилити лінію захисту гравцем Роми",
+    "link": "https://ua.korrespondent.net/sport/football/4884093-chempion-italii-maie-namir-posylyty-liniui-zakhystu-hravtsem-romy",
+    "pubDate": "2026-06-04 20:13:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451682.jpg\">Міланський Інтер розглядає кандидатуру 30-річного італійського футболіста Джанлуки Манчіні на роль захисника команди.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una decena de países europeos piden endurecer las normas para dar visados a turistas rusos",
+    "link": "https://www.elperiodico.com/es/internacional/20260604/decena-paises-europeos-piden-endurecer-visados-rusia-131031407",
+    "pubDate": "2026-06-04 20:09:18",
+    "category": "",
+    "description": "<h2>Los ministros se quejan de que no todos los países del bloque limitan de la misma forma el acceso al territorio comunitario de ciudadanos rusos </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Terremoto en la cúpula de la Guardia Civil: quiénes son los mandos señalados en la trama del PSOE",
+    "link": "https://www.elperiodico.com/es/politica/20260604/guardia-civil-policias-militares-trama-psoe-caso-leire-diez-131030957",
+    "pubDate": "2026-06-04 20:02:44",
+    "category": "",
+    "description": "<h2>Los papeles que el DAO, los generales y los oficiales juegan en la mayor crisis en la historia reciente del instituto armado</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260604/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Situación política y judicial del PSOE, la trama Leire Díez y el caso Zapatero | Última hora </a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Sánchez Segura (Airbus): \"España necesita en defensa más empresas tractoras y ordenar la cadena de suministros\"",
+    "link": "https://www.elperiodico.com/es/economia/20260604/sanchez-segura-espana-necesita-defensa-131007374",
+    "pubDate": "2026-06-04 20:00:04",
+    "category": "",
+    "description": "<h2>El presidente de Airbus España resalta que “para crear un campeón en defensa hay que pensar en europeo, los nacionales no tienen tamaño para competir”</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un 'topo' en la Guardia Civil señaló a la 'fontanera' que el agente imputado en el caso Koldo podría serle útil",
+    "link": "https://www.elperiodico.com/es/videos/politica/topo-guardia-civil-fontanera-agente-imputado-koldo-util/131031042.shtml",
+    "pubDate": "2026-06-04 20:00:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін озвучив умови \"мирної угоди\" з Україною",
+    "link": "https://ua.korrespondent.net/world/4884089-putin-ozvuchyv-umovy-myrnoi-uhody-z-ukrainoui",
+    "pubDate": "2026-06-04 19:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451680.jpg\">Росія, заявив господар Кремля, мовляв, \"хоче домовитися з Україною мирним шляхом\" на базі компромісів, яких досягнули під час російсько-американських переговорів в Анкориджі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗСУ взяли під вогневий контроль Донецький аеропорт",
+    "link": "https://ua.korrespondent.net/ukraine/4884088-zsu-vzialy-pid-vohnevyi-kontrol-donetskyi-aeroport",
+    "pubDate": "2026-06-04 19:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451681.png\">Оператори дронів випалили ворожу інфраструктуру, зробивши повноцінне функціонування аеродрому неможливим.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лавров поскаржився, що війна Байдена \"стала війною Трампа\"",
+    "link": "https://ua.korrespondent.net/world/4884080-lavrov-poskarzhyvsia-scho-viina-baidena-stala-viinoui-trampa",
+    "pubDate": "2026-06-04 19:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451668.jpg\">Російський міністр розкритикував нещодавню заяву держсекретаря США Марко Рубіо щодо підтримки України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vídeo | \"Do tengo nada más que decir\", dice David Sánchez tras revisionar sus declaraciones en fase de instrucción",
+    "link": "https://www.elperiodico.com/es/videos/politica/video-do-decir-dice-david/131032858.shtml",
+    "pubDate": "2026-06-04 19:48:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Skoda показала свій найбільший електрокросовер до прем'єри",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4884086-Skoda-pokazala-svii-naibilshyi-elektrokrosover-do-premiery",
+    "pubDate": "2026-06-04 19:48:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451536.jpg\">Новий трирядний флагманський кросовер Peaq стане найбільшою електричною моделлю бренду, матиме запас ходу до 600 км та дебютує 23 червня.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora del tiempo, hoy en directo | Cortada la R3 entre Manlleu y Ripoll por un impacto con un árbol",
+    "link": "https://www.elperiodico.com/es/tiempo/20260604/tiempo-hoy-directo-ultima-hora-lluvias-intensas-131029731",
+    "pubDate": "2026-06-04 19:41:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260604/proteccio-civil-pide-prudencia-prevision-crecidas-subitas-rios-cataluna-131013981\" target=\"_blank\">Protecció Civil pide \"mucha prudencia\" por la previsión de tormentas y crecidas súbitas de ríos en Barcelona y Girona esta tarde</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Передвиборні плани кандидата в президенти Реала включають фігуру Клоппа",
+    "link": "https://ua.korrespondent.net/sport/football/4884084-peredvyborni-plany-kandydata-v-prezydenty-reala-vkluichauit-fihuru-kloppa",
+    "pubDate": "2026-06-04 19:36:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451667.jpg\">Енріке Рікельме, який претендує на посаду президента мадридського клубу, розкрив власний намір запросити німецького фахівця очолити команду.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Primavera Sound abre sus puertas buscando un nuevo emblema en Cameron Winter",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260604/primavera-sound-abre-puertas-cameron-winter-131027519",
+    "pubDate": "2026-06-04 19:32:54",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Richard Gere pide no ignorar las consecuencias del colonialismo en las crisis migratorias actuales",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/richard-gere-consecuencias-colonialismo-crisis-migratorias-actuales/131029825.shtml",
+    "pubDate": "2026-06-04 19:30:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuevillas presenta su candidatura a las primarias de Junts en Barcelona y competirá con Martí, Freixa y Calvo",
+    "link": "https://www.elperiodico.com/es/politica/20260604/cuevillas-primarias-junts-barcelona-elecciones-municipales-130885303",
+    "pubDate": "2026-06-04 19:29:10",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260530/junts-convencion-municipalista-elecciones-municipales-alianca-catalana-barcelona-130795435\">Junts abre la carrera hacia las municipales entrando en el cuerpo a cuerpo con Aliança: \"Una cosa es hablar claro y la otra insultar\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Удар ЗСУ по корвету Бойкий: кадри перших хвилин",
+    "link": "https://ua.korrespondent.net/world/russia/4884082-udar-zsu-po-korvetu-boikyi-kadry-pershykh-khvylyn",
+    "pubDate": "2026-06-04 19:28:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4451670.png\">Російський корабель уразили в середину корпусу - в районі містка та баштово-щоглової конструкції.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Una ciudad alemana imprime su propio dinero para reducir las emisiones de CO2",
     "link": "https://www.elperiodico.com/es/tendencias21/20260604/ciudad-alemana-imprime-propio-dinero-131029579",
     "pubDate": "2026-06-04 19:23:25",
@@ -1112,6 +1526,15 @@
     "pubDate": "2026-06-04 13:23:07",
     "category": "",
     "description": "<h2>Administraciones, empresas y expertos coinciden en intervenir sobre la presión, pero divergen en cómo hacerlo sin generar rechazo social ni afectar al modelo económico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "BBVA logra ahorros del 50% en desarrollo de ‘software’ gracias a la inteligencia artificial",
+    "link": "https://www.elperiodico.com/es/economia/20260604/bbva-apuesta-agentes-inteligentes-transformar-banca-131011812",
+    "pubDate": "2026-06-04 13:21:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El consejero delegado Onur Genç defiende que la inteligencia artificial redefinirá la relación con los clientes y aumentará la productividad de sus trabajadores</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
