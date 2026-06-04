@@ -1,8 +1,22 @@
-# News for 2026-06-04 07:00
+# News for 2026-06-04 10:49
 
 Previous day: [2026-06-03](./data/2026-06-03.md)
 
 ## ua.korrespondent.net
+10:33 [93-річна Джоан Коллінз вийшла у світ з чоловіком, молодшим за неї на 31 рік](https://ua.korrespondent.net/lifestyle/4883921-93-richna-dzhoan-kollinz-vyishla-u-svit-z-cholovikom-molodshym-za-nei-na-31-rik)<br>
+10:32 [Зеленський сказав, скільки дітей в Україні вбили росіяни](https://ua.korrespondent.net/ukraine/4883920-zelenskyi-skazav-skilky-ditei-v-ukraini-vbyly-rosiiany)<br>
+10:30 [Нафта дешевшає на новинах з Близького Сходу](https://ua.korrespondent.net/business/economics/4883919-nafta-deshevshaie-na-novynakh-z-blyzkoho-skhodu)<br>
+10:26 [Андрій Оністрат показав могилу сина, який загинув на фронті](https://ua.korrespondent.net/lifestyle/4883916-andrii-onistrat-pokazav-mohylu-syna-yakyi-zahynuv-na-fronti)<br>
+10:19 [Про Кузьму Скрябіна зняли документалку із рідкісними архівними кадрами](https://ua.korrespondent.net/showbiz/cinema/4883913-pro-kuzmu-skriabina-znialy-dokumentalku-iz-ridkisnymy-arkhivnymy-kadramy)<br>
+10:16 [РФ використовує механізми ООН для розширення пропаганди в Африці - ГУР](https://ua.korrespondent.net/ukraine/4883912-rf-vykorystovuie-mekhanizmy-oon-dlia-rozshyrennia-propahandy-v-afrytsi-hur)<br>
+10:01 [У СБС заявили про знищення 100 тис. окупантів](https://ua.korrespondent.net/ukraine/4883909-u-sbs-zaiavyly-pro-znyschennia-100-tys-okupantiv)<br>
+09:34 [У ЄС розпочали підготовку процесу відкриття кластера для України](https://ua.korrespondent.net/world/4883904-u-yes-rozpochaly-pidhotovku-protsesu-vidkryttia-klastera-dlia-ukrainy)<br>
+09:33 [Складна ситуація в двох областях - Укренерго](https://ua.korrespondent.net/ukraine/4883902-skladna-sytuatsiia-v-dvokh-oblastiakh-ukrenerho)<br>
+09:27 [NASA завершило місію марсіанського зонда MAVEN після 11 років роботи](https://ua.korrespondent.net/tech/space/4883898-NASA-zavershylo-misiui-marsianskoho-zonda-MAVEN-pislia-11-rokiv-roboty)<br>
+09:22 [Альона Омаргалієва виставила рідкісний кадр з 12-річним сином від Тамерлана](https://ua.korrespondent.net/lifestyle/4883896-alona-omarhaliieva-vystavyla-ridkisnyi-kadr-z-12-richnym-synom-vid-tamerlana)<br>
+09:17 [Анастасія Пустовіт вперше показала нареченого-військового](https://ua.korrespondent.net/lifestyle/4883893-anastasiia-pustovit-vpershe-pokazala-narechenoho-viiskovoho)<br>
+09:03 [У Чугуєві внаслідок обстрілу пошкоджено дитсадок, є поранена](https://ua.korrespondent.net/ukraine/4883890-u-chuhuievi-vnaslidok-obstrilu-poshkodzheno-dytsadok-ye-poranena)<br>
+08:45 [В Генштабі оцінили ситуацію на фронті](https://ua.korrespondent.net/ukraine/4883888-v-henshtabi-otsinyly-sytuatsiui-na-fronti)<br>
 06:23 [ЄС готує санкції проти китайських компаній, які допомагають армії РФ](https://ua.korrespondent.net/world/4883875-yes-hotuie-sanktsii-proty-kytaiskykh-kompanii-yaki-dopomahauit-armii-rf)<br>
 05:57 [Підсумки 3.06: Удар по Пітеру і відкриття кластера](https://ua.korrespondent.net/ukraine/4883715-pidsumky-306-udar-po-piteru-i-vidkryttia-klastera)<br>
 05:27 [Албанці протестують проти будівництва зятя Трампа у заповіднику](https://ua.korrespondent.net/world/4883872-albantsi-protestuuit-proty-budivnytstva-ziatia-trampa-u-zapovidnyku)<br>
@@ -18,11 +32,42 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 00:21 [Поліція Чехії підтвердила кокаїн в авто митрополита РПЦ](https://ua.korrespondent.net/world/4883840-politsiia-chekhii-pidtverdyla-kokain-v-avto-mytropolyta-rpts)<br>
 
 ## as.com
+08:27 [El Madrid continuará en la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-continuara-en-la-euroliga-f202606-n/)<br>
+07:33 [Resumen del Kosner Baskonia vs. Asisa Badalona, playoffs de Liga Endesa](https://as.com/baloncesto/videos/resumen-del-kosner-baskonia-vs-asisa-badalona-playoffs-de-liga-endesa-f202606-v/)<br>
+07:33 [Resumen del Kosner Baskonia vs. Asisa Badalona, playoffs de Liga Endesa](https://as.com/baloncesto/videos/resumen-del-kosner-baskonia-vs-asisa-badalona-playoffs-de-liga-endesa-f202606-v/)<br>
+07:33 [Resumen del Kosner Baskonia vs. Asisa Badalona, playoffs de Liga Endesa](https://as.com/baloncesto/videos/resumen-del-kosner-baskonia-vs-asisa-badalona-playoffs-de-liga-endesa-f202606-v/)<br>
+07:16 [Gersh se presenta al mundo](https://as.com/baloncesto/mas_baloncesto/gersh-se-presenta-al-mundo-f202606-n/)<br>
+07:06 [“El 3x3 te da un aire de competición y adrenalina que no tienes en el 5x5″](https://as.com/baloncesto/mas_baloncesto/el-3x3-te-da-un-aire-de-competicion-y-adrenalina-que-no-tienes-en-el-5x5-f202606-n/)<br>
 06:03 [Laso: “El baloncesto del Madrid está en buenas manos”](https://as.com/baloncesto/euroliga/laso-el-baloncesto-del-madrid-esta-en-buenas-manos-f202606-n/)<br>
 05:35 [Milos Teodosic vuelve al Estrella Roja pero como director deportivo](https://as.com/baloncesto/euroliga/milos-teodosic-vuelve-al-estrella-roja-pero-como-director-deportivo-f202606-n/)<br>
 01:00 [Así queda el playoff de la Liga Endesa: cuadro, emparejamientos y cuándo se juegan los partidos](https://as.com/baloncesto/acb/asi-quedan-los-playoffs-de-la-liga-endesa-cuadro-emparejamientos-y-cuando-se-juegan-los-partidos-f202605-n/)<br>
 
 ## www.elperiodico.com
+10:44 [La UCO registra la empresa vasca Tubos Reunidos en busca de pruebas de desvío de ayudas públicas](https://www.elperiodico.com/es/politica/20260604/uco-registra-empresa-vasca-tubos-131003491)<br>
+10:34 [Muere la artista francoiraní Marjane Satrapi, autora del popular cómic 'Persépolis', a los 56 años](https://www.elperiodico.com/es/ocio-y-cultura/20260604/muere-marjane-satrapi-persepolis-131002934)<br>
+10:30 [Crítica de 'Los ilusos 13+13': Jonás Trueba añade escenas en color y encuadres distintos a la película que gestó su estilo](https://www.elperiodico.com/es/ocio-y-cultura/20260604/critica-ilusos-jonas-trueba-130990674)<br>
+10:30 [Lola López- Muelas, abogada de familia: "Las sustracciones internacionales de menores son muy frecuentes en Mallorca"](https://www.elperiodico.com/es/sociedad/20260604/lola-lopez-muelas-abogada-familia-sustracciones-internacionales-menores-frecuentes-mallorca-130853698)<br>
+10:23 [El hermano de Sánchez declara que la Oficina de Artes escénicas no era "una oficina con ventanilla" sino una categoría que no solicitó](https://www.elperiodico.com/es/politica/20260604/hermano-sanchez-declara-oficina-artes-131002798)<br>
+10:16 [Simetrías invisibles](https://www.elperiodico.com/es/opinion/20260604/simetrias-invisibles-131002444)<br>
+10:12 [Marlaska niega haber tenido conocimiento de presiones a la UCO y defiende la "honestidad" de la directora de la Guardia Civil](https://www.elperiodico.com/es/politica/20260604/marlaska-niega-haber-tenido-conocimiento-131002476)<br>
+10:12 [Los arquitectos alertan del peligro de instalar piscinas portátiles en las terrazas: "Una de sesenta centímetros de alto ya llega a los 600 kilos por metro cuadrado"](https://www.elperiodico.com/es/sociedad/20260604/arquitectos-alertan-peligro-instalar-piscinas-portatiles-terrazas-dv-131001546)<br>
+10:03 [Las grandes exclusivas de PlayStation pierden fuerza en la generación PS5](https://www.elperiodico.com/es/videojuegos/20260604/grandes-exclusivas-playstation-pierden-fuerza-131001880)<br>
+10:03 [Kim Jong-un aboga por una expansión "exponencial" del arsenal atómico de Corea del Norte](https://www.elperiodico.com/es/internacional/20260604/kim-aboga-expansion-exponencial-arsenal-nuclear-131002118)<br>
+10:01 [El Govern pide a Junts y al PP que no bloqueen la nueva financiación para que Catalunya tenga más recursos en 2027](https://www.elperiodico.com/es/politica/20260604/govern-alicia-romero-junts-pp-financiacion-catalunya-presupuestos-debate-131001042)<br>
+10:00 [Crítica de 'He-Man y los masters del universo': puesta a punto tan espectacular como anodina de la franquicia generada en los años 80](https://www.elperiodico.com/es/ocio-y-cultura/20260604/critica-he-man-masters-universo-130990503)<br>
+09:59 [Dos mellizos con autismo no pueden ir al colegio al lado de casa en Asturias por la falta de un auxiliar, denuncian sus padres: "Es una injusticia"](https://www.elperiodico.com/es/sociedad/20260604/mellizos-autismo-no-pueden-ir-colegio-lado-casa-auxiliar-injusticia-dv-130960491)<br>
+09:58 [Santa Coloma dedicará más de un millón de euros para aclimatar sus escuelas este verano](https://www.elperiodico.com/es/barcelona/20260604/santa-coloma-dedicara-millon-euros-aclimatar-escuelas-verano-131001143)<br>
+09:16 [Los audios de Leire Díez contra jueces, fiscales y la UCO: "La intención es limpiar"](https://www.elperiodico.com/es/politica/20260604/audios-leire-diez-jueces-fiscales-131000587)<br>
+09:14 [Leire Díez: "La intención de todo es limpiar"](https://www.elperiodico.com/es/videos/politica/leire-diez-intencion-limpiar/131000480.shtml)<br>
+09:08 [La decepción de Broadcom pesa sobre las bolsas y eclipsa el respiro entre EEUU e Irán](https://www.elperiodico.com/es/economia/20260604/decepcion-broadcom-pesa-bolsas-eclipsa-131000330)<br>
+09:00 [Ona Therapeutics recibe casi 75 millones de euros para su potencial nuevo tratamiento contra el cáncer de mama y colon avanzados](https://www.elperiodico.com/es/economia/20260604/ona-ronda-therapeutics-75-millones-tratamiento-cancer-mama-colon-130897480)<br>
+08:58 [Leire Díez al ex secretario de Estado del PP Francisco Martínez: "Yo lo que pretendo es que entremos en un juego limpio"](https://www.elperiodico.com/es/videos/politica/leire-diez-ex-secretario-pp/131000033.shtml)<br>
+08:05 [Los Knicks se agarran a Jalen Brunson para conquistar San Antonio en el primer partido de la final de la NBA](https://www.elperiodico.com/es/deportes/20260604/knicks-ganan-primer-partido-final-nba-san-antonio-spurs-130999077)<br>
+08:00 [Ni las 8 ni las 9: esta es la hora a la que puedes empezar a hacer ruido en Barcelona, según la ley](https://www.elperiodico.com/es/sociedad/20260604/hora-empezar-ruido-obras-casa-barcelona-silencio-dv-130961103)<br>
+08:00 [Este domingo puedes visitar el bosque de El Prat que solo abre 8 veces al año](https://www.elperiodico.com/es/que-hacer/planes/20260604/visita-domingo-bosque-exclusivo-prat-pineda-can-camins-escapada-barcelona-122077885)<br>
+07:52 [Israel y Líbano acuerdan un alto el fuego condicionado a que Hizbulá cese sus ataques](https://www.elperiodico.com/es/internacional/20260604/israel-libano-acuerdan-alto-fuego-130999088)<br>
+07:30 [Puertas abiertas modernistas y rutas en bici: estos son los actos más destacados de la Capitalitat de l'Arquitectura en Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260604/puertas-abiertas-modernistas-rutas-bici-actos-destacados-capitalitat-arquitectura-barcelona-130949548)<br>
+07:19 [Trama del PSOE, en directo | Última hora de la declaración de David Sánchez, hermano de Pedro Sánchez](https://www.elperiodico.com/es/politica/20260604/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522)<br>
 06:00 [Direxis (Nitbus) quiere comprar por 15 millones a la empresa que ganó el mayor contrato de ambulancias de Catalunya](https://www.elperiodico.com/es/economia/20260604/la-pau-concurso-de-acreedores-direxis-tusgal-ute-transporte-sanitario-ambulancias-badalona-cooperativa-130993222)<br>
 06:00 [El valor del periodismo de cerca](https://www.elperiodico.com/es/opinion/20260604/periodismo-cerca-gemma-martinez-directora-el-periodico-130993909)<br>
 06:00 ["Las próximas semanas os llegará un nuevo recibo": miles de hogares del área de Barcelona reciben la carta de pago del Tributo Metropolitano](https://www.elperiodico.com/es/barcelona/20260604/proximas-semanas-llegara-nuevo-recibo-miles-hogares-area-barcelona-reciben-carta-carta-pago-tributo-metropolitano-130975012)<br>
