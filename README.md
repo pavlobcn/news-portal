@@ -1,8 +1,25 @@
-# News for 2026-06-04 13:43
+# News for 2026-06-04 16:29
 
 Previous day: [2026-06-03](./data/2026-06-03.md)
 
 ## ua.korrespondent.net
+16:24 [Шлях в Євросоюз. Що пообіцяла Україна Угорщині](https://ua.korrespondent.net/ukraine/4884037-shliakh-v-yevrosouiz-scho-poobitsiala-ukraina-uhorschyni)<br>
+16:14 [На Рівненщині вітчим ґвалтував малолітню падчерку](https://ua.korrespondent.net/ukraine/4884032-na-rivnenschyni-vitchym-gvaltuvav-malolitnui-padcherku)<br>
+15:59 [У Києві демонтували памʼятник Булгакову](https://ua.korrespondent.net/city/kiev/4884030-u-kyievi-demontuvaly-pamiatnyk-bulhakovu)<br>
+15:56 [На Київщині військовий з ревнощів вбив жінку і побратима](https://ua.korrespondent.net/ukraine/4884026-na-kyivschyni-viiskovyi-z-revnoschiv-vbyv-zhinku-i-pobratyma)<br>
+15:53 [Обмеження на продаж бензину охопили 15 регіонів РФ і окуповані території](https://ua.korrespondent.net/world/russia/4884025-obmezhennia-na-prodazh-benzynu-okhopyly-15-rehioniv-rf-i-okupovani-terytorii)<br>
+15:36 [У Раді спробують повторно декриміналізувати порно](https://ua.korrespondent.net/ukraine/4884020-u-radi-sprobuuit-povtorno-dekryminalizuvaty-porno)<br>
+15:31 [ЄС розділився через обмеження для українців](https://ua.korrespondent.net/world/4884016-yes-rozdilyvsia-cherez-obmezhennia-dlia-ukraintsiv)<br>
+15:30 [Буданов припускає закінчення війни до зими - які думки є щодо цього](https://ua.korrespondent.net/articles/4884018-budanov-prypuskaie-zakinchennia-viiny-do-zymy-yaki-dumky-ye-schodo-tsoho)<br>
+15:21 [Математику хочуть зробити необов'язковою на НМТ: у Міносвіти відреагували](https://ua.korrespondent.net/ukraine/4884014-matematyku-khochut-zrobyty-neoboviazkovoui-na-nmt-u-minosvity-vidreahuvaly)<br>
+15:04 [Росіян закликали не чекати скасування санкцій](https://ua.korrespondent.net/world/4884012-rosiian-zaklykaly-ne-chekaty-skasuvannia-sanktsii)<br>
+14:56 [У травні енергетики повернули світло для понад 4 млн споживачів](https://ua.korrespondent.net/ukraine/4884010-u-travni-enerhetyky-povernuly-svitlo-dlia-ponad-4-mln-spozhyvachiv)<br>
+14:51 [ГУР оприлюднило дані щодо російської балістики](https://ua.korrespondent.net/ukraine/4884008-hur-opryluidnylo-dani-schodo-rosiiskoi-balistyky)<br>
+14:41 [Століття був загадкою: науковці підтвердили існування рідкісного папуги](https://ua.korrespondent.net/tech/science/4884006-stolittia-buv-zahadkoui-naukovtsi-pidtverdyly-isnuvannia-ridkisnoho-papuhy)<br>
+14:32 [Роки боротьби з неіснуючою хворобою: ексдружина Неліпи зробила зізнання](https://ua.korrespondent.net/lifestyle/4884004-roky-borotby-z-neisnuuichoui-khvoroboui-eksdruzhyna-nelipy-zrobyla-ziznannia)<br>
+14:28 [З'явились знімки ураженого у Кронштадті ракетного корабля](https://ua.korrespondent.net/world/russia/4884000-ziavylys-znimky-urazhenoho-u-kronshtadti-raketnoho-korablia)<br>
+14:27 [Сирський повідомив про жорсткі рішення щодо підготовки мобілізованих](https://ua.korrespondent.net/ukraine/4884001-syrskyi-povidomyv-pro-zhorstki-rishennia-schodo-pidhotovky-mobilizovanykh)<br>
+14:20 [Знайдено найбільшого скорпіона в історії Землі](https://ua.korrespondent.net/tech/science/4883998-znaideno-naibilshoho-skorpiona-v-istorii-zemli)<br>
 13:29 [Російська та іранська нафта дешевшають на ринку Китаю](https://ua.korrespondent.net/business/economics/4883982-rosiiska-ta-iranska-nafta-deshevshauit-na-rynku-kytaui)<br>
 13:13 [МАГАТЕ заявило про атаку на ключовий об'єкт біля ЗАЕС](https://ua.korrespondent.net/ukraine/4883976-mahate-zaiavylo-pro-ataku-na-kluichovyi-obiekt-bilia-zaes)<br>
 13:01 [З App Store видалили російський месенджер Max](https://ua.korrespondent.net/business/companies/4883973-z-App-Store-vydalyly-rosiiskyi-mesendzher-Max)<br>
@@ -58,6 +75,32 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 01:00 [Así queda el playoff de la Liga Endesa: cuadro, emparejamientos y cuándo se juegan los partidos](https://as.com/baloncesto/acb/asi-quedan-los-playoffs-de-la-liga-endesa-cuadro-emparejamientos-y-cuando-se-juegan-los-partidos-f202605-n/)<br>
 
 ## www.elperiodico.com
+16:27 [Magnífica encíclica](https://www.elperiodico.com/es/opinion/20260604/magnifica-enciclica-ia-articulo-josep-m-lozano-131021284)<br>
+16:26 [La tensión en un barrio de Mataró se cobra la suspensión de dos desahucios "por motivos de seguridad"](https://www.elperiodico.com/es/barcelona/20260604/tension-barrio-mataro-cobra-suspension-dos-desahucios-motivos-de-seguridad-131019735)<br>
+16:20 [Los docentes catalanes rechazan el preacuerdo salarial y reabren el conflicto con Educació](https://www.elperiodico.com/es/videos/educacion/docentes-catalanes-rechazan-preacuerdo-salarial/131021533.shtml)<br>
+16:20 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260604/hoy-barcelona-agenda-actividades-planes-semana-102304377)<br>
+16:05 [Crítica de 'Backrooms': un perturbador viaje a las fauces del mundo virtual](https://www.elperiodico.com/es/ocio-y-cultura/20260604/critica-backrooms-perturbador-viaje-mundo-virtual-131020589)<br>
+16:01 [Un fármaco popular podría frenar el envejecimiento biológico, según un estudio](https://www.elperiodico.com/es/tendencias21/20260604/farmaco-popular-frenar-envejecimiento-biologico-131020936)<br>
+16:00 [Miedo](https://www.elperiodico.com/es/opinion/20260604/mes-orgullo-lgtbiq-ines-martin-rodrigo-articulo-131004142)<br>
+16:00 [Marisa, testimonio en primera persona: "Yo no soy mis pensamientos ni mis emociones"](https://www.elperiodico.com/es/ser-feliz/20260604/marisa-testimonio-primera-persona-pensamientos-130881277)<br>
+15:45 [Contra el verbo hacer](https://www.elperiodico.com/es/opinion/20260604/verbo-hacer-helado-cafe-articulo-juan-tallon-131019866)<br>
+15:42 ["Marilyn Monroe sabía que su imagen perduraría en el tiempo": una exposición recupera en Londres los retratos más icónicos de la actriz](https://www.elperiodico.com/es/ocio-y-cultura/20260604/marilyn-monroe-exposicion-national-portrait-gallery-centenario-131006842)<br>
+15:38 [La mitad de las familias atendidas por Càritas de Barcelona en 2025 viven en habitaciones realquiladas](https://www.elperiodico.com/es/sociedad/20260604/mitad-familias-atendidas-caritas-barcelona-pobreza-habitaciones-realquiladas-131014246)<br>
+15:28 [¿Por qué los profesores catalanes han votado 'no' a un aumento salarial de 450 euros? Cuatro claves de una negativa histórica](https://www.elperiodico.com/es/sociedad/20260604/profesores-maestros-catalanes-claves-votar-no-aumento-sueldo-educacio-acuerdo-131014037)<br>
+15:08 [Carmen Machi, Premio Nacional de Cinematografía 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260604/carmen-machi-premio-nacional-cinematografia-131018870)<br>
+14:46 [Marta Pazos estrena una versión 'camp' de 'Le nozze di Figaro': "En la ópera las mujeres suelen ser víctimas pero aquí son fuertes, inteligentes, vivas e irónicas"](https://www.elperiodico.com/es/ocio-y-cultura/20260604/marta-pazos-estrena-version-camp-130939624)<br>
+14:45 [Cuidado con los ventiladores: pueden costarte un disgusto con tus vecinos según la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260604/cuidado-ventiladores-costarte-disgusto-vecinos-ley-de-propiedad-horizontal-dv-130967734)<br>
+14:43 [La directora de la GC es de mi confianza](https://www.elperiodico.com/es/videos/politica/directora-gc-confianza/131017430.shtml)<br>
+14:20 [Miles de hogares del área de Barcelona reciben la carta de pago del Tributo Metropolitano: "Las próximas semanas os llegará un nuevo recibo"](https://www.elperiodico.com/es/videos/sociedad/miles-hogares-area-barcelona-reciben-carta-pago-tributo-metropolitano-video/131015672.shtml)<br>
+14:19 [Mapa de alertas por calor: consulta la temperatura a partir de la cual está en riesgo tu salud, según donde estés](https://www.elperiodico.com/es/sociedad/20260604/mapa-alertas-calor-temperatura-riesgo-salud-131002551)<br>
+14:15 [Los bancos ya perfilan las fechas de la paga extra de verano para pensionistas](https://www.elperiodico.com/es/economia/20260604/pensiones-paga-extra-verano-pensionistas-fechas-bancos-junio-2026-dv-130485227)<br>
+14:08 [El Govern prevé aplicar el último preacuerdo con los sindicatos pese al rechazo de los docentes](https://www.elperiodico.com/es/politica/20260604/govern-preve-aplicar-ultimo-preacuerdo-pese-rechazo-profesores-131010987)<br>
+14:00 [Protecció Civil pide "mucha prudencia" por la previsión de tormentas y crecidas súbitas de ríos en Barcelona y Girona esta tarde](https://www.elperiodico.com/es/sociedad/20260604/proteccio-civil-pide-prudencia-prevision-crecidas-subitas-rios-cataluna-131013981)<br>
+13:59 [MAPA | ¿Dónde refugiarte del calor en el área de Barcelona este verano?](https://www.elperiodico.com/es/barcelona/20260604/mapa-son-refugios-climaticos-area-metropolitana-barcelona-verano-130969343)<br>
+13:59 [Bruselas amplía su expediente a España por las trabas a la OPA de BBVA sobre Sabadell](https://www.elperiodico.com/es/economia/20260604/bruselas-amplia-expediente-espana-trabas-opa-bbva-banco-sabadell-131014263)<br>
+13:58 [Un báculo para León XIV: un artista de Tarragona talla una férula papal inspirada en la obra de Gaudí](https://www.elperiodico.com/es/tarragona/20260604/baculo-leon-xiv-artista-tarragona-reus-serramia-131013126)<br>
+13:52 [Bruselas da el visto bueno a un paquete de ayudas de 25 millones del gobierno al sector pesquero](https://www.elperiodico.com/es/economia/20260604/bruselas-da-visto-bueno-paquete-ayudas-sector-pesquero-oriente-medio-131013897)<br>
+13:45 [Muere a los 56 años la dibujante y directora de cine franco-iraní Marjane Satrapi](https://www.elperiodico.com/es/videos/ocio-y-cultura/muere-56-anos-dibujante-directora-franco-irani-marjane-satrapi-video/131013374.shtml)<br>
 13:40 [La red empresarial aragonesa, clave del crecimiento y la competitividad del territorio](https://www.elperiodico.com/es/sociedad/20260604/red-empresarial-aragonesa-clave-crecimiento-bc-131013164)<br>
 13:38 [Ayuso espera al Papa desde la Asamblea de Madrid: "Respetamos la verdad, las tradiciones, se tenga o no se tenga fe"](https://www.elperiodico.com/es/politica/20260604/ayuso-espera-papa-asamblea-madrid-131013037)<br>
 13:37 [La agenda del Papa en España en 120 segundos](https://www.elperiodico.com/es/videos/sociedad/agenda-papa-leon-xiv-espana-120-segundos/131012903.shtml)<br>
@@ -100,6 +143,7 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 10:03 [Las grandes exclusivas de PlayStation pierden fuerza en la generación PS5](https://www.elperiodico.com/es/videojuegos/20260604/grandes-exclusivas-playstation-pierden-fuerza-131001880)<br>
 10:03 [Kim Jong-un aboga por una expansión "exponencial" del arsenal atómico de Corea del Norte](https://www.elperiodico.com/es/internacional/20260604/kim-aboga-expansion-exponencial-arsenal-nuclear-131002118)<br>
 10:01 [El Govern pide a Junts y al PP que no bloqueen la nueva financiación para que Catalunya tenga más recursos en 2027](https://www.elperiodico.com/es/politica/20260604/govern-alicia-romero-junts-pp-financiacion-catalunya-presupuestos-debate-131001042)<br>
+10:01 [El Parlament tramita los primeros presupuestos de Illa en pleno conflicto con los profesores](https://www.elperiodico.com/es/politica/20260604/presupuestos-parlament-salvador-illa-tramitacion-conflicto-profesores-educacion-131001042)<br>
 10:00 [Crítica de 'He-Man y los masters del universo': puesta a punto tan espectacular como anodina de la franquicia generada en los años 80](https://www.elperiodico.com/es/ocio-y-cultura/20260604/critica-he-man-masters-universo-130990503)<br>
 09:59 [Dos mellizos con autismo no pueden ir al colegio al lado de casa en Asturias por la falta de un auxiliar, denuncian sus padres: "Es una injusticia"](https://www.elperiodico.com/es/sociedad/20260604/mellizos-autismo-no-pueden-ir-colegio-lado-casa-auxiliar-injusticia-dv-130960491)<br>
 09:58 [Santa Coloma dedicará más de un millón de euros para aclimatar sus escuelas este verano](https://www.elperiodico.com/es/barcelona/20260604/santa-coloma-dedicara-millon-euros-aclimatar-escuelas-verano-131001143)<br>
