@@ -1,8 +1,22 @@
-# News for 2026-06-04 10:49
+# News for 2026-06-04 13:43
 
 Previous day: [2026-06-03](./data/2026-06-03.md)
 
 ## ua.korrespondent.net
+13:29 [Російська та іранська нафта дешевшають на ринку Китаю](https://ua.korrespondent.net/business/economics/4883982-rosiiska-ta-iranska-nafta-deshevshauit-na-rynku-kytaui)<br>
+13:13 [МАГАТЕ заявило про атаку на ключовий об'єкт біля ЗАЕС](https://ua.korrespondent.net/ukraine/4883976-mahate-zaiavylo-pro-ataku-na-kluichovyi-obiekt-bilia-zaes)<br>
+13:01 [З App Store видалили російський месенджер Max](https://ua.korrespondent.net/business/companies/4883973-z-App-Store-vydalyly-rosiiskyi-mesendzher-Max)<br>
+12:59 [До Ради Безпеки ООН вперше в історії обрали Киргизстан](https://ua.korrespondent.net/world/4883972-do-rady-bezpeky-oon-vpershe-v-istorii-obraly-kyrhyzstan)<br>
+12:46 [СБС уразили сторожовий корабель росіян в Криму](https://ua.korrespondent.net/ukraine/4883968-sbs-urazyly-storozhovyi-korabel-rosiian-v-krymu)<br>
+12:35 [Кім Чен Ин заявив про подвоєння виробничих потужностей КНДР у ядерній сфері](https://ua.korrespondent.net/world/4883966-kim-chen-yn-zaiavyv-pro-podvoiennia-vyrobnychykh-potuzhnostei-kndr-u-yadernii-sferi)<br>
+12:31 [В окупованому Криму заборонили знімати бензовози](https://ua.korrespondent.net/ukraine/4883964-v-okupovanomu-krymu-zaboronyly-znimaty-benzovozy)<br>
+12:16 [Низка країн вимагає заблокувати шенген росіянам - ЗМІ](https://ua.korrespondent.net/world/4883961-nyzka-krain-vymahaie-zablokuvaty-shenhen-rosiianam-zmi)<br>
+12:14 [Україна формує четвертий ешелон ППО](https://ua.korrespondent.net/ukraine/4883960-ukraina-formuie-chetvertyi-eshelon-ppo)<br>
+11:59 [Суд закрив справу про держзраду проти детектива НАБУ Гусарова](https://ua.korrespondent.net/ukraine/4883954-sud-zakryv-spravu-pro-derzhzradu-proty-detektyva-nabu-husarova)<br>
+11:50 [Соцмережі крадуть увагу: як повернути собі концентрацію](https://ua.korrespondent.net/articles/4883941-sotsmerezhi-kradut-uvahu-yak-povernuty-sobi-kontsentratsiui)<br>
+11:50 [Повідомили про підозру чеченському окупанту, який катував цивільного](https://ua.korrespondent.net/ukraine/4883950-povidomyly-pro-pidozru-chechenskomu-okupantu-yakyi-katuvav-tsyvilnoho)<br>
+11:47 [На кордоні з Румунією вилучили партію психотропів](https://ua.korrespondent.net/ukraine/4883947-na-kordoni-z-rumuniieui-vyluchyly-partiui-psykhotropiv)<br>
+11:37 [Посадовців Гайсинського ТЦК викрили на "паперовій мобілізації"](https://ua.korrespondent.net/ukraine/4883944-posadovtsiv-haisynskoho-ttsk-vykryly-na-paperovii-mobilizatsii)<br>
 10:33 [93-річна Джоан Коллінз вийшла у світ з чоловіком, молодшим за неї на 31 рік](https://ua.korrespondent.net/lifestyle/4883921-93-richna-dzhoan-kollinz-vyishla-u-svit-z-cholovikom-molodshym-za-nei-na-31-rik)<br>
 10:32 [Зеленський сказав, скільки дітей в Україні вбили росіяни](https://ua.korrespondent.net/ukraine/4883920-zelenskyi-skazav-skilky-ditei-v-ukraini-vbyly-rosiiany)<br>
 10:30 [Нафта дешевшає на новинах з Близького Сходу](https://ua.korrespondent.net/business/economics/4883919-nafta-deshevshaie-na-novynakh-z-blyzkoho-skhodu)<br>
@@ -32,6 +46,7 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 00:21 [Поліція Чехії підтвердила кокаїн в авто митрополита РПЦ](https://ua.korrespondent.net/world/4883840-politsiia-chekhii-pidtverdyla-kokain-v-avto-mytropolyta-rpts)<br>
 
 ## as.com
+11:28 [Sergio Scariolo tiene una obsesión: defensa, defensa y defensa](https://as.com/baloncesto/acb/sergio-scariolo-tiene-una-obsesion-defensa-defensa-y-defensa-f202606-n/)<br>
 08:27 [El Madrid continuará en la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-continuara-en-la-euroliga-f202606-n/)<br>
 07:33 [Resumen del Kosner Baskonia vs. Asisa Badalona, playoffs de Liga Endesa](https://as.com/baloncesto/videos/resumen-del-kosner-baskonia-vs-asisa-badalona-playoffs-de-liga-endesa-f202606-v/)<br>
 07:33 [Resumen del Kosner Baskonia vs. Asisa Badalona, playoffs de Liga Endesa](https://as.com/baloncesto/videos/resumen-del-kosner-baskonia-vs-asisa-badalona-playoffs-de-liga-endesa-f202606-v/)<br>
@@ -43,6 +58,37 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 01:00 [Así queda el playoff de la Liga Endesa: cuadro, emparejamientos y cuándo se juegan los partidos](https://as.com/baloncesto/acb/asi-quedan-los-playoffs-de-la-liga-endesa-cuadro-emparejamientos-y-cuando-se-juegan-los-partidos-f202605-n/)<br>
 
 ## www.elperiodico.com
+13:40 [La red empresarial aragonesa, clave del crecimiento y la competitividad del territorio](https://www.elperiodico.com/es/sociedad/20260604/red-empresarial-aragonesa-clave-crecimiento-bc-131013164)<br>
+13:38 [Ayuso espera al Papa desde la Asamblea de Madrid: "Respetamos la verdad, las tradiciones, se tenga o no se tenga fe"](https://www.elperiodico.com/es/politica/20260604/ayuso-espera-papa-asamblea-madrid-131013037)<br>
+13:37 [La agenda del Papa en España en 120 segundos](https://www.elperiodico.com/es/videos/sociedad/agenda-papa-leon-xiv-espana-120-segundos/131012903.shtml)<br>
+13:32 [La dueña de Estrella Galicia roza los 1.000 millones de facturación y Morás ya produce el 20% de la cerveza](https://www.elperiodico.com/es/economia/20260604/estrella-galicia-1-000-millones-de-facturacion-moras-produce-20-de-la-cerveza-ignacio-rivera-131012587)<br>
+13:26 [Rocío, propietaria de 75 habitaciones: “El beneficio mínimo por piso suele ser de unos 410 euros y la inversión inicial se recupera en seis o siete meses”](https://www.elperiodico.com/es/economia/20260604/rocio-propietaria-75-habitaciones-to-rent-inversion-vivienda-dv-131011289)<br>
+13:25 [Verdades y mentiras sobre el preacuerdo entre sindicatos y Educació rechazado por los docentes: ¿qué se votaba exactamente?](https://www.elperiodico.com/es/sociedad/20260604/verdades-mentiras-acuerdo-profesores-maestros-cataluna-govern-educacio-votacion-130917498)<br>
+13:23 [Foro Mediterráneo: Gobernar la movilidad sin romper el sistema en las islas](https://www.elperiodico.com/es/economia/20260604/foro-mediterraneo-gobernar-movilidad-romper-131011936)<br>
+13:19 [El precio del euríbor hoy, 4 de junio: mazazo para los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20260604/precio-euribor-hoy-4-junio-dv-131011387)<br>
+13:15 [Libertad Delgado, escritora: "No sé escribir sobre gente normal y básica porque yo nunca lo he sido"](https://www.elperiodico.com/es/ocio-y-cultura/20260604/libertad-delgado-no-se-escribir-gente-basica-normal-entrevista-un-eden-huesos-flor-130706551)<br>
+13:11 [Urtasun califica de "vergüenza" la sentencia de las pinturas de Sijena, pero insiste en que no puede hacer nada al respecto](https://www.elperiodico.com/es/ocio-y-cultura/20260604/urtasun-califica-verguenza-sentencia-pinturas-131008939)<br>
+13:00 [Ni sueldo ni ascenso profesional: los jóvenes consideran que el éxito es trabajar en lo que les gusta y poder conciliar](https://www.elperiodico.com/es/sociedad/20260604/jovenes-espanoles-exito-gustar-trabajo-conciliar-130974105)<br>
+12:52 [Más de 39.500 profesores catalanes tumban el preacuerdo con Educació: mañana habrá una nueva huelga general](https://www.elperiodico.com/es/videos/sociedad/39500-profesores-catalanes-tumban-preacuerdo-educacio-manana-nueva-huelga-general-video/131010106.shtml)<br>
+12:18 [Cómo se reparten los gastos de la visita del Papa a Barcelona: la Generalitat y el ayuntamiento pagarán parte de los actos](https://www.elperiodico.com/es/barcelona/20260604/visita-papa-barcelona-costes-generalitat-ayuntamiento-131004687)<br>
+12:16 [Más de 39.500 profesores catalanes tumban el preacuerdo con Educació: mañana habrá una nueva huelga general](https://www.elperiodico.com/es/sociedad/20260604/profesores-rechazan-preacuerdo-educacion-govern-catalanes-tumba-preacuerdo-131001855)<br>
+12:09 [La UCO "deduce" de los mensajes interceptados a Leire Díez que Pedro Sánchez conocía la actividad que desarrollaba la 'fontanera' del PSOE](https://www.elperiodico.com/es/politica/20260604/uco-deduce-mensajes-interceptados-leire-131007720)<br>
+12:02 [El precio de viajar y ponerse enfermo en el extranjero: 113.584 euros en Malawi, 33.234 en Mónaco y 21.370 en Estados Unidos](https://www.elperiodico.com/es/sanidad/20260604/precio-viajar-ponerse-enfermo-extranjero-131005197)<br>
+12:01 [Los pediatras exigen medidas para combatir las altas temperaturas en los colegios: "El calor en las aulas ya es un riesgo para la salud infantil"](https://www.elperiodico.com/es/sociedad/20260604/pediatras-exigen-frenar-calor-colegios-131005816)<br>
+11:57 [La OCU emite un aviso sobre los parches para adelgazar](https://www.elperiodico.com/es/salud/20260604/parches-adelgazar-ocu-efectos-secundarios-dv-131002769)<br>
+11:57 [David Sánchez niega que interviniera en la creación y adjudicación de su puesto de trabajo](https://www.elperiodico.com/es/videos/politica/david-sanchez-niega-interviniera-creacion-diputacion/131006935.shtml)<br>
+11:46 [La oposición descalifica los presupuestos de Illa y ve a Catalunya al borde del "colapso"](https://www.elperiodico.com/es/politica/20260604/oposicion-descalifica-presupuestos-illa-cataluna-borde-colapso-131001540)<br>
+11:42 [El expresidente de la Diputación de Badajoz: "Pedro Sánchez no me pudo hablar de su hermano, porque ni siquiera era consciente de que lo tenía"](https://www.elperiodico.com/es/videos/politica/expresidente-diputacion-badajoz-pedro-sanchez/131006164.shtml)<br>
+11:42 [Preacuerdo en el ERE de Nestlé: los despidos bajan a 242 trabajadores, la mitad en Catalunya](https://www.elperiodico.com/es/economia/20260604/nestle-ere-acuerdo-despidos-afectacion-cataluna-131005779)<br>
+11:38 [Zapatero no acudirá a los actos del Papa a los que está invitado: declina ir al Palacio Real y al Congreso](https://www.elperiodico.com/es/politica/20260604/zapatero-no-acudira-actos-papa-invitado-palacio-real-congreso-131005867)<br>
+11:33 [La floristería Soriano anuncia su cierre tras 80 años en la avenida Gaudí, harta del turismo y del ayuntamiento](https://www.elperiodico.com/es/barcelona/eixample/20260604/floristeria-soriano-anuncia-cierre-80-anos-avenida-gaudi-131003227)<br>
+11:20 [El cardenal Omella confirma que el Papa hablará catalán en la bendición de la torre de Jesús de la Sagrada Família](https://www.elperiodico.com/es/sociedad/20260604/cardenal-omella-confirma-papa-leon-xiv-si-hablara-catalan-bendicion-torre-jesus-sagrada-familia-131002278)<br>
+11:05 [¿Quién es J. L., la terapeuta que trató a los Andic y que la jueza del caso quiere investigar?](https://www.elperiodico.com/es/sociedad/20260604/j-l-terapeuta-trato-andic-130982810)<br>
+11:04 [Video | Gallardo: "Pedro Sánchez no me pudo hablar de su hermano, porque ni siquiera era consciente de que lo tenía"](https://www.elperiodico.com/es/videos/politica/video-gallardo-pedro-sanchez-pudo/131011261.shtml)<br>
+11:00 [La AIReF avisa del gran cambio de las pensiones: en 2050 representarán mucho menos salario que ahora](https://www.elperiodico.com/es/economia/20260604/pensiones-espana-bajaran-2031-en-2050-representaran-menos-salario-dv-130936865)<br>
+10:56 [La presidenta del PSOE conocía por Cerdán las maniobras para "reconducir" las causas que afectaban a Sánchez con "ayuda cualificada", según la UCO](https://www.elperiodico.com/es/politica/20260604/presidenta-psoe-conocia-cerdan-maniobras-131004029)<br>
+10:55 [El PSC denuncia que Badalona no podrá optar a hasta 168 millones para invertir en vivienda por no poder pagar a tiempo a proveedores](https://www.elperiodico.com/es/barcelona/20260604/psc-denuncia-badalona-podra-optar-168-millones-invertir-vivienda-no-poder-pagar-a-tiempo-proveedores-130999918)<br>
+10:48 [Barcelona dibuja el futuro de su comercio de proximidad](https://www.elperiodico.com/es/mas-barcelona/20260604/barcelona-dibuja-futuro-comercio-proximidad-bc-130919313)<br>
 10:44 [La UCO registra la empresa vasca Tubos Reunidos en busca de pruebas de desvío de ayudas públicas](https://www.elperiodico.com/es/politica/20260604/uco-registra-empresa-vasca-tubos-131003491)<br>
 10:34 [Muere la artista francoiraní Marjane Satrapi, autora del popular cómic 'Persépolis', a los 56 años](https://www.elperiodico.com/es/ocio-y-cultura/20260604/muere-marjane-satrapi-persepolis-131002934)<br>
 10:30 [Crítica de 'Los ilusos 13+13': Jonás Trueba añade escenas en color y encuadres distintos a la película que gestó su estilo](https://www.elperiodico.com/es/ocio-y-cultura/20260604/critica-ilusos-jonas-trueba-130990674)<br>
