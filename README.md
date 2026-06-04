@@ -1,9 +1,13 @@
-# News for 2026-06-04 23:20
+# News for 2026-06-05 00:48
 
 Previous day: [2026-06-03](./data/2026-06-03.md)
 
 ## ua.korrespondent.net
+23:53 ["Флеш" оцінив запаси ракет та дронів у РФ](https://ua.korrespondent.net/world/russia/4884125-flesh-otsinyv-zapasy-raket-ta-droniv-u-rf)<br>
+23:20 [Трамп відреагував на лист Зеленського Путіну](https://ua.korrespondent.net/world/4884120-tramp-vidreahuvav-na-lyst-zelenskoho-putinu)<br>
+22:59 [Історичний удар по Балтиці. ЗСУ змінюють хід війни](https://ua.korrespondent.net/ukraine/4884133-istorychnyi-udar-po-baltytsi-zsu-zminuiuit-khid-viiny)<br>
 22:52 [У МЗС прокоментували лист Зеленського Путіну](https://ua.korrespondent.net/ukraine/4884115-u-mzs-prokomentuvaly-lyst-zelenskoho-putinu)<br>
+22:30 [Крок до завершення війни. Лист Зеленського Путіну](https://ua.korrespondent.net/ukraine/4884129-krok-do-zavershennia-viiny-lyst-zelenskoho-putinu)<br>
 22:25 [РФ атакувала багатоповерхівку у Запоріжжі: 10 поранених](https://ua.korrespondent.net/city/zaporozhye/4884113-rf-atakuvala-bahatopoverkhivku-u-zaporizhzhi-10-poranenykh)<br>
 21:55 [У Кремлі відреагували на лист Зеленського](https://ua.korrespondent.net/world/russia/4884108-u-kremli-vidreahuvaly-na-lyst-zelenskoho)<br>
 21:34 [Зеленський звернувся до Путіна з пропозицією](https://ua.korrespondent.net/ukraine/4884105-zelenskyi-zvernuvsia-do-putina-z-propozytsiieui)<br>
@@ -92,6 +96,11 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 00:21 [Поліція Чехії підтвердила кокаїн в авто митрополита РПЦ](https://ua.korrespondent.net/world/4883840-politsiia-chekhii-pidtverdyla-kokain-v-avto-mytropolyta-rpts)<br>
 
 ## as.com
+23:56 [Scariolo: “Esta victoria nos permite descargar tensión”](https://as.com/baloncesto/acb/scariolo-esta-victoria-nos-permite-descargar-tension-f202606-n/)<br>
+23:46 [Resumen del Tenerife vs Real Madrid](https://as.com/baloncesto/videos/resumen-del-tenerife-vs-real-madrid-f202606-v/)<br>
+23:46 [Resumen del Tenerife vs Real Madrid](https://as.com/baloncesto/videos/resumen-del-tenerife-vs-real-madrid-f202606-v/)<br>
+23:46 [Resumen del Tenerife vs Real Madrid](https://as.com/baloncesto/videos/resumen-del-tenerife-vs-real-madrid-f202606-v/)<br>
+23:20 [Respuesta de campeón](https://as.com/baloncesto/acb/respuesta-de-campeon-f202606-n/)<br>
 23:06 [El Madrid vuelve a respirar](https://as.com/opinion/el-madrid-vuelve-a-respirar-f202606-n/)<br>
 22:12 [España también se queda fuera del cuadro femenino del 3x3](https://as.com/baloncesto/mas_baloncesto/espana-tambien-se-queda-fuera-del-cuadro-femenino-del-3x3-f202606-n/)<br>
 21:53 [Pascual: “Han sido decisivas las faltas de Vesely”](https://as.com/baloncesto/acb/pascual-han-sido-decisivas-las-faltas-de-vesely-f202606-n/)<br>
@@ -116,6 +125,7 @@ Previous day: [2026-06-03](./data/2026-06-03.md)
 01:00 [Así queda el playoff de la Liga Endesa: cuadro, emparejamientos y cuándo se juegan los partidos](https://as.com/baloncesto/acb/asi-quedan-los-playoffs-de-la-liga-endesa-cuadro-emparejamientos-y-cuando-se-juegan-los-partidos-f202605-n/)<br>
 
 ## www.elperiodico.com
+23:59 ['Gerda Taro. Fotógrafa en la guerra de España', de Fernando Olmeda: recuperar lo colectivo](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260604/fernando-olmeda-critica-libro-gerda-taro-130623316)<br>
 22:55 [EEUU emite sanciones contra el presidente de Cuba, Miguel Díaz-Canel](https://www.elperiodico.com/es/internacional/20260604/eeuu-emite-sanciones-presidente-cuba-diaz-canel-131036282)<br>
 22:44 [La directora de la Guardia Civil rechazó readmitir un agente sancionado como le pidió Leire Díez](https://www.elperiodico.com/es/politica/20260604/directora-guardia-civil-rechazo-readmitir-agente-sancionado-leire-diez-131036090)<br>
 22:38 [La CIAF propone dos laboratorios independientes para analizar los carriles fracturados del accidente de Adamuz](https://www.elperiodico.com/es/economia/20260604/ciaf-laboratorios-independientes-analisis-carriles-accidente-adamuz-cordoba-131036020)<br>
