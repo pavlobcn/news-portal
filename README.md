@@ -1,4 +1,4 @@
-# News for 2026-06-06 00:47
+# News for 2026-06-06 01:52
 
 Previous day: [2026-06-04](./data/2026-06-04.md)
 
@@ -6,6 +6,7 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 23:56 [Фіцо вибиватиме з ЄС компенсації за військову техніку, передану Україні](https://ua.korrespondent.net/world/4884396-fitso-vybyvatyme-z-yes-kompensatsii-za-viiskovu-tekhniku-peredanu-ukraini)<br>
 23:25 [Іран висунув умову США для мирної угоди](https://ua.korrespondent.net/world/4884394-iran-vysunuv-umovu-ssha-dlia-myrnoi-uhody)<br>
 22:54 [Російський дрон цілеспрямовано атакував авто поліції на Харківщині](https://ua.korrespondent.net/ukraine/4884392-rosiiskyi-dron-tsilespriamovano-atakuvav-avto-politsii-na-kharkivschyni)<br>
+22:35 [Не хоче домовлятися. Путін відповів Зеленському](https://ua.korrespondent.net/ukraine/4884406-ne-khoche-domovliatysia-putin-vidpoviv-zelenskomu)<br>
 21:55 [Зеленський дав оцінку відповіді Путіна на лист](https://ua.korrespondent.net/ukraine/4884384-zelenskyi-dav-otsinku-vidpovidi-putina-na-lyst)<br>
 21:34 [Трафік через Ормузьку протоку майже зупинився - ЗМІ](https://ua.korrespondent.net/world/4884381-trafik-cherez-ormuzku-protoku-maizhe-zupynyvsia-zmi)<br>
 21:12 [Трамп зробив заяву про Зеленського і Путіна](https://ua.korrespondent.net/world/4884377-tramp-zrobyv-zaiavu-pro-zelenskoho-i-putina)<br>
