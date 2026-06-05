@@ -1,8 +1,9 @@
-# News for 2026-06-05 23:46
+# News for 2026-06-06 00:47
 
 Previous day: [2026-06-04](./data/2026-06-04.md)
 
 ## ua.korrespondent.net
+23:56 [Фіцо вибиватиме з ЄС компенсації за військову техніку, передану Україні](https://ua.korrespondent.net/world/4884396-fitso-vybyvatyme-z-yes-kompensatsii-za-viiskovu-tekhniku-peredanu-ukraini)<br>
 23:25 [Іран висунув умову США для мирної угоди](https://ua.korrespondent.net/world/4884394-iran-vysunuv-umovu-ssha-dlia-myrnoi-uhody)<br>
 22:54 [Російський дрон цілеспрямовано атакував авто поліції на Харківщині](https://ua.korrespondent.net/ukraine/4884392-rosiiskyi-dron-tsilespriamovano-atakuvav-avto-politsii-na-kharkivschyni)<br>
 21:55 [Зеленський дав оцінку відповіді Путіна на лист](https://ua.korrespondent.net/ukraine/4884384-zelenskyi-dav-otsinku-vidpovidi-putina-na-lyst)<br>
@@ -92,6 +93,7 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 07:07 [Un edificio con influencia soviética](https://as.com/baloncesto/mas_baloncesto/un-edificio-con-influencia-sovietica-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Reducir la brecha digital y el fracaso escolar en la juventud gitana](https://www.elperiodico.com/es/sociedad/20260605/reducir-brecha-digital-fracaso-escolar-bc-131081754)<br>
 23:38 [El Joventut vapulea al Baskonia y fuerza el tercer partido](https://www.elperiodico.com/es/deportes/20260605/joventut-vapulea-baskonia-fuerza-tercer-131081326)<br>
 22:29 [Libros bajo la luna de 'abril': la fiesta que alargó la Feria más allá del Retiro para celebrar el pulso del mundo editorial](https://www.elperiodico.com/es/ocio-y-cultura/20260605/libros-luna-abril-fiesta-feria-libro-escritores-131080112)<br>
 21:42 [Moncloa ratifica que Sánchez no se reunió con Leire Díez tras las anotaciones publicadas de la agenda de la exmilitante](https://www.elperiodico.com/es/sociedad/20260605/moncloa-sanchez-reunion-leire-diez-anotaciones-agenda-131078563)<br>
