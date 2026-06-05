@@ -1,8 +1,23 @@
-# News for 2026-06-05 12:19
+# News for 2026-06-05 15:30
 
 Previous day: [2026-06-04](./data/2026-06-04.md)
 
 ## ua.korrespondent.net
+15:19 [Нафта з Бразилії може замінити для Азії постачання з Ірану](https://ua.korrespondent.net/business/economics/4884297-nafta-z-brazylii-mozhe-zaminyty-dlia-azii-postachannia-z-iranu)<br>
+15:07 [Глава МЗС Словаччини прибув з візитом у Вінницю](https://ua.korrespondent.net/ukraine/4884295-hlava-mzs-slovachchyny-prybuv-z-vizytom-u-vinnytsui)<br>
+14:56 [ВМС відреагували на вибух дрона в порту Румунії](https://ua.korrespondent.net/ukraine/4884293-vms-vidreahuvaly-na-vybukh-drona-v-portu-rumunii)<br>
+14:50 [Отримали вирок колаборантки, які очолили "суди" на окупованій Донеччині](https://ua.korrespondent.net/ukraine/4884291-otrymaly-vyrok-kolaborantky-yaki-ocholyly-sudy-na-okupovanii-donechchyni)<br>
+14:28 [ЄС і ЄБРР запускають нову програму відновлення бізнесу в Україні](https://ua.korrespondent.net/business/4884287-yes-i-yebrr-zapuskauit-novu-prohramu-vidnovlennia-biznesu-v-ukraini)<br>
+14:22 [Викрито агентів РФ, одна з них закликала ударити Орєшніком по Києву](https://ua.korrespondent.net/ukraine/4884282-vykryto-ahentiv-rf-odna-z-nykh-zaklykala-udaryty-orieshnikom-po-kyievu)<br>
+14:18 [Атака СБС: Азербайджан заявив про загибель моряків](https://ua.korrespondent.net/world/4884284-ataka-sbs-azerbaidzhan-zaiavyv-pro-zahybel-moriakiv)<br>
+14:12 [НБУ оштрафував мережі платіжних терміналів EasyPay і City24 - ЗМІ](https://ua.korrespondent.net/business/financial/4884280-nbu-oshtrafuvav-merezhi-platizhnykh-terminaliv-EasyPay-i-City24-zmi)<br>
+13:49 [Україна повернула з полону 185 воїнів і цивільного](https://ua.korrespondent.net/ukraine/4884273-ukraina-povernula-z-polonu-185-voiniv-i-tsyvilnoho)<br>
+13:46 [Росіяни вдарили по Чернігову, шестеро постражалих](https://ua.korrespondent.net/ukraine/4884271-rosiiany-vdaryly-po-chernihovu-shestero-postrazhalykh)<br>
+13:39 [Експосадовця РТЦК викрили на схемі для ухилянтів](https://ua.korrespondent.net/ukraine/4884269-eksposadovtsia-rttsk-vykryly-na-skhemi-dlia-ukhyliantiv)<br>
+13:33 [Єврокомісія прокоментувала лист Зеленського Путіну](https://ua.korrespondent.net/world/4884265-yevrokomisiia-prokomentuvala-lyst-zelenskoho-putinu)<br>
+13:18 [У Запоріжжі агент РФ намагався навести удар по СІЗО, аби втекти з-під варти](https://ua.korrespondent.net/ukraine/4884263-u-zaporizhzhi-ahent-rf-namahavsia-navesty-udar-po-sizo-aby-vtekty-z-pid-varty)<br>
+13:18 [Більше ніяких "зроблю завтра": три кроки до перемоги над відкладанням справ](https://ua.korrespondent.net/articles/4884257-bilshe-niiakykh-zroblui-zavtra-try-kroky-do-peremohy-nad-vidkladanniam-sprav)<br>
+13:15 [Зеленський відреагував на удар РФ по Київщині](https://ua.korrespondent.net/ukraine/4884261-zelenskyi-vidreahuvav-na-udar-rf-po-kyivschyni)<br>
 12:03 [Місія МВФ в Києві перевіряє як Україна виконує структурні маяки](https://ua.korrespondent.net/articles/4884231-misiia-mvf-v-kyievi-pereviriaie-yak-ukraina-vykonuie-strukturni-maiaky)<br>
 11:59 [Російський дрон поцілив по авто Червоного Хреста](https://ua.korrespondent.net/ukraine/4884228-rosiiskyi-dron-potsilyv-po-avto-chervonoho-khresta)<br>
 11:51 [На ЗАЕС ввели локальне перемир'я - МАГАТЕ](https://ua.korrespondent.net/ukraine/4884227-na-zaes-vvely-lokalne-peremyria-mahate)<br>
@@ -37,9 +52,33 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 00:21 [Зеленський – Путіну: Вам доведеться більше боротися за особисте існування](https://ua.korrespondent.net/ukraine/4884130-zelenskyi-putinu-vam-dovedetsia-bilshe-borotysia-za-osobyste-isnuvannia)<br>
 
 ## as.com
+13:09 [España, al rincón de pensar](https://as.com/baloncesto/mas_baloncesto/espana-al-rincon-de-pensar-f202606-n/)<br>
 07:07 [Un edificio con influencia soviética](https://as.com/baloncesto/mas_baloncesto/un-edificio-con-influencia-sovietica-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:27 [León XIV: voz, conciencia y necesidad](https://www.elperiodico.com/es/opinion/20260605/leon-xiv-voz-conciencia-necesidad-articulo-josep-cuni-131064264)<br>
+15:22 [El dispositivo por la visita del Papa a España contará con un control de todos los espacios](https://www.elperiodico.com/es/videos/sociedad/dispositivo-visita-papa-espana-contara/131064087.shtml)<br>
+15:11 ['Importar pobreza masiva'](https://www.elperiodico.com/es/opinion/20260605/importar-pobreza-masiva-papa-isabel-diaz-ayuso-articulo-juan-cruz-ruiz-131033097)<br>
+15:09 [Pedraz accede a la petición de la UCO y reclama la información bancaria durante dos años del PSOE y las cuentas de Leire Díez](https://www.elperiodico.com/es/politica/20260605/pedraz-accede-peticion-uco-reclama-131063861)<br>
+15:08 [La metamorfosis de la Modelo de cárcel a ágora de equipamientos ciudadana finalizará en 2035 con una inversión de unos 200 millones de euros](https://www.elperiodico.com/es/barcelona/eixample/20260605/metamorfosis-modelo-carcel-agora-equipamientos-131063267)<br>
+15:04 [El Gobierno afirma que el reparto de fondos para climatizar las aulas dependerá de las comunidades y de criterios como el número de alumnos](https://www.elperiodico.com/es/sociedad/20260605/gobierno-climatizacion-aulas-reparto-fondos-comunidades-autonomas-131056211)<br>
+15:00 [Las impresionantes cifras que explican la visita del Papa a España](https://www.elperiodico.com/es/videos/sociedad/impresionantes-cifras-explican-visita-papa-leon-xiv-espana/131063481.shtml)<br>
+14:41 [La presidenta del Poder Judicial insiste ante las críticas contra los jueces: "Todo intento de injerencia amenaza el Estado de Derecho"](https://www.elperiodico.com/es/politica/20260605/presidenta-judicial-insiste-criticas-jueces-131062762)<br>
+14:41 [Somos tantos y tan pocos](https://www.elperiodico.com/es/opinion/20260605/demografia-spacex-articulo-marti-saballs-pons-131055686)<br>
+14:41 [El Govern busca que el futuro Clínic beneficie a L'Hospitalet: "Trabajamos por vertebrar actividad en salud e investigación"](https://www.elperiodico.com/es/barcelona/20260605/govern-busca-futuro-clinic-beneficie-hospitalet-trabajamos-por-vertebrar-actividad-en-salud-e-investigacion-131058681)<br>
+14:30 [Josefina, la interna que hablará al Papa León en la cárcel de Brians 1: “Es el acto más emocionante de mi vida”](https://www.elperiodico.com/es/sociedad/20260605/visita-carcel-papa-leon-brians-1-josefina-acto-mas-emocionante-mi-vida-131059887)<br>
+14:17 [Amor prohibido, duelo y surf en 'Todo lo que nunca fuimos', la nueva película de Maxi Iglesias](https://www.elperiodico.com/es/ocio-y-cultura/20260605/amor-prohibido-duelo-surf-nueva-130963805)<br>
+14:09 [La directora de la Guardia Civil intercambió mensajes con Leire Díez tras su última reunión y tras ser alertada de la “campaña de descrédito” a la UCO](https://www.elperiodico.com/es/politica/20260605/directora-guardia-civil-intercambio-mensajes-131060540)<br>
+13:49 [Sánchez: "Nunca he conocido ni nunca se me ha informado sobre las andanzas de la señora Leire Díez"](https://www.elperiodico.com/es/videos/politica/sanchez-he-conocido-informado-andanzas/131059338.shtml)<br>
+13:42 [Estado de salud de Bruce Willis: esta es la última actualización de su mujer, Emma Heming](https://www.elperiodico.com/es/gente/20260605/bruce-willis-demencia-emma-heming-fundacion-dv-131050250)<br>
+13:42 [Junqueras no descarta negociar presupuestos con Sánchez: "Damos la legislatura menos por muerta que el PSOE"](https://www.elperiodico.com/es/politica/20260605/oriol-junqueras-pedro-sanchez-presupuestos-estado-negociar-131053015)<br>
+13:25 [Israel y Hezbolá intensifican sus ataques sin un alto el fuego a la vista sobre el terreno](https://www.elperiodico.com/es/internacional/20260605/israel-hezbola-intensifican-ataques-alto-fuego-131058026)<br>
+13:20 [Los hoteleros y las agencias de viajes exigen al Gobierno derogar el registro de viajeros tras la advertencia de Bruselas](https://www.elperiodico.com/es/economia/20260605/hoteleros-agencias-viajes-exigen-derogar-registro-viajeros-bruselas-131057576)<br>
+13:18 [¿Se puede morir de pena? Las expertas responden, tras el fallecimiento de Marjane Satrapi, autora de 'Persépolis'](https://www.elperiodico.com/es/ser-feliz/20260605/morir-pena-expertas-responden-fallecimiento-131055090)<br>
+13:13 [Trama del PSOE, en directo: última hora del sumario del caso Leire Díez, trama Santos Cerdán y caso Zapatero](https://www.elperiodico.com/es/politica/20260605/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522)<br>
+12:30 [Reducir a 30 m²  pisos de 60 m²  para tener más alojamientos turísticos ilegales: Barcelona detecta 31 en una finca de Horta-Guinardó](https://www.elperiodico.com/es/barcelona/20260605/reducir-pisos-pisos-turisticos-ayuntamiento-barcelona-horta-finca-sanciones-131053251)<br>
+12:25 [El gigante suizo de las fragancias y aromas Givaudan compra la mayoría de Eurofragance](https://www.elperiodico.com/es/economia/20260605/gigante-suizo-fragancias-aromas-givaudan-compra-eurofragance-131052204)<br>
+12:17 [La estructura de la UCO](https://www.elperiodico.com/es/videos/politica/estructura-uco/131053854.shtml)<br>
 12:17 [iRobot amplía su catálogo con el Roomba Plus 415 Combo, robot aspirador y friegasuelos con base de autolimpieza](https://www.elperiodico.com/es/tecnologia/20260605/irobot-roomba-plus-precio-caracteristicas-131053269)<br>
 12:15 [El PP cita a la directora de la Guardia Civil al Senado por sus reuniones con Leire Díez](https://www.elperiodico.com/es/politica/20260605/pp-cita-directora-guardia-civil-131053737)<br>
 12:09 [La renovación de los parques eólicos antiguos permitirá reducir en un 67% el número de aerogeneradores](https://www.elperiodico.com/es/sociedad/20260605/renovacion-parques-eolicos-antiguos-permitira-131049200)<br>
@@ -67,6 +106,7 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 10:42 [Confirmado por la Seguridad Social: las viudas y viudos que superen estos ingresos pueden perder parte de su pensión en 2026](https://www.elperiodico.com/es/economia/20260605/seguridad-social-complemento-minimos-pension-viudedad-dv-131047504)<br>
 10:39 [Decenas de inquilinos del barrio del Gorg de Badalona se manifiestan contra las "prácticas abusivas de su propietario"](https://www.elperiodico.com/es/barcelona/20260605/decenas-inquilinos-barrio-gorg-badalona-manifiestan-practicas-abusivas-propietario-131045397)<br>
 10:21 [Marlaska apoya a la directora de la Guardia Civil... salvo si surgen nuevas pruebas de sus contactos con Leire](https://www.elperiodico.com/es/politica/20260605/marlaska-asegura-cree-dice-directora-general-guardia-civil-131047349)<br>
+09:35 [Víctor del Árbol, en el videopódcast del suplemento ABRIL: "Traducir una novela en cualquier lengua puede ser factible, el problema es hacer una carrera fuera"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260605/victor-arbol-videopodcast-suplemento-abril-130917837)<br>
 08:31 [Sílvia Orriols sale del Ayuntamiento de Berga tras ser abucheada en la Patum](https://www.elperiodico.com/es/videos/politica/silvia-orriols-sale-abucheada-ayuntamiento-berga-video/131044691.shtml)<br>
 08:17 [Abucheos contra Sílvia Orriols y gritos antifascistas en la Patum de Berga](https://www.elperiodico.com/es/videos/politica/abucheos-silvia-orriols-gritos-antifascistas-patum-berga-video/131044286.shtml)<br>
 08:10 ['Caso Pitanxo': acabar en la cárcel tras un naufragio pesquero, una excepción absoluta a nivel mundial](https://www.elperiodico.com/es/sociedad/20260605/caso-pitanxo-acabar-carcel-naufragio-131043985)<br>
