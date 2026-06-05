@@ -1,8 +1,22 @@
-# News for 2026-06-05 08:19
+# News for 2026-06-05 12:19
 
 Previous day: [2026-06-04](./data/2026-06-04.md)
 
 ## ua.korrespondent.net
+12:03 [Місія МВФ в Києві перевіряє як Україна виконує структурні маяки](https://ua.korrespondent.net/articles/4884231-misiia-mvf-v-kyievi-pereviriaie-yak-ukraina-vykonuie-strukturni-maiaky)<br>
+11:59 [Російський дрон поцілив по авто Червоного Хреста](https://ua.korrespondent.net/ukraine/4884228-rosiiskyi-dron-potsilyv-po-avto-chervonoho-khresta)<br>
+11:51 [На ЗАЕС ввели локальне перемир'я - МАГАТЕ](https://ua.korrespondent.net/ukraine/4884227-na-zaes-vvely-lokalne-peremyria-mahate)<br>
+11:43 [В порту у Румунії вибухнув морський дрон](https://ua.korrespondent.net/world/4884222-v-portu-u-rumunii-vybukhnuv-morskyi-dron)<br>
+11:30 [Президент Фінляндії закликав розширити ЄС до 40 країн](https://ua.korrespondent.net/world/4884219-prezydent-finliandii-zaklykav-rozshyryty-yes-do-40-krain)<br>
+11:28 [На Чернігівщині військовий заперечував вторгнення РФ](https://ua.korrespondent.net/ukraine/4884215-na-chernihivschyni-viiskovyi-zaperechuvav-vtorhnennia-rf)<br>
+11:23 [Путіну доповіли про лист Зеленського](https://ua.korrespondent.net/world/russia/4884212-putinu-dopovily-pro-lyst-zelenskoho)<br>
+11:13 [Побиття ветерана у Києві: підозру отримали працівник ТЦК і член ДФТГ](https://ua.korrespondent.net/city/kiev/4884210-pobyttia-veterana-u-kyievi-pidozru-otrymaly-pratsivnyk-ttsk-i-chlen-dfth)<br>
+10:57 [Операція Ескулап: в 16 регіонах обшуки у ВЛК](https://ua.korrespondent.net/ukraine/4884207-operatsiia-eskulap-v-16-rehionakh-obshuky-u-vlk)<br>
+10:54 [В Україні заборонили діяльність політичної партії Русь](https://ua.korrespondent.net/ukraine/4884205-v-ukraini-zaboronyly-diialnist-politychnoi-partii-rus)<br>
+10:47 [США та Японія інвестують $1 млрд у розробку проєктів з ШІ](https://ua.korrespondent.net/world/4884202-ssha-ta-yaponiia-investuuit-1-mlrd-u-rozrobku-proiektiv-z-shi)<br>
+10:27 [На кордоні з Румунією обмежать рух автомобілів](https://ua.korrespondent.net/ukraine/4884200-na-kordoni-z-rumuniieui-obmezhat-rukh-avtomobiliv)<br>
+10:20 [Голова Полтавського райсуду отримала 15 років тюрми](https://ua.korrespondent.net/ukraine/4884196-holova-poltavskoho-raisudu-otrymala-15-rokiv-tuirmy)<br>
+09:55 [На Київщині четверо загиблих через атаку "шахедів"](https://ua.korrespondent.net/ukraine/4884192-na-kyivschyni-chetvero-zahyblykh-cherez-ataku-shakhediv)<br>
 08:01 [У Києві під час огляду посилки на пошті стався вибух, є загиблий і поранені](https://ua.korrespondent.net/city/kiev/4884173-u-kyievi-pid-chas-ohliadu-posylky-na-poshti-stavsia-vybukh-ye-zahyblyi-i-poraneni)<br>
 07:35 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4884167-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
 07:19 [Росіяни вдарили по Дніпропетровщині, є загибла та поранені](https://ua.korrespondent.net/ukraine/4884164-rosiiany-vdaryly-po-dnipropetrovschyni-ye-zahybla-ta-poraneni)<br>
@@ -26,6 +40,34 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 07:07 [Un edificio con influencia soviética](https://as.com/baloncesto/mas_baloncesto/un-edificio-con-influencia-sovietica-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:17 [iRobot amplía su catálogo con el Roomba Plus 415 Combo, robot aspirador y friegasuelos con base de autolimpieza](https://www.elperiodico.com/es/tecnologia/20260605/irobot-roomba-plus-precio-caracteristicas-131053269)<br>
+12:15 [El PP cita a la directora de la Guardia Civil al Senado por sus reuniones con Leire Díez](https://www.elperiodico.com/es/politica/20260605/pp-cita-directora-guardia-civil-131053737)<br>
+12:09 [La renovación de los parques eólicos antiguos permitirá reducir en un 67% el número de aerogeneradores](https://www.elperiodico.com/es/sociedad/20260605/renovacion-parques-eolicos-antiguos-permitira-131049200)<br>
+12:07 [Un turista inglés intenta ahogar a una joven en el agua y a un niño en la arena en una playa de Benidorm](https://www.elperiodico.com/es/sucesos/20260605/turista-ingles-ahogar-joven-agua-nino-arena-playa-benidorm-131053191)<br>
+12:05 [El rincón de Mollet que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/20260605/gallecs-mollet-cine-peliculas-barcelona-cataluna-dv-loc-130794761)<br>
+11:57 [Marlaska: "No tengo ningún elemento que me haga entrever que eso no es cierto"](https://www.elperiodico.com/es/videos/politica/marlaska-elemento-haga-entrever/131051897.shtml)<br>
+11:52 [Mueren de sed unas 50 personas en el norte de Níger tras averiarse su camión en una zona del Sáhara](https://www.elperiodico.com/es/internacional/20260605/mueren-sed-50-personas-norte-niger-accidente-camion-desierto-131052335)<br>
+11:44 [La población de linces ibéricos alcanza un nuevo máximo histórico con hasta 2.663 individuos censados: "Es un éxito compartido"](https://www.elperiodico.com/es/sociedad/20260605/poblacion-linces-ibericos-record-espana-portugal-censo-131048990)<br>
+11:42 [Adiós al mal tiempo en Catalunya: Meteocat anuncia sol y temperaturas agradables](https://www.elperiodico.com/es/tiempo/20260605/tiempo-cataluna-sol-calor-meteocat-dv-loc-131046403)<br>
+11:42 [Leire Díez pregunta por Antonio Balas](https://www.elperiodico.com/es/videos/politica/leire-diez-pregunta-antonio-balas/131051902.shtml)<br>
+11:35 [Un padre crea una aplicación para calcular las probabilidades de conseguir plaza en una escuela infantil](https://www.elperiodico.com/es/sociedad/20260605/padre-crea-aplicacion-web-calcular-plaza-escuela-infantil-dv-130796405)<br>
+11:33 [El capitán Yepes habla sobre la Ley de Secretos Oficiales](https://www.elperiodico.com/es/videos/politica/capitan-yepes-habla-ley-secretos-leire-diez/131051048.shtml)<br>
+11:27 [El consumo habitual de alcohol entre los jóvenes españoles cae un 60% en las dos últimas décadas](https://www.elperiodico.com/es/sanidad/20260605/consumo-habitual-alcohol-jovenes-cae-dos-ultimas-decadas-131045707)<br>
+11:25 [El tabaco sigue siendo la principal de causa prevenible de cáncer en el mundo: "No existe una cantidad segura"](https://www.elperiodico.com/es/salud/20260605/tabaco-sigue-principal-causa-prevenible-cancer-130850450)<br>
+11:22 [El trámite con el que miles de trabajadores pueden sumar hasta 5 años de cotización si hicieron prácticas antes de 2024](https://www.elperiodico.com/es/economia/20260605/trabajadores-sumar-5-anos-cotizacion-practicas-antes-2024-dv-131049199)<br>
+11:20 [Un ensayo clínico logra tasas de curación funcional de hasta el 26% en pacientes con hepatitis B crónica](https://www.elperiodico.com/es/salud/20260605/ensayo-clinico-logra-tasas-curacion-hepatitis-b-gsk-130790852)<br>
+11:17 [Unas gafas para detectarlos a todos: Meta ya está añadiendo reconocimiento facial a sus 'smart glasses' con Ray-Ban y Oakley](https://www.elperiodico.com/es/tecnologia/20260605/meta-planea-anadir-reconocimiento-facial-gafas-inteligentes-ray-ban-ia-facebook-zuckerberg-131047878)<br>
+11:16 [Albiol insiste en retirar ayudas a las familias de alumnos absentistas](https://www.elperiodico.com/es/barcelona/20260605/albiol-insiste-retirar-ayudas-familias-alumnos-absentistas-131048280)<br>
+11:15 [El tabaquismo repunta en España: más de un tercio de la población fuma y el vapeo sigue al alza](https://www.elperiodico.com/es/salud/20260605/tabaquismo-repunta-espana-tercio-poblacion-fuma-130790041)<br>
+11:11 [La soledad del teletrabajo: un estudio alerta de su impacto en la salud mental](https://www.elperiodico.com/es/ser-feliz/20260605/soledad-teletrabajo-estudio-alerta-impacto-131048319)<br>
+11:10 [¿Necesitas tomar anticoagulantes como el Sintrom? Recuerda lo que dice el especialista](https://www.elperiodico.com/es/salud/20260605/anticoagulantes-sintrom-consejos-precauciones-95043071)<br>
+10:58 [Mette-Marit de Noruega, arropada por Haakon e Ingrid Alexandra, entra en el hospital antes de conocerse que espera un trasplante de pulmón](https://www.elperiodico.com/es/gente/20260605/mette-marit-noruega-hospital-haakon-ingrid-trasplante-pulmon-lista-espera-131048416)<br>
+10:55 [Iñaki Ortega, economista: “Hoy ser CEO se ha convertido en una profesión de riesgo”](https://www.elperiodico.com/es/economia/20260605/inaki-ortega-economista-hoy-ceo-131048878)<br>
+10:50 [Illa sitúa la financiación y la aplicación de la amnistía como principales retos de la segunda mitad de su mandato](https://www.elperiodico.com/es/politica/20260605/illa-situa-financiacion-aplicacion-amnistia-retos-segunda-mitad-mandato-131046591)<br>
+10:42 [Confirmado por la Seguridad Social: las viudas y viudos que superen estos ingresos pueden perder parte de su pensión en 2026](https://www.elperiodico.com/es/economia/20260605/seguridad-social-complemento-minimos-pension-viudedad-dv-131047504)<br>
+10:39 [Decenas de inquilinos del barrio del Gorg de Badalona se manifiestan contra las "prácticas abusivas de su propietario"](https://www.elperiodico.com/es/barcelona/20260605/decenas-inquilinos-barrio-gorg-badalona-manifiestan-practicas-abusivas-propietario-131045397)<br>
+10:21 [Marlaska apoya a la directora de la Guardia Civil... salvo si surgen nuevas pruebas de sus contactos con Leire](https://www.elperiodico.com/es/politica/20260605/marlaska-asegura-cree-dice-directora-general-guardia-civil-131047349)<br>
+08:31 [Sílvia Orriols sale del Ayuntamiento de Berga tras ser abucheada en la Patum](https://www.elperiodico.com/es/videos/politica/silvia-orriols-sale-abucheada-ayuntamiento-berga-video/131044691.shtml)<br>
 08:17 [Abucheos contra Sílvia Orriols y gritos antifascistas en la Patum de Berga](https://www.elperiodico.com/es/videos/politica/abucheos-silvia-orriols-gritos-antifascistas-patum-berga-video/131044286.shtml)<br>
 08:10 ['Caso Pitanxo': acabar en la cárcel tras un naufragio pesquero, una excepción absoluta a nivel mundial](https://www.elperiodico.com/es/sociedad/20260605/caso-pitanxo-acabar-carcel-naufragio-131043985)<br>
 08:10 [Guerra Ucrania - Rusia, en directo, última hora | Zelenski propone a Putin una reunión "cara a cara"](https://www.elperiodico.com/es/internacional/20260605/guerra-ucrania-rusia-directo-ultima-126605559)<br>
@@ -48,7 +90,10 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 06:01 [Los vuelos se disparan de precio antes del verano aunque el queroseno baje: viajar a Nueva York cuesta ya 344 euros más](https://www.elperiodico.com/es/economia/20260605/precio-vuelos-disparan-antes-verano-aunque-queroseno-baje-131018874)<br>
 06:01 [El auge de la espiritualidad: más allá del papa y las religiones](https://www.elperiodico.com/es/ser-feliz/20260605/auge-espiritualidad-papa-religiones-131002127)<br>
 06:01 [Catalunya vive la primavera más cálida desde que hay registros](https://www.elperiodico.com/es/sociedad/20260605/primavera-calida-record-temperatura-calor-cataluna-131005267)<br>
+06:01 [Beber agua del grifo: un pequeño gesto con gran impacto ambiental](https://www.elperiodico.com/es/vida-y-estilo/20260605/beber-agua-grifo-pequeno-gesto-bc-131042046)<br>
 06:00 [Encuesta GESOP: Los españoles aprueban al papa León XIV y le reciben entre la indiferencia y la curiosidad](https://www.elperiodico.com/es/politica/20260605/encuesta-papa-leon-xiv-visita-espana-madrid-barcelona-canarias-130984846)<br>
+06:00 [La nueva repotenciación eólica de Statkraft, referente en economía circular](https://www.elperiodico.com/es/medio-ambiente/20260605/repotenciacion-eolica-statkraft-bc-131042007)<br>
 02:59 [“Euros de tu Nómina”: la iniciativa de Banco Santander que convierte las donaciones de empleados en ayuda real](https://www.elperiodico.com/es/economia/20260605/euros-nomina-iniciativa-banco-santander-bc-131040556)<br>
 02:59 [Veolia impulsa la seguridad ambiental para las generaciones futuras](https://www.elperiodico.com/es/sociedad/20260605/veolia-impulsa-seguridad-ambiental-generaciones-bc-131009277)<br>
+02:59 [Veolia impulsa la seguridad ambiental para las generaciones futuras](https://www.elperiodico.com/es/sociedad/20260605/veolia-impulsa-seguridad-ambiental-generaciones-131009277)<br>
 00:09 [La portada de EL PERIÓDICO del 5 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260605/portada-periodico-5-junio-2026-131037937)<br>
