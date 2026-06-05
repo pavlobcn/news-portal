@@ -1,5 +1,230 @@
 [
   {
+    "title": "Зеленський дав оцінку відповіді Путіна на лист",
+    "link": "https://ua.korrespondent.net/ukraine/4884384-zelenskyi-dav-otsinku-vidpovidi-putina-na-lyst",
+    "pubDate": "2026-06-05 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452558.png\">Росія вчергове продемонструвала небажання завершувати війну проти України, зазначив глава держави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Китайська Chery вироблятиме авто на заводі Nissan у Великій Британії",
+    "link": "https://ua.korrespondent.net/business/auto/4884386-kytaiska-Chery-vyrobliatyme-avto-na-zavodi-Nissan-u-velykii-brytanii",
+    "pubDate": "2026-06-05 21:46:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452559.jpg\">Китайський автогігант продовжує розширення в Європі та планує розпочати складання своїх моделей у британському Сандерленді вже у 2027 році.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Moncloa ratifica que Sánchez no se reunió con Leire Díez tras las anotaciones publicadas de la agenda de la exmilitante",
+    "link": "https://www.elperiodico.com/es/sociedad/20260605/moncloa-sanchez-reunion-leire-diez-anotaciones-agenda-131078563",
+    "pubDate": "2026-06-05 21:42:17",
+    "category": "",
+    "description": "<h2>En la agenda aparecen decenas de alusiones sin contexto ni detalles a cargos políticos, jueces, fiscales e investigaciones judiciales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трафік через Ормузьку протоку майже зупинився - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4884381-trafik-cherez-ormuzku-protoku-maizhe-zupynyvsia-zmi",
+    "pubDate": "2026-06-05 21:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452549.jpg\">Сполучені Штати Америки та Іран досі не можуть домовитися про проміжну угоду для відкриття маршруту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pruebas de drones en el marco del programa Drone Dominance, en la base militar de Fort Benning, en Georgia.",
+    "link": "https://www.elperiodico.com/es/videos/internacional/pruebas-drones-marco-programa-drone-dominance/131078349.shtml",
+    "pubDate": "2026-06-05 21:30:49",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estados Unidos redobla su apuesta por los drones: decenas de fabricantes compiten por el pastel de 54.000 millones de dólares del Pentágono",
+    "link": "https://www.elperiodico.com/es/internacional/20260605/estados-unidos-redobla-apuesta-drones-fabricantes-compiten-programa-pentagono-131078352",
+    "pubDate": "2026-06-05 21:30:48",
+    "category": "",
+    "description": "<h2>El programa Drone Dominance aspira a producir un arsenal de más de 200.000 aparatos aéreos no tripulados antes de 2027 y evalúa a los fabricantes con simulaciones de combate</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Vaticano confirma que León XIV se reunirá con víctimas de abusos de sacerdotes durante su viaje a España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260605/vaticano-confirma-papa-leon-xiv-reunira-victimas-abusos-sexuales-iglesia-131078221",
+    "pubDate": "2026-06-05 21:25:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El encuentro ha sido organizado por la Conferencia Episcopal Española, según ha precisado la Santa Sede</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260605/bernabeu-volvera-llenarse-fe-encuentro-papa-iglesia-131074516\" target=\"_blank\">El Bernabéu volverá a llenarse de fe para acoger el encuentro entre el Papa y la Iglesia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sheinbaum derriba a una reportera tras chutar un balón en plena rueda de prensa",
+    "link": "https://www.elperiodico.com/es/videos/internacional/sheinbaum-derriba-reportera-chutar-balon-rueda-prensa/131078157.shtml",
+    "pubDate": "2026-06-05 21:20:52",
+    "category": "",
+    "description": "La reportera quiso coger el balón y tropezó delante de todas las cámaras",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У забороні ФІФА на ЧС-2026 прем'єр Британії побачив бажання мати вигоду",
+    "link": "https://ua.korrespondent.net/sport/football/4884378-u-zaboroni-fifa-na-chs-2026-premier-brytanii-pobachyv-bazhannia-maty-vyhodu",
+    "pubDate": "2026-06-05 21:16:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452524.jpg\">Кір Стармер засудив рішення Міжнародної федерації футболу заборонити футбольним фанатам приходити на стадіони зі своєю водою.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Albiol saca pecho de la caída del 9% de los delitos en Badalona el Día de la Guardia Urbana",
+    "link": "https://www.elperiodico.com/es/barcelona/20260605/albiol-saca-pecho-caida-9-delitos-badalona-dia-guardia-urbana-131077371",
+    "pubDate": "2026-06-05 21:15:34",
+    "category": "",
+    "description": "<h2>Los datos de criminalidad de Interior concluyen una bajada delictiva durante el primer trimestre de este 2026</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/badalona/20250210/delincuencia-crecio-badalona-primer-ano-albiol-alcaldia-114153409\" target=\"_blank\">La delincuencia creció en Badalona el primer año completo de la nueva alcaldía de Albiol</a></h2><h2>ENTREVISTA | <a href=\"https://www.elperiodico.com/es/barcelona/20260319/oscar-parada-nuevo-jefe-guardia-urbana-sensacion-seguridad-mejore-sustancialmente-128076359\" target=\"_blank\">Óscar Parada: \"Videovigilancia e IA ayudarán a mejorar la sensación de seguridad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп зробив заяву про Зеленського і Путіна",
+    "link": "https://ua.korrespondent.net/world/4884377-tramp-zrobyv-zaiavu-pro-zelenskoho-i-putina",
+    "pubDate": "2026-06-05 21:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452540.jpg\">Президент США заявив, що не заперечує, якщо Україна та Росія досягнуть миру без участі Сполучених Штатів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Euromillones hoy: resultados y comprobar números premiados en el sorteo del viernes, 5 de junio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260605/euromillones-hoy-5-de-junio-2026-resultados-comprobar-numeros-directo-131077246",
+    "pubDate": "2026-06-05 21:00:43",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los seis elementos que permiten reconocer a un Mini al primer vistazo",
+    "link": "https://www.elperiodico.com/es/motor/20260605/seis-elementos-permiten-reconocer-mini-primer-vistazo-130985686",
+    "pubDate": "2026-06-05 21:00:43",
+    "category": "",
+    "description": "<h2>La marca británica conserva intactas las señas de identidad visuales y las sensaciones al volante que han acompañado a sus modelos generación tras generación </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, sábado 6 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260605/horoscopo-hoy-sabado-6-junio-dv-130974309",
+    "pubDate": "2026-06-05 21:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El cofundador de LinkedIn deja el consejo de administración de Microsoft para centrarse en su empresa de IA",
+    "link": "https://www.elperiodico.com/es/economia/20260605/cofundador-linkedin-deja-consejo-microsoft-empresa-ia-131076747",
+    "pubDate": "2026-06-05 20:55:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El arzobispo de Tarragona, ante la llegada de León XIV: \"El Papa nos invitará a volver a lo esencial, a la vida interior\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260605/arzobispo-tarragona-joan-planellas-visita-papa-leon-xiv-cataluna-cardenal-omella-131072798",
+    "pubDate": "2026-06-05 20:50:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Joan Planellas agradece al arzobispo de Barcelona, Joan Josep Omella, la organización de la visita del Pontífice a Barcelona y valora que, ante polémicas como la de la lengua catalana, haya sabido escuchar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260604/cardenal-omella-confirma-papa-leon-xiv-si-hablara-catalan-bendicion-torre-jesus-sagrada-familia-131002278\" target=\"_blank\" rel=\"nofollow\">El cardenal Omella confirma que el Papa hablará catalán en la bendición de la torre de Jesús de la Sagrada Família</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На МКС оголошували тривогу через витік повітря у російському модулі",
+    "link": "https://ua.korrespondent.net/tech/space/4884375-na-mks-oholoshuvaly-tryvohu-cherez-vytik-povitria-u-rosiiskomu-moduli",
+    "pubDate": "2026-06-05 20:46:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452532.jpeg\">Астронавтам наказали одягнути скафандри та перейти до корабля Dragon, який у разі потреби міг бути використаний для екстреної евакуації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gunars Grinvalds, la enésima promesa que se le escapa al Madrid",
+    "link": "https://as.com/baloncesto/mas_baloncesto/gunars-grinvalds-la-enesima-promesa-que-se-le-escapa-al-madrid-f202606-n/",
+    "pubDate": "2026-06-05 20:43:10",
+    "category": "Baloncesto",
+    "description": "Otro de los jugadores más prometedores de la cantera blanca hace las maletas rumbo a la liga universitaria de Estados Unidos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una fuga de aire en la Estación Espacial Internacional obliga a los astronautas a refugiarse en una cápsula durante dos horas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/fuga-aire-estacion-espacial-internacional/131077126.shtml",
+    "pubDate": "2026-06-05 20:42:04",
+    "category": "",
+    "description": "El incidente obligó a la tripulación a ponerse los trajes espaciales dentro de la nave de rescate mientras los equipos en tierra evaluaban los daños",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio deja una llamativa humareda en la planta de Montesa Honda de Santa Perpètua de Mogoda",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-deja-llamativa-humareda-planta/131077090.shtml",
+    "pubDate": "2026-06-05 20:41:31",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Автомобілі на бензині відійдуть у минуле, як коні - Volkswagen",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4884373-avtomobili-na-benzyni-vidiidut-u-mynule-yak-koni-Volkswagen",
+    "pubDate": "2026-06-05 20:34:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452523.jpg\">У компанії переконані, що електромобілі витіснять машини з ДВЗ навіть без прямих заборон.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sofía Vergara elogia a España de cara al Mundial: \"Tiene muy buenos jugadores\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/sofia-vergara-elogia-espana-mundial-buenos-jugadores/131076889.shtml",
+    "pubDate": "2026-06-05 20:32:42",
+    "category": "",
+    "description": "La actriz destaca el papel integrador del Mundial: \"Es para olvidar las diferencias raciales, políticas y religiosas\"",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Скандал через УПА: Буданов прибув до Польщі",
+    "link": "https://ua.korrespondent.net/ukraine/4884371-skandal-cherez-upa-budanov-prybuv-do-polschi",
+    "pubDate": "2026-06-05 20:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452515.png\">Буданов на зустрічі в польському МЗС обговорив присвоєння підрозділу ССО імені \"Героїв УПА\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Riquelme y su plan para el baloncesto: un equipo femenino, seguir en la Euroliga, un pabellón propio...",
+    "link": "https://as.com/baloncesto/mas_baloncesto/riquelme-y-su-plan-para-el-baloncesto-un-equipo-femenino-seguir-en-la-euroliga-un-pabellon-propio-f202606-n/",
+    "pubDate": "2026-06-05 20:19:27",
+    "category": "Baloncesto",
+    "description": "El candidato a la presidencia del Madrid presentó un plan para reforzar la sección de baloncesto del club. “No podemos tratarlo como una sección secundaria”.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montesa-Honda, un icono industrial de las dos ruedas en España devorado por las llamas",
+    "link": "https://www.elperiodico.com/es/motor/20260605/montesa-honda-icono-industrial-dos-ruedas-131074083",
+    "pubDate": "2026-06-05 20:15:56",
+    "category": "",
+    "description": "<h2>Actualmente la factoría solo produce motos de trial del modelo Cota y algunos componentes para otros modelos de la marca y también de automoción</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260605/declarado-incendio-planta-montesa-honda-santa-perpetua-mogoda-131066417\" target=\"_blank\">Estabilizado el incendio en la planta de Montesa Honda en Santa Perpètua de Mogoda, que acaba con la nave colapsada y 150 evacuados</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Федоров назвав результати єБалів за травень",
     "link": "https://ua.korrespondent.net/ukraine/4884366-fedorov-nazvav-rezultaty-yebaliv-za-traven",
     "pubDate": "2026-06-05 20:05:00",
@@ -23,6 +248,15 @@
     "pubDate": "2026-06-05 20:00:24",
     "category": "",
     "description": "<h2 class=\"item\">El experto en economía ha realizado unas declaraciones contundentes sobre la realidad inmobiliaria de nuestro país</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260530/jaime-palomera-sindicat-llogateres-frenar-acumulacion-vivienda-proteger-democracia-130826804\">Jaime Palomera: \"Hay que frenar la acumulación de vivienda para proteger la democracia\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EL PERIÓDICO, premio Petxina Km 0 del Col·legi de Periodistes de Catalunya por la edición local de Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260605/periodico-premio-petxina-km-collegi-periodistes-tarragona-131077416",
+    "pubDate": "2026-06-05 20:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El reconocimiento quiere destacar \"una apuesta que refuerza la presencia informativa en el territorio y garantiza una cobertura periodística de proximidad\"</h2><h2 class=\"item\">AUDIENCIAS | <a href=\"https://www.elperiodico.com/es/sociedad/20260522/ranking-audiencia-gfk-el-periodico-refuerza-cuarto-medio-mas-leido-espana-lider-cataluna-130460663\">EL PERIÓDICO se refuerza como el cuarto medio más leído en España y líder en Catalunya</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
