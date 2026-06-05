@@ -1,8 +1,10 @@
-# News for 2026-06-05 22:08
+# News for 2026-06-05 23:46
 
 Previous day: [2026-06-04](./data/2026-06-04.md)
 
 ## ua.korrespondent.net
+23:25 [Іран висунув умову США для мирної угоди](https://ua.korrespondent.net/world/4884394-iran-vysunuv-umovu-ssha-dlia-myrnoi-uhody)<br>
+22:54 [Російський дрон цілеспрямовано атакував авто поліції на Харківщині](https://ua.korrespondent.net/ukraine/4884392-rosiiskyi-dron-tsilespriamovano-atakuvav-avto-politsii-na-kharkivschyni)<br>
 21:55 [Зеленський дав оцінку відповіді Путіна на лист](https://ua.korrespondent.net/ukraine/4884384-zelenskyi-dav-otsinku-vidpovidi-putina-na-lyst)<br>
 21:34 [Трафік через Ормузьку протоку майже зупинився - ЗМІ](https://ua.korrespondent.net/world/4884381-trafik-cherez-ormuzku-protoku-maizhe-zupynyvsia-zmi)<br>
 21:12 [Трамп зробив заяву про Зеленського і Путіна](https://ua.korrespondent.net/world/4884377-tramp-zrobyv-zaiavu-pro-zelenskoho-i-putina)<br>
@@ -81,12 +83,17 @@ Previous day: [2026-06-04](./data/2026-06-04.md)
 00:21 [Зеленський – Путіну: Вам доведеться більше боротися за особисте існування](https://ua.korrespondent.net/ukraine/4884130-zelenskyi-putinu-vam-dovedetsia-bilshe-borotysia-za-osobyste-isnuvannia)<br>
 
 ## as.com
+22:57 [Habrá tercer partido el domingo en el Buesa](https://as.com/baloncesto/habra-tercer-partido-el-domingo-en-el-buesa-f202606-n/)<br>
+21:02 [El Valencia vuela hacia semifinales](https://as.com/baloncesto/el-valencia-se-pasea-hacia-semifinales-f202606-n/)<br>
 20:43 [Gunars Grinvalds, la enésima promesa que se le escapa al Madrid](https://as.com/baloncesto/mas_baloncesto/gunars-grinvalds-la-enesima-promesa-que-se-le-escapa-al-madrid-f202606-n/)<br>
 20:19 [Riquelme y su plan para el baloncesto: un equipo femenino, seguir en la Euroliga, un pabellón propio...](https://as.com/baloncesto/mas_baloncesto/riquelme-y-su-plan-para-el-baloncesto-un-equipo-femenino-seguir-en-la-euroliga-un-pabellon-propio-f202606-n/)<br>
 13:09 [España, al rincón de pensar](https://as.com/baloncesto/mas_baloncesto/espana-al-rincon-de-pensar-f202606-n/)<br>
+12:23 [Miribilla tiene la palabra](https://as.com/baloncesto/miribilla-tiene-la-palabra-f202606-n/)<br>
 07:07 [Un edificio con influencia soviética](https://as.com/baloncesto/mas_baloncesto/un-edificio-con-influencia-sovietica-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:38 [El Joventut vapulea al Baskonia y fuerza el tercer partido](https://www.elperiodico.com/es/deportes/20260605/joventut-vapulea-baskonia-fuerza-tercer-131081326)<br>
+22:29 [Libros bajo la luna de 'abril': la fiesta que alargó la Feria más allá del Retiro para celebrar el pulso del mundo editorial](https://www.elperiodico.com/es/ocio-y-cultura/20260605/libros-luna-abril-fiesta-feria-libro-escritores-131080112)<br>
 21:42 [Moncloa ratifica que Sánchez no se reunió con Leire Díez tras las anotaciones publicadas de la agenda de la exmilitante](https://www.elperiodico.com/es/sociedad/20260605/moncloa-sanchez-reunion-leire-diez-anotaciones-agenda-131078563)<br>
 21:30 [Pruebas de drones en el marco del programa Drone Dominance, en la base militar de Fort Benning, en Georgia.](https://www.elperiodico.com/es/videos/internacional/pruebas-drones-marco-programa-drone-dominance/131078349.shtml)<br>
 21:30 [Estados Unidos redobla su apuesta por los drones: decenas de fabricantes compiten por el pastel de 54.000 millones de dólares del Pentágono](https://www.elperiodico.com/es/internacional/20260605/estados-unidos-redobla-apuesta-drones-fabricantes-compiten-programa-pentagono-131078352)<br>
