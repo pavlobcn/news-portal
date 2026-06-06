@@ -1,10 +1,271 @@
 [
   {
+    "title": "El Papa sale del Palacio Real en el papamóvil",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/papa-sale-palacio-real-papamovil/131094126.shtml",
+    "pubDate": "2026-06-06 13:46:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cientos de trabajadores de Nissan se manifiestan en Barcelona contra el ERE que plantea despedir a 211 trabajadores",
+    "link": "https://www.elperiodico.com/es/barcelona/20260606/cientos-trabajadores-nissan-manifiestan-barcelona-131093389",
+    "pubDate": "2026-06-06 13:40:52",
+    "category": "",
+    "description": "<h2 class=\"item\">A la protesta también se han sumado empleados de otras empresas que están afectados por expedientes de regulación</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Генштаб заявив про масштабні ураження в Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4884488-henshtab-zaiavyv-pro-masshtabni-urazhennia-v-rosii",
+    "pubDate": "2026-06-06 13:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453015.jpg\">Уражено базу флоту Кронштадт, арсенал, нафтову інфраструктуру в Ленінградській області та інші об’єкти рашистів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estados Unidos blinda la entrada de viajeros de zonas afectadas por el ébola y Europa refuerza la vigilancia epidémica",
+    "link": "https://www.elperiodico.com/es/internacional/20260606/estados-unidos-blinda-entrada-viajeros-ebola-europa-refuerza-vigilancia-epidemica-131093633",
+    "pubDate": "2026-06-06 13:36:14",
+    "category": "",
+    "description": "<h2>Hasta el momento hay 452 casos confirmados y 82 muertes en el Congo y 19 casos confirmados y dos fallecimientos en Uganda</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260605/oms-advierte-brote-ebola-avanza-rapido-republica-democratica-congo-mundo-corre-detras-131069971\">La OMS advierte que el brote de ébola avanza rápido en la República Democrática de Congo, mientras el mundo \"corre detrás\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський ексчемпіон заявив про бажання провести поєдинок з Усиком",
+    "link": "https://ua.korrespondent.net/sport/boks/4884484-rosiiskyi-ekschempion-zaiavyv-pro-bazhannia-provesty-poiedynok-z-usykom",
+    "pubDate": "2026-06-06 13:29:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453014.jpg\">Гассієв заговорив про другий бій з Усиком, засумнівавшись у нинішній формі українця.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un fugitivo condenado por narcotráfico se esconde durante meses en casa de su madre en Santa Cristina d’Aro después de no regresar a prisión",
+    "link": "https://www.elperiodico.com/es/sucesos/20260606/fugitivo-condenado-narcotrafico-esconde-casa-madre-prision-dv-131093059",
+    "pubDate": "2026-06-06 13:27:51",
+    "category": "",
+    "description": "<h2>Los Mossos d'Esquadra han localizado en Girona a un fugitivo que formaba parte de una organización de narcotraficantes dedicada al transporte de hachís desde Marruecos.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Летальна аварія у Києві: у водія нарахували 39 порушень ПДР",
+    "link": "https://ua.korrespondent.net/city/kiev/4884485-letalna-avariia-u-kyievi-u-vodiia-narakhuvaly-39-porushen-pdr",
+    "pubDate": "2026-06-06 13:20:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453004.jpg\">Ситуація, що склалась у покаранні порушників ПДР, потребує серйозного реформування, вважають в патрульній поліції.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Papa agradece a España su “compromiso activo con la paz” y la defensa del multilateralismo",
+    "link": "https://www.elperiodico.com/es/politica/20260606/papa-leon-xiv-agradece-espana-compromiso-paz-multilatealismo-131092921",
+    "pubDate": "2026-06-06 13:14:06",
+    "category": "",
+    "description": "<h2>León XIV anima a los españoles en su primer discurso del viaje apostólico a \"armonizar las demandas de autonomía y de unidad\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El refugio de Isabel San Sebastián en Asturias: la casa donde escribe sus novelas cerca del mar y en uno de los pueblos más bonitos de España",
+    "link": "https://www.elperiodico.com/es/gente/20260606/refugio-isabel-san-sebastian-asturias-dv-130728367",
+    "pubDate": "2026-06-06 13:11:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La escritora siempre introduce la región en sus novelas porque, confiesa, \"es mi casa y la tengo en mi corazón\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260514/rincon-norte-carmen-lomana-descansa-dv-129951271\">El rincón del norte favorito de Carmen Lomana para descansar: casa propia y una playa de arena blanca y aguas cristalinas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El divertido momento entre Margarita Robles y el Rey Felipe VI por un fallo de protocolo",
+    "link": "https://www.elperiodico.com/es/videos/politica/divertido-momento-margarita-robles-rey/131092805.shtml",
+    "pubDate": "2026-06-06 13:09:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"El mejor sitio para comer patatas bravas\": el bar de Sabadell elogiado por sus tapas",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260606/premio-bar-sabadell-aclamado-patatas-bravas-dv-loc-107289959",
+    "pubDate": "2026-06-06 13:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20240408/mejores-restaurantes-sabadell-100545286\" >Los mejores restaurantes de Sabadell que vale la pena probar</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240920/mejores-restaurantes-sabadell-dv-loc-105562865\" >Estos son los 5 restaurantes de Sabadell mejor puntuados en Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240131/recetas-mejores-croquetas-bravas-97558721\" >¿Croquetas o bravas? O ambas: las mejores de España</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere ahogado un joven de 27 años en la playa de Peñíscola",
+    "link": "https://www.elperiodico.com/es/sucesos/20260606/hombre-fallece-playa-peniscola-movilizar-131092607",
+    "pubDate": "2026-06-06 13:04:45",
+    "category": "",
+    "description": "<h2>Emergencias ha activado un amplio dispositivo coordinado entre los efectivos de rescate y los medios sanitarios </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Libros, monedas, productos asturianos y medallas: estos son los regalos que se han intercambiado los Reyes y León XIV tras la llegada del papa a España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/libros-monedas-productos-asturianos-medallas-regalos-papa-reyes-131091371",
+    "pubDate": "2026-06-06 13:02:44",
+    "category": "",
+    "description": "<h2>El Pontífice obsequió a Felipe VI y Letizia con un mosaico del Cristo Sol y una medalla que conmemora su viaje apostólico a España</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Papa dice unas palabras en catalán en el avión de viaje a Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20260606/papa-dice-palabras-catalan-avion-viaje-madrid-131092052",
+    "pubDate": "2026-06-06 13:01:55",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/papa-leon-xiv-si-hablara-catalan-bendicion-torre-jesus-sagrada-familia-barcelona-130946140\" target=\"_blank\">El Papa sí hablará en catalán en la bendición de la torre de Jesús de la Sagrada Família</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260606/expertos-papel-papa-politica-131002222\" target=\"_blank\">¿Qué papel han tenido los papas en la política internacional? Tres expertos reflexionan sobre su influencia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Intrahistoria de la campaña electoral del Real Madrid o cómo Riquelme hizo remangarse a Florentino",
+    "link": "https://www.elperiodico.com/es/deportes/20260606/intrahistoria-campana-electoral-real-madrid-florentino-perez-enrique-riquelme-131082483",
+    "pubDate": "2026-06-06 13:00:04",
+    "category": "",
+    "description": "<h2>Después de 20 años el socio madridista volverá a las urnas para decidir entre “la privatización del club” o “un caballo de Troya que viene a arruinar el Real Madrid”</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Rey denuncia el \"dolor causado por los casos de abuso\" sexual en la Iglesia y agradece la \"firmeza\" de León XIV para repararlos",
+    "link": "https://www.elperiodico.com/es/politica/20260606/rey-felipe-vi-papa-abusos-iglesia-131092343",
+    "pubDate": "2026-06-06 12:58:16",
+    "category": "",
+    "description": "<h2>El jefe del Estado hace referencia por primera vez a esta lacra a la que se enfrenta la comunidad eclesial</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vídeo | El papa León XIV llega a Madrid y desvela su equipo favorito: \"Eso es fácil\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/papa-leon-xiv-llega-madrid-equipo-favorito-fcbarcelona-real-madrid-dv-131092048",
+    "pubDate": "2026-06-06 12:56:20",
+    "category": "",
+    "description": "<h2>Provost ha elegido entre Barça y Real Madrid en el avión de Ita Airways</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260606/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248\" target=\"_blank\">El Papa en España, en directo: última hora de la llegada de León XIV a Madrid</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сирський погодив активні дії ЗСУ на півдні",
+    "link": "https://ua.korrespondent.net/ukraine/4884481-syrskyi-pohodyv-aktyvni-dii-zsu-na-pivdni",
+    "pubDate": "2026-06-06 12:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452992.jpg\">Росіяни зосередили понад 140 тисяч військових на трьох найгарячіших напрямках фронту на півдні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Empiezan las obras para transformar la avenida Roma de Barcelona en 'un gran paseo' que prioriza al peatón y las zonas verdes",
+    "link": "https://www.elperiodico.com/es/barcelona/20260606/empiezan-obras-transformar-avenida-roma-131091644",
+    "pubDate": "2026-06-06 12:52:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Los trabajos corresponden al primero de los tres tramos proyectados, tienen un coste de 4,4 millones de euros y finalizarán en la primavera de 2027</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así fue el saludo entre Sánchez y Ayuso en el aeropuerto en la llegada de León XIV",
+    "link": "https://www.elperiodico.com/es/videos/politica/saludo-sanchez-ayuso-aeropuerto-llegada/131092250.shtml",
+    "pubDate": "2026-06-06 12:52:43",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "León XIV habla en catalán de camino a España",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/leon-xiv-habla-catalan-camino-video/131092168.shtml",
+    "pubDate": "2026-06-06 12:51:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Колишній тренер Ліверпуля готовий очолити збірну",
+    "link": "https://ua.korrespondent.net/sport/football/4884479-kolyshnii-trener-liverpulia-hotovyi-ocholyty-zbirnu",
+    "pubDate": "2026-06-06 12:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452991.jpg\">Слот відмовився від запрошення Фулхема через амбіції очолити збірну Нідерландів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una pareja de enfermeros que estaban de vacaciones salvan la vida de un bebé en pleno vuelo: todo el equipo médico era inadecuado",
+    "link": "https://www.elperiodico.com/es/sucesos/20260606/pareja-enfermeros-salvan-vida-bebe-vuelo-vacaciones-dv-130987106",
+    "pubDate": "2026-06-06 12:34:58",
+    "category": "",
+    "description": "<h2>Riccardo Marchetto e Ilaria Valentin lograron salvar al pequeño aunque todos los suministros médicos a bordo eran inadecuados</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260115/mosso-salva-nino-morir-atragantado-restaurante-solsones-heimlich-125726579\">Un Mosso salva a un niño de morir atragantado en un restaurante de Solsona</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260308/sabria-boca-boca-siete-diez-127655985\">¿Sabría hacer un boca a boca? Siete de cada diez españoles, tampoco</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unas 200 personas desafían el cierre de Collserola con una caminata popular: \"Hace 6 meses que no podemos hacer salud\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260606/200-personas-desafian-cierre-collserola-caminata-popular-131091139",
+    "pubDate": "2026-06-06 12:33:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Mossos y Policía Local no han podido impedir el acceso del colectivo al parque</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260606/parc-collserola-barcelona-pierde-83-visitantes-peste-porcina-131086464\" target=\"_blank\">El Parc de Collserola de Barcelona pierde un 83% de visitantes ante las restricciones por la peste porcina</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tarragona prepara sus calles para la llegada del Tour de Francia",
+    "link": "https://www.elperiodico.com/es/videos/deportes/tarragona-prepara-calles-llegada-tour-video/131091036.shtml",
+    "pubDate": "2026-06-06 12:25:27",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 6 de junio en España por la Guerra de Irán: la bajada de los carburantes se prolonga un día más",
+    "link": "https://www.elperiodico.com/es/economia/20260606/precio-gasolina-diesel-hoy-6-junio-dv-131091048",
+    "pubDate": "2026-06-06 12:25:16",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Una familia se planta donde enterraron los restos descuartizados de un hermano asesinado: \"Queremos recuperar a nuestro Juan\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260606/familia-planta-enterraron-restos-descuartizados-131090615",
+    "pubDate": "2026-06-06 12:24:54",
+    "category": "",
+    "description": "<h2>Hermanos y sobrinos de un hombre asesinado hace 33 años en Denia presuntamente por sus padres, una hermana y un cuñado cuelgan una pancarta ante la casa donde están ocultos los restos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estado de los embalses hoy, 6 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/embalses-hoy-6-junio-catalunya-dv-131090993",
+    "pubDate": "2026-06-06 12:22:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Hola, Barcelona",
     "link": "https://www.elperiodico.com/es/opinion/20260606/hola-barcelona-opinion-agnes-marques-131090234",
     "pubDate": "2026-06-06 12:19:17",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США вдарили по радіолокаційних станціях Ірану",
+    "link": "https://ua.korrespondent.net/world/4884475-ssha-vdaryly-po-radiolokatsiinykh-stantsiiakh-iranu",
+    "pubDate": "2026-06-06 12:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452971.jpg\">Іран запустив сім балістичних ракет у напрямку Кувейту та Бахрейну за кілька годин після того, як американці збили чотири іранські дрони-камікадзе.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -182,6 +443,15 @@
   {
     "title": "Англійський грант націлився на українського воротаря",
     "link": "https://ua.korrespondent.net/sport/football/4884469-anhliiskyi-hrant-natsilyvsia-na-ukrainskoho-vorotaria",
+    "pubDate": "2026-06-06 11:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452959.jpg\">Час для кроку вперед: Анатолій Трубін може залишити Бенфіку в літнє трансферне вікно.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Англійський гранд націлився на українського воротаря",
+    "link": "https://ua.korrespondent.net/sport/football/4884469-anhliiskyi-hrand-natsilyvsia-na-ukrainskoho-vorotaria",
     "pubDate": "2026-06-06 11:43:00",
     "category": "Новини футболу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452959.jpg\">Час для кроку вперед: Анатолій Трубін може залишити Бенфіку в літнє трансферне вікно.",
@@ -515,6 +785,15 @@
   {
     "title": "El mercado de las cartas coleccionables: del patio del colegio a ventas millonarias",
     "link": "https://www.elperiodico.com/es/economia/20260606/mercado-cartas-coleccionables-patio-colegio-131068129",
+    "pubDate": "2026-06-06 09:01:02",
+    "category": "",
+    "description": "<h2>El pasado mes de febrero, la carta coleccionable más cara de la historia se vendió por más de 16 millones de dólares, con un mercado en expansión desenfrenada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El mercado de las cartas coleccionables: del patio del colegio a ventas millonarias",
+    "link": "https://www.elperiodico.com/es/economia/20260606/programada-epc-mercado-cartas-coleccionables-131068129",
     "pubDate": "2026-06-06 09:01:02",
     "category": "",
     "description": "<h2>El pasado mes de febrero, la carta coleccionable más cara de la historia se vendió por más de 16 millones de dólares, con un mercado en expansión desenfrenada</h2>",

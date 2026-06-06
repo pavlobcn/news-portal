@@ -1,8 +1,11 @@
-# News for 2026-06-06 12:21
+# News for 2026-06-06 13:51
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+13:39 [Генштаб заявив про масштабні ураження в Росії](https://ua.korrespondent.net/ukraine/4884488-henshtab-zaiavyv-pro-masshtabni-urazhennia-v-rosii)<br>
+12:56 [Сирський погодив активні дії ЗСУ на півдні](https://ua.korrespondent.net/ukraine/4884481-syrskyi-pohodyv-aktyvni-dii-zsu-na-pivdni)<br>
+12:19 [США вдарили по радіолокаційних станціях Ірану](https://ua.korrespondent.net/world/4884475-ssha-vdaryly-po-radiolokatsiinykh-stantsiiakh-iranu)<br>
 11:53 [Сили спецоперацій уразили російську базу Кронштадт](https://ua.korrespondent.net/ukraine/4884471-syly-spetsoperatsii-urazyly-rosiisku-bazu-kronshtadt)<br>
 11:25 [В Одесі дівчинка стрибнула з даху 17-поверхового будинку](https://ua.korrespondent.net/ukraine/4884466-v-odesi-divchynka-strybnula-z-dakhu-17-poverkhovoho-budynku)<br>
 10:58 [Зеленський підтвердив нові далекобійні удари по РФ](https://ua.korrespondent.net/ukraine/4884464-zelenskyi-pidtverdyv-novi-dalekobiini-udary-po-rf)<br>
@@ -47,6 +50,24 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+13:46 [El Papa sale del Palacio Real en el papamóvil](https://www.elperiodico.com/es/videos/sociedad/papa-sale-palacio-real-papamovil/131094126.shtml)<br>
+13:36 [Estados Unidos blinda la entrada de viajeros de zonas afectadas por el ébola y Europa refuerza la vigilancia epidémica](https://www.elperiodico.com/es/internacional/20260606/estados-unidos-blinda-entrada-viajeros-ebola-europa-refuerza-vigilancia-epidemica-131093633)<br>
+13:27 [Un fugitivo condenado por narcotráfico se esconde durante meses en casa de su madre en Santa Cristina d’Aro después de no regresar a prisión](https://www.elperiodico.com/es/sucesos/20260606/fugitivo-condenado-narcotrafico-esconde-casa-madre-prision-dv-131093059)<br>
+13:14 [El Papa agradece a España su “compromiso activo con la paz” y la defensa del multilateralismo](https://www.elperiodico.com/es/politica/20260606/papa-leon-xiv-agradece-espana-compromiso-paz-multilatealismo-131092921)<br>
+13:11 [El refugio de Isabel San Sebastián en Asturias: la casa donde escribe sus novelas cerca del mar y en uno de los pueblos más bonitos de España](https://www.elperiodico.com/es/gente/20260606/refugio-isabel-san-sebastian-asturias-dv-130728367)<br>
+13:09 [El divertido momento entre Margarita Robles y el Rey Felipe VI por un fallo de protocolo](https://www.elperiodico.com/es/videos/politica/divertido-momento-margarita-robles-rey/131092805.shtml)<br>
+13:04 [Muere ahogado un joven de 27 años en la playa de Peñíscola](https://www.elperiodico.com/es/sucesos/20260606/hombre-fallece-playa-peniscola-movilizar-131092607)<br>
+13:02 [Libros, monedas, productos asturianos y medallas: estos son los regalos que se han intercambiado los Reyes y León XIV tras la llegada del papa a España](https://www.elperiodico.com/es/sociedad/20260606/libros-monedas-productos-asturianos-medallas-regalos-papa-reyes-131091371)<br>
+13:01 [El Papa dice unas palabras en catalán en el avión de viaje a Madrid](https://www.elperiodico.com/es/politica/20260606/papa-dice-palabras-catalan-avion-viaje-madrid-131092052)<br>
+12:58 [El Rey denuncia el "dolor causado por los casos de abuso" sexual en la Iglesia y agradece la "firmeza" de León XIV para repararlos](https://www.elperiodico.com/es/politica/20260606/rey-felipe-vi-papa-abusos-iglesia-131092343)<br>
+12:56 [Vídeo | El papa León XIV llega a Madrid y desvela su equipo favorito: "Eso es fácil"](https://www.elperiodico.com/es/sociedad/20260606/papa-leon-xiv-llega-madrid-equipo-favorito-fcbarcelona-real-madrid-dv-131092048)<br>
+12:52 [Empiezan las obras para transformar la avenida Roma de Barcelona en 'un gran paseo' que prioriza al peatón y las zonas verdes](https://www.elperiodico.com/es/barcelona/20260606/empiezan-obras-transformar-avenida-roma-131091644)<br>
+12:52 [Así fue el saludo entre Sánchez y Ayuso en el aeropuerto en la llegada de León XIV](https://www.elperiodico.com/es/videos/politica/saludo-sanchez-ayuso-aeropuerto-llegada/131092250.shtml)<br>
+12:51 [León XIV habla en catalán de camino a España](https://www.elperiodico.com/es/videos/sociedad/leon-xiv-habla-catalan-camino-video/131092168.shtml)<br>
+12:34 [Una pareja de enfermeros que estaban de vacaciones salvan la vida de un bebé en pleno vuelo: todo el equipo médico era inadecuado](https://www.elperiodico.com/es/sucesos/20260606/pareja-enfermeros-salvan-vida-bebe-vuelo-vacaciones-dv-130987106)<br>
+12:33 [Unas 200 personas desafían el cierre de Collserola con una caminata popular: "Hace 6 meses que no podemos hacer salud"](https://www.elperiodico.com/es/barcelona/20260606/200-personas-desafian-cierre-collserola-caminata-popular-131091139)<br>
+12:24 [Una familia se planta donde enterraron los restos descuartizados de un hermano asesinado: "Queremos recuperar a nuestro Juan"](https://www.elperiodico.com/es/sucesos/20260606/familia-planta-enterraron-restos-descuartizados-131090615)<br>
+12:22 [Estado de los embalses hoy, 6 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos](https://www.elperiodico.com/es/sociedad/20260606/embalses-hoy-6-junio-catalunya-dv-131090993)<br>
 12:19 [Hola, Barcelona](https://www.elperiodico.com/es/opinion/20260606/hola-barcelona-opinion-agnes-marques-131090234)<br>
 12:10 [Consolidadas las ventas exprés: más de la mitad de las viviendas vendidas en España no llegan a tres meses anunciadas](https://www.elperiodico.com/es/vivienda/20260606/venta-expres-vivienda-espana-burgos-madrid-barcelona-dv-130895672)<br>
 12:09 [Así sonaron las campanas a la llegada del avión del papa a España](https://www.elperiodico.com/es/videos/sociedad/sonaron-campanas-llegada-avion-papa/131090482.shtml)<br>
@@ -76,6 +97,7 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 09:05 [Último día para solicitar un puesto de trabajo en el Banco de España: buscan 65 personas para empleos de 45.000 euros](https://www.elperiodico.com/es/economia/20260606/empleo-banco-espana-universitarios-dv-130671557)<br>
 09:01 [Ni el Papa salva a Sánchez ni Leire impulsa a Feijóo como alternativa](https://www.elperiodico.com/es/politica/20260606/papa-salva-sanchez-leire-impulsa-feijoo-131080238)<br>
 09:01 [El mercado de las cartas coleccionables: del patio del colegio a ventas millonarias](https://www.elperiodico.com/es/economia/20260606/mercado-cartas-coleccionables-patio-colegio-131068129)<br>
+09:01 [El mercado de las cartas coleccionables: del patio del colegio a ventas millonarias](https://www.elperiodico.com/es/economia/20260606/programada-epc-mercado-cartas-coleccionables-131068129)<br>
 09:01 [Ucrania consigue frenar la iniciativa rusa de los últimos dos años gracias al "muro de drones" y la mejora del reclutamiento](https://www.elperiodico.com/es/internacional/20260606/situacion-guerra-ucrania-junio-2026-rusia-san-petersburgo-131085950)<br>
 09:01 [Los coleccionistas, en la cresta de la ola: "Todo está yendo demasiado rápido"](https://www.elperiodico.com/es/economia/20260606/coleccionistas-cresta-ola-yendo-rapido-131068257)<br>
 09:01 [Si volvieras a hacer la PAU, ¿qué carrera elegirías?](https://www.elperiodico.com/es/opinion/20260606/volvieras-pau-carrera-elegirias-131068332)<br>
