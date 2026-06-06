@@ -1,5 +1,86 @@
 [
   {
+    "title": "El Barça doblega a un combativo Movistar Inter y se adelanta en la semifinal de la Liga (4-3)",
+    "link": "https://www.elperiodico.com/es/deportes/20260606/barca-doblega-combativo-movistar-inter-131106036",
+    "pubDate": "2026-06-06 23:15:52",
+    "category": "",
+    "description": "<h2 class=\"item\">El conjunto madrileño rozó la prórroga con un remate al larguero en el tramo final, pero el cuadro de Javi Rodríguez resistió en el Palau y se queda a un paso de la final. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Barça reacciona eliminando al Murcia y se lleva otra alegría: no jugará la semifinal contra el Madrid",
+    "link": "https://www.elperiodico.com/es/deportes/20260606/barca-reacciona-eliminando-murcia-lleva-131103521",
+    "pubDate": "2026-06-06 23:01:00",
+    "category": "",
+    "description": "<h2>Clyburn lidera al equipo desde el inicio (23 puntos) y la aparición de Laprovittola consolidó la ventaja azulgrana en la segunda mitad </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ‘last dance’ del Barça sigue vivo",
+    "link": "https://as.com/baloncesto/el-last-dance-del-barca-sigue-vivo-f202606-n/",
+    "pubDate": "2026-06-06 22:57:36",
+    "category": "UCAM Murcia Baloncesto",
+    "description": "Los azulgranas superan con autoridad al UCAM Murcia y se acercan a la posibilidad de acabar la temporada con un título.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Омбудсмени України та РФ досягли нової домовленості",
+    "link": "https://ua.korrespondent.net/ukraine/4884567-ombudsmeny-ukrainy-ta-rf-dosiahly-novoi-domovlenosti",
+    "pubDate": "2026-06-06 22:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453351.jpg\">Йдеться про отримання документів із російських архівів, які потрібні для підтвердження трудового стажу, оформлення пенсій та інших соціальних виплат.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Movistar Estudiantes llega a la pelea final por el ascenso",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-llega-a-la-pelea-final-por-el-ascenso-f202606-n/",
+    "pubDate": "2026-06-06 22:49:11",
+    "category": "Baloncesto",
+    "description": "Los colegiales doblegan al Alimerka Oviedo y se medirán con el Leyma Coruña por el segundo billete para la Liga Endesa. Granger, clave en el segundo cuarto.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "León XIV, en la vigilia: \"Las redes muchas veces nos engañan; buscad siempre la verdad\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/leon-xiv-vigilia-redes-veces/131105730.shtml",
+    "pubDate": "2026-06-06 22:39:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія атакувала рятувальні судна в Чорному морі",
+    "link": "https://ua.korrespondent.net/world/russia/4884565-rosiia-atakuvala-riatuvalni-sudna-v-chornomu-mori",
+    "pubDate": "2026-06-06 22:25:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453337.jpg\">Малі берегові пошуково-рятувальні судна мають спеціальний захист відповідно до міжнародного гуманітарного права. РФ грубо порушила ці норми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los jóvenes viven una \"fiesta\" con el Papa en la vigilia de Madrid: \"Ser cristiano no es algo solo de personas mayores\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/jovenes-viven-fiesta-papa-vigilia-131105333",
+    "pubDate": "2026-06-06 22:15:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Воррен сказав, коли буде оголошено про наступний бій Ітауми",
+    "link": "https://ua.korrespondent.net/sport/boks/4884563-vorren-skazav-koly-bude-oholosheno-pro-nastupnyi-bii-itaumy",
+    "pubDate": "2026-06-06 22:12:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453336.jpg\">Британський промоутер пропонує почекати до наступного тижня, коли буде оголошено ім’я наступного суперника Мозеса Ітауми.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El papa León XIV firma la Cruz de los Jóvenes durante la vigilia en la plaza de Lima de Madrid",
     "link": "https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-firma-cruz/131105118.shtml",
     "pubDate": "2026-06-06 22:06:22",
