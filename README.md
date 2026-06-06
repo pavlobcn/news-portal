@@ -1,8 +1,15 @@
-# News for 2026-06-06 07:44
+# News for 2026-06-06 10:14
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+10:01 [Під Петербургом уражено арсенал армії РФ](https://ua.korrespondent.net/world/russia/4884456-pid-peterburhom-urazheno-arsenal-armii-rf)<br>
+09:33 [Зеленський привітав журналістів з професійним святом](https://ua.korrespondent.net/ukraine/4884452-zelenskyi-pryvitav-zhurnalistiv-z-profesiinym-sviatom)<br>
+09:05 [Удари РФ: у Сумській області пошкоджено енергооб'єкти і АЗС](https://ua.korrespondent.net/ukraine/4884450-udary-rf-u-sumskii-oblasti-poshkodzheno-enerhoobiekty-i-azs)<br>
+08:46 [Росіяни вбили шістьох цивільних на Херсонщині](https://ua.korrespondent.net/ukraine/4884447-rosiiany-vbyly-shistokh-tsyvilnykh-na-khersonschyni)<br>
+08:21 [Запоріжжя зазнало повторної атаки РФ, є поранені](https://ua.korrespondent.net/city/zaporozhye/4884443-zaporizhzhia-zaznalo-povtornoi-ataky-rf-ye-poraneni)<br>
+08:00 [Ударів зазнали шість скупчень військ РФ - Генштаб](https://ua.korrespondent.net/ukraine/4884441-udariv-zaznaly-shist-skupchen-viisk-rf-henshtab)<br>
+07:55 [Плей-оф НБА: Сан-Антоніо вдруге програв Нью-Йорку](https://ua.korrespondent.net/sport/basketball/4884439-plei-of-nba-san-antonio-vdruhe-prohrav-nui-yorku)<br>
 07:38 [Нічна атака з шести напрямків: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4884434-nichna-ataka-z-shesty-napriamkiv-yak-spratsuivala-ppo)<br>
 07:23 [Спалах Еболи: ВООЗ залучить понад $500 млн](https://ua.korrespondent.net/world/4884432-spalakh-eboly-vooz-zaluchyt-ponad-500-mln)<br>
 07:01 [У Дніпрі чоловік кинув гранату у поліцейських і загинув](https://ua.korrespondent.net/city/dnepr/4884429-u-dnipri-cholovik-kynuv-hranatu-u-politseiskykh-i-zahynuv)<br>
@@ -22,12 +29,37 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 00:58 [Радбез ООН екстрено збереться щодо України](https://ua.korrespondent.net/world/4884400-radbez-oon-ekstreno-zberetsia-schodo-ukrainy)<br>
 
 ## as.com
+09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
+09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
+09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
+07:52 [Sergi García: “Nos equivocaríamos si no nos centramos en el Oviedo”](https://as.com/baloncesto/mas_baloncesto/sergi-garcia-nos-equivocariamos-si-no-nos-centramos-en-el-oviedo-f202606-n/)<br>
+07:52 [Último vuelo para la Liga Endesa](https://as.com/baloncesto/mas_baloncesto/ultimo-vuelo-para-la-liga-endesa-f202606-n/)<br>
+07:51 [“El plan NBA Europa es octubre de 2027, con o sin la Euroliga”](https://as.com/baloncesto/el-plan-nba-europa-es-octubre-de-2027-con-o-sin-la-euroliga-f202606-n/)<br>
 06:12 [El 3x3 y una normativa muy particular](https://as.com/baloncesto/mas_baloncesto/sabado-los-tejemanejes-del-3x3-f202606-n/)<br>
 06:09 [UCAM Murcia - Barcelona: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/ucam-murcia-barcelona-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
 06:09 [Real Madrid - La Laguna Tenerife: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/real-madrid-la-laguna-tenerife-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+10:07 [España está en el epicentro continental del calentamiento global, advierte The Lancet](https://www.elperiodico.com/es/tendencias21/20260606/espana-epicentro-continental-calentamiento-global-129390031)<br>
+10:01 [Los Knicks tumban de nuevo a los Spurs y se acercan al título](https://www.elperiodico.com/es/deportes/20260606/knicks-tumban-nuevo-spurs-acercan-131086632)<br>
+10:00 [La "fontanera" del PSOE reprendió al abogado de Ábalos tras su entrevista en EL PERIÓDICO: "Deja los medios. Hacerse el muerto siempre es la mejor opción"](https://www.elperiodico.com/es/politica/20260606/fontanera-psoe-reprendio-abogado-abalos-131077375)<br>
+10:00 [Una pifia con megavatios](https://www.elperiodico.com/es/opinion/20260606/pifia-megavatios-leire-diez-psoe-instituciones-articulo-valenti-puig-131069100)<br>
+10:00 [De ser la peor persona del mundo a estrella del fenómeno ‘Backrooms’: el imparable ascenso de Renate Reinsve](https://www.elperiodico.com/es/ocio-y-cultura/20260606/peor-persona-mundo-estrella-fenomeno-131065162)<br>
+09:46 [Un ataque masivo de drones obliga a confinar a los habitantes de San Petersburgo](https://www.elperiodico.com/es/internacional/20260606/ataque-masivo-drones-obliga-confinar-san-petersburgo-131086349)<br>
+09:30 [Multado en Sabadell con 400 euros por depositar basura donde no debía](https://www.elperiodico.com/es/barcelona/sabadell/20260606/sabadell-multa-basura-400-euros-dv-loc-130928147)<br>
+09:05 [Último día para solicitar un puesto de trabajo en el Banco de España: buscan 65 personas para empleos de 45.000 euros](https://www.elperiodico.com/es/economia/20260606/empleo-banco-espana-universitarios-dv-130671557)<br>
+09:01 [Ni el Papa salva a Sánchez ni Leire impulsa a Feijóo como alternativa](https://www.elperiodico.com/es/politica/20260606/papa-salva-sanchez-leire-impulsa-feijoo-131080238)<br>
+09:01 [El mercado de las cartas coleccionables: del patio del colegio a ventas millonarias](https://www.elperiodico.com/es/economia/20260606/mercado-cartas-coleccionables-patio-colegio-131068129)<br>
+09:01 [Ucrania consigue frenar la iniciativa rusa de los últimos dos años gracias al "muro de drones" y la mejora del reclutamiento](https://www.elperiodico.com/es/internacional/20260606/situacion-guerra-ucrania-junio-2026-rusia-san-petersburgo-131085950)<br>
+09:01 [Los coleccionistas, en la cresta de la ola: "Todo está yendo demasiado rápido"](https://www.elperiodico.com/es/economia/20260606/coleccionistas-cresta-ola-yendo-rapido-131068257)<br>
+09:01 [Si volvieras a hacer la PAU, ¿qué carrera elegirías?](https://www.elperiodico.com/es/opinion/20260606/volvieras-pau-carrera-elegirias-131068332)<br>
+09:01 [Drones, guerrillas, narcos y terroristas](https://www.elperiodico.com/es/internacional/20260606/drones-guerrillas-narcos-terroristas-america-latina-africa-130947721)<br>
+08:48 [El Papa viaja de camino a España: así ha sido su salida del aeropuerto de Roma](https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-viaja-camino-espana/131085889.shtml)<br>
+08:38 [Un café en las alturas: Jesús Avezuela y Eric Frattini](https://www.elperiodico.com/es/videos/politica/cafe-alturas-jesus-avezuela-eric-frattini/131085586.shtml)<br>
+08:38 [Jesús Avezuela y Eric Frattini analizan el viaje del Papa a España: "Viene bien que dé una ‘bofetada’ a nuestros políticos para que acaben con la polarización"](https://www.elperiodico.com/es/politica/20260606/jesus-avezuela-eric-frattini-analizan-viaje-papa-espana-bofetada-polarizacion-131085607)<br>
+08:00 [‘La luz’ muestra la compleja evolución de un cura que ejerció la pederastia](https://www.elperiodico.com/es/ocio-y-cultura/20260606/luz-muestra-compleja-evolucion-cura-131078213)<br>
+07:30 [El Papa en España, en directo: última hora de la llegada de León XIV a Madrid](https://www.elperiodico.com/es/sociedad/20260606/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248)<br>
 07:27 [Alba Sáez, actriz: "Hay muchos factores que te pueden llevar a un brote psicótico"](https://www.elperiodico.com/es/ser-feliz/20260606/alba-saez-actriz-hay-factores-131007658)<br>
 07:27 [DIRECTO | Día 1 del viaje del Papa León XIV por España: Llega a Madrid y es recibido por Felipe VI](https://www.elperiodico.com/es/videos/sociedad/directo-viaje-papa-leon-xiv-espana/131084897.shtml)<br>
 07:05 [Guerra Ucrania - Rusia, en directo, última hora del conflicto](https://www.elperiodico.com/es/internacional/20260606/guerra-ucrania-rusia-directo-ultima-126605559)<br>
@@ -42,6 +74,7 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 06:00 [Perros sueltos en Barcelona: dónde, cuándo y con qué límites se puede pasear a la mascota sin correa sin ser multado](https://www.elperiodico.com/es/barcelona/20260606/perros-sueltos-barcelona-donde-cuando-correa-limites-preguntas-respuestas-131020784)<br>
 06:00 [ANEM, el 'quirófano' que mantiene en vuelo a Air Nostrum](https://www.elperiodico.com/es/economia/20260606/anem-quirofano-mantiene-vuelo-air-131084469)<br>
 05:55 [Junqueras desvela su paso por el archivo secreto del Vaticano: "Fue una etapa apasionante de mi vida"](https://www.elperiodico.com/es/videos/politica/junqueras-archivo-secreto-vaticano/130891095.shtml)<br>
+04:50 [200 'ABRILES' de miradas literarias únicas](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260606/200-abriles-miradas-literarias-unicas-130967745)<br>
 04:50 [Sonsoles Ónega: "No me voy a inventar lo que no soy por el beneplácito de la crítica"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260606/sonsoles-onega-entrevista-feria-libro-madrid-130788032)<br>
 04:50 [Javier Moll de Miguel: "Nuestro suplemento ha demostrado que aún hay espacio para una mirada exigente, plural y apasionada sobre los libros"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260606/javier-moll-presidente-prensa-iberica-suplemento-abril-130960275)<br>
 00:51 [El Parque de Atracciones de Zaragoza no abrirá por primera vez en 50 años](https://www.elperiodico.com/es/economia/20260606/parque-atracciones-zaragoza-abrira-primera-131082469)<br>
