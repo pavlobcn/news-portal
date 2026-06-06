@@ -1,8 +1,11 @@
-# News for 2026-06-06 13:51
+# News for 2026-06-06 14:58
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+14:44 [Індія виводить на ринок пальне з 85% етанолу](https://ua.korrespondent.net/business/4884498-indiia-vyvodyt-na-rynok-palne-z-85-etanolu)<br>
+14:33 [НАТО планує узгодити €70 млрд для України - ЗМІ](https://ua.korrespondent.net/world/4884493-nato-planuie-uzghodyty-70-mlrd-dlia-ukrainy-zmi)<br>
+14:01 [Путін втратив шанс вийти з війни - Сибіга](https://ua.korrespondent.net/ukraine/4884491-putin-vtratyv-shans-vyity-z-viiny-sybiha)<br>
 13:39 [Генштаб заявив про масштабні ураження в Росії](https://ua.korrespondent.net/ukraine/4884488-henshtab-zaiavyv-pro-masshtabni-urazhennia-v-rosii)<br>
 12:56 [Сирський погодив активні дії ЗСУ на півдні](https://ua.korrespondent.net/ukraine/4884481-syrskyi-pohodyv-aktyvni-dii-zsu-na-pivdni)<br>
 12:19 [США вдарили по радіолокаційних станціях Ірану](https://ua.korrespondent.net/world/4884475-ssha-vdaryly-po-radiolokatsiinykh-stantsiiakh-iranu)<br>
@@ -50,6 +53,14 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+14:50 [Evitar el ataque de un dron, prioridad en la seguridad para la visita del Papa](https://www.elperiodico.com/es/sociedad/20260606/evitar-ataque-dron-prioridad-seguridad-visita-papa-131096231)<br>
+14:46 [Felipe VI denuncia el "dolor causado por los casos de abuso" en la Iglesia y agradece la "firmeza" de León XIV](https://www.elperiodico.com/es/videos/politica/felipe-vi-denuncia-dolor-causado/131096103.shtml)<br>
+14:42 [Investigan la muerte de dos personas octogenarias en Jaén](https://www.elperiodico.com/es/sociedad/20260606/investigan-muerte-personas-octogenarias-jaen-131095842)<br>
+14:41 [Aclamada tarta nupcial para Fígaro de Marta Pazos](https://www.elperiodico.com/es/ocio-y-cultura/20260606/aclamada-tarta-nupcial-figaro-marta-131095671)<br>
+14:38 [Muere Bernadette Chirac, la primera dama que dejó huella en la política francesa](https://www.elperiodico.com/es/internacional/20260606/muere-bernadette-chirac-primera-dama-131095275)<br>
+14:21 [Detenidos dos menores por difundir fotos íntimas de una amiga en Mallorca](https://www.elperiodico.com/es/sucesos/20260606/detenidos-menores-difundir-fotos-intimas-131095322)<br>
+14:12 [León XIV agradece a España su “compromiso activo con la paz” y la defensa del multilateralismo](https://www.elperiodico.com/es/videos/sociedad/leon-xiv-agradece-espana-compromiso/131094945.shtml)<br>
+14:09 [Calor, nervios y vivas al Papa y al Rey en la llegada de León XIV al Palacio Real de Madrid](https://www.elperiodico.com/es/sociedad/20260606/calor-nervios-vivas-papa-rey-131094846)<br>
 13:46 [El Papa sale del Palacio Real en el papamóvil](https://www.elperiodico.com/es/videos/sociedad/papa-sale-palacio-real-papamovil/131094126.shtml)<br>
 13:36 [Estados Unidos blinda la entrada de viajeros de zonas afectadas por el ébola y Europa refuerza la vigilancia epidémica](https://www.elperiodico.com/es/internacional/20260606/estados-unidos-blinda-entrada-viajeros-ebola-europa-refuerza-vigilancia-epidemica-131093633)<br>
 13:27 [Un fugitivo condenado por narcotráfico se esconde durante meses en casa de su madre en Santa Cristina d’Aro después de no regresar a prisión](https://www.elperiodico.com/es/sucesos/20260606/fugitivo-condenado-narcotrafico-esconde-casa-madre-prision-dv-131093059)<br>
