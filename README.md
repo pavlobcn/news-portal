@@ -1,8 +1,10 @@
-# News for 2026-06-06 18:51
+# News for 2026-06-06 19:54
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+19:37 [МАГАТЕ заявило про 15-годинний блекаут на ЗАЕС](https://ua.korrespondent.net/ukraine/4884539-mahate-zaiavylo-pro-15-hodynnyi-blekaut-na-zaes)<br>
+19:18 [Грози та дощі прогнозують у більшості регіонів України](https://ua.korrespondent.net/ukraine/4884534-hrozy-ta-doschi-prohnozuuit-u-bilshosti-rehioniv-ukrainy)<br>
 18:27 [Глава МВС Пакистану відвідає Тегеран](https://ua.korrespondent.net/world/4884529-hlava-mvs-pakystanu-vidvidaie-teheran)<br>
 17:59 [ЄС готує податкові стимули для переходу на "зелену" енергетику](https://ua.korrespondent.net/world/4884527-yes-hotuie-podatkovi-stymuly-dlia-perekhodu-na-zelenu-enerhetyku)<br>
 17:37 [Завод в Ірландії працює на оборонку РФ - FT](https://ua.korrespondent.net/world/4884523-zavod-v-irlandii-pratsuiie-na-oboronku-rf-FT)<br>
@@ -49,6 +51,7 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 00:58 [Радбез ООН екстрено збереться щодо України](https://ua.korrespondent.net/world/4884400-radbez-oon-ekstreno-zberetsia-schodo-ukrainy)<br>
 
 ## as.com
+19:40 [Estudiantes-Oviedo, en directo: semifinales de la Final Four de la Primera FEB de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/movistar-estudiantes-alimerka-oviedo-en-directo-semifinales-de-la-final-four-de-la-primera-feb-de-baloncesto-2026-en-vivo-hoy-f202606-d/)<br>
 17:42 [Real Madrid - Tenerife, en directo: Playoff ACB 2026, hoy en vivo](https://as.com/baloncesto/acb/real-madrid-tenerife-partido-3-en-directo-playoff-acb-2026-hoy-en-vivo-f202606-d/)<br>
 11:41 [El Unicaja, ejemplo de la FIBA para la NBA Europa](https://as.com/baloncesto/el-unicaja-ejemplo-de-la-fiba-para-la-nba-europa-f202606-n/)<br>
 09:28 [Se calienta la eliminatoria entre el Baskonia y el Joventut](https://as.com/baloncesto/se-calienta-la-serie-entre-el-baskonia-y-el-joventut-f202606-n/)<br>
@@ -64,6 +67,13 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:38 [Una madre cubana atendida por Cáritas presenta a León XIV a sus dos bebés](https://www.elperiodico.com/es/videos/sociedad/madre-cubana-atendida-caritas-presenta/131101981.shtml)<br>
+19:30 [Confirmado por la veterinaria Alba Pérez: castrar a tu perro puede generarle problemas físicos y conductuales](https://www.elperiodico.com/es/vida-y-estilo/20260606/confirmado-veterinaria-alba-perez-castrar-perros-problemas-dv-130864303)<br>
+19:23 [Vecinos del barrio de Lucero desafían el calor durante horas para recibir al Papa León XIV en Cedia: "No lo volveré a ver tan cerca"](https://www.elperiodico.com/es/sociedad/20260606/vecinos-barrio-lucero-desafian-calor-131101713)<br>
+19:08 [El Papa critica a quienes "desprecian o ridiculizan" la caridad en su visita a un centro de personas sin hogar](https://www.elperiodico.com/es/sociedad/20260606/papa-visita-cedia-pobreza-caritas-131092964)<br>
+19:04 [La visita del papa León XIV al centro de personas sin hogar Cedia en Carabanchel](https://www.elperiodico.com/es/videos/sociedad/visita-papa-leon-xiv-centro/131101114.shtml)<br>
+19:00 [Solo León XIV puede tapar a Leire Díez](https://www.elperiodico.com/es/politica/20260606/leon-ix-tapar-leire-131058305)<br>
+18:59 [El secretario de Defensa de EEUU compara el desembarco de Normandía con la "invasión" de emigrantes a España](https://www.elperiodico.com/es/internacional/20260606/hegseth-compara-desembarco-normandia-invasion-migrantes-espana-131100983)<br>
 18:40 [El centro de Cáritas para personas sin hogar que visita el Papa en Madrid: "Cada persona es un tesoro"](https://www.elperiodico.com/es/sociedad/20260606/centro-personas-sinhogar-caritas-madrid-visita-papa-leonxiv-130144805)<br>
 18:19 [La temporada alta de playa en Barcelona arranca con los baños del Fòrum cerrados por el retraso en su reforma](https://www.elperiodico.com/es/barcelona/20260606/barcelona-playas-banos-forum-obras-retraso-131099255)<br>
 18:12 [El Festival de les Arts de Valencia, cancelado por incumplir la ordenanza de ruido en su estreno de este viernes](https://www.elperiodico.com/es/ocio-y-cultura/20260606/festival-les-arts-valencia-cancelado-131099995)<br>
