@@ -1,8 +1,11 @@
-# News for 2026-06-06 21:03
+# News for 2026-06-06 22:08
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+21:59 [Меркель натякнула на таємні запити щодо Путіна](https://ua.korrespondent.net/world/4884561-merkel-natiaknula-na-taiemni-zapyty-schodo-putina)<br>
+21:37 [Генштаб оцінив ситуацію на фронті](https://ua.korrespondent.net/ukraine/4884557-henshtab-otsinyv-sytuatsiui-na-fronti)<br>
+21:16 [Лукашенко відмовився воювати проти України](https://ua.korrespondent.net/world/4884554-lukashenko-vidmovyvsia-vouivaty-proty-ukrainy)<br>
 20:47 [В Росії звинуватили Європу у "продовженні війни"](https://ua.korrespondent.net/world/4884552-v-rosii-zvynuvatyly-yevropu-u-prodovzhenni-viiny)<br>
 20:21 [Російським школярам пропонують підробіток у військкоматах - ЗМІ](https://ua.korrespondent.net/world/russia/4884547-rosiiskym-shkoliaram-proponuuit-pidrobitok-u-viiskkomatakh-zmi)<br>
 19:59 [Росіяни вдарили по критичній інфраструктурі Херсона](https://ua.korrespondent.net/ukraine/4884542-rosiiany-vdaryly-po-krytychnii-infrastrukturi-khersona)<br>
@@ -54,6 +57,9 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 00:58 [Радбез ООН екстрено збереться щодо України](https://ua.korrespondent.net/world/4884400-radbez-oon-ekstreno-zberetsia-schodo-ukrainy)<br>
 
 ## as.com
+21:54 [Murcia - Barcelona, en directo: Playoff ACB 2026, hoy en vivo](https://as.com/baloncesto/acb/murcia-barcelona-partido-3-en-directo-playoff-acb-2026-hoy-en-vivo-f202606-d/)<br>
+21:12 [El Leyma Coruña está en la final](https://as.com/baloncesto/mas_baloncesto/el-leyma-coruna-esta-en-la-final-f202606-n/)<br>
+20:57 [Sergio Scariolo, en la cuerda floja](https://as.com/baloncesto/acb/sergio-scariolo-en-la-cuerda-floja-f202606-n/)<br>
 20:44 [Proeza tinerfeña y siniestro total del Madrid](https://as.com/baloncesto/acb/proeza-tinerfena-y-siniestro-total-del-madrid-f202606-n/)<br>
 20:40 [Batacazo del Madrid](https://as.com/opinion/batacazo-del-madrid-f202606-n/)<br>
 20:32 [Resumen del Real Madrid vs La Laguna Tenerife, cuartos de final de la Liga Endesa](https://as.com/videos/acb/resumen-del-real-madrid-vs-la-laguna-tenerife-cuartos-de-final-de-la-liga-endesa-f202606-v/)<br>
@@ -76,6 +82,10 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:06 [El papa León XIV firma la Cruz de los Jóvenes durante la vigilia en la plaza de Lima de Madrid](https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-firma-cruz/131105118.shtml)<br>
+21:56 [León XIV trae a España un potente mensaje político de cercanía a los vulnerables desde el arranque de su visita](https://www.elperiodico.com/es/sociedad/20260606/leon-xiv-trae-espana-potente-131104885)<br>
+21:48 [León XVI llama a los jóvenes a "dar una nueva dirección a la sociedad" en una multitudinaria vigilia en Madrid](https://www.elperiodico.com/es/sociedad/20260606/vigilia-jovenes-papa-leon-xvi-madrid-131104673)<br>
+21:05 [Tabla de jubilación 2026 y 2027: cuánto se cobra según los años cotizados, según el abogado laboralista Ignacio Solsona](https://www.elperiodico.com/es/economia/20260606/tabla-jubilacion-2026-2027-cobra-anos-cotizados-experto-ignacio-solsona-dv-130890754)<br>
 20:53 [Así ha sido la ofrenda floral a la Virgen de la Almudena en la plaza de Lima de Madrid](https://www.elperiodico.com/es/videos/sociedad/sido-ofrenda-floral-virgen-almudena/131103708.shtml)<br>
 20:30 [Yomi Adegoke, escritora: “Las redes sociales nos empujan hacia formas de pensar en blanco y negro”](https://www.elperiodico.com/es/sociedad/20260606/yomi-adegoke-escritora-redes-sociales-juzgamiento-internet-dv-131010181)<br>
 20:16 [Un jubilado percibe una pensión de 900 euros al mes después de 22 años trabajando: "De acuerdo a lo aportado"](https://www.elperiodico.com/es/economia/20260606/jubilado-percibe-pension-900-euros-22-anos-trabajando-jubilacion-dv-130889872)<br>
