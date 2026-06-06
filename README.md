@@ -1,8 +1,12 @@
-# News for 2026-06-06 10:14
+# News for 2026-06-06 12:21
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+11:53 [Сили спецоперацій уразили російську базу Кронштадт](https://ua.korrespondent.net/ukraine/4884471-syly-spetsoperatsii-urazyly-rosiisku-bazu-kronshtadt)<br>
+11:25 [В Одесі дівчинка стрибнула з даху 17-поверхового будинку](https://ua.korrespondent.net/ukraine/4884466-v-odesi-divchynka-strybnula-z-dakhu-17-poverkhovoho-budynku)<br>
+10:58 [Зеленський підтвердив нові далекобійні удари по РФ](https://ua.korrespondent.net/ukraine/4884464-zelenskyi-pidtverdyv-novi-dalekobiini-udary-po-rf)<br>
+10:24 [Лідера партії Свобода поранили на фронті](https://ua.korrespondent.net/ukraine/4884461-lidera-partii-svoboda-poranyly-na-fronti)<br>
 10:01 [Під Петербургом уражено арсенал армії РФ](https://ua.korrespondent.net/world/russia/4884456-pid-peterburhom-urazheno-arsenal-armii-rf)<br>
 09:33 [Зеленський привітав журналістів з професійним святом](https://ua.korrespondent.net/ukraine/4884452-zelenskyi-pryvitav-zhurnalistiv-z-profesiinym-sviatom)<br>
 09:05 [Удари РФ: у Сумській області пошкоджено енергооб'єкти і АЗС](https://ua.korrespondent.net/ukraine/4884450-udary-rf-u-sumskii-oblasti-poshkodzheno-enerhoobiekty-i-azs)<br>
@@ -29,6 +33,8 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 00:58 [Радбез ООН екстрено збереться щодо України](https://ua.korrespondent.net/world/4884400-radbez-oon-ekstreno-zberetsia-schodo-ukrainy)<br>
 
 ## as.com
+11:41 [El Unicaja, ejemplo de la FIBA para la NBA Europa](https://as.com/baloncesto/el-unicaja-ejemplo-de-la-fiba-para-la-nba-europa-f202606-n/)<br>
+09:28 [Se calienta la eliminatoria entre el Baskonia y el Joventut](https://as.com/baloncesto/se-calienta-la-serie-entre-el-baskonia-y-el-joventut-f202606-n/)<br>
 09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
 09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
 09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
@@ -41,11 +47,30 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:19 [Hola, Barcelona](https://www.elperiodico.com/es/opinion/20260606/hola-barcelona-opinion-agnes-marques-131090234)<br>
+12:10 [Consolidadas las ventas exprés: más de la mitad de las viviendas vendidas en España no llegan a tres meses anunciadas](https://www.elperiodico.com/es/vivienda/20260606/venta-expres-vivienda-espana-burgos-madrid-barcelona-dv-130895672)<br>
+12:09 [Así sonaron las campanas a la llegada del avión del papa a España](https://www.elperiodico.com/es/videos/sociedad/sonaron-campanas-llegada-avion-papa/131090482.shtml)<br>
+12:00 [Entrevista con Xavier Antich, presidente de Òmnium Cultural](https://www.elperiodico.com/es/videos/politica/entrevista-xavier-antich-presidente-omnium-cultural-video/131053194.shtml)<br>
+12:00 [¿Qué papel han tenido los papas en la política internacional? Tres expertos reflexionan sobre su influencia](https://www.elperiodico.com/es/politica/20260606/expertos-papel-papa-politica-131002222)<br>
+12:00 [Leire Díez apostó una comida con la directora de la Guardia Civil a que los mensajes entre Ábalos y Sánchez los había filtrado la UCO: "Tu amiga te debe más que una comida"](https://www.elperiodico.com/es/politica/20260606/leire-diez-aposto-comida-directora-131077408)<br>
+11:56 [Vicky Martín Berrocal (53 años): "Estoy absolutamente enganchada al subidón de energía que supone arrancar la jornada reseteando el organismo"](https://www.elperiodico.com/es/gente/20260606/vicky-martin-berrocal-53-anos-cardio-de-alta-intensidad-en-ayunas-dv-131089717)<br>
+11:50 [9 y 24 de junio: ¿En qué comunidades es festivo cada día y en cuáles se podrá hacer puente?](https://www.elperiodico.com/es/economia/20260606/festivos-junio-2026-calendario-laboral-dv-130918896)<br>
+11:48 [Pau Palomar: de sacar la nota más de selectividad en Catalunya a hacer prácticas de física en Suiza y a estudiar en Estados Unidos](https://www.elperiodico.com/es/sociedad/20260606/catalan-pau-palomar-mejor-nota-selectividad-fisica-suiza-estados-unidos-dv-131089662)<br>
+11:44 [Llega el Papa León XIV a España](https://www.elperiodico.com/es/fotos/sociedad/llega-papa-leon-xiv-espana-fotos-131089706)<br>
+11:44 ["Javier, qué bien que hayas venido, te veo muy guapo": el saludo de la reina a un niño que esperaba al papa](https://www.elperiodico.com/es/videos/sociedad/saludo-reina-nino-papa-leon-xiv/131089769.shtml)<br>
+11:43 [La Generalitat recomienda ahora teletrabajar a quien viva o trabaje en Barcelona por la visita del Papa](https://www.elperiodico.com/es/economia/20260606/generalitat-recomienda-ahora-teletrabajar-barcelona-visita-papa-131088838)<br>
+11:29 [Más de 600 efectivos de la Guardia Civil participan en el dispositivo de seguridad con motivo de la llegada del Papa León XIV](https://www.elperiodico.com/es/videos/sociedad/600-efectivos-guardia-civil-participan-video/131089306.shtml)<br>
+11:29 ["¡Hola Felipe!": El grito de un niño al rey mientras esperaba para saludar al papa](https://www.elperiodico.com/es/videos/sociedad/hola-felipe-grito-nino-rey-papa/131089331.shtml)<br>
+11:17 [Estos son los primeros ciudadanos que ven y saludan al papa](https://www.elperiodico.com/es/videos/sociedad/son-primeros-ciudadanos-saludan-ninos-papa/131088872.shtml)<br>
+11:07 [León XIV aterriza en Madrid para dar inicio al primer viaje a España de un papa en 15 años](https://www.elperiodico.com/es/sociedad/20260606/leon-xiv-aterriza-madrid-viaje-papa-espana-131088504)<br>
+11:00 [Feijóo, soplar y sorber... todo no puede ser](https://www.elperiodico.com/es/opinion/20260606/feijoo-soplar-sorber-mocion-de-censura-junts-pnv-pp-articulo-manuel-sanchez-131076382)<br>
+10:55 [Los Reyes reciben a León XIV](https://www.elperiodico.com/es/videos/sociedad/reyes-reciben-leon-xiv/131088238.shtml)<br>
 10:07 [España está en el epicentro continental del calentamiento global, advierte The Lancet](https://www.elperiodico.com/es/tendencias21/20260606/espana-epicentro-continental-calentamiento-global-129390031)<br>
 10:01 [Los Knicks tumban de nuevo a los Spurs y se acercan al título](https://www.elperiodico.com/es/deportes/20260606/knicks-tumban-nuevo-spurs-acercan-131086632)<br>
 10:00 [La "fontanera" del PSOE reprendió al abogado de Ábalos tras su entrevista en EL PERIÓDICO: "Deja los medios. Hacerse el muerto siempre es la mejor opción"](https://www.elperiodico.com/es/politica/20260606/fontanera-psoe-reprendio-abogado-abalos-131077375)<br>
 10:00 [Una pifia con megavatios](https://www.elperiodico.com/es/opinion/20260606/pifia-megavatios-leire-diez-psoe-instituciones-articulo-valenti-puig-131069100)<br>
 10:00 [De ser la peor persona del mundo a estrella del fenómeno ‘Backrooms’: el imparable ascenso de Renate Reinsve](https://www.elperiodico.com/es/ocio-y-cultura/20260606/peor-persona-mundo-estrella-fenomeno-131065162)<br>
+10:00 ["Es una maravilla": este es el suplemento más recomendado para acabar con los sofocos, el insomnio y la fatiga](https://www.elperiodico.com/es/shopping/20260606/suplemento-menopausia-sintomas-mujeres-novastil-130838733)<br>
 09:46 [Un ataque masivo de drones obliga a confinar a los habitantes de San Petersburgo](https://www.elperiodico.com/es/internacional/20260606/ataque-masivo-drones-obliga-confinar-san-petersburgo-131086349)<br>
 09:30 [Multado en Sabadell con 400 euros por depositar basura donde no debía](https://www.elperiodico.com/es/barcelona/sabadell/20260606/sabadell-multa-basura-400-euros-dv-loc-130928147)<br>
 09:05 [Último día para solicitar un puesto de trabajo en el Banco de España: buscan 65 personas para empleos de 45.000 euros](https://www.elperiodico.com/es/economia/20260606/empleo-banco-espana-universitarios-dv-130671557)<br>

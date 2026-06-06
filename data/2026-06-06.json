@@ -1,5 +1,311 @@
 [
   {
+    "title": "Hola, Barcelona",
+    "link": "https://www.elperiodico.com/es/opinion/20260606/hola-barcelona-opinion-agnes-marques-131090234",
+    "pubDate": "2026-06-06 12:19:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Consolidadas las ventas exprés: más de la mitad de las viviendas vendidas en España no llegan a tres meses anunciadas",
+    "link": "https://www.elperiodico.com/es/vivienda/20260606/venta-expres-vivienda-espana-burgos-madrid-barcelona-dv-130895672",
+    "pubDate": "2026-06-06 12:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Uno de cada ocho inmuebles se venden sin llegar a estar una semana anunciados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20260210/alquilar-cataluna-2026-sera-mas-dificil-escasez-vivienda-alta-demanda-dv-126516083\" >Alquilar en Catalunya en 2026 será aún más difícil: escasez de viviendas y alta demanda</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así sonaron las campanas a la llegada del avión del papa a España",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/sonaron-campanas-llegada-avion-papa/131090482.shtml",
+    "pubDate": "2026-06-06 12:09:01",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Márquez confirma su vuelta con otra 'pole' de campeón en Hungría",
+    "link": "https://www.elperiodico.com/es/deportes/20260606/marquez-confirma-vuelta-pole-campeon-131089614",
+    "pubDate": "2026-06-06 12:06:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Paso a paso. Nada de precipitaciones. Si no lleva a tiempo, no llega a tiempo, pero nada de tentar, de nuevo, a la suerte. Marc Márquez (Ducati) tiene una plan y, de momento, se está cumpliendo al dedillo. Tras un 10 (fue su nota, sí) en Mugello, hoy ha logrado la segunda 'pole' del año (Jerez) en Balatón Park, a quien muchos ya conocen como Balatón Marc.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Entrevista con Xavier Antich, presidente de Òmnium Cultural",
+    "link": "https://www.elperiodico.com/es/videos/politica/entrevista-xavier-antich-presidente-omnium-cultural-video/131053194.shtml",
+    "pubDate": "2026-06-06 12:00:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La cadena de montaje manual de la industria del autobús de Arbúcies desafía la automatización global",
+    "link": "https://www.elperiodico.com/es/barcelona/20260606/industria-autobus-arbucies-cadena-montaje-manual-130962767",
+    "pubDate": "2026-06-06 12:00:54",
+    "category": "",
+    "description": "<h2>La fabricación de autobuses en La Selva se basa en un intrincado proceso artesanal, donde la precisión de soldadores y planchistas da forma a vehículos personalizados</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260606/capital-carroceria-autobuses-arbucies-reconversion-industrial-competencia-asia-130917958\">SOS de la industria catalana del autobús: el vehículo hecho a mano busca blindarse ante el gigante chino eléctrico</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Qué papel han tenido los papas en la política internacional? Tres expertos reflexionan sobre su influencia",
+    "link": "https://www.elperiodico.com/es/politica/20260606/expertos-papel-papa-politica-131002222",
+    "pubDate": "2026-06-06 12:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Académicos explican a EL PERIÓDICO cómo el papado actúa como un \"referente espiritual\" que condiciona la geopolítica</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260506/agenda-papa-jefe-espana-reunion-129908320\" target=\"_blank\">La agenda del Papa como jefe de Estado en España: reunión con Pedro Sánchez, visita a los Reyes y discurso en el Congreso</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260226/papa-dirigira-parlamentarios-espanoles-sesion-127296075\" target=\"_blank\">El Papa se dirigirá a los parlamentarios españoles en una sesión en el Congreso el 8 de junio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Édouard Philippe y Gabriel Attal: la silenciosa batalla por liderar el centroderecha de Francia",
+    "link": "https://www.elperiodico.com/es/internacional/20260606/philippe-attal-silenciosa-batalla-liderar-centroderecha-francia-elecciones-presidenciales-relevo-macron-131090094",
+    "pubDate": "2026-06-06 12:00:53",
+    "category": "",
+    "description": "<h2>Dos perfiles muy distintos con dos estrategias opuestas emergen como principales aspirantes de la derecha moderada para conquistar la elecciones presidenciales de 2027</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "SOS de la industria catalana del autobús ante el gigante chino eléctrico",
+    "link": "https://www.elperiodico.com/es/barcelona/20260606/capital-carroceria-autobuses-arbucies-reconversion-industrial-competencia-asia-130917958",
+    "pubDate": "2026-06-06 12:00:53",
+    "category": "",
+    "description": "<h2>La demanda de vehículos para los próximos años se encamina a China y pasa de largo de Arbúcies, la histórica capital local de la carrocería, que reclama el apoyo de la administración</h2><h2>La cadena de montaje manual de la industria del autobús de Arbúcies desafía la automatización global</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260428/govern-aprueba-decreto-ley-dar-129609699\" target=\"_blank\">El Govern aprueba por decreto ley \"dar continuidad\" a las concesiones del bus interurbano hasta 2034 a cambio de descarbonizar la flota</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Leire Díez apostó una comida con la directora de la Guardia Civil a que los mensajes entre Ábalos y Sánchez los había filtrado la UCO: \"Tu amiga te debe más que una comida\"",
+    "link": "https://www.elperiodico.com/es/politica/20260606/leire-diez-aposto-comida-directora-131077408",
+    "pubDate": "2026-06-06 12:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La UCO acredita al menos tres reuniones de Díaz con la directora general de la Guardia Civil, Mercedes González</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260603/leire-diez-mantuvo-diferentes-encuentros-130989187\">Leire Díez mantuvo \"diferentes encuentros\" con la directora de la Guardia Civil e intentó colocarle de asesor al agente imputado en el 'caso Koldo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260605/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Situación política y judicial del PSOE, la trama Leire Díez y el caso Zapatero | Última hora </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laurent Sengenes, Director general de Dacia en España: “Con CareMakers hacemos la movilidad accesible a todos”",
+    "link": "https://www.elperiodico.com/es/motor/20260606/laurent-sengenes-director-general-dacia-130937082",
+    "pubDate": "2026-06-06 12:00:53",
+    "category": "",
+    "description": "<h2>El máximo responsable de la firma en nuestro país desvela las próximas novedades eléctricas y compactas de la gama mientras defiende un modelo de consumo pragmático centrado en gastar lo justo </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Чісора не вірить у шанси майбутнього опонента Усика на пояс WBC",
+    "link": "https://ua.korrespondent.net/sport/boks/4884473-chisora-ne-viryt-u-shansy-maibutnoho-oponenta-usyka-na-poias-WBC",
+    "pubDate": "2026-06-06 11:59:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452970.jpg\">Дерек Чісора пророкує Кабаєлу дострокову поразку від Усика в 8–10 раундах.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ERC sitúa la \"batalla por la identidad catalana\" en el centro de su estrategia para frenar a Aliança Catalana en las municipales",
+    "link": "https://www.elperiodico.com/es/politica/20260606/erc-situa-batalla-identidad-catalana-centro-estrategia-catalana-frenar-alianca-catalana-131087244",
+    "pubDate": "2026-06-06 11:56:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Alamany exige al Govern que vuelva a negociar con los sindicatos para solucionar la crisis del sector educativo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260605/gabriel-rufian-junqueras-relaciones-puentes-romper-consell-nacional-131009246\" target=\"_blank\">ERC activa la cuenta atrás para rehacer los puentes con Rufián o romper definitivamente</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260605/oriol-junqueras-pedro-sanchez-presupuestos-estado-negociar-131053015\" target=\"_blank\">Junqueras no descarta negociar presupuestos con Sánchez: \"Damos la legislatura menos por muerta que el PSOE\"</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Vicky Martín Berrocal (53 años): \"Estoy absolutamente enganchada al subidón de energía que supone arrancar la jornada reseteando el organismo\"",
+    "link": "https://www.elperiodico.com/es/gente/20260606/vicky-martin-berrocal-53-anos-cardio-de-alta-intensidad-en-ayunas-dv-131089717",
+    "pubDate": "2026-06-06 11:56:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La diseñadora ha compartido un vídeo en redes sociales hablando sobre los beneficios de realizar cardio de alta intensidad en ayunas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260112/lydia-bosch-62-anos-actriz-dv-125479627\">Lydia Bosch (62 años), actriz, revela su rutina para mantenerse en forma: \"Hago una hora de cardio, corro por la urbanización\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сили спецоперацій уразили російську базу Кронштадт",
+    "link": "https://ua.korrespondent.net/ukraine/4884471-syly-spetsoperatsii-urazyly-rosiisku-bazu-kronshtadt",
+    "pubDate": "2026-06-06 11:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452960.jpg\">На базі Кронштадт розміщені військові кораблі, підводні човни, навчальні центри, доки для ремонту та суднобудівні потужності.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "9 y 24 de junio: ¿En qué comunidades es festivo cada día y en cuáles se podrá hacer puente?",
+    "link": "https://www.elperiodico.com/es/economia/20260606/festivos-junio-2026-calendario-laboral-dv-130918896",
+    "pubDate": "2026-06-06 11:50:00",
+    "category": "",
+    "description": "<h2>El calendario escolar prevé hasta cuatro días de fiesta para los estudiantes de al menos dos autonomías</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260601/corpus-2026-barcelona-ou-com-balla-flores-130670677\">Corpus 2026 en Barcelona: dónde ver el famoso \"ou com balla\" y las alfombras florales este junio</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260107/calendario-laboral-2026-cataluna-barcelona-festivos-puentes-vacaciones-dv-loc-123188151\">Estos son todos los festivos de Catalunya este 2026: puentes y fines de semana largos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pau Palomar: de sacar la nota más de selectividad en Catalunya a hacer prácticas de física en Suiza y a estudiar en Estados Unidos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/catalan-pau-palomar-mejor-nota-selectividad-fisica-suiza-estados-unidos-dv-131089662",
+    "pubDate": "2026-06-06 11:48:39",
+    "category": "",
+    "description": "<h2>El estudiante del Bages, que obtuvo un 9,9 en las PAU de 2024, aconseja a los estudiantes de este año que descansen y controlen los nervios: \"Te pueden jugar una mala pasada\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Llega el Papa León XIV a España",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/llega-papa-leon-xiv-espana-fotos-131089706",
+    "pubDate": "2026-06-06 11:44:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Javier, qué bien que hayas venido, te veo muy guapo\": el saludo de la reina a un niño que esperaba al papa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/saludo-reina-nino-papa-leon-xiv/131089769.shtml",
+    "pubDate": "2026-06-06 11:44:18",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat recomienda ahora teletrabajar a quien viva o trabaje en Barcelona por la visita del Papa",
+    "link": "https://www.elperiodico.com/es/economia/20260606/generalitat-recomienda-ahora-teletrabajar-barcelona-visita-papa-131088838",
+    "pubDate": "2026-06-06 11:43:14",
+    "category": "",
+    "description": "<h2>El Govern había defendido esta misma semana que <a href=\"https://www.elperiodico.com/es/politica/20260602/catalunya-teletrabajo-visita-papa-govern-descarta-recomendar-130931956?utm_source=whatsapp&utm_medium=social&utm_campaign=btn-share\">no sería un buen mensaje que cuando hay visitas de jefes de Estado no se pueda asegurar la movilidad</a> de los trabajadores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Англійський грант націлився на українського воротаря",
+    "link": "https://ua.korrespondent.net/sport/football/4884469-anhliiskyi-hrant-natsilyvsia-na-ukrainskoho-vorotaria",
+    "pubDate": "2026-06-06 11:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452959.jpg\">Час для кроку вперед: Анатолій Трубін може залишити Бенфіку в літнє трансферне вікно.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Unicaja, ejemplo de la FIBA para la NBA Europa",
+    "link": "https://as.com/baloncesto/el-unicaja-ejemplo-de-la-fiba-para-la-nba-europa-f202606-n/",
+    "pubDate": "2026-06-06 11:41:19",
+    "category": "Baloncesto",
+    "description": "Andreas Zagklis, secretario general de FIBA, citó al club malagueño al defender el acceso por mérito deportivo a la futura competición impulsada junto a la NBA, prevista para 2027.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 600 efectivos de la Guardia Civil participan en el dispositivo de seguridad con motivo de la llegada del Papa León XIV",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/600-efectivos-guardia-civil-participan-video/131089306.shtml",
+    "pubDate": "2026-06-06 11:29:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"¡Hola Felipe!\": El grito de un niño al rey mientras esperaba para saludar al papa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/hola-felipe-grito-nino-rey-papa/131089331.shtml",
+    "pubDate": "2026-06-06 11:29:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Одесі дівчинка стрибнула з даху 17-поверхового будинку",
+    "link": "https://ua.korrespondent.net/ukraine/4884466-v-odesi-divchynka-strybnula-z-dakhu-17-poverkhovoho-budynku",
+    "pubDate": "2026-06-06 11:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452948.jpeg\">Дитина впала на дах прибудови, де розміщений торговельний центр. Дівчинка загинула на місці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Desmantelado uno de los mayores centros logísticos de hachís de Catalunya con más de nueve toneladas almacenadas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/desmantelado-mayores-centros-logisticos-hachis-catalunya-131088204",
+    "pubDate": "2026-06-06 11:20:46",
+    "category": "",
+    "description": "<h2>Los Mossos iniciaron la investigación a raíz de un intento de robo de droga a tiros entre narcos</h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Estos son los primeros ciudadanos que ven y saludan al papa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/son-primeros-ciudadanos-saludan-ninos-papa/131088872.shtml",
+    "pubDate": "2026-06-06 11:17:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "León XIV aterriza en Madrid para dar inicio al primer viaje a España de un papa en 15 años",
+    "link": "https://www.elperiodico.com/es/sociedad/20260606/leon-xiv-aterriza-madrid-viaje-papa-espana-131088504",
+    "pubDate": "2026-06-06 11:07:12",
+    "category": "",
+    "description": "<h2>El pontífice es recibido en el aeropuerto de Barajas por los Reyes para arrancar su itinerario de seis días por Madrid, Barcelona y Canarias </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo, soplar y sorber... todo no puede ser",
+    "link": "https://www.elperiodico.com/es/opinion/20260606/feijoo-soplar-sorber-mocion-de-censura-junts-pnv-pp-articulo-manuel-sanchez-131076382",
+    "pubDate": "2026-06-06 11:00:03",
+    "category": "",
+    "description": "<h2>Al líder del PP no se le ve ni la convicción ni la decisión necesaria, solo dudas y ocurrencias</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260602/junts-mocion-censura-feijoo-sanchez-waterloo-belgica-puigdemont-130918285\">Junts reta a Feijóo a ir a Waterloo a plantear su moción de censura instrumental a Puigdemont</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський підтвердив нові далекобійні удари по РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4884464-zelenskyi-pidtverdyv-novi-dalekobiini-udary-po-rf",
+    "pubDate": "2026-06-06 10:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452928.jpg\">Будь-які прояви несправедливості проти України матимуть справедливу відповідь, запевнив глава держави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Reyes reciben a León XIV",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/reyes-reciben-leon-xiv/131088238.shtml",
+    "pubDate": "2026-06-06 10:55:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лідера партії Свобода поранили на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4884461-lidera-partii-svoboda-poranyly-na-fronti",
+    "pubDate": "2026-06-06 10:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452919.jpg\">Підполковник Олег Тягнибок разом з побратимами був в одному автомобілі, в який влучив російський дрон.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ітаума отримає титульний бій після поєдинку з Хрговичем",
+    "link": "https://ua.korrespondent.net/sport/boks/4884459-itauma-otrymaie-tytulnyi-bii-pislia-poiedynku-z-khrhovychem",
+    "pubDate": "2026-06-06 10:22:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452918.jpg\">Бій за золото хевівейту: протистояти претенденту буде чинний чемпіон Даніель Дюбуа.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La serie de Amazon Prime Video de Tomb Raider comienza a filmarse en Girona",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/serie-amazon-prime-video-tomb-fotos-131086891",
+    "pubDate": "2026-06-06 10:11:04",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La increíble historia del sherpa que ha sobrevivido seis días solo en el Everest",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260606/rescate-everest-sherpa-dawa-dv-131055914",
     "pubDate": "2026-06-06 10:10:19",
@@ -99,6 +405,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "\"Es una maravilla\": este es el suplemento más recomendado para acabar con los sofocos, el insomnio y la fatiga",
+    "link": "https://www.elperiodico.com/es/shopping/20260606/suplemento-menopausia-sintomas-mujeres-novastil-130838733",
+    "pubDate": "2026-06-06 10:00:00",
+    "category": "",
+    "description": "<h2>Si estás cansada de experimentar sofocos, insomnio y fatiga a todas horas... este el suplemento que, seguramente, necesites incorporar en tu rutina </h2><h2><a href=\"https://www.elperiodico.com/es/shopping/20250108/suplemento-perder-peso-grasa-rapido-fatburner-113215958\" target=\"_blank\" rel=\"nofollow\">Así es el suplemento más recomendado para acabar con la grasa localizada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Un ataque masivo de drones obliga a confinar a los habitantes de San Petersburgo",
     "link": "https://www.elperiodico.com/es/internacional/20260606/ataque-masivo-drones-obliga-confinar-san-petersburgo-131086349",
     "pubDate": "2026-06-06 09:46:05",
@@ -122,6 +437,15 @@
     "pubDate": "2026-06-06 09:30:00",
     "category": "",
     "description": "<h2 class=\"item\">Los servicios de inspección encuentran una caja de cartón mal reciclada que incluía la identidad de un vecino de Sabadell</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260518/sabadell-eleva-presion-botellones-ruidos-ayuntamiento-400-multas-2026-130359713\">Sabadell eleva la presión a botellones y ruido: el Ayuntamiento ha puesto unas 400 multas este 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260521/waka-sabadell-hoy-cierre-discoteca-riesgo-precinto-130484831\">La discoteca Waka desafía el cierre municipal y seguirá abierta pese al riesgo de precinto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se calienta la eliminatoria entre el Baskonia y el Joventut",
+    "link": "https://as.com/baloncesto/se-calienta-la-serie-entre-el-baskonia-y-el-joventut-f202606-n/",
+    "pubDate": "2026-06-06 09:28:05",
+    "category": "Baskonia",
+    "description": "El detonante llegó a falta de menos de 5 minutos para el final del segundo partido, cuando se montó una tangana que terminó con tres antideportivas.",
     "topic": "",
     "topic_match_probability": 0
   },
