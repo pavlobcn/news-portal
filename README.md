@@ -1,8 +1,12 @@
-# News for 2026-06-06 16:28
+# News for 2026-06-06 17:47
 
 Previous day: [2026-06-05](./data/2026-06-05.md)
 
 ## ua.korrespondent.net
+17:37 [Завод в Ірландії працює на оборонку РФ - FT](https://ua.korrespondent.net/world/4884523-zavod-v-irlandii-pratsuiie-na-oboronku-rf-FT)<br>
+17:18 [В Україні облаштували понад 800 км антидронових тунелів](https://ua.korrespondent.net/ukraine/4884521-v-ukraini-oblashtuvaly-ponad-800-km-antydronovykh-tuneliv)<br>
+16:56 [У ЗСУ заявили про найбільшу активність росіян на Лиманському напрямку](https://ua.korrespondent.net/ukraine/4884518-u-zsu-zaiavyly-pro-naibilshu-aktyvnist-rosiian-na-lymanskomu-napriamku)<br>
+16:31 [У Польщі прокоментували зустріч з Будановим](https://ua.korrespondent.net/world/4884514-u-polschi-prokomentuvaly-zustrich-z-budanovym)<br>
 16:17 [Угорщина обмежила програму для трудових мігрантів](https://ua.korrespondent.net/world/4884511-uhorschyna-obmezhyla-prohramu-dlia-trudovykh-mihrantiv)<br>
 15:59 [Вулиці Києва затопило після потужної зливи](https://ua.korrespondent.net/city/kiev/4884509-vulytsi-kyieva-zatopylo-pislia-potuzhnoi-zlyvy)<br>
 15:38 [Тайвань звинуватив Китай у провокації](https://ua.korrespondent.net/world/4884507-taivan-zvynuvatyv-kytai-u-provokatsii)<br>
@@ -43,6 +47,7 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 00:58 [Радбез ООН екстрено збереться щодо України](https://ua.korrespondent.net/world/4884400-radbez-oon-ekstreno-zberetsia-schodo-ukrainy)<br>
 
 ## as.com
+17:42 [Real Madrid - Tenerife, en directo: Playoff ACB 2026, hoy en vivo](https://as.com/baloncesto/acb/real-madrid-tenerife-partido-3-en-directo-playoff-acb-2026-hoy-en-vivo-f202606-d/)<br>
 11:41 [El Unicaja, ejemplo de la FIBA para la NBA Europa](https://as.com/baloncesto/el-unicaja-ejemplo-de-la-fiba-para-la-nba-europa-f202606-n/)<br>
 09:28 [Se calienta la eliminatoria entre el Baskonia y el Joventut](https://as.com/baloncesto/se-calienta-la-serie-entre-el-baskonia-y-el-joventut-f202606-n/)<br>
 09:05 [El fallo de Wembanyama que como pierda las finales va a ser recordado siempre en la historia de la NBA](https://as.com/baloncesto/el-fallo-de-wembanyama-que-como-pierda-las-finales-va-a-ser-recordado-siempre-en-la-historia-de-la-nba-f202606-v/)<br>
@@ -57,6 +62,16 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 05:59 [Caminos cruzados](https://as.com/baloncesto/acb/caminos-cruzados-f202606-n/)<br>
 
 ## www.elperiodico.com
+17:43 [¿Por qué la reina Letizia viste de blanco ante el papa León XIV?](https://www.elperiodico.com/es/videos/sociedad/reina-letizia-viste-blanco-papa/131099234.shtml)<br>
+17:35 [Territori anuncia la licitación de las obras de la carretera entre Colomers y Verges con una inversión de 14 millones](https://www.elperiodico.com/es/economia/20260606/territori-anuncia-licitacion-obras-carretera-colomers-verges-baix-emporda-girona-131098682)<br>
+17:30 [Antonio López, 15 años con el sueldo congelado: "Mis hijas no saben lo que son vacaciones; somos trabajadores pobres"](https://www.elperiodico.com/es/sociedad/20260606/vivir-durante-15-anos-sueldo-congelado-hijas-vacaciones-dv-127669554)<br>
+17:15 [Cuna de Pep Guardiola y del legendario Timbaler del Bruc: la localidad de Catalunya que evoca su pasado medieval, con humedales y reservas naturales que miran a Montserrat](https://www.elperiodico.com/es/catalunya/20260606/pueblo-medieval-pep-guardiola-timbaler-bruc-barcelona-cataluna-dv-loc-131049599)<br>
+17:06 [Listas de espera: "Nos plantamos delante de la puerta del médico hasta que nos atendió"](https://www.elperiodico.com/es/sociedad/20260606/listas-espera-sistema-sanitario-medico-131098313)<br>
+17:06 [Reconstruir "un pueblo deshabitado": el desafío que han asumido siete mujeres y un joven alumnos de albañilería](https://www.elperiodico.com/es/sociedad/20260606/siete-mujeres-un-joven-recuperacion-pueblo-deshabitado-dv-129168423)<br>
+17:05 [Jupol exige la dimisión inmediata de Marlaska y del director general de la Policia Nacional por el 'caso Leire'](https://www.elperiodico.com/es/politica/20260606/jupol-exige-dimision-inmediata-marlaska-director-general-policia-nacional-131098349)<br>
+17:03 [Una macroencuesta sondea el apoyo ciudadano a una eventual huelga general por la crisis de la vivienda y el coste de la vida](https://www.elperiodico.com/es/sociedad/20260606/macroencuesta-apoyo-ciudadano-huelga-general-131098321)<br>
+17:00 [Ignacio de la Calzada, abogado laboralista: "No te pueden despedir si mandas por error un mensaje insultando a tu jefe"](https://www.elperiodico.com/es/economia/20260606/ignacio-calzada-abogado-laboralista-error-mensaje-despido-dv-131009505)<br>
+16:55 [Detenidas tres personas en el marco de un dispositivo Kanpai en Tarragona](https://www.elperiodico.com/es/videos/sociedad/detenidas-tres-personas-marco-dispositivo/131098270.shtml)<br>
 16:25 [Muere un hombre en un accidente laboral en una empresa de Roquetes (Tarragona)](https://www.elperiodico.com/es/sucesos/20260606/muere-hombre-accidente-laboral-empresa-roquetes-tarragona-131097788)<br>
 16:10 [La Ley de Bienestar Animal lo deja claro: los gatos tienen que llevar microchip y puede salir muy caro no hacerlo](https://www.elperiodico.com/es/vida-y-estilo/20260606/ley-bienestar-animal-deja-claro-gatos-microchip-dv-130810079)<br>
 16:06 [Así ha sido el primer trayecto en papamóvil de León XIV por las calles de Madrid](https://www.elperiodico.com/es/videos/sociedad/sido-primer-trayecto-papamovil-leon/131097524.shtml)<br>
@@ -125,6 +140,7 @@ Previous day: [2026-06-05](./data/2026-06-05.md)
 09:01 [El mercado de las cartas coleccionables: del patio del colegio a ventas millonarias](https://www.elperiodico.com/es/economia/20260606/programada-epc-mercado-cartas-coleccionables-131068129)<br>
 09:01 [Ucrania consigue frenar la iniciativa rusa de los últimos dos años gracias al "muro de drones" y la mejora del reclutamiento](https://www.elperiodico.com/es/internacional/20260606/situacion-guerra-ucrania-junio-2026-rusia-san-petersburgo-131085950)<br>
 09:01 [Los coleccionistas, en la cresta de la ola: "Todo está yendo demasiado rápido"](https://www.elperiodico.com/es/economia/20260606/coleccionistas-cresta-ola-yendo-rapido-131068257)<br>
+09:01 [Putin refuerza su seguridad ante los cada vez más osados ataques de Ucrania](https://www.elperiodico.com/es/internacional/20260606/putin-refuerza-seguridad-vez-osados-ataques-ucrania-131085996)<br>
 09:01 [Si volvieras a hacer la PAU, ¿qué carrera elegirías?](https://www.elperiodico.com/es/opinion/20260606/volvieras-pau-carrera-elegirias-131068332)<br>
 09:01 [Drones, guerrillas, narcos y terroristas](https://www.elperiodico.com/es/internacional/20260606/drones-guerrillas-narcos-terroristas-america-latina-africa-130947721)<br>
 08:48 [El Papa viaja de camino a España: así ha sido su salida del aeropuerto de Roma](https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-viaja-camino-espana/131085889.shtml)<br>
