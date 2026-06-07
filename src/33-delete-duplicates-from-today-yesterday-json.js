@@ -4,10 +4,6 @@ const path = require('path');
 const repoRoot = path.resolve(__dirname, '..');
 const dataDir = path.join(repoRoot, 'data');
 
-function formatDate(date) {
-  return date.toISOString().slice(0, 10);
-}
-
 function readJsonArray(filePath) {
   if (!fs.existsSync(filePath)) {
     return null;
@@ -73,15 +69,9 @@ function processFile(filePath) {
 }
 
 function main() {
-  const today = new Date();
-  const yesterday = new Date(today);
-  yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+  const newsFile = path.join(dataDir, 'news.json');
 
-  const yesterdayFile = path.join(dataDir, `${formatDate(yesterday)}.json`);
-  const todayFile = path.join(dataDir, `${formatDate(today)}.json`);
-
-  processFile(yesterdayFile);
-  processFile(todayFile);
+  processFile(newsFile);
 }
 
 main();
