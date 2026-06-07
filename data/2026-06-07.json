@@ -1,5 +1,50 @@
 [
   {
+    "title": "На Сумщині росіяни вдарили по рятувальниках",
+    "link": "https://ua.korrespondent.net/ukraine/4884715-na-sumschyni-rosiiany-vdaryly-po-riatuvalnykakh",
+    "pubDate": "2026-06-07 18:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454209.jpg\">Під час роботи співробітників ДСНС на місці одного з влучань, ворог прицільно вдарив по пожежному автомобілю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іспанський клуб після вильоту з Ла-Ліги скорочує фінансування",
+    "link": "https://ua.korrespondent.net/sport/football/4884718-ispanskyi-klub-pislia-vylotu-z-la-lihy-skorochuie-finansuvannia",
+    "pubDate": "2026-06-07 18:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454149.jpg\">Каталонська Жирона змушена скоротити витрати після того, як опинилася в лізі на клас нижче.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barça gana la 13ª Copa del Rey seguida con un destrozo al Bidasoa (17-37)",
+    "link": "https://www.elperiodico.com/es/deportes/20260607/barca-gana-13a-copa-rey-131123095",
+    "pubDate": "2026-06-07 18:30:03",
+    "category": "",
+    "description": "<h2>Emil Nielsen liquidó pronto la emoción con una sensacional actuación con 14 paradas en el descanso (8-20)</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La llegada del papa León XIV al Movistar Arena de Madrid",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/llegada-papa-leon-xiv-movistar/131125443.shtml",
+    "pubDate": "2026-06-07 18:28:13",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio forestal en Lepe obliga a desalojar a 115 menores y 15 adultos de un camping",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/incendio-forestal-lepe-desalojados-115-menores-131125192",
+    "pubDate": "2026-06-07 18:24:46",
+    "category": "",
+    "description": "<h2>Un total de 16 medios terrestres y 6 aéreos trabajan para contener el fuego declarado en Lepe, Huelva, desde las 14:30 horas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Sondeos a pie de urna de las elecciones del Real Madrid sobre el ganador entre Florentino Pérez y Enrique Riquelme",
     "link": "https://www.elperiodico.com/es/deportes/20260607/sondeos-pie-urna-elecciones-real-madrid-riquelme-florentino-131124520",
     "pubDate": "2026-06-07 18:18:58",
@@ -14,6 +59,15 @@
     "pubDate": "2026-06-07 18:17:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454185.jpg\">Уряд збільшив до 90 днів строк надання компенсації за розміщення ВПО та розширив житлові програми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Movistar Estudiantes - Leyma Coruña, en directo: final del ascenso a la Liga Endesa baloncesto 2026 en vivo hoy",
+    "link": "https://as.com/baloncesto/mas_baloncesto/movistar-estudiantes-leyma-coruna-en-directo-final-del-ascenso-a-la-liga-endesa-baloncesto-2026-en-vivo-hoy-f202606-d/",
+    "pubDate": "2026-06-07 18:16:25",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo de la final de baloncesto de la Final Four de ascenso a la Liga Endesa entre Movistar Estudiantes y Leyma Courña; hoy, a las 19:00, en As.com.",
     "topic": "",
     "topic_match_probability": 0
   },

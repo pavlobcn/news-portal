@@ -1,8 +1,9 @@
-# News for 2026-06-07 18:22
+# News for 2026-06-07 18:44
 
 Previous day: [2026-06-06](./data/2026-06-06.md)
 
 ## ua.korrespondent.net
+18:35 [На Сумщині росіяни вдарили по рятувальниках](https://ua.korrespondent.net/ukraine/4884715-na-sumschyni-rosiiany-vdaryly-po-riatuvalnykakh)<br>
 18:17 [Кабмін розширив підтримку переселенців](https://ua.korrespondent.net/ukraine/4884711-kabmin-rozshyryv-pidtrymku-pereselentsiv)<br>
 17:55 [Зеленський прибув до Лондона](https://ua.korrespondent.net/ukraine/4884709-zelenskyi-prybuv-do-londona)<br>
 17:36 [Дрони зупинили роботу аеропорту Сочі – росЗМІ](https://ua.korrespondent.net/world/russia/4884702-drony-zupynyly-robotu-aeroportu-sochi-roszmi)<br>
@@ -42,12 +43,15 @@ Previous day: [2026-06-06](./data/2026-06-06.md)
 01:56 [США визначилися, як розпорядитися активами Ірану](https://ua.korrespondent.net/world/4884583-ssha-vyznachylysia-yak-rozporiadytysia-aktyvamy-iranu)<br>
 
 ## as.com
+18:16 [Movistar Estudiantes - Leyma Coruña, en directo: final del ascenso a la Liga Endesa baloncesto 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/movistar-estudiantes-leyma-coruna-en-directo-final-del-ascenso-a-la-liga-endesa-baloncesto-2026-en-vivo-hoy-f202606-d/)<br>
 11:20 [Y el Madrid, también fuera de la Supercopa](https://as.com/baloncesto/acb/y-el-madrid-tambien-fuera-de-la-supercopa-f202606-n/)<br>
 09:10 [A Scariolo no le queda ningún escondite](https://as.com/baloncesto/acb/a-scariolo-no-le-queda-ningun-escondite-f202606-n/)<br>
 07:50 [Deck: “Hay que pedir perdón a los aficionados”](https://as.com/baloncesto/acb/deck-hay-que-pedir-perdon-a-los-aficionados-f202606-n/)<br>
 07:18 [Un torneo diferente a todos los demás](https://as.com/baloncesto/mas_baloncesto/un-torneo-diferente-a-todos-los-demas-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:28 [La llegada del papa León XIV al Movistar Arena de Madrid](https://www.elperiodico.com/es/videos/sociedad/llegada-papa-leon-xiv-movistar/131125443.shtml)<br>
+18:24 [Un incendio forestal en Lepe obliga a desalojar a 115 menores y 15 adultos de un camping](https://www.elperiodico.com/es/sociedad/20260607/incendio-forestal-lepe-desalojados-115-menores-131125192)<br>
 18:08 [Un incendio junto a la antigua SAFA de Blanes quema 800 metros cuadrados y termina con un detenido](https://www.elperiodico.com/es/sucesos/20260607/detenido-incendio-antigua-safa-blanes-quema-800-metros-cuadrados-131124247)<br>
 17:56 [La línea R2 Sud de Rodalies recupera su servicio habitual en el Garraf tras las obras](https://www.elperiodico.com/es/sociedad/20260607/linea-r2-sud-rodalies-servicio-habitual-garraf-131123315)<br>
 17:54 [Los Verds hacen el 4 de 9 con aguja y el pilar de 8 en una jornada de gama extra de las colles campeonas en El Vendrell](https://www.elperiodico.com/es/ocio-y-cultura/20260607/verds-4-9-aguja-jornada-colles-castellers-el-vendrell-131123480)<br>
