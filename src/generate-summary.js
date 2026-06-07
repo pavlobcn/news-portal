@@ -4,6 +4,7 @@ const path = require('path');
 const { spawnSync } = require('child_process');
 
 const scripts = [
+  '33-delete-duplicates-from-today-yesterday-json.js',
   '35-join-yesterday-today-news.js',
   '40-split-news-by-day.js',
   '50-generate-news-markdown.js',
