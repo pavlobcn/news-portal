@@ -1,8 +1,15 @@
-# News for 2026-06-07 07:01
+# News for 2026-06-07 10:25
 
 Previous day: [2026-06-06](./data/2026-06-06.md)
 
 ## ua.korrespondent.net
+09:59 [РФ вдарила по сховищу ядерних відходів](https://ua.korrespondent.net/ukraine/4884632-rf-vdaryla-po-skhovyschu-yadernykh-vidkhodiv)<br>
+09:18 [Війська РФ обстріляли Одесу, є поранений](https://ua.korrespondent.net/ukraine/4884625/)<br>
+08:52 [У Воронежі партизани знищили рідкісну техніку на залізниці](https://ua.korrespondent.net/world/russia/4884622-u-voronezhi-partyzany-znyschyly-ridkisnu-tekhniku-na-zaliznytsi)<br>
+08:35 [ППО знешкодила 215 з 236 дронів РФ](https://ua.korrespondent.net/ukraine/4884619-ppo-zneshkodyla-215-z-236-droniv-rf)<br>
+07:53 [Генштаб назвав найактивніший напрямок фронту](https://ua.korrespondent.net/ukraine/4884615-henshtab-nazvav-naiaktyvnishyi-napriamok-frontu)<br>
+07:49 [Президент США відвідає третій матч фіналу НБА](https://ua.korrespondent.net/sport/basketball/4884614-prezydent-ssha-vidvidaie-tretii-match-finalu-nba)<br>
+07:19 [Удари по Дніпропетровщині: є загиблий та поранений](https://ua.korrespondent.net/ukraine/4884609-udary-po-dnipropetrovschyni-ye-zahyblyi-ta-poranenyi)<br>
 06:54 [Генштаб оновив втрати РФ у війні](https://ua.korrespondent.net/ukraine/4884605-henshtab-onovyv-vtraty-rf-u-viini)<br>
 06:23 [Росіяни вдарили по Запоріжжю, частина міста без світла](https://ua.korrespondent.net/ukraine/4884602-rosiiany-vdaryly-po-zaporizhzhui-chastyna-mista-bez-svitla)<br>
 05:58 [Підсумки 06.06: Ураження в РФ і Буданов у Польщі](https://ua.korrespondent.net/ukraine/4884541-pidsumky-0606-urazhennia-v-rf-i-budanov-u-polschi)<br>
@@ -16,7 +23,43 @@ Previous day: [2026-06-06](./data/2026-06-06.md)
 01:56 [США визначилися, як розпорядитися активами Ірану](https://ua.korrespondent.net/world/4884583-ssha-vyznachylysia-yak-rozporiadytysia-aktyvamy-iranu)<br>
 01:25 [На Донеччині атаковано ТЕС і залізницю - OSINT](https://ua.korrespondent.net/ukraine/4884585-na-donechchyni-atakovano-tes-i-zaliznytsui-OSINT)<br>
 
+## as.com
+09:10 [A Scariolo no le queda ningún escondite](https://as.com/baloncesto/acb/a-scariolo-no-le-queda-ningun-escondite-f202606-n/)<br>
+07:50 [Deck: “Hay que pedir perdón a los aficionados”](https://as.com/baloncesto/acb/deck-hay-que-pedir-perdon-a-los-aficionados-f202606-n/)<br>
+07:18 [Un torneo diferente a todos los demás](https://as.com/baloncesto/mas_baloncesto/un-torneo-diferente-a-todos-los-demas-f202606-n/)<br>
+
 ## www.elperiodico.com
+10:21 [Capturan en México a Orlando Ramírez, "el Misterio", presunto líder de la Mara Salvatrucha](https://www.elperiodico.com/es/internacional/20260607/capturan-mexico-orlando-ramirez-misterio-lider-mara-salvatrucha-pandillas-131113131)<br>
+10:13 [Almeida entrega al papa la Llave de Oro de la ciudad](https://www.elperiodico.com/es/videos/politica/almeida-entrega-papa-llave-oro/131113280.shtml)<br>
+10:08 [Al menos doce heridos de bala, dos de ellos graves, cerca de un festival al aire libre en Ohio (EEUU)](https://www.elperiodico.com/es/internacional/20260607/eeuu-doce-heridos-graves-ohio-tiroteo-festival-131112903)<br>
+10:05 [Así será la residencia del Papa durante su estancia en Barcelona: en su subsuelo se esconden muchos restos de Barcino](https://www.elperiodico.com/es/barcelona/20260607/papa-leon-xiv-barcelona-palacio-episcopal-residencia-dv-loc-130962895)<br>
+10:00 ['The Three Body Problem'](https://www.elperiodico.com/es/opinion/20260607/the-three-body-problem-iran-eeuu-articulo-jorge-dezcallar-131077778)<br>
+10:00 [La alerta de la veterinaria María Vetican sobre las pulgas en perros: “Si ves esto en el lomo, no es suciedad ni barro pegado”](https://www.elperiodico.com/es/vida-y-estilo/20260607/alerta-veterinaria-maria-vetican-pulgas-perros-dv-131059417)<br>
+09:57 [La guerra de Irán se calienta: ataque de EEUU, misiles contra Baréin y Kuwait, drones en Ormuz y combates en el Líbano](https://www.elperiodico.com/es/internacional/20260607/guerra-iran-calienta-ataque-eeuu-misiles-drones-131111979)<br>
+09:41 [Los tatuajes pueden alterar las defensas del cuerpo](https://www.elperiodico.com/es/tendencias21/20260607/tatuajes-alterar-defensas-cuerpo-125425475)<br>
+09:41 [El aviso de la Associació Catalana d'Empreses de Salut Ambiental: las plagas de mosquitos y cucarachas ya no son estacionales](https://www.elperiodico.com/es/catalunya/20260607/cataluna-plaga-mosquitos-cucarachas-ratas-dv-loc-130964377)<br>
+09:26 [Una nueva falla capaz de "generar grandes terremotos" se está abriendo en el Sur de España](https://www.elperiodico.com/es/medio-ambiente/20260607/descubren-sur-espana-incipiente-falla-122843091)<br>
+09:15 [Los mejores planes para disfrutar del Año Gaudí en Catalunya](https://www.elperiodico.com/es/que-hacer/planes/20260607/mejores-planes-ano-gaudi-catalunya-130967733)<br>
+09:00 [Nómadas de toda Europa cosechan el peligroso opio silvestre en Toledo: "No queremos que se sepa y venga más gente"](https://www.elperiodico.com/es/sociedad/20260607/nomadas-opio-silvestre-cosechan-amapola-toledo-130751974)<br>
+09:00 [Señales de alarma](https://www.elperiodico.com/es/opinion/20260607/senales-alarma-serrat-articulo-carles-francino-131077081)<br>
+09:00 [Dylan, cubano deportado por EEUU: "Yo estaba dispuesto a volver a Cuba, pero nunca pensé que acabaría en México"](https://www.elperiodico.com/es/internacional/20260607/eeuu-dylan-cubano-deportado-ice-mexico-131111417)<br>
+09:00 [México coopera con las deportaciones de Trump y devuelve migrantes a su país de origen pese a que EEUU lo consideró no seguro](https://www.elperiodico.com/es/internacional/20260607/mexico-coopera-deportaciones-donald-trump-eeuu-terceros-paises-violacion-derechos-humanos-131111441)<br>
+09:00 [España es líder mundial en producción de opio para morfina: 400 agricultores trabajan en plantaciones secretas](https://www.elperiodico.com/es/sociedad/20260607/espana-lider-mundial-produccion-opio-legal-amapola-morfina-plantaciones-secretas-castilla-la-mancha-leon-medicina-130778633)<br>
+08:56 [Los cinco catalanes aislados por el brote de hantavirus vuelven a casa para completar la cuarentena](https://www.elperiodico.com/es/sociedad/20260607/pacientes-catalanes-afectados-hantavirus-regresan-casa-cataluna-131110128)<br>
+08:55 [Salir de Barcelona para ahorrar en vivienda compensa cada vez menos, según un informe](https://www.elperiodico.com/es/vivienda/20260607/salir-barcelona-ahorrar-vivienda-compensa-menos-informe-idealista-dv-loc-131019056)<br>
+08:55 [Todo listo en Cibeles para la Santa Misa del papa](https://www.elperiodico.com/es/videos/sociedad/visita-papa-santa-misa-cibeles/131111291.shtml)<br>
+08:45 [Ni caminar ni salir en bicicleta: el ejercicio ideal para mayores de 65 años se puede hacer sin salir de casa](https://www.elperiodico.com/es/vida-y-estilo/20260607/ejercicio-ideal-mayores-65-anos-sin-salir-casa-dv-130937821)<br>
+08:00 [Bancos y aseguradoras aceleran la inversión en naturaleza para minimizar riesgos financieros](https://www.elperiodico.com/es/sociedad/20260607/bancos-aseguradoras-inversion-naturaleza-minimizar-riesgos-financieros-131063496)<br>
+08:00 [Europa busca de forma urgente financiación pública y privada urgente para preservar la naturaleza](https://www.elperiodico.com/es/sociedad/20260607/europa-busca-financiacion-publica-privada-preservar-naturaleza-131008812)<br>
+08:00 [Ariadna Vilalta, psicóloga: "Si a un adolescente le quitas el móvil, más ganas tendrá de tenerlo"](https://www.elperiodico.com/es/ser-feliz/20260607/ariadna-vilalta-psicologa-adolescente-le-130976781)<br>
+08:00 [Argentina, Bolivia y Chile: el epicentro de la minería del litio donde reina China](https://www.elperiodico.com/es/internacional/20260607/argentina-bolivia-chile-triangulo-del-litio-america-latina-127879353)<br>
+08:00 [La fiebre del 'oro blanco' rompe a las comunidades indígenas de América Latina](https://www.elperiodico.com/es/internacional/20260607/fiebre-oro-blanco-rompe-comunidades-indigenas-america-latina-argentina-chile-bolivia-127879722)<br>
+07:59 [Mas Barcelona - Eloi Vila](https://www.elperiodico.com/es/videos/podcast/barcelona-eloi-vila/130551099.shtml)<br>
+07:03 [Guerra Ucrania - Rusia, en directo, última hora del conflicto](https://www.elperiodico.com/es/internacional/20260607/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+07:00 [Enquistados los conflictos con maestros en Catalunya y València: la autoridad en el aula, la principal queja](https://www.elperiodico.com/es/opinion/20260607/enquistados-conflictos-maestros-catalunya-valencia-131055492)<br>
+07:00 [Distopías de proximidad y colapso a la vuelta de la esquina: las novelistas reescriben la ciencia ficción catalana](https://www.elperiodico.com/es/ocio-y-cultura/20260607/mar-marquez-irene-rubio-seras-vall-distopia-catalana-131007614)<br>
+07:00 [La FP busca romper su último techo: los prejuicios](https://www.elperiodico.com/es/sociedad/20260607/fp-busca-romper-ultimo-techo-bc-131044723)<br>
+07:00 ["Sin amor no haces esto": la madre y la hija detrás de MADREMIA, la firma de bolsos y accesorios de crochet que emociona a madrinas e invitadas](https://www.elperiodico.com/es/gente/20260607/madremia-bolsos-accesorios-crochet-madrinas-invitadas-barcelona-entrevista-130677034)<br>
 06:59 [La visita del Papa a España, en directo | La plaza de Cibeles, preparada para acoger hoy a un millón de personas en la misa del Pontífice](https://www.elperiodico.com/es/sociedad/20260607/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248)<br>
 06:00 [La educación no puede permitirse más bloqueos](https://www.elperiodico.com/es/opinion/20260607/educacion-no-puede-permitirse-bloqueo-articulo-antoni-canete-131100093)<br>
 06:00 [Ferraz reta a los críticos a plantear ante Sánchez en el Comité Federal su petición de elecciones o de congreso extraordinario](https://www.elperiodico.com/es/politica/20260607/ferraz-sanchez-psoe-pedro-sanchez-131076634)<br>

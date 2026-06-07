@@ -1,5 +1,509 @@
 [
   {
+    "title": "Capturan en México a Orlando Ramírez, \"el Misterio\", presunto líder de la Mara Salvatrucha",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/capturan-mexico-orlando-ramirez-misterio-lider-mara-salvatrucha-pandillas-131113131",
+    "pubDate": "2026-06-07 10:21:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Almeida entrega al papa la Llave de Oro de la ciudad",
+    "link": "https://www.elperiodico.com/es/videos/politica/almeida-entrega-papa-llave-oro/131113280.shtml",
+    "pubDate": "2026-06-07 10:13:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Холлоуей жорстко висловився про можливий бій з Макгрегором",
+    "link": "https://ua.korrespondent.net/sport/boks/4884631-khollouei-zhorstko-vyslovyvsia-pro-mozhlyvyi-bii-z-makhrehorom",
+    "pubDate": "2026-06-07 10:10:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453875.jpg\">Макс Холлоуей оцінив шанси на проведення гучного реваншу проти Макгрегора.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Al menos doce heridos de bala, dos de ellos graves, cerca de un festival al aire libre en Ohio (EEUU)",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/eeuu-doce-heridos-graves-ohio-tiroteo-festival-131112903",
+    "pubDate": "2026-06-07 10:08:52",
+    "category": "",
+    "description": "<h2>Informes preliminares apuntan a apuntan a la participación de al menos dos tiradores que se habrían disparado entre sí</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así será la residencia del Papa durante su estancia en Barcelona: en su subsuelo se esconden muchos restos de Barcino",
+    "link": "https://www.elperiodico.com/es/barcelona/20260607/papa-leon-xiv-barcelona-palacio-episcopal-residencia-dv-loc-130962895",
+    "pubDate": "2026-06-07 10:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El edificio elegido ya sirvió de alojamiento a dos pontífices anteriores durante sus visitas a la capital catalana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/papa-leon-xiv-si-hablara-catalan-bendicion-torre-jesus-sagrada-familia-barcelona-130946140\">El Papa sí hablará en catalán en la bendición de la torre de Jesús de la Sagrada Família</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260602/mapa-asi-afectara-vecinos-ciutat-vella-visita-papa-centro-barcelona-restricciones-130935311\">MAPA | Así afectará a los vecinos de Ciutat Vella la visita de León XIV: control de accesos y prohibición de aparcar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Honda SH125i, inimitable",
+    "link": "https://www.elperiodico.com/es/motor/20260607/honda-sh125i-inimitable-130976872",
+    "pubDate": "2026-06-07 10:01:00",
+    "category": "",
+    "description": "<h2>El icónico rueda alta de Honda celebra 25 años como referencia absoluta de la movilidad urbana, un éxito que nadie ha logrado replicar, ni siquiera la ofensiva de las marcas chinas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un chiringuito urbano, un 'beach club' reinventado y más novedades destapan la nueva oferta de ocio de Port Fòrum",
+    "link": "https://www.elperiodico.com/es/barcelona/20260607/chiringuito-urbano-beach-club-reinventado-novedades-port-forum-sant-adria-barcelona-130985830",
+    "pubDate": "2026-06-07 10:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El hotel de lujo SLS, que ha dinamizado la zona, estrena también espacio lúdico en su azotea este verano</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20250709/port-forum-reinventara-ocio-globo-aerostatico-beach-club-pista-pump-track-barcelona-119473488\">El Port Fòrum se reinventará con ocio: un globo aerostático panorámico, un club de mar, un gran 'beach club' y mucho más</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/blau/economia-azul/20250122/proyecto-reforma-port-forum-apertura-ciudad-aspira-3000000-visitantes-113619077\">Port Fòrum aspira con su reforma a recibir más de tres millones de visitantes anuales</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "'The Three Body Problem'",
+    "link": "https://www.elperiodico.com/es/opinion/20260607/the-three-body-problem-iran-eeuu-articulo-jorge-dezcallar-131077778",
+    "pubDate": "2026-06-07 10:00:59",
+    "category": "",
+    "description": "<h2>EEUU e Irán tienen que decir que han ganado y vestirán de oropeles cualquier acuerdo que logren, mientras siguen aguantando con la esperanza de que el otro se arrugará antes</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260602/trump-carga-netanyahu-llamarle-jodidamente-loco-130916602\">Trump abronca a Netanyahu por teléfono: \"Estás jodidamente loco. Estarías en la cárcel si no fuera por mí\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La alerta de la veterinaria María Vetican sobre las pulgas en perros: “Si ves esto en el lomo, no es suciedad ni barro pegado”",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260607/alerta-veterinaria-maria-vetican-pulgas-perros-dv-131059417",
+    "pubDate": "2026-06-07 10:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">La experta revela un sencillo truco que permite comprobar en segundos si esos puntos negros son realmente restos de pulga</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260522/veterinaria-confirma-perro-viejo-sufriendo-rejuvenecer-dv-130270621\">Tu perro no \"es viejo\", sino que puede estar sufriendo: \"Estas son las cosas con las que los he visto rejuvenecer\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вдарила по сховищу ядерних відходів",
+    "link": "https://ua.korrespondent.net/ukraine/4884632-rf-vdaryla-po-skhovyschu-yadernykh-vidkhodiv",
+    "pubDate": "2026-06-07 09:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453874.png\">Осередок займання розповсюдився на площу 40 кв. м, його ліквідували. Радіаційний стан на майданчику ЦСВЯП залишається в межах норми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La guerra de Irán se calienta: ataque de EEUU, misiles contra Baréin y Kuwait, drones en Ormuz y combates en el Líbano",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/guerra-iran-calienta-ataque-eeuu-misiles-drones-131111979",
+    "pubDate": "2026-06-07 09:57:16",
+    "category": "",
+    "description": "<h2>Dos soldados israelís mueren en combates en el sur del Líbano, pese a la tregua</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Манчестер Юнайтед порадили придбати нападника Барселони",
+    "link": "https://ua.korrespondent.net/sport/football/4884627-u-manchester-yunaited-poradyly-prydbaty-napadnyka-barselony",
+    "pubDate": "2026-06-07 09:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453857.jpg\">Експерт наполягає на підписанні Левандовські для виховання нового покоління талантів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Вірменії стартували парламентські вибори",
+    "link": "https://ua.korrespondent.net/world/4884629-u-virmenii-startuvaly-parlamentski-vybory",
+    "pubDate": "2026-06-07 09:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453858.jpg\">Громадяни Вірменії, які перебувають на території країни, можуть проголосувати до 20:00 за місцевим часом. Водночас голосування за кордоном не проводиться.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los tatuajes pueden alterar las defensas del cuerpo",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260607/tatuajes-alterar-defensas-cuerpo-125425475",
+    "pubDate": "2026-06-07 09:41:00",
+    "category": "",
+    "description": "<h2>Riesgos químicos en los tatuajes: metales pesados y compuestos potencialmente tóxicos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El aviso de la Associació Catalana d'Empreses de Salut Ambiental: las plagas de mosquitos y cucarachas ya no son estacionales",
+    "link": "https://www.elperiodico.com/es/catalunya/20260607/cataluna-plaga-mosquitos-cucarachas-ratas-dv-loc-130964377",
+    "pubDate": "2026-06-07 09:41:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las temperaturas suaves desde invierno hacen que los ciclos de reproducción no se detengan o lo hagan durante poco tiempo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/primavera-lluviosa-calurosa-anticipa-verano-130926588\">La primavera lluviosa y calurosa anticipa un verano de mosquitos, cucarachas y ratas en Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260510/caso-hantavirus-bergueda-precedente-enfermedad-catalunya-129904400\">Un caso de hantavirus en el Berguedà en 2024: el único precedente reciente de la enfermedad en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Данія VS Україна: прев’ю матчу збірної",
+    "link": "https://ua.korrespondent.net/sport/4884477-daniia-VS-ukraina-prevui-matchu-zbirnoi",
+    "pubDate": "2026-06-07 09:35:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4452981.jpg\">\r\nПропонуємо вашій увазі разом із betking, ліцензійним беттінг-партнером проєкту, анонс товариського матчу між збірними Данії та України.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gorillaz celebran a los perdidos con una fiesta multicolor y multicultural en el Primavera Sound",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260607/cronica-gorillaz-primavera-sound-2026-131059503",
+    "pubDate": "2026-06-07 09:32:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La banda virtual de Damon Albarn y Jamie Hewlett presentó en el Primavera el repertorio de 'The mountain', mezcla de estilos marcada por un duelo luminoso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260607/primavera-sound-sacude-jornada-final-131106728\" target=\"_blank\">El Primavera Sound sacude su jornada final con un vibrante concierto sorpresa de Olivia Rodrigo y el ‘holocausto’ sónico de My Bloody Valentine</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "The xx reivindican su legado minimalista en el Primavera Sound",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260607/cronica-the-xx-primavera-sound-2026-131059416",
+    "pubDate": "2026-06-07 09:26:16",
+    "category": "",
+    "description": "<h2 class=\"item\">En su primera gira en ocho años, el trío londinense desempolva jóvenes clásicos mientras prepara el que debería ser su cuarto álbum</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260607/primavera-sound-sacude-jornada-final-131106728\" target=\"_blank\">El Primavera Sound sacude su jornada final con un vibrante concierto sorpresa de Olivia Rodrigo y el ‘holocausto’ sónico de My Bloody Valentine</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una nueva falla capaz de \"generar grandes terremotos\" se está abriendo en el Sur de España",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260607/descubren-sur-espana-incipiente-falla-122843091",
+    "pubDate": "2026-06-07 09:26:00",
+    "category": "",
+    "description": "<h2>Investigadores del Instituto de Ciencias del Mar, del CSIC, desvelan la existencia de una formación susceptible de causar, con el tiempo, “daños en zonas cercanas”</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війська РФ обстріляли Одесу, є поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4884625/",
+    "pubDate": "2026-06-07 09:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">В Одесі унаслідок ворожої атаки сталося займання нежитлової будівлі, постраждав 41-річний чоловік, у нього осколкові поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los mejores planes para disfrutar del Año Gaudí en Catalunya",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260607/mejores-planes-ano-gaudi-catalunya-130967733",
+    "pubDate": "2026-06-07 09:15:42",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">2026 marca el centenario de la muerte de uno de los arquitectos más célebres de la historia catalana. El Año Gaudí llega ahora a su cénit: el 10 de junio es la fecha exacta de su muerte, y Catalunya se llena de propuestas </h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260602/museos-gratis-barcelona-primer-domingo-mes-junio-2026-122139263\" target=\"_blank\">Estos son los museos que puedes visitar gratis este primer domingo de mes en Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A Scariolo no le queda ningún escondite",
+    "link": "https://as.com/baloncesto/acb/a-scariolo-no-le-queda-ningun-escondite-f202606-n/",
+    "pubDate": "2026-06-07 09:10:59",
+    "category": "Baloncesto",
+    "description": "La catástrofe del tercer partido del playoff de cuartos de la Liga Endesa gira hacia lo siniestro todas las narrativas, complejas, de la temporada del Real Madrid.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nómadas de toda Europa cosechan el peligroso opio silvestre en Toledo: \"No queremos que se sepa y venga más gente\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/nomadas-opio-silvestre-cosechan-amapola-toledo-130751974",
+    "pubDate": "2026-06-07 09:00:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La Guardia Civil cifra entre 100 y 200 los recolectores de amapola que acampan estos meses en varias zonas de la provincia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260604/espana-lider-mundial-produccion-opio-legal-amapola-morfina-plantaciones-secretas-castilla-la-mancha-leon-medicina-130778633\" target=\"_blank\">España es líder mundial en producción de opio para morfina: 400 agricultores trabajan en plantaciones secretas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eloi Vila, periodista, escritor y presentador: “Hemos de mirar atrás... porque no lo hicimos antes”",
+    "link": "https://www.elperiodico.com/es/tele/20260607/eloi-vila-quanta-guerra-tv3-130549119",
+    "pubDate": "2026-06-07 09:00:17",
+    "category": "",
+    "description": "<h2>El programa de TV3 'Quanta Guerra!', presentado por Eloi Vila, indaga en la historia familiar de personalidades conocidas, centrándose en la guerra civil y la posguerra</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260522/marc-redondo-meteorologo-apasiona-comunicar-130365259\">Marc Redondo, meteorólogo: “Me apasiona comunicar los fenómenos meteorológicos”</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Señales de alarma",
+    "link": "https://www.elperiodico.com/es/opinion/20260607/senales-alarma-serrat-articulo-carles-francino-131077081",
+    "pubDate": "2026-06-07 09:00:17",
+    "category": "",
+    "description": "<h2>El sectarismo es una enfermedad del espíritu</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dylan, cubano deportado por EEUU: \"Yo estaba dispuesto a volver a Cuba, pero nunca pensé que acabaría en México\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/eeuu-dylan-cubano-deportado-ice-mexico-131111417",
+    "pubDate": "2026-06-07 09:00:16",
+    "category": "",
+    "description": "<h2>Detenido 10 meses en un centro de ICE, fue abandonado en el sur de México sin documentos y ahora intenta reunirse de nuevo con su familia en Miami</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "México coopera con las deportaciones de Trump y devuelve migrantes a su país de origen pese a que EEUU lo consideró no seguro",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/mexico-coopera-deportaciones-donald-trump-eeuu-terceros-paises-violacion-derechos-humanos-131111441",
+    "pubDate": "2026-06-07 09:00:16",
+    "category": "",
+    "description": "<h2>Estados Unidos ha enviado a México a 18.000 personas de terceros países, principalmente de Centroamérica y el Caribe, algunas de las cuales son devueltas al lugar del que huyeron</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España es líder mundial en producción de opio para morfina: 400 agricultores trabajan en plantaciones secretas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/espana-lider-mundial-produccion-opio-legal-amapola-morfina-plantaciones-secretas-castilla-la-mancha-leon-medicina-130778633",
+    "pubDate": "2026-06-07 09:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Alcaliber, la única empresa del país que produce y manipula la flor seca de la amapola de la que se extrae el opio, tiene 10.000 hectáreas en las dos Castillas en las que se generan 200.000 kilos anuales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260604/nomadas-opio-silvestre-cosechan-amapola-toledo-130751974\" target=\"_blank\">Nómadas de toda Europa cosechan el peligroso opio silvestre en Toledo: \"No queremos que se sepa y venga más gente\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Elecciones a la presidencia del Real Madrid, en directo: votaciones, resultados y última hora de Florentino Pérez y Enrique Riquelme",
+    "link": "https://www.elperiodico.com/es/deportes/20260607/elecciones-presidencia-real-madrid-directo-ultima-hora-florentino-riquelme-131097669",
+    "pubDate": "2026-06-07 09:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260607/encuestas-elecciones-real-madrid-sondeos-quien-ganara-131069369\">Últimas encuestas de las elecciones del Real Madrid: así están los sondeos entre Florentino Pérez y Enrique Riquelme</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260606/intrahistoria-campana-electoral-real-madrid-florentino-perez-enrique-riquelme-131082483\">Intrahistoria de la campaña electoral del Real Madrid o cómo Riquelme hizo remangarse a Florentino</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los cinco catalanes aislados por el brote de hantavirus vuelven a casa para completar la cuarentena",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/pacientes-catalanes-afectados-hantavirus-regresan-casa-cataluna-131110128",
+    "pubDate": "2026-06-07 08:56:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Los pacientes deberán mantener el aislamiento domiciliario dos semanas más pero podrán salir de forma puntual a la calle siempre con mascarilla</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260507/contagia-hantavirus-grafico-explica-transmite-129966495\" target=\"_blank\">¿Cómo se contagia el hantavirus? Este gráfico explica cómo se transmite el virus</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260505/hantavirus-rara-enfermedad-mato-esposa-gene-hackman-causado-tres-muertos-crucero-atlantico-115084566\" target=\"_blank\">Qué es y cómo se transmite el hantavirus: así se puede contagiar entre personas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salir de Barcelona para ahorrar en vivienda compensa cada vez menos, según un informe",
+    "link": "https://www.elperiodico.com/es/vivienda/20260607/salir-barcelona-ahorrar-vivienda-compensa-menos-informe-idealista-dv-loc-131019056",
+    "pubDate": "2026-06-07 08:55:54",
+    "category": "",
+    "description": "<h2 class=\"item\">En la provincia de Barcelona el encarecimiento casi duplica al de la capital hasta alcanzar el 13,2% interanual</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20260602/venta-expres-vivienda-espana-burgos-madrid-barcelona-dv-130895672\" >Más de la mitad de las viviendas vendidas en España no llegan a tres meses anunciadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Todo listo en Cibeles para la Santa Misa del papa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/visita-papa-santa-misa-cibeles/131111291.shtml",
+    "pubDate": "2026-06-07 08:55:35",
+    "category": "",
+    "description": "Robert Prevost prosigue este domingo su visita a España, que continuará en Barcelona y Canarias",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Воронежі партизани знищили рідкісну техніку на залізниці",
+    "link": "https://ua.korrespondent.net/world/russia/4884622-u-voronezhi-partyzany-znyschyly-ridkisnu-tekhniku-na-zaliznytsi",
+    "pubDate": "2026-06-07 08:52:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453801.png\">Поки у РФ шукають заміну, залізничний вузол та логістика у регіоні працюють з обмеженим резервом відновлення",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni caminar ni salir en bicicleta: el ejercicio ideal para mayores de 65 años se puede hacer sin salir de casa",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260607/ejercicio-ideal-mayores-65-anos-sin-salir-casa-dv-130937821",
+    "pubDate": "2026-06-07 08:45:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Subir y bajar un escalón de manera controlada ayuda a trabajar fuerza, equilibrio y resistencia sin necesidad de ir al gimnasio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роналду повторив свій антирекорд дворічної давності",
+    "link": "https://ua.korrespondent.net/sport/football/4884618-ronaldu-povtoryv-svii-antyrekord-dvorichnoi-davnosti",
+    "pubDate": "2026-06-07 08:40:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453800.jpg\">Кріштіану Роналду вперше за два роки не може забити у двох матчах за Португалію поспіль.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ППО знешкодила 215 з 236 дронів РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4884619-ppo-zneshkodyla-215-z-236-droniv-rf",
+    "pubDate": "2026-06-07 08:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453784.jpg\">Зафіксовано влучання 17 ударних БпЛА на13 локаціях, а також падіння збитих (уламки) на 9 локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ocho altos directivos de la industria alimentaria ante las crisis: \"Ahora hemos tenido que añadir a Trump a la ecuación\"",
+    "link": "https://www.elperiodico.com/es/economia/20260607/ocho-altos-directivos-industria-alimentaria-crisis-expotech-food-bilbao-131110498",
+    "pubDate": "2026-06-07 08:27:08",
+    "category": "",
+    "description": "<h2>El salón ExpoTech Food reúne en el mismo foro a los responsables de Nestlé, Nueva Pescanova, Deoleo, Kellogg's, Unilever, Ferrero, Danone y Angulas Aguinaga, para debatir cómo se están adaptando las compañías del sector al actual entorno cambiante</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Bancos y aseguradoras aceleran la inversión en naturaleza para minimizar riesgos financieros",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/bancos-aseguradoras-inversion-naturaleza-minimizar-riesgos-financieros-131063496",
+    "pubDate": "2026-06-07 08:00:50",
+    "category": "",
+    "description": "<h2 class=\"item\">La conservación de los ecosistemas ya no se ve solo como una cuestión ambiental, sino que empieza a incorporarse al lenguaje financiero</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260603/europa-desarrollo-sostenible-retrocede-agua-biodiversidad-130963201\" target=\"_blank\">Europa avanza en desarrollo sostenible pero retrocede en agua y biodiversidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Leire Díez y el expresidente de la SEPI diseñaron una operación para recalificar terrenos del Estado con la intención de venderlos a un empresario con quien se reunieron",
+    "link": "https://www.elperiodico.com/es/politica/20260607/leire-diez-expresidente-sepi-disenaron-131077362",
+    "pubDate": "2026-06-07 08:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El expresidente de la SEPI, Vicente Fernández, se habría reunido con dicho empresario, a quien planeaban facilitar la compra de suelo tras urbanizar terrenos públicos</h2><h2 class=\"item\">Leire Díez esbozó las líneas generales de un plan de vivienda para permutar terreno a un empresario, apuntando a la necesidad de \"discreción\"</h2><h2 class=\"item\">Cerdán se habría reunido con el secretario de Estado de Vivienda, David Lucas, según la agenda de Leire Díez</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Europa busca de forma urgente financiación pública y privada urgente para preservar la naturaleza",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/europa-busca-financiacion-publica-privada-preservar-naturaleza-131008812",
+    "pubDate": "2026-06-07 08:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La inversión anual en los ecosistemas debería alcanzar los 65.000 millones de euros pero apenas llega a los 28.000</h2><h2 class=\"item\">La UE defiende un modelo industrial capaz de competir sin rebajar las exigencias ambientales y sociales</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20241231/que-es-un-credito-climatico-empresas-emergencia-cop-113008687\" target=\"_blank\">¿Qué son los créditos climáticos y para qué sirven?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ariadna Vilalta, psicóloga: \"Si a un adolescente le quitas el móvil, más ganas tendrá de tenerlo\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260607/ariadna-vilalta-psicologa-adolescente-le-130976781",
+    "pubDate": "2026-06-07 08:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">\"La gente ahora no sabe estar sola. ¿Tan difícil es no poner la radio, y estar en silencio contigo mismo?\"</h2><h2 class=\"item\">\"La atención es algo que se entrena: estar en el momento que estamos y con la gente que estamos\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Argentina, Bolivia y Chile: el epicentro de la minería del litio donde reina China",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/argentina-bolivia-chile-triangulo-del-litio-america-latina-127879353",
+    "pubDate": "2026-06-07 08:00:49",
+    "category": "",
+    "description": "<h2>El llamado 'Triángulo del Litio', en América Latina, concentra cerca del 45% de los recursos de 'oro blanco' en todo el planeta. Un recurso visto por muchos como el mineral del futuro, pero cuya extracción necesita de ingentes cantidades de agua dulce</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La fiebre del 'oro blanco' rompe a las comunidades indígenas de América Latina",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/fiebre-oro-blanco-rompe-comunidades-indigenas-america-latina-argentina-chile-bolivia-127879722",
+    "pubDate": "2026-06-07 08:00:49",
+    "category": "",
+    "description": "<h2>La extracción de agua dulce en unos territorios ya de por sí desérticos pone a los habitantes del 'Triángulo del Litio' (Argentina, Chile y Bolivia) en una encrucijada: permanecer en unos territorios milenarios en condiciones pésimas o caer ante las presiones de las compañías y sus gobiernos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mas Barcelona - Eloi Vila",
+    "link": "https://www.elperiodico.com/es/videos/podcast/barcelona-eloi-vila/130551099.shtml",
+    "pubDate": "2026-06-07 07:59:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав найактивніший напрямок фронту",
+    "link": "https://ua.korrespondent.net/ukraine/4884615-henshtab-nazvav-naiaktyvnishyi-napriamok-frontu",
+    "pubDate": "2026-06-07 07:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453768.png\">Уражено три райони зосередження особового складу ворога, дві артилерійські системи і вісім ворожих пунктів управління безпілотними літальними апаратами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Deck: “Hay que pedir perdón a los aficionados”",
+    "link": "https://as.com/baloncesto/acb/deck-hay-que-pedir-perdon-a-los-aficionados-f202606-n/",
+    "pubDate": "2026-06-07 07:50:00",
+    "category": "Baloncesto",
+    "description": "La derrota del Real Madrid en la Liga Endesa trae sinsabores en la casa blanca. Gaby Deck, uno de los jugadores protagonistas, se disculpa ante su afición.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Президент США відвідає третій матч фіналу НБА",
+    "link": "https://ua.korrespondent.net/sport/basketball/4884614-prezydent-ssha-vidvidaie-tretii-match-finalu-nba",
+    "pubDate": "2026-06-07 07:49:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453769.jpg\">Нью-Йорк Нікс оголосили про посилені заходи безпеки на третій матч фінальної серії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Плей-оф НХЛ: Вегас переміг Кароліну в серії булітів",
+    "link": "https://ua.korrespondent.net/sport/hokey/4884611-plei-of-nkhl-vehas-peremih-karolinu-v-serii-bulitiv",
+    "pubDate": "2026-06-07 07:30:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453737.jpg\">Вашій увазі результат та огляд матчу ігрового дня Національної хокейної ліги.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Удари по Дніпропетровщині: є загиблий та поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4884609-udary-po-dnipropetrovschyni-ye-zahyblyi-ta-poranenyi",
+    "pubDate": "2026-06-07 07:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453736.jpg\">На Нікопольщині росіяни цілили по Нікополю, Марганецькій, Червоногригорівській, Покровській і Мирівській громадах. Понівечена інфраструктура. Загинув 59-річний чоловік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un torneo diferente a todos los demás",
+    "link": "https://as.com/baloncesto/mas_baloncesto/un-torneo-diferente-a-todos-los-demas-f202606-n/",
+    "pubDate": "2026-06-07 07:18:28",
+    "category": "Baloncesto",
+    "description": "El Mundial 3x3 de Varsovia constata que la modalidad basa su auge en una forma distinta de hacer las cosas: acceso total, convivencia entre selecciones y prensa, comunicación constante...",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, en directo, última hora del conflicto",
+    "link": "https://www.elperiodico.com/es/internacional/20260607/guerra-ucrania-rusia-directo-ultima-126605559",
+    "pubDate": "2026-06-07 07:03:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Enquistados los conflictos con maestros en Catalunya y València: la autoridad en el aula, la principal queja",
+    "link": "https://www.elperiodico.com/es/opinion/20260607/enquistados-conflictos-maestros-catalunya-valencia-131055492",
+    "pubDate": "2026-06-07 07:00:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Distopías de proximidad y colapso a la vuelta de la esquina: las novelistas reescriben la ciencia ficción catalana",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260607/mar-marquez-irene-rubio-seras-vall-distopia-catalana-131007614",
+    "pubDate": "2026-06-07 07:00:48",
+    "category": "",
+    "description": "<h2 class=\"item\">Mar Màrquez debuta con 'Amat Amat', distopía inquietantemente cercana que comparte diagnósticos y preocupaciones con 'Seràs la vall', novela con la que Irene Rubio ganó el último premio Documenta </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251004/literatura-vuelve-distopia-alertar-sorpasso-121941682\">La literatura vuelve a la distopía para alertar del ‘sorpasso’ totalitario </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La FP busca romper su último techo: los prejuicios",
+    "link": "https://www.elperiodico.com/es/sociedad/20260607/fp-busca-romper-ultimo-techo-bc-131044723",
+    "pubDate": "2026-06-07 07:00:46",
+    "category": "",
+    "description": "<h2>La Formación Profesional ha ganado prestigio, alumnado y capacidad de inserción laboral, pero todavía arrastra prejuicios heredados del pasado. Administraciones, empresas y centros educativos coinciden en la necesidad de actualizar el relato sobre estos estudios</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Sin amor no haces esto\": la madre y la hija detrás de MADREMIA, la firma de bolsos y accesorios de crochet que emociona a madrinas e invitadas",
+    "link": "https://www.elperiodico.com/es/gente/20260607/madremia-bolsos-accesorios-crochet-madrinas-invitadas-barcelona-entrevista-130677034",
+    "pubDate": "2026-06-07 07:00:43",
+    "category": "",
+    "description": "<h2>Loló Simó no sabía tejer, pero Ana Béjar tenía antojo de un bolso diferente: Instagram hizo el resto, en esta marca basada en el 'hecho a mano' que ha pasado de vender 10 piezas al mes a una media de 100, y ya seduce a mujeres que quieren lucir una pequeña joya única en eventos especiales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Chelsea 1979, el museo secreto que se esconde en el sótano de McLaren en L'Hospitalet",
+    "link": "https://www.elperiodico.com/es/deportes/20260607/chelsea-1979-museo-secreto-motorsport-hospitalet-mclaren-barcelona-130234237",
+    "pubDate": "2026-06-07 07:00:43",
+    "category": "",
+    "description": "<h2>Hay mucho lujo en los supercoches McLaren expuestos en la planta baja, pero para los verdaderos fanáticos del motor, el mayor lujo se esconde entre el sótano y las plantas superiores del edificio, en las que están dispuestas, sin protección ni catenarias, verdaderas joyas del motor</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
     "title": "La visita del Papa a España, en directo | La plaza de Cibeles, preparada para acoger hoy a un millón de personas en la misa del Pontífice",
     "link": "https://www.elperiodico.com/es/sociedad/20260607/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248",
     "pubDate": "2026-06-07 06:59:00",
@@ -7,6 +511,15 @@
     "description": "<h2>Robert Prevost ha iniciado este sábado en la capital su visita a España, que continuará en Barcelona y Canarias</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Колишній форвард Манчестер Юнайтед знову залишився без клубу",
+    "link": "https://ua.korrespondent.net/sport/football/4884603-kolyshnii-forvard-manchester-yunaited-znovu-zalyshyvsia-bez-klubu",
+    "pubDate": "2026-06-07 06:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4453721.jpg\">Антоні Марсьяль залишив Монтеррей, розірвавши контракт за взаємною згодою сторін.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Генштаб оновив втрати РФ у війні",
