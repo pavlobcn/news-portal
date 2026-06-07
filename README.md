@@ -1,10 +1,17 @@
-# News for 2026-06-07 10:25
+# News for 2026-06-07 12:42
 
 Previous day: [2026-06-06](./data/2026-06-06.md)
 
 ## ua.korrespondent.net
+12:38 [МАГАТЕ відправить інспекторів на об'єкт у Чорнобилі після атаки РФ](https://ua.korrespondent.net/ukraine/4884652-mahate-vidpravyt-inspektoriv-na-obiekt-u-chornobyli-pislia-ataky-rf)<br>
+12:23 [ССО пошкодили міст в районі Чонгару - соцмережі](https://ua.korrespondent.net/ukraine/4884650-sso-poshkodyly-mist-v-raioni-chonharu-sotsmerezhi)<br>
+11:46 [Президент відреагував на удар по ядерному об’єкту](https://ua.korrespondent.net/ukraine/4884645-prezydent-vidreahuvav-na-udar-po-yadernomu-obiektu)<br>
+11:25 [OpenAI готує оновлення, яке розширить можливості ChatGPT](https://ua.korrespondent.net/business/companies/4884642-OpenAI-hotuie-onovlennia-yake-rozshyryt-mozhlyvosti-ChatGPT)<br>
+10:57 [РФ вдарила по трьох АЗС на Чернігівщині](https://ua.korrespondent.net/ukraine/4884640-rf-vdaryla-po-trokh-azs-na-chernihivschyni)<br>
+10:28 [На Буковині обвалився дерев’яний міст з дітьми, є постраждалі](https://ua.korrespondent.net/ukraine/4884635-na-bukovyni-obvalyvsia-derevianyi-mist-z-ditmy-ye-postrazhdali)<br>
 09:59 [РФ вдарила по сховищу ядерних відходів](https://ua.korrespondent.net/ukraine/4884632-rf-vdaryla-po-skhovyschu-yadernykh-vidkhodiv)<br>
 09:18 [Війська РФ обстріляли Одесу, є поранений](https://ua.korrespondent.net/ukraine/4884625/)<br>
+09:18 [Війська РФ обстріляли Одесу, є поранений](https://ua.korrespondent.net/ukraine/4884625-viiska-rf-obstrilialy-odesu-ye-poranenyi)<br>
 08:52 [У Воронежі партизани знищили рідкісну техніку на залізниці](https://ua.korrespondent.net/world/russia/4884622-u-voronezhi-partyzany-znyschyly-ridkisnu-tekhniku-na-zaliznytsi)<br>
 08:35 [ППО знешкодила 215 з 236 дронів РФ](https://ua.korrespondent.net/ukraine/4884619-ppo-zneshkodyla-215-z-236-droniv-rf)<br>
 07:53 [Генштаб назвав найактивніший напрямок фронту](https://ua.korrespondent.net/ukraine/4884615-henshtab-nazvav-naiaktyvnishyi-napriamok-frontu)<br>
@@ -24,11 +31,31 @@ Previous day: [2026-06-06](./data/2026-06-06.md)
 01:25 [На Донеччині атаковано ТЕС і залізницю - OSINT](https://ua.korrespondent.net/ukraine/4884585-na-donechchyni-atakovano-tes-i-zaliznytsui-OSINT)<br>
 
 ## as.com
+11:20 [Y el Madrid, también fuera de la Supercopa](https://as.com/baloncesto/acb/y-el-madrid-tambien-fuera-de-la-supercopa-f202606-n/)<br>
 09:10 [A Scariolo no le queda ningún escondite](https://as.com/baloncesto/acb/a-scariolo-no-le-queda-ningun-escondite-f202606-n/)<br>
 07:50 [Deck: “Hay que pedir perdón a los aficionados”](https://as.com/baloncesto/acb/deck-hay-que-pedir-perdon-a-los-aficionados-f202606-n/)<br>
 07:18 [Un torneo diferente a todos los demás](https://as.com/baloncesto/mas_baloncesto/un-torneo-diferente-a-todos-los-demas-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:31 [Estado de los embalses hoy, 7 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos](https://www.elperiodico.com/es/sociedad/20260607/embalses-hoy-7-junio-catalunya-dv-131116759)<br>
+12:30 [La Ley de Propiedad Horizontal lo deja claro: prohibido poner un toldo o aire acondicionado sin el permiso de la comunidad](https://www.elperiodico.com/es/vivienda/20260607/ley-propiedad-horizontal-deja-claro-prohibido-toldo-aire-acondicionado-vivienda-sin-permiso-comunidad-dv-130891785)<br>
+12:27 [Los hijos de las infantas Elena y Cristina asisten a la misa del papa en Cibeles](https://www.elperiodico.com/es/videos/politica/hijos-infantas-asisten-misa-papa-leon-xiv/131116732.shtml)<br>
+12:24 [Precio de la gasolina y diésel hoy, 7 de junio en España por la Guerra de Irán: la bajada de los carburantes continúa un día más](https://www.elperiodico.com/es/economia/20260607/precio-gasolina-diesel-hoy-7-junio-dv-131116616)<br>
+12:14 [El Ejército de Nigeria libera a cientos de secuestrados por yihadistas](https://www.elperiodico.com/es/internacional/20260607/ejercito-nigeria-libera-cientos-secuestrados-131116399)<br>
+12:12 [El Tribunal Superior de Justicia obligará a una mujer a devolver 22.918 euros de una pensión por tener al hijo empadronado en casa](https://www.elperiodico.com/es/economia/20260607/mujer-tendra-devolver-pension-hijo-empadronado-casa-dv-130959792)<br>
+12:11 [Colectivos de mujeres y personas LGTBI+ acuden a la misa del Papa con reivindicaciones](https://www.elperiodico.com/es/sociedad/20260607/colectivos-mujeres-personas-lgtbi-acuden-131116271)<br>
+12:00 [La derrota de Alemania en la ONU](https://www.elperiodico.com/es/opinion/20260607/alemania-pierde-asiento-onu-gaza-mario-saavedra-131057565)<br>
+12:00 [Mujeres mayores juntas contra la soledad y el edadismo: "Hemos aprendido a disfrutar de la vida"](https://www.elperiodico.com/es/ser-feliz/20260607/mujeres-mayores-juntas-soledad-edadismo-130271130)<br>
+12:00 [Jubilarse antes sí, pero no cualquier momento: un funcionario de la Seguridad Social señala cuál es el mes para cobrar más pensión](https://www.elperiodico.com/es/economia/20260607/mejor-mes-pedir-jubilacion-anticipada-dv-131057785)<br>
+11:55 [EL papa León XIV: "Nadie puede arrodillarse ante el Señor y despreciar al hermano"](https://www.elperiodico.com/es/videos/politica/papa-leon-xiv-nadie-arrodillarse-projimo/131115927.shtml)<br>
+11:53 [La Policía israelí constata un muerto y cuatro heridos en "un ataque terrorista" en el centro del país](https://www.elperiodico.com/es/internacional/20260607/policia-israeli-constata-muerto-cuatro-heridos-ataque-disparos-131115676)<br>
+11:36 [León XIV insiste en su llamada a la caridad en la misa de Cibeles: "Nadie puede arrodillarse ante el Señor y despreciar al hermano"](https://www.elperiodico.com/es/sociedad/20260607/leon-xiv-insiste-llamada-caridad-131115483)<br>
+11:33 [Espectacular imagen aérea de Cibeles con más de 1,2 millones de personas durante la misa del papa](https://www.elperiodico.com/es/videos/sociedad/espectacular-imagen-aerea-cibeles-papa-misa/131115404.shtml)<br>
+11:12 [Guerra de Irán, en directo: última hora de la situación en Oriente Medio](https://www.elperiodico.com/es/internacional/20260607/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
+11:02 [Así han sido recibidos los Reyes a su llegada a la misa de Cibeles](https://www.elperiodico.com/es/videos/politica/han-sido-recibidos-reyes-llegada/131114718.shtml)<br>
+10:57 [En la casita VIP de los 'influencers' de Dios: "Tengo 700.000 seguidores, para que luego digan que no hay católicos"](https://www.elperiodico.com/es/sociedad/20260607/casita-vip-influencers-dios-misa-papa-cibeles-131114518)<br>
+10:52 [Niño, ten miedo](https://www.elperiodico.com/es/opinion/20260607/nino-ten-miedo-emma-riverola-131114033)<br>
+10:30 [El aviso de Rafa Guerrero, psicólogo: "La infancia determina. Hay adultos con ansiedad y estrés por lo que sucedió"](https://www.elperiodico.com/es/ser-feliz/20260607/rafa-guerrero-psicologo-infancia-determina-ansiedad-estres-adultos-dv-130938396)<br>
 10:21 [Capturan en México a Orlando Ramírez, "el Misterio", presunto líder de la Mara Salvatrucha](https://www.elperiodico.com/es/internacional/20260607/capturan-mexico-orlando-ramirez-misterio-lider-mara-salvatrucha-pandillas-131113131)<br>
 10:13 [Almeida entrega al papa la Llave de Oro de la ciudad](https://www.elperiodico.com/es/videos/politica/almeida-entrega-papa-llave-oro/131113280.shtml)<br>
 10:08 [Al menos doce heridos de bala, dos de ellos graves, cerca de un festival al aire libre en Ohio (EEUU)](https://www.elperiodico.com/es/internacional/20260607/eeuu-doce-heridos-graves-ohio-tiroteo-festival-131112903)<br>
@@ -48,6 +75,7 @@ Previous day: [2026-06-06](./data/2026-06-06.md)
 08:56 [Los cinco catalanes aislados por el brote de hantavirus vuelven a casa para completar la cuarentena](https://www.elperiodico.com/es/sociedad/20260607/pacientes-catalanes-afectados-hantavirus-regresan-casa-cataluna-131110128)<br>
 08:55 [Salir de Barcelona para ahorrar en vivienda compensa cada vez menos, según un informe](https://www.elperiodico.com/es/vivienda/20260607/salir-barcelona-ahorrar-vivienda-compensa-menos-informe-idealista-dv-loc-131019056)<br>
 08:55 [Todo listo en Cibeles para la Santa Misa del papa](https://www.elperiodico.com/es/videos/sociedad/visita-papa-santa-misa-cibeles/131111291.shtml)<br>
+08:52 [Segundo día de visita del Papa a Madrid: Misa en Cibeles y encuentro en el Movistar Arena](https://www.elperiodico.com/es/fotos/sociedad/segundo-dia-visita-papa-madrid-131111235)<br>
 08:45 [Ni caminar ni salir en bicicleta: el ejercicio ideal para mayores de 65 años se puede hacer sin salir de casa](https://www.elperiodico.com/es/vida-y-estilo/20260607/ejercicio-ideal-mayores-65-anos-sin-salir-casa-dv-130937821)<br>
 08:00 [Bancos y aseguradoras aceleran la inversión en naturaleza para minimizar riesgos financieros](https://www.elperiodico.com/es/sociedad/20260607/bancos-aseguradoras-inversion-naturaleza-minimizar-riesgos-financieros-131063496)<br>
 08:00 [Europa busca de forma urgente financiación pública y privada urgente para preservar la naturaleza](https://www.elperiodico.com/es/sociedad/20260607/europa-busca-financiacion-publica-privada-preservar-naturaleza-131008812)<br>
