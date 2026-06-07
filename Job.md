@@ -15,6 +15,7 @@ Use `Filter.md` as the source of topics and update `news.json`: for each item ad
 Rules for LLM matching:
 - Match by meaning, not by exact keywords.
 - Use title/category/description context as a human editor would.
+- When acronyms or names are mentioned, understand what it means to better match with filter.
 - Keep `0` when nothing meaningfully matches.
 - Use `100` for very close matches (e.g., FC Barcelona football news => `спорт=100`; boxing news => `спорт` with high score).
 
