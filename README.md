@@ -1,8 +1,34 @@
-# News for 2026-06-08 14:10
+# News for 2026-06-08 18:25
 
 Previous day: [2026-06-07](./data/2026-06-07.md)
 
 ## ua.korrespondent.net
+18:18 [Систему охорони Путіна змінили після ліквідації Хаменеї - FT](https://ua.korrespondent.net/world/russia/4885000-systemu-okhorony-putina-zminyly-pislia-likvidatsii-khamenei-FT)<br>
+18:05 [До України з окупованих територій повернули 15 дітей і підлітків](https://ua.korrespondent.net/ukraine/4884998-do-ukrainy-z-okupovanykh-terytorii-povernuly-15-ditei-i-pidlitkiv)<br>
+18:03 [Кількість поранених від удару по Запоріжжю зросла, серед них – діти](https://ua.korrespondent.net/city/zaporozhye/4884994-kilkist-poranenykh-vid-udaru-po-zaporizhzhui-zrosla-sered-nykh-dity)<br>
+17:53 [Оприлюднено зарплати урядовців за травень](https://ua.korrespondent.net/business/economics/4884991-opryluidneno-zarplaty-uriadovtsiv-za-traven)<br>
+17:44 [Свята 9 червня 2026: іменини, що не можна робити](https://ua.korrespondent.net/lifestyle/4884989-sviata-9-chervnia-2026-imenyny-scho-ne-mozhna-robyty)<br>
+17:43 [На Київщині затримали жінку, яка вербувала дівчат для секс-послуг](https://ua.korrespondent.net/ukraine/4884988-na-kyivschyni-zatrymaly-zhinku-yaka-verbuvala-divchat-dlia-seks-posluh)<br>
+17:37 [Долар оновив історичний максимум в Україні](https://ua.korrespondent.net/business/financial/4884986-dolar-onovyv-istorychnyi-maksymum-v-ukraini)<br>
+17:20 [Гендиректор МАГАТЕ назвав "надзвичайно складною" ситуацію на АЕС України](https://ua.korrespondent.net/ukraine/4884981-hendyrektor-mahate-nazvav-nadzvychaino-skladnoui-sytuatsiui-na-aes-ukrainy)<br>
+17:19 [Молдова запускає виробництво дронів-перехоплювачів](https://ua.korrespondent.net/world/4884980-moldova-zapuskaie-vyrobnytstvo-droniv-perekhopluivachiv)<br>
+17:13 [Скандал із працівником ТЦК в Одеському СІЗО: нові деталі](https://ua.korrespondent.net/city/odessa/4884976-skandal-iz-pratsivnykom-ttsk-v-odeskomu-sizo-novi-detali)<br>
+16:57 [Кім Чен Ин міг отримати $14 млрд за допомогу Росії у війні - розвідка](https://ua.korrespondent.net/world/4884969-kim-chen-yn-mih-otrymaty-14-mlrd-za-dopomohu-rosii-u-viini-rozvidka)<br>
+16:50 [У Генштабі назвали найгарячіші напрямки фронту](https://ua.korrespondent.net/ukraine/4884967-u-henshtabi-nazvaly-naihariachishi-napriamky-frontu)<br>
+16:35 [Росіяни атакували зупинку в Запоріжжі. 18+](https://ua.korrespondent.net/city/zaporozhye/4884961-rosiiany-atakuvaly-zupynku-v-zaporizhzhi-18)<br>
+16:29 [Росія звинуватила Пашиняна у "репресіях"](https://ua.korrespondent.net/world/4884962-rosiia-zvynuvatyla-pashyniana-u-represiiakh)<br>
+16:15 [Росіяни вдарили по Нікополю, є загиблий та четверо постраждалих](https://ua.korrespondent.net/ukraine/4884960-rosiiany-vdaryly-po-nikopolui-ye-zahyblyi-ta-chetvero-postrazhdalykh)<br>
+16:07 [Київ випробував автономний перехоплювач "шахедів"](https://ua.korrespondent.net/ukraine/4884958-kyiv-vyprobuvav-avtonomnyi-perekhopluivach-shakhediv)<br>
+15:47 [РФ атакувала Бєлгородську область КАБом - соцмережі](https://ua.korrespondent.net/world/russia/4884951-rf-atakuvala-bielhorodsku-oblast-kabom-sotsmerezhi)<br>
+15:46 [Готував підпал підстанції у Кропивницькому: агент РФ отримав 15 років](https://ua.korrespondent.net/ukraine/4884952-hotuvav-pidpal-pidstantsii-u-kropyvnytskomu-ahent-rf-otrymav-15-rokiv)<br>
+15:35 [США розглядають нового посередника у переговорах між РФ і Україною - ЗМІ](https://ua.korrespondent.net/world/4884948-ssha-rozghliadauit-novoho-poserednyka-u-perehovorakh-mizh-rf-i-ukrainoui-zmi)<br>
+15:20 [На Дніпропетровщині росіяни поцілили по двох АЗС, є поранений](https://ua.korrespondent.net/ukraine/4884945-na-dnipropetrovschyni-rosiiany-potsilyly-po-dvokh-azs-ye-poranenyi)<br>
+15:17 [Уряд посилить відповідальність за порушення ПДР](https://ua.korrespondent.net/ukraine/4884944-uriad-posylyt-vidpovidalnist-za-porushennia-pdr)<br>
+15:10 [Удар по Чонгару: Бегемот пройшов бойове хрещення](https://ua.korrespondent.net/ukraine/4884940-udar-po-chonharu-behemot-proishov-boiove-khreschennia)<br>
+15:10 [Юсов прокоментував спробу замаху на себе](https://ua.korrespondent.net/ukraine/4884941-yusov-prokomentuvav-sprobu-zamakhu-na-sebe)<br>
+14:55 [Іран зупинив удари по Ізраїлю і висунув умову](https://ua.korrespondent.net/world/4884936-iran-zupynyv-udary-po-izrailui-i-vysunuv-umovu)<br>
+14:28 [Лаврову не сподобалось, як Україна передала листа](https://ua.korrespondent.net/world/russia/4884928-lavrovu-ne-spodobalos-yak-ukraina-peredala-lysta)<br>
+14:23 [СБС показали удар по локомотиву у Брянській області РФ](https://ua.korrespondent.net/ukraine/4884929-sbs-pokazaly-udar-po-lokomotyvu-u-brianskii-oblasti-rf)<br>
 13:58 [Притула розповів, на які кошти живе під час війни](https://ua.korrespondent.net/lifestyle/4884920-prytula-rozpoviv-na-yaki-koshty-zhyve-pid-chas-viiny)<br>
 13:55 [На Сумщині росіяни атакували дроном авто, четверо поранених](https://ua.korrespondent.net/ukraine/4884915-na-sumschyni-rosiiany-atakuvaly-dronom-avto-chetvero-poranenykh)<br>
 13:53 [ОПЕК+ вчетверте поспіль підвищує цілі з видобутку нафти](https://ua.korrespondent.net/business/economics/4884914-opek-vchetverte-pospil-pidvyschuie-tsili-z-vydobutku-nafty)<br>
@@ -55,10 +81,48 @@ Previous day: [2026-06-07](./data/2026-06-07.md)
 ## as.com
 13:48 [La sangría de los banquillos de la Euroliga](https://as.com/baloncesto/euroliga/la-sangria-de-los-banquillos-de-la-euroliga-f202606-n/)<br>
 13:36 [El Movistar Estudiantes y el miedo a ganar](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-y-el-miedo-a-ganar-f202606-n/)<br>
+13:22 [Pantzar: “Esta es mi casa”](https://as.com/baloncesto/pantzar-f202606-n/)<br>
 08:03 [Laso queda libre](https://as.com/baloncesto/euroliga/laso-queda-libre-f202606-n/)<br>
 06:11 [Razones para un descalabro](https://as.com/baloncesto/acb/razones-para-un-descalabro-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:22 [La reina Sofía se reúne con León XIV antes de asistir al único acto de su viaje: la ofrenda a la Almudena](https://www.elperiodico.com/es/politica/20260608/reina-sofia-leon-papa-nunciatura-ofrenda-floral-almudena-131164966)<br>
+18:16 [El mes clave para jubilarse y maximizar la pensión, según un funcionario de la Seguridad Social](https://www.elperiodico.com/es/videos/economia/mes-clave-jubilarse-maximizar-pension/131164493.shtml)<br>
+18:15 [El 'nuevo' Tributo Metropolitano se cobrará hasta el 31 de julio en una treintena de municipios del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260608/nuevo-tributo-metropolitano-cobrara-31-de-julio-treintena-municipios-area-barcelona-131163142)<br>
+18:12 [Maite Gaudí, descendiente del arquitecto: “Benedicto XVI me caía bien pero León XIV, mejor; creo que hará beato a Gaudí”](https://www.elperiodico.com/es/barcelona/20260608/maite-gaudi-nieta-arquitecto-benedicto-xvi-me-caia-bien-leon-xiv-mejor-creo-lo-hara-beato-barcelona-131162777)<br>
+18:09 [Chipre acusa a Turquía de causar "interferencias" a vuelos con ministros de Defensa de la UE](https://www.elperiodico.com/es/internacional/20260608/chipre-turquia-interferencias-vuelos-ministros-ue-131164214)<br>
+18:07 [El escritor Matthew Tree descubre quién fue su padre en su nuevo título, 'Gairebé tot'](https://www.elperiodico.com/es/ocio-y-cultura/20260608/escritor-matthew-tree-padre-gairebe-tot-131163609)<br>
+18:06 [Dos mellizos con autismo no pueden ir al colegio al lado de casa en Asturias por la falta de un auxiliar: "Es una injusticia que nos pongan estas trabas"](https://www.elperiodico.com/es/sociedad/20260608/mellizos-autismo-no-pueden-ir-colegio-lado-casa-auxiliar-injusticia-dv-130960491)<br>
+18:03 [Merz y Macron ponen fin al proyecto del caza europeo FCAS](https://www.elperiodico.com/es/internacional/20260608/merz-macron-ponen-fin-proyecto-caza-europeo-fcas-131163886)<br>
+18:00 [El "bloqueo burocrático" de Madrid atasca las desalinizadoras de Tordera y Foix, la eólica marina y la central de la Baells](https://www.elperiodico.com/es/sociedad/20260608/atasco-madrid-desalinizadores-tordera-blanes-foix-cubelles-plataforma-eolica-emporda-central-baells-cercs-cataluna-agua-energia-130924667)<br>
+17:56 [Guerra Ucrania - Rusia, en directo, última hora del conflicto](https://www.elperiodico.com/es/internacional/20260608/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+17:53 [León XIV sale de la Nunciatura Apostólica para visitar la Catedral de La Almudena](https://www.elperiodico.com/es/videos/sociedad/leon-xiv-sale-nunciatura-apostolica/131163463.shtml)<br>
+17:50 [Puertas abiertas modernistas y rutas en bici: estos son los actos más destacados de la Capitalitat de l'Arquitectura en Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260608/puertas-abiertas-modernistas-rutas-bici-actos-destacados-capitalitat-arquitectura-barcelona-130949548)<br>
+17:46 [Sabel Noriega, la joven de 32 años con una enfermedad rara que se ha sacado tres titulaciones universitarias: "Con lo que tienes, se tira para adelante"](https://www.elperiodico.com/es/sociedad/20260608/sabel-noriega-32-anos-enfermedad-rara-tres-titulaciones-universitarias-dv-130960137)<br>
+17:45 [¿Puedo teletrabajar este martes y miércoles por la visita del Papa León XIV a Barcelona?](https://www.elperiodico.com/es/videos/economia/teletrabajar-martes-miercoles-visita-papa/131162960.shtml)<br>
+17:29 [Miguel Assal, agente de Emergencias, alerta sobre la 'bacteria comecarne': "Un pequeño corte puede ser el causante"](https://www.elperiodico.com/es/videos/vida-y-estilo/miguel-assal-agente-emergencias-alerta-bacteria-come-carne-dv/131162389.shtml)<br>
+17:27 [Una niña se salta el cordón de seguridad para abrazar al Papa León XIV](https://www.elperiodico.com/es/videos/politica/nina-salta-cordon-seguridad-abrazar-papa/131162458.shtml)<br>
+17:20 [¿Clama el Papa en el desierto?](https://www.elperiodico.com/es/opinion/20260608/clama-papa-desierto-inmigracion-articulo-rosa-paz-131161621)<br>
+17:11 [¿A qué se debe la caída de la natalidad? La respuesta puede estar en tu bolsillo](https://www.elperiodico.com/es/sociedad/20260608/caida-natalidad-nuevo-estudio-culpa-fertilidad-tasa-movil-iphone-internet-redes-sociales-131159405)<br>
+17:08 [El Govern plantea pagar a los funcionarios que renuncien a teletrabajar](https://www.elperiodico.com/es/videos/economia/govern-plantea-pagar-funcionarios-renuncien/131161562.shtml)<br>
+17:05 [Ni confianza ni liderazgo: los psicólogos coinciden sobre el problema de las personas que siempre levantan la voz](https://www.elperiodico.com/es/ser-feliz/20260608/confianza-liderazgo-psicologos-coinciden-problema-personas-levantan-voz-dv-131159823)<br>
+17:04 [Xi fortalece los vínculos entre China y Corea del Norte con su primer viaje a Pionyang en 7 años](https://www.elperiodico.com/es/internacional/20260608/xi-fortalece-vinculos-china-corea-norte-primer-viaje-pionyang-7-anos-131161448)<br>
+17:01 [Wim Wenders se disculpa con Nastassja Kinski y retira un desnudo filmado cuando la actriz tenía 13 años](https://www.elperiodico.com/es/ocio-y-cultura/20260608/wim-wenders-disculpa-nastassja-kinski-131158505)<br>
+17:00 [Las denuncias por odio en Catalunya aumentan el 12% en dos años: una de cada tres son del colectivo LGTBI](https://www.elperiodico.com/es/sociedad/20260608/denuncias-odio-discrminacion-aumentan-cataluna-130944410)<br>
+17:00 [Detenido un pirómano in fraganti mientras quemaba vegetación en Terrassa](https://www.elperiodico.com/es/sucesos/20260608/detenido-piromano-in-fraganti-quemaba-vegetacion-terrassa-131161153)<br>
+16:57 [Marruecos mata a un dirigente del Frente Polisario en un ataque con drones en el Sáhara](https://www.elperiodico.com/es/internacional/20260608/marruecos-mata-dirigente-frente-polisario-sahara-131161159)<br>
+16:28 [Sánchez regala al Papa un bonsai de olivo español como símbolo de paz y diálogo](https://www.elperiodico.com/es/videos/politica/sanchez-regala-papa-bonsai-olivo/131159916.shtml)<br>
+16:02 ["No es solo una broma": manual para madres y padres contra el acoso en la era de los 'stickers' y memes](https://www.elperiodico.com/es/sociedad/20260608/familias-como-prevenir-acoso-burlas-131158108)<br>
+16:00 [El mercado del lujo en China se contrae y muda hacia opciones patrias](https://www.elperiodico.com/es/economia/20260608/mercado-lujo-china-contrae-muda-131066518)<br>
+15:21 [El Govern plantea pagar a los funcionarios que renuncien a teletrabajar](https://www.elperiodico.com/es/economia/20260608/teletrabajo-cataluna-pagar-funcionarios-renuncien-131156970)<br>
+15:20 [Una solarigrafía, la foto nunca antes hecha de la Sagrada Família](https://www.elperiodico.com/es/barcelona/eixample/20260608/solarigrafia-foto-hecha-sagrada-familia-131148791)<br>
+15:15 [Turismo de Barcelona lanza una miniguía y recomendaciones para la visita del Papa](https://www.elperiodico.com/es/barcelona/20260608/turismo-barcelona-lanza-guia-recomendaciones-informacion-visita-papa-leon-xiv-131147589)<br>
+15:05 [Las familias reclaman al Govern un acuerdo en educación "más allá de los sindicatos"](https://www.elperiodico.com/es/sociedad/20260608/familias-reclaman-govern-acuerdo-educacion-mas-alla-sindicatos-hoja-ruta-escuela-publica-131152530)<br>
+14:59 [A quién votan las masas del Papa](https://www.elperiodico.com/es/opinion/20260608/votan-masas-papa-espana-articulo-matias-valles-131146212)<br>
+14:50 [Sanidad destinará 9 millones de euros para financiar preservativos para jóvenes de entre 16 y 22 años en 2027](https://www.elperiodico.com/es/sanidad/20260608/sanidad-destinara-millones-preservativos-jovenes-casos-infecciones-transmision-sexual-131150742)<br>
+14:46 [El milagro de Gaudí](https://www.elperiodico.com/es/opinion/20260608/milagro-gaudi-arquitectura-sagrada-familia-articulo-juli-capella-131155684)<br>
+14:43 [Estas son las siete perlas del Flaix Tardor-BCN, el festival de teatro internacional de Barcelona](https://www.elperiodico.com/es/ocio-y-cultura/20260608/son-siete-perlas-flaix-tardor-131147591)<br>
+14:30 [La OCU emite un aviso sobre los parches para adelgazar: "Ninguno de ellos tiene un efecto demostrado"](https://www.elperiodico.com/es/salud/20260608/parches-adelgazar-ocu-efectos-secundarios-dv-131002769)<br>
 14:06 [Trump abandona una entrevista en la NBC tras ser cuestionado sobre acusaciones de fraude electoral](https://www.elperiodico.com/es/videos/internacional/trump-abandona-entrevista-nbc-cuestionado-acusaciones-fraude-electoral-video/131154055.shtml)<br>
 14:06 [Así funciona la jubilación en Países Bajos: 67 años, pensiones fijas de 1.580 al mes y una gran importancia de las inversiones](https://www.elperiodico.com/es/economia/20260608/jubilacion-paises-bajos-67-anos-pensiones-fijas-fondos-privados-inversion-dv-131153719)<br>
 14:05 [Pedraz acepta la petición de la Fiscalía y llama a declarar a Cristina Narbona, presidenta del PSOE](https://www.elperiodico.com/es/politica/20260608/pedraz-acepta-peticion-fiscalia-llama-131154053)<br>
@@ -84,6 +148,7 @@ Previous day: [2026-06-07](./data/2026-06-07.md)
 12:30 [Laprovittola y la temporada del Barça: "Nunca me había pasado una cosa así"](https://www.elperiodico.com/es/deportes/20260608/laprovittola-temporada-barca-habia-pasado-131145004)<br>
 12:26 ["Respeta a tu hijo": Suecia pide a los padres no usar el móvil en presencia de los niños](https://www.elperiodico.com/es/internacional/20260608/respeta-hijo-suecia-pide-padres-no-utilizar-movil-telefono-casa-hijos-ninos-pantalla-adiccion-salud-131147204)<br>
 12:25 [Feijóo suscribe "de la primera a la última" todas las palabras de León XIV](https://www.elperiodico.com/es/politica/20260608/feijoo-suscribe-primera-ultima-palabras-131147062)<br>
+12:20 [¿Puedo teletrabajar este martes y miércoles por la visita del Papa León XIV a Barcelona? Esto es lo que se recomienda](https://www.elperiodico.com/es/economia/20260608/teletrabajo-martes-miercoles-barcelona-visita-papa-leon-xiv-131144340)<br>
 12:19 [Núria Parlon pide "agravar las penas por la tenencia ilícita de armas de fuego" tras el tiroteo de la Zona Franca](https://www.elperiodico.com/es/sucesos/20260608/nuria-parlon-pide-agravar-penas-tenencia-armas-de-fuego-131145831)<br>
 12:18 [Confirmado por Idealista: este es el mejor municipio de Catalunya para vivir como jubilado](https://www.elperiodico.com/es/economia/20260608/idealista-mejor-municipio-catalunya-vivir-jubilado-dv-131145466)<br>
 12:07 [El Papa pide a los obispos responder ante la "plaga" de los abusos sexuales con "verdad, justicia y reparación"](https://www.elperiodico.com/es/sociedad/20260608/victimas-pederastia-visita-papa-reunion-protesta-131143180)<br>
