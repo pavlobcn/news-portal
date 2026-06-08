@@ -1,8 +1,10 @@
-# News for 2026-06-08 23:14
+# News for 2026-06-09 00:48
 
 Previous day: [2026-06-07](./data/2026-06-07.md)
 
 ## ua.korrespondent.net
+23:49 [Попри протести: зять Трампа продовжить будувати курорти в Албанії](https://ua.korrespondent.net/world/4885049-popry-protesty-ziat-trampa-prodovzhyt-buduvaty-kurorty-v-albanii)<br>
+23:20 [Зеленський розповів про розмову з Віткоффом](https://ua.korrespondent.net/ukraine/4885047-zelenskyi-rozpoviv-pro-rozmovu-z-vitkoffom)<br>
 22:52 [Угорські депутати скоротили собі зарплати](https://ua.korrespondent.net/world/4885043-uhorski-deputaty-skorotyly-sobi-zarplaty)<br>
 22:23 [У Дніпрі вибухнув боєприпас: двоє загиблих](https://ua.korrespondent.net/city/dnepr/4885041-u-dnipri-vybukhnuv-boieprypas-dvoie-zahyblykh)<br>
 21:59 [Зеленський провів розмову з командою Трампа](https://ua.korrespondent.net/ukraine/4885037-zelenskyi-proviv-rozmovu-z-komandoui-trampa)<br>
@@ -104,6 +106,9 @@ Previous day: [2026-06-07](./data/2026-06-07.md)
 06:11 [Razones para un descalabro](https://as.com/baloncesto/acb/razones-para-un-descalabro-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Una aventura familiar en plena naturaleza](https://www.elperiodico.com/es/ocio-y-cultura/20260608/aventura-familiar-plena-naturaleza-bc-130216118)<br>
+23:47 [La portada de EL PERIÓDICO del 9 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260608/portada-periodico-9-junio-2026-131173658)<br>
+23:14 [Declarado un incendio en una cooperativa frutícola de Lleida](https://www.elperiodico.com/es/sociedad/20260608/declarado-incendio-cooperativa-agricola-lleida-131173399)<br>
 23:05 [Así ha sido el tercer día del viaje del papa León XIV por España](https://www.elperiodico.com/es/videos/politica/tercer-dia-viaje-papa-leon-espana/131173328.shtml)<br>
 22:22 [El Sónar Kids regresa 10 años después en el Fòrum con directos, talleres y juegos](https://www.elperiodico.com/es/ocio-y-cultura/20260608/sonar-kids-regresa-10-anos-131158106)<br>
 21:54 [Kim jong-un despliega la alfombra roja para recibir a Xi Jinping en una visita excepcional](https://www.elperiodico.com/es/videos/internacional/kim-jong-despliega-alfombra-roja/131172467.shtml)<br>
@@ -184,6 +189,7 @@ Previous day: [2026-06-07](./data/2026-06-07.md)
 13:39 [Apple presenta hoy todas sus novedades en IA: sigue aquí la WWDC 2026 en directo](https://www.elperiodico.com/es/tecnologia/20260608/apple-presenta-hoy-novedades-ia-siri-wwdc-2026-movil-ipad-iphone-mac-ordenador-131148851)<br>
 13:20 [Trump exige a Israel e Irán el cese "inmediato" de los ataques](https://www.elperiodico.com/es/videos/internacional/trump-exige-israel-iran-cese/131151036.shtml)<br>
 13:11 [María Jesús Montero renuncia al Congreso de los Diputados y recoge su acta en el Parlamento de Andalucía: "Los hechos ponen a la verdad en su sitio"](https://www.elperiodico.com/es/politica/20260608/maria-jesus-montero-renuncia-acta-131150758)<br>
+13:09 [9 de junio: ¿Dónde es festivo hoy en España?](https://www.elperiodico.com/es/economia/20260608/festivo-autonomico-espana-9-junio-dv-131139206)<br>
 13:06 [Dos de cada tres pacientes renales sufren fatiga y problemas de sueño tras las sesiones de hemodiálisis](https://www.elperiodico.com/es/sanidad/20260608/tres-pacientes-renales-sufren-fatiga-problemas-sueno-hemodialisis-131146744)<br>
 13:02 [Miriam Nogueras saluda al papa y le pide, en inglés, que en su visita a Cataluña hable en catalán](https://www.elperiodico.com/es/videos/politica/miriam-nogueras-saluda-papa-catalan/131149285.shtml)<br>
 13:00 [Nogueras evita el castellano en Madrid y le agradece en inglés al Papa que hable en catalán en Barcelona](https://www.elperiodico.com/es/politica/20260608/nogueras-evita-castellano-madrid-le-131149150)<br>
