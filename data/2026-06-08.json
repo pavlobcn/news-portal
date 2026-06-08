@@ -1,5 +1,545 @@
 [
   {
+    "title": "Un informe alerta del rol creciente de las armas nucleares pese al riesgo de una escalada",
+    "link": "https://www.elperiodico.com/es/internacional/20260608/informe-alerta-rol-creciente-armas-nucleares-131138202",
+    "pubDate": "2026-06-08 09:04:55",
+    "category": "",
+    "description": "<h2>El Instituto Internacional de Estudios para la Paz de Estocolmo (SIPRI) advierte de que los estados nucleares podrían empezar a desplegar más cabezas que las que retiran</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La transformación de los hogares españoles",
+    "link": "https://www.elperiodico.com/es/sociedad/20260608/transformacion-hogares-espanoles-bc-130939795",
+    "pubDate": "2026-06-08 08:59:05",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Вірменії підрахували 100% голосів на виборах",
+    "link": "https://ua.korrespondent.net/world/4884824-u-virmenii-pidrakhuvaly-100-holosiv-na-vyborakh",
+    "pubDate": "2026-06-08 08:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454899.jpg\">ЦВК Вірменії опрацювала 100% бюлетенів. На парламентських виборах перемогла партія Громадянський договір.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los mejores fricandós de Barcelona para mojar pan",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260608/mejores-fricandos-barcelona-restaurantes-130679324",
+    "pubDate": "2026-06-08 08:48:24",
+    "category": "",
+    "description": "<h2 class=\"item\">En estas direcciones disfrutarás con este plato tan icónico de la cocina catalana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20201123/mejores-recetas-fricando-8142606\">4 recetas de fricandó para mojar pan</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/opinion/20150723/coca-de-fricando-por-pau-arenos-4363039\">Coca de fricandó</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gaudí también se come y se bebe: restaurantes y coctelerías que dedican platos y tragos al genial arquitecto",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260608/platos-gaudi-barcelona-restaurantes-131048841",
+    "pubDate": "2026-06-08 08:45:22",
+    "category": "",
+    "description": "<h2 class=\"item\">La conmemoración por el centenario de la muerte del genial arquitecto ha despertado la creatividad de muchos establecimientos, que estos días ofrecen sus propuestas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260517/ferran-adria-salmonetes-gaudi-receta-documental-129719190\">VÍDEO | Ferran Adrià vuelve a cocinar en 'Gaudí, Adrià y el regreso del salmonete', un mini documental de Cata Mayor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260203/ano-gaudi-restaurantes-chocolate-126255404\">Año Gaudí: estos son los bocados que inspira el genio del modernismo</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los chefs de Disfrutar logran el Grand Prix Exceptionnel de L’Académie Internationale de la Gastronomie (y otras noticias gastro)",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260608/disfrutar-grand-prix-exceptionnel-academie-internationale-gastronomie-2026-131058244",
+    "pubDate": "2026-06-08 08:44:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Te contamos lo que pasa en el mundillo gastro en estos 'flashes'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurante-disfrutar-barcelona-sh/index.html\">¿Por qué Disfrutar es un restaurante único?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250519/plat-blanc-documental-restaurante-disfrutar-117465128\">'Plat en blanc', el documental que analiza el éxito de Disfrutar</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "7 hamburguesas de culto en Madrid: desde la favorita de Michael Jordan a la mejor del mundo",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260608/mejores-hamburguesas-de-culto-madrid-131057715",
+    "pubDate": "2026-06-08 08:43:37",
+    "category": "",
+    "description": "<h2 class=\"item\">De edición limitada, en restaurantes de alto copete, de autor... no hay que perderse estas bombas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260605/pizzas-cheesecakes-marisco-conos-patatas-130713472\" target=\"_blank\">Las pizzas, los 'cheesecakes', el marisco y los conos de patatas más baratos de Barcelona: comer a precio de chollo está de moda</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260602/mejores-bodegas-barcelona-restaurantes-130106860\" target=\"_blank\">Las mejores bodegas de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El despacho de Los Morancos cancela 29 millones en deudas: \"Nada te da más alegría que ayudar a las personas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260608/despacho-morancos-cancela-millones-deudas-ayudar-personas-ley-segunda-oportunidad-130944128",
+    "pubDate": "2026-06-08 08:40:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Jorge y César Cadaval celebran los tres años de vida de Libres de Deuda: la empresa ha resuelto 452 expedientes de personas que se han acogido a la Ley de la Segunda Oportunidad</h2><h2 class=\"item\">\"En estos años hemos visto muchísimo sufrimiento\", admiten en una entrevista con EL PERIÓDICO </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250929/morancos-celebran-anos-despacho-cancelacion-cancelacion-deudas-feliz-mucha-gente-ley-segunda-oportunidad-122084693\">Los Morancos celebran los dos años de su despacho de cancelación de deudas: \"Lo importante es que hemos hecho feliz a mucha gente\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нафта відреагувала на загострення конфлікту на Близькому Сході",
+    "link": "https://ua.korrespondent.net/business/economics/4884822-nafta-vidreahuvala-na-zahostrennia-konfliktu-na-blyzkomu-skhodi",
+    "pubDate": "2026-06-08 08:35:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454870.jpg\">Загострення конфлікту зруйнувало надії на швидке закінчення війни та відновлення поставок нафти через Ормузьку протоку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Movistar Plus+ estrena por sorpresa una de las series más adictivas del momento (y ya puedes verla por 4,99 euros)",
+    "link": "https://www.elperiodico.com/es/shopping/20260608/mejores-series-online-movistar-plus-ver-peliculas-contratar-bc-129935118",
+    "pubDate": "2026-06-08 08:35:00",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">La plataforma lanza por fin el plan más esperado: por menos de cinco euros, acceso a todo el catálogo de cine, series, programas y más de 70 canales de Movistar Plus+</h2><h2 style=\"text-align: justify;\"><a href=\"https://clk.tradedoubler.com/click?p=357743&a=3149064&url=https%3A%2F%2Fwww.movistarplus.es%2Fseries%2Fdonde-ver%3F_gl%3D1\" target=\"_blank\" rel=\"nofollow\">Aquí puedes encontrar más información sobre el nuevo plan de Movistar Plus+</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Confirmado: si viajas en un tren sin aire acondicionado, Renfe deberá devolverte el dinero",
+    "link": "https://www.elperiodico.com/es/sucesos/20260608/viaje-tren-sin-aire-acondicionado-verano-indemnizacion-dv-131070861",
+    "pubDate": "2026-06-08 08:30:52",
+    "category": "",
+    "description": "<h2>Tras tres años, FACUA ha conseguido que la empresa de transporte ferroviario reembolse a una mujer 31,90 euros que pagó por un viaje de AVE sin aire en verano</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260209/declarado-procedente-despido-trabajadora-renfe-indemnizaciones-claves-ajenas-dv-126480663\">Declarado procedente el despido de una trabajadora de Renfe por cobrar indemnizaciones con claves ajenas</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260119/indemnizacion-accidente-tren-adamuz-cordoba-derechos-afectados-victimas-viajeros-125851499\">¿A qué indemnización tienen derecho los afectados por el accidente de tren en Adamuz?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тренер збірної України відреагував на драматичні події в грі з Данією",
+    "link": "https://ua.korrespondent.net/sport/football/4884817-trener-zbirnoi-ukrainy-vidreahuvav-na-dramatychni-podii-v-hri-z-daniieui",
+    "pubDate": "2026-06-08 08:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454869.jpg\">Мальдера наголосив, що після жахливого інциденту з півзахисником данців будь-які розмови про футбол абсолютно недоречні.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cortes de tráfico en Barcelona: empiezan las afectaciones a la movilidad en Ciutat Vella y Montjuïc por la visita del Papa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260608/cortes-trafico-barcelona-papa-131136613",
+    "pubDate": "2026-06-08 08:15:51",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260605/pau-barcelona-visita-papa-leon-xiv-cortes-metro-selectividad-131051274\">La visita del papa León XIV a Barcelona coincide con las PAU: así afectarán los cortes y desvíos a los estudiantes</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ вдарила дронами по Конотопу: є жертва та поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4884818-rf-vdaryla-dronamy-po-konotopu-ye-zhertva-ta-poraneni",
+    "pubDate": "2026-06-08 08:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454852.jpg\">Внаслідок російської дронової атаки одна жінка загинула, ще троє людей госпіталізовані до реанімації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Encuentro con Sánchez, discurso en el Congreso y un acto en el Bernabéu, en el tercer día del Papa en Madrid",
+    "link": "https://www.elperiodico.com/es/sociedad/20260608/encuentro-sanchez-discurso-congreso-acto-131137294",
+    "pubDate": "2026-06-08 08:11:05",
+    "category": "",
+    "description": "<h2>El Pontífice también se reunirá en Nunciatura con víctimas de abusos en la Iglesia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна поступилася Данії у зупиненому матчі: огляд гри",
+    "link": "https://ua.korrespondent.net/sport/football/4884814-ukraina-postupylasia-danii-u-zupynenomu-matchi-ohliad-hry",
+    "pubDate": "2026-06-08 08:11:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454851.jpg\">Головною подією вечора став не фінальний результат, а інцидент на полі, через який арбітр матчу був змушений на тривалий час зупинити гру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trama del PSOE, en directo: última hora del sumario del caso Leire Díez, trama Santos Cerdán y caso Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260608/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522",
+    "pubDate": "2026-06-08 08:10:00",
+    "category": "",
+    "description": "<h2>Todas las claves del caso Plus Ultra</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260520/analisis-relevante-whathefav-gertru-presunta-130448201\" target=\"_blank\">Análisis Relevante, Whathefav, Gertru...: Quién es quién en la presunta trama de Zapatero</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260523/radiografia-delitos-juez-calama-imputa-130552590\" target=\"_blank\">¿Quién es José Luis Calama, el juez que ha imputado a Rodríguez Zapatero?</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La educadora infantil Tania García zanja el debate sobre el colecho: \"Deja de creerte historias sobre dormir acompañados que nada tienen que ver con la ciencia\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260608/ninos-dormir-padres-consecuencias-colecho-crianza-dv-123472541",
+    "pubDate": "2026-06-08 08:04:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Según la experta, practicar colecho con tus hijos contribuye al desarrollo integral de los niños</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251008/dormir-toda-noche-edad-ninos-pediatra-carlos-gonzalez-dv-121942790\">Carlos González, pediatra, sobre los problemas de sueño: \"Tu hijo no dormirá nunca de un tirón\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/educacion/20250907/vuelta-al-cole-hora-dormir-hijos-psicologia-dv-121138343\">Cómo reajustar la hora de ir a dormir de los hijos antes de la vuelta al cole</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laso queda libre",
+    "link": "https://as.com/baloncesto/euroliga/laso-queda-libre-f202606-n/",
+    "pubDate": "2026-06-08 08:03:00",
+    "category": "Baloncesto",
+    "description": "El Efes tiene intención de despedir al técnico vitoriano y recuperar a Luca Banchi tras caer eliminado en semifinales de la liga turca con el Fenerbahçe.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'La casa nostra', la 'sitcom' de TV3 de los creadores de 'Casa en flames' que provocó un ataque de cataplexia a Jordi Évole",
+    "link": "https://www.elperiodico.com/es/tele/20260608/casa-nostra-sitcom-tv3-creadores-131065318",
+    "pubDate": "2026-06-08 08:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La cadena estrena en abierto la primera temporada de la comedia y la plataforma 3Cat, la segunda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20251021/casa-nostra-sitcom-dani-orden-serie-3cat-tv3-117637106\">3Cat recupera el espíritu de 'Plats bruts' en 'La casa nostra', una 'sitcom' de Dani de la Orden</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los errores más comunes que pueden costar una multa a los usuarios de autocaravanas",
+    "link": "https://www.elperiodico.com/es/motor/20260608/errores-comunes-costar-multa-usuarios-130969626",
+    "pubDate": "2026-06-08 08:00:53",
+    "category": "",
+    "description": "<h2>Muchos usuarios creen que están correctamente estacionados, pero desplegar ciertos elementos o incumplir normas locales puede acabar en sanción</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Повітряні сили розкрили подробиці нічної атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4884815-povitriani-syly-rozkryly-podrobytsi-nichnoi-ataky-rf",
+    "pubDate": "2026-06-08 07:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454850.jpg\">Зафіксовано влучання 20 ударних БпЛА на 17 локаціях, а також падіння збитих (уламки) на шести локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El juicio por el presunto enchufe de David Sánchez en la Diputación de Badajoz encara su recta final",
+    "link": "https://www.elperiodico.com/es/politica/20260608/juicio-presunto-enchufe-david-sanchez-131136990",
+    "pubDate": "2026-06-08 07:52:28",
+    "category": "",
+    "description": "<h2>Este lunes se retoma la vista con los alegatos: las acusaciones populares, la defensas y la fiscal tienen la última oportunidad de exponer sus tesis antes de que el tribunal dicte sentencia</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Іран випустив 11 ракет по Ізраїлю: країна відповіла на атаку",
+    "link": "https://ua.korrespondent.net/world/4884812-iran-vypustyv-11-raket-po-izrailui-kraina-vidpovila-na-ataku",
+    "pubDate": "2026-06-08 07:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454833.jpg\">Ізраїль зараз цілиться в іранські пускові майданчики ракет класу \"земля-земля\", а також в об'єкти інфраструктури.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La visita del Papa a España, en directo | El Congreso espera a León XIV",
+    "link": "https://www.elperiodico.com/es/sociedad/20260608/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248",
+    "pubDate": "2026-06-08 07:30:00",
+    "category": "",
+    "description": "<h2>Robert Prevost prosigue este domingo su visita a España, que continuará en Barcelona y Canarias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unos jóvenes emprendedores crean un sistema para instalar pavimento cerámico de forma fácil y barata",
+    "link": "https://www.elperiodico.com/es/economia/20260608/emprendedores-crean-sistema-instalar-pavimento-ceramico-130709222",
+    "pubDate": "2026-06-08 07:30:00",
+    "category": "",
+    "description": "<h2>Este método ya se ha empleado de forma efectiva en la ciudad italiana de Turín</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб розповів, як минула доба на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4884809-henshtab-rozpoviv-yak-mynula-doba-na-fronti",
+    "pubDate": "2026-06-08 07:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454816.jpg\">На Покровському напрямку українські захисники зупинили 30 штурмових дій російських загарбників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Перес зберіг посаду президента Реала",
+    "link": "https://ua.korrespondent.net/sport/football/4884808-peres-zberih-posadu-prezydenta-reala",
+    "pubDate": "2026-06-08 07:18:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454817.jpg\">79-річний іспанський функціонер отримав повну підтримку від членів клубу і буде керувати мадридським грандом до 2030 року.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra de Irán, en directo: última hora de la situación en Oriente Medio",
+    "link": "https://www.elperiodico.com/es/internacional/20260608/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-06-08 07:13:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irán registra explosiones en Teherán, Isfahán y Tabriz tras el anuncio de Israel de nuevos ataques aéreos",
+    "link": "https://www.elperiodico.com/es/internacional/20260608/iran-registra-explosiones-teheran-isfahan-131136346",
+    "pubDate": "2026-06-08 07:12:36",
+    "category": "",
+    "description": "<h2>Estos ataques se producen horas después de que Irán haya lanzado varias oleadas de proyectiles contra el norte de Israel </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El lenguaje de Chicote",
+    "link": "https://www.elperiodico.com/es/tele/20260608/lenguaje-chicote-131125753",
+    "pubDate": "2026-06-08 07:01:02",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guillermina Baeza, 40 años de la firma que subió el bañador a la pasarela: \"El baño nos viste en la playa, en la piscina y en la calle\"",
+    "link": "https://www.elperiodico.com/es/gente/20260608/guillermina-baeza-40-anos-firma-subio-banador-pasarela-131055693",
+    "pubDate": "2026-06-08 07:00:57",
+    "category": "",
+    "description": "<h2>\"Es imprescindible seguir innovando\", apunta Belén Larruy, hija de la fundadora y actual directora creativa de la marca de Barcelona que cambió el armario de verano elevando sus prendas a auténticos iconos de moda. La casa puso alas de ángel a sus modelos en 1993, mucho antes que Victoria's Secret</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Qué carné y normas necesitas conocer antes de ponerte a los mandos de un quad",
+    "link": "https://www.elperiodico.com/es/motor/20260608/guia-definitiva-sobre-quads-130919743",
+    "pubDate": "2026-06-08 07:00:55",
+    "category": "",
+    "description": "<h2>No todos los quads se conducen igual y según su clasificación, pueden exigir distintos permisos, tener límites de velocidad específicos y estar sujetos a normas que muchos usuarios desconocen</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "TVyMAS Lunes 8",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-8/131126452.shtml",
+    "pubDate": "2026-06-08 06:59:50",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві п'яний водій тікав від поліції та розбив три службові авто",
+    "link": "https://ua.korrespondent.net/city/kiev/4884806-u-kyievi-pianyi-vodii-tikav-vid-politsii-ta-rozbyv-try-sluzhbovi-avto",
+    "pubDate": "2026-06-08 06:51:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454782.jpg\">Перевірка показала, що чоловік позбавлений водійських прав на 10 років саме за керування у нетверезому стані.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Elecciones a la presidencia del Real Madrid, en directo: votaciones, resultados y última hora de Florentino Pérez y Enrique Riquelme",
+    "link": "https://www.elperiodico.com/es/deportes/20260608/elecciones-presidencia-real-madrid-directo-ultima-hora-florentino-riquelme-131097669",
+    "pubDate": "2026-06-08 06:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260607/encuestas-elecciones-real-madrid-sondeos-quien-ganara-131069369\">Últimas encuestas de las elecciones del Real Madrid: así están los sondeos entre Florentino Pérez y Enrique Riquelme</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260606/intrahistoria-campana-electoral-real-madrid-florentino-perez-enrique-riquelme-131082483\">Intrahistoria de la campaña electoral del Real Madrid o cómo Riquelme hizo remangarse a Florentino</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 8 червня",
+    "link": "https://ua.korrespondent.net/ukraine/4884804-henshtab-nazvav-vtraty-rosii-stanom-na-8-chervnia",
+    "pubDate": "2026-06-08 06:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454765.jpg\">Минулої доби ЗСУ ліквідували 1330 окупантів. Знищено вісім танків, п'ять бронемашин, 85 артсистем, три РСЗВ, дві ППО, 12 НРК і 2161 дронів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Razones para un descalabro",
+    "link": "https://as.com/baloncesto/acb/razones-para-un-descalabro-f202606-n/",
+    "pubDate": "2026-06-08 06:11:00",
+    "category": "Baloncesto",
+    "description": "Algunas claves para explicar la caída en desgracia del Real Madrid de Sergio Scariolo en la que es su primera temporada sin títulos de baloncesto desde 2011.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Márquez: “Me equivocaría si pensase que ya soy el de antes”",
+    "link": "https://www.elperiodico.com/es/deportes/20260608/marquez-equivocaria-pensase-131135252",
+    "pubDate": "2026-06-08 06:08:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Marc Márquez (Ducati), aunque no lo parezca, va aún con el freno de mano puesto. Detesta la euforia. Sigue pensando que aún le queda mucho para volver a ser el campeón del pasado año. Pero está en camino. Sería absurdo engañarse. Todo el 'paddock' del Mundial está convencido de que, en Hungría, volvió a convertirse en el campeón que siempre ha sido.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Florentino Pérez cree haber ganado, pero ha perdido más que nadie",
+    "link": "https://www.elperiodico.com/es/deportes/20260608/florentino-perez-cree-haber-ganado-131127039",
+    "pubDate": "2026-06-08 06:07:13",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "León XIV, el Papa que hablará al Congreso",
+    "link": "https://www.elperiodico.com/es/opinion/20260608/papa-leon-xiv-hablara-congreso-131132040",
+    "pubDate": "2026-06-08 06:01:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 3 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20260608/gasolineras-mas-baratas-hoy-lunes-8-junio-2026-131028483",
+    "pubDate": "2026-06-08 06:00:43",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Leire Díez puso en marcha una operación contra el Tribunal Supremo para \"culminar con éxito la amnistía\": \"Villarejo tiene pruebas que demostrarían la corrupción de Marchena\"",
+    "link": "https://www.elperiodico.com/es/politica/20260608/leire-diez-puso-marcha-operacion-131077544",
+    "pubDate": "2026-06-08 06:00:42",
+    "category": "",
+    "description": "<h2>Díez fijó \"objetivo prioritario\" acelerar la comisión del Congreso sobre la Operación Cataluña para cerrar conclusiones y persentar una denuncia</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260605/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Situación política y judicial del PSOE, la trama Leire Díez y el caso Zapatero | Última hora </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UDEF descubre que la trama de blanqueo del caso Zapatero tenía contacto directo con la presidenta de Venezuela Delcy Rodríguez",
+    "link": "https://www.elperiodico.com/es/politica/20260608/udef-descubre-trama-blanqueo-caso-131078299",
+    "pubDate": "2026-06-08 06:00:42",
+    "category": "",
+    "description": "<h2>Uno de los abogados de la presunta organización criminal conoció a la dirigente del país sudamericano en 2013 en París, cuando era ministra de Comunicación</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260605/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\"> Situación política y judicial del PSOE, la trama Leire Díez y el caso Zapatero | Última hora  </a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un centenar de municipios de Catalunya planean presentarse a la segunda convocatoria del Pla de Barris del Govern",
+    "link": "https://www.elperiodico.com/es/tarragona/20260608/centenar-municipios-catalunya-planean-presentarse-segunda-convocatoria-pla-de-barris-131034623",
+    "pubDate": "2026-06-08 06:00:40",
+    "category": "",
+    "description": "<h2>Un total de 106 ayuntamientos han manifestado su interés por concurrir a las ayudas presupuestadas con 200 millones ampliables</h2><h2>Reus, Santa Coloma, Tarragona, Mataró o Calafell ya tienen en marcha algunos de los proyectos seleccionados en la primera convocatoria</h2><h2>ENTREVISTA | <a>Carles Martí, comisionado de barrios: Generar ilusión y confianza a la ciudadanía es útil para combatir a la extrema derecha</a></h2><h2>BARCELONA | <a href=\"https://www.elperiodico.com/es/barcelona/20260526/govern-lanza-segunda-convocatoria-ley-barrios-200-millones-400-millones-presupuestos-130646874\" target=\"_blank\">El Govern lanza la segunda convocatoria de la ley de barrios: 200 millones ampliables hasta 400 si prosperan los presupuestos</a></h2><h2>TARRAGONA | <a href=\"https://www.elperiodico.com/es/tarragona/20260529/municipios-tarragona-proyectos-exito-pla-barris-generalitat-130794500\">Los municipios de Tarragona ajustan sus proyectos para tener más éxito en la segunda convocatoria del Pla de Barris</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carles Martí: \"Generar ilusión y esperanza a la ciudadanía es útil para combatir a la extrema derecha\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260608/carles-marti-generar-ilusion-esperanza-ciudadania-util-combatir-extrema-derecha-131020837",
+    "pubDate": "2026-06-08 06:00:38",
+    "category": "",
+    "description": "<h2>El responsable de liderar el Pla de Barris del Govern confía en su capacidad para mejorar la vida de miles de catalanes</h2><h2>MUNICIPIOS | <a href=\"https://www.elperiodico.com/es/tarragona/20260605/centenar-municipios-catalunya-planean-presentarse-segunda-convocatoria-pla-de-barris-131034623\" target=\"_blank\">Un centenar de municipios de Catalunya planean presentarse a la segunda convocatoria del Pla de Barris del Govern</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260526/govern-lanza-segunda-convocatoria-ley-barrios-200-millones-400-millones-presupuestos-130646874\" target=\"_blank\">El Govern lanza la segunda convocatoria de la ley de barrios: 200 millones ampliables hasta 400 si prosperan los presupuestos</a></h2><h2>ENTREVISTA | <a href=\"https://www.elperiodico.com/es/politica/20250908/carles-marti-ley-de-barrios-entrevista-rehabilitar-pisos-vacios-emergencia-habitacional-121243390\" target=\"_blank\">Carles Martí: \"La ley de barrios permitirá rehabilitar pisos vacíos y ayudará a combatir la emergencia habitacional\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UCO acusa a un capitán de revelar a la trama de Leire Díez \"secretos oficiales\" sobre la estructura de la Guardia Civil",
+    "link": "https://www.elperiodico.com/es/politica/20260608/uco-acusa-capitan-revelar-trama-131071206",
+    "pubDate": "2026-06-08 06:00:38",
+    "category": "",
+    "description": "<h2>El oficial Juan Sánchez Yepes está incurso en un expediente disciplinario, que se abrió después de aparecer señalado por el juez de la Audiencia Nacional en la instrucción sobre la \"fontanera\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260605/zapatero-imputado-caso-plus-ultra-audiencia-nacional-ultima-hora-directo-130387522\" target=\"_blank\">Situación política y judicial del PSOE, la trama Leire Díez y el caso Zapatero | Última hora</a> </h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Selectividad 2026 en Catalunya: las PAU arrancan este martes en plena visita del Papa y huelga de profesores",
+    "link": "https://www.elperiodico.com/es/sociedad/20260608/selectividad-2026-catalunya-papa-huelgas-pau-bachillerato-130961180",
+    "pubDate": "2026-06-08 06:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">La organización recomienda acudir las pruebas con margen de tiempo, mientras los institutos revierten con tutorías y clases de repaso el impacto de las clases perdidas con los paros</h2><h2 class=\"item\">Todos los tribunales dispondrán de detectores de aparatos electrónicos, aunque los controles se realizarán de manera aleatoria </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260514/bajas-profesores-no-cubiertas-preocupacion-familias-escuelas-final-de-curso-bachillerato-130169981\">Las bajas no cubiertas de profesores inquietan a las familias y a las escuelas: \"Si pasa a final de curso o en segundo de Bachillerato es trágico\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España vuelve a aplazar la vuelta de los residuos nucleares que mandó a Francia y acumula ya 20 años de retraso",
+    "link": "https://www.elperiodico.com/es/economia/20260608/espana-aplazar-vuelta-residuos-francia-vandellos-i-131067748",
+    "pubDate": "2026-06-08 06:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El plan previsto era tener operativo un nuevo almacén nuclear en la antigua central de Vandellós I ya en 2027 y retornar a Tarragona los residuos guardados en Normandía n 2028. Los plazos no se cumplirán y la repatriación se pospone hasta 2030. </h2><h2 class=\"item\">La empresa pública Enresa no prevé abrir la licitación de las obras del hasta la segunda mitad del año próximo, un año después de lo previsto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las empresas en Europa temen una ola de demandas de sus trabajadores con la nueva ley de transparencia salarial",
+    "link": "https://www.elperiodico.com/es/economia/20260608/ley-transparencia-salarial-patronales-europa-rechazan-directiva-temor-ola-demandas-131030657",
+    "pubDate": "2026-06-08 06:00:35",
+    "category": "",
+    "description": "<h2>España va tarde desde este lunes para aplicar la normativa común y Yolanda Díaz citará a patronal y sindicatos para negociar \"en las próximas semanas\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20241016/mieria-sabate-baker-mckenzie-entrevista-109342082\">Mireia Sabaté (Baker): \"En 2026 se acabó lo de ‘salario a convenir’ en las ofertas de trabajo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maria José Valiente, psicóloga: \"El papa ayuda a las personas a encontrar un propósito, esto es espiritual y da bienestar\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260608/maria-jose-valiente-psicologa-papa-131012920",
+    "pubDate": "2026-06-08 06:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">\"También puede haber personas religiosas poco espirituales\"</h2><h2 class=\"item\">\"La espiritualidad es una vivencia más personal, relacionada con lo que emociona, conecta y ayuda a encontrar sentido\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Fundación Mobile World Capital Barcelona elegirá hoy a Laia Corbella como su nueva directora general",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260608/fundacion-mobile-world-capital-barcelona-ceo-francesc-fajula-laia-corbella-mwc-tecnologia-congreso-130898122",
+    "pubDate": "2026-06-08 06:00:34",
+    "category": "",
+    "description": "<h2>El patronato encabezado por el Gobierno de España, la Generalitat de Catalunya y el Ajuntament de Barcelona decidirá quién releva al ejecutivo Francesc Fajula, que desde mayo lidera el proyecto de crear una gigafactoría europea de IA en Tarragona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los mensajes de los partidos al Papa por su visita a Catalunya: \"Defienda la paz y los derechos humanos\"",
+    "link": "https://www.elperiodico.com/es/politica/20260608/partidos-catalanes-opinan-visita-papa-cataluna-130678380",
+    "pubDate": "2026-06-08 06:00:30",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260527/papa-escuchara-tres-entidades-nino-visita-papa-leon-xiv-barcelona-130716385\" target=\"_blank\">El Papa escuchará a tres entidades y un niño en Sant Agustí y dará una vuelta al Estadi Olímpic en papamóvil</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20250508/leon-xiv-papa-centrista-mundo-extremos-geopolitica-internacional-117184792\" target=\"_blank\">León XIV, un Papa centrista para un mundo de extremos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 07.06: Візит Абрамовича і виклик Трампу",
+    "link": "https://ua.korrespondent.net/ukraine/4884704-pidsumky-0706-vizyt-abramovycha-i-vyklyk-trampu",
+    "pubDate": "2026-06-08 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454733.jpg\">В Москві і у Києві підтвердили посередницькийй візит Абрамовича; Нетаньягу кинув виклик Трампу і ударив по Лівану і Ірану. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los partidos se posicionan ante la visita del Papa a Catalunya",
+    "link": "https://www.elperiodico.com/es/videos/politica/partidos-posicionan-visita-papa-catalunya-video/130482386.shtml",
+    "pubDate": "2026-06-08 05:55:14",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Conversación con la psicóloga María José Valiente: 'Espiritualidad y religión'",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/conversacion-psicologa-maria-jose-valiente-espiritualidad-religion-video/130966442.shtml",
+    "pubDate": "2026-06-08 05:51:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стубб оцінив ймовірність нападу РФ на країни Баллтії",
+    "link": "https://ua.korrespondent.net/world/4884801-stubb-otsinyv-ymovirnist-napadu-rf-na-krainy-balltii",
+    "pubDate": "2026-06-08 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454717.jpg\">Фінський лідер заявив, що не вірить інформації про начебто гапад, який Росія може здійснити на одну з країн Балтії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Condenado por estafar 500.000 euros a una pareja que le encargó construir un chalet de lujo",
+    "link": "https://www.elperiodico.com/es/sucesos/20260608/estafa-chalet-lujo-inmobiliaria-falsificar-firma-obra-131134625",
+    "pubDate": "2026-06-08 05:00:16",
+    "category": "",
+    "description": "<h2>El dueño de una inmobiliaria \"falsificó la firma del arquitecto y los documentos de obra\" para \"hacer creer\" a sus clientes que la construcción iba \"según lo previsto\"</h2><h2>La vivienda tiene un valor estimado de más de un millón y medio de euros. El acusado y administrador de la constructora ha aceptado los delitos que se le imputan</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Усупереч закликам Трампа: Ізраїль атакував Іран",
+    "link": "https://ua.korrespondent.net/world/4884799-usuperech-zaklykam-trampa-izrail-atakuvav-iran",
+    "pubDate": "2026-06-08 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454701.jpg\">Незважаючи на публічні заклики голови Білого дому не атаккувати у відповідь, Нетаньягу пішов на загострення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Домінікані розбився літак: є жертви",
+    "link": "https://ua.korrespondent.net/world/4884797-u-dominikani-rozbyvsia-litak-ye-zhertvy",
+    "pubDate": "2026-06-08 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4454670.png\">Екіпаж подав сигнал про надзвичайну ситуацію та спробував виконати екстрену посадку, однак після зустрічі із землею літак вибухнув.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський пояснив сенс відкритого листа Путіну",
     "link": "https://ua.korrespondent.net/ukraine/4884795-zelenskyi-poiasnyv-sens-vidkrytoho-lysta-putinu",
     "pubDate": "2026-06-08 03:57:00",
