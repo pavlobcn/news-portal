@@ -12,16 +12,33 @@ jobs:
   comment-on-pr:
     runs-on: ubuntu-latest
     permissions:
+      issues: write
       pull-requests: write
+    env:
+      # Use a human-owned PAT so the comment author is not github-actions[bot].
+      # Mentions from bot accounts are often ignored by automation.
+      GH_TOKEN: ${{ secrets.CODEX_TRIGGER_TOKEN }}
+      PR_NUMBER: 55
+      CODEX_COMMENT_BODY: '@codex Execute Job.md.'
+      MIN_SECONDS_BETWEEN_RUNS: 1800
+      STALE_COMMENT_CUTOFF_HOURS: 48
     steps:
+      - name: Delete stale PR comments
+        run: |
+          cutoff_epoch="$(date -u -d "${STALE_COMMENT_CUTOFF_HOURS} hours ago" +%s)"
+
+          gh api --paginate "repos/${GITHUB_REPOSITORY}/issues/${PR_NUMBER}/comments" \
+            --jq '.[] | [.id, .created_at] | @tsv' | \
+            while IFS=$'\t' read -r comment_id comment_created_at; do
+              comment_epoch="$(date -u -d "$comment_created_at" +%s)"
+
+              if (( comment_epoch < cutoff_epoch )); then
+                echo "Deleting stale PR comment ${comment_id} from ${comment_created_at}."
+                gh api --method DELETE "repos/${GITHUB_REPOSITORY}/issues/comments/${comment_id}"
+              fi
+            done
+
       - name: Add Codex instruction comment
-        env:
-          # Use a human-owned PAT so the comment author is not github-actions[bot].
-          # Mentions from bot accounts are often ignored by automation.
-          GH_TOKEN: ${{ secrets.CODEX_TRIGGER_TOKEN }}
-          PR_NUMBER: 55
-          CODEX_COMMENT_BODY: '@codex Execute Job.md.'
-          MIN_SECONDS_BETWEEN_RUNS: 1800
         run: |
           last_comment_created_at="$(
             gh pr view "$PR_NUMBER" \
