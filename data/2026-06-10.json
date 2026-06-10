@@ -1,5 +1,365 @@
 [
   {
+    "title": "У Росії ще один великий НПЗ зупинив роботу - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4885584-u-rosii-sche-odyn-velykyi-npz-zupynyv-robotu-zmi",
+    "pubDate": "2026-06-10 22:44:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456702.jpg\">Зупинка заводу стала наслідком пошкоджень та пожеж, спричинених ударами дронів минулої ночі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resumen del Valencia Basket vs Joventut, semifinales de la Liga Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-valencia-basket-vs-joventut-semifinales-de-la-liga-endesa-f202606-v/",
+    "pubDate": "2026-06-10 22:37:54",
+    "category": "Liga ACB",
+    "description": "El conjunto valenciano se lleva un duelo frenético en la prórroga pese a un Ricky Rubio estelar. Montero se saca de la manga un partido de 27 puntos para poner pie y medio en la final.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бій Джошуа і Ф’юрі змінює дислокацію - джерело",
+    "link": "https://ua.korrespondent.net/sport/boks/4885587-bii-dzhoshua-i-fuiri-zminuiie-dyslokatsiui-dzherelo",
+    "pubDate": "2026-06-10 22:30:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456701.jpg\">Британські боксери, як повідомляють, проведуть свій поєдинок в іншому місці. Їх прийме батьківщина.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Valencia tumba a un gran Joventut en el primer asalto de las semifinales",
+    "link": "https://www.elperiodico.com/es/deportes/20260610/valencia-tumba-gran-joventut-primer-131261568",
+    "pubDate": "2026-06-10 22:29:06",
+    "category": "",
+    "description": "<h2 class=\"item\">El conjunto de Pedro Martínez se llevó el triunfo en la prórroga (118-117) contra un rival que estuvo muy cerca de dar la sorpresa.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Papa bendice la torre de Jesucristo de la Sagrada Família",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/papa-bendice-torre-jesucristo-sagrada-familia-videa/131261412.shtml",
+    "pubDate": "2026-06-10 22:23:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montero decide en la prórroga el primer asalto",
+    "link": "https://as.com/baloncesto/acb/montero-decide-en-la-prorroga-el-primera-asalto-f202606-n/",
+    "pubDate": "2026-06-10 22:20:39",
+    "category": "Valencia Basket Club",
+    "description": "El Valencia Basket se llevó el primer partido de las semifinales ante un Joventut que tuvo la última bola para ganar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Барселона підписує новий контракт з 16-річним українцем Рибаком",
+    "link": "https://ua.korrespondent.net/sport/football/4885583-barselona-pidpysuie-novyi-kontrakt-z-16-richnym-ukraintsem-rybakom",
+    "pubDate": "2026-06-10 22:17:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456655.jpg\">Український гравець залишиться в складі Барселони, щоб грати за команду на юнацькому рівні.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака на Павлоград: число постраждалих різко зросло",
+    "link": "https://ua.korrespondent.net/ukraine/4885581-ataka-na-pavlohrad-chyslo-postrazhdalykh-rizko-zroslo",
+    "pubDate": "2026-06-10 22:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456718.jpg\">Вже 12 поранених через атаку росіян по багатоповерхівці, 75-річна жінка у важкому стані.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La cría de hipopótamo pigmeo sale por primera vez al recinto exterior del Zoo de Berlín",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/cria-hipopotamo-pigmeo-primera-vez-exterior-zoo-berlin/131261353.shtml",
+    "pubDate": "2026-06-10 22:10:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El papa León XIV consagra la \"belleza iluminadora\" de la Sagrada Família",
+    "link": "https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-se-entrega-belleza-iluminadora-sagrada-familia-131255074",
+    "pubDate": "2026-06-10 22:10:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El Pontífice culmina su viaje en Catalunya con la inauguración de la Torre de Jesús en un espectáculo abrumador con motivo del centenario de la muerte de Gaudí</h2><h2 class=\"item\">Durante este miércoles también ha visitado la cárcel de Brians, Montserrat y la iglesia de Sant Agustí, en el Raval</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/leon-xiv-lanza-mensaje-soledad-no-deseada-mayores-sant-agusti-131246990\" target=\"_blank\">Visita del Papa León XIV a Barcelona, hoy en directo | Última hora del papamóvil y horarios del acto en la Sagrada Família</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/leon-xiv-lanza-mensaje-soledad-no-deseada-mayores-sant-agusti-131246990\" target=\"_blank\">León XIV llama a actuar contra la soledad no deseada ante las entidades de caridad cristiana en la iglesia de Sant Agustí</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "León XIV bendice, en catalán y castellano, la Torre de Jesús de Gaudí, en un acto culminado por un espectáculo soberbio",
+    "link": "https://www.elperiodico.com/es/barcelona/20260610/leon-xiv-bendice-catalan-castellano-131257239",
+    "pubDate": "2026-06-10 22:02:46",
+    "category": "",
+    "description": "<h2>El Papa santifica e inaugura la construcción y recuerda al autor de la basílica, \"el venerable arquitecto de Dios\", que ha aparecido representado por drones para saludar al templo</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-barcelona-agenda-actos-papamovil-sagrada-familia-ultima-hora-directo-131162679\">Papa León XIV en Barcelona, en directo | Última hora de la llegada a la Sagrada Família</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260610/visita-papa-barcelona-calles-cortadas-movilidad-trafico-ultima-hora-directo-130967130\">Última hora del tráfico en Barcelona por la visita del Papa, en directo | Restricciones, calles cortadas y afectaciones en el transporte público en el Eixample y el entorno de la Sagrada Familia</a></h2><h2>MULTIMEDIA |<a href=\"https://www.elperiodico.com/es/barcelona/basilica-sagrada-familia-historia-construccion-gaudi-131149980-rm/index.html\"> La Sagrada Família</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Тоттенгем перейшов центрбек Борнмута",
+    "link": "https://ua.korrespondent.net/sport/football/4885578-u-tottenhem-pereishov-tsentrbek-bornmuta",
+    "pubDate": "2026-06-10 22:02:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456640.jpg\">Англійський футбольний клуб розширив свій склад центральним захисником Борнмута Маркосом Сенесі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Sagrada Família, un patrimonio compartido",
+    "link": "https://www.elperiodico.com/es/opinion/20260610/sagrada-familia-patrimonio-compartido-papa-leon-xiv-barcelona-editorial-131261046",
+    "pubDate": "2026-06-10 22:01:46",
+    "category": "",
+    "description": "<h2>El templo forma parte del reducido grupo de edificios que han trascendido su función religiosa original para convertirse en una referencia de alcance global</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260610/papa-celebra-culminacion-sagrada-familia-131253338\">El Papa celebra la culminación de la Sagrada Família como faro contra el pecado y a Gaudí como guía del peregrinaje espiritual</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La princesa italiana María Carolina inicia un romance con Jordan Bardella, líder del partido de extrema derecha francés",
+    "link": "https://www.elperiodico.com/es/gente/20260610/princesa-italiana-maria-carolina-romance-jordan-bardella-131260351",
+    "pubDate": "2026-06-10 21:59:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українцям пояснили, що буде з трудовими книжками після 10 червня",
+    "link": "https://ua.korrespondent.net/business/economics/4885576-ukraintsiam-poiasnyly-scho-bude-z-trudovymy-knyzhkamy-pislia-10-chervnia",
+    "pubDate": "2026-06-10 21:54:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456687.jpg\">Паперова трудова книжка й надалі залишається документом, який підтверджує періоди роботи та може використовуватися під час призначення пенсії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aliento al Papa y peticiones de milagro entre el público de la Sagrada Família: \"Ha sido un privilegio\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260610/barcelona-sagrada-familia-papa-bendicion-torre-jesus-131259225",
+    "pubDate": "2026-06-10 21:53:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Una madre peruana con su hijo a punto de ingresar por cáncer en el hospital, una mujer en silla de ruedas procedente de Santander, dos seguidoras de Francisco y feligreses de la periferia de Barcelona se han congregado con decenas de personas que han vivido la consagración cerca de León XIV</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260610/papa-celebra-culminacion-sagrada-familia-131253338\">El Papa celebra la culminación de la Sagrada Família como faro contra el pecado y a Gaudí como guía del peregrinaje espiritual</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-barcelona-agenda-actos-papamovil-sagrada-familia-ultima-hora-directo-131162679\">Papa León XIV en Barcelona, en directo | Última hora en la Sagrada Família</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos detenidos por agresión sexual durante el trayecto del Papamóvil hacia la Sagrada Familia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260610/detenidos-agresion-papa-agresion-sexual-trayecto-sagrada-familia-detenidos-131260654",
+    "pubDate": "2026-06-10 21:38:12",
+    "category": "",
+    "description": "<h2>Los Mossos también han arrestado a otras dos personas con una orden de detención vigente</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260610/barcelona-vuelca-leon-xiv-paseo-sagrada-familia-papamovil-131258522\">Barcelona se vuelca con León XIV en su paseo con el papamóvil: \"Nos ha recargado la fe\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Papa celebra la culminación de la Sagrada Família como faro contra el pecado y a Gaudí como guía del peregrinaje espiritual",
+    "link": "https://www.elperiodico.com/es/barcelona/20260610/papa-celebra-culminacion-sagrada-familia-131253338",
+    "pubDate": "2026-06-10 21:33:07",
+    "category": "",
+    "description": "<h2>MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/barcelona/basilica-sagrada-familia-historia-construccion-gaudi-131149980-rm/index.html\">Así ha crecido la obra magna de Gaudí, la Sagrada Família, en 144 años</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-barcelona-agenda-actos-papamovil-sagrada-familia-ultima-hora-directo-131162679\">Papa León XIV en Barcelona, en directo | Última hora de la llegada a la Sagrada Família</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260610/visita-papa-barcelona-calles-cortadas-movilidad-trafico-ultima-hora-directo-130967130\">Última hora del tráfico en Barcelona por la visita del Papa, en directo</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260529/foto-desconocida-lapida-original-gaudi-130674253\">Una foto de la desconocida lápida original de Gaudí aparece en Bélgica por 10 euros</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по Павлограду: п'ятеро поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4885573-rosiiany-vdaryly-po-pavlohradu-piatero-poranenykh",
+    "pubDate": "2026-06-10 21:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456673.jpg\">Зокрема до лікарні доправили 75-річну жінку у важкому стані. Нині медики надають їй всю необхідну допомогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Papa León XIV en la Sagrada Familia: \"No podemos creer en Jesús y promover la guerra\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/papa-leon-sagrada-familia-guerra/131260394.shtml",
+    "pubDate": "2026-06-10 21:24:04",
+    "category": "",
+    "description": "El Papa advierte de que no se puede ser cristiano y apoyar la guerra o abandonar al migrante",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A PIE DE CALLE | La eucaristía en el templo de la Sagrada Família, durante la misa celebrada por el Papa.",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/pie-calle-eucaristia-templo-sagrada/131260305.shtml",
+    "pubDate": "2026-06-10 21:23:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Natalie Portman y Jacques Audiard critican la exclusión del cineasta israelí Lapid en un festival francés",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260610/natalie-portman-audiard-exclusion-cineasta-israeli-lapid-131259840",
+    "pubDate": "2026-06-10 21:20:50",
+    "category": "",
+    "description": "<h2>El texto resalta que la trayectoria de Lapid \"se ha forjado a lo largo de muchos años a partir de una crítica frontal a las políticas aplicadas por los distintos Gobiernos de su país, asumiendo riesgos reales, y que ha denunciado públicamente, en numerosas ocasiones, la destrucción de Gaza\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lexus RZ 500e: 381 caballos de potencia y una dirección que lo cambia todo",
+    "link": "https://www.elperiodico.com/es/motor/20260610/prueba-lexus-rz-500e-131232506",
+    "pubDate": "2026-06-10 21:15:35",
+    "category": "",
+    "description": "<h2>Nos ponemos al volante del llamativo SUV de la marca japonesa para analizar la ergonomía de su volante tipo Jet y su solvencia en trayectos de larga distancia </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Hallan con vida a la submarinista desaparecida en el Cap de Creus tras más de siete horas de búsqueda",
+    "link": "https://www.elperiodico.com/es/sucesos/20260610/hallan-vida-submarinista-desaparecida-cap-creus-siete-horas-busqueda-otras-opciones-131260074",
+    "pubDate": "2026-06-10 21:15:03",
+    "category": "",
+    "description": "<h2>La joven, de 24 años, arrastrada por la corriente durante una inmersión en la zona de Cadaqués, ha sido localizada por un crucero a dos millas náuticas del punto donde se le había perdido la pista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montero será senadora autonómica para mantener su perfil nacional al tiempo que dirige la oposición en Andalucía",
+    "link": "https://www.elperiodico.com/es/politica/20260610/montero-sera-senadora-autonomica-mantener-131260012",
+    "pubDate": "2026-06-10 21:08:39",
+    "category": "",
+    "description": "<h2 class=\"item\">El partido mantendrá a la expresidenta regional Susana Díaz en la Cámara Alta</h2><h2 class=\"item\">La exvicepresidenta entrará en la dirección del Grupo Socialista y seguirá siendo vicesecretaria general del PSOE</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La subida del mar debido al ser humano aumentó la frecuencia de los fenómenos extremos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260610/subida-mar-debido-humano-aumento-frecuencia-fenomenos-extremos-131259837",
+    "pubDate": "2026-06-10 21:07:55",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260512/coctel-el-nino-cambio-climatico-efectos-advertencia-cientificos-130102786\" >Los científicos advierten del \"peligroso cóctel\" que supondrá la llegada de El Niño en un mundo ya alterado por el cambio climático</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/onu-formacion-el-nino-intenso-previsiones-clima-temperatura-impactos-130915624\" >La ONU avisa de que en verano llegará un Niño muy intenso: \"Será como echar leña al fuego en un mundo ya ardiendo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Посланець Путіна закликав прибульців усунути Стармера",
+    "link": "https://ua.korrespondent.net/world/4885571-poslanets-putina-zaklykav-prybultsiv-usunuty-starmera",
+    "pubDate": "2026-06-10 21:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456641.jpg\">Кирило Дмитрієв опублікував черговий допис із критикою британського прем’єра Кіра Стармера, звернувшись цього разу до \"інопланетних цивілізацій\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aplazado el viaje de cooperación de la reina Letizia a Bolivia",
+    "link": "https://www.elperiodico.com/es/politica/20260610/aplazado-viaje-cooperacion-reina-letizia-131259922",
+    "pubDate": "2026-06-10 21:04:21",
+    "category": "",
+    "description": "<h2>El aplazamiento de la visita se produce en un contexto de protestas y bloqueos de carreteras en el país sudamericano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 11 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260610/horoscopo-hoy-jueves-11-junio-dv-130981483",
+    "pubDate": "2026-06-10 21:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Taylor Swift rinde homenaje al personaje de Jessie durante el estreno de 'Toy Story 5'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260610/taylor-swift-rinde-homenaje-personaje-131258910",
+    "pubDate": "2026-06-10 20:57:46",
+    "category": "",
+    "description": "<h2>La cantante estadounidense se unió en el escenario con el compositor Randy Newman para interpretar a dúo la icónica canción de la franquicia, 'You've Got a Friend in Me'</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Así ha sido trayecto en papamóvil de León XIV rumbo a la Sagrada Familia",
+    "link": "https://www.elperiodico.com/es/videos/politica/trayecto-papamovil-leon-barcelona-sagrada-familia/131260311.shtml",
+    "pubDate": "2026-06-10 20:48:18",
+    "category": "",
+    "description": "Una multitud entregada y diversa arropa al Papa",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El comienzo de la misa de León XIV en la Sagrada Família",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/comienzo-misa-leon-xiv-sagrada-familia-video/131258864.shtml",
+    "pubDate": "2026-06-10 20:44:43",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los docentes valencianos votan suspender la huelga indefinida y rechazan el acuerdo con Conselleria de Educación",
+    "link": "https://www.elperiodico.com/es/sociedad/20260610/docentes-valencianos-votan-suspender-huelga-indefinida-rechazan-acuerdo-conselleria-educacion-131259137",
+    "pubDate": "2026-06-10 20:40:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Así se desprende de la consulta realizada por la mayoría sindical y las asambleas de docentes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así vigila la Policía Nacional la Sagrada Família durante la visita del Papa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/vigila-policia-nacional-sagrada-familia-video/131258721.shtml",
+    "pubDate": "2026-06-10 20:35:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marta Sánchez inaugura el verano con un posado de infarto en bañador",
+    "link": "https://www.elperiodico.com/es/gente/20260610/marta-sanchez-inaugura-verano-posado-131258627",
+    "pubDate": "2026-06-10 20:34:30",
+    "category": "",
+    "description": "<h2>La artista ha dado el pistoletazo de salida al periodo estival a bordo de una exclusiva embarcación con la que estaría recorriendo el Mediterráneo con su pareja desde 2017, Federico de León</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El cuartel general de España en el Mundial: campo de golf, piscina olímpica y gimnasio con lemas motivadores",
+    "link": "https://www.elperiodico.com/es/deportes/20260610/cuartel-general-espana-mundial-campo-131258662",
+    "pubDate": "2026-06-10 20:34:18",
+    "category": "",
+    "description": "<h2>La selección abrió las puertas de la Baylor School para que la afición española conozca las impresionantes instalaciones</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Екіпаж збитого Apache врятував морський дрон - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4885567-ekipazh-zbytoho-Apache-vriatuvav-morskyi-dron-zmi",
+    "pubDate": "2026-06-10 20:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456639.jpg\">Після збиття, пілоти близько двох годин дрейфували у водах біля узбережжя Оману.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Досвідчений український хавбек завершив кар'єру",
+    "link": "https://ua.korrespondent.net/sport/football/4885566-dosvidchenyi-ukrainskyi-khavbek-zavershyv-karieru",
+    "pubDate": "2026-06-10 20:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456608.jpg\">Атакувальний півзахисник повісив бутси на цвях і пояснив своє рішення пошкодженнямі, що час від часу повторювалися.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Marius Borg Hoiby seguirá en prisión: el tribunal de apelación anula su libertad provisional",
+    "link": "https://www.elperiodico.com/es/gente/20260610/justicia-libertad-provisional-hijo-princesa-noruega-131257944",
+    "pubDate": "2026-06-10 20:16:45",
+    "category": "",
+    "description": "<h2>En los últimos meses, el estado de salud de su madre, la princesa Mette-Marit, aquejada de una enfermedad pulmonar incurable, se ha deteriorado considerablemente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Акції Apple подешевшали після нових анонсів",
+    "link": "https://ua.korrespondent.net/business/companies/4885559-aktsii-Apple-podeshevshaly-pislia-novykh-anonsiv",
+    "pubDate": "2026-06-10 20:16:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456610.jpg\">Після презентації iOS 27 та Siri AI ринкова вартість Apple знизилася, хоча аналітики бачать у нових функціях потенціал для майбутнього зростання продажів пристроїв.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "В Росії розблокували платформу Roblox",
     "link": "https://ua.korrespondent.net/world/russia/4885562-v-rosii-rozblokuvaly-platformu-Roblox",
     "pubDate": "2026-06-10 20:13:00",
@@ -248,6 +608,15 @@
     "pubDate": "2026-06-10 19:20:48",
     "category": "",
     "description": "<h2>El Pontífice ha confirmado este miércoles en la parroquia del Raval que es aficionado a las raquetas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-barcelona-agenda-actos-papamovil-sagrada-familia-ultima-hora-directo-131162679\" >Visita del Papa León XIV a Barcelona, en directo</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260610/visita-papa-barcelona-calles-cortadas-movilidad-trafico-ultima-hora-directo-130967130\" >Afectaciones de movilidad por la visita del Papa a Barcelona: consulta en tiempo real</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Visita del Papa León XIV a la Sagrada Familia",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/visita-papa-leon-xiv-sagrada-131256177",
+    "pubDate": "2026-06-10 19:19:25",
+    "category": "",
+    "description": "",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -954,6 +1323,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "МЗС прокоментувало переліт Зеленського в обхід Польщі",
+    "link": "https://ua.korrespondent.net/ukraine/4885460-mzs-prokomentuvalo-perelit-zelenskoho-v-obkhid-polschi",
+    "pubDate": "2026-06-10 14:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456404.jpg\">У міністерстві назвали штучними припущення про зв’язок між маршрутом Зеленського та відносинами з Польщею.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Трамп заявив, що Іран \"заплатить ціну\"",
     "link": "https://ua.korrespondent.net/world/4885459-tramp-zaiavyv-scho-iran-zaplatyt-tsinu",
     "pubDate": "2026-06-10 14:58:00",
@@ -974,6 +1352,15 @@
   {
     "title": "Греції схвалила прискорену депортацію мігрантів",
     "link": "https://ua.korrespondent.net/world/4885456-hretsii-skhvalyla-pryskorenu-deportatsiui-mihrantiv",
+    "pubDate": "2026-06-10 14:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456396.jpg\">Країна співпрацює з Нідерландами, Данією, Німеччиною та Австрією над створенням спільних центрів повернення та транзиту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Греція схвалила прискорену депортацію мігрантів",
+    "link": "https://ua.korrespondent.net/world/4885456-hretsiia-skhvalyla-pryskorenu-deportatsiui-mihrantiv",
     "pubDate": "2026-06-10 14:36:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456396.jpg\">Країна співпрацює з Нідерландами, Данією, Німеччиною та Австрією над створенням спільних центрів повернення та транзиту.",

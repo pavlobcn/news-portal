@@ -1,8 +1,15 @@
-# News for 2026-06-10 20:15
+# News for 2026-06-10 22:47
 
 Previous day: [2026-06-09](./data/2026-06-09.md)
 
 ## ua.korrespondent.net
+22:44 [У Росії ще один великий НПЗ зупинив роботу - ЗМІ](https://ua.korrespondent.net/world/russia/4885584-u-rosii-sche-odyn-velykyi-npz-zupynyv-robotu-zmi)<br>
+22:13 [Атака на Павлоград: число постраждалих різко зросло](https://ua.korrespondent.net/ukraine/4885581-ataka-na-pavlohrad-chyslo-postrazhdalykh-rizko-zroslo)<br>
+21:54 [Українцям пояснили, що буде з трудовими книжками після 10 червня](https://ua.korrespondent.net/business/economics/4885576-ukraintsiam-poiasnyly-scho-bude-z-trudovymy-knyzhkamy-pislia-10-chervnia)<br>
+21:27 [Росіяни вдарили по Павлограду: п'ятеро поранених](https://ua.korrespondent.net/ukraine/4885573-rosiiany-vdaryly-po-pavlohradu-piatero-poranenykh)<br>
+21:07 [Посланець Путіна закликав прибульців усунути Стармера](https://ua.korrespondent.net/world/4885571-poslanets-putina-zaklykav-prybultsiv-usunuty-starmera)<br>
+20:33 [Екіпаж збитого Apache врятував морський дрон - ЗМІ](https://ua.korrespondent.net/world/4885567-ekipazh-zbytoho-Apache-vriatuvav-morskyi-dron-zmi)<br>
+20:16 [Акції Apple подешевшали після нових анонсів](https://ua.korrespondent.net/business/companies/4885559-aktsii-Apple-podeshevshaly-pislia-novykh-anonsiv)<br>
 20:13 [В Росії розблокували платформу Roblox](https://ua.korrespondent.net/world/russia/4885562-v-rosii-rozblokuvaly-platformu-Roblox)<br>
 20:08 [У РФ заборонили обладнання для супутникового інтернету Starlink](https://ua.korrespondent.net/world/russia/4885561-u-rf-zaboronyly-obladnannia-dlia-suputnykovoho-internetu-Starlink)<br>
 19:08 [Ізраїль готовий діяти проти Ірану самостійно](https://ua.korrespondent.net/world/4885543-izrail-hotovyi-diiaty-proty-iranu-samostiino)<br>
@@ -31,8 +38,10 @@ Previous day: [2026-06-09](./data/2026-06-09.md)
 15:29 ["Шахед" збив Apache. Загострення між США та Іраном](https://ua.korrespondent.net/world/4885465-shakhed-zbyv-Apache-zahostrennia-mizh-ssha-ta-iranom)<br>
 15:17 [Ґвалтівник власної дитини отримав 15 років](https://ua.korrespondent.net/ukraine/4885463-gvaltivnyk-vlasnoi-dytyny-otrymav-15-rokiv)<br>
 14:59 [МЗС спростувало політичні причини зміни маршруту Зеленського](https://ua.korrespondent.net/ukraine/4885460-mzs-sprostuvalo-politychni-prychyny-zminy-marshrutu-zelenskoho)<br>
+14:59 [МЗС прокоментувало переліт Зеленського в обхід Польщі](https://ua.korrespondent.net/ukraine/4885460-mzs-prokomentuvalo-perelit-zelenskoho-v-obkhid-polschi)<br>
 14:58 [Трамп заявив, що Іран "заплатить ціну"](https://ua.korrespondent.net/world/4885459-tramp-zaiavyv-scho-iran-zaplatyt-tsinu)<br>
 14:36 [Греції схвалила прискорену депортацію мігрантів](https://ua.korrespondent.net/world/4885456-hretsii-skhvalyla-pryskorenu-deportatsiui-mihrantiv)<br>
+14:36 [Греція схвалила прискорену депортацію мігрантів](https://ua.korrespondent.net/world/4885456-hretsiia-skhvalyla-pryskorenu-deportatsiui-mihrantiv)<br>
 14:29 [На Херсонщині через обстріли поранено троє людей](https://ua.korrespondent.net/ukraine/4885451-na-khersonschyni-cherez-obstrily-poraneno-troie-luidei)<br>
 14:16 [СБУ встановила причетних до ракетного удару по Миколаївській облраді](https://ua.korrespondent.net/ukraine/4885448-sbu-vstanovyla-prychetnykh-do-raketnoho-udaru-po-mykolaivskii-oblradi)<br>
 14:08 [Є нові рішення щодо ППО для України - МЗС](https://ua.korrespondent.net/ukraine/4885447-ye-novi-rishennia-schodo-ppo-dlia-ukrainy-mzs)<br>
@@ -88,6 +97,8 @@ Previous day: [2026-06-09](./data/2026-06-09.md)
 00:26 [Помста за гелікоптер: США завдали ударів по Ірану](https://ua.korrespondent.net/world/4885307-pomsta-za-helikopter-ssha-zavdaly-udariv-po-iranu)<br>
 
 ## as.com
+22:37 [Resumen del Valencia Basket vs Joventut, semifinales de la Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-joventut-semifinales-de-la-liga-endesa-f202606-v/)<br>
+22:20 [Montero decide en la prórroga el primer asalto](https://as.com/baloncesto/acb/montero-decide-en-la-prorroga-el-primera-asalto-f202606-n/)<br>
 20:12 [Valencia - Joventut, en directo: semifinal de la Liga Endesa 2025/26 en vivo](https://as.com/baloncesto/acb/valencia-joventut-en-directo-semifinal-de-la-liga-endesa-202526-en-vivo-f202606-d/)<br>
 18:51 [Ponsarnau: “Ha habido contactos, pero renové para quedarme y no los he considerado”](https://as.com/baloncesto/ponsarnau-ha-habido-contactos-pero-renove-para-quedarme-y-no-los-he-considerado-f202606-n/)<br>
 17:54 [Elisa Aguilar: “Para Ricky Rubio siempre hay un hueco en la lista”](https://as.com/baloncesto/mas_baloncesto/elisa-aguilar-para-ricky-rubio-siempre-hay-un-hueco-en-la-lista-f202606-n/)<br>
@@ -102,6 +113,27 @@ Previous day: [2026-06-09](./data/2026-06-09.md)
 06:59 [Ricky Rubio amenaza el poderío taronja](https://as.com/baloncesto/acb/ricky-rubio-amenaza-el-poderio-taronja-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:29 [El Valencia tumba a un gran Joventut en el primer asalto de las semifinales](https://www.elperiodico.com/es/deportes/20260610/valencia-tumba-gran-joventut-primer-131261568)<br>
+22:23 [El Papa bendice la torre de Jesucristo de la Sagrada Família](https://www.elperiodico.com/es/videos/sociedad/papa-bendice-torre-jesucristo-sagrada-familia-videa/131261412.shtml)<br>
+22:10 [La cría de hipopótamo pigmeo sale por primera vez al recinto exterior del Zoo de Berlín](https://www.elperiodico.com/es/videos/sociedad/cria-hipopotamo-pigmeo-primera-vez-exterior-zoo-berlin/131261353.shtml)<br>
+22:10 [El papa León XIV consagra la "belleza iluminadora" de la Sagrada Família](https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-se-entrega-belleza-iluminadora-sagrada-familia-131255074)<br>
+22:02 [León XIV bendice, en catalán y castellano, la Torre de Jesús de Gaudí, en un acto culminado por un espectáculo soberbio](https://www.elperiodico.com/es/barcelona/20260610/leon-xiv-bendice-catalan-castellano-131257239)<br>
+22:01 [La Sagrada Família, un patrimonio compartido](https://www.elperiodico.com/es/opinion/20260610/sagrada-familia-patrimonio-compartido-papa-leon-xiv-barcelona-editorial-131261046)<br>
+21:59 [La princesa italiana María Carolina inicia un romance con Jordan Bardella, líder del partido de extrema derecha francés](https://www.elperiodico.com/es/gente/20260610/princesa-italiana-maria-carolina-romance-jordan-bardella-131260351)<br>
+21:53 [Aliento al Papa y peticiones de milagro entre el público de la Sagrada Família: "Ha sido un privilegio"](https://www.elperiodico.com/es/barcelona/20260610/barcelona-sagrada-familia-papa-bendicion-torre-jesus-131259225)<br>
+21:38 [Dos detenidos por agresión sexual durante el trayecto del Papamóvil hacia la Sagrada Familia](https://www.elperiodico.com/es/sociedad/20260610/detenidos-agresion-papa-agresion-sexual-trayecto-sagrada-familia-detenidos-131260654)<br>
+21:33 [El Papa celebra la culminación de la Sagrada Família como faro contra el pecado y a Gaudí como guía del peregrinaje espiritual](https://www.elperiodico.com/es/barcelona/20260610/papa-celebra-culminacion-sagrada-familia-131253338)<br>
+21:24 [El Papa León XIV en la Sagrada Familia: "No podemos creer en Jesús y promover la guerra"](https://www.elperiodico.com/es/videos/politica/papa-leon-sagrada-familia-guerra/131260394.shtml)<br>
+21:23 [A PIE DE CALLE | La eucaristía en el templo de la Sagrada Família, durante la misa celebrada por el Papa.](https://www.elperiodico.com/es/videos/barcelona/pie-calle-eucaristia-templo-sagrada/131260305.shtml)<br>
+21:20 [Natalie Portman y Jacques Audiard critican la exclusión del cineasta israelí Lapid en un festival francés](https://www.elperiodico.com/es/ocio-y-cultura/20260610/natalie-portman-audiard-exclusion-cineasta-israeli-lapid-131259840)<br>
+21:15 [Hallan con vida a la submarinista desaparecida en el Cap de Creus tras más de siete horas de búsqueda](https://www.elperiodico.com/es/sucesos/20260610/hallan-vida-submarinista-desaparecida-cap-creus-siete-horas-busqueda-otras-opciones-131260074)<br>
+21:08 [Montero será senadora autonómica para mantener su perfil nacional al tiempo que dirige la oposición en Andalucía](https://www.elperiodico.com/es/politica/20260610/montero-sera-senadora-autonomica-mantener-131260012)<br>
+21:07 [La subida del mar debido al ser humano aumentó la frecuencia de los fenómenos extremos](https://www.elperiodico.com/es/sociedad/20260610/subida-mar-debido-humano-aumento-frecuencia-fenomenos-extremos-131259837)<br>
+21:04 [Aplazado el viaje de cooperación de la reina Letizia a Bolivia](https://www.elperiodico.com/es/politica/20260610/aplazado-viaje-cooperacion-reina-letizia-131259922)<br>
+20:44 [El comienzo de la misa de León XIV en la Sagrada Família](https://www.elperiodico.com/es/videos/sociedad/comienzo-misa-leon-xiv-sagrada-familia-video/131258864.shtml)<br>
+20:40 [Los docentes valencianos votan suspender la huelga indefinida y rechazan el acuerdo con Conselleria de Educación](https://www.elperiodico.com/es/sociedad/20260610/docentes-valencianos-votan-suspender-huelga-indefinida-rechazan-acuerdo-conselleria-educacion-131259137)<br>
+20:35 [Así vigila la Policía Nacional la Sagrada Família durante la visita del Papa](https://www.elperiodico.com/es/videos/sociedad/vigila-policia-nacional-sagrada-familia-video/131258721.shtml)<br>
+20:16 [Marius Borg Hoiby seguirá en prisión: el tribunal de apelación anula su libertad provisional](https://www.elperiodico.com/es/gente/20260610/justicia-libertad-provisional-hijo-princesa-noruega-131257944)<br>
 20:07 [Los políticos se entregan al Papa en la Sagrada Família: una misa que nadie se quería perder, aunque fuera por 'FOMO'](https://www.elperiodico.com/es/politica/20260610/papa-leon-sagrada-familia-barcelona-politicos-reyes-sanchez-illa-131207484)<br>
 20:06 [Archivada la causa por la muerte de tres geólogos en la mina de Súria en 2023](https://www.elperiodico.com/es/sucesos/20260610/archivada-causa-muerte-tres-geologos-mina-cabanasses-suria-131257518)<br>
 20:01 [Un juzgado desestima la demanda de 30.000 euros de la mujer que se concertó con Cerdán y Leire Díez para perseguir al fiscal Grinda](https://www.elperiodico.com/es/politica/20260610/juzgado-desestima-demanda-30-000-131247081)<br>
@@ -116,6 +148,7 @@ Previous day: [2026-06-09](./data/2026-06-09.md)
 19:22 [Francia debate cómo abordar la lacra de la violencia sexual contra menores tras el asesinato de Lyhanna: "Endurecer las penas no va a resolver el problema"](https://www.elperiodico.com/es/internacional/20260610/francia-debate-abordar-lacra-violencia-sexual-menores-asesinato-lyhanna-endurecer-penas-131256310)<br>
 19:21 [León XIV, ¿el Papa que acompaña?](https://www.elperiodico.com/es/opinion/20260610/leon-xiv-papa-acompana-articulo-joan-tapia-131255621)<br>
 19:20 [Collboni envía un quinto regalo al papa León XIV: dos pares de zapatillas de tenis, talla 44](https://www.elperiodico.com/es/barcelona/20260610/collboni-envia-quinto-regalo-papa-tenis-131254967)<br>
+19:19 [Visita del Papa León XIV a la Sagrada Familia](https://www.elperiodico.com/es/fotos/sociedad/visita-papa-leon-xiv-sagrada-131256177)<br>
 19:16 [A PIE DE CALLE| El interior de la Sagrada Familia, listo para la misa del Papa](https://www.elperiodico.com/es/videos/barcelona/pie-calle-interior-sagrada-familia/131255893.shtml)<br>
 19:10 [Cuna de Pep Guardiola y del legendario Timbaler del Bruc: la localidad de Catalunya que evoca su pasado medieval, con reservas naturales y humedales que miran a Montserrat](https://www.elperiodico.com/es/catalunya/20260610/pueblo-medieval-pep-guardiola-timbaler-bruc-barcelona-cataluna-dv-loc-131049599)<br>
 19:09 [Un examen de Matemáticas "criminal" y la "muerte de dios" en Filosofía marcan el segundo día de la selectividad en Catalunya](https://www.elperiodico.com/es/sociedad/20260610/selectividad-examen-criminal-matematicas-muerte-dios-filosofia-segundo-dia-catalunya-131249007)<br>
