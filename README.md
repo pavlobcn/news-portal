@@ -1,10 +1,12 @@
-# News for 2026-06-10 22:47
+# News for 2026-06-11 00:46
 
 Previous day: [2026-06-09](./data/2026-06-09.md)
 
 ## ua.korrespondent.net
+23:21 [Зеленського запросили на саміт G7, де буде Трамп](https://ua.korrespondent.net/world/4885595-zelenskoho-zaprosyly-na-samit-G7-de-bude-tramp)<br>
 22:44 [У Росії ще один великий НПЗ зупинив роботу - ЗМІ](https://ua.korrespondent.net/world/russia/4885584-u-rosii-sche-odyn-velykyi-npz-zupynyv-robotu-zmi)<br>
 22:13 [Атака на Павлоград: число постраждалих різко зросло](https://ua.korrespondent.net/ukraine/4885581-ataka-na-pavlohrad-chyslo-postrazhdalykh-rizko-zroslo)<br>
+22:01 [Логістичний колапс. Дрони ЗСУ змінюють хід війни](https://ua.korrespondent.net/ukraine/4885593-lohistychnyi-kolaps-drony-zsu-zminuiuit-khid-viiny)<br>
 21:54 [Українцям пояснили, що буде з трудовими книжками після 10 червня](https://ua.korrespondent.net/business/economics/4885576-ukraintsiam-poiasnyly-scho-bude-z-trudovymy-knyzhkamy-pislia-10-chervnia)<br>
 21:27 [Росіяни вдарили по Павлограду: п'ятеро поранених](https://ua.korrespondent.net/ukraine/4885573-rosiiany-vdaryly-po-pavlohradu-piatero-poranenykh)<br>
 21:07 [Посланець Путіна закликав прибульців усунути Стармера](https://ua.korrespondent.net/world/4885571-poslanets-putina-zaklykav-prybultsiv-usunuty-starmera)<br>
@@ -97,6 +99,7 @@ Previous day: [2026-06-09](./data/2026-06-09.md)
 00:26 [Помста за гелікоптер: США завдали ударів по Ірану](https://ua.korrespondent.net/world/4885307-pomsta-za-helikopter-ssha-zavdaly-udariv-po-iranu)<br>
 
 ## as.com
+23:11 [El Panathinaikos tumba al Olympiacos tras dos prórrogas](https://as.com/baloncesto/mas_baloncesto/el-panathinaikos-tumba-al-olympiacos-tras-dos-prorrogas-f202606-n/)<br>
 22:37 [Resumen del Valencia Basket vs Joventut, semifinales de la Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-joventut-semifinales-de-la-liga-endesa-f202606-v/)<br>
 22:20 [Montero decide en la prórroga el primer asalto](https://as.com/baloncesto/acb/montero-decide-en-la-prorroga-el-primera-asalto-f202606-n/)<br>
 20:12 [Valencia - Joventut, en directo: semifinal de la Liga Endesa 2025/26 en vivo](https://as.com/baloncesto/acb/valencia-joventut-en-directo-semifinal-de-la-liga-endesa-202526-en-vivo-f202606-d/)<br>
@@ -113,6 +116,10 @@ Previous day: [2026-06-09](./data/2026-06-09.md)
 06:59 [Ricky Rubio amenaza el poderío taronja](https://as.com/baloncesto/acb/ricky-rubio-amenaza-el-poderio-taronja-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:17 [Ovacionado homenaje musical a Gaudí en el Palau](https://www.elperiodico.com/es/ocio-y-cultura/20260610/ovacionado-homenaje-musical-gaudi-palau-131262560)<br>
+23:09 [La mejores imágenes | El papa León XIV bendice la Torre de Jesús de la Sagrada Família](https://www.elperiodico.com/es/fotos/en-imagenes/mejores-imagenes-papa-leon-xiv-fotos-131262564)<br>
+23:00 [La Sagrada Família, clímax del Año Gaudí: 100 años de la muerte de Antoni Gaudí](https://www.elperiodico.com/es/barcelona/20260610/sagrada-familia-climax-ano-gaudi-2026-arquitectura-131208233)<br>
+22:49 [El espectáculo tras la bendición del Papa de la torre de Jesús de la Sagrada Família](https://www.elperiodico.com/es/videos/sociedad/espectaculo-bendicion-papa-torre-jesucristo-video/131261761.shtml)<br>
 22:29 [El Valencia tumba a un gran Joventut en el primer asalto de las semifinales](https://www.elperiodico.com/es/deportes/20260610/valencia-tumba-gran-joventut-primer-131261568)<br>
 22:23 [El Papa bendice la torre de Jesucristo de la Sagrada Família](https://www.elperiodico.com/es/videos/sociedad/papa-bendice-torre-jesucristo-sagrada-familia-videa/131261412.shtml)<br>
 22:10 [La cría de hipopótamo pigmeo sale por primera vez al recinto exterior del Zoo de Berlín](https://www.elperiodico.com/es/videos/sociedad/cria-hipopotamo-pigmeo-primera-vez-exterior-zoo-berlin/131261353.shtml)<br>
