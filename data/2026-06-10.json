@@ -1,5 +1,284 @@
 [
   {
+    "title": "Президент підтвердив удари Фламінго по заводу в РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4885376-prezydent-pidtverdyv-udary-flaminho-po-zavodu-v-rf",
+    "pubDate": "2026-06-10 10:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456254.jpg\">Також під удари потрапили НПЗ в Самарській області і два об’єкти нафтової інфраструктури у Володимирській області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muerto a tiros un hombre frente a una comisaría del centro de Barcelona, cerca de donde parte esta tarde el papamóvil",
+    "link": "https://www.elperiodico.com/es/sociedad/20260610/matan-tiros-hombre-comisaria-policia-barcelona-131226733",
+    "pubDate": "2026-06-10 10:32:39",
+    "category": "",
+    "description": "<h2>Los Mossos buscan a un sospechoso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bronca entre Sánchez y Feijóo: \"Señor P.S si lo sabía todo tendrá que dimitir por corrupción y si no lo sabía tendrá que dimitir por incompetente\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/bronca-sanchez-feijoo-congreso-corrupcion/131226763.shtml",
+    "pubDate": "2026-06-10 10:30:34",
+    "category": "",
+    "description": "¿Hasta cuándo va a estirar esta basura antes de darle la palabra a los españoles?\", le ha cuestionado el líder del PP",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Прем'єр Індії Моді встановив професійний рекорд",
+    "link": "https://ua.korrespondent.net/world/4885373-premier-indii-modi-vstanovyv-profesiinyi-rekord",
+    "pubDate": "2026-06-10 10:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456247.jpg\">Нарендра Моді встановив рекорд тривалості перебування на посаді глави уряду Індії - 4399 днів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Disturbios y violencia contra la inmigración en Belfast tras un apuñalamiento perpetrado por un solicitante de asilo sudanés",
+    "link": "https://www.elperiodico.com/es/videos/internacional/disturbios-violencia-inmigracion-belfast-apunalamiento-solicitante-asilo-sudanes-video/131226502.shtml",
+    "pubDate": "2026-06-10 10:25:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Colaboración pública-privada: acelerar la transformación digital para sostener el crecimiento de Catalunya",
+    "link": "https://www.elperiodico.com/es/economia/20260610/colaboracion-publica-privada-acelerar-transformacion-131226523",
+    "pubDate": "2026-06-10 10:23:51",
+    "category": "",
+    "description": "<h2>La competitividad de un territorio ya no depende solo de cuánto invierte, sino de cómo diseña y ejecuta sus proyectos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salou y el Port de Tarragona impulsan el silvopastoreo para prevenir incendios forestales",
+    "link": "https://www.elperiodico.com/es/tarragona/20260610/salou-port-tarragona-silvopastureo-prevencion-incendios-131225854",
+    "pubDate": "2026-06-10 10:23:30",
+    "category": "",
+    "description": "<h2 class=\"item\">La actuación ha servido para reducir la carga de combustible vegetal, controlar el crecimiento del sotobosque y mejorar la seguridad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué el Mundial 2026 será el más contaminante de todos?",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260610/mundial-eeuu-sera-contaminante-131226429",
+    "pubDate": "2026-06-10 10:21:45",
+    "category": "",
+    "description": "<h2>Un informe explica cómo se dispararán las emisiones de CO2 en el torneo con más países y ciudades implicadas</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Huion Kamvas 22 (Gen 3): pantalla interactiva de 21,5 pulgadas con resolución 2.5K, 90 Hz y lápiz PenTech 4.0",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260610/huion-kamvas-22-gen-3-131226041",
+    "pubDate": "2026-06-10 10:20:42",
+    "category": "",
+    "description": "<h2>Análisis de la propuesta de Huion para quienes buscan una tableta con pantalla grande, buena precisión de color y un comportamiento fluido en dibujo digital, ilustración o edición visual</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la Fuente tiene un plan con Lamine: jugará un rato en el debut contra Cabo Verde",
+    "link": "https://www.elperiodico.com/es/deportes/20260610/fuente-plan-lamine-jugara-rato-131225643",
+    "pubDate": "2026-06-10 10:17:30",
+    "category": "",
+    "description": "<h2>La intención del seleccionador es que el delantero dispute entre 15 y 20 minutos en el primer partido de España</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Порт Маріуполя зазнав потужної атаки - СБС",
+    "link": "https://ua.korrespondent.net/ukraine/4885368-port-mariupolia-zaznav-potuzhnoi-ataky-sbs",
+    "pubDate": "2026-06-10 10:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456239.jpg\">Тепер можливості противника використовувати Маріуполь як логістичний вузол суттєво обмежені.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Junta de Andalucía amplía el concierto con el colegio de Sandra Peña: tendrá una unidad más de Educación Especial",
+    "link": "https://www.elperiodico.com/es/sociedad/20260610/junta-andalucia-amplia-concierto-colegio-sandra-pena-131224100",
+    "pubDate": "2026-06-10 10:10:46",
+    "category": "",
+    "description": "<h2>La Consejería autoriza una de las cuatro unidades más de Educación Especial y Apoyo a la Integración de la provincia de Sevilla durante el curso 2026-2027 al colegio de la Fundación Educativa Mary Award</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "The Legend of Zelda Ocarina of Time renace en Switch 2 con una versión actualizada",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260610/the-legend-of-zelda-ocarina-131224745",
+    "pubDate": "2026-06-10 10:10:40",
+    "category": "",
+    "description": "<h2>El clásico de Nintendo 64 volverá este año, pero la compañía se resiste a revelar si será un remake, una remasterización o algo intermedio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Empieza el Mundial de Fútbol 2026 y vuelve Naranjito",
+    "link": "https://www.elperiodico.com/es/tele/20260610/mundial-futbol-2026-naranjito-serie-vintv-131223426",
+    "pubDate": "2026-06-10 10:06:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El canal VinTV recupera la serie sobre la mascota del Mundial de España de 1982</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260514/empieza-mundial-futbol-horarios-fechas-130212050\">¿Cuándo empieza el Mundial de fútbol? Horarios, fechas y dónde ver la Copa del Mundo 2026</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Miguel Ángel Muñoz despide a su madre, Cristina Blanco, con una carta abierta: “Me ha dado muchas lecciones de vida”",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260610/miguel-angel-munoz-despide-madre-cristina-blanco-carta-abierta-dado-muchas-lecciones-vida-131219402",
+    "pubDate": "2026-06-10 10:05:44",
+    "category": "",
+    "description": "<h2>El actor ha publicado un emotivo mensaje en Instagram tras la muerte de la vidente, en el que recuerda su fortaleza, su enfermedad y la decisión de apartarse de los medios.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Інженери агресії: ГУР почало публікувати дані конструкторів озброєння РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4885366-inzhenery-ahresii-hur-pochalo-publikuvaty-dani-konstruktoriv-ozbroiennia-rf",
+    "pubDate": "2026-06-10 10:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456238.jpg\">Попри причетність до ведення війни, багато з них продовжують бути частиною світової наукової спільноти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Román, carpintero, sobre el impacto de la dana de Valencia en su negocio: \"Fue donde yo empecé a aprender una barbaridad\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260610/roman-carpinteria-dana-valencia-the-good-carpenter-dv-130882277",
+    "pubDate": "2026-06-10 10:00:30",
+    "category": "",
+    "description": "<h2 class=\"item\">El artesano también cuenta de qué forma consigue compaginar su trabajo en la empresa con su taller propio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260513/manuel-albanil-autonomo-empresa-reformas-obras-dv-130173308\">Manuel, albañil: “No suelo pedir dinero por adelantado. A mi me gusta llegar con todo el material a la obra y darle la confianza al cliente\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260125/albanil-tiktok-construccion-dinero-video-dv-125879879\">Santiago Carpintero, el albañil de TikTok con cientos de miles seguidores: \"En la construcción se va a ganar mucho dinero…\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Барселона погрожує президенту Реала судовим позовом",
+    "link": "https://ua.korrespondent.net/sport/football/4885361-barselona-pohrozhuie-prezydentu-reala-sudovym-pozovom",
+    "pubDate": "2026-06-10 09:54:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456232.jpg\">Один із керівників каталонського гранда пригрозив Пересу судовим розглядом, якщо мадридська сторона не припинить тиск і спекуляції навколо клубу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Запорізькій області затримали агентку ГРУ",
+    "link": "https://ua.korrespondent.net/ukraine/4885363-u-zaporizkii-oblasti-zatrymaly-ahentku-hru",
+    "pubDate": "2026-06-10 09:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456231.jpg\">Росіяни завербували жінку через її сина, який вже тривалий час проживає в одній з країн ЄС та працює на ГРУ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La OCU avisa: muchos helados bombón llevan más grasa de coco y palma que nata",
+    "link": "https://www.elperiodico.com/es/salud/20260610/ocu-helados-bombon-aditivos-ultraprocesados-dv-131005364",
+    "pubDate": "2026-06-10 09:45:57",
+    "category": "",
+    "description": "<h2 class=\"item\">El uso de grasas vegetales abarata el coste de producción, pero aportan un sabor que \"poco tiene que ver con el esperado en un helado\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/que-hacer/donde-comer/20260510/mejores-helados-barcelona-plaza-catalunya-gelat-130048718\">Los mejores helados de Barcelona están en plaza Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260313/noelia-gerico-duena-heladeria-artesanal-hijo-helado-bueno-dv-127563396\">Noelia Gericó, dueña de una heladería artesanal: \"Un helado industrial va a tender siempre a abaratar los costes, a utilizar una pasta, un saborizante o una materia prima de peor calidad\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Туск прокоментував переліт Зеленського в обхід Польщі",
+    "link": "https://ua.korrespondent.net/world/4885360-tusk-prokomentuvav-perelit-zelenskoho-v-obkhid-polschi",
+    "pubDate": "2026-06-10 09:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456224.jpeg\">Польський аеропорт у Жешуві не був закритий, зазначив Туск, коментуючи переліт Зеленського через територію Молдови.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa: \"El mensaje del Papa es muy pertinente y conecta con la inmensa mayoría de catalanes\"",
+    "link": "https://www.elperiodico.com/es/politica/20260610/papa-leon-cataluna-salvador-illa-131223188",
+    "pubDate": "2026-06-10 09:39:17",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260609/visita-papa-leon-barcelona-partidos-politicos-catalan-131192575\">La mayoría de partidos se vuelcan con el Papa y rebajan la polémica por el catalán</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260609/salvador-illa-reunion-papa-leon-sensibilidad-catalunya-131201544\">Illa se reúne con el Papa y le agradece su \"sensibilidad hacia Catalunya\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260610/visita-papa-barcelona-calles-cortadas-movilidad-trafico-ultima-hora-directo-130967130\">Última hora del tráfico hoy en Barcelona durante la visita del Papa, en directo | Restricciones, calles cortadas y afectaciones en metro, tren y autobuses</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Audi Q7 evoluciona sin perder su identidad",
+    "link": "https://www.elperiodico.com/es/motor/20260610/nuevo-audi-q7-tercera-generacion-diesel-siete-plazas-131223400",
+    "pubDate": "2026-06-10 09:39:13",
+    "category": "",
+    "description": "<h2>La tercera generación del SUV sigue siendo un modelo familiar con hasta siete plazas y con motores diésel </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Disturbios y violencia contra los inmigrantes en Belfast tras un apuñalamiento perpetrado por un solicitante de asilo sudanés",
+    "link": "https://www.elperiodico.com/es/internacional/20260610/ataque-solicitante-asilo-provoca-noche-disturbios-belfast-extrema-derecha-131224419",
+    "pubDate": "2026-06-10 09:36:42",
+    "category": "",
+    "description": "<h2>Alentados por la extrema derecha, cientos de manifestantes se han enfrentado a la policía, han incendiado vehículos y han atacado comercios regentados por inmigrantes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стало відомо про нові відключення в шести областях",
+    "link": "https://ua.korrespondent.net/ukraine/4885358-stalo-vidomo-pro-novi-vidkluichennia-v-shesty-oblastiakh",
+    "pubDate": "2026-06-10 09:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456223.jpg\">Наразі енергетики роблять усе можливе, щоб якнайшвидше заживити усіх знеструмлених абонентів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nick Reiner solicita acceso a un fondo familiar de 1,5 millones para su defensa en el caso del asesinato de sus padres",
+    "link": "https://www.elperiodico.com/es/gente/20260610/nick-reiner-fondo-familiar-defensa-asesinato-padres-131223314",
+    "pubDate": "2026-06-10 09:24:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El hijo menor del cineasta Rob Reiner y su mujer, la fotógra Michele Singer Reiner, pide desbloquear parte de un fideicomiso creado en 1992 mientras permanece en prisión sin fianza acusado de matar brutalmente a sus progenitores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251216/nick-reiner-hijo-rob-reiner-presunto-asesino-padres-michele-singer-124792952\">Quién es Nick Reiner, el hijo detenido acusado de asesinar al director Rob Reiner y su esposa: problemas con las drogas y entradas y salidas de centros de rehabilitación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251215/peliculas-rob-reiner-princesa-prometida-harry-encontro-sally-misery-124790848\">Las 7 películas más famosas de Rob Reiner, de 'La princesa prometida' a 'Cuando Harry encontró a Sally...'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар оголосив про повернення Караваєва",
+    "link": "https://ua.korrespondent.net/sport/football/4885354-shakhtar-oholosyv-pro-povernennia-karavaieva",
+    "pubDate": "2026-06-10 09:23:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456222.jpg\">Донецький клуб зробив серйозне посилення на внутрішній арені, оголосивши про підписання контракту з досвідченим гравцем.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Emoción y nervios en Montserrat horas antes de la llegada del papa León XIV",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/emocion-nervios-montserrat-horas-antes-llegada-papa-leon-xiv-video/131223620.shtml",
+    "pubDate": "2026-06-10 09:20:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія вербує дівчат для вбивств українських військових - Нацполіція",
+    "link": "https://ua.korrespondent.net/ukraine/4885355-rosiia-verbuie-divchat-dlia-vbyvstv-ukrainskykh-viiskovykh-natspolitsiia",
+    "pubDate": "2026-06-10 09:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456221.jpg\">З початку 2026 року Нацполіція зафіксувала шість фактів умисних вбивств на замовлення через месенджер Telegram.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El consulado de España en Edimburgo pide a los españoles que extremen sus precauciones por los disturbios en Belfast",
+    "link": "https://www.elperiodico.com/es/internacional/20260610/consulado-espana-edimburgo-pide-espanoles-precaucion-disturbios-belfast-131223761",
+    "pubDate": "2026-06-10 09:16:14",
+    "category": "",
+    "description": "<h2>Manifestantes salieron a las calles y quemaron vehículos y edificios en respuesta al un ataque con arma blanca de un refugiado sudanés</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 10 de junio en España por la Guerra de Irán: los carburantes se vuelven a precipitar",
+    "link": "https://www.elperiodico.com/es/economia/20260610/precio-gasolina-diesel-hoy-10-junio-dv-131223651",
+    "pubDate": "2026-06-10 09:16:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Estado de los embalses hoy, 10 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
     "link": "https://www.elperiodico.com/es/sociedad/20260610/embalses-hoy-10-junio-catalunya-dv-131223543",
     "pubDate": "2026-06-10 09:08:40",
@@ -250,6 +529,15 @@
     "description": "<h2>El Congreso de los Diputados recupera este miércoles la actividad parlamentaria con una sesión de control al Gobierno</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Feijóo acusa a Sánchez de \"delincuencia de Estado\" y el presidente le reprocha su \"oposición marrullera\"",
+    "link": "https://www.elperiodico.com/es/politica/20260610/sanchez-feijoo-delincuencia-estado-oposicion-131222032",
+    "pubDate": "2026-06-10 07:31:56",
+    "category": "",
+    "description": "<h2>\"¿Hasta cuándo va a estirar esta basura antes de darle la palabra a los españoles?\", le ha cuestionado el líder del PP</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
   },
   {
     "title": "Переможець Ліги Європи погодив умови особистого контракту з Ювентусом",
