@@ -1,9 +1,11 @@
-# News for 2026-06-11 23:36
+# News for 2026-06-12 01:11
 
 Previous day: [2026-06-10](./data/2026-06-10.md)
 
 ## ua.korrespondent.net
+23:53 [Стармер призначив нового міністра оборони Британії](https://ua.korrespondent.net/world/4885911-starmer-pryznachyv-novoho-ministra-oborony-brytanii)<br>
 23:20 [У Польщі чекають від України "кроків назад"](https://ua.korrespondent.net/world/4885909-u-polschi-chekauit-vid-ukrainy-krokiv-nazad)<br>
+22:59 [Хід Європи. Що з перемовинами по війні](https://ua.korrespondent.net/ukraine/4885918-khid-yevropy-scho-z-peremovynamy-po-viini)<br>
 22:43 [По всій Україні загроза балістики](https://ua.korrespondent.net/ukraine/4885903-po-vsii-ukraini-zahroza-balistyky)<br>
 22:24 [У НАТО оцінили ймовірність нападу РФ на країни Балтії](https://ua.korrespondent.net/world/4885898-u-nato-otsinyly-ymovirnist-napadu-rf-na-krainy-baltii)<br>
 21:54 [У Генштабі підтвердили ураження Афіпського НПЗ](https://ua.korrespondent.net/world/4885893-u-henshtabi-pidtverdyly-urazhennia-afipskoho-npz)<br>
@@ -106,6 +108,7 @@ Previous day: [2026-06-10](./data/2026-06-10.md)
 07:38 [En el último segundo y tras remontar 29 puntos: la canasta de los Knicks que ya es historia de la NBA](https://as.com/baloncesto/videos/en-el-ultimo-segundo-y-tras-remontar-29-puntos-la-canasta-de-los-knicks-que-ya-es-historia-de-la-nba-f202606-v/)<br>
 
 ## www.elperiodico.com
+23:56 [Los científicos confirman que El Niño ya está aquí y hay hasta un 63% de probabilidades de que adquiera una intensidad muy fuerte](https://www.elperiodico.com/es/sociedad/20260611/cientificos-confirman-nino-fenomeno-climatico-iniciado-muy-fuerte-131311444)<br>
 22:49 [EL PERIÓDICO recoge el premio Petxina Km 0 del Col·legi de Periodistes de Tarragona: "Ninguna tecnología puede sustituir al profesional que está in situ"](https://www.elperiodico.com/es/tarragona/20260611/periodico-premio-petxina-km0-collegi-periodistes-tarragona-131299010)<br>
 22:48 [El drama y la esperanza se dan de la mano en la visita histórica del papa León XIV al muelle de Arguineguín](https://www.elperiodico.com/es/sociedad/20260611/drama-esperanza-dan-mano-visita-131310194)<br>
 22:39 [SpaceX pone precio a su despegue bursátil: saldrá a 135 dólares por acción](https://www.elperiodico.com/es/economia/20260611/spacex-pone-precio-despegue-bursatil-131310050)<br>

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Julia Benedetti: “El skateboarding español está viviendo un momento muy bueno”",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/julia-benedetti-skateboarding-espanol-viviendo-bc-131311735",
+    "pubDate": "2026-06-11 23:59:52",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">La skater gallega, única española presente en las dos primeras ediciones olímpicas de skateboarding, repasa la evolución de un deporte que pasó de las calles a los Juegos Olímpicos y que tendrá protagonismo en GRAVITEO Urban Sports Festival</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Los científicos confirman que El Niño ya está aquí y hay hasta un 63% de probabilidades de que adquiera una intensidad muy fuerte",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/cientificos-confirman-nino-fenomeno-climatico-iniciado-muy-fuerte-131311444",
+    "pubDate": "2026-06-11 23:56:15",
+    "category": "",
+    "description": "<h2 class=\"item\">La Administración Nacional Oceánica y Atmosférica (NOAA) afirma que este fenómeno ya se ha iniciado en las aguas del Pacífico ecuatorial y que seguirá cogiendo fuerza hasta como mínimo el otoño</h2><h2 class=\"item\">Los expertos advierten sobre los efectos globales de este fenómeno, que amenaza con disparar aún más el aumento global de las temperaturas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260512/coctel-el-nino-cambio-climatico-efectos-advertencia-cientificos-130102786\">Los científicos advierten del \"peligroso cóctel\" que supondrá la llegada de El Niño en un mundo ya alterado por el cambio climático</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стармер призначив нового міністра оборони Британії",
+    "link": "https://ua.korrespondent.net/world/4885911-starmer-pryznachyv-novoho-ministra-oborony-brytanii",
+    "pubDate": "2026-06-11 23:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4458104.jpg\">Британський прем'єр зазначив, що його уряд забезпечує найбільше стійке збільшення витрат на оборону з часів холодної війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар відзначив для себе бразильця із Сан-Паулу",
+    "link": "https://ua.korrespondent.net/sport/football/4885914-shakhtar-vidznachyv-dlia-sebe-brazyltsia-iz-san-paulu",
+    "pubDate": "2026-06-11 23:46:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457864.jpg\">Донецька команда може поповнити свій склад 19-річним бразильським форвардом, гравцем Сан-Паулу.",
+    "topic": "спорт",
+    "topic_match_probability": 96
+  },
+  {
     "title": "У Польщі чекають від України \"кроків назад\"",
     "link": "https://ua.korrespondent.net/world/4885909-u-polschi-chekauit-vid-ukrainy-krokiv-nazad",
     "pubDate": "2026-06-11 23:20:00",
@@ -25,6 +61,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457863.jpg\">Англійський футбольний клуб висловлює інтерес до 22-річного вінгера, вважаючи його підписання однією із своїх трансферних цілей.",
     "topic": "спорт",
     "topic_match_probability": 96
+  },
+  {
+    "title": "Хід Європи. Що з перемовинами по війні",
+    "link": "https://ua.korrespondent.net/ukraine/4885918-khid-yevropy-scho-z-peremovynamy-po-viini",
+    "pubDate": "2026-06-11 22:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4458127.jpg\">Адміністрація Дональда Трампа демонструє дещо двоїстий, але прагматичний підхід до переговорного процесу.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "EL PERIÓDICO recoge el premio Petxina Km 0 del Col·legi de Periodistes de Tarragona: \"Ninguna tecnología puede sustituir al profesional que está in situ\"",
@@ -79,6 +124,15 @@
     "description": "<h2>La valoración de SpaceX en su debut bursátil de 1,8 billones de dólares la situará entre las diez empresas más valiosas del mundo</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Найдорожчий в історії. Старт ЧС-2026",
+    "link": "https://ua.korrespondent.net/ukraine/4885913-naidorozhchyi-v-istorii-start-chs-2026",
+    "pubDate": "2026-06-11 22:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4458105.jpg\">Цей Мундіаль є унікальним: він вперше проходить одразу в трьох країнах — США, Канаді та Мексиці, і вперше зібрав 48 національних збірних.",
+    "topic": "спорт",
+    "topic_match_probability": 90
   },
   {
     "title": "PP y Vox avanzan en Andalucía hacia un pacto lento, caliente y casi inevitable",
