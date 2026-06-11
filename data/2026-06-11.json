@@ -1,5 +1,437 @@
 [
   {
+    "title": "Barcelona - La Laguna Tenerife, en directo: semifinal de la Liga Endesa 2026 en vivo",
+    "link": "https://as.com/baloncesto/acb/barcelona-la-laguna-tenerife-en-directo-semifinal-de-la-liga-endesa-2026-en-vivo-f202606-d/",
+    "pubDate": "2026-06-11 21:27:32",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo del primer partido de la semifinal de la Liga Endesa entre Barcelona y La Laguna Tenerife; hoy a las 20:00, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Новосибірську палає склад оборонного заводу",
+    "link": "https://ua.korrespondent.net/world/russia/4885886-u-novosybirsku-palaie-sklad-oboronnoho-zavodu",
+    "pubDate": "2026-06-11 21:26:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457962.jpg\">Підприємство спеціалізується на виробництві електронно-оптичних перетворювачів і фотоелектронних помножувачів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El papa León XIV saluda una pancarta en el Teatro Guiniguada",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-saluda-pancarta/131307516.shtml",
+    "pubDate": "2026-06-11 21:22:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El obispo de Canarias hace sonreír al Papa: \"¡León, te queremos un montón!\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/obispo-canarias-sonreir-papa-leon-queremos-monton/131307418.shtml",
+    "pubDate": "2026-06-11 21:21:32",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Porsche convierte tres 911 en piezas únicas dedicas a Toy Story 5",
+    "link": "https://www.elperiodico.com/es/motor/20260611/porsche-911-toy-story-5-personalizacion-subasta-benefica-131270391",
+    "pubDate": "2026-06-11 21:15:10",
+    "category": "",
+    "description": "<h2>Los tres Porsche 911 han sido personalizados por Sonderwunsch e interpretan a Woody, Buzz Lightyear y Jessie</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del jueves, 11 de junio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/primitiva-hoy-jueves-11-de-junio-de-2026-resultados-comprobar-numeros-131306982",
+    "pubDate": "2026-06-11 21:14:29",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ilunion bate récord de ingresos: supera los 1.400 millones y los 45.000 empleados",
+    "link": "https://www.elperiodico.com/es/economia/20260611/ilunion-bate-record-ingresos-supera-131306970",
+    "pubDate": "2026-06-11 21:12:47",
+    "category": "",
+    "description": "<h2>El grupo de la ONCE facturó 1.443 millones de euros en 2025, un 9,6% más que el año anterior, y prevé expandirse en Colombia y Portugal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "México y la FIFA descorchan el Mundial con una inauguración de cartón-piedra que no salva ni Bocelli",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/mexico-fifa-muestran-mundo-inauguracion-mundial-131303124",
+    "pubDate": "2026-06-11 21:09:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Con la histórica ausencia de la presidenta Sheinbaum, el Mundial construye una ceremonia descafeinada, con escasa identidad y llena de actuaciones musicales en 'playback'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260611/mundial-2026-inauguracion-horario-calendario-partidos-espana-ultima-hora-directo-131293049\">Así hemos contado la ceremonia de inauguración del Mundial 2026 en el Estadio Azteca</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miquel Barceló exhibe por primera vez sus 'Grabados de Barcelona' en la Galeria Artur Ramon",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/miquel-barcelo-exhibe-primera-vez-131306690",
+    "pubDate": "2026-06-11 21:07:17",
+    "category": "",
+    "description": "<h2>La exposición 'Miquel Barceló. Grabados de Barcelona' exhibe por primera vez una treintena de obras del artista mallorquín realizadas entre 2010 y 2026</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vivienda aprueba definitivamente la distribución de los 7.000 millones de euros del Plan Estatal de Vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20260611/vivienda-aprueba-definitivamente-distribucion-7-131306697",
+    "pubDate": "2026-06-11 21:01:57",
+    "category": "",
+    "description": "<h2>\"Distintas administraciones, de distinto color político, se han puesto de acuerdo en el principal problema que preocupa a la ciudadanía\", ha apuntado el secretario de Estado de Vivienda y Agenda Urbana, David Lucas, en la Conferencia Sectorial</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Drones, playas y videovigilancia: las Policías Locales de Catalunya se renuevan con unidades de seguridad especiales",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/drones-playas-videovigilancia-policias-locales-catalunya-renuevan-unidades-especiales-seguridad-131183583",
+    "pubDate": "2026-06-11 21:00:31",
+    "category": "",
+    "description": "<h2>Los jefes de tres innovadores cuerpos catalanes, Palafrugell, Castelldefels y Platja d'Aro, explican a EL PERIÓDICO su proceso de modernización</h2><h2>El director Daniel Limones señala que \"los avances tecnológicos han impactado muy positivamente en los cuerpos de seguridad\"</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20250816/los-pequenos-municipios-de-catalunya-apuestan-por-la-videovigilancia-en-el-primer-ano-de-govern-illa-120404745\" target=\"_blank\">Los pequeños municipios de Catalunya apuestan por la videovigilancia en el primer año de Govern Illa</a></h2><h2>ENTREVISTA | <a href=\"https://www.elperiodico.com/es/barcelona/20250109/entrevista-daniel-limones-director-general-policias-locales-cataluna-movilidad-ayuntamientos-113135305\" target=\"_blank\">Daniel Limones: \"El principal agujero de las policías locales catalanas es la marcha de agentes de ayuntamientos pequeños\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, viernes 12 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260611/horoscopo-hoy-viernes-12-junio-dv-131245019",
+    "pubDate": "2026-06-11 21:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Укрзалізниця запускає нові Інтерсіті до Одеси",
+    "link": "https://ua.korrespondent.net/business/companies/4885882-ukrzaliznytsia-zapuskaie-novi-intersiti-do-odesy",
+    "pubDate": "2026-06-11 20:59:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457941.jpg\">У літній період поїзди працюватимуть за схемою Київ-Одеса-Дніпро, що дозволяє ефективніше використовувати парк і збільшити кількість рейсів на найбільш затребуваних напрямках.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Papa agradece \"el bien que se hace cada día \" en Canarias en una misa multitudinaria",
+    "link": "https://www.elperiodico.com/es/videos/politica/papa-leon-agradece-canarias-misa-multitudinaria/131306518.shtml",
+    "pubDate": "2026-06-11 20:57:32",
+    "category": "",
+    "description": "León XIV en el Estadio de Gran Canaria: \"Recemos juntos por los hermanos que han perdido la vida en el mar\"",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La jueza acusa de agresión sexual al productor de cine Xavier Atance, que queda en libertad con medidas cautelares",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/xavier-atance-productor-cine-jueza-acusa-agresion-sexual-acoso-orden-alejamiento-pasaporte-131305714",
+    "pubDate": "2026-06-11 20:56:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La magistrada impone la retirada de pasaporte y una orden de alejamiento respecto a las tres denunciantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260611/detenido-productor-cine-xavier-atance-agresiones-sexuales-trabajadoras-131268893\">Detenido el productor de cine Xavier Atance por agredir sexualmente a tres trabajadoras</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Cruz de los Migrantes, construida en El Desierto de Granadilla, presidirá el encuentro del papa León XIV en la plaza del Cristo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/cruz-migrantes-granadilla-plaza-cristo-131306439",
+    "pubDate": "2026-06-11 20:55:04",
+    "category": "",
+    "description": "<h2>Miguel Hernández y su hijo elaboraron hace un año una cruz con restos de dos cayucos llegados a Los Cristianos y La Restinga, \"madera de sufrimiento, de sangre\", como define el sacerdote Agustín León</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ford відкликає понад 548 тисяч позашляховиків",
+    "link": "https://ua.korrespondent.net/business/auto/4885877-Ford-vidklykaie-ponad-548-tysiach-pozashliakhovykiv",
+    "pubDate": "2026-06-11 20:46:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457922.jpg\">Причиною масштабної сервісної кампанії стали дефекти хромованого оздоблення центральної консолі, яке з часом може утворювати гострі краї.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "México - Sudáfrica, en directo el partido inaugural del Mundial en el Estadio Azteca",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/mexico-sudafrica-directo-partido-inaugural-131301041",
+    "pubDate": "2026-06-11 20:45:55",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Суперник Джошуа назвав свою перевагу в майбутньому бою",
+    "link": "https://ua.korrespondent.net/sport/boks/4885879-supernyk-dzhoshua-nazvav-svoui-perevahu-v-maibutnomu-boui",
+    "pubDate": "2026-06-11 20:44:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457788.jpg\">До того ж албанський боксер Крістіан Пренга, який вийде на ринг битися з Ентоні Джошуа, крім всього іншого, водночас має намір будь-якою ціною не допустити бою британця з Тайсоном Ф’юрі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Júbilo y lágrimas en el encuentro del papa León XIV en la Catedral de Santa Ana: \"Ahora sí que somos las islas afortunadas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/jubilo-lagrimas-guia-iglesia-canaria-encuentro-leon-xiv-catedral-santa-ana-131305841",
+    "pubDate": "2026-06-11 20:40:45",
+    "category": "",
+    "description": "<h2>El pontífice comparte palabras de aliento e ilusión con la comunidad religiosa de Canarias, reconociendo su labor con los más necesitados y migrantes, quién le hizo entrega de varios obsequios</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Напруженість з Іраном падає? Нове рішення Трампа",
+    "link": "https://ua.korrespondent.net/world/4885871-napruzhenist-z-iranom-padaie-nove-rishennia-trampa",
+    "pubDate": "2026-06-11 20:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457921.jpg\">Американський лідер заявив, що \"скасував\" удари по Ірану після погроз \"дуже жорсткою\" атакою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Казахстані виявили понад 1200 наскельних малюнків",
+    "link": "https://ua.korrespondent.net/tech/science/4885873-u-kazakhstani-vyiavyly-ponad-1200-naskelnykh-maluinkiv",
+    "pubDate": "2026-06-11 20:32:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457901.jpg\">Ущелина Бурхансай у Жамбильській області приховувала унікальний археологічний комплекс із наскельними малюнками різних епох та особистим посланням, залишеним представником давніх тюрків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мудра озвучила ключові проблеми бізнесу",
+    "link": "https://ua.korrespondent.net/business/4885872-mudra-ozvuchyla-kluichovi-problemy-biznesu",
+    "pubDate": "2026-06-11 20:31:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457920.jpg\">Часто мовиться не про податкове навантаження як таке, а про ситуації, коли недосконалість процедур або прогалини в регулюванні створюють нерівні умови для конкуренції, зазначили в ОП на зустрічі з представниками бізнесу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué es importante mirar el número que tienen los huevos en casa? Aurelio Rojas, cardiólogo, lo explica",
+    "link": "https://www.elperiodico.com/es/salud/20260611/beneficios-huevos-ecologicos-y-camperos-memoria-salud-cerebral-dv-131018675",
+    "pubDate": "2026-06-11 20:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto destaca los beneficios de los huevos ecológicos y camperos para la memoria y la salud cerebral</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260202/mejores-frutas-micronutrientes-compuestos-bioactivos-cardiologo-aurelio-rojas-dv-121828759\">Aurelio Rojas, cardiólogo, revela las frutas que no deberían faltar en tu alimentación: \"Ayuda a controlar el estrés y darte energía\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "BYD показала новий флагманський седан Great Han",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4885869-BYD-pokazala-novyi-flahmanskyi-sedan-Great-Han",
+    "pubDate": "2026-06-11 20:25:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457887.jpg\">Китайський автовиробник опублікував перші офіційні зображення нового флагманського седана, який стане однією з найтехнологічніших моделей бренду.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ліам Росеньйор перший у списку очолити Іпсвіч",
+    "link": "https://ua.korrespondent.net/sport/football/4885867-liam-rosenior-pershyi-u-spysku-ocholyty-ipsvich",
+    "pubDate": "2026-06-11 20:18:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457787.jpg\">Недавній керманич Челсі може очолити іпсвічську команду після відходу Кірана Маккенні.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Real Madrid oficializa el fichaje de Mourinho por tres temporadas, pero no lo presentará hasta julio",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/real-madrid-mourinho-presentacion-futbol-131305049",
+    "pubDate": "2026-06-11 20:17:43",
+    "category": "",
+    "description": "<h2>El portugués visitó el martes Valdebebas tras aterrizar y se reunió con Mendes, JAS y Calafat, por la tarde</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El milenario del Parlament reunirá a premios Nobel para debatir sobre la paz desde la perspectiva de distintas religiones",
+    "link": "https://www.elperiodico.com/es/politica/20260611/milenario-parlament-reunira-premios-nobel-hablar-paz-diversidad-religiosa-131295775",
+    "pubDate": "2026-06-11 20:13:20",
+    "category": "",
+    "description": "<h2 class=\"item\">La conmemoración se prolongará durante más de un año, tendrá actos descentralizados y se coordinará con la Generalitat </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260611/parlament-cataluna-actos-milenario-izada-senyera-diada-rull-131205222\" target=\"_blank\">El Parlament abrirá los actos de su milenario con la izada de la gran 'senyera' la víspera de la Diada</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251111/milenario-parlament-manel-vila-mutllo-quien-es-123594390\" target=\"_blank\">Manel Vila, el veterano impulsor de la paz y la cooperación desde Barcelona que dirigirá el milenario del Parlament</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кияни обурюються надходженням платіжок за січневе опалення",
+    "link": "https://ua.korrespondent.net/city/kiev/4885865-kyiany-oburuiuitsia-nadkhodzhenniam-platizhok-za-sichneve-opalennia",
+    "pubDate": "2026-06-11 20:08:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457868.jpg\">У Київтеплоенерго заявили, що тоді нарахування не проводилися через наслідки російського обстрілу енергетичної інфраструктури і можливість зробити перерахунок з'явилася тільки зараз.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya pide triplicar las penas de cárcel por tener ilegalmente armas de fuego y distribuir marihuana",
+    "link": "https://www.elperiodico.com/es/sucesos/20260611/catalunya-pide-triplicar-penas-carcel-marihuana-tenencia-armas-131304163",
+    "pubDate": "2026-06-11 20:04:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos requisan más pistolas en el litoral, que concentra la mayoría de la industria del narcotráfico</h2><h2 class=\"item\">La policía asocia las seis muertes por arma de fuego de este año en Catalunya al crimen organizado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/matan-tiros-hombre-comisaria-policia-barcelona-131226733\">Los Mossos enmarcan la ejecución de la calle de Balmes en la guerra de narcos que se libra en Barcelona</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США витіснили Росію з нафтового лідерства",
+    "link": "https://ua.korrespondent.net/business/economics/4885862-ssha-vytisnyly-rosiui-z-naftovoho-liderstva",
+    "pubDate": "2026-06-11 20:01:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457867.jpg\">Американський експорт нафти сягнув 10,5 млн барелів на добу, тоді як поставки з Росії та Саудівської Аравії суттєво скоротилися.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El acto de la Sagrada Família se convierte en la mejor campaña de promoción de Barcelona desde los JJOO",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/acto-sagrada-familia-convierte-mejor-campana-promocion-barcelona-desde-juegos-olimpicos-131291449",
+    "pubDate": "2026-06-11 20:00:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El  éxito del evento conjuga una enorme proyección internacional de la ciudad con un repunte de la autoestima local, según el sector y expertos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260611/barcelona-augura-boom-turismo-cultural-gaudi-sagrada-familia-131059247\">Barcelona augura un 'boom' de turismo cultural asiático atraído por Gaudí tras el clímax de la Sagrada Família</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260611/prensa-internacional-elogios-acto-papa-sagrada-familia-131290038\">La prensa internacional se deshace en elogios sobre el acto del Papa en la Sagrada Familia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Mundial 2026 dispara la moda 'blokecore': estas son las camisetas de las selecciones más buscadas",
+    "link": "https://www.elperiodico.com/es/gente/20260611/mundial-2026-camisetas-futbol-mas-buscadas-moda-blokecore-primavera-verano-130188390",
+    "pubDate": "2026-06-11 20:00:00",
+    "category": "",
+    "description": "<h2>Con el inicio de la competición en tierras americanas, varias son las equipaciones que ya se disputan la Copa que funde deporte y estilo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ambiente previo a la misa del papa en los exteriores del Estadio de Gran Canaria",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ambiente-previo-misa-papa-exteriores/131304339.shtml",
+    "pubDate": "2026-06-11 19:58:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detienen al cantante Beret en Sevilla por una presunta agresión sexual",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/detienen-cantante-beret-sevilla-presunta-agresion-sexual-131304177",
+    "pubDate": "2026-06-11 19:55:16",
+    "category": "",
+    "description": "<h2>La Policía Nacional ha procedido al arresto de este famoso artista de 29 años por un supuesto caso de agresión sexual del que hasta el momento no han trascendido más detalles</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Catalunya cierra la selectividad con el examen de Matemáticas de nuevo en el centro de las quejas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/catalunya-cierra-selectividad-examen-matematicas-polemica-controles-moviles-131295563",
+    "pubDate": "2026-06-11 19:40:23",
+    "category": "",
+    "description": "<h2 class=\"item\">Alumnos y profesores critican la extensión y la alambicada redacción de los problemas de la prueba: \"Parece que vayan a pillar\"</h2><h2 class=\"item\">El proyecto piloto para detectar móviles o relojes inteligentes acaba sin detectar ningún dispositivo encendido</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260611/cuando-salen-notas-selectividad-cataluna-131273308\">¿Cuándo salen las notas de selectividad en Catalunya?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Голова Запорізької ОВА закликав евакуюватись мешканців окупованої території",
+    "link": "https://ua.korrespondent.net/ukraine/4885860-holova-zaporizkoi-ova-zaklykav-evakuuivatys-meshkantsiv-okupovanoi-terytorii",
+    "pubDate": "2026-06-11 19:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457844.jpg\">Федоров наголосив, що чим більше окупанти використовують ТОТ для військових потреб, тим більше ризиків виникає для мирних людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El nuevo edificio ambulatorio del Hospital Arnau de Vilanova de Lleida, elegido mejor infraestructura de Catalunya de 2025",
+    "link": "https://www.elperiodico.com/es/economia/20260611/nuevo-edificio-ambulatorio-hospital-arnau-vilanova-lleida-premio-mejor-infraestructura-2025-131294594",
+    "pubDate": "2026-06-11 19:36:20",
+    "category": "",
+    "description": "<h2>La  X Nit de les Infraestructures, organizada por el Consell Assessor de les Infraestructures, reconoce también la rehabilitación del Edifici Estel, la restauración de la Casa Batlló y la variante de Sagàs de la C-62</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250619/deslumbrante-edificio-oficinas-estel-barcelona-inaugurado-dos-tercios-espacio-contratado-118794732\" target=\"_blank\">El deslumbrante edificio Estel de Barcelona se inaugura con el 65% de oficinas y locales contratados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Запоріжжі поліціянти застрелили чоловіка з ножем",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4885858-u-zaporizhzhi-politsiianty-zastrelyly-cholovika-z-nozhem",
+    "pubDate": "2026-06-11 19:36:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457838.jpg\">Нападник застосував сльозогінний газ і завдав ножових поранень трьом правоохоронцям під час санкціонованого обшуку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Entrada del papa León XIV al estadio de Gran Canaria",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/entrada-papa-leon-xiv-estadio/131303527.shtml",
+    "pubDate": "2026-06-11 19:34:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El papamóvil de León XIV llega a Tenerife",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/papamovil-leon-xiv-llega-tenerife/131303367.shtml",
+    "pubDate": "2026-06-11 19:30:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los joyeros tasan en aproximadamente 1,3 millones de euros el centenar de joyas incautadas en el despacho de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260611/joyeros-tasan-aproximadamente-1-3-131303115",
+    "pubDate": "2026-06-11 19:24:03",
+    "category": "",
+    "description": "<h2>Fueron encontradas junto a varios relojes durante el registro realizado por la UDEF por orden de la Audiencia Nacional</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ФСБ і Кремль зчепилися через блокування інтернету - FT",
+    "link": "https://ua.korrespondent.net/world/russia/4885854-fsb-i-kreml-zchepylysia-cherez-blokuvannia-internetu-FT",
+    "pubDate": "2026-06-11 19:16:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457821.jpg\">Адміністрація Путін, що масові блокування інтернету та месенджерів можуть викликати невдоволення населення напередодні парламентських виборів. Тим часом, сам Путін так і не дав пояснення, навіщо потрібні масштабні відключення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Пентагоні евакуюють людей через \"інцидент із небезпечними речовинами\"",
+    "link": "https://ua.korrespondent.net/world/4885853-u-pentahoni-evakuuiuit-luidei-cherez-intsydent-iz-nebezpechnymy-rechovynamy",
+    "pubDate": "2026-06-11 19:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457805.jpg\">Речник Пентагону Шон Парнелл заявив, що було виявлено проблему з якістю повітря, що вимагає вжиття запобіжних заходів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Stellantis empieza a probar su propia batería de estado sólido junto con Factorial",
+    "link": "https://www.elperiodico.com/es/motor/20260611/stellantis-empieza-probar-propia-bateria-solido-factorial-131294601",
+    "pubDate": "2026-06-11 19:03:05",
+    "category": "",
+    "description": "<h2>Ambas empresas ya trabajan desde hace años en este proyecto y con este paso se acerca más la posibilidad de integrar este tipo de baterías en vehículos eléctricos de nueva generación.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Barcelona metropolitana dibuja la futura expansión de los ejes verdes frente al reto climático y demográfico",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/barcelona-metropolitana-dibuja-futura-expansion-ejes-verdes-frente-reto-climatico-demografico-131297295",
+    "pubDate": "2026-06-11 19:00:55",
+    "category": "",
+    "description": "<h2>La exposición 'Futuro inmediato' del AMB detalla proyectos para crear urbes más sostenibles, verdes y con mejor transporte público</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260601/barcelona-metropolitana-blinda-futuro-ejes-verdes-reforma-norma-jueces-superilles-130774728\" target=\"_blank\">La Barcelona metropolitana blinda el futuro de los ejes verdes reformando la norma con la que los jueces tumbaron las 'Superilles'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Нідерландах на турнірі WTA 250 українка Снігур вийшла у чвертьфінал",
+    "link": "https://ua.korrespondent.net/sport/tenis/4885850-u-niderlandakh-na-turniri-WTA-250-ukrainka-snihur-vyishla-u-chvertfinal",
+    "pubDate": "2026-06-11 18:58:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457683.jpg\">Українська тенісистка виграла перенесений через негоду матч в угорської суперниці.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "\"Мадяр\" озвучив плани щодо ізоляції Криму від РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4885848-madiar-ozvuchyv-plany-schodo-izoliatsii-krymu-vid-rf",
+    "pubDate": "2026-06-11 18:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457790.jpg\">Лише за місяць завдяки БпЛА трафік на автомагістралі Новоросія, який є ключовим маршрутом постачання російських військ через тимчасово окупований південь України до Криму, скоротився більш ніж на дві третини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Tensión en la Asamblea de Madrid: expulsado un diputado del PSOE tras un debate sobre ETA",
     "link": "https://www.elperiodico.com/es/videos/politica/tension-asamblea-madrid-expulsado-diputado-psoe/131301206.shtml",
     "pubDate": "2026-06-11 18:39:17",
@@ -191,6 +623,15 @@
   {
     "title": "На Волині начальник ТЦК продав \"непридатність\"",
     "link": "https://ua.korrespondent.net/ukraine/4885823-na-volyni-nachalnyk-ttsk-prodav-neprydatnist",
+    "pubDate": "2026-06-11 17:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457724.jpeg\">Посадовець вимагав та одержав 7 тисяч доларів за організацію схеми з оформлення фіктивної тимчасової непридатності до військової служби.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "На Волині начальник ТЦК продавав \"непридатність\"",
+    "link": "https://ua.korrespondent.net/ukraine/4885823-na-volyni-nachalnyk-ttsk-prodavav-neprydatnist",
     "pubDate": "2026-06-11 17:37:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457724.jpeg\">Посадовець вимагав та одержав 7 тисяч доларів за організацію схеми з оформлення фіктивної тимчасової непридатності до військової служби.",
@@ -482,6 +923,15 @@
     "pubDate": "2026-06-11 16:04:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457638.jpg\">У Костянтинівці вже йдуть запеклі вуличні бої, росіяни змогли просочитися до міста з трьох боків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adiós a Eduardo Portela, uno de los padres de la ACB",
+    "link": "https://as.com/baloncesto/acb/adios-a-eduardo-portela-uno-de-los-padres-de-la-acb-f202606-n/",
+    "pubDate": "2026-06-11 16:01:20",
+    "category": "Eduardo Portela",
+    "description": "El histórico dirigente, clave en la creación y modernización de la Liga Endesa, deja un legado decisivo en el baloncesto español y europeo.",
     "topic": "",
     "topic_match_probability": 0
   },

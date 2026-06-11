@@ -1,8 +1,20 @@
-# News for 2026-06-11 18:44
+# News for 2026-06-11 21:30
 
 Previous day: [2026-06-10](./data/2026-06-10.md)
 
 ## ua.korrespondent.net
+21:26 [У Новосибірську палає склад оборонного заводу](https://ua.korrespondent.net/world/russia/4885886-u-novosybirsku-palaie-sklad-oboronnoho-zavodu)<br>
+20:59 [Укрзалізниця запускає нові Інтерсіті до Одеси](https://ua.korrespondent.net/business/companies/4885882-ukrzaliznytsia-zapuskaie-novi-intersiti-do-odesy)<br>
+20:36 [Напруженість з Іраном падає? Нове рішення Трампа](https://ua.korrespondent.net/world/4885871-napruzhenist-z-iranom-padaie-nove-rishennia-trampa)<br>
+20:32 [У Казахстані виявили понад 1200 наскельних малюнків](https://ua.korrespondent.net/tech/science/4885873-u-kazakhstani-vyiavyly-ponad-1200-naskelnykh-maluinkiv)<br>
+20:31 [Мудра озвучила ключові проблеми бізнесу](https://ua.korrespondent.net/business/4885872-mudra-ozvuchyla-kluichovi-problemy-biznesu)<br>
+20:08 [Кияни обурюються надходженням платіжок за січневе опалення](https://ua.korrespondent.net/city/kiev/4885865-kyiany-oburuiuitsia-nadkhodzhenniam-platizhok-za-sichneve-opalennia)<br>
+20:01 [США витіснили Росію з нафтового лідерства](https://ua.korrespondent.net/business/economics/4885862-ssha-vytisnyly-rosiui-z-naftovoho-liderstva)<br>
+19:40 [Голова Запорізької ОВА закликав евакуюватись мешканців окупованої території](https://ua.korrespondent.net/ukraine/4885860-holova-zaporizkoi-ova-zaklykav-evakuuivatys-meshkantsiv-okupovanoi-terytorii)<br>
+19:36 [У Запоріжжі поліціянти застрелили чоловіка з ножем](https://ua.korrespondent.net/city/zaporozhye/4885858-u-zaporizhzhi-politsiianty-zastrelyly-cholovika-z-nozhem)<br>
+19:16 [ФСБ і Кремль зчепилися через блокування інтернету - FT](https://ua.korrespondent.net/world/russia/4885854-fsb-i-kreml-zchepylysia-cherez-blokuvannia-internetu-FT)<br>
+19:07 [У Пентагоні евакуюють людей через "інцидент із небезпечними речовинами"](https://ua.korrespondent.net/world/4885853-u-pentahoni-evakuuiuit-luidei-cherez-intsydent-iz-nebezpechnymy-rechovynamy)<br>
+18:49 ["Мадяр" озвучив плани щодо ізоляції Криму від РФ](https://ua.korrespondent.net/ukraine/4885848-madiar-ozvuchyv-plany-schodo-izoliatsii-krymu-vid-rf)<br>
 18:35 [У Севастополі уражено військовий об'єкт Чорноморського флоту РФ - ВМС](https://ua.korrespondent.net/ukraine/4885843-u-sevastopoli-urazheno-viiskovyi-obiekt-chornomorskoho-flotu-rf-vms)<br>
 18:19 [Розбирання підтвердило, що смартфон Трампа - це перефарбований HTC](https://ua.korrespondent.net/lifestyle/gadgets/4885836-rozbyrannia-pidtverdylo-scho-smartfon-trampa-tse-perefarbovanyi-HTC)<br>
 18:19 [Нацбанк почав зміцнювати гривню](https://ua.korrespondent.net/business/financial/4885838-natsbank-pochav-zmitsnuivaty-hryvnui)<br>
@@ -77,12 +89,32 @@ Previous day: [2026-06-10](./data/2026-06-10.md)
 00:26 [США завдали нових ударів по багатьох цілях в Ірані](https://ua.korrespondent.net/world/4885606-ssha-zavdaly-novykh-udariv-po-bahatokh-tsiliakh-v-irani)<br>
 
 ## as.com
+21:27 [Barcelona - La Laguna Tenerife, en directo: semifinal de la Liga Endesa 2026 en vivo](https://as.com/baloncesto/acb/barcelona-la-laguna-tenerife-en-directo-semifinal-de-la-liga-endesa-2026-en-vivo-f202606-d/)<br>
+16:01 [Adiós a Eduardo Portela, uno de los padres de la ACB](https://as.com/baloncesto/acb/adios-a-eduardo-portela-uno-de-los-padres-de-la-acb-f202606-n/)<br>
 15:51 [Fallece Vladas Garastas, el último seleccionador soviético](https://as.com/baloncesto/mas_baloncesto/fallece-vladas-garastas-el-ultimo-seleccionador-sovietico-f202606-n/)<br>
 15:24 [Duscak, al Bilbao Basket](https://as.com/baloncesto/duscak-bilbao-f202606-n/)<br>
 09:45 [Barcelona - Tenerife: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/barcelona-tenerife-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
 07:38 [En el último segundo y tras remontar 29 puntos: la canasta de los Knicks que ya es historia de la NBA](https://as.com/baloncesto/videos/en-el-ultimo-segundo-y-tras-remontar-29-puntos-la-canasta-de-los-knicks-que-ya-es-historia-de-la-nba-f202606-v/)<br>
 
 ## www.elperiodico.com
+21:22 [El papa León XIV saluda una pancarta en el Teatro Guiniguada](https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-saluda-pancarta/131307516.shtml)<br>
+21:21 [El obispo de Canarias hace sonreír al Papa: "¡León, te queremos un montón!"](https://www.elperiodico.com/es/videos/politica/obispo-canarias-sonreir-papa-leon-queremos-monton/131307418.shtml)<br>
+21:12 [Ilunion bate récord de ingresos: supera los 1.400 millones y los 45.000 empleados](https://www.elperiodico.com/es/economia/20260611/ilunion-bate-record-ingresos-supera-131306970)<br>
+21:07 [Miquel Barceló exhibe por primera vez sus 'Grabados de Barcelona' en la Galeria Artur Ramon](https://www.elperiodico.com/es/ocio-y-cultura/20260611/miquel-barcelo-exhibe-primera-vez-131306690)<br>
+21:01 [Vivienda aprueba definitivamente la distribución de los 7.000 millones de euros del Plan Estatal de Vivienda](https://www.elperiodico.com/es/economia/20260611/vivienda-aprueba-definitivamente-distribucion-7-131306697)<br>
+21:00 [Drones, playas y videovigilancia: las Policías Locales de Catalunya se renuevan con unidades de seguridad especiales](https://www.elperiodico.com/es/barcelona/20260611/drones-playas-videovigilancia-policias-locales-catalunya-renuevan-unidades-especiales-seguridad-131183583)<br>
+20:57 [El Papa agradece "el bien que se hace cada día " en Canarias en una misa multitudinaria](https://www.elperiodico.com/es/videos/politica/papa-leon-agradece-canarias-misa-multitudinaria/131306518.shtml)<br>
+20:56 [La jueza acusa de agresión sexual al productor de cine Xavier Atance, que queda en libertad con medidas cautelares](https://www.elperiodico.com/es/sociedad/20260611/xavier-atance-productor-cine-jueza-acusa-agresion-sexual-acoso-orden-alejamiento-pasaporte-131305714)<br>
+20:55 [La Cruz de los Migrantes, construida en El Desierto de Granadilla, presidirá el encuentro del papa León XIV en la plaza del Cristo](https://www.elperiodico.com/es/sociedad/20260611/cruz-migrantes-granadilla-plaza-cristo-131306439)<br>
+20:40 [Júbilo y lágrimas en el encuentro del papa León XIV en la Catedral de Santa Ana: "Ahora sí que somos las islas afortunadas"](https://www.elperiodico.com/es/sociedad/20260611/jubilo-lagrimas-guia-iglesia-canaria-encuentro-leon-xiv-catedral-santa-ana-131305841)<br>
+20:13 [El milenario del Parlament reunirá a premios Nobel para debatir sobre la paz desde la perspectiva de distintas religiones](https://www.elperiodico.com/es/politica/20260611/milenario-parlament-reunira-premios-nobel-hablar-paz-diversidad-religiosa-131295775)<br>
+20:00 [El acto de la Sagrada Família se convierte en la mejor campaña de promoción de Barcelona desde los JJOO](https://www.elperiodico.com/es/barcelona/20260611/acto-sagrada-familia-convierte-mejor-campana-promocion-barcelona-desde-juegos-olimpicos-131291449)<br>
+19:58 [Ambiente previo a la misa del papa en los exteriores del Estadio de Gran Canaria](https://www.elperiodico.com/es/videos/sociedad/ambiente-previo-misa-papa-exteriores/131304339.shtml)<br>
+19:40 [Catalunya cierra la selectividad con el examen de Matemáticas de nuevo en el centro de las quejas](https://www.elperiodico.com/es/sociedad/20260611/catalunya-cierra-selectividad-examen-matematicas-polemica-controles-moviles-131295563)<br>
+19:36 [El nuevo edificio ambulatorio del Hospital Arnau de Vilanova de Lleida, elegido mejor infraestructura de Catalunya de 2025](https://www.elperiodico.com/es/economia/20260611/nuevo-edificio-ambulatorio-hospital-arnau-vilanova-lleida-premio-mejor-infraestructura-2025-131294594)<br>
+19:34 [Entrada del papa León XIV al estadio de Gran Canaria](https://www.elperiodico.com/es/videos/sociedad/entrada-papa-leon-xiv-estadio/131303527.shtml)<br>
+19:30 [El papamóvil de León XIV llega a Tenerife](https://www.elperiodico.com/es/videos/sociedad/papamovil-leon-xiv-llega-tenerife/131303367.shtml)<br>
+19:00 [La Barcelona metropolitana dibuja la futura expansión de los ejes verdes frente al reto climático y demográfico](https://www.elperiodico.com/es/barcelona/20260611/barcelona-metropolitana-dibuja-futura-expansion-ejes-verdes-frente-reto-climatico-demografico-131297295)<br>
 18:39 [Tensión en la Asamblea de Madrid: expulsado un diputado del PSOE tras un debate sobre ETA](https://www.elperiodico.com/es/videos/politica/tension-asamblea-madrid-expulsado-diputado-psoe/131301206.shtml)<br>
 18:26 [El FMI asesta otro golpe a la eurozona: enfría el crecimiento al 0,9% para 2026 por la guerra en Oriente Próximo](https://www.elperiodico.com/es/economia/20260611/fmi-asesta-golpe-eurozona-enfria-131300639)<br>
 18:23 [Ambiente en el estadio de Gran Canaria](https://www.elperiodico.com/es/videos/sociedad/ambiente-estadio-gran-canaria-papa-las-palmas/131300529.shtml)<br>
