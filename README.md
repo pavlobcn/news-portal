@@ -1,8 +1,25 @@
-# News for 2026-06-11 06:59
+# News for 2026-06-11 11:12
 
 Previous day: [2026-06-10](./data/2026-06-10.md)
 
 ## ua.korrespondent.net
+11:05 [У Житомирі отруїли морпіха на замовлення РФ](https://ua.korrespondent.net/ukraine/4885674-u-zhytomyri-otruily-morpikha-na-zamovlennia-rf)<br>
+10:59 [Через рішення Зеленського у 52% поляків погіршилося ставлення до українців](https://ua.korrespondent.net/world/4885672-cherez-rishennia-zelenskoho-u-52-poliakiv-pohirshylosia-stavlennia-do-ukraintsiv)<br>
+10:50 [Окупанти підтвердили ураження мостів у Крим](https://ua.korrespondent.net/ukraine/4885670-okupanty-pidtverdyly-urazhennia-mostiv-u-krym)<br>
+10:30 [У Росії на 20% впала кількість охочих воювати проти України - ISW](https://ua.korrespondent.net/world/russia/4885664-u-rosii-na-20-vpala-kilkist-okhochykh-vouivaty-proty-ukrainy-ISW)<br>
+10:19 [У Харкові агент ФСБ виготовив 12 кг вибухівки](https://ua.korrespondent.net/city/kharkov/4885663-u-kharkovi-ahent-fsb-vyhotovyv-12-kh-vybukhivky)<br>
+10:14 [Один із 755 чоловіків. Зірка Людей Ікс повідомив про рак](https://ua.korrespondent.net/lifestyle/4885661-odyn-iz-755-cholovikiv-zirka-luidei-iks-povidomyv-pro-rak)<br>
+10:02 [Країни Перської затоки пригрозили Ірану відповіддю за атаки](https://ua.korrespondent.net/world/4885654-krainy-perskoi-zatoky-pryhrozyly-iranu-vidpoviddui-za-ataky)<br>
+09:51 [Зеленський зробив заяву у День СБС](https://ua.korrespondent.net/ukraine/4885653-zelenskyi-zrobyv-zaiavu-u-den-sbs)<br>
+09:43 [Брак ракет до Patriot: виробник зробив важливу заяву](https://ua.korrespondent.net/business/companies/4885649-brak-raket-do-Patriot-vyrobnyk-zrobyv-vazhlyvu-zaiavu)<br>
+09:32 [Відключення світла у шести областях і на ЗАЕС](https://ua.korrespondent.net/ukraine/4885647-vidkluichennia-svitla-u-shesty-oblastiakh-i-na-zaes)<br>
+09:19 [Перейшов на бік Росії: колишній віцеадмірал ВМС України отримав вирок](https://ua.korrespondent.net/ukraine/4885645-pereishov-na-bik-rosii-kolyshnii-vitseadmiral-vms-ukrainy-otrymav-vyrok)<br>
+08:55 [Ціни на нафту злетіли після нових ударів США по Ірану](https://ua.korrespondent.net/business/economics/4885643-tsiny-na-naftu-zletily-pislia-novykh-udariv-ssha-po-iranu)<br>
+08:33 [Дрон РФ поцілив у житловий будинок на Сумщині: загинула жінка](https://ua.korrespondent.net/ukraine/4885641-dron-rf-potsilyv-u-zhytlovyi-budynok-na-sumschyni-zahynula-zhinka)<br>
+08:17 [Генштаб ЗСУ назвав найгарячіший напрямок фронту](https://ua.korrespondent.net/ukraine/4885637-henshtab-zsu-nazvav-naihariachishyi-napriamok-frontu)<br>
+07:56 [У Генштабі зробили важливу заяву про демобілізацію](https://ua.korrespondent.net/ukraine/4885635-u-henshtabi-zrobyly-vazhlyvu-zaiavu-pro-demobilizatsiui)<br>
+07:30 [Росіяни вдарили по інфраструктурі Конотопа: частина міста без газу](https://ua.korrespondent.net/ukraine/4885633-rosiiany-vdaryly-po-infrastrukturi-konotopa-chastyna-mista-bez-hazu)<br>
+07:04 [РФ атакувала Іскандерами та дронами: є влучання](https://ua.korrespondent.net/ukraine/4885631-rf-atakuvala-iskanderamy-ta-dronamy-ye-vluchannia)<br>
 06:22 [Генштаб назвав втрати армії Росії за добу](https://ua.korrespondent.net/ukraine/4885627-henshtab-nazvav-vtraty-armii-rosii-za-dobu)<br>
 05:58 [Підсумки 10.06: Нові рішення щодо ППО і успіхи ЗСУ](https://ua.korrespondent.net/ukraine/4885542-pidsumky-1006-novi-rishennia-schodo-ppo-i-uspikhy-zsu)<br>
 05:28 [У Криму під час нічної атаки пошкоджено два мости](https://ua.korrespondent.net/world/russia/4885624-u-krymu-pid-chas-nichnoi-ataky-poshkodzheno-dva-mosty)<br>
@@ -16,15 +33,56 @@ Previous day: [2026-06-10](./data/2026-06-10.md)
 00:57 [Трамп радився з нацбезпекою щодо ударів по Ірану](https://ua.korrespondent.net/world/4885602-tramp-radyvsia-z-natsbezpekoui-schodo-udariv-po-iranu)<br>
 00:26 [США завдали нових ударів по багатьох цілях в Ірані](https://ua.korrespondent.net/world/4885606-ssha-zavdaly-novykh-udariv-po-bahatokh-tsiliakh-v-irani)<br>
 
+## as.com
+09:45 [Barcelona - Tenerife: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/barcelona-tenerife-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
+07:38 [En el último segundo y tras remontar 29 puntos: la canasta de los Knicks que ya es historia de la NBA](https://as.com/baloncesto/videos/en-el-ultimo-segundo-y-tras-remontar-29-puntos-la-canasta-de-los-knicks-que-ya-es-historia-de-la-nba-f202606-v/)<br>
+
 ## www.elperiodico.com
+11:08 [Ni calor ni frío: el Meteocat avanza la predicción del tiempo para este jueves](https://www.elperiodico.com/es/tiempo/20260611/tiempo-cataluna-frio-calor-meteocat-dv-loc-131270575)<br>
+11:00 [12 policías heridos y 16 detenidos en segunda noche de disturbios en Irlanda del Norte](https://www.elperiodico.com/es/internacional/20260611/policias-heridos-detenidos-segunda-noche-disturbios-irlanda-norte-131274367)<br>
+11:00 [Las olas de calor disparan las muertes en personas mayores un 85%: el Imserso urge a tomar medidas](https://www.elperiodico.com/es/sociedad/20260611/olas-calor-muertes-personas-mayores-131250531)<br>
+11:00 [Arnau Ramió, experto en IA: "Pensar que la inteligencia artificial no eliminará puestos de trabajo me parece imposible"](https://www.elperiodico.com/es/sociedad/20260611/arnau-ramio-experto-ia-eliminacion-puestos-de-trabajo-futuro-dv-131233520)<br>
+10:59 [Céline Cousteau: "Cuando el Mediterráneo sufre, las consecuencias terminan afectándonos a todos"](https://www.elperiodico.com/es/economia/20260611/celine-cousteau-mediterraneo-sufre-consecuencias-131274292)<br>
+10:55 [¿Cuándo salen las notas de selectividad en Catalunya?](https://www.elperiodico.com/es/sociedad/20260611/cuando-salen-notas-selectividad-cataluna-131273308)<br>
+10:53 [Puigdemont, ERC y la CUP exigen responsabilidades por la "represión" contra los cantantes con 'estelades' expulsados de la Sagrada Família](https://www.elperiodico.com/es/politica/20260611/papa-leon-barcelona-puigdemont-cantantes-expulsados-sagrada-familia-131272471)<br>
+10:51 [Stoneweg anticipa un cambio de ciclo en el 22@ y se lanza a construir el primer edificio de oficinas en años](https://www.elperiodico.com/es/economia/20260611/stoneweg-oficinas-barcelona-22-131273624)<br>
+10:48 [Identificados al menos cinco menores inimputables por agredir sexualmente a una compañera de 12 años en Burgos](https://www.elperiodico.com/es/sucesos/20260611/identificados-cinco-menores-inimputables-agredir-131273438)<br>
+10:40 [Salir de Barcelona para ahorrar en vivienda cada vez compensa menos, según un informe](https://www.elperiodico.com/es/vivienda/20260611/salir-barcelona-ahorrar-vivienda-compensa-menos-informe-idealista-dv-loc-131019056)<br>
+10:38 [Buscan a un adolescente de 16 años desaparecido en el mar frente a la costa de Roses](https://www.elperiodico.com/es/sociedad/20260611/buscan-adolescente-16-anos-desaparecido-131273092)<br>
+10:35 [Segunda noche de tensión en Belfast](https://www.elperiodico.com/es/videos/internacional/segunda-noche-tension-belfast-video/131272732.shtml)<br>
+10:28 [Hacienda tiene un plazo para reclamar determinadas deudas: cuándo prescriben y qué puede hacer que el contador vuelva a cero](https://www.elperiodico.com/es/economia/20260611/hacienda-plazo-reclamar-deudas-cuando-prescriben-dv-131271650)<br>
+10:24 [Oriol Guixà recibe la máxima distinción mundial del sector del cobre](https://www.elperiodico.com/es/economia/20260611/oriol-guixa-recibe-maxima-distincion-131168959)<br>
+10:21 [Un pueblo de 165 habitantes es el segundo municipio de Catalunya con mayor población con estudios superiores](https://www.elperiodico.com/es/catalunya/20260611/municipios-catalunya-mas-poblacion-estudios-superiores-dv-131228830)<br>
+10:10 [El papa León XIV se despide de Barcelona y ya vuela hacia Canarias](https://www.elperiodico.com/es/videos/sociedad/papa-leon-xiv-despide-barcelona-vuela-canarias-video/131271529.shtml)<br>
+10:00 [Crítica de 'La memòria de les papallones': la relación entre una niña adoptada, que conserva recuerdos de su reciente pasado, y su nueva madre](https://www.elperiodico.com/es/ocio-y-cultura/20260611/critica-memoria-les-papallones-relacion-131260817)<br>
+09:50 [Duval revela que dimitió de Sumar por Hernández y ratifica las denuncias por "maltrato laboral": "Pasó a tratarme como una enemiga"](https://www.elperiodico.com/es/politica/20260611/duval-revela-dimitio-sumar-hernandez-131271218)<br>
+09:42 [El papa León XIV se despide de Barcelona](https://www.elperiodico.com/es/fotos/sociedad/papa-leon-xiv-despide-barcelona-fotos-131270917)<br>
+09:40 [EEUU e Irán vuelven a enzarzarse en ataques cruzados y dejan la tregua en papel mojado](https://www.elperiodico.com/es/internacional/20260611/eeuu-iran-vuelven-enzarzarse-ataques-tregua-papel-mojado-131270944)<br>
+09:30 [Partituras del coro de la Sagrada Família ocultaban 'estelades' y un manual independentista de boicot](https://www.elperiodico.com/es/sucesos/20260611/esteladas-manual-independentista-boicot-partituras-coro-sagrada-familia-papa-leon-xiv-131269411)<br>
+09:30 [Nuria Roure, psicóloga experta en sueño, sobre  cómo duermen las personas de más de 45 años: "Cuando queremos salir una noche a cenar..."](https://www.elperiodico.com/es/salud/20260611/sueno-adultos-dormir-mal-psicologa-nuria-roure-dv-130902252)<br>
+09:18 [La nueva cercanía: ¿por qué las compañías energéticas vuelven al barrio en plena era digital?](https://www.elperiodico.com/es/sociedad/20260611/nueva-cercania-companias-energeticas-vuelven-bc-131270166)<br>
+09:18 ["Vamos a limpiar el río de maricones": denuncian brutales agresiones homófobas en una zona de 'cruising' de Valencia](https://www.elperiodico.com/es/sociedad/20260611/limpiar-rio-maricones-denuncian-brutales-131270048)<br>
+09:10 [León XIV deja Catalunya tras dos intensos días de actos multitudinarios](https://www.elperiodico.com/es/sociedad/20260611/leon-xiv-deja-catalunya-intensos-eventos-rumbo-canarias-131269662)<br>
+09:06 [Illa celebra que la visita del Papa haya servido para proyectar "Catalunya al mundo"](https://www.elperiodico.com/es/politica/20260611/salvador-illa-visita-papa-leon-balance-catalunya-mundo-papel-131268872)<br>
+09:06 [Taylor Swift, Adam Sandler, Jimmy Fallon... Los famosos llenan el Madison y enloquecen con la remontada de los Knicks ante los Spurs en la final de la NBA](https://www.elperiodico.com/es/deportes/20260611/taylor-swift-fila-famosos-animan-knicks-final-nba-madison-131269382)<br>
+09:00 [Crítica de 'Eleonora Duse, la divina': Valeria Bruni Tedeschi encarna entre la extraversión y la estridencia a una de las actrices de teatro más prestigiosas](https://www.elperiodico.com/es/ocio-y-cultura/20260611/critica-eleonora-duse-divina-valeria-131260748)<br>
+09:00 [Oriva Therapeutics nombra a Agnès Arbat como CEO para acelerar sus tratamientos contra la endometriosis y los miomas uterinos](https://www.elperiodico.com/es/economia/20260611/oriva-therapeutics-nombra-agnes-arbat-131244445)<br>
+08:50 [Detenido el productor de cine Xavier Atance por agredir sexualmente a tres trabajadoras](https://www.elperiodico.com/es/sucesos/20260611/detenido-productor-cine-xavier-atance-agresiones-sexuales-trabajadoras-131268893)<br>
+08:13 [El Madison se vuelve loco con una remontada inimaginable de los Knicks: "Es la canasta más icónica de la historia de Nueva York"](https://www.elperiodico.com/es/deportes/20260611/knicks-remontada-san-antonio-spurs-final-nba-131268210)<br>
+08:05 [Juzgan a un empresario agrícola por acosar y amenazar a su hija, que asumió el control del negocio: “Te destruiré la empresa, habrá sangre”](https://www.elperiodico.com/es/sucesos/20260611/juzgan-empresario-agricola-acosar-amenazar-hija-negocio-empresa-dv-131233632)<br>
+08:00 [Aurelio Rojas, cardiólogo: "El ibuprofeno es uno de los peores fármacos para el corazón"](https://www.elperiodico.com/es/salud/20260611/ibuprofeno-efectos-secundarios-cardiologia-aurelio-rojas-dv-130890935)<br>
+07:30 [Visita del Papa a España, en directo | Última hora de la salida de León XIV de Barcelona rumbo a Canarias](https://www.elperiodico.com/es/sociedad/20260611/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248)<br>
+07:20 [Venga Monjas, 20 años de guasa vistos a través de sus colaboradores: "Al principio, solo ves a dos idiotas; después a dos deportistas de élite en la primera división del absurdo"](https://www.elperiodico.com/es/ocio-y-cultura/20260611/venga-monjas-20-anos-guasa-colaboradores-131229467)<br>
 06:02 [Más mujeres que nunca en los departamentos creativos, pero el 75% de las direcciones siguen siendo masculinas](https://www.elperiodico.com/es/economia/20260611/mujeres-diseno-direccion-arte-brecha-de-genero-empresas-131264550)<br>
 06:01 [Hipotecas más caras, menos inversión y un posible freno al crecimiento: los tres frentes en los que impacta la subida de tipos del BCE](https://www.elperiodico.com/es/economia/20260611/hipotecas-caras-inversion-posible-freno-131266139)<br>
 06:01 [John Hoffman defiende el impacto del MWC en Barcelona: "¿Vale la pena convivir una semana por 600 millones? No es un mal intercambio"](https://www.elperiodico.com/es/tecnologia/20260611/john-hoffman-presidente-gsma-barcelona-mwc-mobile-world-congress-impacto-congreso-ia-tecnologia-5g-131179636)<br>
 06:01 [El PP renuncia a llamar a las hijas de Zapatero al Senado pese a haber pedido su imputación](https://www.elperiodico.com/es/politica/20260611/pp-seguira-llamar-hijas-zapatero-131251441)<br>
 06:01 [Comuns, ERC y CUP se movilizan para saber el coste exacto de la visita del Papa a Catalunya](https://www.elperiodico.com/es/politica/20260611/coste-visita-papa-leon-catalunya-barcelona-comuns-erc-cup-131238549)<br>
 06:01 [El Gobierno aprobará el techo de gasto para los Presupuestos en julio y acelera el desbloqueo de leyes estrella](https://www.elperiodico.com/es/politica/20260611/gobierno-techo-gasto-presupuestos-leyes-131250905)<br>
+06:01 [La obesidad, puerta de entrada al hígado graso](https://www.elperiodico.com/es/salud/20260611/obesidad-puerta-entrada-higado-graso-bc-131266132)<br>
 06:01 [España seguirá desarrollando una nube de combate en espera de un caza europeo, mientras crecen las prisas de los militares](https://www.elperiodico.com/es/internacional/20260611/espana-seguira-desarrollando-nube-combate-caza-europeo-prisas-militares-131266130)<br>
 06:01 [El Parlament abrirá los actos de su milenario con la izada de la gran 'senyera' la víspera de la Diada](https://www.elperiodico.com/es/politica/20260611/parlament-cataluna-actos-milenario-izada-senyera-diada-rull-131205222)<br>
+06:01 [Antoni Gaudí, un genio "enamorado de sus raíces" que dejó un legado del Mediterráneo al Pirineo](https://www.elperiodico.com/es/tarragona/20260611/antoni-gaudi-primer-universal-embajador-camp-tarragona-131047770)<br>
 06:01 [Iker Alzola: "La arquitectura puede dar un punto de pausa en una ciudad vertiginosa"](https://www.elperiodico.com/es/ocio-y-cultura/20260611/iker-alzola-arquitectura-barcelona-bc-131144699)<br>
 06:01 [Barcelona augura un 'boom' de turismo cultural asiático atraído por Gaudí tras el clímax de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20260611/barcelona-augura-boom-turismo-cultural-gaudi-sagrada-familia-131059247)<br>
 06:01 [Arte escénico y salud mental: "La emoción es cierta, no encarcarada ni de 'fast food'"](https://www.elperiodico.com/es/ser-feliz/20260611/arte-escenico-salud-mental-emocion-130896077)<br>
