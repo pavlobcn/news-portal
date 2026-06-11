@@ -1,5 +1,284 @@
 [
   {
+    "title": "В Україні від початку року зафіксували 12 випадків ботулізму",
+    "link": "https://ua.korrespondent.net/ukraine/4885629-v-ukraini-vid-pochatku-roku-zafiksuvaly-12-vypadkiv-botulizmu",
+    "pubDate": "2026-06-11 06:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457116.jpg\">Ботулотоксин неможливо визначити за смаком, запахом чи зовнішнім виглядом продукту, зазначили в МОЗ.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Генштаб назвав втрати армії Росії за добу",
+    "link": "https://ua.korrespondent.net/ukraine/4885627-henshtab-nazvav-vtraty-armii-rosii-za-dobu",
+    "pubDate": "2026-06-11 06:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457099.jpg\">Минулої доби ЗСУ ліквідували 1310 окупантів. Знищено шість танків, 10 бронемашин, 74 артсистеми, дві РСЗВ, дві ППО, дев'ять НРК і 2120 дронів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más mujeres que nunca en los departamentos creativos, pero el 75% de las direcciones siguen siendo masculinas",
+    "link": "https://www.elperiodico.com/es/economia/20260611/mujeres-diseno-direccion-arte-brecha-de-genero-empresas-131264550",
+    "pubDate": "2026-06-11 06:02:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Mientras las mujeres ya son mayoría en los estudios de publicidad y diseño, tres de cada cuatro puestos de dirección creativa siguen ocupados por hombres</h2><h2 class=\"item\">La segunda edición de (In)visibles, impulsada por Juno House, pone el foco en las barreras que persisten en el ascenso profesional femenino STEAM</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260514/juno-house-reune-gobierno-empresas-130190527\">Juno House reúne a representantes políticos, empresas y directivos en Barcelona para lanzar (In)visibles, su proyecto más ambicioso</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El consejo regulador de la DO Cava elige este jueves nuevo presidente entre cinco candidatos",
+    "link": "https://www.elperiodico.com/es/economia/20260611/consejo-regulador-do-cava-elige-131261917",
+    "pubDate": "2026-06-11 06:02:15",
+    "category": "",
+    "description": "<h2>Es la primera vez que concurren tantos aspirantes al cargo, y lo hacen en un momento especialmente complicado para el sector, que el año pasado vio reducidas sus ventas en un 12,8% </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260508/do-cava-renueva-consejo-regulador-elegir-presidente-11junio-129991339\" target=\"_blank\">La DO Cava renueva su consejo regulador y se prepara para elegir nuevo presidente</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La crisis en Sumar con las denuncias por acoso laboral enfrían la candidatura de Lara Hernández para la reelección",
+    "link": "https://www.elperiodico.com/es/politica/20260611/crisis-sumar-denuncias-acoso-laboral-131258614",
+    "pubDate": "2026-06-11 06:01:48",
+    "category": "",
+    "description": "<h2>La implosión de la ejecutiva con la dimisión de dos miembros siembra dudas sobre la continuidad a coordinadora en la Asamblea del 11 de julio</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260609/secretaria-organizacion-sumar-laura-moreno-131181626\" target=\"_blank\">La secretaria de Organización de Sumar deja sus cargos con denuncias de fraude y entre críticas a Lara Hernández</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Hipotecas más caras, menos inversión y un posible freno al crecimiento: los tres frentes en los que impacta la subida de tipos del BCE",
+    "link": "https://www.elperiodico.com/es/economia/20260611/hipotecas-caras-inversion-posible-freno-131266139",
+    "pubDate": "2026-06-11 06:01:40",
+    "category": "",
+    "description": "<h2>Los expertos advierten de que lo peor de la subida para España es el momento en el que llega, con la economía dando señales de agotamiento</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Leire Díez buscó \"anular\" el juicio por narcotráfico contra el abogado de Puigdemont para mantener el apoyo de Junts al PSOE",
+    "link": "https://www.elperiodico.com/es/politica/20260611/trama-cerdan-leire-puigdemont-boye-minanco-narcotrafico-131252903",
+    "pubDate": "2026-06-11 06:01:35",
+    "category": "",
+    "description": "<h2>\"Si Gonzalo [Boye] tiene tanta mano y es tan clave, cuando queráis le como yo la cabeza y entra por el aro\", se ofreció el abogado Jacobo Teijelo a Leire Díez, que respondió: \"Pues cómesela ya, porque todo lo que está pasando es por su culpa\"</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "John Hoffman defiende el impacto del MWC en Barcelona: \"¿Vale la pena convivir una semana por 600 millones? No es un mal intercambio\"",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260611/john-hoffman-presidente-gsma-barcelona-mwc-mobile-world-congress-impacto-congreso-ia-tecnologia-5g-131179636",
+    "pubDate": "2026-06-11 06:01:35",
+    "category": "",
+    "description": "<h2>La cara visible del MWC ejercerá próximamente como presidente de la empresa que organiza el mayor congreso de la capital catalana y que representa a la industria mundial de las telecomunicaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP renuncia a llamar a las hijas de Zapatero al Senado pese a haber pedido su imputación",
+    "link": "https://www.elperiodico.com/es/politica/20260611/pp-seguira-llamar-hijas-zapatero-131251441",
+    "pubDate": "2026-06-11 06:01:32",
+    "category": "",
+    "description": "<h2>Los de Alberto Núñez Feijóo siguen midiendo con cautela los pasos de su ofensiva política por los escándalos que salpican al Gobierno </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260608/acusaciones-populares-coordina-pp-piden-131153695\" target=\"_blank\">Las acusaciones populares que coordina el PP piden imputar a las hijas de Zapatero</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El CIS publica su primera encuesta tras la imputación de Zapatero y la investigación de la trama de Leire Díez",
+    "link": "https://www.elperiodico.com/es/politica/20260611/encuesta-cis-junio-2026-elecciones-generales-131250039",
+    "pubDate": "2026-06-11 06:01:32",
+    "category": "",
+    "description": "<h2>El sondeo de mayo mantenía en cabeza al PSOE, pero con PP y Vox al alza y Sumar en su marca mínima de la legislatura</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Comuns, ERC y CUP se movilizan para saber el coste exacto de la visita del Papa a Catalunya",
+    "link": "https://www.elperiodico.com/es/politica/20260611/coste-visita-papa-leon-catalunya-barcelona-comuns-erc-cup-131238549",
+    "pubDate": "2026-06-11 06:01:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Los tres partidos piden documentación e informes sobre el impacto en las arcas públicas de la presencia de León XIV  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/papa-leon-xiv-barcelona-agenda-actos-papamovil-sagrada-familia-ultima-hora-directo-131162679\" target=\"_blank\">DIRECTO | Visita del Papa: Últimas horas de León XIV en Catalunya antes de partir hacia Canarias</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260609/visita-papa-leon-generalitat-coste-catalunya-131193827\" target=\"_blank\">La Generalitat destina 2,3 millones a la visita del Papa a Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/viaje-papa-espana-costara-25millones-130923552\" target=\"_blank\">El viaje apostólico del Papa a España costará 25 millones de euros: casi la mitad lo financian \"benefactores\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno aprobará el techo de gasto para los Presupuestos en julio y acelera el desbloqueo de leyes estrella",
+    "link": "https://www.elperiodico.com/es/politica/20260611/gobierno-techo-gasto-presupuestos-leyes-131250905",
+    "pubDate": "2026-06-11 06:01:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Sánchez busca retomar la iniciativa política ante el cerco judicial y cubrir la agenda hasta el parón estival</h2><h2 class=\"item\">En Moncloa se plantean alargar la pausa veraniega al máximo, barajando estar hasta cinco semanas sin reunir al Consejo de Ministros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260608/sanchez-comparecera-24-junio-congreso-131172259\" target=\"_blank\">Sánchez comparecerá el 24 de junio en el Congreso por las causas judiciales</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"El Mundial ya no es lo que era\": de Naranjito al VAR, así ha cambiado el fútbol de un siglo a otro",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/mundial-naranjito-var-cambiado-futbol-131146789",
+    "pubDate": "2026-06-11 06:01:28",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"El Mundial ya no es lo que era\": de Naranjito al VAR, así ha cambiado el fútbol en estos últimos 40 años",
+    "link": "https://www.elperiodico.com/es/deportes/mundial-futbol-historia-cambios-2026-1982-131059395-rm/index.html",
+    "pubDate": "2026-06-11 06:01:27",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "L’Hospitalet encara el desalojo de una pescadería \"ocupada\" en el mercado de Collblanc",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/hospitalet-encara-desalojo-pescaderia-ocupada-mercado-collblanc-131210256",
+    "pubDate": "2026-06-11 06:01:27",
+    "category": "",
+    "description": "<h2>El consistorio prevé recuperar la parada próximamente, tras desestimar el recurso de los gestores</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260202/paradistas-mercado-lhospitalet-denuncian-ocupacion-pescaderia-ayuntamiento-denego-permisos-126355143\" target=\"_blank\">Los paradistas de un mercado de L'Hospitalet denuncian la \"ocupación\" de una pescadería a la que el Ayuntamiento denegó permisos</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "España seguirá desarrollando una nube de combate en espera de un caza europeo, mientras crecen las prisas de los militares",
+    "link": "https://www.elperiodico.com/es/internacional/20260611/espana-seguira-desarrollando-nube-combate-caza-europeo-prisas-militares-131266130",
+    "pubDate": "2026-06-11 06:01:23",
+    "category": "",
+    "description": "<h2>Cinco países de Europa, además de España, necesitan incorporaciones urgentes de nuevos aviones en sus flotas de guerra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La DGT estudia multas más altas para los conductores con mayores ingresos",
+    "link": "https://www.elperiodico.com/es/motor/20260611/dgt-estudia-multas-altas-conductores-mayor-ingreso-131052453",
+    "pubDate": "2026-06-11 06:01:23",
+    "category": "",
+    "description": "<h2>El organismo analiza un sistema de sanciones progresivas en función de la renta, una medida que ya se aplica en varios países europeos y que podría encarecer notablemente las multas para las rentas más elevadas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Parlament abrirá los actos de su milenario con la izada de la gran 'senyera' la víspera de la Diada",
+    "link": "https://www.elperiodico.com/es/politica/20260611/parlament-cataluna-actos-milenario-izada-senyera-diada-rull-131205222",
+    "pubDate": "2026-06-11 06:01:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Rull quiere aprovechar la solemnidad de la cita, que en 2025 reunió a varios expresidents, para iniciar la conmemoración de los 1.000 años de las asambleas de Paz y Tregua de Dios </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250821/parlament-catalunya-celebrara-milenario-2027-josep-rull-120813109\" target=\"_blank\">El Parlament de Catalunya celebrará su milenario en 2027</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251111/milenario-parlament-manel-vila-mutllo-quien-es-123594390\" target=\"_blank\">Manel Vila, el veterano impulsor de la paz y la cooperación desde Barcelona que dirigirá el milenario del Parlament</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iker Alzola: \"La arquitectura puede dar un punto de pausa en una ciudad vertiginosa\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/iker-alzola-arquitectura-barcelona-bc-131144699",
+    "pubDate": "2026-06-11 06:01:19",
+    "category": "",
+    "description": "<h2>El arquitecto recoge el concepto de flexibilidad estructural de Gaudí para aplicarlo desde la óptica sostenible: \"Un edificio pensado para evolucionar y adaptarse a los nuevos usos tendrá una vida útil más larga\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona augura un 'boom' de turismo cultural asiático atraído por Gaudí tras el clímax de la Sagrada Família",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/barcelona-augura-boom-turismo-cultural-gaudi-sagrada-familia-131059247",
+    "pubDate": "2026-06-11 06:01:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Seis de sus obras figuran entre los 10 monumentos más visitados de la ciudad, donde un 80,6% de turistas van a ver el templo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260604/visita-papa-barcelona-costes-generalitat-ayuntamiento-131004687\">Cómo se reparten los gastos de la visita del Papa a Barcelona: la Generalitat y el ayuntamiento pagarán parte de los actos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260602/papa-leon-xiv-si-hablara-catalan-bendicion-torre-jesus-sagrada-familia-barcelona-130946140\">El Papa sí hablará en catalán en la bendición de la torre de Jesús de la Sagrada Família</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Arte escénico y salud mental: \"La emoción es cierta, no encarcarada ni de 'fast food'\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260611/arte-escenico-salud-mental-emocion-130896077",
+    "pubDate": "2026-06-11 06:01:18",
+    "category": "",
+    "description": "<h2 class=\"item\">Pau Masaló, director: \"Los teatros lo hacen un poco como una obligación y deberíamos conseguir que fuera una realidad por si sola\"</h2><h2 class=\"item\">Javier Jareño, cantautor: \"Espero que haya un momento en que hablar de emociones, de abismos propios, no sea singular sino mayoritario\"</h2><h2 class=\"item\">Claudia Simone, creadora brasileña: \"Yo cuento mi historia, que es la de otras personas, y esto tiene un poder muy fuerte\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 10.06: Нові рішення щодо ППО і успіхи ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4885542-pidsumky-1006-novi-rishennia-schodo-ppo-i-uspikhy-zsu",
+    "pubDate": "2026-06-11 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456564.jpg\">Досягнуто нових рішень щодо ППО для України; ЗСУ мають успіхи на двох напрямках фронту. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, en directo, última hora del conflicto",
+    "link": "https://www.elperiodico.com/es/internacional/20260611/guerra-ucrania-rusia-directo-ultima-126605559",
+    "pubDate": "2026-06-11 05:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: última hora de la situación en Oriente Medio",
+    "link": "https://www.elperiodico.com/es/internacional/20260611/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-06-11 05:38:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Криму під час нічної атаки пошкоджено два мости",
+    "link": "https://ua.korrespondent.net/world/russia/4885624-u-krymu-pid-chas-nichnoi-ataky-poshkodzheno-dva-mosty",
+    "pubDate": "2026-06-11 05:28:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457052.jpg\">Пожежі зафіксували в Сімферополі та Севастополі, де ураженено Козачу, Комишеву та Стрілецьку бухти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибори у Вірменії: Трамп привітав переможця",
+    "link": "https://ua.korrespondent.net/world/4885622-vybory-u-virmenii-tramp-pryvitav-peremozhtsia",
+    "pubDate": "2026-06-11 04:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457021.jpg\">Лідер США пишається тим, що підтримав прем'єр-міністра Вірменії у його прагненні переобратися і висловив упевненість у блискучих перспективах країни.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Пакистані розбився військовий гелікоптер Мі-17",
+    "link": "https://ua.korrespondent.net/world/4885620-u-pakystani-rozbyvsia-viiskovyi-helikopter-mi-17",
+    "pubDate": "2026-06-11 04:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457005.jpg\">Через \"технічну несправність на борту\" загинули всі члени екіпажу, які були у гелікоптері російського виробництва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп анонсував припинення ударів по Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4885618-tramp-anonsuvav-prypynennia-udariv-po-iranu-zmi",
+    "pubDate": "2026-06-11 03:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456974.jpg\">За твердженням президента США, іранські офіційні особи нібито попросили його припинити бомбардування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ завдала по Полтаві масованого удару балістикою",
+    "link": "https://ua.korrespondent.net/ukraine/4885616-rf-zavdala-po-poltavi-masovanoho-udaru-balistykoui",
+    "pubDate": "2026-06-11 03:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456958.jpg\">На тлі оголошеної повітряної ракетної тривоги в Полтаві пролунали потужні вибухи. Дещо згодом обласному центру загрожував реактивний БпЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стубб відмовився представляти ЄС у переговорах із Путіним",
+    "link": "https://ua.korrespondent.net/world/4885614-stubb-vidmovyvsia-predstavliaty-yes-u-perehovorakh-iz-putinym",
+    "pubDate": "2026-06-11 02:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456927.jpg\">Президента Фінляндії вважали в Україні вдалим кандидатом для ведення перемовин з Кремлем завдяки його дипломатичному досвіду.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран заявив про перекриття Ормузу через атаки США",
+    "link": "https://ua.korrespondent.net/world/4885612-iran-zaiavyv-pro-perekryttia-ormuzu-cherez-ataky-ssha",
+    "pubDate": "2026-06-11 02:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4456911.jpg\">Тегеран попередив, що будь-яке судно, яке намагатиметься пройти через Ормузьку протоку, вважатиметься для іранських військових мішенню і буде атакованим. У CENTCOM спростували перекриття протоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Росії дрони атакували Афіпський НПЗ - OSINT",
     "link": "https://ua.korrespondent.net/world/russia/4885610-u-rosii-drony-atakuvaly-afipskyi-npz-OSINT",
     "pubDate": "2026-06-11 01:57:00",

@@ -1,14 +1,35 @@
-# News for 2026-06-11 02:06
+# News for 2026-06-11 06:59
 
 Previous day: [2026-06-10](./data/2026-06-10.md)
 
 ## ua.korrespondent.net
+06:22 [Генштаб назвав втрати армії Росії за добу](https://ua.korrespondent.net/ukraine/4885627-henshtab-nazvav-vtraty-armii-rosii-za-dobu)<br>
+05:58 [Підсумки 10.06: Нові рішення щодо ППО і успіхи ЗСУ](https://ua.korrespondent.net/ukraine/4885542-pidsumky-1006-novi-rishennia-schodo-ppo-i-uspikhy-zsu)<br>
+05:28 [У Криму під час нічної атаки пошкоджено два мости](https://ua.korrespondent.net/world/russia/4885624-u-krymu-pid-chas-nichnoi-ataky-poshkodzheno-dva-mosty)<br>
+04:26 [У Пакистані розбився військовий гелікоптер Мі-17](https://ua.korrespondent.net/world/4885620-u-pakystani-rozbyvsia-viiskovyi-helikopter-mi-17)<br>
+03:57 [Трамп анонсував припинення ударів по Ірану - ЗМІ](https://ua.korrespondent.net/world/4885618-tramp-anonsuvav-prypynennia-udariv-po-iranu-zmi)<br>
+03:25 [РФ завдала по Полтаві масованого удару балістикою](https://ua.korrespondent.net/ukraine/4885616-rf-zavdala-po-poltavi-masovanoho-udaru-balistykoui)<br>
+02:58 [Стубб відмовився представляти ЄС у переговорах із Путіним](https://ua.korrespondent.net/world/4885614-stubb-vidmovyvsia-predstavliaty-yes-u-perehovorakh-iz-putinym)<br>
+02:26 [Іран заявив про перекриття Ормузу через атаки США](https://ua.korrespondent.net/world/4885612-iran-zaiavyv-pro-perekryttia-ormuzu-cherez-ataky-ssha)<br>
 01:57 [У Росії дрони атакували Афіпський НПЗ - OSINT](https://ua.korrespondent.net/world/russia/4885610-u-rosii-drony-atakuvaly-afipskyi-npz-OSINT)<br>
 01:28 ["Флеш" пояснив причини атак України на російські Чебоксари](https://ua.korrespondent.net/ukraine/4885608-flesh-poiasnyv-prychyny-atak-ukrainy-na-rosiiski-cheboksary)<br>
 00:57 [Трамп радився з нацбезпекою щодо ударів по Ірану](https://ua.korrespondent.net/world/4885602-tramp-radyvsia-z-natsbezpekoui-schodo-udariv-po-iranu)<br>
 00:26 [США завдали нових ударів по багатьох цілях в Ірані](https://ua.korrespondent.net/world/4885606-ssha-zavdaly-novykh-udariv-po-bahatokh-tsiliakh-v-irani)<br>
 
 ## www.elperiodico.com
+06:02 [Más mujeres que nunca en los departamentos creativos, pero el 75% de las direcciones siguen siendo masculinas](https://www.elperiodico.com/es/economia/20260611/mujeres-diseno-direccion-arte-brecha-de-genero-empresas-131264550)<br>
+06:01 [Hipotecas más caras, menos inversión y un posible freno al crecimiento: los tres frentes en los que impacta la subida de tipos del BCE](https://www.elperiodico.com/es/economia/20260611/hipotecas-caras-inversion-posible-freno-131266139)<br>
+06:01 [John Hoffman defiende el impacto del MWC en Barcelona: "¿Vale la pena convivir una semana por 600 millones? No es un mal intercambio"](https://www.elperiodico.com/es/tecnologia/20260611/john-hoffman-presidente-gsma-barcelona-mwc-mobile-world-congress-impacto-congreso-ia-tecnologia-5g-131179636)<br>
+06:01 [El PP renuncia a llamar a las hijas de Zapatero al Senado pese a haber pedido su imputación](https://www.elperiodico.com/es/politica/20260611/pp-seguira-llamar-hijas-zapatero-131251441)<br>
+06:01 [Comuns, ERC y CUP se movilizan para saber el coste exacto de la visita del Papa a Catalunya](https://www.elperiodico.com/es/politica/20260611/coste-visita-papa-leon-catalunya-barcelona-comuns-erc-cup-131238549)<br>
+06:01 [El Gobierno aprobará el techo de gasto para los Presupuestos en julio y acelera el desbloqueo de leyes estrella](https://www.elperiodico.com/es/politica/20260611/gobierno-techo-gasto-presupuestos-leyes-131250905)<br>
+06:01 [España seguirá desarrollando una nube de combate en espera de un caza europeo, mientras crecen las prisas de los militares](https://www.elperiodico.com/es/internacional/20260611/espana-seguira-desarrollando-nube-combate-caza-europeo-prisas-militares-131266130)<br>
+06:01 [El Parlament abrirá los actos de su milenario con la izada de la gran 'senyera' la víspera de la Diada](https://www.elperiodico.com/es/politica/20260611/parlament-cataluna-actos-milenario-izada-senyera-diada-rull-131205222)<br>
+06:01 [Iker Alzola: "La arquitectura puede dar un punto de pausa en una ciudad vertiginosa"](https://www.elperiodico.com/es/ocio-y-cultura/20260611/iker-alzola-arquitectura-barcelona-bc-131144699)<br>
+06:01 [Barcelona augura un 'boom' de turismo cultural asiático atraído por Gaudí tras el clímax de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20260611/barcelona-augura-boom-turismo-cultural-gaudi-sagrada-familia-131059247)<br>
+06:01 [Arte escénico y salud mental: "La emoción es cierta, no encarcarada ni de 'fast food'"](https://www.elperiodico.com/es/ser-feliz/20260611/arte-escenico-salud-mental-emocion-130896077)<br>
+05:39 [Guerra Ucrania - Rusia, en directo, última hora del conflicto](https://www.elperiodico.com/es/internacional/20260611/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+05:38 [Guerra de Irán, en directo: última hora de la situación en Oriente Medio](https://www.elperiodico.com/es/internacional/20260611/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
 01:04 [El Ejército iraní anuncia que cierra el estrecho de Ormuz "por completo"](https://www.elperiodico.com/es/internacional/20260611/ejercito-irani-anuncia-cierra-estrecho-ormuz-completo-131264403)<br>
 00:13 [La portada de EL PERIÓDICO del 11 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260611/portada-periodico-11-junio-2026-131263898)<br>
 00:04 [Donde nace el universo de Gaudí](https://www.elperiodico.com/es/barcelona/20260611/nace-universo-gaudi-131160791)<br>
