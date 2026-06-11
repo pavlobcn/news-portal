@@ -1,5 +1,725 @@
 [
   {
+    "title": "Tensión en la Asamblea de Madrid: expulsado un diputado del PSOE tras un debate sobre ETA",
+    "link": "https://www.elperiodico.com/es/videos/politica/tension-asamblea-madrid-expulsado-diputado-psoe/131301206.shtml",
+    "pubDate": "2026-06-11 18:39:17",
+    "category": "",
+    "description": "El debate sobre una proposición no de ley para instar al Gobierno a endurecer el acceso de los condenados por terrorismo al tercer grado deriva en una discusión sobre las víctimas que termina con un parlamentario socialista expulsado del pleno",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Inspección fiscal abre una investigación a las dos fiscales mencionadas por los investigados de la trama Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260611/inspeccion-fiscal-abre-investigacion-fiscales-131301070",
+    "pubDate": "2026-06-11 18:35:17",
+    "category": "",
+    "description": "<h2>La anterior fiscal superior, Almudena Lastra, tramitó la denuncia que le presentó una de las acusaciones populares en causas contra el Gobierno</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260527/fiscal-superior-madrid-abre-expediente-130701325\" target=\"_blank\">La fiscal superior de Madrid abre expediente contra las dos fiscales mencionadas por los investigados de la trama Zapatero</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Севастополі уражено військовий об'єкт Чорноморського флоту РФ - ВМС",
+    "link": "https://ua.korrespondent.net/ukraine/4885843-u-sevastopoli-urazheno-viiskovyi-obiekt-chornomorskoho-flotu-rf-vms",
+    "pubDate": "2026-06-11 18:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457789.jpg\">Завдано ракетного удару береговим ракетним комплексом Нептун. Внаслідок ураження знищено місця зберігання озброєння та військової техніки Чорноморського флоту РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бернлі виграв суд за право на компенсацію за пониження в класі",
+    "link": "https://ua.korrespondent.net/sport/football/4885842-bernli-vyhrav-sud-za-pravo-na-kompensatsiui-za-ponyzhennia-v-klasi",
+    "pubDate": "2026-06-11 18:34:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457680.jpg\">Англійський клуб у сезоні-2021/22 покинув АПЛ, однак у суді зміг довести, що цього могло не статися, якби штрафні санкції, що стосувалися іншого учасника АПЛ того часу, були застосовані своєчасно.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El disco sorpresa de Ronaldinho: Pitbull, Juan Magán o Sean Paul son algunos de los artistas que colaboran con el exfutbolista",
+    "link": "https://www.elperiodico.com/es/gente/20260611/ronaldinho-musica-disco-sorpresa-pitbull-juan-magan-dv-131294761",
+    "pubDate": "2026-06-11 18:30:50",
+    "category": "",
+    "description": "<h2>El lanzamiento marca también el debut de 'Tu Música' como sello discográfico internacional</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260602/ansu-fati-anuncia-lanzamiento-primer-single-insolito-dv-130948687\">El futbolista Ansu Fati anuncia el lanzamiento de su primer single: \"Es un proyecto muy especial\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260424/casa-ronaldinho-castelldefels-espectacular-cerca-barcelona-dv-129249744\">Entramos en la casa de Ronaldinho en Castelldefels: una espectacular villa de 1,8 millones y 190 metros cuadrados disponible para un alquiler de lujo cerca de Barcelona</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El FMI asesta otro golpe a la eurozona: enfría el crecimiento al 0,9% para 2026 por la guerra en Oriente Próximo",
+    "link": "https://www.elperiodico.com/es/economia/20260611/fmi-asesta-golpe-eurozona-enfria-131300639",
+    "pubDate": "2026-06-11 18:26:07",
+    "category": "",
+    "description": "<h2>La entidad que dirige Kristalina Georgieva empeora el pronóstico para la eurozona apenas dos meses después de la última rebaja </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ambiente en el estadio de Gran Canaria",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ambiente-estadio-gran-canaria-papa-las-palmas/131300529.shtml",
+    "pubDate": "2026-06-11 18:23:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Розбирання підтвердило, що смартфон Трампа - це перефарбований HTC",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4885836-rozbyrannia-pidtverdylo-scho-smartfon-trampa-tse-perefarbovanyi-HTC",
+    "pubDate": "2026-06-11 18:19:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457766.jpg\">Фахівці iFixit виявили, що T1 Phone від Trump Mobile має практично ідентичну конструкцію з HTC U24 Pro, а відмінності між моделями мінімальні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нацбанк почав зміцнювати гривню",
+    "link": "https://ua.korrespondent.net/business/financial/4885838-natsbank-pochav-zmitsnuivaty-hryvnui",
+    "pubDate": "2026-06-11 18:19:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457768.jpg\">На міжбанку американська валюта впала на 19 копійок і тепер перебуває на рівні 45,07-45,10 грн/долар купівля-продаж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У ДТП в Харкові постраждали шестеро людей, серед них троє дітей",
+    "link": "https://ua.korrespondent.net/ukraine/4885840-u-dtp-v-kharkovi-postrazhdaly-shestero-luidei-sered-nykh-troie-ditei",
+    "pubDate": "2026-06-11 18:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457769.jpg\">Сталося зіткнення автомобіля ВАЗ-21099 та мікроавтобуса Mercedes. За фактом аварії розпочато кримінальне провадження.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Así se gestó la cobertura fotográfica de la visita de León XIV y la iluminación de la Sagrada Família",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/asi-se-hizo-cobertura-grafica-elperiodico-visita-leon-xiv-barcelona-131298568",
+    "pubDate": "2026-06-11 18:16:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La pieza revela el trabajo realizado por el equipo de imagen de EL PERIÓDICO para cubrir la visita de León XIV a Barcelona, desde la planificación previa hasta la fotografía final de portada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260611/estreno-audiovisual-seis-viajes-lugares-reconditos-sagrada-familia-131160745\">Estreno audiovisual: seis viajes a los lugares más recónditos de la Sagrada Família</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalonia Hotels reabre el antiguo Gallery como Catalonia Boulevard tras una reforma integral",
+    "link": "https://www.elperiodico.com/es/economia/20260611/catalonia-hotels-reabre-antiguo-gallery-131296131",
+    "pubDate": "2026-06-11 18:12:19",
+    "category": "",
+    "description": "<h2>La cadena barcelonesa consolida su posición como la que más hoteles gestiona en la ciudad condal con la compra, a finales de 2025, de su trigésimo establecimiento en Barcelona</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250226/catalonia-hotels-empresa-ano-familiar-2024-saga-barcelonesa-114555699\">Catalonia Hotels&Resorts, una saga barcelonesa presente en 30 destinos de todo el mundo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dodge Charger вперше виходить на європейський ринок",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4885832-Dodge-Charger-vpershe-vykhodyt-na-yevropeiskyi-rynok",
+    "pubDate": "2026-06-11 18:09:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457756.jpg\">Легендарний американський маслкар вперше стане доступним у Європі як з бензиновими двигунами, так і в повністю електричних версіях.",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Рада поповниться новим депутатом від \"ЄС\"",
+    "link": "https://ua.korrespondent.net/ukraine/4885833-rada-popovnytsia-novym-deputatom-vid-yes",
+    "pubDate": "2026-06-11 18:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457763.jpg\">Левус був обраний на парламентських виборах 2019 року від партії Європейська солідарність 29 номером у виборчому списку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El papa León XIV refuerza en la catedral los lazos con la Iglesia de Canarias: \"Con ustedes soy cristiano y para ustedes, obispo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/papa-refuerza-lazos-iglesia-encuentro-131299730",
+    "pubDate": "2026-06-11 18:07:04",
+    "category": "",
+    "description": "<h2>El Papa León XIV se reúne con el clero diocesano y la vida consagrada para reivindicar la vocación de una Iglesia \"atlántica, fronteriza y en salida\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No publico fotos de mi hija en redes, pero sí lo hacen sus amigos: ¿qué dice la normativa?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/publico-fotos-hija-redes-amigos-131181018",
+    "pubDate": "2026-06-11 18:00:03",
+    "category": "",
+    "description": "<h2>Los menores son titulares de los derechos al honor, a la intimidad y a la propia imagen garantizados por el artículo 18 de la Constitución Española, con una protección especial y cualificada, según palabras del propio Tribunal Supremo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Trambesòs interrumpirá buena parte de sus tres líneas entre el 3 de julio y el 13 de septiembre",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/trambesos-interrumpira-buena-parte-tres-131295178",
+    "pubDate": "2026-06-11 17:57:04",
+    "category": "",
+    "description": "<h2>Las líneas T5 y T6 dejarán de operar entre Ciutadella-Vila Olímpica y Sant Martí de Provençals y la T4 del Trambesòs estará fuera de servicio  entre Verdaguer y Maresme </h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260523/corte-lineas-t4-t5-t6-trambesos-gran-via-diagonal-130533280\" target=\"_blank\">Las obras del Trambesòs cortarán la T4, T5 y T6 desde julio y mantendrán afectadas la T5 y T6 hasta 2027</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cómo se hizo el aplaudido espectáculo de la Sagrada Família y los dos elementos clave que no vio el Papa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/como-se-hizo-espectaculo-sagrada-familia-lo-que-no-vio-el-papa-131298311",
+    "pubDate": "2026-06-11 17:56:37",
+    "category": "",
+    "description": "<h2>El creador barcelonés Igor Cortadellas y su equipo han ideado el ‘show’, en el que también han colaborado 3Cat y la Fundación Endesa</h2><h2>León XIV no pudo ver dos elementos clave del montaje: los drones y los cantores adultos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гороскоп для всіх знаків Зодіаку на 12 червня 2026 року",
+    "link": "https://ua.korrespondent.net/lifestyle/4885806-horoskop-dlia-vsikh-znakiv-zodiaku-na-12-chervnia-2026-roku",
+    "pubDate": "2026-06-11 17:49:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457682.jpeg\">Комусь день допоможе розв’язати фінансові питання, а комусь - нарешті поставити крапку в затяжній ситуації.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Євротрійка передала РФ позицію щодо миру в Україні",
+    "link": "https://ua.korrespondent.net/world/4885828-yevrotriika-peredala-rf-pozytsiui-schodo-myru-v-ukraini",
+    "pubDate": "2026-06-11 17:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457723.jpg\">Європейські дипломати виклали основні положення заяви лідерів країн євротрійки від 7 червня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві затримано іноземця за підозрою у вбивстві двох людей на СТО",
+    "link": "https://ua.korrespondent.net/ukraine/4885824-u-kyievi-zatrymano-inozemtsia-za-pidozroui-u-vbyvstvi-dvokh-luidei-na-sto",
+    "pubDate": "2026-06-11 17:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457719.jpg\">Убиті також є громадянами Грузії, один з них притягався до кримінальної відповідальності за квартирні крадіжки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Волині начальник ТЦК продав \"непридатність\"",
+    "link": "https://ua.korrespondent.net/ukraine/4885823-na-volyni-nachalnyk-ttsk-prodav-neprydatnist",
+    "pubDate": "2026-06-11 17:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457724.jpeg\">Посадовець вимагав та одержав 7 тисяч доларів за організацію схеми з оформлення фіктивної тимчасової непридатності до військової служби.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un reconocimiento a las empresas que ayudan a crecer a la Región",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/reconocimiento-empresas-ayudan-crecer-region-bc-130799768",
+    "pubDate": "2026-06-11 17:35:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Intentos de suicidio, autolesiones y revueltas: así fueron los primeros 48 días en el centro de repatriación de Meloni en Albania",
+    "link": "https://www.elperiodico.com/es/internacional/20260611/centro-detencion-meloni-albania-intentos-suicidio-autolesiones-revueltas-131297384",
+    "pubDate": "2026-06-11 17:30:46",
+    "category": "",
+    "description": "<h2>Documentos internos de la cooperativa gestora, obtenidos tras una larga batalla judicial por la revista 'Altreconomia', revelan por primera vez el horror vivido en el centro de internamiento para migrantes en los primeros días de su funcionamiento</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los mejores y peores helados bombón de supermercado, según la OCU: mucha grasa vegetal y un aditivo presente en todos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/mejores-peores-helados-ocu-supermercados-dv-130970112",
+    "pubDate": "2026-06-11 17:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La organización recomienda priorizar formatos pequeños y revisar la etiqueta antes de comprar, advirtiendo que el precio bajo no siempre compensa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260524/quizz-escoge-helado-verano-almendrado-polo-130547036\">Quiz | ¿Eres más de almendrado o de polo de hielo? Escoge cuál es tu helado favorito</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Muere Eduardo Portela, presidente de la ACB entre 1990 y 2013",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/muere-eduardo-portela-presidente-acb-131296097",
+    "pubDate": "2026-06-11 17:18:07",
+    "category": "",
+    "description": "<h2>El dirigente catalán ha fallecido a los 91 años tras toda una vida dedicada al baloncesto, siendo uno de los grandes impulsores en España</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Жуки\" з Вірменії заблокували імпорт до Росії",
+    "link": "https://ua.korrespondent.net/world/4885819-zhuky-z-virmenii-zablokuvaly-import-do-rosii",
+    "pubDate": "2026-06-11 17:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457703.jpg\">Россільгоспнагляд запроваджує обмеження на ввезення всієї підкарантинної продукції з Вірменії, включаючи місцеві та реекспортовані товари.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Олександрія розстається з двома гравцями",
+    "link": "https://ua.korrespondent.net/sport/football/4885818-oleksandriia-rozstaietsia-z-dvoma-hravtsiamy",
+    "pubDate": "2026-06-11 17:16:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457642.jpg\">Команду покинули хавбек і захисник, термін дії контракту яких закінчився наприкінці сезону і в питанні співпраці з якими клуб не дійшов спільного знаменника.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Christian Stein será el nuevo CEO de Renault Group en España",
+    "link": "https://www.elperiodico.com/es/motor/20260611/renault-group-nombra-christian-stein-ceo-espana-131273035",
+    "pubDate": "2026-06-11 17:15:06",
+    "category": "",
+    "description": "<h2>Asumirá el cargo el próximo 1 de julio en sustitución de Josep María Recasens y compaginará la posición con la dirección de comunicación global del grupo que ya ostenta ahora.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "TV y MAS; Mare de Déu, Senyor",
+    "link": "https://www.elperiodico.com/es/videos/tele/tv-mare-deu-senyor/131296071.shtml",
+    "pubDate": "2026-06-11 17:14:17",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Армія РФ зменшила тиск на фронті - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4885815-armiia-rf-zmenshyla-tysk-na-fronti-henshtab",
+    "pubDate": "2026-06-11 17:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457702.jpg\">Майже половину своїх атак ворог сконцентрував в районі Покровська. Зараз там точаться чотири боєзіткнення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un actor llamado Santi Balmes en el nuevo anuncio de Estrella Damm: “Me puso más nervioso que salir a dar un concierto”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/anuncio-estrella-damm-verano-actor-llamado-santi-balmes-nuevo-131253521",
+    "pubDate": "2026-06-11 17:10:15",
+    "category": "",
+    "description": "<h2>El cantante de Love of Lesbian participa en la pieza audiovisual, ‘La leyenda del Canyut’, rodada en una cala de Cadaqués, con la que Damm celebra su 150º aniversario, y en la que también toman parte figuras como Mushka, Laia Costa, Paula Malia, Álvaro Cervantes o Jordi Roca</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Свята 12 червня 2026 року: що не можна робити",
+    "link": "https://ua.korrespondent.net/lifestyle/4885804-sviata-12-chervnia-2026-roku-scho-ne-mozhna-robyty",
+    "pubDate": "2026-06-11 17:06:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457681.jpg\">Сьогодні, 12 червня, День працівника фондового ринку України. До Нового року залишилося 202 дні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La prensa internacional se deshace en elogios sobre el acto del Papa en la Sagrada Familia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/prensa-internacional-deshace-elogios-acto/131295520.shtml",
+    "pubDate": "2026-06-11 17:00:57",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los robots catalanes de Theker obtienen más de 70 millones de euros de Samsung, LVMH, CRV y otra docena de fondos más",
+    "link": "https://www.elperiodico.com/es/economia/20260611/robots-catalanes-theker-ronda-record-70-millones-samsung-lvmh-131272045",
+    "pubDate": "2026-06-11 17:00:05",
+    "category": "",
+    "description": "<h2>Es la primera inversión de la multinacional de la electrónica y del gigante del lujo en una 'startup' española, una empresa que ya tiene a Inditex en su capital</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250715/inditex-invierte-start-up-sede-119733115\" target=\"_blank\">Inditex invierte en la 'start-up' con sede en Barcelona Theker Robotics</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Чебоксарах: зʼявилися кадри наслідків",
+    "link": "https://ua.korrespondent.net/world/russia/4885810-udar-po-cheboksarakh-ziavylysia-kadry-naslidkiv",
+    "pubDate": "2026-06-11 16:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457685.jpg\">Над пошкодженим будинком були натягнуті антидронові сітки. Навколо підприємства також встановлені спеціальні вежі, які, ймовірно, використовувалися для їхнього кріплення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні стартувало призначення канабісу за рецептом",
+    "link": "https://ua.korrespondent.net/ukraine/4885808-v-ukraini-startuvalo-pryznachennia-kanabisu-za-retseptom",
+    "pubDate": "2026-06-11 16:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457686.jpg\">Препарати отримали, зокрема, пацієнтка з розсіяним склерозом та двоє ветеранів після поранень.",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así es el gigantesco mural de Neymar pintado en Brasil",
+    "link": "https://www.elperiodico.com/es/videos/deportes/gigantesco-mural-neymar-pintado-brasil-mundial/131295356.shtml",
+    "pubDate": "2026-06-11 16:56:33",
+    "category": "",
+    "description": "La obra mide más de 200 metros de longitud y ha sido realizada por seis artista locales",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El valenciano Juan de la Rubia pone música al sueño de Gaudí ante el Papa: \"Fue un momento de un valor incalculable”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/valenciano-juan-rubia-pone-musica-131279425",
+    "pubDate": "2026-06-11 16:55:20",
+    "category": "",
+    "description": "<h2>El organista de la Sagrada Família, natural de la Vall d’Uixó, preparó el repertorio musical y participó en la misa en la que León XIV bendijo la torre de Jesucristo y la cruz que culmina la basílica</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat mantendrá cerrado el acceso a Collserola todo el verano, tras detectar otros seis nuevos positivos de peste porcina",
+    "link": "https://www.elperiodico.com/es/videos/economia/generalitat-mantendra-cerrado-acceso-collserola-video/131294856.shtml",
+    "pubDate": "2026-06-11 16:53:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Un talento único': Daniel Roher debuta en la ficción con este elegante y sinuoso thriller sobre un afinador de pianos con hiperacusia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/critica-talento-unico-daniel-roher-131292727",
+    "pubDate": "2026-06-11 16:52:01",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cortadas durante más de dos horas la R2Nord y la R11 de Rodalies por un atropellamiento en Cardedeu",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/cortadas-durante-horas-r2nord-r11-rodalies-atropellamiento-cardedeu-131293228",
+    "pubDate": "2026-06-11 16:49:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Renfe ha dispuesto un servicio alternativo por carretera entre Granollers y Sant Celoni</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260506/nuevo-robo-cobre-sant-andreu-montcada-retrasos-r2-r2nord-r11-129901208\">Un nuevo robo de cobre entre Sant Andreu y Montcada provoca retrasos en la R2, la R2Nord y la R11 de Rodalies</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260318/serie-robos-cable-renfe-rodalies-provoca-retrasos-r1-r2-r2nord-r11-128134511\">Una serie de robos de cable en Rodalies provoca retrasos en la R1, la R2, la R2Nord y la R11</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Держстат погіршив оцінку падіння ВВП",
+    "link": "https://ua.korrespondent.net/business/economics/4885800-derzhstat-pohirshyv-otsinku-padinnia-vvp",
+    "pubDate": "2026-06-11 16:42:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457669.jpg\">Номінальний ВВП України у першому кварталі поточного року перевищив показник у 2 трлн гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UEFA deja en evidencia a Trump: el árbitro africano vetado en EEUU pitará la Supercopa de Europa",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/uefa-deja-evidencia-trump-arbitro-131293109",
+    "pubDate": "2026-06-11 16:41:28",
+    "category": "",
+    "description": "<h2>El somalí Omar Aran recibe la gratificación europea de abrir la temporada oficial dirigiendo el París Saint Germain-Aston Villa el próximo 12 de agosto en Salzburgo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Bienvenidos al mundo / Mundial real, por Carme Barceló",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/bienvenidos-mundial-real-carme-barcelo-131294388",
+    "pubDate": "2026-06-11 16:38:47",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260611/mundial-2026-inauguracion-horario-calendario-partidos-espana-ultima-hora-directo-131293049\">Ceremonia inaugural del Mundial 2026, en directo: horario, calendario de partidos y última hora de la selección española</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У Мексиці розстріляли поліцейський патруль",
+    "link": "https://ua.korrespondent.net/world/4885799-u-meksytsi-rozstrilialy-politseiskyi-patrul",
+    "pubDate": "2026-06-11 16:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457665.jpg\">Невідомі відкрили вогонь по патрулю в штаті Мічоакан, ще п’ятеро правоохоронців загинули.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ліван заявив про 12 загиблих через удари Ізраїлю",
+    "link": "https://ua.korrespondent.net/world/4885788-livan-zaiavyv-pro-12-zahyblykh-cherez-udary-izrailui",
+    "pubDate": "2026-06-11 16:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457641.jpg\">Ні Ізраїль, ні \"Хезболла\" не дотримуються режиму припинення вогню в Лівані, і війна між ними продовжується, попри умовну угоду про перемир'я, оголошену минулого тижня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La nueva guerra silenciosa",
+    "link": "https://www.elperiodico.com/es/opinion/20260611/nueva-guerra-silenciosa-fertilizantes-alimentos-ormuz-articulo-belen-marron-131293121",
+    "pubDate": "2026-06-11 16:14:23",
+    "category": "",
+    "description": "<h2>La mitad de la producción mundial de alimentos está vinculada al uso de fertilizantes nitrogenados. Cuando estos faltan, no desaparece únicamente una industria: cae el rendimiento agrícola, sube el precio de los alimentos y aumenta la presión social</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260326/subida-precios-alimentos-tomates-guerra-iran-128435251\">La guerra de Irán podría disparar hasta un 25% el precio de tomates, pimientos y pepinos</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Ceremonia inaugural del Mundial 2026, en directo: horario, calendario de partidos y última hora de la selección española",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/mundial-2026-inauguracion-horario-calendario-partidos-espana-ultima-hora-directo-131293049",
+    "pubDate": "2026-06-11 16:13:23",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260605/sera-triple-inauguracion-mundial-futbol-donde-sede-actuaciones-131063093\">Cómo será la triple inauguración del Mundial de fútbol: actuaciones, sedes e invitados</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Сотні \"мертвих душ\": керівники ТЦК отримали підозри",
+    "link": "https://ua.korrespondent.net/ukraine/4885786-sotni-mertvykh-dush-kerivnyky-ttsk-otrymaly-pidozry",
+    "pubDate": "2026-06-11 16:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457640.jpeg\">За наявною оперативною інформацією кількість фіктивно \"призваних\" може становити близько 800 осіб.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Alonso, en clave de despedida: \"Probablemente será mi último gran premio en Barcelona\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260611/alonso-clave-despedida-ultimo-gran-premio-barcelona-131292805",
+    "pubDate": "2026-06-11 16:12:38",
+    "category": "",
+    "description": "<h2>\"Barcelona no estará en el calendario en 2027 y yo no he decidido lo que haré al año que viene, así que menos aún lo que haré en dos años\", lanza Fernando en vísperas de un gran premio difícil para Aston Martin</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Красній площі вперше скасували концерт до дня РФ",
+    "link": "https://ua.korrespondent.net/world/russia/4885784-na-krasnii-ploschi-vpershe-skasuvaly-kontsert-do-dnia-rf",
+    "pubDate": "2026-06-11 16:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457639.jpg\">До цього російська влада вперше з 2007 року скасувала парад військової техніки на Красній площі через \"загрозу БпЛА\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El juez Zamarriego pregunta a la Fiscalía si cita a declarar como testigo a Salvador Illa en el caso Leire Díez",
+    "link": "https://www.elperiodico.com/es/politica/20260611/juez-zamarriego-pregunta-fiscalia-cita-131293214",
+    "pubDate": "2026-06-11 16:06:43",
+    "category": "",
+    "description": "<h2>Los socialistas catalanes niegan haber mantenido relaciones contractuales con empresas de la trama de la \"fontanera\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260605/pedraz-accede-peticion-uco-reclama-131063861\" target=\"_blank\">Pedraz accede a la petición de la UCO y reclama la información bancaria durante dos años del PSOE y las cuentas de Leire Díez</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Нова ціль наступу. Міські бої в Костянтинівці",
+    "link": "https://ua.korrespondent.net/ukraine/4885775-nova-tsil-nastupu-miski-boi-v-kostiantynivtsi",
+    "pubDate": "2026-06-11 16:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457638.jpg\">У Костянтинівці вже йдуть запеклі вуличні бої, росіяни змогли просочитися до міста з трьох боків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Jove Teatre Regina baja la persiana el 15 de julio tras 35 años dedicados al teatro familiar: \"Nos echan\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/jove-teatre-regina-baja-persiana-131283970",
+    "pubDate": "2026-06-11 16:01:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Los actuales propietarios del local anunciaron que no les renovaran el contrato de alquiler con solo tres semanas de antelación, las instituciones no han podido evitar el cierre de la sala de la histórica compañía La Trepa.</h2><h2 class=\"item\">\"No es un problema de falta de público\", declara Mariona Campos, directora del Regina</h2><h2 class=\"item\">El Mago Pop valora la adquisición del local para mantenerlo como teatro</h2><h2 class=\"item\">A lo largo de su historia el Regina ha ofrecido<strong> </strong>811 espectáculos, 10.538 funciones y llegado a más de dos millones de espectadores, 2.187.184 concretamente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estreno audiovisual: seis viajes a los lugares más recónditos de la Sagrada Família",
+    "link": "https://www.elperiodico.com/es/barcelona/eixample/20260611/estreno-audiovisual-seis-viajes-lugares-reconditos-sagrada-familia-131160745",
+    "pubDate": "2026-06-11 16:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260608/solarigrafia-foto-hecha-sagrada-familia-131148791\" target=\"_blank\">Una solarigrafía, la foto nunca antes hecha de la Sagrada Família</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260607/barcelona-recuerda-placa-lugar-tranvia-131071179\" target=\"_blank\">Barcelona recuerda con una placa el lugar en el que un tranvía atropelló a Gaudí</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El destino de las explicaciones",
+    "link": "https://www.elperiodico.com/es/opinion/20260611/destino-explicaciones-articulo-juan-tallon-131292657",
+    "pubDate": "2026-06-11 15:59:01",
+    "category": "",
+    "description": "<h2>Julio Cortázar dice que en algún lugar hay un basurero en el que están amontonadas todas las aclaraciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern defiende el cierre del Consorci Badalona Sud por \"no ser eficiente\" y por \"haber perdido su razón de ser\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260611/govern-defiende-cierre-consorci-badalona-por-no-ser-eficiente-por-haber-perdido-razon-de-ser-131280384",
+    "pubDate": "2026-06-11 15:56:46",
+    "category": "",
+    "description": "<h2>Drets Socials considera que el cerrojazo del ente permitirá \"mejorar las políticas públicas y optimizar los recursos\"</h2><h2>INTENTO DE RESCATE EN 2023 | <a href=\"https://www.elperiodico.com/es/barcelona/badalona/20230623/reunion-albiol-campuzano-violaciones-grupales-menores-sant-roc-badalona-89044698\">Albiol y Campuzano pactan 'resucitar' en Badalona un olvidado consorcio para la gestión social de Sant Roc</a></h2><h2>DISOLUCIÓN DEFINITIVA EN 2025 | <a href=\"https://www.elperiodico.com/es/barcelona/badalona/20250205/consorcio-gestion-social-barrios-vulnerables-sur-badalona-disuelto-114021567\">El consorcio para la gestión social de barrios vulnerables del sur de Badalona será finalmente disuelto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La fábrica de Montesa-Honda en Santa Perpetua reanuda la actividad tras el incendio de la pasada semana",
+    "link": "https://www.elperiodico.com/es/motor/20260611/fabrica-montesa-honda-santa-perpetua-vuelve-actividad-logistica-tras-incendio-131292451",
+    "pubDate": "2026-06-11 15:55:37",
+    "category": "",
+    "description": "<h2>Los empleados siguen enfocados en la reconstrucción de la actividad logística para garantizar el suministro de recambios a los clientes.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Кіпр закриває візові центри в Росії",
+    "link": "https://ua.korrespondent.net/world/4885777-kipr-zakryvaie-vizovi-tsentry-v-rosii",
+    "pubDate": "2026-06-11 15:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457622.jpg\">Кіпр припиняє роботу візових центрів у Росії через завершення дії контракту з оператором BLS International.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Banco Mundial reduce al 2,5% el crecimiento mundial por la guerra de Irán, su ritmo más bajo desde la pandemia",
+    "link": "https://www.elperiodico.com/es/economia/20260611/banco-reduce-2-5-crecimiento-mundial-guerra-iran-ritmo-mas-bajo-pandemia-131292730",
+    "pubDate": "2026-06-11 15:53:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El organismo atribuye el deterioro al encarecimiento del petróleo, el gas y los fertilizantes, con especial impacto en los países emergentes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У ФРН масово набирають нових співробітників у сферу військової промисловості",
+    "link": "https://ua.korrespondent.net/world/4885776-u-frn-masovo-nabyrauit-novykh-spivrobitnykiv-u-sferu-viiskovoi-promyslovosti",
+    "pubDate": "2026-06-11 15:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457590.jpg\">Мільярдні інвестиції зараз течуть у нові фабрики та дослідження. Існуючі виробничі майданчики розширюються, створюються нові потужності.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'El día de la revelación': ¿Por qué la nueva película  de Spielberg sobre alienígenas es decepcionante?",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/critica-dia-revelacion-nueva-pelicula-spielberg-131291794",
+    "pubDate": "2026-06-11 15:52:38",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260610/spielberg-dia-revelacion-cine-extraterrestres-131226485\">Spielberg, 'El día de la revelación' y el cine de extraterrestres: no estamos solos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fallece Vladas Garastas, el último seleccionador soviético",
+    "link": "https://as.com/baloncesto/mas_baloncesto/fallece-vladas-garastas-el-ultimo-seleccionador-sovietico-f202606-n/",
+    "pubDate": "2026-06-11 15:51:55",
+    "category": "Baloncesto",
+    "description": "El histórico técnico fue el último en dirigir a la URSS y el primer seleccionador de Lituania, con la que ganó dos bronces olímpicos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detrás de cámaras: así se hizo la doble portada especial y la cobertura de El Periódico para la bendición del Papa en la Sagrada Familia",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/detras-camaras-hizo-doble-portada-fotos-papa-sagrada-familia-barcelona/131292435.shtml",
+    "pubDate": "2026-06-11 15:51:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los médicos del Hospital de Vall d'Hebron que atendieron al bebé maltratado nunca habían visto unas lesiones tan graves",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/juez-pediatras-cirujano-bebe-maltratado-vall-dhebron-131291770",
+    "pubDate": "2026-06-11 15:51:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Las pediatras y un cirujano han precisado que las heridas que presentaba el pequeño eran \"traumáticas, no accidentales\" y compatibles con maltrato infantil</h2><h2 class=\"item\">Priorizaron atender la fractura de fémur porque temían que el astillamiento del hueso pudiera causar una hemorragia mortal </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/juez-investigacion-testigos-declaracion-bebe-maltratado-vall-dhebron-131244213\">La madre del bebé maltratado en Barcelona confesó a sus amigas enfermeras que se planteaba echar al marido de casa porque no cuidaba bien del niño</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tercera vía de León XIV",
+    "link": "https://www.elperiodico.com/es/opinion/20260611/tercera-via-leon-xiv-articulo-joan-canete-bayle-131291689",
+    "pubDate": "2026-06-11 15:47:42",
+    "category": "",
+    "description": "<h2>En un momento de extrema polarización, el discurso del Papa escapa a los ejes habituales de polarización política y, precisamente por eso, consigue generar adhesiones</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260608/congreso-despide-papa-leon-xiv-131146026\">El Congreso despide al Papa con una ovación histórica tras un discurso con recados para todos</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260610/leon-xiv-bendice-catalan-castellano-131257239\">VÍDEO | León XIV bendice, en catalán y castellano, la Torre de Jesús de Gaudí, en un acto culminado por un espectáculo soberbio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Comuns denuncian a Inspección de Trabajo la situación de cuatro centros escolares de Tarragona por falta de climatización",
+    "link": "https://www.elperiodico.com/es/tarragona/20260611/comuns-denuncian-inspeccion-trabajo-centros-escolares-tarragona-climatizacion-131290938",
+    "pubDate": "2026-06-11 15:41:34",
+    "category": "",
+    "description": "<h2 class=\"item\">El partido asegura que la normativa que la temperatura debería estar \"entre los 22 y los 27 grados\", y que en las olas de calor, se llega a los 30: \"Los afectados son profesores y alumnos\"</h2><h2 class=\"item\">CATALUNYA | <a href=\"https://www.elperiodico.com/es/sociedad/20230220/inspeccion-trabajo-educacio-medidas-contra-calor-aulas-colegios-83285707\">Inspección de Trabajo urge a Educació a tomar medidas contra el calor en las aulas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп анонсував \"дуже сильний\" удар по Ірану",
+    "link": "https://ua.korrespondent.net/world/4885772-tramp-anonsuvav-duzhe-sylnyi-udar-po-iranu",
+    "pubDate": "2026-06-11 15:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457607.jpg\">США візьмуть під повний контроль нафтові та газові ринки Ірану, запевнив американський лідер.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Selectividad en España: ligera bajada de aprobados, aunque más de nueve de cada diez estudiantes la superan",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/ligera-bajada-aprobados-selectividad-espana-131291039",
+    "pubDate": "2026-06-11 15:33:00",
+    "category": "",
+    "description": "<h2 class=\"item\"> Las diferencias más acusadas en comparación con 2025 se observan en Aragón y en Murcia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260611/selectividad-pau-2026-examenes-cataluna-ultima-hora-directo-130966516\" target=\"_blank\">PAU 2026, hoy en directo: última hora de los exámenes de selectividad en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіянина оштрафували за критику Талібану",
+    "link": "https://ua.korrespondent.net/world/russia/4885769-rosiianyna-oshtrafuvaly-za-krytyku-talibanu",
+    "pubDate": "2026-06-11 15:28:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457592.jpg\">Російський суд визнав винним 19-річного мешканця Ростова-на-Дону у розпалюванні ненависті та призначив штраф у 10 тис. рублів. Ще донедавна таліби перебували у списку терористів в РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Duscak, al Bilbao Basket",
+    "link": "https://as.com/baloncesto/duscak-bilbao-f202606-n/",
+    "pubDate": "2026-06-11 15:24:45",
+    "category": "Baloncesto",
+    "description": "El base esloveno, jugador de formación, llega procedente del Oviedo de Primera FEB.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lagarde prevé una inflación del 3% en 2026: \"La guerra en Oriente Próximo está generando presiones inflacionistas\"",
+    "link": "https://www.elperiodico.com/es/economia/20260611/lagarde-alerta-inflacion-alcanzara-3-131291484",
+    "pubDate": "2026-06-11 15:21:47",
+    "category": "",
+    "description": "<h2 class=\"item\">El organismo europeo eleva los tipos de interés hasta el 2,25% por primera vez en casi mil días ante el repunte energético provocado por la guerra en Oriente Próximo </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Felipe VI se apoya en el Papa León XIV para reclamar una revolución digital más humana",
+    "link": "https://www.elperiodico.com/es/politica/20260611/felipe-papa-leon-enciclica-tecnooligarcas-inteligencia-artificial-131291443",
+    "pubDate": "2026-06-11 15:20:34",
+    "category": "",
+    "description": "<h2>El Rey cita la encíclica del Pontífice en un acto de una organización sobre los derechos digitales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"La dignidad humana no tiene pasaporte ni pierde valor al cruzar las fronteras\": el mensaje de León XIV en Arguineguín",
+    "link": "https://www.elperiodico.com/es/sociedad/20260611/mensaje-papa-leon-xiv-muelle-arguineguin-canarias-migrantes-131291286",
+    "pubDate": "2026-06-11 15:17:14",
+    "category": "",
+    "description": "<h2>El pontífice ha centrado sus palabras en el muelle de Arguineguín en el drama de la migración donde dedicó una ofrenda floral a los fallecidos en el mar al intentar llegar a las costas canarias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В УЗ попередили про зміни у русі деяких приміських поїздів",
+    "link": "https://ua.korrespondent.net/ukraine/4885763-v-uz-poperedyly-pro-zminy-u-rusi-deiakykh-prymiskykh-poizdiv",
+    "pubDate": "2026-06-11 15:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457588.jpg\">Три дні низка приміських електропоїздів не курсуватиме, водночас збережуться основні ранкові та вечірні рейси до/з Києва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alpine empieza liderando el fuego real, en unas 24 Horas de Le Mans emocionantes",
+    "link": "https://www.elperiodico.com/es/motor/20260611/alpine-empieza-liderando-fuego-real-24-horas-le-mans-emocionantes-2026-131265972",
+    "pubDate": "2026-06-11 15:11:04",
+    "category": "",
+    "description": "<h2>La firma francesa encabezó la primera parte de la clasificación, en medio de la catástrofe de Peugeot y Ferrari, con la eliminación del #83, el vigente campeón. Juncadella, en el debut de Genesis, Riberas y Molina clasificados</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Claudia Osborne está esperando su tercer hijo con José Entrecanales",
+    "link": "https://www.elperiodico.com/es/gente/20260611/claudia-osborne-esperando-tercer-hijo-131290813",
+    "pubDate": "2026-06-11 15:08:45",
+    "category": "",
+    "description": "<h2>La hija de Bertín Osborne y Sandra Domecq anuncia su tercer embarazo junto a José Entrecanales, al que llamarán Joselito</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Міністр оборони Британії оголосив про відставку",
+    "link": "https://ua.korrespondent.net/world/4885759-ministr-oborony-brytanii-oholosyv-pro-vidstavku",
+    "pubDate": "2026-06-11 15:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457572.jpg\">Джон Гілі звинуватив прем’єр-міністра Кіра Стармера і його уряд у нездатності забезпечити фінансування, необхідне для вирішення зростаючих загроз безпеці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ООН вперше за десятиліття зафіксувала зниження кількості біженців у світі",
+    "link": "https://ua.korrespondent.net/world/4885756-oon-vpershe-za-desiatylittia-zafiksuvala-znyzhennia-kilkosti-bizhentsiv-u-sviti",
+    "pubDate": "2026-06-11 14:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457570.jpg\">Чисельність біженців у світі скоротилася на 3% - до 35,6 млн осіб. За даними ООН, сім із десяти біженців походять з Афганістану, Південного Судану, Судану, Сирії, України і Венесуели.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La bilbaína Astiberri Ediciones, templo del cómic, Premio Nacional a la Mejor Labor Editorial Cultural 2026",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260611/bilbaina-astiberri-ediciones-templo-comic-131290004",
     "pubDate": "2026-06-11 14:49:23",
@@ -520,6 +1240,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4457445.png\">На борту танкеру Settebello перебували 24 індійських члени екіпажу - 21 врятовано, троє загинули.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Félix Chaqués, extrabajador de Dabiz Muñoz, sobre su experiencia con el 'chef': \"Trabajar 14 horas no era un problema\"",
+    "link": "https://www.elperiodico.com/es/gente/20260611/felix-chaques-extrabajador-dabiz-munoz-trabajar-pasion-dv-123219583",
+    "pubDate": "2026-06-11 12:50:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El chef concedió una entrevista al pódcast 'El plato fuerte'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20250814/exempleado-dabiz-munoz-revela-sueldo-diverxo-dv-120617503\">Un exempleado de Dabiz Muñoz revela el sueldo que cobraba en DiverXO: \"No merece la pena\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
   },
   {
     "title": "Narcotraficantes disparan con subfusiles de asalto contra agentes de la Guardia Civil en Huelva durante un operativo antidroga",

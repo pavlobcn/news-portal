@@ -1,8 +1,30 @@
-# News for 2026-06-11 14:56
+# News for 2026-06-11 18:44
 
 Previous day: [2026-06-10](./data/2026-06-10.md)
 
 ## ua.korrespondent.net
+18:35 [У Севастополі уражено військовий об'єкт Чорноморського флоту РФ - ВМС](https://ua.korrespondent.net/ukraine/4885843-u-sevastopoli-urazheno-viiskovyi-obiekt-chornomorskoho-flotu-rf-vms)<br>
+18:19 [Розбирання підтвердило, що смартфон Трампа - це перефарбований HTC](https://ua.korrespondent.net/lifestyle/gadgets/4885836-rozbyrannia-pidtverdylo-scho-smartfon-trampa-tse-perefarbovanyi-HTC)<br>
+18:19 [Нацбанк почав зміцнювати гривню](https://ua.korrespondent.net/business/financial/4885838-natsbank-pochav-zmitsnuivaty-hryvnui)<br>
+18:08 [Рада поповниться новим депутатом від "ЄС"](https://ua.korrespondent.net/ukraine/4885833-rada-popovnytsia-novym-deputatom-vid-yes)<br>
+17:46 [Євротрійка передала РФ позицію щодо миру в Україні](https://ua.korrespondent.net/world/4885828-yevrotriika-peredala-rf-pozytsiui-schodo-myru-v-ukraini)<br>
+17:38 [У Києві затримано іноземця за підозрою у вбивстві двох людей на СТО](https://ua.korrespondent.net/ukraine/4885824-u-kyievi-zatrymano-inozemtsia-za-pidozroui-u-vbyvstvi-dvokh-luidei-na-sto)<br>
+17:17 ["Жуки" з Вірменії заблокували імпорт до Росії](https://ua.korrespondent.net/world/4885819-zhuky-z-virmenii-zablokuvaly-import-do-rosii)<br>
+17:11 [Армія РФ зменшила тиск на фронті - Генштаб](https://ua.korrespondent.net/ukraine/4885815-armiia-rf-zmenshyla-tysk-na-fronti-henshtab)<br>
+17:06 [Свята 12 червня 2026 року: що не можна робити](https://ua.korrespondent.net/lifestyle/4885804-sviata-12-chervnia-2026-roku-scho-ne-mozhna-robyty)<br>
+16:58 [Удар по Чебоксарах: зʼявилися кадри наслідків](https://ua.korrespondent.net/world/russia/4885810-udar-po-cheboksarakh-ziavylysia-kadry-naslidkiv)<br>
+16:42 [Держстат погіршив оцінку падіння ВВП](https://ua.korrespondent.net/business/economics/4885800-derzhstat-pohirshyv-otsinku-padinnia-vvp)<br>
+16:37 [У Мексиці розстріляли поліцейський патруль](https://ua.korrespondent.net/world/4885799-u-meksytsi-rozstrilialy-politseiskyi-patrul)<br>
+16:18 [Ліван заявив про 12 загиблих через удари Ізраїлю](https://ua.korrespondent.net/world/4885788-livan-zaiavyv-pro-12-zahyblykh-cherez-udary-izrailui)<br>
+16:09 [На Красній площі вперше скасували концерт до дня РФ](https://ua.korrespondent.net/world/russia/4885784-na-krasnii-ploschi-vpershe-skasuvaly-kontsert-do-dnia-rf)<br>
+16:04 [Нова ціль наступу. Міські бої в Костянтинівці](https://ua.korrespondent.net/ukraine/4885775-nova-tsil-nastupu-miski-boi-v-kostiantynivtsi)<br>
+15:54 [Кіпр закриває візові центри в Росії](https://ua.korrespondent.net/world/4885777-kipr-zakryvaie-vizovi-tsentry-v-rosii)<br>
+15:53 [У ФРН масово набирають нових співробітників у сферу військової промисловості](https://ua.korrespondent.net/world/4885776-u-frn-masovo-nabyrauit-novykh-spivrobitnykiv-u-sferu-viiskovoi-promyslovosti)<br>
+15:38 [Трамп анонсував "дуже сильний" удар по Ірану](https://ua.korrespondent.net/world/4885772-tramp-anonsuvav-duzhe-sylnyi-udar-po-iranu)<br>
+15:28 [Росіянина оштрафували за критику Талібану](https://ua.korrespondent.net/world/russia/4885769-rosiianyna-oshtrafuvaly-za-krytyku-talibanu)<br>
+15:12 [В УЗ попередили про зміни у русі деяких приміських поїздів](https://ua.korrespondent.net/ukraine/4885763-v-uz-poperedyly-pro-zminy-u-rusi-deiakykh-prymiskykh-poizdiv)<br>
+15:03 [Міністр оборони Британії оголосив про відставку](https://ua.korrespondent.net/world/4885759-ministr-oborony-brytanii-oholosyv-pro-vidstavku)<br>
+14:57 [ООН вперше за десятиліття зафіксувала зниження кількості біженців у світі](https://ua.korrespondent.net/world/4885756-oon-vpershe-za-desiatylittia-zafiksuvala-znyzhennia-kilkosti-bizhentsiv-u-sviti)<br>
 14:49 [Румунія запропонувала самознищуватися "заблукалим" морським дронам](https://ua.korrespondent.net/world/4885753-rumuniia-zaproponuvala-samoznyschuvatysia-zablukalym-morskym-dronam)<br>
 14:46 [В Індійському океані знайшли найбільший і найглибший цвинтар китів у світі](https://ua.korrespondent.net/tech/science/4885751-v-indiiskomu-okeani-znaishly-naibilshyi-i-naihlybshyi-tsvyntar-kytiv-u-sviti)<br>
 14:29 [ЄС вбачає загрозу у сербських паспортах для росіян](https://ua.korrespondent.net/world/4885745-yes-vbachaie-zahrozu-u-serbskykh-pasportakh-dlia-rosiian)<br>
@@ -55,10 +77,43 @@ Previous day: [2026-06-10](./data/2026-06-10.md)
 00:26 [США завдали нових ударів по багатьох цілях в Ірані](https://ua.korrespondent.net/world/4885606-ssha-zavdaly-novykh-udariv-po-bahatokh-tsiliakh-v-irani)<br>
 
 ## as.com
+15:51 [Fallece Vladas Garastas, el último seleccionador soviético](https://as.com/baloncesto/mas_baloncesto/fallece-vladas-garastas-el-ultimo-seleccionador-sovietico-f202606-n/)<br>
+15:24 [Duscak, al Bilbao Basket](https://as.com/baloncesto/duscak-bilbao-f202606-n/)<br>
 09:45 [Barcelona - Tenerife: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/barcelona-tenerife-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
 07:38 [En el último segundo y tras remontar 29 puntos: la canasta de los Knicks que ya es historia de la NBA](https://as.com/baloncesto/videos/en-el-ultimo-segundo-y-tras-remontar-29-puntos-la-canasta-de-los-knicks-que-ya-es-historia-de-la-nba-f202606-v/)<br>
 
 ## www.elperiodico.com
+18:39 [Tensión en la Asamblea de Madrid: expulsado un diputado del PSOE tras un debate sobre ETA](https://www.elperiodico.com/es/videos/politica/tension-asamblea-madrid-expulsado-diputado-psoe/131301206.shtml)<br>
+18:26 [El FMI asesta otro golpe a la eurozona: enfría el crecimiento al 0,9% para 2026 por la guerra en Oriente Próximo](https://www.elperiodico.com/es/economia/20260611/fmi-asesta-golpe-eurozona-enfria-131300639)<br>
+18:23 [Ambiente en el estadio de Gran Canaria](https://www.elperiodico.com/es/videos/sociedad/ambiente-estadio-gran-canaria-papa-las-palmas/131300529.shtml)<br>
+18:16 [Así se gestó la cobertura fotográfica de la visita de León XIV y la iluminación de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20260611/asi-se-hizo-cobertura-grafica-elperiodico-visita-leon-xiv-barcelona-131298568)<br>
+18:12 [Catalonia Hotels reabre el antiguo Gallery como Catalonia Boulevard tras una reforma integral](https://www.elperiodico.com/es/economia/20260611/catalonia-hotels-reabre-antiguo-gallery-131296131)<br>
+18:07 [El papa León XIV refuerza en la catedral los lazos con la Iglesia de Canarias: "Con ustedes soy cristiano y para ustedes, obispo"](https://www.elperiodico.com/es/sociedad/20260611/papa-refuerza-lazos-iglesia-encuentro-131299730)<br>
+18:00 [No publico fotos de mi hija en redes, pero sí lo hacen sus amigos: ¿qué dice la normativa?](https://www.elperiodico.com/es/sociedad/20260611/publico-fotos-hija-redes-amigos-131181018)<br>
+17:56 [Cómo se hizo el aplaudido espectáculo de la Sagrada Família y los dos elementos clave que no vio el Papa](https://www.elperiodico.com/es/barcelona/20260611/como-se-hizo-espectaculo-sagrada-familia-lo-que-no-vio-el-papa-131298311)<br>
+17:35 [Un reconocimiento a las empresas que ayudan a crecer a la Región](https://www.elperiodico.com/es/sociedad/20260611/reconocimiento-empresas-ayudan-crecer-region-bc-130799768)<br>
+17:30 [Intentos de suicidio, autolesiones y revueltas: así fueron los primeros 48 días en el centro de repatriación de Meloni en Albania](https://www.elperiodico.com/es/internacional/20260611/centro-detencion-meloni-albania-intentos-suicidio-autolesiones-revueltas-131297384)<br>
+17:18 [Muere Eduardo Portela, presidente de la ACB entre 1990 y 2013](https://www.elperiodico.com/es/deportes/20260611/muere-eduardo-portela-presidente-acb-131296097)<br>
+17:00 [La prensa internacional se deshace en elogios sobre el acto del Papa en la Sagrada Familia](https://www.elperiodico.com/es/videos/internacional/prensa-internacional-deshace-elogios-acto/131295520.shtml)<br>
+17:00 [Los robots catalanes de Theker obtienen más de 70 millones de euros de Samsung, LVMH, CRV y otra docena de fondos más](https://www.elperiodico.com/es/economia/20260611/robots-catalanes-theker-ronda-record-70-millones-samsung-lvmh-131272045)<br>
+16:55 [El valenciano Juan de la Rubia pone música al sueño de Gaudí ante el Papa: "Fue un momento de un valor incalculable”](https://www.elperiodico.com/es/ocio-y-cultura/20260611/valenciano-juan-rubia-pone-musica-131279425)<br>
+16:53 [La Generalitat mantendrá cerrado el acceso a Collserola todo el verano, tras detectar otros seis nuevos positivos de peste porcina](https://www.elperiodico.com/es/videos/economia/generalitat-mantendra-cerrado-acceso-collserola-video/131294856.shtml)<br>
+16:52 [Crítica de 'Un talento único': Daniel Roher debuta en la ficción con este elegante y sinuoso thriller sobre un afinador de pianos con hiperacusia](https://www.elperiodico.com/es/ocio-y-cultura/20260611/critica-talento-unico-daniel-roher-131292727)<br>
+16:01 [El Jove Teatre Regina baja la persiana el 15 de julio tras 35 años dedicados al teatro familiar: "Nos echan"](https://www.elperiodico.com/es/ocio-y-cultura/20260611/jove-teatre-regina-baja-persiana-131283970)<br>
+16:00 [Estreno audiovisual: seis viajes a los lugares más recónditos de la Sagrada Família](https://www.elperiodico.com/es/barcelona/eixample/20260611/estreno-audiovisual-seis-viajes-lugares-reconditos-sagrada-familia-131160745)<br>
+15:59 [El destino de las explicaciones](https://www.elperiodico.com/es/opinion/20260611/destino-explicaciones-articulo-juan-tallon-131292657)<br>
+15:56 [El Govern defiende el cierre del Consorci Badalona Sud por "no ser eficiente" y por "haber perdido su razón de ser"](https://www.elperiodico.com/es/barcelona/20260611/govern-defiende-cierre-consorci-badalona-por-no-ser-eficiente-por-haber-perdido-razon-de-ser-131280384)<br>
+15:53 [El Banco Mundial reduce al 2,5% el crecimiento mundial por la guerra de Irán, su ritmo más bajo desde la pandemia](https://www.elperiodico.com/es/economia/20260611/banco-reduce-2-5-crecimiento-mundial-guerra-iran-ritmo-mas-bajo-pandemia-131292730)<br>
+15:52 [Crítica de 'El día de la revelación': ¿Por qué la nueva película  de Spielberg sobre alienígenas es decepcionante?](https://www.elperiodico.com/es/ocio-y-cultura/20260611/critica-dia-revelacion-nueva-pelicula-spielberg-131291794)<br>
+15:51 [Detrás de cámaras: así se hizo la doble portada especial y la cobertura de El Periódico para la bendición del Papa en la Sagrada Familia](https://www.elperiodico.com/es/videos/barcelona/detras-camaras-hizo-doble-portada-fotos-papa-sagrada-familia-barcelona/131292435.shtml)<br>
+15:51 [Los médicos del Hospital de Vall d'Hebron que atendieron al bebé maltratado nunca habían visto unas lesiones tan graves](https://www.elperiodico.com/es/sociedad/20260611/juez-pediatras-cirujano-bebe-maltratado-vall-dhebron-131291770)<br>
+15:47 [La tercera vía de León XIV](https://www.elperiodico.com/es/opinion/20260611/tercera-via-leon-xiv-articulo-joan-canete-bayle-131291689)<br>
+15:41 [Los Comuns denuncian a Inspección de Trabajo la situación de cuatro centros escolares de Tarragona por falta de climatización](https://www.elperiodico.com/es/tarragona/20260611/comuns-denuncian-inspeccion-trabajo-centros-escolares-tarragona-climatizacion-131290938)<br>
+15:33 [Selectividad en España: ligera bajada de aprobados, aunque más de nueve de cada diez estudiantes la superan](https://www.elperiodico.com/es/sociedad/20260611/ligera-bajada-aprobados-selectividad-espana-131291039)<br>
+15:21 [Lagarde prevé una inflación del 3% en 2026: "La guerra en Oriente Próximo está generando presiones inflacionistas"](https://www.elperiodico.com/es/economia/20260611/lagarde-alerta-inflacion-alcanzara-3-131291484)<br>
+15:20 [Felipe VI se apoya en el Papa León XIV para reclamar una revolución digital más humana](https://www.elperiodico.com/es/politica/20260611/felipe-papa-leon-enciclica-tecnooligarcas-inteligencia-artificial-131291443)<br>
+15:17 ["La dignidad humana no tiene pasaporte ni pierde valor al cruzar las fronteras": el mensaje de León XIV en Arguineguín](https://www.elperiodico.com/es/sociedad/20260611/mensaje-papa-leon-xiv-muelle-arguineguin-canarias-migrantes-131291286)<br>
+15:08 [Claudia Osborne está esperando su tercer hijo con José Entrecanales](https://www.elperiodico.com/es/gente/20260611/claudia-osborne-esperando-tercer-hijo-131290813)<br>
 14:49 [La bilbaína Astiberri Ediciones, templo del cómic, Premio Nacional a la Mejor Labor Editorial Cultural 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260611/bilbaina-astiberri-ediciones-templo-comic-131290004)<br>
 14:48 [El tumor cerebral, la enfermedad que más miedo genera: un 60% de los españoles tiene una "alta" preocupación por recibir ese diagnóstico](https://www.elperiodico.com/es/sanidad/20260611/tumor-cerebral-enfermedad-miedo-genera-espanoles-preocupacion-diagnostico-131282285)<br>
 14:45 [La prensa internacional se deshace en elogios sobre el acto del Papa en la Sagrada Familia](https://www.elperiodico.com/es/internacional/20260611/prensa-internacional-elogios-acto-papa-sagrada-familia-131290038)<br>
