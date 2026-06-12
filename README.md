@@ -1,8 +1,14 @@
-# News for 2026-06-12 20:29
+# News for 2026-06-12 22:40
 
 Previous day: [2026-06-11](./data/2026-06-11.md)
 
 ## ua.korrespondent.net
+22:25 [МВФ погодив новий транш для України: названі умови](https://ua.korrespondent.net/ukraine/4886197-mvf-pohodyv-novyi-transh-dlia-ukrainy-nazvani-umovy)<br>
+21:53 [Генштаб оновив дані щодо фронту](https://ua.korrespondent.net/ukraine/4886195-henshtab-onovyv-dani-schodo-frontu)<br>
+21:45 [Житель Криму показав, як росіяни маскують військові бензовози](https://ua.korrespondent.net/ukraine/4886192-zhytel-krymu-pokazav-yak-rosiiany-maskuuit-viiskovi-benzovozy)<br>
+21:20 [Росіяни вдарили по фермі на Сумщині: п'ятеро поранених, загинула худоба](https://ua.korrespondent.net/ukraine/4886187-rosiiany-vdaryly-po-fermi-na-sumschyni-piatero-poranenykh-zahynula-khudoba)<br>
+20:56 [ЄС оприлюднив порядок конференції з Україною, на якій відкриють кластер](https://ua.korrespondent.net/world/4886186-yes-opryluidnyv-poriadok-konferentsii-z-ukrainoui-na-yakii-vidkryuit-klaster)<br>
+20:36 [У Британії випробували на людях першу вакцину, створену штучним інтелектом](https://ua.korrespondent.net/tech/4886183-u-brytanii-vyprobuvaly-na-luidiakh-pershu-vaktsynu-stvorenu-shtuchnym-intelektom)<br>
 20:24 [Зеленський підписав закон щодо росмови](https://ua.korrespondent.net/ukraine/4886176-zelenskyi-pidpysav-zakon-schodo-rosmovy)<br>
 20:01 [Путін пообіцяв створити супутникове угруповання, що перевершить Starlink](https://ua.korrespondent.net/world/russia/4886172-putin-poobitsiav-stvoryty-suputnykove-uhrupovannia-scho-perevershyt-Starlink)<br>
 19:44 [Продала дітей для жебракування: жінку ув'язнили на вісім років](https://ua.korrespondent.net/ukraine/4886169-prodala-ditei-dlia-zhebrakuvannia-zhinku-uviaznyly-na-visim-rokiv)<br>
@@ -88,6 +94,7 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 00:21 [Комітет Сенату США підтримав $750 млн для України](https://ua.korrespondent.net/world/4885919-komitet-senatu-ssha-pidtrymav-750-mln-dlia-ukrainy)<br>
 
 ## as.com
+22:09 [Vuelve el rodillo taronja](https://as.com/baloncesto/acb/vuelve-el-rodillo-taronja-f202606-n/)<br>
 20:27 [Valencia - Joventut, en directo: semifinales del playoff de la Liga Endesa de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/valencia-joventut-en-directo-semifinales-del-playoff-de-la-liga-endesa-de-baloncesto-2026-en-vivo-hoy-f202606-d/)<br>
 17:28 [Rhys Robinson, la joya de 16 años que el Madrid ata hasta 2030](https://as.com/baloncesto/acb/rhys-robinson-la-joya-de-16-anos-que-el-madrid-ata-hasta-2030-f202606-n/)<br>
 17:03 [López Nieto: “El sitio idóneo es BCL, no Eurocup”](https://as.com/baloncesto/lopez-nieto-el-sitio-idoneo-es-bcl-no-eurocup-f202606-n/)<br>
@@ -98,6 +105,17 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 07:01 [Montero contra Ricky, segundo asalto](https://as.com/baloncesto/acb/montero-contra-ricky-segundo-asalto-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:37 [Misa del papa León en Tenerife: la cita con la historia que nadie quiso perderse](https://www.elperiodico.com/es/sociedad/20260612/misa-papa-leon-tenerife-cita-131355311)<br>
+22:10 [Las aerolíneas ven avaladas en Bruselas las tarifas por equipaje de mano: "Es legal cobrar menos a quien viaje solo con un bulto"](https://www.elperiodico.com/es/economia/20260612/aerolineas-ven-avaladas-bruselas-tarifas-131354820)<br>
+22:09 [Un brillante Valencia pone contras las cuerdas al Joventut y se acerca a la final (90-76)](https://www.elperiodico.com/es/deportes/20260612/brillante-valencia-pone-contras-cuerdas-131354735)<br>
+22:00 [El obispo Eloy da la ‘nacionalidad’ al Papa León: "Es uno de los nuestros, es también canario"](https://www.elperiodico.com/es/sociedad/20260612/obispo-eloy-nacionalidad-papa-visita-tenerife-131355001)<br>
+21:33 [El papa vuelve al Vaticano en el Falcon prestado por Felipe VI](https://www.elperiodico.com/es/sociedad/20260612/papa-volvio-vaticano-falcon-prestado-131354285)<br>
+21:31 [Andanzas](https://www.elperiodico.com/es/opinion/20260612/andanzas-131352402)<br>
+21:20 [Macrorredada policial contra el tráfico de armas de fuego en Barcelona tras dos asesinatos en 72 horas](https://www.elperiodico.com/es/sucesos/20260612/macroredada-policial-trafico-armas-fuego-barcelona-pistolas-asesinatos-131353867)<br>
+21:04 [Macron y Carney celebran la alianza de Canadá y la UE frente a Trump: "Compartimos una visión común del mundo"](https://www.elperiodico.com/es/internacional/20260612/macron-carney-celebran-acercamiento-canada-europa-frente-trump-vision-mundo-131353354)<br>
+20:58 [Multimedia | León XIV en España: una visita para la historia](https://www.elperiodico.com/es/sociedad/20260612/multimedia-leon-xiv-espana-visita-espana-131352466)<br>
+20:52 ['Toy Story 5': Jessie, Woody y Lightyear contra las maquinitas](https://www.elperiodico.com/es/ocio-y-cultura/20260612/toy-story-5-jessie-woody-lightyear-contra-maquinitas-131352339)<br>
+20:45 [Reus inaugura el nuevo espacio inmersivo del Gaudí Centre con una proyección audiovisual inédita](https://www.elperiodico.com/es/tarragona/20260612/reus-inaugura-nuevo-espacio-inmersivo-gaudi-centre-131342108)<br>
 20:28 [Detenidas tres activistas vestidas de monja en los alrededores de la Sagrada Família durante la visita del Papa](https://www.elperiodico.com/es/sucesos/20260612/detenidas-activistas-vestidas-monja-protesta-tauromaquia-sagrada-familia-papa-leon-xiv-131349525)<br>
 20:19 [Guterres sobre Musk como primer billonario: "Pone de relieve problema de la desigualdad"](https://www.elperiodico.com/es/tecnologia/20260612/guterres-musk-primer-billonario-pone-desigualdad-131351479)<br>
 20:15 [Nuevas investigaciones indican que, en el futuro, los árboles podrían almacenar menos carbono de lo esperado](https://www.elperiodico.com/es/sociedad/20260612/nuevas-investigaciones-indican-futuro-arboles-almacenar-menos-carbono-131351477)<br>
