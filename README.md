@@ -1,8 +1,25 @@
-# News for 2026-06-12 12:47
+# News for 2026-06-12 15:58
 
 Previous day: [2026-06-11](./data/2026-06-11.md)
 
 ## ua.korrespondent.net
+15:44 [Японська ракета-носій вивела на орбіту шість супутників](https://ua.korrespondent.net/tech/space/4886104-yaponska-raketa-nosii-vyvela-na-orbitu-shist-suputnykiv)<br>
+15:39 [Стали відомі подробиці нових контрактів у ЗСУ](https://ua.korrespondent.net/ukraine/4886103-staly-vidomi-podrobytsi-novykh-kontraktiv-u-zsu)<br>
+15:23 [Зеленський попередив українців про загрозу ударів](https://ua.korrespondent.net/ukraine/4886098-zelenskyi-poperedyv-ukraintsiv-pro-zahrozu-udariv)<br>
+15:20 [В Тернопільському ТЦК утримувалися люди з інвалідністю - омбудсмен](https://ua.korrespondent.net/ukraine/4886097-v-ternopilskomu-ttsk-utrymuvalysia-luidy-z-invalidnistui-ombudsmen)<br>
+14:51 [На Черкащині отримав підозру поліцейський, який побив чоловіка](https://ua.korrespondent.net/ukraine/4886092-na-cherkaschyni-otrymav-pidozru-politseiskyi-yakyi-pobyv-cholovika)<br>
+14:47 [ЗМІ оцінили наслідки нових квот ЄС для металургії України](https://ua.korrespondent.net/business/economics/4886089-zmi-otsinyly-naslidky-novykh-kvot-yes-dlia-metalurhii-ukrainy)<br>
+14:29 [Зеленський озвучив деталі реформи в армії](https://ua.korrespondent.net/ukraine/4886085-zelenskyi-ozvuchyv-detali-reformy-v-armii)<br>
+14:26 [Виробник IRIS-T планує спільно з Україною випускати ракети Фламінго у ФРН](https://ua.korrespondent.net/business/companies/4886084-vyrobnyk-IRIS-T-planuie-spilno-z-ukrainoui-vypuskaty-rakety-flaminho-u-frn)<br>
+14:16 [Російська металургія увійшла в найглибшу кризу з 2000-х](https://ua.korrespondent.net/business/economics/4886081-rosiiska-metalurhiia-uviishla-v-naihlybshu-kryzu-z-2000-kh)<br>
+13:59 [Україні потрібні додаткові $20 млрд на зброю - ЗМІ](https://ua.korrespondent.net/ukraine/4886075-ukraini-potribni-dodatkovi-20-mlrd-na-zbroui-zmi)<br>
+13:54 [ЗМІ: Іран висунув вимогу про $300 млрд компенсації](https://ua.korrespondent.net/world/4886072-zmi-iran-vysunuv-vymohu-pro-300-mlrd-kompensatsii)<br>
+13:51 [На вихідних Україну накриють дощі з грозами та шквалами](https://ua.korrespondent.net/ukraine/4886071-na-vykhidnykh-ukrainu-nakryuit-doschi-z-hrozamy-ta-shkvalamy)<br>
+13:29 [У районі порту Усть-Луга стався вибух - росЗМІ](https://ua.korrespondent.net/world/russia/4886065-u-raioni-portu-ust-luha-stavsia-vybukh-roszmi)<br>
+13:12 [У Севастополі зруйновано російський корабель Іван Хурс - соцмережі](https://ua.korrespondent.net/ukraine/4886060-u-sevastopoli-zruinovano-rosiiskyi-korabel-ivan-khurs-sotsmerezhi)<br>
+13:07 [Рецидивіста засудили до 15 років за спробу зґвалтування 13-річної](https://ua.korrespondent.net/ukraine/4886059-retsydyvista-zasudyly-do-15-rokiv-za-sprobu-zgvaltuvannia-13-richnoi)<br>
+13:01 [Зеленський запровадив нові санкції проти РФ](https://ua.korrespondent.net/ukraine/4886057-zelenskyi-zaprovadyv-novi-sanktsii-proty-rf)<br>
+12:47 [Ракета влучила у приватний сектор на Одещині](https://ua.korrespondent.net/ukraine/4886053-raketa-vluchyla-u-pryvatnyi-sektor-na-odeschyni)<br>
 12:43 [Загроза балістичного удару з Росії: що відомо](https://ua.korrespondent.net/ukraine/4886046-zahroza-balistychnoho-udaru-z-rosii-scho-vidomo)<br>
 12:40 [У Києві затримали організатора пікантних нарковечірок для чоловік](https://ua.korrespondent.net/city/kiev/4886044-u-kyievi-zatrymaly-orhanizatora-pikantnykh-narkovechirok-dlia-cholovik)<br>
 12:37 [Суми потрапили під артобстріл, шестеро поранених](https://ua.korrespondent.net/ukraine/4886047-sumy-potrapyly-pid-artobstril-shestero-poranenykh)<br>
@@ -16,6 +33,7 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 11:39 [Експрезидент Південної Кореї отримав ще 30 років тюрми](https://ua.korrespondent.net/world/4886013-eksprezydent-pivdennoi-korei-otrymav-sche-30-rokiv-tuirmy)<br>
 11:33 [Є загроза застосування Орєшніка - ПС](https://ua.korrespondent.net/ukraine/4886011-ye-zahroza-zastosuvannia-orieshnika-ps)<br>
 11:15 [Ціни на нафту опинились нижче психологічної межі](https://ua.korrespondent.net/business/financial/4886003-tsiny-na-naftu-opynylys-nyzhche-psykholohichnoi-mezhi)<br>
+11:15 [Ціни на нафту опинились нижче психологічної межі](https://ua.korrespondent.net/business/economics/4886003-tsiny-na-naftu-opynylys-nyzhche-psykholohichnoi-mezhi)<br>
 11:11 [Росіяни атакували дроном ринок у Херсоні](https://ua.korrespondent.net/ukraine/4885999-rosiiany-atakuvaly-dronom-rynok-u-khersoni)<br>
 10:58 [Українці більше довіряють Європі, як союзнику, аніж США - опитування](https://ua.korrespondent.net/ukraine/4885997-ukraintsi-bilshe-doviriauit-yevropi-yak-souiznyku-anizh-ssha-opytuvannia)<br>
 10:44 [У Росії уражено стратегічні заводи - Генштаб](https://ua.korrespondent.net/ukraine/4885994-u-rosii-urazheno-stratehichni-zavody-henshtab)<br>
@@ -47,11 +65,46 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 00:21 [Комітет Сенату США підтримав $750 млн для України](https://ua.korrespondent.net/world/4885919-komitet-senatu-ssha-pidtrymav-750-mln-dlia-ukrainy)<br>
 
 ## as.com
+15:27 [La redención de Fall](https://as.com/baloncesto/la-redencion-de-fall-f202606-n/)<br>
 07:02 [El 1x1 de una temporada decepcionante](https://as.com/baloncesto/acb/el-1x1-de-una-temporada-decepcionante-f202606-n/)<br>
 07:02 [Valencia - Joventut: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/valencia-joventut-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
 07:01 [Montero contra Ricky, segundo asalto](https://as.com/baloncesto/acb/montero-contra-ricky-segundo-asalto-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:56 [La Corte de Apelaciones permite a Trump seguir cobrando su arancel global del 10%](https://www.elperiodico.com/es/internacional/20260612/corte-apelaciones-permite-gobierno-trump-arancel-global-131340957)<br>
+15:56 ['Murdoku', la mezcla de sudoku y cluedo que arrasa con más de 140.000 ejemplares vendidos](https://www.elperiodico.com/es/ocio-y-cultura/20260612/murdoku-pasatiempo-mas-vendido-libro-verano-131276370)<br>
+15:47 [El retablo postmoderno de Gino Rubert que satiriza el mundo del arte catalán vuelve a casa, a la Escala](https://www.elperiodico.com/es/ocio-y-cultura/20260612/retablo-postmoderno-gino-rubert-satiriza-131327989)<br>
+15:45 [La Comunidad de Madrid exigirá desde el lunes el empadronamiento para solicitar el abono transportes](https://www.elperiodico.com/es/economia/20260612/comunidad-madrid-empadronamiento-abono-transportes-131340477)<br>
+15:44 [El PP se reivindica como el "único representante" del mundo económico catalán](https://www.elperiodico.com/es/politica/20260612/pp-alberto-nadal-se-reivindica-representante-mundo-economico-catalan-131338748)<br>
+15:38 [¡Que no pare la fiesta!](https://www.elperiodico.com/es/opinion/20260612/pare-fiesta-sagrada-familia-articulo-jordi-punti-131339892)<br>
+15:29 [Iberdrola activa una reordenación de su cúpula financiera y asciende a David Mesonero](https://www.elperiodico.com/es/economia/20260612/iberdrola-reordenacion-cupula-directiva-david-mesonero-finanzas-131339724)<br>
+15:26 [Entre aplausos y vitores: así fue la llegada del papa León XIV a Santa Cruz de Tenerife](https://www.elperiodico.com/es/videos/sociedad/aplausos-vitores-llegada-papa-leon/131339632.shtml)<br>
+15:23 [León XIV Superstar](https://www.elperiodico.com/es/opinion/20260612/leon-xiv-superstar-articulo-marti-saballs-pons-131329942)<br>
+15:11 [Estos trabajadores pueden cobrar el 100% de la baja laboral desde el primer día gracias a una nueva protección de la Seguridad Social](https://www.elperiodico.com/es/economia/20260612/trabajadores-cobrar-100-baja-laboral-desde-primer-dia-dv-131338159)<br>
+15:02 [León XIV contrapone la vocación turística de Tenerife con el drama de la ruta atlántica: "No reduzcamos todo al comercio y al beneficio"](https://www.elperiodico.com/es/sociedad/20260612/leon-xiv-contrapone-vocacion-turistica-131338430)<br>
+15:00 [Valeria, la alumna madrileña con la mejor nota de la PAU 2026: "No me lo puedo creer, no esperaba tanto, y quiero estudiar Medicina"](https://www.elperiodico.com/es/educacion/20260612/valeria-alumna-madrilena-mejor-nota-selectividad-2026-dv-131297005)<br>
+15:00 [Comienza la misa del papa León XIV en Santa Cruz de Tenerife](https://www.elperiodico.com/es/videos/sociedad/comienza-misa-papa-leon-xiv-tenerife/131338327.shtml)<br>
+14:58 [Rostro de Papa](https://www.elperiodico.com/es/opinion/20260612/rostro-papa-131333342)<br>
+14:56 [El TJUE sentenciará sobre la ley de amnistía el 16 de julio](https://www.elperiodico.com/es/politica/20260612/ley-amnistia-tjue-16-julio-sentencia-131337932)<br>
+14:39 [Barcelona prevé construir 120 pisos públicos, equipamientos comunitarios y oficinas delante de la Torre Glòries](https://www.elperiodico.com/es/videos/barcelona/barcelona-preve-construir-120-pisos-publicos-equipamientos-oficinas-delante-torre-glories-video/131337139.shtml)<br>
+14:37 [El Papa y un joven migrante protagonizan un divertido "six-seven" en La Laguna, Tenerife](https://www.elperiodico.com/es/videos/politica/papa-joven-migrante-protagonizan-divertido-six-seven/131337166.shtml)<br>
+14:28 [Elon Musk se convertirá este viernes en el primer billonario de la historia: acumulará más riqueza que el 46% de la población mundial](https://www.elperiodico.com/es/internacional/20260612/elon-musk-primer-billonario-historia-riqueza-spacex-bolsa-tesla-acciones-patrimonio-trump-131336557)<br>
+14:23 [Los nombres propios del liderazgo empresarial de la Región](https://www.elperiodico.com/es/sociedad/20260612/nombres-propios-liderazgo-empresarial-region-bc-131334619)<br>
+14:21 [Los viajes del Imserso 2026-2027 se acercan: estas son las fechas que los pensionistas deben marcar en el calendario](https://www.elperiodico.com/es/economia/20260612/viajes-imserso-2026-2027-fechas-131333114)<br>
+14:21 [León XIV recorre el recinto de la misa para saludar a todos sus fieles](https://www.elperiodico.com/es/videos/sociedad/leon-xiv-recorre-recinto-misa/131334453.shtml)<br>
+14:18 [La fiscalía cree que hay riesgo de fuga de Jonathan Andic por su "altísima capacidad económica"](https://www.elperiodico.com/es/sociedad/20260612/fiscalia-rechaza-devolverle-millon-euros-mango-andic-jonathan-isak-131333247)<br>
+14:15 [Collboni reivindica el "acento social" del modelo de transición energética de Barcelona](https://www.elperiodico.com/es/barcelona/20260612/collboni-reivindica-acento-social-modelo-transicion-energetica-131328556)<br>
+14:14 [Los mejores momentos de la Gala Premios Empresa del Año La Opinión de Murcia](https://www.elperiodico.com/es/sociedad/20260612/mejores-momentos-gala-premios-empresa-bc-131333892)<br>
+14:05 [Calcula la probabilidad de ser centenario en función de la provincia en que vivas](https://www.elperiodico.com/es/sociedad/20260612/calcula-probabilidad-centenario-longevidad-mapa-131329502)<br>
+14:00 [El Ejército despliega una franja robótica de combate en Eslovaquia](https://www.elperiodico.com/es/politica/20260612/ejercito-despliega-franja-robotica-combate-eslovaquia-131333058)<br>
+13:56 [Foment duda de que la economía española pueda seguir creciendo más que la europea](https://www.elperiodico.com/es/economia/20260612/foment-del-treball-duda-economia-crecimiento-ventaja-ue-131329850)<br>
+13:48 [Barcelona guarda en Glòries como un tesoro 250 bloques de las extintas canteras de Montjuïc](https://www.elperiodico.com/es/barcelona/eixample/20260612/barcelona-guarda-glories-tesoro-250-bloques-canteras-montjuic-131299023)<br>
+13:46 [El III Foro Económico y Social del Mediterráneo reunirá en Barcelona a líderes institucionales, empresariales, académicos y sociales](https://www.elperiodico.com/es/economia/20260612/iii-foro-economico-social-mediterraneo-131332256)<br>
+13:35 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260612/hoy-barcelona-agenda-actividades-planes-semana-102304377)<br>
+13:12 [El Síndic abre una actuación de oficio para analizar la situación que denuncia la campaña 'Ni un minut més'](https://www.elperiodico.com/es/sanidad/20260612/sindic-abre-actuacion-oficio-analizar-situacion-denuncia-campana-ni-un-minut-mes-131328628)<br>
+13:08 [Más de 325.000 niños y adolescentes españoles se han beneficiado de las ayudas de 100 euros para gafas y lentillas](https://www.elperiodico.com/es/sanidad/20260612/ninos-adolescentes-espanoles-ayudas-gafas-lentillas-131322396)<br>
+13:08 [Un repaso a la obra de David Hockney](https://www.elperiodico.com/es/fotos/ocio-y-cultura/repaso-obra-david-hockney-fotos-131327971)<br>
+13:02 [Los trenes más largos de Rodalies ya pueden circular por toda la R1](https://www.elperiodico.com/es/sociedad/20260612/trenes-mas-largos-rodalies-renfe-circular-toda-r1-refuerzo-verano-maresme-131324532)<br>
 12:42 [El PP llama a la comisión del Senado a Marlaska y a la Fiscal General por el caso Leire](https://www.elperiodico.com/es/politica/20260612/pp-llama-comision-senado-marlaska-131327773)<br>
 12:41 [Retos de la defensa europea](https://www.elperiodico.com/es/opinion/20260612/retos-defensa-europea-131327102)<br>
 12:38 [Tarraco H2, la primera planta de hidrógeno verde de Catalunya, se construirá en terrenos entre Reus y Tarragona](https://www.elperiodico.com/es/tarragona/20260612/tarraco-h2-primera-planta-hidrogeno-verde-catalunya-tarragona-131324719)<br>
