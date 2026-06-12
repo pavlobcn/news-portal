@@ -1,8 +1,21 @@
-# News for 2026-06-12 03:42
+# News for 2026-06-12 08:20
 
 Previous day: [2026-06-11](./data/2026-06-11.md)
 
 ## ua.korrespondent.net
+08:15 [Повітряні сили розкрили деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4885966-povitriani-syly-rozkryly-detali-nichnoi-ataky-rf)<br>
+08:00 [MIRSON: історія комфорту, що почалася в Тоскані у 1879 році](https://ua.korrespondent.net/business/4885146-MIRSON-istoriia-komfortu-scho-pochalasia-v-toskani-u-1879-rotsi)<br>
+07:58 [Нічна атака: на Київщині сталася масштабна пожежа](https://ua.korrespondent.net/ukraine/4885964-nichna-ataka-na-kyivschyni-stalasia-masshtabna-pozhezha)<br>
+07:47 [НХЛ: Кароліна вирвала перемогу та повела у фіналі](https://ua.korrespondent.net/sport/hokey/4885962-nkhl-karolina-vyrvala-peremohu-ta-povela-u-finali)<br>
+07:38 [Не встигла сховатися в укриття: росіяни вбили ппрацівницю залізниці](https://ua.korrespondent.net/ukraine/4885960-ne-vstyhla-skhovatysia-v-ukryttia-rosiiany-vbyly-ppratsivnytsui-zaliznytsi)<br>
+07:21 [Росіяни атакують на 13 напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4885958-rosiiany-atakuuit-na-13-napriamkakh-henshtab)<br>
+06:59 [Можливе усунення Каллас з посади: з'явилася реація головної дипломатки ЄС](https://ua.korrespondent.net/world/4885954-mozhlyve-usunennia-kallas-z-posady-ziavylasia-reatsiia-holovnoi-dyplomatky-yes)<br>
+06:27 [Генштаб назвав втрати Росії станом на 12 червня](https://ua.korrespondent.net/ukraine/4885951-henshtab-nazvav-vtraty-rosii-stanom-na-12-chervnia)<br>
+05:58 [Підсумки 11.06: Ізоляція Криму і зміна пріоритетів](https://ua.korrespondent.net/ukraine/4885796-pidsumky-1106-izoliatsiia-krymu-i-zmina-priorytetiv)<br>
+05:27 [У Миколаєві дрони вночі поранили людей](https://ua.korrespondent.net/ukraine/4885948-u-mykolaievi-drony-vnochi-poranyly-luidei)<br>
+04:56 [У РФ дрони атакували хімзавод](https://ua.korrespondent.net/world/russia/4885946-u-rf-drony-atakuvaly-khimzavod)<br>
+04:25 [Цифри на газоні: у Вашингтоні розслідують заклик "прибрати Трампа"](https://ua.korrespondent.net/world/4885944-tsyfry-na-hazoni-u-vashynhtoni-rozsliduuit-zaklyk-prybraty-trampa)<br>
+03:53 [У Польщі активісти збирають гроші на автобуси для Вінниці](https://ua.korrespondent.net/world/4885900-u-polschi-aktyvisty-zbyrauit-hroshi-na-avtobusy-dlia-vinnytsi)<br>
 03:24 [Маск став першим у світі доларовим трильйонером](https://ua.korrespondent.net/business/4885940-mask-stav-pershym-u-sviti-dolarovym-trylionerom)<br>
 02:55 [Росіяни атакували Сумщину: є жертви](https://ua.korrespondent.net/ukraine/4885941-rosiiany-atakuvaly-sumschynu-ye-zhertvy)<br>
 02:23 [У Сімферополі після атаки палає ТЕЦ - сооцмережі](https://ua.korrespondent.net/ukraine/4885936-u-simferopoli-pislia-ataky-palaie-tets-sootsmerezhi)<br>
@@ -10,5 +23,32 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 00:49 [МВС готує нові правила обігу вогнепальної зброї](https://ua.korrespondent.net/ukraine/4885924-mvs-hotuie-novi-pravyla-obihu-vohnepalnoi-zbroi)<br>
 00:21 [Комітет Сенату США підтримав $750 млн для України](https://ua.korrespondent.net/world/4885919-komitet-senatu-ssha-pidtrymav-750-mln-dlia-ukrainy)<br>
 
+## as.com
+07:02 [El 1x1 de una temporada decepcionante](https://as.com/baloncesto/acb/el-1x1-de-una-temporada-decepcionante-f202606-n/)<br>
+07:02 [Valencia - Joventut: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/valencia-joventut-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
+07:01 [Montero contra Ricky, segundo asalto](https://as.com/baloncesto/acb/montero-contra-ricky-segundo-asalto-f202606-n/)<br>
+
 ## www.elperiodico.com
+08:10 [Guerra en Oriente Medio, en directo: Trump asegura haber alcanzado un acuerdo de paz con Irán que podría firmarse este fin de semana](https://www.elperiodico.com/es/internacional/20260612/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
+08:10 [Guardar muebles o aparcar dos vehículos: la Ley de Propiedad Horizontal dicta qué se puede hacer (y qué no) en una plaza de garaje comunitario](https://www.elperiodico.com/es/sociedad/20260612/aparcamiento-vehiculos-muebles-dv-125922782)<br>
+08:10 [¿Es legal prohibir usar el ascensor a un vecino que no paga la comunidad? Esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260612/legal-prohibir-ascensor-vecino-paga-comunidad-ley-propiedad-horizontal-dv-131158001)<br>
+08:00 [Láser de guerra, nubes de combate, misiles… Defensa busca investigadores en áreas críticas militares](https://www.elperiodico.com/es/politica/20260612/laser-guerra-nubes-combate-misiles-proyectos-criticos-defensa-131311167)<br>
+07:58 [Muere 'Bha', la princesa que daba un soplo de modernidad a la monarquía tailandesa](https://www.elperiodico.com/es/politica/20260612/fallece-bha-princesa-modernidad-monarquia-tailandia-131316423)<br>
+07:55 [Los tribunales tumban un macroproyecto industrial en Madrid por afectar a suelo agrícola de máxima calidad](https://www.elperiodico.com/es/medio-ambiente/20260612/tribunales-tumban-macroproyecto-industrial-madrid-131316436)<br>
+07:45 [De dar órdenes a 'desaparecer': las consecuencias jurídicas de los wasaps de Mazón en el grupo del Consell el día de la dana](https://www.elperiodico.com/es/politica/20260612/dar-ordenes-desaparecer-consecuencias-juridicas-131316239)<br>
+07:30 [Visita del Papa a España, en directo | Última hora de León XIV en Canarias](https://www.elperiodico.com/es/sociedad/20260612/directo-papa-leon-xiv-espana-madrid-barcelona-canarias-130999248)<br>
+07:15 [Los meteorólogos coinciden sobre el calor en Catalunya: hay que prepararse](https://www.elperiodico.com/es/tiempo/20260612/calor-lluvia-verano-cataluna-meteorologos-dv-loc-131274491)<br>
+07:00 [Guía de las mejores piscinas de Barcelona para el verano de 2026: baratas o exclusivas, con vistas al bosque o al mar](https://www.elperiodico.com/es/que-hacer/planes/20260612/mejores-piscinas-verano-2026-barcelona-precios-horarios-131250271)<br>
+06:34 [Guerra Ucrania - Rusia, en directo, última hora del conflicto](https://www.elperiodico.com/es/internacional/20260612/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+06:01 [Una app reduce la soledad y mejora el bienestar de personas con trastornos mentales](https://www.elperiodico.com/es/ser-feliz/20260612/app-reduce-soledad-mejora-bienestar-130808984)<br>
+06:01 [La torre de la Sagrada Família, un motivo de orgullo permanente](https://www.elperiodico.com/es/opinion/20260612/torre-sagrada-familia-motivo-orgullo-131311360)<br>
+06:01 [Galdric Santacana, experto en las campanas de Gaudí: "La Sagrada Familia será un instrumento colosal"](https://www.elperiodico.com/es/ocio-y-cultura/20260612/galdric-santacana-experto-campanas-gaudi-131297859)<br>
+06:01 [España hace equilibrios con el pacto migratorio: negará la residencia humanitaria pero rechaza externalizar centros de internamiento](https://www.elperiodico.com/es/politica/20260612/espana-equilibrios-pacto-migratorio-negara-131305867)<br>
+06:00 [Salut incluye a Vall d'Hebron en la sanción a Sant Joan de Déu y Sant Pau por el bebé maltratado y les multa con 6.000 euros](https://www.elperiodico.com/es/sanidad/20260612/salut-incluye-hospital-vall-dhebron-sancion-sant-joan-de-deu-sant-pau-bebe-maltratado-barcelona-131293189)<br>
+06:00 [Grifols prevé aumentar hasta los 225 millones su inversión en Egipto: "Este proyecto cambiará la industria global del plasma"](https://www.elperiodico.com/es/economia/20260612/grifols-preve-aumentar-225-millones-inversion-egipto-131305489)<br>
+06:00 [Entra en vigor el Pacto Migratorio que blinda las fronteras de la UE](https://www.elperiodico.com/es/internacional/20260612/entra-vigor-pacto-migratorio-europeo-en-que-consiste-131315224)<br>
+06:00 [El 'boom' de las comisarías de Policía Local: inversiones millonarias levantan prefecturas en una decena de ciudades del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260612/boom-comisarias-policia-local-decena-ayuntamientos-construyen-reforman-prefecturas-reforzar-seguridad-131184545)<br>
+06:00 [Musk busca las estrellas en Wall Street: cinco claves de la salida a bolsa de SpaceX, la mayor de la historia](https://www.elperiodico.com/es/economia/20260612/programada-epc-musk-busca-estrellas-131272558)<br>
+06:00 [Junts prepara una batería de enmiendas a los presupuestos con las demandas de sus alcaldes](https://www.elperiodico.com/es/politica/20260612/junts-enmiendas-presupuestos-salvador-illa-generalitat-peticiones-alcaldes-131202326)<br>
+05:00 [Malos tratos, agresiones sexuales, "exploraciones vaginales"... Ya hay fecha para el juicio contra el médico de la "casa de los horrores" y su mujer](https://www.elperiodico.com/es/sucesos/20260612/juicio-padres-casa-horrores-madrid-131315007)<br>
 02:46 [En medio de los apagones, EEUU sanciona a la empresa estatal cubana de energía](https://www.elperiodico.com/es/internacional/20260612/medio-apagones-eeuu-sanciona-empresa-131314623)<br>
