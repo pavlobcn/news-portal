@@ -1,8 +1,22 @@
-# News for 2026-06-12 15:58
+# News for 2026-06-12 18:40
 
 Previous day: [2026-06-11](./data/2026-06-11.md)
 
 ## ua.korrespondent.net
+18:28 [Україна скоротила імпорт електрогенераторів](https://ua.korrespondent.net/business/economics/4886151-ukraina-skorotyla-import-elektroheneratoriv)<br>
+18:25 [Більше можливостей: 001k.bot виходить за межі Telegram](https://ua.korrespondent.net/business/4886144-bilshe-mozhlyvostei-001kbot-vykhodyt-za-mezhi-Telegram)<br>
+18:00 [НБУ назвав курс долара на наступний тиждень](https://ua.korrespondent.net/business/financial/4886145-nbu-nazvav-kurs-dolara-na-nastupnyi-tyzhden)<br>
+17:37 [Путін пригрозив посиленням ударів по Україні](https://ua.korrespondent.net/world/russia/4886139-putin-pryhrozyv-posylenniam-udariv-po-ukraini)<br>
+17:34 [Адам Кадиров вдруге отримав звання героя Чечні](https://ua.korrespondent.net/world/russia/4886137-adam-kadyrov-vdruhe-otrymav-zvannia-heroia-chechni)<br>
+17:26 [Російські аеропорти вводять ліміти на авіапальне](https://ua.korrespondent.net/business/economics/4886134-rosiiski-aeroporty-vvodiat-limity-na-aviapalne)<br>
+17:01 [ВАКС продовжив арешт Галущенку та зменшив заставу](https://ua.korrespondent.net/ukraine/4886125-vaks-prodovzhyv-aresht-haluschenku-ta-zmenshyv-zastavu)<br>
+16:58 [Перший в світі. Ілон Маск - трильйонер](https://ua.korrespondent.net/world/4886124-pershyi-v-sviti-ilon-mask-trylioner)<br>
+16:53 [Війська США проводять танкери через Ормузьку протоку](https://ua.korrespondent.net/world/4886122-viiska-ssha-provodiat-tankery-cherez-ormuzku-protoku)<br>
+16:50 [ПриватБанк призупинить карткові операції, роботу банкоматів і терміналів](https://ua.korrespondent.net/business/financial/4886119-pryvatbank-pryzupynyt-kartkovi-operatsii-robotu-bankomativ-i-terminaliv)<br>
+16:30 [У Польщі прийняли на озброєння F-35](https://ua.korrespondent.net/world/4886115-u-polschi-pryinialy-na-ozbroiennia-F-35)<br>
+16:29 [Росіяни змінили основний напрямок атак - Генштаб](https://ua.korrespondent.net/ukraine/4886113-rosiiany-zminyly-osnovnyi-napriamok-atak-henshtab)<br>
+16:10 [Наводила удари по Херсону: вчителька отримала довічне ув’язнення](https://ua.korrespondent.net/ukraine/4886111-navodyla-udary-po-khersonu-vchytelka-otrymala-dovichne-uviaznennia)<br>
+15:58 [США та Іран готують угоду до саміту G7 - ЗМІ](https://ua.korrespondent.net/world/4886108-ssha-ta-iran-hotuuit-uhodu-do-samitu-G7-zmi)<br>
 15:44 [Японська ракета-носій вивела на орбіту шість супутників](https://ua.korrespondent.net/tech/space/4886104-yaponska-raketa-nosii-vyvela-na-orbitu-shist-suputnykiv)<br>
 15:39 [Стали відомі подробиці нових контрактів у ЗСУ](https://ua.korrespondent.net/ukraine/4886103-staly-vidomi-podrobytsi-novykh-kontraktiv-u-zsu)<br>
 15:23 [Зеленський попередив українців про загрозу ударів](https://ua.korrespondent.net/ukraine/4886098-zelenskyi-poperedyv-ukraintsiv-pro-zahrozu-udariv)<br>
@@ -65,12 +79,36 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 00:21 [Комітет Сенату США підтримав $750 млн для України](https://ua.korrespondent.net/world/4885919-komitet-senatu-ssha-pidtrymav-750-mln-dlia-ukrainy)<br>
 
 ## as.com
+17:28 [Rhys Robinson, la joya de 16 años que el Madrid ata hasta 2030](https://as.com/baloncesto/acb/rhys-robinson-la-joya-de-16-anos-que-el-madrid-ata-hasta-2030-f202606-n/)<br>
+17:03 [López Nieto: “El sitio idóneo es BCL, no Eurocup”](https://as.com/baloncesto/lopez-nieto-el-sitio-idoneo-es-bcl-no-eurocup-f202606-n/)<br>
+16:34 [Ibon Navarro, nuevo entrenador del Estrella Roja tras desvincularse del Unicaja](https://as.com/baloncesto/acb/ibon-navarro-nuevo-entrenador-del-estrella-roja-tras-desvincularse-del-unicaja-f202606-n/)<br>
 15:27 [La redención de Fall](https://as.com/baloncesto/la-redencion-de-fall-f202606-n/)<br>
 07:02 [El 1x1 de una temporada decepcionante](https://as.com/baloncesto/acb/el-1x1-de-una-temporada-decepcionante-f202606-n/)<br>
 07:02 [Valencia - Joventut: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/valencia-joventut-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n-2/)<br>
 07:01 [Montero contra Ricky, segundo asalto](https://as.com/baloncesto/acb/montero-contra-ricky-segundo-asalto-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:34 [Jonathan Andic a su padre cinco meses antes de la caída mortal: "No me extraña que pensaras que era capaz hasta de matarte"](https://www.elperiodico.com/es/sociedad/20260612/jonathan-andic-isak-padre-cinco-meses-antes-muerte-pensaras-capaz-matarte-mango-131348063)<br>
+18:30 [Ni confianza ni liderazgo: los psicólogos coinciden sobre el problema de las personas que levantan la voz](https://www.elperiodico.com/es/ser-feliz/20260612/confianza-liderazgo-psicologos-coinciden-problema-personas-levantan-voz-dv-131159823)<br>
+18:28 [EEUU podría retirar un tercio de los aviones de combate que proporcionan a la OTAN para Europa](https://www.elperiodico.com/es/internacional/20260612/eeuu-retirar-tercio-aviones-combate-otan-guerra-europa-131347958)<br>
+18:28 [Elon Musk toca la campana en la sesión de debut de SpaceX en el Nasdaq](https://www.elperiodico.com/es/videos/economia/elon-musk-toca-campana-sesion/131347852.shtml)<br>
+18:20 [La ministra Robles cierra el último curso de la Academia Europea Leadership](https://www.elperiodico.com/es/politica/20260612/magrarita-robles-curso-duran-i-lleida-academia-europea-leadership-131346671)<br>
+18:19 [Muere a los 88 años el artista británico David Hockney](https://www.elperiodico.com/es/videos/ocio-y-cultura/muere-88-anos-artista-britanico/131347396.shtml)<br>
+18:18 [Desestimado el recurso del MNAC contra el plazo de devolución de las pinturas de Sijena](https://www.elperiodico.com/es/ocio-y-cultura/20260612/desestimado-recurso-mnac-plazo-devolucion-pinturas-sijena-131347170)<br>
+18:14 [Una incidencia técnica deja parado momentáneamente el avión del papa](https://www.elperiodico.com/es/videos/sucesos/incidencia-tecnica-deja-parado-momentaneamente/131347019.shtml)<br>
+18:14 [El Papa vuelve a bajar del avión por un problema técnico en Tenerife](https://www.elperiodico.com/es/videos/politica/papa-vuelve-bajar-avion-problema/131347110.shtml)<br>
+18:02 [Tres detenidos por llevar más de un kilo de cocaína en L’Hospitalet de Llobregat](https://www.elperiodico.com/es/sucesos/20260612/tres-detenidos-llevar-kilo-cocaina-hospitalet-mossos-trafico-drogas-131346398)<br>
+18:00 [El furor por el eclipse desata la pasión por la ciencia en España: la astronomía se convierte en 'best seller' y las exposiciones se expanden por todo el país](https://www.elperiodico.com/es/sociedad/20260612/eclipse-sol-12-agosto-pasion-ciencia-astronomia-actividades-libros-exposiciones-espana-131246296)<br>
+17:31 [Díaz-Canel anuncia un paquete de reformas para liberar la economía de Cuba](https://www.elperiodico.com/es/internacional/20260612/diaz-canel-anuncia-paquete-reformas-liberalizar-economia-cuba-131345316)<br>
+17:30 [Hartazgo social y agitación en las redes: las armas de la extrema derecha para alentar la violencia contra los inmigrantes en el Reino Unido](https://www.elperiodico.com/es/internacional/20260612/hartazgo-social-agitacion-redes-armas-extrema-derecha-alentar-violencia-inmigrantes-reino-unido-131345218)<br>
+17:27 [Así ha sido el último día del viaje del Papa León XIV por España](https://www.elperiodico.com/es/videos/politica/ultimo-dia-viaje-papa-espana/131344939.shtml)<br>
+17:17 [Trump ha dicho en 39 ocasiones desde que comenzó la guerra que el acuerdo con Irán está cerca](https://www.elperiodico.com/es/internacional/20260612/trump-39-ocasiones-final-guerra-iran-131344408)<br>
+17:14 [Barcelona rebautiza la plaza Virrei Amat como 'Salvat-Papasseit' y dedicará espacios a Solans, Aute, Clara-Simó y Benet i Jornet](https://www.elperiodico.com/es/barcelona/20260612/barcelona-rebautiza-plaza-virrei-amat-30-cambios-nomenclator-131340248)<br>
+16:51 [El Papa y los emigrantes](https://www.elperiodico.com/es/opinion/20260612/papa-emigrantes-union-europea-articulo-josep-borrell-131342420)<br>
+16:44 [La Generalitat adquirirá las Tres Xemeneies del Besòs y albergarán un proyecto de actividad económica](https://www.elperiodico.com/es/barcelona/20260612/generalitat-compra-tres-xemeneies-besos-sant-adria-badalona-131338505)<br>
+16:41 [El padre del bebé maltratado admitió a la familia que había "zarandeado" al pequeño y tratado de forma brusca](https://www.elperiodico.com/es/sociedad/20260612/juez-investigacion-malos-tratos-bebe-familia-hospital-vall-dhebron-barcelona-131323741)<br>
+16:30 [Cetaqua moviliza más de 340 millones de euros y crea 2.000 empleos especializados en sus 20 años de actividad](https://www.elperiodico.com/es/economia/20260612/cetaqua-moviliza-340-millones-euros-agua-131341172)<br>
+16:01 [SpaceX despega en Wall Street: debuta con un alza del 11% sobre el precio de la OPV](https://www.elperiodico.com/es/economia/20260612/spacex-calienta-motores-toque-campana-131341122)<br>
 15:56 [La Corte de Apelaciones permite a Trump seguir cobrando su arancel global del 10%](https://www.elperiodico.com/es/internacional/20260612/corte-apelaciones-permite-gobierno-trump-arancel-global-131340957)<br>
 15:56 ['Murdoku', la mezcla de sudoku y cluedo que arrasa con más de 140.000 ejemplares vendidos](https://www.elperiodico.com/es/ocio-y-cultura/20260612/murdoku-pasatiempo-mas-vendido-libro-verano-131276370)<br>
 15:47 [El retablo postmoderno de Gino Rubert que satiriza el mundo del arte catalán vuelve a casa, a la Escala](https://www.elperiodico.com/es/ocio-y-cultura/20260612/retablo-postmoderno-gino-rubert-satiriza-131327989)<br>
