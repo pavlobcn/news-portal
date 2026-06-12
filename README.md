@@ -1,8 +1,17 @@
-# News for 2026-06-12 18:40
+# News for 2026-06-12 20:29
 
 Previous day: [2026-06-11](./data/2026-06-11.md)
 
 ## ua.korrespondent.net
+20:24 [Зеленський підписав закон щодо росмови](https://ua.korrespondent.net/ukraine/4886176-zelenskyi-pidpysav-zakon-schodo-rosmovy)<br>
+20:01 [Путін пообіцяв створити супутникове угруповання, що перевершить Starlink](https://ua.korrespondent.net/world/russia/4886172-putin-poobitsiav-stvoryty-suputnykove-uhrupovannia-scho-perevershyt-Starlink)<br>
+19:44 [Продала дітей для жебракування: жінку ув'язнили на вісім років](https://ua.korrespondent.net/ukraine/4886169-prodala-ditei-dlia-zhebrakuvannia-zhinku-uviaznyly-na-visim-rokiv)<br>
+19:25 [Сирський розповів про нову контрактну систему](https://ua.korrespondent.net/ukraine/4886167-syrskyi-rozpoviv-pro-novu-kontraktnu-systemu)<br>
+19:21 [Samsung розсекретила Galaxy A27](https://ua.korrespondent.net/lifestyle/gadgets/4886164-Samsung-rozsekretyla-Galaxy-A27)<br>
+19:17 [Стармер прокоментував можливість відставки](https://ua.korrespondent.net/world/4886162-starmer-prokomentuvav-mozhlyvist-vidstavky)<br>
+19:14 [Від війни до меморандуму. США та Іран домовились?](https://ua.korrespondent.net/world/4886131-vid-viiny-do-memorandumu-ssha-ta-iran-domovylys)<br>
+18:55 [США надають Польщі $4 млрд кредиту на американське військове обладнання](https://ua.korrespondent.net/world/4886157-ssha-nadauit-polschi-4-mlrd-kredytu-na-amerykanske-viiskove-obladnannia)<br>
+18:44 [Порушення в Тернопільському ТЦК: відкрито кримінальне провадження](https://ua.korrespondent.net/ukraine/4886153-porushennia-v-ternopilskomu-ttsk-vidkryto-kryminalne-provadzhennia)<br>
 18:28 [Україна скоротила імпорт електрогенераторів](https://ua.korrespondent.net/business/economics/4886151-ukraina-skorotyla-import-elektroheneratoriv)<br>
 18:25 [Більше можливостей: 001k.bot виходить за межі Telegram](https://ua.korrespondent.net/business/4886144-bilshe-mozhlyvostei-001kbot-vykhodyt-za-mezhi-Telegram)<br>
 18:00 [НБУ назвав курс долара на наступний тиждень](https://ua.korrespondent.net/business/financial/4886145-nbu-nazvav-kurs-dolara-na-nastupnyi-tyzhden)<br>
@@ -79,6 +88,7 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 00:21 [Комітет Сенату США підтримав $750 млн для України](https://ua.korrespondent.net/world/4885919-komitet-senatu-ssha-pidtrymav-750-mln-dlia-ukrainy)<br>
 
 ## as.com
+20:27 [Valencia - Joventut, en directo: semifinales del playoff de la Liga Endesa de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/valencia-joventut-en-directo-semifinales-del-playoff-de-la-liga-endesa-de-baloncesto-2026-en-vivo-hoy-f202606-d/)<br>
 17:28 [Rhys Robinson, la joya de 16 años que el Madrid ata hasta 2030](https://as.com/baloncesto/acb/rhys-robinson-la-joya-de-16-anos-que-el-madrid-ata-hasta-2030-f202606-n/)<br>
 17:03 [López Nieto: “El sitio idóneo es BCL, no Eurocup”](https://as.com/baloncesto/lopez-nieto-el-sitio-idoneo-es-bcl-no-eurocup-f202606-n/)<br>
 16:34 [Ibon Navarro, nuevo entrenador del Estrella Roja tras desvincularse del Unicaja](https://as.com/baloncesto/acb/ibon-navarro-nuevo-entrenador-del-estrella-roja-tras-desvincularse-del-unicaja-f202606-n/)<br>
@@ -88,6 +98,19 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 07:01 [Montero contra Ricky, segundo asalto](https://as.com/baloncesto/acb/montero-contra-ricky-segundo-asalto-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:28 [Detenidas tres activistas vestidas de monja en los alrededores de la Sagrada Família durante la visita del Papa](https://www.elperiodico.com/es/sucesos/20260612/detenidas-activistas-vestidas-monja-protesta-tauromaquia-sagrada-familia-papa-leon-xiv-131349525)<br>
+20:19 [Guterres sobre Musk como primer billonario: "Pone de relieve problema de la desigualdad"](https://www.elperiodico.com/es/tecnologia/20260612/guterres-musk-primer-billonario-pone-desigualdad-131351479)<br>
+20:15 [Nuevas investigaciones indican que, en el futuro, los árboles podrían almacenar menos carbono de lo esperado](https://www.elperiodico.com/es/sociedad/20260612/nuevas-investigaciones-indican-futuro-arboles-almacenar-menos-carbono-131351477)<br>
+20:01 ['Toy Story 5', el regreso de los juguetes que construyeron los cimientos del imperio Pixar](https://www.elperiodico.com/es/ocio-y-cultura/20260612/toy-story-regreso-juguetes-pixar-131292390)<br>
+19:25 [El rey ofrece a León XIV el Falcon para volver a Roma](https://www.elperiodico.com/es/videos/politica/rey-ofrece-leon-xiv-falcon/131350114.shtml)<br>
+19:22 [Illa llama a rescatar del olvido figuras como Conxita Badia](https://www.elperiodico.com/es/politica/20260612/salvador-illa-conxita-badia-rescatar-figuras-olvido-memoria-democratica-131330671)<br>
+19:17 [El Teatre Lliure celebra 50 años mirando al futuro](https://www.elperiodico.com/es/videos/ocio-y-cultura/teatre-lliure-celebra-50-anos/131349798.shtml)<br>
+19:17 [El mensaje de Jonathan Andic a su padre cinco meses antes de la caída mortal](https://www.elperiodico.com/es/videos/sociedad/mensaje-jonathan-andic-padre-cinco-video/131349803.shtml)<br>
+19:13 [El Papa viaja en el Falcon del Rey tras la avería del avión que debía trasladarle](https://www.elperiodico.com/es/videos/politica/papa-viaja-falcon-rey-averia-avion/131349745.shtml)<br>
+19:06 [Pakistán anuncia un "texto definitivo y consensuado" del acuerdo de paz entre EEUU e Irán](https://www.elperiodico.com/es/internacional/20260612/pakistan-texto-definitivo-consensuado-eeuu-iran-acuerdo-paz-131349400)<br>
+19:06 [El Teatre Lliure celebra 50 años mirando al futuro](https://www.elperiodico.com/es/ocio-y-cultura/20260612/teatre-lliure-celebra-50-anos-131333948)<br>
+19:04 [La Sagrada Família batió su récord de público autóctono en la inauguración de la Torre de Jesús por el Papa: el 77%](https://www.elperiodico.com/es/sociedad/20260612/sagrada-familia-estadi-olimpic-record-publico-papa-leon-xiv-barcelona-131347007)<br>
+18:50 [Almudena Cid y Christian Gálvez, muchas cosas aún por contar](https://www.elperiodico.com/es/gente/20260612/almudena-cid-christian-galvez-cosas-131348042)<br>
 18:34 [Jonathan Andic a su padre cinco meses antes de la caída mortal: "No me extraña que pensaras que era capaz hasta de matarte"](https://www.elperiodico.com/es/sociedad/20260612/jonathan-andic-isak-padre-cinco-meses-antes-muerte-pensaras-capaz-matarte-mango-131348063)<br>
 18:30 [Ni confianza ni liderazgo: los psicólogos coinciden sobre el problema de las personas que levantan la voz](https://www.elperiodico.com/es/ser-feliz/20260612/confianza-liderazgo-psicologos-coinciden-problema-personas-levantan-voz-dv-131159823)<br>
 18:28 [EEUU podría retirar un tercio de los aviones de combate que proporcionan a la OTAN para Europa](https://www.elperiodico.com/es/internacional/20260612/eeuu-retirar-tercio-aviones-combate-otan-guerra-europa-131347958)<br>
