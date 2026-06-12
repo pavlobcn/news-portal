@@ -1,8 +1,11 @@
-# News for 2026-06-12 22:40
+# News for 2026-06-13 00:14
 
 Previous day: [2026-06-11](./data/2026-06-11.md)
 
 ## ua.korrespondent.net
+23:49 [Путін вдруге з початку року збільшив військо РФ](https://ua.korrespondent.net/world/russia/4886210-putin-vdruhe-z-pochatku-roku-zbilshyv-viisko-rf)<br>
+23:20 [Для прифронтових територій готують спеціальний статус](https://ua.korrespondent.net/ukraine/4886204-dlia-pryfrontovykh-terytorii-hotuuit-spetsialnyi-status)<br>
+22:51 [В Ірані розповіли, на якому етапі мирна угода](https://ua.korrespondent.net/world/4886200-v-irani-rozpovily-na-yakomu-etapi-myrna-uhoda)<br>
 22:25 [МВФ погодив новий транш для України: названі умови](https://ua.korrespondent.net/ukraine/4886197-mvf-pohodyv-novyi-transh-dlia-ukrainy-nazvani-umovy)<br>
 21:53 [Генштаб оновив дані щодо фронту](https://ua.korrespondent.net/ukraine/4886195-henshtab-onovyv-dani-schodo-frontu)<br>
 21:45 [Житель Криму показав, як росіяни маскують військові бензовози](https://ua.korrespondent.net/ukraine/4886192-zhytel-krymu-pokazav-yak-rosiiany-maskuuit-viiskovi-benzovozy)<br>
@@ -94,6 +97,7 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 00:21 [Комітет Сенату США підтримав $750 млн для України](https://ua.korrespondent.net/world/4885919-komitet-senatu-ssha-pidtrymav-750-mln-dlia-ukrainy)<br>
 
 ## as.com
+23:05 [Resumen del Valencia Basket vs Joventut, playoff de la Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-joventut-playoff-de-la-liga-endesa-f202606-v/)<br>
 22:09 [Vuelve el rodillo taronja](https://as.com/baloncesto/acb/vuelve-el-rodillo-taronja-f202606-n/)<br>
 20:27 [Valencia - Joventut, en directo: semifinales del playoff de la Liga Endesa de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/valencia-joventut-en-directo-semifinales-del-playoff-de-la-liga-endesa-de-baloncesto-2026-en-vivo-hoy-f202606-d/)<br>
 17:28 [Rhys Robinson, la joya de 16 años que el Madrid ata hasta 2030](https://as.com/baloncesto/acb/rhys-robinson-la-joya-de-16-anos-que-el-madrid-ata-hasta-2030-f202606-n/)<br>
@@ -105,6 +109,11 @@ Previous day: [2026-06-11](./data/2026-06-11.md)
 07:01 [Montero contra Ricky, segundo asalto](https://as.com/baloncesto/acb/montero-contra-ricky-segundo-asalto-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:49 [La portada de EL PERIÓDICO del 13 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260612/portada-periodico-13-junio-2026-131356427)<br>
+23:20 [Historias del papa León XIV en La Laguna: Devolver el favor con solidaridad](https://www.elperiodico.com/es/sociedad/20260612/visita-papa-leon-xiv-laguna-131356140)<br>
+23:15 [La OBC despide su temporada cantando ópera](https://www.elperiodico.com/es/ocio-y-cultura/20260612/obc-despide-temporada-cantando-opera-131355744)<br>
+23:09 [Historias del papa León XIV en La Laguna: Del drama de la patera a la alegría de un contrato](https://www.elperiodico.com/es/sociedad/20260612/visita-papa-leon-xiv-laguna-131355928)<br>
+23:03 [Visita del papa León XIV al centro de acogida Las Raíces: Un amor que no sabe de fronteras](https://www.elperiodico.com/es/sociedad/20260612/visita-papa-leon-xiv-centro-131355823)<br>
 22:37 [Misa del papa León en Tenerife: la cita con la historia que nadie quiso perderse](https://www.elperiodico.com/es/sociedad/20260612/misa-papa-leon-tenerife-cita-131355311)<br>
 22:10 [Las aerolíneas ven avaladas en Bruselas las tarifas por equipaje de mano: "Es legal cobrar menos a quien viaje solo con un bulto"](https://www.elperiodico.com/es/economia/20260612/aerolineas-ven-avaladas-bruselas-tarifas-131354820)<br>
 22:09 [Un brillante Valencia pone contras las cuerdas al Joventut y se acerca a la final (90-76)](https://www.elperiodico.com/es/deportes/20260612/brillante-valencia-pone-contras-cuerdas-131354735)<br>
