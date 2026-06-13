@@ -1,8 +1,11 @@
-# News for 2026-06-13 18:45
+# News for 2026-06-13 20:05
 
 Previous day: [2026-06-12](./data/2026-06-12.md)
 
 ## ua.korrespondent.net
+19:50 [У Швеції попереджають про загрозу з боку Росії - ЗМІ](https://ua.korrespondent.net/world/4886340-u-shvetsii-poperedzhauit-pro-zahrozu-z-boku-rosii-zmi)<br>
+19:25 [Трамп анонсував підписання угоди з Іраном щодо ядерної програми](https://ua.korrespondent.net/world/4886337-tramp-anonsuvav-pidpysannia-uhody-z-iranom-schodo-yadernoi-prohramy)<br>
+19:00 [Запроваджено санкції проти мобільних операторів та інтернет-провайдерів РФ](https://ua.korrespondent.net/ukraine/4886334-zaprovadzheno-sanktsii-proty-mobilnykh-operatoriv-ta-internet-provaideriv-rf)<br>
 18:35 [МЗС спростувало фейки про біолабораторії](https://ua.korrespondent.net/ukraine/4886325-mzs-sprostuvalo-feiky-pro-biolaboratorii)<br>
 18:09 [Паланка-Маяки-Удобне: пропускні операції відновлено](https://ua.korrespondent.net/ukraine/4886329-palanka-maiaky-udobne-propuskni-operatsii-vidnovleno)<br>
 17:45 [У пункті пропуску Паланка-Маяки-Удобне призупинено пропускні операції](https://ua.korrespondent.net/ukraine/4886322-u-punkti-propusku-palanka-maiaky-udobne-pryzupyneno-propuskni-operatsii)<br>
@@ -46,12 +49,23 @@ Previous day: [2026-06-12](./data/2026-06-12.md)
 00:20 [В РФ заявили про замах на "ексміністра ДНР"](https://ua.korrespondent.net/world/russia/4886213-v-rf-zaiavyly-pro-zamakh-na-eksministra-dnr)<br>
 
 ## as.com
+19:56 [La Laguna Tenerife - Barcelona, en directo: semifinal de la Liga Endesa 2026 en vivo](https://as.com/baloncesto/acb/la-laguna-tenerife-barcelona-en-directo-semifinal-de-la-liga-endesa-2026-en-vivo-f202606-d/)<br>
+19:42 [El Olympiacos sentencia a Ataman](https://as.com/baloncesto/mas_baloncesto/el-olympiacos-sentencia-a-ataman-f202606-n/)<br>
 15:55 [El Dubái levanta su primer título antes de una revolución](https://as.com/baloncesto/mas_baloncesto/el-dubai-levanta-su-primer-titulo-antes-de-una-revolucion-f202606-n/)<br>
 07:42 [Tenerife - Barcelona: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/tenerife-barcelona-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n/)<br>
 07:30 [Así está la plantilla del Madrid para la temporada 2026-27](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/)<br>
 07:13 [Toni Garma, un tirador de futuro para el Madrid](https://as.com/baloncesto/acb/toni-garma-un-tirador-de-futuro-para-el-madrid-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:56 [Una persona fallece en la montaña de Allins tras caer 100 metros](https://www.elperiodico.com/es/sociedad/20260613/persona-fallece-montana-allins-caer-131374089)<br>
+19:51 [Belfast acoge una concentración de solidaridad tras varios días de disturbios](https://www.elperiodico.com/es/videos/internacional/belfast-acoge-concentracion-solidaridad-dias/131374911.shtml)<br>
+19:47 [Muere el 'Spiderman del Yemen', el escalador de 30 años viral por aceptar desafíos extremos sin equipo de seguridad para ganarse la vida](https://www.elperiodico.com/es/gente/20260613/tragico-final-spiderman-yemen-muere-crater-arriesgada-escalada-131374229)<br>
+19:21 [Sábado negro en el medio natural catalán: tres muertos ahogados o al despeñarse por un precipicio](https://www.elperiodico.com/es/sucesos/20260613/sabado-negro-medio-natural-catalan-tres-muertos-ahogados-despenados-montana-131374256)<br>
+19:00 [Muere ahogado un joven de 18 años que saltaba en la presa del río Llobregat de Ametlla de Merola](https://www.elperiodico.com/es/sucesos/20260613/muere-ahogado-joven-18-anos-rio-llobregat-puig-reig-131373604)<br>
+18:59 [Muere un submarinista octogenario en una inmersión en el Cap de Creus](https://www.elperiodico.com/es/sociedad/20260613/muere-submarinista-octogenario-inmersion-cap-creus-girona-131373793)<br>
+18:57 [Rescatan inconsciente a un joven de 18 años que saltaba en la presa de l'Ametlla de Merola](https://www.elperiodico.com/es/sucesos/20260613/rescatan-inconsciente-joven-18-anos-presa-ametlla-merola-131373784)<br>
+18:50 [El incendio de Padrón (A Coruña) afecta a más de 180 hectáreas y obliga a activar la "situación 2 de emergencia"](https://www.elperiodico.com/es/videos/sociedad/incendio-padron-coruna-afecta-180/131373697.shtml)<br>
+18:50 [Continúa activo el incendio forestal en Padrón que ya ha calcinado 180 hectáreas y obliga a desalojar casas](https://www.elperiodico.com/es/sociedad/20260613/incendio-forestal-fuego-padron-coruna-131373642)<br>
 18:35 [Muere una mujer de 31 años tras ser rescatada en la playa de Los Muertos de Almería](https://www.elperiodico.com/es/sucesos/20260613/muere-ahogada-mujer-31-anos-rescatada-playa-muertos-almeria-131373008)<br>
 17:56 [Hospitalizada una niña de un año después de caer desde un primer piso en El Pont de Suert](https://www.elperiodico.com/es/sucesos/20260613/hospitalizada-nina-ano-despues-caer-balcon-primer-piso-131372502)<br>
 17:56 [Macron y Trump cenarán en Versalles el miércoles tras la cumbre del G7](https://www.elperiodico.com/es/internacional/20260613/macron-trump-cenaran-versalles-cumbre-g7-131372624)<br>
@@ -79,6 +93,7 @@ Previous day: [2026-06-12](./data/2026-06-12.md)
 14:24 [Upside down](https://www.elperiodico.com/es/opinion/20260613/upside-down-opinion-agnes-marques-131368389)<br>
 14:01 [Operativo de emergencias busca al menor de 16 años desaparecido hace dos días en  Roses .](https://www.elperiodico.com/es/videos/sucesos/operativo-emergencias-busca-menor-16/131368127.shtml)<br>
 14:00 [¿Qué efectos tendrá El Niño en España? Los expertos estudian el riesgo de veranos de calor (aún más) extremo y otoños de lluvias torrenciales](https://www.elperiodico.com/es/sociedad/20260613/nino-espana-efectos-calor-lluvias-verano-otono-131349972)<br>
+14:00 [Trump asegura que firmará el acuerdo para poner fin a la guerra con Irán este domingo](https://www.elperiodico.com/es/internacional/20260613/pakistan-apunta-acuerdo-eeuu-iran-131368142)<br>
 13:26 [Hito médico en España: Primer trasplante simultáneo de intestino y páncreas en el 12 de Octubre](https://www.elperiodico.com/es/videos/sociedad/hito-medico-espana-primer-trasplante/131367284.shtml)<br>
 13:20 [Ucrania pone en marcha una gran reforma militar: subida notable de los salarios, contratos de duración limitada y reclutamiento de extranjeros](https://www.elperiodico.com/es/internacional/20260613/ucrania-reforma-militar-subida-salarios-reclutamiento-extranjeros-contratos-duracion-limitada-131367126)<br>
 12:51 [Suecia declara dos alertas casi consecutivas por incursiones de aviones rusos cerca de su espacio aéreo](https://www.elperiodico.com/es/internacional/20260613/suecia-declara-dos-alertas-incursiones-aviones-rusos-cerca-espacio-aereo-131366371)<br>
