@@ -1,8 +1,13 @@
-# News for 2026-06-13 13:32
+# News for 2026-06-13 15:13
 
 Previous day: [2026-06-12](./data/2026-06-12.md)
 
 ## ua.korrespondent.net
+14:50 [Росіяни вдарили по підприємству в Херсоні](https://ua.korrespondent.net/ukraine/4886307-rosiiany-vdaryly-po-pidpryiemstvu-v-khersoni)<br>
+14:25 [ЗСУ вдарили по російських об'єктах у Криму](https://ua.korrespondent.net/ukraine/4886305-zsu-vdaryly-po-rosiiskykh-obiektakh-u-krymu)<br>
+14:01 [НБУ продав максимальний обсяг доларів з березня](https://ua.korrespondent.net/business/financial/4886301-nbu-prodav-maksymalnyi-obsiah-dolariv-z-bereznia)<br>
+13:45 [В Індії розбився літак Ан-32 з військовими](https://ua.korrespondent.net/world/4886298-v-indii-rozbyvsia-litak-an-32-z-viiskovymy)<br>
+13:32 [Уражено Таманьнафтогаз і російську ППО - СБУ](https://ua.korrespondent.net/ukraine/4886295-urazheno-tamannaftohaz-i-rosiisku-ppo-sbu)<br>
 12:48 [У Мінську сім'ю з трьох осіб засудили за "держзраду"](https://ua.korrespondent.net/world/4886289-u-minsku-simui-z-trokh-osib-zasudyly-za-derzhzradu)<br>
 12:18 [У Росії уражено важливий нафтовий об'єкт - Генштаб](https://ua.korrespondent.net/ukraine/4886286-u-rosii-urazheno-vazhlyvyi-naftovyi-obiekt-henshtab)<br>
 11:33 [США заявили, що супроводжують все більше танкерів через Ормуз](https://ua.korrespondent.net/world/4886280-ssha-zaiavyly-scho-suprovodzhuuit-vse-bilshe-tankeriv-cherez-ormuz)<br>
@@ -37,6 +42,20 @@ Previous day: [2026-06-12](./data/2026-06-12.md)
 07:13 [Toni Garma, un tirador de futuro para el Madrid](https://as.com/baloncesto/acb/toni-garma-un-tirador-de-futuro-para-el-madrid-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:06 [Mañueco nombra a los miembros del gobierno de Castilla y León](https://www.elperiodico.com/es/videos/politica/manueco-nombra-miembros-gobierno-castilla/131369613.shtml)<br>
+15:05 [Feijóo asume el fin del sanchismo: “Su epitafio está ya escrito: P.S., las siglas de un fariseo que no cumplió nada de lo que prometió”](https://www.elperiodico.com/es/videos/politica/feijoo-asume-sanchismo-epitafio-escrito/131369551.shtml)<br>
+15:04 [Este hotel de Sabadell que ya está en la historia del cine: 11 nominaciones a los Goya](https://www.elperiodico.com/es/barcelona/sabadell/20260613/hotel-sabadell-historia-cine-dv-loc-106391687)<br>
+15:00 [Un informe denuncia la cooperación de China, Rusia e Irán con las redes criminales en Latinoamérica](https://www.elperiodico.com/es/internacional/20260613/informe-denuncia-cooperacion-china-rusia-iran-redes-criminales-latinoamerica-131369408)<br>
+14:50 [Los Bombers trabajan con 25 dotaciones en un incendio de vegetación en Sanaüja (Lleida)](https://www.elperiodico.com/es/sucesos/20260613/bombers-25-dotaciones-incendio-vegetacion-sanauja-lleida-131369034)<br>
+14:48 [Feijóo asume el fin del sanchismo: “Su epitafio está ya escrito: P.S., las siglas de un fariseo que no cumplió nada de lo que prometió”](https://www.elperiodico.com/es/politica/20260613/feijoo-asume-sanchismo-o-pino-131369244)<br>
+14:29 [David Beckham recibe una estrella en el Paseo de la Fama de Hollywood](https://www.elperiodico.com/es/videos/ocio-y-cultura/david-beckham-recibe-estrella-paseo/131368798.shtml)<br>
+14:28 [Girona detecta 41 comercios que no usan el catalán como corresponde y denuncia a tres por incumplimientos "flagrantes"](https://www.elperiodico.com/es/sociedad/20260613/girona-detecta-41-comercios-catalan-denuncia-incumplimiento-flagrante-131368629)<br>
+14:28 [La defensa de Jonathan Andic atribuye a una "metáfora" psicoanalítica su alusión a "matar" al padre](https://www.elperiodico.com/es/sociedad/20260613/defensa-andic-atribuye-metafora-psicoanalitica-alusion-matar-padre-131368544)<br>
+14:28 [Helicópteros y buzos continúan buscando al menor desaparecido en moto de agua en Roses](https://www.elperiodico.com/es/sociedad/20260613/busqueda-menor-desaparecido-moto-agua-roses-pals-begur-2026-131368280)<br>
+14:26 [Illa: “Vemos lo que está pasando y lo digo claro, a los socialistas ni nos doblegan ni nos callan”](https://www.elperiodico.com/es/videos/politica/illa-vemos-pasando-digo-claro/131368640.shtml)<br>
+14:24 [Upside down](https://www.elperiodico.com/es/opinion/20260613/upside-down-opinion-agnes-marques-131368389)<br>
+14:01 [Operativo de emergencias busca al menor de 16 años desaparecido hace dos días en  Roses .](https://www.elperiodico.com/es/videos/sucesos/operativo-emergencias-busca-menor-16/131368127.shtml)<br>
+14:00 [¿Qué efectos tendrá El Niño en España? Los expertos estudian el riesgo de veranos de calor (aún más) extremo y otoños de lluvias torrenciales](https://www.elperiodico.com/es/sociedad/20260613/nino-espana-efectos-calor-lluvias-verano-otono-131349972)<br>
 13:26 [Hito médico en España: Primer trasplante simultáneo de intestino y páncreas en el 12 de Octubre](https://www.elperiodico.com/es/videos/sociedad/hito-medico-espana-primer-trasplante/131367284.shtml)<br>
 13:20 [Ucrania pone en marcha una gran reforma militar: subida notable de los salarios, contratos de duración limitada y reclutamiento de extranjeros](https://www.elperiodico.com/es/internacional/20260613/ucrania-reforma-militar-subida-salarios-reclutamiento-extranjeros-contratos-duracion-limitada-131367126)<br>
 12:51 [Suecia declara dos alertas casi consecutivas por incursiones de aviones rusos cerca de su espacio aéreo](https://www.elperiodico.com/es/internacional/20260613/suecia-declara-dos-alertas-incursiones-aviones-rusos-cerca-espacio-aereo-131366371)<br>
