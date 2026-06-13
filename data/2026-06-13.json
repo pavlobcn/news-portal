@@ -1,10 +1,82 @@
 [
   {
+    "title": "Літаки РФ двічі за день були перехоплені над Балтикою",
+    "link": "https://ua.korrespondent.net/world/4886378-litaky-rf-dvichi-za-den-buly-perekhopleni-nad-baltykoui",
+    "pubDate": "2026-06-13 23:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460695.jpg\">До повітряного простору Швеції наближалися російські військові літаки Су-24 Fencer та Су-34 Fullback.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Brasil - Marruecos, en directo el partido del Mundial en Nueva Jersey",
+    "link": "https://www.elperiodico.com/es/deportes/20260613/brasil-marruecos-directo-partido-mundial-resultado-goles-cronica-131378553",
+    "pubDate": "2026-06-13 23:43:24",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lopetegui logra la gesta de darle a Qatar el primer punto de su historia en un Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260613/lopetegui-logra-gesta-darle-qatar-131378485",
+    "pubDate": "2026-06-13 23:35:12",
+    "category": "",
+    "description": "<h2>Suiza, pese a ser superior en gran parte del partido, no cerró el resultado y un cabezazo de Khoukhi en el añadido hizo estallar de júbilo al país árabe (1-1)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран спростував анонс Трампа щодо підписання угоди",
+    "link": "https://ua.korrespondent.net/world/4886375-iran-sprostuvav-anons-trampa-schodo-pidpysannia-uhody",
+    "pubDate": "2026-06-13 23:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460681.jpg\">У КВІР припустили, що Трамп запланував подію як \"особистий піар-захід\" із прицілом на власний день народження - 14 червня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тренер збірної Австрії підписав новий контракт",
+    "link": "https://ua.korrespondent.net/sport/football/4886374-trener-zbirnoi-avstrii-pidpysav-novyi-kontrakt",
+    "pubDate": "2026-06-13 23:06:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460667.jpg\">Австрійська збірна, яка бере участь у чемпіонаті світу 2026 року, оголосила про рішення залишитися з нинішнім тренером.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barceloneta gana la segunda Champions de su historia",
+    "link": "https://www.elperiodico.com/es/deportes/20260613/barceloneta-gana-segunda-champions-historia-131377946",
+    "pubDate": "2026-06-13 23:03:24",
+    "category": "",
+    "description": "<h2>El equipo ‘marinero’, pletórico, vence en un igualado partido al gran campeón (17-16),  el Pro Recco genovés, y reconquista por fin el máximo título continental 12 años después.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Israel reanuda los ataques en Líbano tras ordenar la evacuación forzada de más de 20 poblaciones",
+    "link": "https://www.elperiodico.com/es/internacional/20260613/israel-reanuda-ataques-libano-131378026",
+    "pubDate": "2026-06-13 22:58:01",
+    "category": "",
+    "description": "<h2>Al menos once personas han muerto en las últimas horas en ataques israelíes en suelo libanés</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У НАТО відпрацюють захист \"коридору\" між РБ і Калінінградом",
     "link": "https://ua.korrespondent.net/world/4886369-u-nato-vidpratsuiuit-zakhyst-korydoru-mizh-rb-i-kalininhradom",
     "pubDate": "2026-06-13 22:55:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460654.jpeg\">Литва, Польща та Франція реалізовуватимуть сценарії швидкого захисту стратегічно важливої ділянки східного флангу НАТО - Сувальського коридору.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resumen del La Laguna Tenerife vs Barça, semifinales de la Liga Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-la-laguna-tenerife-vs-barca-semifinales-de-la-liga-endesa-f202606-v/",
+    "pubDate": "2026-06-13 22:46:13",
+    "category": "Liga ACB",
+    "description": "Victoria por 76-85 para cerrar el pase de los blaugranas a la final en una eliminatoria en blanco.",
     "topic": "",
     "topic_match_probability": 0
   },
