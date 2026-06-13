@@ -1,5 +1,185 @@
 [
   {
+    "title": "Los Mossos cargan contra un grupo de antifascistas que protestan por una concentración de Núcleo Nacional en Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260613/mossos-cargan-grupo-antifascistas-protestan-barcelona-nucleo-nacional-131376645",
+    "pubDate": "2026-06-13 21:37:13",
+    "category": "",
+    "description": "<h2>Un cordón policial ha impedido el paso entre los dos grupos y se han vivido escenas de tensión</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260109/son-nucleo-nacional-llegamos-barcelona-125528747\">¿Quiénes son los neonazis de Núcleo Nacional? \"Llegamos a Barcelona para vencer, le pese a quien le pese\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El hombre al que le cayó encima el balcón en un hotel de Murcia, en la UCI",
+    "link": "https://www.elperiodico.com/es/sucesos/20260613/hombre-cayo-balcon-hotel-murcia-uci-131376706",
+    "pubDate": "2026-06-13 21:35:10",
+    "category": "",
+    "description": "<h2>El varón, natural de Almería y de 43 años de edad, permanece ingresado en Cuidados Intensivos desde el impacto que sufrió mientras se bañaba en la piscina</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Червень-липень мають бути результативними для України і Європи",
+    "link": "https://ua.korrespondent.net/ukraine/4886361-zelenskyi-cherven-lypen-mauit-buty-rezultatyvnymy-dlia-ukrainy-i-yevropy",
+    "pubDate": "2026-06-13 21:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460616.jpg\">Ми доводимо, що українська далекобійність має вирішальне значення, зараз у мідлстрайках на всю глибину тимчасово окупованої території та в дипстрайках проти російських нафтових обʼєктів і воєнних підприємств, заявив президент.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos d'Esquadra dan porrazos contra los antifascistas que querían acercarse a la concentración neonazi de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mossos-desquadra-dan-porrazos-antifascistas/131376471.shtml",
+    "pubDate": "2026-06-13 21:28:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"El odio es la única amenaza\", claman miles de manifestantes en Belfast tras los disturbios antiinmigrantes",
+    "link": "https://www.elperiodico.com/es/internacional/20260613/odio-unica-amenaza-claman-miles-131376321",
+    "pubDate": "2026-06-13 21:20:38",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260610/pasando-belfast-claves-ola-violencia-131230430\" target=\"_blank\">¿Qué está pasando en Belfast? Claves de la ola de violencia contra los inmigrantes en Irlanda del Norte</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Оренда Рубчинського в Карпатах завершиться поверненням у Динамо",
+    "link": "https://ua.korrespondent.net/sport/football/4886359-orenda-rubchynskoho-v-karpatakh-zavershytsia-povernenniam-u-dynamo",
+    "pubDate": "2026-06-13 21:16:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460590.jpg\">Після оренди у львівських Карпатах Валентин Рубчинський повернеться в Київ у склад свого клубу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del sábado, 13 de junio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260613/primitiva-hoy-resultados-comprobar-numeros-premiados-sorteo-13-junio-131376257",
+    "pubDate": "2026-06-13 21:13:45",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський: Україна потрібна Європі",
+    "link": "https://ua.korrespondent.net/ukraine/4886353-zelenskyi-ukraina-potribna-yevropi",
+    "pubDate": "2026-06-13 21:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460603.jpg\">Зеленський подякував усім тим, хто  бореться за свої народи й за інтереси Європи та за безпеку у Європі, безпеку з Україною.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere ahogada una niña de 12 años en una playa de Almería",
+    "link": "https://www.elperiodico.com/es/sucesos/20260613/muere-ahogada-nina-playa-almeria-131376188",
+    "pubDate": "2026-06-13 21:06:55",
+    "category": "",
+    "description": "<h2>Los servicios sanitarios de emergencias le han realizado maniobras de reanimación, pero no han logrado revertir la situación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Multas de hasta 600 euros y sanciones en el permiso de conducir por no respetar la bajada de velocidad obligatoria que ya registra el BOE",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260613/multa-600-euros-sanciones-permiso-conducir-bajada-velocidad-obligatoria-boe-dv-130169073",
+    "pubDate": "2026-06-13 21:02:00",
+    "category": "",
+    "description": "<h2 class=\"item\">\"No respetar los nuevos límites de velocidad en ciudad será considerado como infracción grave o muy grave\"</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Estados Unidos y China lideran la carrera por la IA con el 90% de la potencia informática mundial",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260613/estados-unidos-china-lideran-carrera-131330976",
+    "pubDate": "2026-06-13 21:00:35",
+    "category": "",
+    "description": "<h2>El creciente protagonismo de ambas potencias en el desarrollo de esta tecnología amenaza con una concentración de poder que se traduzca en un desequilibrio estratégico para el resto de países del mundo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, domingo 14 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260613/horoscopo-hoy-domingo-14-junio-dv-131246733",
+    "pubDate": "2026-06-13 21:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Слован українців очолить легендарний Яя Туре",
+    "link": "https://ua.korrespondent.net/sport/football/4886355-slovan-ukraintsiv-ocholyt-lehendarnyi-yaia-ture",
+    "pubDate": "2026-06-13 20:57:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460579.jpg\">Відомий у минулому футболіст уперше для себе стане до керма команди на рівні тренера.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "David Raya no se resigna a la suplencia con España: \"Quiero hacerle la vida imposible a De la Fuente\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260613/david-raya-resigna-suplencia-espana-131375618",
+    "pubDate": "2026-06-13 20:42:20",
+    "category": "",
+    "description": "<h2>El portero internacional del Arsenal elogia a Joan Garcia: \"Sin él, el Barça no habría ganado la Liga de una manera tan fácil\".</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Чернігівщині військовослужбовця засудили до довічного ув’язнення",
+    "link": "https://ua.korrespondent.net/ukraine/4886351-na-chernihivschyni-viiskovosluzhbovtsia-zasudyly-do-dovichnoho-uviaznennia",
+    "pubDate": "2026-06-13 20:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460591.jpg\">Під час проходження базової загальновійськової підготовки в одному з навчальних центрів на Чернігівщині чоловік вирішив помститися інструкторам через їхню вимогливість до дисципліни та навчального процесу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedri deslumbra en la antesala del debut de España",
+    "link": "https://www.elperiodico.com/es/deportes/20260613/pedri-deslumbra-antesala-debut-espana-131375440",
+    "pubDate": "2026-06-13 20:37:22",
+    "category": "",
+    "description": "<h2>El centrocampista canario llega en un gran momento al estreno mundialista del lunes frente a Cabo Verde</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barça vence al Aalborg en un partido de locura decidido en la prórroga y jugará la final de la Champions frente al Füchse",
+    "link": "https://www.elperiodico.com/es/deportes/20260613/barca-vence-aalborg-partido-locura-131375225",
+    "pubDate": "2026-06-13 20:22:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Los de Carlos Ortega desperdiciaron un 24-27, los daneses atacaron para ganar y el tiempo extra fue de color azulgrana (32-37)</h2><h2 class=\"item\">El equipo azulgrana buscará su 13ª Copa de Europa este domingo (18.00 horas)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Синоптики розповіли, в яких регіонах дощитиме",
+    "link": "https://ua.korrespondent.net/ukraine/4886348-synoptyky-rozpovily-v-yakykh-rehionakh-doschytyme",
+    "pubDate": "2026-06-13 20:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460578.jpg\"> Вночі на сході та заході, вдень в Україні, крім південного сходу, короткочасні дощі, місцями грози, повідомили в Укргідрометцентрі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos alertan de la estafa del supermercado: pueden vaciarte la cuenta bancaria en apenas unos minutos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260613/mossos-alertan-estafa-supermercado-vaciarte-cuenta-bancaria-minutos-dv-131192821",
+    "pubDate": "2026-06-13 20:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los ciberdelincuentes suplantan cadenas comerciales conocidas con correos falsos que prometen premios y descuentos para robar datos personales y bancarios</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260612/boe-confirma-lucha-estafas-sms-esperar-dv-131157144\">El BOE lo confirma: la lucha contra las estafas por SMS tendrá que esperar (más aún)</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Шахтар домовився з Фламенго про перехід бразильського гравця",
+    "link": "https://ua.korrespondent.net/sport/football/4886345-shakhtar-domovyvsia-z-flamenho-pro-perekhid-brazylskoho-hravtsia",
+    "pubDate": "2026-06-13 20:06:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4460555.jpg\">До \"гірників\" приєднається 18-річний вінгер бразильського футбольного клубу з Ріо-де-Жанейро.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Una persona fallece en la montaña de Allins tras caer 100 metros",
     "link": "https://www.elperiodico.com/es/sociedad/20260613/persona-fallece-montana-allins-caer-131374089",
     "pubDate": "2026-06-13 19:56:49",
