@@ -1,8 +1,11 @@
-# News for 2026-06-13 11:34
+# News for 2026-06-13 13:32
 
 Previous day: [2026-06-12](./data/2026-06-12.md)
 
 ## ua.korrespondent.net
+12:48 [У Мінську сім'ю з трьох осіб засудили за "держзраду"](https://ua.korrespondent.net/world/4886289-u-minsku-simui-z-trokh-osib-zasudyly-za-derzhzradu)<br>
+12:18 [У Росії уражено важливий нафтовий об'єкт - Генштаб](https://ua.korrespondent.net/ukraine/4886286-u-rosii-urazheno-vazhlyvyi-naftovyi-obiekt-henshtab)<br>
+11:33 [США заявили, що супроводжують все більше танкерів через Ормуз](https://ua.korrespondent.net/world/4886280-ssha-zaiavyly-scho-suprovodzhuuit-vse-bilshe-tankeriv-cherez-ormuz)<br>
 10:57 [СБС уразили полігон з бурятами](https://ua.korrespondent.net/ukraine/4886276-sbs-urazyly-polihon-z-buriatamy)<br>
 10:26 [Курсант отримав довічне за вбивство інструкторів ЗСУ](https://ua.korrespondent.net/ukraine/4886272-kursant-otrymav-dovichne-za-vbyvstvo-instruktoriv-zsu)<br>
 09:59 [Мадяр заявив про "історичну угоду" з Україною](https://ua.korrespondent.net/world/4886267-madiar-zaiavyv-pro-istorychnu-uhodu-z-ukrainoui)<br>
@@ -34,6 +37,18 @@ Previous day: [2026-06-12](./data/2026-06-12.md)
 07:13 [Toni Garma, un tirador de futuro para el Madrid](https://as.com/baloncesto/acb/toni-garma-un-tirador-de-futuro-para-el-madrid-f202606-n/)<br>
 
 ## www.elperiodico.com
+13:26 [Hito médico en España: Primer trasplante simultáneo de intestino y páncreas en el 12 de Octubre](https://www.elperiodico.com/es/videos/sociedad/hito-medico-espana-primer-trasplante/131367284.shtml)<br>
+13:20 [Ucrania pone en marcha una gran reforma militar: subida notable de los salarios, contratos de duración limitada y reclutamiento de extranjeros](https://www.elperiodico.com/es/internacional/20260613/ucrania-reforma-militar-subida-salarios-reclutamiento-extranjeros-contratos-duracion-limitada-131367126)<br>
+12:51 [Suecia declara dos alertas casi consecutivas por incursiones de aviones rusos cerca de su espacio aéreo](https://www.elperiodico.com/es/internacional/20260613/suecia-declara-dos-alertas-incursiones-aviones-rusos-cerca-espacio-aereo-131366371)<br>
+12:26 [Reus inaugura el nuevo espacio inmersivo del Gaudí Centre con una proyección audiovisual inédita](https://www.elperiodico.com/es/videos/tarragona/reus-inaugura-nuevo-espacio-inmersivo/131365591.shtml)<br>
+12:00 [La nueva vida de Enciclopèdia Catalana: más diccionarios bilingües, literatura infantil y un Plensa 'deluxe'](https://www.elperiodico.com/es/ocio-y-cultura/20260613/nueva-vida-enciclopedia-catalana-diccionarios-131348260)<br>
+12:00 [Un año después de la Fundación Humanitaria de Gaza, las heridas de los gazatíes siguen sin cerrarse: "A nadie le importamos ya"](https://www.elperiodico.com/es/internacional/20260613/ano-despues-fundacion-humanitaria-gaza-a-nadie-le-importamos-131364974)<br>
+12:00 [El sexo en los geriátricos: los profesionales piden "acabar con el tabú" y normalizar que “el deseo aún existe a los 90”](https://www.elperiodico.com/es/sociedad/20260613/sexo-residencias-mayores-tabu-deseo-131056742)<br>
+12:00 [Sexualidad, demencia y residencias: ¿qué hacer cuando la abuela con alzhéimer quiere tener relaciones con otro interno?](https://www.elperiodico.com/es/sociedad/20260613/sexo-demencia-residencias-mayores-alzheimer-que-hacer-131060515)<br>
+12:00 [El Congreso y el Senado superan las 300 comparecencias en comisiones de investigación: de presidentes a condenados por terrorismo](https://www.elperiodico.com/es/politica/20260613/congreso-senado-comision-investigacion-presidente-terrorismo-131339252)<br>
+12:00 [Jose Abellán, cardiólogo, aclara si el alcohol es bueno para la salud: "No compensa"](https://www.elperiodico.com/es/salud/20260613/jose-abellan-cardiologo-aclara-alcohol-salud-dv-131293895)<br>
+11:53 [El Papa, a la tripulación del Falcon que lo trasladó a Roma: "Muchas gracias por habernos salvado"](https://www.elperiodico.com/es/sociedad/20260613/papa-leon-xiv-falcon-avion-averiado-salvado-rey-131364248)<br>
+11:42 [Barcelona se queda con el control de 5 km de costa entre la Barceloneta y el Fòrum tras un acuerdo histórico con el Estado](https://www.elperiodico.com/es/barcelona/20260613/barcelona-control-litoral-52-km-estado-cesion-131363472)<br>
 11:26 [Las palabras del Papa León XIV a la tripulación del Falcon: "Muchas gracias por habernos salvado»](https://www.elperiodico.com/es/videos/politica/palabras-papa-leon-xiv-tripulacion/131363950.shtml)<br>
 11:23 [La Generalitat pone en marcha dos nuevas bolsas de trabajo de profesorado artístico y de FP](https://www.elperiodico.com/es/sociedad/20260613/generalitat-bolsas-trabajo-fp-profesorado-artistico-131363363)<br>
 11:15 [¿Puede el viudo usar el dinero de las cuentas o solo mirarlo? María Cristina Clemente Buendía, notaria, lo aclara](https://www.elperiodico.com/es/economia/20260613/viudo-dinero-cuentas-notaria-buendia-dv-131188924)<br>
@@ -51,6 +66,7 @@ Previous day: [2026-06-12](./data/2026-06-12.md)
 09:41 [EEUU derriba drones iraníes sobre Ormuz a pesar del optimismo sobre un posible acuerdo de paz](https://www.elperiodico.com/es/internacional/20260613/eeuu-iran-ormuz-derribo-drones-acuerdo-paz-131361075)<br>
 09:15 [El patio secreto de los libros y la buganvilla](https://www.elperiodico.com/es/barcelona/20260613/patio-secreto-libros-buganvilla-131279380)<br>
 09:10 [EEUU obliga a Anthropic a restringir sus modelos de IA más avanzados a usuarios extranjeros](https://www.elperiodico.com/es/internacional/20260613/eeuu-obliga-anthropic-restringir-modelos-131360438)<br>
+09:10 [EEUU empuja a Anthropic a un veto global de sus modelos de IA más avanzados](https://www.elperiodico.com/es/internacional/20260613/eeuu-obliga-anthropic-restringir-modelos-ia-avanzados-fable-mythos-131360438)<br>
 09:00 [No fue un arrebato, fue machismo](https://www.elperiodico.com/es/opinion/20260613/arrebato-machismo-violencia-de-genero-articulo-ana-bernal-trivino-131340242)<br>
 08:58 [La educación sentimental de 'Toy story': la vida no es fácil](https://www.elperiodico.com/es/ocio-y-cultura/20260613/estreno-toy-story-5-disney-pixar-opinion-educacion-sentimental-la-vida-no-es-facil-131359851)<br>
 08:13 [Estados Unidos mata en un ataque a el 'Niño Guerrero', líder criminal de Venezuela](https://www.elperiodico.com/es/internacional/20260613/estados-unidos-mata-nino-guerrero-lider-criminal-venezuela-131359444)<br>
