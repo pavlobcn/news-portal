@@ -1,8 +1,13 @@
-# News for 2026-06-14 10:50
+# News for 2026-06-14 13:20
 
 Previous day: [2026-06-13](./data/2026-06-13.md)
 
 ## ua.korrespondent.net
+12:47 [Британія та Японія готують інвестугоду на £18 млрд - ЗМІ](https://ua.korrespondent.net/business/economics/4886466-brytaniia-ta-yaponiia-hotuuit-investuhodu-na-18-mlrd-zmi)<br>
+12:29 [Генштаб відзвітував по ураженню Таманьнефтегазу](https://ua.korrespondent.net/ukraine/4886464-henshtab-vidzvituvav-po-urazhennui-tamanneftehazu)<br>
+11:59 [Росіяни почали маскувати цистерни під молоковози - ВМС](https://ua.korrespondent.net/ukraine/4886461-rosiiany-pochaly-maskuvaty-tsysterny-pid-molokovozy-vms)<br>
+11:18 [За добу кордон України перетнули 123 тисячі осіб - ДПСУ](https://ua.korrespondent.net/ukraine/4886454-za-dobu-kordon-ukrainy-peretnuly-123-tysiachi-osib-dpsu)<br>
+10:56 [Екскомандир 28-ї бригади очолив 160-ту ОМБр](https://ua.korrespondent.net/ukraine/4886451-ekskomandyr-28-yi-bryhady-ocholyv-160-tu-ombr)<br>
 10:36 [Зеленський підтвердив ураження об'єктів в РФ](https://ua.korrespondent.net/ukraine/4886448-zelenskyi-pidtverdyv-urazhennia-obiektiv-v-rf)<br>
 10:19 [Росіяни вдарили по Дніпру: семеро поранених](https://ua.korrespondent.net/city/dnepr/4886446-rosiiany-vdaryly-po-dnipru-semero-poranenykh)<br>
 09:59 [У ДПСУ оцінили ситуацію на Придністровському напрямку](https://ua.korrespondent.net/ukraine/4886442-u-dpsu-otsinyly-sytuatsiui-na-prydnistrovskomu-napriamku)<br>
@@ -35,6 +40,18 @@ Previous day: [2026-06-13](./data/2026-06-13.md)
 06:15 [El momento que llevaba Nueva York esperando 53 años: así acabó el partido que da el título a los Knicks](https://as.com/baloncesto/videos/el-momento-que-llevaba-nueva-york-esperando-53-anos-asi-acabo-el-partido-que-da-el-titulo-a-los-knicks-f202606-v/)<br>
 
 ## www.elperiodico.com
+13:17 [A una semana del verano, fuertes tormentas y granizo ganan terreno en gran parte de España](https://www.elperiodico.com/es/tiempo/20260614/semana-verano-fuertes-tormentas-granizo-espana-cataluna-tiempo-131386521)<br>
+13:05 [Israel ataca el bastión de Hezbolá en Beirut durante un momento crítico de las negociaciones entre EEUU e Irán](https://www.elperiodico.com/es/internacional/20260614/israel-ataca-bastion-hezbola-beirut-131386455)<br>
+13:02 [Pedro Abad, la mejor nota de la Selectividad 2026 en Sevilla: "Quiero aplicar el conocimiento de las Matemáticas al terreno de la vida cotidiana"](https://www.elperiodico.com/es/educacion/20260614/pedro-abad-mejor-nota-selectividad-2026-sevilla-dv-131383475)<br>
+13:01 [La Feria del Libro de Madrid cierra con datos provisionales inferiores a 2025](https://www.elperiodico.com/es/videos/ocio-y-cultura/feria-libro-madrid-cierra-datos/131386315.shtml)<br>
+12:55 [El Papa agradece a España y "de modo especial" al Rey Felipe VI su acogida durante el viaje apostólico](https://www.elperiodico.com/es/sociedad/20260614/papa-agradece-espana-acogida-viaje-131386050)<br>
+12:51 [30 municipios de Barcelona, Lleida y Tarragona en peligro muy alto de incendio este domingo](https://www.elperiodico.com/es/sociedad/20260614/30-municipios-barcelona-lleida-tarragona-peligro-muy-alto-incendio-131386028)<br>
+12:44 [Irán insiste en que aún no ha tomado una "decisión final" sobre el acuerdo con EEUU](https://www.elperiodico.com/es/internacional/20260614/iran-eeuu-acuerdo-paz-trump-recelos-teheran-131385820)<br>
+12:07 [La herejía del diálogo](https://www.elperiodico.com/es/opinion/20260614/herejia-dialogo-articulo-opinion-emma-riverola-131383987)<br>
+11:41 [Noche de euforia en Nueva York por la proclamación de los Knicks como campeones de la NBA](https://www.elperiodico.com/es/videos/deportes/noche-euforia-nueva-york-proclamacion/131383961.shtml)<br>
+11:38 [Catalunya implanta el certificado de defunción electrónico en hospitales para agilizar los trámites](https://www.elperiodico.com/es/sociedad/20260614/catalunya-certificado-defuncion-electronico-hospitales-131383526)<br>
+11:29 [La Policía británica detiene en Heathrow a Tommy Robinson, el ultra que convoca las protestas contra la inmigración](https://www.elperiodico.com/es/internacional/20260614/policia-britanica-detiene-heathrow-tommy-robinson-ultra-convoca-protestas-antiinmigracion-131383719)<br>
+11:22 [EEUU restringe el acceso de la IA de Anthropic por motivos de seguridad nacional](https://www.elperiodico.com/es/videos/internacional/eeuu-restringe-acceso-ia-anthropic/131383603.shtml)<br>
 10:41 [Los fans de los Knicks celebran el  campeonato de las finales de la NBA conseguido por los New York Knicks.](https://www.elperiodico.com/es/videos/deportes/fans-knicks-celebran-campeonato-finales/131382693.shtml)<br>
 10:36 [Trump espera cerrar un acuerdo preliminar con Irán en el día de su 80 cumpleaños](https://www.elperiodico.com/es/internacional/20260614/trump-espera-cerrar-acuerdo-preliminar-131382638)<br>
 10:31 [El cáncer de piel ha aumentado un 40 por ciento en cuatro años](https://www.elperiodico.com/es/videos/sociedad/cancer-piel-aumentado-40-ciento/131382490.shtml)<br>
@@ -48,6 +65,7 @@ Previous day: [2026-06-13](./data/2026-06-13.md)
 10:00 [Lejos de Dios y cerca de Estados Unidos](https://www.elperiodico.com/es/opinion/20260614/lejos-dios-cerca-estados-unidos-trump-articulo-jorge-dezcallar-131351531)<br>
 10:00 [Controlado el incendio agrícola y forestal de Sanaüja, en la Segarra](https://www.elperiodico.com/es/videos/sucesos/controlado-incendio-agricola-forestal-sanauja/131381780.shtml)<br>
 09:44 [El Reino Unido intercepta por primera vez un petrolero de la presunta "flota fantasma" de Rusia](https://www.elperiodico.com/es/internacional/20260614/reino-unido-intercepta-petrolero-flota-fantasma-rusia-guerra-ucrania-sanciones-131381518)<br>
+09:26 [Los docentes y las familias vuelven a manifestarse en Barcelona para reclamar un gran acuerdo por la educación pública](https://www.elperiodico.com/es/sociedad/20260614/docentes-manifestacion-barcelona-gran-pacto-educacion-publica-inversion-131381075)<br>
 08:19 [Guerra en Oriente Medio, en directo: Trump anuncia que este domingo se firmará el acuerdo con Irán para poner fin a la guerra](https://www.elperiodico.com/es/internacional/20260614/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
 08:10 [Muere una joven de 21 años cuando hacía puenting tras ser arrojada accidentalmente sin cuerda en Brasil](https://www.elperiodico.com/es/sucesos/20260614/muere-joven-puenting-arrojada-sin-cuerda-brasil-131380290)<br>
 08:01 [La crisis en Sumar revela la soledad de Lara Hernández en pleno proceso para reavivar el partido](https://www.elperiodico.com/es/politica/20260614/crisis-sumar-revela-soledad-lara-131349393)<br>
@@ -62,6 +80,7 @@ Previous day: [2026-06-13](./data/2026-06-13.md)
 06:54 [Los Knicks conquistan su primer título de NBA en 53 años con triunfo final ante los Spurs](https://www.elperiodico.com/es/deportes/baloncesto/20260614/knicks-conquistan-primer-titulo-nba-53-anos-final-ante-spurs-131380093)<br>
 06:05 [Jazz en Barcelona: pocos locales, muchos músicos y el público, un misterio](https://www.elperiodico.com/es/ocio-y-cultura/20260614/jazz-barcelona-locales-musicos-publico-131280343)<br>
 06:01 [Hockney y Gehry, innovación sin límites hasta sus últimos días](https://www.elperiodico.com/es/opinion/20260614/hockney-gehry-artistas-innovaron-final-131377136)<br>
+06:00 [Aluvión de ceros en Euskera y alumnos en pie de guerra: qué ha pasado en la PAU vasca](https://www.elperiodico.com/es/sociedad/20260614/claves-avalancha-ceros-examen-euskera-selectividad-131372967)<br>
 06:00 [Los rincones secretos de la Sagrada Família (I): la sacristía de cristal](https://www.elperiodico.com/es/barcelona/eixample/20260614/rincones-secretos-sagrada-familia-sacristia-130258301)<br>
 06:00 [Quién es quién en la carrera por el dominio de la inteligencia artificial](https://www.elperiodico.com/es/tecnologia/20260614/carrera-dominio-inteligencia-artificial-google-openai-anthropic-musk-ia-chatgpt-deepseek-meta-fable-131248342)<br>
 06:00 [De ciudad más contaminada de Europa a capital del arte climático: Avilés se reinventa con la primera Bienal Climática de España](https://www.elperiodico.com/es/sociedad/20260614/aviles-primera-bienal-climatica-espana-131341690)<br>
