@@ -1,8 +1,10 @@
-# News for 2026-06-14 18:52
+# News for 2026-06-14 20:05
 
 Previous day: [2026-06-13](./data/2026-06-13.md)
 
 ## ua.korrespondent.net
+19:58 [Іран розкрив деталі угоди зі США](https://ua.korrespondent.net/world/4886526-iran-rozkryv-detali-uhody-zi-ssha)<br>
+18:56 [Зеленський зустрінеться з Трампом на G7](https://ua.korrespondent.net/world/4886516-zelenskyi-zustrinetsia-z-trampom-na-G7)<br>
 18:37 [В Росії пропонують підривати затримані "тіньові" танкери](https://ua.korrespondent.net/world/russia/4886511-v-rosii-proponuuit-pidryvaty-zatrymani-tinovi-tankery)<br>
 17:59 [Зеленський підтвердив розмову з Трампом](https://ua.korrespondent.net/ukraine/4886506-zelenskyi-pidtverdyv-rozmovu-z-trampom)<br>
 17:28 [В Азербайджані заснували орган для захисту від кібератак РФ](https://ua.korrespondent.net/world/4886501-v-azerbaidzhani-zasnuvaly-orhan-dlia-zakhystu-vid-kiberatak-rf)<br>
@@ -49,6 +51,7 @@ Previous day: [2026-06-13](./data/2026-06-13.md)
 00:26 [ПриватБанк обмежив видачу готівки](https://ua.korrespondent.net/business/companies/4886381-pryvatbank-obmezhyv-vydachu-hotivky)<br>
 
 ## as.com
+19:41 [Joventut - Valencia, en directo: tercer partido de semifinales de la Liga Endesa 2026 en vivo](https://as.com/baloncesto/acb/joventut-valencia-en-directo-tercer-partido-de-semifinales-de-la-liga-endesa-2026-en-vivo-f202606-d/)<br>
 18:22 [Campazzo y Tavares: ¿siguen siendo la solución para el Real Madrid?](https://as.com/baloncesto/acb/campazzo-y-tavares-siguen-siendo-la-solucion-para-el-real-madrid-f202606-n/)<br>
 18:16 [Un fan de San Antonio se pelea a puñetazos él solo contra 300 aficionados de los Knicks: la escena es terrorífica](https://as.com/baloncesto/videos/un-fan-de-san-antonio-se-pelea-el-solo-contra-300-aficionados-de-los-knicks-tras-perder-la-final-la-escena-es-terrorifica-f202606-v/)<br>
 07:03 [Joventut - Valencia: horario, TV y dónde ver el playoff ACB 2025-26](https://as.com/baloncesto/acb/joventut-valencia-horario-tv-y-donde-ver-el-playoff-acb-2025-26-f202606-n/)<br>
@@ -56,6 +59,10 @@ Previous day: [2026-06-13](./data/2026-06-13.md)
 06:15 [El momento que llevaba Nueva York esperando 53 años: así acabó el partido que da el título a los Knicks](https://as.com/baloncesto/videos/el-momento-que-llevaba-nueva-york-esperando-53-anos-asi-acabo-el-partido-que-da-el-titulo-a-los-knicks-f202606-v/)<br>
 
 ## www.elperiodico.com
+20:02 [Julia Kluemper, la poeta que recita en TikTok para incentivar a la juventud a leer](https://www.elperiodico.com/es/ocio-y-cultura/20260614/julia-kluemper-poeta-recita-tiktok-incentivar-juventud-leer-131395836)<br>
+19:39 [Vandalismo y enfrentamientos con la policía en una protesta contra el G7 en Ginebra](https://www.elperiodico.com/es/videos/internacional/vandalismo-enfrentamientos-policia-protesta-g7/131395492.shtml)<br>
+19:23 [El icónico hotel Majestic del paseo de Gràcia se renueva para despuntar en el lujo de Barcelona](https://www.elperiodico.com/es/barcelona/20260614/iconico-hotel-majestic-paseo-gracia-renovacion-total-barcelona-top-lujo-131350486)<br>
+19:20 [Laura Lobo, abogada, lo confirma: esta es la prueba que puedes aportar si tu ex no paga la pensión pero "vive mejor que tú"](https://www.elperiodico.com/es/economia/20260614/abogada-laura-lobo-confirma-prueba-pension-ex-dv-131200927)<br>
 18:50 [Fallece Josep Maria Sans i Travé director del Arxiu Nacional durante más de dos décadas](https://www.elperiodico.com/es/ocio-y-cultura/20260614/fallece-josep-maria-sans-trave-131391647)<br>
 18:38 [Vandalismo y enfrentamientos con la policía en una protesta contra el G7 en Ginebra](https://www.elperiodico.com/es/internacional/20260614/violencia-actos-vandalicos-manifestacion-g7-ginebra-131394070)<br>
 18:24 [Estabilizado el fuego forestal en la Serreta, cerca de Vilafranca del Penedès](https://www.elperiodico.com/es/videos/sociedad/estabilizado-fuego-forestal-serreta-cerca/131393619.shtml)<br>
