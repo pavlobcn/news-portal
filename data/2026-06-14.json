@@ -1,5 +1,230 @@
 [
   {
+    "title": "Fallece Josep Maria Sans i Travé director del Arxiu Nacional durante más de dos décadas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260614/fallece-josep-maria-sans-trave-131391647",
+    "pubDate": "2026-06-14 18:50:31",
+    "category": "",
+    "description": "<h2>El historiador medievalista que impulsó la modernización archivística catalana y la preservación del patrimonio documental ha muerto a los 78 años. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Real Madrid se lanza a por Cucurella para su lateral izquierdo",
+    "link": "https://www.elperiodico.com/es/deportes/20260614/real-madrid-lanza-cucurella-fichaje-131394123",
+    "pubDate": "2026-06-14 18:39:36",
+    "category": "",
+    "description": "<h2>El lateral español se puede convertir en el cuarto refuerzo para José Mourinho, tras los de Konaté, Dumfries y Bernardo Silva</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vandalismo y enfrentamientos con la policía en una protesta contra el G7 en Ginebra",
+    "link": "https://www.elperiodico.com/es/internacional/20260614/violencia-actos-vandalicos-manifestacion-g7-ginebra-131394070",
+    "pubDate": "2026-06-14 18:38:45",
+    "category": "",
+    "description": "<h2>Las fuerzas del orden han lanzado gases lacrimógenas contra grupos violentos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Росії пропонують підривати затримані \"тіньові\" танкери",
+    "link": "https://ua.korrespondent.net/world/russia/4886511-v-rosii-proponuuit-pidryvaty-zatrymani-tinovi-tankery",
+    "pubDate": "2026-06-14 18:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4461570.jpg\">Ексглава Роскосмосу закликав встановлювати вибухівку на пов'язані з Росією цивільні судна, щоб мати можливість знищувати їх у разі захоплення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гран-прі Барселони виграла Феррарі в особі Гамільтона",
+    "link": "https://ua.korrespondent.net/sport/formula/4886510-hran-pri-barselony-vyhrala-ferrari-v-osobi-hamiltona",
+    "pubDate": "2026-06-14 18:33:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4461509.jpg\">Британський автогонщик святкує першу перемогу у складі нової для себе команди, ставши переможцем Гран-прі Барселони.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Estabilizado el fuego forestal en la Serreta, cerca de Vilafranca del Penedès",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/estabilizado-fuego-forestal-serreta-cerca/131393619.shtml",
+    "pubDate": "2026-06-14 18:24:45",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Campazzo y Tavares: ¿siguen siendo la solución para el Real Madrid?",
+    "link": "https://as.com/baloncesto/acb/campazzo-y-tavares-siguen-siendo-la-solucion-para-el-real-madrid-f202606-n/",
+    "pubDate": "2026-06-14 18:22:49",
+    "category": "Baloncesto",
+    "description": "Base y pívot tienen 35 y 34 años respectivamente. El primero ha acabado renqueante la temporada y el segundo, lesionado. ¿El fin de una era?",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЦВК Вірменії оголосила результати виборів: партія Пашиняна сформує уряд",
+    "link": "https://ua.korrespondent.net/world/4886508-tsvk-virmenii-oholosyla-rezultaty-vyboriv-partiia-pashyniana-sformuie-uriad",
+    "pubDate": "2026-06-14 18:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4461558.jpg\">Центрвиборчком Вірменії у неділю оголосив остаточні результати парламентських виборів, котрі відбулися 7 червня.",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un fan de San Antonio se pelea a puñetazos él solo contra 300 aficionados de los Knicks: la escena es terrorífica",
+    "link": "https://as.com/baloncesto/videos/un-fan-de-san-antonio-se-pelea-el-solo-contra-300-aficionados-de-los-knicks-tras-perder-la-final-la-escena-es-terrorifica-f202606-v/",
+    "pubDate": "2026-06-14 18:16:15",
+    "category": "NBA",
+    "description": "Una de las imágenes virales de la NBA que ha dejado los últimos partidos es este aficionado que entró en enajenación mental y decidió ir a golpear a una multitud del equipo rival.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eloy Olaya, mundialista con España en México 86: \"Con el gol de Iniesta al fin descansé; nos amnistió a todos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260614/eloy-olaya-mundialista-espana-mexico-131392794",
+    "pubDate": "2026-06-14 18:13:27",
+    "category": "",
+    "description": "<h2>\"El Mundial es algo maravilloso, es el culmen para cualquier futbolista\", dice el exdelantero del Sporting</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Incendios forestales en Catalunya y España, en directo: última hora de los fuegos activos en Lleida y Padrón",
+    "link": "https://www.elperiodico.com/es/sociedad/20260614/incendios-forestales-catalunya-espana-directo-131393069",
+    "pubDate": "2026-06-14 18:12:33",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sucesos/20260614/sucesos-incendio-cervia-garrigues-vegetacion-bombers-131390095\" target=\"_blank\">Protecció Civil ordena el confinamiento de la población afectada por el incendio en Cervià de les Garrigues (Lleida)</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hamza Abdelkarim, un juvenil del Barça, debutará con Egipto ante Bélgica",
+    "link": "https://www.elperiodico.com/es/deportes/20260614/hamza-abdelkarim-juvenil-barca-debutara-131391824",
+    "pubDate": "2026-06-14 18:11:28",
+    "category": "",
+    "description": "<h2>El delantero azulgrana es el cuarto jugador más joven del torneo y participará sin haber jugado con el primer equipo ni el filial</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Bombers trabajan en un incendio forestal en la Serreta, cerca de Vilafranca del Penedès",
+    "link": "https://www.elperiodico.com/es/sociedad/20260614/bombers-incendio-forestal-serreta-vilafranca-131392934",
+    "pubDate": "2026-06-14 18:05:11",
+    "category": "",
+    "description": "<h2> La policía ha confinado a algunos vecinos y la humareda es visible desde la autopista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Edificios destruidos en los suburbios al sur de Beirut por un ataque israelí",
+    "link": "https://www.elperiodico.com/es/videos/internacional/edificios-destruidos-suburbios-sur-beirut/131392894.shtml",
+    "pubDate": "2026-06-14 18:01:01",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El verano en el que Bad Bunny se convirtió en el icono de Puerto Rico: cuando el 'perreo' derrocó un gobierno machista y corrupto",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260614/verano-bad-bunny-convirtio-icono-puerto-rico-protestas-perreo-echaron-gobernador-131372772",
+    "pubDate": "2026-06-14 18:00:21",
+    "category": "",
+    "description": "<h2>Miles de jóvenes tomaron las calles llamados por los artistas en \"perreos combativos\", concentraciones donde bailar era también una forma de reflejar la resistencia del pueblo puertorriqueño</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "24 de junio: ¿Dónde es festivo el día de San Juan en España?",
+    "link": "https://www.elperiodico.com/es/economia/20260614/san-juan-2026-24-junio-festivo-espana-dv-130924510",
+    "pubDate": "2026-06-14 18:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Solo algunas localidades españolas, repartidas por todas las comunidades autónomas, tendrán fiesta este miércoles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260602/pasteleria-girona-mejor-coca-tradicional-sant-jordi-dv-130725328\">La pastelería de Girona donde se hace la mejor coca tradicional de Sant Joan de Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Las monitoras y monitores de apoyo escolar somos los grandes olvidados y trabajamos en situaciones precarias, externalizadas e invisibilizadas\"",
+    "link": "https://www.elperiodico.com/es/educacion/20260614/monitoras-monitores-apoyo-escolar-grandes-personas-olvidadas-dv-131327002",
+    "pubDate": "2026-06-14 18:00:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El colectivo, que acaba de unirse creando la Red de Monitoras y Monitores de Apoyo Escolar de Catalunya, denuncia que están contratados por empresas externas bajo el convenio de ocio educativo, a pesar de asumir responsabilidades educativas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260211/huelga-profesores-cataluna-cortes-carreteras-mejoras-salarios-ratios-educacion-126694414\">\"Si la cosa no cambia, dejo la docencia\": decenas de miles de profesores catalanes se plantan en una huelga histórica</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський підтвердив розмову з Трампом",
+    "link": "https://ua.korrespondent.net/ukraine/4886506-zelenskyi-pidtverdyv-rozmovu-z-trampom",
+    "pubDate": "2026-06-14 17:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4461535.jpg\">Сторони домовились продовжити обговорення під час зустрічі на саміті G7.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota vuelve a lo grande en unas 24 Horas de Le Mans complicadas para los españoles",
+    "link": "https://www.elperiodico.com/es/motor/20260614/toyota-vuelve-grande-24-horas-le-mans-2026-131390830",
+    "pubDate": "2026-06-14 17:57:05",
+    "category": "",
+    "description": "<h2>El Toyota #7 de Conway, Kobayashi y De Vries conquista la madre de todas las carreras, gracias a su ritmo y estrategia, en el debut de Genesis y Dani Juncadella, en una carrera con problemas para Miguel Molina (Ferrari #50) y Alex Riberas (Aston Martin #009)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El mexicano Del Toro gana el viejo Dauphiné ante un Juan Ayuso que le planta cara",
+    "link": "https://www.elperiodico.com/es/deportes/20260614/mexicano-toro-gana-viejo-dauphine-ayuso-tercero-131392424",
+    "pubDate": "2026-06-14 17:54:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El ciclista español vuelve a quedar segundo en los Alpes del Tour Auvergne-Rhône-Alpes en una última etapa que sirvió para presentar en sociedad al durísimo Plateau de Solaison que se afronta en la ronda francesa.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los termómetros tocarán techo la próxima semana y dejarán un Sant Joan marcado por el calor extremo",
+    "link": "https://www.elperiodico.com/es/tiempo/20260614/termometros-tocaran-techo-proxima-semana-calor-extremo-sant-joan-131390361",
+    "pubDate": "2026-06-14 17:46:52",
+    "category": "",
+    "description": "<h2>El modelo europeo sugiere que las temperaturas volverán a ser anormalmente altas este final de junio, como ya pasó en mayo, y podrían alcanzarse  los 40 grados en el sur de la península </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hamilton hace historia con Ferrari y vuelve a enamorar en Barcelona",
+    "link": "https://www.elperiodico.com/es/deportes/20260614/sigue-directo-carrera-gp-barcelona-131391848",
+    "pubDate": "2026-06-14 17:34:48",
+    "category": "",
+    "description": "<h2 class=\"item\">Logra su primer triunfo con Ferrari y rompe el empate con Michael Schumacher como el piloto con más victorias en el Circuit de Barcelona ( 7)</h2><h2 class=\"item\">Triste despedida de Alonso, que se ha retirado con un fallo de batería en su Aston Martin. Carlos Sainz ha sido 12º</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Todos los detalles y secretos del tecnológico interior del nuevo Ferrari Luce",
+    "link": "https://www.elperiodico.com/es/motor/20260614/detalles-secretos-tecnologico-interior-nuevo-ferrari-luce-131280217",
+    "pubDate": "2026-06-14 17:30:38",
+    "category": "",
+    "description": "<h2>La firma de Maranello combina mandos físicos de aluminio reciclado con instrumentación digital para optimizar el flujo de datos </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Азербайджані заснували орган для захисту від кібератак РФ",
+    "link": "https://ua.korrespondent.net/world/4886501-v-azerbaidzhani-zasnuvaly-orhan-dlia-zakhystu-vid-kiberatak-rf",
+    "pubDate": "2026-06-14 17:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4461521.jpg\">Нове агентство кібербезпеки відповідатиме за захист критичної інфраструктури, моніторинг кіберзагроз та розвиток цифрової безпеки на тлі атак російського походження.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las playas de Barcelona se llenan con el aumento de las temperaturas",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/playas-barcelona-llenan-aumento-temperaturas-fotos-131391495",
+    "pubDate": "2026-06-14 17:18:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Lisenda Pascual, psicóloga: “Darles una paga a tus hijos sin formarlos es como darles un smartphone sin educación: es negligente”",
     "link": "https://www.elperiodico.com/es/economia/20260614/lisenda-pascual-paga-hijos-ahorro-131284719",
     "pubDate": "2026-06-14 17:00:46",
@@ -1447,6 +1672,15 @@
     "description": "<h2 class=\"item\">EL PERIÓDICO recorre espacios del templo de Gaudí inaccesibles para el público, tras la bendición de la torre de Jesús</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260610/sagrada-familia-climax-ano-gaudi-2026-arquitectura-131208233\" target=\"_blank\">La Sagrada Família, clímax del Año Gaudí: 100 años de la muerte de Antoni Gaudí</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Trump funde el 250 aniversario de Estados Unidos con su 80 cumpleaños en una pelea en la Casa Blanca",
+    "link": "https://www.elperiodico.com/es/internacional/20260614/trump-funde-aniversario-estados-unidos-cumpleanos-pelea-casa-blanca-artes-marciales-topuria-131379972",
+    "pubDate": "2026-06-14 06:00:34",
+    "category": "",
+    "description": "<h2>Los jardines de la sede presidencial estadounidense albergarán un espectáculo de artes marciales mixtas con un coste superior a los 60 millones de dólares, generando controversia y demandas judiciales</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
   },
   {
     "title": "Quién es quién en la carrera por el dominio de la inteligencia artificial",
