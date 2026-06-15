@@ -1,5 +1,68 @@
 [
   {
+    "title": "Massimo Doris: \"¿Cuál es la diferencia entre oír y escuchar?\"",
+    "link": "https://www.elperiodico.com/es/economia/20260615/massimo-doris-diferencia-oir-escuchar-bc-131424841",
+    "pubDate": "2026-06-15 23:59:39",
+    "category": "",
+    "description": "<h2>Con esta pregunta arranca la nueva campaña de publicidad de Banco Mediolanum protagonizada por el Consejero Delegado del grupo, Massimo Doris.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Польщі вбили російського опозиційного художника",
+    "link": "https://ua.korrespondent.net/world/4886808-v-polschi-vbyly-rosiiskoho-opozytsiinoho-khudozhnyka",
+    "pubDate": "2026-06-15 23:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462682.jpg\">Поліція перекрила вулиці міста; ймовірного вбивцю затримали неподалік консульства Білорусі в Бялій-Підлясці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 16 de junio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260615/portada-periodico-16-junio-2026-131438887",
+    "pubDate": "2026-06-15 23:56:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un hombre mata en Valencia al logopeda de su hijo de 2 años tras acusarlo de abusar del niño",
+    "link": "https://www.elperiodico.com/es/sucesos/20260615/hombre-mata-valencia-logopeda-hijo-131438839",
+    "pubDate": "2026-06-15 23:44:00",
+    "category": "",
+    "description": "<h2>El agresor, que se ha entregado a la Policía, habría regresado antes de tiempo a la consulta y habría visto al menor con el pantalón bajado, tras lo cual habría atacado al profesional</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un hombre mata en Valencia al logopeda de su hijo de 2 años tras acusarlo de abusar del niño",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/hombre-mata-valencia-logopeda-hijo/131438818.shtml",
+    "pubDate": "2026-06-15 23:43:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У США розбився ядерний бомбардувальник B-52",
+    "link": "https://ua.korrespondent.net/world/4886804-u-ssha-rozbyvsia-yadernyi-bombarduvalnyk-B-52",
+    "pubDate": "2026-06-15 23:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462671.jpeg\">Офіційні особи підтвердили складність ситуації на військовій базі Ендрюс: ліквідація наслідків аварії триває.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бойова нічия: Бельгія та Єгипет не визначили сильнішого",
+    "link": "https://ua.korrespondent.net/sport/football/4886805-boiova-nichyia-belhiia-ta-yehypet-ne-vyznachyly-sylnishoho",
+    "pubDate": "2026-06-15 23:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462670.jpg\">Жодна з команд не хотіла поступатися ініціативою, і в підсумку фінальний свисток зафіксував нічийний результат.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Un autogol forzado por Lukaku evita la derrota de Bélgica ante Egipto",
     "link": "https://www.elperiodico.com/es/deportes/20260615/autogol-forzado-lukaku-evita-derrota-131438325",
     "pubDate": "2026-06-15 23:13:07",

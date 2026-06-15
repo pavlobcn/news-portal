@@ -1,8 +1,10 @@
-# News for 2026-06-15 23:23
+# News for 2026-06-16 01:14
 
 Previous day: [2026-06-14](./data/2026-06-14.md)
 
 ## ua.korrespondent.net
+23:59 [В Польщі вбили російського опозиційного художника](https://ua.korrespondent.net/world/4886808-v-polschi-vbyly-rosiiskoho-opozytsiinoho-khudozhnyka)<br>
+23:39 [У США розбився ядерний бомбардувальник B-52](https://ua.korrespondent.net/world/4886804-u-ssha-rozbyvsia-yadernyi-bombarduvalnyk-B-52)<br>
 22:58 [Трамп знову у грі. Новий етап перемовин про мир](https://ua.korrespondent.net/world/4886802-tramp-znovu-u-hri-novyi-etap-peremovyn-pro-myr)<br>
 22:57 [Орбан більш не стане прем'єром: в Угорщині змінили конституцію](https://ua.korrespondent.net/world/4886800-orban-bilsh-ne-stane-premierom-v-uhorschyni-zminyly-konstytutsiui)<br>
 22:36 [Розблокування нафти. Трамп домовився з Іраном](https://ua.korrespondent.net/world/4886796-rozblokuvannia-nafty-tramp-domovyvsia-z-iranom)<br>
@@ -89,6 +91,10 @@ Previous day: [2026-06-14](./data/2026-06-14.md)
 08:45 [Un problema de cupos para el Madrid](https://as.com/baloncesto/acb/un-problema-de-cupos-para-el-madrid-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Massimo Doris: "¿Cuál es la diferencia entre oír y escuchar?"](https://www.elperiodico.com/es/economia/20260615/massimo-doris-diferencia-oir-escuchar-bc-131424841)<br>
+23:56 [La portada de EL PERIÓDICO del 16 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260615/portada-periodico-16-junio-2026-131438887)<br>
+23:44 [Un hombre mata en Valencia al logopeda de su hijo de 2 años tras acusarlo de abusar del niño](https://www.elperiodico.com/es/sucesos/20260615/hombre-mata-valencia-logopeda-hijo-131438839)<br>
+23:43 [Un hombre mata en Valencia al logopeda de su hijo de 2 años tras acusarlo de abusar del niño](https://www.elperiodico.com/es/videos/sucesos/hombre-mata-valencia-logopeda-hijo/131438818.shtml)<br>
 23:05 [Sin vivienda no hay futuro de país](https://www.elperiodico.com/es/opinion/20260615/vivienda-hay-futuro-pais-articulo-junta-de-gobierno-collegi-darquitectes-131423877)<br>
 21:18 [El 60º aniversario del IED convierte el Palau Reial de Pedralbes en una pasarela de nuevos talentos](https://www.elperiodico.com/es/gente/20260615/ied-60-aniversario-palau-reial-pedralbes-desfile-moda-nuevos-talentos-131409871)<br>
 20:44 [La R8 de Rodalies vuelve a circular a partir de este martes por el túnel de Rubí y recupera su recorrido completo](https://www.elperiodico.com/es/sociedad/20260615/r8-rodalies-circula-tunel-rubi-recuopera-recorrido-completo-martorell-granollers-131433165)<br>
