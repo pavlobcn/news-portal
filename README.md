@@ -1,8 +1,27 @@
-# News for 2026-06-15 15:38
+# News for 2026-06-15 20:17
 
 Previous day: [2026-06-14](./data/2026-06-14.md)
 
 ## ua.korrespondent.net
+19:59 [Трамп зробив заяву щодо України](https://ua.korrespondent.net/world/4886771-tramp-zrobyv-zaiavu-schodo-ukrainy)<br>
+19:33 [Гасло Слава Україні! Героям слава! з'явиться на купюрах 100 гривень](https://ua.korrespondent.net/business/financial/4886765-haslo-slava-ukraini-heroiam-slava-ziavytsia-na-kupuirakh-100-hryven)<br>
+19:08 [DeepState: РФ призупинила наступ на двох напрямках](https://ua.korrespondent.net/ukraine/4886761-DeepState-rf-pryzupynyla-nastup-na-dvokh-napriamkakh)<br>
+18:47 [Заміна "шахедам"? Бандеролі знову атакують Київ](https://ua.korrespondent.net/ukraine/4886755-zamina-shakhedam-banderoli-znovu-atakuuit-kyiv)<br>
+18:43 [Росіяни вдарили по зоопарку в Харкові: постраждали тварини](https://ua.korrespondent.net/city/kharkov/4886758-rosiiany-vdaryly-po-zooparku-v-kharkovi-postrazhdaly-tvaryny)<br>
+18:40 [Укроборонпром показав реактивний ударний дрон з бойовою частиною в 100 кг](https://ua.korrespondent.net/ukraine/4886756-ukroboronprom-pokazav-reaktyvnyi-udarnyi-dron-z-boiovoui-chastynoui-v-100-kh)<br>
+18:22 [Україна вимагає скликання екстреного засідання Радбезу ООН](https://ua.korrespondent.net/ukraine/4886749-ukraina-vymahaie-sklykannia-ekstrenoho-zasidannia-radbezu-oon)<br>
+18:05 [Від сьогодні можна укладати нові контракти на службу в ЗСУ](https://ua.korrespondent.net/ukraine/4886744-vid-sohodni-mozhna-ukladaty-novi-kontrakty-na-sluzhbu-v-zsu)<br>
+18:02 [Трамп заявив про рух кораблів через Ормуз](https://ua.korrespondent.net/world/4886745-tramp-zaiavyv-pro-rukh-korabliv-cherez-ormuz)<br>
+17:42 [Посол на Кіпрі йде з посади зі скандалом: у МЗС зробили заяву](https://ua.korrespondent.net/ukraine/4886739-posol-na-kipri-yde-z-posady-zi-skandalom-u-mzs-zrobyly-zaiavu)<br>
+17:25 [Україна зробила важливий крок на шляху до ЄС](https://ua.korrespondent.net/world/4886734-ukraina-zrobyla-vazhlyvyi-krok-na-shliakhu-do-yes)<br>
+17:25 [ЗСУ з травня завдали близько 200 ударів на мосту в Крим](https://ua.korrespondent.net/ukraine/4886735-zsu-z-travnia-zavdaly-blyzko-200-udariv-na-mostu-v-krym)<br>
+17:22 [Макрон різко відреагував на торговельні погрози Трампа](https://ua.korrespondent.net/world/4886733-makron-rizko-vidreahuvav-na-torhovelni-pohrozy-trampa)<br>
+16:59 [У НАТО назвали потенційні цілі для ударів по Росії](https://ua.korrespondent.net/world/4886731-u-nato-nazvaly-potentsiini-tsili-dlia-udariv-po-rosii)<br>
+16:58 [Як сплатити кредит онлайн: простий гід без зайвих нервів](https://ua.korrespondent.net/business/4886688-yak-splatyty-kredyt-onlain-prostyi-hid-bez-zaivykh-nerviv)<br>
+16:48 [ЄС продовжив санкції проти РФ за Крим і увів нові](https://ua.korrespondent.net/world/4886729-yes-prodovzhyv-sanktsii-proty-rf-za-krym-i-uviv-novi)<br>
+16:29 [Новий механізм повернення з СЗЧ: Міноборони повідомило про перші результати](https://ua.korrespondent.net/ukraine/4886723-novyi-mekhanizm-povernennia-z-szch-minoborony-povidomylo-pro-pershi-rezultaty)<br>
+16:04 [Росіяни концентрують атаки під Лиманом - Генштаб](https://ua.korrespondent.net/ukraine/4886719-rosiiany-kontsentruuit-ataky-pid-lymanom-henshtab)<br>
+15:42 [У Росії зазнав аварії бомбардувальник Ту-22М3](https://ua.korrespondent.net/world/russia/4886715-u-rosii-zaznav-avarii-bombarduvalnyk-tu-22m3)<br>
 15:21 [На Київському морі виявили "відеопастки" ФСБ](https://ua.korrespondent.net/ukraine/4886711-na-kyivskomu-mori-vyiavyly-videopastky-fsb)<br>
 15:03 [У Росії вдруге поспіль скасували військово-морський парад у Петербурзі](https://ua.korrespondent.net/world/russia/4886707-u-rosii-vdruhe-pospil-skasuvaly-viiskovo-morskyi-parad-u-peterburzi)<br>
 14:48 [Українці виступають за усунення росмови з офіційної сфери - опитування](https://ua.korrespondent.net/ukraine/4886703-ukraintsi-vystupauit-za-usunennia-rosmovy-z-ofitsiinoi-sfery-opytuvannia)<br>
@@ -55,10 +74,42 @@ Previous day: [2026-06-14](./data/2026-06-14.md)
 00:01 [Пакистан підвердив угоду між США та Іраном](https://ua.korrespondent.net/world/4886552-pakystan-pidverdyv-uhodu-mizh-ssha-ta-iranom)<br>
 
 ## as.com
+18:45 [Marta Suárez jugará en Valencia](https://as.com/baloncesto/marta-suarez-jugara-en-valencia-f202606-n/)<br>
+18:13 [El Panathinaikos despide a Ataman](https://as.com/baloncesto/euroliga/el-panathinaikos-despide-a-ataman-f202606-n/)<br>
 13:24 [Sorpresa en Tenerife: se marcha Txus Vidorreta](https://as.com/baloncesto/acb/sorpresa-en-tenerife-se-marcha-txus-vidorreta-f202606-n/)<br>
 08:45 [Un problema de cupos para el Madrid](https://as.com/baloncesto/acb/un-problema-de-cupos-para-el-madrid-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:10 [La Zona de Baños del Fòrum abre con retraso tras una reforma que la hace más accesible](https://www.elperiodico.com/es/politica/20260615/zona-banos-forum-abre-renovada-barcelona-131434243)<br>
+20:01 [España está verde](https://www.elperiodico.com/es/deportes/20260615/espana-cabo-verde-resumen-resultado-mundial-2026-131434627)<br>
+19:56 [La reapertura del estrecho de Ormuz será más lenta y compleja de lo que Trump promete](https://www.elperiodico.com/es/internacional/20260615/estrecho-ormuz-reabrira-lentamente-trump-promete-guerra-iran-131434537)<br>
+19:31 [¿Podemos ser optimistas?](https://www.elperiodico.com/es/opinion/20260615/optimistas-iran-eeuu-mercados-articulo-joan-tapia-131433542)<br>
+19:26 [El G7 saluda el acuerdo de paz con Irán y Trump proclama en Francia: "El estrecho de Ormuz estará completamente abierto el viernes"](https://www.elperiodico.com/es/internacional/20260615/g7-acuerdo-paz-iran-trump-ormuz-cumbre-francia-131433645)<br>
+19:17 [Ley, justicia, opinión y los monos de Nikko](https://www.elperiodico.com/es/opinion/20260615/ley-justicia-opinion-monos-nikko-131433470)<br>
+19:15 [Alfonso Muñoz, funcionario de la Seguridad Social, revela el "premio" por jubilarse más tarde: "Hasta 8.000 euros"](https://www.elperiodico.com/es/economia/20260615/alfonso-munoz-funcionario-seguridad-social-jubilacion-mas-tarde-dv-131276012)<br>
+19:15 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260615/hoy-barcelona-agenda-actividades-planes-semana-102304377)<br>
+18:55 [El reto (otro más) de atraer estudiantes extranjeros universitarios: encontrarles piso cerca del campus](https://www.elperiodico.com/es/sociedad/20260615/piso-estudiantes-universitarios-internacionales-uab-131429276)<br>
+18:36 [¡Que jueguen los abuelitos!, por Lluís Carrasco](https://www.elperiodico.com/es/deportes/20260615/jueguen-abuelitos-lluis-carrasco-131431256)<br>
+18:33 [Trump confirma que algunos barcos empiezan a transitar por el estrecho de Ormuz](https://www.elperiodico.com/es/videos/internacional/trump-confirma-barcos-empiezan-transitar/131431350.shtml)<br>
+18:19 [Los bosques catalanes llegan al verano "más estresados" y con más riesgo de arder que hace un año](https://www.elperiodico.com/es/sociedad/20260615/bosques-catalanes-llegan-verano-estresados-131427210)<br>
+18:02 [Una exposición dedicada a Anna Turbau en el Palau Robert desvela fotografías inéditas de su archivo](https://www.elperiodico.com/es/ocio-y-cultura/20260615/exposicion-dedicada-anna-turbau-palau-131429186)<br>
+18:00 [Mollet del Vallès lanza un plan de inversiones de tres millones para renovar sus centros educativos](https://www.elperiodico.com/es/barcelona/20260615/mollet-valles-plan-inversiones-tres-millones-renovar-centros-educativos-131179985)<br>
+18:00 [Una comedia negra sobre el duelo y la reconstrucción familiar gana el Premi BBVA Sant Joan](https://www.elperiodico.com/es/ocio-y-cultura/20260615/comedia-negra-duelo-reconstruccion-familiar-131417906)<br>
+17:44 [El veto a Anthropic dispara las alarmas sobre la interferencia de Trump en la industria de la IA](https://www.elperiodico.com/es/tecnologia/20260615/veto-trump-anthropic-dispara-alarmas-industria-inteligencia-artificial-claude-mythos-fable-ciberseguridad-gobierno-eeuu-131424961)<br>
+17:31 [Es oficial: el catalán llega a Suiza como lengua oficial](https://www.elperiodico.com/es/vida-y-estilo/20260615/catalan-oficial-suiza-zurich-dv-131409846)<br>
+17:27 [Sara Barquinero: "Es súper normal que te guste tu profesor de la universidad; el problema lo tiene él, que ejerce la función pública"](https://www.elperiodico.com/es/ocio-y-cultura/20260615/sara-barquinero-super-normal-guste-131427064)<br>
+17:09 [Los catalanes destinaron a ocio y cultura 6.659 millones de euros en 2024, el 35% más que el año anterior](https://www.elperiodico.com/es/ocio-y-cultura/20260615/informe-conca-cultura-y-arte-2025-catalunya-131419818)<br>
+17:07 [Carlos Franquesa (Fluidra) releva a Eloi Planes al frente de Piscina Barcelona](https://www.elperiodico.com/es/economia/20260615/carlos-franquesa-fluidra-eloi-planes-fira-de-barcelona-barcelona-piscina-131426058)<br>
+16:51 [Centenares de jóvenes protestan por segundo día contra el Gobierno de Indonesia](https://www.elperiodico.com/es/internacional/20260615/indonesia-protestas-jovenes-gobierno-prabowo-131420954)<br>
+16:49 [Barcelona, levanta la mirada](https://www.elperiodico.com/es/opinion/20260615/barcelona-levanta-mirada-gaudi-articulo-carlos-perez-laporta-131425795)<br>
+16:45 [Los psicólogos coinciden: levantar la voz no significa ser dominante, más bien todo lo contrario](https://www.elperiodico.com/es/salud/20260615/psicologos-levantar-voz-dominante-discusion-seguridad-dv-131066028)<br>
+16:40 [La UE da su mayor paso en años hacia la adhesión de Ucrania y Moldavia](https://www.elperiodico.com/es/internacional/20260615/union-europea-ucrania-moldavia-negociaciones-adhesion-131426348)<br>
+16:36 [De los semiconductores al aeropuerto de Lleida: 5 inversiones clave del Govern en industria](https://www.elperiodico.com/es/economia/20260615/industria-inversiones-generalitat-cataluna-pacte-nacional-per-a-la-industria-131421367)<br>
+16:25 [El negocio internacional ya supone un 22% de la facturación de Liquats Vegetals, el fabricante de YoSoy y Natrue](https://www.elperiodico.com/es/economia/20260615/liquats-vegetals-yosoy-natrue-negocio-internacional-facturacion-131418298)<br>
+16:22 [Educación financiera y seguros: las claves para una vida estable](https://www.elperiodico.com/es/shopping/20260615/educacion-financiera-seguros-claves-vida-131423071)<br>
+16:00 [Consejos de una neuropediatra para acompañar el desarrollo de tu hijo: "Hemos perdido un poco el sentido común"](https://www.elperiodico.com/es/salud/20260615/consejos-neuropediatra-acompanar-desarrollo-hijo-sentido-comun-131424575)<br>
+16:00 [La fiebre hemorrágica de Crimea-Congo, el virus transmitido por garrapatas que más preocupa a los médicos](https://www.elperiodico.com/es/sanidad/20260615/fiebre-crimea-congo-virus-garrapatas-preocupa-medicos-116257908)<br>
+15:46 [La accidentada reaparición de Sofía Mazagatos y Tito Pajares](https://www.elperiodico.com/es/gente/20260615/accidentada-reaparicion-sofia-mazagatos-tito-131423935)<br>
 15:33 [La ayuda está en camino](https://www.elperiodico.com/es/opinion/20260615/ayuda-camino-eeuu-iran-israel-articulo-pilar-rahola-131422970)<br>
 15:31 [BBVA lanza un servicio para acompañar a las empresas españolas en su salto a México](https://www.elperiodico.com/es/economia/20260615/bbva-lanza-servicio-acompanar-empresas-espanolas-salto-mexico-131423513)<br>
 15:30 [Ni EEUU ni Israel consiguen sus objetivos en una guerra contra Irán que ha resultado “catastrófica”](https://www.elperiodico.com/es/internacional/20260615/eeuu-israel-objetivos-guerra-iran-conseguidos-131423440)<br>
