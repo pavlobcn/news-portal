@@ -1,5 +1,248 @@
 [
   {
+    "title": "Un autogol forzado por Lukaku evita la derrota de Bélgica ante Egipto",
+    "link": "https://www.elperiodico.com/es/deportes/20260615/autogol-forzado-lukaku-evita-derrota-131438325",
+    "pubDate": "2026-06-15 23:13:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Ashour adelantó a los faraones con un gran disparo que sorprendió a Courtois pero Hany igualó al marcar en propia meta en una acción con el gigantón belga.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sin vivienda no hay futuro de país",
+    "link": "https://www.elperiodico.com/es/opinion/20260615/vivienda-hay-futuro-pais-articulo-junta-de-gobierno-collegi-darquitectes-131423877",
+    "pubDate": "2026-06-15 23:05:31",
+    "category": "",
+    "description": "<h2>Hay que aumentar la oferta residencial. En caso contrario, será imposible corregir los desequilibrios actuales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп знову у грі. Новий етап перемовин про мир",
+    "link": "https://ua.korrespondent.net/world/4886802-tramp-znovu-u-hri-novyi-etap-peremovyn-pro-myr",
+    "pubDate": "2026-06-15 22:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Володимир Зеленський намагався використати саміт лідерів G7 в Італії як нейтральний майданчик для проведення зустрічі з російським диктатором.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Орбан більш не стане прем'єром: в Угорщині змінили конституцію",
+    "link": "https://ua.korrespondent.net/world/4886800-orban-bilsh-ne-stane-premierom-v-uhorschyni-zminyly-konstytutsiui",
+    "pubDate": "2026-06-15 22:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Нове правило стосується всіх посадових осіб, що обіймали відповідну посаду, починаючи з 2 травня 1990 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Netanyahu confirma que se presentará a las elecciones: \"Tengo la intención de ganar\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260615/netanyahu-confirma-presentara-elecciones-intencion-131438185",
+    "pubDate": "2026-06-15 22:47:01",
+    "category": "",
+    "description": "<h2>El Likud, partido del primer ministro israelí, ya había anunciado el pasado 10 de junio que concurriría a los próximas comicios</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зірковий хавбек збірної Італії повернувся до Серії А",
+    "link": "https://ua.korrespondent.net/sport/football/4886798-zirkovyi-khavbek-zbirnoi-italii-povernuvsia-do-serii-a",
+    "pubDate": "2026-06-15 22:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Після закордонного етапу кар'єри футболіст визначився зі своїм майбутнім і залишається у складі Удінезе.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vídeo | Tres detenidos por un homicidio en un bar de Torrero",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-tres-detenidos-homicidio-bar/131438137.shtml",
+    "pubDate": "2026-06-15 22:42:02",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Розблокування нафти. Трамп домовився з Іраном",
+    "link": "https://ua.korrespondent.net/world/4886796-rozblokuvannia-nafty-tramp-domovyvsia-z-iranom",
+    "pubDate": "2026-06-15 22:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Одразу після новин про домовленості з Іраном, Дональд Трамп зробив гучну заяву щодо України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лукашенко вибачився перед Зеленським за свої слова",
+    "link": "https://ua.korrespondent.net/world/worldabus/4886793-lukashenko-vybachyvsia-pered-zelenskym-za-svoi-slova",
+    "pubDate": "2026-06-15 22:31:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Україні \"з боку Білорусі... якихось військових дій чекати не слід\", запевнив вчергове голова правлячого режиму Білорусі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Воротар Кабо-Верде підірвав соцмережі після матчу з Іспанією",
+    "link": "https://ua.korrespondent.net/sport/football/4886791-vorotar-kabo-verde-pidirvav-sotsmerezhi-pislia-matchu-z-ispaniieui",
+    "pubDate": "2026-06-15 22:02:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">40-річний голкіпер збірної Кабо-Верде став справжньою сенсацією у медійному просторі після поєдинку проти команди Іспанії на чемпіонаті світу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Resultados de la Primitiva del lunes 15 de junio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260615/resultados-primitiva-lunes-15-junio-131437621",
+    "pubDate": "2026-06-15 21:59:08",
+    "category": "",
+    "description": "<h2>Consulta la combinación ganadora, el número complementario y el reintegro, así como el Joker</h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський закликав ЄС відкрити решту кластерів",
+    "link": "https://ua.korrespondent.net/ukraine/4886788-zelenskyi-zaklykav-yes-vidkryty-reshtu-klasteriv",
+    "pubDate": "2026-06-15 21:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Президент закликав рухатись вперед із відкриттям кластерів без зволікань - решти п’яти кластерів після сьогоднішнього відкриття першого.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sorteo Bonoloto del lunes 15 de junio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260615/sorteo-bonoloto-lunes-15-junio-131437415",
+    "pubDate": "2026-06-15 21:39:47",
+    "category": "",
+    "description": "<h2>Consulta los resultados de la combinación ganadora de hoy </h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De la Fuente y los jugadores de España llaman a la prudencia: \"No vamos a volvernos locos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260615/fuente-jugadores-espana-llaman-prudencia-131436533",
+    "pubDate": "2026-06-15 21:28:23",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський запросив до України Вселенського патріарха Варфоломія",
+    "link": "https://ua.korrespondent.net/ukraine/4886786-zelenskyi-zaprosyv-do-ukrainy-vselenskoho-patriarkha-varfolomiia",
+    "pubDate": "2026-06-15 21:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Президент подякував Варфоломію за підтримку України та його позицію щодо російських атак на Лавру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El 60º aniversario del IED convierte el Palau Reial de Pedralbes en una pasarela de nuevos talentos",
+    "link": "https://www.elperiodico.com/es/gente/20260615/ied-60-aniversario-palau-reial-pedralbes-desfile-moda-nuevos-talentos-131409871",
+    "pubDate": "2026-06-15 21:18:37",
+    "category": "",
+    "description": "<h2>En 'Fashioners of the World', las colecciones de 25 alumnos que se han graduado este curso en diseño de moda se han medido ante un jurado formado por Verónica Blume, Isabel Coixet, Manuel Outumuro y Jordi Labanda: \"El premio es a la sensibilidad y singularidad\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Арбітраж підтвердив права України в Чорному та Азовському морях - МЗС",
+    "link": "https://ua.korrespondent.net/ukraine/4886783-arbitrazh-pidtverdyv-prava-ukrainy-v-chornomu-ta-azovskomu-moriakh-mzs",
+    "pubDate": "2026-06-15 21:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Арбітражний трибунал виніс рішення по суті у справі України проти Російської Федерації щодо прав прибережної держави у Чорному морі, Азовському морі та Керченській протоці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дебютант ЧС Кабо-Верде встановив унікальний рекорд турніру",
+    "link": "https://ua.korrespondent.net/sport/football/4886781-debuitant-chs-kabo-verde-vstanovyv-unikalnyi-rekord-turniru",
+    "pubDate": "2026-06-15 21:07:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Африканська команда продемонструвала безпрецедентний рівень ігрової дисципліни, порушивши правила проти суперника лише один раз.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 15 de junio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260615/primitiva-hoy-lunes-15-junio-2026-resultados-comprobar-numeros-131433963",
+    "pubDate": "2026-06-15 21:00:47",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, martes 16 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260615/horoscopo-hoy-martes-16-junio-dv-131251385",
+    "pubDate": "2026-06-15 21:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ вдарила по Харківщині, семеро постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4886782-rf-vdaryla-po-kharkivschyni-semero-postrazhdalykh",
+    "pubDate": "2026-06-15 20:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Через російський удар спалахнув покинутий будинок. Також пошкоджено 10 приватних житлових будинків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La R8 de Rodalies vuelve a circular a partir de este martes por el túnel de Rubí y recupera su recorrido completo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260615/r8-rodalies-circula-tunel-rubi-recuopera-recorrido-completo-martorell-granollers-131433165",
+    "pubDate": "2026-06-15 20:44:22",
+    "category": "",
+    "description": "<h2 class=\"item\">La línea, embrión del futuro tren orbital, completa el trayecto entre Martorell y Granollers sin pasar por Barcelona</h2><h2 class=\"item\">El servicio de bus alternativo seguirá en funcionamiento como precaución por si se producen incidencias durante la reapertura</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260226/r8-reabre-granollers-rubi-rodalies-renfe-127285800\">Rodalies recupera el servicio de la R8 entre Rubí y Granollers</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260429/trenes-mercancias-circulan-nuevo-tunel-rubi-129668023\">Los trenes de mercancías ya circulan de nuevo por el túnel de Rubí</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Y a Pedri se le cayeron los ojos",
+    "link": "https://www.elperiodico.com/es/deportes/20260615/pedri-le-cayeron-ojos-131435642",
+    "pubDate": "2026-06-15 20:42:00",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Майбутній BMW X5 почав фінальні тести перед виробництвом",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4886779-maibutnii-BMW-X5-pochav-finalni-testy-pered-vyrobnytstvom",
+    "pubDate": "2026-06-15 20:39:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462598.jpg\">BMW показав замасковані фото X5 з тестів та розкрив деталі про п'ять видів силових установок майбутньої моделі.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El hombre ejecutado en la calle de Balmes es un ciudadano balcánico vinculado al narco",
+    "link": "https://www.elperiodico.com/es/sucesos/20260615/ejecutado-calle-balmes-ciudadano-serbio-ajuste-cuentas-tiros-131431492",
+    "pubDate": "2026-06-15 20:27:01",
+    "category": "",
+    "description": "<h2>La policía, que relaciona el crimen con un ajuste de cuentas, ha enviado la fotografía del sospechoso a las autoridades europeas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260610/matan-tiros-hombre-comisaria-policia-barcelona-131226733\">Los Mossos enmarcan la ejecución de la calle de Balmes en la guerra de narcos que se libra en Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España se estampa contra Vozinha, el portero de Cabo Verde al que su padre quiso llamar Jorge Valdano",
+    "link": "https://www.elperiodico.com/es/deportes/20260615/espana-estampa-vozinha-portero-cabo-verde-131429759",
+    "pubDate": "2026-06-15 20:22:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La crónica del España 0 - Cabo Verde 0: <a href=\"https://www.elperiodico.com/es/deportes/20260615/espana-cabo-verde-resumen-resultado-mundial-2026-131434627\">España está verde</a> </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Найбільший банк Португалії масово закриває рахунки росіянам без ВНЖ",
+    "link": "https://ua.korrespondent.net/world/4886774-naibilshyi-bank-portuhalii-masovo-zakryvaie-rakhunky-rosiianam-bez-vnzh",
+    "pubDate": "2026-06-15 20:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462584.jpg\">Перші повідомлення почали надходити з початку червня, а закриття рахунків заплановано на 14 серпня 2026 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Lydia Rodríguez deja Presuntos Implicados por \"maltrato\" y \"control\"",
     "link": "https://www.elperiodico.com/es/gente/20260615/lydia-rodriguez-deja-presuntos-implicados-131434818",
     "pubDate": "2026-06-15 20:14:34",
@@ -61,6 +304,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462583.jpg\">Трамп сказав, що зосередиться на припиненні війни в Україні та подивиться, \"чи зможемо ми це зробити\".",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Збірна Іспанії несподівано не змогла обіграти Кабо-Верде",
+    "link": "https://ua.korrespondent.net/sport/football/4886773-zbirna-ispanii-nespodivano-ne-zmohla-obihraty-kabo-verde",
+    "pubDate": "2026-06-15 19:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4462591.jpg\">Іспанія сенсаційно втратила очки в матчі з Кабо-Верде через відсутність висококласного форварда.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Росіяни масово скасовують поїздки до Криму через паливну кризу",
@@ -601,6 +853,15 @@
     "description": "<h2>La muestra, impulsada por La Casa de la Arquitectura, propone un diálogo entre España y China en torno a un reto compartido</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Haz tu porra del Mundial 2026 y pronostica quién ganará el campeonato",
+    "link": "https://www.elperiodico.com/es/deportes/20260615/porra-mundial-2026-campeon-131343587",
+    "pubDate": "2026-06-15 16:32:29",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260615/espana-cabo-verde-directo-previa-debut-seleccion-mundial-futbol-2026-131425033\">Siga en directo el partido entre España y Cabo Verde</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Новий механізм повернення з СЗЧ: Міноборони повідомило про перші результати",

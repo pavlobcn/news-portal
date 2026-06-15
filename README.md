@@ -1,8 +1,17 @@
-# News for 2026-06-15 20:17
+# News for 2026-06-15 23:23
 
 Previous day: [2026-06-14](./data/2026-06-14.md)
 
 ## ua.korrespondent.net
+22:58 [Трамп знову у грі. Новий етап перемовин про мир](https://ua.korrespondent.net/world/4886802-tramp-znovu-u-hri-novyi-etap-peremovyn-pro-myr)<br>
+22:57 [Орбан більш не стане прем'єром: в Угорщині змінили конституцію](https://ua.korrespondent.net/world/4886800-orban-bilsh-ne-stane-premierom-v-uhorschyni-zminyly-konstytutsiui)<br>
+22:36 [Розблокування нафти. Трамп домовився з Іраном](https://ua.korrespondent.net/world/4886796-rozblokuvannia-nafty-tramp-domovyvsia-z-iranom)<br>
+22:31 [Лукашенко вибачився перед Зеленським за свої слова](https://ua.korrespondent.net/world/worldabus/4886793-lukashenko-vybachyvsia-pered-zelenskym-za-svoi-slova)<br>
+21:54 [Зеленський закликав ЄС відкрити решту кластерів](https://ua.korrespondent.net/ukraine/4886788-zelenskyi-zaklykav-yes-vidkryty-reshtu-klasteriv)<br>
+21:25 [Зеленський запросив до України Вселенського патріарха Варфоломія](https://ua.korrespondent.net/ukraine/4886786-zelenskyi-zaprosyv-do-ukrainy-vselenskoho-patriarkha-varfolomiia)<br>
+21:13 [Арбітраж підтвердив права України в Чорному та Азовському морях - МЗС](https://ua.korrespondent.net/ukraine/4886783-arbitrazh-pidtverdyv-prava-ukrainy-v-chornomu-ta-azovskomu-moriakh-mzs)<br>
+20:59 [РФ вдарила по Харківщині, семеро постраждалих](https://ua.korrespondent.net/ukraine/4886782-rf-vdaryla-po-kharkivschyni-semero-postrazhdalykh)<br>
+20:17 [Найбільший банк Португалії масово закриває рахунки росіянам без ВНЖ](https://ua.korrespondent.net/world/4886774-naibilshyi-bank-portuhalii-masovo-zakryvaie-rakhunky-rosiianam-bez-vnzh)<br>
 19:59 [Трамп зробив заяву щодо України](https://ua.korrespondent.net/world/4886771-tramp-zrobyv-zaiavu-schodo-ukrainy)<br>
 19:33 [Гасло Слава Україні! Героям слава! з'явиться на купюрах 100 гривень](https://ua.korrespondent.net/business/financial/4886765-haslo-slava-ukraini-heroiam-slava-ziavytsia-na-kupuirakh-100-hryven)<br>
 19:08 [DeepState: РФ призупинила наступ на двох напрямках](https://ua.korrespondent.net/ukraine/4886761-DeepState-rf-pryzupynyla-nastup-na-dvokh-napriamkakh)<br>
@@ -80,6 +89,10 @@ Previous day: [2026-06-14](./data/2026-06-14.md)
 08:45 [Un problema de cupos para el Madrid](https://as.com/baloncesto/acb/un-problema-de-cupos-para-el-madrid-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:05 [Sin vivienda no hay futuro de país](https://www.elperiodico.com/es/opinion/20260615/vivienda-hay-futuro-pais-articulo-junta-de-gobierno-collegi-darquitectes-131423877)<br>
+21:18 [El 60º aniversario del IED convierte el Palau Reial de Pedralbes en una pasarela de nuevos talentos](https://www.elperiodico.com/es/gente/20260615/ied-60-aniversario-palau-reial-pedralbes-desfile-moda-nuevos-talentos-131409871)<br>
+20:44 [La R8 de Rodalies vuelve a circular a partir de este martes por el túnel de Rubí y recupera su recorrido completo](https://www.elperiodico.com/es/sociedad/20260615/r8-rodalies-circula-tunel-rubi-recuopera-recorrido-completo-martorell-granollers-131433165)<br>
+20:27 [El hombre ejecutado en la calle de Balmes es un ciudadano balcánico vinculado al narco](https://www.elperiodico.com/es/sucesos/20260615/ejecutado-calle-balmes-ciudadano-serbio-ajuste-cuentas-tiros-131431492)<br>
 20:10 [La Zona de Baños del Fòrum abre con retraso tras una reforma que la hace más accesible](https://www.elperiodico.com/es/politica/20260615/zona-banos-forum-abre-renovada-barcelona-131434243)<br>
 20:01 [España está verde](https://www.elperiodico.com/es/deportes/20260615/espana-cabo-verde-resumen-resultado-mundial-2026-131434627)<br>
 19:56 [La reapertura del estrecho de Ormuz será más lenta y compleja de lo que Trump promete](https://www.elperiodico.com/es/internacional/20260615/estrecho-ormuz-reabrira-lentamente-trump-promete-guerra-iran-131434537)<br>
