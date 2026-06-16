@@ -1,8 +1,38 @@
-# News for 2026-06-16 14:25
+# News for 2026-06-16 19:29
 
 Previous day: [2026-06-15](./data/2026-06-15.md)
 
 ## ua.korrespondent.net
+19:25 [РФ запропонувала Індії родовище рідкісноземельних елементів у Сибіру - ЗМІ](https://ua.korrespondent.net/world/russia/4887048-rf-zaproponuvala-indii-rodovysche-ridkisnozemelnykh-elementiv-u-sybiru-zmi)<br>
+19:18 [У НАТО оголосили дату наступного Рамштайну](https://ua.korrespondent.net/ukraine/4887046-u-nato-oholosyly-datu-nastupnoho-ramshtainu)<br>
+19:07 [Московський НПЗ зупинив переробку нафти після удару БПЛА - ЗМІ](https://ua.korrespondent.net/world/russia/4887044-moskovskyi-npz-zupynyv-pererobku-nafty-pislia-udaru-bpla-zmi)<br>
+18:46 [У РФ паливний колапс через удари ЗСУ - Генштаб](https://ua.korrespondent.net/ukraine/4887040-u-rf-palyvnyi-kolaps-cherez-udary-zsu-henshtab)<br>
+18:31 [Зеленський анонсував виготовлення 10 млн дронів](https://ua.korrespondent.net/ukraine/4887038-zelenskyi-anonsuvav-vyhotovlennia-10-mln-droniv)<br>
+18:27 [Дірки у бюджетах: дві третини регіонів РФ зіткнулися з браком коштів](https://ua.korrespondent.net/world/russia/4887036-dirky-u-buidzhetakh-dvi-tretyny-rehioniv-rf-zitknulysia-z-brakom-koshtiv)<br>
+17:51 [Сальдо отримав 15 років тюрми за вивезення українського зерна до РФ](https://ua.korrespondent.net/ukraine/4887028-saldo-otrymav-15-rokiv-tuirmy-za-vyvezennia-ukrainskoho-zerna-do-rf)<br>
+17:49 [Путін зробив багато пропозицій - Зеленський](https://ua.korrespondent.net/ukraine/4887026-putin-zrobyv-bahato-propozytsii-zelenskyi)<br>
+17:45 [Свята 17 червня 2026 року: іменини, традиції](https://ua.korrespondent.net/lifestyle/4887024-sviata-17-chervnia-2026-roku-imenyny-tradytsii)<br>
+17:35 [Україна й МВФ налаштовані позитивно - Зеленський](https://ua.korrespondent.net/ukraine/4887021-ukraina-y-mvf-nalashtovani-pozytyvno-zelenskyi)<br>
+17:27 [SpaceX вибила Amazon із п'ятірки найдорожчих компаній](https://ua.korrespondent.net/business/companies/4887018-SpaceX-vybyla-Amazon-iz-piatirky-naidorozhchykh-kompanii)<br>
+17:16 [Ціна на нафту впала до мінімуму з березня](https://ua.korrespondent.net/business/economics/4887017-tsina-na-naftu-vpala-do-minimumu-z-bereznia)<br>
+17:00 [Відновлення санкцій на російську нафту: Трамп зробив заяву](https://ua.korrespondent.net/business/economics/4887013-vidnovlennia-sanktsii-na-rosiisku-naftu-tramp-zrobyv-zaiavu)<br>
+16:54 [Росіяни вбили дроном трьох цивільних у Нікополі](https://ua.korrespondent.net/ukraine/4887011-rosiiany-vbyly-dronom-trokh-tsyvilnykh-u-nikopoli)<br>
+16:51 [На Вінниччині 14-річна дівчинка завагітніла після ґвалтувань вітчимом](https://ua.korrespondent.net/ukraine/4887009-na-vinnychchyni-14-richna-divchynka-zavahitnila-pislia-gvaltuvan-vitchymom)<br>
+16:40 [Зеленський анонсував Big Drone Deal з Канадою](https://ua.korrespondent.net/ukraine/4887007-zelenskyi-anonsuvav-Big-Drone-Deal-z-kanadoui)<br>
+16:33 [Удар по лаврі в Києві: названо суму збитків](https://ua.korrespondent.net/ukraine/4887005-udar-po-lavri-v-kyievi-nazvano-sumu-zbytkiv)<br>
+16:29 [Теракт під приводом "побачення з дівчиною": агент РФ отримав вирок](https://ua.korrespondent.net/ukraine/4887003-terakt-pid-pryvodom-pobachennia-z-divchynoui-ahent-rf-otrymav-vyrok)<br>
+16:15 [На фронті два гарячі напрямки - Генштаб](https://ua.korrespondent.net/ukraine/4886998-na-fronti-dva-hariachi-napriamky-henshtab)<br>
+16:12 [Росіяни вдарили по Краматорську, троє поранених](https://ua.korrespondent.net/ukraine/4886997-rosiiany-vdaryly-po-kramatorsku-troie-poranenykh)<br>
+15:55 [На Київщині заступник голови та депутат ОТГ торгували бронюванням](https://ua.korrespondent.net/ukraine/4886995-na-kyivschyni-zastupnyk-holovy-ta-deputat-oth-torhuvaly-bronuivanniam)<br>
+15:46 [ВАКС заочно взяв під варту ексрегіонала Іванющенка](https://ua.korrespondent.net/ukraine/4886993-vaks-zaochno-vziav-pid-vartu-eksrehionala-ivanuischenka)<br>
+15:31 [Буде тиск на Путіна? Розмова Зеленського з Трампом](https://ua.korrespondent.net/world/4886989-bude-tysk-na-putina-rozmova-zelenskoho-z-trampom)<br>
+15:19 [У Путіна відповіли Зеленському щодо зустрічі на G7](https://ua.korrespondent.net/world/russia/4886987-u-putina-vidpovily-zelenskomu-schodo-zustrichi-na-G7)<br>
+15:16 [SpaceX придбала стартап у сфері штучного інтелекту Cursor](https://ua.korrespondent.net/business/companies/4886985-SpaceX-prydbala-startap-u-sferi-shtuchnoho-intelektu-Cursor)<br>
+14:55 [Ще 13 дітей вдалося повернути з окупованої Херсонщини](https://ua.korrespondent.net/ukraine/4886978-sche-13-ditei-vdalosia-povernuty-z-okupovanoi-khersonschyny)<br>
+14:46 [До України зі Словаччини екстрадували організатора озброєної банди](https://ua.korrespondent.net/ukraine/4886976-do-ukrainy-zi-slovachchyny-ekstraduvaly-orhanizatora-ozbroienoi-bandy)<br>
+14:42 [Европа допоможе відновити саркофаг на ЧАЕС та Лавру](https://ua.korrespondent.net/world/4886974-evropa-dopomozhe-vidnovyty-sarkofah-na-chaes-ta-lavru)<br>
+14:31 [Зеленський підвів підсумки зустрічей на саміті G7](https://ua.korrespondent.net/ukraine/4886973-zelenskyi-pidviv-pidsumky-zustrichei-na-samiti-G7)<br>
+14:27 [У Криму заарештували жінку за підозрою у держзраді](https://ua.korrespondent.net/world/russia/4886971-u-krymu-zaareshtuvaly-zhinku-za-pidozroui-u-derzhzradi)<br>
 14:14 [У полоні РФ закатували "азовця" й захисника Маріуполя - ЗМІ](https://ua.korrespondent.net/ukraine/4886969-u-poloni-rf-zakatuvaly-azovtsia-y-zakhysnyka-mariupolia-zmi)<br>
 13:55 [РФ заявила про створення комплексу для глушіння Starlink, однак є нюанс](https://ua.korrespondent.net/world/russia/4886960-rf-zaiavyla-pro-stvorennia-kompleksu-dlia-hlushinnia-Starlink-odnak-ye-nuians)<br>
 13:51 [Кораблі Ірану почали проходити через зону морської блокади США](https://ua.korrespondent.net/world/4886959-korabli-iranu-pochaly-prokhodyty-cherez-zonu-morskoi-blokady-ssha)<br>
@@ -52,6 +82,37 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 11:27 [Dario Saric, al Efes de Laso](https://as.com/baloncesto/euroliga/dario-saric-al-efes-de-laso-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:27 [Vídeo | Preocupación en Madrid por un incendio de chatarra que genera humo tóxico: "Apenas podemos respirar ni dentro de los domicilios"](https://www.elperiodico.com/es/sucesos/20260616/video-preocupacion-madrid-incendio-chatarra-131473365)<br>
+19:27 [La Fiscalía retirará la acusación a Raúl Asencio si pide perdón a las víctimas en el juicio](https://www.elperiodico.com/es/deportes/20260616/fiscalia-retirara-acusacion-raul-asencio-131471289)<br>
+19:27 [Los bomberos trabajan para sofocar un incendio de chatarra en Vicálvaro](https://www.elperiodico.com/es/videos/sucesos/bomberos-sofocar-incendio-chatarra-vicalvaro/131473367.shtml)<br>
+19:21 [Así es el resort de lujo en Suiza que acogerá la firma del acuerdo entre EEUU e Irán](https://www.elperiodico.com/es/internacional/20260616/resort-lujo-suiza-acogera-firma-estados-unidos-iran-131473222)<br>
+19:17 [La Antártida pierde un área de hielo marino del tamaño de Francia por el calentamiento global](https://www.elperiodico.com/es/tendencias21/20260616/antartida-pierde-area-hielo-marino-131473094)<br>
+19:14 [Catalunya podrá incidir en la planificación de los aeropuertos con Aena y en las tarifas](https://www.elperiodico.com/es/economia/20260616/catalunya-incidir-planificacion-tarifas-aeropuertos-barcelona-el-prat-acuerdo-presupuestos-erc-govern-131470583)<br>
+19:00 [La prensa de Irán canta victoria y amenaza con volver a la guerra si EEUU viola el acuerdo: "Nuestra capacidad de respuesta ha atemorizado al enemigo"](https://www.elperiodico.com/es/internacional/20260616/prensa-iran-canta-victoria-amenaza-volver-guerra-eeuu-viola-acuerdo-131472478)<br>
+18:48 [Los médicos de Catalunya vuelven a la huelga este miércoles: el paro número 12 desde octubre](https://www.elperiodico.com/es/sanidad/20260616/medicos-catalunya-vuelven-otra-huelga-miercoles-convenio-131444173)<br>
+18:43 [Ferrocarrils convierte sus 280 puntos de información y emergencia en puntos lila contra el acoso sexual](https://www.elperiodico.com/es/barcelona/20260616/ferrocarrils-convierte-280-puntos-informacion-puntos-lila-acoso-sexual-131468808)<br>
+18:36 [El padre del bebé de seis semanas maltratado en Barcelona pide salir de la cárcel](https://www.elperiodico.com/es/sociedad/20260616/padre-bebe-maltratado-barcelona-pide-salir-prision-131471460)<br>
+18:21 [El Reino Unido investiga posibles disparos de advertencia de una fragata rusa contra un yate en el canal de la Mancha](https://www.elperiodico.com/es/internacional/20260616/buque-guerra-ruso-disparos-advertencia-yate-britanico-canal-mancha-131470988)<br>
+18:02 [Ni Sarrià ni Eixample: el distrito de Barcelona que fue un municipio independiente hasta 1897 y que hora está entre los más codiciados](https://www.elperiodico.com/es/barcelona/20260616/barcelona-gracia-vivir-cataluna-dv-loc-127252404)<br>
+17:59 [Philippe Aghion, premio Nobel de Economía, advierte: "La IA destruirá empleos, pero creará otros"](https://www.elperiodico.com/es/economia/20260616/philippe-aghion-nobel-economia-inteligencia-artificial-trabajo-131445707)<br>
+17:45 [Barcelona desencalla la reapertura al público de la modernista Casa Lleó Morera del paseo de Gràcia](https://www.elperiodico.com/es/barcelona/20260616/barcelona-modernismo-casa-lleo-morera-visitas-paseo-gracia-131468650)<br>
+16:54 [Starbucks decreta un cierre parcial en Corea del Sur y lecciones de Historia a sus empleados tras una calamitosa campaña publicitaria](https://www.elperiodico.com/es/internacional/20260616/starbucks-cierre-parcial-lecciones-historia-empleados-corea-sur-campana-publicidad-ia-masacre-131466716)<br>
+16:50 [Cómo dejar de vivir (y criar) en modo automático: «Tenemos normalizado que la vida es esta»](https://www.elperiodico.com/es/sociedad/20260616/vivir-criar-automatico-normalizado-estilo-de-vida-dv-131364500)<br>
+16:48 [Sergi Saborit, subdirector de EL PERIÓDICO, nuevo presidente de la Associació de Periodistes d'Informació Econòmica de Catalunya](https://www.elperiodico.com/es/economia/20260616/sergi-saborit-presidente-asociacion-periodistas-economicos-catalunya-apiec-131466037)<br>
+16:43 [Levantamiento del cadáver asesinado tras una reyerta en una casa abandonada de Aldaia](https://www.elperiodico.com/es/videos/sociedad/levantamiento-cadaver-asesinado-reyerta-casa/131466304.shtml)<br>
+16:34 [Las rehabilitaciones del barrio de Sant Ildefons de Cornellà, premiadas por su apuesta por la transformación urbana](https://www.elperiodico.com/es/barcelona/20260616/rehabilitaciones-barrio-sant-ildefons-cornella-premiadas-apuesta-transformacion-urbana-131464232)<br>
+16:27 [Leonor visita Teror durante su estancia de formación en Gran Canaria](https://www.elperiodico.com/es/videos/sociedad/leonor-visita-teror-durante-estancia/131465264.shtml)<br>
+16:23 [Arranca la macroencuesta de personas sin hogar de la Fundació Arrels: "Se sienten muy solos e invisibles"](https://www.elperiodico.com/es/sociedad/20260616/arranca-macroencuesta-personas-hogar-fundacio-arrels-solos-invisibles-131455348)<br>
+16:20 [Lo de Begoña Gómez es lo de menos](https://www.elperiodico.com/es/opinion/20260616/begona-gomez-corrupcion-psoe-articulo-alex-salmon-131464570)<br>
+16:08 [El informe Fénix: un toque de atención y una invitación a la acción](https://www.elperiodico.com/es/opinion/20260616/informe-fenix-toque-atencion-invitacion-articulo-miquel-barcelo-roca-131463958)<br>
+16:05 [El gobierno Collboni ofrece reducir horario de trabajo y contratar a 25 empleados para acabar con la huelga de bibliotecas](https://www.elperiodico.com/es/barcelona/20260616/barcelona-huelga-bibliotecas-negociacion-ayuntamiento-sindicatos-131463447)<br>
+16:00 [José Antonio Marina, filósofo: "Los padres quieren educar bien, pero a menudo no saben si dar a sus hijos un bofetón o una tarjeta de crédito"](https://www.elperiodico.com/es/sociedad/20260616/jose-antonio-marina-filosofo-error-educativo-jovenes-felicidad-facil-bofeton-tarjeta-credito-131350941)<br>
+15:50 [La directora de la Guardia Civil explica en el Senado sus contactos con Leire Díez](https://www.elperiodico.com/es/videos/politica/directora-guardia-civil-explica-senado/131463810.shtml)<br>
+15:49 [El gallo de Portugal](https://www.elperiodico.com/es/opinion/20260616/gallo-portugal-mundial-futbol-articulo-josep-maria-fonalleras-131463422)<br>
+15:09 [Antonio López,  administrativo con el sueldo congelado 15 años: "Mis hijas no saben lo que son vacaciones, somos trabajadores pobres"](https://www.elperiodico.com/es/sociedad/20260616/vivir-durante-15-anos-sueldo-congelado-hijas-vacaciones-dv-127669554)<br>
+14:49 [Barcelona supera los 500 refugios climáticos para este verano y refuerza la apuesta de tener uno a 10 minutos a pie](https://www.elperiodico.com/es/videos/sociedad/barcelona-supera-500-refugios-climaticos-verano-video/131460196.shtml)<br>
+14:44 [Orden de detención para Elisa Mouliaá tras faltar por tercera vez a declarar](https://www.elperiodico.com/es/videos/politica/orden-detencion-elisa-mouliaa-faltar-tercera-vez-declarar-video/131461138.shtml)<br>
+14:38 [El Port de Barcelona instala estructuras bajo el agua para regenerar el entorno marino](https://www.elperiodico.com/es/economia/20260616/puerto-barcelona-instala-estructuras-debajo-agua-recuperar-entorno-programa-regenports-131454828)<br>
 14:23 ["Su generación no es como la nuestra, son unos memos": Una patronal dividida señala a los jóvenes como responsables del aumento de las bajas](https://www.elperiodico.com/es/economia/20260616/baja-laboral-patronal-ceoe-senala-jovenes-son-unos-memos-131454017)<br>
 14:21 [Junts emienda los presupuestos de Illa: menos impuestos, el catalán como requisito migratorio y un MIR para profesores](https://www.elperiodico.com/es/politica/20260616/junts-emienda-presupuestos-illa-impuestos-131449754)<br>
 14:18 [Jaume Sabater, fundador del fondo de inversión Stoneweg, compra la Sala Parés, la galería de arte más antigua de Europa](https://www.elperiodico.com/es/ocio-y-cultura/20260616/jaume-sabater-fundador-fondo-inversion-131459417)<br>
@@ -62,6 +123,7 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 14:02 [El Govern incrementa la inversión en las 'fábricas de agua' del área de Barcelona: 76 millones irán a la potabilizadora del Ter](https://www.elperiodico.com/es/barcelona/20260616/govern-incrementa-inversion-fabricas-agua-area-barcelona-76-millones-euros-potabilizadora-ter-131454571)<br>
 13:56 [Ocho de cada diez españoles se sienten más guapos que nunca: es la cifra más alta desde 2022](https://www.elperiodico.com/es/salud/20260616/ocho-diez-espanoles-sienten-mas-guapos-que-nunca-131458572)<br>
 13:46 [El centro Kbr de Barcelona acoge la mayor retrospectiva en Europa sobre Minor White, poeta de la fotografía](https://www.elperiodico.com/es/ocio-y-cultura/20260616/centro-kbr-barcelona-acoge-mayor-europa-minor-white-fotografia-131457163)<br>
+13:30 [El santuario verde de Hong Kong: escapadas a la parte más natural de la región](https://www.elperiodico.com/es/ocio-y-cultura/20260616/santuario-verde-hong-kong-escapadas-parte-natural-region-bc-131018920)<br>
 13:30 [El PSOE acredita ante el juez que no pagó las facturas pendientes al abogado de Cerdán tras su marcha del partido](https://www.elperiodico.com/es/politica/20260616/psoe-acredita-juez-pago-facturas-131456735)<br>
 13:22 [La Aemet anuncia la primera ola de calor del verano para la próxima semana: "No se descarta que las temperaturas superen los 40 grados"](https://www.elperiodico.com/es/tiempo/20260616/aemet-anuncia-primera-ola-calor-proxima-semana-temperaturas-40-grados-dv-131454690)<br>
 13:19 [Nuevas franjas forestales protegerán de incendios urbanizaciones de tres ciudades del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260616/franjas-forestales-protegeran-incendios-urbanizaciones-131454043)<br>
@@ -70,6 +132,7 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 12:54 [Barcelona superará los 500 refugios climáticos este verano con la incorporación de comercios y locales privados](https://www.elperiodico.com/es/barcelona/20260616/barcelona-suma-centenar-refugios-climaticos-131450548)<br>
 12:45 [Zelensky llama a Rusia a retomar las negociaciones "en coordinación con Estados Unidos"](https://www.elperiodico.com/es/internacional/20260616/trump-rusia-acuerdo-ucrania-g7-131453864)<br>
 12:37 [Los Comuns proponen tipificar como grandes tenedores quienes tengan cinco propiedades en toda Catalunya](https://www.elperiodico.com/es/politica/20260616/comuns-proponen-tipificar-grandes-tenedores-cinco-propiedades-catalunya-131450880)<br>
+12:35 [Trump advierte de que si Irán se hace con un arma nuclear sufrirá "consecuencias terribles" y lanza un dardo a Netanyahu: "Sin mí, no existiría Israel"](https://www.elperiodico.com/es/internacional/20260616/trump-advierte-iran-arma-nuclear-consecuencias-increibles-131453200)<br>
 12:31 [Las 700 plazas para juez y fiscal exigen simplemente tener el título de Derecho: no se pide experiencia previa ni años de ejercicio](https://www.elperiodico.com/es/economia/20260616/gobierno-700-plazas-juez-fiscal-requisitos-fechas-dv-131452057)<br>
 12:30 [El Parlament colocará de forma permanente la bandera de España y la 'senyera' en su fachada tras la resolución del TSJC](https://www.elperiodico.com/es/politica/20260616/bandera-espana-senyera-parlament-ondear-permanente-impulso-ciudadano-131451516)<br>
 12:30 [Matthew Tree, escritor: "Mentalmente había matado a mi padre muchas veces"](https://www.elperiodico.com/es/ocio-y-cultura/20260616/matthew-tree-escritor-mentalmente-habia-131447088)<br>
@@ -102,6 +165,7 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 06:15 [Las pausas de hidratación acumulan críticas de jugadores y entrenadores, pero el negocio abierto es muy grande](https://www.elperiodico.com/es/deportes/20260616/pausas-hidratacion-acumulan-criticas-enorme-negocio-mundial-131417030)<br>
 06:01 [Puig activa el proceso para elegir qué miembros de la cuarta generación entrarán a su consejo](https://www.elperiodico.com/es/economia/20260616/puig-activa-proceso-elegir-miembros-cuarta-generacion-consejo-131424815)<br>
 06:01 [Barcelona reúne a líderes políticos, empresariales y académicos en el III Foro Económico y Social del Mediterráneo](https://www.elperiodico.com/es/economia/20260616/barcelona-reune-lideres-politicos-empresariales-academicos-tercer-foro-economico-y-social-mediterraneo-131345453)<br>
+06:01 [La directora de la Guardia Civil niega presiones a la UCO y asegura que con Leire Díez solo tomó café](https://www.elperiodico.com/es/politica/20260616/directora-guardia-civil-explica-senado-131434549)<br>
 06:01 [Warsh hereda una Fed con la inflación al 4,2% y una posible pausa que reaviva las dudas sobre su autonomía](https://www.elperiodico.com/es/economia/20260616/warsh-hereda-fed-inflacion-4-131440867)<br>
 06:01 [El salto de Belarra a la Comunidad de Madrid aleja un acuerdo con Mónica García para 2027](https://www.elperiodico.com/es/politica/20260616/salto-belarra-comunidad-madrid-aleja-131431188)<br>
 06:00 [El pianista Ignasi Terraza asume el reto de improvisar a dúo con la IA en el Sónar](https://www.elperiodico.com/es/ocio-y-cultura/20260616/pianista-ignasi-terraza-asume-reto-131412086)<br>
