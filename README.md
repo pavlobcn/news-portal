@@ -1,8 +1,16 @@
-# News for 2026-06-16 19:29
+# News for 2026-06-16 22:28
 
 Previous day: [2026-06-15](./data/2026-06-15.md)
 
 ## ua.korrespondent.net
+21:56 [Історичний крок. ЄС запустив вступ України](https://ua.korrespondent.net/ukraine/4887071-istorychnyi-krok-yes-zapustyv-vstup-ukrainy)<br>
+21:55 [Зеленський анонсував нову зустріч із Трампом](https://ua.korrespondent.net/ukraine/4887069-zelenskyi-anonsuvav-novu-zustrich-iz-trampom)<br>
+21:30 [Лідери G7 домовилися посилити санкції проти енергетики РФ - ЗМІ](https://ua.korrespondent.net/world/4887067-lidery-G7-domovylysia-posylyty-sanktsii-proty-enerhetyky-rf-zmi)<br>
+21:17 [Росіяни вдарили по Чорнобаївці, є поранена](https://ua.korrespondent.net/ukraine/4887065-rosiiany-vdaryly-po-chornobaivtsi-ye-poranena)<br>
+20:37 [На Хмельниччині розбився літак Су-24М](https://ua.korrespondent.net/ukraine/4887060-na-khmelnychchyni-rozbyvsia-litak-su-24m)<br>
+20:19 [Військовий корабель РФ здійснив постріл по яхті в Ла-Манші](https://ua.korrespondent.net/world/4887057-viiskovyi-korabel-rf-zdiisnyv-postril-po-yakhti-v-la-manshi)<br>
+19:59 [Дрони, штурм Білого дому та снайпери: ФБР запобігло замаху на Трампа](https://ua.korrespondent.net/world/4887054-drony-shturm-biloho-domu-ta-snaipery-fbr-zapobihlo-zamakhu-na-trampa)<br>
+19:50 [Зеленський зустрівся із президентом ОАЕ](https://ua.korrespondent.net/ukraine/4887052-zelenskyi-zustrivsia-iz-prezydentom-oae)<br>
 19:25 [РФ запропонувала Індії родовище рідкісноземельних елементів у Сибіру - ЗМІ](https://ua.korrespondent.net/world/russia/4887048-rf-zaproponuvala-indii-rodovysche-ridkisnozemelnykh-elementiv-u-sybiru-zmi)<br>
 19:18 [У НАТО оголосили дату наступного Рамштайну](https://ua.korrespondent.net/ukraine/4887046-u-nato-oholosyly-datu-nastupnoho-ramshtainu)<br>
 19:07 [Московський НПЗ зупинив переробку нафти після удару БПЛА - ЗМІ](https://ua.korrespondent.net/world/russia/4887044-moskovskyi-npz-zupynyv-pererobku-nafty-pislia-udaru-bpla-zmi)<br>
@@ -13,6 +21,7 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 17:49 [Путін зробив багато пропозицій - Зеленський](https://ua.korrespondent.net/ukraine/4887026-putin-zrobyv-bahato-propozytsii-zelenskyi)<br>
 17:45 [Свята 17 червня 2026 року: іменини, традиції](https://ua.korrespondent.net/lifestyle/4887024-sviata-17-chervnia-2026-roku-imenyny-tradytsii)<br>
 17:35 [Україна й МВФ налаштовані позитивно - Зеленський](https://ua.korrespondent.net/ukraine/4887021-ukraina-y-mvf-nalashtovani-pozytyvno-zelenskyi)<br>
+17:35 [Україна й МВФ налаштовані позитивно - Зеленський](https://ua.korrespondent.net/business/financial/4887021-ukraina-y-mvf-nalashtovani-pozytyvno-zelenskyi)<br>
 17:27 [SpaceX вибила Amazon із п'ятірки найдорожчих компаній](https://ua.korrespondent.net/business/companies/4887018-SpaceX-vybyla-Amazon-iz-piatirky-naidorozhchykh-kompanii)<br>
 17:16 [Ціна на нафту впала до мінімуму з березня](https://ua.korrespondent.net/business/economics/4887017-tsina-na-naftu-vpala-do-minimumu-z-bereznia)<br>
 17:00 [Відновлення санкцій на російську нафту: Трамп зробив заяву](https://ua.korrespondent.net/business/economics/4887013-vidnovlennia-sanktsii-na-rosiisku-naftu-tramp-zrobyv-zaiavu)<br>
@@ -78,10 +87,22 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 00:39 [Вступ у ЄС: уряд назвав строки виконання критеріїв](https://ua.korrespondent.net/ukraine/4886810-vstup-u-yes-uriad-nazvav-stroky-vykonannia-kryteriiv)<br>
 
 ## as.com
+19:33 [Xavi Pascual, pleno de finales ACB](https://as.com/baloncesto/acb/xavi-pascual-pleno-de-finales-acb-f202606-n/)<br>
+19:33 [Giro inesperado: Vidorreta, cerca del Unicaja](https://as.com/baloncesto/acb/giro-inesperado-vidorreta-cerca-del-unicaja-f202606-n/)<br>
 13:38 [Granada celebra el talento de Cayetano García y Elena Luna, premios AS del mes de abril](https://as.com/baloncesto/mas_baloncesto/granada-celebra-el-talento-de-cayetano-garcia-y-elena-luna-premios-as-del-mes-de-abril-f202606-n/)<br>
+12:04 [Kobi Simmons renueva para dos temporadas](https://as.com/baloncesto/kobi-simmons-renueva-para-dos-temporadas-f202606-n/)<br>
 11:27 [Dario Saric, al Efes de Laso](https://as.com/baloncesto/euroliga/dario-saric-al-efes-de-laso-f202606-n/)<br>
+07:03 [La Liga, el último servicio de Montero al Valencia Basket](https://as.com/baloncesto/la-liga-el-ultimo-servicio-de-montero-al-valencia-basket-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:25 [El Foro Económico y Social del Mediterráneo amarra en Barcelona inspirado por "la creatividad y la apertura" de Miró](https://www.elperiodico.com/es/ocio-y-cultura/20260616/inauguracion-tercer-foro-economico-social-mediterraneo-barcelona-131459416)<br>
+21:35 [La modernización militar de Marruecos con drones israelíes redefine el conflicto saharaui](https://www.elperiodico.com/es/internacional/20260616/modernizacion-militar-marruecos-drones-israelies-131476618)<br>
+21:24 [La Guardia Civil encuentra la Cruz del Aneto dos meses después de ser vandalizada](https://www.elperiodico.com/es/sociedad/20260616/guardia-civil-encuentra-cruz-aneto-131476260)<br>
+21:14 [Así ha sido el consejo del III Foro Económico y Social del Mediterraneo en la Fundación Joan Miró](https://www.elperiodico.com/es/videos/politica/consejo-iii-foro-economico-social-mediterraneo/131476065.shtml)<br>
+21:00 [Josep Rull pide reforzar la cooperación mediterránea ante los discursos de odio y la crisis climática](https://www.elperiodico.com/es/politica/20260616/josep-rull-foro-mediterraneo-prensa-iberica-131464477)<br>
+20:42 [Albert Dalmau reivindica Catalunya como un "país plural" ante los que usan la diversidad como "confrontación"](https://www.elperiodico.com/es/politica/20260616/dalmau-foro-mediterraneo-prensa-iberica-131473878)<br>
+19:33 [Indra ultima su alianza con el gigante germano Rheinmetall para un contrato de artillería de 2.686 millones](https://www.elperiodico.com/es/economia/20260616/indra-ultima-alianza-gigante-germano-131473645)<br>
+19:30 [Del turismo masivo al déficit de vivienda asequible: el 40% del PIB español debate sus límites](https://www.elperiodico.com/es/economia/20260616/turismo-masivo-deficit-vivienda-asequible-131462964)<br>
 19:27 [Vídeo | Preocupación en Madrid por un incendio de chatarra que genera humo tóxico: "Apenas podemos respirar ni dentro de los domicilios"](https://www.elperiodico.com/es/sucesos/20260616/video-preocupacion-madrid-incendio-chatarra-131473365)<br>
 19:27 [La Fiscalía retirará la acusación a Raúl Asencio si pide perdón a las víctimas en el juicio](https://www.elperiodico.com/es/deportes/20260616/fiscalia-retirara-acusacion-raul-asencio-131471289)<br>
 19:27 [Los bomberos trabajan para sofocar un incendio de chatarra en Vicálvaro](https://www.elperiodico.com/es/videos/sucesos/bomberos-sofocar-incendio-chatarra-vicalvaro/131473367.shtml)<br>
@@ -94,6 +115,7 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 18:36 [El padre del bebé de seis semanas maltratado en Barcelona pide salir de la cárcel](https://www.elperiodico.com/es/sociedad/20260616/padre-bebe-maltratado-barcelona-pide-salir-prision-131471460)<br>
 18:21 [El Reino Unido investiga posibles disparos de advertencia de una fragata rusa contra un yate en el canal de la Mancha](https://www.elperiodico.com/es/internacional/20260616/buque-guerra-ruso-disparos-advertencia-yate-britanico-canal-mancha-131470988)<br>
 18:02 [Ni Sarrià ni Eixample: el distrito de Barcelona que fue un municipio independiente hasta 1897 y que hora está entre los más codiciados](https://www.elperiodico.com/es/barcelona/20260616/barcelona-gracia-vivir-cataluna-dv-loc-127252404)<br>
+18:00 [Estabilidad y prosperidad en el Mediterráneo](https://www.elperiodico.com/es/opinion/20260616/estabilidad-prosperidad-mediterraneo-foro-prensa-iberica-editorial-131465502)<br>
 17:59 [Philippe Aghion, premio Nobel de Economía, advierte: "La IA destruirá empleos, pero creará otros"](https://www.elperiodico.com/es/economia/20260616/philippe-aghion-nobel-economia-inteligencia-artificial-trabajo-131445707)<br>
 17:45 [Barcelona desencalla la reapertura al público de la modernista Casa Lleó Morera del paseo de Gràcia](https://www.elperiodico.com/es/barcelona/20260616/barcelona-modernismo-casa-lleo-morera-visitas-paseo-gracia-131468650)<br>
 16:54 [Starbucks decreta un cierre parcial en Corea del Sur y lecciones de Historia a sus empleados tras una calamitosa campaña publicitaria](https://www.elperiodico.com/es/internacional/20260616/starbucks-cierre-parcial-lecciones-historia-empleados-corea-sur-campana-publicidad-ia-masacre-131466716)<br>
@@ -148,6 +170,7 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 09:57 [La confesión de Tamara Falcó sobre Íñigo Onieva: "Hizo el Iron Man y después nos pegamos tal festín por Italia..."](https://www.elperiodico.com/es/gente/20260616/confesion-tamara-falco-inigo-onieva-131445143)<br>
 09:51 [Confusión en la gran banca por el expediente de la CNMC sobre las hipotecas a tipo fijo](https://www.elperiodico.com/es/economia/20260616/cnmc-abre-expediente-bancos-ibex-131445063)<br>
 09:49 [Mueren los ocho tripulantes de un bombardero B-52 tras estrellarse en California](https://www.elperiodico.com/es/videos/sociedad/mueren-ocho-tripulantes-bombardero-b52-estrellarse-california-video/131444850.shtml)<br>
+09:41 [Una memoria secreta](https://www.elperiodico.com/es/opinion/20260616/memoria-secreta-131444413)<br>
 09:40 [El Govern matiza a Parlon y afirma que el plan piloto de los Mossos en la escuela sigue en marcha, aunque solo quedan cuatro centros de los 13 iniciales](https://www.elperiodico.com/es/sociedad/20260616/parlon-asegura-plan-piloto-mossos-escuela-via-paralisis-131443814)<br>
 09:26 [Mauricio Bernal publica una novela muy colombiana y muy dandi en torno al billar: "Ganar es una vulgaridad si no se gana bellamente"](https://www.elperiodico.com/es/ocio-y-cultura/20260616/mauricio-bernal-publica-los-idolatras-una-novela-de-billar-131326891)<br>
 09:10 [Estado de los embalses hoy, 16 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos](https://www.elperiodico.com/es/sociedad/20260616/embalses-hoy-16-junio-catalunya-dv-131443572)<br>
