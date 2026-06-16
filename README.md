@@ -1,8 +1,13 @@
-# News for 2026-06-16 22:28
+# News for 2026-06-17 00:28
 
 Previous day: [2026-06-15](./data/2026-06-15.md)
 
 ## ua.korrespondent.net
+23:52 [РФ атакувала Слов’янськ: троє загиблих](https://ua.korrespondent.net/ukraine/4887085-rf-atakuvala-sloviansk-troie-zahyblykh)<br>
+23:20 [Іран негайно відновить експорт нафти після підписання угоди](https://ua.korrespondent.net/world/4887083-iran-nehaino-vidnovyt-eksport-nafty-pislia-pidpysannia-uhody)<br>
+22:55 [РФ завдала п'ять ударів по Запоріжжю: є жертва](https://ua.korrespondent.net/city/zaporozhye/4887079-rf-zavdala-piat-udariv-po-zaporizhzhui-ye-zhertva)<br>
+22:41 [Спить на зустрічах і нервує. Здоров'я Трампа у 80](https://ua.korrespondent.net/world/4887080-spyt-na-zustrichakh-i-nervuie-zdorovia-trampa-u-80)<br>
+22:28 [Розблокування грошей для ЗСУ: Рада проведе термінове засідання](https://ua.korrespondent.net/ukraine/4887074-rozblokuvannia-hroshei-dlia-zsu-rada-provede-terminove-zasidannia)<br>
 21:56 [Історичний крок. ЄС запустив вступ України](https://ua.korrespondent.net/ukraine/4887071-istorychnyi-krok-yes-zapustyv-vstup-ukrainy)<br>
 21:55 [Зеленський анонсував нову зустріч із Трампом](https://ua.korrespondent.net/ukraine/4887069-zelenskyi-anonsuvav-novu-zustrich-iz-trampom)<br>
 21:30 [Лідери G7 домовилися посилити санкції проти енергетики РФ - ЗМІ](https://ua.korrespondent.net/world/4887067-lidery-G7-domovylysia-posylyty-sanktsii-proty-enerhetyky-rf-zmi)<br>
@@ -95,6 +100,11 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 07:03 [La Liga, el último servicio de Montero al Valencia Basket](https://as.com/baloncesto/la-liga-el-ultimo-servicio-de-montero-al-valencia-basket-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:13 [Jacobs se lleva una ovación en el Liceu de la mano de Händel](https://www.elperiodico.com/es/ocio-y-cultura/20260616/jacobs-ovacion-liceu-handel-aci-galatea-polifemo-131478821)<br>
+23:10 [El patrimonio musical del Mare Nostrum brilla con la maestría de Jordi Savall](https://www.elperiodico.com/es/ocio-y-cultura/20260616/patrimonio-musical-mare-nostrum-brilla-131468603)<br>
+23:09 [Buscan en Pontevedra a un hombre que agredió a su expareja y secuestró a su bebé](https://www.elperiodico.com/es/sucesos/20260616/buscan-pontevedra-hombre-agredio-expareja-131479323)<br>
+23:07 [Eduardo Mendoza y Jordi Savall descorchan el III Foro del Mediterráneo con un diálogo sobre la cultura que nos une, de Ulises a Vivaldi](https://www.elperiodico.com/es/ocio-y-cultura/20260616/eduardo-mendoza-jordi-savall-descorchan-131479130)<br>
+22:48 [La portada de EL PERIÓDICO del 17 de junio de 2026](https://www.elperiodico.com/es/sociedad/20260616/portada-periodico-17-junio-2026-131478873)<br>
 22:25 [El Foro Económico y Social del Mediterráneo amarra en Barcelona inspirado por "la creatividad y la apertura" de Miró](https://www.elperiodico.com/es/ocio-y-cultura/20260616/inauguracion-tercer-foro-economico-social-mediterraneo-barcelona-131459416)<br>
 21:35 [La modernización militar de Marruecos con drones israelíes redefine el conflicto saharaui](https://www.elperiodico.com/es/internacional/20260616/modernizacion-militar-marruecos-drones-israelies-131476618)<br>
 21:24 [La Guardia Civil encuentra la Cruz del Aneto dos meses después de ser vandalizada](https://www.elperiodico.com/es/sociedad/20260616/guardia-civil-encuentra-cruz-aneto-131476260)<br>
