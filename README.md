@@ -1,8 +1,33 @@
-# News for 2026-06-16 09:12
+# News for 2026-06-16 14:25
 
 Previous day: [2026-06-15](./data/2026-06-15.md)
 
 ## ua.korrespondent.net
+14:14 [У полоні РФ закатували "азовця" й захисника Маріуполя - ЗМІ](https://ua.korrespondent.net/ukraine/4886969-u-poloni-rf-zakatuvaly-azovtsia-y-zakhysnyka-mariupolia-zmi)<br>
+13:55 [РФ заявила про створення комплексу для глушіння Starlink, однак є нюанс](https://ua.korrespondent.net/world/russia/4886960-rf-zaiavyla-pro-stvorennia-kompleksu-dlia-hlushinnia-Starlink-odnak-ye-nuians)<br>
+13:51 [Кораблі Ірану почали проходити через зону морської блокади США](https://ua.korrespondent.net/world/4886959-korabli-iranu-pochaly-prokhodyty-cherez-zonu-morskoi-blokady-ssha)<br>
+13:48 [В Ізраїлі знайшли 1700-річні грецькі мармурові бюсти](https://ua.korrespondent.net/tech/science/4886957-v-izraili-znaishly-1700-richni-hretski-marmurovi-buisty)<br>
+13:30 [Статки 500 найбагатших людей світу за день виросли на рекордні $336 млрд](https://ua.korrespondent.net/business/financial/4886951-statky-500-naibahatshykh-luidei-svitu-za-den-vyrosly-na-rekordni-336-mlrd)<br>
+13:25 [Росія повинна погодитися на угоду - Трамп](https://ua.korrespondent.net/world/4886948-rosiia-povynna-pohodytysia-na-uhodu-tramp)<br>
+13:11 [Сирський з естонським колегою відвідали фронт](https://ua.korrespondent.net/ukraine/4886945-syrskyi-z-estonskym-kolehoui-vidvidaly-front)<br>
+13:05 [Відома українська ведуча схудла на 15 кілограмів](https://ua.korrespondent.net/lifestyle/4886942-vidoma-ukrainska-veducha-skhudla-na-15-kilohramiv)<br>
+13:00 [Зеленський зустрівся з Трампом на саміті G7](https://ua.korrespondent.net/ukraine/4886940-zelenskyi-zustrivsia-z-trampom-na-samiti-G7)<br>
+12:57 [З російського полону повернули більш як половину бійців Нацгвардії](https://ua.korrespondent.net/ukraine/4886937-z-rosiiskoho-polonu-povernuly-bilsh-yak-polovynu-biitsiv-natshvardii)<br>
+12:48 [У Харкові хлопчик випав з вікна і загинув: підозрюють посадовицю соцслужб](https://ua.korrespondent.net/city/kharkov/4886935-u-kharkovi-khlopchyk-vypav-z-vikna-i-zahynuv-pidozruiuit-posadovytsui-sotssluzhb)<br>
+12:29 [Долар дорожчає в обмінниках, євро дешевшає](https://ua.korrespondent.net/business/financial/4886929-dolar-dorozhchaie-v-obminnykakh-yevro-deshevshaie)<br>
+12:18 [Зеленський озвучив головні завдання України на G7](https://ua.korrespondent.net/ukraine/4886924-zelenskyi-ozvuchyv-holovni-zavdannia-ukrainy-na-G7)<br>
+12:15 [Одна з найбільших мереж АЗС обмежила продаж бензину по всій Росії](https://ua.korrespondent.net/world/russia/4886923-odna-z-naibilshykh-merezh-azs-obmezhyla-prodazh-benzynu-po-vsii-rosii)<br>
+11:50 [ДБР розслідує смерть чоловіка після перебування у ТЦК на Закарпатті](https://ua.korrespondent.net/ukraine/4886917-dbr-rozsliduie-smert-cholovika-pislia-perebuvannia-u-ttsk-na-zakarpatti)<br>
+11:41 [В Україні зацвіло рідкісне тюльпанове дерево](https://ua.korrespondent.net/ukraine/4886913-v-ukraini-zatsvilo-ridkisne-tuilpanove-derevo)<br>
+11:34 [У Дружківці затримали агента ФСБ](https://ua.korrespondent.net/ukraine/4886905-u-druzhkivtsi-zatrymaly-ahenta-fsb)<br>
+11:31 [ЄСПЛ: припинено нагляд ще у 12 справах щодо правоохоронців](https://ua.korrespondent.net/world/4886904-yespl-prypyneno-nahliad-sche-u-12-spravakh-schodo-pravookhorontsiv)<br>
+11:25 [Удари РФ по українській культурі: уряд посилює створення фондосховищ](https://ua.korrespondent.net/ukraine/4886902-udary-rf-po-ukrainskii-kulturi-uriad-posyluiie-stvorennia-fondoskhovysch)<br>
+10:29 [Генштаб розповів про наслідки атаки на Москву](https://ua.korrespondent.net/ukraine/4886879-henshtab-rozpoviv-pro-naslidky-ataky-na-moskvu)<br>
+10:28 [Удар в саме "сердце". Пожежа на НПЗ в Москві](https://ua.korrespondent.net/world/russia/4886874-udar-v-same-serdtse-pozhezha-na-npz-v-moskvi)<br>
+10:00 [Укренерго повідомило, в яких регіонах відключення](https://ua.korrespondent.net/ukraine/4886867-ukrenerho-povidomylo-v-yakykh-rehionakh-vidkluichennia)<br>
+09:57 [У Стокгольмі відкрили Центр єдності українців](https://ua.korrespondent.net/ukraine/4886865-u-stokholmi-vidkryly-tsentr-yednosti-ukraintsiv)<br>
+09:41 [Зеленський підтвердив ураження Московського НПЗ](https://ua.korrespondent.net/ukraine/4886862-zelenskyi-pidtverdyv-urazhennia-moskovskoho-npz)<br>
+09:36 [РФ вигадала нову стратегію "завоювання" Африки - розвідка](https://ua.korrespondent.net/world/russia/4886860-rf-vyhadala-novu-stratehiui-zavouivannia-afryky-rozvidka)<br>
 09:04 [РФ обстріляла Дніпропетровщину артилерією і БпЛА](https://ua.korrespondent.net/ukraine/4886854-rf-obstriliala-dnipropetrovschynu-artyleriieui-i-bpla)<br>
 08:42 [РФ дронами атакувала медиків і комунальників у Херсоні](https://ua.korrespondent.net/ukraine/4886851-rf-dronamy-atakuvala-medykiv-i-komunalnykiv-u-khersoni)<br>
 08:22 [РФ била Іскандерами і дронами: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4886847-rf-byla-iskanderamy-i-dronamy-yak-spratsuivala-ppo)<br>
@@ -22,7 +47,46 @@ Previous day: [2026-06-15](./data/2026-06-15.md)
 00:59 [Нетаньягу: З угодою чи без, Іран не матиме ядерної зброї](https://ua.korrespondent.net/world/4886812-netaniahu-z-uhodoui-chy-bez-iran-ne-matyme-yadernoi-zbroi)<br>
 00:39 [Вступ у ЄС: уряд назвав строки виконання критеріїв](https://ua.korrespondent.net/ukraine/4886810-vstup-u-yes-uriad-nazvav-stroky-vykonannia-kryteriiv)<br>
 
+## as.com
+13:38 [Granada celebra el talento de Cayetano García y Elena Luna, premios AS del mes de abril](https://as.com/baloncesto/mas_baloncesto/granada-celebra-el-talento-de-cayetano-garcia-y-elena-luna-premios-as-del-mes-de-abril-f202606-n/)<br>
+11:27 [Dario Saric, al Efes de Laso](https://as.com/baloncesto/euroliga/dario-saric-al-efes-de-laso-f202606-n/)<br>
+
 ## www.elperiodico.com
+14:23 ["Su generación no es como la nuestra, son unos memos": Una patronal dividida señala a los jóvenes como responsables del aumento de las bajas](https://www.elperiodico.com/es/economia/20260616/baja-laboral-patronal-ceoe-senala-jovenes-son-unos-memos-131454017)<br>
+14:21 [Junts emienda los presupuestos de Illa: menos impuestos, el catalán como requisito migratorio y un MIR para profesores](https://www.elperiodico.com/es/politica/20260616/junts-emienda-presupuestos-illa-impuestos-131449754)<br>
+14:18 [Jaume Sabater, fundador del fondo de inversión Stoneweg, compra la Sala Parés, la galería de arte más antigua de Europa](https://www.elperiodico.com/es/ocio-y-cultura/20260616/jaume-sabater-fundador-fondo-inversion-131459417)<br>
+14:16 [El colegio de las Teresianas de Barcelona aún no ha solicitado permiso para el anunciado museo de Gaudí](https://www.elperiodico.com/es/barcelona/20260616/barcelona-colegio-teresianas-museo-gaudi-ganduxer-131458817)<br>
+14:10 [El CZFB y el Ajuntament de Sant Feliu de Llobregat firman un protocolo para municipalizar el Centre de Serveis El Pla](https://www.elperiodico.com/es/consorci-zona-franca/20260616/czfb-ajuntament-sant-feliu-protocolo-municipalizar-centre-serveis-el-pla-bc-131426747)<br>
+14:04 [Miles de jubilados pueden reclamar hasta 1.800 euros a la Seguridad Social por el complemento de maternidad](https://www.elperiodico.com/es/economia/20260616/jubilados-1800-euros-seguridad-social-complemento-maternidad-dv-131458074)<br>
+14:03 [Vídeo: dos grandes serpientes sorprenden a un vecino de Santa Eulária](https://www.elperiodico.com/es/videos/sucesos/video-grandes-serpientes-ibiza/131458844.shtml)<br>
+14:02 [El Govern incrementa la inversión en las 'fábricas de agua' del área de Barcelona: 76 millones irán a la potabilizadora del Ter](https://www.elperiodico.com/es/barcelona/20260616/govern-incrementa-inversion-fabricas-agua-area-barcelona-76-millones-euros-potabilizadora-ter-131454571)<br>
+13:56 [Ocho de cada diez españoles se sienten más guapos que nunca: es la cifra más alta desde 2022](https://www.elperiodico.com/es/salud/20260616/ocho-diez-espanoles-sienten-mas-guapos-que-nunca-131458572)<br>
+13:46 [El centro Kbr de Barcelona acoge la mayor retrospectiva en Europa sobre Minor White, poeta de la fotografía](https://www.elperiodico.com/es/ocio-y-cultura/20260616/centro-kbr-barcelona-acoge-mayor-europa-minor-white-fotografia-131457163)<br>
+13:30 [El PSOE acredita ante el juez que no pagó las facturas pendientes al abogado de Cerdán tras su marcha del partido](https://www.elperiodico.com/es/politica/20260616/psoe-acredita-juez-pago-facturas-131456735)<br>
+13:22 [La Aemet anuncia la primera ola de calor del verano para la próxima semana: "No se descarta que las temperaturas superen los 40 grados"](https://www.elperiodico.com/es/tiempo/20260616/aemet-anuncia-primera-ola-calor-proxima-semana-temperaturas-40-grados-dv-131454690)<br>
+13:19 [Nuevas franjas forestales protegerán de incendios urbanizaciones de tres ciudades del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260616/franjas-forestales-protegeran-incendios-urbanizaciones-131454043)<br>
+13:19 [La visita del Papa ha costado 26 millones de euros pero tendrá un impacto superior a los 150 millones](https://www.elperiodico.com/es/sociedad/20260616/iglesia-valoracion-visita-papa-pederastia-coste-131446077)<br>
+13:16 [El Congreso logra un primer acuerdo para regular su relación con los lobbies](https://www.elperiodico.com/es/politica/20260616/congreso-acuerdo-regular-lobbies-diputados-131455817)<br>
+12:54 [Barcelona superará los 500 refugios climáticos este verano con la incorporación de comercios y locales privados](https://www.elperiodico.com/es/barcelona/20260616/barcelona-suma-centenar-refugios-climaticos-131450548)<br>
+12:45 [Zelensky llama a Rusia a retomar las negociaciones "en coordinación con Estados Unidos"](https://www.elperiodico.com/es/internacional/20260616/trump-rusia-acuerdo-ucrania-g7-131453864)<br>
+12:37 [Los Comuns proponen tipificar como grandes tenedores quienes tengan cinco propiedades en toda Catalunya](https://www.elperiodico.com/es/politica/20260616/comuns-proponen-tipificar-grandes-tenedores-cinco-propiedades-catalunya-131450880)<br>
+12:31 [Las 700 plazas para juez y fiscal exigen simplemente tener el título de Derecho: no se pide experiencia previa ni años de ejercicio](https://www.elperiodico.com/es/economia/20260616/gobierno-700-plazas-juez-fiscal-requisitos-fechas-dv-131452057)<br>
+12:30 [El Parlament colocará de forma permanente la bandera de España y la 'senyera' en su fachada tras la resolución del TSJC](https://www.elperiodico.com/es/politica/20260616/bandera-espana-senyera-parlament-ondear-permanente-impulso-ciudadano-131451516)<br>
+12:30 [Matthew Tree, escritor: "Mentalmente había matado a mi padre muchas veces"](https://www.elperiodico.com/es/ocio-y-cultura/20260616/matthew-tree-escritor-mentalmente-habia-131447088)<br>
+12:22 [Viajar por Europa solo con la tarjeta sanitaria europea puede costarte 60.000 euros](https://www.elperiodico.com/es/vida-y-estilo/20260616/viajar-europa-tarjeta-sanitaria-europea-bc-131452594)<br>
+12:14 [Rueda de prensa posterior al Consejo de Ministros](https://www.elperiodico.com/es/videos/politica/rueda-prensa-posterior-consejo-ministros/131451876.shtml)<br>
+11:53 ["El odio seguro que no te baja el alquiler": UGT lanza una campaña en las empresas contra la extrema derecha](https://www.elperiodico.com/es/economia/20260616/ugt-campana-contra-extrema-derecha-empresas-131450635)<br>
+11:43 [Catalunya subirá a 30 euros la tasa turística de los pasajeros de los cruceros](https://www.elperiodico.com/es/politica/20260616/catalunya-tasa-turistica-cruceros-24-euros-parlament-presupuestos-131448834)<br>
+11:16 [Más de cuatro millones de niños españoles están expuestos a grandes amenazas climáticas como el calor extremo, las sequías y la contaminación](https://www.elperiodico.com/es/sociedad/20260616/cuatro-millones-ninos-espanoles-amenazas-climaticas-informe-unicef-131445893)<br>
+10:59 [La increíble historia de Beate y Serge Klarsfeld, los 'cazadores de nazis'](https://www.elperiodico.com/es/ocio-y-cultura/20260616/increible-historia-beate-serge-klarsfeld-131447086)<br>
+10:37 [El juez Calama rechaza aplazar el interrogatorio a Zapatero sobre sus joyas](https://www.elperiodico.com/es/politica/20260616/calama-obliga-zapatero-aclarar-origen-131446958)<br>
+10:22 [El Gobierno aprueba la inversión de 719 millones de euros para impulsar la gigafactoría europea de IA en Tarragona](https://www.elperiodico.com/es/tecnologia/20260616/gobierno-espana-aprueba-sociedad-impulsar-gigafactoria-inteligencia-artificial-tarragona-candidatura-centro-datos-comision-europea-ia-131445996)<br>
+10:18 [La acusación popular ratifica su petición al juez Peinado de retirar el pasaporte a Begoña Gómez](https://www.elperiodico.com/es/videos/politica/acusacion-popular-ratifica-peticion-juez/131445655.shtml)<br>
+09:57 [La confesión de Tamara Falcó sobre Íñigo Onieva: "Hizo el Iron Man y después nos pegamos tal festín por Italia..."](https://www.elperiodico.com/es/gente/20260616/confesion-tamara-falco-inigo-onieva-131445143)<br>
+09:51 [Confusión en la gran banca por el expediente de la CNMC sobre las hipotecas a tipo fijo](https://www.elperiodico.com/es/economia/20260616/cnmc-abre-expediente-bancos-ibex-131445063)<br>
+09:49 [Mueren los ocho tripulantes de un bombardero B-52 tras estrellarse en California](https://www.elperiodico.com/es/videos/sociedad/mueren-ocho-tripulantes-bombardero-b52-estrellarse-california-video/131444850.shtml)<br>
+09:40 [El Govern matiza a Parlon y afirma que el plan piloto de los Mossos en la escuela sigue en marcha, aunque solo quedan cuatro centros de los 13 iniciales](https://www.elperiodico.com/es/sociedad/20260616/parlon-asegura-plan-piloto-mossos-escuela-via-paralisis-131443814)<br>
+09:26 [Mauricio Bernal publica una novela muy colombiana y muy dandi en torno al billar: "Ganar es una vulgaridad si no se gana bellamente"](https://www.elperiodico.com/es/ocio-y-cultura/20260616/mauricio-bernal-publica-los-idolatras-una-novela-de-billar-131326891)<br>
 09:10 [Estado de los embalses hoy, 16 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos](https://www.elperiodico.com/es/sociedad/20260616/embalses-hoy-16-junio-catalunya-dv-131443572)<br>
 09:04 [Las mascotas y las personas sensibles a los petardos de Sant Joan están de enhorabuena: llega un kit mucho más silencioso](https://www.elperiodico.com/es/vida-y-estilo/20260616/sant-joan-personas-sensibles-petardos-mascotas-dv-131321459)<br>
 08:57 [Un ataque con drones de Ucrania contra Rusia causa un incendio en una refinería en Moscú](https://www.elperiodico.com/es/internacional/20260616/ataque-drones-ucrania-rusia-refineria-moscu-131443455)<br>
