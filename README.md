@@ -1,8 +1,15 @@
-# News for 2026-06-17 20:33
+# News for 2026-06-17 22:39
 
 Previous day: [2026-06-16](./data/2026-06-16.md)
 
 ## ua.korrespondent.net
+22:36 [Трамп заявив про успіхи України у війні з РФ](https://ua.korrespondent.net/world/worldabus/4887370-tramp-zaiavyv-pro-uspikhy-ukrainy-u-viini-z-rf)<br>
+21:54 [Генштаб оновив дані щодо боїв на фронті](https://ua.korrespondent.net/ukraine/4887362-henshtab-onovyv-dani-schodo-boiv-na-fronti)<br>
+21:30 [У США оприлюднили текст меморандуму з Іраном](https://ua.korrespondent.net/world/4887356-u-ssha-opryluidnyly-tekst-memorandumu-z-iranom)<br>
+21:26 [Трамп передумав. Нові ідеї для України і Росії.](https://ua.korrespondent.net/ukraine/4887358-tramp-peredumav-novi-idei-dlia-ukrainy-i-rosii)<br>
+21:07 [Трамп зробив заяву про зустріч Зеленського і Путіна](https://ua.korrespondent.net/ukraine/politics/4887352-tramp-zrobyv-zaiavu-pro-zustrich-zelenskoho-i-putina)<br>
+20:48 [Росіяни обстріляли Комишуваху, є поранений](https://ua.korrespondent.net/ukraine/4887349-rosiiany-obstrilialy-komyshuvakhu-ye-poranenyi)<br>
+20:38 [Microsoft представила нове покоління планшетів та ноутбуків Surface](https://ua.korrespondent.net/lifestyle/gadgets/4887345-Microsoft-predstavyla-nove-pokolinnia-planshetiv-ta-noutbukiv-Surface)<br>
 20:26 [Зеленський зустрівся з Моді](https://ua.korrespondent.net/ukraine/4887343-zelenskyi-zustrivsia-z-modi)<br>
 19:58 [Трамп планує вивести на світовий ринок нафту з Лівії](https://ua.korrespondent.net/world/4887337-tramp-planuie-vyvesty-na-svitovyi-rynok-naftu-z-livii)<br>
 19:44 [Мелоні на саміті ЄС висуне кандидата на перемовини РФ та України](https://ua.korrespondent.net/world/4887338-meloni-na-samiti-yes-vysune-kandydata-na-peremovyny-rf-ta-ukrainy)<br>
@@ -89,12 +96,25 @@ Previous day: [2026-06-16](./data/2026-06-16.md)
 00:21 [Федоров спрогнозував терміни переваги ЗСУ на фронті](https://ua.korrespondent.net/ukraine/4887091-fedorov-sprohnozuvav-terminy-perevahy-zsu-na-fronti)<br>
 
 ## as.com
+21:52 [El Barça acepta el regalo blanco](https://as.com/opinion/el-barca-acepta-el-regalo-blanco-f202606-n/)<br>
+20:33 [“El factor cancha es relativo”](https://as.com/baloncesto/acb/el-factor-cancha-es-relativo-f202606-n/)<br>
+13:41 [Félix Fernández: “Contamos con Galbiati, lo demás es ruido”](https://as.com/baloncesto/felix-fernandez-contamos-con-galbiati-no-hay-debate-f202606-n/)<br>
 10:40 [El Mamba Basket España: el torneo en el que la edad no es un obstáculo](https://as.com/baloncesto/mas_baloncesto/el-mamba-basket-espana-el-torneo-en-el-que-la-edad-no-es-un-obstaculo-f202606-n/)<br>
 07:11 [El Madrid no da con la tecla en el mercado](https://as.com/baloncesto/acb/el-madrid-no-da-con-la-tecla-en-el-mercado-f202606-n/)<br>
 07:09 [Rodríguez: “¿NCAA? Ese dinero te puede solucionar la vida en dos o tres años”](https://as.com/baloncesto/nba/rodriguez-ncaa-ese-dinero-te-puede-solucionar-la-vida-en-dos-o-tres-anos-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:26 [Hallan el cadáver de un anciano en la zona del incendio forestal de Granada](https://www.elperiodico.com/es/sociedad/20260617/hallan-cadaver-anciano-zona-incendio-131529078)<br>
+21:50 [Qué hacer esta semana en Barcelona: estos son los mejores planes](https://www.elperiodico.com/es/que-hacer/planes/20260617/hoy-barcelona-agenda-actividades-planes-semana-102304377)<br>
+21:25 [La Región de Murcia se reivindica en Barcelona como potencia industrial del Mediterráneo](https://www.elperiodico.com/es/politica/20260617/region-murcia-reivindica-barcelona-potencia-131528377)<br>
+21:00 [Mediterráneo: las dos orillas](https://www.elperiodico.com/es/opinion/20260617/mediterraneo-orillas-foro-articulo-joan-tapia-131526676)<br>
+21:00 [El acuerdo de paz en Oriente Medio recoge la mayoría de las exigencias (y pocas concesiones) de Irán](https://www.elperiodico.com/es/internacional/20260617/acuerdo-paz-eeuu-iran-recoge-exigencias-iran-no-concesiones-131527739)<br>
+20:53 [Paloma Taltavull (UA): "La regeneración debe adaptarse a cada tejido"](https://www.elperiodico.com/es/videos/economia/paloma-taltavull-ua-regeneracion-debe/131527425.shtml)<br>
+20:49 [Juan María Vázquez (Consejero de Medio Ambiente de Murcia): "Si queremos ser líderes, tu sociedad te tiene que reconocer como tal"](https://www.elperiodico.com/es/videos/economia/juan-maria-vazquez-consejero-medio-video/131527346.shtml)<br>
+20:49 [Rebeca Pérez, alcaldesa de Murcia: "Estamos apostando por la tecnología con rostro humano"](https://www.elperiodico.com/es/videos/economia/rebeca-perez-alcaldesa-murcia-apostando-tecnologia-rostro-humano/131527298.shtml)<br>
+20:44 [Gortázar (CaixaBank): "No se dan sinergias para crear valor con fusiones transfronterizas en la UE"](https://www.elperiodico.com/es/videos/economia/gortazar-caixabank-dan-sinergias-crear/131526944.shtml)<br>
 20:31 [Pedro Pablo Hernández (Puerto de Cartagena): "Cartagena es uno de los principales polos industriales del sur de Europa"](https://www.elperiodico.com/es/videos/economia/pedro-pablo-hernandez-puerto-cartagena-video/131526466.shtml)<br>
+20:24 [Un incendio en la Segarra (Lleida) obliga a confinar cuatro poblaciones y da el primer susto de la temporada](https://www.elperiodico.com/es/sociedad/20260617/confinadas-poblaciones-segarra-lleida-incendio-palleros-ribera-ondara-talavera-campos-cereales-131525766)<br>
 20:23 [Pere Navarro, presidente ejecutivo del Consorci de la Zona Franca: "Queremos convertir una zona industrial en un distrito de innovación"](https://www.elperiodico.com/es/videos/economia/pere-navarro-presidente-ejecutivo-consorci/131526120.shtml)<br>
 20:18 [Pere Navarro (CZFB): "Los polígonos ya no molestan, ahora crean innovación"](https://www.elperiodico.com/es/economia/20260617/navarro-czfb-pere-navarro-zona-franca-barelona-131525984)<br>
 20:17 [El Mediterráneo busca su gran pacto de futuro](https://www.elperiodico.com/es/economia/20260617/mediterraneo-busca-gran-pacto-futuro-131525961)<br>
