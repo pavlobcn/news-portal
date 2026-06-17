@@ -1,8 +1,21 @@
-# News for 2026-06-17 04:11
+# News for 2026-06-17 09:28
 
 Previous day: [2026-06-16](./data/2026-06-16.md)
 
 ## ua.korrespondent.net
+09:08 [Аналітики оцінили запас ракет Орєшнік у Росії](https://ua.korrespondent.net/world/russia/4887140-analityky-otsinyly-zapas-raket-orieshnik-u-rosii)<br>
+08:47 [Загинули коні: армія РФ атакувала кінно-спортивну школу на Сумщині](https://ua.korrespondent.net/ukraine/4887137-zahynuly-koni-armiia-rf-atakuvala-kinno-sportyvnu-shkolu-na-sumschyni)<br>
+08:26 [По Харківщині РФ била різним озброєнням, 11 постраждалих](https://ua.korrespondent.net/city/kharkov/4887134-po-kharkivschyni-rf-byla-riznym-ozbroienniam-11-postrazhdalykh)<br>
+08:05 [Атака РФ: ППО знешкодила 97 зі 119 ворожих дронів](https://ua.korrespondent.net/ukraine/4887129-ataka-rf-ppo-zneshkodyla-97-zi-119-vorozhykh-droniv)<br>
+07:44 [На Сумщині Росія понівечила будинки, є постраждалі](https://ua.korrespondent.net/ukraine/4887127-na-sumschyni-rosiia-ponivechyla-budynky-ye-postrazhdali)<br>
+07:21 [Генштаб оновив карту бойових дій на фронті](https://ua.korrespondent.net/ukraine/4887124-henshtab-onovyv-kartu-boiovykh-dii-na-fronti)<br>
+07:02 [Понад 40 атак РФ: на Дніпропетровщині троє загиблих](https://ua.korrespondent.net/ukraine/4887119-ponad-40-atak-rf-na-dnipropetrovschyni-troie-zahyblykh)<br>
+06:38 [Удар РФ по Запоріжжю: є поранені і низка руйнувань](https://ua.korrespondent.net/city/zaporozhye/4887115-udar-rf-po-zaporizhzhui-ye-poraneni-i-nyzka-ruinuvan)<br>
+06:17 [Генштаб оприлюднив втрати РФ станом на 17 червня](https://ua.korrespondent.net/ukraine/4887114-henshtab-opryluidnyv-vtraty-rf-stanom-na-17-chervnia)<br>
+05:58 [Підсумки 16.06: Зброя від G7 і Трамп наш](https://ua.korrespondent.net/ukraine/4887035-pidsumky-1606-zbroia-vid-G7-i-tramp-nash)<br>
+05:27 [Мелоні розповіла колегам, що кинула курити](https://ua.korrespondent.net/world/4887111-meloni-rozpovila-koleham-scho-kynula-kuryty)<br>
+04:58 [ППО та далекобійна зброя: G7 готує допомогу Києву](https://ua.korrespondent.net/world/4887109-ppo-ta-dalekobiina-zbroia-G7-hotuie-dopomohu-kyievu)<br>
+04:25 [В Україні створили ракету для запуску з аеростатів](https://ua.korrespondent.net/ukraine/4887107-v-ukraini-stvoryly-raketu-dlia-zapusku-z-aerostativ)<br>
 03:55 [Канада і Росія обмінялися санкціями](https://ua.korrespondent.net/world/4887105-kanada-i-rosiia-obminialysia-sanktsiiamy)<br>
 03:26 [Федоров: Українська балістика буде, і змінить усе](https://ua.korrespondent.net/ukraine/4887103-fedorov-ukrainska-balistyka-bude-i-zminyt-use)<br>
 02:57 [Сенат США провалив спробу обмежити повноваження Трампа щодо Ірану](https://ua.korrespondent.net/world/4887101-senat-ssha-provalyv-sprobu-obmezhyty-povnovazhennia-trampa-schodo-iranu)<br>
@@ -11,3 +24,24 @@ Previous day: [2026-06-16](./data/2026-06-16.md)
 01:27 [Трамп готовий тиснути на РФ, але є умова - ЗМІ](https://ua.korrespondent.net/world/4887095-tramp-hotovyi-tysnuty-na-rf-ale-ye-umova-zmi)<br>
 00:49 ["Флеш" розповів про новий БПЛА у росіян](https://ua.korrespondent.net/ukraine/4887093-flesh-rozpoviv-pro-novyi-bpla-u-rosiian)<br>
 00:21 [Федоров спрогнозував терміни переваги ЗСУ на фронті](https://ua.korrespondent.net/ukraine/4887091-fedorov-sprohnozuvav-terminy-perevahy-zsu-na-fronti)<br>
+
+## as.com
+07:11 [El Madrid no da con la tecla en el mercado](https://as.com/baloncesto/acb/el-madrid-no-da-con-la-tecla-en-el-mercado-f202606-n/)<br>
+
+## www.elperiodico.com
+09:21 ['Toy Story 5' y 'Viva', la película española premiada en Cannes, llegan a los cines](https://www.elperiodico.com/es/ocio-y-cultura/20260617/toy-story-5-viva-pelicula-131487042)<br>
+09:01 [La ciencia estudia si los nuevos medicamentos para perder peso de la familia Ozempic podrían reducir el riesgo de adicciones y conductas violentas](https://www.elperiodico.com/es/sociedad/20260617/medicamentos-obesidad-ozempic-reduccion-riesgo-conductas-violentas-adicciones-131459128)<br>
+09:00 [La 'startup' de ciberseguridad NeuralTrust cierra una primera ronda de inversión de 17 millones de euros](https://www.elperiodico.com/es/economia/20260617/startup-ciberseguridad-neuraltrust-cierra-primera-131449569)<br>
+08:58 [La brecha social de Bravo Murillo, la calle de Madrid donde la esperanza de vida es distinta a cada lado: "Cuatro kilómetros que separan dos mundos"](https://www.elperiodico.com/es/sociedad/20260617/brecha-social-bravo-murillo-madrid-esperanza-vida-131486547)<br>
+08:57 [Estado de los embalses hoy, 17 de junio en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos](https://www.elperiodico.com/es/sociedad/20260617/embalses-hoy-17-junio-catalunya-dv-131486341)<br>
+08:45 [MAPA | Todos los municipios recomendados para ver el eclipse solar](https://www.elperiodico.com/es/ciencia/20260617/municipios-eclipse-solar-12-agosto-cataluna-dv-loc-131229667)<br>
+08:40 [Guerra Ucrania - Rusia, en directo, última hora | El G7 anuncia el refuerzo de sus sanciones al petróleo y gas ruso](https://www.elperiodico.com/es/internacional/20260617/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+08:32 [El joven que mató al logopeda de su hijo irrumpió en la consulta tras escuchar los gritos del niño](https://www.elperiodico.com/es/sucesos/20260617/joven-mato-logopeda-valencia-abusos-hijo-irrumpio-consulta-escuchar-gritos-nino-131485900)<br>
+08:25 [Guerra en Oriente Medio, en directo | Irán denuncia 84 violaciones de la tregua en el Líbano en 48 horas y amenaza con responder](https://www.elperiodico.com/es/internacional/20260617/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+08:21 [Irán denuncia 84 violaciones de la tregua en el Líbano en 48 horas y amenaza con responder](https://www.elperiodico.com/es/internacional/20260617/iran-denuncia-84-violaciones-tregua-israel-libano-131485706)<br>
+08:05 [Confirmado por el BOE: Hacienda te vigila si ingresas o sacas dinero del cajero de esta manera](https://www.elperiodico.com/es/economia/20260617/dinero-efectivo-que-se-puede-llevar-sanciones-hacienda-dv-131270601)<br>
+08:00 [Foro Mediterráneo, en directo | Javier Moll: "El Mediterráneo ha sido históricamente un escenario de cambios y progreso"](https://www.elperiodico.com/es/economia/20260617/foro-mediterraneo-directo-lideres-debate-131485328)<br>
+07:30 [Marco Bermúdez, CEO con 14 años: "No es que haya dejado de hacer las cosas que hace un chaval de mi edad, pero emprendiendo me lo paso bien"](https://www.elperiodico.com/es/economia/20260617/marco-bermudez-emprendedor-14-anos-creatividad-dv-131256297)<br>
+06:01 [Antoni Milian, impulsor de la ley contra el sinhogarismo: "Con una inyección de 100 millones al año, nadie viviría en la calle en Catalunya"](https://www.elperiodico.com/es/sociedad/20260617/antoni-milian-impulsor-ley-sin-techo-cataluna-millones-calle-131318523)<br>
+06:01 [Los veranos catalanes se calientan a velocidad récord: la temperatura media de la estación ha subido casi medio grado por década](https://www.elperiodico.com/es/sociedad/20260617/veranos-catalanes-calor-velocidad-record-analisis-meteocat-131463147)<br>
+04:50 [La revolución de las pastillas para perder peso enciende las alarmas médicas: "No son una solución de por vida"](https://www.elperiodico.com/es/salud/20260617/revolucion-pastillas-perder-peso-enciende-alarmas-medicas-peligros-131483129)<br>
