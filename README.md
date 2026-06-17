@@ -1,8 +1,18 @@
-# News for 2026-06-17 18:02
+# News for 2026-06-17 20:33
 
 Previous day: [2026-06-16](./data/2026-06-16.md)
 
 ## ua.korrespondent.net
+20:26 [Зеленський зустрівся з Моді](https://ua.korrespondent.net/ukraine/4887343-zelenskyi-zustrivsia-z-modi)<br>
+19:58 [Трамп планує вивести на світовий ринок нафту з Лівії](https://ua.korrespondent.net/world/4887337-tramp-planuie-vyvesty-na-svitovyi-rynok-naftu-z-livii)<br>
+19:44 [Мелоні на саміті ЄС висуне кандидата на перемовини РФ та України](https://ua.korrespondent.net/world/4887338-meloni-na-samiti-yes-vysune-kandydata-na-peremovyny-rf-ta-ukrainy)<br>
+19:19 [Південна Корея на кордоні із КНДР скоротить буферну зону безпеки](https://ua.korrespondent.net/world/4887327-pivdenna-koreia-na-kordoni-iz-kndr-skorotyt-bufernu-zonu-bezpeky)<br>
+19:17 [Виробництво ракет Україною: США розглянуть запит](https://ua.korrespondent.net/world/4887324-vyrobnytstvo-raket-ukrainoui-ssha-rozghlianut-zapyt)<br>
+18:46 [Нідерланди виділять €500 млн допомоги Україні](https://ua.korrespondent.net/world/4887321-niderlandy-vydiliat-500-mln-dopomohy-ukraini)<br>
+18:38 [Кабмін запускає довгострокові контракти на ринку електроенергії](https://ua.korrespondent.net/business/economics/4887317-kabmin-zapuskaie-dovhostrokovi-kontrakty-na-rynku-elektroenerhii)<br>
+18:21 [Болгарія пояснила, чому виступила проти санкцій ЄС щодо глави РПЦ Кирила](https://ua.korrespondent.net/world/4887311-bolhariia-poiasnyla-chomu-vystupyla-proty-sanktsii-yes-schodo-hlavy-rpts-kyryla)<br>
+18:00 [Зеленський провів важливу зустріч з лідером Бразилії](https://ua.korrespondent.net/ukraine/4887307-zelenskyi-proviv-vazhlyvu-zustrich-z-liderom-brazylii)<br>
+17:59 [Британія наклала рекордний штраф за порушення санкцій проти РФ](https://ua.korrespondent.net/world/4887310-brytaniia-naklala-rekordnyi-shtraf-za-porushennia-sanktsii-proty-rf)<br>
 17:55 [Обстріл Києво-Печерської лаври: Папа Римський зробив заяву](https://ua.korrespondent.net/world/4887306-obstril-kyievo-pecherskoi-lavry-papa-rymskyi-zrobyv-zaiavu)<br>
 17:42 [Крим перетвориться на острів - Міноборони](https://ua.korrespondent.net/ukraine/4887303-krym-peretvorytsia-na-ostriv-minoborony)<br>
 17:40 [Саміт G7. Важливі результати для України](https://ua.korrespondent.net/ukraine/4887291-samit-G7-vazhlyvi-rezultaty-dlia-ukrainy)<br>
@@ -84,6 +94,23 @@ Previous day: [2026-06-16](./data/2026-06-16.md)
 07:09 [Rodríguez: “¿NCAA? Ese dinero te puede solucionar la vida en dos o tres años”](https://as.com/baloncesto/nba/rodriguez-ncaa-ese-dinero-te-puede-solucionar-la-vida-en-dos-o-tres-anos-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:31 [Pedro Pablo Hernández (Puerto de Cartagena): "Cartagena es uno de los principales polos industriales del sur de Europa"](https://www.elperiodico.com/es/videos/economia/pedro-pablo-hernandez-puerto-cartagena-video/131526466.shtml)<br>
+20:23 [Pere Navarro, presidente ejecutivo del Consorci de la Zona Franca: "Queremos convertir una zona industrial en un distrito de innovación"](https://www.elperiodico.com/es/videos/economia/pere-navarro-presidente-ejecutivo-consorci/131526120.shtml)<br>
+20:18 [Pere Navarro (CZFB): "Los polígonos ya no molestan, ahora crean innovación"](https://www.elperiodico.com/es/economia/20260617/navarro-czfb-pere-navarro-zona-franca-barelona-131525984)<br>
+20:17 [El Mediterráneo busca su gran pacto de futuro](https://www.elperiodico.com/es/economia/20260617/mediterraneo-busca-gran-pacto-futuro-131525961)<br>
+20:04 [Pride Barcelona 2026 desplegará una decena actos y una gran manifestación con el lema 'Todas las realidades, un solo orgullo'](https://www.elperiodico.com/es/barcelona/20260617/pride-barcelona-2026-programa-manifestacion-131524919)<br>
+20:01 [Junqueras pide a Rufián y al resto de diputados "máxima coordinación" tras los episodios de tensión interna](https://www.elperiodico.com/es/politica/20260617/oriol-junqueras-gabriel-rufian-reunion-viaje-madrid-tension-131499230)<br>
+20:00 [Warsh estrena su mandato en la Reserva Federal sin elevar los tipos de interés y amplía la divergencia con el BCE](https://www.elperiodico.com/es/economia/20260617/warsh-estrena-mandato-reserva-federal-131525077)<br>
+19:40 [López Miras, presidente de Murcia: "El caso Zapatero ha dejado paralizada a España"](https://www.elperiodico.com/es/politica/20260617/lopez-miras-presidente-murcia-caso-131524286)<br>
+19:39 [Alfonso Álvarez (Cellnex): "Son las infraestructuras lo que harán posible la IA"](https://www.elperiodico.com/es/videos/economia/alfonso-alvarez-cellnex-son-infraestructuras-video/131524238.shtml)<br>
+19:32 [Carlota Pi, cofundadora de Holaluz: "El Mediterráneo es 'the place to be'"](https://www.elperiodico.com/es/videos/politica/carlota-pi-cofundadora-holaluz-mediterraneo/131523993.shtml)<br>
+19:31 [Incendios forestales en Catalunya y España, en directo: última hora del fuego en la UAB y Talavera](https://www.elperiodico.com/es/sociedad/20260617/incendios-forestales-catalunya-espana-directo-131393069)<br>
+19:23 [Trump defiende que el acuerdo con Irán evita la "catástrofe económica" y cumple los objetivos marcados](https://www.elperiodico.com/es/internacional/20260617/trump-defiende-acuerdo-iran-evita-catastrofe-economica-131523408)<br>
+19:06 [Alfonso Álvarez (Cellnex): "Si Europa no permite las fusiones entre telecos, no se harán las inversiones necesarias en infraestructuras digitales"](https://www.elperiodico.com/es/economia/20260617/foro-mediterraneo-cellnex-alfonso-alvarez-telecos-131522675)<br>
+19:02 [Fernando López Miras, presidente de la Región de Murcia: "Cartagena vuelve a ser uno de los grandes polos industriales del Mediterráneo"](https://www.elperiodico.com/es/politica/20260617/fernando-lopez-miras-presidente-region-131522407)<br>
+18:57 [La alcaldesa Rebeca Pérez abandera una Murcia tecnológica con la innovación al servicio de las personas "sin renunciar a sus raíces"](https://www.elperiodico.com/es/economia/20260617/rebeca-perez-abandera-murcia-tecnologica-131522121)<br>
+18:15 [Jordi Ribas, presidente de IA en Microsoft, reivindica su promesa de productividad: "Esto no va a parar"](https://www.elperiodico.com/es/economia/20260617/jordi-ribas-presidente-ia-microsoft-iii-foro-mediterraneo-bing-inteligencia-artificial-chatgpt-buscador-131519556)<br>
+18:08 [Daniel Calleja, representante de la Comisión en España: "Queremos que se puedan crear empresas por internet, en 48 horas y por 100 euros para todo el mercado único"](https://www.elperiodico.com/es/internacional/20260617/daniel-calleja-jefe-comision-europea-espana-entrevista-131519014)<br>
 17:59 [Cerca de 400 gatos rescatados en Vietnam de una red de comercialización para consumo humano](https://www.elperiodico.com/es/internacional/20260617/cerca-400-gatos-rescatados-vietnam-131518237)<br>
 17:42 ["Esto no es un G7, es un G6+1": Trump convierte la cumbre en su propio escenario](https://www.elperiodico.com/es/internacional/20260617/g7-g6-1-trump-convierte-cumbre-escenario-131516738)<br>
 17:39 [Los incendios de vegetación en el Camp de Tarragona suben un 46% en lo que va de año y alertan de un verano de alto riesgo](https://www.elperiodico.com/es/tarragona/20260617/incendios-vegetacion-camp-tarragona-suben-131515392)<br>
