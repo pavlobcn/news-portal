@@ -1,9 +1,13 @@
-# News for 2026-06-18 22:02
+# News for 2026-06-19 00:25
 
 Previous day: [2026-06-17](./data/2026-06-17.md)
 
 ## ua.korrespondent.net
+23:20 [Болгарія збирється ветувати антиросійські санкції ЄС](https://ua.korrespondent.net/world/4887660-bolhariia-zbyrietsia-vetuvaty-antyrosiiski-sanktsii-yes)<br>
+22:52 [Зеленський запросив Фіцо відвідати Україну](https://ua.korrespondent.net/ukraine/4887657-zelenskyi-zaprosyv-fitso-vidvidaty-ukrainu)<br>
+22:24 [Федоров показав Пісторіусу московський ранок](https://ua.korrespondent.net/ukraine/4887654-fedorov-pokazav-pistoriusu-moskovskyi-ranok)<br>
 21:53 [Федоров підбив підсумки "Рамштайну"](https://ua.korrespondent.net/ukraine/4887648-fedorov-pidbyv-pidsumky-ramshtainu)<br>
+21:45 [Артилерія, ракети, дрони. Підсумки Рамштайну](https://ua.korrespondent.net/ukraine/4887666-artyleriia-rakety-drony-pidsumky-ramshtainu)<br>
 21:40 [У Генштабі оприлюднили дані щодо ситуації на фронті](https://ua.korrespondent.net/ukraine/4887644-u-henshtabi-opryluidnyly-dani-schodo-sytuatsii-na-fronti)<br>
 21:17 [Зеленський зустрівся з прем’єром Греції](https://ua.korrespondent.net/ukraine/4887641-zelenskyi-zustrivsia-z-premierom-hretsii)<br>
 20:46 [Пісторіус анонсував поставку Україні ракет](https://ua.korrespondent.net/ukraine/4887630-pistorius-anonsuvav-postavku-ukraini-raket)<br>
@@ -72,6 +76,11 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 04:59 [Москву і Ростовщину атакували дрони: палають НПЗ](https://ua.korrespondent.net/world/russia/4887403-moskvu-i-rostovschynu-atakuvaly-drony-palauit-npz)<br>
 
 ## as.com
+23:14 [Así va la final de la Liga Endesa: horarios, partidos y resultados](https://as.com/baloncesto/acb/asi-va-la-final-de-la-liga-endesa-horarios-partidos-y-resultados-f202606-n/)<br>
+23:05 [Resumen del Valencia Basket vs Barça, primer partido de la final de la Liga Endesa](https://as.com/videos/acb/resumen-del-valencia-basket-vs-barca-primer-partido-de-la-final-de-la-liga-endesa-f202606-v/)<br>
+22:44 [El Barça golpea primero en una final de ensueño](https://as.com/baloncesto/acb/el-barca-golpea-primero-en-una-final-de-ensueno-f202606-n/)<br>
+22:42 [Pedro Martínez: “No podemos caer en el desánimo por haber perdido”](https://as.com/baloncesto/acb/pedro-martinez-no-podemos-caer-en-el-desanimo-por-haber-perdido-f202606-n/)<br>
+22:36 [Xavi Pascual: “No puedes ganar al Valencia si no juegas bien en ataque”](https://as.com/baloncesto/acb/xavi-pascual-no-puedes-ganar-al-valencia-si-no-juegas-bien-en-ataque-f202606-n/)<br>
 21:56 [Valencia Basket - Barcelona, en directo: Final ACB 2025/26, Liga Endesa de baloncesto hoy en vivo](https://as.com/baloncesto/acb/valencia-basket-barcelona-en-directo-final-acb-202526-liga-endesa-de-baloncesto-hoy-en-vivo-f202606-d/)<br>
 21:22 [Juan Carlos Sánchez vuelve al Madrid](https://as.com/baloncesto/acb/juan-carlos-sanchez-vuelve-al-madrid-f202606-n/)<br>
 19:31 [Valencia - Barcelona, en directo: Final ACB 2025-26 en vivo hoy](https://as.com/baloncesto/acb/valencia-barcelona-en-directo-final-acb-2025-26-en-vivo-hoy-f202606-d/)<br>
@@ -80,6 +89,9 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 06:46 [Final de una maratón](https://as.com/baloncesto/acb/final-de-una-maraton-f202606-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Novartis España: referente global en innovación biomédica](https://www.elperiodico.com/es/economia/20260618/novartis-espana-referente-global-innovacion-bc-131579189)<br>
+22:35 [El Barça arranca la primera victoria con un partidazo](https://www.elperiodico.com/es/deportes/20260618/barca-arranca-primera-victoria-partidazo-131569823)<br>
+22:17 [La UE exhibe unidad en su apoyo a Ucrania por primera vez en meses: "Se han ganado el sitio"](https://www.elperiodico.com/es/internacional/20260618/ue-exhibe-unidad-apoyo-ucrania-131577820)<br>
 21:44 [Audio | Julio Martínez Martínez compró en 2011 una casa al matrimonio Zapatero](https://www.elperiodico.com/es/videos/politica/audio-julio-martinez-martinez-compro/131577194.shtml)<br>
 21:30 [Terapia contra el cáncer, móviles más seguros y calentamiento global: las mentes más brillantes del planeta reciben los premios de la Fundación BBVA](https://www.elperiodico.com/es/sociedad/20260618/premios-fronteras-conocimiento-fundacion-bbva-131534497)<br>
 21:18 [El calor y las tormentas pondrán mañana en aviso a media España, con máximas superiores a 39ºC en el sur](https://www.elperiodico.com/es/sociedad/20260618/calor-tormentas-pondran-manana-media-espana-131576329)<br>
