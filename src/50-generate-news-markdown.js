@@ -3,6 +3,8 @@ const path = require("path");
 
 const repoRoot = path.resolve(__dirname, "..");
 const dataDir = path.join(repoRoot, "data");
+const topicsFile = path.join(repoRoot, "Filter.md");
+const MIN_TOPIC_MATCH_PROBABILITY = 20;
 const PREFERRED_DOMAIN_ORDER = [
   "ua.korrespondent.net",
   "as.com",
@@ -29,6 +31,19 @@ function formatDateTime(date) {
   const parts = formatter.formatToParts(date);
   const get = (type) => parts.find((part) => part.type === type)?.value || "";
   return `${get("year")}-${get("month")}-${get("day")} ${get("hour")}:${get("minute")}`;
+}
+
+function readTopicOrder(filePath) {
+  if (!fs.existsSync(filePath)) {
+    return [];
+  }
+
+  const raw = fs.readFileSync(filePath, "utf8");
+  return raw
+    .split(/\r?\n/)
+    .map((line) => line.match(/^\s*-\s+(.+?)\s*$/)?.[1]?.trim() || "")
+    .map((topic) => topic.replace(/\s+\(.+\)$/, "").trim())
+    .filter(Boolean);
 }
 
 function readJsonArray(filePath) {
@@ -123,26 +138,56 @@ function compareByPubDateDesc(a, b) {
   return 0;
 }
 
-function buildMarkdown(items, previousDayLabel) {
+function isTopicMatch(entry) {
+  const topic = getTopicValue(entry);
+  const topicMatchProbability = getTopicMatchProbabilityNumber(entry);
+
+  return (
+    Boolean(topic) &&
+    topicMatchProbability !== null &&
+    topicMatchProbability >= MIN_TOPIC_MATCH_PROBABILITY
+  );
+}
+
+function addGroupedEntry(grouped, groupName, entry) {
+  if (!grouped.has(groupName)) {
+    grouped.set(groupName, []);
+  }
+
+  grouped.get(groupName).push(entry);
+}
+
+function compareTopicsByFilterOrder(topicOrder) {
+  return (a, b) => {
+    const indexA = topicOrder.indexOf(a);
+    const indexB = topicOrder.indexOf(b);
+    const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
+    const rankB = indexB === -1 ? Number.MAX_SAFE_INTEGER : indexB;
+
+    if (rankA !== rankB) {
+      return rankA - rankB;
+    }
+
+    return a.localeCompare(b);
+  };
+}
+
+function buildMarkdown(items, previousDayLabel, topicOrder = []) {
   const sortedItems = [...items].sort(compareByPubDateDesc);
-  const grouped = new Map();
+  const topicGroups = new Map();
+  const ungroupedByDomain = new Map();
   let addedItemCount = 0;
 
   for (const entry of sortedItems) {
     const link = getLinkValue(entry);
     if (!link) continue;
 
-    const topicMatchProbability = getTopicMatchProbabilityNumber(entry);
-    if (topicMatchProbability !== null && topicMatchProbability >= 20) {
-      continue;
+    if (isTopicMatch(entry)) {
+      addGroupedEntry(topicGroups, getTopicValue(entry), entry);
+    } else {
+      addGroupedEntry(ungroupedByDomain, getDomain(link), entry);
     }
 
-    const domain = getDomain(link);
-    if (!grouped.has(domain)) {
-      grouped.set(domain, []);
-    }
-
-    grouped.get(domain).push(entry);
     addedItemCount += 1;
   }
 
@@ -155,7 +200,28 @@ function buildMarkdown(items, previousDayLabel) {
     lines.push("");
   }
 
-  const orderedDomains = [...grouped.keys()].sort((a, b) => {
+  const orderedTopics = [...topicGroups.keys()].sort(compareTopicsByFilterOrder(topicOrder));
+
+  if (orderedTopics.length > 0) {
+    lines.push("## Topics");
+    lines.push("");
+
+    for (const topic of orderedTopics) {
+      lines.push(`### ${escapeMdText(topic)}`);
+
+      for (const entry of topicGroups.get(topic)) {
+        const timeLabel = getTimeLabel(entry);
+        const link = getLinkValue(entry);
+        const title = escapeMdText(getTitleValue(entry));
+        const domain = getDomain(link);
+        lines.push(`${timeLabel} [${title}](${link}) _${domain}_<br>`);
+      }
+
+      lines.push("");
+    }
+  }
+
+  const orderedDomains = [...ungroupedByDomain.keys()].sort((a, b) => {
     const indexA = PREFERRED_DOMAIN_ORDER.indexOf(a);
     const indexB = PREFERRED_DOMAIN_ORDER.indexOf(b);
     const rankA = indexA === -1 ? Number.MAX_SAFE_INTEGER : indexA;
@@ -168,9 +234,14 @@ function buildMarkdown(items, previousDayLabel) {
     return a.localeCompare(b);
   });
 
+  if (orderedDomains.length > 0) {
+    lines.push("## Other news");
+    lines.push("");
+  }
+
   for (const domain of orderedDomains) {
-    const domainItems = grouped.get(domain);
-    lines.push(`## ${domain}`);
+    const domainItems = ungroupedByDomain.get(domain);
+    lines.push(`### ${domain}`);
 
     for (const entry of domainItems) {
       const timeLabel = getTimeLabel(entry);
@@ -204,9 +275,11 @@ function processDay(date) {
   const previousMdPath = path.join(dataDir, `${previousDayLabel}.md`);
 
   const items = readJsonArray(jsonPath);
+  const topicOrder = readTopicOrder(topicsFile);
   const { markdown, addedItemCount } = buildMarkdown(
     items,
     fs.existsSync(previousMdPath) ? previousDayLabel : null,
+    topicOrder,
   );
 
   fs.writeFileSync(mdPath, markdown, "utf8");

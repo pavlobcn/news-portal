@@ -1,8 +1,46 @@
-# News for 2026-06-18 09:24
+# News for 2026-06-18 11:31
 
 Previous day: [2026-06-17](./data/2026-06-17.md)
 
-## ua.korrespondent.net
+## Topics
+
+### спорт
+09:00 [Чемпіонат світу-2026: прев'ю восьмого ігрового дня – стартує другий тур](https://ua.korrespondent.net/sport/4887339-chempionat-svitu-2026-prevui-vosmoho-ihrovoho-dnia-startuie-druhyi-tur) _ua.korrespondent.net_<br>
+08:39 [Легендарний італієць повторив унікальний результат Блохіна](https://ua.korrespondent.net/sport/football/4887432-lehendarnyi-italiiets-povtoryv-unikalnyi-rezultat-blokhina) _ua.korrespondent.net_<br>
+08:13 [Daniel Vázquez hace historia y rompe prejuicios desde la natación artística](https://www.elperiodico.com/es/videos/sociedad/daniel-vazquez-historia-rompe-prejuicios-natacion-artistica/131533715.shtml) _www.elperiodico.com_<br>
+07:56 [Ліверпуль виграв боротьбу за вихованця Реала](https://ua.korrespondent.net/sport/football/4887426-liverpul-vyhrav-borotbu-za-vykhovantsia-reala) _ua.korrespondent.net_<br>
+07:25 [Колумбія без проблем розібралася з Узбекистаном](https://ua.korrespondent.net/sport/football/4887416-kolumbiia-bez-problem-rozibralasia-z-uzbekystanom) _ua.korrespondent.net_<br>
+07:07 [ЧС: Гана дотиснула Панаму в кінцівці матчу](https://ua.korrespondent.net/sport/football/4887411-chs-hana-dotysnula-panamu-v-kintsivtsi-matchu) _ua.korrespondent.net_<br>
+06:50 [Англія розпочала ЧС з видовищної перемоги над Хорватією](https://ua.korrespondent.net/sport/football/4887386-anhliia-rozpochala-chs-z-vydovyschnoi-peremohy-nad-khorvatiieui) _ua.korrespondent.net_<br>
+06:31 [Французький Брест повідомив про смерть головного тренера](https://ua.korrespondent.net/sport/football/4887379-frantsuzkyi-brest-povidomyv-pro-smert-holovnoho-trenera) _ua.korrespondent.net_<br>
+06:11 [Тренер ЛНЗ оцінив шанси команди після жеребкування Ліги конференцій](https://ua.korrespondent.net/sport/football/4887376-trener-lnz-otsinyv-shansy-komandy-pislia-zherebkuvannia-lihy-konferentsii) _ua.korrespondent.net_<br>
+06:01 [Las temperaturas alcanzan los 35ºC en el Mundial: así afecta el calor al rendimiento físico y mental de los futbolistas](https://www.elperiodico.com/es/sociedad/20260618/calor-mundial-efectos-rendimiento-deportivo-mental-futbolistas-cuerpo-cerebro-explicacion-131517019) _www.elperiodico.com_<br>
+00:10 [Doblete de Kane en el formidable pulso que deparan Inglaterra y Croacia (4-2)](https://www.elperiodico.com/es/deportes/20260618/doblete-kane-formidable-pulso-deparan-131526111) _www.elperiodico.com_<br>
+
+### ресторани, їжа
+07:46 [Restaurante Cera 23: la "Galia de Astérix" que montaron tres amigos gallegos cumple 15 años en el Raval](https://www.elperiodico.com/es/gastronomia/restaurantes/20260618/cera-23-restaurante-barcelona-15-anos-131297911) _www.elperiodico.com_<br>
+07:45 [Los mejores restaurantes abiertos en Barcelona en lo que llevamos de 2026](https://www.elperiodico.com/es/gastronomia/restaurantes/20260618/mejores-restaurantes-abiertos-barcelona-ano-2026-130815563) _www.elperiodico.com_<br>
+07:43 [Catalunya Regió Mundial de la Gastronomia cerró con 1.887 adhesiones y unas 455 actuaciones](https://www.elperiodico.com/es/gastronomia/20260618/catalunya-regio-mundial-gastronomia-balance-actuaciones-131501088) _www.elperiodico.com_<br>
+07:00 [Los gastro 'hits' del verano: las tapas más frescas de Barcelona](https://www.elperiodico.com/es/que-hacer/donde-comer/20260618/gastro-hits-verano-barcelona-restaurantes-tapas-frescas-131510961) _www.elperiodico.com_<br>
+
+### вибори
+06:00 [Encuestas de las elecciones en Catalunya: así están los sondeos](https://www.elperiodico.com/es/politica/20260618/encuestas-elecciones-cataluna-sondeos-catalunya-124137879) _www.elperiodico.com_<br>
+
+### автомобілі
+09:18 [Markus Haupt: «Aceleremos juntos el futuro industrial del Mediterráneo»](https://www.elperiodico.com/es/economia/20260618/markus-haupt-aceleremos-futuro-industrial-bc-131535239) _www.elperiodico.com_<br>
+09:18 [Precio de la gasolina y diésel hoy, 18 de junio en España por la Guerra de Irán: desplome de los carburantes](https://www.elperiodico.com/es/economia/20260618/precio-gasolina-diesel-hoy-18-junio-dv-131535092) _www.elperiodico.com_<br>
+08:04 [Hyundai Staria Hybrid: el monovolumen que sobrevivió al SUV](https://www.elperiodico.com/es/motor/20260618/prueba-hyundai-staria-monovolumen-hibrido-hev-131507027) _www.elperiodico.com_<br>
+07:00 [Las tres zonas críticas que debes revisar en tu autocaravana antes de arrancar las vacaciones](https://www.elperiodico.com/es/motor/20260618/tres-zonas-criticas-debes-revisar-caravana-131420472) _www.elperiodico.com_<br>
+06:00 [Cinco trucos para gastar menos gasolina este verano si el combustible vuelve a subir de precio](https://www.elperiodico.com/es/motor/20260618/cinco-trucos-gastar-gasolina-verano-131507011) _www.elperiodico.com_<br>
+
+### телебачення
+09:01 [Crítica de 'Te encontraré' (Netflix): un reparto estelar hace creíble otra trama alocada de Harlan Coben](https://www.elperiodico.com/es/ocio-y-cultura/20260618/critica-encontrare-netflix-reparto-estelar-131492028) _www.elperiodico.com_<br>
+08:00 [¿Por qué es tan importante 'El Rosco' de 'Pasapalabra' que se despide este jueves de Antena 3? "Es mucho más que la prueba final"](https://www.elperiodico.com/es/tele/20260618/pasapalabra-rosco-antena-3-despedida-adios-131453970) _www.elperiodico.com_<br>
+07:00 [TVyMAS Jueves 18](https://www.elperiodico.com/es/videos/tele/tvymas-jueves-18/131513095.shtml) _www.elperiodico.com_<br>
+
+## Other news
+
+### ua.korrespondent.net
 09:11 [Пропагандисти РФ оцінили масштаб атаки на Москву](https://ua.korrespondent.net/world/russia/4887434-propahandysty-rf-otsinyly-masshtab-ataky-na-moskvu)<br>
 08:41 [Троє загиблих: наслідки російських атак по Сумщині](https://ua.korrespondent.net/ukraine/4887430-troie-zahyblykh-naslidky-rosiiskykh-atak-po-sumschyni)<br>
 08:26 [Генштаб назвав, де найактивніше штурмує армія РФ](https://ua.korrespondent.net/ukraine/4887428-henshtab-nazvav-de-naiaktyvnishe-shturmuie-armiia-rf)<br>
@@ -25,12 +63,12 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 00:59 [РФ вдарила дронами по Сумах: є загиблий](https://ua.korrespondent.net/ukraine/4887384-rf-vdaryla-dronamy-po-sumakh-ye-zahyblyi)<br>
 00:45 [Росіян атакувала Київ і Полтаву балістикою](https://ua.korrespondent.net/ukraine/4887382-rosiian-atakuvala-kyiv-i-poltavu-balistykoui)<br>
 
-## as.com
+### as.com
 06:48 [Las franquicias, la apuesta definitiva de la Euroliga](https://as.com/baloncesto/las-franquicias-la-apuesta-definitiva-de-la-euroliga-f202606-n/)<br>
 06:47 [Valencia - Barcelona: horario, TV y dónde ver la Final de la ACB 2025-26](https://as.com/baloncesto/acb/valencia-barcelona-horario-tv-y-donde-ver-la-final-de-la-acb-2025-26-f202606-n/)<br>
 06:46 [Final de una maratón](https://as.com/baloncesto/acb/final-de-una-maraton-f202606-n/)<br>
 
-## www.elperiodico.com
+### www.elperiodico.com
 09:22 [Así fue la cena de bienvenida previa al III Foro del Mediterráneo](https://www.elperiodico.com/es/videos/economia/cena-bienvenida-previa-iii-foro-mediterraneo/131535339.shtml)<br>
 09:17 [Muere la actriz Daveigh Chase, la niña de 'The Ring' y voz de Lilo en 'Lilo & Stitch' en inglés, a los 35 años](https://www.elperiodico.com/es/gente/20260618/muere-daveigh-chase-the-ring-lilo-35-anos-131534434)<br>
 09:16 [Precio del petróleo hoy, 18 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260618/precio-petroleo-hoy-18-junio-dv-131535099)<br>
