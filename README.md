@@ -1,10 +1,24 @@
-# News for 2026-06-18 11:31
+# News for 2026-06-18 13:36
 
 Previous day: [2026-06-17](./data/2026-06-17.md)
 
 ## Topics
 
 ### спорт
+13:33 [Cómo va el grupo L del Mundial con Inglaterra, Croacia, Ghana y Panamá](https://www.elperiodico.com/es/deportes/20260618/grupo-l-mundial-inglaterra-croacia-131550729) _www.elperiodico.com_<br>
+13:31 [Cómo va el grupo K del Mundial con Portugal, Colombia, Congo y Uzbekistán](https://www.elperiodico.com/es/deportes/20260618/grupo-k-mundial-portugal-colombia-131550540) _www.elperiodico.com_<br>
+13:28 [Cómo va el grupo J del Mundial con Argentina, Austria, Jordania y Argelia](https://www.elperiodico.com/es/deportes/20260618/grupo-j-mundial-argentina-austria-131550399) _www.elperiodico.com_<br>
+13:26 [Cómo va el grupo I del Mundial con Francia, Noruega, Senegal e Irak](https://www.elperiodico.com/es/deportes/20260618/grupo-mundial-francia-noruega-senegal-131550304) _www.elperiodico.com_<br>
+13:22 [El refugio de Iker Casillas (45 años) es un pueblo de 200 habitantes en la Sierra de Gredos: "Fue el primero en darlo a conocer en España y en el extranjero, y a día de hoy lo seguimos apreciando"](https://www.elperiodico.com/es/gente/20260618/refugio-iker-casillas-pueblo-sierra-gredos-dv-131533404) _www.elperiodico.com_<br>
+13:01 [Джошуа зробив несподіваний крок назустріч Ф’юрі перед майбутнім боєм](https://ua.korrespondent.net/sport/boks/4887488-dzhoshua-zrobyv-nespodivanyi-krok-nazustrich-fuiri-pered-maibutnim-boiem) _ua.korrespondent.net_<br>
+12:33 [Зірка українського тенісу отримав нову роль у клубі УПЛ](https://ua.korrespondent.net/sport/football/4887481-zirka-ukrainskoho-tenisu-otrymav-novu-rol-u-klubi-upl) _ua.korrespondent.net_<br>
+12:26 [Balance del Mundial (1ª jornada): África y Asia acechan a Europa y Sudámerica](https://www.elperiodico.com/es/deportes/20260618/balance-1a-jornada-mundial-2026-futbol-131546148) _www.elperiodico.com_<br>
+12:24 [De un nacimiento por accidente en Brooklyn a ser la estrella del Team USA: el efecto mariposa de Falorin Balogun](https://www.elperiodico.com/es/deportes/20260618/nacimiento-accidente-brooklyn-estrella-team-131537859) _www.elperiodico.com_<br>
+12:14 [З Ліверпуля до Мадрида: Реал оголосив про новий трансфер](https://ua.korrespondent.net/sport/football/4887472-z-liverpulia-do-madryda-real-oholosyv-pro-novyi-transfer) _ua.korrespondent.net_<br>
+11:37 [Jana Fernández se lanza a YouTube: lo que nunca viste de la Selección Española en la Eurocopa](https://www.elperiodico.com/es/deportes/20260618/jana-fernandez-lanza-youtube-viste-131540157) _www.elperiodico.com_<br>
+10:49 [Más mercadeo en la selección española: Víctor Muñoz se va al Liverpool por 40 millones](https://www.elperiodico.com/es/deportes/20260618/mercadeo-seleccion-victor-munoz-liverpool-osasuna-real-madrid-131537908) _www.elperiodico.com_<br>
+10:44 [Señoras y señores, respeten a Cristiano Ronaldo, por favor](https://www.elperiodico.com/es/deportes/20260618/senoras-senores-respeten-cristiano-ronaldo-131538011) _www.elperiodico.com_<br>
+10:26 [Colombia supera la trampa de Uzbekistán: con Luis Díaz todo es más fácil](https://www.elperiodico.com/es/deportes/20260618/colombia-supera-trampa-uzbekistan-luis-131537871) _www.elperiodico.com_<br>
 09:00 [Чемпіонат світу-2026: прев'ю восьмого ігрового дня – стартує другий тур](https://ua.korrespondent.net/sport/4887339-chempionat-svitu-2026-prevui-vosmoho-ihrovoho-dnia-startuie-druhyi-tur) _ua.korrespondent.net_<br>
 08:39 [Легендарний італієць повторив унікальний результат Блохіна](https://ua.korrespondent.net/sport/football/4887432-lehendarnyi-italiiets-povtoryv-unikalnyi-rezultat-blokhina) _ua.korrespondent.net_<br>
 08:13 [Daniel Vázquez hace historia y rompe prejuicios desde la natación artística](https://www.elperiodico.com/es/videos/sociedad/daniel-vazquez-historia-rompe-prejuicios-natacion-artistica/131533715.shtml) _www.elperiodico.com_<br>
@@ -24,9 +38,12 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 07:00 [Los gastro 'hits' del verano: las tapas más frescas de Barcelona](https://www.elperiodico.com/es/que-hacer/donde-comer/20260618/gastro-hits-verano-barcelona-restaurantes-tapas-frescas-131510961) _www.elperiodico.com_<br>
 
 ### вибори
+11:54 [Las elecciones en la circunscripción de Makerfield ponen a Starmer al borde del abismo](https://www.elperiodico.com/es/internacional/20260618/makerfield-manchester-elecciones-decisivas-futuro-starmer-partido-laborista-reino-unido-131543567) _www.elperiodico.com_<br>
 06:00 [Encuestas de las elecciones en Catalunya: así están los sondeos](https://www.elperiodico.com/es/politica/20260618/encuestas-elecciones-cataluna-sondeos-catalunya-124137879) _www.elperiodico.com_<br>
 
 ### автомобілі
+12:21 [Stellantis se une a Wayve y Uber para el despliegue de robotaxis a nivel mundial](https://www.elperiodico.com/es/motor/20260618/stellantis-une-waybe-uber-despliegue-robotaxis-131539889) _www.elperiodico.com_<br>
+10:21 [Nuevo Opel Astra: Más maduro, con un gran salto de calidad](https://www.elperiodico.com/es/motor/20260618/nuevo-opel-astra-131451054) _www.elperiodico.com_<br>
 09:18 [Markus Haupt: «Aceleremos juntos el futuro industrial del Mediterráneo»](https://www.elperiodico.com/es/economia/20260618/markus-haupt-aceleremos-futuro-industrial-bc-131535239) _www.elperiodico.com_<br>
 09:18 [Precio de la gasolina y diésel hoy, 18 de junio en España por la Guerra de Irán: desplome de los carburantes](https://www.elperiodico.com/es/economia/20260618/precio-gasolina-diesel-hoy-18-junio-dv-131535092) _www.elperiodico.com_<br>
 08:04 [Hyundai Staria Hybrid: el monovolumen que sobrevivió al SUV](https://www.elperiodico.com/es/motor/20260618/prueba-hyundai-staria-monovolumen-hibrido-hev-131507027) _www.elperiodico.com_<br>
@@ -38,9 +55,39 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 08:00 [¿Por qué es tan importante 'El Rosco' de 'Pasapalabra' que se despide este jueves de Antena 3? "Es mucho más que la prueba final"](https://www.elperiodico.com/es/tele/20260618/pasapalabra-rosco-antena-3-despedida-adios-131453970) _www.elperiodico.com_<br>
 07:00 [TVyMAS Jueves 18](https://www.elperiodico.com/es/videos/tele/tvymas-jueves-18/131513095.shtml) _www.elperiodico.com_<br>
 
+### виконавці поп музики
+12:26 [Sabrina Carpenter logra una orden de alejamiento de cinco años contra su presunto acosador](https://www.elperiodico.com/es/gente/20260618/sabrina-carpenter-orden-alejamiento-cinco-anos-presunto-acosador-131542158) _www.elperiodico.com_<br>
+11:19 [El Reggaeton Beach Festival cancela sus ediciones de 2026 y deja en el aire su continuidad](https://www.elperiodico.com/es/ocio-y-cultura/20260618/reggaeton-beach-festival-cancela-ediciones-entradas-2026-131539895) _www.elperiodico.com_<br>
+
+### пограбування, афера
+13:26 [Detenido en L'Hospitalet de Llobregat un miembro de una banda de ladrones que cometió 24 asaltos a comercios](https://www.elperiodico.com/es/barcelona/hospitalet/20260618/detenido-lhospitalet-llobregat-miembro-banda-ladrones-robos-comercios-131549851) _www.elperiodico.com_<br>
+
 ## Other news
 
 ### ua.korrespondent.net
+12:58 [Українців попередили про можливі затримки на кордоні з Угорщиною](https://ua.korrespondent.net/ukraine/4887491-ukraintsiv-poperedyly-pro-mozhlyvi-zatrymky-na-kordoni-z-uhorschynoui)<br>
+12:55 [Ракетний удар по Дніпру: стало відомо про жертви](https://ua.korrespondent.net/city/dnepr/4887489-raketnyi-udar-po-dnipru-stalo-vidomo-pro-zhertvy)<br>
+12:49 [Правоохоронці затримали ще 11 продавців "трофейної" зброї в Україні](https://ua.korrespondent.net/ukraine/4887484-pravookhorontsi-zatrymaly-sche-11-prodavtsiv-trofeinoi-zbroi-v-ukraini)<br>
+12:40 [Трампа "накачали" шкідливими ідеями - Кремль](https://ua.korrespondent.net/world/russia/4887483-trampa-nakachaly-shkidlyvymy-ideiamy-kreml)<br>
+12:37 [Україна закидатиме РФ ракетами Ruta, керованими V-BAT - ЗМІ](https://ua.korrespondent.net/ukraine/4887480-ukraina-zakydatyme-rf-raketamy-Ruta-kerovanymy-V-BAT-zmi)<br>
+12:15 [Не удар ЗСУ: перехоплено документ РФ про автобус у Брянській області](https://ua.korrespondent.net/ukraine/4887477-ne-udar-zsu-perekhopleno-dokument-rf-pro-avtobus-u-brianskii-oblasti)<br>
+12:10 [Вбивство художника-опозиціонера: у Польщі затримали підозрюваного](https://ua.korrespondent.net/world/4887474-vbyvstvo-khudozhnyka-opozytsionera-u-polschi-zatrymaly-pidozruivanoho)<br>
+12:09 [Швеція виділила понад $100 млн на ініціативу PURL](https://ua.korrespondent.net/world/4887473-shvetsiia-vydilyla-ponad-100-mln-na-initsiatyvu-PURL)<br>
+12:05 [Битва нейромереж: порівняння лідерів індустрії](https://ua.korrespondent.net/articles/4887467-bytva-neiromerezh-porivniannia-lideriv-industrii)<br>
+11:59 [КНДР відкликала посла з Британії через місяць після його призначення](https://ua.korrespondent.net/world/4887469-kndr-vidklykala-posla-z-brytanii-cherez-misiats-pislia-yoho-pryznachennia)<br>
+11:49 [Долар подорожчав в обмінниках, євро йде вниз](https://ua.korrespondent.net/business/financial/4887466-dolar-podorozhchav-v-obminnykakh-yevro-yde-vnyz)<br>
+11:45 [Окупаційна влада і силовики поспіхом вивозять сім'ї з Криму - АТЕШ](https://ua.korrespondent.net/world/russia/4887464-okupatsiina-vlada-i-sylovyky-pospikhom-vyvoziat-simi-z-krymu-atesh)<br>
+11:40 [На Херсонщині автомобіль підірвався на російській міні: є поранені](https://ua.korrespondent.net/ukraine/4887462-na-khersonschyni-avtomobil-pidirvavsia-na-rosiiskii-mini-ye-poraneni)<br>
+11:34 [Дніпро під ударом балістики, є поранені](https://ua.korrespondent.net/city/dnepr/4887460-dnipro-pid-udarom-balistyky-ye-poraneni)<br>
+11:20 [До Ормузької протоки прямують два кораблі ВМС Німеччини - Пісторіус](https://ua.korrespondent.net/world/4887457-do-ormuzkoi-protoky-priamuuit-dva-korabli-vms-nimechchyny-pistorius)<br>
+11:14 [ВМС спростували вкид про "атаку морських дронів" на Одесу](https://ua.korrespondent.net/ukraine/4887453-vms-sprostuvaly-vkyd-pro-ataku-morskykh-droniv-na-odesu)<br>
+10:59 [Ужгородський депутат "забув" задекларувати майно на 78 млн](https://ua.korrespondent.net/ukraine/4887450-uzhhorodskyi-deputat-zabuv-zadeklaruvaty-maino-na-78-mln)<br>
+10:33 [Росіяни просунулися під Гуляйполем - DeepState](https://ua.korrespondent.net/ukraine/4887448-rosiiany-prosunulysia-pid-huliaipolem-DeepState)<br>
+10:25 [Зеленський зробив заяву піля ударів по Москві](https://ua.korrespondent.net/ukraine/4887444-zelenskyi-zrobyv-zaiavu-pilia-udariv-po-moskvi)<br>
+10:05 [Сирський анонсував зміни для сержантів ЗСУ](https://ua.korrespondent.net/ukraine/4887442-syrskyi-anonsuvav-zminy-dlia-serzhantiv-zsu)<br>
+10:01 [В регіонах України зафіксували нові знеструмлення](https://ua.korrespondent.net/ukraine/4887440-v-rehionakh-ukrainy-zafiksuvaly-novi-znestrumlennia)<br>
+09:45 [Генштаб розповів про ураження на Московському НПЗ](https://ua.korrespondent.net/ukraine/4887438-henshtab-rozpoviv-pro-urazhennia-na-moskovskomu-npz)<br>
+09:37 [Удар по дітях з Білорусі: ISW назвав мету фейку РФ](https://ua.korrespondent.net/ukraine/4887436-udar-po-ditiakh-z-bilorusi-ISW-nazvav-metu-feiku-rf)<br>
 09:11 [Пропагандисти РФ оцінили масштаб атаки на Москву](https://ua.korrespondent.net/world/russia/4887434-propahandysty-rf-otsinyly-masshtab-ataky-na-moskvu)<br>
 08:41 [Троє загиблих: наслідки російських атак по Сумщині](https://ua.korrespondent.net/ukraine/4887430-troie-zahyblykh-naslidky-rosiiskykh-atak-po-sumschyni)<br>
 08:26 [Генштаб назвав, де найактивніше штурмує армія РФ](https://ua.korrespondent.net/ukraine/4887428-henshtab-nazvav-de-naiaktyvnishe-shturmuie-armiia-rf)<br>
@@ -69,8 +116,43 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 06:46 [Final de una maratón](https://as.com/baloncesto/acb/final-de-una-maraton-f202606-n/)<br>
 
 ### www.elperiodico.com
+13:33 [El juez Calama imputa a las hijas y a la secretaria de Zapatero tras la declaración del expresidente](https://www.elperiodico.com/es/politica/20260618/juez-calama-imputa-hijas-secretaria-131550818)<br>
+13:32 [Los Mossos detienen a un hombre armado con un gran cuchillo en la calle de Muntaner de Barcelona](https://www.elperiodico.com/es/videos/barcelona/mossos-detienen-hombre-armado-gran-cuchillo-calle-muntaner-barcelona-video/131550640.shtml)<br>
+13:32 [El precio del euríbor hoy, 18 de junio: los titulares de una hipoteca reciben una buena noticia](https://www.elperiodico.com/es/economia/20260618/precio-euribor-hoy-18-junio-dv-131550430)<br>
+13:31 [Aitor Moll, a Felipe VI: "Su presencia representa la confirmación de la relevancia que este Foro ha adquirido desde su nacimiento"](https://www.elperiodico.com/es/videos/politica/aitor-moll-felipe-vi-presencia/131550694.shtml)<br>
+13:29 [Así ha sido el discurso completo del El Rey Felipe VI en el III Foro Económico y Social del Mediterráneo](https://www.elperiodico.com/es/videos/economia/sido-discurso-completo-rey-felipe/131550575.shtml)<br>
+13:22 [Dalmau exige una rectificación a un diputado del PP por asegurar que un inmigrante que delinque debe regresar nadando a su país](https://www.elperiodico.com/es/politica/20260618/dalmau-rectificacion-diputado-pp-inmigrantes-delincuencia-expulsiones-parlament-131548736)<br>
+13:16 [Felipe VI: "La fortaleza de este Foro reside en su capacidad de reunir miradas distintas"](https://www.elperiodico.com/es/videos/economia/foro-mediterraneo-rey-felipe-fortaleza-distintas-miradas/131549659.shtml)<br>
+13:13 [Salvador Illa: "El Mediterráneo es nuestro presente donde construimos nuestro futuro."](https://www.elperiodico.com/es/videos/economia/salvador-illa-mediterraneo-presente-construimos/131549241.shtml)<br>
+13:02 [El Banco de España cifra en casi un millón las viviendas en manos de extranjeros o que se alquilan como pisos turísticos](https://www.elperiodico.com/es/economia/20260618/banco-espana-cifra-millon-viviendas-131548236)<br>
+13:00 [El OIEA respalda la tregua entre EEUU e Irán y anuncia el inicio de las conversaciones técnicas](https://www.elperiodico.com/es/internacional/20260618/oiea-respalda-tregua-washington-teheran-nuclear-131548079)<br>
+13:00 [Francisco de la Torre, sobre la vivienda: "Hace fata una relación entre Red Eléctrica y las empresas distribuidoras lo más fluida posible"](https://www.elperiodico.com/es/videos/politica/francisco-torre-vivienda-fata-relacion/131548062.shtml)<br>
+12:59 [El Ayuntamiento de Barcelona denuncia a un bombero del parque de Zona Franca por agresión sexual](https://www.elperiodico.com/es/sucesos/20260618/ayuntamiento-barcelona-denuncia-bombero-parque-agresion-sexual-mujer-131547709)<br>
+12:58 [Protesta en La Mina contra el desahucio de tres familias](https://www.elperiodico.com/es/fotos/sociedad/protesta-mina-desahucio-tres-familias-fotos-131547560)<br>
+12:58 [Felipe VI reivindica el Mediterráneo como espacio de "diálogo" ante los retos del siglo XXI](https://www.elperiodico.com/es/politica/20260618/rey-reivindica-dialogo-mediterraneo-foro-retos-prensa-iberica-131547981)<br>
+12:51 [Los Mossos detienen a un hombre armado con un gran cuchillo en la calle de Muntaner de Barcelona](https://www.elperiodico.com/es/barcelona/20260618/mossos-detienen-hombre-armado-gran-cuchillo-muntaner-barcelona-131545631)<br>
+12:51 [Jaime Martínez Llabrés: "Se ha prohibido definitivamente el alquiler turístico en todo el municipio de Palma"](https://www.elperiodico.com/es/videos/politica/jaime-martinez-llabres-prohibido-definitivamente/131547669.shtml)<br>
+12:25 [Palma acogerá el IV Foro del Mediterráneo en 2027](https://www.elperiodico.com/es/economia/20260618/palma-mallorca-acogera-iv-foro-mediterraneo-131545984)<br>
+12:24 [Precios topados y otras regulaciones: alcaldes mediterráneos esgrimen recetas para combinar el turismo con el acceso a la vivienda](https://www.elperiodico.com/es/barcelona/20260618/debate-alcaldes-barcelona-palma-cartagena-malaga-foro-mediterraneo-131538030)<br>
+12:23 [Illa pide un frente común a las autonomías del Mediterráneo para impedir que España caiga "en el centralismo del pasado"](https://www.elperiodico.com/es/politica/20260618/salvador-illa-foro-mediterraneo-prensa-iberica-cataluna-131545848)<br>
+12:23 [Condenados a cuatro años de prisión cuatro de los acusados por el enterramiento masivo de basura en fincas agrícolas de Alicante](https://www.elperiodico.com/es/sucesos/20260618/condenados-anos-prision-cuatro-enterramiento-masivo-basura-fincas-agricolas-orihuela-131544736)<br>
+12:15 ['Caso 137', la película sobre los chalecos amarillos: un discurso algo ingenuo sobre la corrupción policial y el departamento de Asuntos Internos de la policía francesa](https://www.elperiodico.com/es/ocio-y-cultura/20260618/caso-137-pelicula-chalecos-amarillos-131544543)<br>
+11:46 [Collboni reivindica la "competitividad" de las ciudades del sur de Europa para captar inversión ante la "convulsión global"](https://www.elperiodico.com/es/barcelona/20260618/collboni-alcaldes-foro-economico-y-social-del-mediterraneo-competitividad-sur-europa-convulsion-global-131529626)<br>
+11:45 [¡Adiós comisiones! Descubre imagin: tu cuenta 100 % online sin gastos extra](https://www.elperiodico.com/es/shopping/20260618/imagin-cuenta-caixa-adios-comisiones-bc-131539762)<br>
+11:43 [Chema Casas (Telefónica): “Europa tiene demasiada dependencia de tecnologías que no creamos aquí. Vamos tarde”](https://www.elperiodico.com/es/economia/20260618/foro-mediterraneo-telefonica-chema-casas-131542849)<br>
+11:33 [Irán y EEUU firman una paz que parecía imposible y arrancarán mañana en Suiza las negociaciones sobre el programa nuclear](https://www.elperiodico.com/es/internacional/20260618/iran-eeuu-firman-paz-imposible-que-pasa-ahora-negociaciones-programa-nuclear-131542136)<br>
+11:30 [La cocaína despunta como la droga que provoca más peticiones de ayuda: "Empecé con 14 años por diversión y me ha robado media vida"](https://www.elperiodico.com/es/sociedad/20260618/cocaina-droga-adiccion-cataluna-tratamiento-131492477)<br>
+11:27 [Albares reivindica Barcelona como "espacio de diálogo" en un mundo marcado por "el lenguaje de la fuerza"](https://www.elperiodico.com/es/internacional/20260618/albares-exteriores-gobierno-espana-131541816)<br>
+11:00 [El Ayuntamiento compra los locales del Taller de Músics en el Raval](https://www.elperiodico.com/es/ocio-y-cultura/20260618/ayuntamiento-compra-locales-taller-musics-131539653)<br>
+10:29 [El tumor que crece sin avisar: por qué el cáncer de riñón suele detectarse demasiado tarde](https://www.elperiodico.com/es/salud/20260618/tumor-crece-avisar-cancer-rinon-131538416)<br>
+10:24 [Francesc Torralba, catedrático de Ética y Filosofía: "El clasismo y el racismo son incompatibles con el humanismo"](https://www.elperiodico.com/es/sociedad/20260618/foro-mediterraneo-prensa-iberica-francesc-torralba-profesor-etica-131535454)<br>
+09:55 [Hereu: "El arco mediterráneo es el gran motor económico de España"](https://www.elperiodico.com/es/economia/20260618/jordi-hereu-mediterraneo-gran-motor-economico-espana-iii-foro-mediterraneo-131536694)<br>
+09:34 [Foro del Mediterráneo: segunda jornada, en imágenes](https://www.elperiodico.com/es/fotos/economia/foro-mediterraneo-segunda-jornada-imagenes-fotos-131535894)<br>
+09:30 [¿La Ryanair de los cines? Cinesa empieza a aplicar precios distintos según la fila y ubicación de la butaca](https://www.elperiodico.com/es/ocio-y-cultura/20260618/ryanair-cines-cinesa-empieza-aplicar-131535369)<br>
+09:30 [Acompañamiento digital: las herramientas de Meta para ayudar a las familias con hijos adolescentes](https://www.elperiodico.com/es/economia/20260618/acompanamiento-digital-herramientas-meta-ayudar-bc-131486934)<br>
 09:22 [Así fue la cena de bienvenida previa al III Foro del Mediterráneo](https://www.elperiodico.com/es/videos/economia/cena-bienvenida-previa-iii-foro-mediterraneo/131535339.shtml)<br>
 09:17 [Muere la actriz Daveigh Chase, la niña de 'The Ring' y voz de Lilo en 'Lilo & Stitch' en inglés, a los 35 años](https://www.elperiodico.com/es/gente/20260618/muere-daveigh-chase-the-ring-lilo-35-anos-131534434)<br>
+09:17 [Muere la actriz Daveigh Chase, la niña de 'The Ring' y voz de Lilo en 'Lilo & Stitch' en inglés, a los 35 años](https://www.elperiodico.com/es/ocio-y-cultura/20260618/muere-daveigh-chase-the-ring-lilo-35-anos-131534434)<br>
 09:16 [Precio del petróleo hoy, 18 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260618/precio-petroleo-hoy-18-junio-dv-131535099)<br>
 09:11 [Mario Samper, presidente de la Asociación de Víctimas de Adamuz](https://www.elperiodico.com/es/videos/sociedad/mario-samper-presidente-asociacion-victimas/131535022.shtml)<br>
 09:11 [Muere a los 35 años la actriz Daveigh Chase, protagonista de 'The Ring' y voz de Lilo en 'Lilo & Stitch'](https://www.elperiodico.com/es/ocio-y-cultura/20260618/muere-35-anos-actriz-daveigh-131534567)<br>
