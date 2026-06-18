@@ -4,12 +4,12 @@ This folder contains a Visual Studio Android solution for the `NewsPortal` app.
 
 ## Build an installable APK
 
-1. Open `android-app-src/NewsPortal.sln` in Microsoft Visual Studio 2022 or newer with the .NET Android workload installed.
+1. Open `android-app-src/NewsPortal.sln` in Microsoft Visual Studio 2022 17.14 or newer with the .NET 10 Android workload installed.
 2. Select the `Release` configuration.
 3. Build the `NewsPortal` project.
-4. The APK is produced under `android-app-src/NewsPortal/bin/Release/net8.0-android/`.
+4. The APK is produced under `android-app-src/NewsPortal/bin/Release/net10.0-android/`.
 
-You can also build from a machine with the .NET Android workload installed:
+You can also build from a machine with the .NET 10 Android workload installed:
 
 ```bash
 dotnet build android-app-src/NewsPortal.sln -c Release
