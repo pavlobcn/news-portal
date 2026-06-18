@@ -1,5 +1,653 @@
 [
   {
+    "title": "La cabra tira al monte",
+    "link": "https://www.elperiodico.com/es/deportes/20260618/cabra-tira-monte-131563209",
+    "pubDate": "2026-06-18 17:09:05",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Celine Cousteau: \"Como el Mediterráneo es semi cerrado se está calentando y acidificando más rápidamente que océano abierto\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/celine-cousteau-mediterraneo-semi-cerrado/131563593.shtml",
+    "pubDate": "2026-06-18 17:04:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Txus Vidorreta, nuevo entrenador del Unicaja",
+    "link": "https://www.elperiodico.com/es/deportes/20260618/txus-vidorreta-nuevo-entrenador-unicaja-131563127",
+    "pubDate": "2026-06-18 17:03:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El preparador vasco, que sustituye a Ibon Navarro, llega a Málaga tras una década en La Laguna Tenerife. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Costas Kadis, comisario europeo de Pesca: \"Bruselas presentará en 2027 su nueva ley de los océanos, que será histórica\"",
+    "link": "https://www.elperiodico.com/es/videos/economia/costas-kadis-comisario-europeo-pesca/131563455.shtml",
+    "pubDate": "2026-06-18 17:02:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Литві підписали коаліційну угоду без участі ультраправих",
+    "link": "https://ua.korrespondent.net/world/4887561-u-lytvi-pidpysaly-koalitsiinu-uhodu-bez-uchasti-ultrapravykh",
+    "pubDate": "2026-06-18 17:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464774.png\">Уряд країни планує очолити лідер соціал-демократів Міндаугас Сінкявічюс. Він замінить Інгу Ругінене, яка обіймала посаду прем'єр-міністра менше року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La cineasta francesa Alice Douard debuta en el largometraje con '15 pruebas de amor', un drama luminoso sobre la maternidad",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260618/cineasta-francesa-alice-douard-debuta-131551465",
+    "pubDate": "2026-06-18 17:00:23",
+    "category": "",
+    "description": "<h2>El filme de Alice Douard retrata con luminosidad las adversidades y la burocracia que una pareja de lesbianas debe superar para tener un hijo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nazareth Castellanos, neurocientífica: \"Hay que hacer que el nivel de alfabetización en higiene mental de la sociedad aumente\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260618/nazareth-castellanos-neurocientifica-apesta-mentalmente-dano-dv-131323344",
+    "pubDate": "2026-06-18 17:00:00",
+    "category": "",
+    "description": "<h2>La neurocientífica reivindica que \"hay que hacer que el nivel de alfabetización en higiene mental de la sociedad aumente\"</h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20260530/neurociencia-nazareth-castellanos-vemos-cosas-como-somos-dv-130446776\">La neurocientífica Nazareth Castellanos: \"No vemos las cosas como son, sino como somos\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260507/naturaleza-mejora-pacientes-hospitalizados-nazareth-castellanos-estudios-dv-129579199\" >Nazareth Castellanos, neurocientífica: \"Los pacientes hospitalizados que veían árboles desde su ventana tenían mejor pronóstico\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La reforma económica de Díaz-Canel para Cuba recibe la bendición de la cúpula del Partido Comunista y del expresidente Raúl Castro",
+    "link": "https://www.elperiodico.com/es/internacional/20260618/reforma-economica-diaz-canel-cuba-recibe-aprobacion-cupula-partido-comunista-expresidente-raul-castro-131563012",
+    "pubDate": "2026-06-18 16:54:46",
+    "category": "",
+    "description": "<h2>EEUU no ha comentado de momento las medidas y mantiene su política de máxima presión en todos los frentes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "HIMARS навчили збивати Іскандери та Кинджали",
+    "link": "https://ua.korrespondent.net/world/4887559-HIMARS-navchyly-zbyvaty-iskandery-ta-kyndzhaly",
+    "pubDate": "2026-06-18 16:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464762.jpg\">Нова версія HIMARS системи отримала ракети Patriot та здатність перехоплювати балістичні цілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido en Barcelona tras intentar okupar el piso de una mujer fallecida, cambiar la cerradura y robar 1.500 euros",
+    "link": "https://www.elperiodico.com/es/barcelona/20260618/detenido-ciutat-vella-okupa-piso-fallecida-robo-1500-euros-131561962",
+    "pubDate": "2026-06-18 16:53:39",
+    "category": "",
+    "description": "<h2>El nieto de la propietaria dio la voz de alarma al descubrir los hechos cuando gestionaba la herencia</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/castelldefels/20260616/detenidos-menores-robos-viviendas-castelldefels-camaras-seguridad-131453303\" >Dos menores detenidos por entrar a robar en varias casas de Castelldefels la misma noche</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260613/detenido-robos-casas-mujeres-mayores-sant-andreu-barcelona-131362419\" >Detenido un ladrón que usaba el traductor del móvil para intimidar a ancianas y robarles en Barcelona</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Celine Cousteau: \"La gente ve la posidonia y no entiende por qué es tan importante\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/celine-cousteau-gente-ve-posidonia-video/131562766.shtml",
+    "pubDate": "2026-06-18 16:51:14",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El TEDH rechaza una demanda contra la sentencia que ordena dar más castellano en la escuela Turó del Drac de Canet",
+    "link": "https://www.elperiodico.com/es/sociedad/20260618/tedh-rechaza-demanda-sentencia-ordena-canet-de-mar-catalan-escuela-131562212",
+    "pubDate": "2026-06-18 16:50:30",
+    "category": "",
+    "description": "<h2>Argumenta que la enseñanza sólo en catalán situaba a las familias castellanohablantes en situación de desventaja</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20211210/familias-colegio-turo-del-drac-canet-de-mar-sentencia-tsjc-25-por-ciento-castellano-12964850\">Las familias del colegio Turó del Drac de Canet se desmarcan de las amenazas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Британський проспект Ітаума зустрінеться з Хрговичем: дата і місце бою",
+    "link": "https://ua.korrespondent.net/sport/boks/4887556-brytanskyi-prospekt-itauma-zustrinetsia-z-khrhovychem-data-i-mistse-boui",
+    "pubDate": "2026-06-18 16:47:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464744.jpg\">Про планований поєдинок відомо, що вже визначено дату проведення протистояння та арену, де відбудеться бій.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Costas Kadis, comisario europeo de Pesca, anuncia una ley europea de los océanos para 2027: \"Será histórica\"",
+    "link": "https://www.elperiodico.com/es/economia/20260618/foro-mediterraneo-costas-kadis-comisario-pesca-ley-oceanos-131562139",
+    "pubDate": "2026-06-18 16:42:35",
+    "category": "",
+    "description": "<h2>\"El futuro de nuestro litoral pasa por nuevos modelos de negocio, como el pescaturismo y la innovación en bioeconomía\", defiende el chipriota</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Молдові видали ордер на арешт олігарха-втікача Шора",
+    "link": "https://ua.korrespondent.net/world/4887554-u-moldovi-vydaly-order-na-aresht-oliharkha-vtikacha-shora",
+    "pubDate": "2026-06-18 16:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464759.jpg\">Шор з липня 2013 року до вересня 2014 року міг організувати та координувати злочинну групу, яка викрала з банку 100 млн дол.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Британія збільшить рекордний пакет дронів для ЗСУ",
+    "link": "https://ua.korrespondent.net/world/4887551-brytaniia-zbilshyt-rekordnyi-paket-droniv-dlia-zsu",
+    "pubDate": "2026-06-18 16:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464758.jpg\">Також українські військові отримають від британців сотні ракет для протиповітряної оборони та радари.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Боєць Нацгвардії у полоні Росії знущався з інших українців",
+    "link": "https://ua.korrespondent.net/ukraine/4887550-boiets-natshvardii-u-poloni-rosii-znuschavsia-z-inshykh-ukraintsiv",
+    "pubDate": "2026-06-18 16:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464746.jpg\">Суд відправив під варту колишнього військовополоненого, якого підозрюють у знущанні з інших бійців у колонії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anna Golsa y Tomàs Font conversan sobre IA, talento y productividad",
+    "link": "https://www.elperiodico.com/es/videos/economia/anna-golsa-tomas-font-conversan-video/131561826.shtml",
+    "pubDate": "2026-06-18 16:34:02",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tiempo de acceso a medicamentos para enfermedades raras baja a 22 meses en 2026",
+    "link": "https://www.elperiodico.com/es/sanidad/20260618/tiempo-acceso-medicamentos-enfermedades-raras-131558675",
+    "pubDate": "2026-06-18 16:29:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Catalunya, Comunidad de Madrid y Andalucía fueron las comunidades con mayor actividad investigadora en dolencias minoritarias en 2025</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260522/vivir-sin-defensas-inmunodeficiencia-rara-enfermedad-130347420\">Vivir sin defensas, la inmunodeficiencia rara de Laura: \"Aprendes a convivir con la incertidumbre cuando dejas de pensar en la enfermedad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La revolución del Citroën Berlingo para el mercado profesional",
+    "link": "https://www.elperiodico.com/es/motor/20260618/revolucion-citroen-berlingo-mercado-profesional-131549778",
+    "pubDate": "2026-06-18 16:28:02",
+    "category": "",
+    "description": "<h2>Estrena el sistema modular Flexiseat, ofrece motores térmicos y eléctricos con hasta 270 km de autonomía, y tendrá un precio inferior al resto de la gama </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни активізують FPV-удари по цивільних об’єктах Запоріжжя - ГУР",
+    "link": "https://ua.korrespondent.net/ukraine/4887547-rosiiany-aktyvizuuit-FPV-udary-po-tsyvilnykh-obiektakh-zaporizhzhia-hur",
+    "pubDate": "2026-06-18 16:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464745.jpg\">Для реалізації злочинних планів окупаційним підрозділам обіцяють збільшити обсяги постачання ударних дронів-камікадзе.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamine llega sobre la campana a la concentración de España",
+    "link": "https://www.elperiodico.com/es/deportes/20260618/lamine-llega-campana-concentracion-espana-131542272",
+    "pubDate": "2026-06-18 16:20:23",
+    "category": "",
+    "description": "<h2>El internacional español llegó cinco minutos antes de que acabara el tiempo del día libre del equipo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Громадянин Таджикистану вперше здався в полон через проєкт Хочу жить",
+    "link": "https://ua.korrespondent.net/ukraine/4887544-hromadianyn-tadzhykystanu-vpershe-zdavsia-v-polon-cherez-proiekt-khochu-zhyt",
+    "pubDate": "2026-06-18 16:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464743.jpg\">Після двох тижнів виживання без їжі і води він разом із товаришем звернувся до проєкту Хочу жить.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Àlex Márquez: “Accidentes como el mío... o los aceptas o te retiras, y aquí estoy”",
+    "link": "https://www.elperiodico.com/es/deportes/20260618/alex-marquez-accidentes-o-aceptas-131558894",
+    "pubDate": "2026-06-18 16:16:10",
+    "category": "",
+    "description": "<h2 class=\"item\">En pie, señoras y señores, el subcampeón del mundo de MotoGP está de regreso. Tras la vuelta de su hermano Marc, que logró el doblete en Hungría, ahora vuelve Àlex, el 'Pistolas'. Vuelve tras un accidente escalofriante en Montmeló. \"Vuelvo feliz\". Y, sí, su sonrisa es definitiva.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rocío Blanco: \"Que empresas de todo el mundo elijan Andalucía para invertir su dinero es señal de que algo estaremos haciendo bien\"",
+    "link": "https://www.elperiodico.com/es/videos/economia/rocio-blanco-empresas-mundo-elijan/131561040.shtml",
+    "pubDate": "2026-06-18 16:15:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Капотня палає, нафта дешевшає: подвійний удар по Кремлю",
+    "link": "https://ua.korrespondent.net/articles/4887538-kapotnia-palaie-nafta-deshevshaie-podviinyi-udar-po-kremlui",
+    "pubDate": "2026-06-18 16:15:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464730.jpg\">Рамкова мирна угода між США та Іраном вже стала одним із найважливіших факторів впливу на світовий нафтовий ринок. Але РФ не матиме кривавих нафтодоларів на війну насамеред через план України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jaime Fernández funda Agrado, una iniciativa de surf 'queer': \"El colectivo LGTBQ+ sigue invisibilizado en este deporte\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260618/jaime-fernandez-moda-iniciativa-surf-queer-lgtb-dv-131279568",
+    "pubDate": "2026-06-18 16:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El proyecto, que nace de una experiencia transformadora en Filipinas, busca crear espacios para que las personas LGBTQ+ puedan practicar surf desde la autenticidad y el sentimiento de pertenencia</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las empresas encaran el reto de las bajas laborales: \"O tienes un modelo 'sexy' o el absentismo es alto\"",
+    "link": "https://www.elperiodico.com/es/economia/20260618/absentismo-empresas-modelo-sexy-atraer-talento-iii-foro-mediterraneo-131560933",
+    "pubDate": "2026-06-18 16:12:45",
+    "category": "",
+    "description": "<h2>Eurofirms Group y Wolters Kluwer señalan que todos los profesionales, desde los altos ejecutivos a los oficios, deben adaptarse ante la irrupción de la IA</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський анонсував F-16 від Бельгії",
+    "link": "https://ua.korrespondent.net/ukraine/4887540-zelenskyi-anonsuvav-F-16-vid-belhii",
+    "pubDate": "2026-06-18 16:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464731.jpg\">Бельгія ухвалила рішення передати до ЗСУ більше винищувачів у поточному році, ніж обіцяла раніше.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Їдьте, якщо слабкі\". Як відреагували Z-блогери на удари по Москві",
+    "link": "https://ua.korrespondent.net/world/russia/4887536-yidte-yakscho-slabki-yak-vidreahuvaly-Z-blohery-na-udary-po-moskvi",
+    "pubDate": "2026-06-18 16:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464729.jpg\">Реакція російських пропагандистів на масштабні удари по Москві розділилась, але є досить емоційною.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno logra un pleno de victorias legislativas en el Congreso pese a la presión de socios y oposición para convocar elecciones",
+    "link": "https://www.elperiodico.com/es/politica/20260618/gobierno-victorias-congreso-presion-socios-elecciones-131560496",
+    "pubDate": "2026-06-18 16:05:50",
+    "category": "",
+    "description": "<h2>PP, Vox y Junts, con la abstención del PNV, aprueban una moción sin carácter vinculante en la que denuncia el \"bloqueo político\" de la legislatura</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Colaborar con Sanamente, parte esencial de la actividad científica",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260618/colaborar-sanamente-parte-esencial-actividad-131497606",
+    "pubDate": "2026-06-18 16:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">\"La investigación que no llega al ciudadano es investigación incompleta\"</h2><h2 class=\"item\">\"No se cambian actitudes sociales frente a la salud mental desde las revistas científicas sino desde la prensa general que la gente lee\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fabrizio Favara y Adolfo Utor hablan en el III Foro Económico y Social del Mediterráneo sobre cómo conectar territorios",
+    "link": "https://www.elperiodico.com/es/videos/economia/fabrizio-favara-adolfo-utor-hablan/131559651.shtml",
+    "pubDate": "2026-06-18 15:56:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Верховний Суд не поновив ексголову ОАСК Вовка на посаді",
+    "link": "https://ua.korrespondent.net/ukraine/4887537-verkhovnyi-sud-ne-ponovyv-eksholovu-oask-vovka-na-posadi",
+    "pubDate": "2026-06-18 15:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464717.jpg\">Павло Вовк - останній голова ліквідованого у грудні 2022 року Окружного адміністративного суду міста Києва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Golpe de calor en perros: síntomas, prevención y cómo detectarlo",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260618/golpe-calor-perros-sintomas-prevencion-dv-11890787",
+    "pubDate": "2026-06-18 15:51:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Aunque hay razas más propensas que otras, cualquier peludo puede ser víctima de las altas temperaturas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20250626/ola-calor-perros-gatos-consejos-dv-14107154\" >Cómo afecta la ola de calor a perros y gatos: consejos para refrescarlos y mantenerlos seguros</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20220727/perros-calor-lista-mejor-peor-dv-14135379\" >La lista de razas de perros que mejor y peor soportan el calor extremo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joan Manuel Soldevilla gana el premio de ensayo de los Bertrana",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260618/joan-manuel-soldevilla-gana-premio-131558756",
+    "pubDate": "2026-06-18 15:48:23",
+    "category": "",
+    "description": "<h2 class=\"item\">Jordi Campoy Boada se lleva el galardón de novela, Joan Tomàs Martínez Grimalt el de poesía y Laia Aguilar el juvenil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tecnología farmacéutica",
+    "link": "https://www.elperiodico.com/es/opinion/20260618/tecnologia-farmaceutica-articulo-josep-maria-fonalleras-131559009",
+    "pubDate": "2026-06-18 15:48:00",
+    "category": "",
+    "description": "<h2>Las farmacias ya no usarán ni cúter ni celo para pegar el cartón de los medicamentos: Sanidad eliminará el cupón precinto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Calor en el Mundial: ¿cómo han sido las temperaturas en competiciones anteriores?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260618/calor-mundial-temperaturas-competiciones-anteriores-131558183",
+    "pubDate": "2026-06-18 15:46:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Las altas temperaturas han marcado algunos partidos de las últimas décadas, con registros de 30°C  en enfrentamientos de fases eliminatorias</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La junta de Grifols aprueba reducir capital hasta un 10%",
+    "link": "https://www.elperiodico.com/es/economia/20260618/junta-grifols-aprueba-reducir-capital-131559115",
+    "pubDate": "2026-06-18 15:46:02",
+    "category": "",
+    "description": "<h2>Los accionistas dan luz verde a que la junta pueda solicitar que las acciones de clase A coticen en el Nasdaq norteamericano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Es inevitable\": Apple confirma que aumentará el precio de sus productos por culpa de la IA",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260618/inevitable-apple-confirma-aumentara-precio-tim-cook-iphone-mac-ipad-iwatch-movil-chips-ia-131557769",
+    "pubDate": "2026-06-18 15:45:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El incremento \"sin precedentes\" de la demanda de chips de memoria RAM ha llevado a una escasez de estos circuitos vitales para la electrónica de consumo que han obligado a Apple a dejar de vender algunos modelos de Mac Studio y Mac Mini</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260520/moviles-factura-electricidad-ia-encareciendo-127075489\" target=\"_blank\">De los móviles a tu factura de electricidad: así es cómo la IA ya está encareciendo tu vida</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La complejidad de la semana",
+    "link": "https://www.elperiodico.com/es/opinion/20260618/complejidad-semana-lunes-escritores-articulo-juan-tallon-131558609",
+    "pubDate": "2026-06-18 15:38:43",
+    "category": "",
+    "description": "<h2>El lunes se te concede la oportunidad de rectificar, de intentarlo de nuevo, de empezar, partir del cero más profundo, que es la nada, y llegar a algo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iryo y Baleària abogan por un Mediterráneo bien conectado: \"La intermodalidad es clave, pero faltan infraestructuras y una regulación favorable\"",
+    "link": "https://www.elperiodico.com/es/economia/20260618/iryo-balearia-conectado-intermodalidad-infraestructuras-regulacion-foro-mediterraneo-131558629",
+    "pubDate": "2026-06-18 15:33:41",
+    "category": "",
+    "description": "<h2>\"La puntualidad te dice cuando un sistema de conexiones funciona, es un síntoma de que ahora mismo no está bien\", ha señalado el director general de la compañía ferroviaria</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Світоліна у чвертьфіналі в Берліні на турнірі WTA 500",
+    "link": "https://ua.korrespondent.net/sport/tenis/4887530-svitolina-u-chvertfinali-v-berlini-na-turniri-WTA-500",
+    "pubDate": "2026-06-18 15:32:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464670.jpg\">Українська тенісистка успішно подолала опір суперниці у другому колі змагань.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав чотири гарячі напрямки на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4887529-henshtab-nazvav-chotyry-hariachi-napriamky-na-fronti",
+    "pubDate": "2026-06-18 15:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464704.jpg\">Головні зусилля російські окупанти концентрують на Лиманському і Покровському напрямках на Донеччині.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El envejecimiento disparará los casos de ELA en Europa: un 40% más en los próximos 25 años",
+    "link": "https://www.elperiodico.com/es/sanidad/20260618/envejecimiento-disparara-casos-ela-europa-anos-131556749",
+    "pubDate": "2026-06-18 15:26:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El coste medio por paciente supera los 50.000 euros anuales, asociado tanto a la progresión de la discapacidad como a la necesidad de recursos asistenciales continuos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260618/siete-comunidades-conceden-ayudas-marca-ley-ela-131543641\">Solo seis comunidades conceden las ayudas que marca la ley a los pacientes con ELA: \"Las prestaciones deben llegar de forma rápida\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Митрополит РПЦ отримав підозру у фінансуванні війни проти України",
+    "link": "https://ua.korrespondent.net/ukraine/4887528-mytropolyt-rpts-otrymav-pidozru-u-finansuvanni-viiny-proty-ukrainy",
+    "pubDate": "2026-06-18 15:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464703.png\">Йдеться про митрополита Марка, який також є учасником російського мотоклубу Нічні вовки, та внесеного до санкційних списків низки держав.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anna Carrió, pastelera catalana, da la receta de sus cocas de Sant Joan: de la tradicional de crema a la de mascarpone, arándanos y cerezas o chocolate",
+    "link": "https://www.elperiodico.com/es/gastronomia/recetas/20260618/coca-sant-joan-anna-pastelera-oriol-carrio-barcelona-dv-131512554",
+    "pubDate": "2026-06-18 15:24:59",
+    "category": "",
+    "description": "<h2>La copropietaria de Oriol Carrió Barcelona propone también una hecha con \"mandarina, kiwi y arándanos\" para las noches de verano: \"Apetece más algo fresco\"</h2><h2><a href=\"https://www.elperiodico.com/es/gastronomia/20260602/pasteleria-girona-mejor-coca-tradicional-sant-jordi-dv-130725328\">La pastelería de Girona donde se hace la mejor coca tradicional de Sant Joan de Catalunya</a></h2><h2><a href=\"https://www.elperiodico.com/es/gastronomia/20260527/mejores-cocas-sant-joan-2026-catalunya-130701132\">Estas son las mejores cocas de Sant Joan de Catalunya 2026</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Patti Smith se rinde ante Rosalía tras su concierto en Nueva York: \"Conquistó un corazón que ya estaba conquistado\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260618/patti-smith-rinde-rosalia-concierto-131557079",
+    "pubDate": "2026-06-18 15:22:29",
+    "category": "",
+    "description": "<h2 class=\"item\">La artista estadounidense elogia públicamente a la catalana tras su segundo concierto en el Madison Square Garden</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Prevenir para educar, no para controlar",
+    "link": "https://www.elperiodico.com/es/opinion/20260618/prevenir-educar-controlar-mossos-articulo-gisela-riberas-131521859",
+    "pubDate": "2026-06-18 15:22:26",
+    "category": "",
+    "description": "<h2>Los centros educativos no necesitan más vigilancia, sino más recursos</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260616/parlon-asegura-plan-piloto-mossos-escuela-via-paralisis-131443814\">Solo cuatro de los 14 centros de la prueba piloto de los mossos en la escuela siguen en ella</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marc Palahí, CEO de la Circular Bioeconomy Alliance: \"Debemos apostar por una economía regenerativa que trabaje en alianza con la naturaleza\"",
+    "link": "https://www.elperiodico.com/es/videos/economia/marc-palahi-ceo-circular-bioeconomy-economia-regenerativa/131557856.shtml",
+    "pubDate": "2026-06-18 15:19:00",
+    "category": "",
+    "description": "El especialista en economía circular reivindica \"un nuevo paradigma\" económico y social para que \"todos los sectores\" apuesten por sistemas más sostenibles con los recursos y la naturaleza",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рада розблокувала 1,56 трлн гривень на оборону",
+    "link": "https://ua.korrespondent.net/business/economics/4887526-rada-rozblokuvala-156-trln-hryven-na-oboronu",
+    "pubDate": "2026-06-18 15:15:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464702.jpg\">Спікер Руслан Стефанчук одразу підписав закон. Надалі він буде спрямований на підпис президенту Володимира Зеленського.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España reforzará su contribución a la OTAN con tanqueros, cazas y una fragata para compensar el reajuste de EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260618/espana-ofrece-otan-tanqueros-cazas-131557176",
+    "pubDate": "2026-06-18 15:06:08",
+    "category": "",
+    "description": "<h2>Estados Unidos ha anunciado que reducirá su contribución al modelo de disuasión y defensa de la alianza y ha exigido a los europeos que asuman más responsabilidades</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Parlament renueva su compromiso con el feminismo por los 50 años de las primeras jornadas catalanas de la mujer",
+    "link": "https://www.elperiodico.com/es/politica/20260618/parlament-feminismo-declaracion-jornadas-mujer-131555429",
+    "pubDate": "2026-06-18 14:59:16",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260308/eva-menor-consellera-feminisme-8m-burka-prostitucion-ley-trans-extrema-derecha-cataluna-entrevista-127597832\">Eva Menor: \"A las mujeres no hay que prohibirles nada, hay que generar las condiciones para que tengan libertad para todo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260522/catalunya-presupuestos-2026-conselleria-igualtat-feminisme-113-millones-lucha-violencia-machista-discursos-odio-127340757\">Presupuestos de la Generalitat 2026: El Govern dedica 113 millones a la lucha contra la violencia machista y los discursos de odio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Незаконно заволоділи будинком і квартирою: жителі Київщини отримали підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4887523-nezakonno-zavolodily-budynkom-i-kvartyroui-zhyteli-kyivschyny-otrymaly-pidozru",
+    "pubDate": "2026-06-18 14:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464688.jpg\">Потерпілого переконали переоформити її на сторонніх осіб. У результаті він втратив будинок із земельною ділянкою та квартиру загальною вартістю 5,6 млн грн.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Після атаки на НПЗ у Підмосков'ї пішов чорний дощ",
+    "link": "https://ua.korrespondent.net/world/russia/4887522-pislia-ataky-na-npz-u-pidmoskovi-pishov-chornyi-dosch",
+    "pubDate": "2026-06-18 14:52:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464676.jpg\">Дощ йшов при вітрі зі швидкістю близько 16 км/год, який міг переносити дим та продукти горіння.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Rey hará una escala en Ciudad de México camino del Mundial para reunirse con Sheinbaum",
+    "link": "https://www.elperiodico.com/es/politica/20260618/rey-escala-ciudad-mexico-reunion-sheinbaum-mundial-131555963",
+    "pubDate": "2026-06-18 14:44:10",
+    "category": "",
+    "description": "<h2>El encuentro ayudará a mejorar la relación entre ambos países después de la crisis provocada por la presidenta al exigir al Monarca una petición de perdón por los abusos durante la conquista de América </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los hogares de una sola persona serán los mayoritarios en 2040",
+    "link": "https://www.elperiodico.com/es/sociedad/20260618/unipersonales-superaran-hogares-dospersonas-131494966",
+    "pubDate": "2026-06-18 14:42:09",
+    "category": "",
+    "description": "<h2>El número de hogares crecerá en casi 2,2 millones en los próximos 15 años si se mantienen las tendencias demográficas, según el INE</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Секснасильство над дітьми: судитимуть засновника реабілітаційного центру",
+    "link": "https://ua.korrespondent.net/ukraine/4887519-seksnasylstvo-nad-ditmy-sudytymut-zasnovnyka-reabilitatsiinoho-tsentru",
+    "pubDate": "2026-06-18 14:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464669.png\">Чоловік упродовж 15 років існування закладу (з 2006 по 2020 роки) регулярно вчиняв сексуальне насильство над вихованками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Глава МЗС Ізраїлю розірвав контакти з головною дипломаткою ЄС Каллас",
+    "link": "https://ua.korrespondent.net/world/4887517-hlava-mzs-izrailui-rozirvav-kontakty-z-holovnoui-dyplomatkoui-yes-kallas",
+    "pubDate": "2026-06-18 14:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464657.jpg\">Свій вчинок ізраїльський міністр пояснив тим, що Каллас порівняла Ізраїль із Південною Африкою часів апартеїду.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Porsche Taycan 2027 simula un cambio de marchas mecánico",
+    "link": "https://www.elperiodico.com/es/motor/20260618/porsche-taycan-2027-electrico-cambio-marchas-simulado-bateria-105-kw-131510939",
+    "pubDate": "2026-06-18 14:16:16",
+    "category": "",
+    "description": "<h2>El eléctrico de Porsche incorpora el sistema E-Shift con ocho marchas simuladas, batería de 105 kWh y un nuevo entorno digital</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "НБУ знову зберіг облікову ставку на рівні 15%",
+    "link": "https://ua.korrespondent.net/business/financial/4887515-nbu-znovu-zberih-oblikovu-stavku-na-rivni-15",
+    "pubDate": "2026-06-18 14:13:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464656.jpg\">Таке рішення забезпечує достатню жорсткість поточних монетарних умов, вважають у Нацбанку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Empiezan las obras para abrir al vecindario los jardines de la Font del Carbó junto al Park Güell",
+    "link": "https://www.elperiodico.com/es/barcelona/20260618/obras-font-del-carbo-barcelona-parque-park-guell-huertos-gracia-131547844",
+    "pubDate": "2026-06-18 14:08:58",
+    "category": "",
+    "description": "<h2>El espacio, hasta ahora cerrado y abandonado, se transformará en un parque con huertos y zonas de estancia pensadas para los vecinos</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260327/entradas-gratis-park-guell-residentes-2026-128491346\" >Cómo entrar gratis en el Park Güell si vives en Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260415/barcelona-cancela-cena-centenario-park-guell-polemica-vecinal-protesta-129138406\" >Barcelona cancela la cena popular del centenario del Park Güell tras la polémica vecinal</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ucrania lanza su mayor ataque contra Moscú en dos años",
+    "link": "https://www.elperiodico.com/es/internacional/20260618/ucrania-lanza-mayor-ataque-moscu-131544104",
+    "pubDate": "2026-06-18 14:03:01",
+    "category": "",
+    "description": "<h2>El ataque ha alcanzado una importante refinería de la capital rusa, bombardeada ya días atrás</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260618/guerra-ucrania-rusia-directo-ultima-126605559\">Guerra Ucrania - Rusia, en directo, última hora | El G7 anuncia el refuerzo de sus sanciones al petróleo y gas ruso</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ на 40 відсотків підніме витрати на війну - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4887512-rf-na-40-vidsotkiv-pidnime-vytraty-na-viinu-zmi",
+    "pubDate": "2026-06-18 14:01:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464644.jpg\">Для покриття витрат уряд має намір скоротити фінансування цивільних статей та використати накопичені резерви.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo anima a dar pasos a los grupos políticos que piden elecciones: \"hay que posicionarse\"",
+    "link": "https://www.elperiodico.com/es/politica/20260618/feijoo-admite-contactos-partidos-mocion-131552658",
+    "pubDate": "2026-06-18 13:57:32",
+    "category": "",
+    "description": "<h2>-Exige a Junts y PNV que no sean “trileros” y apoyen una moción de censura instrumental: “Hagámoslo”</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Лукашенко відреагував на удар по автобусу в Брянській області РФ",
+    "link": "https://ua.korrespondent.net/world/4887509-lukashenko-vidreahuvav-na-udar-po-avtobusu-v-brianskii-oblasti-rf",
+    "pubDate": "2026-06-18 13:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464632.jpg\">Атаку на автобус, який перевозив білоруських дітей через Брянську область Росії, Лукашенко розцінює як \"спробу втягнути Білорусь у війну\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Кришка над Москвою\". Неймовірна атака України",
+    "link": "https://ua.korrespondent.net/world/russia/4887503-kryshka-nad-moskvoui-neimovirna-ataka-ukrainy",
+    "pubDate": "2026-06-18 13:47:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464631.jpg\">Тільки лінивий не відреагував: меми та жарти заполонили соцмережі після української атаки по Капотні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна повернула понад 500 тіл загиблих воїнів",
+    "link": "https://ua.korrespondent.net/ukraine/4887507-ukraina-povernula-ponad-500-til-zahyblykh-voiniv",
+    "pubDate": "2026-06-18 13:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464619.jpg\">Будуть проведені всі необхідні експертизи та ідентифікація репатрійованих тіл, запевнили в Коордштабі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Yolanda Díaz se reafirma en su reforma del registro de jornada pero evita concretar cuándo la aplicará",
+    "link": "https://www.elperiodico.com/es/economia/20260618/registro-jornada-yolanda-diaz-reafirma-reforma-no-concreta-cuando-131551789",
+    "pubDate": "2026-06-18 13:45:24",
+    "category": "",
+    "description": "<h2>La vicepresidenta segunda pretende suprimir el control horario a papel y boli para digitalizarlo y acotar las horas extra ilegales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Brisa vuelve a Gavà: empresarios del ocio nocturno descartan llevar el concurso del 'macrotardeo' a los tribunales",
+    "link": "https://www.elperiodico.com/es/barcelona/20260618/brisa-vuelve-gava-empresarios-ocio-descartan-llevar-concurso-macrotardeo-tribunales-131542747",
+    "pubDate": "2026-06-18 13:44:56",
+    "category": "",
+    "description": "<h2>Tras el éxito acumulado en 2025, el festival se celebrará en Gavà durante, al menos, dos años más y con la posibilidad de prorrogarlo</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260507/ofensiva-empresarial-pide-paralizar-concurso-publico-macrotardeo-gava-favorece-operador-129911879\" target=\"_blank\">Una ofensiva empresarial pide paralizar el concurso público de un macro 'tardeo' en Gavà: \"Favorece al anterior operador\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Oficial: Txus Vidorreta, al Unicaja hasta 2028",
+    "link": "https://as.com/baloncesto/oficial-txus-vidorreta-al-unicaja-hasta-2028-f202606-n/",
+    "pubDate": "2026-06-18 13:43:40",
+    "category": "Baloncesto",
+    "description": "Se confirma uno de los bombazos en los banquillos de ACB. El bilbaíno apuntaba a Zaragoza tras acabar una era en Tenerife, rival del club malagueño en el último lustro.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Масові звільнення: в Угорщині розвалюється медіаімперія Орбана - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4887504-masovi-zvilnennia-v-uhorschyni-rozvaluiietsia-mediaimperiia-orbana-zmi",
+    "pubDate": "2026-06-18 13:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464583.jpg\">Загалом роботу втрачають близько 400 журналістів, які працювали в проорбанських засобах масової інформації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El juez Calama imputa a las hijas y a la secretaria de Zapatero tras la declaración del expresidente",
     "link": "https://www.elperiodico.com/es/politica/20260618/juez-calama-imputa-hijas-secretaria-131550818",
     "pubDate": "2026-06-18 13:33:17",
@@ -72,6 +720,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Молдова отримала партію БТР з Німеччини",
+    "link": "https://ua.korrespondent.net/world/4887500-moldova-otrymala-partiui-btr-z-nimechchyny",
+    "pubDate": "2026-06-18 13:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464563.jpg\">До Молдови доставили п'ять найсучасніших бронетранспортерів Piranha-5, наданих урядом Німеччини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Detenido en L'Hospitalet de Llobregat un miembro de una banda de ladrones que cometió 24 asaltos a comercios",
     "link": "https://www.elperiodico.com/es/barcelona/hospitalet/20260618/detenido-lhospitalet-llobregat-miembro-banda-ladrones-robos-comercios-131549851",
     "pubDate": "2026-06-18 13:26:33",
@@ -108,6 +765,33 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Prisión provisional para el joven que mató al logopeda de su hijo en València",
+    "link": "https://www.elperiodico.com/es/sucesos/20260618/prision-crimen-logopeda-131550134",
+    "pubDate": "2026-06-18 13:22:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El hombre está investigado inicialmente, y sin perjuicio de ulterior calificación, por un delito de homicidio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Що відбувається?\": Сибіга звернувся до москвичів",
+    "link": "https://ua.korrespondent.net/ukraine/4887497-scho-vidbuvaietsia-sybiha-zvernuvsia-do-moskvychiv",
+    "pubDate": "2026-06-18 13:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464560.jpg\">Москва зазнала масованої атаки дронів. Головною ціллю знову став Московський НПЗ, на якому спалахнули маштабні пожежі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Київщині викрили земельну аферу на 31 мільйон гривень",
+    "link": "https://ua.korrespondent.net/ukraine/4887495-na-kyivschyni-vykryly-zemelnu-aferu-na-31-milion-hryven",
+    "pubDate": "2026-06-18 13:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464562.jpg\">Тривають слідчі дії з метою встановлення всіх осіб, причетних до незаконного заволодіння землею. Реєстраторці загрожує до шести років позбавлення волі.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Felipe VI: \"La fortaleza de este Foro reside en su capacidad de reunir miradas distintas\"",
     "link": "https://www.elperiodico.com/es/videos/economia/foro-mediterraneo-rey-felipe-fortaleza-distintas-miradas/131549659.shtml",
     "pubDate": "2026-06-18 13:16:43",
@@ -122,6 +806,15 @@
     "pubDate": "2026-06-18 13:13:08",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pérez Llorca:  \"El liderazgo económico del Mediterráneo no puede partir de la desigualdad entre territorios\"",
+    "link": "https://www.elperiodico.com/es/economia/20260618/perez-llorca-liderazgo-economico-mediterraneo-desigualdad-territorios-131549137",
+    "pubDate": "2026-06-18 13:11:48",
+    "category": "",
+    "description": "<h2>El presidente de la Generalitat Valenciana, insiste en sus críticas al modelo de financición autonómica, pone encima de la mesa los problemas hídricos y califica de \"impresentable\" el retraso en el corredor mediterráneo</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -387,11 +1080,29 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Radiografía sexual de España: uno de cada cuatro hombres admite haber pagado alguna vez por mantener relaciones sexuales",
+    "link": "https://www.elperiodico.com/es/sanidad/20260618/hombres-admite-pagado-alguna-vez-mantener-relaciones-sexuales-encuesta-cis-ministerio-de-sanidad-131534559",
+    "pubDate": "2026-06-18 12:04:57",
+    "category": "",
+    "description": "<h2 class=\"item\">Casi el 30% de las mujeres afirma haberse visto forzada alguna vez a hacer algo que no quería en una relación sexual, según la segunda edición de la Encuesta Nacional de Salud Sexual del CIS</h2><h2 class=\"item\">El 88,1% de la población cree que una relación entre personas del mismo sexo es tan respetable como una heterosexual; el porcentaje se duplicado desde 2009, cuando el apoyo apenas alcanzaba el 41,0%</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260613/sexo-residencias-mayores-tabu-deseo-131056742\">El sexo en los geriátricos: los profesionales piden \"acabar con el tabú\" y normalizar que “el deseo aún existe a los 90”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "КНДР відкликала посла з Британії через місяць після його призначення",
     "link": "https://ua.korrespondent.net/world/4887469-kndr-vidklykala-posla-z-brytanii-cherez-misiats-pislia-yoho-pryznachennia",
     "pubDate": "2026-06-18 11:59:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464482.jpg\">Таким чином Північна Корея відреагувала на санкції Британії через табори для депортованих українських дітей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miquel y Costas reduce beneficios y anuncia nuevas inversiones por 130 M€",
+    "link": "https://www.elperiodico.com/es/economia/20260618/miquel-costas-reduce-beneficios-anuncia-131536391",
+    "pubDate": "2026-06-18 11:57:26",
+    "category": "",
+    "description": "<h2>El grupo papelero anuncia la renovación de Jordi Mercader Barata como presidente</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20230619/miquel-costas-sucesion-tranquila-grandes-117649476\">Miquel y Costas, la sucesión tranquila de una de las grandes papeleras españolas</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260507/catalana-miquel-costas-gana-18-129972352\">La catalana Miquel y Costas gana 18 millones en el primer trimestre, un 22,5% menos, por el golpe del dólar y la tensión geopolítica</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -495,6 +1206,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El Real Madrid anuncia el fichaje de Konaté con la carta de libertad",
+    "link": "https://www.elperiodico.com/es/deportes/20260618/real-madrid-anuncia-fichaje-konate-131540499",
+    "pubDate": "2026-06-18 11:29:38",
+    "category": "",
+    "description": "<h2 class=\"item\">El central francés del Liverpool llega gratis y se convierte en el tercer fichaje blanco en ser oficial, tras Cucurella y Bernardo Silva</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260618/mercadeo-seleccion-victor-munoz-liverpool-osasuna-real-madrid-131537908\">Más mercadeo en la selección española: Víctor Muñoz se va al Liverpool por 40 millones</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Albares reivindica Barcelona como \"espacio de diálogo\" en un mundo marcado por \"el lenguaje de la fuerza\"",
     "link": "https://www.elperiodico.com/es/internacional/20260618/albares-exteriores-gobierno-espana-131541816",
     "pubDate": "2026-06-18 11:27:28",
@@ -527,6 +1247,15 @@
     "pubDate": "2026-06-18 11:14:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464447.jpg\">В середу в низці медіа поширювалась недостовірна інформація про нібито \"бомбардування Одеси морськими дронами\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jorge Pérez de Leza (Metrovacesa): \"No podemos esperar 20 años para resolver el problema de la vivienda: la redensificación es buena y necesaria\"",
+    "link": "https://www.elperiodico.com/es/economia/20260618/jorge-perez-leza-metrovacesa-foto-mediterraneo-131540138",
+    "pubDate": "2026-06-18 11:00:53",
+    "category": "",
+    "description": "<h2>El consejero delegado de Metrovacesa defiende la redensificación urbana, la colaboración público-privada y una mayor agilidad administrativa para responder a la escasez de vivienda en el arco mediterráneo</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
