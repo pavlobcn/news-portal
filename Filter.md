@@ -14,3 +14,4 @@
 - марихуана
 - estado de los embalses
 - portada de EL PERIÓDICO
+- qué hacer esta semana en Barcelona
