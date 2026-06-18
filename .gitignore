@@ -1,4 +1,4 @@
 RSS/
-/.vs
+**/.vs
 /android-app-src/NewsPortal/bin
 /android-app-src/NewsPortal/obj
