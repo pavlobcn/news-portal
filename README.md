@@ -1,87 +1,8 @@
-# News for 2026-06-18 17:12
+# News for 2026-06-18 17:16
 
 Previous day: [2026-06-17](./data/2026-06-17.md)
 
-## Topics
-
-### спорт
-16:47 [Британський проспект Ітаума зустрінеться з Хрговичем: дата і місце бою](https://ua.korrespondent.net/sport/boks/4887556-brytanskyi-prospekt-itauma-zustrinetsia-z-khrhovychem-data-i-mistse-boui) _ua.korrespondent.net_<br>
-16:20 [Lamine llega sobre la campana a la concentración de España](https://www.elperiodico.com/es/deportes/20260618/lamine-llega-campana-concentracion-espana-131542272) _www.elperiodico.com_<br>
-16:16 [Àlex Márquez: “Accidentes como el mío... o los aceptas o te retiras, y aquí estoy”](https://www.elperiodico.com/es/deportes/20260618/alex-marquez-accidentes-o-aceptas-131558894) _www.elperiodico.com_<br>
-16:15 [Jaime Fernández funda Agrado, una iniciativa de surf 'queer': "El colectivo LGTBQ+ sigue invisibilizado en este deporte"](https://www.elperiodico.com/es/sociedad/20260618/jaime-fernandez-moda-iniciativa-surf-queer-lgtb-dv-131279568) _www.elperiodico.com_<br>
-15:46 [Calor en el Mundial: ¿cómo han sido las temperaturas en competiciones anteriores?](https://www.elperiodico.com/es/sociedad/20260618/calor-mundial-temperaturas-competiciones-anteriores-131558183) _www.elperiodico.com_<br>
-15:32 [Світоліна у чвертьфіналі в Берліні на турнірі WTA 500](https://ua.korrespondent.net/sport/tenis/4887530-svitolina-u-chvertfinali-v-berlini-na-turniri-WTA-500) _ua.korrespondent.net_<br>
-13:33 [Cómo va el grupo L del Mundial con Inglaterra, Croacia, Ghana y Panamá](https://www.elperiodico.com/es/deportes/20260618/grupo-l-mundial-inglaterra-croacia-131550729) _www.elperiodico.com_<br>
-13:31 [Cómo va el grupo K del Mundial con Portugal, Colombia, Congo y Uzbekistán](https://www.elperiodico.com/es/deportes/20260618/grupo-k-mundial-portugal-colombia-131550540) _www.elperiodico.com_<br>
-13:28 [Cómo va el grupo J del Mundial con Argentina, Austria, Jordania y Argelia](https://www.elperiodico.com/es/deportes/20260618/grupo-j-mundial-argentina-austria-131550399) _www.elperiodico.com_<br>
-13:26 [Cómo va el grupo I del Mundial con Francia, Noruega, Senegal e Irak](https://www.elperiodico.com/es/deportes/20260618/grupo-mundial-francia-noruega-senegal-131550304) _www.elperiodico.com_<br>
-13:22 [El refugio de Iker Casillas (45 años) es un pueblo de 200 habitantes en la Sierra de Gredos: "Fue el primero en darlo a conocer en España y en el extranjero, y a día de hoy lo seguimos apreciando"](https://www.elperiodico.com/es/gente/20260618/refugio-iker-casillas-pueblo-sierra-gredos-dv-131533404) _www.elperiodico.com_<br>
-13:01 [Джошуа зробив несподіваний крок назустріч Ф’юрі перед майбутнім боєм](https://ua.korrespondent.net/sport/boks/4887488-dzhoshua-zrobyv-nespodivanyi-krok-nazustrich-fuiri-pered-maibutnim-boiem) _ua.korrespondent.net_<br>
-12:33 [Зірка українського тенісу отримав нову роль у клубі УПЛ](https://ua.korrespondent.net/sport/football/4887481-zirka-ukrainskoho-tenisu-otrymav-novu-rol-u-klubi-upl) _ua.korrespondent.net_<br>
-12:26 [Balance del Mundial (1ª jornada): África y Asia acechan a Europa y Sudámerica](https://www.elperiodico.com/es/deportes/20260618/balance-1a-jornada-mundial-2026-futbol-131546148) _www.elperiodico.com_<br>
-12:24 [De un nacimiento por accidente en Brooklyn a ser la estrella del Team USA: el efecto mariposa de Falorin Balogun](https://www.elperiodico.com/es/deportes/20260618/nacimiento-accidente-brooklyn-estrella-team-131537859) _www.elperiodico.com_<br>
-12:14 [З Ліверпуля до Мадрида: Реал оголосив про новий трансфер](https://ua.korrespondent.net/sport/football/4887472-z-liverpulia-do-madryda-real-oholosyv-pro-novyi-transfer) _ua.korrespondent.net_<br>
-11:37 [Jana Fernández se lanza a YouTube: lo que nunca viste de la Selección Española en la Eurocopa](https://www.elperiodico.com/es/deportes/20260618/jana-fernandez-lanza-youtube-viste-131540157) _www.elperiodico.com_<br>
-11:29 [El Real Madrid anuncia el fichaje de Konaté con la carta de libertad](https://www.elperiodico.com/es/deportes/20260618/real-madrid-anuncia-fichaje-konate-131540499) _www.elperiodico.com_<br>
-10:49 [Más mercadeo en la selección española: Víctor Muñoz se va al Liverpool por 40 millones](https://www.elperiodico.com/es/deportes/20260618/mercadeo-seleccion-victor-munoz-liverpool-osasuna-real-madrid-131537908) _www.elperiodico.com_<br>
-10:44 [Señoras y señores, respeten a Cristiano Ronaldo, por favor](https://www.elperiodico.com/es/deportes/20260618/senoras-senores-respeten-cristiano-ronaldo-131538011) _www.elperiodico.com_<br>
-10:26 [Colombia supera la trampa de Uzbekistán: con Luis Díaz todo es más fácil](https://www.elperiodico.com/es/deportes/20260618/colombia-supera-trampa-uzbekistan-luis-131537871) _www.elperiodico.com_<br>
-09:00 [Чемпіонат світу-2026: прев'ю восьмого ігрового дня – стартує другий тур](https://ua.korrespondent.net/sport/4887339-chempionat-svitu-2026-prevui-vosmoho-ihrovoho-dnia-startuie-druhyi-tur) _ua.korrespondent.net_<br>
-08:39 [Легендарний італієць повторив унікальний результат Блохіна](https://ua.korrespondent.net/sport/football/4887432-lehendarnyi-italiiets-povtoryv-unikalnyi-rezultat-blokhina) _ua.korrespondent.net_<br>
-08:13 [Daniel Vázquez hace historia y rompe prejuicios desde la natación artística](https://www.elperiodico.com/es/videos/sociedad/daniel-vazquez-historia-rompe-prejuicios-natacion-artistica/131533715.shtml) _www.elperiodico.com_<br>
-07:56 [Ліверпуль виграв боротьбу за вихованця Реала](https://ua.korrespondent.net/sport/football/4887426-liverpul-vyhrav-borotbu-za-vykhovantsia-reala) _ua.korrespondent.net_<br>
-07:25 [Колумбія без проблем розібралася з Узбекистаном](https://ua.korrespondent.net/sport/football/4887416-kolumbiia-bez-problem-rozibralasia-z-uzbekystanom) _ua.korrespondent.net_<br>
-07:07 [ЧС: Гана дотиснула Панаму в кінцівці матчу](https://ua.korrespondent.net/sport/football/4887411-chs-hana-dotysnula-panamu-v-kintsivtsi-matchu) _ua.korrespondent.net_<br>
-06:50 [Англія розпочала ЧС з видовищної перемоги над Хорватією](https://ua.korrespondent.net/sport/football/4887386-anhliia-rozpochala-chs-z-vydovyschnoi-peremohy-nad-khorvatiieui) _ua.korrespondent.net_<br>
-06:31 [Французький Брест повідомив про смерть головного тренера](https://ua.korrespondent.net/sport/football/4887379-frantsuzkyi-brest-povidomyv-pro-smert-holovnoho-trenera) _ua.korrespondent.net_<br>
-06:11 [Тренер ЛНЗ оцінив шанси команди після жеребкування Ліги конференцій](https://ua.korrespondent.net/sport/football/4887376-trener-lnz-otsinyv-shansy-komandy-pislia-zherebkuvannia-lihy-konferentsii) _ua.korrespondent.net_<br>
-06:01 [Las temperaturas alcanzan los 35ºC en el Mundial: así afecta el calor al rendimiento físico y mental de los futbolistas](https://www.elperiodico.com/es/sociedad/20260618/calor-mundial-efectos-rendimiento-deportivo-mental-futbolistas-cuerpo-cerebro-explicacion-131517019) _www.elperiodico.com_<br>
-00:10 [Doblete de Kane en el formidable pulso que deparan Inglaterra y Croacia (4-2)](https://www.elperiodico.com/es/deportes/20260618/doblete-kane-formidable-pulso-deparan-131526111) _www.elperiodico.com_<br>
-
-### ресторани, їжа
-15:24 [Anna Carrió, pastelera catalana, da la receta de sus cocas de Sant Joan: de la tradicional de crema a la de mascarpone, arándanos y cerezas o chocolate](https://www.elperiodico.com/es/gastronomia/recetas/20260618/coca-sant-joan-anna-pastelera-oriol-carrio-barcelona-dv-131512554) _www.elperiodico.com_<br>
-07:46 [Restaurante Cera 23: la "Galia de Astérix" que montaron tres amigos gallegos cumple 15 años en el Raval](https://www.elperiodico.com/es/gastronomia/restaurantes/20260618/cera-23-restaurante-barcelona-15-anos-131297911) _www.elperiodico.com_<br>
-07:45 [Los mejores restaurantes abiertos en Barcelona en lo que llevamos de 2026](https://www.elperiodico.com/es/gastronomia/restaurantes/20260618/mejores-restaurantes-abiertos-barcelona-ano-2026-130815563) _www.elperiodico.com_<br>
-07:43 [Catalunya Regió Mundial de la Gastronomia cerró con 1.887 adhesiones y unas 455 actuaciones](https://www.elperiodico.com/es/gastronomia/20260618/catalunya-regio-mundial-gastronomia-balance-actuaciones-131501088) _www.elperiodico.com_<br>
-07:00 [Los gastro 'hits' del verano: las tapas más frescas de Barcelona](https://www.elperiodico.com/es/que-hacer/donde-comer/20260618/gastro-hits-verano-barcelona-restaurantes-tapas-frescas-131510961) _www.elperiodico.com_<br>
-
-### вибори
-16:05 [El Gobierno logra un pleno de victorias legislativas en el Congreso pese a la presión de socios y oposición para convocar elecciones](https://www.elperiodico.com/es/politica/20260618/gobierno-victorias-congreso-presion-socios-elecciones-131560496) _www.elperiodico.com_<br>
-13:57 [Feijóo anima a dar pasos a los grupos políticos que piden elecciones: "hay que posicionarse"](https://www.elperiodico.com/es/politica/20260618/feijoo-admite-contactos-partidos-mocion-131552658) _www.elperiodico.com_<br>
-11:54 [Las elecciones en la circunscripción de Makerfield ponen a Starmer al borde del abismo](https://www.elperiodico.com/es/internacional/20260618/makerfield-manchester-elecciones-decisivas-futuro-starmer-partido-laborista-reino-unido-131543567) _www.elperiodico.com_<br>
-06:00 [Encuestas de las elecciones en Catalunya: así están los sondeos](https://www.elperiodico.com/es/politica/20260618/encuestas-elecciones-cataluna-sondeos-catalunya-124137879) _www.elperiodico.com_<br>
-
-### автомобілі
-16:28 [La revolución del Citroën Berlingo para el mercado profesional](https://www.elperiodico.com/es/motor/20260618/revolucion-citroen-berlingo-mercado-profesional-131549778) _www.elperiodico.com_<br>
-14:16 [El Porsche Taycan 2027 simula un cambio de marchas mecánico](https://www.elperiodico.com/es/motor/20260618/porsche-taycan-2027-electrico-cambio-marchas-simulado-bateria-105-kw-131510939) _www.elperiodico.com_<br>
-12:21 [Stellantis se une a Wayve y Uber para el despliegue de robotaxis a nivel mundial](https://www.elperiodico.com/es/motor/20260618/stellantis-une-waybe-uber-despliegue-robotaxis-131539889) _www.elperiodico.com_<br>
-10:21 [Nuevo Opel Astra: Más maduro, con un gran salto de calidad](https://www.elperiodico.com/es/motor/20260618/nuevo-opel-astra-131451054) _www.elperiodico.com_<br>
-09:18 [Markus Haupt: «Aceleremos juntos el futuro industrial del Mediterráneo»](https://www.elperiodico.com/es/economia/20260618/markus-haupt-aceleremos-futuro-industrial-bc-131535239) _www.elperiodico.com_<br>
-09:18 [Precio de la gasolina y diésel hoy, 18 de junio en España por la Guerra de Irán: desplome de los carburantes](https://www.elperiodico.com/es/economia/20260618/precio-gasolina-diesel-hoy-18-junio-dv-131535092) _www.elperiodico.com_<br>
-08:04 [Hyundai Staria Hybrid: el monovolumen que sobrevivió al SUV](https://www.elperiodico.com/es/motor/20260618/prueba-hyundai-staria-monovolumen-hibrido-hev-131507027) _www.elperiodico.com_<br>
-07:00 [Las tres zonas críticas que debes revisar en tu autocaravana antes de arrancar las vacaciones](https://www.elperiodico.com/es/motor/20260618/tres-zonas-criticas-debes-revisar-caravana-131420472) _www.elperiodico.com_<br>
-06:00 [Cinco trucos para gastar menos gasolina este verano si el combustible vuelve a subir de precio](https://www.elperiodico.com/es/motor/20260618/cinco-trucos-gastar-gasolina-verano-131507011) _www.elperiodico.com_<br>
-
-### телебачення
-09:01 [Crítica de 'Te encontraré' (Netflix): un reparto estelar hace creíble otra trama alocada de Harlan Coben](https://www.elperiodico.com/es/ocio-y-cultura/20260618/critica-encontrare-netflix-reparto-estelar-131492028) _www.elperiodico.com_<br>
-08:00 [¿Por qué es tan importante 'El Rosco' de 'Pasapalabra' que se despide este jueves de Antena 3? "Es mucho más que la prueba final"](https://www.elperiodico.com/es/tele/20260618/pasapalabra-rosco-antena-3-despedida-adios-131453970) _www.elperiodico.com_<br>
-07:00 [TVyMAS Jueves 18](https://www.elperiodico.com/es/videos/tele/tvymas-jueves-18/131513095.shtml) _www.elperiodico.com_<br>
-
-### виконавці поп музики
-15:22 [Patti Smith se rinde ante Rosalía tras su concierto en Nueva York: "Conquistó un corazón que ya estaba conquistado"](https://www.elperiodico.com/es/ocio-y-cultura/20260618/patti-smith-rinde-rosalia-concierto-131557079) _www.elperiodico.com_<br>
-12:26 [Sabrina Carpenter logra una orden de alejamiento de cinco años contra su presunto acosador](https://www.elperiodico.com/es/gente/20260618/sabrina-carpenter-orden-alejamiento-cinco-anos-presunto-acosador-131542158) _www.elperiodico.com_<br>
-11:19 [El Reggaeton Beach Festival cancela sus ediciones de 2026 y deja en el aire su continuidad](https://www.elperiodico.com/es/ocio-y-cultura/20260618/reggaeton-beach-festival-cancela-ediciones-entradas-2026-131539895) _www.elperiodico.com_<br>
-
-### пограбування, афера
-16:53 [Detenido en Barcelona tras intentar okupar el piso de una mujer fallecida, cambiar la cerradura y robar 1.500 euros](https://www.elperiodico.com/es/barcelona/20260618/detenido-ciutat-vella-okupa-piso-fallecida-robo-1500-euros-131561962) _www.elperiodico.com_<br>
-16:42 [У Молдові видали ордер на арешт олігарха-втікача Шора](https://ua.korrespondent.net/world/4887554-u-moldovi-vydaly-order-na-aresht-oliharkha-vtikacha-shora) _ua.korrespondent.net_<br>
-14:54 [Незаконно заволоділи будинком і квартирою: жителі Київщини отримали підозру](https://ua.korrespondent.net/ukraine/4887523-nezakonno-zavolodily-budynkom-i-kvartyroui-zhyteli-kyivschyny-otrymaly-pidozru) _ua.korrespondent.net_<br>
-13:26 [Detenido en L'Hospitalet de Llobregat un miembro de una banda de ladrones que cometió 24 asaltos a comercios](https://www.elperiodico.com/es/barcelona/hospitalet/20260618/detenido-lhospitalet-llobregat-miembro-banda-ladrones-robos-comercios-131549851) _www.elperiodico.com_<br>
-13:19 [На Київщині викрили земельну аферу на 31 мільйон гривень](https://ua.korrespondent.net/ukraine/4887495-na-kyivschyni-vykryly-zemelnu-aferu-na-31-milion-hryven) _ua.korrespondent.net_<br>
-
-## Other news
-
-### ua.korrespondent.net
+## ua.korrespondent.net
 17:02 [У Литві підписали коаліційну угоду без участі ультраправих](https://ua.korrespondent.net/world/4887561-u-lytvi-pidpysaly-koalitsiinu-uhodu-bez-uchasti-ultrapravykh)<br>
 16:54 [HIMARS навчили збивати Іскандери та Кинджали](https://ua.korrespondent.net/world/4887559-HIMARS-navchyly-zbyvaty-iskandery-ta-kyndzhaly)<br>
 16:37 [Британія збільшить рекордний пакет дронів для ЗСУ](https://ua.korrespondent.net/world/4887551-brytaniia-zbilshyt-rekordnyi-paket-droniv-dlia-zsu)<br>
@@ -151,13 +72,13 @@ Previous day: [2026-06-17](./data/2026-06-17.md)
 00:59 [РФ вдарила дронами по Сумах: є загиблий](https://ua.korrespondent.net/ukraine/4887384-rf-vdaryla-dronamy-po-sumakh-ye-zahyblyi)<br>
 00:45 [Росіян атакувала Київ і Полтаву балістикою](https://ua.korrespondent.net/ukraine/4887382-rosiian-atakuvala-kyiv-i-poltavu-balistykoui)<br>
 
-### as.com
+## as.com
 13:43 [Oficial: Txus Vidorreta, al Unicaja hasta 2028](https://as.com/baloncesto/oficial-txus-vidorreta-al-unicaja-hasta-2028-f202606-n/)<br>
 06:48 [Las franquicias, la apuesta definitiva de la Euroliga](https://as.com/baloncesto/las-franquicias-la-apuesta-definitiva-de-la-euroliga-f202606-n/)<br>
 06:47 [Valencia - Barcelona: horario, TV y dónde ver la Final de la ACB 2025-26](https://as.com/baloncesto/acb/valencia-barcelona-horario-tv-y-donde-ver-la-final-de-la-acb-2025-26-f202606-n/)<br>
 06:46 [Final de una maratón](https://as.com/baloncesto/acb/final-de-una-maraton-f202606-n/)<br>
 
-### www.elperiodico.com
+## www.elperiodico.com
 17:09 [La cabra tira al monte](https://www.elperiodico.com/es/deportes/20260618/cabra-tira-monte-131563209)<br>
 17:04 [Celine Cousteau: "Como el Mediterráneo es semi cerrado se está calentando y acidificando más rápidamente que océano abierto"](https://www.elperiodico.com/es/videos/sociedad/celine-cousteau-mediterraneo-semi-cerrado/131563593.shtml)<br>
 17:03 [Txus Vidorreta, nuevo entrenador del Unicaja](https://www.elperiodico.com/es/deportes/20260618/txus-vidorreta-nuevo-entrenador-unicaja-131563127)<br>
