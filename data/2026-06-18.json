@@ -1,5 +1,95 @@
 [
   {
+    "title": "Miguel Ríos suspende dos conciertos debido a un \"leve traumatismo craneal\" por una caída",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260618/miguel-rios-suspende-conciertos-debido-131566343",
+    "pubDate": "2026-06-18 17:56:55",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Parlament rechaza exigir un adelanto electoral a Sánchez con la abstención de Junts",
+    "link": "https://www.elperiodico.com/es/politica/20260618/parlament-peticion-elecciones-anticipadas-pedro-sanchez-131560622",
+    "pubDate": "2026-06-18 17:56:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Los posconvergentes argumentan su diferencia de voto respecto al Congreso, al considerar que es un debate que debe tenerse en la Cámara baja</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260616/junts-elecciones-pedro-sanchez-congreso-zapatero-psoe-131452223\">PSOE y Sumar vetan que el Congreso debata la petición de elecciones de PP y Junts</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Gonzalo Carbó, director general nuclear de Endesa: \"Necesitamos una energía limpia, estable y competitiva y eso es la energía nuclear\"",
+    "link": "https://www.elperiodico.com/es/videos/economia/foro-mediterraneo-gonzalo-carbo-director-general-nuclear/131566310.shtml",
+    "pubDate": "2026-06-18 17:54:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gonzalo Carbó (Endesa): “La nuclear aporta una gran ventaja competitiva y debe mantenerse hasta que otra energía tenga las mismas cualidades”",
+    "link": "https://www.elperiodico.com/es/economia/20260618/foro-mediterraneo-endesa-nucleares-gonzalo-carbo-131566281",
+    "pubDate": "2026-06-18 17:54:12",
+    "category": "",
+    "description": "<h2 class=\"item\">La energética defiende impulsar más electrificación como una vía para reducir la dependencia de los combustibles fósiles y ensalza la aportación de “firmeza, estabilidad y previsibilidad de precios” de las nucleares como apoyo a la descarbonización total</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José Luis Vilar: \"Queremos que la colaboración público-privada sea una realidad\"",
+    "link": "https://www.elperiodico.com/es/videos/economia/jose-luis-vilar-queremos-colaboracion/131566138.shtml",
+    "pubDate": "2026-06-18 17:51:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Quevedo se marca un 'sold out' en dos minutos con 'El Baifo Tour'",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/quevedo-marca-sold-out-minutos/131565833.shtml",
+    "pubDate": "2026-06-18 17:50:14",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Fenerbahce anuncia un acuerdo con Muriqi por unos 15 millones",
+    "link": "https://www.elperiodico.com/es/deportes/20260618/fenerbahce-anuncia-acuerdo-muriqi-15-131565428",
+    "pubDate": "2026-06-18 17:49:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El delantero kosovar llegará este jueves a Estambul para cerrar su traspaso al cuadro otomano procedente del Mallorca. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Expertos recomiendan el consumo regular de yogur para prevenir la diabetes tipo 2",
+    "link": "https://www.elperiodico.com/es/videos/sanidad/expertos-recomiendan-consumo-regular-yogur/131565661.shtml",
+    "pubDate": "2026-06-18 17:48:48",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Пентагоні визнали прогрес ЗСУ на фронті",
+    "link": "https://ua.korrespondent.net/world/4887577-u-pentahoni-vyznaly-prohres-zsu-na-fronti",
+    "pubDate": "2026-06-18 17:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464817.jpg\">Європа показала, що здатна зміцнити Україну і це момент, щоб рухатися вперед, зазначив Елбрідж Колбі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗСУ взяли в полон правнука Брежнєва - росЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4887578-zsu-vzialy-v-polon-pravnuka-brezhnieva-roszmi",
+    "pubDate": "2026-06-18 17:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4464816.png\">Правнук радянського генсека Антон Мілаєв потрапив у полон до українських військових на Херсонщині.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Laureà Fanega (Fundació Barcelona Capital Nàutica): \"Si el mar no funciona correctamente, la superficie continental tampoco lo hará\"",
     "link": "https://www.elperiodico.com/es/videos/sociedad/laurea-fanega-fundacio-barcelona-capital-video/131565751.shtml",
     "pubDate": "2026-06-18 17:45:57",
@@ -2948,6 +3038,15 @@
     "pubDate": "2026-06-18 11:00:17",
     "category": "",
     "description": "<h2>La operación, autorizada por la Comisión de Gobierno, busca garantizar la continuidad del proyecto y blindar sus usos en el corazón del Raval</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Netanyahu insiste en que Israel mantendrá sus tropas en el sur del Líbano a pesar del acuerdo entre EEUU e Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260618/israel-vulnera-acuerdo-eeuu-iran-ataque-mortal-libano-131539970",
+    "pubDate": "2026-06-18 10:59:34",
+    "category": "",
+    "description": "<h2>Un dron israelí ataca un vehículo en el sur del país de los cedros y mata a una persona y hiere a otra</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
