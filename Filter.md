@@ -12,3 +12,5 @@
 - пограбування, афера
 - торгові центри, розпродажі
 - марихуана
+- estado de los embalses
+- portada de EL PERIÓDICO
