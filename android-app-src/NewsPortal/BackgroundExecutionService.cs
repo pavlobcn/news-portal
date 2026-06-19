@@ -53,8 +53,9 @@ public sealed class BackgroundExecutionService : Service
         {
             if (GitHubPrCommentExecutor.HasRequiredSettings(this))
             {
+                UpdateNotification($"Operation is about to execute. Posting {GitHubPrCommentExecutor.DefaultComment}...");
                 var result = await GitHubPrCommentExecutor.ExecuteAsync(this, cancellationToken);
-                var prefix = result.Succeeded ? "Last execution succeeded" : "Last execution failed";
+                var prefix = result.Succeeded ? "Operation executed successfully" : "Operation execution failed";
                 UpdateNotification($"{prefix}: {result.Message}");
             }
             else
