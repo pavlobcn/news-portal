@@ -1,8 +1,9 @@
-# News for 2026-06-19 11:49
+# News for 2026-06-19 11:58
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+11:53 [Відносини з Польщею. Вихід з історичного скандалу](https://ua.korrespondent.net/ukraine/4887672-vidnosyny-z-polscheui-vykhid-z-istorychnoho-skandalu)<br>
 11:40 [США та Іран напрацьовують секретні пропозиції щодо угоди - ЗМІ](https://ua.korrespondent.net/world/4887761-ssha-ta-iran-napratsovuuit-sekretni-propozytsii-schodo-uhody-zmi)<br>
 11:26 [У Підмосков'ї виник дефіцит бензину та утворилися черги на АЗС](https://ua.korrespondent.net/world/russia/4887757-u-pidmoskovi-vynyk-defitsyt-benzynu-ta-utvorylysia-cherhy-na-azs)<br>
 11:22 [Долар перевищив психологічний рубіж в обмінниках](https://ua.korrespondent.net/business/financial/4887759-dolar-perevyschyv-psykholohichnyi-rubizh-v-obminnykakh)<br>
@@ -38,6 +39,10 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+11:54 [El precio del euríbor hoy, 19 de junio: los titulares de una hipoteca despiden la semana de la peor manera](https://www.elperiodico.com/es/economia/20260619/precio-euribor-hoy-19-junio-dv-131591508)<br>
+11:54 [Sanfeliu toma el relevo de Agenjo al frente de Barcelona Global](https://www.elperiodico.com/es/economia/20260619/barcelona-global-josep-lluis-sanfeliu-relevo-ramon-agenjo-131589918)<br>
+11:50 [Las 10 capitales españolas que alcanzarán los 40ºC según la Aemet](https://www.elperiodico.com/es/tiempo/20260619/tiempo-capitales-espanolas-40-grados-calor-aemet-dv-131586703)<br>
+11:50 [El Barri Vell de Girona, saturado de actividades y rodajes: «Nos sentimos como un escenario»](https://www.elperiodico.com/es/ocio-y-cultura/20260619/barri-vell-girona-saturado-actividades-131591372)<br>
 11:48 [Los Knicks pasean su título de la NBA ante más de 2 millones de personas por las calles de Nueva York](https://www.elperiodico.com/es/deportes/20260619/celebracion-knicks-nba-nueva-york-alicia-keys-brunson-131586882)<br>
 11:43 [La R4 y la R11 de Rodalies alterarán su servicio habitual el fin de semana del 27 y 28 de junio](https://www.elperiodico.com/es/sociedad/20260619/r4-r11-rodalies-renfe-alteraran-servicios-fin-de-semana-27-28-junio-131587960)<br>
 11:40 [Susana Díaz exige explicaciones sobre las joyas a José Luis Rodríguez Zapatero: "La situación es muy jodida"](https://www.elperiodico.com/es/politica/20260619/susana-diaz-exige-explicaciones-joyas-131590854)<br>
