@@ -1,8 +1,9 @@
-# News for 2026-06-19 11:58
+# News for 2026-06-19 12:06
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+11:57 [Атака на маршрутки у Херсоні: число поранених зросло](https://ua.korrespondent.net/ukraine/4887764-ataka-na-marshrutky-u-khersoni-chyslo-poranenykh-zroslo)<br>
 11:53 [Відносини з Польщею. Вихід з історичного скандалу](https://ua.korrespondent.net/ukraine/4887672-vidnosyny-z-polscheui-vykhid-z-istorychnoho-skandalu)<br>
 11:40 [США та Іран напрацьовують секретні пропозиції щодо угоди - ЗМІ](https://ua.korrespondent.net/world/4887761-ssha-ta-iran-napratsovuuit-sekretni-propozytsii-schodo-uhody-zmi)<br>
 11:26 [У Підмосков'ї виник дефіцит бензину та утворилися черги на АЗС](https://ua.korrespondent.net/world/russia/4887757-u-pidmoskovi-vynyk-defitsyt-benzynu-ta-utvorylysia-cherhy-na-azs)<br>
@@ -39,6 +40,14 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:05 [Hito quirúrgico: El Vall d’Hebron realiza la primera cirugía pediátrica de Europa con un robot que hace una sola incisión](https://www.elperiodico.com/es/sociedad/20260619/vall-hebron-robot-unica-incision-cirugia-131562087)<br>
+12:04 [Ustec asiste a la reunión de la Mesa Sectorial y reclama a Educació reabrir la negociación](https://www.elperiodico.com/es/sociedad/20260619/ustec-asiste-reunion-mesa-sectorial-reclama-reabrir-negociacion-131591731)<br>
+12:04 [La justicia francesa confirma que el futbolista Achraf Hakimi será juzgado por presunta violación](https://www.elperiodico.com/es/videos/deportes/justicia-francesa-confirma-futbolista-achraf-hakimi-juzgado-violacion-video/131592096.shtml)<br>
+12:03 [Andy Burnham: quién es el alcalde de Mánchester que aspira a relevar a Starmer como primer ministro del Reino Unido](https://www.elperiodico.com/es/internacional/20260619/andy-burnham-perfil-biografia-quien-es-edad-mujer-130376984)<br>
+12:00 ['Zapatero anuncia que está dispuesto a vender sus joyas por treinta mil euros', por Matías Vallés](https://www.elperiodico.com/es/videos/sociedad/zapatero-anuncia-dispuesto-vender-joyas/131592033.shtml)<br>
+11:59 [Collboni evita garantizar la continuidad de la incineradora de Sant Adrià: "Nadie permitiría una actividad que perjudique la salud"](https://www.elperiodico.com/es/barcelona/20260619/barcelona-incineradora-tersa-sant-adria-collboni-131586169)<br>
+11:59 [El juicio a la incineradora Tersa por contaminación grave para la salud empezará en febrero de 2027](https://www.elperiodico.com/es/barcelona/20260619/barcelona-contaminacion-incineradora-tersa-sant-adria-juicio-131574235)<br>
+11:59 [Ebrima Drammeh, un ‘tiktoker’ contra las mafias](https://www.elperiodico.com/es/sociedad/20260619/ebrima-drammeh-tiktoker-mafias-131405944)<br>
 11:54 [El precio del euríbor hoy, 19 de junio: los titulares de una hipoteca despiden la semana de la peor manera](https://www.elperiodico.com/es/economia/20260619/precio-euribor-hoy-19-junio-dv-131591508)<br>
 11:54 [Sanfeliu toma el relevo de Agenjo al frente de Barcelona Global](https://www.elperiodico.com/es/economia/20260619/barcelona-global-josep-lluis-sanfeliu-relevo-ramon-agenjo-131589918)<br>
 11:50 [Las 10 capitales españolas que alcanzarán los 40ºC según la Aemet](https://www.elperiodico.com/es/tiempo/20260619/tiempo-capitales-espanolas-40-grados-calor-aemet-dv-131586703)<br>
