@@ -1,8 +1,17 @@
-# News for 2026-06-19 12:51
+# News for 2026-06-19 14:59
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+14:54 [Ізраїль завдав масованих ударів по Лівану: багато загиблих](https://ua.korrespondent.net/world/4887816-izrail-zavdav-masovanykh-udariv-po-livanu-bahato-zahyblykh)<br>
+14:47 [У Сибіру горить майже 150 тисяч га лісу](https://ua.korrespondent.net/world/russia/4887814-u-sybiru-horyt-maizhe-150-tysiach-ha-lisu)<br>
+14:21 [Військові-винахідники отримуватимуть 25% від вартості ліцензій на розробки](https://ua.korrespondent.net/ukraine/4887810-viiskovi-vynakhidnyky-otrymuvatymut-25-vid-vartosti-litsenzii-na-rozrobky)<br>
+14:17 [У Путіна відповіли щодо переговорів з Європою](https://ua.korrespondent.net/world/russia/4887808-u-putina-vidpovily-schodo-perehovoriv-z-yevropoui)<br>
+13:55 [Росіяни двічі атакували Краматорськ: є жертви та поранені](https://ua.korrespondent.net/ukraine/4887802-rosiiany-dvichi-atakuvaly-kramatorsk-ye-zhertvy-ta-poraneni)<br>
+13:52 [Популярний міжнародний потяг курсуватиме щодня - Мінрозвитку](https://ua.korrespondent.net/business/companies/4887801-populiarnyi-mizhnarodnyi-potiah-kursuvatyme-schodnia-minrozvytku)<br>
+13:50 [США і Україна обговорюють важливу угоду - ЗМІ](https://ua.korrespondent.net/world/4887800-ssha-i-ukraina-obhovoruiuit-vazhlyvu-uhodu-zmi)<br>
+13:41 [Україна і НАТО оголосили конкурс на €250 тисяч для блокування аеродромів РФ](https://ua.korrespondent.net/ukraine/4887798-ukraina-i-nato-oholosyly-konkurs-na-250-tysiach-dlia-blokuvannia-aerodromiv-rf)<br>
+13:19 [В ОГП назвали масштаби сексуального насилля росіян](https://ua.korrespondent.net/ukraine/4887791-v-ohp-nazvaly-masshtaby-seksualnoho-nasyllia-rosiian)<br>
 12:49 [Із Росії видворять пастора, який "закликав молитися за Трампа"](https://ua.korrespondent.net/world/russia/4887783-iz-rosii-vydvoriat-pastora-yakyi-zaklykav-molytysia-za-trampa)<br>
 12:39 [У Київському зоопарку показали маленьку зубрицю Юкку](https://ua.korrespondent.net/ukraine/4887780-u-kyivskomu-zooparku-pokazaly-malenku-zubrytsui-yukku)<br>
 12:36 [Названо терміни відновлення пошкодженого РФ сховища ядерного палива](https://ua.korrespondent.net/ukraine/4887776-nazvano-terminy-vidnovlennia-poshkodzhenoho-rf-skhovyscha-yadernoho-palyva)<br>
@@ -45,9 +54,19 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 00:21 [Ціна на нафту продовжує падіння](https://ua.korrespondent.net/business/economics/4887665-tsina-na-naftu-prodovzhuie-padinnia)<br>
 
 ## as.com
+13:23 [Mike James, culebrón interminable](https://as.com/baloncesto/euroliga/mike-james-culebron-interminable-f202606-n/)<br>
+12:47 [Sergio Rodríguez no seguirá en el Madrid](https://as.com/baloncesto/acb/sergio-rodriguez-no-seguira-en-el-madrid-f202606-n/)<br>
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+14:57 [Ecoener abre una nueva etapa con el foco en crecer más, la rentabilidad y la generación de caja con casi 400 MW a punto de construcción en Rumanía, Colombia y Guatemala](https://www.elperiodico.com/es/economia/20260619/ecoener-abre-nueva-etapa-foco-131602542)<br>
+14:49 [El PP dice que el caso Amador es particular y que no afecta a la Comunidad de Madrid](https://www.elperiodico.com/es/politica/20260619/pp-dice-caso-amador-particular-131602192)<br>
+14:30 [Oasis de aguas cristalinas: una de las piscinas naturales más grandes de España ya está abierta](https://www.elperiodico.com/es/vida-y-estilo/20260619/piscina-natural-grande-espana-sierra-gredos-garganta-alardos-caceres-avila-dv-131488580)<br>
+14:29 [La empresa catalana tras el espectáculo de la Sagrada Família en la visita del Papa se encamina a un récord europeo de drones en un 'show' de Portugal](https://www.elperiodico.com/es/barcelona/20260619/empresa-catalana-airinvictus-drones-espectaculo-portugal-record-europeo-sagrada-familia-visita-del-papa-131596891)<br>
+14:20 [Catalunya termina un curso marcado por 25 huelgas educativas y un "acuerdo" que no apacigua el conflicto](https://www.elperiodico.com/es/sociedad/20260619/catalunya-termina-curso-marcado-25-huelgas-sin-acuerdo-para-septiembre-131599634)<br>
+13:36 [El AMB celebra su 15º aniversario con un llamamiento al consenso político: "Este era el sueño democrático del alcalde Maragall"](https://www.elperiodico.com/es/barcelona/20260619/amb-celebra-15o-aniversario-llamamiento-consenso-politico-sueno-democraticvo-alcalde-maragall-131585778)<br>
+13:25 [La compraventa de viviendas baja un 1,8% en abril y encadena cuatro meses de descensos](https://www.elperiodico.com/es/videos/economia/compraventa-viviendas-baja-1-8-abril-encadena-cuatro-meses-descensos-video/131597171.shtml)<br>
+13:15 [Los líderes de la UE afrontan divididos la primera ronda de negociaciones del futuro presupuesto comunitario](https://www.elperiodico.com/es/internacional/20260619/lideres-ue-afrontan-divididos-primera-negociacion-presupuesto-comunitario-131596595)<br>
 12:50 [Trump dice que Meloni le "suplicó" que se hicieran una foto juntos en el G7 de Evian](https://www.elperiodico.com/es/internacional/20260619/trump-dice-meloni-le-suplico-hacerse-foto-juntos-g7-131595218)<br>
 12:47 [Torres habla de "éxito" del proceso de reubicación de menores migrantes desde Canarias: "PP y Vox no han ayudado nada"](https://www.elperiodico.com/es/politica/20260619/torres-habla-exito-proceso-reubicacion-131595088)<br>
 12:45 [El Hospital Vall d’Hebron realiza la primera cirugía pediátrica de Europa con un robot que hace una sola incisión](https://www.elperiodico.com/es/videos/sociedad/hospital-vall-hebron-realiza-primera-cirugia-pediatrica-europa-robot-una-incision-video/131594778.shtml)<br>
@@ -88,10 +107,12 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 11:22 [Sybilla abre su archivo personal: las fotos que hicieron de sus vestidos un objeto de deseo](https://www.elperiodico.com/es/ocio-y-cultura/20260619/sybilla-abre-archivo-personal-fotos-131589126)<br>
 11:20 [Casi medio millón de españoles intentó dejar de fumar el pasado año con medicamentos financiados](https://www.elperiodico.com/es/sanidad/20260619/medio-millon-espanoles-fumar-pasado-medicamentos-financiados-131555424)<br>
 11:20 [Aumenta la indignación entre los jubilados con más de 40 años cotizados tras el rechazo a eliminar los recortes en la jubilación anticipada](https://www.elperiodico.com/es/economia/20260619/indignacion-jubilados-40-anos-cotizados-rechazo-eliminar-recortes-jubilacion-anticipada-dv-131588329)<br>
+11:20 [No siempre es “mala digestión”: los dos trastornos que se esconden tras la hinchazón y las náuseas](https://www.elperiodico.com/es/salud/20260619/mala-digestion-trastornos-esconden-hinchazon-dispepsia-funcional-gastroparesia-131466247)<br>
 11:15 [Una interfaz cerebro-ordenador permite a un paciente con ELA sin habla trabajar a tiempo completo](https://www.elperiodico.com/es/tendencias21/20260619/interfaz-cerebro-ordenador-permite-paciente-131536307)<br>
 11:12 [Ideas con mucho futuro](https://www.elperiodico.com/es/sociedad/20260619/ideas-futuro-bc-131589514)<br>
 11:10 [Un mes gratis en un refugio de los Alpes italianos: 400 euros, comida incluida y requisitos muy concretos](https://www.elperiodico.com/es/ciencia/20260619/alpes-italia-vivir-altura-media-estudio-voluntarios-dv-131162037)<br>
 11:08 [Catalunya se prepara para una subida de los termómetros desde el domingo y hasta como mínimo la noche de Sant Joan](https://www.elperiodico.com/es/videos/sociedad/catalunya-prepara-subida-termometros-domingo-noche-sant-joan-video/131589215.shtml)<br>
+10:55 [¿Eyacular 21 veces al mes previene el cáncer de próstata? Esto es lo que dice realmente la ciencia](https://www.elperiodico.com/es/salud/20260619/eyacular-21-veces-mes-previene-cancer-prostata-dice-ciencia-131283924)<br>
 10:53 [La fiscal general del Estado, Teresa Peramato, comparece en la comisión de Justicia del Senado](https://www.elperiodico.com/es/videos/politica/fiscal-general-teresa-peramato-comparece/131588529.shtml)<br>
 10:49 [Un menor detenido en Nueva York tras un tiroteo sin heridos](https://www.elperiodico.com/es/internacional/20260619/menor-detenido-nueva-york-tiroteo-131587008)<br>
 10:45 [El juez Peinado abre nueva pieza contra el empresario recomendado por Begoña Gómez](https://www.elperiodico.com/es/politica/20260619/juez-peinado-abre-nueva-pieza-131588110)<br>
