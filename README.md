@@ -1,8 +1,11 @@
-# News for 2026-06-19 21:11
+# News for 2026-06-19 22:45
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+22:35 [Трамп назвав "причину" нападу Росії на Україну](https://ua.korrespondent.net/ukraine/4887908-tramp-nazvav-prychynu-napadu-rosii-na-ukrainu)<br>
+21:55 [Сибіга поверне Польщі свою державну нагороду](https://ua.korrespondent.net/ukraine/4887906-sybiha-poverne-polschi-svoui-derzhavnu-nahorodu)<br>
+21:42 [СБС уразили підземне сховище газу та низку цілей у Криму](https://ua.korrespondent.net/ukraine/4887904-sbs-urazyly-pidzemne-skhovysche-hazu-ta-nyzku-tsilei-u-krymu)<br>
 20:53 [Навроцький позбавив Зеленського Ордена Білого Орла](https://ua.korrespondent.net/world/4887897-navrotskyi-pozbavyv-zelenskoho-ordena-biloho-orla)<br>
 20:42 [Акордбанк обслуговуватиме сектор оборонних та інноваційних компаній](https://ua.korrespondent.net/business/financial/4887895-akordbank-obsluhovuvatyme-sektor-oboronnykh-ta-innovatsiinykh-kompanii)<br>
 20:36 [Сенатори США пропонують спрямувати заморожені активи РФ на зброю Україні](https://ua.korrespondent.net/world/4887892-senatory-ssha-proponuuit-spriamuvaty-zamorozheni-aktyvy-rf-na-zbroui-ukraini)<br>
@@ -94,6 +97,8 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+21:43 [Rufián y Oltra se conjuran desde Valencia para "unir" a las izquierdas "provincia a provincia"](https://www.elperiodico.com/es/politica/20260619/rufian-oltra-conjuran-valencia-unir-131616111)<br>
+21:30 [Reforzados y unidos: la victoria diplomática de Irán apacigua las voces contrarias a negociar con EEUU](https://www.elperiodico.com/es/internacional/20260619/reforzados-reunidos-victoria-diplomatica-irani-apacigua-voces-contrarias-negociar-eeuu-131615877)<br>
 21:09 [Una mujer agrede gravemente a su padre nonagenario en Oviedo: "Me lo ordenó el demonio"](https://www.elperiodico.com/es/sucesos/20260619/mujer-agrede-gravemente-padre-nonagenario-131615538)<br>
 21:09 [Cierran el Parque del Agua de la Misericordia en Málaga por casos de gastroenteritis en escolares](https://www.elperiodico.com/es/sociedad/20260619/cierran-parque-agua-misericordia-malaga-131615408)<br>
 21:08 [El Teide se despereza: el IGN registra más de medio centenar de terremotos bajo Tenerife en 24 horas](https://www.elperiodico.com/es/sociedad/20260619/teide-despereza-ign-registra-terremotos-tenerife-131615407)<br>
@@ -226,6 +231,7 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 08:00 [Los Comuns estudian pedir al Ayuntamiento de Barcelona que ejerza el derecho de tanteo y retracto en la finca del Jove Teatre Regina](https://www.elperiodico.com/es/ocio-y-cultura/20260619/teatre-regina-derecho-tanteo-y-retracto-131582533)<br>
 07:56 [José Abellán, cardiólogo, desmonta el mito del magnesio: "¿Baja el colesterol? No, ni el total, ni el LDL, ni los triglicéridos"](https://www.elperiodico.com/es/vida-y-estilo/20260619/jose-abellan-cardiologo-desmonta-mito-magnesio-colesterol-dv-131562312)<br>
 07:50 [Los expertos coinciden sobre las personas que hablan alto: no siempre es seguridad ni liderazgo](https://www.elperiodico.com/es/salud/20260619/psicologos-levantar-voz-dominante-discusion-seguridad-dv-131066028)<br>
+07:24 [El alto el fuego en el Líbano reactiva las negociaciones entre EEUU e Irán en Suiza en los próximos días](https://www.elperiodico.com/es/internacional/20260619/eeuu-pospone-logistica-viaje-vance-131583437)<br>
 07:00 [Crítica de 'L’últim àtom': Jordi Oriol ensaya sobre el fin de las certezas en el Teatre Goya](https://www.elperiodico.com/es/ocio-y-cultura/20260619/critica-l-ultim-atom-jordi-131564390)<br>
 06:37 [Los pacientes de ELA denuncian que trabas burocráticas reducen las ayudas que reciben tras la nueva ley: "Vamos a perder 4.000 euros"](https://www.elperiodico.com/es/sociedad/20260619/pacientes-ela-denuncian-trabas-burocraticas-131520559)<br>
 06:01 [El PSOE se aferra a que el juez no retiró el pasaporte a Zapatero y a las votaciones ganadas en el Congreso para dar la semana por "salvada"](https://www.elperiodico.com/es/politica/20260619/psoe-juez-pasaporte-zapatero-corrupcion-131576143)<br>

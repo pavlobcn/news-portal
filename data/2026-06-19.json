@@ -1,5 +1,77 @@
 [
   {
+    "title": "Трамп назвав \"причину\" нападу Росії на Україну",
+    "link": "https://ua.korrespondent.net/ukraine/4887908-tramp-nazvav-prychynu-napadu-rosii-na-ukrainu",
+    "pubDate": "2026-06-19 22:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466324.jpg\">Москва \"спалила за собою кораблі\" саме через розпад формату \"Великої вісімки\", вважає американський лідер.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rahm juega peor que nunca en la segunda jornada y no pasa el corte en el US Open",
+    "link": "https://www.elperiodico.com/es/deportes/20260619/golf-rahm-fuera-us-open-131616196",
+    "pubDate": "2026-06-19 22:02:45",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Сибіга поверне Польщі свою державну нагороду",
+    "link": "https://ua.korrespondent.net/ukraine/4887906-sybiha-poverne-polschi-svoui-derzhavnu-nahorodu",
+    "pubDate": "2026-06-19 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466305.jpg\">Міністр висловив сподівання, що згодом холодний розум візьме гору і польські друзі повернуться до рівноправного діалогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rufián y Oltra se conjuran desde Valencia para \"unir\" a las izquierdas \"provincia a provincia\"",
+    "link": "https://www.elperiodico.com/es/politica/20260619/rufian-oltra-conjuran-valencia-unir-131616111",
+    "pubDate": "2026-06-19 21:43:57",
+    "category": "",
+    "description": "<h2>El portavoz de ERC en el Congreso insiste en buscar un \"frente común\", plantea primarias y llama a la aspirante de Compromís a conquistar Valencia como ejemplo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "СБС уразили підземне сховище газу та низку цілей у Криму",
+    "link": "https://ua.korrespondent.net/ukraine/4887904-sbs-urazyly-pidzemne-skhovysche-hazu-ta-nyzku-tsilei-u-krymu",
+    "pubDate": "2026-06-19 21:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466295.jpg\">Уражені Глібівське підземне сховище газу в Дозорному та його дослідницький центр у Внуковому (Тарханкут).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Досі Дорощук добув медаль у рамках Діамантової ліги",
+    "link": "https://ua.korrespondent.net/sport/4887902-u-dosi-doroschuk-dobuv-medal-u-ramkakh-diamantovoi-lihy",
+    "pubDate": "2026-06-19 21:34:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466264.jpg\">Для українського спортсмена ця нагорода стала черговою в переліку послідовних досягнень на цьому турнірі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Reforzados y unidos: la victoria diplomática de Irán apacigua las voces contrarias a negociar con EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260619/reforzados-reunidos-victoria-diplomatica-irani-apacigua-voces-contrarias-negociar-eeuu-131615877",
+    "pubDate": "2026-06-19 21:30:12",
+    "category": "",
+    "description": "<h2>Facciones ultraconservadoras iraníes que en semanas anteriores habían rechazado llegar a un acuerdo con Washington mantienen ahora silencio tras un acuerdo muy favorable a Teherán que mantiene la puerta abierta al control del estrecho de Ormuz</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Азербайджані засудили росіян, арештованих на тлі конфлікту з діаспорою",
+    "link": "https://ua.korrespondent.net/world/4887899-v-azerbaidzhani-zasudyly-rosiian-areshtovanykh-na-tli-konfliktu-z-diasporoui",
+    "pubDate": "2026-06-19 21:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466285.jpg\">Фігурантів визнали винними у справах, пов'язаних із незаконним обігом наркотиків та кібершахрайством.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Una mujer agrede gravemente a su padre nonagenario en Oviedo: \"Me lo ordenó el demonio\"",
     "link": "https://www.elperiodico.com/es/sucesos/20260619/mujer-agrede-gravemente-padre-nonagenario-131615538",
     "pubDate": "2026-06-19 21:09:40",
@@ -2815,6 +2887,15 @@
     "description": "<h2>El alcalde de Mánchester consigue una holgada victoria en las elecciones anticipadas en la circunscripción de Makerfield, algo que le permitirá disputar el liderazgo al primer ministro</h2>",
     "topic": "вибори",
     "topic_match_probability": 90
+  },
+  {
+    "title": "El alto el fuego en el Líbano reactiva las negociaciones entre EEUU e Irán en Suiza en los próximos días",
+    "link": "https://www.elperiodico.com/es/internacional/20260619/eeuu-pospone-logistica-viaje-vance-131583437",
+    "pubDate": "2026-06-19 07:24:54",
+    "category": "",
+    "description": "<h2>La escalada de Israel y Hezbolá de esta madrugada provocó la cancelación de los contactos entre Teherán y Washington, pero la tregua que ha entrado en vigor este viernes ha dado oxígeno al proceso, aunque los ataques continúan</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Генштаб показав оновлену карту подій на фронті",
