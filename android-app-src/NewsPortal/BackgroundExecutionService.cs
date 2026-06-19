@@ -9,7 +9,7 @@ public sealed class BackgroundExecutionService : Service
 {
     private const int NotificationId = 1001;
     private const string ChannelId = "news_portal_background_execution";
-    private static readonly TimeSpan ExecutionInterval = TimeSpan.FromMinutes(3);
+    private static readonly TimeSpan ExecutionInterval = TimeSpan.FromMinutes(60);
     private CancellationTokenSource? _stoppingTokenSource;
     private Task? _executionLoop;
 
