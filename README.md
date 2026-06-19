@@ -1,8 +1,9 @@
-# News for 2026-06-19 12:06
+# News for 2026-06-19 12:19
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+12:12 [Путін припустився історичної помилки - Сибіга](https://ua.korrespondent.net/ukraine/4887767-putin-prypustyvsia-istorychnoi-pomylky-sybiha)<br>
 11:57 [Атака на маршрутки у Херсоні: число поранених зросло](https://ua.korrespondent.net/ukraine/4887764-ataka-na-marshrutky-u-khersoni-chyslo-poranenykh-zroslo)<br>
 11:53 [Відносини з Польщею. Вихід з історичного скандалу](https://ua.korrespondent.net/ukraine/4887672-vidnosyny-z-polscheui-vykhid-z-istorychnoho-skandalu)<br>
 11:40 [США та Іран напрацьовують секретні пропозиції щодо угоди - ЗМІ](https://ua.korrespondent.net/world/4887761-ssha-ta-iran-napratsovuuit-sekretni-propozytsii-schodo-uhody-zmi)<br>
@@ -40,6 +41,11 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:18 [Condenado el empresario agrícola de Mallorca por coaccionar y amenazar a su hija cuando ella se hizo con el negocio](https://www.elperiodico.com/es/sociedad/20260619/condenado-empresario-agricola-mallorca-coaccionar-131593132)<br>
+12:15 [La controvertida opinión de un argentino sobre Madrid y Barcelona que divide las redes](https://www.elperiodico.com/es/vida-y-estilo/20260619/barcelona-madrid-agustin-wealth-comparacion-redes-dv-131278564)<br>
+12:10 [Una casa de tres plantas, terraza y piscina en una pedanía de 60 vecinos: así es el refugio andaluz de Zinedine Zidane](https://www.elperiodico.com/es/gente/20260619/casa-tres-plantas-terraza-piscina-refugio-zinedine-zidane-dv-131512304)<br>
+12:08 [Irene Rosales ya no llora, Irene Rosales factura](https://www.elperiodico.com/es/gente/20260619/irene-rosales-llora-irene-rosales-131591989)<br>
+12:07 [La deuda pública se modera al 101%% del PIB en abril y su importe se aleja de los niveles máximos de marzo](https://www.elperiodico.com/es/economia/20260619/deuda-publica-modera-10-pib-131592376)<br>
 12:05 [Hito quirúrgico: El Vall d’Hebron realiza la primera cirugía pediátrica de Europa con un robot que hace una sola incisión](https://www.elperiodico.com/es/sociedad/20260619/vall-hebron-robot-unica-incision-cirugia-131562087)<br>
 12:04 [Ustec asiste a la reunión de la Mesa Sectorial y reclama a Educació reabrir la negociación](https://www.elperiodico.com/es/sociedad/20260619/ustec-asiste-reunion-mesa-sectorial-reclama-reabrir-negociacion-131591731)<br>
 12:04 [La justicia francesa confirma que el futbolista Achraf Hakimi será juzgado por presunta violación](https://www.elperiodico.com/es/videos/deportes/justicia-francesa-confirma-futbolista-achraf-hakimi-juzgado-violacion-video/131592096.shtml)<br>
