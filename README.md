@@ -1,10 +1,14 @@
-# News for 2026-06-19 17:57
+# News for 2026-06-19 18:27
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+18:20 [Президент Франції назвав роль Європи у переговорах з РФ](https://ua.korrespondent.net/world/4887865-prezydent-frantsii-nazvav-rol-yevropy-u-perehovorakh-z-rf)<br>
+18:11 [Іран скасує збори за транзит через Ормуз на 60 днів](https://ua.korrespondent.net/world/4887862-iran-skasuie-zbory-za-tranzyt-cherez-ormuz-na-60-dniv)<br>
+17:56 [Макрон і Мерц розкритикували Кошту за рішення про переговори з РФ - ЗМІ](https://ua.korrespondent.net/world/4887859-makron-i-merts-rozkrytykuvaly-koshtu-za-rishennia-pro-perehovory-z-rf-zmi)<br>
 17:54 [Нацбанк оголосив курси валют на понеділок](https://ua.korrespondent.net/business/financial/4887857-natsbank-oholosyv-kursy-valuit-na-ponedilok)<br>
 17:45 [На орбіту виведено нову групу супутників оптико-електронної розвідки](https://ua.korrespondent.net/tech/space/4887855-na-orbitu-vyvedeno-novu-hrupu-suputnykiv-optyko-elektronnoi-rozvidky)<br>
+17:45 [На орбіту виведено нову групу супутників розвідки США](https://ua.korrespondent.net/tech/space/4887855-na-orbitu-vyvedeno-novu-hrupu-suputnykiv-rozvidky-ssha)<br>
 17:39 [Президент Гондурасу вперше приїхав у Київ](https://ua.korrespondent.net/ukraine/4887853-prezydent-hondurasu-vpershe-pryikhav-u-kyiv)<br>
 17:23 [РФ атакувала в Запоріжжі будівлю логістичного оператора: є поранені](https://ua.korrespondent.net/city/zaporozhye/4887850-rf-atakuvala-v-zaporizhzhi-budivlui-lohistychnoho-operatora-ye-poraneni)<br>
 17:14 [Удар по НПЗ у Москві: Генштаб уточнив результати](https://ua.korrespondent.net/ukraine/4887848-udar-po-npz-u-moskvi-henshtab-utochnyv-rezultaty)<br>
@@ -78,6 +82,7 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+17:58 [Tres grafiteros detenidos por vandalizar los futuros trenes al aeropuerto de Ferrocarrils de la Generalitat](https://www.elperiodico.com/es/sucesos/20260619/tres-grafiteros-detenidos-vandalizar-nuevos-trenes-mataro-enlace-aeropuerto-fgc-131609697)<br>
 17:54 [Un menor muerto y dos en estado crítico cuando se bañaban en la playa de l'Arrabassada en Tarragona](https://www.elperiodico.com/es/tarragona/20260619/menor-muerto-critico-banaban-playa-tarragona-131609507)<br>
 17:52 [Barcelona obliga a retirar los rótulos de una bodega histórica de la Barceloneta para cumplir la norma](https://www.elperiodico.com/es/barcelona/20260619/bodega-fermin-barceloneta-rotulos-retirados-131608494)<br>
 17:47 [VÍDEO | Hallan muertos a un padre y su hija en su casa de Gerena (Sevilla)](https://www.elperiodico.com/es/videos/sucesos/video-hallan-muertos-padre-hija-casa-gerena-sevilla/131609601.shtml)<br>
