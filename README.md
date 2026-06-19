@@ -1,8 +1,9 @@
-# News for 2026-06-19 11:38
+# News for 2026-06-19 11:49
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+11:40 [США та Іран напрацьовують секретні пропозиції щодо угоди - ЗМІ](https://ua.korrespondent.net/world/4887761-ssha-ta-iran-napratsovuuit-sekretni-propozytsii-schodo-uhody-zmi)<br>
 11:26 [У Підмосков'ї виник дефіцит бензину та утворилися черги на АЗС](https://ua.korrespondent.net/world/russia/4887757-u-pidmoskovi-vynyk-defitsyt-benzynu-ta-utvorylysia-cherhy-na-azs)<br>
 11:22 [Долар перевищив психологічний рубіж в обмінниках](https://ua.korrespondent.net/business/financial/4887759-dolar-perevyschyv-psykholohichnyi-rubizh-v-obminnykakh)<br>
 11:14 [Вбиця відомого одеського активіста отримав довічне](https://ua.korrespondent.net/city/odessa/4887755-vbytsia-vidomoho-odeskoho-aktyvista-otrymav-dovichne)<br>
@@ -37,10 +38,17 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+11:48 [Los Knicks pasean su título de la NBA ante más de 2 millones de personas por las calles de Nueva York](https://www.elperiodico.com/es/deportes/20260619/celebracion-knicks-nba-nueva-york-alicia-keys-brunson-131586882)<br>
+11:43 [La R4 y la R11 de Rodalies alterarán su servicio habitual el fin de semana del 27 y 28 de junio](https://www.elperiodico.com/es/sociedad/20260619/r4-r11-rodalies-renfe-alteraran-servicios-fin-de-semana-27-28-junio-131587960)<br>
+11:40 [Susana Díaz exige explicaciones sobre las joyas a José Luis Rodríguez Zapatero: "La situación es muy jodida"](https://www.elperiodico.com/es/politica/20260619/susana-diaz-exige-explicaciones-joyas-131590854)<br>
+11:39 [La Fundación Vicente Ferrer celebra en Madrid sus 30 años con una noche solidaria por la infancia](https://www.elperiodico.com/es/vida-y-estilo/20260619/fundacion-vicente-ferrer-gala-esentia-solidaria-infancia-madrid-131589121)<br>
+11:35 [El tumor que crece sin avisar: por qué el cáncer de riñón suele detectarse demasiado tarde](https://www.elperiodico.com/es/salud/20260619/tumor-crece-avisar-cancer-rinon-131538416)<br>
 11:30 [Catalunya recomienda a las empresas dar teletrabajo a los empleados con hijos durante las vacaciones escolares](https://www.elperiodico.com/es/economia/20260619/teletrabajo-vacaciones-catalunya-empresas-generalitat-cataluna-131585330)<br>
+11:30 [Un nuevo avance para el lupus: llega a España una pluma precargada que puede reducir las visitas al hospital](https://www.elperiodico.com/es/salud/20260619/nuevo-avance-lupus-llega-espana-pluma-precargada-131505138)<br>
 11:29 [El refugio de Alice Campello: una villa exlusiva con piscina infinita y vistas al mediterráneo](https://www.elperiodico.com/es/gente/20260619/alice-campello-morata-refugio-casa-villa-menorca-dv-131585130)<br>
 11:29 [Felipe VI y la princesa Leonor comparten una jornada de vuelo en la Academia del Aire](https://www.elperiodico.com/es/videos/politica/felipe-vi-princesa-leonor-comparten-vuelo-academia-aire/131590329.shtml)<br>
 11:26 [Viladecans renueva 1.300 contenedores de residuos para incentivar la recogida selectiva](https://www.elperiodico.com/es/barcelona/20260619/viladecans-renueva-1300-contenedores-residuos-incentivar-recogida-selectiva-131589929)<br>
+11:25 [La revolución de las pastillas para perder peso enciende las alarmas médicas: "No son una solución de por vida"](https://www.elperiodico.com/es/salud/20260619/revolucion-pastillas-perder-peso-enciende-alarmas-medicas-peligros-131483129)<br>
 11:22 [Sybilla abre su archivo personal: las fotos que hicieron de sus vestidos un objeto de deseo](https://www.elperiodico.com/es/ocio-y-cultura/20260619/sybilla-abre-archivo-personal-fotos-131589126)<br>
 11:20 [Casi medio millón de españoles intentó dejar de fumar el pasado año con medicamentos financiados](https://www.elperiodico.com/es/sanidad/20260619/medio-millon-espanoles-fumar-pasado-medicamentos-financiados-131555424)<br>
 11:20 [Aumenta la indignación entre los jubilados con más de 40 años cotizados tras el rechazo a eliminar los recortes en la jubilación anticipada](https://www.elperiodico.com/es/economia/20260619/indignacion-jubilados-40-anos-cotizados-rechazo-eliminar-recortes-jubilacion-anticipada-dv-131588329)<br>
