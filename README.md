@@ -1,4 +1,4 @@
-# News for 2026-06-19 15:09
+# News for 2026-06-19 15:30
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
@@ -61,6 +61,13 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:25 [El Salón Náutico de Barcelona supera ya el 70% de ocupación a cinco meses de su regreso al Port Vell](https://www.elperiodico.com/es/economia/20260619/salon-nautico-barcelona-2026-supera-70-ocupacion-131601409)<br>
+15:24 [Antonio Balmón, más nueces que ruido](https://www.elperiodico.com/es/opinion/20260619/antonio-balmon-nueces-ruido-articulo-josep-cuni-131603302)<br>
+15:20 [Por qué te despiertas antes a partir de los 45: la explicación está en tu reloj biológico](https://www.elperiodico.com/es/salud/20260619/sueno-adultos-dormir-mal-psicologa-nuria-roure-dv-130902252)<br>
+15:18 [Zapatero asegura no haber tenido “ninguna interacción” con la cúpula de plus ultra](https://www.elperiodico.com/es/videos/politica/zapatero-asegura-no-tenido-interaccion-plus-ultra/131603607.shtml)<br>
+15:18 [El juez sobre la reunión entre Escrivá y Zapatero](https://www.elperiodico.com/es/videos/politica/juez-reunion-escriva-zapatero/131603564.shtml)<br>
+15:17 [Derivar comisiones](https://www.elperiodico.com/es/videos/politica/audios-zapatero-derivar-comisiones/131603539.shtml)<br>
+15:16 [Una acusada de asesinar a su marido en Sant Andreu de la Barca admite que lo asfixió con un cable eléctrico y acepta 23 años de cárcel](https://www.elperiodico.com/es/sucesos/20260619/procesada-asesinar-marido-sant-andreu-asfixiando-anos-carcel-131466987)<br>
 15:04 [Una app presentada en el Sónar hace musicoterapia con IA para aliviar el Parkinson](https://www.elperiodico.com/es/ser-feliz/20260619/app-presentada-sonar-musicoterapia-ia-131560210)<br>
 15:00 [Cinco formas de cotizar sin trabajar y cobrar más pensión de jubilación, según el abogado Ignacio Solsona](https://www.elperiodico.com/es/economia/20260619/cinco-formas-cotizar-cobrar-mas-pension-de-jubilacion-dv-131542632)<br>
 14:57 [Ecoener abre una nueva etapa con el foco en crecer más, la rentabilidad y la generación de caja con casi 400 MW a punto de construcción en Rumanía, Colombia y Guatemala](https://www.elperiodico.com/es/economia/20260619/ecoener-abre-nueva-etapa-foco-131602542)<br>
