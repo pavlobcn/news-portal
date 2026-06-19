@@ -1,8 +1,10 @@
-# News for 2026-06-19 18:33
+# News for 2026-06-19 19:10
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+18:50 [Зеленський сподівається на відновлення перемовин](https://ua.korrespondent.net/ukraine/4887872-zelenskyi-spodivaietsia-na-vidnovlennia-peremovyn)<br>
+18:46 [Сирський розповів про ситуацію в Костянтинівці](https://ua.korrespondent.net/ukraine/4887870-syrskyi-rozpoviv-pro-sytuatsiui-v-kostiantynivtsi)<br>
 18:26 [Зеленський дав Лукашенку тиждень на демонтаж ретрансляторів для дронів](https://ua.korrespondent.net/ukraine/4887867-zelenskyi-dav-lukashenku-tyzhden-na-demontazh-retransliatoriv-dlia-droniv)<br>
 18:20 [Президент Франції назвав роль Європи у переговорах з РФ](https://ua.korrespondent.net/world/4887865-prezydent-frantsii-nazvav-rol-yevropy-u-perehovorakh-z-rf)<br>
 18:11 [Іран скасує збори за транзит через Ормуз на 60 днів](https://ua.korrespondent.net/world/4887862-iran-skasuie-zbory-za-tranzyt-cherez-ormuz-na-60-dniv)<br>
@@ -83,6 +85,9 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:57 [La coronel Cristina Moreno se convierte en la jefa de la comandancia de la Guardia Civil en Barcelona](https://www.elperiodico.com/es/sociedad/20260619/coronel-cristina-moreno-convierte-jefa-guardia-civil-131611492)<br>
+18:56 [Rodalies refuerza el servicio de la R1 y la R2 durante la verbena de Sant Joan para facilitar la movilidad en las playas del área de Barcelona](https://www.elperiodico.com/es/sociedad/20260619/rodalies-refuerza-servicio-r1-r2-verbena-sant-joan-movilidad-playas-barcelona-131611675)<br>
+18:34 [La negativa de los médicos a hacer horas extra retrasa el 14% de las operaciones no urgentes y el 16% de las endoscopias](https://www.elperiodico.com/es/sociedad/20260619/negativa-medicos-horas-extra-huelga-retrasa-operaciones-urgentes-endoscopia-131610778)<br>
 17:58 [Tres grafiteros detenidos por vandalizar los futuros trenes al aeropuerto de Ferrocarrils de la Generalitat](https://www.elperiodico.com/es/sucesos/20260619/tres-grafiteros-detenidos-vandalizar-nuevos-trenes-mataro-enlace-aeropuerto-fgc-131609697)<br>
 17:54 [Un menor muerto y dos en estado crítico cuando se bañaban en la playa de l'Arrabassada en Tarragona](https://www.elperiodico.com/es/tarragona/20260619/menor-muerto-critico-banaban-playa-tarragona-131609507)<br>
 17:52 [Barcelona obliga a retirar los rótulos de una bodega histórica de la Barceloneta para cumplir la norma](https://www.elperiodico.com/es/barcelona/20260619/bodega-fermin-barceloneta-rotulos-retirados-131608494)<br>

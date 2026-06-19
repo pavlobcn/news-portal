@@ -1,5 +1,77 @@
 [
   {
+    "title": "El gran partido de la corrupción",
+    "link": "https://www.elperiodico.com/es/opinion/20260619/gran-partido-corrupcion-psoe-pp-articulo-ernest-folch-131612073",
+    "pubDate": "2026-06-19 19:09:01",
+    "category": "",
+    "description": "<h2>Es posible que Zapatero pueda defender su inocencia, pero las joyas lo han desactivado políticamente, por la sencilla razón de que un líder moral de la izquierda no puede dar lecciones con rubíes y esmeraldas no declarados en un cajón</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260618/sanchez-pide-esperar-aclaraciones-zapatero-131564920\">Sánchez justifica a Zapatero por las joyas: \"Todos recibimos regalos. La España de 2007 no es la de 2026\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260618/hacienda-novio-ayuso-millones-facturacion-quiron-131566495\">Hacienda cifra en 4,4 millones de euros la facturación a Quirón en tres años desde las empresas de la pareja de Ayuso investigadas</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La coronel Cristina Moreno se convierte en la jefa de la comandancia de la Guardia Civil en Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260619/coronel-cristina-moreno-convierte-jefa-guardia-civil-131611492",
+    "pubDate": "2026-06-19 18:57:31",
+    "category": "",
+    "description": "<h2>En 1998 fue la primera mujer oficial dentro del Cuerpo</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20241008/delegado-gobierno-catalunya-reivindica-guardia-civil-policia-catalana-109082851\">El delegado del Gobierno en Catalunya reivindica a la Guardia Civil como \"policía catalana\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rodalies refuerza el servicio de la R1 y la R2 durante la verbena de Sant Joan para facilitar la movilidad en las playas del área de Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260619/rodalies-refuerza-servicio-r1-r2-verbena-sant-joan-movilidad-playas-barcelona-131611675",
+    "pubDate": "2026-06-19 18:56:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Renfe programará trenes cada media hora en las dos líneas del litoral durante las últimas horas de la tarde del día 23 de junio y las primeras del 24</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260619/r4-r11-rodalies-renfe-alteraran-servicios-fin-de-semana-27-28-junio-131587960\">La R4 y la R11 de Rodalies alterarán su servicio habitual el fin de semana del 27 y 28 de junio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260617/rodalies-renfe-pierde-viajeros-primer-mes-sin-billetes-gratis-gratuito-131510638\">Rodalies pierde 300.000 viajeros en mayo, el primer mes sin billetes gratis tras el accidente de Gelida</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський сподівається на відновлення перемовин",
+    "link": "https://ua.korrespondent.net/ukraine/4887872-zelenskyi-spodivaietsia-na-vidnovlennia-peremovyn",
+    "pubDate": "2026-06-19 18:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466198.jpg\">Є багато речей, на які розраховує Україна - \"на гарантії безпеки після закінчення війни, на членство в Європейському Союзі\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сирський розповів про ситуацію в Костянтинівці",
+    "link": "https://ua.korrespondent.net/ukraine/4887870-syrskyi-rozpoviv-pro-sytuatsiui-v-kostiantynivtsi",
+    "pubDate": "2026-06-19 18:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466197.jpg\">Війська РФ мають перевагу у кількості військових та не рахуються із втратами, за рахунок цього постійно тиснуть.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El acuerdo entre Irán y EEUU desata una avalancha de críticas contra Netanyahu en Israel a pocos meses de las elecciones",
+    "link": "https://www.elperiodico.com/es/internacional/20260619/acuerdo-iran-eeuu-desata-avalancha-criticas-netanyahu-elecciones-israel-131611463",
+    "pubDate": "2026-06-19 18:40:57",
+    "category": "",
+    "description": "<h2>Los israelíes sienten que aún tienen cuentas pendientes tanto con Hezbolá como con su patrocinador, Irán, y que ambos aún son una amenaza</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Márquez: “Tardozzi sabe que aún no es momento de soltarme las riendas”",
+    "link": "https://www.elperiodico.com/es/deportes/20260619/marquez-tardozzi-momento-soltarme-riendas-131610611",
+    "pubDate": "2026-06-19 18:34:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El campeonísimo Marc Márquez (Ducati) sigue su proceso de recuperación. En Mugello reapareció y dio un gran paso, pero nunca se extralimitó. En Hungría, ganó las dos carreras. Y, en Brno, está delante, pero frenado por los suyos, que no quieren que una caída interrumpa la recuperación total de su campeón.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La negativa de los médicos a hacer horas extra retrasa el 14% de las operaciones no urgentes y el 16% de las endoscopias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260619/negativa-medicos-horas-extra-huelga-retrasa-operaciones-urgentes-endoscopia-131610778",
+    "pubDate": "2026-06-19 18:34:18",
+    "category": "",
+    "description": "<h2 class=\"item\">Los anestesiólogos del Hospital Clínic se unen a la protesta contra la sobrecarga laboral de los facultativos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260619/medicos-cierran-quinta-semana-paro-dolorosisima-huelga-indefinida-septiembre-131593117\">Los médicos cierran su quinta semana de paros y piden evitar \"una dolorosísima huelga indefinida\" en septiembre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260617/medicos-huelga-catalunya-escalar-conflicto-ulsterizar-verano-tarragona-manifiestan-cortan-131488341\">Los médicos en huelga catalanes llaman a \"escalar el conflicto\" tras el verano y hacer \"impracticable\" la gestión sanitaria</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський дав Лукашенку тиждень на демонтаж ретрансляторів для дронів",
     "link": "https://ua.korrespondent.net/ukraine/4887867-zelenskyi-dav-lukashenku-tyzhden-na-demontazh-retransliatoriv-dlia-droniv",
     "pubDate": "2026-06-19 18:26:00",
