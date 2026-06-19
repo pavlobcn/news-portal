@@ -1,8 +1,9 @@
-# News for 2026-06-19 12:40
+# News for 2026-06-19 12:51
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+12:49 [Із Росії видворять пастора, який "закликав молитися за Трампа"](https://ua.korrespondent.net/world/russia/4887783-iz-rosii-vydvoriat-pastora-yakyi-zaklykav-molytysia-za-trampa)<br>
 12:39 [У Київському зоопарку показали маленьку зубрицю Юкку](https://ua.korrespondent.net/ukraine/4887780-u-kyivskomu-zooparku-pokazaly-malenku-zubrytsui-yukku)<br>
 12:36 [Названо терміни відновлення пошкодженого РФ сховища ядерного палива](https://ua.korrespondent.net/ukraine/4887776-nazvano-terminy-vidnovlennia-poshkodzhenoho-rf-skhovyscha-yadernoho-palyva)<br>
 12:34 [Кремль "втішив" росіян після прильотів по Москві](https://ua.korrespondent.net/world/russia/4887775-kreml-vtishyv-rosiian-pislia-prylotiv-po-moskvi)<br>
@@ -47,6 +48,10 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:50 [Trump dice que Meloni le "suplicó" que se hicieran una foto juntos en el G7 de Evian](https://www.elperiodico.com/es/internacional/20260619/trump-dice-meloni-le-suplico-hacerse-foto-juntos-g7-131595218)<br>
+12:47 [Torres habla de "éxito" del proceso de reubicación de menores migrantes desde Canarias: "PP y Vox no han ayudado nada"](https://www.elperiodico.com/es/politica/20260619/torres-habla-exito-proceso-reubicacion-131595088)<br>
+12:45 [El Hospital Vall d’Hebron realiza la primera cirugía pediátrica de Europa con un robot que hace una sola incisión](https://www.elperiodico.com/es/videos/sociedad/hospital-vall-hebron-realiza-primera-cirugia-pediatrica-europa-robot-una-incision-video/131594778.shtml)<br>
+12:40 [Cárcel para cinco detenidos en el operativo antinarcotráfico con un muerto en Pontevedra](https://www.elperiodico.com/es/sucesos/20260619/carcel-cinco-detenidos-operativo-antinarcotrafico-131594673)<br>
 12:29 [Miles de jubilados con cuenta en estos dos bancos serán los primeros en cobrar la pensión de junio](https://www.elperiodico.com/es/economia/20260619/jubilados-fecha-cobro-pensiones-bancos-dv-131593140)<br>
 12:25 [Un hombre mata a otro en una discusión en una vivienda en la playa de Castellón](https://www.elperiodico.com/es/sucesos/20260619/hombre-mata-discusion-vivienda-playa-131593681)<br>
 12:23 [Los Mossos descartan que Andic cayera por una distracción: ni caminaba ni usaba el móvil](https://www.elperiodico.com/es/sociedad/20260619/mossos-descartan-andic-cayera-distraccion-movil-caminaba-tropiezo-131591363)<br>
