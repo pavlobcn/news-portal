@@ -66,7 +66,7 @@ public sealed class BackgroundExecutionService : Service
             {
                 await Task.Delay(ExecutionInterval, cancellationToken);
             }
-            catch (OperationCanceledException) when (cancellationToken.IsCancellationRequested)
+            catch (Android.OS.OperationCanceledException) when (cancellationToken.IsCancellationRequested)
             {
                 break;
             }
@@ -81,7 +81,8 @@ public sealed class BackgroundExecutionService : Service
 
     private Notification BuildNotification(string content)
     {
-        var launchIntent = PackageManager?.GetLaunchIntentForPackage(PackageName!) ?? new Intent(this, typeof(MainActivity));
+        var launchIntent = PackageManager?.GetLaunchIntentForPackage(PackageName!) ??
+                           new Intent(this, typeof(MainActivity));
         var pendingIntent = PendingIntent.GetActivity(
             this,
             0,
