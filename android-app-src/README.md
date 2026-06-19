@@ -19,10 +19,6 @@ The project sets `AndroidPackageFormat` to `apk` so the release output is an APK
 
 ## Runtime use
 
-Enter the GitHub repository owner, repository name, pull request number, and a GitHub token. Press **Save** to persist these values in Android shared preferences. Press **Execute** to call the GitHub API and add this comment to the selected pull request:
+Enter the GitHub repository owner, repository name, workflow file or ID, Git ref, and a GitHub token. Press **Save** to persist these values in Android shared preferences. Press **Execute** to call the GitHub Actions workflow dispatch API for the saved workflow.
 
-```text
-@codex Execute Job.md
-```
-
-For the current repository, use the repository name `news-portal` and the GitHub owner that hosts your copy of this repo. The token must be allowed to create issue or pull request comments for that repository.
+For this repository, use the workflow file `codex-hourly.yml` to trigger **Trigger Codex Cloud Task to refresh data** and the Git ref `main` unless you need to dispatch a different branch. The token must be allowed to write Actions workflows for that repository.

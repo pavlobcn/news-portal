@@ -51,10 +51,10 @@ public sealed class BackgroundExecutionService : Service
     {
         while (!cancellationToken.IsCancellationRequested)
         {
-            if (GitHubPrCommentExecutor.HasRequiredSettings(this))
+            if (GitHubWorkflowDispatchExecutor.HasRequiredSettings(this))
             {
-                UpdateNotification($"Operation is about to execute. Posting {GitHubPrCommentExecutor.DefaultComment}...");
-                var result = await GitHubPrCommentExecutor.ExecuteAsync(this, cancellationToken);
+                UpdateNotification("Operation is about to execute. Triggering workflow dispatch...");
+                var result = await GitHubWorkflowDispatchExecutor.ExecuteAsync(this, cancellationToken);
                 var prefix = result.Succeeded ? "Operation executed successfully" : "Operation execution failed";
                 UpdateNotification($"{prefix}: {result.Message}");
             }
@@ -116,7 +116,7 @@ public sealed class BackgroundExecutionService : Service
             "NewsPortal background execution",
             NotificationImportance.Low)
         {
-            Description = "Runs the saved Execute command every 3 minutes."
+            Description = "Triggers the saved GitHub Actions workflow every 3 minutes."
         };
         var notificationManager = (NotificationManager?)GetSystemService(NotificationService);
         notificationManager?.CreateNotificationChannel(channel);

@@ -17,7 +17,8 @@ public sealed class MainActivity : Activity
     private EditText _ownerText = null!;
     private EditText _repoText = null!;
     private EditText _tokenText = null!;
-    private EditText _prNumberText = null!;
+    private EditText _workflowText = null!;
+    private EditText _refText = null!;
     private TextView _statusText = null!;
     private Button _executeButton = null!;
 
@@ -50,7 +51,7 @@ public sealed class MainActivity : Activity
 
         var description = new TextView(this)
         {
-            Text = "Save GitHub settings, then add \"@codex Execute Job.md\" as a pull request comment.",
+            Text = "Save GitHub settings, then trigger the \"Trigger Codex Cloud Task to refresh data\" workflow dispatch.",
             TextSize = 15,
         };
         description.SetPadding(0, Dp(8), 0, Dp(18));
@@ -58,9 +59,9 @@ public sealed class MainActivity : Activity
 
         _ownerText = AddField(layout, "Repository owner", "Example: octocat", false);
         _repoText = AddField(layout, "Repository name", "news-portal", false);
-        _prNumberText = AddField(layout, "Pull request number", "Example: 123", false);
-        _prNumberText.InputType = Android.Text.InputTypes.ClassNumber;
-        _tokenText = AddField(layout, "GitHub token", "Fine-grained token with PR comment permission", true);
+        _workflowText = AddField(layout, "Workflow file or ID", GitHubWorkflowDispatchExecutor.DefaultWorkflowId, false);
+        _refText = AddField(layout, "Git ref", GitHubWorkflowDispatchExecutor.DefaultRef, false);
+        _tokenText = AddField(layout, "GitHub token", "Fine-grained token with Actions workflow permission", true);
 
         var buttons = new LinearLayout(this) { Orientation = Orientation.Horizontal };
         buttons.SetPadding(0, Dp(12), 0, Dp(12));
@@ -105,21 +106,23 @@ public sealed class MainActivity : Activity
 
     private void LoadSettings()
     {
-        var preferences = GetSharedPreferences(GitHubPrCommentExecutor.PreferencesName, FileCreationMode.Private)!;
+        var preferences = GetSharedPreferences(GitHubWorkflowDispatchExecutor.PreferencesName, FileCreationMode.Private)!;
         _ownerText.Text = preferences.GetString("owner", string.Empty);
         _repoText.Text = preferences.GetString("repo", "news-portal");
-        _prNumberText.Text = preferences.GetString("prNumber", string.Empty);
+        _workflowText.Text = preferences.GetString("workflowId", GitHubWorkflowDispatchExecutor.DefaultWorkflowId);
+        _refText.Text = preferences.GetString("gitRef", GitHubWorkflowDispatchExecutor.DefaultRef);
         _tokenText.Text = preferences.GetString("token", string.Empty);
         _statusText.Text = "Settings loaded from permanent app storage.";
     }
 
     private void SaveSettings(bool showMessage)
     {
-        var preferences = GetSharedPreferences(GitHubPrCommentExecutor.PreferencesName, FileCreationMode.Private)!;
+        var preferences = GetSharedPreferences(GitHubWorkflowDispatchExecutor.PreferencesName, FileCreationMode.Private)!;
         using var editor = preferences.Edit()!;
         editor.PutString("owner", _ownerText.Text?.Trim() ?? string.Empty);
         editor.PutString("repo", _repoText.Text?.Trim() ?? string.Empty);
-        editor.PutString("prNumber", _prNumberText.Text?.Trim() ?? string.Empty);
+        editor.PutString("workflowId", _workflowText.Text?.Trim() ?? string.Empty);
+        editor.PutString("gitRef", _refText.Text?.Trim() ?? string.Empty);
         editor.PutString("token", _tokenText.Text ?? string.Empty);
         editor.Apply();
         HideKeyboard();
@@ -136,9 +139,9 @@ public sealed class MainActivity : Activity
         SaveSettings(showMessage: false);
 
         _executeButton.Enabled = false;
-        _statusText.Text = "Adding PR comment...";
+        _statusText.Text = "Triggering workflow dispatch...";
 
-        var result = await GitHubPrCommentExecutor.ExecuteAsync(this);
+        var result = await GitHubWorkflowDispatchExecutor.ExecuteAsync(this);
         ShowResult(result.Message, isError: !result.Succeeded);
         _executeButton.Enabled = true;
     }
