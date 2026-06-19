@@ -1,8 +1,9 @@
-# News for 2026-06-19 12:28
+# News for 2026-06-19 12:32
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
 ## ua.korrespondent.net
+12:26 [Під тиском США: на Кубі оголосили "перебудову"](https://ua.korrespondent.net/world/4887773-pid-tyskom-ssha-na-kubi-oholosyly-perebudovu)<br>
 12:18 ["Відкрита розмова, різні погляди": Фіцо розповів про зустріч з Зеленським](https://ua.korrespondent.net/world/4887770-vidkryta-rozmova-rizni-pohliady-fitso-rozpoviv-pro-zustrich-z-zelenskym)<br>
 12:12 [Путін припустився історичної помилки - Сибіга](https://ua.korrespondent.net/ukraine/4887767-putin-prypustyvsia-istorychnoi-pomylky-sybiha)<br>
 11:57 [Атака на маршрутки у Херсоні: число поранених зросло](https://ua.korrespondent.net/ukraine/4887764-ataka-na-marshrutky-u-khersoni-chyslo-poranenykh-zroslo)<br>
@@ -42,6 +43,7 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:29 [Miles de jubilados con cuenta en estos dos bancos serán los primeros en cobrar la pensión de junio](https://www.elperiodico.com/es/economia/20260619/jubilados-fecha-cobro-pensiones-bancos-dv-131593140)<br>
 12:25 [Un hombre mata a otro en una discusión en una vivienda en la playa de Castellón](https://www.elperiodico.com/es/sucesos/20260619/hombre-mata-discusion-vivienda-playa-131593681)<br>
 12:23 [Los Mossos descartan que Andic cayera por una distracción: ni caminaba ni usaba el móvil](https://www.elperiodico.com/es/sociedad/20260619/mossos-descartan-andic-cayera-distraccion-movil-caminaba-tropiezo-131591363)<br>
 12:22 [Lucía Rodríguez, mejor nota de España en la PAU y la más alta en los Premios Extraordinarios de Bachillerato Asturias: "Solo pude mirar un poco por encima los apuntes"](https://www.elperiodico.com/es/sociedad/20260619/lucia-rodriguez-mejor-nota-espana-131593131)<br>
