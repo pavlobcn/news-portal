@@ -19,7 +19,7 @@ jobs:
       # Mentions from bot accounts are often ignored by automation.
       GH_TOKEN: ${{ secrets.CODEX_TRIGGER_TOKEN }}
       PR_NUMBER: 55
-      CODEX_COMMENT_BODY: '@codex Execute Job.md.'
+      CODEX_COMMENT_BODY: '@codex Execute Job.md. In your final response, write exactly one sentence under Summary, do not include file citations, and omit the Testing section entirely.'
       STALE_COMMENT_CUTOFF_HOURS: 48
     steps:
       - name: Delete stale PR comments
