@@ -6,10 +6,11 @@ using Android.Content;
 
 namespace NewsPortal;
 
-internal static class GitHubPrCommentExecutor
+internal static class GitHubWorkflowDispatchExecutor
 {
     internal const string PreferencesName = "NewsPortalSettings";
-    internal const string DefaultComment = "@codex Execute Job.md";
+    internal const string DefaultWorkflowId = "codex-hourly.yml";
+    internal const string DefaultRef = "main";
 
     internal static GitHubSettings LoadSettings(Context context)
     {
@@ -17,7 +18,8 @@ internal static class GitHubPrCommentExecutor
         return new GitHubSettings(
             preferences.GetString("owner", string.Empty) ?? string.Empty,
             preferences.GetString("repo", "news-portal") ?? "news-portal",
-            preferences.GetString("prNumber", string.Empty) ?? string.Empty,
+            preferences.GetString("workflowId", DefaultWorkflowId) ?? DefaultWorkflowId,
+            preferences.GetString("gitRef", DefaultRef) ?? DefaultRef,
             preferences.GetString("token", string.Empty) ?? string.Empty);
     }
 
@@ -28,7 +30,7 @@ internal static class GitHubPrCommentExecutor
         var settings = LoadSettings(context);
         if (!settings.IsComplete)
         {
-            return ExecutionResult.Failure("Repository owner, repository name, PR number, and token are required.");
+            return ExecutionResult.Failure("Repository owner, repository name, workflow file, Git ref, and token are required.");
         }
 
         try
@@ -40,14 +42,14 @@ internal static class GitHubPrCommentExecutor
             client.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
 
             var endpoint =
-                $"https://api.github.com/repos/{Uri.EscapeDataString(settings.Owner)}/{Uri.EscapeDataString(settings.Repo)}/issues/{Uri.EscapeDataString(settings.PrNumber)}/comments";
-            var payload = JsonSerializer.Serialize(new { body = DefaultComment });
+                $"https://api.github.com/repos/{Uri.EscapeDataString(settings.Owner)}/{Uri.EscapeDataString(settings.Repo)}/actions/workflows/{Uri.EscapeDataString(settings.WorkflowId)}/dispatches";
+            var payload = JsonSerializer.Serialize(new { @ref = settings.GitRef });
             using var content = new StringContent(payload, Encoding.UTF8, "application/json");
             using var response = await client.PostAsync(endpoint, content, cancellationToken);
             var responseBody = await response.Content.ReadAsStringAsync(cancellationToken);
 
-            return response.StatusCode == HttpStatusCode.Created
-                ? ExecutionResult.Success("Comment added successfully.")
+            return response.StatusCode == HttpStatusCode.NoContent
+                ? ExecutionResult.Success($"Workflow dispatch sent for {settings.WorkflowId} on {settings.GitRef}.")
                 : ExecutionResult.Failure($"GitHub API error {(int)response.StatusCode}: {TrimForDisplay(responseBody)}");
         }
         catch (OperationCanceledException) when (cancellationToken.IsCancellationRequested)
@@ -72,12 +74,13 @@ internal static class GitHubPrCommentExecutor
     }
 }
 
-internal sealed record GitHubSettings(string Owner, string Repo, string PrNumber, string Token)
+internal sealed record GitHubSettings(string Owner, string Repo, string WorkflowId, string GitRef, string Token)
 {
     internal bool IsComplete =>
         !string.IsNullOrWhiteSpace(Owner) &&
         !string.IsNullOrWhiteSpace(Repo) &&
-        !string.IsNullOrWhiteSpace(PrNumber) &&
+        !string.IsNullOrWhiteSpace(WorkflowId) &&
+        !string.IsNullOrWhiteSpace(GitRef) &&
         !string.IsNullOrWhiteSpace(Token);
 }
 
