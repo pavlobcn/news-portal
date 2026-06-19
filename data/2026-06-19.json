@@ -1,5 +1,23 @@
 [
   {
+    "title": "Abstenerse del amianto y abstenerse de las urnas",
+    "link": "https://www.elperiodico.com/es/opinion/20260619/abstenerse-amianto-abstenerse-urnas-articulo-carles-sans-131573523",
+    "pubDate": "2026-06-19 15:08:12",
+    "category": "",
+    "description": "<h2>Es poco alentador ver cómo ni en las cuestiones más sensatas los partidos políticos son capaces de mirar todos hacia la misma dirección</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260617/parlament-aprueba-unanimidad-ley-amianto-131496719\">Catalunya aprueba la ley para erradicar dos millones de toneladas de amianto, pero aún tardará hasta un año en aplicarla</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Уряд посилює підтримку аграріїв",
+    "link": "https://ua.korrespondent.net/business/4887819-uriad-posyluiie-pidtrymku-ahrariiv",
+    "pubDate": "2026-06-19 15:06:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466073.jpg\">Аграрії зможуть отримати до 1000 грн на гектар допомоги на закупівлю комплексних мінеральних добрив українського виробництва - з розрахунку до 7 тонн на кожні 100 гектарів угідь.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "PSOE y Sumar vuelven a vetar una iniciativa del PP en la que pedían a Sánchez elecciones o una cuestión de confianza",
     "link": "https://www.elperiodico.com/es/politica/20260619/psoe-sumar-vetar-pp-sanchez-elecciones-131602833",
     "pubDate": "2026-06-19 15:04:34",
@@ -14,6 +32,15 @@
     "pubDate": "2026-06-19 15:04:28",
     "category": "",
     "description": "<h2 class=\"item\">Este sistema, que crea música basada en los movimientos y la voz del usuario, planea extenderse a la salud mental</h2><h2 class=\"item\">\"Son sesiones nuevas basadas en tus sentimientos, como te sientes\", explica la autora de la herramienta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260618/sonar-gincana-celebracion-ritual-primera-dia-fira-gran-via-festival-barcelona-131578887\">Un Sónar con gincana y celebración ritual en su primera jornada completa en Fira Gran Vía</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Подолано екватор ремонтної кампанії на АЕС України",
+    "link": "https://ua.korrespondent.net/business/economics/4887818-podolano-ekvator-remontnoi-kampanii-na-aes-ukrainy",
+    "pubDate": "2026-06-19 15:03:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466072.jpg\">Від початку року атомні електростанції України виробили понад 25 млрд кВт⋅год електроенергії, перевищивши прогнозовані показники.",
     "topic": "",
     "topic_match_probability": 0
   },
