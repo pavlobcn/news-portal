@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net10.0-android</TargetFramework>
     <OutputType>Exe</OutputType>
@@ -6,7 +6,7 @@
     <ApplicationId>com.newportal.githubexecutor</ApplicationId>
     <ApplicationTitle>NewsPortal</ApplicationTitle>
     <ApplicationVersion>1</ApplicationVersion>
-    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <ApplicationDisplayVersion>0.6</ApplicationDisplayVersion>
     <SupportedOSPlatformVersion>23.0</SupportedOSPlatformVersion>
     <AndroidPackageFormat>apk</AndroidPackageFormat>
     <AndroidUseAapt2>true</AndroidUseAapt2>

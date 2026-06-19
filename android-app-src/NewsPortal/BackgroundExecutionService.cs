@@ -1,4 +1,3 @@
-using Android.App;
 using Android.Content;
 using Android.OS;
 
@@ -9,7 +8,9 @@ public sealed class BackgroundExecutionService : Service
 {
     private const int NotificationId = 1001;
     private const string ChannelId = "news_portal_background_execution";
+    private static readonly TimeSpan WaitInterval = TimeSpan.FromMinutes(1);
     private static readonly TimeSpan ExecutionInterval = TimeSpan.FromMinutes(60);
+    private static DateTime? _lastExecutionTime;
     private CancellationTokenSource? _stoppingTokenSource;
     private Task? _executionLoop;
 
@@ -53,10 +54,19 @@ public sealed class BackgroundExecutionService : Service
         {
             if (GitHubWorkflowDispatchExecutor.HasRequiredSettings(this))
             {
-                UpdateNotification("Operation is about to execute. Triggering workflow dispatch...");
-                var result = await GitHubWorkflowDispatchExecutor.ExecuteAsync(this, cancellationToken);
-                var prefix = result.Succeeded ? "Operation executed successfully" : "Operation execution failed";
-                UpdateNotification($"{prefix}: {result.Message}");
+                if (!_lastExecutionTime.HasValue || DateTime.Now - _lastExecutionTime.Value >= ExecutionInterval)
+                {
+                    UpdateNotification("Operation is about to execute. Triggering workflow dispatch...");
+                    var result = await GitHubWorkflowDispatchExecutor.ExecuteAsync(this, cancellationToken);
+                    var prefix = result.Succeeded ? "Operation executed successfully" : "Operation execution failed";
+                    UpdateNotification($"{prefix}: {result.Message}");
+                    _lastExecutionTime = DateTime.Now;
+                }
+                else
+                {
+                    UpdateNotification(
+                        $"Mins since last execution: {(int)(DateTime.Now - _lastExecutionTime.Value).TotalMinutes}");
+                }
             }
             else
             {
@@ -65,13 +75,16 @@ public sealed class BackgroundExecutionService : Service
 
             try
             {
-                await Task.Delay(ExecutionInterval, cancellationToken);
+                await Task.Delay(WaitInterval, cancellationToken);
             }
-            catch (Android.OS.OperationCanceledException) when (cancellationToken.IsCancellationRequested)
+            catch (Exception e)
             {
+                UpdateNotification(e.ToString());
                 break;
             }
         }
+
+        UpdateNotification("cancellationToken.IsCancellationRequested");
     }
 
     private void UpdateNotification(string content)
