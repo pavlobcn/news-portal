@@ -85,7 +85,6 @@ public sealed class MainActivity : Activity
         var field = new EditText(this)
         {
             Hint = hint,
-            SingleLine = true,
         };
         field.SetPadding(0, 0, 0, Dp(6));
         if (password)
@@ -159,7 +158,8 @@ public sealed class MainActivity : Activity
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/vnd.github+json"));
             client.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
 
-            var endpoint = $"https://api.github.com/repos/{Uri.EscapeDataString(owner)}/{Uri.EscapeDataString(repo)}/issues/{Uri.EscapeDataString(prNumber)}/comments";
+            var endpoint =
+                $"https://api.github.com/repos/{Uri.EscapeDataString(owner)}/{Uri.EscapeDataString(repo)}/issues/{Uri.EscapeDataString(prNumber)}/comments";
             var payload = JsonSerializer.Serialize(new { body = DefaultComment });
             using var content = new StringContent(payload, Encoding.UTF8, "application/json");
             using var response = await client.PostAsync(endpoint, content);
@@ -171,7 +171,8 @@ public sealed class MainActivity : Activity
             }
             else
             {
-                ShowResult($"GitHub API error {(int)response.StatusCode}: {TrimForDisplay(responseBody)}", isError: true);
+                ShowResult($"GitHub API error {(int)response.StatusCode}: {TrimForDisplay(responseBody)}",
+                    isError: true);
             }
         }
         catch (Exception ex)
