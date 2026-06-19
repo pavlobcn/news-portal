@@ -1,4 +1,4 @@
-# News for 2026-06-19 14:59
+# News for 2026-06-19 15:05
 
 Previous day: [2026-06-18](./data/2026-06-18.md)
 
@@ -59,6 +59,8 @@ Previous day: [2026-06-18](./data/2026-06-18.md)
 07:17 [Capitán Willy y Hugo González para pelear por el invicto](https://as.com/baloncesto/mas_baloncesto/capitan-willy-y-hugo-gonzalez-para-pelear-por-el-invicto-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:04 [Una app presentada en el Sónar hace musicoterapia con IA para aliviar el Parkinson](https://www.elperiodico.com/es/ser-feliz/20260619/app-presentada-sonar-musicoterapia-ia-131560210)<br>
+15:00 [Cinco formas de cotizar sin trabajar y cobrar más pensión de jubilación, según el abogado Ignacio Solsona](https://www.elperiodico.com/es/economia/20260619/cinco-formas-cotizar-cobrar-mas-pension-de-jubilacion-dv-131542632)<br>
 14:57 [Ecoener abre una nueva etapa con el foco en crecer más, la rentabilidad y la generación de caja con casi 400 MW a punto de construcción en Rumanía, Colombia y Guatemala](https://www.elperiodico.com/es/economia/20260619/ecoener-abre-nueva-etapa-foco-131602542)<br>
 14:49 [El PP dice que el caso Amador es particular y que no afecta a la Comunidad de Madrid](https://www.elperiodico.com/es/politica/20260619/pp-dice-caso-amador-particular-131602192)<br>
 14:30 [Oasis de aguas cristalinas: una de las piscinas naturales más grandes de España ya está abierta](https://www.elperiodico.com/es/vida-y-estilo/20260619/piscina-natural-grande-espana-sierra-gredos-garganta-alardos-caceres-avila-dv-131488580)<br>
