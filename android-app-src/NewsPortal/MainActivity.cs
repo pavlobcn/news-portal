@@ -1,13 +1,10 @@
-using System.Net;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Text.Json;
 using Android.App;
 using Android.OS;
 using Android.Views;
 using Android.Views.InputMethods;
 using Android.Widget;
 using Android.Content;
+using Android.Content.PM;
 using Android.Graphics;
 
 namespace NewsPortal;
@@ -15,8 +12,7 @@ namespace NewsPortal;
 [Activity(Label = "NewsPortal", MainLauncher = true, Exported = true)]
 public sealed class MainActivity : Activity
 {
-    private const string PreferencesName = "NewsPortalSettings";
-    private const string DefaultComment = "@codex Execute Job.md";
+    private const int NotificationPermissionRequestCode = 100;
 
     private EditText _ownerText = null!;
     private EditText _repoText = null!;
@@ -30,6 +26,8 @@ public sealed class MainActivity : Activity
         base.OnCreate(savedInstanceState);
         BuildUi();
         LoadSettings();
+        RequestNotificationPermissionIfNeeded();
+        BackgroundExecutionService.Start(this);
     }
 
     private void BuildUi()
@@ -107,7 +105,7 @@ public sealed class MainActivity : Activity
 
     private void LoadSettings()
     {
-        var preferences = GetSharedPreferences(PreferencesName, FileCreationMode.Private)!;
+        var preferences = GetSharedPreferences(GitHubPrCommentExecutor.PreferencesName, FileCreationMode.Private)!;
         _ownerText.Text = preferences.GetString("owner", string.Empty);
         _repoText.Text = preferences.GetString("repo", "news-portal");
         _prNumberText.Text = preferences.GetString("prNumber", string.Empty);
@@ -117,7 +115,7 @@ public sealed class MainActivity : Activity
 
     private void SaveSettings(bool showMessage)
     {
-        var preferences = GetSharedPreferences(PreferencesName, FileCreationMode.Private)!;
+        var preferences = GetSharedPreferences(GitHubPrCommentExecutor.PreferencesName, FileCreationMode.Private)!;
         using var editor = preferences.Edit()!;
         editor.PutString("owner", _ownerText.Text?.Trim() ?? string.Empty);
         editor.PutString("repo", _repoText.Text?.Trim() ?? string.Empty);
@@ -126,6 +124,7 @@ public sealed class MainActivity : Activity
         editor.Apply();
         HideKeyboard();
         _statusText.Text = "Settings saved.";
+        BackgroundExecutionService.Start(this);
         if (showMessage)
         {
             Toast.MakeText(this, "Settings saved", ToastLength.Short)?.Show();
@@ -135,71 +134,19 @@ public sealed class MainActivity : Activity
     private async Task ExecuteAsync()
     {
         SaveSettings(showMessage: false);
-        var owner = _ownerText.Text?.Trim();
-        var repo = _repoText.Text?.Trim();
-        var prNumber = _prNumberText.Text?.Trim();
-        var token = _tokenText.Text;
-
-        if (string.IsNullOrWhiteSpace(owner) || string.IsNullOrWhiteSpace(repo) ||
-            string.IsNullOrWhiteSpace(prNumber) || string.IsNullOrWhiteSpace(token))
-        {
-            ShowResult("Repository owner, repository name, PR number, and token are required.", isError: true);
-            return;
-        }
 
         _executeButton.Enabled = false;
         _statusText.Text = "Adding PR comment...";
 
-        try
-        {
-            using var client = new HttpClient();
-            client.DefaultRequestHeaders.UserAgent.ParseAdd("NewsPortal-Android-App");
-            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/vnd.github+json"));
-            client.DefaultRequestHeaders.Add("X-GitHub-Api-Version", "2022-11-28");
-
-            var endpoint =
-                $"https://api.github.com/repos/{Uri.EscapeDataString(owner)}/{Uri.EscapeDataString(repo)}/issues/{Uri.EscapeDataString(prNumber)}/comments";
-            var payload = JsonSerializer.Serialize(new { body = DefaultComment });
-            using var content = new StringContent(payload, Encoding.UTF8, "application/json");
-            using var response = await client.PostAsync(endpoint, content);
-            var responseBody = await response.Content.ReadAsStringAsync();
-
-            if (response.StatusCode == HttpStatusCode.Created)
-            {
-                ShowResult("Comment added successfully.", isError: false);
-            }
-            else
-            {
-                ShowResult($"GitHub API error {(int)response.StatusCode}: {TrimForDisplay(responseBody)}",
-                    isError: true);
-            }
-        }
-        catch (Exception ex)
-        {
-            ShowResult($"Error calling GitHub API: {ex.Message}", isError: true);
-        }
-        finally
-        {
-            _executeButton.Enabled = true;
-        }
+        var result = await GitHubPrCommentExecutor.ExecuteAsync(this);
+        ShowResult(result.Message, isError: !result.Succeeded);
+        _executeButton.Enabled = true;
     }
 
     private void ShowResult(string message, bool isError)
     {
         _statusText.Text = message;
         Toast.MakeText(this, message, isError ? ToastLength.Long : ToastLength.Short)?.Show();
-    }
-
-    private static string TrimForDisplay(string value)
-    {
-        const int maxLength = 300;
-        if (string.IsNullOrWhiteSpace(value))
-        {
-            return "No response body.";
-        }
-
-        return value.Length <= maxLength ? value : value[..maxLength] + "...";
     }
 
     private void HideKeyboard()
@@ -209,6 +156,15 @@ public sealed class MainActivity : Activity
         if (token is not null)
         {
             inputMethodManager?.HideSoftInputFromWindow(token, HideSoftInputFlags.None);
+        }
+    }
+
+    private void RequestNotificationPermissionIfNeeded()
+    {
+        if (Build.VERSION.SdkInt >= BuildVersionCodes.Tiramisu &&
+            CheckSelfPermission(Android.Manifest.Permission.PostNotifications) != Permission.Granted)
+        {
+            RequestPermissions(new[] { Android.Manifest.Permission.PostNotifications }, NotificationPermissionRequestCode);
         }
     }
 
