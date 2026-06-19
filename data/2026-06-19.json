@@ -1,5 +1,59 @@
 [
   {
+    "title": "Catalunya recomienda a las empresas dar teletrabajo a los empleados con hijos durante las vacaciones escolares",
+    "link": "https://www.elperiodico.com/es/economia/20260619/teletrabajo-vacaciones-catalunya-empresas-generalitat-cataluna-131585330",
+    "pubDate": "2026-06-19 11:30:25",
+    "category": "",
+    "description": "<h2>La Generalitat insta a las compañías a facilitar el trabajo a distancia mientras negocia con sus funcionarios pluses salariales para que no se queden en casa</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260608/teletrabajo-cataluna-pagar-funcionarios-renuncien-131156970\">El Govern plantea pagar a los funcionarios que renuncien a teletrabajar</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260318/teletrabajo-tribunal-supremo-avala-empresas-autorizar-mas-dias-a-directivos-127776677\">El Supremo avala que las empresas den más días de teletrabajo a los directivos que a sus empleados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El refugio de Alice Campello: una villa exlusiva con piscina infinita y vistas al mediterráneo",
+    "link": "https://www.elperiodico.com/es/gente/20260619/alice-campello-morata-refugio-casa-villa-menorca-dv-131585130",
+    "pubDate": "2026-06-19 11:29:08",
+    "category": "",
+    "description": "<h2 class=\"item\">La casa se ha construido como un auténtico oasis, con guiños a la arquitectura y la cultura local, pero también otorgando relevancia al orden minimalista y a la entrada de luz natural</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260525/ventilador-techo-aire-acondicionado-ola-calor-factura-luz-117960203\">Ahora todo el mundo tiene un ventilador de techo: \"Es más agradable y barato que el aire acondicionado\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Felipe VI y la princesa Leonor comparten una jornada de vuelo en la Academia del Aire",
+    "link": "https://www.elperiodico.com/es/videos/politica/felipe-vi-princesa-leonor-comparten-vuelo-academia-aire/131590329.shtml",
+    "pubDate": "2026-06-19 11:29:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tres salidas más en el filial del Barça femenino",
+    "link": "https://www.elperiodico.com/es/deportes/20260619/tres-salidas-filial-barca-femenino-131588843",
+    "pubDate": "2026-06-19 11:28:01",
+    "category": "",
+    "description": "<h2>La entidad azulgrana anuncia que Emma Gálvez, Laia Martret y Natalia Escot ponen punto final a sus etapas en el fútbol formativo del FC Barcelona</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Viladecans renueva 1.300 contenedores de residuos para incentivar la recogida selectiva",
+    "link": "https://www.elperiodico.com/es/barcelona/20260619/viladecans-renueva-1300-contenedores-residuos-incentivar-recogida-selectiva-131589929",
+    "pubDate": "2026-06-19 11:26:30",
+    "category": "",
+    "description": "<h2>Los nuevos son más fáciles de utilizar, más resistentes a las condiciones climáticas y el vandalismo y más compactos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Підмосков'ї виник дефіцит бензину та утворилися черги на АЗС",
+    "link": "https://ua.korrespondent.net/world/russia/4887757-u-pidmoskovi-vynyk-defitsyt-benzynu-ta-utvorylysia-cherhy-na-azs",
+    "pubDate": "2026-06-19 11:26:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4465906.jpg\">Мешканці кількох районів Московської області зафіксували серйозні перебої з постачанням бензину.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El biopic de Rocío Jurado arranca en Chipiona: el impactante parecido de la actriz y los detalles del reparto",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260619/biopic-rocio-jurado-arranca-chipiona-131590102",
     "pubDate": "2026-06-19 11:23:41",
@@ -14,6 +68,15 @@
     "pubDate": "2026-06-19 11:22:40",
     "category": "",
     "description": "<h2>Una exposición en PHotoEspaña revela cómo la cámara ayudó a construir el imaginario más magnético de la moda española: puede visitarse en la Galería Plaza del Gato hasta el 19 de septiembre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Долар перевищив психологічний рубіж в обмінниках",
+    "link": "https://ua.korrespondent.net/business/financial/4887759-dolar-perevyschyv-psykholohichnyi-rubizh-v-obminnykakh",
+    "pubDate": "2026-06-19 11:22:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4465920.jpg\">Середній курс продажу долара зріс до 45,05 гривні, у той час як курс продажу євро знизився до 52,06 гривень.",
     "topic": "",
     "topic_match_probability": 0
   },
