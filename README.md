@@ -1,8 +1,19 @@
-# News for 2026-06-20 13:21
+# News for 2026-06-20 17:59
 
 Previous day: [2026-06-19](./data/2026-06-19.md)
 
 ## ua.korrespondent.net
+17:51 [Скандал не вщухає: Трамп зробив заяву про Мелоні](https://ua.korrespondent.net/world/4888034-skandal-ne-vschukhaie-tramp-zrobyv-zaiavu-pro-meloni)<br>
+17:24 [Росіяни вдарили по околицях Сум: є жертва та поранені](https://ua.korrespondent.net/ukraine/4888030-rosiiany-vdaryly-po-okolytsiakh-sum-ye-zhertva-ta-poraneni)<br>
+16:56 [Зеленський відправив Навроцькому поштою орден Білого Орла](https://ua.korrespondent.net/ukraine/4888027-zelenskyi-vidpravyv-navrotskomu-poshtoui-orden-biloho-orla)<br>
+16:42 [Удар по Москві: з'явилися супутникові фото](https://ua.korrespondent.net/ukraine/4888024-udar-po-moskvi-ziavylysia-suputnykovi-foto)<br>
+15:44 [Іран знову закрив Ормузьку протоку](https://ua.korrespondent.net/world/4888020-iran-znovu-zakryv-ormuzku-protoku)<br>
+15:27 [Мільйон українців вже подали заявки на участь у Скринінгу здоров'я 40+](https://ua.korrespondent.net/ukraine/4888018-milion-ukraintsiv-vzhe-podaly-zaiavky-na-uchast-u-skryninhu-zdorovia-40)<br>
+15:12 [На пляжі в Туреччині знайшли черговий безпілотник](https://ua.korrespondent.net/world/4888016-na-pliazhi-v-turechchyni-znaishly-cherhovyi-bezpilotnyk)<br>
+14:47 [СБС уразили газову інфраструктуру Криму](https://ua.korrespondent.net/ukraine/4888014-sbs-urazyly-hazovu-infrastrukturu-krymu)<br>
+14:24 [У Рівному під час пожежі загинула дитина, ще троє госпіталізовані](https://ua.korrespondent.net/ukraine/4888012-u-rivnomu-pid-chas-pozhezhi-zahynula-dytyna-sche-troie-hospitalizovani)<br>
+13:54 [Дрони дістали НПЗ Тюмені за дві тис км від України](https://ua.korrespondent.net/world/russia/4888009-drony-distaly-npz-tuimeni-za-dvi-tys-km-vid-ukrainy)<br>
+13:35 [Скандал з УПА: хто ще з топпосадовців відреагував](https://ua.korrespondent.net/ukraine/4888003-skandal-z-upa-khto-sche-z-topposadovtsiv-vidreahuvav)<br>
 13:09 [Флеш: Перехоплювачі РФ патрулюють логістичні шляхи](https://ua.korrespondent.net/ukraine/4887996-flesh-perekhopluivachi-rf-patruluiuit-lohistychni-shliakhy)<br>
 12:43 [СО уразили міст через Генічеську протоку - Генштаб](https://ua.korrespondent.net/ukraine/4888000-so-urazyly-mist-cherez-henichesku-protoku-henshtab)<br>
 12:17 [В Одесі "шахед" атакував АЗС: загорівся газовоз](https://ua.korrespondent.net/city/odessa/4887993-v-odesi-shakhed-atakuvav-azs-zahorivsia-hazovoz)<br>
@@ -34,6 +45,7 @@ Previous day: [2026-06-19](./data/2026-06-19.md)
 00:34 [Трамп мало не "здав" Україну Путіну - Макрон](https://ua.korrespondent.net/world/worldabus/4887918-tramp-malo-ne-zdav-ukrainu-putinu-makron)<br>
 
 ## as.com
+13:12 [Hezonja se despide del Chacho](https://as.com/baloncesto/acb/hezonja-se-despide-del-chacho-f202606-n/)<br>
 10:33 [El Clásico de los deberes sin hacer](https://as.com/baloncesto/euroliga/el-clasico-de-los-deberes-sin-hacer-f202606-n/)<br>
 10:13 [Así se forjó la venta del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/asi-se-forjo-la-venta-del-movistar-estudiantes-f202606-n/)<br>
 07:00 [Perro viejo nunca muere](https://as.com/baloncesto/acb/perro-viejo-nunca-muere-f202606-n/)<br>
@@ -41,6 +53,30 @@ Previous day: [2026-06-19](./data/2026-06-19.md)
 06:58 [El Valencia apela al factor Roig Arena](https://as.com/baloncesto/acb/el-valencia-apela-al-factor-roig-arena-f202606-n/)<br>
 
 ## www.elperiodico.com
+17:45 [Conmoción en Lanzarote por la muerte de una niña de 4 años tras ser sacada de una piscina con síntomas de ahogamiento](https://www.elperiodico.com/es/sucesos/20260620/conmocion-lanzarote-muerte-ahogamiento-nina-4-anos-131632841)<br>
+17:20 [Uno de los mejores barberos de España es catalán: gana dos de los premios más prestigiosos en el mundo de la barbería](https://www.elperiodico.com/es/gente/20260620/mejor-barbero-espana-2026-catalan-javi-torrente-barbers-dv-loc-131237505)<br>
+17:15 [El rincón de Cornellà que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/cornella/20260620/rincon-cornella-historia-cine-dv-loc-111466254)<br>
+17:11 [Tellado: "A Sánchez y su banda les queda muy poco tiempo para seguir robando"](https://www.elperiodico.com/es/videos/politica/tellado-sanchez-banda-les-queda/131631965.shtml)<br>
+17:07 [Sony LinkBuds Clip: auriculares de formato abierto que priorizan comodidad y sonido limpio](https://www.elperiodico.com/es/tecnologia/20260620/sony-linkbuds-clip-auriculares-abiertos-131631488)<br>
+17:05 [Cuba denuncia que EEUU ejerce un "bloqueo total" al país, "similar a uno de tipo militar"](https://www.elperiodico.com/es/internacional/20260620/cuba-denuncia-eeuu-ejerce-bloqueo-131631780)<br>
+17:04 [Márquez: "¿Bezzecchi? No es mi objetivo; mi objetivo es construir mi futuro para muchos años"](https://www.elperiodico.com/es/deportes/20260620/marquez-bezzecchi-objetivo-objetivo-construir-131631421)<br>
+16:06 [Nevenka Fernández regresa arropada a Ponferrada para participar en un acto público](https://www.elperiodico.com/es/videos/sociedad/nevenka-fernandez-regresa-arropada-ponferrada/131630717.shtml)<br>
+16:00 [Aina Clotet festeja su debut como directora y actriz protagonista arropada por Pep Guardiola](https://www.elperiodico.com/es/opinion/20260620/aina-clotet-debut-directora-pep-guardiola-131586881)<br>
+16:00 [Los cruceros solo para adultos regresan a Barcelona con dos barcos este verano: así son y funcionan](https://www.elperiodico.com/es/barcelona/20260620/cruceros-adultos-regresan-barcelona-barcos-dos-virgin-voyages-claves-131555145)<br>
+15:46 [Segunda jornada de Sónar en Barcelona](https://www.elperiodico.com/es/fotos/en-imagenes/segunda-jornada-sonar-barcelona-fotos-131630214)<br>
+15:46 [Márquez le araña otros siete puntos a Bezzecchi en busca del milagro](https://www.elperiodico.com/es/deportes/20260620/marquez-le-arana-siete-puntos-131629958)<br>
+15:35 [Irán vuelve a bloquear la principal ruta energética del Golfo en represalia por los ataques israelíes en el Líbano](https://www.elperiodico.com/es/internacional/20260620/iran-cierra-nuevo-estrecho-ormuz-131630151)<br>
+15:16 [Muere ahogado un hombre en la playa de Sant Miquel de Barcelona](https://www.elperiodico.com/es/videos/sociedad/muere-ahogado-hombre-playa-sant-miquel-video/131629528.shtml)<br>
+15:08 [El PP acusa a Sánchez de convertir la Moncloa "en una guarida de delincuentes" tras la retirada del pasaporte a su esposa](https://www.elperiodico.com/es/politica/20260620/pp-begona-gomez-esposa-pedro-sanchez-retirada-pasaporte-131629368)<br>
+15:07 [Peinado ve posible que los escoltas de Begoña Gómez la ayuden a huir de España](https://www.elperiodico.com/es/politica/20260620/peinado-ve-posible-escoltas-begona-131629569)<br>
+15:00 [Un pueblo de 44 habitantes de Soria inaugura una piscina climatizada de 1,3 millones financiada por las eólicas: "Espero que dé vida al pueblo"](https://www.elperiodico.com/es/sociedad/20260620/pueblo-soria-inaugura-piscina-climatizada-eolicas-131600320)<br>
+14:55 [Llega la primera ola de calor del verano](https://www.elperiodico.com/es/fotos/sociedad/llega-primera-ola-calor-verano-fotos-131629372)<br>
+14:44 [Esta es la cifra que ingresan los caseros cada mes en Catalunya: los jóvenes se empobrecen](https://www.elperiodico.com/es/catalunya/20260620/alquiler-cataluna-caseros-inquilino-vivienda-sueldo-dv-lo-130819076)<br>
+14:29 [La primera ola de calor del verano llega a Catalunya](https://www.elperiodico.com/es/videos/sociedad/primera-ola-calor-verano-llega-video/131628532.shtml)<br>
+14:27 [Así ha sido el brutal incendio en un hotel de República Dominicana](https://www.elperiodico.com/es/videos/internacional/sido-brutal-incendio-hotel-republica/131628701.shtml)<br>
+14:14 [El 90% de los fallecidos por ahogamiento mueren en zonas sin vigilancia](https://www.elperiodico.com/es/sociedad/20260620/hay-salvacion-fallecidos-ahogados-espana-vigilancia-socorrista-90-131424531)<br>
+14:14 [Catalunya ya ha registrado 17 muertes por ahogamiento en lo que va de año: tres solo desde el viernes](https://www.elperiodico.com/es/sociedad/20260620/ahogados-playas-catalanas-espana-ninos-tarragona-ahogamientos-131301537)<br>
+13:27 [El juez Peinado envía a juicio a Begoña Gómez y le retira el pasaporte al ver riesgo de fuga](https://www.elperiodico.com/es/politica/20260620/juez-peinado-retira-pasaporte-begona-131627475)<br>
 13:12 [La defensa de Jonathan Andic critica las filtraciones de su vida personal para lograr una "condena social previa"](https://www.elperiodico.com/es/sociedad/20260620/defensa-jonathan-andic-condena-social-previa-131626583)<br>
 13:03 [Un hombre muere ahogado de madrugada en la playa de Sant Miquel de Barcelona](https://www.elperiodico.com/es/barcelona/20260620/muere-ahogado-madrugada-playa-sant-miquel-barcelona-131626709)<br>
 12:56 [Las rocas donde tuvo lugar el accidente, en la playa de l'Arrabassada de Tarragona](https://www.elperiodico.com/es/videos/sociedad/rocas-tuvo-lugar-accidente-larrabassada-video/131626440.shtml)<br>
