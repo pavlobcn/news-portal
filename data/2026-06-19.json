@@ -180,6 +180,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "El Madrid rebobina el basket",
+    "link": "https://as.com/opinion/el-madrid-rebobina-el-basket-f202606-n/",
+    "pubDate": "2026-06-19 21:18:24",
+    "category": "Baloncesto",
+    "description": "Sánchez salió, junto a Alberto Herreros, para dar el relevo a un nuevo ciclo, encabezado por Sergio Rodríguez, con el afán de modernizar una estructura que miraba a la NBA Europa.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Una mujer agrede gravemente a su padre nonagenario en Oviedo: \"Me lo ordenó el demonio\"",
     "link": "https://www.elperiodico.com/es/sucesos/20260619/mujer-agrede-gravemente-padre-nonagenario-131615538",
     "pubDate": "2026-06-19 21:09:40",
@@ -585,6 +594,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-06-19 18:13:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "19-річного українського форварда чекають у команді Аталанти",
     "link": "https://ua.korrespondent.net/sport/football/4887861-19-richnoho-ukrainskoho-forvarda-chekauit-u-komandi-atalanty",
     "pubDate": "2026-06-19 18:12:00",
@@ -797,6 +815,15 @@
     "pubDate": "2026-06-19 17:10:00",
     "category": "Росія новини",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466135.jpg\">Атаки на НПЗ викликали падіння виробництва автобензину цього тижня приблизно на 25% порівняно з березнем цього року, коли інтенсивність нальотів стала зростати.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-06-19 17:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4388528.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
     "topic": "",
     "topic_match_probability": 0
   },
