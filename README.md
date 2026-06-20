@@ -1,8 +1,9 @@
-# News for 2026-06-20 23:35
+# News for 2026-06-21 01:59
 
 Previous day: [2026-06-19](./data/2026-06-19.md)
 
 ## ua.korrespondent.net
+23:49 [В Укрпошті пояснили повернення Зеленським "Орла" Новою поштою](https://ua.korrespondent.net/business/companies/4888083-v-ukrposhti-poiasnyly-povernennia-zelenskym-orla-novoui-poshtoui)<br>
 23:20 [Делегації США та Ірану вирушили на переговори](https://ua.korrespondent.net/world/4888078-delehatsii-ssha-ta-iranu-vyrushyly-na-perehovory)<br>
 22:52 [У Харкові затримали неадеквата, який нападав на людей](https://ua.korrespondent.net/city/kharkov/4888076-u-kharkovi-zatrymaly-neadekvata-yakyi-napadav-na-luidei)<br>
 22:24 [Сибіга подякував полякам, які виступили проти конфлікту з Україною](https://ua.korrespondent.net/ukraine/4888073-sybiha-podiakuvav-poliakam-yaki-vystupyly-proty-konfliktu-z-ukrainoui)<br>

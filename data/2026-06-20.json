@@ -1,5 +1,32 @@
 [
   {
+    "title": "El Málaga vence al Almería en su casa y asciende a Primera",
+    "link": "https://www.elperiodico.com/es/deportes/20260620/malaga-vence-almeria-casa-asciende-131639494",
+    "pubDate": "2026-06-20 23:58:28",
+    "category": "",
+    "description": "<h2>El conjunto blanquiazul se impuso por 1-2 y regresa a la máxima categoría, con el Racing y el Deportivo, ocho años después del último descenso</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В Укрпошті пояснили повернення Зеленським \"Орла\" Новою поштою",
+    "link": "https://ua.korrespondent.net/business/companies/4888083-v-ukrposhti-poiasnyly-povernennia-zelenskym-orla-novoui-poshtoui",
+    "pubDate": "2026-06-20 23:49:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467237.jpg\">Ігор Смілянський пояснив, що Укрпошта за законом не має права доставляти державні нагороди, але якщо інші топчиновники звернуться, для них, можливо, зроблять винятки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El juez Peinado abre juicio oral contra Begoña Gómez y le retira el pasaporte",
+    "link": "https://www.elperiodico.com/es/videos/politica/juez-peinado-abre-juicio-oral/131639531.shtml",
+    "pubDate": "2026-06-20 23:36:54",
+    "category": "",
+    "description": "La esposa del presidente del Gobierno no podrá salir de España y deberá comparecer cada 15 días ante el juzgado",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 50
+  },
+  {
     "title": "El SUP considera \"grave e inaceptable\" que Peinado sugiera que policías nacionales podrían ayudar a fugarse a Begoña Gómez",
     "link": "https://www.elperiodico.com/es/videos/politica/sup-considera-grave-inaceptable-peinado/131639429.shtml",
     "pubDate": "2026-06-20 23:33:32",
@@ -25,6 +52,15 @@
     "description": "<h2>El grupo británico incendió el festival rescatando clásicos de la electrónica más punk como 'Firestarter', que cumple 30 años, dentro de una jornada final en la que también destacaron Ático Corp. & R.I.P. Bestia, Rolrolrol y Main Costa</h2>",
     "topic": "виконавці поп музики",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Німецький воротар Ноєр став рекордсменом чемпіонату світу",
+    "link": "https://ua.korrespondent.net/sport/football/4888081-nimetskyi-vorotar-noier-stav-rekordsmenom-chempionatu-svitu",
+    "pubDate": "2026-06-20 23:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467220.jpg\">Гравець збірної Німеччини вийшов захищати ворота своєї команди рекордно 21-й раз.",
+    "topic": "спорт",
+    "topic_match_probability": 90
   },
   {
     "title": "Делегації США та Ірану вирушили на переговори",
