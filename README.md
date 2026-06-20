@@ -1,8 +1,12 @@
-# News for 2026-06-20 09:40
+# News for 2026-06-20 11:08
 
 Previous day: [2026-06-19](./data/2026-06-19.md)
 
 ## ua.korrespondent.net
+10:47 [Сікорський відреагував на позбавлення ордена Зеленського](https://ua.korrespondent.net/world/4887980-sikorskyi-vidreahuvav-na-pozbavlennia-ordena-zelenskoho)<br>
+10:26 [У Борисполі собаки насмерть загризли жінку: власницю затримали](https://ua.korrespondent.net/ukraine/4887974-u-boryspoli-sobaky-nasmert-zahryzly-zhinku-vlasnytsui-zatrymaly)<br>
+10:05 [Лубінець назвав кількість українських біженців](https://ua.korrespondent.net/ukraine/4887977-lubinets-nazvav-kilkist-ukrainskykh-bizhentsiv)<br>
+09:41 [Посол України в Польщі також повертає свій орден](https://ua.korrespondent.net/ukraine/4887972-posol-ukrainy-v-polschi-takozh-povertaie-svii-orden)<br>
 09:21 [Влада Харківщини розкрила наслідки агресії Росії](https://ua.korrespondent.net/city/kharkov/4887968-vlada-kharkivschyny-rozkryla-naslidky-ahresii-rosii)<br>
 09:05 [Поліція показала результати атак Росії на Сумщині](https://ua.korrespondent.net/ukraine/4887964-politsiia-pokazala-rezultaty-atak-rosii-na-sumschyni)<br>
 08:44 [Армія РФ вбила трьох людей на Донеччині і 13 поранила](https://ua.korrespondent.net/ukraine/4887961-armiia-rf-vbyla-trokh-luidei-na-donechchyni-i-13-poranyla)<br>
@@ -25,11 +29,28 @@ Previous day: [2026-06-19](./data/2026-06-19.md)
 00:34 [Трамп мало не "здав" Україну Путіну - Макрон](https://ua.korrespondent.net/world/worldabus/4887918-tramp-malo-ne-zdav-ukrainu-putinu-makron)<br>
 
 ## as.com
+10:33 [El Clásico de los deberes sin hacer](https://as.com/baloncesto/euroliga/el-clasico-de-los-deberes-sin-hacer-f202606-n/)<br>
+10:13 [Así se forjó la venta del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/asi-se-forjo-la-venta-del-movistar-estudiantes-f202606-n/)<br>
 07:00 [Perro viejo nunca muere](https://as.com/baloncesto/acb/perro-viejo-nunca-muere-f202606-n/)<br>
 06:59 [Valencia - Barcelona: horario, TV y dónde ver la Final de la ACB 2025-26](https://as.com/baloncesto/acb/valencia-barcelona-horario-tv-y-donde-ver-la-final-de-la-acb-2025-26-f202606-n-2/)<br>
 06:58 [El Valencia apela al factor Roig Arena](https://as.com/baloncesto/acb/el-valencia-apela-al-factor-roig-arena-f202606-n/)<br>
 
 ## www.elperiodico.com
+11:06 [Carlos Burguera, graduado en Medicina con 21 años: "Muchas personas con altas capacidades nunca llegan a brillar porque su potencial pasa desapercibido y no se incentiva"](https://www.elperiodico.com/es/sociedad/20260620/carlos-burguera-graduado-medicina-21-anos-altas-capacidades-131623744)<br>
+11:00 [¿Es cierto que hay más mosquitos que nunca? Así ha cambiado la presencia de estos insectos](https://www.elperiodico.com/es/sociedad/20260620/aumento-mosquitos-verano-por-que-causas-131601487)<br>
+11:00 [Zapatero hiere el corazón del PSOE](https://www.elperiodico.com/es/opinion/20260620/zapatero-hiere-corazon-psoe-articulo-manuel-sanchez-131603922)<br>
+11:00 [La veterinaria María Vetican revela el relajante natural que más recomienda para las mascotas durante Sant Joan](https://www.elperiodico.com/es/vida-y-estilo/20260620/veterinaria-maria-vetican-revela-relajantes-noche-sant-joan-dv-131604855)<br>
+10:59 [Declarados culpables tres de los cuatro acusados de matar a un joven en Callús y abandonarlo en el bosque](https://www.elperiodico.com/es/sociedad/20260620/declarados-asesinato-callus-culpables-acusados-jurado-131623500)<br>
+10:58 [La Guardia Civil reforzará las inspecciones de pirotecnia por Sant Joan con 200 agentes](https://www.elperiodico.com/es/sociedad/20260620/guardia-civil-reforzara-inspecciones-pirotecnia-sant-joan-131623656)<br>
+10:52 [Fitch eleva el rating de CriteriaCaixa a A- y avala su plan estratégico](https://www.elperiodico.com/es/economia/20260620/fitch-eleva-rating-criteriacaixa-avala-131623568)<br>
+10:52 ['PAU reveals', entre las lágrimas del suspenso y la euforia por las mejores notas: las reacciones más virales al recibir los resultados](https://www.elperiodico.com/es/vida-y-estilo/20260620/pau-reveals-notas-suspensos-reacciones-virales-resultados-selectividad-dv-131622616)<br>
+10:25 [La traición a Salvini que le puede costar caro a Meloni](https://www.elperiodico.com/es/internacional/20260620/traicion-salvini-meloni-roberto-vannacci-futuro-nazionale-131623087)<br>
+10:00 [Nancy Cartwright, filósofa y científica: "Ningún estudiante debe pensar que es incapaz para las Matemáticas"](https://www.elperiodico.com/es/sociedad/20260620/aprender-matematicas-colegios-nancy-cartwright-131561802)<br>
+10:00 [El tobogán ZP](https://www.elperiodico.com/es/opinion/20260620/tobogan-zp-psoe-articulo-valenti-puig-131605971)<br>
+10:00 ["Yo era un hombre de más de 40 con una erección de viernes noche que quería ser deseado": Lee el primer capítulo de 'Gay Bar'](https://www.elperiodico.com/es/ocio-y-cultura/20260620/hombre-40-ereccion-viernes-noche-131600568)<br>
+09:55 [Feijóo participa este sábado en la Junta Directiva del PP provincial de Valencia](https://www.elperiodico.com/es/videos/politica/feijoo-participa-sabado-junta-directiva/131622439.shtml)<br>
+09:54 [Muere un segundo menor en el hospital tras el accidente en la playa de l'Arrabassada de Tarragona](https://www.elperiodico.com/es/tarragona/20260620/muere-segundo-menor-hospital-accidente-playa-arrabassada-tarragona-131622294)<br>
+09:43 [El crimen de la petanca: detenido un jugador de 81 años por matar a otro al lanzarle una bola de metal](https://www.elperiodico.com/es/internacional/20260620/crimen-asesinato-petanca-bola-cara-detenido-jugador-131621813)<br>
 09:36 [La UE explora impuestos sobre criptoactivos y juego online para recaudar 11.000 millones](https://www.elperiodico.com/es/economia/20260620/ue-explora-impuestos-criptoactivos-juego-131622112)<br>
 09:25 [Zapatero admite la amistad con el empresario Manuel Aarón Fajardo, su "lugarteniente" en Venezuela](https://www.elperiodico.com/es/politica/20260620/zapatero-admite-amistad-empresario-manuel-131621914)<br>
 09:23 [Reacciones tras la declaración de Zapatero y a la espera de la decisión sobre Begoña Gómez: última hora y reacciones en directo](https://www.elperiodico.com/es/politica/20260620/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522)<br>
