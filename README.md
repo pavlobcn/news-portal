@@ -1,8 +1,11 @@
-# News for 2026-06-20 17:59
+# News for 2026-06-20 19:22
 
 Previous day: [2026-06-19](./data/2026-06-19.md)
 
 ## ua.korrespondent.net
+19:03 [Зеленський попередив про загрозу масованого удару](https://ua.korrespondent.net/ukraine/4888047-zelenskyi-poperedyv-pro-zahrozu-masovanoho-udaru)<br>
+18:50 [Навроцький пояснив, чому позбавив Зеленського ордена](https://ua.korrespondent.net/world/4888043-navrotskyi-poiasnyv-chomu-pozbavyv-zelenskoho-ordena)<br>
+18:12 [На окупованій Запорізькій АЕС стався 20-й блекаут](https://ua.korrespondent.net/ukraine/4888040-na-okupovanii-zaporizkii-aes-stavsia-20-y-blekaut)<br>
 17:51 [Скандал не вщухає: Трамп зробив заяву про Мелоні](https://ua.korrespondent.net/world/4888034-skandal-ne-vschukhaie-tramp-zrobyv-zaiavu-pro-meloni)<br>
 17:24 [Росіяни вдарили по околицях Сум: є жертва та поранені](https://ua.korrespondent.net/ukraine/4888030-rosiiany-vdaryly-po-okolytsiakh-sum-ye-zhertva-ta-poraneni)<br>
 16:56 [Зеленський відправив Навроцькому поштою орден Білого Орла](https://ua.korrespondent.net/ukraine/4888027-zelenskyi-vidpravyv-navrotskomu-poshtoui-orden-biloho-orla)<br>
@@ -53,6 +56,9 @@ Previous day: [2026-06-19](./data/2026-06-19.md)
 06:58 [El Valencia apela al factor Roig Arena](https://as.com/baloncesto/acb/el-valencia-apela-al-factor-roig-arena-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:48 [Islandia reanuda la caza de ballenas entre protestas tras una pausa de dos años](https://www.elperiodico.com/es/medio-ambiente/20260620/islandia-reanuda-caza-ballenas-131633849)<br>
+18:37 [Tarragona decreta tres días de luto por la muerte de dos menores ahogados en la playa](https://www.elperiodico.com/es/videos/sociedad/tarragona-decreta-tres-dias-luto/131633474.shtml)<br>
+18:00 [El kilómetrico eje comercial de Sants-Creu Coberta busca retener las tiendas de barrio y frenar el 'boom' de hostelería y negocios 'low cost'](https://www.elperiodico.com/es/barcelona/20260620/kilometrico-eje-comercial-sants-creu-131516169)<br>
 17:45 [Conmoción en Lanzarote por la muerte de una niña de 4 años tras ser sacada de una piscina con síntomas de ahogamiento](https://www.elperiodico.com/es/sucesos/20260620/conmocion-lanzarote-muerte-ahogamiento-nina-4-anos-131632841)<br>
 17:20 [Uno de los mejores barberos de España es catalán: gana dos de los premios más prestigiosos en el mundo de la barbería](https://www.elperiodico.com/es/gente/20260620/mejor-barbero-espana-2026-catalan-javi-torrente-barbers-dv-loc-131237505)<br>
 17:15 [El rincón de Cornellà que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/cornella/20260620/rincon-cornella-historia-cine-dv-loc-111466254)<br>
@@ -96,6 +102,7 @@ Previous day: [2026-06-19](./data/2026-06-19.md)
 11:40 [¿Tienes un coeficiente intelectual alto? Los seis hábitos que caracterizan a las personas con altas capacidades](https://www.elperiodico.com/es/ser-feliz/20260620/coeficiente-intelectual-alto-seis-habitos-signos-dv-131547106)<br>
 11:30 [Los expertos en aire acondicionado coinciden: “Ponerlo a 18ºC no enfría antes y puede disparar el consumo”](https://www.elperiodico.com/es/vida-y-estilo/20260620/expertos-aire-acondicionado-coinciden-ponerlo-18-no-enfria-dv-131521811)<br>
 11:27 [Unos 400 municipios catalanes, en riesgo alto de incendio forestal por las altas temperaturas](https://www.elperiodico.com/es/barcelona/20260620/calor-incendios-riesgo-catalunya-lleida-131624129)<br>
+11:27 [Unos 400 municipios catalanes, en riesgo alto de incendio forestal por las altas temperaturas](https://www.elperiodico.com/es/sociedad/20260620/calor-incendios-riesgo-catalunya-lleida-131624129)<br>
 11:15 [Así será el verano en Catalunya: el Meteocat apunta a que será más caluroso de lo habitual](https://www.elperiodico.com/es/tiempo/20260620/tiempo-verano-cataluna-meteocat-calor-lluvia-agosto-septiembre-dv-loc-131445457)<br>
 11:06 [Carlos Burguera, graduado en Medicina con 21 años: "Muchas personas con altas capacidades nunca llegan a brillar porque su potencial pasa desapercibido y no se incentiva"](https://www.elperiodico.com/es/sociedad/20260620/carlos-burguera-graduado-medicina-21-anos-altas-capacidades-131623744)<br>
 11:00 [¿Es cierto que hay más mosquitos que nunca? Así ha cambiado la presencia de estos insectos](https://www.elperiodico.com/es/sociedad/20260620/aumento-mosquitos-verano-por-que-causas-131601487)<br>
