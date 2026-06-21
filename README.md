@@ -1,8 +1,11 @@
-# News for 2026-06-21 12:15
+# News for 2026-06-21 13:15
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+12:52 ["Мадяр" показав удари по Керчі](https://ua.korrespondent.net/ukraine/4888174-madiar-pokazav-udary-po-kerchi)<br>
+12:36 [На Майдані протестують проти маршу на підтримку ЛГБТ-спільноти](https://ua.korrespondent.net/city/kiev/4888170-na-maidani-protestuuit-proty-marshu-na-pidtrymku-lhbt-spilnoty)<br>
+12:21 [РФ наростила перекидання боєприпасів через Маріуполь - Андрющенко](https://ua.korrespondent.net/ukraine/4888166-rf-narostyla-perekydannia-boieprypasiv-cherez-mariupol-andruischenko)<br>
 11:50 [РФ за тиждень випустила понад 2 тис. дронів](https://ua.korrespondent.net/ukraine/4888162-rf-za-tyzhden-vypustyla-ponad-2-tys-droniv)<br>
 11:24 [Удар по Сумах: пошкоджено пошту та АЗС](https://ua.korrespondent.net/ukraine/4888158-udar-po-sumakh-poshkodzheno-poshtu-ta-azs)<br>
 10:59 [Сили оборони уразили Тюменський НПЗ](https://ua.korrespondent.net/ukraine/4888152-syly-oborony-urazyly-tuimenskyi-npz)<br>
@@ -32,6 +35,19 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+13:07 [Estudiantes de la UdG identifican qué herramientas y aplicaciones son más efectivas para detectar fake news y vídeos manipulados](https://www.elperiodico.com/es/educacion/20260621/estudiantes-udg-identifican-herramientas-aplicaciones-131648735)<br>
+13:05 [Así ha sido la llegada a Suiza de las delegaciones iraní y estadounidense para las conversaciones de paz](https://www.elperiodico.com/es/videos/internacional/sido-llegada-suiza-delegaciones-irani/131649146.shtml)<br>
+13:04 [Ola de calor, hoy en directo: última hora de Aemet y temperaturas máximas previstas en España y resto de Europa](https://www.elperiodico.com/es/sociedad/20260621/ola-calor-aemet-meteocat-catalunya-espana-temperaturas-ultima-hora-directo-131605857)<br>
+13:01 [De la antigua torre de señales al bombardeo de Barcelona y la represión política: la nueva exposición del Castillo de Montjuïc](https://www.elperiodico.com/es/barcelona/20260621/nueva-exposicion-permanente-castillo-montjuic-torre-senales-bombardeo-barcelona-131614930)<br>
+12:59 [Los parisinos se lanzan al Sena para refrescarse durante la ola de calor](https://www.elperiodico.com/es/fotos/sociedad/parisinos-lanzan-sena-refrescarse-durante-131648540)<br>
+12:57 [El abogado de Begoña Gómez denuncia a Peinado ante el CGPJ por vulnerar su defensa](https://www.elperiodico.com/es/sociedad/20260621/abogado-begona-gomez-denuncia-peinado-131648925)<br>
+12:42 [Crimen en Castellón: La custodia de los hijos del fallecido y su exmujer había provocado discusiones con intervención policial](https://www.elperiodico.com/es/sucesos/20260621/crimen-vivienda-playa-castellon-custodia-131648641)<br>
+12:41 [Ángeles guardianes en tierra hostil](https://www.elperiodico.com/es/sociedad/20260621/angeles-guardianes-2026-tierra-hostil-mayor-ejercicio-policia-militar-otan-valencia-131648422)<br>
+12:36 [Errores no corrigen otros](https://www.elperiodico.com/es/opinion/20260621/errores-no-corrigen-otros-articulo-opinion-astrid-barrio-131648154)<br>
+12:34 [Habla por primera vez la hermana de la fundadora de 'Jot Down': "Es una pionera que supo utilizar la debilidad de los hombres"](https://www.elperiodico.com/es/ocio-y-cultura/20260621/hermana-creadora-jot-down-supo-utilizar-debilidad-hombres-131648390)<br>
+12:30 [Ricardo Regalado, una de las mejores notas de la PAU: "Estudiaré Medicina en honor a mi padre, que murió cuando yo tenía dos años"](https://www.elperiodico.com/es/sociedad/20260621/ricardo-regalado-mejores-notas-selectividad-medicina-padre-murio-dos-anos-131359634)<br>
+12:21 [Niños malos](https://www.elperiodico.com/es/opinion/20260621/ninos-malos-articulo-opinion-emma-riverola-131647689)<br>
+12:20 [Un incendio en El Prat arrasa dos barracas en el antiguo cauce del río Llobregat](https://www.elperiodico.com/es/barcelona/20260621/incendio-prat-arrasa-barracas-antiguo-131647828)<br>
 12:04 [Piden 11 años a un hombre por mantener relaciones sexuales con una menor de 15 años en un centro de acogida de Cantabria](https://www.elperiodico.com/es/sucesos/20260621/piden-11-anos-hombre-mantener-131647725)<br>
 12:00 [Ni ‘Avatar’ ni ‘Star Wars’: la película más cara jamás realizada costó casi 575 millones y se estrenó en 2022](https://www.elperiodico.com/es/ocio-y-cultura/20260621/pelicula-mas-cara-historia-jurassic-world-dominion-dv-131596087)<br>
 12:00 [Vecinos y visitantes](https://www.elperiodico.com/es/opinion/20260621/vecinos-visitantes-turismo-barcelona-articulo-pablo-salvador-coderch-131607254)<br>
