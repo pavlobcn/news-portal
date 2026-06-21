@@ -1,8 +1,10 @@
-# News for 2026-06-21 19:00
+# News for 2026-06-21 20:06
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+19:55 [В Криму вводять жорсткі обмеження](https://ua.korrespondent.net/ukraine/4888224-v-krymu-vvodiat-zhorstki-obmezhennia)<br>
+19:39 [В Росії визнали факт "бусифікації"](https://ua.korrespondent.net/world/russia/4888222-v-rosii-vyznaly-fakt-busyfikatsii)<br>
 18:56 [Трамп пригрозив іранській делегації](https://ua.korrespondent.net/world/4888218-tramp-pryhrozyv-iranskii-delehatsii)<br>
 18:37 [Стерненко анонсував операцію проти росіян в Криму](https://ua.korrespondent.net/ukraine/4888216-sternenko-anonsuvav-operatsiui-proty-rosiian-v-krymu)<br>
 18:20 [В уряді Британії підтримують відставку Стармера - ЗМІ](https://ua.korrespondent.net/world/4888214-v-uriadi-brytanii-pidtrymuuit-vidstavku-starmera-zmi)<br>
@@ -50,6 +52,13 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:00 [Gibraltar cuenta los días para que caiga la Verja: “Cuando la tiren, a mí me hacen reina”](https://www.elperiodico.com/es/internacional/20260621/gibraltar-situacion-derribo-verja-frontera-espana-131659927)<br>
+19:57 [Netanyahu reitera que Israel permanecerá en el Líbano "el tiempo que sea necesario"](https://www.elperiodico.com/es/videos/internacional/netanyahu-reitera-israel-permanecera-libano/131659846.shtml)<br>
+19:56 [Irán interrumpe las negociaciones con Estados Unidos en Suiza tras las amenazas de Trump](https://www.elperiodico.com/es/internacional/20260621/iran-interrumpe-negociaciones-estados-unidos-suiza-amenazas-trump-131659809)<br>
+19:47 [Del móvil tonto a los retiros sin wifi: la fiebre por la desconexión digital gana adeptos](https://www.elperiodico.com/es/sociedad/20260621/movil-tonto-retiros-wifi-fiebre-desconexion-digital-gana-adeptos-131659560)<br>
+19:35 [Alba Pérez, veterinaria, alerta sobre los petardos de San Juan y los perros: "No puedes empezar a tomar medidas cuando empiezan a sonar"](https://www.elperiodico.com/es/vida-y-estilo/20260621/alba-perez-veterinaria-alerta-petardos-san-juan-perros-medidas-dv-131594745)<br>
+19:25 [No basta con hacer pesas: el ejercicio perfecto para ganar músculo en los brazos a partir de los 40](https://www.elperiodico.com/es/vida-y-estilo/20260621/basta-pesas-ejercicio-mejor-ganar-musculo-40-anos-dv-131500738)<br>
+19:21 [Francia registra temperaturas históricas con la mitad del país en alerta roja](https://www.elperiodico.com/es/internacional/20260621/francia-registra-temperaturas-historicas-alerta-roja-131658900)<br>
 17:30 [El pueblo ideal para una escapada de naturaleza sin salir del Vallès](https://www.elperiodico.com/es/barcelona/rubi/20260621/pueblo-30-minutos-rubi-ideal-escapada-naturaleza-dv-loc-111512618)<br>
 17:20 [Sara Marín, doctora: "A partir de los 35 años, la creatina ayuda a recuperar masa muscular, a mejorar la memoria y el estado de ánimo"](https://www.elperiodico.com/es/salud/20260621/sara-marin-doctora-beneficios-creatina-dv-131609501)<br>
 16:46 [La ola de calor continúa este lunes en España, con temperaturas de hasta 42ºC en zonas del Ebro y avisos en 14 comunidades](https://www.elperiodico.com/es/sociedad/20260621/ola-calor-continua-lunes-espana-temperaturas-131654700)<br>
