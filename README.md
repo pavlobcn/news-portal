@@ -1,8 +1,10 @@
-# News for 2026-06-21 14:31
+# News for 2026-06-21 15:12
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+14:56 [Крим частково залишився без світла та води](https://ua.korrespondent.net/ukraine/4888188-krym-chastkovo-zalyshyvsia-bez-svitla-ta-vody)<br>
+14:35 [У Путіна натякнули на відмову від Анкориджа](https://ua.korrespondent.net/world/4888186-u-putina-natiaknuly-na-vidmovu-vid-ankorydzha)<br>
 14:16 [Польські політики почали повертати Навроцькому свої ордени](https://ua.korrespondent.net/world/4888182-polski-polityky-pochaly-povertaty-navrotskomu-svoi-ordeny)<br>
 13:54 [Дрони РФ влучили у Запоріжжі та Харкові](https://ua.korrespondent.net/ukraine/4888180-drony-rf-vluchyly-u-zaporizhzhi-ta-kharkovi)<br>
 13:23 [У німецькому Гамбурзі сталася пожежа в готелі, постраждали 14 людей](https://ua.korrespondent.net/world/4888177-u-nimetskomu-hamburzi-stalasia-pozhezha-v-hoteli-postrazhdaly-14-luidei)<br>
@@ -38,6 +40,16 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:09 [Ucrania redobla sus ataques con drones para aislar a Crimea del resto de Rusia](https://www.elperiodico.com/es/videos/internacional/ucrania-redobla-ataques-drones-aislar-video/131651657.shtml)<br>
+15:00 [El Rey Juan Carlos, plan de domingo en Sanxenxo al margen del Bribón pero muy cerca de la acción](https://www.elperiodico.com/es/politica/20260621/rey-juan-carlos-plan-domingo-131651949)<br>
+15:00 [Sonia, madre de una niña con parálisis cerebral: "No puedo trabajar porque mi hija requiere cuidados y ahora me quieren quitar la única ayuda que tengo"](https://www.elperiodico.com/es/sociedad/20260621/cume-prestacion-ayuda-cuidado-hija-paralisis-cerebral-131593870)<br>
+14:56 [El extraordinario parecido que une la cruz de la Sagrada Família con un cementerio del Solsonès, obra de un discípulo de Gaudí](https://www.elperiodico.com/es/barcelona/20260621/extraordinario-parecido-une-cruz-sagrada-131651504)<br>
+14:54 [Gamarra asegura que el PP respeta al CGPJ y "no interferirá ni presionará" en su decisión sobre Peinado](https://www.elperiodico.com/es/videos/politica/gamarra-asegura-pp-respeta-cgpj-video/131651629.shtml)<br>
+14:54 [Bolivia mantiene 27 carreteras bloqueadas pese al estado de excepción y avanza en acuerdos parciales para despejar carreteras](https://www.elperiodico.com/es/internacional/20260621/bolivia-mantiene-27-carreteras-bloqueadas-131651896)<br>
+14:40 [Estados Unidos, Irán y Pakistán inician la negociación de un acuerdo definitivo en Suiza](https://www.elperiodico.com/es/videos/internacional/estados-unidos-iran-pakistan-inician-video/131651400.shtml)<br>
+14:34 [La emotiva despedida del Samur a dos trabajadores tras más de 30 años de servicio](https://www.elperiodico.com/es/videos/sociedad/emotiva-despedida-samur-trabajadores-30/131651495.shtml)<br>
+14:33 [El 'lago' de Can Dragó se llena en la ola de calor](https://www.elperiodico.com/es/videos/barcelona/lago-can-drago-llena-ola-video/131650992.shtml)<br>
+14:33 [Silencio multitudinario en memoria de los tres jóvenes muertos en la playa de l'Arrabassada de Tarragona](https://www.elperiodico.com/es/videos/sociedad/silencio-multitudinario-memoria-tres-jovenes-video/131651197.shtml)<br>
 14:24 [Decenas de personas se concentran en Tarragona para recordar a los tres menores fallecidos en la playa de l'Arrabassada](https://www.elperiodico.com/es/tarragona/20260621/decenas-personas-concentran-tarragona-recordar-131650916)<br>
 14:02 [Una concentración en Barcelona exige regular el nivel de ruido de los petardos en la verbena de Sant Joan](https://www.elperiodico.com/es/barcelona/20260621/concentracion-barcelona-exige-regular-nivel-131650130)<br>
 13:52 [El calor empuja a vecinos de Barcelona a buscar refugio en las piscinas: “Es extraordinario venir a refrescarse”](https://www.elperiodico.com/es/barcelona/20260621/ola-calor-empuja-vecinos-barcelona-refugio-piscinas-can-drago-131649958)<br>
