@@ -1,8 +1,15 @@
-# News for 2026-06-21 07:17
+# News for 2026-06-21 09:55
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+09:37 [Центр Одеси залишився без світла через аварію](https://ua.korrespondent.net/city/odessa/4888140-tsentr-odesy-zalyshyvsia-bez-svitla-cherez-avariui)<br>
+09:20 [Росіяни вдарили по рятувальниках під час гасіння пожежі на Сумщині](https://ua.korrespondent.net/ukraine/4888138-rosiiany-vdaryly-po-riatuvalnykakh-pid-chas-hasinnia-pozhezhi-na-sumschyni)<br>
+08:45 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4888134-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
+08:22 [Удар по Полтавщині: двоє загиблих, 14 - поранених](https://ua.korrespondent.net/ukraine/4888130-udar-po-poltavschyni-dvoie-zahyblykh-14-poranenykh)<br>
+07:56 [Генштаб оновив дані про бої на фронті](https://ua.korrespondent.net/ukraine/4888125-henshtab-onovyv-dani-pro-boi-na-fronti)<br>
+07:38 [РФ обстріляла Сумщину, шестеро постраждалих](https://ua.korrespondent.net/ukraine/4888122-rf-obstriliala-sumschynu-shestero-postrazhdalykh)<br>
+07:17 [Росіяни вдарили по Дніпропетровщині: є загибла та дев'ятеро поранених](https://ua.korrespondent.net/ukraine/4888119-rosiiany-vdaryly-po-dnipropetrovschyni-ye-zahybla-ta-deviatero-poranenykh)<br>
 06:50 [Генштаб підрахував нові втрати росіян](https://ua.korrespondent.net/ukraine/4888116-henshtab-pidrakhuvav-novi-vtraty-rosiian)<br>
 06:23 [У Франції запровадили "сухий закон" через спеку](https://ua.korrespondent.net/world/4888112-u-frantsii-zaprovadyly-sukhyi-zakon-cherez-speku)<br>
 05:26 [Король Чарльз III вперше розкриє свої особисті доходи](https://ua.korrespondent.net/world/4888107-korol-charlz-III-vpershe-rozkryie-svoi-osobysti-dokhody)<br>
@@ -16,7 +23,26 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 00:50 [Мелоні звинуватила Трампа у брехні щодо неї](https://ua.korrespondent.net/world/4888088-meloni-zvynuvatyla-trampa-u-brekhni-schodo-nei)<br>
 00:21 [Трамп пригрозив запровадити мита за прохід Ормузькою протокою](https://ua.korrespondent.net/world/4888086-tramp-pryhrozyv-zaprovadyty-myta-za-prokhid-ormuzkoui-protokoui)<br>
 
+## as.com
+09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
+
 ## www.elperiodico.com
+09:51 [Moreno acelera el pacto con Vox ante una negociación dura: "Piden cosas ilegales"](https://www.elperiodico.com/es/politica/20260621/moreno-acelera-pacto-vox-negociacion-131644451)<br>
+09:48 [Catalunya reduce un 7% el consumo de ansiolíticos](https://www.elperiodico.com/es/ser-feliz/20260621/cataluna-reduce-consumo-ansioliticos-131495765)<br>
+09:48 [¿Por qué las orcas no atacan a los humanos y a veces les hacen regalos?](https://www.elperiodico.com/es/medio-ambiente/20260621/orcas-atacan-humanos-veces-les-124057444)<br>
+09:45 [Laura Lobo, experta en herencias, aclara las dudas: “Mis padres ayudaron a mi hermano a comprar la casa, ¿ahora heredamos lo mismo?”](https://www.elperiodico.com/es/economia/20260621/laura-lobo-abogada-aclara-duda-padres-ayudaron-hermano-comprar-casa-herencia-dv-131463713)<br>
+09:36 [El mapa de la España que se abraza a la revolución de los gases verdes](https://www.elperiodico.com/es/economia/20260621/biometano-plantas-mapa-espana-gases-renovables-131642734)<br>
+09:36 [La reforma legal del Gobierno para impulsar el biometano divide a las energéticas y la gran industria](https://www.elperiodico.com/es/economia/20260621/biometano-plantas-reforma-legal-gobierno-energeticas-industria-131642736)<br>
+09:31 [Los cuatro lugares desconocidos de Catalunya ideales para visitar en verano: perfectos para combatir el calor](https://www.elperiodico.com/es/catalunya/20260621/pueblos-cataluna-desconocidos-tarragona-girona-cuevas-serinya-dv-loc-131644018)<br>
+09:13 [Diéguez-Rodríguez: "La exposición muestra cómo va brotando la genialidad de Rubens"](https://www.elperiodico.com/es/videos/ocio-y-cultura/dieguez-rodriguez-exposicion-muestra-brotando/131643641.shtml)<br>
+09:11 [Guerra Ucrania - Rusia, en directo, última hora | El Kremlin responde a Ucrania que pronto su situación en el frente será catastrófica](https://www.elperiodico.com/es/internacional/20260621/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+09:10 [Barcelona estrenará las cámaras de vigilancia en los accesos a la playas céntricas durante la verbena de Sant Joan de 2026](https://www.elperiodico.com/es/barcelona/20260621/sant-joan-2026-barcelona-desalojo-playas-6h-131607107)<br>
+09:10 [Ana Diéguez-Rodríguez: "Rubens entendió el poder de la imagen como hoy entendemos internet”](https://www.elperiodico.com/es/ocio-y-cultura/20260621/ana-dieguez-rodriguez-rubens-entendio-131643607)<br>
+09:06 [Barcelona empieza a restaurar el Umbracle de la Ciutadella para que recupere su aspecto original](https://www.elperiodico.com/es/barcelona/20260621/barcelona-ciutadella-umbracle-obras-131611007)<br>
+08:37 [Un juez califica de delito leve el acoso de un profesor a siete alumnas](https://www.elperiodico.com/es/sucesos/20260621/juez-califica-delito-leve-acoso-131643098)<br>
+08:32 [Claudia Marhuenda habla de la fundadora de 'Jot Down': "Mi hermana es una pionera que supo utilizar la debilidad de los hombres"](https://www.elperiodico.com/es/ocio-y-cultura/20260621/claudia-marhuenda-habla-fundadora-jot-down-hermana-pionera-debilidad-hombres-131642996)<br>
+08:00 [Catalunya prevé 120 plantas de biogás para 2030 y ya tiene nueve que inyectan su biometano a la red general](https://www.elperiodico.com/es/economia/20260621/catalunya-preve-120-plantas-biogas-2030-131384645)<br>
+08:00 [Hoy puede ser un gran día](https://www.elperiodico.com/es/opinion/20260621/hoy-gran-dia-optimismo-articulo-carles-francino-131574286)<br>
 06:49 [Guerra de Irán | El vicepresidente de EEUU llega a Suiza para las negociaciones con Teherán](https://www.elperiodico.com/es/internacional/20260621/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
 06:01 [Teletrabajar en familia: por qué no siempre es una buena idea](https://www.elperiodico.com/es/opinion/20260621/teletrabajo-solucion-familias-131638577)<br>
 06:00 [Peinado señala a Pedro Sánchez en cuatro actuaciones por las que acusa de tráfico de influencias a su mujer, Begoña Gómez](https://www.elperiodico.com/es/politica/20260621/peinado-senala-pedro-sanchez-trafico-influencias-begona-gomez-131637034)<br>
@@ -27,6 +53,10 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 06:00 [El teléfono aportado por EEUU desvela que Zapatero estaba "muy enfadado" al salir su nombre vinculado al rescate de Plus Ultra](https://www.elperiodico.com/es/politica/20260621/telefono-aportado-eeuu-desvela-zapatero-hsi-rodolfo-reyes-venezuela-cabreado-enfadado-plus-ultra-131612479)<br>
 06:00 [El CSIC lanza una de las bases de datos más grandes del mundo sobre la microbiota humana](https://www.elperiodico.com/es/sociedad/20260621/csic-bases-datos-kefir-microbiota-danone-131280333)<br>
 06:00 [España encarrila ante Bruselas el cierre de la infracción ambiental que bloquea la ampliación de El Prat](https://www.elperiodico.com/es/sociedad/20260621/espana-bruselas-infraccion-ambiental-delta-llobregat-aeropuerto-barcelona-131594720)<br>
+06:00 [El PP allana la coalición a nivel nacional destacando la “madurez” de Vox en los nuevos gobiernos autonómicos](https://www.elperiodico.com/es/politica/20260621/pp-allana-coalicion-nivel-nacional-131607115)<br>
+06:00 [Hay que ponerse manos a la obra desde casa](https://www.elperiodico.com/es/economia/20260621/hay-que-ponerse-manos-a-la-obra-desde-casa-131642209)<br>
+06:00 [El III Foro del Mediterráneo zarpa de Barcelona con la llamada a pasar de las ideas a la acción](https://www.elperiodico.com/es/economia/20260621/iii-foro-mediterraneo-zarpa-barcelona-131642185)<br>
+06:00 [El Gobierno prepara un fin de curso legislativo intenso contra las acusaciones de "debilidad parlamentaria"](https://www.elperiodico.com/es/politica/20260621/gobierno-curso-legislativo-intenso-paralisis-parlamentaria-131595329)<br>
 06:00 [Los rincones secretos de la Sagrada Família (II): el huerto junto al sepulcro de Jesús](https://www.elperiodico.com/es/barcelona/eixample/20260621/rincones-secretos-sagrada-familia-huerto-129741052)<br>
 06:00 [Empresarios valencianos alertan sobre la IA: "Va demasiado deprisa y deberíamos pararla"](https://www.elperiodico.com/es/economia/20260621/empresarios-valencianos-alertan-ia-deprisa-131642180)<br>
 06:00 [La joya industrial valenciana que construye los barcos más rápidos del mundo](https://www.elperiodico.com/es/economia/20260621/joya-industrial-valenciana-construye-barcos-131642178)<br>
