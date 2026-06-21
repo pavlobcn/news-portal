@@ -1,8 +1,11 @@
-# News for 2026-06-21 13:15
+# News for 2026-06-21 14:31
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+14:16 [Польські політики почали повертати Навроцькому свої ордени](https://ua.korrespondent.net/world/4888182-polski-polityky-pochaly-povertaty-navrotskomu-svoi-ordeny)<br>
+13:54 [Дрони РФ влучили у Запоріжжі та Харкові](https://ua.korrespondent.net/ukraine/4888180-drony-rf-vluchyly-u-zaporizhzhi-ta-kharkovi)<br>
+13:23 [У німецькому Гамбурзі сталася пожежа в готелі, постраждали 14 людей](https://ua.korrespondent.net/world/4888177-u-nimetskomu-hamburzi-stalasia-pozhezha-v-hoteli-postrazhdaly-14-luidei)<br>
 12:52 ["Мадяр" показав удари по Керчі](https://ua.korrespondent.net/ukraine/4888174-madiar-pokazav-udary-po-kerchi)<br>
 12:36 [На Майдані протестують проти маршу на підтримку ЛГБТ-спільноти](https://ua.korrespondent.net/city/kiev/4888170-na-maidani-protestuuit-proty-marshu-na-pidtrymku-lhbt-spilnoty)<br>
 12:21 [РФ наростила перекидання боєприпасів через Маріуполь - Андрющенко](https://ua.korrespondent.net/ukraine/4888166-rf-narostyla-perekydannia-boieprypasiv-cherez-mariupol-andruischenko)<br>
@@ -35,11 +38,19 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+14:24 [Decenas de personas se concentran en Tarragona para recordar a los tres menores fallecidos en la playa de l'Arrabassada](https://www.elperiodico.com/es/tarragona/20260621/decenas-personas-concentran-tarragona-recordar-131650916)<br>
+14:02 [Una concentración en Barcelona exige regular el nivel de ruido de los petardos en la verbena de Sant Joan](https://www.elperiodico.com/es/barcelona/20260621/concentracion-barcelona-exige-regular-nivel-131650130)<br>
+13:52 [El calor empuja a vecinos de Barcelona a buscar refugio en las piscinas: “Es extraordinario venir a refrescarse”](https://www.elperiodico.com/es/barcelona/20260621/ola-calor-empuja-vecinos-barcelona-refugio-piscinas-can-drago-131649958)<br>
+13:48 [Rescatan en helicóptero a un excursionista herido en el Pedraforca](https://www.elperiodico.com/es/sucesos/20260621/rescatan-helicoptero-excursionista-herido-pedraforca-131649728)<br>
+13:43 [La Policía rechaza la "valoración especulativa" de Peinado sobre los escoltas de Begoña Gómez](https://www.elperiodico.com/es/politica/20260621/policia-rechaza-valoracion-especulativa-peinado-131650006)<br>
+13:38 [La Generalitat autoriza 64 actos festivos en las playas por Sant Joan, fiestas mayores y espectáculos de fuegos y drones](https://www.elperiodico.com/es/sociedad/20260621/generalitat-autoriza-64-actos-festivos-131649519)<br>
+13:16 [Protecció Civil alerta de calor nocturno muy intenso hasta el martes en el litoral y el prelitoral de Catalunya](https://www.elperiodico.com/es/sociedad/20260621/proteccio-civil-alerta-calor-nocturno-131649007)<br>
 13:07 [Estudiantes de la UdG identifican qué herramientas y aplicaciones son más efectivas para detectar fake news y vídeos manipulados](https://www.elperiodico.com/es/educacion/20260621/estudiantes-udg-identifican-herramientas-aplicaciones-131648735)<br>
 13:05 [Así ha sido la llegada a Suiza de las delegaciones iraní y estadounidense para las conversaciones de paz](https://www.elperiodico.com/es/videos/internacional/sido-llegada-suiza-delegaciones-irani/131649146.shtml)<br>
 13:04 [Ola de calor, hoy en directo: última hora de Aemet y temperaturas máximas previstas en España y resto de Europa](https://www.elperiodico.com/es/sociedad/20260621/ola-calor-aemet-meteocat-catalunya-espana-temperaturas-ultima-hora-directo-131605857)<br>
 13:01 [De la antigua torre de señales al bombardeo de Barcelona y la represión política: la nueva exposición del Castillo de Montjuïc](https://www.elperiodico.com/es/barcelona/20260621/nueva-exposicion-permanente-castillo-montjuic-torre-senales-bombardeo-barcelona-131614930)<br>
 12:59 [Los parisinos se lanzan al Sena para refrescarse durante la ola de calor](https://www.elperiodico.com/es/fotos/sociedad/parisinos-lanzan-sena-refrescarse-durante-131648540)<br>
+12:59 [Los parisinos se lanzan al canal de San Martín para refrescarse durante la ola de calor](https://www.elperiodico.com/es/fotos/sociedad/parisinos-lanzan-agua-refrescarse-131648540)<br>
 12:57 [El abogado de Begoña Gómez denuncia a Peinado ante el CGPJ por vulnerar su defensa](https://www.elperiodico.com/es/sociedad/20260621/abogado-begona-gomez-denuncia-peinado-131648925)<br>
 12:42 [Crimen en Castellón: La custodia de los hijos del fallecido y su exmujer había provocado discusiones con intervención policial](https://www.elperiodico.com/es/sucesos/20260621/crimen-vivienda-playa-castellon-custodia-131648641)<br>
 12:41 [Ángeles guardianes en tierra hostil](https://www.elperiodico.com/es/sociedad/20260621/angeles-guardianes-2026-tierra-hostil-mayor-ejercicio-policia-militar-otan-valencia-131648422)<br>
