@@ -1,8 +1,12 @@
-# News for 2026-06-21 15:12
+# News for 2026-06-21 16:50
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+16:38 [На Одещині третю добу шукають дитину, яку віднесло у море](https://ua.korrespondent.net/ukraine/4888199-na-odeschyni-tretui-dobu-shukauit-dytynu-yaku-vidneslo-u-more)<br>
+16:16 [У Керченській протоці горять пароми – соцмережі](https://ua.korrespondent.net/ukraine/4888196-u-kerchenskii-prototsi-horiat-paromy-sotsmerezhi)<br>
+15:58 [МЗС: Будемо дзеркалити всі недружні кроки Польщі](https://ua.korrespondent.net/ukraine/4888194-mzs-budemo-dzerkalyty-vsi-nedruzhni-kroky-polschi)<br>
+15:39 [Рівненщину атакували російські дрони](https://ua.korrespondent.net/ukraine/4888192-rivnenschynu-atakuvaly-rosiiski-drony)<br>
 14:56 [Крим частково залишився без світла та води](https://ua.korrespondent.net/ukraine/4888188-krym-chastkovo-zalyshyvsia-bez-svitla-ta-vody)<br>
 14:35 [У Путіна натякнули на відмову від Анкориджа](https://ua.korrespondent.net/world/4888186-u-putina-natiaknuly-na-vidmovu-vid-ankorydzha)<br>
 14:16 [Польські політики почали повертати Навроцькому свої ордени](https://ua.korrespondent.net/world/4888182-polski-polityky-pochaly-povertaty-navrotskomu-svoi-ordeny)<br>
@@ -40,6 +44,9 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+16:46 [La ola de calor continúa este lunes en España, con temperaturas de hasta 42ºC en zonas del Ebro y avisos en 14 comunidades](https://www.elperiodico.com/es/sociedad/20260621/ola-calor-continua-lunes-espana-temperaturas-131654700)<br>
+16:20 [Vidal Quadras espera que el sicario que atentó contra él pase el resto de su vida detenido](https://www.elperiodico.com/es/politica/20260621/vidal-quadras-sicario-atento-carcel-131653993)<br>
+15:55 [Obradovic regresa a Panathinaikos 14 años después](https://www.elperiodico.com/es/deportes/20260621/obradovic-regresa-panathinaikos-131652952)<br>
 15:09 [Ucrania redobla sus ataques con drones para aislar a Crimea del resto de Rusia](https://www.elperiodico.com/es/videos/internacional/ucrania-redobla-ataques-drones-aislar-video/131651657.shtml)<br>
 15:00 [El Rey Juan Carlos, plan de domingo en Sanxenxo al margen del Bribón pero muy cerca de la acción](https://www.elperiodico.com/es/politica/20260621/rey-juan-carlos-plan-domingo-131651949)<br>
 15:00 [Sonia, madre de una niña con parálisis cerebral: "No puedo trabajar porque mi hija requiere cuidados y ahora me quieren quitar la única ayuda que tengo"](https://www.elperiodico.com/es/sociedad/20260621/cume-prestacion-ayuda-cuidado-hija-paralisis-cerebral-131593870)<br>

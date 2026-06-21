@@ -1,5 +1,176 @@
 [
   {
+    "title": "La ola de calor continúa este lunes en España, con temperaturas de hasta 42ºC en zonas del Ebro y avisos en 14 comunidades",
+    "link": "https://www.elperiodico.com/es/sociedad/20260621/ola-calor-continua-lunes-espana-temperaturas-131654700",
+    "pubDate": "2026-06-21 16:46:15",
+    "category": "",
+    "description": "<h2>Se registrarán también tormentas y chubascos fuertes en el centro y norte peninsular</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Cuándo es la Grossa de Sant Joan 2026? Fecha y horario del sorteo",
+    "link": "https://www.elperiodico.com/es/loterias-y-sorteos/20260621/grossa-revetlla-sant-joan-2026-loteria-dv-131508657",
+    "pubDate": "2026-06-21 16:40:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta lotería ofrece un premio extraordinario de 500.000 euros y un primer premio de 100.000 euros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260616/sant-joan-personas-sensibles-petardos-mascotas-dv-131321459\">Las mascotas y las personas sensibles a los petardos de Sant Joan están de enhorabuena: llega un kit mucho más silencioso</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/tarragona/20260615/foc-revetlla-castells-tarragona-enceta-estiu-131427784\">Fuego, verbena y castells: Tarragona da la bienvenida al verano con la fiesta de Sant Joan del 19 al 24 de junio</a></h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Одещині третю добу шукають дитину, яку віднесло у море",
+    "link": "https://ua.korrespondent.net/ukraine/4888199-na-odeschyni-tretui-dobu-shukauit-dytynu-yaku-vidneslo-u-more",
+    "pubDate": "2026-06-21 16:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467954.jpg\">10-річна дівчинка разом із прабабусею купалася на стихійному пляжі поблизу однієї з баз відпочинку в селі Сичавка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José María Sánchez, pescadero: \"Las sardinas están mejor cuanto más calor hace\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260621/jose-maria-sanchez-pescadero-sardinas-calor-dv-131519285",
+    "pubDate": "2026-06-21 16:30:03",
+    "category": "",
+    "description": "<h2>El experto ha mostrado los motivos por los que los meses con las temperaturas más altas son los idóneos para probar este manjar</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "España - Arabia Saudí del Mundial 2026, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/20260621/espana-arabia-saudi-mundial-2026-directo-131654278",
+    "pubDate": "2026-06-21 16:29:41",
+    "category": "",
+    "description": "<h2 class=\"item\"><strong>Alineación de España</strong>: Unai Simón, Pedro Porro, Pau Cubarsí, Laporte, Cucurella; Rodri, Olmo, Pedri, Lamine, Oyarzabal y Baena</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Магучіх вразила Нідерланди швидкою перемогою на Континентальному турі",
+    "link": "https://ua.korrespondent.net/sport/4888202-mahuchikh-vrazyla-niderlandy-shvydkoui-peremohoui-na-kontynentalnomu-turi",
+    "pubDate": "2026-06-21 16:29:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467944.jpg\">Українська стрибунка у висоту буквально у два стрибки зняла питання про переможницю змагань.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Vidal Quadras espera que el sicario que atentó contra él pase el resto de su vida detenido",
+    "link": "https://www.elperiodico.com/es/politica/20260621/vidal-quadras-sicario-atento-carcel-131653993",
+    "pubDate": "2026-06-21 16:20:20",
+    "category": "",
+    "description": "<h2>El exvicepresidente del Parlamento Europeo vinculó el atentado con su apoyo al CNRI y espera que el autor material, detenido en Países Bajos, sea condenado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Керченській протоці горять пароми – соцмережі",
+    "link": "https://ua.korrespondent.net/ukraine/4888196-u-kerchenskii-prototsi-horiat-paromy-sotsmerezhi",
+    "pubDate": "2026-06-21 16:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467943.jpg\">У соцмережах поширили відео, на якому горять російські пороми. Ймовірно, після атаки БПЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El restaurante de Igualada ganador de 'Joc de Cartes': \"Toda la comida riquísima\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260621/inmejorable-restaurante-igualada-joc-de-cartes-dv-loc-109266183",
+    "pubDate": "2026-06-21 16:15:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20240928/son-mejores-restaurantes-igualada-dv-loc-108650543\" >Estos son los 5 mejores restaurantes de Igualada según Tripadvisor</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20240922/vale-pena-romper-dieta-pasteleria-igualada-mejor-valorada-dv-loc-108401653\" >\"Vale la pena romper la dieta\": la pastelería de Igualada con mejores reseñas en Tripadvisor</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20241005/impresionante-menu-diario-elogios-mejor-restaurante-igualada-dv-loc-108927157\" >\"Impresionante menú diario\": los elogios al mejor restaurante de Igualada según Tripadvisor</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así fue la última jornada del Sónar 2026",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/ultima-jornada-sonar-2026-131653738",
+    "pubDate": "2026-06-21 16:05:00",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Argentina se prepara para seguir de fiesta frente a Austria",
+    "link": "https://www.elperiodico.com/es/deportes/20260621/argentina-prepara-seguir-fiesta-frente-131653177",
+    "pubDate": "2026-06-21 16:03:03",
+    "category": "",
+    "description": "<h2 class=\"item\">Una victoria en Dallas este lunes de la selección liderada por Messi supondría la inmediata clasificación para la próxima fase del certamen.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Groots, la ‘foodtech’ catalana de agricultura vertical que conquista los grandes supermercados",
+    "link": "https://www.elperiodico.com/es/barcelona/20260621/groots-foodtech-catalana-agricultura-vertical-supermercados-131536597",
+    "pubDate": "2026-06-21 16:00:23",
+    "category": "",
+    "description": "<h2>La empresa especializada en hidroponía, el cultivo sin tierra, empezó como un sueño de tres amigos de infancia y hoy abastece multinacionales</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20231229/pestos-sostenibles-hierbas-aromaticas-cultivadas-bc-96357607\">Pestos sostenibles con hierbas aromáticas cultivadas verticalmente</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "МЗС: Будемо дзеркалити всі недружні кроки Польщі",
+    "link": "https://ua.korrespondent.net/ukraine/4888194-mzs-budemo-dzerkalyty-vsi-nedruzhni-kroky-polschi",
+    "pubDate": "2026-06-21 15:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467934.jpg\">Україна більше не буде ігнорувати недружні або зневажливі кроки Варшави, заявив Андрій Сибіга.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Obradovic regresa a Panathinaikos 14 años después",
+    "link": "https://www.elperiodico.com/es/deportes/20260621/obradovic-regresa-panathinaikos-131652952",
+    "pubDate": "2026-06-21 15:55:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Márquez pone el Mundial patas arriba con una victoria de campeón",
+    "link": "https://www.elperiodico.com/es/deportes/20260621/marquez-pone-mundial-patas-victoria-131652008",
+    "pubDate": "2026-06-21 15:39:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Ya está aquí. Aprilia y Marco Bezzecchi han desaprovechado el momento de escaparse. Han perdido todo lo ganado cuando Marc Márquez y Ducati estaban en sus horas más bajas. Recuperado 'Il Cannibale', el Mundial de MotoGP ha dado un vuelco terrible. 'Bezz' sigue siendo el líder, sí, pero MM93 le ha restado 62 puntos en dos grandes premios, en cuatro carreras. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Рівненщину атакували російські дрони",
+    "link": "https://ua.korrespondent.net/ukraine/4888192-rivnenschynu-atakuvaly-rosiiski-drony",
+    "pubDate": "2026-06-21 15:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467925.jpg\">Вночі російські безпілотники вдарили по Рівненській області. У Сарненському районі є знеструмлення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El comentado cántico del portero del Sabadell en la celebración de su ascenso a Segunda División",
+    "link": "https://www.elperiodico.com/es/videos/deportes/comentado-cantico-portero-sabadell-celebracion/131652612.shtml",
+    "pubDate": "2026-06-21 15:34:36",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los reyes de Países Bajos bailan con Curazao en el vestuario para celebrar el empate",
+    "link": "https://www.elperiodico.com/es/deportes/20260621/reyes-paises-bajos-bailan-curazao-empate-131652246",
+    "pubDate": "2026-06-21 15:31:44",
+    "category": "",
+    "description": "<h2>El pequeño país caribeño aún tiene posibilidades de continuar en la competición tras sumar un punto </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Помер мобілізований співак та блогер Денчик",
+    "link": "https://ua.korrespondent.net/ukraine/4888190-pomer-mobilizovanyi-spivak-ta-bloher-denchyk",
+    "pubDate": "2026-06-21 15:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4467916.jpg\">Блогер і вуличний музикант Денис Опара був більш відомий як \"Денчик з Хрещатика\". У лютому цього року його мобілізували.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 55
+  },
+  {
     "title": "Ucrania redobla sus ataques con drones para aislar a Crimea del resto de Rusia",
     "link": "https://www.elperiodico.com/es/videos/internacional/ucrania-redobla-ataques-drones-aislar-video/131651657.shtml",
     "pubDate": "2026-06-21 15:09:38",
@@ -1611,6 +1782,24 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Allium: cocina catalana con acento italiano y energía positiva",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/allium-mejores-restaurantes-cataluna-130814946",
+    "pubDate": "2026-06-21 01:00:33",
+    "category": "",
+    "description": "<h2>Luca Marongiu practica una cocina heterodoxa de producto local y espíritu viajero, donde la sala y la música también forman parte de la experiencia.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cinc Sentits: la cocina serena y de la memoria de Jordi Artal",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/cinc-sentits-jordi-artal-mejores-restaurantes-cataluna-130222554",
+    "pubDate": "2026-06-21 01:00:33",
+    "category": "",
+    "description": "<h2>El chef, con raíces en la Ribera d’Ebre, propone una mirada culinaria singular sobre Catalunya y su despensa.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Мелоні звинуватила Трампа у брехні щодо неї",
     "link": "https://ua.korrespondent.net/world/4888088-meloni-zvynuvatyla-trampa-u-brekhni-schodo-nei",
     "pubDate": "2026-06-21 00:50:00",
@@ -1683,11 +1872,38 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Can Jubany: el imperio del producto, la memoria y la excelencia",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/can-jubany-nandu-jubany-mejores-restaurantes-cataluna-130822260",
+    "pubDate": "2026-06-21 00:00:29",
+    "category": "",
+    "description": "<h2>Nandu Jubany y Anna Orte han construido una gran casa donde la hospitalidad, el producto, la alta cocina catalana y el oficio funcionan con precisión natural</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Can Bosch: el encuentro entre la tradición y la mirada contemporánea",
     "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/can-bosch-mejores-restaurantes-cataluna-130820088",
     "pubDate": "2026-06-21 00:00:28",
     "category": "",
     "description": "<h2>Arnau Bosch dirige una cocina que sirve el Mediterráneo sin clichés y actualiza la tradición desde la coherencia</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Casa Irene: tradición aranesa, producto pirenaico y cálida hospitalidad",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/casa-irene-mejores-restaurantes-cataluna-130822832",
+    "pubDate": "2026-06-21 00:00:28",
+    "category": "",
+    "description": "<h2>La olla aranesa creada por Irene España es un mito de la Val d’Aran y el cocinero Pere Graupera revisita la despensa aranesa con alta sensibilidad.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Can Motes: cocina catalana y de proximidad felizmente actualizada",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/can-motes-mejores-restaurantes-cataluna-130822412",
+    "pubDate": "2026-06-21 00:00:27",
+    "category": "",
+    "description": "<h2>Cocina al ritmo de la temporada, con menús que permiten degustar el ciclo anual del Pla de l’Estany desde una mirada serena y contemporánea.</h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 100
   }
