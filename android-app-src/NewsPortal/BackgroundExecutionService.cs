@@ -8,6 +8,7 @@ public sealed class BackgroundExecutionService : Service
 {
     private const int NotificationId = 1001;
     private const string ChannelId = "news_portal_background_execution";
+    private const string NotificationLogFileName = "notification.log";
     private static readonly TimeSpan WaitInterval = TimeSpan.FromMinutes(1);
     private static readonly TimeSpan ExecutionInterval = TimeSpan.FromMinutes(60);
     private static DateTime? _lastExecutionTime;
@@ -95,6 +96,8 @@ public sealed class BackgroundExecutionService : Service
 
     private Notification BuildNotification(string content)
     {
+        AppendNotificationLog(content);
+
         var launchIntent = PackageManager?.GetLaunchIntentForPackage(PackageName!) ??
                            new Intent(this, typeof(MainActivity));
         var pendingIntent = PendingIntent.GetActivity(
@@ -115,6 +118,20 @@ public sealed class BackgroundExecutionService : Service
             .SetOngoing(true)
             .SetContentIntent(pendingIntent)
             .Build();
+    }
+
+    private void AppendNotificationLog(string content)
+    {
+        try
+        {
+            var logPath = Path.Combine(FilesDir?.AbsolutePath ?? AppContext.BaseDirectory, NotificationLogFileName);
+            var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            File.AppendAllText(logPath, $"{timestamp} {content}{Environment.NewLine}");
+        }
+        catch
+        {
+            // Logging must not prevent foreground service notifications from being shown.
+        }
     }
 
     private void CreateNotificationChannel()
