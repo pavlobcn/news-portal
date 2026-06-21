@@ -513,6 +513,15 @@
     "topic_match_probability": 92
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-06-20 18:21:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Armengol renuncia a ser la candidata del PSOE balear en las autonómicas de 2027",
     "link": "https://www.elperiodico.com/es/videos/politica/armengol-renuncia-candidata-psoe-balear/131633699.shtml",
     "pubDate": "2026-06-20 18:20:06",
@@ -762,6 +771,15 @@
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4466886.jpg\">Іран закрив Ормузьку протоку, звинувативши США у порушенні меморандуму, а Ізраїль - у бойових діях у Лівані.",
     "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-06-20 15:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4388528.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
     "topic_match_probability": 0
   },
   {
