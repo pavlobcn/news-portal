@@ -126,7 +126,7 @@ public sealed class BackgroundExecutionService : Service
     {
         try
         {
-            var logPath = Path.Combine(FilesDir?.AbsolutePath ?? AppContext.BaseDirectory, NotificationLogFileName);
+            var logPath = Path.Combine(GetNotificationLogDirectory(), NotificationLogFileName);
             var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             File.AppendAllText(logPath, $"{timestamp} {content}\n");
         }
@@ -134,6 +134,20 @@ public sealed class BackgroundExecutionService : Service
         {
             // Logging must not prevent foreground service notifications from being shown.
         }
+    }
+
+    private string GetNotificationLogDirectory()
+    {
+        var externalFilesDirectory = GetExternalFilesDir(null);
+        var logDirectory = externalFilesDirectory?.AbsolutePath;
+
+        if (string.IsNullOrWhiteSpace(logDirectory))
+        {
+            logDirectory = FilesDir?.AbsolutePath ?? AppContext.BaseDirectory;
+        }
+
+        Directory.CreateDirectory(logDirectory);
+        return logDirectory;
     }
 
     private void CreateNotificationChannel()
