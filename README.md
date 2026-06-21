@@ -1,9 +1,12 @@
-# News for 2026-06-21 05:37
+# News for 2026-06-21 07:17
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+06:50 [Генштаб підрахував нові втрати росіян](https://ua.korrespondent.net/ukraine/4888116-henshtab-pidrakhuvav-novi-vtraty-rosiian)<br>
+06:23 [У Франції запровадили "сухий закон" через спеку](https://ua.korrespondent.net/world/4888112-u-frantsii-zaprovadyly-sukhyi-zakon-cherez-speku)<br>
 05:26 [Король Чарльз III вперше розкриє свої особисті доходи](https://ua.korrespondent.net/world/4888107-korol-charlz-III-vpershe-rozkryie-svoi-osobysti-dokhody)<br>
+04:57 [Дружину прем'єра Іспанії судитимуть за корупцію](https://ua.korrespondent.net/ukraine/4888105-druzhynu-premiera-ispanii-sudytymut-za-koruptsiui)<br>
 04:26 [В армії США заперечили закриття Ормузької протоки](https://ua.korrespondent.net/world/4888103-v-armii-ssha-zaperechyly-zakryttia-ormuzkoi-protoky)<br>
 03:24 [Стармер оголосить про відставку - ЗМІ](https://ua.korrespondent.net/world/4888099-starmer-oholosyt-pro-vidstavku-zmi)<br>
 02:53 [Венс назвав головні питання у переговорах з Іраном](https://ua.korrespondent.net/world/4888097-vens-nazvav-holovni-pytannia-u-perehovorakh-z-iranom)<br>
@@ -14,6 +17,22 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 00:21 [Трамп пригрозив запровадити мита за прохід Ормузькою протокою](https://ua.korrespondent.net/world/4888086-tramp-pryhrozyv-zaprovadyty-myta-za-prokhid-ormuzkoui-protokoui)<br>
 
 ## www.elperiodico.com
+06:49 [Guerra de Irán | El vicepresidente de EEUU llega a Suiza para las negociaciones con Teherán](https://www.elperiodico.com/es/internacional/20260621/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+06:01 [Teletrabajar en familia: por qué no siempre es una buena idea](https://www.elperiodico.com/es/opinion/20260621/teletrabajo-solucion-familias-131638577)<br>
+06:00 [Peinado señala a Pedro Sánchez en cuatro actuaciones por las que acusa de tráfico de influencias a su mujer, Begoña Gómez](https://www.elperiodico.com/es/politica/20260621/peinado-senala-pedro-sanchez-trafico-influencias-begona-gomez-131637034)<br>
+06:00 [El Prat y la nueva Barcelona](https://www.elperiodico.com/es/opinion/20260621/prat-nueva-barcelona-editorial-131624715)<br>
+06:00 [¿Qué se ha hecho y qué no para mejorar el estado del delta del Llobregat?](https://www.elperiodico.com/es/sociedad/20260621/hecho-mejorar-delta-llobregat-131607416)<br>
+06:00 [Carmen Calvo: "Tenemos que revisar qué ha pasado con todos los expresidentes. Nos quedaríamos todos tranquilos"](https://www.elperiodico.com/es/politica/20260621/carmen-calvo-revisar-pasado-expresidentes-zapatero-131613267)<br>
+06:00 [Calvo, sobre la reforma del Consejo de Estado: "Hay que mirar la condición de vitalicios de los consejeros"](https://www.elperiodico.com/es/politica/20260621/calvo-reforma-consejo-acabar-vitalicios-permanentes-131613178)<br>
+06:00 [El teléfono aportado por EEUU desvela que Zapatero estaba "muy enfadado" al salir su nombre vinculado al rescate de Plus Ultra](https://www.elperiodico.com/es/politica/20260621/telefono-aportado-eeuu-desvela-zapatero-hsi-rodolfo-reyes-venezuela-cabreado-enfadado-plus-ultra-131612479)<br>
+06:00 [El CSIC lanza una de las bases de datos más grandes del mundo sobre la microbiota humana](https://www.elperiodico.com/es/sociedad/20260621/csic-bases-datos-kefir-microbiota-danone-131280333)<br>
+06:00 [España encarrila ante Bruselas el cierre de la infracción ambiental que bloquea la ampliación de El Prat](https://www.elperiodico.com/es/sociedad/20260621/espana-bruselas-infraccion-ambiental-delta-llobregat-aeropuerto-barcelona-131594720)<br>
+06:00 [Los rincones secretos de la Sagrada Família (II): el huerto junto al sepulcro de Jesús](https://www.elperiodico.com/es/barcelona/eixample/20260621/rincones-secretos-sagrada-familia-huerto-129741052)<br>
+06:00 [Empresarios valencianos alertan sobre la IA: "Va demasiado deprisa y deberíamos pararla"](https://www.elperiodico.com/es/economia/20260621/empresarios-valencianos-alertan-ia-deprisa-131642180)<br>
+06:00 [La joya industrial valenciana que construye los barcos más rápidos del mundo](https://www.elperiodico.com/es/economia/20260621/joya-industrial-valenciana-construye-barcos-131642178)<br>
+06:00 [Mallorca y Baleares: el laboratorio de la sostenibilidad](https://www.elperiodico.com/es/economia/20260621/mallorca-baleares-laboratorio-sostenibilidad-131642179)<br>
+06:00 [EL PERIÓDICO sigue al alza y se consolida en el top 6 de los medios más leídos en España](https://www.elperiodico.com/es/sociedad/20260621/ranking-audiencia-gfk-el-periodico-top-6-espana-lider-cataluna-131605721)<br>
+05:55 [Los rincones secretos de la Sagrada Família | Huerto](https://www.elperiodico.com/es/videos/barcelona/rincones-secretos-sagrada-familia-huerto-video/131466514.shtml)<br>
 04:50 [Los libros de la semana: Vanessa Chan, el Premio Fernando Lara y Vicente Echerri](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260621/libros-recomendados-suplemento-abril-131321022)<br>
 04:50 [Inma Miralles, escritora: "Los lectores deben ser convocados hacia algo, la lectura debe actuar con efecto de egregor"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260621/inma-miralles-novela-escritora-temporada-malva-roller-dolls-131534049)<br>
 04:50 [En plena ola de calor, ¿se puede entrenar al cuerpo para soportar mejor las altas temperaturas?](https://www.elperiodico.com/es/salud/20260621/plena-ola-calor-entrenar-cuerpo-altas-temperaturas-131641470)<br>
