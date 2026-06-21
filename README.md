@@ -1,8 +1,11 @@
-# News for 2026-06-21 20:06
+# News for 2026-06-21 21:07
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+20:58 [Зеленський відреагував на вибачення Лукашенка](https://ua.korrespondent.net/ukraine/4888232-zelenskyi-vidreahuvav-na-vybachennia-lukashenka)<br>
+20:37 [Зеленський: Навроцький робить те, що робив Орбан](https://ua.korrespondent.net/ukraine/4888230-zelenskyi-navrotskyi-robyt-te-scho-robyv-orban)<br>
+20:16 [Росіяни вдарили по Нікопольщині, серед поранених дворічна дитина](https://ua.korrespondent.net/ukraine/4888226-rosiiany-vdaryly-po-nikopolschyni-sered-poranenykh-dvorichna-dytyna)<br>
 19:55 [В Криму вводять жорсткі обмеження](https://ua.korrespondent.net/ukraine/4888224-v-krymu-vvodiat-zhorstki-obmezhennia)<br>
 19:39 [В Росії визнали факт "бусифікації"](https://ua.korrespondent.net/world/russia/4888222-v-rosii-vyznaly-fakt-busyfikatsii)<br>
 18:56 [Трамп пригрозив іранській делегації](https://ua.korrespondent.net/world/4888218-tramp-pryhrozyv-iranskii-delehatsii)<br>
@@ -52,6 +55,11 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+21:06 [Desalojada una veintena de edificios de Arenys de Mar tras hundirse un inmueble](https://www.elperiodico.com/es/videos/sociedad/desalojada-veintena-edificios-arenys-mar/131661424.shtml)<br>
+21:05 [La 'atropellada' del juez Peinado en su 'remate final' de Begoña Gómez](https://www.elperiodico.com/es/politica/20260621/atropellada-juez-peinado-remate-final-ernesto-ekaizer-131661067)<br>
+20:49 [Desalojados una veintena de edificios en Arenys de Mar tras derrumbarse un inmueble](https://www.elperiodico.com/es/sucesos/20260621/desalojados-20-edificios-arenys-mar-derrumbe-inmueble-131661125)<br>
+20:40 [Estas son las normas que deberás recordar cuando viajes en avión](https://www.elperiodico.com/es/trafico-y-transportes/20260621/derechos-pasajeros-avion-cambios-dv-131491887)<br>
+20:30 [La frase más famosa de Darth Vader en Star Wars: casi todo el mundo la recuerda mal](https://www.elperiodico.com/es/vida-y-estilo/20260621/frase-famosa-darth-vader-mundo-recuerda-mal-dv-131462801)<br>
 20:00 [Gibraltar cuenta los días para que caiga la Verja: “Cuando la tiren, a mí me hacen reina”](https://www.elperiodico.com/es/internacional/20260621/gibraltar-situacion-derribo-verja-frontera-espana-131659927)<br>
 19:57 [Netanyahu reitera que Israel permanecerá en el Líbano "el tiempo que sea necesario"](https://www.elperiodico.com/es/videos/internacional/netanyahu-reitera-israel-permanecera-libano/131659846.shtml)<br>
 19:56 [Irán interrumpe las negociaciones con Estados Unidos en Suiza tras las amenazas de Trump](https://www.elperiodico.com/es/internacional/20260621/iran-interrumpe-negociaciones-estados-unidos-suiza-amenazas-trump-131659809)<br>
