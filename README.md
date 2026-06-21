@@ -1,8 +1,10 @@
-# News for 2026-06-21 11:08
+# News for 2026-06-21 12:15
 
 Previous day: [2026-06-20](./data/2026-06-20.md)
 
 ## ua.korrespondent.net
+11:50 [РФ за тиждень випустила понад 2 тис. дронів](https://ua.korrespondent.net/ukraine/4888162-rf-za-tyzhden-vypustyla-ponad-2-tys-droniv)<br>
+11:24 [Удар по Сумах: пошкоджено пошту та АЗС](https://ua.korrespondent.net/ukraine/4888158-udar-po-sumakh-poshkodzheno-poshtu-ta-azs)<br>
 10:59 [Сили оборони уразили Тюменський НПЗ](https://ua.korrespondent.net/ukraine/4888152-syly-oborony-urazyly-tuimenskyi-npz)<br>
 10:39 [Зеленський підтвердив ураження об’єктів РФ](https://ua.korrespondent.net/ukraine/4888148-zelenskyi-pidtverdyv-urazhennia-obiektiv-rf)<br>
 09:58 [Дрони атакували порт у Краснодарському краї РФ](https://ua.korrespondent.net/ukraine/4888143-drony-atakuvaly-port-u-krasnodarskomu-krai-rf)<br>
@@ -30,6 +32,13 @@ Previous day: [2026-06-20](./data/2026-06-20.md)
 09:15 [Giannakopoulos se regala a Obradovic](https://as.com/baloncesto/euroliga/giannakopoulos-se-regala-a-obradovic-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:04 [Piden 11 años a un hombre por mantener relaciones sexuales con una menor de 15 años en un centro de acogida de Cantabria](https://www.elperiodico.com/es/sucesos/20260621/piden-11-anos-hombre-mantener-131647725)<br>
+12:00 [Ni ‘Avatar’ ni ‘Star Wars’: la película más cara jamás realizada costó casi 575 millones y se estrenó en 2022](https://www.elperiodico.com/es/ocio-y-cultura/20260621/pelicula-mas-cara-historia-jurassic-world-dominion-dv-131596087)<br>
+12:00 [Vecinos y visitantes](https://www.elperiodico.com/es/opinion/20260621/vecinos-visitantes-turismo-barcelona-articulo-pablo-salvador-coderch-131607254)<br>
+12:00 [Albert Ubach, víctima de tres maristas del colegio Rubí: "Me convirtieron en su juguete sexual"](https://www.elperiodico.com/es/sociedad/20260621/albert-ubach-victima-maristas-abusos-sexuales-131597673)<br>
+11:57 [Salvador Ribas: "Un eclipse total de Sol es uno de los fenómenos más espectaculares de la astronomía en la naturaleza"](https://www.elperiodico.com/es/sociedad/20260621/salvador-ribas-eclipse-total-sol-12-de-agosto-131647282)<br>
+11:30 [Dioni Lanza, exadicto a las apuestas: "Pasé un infierno y me preocupan los jóvenes"](https://www.elperiodico.com/es/sociedad/20260621/dioni-lanza-exadicto-apuestas-infierno-jovenes-dv-131626593)<br>
+11:30 [El testimonio de Albert Ubach, víctima d4e abusos de los maristas](https://www.elperiodico.com/es/videos/sociedad/testimonio-albert-ubach-victima-abusos-video/131602201.shtml)<br>
 10:57 [El CGPJ se reúne de manera extraordinaria tras el auto del juez Peinado](https://www.elperiodico.com/es/politica/20260621/cgpj-reune-manera-extraordinaria-auto-131646425)<br>
 10:53 [Keir Starmer anunciará su dimisión como primer ministro del Reino Unido este lunes, según varios medios](https://www.elperiodico.com/es/internacional/20260621/starmer-dimitir-pronto-lunes-the-131646311)<br>
 10:44 [Así convenció Aragón a Amancio Ortega para que Inditex se instalara en Zaragoza y no en Catalunya: el secreto mejor guardado de los últimos 25 años, al detalle](https://www.elperiodico.com/es/economia/20260621/convencio-aragon-amancio-ortega-inditex-131645987)<br>
