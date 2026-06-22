@@ -1,8 +1,12 @@
-# News for 2026-06-22 04:07
+# News for 2026-06-22 05:43
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+05:37 [Трамп накинувся на NYT за сумніви стосовно "успіхів" війни з Іраном](https://ua.korrespondent.net/world/4888270-tramp-nakynuvsia-na-NYT-za-sumnivy-stosovno-uspikhiv-viiny-z-iranom)<br>
+05:37 [Трамп накинувся на NYT за сумніви стосовно "успіху" війни з Іраном](https://ua.korrespondent.net/world/4888270-tramp-nakynuvsia-na-NYT-za-sumnivy-stosovno-uspikhu-viiny-z-iranom)<br>
+04:59 [Війна з Іраном обійшлася Пентагону в 40 млрд доларів - CNN](https://ua.korrespondent.net/world/4888268-viina-z-iranom-obiishlasia-pentahonu-v-40-mlrd-dolariv-CNN)<br>
+04:43 [Іран заявив про "прогрес" у переговорах зі США](https://ua.korrespondent.net/world/4888266-iran-zaiavyv-pro-prohres-u-perehovorakh-zi-ssha)<br>
 03:58 [В Москві заявили про масовану атаку дронів](https://ua.korrespondent.net/world/russia/4888264-v-moskvi-zaiavyly-pro-masovanu-ataku-droniv)<br>
 03:31 [В Німеччині 19-річний альпініст зірвався з гори і загинув](https://ua.korrespondent.net/world/4888262-v-nimechchyni-19-richnyi-alpinist-zirvavsia-z-hory-i-zahynuv)<br>
 02:44 [РФ атакують численні дрони: фіксуються пошкодження](https://ua.korrespondent.net/world/russia/4888260-rf-atakuuit-chyslenni-drony-fiksuuitsia-poshkodzhennia)<br>
@@ -10,3 +14,7 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 01:46 [Росія атакувала Запоріжжя дронами: є поранений](https://ua.korrespondent.net/city/zaporozhye/4888256-rosiia-atakuvala-zaporizhzhia-dronamy-ye-poranenyi)<br>
 00:58 [Погрози Трампа нашкодили перемовам з Іраном - CNN](https://ua.korrespondent.net/world/4888252-pohrozy-trampa-nashkodyly-peremovam-z-iranom-CNN)<br>
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
+
+## www.elperiodico.com
+04:50 [Política contra cultura: Meirás](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260622/politica-cultura-meiras-131414271)<br>
+04:50 ['En palabras sencillas', de Richard Ford: literatura y política](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260622/richard-ford-critica-libro-palabras-sencillas-131151293)<br>
