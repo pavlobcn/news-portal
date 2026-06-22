@@ -1,8 +1,15 @@
-# News for 2026-06-22 16:00
+# News for 2026-06-22 17:09
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+17:07 [Зеленський затвердив рекордні витрати на оборону](https://ua.korrespondent.net/ukraine/4888417-zelenskyi-zatverdyv-rekordni-vytraty-na-oboronu)<br>
+16:51 [Екскомбрига підозрюють у нарахуванні 80 млн незаконних "бойових"](https://ua.korrespondent.net/ukraine/4888412-ekskombryha-pidozruiuit-u-narakhuvanni-80-mln-nezakonnykh-boiovykh)<br>
+16:47 [Японія уп'ятеро підвищила вартість віз для іноземців](https://ua.korrespondent.net/world/4888410-yaponiia-upiatero-pidvyschyla-vartist-viz-dlia-inozemtsiv)<br>
+16:32 [Без пального, світла та евакуація Артеку. Ситуація в Криму](https://ua.korrespondent.net/ukraine/4888402-bez-palnoho-svitla-ta-evakuatsiia-arteku-sytuatsiia-v-krymu)<br>
+16:30 [Скандал навколо Ордену Білого Орла: хто винен і що робити](https://ua.korrespondent.net/articles/4888406-skandal-navkolo-ordenu-biloho-orla-khto-vynen-i-scho-robyty)<br>
+16:19 [Путін і Лукашенко обговорять "погрози" Зеленського](https://ua.korrespondent.net/world/russia/4888401-putin-i-lukashenko-obhovoriat-pohrozy-zelenskoho)<br>
+16:03 [Винні націоналісти: Навроцький відповів Зеленському](https://ua.korrespondent.net/world/4888399-vynni-natsionalisty-navrotskyi-vidpoviv-zelenskomu)<br>
 15:58 [Російська армія зменшила кількість атак - Генштаб](https://ua.korrespondent.net/ukraine/4888398-rosiiska-armiia-zmenshyla-kilkist-atak-henshtab)<br>
 15:39 [Табору не буде: у Криму "влада" скасувала літній відпочинок дітей](https://ua.korrespondent.net/world/russia/4888396-taboru-ne-bude-u-krymu-vlada-skasuvala-litnii-vidpochynok-ditei)<br>
 15:19 [Венс заявив про готовність Ірану прийняти інспекторів МАГАТЕ](https://ua.korrespondent.net/world/4888394-vens-zaiavyv-pro-hotovnist-iranu-pryiniaty-inspektoriv-mahate)<br>
@@ -61,11 +68,22 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
 
 ## as.com
+15:59 [Jaka Lakovic dirigirá a La Laguna Tenerife](https://as.com/baloncesto/acb/jaka-lakovic-dirigira-a-la-laguna-tenerife-f202606-n/)<br>
 11:59 [Trey Lyles se despide: “Madrid ha sido genial, pero ha llegado la hora”](https://as.com/baloncesto/euroliga/trey-lyles-se-despide-madrid-ha-sido-genial-pero-ha-llegado-la-hora-f202606-n/)<br>
 09:19 [El futuro de Mirotic puede estar en la Eurocup](https://as.com/baloncesto/euroliga/el-futuro-de-mirotic-puede-estar-en-la-eurocup-f202606-n/)<br>
 07:18 [Una nueva final en el Palau](https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/)<br>
 
 ## www.elperiodico.com
+17:01 [EEUU autoriza la venta de crudo iraní por 60 días tras los avances en las conversaciones de paz](https://www.elperiodico.com/es/internacional/20260622/eeuu-autoriza-venta-crudo-irani-131691264)<br>
+17:00 [España destaca como uno de los "puntos rojos" a escala global donde más ha aumentado el estrés térmico que lleva el cuerpo humano al límite](https://www.elperiodico.com/es/sociedad/20260622/espana-aumento-estres-termico-sur-europa-estudio-131688086)<br>
+17:00 [El veterinario Carlos Gutiérrez lo aclara: el sexo del gato importa menos de lo que muchos piensan](https://www.elperiodico.com/es/vida-y-estilo/20260622/veterinario-carlos-gutierrez-aclara-sexo-gato-dv-131630901)<br>
+16:55 [Pedraz accede a eliminar del caso Leire documentos ajenos a la causa como pidió el PSOE](https://www.elperiodico.com/es/sociedad/20260622/pedraz-accede-eliminar-caso-leire-131690965)<br>
+16:55 [Barcelona incrementa en 21 hectáreas sus zonas verdes regadas con agua freática](https://www.elperiodico.com/es/barcelona/20260622/barcelona-incrementa-21-hectareas-red-agua-freatica-zonas-verdes-131678762)<br>
+16:51 [David Prat asume la dirección del metro de Barcelona](https://www.elperiodico.com/es/barcelona/20260622/david-prat-director-metro-tmb-131688138)<br>
+16:43 [La UE aprueba que las víctimas de la pederastia puedan denunciar, como mínimo, hasta los 50 años](https://www.elperiodico.com/es/sociedad/20260622/ue-aprueba-plazo-prescripcion-pederastia-abuso-131606659)<br>
+16:30 [Veolia prevé invertir 1.000 millones de euros en España hasta 2030](https://www.elperiodico.com/es/economia/20260622/veolia-acelera-apuesta-valorizacion-residuos-balance-semestre-2026-daniel-tugues-director-131684687)<br>
+16:02 [Estados Unidos y la alianza de inteligencia más poderosa del mundo advierten de la llegada de una IA capaz de derrocar gobiernos](https://www.elperiodico.com/es/internacional/20260622/estados-unidos-alianza-inteligencia-poderosa-advertencia-ia-derrocar-gobiernos-reino-unido-mythos-anthropic-openai-inteligencia-artificial-trump-131688925)<br>
+16:01 [El problema que arruina la jubilación de miles de españoles y que casi nadie ve venir](https://www.elperiodico.com/es/sociedad/20260622/problema-arruina-jubilacion-miles-espanoles-bc-131688893)<br>
 15:58 [Los vecinos afectados por el derrumbe de un edificio en Arenys de Mar podrán volver a sus casas a partir de este martes](https://www.elperiodico.com/es/sucesos/20260622/derrumbe-edificio-la-rectoria-arenys-de-mar-regreso-vecinos-casas-131687772)<br>
 15:58 [EL PERIÓDICO te invita a participar en su nuevo #afterwork con Sandra Bestraten, la nueva decana del Col·legi d'Arquitectes de Catalunya](https://www.elperiodico.com/es/ocio-y-cultura/20260622/periodico-invita-participar-nuevo-afterwork-131688388)<br>
 15:50 [La segunda vida de las urbanizaciones ‘fantasma’ de la burbuja](https://www.elperiodico.com/es/economia/20260622/urbanizaciones-fantasma-burbuja-131598353)<br>
