@@ -1,8 +1,11 @@
-# News for 2026-06-22 19:19
+# News for 2026-06-22 20:22
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+20:22 [Німеччина скеровує військовий контингент до кордону з Білоруссю](https://ua.korrespondent.net/world/4888449-nimechchyna-skerovuie-viiskovyi-kontynhent-do-kordonu-z-bilorussui)<br>
+19:58 [Китай удвічі збільшить імпорт підсанкційного російського газу - ЗМІ](https://ua.korrespondent.net/world/4888444-kytai-udvichi-zbilshyt-import-pidsanktsiinoho-rosiiskoho-hazu-zmi)<br>
+19:31 [РФ захопила три кілометри на Сумщині - DeepState](https://ua.korrespondent.net/ukraine/4888440-rf-zakhopyla-try-kilometry-na-sumschyni-DeepState)<br>
 19:10 [ЗСУ знищили 18 ворожих танків за одну спецоперацію](https://ua.korrespondent.net/ukraine/4888437-zsu-znyschyly-18-vorozhykh-tankiv-za-odnu-spetsoperatsiui)<br>
 18:47 [ЄС додатково профінансує Молдову на мільйони євро](https://ua.korrespondent.net/world/4888435-yes-dodatkovo-profinansuie-moldovu-na-miliony-yevro)<br>
 18:25 [Україна і Молдова вже окремо рухатимуться до ЄС - Фон дер Ляєн](https://ua.korrespondent.net/world/4888433-ukraina-i-moldova-vzhe-okremo-rukhatymutsia-do-yes-fon-der-liaien)<br>
@@ -75,6 +78,7 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
 
 ## as.com
+19:10 [Pocius se despide del Madrid: “Chacho, eres un gran líder”](https://as.com/baloncesto/acb/pocius-se-despide-del-madrid-chacho-eres-un-gran-lider-f202606-n/)<br>
 19:08 [Barcelona - Valencia, en directo: tercer partido de la final de la Liga Endesa en vivo](https://as.com/baloncesto/acb/barcelona-valencia-en-directo-tercer-partido-de-la-final-de-la-liga-endesa-en-vivo-f202606-n/)<br>
 15:59 [Jaka Lakovic dirigirá a La Laguna Tenerife](https://as.com/baloncesto/acb/jaka-lakovic-dirigira-a-la-laguna-tenerife-f202606-n/)<br>
 11:59 [Trey Lyles se despide: “Madrid ha sido genial, pero ha llegado la hora”](https://as.com/baloncesto/euroliga/trey-lyles-se-despide-madrid-ha-sido-genial-pero-ha-llegado-la-hora-f202606-n/)<br>
@@ -82,6 +86,12 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 07:18 [Una nueva final en el Palau](https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:15 [Los petardos de baja intensidad ganan terreno en la verbena de Sant Joan para personas con autismo y mascotas](https://www.elperiodico.com/es/videos/sociedad/petardos-baja-intensidad-ganan-terreno/131699719.shtml)<br>
+20:09 [Los petardos de baja intensidad ganan terreno en la verbena de Sant Joan para personas con autismo y mascotas](https://www.elperiodico.com/es/videos/sociedad/petardos-baja-intensidad-ganan-terreno/131699510.shtml)<br>
+20:06 [Margaret Atwood se pregunta si la IA desempeñará un papel similar a la "policía del pensamiento" de Orwell: "¿Será capaz de lograrlo? Averigüémoslo"](https://www.elperiodico.com/es/ocio-y-cultura/20260622/margaret-atwood-pregunta-ia-desempenara-131699277)<br>
+20:00 [¿Por qué los petardos explotan y las bengalas hacen luz? Así es la ciencia tras la pirotecnia de Sant Joan](https://www.elperiodico.com/es/sociedad/20260622/anatomia-petardos-sant-joan-bengalas-bombetas-fuentes-quimica-ciencia-131502694)<br>
+19:47 [Un informe sostiene que la reputación online de la Rambla de Barcelona sube a un 8,64 sobre 10](https://www.elperiodico.com/es/barcelona/20260622/reputacion-online-rambla-barcelona-sube-puntuacion-visitantes-131698623)<br>
+19:29 [El Gobierno vuelve a proponer que la factura de la luz incluya el gasto de tus vecinos](https://www.elperiodico.com/es/economia/20260622/gobierno-vuelve-proponer-factura-luz-incluya-gasto-vecinos-131698448)<br>
 19:08 [Los petardos de baja intensidad ganan terreno en la verbena de Sant Joan para personas con autismo y mascotas](https://www.elperiodico.com/es/sociedad/20260622/verbena-sant-joan-petardos-baja-intensidad-personas-con-autismo-hipersensibilidad-mascotas-perros-gatos-131686769)<br>
 18:50 [La ola de calor explota dejando hasta 45 grados en Jaén, 42 en Lleida, 40 en Gipuzkoa y los primeros récords absolutos del verano](https://www.elperiodico.com/es/sociedad/20260622/ola-calor-espana-lunes-maximas-temperatura-131693814)<br>
 18:49 [Una masa marina sin cerebro, nervios ni músculos detecta el tacto y huye en segundos](https://www.elperiodico.com/es/tendencias21/20260622/masa-marina-cerebro-nervios-musculos-131696632)<br>
