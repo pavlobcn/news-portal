@@ -1,8 +1,12 @@
-# News for 2026-06-22 11:35
+# News for 2026-06-22 12:37
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+12:33 [Секрет успішного працевлаштування з AI](https://ua.korrespondent.net/articles/4888337-sekret-uspishnoho-pratsevlashtuvannia-z-AI)<br>
+12:04 [ЗСУ уразили центр космічного зв'язку в Росії](https://ua.korrespondent.net/ukraine/4888341-zsu-urazyly-tsentr-kosmichnoho-zviazku-v-rosii)<br>
+12:00 [В Україні різко зросли ціни на землю](https://ua.korrespondent.net/business/economics/4888342-v-ukraini-rizko-zrosly-tsiny-na-zemlui)<br>
+11:46 [Гривня зміцніла на тлі рекордних інтервенцій НБУ](https://ua.korrespondent.net/business/financial/4888335-hryvnia-zmitsnila-na-tli-rekordnykh-interventsii-nbu)<br>
 11:26 [Кілька районів Києва залишилися без світла](https://ua.korrespondent.net/city/kiev/4888330-kilka-raioniv-kyieva-zalyshylysia-bez-svitla)<br>
 11:08 [Китай запровадив експортні обмеження щодо американських компаній](https://ua.korrespondent.net/world/4888327-kytai-zaprovadyv-eksportni-obmezhennia-schodo-amerykanskykh-kompanii)<br>
 11:03 [Прем'єр Британії оголосив про відставку](https://ua.korrespondent.net/world/4888324-premier-brytanii-oholosyv-pro-vidstavku)<br>
@@ -22,6 +26,7 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 07:54 [Генштаб оприлюднив дані щодо боїв на фронті](https://ua.korrespondent.net/ukraine/4888282-henshtab-opryluidnyv-dani-schodo-boiv-na-fronti)<br>
 07:32 [Удар по Запоріжжю - двоє загиблих, семеро поранених](https://ua.korrespondent.net/ukraine/4888280-udar-po-zaporizhzhui-dvoie-zahyblykh-semero-poranenykh)<br>
 07:12 [Дрон РФ поцілив по іноземномих суднах, є втрати](https://ua.korrespondent.net/ukraine/4888278-dron-rf-potsilyv-po-inozemnomykh-sudnakh-ye-vtraty)<br>
+07:12 [Дрон РФ поцілив по іноземних суднах, є втрати](https://ua.korrespondent.net/ukraine/4888278-dron-rf-potsilyv-po-inozemnykh-sudnakh-ye-vtraty)<br>
 06:50 [У Генштабі назвали нові втрати росіян](https://ua.korrespondent.net/ukraine/4888276-u-henshtabi-nazvaly-novi-vtraty-rosiian)<br>
 06:23 [У Катарі стався вибух на заводі з переробки СПГ: 54 поранених, 18 зниклих](https://ua.korrespondent.net/world/4888274-u-katari-stavsia-vybukh-na-zavodi-z-pererobky-sph-54-poranenykh-18-znyklykh)<br>
 05:37 [Трамп накинувся на NYT за сумніви стосовно "успіхів" війни з Іраном](https://ua.korrespondent.net/world/4888270-tramp-nakynuvsia-na-NYT-za-sumnivy-stosovno-uspikhiv-viiny-z-iranom)<br>
@@ -37,10 +42,25 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
 
 ## as.com
+11:59 [Trey Lyles se despide: “Madrid ha sido genial, pero ha llegado la hora”](https://as.com/baloncesto/euroliga/trey-lyles-se-despide-madrid-ha-sido-genial-pero-ha-llegado-la-hora-f202606-n/)<br>
 09:19 [El futuro de Mirotic puede estar en la Eurocup](https://as.com/baloncesto/euroliga/el-futuro-de-mirotic-puede-estar-en-la-eurocup-f202606-n/)<br>
 07:18 [Una nueva final en el Palau](https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:33 [Condenado a 25 años de prisión el exministro de Justicia por la ley marcial](https://www.elperiodico.com/es/internacional/20260622/condenado-25-anos-prision-exministro-131676118)<br>
+12:33 [El exconseller y diputado Joan Ignasi Elena rechaza ante el juez una favor político en una contratación investigada](https://www.elperiodico.com/es/politica/20260622/tsjc-exconseller-diputado-joan-ignasi-elena-altafulla-131677178)<br>
+12:23 [La inversión extranjera en España crece un 22,6% y alcanza los 6.567 millones en el primer trimestre](https://www.elperiodico.com/es/economia/20260622/inversion-extranjera-espana-crece-22-131675848)<br>
+12:22 [El CGPJ acuerda analizar si Peinado cometió falta grave en su auto sobre Begoña Gómez y la Policía](https://www.elperiodico.com/es/videos/politica/cgpj-acuerda-analizar-peinado-cometio-falta-grave-auto-begona-gomez-policia-video/131676747.shtml)<br>
+12:21 [Los Premios Agenda 2030 Barcelona + Sostenible reconocen las mejores iniciativas para la sostenibilidad](https://www.elperiodico.com/es/mas-barcelona/20260622/premios-agenda-2030-barcelona-sostenible-mejores-iniciativas-bc-131674778)<br>
+12:16 [Más de quinientos refugios climáticos para combatir el calor este verano](https://www.elperiodico.com/es/mas-barcelona/20260622/quinientos-refugios-climaticos-combatir-calor-verano-bc-131673691)<br>
+12:15 [El Supremo condena de forma unánime a Ábalos a 24 años de cárcel, a 19 años a Koldo y 4 años y medio a Aldama](https://www.elperiodico.com/es/politica/20260622/supremo-condena-forma-unanime-abalos-131676499)<br>
+12:15 [El calor asfixia a hospitales y centros de salud: sanitarios y pacientes compran ventiladores para combatir las altas temperaturas](https://www.elperiodico.com/es/sanidad/20260622/calor-asfixia-hospitales-centros-salud-sanitarios-pacientes-compran-ventiladores-altas-tempraturas-131674653)<br>
+11:58 [Starmer anuncia su dimisión como primer ministro del Reino Unido](https://www.elperiodico.com/es/videos/internacional/starmer-anuncia-dimision-primer-ministro-reino-unido-video/131675290.shtml)<br>
+11:56 [El 14,1% de los turistas visitó Barcelona por su oferta cultural y musical en 2025](https://www.elperiodico.com/es/ocio-y-cultura/20260622/turistas-visito-barcelona-musica-festivales-131513190)<br>
+11:54 [Catalunya activa avisos de nivel naranja por calor ante un lunes con máximas de entre 35 y 42 grados y mínimas por encima de los 25](https://www.elperiodico.com/es/sociedad/20260622/cataluna-avisos-calor-lunes-meteocat-prevision-131673078)<br>
+11:44 [¿Hasta cuándo va a durar la ola de calor en Catalunya? Ya hay fecha, según Meteocat](https://www.elperiodico.com/es/tiempo/20260622/ola-calor-cataluna-meteocat-noche-dv-loc-131670276)<br>
+11:42 [La jueza de Martorell cita a la mujer de Isak Andic para conocer las malas relaciones entre padre e hijo](https://www.elperiodico.com/es/sociedad/20260622/jueza-martorell-cita-mujer-isak-andic-mango-crimen-collbato-131674426)<br>
+11:40 [Endesa refuerza la red eléctrica de Barcelona con una inversión récord de 62 millones](https://www.elperiodico.com/es/barcelona/20260622/endesa-refuerza-red-electrica-barcelona-62-millones-electrificacion-131671761)<br>
 11:33 [Adiós a la 'influencer' Carly Douglas de manera fulminante: "Estamos devastados"](https://www.elperiodico.com/es/gente/20260622/carly-douglas-cancer-muerte-influencer-fitness-dv-131670378)<br>
 11:27 [FiiO lanza el Warmer R2R y el Level 1, dos apuestas HiFi con sonido cálido y potencia compacta](https://www.elperiodico.com/es/tecnologia/20260622/fiio-lanza-warmer-r2r-level-131672905)<br>
 11:27 [Espironolactona, un medicamento diurético muy común, también puede combatir la fibrosis del corazón](https://www.elperiodico.com/es/sanidad/20260622/espironolactona-medicamento-diuretico-comun-combatir-fibrosis-corazon-131672791)<br>
@@ -51,6 +71,7 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 11:04 [No se inquiete, señor Baena, no iba por usted](https://www.elperiodico.com/es/deportes/20260622/inquiete-senor-baena-iba-131672713)<br>
 11:03 [La ola de calor pone en aviso a 15 comunidades autónomas y obliga a activar un nivel rojo en el País Vasco ante máximas por encima de los 40 grados](https://www.elperiodico.com/es/sociedad/20260622/ola-calor-aviso-comunidades-autonomas-prevision-aemet-131671174)<br>
 10:53 [El PP catalán denuncia la existencia de "un 'procés' español": "Hay ministros atacando a jueces, policias y la corona"](https://www.elperiodico.com/es/politica/20260622/pp-catalan-alejandro-fernandez-cayetana-alvarez-toledo-proceso-espanol-131669346)<br>
+10:44 [Las hipotecas sobre vivienda alcanzan máximos de 16 años en abril y encadenan 22 meses al alza](https://www.elperiodico.com/es/economia/20260622/hipotecas-viviendas-marcan-record-16-131671986)<br>
 10:38 [El CGPJ acuerda que se investigue al juez Peinado, gracias al voto de calidad de su presidenta](https://www.elperiodico.com/es/politica/20260622/consejo-general-del-poder-judicial-juan-carlos-peinado-begona-gomez-131671753)<br>
 10:35 [Keir Starmer dimite como primer ministro del Reino Unido](https://www.elperiodico.com/es/internacional/20260622/starmer-dimite-primer-ministro-reino-unido-131671583)<br>
 10:34 [DIRECTO | Pedro Sánchez clausura el acto 'España verde y digital. El impacto del Plan de Recuperación'](https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-clausura-acto-espana-verde-digital/131671546.shtml)<br>
