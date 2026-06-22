@@ -9,6 +9,7 @@ const scripts = [
   '40-split-news-by-day.js',
   '50-generate-news-markdown.js',
   '60-promote-today-news-json.js',
+  '65-delete-old-data-files.js',
   '70-push-json-md-to-main.js',
 ];
 
