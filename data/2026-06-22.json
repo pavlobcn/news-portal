@@ -1,5 +1,203 @@
 [
   {
+    "title": "¿Adiós al promotor inmobiliario tradicional? La IA ya recomienda qué construir, cuánto cobrar y a quién vender",
+    "link": "https://www.elperiodico.com/es/economia/20260622/adios-promotor-inmobiliario-tradicional-ia-recomienda-que-construir-dv-131600026",
+    "pubDate": "2026-06-22 08:00:05",
+    "category": "",
+    "description": "<h2>La startup española eVoost AI, impulsada desde Abu Dabi y recién incorporada al ecosistema de Nvidia, lanza una plataforma capaz de analizar la demanda, recomendar qué viviendas levantar y optimizar su venta</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260619/compraventa-viviendas-baja-1-8-131584954\" target=\"_blank\">La venta de viviendas cae en abril y encadena cuatro meses de descensos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dorothee Van Gemert, directora de producto de Nationale-Nederlanden: \"El cliente espera gestionar su salud de forma ágil y sencilla con la tecnología\"",
+    "link": "https://www.elperiodico.com/es/economia/20260622/dorothee-gemert-directora-producto-nationale-nederlanden-cliente-activos-bc-131668393",
+    "pubDate": "2026-06-22 08:00:05",
+    "category": "",
+    "description": "<h2>Hablamos con Dorothee Van Gemert, directora de Producto de Nationale-Nederlanden, sobre el segmento de salud de la compañía y los principales retos a los que se enfrenta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlos Lozano: \"Me había ido al campo con mis animales y no me esperaba presentar otro programa\"",
+    "link": "https://www.elperiodico.com/es/tele/20260622/carlos-lozano-telecinco-programa-amor-surja-131584892",
+    "pubDate": "2026-06-22 08:00:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El presentador se pone este lunes al frente del 'dating show' 'Amor... ¡O lo que surja', que recoge el espíritu de 'Mujeres y hombres y viceversa'</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Timekettle presenta un intérprete portátil para reuniones multilingües con hasta 60 participantes",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260622/timekettle-presenta-interprete-portatil-precio-131277266",
+    "pubDate": "2026-06-22 08:00:04",
+    "category": "",
+    "description": "<h2>El X1 Meeting Interpreter Hub combina traducción simultánea, transcripción y conexión sin app en un único dispositivo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Upro supera los 3 millones de horas de formación en competencias digitales",
+    "link": "https://www.elperiodico.com/es/economia/20260622/upro-supera-3-millones-horas-bc-131668372",
+    "pubDate": "2026-06-22 08:00:04",
+    "category": "",
+    "description": "<h2>Upro prepara al tejido profesional español para estar a la vanguardia de la IA con más de 3 millones de horas de formación en competencias digitales, beneficiando a 19 profesiones. La colaboración públicoprivada y la capilaridad de los colegios profesionales ha sido fundamental para el desarrollo del programa.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La carretera más aislada del mundo: 500 kilómetros sin una sola gasolinera ni cobertura móvil",
+    "link": "https://www.elperiodico.com/es/motor/20260622/carretera-aislada-mundo-500-kilometros-131506628",
+    "pubDate": "2026-06-22 08:00:03",
+    "category": "",
+    "description": "<h2>Ubicada en el corazón del Outback australiano, esta ruta obliga a los conductores a viajar con combustible suficiente, comida, agua y hasta ruedas de repuesto para evitar quedarse atrapados en mitad de la nada</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Carrera contrarreloj para capturar el último rinoceronte de Borneo y evitar su extinción",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260622/carrera-contrarreloj-capturar-ultimo-rinoceronte-131668328",
+    "pubDate": "2026-06-22 07:55:49",
+    "category": "",
+    "description": "<h2>El gobierno de Indonesia quiere localizarlo para preservar la especie mediante fertilización in vitro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Australia se incauta de 2,7 toneladas de cocaína, el mayor alijo de su historia",
+    "link": "https://www.elperiodico.com/es/internacional/20260622/australia-incauta-2-7-toneladas-131668270",
+    "pubDate": "2026-06-22 07:54:49",
+    "category": "",
+    "description": "<h2>La Policía Federal de Australia ha incautado 2,7 toneladas de cocaína en Sídney, valoradas en unos 500 millones de euros, en un operativo que ha llevado a la detención de dos jóvenes</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Генштаб оприлюднив дані щодо боїв на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4888282-henshtab-opryluidnyv-dani-schodo-boiv-na-fronti",
+    "pubDate": "2026-06-22 07:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468424.jpg\">Авіація, ракетні війська й артилерія уразили чотири пункти управління, п’ять районів зосередження живої сили росіян, шість гармат, два пункти управління БПЛА та ще дві важливі цілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Debate Sanamente | Trastornos mentales: ¿Los diagnosticamos bien?",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/debate-sanamente-trastornos-mentales-diagnosticamos-bien-video/131456643.shtml",
+    "pubDate": "2026-06-22 07:50:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salah recuerda por qué le llaman el Faraón y Egipto vence a Nueva Zelanda",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/salah-recuerda-le-llaman-faraon-131668099",
+    "pubDate": "2026-06-22 07:49:53",
+    "category": "",
+    "description": "<h2>El '10' lideró junto a Ziko la remontada de Egipto ante Nueva Zelanda para sumar su primera victoria en la Copa del Mundo y poner pie y medio en los dieciseisavos de final (1-3)</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нічия Уругваю та історичний успіх Єгипту: підсумки дня на ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4888284-nichyia-uruhvaui-ta-istorychnyi-uspikh-yehyptu-pidsumky-dnia-na-chs",
+    "pubDate": "2026-06-22 07:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468423.jpg\">Збірна Уругваю не змогла підтвердити статусу фаворита і втратила очки в напруженому поєдинку проти Кабо-Верде.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muslera salió en todas las fotos y Uruguay y Cabo Verde dejan en bandeja el liderato del grupo a España (2-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/muslera-salio-fotos-uruguay-cabo-131668060",
+    "pubDate": "2026-06-22 07:42:52",
+    "category": "",
+    "description": "<h2>Maximiliano Araújo guio la remontada de Uruguay antes del descanso con un gol y una asistencia, pero la selección charrúa no supo mantener su ventaja en la segunda mitad</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "«Queremos llevar el Circuit hacia un espacio cada vez más abierto, diverso y conectado»",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/queremos-llevar-circuit-espacio-vez-bc-131668041",
+    "pubDate": "2026-06-22 07:32:44",
+    "category": "",
+    "description": "<h2>El director general de Fira Circuit, sociedad gestora del Circuit de Barcelona-Catalunya, explica cómo nació el festival que busca convertir la instalación en una referencia más allá del motor</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Удар по Запоріжжю - двоє загиблих, семеро поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4888280-udar-po-zaporizhzhui-dvoie-zahyblykh-semero-poranenykh",
+    "pubDate": "2026-06-22 07:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468411.png\">Внаслідок ворожого обстрілу загинули дві жінки, віком 39 та 53 роки. Ще 7 осіб травмовано, серед яких 11-річний хлопчик.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Seguridad Social puede denegar una incapacidad permanente aunque exista una enfermedad: el requisito que muchos desconocen",
+    "link": "https://www.elperiodico.com/es/economia/20260622/seguridad-social-denegar-incapacidad-permanente-enfermedad-requisito-dv-131647521",
+    "pubDate": "2026-06-22 07:30:03",
+    "category": "",
+    "description": "<h2>El abogado laboralista Ignacio de la Calzada advierte de que no basta con acreditar lesiones o limitaciones: también hay que cumplir otra obligación</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260621/cotizado-20-anos-seguridad-social-edad-jubilacion-sueldo-dv-131594170\">He cotizado 20 años a la Seguridad Social: a qué edad me puedo jubilar y cuánto cobraré</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Moeve Fútbol Zone despide la temporada con especial mercado de fichajes y balance de la campaña",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/moeve-futbol-zone-despide-temporada-bc-131667892",
+    "pubDate": "2026-06-22 07:21:08",
+    "category": "",
+    "description": "<h2>El último programa de la temporada de <strong>Moeve Fútbol Zone</strong>, que se emitirá este lunes a las 21:00 horas, pondrá el foco en uno de los temas que más expectación despiertan entre los aficionados: el mercado de fichajes. El espacio dirigido por Christian Blasco cerrará el curso con una edición en la que también habrá tiempo para analizar el desenlace del playoff de ascenso de LaLiga Hypermotion, repasar la actualidad del Valencia y acercarse a la última fase de LaLiga Genuine Moeve.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Una nueva final en el Palau",
+    "link": "https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/",
+    "pubDate": "2026-06-22 07:18:42",
+    "category": "FC Barcelona baloncesto",
+    "description": "El pabellón azulgrana acogerá un duelo por el título tres años después. Los tres últimos campeones de la Liga Endesa levantaron el trofeo a domicilio.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kia redefine el segmento de los vehículos comerciales con el nuevo eléctrico PV5, que destaca por su concepción flexible, versatilidad y conectividad inteligente",
+    "link": "https://www.elperiodico.com/es/sociedad/20260622/kia-redefine-segmento-vehiculos-comerciales-bc-131667634",
+    "pubDate": "2026-06-22 07:12:09",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Дрон РФ поцілив по іноземномих суднах, є втрати",
+    "link": "https://ua.korrespondent.net/ukraine/4888278-dron-rf-potsilyv-po-inozemnomykh-sudnakh-ye-vtraty",
+    "pubDate": "2026-06-22 07:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468395.jpg\">Внаслідок удару дрона РФ на суховантажному судні Туреччини VICTRESS виникла масштабна пожежа. На борту перебували дев’ять членів екіпажу - громадяни Єгипту, Туреччини та Індії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Aprilia creía que iba a ganar el título sin enfrentarse a Márquez”",
+    "link": "https://www.elperiodico.com/es/deportes/motogp/20260622/aprilia-creia-iba-ganar-titulo-131667356",
+    "pubDate": "2026-06-22 07:01:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Pues sí, el 'comecocos' ya está aquí. Ya ha llegado donde quería, cerca de los líderes. Falta más de medio Mundial, faltan por repartirse aún 481 puntos y Marc Márquez (Ducati) se encuentra ya a solo 40 puntos del líder, el italiano Marco Bezzecchi, que, ahora sí, ya sabe que puede perder el mando en cualquier momento.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La DGT avisa: este error con la baliza V16 puede costarte una multa de hasta 80 euros",
+    "link": "https://www.elperiodico.com/es/motor/20260622/dgt-avisa-error-baliza-v16-131277995",
+    "pubDate": "2026-06-22 07:00:28",
+    "category": "",
+    "description": "<h2>No basta con llevar el dispositivo en el coche. Debe estar homologado, conectado y listo para funcionar en caso de avería o accidente</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 88
+  },
+  {
     "title": "У Генштабі назвали нові втрати росіян",
     "link": "https://ua.korrespondent.net/ukraine/4888276-u-henshtabi-nazvaly-novi-vtraty-rosiian",
     "pubDate": "2026-06-22 06:50:00",
@@ -146,6 +344,15 @@
   {
     "title": "El Consejo de Seguridad Nuclear entra en la recta final para dar un ‘ok’ fácil a la prórroga de la central de Almaraz",
     "link": "https://www.elperiodico.com/es/economia/20260622/consejo-seguridad-nuclear-entra-recta-131601574",
+    "pubDate": "2026-06-22 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Los técnicos informarán esta semana a la cúpula del regulador de las conclusiones de su estudio sobre las condiciones para retrasar el cierre de la planta hasta 2030. Las eléctricas no esperan grandes exigencias de inversión</h2><h2 class=\"item\">El pleno del CSN estudiará el documento por primera vez el 1 de julio, pero previsiblemente su aprobación se aplazará al menos una semana más</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Consejo de Seguridad Nuclear entra en la recta final para dar un ‘ok’ fácil a la prórroga de la central de Almaraz",
+    "link": "https://www.elperiodico.com/es/economia/20260622/centrales-nucleares-almaraz-consejo-seguridad-nuclear-informe-131601574",
     "pubDate": "2026-06-22 06:01:09",
     "category": "",
     "description": "<h2 class=\"item\">Los técnicos informarán esta semana a la cúpula del regulador de las conclusiones de su estudio sobre las condiciones para retrasar el cierre de la planta hasta 2030. Las eléctricas no esperan grandes exigencias de inversión</h2><h2 class=\"item\">El pleno del CSN estudiará el documento por primera vez el 1 de julio, pero previsiblemente su aprobación se aplazará al menos una semana más</h2>",
