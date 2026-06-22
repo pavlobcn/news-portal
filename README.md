@@ -1,8 +1,11 @@
-# News for 2026-06-22 18:15
+# News for 2026-06-22 19:19
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+19:10 [ЗСУ знищили 18 ворожих танків за одну спецоперацію](https://ua.korrespondent.net/ukraine/4888437-zsu-znyschyly-18-vorozhykh-tankiv-za-odnu-spetsoperatsiui)<br>
+18:47 [ЄС додатково профінансує Молдову на мільйони євро](https://ua.korrespondent.net/world/4888435-yes-dodatkovo-profinansuie-moldovu-na-miliony-yevro)<br>
+18:25 [Україна і Молдова вже окремо рухатимуться до ЄС - Фон дер Ляєн](https://ua.korrespondent.net/world/4888433-ukraina-i-moldova-vzhe-okremo-rukhatymutsia-do-yes-fon-der-liaien)<br>
 17:59 [Нацбанк визначив курси валют на вівторок](https://ua.korrespondent.net/business/financial/4888429-natsbank-vyznachyv-kursy-valuit-na-vivtorok)<br>
 17:55 [Білоруська опозиція попередила Київ про підготовку Лукашенка до війни](https://ua.korrespondent.net/world/4888427-biloruska-opozytsiia-poperedyla-kyiv-pro-pidhotovku-lukashenka-do-viiny)<br>
 17:39 [США дозволили продаж іранської нафти](https://ua.korrespondent.net/world/4888425-ssha-dozvolyly-prodazh-iranskoi-nafty)<br>
@@ -72,12 +75,18 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
 
 ## as.com
+19:08 [Barcelona - Valencia, en directo: tercer partido de la final de la Liga Endesa en vivo](https://as.com/baloncesto/acb/barcelona-valencia-en-directo-tercer-partido-de-la-final-de-la-liga-endesa-en-vivo-f202606-n/)<br>
 15:59 [Jaka Lakovic dirigirá a La Laguna Tenerife](https://as.com/baloncesto/acb/jaka-lakovic-dirigira-a-la-laguna-tenerife-f202606-n/)<br>
 11:59 [Trey Lyles se despide: “Madrid ha sido genial, pero ha llegado la hora”](https://as.com/baloncesto/euroliga/trey-lyles-se-despide-madrid-ha-sido-genial-pero-ha-llegado-la-hora-f202606-n/)<br>
 09:19 [El futuro de Mirotic puede estar en la Eurocup](https://as.com/baloncesto/euroliga/el-futuro-de-mirotic-puede-estar-en-la-eurocup-f202606-n/)<br>
 07:18 [Una nueva final en el Palau](https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:08 [Los petardos de baja intensidad ganan terreno en la verbena de Sant Joan para personas con autismo y mascotas](https://www.elperiodico.com/es/sociedad/20260622/verbena-sant-joan-petardos-baja-intensidad-personas-con-autismo-hipersensibilidad-mascotas-perros-gatos-131686769)<br>
+18:50 [La ola de calor explota dejando hasta 45 grados en Jaén, 42 en Lleida, 40 en Gipuzkoa y los primeros récords absolutos del verano](https://www.elperiodico.com/es/sociedad/20260622/ola-calor-espana-lunes-maximas-temperatura-131693814)<br>
+18:49 [Una masa marina sin cerebro, nervios ni músculos detecta el tacto y huye en segundos](https://www.elperiodico.com/es/tendencias21/20260622/masa-marina-cerebro-nervios-musculos-131696632)<br>
+18:48 [El temido gobierno de los justos](https://www.elperiodico.com/es/opinion/20260622/temido-gobierno-justos-sentencia-abalos-131696298)<br>
+18:30 [El juez mantiene en prisión al padre del bebé maltrado en Barcelona](https://www.elperiodico.com/es/sociedad/20260622/juez-prision-padre-bebe-maltratado-vall-dhebron-barcelona-131693847)<br>
 18:15 [Encuesta: Los madrileños apoyan limitar las licencias de pisos turísticos y los precios del alquiler para paliar la crisis de la vivienda](https://www.elperiodico.com/es/economia/20260622/encuesta-vivienda-madrid-alquiler-precios-pisos-turisticos-131692392)<br>
 18:02 [Andy Burnham obtiene el apoyo del laborismo para suceder a Starmer como primer ministro del Reino Unido](https://www.elperiodico.com/es/internacional/20260622/andy-burnham-primer-ministro-reino-unido-131694558)<br>
 17:56 [La vivienda exige activar todas las palancas: más oferta y reglas estables](https://www.elperiodico.com/es/economia/20260622/vivienda-exige-activar-palancas-oferta-131694246)<br>
