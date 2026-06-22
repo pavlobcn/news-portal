@@ -2196,6 +2196,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Villa Retiro: cocinando el alma del Delta del Ebro",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/villa-retiro-fran-lopez-mejores-restaurantes-cataluna-131008629",
+    "pubDate": "2026-06-21 06:00:10",
+    "category": "",
+    "description": "<h2>Fran López practica una cocina técnica, sensible y profundamente arraigada en el Delta, els Ports y las Terres de l’Ebre</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Empresarios valencianos alertan sobre la IA: \"Va demasiado deprisa y deberíamos pararla\"",
     "link": "https://www.elperiodico.com/es/economia/20260621/empresarios-valencianos-alertan-ia-deprisa-131642180",
     "pubDate": "2026-06-21 06:00:05",
@@ -2331,6 +2340,42 @@
     "topic_match_probability": 0
   },
   {
+    "title": "La Boscana: un restaurante entre frutales que redefine la cocina catalana contemporánea",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/boscana-restaurante-joel-castanye-mejores-restaurantes-cataluna-130867957",
+    "pubDate": "2026-06-21 03:00:51",
+    "category": "",
+    "description": "<h2>Joel Castanyé practica una cocina refinada y singular, donde la fruta de Lleida se convierte en producto central del mundo salado</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hispania: producto, memoria y elegancia en el gran clásico del Maresme",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/hispania-mejores-restaurantes-cataluna-130848464",
+    "pubDate": "2026-06-21 03:00:50",
+    "category": "",
+    "description": "<h2>Raimon Braun Reixac y Marta Aulestia mantienen intacto el espíritu y la calidad del Hispania</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "L’Algadir del Delta: sensibilidad deltaica y cocina refinada",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/algadir-delta-mejores-restaurantes-cataluna-130849490",
+    "pubDate": "2026-06-21 03:00:50",
+    "category": "",
+    "description": "<h2>Joan Capilla cocina platos contemporáneos, guisos, sopas, suquets y arroces donde la técnica acompaña sin ocultar el producto</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "L’Antic Molí: alta cocina de mar, huerta propia y compromiso",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/antic-moli-vicent-guimera-mejores-restaurantes-cataluna-130867343",
+    "pubDate": "2026-06-21 03:00:50",
+    "category": "",
+    "description": "<h2>Vicent Guimerà articula una alta cocina de autor donde artesanía, sostenibilidad y naturaleza no funcionan como lema, sino como sistema diario de trabajo</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Венс назвав головні питання у переговорах з Іраном",
     "link": "https://ua.korrespondent.net/world/4888097-vens-nazvav-holovni-pytannia-u-perehovorakh-z-iranom",
     "pubDate": "2026-06-21 02:53:00",
@@ -2363,6 +2408,15 @@
     "pubDate": "2026-06-21 02:00:49",
     "category": "",
     "description": "<h2>Joan Font reivindica un clasicismo sin nostalgia, basado en fondos, guisos, salsas, producto noble y una precisión técnica siempre vigente</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gastro Garatxe: alta cocina que viste peto vaquero",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/gastro-garatxe-mejores-restaurantes-cataluna-130847113",
+    "pubDate": "2026-06-21 02:00:49",
+    "category": "",
+    "description": "<h2>Eric Ochoa y Carlos Novo reivindican y cocinan el Baix Llobregat con el producto del Parc Agrari como punto de partida</h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 100
   },
