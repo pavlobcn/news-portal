@@ -1,8 +1,10 @@
-# News for 2026-06-22 05:43
+# News for 2026-06-22 06:59
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+06:50 [У Генштабі назвали нові втрати росіян](https://ua.korrespondent.net/ukraine/4888276-u-henshtabi-nazvaly-novi-vtraty-rosiian)<br>
+06:23 [У Катарі стався вибух на заводі з переробки СПГ: 54 поранених, 18 зниклих](https://ua.korrespondent.net/world/4888274-u-katari-stavsia-vybukh-na-zavodi-z-pererobky-sph-54-poranenykh-18-znyklykh)<br>
 05:37 [Трамп накинувся на NYT за сумніви стосовно "успіхів" війни з Іраном](https://ua.korrespondent.net/world/4888270-tramp-nakynuvsia-na-NYT-za-sumnivy-stosovno-uspikhiv-viiny-z-iranom)<br>
 05:37 [Трамп накинувся на NYT за сумніви стосовно "успіху" війни з Іраном](https://ua.korrespondent.net/world/4888270-tramp-nakynuvsia-na-NYT-za-sumnivy-stosovno-uspikhu-viiny-z-iranom)<br>
 04:59 [Війна з Іраном обійшлася Пентагону в 40 млрд доларів - CNN](https://ua.korrespondent.net/world/4888268-viina-z-iranom-obiishlasia-pentahonu-v-40-mlrd-dolariv-CNN)<br>
@@ -16,5 +18,19 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
 
 ## www.elperiodico.com
+06:45 [Incendios forestales en Catalunya y España, en directo: última hora de los fuegos activos hoy](https://www.elperiodico.com/es/sociedad/20260622/incendios-forestales-catalunya-espana-directo-131393069)<br>
+06:39 [Guerra de Irán | Irán interrumpe las negociaciones con Estados Unidos en Suiza tras las amenazas de Trump](https://www.elperiodico.com/es/internacional/20260622/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+06:37 [Guerra Ucrania - Rusia, en directo, última hora | El Kremlin responde a Ucrania que pronto su situación en el frente será catastrófica](https://www.elperiodico.com/es/internacional/20260622/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+06:01 [Vecinos de La Mina reocupan dos pisos tras el inicio del macrodesahucio: “Hay que dar una solución; si no, iremos a una guerra”](https://www.elperiodico.com/es/barcelona/20260622/vecinos-mina-reocupan-pisos-inicio-131662328)<br>
+06:01 [Los adioses y los marrones](https://www.elperiodico.com/es/tele/20260622/adioses-marrones-sergi-mas-131663068)<br>
+06:01 [Ni condena ni persecución](https://www.elperiodico.com/es/opinion/20260622/condena-persecucion-begona-gomez-editorial-131656381)<br>
+06:01 [Los recursos pendientes sobre el jurado, la piedra en el camino de Peinado para procesar a Begoña Gómez antes de jubilarse](https://www.elperiodico.com/es/politica/20260622/recursos-pendientes-jurado-piedra-camino-131656603)<br>
+06:01 [Moncloa, un limbo que necesita reglas](https://www.elperiodico.com/es/opinion/20260622/moncloa-limbo-necesita-reglas-131655568)<br>
+06:01 [Entre el Líbano y Ormuz](https://www.elperiodico.com/es/opinion/20260622/libano-ormuz-131651183)<br>
+06:01 [Jordi Ribas, presidente de IA de Microsoft: "Se entiende que en Europa exista un deseo de soberanía tecnológica"](https://www.elperiodico.com/es/tecnologia/20260622/jordi-ribas-presidente-microsoft-inteligencia-artificial-internet-bing-ia-openai-chatgpt-anthropic-131420364)<br>
+06:01 [Jordi Ribas, el catalán que lidera la IA de Microsoft: "En el futuro habrá buscadores para humanos y buscadores para agentes"](https://www.elperiodico.com/es/tecnologia/20260622/jordi-ribas-presidente-ia-microsoft-bing-chatgpt-internet-busquedas-agentes-openai-131614345)<br>
+06:01 [Fabián Picardo, ministro principal de Gibraltar: "Se ha disparado el número de solicitudes para residir en Gibraltar"](https://www.elperiodico.com/es/internacional/20260622/fabian-picardo-ministro-principal-gibraltar-131667094)<br>
+06:01 [El Consejo de Seguridad Nuclear entra en la recta final para dar un ‘ok’ fácil a la prórroga de la central de Almaraz](https://www.elperiodico.com/es/economia/20260622/consejo-seguridad-nuclear-entra-recta-131601574)<br>
+06:01 [¿Se diagnostican bien los trastornos mentales?](https://www.elperiodico.com/es/ser-feliz/20260622/diagnostican-trastornos-mentales-131424237)<br>
 04:50 [Política contra cultura: Meirás](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260622/politica-cultura-meiras-131414271)<br>
 04:50 ['En palabras sencillas', de Richard Ford: literatura y política](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260622/richard-ford-critica-libro-palabras-sencillas-131151293)<br>
