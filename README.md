@@ -1,8 +1,9 @@
-# News for 2026-06-22 22:28
+# News for 2026-06-22 22:59
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+22:52 [Через Ормузьку протоку пройшла рекордна кількість нафти - ЗМІ](https://ua.korrespondent.net/world/4888472-cherez-ormuzku-protoku-proishla-rekordna-kilkist-nafty-zmi)<br>
 22:24 [Навроцький не приїде на конференцію з відновлення України: названа причина](https://ua.korrespondent.net/world/4888469-navrotskyi-ne-pryide-na-konferentsiui-z-vidnovlennia-ukrainy-nazvana-prychyna)<br>
 21:56 [Росія вдарила авіабомбами по Сумах: є постраждалі](https://ua.korrespondent.net/ukraine/4888467-rosiia-vdaryla-aviabombamy-po-sumakh-ye-postrazhdali)<br>
 21:41 ["Особистий ворог Путіна" Нехорошев помер від "отруєння грибами" у Ризі](https://ua.korrespondent.net/world/4888465-osobystyi-voroh-putina-nekhoroshev-pomer-vid-otruiennia-hrybamy-u-ryzi)<br>
@@ -84,6 +85,8 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 00:27 ["Слава Україні": акаунт мера Москви зламали](https://ua.korrespondent.net/world/russia/4888250-slava-ukraini-akaunt-mera-moskvy-zlamaly)<br>
 
 ## as.com
+22:54 [“Montero es uno de los mejores jugadores que he entrenado”](https://as.com/baloncesto/acb/pedro-martinez-hemos-ganado-por-el-caracter-y-el-talento-de-los-jugadores-f202606-n/)<br>
+22:39 [Montero es extraterrestre](https://as.com/baloncesto/acb/montero-es-extraterrestre-f202606-n/)<br>
 22:10 [Resumen del Barça vs Valencia Basket, final de la Liga Endesa](https://as.com/videos/acb/resumen-del-barca-vs-valencia-basket-final-de-la-liga-endesa-f202606-v/)<br>
 21:49 [Así va la final de la Liga Endesa: horarios, partidos y resultados](https://as.com/baloncesto/acb/asi-va-la-final-de-la-liga-endesa-horarios-partidos-y-resultados-f202606-n/)<br>
 20:20 [Nuevo capítulo por el control del Estudiantes](https://as.com/baloncesto/mas_baloncesto/nuevo-capitulo-por-el-control-del-estudiantes-f202606-n/)<br>
@@ -95,6 +98,9 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 07:18 [Una nueva final en el Palau](https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:41 ['True crime', entre el rigor periodístico y el conflicto ético: "La narración está hoy basculando mucho hacia la figura del asesino", advierte un experto](https://www.elperiodico.com/es/ocio-y-cultura/20260622/true-crime-rigor-periodistico-conflicto-etico-131702431)<br>
+22:36 [El Park Güell y la Escolania de Montserrat unen música, patrimonio e identidad catalana en un concierto abierto al público](https://www.elperiodico.com/es/barcelona/20260622/park-guell-escolania-montserrat-unen-musica-identidad-catalana-concierto-abierto-131702425)<br>
+22:33 [España, entre los "puntos rojos" del planeta donde más aumenta el estrés térmico que pone el cuerpo al límite](https://www.elperiodico.com/es/videos/sociedad/espana-puntos-rojos-planeta-aumenta/131702505.shtml)<br>
 22:09 [Calvo: “Las mujeres sostienen como mínimo el 50% de las monarquías europeas. Letizia ha aportado la lectura de una España de la que ella formaba parte”](https://www.elperiodico.com/es/politica/20260622/calvo-mujeres-monarquias-europeas-letizia-aportado-lectura-espana-131702291)<br>
 22:01 [Muere Ignacio Gordillo, exfiscal de la Audiencia Nacional, a los 75 años](https://www.elperiodico.com/es/sociedad/20260622/muere-ignacio-gordillo-75-anos-exfiscal-audiencia-nacional-131702150)<br>
 22:01 [El Valencia asalta el Palau con un Montero descomunal y deja al Barça contra las cuerdas](https://www.elperiodico.com/es/deportes/20260622/valencia-asalta-palau-montero-descomunal-131701494)<br>

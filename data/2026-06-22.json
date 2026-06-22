@@ -1,5 +1,86 @@
 [
   {
+    "title": "El Mallorca apuesta por Luis García tras la espantada de Demichelis",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/mallorca-apuesta-luis-garcia-espantada-131702759",
+    "pubDate": "2026-06-22 22:58:33",
+    "category": "",
+    "description": "<h2 class=\"item\">El exjugador y exentrenador del Espanyol procede del Las Palmas, al que llevó al play-off de ascenso este curso.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Молодіжна збірна України залишилася без головного тренера",
+    "link": "https://ua.korrespondent.net/sport/football/4888471-molodizhna-zbirna-ukrainy-zalyshylasia-bez-holovnoho-trenera",
+    "pubDate": "2026-06-22 22:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468856.jpg\">Українська асоціація футболу офіційно припинила співпрацю з Унає Мельгосою, не продовживши угоду з іспанським фахівцем.",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "“Montero es uno de los mejores jugadores que he entrenado”",
+    "link": "https://as.com/baloncesto/acb/pedro-martinez-hemos-ganado-por-el-caracter-y-el-talento-de-los-jugadores-f202606-n/",
+    "pubDate": "2026-06-22 22:54:43",
+    "category": "Baloncesto",
+    "description": "Pedro Martínez, técnico del Valencia, repasó la victoria en el tercer partido de la final. A pesar de remontar 18 puntos, el Barça se quedó corto.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Quique Álvarez, nuevo entrenador del Girona tras pasar por el filial",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/quique-alvarez-nuevo-entrenador-girona-131702714",
+    "pubDate": "2026-06-22 22:53:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico estará acompañado por su hermano Òscar Álvarez como segundo entrenador y Jordi Balcells como preparador físico.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Через Ормузьку протоку пройшла рекордна кількість нафти - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4888472-cherez-ormuzku-protoku-proishla-rekordna-kilkist-nafty-zmi",
+    "pubDate": "2026-06-22 22:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468857.jpg\">З п'ятниці танкери перевезли близько 20 мільйонів барелів сирої нафти, що є найвищим зафіксованим обсягом від початку війни. Ціни на нафту зараз майже на 40% нижчі за квітневий пік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'True crime', entre el rigor periodístico y el conflicto ético: \"La narración está hoy basculando mucho hacia la figura del asesino\", advierte un experto",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260622/true-crime-rigor-periodistico-conflicto-etico-131702431",
+    "pubDate": "2026-06-22 22:41:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Alfonso Méndiz, Albert Sáez, Santiago Tarín y Marta Sánchez Esparza debaten sobre los riesgos a los que se enfrenta el exitoso formato centrado en la reconstrucción de crímenes reales </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montero es extraterrestre",
+    "link": "https://as.com/baloncesto/acb/montero-es-extraterrestre-f202606-n/",
+    "pubDate": "2026-06-22 22:39:36",
+    "category": "Baloncesto",
+    "description": "El Valencia pone el 2-1 tras vencer en el Palau un duelo que fue ganando por 18 puntos, se dejó empatar y volvió a agarrar en los últimos minutos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Park Güell y la Escolania de Montserrat unen música, patrimonio e identidad catalana en un concierto abierto al público",
+    "link": "https://www.elperiodico.com/es/barcelona/20260622/park-guell-escolania-montserrat-unen-musica-identidad-catalana-concierto-abierto-131702425",
+    "pubDate": "2026-06-22 22:36:38",
+    "category": "",
+    "description": "<h2>El concierto ha tenido lugar en la plaza de la Natura y ha contado con un total de 1.500 asistentes, entre vecinos y representantes del tejido económico y social de la ciudad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España, entre los \"puntos rojos\" del planeta donde más aumenta el estrés térmico que pone el cuerpo al límite",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/espana-puntos-rojos-planeta-aumenta/131702505.shtml",
+    "pubDate": "2026-06-22 22:33:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Навроцький не приїде на конференцію з відновлення України: названа причина",
     "link": "https://ua.korrespondent.net/world/4888469-navrotskyi-ne-pryide-na-konferentsiui-z-vidnovlennia-ukrainy-nazvana-prychyna",
     "pubDate": "2026-06-22 22:24:00",
