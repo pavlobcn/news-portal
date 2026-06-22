@@ -432,6 +432,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "El portero del Sabadell se disculpa por incitar a insultar a Pedro Sánchez en celebraciones",
+    "link": "https://www.elperiodico.com/es/deportes/20260621/portero-sabadell-disculpa-incitar-insultos-pedro-sanchez-131657942",
+    "pubDate": "2026-06-21 19:04:14",
+    "category": "",
+    "description": "<h2>En su parlamento, Fuoli finalizó su intervención diciendo: \"Voy a soltar una expresión y vosotros contestáis con lo que os salga: Pedro Sánchez...\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Трамп пригрозив іранській делегації",
     "link": "https://ua.korrespondent.net/world/4888218-tramp-pryhrozyv-iranskii-delehatsii",
     "pubDate": "2026-06-21 18:56:00",
@@ -2331,6 +2340,33 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El Terrat: alta cocina mediterránea creativa y singular",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/terrat-moha-quach-mejores-restaurantes-cataluna-130840625",
+    "pubDate": "2026-06-21 02:00:49",
+    "category": "",
+    "description": "<h2>Moha Quach pone en práctica una cocina delicada y compleja que conecta Tarragona, el Serrallo, el pasado romano de la ciudad y los aromas del Rif</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Els Estudis de Malla: cuando la cocina también es un refugio",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/els-estudis-malla-mejores-restaurantes-cataluna-130841114",
+    "pubDate": "2026-06-21 02:00:49",
+    "category": "",
+    "description": "<h2>Joan Font reivindica un clasicismo sin nostalgia, basado en fondos, guisos, salsas, producto noble y una precisión técnica siempre vigente</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ferreruela: brasa, memoria y precisión contemporánea en Lleida",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/ferreruela-mejores-restaurantes-cataluna-130843426",
+    "pubDate": "2026-06-21 02:00:48",
+    "category": "",
+    "description": "<h2>Gonçal Ferreruela combina técnica, memoria tradicional y creatividad en una propuesta que reivindica Lleida como territorio gastronómico propio.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "У Керчі палає паливний термінал - соцмережі",
     "link": "https://ua.korrespondent.net/ukraine/4888093-u-kerchi-palaie-palyvnyi-terminal-sotsmerezhi",
     "pubDate": "2026-06-21 01:51:00",
@@ -2374,6 +2410,33 @@
     "description": "<h2>El chef, con raíces en la Ribera d’Ebre, propone una mirada culinaria singular sobre Catalunya y su despensa.</h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Come: la frontera luminosa entre México y el Mediterráneo",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/come-paco-mendez-mejores-restaurantes-cataluna-130782247",
+    "pubDate": "2026-06-21 01:00:33",
+    "category": "",
+    "description": "<h2>Paco Méndez proyecta hacia el futuro la tradición mexicana desde la precisión, la visión personal y el producto local</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dos Palillos: el restaurante asiático que no cabe en una etiqueta",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/dos-palillos-albert-raurich-mejores-restaurantes-cataluna-130835389",
+    "pubDate": "2026-06-21 01:00:33",
+    "category": "",
+    "description": "<h2>Albert Raurich y Tamae Imachi han construido una cocina donde Japón, Asia, Catalunya y el Mediterráneo dialogan desde la técnica y la libertad</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dos Pebrots: la cocina histórica que vuelve a tener hambre",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260621/dos-pebrots-mejores-restaurantes-cataluna-130835596",
+    "pubDate": "2026-06-21 01:00:32",
+    "category": "",
+    "description": "<h2>El restaurante de Albert Raurich, Takeshi Somekawa y Adrià de Pablo reivindica la historia como territorio fértil para crear cocina actual.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
   },
   {
     "title": "Мелоні звинуватила Трампа у брехні щодо неї",
