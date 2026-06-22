@@ -1,8 +1,14 @@
-# News for 2026-06-22 10:20
+# News for 2026-06-22 11:35
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+11:26 [Кілька районів Києва залишилися без світла](https://ua.korrespondent.net/city/kiev/4888330-kilka-raioniv-kyieva-zalyshylysia-bez-svitla)<br>
+11:08 [Китай запровадив експортні обмеження щодо американських компаній](https://ua.korrespondent.net/world/4888327-kytai-zaprovadyv-eksportni-obmezhennia-schodo-amerykanskykh-kompanii)<br>
+11:03 [Прем'єр Британії оголосив про відставку](https://ua.korrespondent.net/world/4888324-premier-brytanii-oholosyv-pro-vidstavku)<br>
+10:51 [На Житомирщині депутат ухилився від сплати податків на мільйони](https://ua.korrespondent.net/ukraine/4888321-na-zhytomyrschyni-deputat-ukhylyvsia-vid-splaty-podatkiv-na-miliony)<br>
+10:46 [Укрзалізниця збільшує кількість дитячих вагонів](https://ua.korrespondent.net/ukraine/4888320-ukrzaliznytsia-zbilshuie-kilkist-dytiachykh-vahoniv)<br>
+10:27 [МЗС відреагувало на удари Росії по кораблям](https://ua.korrespondent.net/ukraine/4888318-mzs-vidreahuvalo-na-udary-rosii-po-korabliam)<br>
 10:13 [Анна Кошмал показала рідкісне фото чоловіка](https://ua.korrespondent.net/lifestyle/4888314-anna-koshmal-pokazala-ridkisne-foto-cholovika)<br>
 10:09 [У Польщі пояснили, чому Шредера та Мусолліні не позбавили ордена](https://ua.korrespondent.net/world/4888313-u-polschi-poiasnyly-chomu-shredera-ta-musollini-ne-pozbavyly-ordena)<br>
 09:56 [СЗЧшник готував теракт у центрі Києва](https://ua.korrespondent.net/ukraine/4888309-szchshnyk-hotuvav-terakt-u-tsentri-kyieva)<br>
@@ -35,6 +41,22 @@ Previous day: [2026-06-21](./data/2026-06-21.md)
 07:18 [Una nueva final en el Palau](https://as.com/baloncesto/acb/una-nueva-final-en-el-palau-f202606-n/)<br>
 
 ## www.elperiodico.com
+11:33 [Adiós a la 'influencer' Carly Douglas de manera fulminante: "Estamos devastados"](https://www.elperiodico.com/es/gente/20260622/carly-douglas-cancer-muerte-influencer-fitness-dv-131670378)<br>
+11:27 [FiiO lanza el Warmer R2R y el Level 1, dos apuestas HiFi con sonido cálido y potencia compacta](https://www.elperiodico.com/es/tecnologia/20260622/fiio-lanza-warmer-r2r-level-131672905)<br>
+11:27 [Espironolactona, un medicamento diurético muy común, también puede combatir la fibrosis del corazón](https://www.elperiodico.com/es/sanidad/20260622/espironolactona-medicamento-diuretico-comun-combatir-fibrosis-corazon-131672791)<br>
+11:22 [Cuesta 24.000 euros y tiene tres habitaciones y porche: así es la casa prefabricada de madera que refleja el ‘boom’ del sector](https://www.elperiodico.com/es/economia/20260622/casas-prefabricadas-madera-tres-habitaciones-porche-24000-euros-dv-131672873)<br>
+11:20 [Marc Vidal, experto en economía: "Es imposible que se puedan sostener 181.000 millones de salarios públicos"](https://www.elperiodico.com/es/economia/20260622/marc-vidal-experto-economia-imposible-sostener-salarios-publicos-dv-131670748)<br>
+11:15 [Jesús Villegas, youtuber, al usar el móvil tras 15 días de desconexión: "Sentí ganas incluso de vomitar"](https://www.elperiodico.com/es/vida-y-estilo/20260622/jesus-villegas-youtuber-15-dias-desconexion-movil-vomitar-dv-131567564)<br>
+11:13 [Toda España, menos Canarias y Murcia, en aviso por fuerte calor, con el País Vasco en rojo](https://www.elperiodico.com/es/videos/sociedad/toda-espana-menos-canarias-murcia-aviso-fuerte-calor/131673233.shtml)<br>
+11:04 [No se inquiete, señor Baena, no iba por usted](https://www.elperiodico.com/es/deportes/20260622/inquiete-senor-baena-iba-131672713)<br>
+11:03 [La ola de calor pone en aviso a 15 comunidades autónomas y obliga a activar un nivel rojo en el País Vasco ante máximas por encima de los 40 grados](https://www.elperiodico.com/es/sociedad/20260622/ola-calor-aviso-comunidades-autonomas-prevision-aemet-131671174)<br>
+10:53 [El PP catalán denuncia la existencia de "un 'procés' español": "Hay ministros atacando a jueces, policias y la corona"](https://www.elperiodico.com/es/politica/20260622/pp-catalan-alejandro-fernandez-cayetana-alvarez-toledo-proceso-espanol-131669346)<br>
+10:38 [El CGPJ acuerda que se investigue al juez Peinado, gracias al voto de calidad de su presidenta](https://www.elperiodico.com/es/politica/20260622/consejo-general-del-poder-judicial-juan-carlos-peinado-begona-gomez-131671753)<br>
+10:35 [Keir Starmer dimite como primer ministro del Reino Unido](https://www.elperiodico.com/es/internacional/20260622/starmer-dimite-primer-ministro-reino-unido-131671583)<br>
+10:34 [DIRECTO | Pedro Sánchez clausura el acto 'España verde y digital. El impacto del Plan de Recuperación'](https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-clausura-acto-espana-verde-digital/131671546.shtml)<br>
+10:31 [Paliza de diez jóvenes a un menor en un ataque homófobo en Mataró](https://www.elperiodico.com/es/barcelona/mataro/20260622/agresion-homofoba-paliza-menor-mataro-jovenes-131669038)<br>
+10:30 [Lo nunca visto: incendios forestales en Groenlandia por el cambio climático](https://www.elperiodico.com/es/medio-ambiente/20260622/visto-incendios-forestales-groenlandia-cambio-131671382)<br>
+10:30 [Mi electro](https://www.elperiodico.com/es/videos/sociedad/electro/131671344.shtml)<br>
 10:16 [Peinado cita Begoña Gómez para que entregue su pasaporte el miércoles, el mismo día que Sánchez da explicaciones en el Congreso](https://www.elperiodico.com/es/politica/20260622/peinado-cita-begona-gomez-entregue-pasaporte-131670960)<br>
 10:01 [Tensión en La Mina por una nueva tanda de desahucios](https://www.elperiodico.com/es/fotos/sociedad/tension-la-mina-nueva-tanda-desahucios-fotos-131670514)<br>
 09:48 [Muere un marino egipcio en un ataque ruso a un carguero turco en el mar Negro](https://www.elperiodico.com/es/internacional/20260622/muere-marino-egipcio-ataque-ruso-131670046)<br>
