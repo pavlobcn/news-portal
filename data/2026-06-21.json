@@ -252,6 +252,15 @@
     "topic_match_probability": 80
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-06-21 20:05:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Oyarzabal lidera una goleada que deja a España clasificada para dieciseisavos",
     "link": "https://www.elperiodico.com/es/deportes/20260621/espana-arabia-resultado-resumen-futbol-mundial-2026-131659986",
     "pubDate": "2026-06-21 20:03:44",
@@ -356,6 +365,15 @@
     "pubDate": "2026-06-21 19:25:00",
     "category": "",
     "description": "<h2 class=\"item\">Cada vez más especialistas recomiendan este sistema para combatir la pérdida de masa muscular asociada al envejecimiento y mejorar el rendimiento físico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-06-21 19:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4388528.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
     "topic": "",
     "topic_match_probability": 0
   },
