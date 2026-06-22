@@ -1,8 +1,10 @@
-# News for 2026-06-22 03:06
+# News for 2026-06-22 04:07
 
 Previous day: [2026-06-21](./data/2026-06-21.md)
 
 ## ua.korrespondent.net
+03:58 [В Москві заявили про масовану атаку дронів](https://ua.korrespondent.net/world/russia/4888264-v-moskvi-zaiavyly-pro-masovanu-ataku-droniv)<br>
+03:31 [В Німеччині 19-річний альпініст зірвався з гори і загинув](https://ua.korrespondent.net/world/4888262-v-nimechchyni-19-richnyi-alpinist-zirvavsia-z-hory-i-zahynuv)<br>
 02:44 [РФ атакують численні дрони: фіксуються пошкодження](https://ua.korrespondent.net/world/russia/4888260-rf-atakuuit-chyslenni-drony-fiksuuitsia-poshkodzhennia)<br>
 01:59 [Крим накрили блекаути після чергових вибухів](https://ua.korrespondent.net/ukraine/4888258-krym-nakryly-blekauty-pislia-cherhovykh-vybukhiv)<br>
 01:46 [Росія атакувала Запоріжжя дронами: є поранений](https://ua.korrespondent.net/city/zaporozhye/4888256-rosiia-atakuvala-zaporizhzhia-dronamy-ye-poranenyi)<br>
