@@ -1,5 +1,167 @@
 [
   {
+    "title": "Encuesta: Los madrileños apoyan limitar las licencias de pisos turísticos y los precios del alquiler para paliar la crisis de la vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20260622/encuesta-vivienda-madrid-alquiler-precios-pisos-turisticos-131692392",
+    "pubDate": "2026-06-22 18:15:03",
+    "category": "",
+    "description": "<h2>El 69% de los ciudadanos reclaman facilitar la construcción de nuevos pisos y el 57% avala las medidas impulsadas por Ayuso en materia de vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Google invierte 75 millones de dólares en la productora A24 para acelerar la integración de la IA en el cine",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260622/google-invierte-75-millones-dolares-productora-a24-marty-supreme-cine-inteligencia-artificial-deepmind-backrooms-pelis-131693575",
+    "pubDate": "2026-06-22 18:04:40",
+    "category": "",
+    "description": "<h2>Google DeepMind desarrollará nuevas herramientas de IA para A24 con la intención de agilizar la producción y distribución de películas sin generar incomodidad en el sector</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Andy Burnham obtiene el apoyo del laborismo para suceder a Starmer como primer ministro del Reino Unido",
+    "link": "https://www.elperiodico.com/es/internacional/20260622/andy-burnham-primer-ministro-reino-unido-131694558",
+    "pubDate": "2026-06-22 18:02:17",
+    "category": "",
+    "description": "<h2>La decisión de Wes Streeting, exministro de Sanidad, de no presentarse a unas primarias allana el camino al nuevo diputado en su intento de llegar a Downing Street</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нацбанк визначив курси валют на вівторок",
+    "link": "https://ua.korrespondent.net/business/financial/4888429-natsbank-vyznachyv-kursy-valuit-na-vivtorok",
+    "pubDate": "2026-06-22 17:59:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468752.jpg\">На міжбанку американська валюта впала на 7 копійок і тепер перебуває на рівні 44,90-44,93 грн/долар купівля-продаж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Відомий клуб намагався переманити зіркового форварда",
+    "link": "https://ua.korrespondent.net/sport/football/4888430-vidomyi-klub-namahavsia-peremanyty-zirkovoho-forvarda",
+    "pubDate": "2026-06-22 17:58:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468753.jpg\">Галатасарай заблокував трансфер свого головного бомбардира, відхиливши щедру пропозицію від європейського гранда щодо купівлі Віктора Осімгена.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La vivienda exige activar todas las palancas: más oferta y reglas estables",
+    "link": "https://www.elperiodico.com/es/economia/20260622/vivienda-exige-activar-palancas-oferta-131694246",
+    "pubDate": "2026-06-22 17:56:07",
+    "category": "",
+    "description": "<h2>Expertos reunidos en el Observatorio Social de la Vivienda de Prensa Ibérica coinciden en la necesidad de actuar de forma simultánea para resolver el problema de la vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Grifols nombra consejera independiente a Ester Masllorens en sustitución de Enriqueta Felip",
+    "link": "https://www.elperiodico.com/es/economia/20260622/grifols-nombra-consejera-independiente-ester-131694183",
+    "pubDate": "2026-06-22 17:55:05",
+    "category": "",
+    "description": "<h2>La farmacéutica catalana ha comunicado la decisión unánime de su consejo a través de la CNMV</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Білоруська опозиція попередила Київ про підготовку Лукашенка до війни",
+    "link": "https://ua.korrespondent.net/world/4888427-biloruska-opozytsiia-poperedyla-kyiv-pro-pidhotovku-lukashenka-do-viiny",
+    "pubDate": "2026-06-22 17:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468745.jpg\">У 30-сторінковій доповіді наведено вісім ключових чинників, які можуть свідчити про активізацію підготовки Білорусі до можливого військового конфлікту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mueren dos niños dentro de un coche en Francia en plena ola de calor",
+    "link": "https://www.elperiodico.com/es/internacional/20260622/mueren-ninos-coche-francia-ola-calor-131694146",
+    "pubDate": "2026-06-22 17:54:23",
+    "category": "",
+    "description": "<h2>Los pequeños se quedaron atrapados en el vehículo, aunque no se sabe cómo entraron ni cuánto tiempo permanecieron en el interior</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Netanyahu otorga al Ejército israelí \"libertad total de acción\" en el Líbano",
+    "link": "https://www.elperiodico.com/es/videos/internacional/netanyahu-otorga-ejercito-israeli-libertad/131692904.shtml",
+    "pubDate": "2026-06-22 17:43:20",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tensión política marca el escrutinio definitivo que debe confirmar la victoria del ultra De la Espriella en Colombia",
+    "link": "https://www.elperiodico.com/es/internacional/20260622/colombia-elecciones-resultados-escrutinio-abelardo-de-la-espriella-131693523",
+    "pubDate": "2026-06-22 17:43:08",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260621/ultraderechista-espriella-aventaja-cepeda-sondeos-131663730\" target=\"_blank\">El ultra Abelardo de la Espriella será el nuevo presidente de Colombia, según el recuento preliminar</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260622/quien-presidente-colombia-resultados-elecciones-claves-131668944\" target=\"_blank\">Quién es el nuevo presidente en Colombia: claves de los resultados de las elecciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260620/abelardo-espriella-ultraderecha-resultados-elecciones-colombia-130830737\" target=\"_blank\">Abelardo de la Espriella, un 'Tigre' forjado al calor de las redes sociales que presidirá Colombia</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "США дозволили продаж іранської нафти",
+    "link": "https://ua.korrespondent.net/world/4888425-ssha-dozvolyly-prodazh-iranskoi-nafty",
+    "pubDate": "2026-06-22 17:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468744.jpg\">Вашингтон пішов на такий крок, бо Тегеран зобов’язався забезпечити вільний транзит у Ормузькій протоці та дозволив інспекторам МАГАТЕ в’їжджати на свою територію.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya apela a la \"corresponsabilidad ciudadana\" ante un verano \"exigente\" en riesgo de incendio forestal",
+    "link": "https://www.elperiodico.com/es/sociedad/20260622/catalunya-apela-corresponsabilidad-ciudadana-verano-incendio-forestal-131692646",
+    "pubDate": "2026-06-22 17:34:58",
+    "category": "",
+    "description": "<h2>Los consellers de Interior y Agricultura y la presidenta de la Diputación de Barcelona presentan la campaña institucional 'Foc es Foc'</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260617/confinadas-poblaciones-segarra-lleida-incendio-palleros-ribera-ondara-talavera-campos-cereales-131525766\">Levantado el confinamiento en cuatro poblaciones de la Segarra (Lleida) por un incendio ya controlado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Готував теракти у Києві: агент РФ отримав 15 років ув'язнення",
+    "link": "https://ua.korrespondent.net/city/kiev/4888423-hotuvav-terakty-u-kyievi-ahent-rf-otrymav-15-rokiv-uviaznennia",
+    "pubDate": "2026-06-22 17:31:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468737.jpg\">Суд визнав зловмисника винним у скоєнні державної зради в умовах воєнного стану.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські тенісисти не зіграють у чоловічому розряді Вімблдону",
+    "link": "https://ua.korrespondent.net/sport/tenis/4888420-ukrainski-tenisysty-ne-zihrauit-u-cholovichomu-rozriadi-vimbldonu",
+    "pubDate": "2026-06-22 17:25:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468736.jpg\">Україна не буде представлена в чоловічому одиночному розряді на Вімблдоні: Віталій Сачко не пройшов кваліфікацію.",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "\"Me están besando el culo\": Trump se burló de dos millonarios tecnológicos por acercarse a él tras años de críticas",
+    "link": "https://www.elperiodico.com/es/internacional/20260622/besan-culo-trump-burlo-millonarios-mark-zuckerberg-meta-instagram-amazon-jeff-bezos-elecciones-estados-unidos-musk-131692376",
+    "pubDate": "2026-06-22 17:24:21",
+    "category": "",
+    "description": "<h2>Un nuevo libro desvela cómo el presidente de Estados Unidos menospreció los intentos del director ejecutivo de Meta, Mark Zuckerberg, y el fundador de Amazon, Jeff Bezos, de ganarse su favor tras su victoria electoral en 2024</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Харківщині депутат \"евакуював\" до тещі майна громади на 14,5 млн грн",
+    "link": "https://ua.korrespondent.net/ukraine/4888419-na-kharkivschyni-deputat-evakuuivav-do-teschi-maina-hromady-na-145-mln-hrn",
+    "pubDate": "2026-06-22 17:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468728.jpg\">Замовнику фігурант повідомив, що комунальне обладнання нібито було знищено внаслідок збройної агресії РФ.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El incendio de una furgoneta en la Zona Franca levanta una columna de humo negro sobre Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260622/incendio-furgoneta-zona-franca-levanta-131691285",
+    "pubDate": "2026-06-22 17:11:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El fuego no ha causado heridos y una dotación de los bomberos se ha dirigido a apagar las llamas dentro del polígono industrial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260622/incendio-balcon-barcelona-petardo-sant-joan-131679892\">Incendio en un balcón de Barcelona en vísperas de Sant Joan</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Зеленський затвердив рекордні витрати на оборону",
     "link": "https://ua.korrespondent.net/ukraine/4888417-zelenskyi-zatverdyv-rekordni-vytraty-na-oboronu",
     "pubDate": "2026-06-22 17:07:00",
@@ -1220,6 +1382,15 @@
     "pubDate": "2026-06-22 12:04:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468579.jpg\">Також підтверджено ураження інфраструктури порту Кавказ у Краснодарському краї РФ та двох автомобільних поромів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La retirada del pasaporte a Begoña Gómez le impedirá acompañar a Sánchez a las cumbres de la OTAN, la ONU o el G20",
+    "link": "https://www.elperiodico.com/es/politica/20260622/pasaporte-begona-gomez-viajes-internacionales-131675596",
+    "pubDate": "2026-06-22 12:02:34",
+    "category": "",
+    "description": "<h2>El juez Peinado ya estuvo a punto de impedir la asistencia de Begoña Gómeza la reunión del G20 celebrada en 2024 en Río de Janeiro (Brasil), al citarla el mismo día del viaje</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260407/juicio-abalos-koldo-aldama-caso-mascarillas-ultima-hora-directo-128820507\" target=\"_blank\">Trama del PSOE, en directo: última hora del caso Begoña Gómez y sentencia del caso mascarillas</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
