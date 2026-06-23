@@ -1,5 +1,41 @@
 [
   {
+    "title": "РФ перекидає ППО з фронту для захисту Москви - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4888482-rf-perekydaie-ppo-z-frontu-dlia-zakhystu-moskvy-zmi",
+    "pubDate": "2026-06-22 23:53:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468874.jpg\">У російській столиці побачили РГК Панцир із захисною металевою сіткою, яка зазвичай використовується виключно в зоні бойових дій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Julián Álvarez da el paso que el Barça pedía y rompe con el Atlético: \"Lo mejor es un traspaso\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260622/julian-alvarez-da-paso-barca-131703136",
+    "pubDate": "2026-06-22 23:41:39",
+    "category": "",
+    "description": "<h2>El delantero, gran objetivo azulgrana para este verano, pide salir del Atlético, pese a que su cláusula es de 500 millones de euros</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Смертельна ДТП під Києвом: п'ятеро загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4888475-smertelna-dtp-pid-kyievom-piatero-zahyblykh",
+    "pubDate": "2026-06-22 23:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468858.jpg\">Водій Renault Sandero вирішив здійснити обгін, виїхавши на зустрічну смугу, де зіштовхнувся з іншим авто.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Суперклей в Білому Домі. Нова книга про Трампа",
+    "link": "https://ua.korrespondent.net/world/4888480-superklei-v-bilomu-domi-nova-knyha-pro-trampa",
+    "pubDate": "2026-06-22 22:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468875.jpg\">Книга малює образ лідера, який страждає на манію величі, ніколи не забуває старих образ, власноруч клеїть декор у Білому домі та вимагає абсолютної лояльності у риториці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Mallorca apuesta por Luis García tras la espantada de Demichelis",
     "link": "https://www.elperiodico.com/es/deportes/20260622/mallorca-apuesta-luis-garcia-espantada-131702759",
     "pubDate": "2026-06-22 22:58:33",
@@ -105,6 +141,15 @@
     "category": "",
     "description": "<h2>La actual presidenta del Consejo de Estado participa en un coloquio sobre la Princesa de Asturias en el Ateneo de Madrid</h2>",
     "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Війна орденів. Найглибша криза України з Польщею",
+    "link": "https://ua.korrespondent.net/ukraine/4888476-viina-ordeniv-naihlybsha-kryza-ukrainy-z-polscheui",
+    "pubDate": "2026-06-22 22:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4468867.jpeg\">Зеленський зауважив, що не розуміє тих польських політиків, які грають на антиукраїнських сентиментах у частині польського суспільства.",
+    "topic": "",
     "topic_match_probability": 0
   },
   {
@@ -522,6 +567,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Locura en Atenas con Obradovic y un nuevo objetivo, superar al Real Madrid",
+    "link": "https://as.com/baloncesto/euroliga/locura-en-atenas-con-obradovic-y-un-nuevo-objetivo-superar-al-real-madrid-f202606-n/",
+    "pubDate": "2026-06-22 19:03:43",
+    "category": "Baloncesto",
+    "description": "Giannakopoulos, dueño del Panathinaikos, desvío una pregunta que hablaba sobre el Olympiacos. “¿Gran rival? Me imagino que hablas del Madrid\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los diez hechos probados que han llevado a las condenas de Ábalos, Koldo y Aldama",
     "link": "https://www.elperiodico.com/es/politica/20260622/diez-hechos-probados-condenar-24-anos-jose-luis-abalos-131696276",
     "pubDate": "2026-06-22 18:56:07",
@@ -610,6 +664,15 @@
     "description": "<h2>El primer BMW Serie 3 totalmente eléctrico llega en otoño de 2026 con tracción total y 906 kilómetros de autonomía</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Hipra gana 53,9 millones en 2025 y supera por primera vez los 500 millones de facturación tras crecer un 17% en ventas",
+    "link": "https://www.elperiodico.com/es/economia/20260622/hipra-gana-53-9-millones-131695856",
+    "pubDate": "2026-06-22 18:32:18",
+    "category": "",
+    "description": "<h2>La biofarmacéutica con sede en Girona supera de nuevo los 90 millones de euros de inversión en I+D e infraestructuras</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Un Mundial mourinhista, por Lluís Carrasco",
