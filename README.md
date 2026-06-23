@@ -1,8 +1,15 @@
-# News for 2026-06-23 18:09
+# News for 2026-06-23 19:21
 
 Previous day: [2026-06-22](./data/2026-06-22.md)
 
 ## ua.korrespondent.net
+19:14 [Росія розпочала наступальну кампанію - ЗСУ](https://ua.korrespondent.net/ukraine/4888726-rosiia-rozpochala-nastupalnu-kampaniui-zsu)<br>
+19:01 [МЗС про кризу з Польщею: Працюємо над зниженням емоцій](https://ua.korrespondent.net/ukraine/4888724-mzs-pro-kryzu-z-polscheui-pratsuiiemo-nad-znyzhenniam-emotsii)<br>
+18:49 [Через російський обстріл у Херсоні загинув чоловік, є поранені](https://ua.korrespondent.net/ukraine/4888719-cherez-rosiiskyi-obstril-u-khersoni-zahynuv-cholovik-ye-poraneni)<br>
+18:34 [Трамп сказав Зеленському бути "сміливішими" з РФ - ЗМІ](https://ua.korrespondent.net/world/4888717-tramp-skazav-zelenskomu-buty-smilyvishymy-z-rf-zmi)<br>
+18:19 [Євросоюз вперше провів переговори з талібами](https://ua.korrespondent.net/world/4888713-yevrosouiz-vpershe-proviv-perehovory-z-talibamy)<br>
+18:15 [Нацбанк почав знижувати курси долара і євро](https://ua.korrespondent.net/business/financial/4888712-natsbank-pochav-znyzhuvaty-kursy-dolara-i-yevro)<br>
+18:08 [Із порту Маріуполя Росія вивезла майже 90 тисяч тонн пшениці](https://ua.korrespondent.net/ukraine/4888709-iz-portu-mariupolia-rosiia-vyvezla-maizhe-90-tysiach-tonn-pshenytsi)<br>
 17:52 [Путін озвучив "основу" для переговорів з Україною](https://ua.korrespondent.net/world/russia/4888705-putin-ozvuchyv-osnovu-dlia-perehovoriv-z-ukrainoui)<br>
 17:48 [Україна значно наростила експорт електроенергії](https://ua.korrespondent.net/business/economics/4888702-ukraina-znachno-narostyla-eksport-elektroenerhii)<br>
 17:44 [Уряд додатково спрямував 220 млн на потреби ЗСУ](https://ua.korrespondent.net/business/economics/4888699-uriad-dodatkovo-spriamuvav-220-mln-na-potreby-zsu)<br>
@@ -88,6 +95,16 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 03:57 [El Madrid firma con la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-firma-con-la-euroliga-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:20 [El BEI y el Banco Sabadell sellan una alianza para inyectar 1.000 millones a pymes españolas](https://www.elperiodico.com/es/economia/20260623/bei-banco-sabadell-sellan-alianza-bc-131736854)<br>
+19:09 [Hechos (deleznables) probados](https://www.elperiodico.com/es/opinion/20260623/hechos-deleznables-probados-abalos-pedro-sanchez-editorial-131735947)<br>
+18:52 [Iberdrola asegura que España no tiene la factura de la luz más barata de Europa por los impuestos](https://www.elperiodico.com/es/economia/20260623/iberdrola-asegura-espana-factura-luz-mas-barata-europa-impuestos-131735493)<br>
+18:42 [La ola de calor deja 45 grados en Andalucía y más de 43 en Cantabria, hasta ahora considerada como uno de los grandes 'refugios climáticos' de España](https://www.elperiodico.com/es/sociedad/20260623/ola-calor-avisos-rojos-cantabria-martes-balance-131732281)<br>
+18:34 [De Barcelona Nord a Múnich o París: la estación estrena rutas y roza el 50% de conexiones internacionales](https://www.elperiodico.com/es/barcelona/20260623/barcelona-nord-hub-internacional-94-rutas-autobus-131674928)<br>
+18:33 [El bus se afianza entre estudiantes y turistas que viajan de Barcelona al extranjero: "Nos hemos ahorrado dos noches de hotel"](https://www.elperiodico.com/es/barcelona/20260623/bus-afianza-estudiantes-turistas-barcelona-extranjero-ahorrado-hotel-131719604)<br>
+18:32 [Andy Burnham prepara su equipo y el plan de gobierno a la espera de saber si tendrá rival en las primarias laboristas](https://www.elperiodico.com/es/internacional/20260623/andy-burnham-equipo-gobierno-reino-unido-primarias-laboristas-131734674)<br>
+18:31 [Así es Torre Moeve, el rascacielos de Amancio Ortega que ha sufrido un incendido en Madrid](https://www.elperiodico.com/es/economia/20260623/torre-foster-rascacielos-amancio-ortega-131734628)<br>
+18:17 [Territori licita las obras de reparación de emergencia en la playa de la Barca Maria de Badalona](https://www.elperiodico.com/es/barcelona/20260623/territori-licita-obras-reparacion-emergencia-playa-barca-maria-badalona-131732249)<br>
+18:09 [Desalojada una de las cuatro torres de Madrid por una columna de humo en su interior](https://www.elperiodico.com/es/videos/sucesos/desalojada-cuatro-torres-madrid-columna/131733405.shtml)<br>
 18:07 [Las obras estratégicas impulsadas por el Govern: de la L8 de FGC a la variante de Olot](https://www.elperiodico.com/es/economia/20260623/obras-estrategicas-impulsadas-govern-linea-8-metro-variante-olot-plan-actuaciones-infraestructuras-govern-131728740)<br>
 18:00 [Leire Díez logró que la SEPI aceptara que Tubos Reunidos retrasara la devolución de 10 millones del rescate de 112,8 millones](https://www.elperiodico.com/es/politica/20260623/leire-diez-logro-tubos-reunidos-131732131)<br>
 18:00 [Félix García muestra la reforma del baño que multiplica el espacio sin ampliar metros](https://www.elperiodico.com/es/vida-y-estilo/20260623/felix-garcia-muestra-reforma-bano-dv-131656317)<br>
