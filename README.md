@@ -1,8 +1,13 @@
-# News for 2026-06-23 09:11
+# News for 2026-06-23 10:17
 
 Previous day: [2026-06-22](./data/2026-06-22.md)
 
 ## ua.korrespondent.net
+09:56 [Офіційно. NASA підтвердило початок Ель-Ніньйо](https://ua.korrespondent.net/tech/science/4888532-ofitsiino-NASA-pidtverdylo-pochatok-el-ninio)<br>
+09:55 [Гондурас планує закупити дрони в України](https://ua.korrespondent.net/world/4888557-honduras-planuie-zakupyty-drony-v-ukrainy)<br>
+09:46 [Зеленський привітав спецпризначенців СБУ з професійним святом](https://ua.korrespondent.net/ukraine/4888554-zelenskyi-pryvitav-spetspryznachentsiv-sbu-z-profesiinym-sviatom)<br>
+09:37 [Відключення світла поширились на вісім областей](https://ua.korrespondent.net/ukraine/4888548-vidkluichennia-svitla-poshyrylys-na-visim-oblastei)<br>
+09:30 [На Житомирщині ексдиректора підприємства підозрюють у мільйонних збитках](https://ua.korrespondent.net/ukraine/4888544-na-zhytomyrschyni-eksdyrektora-pidpryiemstva-pidozruiuit-u-milionnykh-zbytkakh)<br>
 08:53 [Генштаб оцінив ситуацію на фронті](https://ua.korrespondent.net/ukraine/4888540-henshtab-otsinyv-sytuatsiui-na-fronti)<br>
 08:17 [Крим масовано атакували дрони, спалахнули пожежі](https://ua.korrespondent.net/ukraine/4888530-krym-masovano-atakuvaly-drony-spalakhnuly-pozhezhi)<br>
 07:56 [В Європі через аномальну спеку забороняють алкоголь і скасовують заходи](https://ua.korrespondent.net/lifestyle/travel/4888524-v-yevropi-cherez-anomalnu-speku-zaboroniauit-alkohol-i-skasovuuit-zakhody)<br>
@@ -24,6 +29,18 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 03:57 [El Madrid firma con la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-firma-con-la-euroliga-f202606-n/)<br>
 
 ## www.elperiodico.com
+10:07 [Por qué los niños dejan de preguntar en la escuela y cómo recuperar el hábito](https://www.elperiodico.com/es/sociedad/20260623/ninos-dejan-preguntar-escuela-recuperar-131710925)<br>
+10:03 [Ola de calor: Tres comunidades autónomas activan el peligro rojo por altas temperaturas y toda España, salvo Canarias, bajo aviso](https://www.elperiodico.com/es/videos/sociedad/ola-calor-tres-comunidades-autonomas-peligro-rojo-altas-temperaturas-video/131710737.shtml)<br>
+10:00 [Ábalos fue el padrino de Sánchez](https://www.elperiodico.com/es/opinion/20260623/abalos-padrino-sanchez-articulo-matias-valles-131694866)<br>
+09:58 [KB5 de Turtle Beach, análisis: control táctil y latencia mínima en formato completo](https://www.elperiodico.com/es/tecnologia/20260623/kb5-turtle-beach-analisis-precio-131710356)<br>
+09:48 [El ajuar de Zapatero: "Ya no hay gente que encargue joyas de 100.000 euros"](https://www.elperiodico.com/es/politica/20260623/las-joyas-de-zapatero-ya-no-se-encargan-131710476)<br>
+09:46 [¿Cuándo salen las notas de selectividad en Catalunya este 2026?](https://www.elperiodico.com/es/sociedad/20260623/cuando-salen-notas-selectividad-cataluna-131273308)<br>
+09:43 [Aviso de Hacienda: solo quedan dos días para poder hacer este trámite con la Renta](https://www.elperiodico.com/es/economia/declaracion-renta/20260623/declaracion-renta-2025-2026-guia-fecha-limite-hacienda-deducciones-dv-131710179)<br>
+09:37 [EEUU libera 12.000 millones de dólares de fondos congelados de Irán y levanta sanciones al petróleo](https://www.elperiodico.com/es/internacional/20260623/eeuu-iran-libera-fondos-congelados-levanta-sanciones-petroleo-131710177)<br>
+09:37 [El Consejo de Ministros aprobará una partida extra para dependencia de  2.218 millones: "Seguimos para mejorar la vida de la gente"](https://www.elperiodico.com/es/politica/20260623/consejo-ministros-aprobrara-partida-dependencia-131710131)<br>
+09:37 [España registra una segunda noche consecutiva a más de 30 grados tras no haber registrado nunca ninguna por encima de este umbral en un mes de junio](https://www.elperiodico.com/es/sociedad/20260623/espana-noche-ola-de-calor-minimas-30-grados-registros-martes-131709523)<br>
+09:35 [Precio del petróleo hoy, 23 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260623/precio-petroleo-hoy-23-junio-dv-131710001)<br>
+09:05 [El Ibex 35 cede en la apertura y vuelve a situarse por debajo de los 19.500 puntos mientras cae el petróleo](https://www.elperiodico.com/es/economia/20260623/ibex-35-cede-apertura-vuelve-131710836)<br>
 08:55 [Detenida en Tortosa por difundir mensajes racistas y homófobos a través de las redes sociales](https://www.elperiodico.com/es/sociedad/20260623/detenida-tortosa-difundir-mensajes-racistas-odio-discriminacion-131709384)<br>
 08:40 [Ezviz S10: la cámara doméstica que va más allá de la vigilancia](https://www.elperiodico.com/es/tecnologia/20260623/ezviz-s10-camara-domestica-vigilancia-intercomunicador-131708914)<br>
 08:40 [Investigadores logran detectar indicios de alzheimer en una conversación de tan solo cuatro minutos](https://www.elperiodico.com/es/sanidad/20260623/investigadores-alicante-detectar-alzheimer-voz-129624615)<br>
