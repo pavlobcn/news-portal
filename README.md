@@ -1,8 +1,16 @@
-# News for 2026-06-23 14:54
+# News for 2026-06-23 15:55
 
 Previous day: [2026-06-22](./data/2026-06-22.md)
 
 ## ua.korrespondent.net
+15:49 [Трамп заявив про рекордний трафік нафти по Ормузу](https://ua.korrespondent.net/world/4888674-tramp-zaiavyv-pro-rekordnyi-trafik-nafty-po-ormuzu)<br>
+15:42 [Суд заарештував квартиру та машиномісце Кулеби](https://ua.korrespondent.net/ukraine/4888671-sud-zaareshtuvav-kvartyru-ta-mashynomistse-kuleby)<br>
+15:39 [Основна артерія ворога. Знищення мосту в Криму](https://ua.korrespondent.net/ukraine/4888666-osnovna-arteriia-voroha-znyschennia-mostu-v-krymu)<br>
+15:37 [Порт Чорноморськ заробив за рік 229,5 млн грн попри війну](https://ua.korrespondent.net/business/companies/4888667-port-chornomorsk-zarobyv-za-rik-2295-mln-hrn-popry-viinu)<br>
+15:22 [Паливна криза дісталася головного нафтового регіону Росії](https://ua.korrespondent.net/world/russia/4888664-palyvna-kryza-distalasia-holovnoho-naftovoho-rehionu-rosii)<br>
+15:16 [Після ударів по Криму та Москві Циганови почали критикувати Кремль](https://ua.korrespondent.net/lifestyle/4888566-pislia-udariv-po-krymu-ta-moskvi-tsyhanovy-pochaly-krytykuvaty-kreml)<br>
+15:16 [СБС знищили безпілотні катери РФ із системами Starlink - "Флеш"](https://ua.korrespondent.net/ukraine/4888662-sbs-znyschyly-bezpilotni-katery-rf-iz-systemamy-Starlink-flesh)<br>
+14:55 [Через спеку у Франції зупинили АЕС, десятки людей потонули](https://ua.korrespondent.net/world/4888659-cherez-speku-u-frantsii-zupynyly-aes-desiatky-luidei-potonuly)<br>
 14:49 [Лавров заявив про фіаско переговорів із Трампом](https://ua.korrespondent.net/world/russia/4888656-lavrov-zaiavyv-pro-fiasko-perehovoriv-iz-trampom)<br>
 14:41 [250 мільйонів бджіл висипалися на трасу після ДТП: рої атакували людей](https://ua.korrespondent.net/world/4888560-250-milioniv-bdzhil-vysypalysia-na-trasu-pislia-dtp-roi-atakuvaly-luidei)<br>
 14:35 [Кремль масово просуває пропаганду, маніпулюючи ШІ](https://ua.korrespondent.net/world/russia/4888653-kreml-masovo-prosuvaie-propahandu-manipuluiuichy-shi)<br>
@@ -59,9 +67,25 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 00:50 ["Орденопад" триває: від нагород відмовився польський віцемаршалок](https://ua.korrespondent.net/world/4888486-ordenopad-tryvaie-vid-nahorod-vidmovyvsia-polskyi-vitsemarshalok)<br>
 
 ## as.com
+14:57 [Así se fraguó el viraje europeo del Real Madrid](https://as.com/baloncesto/euroliga/asi-se-fraguo-el-viraje-europeo-del-real-madrid-f202606-n/)<br>
 03:57 [El Madrid firma con la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-firma-con-la-euroliga-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:54 [Los objetos domésticos](https://www.elperiodico.com/es/opinion/20260623/objetos-domesticos-bicicleta-estatica-articulo-juan-jose-millas-131710040)<br>
+15:51 [Una segunda mujer denuncia a Iñigo Errejón por presunta agresión sexual en 2021](https://www.elperiodico.com/es/videos/politica/segunda-mujer-denuncia-inigo-errejon/131727881.shtml)<br>
+15:47 [Adrián de la Cruz, experto en supervivencia: "Una lata de sardinas va a marcar la diferencia entre que mi salida sea buena o mala"](https://www.elperiodico.com/es/vida-y-estilo/20260623/adrian-experto-supervivencia-lata-sardinas-diferencia-dv-131251260)<br>
+15:46 [El espejo de Peinado](https://www.elperiodico.com/es/opinion/20260623/espejo-peinado-begona-gomez-articulo-emma-riverola-131726974)<br>
+15:33 [Las grandes eléctricas reconocen "desajustes" entre la regulación y el despliegue renovable](https://www.elperiodico.com/es/economia/20260623/grandes-electricas-reconocen-desajustes-regulacion-despliegue-renovable-131727079)<br>
+15:33 [El Gobierno desplegará un plan especial de seguridad para el eclipse de agosto y prepara un dispositivo contra las gafas fraudulentas](https://www.elperiodico.com/es/sociedad/20260623/gobierno-plan-especial-seguridad-eclipse-gafas-fraudulentas-no-homologadas-131725970)<br>
+15:32 [Aldama, sobre las joyas de Zapatero: "Son una forma de pago y valen muchísimo más de tres millones de euros"](https://www.elperiodico.com/es/videos/politica/aldama-joyas-zapatero-forma-pago-mas-tres-millones/131727019.shtml)<br>
+15:30 [Irán y EEUU afrontan la fase más crítica del proceso de paz: ¿Cuáles son los grandes escollos?](https://www.elperiodico.com/es/internacional/20260623/iran-estados-unidos-negociaciones-escollos-acuerdo-paz-131722301)<br>
+15:29 [Wall Street se tiñe de rojo ante el temor a un pinchazo de la IA: el Nasdaq cede un 3%](https://www.elperiodico.com/es/economia/20260623/wall-street-tine-rojo-temor-131726906)<br>
+15:26 [Cuando el feminismo se sienta en el banquillo](https://www.elperiodico.com/es/opinion/20260623/feminismo-sienta-banquillo-desigualdad-articulo-ana-bernal-trivino-131726241)<br>
+15:25 [Un joven de Albal reclama el derecho al ocio tras sufrir discriminación en un centro de experiencias virtuales](https://www.elperiodico.com/es/sociedad/20260623/joven-albal-reclama-derecho-ocio-discriminacion-centro-experiencias-virtuales-dv-131726128)<br>
+15:14 [El Gobierno rechaza asumir responsabilidades políticas por la sentencia contra Ábalos pese a reconocer su gravedad: “Quien la hace la paga”](https://www.elperiodico.com/es/politica/20260623/gobierno-rechaza-asumir-responsabilidades-abalos-131726296)<br>
+15:04 [‘Òh!pera’ celebra su quinta edición con tres nuevas microóperas escritas por Alicia Kopf, Pablo Macho y Pol Guasch](https://www.elperiodico.com/es/ocio-y-cultura/20260623/oh-pera-celebra-quinta-edicion-131725807)<br>
+15:04 [La ayuda al alquiler del Gobierno para víctimas de violencia de género será de hasta 1.000 euros al mes y durante cinco años](https://www.elperiodico.com/es/economia/20260623/ayuda-alquiler-gobierno-victimas-violencia-genero-1000-euros-mes-cinco-anos-dv-131725178)<br>
+15:03 [Collboni propondrá aprobar en el pleno de julio la dotación de pistolas táser para la Guardia Urbana](https://www.elperiodico.com/es/barcelona/20260623/collboni-propondra-aprobar-pleno-dotacion-taser-pistolas-electricas-131725722)<br>
 14:52 [Paloma Sánchez-Garnica publicará el 30 de septiembre 'Un hombre de honor', ambientada en el Nueva York de 1968](https://www.elperiodico.com/es/ocio-y-cultura/20260623/paloma-sanchez-garnica-publicara-30-131725254)<br>
 14:52 [Carmen Serrano, una de las mejores alumnas con un 14 en la PAU: "Al recibir la nota me sentí vacía, tampoco es tan importante"](https://www.elperiodico.com/es/educacion/20260623/carmen-serrano-mejores-alumnas-14-pau-vacia-dv-131158687)<br>
 14:51 [Óscar Marrero, el joven que pasó de no destacar en la ESO a ser el mejor expediente de su universidad: "Una nota no te define"](https://www.elperiodico.com/es/educacion/20260623/oscar-marrero-joven-mejor-expediente-universidad-dv-131445552)<br>
@@ -75,6 +99,7 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 14:30 [La ola de calor mantiene la luz por encima de los 100 euros/MWh: ¿por qué la reapertura de Ormuz no abaratará la electricidad este verano?](https://www.elperiodico.com/es/economia/20260623/ola-de-calor-precio-de-la-luz-electricidad-estrecho-de-ormuz-precio-del-petroleo-reservas-de-gas-europa-energia-eolica-131724461)<br>
 14:27 [Un guardia civil declara que exjefes de la UCO no admitieron presiones antes de ser interrogados por la unidad](https://www.elperiodico.com/es/politica/20260623/guardia-civil-declara-exjefes-uco-131724124)<br>
 14:26 [Vilanova i la Geltrú cancela las hogueras de Sant Joan a última hora por el alto riesgo de incendios](https://www.elperiodico.com/es/barcelona/vilanova-i-la-geltru/20260623/vilanova-sin-hogueras-sant-joan-riesgo-incendios-ultima-hora-131722493)<br>
+14:19 [Los Mossos detienen a un hombre de 65 años que instaló en su trastero un punto de tráfico de drogas en Cornellà de Llobregat](https://www.elperiodico.com/es/barcelona/20260623/hombre-65-anos-traficaba-drogas-trastero-mossos-esquadra-131716926)<br>
 14:18 [El Govern defiende "separar" la sentencia a Ábalos de la actuación del Gobierno de Sánchez](https://www.elperiodico.com/es/politica/20260623/govern-salvador-illa-separar-sentencia-jose-luis-abalos-condena-gobierno-pedro-sanchez-131717212)<br>
 14:13 [Rull pide ser "generosos" para acoger inmigrantes en Catalunya durante la recepción de la Flama del Canigó](https://www.elperiodico.com/es/politica/20260623/rull-recibe-flama-canigo-parlament-catalan-pide-acoger-inmigrantes-nacion-catalana-131720071)<br>
 14:11 [El Govern movilizará 4.350 millones hasta 2036 para relanzar las infraestructuras de movilidad](https://www.elperiodico.com/es/economia/20260623/generalitat-movilizara-4350-millones-obras-infraestructuras-movilidad-plan-actuaciones-hasta-2036-131716158)<br>

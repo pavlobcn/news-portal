@@ -1,5 +1,230 @@
 [
   {
+    "title": "Los objetos domésticos",
+    "link": "https://www.elperiodico.com/es/opinion/20260623/objetos-domesticos-bicicleta-estatica-articulo-juan-jose-millas-131710040",
+    "pubDate": "2026-06-23 15:54:15",
+    "category": "",
+    "description": "<h2>Las cosas no desaparecen, en fin, sino que sobreviven demasiado tiempo ante nuestros ojos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una segunda mujer denuncia a Iñigo Errejón por presunta agresión sexual en 2021",
+    "link": "https://www.elperiodico.com/es/videos/politica/segunda-mujer-denuncia-inigo-errejon/131727881.shtml",
+    "pubDate": "2026-06-23 15:51:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп заявив про рекордний трафік нафти по Ормузу",
+    "link": "https://ua.korrespondent.net/world/4888674-tramp-zaiavyv-pro-rekordnyi-trafik-nafty-po-ormuzu",
+    "pubDate": "2026-06-23 15:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469297.jpg\">Іран повністю і цілком погодився на регулярні ядерні інспекції вищого рівня, запевнив Дональд Трамп.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adrián de la Cruz, experto en supervivencia: \"Una lata de sardinas va a marcar la diferencia entre que mi salida sea buena o mala\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260623/adrian-experto-supervivencia-lata-sardinas-diferencia-dv-131251260",
+    "pubDate": "2026-06-23 15:47:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El madrileño muestra cómo transformar una lata de sardinas en un hornillo de larga duración, ideal para emergencias en entornos naturales sin luz</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Qué es el roller freestyle, la disciplina de moda que conquista la ciudad",
+    "link": "https://www.elperiodico.com/es/deportes/20260623/roller-freestyle-disciplina-moda-conquista-ciudad-urban-sport-graviteo-131717234",
+    "pubDate": "2026-06-23 15:46:54",
+    "category": "",
+    "description": "<h2>También conocido como patinaje agresivo, es uno de los nuevos deportes que atrapa a los jóvenes </h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260622/graviteo-acerca-deportes-urbanos-publico-festival-gratuito-circuit-catalunya-131676487\">Graviteo acerca los deportes urbanos al público con un festival en el Circuit de Catalunya: \"El deporte urbano no solo se practica, se vive\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "El espejo de Peinado",
+    "link": "https://www.elperiodico.com/es/opinion/20260623/espejo-peinado-begona-gomez-articulo-emma-riverola-131726974",
+    "pubDate": "2026-06-23 15:46:39",
+    "category": "",
+    "description": "<h2>Igual que Valle-Inclán utilizó el esperpento para robar la grandeza a los héroes clásicos, el juez ha tratado de borrar cualquier rastro de reconocimiento a Begoña Gómez</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260620/juez-peinado-retira-pasaporte-begona-131627475\">El juez Peinado envía a juicio a Begoña Gómez y le retira el pasaporte al ver riesgo de fuga</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Суд заарештував квартиру та машиномісце Кулеби",
+    "link": "https://ua.korrespondent.net/ukraine/4888671-sud-zaareshtuvav-kvartyru-ta-mashynomistse-kuleby",
+    "pubDate": "2026-06-23 15:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469289.jpg\">Суд наклав арешт на квартиру вартістю 4,4 млн гривень та машино-місце вартістю 520 тисяч гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Основна артерія ворога. Знищення мосту в Криму",
+    "link": "https://ua.korrespondent.net/ukraine/4888666-osnovna-arteriia-voroha-znyschennia-mostu-v-krymu",
+    "pubDate": "2026-06-23 15:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469290.jpg\">Сили спеціальних операцій ЗСУ заявили про знищення залізничного мосту через Північнокримський канал.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Порт Чорноморськ заробив за рік 229,5 млн грн попри війну",
+    "link": "https://ua.korrespondent.net/business/companies/4888667-port-chornomorsk-zarobyv-za-rik-2295-mln-hrn-popry-viinu",
+    "pubDate": "2026-06-23 15:37:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469288.jpg\">Одним із найбільш динамічних напрямків діяльності порту стала контейнерна перевалка, показники якої у 2025 році зросли майже вчетверо – до 21 498 TEU.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las grandes eléctricas reconocen \"desajustes\" entre la regulación y el despliegue renovable",
+    "link": "https://www.elperiodico.com/es/economia/20260623/grandes-electricas-reconocen-desajustes-regulacion-despliegue-renovable-131727079",
+    "pubDate": "2026-06-23 15:33:07",
+    "category": "",
+    "description": "<h2>La patronal Aelec sostiene que ni la CNMC ni REE trasladaron antes del 28 de abril a las empresas que incumplían sus funciones de control de tensión</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno desplegará un plan especial de seguridad para el eclipse de agosto y prepara un dispositivo contra las gafas fraudulentas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260623/gobierno-plan-especial-seguridad-eclipse-gafas-fraudulentas-no-homologadas-131725970",
+    "pubDate": "2026-06-23 15:33:02",
+    "category": "",
+    "description": "<h2 class=\"item\">En Catalunya, los Mossos d'Esquadra serán los principales responsables de garantizar la seguridad de los visitantes que acudan a ver el eclipse</h2><h2 class=\"item\">A principios de agosto se pondrán en marcha comisiones específicas para vigilar el riesgo de incendio y las condiciones meteorológicas para el día del evento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260619/municipios-catalanes-tribuna-eclipse-aforo-131605533\">Los 20 municipios catalanes elegidos como 'tribuna del eclipse' tendrán un aforo de más de 50.000 personas: \"Será un espectáculo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aldama, sobre las joyas de Zapatero: \"Son una forma de pago y valen muchísimo más de tres millones de euros\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/aldama-joyas-zapatero-forma-pago-mas-tres-millones/131727019.shtml",
+    "pubDate": "2026-06-23 15:32:08",
+    "category": "",
+    "description": "El empresario asegura que lo que le queda por aportar es todavía “más importante”",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irán y EEUU afrontan la fase más crítica del proceso de paz: ¿Cuáles son los grandes escollos?",
+    "link": "https://www.elperiodico.com/es/internacional/20260623/iran-estados-unidos-negociaciones-escollos-acuerdo-paz-131722301",
+    "pubDate": "2026-06-23 15:30:25",
+    "category": "",
+    "description": "<h2>Washington y Teherán entran en un momento decisivo con la Casa Blanca suspendiendo temporalmente sus sanciones al régimen iraní por primera vez en una década</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Wall Street se tiñe de rojo ante el temor a un pinchazo de la IA: el Nasdaq cede un 3%",
+    "link": "https://www.elperiodico.com/es/economia/20260623/wall-street-tine-rojo-temor-131726906",
+    "pubDate": "2026-06-23 15:29:55",
+    "category": "",
+    "description": "<h2>El desplome del 10% del Kospi surcoreano desata una ola de ventas en las tecnológicas y arrastra los tres principales índices de Wall Street </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuando el feminismo se sienta en el banquillo",
+    "link": "https://www.elperiodico.com/es/opinion/20260623/feminismo-sienta-banquillo-desigualdad-articulo-ana-bernal-trivino-131726241",
+    "pubDate": "2026-06-23 15:26:33",
+    "category": "",
+    "description": "<h2>Resulta llamativo que, en una sociedad donde aún existen asesinatos machistas, agresiones sexuales, brechas económicas y una distribución desigual de los cuidados, la pregunta no sea si la igualdad sigue estando demasiado lejos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un joven de Albal reclama el derecho al ocio tras sufrir discriminación en un centro de experiencias virtuales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260623/joven-albal-reclama-derecho-ocio-discriminacion-centro-experiencias-virtuales-dv-131726128",
+    "pubDate": "2026-06-23 15:25:26",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresa se disculpa tras negar la entrada al joven en silla de ruedas y se compromete a mejorar la accesibilidad para evitar futuras discriminaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Паливна криза дісталася головного нафтового регіону Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4888664-palyvna-kryza-distalasia-holovnoho-naftovoho-rehionu-rosii",
+    "pubDate": "2026-06-23 15:22:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469281.jpg\"> Обмеження на продаж бензину запровадили в головному нафтовидобувному регіоні РФ - Ханти-Мансійському автономномму окрузі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Після ударів по Криму та Москві Циганови почали критикувати Кремль",
+    "link": "https://ua.korrespondent.net/lifestyle/4888566-pislia-udariv-po-krymu-ta-moskvi-tsyhanovy-pochaly-krytykuvaty-kreml",
+    "pubDate": "2026-06-23 15:16:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469111.jpg\">Після серії атак на окупований Крим і російські міста подружжя почало відкрито критикувати російську владу та військове керівництво.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "СБС знищили безпілотні катери РФ із системами Starlink - \"Флеш\"",
+    "link": "https://ua.korrespondent.net/ukraine/4888662-sbs-znyschyly-bezpilotni-katery-rf-iz-systemamy-Starlink-flesh",
+    "pubDate": "2026-06-23 15:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469280.jpg\">Безпілотники, якими росіяни збиралися атакувати українське узбережжя, були виявлені та ліквідовані на підході.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno rechaza asumir responsabilidades políticas por la sentencia contra Ábalos pese a reconocer su gravedad: “Quien la hace la paga”",
+    "link": "https://www.elperiodico.com/es/politica/20260623/gobierno-rechaza-asumir-responsabilidades-abalos-131726296",
+    "pubDate": "2026-06-23 15:14:53",
+    "category": "",
+    "description": "<h2 class=\"item\">“No le restamos gravedad y ya pedimos perdón”, apuntan en Moncloa para defender que no sería proporcionada la dimisión del presidente del Gobierno al haber apartado al exministro antes de iniciarse el procedimiento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260621/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\" target=\"_blank\">Sentencia de Ábalos y Koldo por el caso mascarillas, en directo: última hora y reacciones a las penas de cárcel</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "‘Òh!pera’ celebra su quinta edición con tres nuevas microóperas escritas por Alicia Kopf, Pablo Macho y Pol Guasch",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260623/oh-pera-celebra-quinta-edicion-131725807",
+    "pubDate": "2026-06-23 15:04:10",
+    "category": "",
+    "description": "<h2>Los espectáculos tendrán lugar del 2 al 5 de julio en Fabra i Coats y se enmarcan en la programación del Festival Grec</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ayuda al alquiler del Gobierno para víctimas de violencia de género será de hasta 1.000 euros al mes y durante cinco años",
+    "link": "https://www.elperiodico.com/es/economia/20260623/ayuda-alquiler-gobierno-victimas-violencia-genero-1000-euros-mes-cinco-anos-dv-131725178",
+    "pubDate": "2026-06-23 15:04:09",
+    "category": "",
+    "description": "<h2>El Plan Estatal de Vivienda 2026-2030 recoge ayudas que pueden cubrir hasta el 100% de la renta del alquiler durante un máximo de cinco años para víctimas de violencia de género y otros colectivos vulnerables</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Collboni propondrá aprobar en el pleno de julio la dotación de pistolas táser para la Guardia Urbana",
+    "link": "https://www.elperiodico.com/es/barcelona/20260623/collboni-propondra-aprobar-pleno-dotacion-taser-pistolas-electricas-131725722",
+    "pubDate": "2026-06-23 15:03:39",
+    "category": "",
+    "description": "<h2>Barcelona tiene previsto colocar 500 cámaras de videovigilancia en diversos puntos de la ciudad</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250618/barcelona-taser-pistolas-reglamento-guardia-urbana-118746427\">Barcelona deja la aprobación del reglamento de uso de las pistolas Táser en el aire</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así se fraguó el viraje europeo del Real Madrid",
+    "link": "https://as.com/baloncesto/euroliga/asi-se-fraguo-el-viraje-europeo-del-real-madrid-f202606-n/",
+    "pubDate": "2026-06-23 14:57:29",
+    "category": "Baloncesto",
+    "description": "La Euroliga continuará contando con el Real Madrid como uno de sus activos principales. Atrás queda la idea de la NBA. Unos meses frenéticos entre dos aguas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Через спеку у Франції зупинили АЕС, десятки людей потонули",
+    "link": "https://ua.korrespondent.net/world/4888659-cherez-speku-u-frantsii-zupynyly-aes-desiatky-luidei-potonuly",
+    "pubDate": "2026-06-23 14:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469274.jpg\">У низці регіонів температура сягає або перевищує 40°C, а подекуди може наближатися до 43°C.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Paloma Sánchez-Garnica publicará el 30 de septiembre 'Un hombre de honor', ambientada en el Nueva York de 1968",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260623/paloma-sanchez-garnica-publicara-30-131725254",
     "pubDate": "2026-06-23 14:52:11",
@@ -169,6 +394,15 @@
     "description": "<h2>La policía halló 35 gramos de cocaína, más de 150 de hachís y material para el corte y pesaje de las sustancias estupefacientes</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260417/detenidos-intervencion-65-kilos-hachis-seis-de-cocaina-entregar-baix-llobregat-129216073\">Dos detenidos en la intervención de 65 kilos de hachís y seis de cocaína que tenían previsto entregar en el Baix Llobregat</a></h2>",
     "topic": "пограбування, афера",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Los Mossos detienen a un hombre de 65 años que instaló en su trastero un punto de tráfico de drogas en Cornellà de Llobregat",
+    "link": "https://www.elperiodico.com/es/barcelona/20260623/hombre-65-anos-traficaba-drogas-trastero-mossos-esquadra-131716926",
+    "pubDate": "2026-06-23 14:19:49",
+    "category": "",
+    "description": "<h2>La policía halló 35 gramos de cocaína, más de 150 de hachís y material para el corte y pesaje de las sustancias estupefacientes</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260417/detenidos-intervencion-65-kilos-hachis-seis-de-cocaina-entregar-baix-llobregat-129216073\">Dos detenidos en la intervención de 65 kilos de hachís y seis de cocaína que tenían previsto entregar en el Baix Llobregat</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El Govern defiende \"separar\" la sentencia a Ábalos de la actuación del Gobierno de Sánchez",
