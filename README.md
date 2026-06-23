@@ -1,8 +1,17 @@
-# News for 2026-06-23 16:57
+# News for 2026-06-23 18:09
 
 Previous day: [2026-06-22](./data/2026-06-22.md)
 
 ## ua.korrespondent.net
+17:52 [Путін озвучив "основу" для переговорів з Україною](https://ua.korrespondent.net/world/russia/4888705-putin-ozvuchyv-osnovu-dlia-perehovoriv-z-ukrainoui)<br>
+17:48 [Україна значно наростила експорт електроенергії](https://ua.korrespondent.net/business/economics/4888702-ukraina-znachno-narostyla-eksport-elektroenerhii)<br>
+17:44 [Уряд додатково спрямував 220 млн на потреби ЗСУ](https://ua.korrespondent.net/business/economics/4888699-uriad-dodatkovo-spriamuvav-220-mln-na-potreby-zsu)<br>
+17:31 [Видобуток нафти в Норвегії обігнав прогноз уряду](https://ua.korrespondent.net/business/economics/4888696-vydobutok-nafty-v-norvehii-obihnav-prohnoz-uriadu)<br>
+17:24 [Свята 24 червня 2026 року: іменини, прикмети](https://ua.korrespondent.net/lifestyle/4888636-sviata-24-chervnia-2026-roku-imenyny-prykmety)<br>
+17:24 [У Запоріжжі стався витік хмари аміаку](https://ua.korrespondent.net/city/zaporozhye/4888695-u-zaporizhzhi-stavsia-vytik-khmary-amiaku)<br>
+17:19 [Активісти розшукали 46 дітей із 84 вивезених Росією з інтернату в Олешках](https://ua.korrespondent.net/ukraine/4888693-aktyvisty-rozshukaly-46-ditei-iz-84-vyvezenykh-rosiieui-z-internatu-v-oleshkakh)<br>
+17:08 [Нацбанк оштрафував Укрпошту на 2,5 млн гривень](https://ua.korrespondent.net/business/companies/4888691-natsbank-oshtrafuvav-ukrposhtu-na-25-mln-hryven)<br>
+16:59 [Вдавав із себе туриста: у Молдові затримали співробітника ФСБ](https://ua.korrespondent.net/world/4888689-vdavav-iz-sebe-turysta-u-moldovi-zatrymaly-spivrobitnyka-fsb)<br>
 16:45 [Генштаб: На фронті різко зросла інтенсивність боїв](https://ua.korrespondent.net/ukraine/4888685-henshtab-na-fronti-rizko-zrosla-intensyvnist-boiv)<br>
 16:39 [Путін відреагував на удари ЗСУ по Криму](https://ua.korrespondent.net/world/russia/4888682-putin-vidreahuvav-na-udary-zsu-po-krymu)<br>
 16:31 [В Україні викрили мережу онлайн-казино з обігом 141 млн грн](https://ua.korrespondent.net/ukraine/4888680-v-ukraini-vykryly-merezhu-onlain-kazyno-z-obihom-141-mln-hrn)<br>
@@ -73,10 +82,27 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 00:50 ["Орденопад" триває: від нагород відмовився польський віцемаршалок](https://ua.korrespondent.net/world/4888486-ordenopad-tryvaie-vid-nahorod-vidmovyvsia-polskyi-vitsemarshalok)<br>
 
 ## as.com
+16:27 [El Roig Arena abre sus puertas para la final](https://as.com/baloncesto/acb/el-roig-arena-abre-sus-puertas-para-la-final-f202606-n/)<br>
 14:57 [Así se fraguó el viraje europeo del Real Madrid](https://as.com/baloncesto/euroliga/asi-se-fraguo-el-viraje-europeo-del-real-madrid-f202606-n/)<br>
+13:41 [El Unicaja de Txus Vidorreta: líneas maestras, fichajes...](https://as.com/baloncesto/el-unicaja-de-txus-vidorreta-lineas-maestras-fichajes-f202606-n/)<br>
 03:57 [El Madrid firma con la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-firma-con-la-euroliga-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:07 [Las obras estratégicas impulsadas por el Govern: de la L8 de FGC a la variante de Olot](https://www.elperiodico.com/es/economia/20260623/obras-estrategicas-impulsadas-govern-linea-8-metro-variante-olot-plan-actuaciones-infraestructuras-govern-131728740)<br>
+18:00 [Leire Díez logró que la SEPI aceptara que Tubos Reunidos retrasara la devolución de 10 millones del rescate de 112,8 millones](https://www.elperiodico.com/es/politica/20260623/leire-diez-logro-tubos-reunidos-131732131)<br>
+18:00 [Félix García muestra la reforma del baño que multiplica el espacio sin ampliar metros](https://www.elperiodico.com/es/vida-y-estilo/20260623/felix-garcia-muestra-reforma-bano-dv-131656317)<br>
+17:44 [Donde viven los monstruos](https://www.elperiodico.com/es/opinion/20260623/viven-monstruos-barack-obama-donald-trump-articulo-josep-maria-fonalleras-131731952)<br>
+17:43 [Incendio en la Torre Moeve de Madrid, en directo: última hora del fuego, evacuaciones y estado del edificio](https://www.elperiodico.com/es/sociedad/20260623/humo-torre-moeve-madrid-bomberos-ultima-hora-incendio-humo-torre-moeve-madrid-bomberos-ultima-hora-131732140)<br>
+17:40 [Madrid acogerá un Foro Internacional para la Cultura Palestina este julio en El Prado y el Reina Sofía](https://www.elperiodico.com/es/ocio-y-cultura/20260623/madrid-acogera-foro-internacional-cultura-131731951)<br>
+17:38 [La marca de fabricante impulsa al Grupo IFA hasta una facturación global récord de 45.573 millones en 2025](https://www.elperiodico.com/es/economia/20260623/grupo-ifa-resultados-131732084)<br>
+17:33 [Urtasun reclama 30.000 documentos del archivo de la Fundación Nacional Francisco Franco](https://www.elperiodico.com/es/ocio-y-cultura/20260623/urtasun-reclama-30-000-documentos-131731513)<br>
+17:31 [La fiscalía se abre a acusar al padre del bebé maltratado de intento de homicidio](https://www.elperiodico.com/es/sociedad/20260623/fiscalia-padre-bebe-maltratado-barcelona-vall-dhebron-131728834)<br>
+17:30 [Desalojada la Torre Moeve, una de las cuatro torres de Madrid, por una columna de humo: "Oímos una explosión"](https://www.elperiodico.com/es/sucesos/20260623/alarma-humo-cuatro-torres-madrid-131731676)<br>
+17:24 [La plaga de moscas de Hostalric obliga a cerrar empresas y comercios: "No podemos ni abrir las ventanas"](https://www.elperiodico.com/es/sociedad/20260623/plaga-moscas-hostalric-obliga-cerrar-comercios-131730938)<br>
+17:20 [Barcelona reparte casi 1.400 pulseras térmicas entre sus trabajadores y reorganiza horarios ante el riesgo de golpes de calor](https://www.elperiodico.com/es/barcelona/20260623/barcelona-calor-verano-pulseras-termicas-trabajadores-horarios-131730154)<br>
+17:15 [La Comisión Europea recibe a una delegación de talibanes para acelerar las deportaciones a Afganistán](https://www.elperiodico.com/es/internacional/20260623/comision-europea-talibanes-deportaciones-afganistan-bruselas-131731063)<br>
+17:11 [Barcelona reparte casi 1.400 pulseras contra golpes de calor entre sus trabajadores](https://www.elperiodico.com/es/videos/sociedad/barcelona-reparte-1400-pulseras-contra-golpes-calor-trabajadores-video/131723861.shtml)<br>
+17:08 [Saiz pregunta al portero del Sabadell si sabe lo que ha hecho Pedro Sánchez por el deporte](https://www.elperiodico.com/es/videos/politica/saiz-pregunta-portero-sabadell-pedro-sanchez-deporte/131730684.shtml)<br>
 16:42 [Barcelona ja té operatives les càmeres de vigilància al front marítim i n'instal·larà al Raval i a plaça Reial al juliol](https://www.elperiodico.com/es/videos/sociedad/barcelona-ja-operatives-les-cameres/131729591.shtml)<br>
 16:37 [El Tribunal Supremo pide recortar los plazos de los procesos judiciales sobre la eutanasia](https://www.elperiodico.com/es/sociedad/20260623/tribunal-supremo-pide-recortar-plazos-131729631)<br>
 16:28 [Muere una niña de tres años tras ahogarse en una piscina en Málaga](https://www.elperiodico.com/es/sucesos/20260623/muere-nina-tres-anos-ahogarse-131729319)<br>
