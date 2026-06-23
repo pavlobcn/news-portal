@@ -1,8 +1,27 @@
-# News for 2026-06-23 10:17
+# News for 2026-06-23 12:40
 
 Previous day: [2026-06-22](./data/2026-06-22.md)
 
 ## ua.korrespondent.net
+12:37 [У Польщі повідомили про долю повернутого ордена і захід у Гданську](https://ua.korrespondent.net/world/4888614-u-polschi-povidomyly-pro-dolui-povernutoho-ordena-i-zakhid-u-hdansku)<br>
+12:36 [Син Вікторії та Девіда Бекхемів дебютує в кіно](https://ua.korrespondent.net/lifestyle/4888545-syn-viktorii-ta-devida-bekkhemiv-debuituie-v-kino)<br>
+12:33 [Зінченко припиняє співпрацю з Passion UA](https://ua.korrespondent.net/lifestyle/videoigry/4888609-zinchenko-prypyniaie-spivpratsui-z-Passion-UA)<br>
+12:31 [На Львівщині експосадовиці завдали державі майже 41 млн грн збитків](https://ua.korrespondent.net/ukraine/4888611-na-lvivschyni-eksposadovytsi-zavdaly-derzhavi-maizhe-41-mln-hrn-zbytkiv)<br>
+12:24 [У Запоріжжі затримали дезертира, який працював на ФСБ](https://ua.korrespondent.net/city/zaporozhye/4888608-u-zaporizhzhi-zatrymaly-dezertyra-yakyi-pratsuivav-na-fsb)<br>
+12:20 [НБУ вимагає звільнити гендиректора Укрпошти за профнепридатність](https://ua.korrespondent.net/ukraine/4888606-nbu-vymahaie-zvilnyty-hendyrektora-ukrposhty-za-profneprydatnist)<br>
+12:09 [Туреччина відреагувала на удар дронів РФ по судну в Чорному морі](https://ua.korrespondent.net/world/4888603-turechchyna-vidreahuvala-na-udar-droniv-rf-po-sudnu-v-chornomu-mori)<br>
+12:03 [Трамп анонсував виробництво Patriot і Tomahawk автогігантами США](https://ua.korrespondent.net/world/4888600-tramp-anonsuvav-vyrobnytstvo-Patriot-i-Tomahawk-avtohihantamy-ssha)<br>
+11:59 [У Кривому Розі зросло число жертв російської атаки](https://ua.korrespondent.net/ukraine/4888597-u-kryvomu-rozi-zroslo-chyslo-zhertv-rosiiskoi-ataky)<br>
+11:54 [Борги росіян та бізнесу з податків рекордно зросли](https://ua.korrespondent.net/world/russia/4888596-borhy-rosiian-ta-biznesu-z-podatkiv-rekordno-zrosly)<br>
+11:41 [Скандал з Ощадбанком: Генпрокурор Угорщини піде у відставку](https://ua.korrespondent.net/world/4888590-skandal-z-oschadbankom-henprokuror-uhorschyny-pide-u-vidstavku)<br>
+11:26 [Курс долара стабілізувався, євро падає](https://ua.korrespondent.net/business/financial/4888587-kurs-dolara-stabilizuvavsia-yevro-padaie)<br>
+11:22 [Ексдиректора підприємства підозрюють в ухиленні від сплати 2,3 млрд акцизу](https://ua.korrespondent.net/ukraine/4888585-eksdyrektora-pidpryiemstva-pidozruiuit-v-ukhylenni-vid-splaty-23-mlrd-aktsyzu)<br>
+11:15 [Викрито нові схеми у справі про постачання неякісних мін для ЗСУ](https://ua.korrespondent.net/ukraine/4888580-vykryto-novi-skhemy-u-spravi-pro-postachannia-neiakisnykh-min-dlia-zsu)<br>
+11:04 [Кривий Ріг під ракетним ударом, є жертви](https://ua.korrespondent.net/ukraine/4888577-kryvyi-rih-pid-raketnym-udarom-ye-zhertvy)<br>
+10:57 [Від початку року іноземці отримали менше 4 тис дозволів на роботу в Україні](https://ua.korrespondent.net/ukraine/4888573-vid-pochatku-roku-inozemtsi-otrymaly-menshe-4-tys-dozvoliv-na-robotu-v-ukraini)<br>
+10:46 [Ракети знищили завод у Бєлгородській області - соцмережі](https://ua.korrespondent.net/world/russia/4888568-rakety-znyschyly-zavod-u-bielhorodskii-oblasti-sotsmerezhi)<br>
+10:25 [Удар по Воронежу: стало відомо про жертви](https://ua.korrespondent.net/world/russia/4888564-udar-po-voronezhu-stalo-vidomo-pro-zhertvy)<br>
+10:20 [Росіяни вимагають якнайшвидше закінчити війну будь-яким способом - ЗМІ](https://ua.korrespondent.net/world/russia/4888562-rosiiany-vymahauit-yaknaishvydshe-zakinchyty-viinu-bud-yakym-sposobom-zmi)<br>
 09:56 [Офіційно. NASA підтвердило початок Ель-Ніньйо](https://ua.korrespondent.net/tech/science/4888532-ofitsiino-NASA-pidtverdylo-pochatok-el-ninio)<br>
 09:55 [Гондурас планує закупити дрони в України](https://ua.korrespondent.net/world/4888557-honduras-planuie-zakupyty-drony-v-ukrainy)<br>
 09:46 [Зеленський привітав спецпризначенців СБУ з професійним святом](https://ua.korrespondent.net/ukraine/4888554-zelenskyi-pryvitav-spetspryznachentsiv-sbu-z-profesiinym-sviatom)<br>
@@ -29,6 +48,31 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 03:57 [El Madrid firma con la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-firma-con-la-euroliga-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:34 [¿Es Sant Joan la noche más corta del año? Desmontando un mito](https://www.elperiodico.com/es/sociedad/20260623/sant-joan-noche-mas-corta-ano-solsticio-verano-dv-131713637)<br>
+12:32 [El déficit comercial cae un 11,2% en el primer cuatrimestre, hasta los 16.000 millones](https://www.elperiodico.com/es/economia/20260623/deficit-comercial-cae-11-2-131717380)<br>
+12:32 [Felipe VI advierte contra el dilema de los gobiernos en un "mundo fragmentado": cooperar o caer en "la tentación de replegarse"](https://www.elperiodico.com/es/politica/20260623/felipe-vi-dilema-gobiernos-repliegue-cooperacion-131717357)<br>
+12:31 [Sant Joan 2026 en Sabadell: 20 verbenas, cuatro hogueras y un operativo especial](https://www.elperiodico.com/es/barcelona/20260623/sabadell-despliega-operativo-especial-noche-sant-joan-verbena-hogueras-131538303)<br>
+12:28 [Los estudiantes catalanes suspenden las Matemáticas de la Selectividad: un 4,1, la nota más baja de los últimos años](https://www.elperiodico.com/es/sociedad/20260623/notas-selectividad-pau-2026-cataluna-matematicas-131714758)<br>
+12:27 [El Parlament acuerda tramitar por la vía rápida la ley contra la compra especulativa de vivienda para aprobarla antes de agosto](https://www.elperiodico.com/es/politica/20260623/parlament-tramitar-via-rapida-ley-compra-especulativa-vivienda-antes-verano-131714889)<br>
+12:26 [Tomás Torralbo, mejor nota de la PAU en Barcelona: "Mi madre también fue la mejor alumna de la selectividad en Rumanía"](https://www.elperiodico.com/es/sociedad/20260623/alfonso-torralbo-stanciu-mejor-nota-selectividad-barcelona-madre-mejor-nota-rumania-131714374)<br>
+12:17 [Sant Joan trae novedades en el tiempo: el fenómeno meteorológico que se vivirá durante la verbena](https://www.elperiodico.com/es/tiempo/20260623/ola-calor-verbena-sant-joan-san-juan-cataluna-espana-dv-131711073)<br>
+12:11 [Operación retorno en el Líbano en medio de incógnitas sobre la paz](https://www.elperiodico.com/es/internacional/20260623/operacion-retorno-libano-medio-incognitas-131714827)<br>
+11:54 [Catalunya bate su récord de mayo con 2,4 millones de viajeros hoteleros](https://www.elperiodico.com/es/economia/20260623/catalunya-bate-record-mayo-2-131711692)<br>
+11:54 [El abogado de Ábalos anuncia que pedirán la nulidad de la condena: "La sentencia es irrazonable"](https://www.elperiodico.com/es/videos/politica/abogado-abalos-anuncia-pediran-nulidad-condena/131715490.shtml)<br>
+11:49 [Habitantes de Tiro, en Líbano, regresan a una ciudad marcada por la guerra y dudan de una paz duradera](https://www.elperiodico.com/es/videos/internacional/habitantes-tiro-libano-regresan-ciudad-marcada-guerra-video/131714762.shtml)<br>
+11:39 [El segundo Gobierno de Lituania en menos de dos años cae tras una nueva dimisión](https://www.elperiodico.com/es/internacional/20260623/segundo-gobierno-lituania-anos-cae-131712928)<br>
+11:31 [Sánchez anuncia la mayor inyección en dependencia que superará los 7.200 millones en 2027](https://www.elperiodico.com/es/videos/politica/sanchez-anuncia-mayor-inyeccion-dependencia/131714416.shtml)<br>
+11:29 [El PP exige al PNV que "dé explicaciones" por su posible implicación en la 'trama SEPI'](https://www.elperiodico.com/es/politica/20260623/pp-exige-pnv-explicaciones-posible-131714352)<br>
+11:29 [De entrenar más a entrenar mejor: los nuevos relojes deportivos ponen el foco en la recuperación](https://www.elperiodico.com/es/deportes/20260623/entrenar-entrenar-mejor-nuevos-relojes-131537560)<br>
+11:22 [La ONU exige transparencia a las empresas de IA para que revelen el impacto climático de sus centros de datos](https://www.elperiodico.com/es/internacional/20260623/onu-exige-transparencia-empresas-ia-centros-datos-consumo-energia-agua-contaminacion-inteligencia-artificial-chatgpt-naciones-unidas-131713906)<br>
+11:21 [Pilar, madre de un joven adicto a los videojuegos: "Lo veía cada vez más en su mundo"](https://www.elperiodico.com/es/sociedad/20260623/pilar-madre-joven-adicto-videojuegos-entrevista-dv-131713266)<br>
+11:19 [Joan Torrecillas, mejor nota de la selectividad en Barcelona: "Tras el esfuerzo, ya estoy viviendo el gran verano de mi vida"](https://www.elperiodico.com/es/sociedad/20260623/joan-torrecillas-mejor-nota-selectividad-barcelona-verano-vida-131712030)<br>
+11:19 [Barcelona desalojará las playas a las seis de la mañana este Sant Joan 2026](https://www.elperiodico.com/es/barcelona/20260623/sant-joan-2026-barcelona-desalojo-playas-6h-131607107)<br>
+11:18 [Moeve Fútbol Zone 1x31: La revolución que llega a LaLiga](https://www.elperiodico.com/es/videos/deportes/moeve-futbol-zone-1x31-revolucion/131713710.shtml)<br>
+11:14 [Autorizado el parque eólico marino experimental del golfo de Roses](https://www.elperiodico.com/es/sociedad/20260623/desbloqueado-parque-eolico-marino-experimental-roses-131714372)<br>
+10:57 [Catalunya extienden los avisos por calor hasta el miércoles y señala el Ponent como la zona más afectada por las altas temperaturas](https://www.elperiodico.com/es/sociedad/20260623/cataluna-avisos-calor-martes-miercoles-aemet-temperaturas-131711448)<br>
+10:45 [Laura Tallada, la mejor nota de Selectividad de Catalunya, con un 9,90: "Hay mucho trabajo detrás; se trata de ser constante"](https://www.elperiodico.com/es/sociedad/20260623/laura-tallada-mejor-nota-selectividad-pau-2026-cataluna-131711527)<br>
+10:42 [Barcelona compite con Bangkok para acoger el WorldPride 2030, el mayor festival del Orgullo LGTBIQ+ del mundo](https://www.elperiodico.com/es/barcelona/20260623/barcelona-candidatura-worldpride-2030-orgullo-mundial-131710410)<br>
 10:07 [Por qué los niños dejan de preguntar en la escuela y cómo recuperar el hábito](https://www.elperiodico.com/es/sociedad/20260623/ninos-dejan-preguntar-escuela-recuperar-131710925)<br>
 10:03 [Ola de calor: Tres comunidades autónomas activan el peligro rojo por altas temperaturas y toda España, salvo Canarias, bajo aviso](https://www.elperiodico.com/es/videos/sociedad/ola-calor-tres-comunidades-autonomas-peligro-rojo-altas-temperaturas-video/131710737.shtml)<br>
 10:00 [Ábalos fue el padrino de Sánchez](https://www.elperiodico.com/es/opinion/20260623/abalos-padrino-sanchez-articulo-matias-valles-131694866)<br>
