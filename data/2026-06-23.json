@@ -1,5 +1,104 @@
 [
   {
+    "title": "Українцям у Польщі відмовляють у статусі біженця",
+    "link": "https://ua.korrespondent.net/world/worldabus/4888770-ukraintsiam-u-polschi-vidmovliauit-u-statusi-bizhentsia",
+    "pubDate": "2026-06-23 23:40:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469458.jpg\">Практика поширюється у багатьох міських громадах: посадовці посилюють контроль та прискіпливо вивчають кожну заяву.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Inspeccionan cinco aviones Airbus A380 por sospecha de fisuras en el ala",
+    "link": "https://www.elperiodico.com/es/economia/20260623/inspeccionan-aviones-airbus-a380-fisuras-alas-131742250",
+    "pubDate": "2026-06-23 23:22:14",
+    "category": "",
+    "description": "<h2>Medios franceses señalan que las cinco aeronaves pertenecen a Emirates, aunque el fabricante no lo ha confirmado</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Трампа вразили воєнні успіхи України - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4888766-trampa-vrazyly-voienni-uspikhy-ukrainy-zmi",
+    "pubDate": "2026-06-23 22:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469453.jpg\">Українські урядовці бачать ознаки того, що Трамп стає більш прихильним до посилення підтримки Києва.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ультиматум Білорусі. Як Лукашенко допомагає РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4888768-ultymatum-bilorusi-yak-lukashenko-dopomahaie-rf",
+    "pubDate": "2026-06-23 22:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469454.jpg\">Володимир Зеленський заявив, що Лукашекно має демонтувати ретранслятори, які коригують російські дронові атаки по Україні – а якщо це не буде виконано, то Україна зробить це самостійно.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Varapalo para Trump: el Senado de EEUU vota a favor de detener la guerra de Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260623/varapalo-trump-senado-eeuu-detener-guerra-iran-131741755",
+    "pubDate": "2026-06-23 22:53:15",
+    "category": "",
+    "description": "<h2>Aunque su valor es más simbólico que real, marca el punto de mayor impopularidad del mandatario y refleja las fisuras en el partido republicano</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 20
+  },
+  {
+    "title": "Роналду очолив список найкращих бомбардирів збірної Португалії на ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4888761-ronaldu-ocholyv-spysok-naikraschykh-bombardyriv-zbirnoi-portuhalii-na-chs",
+    "pubDate": "2026-06-23 22:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469448.jpg\">Зірковий форвард обійшов за кількістю голів легенду світового футболу Еусебіу, встановивши новий бомбардирський рекорд.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miles de personas toman el litoral de Barcelona en una verbena de Sant Joan tórrida",
+    "link": "https://www.elperiodico.com/es/barcelona/20260623/miles-personas-toman-litoral-barcelona-verbena-sant-joan-torrida-131729547",
+    "pubDate": "2026-06-23 22:48:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Los barceloneses se han volcado en las hogueras y fiestas de barrio, mientras las playas se abarrotaban sobre todo de turistas y población foránea, que montan sus propias fiestas</h2><h2 class=\"item\">Otros municipios barceloneses también han tenido su epicentro festivo cara al mar, con público más familiar y en los chiringuitos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260621/generalitat-autoriza-64-actos-festivos-131649519\">La Generalitat autoriza 64 actos festivos en las playas por Sant Joan, fiestas mayores y espectáculos de fuegos y drones</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "El Real Madrid se queda",
+    "link": "https://as.com/opinion/el-real-madrid-se-queda-f202606-n/",
+    "pubDate": "2026-06-23 22:38:58",
+    "category": "Baloncesto",
+    "description": "El club blanco renueva por diez años y continúa, pero no en la vieja competición. Esta Euroliga aspira a ser otra. Para eso sí ha servido el desembarco de la NBA.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін згадав Стамбул. Нові заяви про перемовини",
+    "link": "https://ua.korrespondent.net/ukraine/4888764-putin-zghadav-stambul-novi-zaiavy-pro-peremovyny",
+    "pubDate": "2026-06-23 22:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469449.jpg\">Українська сторона вважає, що саме останні воєнні події переконали Трампа в сильнішій позиції Києва порівняно з початком року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Comprobar La Grossa de Sant Joan 2026: resultados y números premiados",
+    "link": "https://www.elperiodico.com/es/la-grossa/20260623/grossa-sant-joan-2026-comprobar-numeros-premiados-resultados-131715032",
+    "pubDate": "2026-06-23 22:36:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/la-grossa/20260622/grossa-revetlla-sant-joan-2026-loteria-dv-131508657\">Horario de la Grossa de Sant Joan 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/la-grossa/20260622/premios-grossa-sant-joan-2026-dv-131680853\">Lista de premios de la Grossa de Sant Joan 2026</a></h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія втратила чверть виробництва бензину - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4888760-rosiia-vtratyla-chvert-vyrobnytstva-benzynu-zmi",
+    "pubDate": "2026-06-23 22:35:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469443.png\">Правлячий режим РФ розглядає різні варіанти підтримки ринку, зокрема, субсидії на імпортне паливо для стримування цін.",
+    "topic": "автомобілі",
+    "topic_match_probability": 45
+  },
+  {
     "title": "Muere un hombre de 68 años por golpe de calor en Almería, la primera víctima en Andalucía este verano",
     "link": "https://www.elperiodico.com/es/sociedad/20260623/muere-hombre-68-anos-golpe-131741373",
     "pubDate": "2026-06-23 22:29:49",
