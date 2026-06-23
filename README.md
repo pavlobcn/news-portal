@@ -1,8 +1,14 @@
-# News for 2026-06-23 15:55
+# News for 2026-06-23 16:57
 
 Previous day: [2026-06-22](./data/2026-06-22.md)
 
 ## ua.korrespondent.net
+16:45 [Генштаб: На фронті різко зросла інтенсивність боїв](https://ua.korrespondent.net/ukraine/4888685-henshtab-na-fronti-rizko-zrosla-intensyvnist-boiv)<br>
+16:39 [Путін відреагував на удари ЗСУ по Криму](https://ua.korrespondent.net/world/russia/4888682-putin-vidreahuvav-na-udary-zsu-po-krymu)<br>
+16:31 [В Україні викрили мережу онлайн-казино з обігом 141 млн грн](https://ua.korrespondent.net/ukraine/4888680-v-ukraini-vykryly-merezhu-onlain-kazyno-z-obihom-141-mln-hrn)<br>
+16:13 [Фрилансерка довірилася ШІ й виграла суд проти компанії](https://ua.korrespondent.net/lifestyle/4888582-frylanserka-dovirylasia-shi-y-vyhrala-sud-proty-kompanii)<br>
+16:04 ["Непросте" розслідування про вибухи під Житомиром завершено - прокурор](https://ua.korrespondent.net/ukraine/4888676-neproste-rozsliduvannia-pro-vybukhy-pid-zhytomyrom-zaversheno-prokuror)<br>
+16:00 [Українці масово освоюють ШІ: як це допомагає заробляти](https://ua.korrespondent.net/articles/4888669-ukraintsi-masovo-osvouiuit-shi-yak-tse-dopomahaie-zarobliaty)<br>
 15:49 [Трамп заявив про рекордний трафік нафти по Ормузу](https://ua.korrespondent.net/world/4888674-tramp-zaiavyv-pro-rekordnyi-trafik-nafty-po-ormuzu)<br>
 15:42 [Суд заарештував квартиру та машиномісце Кулеби](https://ua.korrespondent.net/ukraine/4888671-sud-zaareshtuvav-kvartyru-ta-mashynomistse-kuleby)<br>
 15:39 [Основна артерія ворога. Знищення мосту в Криму](https://ua.korrespondent.net/ukraine/4888666-osnovna-arteriia-voroha-znyschennia-mostu-v-krymu)<br>
@@ -71,6 +77,15 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 03:57 [El Madrid firma con la Euroliga](https://as.com/baloncesto/euroliga/el-madrid-firma-con-la-euroliga-f202606-n/)<br>
 
 ## www.elperiodico.com
+16:42 [Barcelona ja té operatives les càmeres de vigilància al front marítim i n'instal·larà al Raval i a plaça Reial al juliol](https://www.elperiodico.com/es/videos/sociedad/barcelona-ja-operatives-les-cameres/131729591.shtml)<br>
+16:37 [El Tribunal Supremo pide recortar los plazos de los procesos judiciales sobre la eutanasia](https://www.elperiodico.com/es/sociedad/20260623/tribunal-supremo-pide-recortar-plazos-131729631)<br>
+16:28 [Muere una niña de tres años tras ahogarse en una piscina en Málaga](https://www.elperiodico.com/es/sucesos/20260623/muere-nina-tres-anos-ahogarse-131729319)<br>
+16:27 [Preinscripción universitaria en Catalunya 2026: Trámites, plazos y fechas clave](https://www.elperiodico.com/es/sociedad/20260623/preinscripcion-universitaria-cuando-salen-notas-selectividad-cataluna-131273308)<br>
+16:24 [El Govern destinará 140 millones al mantenimiento del parque público de vivienda](https://www.elperiodico.com/es/politica/20260623/govern-vivienda-millones-mantenimiento-parque-publico-131728279)<br>
+16:22 [Laura Bates: "El impacto de ver un 'deepfake' de alguien violándote, como el que me enviaron, es enorme. Se siente real, se ve real, es una violación"](https://www.elperiodico.com/es/ocio-y-cultura/20260623/laura-bates-impacto-ver-deepfake-131728463)<br>
+16:17 [Collboni reactivará las pistolas táser para la Guardia Urbana en el Pleno municipal de julio](https://www.elperiodico.com/es/barcelona/20260623/collboni-reactivara-pistolas-taser-guardia-urbana-pleno-julio-131728266)<br>
+16:11 [Felipe VI llama a la cooperación entre gobiernos para afrontar los riesgos de un "mundo fragmentado"](https://www.elperiodico.com/es/videos/politica/rey-felipe-cooperacion-gobiernos-mundo-fragmentado/131728771.shtml)<br>
+16:08 [España envejece con pocos geriatras: solo 2.000 profesionales ejercen en la sanidad pública](https://www.elperiodico.com/es/sanidad/20260623/espana-envejece-geriatras-profesionales-sanidad-publica-131727221)<br>
 15:54 [Los objetos domésticos](https://www.elperiodico.com/es/opinion/20260623/objetos-domesticos-bicicleta-estatica-articulo-juan-jose-millas-131710040)<br>
 15:51 [Una segunda mujer denuncia a Iñigo Errejón por presunta agresión sexual en 2021](https://www.elperiodico.com/es/videos/politica/segunda-mujer-denuncia-inigo-errejon/131727881.shtml)<br>
 15:47 [Adrián de la Cruz, experto en supervivencia: "Una lata de sardinas va a marcar la diferencia entre que mi salida sea buena o mala"](https://www.elperiodico.com/es/vida-y-estilo/20260623/adrian-experto-supervivencia-lata-sardinas-diferencia-dv-131251260)<br>
@@ -86,6 +101,7 @@ Previous day: [2026-06-22](./data/2026-06-22.md)
 15:04 [‘Òh!pera’ celebra su quinta edición con tres nuevas microóperas escritas por Alicia Kopf, Pablo Macho y Pol Guasch](https://www.elperiodico.com/es/ocio-y-cultura/20260623/oh-pera-celebra-quinta-edicion-131725807)<br>
 15:04 [La ayuda al alquiler del Gobierno para víctimas de violencia de género será de hasta 1.000 euros al mes y durante cinco años](https://www.elperiodico.com/es/economia/20260623/ayuda-alquiler-gobierno-victimas-violencia-genero-1000-euros-mes-cinco-anos-dv-131725178)<br>
 15:03 [Collboni propondrá aprobar en el pleno de julio la dotación de pistolas táser para la Guardia Urbana](https://www.elperiodico.com/es/barcelona/20260623/collboni-propondra-aprobar-pleno-dotacion-taser-pistolas-electricas-131725722)<br>
+15:03 [Barcelona colocará 500 cámaras de videovigilancia: 13 estarán en la rambla del Raval y otras 20 en la plaza Reial](https://www.elperiodico.com/es/barcelona/20260623/barcelona-500-camaras-videovigilancia-rambla-raval-plaza-reial-131725722)<br>
 14:52 [Paloma Sánchez-Garnica publicará el 30 de septiembre 'Un hombre de honor', ambientada en el Nueva York de 1968](https://www.elperiodico.com/es/ocio-y-cultura/20260623/paloma-sanchez-garnica-publicara-30-131725254)<br>
 14:52 [Carmen Serrano, una de las mejores alumnas con un 14 en la PAU: "Al recibir la nota me sentí vacía, tampoco es tan importante"](https://www.elperiodico.com/es/educacion/20260623/carmen-serrano-mejores-alumnas-14-pau-vacia-dv-131158687)<br>
 14:51 [Óscar Marrero, el joven que pasó de no destacar en la ESO a ser el mejor expediente de su universidad: "Una nota no te define"](https://www.elperiodico.com/es/educacion/20260623/oscar-marrero-joven-mejor-expediente-universidad-dv-131445552)<br>

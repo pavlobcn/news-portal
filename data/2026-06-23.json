@@ -1,5 +1,239 @@
 [
   {
+    "title": "Олена Тополя зізналася, що її не влаштовувало в шлюбі з Тарасом Тополею",
+    "link": "https://ua.korrespondent.net/lifestyle/4888594-olena-topolia-ziznalasia-scho-yii-ne-vlashtovuvalo-v-shluibi-z-tarasom-topoleui",
+    "pubDate": "2026-06-23 16:46:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469153.jpg\">Подружжя оголосило про розлучення наприкінці 2025 року після 12 років шлюбу, однак офіційні причини тоді не розкривали.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Генштаб: На фронті різко зросла інтенсивність боїв",
+    "link": "https://ua.korrespondent.net/ukraine/4888685-henshtab-na-fronti-rizko-zrosla-intensyvnist-boiv",
+    "pubDate": "2026-06-23 16:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469317.jpg\">Окрім традиційно \"гарячих\" Покровського і Костянтинівського напрямків, ворог активізувася на Слов’янському напрямку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona ja té operatives les càmeres de vigilància al front marítim i n'instal·larà al Raval i a plaça Reial al juliol",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/barcelona-ja-operatives-les-cameres/131729591.shtml",
+    "pubDate": "2026-06-23 16:42:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін відреагував на удари ЗСУ по Криму",
+    "link": "https://ua.korrespondent.net/world/russia/4888682-putin-vidreahuvav-na-udary-zsu-po-krymu",
+    "pubDate": "2026-06-23 16:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469316.jpg\">Україна намагається \"вплинути на туристичний сезон у Криму, створити проблеми із забезпеченням енергоресурсами\", заявив очільник Кремля.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bolaños carga contra las “difamaciones” de Aldama y reta al PP a “meterlo en las listas”",
+    "link": "https://www.elperiodico.com/es/politica/20260623/bolanos-difamaciones-aldama-listas-pp-131729691",
+    "pubDate": "2026-06-23 16:37:58",
+    "category": "",
+    "description": "<h2>El titular de Justicia cuestiona que el comisionista y nexo corruptor de la trama ataque en entrevistas televisivas al Gobierno “con cuatro millones metidos en el bolsillo”</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El Tribunal Supremo pide recortar los plazos de los procesos judiciales sobre la eutanasia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260623/tribunal-supremo-pide-recortar-plazos-131729631",
+    "pubDate": "2026-06-23 16:37:15",
+    "category": "",
+    "description": "<h2>Tiene como objetivo que el retraso en estos procedimientos no suponga un factor añadido de sufrimiento a la persona solicitante</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Real Madrid prepara la billetera para el que podría ser el traspaso más caro de la historia del femenino",
+    "link": "https://www.elperiodico.com/es/deportes/20260623/real-madrid-prepara-billetera-traspaso-131729209",
+    "pubDate": "2026-06-23 16:35:28",
+    "category": "",
+    "description": "<h2>El club blanco pretende fichar Felicia Schröder, una de las promesas del fútbol sueco, por más de un millón y medio de euros. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "В Україні викрили мережу онлайн-казино з обігом 141 млн грн",
+    "link": "https://ua.korrespondent.net/ukraine/4888680-v-ukraini-vykryly-merezhu-onlain-kazyno-z-obihom-141-mln-hrn",
+    "pubDate": "2026-06-23 16:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469311.jpg\">П’яти фігурантам оголошено підозру. Одним з організаторів тіньового грального бізнесу виявився адвокат.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere una niña de tres años tras ahogarse en una piscina en Málaga",
+    "link": "https://www.elperiodico.com/es/sucesos/20260623/muere-nina-tres-anos-ahogarse-131729319",
+    "pubDate": "2026-06-23 16:28:06",
+    "category": "",
+    "description": "<h2>La menor fue trasladada por sus padres al Hospital del Guadalhorce con síntomas de ahogamiento, pero los sanitarios no pudieron salvarle la vida</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Preinscripción universitaria en Catalunya 2026: Trámites, plazos y fechas clave",
+    "link": "https://www.elperiodico.com/es/sociedad/20260623/preinscripcion-universitaria-cuando-salen-notas-selectividad-cataluna-131273308",
+    "pubDate": "2026-06-23 16:27:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/notas-selectividad-pau/\" target=\"_blank\">Buscador: Cómo saber las notas de la Selectividad en Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260610/selectividad-examen-criminal-matematicas-muerte-dios-filosofia-segundo-dia-catalunya-131249007\" target=\"_blank\">Un examen de Matemáticas \"criminal\" y la \"muerte de dios\" en Filosofía marcan el segundo día de la selectividad en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça ejerce la opción de compra sobre el egipcio Hamza Abdelkarim, al que Flick se llevará de pretemporada",
+    "link": "https://www.elperiodico.com/es/deportes/20260623/barca-ejerce-opcion-compra-egipcio-131729025",
+    "pubDate": "2026-06-23 16:24:50",
+    "category": "",
+    "description": "<h2>El delantero de 18 años se encuentra disputando el Mundial con su selección y ya ha jugado en los dos partidos</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Govern destinará 140 millones al mantenimiento del parque público de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20260623/govern-vivienda-millones-mantenimiento-parque-publico-131728279",
+    "pubDate": "2026-06-23 16:24:05",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260623/parlament-tramitar-via-rapida-ley-compra-especulativa-vivienda-antes-verano-131714889\" target=\"_blank\">El Parlament acuerda tramitar por la vía rápida la ley contra la compra especulativa de vivienda</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260616/comuns-proponen-tipificar-grandes-tenedores-cinco-propiedades-catalunya-131450880\" target=\"_blank\">Los Comuns proponen tipificar como grandes tenedores quienes tengan cinco propiedades en toda Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laura Bates: \"El impacto de ver un 'deepfake' de alguien violándote, como el que me enviaron, es enorme. Se siente real, se ve real, es una violación\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260623/laura-bates-impacto-ver-deepfake-131728463",
+    "pubDate": "2026-06-23 16:22:50",
+    "category": "",
+    "description": "<h2>El ensayo 'La nueva era del machismo' visibiliza el impacto real de los 'deepfakes' y la pornovenganza y sus consecuencias psicológicas y sociales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Qué hacer esta semana en Barcelona: estos son los mejores planes",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260623/hoy-barcelona-agenda-actividades-planes-semana-102304377",
+    "pubDate": "2026-06-23 16:20:00",
+    "category": "",
+    "description": "<h2>Actividades y planes de ocio para la semana del 22 al 28 de junio</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260612/mejores-piscinas-verano-2026-barcelona-precios-horarios-131250271\" target=\"_blank\" rel=\"nofollow\">Guía de las mejores piscinas de Barcelona para el verano de 2026: baratas o exclusivas, con vistas al bosque o al mar</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260615/mundo-today-barcelona-marcha-papa-catalanes-preguntan-pueden-volver-ateos-131411692\">La actualidad del mañana en Barcelona de El Mundo Today</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Collboni reactivará las pistolas táser para la Guardia Urbana en el Pleno municipal de julio",
+    "link": "https://www.elperiodico.com/es/barcelona/20260623/collboni-reactivara-pistolas-taser-guardia-urbana-pleno-julio-131728266",
+    "pubDate": "2026-06-23 16:17:17",
+    "category": "",
+    "description": "<h2>El alcalde insiste en la necesidad de que los agentes dispongan de pistolas eléctricas, tal y como reclaman los mandos policiales</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20250611/guardia-urbana-usara-menores-pistola-electrica-118503028\" target=\"_blank\">La Guardia Urbana no usará las pistolas eléctricas con menores de 14 años y recibirá formación \"especial\" para casos de salud mental</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El arrepentimiento de Ábalos",
+    "link": "https://www.elperiodico.com/es/opinion/20260623/arrepentimiento-abalos-corrupcion-articulo-alex-salmon-131728287",
+    "pubDate": "2026-06-23 16:13:23",
+    "category": "",
+    "description": "<h2>En España la prisión no se entiende como un castigo, sino como una forma de reinserción. Dicho esto: ¿habrá comprendido el exministro el error de sus acciones? </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260622/diez-hechos-probados-condenar-24-anos-jose-luis-abalos-131696276\">Los diez hechos probados que han llevado a las condenas de Ábalos, Koldo y Aldama</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Фрилансерка довірилася ШІ й виграла суд проти компанії",
+    "link": "https://ua.korrespondent.net/lifestyle/4888582-frylanserka-dovirylasia-shi-y-vyhrala-sud-proty-kompanii",
+    "pubDate": "2026-06-23 16:13:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469132.jpg\">Компанію-відповідача представляли професійна юридична фірма з Манчестера та баристер, однак це не завадило клієнтці здобути перемогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На будівництві захисних споруд для Зміївської ТЕС розікрали понад 8 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4888678-na-budivnytstvi-zakhysnykh-sporud-dlia-zmiivskoi-tes-rozikraly-ponad-8-mln",
+    "pubDate": "2026-06-23 16:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469305.jpg\">Споруди призначалися для захисту автотрансформаторів одного з об'єктів критичної інфраструктури Харківщини від атак Росії.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Felipe VI llama a la cooperación entre gobiernos para afrontar los riesgos de un \"mundo fragmentado\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/rey-felipe-cooperacion-gobiernos-mundo-fragmentado/131728771.shtml",
+    "pubDate": "2026-06-23 16:11:43",
+    "category": "",
+    "description": "El Rey alerta del deterioro del orden internacional basado en normas surgido tras las dos guerras mundiales y reivindica el papel de las democracias para alcanzar consensos globales",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España envejece con pocos geriatras: solo 2.000 profesionales ejercen en la sanidad pública",
+    "link": "https://www.elperiodico.com/es/sanidad/20260623/espana-envejece-geriatras-profesionales-sanidad-publica-131727221",
+    "pubDate": "2026-06-23 16:08:57",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre las comunidades con más especialistas figuran la Comunidad de Madrid, Catalunya, Castilla-La Mancha y Aragón</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260623/artrosis-rodilla-reprogramacion-celular-terapia-129570698\">España aplicará para la artrosis de rodilla una nueva técnica que convierte las células en fármacos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las averías eléctricas y los sistemas de emisiones disparan las visitas al taller",
+    "link": "https://www.elperiodico.com/es/motor/20260623/averias-electricas-sistemas-emisiones-disparan-visitas-taller-131717243",
+    "pubDate": "2026-06-23 16:05:55",
+    "category": "",
+    "description": "<h2>El gasto medio por intervención sube hasta los 684 euros en la primera mitad de 2026 debido al aumento de diagnósticos avanzados en vehículos de más de diez años </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "\"Непросте\" розслідування про вибухи під Житомиром завершено - прокурор",
+    "link": "https://ua.korrespondent.net/ukraine/4888676-neproste-rozsliduvannia-pro-vybukhy-pid-zhytomyrom-zaversheno-prokuror",
+    "pubDate": "2026-06-23 16:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469298.jpg\">Потерпілими у справі є 445 осіб, загинули двоє людей та 76 осіб отримали тілесні ушкодження, зруйновано та пошкоджено понад 300 об’єктів, загальна сума збитків перевищує 358 млн грн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kase. O se atreve y da la lista de los artistas favoritos con los que colaboraría",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/kase-o-atreve-da-lista/131728050.shtml",
+    "pubDate": "2026-06-23 16:02:12",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Українці масово освоюють ШІ: як це допомагає заробляти",
+    "link": "https://ua.korrespondent.net/articles/4888669-ukraintsi-masovo-osvouiuit-shi-yak-tse-dopomahaie-zarobliaty",
+    "pubDate": "2026-06-23 16:00:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469291.png\">Штучний інтелект уже не є технологією майбутнього, а реальним інструментом для заробітку. Можливості відкриті як для фахівців, так і для новачків - від створення контенту до запуску власного бізнесу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una tormenta repentina suspende el entrenamiento de la selección española",
+    "link": "https://www.elperiodico.com/es/videos/deportes/tormenta-suspende-entrenamiento-seleccion-espanola-mundial/131728158.shtml",
+    "pubDate": "2026-06-23 15:59:10",
+    "category": "",
+    "description": "Los de De la Fuente continúan con el trabajo en el interior de las instalaciones",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La Justicia blinda el acuerdo de LaLiga con CVC, mientras el Real Madrid presume de una victoria menor",
+    "link": "https://www.elperiodico.com/es/deportes/20260623/justicia-blinda-acuerdo-laliga-cvc-real-madrid-131728175",
+    "pubDate": "2026-06-23 15:56:37",
+    "category": "",
+    "description": "<h2>La Audiencia Provincial del Madrid desestima la pretensión de Florentino Pérez y del Athletic de anular el acuerdo para inyectar cerca de 2.000 millones de euros en la competición, adoptado en 2021</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Los objetos domésticos",
     "link": "https://www.elperiodico.com/es/opinion/20260623/objetos-domesticos-bicicleta-estatica-articulo-juan-jose-millas-131710040",
     "pubDate": "2026-06-23 15:54:15",
@@ -203,6 +437,15 @@
     "pubDate": "2026-06-23 15:03:39",
     "category": "",
     "description": "<h2>Barcelona tiene previsto colocar 500 cámaras de videovigilancia en diversos puntos de la ciudad</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250618/barcelona-taser-pistolas-reglamento-guardia-urbana-118746427\">Barcelona deja la aprobación del reglamento de uso de las pistolas Táser en el aire</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona colocará 500 cámaras de videovigilancia: 13 estarán en la rambla del Raval y otras 20 en la plaza Reial",
+    "link": "https://www.elperiodico.com/es/barcelona/20260623/barcelona-500-camaras-videovigilancia-rambla-raval-plaza-reial-131725722",
+    "pubDate": "2026-06-23 15:03:39",
+    "category": "",
+    "description": "<h2>Coincidiendo con la verbena de Sant Joan, se han puesto en marcha nuevos dispositivos en el frente marítimo con función disuasoria</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260611/drones-playas-videovigilancia-policias-locales-catalunya-renuevan-unidades-especiales-seguridad-131183583\" target=\"_blank\">Drones, playas y videovigilancia: las Policías Locales de Catalunya se renuevan con unidades de seguridad especiales</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
