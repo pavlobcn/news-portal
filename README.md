@@ -1,8 +1,15 @@
-# News for 2026-06-24 14:43
+# News for 2026-06-24 15:44
 
 Previous day: [2026-06-23](./data/2026-06-23.md)
 
 ## ua.korrespondent.net
+15:42 [У МАГАТЕ підтвердили інспекції в Ірані](https://ua.korrespondent.net/world/4888953-u-mahate-pidtverdyly-inspektsii-v-irani)<br>
+15:32 [Солдат КНДР втік до Південної Кореї, подолавши найбільш небезпечний кордон](https://ua.korrespondent.net/world/4888949-soldat-kndr-vtik-do-pivdennoi-korei-podolavshy-naibilsh-nebezpechnyi-kordon)<br>
+15:29 [Україна повернула чотирьох моряків з затриманого Іраном в Ормузькій протоці](https://ua.korrespondent.net/ukraine/4888950-ukraina-povernula-chotyrokh-moriakiv-z-zatrymanoho-iranom-v-ormuzkii-prototsi)<br>
+15:26 [Прокляття з Нідерландів розкрило давньоєгипетський ритуал із демонами](https://ua.korrespondent.net/tech/science/4888947-prokliattia-z-niderlandiv-rozkrylo-davnoiehypetskyi-rytual-iz-demonamy)<br>
+15:07 [Росія втратила 60 тис. тонн боєприпасів на Балтиці](https://ua.korrespondent.net/ukraine/4888945-rosiia-vtratyla-60-tys-tonn-boieprypasiv-na-baltytsi)<br>
+15:04 [На кордоні з Румунією дозволили додатковий пропуск автобусів](https://ua.korrespondent.net/ukraine/4888943-na-kordoni-z-rumuniieui-dozvolyly-dodatkovyi-propusk-avtobusiv)<br>
+14:58 [Росіяни на Херсонщині вбили розміновувача з міжнародної організації](https://ua.korrespondent.net/ukraine/4888941-rosiiany-na-khersonschyni-vbyly-rozminovuvacha-z-mizhnarodnoi-orhanizatsii)<br>
 14:24 [Росія стягує ППО на два периметри - Зеленський](https://ua.korrespondent.net/ukraine/4888935-rosiia-stiahuie-ppo-na-dva-perymetry-zelenskyi)<br>
 14:20 [У Москві масово скуповують тару для пального](https://ua.korrespondent.net/world/russia/4888933-u-moskvi-masovo-skupovuuit-taru-dlia-palnoho)<br>
 13:56 [ЗСУ спростували "захоплення" росіянами Іволжанського на Сумщині](https://ua.korrespondent.net/ukraine/4888928-zsu-sprostuvaly-zakhoplennia-rosiianamy-ivolzhanskoho-na-sumschyni)<br>
@@ -59,6 +66,15 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 04:02 [Ya es historia del baloncesto español: el momento en el que los Thunder draftean a Aday Mara y su reacción](https://as.com/baloncesto/videos/ya-es-historia-del-baloncesto-espanol-el-momento-en-el-que-los-thunder-draftean-a-aday-mara-y-su-reaccion-f202606-v/)<br>
 
 ## www.elperiodico.com
+15:36 [La socimi británica Segro rechaza la OPA de la estadounidense Prologis por 14.600 millones](https://www.elperiodico.com/es/economia/20260624/socimi-britanica-segro-rechaza-opa-prologis-131769694)<br>
+15:14 [Incendio en Sant Quirze Safaja.](https://www.elperiodico.com/es/videos/sociedad/incendio-sant-quirze-safaja/131768844.shtml)<br>
+15:01 [Los Xiquets de Valls hacen saltar la banca en una diada de Sant Joan con el Concurs de Castells en el horizonte](https://www.elperiodico.com/es/tarragona/20260624/xiquets-valls-saltar-banca-diada-131765071)<br>
+15:01 [Las muertes por calor en Barcelona se incrementaron un 57% en 2025 y suman un total de 3.500 víctimas en una década](https://www.elperiodico.com/es/barcelona/20260624/muertes-calor-barcelona-incrementaron-57-2025-suman-total-35000-victimas-decada-131731511)<br>
+15:01 [Gemini, sonido de 360 grados y control del hogar en un solo altavoz, así es el nuevo Google Home Speaker](https://www.elperiodico.com/es/tecnologia/20260624/gemini-sonido-360-grados-google-precio-131669818)<br>
+15:01 [Incendio topográfico en una zona de difícil acceso en Isil (Lleida)](https://www.elperiodico.com/es/videos/sociedad/incendio-topografico-zona-dificil-acceso-isil-lleida/131768198.shtml)<br>
+14:59 [Desalojados 124 internos de una residencia de mayores de Mallorca tras al declararse un incendio](https://www.elperiodico.com/es/sucesos/20260624/desalojados-124-internos-residencia-mayores-131768259)<br>
+14:50 [Un incendio avanza a "alta intensidad" y obliga a confinar Sant Quirze Safaja y un cámping cercano](https://www.elperiodico.com/es/sociedad/20260624/incendio-sant-quirze-safaja-alta-intensidad-camping-131767042)<br>
+14:45 [Los expertos en viajes coinciden: el truco para pagar menos por un billete de avión](https://www.elperiodico.com/es/economia/20260624/vuelo-avion-barato-viaje-ciudad-cerca-destino-final-dv-91783057)<br>
 14:41 [Elisa Mouliaá declara que no quiso calumniar a Íñigo Errejón ni fugarse de la justicia](https://www.elperiodico.com/es/videos/politica/elisa-mouliaa-no-quiso-calumniar-errejon-fugarse-justicia/131767450.shtml)<br>
 14:33 [Un niño inglés sin vacunar genera un nuevo brote de sarampión en Canarias](https://www.elperiodico.com/es/sanidad/20260624/nino-ingles-vacunar-genera-nuevo-131766558)<br>
 14:30 [El rincón más antiguo de Barcelona: nació como Barcino romana y hoy guarda algunos de los edificios más históricos de la ciudad](https://www.elperiodico.com/es/barcelona/20260624/barcelona-historia-barri-gotic-catedral-edad-media-dv-loc-125604125)<br>
