@@ -1,8 +1,14 @@
-# News for 2026-06-24 17:33
+# News for 2026-06-24 18:34
 
 Previous day: [2026-06-23](./data/2026-06-23.md)
 
 ## ua.korrespondent.net
+18:16 [Золото вперше за тривалий час впало в ціні](https://ua.korrespondent.net/business/4888987-zoloto-vpershe-za-tryvalyi-chas-vpalo-v-tsini)<br>
+18:15 [Ціна нафти на мінімумі з початку війни з Іраном](https://ua.korrespondent.net/business/economics/4888986-tsina-nafty-na-minimumi-z-pochatku-viiny-z-iranom)<br>
+18:15 [На Чернігівщині оголосили примусову евакуацію з 12 прикордонних сіл](https://ua.korrespondent.net/ukraine/4888985-na-chernihivschyni-oholosyly-prymusovu-evakuatsiui-z-12-prykordonnykh-sil)<br>
+17:59 [У Криму знищили комплекс РФ для глушіння Starlink](https://ua.korrespondent.net/ukraine/4888981-u-krymu-znyschyly-kompleks-rf-dlia-hlushinnia-Starlink)<br>
+17:49 [Дефіцит бензину: РФ просить пальне у дружніх країн](https://ua.korrespondent.net/world/russia/4888980-defitsyt-benzynu-rf-prosyt-palne-u-druzhnikh-krain)<br>
+17:33 [Атаковано об'єкти Нафтогазу у чотирьох областях](https://ua.korrespondent.net/business/companies/4888977-atakovano-obiekty-naftohazu-u-chotyrokh-oblastiakh)<br>
 17:18 [П'ять російських командирів отримали підозру за удар по Кривому Рогу](https://ua.korrespondent.net/ukraine/4888974-piat-rosiiskykh-komandyriv-otrymaly-pidozru-za-udar-po-kryvomu-rohu)<br>
 17:09 [Швейцарія домовляється про альтернативу американським Patriot](https://ua.korrespondent.net/world/4888972-shveitsariia-domovliaietsia-pro-alternatyvu-amerykanskym-Patriot)<br>
 17:08 [Трамп зробив заяву, щодо платного проходу через Ормуз](https://ua.korrespondent.net/world/4888971-tramp-zrobyv-zaiavu-schodo-platnoho-prokhodu-cherez-ormuz)<br>
@@ -78,6 +84,15 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 04:02 [Ya es historia del baloncesto español: el momento en el que los Thunder draftean a Aday Mara y su reacción](https://as.com/baloncesto/videos/ya-es-historia-del-baloncesto-espanol-el-momento-en-el-que-los-thunder-draftean-a-aday-mara-y-su-reaccion-f202606-v/)<br>
 
 ## www.elperiodico.com
+18:33 [Vox ingresó 16,1 millones de euros en 2025, el 74,4 por cien de origen público](https://www.elperiodico.com/es/politica/20260624/vox-ingreso-16-1-millones-131777290)<br>
+18:28 [El Ibex 35 pierde los 19.400 puntos tras ceder un 0,45%](https://www.elperiodico.com/es/economia/20260624/ibex-35-resultados-bolsa-madrid-miercoles-24-junio-131777052)<br>
+18:27 [La Comisión propone deducciones fiscales en algunas inversiones en I+D para competir con EEUU](https://www.elperiodico.com/es/economia/20260624/comision-propone-deducciones-fiscales-inversiones-i-d-131776946)<br>
+18:26 [Rheinmetall se desploma un 18% en la bolsa alemana y arrastra a la defensa europea](https://www.elperiodico.com/es/economia/20260624/rheinmetall-desploma-18-bolsa-alemana-131776898)<br>
+18:25 [Indra y Santa Bárbara negocian una alianza para impulsar los grandes contratos de artillería](https://www.elperiodico.com/es/economia/20260624/indra-santa-barbara-negocian-alianza-131776863)<br>
+18:20 [Julien Dossena deja la dirección creativa de Paco Rabanne, de Puig](https://www.elperiodico.com/es/vida-y-estilo/20260624/julien-dossena-deja-direccion-creativa-131776500)<br>
+18:00 [Luz verde definitiva de L’Hospitalet para iniciar la remodelación del mercado de Collblanc](https://www.elperiodico.com/es/barcelona/20260624/luz-verde-definitiva-hospitalet-iniciar-remodelacion-mercado-collblanc-131758295)<br>
+17:57 [Rutte aviva el choque entre Trump y Meloni al afirmar que Italia autorizó 500 vuelos militares a Irán](https://www.elperiodico.com/es/internacional/20260624/rutte-trump-meloni-italia-vuelos-militares-iran-131775393)<br>
+17:55 [Una norma europea amenaza con poner en riesgo el suministro de petróleo y subir el precio de la gasolina](https://www.elperiodico.com/es/economia/20260624/norma-europea-amenaza-poner-riesgo-suministro-petroleo-subir-precio-gasolina-2027-131775220)<br>
 17:30 [Una araña construye una trampa accionada por resorte para atrapar una sola especie de hormiga](https://www.elperiodico.com/es/tendencias21/20260624/arana-construye-trampa-accionada-resorte-131774092)<br>
 17:27 [El juez pregunta si los hermanos Amaro Chacón tienen nacionalidad española](https://www.elperiodico.com/es/videos/politica/juez-pregunta-hermanos-amaro-chacon-nacionalidad-espanola/131773933.shtml)<br>
 17:25 [Madrid tendrá en 2050 el calor actual de Marrakech si no se adoptan medidas climáticas](https://www.elperiodico.com/es/tiempo/20260624/madrid-tendra-2050-calor-actual-131773284)<br>
