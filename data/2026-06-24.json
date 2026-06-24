@@ -1,5 +1,131 @@
 [
   {
+    "title": "Crédit Agricole toma el 9,9% del Banco de Crédito Social Cooperativo, cabecera de Grupo Cajamar",
+    "link": "https://www.elperiodico.com/es/economia/20260624/credit-agricole-banco-social-cooperativo-grupo-cajamar-131779641",
+    "pubDate": "2026-06-24 19:30:07",
+    "category": "",
+    "description": "<h2>La entidad española realizará una ampliación de capital de 150 millones para dar entrada a la firma francesa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Скандал у ЗСУ: омбудсмен перевіряє заяви про катування у Скелі",
+    "link": "https://ua.korrespondent.net/ukraine/4889001-skandal-u-zsu-ombudsmen-pereviriaie-zaiavy-pro-katuvannia-u-skeli",
+    "pubDate": "2026-06-24 19:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469918.jpg\">Військова служба правопорядку з'ясовує обставини резонансної справи, зазначив Дмитро Лубінець.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona - Valencia, en directo: cuarto partido de la final de Liga Endesa en vivo",
+    "link": "https://as.com/baloncesto/acb/barcelona-valencia-en-directo-cuarto-partido-de-la-final-de-liga-endesa-en-vivo-f202606-d/",
+    "pubDate": "2026-06-24 19:22:45",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo del cuarto partido de la final de la Liga Endesa entre Barcelona y Valencia; hoy a las 20:00, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un menor de 15 años, detenido por agredir sexualmente a una chica de 19 en una playa de Valencia",
+    "link": "https://www.elperiodico.com/es/sucesos/20260624/menor-15-anos-detenido-agredir-131778922",
+    "pubDate": "2026-06-24 19:15:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El adolescente cometió la agresión tras colocarse al lado de la chica, que estaba sentada en la arena. Fue arrestado por la Policía Nacional en el lugar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La derecha blinda su victoria en las elecciones de Colombia y Perú frente a las denuncias de la izquierda",
+    "link": "https://www.elperiodico.com/es/internacional/20260624/derecha-gana-elecciones-colombia-peru-denuncias-izquierda-131778753",
+    "pubDate": "2026-06-24 19:12:49",
+    "category": "",
+    "description": "<h2>Los triunfos del ultra Abelardo de la Espriella y de Keiko Fujimori presagian tensiones políticas en ambos países</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Iñaki Ortega presenta en Barcelona '¿De verdad quieres ser CEO?', una guía para sobrevivir en la cúpula empresarial",
+    "link": "https://www.elperiodico.com/es/economia/20260624/inaki-ortega-presenta-barcelona-quieres-131778461",
+    "pubDate": "2026-06-24 19:02:59",
+    "category": "",
+    "description": "<h2>El director de LLYC en Madrid defiende que la humildad es clave para evitar la obsolescencia del CEO en un mundo empresarial en constante transformación </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мінськ вимкнув ретранслятори для БпЛА - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4888999-minsk-vymknuv-retransliatory-dlia-bpla-zelenskyi",
+    "pubDate": "2026-06-24 19:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469909.jpg\">Чи були ці ретранслятори фізично демонтовані, наразі невідомо, але фактом є те, що вони більше не коригують російські удари по українській території.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resistir no siempre es vencer",
+    "link": "https://www.elperiodico.com/es/opinion/20260624/resistir-vencer-pedro-sanchez-alberto-nunez-feijoo-articulo-andreu-claret-131777954",
+    "pubDate": "2026-06-24 18:58:16",
+    "category": "",
+    "description": "<h2>Sánchez juega esta carta, haciendo de su gobierno un Fuerte Apache del progresismo y la democracia en una Europa que vira hacia la extrema derecha</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260624/feijoo-apunta-posible-imputacion-sanchez-131752160\">Feijóo acusa a Sánchez de \"cachondearse\" de sus socios y le da \"lecciones\" de limpieza democrática</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cepeda reconoce la victoria de Abelardo de la Espriella en las presidenciales de Colombia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/cepeda-reconoce-victoria-abelardo-espriella/131778032.shtml",
+    "pubDate": "2026-06-24 18:52:00",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La ola de calor remitirá a partir del jueves tras cuatro días de temperaturas extremas y de inéditos avisos rojos en el norte de España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260624/ola-calor-termina-jueves-balance-avisos-rojos-temperaturas-extremas-131774698",
+    "pubDate": "2026-06-24 18:50:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El episodio deja entre el martes y el miércoles los dos días más cálidos jamás registrados en un mes de junio en España y este miércoles, en su coletazo final, ha vuelto a dejar máximas por encima de los 42 grados en País Vasco y Cantabria</h2><h2 class=\"item\">La Agencia Estatal de Meteorología advierte de un cambio de tiempo que podría provocar bajadas de hasta 8 grados en las temperaturas en un solo día</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260624/espana-dias-mas-calido-junio-historia-registros-aemet-131761052\">España acaba de vivir los dos días más cálidos para un mes de junio desde que existen registros</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Свята 25 червня 2026 року: що не можна робити в цей день",
+    "link": "https://ua.korrespondent.net/lifestyle/4888996-sviata-25-chervnia-2026-roku-scho-ne-mozhna-robyty-v-tsei-den",
+    "pubDate": "2026-06-24 18:45:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469901.jpg\">Сьогодні, 25 червня, День митника в Україні та День моряка. До Нового року залишилося 189 днів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Данія передасть Україні 15 000 далекобійних снарядів",
+    "link": "https://ua.korrespondent.net/ukraine/4888995-daniia-peredast-ukraini-15-000-dalekobiinykh-snariadiv",
+    "pubDate": "2026-06-24 18:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469900.jpg\">Далекобійні артилерійські постріли є одним із ключових запитів фронту, зазначив міністр оборони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Новий вкид Росії про втрати ЗСУ є фейком - ЦПД",
+    "link": "https://ua.korrespondent.net/ukraine/4888993-novyi-vkyd-rosii-pro-vtraty-zsu-ye-feikom-tspd",
+    "pubDate": "2026-06-24 18:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469899.png\">Названі пропагандистами \"цифри втрат\", які нібито здобули \"російські хакери\", перевищують загальну чисельність української армії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio obliga a confinar a los vecinos de Sant Quirze Safaja y a un cámping cercano",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-obliga-confinar-vecinos-sant/131777129.shtml",
+    "pubDate": "2026-06-24 18:34:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Vox ingresó 16,1 millones de euros en 2025, el 74,4 por cien de origen público",
     "link": "https://www.elperiodico.com/es/politica/20260624/vox-ingreso-16-1-millones-131777290",
     "pubDate": "2026-06-24 18:33:38",
@@ -140,6 +266,15 @@
     "pubDate": "2026-06-24 17:55:16",
     "category": "",
     "description": "<h2>Repsol y Moeve advierten que el reglamento de metano impedirá comprar petróleo y gas a países que no tengan sistemas de medición y control equivalentes a los de la Unión Europea: \"Solo el 3% de las importaciones de crudo cumpliría\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Euclid capta la foto más grande del corazón de la Vía Láctea, con 60 millones de estrellas",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/euclid-capta-foto-grande-corazon-131774842",
+    "pubDate": "2026-06-24 17:50:31",
+    "category": "",
+    "description": "",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -761,6 +896,15 @@
     "pubDate": "2026-06-24 14:50:48",
     "category": "",
     "description": "<h2 class=\"item\">Los bomberos trabajan en una zona de unas siete hectáreas con 25 dotaciones terrestres y seis medios aéreos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260615/bosques-catalanes-llegan-verano-estresados-131427210\" target=\"_blank\">Los bosques catalanes llegan al verano \"más estresados\" y con más riesgo de arder que hace un año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hlinason, Frey y Font renuevan hasta el 2029",
+    "link": "https://as.com/baloncesto/hlinason-frey-y-font-renuevan-hasta-el-2029-f202606-n/",
+    "pubDate": "2026-06-24 14:48:30",
+    "category": "Bilbao basket",
+    "description": "Hilliard, Petrasek, Normantas y Krampelj hicieron lo propio en Bilbao hasta 2028.",
     "topic": "",
     "topic_match_probability": 0
   },

@@ -1,8 +1,13 @@
-# News for 2026-06-24 18:34
+# News for 2026-06-24 19:35
 
 Previous day: [2026-06-23](./data/2026-06-23.md)
 
 ## ua.korrespondent.net
+19:23 [Скандал у ЗСУ: омбудсмен перевіряє заяви про катування у Скелі](https://ua.korrespondent.net/ukraine/4889001-skandal-u-zsu-ombudsmen-pereviriaie-zaiavy-pro-katuvannia-u-skeli)<br>
+19:02 [Мінськ вимкнув ретранслятори для БпЛА - Зеленський](https://ua.korrespondent.net/ukraine/4888999-minsk-vymknuv-retransliatory-dlia-bpla-zelenskyi)<br>
+18:45 [Свята 25 червня 2026 року: що не можна робити в цей день](https://ua.korrespondent.net/lifestyle/4888996-sviata-25-chervnia-2026-roku-scho-ne-mozhna-robyty-v-tsei-den)<br>
+18:44 [Данія передасть Україні 15 000 далекобійних снарядів](https://ua.korrespondent.net/ukraine/4888995-daniia-peredast-ukraini-15-000-dalekobiinykh-snariadiv)<br>
+18:38 [Новий вкид Росії про втрати ЗСУ є фейком - ЦПД](https://ua.korrespondent.net/ukraine/4888993-novyi-vkyd-rosii-pro-vtraty-zsu-ye-feikom-tspd)<br>
 18:16 [Золото вперше за тривалий час впало в ціні](https://ua.korrespondent.net/business/4888987-zoloto-vpershe-za-tryvalyi-chas-vpalo-v-tsini)<br>
 18:15 [Ціна нафти на мінімумі з початку війни з Іраном](https://ua.korrespondent.net/business/economics/4888986-tsina-nafty-na-minimumi-z-pochatku-viiny-z-iranom)<br>
 18:15 [На Чернігівщині оголосили примусову евакуацію з 12 прикордонних сіл](https://ua.korrespondent.net/ukraine/4888985-na-chernihivschyni-oholosyly-prymusovu-evakuatsiui-z-12-prykordonnykh-sil)<br>
@@ -79,11 +84,19 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 00:46 [Путін шантажує Лукашенко щодо участі у війні - ЗМІ](https://ua.korrespondent.net/world/worldabus/4888777-putin-shantazhuie-lukashenko-schodo-uchasti-u-viini-zmi)<br>
 
 ## as.com
+19:22 [Barcelona - Valencia, en directo: cuarto partido de la final de Liga Endesa en vivo](https://as.com/baloncesto/acb/barcelona-valencia-en-directo-cuarto-partido-de-la-final-de-liga-endesa-en-vivo-f202606-d/)<br>
+14:48 [Hlinason, Frey y Font renuevan hasta el 2029](https://as.com/baloncesto/hlinason-frey-y-font-renuevan-hasta-el-2029-f202606-n/)<br>
 07:07 [¿A qué hora es el Barcelona - Valencia? Canal TV, horario y dónde ver el cuarto partido de la final de la ACB 2025-2026](https://as.com/baloncesto/acb/a-que-hora-es-el-barcelona-valencia-canal-tv-horario-y-donde-ver-el-cuarto-partido-de-la-final-de-la-acb-2025-2026-f202606-n/)<br>
 06:40 [A cuarenta minutos de la gloria](https://as.com/baloncesto/acb/a-cuarenta-minutos-de-la-gloria-f202606-n/)<br>
 04:02 [Ya es historia del baloncesto español: el momento en el que los Thunder draftean a Aday Mara y su reacción](https://as.com/baloncesto/videos/ya-es-historia-del-baloncesto-espanol-el-momento-en-el-que-los-thunder-draftean-a-aday-mara-y-su-reaccion-f202606-v/)<br>
 
 ## www.elperiodico.com
+19:30 [Crédit Agricole toma el 9,9% del Banco de Crédito Social Cooperativo, cabecera de Grupo Cajamar](https://www.elperiodico.com/es/economia/20260624/credit-agricole-banco-social-cooperativo-grupo-cajamar-131779641)<br>
+19:15 [Un menor de 15 años, detenido por agredir sexualmente a una chica de 19 en una playa de Valencia](https://www.elperiodico.com/es/sucesos/20260624/menor-15-anos-detenido-agredir-131778922)<br>
+19:02 [Iñaki Ortega presenta en Barcelona '¿De verdad quieres ser CEO?', una guía para sobrevivir en la cúpula empresarial](https://www.elperiodico.com/es/economia/20260624/inaki-ortega-presenta-barcelona-quieres-131778461)<br>
+18:58 [Resistir no siempre es vencer](https://www.elperiodico.com/es/opinion/20260624/resistir-vencer-pedro-sanchez-alberto-nunez-feijoo-articulo-andreu-claret-131777954)<br>
+18:50 [La ola de calor remitirá a partir del jueves tras cuatro días de temperaturas extremas y de inéditos avisos rojos en el norte de España](https://www.elperiodico.com/es/sociedad/20260624/ola-calor-termina-jueves-balance-avisos-rojos-temperaturas-extremas-131774698)<br>
+18:34 [Un incendio obliga a confinar a los vecinos de Sant Quirze Safaja y a un cámping cercano](https://www.elperiodico.com/es/videos/sucesos/incendio-obliga-confinar-vecinos-sant/131777129.shtml)<br>
 18:33 [Vox ingresó 16,1 millones de euros en 2025, el 74,4 por cien de origen público](https://www.elperiodico.com/es/politica/20260624/vox-ingreso-16-1-millones-131777290)<br>
 18:28 [El Ibex 35 pierde los 19.400 puntos tras ceder un 0,45%](https://www.elperiodico.com/es/economia/20260624/ibex-35-resultados-bolsa-madrid-miercoles-24-junio-131777052)<br>
 18:27 [La Comisión propone deducciones fiscales en algunas inversiones en I+D para competir con EEUU](https://www.elperiodico.com/es/economia/20260624/comision-propone-deducciones-fiscales-inversiones-i-d-131776946)<br>
@@ -93,6 +106,7 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 18:00 [Luz verde definitiva de L’Hospitalet para iniciar la remodelación del mercado de Collblanc](https://www.elperiodico.com/es/barcelona/20260624/luz-verde-definitiva-hospitalet-iniciar-remodelacion-mercado-collblanc-131758295)<br>
 17:57 [Rutte aviva el choque entre Trump y Meloni al afirmar que Italia autorizó 500 vuelos militares a Irán](https://www.elperiodico.com/es/internacional/20260624/rutte-trump-meloni-italia-vuelos-militares-iran-131775393)<br>
 17:55 [Una norma europea amenaza con poner en riesgo el suministro de petróleo y subir el precio de la gasolina](https://www.elperiodico.com/es/economia/20260624/norma-europea-amenaza-poner-riesgo-suministro-petroleo-subir-precio-gasolina-2027-131775220)<br>
+17:50 [Euclid capta la foto más grande del corazón de la Vía Láctea, con 60 millones de estrellas](https://www.elperiodico.com/es/fotos/sociedad/euclid-capta-foto-grande-corazon-131774842)<br>
 17:30 [Una araña construye una trampa accionada por resorte para atrapar una sola especie de hormiga](https://www.elperiodico.com/es/tendencias21/20260624/arana-construye-trampa-accionada-resorte-131774092)<br>
 17:27 [El juez pregunta si los hermanos Amaro Chacón tienen nacionalidad española](https://www.elperiodico.com/es/videos/politica/juez-pregunta-hermanos-amaro-chacon-nacionalidad-espanola/131773933.shtml)<br>
 17:25 [Madrid tendrá en 2050 el calor actual de Marrakech si no se adoptan medidas climáticas](https://www.elperiodico.com/es/tiempo/20260624/madrid-tendra-2050-calor-actual-131773284)<br>
