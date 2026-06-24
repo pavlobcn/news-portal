@@ -1,8 +1,14 @@
-# News for 2026-06-24 16:31
+# News for 2026-06-24 17:33
 
 Previous day: [2026-06-23](./data/2026-06-23.md)
 
 ## ua.korrespondent.net
+17:18 [П'ять російських командирів отримали підозру за удар по Кривому Рогу](https://ua.korrespondent.net/ukraine/4888974-piat-rosiiskykh-komandyriv-otrymaly-pidozru-za-udar-po-kryvomu-rohu)<br>
+17:09 [Швейцарія домовляється про альтернативу американським Patriot](https://ua.korrespondent.net/world/4888972-shveitsariia-domovliaietsia-pro-alternatyvu-amerykanskym-Patriot)<br>
+17:08 [Трамп зробив заяву, щодо платного проходу через Ормуз](https://ua.korrespondent.net/world/4888971-tramp-zrobyv-zaiavu-schodo-platnoho-prokhodu-cherez-ormuz)<br>
+16:50 [Київська електричка відновлює рух повним кільцем навколо столиці](https://ua.korrespondent.net/city/kiev/4888969-kyivska-elektrychka-vidnovluiie-rukh-povnym-kiltsem-navkolo-stolytsi)<br>
+16:40 [У Запоріжжі бомби впали на пляж, постраждали діти](https://ua.korrespondent.net/city/zaporozhye/4888967-u-zaporizhzhi-bomby-vpaly-na-pliazh-postrazhdaly-dity)<br>
+16:32 [Оман відкрив тимчасовий судноплавний шлях в Ормузькій протоці](https://ua.korrespondent.net/world/4888965-oman-vidkryv-tymchasovyi-sudnoplavnyi-shliakh-v-ormuzkii-prototsi)<br>
 16:22 [Стало відомо, чим займеться Стармер після відставки з посади прем'єра](https://ua.korrespondent.net/world/4888962-stalo-vidomo-chym-zaimetsia-starmer-pislia-vidstavky-z-posady-premiera)<br>
 16:16 [Поки Москва тягне час, Крим розсипається: три сценарії війни](https://ua.korrespondent.net/articles/4888960-poky-moskva-tiahne-chas-krym-rozsypaietsia-try-stsenarii-viiny)<br>
 16:13 [Затишшя на шести напрямках фронту - Генштаб](https://ua.korrespondent.net/ukraine/4888957-zatyshshia-na-shesty-napriamkakh-frontu-henshtab)<br>
@@ -72,6 +78,27 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 04:02 [Ya es historia del baloncesto español: el momento en el que los Thunder draftean a Aday Mara y su reacción](https://as.com/baloncesto/videos/ya-es-historia-del-baloncesto-espanol-el-momento-en-el-que-los-thunder-draftean-a-aday-mara-y-su-reaccion-f202606-v/)<br>
 
 ## www.elperiodico.com
+17:30 [Una araña construye una trampa accionada por resorte para atrapar una sola especie de hormiga](https://www.elperiodico.com/es/tendencias21/20260624/arana-construye-trampa-accionada-resorte-131774092)<br>
+17:27 [El juez pregunta si los hermanos Amaro Chacón tienen nacionalidad española](https://www.elperiodico.com/es/videos/politica/juez-pregunta-hermanos-amaro-chacon-nacionalidad-espanola/131773933.shtml)<br>
+17:25 [Madrid tendrá en 2050 el calor actual de Marrakech si no se adoptan medidas climáticas](https://www.elperiodico.com/es/tiempo/20260624/madrid-tendra-2050-calor-actual-131773284)<br>
+17:25 [Bruselas recela de la adquisición de Warner por 110.000 millones por parte de Paramount y sus efectos en el cine europeo](https://www.elperiodico.com/es/ocio-y-cultura/20260624/bruselas-recela-adquisicion-warner-110-131773628)<br>
+17:25 [Un perro fallece al inhalar humo de un incendio en Badalona por un petardo de Sant Joan](https://www.elperiodico.com/es/barcelona/20260624/perro-fallece-inhalar-humo-incendio-badalona-sant-joan-131772693)<br>
+17:22 [VidaCaixa adquiere la Torre MicroBank por 20,2 millones de euros](https://www.elperiodico.com/es/economia/20260624/vidacaixa-adquiere-torre-microbank-20-131773631)<br>
+17:22 [La misión europea Euclid captura la fotografía más grande y detallada del centro de la Vía Láctea con más de 60 millones de estrellas](https://www.elperiodico.com/es/videos/sociedad/mision-europea-euclid-captura-fotografia/131773542.shtml)<br>
+17:18 [Rafael Amargo sorprende con su nuevo rumbo profesional tras la cárcel: "Estoy terminando Psicología"](https://www.elperiodico.com/es/gente/20260624/rafael-amargo-sorprende-nuevo-rumbo-131773399)<br>
+17:07 [Tres generaciones](https://www.elperiodico.com/es/videos/politica/zapatero-audios-tres-generaciones/131772877.shtml)<br>
+17:06 [Conozco a los padres](https://www.elperiodico.com/es/videos/politica/zapatero-audios-conozco-padres/131772817.shtml)<br>
+17:00 [Alta demanda y falta de repuestos ponen en apuros al F-35, el caza deseado en Europa que España no compra](https://www.elperiodico.com/es/politica/20260624/alta-demanda-falta-repuestos-ponen-apuros-caza-f-35-131772586)<br>
+17:00 [VÍDEO: La prueba de pilotos españoles a los mandos de un caza F-35](https://www.elperiodico.com/es/politica/20260624/video-prueba-pilotos-caza-f-35-131772577)<br>
+17:00 [Las familias denuncian el "desierto" de casals y colonias en agosto: "¿Qué hacemos con los niños los que trabajamos?"](https://www.elperiodico.com/es/sociedad/20260624/familias-denuncian-desierto-no-hay-casals-colonias-agosto-conciliacion-verano-131517059)<br>
+17:00 [El eco de la colisión de dos agujeros negros desvela por primera vez el pulso del horizonte de sucesos donde nada, ni siquiera la luz, logra escapar](https://www.elperiodico.com/es/sociedad/20260624/eco-colision-agujeros-negros-horizonte-sucesos-estudio-131769173)<br>
+17:00 [Chupinazo de salida a las colonias de verano: "¡Qué ganas de tirarnos a la piscina y de jugar!"](https://www.elperiodico.com/es/sociedad/20260624/pistoletazo-salida-colonias-verano-fundesplai-piscina-jugar-diversion-131690574)<br>
+17:00 [La soledad, la vejez y las condiciones de vida llevan a que más mujeres que hombres mueran por calor en Barcelona](https://www.elperiodico.com/es/barcelona/20260624/barcelona-calor-muertes-mujeres-mayores-soledad-131741926)<br>
+16:56 [A mis 'amigos para siempre', en Barcelona](https://www.elperiodico.com/es/opinion/20260624/amigos-barcelona-corea-articulo-younghyo-park-131771540)<br>
+16:54 [F-35, el caza que Europa desea y España no compra](https://www.elperiodico.com/es/videos/politica/f-35-caza-europa-desea/131772230.shtml)<br>
+16:48 [¿Te atreves con el test de rubias?](https://www.elperiodico.com/es/vida-y-estilo/20260624/atreves-test-rubias-bc-131772002)<br>
+16:33 [Las muertes por calor en Barcelona se incrementaron un 57% en 2025 y suman un total de 3.500 víctimas en una década](https://www.elperiodico.com/es/videos/sociedad/muertes-calor-barcelona-incrementaron-57/131771038.shtml)<br>
+16:31 [Bruselas propone reforzar Europol ante el auge de los crímenes transfronterizos](https://www.elperiodico.com/es/internacional/20260624/bruselas-comision-europea-reforzar-europol-crimenes-131771462)<br>
 16:19 [Solo un 35% de municipios catalanes disponen del censo de amianto obligatorio](https://www.elperiodico.com/es/sociedad/20260624/municipios-catalanes-disponen-censo-amianto-obligatorio-ley-131761562)<br>
 16:12 [El papa León XIV, a los escritores: "Necesitamos vuestra imaginación y creatividad para crear espacios de libertad y autenticidad"](https://www.elperiodico.com/es/ocio-y-cultura/20260624/papa-leon-xiv-escritores-necesitamos-131769567)<br>
 16:00 [Las empresas no pueden quitarle el plus de libre disposición a un empleado por no contestar mensajes o llamadas en días libres](https://www.elperiodico.com/es/economia/20260624/desconexion-digital-empresas-plus-libre-disponibilidad-no-pueden-retirar-evitar-responder-llamadas-mensajes-131254725)<br>
