@@ -1,8 +1,12 @@
-# News for 2026-06-24 15:44
+# News for 2026-06-24 16:25
 
 Previous day: [2026-06-23](./data/2026-06-23.md)
 
 ## ua.korrespondent.net
+16:16 [Поки Москва тягне час, Крим розсипається: три сценарії війни](https://ua.korrespondent.net/articles/4888960-poky-moskva-tiahne-chas-krym-rozsypaietsia-try-stsenarii-viiny)<br>
+16:13 [Затишшя на шести напрямках фронту - Генштаб](https://ua.korrespondent.net/ukraine/4888957-zatyshshia-na-shesty-napriamkakh-frontu-henshtab)<br>
+16:09 [Рада миру Трампа збереться для "перезавантаження" - ЗМІ](https://ua.korrespondent.net/world/4888956-rada-myru-trampa-zberetsia-dlia-perezavantazhennia-zmi)<br>
+15:55 [Московський НПЗ зупинили до 2027 року після ударів дронів - ЗМІ](https://ua.korrespondent.net/world/russia/4888954-moskovskyi-npz-zupynyly-do-2027-roku-pislia-udariv-droniv-zmi)<br>
 15:42 [У МАГАТЕ підтвердили інспекції в Ірані](https://ua.korrespondent.net/world/4888953-u-mahate-pidtverdyly-inspektsii-v-irani)<br>
 15:32 [Солдат КНДР втік до Південної Кореї, подолавши найбільш небезпечний кордон](https://ua.korrespondent.net/world/4888949-soldat-kndr-vtik-do-pivdennoi-korei-podolavshy-naibilsh-nebezpechnyi-kordon)<br>
 15:29 [Україна повернула чотирьох моряків з затриманого Іраном в Ормузькій протоці](https://ua.korrespondent.net/ukraine/4888950-ukraina-povernula-chotyrokh-moriakiv-z-zatrymanoho-iranom-v-ormuzkii-prototsi)<br>
@@ -66,6 +70,11 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 04:02 [Ya es historia del baloncesto español: el momento en el que los Thunder draftean a Aday Mara y su reacción](https://as.com/baloncesto/videos/ya-es-historia-del-baloncesto-espanol-el-momento-en-el-que-los-thunder-draftean-a-aday-mara-y-su-reaccion-f202606-v/)<br>
 
 ## www.elperiodico.com
+16:19 [Solo un 35% de municipios catalanes disponen del censo de amianto obligatorio](https://www.elperiodico.com/es/sociedad/20260624/municipios-catalanes-disponen-censo-amianto-obligatorio-ley-131761562)<br>
+16:12 [El papa León XIV, a los escritores: "Necesitamos vuestra imaginación y creatividad para crear espacios de libertad y autenticidad"](https://www.elperiodico.com/es/ocio-y-cultura/20260624/papa-leon-xiv-escritores-necesitamos-131769567)<br>
+16:00 [Las empresas no pueden quitarle el plus de libre disposición a un empleado por no contestar mensajes o llamadas en días libres](https://www.elperiodico.com/es/economia/20260624/desconexion-digital-empresas-plus-libre-disponibilidad-no-pueden-retirar-evitar-responder-llamadas-mensajes-131254725)<br>
+15:53 [Haifaa Al-Mansour, directora de 'La mujer sin nombre': "Arabia Saudí está adelantando a países como Egipto en materia de libertades"](https://www.elperiodico.com/es/ocio-y-cultura/20260624/haifaa-mansour-directora-la-mujer-sin-nombre-estreno-131769273)<br>
+15:50 [El abogado de Puigdemont carga contra Rufián: "Es un cobarde mantenido por todos"](https://www.elperiodico.com/es/politica/20260624/abogado-puigdemont-carga-rufian-cobarde-131769380)<br>
 15:36 [La socimi británica Segro rechaza la OPA de la estadounidense Prologis por 14.600 millones](https://www.elperiodico.com/es/economia/20260624/socimi-britanica-segro-rechaza-opa-prologis-131769694)<br>
 15:14 [Incendio en Sant Quirze Safaja.](https://www.elperiodico.com/es/videos/sociedad/incendio-sant-quirze-safaja/131768844.shtml)<br>
 15:01 [Los Xiquets de Valls hacen saltar la banca en una diada de Sant Joan con el Concurs de Castells en el horizonte](https://www.elperiodico.com/es/tarragona/20260624/xiquets-valls-saltar-banca-diada-131765071)<br>
