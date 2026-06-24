@@ -1,5 +1,95 @@
 [
   {
+    "title": "Trump dice que España es un \"desastre\" como socio de la OTAN",
+    "link": "https://www.elperiodico.com/es/internacional/20260624/trump-espana-desastre-socio-otan-131784486",
+    "pubDate": "2026-06-24 22:53:57",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Держдепі вважають, що Україна почала вигравати війну",
+    "link": "https://ua.korrespondent.net/ukraine/4889037-u-derzhdepi-vvazhauit-scho-ukraina-pochala-vyhravaty-viinu",
+    "pubDate": "2026-06-24 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Заступник Марко Рубіо заявив, що цієї зими українцям вдалося \"змінити динаміку\", оскільки тоді вони атакували російську інфраструктуру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У збірній Боснії визначився рекордсмен за кількістю зіграних матчів",
+    "link": "https://ua.korrespondent.net/sport/football/4889038-u-zbirnii-bosnii-vyznachyvsia-rekordsmen-za-kilkistui-zihranykh-matchiv",
+    "pubDate": "2026-06-24 22:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470017.jpg\">Гравець збірної Боснії Едін Джеко проводить на полі свій 150-й матч у футболці національної команди.",
+    "topic": "спорт",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Resumen del Barça vs Valencia Basket, final de la Liga Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-barca-vs-valencia-basket-final-de-la-liga-endesa-f202606-v-2/",
+    "pubDate": "2026-06-24 22:25:40",
+    "category": "Liga ACB",
+    "description": "El conjunto de Pedro Martínez se hizo con la victoria final y es el nuevo campeón de liga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС дасть Україні €3,2 бюджетної підтримки замість грошей на дрони",
+    "link": "https://ua.korrespondent.net/ukraine/4889035-yes-dast-ukraini-32-buidzhetnoi-pidtrymky-zamist-hroshei-na-drony",
+    "pubDate": "2026-06-24 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470018.jpg\">Усупереч попереднім заявам, перший транш 90-мільярдного кредиту ЄС піде на допомогу бюджету, а не на виробництво безпілотників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Estoy feliz de dejar al Estudiantes en buenas manos”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/estoy-feliz-de-dejar-al-estudiantes-en-buenas-manos-f202606-n/",
+    "pubDate": "2026-06-24 22:23:17",
+    "category": "Baloncesto",
+    "description": "Ignacio Triana, presidente del conjunto colegial, explicó en una reunión abierta a accionistas y aficionados la venta de club a Diego Megía.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jean Montero, MVP de la final",
+    "link": "https://as.com/baloncesto/acb/jean-montero-mvp-de-la-final-f202606-n/",
+    "pubDate": "2026-06-24 22:09:42",
+    "category": "Baloncesto",
+    "description": "El dominicano ha cerrado esta serie por el título con 23,7 puntos y 5,5 asistencias para 30,2 de valoración.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Blindar a perpetuidad la VPO, el origen del nuevo 'encontronazo' del Gobierno y las comunidades del PP",
+    "link": "https://www.elperiodico.com/es/economia/20260624/plan-estatal-vivienda-perpetuidad-vpo-131779317",
+    "pubDate": "2026-06-24 22:00:11",
+    "category": "",
+    "description": "<h2>A efectos prácticos el reparto de los fondos continuará con normalidad y Ejecutivo y comunidades deberán pactar en qué gastan los recursos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Valencia, campeón de Liga",
+    "link": "https://as.com/baloncesto/acb/el-valencia-campeon-de-liga-f202606-n/",
+    "pubDate": "2026-06-24 21:56:21",
+    "category": "Baloncesto",
+    "description": "El equipo taronja vuelve a vencer en el Palau y celebra la segunda Liga Endesa de su historia, nueve años después.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Верховний суд підтвердив законність санкцій щодо митрополита УПЦ МП",
+    "link": "https://ua.korrespondent.net/ukraine/4889032-verkhovnyi-sud-pidtverdyv-zakonnist-sanktsii-schodo-mytropolyta-upts-mp",
+    "pubDate": "2026-06-24 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469998.jpg\">Верховний суд підтвердив законність застосування санкцій до митрополита Роменського і Буринського Іосифа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Valencia gana la ACB y pone fin a otro proyecto fallido del Barça",
     "link": "https://www.elperiodico.com/es/deportes/20260624/valencia-gana-acb-pone-proyecto-131780500",
     "pubDate": "2026-06-24 21:50:02",
@@ -16,6 +106,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469986.jpg\">У команді привітали гравця з таким досягненням, відзначивши, що цей асист залишив незабутнє враження.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Palmarés ACB: ¿cuántas veces ha ganado el Valencia Basket y quién tiene más títulos?",
+    "link": "https://as.com/baloncesto/acb/palmares-acb-cuantas-veces-ha-ganado-el-valencia-basket-y-quien-tiene-mas-titulos-f202606-n/",
+    "pubDate": "2026-06-24 21:44:26",
+    "category": "Palmarés deportivo",
+    "description": "El equipo taronja logró en el Palau la segunda Liga de su historia tras la lograda, también con Pedro Martínez en el banquillo, en 2017.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Зеленський доручив завдавати ударів по РФ на випередження",
