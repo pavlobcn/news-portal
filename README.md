@@ -1,8 +1,9 @@
-# News for 2026-06-24 08:27
+# News for 2026-06-24 09:32
 
 Previous day: [2026-06-23](./data/2026-06-23.md)
 
 ## ua.korrespondent.net
+08:55 [Генштаб назвав найактивніші напрямки фронту](https://ua.korrespondent.net/ukraine/4888825-henshtab-nazvav-naiaktyvnishi-napriamky-frontu)<br>
 07:58 [Повітряні сили розкрили деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4888816-povitriani-syly-rozkryly-detali-nichnoi-ataky-rf)<br>
 07:44 [РФ вдарила по хлібокомбінату на Сумщині і промпідприємству на Полтавщині](https://ua.korrespondent.net/ukraine/4888814-rf-vdaryla-po-khlibokombinatu-na-sumschyni-i-prompidpryiemstvu-na-poltavschyni)<br>
 07:19 [У Резерв+ призупинено деякі сервіси](https://ua.korrespondent.net/ukraine/4888810-u-rezerv-pryzupyneno-deiaki-servisy)<br>
@@ -25,6 +26,13 @@ Previous day: [2026-06-23](./data/2026-06-23.md)
 04:02 [Ya es historia del baloncesto español: el momento en el que los Thunder draftean a Aday Mara y su reacción](https://as.com/baloncesto/videos/ya-es-historia-del-baloncesto-espanol-el-momento-en-el-que-los-thunder-draftean-a-aday-mara-y-su-reaccion-f202606-v/)<br>
 
 ## www.elperiodico.com
+09:20 [Los expertos en energía coinciden: el aire acondicionado puede consumir más de 20 veces que un ventilador](https://www.elperiodico.com/es/economia/20260624/aire-acondicionado-ventilador-consumo-precio-dv-131696795)<br>
+08:56 [Trabajar bajo un "sol criminal", con temperatura récord de 40 grados: "No nos queda otra que apechugar"](https://www.elperiodico.com/es/sociedad/20260624/trabajar-sol-criminal-temperatura-record-131749493)<br>
+08:47 [Montoro (Córdoba) alcanza la temperatura más alta de España con 45,1 grados e iguala el récord histórico para un mes de junio](https://www.elperiodico.com/es/sociedad/20260624/montoro-alcanza-temperatura-alta-espana-131749325)<br>
+08:46 [Comparaciones odiosas](https://www.elperiodico.com/es/tele/20260624/comparaciones-odiosas-131749223)<br>
+08:45 [El tifón Mekkhala y la tormenta tropical Higos avanzan al unísono hacia Japón](https://www.elperiodico.com/es/internacional/20260624/tifon-mekkhala-tormenta-tropical-higos-japon-alerta-131749291)<br>
+08:45 [Julio A. Romero, arquitecto, sobre cómo combatir el calor por la noche: "Es más efectivo un toldo que una cortina"](https://www.elperiodico.com/es/vida-y-estilo/20260624/julio-romero-arquitecto-combatir-calor-noche-dv-131730006)<br>
+08:29 [Daniel Muñoz derribó el muro congoleño para dar la victoria a Colombia](https://www.elperiodico.com/es/deportes/20260624/daniel-munoz-derribo-muro-congoleno-131748956)<br>
 08:21 [Los Thunder seleccionan a Aday Mara y los Knicks a De Larrea para traspasarlo a los Mavericks](https://www.elperiodico.com/es/deportes/20260624/thunder-seleccionan-aday-mara-knicks-131748918)<br>
 08:04 [El MoMa de Nueva York expondrá un proyecto del estudio barcelonés Domestic Data Streamers](https://www.elperiodico.com/es/ocio-y-cultura/20260624/moma-nueva-york-expondra-proyecto-131748650)<br>
 07:57 [Louis Vuitton trae las olas y la brisa del mar a un caluroso París](https://www.elperiodico.com/es/ocio-y-cultura/20260624/louis-vuitton-trae-olas-brisa-131748414)<br>

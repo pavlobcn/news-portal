@@ -108,6 +108,15 @@
     "topic_match_probability": 45
   },
   {
+    "title": "La playa de la Barceloneta llena para celebrar la noche de Sant Joan",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/playa-barceloneta-llena-celebrar-noche-131741435",
+    "pubDate": "2026-06-23 22:31:26",
+    "category": "",
+    "description": "<h2>La playa de la Barceloneta llena para celebrar la noche de Sant Joan</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 45
+  },
+  {
     "title": "Muere un hombre de 68 años por golpe de calor en Almería, la primera víctima en Andalucía este verano",
     "link": "https://www.elperiodico.com/es/sociedad/20260623/muere-hombre-68-anos-golpe-131741373",
     "pubDate": "2026-06-23 22:29:49",
@@ -124,6 +133,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4469442.jpg\">Представниця України пробилася до 1/2 фіналу кваліфікаційного турніру Вімблдону, зробивши ще один крок до основної сітки.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Los diables de Sant Antoni hacen un correfoc a sus vecinos antes de encender la hoguera de Sant Joan",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/diables-sant-antoni-correfoc-vecinos-131741049",
+    "pubDate": "2026-06-23 22:16:00",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 50
   },
   {
     "title": "Sánchez busca rebajar la magnitud del cerco judicial y lanzar en el Congreso la contraofensiva al PP: “Hechos frente a causas políticas”",
