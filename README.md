@@ -1,8 +1,14 @@
-# News for 2026-06-25 12:40
+# News for 2026-06-25 13:47
 
 Previous day: [2026-06-24](./data/2026-06-24.md)
 
 ## ua.korrespondent.net
+13:32 [Спецслужби РФ викрили на кібератаках проти посадовців України, ЄС і США](https://ua.korrespondent.net/ukraine/4889175-spetssluzhby-rf-vykryly-na-kiberatakakh-proty-posadovtsiv-ukrainy-yes-i-ssha)<br>
+13:32 [Дженніфер Еністон заборонила продавати свій лист до Меттью Перрі](https://ua.korrespondent.net/lifestyle/4889178-dzhennifer-eniston-zaboronyla-prodavaty-svii-lyst-do-mettui-perri)<br>
+13:30 [Фінляндія виділила додаткові мільйони на PURL](https://ua.korrespondent.net/world/4889174-finliandiia-vydilyla-dodatkovi-miliony-na-PURL)<br>
+13:06 [Україна отримала партію літаків від Чехії](https://ua.korrespondent.net/ukraine/4889168-ukraina-otrymala-partiui-litakiv-vid-chekhii)<br>
+12:55 [На Кінбурнській косі підняли прапор України](https://ua.korrespondent.net/ukraine/4889164-na-kinburnskii-kosi-pidnialy-prapor-ukrainy)<br>
+12:46 [Удари по НПЗ в Уфі: стало відомо про результати](https://ua.korrespondent.net/ukraine/4889162-udary-po-npz-v-ufi-stalo-vidomo-pro-rezultaty)<br>
 12:32 [Атака на Крим: "влада" впроваджує "вимушені заходи"](https://ua.korrespondent.net/ukraine/4889159-ataka-na-krym-vlada-vprovadzhuie-vymusheni-zakhody)<br>
 12:27 [Затримано росіянина, який коригував удари по Запорізькій області](https://ua.korrespondent.net/ukraine/4889155-zatrymano-rosiianyna-yakyi-koryhuvav-udary-po-zaporizkii-oblasti)<br>
 12:13 [Йде аномальна спека: чи будуть відключення світла](https://ua.korrespondent.net/ukraine/4889152-yde-anomalna-speka-chy-budut-vidkluichennia-svitla)<br>
@@ -54,6 +60,19 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 00:37 [Montero: “Sobre el futuro ya tomaremos las decisiones”](https://as.com/baloncesto/montero-sobre-el-futuro-ya-tomaremos-las-decisiones-f202606-n/)<br>
 
 ## www.elperiodico.com
+13:43 [“Vida” lanza agentes de IA proactivos que recuerdan el contexto y ofrecen resultados reales](https://www.elperiodico.com/es/tendencias21/20260625/vida-lanza-agentes-ia-proactivos-131804865)<br>
+13:43 [Europa da luz verde a tolebrutinib, un fármaco para detener el avance de la esclerosis múltiple](https://www.elperiodico.com/es/sanidad/20260625/europa-da-luz-verde-tolebrutinib-farmaco-detener-avance-esclerosis-multiple-131802491)<br>
+13:40 [La eléctrica de José Elías lanza una OPA voluntaria sobre la noruega Elmera por cerca de 404 millones](https://www.elperiodico.com/es/economia/20260625/electrica-jose-elias-audax-lanza-opa-noruega-elmera-404-millones-131804505)<br>
+13:32 [Mutación sin freno en la política latinoamericana](https://www.elperiodico.com/es/opinion/20260625/mutacion-freno-politica-latinoamericana-131803443)<br>
+13:31 [Líderes nacionales e internacionales se solidarizan con el pueblo de Venezuela tras el terremoto](https://www.elperiodico.com/es/videos/internacional/lideres-nacionales-internacionales-solidarizan-pueblo-venezuela-terremoto-video/131804072.shtml)<br>
+13:30 [La fórmula para limitar la compra especulativa de vivienda en Catalunya, principal escollo en la negociación de la ley](https://www.elperiodico.com/es/politica/20260625/vivienda-limitacion-compra-especulativa-parlament-ayuntamientos-131243878)<br>
+13:30 [La Aemet da por finalizada la ola de calor: desplome térmico y granizo en estas zonas de España](https://www.elperiodico.com/es/tiempo/20260625/aemet-ola-calor-frio-granizo-espana-dv-131797595)<br>
+13:26 [Sumar critica la falta de propuestas de Sánchez y pide una auditoría interna del PSOE](https://www.elperiodico.com/es/politica/20260625/sumar-critica-falta-propuestas-sanchez-131803938)<br>
+13:25 [Ayuso devuelve los ataques de Sánchez en el Congreso: "Volví a recordar que me gusta mucho la fruta"](https://www.elperiodico.com/es/videos/politica/ayuso-devuelve-ataques-sanchez-congreso-gusta-fruta/131803903.shtml)<br>
+13:12 [Las amas de casa pueden solicitar una ayuda de 628 euros al mes tras cumplir los 65 años](https://www.elperiodico.com/es/economia/20260625/amas-de-casa-ayuda-628-euros-mes-65-anos-dv-131802634)<br>
+12:52 [Junts insiste en la 'vía Starmer' y asegura que le "consta" que dirigentes socialistas verían bien la dimisión de Sánchez](https://www.elperiodico.com/es/politica/20260625/junts-via-starmer-pedro-sanchez-dimision-corrupcion-psoe-131797524)<br>
+12:47 [La ministra sueca de Clima y Medioambiente acude a un consejo de la UE con su bebé de tres meses](https://www.elperiodico.com/es/videos/internacional/ministra-sueca-clima-medioambiente-acude-consejo-ue-bebe-tres-meses-video/131801882.shtml)<br>
+12:41 [Solo el 68% de las mujeres de 50 a 69 años se ha hecho una mamografía en los últimos dos años, por debajo del 81,5% registrado en 2017](https://www.elperiodico.com/es/sanidad/20260625/68-mujeres-50-69-anos-131798417)<br>
 12:35 [Este fin de semana son los días en que se hace de noche más tarde en Barcelona](https://www.elperiodico.com/es/barcelona/20260625/barcelona-noche-sol-tarde-junio-solsticio-verano-dv-loc-131794279)<br>
 12:33 [Un hombre baja por la escalera de un edificio dañado por el terremoto en Venezuela y muestra el estado ruinoso del interior del inmueble](https://www.elperiodico.com/es/videos/internacional/hombre-baja-escalera-edificio-danado-terremoto-venezuela-estado-ruina-video/131801216.shtml)<br>
 12:30 [INVERSUS CAPITAL crea escuela tras 16 años de democratización de las inversiones alternativas en España](https://www.elperiodico.com/es/economia/20260625/inversus-capital-crea-escuela-16-bc-131793687)<br>
