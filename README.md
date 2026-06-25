@@ -1,8 +1,13 @@
-# News for 2026-06-25 09:23
+# News for 2026-06-25 10:30
 
 Previous day: [2026-06-24](./data/2026-06-24.md)
 
 ## ua.korrespondent.net
+10:01 [Дружина Юрія Ткача розкрила секрет схуднення на 30 кг](https://ua.korrespondent.net/lifestyle/4889110-druzhyna-yuriia-tkacha-rozkryla-sekret-skhudnennia-na-30-kh)<br>
+09:59 [Венесуела запроваджує надзвичайний стан](https://ua.korrespondent.net/world/4889112-venesuela-zaprovadzhuie-nadzvychainyi-stan)<br>
+09:50 [У Києві ввели екстрені відключення світла](https://ua.korrespondent.net/city/kiev/4889108-u-kyievi-vvely-ekstreni-vidkluichennia-svitla)<br>
+09:33 [Житель Полтавщини отримав довічне за зґвалтував і вбивство дитини](https://ua.korrespondent.net/ukraine/4889105-zhytel-poltavschyny-otrymav-dovichne-za-zgvaltuvav-i-vbyvstvo-dytyny)<br>
+09:28 [Під ударами енергетика п’яти областей - Укренерго](https://ua.korrespondent.net/ukraine/4889102-pid-udaramy-enerhetyka-piaty-oblastei-ukrenerho)<br>
 08:58 [Росіяни обстріляли лікарню у Херсоні, пʼятеро постраждалих](https://ua.korrespondent.net/ukraine/4889097-rosiiany-obstrilialy-likarnui-u-khersoni-piatero-postrazhdalykh)<br>
 08:46 [У Генштабі оприлюднили дані про бої на фронті](https://ua.korrespondent.net/ukraine/4889093-u-henshtabi-opryluidnyly-dani-pro-boi-na-fronti)<br>
 08:18 [У Краснодарському краї РФ горить нафтобаза після атаки дронів](https://ua.korrespondent.net/world/russia/4889090-u-krasnodarskomu-krai-rf-horyt-naftobaza-pislia-ataky-droniv)<br>
@@ -17,6 +22,7 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 03:52 [США вивели з-під санкцій низку росіян](https://ua.korrespondent.net/world/4889065-ssha-vyvely-z-pid-sanktsii-nyzku-rosiian)<br>
 03:24 [Летять звідусіль: Крим під масованою атакою БПЛА](https://ua.korrespondent.net/ukraine/4889063-letiat-zvidusil-krym-pid-masovanoui-atakoui-bpla)<br>
 02:50 [У США констатували небажання РФ закнчувати війну](https://ua.korrespondent.net/ukraine/4889061-u-ssha-konstatuvaly-nebazhannia-rf-zaknchuvaty-viinu)<br>
+02:50 [У США констатували небажання РФ закінчувати війну](https://ua.korrespondent.net/ukraine/4889061-u-ssha-konstatuvaly-nebazhannia-rf-zakinchuvaty-viinu)<br>
 02:23 [У Венесуелі стався потужний землетрус](https://ua.korrespondent.net/world/4889059-u-venesueli-stavsia-potuzhnyi-zemletrus)<br>
 01:51 [У Сумах від атаки БПЛА постраждала дитина](https://ua.korrespondent.net/ukraine/4889057-u-sumakh-vid-ataky-bpla-postrazhdala-dytyna)<br>
 01:22 [Трамп: Зеленський добре справляється](https://ua.korrespondent.net/ukraine/4889055-tramp-zelenskyi-dobre-spravliaietsia)<br>
@@ -29,6 +35,16 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 00:37 [Montero: “Sobre el futuro ya tomaremos las decisiones”](https://as.com/baloncesto/montero-sobre-el-futuro-ya-tomaremos-las-decisiones-f202606-n/)<br>
 
 ## www.elperiodico.com
+10:25 [Feliciano De Santis, presidente de la Sociedad Venezolana de Geólogos (SVG): "Es posible que ocurran réplicas con una magnitud cercana a 5"](https://www.elperiodico.com/es/internacional/20260625/nuevos-terremotos-replicas-venezuela-feliciano-santis-presidente-sociedad-venezolana-geologos-dv-131794283)<br>
+10:23 [Los científicos alertan: "Solo en 2025 se perdieron 92.000 millones de euros en catástrofes naturales asociadas al cambio climático"](https://www.elperiodico.com/es/medio-ambiente/20260625/cientificos-alertan-2025-perdieron-92-131795030)<br>
+10:15 [Claudia Marhuenda, hermana de la fundadora de 'Jot Down': "Es una pionera que supo utilizar la debilidad de los hombres"](https://www.elperiodico.com/es/ocio-y-cultura/20260625/claudia-marhuenda-habla-fundadora-jot-down-hermana-pionera-debilidad-hombres-131642996)<br>
+10:10 [Dolores, 50 años, obligada a renunciar a la tutela de su hijo para conseguir plaza en salud mental: "El sistema es perverso"](https://www.elperiodico.com/es/sociedad/20260625/dolores-50-anos-obligada-renunciar-tutela-hijo-conseguir-plaza-salud-mental-131624623)<br>
+10:08 [El Gobierno mandará personal de la UME a Venezuela y ayuda de la Agencia de Cooperación](https://www.elperiodico.com/es/politica/20260625/gobierno-ofrece-venezuela-enviar-ume-131794151)<br>
+10:00 [No hay que esperar a que "se le pase": estos son los síntomas de un golpe de calor y lo que tienes que hacer](https://www.elperiodico.com/es/sociedad/20260625/sintomas-golpe-de-calor-verano-dv-131760358)<br>
+10:00 [Sant Joan de Déu ya es el primer hospital español que fabrica terapias génicas y celulares para Europa](https://www.elperiodico.com/es/sanidad/20260625/sant-joan-deu-primer-hospital-espanol-terapias-avanzadas-cart-europa-131727748)<br>
+09:48 [Precio del petróleo hoy, 25 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260625/precio-petroleo-hoy-25-junio-dv-131793146)<br>
+09:36 [El Ibex recupera los 19.400 puntos con el petróleo ya en niveles previos a la crisis de Oriente Próximo](https://www.elperiodico.com/es/economia/20260625/ibex-recupera-19-400-puntos-131793256)<br>
+09:35 [Dos terremotos en Venezuela obligan a declarar el estado de emergencia](https://www.elperiodico.com/es/videos/internacional/terremotos-venezuela-obligan-declarar-estado-emergencia/131793211.shtml)<br>
 09:19 [¿Dónde está La Guaira? Así es la 'zona cero' del doble terremoto de Venezuela](https://www.elperiodico.com/es/internacional/20260625/la-guaira-terremoto-venezuela-donde-esta-131791727)<br>
 09:16 [¿Qué es el doblete sísmico que ha ocurrido en Venezuela y por qué se han producido dos terremotos tan violentos en menos de un minuto?](https://www.elperiodico.com/es/sociedad/20260625/doblete-sismico-venezuela-explicacion-131792108)<br>
 09:15 [El sueño frustrado de repoblar el pueblo abandonado de Molinàs: "Ninguno de nosotros tiene la vivienda solucionada diez años después"](https://www.elperiodico.com/es/sociedad/20260625/sueno-frustrado-repoblar-pueblo-abandonado-despoblamiento-molinas-vivienda-dv-131599537)<br>
@@ -47,6 +63,7 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 08:38 [Mapa del lugar del terremoto de Venezuela](https://www.elperiodico.com/es/internacional/20260625/mapa-lugar-terremoto-venezuela-131791211)<br>
 08:37 [Delcy Rodríguez declara el estado de emergencia en Venezuela tras dos fuertes terremotos](https://www.elperiodico.com/es/videos/internacional/delcy-rodriguez-declara-emergencia-venezuela-dos-terremotos-video/131791567.shtml)<br>
 08:20 [Equipos de rescate buscan supervivientes entre los escombros tras los fuertes sismos que han golpeado Venezuela](https://www.elperiodico.com/es/videos/internacional/equipos-rescate-buscan-supervivientes-escombros-fuertes-sismos-venezuela-video/131791026.shtml)<br>
+08:11 [Sánchez muestra su apoyo a Venezuela tras los terremotos y ofrece "toda la ayuda necesaria"](https://www.elperiodico.com/es/politica/20260625/sanchez-muestra-apoyo-venezuela-terremotos-131790754)<br>
 08:10 [He cotizado 20 años a la Seguridad Social: ¿a qué edad me puedo jubilar y cuánto cobraré?](https://www.elperiodico.com/es/economia/20260625/cotizado-20-anos-seguridad-social-edad-jubilacion-sueldo-dv-131594170)<br>
 08:05 [A la venta una casa con ermita privada por 250.000 euros: un inmueble histórico en la huerta de Valencia](https://www.elperiodico.com/es/vida-y-estilo/20260625/venta-casa-ermita-privada-250000-euros-inmueble-historico-huerta-valencia-dv-131761696)<br>
 08:01 [Venezuela busca a la desesperada a los desaparecidos por los terremotos: "¡Antonio, mamá está aquí!"](https://www.elperiodico.com/es/internacional/20260625/terremotos-venezuela-desaparecidos-muertos-caracas-131790570)<br>
