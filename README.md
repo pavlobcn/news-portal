@@ -1,8 +1,11 @@
-# News for 2026-06-25 08:10
+# News for 2026-06-25 09:23
 
 Previous day: [2026-06-24](./data/2026-06-24.md)
 
 ## ua.korrespondent.net
+08:58 [Росіяни обстріляли лікарню у Херсоні, пʼятеро постраждалих](https://ua.korrespondent.net/ukraine/4889097-rosiiany-obstrilialy-likarnui-u-khersoni-piatero-postrazhdalykh)<br>
+08:46 [У Генштабі оприлюднили дані про бої на фронті](https://ua.korrespondent.net/ukraine/4889093-u-henshtabi-opryluidnyly-dani-pro-boi-na-fronti)<br>
+08:18 [У Краснодарському краї РФ горить нафтобаза після атаки дронів](https://ua.korrespondent.net/world/russia/4889090-u-krasnodarskomu-krai-rf-horyt-naftobaza-pislia-ataky-droniv)<br>
 07:50 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4889086-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
 07:20 [Окупанти вдарили по АЗС у Сумах і Запоріжжі, сталися пожежі](https://ua.korrespondent.net/ukraine/4889082-okupanty-vdaryly-po-azs-u-sumakh-i-zaporizhzhi-stalysia-pozhezhi)<br>
 06:54 [Генштаб підрахував нові втрати РФ](https://ua.korrespondent.net/ukraine/4889079-henshtab-pidrakhuvav-novi-vtraty-rf)<br>
@@ -20,7 +23,30 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 00:53 [Військова омбудсманка пропонує розділити Скелю на окремі підрозділи](https://ua.korrespondent.net/ukraine/4889053-viiskova-ombudsmanka-proponuie-rozdilyty-skelui-na-okremi-pidrozdily)<br>
 00:20 [Зволікання ЄС викликають сумніви у щирості - Качка](https://ua.korrespondent.net/ukraine/4889051-zvolikannia-yes-vyklykauit-sumnivy-u-schyrosti-kachka)<br>
 
+## as.com
+09:02 [Satoransky: “Pensaba que íbamos a tener un proyecto para muchos años”](https://as.com/baloncesto/acb/satoransky-pensaba-que-ibamos-a-tener-un-proyecto-para-muchos-anos-f202606-n/)<br>
+01:09 [La fiesta continúa hoy en el Roig Arena](https://as.com/baloncesto/la-fiesta-continua-hoy-en-el-roig-arena-f202606-n/)<br>
+00:37 [Montero: “Sobre el futuro ya tomaremos las decisiones”](https://as.com/baloncesto/montero-sobre-el-futuro-ya-tomaremos-las-decisiones-f202606-n/)<br>
+
 ## www.elperiodico.com
+09:19 [¿Dónde está La Guaira? Así es la 'zona cero' del doble terremoto de Venezuela](https://www.elperiodico.com/es/internacional/20260625/la-guaira-terremoto-venezuela-donde-esta-131791727)<br>
+09:16 [¿Qué es el doblete sísmico que ha ocurrido en Venezuela y por qué se han producido dos terremotos tan violentos en menos de un minuto?](https://www.elperiodico.com/es/sociedad/20260625/doblete-sismico-venezuela-explicacion-131792108)<br>
+09:15 [El sueño frustrado de repoblar el pueblo abandonado de Molinàs: "Ninguno de nosotros tiene la vivienda solucionada diez años después"](https://www.elperiodico.com/es/sociedad/20260625/sueno-frustrado-repoblar-pueblo-abandonado-despoblamiento-molinas-vivienda-dv-131599537)<br>
+09:14 [Terremotos hoy, 25 de junio: consulta la localización y escala de los dos temblores que han sacudido Venezuela](https://www.elperiodico.com/es/internacional/20260625/terremotos-hoy-25-junio-venezuela-dv-131791658)<br>
+09:13 [Así ha quedado La Guaira tras el terremoto que ha sacudido Venezuela](https://www.elperiodico.com/es/videos/internacional/asi-quedado-guaira-terremoto-sacudido-venezuela-video/131792466.shtml)<br>
+09:08 [Palas, carretillas y manos para rescatar a los atrapados por el doble terremoto en Venezuela: "Todo lo hicimos a pulmón"](https://www.elperiodico.com/es/internacional/20260625/terremoto-venezuela-rescate-victimas-atrapados-caracas-131792429)<br>
+09:05 [Laura Cue López, 10 de la PAU de 2012, es abogada y trabaja para un bufete internacional: "Una buena nota ayuda, pero no define el futuro de una persona"](https://www.elperiodico.com/es/sociedad/20260625/laura-cue-lopez-10-pau-abogada-bufete-internacional-dv-131758204)<br>
+09:05 [Cruz Roja reporta daños críticos en su sede en Venezuela pero mantiene atención a víctimas](https://www.elperiodico.com/es/sucesos/20260625/cruz-roja-reporta-danos-criticos-131792379)<br>
+09:05 [La economía española creció un 0,6% en el primer trimestre apoyada en la demanda interna](https://www.elperiodico.com/es/economia/20260625/economia-espanola-crecio-0-6-131792324)<br>
+09:02 [Dos potentes terremotos sacuden Venezuela](https://www.elperiodico.com/es/fotos/internacional/dos-potentes-terremotos-sacuden-venezuela-fotos-131792269)<br>
+08:52 [Estos son los teléfonos de emergencia consular por el doble terremoto en Venezuela](https://www.elperiodico.com/es/internacional/20260625/terremoto-venezuela-telefonos-emergencia-consular-espana-131791957)<br>
+08:50 [Guerra Ucrania - Rusia, en directo, última hora | Propuesta de fuerte compromiso de financiación para Kiev en la cumbre de la OTAN](https://www.elperiodico.com/es/internacional/20260625/guerra-ucrania-rusia-directo-ultima-126605559)<br>
+08:49 [Terremotos en Venezuela, hoy en directo: última hora de los seísmos, fallecidos, heridos y desaparecidos](https://www.elperiodico.com/es/internacional/20260625/terremoto-venezuela-hoy-ultima-hora-directo-131788662)<br>
+08:46 [Terremotos hoy, 25 de junio: consulta dónde ha sido el sismo de Venezuela y su escala en el resto del mundo, en tiempo real](https://www.elperiodico.com/es/internacional/20260625/terremotos-hoy-25-junio-consulta-sismos-espana-resto-mundo-dv-131791640)<br>
+08:40 [El doctor José Abellán avisa sobre el colesterol: "Es necesario, lo malo es tenerlo elevado en sangre"](https://www.elperiodico.com/es/salud/20260625/colesterol-alto-doctor-abellan-hipercolesterolemia-buena-mala-dv-131538666)<br>
+08:38 [Mapa del lugar del terremoto de Venezuela](https://www.elperiodico.com/es/internacional/20260625/mapa-lugar-terremoto-venezuela-131791211)<br>
+08:37 [Delcy Rodríguez declara el estado de emergencia en Venezuela tras dos fuertes terremotos](https://www.elperiodico.com/es/videos/internacional/delcy-rodriguez-declara-emergencia-venezuela-dos-terremotos-video/131791567.shtml)<br>
+08:20 [Equipos de rescate buscan supervivientes entre los escombros tras los fuertes sismos que han golpeado Venezuela](https://www.elperiodico.com/es/videos/internacional/equipos-rescate-buscan-supervivientes-escombros-fuertes-sismos-venezuela-video/131791026.shtml)<br>
 08:10 [He cotizado 20 años a la Seguridad Social: ¿a qué edad me puedo jubilar y cuánto cobraré?](https://www.elperiodico.com/es/economia/20260625/cotizado-20-anos-seguridad-social-edad-jubilacion-sueldo-dv-131594170)<br>
 08:05 [A la venta una casa con ermita privada por 250.000 euros: un inmueble histórico en la huerta de Valencia](https://www.elperiodico.com/es/vida-y-estilo/20260625/venta-casa-ermita-privada-250000-euros-inmueble-historico-huerta-valencia-dv-131761696)<br>
 08:01 [Venezuela busca a la desesperada a los desaparecidos por los terremotos: "¡Antonio, mamá está aquí!"](https://www.elperiodico.com/es/internacional/20260625/terremotos-venezuela-desaparecidos-muertos-caracas-131790570)<br>
