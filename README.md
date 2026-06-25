@@ -1,8 +1,12 @@
-# News for 2026-06-25 02:46
+# News for 2026-06-25 04:41
 
 Previous day: [2026-06-24](./data/2026-06-24.md)
 
 ## ua.korrespondent.net
+04:25 [У США суд заборонив Трампу втручатися у вибори](https://ua.korrespondent.net/world/4889067-u-ssha-sud-zaboronyv-trampu-vtruchatysia-u-vybory)<br>
+03:52 [США вивкли з-під санкцій низку росіян](https://ua.korrespondent.net/world/4889065-ssha-vyvkly-z-pid-sanktsii-nyzku-rosiian)<br>
+03:24 [Летять звідусіль: Крим під масованою атакою БПЛА](https://ua.korrespondent.net/ukraine/4889063-letiat-zvidusil-krym-pid-masovanoui-atakoui-bpla)<br>
+02:50 [У США констатували небажання РФ закнчувати війну](https://ua.korrespondent.net/ukraine/4889061-u-ssha-konstatuvaly-nebazhannia-rf-zaknchuvaty-viinu)<br>
 02:23 [У Венесуелі стався потужний землетрус](https://ua.korrespondent.net/world/4889059-u-venesueli-stavsia-potuzhnyi-zemletrus)<br>
 01:51 [У Сумах від атаки БПЛА постраждала дитина](https://ua.korrespondent.net/ukraine/4889057-u-sumakh-vid-ataky-bpla-postrazhdala-dytyna)<br>
 01:22 [Трамп: Зеленський добре справляється](https://ua.korrespondent.net/ukraine/4889055-tramp-zelenskyi-dobre-spravliaietsia)<br>
