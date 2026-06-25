@@ -1,8 +1,26 @@
-# News for 2026-06-25 19:11
+# News for 2026-06-25 20:23
 
 Previous day: [2026-06-24](./data/2026-06-24.md)
 
 ## ua.korrespondent.net
+20:18 [Актор-військовий Володимир Ращук отримав престижну нагороду від ДПСУ](https://ua.korrespondent.net/lifestyle/4889224-aktor-viiskovyi-volodymyr-raschuk-otrymav-prestyzhnu-nahorodu-vid-dpsu)<br>
+19:59 [Лукашенко заявив про зустріч із представниками Зеленського](https://ua.korrespondent.net/world/4889212-lukashenko-zaiavyv-pro-zustrich-iz-predstavnykamy-zelenskoho)<br>
+19:51 [Командира полку Скеля відсторонили від посади](https://ua.korrespondent.net/ukraine/4889207-komandyra-polku-skelia-vidstoronyly-vid-posady)<br>
+19:46 [Загублене місто майя знайшли в джунглях Мексики](https://ua.korrespondent.net/tech/science/4889204-zahublene-misto-maiia-znaishly-v-dzhunhliakh-meksyky)<br>
+19:45 [ЗСУ звільнили вдвічі більше, ніж окупувала РФ - МО](https://ua.korrespondent.net/ukraine/4889208-zsu-zvilnyly-vdvichi-bilshe-nizh-okupuvala-rf-mo)<br>
+19:41 [Вийшов трейлер нового мультфільму про баранчика Шона](https://ua.korrespondent.net/showbiz/cinema/4889200-vyishov-treiler-novoho-multfilmu-pro-baranchyka-shona)<br>
+19:32 [Зірка Супермена врятувала чоловіка з пораненням завдяки ролі медсестри](https://ua.korrespondent.net/lifestyle/4889193-zirka-supermena-vriatuvala-cholovika-z-poranenniam-zavdiaky-roli-medsestry)<br>
+19:11 [Кінбурнська коса ще не звільнена, це зона бойових дій - ВМС](https://ua.korrespondent.net/ukraine/4889218-kinburnska-kosa-sche-ne-zvilnena-tse-zona-boiovykh-dii-vms)<br>
+17:57 ["Мадяр" розкрив деталі нових ударів по Криму](https://ua.korrespondent.net/ukraine/4889222-madiar-rozkryv-detali-novykh-udariv-po-krymu)<br>
+17:20 [РФ скинула три авіабомби на Дружківку: є загибла і постраждалі](https://ua.korrespondent.net/ukraine/4889215-rf-skynula-try-aviabomby-na-druzhkivku-ye-zahybla-i-postrazhdali)<br>
+16:45 [Майже протягом місяця до окупованих Олешок не надходить продовольство – ООН](https://ua.korrespondent.net/ukraine/4889211-maizhe-protiahom-misiatsia-do-okupovanykh-oleshok-ne-nadkhodyt-prodovolstvo-oon)<br>
+16:01 [Трагедія на Дністрі: з річки дістали тіла дорослого та двох дітей](https://ua.korrespondent.net/ukraine/4889203-trahediia-na-dnistri-z-richky-distaly-tila-dorosloho-ta-dvokh-ditei)<br>
+15:28 [App Store заблокувала російські додатки VK: у Кремлі відреагували](https://ua.korrespondent.net/world/russia/4889201-App-Store-zablokuvala-rosiiski-dodatky-VK-u-kremli-vidreahuvaly)<br>
+15:00 [Франція затримала черговий танкер "тіньового флоту" Росії](https://ua.korrespondent.net/world/4889198-frantsiia-zatrymala-cherhovyi-tanker-tinovoho-flotu-rosii)<br>
+14:30 [Викрито чотирьох агентів Росії, які займалися підпалами](https://ua.korrespondent.net/ukraine/4889192-vykryto-chotyrokh-ahentiv-rosii-yaki-zaimalysia-pidpalamy)<br>
+14:09 [Сили оборони уразили три важливі мости на ТОТ](https://ua.korrespondent.net/ukraine/4889189-syly-oborony-urazyly-try-vazhlyvi-mosty-na-tot)<br>
+13:53 [Мерц оцінив шанси РФ та України на перемогу у війні](https://ua.korrespondent.net/ukraine/politics/4889183-merts-otsinyv-shansy-rf-ta-ukrainy-na-peremohu-u-viini)<br>
+13:47 [Укрпошта заявила про атаку на її ІТ-інфраструктуру](https://ua.korrespondent.net/business/companies/4889181-ukrposhta-zaiavyla-pro-ataku-na-yii-it-infrastrukturu)<br>
 13:32 [Спецслужби РФ викрили на кібератаках проти посадовців України, ЄС і США](https://ua.korrespondent.net/ukraine/4889175-spetssluzhby-rf-vykryly-na-kiberatakakh-proty-posadovtsiv-ukrainy-yes-i-ssha)<br>
 13:32 [Дженніфер Еністон заборонила продавати свій лист до Меттью Перрі](https://ua.korrespondent.net/lifestyle/4889178-dzhennifer-eniston-zaboronyla-prodavaty-svii-lyst-do-mettui-perri)<br>
 13:30 [Фінляндія виділила додаткові мільйони на PURL](https://ua.korrespondent.net/world/4889174-finliandiia-vydilyla-dodatkovi-miliony-na-PURL)<br>
@@ -62,6 +80,14 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 00:37 [Montero: “Sobre el futuro ya tomaremos las decisiones”](https://as.com/baloncesto/montero-sobre-el-futuro-ya-tomaremos-las-decisiones-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:07 [Premio al chivato](https://www.elperiodico.com/es/opinion/20260625/premio-chivato-luis-sanchez-merlo-131820537)<br>
+20:05 [Trump-Netanyahu: ¿ruptura o solo bronca a la vista?](https://www.elperiodico.com/es/opinion/20260625/trump-netanyahu-ruptura-o-bronca-131822265)<br>
+20:00 [Ciudades sin humo adictas a la nicotina: ¿Qué hay detrás del “modelo sueco” que la industria del tabaco quiere llevar a España?](https://www.elperiodico.com/es/economia/20260625/caso-sueco-bolsitas-de-nicotina-snus-alternativas-sin-humo-sanidad-131796356)<br>
+20:00 [Barcelona despliega un plan de ayuda humanitaria a Venezuela tras los terremotos](https://www.elperiodico.com/es/barcelona/20260625/barcelona-despliega-plan-ayuda-humanitaria-venezuela-terremotos-131818358)<br>
+19:43 [Terremoto en Venezuela: qué se sabe, mapas, gráficos, fotos y vídeos del doblete sísmico](https://www.elperiodico.com/es/internacional/20260625/terremoto-venezuela-que-se-sabe-mapas-fotos-videos-131820347)<br>
+19:20 [Las plantas podrían sobrevivir en la Tierra hasta 2 mil millones de años más](https://www.elperiodico.com/es/tendencias21/20260625/plantas-sobrevivir-tierra-2-mil-131821303)<br>
+19:18 [Fira de Barcelona comienza las obras de derribo en Montjuïc para estrenar su gran transformación en 2029](https://www.elperiodico.com/es/barcelona/20260625/barcelona-fira-obras-derribo-pabellones-131818954)<br>
+19:17 [Más 80.000 venezolanos en vilo en Canarias tras el terremoto](https://www.elperiodico.com/es/sociedad/20260625/80-000-venezolanos-vilo-canarias-131821095)<br>
 19:10 [La OCU avisa a los pasajeros: puedes reclamar hasta 600 euros si tu vuelo se retrasa o se cancela](https://www.elperiodico.com/es/economia/20260625/ocu-avisa-pasajeros-reclamar-600-euros-vuelo-retrasado-cancelado-dv-131762083)<br>
 19:10 [El incendio en Tamarite obliga a desalojar tres pueblos y a cortar una carretera mientras varias dotaciones aéreas trabajan en su extinción](https://www.elperiodico.com/es/videos/sucesos/incendio-tamarite-obliga-desalojar-tres/131820126.shtml)<br>
 19:04 [Sant Joan de Déu pide a Salut que se retracte de sus acusaciones contra el hospital por la atención al bebé maltratado en Barcelona](https://www.elperiodico.com/es/sanidad/20260625/bebe-maltratado-barcelona-hospital-sant-joan-de-deu-reclama-conselleria-salut-ninguna-infraccion-archivo-expediente-sancion-131818151)<br>
