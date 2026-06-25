@@ -1,5 +1,302 @@
 [
   {
+    "title": "Kiko Veneno abre una refrescante (a)phónica de Banyoles",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260625/kiko-veneno-abre-refrescante-phonica-131797294",
+    "pubDate": "2026-06-25 11:30:15",
+    "category": "",
+    "description": "<h2>El festival, que se alargará hasta el domingo, programa una treintena de propuestas con L'Arannà, Alosa, gaviota.mp3 o Minibús Intergaláctico</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Citroën Berlingo es un automóvil ideal para disfrutar de una vida activa y un ejemplo de polivalencia para un uso profesional",
+    "link": "https://www.elperiodico.com/es/motor/20260625/citroen-berlingo-automovil-ideal-disfrutar-131729840",
+    "pubDate": "2026-06-25 11:27:30",
+    "category": "",
+    "description": "<h2>En sus diferentes versiones puede ser una herramienta ideal de trabajo, o bien un compañero perfecto para personas con un estilo de vida aventurero</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El violador de los portales, condenado a otros 10 años de cárcel por su primer ataque, en Halloween de 2021",
+    "link": "https://www.elperiodico.com/es/sucesos/20260625/violador-portales-condenado-10-anos-131797313",
+    "pubDate": "2026-06-25 11:26:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La Audiencia de València le impone, además, 10 años de libertad vigilada y 10 más de alejamiento de su víctima, y le obliga a indemnizarla con 52.800 euros por las lesiones y las graves secuelas que continúan aún hoy</h2><h2 class=\"item\">Es la quinta condena al depredador sexual, acusado de 17 violaciones y que ha rogado no ser excarcelado porque sabe que reincidirá; de momento ya suman 24 años de prisión </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alfonso Coelho, entrenador personal: \"A los 60 años, combinar ejercicios de fuerza con caminatas suaves 3 veces por semana es suficiente\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260625/alfonso-coelho-entrenador-personal-consejos-ejercicio-fisico-dv-131607422",
+    "pubDate": "2026-06-25 11:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Entrenar fuerza tres veces por semana ayuda a conservar la autonomía, el equilibrio y la energía\", asegura</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260411/entrenadores-coinciden-tienes-hacer-salud-55-anos-dv-128824978\">Los entrenadores coinciden: “Si quieres mantenerte saludable con más de 55 años tienes que hacer esto”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sam Mendes rueda en Palamós parte de su tetralogía sobre los Beatles",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260625/sam-mendes-rueda-palamos-parte-131796814",
+    "pubDate": "2026-06-25 11:23:19",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Україна і Молдова: різні дороги до ЄС",
+    "link": "https://ua.korrespondent.net/articles/4889135-ukraina-i-moldova-rizni-dorohy-do-yes",
+    "pubDate": "2026-06-25 11:21:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470433.jpg\">Чому після відкриття кластерів Україна та Молдова просуватимуться до євроінтеграції окремо?",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La respiración influye poderosamente en nuestras decisiones económicas",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260625/respiracion-influye-poderosamente-decisiones-economicas-131796997",
+    "pubDate": "2026-06-25 11:17:44",
+    "category": "",
+    "description": "<h2>Una técnica de exhalación prolongada altera la sensibilidad del cerebro a las recompensas, fomentando decisiones financieras más audaces y redefiniendo nuestra comprensión sobre la conexión cuerpo-mente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump ignora la petición de los herederos de Leonard Cohen y utiliza 'Hallelujah' en un mitin",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260625/trump-ignora-peticion-herederos-leonard-131795818",
+    "pubDate": "2026-06-25 11:17:19",
+    "category": "",
+    "description": "<h2>A pesar de las advertencias de los herederos de Leonard Cohen, Donald Trump ha incluido \"Hallelujah\" en la lista de canciones interpretadas en su mitin, junto a otras piezas religiosas</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "На Дніпропетровщині викрито дві групи \"чорних лісорубів\"",
+    "link": "https://ua.korrespondent.net/ukraine/4889132-na-dnipropetrovschyni-vykryto-dvi-hrupy-chornykh-lisorubiv",
+    "pubDate": "2026-06-25 11:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470416.jpg\">Серед незаконно зрубаних дерев - акація, ясен і дуб. Деревину переробляли та збували через Інтернет на території області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sendos cortes de luz y de agua afectan al barrio del Centre de Santa Coloma de Gramenet",
+    "link": "https://www.elperiodico.com/es/barcelona/20260625/sendos-cortes-luz-agua-afectan-barrio-centre-santa-coloma-gramenet-131795981",
+    "pubDate": "2026-06-25 11:16:52",
+    "category": "",
+    "description": "<h2>La interrupción de los servicios, prevista para este jueves por la mañana, afecta al Ayuntamiento colomense, que mantiene su actividad en otras dependencias municipales y mediante el teletrabajo</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260117/corte-luz-sant-marti-endesa-cuatro-horas-125781655\">Una intervención en un transformador deja sin luz a 400 hogares en Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dominica Díez, psicóloga, alerta: \"Vemos una generación de niños con menos paciencia y más irritabilidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260625/dominica-diez-psicologa-alerta-ninos-menos-paciencia-mas-irritabilidad-dv-131760731",
+    "pubDate": "2026-06-25 11:15:27",
+    "category": "",
+    "description": "<h2>La posibilidad de sufrir una adicción puede aumentar si el menor empieza a jugar pronto</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260624/juan-carlos-abalde-director-escuela-educacion-primaria-ninos-depresiones-dv-131585827\">Juan Carlos Abalde, director de escuela: \"Ya vemos en Educación Primaria niños con conductas autolíticas o depresiones, y necesitan tiempo de atención en el aula\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Кам'янському мати приковувала 7-річного сина ланцюгом до батареї",
+    "link": "https://ua.korrespondent.net/ukraine/4889129-u-kamianskomu-maty-prykovuvala-7-richnoho-syna-lantsuihom-do-batarei",
+    "pubDate": "2026-06-25 11:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470415.jpg\">За жорстоке поводження з дитиною 38-річній жінці загрожує до шести років позбавлення волі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El petróleo cae casi un 40% desde sus máximos y borra toda la subida provocada por la guerra en Oriente Medio",
+    "link": "https://www.elperiodico.com/es/economia/20260625/petroleo-cae-40-por-ciento-desde-maximos-guerra-oriente-medio-dv-131795982",
+    "pubDate": "2026-06-25 11:12:42",
+    "category": "",
+    "description": "<h2>El Brent vuelve a niveles previos al conflicto tras la desescalada entre Estados Unidos e Irán y la reducción del temor a una interrupción del suministro mundial</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260625/ibex-recupera-19-400-puntos-131793256\" target=\"_blank\">El Ibex recupera los 19.400 puntos con el petróleo ya en niveles previos a la crisis de Oriente Próximo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стало відомо, чому в Києві аварійні відключення",
+    "link": "https://ua.korrespondent.net/city/kiev/4889128-stalo-vidomo-chomu-v-kyievi-avariini-vidkluichennia",
+    "pubDate": "2026-06-25 11:10:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470414.jpg\">Аварійно-відновлювальні роботи вже розпочаті. Енергетики роблять усе можливе, щоб якнайшвидше повернути пошкоджене обладнання в роботу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Messi y yo, tengo que tatuarme esa imagen para toda la vida\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260625/messi-tatuarme-imagen-vida-131795687",
+    "pubDate": "2026-06-25 11:02:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Se llama Joaquín Bruno. Es periodista argentino de una de las televisiones que retransmite el Mundial de fútbol y estaba, a 20 metros de Lionel Messi cuando la 'Pulga' marcó el segundo gol ante Austria...y lo celebró con él, el primero. Bueno, el primero que estaba allí, tras las redes de Alexander Schlager.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Qué hacer si te encuentras un animal en la carretera: lo que recomienda la DGT y lo que siempre debes evitar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260625/encuentras-animal-carretera-recomienda-dgt-dv-131761033",
+    "pubDate": "2026-06-25 11:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">La clave está en anticiparse, reducir la velocidad y mantener el control</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260618/carretera-bonita-cataluna-365-curvas-tossa-de-mar-sant-feliu-de-guixols-dv-loc-130932532\">Esta es la carretera más bonita de Catalunya: entre acantilados y vistas panorámicas al mar</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Empieza el corte de la L9/10 Nord del metro de Barcelona entre La Sagrera y Onze de Setembre hasta el 6 de septiembre",
+    "link": "https://www.elperiodico.com/es/barcelona/20260625/empieza-corte-l9-l10-metro-sagrera-onze-de-setembre-131764780",
+    "pubDate": "2026-06-25 10:58:00",
+    "category": "",
+    "description": "<h2>El tramo quedará fuera de servicio y se ampliará después hasta Bon Pastor del 31 de agosto al 6 de septiembre</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260611/trambesos-interrumpira-buena-parte-tres-131295178\" target=\"_blank\">El Trambesòs interrumpirá buena parte de sus tres líneas entre el 3 de julio y el 13 de septiembre</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250929/l9-metro-conectara-extremos-2031-final-obras-2032-122078411\" target=\"_blank\">La L9 de metro conectará sus dos extremos en 2031 y se completará en 2032</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PSOE se declara \"harto de filtraciones\" tras hacerse pública la agenda de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260625/psoe-harto-filtraciones-agenda-zapatero-corrupcion-causas-judiciales-131795211",
+    "pubDate": "2026-06-25 10:57:12",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260625/horizonte-electoral-judicial-sanchez-socios-131778129\" target=\"_blank\">El horizonte electoral y judicial amplía la brecha de Sánchez con sus socios</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260624/juez-calama-cita-supuesto-testaferro-zapatero-21-julio-131761221\" target=\"_blank\">El juez Calama cita al supuesto testaferro de Zapatero el próximo 21 de julio</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "На Хмельницькій АЕС проходять обшуки",
+    "link": "https://ua.korrespondent.net/ukraine/4889126-na-khmelnytskii-aes-prokhodiat-obshuky",
+    "pubDate": "2026-06-25 10:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470413.jpg\">Наразі Хмельницька АЕС працює у штатному режимі – слідчі дії не впливають на безпечну експлуатацію об'єкта.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dallas espera a De Larrea",
+    "link": "https://as.com/baloncesto/nba/dallas-espera-a-de-larrea-f202606-n/",
+    "pubDate": "2026-06-25 10:55:14",
+    "category": "Baloncesto",
+    "description": "El vallisoletano, elegido en el número 25 del draft por la franquicia texana, preparado para marcharse a la NBA esta misma temporada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В російській Уфі пролунали вибухи на НПЗ",
+    "link": "https://ua.korrespondent.net/ukraine/4889124-v-rosiiskii-ufi-prolunaly-vybukhy-na-npz",
+    "pubDate": "2026-06-25 10:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470403.jpg\">Під удар могли потрапити два з трьох нафтопереробних заводів, розташованих в Уфі (Башкортостан).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hasta un 30% de las personas atendidas por adicciones pasa gran parte de su tiempo en soledad",
+    "link": "https://www.elperiodico.com/es/sanidad/20260625/personas-atendidas-adicciones-pasa-tiempo-soledad-proyecto-hombre-alcohol-cocaina-131762217",
+    "pubDate": "2026-06-25 10:48:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La cocaína (42,7%) y el alcohol (36,6%) siguen siendo las principales sustancias asociadas al tratamiento en Proyecto Hombre y los problemas de salud mental están más presentes que nunca</h2><h2 class=\"item\">Las personas atendidas tienen una edad media de 40,7 años, frente a los 38,1de 2016; las mujeres representan ya el 21,3% de los casos, frente al 16,2% de hace una década</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260618/cocaina-droga-adiccion-cataluna-tratamiento-131492477\">La cocaína despunta como la droga que motiva más peticiones de ayuda: \"Empecé con 14 años por diversión y me ha robado media vida\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Movistar Estudiantes reestructura su parcela deportiva",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-restructura-su-parcela-deportiva-f202606-n/",
+    "pubDate": "2026-06-25 10:48:20",
+    "category": "Baloncesto",
+    "description": "El conjunto colegial, sumido en un proceso de venta, anunció la vuelta de Íñigo de la Villa como director deportivo del primer equipo masculino.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marcelo Bielsa, el Sísifo del fútbol que se debate entre la locura y la obsesión",
+    "link": "https://www.elperiodico.com/es/deportes/20260625/locura-caos-marcelo-bielsa-uruguay-espana-mundial-2026-131795741",
+    "pubDate": "2026-06-25 10:46:23",
+    "category": "",
+    "description": "<h2>Uruguay se ha desdibujado y el seleccionador llega muy cuestionado al partido ante España en el que se juega todo.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Бущан несподівано залишив саудівський клуб",
+    "link": "https://ua.korrespondent.net/sport/football/4889118-buschan-nespodivano-zalyshyv-saudivskyi-klub",
+    "pubDate": "2026-06-25 10:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470401.jpg\">Пресслужба Аль-Шабаба оприлюднила заяву, в якій подякувала воротарю за професіоналізм, виконану роботу та побажала йому успіхів у подальшій кар'єрі.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Llega un cambio de tiempo que bajará las temperaturas hasta 8 grados en un día",
+    "link": "https://www.elperiodico.com/es/sociedad/20260625/cambio-tiempo-caida-temperaturas-fin-ola-de-calor-espana-131795002",
+    "pubDate": "2026-06-25 10:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">En el Mediterráneo y Baleares no se esperan grandes cambios ya que, por ejemplo, Barcelona seguirá rondando los 32 grados y Mallorca los 35 grados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260624/espana-dias-mas-calido-junio-historia-registros-aemet-131761052\">España acaba de vivir los dos días más cálidos para un mes de junio desde que existen registros</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alerta sanitaria por salmonela en un fuet distribuido en Catalunya y dos autonomías más",
+    "link": "https://www.elperiodico.com/es/salud/20260625/alerta-sanitaria-salmonela-fuet-cataluna-lomo-lactosa-dv-131793483",
+    "pubDate": "2026-06-25 10:36:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La agencia advierte también de venta en la comunidad catalana de un lomo con lactosa no declarada en el etiquetado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20240726/salmonela-salmonelosis-sintomas-que-es-dv-13249660\">¿Cómo saber si tengo salmonelosis? Síntomas de intoxicación alimentaria</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260522/listeria-queso-fresco-retirada-alerta-130529807\">Alerta alimentaria: ordenan la retirada de varios lotes de quesos frescos de vaca por presencia de Listeria</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Una jueza deniega el desalojo exprés de un piso reocupado en La Mina tras ser desahuciado",
+    "link": "https://www.elperiodico.com/es/barcelona/20260625/desahucio-mina-pisos-ocupados-juzgado-familias-vulnerables-131793652",
+    "pubDate": "2026-06-25 10:35:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El juzgado considera desproporcionado expulsar de inmediato a una madre de 21 años con dos menores a cargo que ha retomado la vivienda y que recalca que ha acreditado hallarse en situación de “vulnerabilidad habitacional”</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260622/vecinos-mina-reocupan-pisos-inicio-131662328\">Vecinos de La Mina reocupan dos pisos tras el inicio del macrodesahucio: \"Hay que dar una solución; si no, iremos a una guerra\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni manzana ni plátano: la fruta que el cardiólogo Aurelio Rojas recomienda tomar a diario para proteger el cerebro",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260625/fruta-cerebro-corazon-cardiologo-aurelio-rojas-arandanos-dv-131550220",
+    "pubDate": "2026-06-25 10:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El doctor recomienda comer unos 150 gramos de este alimento al día</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260503/perder-peso-alimentacion-frutas-aurelio-rojas-cardiologo-dv-129609772\">Las cuatro frutas que recomienda un cardiólogo para perder peso sin disparar el azúcar</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260202/mejores-frutas-micronutrientes-compuestos-bioactivos-cardiologo-aurelio-rojas-dv-121828759\">Aurelio Rojas, cardiólogo, revela las frutas que no deberían faltar en tu alimentación: \"Ayuda a controlar el estrés y darte energía\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Аліна Гросу назвала найнедооціненішого співака України",
+    "link": "https://ua.korrespondent.net/showbiz/4889117-alina-hrosu-nazvala-nainedootsinenishoho-spivaka-ukrainy",
+    "pubDate": "2026-06-25 10:31:00",
+    "category": "Шоу-бізнес",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470390.jpg\">Артистка розповіла, кого вважає найнедооціненішим виконавцем, а також назвала найінтелігентнішого співака та володарок наймилозвучніших голосів в Україні.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Barça pone a la venta hoy sus pases de temporada para el Camp Nou",
+    "link": "https://www.elperiodico.com/es/deportes/20260625/barca-pone-venta-hoy-pases-131794622",
+    "pubDate": "2026-06-25 10:30:02",
+    "category": "",
+    "description": "<h2>La entidad azulgrana abre hoy a las 12 horas el proceso de compra para los socios.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мер міста на Київщині отримав підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4889116-mer-mista-na-kyivschyni-otrymav-pidozru",
+    "pubDate": "2026-06-25 10:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470389.jpg\">Під час проведення негласних слідчих дій у службовому кабінеті посадовця зафіксовано розмови, які можуть свідчити про підготовку схем незаконної приватизації земель.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по саперам на Херсонщині: загинули двоє співробітників гуморганізації",
+    "link": "https://ua.korrespondent.net/ukraine/4889119-udar-po-saperam-na-khersonschyni-zahynuly-dvoie-spivrobitnykiv-humorhanizatsii",
+    "pubDate": "2026-06-25 10:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4470400.jpg\">Після трагедії організація прийняла рішення негайно зупинити всі роботи з розмінування в Україні заради безпеки персоналу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Feliciano De Santis, presidente de la Sociedad Venezolana de Geólogos (SVG): \"Es posible que ocurran réplicas con una magnitud cercana a 5\"",
     "link": "https://www.elperiodico.com/es/internacional/20260625/nuevos-terremotos-replicas-venezuela-feliciano-santis-presidente-sociedad-venezolana-geologos-dv-131794283",
     "pubDate": "2026-06-25 10:25:55",
@@ -86,6 +383,15 @@
     "pubDate": "2026-06-25 10:00:18",
     "category": "",
     "description": "<h2 class=\"item\">La Plataforma de Terapias Avanzadas del gran centro pediátrico catalán producirá hasta 150 terapias CAR-T al año</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260226/sant-joan-de-deu-impulsa-red-publica-europea-hospitales-fabricadores-terapias-car-t-cancer-infantil-127199527\" target=\"_blank\">Sant Joan de Déu impulsa una red pública de hospitales europeos para fabricar terapias CAR-T contra el cáncer</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260226/sociedad-civil-impulsa-avances-cancer-127256970\" >La sociedad civil impulsa los avances en el cáncer: \"La gente dona para la investigación\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La cercanía como forma de entender el seguro: el proyecto de Occident en Montmeló",
+    "link": "https://www.elperiodico.com/es/sociedad/20260625/cercania-forma-entender-seguro-proyecto-bc-131688994",
+    "pubDate": "2026-06-25 10:00:09",
+    "category": "",
+    "description": "<h2>La nueva oficina es parte de un proyecto familiar, puesto en marcha por Javier Román, agente de seguros con más de 15 años de experiencia, y su hija Laia</h2>",
     "topic": "",
     "topic_match_probability": 0
   },

@@ -1,8 +1,16 @@
-# News for 2026-06-25 10:30
+# News for 2026-06-25 11:31
 
 Previous day: [2026-06-24](./data/2026-06-24.md)
 
 ## ua.korrespondent.net
+11:21 [Україна і Молдова: різні дороги до ЄС](https://ua.korrespondent.net/articles/4889135-ukraina-i-moldova-rizni-dorohy-do-yes)<br>
+11:17 [На Дніпропетровщині викрито дві групи "чорних лісорубів"](https://ua.korrespondent.net/ukraine/4889132-na-dnipropetrovschyni-vykryto-dvi-hrupy-chornykh-lisorubiv)<br>
+11:14 [У Кам'янському мати приковувала 7-річного сина ланцюгом до батареї](https://ua.korrespondent.net/ukraine/4889129-u-kamianskomu-maty-prykovuvala-7-richnoho-syna-lantsuihom-do-batarei)<br>
+11:10 [Стало відомо, чому в Києві аварійні відключення](https://ua.korrespondent.net/city/kiev/4889128-stalo-vidomo-chomu-v-kyievi-avariini-vidkluichennia)<br>
+10:56 [На Хмельницькій АЕС проходять обшуки](https://ua.korrespondent.net/ukraine/4889126-na-khmelnytskii-aes-prokhodiat-obshuky)<br>
+10:54 [В російській Уфі пролунали вибухи на НПЗ](https://ua.korrespondent.net/ukraine/4889124-v-rosiiskii-ufi-prolunaly-vybukhy-na-npz)<br>
+10:30 [Мер міста на Київщині отримав підозру](https://ua.korrespondent.net/ukraine/4889116-mer-mista-na-kyivschyni-otrymav-pidozru)<br>
+10:30 [Удар по саперам на Херсонщині: загинули двоє співробітників гуморганізації](https://ua.korrespondent.net/ukraine/4889119-udar-po-saperam-na-khersonschyni-zahynuly-dvoie-spivrobitnykiv-humorhanizatsii)<br>
 10:01 [Дружина Юрія Ткача розкрила секрет схуднення на 30 кг](https://ua.korrespondent.net/lifestyle/4889110-druzhyna-yuriia-tkacha-rozkryla-sekret-skhudnennia-na-30-kh)<br>
 09:59 [Венесуела запроваджує надзвичайний стан](https://ua.korrespondent.net/world/4889112-venesuela-zaprovadzhuie-nadzvychainyi-stan)<br>
 09:50 [У Києві ввели екстрені відключення світла](https://ua.korrespondent.net/city/kiev/4889108-u-kyievi-vvely-ekstreni-vidkluichennia-svitla)<br>
@@ -30,11 +38,23 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 00:20 [Зволікання ЄС викликають сумніви у щирості - Качка](https://ua.korrespondent.net/ukraine/4889051-zvolikannia-yes-vyklykauit-sumnivy-u-schyrosti-kachka)<br>
 
 ## as.com
+10:55 [Dallas espera a De Larrea](https://as.com/baloncesto/nba/dallas-espera-a-de-larrea-f202606-n/)<br>
+10:48 [El Movistar Estudiantes reestructura su parcela deportiva](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-restructura-su-parcela-deportiva-f202606-n/)<br>
 09:02 [Satoransky: “Pensaba que íbamos a tener un proyecto para muchos años”](https://as.com/baloncesto/acb/satoransky-pensaba-que-ibamos-a-tener-un-proyecto-para-muchos-anos-f202606-n/)<br>
 01:09 [La fiesta continúa hoy en el Roig Arena](https://as.com/baloncesto/la-fiesta-continua-hoy-en-el-roig-arena-f202606-n/)<br>
 00:37 [Montero: “Sobre el futuro ya tomaremos las decisiones”](https://as.com/baloncesto/montero-sobre-el-futuro-ya-tomaremos-las-decisiones-f202606-n/)<br>
 
 ## www.elperiodico.com
+11:26 [El violador de los portales, condenado a otros 10 años de cárcel por su primer ataque, en Halloween de 2021](https://www.elperiodico.com/es/sucesos/20260625/violador-portales-condenado-10-anos-131797313)<br>
+11:25 [Alfonso Coelho, entrenador personal: "A los 60 años, combinar ejercicios de fuerza con caminatas suaves 3 veces por semana es suficiente"](https://www.elperiodico.com/es/vida-y-estilo/20260625/alfonso-coelho-entrenador-personal-consejos-ejercicio-fisico-dv-131607422)<br>
+11:17 [La respiración influye poderosamente en nuestras decisiones económicas](https://www.elperiodico.com/es/tendencias21/20260625/respiracion-influye-poderosamente-decisiones-economicas-131796997)<br>
+11:16 [Sendos cortes de luz y de agua afectan al barrio del Centre de Santa Coloma de Gramenet](https://www.elperiodico.com/es/barcelona/20260625/sendos-cortes-luz-agua-afectan-barrio-centre-santa-coloma-gramenet-131795981)<br>
+11:15 [Dominica Díez, psicóloga, alerta: "Vemos una generación de niños con menos paciencia y más irritabilidad"](https://www.elperiodico.com/es/sociedad/20260625/dominica-diez-psicologa-alerta-ninos-menos-paciencia-mas-irritabilidad-dv-131760731)<br>
+11:12 [El petróleo cae casi un 40% desde sus máximos y borra toda la subida provocada por la guerra en Oriente Medio](https://www.elperiodico.com/es/economia/20260625/petroleo-cae-40-por-ciento-desde-maximos-guerra-oriente-medio-dv-131795982)<br>
+10:58 [Empieza el corte de la L9/10 Nord del metro de Barcelona entre La Sagrera y Onze de Setembre hasta el 6 de septiembre](https://www.elperiodico.com/es/barcelona/20260625/empieza-corte-l9-l10-metro-sagrera-onze-de-setembre-131764780)<br>
+10:48 [Hasta un 30% de las personas atendidas por adicciones pasa gran parte de su tiempo en soledad](https://www.elperiodico.com/es/sanidad/20260625/personas-atendidas-adicciones-pasa-tiempo-soledad-proyecto-hombre-alcohol-cocaina-131762217)<br>
+10:40 [Llega un cambio de tiempo que bajará las temperaturas hasta 8 grados en un día](https://www.elperiodico.com/es/sociedad/20260625/cambio-tiempo-caida-temperaturas-fin-ola-de-calor-espana-131795002)<br>
+10:35 [Una jueza deniega el desalojo exprés de un piso reocupado en La Mina tras ser desahuciado](https://www.elperiodico.com/es/barcelona/20260625/desahucio-mina-pisos-ocupados-juzgado-familias-vulnerables-131793652)<br>
 10:25 [Feliciano De Santis, presidente de la Sociedad Venezolana de Geólogos (SVG): "Es posible que ocurran réplicas con una magnitud cercana a 5"](https://www.elperiodico.com/es/internacional/20260625/nuevos-terremotos-replicas-venezuela-feliciano-santis-presidente-sociedad-venezolana-geologos-dv-131794283)<br>
 10:23 [Los científicos alertan: "Solo en 2025 se perdieron 92.000 millones de euros en catástrofes naturales asociadas al cambio climático"](https://www.elperiodico.com/es/medio-ambiente/20260625/cientificos-alertan-2025-perdieron-92-131795030)<br>
 10:15 [Claudia Marhuenda, hermana de la fundadora de 'Jot Down': "Es una pionera que supo utilizar la debilidad de los hombres"](https://www.elperiodico.com/es/ocio-y-cultura/20260625/claudia-marhuenda-habla-fundadora-jot-down-hermana-pionera-debilidad-hombres-131642996)<br>
@@ -42,6 +62,7 @@ Previous day: [2026-06-24](./data/2026-06-24.md)
 10:08 [El Gobierno mandará personal de la UME a Venezuela y ayuda de la Agencia de Cooperación](https://www.elperiodico.com/es/politica/20260625/gobierno-ofrece-venezuela-enviar-ume-131794151)<br>
 10:00 [No hay que esperar a que "se le pase": estos son los síntomas de un golpe de calor y lo que tienes que hacer](https://www.elperiodico.com/es/sociedad/20260625/sintomas-golpe-de-calor-verano-dv-131760358)<br>
 10:00 [Sant Joan de Déu ya es el primer hospital español que fabrica terapias génicas y celulares para Europa](https://www.elperiodico.com/es/sanidad/20260625/sant-joan-deu-primer-hospital-espanol-terapias-avanzadas-cart-europa-131727748)<br>
+10:00 [La cercanía como forma de entender el seguro: el proyecto de Occident en Montmeló](https://www.elperiodico.com/es/sociedad/20260625/cercania-forma-entender-seguro-proyecto-bc-131688994)<br>
 09:48 [Precio del petróleo hoy, 25 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260625/precio-petroleo-hoy-25-junio-dv-131793146)<br>
 09:36 [El Ibex recupera los 19.400 puntos con el petróleo ya en niveles previos a la crisis de Oriente Próximo](https://www.elperiodico.com/es/economia/20260625/ibex-recupera-19-400-puntos-131793256)<br>
 09:35 [Dos terremotos en Venezuela obligan a declarar el estado de emergencia](https://www.elperiodico.com/es/videos/internacional/terremotos-venezuela-obligan-declarar-estado-emergencia/131793211.shtml)<br>
