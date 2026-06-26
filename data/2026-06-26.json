@@ -1,5 +1,95 @@
 [
   {
+    "title": "El Mundial, en directo: España - Uruguay",
+    "link": "https://www.elperiodico.com/es/deportes/20260626/espana-uruguay-directo-mundial-2026-131864665",
+    "pubDate": "2026-06-26 22:07:00",
+    "category": "",
+    "description": "<h2>Los de Luis de la Fuente buscan sellar su clasificación para las eliminatorias como primeros de grupo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PSC volverá a ser el principal puntal de Sánchez en el comité federal del PSOE: \"Hay que entender qué partido estamos jugando\"",
+    "link": "https://www.elperiodico.com/es/politica/20260626/comite-federal-psoe-psc-salvador-illa-escudero-pedro-sanchez-131850385",
+    "pubDate": "2026-06-26 22:00:11",
+    "category": "",
+    "description": "<h2>Los socialistas catalanes explicitarán el cierre de filas con Sánchez y con la continuidad del gobierno y apelarán a tener una actitud \"combativa\" </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260626/consejo-ministros-plan-anticorrupcion-sanchez-131818446\" target=\"_blank\">El Consejo de Ministros aprobará en julio el plan anticorrupción que presentó Sánchez hace un año</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260624/salvador-illa-discurso-pedro-sanchez-liderazgo-solidez-legislatura-131760265\" target=\"_blank\">El Govern de Illa ve en el discurso de Sánchez \"liderazgo y solidez\" para continuar la legislatura</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PSOE cerrará filas en torno a un Sánchez cercado por la justicia y más solo que nunca en el Congreso",
+    "link": "https://www.elperiodico.com/es/politica/20260626/psoe-cerrara-filas-pedro-sanchez-131862323",
+    "pubDate": "2026-06-26 22:00:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El partido se mostrará cohesionado en gran parte por el proceso electoral que empieza</h2><h2 class=\"item\">La dimisión de la Ejecutiva de Enma López tras postularse en Madrid revuelve el cónclave que dará el pistoletazo de salida a las primarias</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260617/ferraz-aprobara-primarias-municipales-psoe-131513857\" target=\"_blank\">El máximo órgano del partido aprobará un calendario de primarias con tres 'ventanas' para las municipales y autonómicas, a la carta de cada territorio</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Трагедія на Буковині: у Дністрі знайшли тіло 8-річного хлопчика",
+    "link": "https://ua.korrespondent.net/ukraine/4889550-trahediia-na-bukovyni-u-dnistri-znaishly-tilo-8-richnoho-khlopchyka",
+    "pubDate": "2026-06-26 21:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471801.jpg\">Раніше рятувальники виявили тіла його батька та брата. Тіла загиблих направлені на проведення судово-медичних експертиз.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joaquín Caparrós, diagnosticado de cáncer de colon",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20260626/joaquin-caparros-cancer-colon-131863768",
+    "pubDate": "2026-06-26 21:53:54",
+    "category": "",
+    "description": "<h2>El Sevilla FC ha comunicado que su presidente de honor ya se encuentra bajo tratamiento médico y le ha trasladado “su máximo apoyo y cariño”</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Líbano e Israel firman en Washington un acuerdo marco para sentar las bases de la \"paz\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/libano-israel-firman-washington-acuerdo/131864555.shtml",
+    "pubDate": "2026-06-26 21:52:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кабаєл підібрав слова захоплення вчинком Усика",
+    "link": "https://ua.korrespondent.net/sport/boks/4889548-kabaiel-pidibrav-slova-zakhoplennia-vchynkom-usyka",
+    "pubDate": "2026-06-26 21:39:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471750.jpg\">Тимчасовий чемпіон за версією WBC вже не може вважатися обов’язковим претендентом на бій з Усиком, однак він все одно дякує українцю за те, чим жив бокс, коли в ньому брав участь український боксер як чемпіон.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський: Боротьба за Крим - пріоритет України",
+    "link": "https://ua.korrespondent.net/ukraine/4889546-zelenskyi-borotba-za-krym-priorytet-ukrainy",
+    "pubDate": "2026-06-26 21:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471795.jpg\">Україна позбавляє Росію плацдарму в Криму і ставить крапку на її намаганнях \"нормалізувати\" війну, заявив президент.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Venezuela militariza la 'zona cero' del terremoto mientras se multiplican los muertos y desaparecidos",
+    "link": "https://www.elperiodico.com/es/internacional/20260626/venezuela-militariza-la-guaira-terremoto-muertos-desaparecidos-131862031",
+    "pubDate": "2026-06-26 21:30:36",
+    "category": "",
+    "description": "<h2>Más de 100 edificios se derrumbaron en La Guaira, la ciudad más afectada por un doble seísmo cuyo balance provisional asciende a 920 muertos y más de 3.000 heridos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amaya Valdemoro: “Esos anillos me hicieron ser mejor jugadora”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/amaya-valdemoro-esos-anillos-me-hicieron-ser-mejor-jugadora-f202606-n/",
+    "pubDate": "2026-06-26 21:20:33",
+    "category": "Baloncesto femenino",
+    "description": "La madrileña se convertirá esta noche en la primera española en ingresar en el Hall of Fame de la WNBA. Allí ganó tres títulos con Houston Comets.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las aseguradoras podrían reclamar la indemnización por responsabilidad civil si no se usa la baliza V16",
     "link": "https://www.elperiodico.com/es/motor/20260626/aseguradoras-reclamar-responsabilidad-civil-no-usar-v16-131838808",
     "pubDate": "2026-06-26 21:15:33",
