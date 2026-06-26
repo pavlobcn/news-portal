@@ -1,8 +1,12 @@
-# News for 2026-06-26 09:10
+# News for 2026-06-26 10:09
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+09:57 [Чому українцям радять купувати не тільки долари: пояснення експертів](https://ua.korrespondent.net/articles/4889354-chomu-ukraintsiam-radiat-kupuvaty-ne-tilky-dolary-poiasnennia-ekspertiv)<br>
+09:43 [Атаковано енергооб'єкти у п'яти областях України](https://ua.korrespondent.net/ukraine/4889361-atakovano-enerhoobiekty-u-piaty-oblastiakh-ukrainy)<br>
+09:31 [У Європі показали проєкт житла для тисяч переселенців із Маріуполя](https://ua.korrespondent.net/ukraine/4889358-u-yevropi-pokazaly-proiekt-zhytla-dlia-tysiach-pereselentsiv-iz-mariupolia)<br>
+09:24 [Закликав до національної ворожнечі: військовий отримав 6 років тюрми](https://ua.korrespondent.net/ukraine/4889355-zaklykav-do-natsionalnoi-vorozhnechi-viiskovyi-otrymav-6-rokiv-tuirmy)<br>
 08:47 [У Харкові чоловік із ножем напав працівників ТЦК, є загиблий](https://ua.korrespondent.net/ukraine/4889346-u-kharkovi-cholovik-iz-nozhem-napav-pratsivnykiv-ttsk-ye-zahyblyi)<br>
 08:30 [Балістика і дрони: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4889344-balistyka-i-drony-yak-vidpratsuivala-ppo)<br>
 07:55 [Генштаб назвав найактивніший напрямок фронту](https://ua.korrespondent.net/ukraine/4889340-henshtab-nazvav-naiaktyvnishyi-napriamok-frontu)<br>
@@ -27,6 +31,13 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+10:04 [La gestión del talento y la IA, claves de futuro](https://www.elperiodico.com/es/sociedad/20260626/gestion-talento-ia-claves-futuro-bc-131834446)<br>
+10:03 [Illa anuncia el envío de 15 bomberos especialistas y 10 forenses a Venezuela tras el desastre humanitario](https://www.elperiodico.com/es/economia/20260626/illa-anuncia-envio-15-bomberos-131834510)<br>
+09:57 [ZTE trae a nuestro mercado el nubia Air Pro, un móvil ultrafino con resistencia extrema](https://www.elperiodico.com/es/tecnologia/20260626/zte-mercado-nubia-air-precio-131834095)<br>
+09:54 ["Puede haber miles de enterrados vivos": la dura noche de un hispano-venezolano el rescate de víctimas del terremoto](https://www.elperiodico.com/es/internacional/20260626/haber-miles-enterrados-vivos-dura-131834606)<br>
+09:43 [Nila López, activista, sobre el duelo perinatal: "Pierdes una ilusión, una expectativa y un mundo dentro de ti”](https://www.elperiodico.com/es/ser-feliz/20260626/nila-lopez-activista-duelo-perinatal-131609932)<br>
+09:28 [Juan Luis Arsuaga, en el videopódcast del suplemento ABRIL: ·"El planeta tiene unos cuatro mil quinientos millones de años y se calcula que le quedan otros tantos, estamos a la mitad"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260626/juan-luis-arsuaga-podcast-suplemento-abril-131753571)<br>
+09:16 [Precio del petróleo hoy, 26 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260626/precio-petroleo-hoy-26-junio-dv-131816346)<br>
 09:03 [Rusia derriba 660 drones ucranianos en el mayor ataque nocturno de la guerra](https://www.elperiodico.com/es/internacional/20260626/rusia-derriba-660-drones-ucranianos-ucrania-guerra-131832937)<br>
 09:00 [Dolores Albarracín, psicóloga: “Contradecir una teoría conspirativa suele reforzarla”](https://www.elperiodico.com/es/sociedad/20260626/dolores-albarracin-psicologa-contradecir-teoria-131816624)<br>
 09:00 [Un juez  afirma que un paciente no puede imponer un "tratamiento a la carta" para curarse un cáncer](https://www.elperiodico.com/es/sanidad/20260626/juez-afirma-paciente-imponer-tratamiento-131800826)<br>
