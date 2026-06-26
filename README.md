@@ -1,8 +1,14 @@
-# News for 2026-06-26 17:21
+# News for 2026-06-26 18:19
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+18:11 [Спортивний літак врізався в найвищий хмарочос Пекіна](https://ua.korrespondent.net/world/4889506-sportyvnyi-litak-vrizavsia-v-naivyschyi-khmarochos-pekina)<br>
+18:00 [Конференція у Польщі: з чим повертається Україна](https://ua.korrespondent.net/world/4889500-konferentsiia-u-polschi-z-chym-povertaietsia-ukraina)<br>
+17:58 [НБУ визначив курси валют на наступний тиждень](https://ua.korrespondent.net/business/financial/4889499-nbu-vyznachyv-kursy-valuit-na-nastupnyi-tyzhden)<br>
+17:53 [Імпорт нафти до Китаю впав до десятирічного мінімуму](https://ua.korrespondent.net/business/economics/4889502-import-nafty-do-kytaui-vpav-do-desiatyrichnoho-minimumu)<br>
+17:43 [У Москві звели позицію С-400 поруч із фондом дочки Путіна](https://ua.korrespondent.net/world/russia/4889496-u-moskvi-zvely-pozytsiui-s-400-poruch-iz-fondom-dochky-putina)<br>
+17:28 [Для українців за кордоном запустили цифрову платформу Додому](https://ua.korrespondent.net/ukraine/4889492-dlia-ukraintsiv-za-kordonom-zapustyly-tsyfrovu-platformu-dodomu)<br>
 17:17 [У Латвії засудили двох росйських шпигунів](https://ua.korrespondent.net/world/4889490-u-latvii-zasudyly-dvokh-rosiskykh-shpyhuniv)<br>
 17:11 [Незаконно ув'язнював полонених: підозру отримав ще один російський суддя](https://ua.korrespondent.net/ukraine/4889487-nezakonno-uviaznuivav-polonenykh-pidozru-otrymav-sche-odyn-rosiiskyi-suddia)<br>
 17:00 [Зеленський продовжив санкції проти ВПК Росії](https://ua.korrespondent.net/ukraine/4889485-zelenskyi-prodovzhyv-sanktsii-proty-vpk-rosii)<br>
@@ -21,6 +27,8 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 14:46 [Викрито ще 11 ухилянтських схем у різних регіонах України](https://ua.korrespondent.net/ukraine/4889449-vykryto-sche-11-ukhyliantskykh-skhem-u-riznykh-rehionakh-ukrainy)<br>
 14:35 [Угорщина знову блокує відкриття переговорних кластерів для України](https://ua.korrespondent.net/world/4889447-uhorschyna-znovu-blokuie-vidkryttia-perehovornykh-klasteriv-dlia-ukrainy)<br>
 14:31 [Україна повернула з полону 160 військових](https://ua.korrespondent.net/ukraine/4889445-ukraina-povernula-z-polonu-160-viiskovykh)<br>
+14:21 [На Київщині вчитель розбещував 14-літню школярку та зберігав дитяче порно](https://ua.korrespondent.net/ukraine/4889441-na-kyivschyni-vchytel-rozbeschuvav-14-litnui-shkoliarku-ta-zberihav-dytiache-porno)<br>
+14:15 [У Львові штрафують перевізників без кондиціонерів](https://ua.korrespondent.net/ukraine/4889439-u-lvovi-shtrafuuit-pereviznykiv-bez-kondytsioneriv)<br>
 13:58 [Північна Корея провела випробування ракет і зброї](https://ua.korrespondent.net/world/4889435-pivnichna-koreia-provela-vyprobuvannia-raket-i-zbroi)<br>
 13:56 [Сибіга здійснить візити до Кореї та Японії](https://ua.korrespondent.net/ukraine/4889433-sybiha-zdiisnyt-vizyty-do-korei-ta-yaponii)<br>
 13:53 [У Польщі про відмову від українських нагород заявили два політики](https://ua.korrespondent.net/world/4889431-u-polschi-pro-vidmovu-vid-ukrainskykh-nahorod-zaiavyly-dva-polityky)<br>
@@ -76,6 +84,16 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+18:18 [Reconstrucción múltiple](https://www.elperiodico.com/es/opinion/20260626/reconstruccion-multiple-terremoto-venezuela-editorial-131857463)<br>
+18:15 [El sistema de Google que alertó segundos antes del terremoto en Venezuela: cómo recibir avisos sísmicos en tu móvil](https://www.elperiodico.com/es/internacional/20260626/sistema-google-alerto-segundos-terremoto-venezuela-como-activar-avisos-movil-dv-131854822)<br>
+18:07 [Campanya de la Generalitat](https://www.elperiodico.com/es/videos/ocio-y-cultura/campanya-generalitat/131857356.shtml)<br>
+17:49 [Siguen llegando nuevas imágenes del momento de los terremotos en Venezuela](https://www.elperiodico.com/es/videos/internacional/siguen-llegando-nuevas-imagenes-momento/131856709.shtml)<br>
+17:43 [Exteriores eleva a 4 los españoles fallecidos y mantiene en 99 los desaparecidos en Venezuela](https://www.elperiodico.com/es/videos/internacional/exteriores-eleva-4-espanoles-fallecidos/131856445.shtml)<br>
+17:43 [Sara Bestraten, decana del COAC: "Igual que se confió en los médicos en pandemia, los arquitectos pedimos confianza para solucionar la crisis de la vivienda"](https://www.elperiodico.com/es/ocio-y-cultura/20260626/sara-bestraten-decana-coac-igual-131855125)<br>
+17:42 [Cinco jueces estudiarán el 13 de julio si salvan del jurado a Begoña Gómez, que suma un nuevo recurso por el silencio de Peinado sobre pruebas a su favor](https://www.elperiodico.com/es/politica/20260626/cinco-jueces-estudiaran-13-julio-recursos-begona-gomez-jurado-popular-131856416)<br>
+17:28 [Catalunya y Andorra consolidan su cooperación bilateral con un plan de trabajo hasta 2030](https://www.elperiodico.com/es/politica/20260626/catalunya-andorra-cooperacion-bilateral-plan-de-trabajo-131855596)<br>
+17:28 [Teatro del bueno](https://www.elperiodico.com/es/opinion/20260626/teatro-bueno-pp-junts-psoe-articulo-ernest-folch-131855577)<br>
+17:21 [Jubilación con 30 años cotizados: a qué edad puedes retirarte y cuánto cobrarás al mes](https://www.elperiodico.com/es/economia/20260626/jubilacion-30-anos-cotizados-edad-retiro-laboral-dv-131801626)<br>
 17:18 [Los Bomberos dan por estabilizado el incendio de vegetación forestal iniciado en Tiana, con 48 hectáreas afectadas](https://www.elperiodico.com/es/videos/sucesos/bomberos-dan-estabilizado-incendio-vegetacion/131855263.shtml)<br>
 17:15 [Canarias despide con emoción a Isabel Jara, delegada del Gobierno de Canarias en Venezuela: “Una canaria imprescindible al otro lado del Atlántico”](https://www.elperiodico.com/es/sociedad/20260626/canarias-despide-emocion-isabel-jara-131855397)<br>
 17:15 [La Seguridad Social puede denegar una incapacidad permanente aunque exista una enfermedad: este es el requisito que muchos desconocen](https://www.elperiodico.com/es/economia/20260626/seguridad-social-denegar-incapacidad-permanente-enfermedad-requisito-dv-131647521)<br>
