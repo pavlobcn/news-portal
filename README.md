@@ -1,9 +1,15 @@
-# News for 2026-06-26 18:19
+# News for 2026-06-26 19:20
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+19:15 [Зеленський обговорив з президентом Латвії співпрацю в межах Drone Deal](https://ua.korrespondent.net/ukraine/4889521-zelenskyi-obhovoryv-z-prezydentom-latvii-spivpratsui-v-mezhakh-Drone-Deal)<br>
+19:04 [США відновили санкції щодо нафтових гігантів Росії](https://ua.korrespondent.net/business/companies/4889520-ssha-vidnovyly-sanktsii-schodo-naftovykh-hihantiv-rosii)<br>
+18:51 [Лукашенко прилетів до Путіна у день закінчення ультиматуму Зеленського](https://ua.korrespondent.net/world/4889516-lukashenko-pryletiv-do-putina-u-den-zakinchennia-ultymatumu-zelenskoho)<br>
+18:40 [Атаки на Москву: Путін стрімко втрачає довіру в РФ](https://ua.korrespondent.net/world/russia/4889514-ataky-na-moskvu-putin-strimko-vtrachaie-doviru-v-rf)<br>
+18:23 [Росіяни атакували мікроавтобус у Нікополі: є загиблі та поранені](https://ua.korrespondent.net/ukraine/4889510-rosiiany-atakuvaly-mikroavtobus-u-nikopoli-ye-zahybli-ta-poraneni)<br>
 18:11 [Спортивний літак врізався в найвищий хмарочос Пекіна](https://ua.korrespondent.net/world/4889506-sportyvnyi-litak-vrizavsia-v-naivyschyi-khmarochos-pekina)<br>
+18:11 [Літак врізався в найвищий хмарочос Пекіна](https://ua.korrespondent.net/world/4889506-litak-vrizavsia-v-naivyschyi-khmarochos-pekina)<br>
 18:00 [Конференція у Польщі: з чим повертається Україна](https://ua.korrespondent.net/world/4889500-konferentsiia-u-polschi-z-chym-povertaietsia-ukraina)<br>
 17:58 [НБУ визначив курси валют на наступний тиждень](https://ua.korrespondent.net/business/financial/4889499-nbu-vyznachyv-kursy-valuit-na-nastupnyi-tyzhden)<br>
 17:53 [Імпорт нафти до Китаю впав до десятирічного мінімуму](https://ua.korrespondent.net/business/economics/4889502-import-nafty-do-kytaui-vpav-do-desiatyrichnoho-minimumu)<br>
@@ -84,6 +90,17 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:10 [Trump eleva la presión sobre Europa: amenaza con aranceles del 100% a países europeos por la tasa digital](https://www.elperiodico.com/es/economia/20260626/trump-eleva-presion-europa-amenaza-131860822)<br>
+19:07 [El Congreso Mundial de Arquitectos de Barcelona desvela sus armas secretas para calar entre la ciudadanía](https://www.elperiodico.com/es/ocio-y-cultura/20260626/congreso-mundial-arquitectos-barcelona-2026-tres-chimeneas-sant-adria-de-besos-131851516)<br>
+19:07 [Karen Romero, venezolana de Barcelona que busca a sus familiares tras los terremotos: "El edificio estaba completamente caído"](https://www.elperiodico.com/es/barcelona/20260626/karen-romero-venezolana-barcelona-busca-familiares-terremotos-edificio-completamente-caido-131845778)<br>
+19:04 [Trump acusa a Irán de violar la tregua de forma "insensata" por el ataque en Ormuz](https://www.elperiodico.com/es/internacional/20260626/trump-iran-violacion-insensata-tregua-ataque-ormuz-131860498)<br>
+19:02 [Cinco muertos y más de un centenar de españoles desaparecidos en Venezuela mientras el Gobierno envía equipos de rescate y ayuda económica](https://www.elperiodico.com/es/politica/20260626/espanoles-desaparecidos-fallecidos-terremoto-venezuela-131854382)<br>
+18:59 [50 años del Festival Grec de Barcelona, en imágenes](https://www.elperiodico.com/es/ocio-y-cultura/20260626/50-anos-festival-grec-barcelona-131858242)<br>
+18:58 [Catalunya creará un grupo de seguimiento para desarrollar un plan de ayuda a Venezuela](https://www.elperiodico.com/es/politica/20260626/catalunya-venezuela-govern-grupo-seguimiento-ayudas-131858762)<br>
+18:57 [50 años de Grec: de festival autogestionado a gran escaparate](https://www.elperiodico.com/es/ocio-y-cultura/20260626/50-anos-grec-festival-autogestionado-131699567)<br>
+18:45 [Milei alude a las "manos muy porosas" de Zapatero al hablar de las joyas](https://www.elperiodico.com/es/videos/politica/milei-alude-manos-porosas-zapatero-joyas/131859149.shtml)<br>
+18:36 [Cataluña capta más de 10.000 millones de euros de los fondos europeos Next Generation y alcanza los 262.000 beneficiarios](https://www.elperiodico.com/es/videos/economia/cataluna-capta-10-000-millones/131858647.shtml)<br>
+18:19 [EEUU levanta las sanciones económicas a Venezuela durante tres meses tras el doble terremoto](https://www.elperiodico.com/es/internacional/20260626/estados-unidos-levanta-sanciones-economicas-venezuela-131857939)<br>
 18:18 [Reconstrucción múltiple](https://www.elperiodico.com/es/opinion/20260626/reconstruccion-multiple-terremoto-venezuela-editorial-131857463)<br>
 18:15 [El sistema de Google que alertó segundos antes del terremoto en Venezuela: cómo recibir avisos sísmicos en tu móvil](https://www.elperiodico.com/es/internacional/20260626/sistema-google-alerto-segundos-terremoto-venezuela-como-activar-avisos-movil-dv-131854822)<br>
 18:07 [Campanya de la Generalitat](https://www.elperiodico.com/es/videos/ocio-y-cultura/campanya-generalitat/131857356.shtml)<br>
