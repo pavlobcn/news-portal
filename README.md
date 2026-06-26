@@ -1,8 +1,13 @@
-# News for 2026-06-26 13:09
+# News for 2026-06-26 14:09
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+13:58 [Північна Корея провела випробування ракет і зброї](https://ua.korrespondent.net/world/4889435-pivnichna-koreia-provela-vyprobuvannia-raket-i-zbroi)<br>
+13:56 [Сибіга здійснить візити до Кореї та Японії](https://ua.korrespondent.net/ukraine/4889433-sybiha-zdiisnyt-vizyty-do-korei-ta-yaponii)<br>
+13:53 [У Польщі про відмову від українських нагород заявили два політики](https://ua.korrespondent.net/world/4889431-u-polschi-pro-vidmovu-vid-ukrainskykh-nahorod-zaiavyly-dva-polityky)<br>
+13:30 [Етнічним українцям у Молдові спростять отримання громадянства України](https://ua.korrespondent.net/ukraine/4889426-etnichnym-ukraintsiam-u-moldovi-sprostiat-otrymannia-hromadianstva-ukrainy)<br>
+13:26 [У Маріуполі окупанти визнали "нічийними" 25 тисяч осель](https://ua.korrespondent.net/ukraine/4889425-u-mariupoli-okupanty-vyznaly-nichyinymy-25-tysiach-osel)<br>
 12:57 [В МАГАТЕ оцінили стан критично важливого для безпеки ЗАЕС обладнання](https://ua.korrespondent.net/ukraine/4889419-v-mahate-otsinyly-stan-krytychno-vazhlyvoho-dlia-bezpeky-zaes-obladnannia)<br>
 12:45 [У Криму оголосили надзвичайний стан](https://ua.korrespondent.net/ukraine/4889417-u-krymu-oholosyly-nadzvychainyi-stan)<br>
 12:40 [УЗ запускає модернізований потяг до популярного курорту на Одещині](https://ua.korrespondent.net/ukraine/4889415-uz-zapuskaie-modernizovanyi-potiah-do-populiarnoho-kurortu-na-odeschyni)<br>
@@ -46,10 +51,25 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 00:48 [У Полтаві та Кременчуці прогриміли вибухи](https://ua.korrespondent.net/ukraine/4889301-u-poltavi-ta-kremenchutsi-prohrymily-vybukhy)<br>
 
 ## as.com
+13:46 [El Panathinaikos abona la cláusula de Brancou Badio](https://as.com/baloncesto/el-panathinaikos-abona-la-clausula-de-brancou-badio-f202606-n/)<br>
+13:36 [La Euroliga ratifica al Madrid, que podría jugar la Supercopa europea](https://as.com/baloncesto/euroliga/la-euroliga-ratifica-al-madrid-que-podria-jugar-la-supercopa-europea-f202606-n/)<br>
 08:28 [El Barça está interesado en dos bases, Justin Robinson y Umoja Gibson](https://as.com/baloncesto/acb/el-barca-esta-interesado-en-dos-bases-justin-robinson-y-umoja-gibson-f202606-n/)<br>
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+14:07 ["No sé para qué hubo juicio si la sentencia no refleja nada y me quitan el derecho a recurrir": las declaraciones en exclusiva de Koldo García a La Nueva España](https://www.elperiodico.com/es/videos/politica/hubo-juicio-sentencia-refleja-quitan/131848008.shtml)<br>
+13:58 [Milei recibe la medalla de honor de la universidad CEU San Pablo en un acto con Almeida](https://www.elperiodico.com/es/politica/20260626/milei-recibe-medalla-honor-universidad-ceu-san-pablo-almeida-131847182)<br>
+13:52 [Barcelona se compromete a crear un centro de memoria sobre el colectivo LGTBI](https://www.elperiodico.com/es/barcelona/20260626/barcelona-lgtbi-orgullo-centro-memoria-131846568)<br>
+13:51 [BBVA se alía con la alicantina Oftex para ofrecer a las pymes un agente de ventas internacional que funciona con inteligencia artificial](https://www.elperiodico.com/es/economia/20260626/bbva-alia-alicantina-oftex-ofrecer-131846774)<br>
+13:45 [Quimeras europeas en inmigración](https://www.elperiodico.com/es/opinion/20260626/union-europea-inmigracion-quimeras-131846246)<br>
+13:44 [El incendio del Maresme, visto desde el aire](https://www.elperiodico.com/es/videos/sociedad/incendio-maresme-visto-aire-video/131846430.shtml)<br>
+13:36 [Zapatero pide expulsar de la causa sus conversaciones con 'Gertru', que vincula a una investigación "prospectiva y no autorizada"](https://www.elperiodico.com/es/politica/20260626/zapatero-pide-expulsar-causa-conversaciones-gertru-prospectivas-131845927)<br>
+13:35 [La Fiscalía investiga a un bombero del parque de la Zona Franca de Barcelona por violar a una mujer](https://www.elperiodico.com/es/barcelona/20260626/fiscalia-investiga-bombero-parque-zona-franca-barcelona-violar-mujer-131843648)<br>
+13:25 [Llegada de UME a Venezuela para las tareas de rescate del terremoto](https://www.elperiodico.com/es/videos/politica/llegada-ume-venezuela-tareas-rescate-terremoto-video/131845273.shtml)<br>
+13:21 [Milei alude a las "manos muy porosas" de Zapatero al hablar de las joyas](https://www.elperiodico.com/es/videos/politica/milei-alude-manos-porosas-zapatero-joyas/131845054.shtml)<br>
+13:19 [Rescates contra reloj, ayuda a cuentagotas y saqueos en una Venezuela desbordada por el terremoto](https://www.elperiodico.com/es/internacional/20260626/terremoto-venezuela-muertos-rescates-ayuda-saqueos-131844886)<br>
+13:15 [¿Cuánto cuesta rodar un corto en España? Se presenta el primer informe estadístico del sector](https://www.elperiodico.com/es/ocio-y-cultura/20260626/cortometraje-espana-datos-informe-sector-131842977)<br>
+13:11 [Si estás de baja o solicitas una incapacidad, la Seguridad Social cambiará la forma de comunicarse contigo a partir de septiembre](https://www.elperiodico.com/es/economia/20260626/seguridad-social-notificaciones-baja-incapacidad-septiembre-dv-131843499)<br>
 13:04 [Fundación Mapfre destina 100.000 euros a los afectados por los terremotos en Venezuela](https://www.elperiodico.com/es/sociedad/20260626/fundacion-mapfre-destina-100-000-bc-131843784)<br>
 13:02 [Creative lanza el XF1, altavoz de escritorio de 72 W que apuesta por la personalización del sonido](https://www.elperiodico.com/es/tecnologia/20260626/creative-lanza-xf1-altavoz-escritorio-131843131)<br>
 12:57 [Calor persistente en Catalunya: sin tregua durante el fin de semana](https://www.elperiodico.com/es/tiempo/20260626/tiempo-cataluna-calor-temperatura-dv-loc-131839091)<br>
