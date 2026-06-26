@@ -1,9 +1,12 @@
-# News for 2026-06-26 08:09
+# News for 2026-06-26 09:10
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+08:47 [У Харкові чоловік із ножем напав працівників ТЦК, є загиблий](https://ua.korrespondent.net/ukraine/4889346-u-kharkovi-cholovik-iz-nozhem-napav-pratsivnykiv-ttsk-ye-zahyblyi)<br>
+08:30 [Балістика і дрони: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4889344-balistyka-i-drony-yak-vidpratsuivala-ppo)<br>
 07:55 [Генштаб назвав найактивніший напрямок фронту](https://ua.korrespondent.net/ukraine/4889340-henshtab-nazvav-naiaktyvnishyi-napriamok-frontu)<br>
+07:19 [Росіяни вдарили по промислових об'єктах на Полтавщині, є знеструмлення](https://ua.korrespondent.net/ukraine/4889336-rosiiany-vdaryly-po-promyslovykh-obiektakh-na-poltavschyni-ye-znestrumlennia)<br>
 06:52 [Генштаб назвав втрати РФ на 26 червня](https://ua.korrespondent.net/ukraine/4889328-henshtab-nazvav-vtraty-rf-na-26-chervnia)<br>
 06:23 [У Сумах дрон РФ влучив у багатоповерхівку](https://ua.korrespondent.net/ukraine/4889324-u-sumakh-dron-rf-vluchyv-u-bahatopoverkhivku)<br>
 05:50 [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain)<br>
@@ -20,9 +23,19 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 00:48 [У Полтаві та Кременчуці прогриміли вибухи](https://ua.korrespondent.net/ukraine/4889301-u-poltavi-ta-kremenchutsi-prohrymily-vybukhy)<br>
 
 ## as.com
+08:28 [El Barça está interesado en dos bases, Justin Robinson y Umoja Gibson](https://as.com/baloncesto/acb/el-barca-esta-interesado-en-dos-bases-justin-robinson-y-umoja-gibson-f202606-n/)<br>
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+09:03 [Rusia derriba 660 drones ucranianos en el mayor ataque nocturno de la guerra](https://www.elperiodico.com/es/internacional/20260626/rusia-derriba-660-drones-ucranianos-ucrania-guerra-131832937)<br>
+09:00 [Dolores Albarracín, psicóloga: “Contradecir una teoría conspirativa suele reforzarla”](https://www.elperiodico.com/es/sociedad/20260626/dolores-albarracin-psicologa-contradecir-teoria-131816624)<br>
+09:00 [Un juez  afirma que un paciente no puede imponer un "tratamiento a la carta" para curarse un cáncer](https://www.elperiodico.com/es/sanidad/20260626/juez-afirma-paciente-imponer-tratamiento-131800826)<br>
+08:58 [Sara Carbonero sorprendió a Iker Casillas con una emotiva felicitación pública en su 45 cumpleaños](https://www.elperiodico.com/es/gente/20260626/sara-carbonero-sorprende-iker-casillas-felicitacion-45-cumpleanos-dv-130483515)<br>
+08:46 [Claudia Sheinbaum y Felipe VI se reúnen en Ciudad de México](https://www.elperiodico.com/es/videos/internacional/claudia-sheinbaum-felipe-vi-reunen-ciudad-mexico-video/131832667.shtml)<br>
+08:41 [Guerra de Irán | El ataque a un carguero paraliza el plan de evacuación de Ormuz mientras Israel sigue atacando el Líbano](https://www.elperiodico.com/es/internacional/20260626/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+08:31 [Venezuela busca a contrarreloj a supervivientes un día después de los terremotos](https://www.elperiodico.com/es/videos/internacional/venezuela-busca-contrarreloj-supervivientes-dia-despues-terremotos-video/131832483.shtml)<br>
+08:29 [La ministra sueca de Medio Ambiente acude a la reunión con socios de la UE con su bebé: "No quiero tener que elegir"](https://www.elperiodico.com/es/internacional/20260626/ministra-sueca-medio-ambiente-acude-131832460)<br>
+08:20 [Viajes del Imserso 2026: requisitos y cómo inscribirse](https://www.elperiodico.com/es/economia/20260626/imserso-2026-inscripcion-requisitos-dv-131677629)<br>
 08:05 [Un terremoto de magnitud 5,8 sacude el este de Japón](https://www.elperiodico.com/es/internacional/20260626/terremoto-magnitud-5-8-sacude-131832184)<br>
 07:55 [La amenaza de la ‘bacteria carnívora’ regresa a las playas españolas](https://www.elperiodico.com/es/medio-ambiente/20260626/amenaza-bacteria-carnivora-regresa-playas-131832101)<br>
 07:03 [Terremoto en Venezuela, en directo | Última hora de la cifra de muertos, heridos y desaparecidos tras el doblete sísmico](https://www.elperiodico.com/es/internacional/20260626/terremoto-venezuela-hoy-ultima-hora-directo-131788662)<br>
