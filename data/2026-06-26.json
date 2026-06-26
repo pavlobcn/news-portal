@@ -1,10 +1,262 @@
 [
   {
+    "title": "Fundación Mapfre destina 100.000 euros a los afectados por los terremotos en Venezuela",
+    "link": "https://www.elperiodico.com/es/sociedad/20260626/fundacion-mapfre-destina-100-000-bc-131843784",
+    "pubDate": "2026-06-26 13:04:50",
+    "category": "",
+    "description": "<h2>Dos fuertes terremotos de magnitudes 7,2 y 7,5 han sacudido el norte de Venezuela causando, hasta el momento, más de 200 fallecidos y dejando en situación de vulnerabilidad a miles de personas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Creative lanza el XF1, altavoz de escritorio de 72 W que apuesta por la personalización del sonido",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260626/creative-lanza-xf1-altavoz-escritorio-131843131",
+    "pubDate": "2026-06-26 13:02:13",
+    "category": "",
+    "description": "<h2>El nuevo sistema 2.0 de la firma llega con doble certificación de audio de alta resolución, Bluetooth 6.0 y opción de ampliación a 2.1 </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ca l'Isidre, uno de los seis restaurantes ganadores de los premios Top Tradition",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260626/ca-lisidre-barcelona-premio-top-tradition-131842302",
+    "pubDate": "2026-06-26 12:58:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La segunda edición reconoce a los establecimientos que mantienen vivo el recetario español dentro y fuera de nuestras fronteras, con Hilario Arbelaitz distinguido como el galardón Clásico y Eterno</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260526/restaurantes-barcelona-clasicos-8148376\">Estos restaurantes de Barcelona son un valor seguro</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260409/mejores-restaurantes-cocina-catalana-barcelona-83016258\">Los mejores restaurantes para 'descubrir' la cocina catalana</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Calor persistente en Catalunya: sin tregua durante el fin de semana",
+    "link": "https://www.elperiodico.com/es/tiempo/20260626/tiempo-cataluna-calor-temperatura-dv-loc-131839091",
+    "pubDate": "2026-06-26 12:57:37",
+    "category": "",
+    "description": "<h2>Las temperaturas seguirán siendo significativamente altas</h2><h2><a href=\"https://www.elperiodico.com/es/tiempo/20260625/aemet-ola-calor-frio-granizo-espana-dv-131797595\">La Aemet da por finalizada la ola de calor: desplome térmico y granizo en estas zonas de España</a></h2><h2><a href=\"https://www.elperiodico.com/es/tiempo/20260626/temperatura-record-agua-playa-barceloneta-mar-mediterraneo-dv-loc-131835104\">La temperatura del agua en la playa de la Barceloneta se dispara: cifra récord y registro excepcional para estas fechas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В МАГАТЕ оцінили стан критично важливого для безпеки ЗАЕС обладнання",
+    "link": "https://ua.korrespondent.net/ukraine/4889419-v-mahate-otsinyly-stan-krytychno-vazhlyvoho-dlia-bezpeky-zaes-obladnannia",
+    "pubDate": "2026-06-26 12:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471359.jpg\">Ключову лінію \"Дніпровська\" вдалося відремонтувати після пошкоджень, але не вдалося повернути в роботу через масштабні пошкодження підстанції.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Venezolanos piden ayuda para rescatar a los supervivientes: \"Tengo a mi familia enterrada y no ha venido nadie\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/venezolanos-piden-ayuda-rescatar-supervivientes-terremotos/131843433.shtml",
+    "pubDate": "2026-06-26 12:56:07",
+    "category": "",
+    "description": "\"No sé si están vivos todavía\": el dramático testimonio de una madre tras el colapso de edificios en Venezuela",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Hospital Príncipe de Asturias de Madrid, primero de España en implantar una prótesis que recupera la voz y evita los atragantamientos",
+    "link": "https://www.elperiodico.com/es/sanidad/20260626/hospital-principe-asturias-madrid-espana-implantar-protesis-voz-atragantamientos-131841261",
+    "pubDate": "2026-06-26 12:49:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El sistema permite que el dispositivo se hinche o deshinche para adaptarse a las cuerdas vocales en todo momento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260625/europa-da-luz-verde-tolebrutinib-farmaco-detener-avance-esclerosis-multiple-131802491\">Europa da luz verde a tolebrutinib, un fármaco para detener el avance de la esclerosis múltiple</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendio en el Maresme",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-maresme-video/131842562.shtml",
+    "pubDate": "2026-06-26 12:48:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona se compromete a que la Guardia Urbana disponga de pistolas táser en menos de un año",
+    "link": "https://www.elperiodico.com/es/barcelona/20260626/barcelona-taser-guardia-urbana-pistolas-131840341",
+    "pubDate": "2026-06-26 12:45:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El PSC, Junts PP y Vox se alían para garantizar que se volverá a presentar una propuesta de reglamento el mes que viene y acelerar el proceso de adquisición para que las primeras armas estén operativas antes de junio de 2027</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260623/collboni-reactivara-pistolas-taser-guardia-urbana-pleno-julio-131728266\">Collboni reactivará las pistolas táser para la Guardia Urbana en el Pleno municipal de julio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Криму оголосили надзвичайний стан",
+    "link": "https://ua.korrespondent.net/ukraine/4889417-u-krymu-oholosyly-nadzvychainyi-stan",
+    "pubDate": "2026-06-26 12:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471345.jpg\">Гауляйтер Аксьонов закликав мешканців Криму зберігати спокій і запевнив, що вони «прорвуться», але не уточнив, куди саме.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Leche Pascual abre un ere para despedir a los 80 trabajadores de la fábrica que ha vendido a Casa Tarradellas",
+    "link": "https://www.elperiodico.com/es/economia/20260626/leche-pascual-abre-ere-fabrica-gurb-casa-tarradellas-131840137",
+    "pubDate": "2026-06-26 12:43:34",
+    "category": "",
+    "description": "<h2>La empresa afirma que la plantilla ha rechazado las condiciones que les ofrecía su nuevo patrón, pese a que eran las mismas que tenían hasta ahora</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260430/leche-pascual-huelga-fabrica-gurb-trabajadores-temen-despidos-129713358\" target=\"_blank\">Los trabajadores de la fábrica de Leche Pascual en Gurb van a la huelga contra la venta a Casa Tarradellas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "УЗ запускає модернізований потяг до популярного курорту на Одещині",
+    "link": "https://ua.korrespondent.net/ukraine/4889415-uz-zapuskaie-modernizovanyi-potiah-do-populiarnoho-kurortu-na-odeschyni",
+    "pubDate": "2026-06-26 12:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471344.jpeg\">На маршруті працюватиме модернізований електропоїзд, обладнаний системою кондиціонування. Час у дорозі становитиме близько однієї години.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El psicólogo Javier de Haro, sobre el falso mito de los abuelos: \"También enseñan y educan\"",
+    "link": "https://www.elperiodico.com/es/educacion/20260626/abuelos-nietos-vinculo-crianza-familia-javier-de-haro-psicologo-union-dv-123436345",
+    "pubDate": "2026-06-26 12:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El comunicador reflexiona en sus redes sociales sobre la importancia del vínculo destacando los valores, el apoyo y el amor incondicional que transmiten</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251101/abuelos-figura-clave-organizacion-familiar-cuidar-nietos-cansado-nivel-mental-dv-121458405\">Los abuelos como figura clave en la organización familiar: \"Cuidar de los nietos es cansado a nivel mental\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250726/mitad-abuelos-cuida-nietos-habitual-disfrutar-agotadas-120050558\">La mitad de los abuelos cuida de los nietos de forma habitual: \"Disfrutamos, pero también estamos saturadas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dónde comer el mejor pescado frito de Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20260626/mejor-pescado-pescadito-frito-barcelona-116924782",
+    "pubDate": "2026-06-26 12:39:00",
+    "category": "",
+    "description": "<h2>Presenta tus respetos a la iglesia del pescadito frito. Aquí fríen los boquerones en el mismísimo cielo </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260626/cocteleria-barcelona-videojuegos-gratis-glitch-viral-131818866\" target=\"_blank\">La primera coctelería de Barcelona con videojuegos para jugar gratis</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260626/planes-gratis-verano-barcelona-2026-cine-musica-teatro-131802089\" target=\"_blank\">Los mejores planes gratis al aire libre para este verano en Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Grupo Volkswagen plantea una reduccion de 100.000 empleos en plena fase de reestructuración",
+    "link": "https://www.elperiodico.com/es/motor/20260626/grupo-volkswagen-plantea-reduccion-cien-mil-empleos-131839141",
+    "pubDate": "2026-06-26 12:35:39",
+    "category": "",
+    "description": "<h2>La compañía, que cuenta con una plantilla de más de 650.000 trabajadores, duplica las previsones de salidas anunciadas hace unos meses por su CEO, Oliver Blume y apunta al cierre de cuatro plantas en Alemania. </h2><h2>\"Nuestro modelo de negocio actual ya no funciona para todas las marcas\", reconoce el grupo alemán en una nota.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Polestar 4 rebaja su precio hasta los 49.900 euros",
+    "link": "https://www.elperiodico.com/es/motor/20260626/polestar-4-rebaja-precio-49900-euros-gama-chasis-131833539",
+    "pubDate": "2026-06-26 12:35:28",
+    "category": "",
+    "description": "<h2>El SUV coupé eléctrico adopta una nueva estructura, revisa suspensión y dirección y ofrece hasta 620 kilómetros de autonomía</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Білоруський ІЛ-62 у небі України: у ПС спростували інформацію",
+    "link": "https://ua.korrespondent.net/ukraine/4889413-biloruskyi-il-62-u-nebi-ukrainy-u-ps-sprostuvaly-informatsiui",
+    "pubDate": "2026-06-26 12:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471343.jpg\">Сервіс Flightradar24, що розповсюдив таку новину, не є офіційним джерелом інформації про повітряний простір і не несе відповідальності за можливу неточність, зазначили військові.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Скасований гол Вінісіуса: Бразилія звернулася з офіційним протестом",
+    "link": "https://ua.korrespondent.net/sport/football/4889411-skasovanyi-hol-vinisiusa-brazyliia-zvernulasia-z-ofitsiinym-protestom",
+    "pubDate": "2026-06-26 12:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471329.jpg\">CBF офіційно звернулася до ФІФА із протестом щодо суддівства в останньому матчі національної команди Бразилії на чемпіонаті світу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Санду відреагувала на проєкт у Румунії про об’єднання з Молдовою",
+    "link": "https://ua.korrespondent.net/world/4889409-sandu-vidreahuvala-na-proiekt-u-rumunii-pro-obiednannia-z-moldovoui",
+    "pubDate": "2026-06-26 12:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471330.jpg\">Мая Санду висловила впевненість, що курйозне ухвалення нижньою палатою парламенту Румунії проєкту про об’єднання з Молдовою, не вплине на відносини Кишинева і Бухареста.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Exteriores eleva a tres los españoles muertos y a 99 los no localizados tras el terremoto de Venezuela",
+    "link": "https://www.elperiodico.com/es/internacional/20260626/espanoles-desaparecidos-terremotos-venezuela-131819949",
+    "pubDate": "2026-06-26 12:29:00",
+    "category": "",
+    "description": "<h2>José Manuel Albares prevé repatriar a un grupo de turistas españoles que se encuentran bloqueados , así como a \"españoles en tránsito en Venezuela o aquellos con necesidades especiales\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Italia, indignada: Ducati se queda sin pilotos italianos",
+    "link": "https://www.elperiodico.com/es/deportes/20260626/italia-indignada-ducati-queda-pilotos-131840553",
+    "pubDate": "2026-06-26 12:25:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Ducati prescindió, primero, de Enea Bastianini. Ahora, ha prescindido, de cara al año que viene, de su bicampeón Francesco 'Pecco' Bagnaia. Y, la próxima temporada, el equipo de Borgo Panigale correrá con dos pilotos españoles, campeonísimos, Marc Márquez y Pedro Acosta. Y, claro, Italia (entera) está que trina.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Долар стабілізувався в обмінниках, євро дорожчає",
+    "link": "https://ua.korrespondent.net/business/financial/4889407-dolar-stabilizuvavsia-v-obminnykakh-yevro-dorozhchaie",
+    "pubDate": "2026-06-26 12:24:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471328.jpg\">Середній курс продажу долара перебуває на рівні  до 44,95 гривні, а курс продажу євро зріс до 51,50 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comissió de la Dignitat reclama al Govern que lidere el retorno a Catalunya de 35.000 documentos de los 'papeles de Salamanca'",
+    "link": "https://www.elperiodico.com/es/politica/20260626/papeles-salamanca-comissio-dignitat-govern-retorno-catalunya-documentos-memoria-131838891",
+    "pubDate": "2026-06-26 12:23:45",
+    "category": "",
+    "description": "<h2>La entidad memorialista acusa al Ministerio de Cultura de obstaculizar la devolución de archivos pese a la sentencia favorable de la Audiencia Nacional del año 2008</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260131/cumplen-20-anos-llegada-primeros-papeles-salamanca-126292166\" target=\"_blank\">Se cumplen 20 años de la llegada de los primeros 'papeles de Salamanca' a Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El detalle de la jornada laboral que muchos trabajadores desconocen y que puede acabar en despido",
+    "link": "https://www.elperiodico.com/es/economia/20260626/despido-disciplinario-salir-hora-jornada-laboral-dv-131840383",
+    "pubDate": "2026-06-26 12:18:57",
+    "category": "",
+    "description": "<h2>El Estatuto de los Trabajadores distingue entre salir a la hora prevista y dejar de trabajar antes para marcharse puntual, una diferencia que puede tener consecuencias disciplinarias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francisco Alonso, catedrático y doctor honoris causa: \"La mejora en la esperanza de vida está relacionada con los avances en la química\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260626/francisco-alonso-catedratico-mejora-esperanza-vida-avances-quimica-dv-131647302",
+    "pubDate": "2026-06-26 12:15:00",
+    "category": "",
+    "description": "<h2>El investigador, situado entre los más citados del mundo, honoris causa por la Universidad de Bulgaria, explica todo lo que aporta la química frente a los que la rechazan</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fabián Ruiz atiza a TVE por subtitular a su madre en el documental de la selección: \"Si alguien no me entiende podéis poner subtítulos por mi acento andaluz\"",
+    "link": "https://www.elperiodico.com/es/tele/20260626/fabian-ruiz-atiza-tve-subtitular-madre-seleccion-acento-andaluz-dv-131840501",
+    "pubDate": "2026-06-26 12:14:10",
+    "category": "",
+    "description": "<h2>\"Mi madre lo es todo, ha sido un pilar fundamental y mi gran apoyo, ha hecho un esfuerzo increíble y gracias a Dios ahora todo tiene su recompensa, me ha inculcado los valores que hoy en día tengo\"</h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260626/presidente-rtve-pide-perdon-subtitular-acento-andaluz-madre-fabian-ruiz-fue-gran-error-131836260\">El presidente de RTVE pide perdón por subtitular el acento andaluz de la madre de Fabián Ruiz: “Fue un gran error”</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido en la Estación del Nord de Barcelona un viajero con 220 gramos de marihuana y 52 de hachís en la maleta",
+    "link": "https://www.elperiodico.com/es/barcelona/20260626/detenido-estacion-nord-barcelona-viajero-marihuana-hachis-131835832",
+    "pubDate": "2026-06-26 12:12:34",
+    "category": "",
+    "description": "<h2>El hombre quería viajar a París cuando fue detenido por la Guardia Civil</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260623/hombre-65-anos-traficaba-drogas-trastero-mossos-esquadra-131716926\">Los Mossos detienen a un hombre de 65 años que transformó un trastero en un punto de tráfico de drogas en Sant Joan Despí</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Un equipo de investigadores descubre un fallo en el crecimiento infantil causado por una conexión defectuosa entre el cerebro y el hígado",
     "link": "https://www.elperiodico.com/es/sanidad/20260626/equipo-investigadores-descubre-fallo-crecimiento-infantil-conexion-defectuosa-cerebro-higado-131838654",
     "pubDate": "2026-06-26 12:09:38",
     "category": "",
     "description": "<h2 class=\"item\">Un defecto en el neurodesarrollo puede impedir que el hígado produzca una molécula clave para que el organismo crezca, aunque la hormona del crecimiento funcione correctamente</h2><h2 class=\"item\">El hallazgo está basado en modelos animales y en el estudio de un niño con una mutación genética concreta y abre nuevas vías para tratar el retraso de crecimiento en niños</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20240101/talla-baja-ninos-hormona-crecimiento-96336014\">\"Mi hijo no crece\": la presión social convierte la talla baja en recurrente motivo de consulta pediátrica</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Більш як 90% учасників з'явилися на основну сесію НМТ - МОН",
+    "link": "https://ua.korrespondent.net/ukraine/4889403-bilsh-yak-90-uchasnykiv-ziavylysia-na-osnovnu-sesiui-nmt-mon",
+    "pubDate": "2026-06-26 12:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471326.jpeg\">Участь у додатковій сесії рівнозначна участі в основній, а результат має таку саму силу для вступу, наголосив заступник міністра.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -18,6 +270,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Incendio en Tiana",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/incendio-tiana-fotos-131840155",
+    "pubDate": "2026-06-26 12:06:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Mova renueva su gama con el Z70 Ultra Roller Complete",
     "link": "https://www.elperiodico.com/es/tecnologia/20260626/mova-renueva-gama-z70-ultra-131839710",
     "pubDate": "2026-06-26 12:05:22",
@@ -25,6 +286,15 @@
     "description": "<h2>El nuevo robot aspirador apuesta por fregado con agua limpia en tiempo real, navegación mejorada y menor intervención del usuario</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Бред Пітт зробив заяву про Анджеліни Джолі",
+    "link": "https://ua.korrespondent.net/lifestyle/4889405-bred-pitt-zrobyv-zaiavu-pro-andzheliny-dzholi",
+    "pubDate": "2026-06-26 12:02:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471327.jpeg\">Після критики через відсутність на випускному названої доньки Захари оточення Бреда Пітта заявило, що актор нібито не знав про дату церемонії. Він сказав, що Анджеліна Джолі не повідомила йому про важливу подію.",
+    "topic": "телебачення",
+    "topic_match_probability": 20
   },
   {
     "title": "Росіяни нанесли авіаудар по Херсону, частина міста без світла",
@@ -414,6 +684,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Dentro de la fábrica donde se produce la esperanza contra el cáncer: así nacen las terapias CAR-T",
+    "link": "https://www.elperiodico.com/es/salud/20260626/fabrica-produce-esperanza-cancer-nacen-131581704",
+    "pubDate": "2026-06-26 10:35:00",
+    "category": "",
+    "description": "<h2>La planta de Kite en Hoofddorp, Países Bajos, ha fabricado 13.000 tratamientos personalizados para pacientes oncológicos desde su inauguración en 2020</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Un hombre ataca a su madre en Sitges, baja armado a la playa, huye nadando de la policía y sigue en el agua",
     "link": "https://www.elperiodico.com/es/sociedad/20260626/hombre-ataca-madre-sitges-baja-mossos-brote-cuchillo-131835696",
     "pubDate": "2026-06-26 10:31:37",
@@ -421,6 +700,15 @@
     "description": "<h2 class=\"item\">El varón, con problemas mentales, se ha refugiado en el agua y desobedece a Mossos</h2><h2 class=\"item\">Ha esquivado a la policía y ha llegado nadando al Passeig de La Ribera</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "No siempre es “mala digestión”: los dos trastornos que se esconden tras la hinchazón y las náuseas",
+    "link": "https://www.elperiodico.com/es/salud/20260626/mala-digestion-trastornos-esconden-hinchazon-dispepsia-funcional-gastroparesia-131466247",
+    "pubDate": "2026-06-26 10:30:00",
+    "category": "",
+    "description": "<h2>La doctora Carolina Malagelada explica que la gastroparesia afecta la motilidad del estómago, mientras la dispepsia funcional se relaciona con la sensibilidad digestiva</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 20
   },
   {
     "title": "Catalunya supera los 10.000 millones en fondos Next Generation y se consolida como la comunidad que más dinero ha recibido de estas ayudas europeas",
