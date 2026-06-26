@@ -1,8 +1,14 @@
-# News for 2026-06-26 11:09
+# News for 2026-06-26 12:10
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+12:00 [Росіяни нанесли авіаудар по Херсону, частина міста без світла](https://ua.korrespondent.net/ukraine/4889401-rosiiany-nanesly-aviaudar-po-khersonu-chastyna-mista-bez-svitla)<br>
+11:57 [Старт капіталу з мінімальним бюджетом](https://ua.korrespondent.net/articles/4889377-start-kapitalu-z-minimalnym-buidzhetom)<br>
+11:48 [Сирський подякував генералу Донаг’ю за підтримку України](https://ua.korrespondent.net/ukraine/4889399-syrskyi-podiakuvav-heneralu-donahui-za-pidtrymku-ukrainy)<br>
+11:43 [Росіяни атакували Запоріжжя, є поранені](https://ua.korrespondent.net/city/zaporozhye/4889397-rosiiany-atakuvaly-zaporizhzhia-ye-poraneni)<br>
+11:23 [Уражено два судна та засоби ППО в Керчі - СБУ](https://ua.korrespondent.net/ukraine/4889391-urazheno-dva-sudna-ta-zasoby-ppo-v-kerchi-sbu)<br>
+11:23 [Конгресмени США відмовилися від візиту до Росії](https://ua.korrespondent.net/world/4889390-konhresmeny-ssha-vidmovylysia-vid-vizytu-do-rosii)<br>
 11:05 [Саудити відновили навантаження нафти на супертанкери](https://ua.korrespondent.net/business/economics/4889384-saudyty-vidnovyly-navantazhennia-nafty-na-supertankery)<br>
 10:55 [У Венесуєлі кількість загиблих унаслідок землетрусів зросла до 235 людей](https://ua.korrespondent.net/world/4889381-u-venesuieli-kilkist-zahyblykh-unaslidok-zemletrusiv-zrosla-do-235-luidei)<br>
 10:39 [ЄС позбавить захисту українців призовного віку](https://ua.korrespondent.net/world/4889373-yes-pozbavyt-zakhystu-ukraintsiv-pryzovnoho-viku)<br>
@@ -37,11 +43,25 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:09 [Un equipo de investigadores descubre un fallo en el crecimiento infantil causado por una conexión defectuosa entre el cerebro y el hígado](https://www.elperiodico.com/es/sanidad/20260626/equipo-investigadores-descubre-fallo-crecimiento-infantil-conexion-defectuosa-cerebro-higado-131838654)<br>
+12:07 [CaixaBank nombra a Jordi Soldevila nuevo director de Comunicación y Relaciones Institucionales](https://www.elperiodico.com/es/economia/20260626/caixabank-nombra-jordi-soldevila-nuevo-131840354)<br>
+12:05 [Mova renueva su gama con el Z70 Ultra Roller Complete](https://www.elperiodico.com/es/tecnologia/20260626/mova-renueva-gama-z70-ultra-131839710)<br>
+11:52 [La temperatura del agua en la playa de la Barceloneta se dispara: cifra récord y registro excepcional para estas fechas](https://www.elperiodico.com/es/tiempo/20260626/temperatura-record-agua-playa-barceloneta-mar-mediterraneo-dv-loc-131835104)<br>
+11:44 [Un incendio en Tiana deja una aparatosa columna de humo y obliga a restringir el acceso a un polideportivo](https://www.elperiodico.com/es/barcelona/20260626/incendio-tiana-apratosa-columna-humo-obliga-restringir-acceso-polideportivo-131838410)<br>
+11:43 [La UCO documenta la manipulación en las adjudicaciones al 'amigo' de Begoña Gómez: "Piensa en que Barrabés es la buena y las otras han de bajar"](https://www.elperiodico.com/es/politica/20260626/uco-documenta-arbitrariedad-adjudicaciones-empresario-131839154)<br>
+11:33 [Incendio en Tiana](https://www.elperiodico.com/es/videos/sociedad/incendio-tiana-video/131838663.shtml)<br>
+11:30 [Incendios forestales en Catalunya y España, en directo: última hora de los fuegos activos hoy](https://www.elperiodico.com/es/sociedad/20260626/incendios-forestales-catalunya-espana-directo-131393069)<br>
+11:29 [El Booket Fest celebra el enorme poder de leer en pequeño](https://www.elperiodico.com/es/ocio-y-cultura/20260626/booket-fest-celebra-enorme-leer-pequeno-131826407)<br>
+11:29 [La UME vuela a Venezuela para ayudar en las labores de rescate tras los terremotos](https://www.elperiodico.com/es/videos/internacional/ume-vuela-venezuela-ayudar-rescates-terremotos/131838439.shtml)<br>
+11:25 [¿Tendría éxito una figura de la Sagrada Família hecha con botellas de licor, agua y refrescos?](https://www.elperiodico.com/es/ocio-y-cultura/20260626/talleres-congreso-mundial-arquitectos-barcelona-2026-tres-chimeneas-sant-adria-131819624)<br>
+11:24 [Collboni retira un plus para subir el sueldo a altos cargos de Barcelona por falta de acuerdo](https://www.elperiodico.com/es/barcelona/20260626/barcelona-sueldos-directivos-ayuntamiento-plus-complemento-131837895)<br>
 11:08 [Cómo actuar durante un terremoto: refugiarse bajo una mesa y permanecer en el interior](https://www.elperiodico.com/es/videos/salud/como-actuar-durante-terremoto-refugiarse-mesa/131837165.shtml)<br>
 11:06 [La paga extra de verano de las pensiones también puede llevar IRPF: quién paga y quién está exento](https://www.elperiodico.com/es/economia/20260626/irpf-extra-verano-pensiones-quien-paga-exento-dv-131836811)<br>
 11:06 [Bruselas propone excluir a los ciudadanos en edad militar de la protección temporal para los ucranianos](https://www.elperiodico.com/es/internacional/20260626/bruselas-excluir-ciudadanos-edad-militar-proteccion-ucrania-131837205)<br>
 11:05 [Norma, refugiada: "O nos íbamos de Nicaragua, o arrestaban a mi hijo y a mi marido por oponerse al régimen"](https://www.elperiodico.com/es/sociedad/20260626/norma-refugiada-vigo-huir-nicaragua-dv-131632627)<br>
 11:04 [Un nuevo estudio correlaciona el aumento de las temperaturas con una peor salud mental](https://www.elperiodico.com/es/ser-feliz/20260626/calor-altas-temperaturas-peor-salud-mental-psiquiatria-estudio-119099882)<br>
+11:00 [EVA Bridge, el nuevo modelo de coordinación asistencial que busca mejorar la atención del paciente tras un infarto](https://www.elperiodico.com/es/salud/20260626/eva-bridge-nuevo-modelo-coordinacion-asistencial-infarto-131786915)<br>
+10:55 [¿Se puede morir de calor sin estar al sol? Los expertos alertan del riesgo oculto de las altas temperaturas](https://www.elperiodico.com/es/salud/20260626/morir-calor-estar-sin-sol-expertos-alertan-riesgo-131756648)<br>
 10:49 [Imágenes aéreas de La Guaira, la zona más devastada por los terremotos en Venezuela](https://www.elperiodico.com/es/videos/internacional/imagenes-aereas-guaira-zona-devastada-terremotos-venezuela/131836618.shtml)<br>
 10:49 [Llegan a Monzón las primeras familias desalojadas por el espectacular incendio en La Litera: "Aquello era irrespirable, había ceniza en cantidades industriales"](https://www.elperiodico.com/es/sociedad/20260626/incendio-litera-huesca-franja-aragon-catalunya-testimonios-vecinos-evacuados-monzon-131836425)<br>
 10:48 [OpenAI planea retrasar su salida a bolsa a 2027](https://www.elperiodico.com/es/tecnologia/20260626/openai-planea-retrasar-salida-bolsa-2027-chatgpt-anthropic-spacex-claude-acciones-musk-perdidas-131835073)<br>
@@ -54,6 +74,7 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 10:15 [Alba Vidal, astrónoma: "En un eclipse solar se conjugan ciencia y poesía"](https://www.elperiodico.com/es/sociedad/20260626/entrevista-alba-vidal-astronoma-eclipse-dv-131566785)<br>
 10:04 [La gestión del talento y la IA, claves de futuro](https://www.elperiodico.com/es/sociedad/20260626/gestion-talento-ia-claves-futuro-bc-131834446)<br>
 10:03 [Illa anuncia el envío de 15 bomberos especialistas y 10 forenses a Venezuela tras el desastre humanitario](https://www.elperiodico.com/es/economia/20260626/illa-anuncia-envio-15-bomberos-131834510)<br>
+10:03 [Illa anuncia el envío de 15 bomberos especialistas y 10 forenses a Venezuela tras el desastre humanitario](https://www.elperiodico.com/es/economia/20260626/generalitat-ayuda-humanitaria-venezuela-terremoto-venezuela-venezolanos-en-catalunya-131834510)<br>
 09:57 [ZTE trae a nuestro mercado el nubia Air Pro, un móvil ultrafino con resistencia extrema](https://www.elperiodico.com/es/tecnologia/20260626/zte-mercado-nubia-air-precio-131834095)<br>
 09:54 ["Puede haber miles de enterrados vivos": la dura noche de un hispano-venezolano el rescate de víctimas del terremoto](https://www.elperiodico.com/es/internacional/20260626/haber-miles-enterrados-vivos-dura-131834606)<br>
 09:43 [Nila López, activista, sobre el duelo perinatal: "Pierdes una ilusión, una expectativa y un mundo dentro de ti”](https://www.elperiodico.com/es/ser-feliz/20260626/nila-lopez-activista-duelo-perinatal-131609932)<br>
