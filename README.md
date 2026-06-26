@@ -1,8 +1,12 @@
-# News for 2026-06-26 20:21
+# News for 2026-06-26 21:20
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+21:14 [Землетруси у Венесуелі: число загиблих зросло](https://ua.korrespondent.net/world/4889543-zemletrusy-u-venesueli-chyslo-zahyblykh-zroslo)<br>
+21:13 [Знали ще рік тому. Скандальна справа Скелі](https://ua.korrespondent.net/ukraine/4889541-znaly-sche-rik-tomu-skandalna-sprava-skeli)<br>
+20:55 [Трамп звинуватив Іран в "безглуздому" порушенні перемир'я](https://ua.korrespondent.net/world/4889539-tramp-zvynuvatyv-iran-v-bezghluzdomu-porushenni-peremyria)<br>
+20:31 [Зеленський зробив заяву про переговори з Росією](https://ua.korrespondent.net/ukraine/4889536-zelenskyi-zrobyv-zaiavu-pro-perehovory-z-rosiieui)<br>
 20:02 [Європу попередили про збори за прохід Ормузькою протокою - ЗМІ](https://ua.korrespondent.net/business/economics/4889532-yevropu-poperedyly-pro-zbory-za-prokhid-ormuzkoui-protokoui-zmi)<br>
 19:50 [У Вінниці двоє дітей травмувалися через вибух невідомого предмета](https://ua.korrespondent.net/ukraine/4889529-u-vinnytsi-dvoie-ditei-travmuvalysia-cherez-vybukh-nevidomoho-predmeta)<br>
 19:41 [Зеленський: З полону вже повернули понад 9500 осіб](https://ua.korrespondent.net/ukraine/4889526-zelenskyi-z-polonu-vzhe-povernuly-ponad-9500-osib)<br>
@@ -95,6 +99,10 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+21:04 [Pelea a puñetazos en el Parlamento de Georgia](https://www.elperiodico.com/es/videos/internacional/pelea-punetazos-parlamento-georgia/131863811.shtml)<br>
+20:57 [Europa sigue presa del calor extremo](https://www.elperiodico.com/es/videos/internacional/europa-sigue-presa-calor-extremo/131863627.shtml)<br>
+20:48 [Lo que negocia Trump](https://www.elperiodico.com/es/opinion/20260626/negocia-trump-iran-articulo-sonia-andolz-131863300)<br>
+20:30 [Estos son los cinco errores que arruinan tu pelo mientras duermes, según los expertos](https://www.elperiodico.com/es/vida-y-estilo/20260626/rutina-pelo-errores-dormir-dv-130320899)<br>
 20:11 [Illa reivindica que seis de cada 10 viviendas de protección en España se construyen en Catalunya](https://www.elperiodico.com/es/politica/20260626/vivienda-salvador-illa-catalunya-proteccion-oficial-publicos-131860668)<br>
 20:00 [Radiografía de los 54 municipios catalanes sin plan de incendio: varios se concentran en áreas de riesgo de Lleida](https://www.elperiodico.com/es/sociedad/20260626/radiografia-municipios-catalanes-sin-plan-de-incendios-131727917)<br>
 20:00 [El plan forestal de Les Gavarres, en la Costa Brava, se convierte en modelo para frenar megaincendios en Catalunya](https://www.elperiodico.com/es/sociedad/20260626/prevencion-incendios-macizo-les-gavarres-costa-brava-emporda-girona-modelo-gestion-bosques-cataluna-131728054)<br>
@@ -156,6 +164,7 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 14:37 [La terapeuta de la familia Andic ejerció sin estar colegiada como psicóloga](https://www.elperiodico.com/es/sociedad/20260626/julia-psicologa-familia-andic-ejercio-sin-estar-colegiada-131845541)<br>
 14:31 [Ferraz censura el paso de Enma López para ser candidata a la Alcaldía de Madrid: "Ha pensado más en sí misma que en el PSOE"](https://www.elperiodico.com/es/politica/20260626/ferraz-censura-enma-lopez-psoe-131849550)<br>
 14:18 [La mayoría de discriminaciones LGTBIfóbicas en Catalunya se producen en la calle o el trabajo](https://www.elperiodico.com/es/sociedad/20260626/mayoria-discriminaciones-lgtbifobicas-catalunya-concentran-calle-trabajo-131846514)<br>
+14:16 [El incendio de Tiana, bajo control tras quemar 46 hectáreas](https://www.elperiodico.com/es/sociedad/20260626/pep-colas-jefe-intervencion-bombers-tiana-incendio-131847567)<br>
 14:13 [Las labores de rescate prosiguen en Venezuela tras el terremoto](https://www.elperiodico.com/es/fotos/en-imagenes/labores-rescate-prosiguen-venezuela-terremoto-131848386)<br>
 14:07 ["No sé para qué hubo juicio si la sentencia no refleja nada y me quitan el derecho a recurrir": las declaraciones en exclusiva de Koldo García a La Nueva España](https://www.elperiodico.com/es/videos/politica/hubo-juicio-sentencia-refleja-quitan/131848008.shtml)<br>
 13:58 [Milei recibe la medalla de honor de la universidad CEU San Pablo en un acto con Almeida](https://www.elperiodico.com/es/politica/20260626/milei-recibe-medalla-honor-universidad-ceu-san-pablo-almeida-131847182)<br>
