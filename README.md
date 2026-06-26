@@ -1,8 +1,14 @@
-# News for 2026-06-26 10:09
+# News for 2026-06-26 11:09
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+11:05 [Саудити відновили навантаження нафти на супертанкери](https://ua.korrespondent.net/business/economics/4889384-saudyty-vidnovyly-navantazhennia-nafty-na-supertankery)<br>
+10:55 [У Венесуєлі кількість загиблих унаслідок землетрусів зросла до 235 людей](https://ua.korrespondent.net/world/4889381-u-venesuieli-kilkist-zahyblykh-unaslidok-zemletrusiv-zrosla-do-235-luidei)<br>
+10:39 [ЄС позбавить захисту українців призовного віку](https://ua.korrespondent.net/world/4889373-yes-pozbavyt-zakhystu-ukraintsiv-pryzovnoho-viku)<br>
+10:38 [До Києва прибула міністр юстиції Німеччини](https://ua.korrespondent.net/ukraine/4889374-do-kyieva-prybula-ministr-yustytsii-nimechchyny)<br>
+10:22 [У "кіллзоні" під Лиманом затримали агента РФ](https://ua.korrespondent.net/ukraine/4889371-u-killzoni-pid-lymanom-zatrymaly-ahenta-rf)<br>
+10:10 [Житель Житомира отримав довічне за вбивство дитини та її матері](https://ua.korrespondent.net/ukraine/4889367-zhytel-zhytomyra-otrymav-dovichne-za-vbyvstvo-dytyny-ta-yii-materi)<br>
 09:57 [Чому українцям радять купувати не тільки долари: пояснення експертів](https://ua.korrespondent.net/articles/4889354-chomu-ukraintsiam-radiat-kupuvaty-ne-tilky-dolary-poiasnennia-ekspertiv)<br>
 09:43 [Атаковано енергооб'єкти у п'яти областях України](https://ua.korrespondent.net/ukraine/4889361-atakovano-enerhoobiekty-u-piaty-oblastiakh-ukrainy)<br>
 09:31 [У Європі показали проєкт житла для тисяч переселенців із Маріуполя](https://ua.korrespondent.net/ukraine/4889358-u-yevropi-pokazaly-proiekt-zhytla-dlia-tysiach-pereselentsiv-iz-mariupolia)<br>
@@ -31,6 +37,21 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
 
 ## www.elperiodico.com
+11:08 [Cómo actuar durante un terremoto: refugiarse bajo una mesa y permanecer en el interior](https://www.elperiodico.com/es/videos/salud/como-actuar-durante-terremoto-refugiarse-mesa/131837165.shtml)<br>
+11:06 [La paga extra de verano de las pensiones también puede llevar IRPF: quién paga y quién está exento](https://www.elperiodico.com/es/economia/20260626/irpf-extra-verano-pensiones-quien-paga-exento-dv-131836811)<br>
+11:06 [Bruselas propone excluir a los ciudadanos en edad militar de la protección temporal para los ucranianos](https://www.elperiodico.com/es/internacional/20260626/bruselas-excluir-ciudadanos-edad-militar-proteccion-ucrania-131837205)<br>
+11:05 [Norma, refugiada: "O nos íbamos de Nicaragua, o arrestaban a mi hijo y a mi marido por oponerse al régimen"](https://www.elperiodico.com/es/sociedad/20260626/norma-refugiada-vigo-huir-nicaragua-dv-131632627)<br>
+11:04 [Un nuevo estudio correlaciona el aumento de las temperaturas con una peor salud mental](https://www.elperiodico.com/es/ser-feliz/20260626/calor-altas-temperaturas-peor-salud-mental-psiquiatria-estudio-119099882)<br>
+10:49 [Imágenes aéreas de La Guaira, la zona más devastada por los terremotos en Venezuela](https://www.elperiodico.com/es/videos/internacional/imagenes-aereas-guaira-zona-devastada-terremotos-venezuela/131836618.shtml)<br>
+10:49 [Llegan a Monzón las primeras familias desalojadas por el espectacular incendio en La Litera: "Aquello era irrespirable, había ceniza en cantidades industriales"](https://www.elperiodico.com/es/sociedad/20260626/incendio-litera-huesca-franja-aragon-catalunya-testimonios-vecinos-evacuados-monzon-131836425)<br>
+10:48 [OpenAI planea retrasar su salida a bolsa a 2027](https://www.elperiodico.com/es/tecnologia/20260626/openai-planea-retrasar-salida-bolsa-2027-chatgpt-anthropic-spacex-claude-acciones-musk-perdidas-131835073)<br>
+10:37 [Hallan el cadáver de un joven en la playa dels Pescadors de Badalona](https://www.elperiodico.com/es/barcelona/20260626/hallan-cadaver-joven-playa-dels-pescadors-badalona-131835414)<br>
+10:35 [Qué hacer durante un terremoto: protegerse bajo una mesa y no salir al exterior hasta que termine el temblor](https://www.elperiodico.com/es/salud/20260626/que-hacer-durante-terremoto-protegerse-mesa-131836038)<br>
+10:31 [Un hombre ataca a su madre en Sitges, baja armado a la playa, huye nadando de la policía y sigue en el agua](https://www.elperiodico.com/es/sociedad/20260626/hombre-ataca-madre-sitges-baja-mossos-brote-cuchillo-131835696)<br>
+10:28 [Catalunya supera los 10.000 millones en fondos Next Generation y se consolida como la comunidad que más dinero ha recibido de estas ayudas europeas](https://www.elperiodico.com/es/economia/20260626/catalunya-supera-10-000-millones-131832643)<br>
+10:24 [Barcelona se ofrece para colaborar con ayuda humanitaria tras los terremotos en Venezuela](https://www.elperiodico.com/es/barcelona/20260626/barcelona-venezuela-ayuda-humanitaria-declaracion-131835190)<br>
+10:23 [Aumentan a 235 los fallecidos en el doble terremoto de Venezuela, dos de ellos españoles](https://www.elperiodico.com/es/videos/internacional/aumentan-235-fallecidos-doble-terremoto-venezuela-video/131835527.shtml)<br>
+10:15 [Alba Vidal, astrónoma: "En un eclipse solar se conjugan ciencia y poesía"](https://www.elperiodico.com/es/sociedad/20260626/entrevista-alba-vidal-astronoma-eclipse-dv-131566785)<br>
 10:04 [La gestión del talento y la IA, claves de futuro](https://www.elperiodico.com/es/sociedad/20260626/gestion-talento-ia-claves-futuro-bc-131834446)<br>
 10:03 [Illa anuncia el envío de 15 bomberos especialistas y 10 forenses a Venezuela tras el desastre humanitario](https://www.elperiodico.com/es/economia/20260626/illa-anuncia-envio-15-bomberos-131834510)<br>
 09:57 [ZTE trae a nuestro mercado el nubia Air Pro, un móvil ultrafino con resistencia extrema](https://www.elperiodico.com/es/tecnologia/20260626/zte-mercado-nubia-air-precio-131834095)<br>
