@@ -1,8 +1,9 @@
-# News for 2026-06-26 07:08
+# News for 2026-06-26 08:09
 
 Previous day: [2026-06-25](./data/2026-06-25.md)
 
 ## ua.korrespondent.net
+07:55 [Генштаб назвав найактивніший напрямок фронту](https://ua.korrespondent.net/ukraine/4889340-henshtab-nazvav-naiaktyvnishyi-napriamok-frontu)<br>
 06:52 [Генштаб назвав втрати РФ на 26 червня](https://ua.korrespondent.net/ukraine/4889328-henshtab-nazvav-vtraty-rf-na-26-chervnia)<br>
 06:23 [У Сумах дрон РФ влучив у багатоповерхівку](https://ua.korrespondent.net/ukraine/4889324-u-sumakh-dron-rf-vluchyv-u-bahatopoverkhivku)<br>
 05:50 [Вторгнення Росії в Україну. Онлайн](https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain)<br>
@@ -18,7 +19,12 @@ Previous day: [2026-06-25](./data/2026-06-25.md)
 00:59 [Рютте звернувся до Росії перед самітом НАТО](https://ua.korrespondent.net/world/4889303-ruitte-zvernuvsia-do-rosii-pered-samitom-nato)<br>
 00:48 [У Полтаві та Кременчуці прогриміли вибухи](https://ua.korrespondent.net/ukraine/4889301-u-poltavi-ta-kremenchutsi-prohrymily-vybukhy)<br>
 
+## as.com
+07:14 [La reconstrucción del campeón](https://as.com/baloncesto/la-reconstruccion-del-campeon-f202606-n/)<br>
+
 ## www.elperiodico.com
+08:05 [Un terremoto de magnitud 5,8 sacude el este de Japón](https://www.elperiodico.com/es/internacional/20260626/terremoto-magnitud-5-8-sacude-131832184)<br>
+07:55 [La amenaza de la ‘bacteria carnívora’ regresa a las playas españolas](https://www.elperiodico.com/es/medio-ambiente/20260626/amenaza-bacteria-carnivora-regresa-playas-131832101)<br>
 07:03 [Terremoto en Venezuela, en directo | Última hora de la cifra de muertos, heridos y desaparecidos tras el doblete sísmico](https://www.elperiodico.com/es/internacional/20260626/terremoto-venezuela-hoy-ultima-hora-directo-131788662)<br>
 07:01 [Pirotecnias participantes y novedades del Concurs de Focs Artificials 2026 de Tarragona, del 1 al 4 de julio](https://www.elperiodico.com/es/tarragona/20260626/fechas-novedades-participantes-concurs-focs-artificials-tarragona-131816433)<br>
 06:40 [Guerra Ucrania - Rusia, en directo, última hora | Ucrania recibe los primeros 3.200 millones de euros del préstamo europeo, anuncia Von der Leyen](https://www.elperiodico.com/es/internacional/20260626/guerra-ucrania-rusia-directo-ultima-126605559)<br>
