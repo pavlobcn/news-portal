@@ -1,5 +1,104 @@
 [
   {
+    "title": "Temperaturas récord siguen asfixiando a Europa",
+    "link": "https://www.elperiodico.com/es/fotos/internacional/temperaturas-record-siguen-asfixiando-europa-131880889",
+    "pubDate": "2026-06-27 17:00:57",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tokischa: \"Hay muchas artistas que, quizá no de la misma manera que yo, también están siendo rebeldes\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260627/tokischa-hay-artistas-manera-rebeldes-entrevista-amor-droga-131845812",
+    "pubDate": "2026-06-27 17:00:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La transgresora artista dominicana presenta este miércoles en Razzmatazz su primer disco, 'Amor & droga', un álbum cargado de sufrimiento</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Артисти з РФ скасовують гастролі в анексованому Криму",
+    "link": "https://ua.korrespondent.net/world/russia/4889686-artysty-z-rf-skasovuuit-hastroli-v-aneksovanomu-krymu",
+    "pubDate": "2026-06-27 16:55:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472737.jpg\">Від гастролей зокрема відмовилися гуморист Володимир Винокур, під питанням гастролі балету Тodes, скасовано концерти рок-гурту Radio Tapok, гастролі двох театрів.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Muere envenenado por su pareja en Manresa: la autopsia encuentra restos de sustancias tóxicas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260627/muere-envenenado-pareja-manresa-autopsia-131881026",
+    "pubDate": "2026-06-27 16:44:39",
+    "category": "",
+    "description": "<h2>Una investigación policial de cuatro meses bajo secreto de sumario llevó a detener a la sospechosa</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 25
+  },
+  {
+    "title": "На Покровському напрямку відбито 18 атак РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4889684-na-pokrovskomu-napriamku-vidbyto-18-atak-rf",
+    "pubDate": "2026-06-27 16:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472728.jpeg\">Від початку доби агресор 57 разів атакував позиції Сил оборони, повідомив Генштаб ЗСУ в черговому зведенні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miguel Camacho, joven con una enfermedad muscular rara, reclama el derecho al ocio tras sufrir discriminación en un centro de experiencias virtuales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260627/joven-albal-reclama-derecho-ocio-discriminacion-centro-experiencias-virtuales-dv-131726128",
+    "pubDate": "2026-06-27 16:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresa se disculpa tras negar la entrada al joven en silla de ruedas y se compromete a mejorar la accesibilidad para evitar futuras discriminaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos nuevas réplicas siembran el pánico en Venezuela y ya van más de 300 desde la tarde del terremoto",
+    "link": "https://www.elperiodico.com/es/internacional/20260627/nuevas-replicas-siembran-panico-venezuela-131880545",
+    "pubDate": "2026-06-27 16:27:29",
+    "category": "",
+    "description": "<h2>Delcy Rodríguez informó que un 60% de la zona cero, en La Guaira, ha recuperado la energía eléctrica mientras siguen las urgentes tareas de rescate</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Equipo de Emergencia de la Comunidad de Madrid logra rescatar a una mujer mayor y sus dos nietos en Venezuela",
+    "link": "https://www.elperiodico.com/es/sociedad/20260627/equipo-emergencia-comunidad-madrid-logra-131880510",
+    "pubDate": "2026-06-27 16:24:42",
+    "category": "",
+    "description": "<h2>El equipo de emergencias madrileño ha logrado rescatar a una mujer mayor y sus dos nietos, que se encontraban atrapados tras los terremotos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona obliga a retirar los rótulos de una bodega histórica de la Barceloneta para cumplir la norma:  \"No respeta los signos de identidad del barrio\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260627/bodega-fermin-barceloneta-rotulos-retirados-131608494",
+    "pubDate": "2026-06-27 16:24:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La bodega Fermín ha tenido que desprenderse de sus letreros, instalados desde 1973, por una orden para acatar la ordenanza de usos del paisaje urbano</h2><h2 class=\"item\">PLANES | <a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260619/nuevo-paddle-surf-barcelona-breathwork-conciertos-flotantes-barceloneta-sea-you-131574384\">El nuevo paddle surf: desde ‘breathwork’ hasta conciertos flotantes en la Barceloneta</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El FC Barcelona abre una campaña de captación de fondos y aporta 100.000 euros para afectados del terremoto de Venezuela",
+    "link": "https://www.elperiodico.com/es/deportes/20260627/fc-barcelona-abre-campana-captacion-131880322",
+    "pubDate": "2026-06-27 16:23:17",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un incendio entre vehículos cerca de las vías interrumpe la circulación de trenes entre Girona y Maçanet-Massanes",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260627/interrumpida-circulacion-trenes-girona-macanet-massanes-incendio-131880027",
+    "pubDate": "2026-06-27 16:13:14",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 60
+  },
+  {
     "title": "Raúl Fernández se gana la renovación con Aprilia ganando en Assen",
     "link": "https://www.elperiodico.com/es/deportes/20260627/raul-fernandez-gana-renovacion-aprilia-131878900",
     "pubDate": "2026-06-27 16:11:41",
@@ -97,6 +196,15 @@
     "description": "<h2 class=\"item\">La cantante rompió a llorar al interpretar \"Lárgate\" en el BigSound Festival y dedicó unas palabras de agradecimiento al público en un momento especialmente delicado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260622/ana-mena-oscar-casas-rompen-relacion-dv-131674329\">Ana Mena y Óscar Casas rompen tras casi 2 años de relación: \"Esto se sabía que iba a durar un telediario\"</a></h2>",
     "topic": "виконавці поп музики",
     "topic_match_probability": 97
+  },
+  {
+    "title": "TJ Shorts, el primero en llegar",
+    "link": "https://as.com/baloncesto/acb/tj-shorts-el-primero-en-llegar-f202606-n/",
+    "pubDate": "2026-06-27 15:55:33",
+    "category": "Valencia Basket Club",
+    "description": "El base norteamericano ha llegado a un acuerdo con el Valencia Basket para las dos próximas temporadas.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Feijóo pide a Cataluña que sea \"la llave\" que \"saque a Sánchez de Moncloa\"",
