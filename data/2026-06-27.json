@@ -1,10 +1,127 @@
 [
   {
+    "title": "La UME rescata a una persona con vida tras permanecer 72 horas atrapada bajo escombros en La Guaira",
+    "link": "https://www.elperiodico.com/es/internacional/20260627/ume-rescata-persona-vida-terremoto-venezuela-131884895",
+    "pubDate": "2026-06-27 19:10:29",
+    "category": "",
+    "description": "<h2> A Venezuela se han desplazado 59 militares de la UME, dos ingenieros del Ejército de Tierra y ocho unidades caninas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nissan consolida su apuesta por España con una estrategia basada en la electrificación",
+    "link": "https://www.elperiodico.com/es/motor/20260627/nissan-consolida-apuesta-espana-estrategia-electrica-131838804",
+    "pubDate": "2026-06-27 19:00:35",
+    "category": "",
+    "description": "<h2>El CEO de la marca en España, Christian Costaganna, admite que la presión regulatoria y la competencia china contribuyen a acelerar la transformación del sector.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuestión de Estado: ¿Nuevas Compañías?",
+    "link": "https://www.elperiodico.com/es/politica/20260627/xxx-131832618",
+    "pubDate": "2026-06-27 19:00:34",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260625/sanchez-alivia-psoe-uvi-corrupcion-131779837\" target=\"_blank\">Sánchez alivia a un PSOE en la UVI: \"Cogemos aire, pero el agua sube cada vez más\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260626/abascal-cierra-curso-convulso-vox-131821691\" target=\"_blank\">Abascal cierra el curso más convulso de Vox resistiendo a los críticos y gobernando de nuevo con el PP</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атаки на Дніпропетровщину: є загиблий і поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4889703-ataky-na-dnipropetrovschynu-ye-zahyblyi-i-poranenyi",
+    "pubDate": "2026-06-27 19:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472807.jpg\">Протягом дня окупанти понад 40 разів атакували два райони Дніпропетровської області - Нікопольський та Синельниківський.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лапін прокоментував відмову Усика від поясів, пославшись на перспективу",
+    "link": "https://ua.korrespondent.net/sport/boks/4889705-lapin-prokomentuvav-vidmovu-usyka-vid-poiasiv-poslavshys-na-perspektyvu",
+    "pubDate": "2026-06-27 18:59:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472787.jpg\">Директор команди Олександра Усика говорить про перспективи для інших боксерів у надважкій вазі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Y si ganamos qué...? Pues esto",
+    "link": "https://as.com/opinion/y-si-ganamos-que-pues-esto-f202606-n/",
+    "pubDate": "2026-06-27 18:50:52",
+    "category": "Valencia Basket Club",
+    "description": "Uno de los cánticos más recurrentes y que más encienden al respetable del Roig Arena...",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rescatan a un bebé recién nacido tras estar atrapado 32 horas bajo los escombros del terremoto",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescatan-bebe-recien-nacido-atrapado/131884404.shtml",
+    "pubDate": "2026-06-27 18:49:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі затримали українця через погрози президенту Навроцькому - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4889698-u-polschi-zatrymaly-ukraintsia-cherez-pohrozy-prezydentu-navrotskomu-zmi",
+    "pubDate": "2026-06-27 18:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472785.jpg\">Правоохоронці отримали матеріали з опублікованою в інтернеті розмовою, у якій нібито звучали погрози на адресу керівника держави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Spotify permitirá votar por primera vez la canción del verano: Quevedo, Bad Bunny y Lola Índigo, entre los favoritos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260627/spotify-permitira-votar-primera-vez-cancion-verano-quevedo-bad-bunny-lola-indigo-131883355",
+    "pubDate": "2026-06-27 18:27:15",
+    "category": "",
+    "description": "<h2>La plataforma señaló que el reguetón volverá a ser uno de los géneros predominantes del verano, aunque compartirá protagonismo con otros sonidos latinos y tropicales</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260501/spotify-lanza-funcion-distingue-artistas-129754233\">Spotify lanza una función que distingue artistas humanos de contenido generado por IA</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "\"Muy auténtico\": los elogios a uno de los mejores restaurantes baratos de Santa Coloma según Tripadvisor",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260627/mejor-restaurante-barato-santa-coloma-tripadvisor-dv-loc-107618503",
+    "pubDate": "2026-06-27 18:26:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240920/bar-santa-coloma-pescado-frito-tapas-dv-loc-107578256\" >\"Supera todo lo que te habían dicho\": el bar de Santa Coloma adorado por su pescado frito</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240830/5-mejores-restaurantes-santa-coloma-dv-loc-107543863\" >Estos son los 5 mejores restaurantes de Santa Coloma según Tripadvisor</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PSOE aprueba por unanimidad un calendario de primarias a la carta con tres fechas a elegir: julio, septiembre y noviembre",
+    "link": "https://www.elperiodico.com/es/politica/20260627/psoe-aprueba-unanimidad-calendario-primarias-131883778",
+    "pubDate": "2026-06-27 18:25:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El cónclave vota sin ninguna oposición que cada federación elija la fecha que mejor convenga a sus circunstancias</h2><h2 class=\"item\">Baleares o Madrid se inclinan por elegir a sus candidatos autonómicos y municipales antes de las vacaciones de agosto</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Pilar, madre de un joven adicto a los videojuegos: \"Lo tienes que tratar como un problema que dura toda la vida\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260627/pilar-madre-joven-adicto-videojuegos-entrevista-dv-131713266",
+    "pubDate": "2026-06-27 18:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La madre destaca el apoyo de la Unidad de Adicciones Comportamentales para superar el problema</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "В Ормузькій протоці атакували нафтовий танкер",
     "link": "https://ua.korrespondent.net/world/4889693-v-ormuzkii-prototsi-atakuvaly-naftovyi-tanker",
     "pubDate": "2026-06-27 18:10:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472775.jpg\">Інцидент стався на тлі поступового відновлення судноплавства в Ормузькій протоці після тимчасової мирної домовленості між США та Іраном.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Venezuela sigue temblando: la tragedia continúa entre réplicas y rescates imposibles",
+    "link": "https://www.elperiodico.com/es/fotos/internacional/venezuela-sigue-temblando-tragedia-continua-131883144",
+    "pubDate": "2026-06-27 18:07:03",
+    "category": "",
+    "description": "",
     "topic": "",
     "topic_match_probability": 0
   },

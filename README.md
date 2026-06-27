@@ -1,8 +1,10 @@
-# News for 2026-06-27 18:14
+# News for 2026-06-27 19:16
 
 Previous day: [2026-06-26](./data/2026-06-26.md)
 
 ## ua.korrespondent.net
+19:00 [Атаки на Дніпропетровщину: є загиблий і поранений](https://ua.korrespondent.net/ukraine/4889703-ataky-na-dnipropetrovschynu-ye-zahyblyi-i-poranenyi)<br>
+18:35 [У Польщі затримали українця через погрози президенту Навроцькому - ЗМІ](https://ua.korrespondent.net/world/4889698-u-polschi-zatrymaly-ukraintsia-cherez-pohrozy-prezydentu-navrotskomu-zmi)<br>
 18:10 [В Ормузькій протоці атакували нафтовий танкер](https://ua.korrespondent.net/world/4889693-v-ormuzkii-prototsi-atakuvaly-naftovyi-tanker)<br>
 17:45 [Німеччина може повернути обов’язковий призов до війська](https://ua.korrespondent.net/world/4889691-nimechchyna-mozhe-povernuty-oboviazkovyi-pryzov-do-viiska)<br>
 17:20 [У Московській області оголосили режим безпілотної небезпеки](https://ua.korrespondent.net/world/russia/4889688-u-moskovskii-oblasti-oholosyly-rezhym-bezpilotnoi-nebezpeky)<br>
@@ -50,11 +52,17 @@ Previous day: [2026-06-26](./data/2026-06-26.md)
 00:15 [На Сумщині росіяни вбили пенсіонера у власному будинку](https://ua.korrespondent.net/ukraine/4889574-na-sumschyni-rosiiany-vbyly-pensionera-u-vlasnomu-budynku)<br>
 
 ## as.com
+18:50 [¿Y si ganamos qué...? Pues esto](https://as.com/opinion/y-si-ganamos-que-pues-esto-f202606-n/)<br>
 15:55 [TJ Shorts, el primero en llegar](https://as.com/baloncesto/acb/tj-shorts-el-primero-en-llegar-f202606-n/)<br>
 13:21 [El PAO, sobre Juancho y el Madrid: “Quiere estar aquí”](https://as.com/baloncesto/euroliga/el-pao-sobre-juancho-y-el-madrid-quiere-estar-aqui-f202606-n/)<br>
 10:59 [Mike James y el Barça: un lío tremendo](https://as.com/baloncesto/euroliga/mike-james-y-el-barca-un-lio-tremendo-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:10 [La UME rescata a una persona con vida tras permanecer 72 horas atrapada bajo escombros en La Guaira](https://www.elperiodico.com/es/internacional/20260627/ume-rescata-persona-vida-terremoto-venezuela-131884895)<br>
+19:00 [Cuestión de Estado: ¿Nuevas Compañías?](https://www.elperiodico.com/es/politica/20260627/xxx-131832618)<br>
+18:49 [Rescatan a un bebé recién nacido tras estar atrapado 32 horas bajo los escombros del terremoto](https://www.elperiodico.com/es/videos/internacional/rescatan-bebe-recien-nacido-atrapado/131884404.shtml)<br>
+18:15 [Pilar, madre de un joven adicto a los videojuegos: "Lo tienes que tratar como un problema que dura toda la vida"](https://www.elperiodico.com/es/sociedad/20260627/pilar-madre-joven-adicto-videojuegos-entrevista-dv-131713266)<br>
+18:07 [Venezuela sigue temblando: la tragedia continúa entre réplicas y rescates imposibles](https://www.elperiodico.com/es/fotos/internacional/venezuela-sigue-temblando-tragedia-continua-131883144)<br>
 18:05 [La mejor piscina natural cerca de Lleida para una escapada con niños](https://www.elperiodico.com/es/catalunya/20260627/mejor-piscina-natural-gorgs-cerca-lleida-dv-loc-104920951)<br>
 17:45 [El psicólogo Juan Lucas Martín, sobre cómo sanar un trauma: "El cerebro no distingue entre lo que imagina y lo que vive"](https://www.elperiodico.com/es/ser-feliz/20260627/psicologo-trauma-ayuda-salud-mental-vida-plena-dv-123858822)<br>
 17:44 [Una mujer de 80 años muere ahogada en la playa en l'Ampolla](https://www.elperiodico.com/es/sucesos/20260627/mujer-80-anos-muere-ahogada-playa-ampolla-tarragona-131882319)<br>
