@@ -1,5 +1,77 @@
 [
   {
+    "title": "Guerra de Irán, en directo | Última hora de los bombardeos de Estados Unidos tras el ataque de Teherán en Ormuz",
+    "link": "https://www.elperiodico.com/es/internacional/20260627/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-06-27 07:02:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pódcast de EL PERIÓDICO | El Mundial... y el resto es pecata minuta",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260627/podcast-periodico-mundial-resto-pecata-sergi-mas-131864385",
+    "pubDate": "2026-06-27 07:01:02",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Mundial de Fútbol: los aficionados británicos consumen en Benidorm 190.000 litros de cerveza diarios viendo los partidos",
+    "link": "https://www.elperiodico.com/es/deportes/20260627/cerveza-expande-universo-zona-inglesa-cuatro-millones-de-litros-mundial-de-futbol-sin-agua-131799523",
+    "pubDate": "2026-06-27 07:00:43",
+    "category": "",
+    "description": "<h2>Hasta cuatro millones de litros se consumen en los pubs durante las semanas del campeonato</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Volkswagen закриє чотири заводи і звільнить 100 000 людей - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/auto/4889605-Volkswagen-zakryie-chotyry-zavody-i-zvilnyt-100-000-luidei-zmi",
+    "pubDate": "2026-06-27 06:56:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472341.jpg\">Ключовий бренд Volkswagen, а також підрозділ з виробництва компонентів планується вивести з концерну та перетворити на самостійні компанії.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo | Última hora del fuego de Tiana, en Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260627/incendios-forestales-catalunya-espana-directo-131393069",
+    "pubDate": "2026-06-27 06:47:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora del terremoto en Venezuela, en directo | Españoles fallecidos, cifra de muertos, heridos y desaparecidos",
+    "link": "https://www.elperiodico.com/es/internacional/20260627/terremoto-venezuela-hoy-ultima-hora-directo-131788662",
+    "pubDate": "2026-06-27 06:42:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260625/doblete-sismico-venezuela-explicacion-131792108\" target=\"_blank\">¿Qué es el doblete sísmico que ha ocurrido en Venezuela y por qué se han producido dos terremotos violentos en menos de un minuto?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260625/terremotos-venezuela-desaparecidos-muertos-caracas-131790570\" target=\"_blank\">Venezuela busca a la desesperada a los desaparecidos por los terremotos: \"¡Antonio, mamá está aquí!\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 27 червня",
+    "link": "https://ua.korrespondent.net/ukraine/4889602-henshtab-nazvav-vtraty-rosii-stanom-na-27-chervnia",
+    "pubDate": "2026-06-27 06:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472305.jpg\">Минулої доби ЗСУ ліквідували 1350 окупантів. Знищено танк, 12 бронемашин, 58 артсистем, три РСЗВ, 11 НРК, 1951 дрон і три ракети.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дембеле став героєм матчу Франції з Норвегією, Сенегал розгромив Ірак",
+    "link": "https://ua.korrespondent.net/sport/football/4889580-dembele-stav-heroiem-matchu-frantsii-z-norvehiieui-senehal-rozghromyv-irak",
+    "pubDate": "2026-06-27 06:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472303.jpg\">На чемпіонаті світу визначилися фінальні позиції у квартеті I: французи розгромили Норвегію з трьома голами Дембеле, тоді як Сенегал скористався ослабленням і розгромив Ірак.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Sánchez y Feijóo, choque de impotencias",
     "link": "https://www.elperiodico.com/es/opinion/20260627/sanchez-feijoo-choque-impotencias-131860281",
     "pubDate": "2026-06-27 06:01:18",
@@ -126,6 +198,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Ibiza, conectada con su esencia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260627/ibiza-conectada-esencia-bc-131869805",
+    "pubDate": "2026-06-27 06:00:53",
+    "category": "",
+    "description": "<h2>Ibiza ofrece actividades y experiencias para familias, parejas y viajeros que invitan a conocer sus tradiciones y su forma de entender la vida mediterránea</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El PP catalán celebra un congreso plácido, sin discrepancias internas y alineado con la estrategia de Feijóo",
     "link": "https://www.elperiodico.com/es/politica/20260627/congreso-pp-catalan-placido-sin-discrepancias-alineado-feijoo-131801762",
     "pubDate": "2026-06-27 06:00:52",
@@ -176,6 +257,15 @@
     "pubDate": "2026-06-27 04:56:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472094.jpg\">Очільник МЗС Польщі заявив, що Навроцький припустився помилки, додавши, що це рішення також було непропорційною відповіддю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El proyecto intelectual de la FeLiX",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260627/proyecto-intelectual-felix-131764034",
+    "pubDate": "2026-06-27 04:50:31",
+    "category": "",
+    "description": "<h2>Construir una feria del libro a partir de los temas y no solo de las novedades literarias es la forma de presentar no un evento, sino también un proyecto intelectual. </h2>",
     "topic": "",
     "topic_match_probability": 0
   },

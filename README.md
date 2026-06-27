@@ -1,8 +1,9 @@
-# News for 2026-06-27 06:12
+# News for 2026-06-27 07:11
 
 Previous day: [2026-06-26](./data/2026-06-26.md)
 
 ## ua.korrespondent.net
+06:24 [Генштаб назвав втрати Росії станом на 27 червня](https://ua.korrespondent.net/ukraine/4889602-henshtab-nazvav-vtraty-rosii-stanom-na-27-chervnia)<br>
 05:27 [Іран заявив про атаку на позиції армії США](https://ua.korrespondent.net/world/4889599-iran-zaiavyv-pro-ataku-na-pozytsii-armii-ssha)<br>
 04:56 ["Це принизливо": Сікорський прокоментував позбавлення Зеленського ордена](https://ua.korrespondent.net/world/4889590-tse-prynyzlyvo-sikorskyi-prokomentuvav-pozbavlennia-zelenskoho-ordena)<br>
 04:25 [Землетрус у Венесуелі завдав збитки на мільярди](https://ua.korrespondent.net/world/4889594-zemletrus-u-venesueli-zavdav-zbytky-na-miliardy)<br>
@@ -17,6 +18,9 @@ Previous day: [2026-06-26](./data/2026-06-26.md)
 00:15 [На Сумщині росіяни вбили пенсіонера у власному будинку](https://ua.korrespondent.net/ukraine/4889574-na-sumschyni-rosiiany-vbyly-pensionera-u-vlasnomu-budynku)<br>
 
 ## www.elperiodico.com
+07:02 [Guerra de Irán, en directo | Última hora de los bombardeos de Estados Unidos tras el ataque de Teherán en Ormuz](https://www.elperiodico.com/es/internacional/20260627/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+06:47 [Incendios forestales en Catalunya y resto de España, en directo | Última hora del fuego de Tiana, en Barcelona](https://www.elperiodico.com/es/sociedad/20260627/incendios-forestales-catalunya-espana-directo-131393069)<br>
+06:42 [Última hora del terremoto en Venezuela, en directo | Españoles fallecidos, cifra de muertos, heridos y desaparecidos](https://www.elperiodico.com/es/internacional/20260627/terremoto-venezuela-hoy-ultima-hora-directo-131788662)<br>
 06:01 [Sánchez y Feijóo, choque de impotencias](https://www.elperiodico.com/es/opinion/20260627/sanchez-feijoo-choque-impotencias-131860281)<br>
 06:01 [Las zambullidas causan hasta 60 lesiones medulares al año en España: “Un segundo de adrenalina puede dejarte una lesión permanente”](https://www.elperiodico.com/es/sanidad/20260627/zambullidas-lesiones-medulares-roca-adrenalina-131767888)<br>
 06:01 [Drones militares en Castilla: una aeronáutica polaca inicia un plan para producir en Burgos robots aéreos de vigilancia y ataque](https://www.elperiodico.com/es/politica/20260627/drones-militares-castilla-aeronautica-polaca-universidad-burgos-131856040)<br>
@@ -26,4 +30,6 @@ Previous day: [2026-06-26](./data/2026-06-26.md)
 06:00 [Estados Unidos y China agrietan la tregua comercial con sus vetos a empresas](https://www.elperiodico.com/es/internacional/20260627/estados-unidos-china-listas-negras-empresas-pacto-comercial-131849737)<br>
 06:00 [El error de dirigir las marcas a ritmo de trimestre](https://www.elperiodico.com/es/economia/20260627/error-dirigir-marcas-ritmo-trimestre-131869825)<br>
 06:00 [Eloi Planes, un ingeniero que escribe poemas en los aviones](https://www.elperiodico.com/es/economia/20260627/eloi-planes-ingeniero-escribe-poemas-131837058)<br>
+06:00 [Ibiza, conectada con su esencia](https://www.elperiodico.com/es/ocio-y-cultura/20260627/ibiza-conectada-esencia-bc-131869805)<br>
 06:00 [El PP catalán celebra un congreso plácido, sin discrepancias internas y alineado con la estrategia de Feijóo](https://www.elperiodico.com/es/politica/20260627/congreso-pp-catalan-placido-sin-discrepancias-alineado-feijoo-131801762)<br>
+04:50 [El proyecto intelectual de la FeLiX](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260627/proyecto-intelectual-felix-131764034)<br>
