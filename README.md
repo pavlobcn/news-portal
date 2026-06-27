@@ -1,8 +1,11 @@
-# News for 2026-06-27 19:16
+# News for 2026-06-27 20:22
 
 Previous day: [2026-06-26](./data/2026-06-26.md)
 
 ## ua.korrespondent.net
+20:15 [Ізраїль завдав удару по Лівану після укладання безпекової угоди](https://ua.korrespondent.net/world/4889712-izrail-zavdav-udaru-po-livanu-pislia-ukladannia-bezpekovoi-uhody)<br>
+19:50 [Густий смог накрив Київ](https://ua.korrespondent.net/kyiv/4889710-hustyi-smoh-nakryv-kyiv)<br>
+19:25 [На Закарпатті під час руху загорівся дизель-поїзд](https://ua.korrespondent.net/ukraine/4889707-na-zakarpatti-pid-chas-rukhu-zahorivsia-dyzel-poizd)<br>
 19:00 [Атаки на Дніпропетровщину: є загиблий і поранений](https://ua.korrespondent.net/ukraine/4889703-ataky-na-dnipropetrovschynu-ye-zahyblyi-i-poranenyi)<br>
 18:35 [У Польщі затримали українця через погрози президенту Навроцькому - ЗМІ](https://ua.korrespondent.net/world/4889698-u-polschi-zatrymaly-ukraintsia-cherez-pohrozy-prezydentu-navrotskomu-zmi)<br>
 18:10 [В Ормузькій протоці атакували нафтовий танкер](https://ua.korrespondent.net/world/4889693-v-ormuzkii-prototsi-atakuvaly-naftovyi-tanker)<br>
@@ -58,8 +61,12 @@ Previous day: [2026-06-26](./data/2026-06-26.md)
 10:59 [Mike James y el Barça: un lío tremendo](https://as.com/baloncesto/euroliga/mike-james-y-el-barca-un-lio-tremendo-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:15 [Félix García, experto en reformas revela la reforma del baño que multiplica el espacio sin ampliar metros](https://www.elperiodico.com/es/vida-y-estilo/20260627/felix-garcia-muestra-reforma-bano-dv-131656317)<br>
+20:10 [La UME continúa realizando misiones de rescate en La Guaira, zona afectada por los terremotos en Venezuela](https://www.elperiodico.com/es/videos/sociedad/ume-continua-realizando-misiones-rescate/131885897.shtml)<br>
+19:50 [Una mujer de 80 años, en la UCI del Trueta tras ser rescatada en estado crítico de la Platja Gran de Palamós](https://www.elperiodico.com/es/sucesos/20260627/mujer-80-anos-uci-trueta-estado-critico-palamos-131885444)<br>
 19:10 [La UME rescata a una persona con vida tras permanecer 72 horas atrapada bajo escombros en La Guaira](https://www.elperiodico.com/es/internacional/20260627/ume-rescata-persona-vida-terremoto-venezuela-131884895)<br>
 19:00 [Cuestión de Estado: ¿Nuevas Compañías?](https://www.elperiodico.com/es/politica/20260627/xxx-131832618)<br>
+19:00 [Cuestión de Estado: ¿Nuevas Compañías?](https://www.elperiodico.com/es/politica/20260627/cuestion-estado-nuevas-companias-131832618)<br>
 18:49 [Rescatan a un bebé recién nacido tras estar atrapado 32 horas bajo los escombros del terremoto](https://www.elperiodico.com/es/videos/internacional/rescatan-bebe-recien-nacido-atrapado/131884404.shtml)<br>
 18:15 [Pilar, madre de un joven adicto a los videojuegos: "Lo tienes que tratar como un problema que dura toda la vida"](https://www.elperiodico.com/es/sociedad/20260627/pilar-madre-joven-adicto-videojuegos-entrevista-dv-131713266)<br>
 18:07 [Venezuela sigue temblando: la tragedia continúa entre réplicas y rescates imposibles](https://www.elperiodico.com/es/fotos/internacional/venezuela-sigue-temblando-tragedia-continua-131883144)<br>
