@@ -1,5 +1,131 @@
 [
   {
+    "title": "Barbón reafirma ante Sánchez su negativa a aceptar el sistema de financiación pactado con ERC",
+    "link": "https://www.elperiodico.com/es/politica/20260627/barbon-reafirma-sanchez-negativa-aceptar-131887117",
+    "pubDate": "2026-06-27 21:21:47",
+    "category": "",
+    "description": "<h2>El presidente del Principado cargó contra la corrupción en el Comité Federal: \"Quien es condenado, que lo pague\"</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "El presidente serbio Vučić anuncia que dimitirá \"en semanas\" y Serbia irá a elecciones anticipadas",
+    "link": "https://www.elperiodico.com/es/internacional/20260627/presidente-serbio-vucic-anuncia-dimitira-131886935",
+    "pubDate": "2026-06-27 21:17:23",
+    "category": "",
+    "description": "<h2>El presidente serbio, en el poder desde hace casi 14 años, cede tras año y medio de protestas estudiantiles contra la corrupción, desatadas por el derrumbe de una marquesina en Novi Sad que mató a 16 personas</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El hombre salvajemente agredido a martillazos en Murcia continúa en la UCI",
+    "link": "https://www.elperiodico.com/es/sucesos/20260627/hombre-salvajemente-agredido-martillazos-murcia-131886892",
+    "pubDate": "2026-06-27 21:14:08",
+    "category": "",
+    "description": "<h2>La Guardia Civil espera que su estado de salud mejore para poder tomarle declaración sobre qué motivó la pelea que dio lugar al violento ataque</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Guardia Civil encuentra en Kosovo a una niña secuestrada por su padre en Mallorca",
+    "link": "https://www.elperiodico.com/es/sucesos/20260627/guardia-civil-encuentra-kosovo-nina-131886829",
+    "pubDate": "2026-06-27 21:12:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La menor de seis años fue localizada en buen estado y el padre ha sido detenido por las autoridades policiales kosovares </h2><h2 class=\"item\">El hombre escondió a su hija en el maletero de un coche para abandonar la isla en barco y cruzar los controles fronterizos sin declarar su presencia </h2><h2 class=\"item\"> Tomó varias medidas para evitar ser localizados: envió el AirTag de la menor a Marruecos, eliminó sus redes sociales, canceló las cuentas bancarias y cambió su apariencia física para pasar desapercibido</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 25
+  },
+  {
+    "title": "Землетрус у Венесуелі: кількість жертв зросла до 1430",
+    "link": "https://ua.korrespondent.net/world/4889723-zemletrus-u-venesueli-kilkist-zhertv-zrosla-do-1430",
+    "pubDate": "2026-06-27 21:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472885.jpg\">Найбільше потерпів від стихії штат Ла-Гуайра. Після двох землетрусів, які сталися у середу, в країні зафіксували ще 430 афтершоків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, domingo 28 de junio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260627/horoscopo-hoy-domingo-28-junio-dv-131769711",
+    "pubDate": "2026-06-27 21:00:18",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El neerlandés Cody Gakpo anuncia la muerte de su hijo durante el embarazo",
+    "link": "https://www.elperiodico.com/es/deportes/20260627/mundial-cody-gapko-anuncia-muerte-hijo-embarazo-131886382",
+    "pubDate": "2026-06-27 20:52:50",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del sábado, 27 de junio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260627/primitiva-hoy-sabado-resultados-comprobar-numeros-27-de-junio-2026-131886516",
+    "pubDate": "2026-06-27 20:51:09",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Mis tres primos murieron y mi abuela está viva de milagro\": Paola Cepeda, estudiante en Murcia que ha perdido a su familia en el terremoto de Venezuela",
+    "link": "https://www.elperiodico.com/es/sucesos/20260627/tres-primos-murieron-abuela-viva-131886496",
+    "pubDate": "2026-06-27 20:46:36",
+    "category": "",
+    "description": "<h2>La alumna de Arquitectura ha iniciado una campaña solidaria en 'Go fund me' para reconstruir el negocio de sus padres, que daba empleo a 80 personas </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Довбик цікавий Бетісу, однак Рома щодо цього має власну думку",
+    "link": "https://ua.korrespondent.net/sport/football/4889721-dovbyk-tsikavyi-betisu-odnak-roma-schodo-tsoho-maie-vlasnu-dumku",
+    "pubDate": "2026-06-27 20:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472843.jpg\">Клуб із Севільї пропонує \"вовкам\" узяти форварда в оренду, однак римляни наполягають на продажі гравця.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Києві юнак за кермом мотоцикла на смерть збив пішохода",
+    "link": "https://ua.korrespondent.net/kyiv/4889718-u-kyievi-yunak-za-kermom-mototsykla-na-smert-zbyv-pishokhoda",
+    "pubDate": "2026-06-27 20:40:00",
+    "category": "Київ новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472871.jpeg\"> ДТП сталася сьогодні вдень в Оболонському районі столиці на перетині вул. Сімʼї Кульженків та Великой кільцевої дороги.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Unas 2.000 personas reivindican los derechos LGTBI \"más allá del matrimonio\" en una manifestación en Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/2-000-personas-reivindican-derechos/131886217.shtml",
+    "pubDate": "2026-06-27 20:32:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Manuel Amate, experto en ahorro energético, avisa del error que muchos cometen con el aire acondicionado: \"Nos da algo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260627/manuel-amate-experto-ahorro-energetico-error-aire-acondicionado-dv-131845264",
+    "pubDate": "2026-06-27 20:30:43",
+    "category": "",
+    "description": "<h2>El especialista recomienda no bajar el aparato a 22 grados y recuerda un gesto básico que puede reducir el consumo en plena ola de calor</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260624/aire-acondicionado-ventilador-consumo-precio-dv-131696795\">Los expertos en energía coinciden: el aire acondicionado puede consumir más de 20 veces que un ventilador</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unas 2.000 personas reivindican los derechos LGTBI \"más allá del matrimonio\" en una manifestación en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260627/2-000-personas-reivindican-derechos-lgtbi-manifestacion-barcelona-131886098",
+    "pubDate": "2026-06-27 20:26:26",
+    "category": "",
+    "description": "<h2> Denuncian que siguen produciéndose agresiones contra el colectivo y que el matrimonio que se les había prometido \"no soluciona los problemas\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ізраїль завдав удару по Лівану після укладання безпекової угоди",
     "link": "https://ua.korrespondent.net/world/4889712-izrail-zavdav-udaru-po-livanu-pislia-ukladannia-bezpekovoi-uhody",
     "pubDate": "2026-06-27 20:15:00",
