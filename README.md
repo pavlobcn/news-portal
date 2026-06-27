@@ -1,8 +1,16 @@
-# News for 2026-06-27 08:12
+# News for 2026-06-27 11:13
 
 Previous day: [2026-06-26](./data/2026-06-26.md)
 
 ## ua.korrespondent.net
+10:55 [СБУ знову вдарила по станції, яка забезпечує пальним Москву](https://ua.korrespondent.net/ukraine/4889642-sbu-znovu-vdaryla-po-stantsii-yaka-zabezpechuie-palnym-moskvu)<br>
+10:30 [Венс Ірану: На насильство буде відповідь насильством](https://ua.korrespondent.net/world/4889638-vens-iranu-na-nasylstvo-bude-vidpovid-nasylstvom)<br>
+10:08 [Фламінго уразили завод у Волгограді - Зеленський](https://ua.korrespondent.net/ukraine/4889634-flaminho-urazyly-zavod-u-volhohradi-zelenskyi)<br>
+09:58 [Росіяни вдарили по фермі на Чернігівщині](https://ua.korrespondent.net/ukraine/4889632-rosiiany-vdaryly-po-fermi-na-chernihivschyni)<br>
+09:43 [Масована атака дронів на Сумщину: постраждали 10 людей](https://ua.korrespondent.net/ukraine/4889629-masovana-ataka-droniv-na-sumschynu-postrazhdaly-10-luidei)<br>
+09:15 [Атака на Запоріжжя: кількість постраждалих зросла](https://ua.korrespondent.net/city/zaporozhye/4889626-ataka-na-zaporizhzhia-kilkist-postrazhdalykh-zrosla)<br>
+08:57 [РФ атакувала АЗС у Запоріжжі та на Харківщині](https://ua.korrespondent.net/ukraine/4889621-rf-atakuvala-azs-u-zaporizhzhi-ta-na-kharkivschyni)<br>
+08:29 [ВМС знищили катер росіян на Тендрівській косі](https://ua.korrespondent.net/ukraine/4889618-vms-znyschyly-kater-rosiian-na-tendrivskii-kosi)<br>
 08:04 [Повітряні сили розкрили деталі нічної атаки Росії](https://ua.korrespondent.net/ukraine/4889616-povitriani-syly-rozkryly-detali-nichnoi-ataky-rosii)<br>
 07:38 [Атака на Волгоград: подробиці удару Фламінго](https://ua.korrespondent.net/ukraine/4889611-ataka-na-volhohrad-podrobytsi-udaru-flaminho)<br>
 07:20 [Генштаб оновив дані про події на фронті](https://ua.korrespondent.net/ukraine/4889607-henshtab-onovyv-dani-pro-podii-na-fronti)<br>
@@ -21,6 +29,22 @@ Previous day: [2026-06-26](./data/2026-06-26.md)
 00:15 [На Сумщині росіяни вбили пенсіонера у власному будинку](https://ua.korrespondent.net/ukraine/4889574-na-sumschyni-rosiiany-vbyly-pensionera-u-vlasnomu-budynku)<br>
 
 ## www.elperiodico.com
+11:11 [Comité Federal del PSOE](https://www.elperiodico.com/es/videos/politica/comite-federal-psoe/131873391.shtml)<br>
+11:09 [Juan Fernández, un hombre de consenso para ordenar la nueva etapa del PP catalán](https://www.elperiodico.com/es/politica/20260627/juan-fernandez-hombre-consenso-ordenar-pp-catalan-secretario-general-131842618)<br>
+11:08 [Alejandro Fernández sitúa a Juan Fernández como secretario general del PP catalán](https://www.elperiodico.com/es/politica/20260627/alejandro-fernandez-coloca-juan-fernandez-secretario-general-dupla-131871600)<br>
+11:07 [Una madre denuncia sumas incorrectas en notas de la PAU tras las revisiones: "Por un error objetivo mi hija se queda sin Medicina"](https://www.elperiodico.com/es/sociedad/20260627/madre-denuncia-sumas-incorrectas-notas-pau-revisiones-131873188)<br>
+10:51 [Nothing muestra el diseño del Phone (4b), su nueva apuesta para una generación más amplia de usuarios](https://www.elperiodico.com/es/tecnologia/20260627/nothing-muestra-diseno-phone-4b-131872926)<br>
+10:34 [193 millones de europeos sufrirán hoy temperaturas por encima de los 35 grados](https://www.elperiodico.com/es/tiempo/20260627/ola-calor-se-extiende-europa-satura-hospitales-131872698)<br>
+10:30 [Cerca de 16.000 aspirantes hacen este fin de semana las oposiciones a funcionario de la Generalitat](https://www.elperiodico.com/es/economia/20260627/cerca-16-000-aspirantes-semana-131871296)<br>
+10:21 [El Tribunal Constitucional resolverá en septiembre u octubre sobre la amnistía a Puigdemont](https://www.elperiodico.com/es/politica/20260627/tribunal-constitucional-resolvera-septiembre-u-131872528)<br>
+10:00 [La olvidada historia de la Sagrada Família hace 90 años: estuvo a punto de ser una vulgar parroquia con aspecto de "garaje"](https://www.elperiodico.com/es/barcelona/eixample/20260627/olvidada-historia-sagrada-familia-90-131758742)<br>
+10:00 [Más dura será la caída](https://www.elperiodico.com/es/opinion/20260627/dura-sera-caida-pedro-sanchez-politica-exterior-articulo-valenti-puig-131858164)<br>
+10:00 [¿Ver para creer?](https://www.elperiodico.com/es/opinion/20260627/ver-creer-articulo-agnes-marques-131871541)<br>
+09:41 [El calor no afloja en Catalunya a la espera de un cambio de tiempo este domingo: inestabilidad y tormentas](https://www.elperiodico.com/es/tiempo/20260627/calor-cambio-tiempo-domingo-inestabilidad-tormentas-cataluna-dv-131871483)<br>
+09:21 [El Ayuntamiento de Sant Adrià se blinda por la tensión con los desahucios en La Mina y renuncia a un pleno presencial](https://www.elperiodico.com/es/barcelona/20260627/sant-adria-mina-desahucio-pisos-policia-pleno-131871164)<br>
+09:00 [¿Quién cambia el pañal?](https://www.elperiodico.com/es/opinion/20260627/cambia-panal-desigualdad-hombres-mujeres-131853857)<br>
+08:56 [Tomás Gómez: "Sánchez sabe que cuanto más tiempo esté en Moncloa, menos riesgo judicial corre personalmente"](https://www.elperiodico.com/es/politica/20260627/tomas-gomez-sanchez-moncloa-cafe-en-las-alturas-131871229)<br>
+08:56 [Un café en las alturas: Tomás Gómez](https://www.elperiodico.com/es/videos/politica/cafe-alturas-tomas-gomez/131871207.shtml)<br>
 08:11 [Francisco, español jubilado en Filipinas: "Con 800 euros al mes, aquí puedes vivir perfectamente"](https://www.elperiodico.com/es/vida-y-estilo/20260627/francisco-espanol-jubilado-filipinas-vivir-con-800-euros-dv-131798535)<br>
 08:08 [EEUU autoriza a Anthropic a lanzar su modelo de IA más avanzado tras la restricción por motivos de "seguridad"](https://www.elperiodico.com/es/tecnologia/20260627/eeuu-autoriza-anthropic-modelo-ia-mas-avanzado-seguridad-131870640)<br>
 08:00 [Marsella, el último refugio](https://www.elperiodico.com/es/internacional/20260627/marsella-ultimo-refugio-131800151)<br>
