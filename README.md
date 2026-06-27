@@ -1,8 +1,11 @@
-# News for 2026-06-27 21:25
+# News for 2026-06-27 22:59
 
 Previous day: [2026-06-26](./data/2026-06-26.md)
 
 ## ua.korrespondent.net
+22:33 [ЗМІ оцінили наслідки атак України на Москву](https://ua.korrespondent.net/world/worldabus/4889735-zmi-otsinyly-naslidky-atak-ukrainy-na-moskvu)<br>
+21:57 [Президент Сербії сказав, коли піде у відставку](https://ua.korrespondent.net/world/4889730-prezydent-serbii-skazav-koly-pide-u-vidstavku)<br>
+21:30 [З початку доби відбулося 200 боєзіткнень](https://ua.korrespondent.net/ukraine/4889725-z-pochatku-doby-vidbulosia-200-boiezitknen)<br>
 21:05 [Землетрус у Венесуелі: кількість жертв зросла до 1430](https://ua.korrespondent.net/world/4889723-zemletrus-u-venesueli-kilkist-zhertv-zrosla-do-1430)<br>
 20:15 [Ізраїль завдав удару по Лівану після укладання безпекової угоди](https://ua.korrespondent.net/world/4889712-izrail-zavdav-udaru-po-livanu-pislia-ukladannia-bezpekovoi-uhody)<br>
 19:50 [Густий смог накрив Київ](https://ua.korrespondent.net/kyiv/4889710-hustyi-smoh-nakryv-kyiv)<br>
@@ -62,6 +65,8 @@ Previous day: [2026-06-26](./data/2026-06-26.md)
 10:59 [Mike James y el Barça: un lío tremendo](https://as.com/baloncesto/euroliga/mike-james-y-el-barca-un-lio-tremendo-f202606-n/)<br>
 
 ## www.elperiodico.com
+22:06 [Clara Sánchez, académica de la RAE: "La reencarnación me parece una idea maravillosa, está presente en la naturaleza"](https://www.elperiodico.com/es/ocio-y-cultura/20260627/clara-sanchez-academica-rae-reencarnacion-idea-maravillosa-presente-naturaleza-131888102)<br>
+21:24 [La diáspora venezolana relata las horas posteriores a los dos terremotos: "Venezuela no está preparada para este tipo de circunstancias"](https://www.elperiodico.com/es/sociedad/20260627/diaspora-venezolana-relata-horas-posteriores-131887254)<br>
 21:14 [El hombre salvajemente agredido a martillazos en Murcia continúa en la UCI](https://www.elperiodico.com/es/sucesos/20260627/hombre-salvajemente-agredido-martillazos-murcia-131886892)<br>
 20:46 ["Mis tres primos murieron y mi abuela está viva de milagro": Paola Cepeda, estudiante en Murcia que ha perdido a su familia en el terremoto de Venezuela](https://www.elperiodico.com/es/sucesos/20260627/tres-primos-murieron-abuela-viva-131886496)<br>
 20:32 [Unas 2.000 personas reivindican los derechos LGTBI "más allá del matrimonio" en una manifestación en Barcelona](https://www.elperiodico.com/es/videos/sociedad/2-000-personas-reivindican-derechos/131886217.shtml)<br>
