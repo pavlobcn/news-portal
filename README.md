@@ -1,8 +1,10 @@
-# News for 2026-06-28 16:09
+# News for 2026-06-28 17:14
 
 Previous day: [2026-06-27](./data/2026-06-27.md)
 
 ## ua.korrespondent.net
+16:51 [ЗМІ оцінили шанси Стармера посісти посаду генсека НАТО](https://ua.korrespondent.net/world/4889866-zmi-otsinyly-shansy-starmera-posisty-posadu-henseka-nato)<br>
+16:26 [Армія РФ найбільше атакує на двох напрямках - ГШ](https://ua.korrespondent.net/ukraine/4889864-armiia-rf-naibilshe-atakuie-na-dvokh-napriamkakh-hsh)<br>
 15:59 [Росія і Китай провели спільні військові навчання](https://ua.korrespondent.net/world/russia/4889862-rosiia-i-kytai-provely-spilni-viiskovi-navchannia)<br>
 15:38 [Аномальна спека: у Франції загинули близько тисячі осіб](https://ua.korrespondent.net/world/4889859-anomalna-speka-u-frantsii-zahynuly-blyzko-tysiachi-osib)<br>
 15:14 [Атака РФ на Київ: постраждав фармзавод Дарниця](https://ua.korrespondent.net/city/kiev/4889857-ataka-rf-na-kyiv-postrazhdav-farmzavod-darnytsia)<br>
@@ -44,11 +46,20 @@ Previous day: [2026-06-27](./data/2026-06-27.md)
 00:47 [США заявили про нові удари по цілях Ірану](https://ua.korrespondent.net/ukraine/4889752-ssha-zaiavyly-pro-novi-udary-po-tsiliakh-iranu)<br>
 
 ## as.com
+16:54 [DJ. Stewart, primer refuerzo veraniego para el Baskonia](https://as.com/baloncesto/dj-stewart-primer-refuerzo-veraniego-para-el-baskonia-f202606-n/)<br>
 12:20 [Valdemoro entra en el Hall of Fame: “Los sueños se cumplen”](https://as.com/baloncesto/mas_baloncesto/valdemoro-entra-en-el-hall-of-fame-los-suenos-se-cumplen-f202606-n/)<br>
 10:34 [El primer paso del nuevo Real Madrid](https://as.com/baloncesto/acb/el-primer-paso-del-nuevo-real-madrid-f202606-n/)<br>
 08:21 [El Barça necesita otra revolución](https://as.com/baloncesto/el-barca-necesita-otra-revolucion-f202606-n/)<br>
 
 ## www.elperiodico.com
+17:08 [Rescatan a un excursionista herido tras un desprendimiento de piedras en el Pedraforca](https://www.elperiodico.com/es/sucesos/20260628/rescatan-excursionista-herido-desprendimiento-piedras-pedraforca-131905699)<br>
+17:05 [Los psicólogos coinciden: las personas mayores conviven mejor con el silencio que los jóvenes](https://www.elperiodico.com/es/ser-feliz/20260628/mayores-silencio-soledad-mejor-jovenes-psicologia-dv-131391333)<br>
+17:01 [Cómo acompañar a un hijo frente al odio en redes: "Lo primero es validar que le hace daño"](https://www.elperiodico.com/es/educacion/20260628/odio-redes-hijos-131758481)<br>
+16:47 [Marina Vilalta (99 años), la pastora más vieja de Catalunya: "Si me quedo en casa me pongo nerviosa"](https://www.elperiodico.com/es/sociedad/20260628/marina-vilalta-pastora-vieja-catalunya-99-anos-entrevista-131904623)<br>
+16:46 [Un hombre muere apuñalado en el cuello en una calle de La Coruña](https://www.elperiodico.com/es/sucesos/20260628/hombre-muere-apunalado-cuello-calle-131905114)<br>
+16:35 [Pedro Sánchez reivindica que España es "el mejor país" para ser y amar en libertad](https://www.elperiodico.com/es/videos/politica/pedro-sanchez-reivindica-espana-mejor/131904598.shtml)<br>
+16:24 [La Selección en catalán](https://www.elperiodico.com/es/opinion/20260628/seleccion-catalan-articulo-sergi-sol-131903551)<br>
+16:14 [El papa León XIV expresa su cercanía al pueblo de Venezuela tras los terremotos](https://www.elperiodico.com/es/videos/internacional/papa-leon-xiv-expresa-cercania/131903658.shtml)<br>
 16:07 [Alemania pasa con 29,4 grados la noche más calurosa desde que hay registros](https://www.elperiodico.com/es/internacional/20260628/record-temperatura-ola-calor-alemania-131903505)<br>
 16:00 [José Hernández, neurocirujano: "Envejecer es opcional, con buenas rutinas puedes rebajar un 60% el riesgo de alzhéimer"](https://www.elperiodico.com/es/sociedad/20260628/jose-hernandez-poveda-envejecer-opcional-alzheimer-131285671)<br>
 16:00 [Andreina Seijas: "La gestión nocturna será una parte fundamental de la visión de Barcelona a largo plazo"](https://www.elperiodico.com/es/barcelona/20260628/andreina-seijas-gestion-nocturna-fundamental-barcelona-largo-plazo-131855982)<br>
@@ -117,6 +128,7 @@ Previous day: [2026-06-27](./data/2026-06-27.md)
 06:00 [¿Tiene gasolina el Ibex 35 para romper los 20.000 puntos?: los analistas ven al alcance el próximo récord](https://www.elperiodico.com/es/economia/20260628/gasolina-ibex-35-romper-20-131891813)<br>
 06:00 [De la visita del Papa al eclipse de agosto: así se preparan las redes de telecomunicaciones para los grandes eventos](https://www.elperiodico.com/es/economia/redes-telecomunicaciones-grandes-eventos-131816645-rm/index.html)<br>
 06:00 [Baleària sube al podio europeo con la compra de Armas](https://www.elperiodico.com/es/economia/20260628/balearia-sube-podio-europeo-compra-131891741)<br>
+06:00 [De la visita del Papa al eclipse de agosto: así se preparan las redes de telecomunicaciones para los grandes eventos](https://www.elperiodico.com/es/economia/20260628/visita-papa-eclipse-agosto-preparan-131817404)<br>
 06:00 [Los rincones secretos de la Sagrada Família (III): ¿qué hay debajo del templo?](https://www.elperiodico.com/es/barcelona/eixample/20260628/rincones-secretos-sagrada-familia-sotanos-131537860)<br>
 06:00 ["La energía solar nos permite cubrir más de la mitad de nuestro consumo eléctrico"](https://www.elperiodico.com/es/economia/20260628/energia-solar-padel-gava-bc-131801256)<br>
 06:00 [Teresa Táboas, vicepresidenta de la Unión Internacional de Arquitectos: "España no sufriría una crisis de la vivienda si hubiera planificado"](https://www.elperiodico.com/es/ocio-y-cultura/20260628/entrevista-teresa-taboas-union-internacional-arquitectos-congreso-mundial-arquitectos-barcelona-2026-130707220)<br>
