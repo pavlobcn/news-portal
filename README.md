@@ -1,8 +1,11 @@
-# News for 2026-06-28 18:24
+# News for 2026-06-28 19:31
 
 Previous day: [2026-06-27](./data/2026-06-27.md)
 
 ## ua.korrespondent.net
+19:23 [Кучма отримав нагороду імені Левка Лук'яненка](https://ua.korrespondent.net/ukraine/4889883-kuchma-otrymav-nahorodu-imeni-levka-lukianenka)<br>
+18:57 [Польська розвідка попередила про провокації від РФ](https://ua.korrespondent.net/world/4889872-polska-rozvidka-poperedyla-pro-provokatsii-vid-rf)<br>
+18:33 [Синоптики розповіли, коли в Україні спаде спека](https://ua.korrespondent.net/ukraine/4889881-synoptyky-rozpovily-koly-v-ukraini-spade-speka)<br>
 18:08 [У Саудівській Аравії розбився гелікоптер, чотирнадцять загиблих](https://ua.korrespondent.net/world/4889878-u-saudivskii-aravii-rozbyvsia-helikopter-chotyrnadtsiat-zahyblykh)<br>
 17:42 [Командира 154 омбр знайшли мертвим](https://ua.korrespondent.net/ukraine/4889875-komandyra-154-ombr-znaishly-mertvym)<br>
 17:14 [У Франції літак впав біля супермаркета: 11 осіб загинули](https://ua.korrespondent.net/world/4889870-u-frantsii-litak-vpav-bilia-supermarketa-11-osib-zahynuly)<br>
@@ -55,6 +58,12 @@ Previous day: [2026-06-27](./data/2026-06-27.md)
 08:21 [El Barça necesita otra revolución](https://as.com/baloncesto/el-barca-necesita-otra-revolucion-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:20 [Los psicólogos coinciden: escribir las fechas a mano ayuda a recordarlas mejor](https://www.elperiodico.com/es/ser-feliz/20260628/escribir-mano-memoria-calendario-psicologia-dv-131410738)<br>
+19:16 [Rubén Ariza, fontanero: "Creo que se paga demasiado y hay muy poca ayuda al empresario"](https://www.elperiodico.com/es/economia/20260628/emprendedores-autonomos-cotizaciones-seguridad-social-fontanero-ruben-ariza-dv-131415945)<br>
+19:15 [Este es el país de Europa al que ir si se quiere escapar del calor](https://www.elperiodico.com/es/economia/20260628/lituania-turismo-bajas-temperaturas-verano-que-hacer-dv-131797101)<br>
+19:04 [Los Marines norteamericanos toman parte de la "zona cero" para acelerar las tareas de rescate en momentos críticos](https://www.elperiodico.com/es/internacional/20260628/marines-norteamericanos-toman-parte-zona-131909228)<br>
+18:56 [El salto mundial de 'Decorado': la película con sello extremeño gana en el gran templo de la animación](https://www.elperiodico.com/es/ocio-y-cultura/20260628/salto-mundial-decorado-pelicula-sello-131908908)<br>
+18:33 [Los Comuns rechazan la propuesta de Junts de sustituir a Sánchez porque "derechizaría" el PSOE](https://www.elperiodico.com/es/politica/20260628/comuns-rechaza-propuesta-junts-sustituir-pedro-sanchez-gerardo-pisarello-131908151)<br>
 18:08 [La espectacular imagen del impacto de un rayo en la Torre Eiffel](https://www.elperiodico.com/es/videos/sociedad/espectacular-imagen-impacto-rayo-torre/131907705.shtml)<br>
 18:00 [Alemania marca el paso a la UE con las deportaciones de afganos negociadas con los talibanes](https://www.elperiodico.com/es/internacional/20260628/alemania-deportaciones-afganistan-talibanes-union-europea-131856091)<br>
 17:44 [Un muerto y dos heridos atropellados por un camión de basura en Pamplona](https://www.elperiodico.com/es/sucesos/20260628/muerto-heridos-atropellados-camion-basura-131906678)<br>
