@@ -1,5 +1,104 @@
 [
   {
+    "title": "La espectacular imagen del impacto de un rayo en la Torre Eiffel",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/espectacular-imagen-impacto-rayo-torre/131907705.shtml",
+    "pubDate": "2026-06-28 18:08:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Саудівській Аравії розбився гелікоптер, чотирнадцять загиблих",
+    "link": "https://ua.korrespondent.net/world/4889878-u-saudivskii-aravii-rozbyvsia-helikopter-chotyrnadtsiat-zahyblykh",
+    "pubDate": "2026-06-28 18:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473795.png\">Гвинтокрил національної нафтової компанії впав на захід від Ормузької протоки. Причини аварії поки що не відомі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Збірна України з волейболу з поразкою від болгарів залишається у Лізі націй",
+    "link": "https://ua.korrespondent.net/sport/4889877-zbirna-ukrainy-z-voleibolu-z-porazkoui-vid-bolhariv-zalyshaietsia-u-lizi-natsii",
+    "pubDate": "2026-06-28 18:07:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473760.jpg\">У наступному сезоні українська національна команда візьме участь у розіграші Ліги націй, зважаючи на результативність нинішнього сезону.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Alemania marca el paso a la UE con las deportaciones de afganos negociadas con los talibanes",
+    "link": "https://www.elperiodico.com/es/internacional/20260628/alemania-deportaciones-afganistan-talibanes-union-europea-131856091",
+    "pubDate": "2026-06-28 18:00:02",
+    "category": "",
+    "description": "<h2>El canciller Merz pretende acelerar las expulsiones en diálogo directo con Kabul, tras años de \"goteo\" de repatriaciones a través de Catar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un muerto y dos heridos atropellados por un camión de basura en Pamplona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260628/muerto-heridos-atropellados-camion-basura-131906678",
+    "pubDate": "2026-06-28 17:44:25",
+    "category": "",
+    "description": "<h2>Una avería mecánica en el vehículo provoca un trágico atropello múltiple en el Casco Antiguo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Командира 154 омбр знайшли мертвим",
+    "link": "https://ua.korrespondent.net/ukraine/4889875-komandyra-154-ombr-znaishly-mertvym",
+    "pubDate": "2026-06-28 17:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473772.jpg\">За попередньою інформацією, ознак насильства не виявлено, але остаточні висновки зроблять за результатами розслідування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona se convierte en el ágora mundial de la función social de la arquitectura.",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/barcelona-convierte-agora-mundial-funcion/131906536.shtml",
+    "pubDate": "2026-06-28 17:38:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Steve Clarke dimite como seleccionador de Escocia tras la eliminación del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/steve-clarke-dimite-seleccionador-escocia-131906353",
+    "pubDate": "2026-06-28 17:31:38",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Estos son los modelos que vende en España Polestar, la marca sueca premium del grupo chino Geely",
+    "link": "https://www.elperiodico.com/es/motor/20260628/coches-vende-polestar-espana-grupo-geely-130083026",
+    "pubDate": "2026-06-28 17:30:35",
+    "category": "",
+    "description": "<h2>Polestar nace como un equipo de competición en la década de los 90 y se transforma en una marca independiente ya en 2017, fruto de una joint-venture entre Volvo Cars y Geely Auto, ambas bajo el paraguas del mismo holding.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona se convierte en el ágora mundial de la función social de la arquitectura",
+    "link": "https://www.elperiodico.com/es/sociedad/20260628/barcelona-congreso-mundial-arquitectura-inauguracion-funcion-social-ciudades-futuro-131879028",
+    "pubDate": "2026-06-28 17:29:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El alcalde Jaume Collboni reivindica la capital catalana como \"laboratorio de las ciudades del futuro\" ante retos como el de la vivienda y el cambio climático en la inauguración del Congreso Mundial de Arquitectos</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260626/talleres-congreso-mundial-arquitectos-barcelona-2026-tres-chimeneas-sant-adria-131819624\" target=\"_blank\">¿Tendría éxito una figura de la Sagrada Família hecha con botellas de licor, agua y refrescos?</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260626/congreso-mundial-arquitectos-barcelona-2026-tres-chimeneas-sant-adria-de-besos-131851516\" target=\"_blank\">El Congreso Mundial de Arquitectos de Barcelona desvela sus armas secretas para calar entre la ciudadanía</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260628/congreso-mundial-arquitectos-barcelona-2026-130528139\" target=\"_blank\">El Congreso Mundial de Arquitectos de Barcelona cambia el paradigma: \"La arquitectura es un servicio\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Франції літак впав біля супермаркета: 11 осіб загинули",
+    "link": "https://ua.korrespondent.net/world/4889870-u-frantsii-litak-vpav-bilia-supermarketa-11-osib-zahynuly",
+    "pubDate": "2026-06-28 17:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473750.jpg\">В аварії літака загинули всі, хто перебував на борту, - пілот і дві групи по п'ять парашутистів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Rescatan a un excursionista herido tras un desprendimiento de piedras en el Pedraforca",
     "link": "https://www.elperiodico.com/es/sucesos/20260628/rescatan-excursionista-herido-desprendimiento-piedras-pedraforca-131905699",
     "pubDate": "2026-06-28 17:08:58",
