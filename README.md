@@ -1,8 +1,11 @@
-# News for 2026-06-28 12:55
+# News for 2026-06-28 13:57
 
 Previous day: [2026-06-27](./data/2026-06-27.md)
 
 ## ua.korrespondent.net
+13:43 [НБУ підтримує продаж доларів на рекордному рівні](https://ua.korrespondent.net/business/financial/4889847-nbu-pidtrymuie-prodazh-dolariv-na-rekordnomu-rivni)<br>
+13:28 [У Росії арештували "ветерана", який пригрозив Путіну заколотом](https://ua.korrespondent.net/world/russia/4889844-u-rosii-areshtuvaly-veterana-yakyi-pryhrozyv-putinu-zakolotom)<br>
+12:59 [У Києво-Печерській лаврі встановили погруддя гетьману Мазепі](https://ua.korrespondent.net/ukraine/4889839-u-kyievo-pecherskii-lavri-vstanovyly-pohruddia-hetmanu-mazepi)<br>
 12:36 [Удар по Запоріжжю: число поранених різко зросло](https://ua.korrespondent.net/ukraine/4889834-udar-po-zaporizhzhui-chyslo-poranenykh-rizko-zroslo)<br>
 12:17 [Сибіга озвучив урок Анкориджа для Росії](https://ua.korrespondent.net/ukraine/4889832-sybiha-ozvuchyv-urok-ankorydzha-dlia-rosii)<br>
 11:41 [Зеленський ініціював нову державну нагороду - орден Європи](https://ua.korrespondent.net/ukraine/4889827-zelenskyi-initsiuivav-novu-derzhavnu-nahorodu-orden-yevropy)<br>
@@ -40,6 +43,12 @@ Previous day: [2026-06-27](./data/2026-06-27.md)
 08:21 [El Barça necesita otra revolución](https://as.com/baloncesto/el-barca-necesita-otra-revolucion-f202606-n/)<br>
 
 ## www.elperiodico.com
+13:53 [Bomberos de EEUU rescatan con vida de los escombros a un bebé y a su madre](https://www.elperiodico.com/es/videos/internacional/bomberos-eeuu-rescatan-vida-escombros/131900756.shtml)<br>
+13:52 [El vicepresidente de la SEPI declara esta semana como imputado por el préstamo a Air Europa](https://www.elperiodico.com/es/politica/20260628/vicepresidente-sepi-declara-semana-imputado-131900717)<br>
+13:46 [Se estrella una avioneta en el este de Francia que transportaba a una decena de personas](https://www.elperiodico.com/es/sucesos/20260628/estrella-avioneta-francia-transportaba-decena-pasajeros-paracaidismo-nancy-131900608)<br>
+13:27 [Los ópticos advierten: mirar el eclipse sin filtros puede llevar a lesiones irreversibles](https://www.elperiodico.com/es/sociedad/20260628/opticos-advierten-mirar-eclipse-sin-filtros-lesiones-irreversibles-131898262)<br>
+13:26 [El juez del 'caso Leire' escucha este lunes a la empresaria que dice haber llevado 90.000 euros a la sede del PSOE](https://www.elperiodico.com/es/politica/20260628/juez-caso-leire-escucha-lunes-131900245)<br>
+13:13 [Rescatan a una familia al completo con vida en La Guaira, Venezuela](https://www.elperiodico.com/es/videos/internacional/rescatan-familia-completo-vida-guaira/131899840.shtml)<br>
 12:46 [Juan Lobato apunta a que el PSOE "es responsable" del 'caso Leire': "Hay que asumir responsabilidades y pedir disculpas"](https://www.elperiodico.com/es/politica/20260628/juan-lobato-apunta-psoe-responsable-131899227)<br>
 12:31 [Policías salvan la vida a un maltratador que se autolesionó tras agredir a su expareja en Palma](https://www.elperiodico.com/es/sucesos/20260628/policias-salvan-vida-maltratador-autolesiono-131898751)<br>
 12:30 [Pensión para las amas de casa: quién puede cobrarla en 2026 y qué requisitos debe cumplir](https://www.elperiodico.com/es/economia/20260628/pension-amas-casa-cobrarla-2026-dv-131843555)<br>
