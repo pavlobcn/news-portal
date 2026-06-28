@@ -1,8 +1,11 @@
-# News for 2026-06-28 13:57
+# News for 2026-06-28 14:58
 
 Previous day: [2026-06-27](./data/2026-06-27.md)
 
 ## ua.korrespondent.net
+14:43 ["Приліт" по Запоріжжю: під завалами виявили тіло](https://ua.korrespondent.net/city/zaporozhye/4889855-prylit-po-zaporizhzhui-pid-zavalamy-vyiavyly-tilo)<br>
+14:21 [Молдова хоче включити пункт про Придністров'я у переговори України з РФ](https://ua.korrespondent.net/world/4889853-moldova-khoche-vkluichyty-punkt-pro-prydnistrovia-u-perehovory-ukrainy-z-rf)<br>
+14:02 [Уражено два НПЗ в Росії і міст в Криму - Генштаб](https://ua.korrespondent.net/ukraine/4889850-urazheno-dva-npz-v-rosii-i-mist-v-krymu-henshtab)<br>
 13:43 [НБУ підтримує продаж доларів на рекордному рівні](https://ua.korrespondent.net/business/financial/4889847-nbu-pidtrymuie-prodazh-dolariv-na-rekordnomu-rivni)<br>
 13:28 [У Росії арештували "ветерана", який пригрозив Путіну заколотом](https://ua.korrespondent.net/world/russia/4889844-u-rosii-areshtuvaly-veterana-yakyi-pryhrozyv-putinu-zakolotom)<br>
 12:59 [У Києво-Печерській лаврі встановили погруддя гетьману Мазепі](https://ua.korrespondent.net/ukraine/4889839-u-kyievo-pecherskii-lavri-vstanovyly-pohruddia-hetmanu-mazepi)<br>

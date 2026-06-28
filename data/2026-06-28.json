@@ -1,5 +1,77 @@
 [
   {
+    "title": "\"Приліт\" по Запоріжжю: під завалами виявили тіло",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4889855-prylit-po-zaporizhzhui-pid-zavalamy-vyiavyly-tilo",
+    "pubDate": "2026-06-28 14:43:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473687.jpg\">Наразі двоє громадян вважаються безвісти зниклими. Кількість поранених збільшилася до 15 осіб.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Suga, de BTS, luce la nueva camiseta del Atlético de Madrid durante su concierto en el Metropolitano",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/suga-bts-luce-nueva-camiseta/131901374.shtml",
+    "pubDate": "2026-06-28 14:28:27",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "\"He pensado que había explotado la gasolinera\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260628/testimonios-accidente-conductor-temerario-poblenou-barrio-conmocionado-131901008",
+    "pubDate": "2026-06-28 14:27:35",
+    "category": "",
+    "description": "<h2>Los vecinos de la zona donde dos personas han perdido la vida en un accidente de tráfico relatan cómo han vivido los primeros minutos del siniestro</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260628/muertos-choque-barcelona-provocado-conductor-131898310\" target=\"_blank\">Dos muertos en un choque en Barcelona provocado por un conductor temerario que huía de la policía</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mueren dos conductores en Barcelona tras un choque provocado por un coche que huía de los Mossos",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/video-mueren-conductores-barcelona-choque-provocado-coche-huia-mossos/131901293.shtml",
+    "pubDate": "2026-06-28 14:24:07",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Молдова хоче включити пункт про Придністров'я у переговори України з РФ",
+    "link": "https://ua.korrespondent.net/world/4889853-moldova-khoche-vkluichyty-punkt-pro-prydnistrovia-u-perehovory-ukrainy-z-rf",
+    "pubDate": "2026-06-28 14:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473678.jpg\">Однією з основних проблем, пов'язаних із Придністровським регіоном, залишається незаконна присутність російських військ на території Республіки Молдова, сказала Санду.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Porsche 911 GT4 R, el salto del ‘nueveonce’ a GT4",
+    "link": "https://www.elperiodico.com/es/motor/20260628/porsche-911-gt4-r-gt4-competicion-911-cup-131833952",
+    "pubDate": "2026-06-28 14:10:26",
+    "category": "",
+    "description": "<h2>El nuevo coche de carreras parte de la base del 911 Cup, tendrá hasta 520 CV y su preci parte de 265.000 euros, más IVA</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La bazofia inunda las plataformas: llega el ‘slopaganda’",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260628/bazofia-inunda-plataformas-llega-slopaganda-131900202",
+    "pubDate": "2026-06-28 14:04:17",
+    "category": "",
+    "description": "<h2>La proliferación de contenidos digitales basura alcanza a los servicios de ‘streaming’ musical, donde crecen las canciones creadas por la IA cuya difusión se multiplica mediante ejércitos de ‘bots’, un fraude señalado en el nuevo informe de Promusicae</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Уражено два НПЗ в Росії і міст в Криму - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4889850-urazheno-dva-npz-v-rosii-i-mist-v-krymu-henshtab",
+    "pubDate": "2026-06-28 14:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473669.jpg\">Також підтверджено влучання ракет в три цехи промислового комплексу Титан-Барикади у Волгограді.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Bomberos de EEUU rescatan con vida de los escombros a un bebé y a su madre",
     "link": "https://www.elperiodico.com/es/videos/internacional/bomberos-eeuu-rescatan-vida-escombros/131900756.shtml",
     "pubDate": "2026-06-28 13:53:27",
