@@ -1,8 +1,10 @@
-# News for 2026-06-28 22:45
+# News for 2026-06-28 23:49
 
 Previous day: [2026-06-27](./data/2026-06-27.md)
 
 ## ua.korrespondent.net
+23:19 [США та Іран домовилися про припинення атак - ЗМІ](https://ua.korrespondent.net/world/4889908-ssha-ta-iran-domovylysia-pro-prypynennia-atak-zmi)<br>
+22:48 [Путін очікує приїзду американських перемовників](https://ua.korrespondent.net/world/russia/4889906-putin-ochikuie-pryizdu-amerykanskykh-peremovnykiv)<br>
 22:15 [Комбриг 154 ОМБр був застрелений - поліція](https://ua.korrespondent.net/ukraine/4889904-kombryh-154-ombr-buv-zastrelenyi-politsiia)<br>
 21:58 [У Польщі зафіксували найбільшу за понад 100 років спеку](https://ua.korrespondent.net/world/4889902-u-polschi-zafiksuvaly-naibilshu-za-ponad-100-rokiv-speku)<br>
 21:44 [Путін відкрито заявив про проблеми з пальним у РФ](https://ua.korrespondent.net/world/russia/4889900-putin-vidkryto-zaiavyv-pro-problemy-z-palnym-u-rf)<br>
