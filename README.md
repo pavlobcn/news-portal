@@ -1,8 +1,18 @@
-# News for 2026-06-28 06:16
+# News for 2026-06-28 09:29
 
 Previous day: [2026-06-27](./data/2026-06-27.md)
 
 ## ua.korrespondent.net
+09:18 [У Києві знайшли бойову частину ракети біля будинку](https://ua.korrespondent.net/city/kiev/4889806-u-kyievi-znaishly-boiovu-chastynu-rakety-bilia-budynku)<br>
+08:58 [У Чернігові троє поранених через атаку дронів](https://ua.korrespondent.net/ukraine/4889803-u-chernihovi-troie-poranenykh-cherez-ataku-droniv)<br>
+08:37 [У Харкові дрон РФ вдарив по багатоповерхівці](https://ua.korrespondent.net/city/kharkov/4889800-u-kharkovi-dron-rf-vdaryv-po-bahatopoverkhivtsi)<br>
+08:15 [Летіли Іскандери і Циркони: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4889797-letily-iskandery-i-tsyrkony-yak-vidpratsuivala-ppo)<br>
+08:02 [Росіяни заборгували банкам рекордні 45 трлн рублів - розвідка](https://ua.korrespondent.net/world/russia/4889794-rosiiany-zaborhuvaly-bankam-rekordni-45-trln-rubliv-rozvidka)<br>
+07:45 [ЗСУ завдали ударів по 10 скупченням військ Росії](https://ua.korrespondent.net/ukraine/4889789-zsu-zavdaly-udariv-po-10-skupchenniam-viisk-rosii)<br>
+07:24 [Росіяни поранили 32 цивільних на Сумщині](https://ua.korrespondent.net/ukraine/4889787-rosiiany-poranyly-32-tsyvilnykh-na-sumschyni)<br>
+07:03 [У Криму горить Сакська ТЕЦ - соцмережі](https://ua.korrespondent.net/ukraine/4889784-u-krymu-horyt-sakska-tets-sotsmerezhi)<br>
+06:46 [Втрати Росії у війні перевищили 1,4 млн осіб](https://ua.korrespondent.net/ukraine/4889781-vtraty-rosii-u-viini-perevyschyly-14-mln-osib)<br>
+06:28 [Голова дипмісії США завершила роботу в Україні](https://ua.korrespondent.net/ukraine/4889779-holova-dypmisii-ssha-zavershyla-robotu-v-ukraini)<br>
 05:35 [У Венесуелі дитина пробула 70 годин під завалами](https://ua.korrespondent.net/ukraine/4889774-u-venesueli-dytyna-probula-70-hodyn-pid-zavalamy)<br>
 04:59 [Трамп назвав "найсерйознішу загрозу" для США](https://ua.korrespondent.net/world/4889772-tramp-nazvav-naiserioznishu-zahrozu-dlia-ssha)<br>
 04:34 [Іран атакував об’єкти США в Кувейті та Бахрейні](https://ua.korrespondent.net/world/4889770-iran-atakuvav-obiekty-ssha-v-kuveiti-ta-bakhreini)<br>
@@ -15,13 +25,31 @@ Previous day: [2026-06-27](./data/2026-06-27.md)
 01:18 [Польща забере будівлю генконсульства РФ за борги](https://ua.korrespondent.net/ukraine/4889755-polscha-zabere-budivlui-henkonsulstva-rf-za-borhy)<br>
 00:47 [США заявили про нові удари по цілях Ірану](https://ua.korrespondent.net/ukraine/4889752-ssha-zaiavyly-pro-novi-udary-po-tsiliakh-iranu)<br>
 
+## as.com
+08:21 [El Barça necesita otra revolución](https://as.com/baloncesto/el-barca-necesita-otra-revolucion-f202606-n/)<br>
+
 ## www.elperiodico.com
+09:25 [AquaSense X: limpieza inteligente de la piscina para quien no quiere preocuparse por nada](https://www.elperiodico.com/es/tecnologia/20260628/aquasense-x-limpieza-inteligente-piscina-131894104)<br>
+09:21 [Hallan el cuerpo sin vida de un niño de 10 años que cayó al Pisuerga en Valladolid](https://www.elperiodico.com/es/sucesos/20260628/hallan-cuerpo-vida-nino-10-131894742)<br>
+09:17 [Descubren cómo funciona la risa en el cerebro: el doble circuito neuronal al descubierto](https://www.elperiodico.com/es/tendencias21/20260628/descubren-funciona-risa-cerebro-doble-131894623)<br>
+09:13 [El nuevo local de Aliança Catalana en Berga, vandalizado en menos de 24 horas](https://www.elperiodico.com/es/politica/20260628/vandalizado-nuevo-local-alianca-catalana-berga-131894365)<br>
 09:00 [El Congreso Mundial de Arquitectos de Barcelona cambia el paradigma: "La arquitectura es un servicio"](https://www.elperiodico.com/es/ocio-y-cultura/20260628/congreso-mundial-arquitectos-barcelona-2026-130528139)<br>
+09:00 [Alfonso Muñoz, funcionario de la Seguridad Social: "Quien cotiza 15 años a tiempo parcial recibe más del 100% de lo aportado, mientras quien cotiza 40 años a tiempo completo no recibe ni el 50%"](https://www.elperiodico.com/es/economia/20260628/alfonso-munoz-funcionario-seguridad-social-bases-cotizacion-mejora-pensiones-dv-131753513)<br>
+08:59 [Sobre (vivir) a la crianza - Cómo acompañar a un hijo frente al odio en redes: "Lo primero es validar que le hace daño"](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-acompanar-hijo-frente/131825140.shtml)<br>
+08:58 [Guerra de Irán, en directo | Última hora de los nuevos ataques entre Estados Unidos e Irán y la amenaza de Trump](https://www.elperiodico.com/es/internacional/20260628/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+08:52 [El hombre envenenado por su pareja en Manresa era el bombero Albert Santamaria, experto en rescates y excarcelaciones](https://www.elperiodico.com/es/sucesos/20260628/hombre-envenenado-pareja-manresa-bombero-albert-santamaria-131893508)<br>
+08:01 [Samuel Cabrera, testimonio sobre TCA: "He sentido mucha presión en el colectivo gay con comentarios gordófobos"](https://www.elperiodico.com/es/ser-feliz/20260628/samuel-cabrera-testimonio-tca-he-131150233)<br>
+07:00 [Toni Pons, 80 años cosiendo a mano la alpargata del verano](https://www.elperiodico.com/es/gente/20260628/toni-pons-80-aniversario-alpargatas-artesanales-osor-girona-letizia-131515942)<br>
+06:22 [Peñíscola, un litoral  de contrastes](https://www.elperiodico.com/es/sociedad/20260628/peniscola-litoral-contrastes-bc-131891969)<br>
 06:00 [Ucrania intenta aislar a Crimea con ataques contra terminales petroleras, infraestructuras y baterías antiaéreas](https://www.elperiodico.com/es/internacional/20260628/ucrania-aislar-crimea-ataques-bombardeos-ofensiva-rusia-131873602)<br>
 06:00 [La historia de Zapatero y Sánchez: ¿es posible una sustitución en el PSOE?](https://www.elperiodico.com/es/opinion/20260628/historia-zapatero-sanchez-posible-sustitucion-131869947)<br>
+06:00 [Arquitectos en Barcelona: de los edificios icónicos a la medicina de ciudad](https://www.elperiodico.com/es/opinion/20260628/arquitectos-barcelona-edificios-iconicos-medicina-131871087)<br>
+06:00 [Catalunya exporta sus políticas LGTBI "valientes y pioneras" y llama a "no bajar la guardia"](https://www.elperiodico.com/es/sociedad/20260628/catalunya-politicas-lgtbi-valientes-pioneras-orgullo-28j-131818344)<br>
 06:00 [Los primeros activistas LGTBI ensayan la vejez del futuro: “A falta de hijos y nietos, nuestra red son los amigos”](https://www.elperiodico.com/es/sociedad/20260628/primeros-activistas-lgtbi-ensayan-vejez-futuro-hijos-nietos-red-orgullo-131850317)<br>
+06:00 [Crónica desde Buenos Aires: Los porteros de los edificios y el arte de derrochar agua cuando se cree que es eterna](https://www.elperiodico.com/es/internacional/20260628/cronica-buenos-aires-porteros-edificios-131830434)<br>
 06:00 [El turismo masivo dispara las ventas de suvenirs: estas son las tendencias de este 2026](https://www.elperiodico.com/es/economia/20260628/turismo-masivo-dispara-ventas-suvenirs-transformacion-tendencias-131679366)<br>
 06:00 [Catalunya prevé un verano de lleno turístico, pese a unas tarifas un 5% más caras y la nueva tasa de la Generalitat](https://www.elperiodico.com/es/economia/20260628/catalunya-preve-verano-2026-lleno-turistico-tasa-tarifas-131737045)<br>
+06:00 [La guerra de Irán y la contención de los precios en algunas zonas encaran al turismo a un nuevo récord este verano](https://www.elperiodico.com/es/economia/20260628/guerra-iran-contencion-precios-zonas-turismo-nuevo-record-verano-131854044)<br>
 06:00 [La ciberseguridad, la clave para la competitividad en la era de la IA](https://www.elperiodico.com/es/economia/20260628/ciberseguridad-clave-competitividad-ia-131891815)<br>
 06:00 [¿Tiene gasolina el Ibex 35 para romper los 20.000 puntos?: los analistas ven al alcance el próximo récord](https://www.elperiodico.com/es/economia/20260628/gasolina-ibex-35-romper-20-131891813)<br>
 06:00 [Los rincones secretos de la Sagrada Família (III): ¿qué hay debajo del templo?](https://www.elperiodico.com/es/barcelona/eixample/20260628/rincones-secretos-sagrada-familia-sotanos-131537860)<br>

@@ -1,5 +1,86 @@
 [
   {
+    "title": "AquaSense X: limpieza inteligente de la piscina para quien no quiere preocuparse por nada",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260628/aquasense-x-limpieza-inteligente-piscina-131894104",
+    "pubDate": "2026-06-28 09:25:05",
+    "category": "",
+    "description": "<h2>La apuesta más ambiciosa de Beatbot combina IA, detección inteligente y una estación de autolimpieza única en su categoría</h2><h2>Se trata de un robot pensado para olvidar el mantenimiento manual. La estación no es un mero complemento: es el corazón del sistema y el novedoso argumento del dispositivo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hallan el cuerpo sin vida de un niño de 10 años que cayó al Pisuerga en Valladolid",
+    "link": "https://www.elperiodico.com/es/sucesos/20260628/hallan-cuerpo-vida-nino-10-131894742",
+    "pubDate": "2026-06-28 09:21:41",
+    "category": "",
+    "description": "<h2>El subdelegado del Gobierno ha apuntado como hipótesis a que el menor estaba jugando con un amigo en la orilla cuando cayó al agua y se ahogó</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві знайшли бойову частину ракети біля будинку",
+    "link": "https://ua.korrespondent.net/city/kiev/4889806-u-kyievi-znaishly-boiovu-chastynu-rakety-bilia-budynku",
+    "pubDate": "2026-06-28 09:18:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473493.jpg\">Повідомлення про виявлення небезпечної знахідки до правоохоронців надійшло від мешканців житлового будинку на Дарниці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Descubren cómo funciona la risa en el cerebro: el doble circuito neuronal al descubierto",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260628/descubren-funciona-risa-cerebro-doble-131894623",
+    "pubDate": "2026-06-28 09:17:06",
+    "category": "",
+    "description": "<h2>Mientras que la risa involuntaria se basa en vías de señalización evolutivamente antiguas, la risa consciente se genera en regiones similares a las del lenguaje</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un restaurante italiano de Barcelona que no necesita pizzas para triunfar",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20260628/restaurante-italiano-barcelona-sin-pizzas-131862877",
+    "pubDate": "2026-06-28 09:16:00",
+    "category": "",
+    "description": "<h2>Una carta con clara alergia a los topicazos y un afán por poner en valor la cocina casera italiana desde un prisma actual</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/donde-comer/20260626/mejor-pescado-pescadito-frito-barcelona-116924782\" target=\"_blank\">Dónde comer el mejor pescado frito de Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260624/hoteles-barcelona-day-pass-piscinas-131762534\" target=\"_blank\">Hoteles de Barcelona con ‘day-pass’ para bañarte en sus piscinas sin ser huésped</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El pueblo donde pasa los veranos Dani Mateo:  \"Mis padres tienen un apartamento\"",
+    "link": "https://www.elperiodico.com/es/gente/20260628/pueblo-pasa-veranos-dani-mateo-dv-130494048",
+    "pubDate": "2026-06-28 09:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El presentador de Zapeando recuerda su vínculo familiar con Benicarló y Vinaròs, destinos que combinan mar, gastronomía, patrimonio y una intensa tradición marinera</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20260505/refugio-verano-sergio-ramos-pilar-rubio-pueblo-alicantino-calas-secretas-aguas-cristalinas-129872063\">El refugio de verano de Sergio Ramos y Pilar Rubio: el pueblo alicantino de calas secretas y aguas cristalinas</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El nuevo local de Aliança Catalana en Berga, vandalizado en menos de 24 horas",
+    "link": "https://www.elperiodico.com/es/politica/20260628/vandalizado-nuevo-local-alianca-catalana-berga-131894365",
+    "pubDate": "2026-06-28 09:13:59",
+    "category": "",
+    "description": "<h2>Al día siguiente de que la formación liderada por Judit Vinyes presentara su nueva sede, donde durante 17 años desarrolló su actividad el Casal Panxo de la izquierda independentista, ha aparecido llena de pintadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luisa Méndez, la mujer en la cima",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/luisa-mendez-mujer-cima-131814635",
+    "pubDate": "2026-06-28 09:01:10",
+    "category": "",
+    "description": "<h2>Luisa Méndez, ingeniera de automoción y referente del alpinismo, es la única gallega que ha coronado The Nose, la mítica vía de El Capitán, en Yosemite. Para ella, la montaña es mucho más que un deporte: es una verdadera forma de vida</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La tecnología de los Pirelli de Márquez es la misma que la que se usa para fabricar los neumáticos de calle",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/tecnologia-pirelli-marquez-fabricar-neumaticos-131804497",
+    "pubDate": "2026-06-28 09:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El Mundial-2027 de MotoGP aún no ha comenzado, pero la factoría italiana de Pirelli lleva tiempo trabajando en los neumáticos con los que competirán al más alto nivel el próximo año </h2><h2 class=\"item\">Como ocurre ya en el sofisticado mundo de la F-1, la tecnología también llega a los productosque los usuarios pueden adquirir para su uso convencional por la calle.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
     "title": "El Congreso Mundial de Arquitectos de Barcelona cambia el paradigma: \"La arquitectura es un servicio\"",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260628/congreso-mundial-arquitectos-barcelona-2026-130528139",
     "pubDate": "2026-06-28 09:00:00",
@@ -7,6 +88,303 @@
     "description": "<h2 class=\"item\">Los seis comisarios del evento, que se desarrollará del 28 de junio al 2 de julio, exponen los hechos diferenciales de la cita, focalizada en las personas y el planeta</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Alfonso Muñoz, funcionario de la Seguridad Social: \"Quien cotiza 15 años a tiempo parcial recibe más del 100% de lo aportado, mientras quien cotiza 40 años a tiempo completo no recibe ni el 50%\"",
+    "link": "https://www.elperiodico.com/es/economia/20260628/alfonso-munoz-funcionario-seguridad-social-bases-cotizacion-mejora-pensiones-dv-131753513",
+    "pubDate": "2026-06-28 09:00:00",
+    "category": "",
+    "description": "<h2>El experto en pensiones muestra casos en los que cotizar más no se traduce directamente en una prestación mayor, sino todo lo contrario</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260622/jubilados-espanoles-viven-mejor-muchos-paises-europeos-dv-131677828\" target=\"_blank\">Los jubilados españoles viven mejor de lo que muchos creen: solo unos pocos países europeos les superan, según los datos oficiales</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sobre (vivir) a la crianza - Cómo acompañar a un hijo frente al odio en redes: \"Lo primero es validar que le hace daño\"",
+    "link": "https://www.elperiodico.com/es/videos/podcast/vivir-crianza-acompanar-hijo-frente/131825140.shtml",
+    "pubDate": "2026-06-28 08:59:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Чернігові троє поранених через атаку дронів",
+    "link": "https://ua.korrespondent.net/ukraine/4889803-u-chernihovi-troie-poranenykh-cherez-ataku-droniv",
+    "pubDate": "2026-06-28 08:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473475.jpg\">В обласному центрі пошкоджені медичний та освітній заклади, а також – приватні будинки та автівка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora de los nuevos ataques entre Estados Unidos e Irán y la amenaza de Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260628/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-06-28 08:58:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роналду повторив антирекорд Анрі на чемпіонатах світу",
+    "link": "https://ua.korrespondent.net/sport/football/4889799-ronaldu-povtoryv-antyrekord-anri-na-chempionatakh-svitu",
+    "pubDate": "2026-06-28 08:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473476.jpg\">Роналду наздогнав Анрі за не найкращим показником на полі в межах ЧС: у топ-3 за кількістю офсайдних положень і топ-3 за кількістю матчів на Мундіалях.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "RD Congo remonta ante Uzbekistán y consigue una histórica clasificación",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/congo-remonta-uzbekistan-historica-clasificacion-mundial-131892872",
+    "pubDate": "2026-06-28 08:53:23",
+    "category": "",
+    "description": "<h2>Un doblete de Yoane Wissa y otro gol de Mayele sirven para darle la vuelta al tanto inicial de Shomurodov y meter al Congo en dieciseisavos como una de las mejores terceras</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El hombre envenenado por su pareja en Manresa era el bombero Albert Santamaria, experto en rescates y excarcelaciones",
+    "link": "https://www.elperiodico.com/es/sucesos/20260628/hombre-envenenado-pareja-manresa-bombero-albert-santamaria-131893508",
+    "pubDate": "2026-06-28 08:52:13",
+    "category": "",
+    "description": "<h2>El hombre, de Santpedor, trabajaba en el Grupo de Actuaciones Especiales (GRAE) del cuerpo de la Generalitat</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así quedan los dieciseisavos de final del Mundial, al completo: todos los cruces, fechas y horarios",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/dieciseisavos-final-mundial-cuadro-completo-emparejamientos-fechas-horarios-131892313",
+    "pubDate": "2026-06-28 08:39:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Las eliminatorias comienzan con el Sudáfrica-Canadá y a España le ha tocado medirse a Austria</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Харкові дрон РФ вдарив по багатоповерхівці",
+    "link": "https://ua.korrespondent.net/city/kharkov/4889800-u-kharkovi-dron-rf-vdaryv-po-bahatopoverkhivtsi",
+    "pubDate": "2026-06-28 08:37:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473457.jpg\">Постраждала 59-річна жінка. У неї гостра реакція на стрес. Медики надали їй всю необхідну допомогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça necesita otra revolución",
+    "link": "https://as.com/baloncesto/el-barca-necesita-otra-revolucion-f202606-n/",
+    "pubDate": "2026-06-28 08:21:18",
+    "category": "Baloncesto",
+    "description": "Después de tres temporadas en blanco, se queda sin entrenador, sin director deportivo y con media plantilla fuera.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El corredor francés Vincent Bouillard gana y pulveriza el récord de la Western States; Kilian Jornet abandona",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/frances-vincent-bouillard-gana-western-states-kilian-jornet-abandona-131892482",
+    "pubDate": "2026-06-28 08:15:57",
+    "category": "",
+    "description": "<h2>Jornet estaba prácticamente empatado con los mejores en los primeros 25 kilómetros, hasta que a partir del kilómetro 49 empezaron las molestias en la rodilla y decidió retirarse en el kilómetro 61. </h2><h2>Bouillard, de 32 años, completó las 100 millas —161 kilómetros— y los 5.500 metros de desnivel positivo en 13 horas, 46 minutos y 16 segundos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Летіли Іскандери і Циркони: як відпрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4889797-letily-iskandery-i-tsyrkony-yak-vidpratsuivala-ppo",
+    "pubDate": "2026-06-28 08:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473443.jpg\">Зафіксовано влучання ракети та 14 ударних БпЛА на 11 локаціях, а також падіння уламків ще у 13 місцях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Капітан аргентинців встановив вражаючу результативну серію на ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4889793-kapitan-arhentyntsiv-vstanovyv-vrazhauichu-rezultatyvnu-seriui-na-chs",
+    "pubDate": "2026-06-28 08:08:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473442.jpg\">Лідер команди довів свою результативну серію на ЧС до семи матчів поспіль, згадавши лише один безгольовий збій у грі з Польщею чотири роки тому.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росіяни заборгували банкам рекордні 45 трлн рублів - розвідка",
+    "link": "https://ua.korrespondent.net/world/russia/4889794-rosiiany-zaborhuvaly-bankam-rekordni-45-trln-rubliv-rozvidka",
+    "pubDate": "2026-06-28 08:02:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473444.jpg\">Паралельно з банківськими боргами у РФ фіксується історичний максимум заборгованості населення та комерційного сектора безпосередньо перед державою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maserati renueva el Grecale, GranTurismo y GranCabrio: más V6 y más deportividad",
+    "link": "https://www.elperiodico.com/es/motor/20260628/maserati-renueva-grecale-granturismo-grancabrio-131538045",
+    "pubDate": "2026-06-28 08:01:10",
+    "category": "",
+    "description": "<h2>La marca del tridente amplía además sus opciones de personalización y mejora las autonomías de las versiones Folgore.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Samuel Cabrera, testimonio sobre TCA: \"He sentido mucha presión en el colectivo gay con comentarios gordófobos\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260628/samuel-cabrera-testimonio-tca-he-131150233",
+    "pubDate": "2026-06-28 08:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Me han llegado por Grindr mensajes como ‘qué puto gordo, qué asco das\"</h2><h2 class=\"item\">Expertas en TCA y entidades LGTBIQ+ alertan de que este trastorno también afectan a hombres gays y personas trans</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alimentos de temporada: Pimientos rojos, verdes, de Padrón o del piquillo para dar potencia al mes de julio",
+    "link": "https://www.elperiodico.com/es/economia/20260628/alimentos-temporada-pimientos-julio-2026-131673359",
+    "pubDate": "2026-06-28 08:01:03",
+    "category": "",
+    "description": "<h2>Aunque a veces tienen una digestión complicada, están muy indicados por su alta concentración de vitaminas C y A, lo que fortalece el sistema inmunológico, mejora la salud visual y favorece la absorción de hierro</h2><h2><a href=\"https://www.elperiodico.com/es/economia/consumo/20250629/alimentos-temporada-tomate-cherry-julio-2025-viladecans-118600877\" target=\"_blank\">Alimentos de temporada: Viladecans se convierte en julio en la capital catalana del tomate cherry</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/alimentos-temporada-julio-tomate-sh/index.html\" target=\"_blank\">MULTIMEDIA | Pequeña guía de alimentos de temporada: el tomate y las sopas frías toman la mesa</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Чемпіонат світу-2026: анонс 18-го дня – перший матч плей-оф",
+    "link": "https://ua.korrespondent.net/sport/4889699-chempionat-svitu-2026-anons-18-ho-dnia-pershyi-match-plei-of",
+    "pubDate": "2026-06-28 08:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4472786.jpg\">\r\nПропонуємо вашій увазі анонс стартового поєдинку другого етапу мундіалю.",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Аргентина здобула перемогу, Колумбія та Португалія обійшлися без голів",
+    "link": "https://ua.korrespondent.net/sport/football/4889790-arhentyna-zdobula-peremohu-kolumbiia-ta-portuhaliia-obiishlysia-bez-holiv",
+    "pubDate": "2026-06-28 07:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473427.jpg\">Аргентина святкувала перемогу, Португалія та Колумбія не виявили переваги одна над одною, а Алжир і Австрія подарували вболівальникам надрезультативний матч.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗСУ завдали ударів по 10 скупченням військ Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4889789-zsu-zavdaly-udariv-po-10-skupchenniam-viisk-rosii",
+    "pubDate": "2026-06-28 07:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473412.jpg\">Найбільш активно окупанти намагалися наступати на Гуляйпільському напрямку. Там ЗСУ відбили майже 30 атак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни поранили 32 цивільних на Сумщині",
+    "link": "https://ua.korrespondent.net/ukraine/4889787-rosiiany-poranyly-32-tsyvilnykh-na-sumschyni",
+    "pubDate": "2026-06-28 07:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473398.jpg\">Найбільше постраждалих у Сумській громаді. Там серед поранених – двоє немовлят 1,5 місяця.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Austria se clasifica en el 95' y será el rival de España en dieciseisavos",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/austria-clasifica-95-sera-rival-131892183",
+    "pubDate": "2026-06-28 07:14:54",
+    "category": "",
+    "description": "<h2>Los de Luis de la Fuente ya conocen a su rival en la primera eliminatoria a vida o muerte: Austria, eliminada en el 93', se clasifica dos minutos después en el final de partido más surrealista del Mundial</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Гана поступилася Хорватії, а Узбекистан зазнав поразки від ДР Конго",
+    "link": "https://ua.korrespondent.net/sport/football/4889783-hana-postupylasia-khorvatii-a-uzbekystan-zaznav-porazky-vid-dr-konho",
+    "pubDate": "2026-06-28 07:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473390.jpg\">Наступні поєдинки на світовій першості: Хорватія у важкій боротьбі перемогла гондурасців, тоді як ДР Конго впевнено розгромила команду Узбекистану.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Argentina derrota a Jordania, hace pleno de puntos y Messi anota su sexto gol en el Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/argentina-derrota-jordania-messi-marca-131892161",
+    "pubDate": "2026-06-28 07:06:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El exjugador del Barcelona jugó apenas 30 minutos, suficientes para volver a anotar para la albiceleste, que se enfrenta con Cabo Verde el próximo viernes en la segunda fase del certamen</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260627/milagro-cabo-verde-mundial-argentina-131875014\">El milagro sin fin de Cabo Verde: la gran revelación del Mundial se cita ahora con Messi</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "У Криму горить Сакська ТЕЦ - соцмережі",
+    "link": "https://ua.korrespondent.net/ukraine/4889784-u-krymu-horyt-sakska-tets-sotsmerezhi",
+    "pubDate": "2026-06-28 07:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473389.jpg\">Електрична потужність Сакської теплоелектроцентралі становить 149,4 МВт, теплова потужність – 138 Гкал/год. Вона є основним виробником теплової енергії в Саках.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Contador y Armstrong, todo menos “amigos para siempre”",
+    "link": "https://www.elperiodico.com/es/deportes/20260628/contador-armstrong-amigos-siempre-llegada-tour-barcelona-2009-131883666",
+    "pubDate": "2026-06-28 07:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">El ciclista madrileño llegó a la capital catalana en 2009 sabiendo que corría con el enemigo en casa. Al no fiarse del tejano, hacía que su mecánico durmiera con la bicicleta.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Toni Pons, 80 años cosiendo a mano la alpargata del verano",
+    "link": "https://www.elperiodico.com/es/gente/20260628/toni-pons-80-aniversario-alpargatas-artesanales-osor-girona-letizia-131515942",
+    "pubDate": "2026-06-28 07:00:25",
+    "category": "",
+    "description": "<h2>La marca nacida en Osor (Girona) celebra ocho décadas de artesanía, expansión internacional y estilo mediterráneo que no pasa de moda. Algunos de sus modelos calzan incluso a reinas, como Letizia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Втрати Росії у війні перевищили 1,4 млн осіб",
+    "link": "https://ua.korrespondent.net/ukraine/4889781-vtraty-rosii-u-viini-perevyschyly-14-mln-osib",
+    "pubDate": "2026-06-28 06:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473370.jpg\">Українські військові знищили майже 2500 одиниць російської техніки, серед якої 12 одиниць бронетехніки, 63 гармати, два РСЗВ і сім засобів ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Відомий промоутер висловився про відмову Усика від чемпіонських титулів",
+    "link": "https://ua.korrespondent.net/sport/boks/4889753-vidomyi-promouter-vyslovyvsia-pro-vidmovu-usyka-vid-chempionskykh-tytuliv",
+    "pubDate": "2026-06-28 06:37:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473349.jpg\">На думку Едді Гірна, рішення, яке прийняв українець, створює відмінні перспективи і відкриває нові горизонти для інших боксерів у дивізіоні.",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Голова дипмісії США завершила роботу в Україні",
+    "link": "https://ua.korrespondent.net/ukraine/4889779-holova-dypmisii-ssha-zavershyla-robotu-v-ukraini",
+    "pubDate": "2026-06-28 06:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473356.jpg\">Андрій Сибіга подякував Джулі Девіс за її особистий внесок у розвиток українсько-американського стратегічного партнерства.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар близький до вибору країни для проведення домашніх матчів ЛЧ",
+    "link": "https://ua.korrespondent.net/sport/football/4889751-shakhtar-blyzkyi-do-vyboru-krainy-dlia-provedennia-domashnikh-matchiv-lch",
+    "pubDate": "2026-06-28 06:25:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473348.jpg\">Донецький Шахтар розглядає англійські та німецькі стадіони для проведення номінально домашніх поєдинків у Лізі чемпіонів і перебуває на стадії переговорів.",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Peñíscola, un litoral  de contrastes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260628/peniscola-litoral-contrastes-bc-131891969",
+    "pubDate": "2026-06-28 06:22:41",
+    "category": "",
+    "description": "<h2>El municipio del Baix Maestrat ofrece amplias playas urbanas de arena fina y múltiples servicios turísticos, junto a un entorno natural protegido en el Parque Natural de la Serra d’Irta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dimite el jefe de ministros de Milei acorralado por los escándalos de corrupción",
+    "link": "https://www.elperiodico.com/es/internacional/20260628/dimite-jefe-ministros-milei-acorralado-131891975",
+    "pubDate": "2026-06-28 06:22:22",
+    "category": "",
+    "description": "<h2>Manuel Adorni abandonó su cargo después de cuatro meses en el que el crecimiento de su patrimonio estuvo en el centro de la discusión política</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 60
   },
   {
     "title": "Sudáfrica y Canadá abren el fuego de las eliminatorias del Mundial",
@@ -54,11 +432,38 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Arquitectos en Barcelona: de los edificios icónicos a la medicina de ciudad",
+    "link": "https://www.elperiodico.com/es/opinion/20260628/arquitectos-barcelona-edificios-iconicos-medicina-131871087",
+    "pubDate": "2026-06-28 06:00:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya exporta sus políticas LGTBI \"valientes y pioneras\" y llama a \"no bajar la guardia\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260628/catalunya-politicas-lgtbi-valientes-pioneras-orgullo-28j-131818344",
+    "pubDate": "2026-06-28 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Con el lema de 'Orgull d'Orgull', la Generalitat pone en valor el papel de las instituciones y el activismo catalán como referente europeo en la defensa de los derechos y las libertades del colectivo </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los primeros activistas LGTBI ensayan la vejez del futuro: “A falta de hijos y nietos, nuestra red son los amigos”",
     "link": "https://www.elperiodico.com/es/sociedad/20260628/primeros-activistas-lgtbi-ensayan-vejez-futuro-hijos-nietos-red-orgullo-131850317",
     "pubDate": "2026-06-28 06:00:53",
     "category": "",
     "description": "<h2 class=\"item\">Las personas del colectivo de edad avanzada reivindican la \"vejez activa\" y espacios donde poder vivir \"la sexualidad en libertad y desde el respeto de la sociedad\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20240704/academia-geras-miedo-envejecer-colectivo-lgtbi-117877539\" target=\"_blank\">Ser LGTBI y tener miedo a envejecer</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260613/sexo-residencias-mayores-tabu-deseo-131056742\" target=\"_blank\">El sexo en los geriátricos: los profesionales piden \"acabar con el tabú\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crónica desde Buenos Aires: Los porteros de los edificios y el arte de derrochar agua cuando se cree que es eterna",
+    "link": "https://www.elperiodico.com/es/internacional/20260628/cronica-buenos-aires-porteros-edificios-131830434",
+    "pubDate": "2026-06-28 06:00:48",
+    "category": "",
+    "description": "<h2>Los encargados de los inmuebles gastan 24.581.250 de litros de agua diarios para limpiar las aceras</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -81,6 +486,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "La guerra de Irán y la contención de los precios en algunas zonas encaran al turismo a un nuevo récord este verano",
+    "link": "https://www.elperiodico.com/es/economia/20260628/guerra-iran-contencion-precios-zonas-turismo-nuevo-record-verano-131854044",
+    "pubDate": "2026-06-28 06:00:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La ciberseguridad, la clave para la competitividad en la era de la IA",
     "link": "https://www.elperiodico.com/es/economia/20260628/ciberseguridad-clave-competitividad-ia-131891815",
     "pubDate": "2026-06-28 06:00:43",
@@ -97,6 +511,15 @@
     "description": "<h2 class=\"item\">El consenso entre las firmas de análisis es que el selectivo aún tiene recorrido alcista, apoyado por el tirón de la banca </h2><h2 class=\"item\">Wall Street mantiene su confianza en el Santander, BBVA y CaixaBank, los grandes motores del índice </h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Más rápidas, modernas y sostenibles, así deben ser las autopistas del futuro",
+    "link": "https://www.elperiodico.com/es/economia/20260628/rapidas-modernas-sostenibles-deben-autopistas-bc-131805022",
+    "pubDate": "2026-06-28 06:00:39",
+    "category": "",
+    "description": "<h2>Un estudio de la UPM, el Centro de Investigación del Transporte TRANSyT y Fundación Abertis analiza los hábitos, la satisfacción y las expectativas de los usuarios de vías de peaje en España</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 55
   },
   {
     "title": "Los rincones secretos de la Sagrada Família (III): ¿qué hay debajo del templo?",
