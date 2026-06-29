@@ -1,5 +1,284 @@
 [
   {
+    "title": "Un Barça sin margen de error, por Lluís Carrasco",
+    "link": "https://www.elperiodico.com/es/deportes/20260629/barca-margen-error-lluis-carrasco-131941487",
+    "pubDate": "2026-06-29 17:05:08",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vox denuncia el plan del Gobierno para \"cambiar el censo futuro\" y remarca que las elecciones deben reflejar la voluntad \"solo de los españoles\"",
+    "link": "https://www.elperiodico.com/es/politica/20260629/vox-denuncia-plan-gobierno-cambiar-131941882",
+    "pubDate": "2026-06-29 17:04:44",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Telefónica activa sus nodos Edge de Barcelona y Terrassa para acelerar la IA y la digitalización en Catalunya",
+    "link": "https://www.elperiodico.com/es/economia/20260629/telefonica-activa-nodos-edge-barcelona-131940349",
+    "pubDate": "2026-06-29 17:04:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La compañía pone en marcha los servicios comerciales de sus nodos Edge en Barcelona y Terrassa para acercar capacidades de computación e inteligencia artificial a empresas y administraciones catalanas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Львівщині сторож навчального закладу зґвалтував 13-річну дівчинку",
+    "link": "https://ua.korrespondent.net/ukraine/4890167-na-lvivschyni-storozh-navchalnoho-zakladu-zgvaltuvav-13-richnu-divchynku",
+    "pubDate": "2026-06-29 17:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474762.jpg\">Підозрюваний був знайомий із родиною дитини та час від часу допомагав її матері по господарству.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La escuela concertada propone 4 horas semanales de Matemáticas, codocencia y más práctica para remontar resultados",
+    "link": "https://www.elperiodico.com/es/sociedad/20260629/escuela-concertada-propuestas-mejorar-matematicas-aulas-cataluna-131941247",
+    "pubDate": "2026-06-29 17:02:18",
+    "category": "",
+    "description": "<h2 class=\"item\">El informe no defiende una vuelta al cálculo mecánico como única respuesta, pero sí defiende la necesidad de recuperar espacios de ejercitación y práctica regular </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260629/catalunya-no-logra-remontar-educacion-anuario-2026-equitat-org-resultados-mediocres-bofill-131851207\" target=\"_blank\">La escuela catalana no remonta: el anuario 2026 de la educación en Catalunya confirma un rendimiento global \"mediocre\" y una caída de graduados de la ESO</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mahou San Miguel gana un 12,6% menos tras un año marcado por la caída del consumo de cerveza",
+    "link": "https://www.elperiodico.com/es/economia/20260629/mahou-san-miguel-gana-12-131941641",
+    "pubDate": "2026-06-29 16:58:06",
+    "category": "",
+    "description": "<h2 class=\"item\">La compañía cervecera atribuye la caída de ventas a una inversión récord y la evolución de los hábitos de consumo</h2><h2 class=\"item\">El grupo eleva su EBITDA un 1,9% en 2025 </h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Нардеп вимагав мільйон доларів за \"захист\" кол-центрів",
+    "link": "https://ua.korrespondent.net/ukraine/4890163-nardep-vymahav-milion-dolariv-za-zakhyst-kol-tsentriv",
+    "pubDate": "2026-06-29 16:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474754.jpg\">НАБУ та САП повідомили про підозру чинному народному депутату України у вимаганні неправомірної вигоди, легалізації коштів та внесенні недостовірних даних до декларації.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Угорщина обмежила подачу документів на шенгенські візи в РФ",
+    "link": "https://ua.korrespondent.net/world/4890161-uhorschyna-obmezhyla-podachu-dokumentiv-na-shenhenski-vizy-v-rf",
+    "pubDate": "2026-06-29 16:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474753.jpg\">Згідно з розпорядженням Генерального консульства Угорщини, з 29 червня припиняється прийом заяв у візових центрах Казані, Самари та Уфи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Пограбування Асканії-Нової: засновник кримських зоопарків отримав підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4890162-pohrabuvannia-askanii-novoi-zasnovnyk-krymskykh-zooparkiv-otrymav-pidozru",
+    "pubDate": "2026-06-29 16:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474752.png\">У березні 2024 року з території заповідника вивезли трьох дорослих корів унікальної сірої української породи. У квітні та червні - ще 10 зебр Чапмана.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El primer capítulo de la nueva novela de Andrea Abreu, 'Pajaritos preñados', ve la luz en librerías canarias",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260629/primer-capitulo-nueva-novela-andrea-131938993",
+    "pubDate": "2026-06-29 16:49:45",
+    "category": "",
+    "description": "<h2>La editorial Anagrama confirma el nombre de la esperada segunda novela de la escritora tinerfeña y desvela que narra la historia de Cathaysa, una adolescente criada en un entorno sin tregua, y su padre, El Tiznado. El adelanto llegó el 13 de junio, solo en librerías canarias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un nuevo temblor sacude Caracas tras el doble terremoto de la semana pasada",
+    "link": "https://www.elperiodico.com/es/videos/internacional/nuevo-temblor-sacude-caracas-doble/131941117.shtml",
+    "pubDate": "2026-06-29 16:45:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін знову збільшив штат особистих охоронців",
+    "link": "https://ua.korrespondent.net/world/russia/4890159-putin-znovu-zbilshyv-shtat-osobystykh-okhorontsiv",
+    "pubDate": "2026-06-29 16:45:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474745.jpg\">Це четверте розширення Федеральної служби охорони за час війни. До повномасштабного вторгнення чисельність служби не змінювали майже 13 років.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fred Monteiro: \"A Better Tomorrow™ es un llamamiento que inspira cada decisión que tomamos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260629/fred-monteiro-better-tomorrow-llamamiento-131941151",
+    "pubDate": "2026-06-29 16:42:26",
+    "category": "",
+    "description": "<h2>El Director Regional para América y Europa (AME) de British American Tobacco (BAT) comparte su visión sobre liderazgo, innovación y el futuro de BAT.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У ЗСУ анонсували нові виплати військовим",
+    "link": "https://ua.korrespondent.net/ukraine/4890156-u-zsu-anonsuvaly-novi-vyplaty-viiskovym",
+    "pubDate": "2026-06-29 16:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474744.jpg\">Українські військовослужбовці зможуть отримати додаткові гроші за знищення живої сили противника або взяття в полон.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сили оборони уразили три мости на ТОТ",
+    "link": "https://ua.korrespondent.net/ukraine/4890155-syly-oborony-urazyly-try-mosty-na-tot",
+    "pubDate": "2026-06-29 16:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474737.jpg\">Також підтверджено ураження двох об'єктів в Московській області, що забезпечували військовий зв'язок.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Perro, gato o humano: así debes actuar ante una mordedura para evitar una infección grave",
+    "link": "https://www.elperiodico.com/es/salud/20260629/mordedura-perros-gatos-humanos-evitar-infeccion-grave-131940617",
+    "pubDate": "2026-06-29 16:28:32",
+    "category": "",
+    "description": "<h2>Las mordeduras de perro y gato, junto con las humanas, son las principales causas de consulta en Urgencias, con tasas de infección variables según el animal.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Внаслідок ударів по Сумщині постраждали семеро людей",
+    "link": "https://ua.korrespondent.net/ukraine/4890153-vnaslidok-udariv-po-sumschyni-postrazhdaly-semero-luidei",
+    "pubDate": "2026-06-29 16:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474726.png\">Важкі травми отримав 52-річний чоловік із Середини-Буди. Ворожий дрон влучив у його двір. Також у лікарні - двоє жительок Глухівської громади.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno inyecta 115 millones de euros en la tecnológica catalana Openchip",
+    "link": "https://www.elperiodico.com/es/economia/20260629/gobierno-inyecta-115-millones-euros-openchip-131938669",
+    "pubDate": "2026-06-29 16:26:28",
+    "category": "",
+    "description": "<h2>El objetivo es dotar a esta empresa de los recursos suficientes para diseñar chips que hagan a España destacar en la carrera tecnológica de Europa</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260623/generalitat-entra-5-capital-openchip-131714024\" target=\"_blank\">La Generalitat entra con un 5% en el capital de Openchip</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern se reúne con el Ministerio de Hacienda este martes para abordar la nueva financiación",
+    "link": "https://www.elperiodico.com/es/politica/20260629/govern-hacienda-modelo-financiacion-catalunya-131939594",
+    "pubDate": "2026-06-29 16:23:25",
+    "category": "",
+    "description": "<h2>El encuentro activará la cuenta atrás para convocar el Consejo de Política Fiscal y Financiera para aprobar el modelo pactado con el Executiu de Illa y ERC</h2><h2> <a href=\"https://www.elperiodico.com/es/economia/20260615/perez-llorca-arcadi-espana-cumbre-131405161\" target=\"_blank\">Pérez Llorca y Arcadi España: una cumbre por la financiación condenada al desacuerdo con la Generalitat en la UCI</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260602/comunidades-recibiran-7-7-financiacion-130932194\" target=\"_blank\">Las comunidades recibirán un 7,7% más de financiación este año hasta alcanzar un récord de 170.300 millones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Негода у Львові: повалені дерева, пошкоджена адмінбудівля, зупинені трамваї",
+    "link": "https://ua.korrespondent.net/city/lvov/4890151-nehoda-u-lvovi-povaleni-dereva-poshkodzhena-adminbudivlia-zupyneni-tramvai",
+    "pubDate": "2026-06-29 16:20:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474727.jpg\">Сильний вітер зніс частину даху у приміщенні Шевченківської адміністрації, покрівля впала на припарковані автомобілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crece el negocio de alquilar una piscina privada por horas: ingresos de  hasta 5.000 euros por temporada",
+    "link": "https://www.elperiodico.com/es/sociedad/20260629/crece-negocio-alquilar-piscina-privada-ingresos-5000-euros-verano-dv-131939682",
+    "pubDate": "2026-06-29 16:19:45",
+    "category": "",
+    "description": "<h2>Cocopool, que ya cuenta en su plataforma con más de 200  piscinas en Barcelona, detecta aumento de la demanda por el calor y el \"auge del ocio de proximidad\" </h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20240713/alquiler-piscinas-cataluna-sequia-airbnb-88052897\" target=\"_blank\">\"Por cuatro euros dejo que te bañes en mi casa\": el Airbnb de las piscinas </a></h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20250811/trabajo-empleo-verano-catador-piscinas-alojamiento-espana-linkedin-dv-120398762\" target=\"_blank\">El empleo del verano: una empresa busca ‘catador de piscinas’ y ofrece alojamiento por 1.850 euros al mes</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Pensión para las amas de casa: quién puede cobrarla en 2026 y qué requisitos debe cumplir",
+    "link": "https://www.elperiodico.com/es/videos/economia/pension-amas-casa-cobrarla-2026-requisitos/131940160.shtml",
+    "pubDate": "2026-06-29 16:18:52",
+    "category": "",
+    "description": "Miles de mujeres que dedicaron su vida al cuidado de la familia pueden acceder al llegar a la jubilación a una ayuda",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Акції Microsoft переживають найгірший місяць за 25 років",
+    "link": "https://ua.korrespondent.net/business/companies/4890149-aktsii-Microsoft-perezhyvauit-naihirshyi-misiats-za-25-rokiv",
+    "pubDate": "2026-06-29 16:18:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474736.jpg\">Акції Microsoft завершують червень із найгіршим результатом за останні 25 років, а ринкова капіталізація компанії скоротилася більш ніж на $570 м",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los 10 coches eléctricos que más lejos llegan en 2026",
+    "link": "https://www.elperiodico.com/es/motor/20260629/10-coches-electricos-mas-autonomia-mercado-ranking-131939338",
+    "pubDate": "2026-06-29 16:17:45",
+    "category": "",
+    "description": "<h2>Repasamos los diez coches eléctricos con mayor autonomía WLTP, ordenados de menor a mayor alcance y sin repetir ningún modelo con distintas carrocerías o motorizaciones</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Фантазія Путіна. Ситуація на Сумському напрямку",
+    "link": "https://ua.korrespondent.net/ukraine/4890141-fantaziia-putina-sytuatsiia-na-sumskomu-napriamku",
+    "pubDate": "2026-06-29 16:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474724.jpg\">\"10,5 км до Сум\", - чергова фантазія російського диктатора. Військові розповіли, що відбувається на Сумському напрямку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Andy Burnham lanza su candidatura al liderazgo laborista con la promesa de descentralizar el Reino Unido",
+    "link": "https://www.elperiodico.com/es/internacional/20260629/andy-burnham-lanza-candidatura-liderazgo-laborista-promesa-descentralizar-reino-unido-131939773",
+    "pubDate": "2026-06-29 16:11:09",
+    "category": "",
+    "description": "<h2>El exalcalde de Mánchester defiende entregar más competencias a los municipios y promete poner fin a la \"política de siempre\", en el que ha sido su primer gran discurso desde la dimisión de Keir Starmer la semana pasada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський дрон атакував автобус у Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4890145-rosiiskyi-dron-atakuvav-avtobus-u-zaporizhzhi",
+    "pubDate": "2026-06-29 16:11:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474720.jpg\">Ворожий безпілотник вибухнув поруч з цивільним автобусом. Нині чотирьом постраждалим знадобилася допомога медиків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El aviso de Dominica Díez, psicóloga: \"Vemos una generación de niños con menos paciencia y más irritabilidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260629/dominica-diez-psicologa-alerta-ninos-menos-paciencia-mas-irritabilidad-dv-131760731",
+    "pubDate": "2026-06-29 16:10:00",
+    "category": "",
+    "description": "<h2>La posibilidad de sufrir una adicción puede aumentar si el menor empieza a jugar pronto</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260624/juan-carlos-abalde-director-escuela-educacion-primaria-ninos-depresiones-dv-131585827\">Juan Carlos Abalde, director de escuela: \"Ya vemos en Educación Primaria niños con conductas autolíticas o depresiones, y necesitan tiempo de atención en el aula\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carsen Edwards, al Zalgiris",
+    "link": "https://as.com/baloncesto/euroliga/carsen-edwards-al-zalgiris-f202606-n/",
+    "pubDate": "2026-06-29 16:06:13",
+    "category": "Baloncesto",
+    "description": "El escolta estadounidense, uno de los mejores anotadores de la Euroliga, firma un contrato de un año con el equipo de Kaunas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп анонсував нові переговори з Іраном",
+    "link": "https://ua.korrespondent.net/world/4890142-tramp-anonsuvav-novi-perehovory-z-iranom",
+    "pubDate": "2026-06-29 16:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474713.jpg\">Наразі Іран не підтвердив намірів проводити зустрічі з представниками США з \"технічних груп\" у Катарі цього тижня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Двом генералам РФ заочно повідомлено про підозру - СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4890143-dvom-heneralam-rf-zaochno-povidomleno-pro-pidozru-sbu",
+    "pubDate": "2026-06-29 16:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474710.png\">Фігуранти спланували та віддали наказ на повітряний удар по місту Коростень на Житомирщині у 2022 році.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Supremo confirma la multa de 13,5 millones a Indra por participar en un cártel en licitaciones públicas de informática",
     "link": "https://www.elperiodico.com/es/economia/20260629/supremo-confirma-multa-13-5-131939547",
     "pubDate": "2026-06-29 16:02:33",
@@ -14,6 +293,15 @@
     "pubDate": "2026-06-29 16:02:06",
     "category": "",
     "description": "<h2>Todas las conspiraciones funcionan más o menos igual. Empiezan con una idea absurda, continúan con una explicación envuelta en miedo y terminan convirtiendo cualquier dato en una confirmación</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260610/spielberg-dia-revelacion-cine-extraterrestres-131226485\">Spielberg, 'El día de la revelación' y el cine de extraterrestres: no estamos solos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Очільниця Єврокомісії вирушає на Південний Кавказ: названо мету візиту",
+    "link": "https://ua.korrespondent.net/world/4890138-ochilnytsia-yevrokomisii-vyrushaie-na-pivdennyi-kavkaz-nazvano-metu-vizytu",
+    "pubDate": "2026-06-29 16:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474712.jpg\">Президентка Європейської комісії Урсула фон дер Ляєн цього тижня здійснить офіційний візит до Азербайджану та Вірменії.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -34,6 +322,15 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260519/enzo-maresca-hijo-profesional-pellegrini-130387985\">Enzo Maresca, el hijo profesional de Pellegrini que aguarda la herencia de Guardiola en el Manchester City</a></h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 88
+  },
+  {
+    "title": "ППО Росії тріщить: чи стане Україна новим лідером оборони",
+    "link": "https://ua.korrespondent.net/articles/4890137-ppo-rosii-trischyt-chy-stane-ukraina-novym-liderom-oborony",
+    "pubDate": "2026-06-29 16:00:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474711.png\">Росія перекидає комплекси ППО до Москви й Криму, тоді як Україна наближається до власного виробництва ракет і систем протиповітряної оборони. Хто виграє технологічну гонку вже цього літа та як це змінить війну?",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Los científicos explican por qué no debes rascarte las picaduras de insectos",

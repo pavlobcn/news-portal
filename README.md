@@ -1,8 +1,22 @@
-# News for 2026-06-29 16:03
+# News for 2026-06-29 17:06
 
 Previous day: [2026-06-28](./data/2026-06-28.md)
 
 ## ua.korrespondent.net
+17:03 [На Львівщині сторож навчального закладу зґвалтував 13-річну дівчинку](https://ua.korrespondent.net/ukraine/4890167-na-lvivschyni-storozh-navchalnoho-zakladu-zgvaltuvav-13-richnu-divchynku)<br>
+16:56 [Угорщина обмежила подачу документів на шенгенські візи в РФ](https://ua.korrespondent.net/world/4890161-uhorschyna-obmezhyla-podachu-dokumentiv-na-shenhenski-vizy-v-rf)<br>
+16:45 [Путін знову збільшив штат особистих охоронців](https://ua.korrespondent.net/world/russia/4890159-putin-znovu-zbilshyv-shtat-osobystykh-okhorontsiv)<br>
+16:34 [У ЗСУ анонсували нові виплати військовим](https://ua.korrespondent.net/ukraine/4890156-u-zsu-anonsuvaly-novi-vyplaty-viiskovym)<br>
+16:33 [Сили оборони уразили три мости на ТОТ](https://ua.korrespondent.net/ukraine/4890155-syly-oborony-urazyly-try-mosty-na-tot)<br>
+16:28 [Внаслідок ударів по Сумщині постраждали семеро людей](https://ua.korrespondent.net/ukraine/4890153-vnaslidok-udariv-po-sumschyni-postrazhdaly-semero-luidei)<br>
+16:20 [Негода у Львові: повалені дерева, пошкоджена адмінбудівля, зупинені трамваї](https://ua.korrespondent.net/city/lvov/4890151-nehoda-u-lvovi-povaleni-dereva-poshkodzhena-adminbudivlia-zupyneni-tramvai)<br>
+16:18 [Акції Microsoft переживають найгірший місяць за 25 років](https://ua.korrespondent.net/business/companies/4890149-aktsii-Microsoft-perezhyvauit-naihirshyi-misiats-za-25-rokiv)<br>
+16:16 [Фантазія Путіна. Ситуація на Сумському напрямку](https://ua.korrespondent.net/ukraine/4890141-fantaziia-putina-sytuatsiia-na-sumskomu-napriamku)<br>
+16:11 [Російський дрон атакував автобус у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4890145-rosiiskyi-dron-atakuvav-avtobus-u-zaporizhzhi)<br>
+16:05 [Трамп анонсував нові переговори з Іраном](https://ua.korrespondent.net/world/4890142-tramp-anonsuvav-novi-perehovory-z-iranom)<br>
+16:05 [Двом генералам РФ заочно повідомлено про підозру - СБУ](https://ua.korrespondent.net/ukraine/4890143-dvom-heneralam-rf-zaochno-povidomleno-pro-pidozru-sbu)<br>
+16:02 [Очільниця Єврокомісії вирушає на Південний Кавказ: названо мету візиту](https://ua.korrespondent.net/world/4890138-ochilnytsia-yevrokomisii-vyrushaie-na-pivdennyi-kavkaz-nazvano-metu-vizytu)<br>
+16:00 [ППО Росії тріщить: чи стане Україна новим лідером оборони](https://ua.korrespondent.net/articles/4890137-ppo-rosii-trischyt-chy-stane-ukraina-novym-liderom-oborony)<br>
 15:48 [Російський Газпром вкотре не платитиме річні дивіденди](https://ua.korrespondent.net/business/companies/4890134-rosiiskyi-hazprom-vkotre-ne-platytyme-richni-dyvidendy)<br>
 15:40 [Удар по Дніпру: стали відомі подробиці про жертв](https://ua.korrespondent.net/ukraine/4890131-udar-po-dnipru-staly-vidomi-podrobytsi-pro-zhertv)<br>
 15:39 [У Харкові "приліт" КАБів, є загиблий](https://ua.korrespondent.net/city/kharkov/4890130-u-kharkovi-prylit-kabiv-ye-zahyblyi)<br>
@@ -89,11 +103,23 @@ Previous day: [2026-06-28](./data/2026-06-28.md)
 00:21 [На Сумщині росіяни вбили пенсіонерку](https://ua.korrespondent.net/ukraine/4889912-na-sumschyni-rosiiany-vbyly-pensionerku)<br>
 
 ## as.com
+16:06 [Carsen Edwards, al Zalgiris](https://as.com/baloncesto/euroliga/carsen-edwards-al-zalgiris-f202606-n/)<br>
 10:28 [Año cero en el Real Madrid: cuando ganar deja de ser rutina](https://as.com/baloncesto/acb/ano-cero-en-el-real-madrid-cuando-ganar-deja-de-ser-rutina-f202606-n/)<br>
 07:56 [La Euroliga dispara las cláusulas de salida](https://as.com/baloncesto/euroliga/la-euroliga-dispara-las-clausulas-de-salida-f202606-n/)<br>
 07:55 [La Selección empieza la preparación](https://as.com/baloncesto/mas_baloncesto/la-seleccion-empieza-la-preparacion-f202606-n/)<br>
 
 ## www.elperiodico.com
+17:04 [Telefónica activa sus nodos Edge de Barcelona y Terrassa para acelerar la IA y la digitalización en Catalunya](https://www.elperiodico.com/es/economia/20260629/telefonica-activa-nodos-edge-barcelona-131940349)<br>
+17:02 [La escuela concertada propone 4 horas semanales de Matemáticas, codocencia y más práctica para remontar resultados](https://www.elperiodico.com/es/sociedad/20260629/escuela-concertada-propuestas-mejorar-matematicas-aulas-cataluna-131941247)<br>
+16:49 [El primer capítulo de la nueva novela de Andrea Abreu, 'Pajaritos preñados', ve la luz en librerías canarias](https://www.elperiodico.com/es/ocio-y-cultura/20260629/primer-capitulo-nueva-novela-andrea-131938993)<br>
+16:45 [Un nuevo temblor sacude Caracas tras el doble terremoto de la semana pasada](https://www.elperiodico.com/es/videos/internacional/nuevo-temblor-sacude-caracas-doble/131941117.shtml)<br>
+16:42 [Fred Monteiro: "A Better Tomorrow™ es un llamamiento que inspira cada decisión que tomamos"](https://www.elperiodico.com/es/sociedad/20260629/fred-monteiro-better-tomorrow-llamamiento-131941151)<br>
+16:28 [Perro, gato o humano: así debes actuar ante una mordedura para evitar una infección grave](https://www.elperiodico.com/es/salud/20260629/mordedura-perros-gatos-humanos-evitar-infeccion-grave-131940617)<br>
+16:26 [El Gobierno inyecta 115 millones de euros en la tecnológica catalana Openchip](https://www.elperiodico.com/es/economia/20260629/gobierno-inyecta-115-millones-euros-openchip-131938669)<br>
+16:23 [El Govern se reúne con el Ministerio de Hacienda este martes para abordar la nueva financiación](https://www.elperiodico.com/es/politica/20260629/govern-hacienda-modelo-financiacion-catalunya-131939594)<br>
+16:18 [Pensión para las amas de casa: quién puede cobrarla en 2026 y qué requisitos debe cumplir](https://www.elperiodico.com/es/videos/economia/pension-amas-casa-cobrarla-2026-requisitos/131940160.shtml)<br>
+16:11 [Andy Burnham lanza su candidatura al liderazgo laborista con la promesa de descentralizar el Reino Unido](https://www.elperiodico.com/es/internacional/20260629/andy-burnham-lanza-candidatura-liderazgo-laborista-promesa-descentralizar-reino-unido-131939773)<br>
+16:10 [El aviso de Dominica Díez, psicóloga: "Vemos una generación de niños con menos paciencia y más irritabilidad"](https://www.elperiodico.com/es/sociedad/20260629/dominica-diez-psicologa-alerta-ninos-menos-paciencia-mas-irritabilidad-dv-131760731)<br>
 16:02 [El día de la revelación](https://www.elperiodico.com/es/opinion/20260629/dia-revelacion-cine-steven-spielberg-articulo-imma-sust-131939080)<br>
 15:53 [Los científicos explican por qué no debes rascarte las picaduras de insectos](https://www.elperiodico.com/es/tendencias21/20260629/cientificos-explican-debes-rascarte-picaduras-131939154)<br>
 15:50 [Casa 47 delega en un perfil social y en uno de los 'reyes' de los servicios la gestión de sus viviendas públicas](https://www.elperiodico.com/es/economia/20260629/casa-47-delega-gestion-viviendas-131939056)<br>
