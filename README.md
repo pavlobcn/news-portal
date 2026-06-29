@@ -1,8 +1,11 @@
-# News for 2026-06-29 18:09
+# News for 2026-06-29 19:13
 
 Previous day: [2026-06-28](./data/2026-06-28.md)
 
 ## ua.korrespondent.net
+18:41 [Росія поцілила по Запорізькій ОВА: виникла пожежа](https://ua.korrespondent.net/city/zaporozhye/4890198-rosiia-potsilyla-po-zaporizkii-ova-vynykla-pozhezha)<br>
+18:33 [Samsung представила бюджетний Galaxy M47 5G](https://ua.korrespondent.net/lifestyle/gadgets/4890191-Samsung-predstavyla-buidzhetnyi-Galaxy-M47-5G)<br>
+18:25 [ООН назвала число страчених українських полонених](https://ua.korrespondent.net/ukraine/4890194-oon-nazvala-chyslo-strachenykh-ukrainskykh-polonenykh)<br>
 18:04 [Оголошено про відключення світла по всій Україні](https://ua.korrespondent.net/ukraine/4890187-oholosheno-pro-vidkluichennia-svitla-po-vsii-ukraini)<br>
 18:01 [У Хмельницькому легковик зіткнувся з потягом, є загиблі](https://ua.korrespondent.net/ukraine/4890184-u-khmelnytskomu-lehkovyk-zitknuvsia-z-potiahom-ye-zahybli)<br>
 17:46 [Операція Нерест: у браконьєрів вилучили 10 тонн риби](https://ua.korrespondent.net/ukraine/4890181-operatsiia-nerest-u-brakonieriv-vyluchyly-10-tonn-ryby)<br>
@@ -116,6 +119,16 @@ Previous day: [2026-06-28](./data/2026-06-28.md)
 07:55 [La Selección empieza la preparación](https://as.com/baloncesto/mas_baloncesto/la-seleccion-empieza-la-preparacion-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:10 [El testimonio de una catalana afincada en Caracas: "No se han visto militares ni despliegue del Gobierno por ninguna parte. Es el pueblo ayudando al pueblo"](https://www.elperiodico.com/es/internacional/20260629/terremoto-venezuela-testimonio-no-militares-no-despliegue-gobierno-rescate-131946964)<br>
+19:07 [realme Watch 5: equilibrio entre autonomía, deporte y salud en un reloj creado para el día a día](https://www.elperiodico.com/es/tecnologia/20260629/realme-watch-5-precio-caracteristicas-131945780)<br>
+19:06 [Junts exige la retirada de un programa de RTVE por "negar la imposición del castellano" en la conquista de América](https://www.elperiodico.com/es/politica/20260629/junts-rtve-castellano-imposicion-america-latina-conquista-131945194)<br>
+19:05 [Sara Carbonero (42 años), exmujer de Iker Casillas: "El padre de mis hijos es de un pueblo de 100 habitantes, una aldea  Y a mis hijos les gusta mucho"](https://www.elperiodico.com/es/gente/20260629/sara-carbonero-42-anos-exmujer-iker-casillas-pueblo-dv-131797537)<br>
+18:55 [El CERN apaga su gran acelerador de partículas durante cuatro años y se prepara para "inaugurar una nueva era para la física"](https://www.elperiodico.com/es/sociedad/20260629/cern-apaga-gran-acelerador-particulas-131941421)<br>
+18:50 [Indra refuerza sus alianzas con universidades y centros de FP para captar talento en Catalunya](https://www.elperiodico.com/es/economia/20260629/indra-refuerza-alianzas-universidades-centros-fp-captar-talento-catalunya-131945729)<br>
+18:43 [Resignación y desconocimiento sobre la huelga de Rodalies entre usuarios de Sants: "Ya ni miro los horarios”](https://www.elperiodico.com/es/barcelona/20260629/resignacion-desconocimiento-huelga-rodalies-usuarios-barcelona-sants-131945445)<br>
+18:43 [Enric Carbonell, CEO del Valencia Basket, se incorpora a la dirección de Mercadona](https://www.elperiodico.com/es/economia/20260629/enric-carbonell-ceo-valencia-basket-direccion-mercadona-131945949)<br>
+18:36 [Congreso Mundial de Arquitectos: "Lo primero que tenemos que hacer es sacar a los humanos del centro de la arquitectura"](https://www.elperiodico.com/es/ocio-y-cultura/20260629/primera-jornada-congreso-mundial-arquitectos-barcelona-ecologia-rehabilitacion-reciclaje-131923141)<br>
+18:29 [IA e incertidumbre creciente en la renta variable](https://www.elperiodico.com/es/opinion/20260629/ia-incertidumbre-creciente-bolsa-miedo-creciente-inteligencia-artificial-131945276)<br>
 18:05 [Laura Cue López, 10 de la PAU de 2012, abogada en un bufete internacional: "Una buena nota ayuda, pero no define el futuro de una persona"](https://www.elperiodico.com/es/sociedad/20260629/laura-cue-lopez-10-pau-abogada-bufete-internacional-dv-131758204)<br>
 18:00 [Las diosas exiliadas con las que Greta Thompson explora el poder, la guerra y el patriarcado](https://www.elperiodico.com/es/ocio-y-cultura/20260629/diosas-exiliadas-greta-thompson-explora-poder-guerra-patriarcado-131775613)<br>
 17:59 [El juez ordena el internamiento psiquiátrico del detenido por el incendio provocado en Tiana](https://www.elperiodico.com/es/sociedad/20260629/juez-ordena-internamiento-psiquiatrico-detenido-tiana-incendio-131943811)<br>
