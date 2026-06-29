@@ -1,5 +1,230 @@
 [
   {
+    "title": "Qué hacer este fin de semana en Barcelona: estos son los mejores planes",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260629/hoy-barcelona-agenda-actividades-planes-semana-102304377",
+    "pubDate": "2026-06-29 14:55:00",
+    "category": "",
+    "description": "<h2>Actividades y planes de ocio para la semana del 29 de junio al 5 de julio</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260612/mejores-piscinas-verano-2026-barcelona-precios-horarios-131250271\" target=\"_blank\" rel=\"nofollow\">Guía de las mejores piscinas de Barcelona para el verano de 2026: baratas o exclusivas, con vistas al bosque o al mar</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260615/mundo-today-barcelona-marcha-papa-catalanes-preguntan-pueden-volver-ateos-131411692\">La actualidad del mañana en Barcelona de El Mundo Today</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El plano en 3D que muestra el alcance de la destrucción de edificios por el terremoto en Venezuela",
+    "link": "https://www.elperiodico.com/es/internacional/20260629/terremoto-venezuela-plano-3d-alcance-destruccion-edificios-catia-la-mar-131936947",
+    "pubDate": "2026-06-29 14:54:16",
+    "category": "",
+    "description": "<h2>Una estimación preliminar de la ONU cifra en 6.700 millones de dólares los daños causados por el seísmo en viviendas y activos económicos como vehículos, edificios o comercios</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya refuerza su papel en la gobernanza de la zona euromediterránea",
+    "link": "https://www.elperiodico.com/es/politica/20260629/catalunya-refuerza-papel-gobernanza-zona-131919732",
+    "pubDate": "2026-06-29 14:50:27",
+    "category": "",
+    "description": "<h2 class=\"item\">El president Salvador Illa firma un marco estable de cooperación con la Unión por el Mediterráneo que prioriza ámbitos como la investigación, la economía verde, la promoción del catalán y la cooperación para el desarrollo</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260618/salvador-illa-foro-mediterraneo-prensa-iberica-cataluna-131545848\" target=\"_blank\">Illa pide un frente común a las autonomías del Mediterráneo para impedir que España caiga \"en el centralismo del pasado\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран та Оман домовляються про управління Ормузькою протокою",
+    "link": "https://ua.korrespondent.net/world/4890109-iran-ta-oman-domovliauitsia-pro-upravlinnia-ormuzkoui-protokoui",
+    "pubDate": "2026-06-29 14:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474673.jpg\">Зустріч відбулася під час його візиту до Маската разом з Абдулазізом Аль-Хінаї, послом з особливих доручень Міністерства закордонних справ Оману.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Fiscalía mantiene su petición de 15 años de cárcel para Fernández Díaz y su ex 'número dos' en el juicio de 'Kitchen'",
+    "link": "https://www.elperiodico.com/es/politica/20260629/fiscalia-mantiene-peticion-15-anos-131936543",
+    "pubDate": "2026-06-29 14:44:53",
+    "category": "",
+    "description": "<h2>Los inspectores Fuentes Gago y Díez Sevillano quedan fuera del juicio al retirarse todas las acusaciones contra ellos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos ataques rusos matan a cinco personas en Dnipró y a otras tres en Zaporiyia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ataques-rusos-matan-cinco-personas-video/131935601.shtml",
+    "pubDate": "2026-06-29 14:41:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Росії розкрали $5,5 млн на будівництві бази Каспійського флоту",
+    "link": "https://ua.korrespondent.net/world/russia/4890106-u-rosii-rozkraly-55-mln-na-budivnytstvi-bazy-kaspiiskoho-flotu",
+    "pubDate": "2026-06-29 14:36:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474666.jpg\">У Росії розгорівся гучний корупційний скандал навколо будівництва військової бази Каспійської флотилії у Дагестані. Підрядники Міноборони вивели близько 500 млн рублів (приблизно $5,5 млн) через фіктивні компанії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Харківщині росіяни вбили FPV-дроном батька та сина",
+    "link": "https://ua.korrespondent.net/ukraine/4890105-na-kharkivschyni-rosiiany-vbyly-FPV-dronom-batka-ta-syna",
+    "pubDate": "2026-06-29 14:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474665.jpg\">Російський FPV-дрон на оптоволокні прицільно атакував цивільний автомобіль на автодорозі поблизу села Гороховатка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un local de tapas innovadoras, el mejor restaurante de Santa Coloma según Tripadvisor: \"Un remanso de paz en mitad de la ciudad\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260629/mejores-restaurantes-santa-coloma-dv-loc-107543863",
+    "pubDate": "2026-06-29 14:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/santa-coloma/20240825/mejor-pasteleria-rumana-santa-coloma-google-dv-loc-107209626\" >Repostería rumana para chuparse los dedos: la pastelería de Santa Coloma con mejores reseñas según Google</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20170531/restaurante-lluerna-santa-soloma-estrella-6069308\" >Lluerna: Santa Coloma ya tiene ópera</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20171019/bar-verat-restaurante-lluerna-santa-coloma-6351434\" >Bar Verat: tira a Víctor de la oreja</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP se plantea llevar los presupuestos al Consell de Garanties Estatutàries a tres días de su aprobación",
+    "link": "https://www.elperiodico.com/es/politica/20260629/pp-plantea-llevar-presupuestos-consell-garanties-tres-dias-aprobacion-131934731",
+    "pubDate": "2026-06-29 14:32:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Los populares sopesan recurrir aspectos \"fiscales\" de la ley de acompañamiento, una maniobra que podría retrasar hasta un mes la votación final y comprometer el calendario antes del verano</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260522/pp-ve-base-solida-llevar-consell-garanties-presupuestos-130534338\" target=\"_blank\">El PP se plantea llevar los presupuestos al Consell de Garanties Estatutàries para que analice su constitucionalidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pau Gasol, máximo inversor de la Liga F: los clubes aprueban el acuerdo de 55 millones con Gasol16 Ventures",
+    "link": "https://www.elperiodico.com/es/deportes/20260629/pau-gasol-maximo-inversor-liga-131927755",
+    "pubDate": "2026-06-29 14:31:06",
+    "category": "",
+    "description": "<h2>En la Asamblea General Ordinaria y Extraordinaria, una mayoría de las entidades que compiten en la Liga F han ratificado la inversión por parte del exdeportista, que tiene como objetivo impulsar la competición durante los próximos cuatro años.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Індекс фінансового стресу російської економіки встановив рекорд із 2022-го",
+    "link": "https://ua.korrespondent.net/world/russia/4890102-indeks-finansovoho-stresu-rosiiskoi-ekonomiky-vstanovyv-rekord-iz-2022-ho",
+    "pubDate": "2026-06-29 14:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474662.jpg\">Індекс фінансового стресу (FSI) наприкінці червня зріс до 2,47 пункта - максимального рівня з жовтня 2022 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat abre hoy el plazo para pedir las ayudas al alquiler para jóvenes: quién puede pedirlas, cuánto se obtiene y cómo solicitarlas",
+    "link": "https://www.elperiodico.com/es/economia/20260629/generalitat-abre-hoy-plazo-pedir-131929137",
+    "pubDate": "2026-06-29 14:28:28",
+    "category": "",
+    "description": "<h2>La convocatoria, dirigida a menores de 35 años, busca cubrir la demanda no atendida por el bono alquiler joven estatal y estará abierta solo doce días, hasta el 10 de julio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ГУР показало знищення локомотивів та цистерн з пальним в Криму",
+    "link": "https://ua.korrespondent.net/ukraine/4890100-hur-pokazalo-znyschennia-lokomotyviv-ta-tsystern-z-palnym-v-krymu",
+    "pubDate": "2026-06-29 14:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474663.png\">Впродовж червня цього року \"Примари\" уразили радіолокаційну станцію Каста-2Е2, шість паливозаправників, два вантажні локомотиви, три цистерни з пальним і військову техніку на ешелоні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rick Owens Fall 2026 - естетика виживання та нова архітектура надії",
+    "link": "https://ua.korrespondent.net/lifestyle/4889559-Rick-Owens-Fall-2026-estetyka-vyzhyvannia-ta-nova-arkhitektura-nadii",
+    "pubDate": "2026-06-29 14:21:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471848.jpg\">\r\nКоли ти потрапляєш у наповнений димом Palais de Tokyo, ти миттєво відчуваєш, що Рік Овенс знову готує щось більше, ніж просто дефіле.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ВАКС обрав запобіжний захід нардепу Кузьміних",
+    "link": "https://ua.korrespondent.net/ukraine/4890099-vaks-obrav-zapobizhnyi-zakhid-nardepu-kuzminykh",
+    "pubDate": "2026-06-29 14:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474655.jpg\">У понеділок детективи НАБУ затримали Сергія Кузьміних на виконання ухвали ВАКС у зв'язку із його систематичною неявкою на судові засідання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos 5 muertos y varios heridos en un tiroteo en Stade, una ciudad del norte de Alemania",
+    "link": "https://www.elperiodico.com/es/internacional/20260629/tiroteo-muertos-ciudad-norte-alemania-stade-131935276",
+    "pubDate": "2026-06-29 14:17:38",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Panamá 2027: las minivans que quieren ser el único vehículo para viajar, trabajar y disfrutar del tiempo libre",
+    "link": "https://www.elperiodico.com/es/motor/20260629/panama-2027-minivans-quieren-ser-unico-vehiculo-para-viajar-131845865",
+    "pubDate": "2026-06-29 14:15:18",
+    "category": "",
+    "description": "<h2>La firma especializada en vehículos camper compactos actualiza su gama 2027 con mejoras en habitabilidad, almacenamiento y confort destinado a quienes buscan una alternativa versátil a la autocaravana tradicional</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Fundación Barça, protagonista de la nueva camiseta del club",
+    "link": "https://www.elperiodico.com/es/deportes/20260629/fundacion-barca-protagonista-nueva-camiseta-131933562",
+    "pubDate": "2026-06-29 14:15:16",
+    "category": "",
+    "description": "<h2>La organización sin ánimo de lucro ocupará la parte baja del dorsal de las camisetas del Barça, tanto en el equipo femenino como en el masculino.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Війна РФ проти України: в ЄК побажали Білорусі \"здорового глузду\"",
+    "link": "https://ua.korrespondent.net/world/4890097-viina-rf-proty-ukrainy-v-yek-pobazhaly-bilorusi-zdorovoho-hluzdu",
+    "pubDate": "2026-06-29 14:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474654.jpg\">Росія поступово інтегрує Білорусь у війну, поглиблюючи стосунки з режимом Лукашенка, зауважила речниця Єврокомісії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Воротар збірної Аргентини продовжує відчувати наслідки травми",
+    "link": "https://ua.korrespondent.net/sport/football/4890091-vorotar-zbirnoi-arhentyny-prodovzhuie-vidchuvaty-naslidky-travmy",
+    "pubDate": "2026-06-29 14:07:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474652.jpg\">Воротар збірної Аргентини зізнався, що проблеми зі здоров’ям заважають йому повноцінно працювати, однак він прийняв рішення утриматися від хірургічного втручання.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Уряд затвердив порядок використання коштів ЄС",
+    "link": "https://ua.korrespondent.net/business/economics/4890094-uriad-zatverdyv-poriadok-vykorystannia-koshtiv-yes",
+    "pubDate": "2026-06-29 14:06:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474653.jpg\">Європейські кошти спрямують не лише на імпорт озброєння, а й на пряме фінансування контрактів із українськими виробниками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кредитний бум в Україні: НБУ зафіксував рекордне зростання за 15 років",
+    "link": "https://ua.korrespondent.net/business/financial/4890092-kredytnyi-bum-v-ukraini-nbu-zafiksuvav-rekordne-zrostannia-za-15-rokiv",
+    "pubDate": "2026-06-29 14:05:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474644.jpg\">В Україні триває найтриваліший за останні 15 років період стрімкого зростання кредитування. Попри війну та економічні ризики, бізнес активно залучає позики, а банки дедалі охочіше їх видають.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Confirmado el despido de un camarero por un vídeo de TikTok grabado en su horario laboral",
+    "link": "https://www.elperiodico.com/es/economia/20260629/confirman-despido-camarero-video-tiktok-grabado-trabajo-dv-131771480",
+    "pubDate": "2026-06-29 14:05:00",
+    "category": "",
+    "description": "<h2>La difusión de imágenes del sistema de cobro y críticas sobre salarios en TikTok justifica el despido disciplinario, según confirma el Tribunal Superior de Justicia de Baleares</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ERC descarta pedir la dimisión de Sánchez y le exige que cumpla con la financiación y el FLA",
+    "link": "https://www.elperiodico.com/es/politica/20260629/erc-elisenda-alamany-pedro-sanchez-dimitir-fla-financiacion-131925134",
+    "pubDate": "2026-06-29 13:59:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Los republicanos alertan de que los guiños del PP a Junts son la antesala de una futura alianza</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260628/psoe-deja-manos-libres-sanchez-comite-federal-131888003\" target=\"_blank\">El PSOE deja manos libres a Sánchez para seguir gobernando y convocar elecciones cuando quiera</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260629/junts-pp-vox-linea-roja-pedro-sanchez-corrupcion-psoe-131919932\" target=\"_blank\">Junts insiste en que Sánchez debe dimitir y avisa al PP: \"Nuestra línea roja se llama Vox\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260615/erc-casos-judiciales-corrupcion-sanchez-psoe-explicaciones-131411087\" target=\"_blank\">ERC exige a Sánchez más contundencia con los casos que afectan al PSOE: \"Menos joyas y más explicaciones\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Barcelona rozará los 30 grados durante la noche y los supera de día",
     "link": "https://www.elperiodico.com/es/videos/sociedad/barcelona-rozara-30-grados-durante-calor-video/131933085.shtml",
     "pubDate": "2026-06-29 13:57:52",
@@ -1922,6 +2147,15 @@
     "pubDate": "2026-06-29 06:00:25",
     "category": "",
     "description": "<h2 class=\"item\">Hay miles de héroes en la zona afectada por los terremotos en Venezuela, por descontado, pero Tsunami, este veterano border collie, es uno de ellos, con una historia dura, pues él también fue rescatado al ser víctima de abandono y desnutrición.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La España asequible: las ciudades donde se puede comprar un piso por menos de 200.000 euros",
+    "link": "https://www.elperiodico.com/es/economia/ciudades-donde-comprar-vivienda-asequible-pisos-espana-131816851-rm/index.html",
+    "pubDate": "2026-06-29 06:00:00",
+    "category": "",
+    "description": "",
     "topic": "",
     "topic_match_probability": 0
   },
