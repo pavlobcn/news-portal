@@ -1,8 +1,20 @@
-# News for 2026-06-29 14:59
+# News for 2026-06-29 16:03
 
 Previous day: [2026-06-28](./data/2026-06-28.md)
 
 ## ua.korrespondent.net
+15:48 [Російський Газпром вкотре не платитиме річні дивіденди](https://ua.korrespondent.net/business/companies/4890134-rosiiskyi-hazprom-vkotre-ne-platytyme-richni-dyvidendy)<br>
+15:40 [Удар по Дніпру: стали відомі подробиці про жертв](https://ua.korrespondent.net/ukraine/4890131-udar-po-dnipru-staly-vidomi-podrobytsi-pro-zhertv)<br>
+15:39 [У Харкові "приліт" КАБів, є загиблий](https://ua.korrespondent.net/city/kharkov/4890130-u-kharkovi-prylit-kabiv-ye-zahyblyi)<br>
+15:36 [На фронті чотири гарячі напрямки - Генштаб](https://ua.korrespondent.net/ukraine/4890129-na-fronti-chotyry-hariachi-napriamky-henshtab)<br>
+15:22 [Спецслужби Латвії оцінили здатність РФ напасти на країни Балтії](https://ua.korrespondent.net/world/4890123-spetssluzhby-latvii-otsinyly-zdatnist-rf-napasty-na-krainy-baltii)<br>
+15:21 [Спека спричинила аварійні знеструмлення у двох областях](https://ua.korrespondent.net/ukraine/4890124-speka-sprychynyla-avariini-znestrumlennia-u-dvokh-oblastiakh)<br>
+15:19 [РФ додала до свого тіньового флоту 19-річний танкер - ЗМІ](https://ua.korrespondent.net/world/russia/4890121-rf-dodala-do-svoho-tinovoho-flotu-19-richnyi-tanker-zmi)<br>
+15:07 [У Росії засудили "ветерана", який пригрозив Путіну заколотом](https://ua.korrespondent.net/world/russia/4890115-u-rosii-zasudyly-veterana-yakyi-pryhrozyv-putinu-zakolotom)<br>
+15:05 [Нардепа викрили у незаконному збагаченні на понад 12,7 млн грн](https://ua.korrespondent.net/ukraine/4890118-nardepa-vykryly-u-nezakonnomu-zbahachenni-na-ponad-127-mln-hrn)<br>
+15:03 [За Галущенка внесли 150 млн гривень застави](https://ua.korrespondent.net/ukraine/4890116-za-haluschenka-vnesly-150-mln-hryven-zastavy)<br>
+14:59 [Польща посилить флот підводними човнами зі Швеції](https://ua.korrespondent.net/world/4890113-polscha-posylyt-flot-pidvodnymy-chovnamy-zi-shvetsii)<br>
+14:57 [Кривава стрілянина на півночі Німеччини: є жертви](https://ua.korrespondent.net/world/4890111-kryvava-strilianyna-na-pivnochi-nimechchyny-ye-zhertvy)<br>
 14:48 [Іран та Оман домовляються про управління Ормузькою протокою](https://ua.korrespondent.net/world/4890109-iran-ta-oman-domovliauitsia-pro-upravlinnia-ormuzkoui-protokoui)<br>
 14:36 [У Росії розкрали $5,5 млн на будівництві бази Каспійського флоту](https://ua.korrespondent.net/world/russia/4890106-u-rosii-rozkraly-55-mln-na-budivnytstvi-bazy-kaspiiskoho-flotu)<br>
 14:35 [На Харківщині росіяни вбили FPV-дроном батька та сина](https://ua.korrespondent.net/ukraine/4890105-na-kharkivschyni-rosiiany-vbyly-FPV-dronom-batka-ta-syna)<br>
@@ -82,6 +94,18 @@ Previous day: [2026-06-28](./data/2026-06-28.md)
 07:55 [La Selección empieza la preparación](https://as.com/baloncesto/mas_baloncesto/la-seleccion-empieza-la-preparacion-f202606-n/)<br>
 
 ## www.elperiodico.com
+16:02 [El día de la revelación](https://www.elperiodico.com/es/opinion/20260629/dia-revelacion-cine-steven-spielberg-articulo-imma-sust-131939080)<br>
+15:53 [Los científicos explican por qué no debes rascarte las picaduras de insectos](https://www.elperiodico.com/es/tendencias21/20260629/cientificos-explican-debes-rascarte-picaduras-131939154)<br>
+15:50 [Casa 47 delega en un perfil social y en uno de los 'reyes' de los servicios la gestión de sus viviendas públicas](https://www.elperiodico.com/es/economia/20260629/casa-47-delega-gestion-viviendas-131939056)<br>
+15:44 [La panadera de 84 años que trabaja 20 horas al día en el negocio familiar y que se ha vuelto viral:  "Si no hiciera nada en un día, simplemente me pudriría"](https://www.elperiodico.com/es/economia/20260629/panadera-84-anos-trabaja-horas-dia-viral-dv-131937150)<br>
+15:44 [Un tribunal vasco dictamina que la nota de Euskera en la PAU no cuente para matricularse en la universidad](https://www.elperiodico.com/es/sociedad/20260629/justicia-da-razon-alumnos-cero-euskera-pau-131938521)<br>
+15:36 [Venezuela, el país desgarrado](https://www.elperiodico.com/es/opinion/20260629/venezuela-pais-desgarrado-terremoto-chavismo-articulo-pilar-rahola-131937850)<br>
+15:36 [Ferrmed avisa del colapso del Corredor Mediterráneo si no se duplican las infraestructuras ferroviarias de Barcelona y Tarragona](https://www.elperiodico.com/es/tarragona/20260629/ferrmed-duplicacion-vias-corredor-mediterraneo-catalunya-131936820)<br>
+15:35 [Comienzan las obras de remodelación de la estación de autobuses de Vilanova i la Geltrú](https://www.elperiodico.com/es/barcelona/20260629/comienzan-obras-remodelacion-estacion-autobuses-vilanova-131937288)<br>
+15:30 [Francesc Pedró, experto en educación: "En el mejor caso en el próximo PISA estaremos igual y, por tanto, peor, si otros sí han mejorado"](https://www.elperiodico.com/es/sociedad/20260629/francesc-pedro-experto-educacion-codirector-anuari-educacio-catalunya-informe-pisa-nivel-alumnos-cataluna-131849644)<br>
+15:10 [No hay que esperar a que "se pase": síntomas de un golpe de calor y qué tienes que hacer](https://www.elperiodico.com/es/sociedad/20260629/sintomas-golpe-de-calor-verano-dv-131760358)<br>
+15:09 [Un incendio golpea un espacio protegido único en Catalunya: "Es uno de los últimos refugios para las aves esteparias"](https://www.elperiodico.com/es/sociedad/20260629/incendio-golpea-espacio-unico-catalunya-131936487)<br>
+15:02 [La ayuda de hasta 3.000 euros que muchos propietarios desconocen para cambiar la calefacción por un sistema más eficiente](https://www.elperiodico.com/es/economia/20260629/ayuda-3000-euros-propietarios-cambiar-calefaccion-sistema-mas-eficiente-dv-131936817)<br>
 14:54 [El plano en 3D que muestra el alcance de la destrucción de edificios por el terremoto en Venezuela](https://www.elperiodico.com/es/internacional/20260629/terremoto-venezuela-plano-3d-alcance-destruccion-edificios-catia-la-mar-131936947)<br>
 14:50 [Catalunya refuerza su papel en la gobernanza de la zona euromediterránea](https://www.elperiodico.com/es/politica/20260629/catalunya-refuerza-papel-gobernanza-zona-131919732)<br>
 14:44 [La Fiscalía mantiene su petición de 15 años de cárcel para Fernández Díaz y su ex 'número dos' en el juicio de 'Kitchen'](https://www.elperiodico.com/es/politica/20260629/fiscalia-mantiene-peticion-15-anos-131936543)<br>
