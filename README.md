@@ -1,8 +1,15 @@
-# News for 2026-06-29 09:07
+# News for 2026-06-29 10:07
 
 Previous day: [2026-06-28](./data/2026-06-28.md)
 
 ## ua.korrespondent.net
+10:02 [Британія інвестує понад 500 млн фунтів у переозброєння спецпризначенців](https://ua.korrespondent.net/world/4889990-brytaniia-investuie-ponad-500-mln-funtiv-u-pereozbroiennia-spetspryznachentsiv)<br>
+09:59 [Нафта подорожчала на ескалації між США та Іраном](https://ua.korrespondent.net/business/economics/4889987-nafta-podorozhchala-na-eskalatsii-mizh-ssha-ta-iranom)<br>
+09:46 [Збірна України з баскетболу обіграла Литву на старті підготовки до ЧС](https://ua.korrespondent.net/sport/basketball/4889979-zbirna-ukrainy-z-basketbolu-obihrala-lytvu-na-starti-pidhotovky-do-chs)<br>
+09:43 [Латвія збудує спільне з Україною виробництво дронів біля кордону з Росією](https://ua.korrespondent.net/world/4889981-latviia-zbuduie-spilne-z-ukrainoui-vyrobnytstvo-droniv-bilia-kordonu-z-rosiieui)<br>
+09:39 [ГУР показало знищення ворожої "еліти" на Запоріжжі](https://ua.korrespondent.net/ukraine/4889980-hur-pokazalo-znyschennia-vorozhoi-elity-na-zaporizhzhi)<br>
+09:32 [Стало відомо, де найгірша ситуація зі світлом](https://ua.korrespondent.net/ukraine/4889976-stalo-vidomo-de-naihirsha-sytuatsiia-zi-svitlom)<br>
+09:19 [Перші графіки. Де і коли вимикатимуть світло](https://ua.korrespondent.net/ukraine/4889968-pershi-hrafiky-de-i-koly-vymykatymut-svitlo)<br>
 08:56 [Росіяни обстріляли Полтавщину, є знеструмлення](https://ua.korrespondent.net/ukraine/4889966-rosiiany-obstrilialy-poltavschynu-ye-znestrumlennia)<br>
 08:27 [На Миколаївщині горіла пшениця через російські обстріли](https://ua.korrespondent.net/ukraine/4889961-na-mykolaivschyni-horila-pshenytsia-cherez-rosiiski-obstrily)<br>
 08:22 [У Генштабі назвали найгарячіші напрямки фронту](https://ua.korrespondent.net/ukraine/4889958-u-henshtabi-nazvaly-naihariachishi-napriamky-frontu)<br>
@@ -29,10 +36,20 @@ Previous day: [2026-06-28](./data/2026-06-28.md)
 07:55 [La Selección empieza la preparación](https://as.com/baloncesto/mas_baloncesto/la-seleccion-empieza-la-preparacion-f202606-n/)<br>
 
 ## www.elperiodico.com
+10:01 [Nicolás Moen, 16 años, el portento español de la trompa becado en Estados Unidos: "Hay gente de mi edad que dice que acabaré debajo de un puente por dedicarme a la música"](https://www.elperiodico.com/es/sociedad/20260629/nicolas-moen-portento-espanol-trompa-becado-estados-unidos-musica-dv-131895172)<br>
+09:59 [Junts insiste en que Sánchez debe dimitir y avisa al PP: "Nuestra línea roja se llama Vox"](https://www.elperiodico.com/es/politica/20260629/junts-pp-vox-linea-roja-pedro-sanchez-corrupcion-psoe-131919932)<br>
+09:54 [Digi saldrá a Bolsa con una emisión de 150 millones de euros y mantendrá al menos el 75% del capital](https://www.elperiodico.com/es/economia/20260629/digi-saldra-bolsa-emision-150-millones-euros-131920203)<br>
+09:44 [Por qué el Raval es el barrio de Barcelona más vulnerable a las altas temperaturas](https://www.elperiodico.com/es/barcelona/20260629/raval-barrio-barcelona-vulnerable-altas-131918771)<br>
+09:40 [Los samuráis que se maravillaron con Montserrat hace más de 400 años](https://www.elperiodico.com/es/ocio-y-cultura/20260629/samurais-maravillaron-montserrat-400-anos-dv-131896326)<br>
+09:35 [Barcelona vive la noche más cálida de toda España con valores casi infernales y más de 27 grados de madrugada](https://www.elperiodico.com/es/sociedad/20260629/barcelona-noche-calor-temperatura-espana-131918948)<br>
+09:30 [Lucía Álvarez, de rozar la nota máxima en la PAU hace 8 años a médica: "El volumen de estudio de la selectividad no fue nada comparado al nivel de la carrera"](https://www.elperiodico.com/es/sociedad/20260629/lucia-alvarez-rozar-nota-maxima-pau-medica-dv-131854216)<br>
+09:28 [Precio del petróleo hoy, 29 de junio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260629/precio-petroleo-hoy-29-junio-dv-131919566)<br>
+09:14 [Incendios hoy, 29 de junio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260629/incendios-mapa-hoy-29-junio-dv-131919058)<br>
 09:00 [Convocados los Premios Coedición de Barcelona Llibres](https://www.elperiodico.com/es/mas-barcelona/20260629/convocados-premios-coedicion-barcelona-llibres-bc-131840848)<br>
 09:00 [La ciudad gana 75 nuevos espacios de sombra este verano](https://www.elperiodico.com/es/mas-barcelona/20260629/ciudad-gana-75-nuevos-espacios-sombra-verano-bc-131838116)<br>
 08:58 [El horno europeo: ¿está el viejo contienente entrando en una nueva era climática?](https://www.elperiodico.com/es/tendencias21/20260629/horno-europeo-viejo-contienente-entrando-131918792)<br>
 08:22 [La vivienda por debajo de los 200.000 euros "no asegura una alternativa real y suficiente", avisan los expertos](https://www.elperiodico.com/es/economia/20260629/vivienda-barata-expertos-131854722)<br>
+08:10 [Última hora del terremoto en Venezuela, en directo | Suben a 17 los españoles muertos en los terremotos, que dejan ya 1.450 fallecidos](https://www.elperiodico.com/es/internacional/20260629/terremoto-venezuela-hoy-ultima-hora-directo-131788662)<br>
 08:00 [El Gobierno actualiza el cuadro macro, que incorpora por primera vez la guerra en Irán](https://www.elperiodico.com/es/economia/20260629/gobierno-cuadro-macro-presupuestos-guerra-iran-131918094)<br>
 08:00 [El Banco de España autoriza por primera vez a una plataforma española de criptomonedas a ofrecer servicios de pago](https://www.elperiodico.com/es/economia/20260629/banco-espana-autoriza-primera-vez-plataforma-espanola-criptomonedas-bit2me-servicios-pago-131851958)<br>
 08:00 [El presidente de Aragón, Jorge Azcón, en el Afterwork de EL PERIÓDICO](https://www.elperiodico.com/es/politica/20260629/jorge-azcon-presidente-aragon-afterwork-el-periodico-131858778)<br>
