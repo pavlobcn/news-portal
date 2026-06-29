@@ -1,8 +1,10 @@
-# News for 2026-06-29 07:04
+# News for 2026-06-29 08:04
 
 Previous day: [2026-06-28](./data/2026-06-28.md)
 
 ## ua.korrespondent.net
+07:36 [Повітряні сили розкрили деталі нічної атаки Росії](https://ua.korrespondent.net/ukraine/4889950-povitriani-syly-rozkryly-detali-nichnoi-ataky-rosii)<br>
+07:17 [Аномальна спека у Європі: понад 1300 смертей за тиждень](https://ua.korrespondent.net/world/4889946-anomalna-speka-u-yevropi-ponad-1300-smertei-za-tyzhden)<br>
 06:58 [РФ атакувала об'єкт інфраструктури у Кропивницькому](https://ua.korrespondent.net/ukraine/4889943-rf-atakuvala-obiekt-infrastruktury-u-kropyvnytskomu)<br>
 06:45 [Кількість загиблих від землетрусів у Венесуелі наближається до 1500](https://ua.korrespondent.net/world/4889940-kilkist-zahyblykh-vid-zemletrusiv-u-venesueli-nablyzhaietsia-do-1500)<br>
 06:23 [Генштаб назвав втрати Росії станом на 29 червня](https://ua.korrespondent.net/ukraine/4889935-henshtab-nazvav-vtraty-rosii-stanom-na-29-chervnia)<br>
@@ -19,6 +21,17 @@ Previous day: [2026-06-28](./data/2026-06-28.md)
 00:21 [На Сумщині росіяни вбили пенсіонерку](https://ua.korrespondent.net/ukraine/4889912-na-sumschyni-rosiiany-vbyly-pensionerku)<br>
 
 ## www.elperiodico.com
+08:00 [El Gobierno actualiza el cuadro macro, que incorpora por primera vez la guerra en Irán](https://www.elperiodico.com/es/economia/20260629/gobierno-cuadro-macro-presupuestos-guerra-iran-131918094)<br>
+08:00 [El Banco de España autoriza por primera vez a una plataforma española de criptomonedas a ofrecer servicios de pago](https://www.elperiodico.com/es/economia/20260629/banco-espana-autoriza-primera-vez-plataforma-espanola-criptomonedas-bit2me-servicios-pago-131851958)<br>
+08:00 [El presidente de Aragón, Jorge Azcón, en el Afterwork de EL PERIÓDICO](https://www.elperiodico.com/es/politica/20260629/jorge-azcon-presidente-aragon-afterwork-el-periodico-131858778)<br>
+08:00 [Cercanía, impacto social y futuro: las claves de una banca con propósito](https://www.elperiodico.com/es/economia/20260629/cercania-impacto-social-futuro-claves-banca-proposito-bc-131918069)<br>
+07:55 [Las presas, principales responsables de la desaparición de las playas de la Península](https://www.elperiodico.com/es/medio-ambiente/20260629/presas-principales-responsables-desaparicion-playas-131917982)<br>
+07:54 [El coste de la vida y el paro empuja a muchos jóvenes migrantes a volver desde Canarias a sus países](https://www.elperiodico.com/es/sociedad/20260629/coste-vida-paro-empuja-jovenes-131917692)<br>
+07:41 [CHA cumple 40 años como referente del aragonesismo de izquierdas](https://www.elperiodico.com/es/politica/20260629/cha-cumple-40-anos-referente-aragonesismo-izquierdas-131917856)<br>
+07:35 [DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE](https://www.elperiodico.com/es/politica/20260629/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522)<br>
+07:31 [Huelga en Renfe este lunes: trenes afectados y servicios mínimos en Rodalies, Media y Larga distancia y AVE](https://www.elperiodico.com/es/sociedad/20260629/huelga-renfe-trenes-afectados-servicios-minimos-rodalies-media-larga-distancia-ave-131896835)<br>
+07:25 [Del triángulo del verano a las perseidas y el eclipse del 12 de agosto: el calendario astronómico completo del verano de 2026](https://www.elperiodico.com/es/ciencia/20260629/verano-2026-cielo-eclipse-triangulo-estrellas-perseidas-astronomia-dv-131495212)<br>
+07:22 [EEUU e Irán acuerdan detener los ataques y reunirse en Catar esta semana, según medios estadounidenses](https://www.elperiodico.com/es/internacional/20260629/eeuu-iran-acuerdan-detener-ataques-reunion-catar-131917439)<br>
 07:00 [Guerra Ucrania - Rusia, en directo, última hora | Declarada la situación de emergencia en la península de Crimea por los ataques de Ucrania](https://www.elperiodico.com/es/internacional/20260629/guerra-ucrania-rusia-directo-ultima-126605559)<br>
 06:42 [Guerra de Irán, en directo | Última hora de los nuevos ataques entre Estados Unidos e Irán y la amenaza de Trump](https://www.elperiodico.com/es/internacional/20260629/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
 06:30 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos activos](https://www.elperiodico.com/es/sociedad/20260629/incendios-forestales-catalunya-espana-directo-131393069)<br>
