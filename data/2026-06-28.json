@@ -1,5 +1,41 @@
 [
   {
+    "title": "El coste oculto de destinar talento a tareas que no generan valor",
+    "link": "https://www.elperiodico.com/es/economia/20260628/coste-oculto-destinar-talento-tareas-bc-131584945",
+    "pubDate": "2026-06-28 23:59:29",
+    "category": "",
+    "description": "<h2>La falta de personal y la necesidad de ganar productividad están convirtiendo la automatización de la limpieza en una nueva herramienta de competitividad para las empresas catalanas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "«En Nespresso seguimos fomentando activamente el reciclaje»",
+    "link": "https://www.elperiodico.com/es/economia/20260628/nespresso-seguimos-fomentando-activamente-reciclaje-bc-131913678",
+    "pubDate": "2026-06-28 23:59:28",
+    "category": "",
+    "description": "<h2>Nayara Fuentes, responsable de sostenibilidad de Nespresso en España, ofrece una visión sobre cómo la compañía afronta la sostenibilidad mediante proyectos basados en el reciclaje de cápsulas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "BEAT, cuatro bestias pardas en algo más que un homenaje a King Crimson en la apertura del Barts Festival",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260628/cronica-concierto-beat-barts-barcelona-131912899",
+    "pubDate": "2026-06-28 23:52:37",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El supergrupo integrado por Adrian Belew, Tony Levin, Steve Vai y Danny Carey dio una nueva vida en el Poble Espanyol a los álbumes ‘crimsonianos’ de los 80, material que sigue siendo de otro mundo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни завдали нових ударів по Запоріжжю, є поранені",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4889910-rosiiany-zavdaly-novykh-udariv-po-zaporizhzhui-ye-poraneni",
+    "pubDate": "2026-06-28 23:50:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473996.jpg\">Під атакою опинився приватний будинок і об’єкт промислової інфраструктури. Постраждали двоє пенсіонерів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "США та Іран домовилися про припинення атак - ЗМІ",
     "link": "https://ua.korrespondent.net/world/4889908-ssha-ta-iran-domovylysia-pro-prypynennia-atak-zmi",
     "pubDate": "2026-06-28 23:19:00",
@@ -185,6 +221,15 @@
     "pubDate": "2026-06-28 20:21:05",
     "category": "",
     "description": "<h2>El mafioso calabrés, líder de la 'Ndrangheta, fue detenido tras meses de investigación y colaboración policial internacional</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-06-28 20:17:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -1177,6 +1222,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473603.jpg\">Промоутер Едді Гірн запевнив, що Кроуфорд не битиметься з Еннісом, оскільки його цікавить лише один масштабний бій у кар'єрі.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 92
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-06-28 11:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Зеленський ініціював нову державну нагороду - орден Європи",
