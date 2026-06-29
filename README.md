@@ -1,8 +1,12 @@
-# News for 2026-06-29 08:04
+# News for 2026-06-29 09:07
 
 Previous day: [2026-06-28](./data/2026-06-28.md)
 
 ## ua.korrespondent.net
+08:56 [Росіяни обстріляли Полтавщину, є знеструмлення](https://ua.korrespondent.net/ukraine/4889966-rosiiany-obstrilialy-poltavschynu-ye-znestrumlennia)<br>
+08:27 [На Миколаївщині горіла пшениця через російські обстріли](https://ua.korrespondent.net/ukraine/4889961-na-mykolaivschyni-horila-pshenytsia-cherez-rosiiski-obstrily)<br>
+08:22 [У Генштабі назвали найгарячіші напрямки фронту](https://ua.korrespondent.net/ukraine/4889958-u-henshtabi-nazvaly-naihariachishi-napriamky-frontu)<br>
+07:59 [Науседа готовий стати посередником у конфлікті між Україною та Польщею](https://ua.korrespondent.net/world/4889954-nauseda-hotovyi-staty-poserednykom-u-konflikti-mizh-ukrainoui-ta-polscheui)<br>
 07:36 [Повітряні сили розкрили деталі нічної атаки Росії](https://ua.korrespondent.net/ukraine/4889950-povitriani-syly-rozkryly-detali-nichnoi-ataky-rosii)<br>
 07:17 [Аномальна спека у Європі: понад 1300 смертей за тиждень](https://ua.korrespondent.net/world/4889946-anomalna-speka-u-yevropi-ponad-1300-smertei-za-tyzhden)<br>
 06:58 [РФ атакувала об'єкт інфраструктури у Кропивницькому](https://ua.korrespondent.net/ukraine/4889943-rf-atakuvala-obiekt-infrastruktury-u-kropyvnytskomu)<br>
@@ -20,7 +24,15 @@ Previous day: [2026-06-28](./data/2026-06-28.md)
 00:48 [Землетрус у Венесуелі: 50 тис осіб зникли безвісти](https://ua.korrespondent.net/world/4889914-zemletrus-u-venesueli-50-tys-osib-znykly-bezvisty)<br>
 00:21 [На Сумщині росіяни вбили пенсіонерку](https://ua.korrespondent.net/ukraine/4889912-na-sumschyni-rosiiany-vbyly-pensionerku)<br>
 
+## as.com
+07:56 [La Euroliga dispara las cláusulas de salida](https://as.com/baloncesto/euroliga/la-euroliga-dispara-las-clausulas-de-salida-f202606-n/)<br>
+07:55 [La Selección empieza la preparación](https://as.com/baloncesto/mas_baloncesto/la-seleccion-empieza-la-preparacion-f202606-n/)<br>
+
 ## www.elperiodico.com
+09:00 [Convocados los Premios Coedición de Barcelona Llibres](https://www.elperiodico.com/es/mas-barcelona/20260629/convocados-premios-coedicion-barcelona-llibres-bc-131840848)<br>
+09:00 [La ciudad gana 75 nuevos espacios de sombra este verano](https://www.elperiodico.com/es/mas-barcelona/20260629/ciudad-gana-75-nuevos-espacios-sombra-verano-bc-131838116)<br>
+08:58 [El horno europeo: ¿está el viejo contienente entrando en una nueva era climática?](https://www.elperiodico.com/es/tendencias21/20260629/horno-europeo-viejo-contienente-entrando-131918792)<br>
+08:22 [La vivienda por debajo de los 200.000 euros "no asegura una alternativa real y suficiente", avisan los expertos](https://www.elperiodico.com/es/economia/20260629/vivienda-barata-expertos-131854722)<br>
 08:00 [El Gobierno actualiza el cuadro macro, que incorpora por primera vez la guerra en Irán](https://www.elperiodico.com/es/economia/20260629/gobierno-cuadro-macro-presupuestos-guerra-iran-131918094)<br>
 08:00 [El Banco de España autoriza por primera vez a una plataforma española de criptomonedas a ofrecer servicios de pago](https://www.elperiodico.com/es/economia/20260629/banco-espana-autoriza-primera-vez-plataforma-espanola-criptomonedas-bit2me-servicios-pago-131851958)<br>
 08:00 [El presidente de Aragón, Jorge Azcón, en el Afterwork de EL PERIÓDICO](https://www.elperiodico.com/es/politica/20260629/jorge-azcon-presidente-aragon-afterwork-el-periodico-131858778)<br>
