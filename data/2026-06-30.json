@@ -1,5 +1,257 @@
 [
   {
+    "title": "У США відкрили сервіс для подання заяв на зняття санкцій",
+    "link": "https://ua.korrespondent.net/world/4890325-u-ssha-vidkryly-servis-dlia-podannia-zaiav-na-zniattia-sanktsii",
+    "pubDate": "2026-06-30 09:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475263.jpg\">Міністерство фінансів США запустило новий онлайн-портал, через який підсанкційні особи можуть подати заяву на перегляд санкцій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Llegan los abogados de Jonathan Andic a los juzgados de Martorell",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/llegan-abogados-jonathan-andic-juzgados/131960098.shtml",
+    "pubDate": "2026-06-30 09:38:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Robbie Williams sorprende en Sevilla con una actuación callejera",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260630/robbie-williams-sevilla-actuacion-callejera-131960163",
+    "pubDate": "2026-06-30 09:37:25",
+    "category": "",
+    "description": "<h2>El cantante británico protagonizó una actuación improvisada en la calle Santa María la Blanca, en pleno centro de la capital hispalense</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Incendios hoy, 30 de junio, en Catalunya y España: consulta el mapa con los principales fuegos activos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260630/incendios-mapa-hoy-30-junio-dv-131941848",
+    "pubDate": "2026-06-30 09:36:20",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260629/incendios-forestales-catalunya-espana-directo-131393069\">Última hora de los incendios activos en Catalunya y España | DIRECTO</a> </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ibex 35 recupera los 19.400 puntos en la apertura con el petróleo a la baja",
+    "link": "https://www.elperiodico.com/es/economia/20260630/ibex-35-recupera-19-400-131960074",
+    "pubDate": "2026-06-30 09:33:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El selectivo madrileño avanza ligeramente en los primeros compases de la sesión apoyado por el tono positivo de las bolsas europeas y la moderación del crudo hasta los 72 dólares</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Київ пропонує Сеулу безпекове партнерство - Сибіга",
+    "link": "https://ua.korrespondent.net/ukraine/4890320-kyiv-proponuie-seulu-bezpekove-partnerstvo-sybiha",
+    "pubDate": "2026-06-30 09:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475251.jpg\">Україна готова експортувати безпеку та ділитися своїм досвідом з Південною Кореєю, зазначив очільник МЗС.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La vivienda rompe la barrera de esfuerzo máximo mientras el Banco de España plantea límites a las hipotecas",
+    "link": "https://www.elperiodico.com/es/economia/20260630/embargado-vivienda-rompe-barrera-esfuerzo-131946363",
+    "pubDate": "2026-06-30 09:30:33",
+    "category": "",
+    "description": "<h2>La tasa de esfuerzo teórico para comprar una vivienda en España alcanza el 35,7%, superando el umbral de accesibilidad razonable</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "GTA VI: ¿Puede el próximo juego de Rockstar facturar mil millones de dólares en una hora?",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260630/gta-vi-proximo-juego-rockstar-131959881",
+    "pubDate": "2026-06-30 09:30:33",
+    "category": "",
+    "description": "<h2>Las reservas de ‘GTA 6’ alimentan una previsión histórica para Rockstar, estudio propiedad de Take-Two Interactive</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El refugio de Carlos Alcaraz (23 años) en Murcia tiene senderos con vegetación mediterránea y buenas vistas: \"Está muy infravalorado\"",
+    "link": "https://www.elperiodico.com/es/gente/20260630/refugio-carlos-alcaraz-23-anos-murcia-dv-131926396",
+    "pubDate": "2026-06-30 09:30:33",
+    "category": "",
+    "description": "<h2 class=\"item\">El tenista afronta su recuperación lejos del ruido mediático y vuelve siempre que puede a la pedanía que lo vio crecer</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260628/angel-llacer-casa-refugio-sant-cugat-valles-dv-131834785\">El refugio de Ángel Llàcer a media hora de Barcelona: con un amplio vestidor y suelos de madera</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Військовий збив російський дрон Гербера з автомата",
+    "link": "https://ua.korrespondent.net/ukraine/4890319-viiskovyi-zbyv-rosiiskyi-dron-herbera-z-avtomata",
+    "pubDate": "2026-06-30 09:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475252.jpg\">Завдяки влучності бійця 160 ОМБр, запущений  Росією безпілотник  так і  не  долетів  до  цілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La regularización extraordinaria de migrantes desborda las previsiones del Gobierno con más de un millón de solicitantes",
+    "link": "https://www.elperiodico.com/es/videos/politica/regularizacion-extraordinaria-migrantes-desborda-previsiones/131959771.shtml",
+    "pubDate": "2026-06-30 09:26:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los clubes ciclistas de Tarragona y Granollers llaman a aprovechar \"el impulso del Tour\" para relanzar las entidades",
+    "link": "https://www.elperiodico.com/es/tarragona/20260630/clubes-ciclistas-tarragona-granollers-llaman-aprovechar-tour-131959426",
+    "pubDate": "2026-06-30 09:25:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Ambas ciudades vivirán la salida de una etapa del Tour de Francia por primera vez, un hito histórico para las ciudades</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260326/barcelona-tarragona-granollers-amarillo-fiesta-cuenta-atras-grand-depart-tour-128374325\">Barcelona, Tarragona y Granollers se teñirán de amarillo chillón a 100 días del paso del Tour con una triple celebración simultánea</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Habla Wang Xiaoqiu, presidente de SAIC Motor: \"Con la fábrica de España evitamos los aranceles de importación y de carbono de la UE\"",
+    "link": "https://www.elperiodico.com/es/economia/20260630/wang-xiaoqiu-presidente-saic-fabrica-galicia-131959752",
+    "pubDate": "2026-06-30 09:22:17",
+    "category": "",
+    "description": "<h2>\"La guerra de precios en China continuará durante mucho tiempo, las barreras comerciales en el exterior se intensificarán y quien no salga al extranjero quedará fuera de juego\", traslada a sus accionistas en la junta general anual</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "DIRECTO | Pedro Sánchez inaugura el acto de presentación del Plan de Integración y Ciudadanía",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-presentacion-plan-integracion-ciudadania/131959622.shtml",
+    "pubDate": "2026-06-30 09:21:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un juez envía a juicio al jugador del Real Madrid Ferland Mendy por el ataque de uno de sus perros a un menor",
+    "link": "https://www.elperiodico.com/es/deportes/20260630/juez-envia-juicio-jugador-real-131959516",
+    "pubDate": "2026-06-30 09:20:01",
+    "category": "",
+    "description": "<h2>La Fiscalía pide para él una multa de 1.200 euros y una indemnización de 5.700 euros para los afectados</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El refugio insular de Amber Heard: un pueblo de 1.300 habitantes lejos del ruido de Hollywood",
+    "link": "https://www.elperiodico.com/es/gente/20260630/refugio-amber-heard-johnny-deep-pueblo-mallorca-dv-131810935",
+    "pubDate": "2026-06-30 09:20:00",
+    "category": "",
+    "description": "<h2>La isla se convirtió en el escenario de un reinicio personal para la actriz, lejos de los focos de Hollywood y en un entorno rural alejado de las zonas turísticas y del foco mediático</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260503/amber-heard-johnny-depp-costa-brava-madrid-dv-129479913\">Amber Heard, lejos de Hollywood: así es su vida privada y tranquila en Madrid</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Uniqlo acelera su hoja de ruta sostenible: un 30% menos de emisiones para 2030 y 4,7 millones de prendas donadas",
+    "link": "https://www.elperiodico.com/es/gente/20260630/uniqlo-hoja-ruta-sostenible-emisiones-prendas-donadas-131958562",
+    "pubDate": "2026-06-30 09:18:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Fast Retailing, matriz de la firma japonesa, ha presentado sus objetivos climáticos y sociales, con la neutralidad en carbono fijada para 2050 y nuevas cifras de impacto global</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/estilo-y-famosos/moda-contaminacion-cambio-climatico-sh/index.html\">Objetivo 2030: frenar la sobreproducción de ropa de usar y tirar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La selección española de escalada llega a Barcelona con varios nombres a seguir de cerca",
+    "link": "https://www.elperiodico.com/es/deportes/20260630/seleccion-espanola-escalada-llega-barcelona-bc-131959493",
+    "pubDate": "2026-06-30 09:17:33",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Guillermo Peinado y Geila Macià son algunos de los nombres que lideran la representación nacional en una cita que reunirá en Barcelona a algunos de los mejores especialistas europeos de búlder y velocidad</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Повідомлено про підозру правоохоронцю, який за гроші допомагав ухилянтам",
+    "link": "https://ua.korrespondent.net/ukraine/4890318-povidomleno-pro-pidozru-pravookhorontsui-yakyi-za-hroshi-dopomahav-ukhyliantam",
+    "pubDate": "2026-06-30 09:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475245.jpg\">Вирішується питання щодо обрання запобіжного заходу та відсторонення від посади. Санкція статті передбачає покарання до 8 років позбавлення волі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Екскомандир переплатив 36,6 млн на зимових куртках і штанах для військових",
+    "link": "https://ua.korrespondent.net/ukraine/4890316-ekskomandyr-pereplatyv-366-mln-na-zymovykh-kurtkakh-i-shtanakh-dlia-viiskovykh",
+    "pubDate": "2026-06-30 09:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475241.jpeg\">Екскомандиру військової частини інкримінують недбале ставлення до військової служби в умовах воєнного стану.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una casa prefabricada por 12.000 euros: la alternativa que empieza a ganar terreno a la vivienda tradicional",
+    "link": "https://www.elperiodico.com/es/vivienda/20260630/casa-prefabricada-contenedor-amazon-14000-euros-dv-128441749",
+    "pubDate": "2026-06-30 09:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Empresas como Amazon ya apuestan por este tipo de viviendas frente a los altos precios del mercado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20250909/casa-prefabricada-amazon-instala-10-minutos-barata-dv-121378551\">Así es la casa prefabricada con dos plantas de Amazon que se instala en 10 minutos y cuesta menos de 25.000 euros</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20260630/alba-propietaria-piso-25-anos-evita-jubilados-dv-131926080\">Alba, propietaria de un piso con 25 años, explica por qué evita alquilar a jubilados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE",
+    "link": "https://www.elperiodico.com/es/politica/20260630/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522",
+    "pubDate": "2026-06-30 09:02:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260625/horizonte-electoral-judicial-sanchez-socios-131778129\" target=\"_blank\">El horizonte electoral y judicial amplía la brecha de Sánchez con sus socio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Circuit Festival LGTBIQ+ de Barcelona volverá del 1 al 9 de agosto con su edición más ambiciosa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260630/circuit-festival-gay-lgtbiq-barcelona-edicion-mas-ambiciosa-artistas-fiestas-131946358",
+    "pubDate": "2026-06-30 09:00:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Ampliarán su programa musical y artístico e incorporarán escenarios nocturnos como la sala Luz de Gas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20250804/festival-circuit-2025-convierte-barcelona-meca-gay-amplia-escenarios-120330150\">El festival Circuit 2025 convierte de nuevo a Barcelona en meca gay: este año desde Vilassar a Molins de Rei</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20240807/manolo-soria-festival-circuit-consell-de-cent-rambla-lgtbi-106660067\">Manolo Soria, creador del festival Circuit de Barcelona: \"Consell de Cent va a ser la rambla LGTBI+\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Чемпіонат світу-2026: прев'ю 20-го ігрового дня – для Франції може бути дуже легко",
+    "link": "https://ua.korrespondent.net/sport/4890205-chempionat-svitu-2026-prevui-20-ho-ihrovoho-dnia-dlia-frantsii-mozhe-buty-duzhe-lehko",
+    "pubDate": "2026-06-30 09:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4474849.jpg\">\r\nПропонуємо вашій увазі анонс трьох поєдинків, які пройдуть у 20-й день мундіалю.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Я розчарований: Тренер більше не вважає Німеччину першокласною збірною",
+    "link": "https://ua.korrespondent.net/sport/football/4890314-ya-rozcharovanyi-trener-bilshe-ne-vvazhaie-nimechchynu-pershoklasnoui-zbirnoui",
+    "pubDate": "2026-06-30 08:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475225.jpg\">Нагельсманн не приховував свого розчарування після сенсаційної поразки від Парагваю в 1/16 фіналу чемпіонату світу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Дніпропетровщині через російські обстріли поранено троє людей",
+    "link": "https://ua.korrespondent.net/ukraine/4890310-na-dnipropetrovschyni-cherez-rosiiski-obstrily-poraneno-troie-luidei",
+    "pubDate": "2026-06-30 08:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475234.jpg\">Постраждали двоє чоловіків 43 та 65 років. Обох мешканців госпіталізували. Також 56-річну жінку госпіталізували у стані середньої тяжкості.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Відключення світла: Шмигаль зробив важливу заяву",
+    "link": "https://ua.korrespondent.net/ukraine/4890311-vidkluichennia-svitla-shmyhal-zrobyv-vazhlyvu-zaiavu",
+    "pubDate": "2026-06-30 08:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475235.jpg\">Міністерство енергетики доручило змінити графіки ремонту блоків АЕС та збільшити імпорт електроенергії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paraguay elimina a Alemania en los penaltis",
+    "link": "https://www.elperiodico.com/es/videos/deportes/paraguay-elimina-alemania-penaltis/131958397.shtml",
+    "pubDate": "2026-06-30 08:41:11",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Nagelsmann se atornilla al banquillo de la atormentada Alemania ante el clamor por Klopp: \"No soy de los que huyen\"",
     "link": "https://www.elperiodico.com/es/deportes/20260630/nagelsmann-atornilla-banquillo-atormentada-alemania-131956535",
     "pubDate": "2026-06-30 08:34:24",
@@ -565,6 +817,15 @@
     "description": "<h2>El nuevo Reglamento General de Circulación unifica las reglas para furgonetas camper y vehículos vivienda</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Seguro de viaje: una pequeña inversión que puede evitar grandes gastos en el extranjero",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260630/seguro-viaje-pequena-inversion-evitar-bc-131955076",
+    "pubDate": "2026-06-30 06:00:42",
+    "category": "",
+    "description": "<h2>Es recomendable elegir una compañía especializada en asistencia en viaje y con experiencia internacional.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Los famosos que han muerto en 2026: de Robert Duvall, Valentino y Chuck Norris hasta Catherine O'Hara, Fernando Esteso y Eric Dane",
