@@ -1,8 +1,14 @@
-# News for 2026-06-30 19:30
+# News for 2026-06-30 21:11
 
 Previous day: [2026-06-29](./data/2026-06-29.md)
 
 ## ua.korrespondent.net
+20:58 [Україна закупить у Швеції 16 літаків Gripen E](https://ua.korrespondent.net/ukraine/4890569-ukraina-zakupyt-u-shvetsii-16-litakiv-Gripen-E)<br>
+20:35 [Через обстріл інфраструктури Сум 21 особа поранена](https://ua.korrespondent.net/ukraine/4890563-cherez-obstril-infrastruktury-sum-21-osoba-poranena)<br>
+20:29 [Samsung випустить смартфон із скручуваним дисплеєм у 2028 році - ЗМІ](https://ua.korrespondent.net/tech/technews/4890560-Samsung-vypustyt-smartfon-iz-skruchuvanym-dyspleiem-u-2028-rotsi-zmi)<br>
+20:13 [До світового рейтингу-2026 увійшла рекордна кількість вишів України](https://ua.korrespondent.net/ukraine/4890555-do-svitovoho-reitynhu-2026-uviishla-rekordna-kilkist-vyshiv-ukrainy)<br>
+19:56 [Пожежу в Чорнобильській зоні частково локалізували](https://ua.korrespondent.net/ukraine/4890550-pozhezhu-v-chornobylskii-zoni-chastkovo-lokalizuvaly)<br>
+19:51 [Україна замовила масштабну партію боєприпасів у Rheinmetall](https://ua.korrespondent.net/ukraine/4890549-ukraina-zamovyla-masshtabnu-partiui-boieprypasiv-u-Rheinmetall)<br>
 19:27 [У США обіцяють $10 млн за інформацію про хакерів російських спецслужб](https://ua.korrespondent.net/world/4890545-u-ssha-obitsiauit-10-mln-za-informatsiui-pro-khakeriv-rosiiskykh-spetssluzhb)<br>
 19:26 [Нафтові доходи Кремля обвалилися - ЗМІ](https://ua.korrespondent.net/world/russia/4890544-naftovi-dokhody-kremlia-obvalylysia-zmi)<br>
 19:05 [Сирський: Росія може піти в наступ на Чернігівщину](https://ua.korrespondent.net/ukraine/4890537-syrskyi-rosiia-mozhe-pity-v-nastup-na-chernihivschynu)<br>
@@ -136,6 +142,18 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 07:01 [“Hay que ser autocrítico y sincero: no ha sido un buen año”](https://as.com/baloncesto/euroliga/hay-que-ser-autocritico-y-sincero-no-ha-sido-un-buen-ano-f202606-n/)<br>
 
 ## www.elperiodico.com
+20:58 [El 87,88% de funcionarios docentes trabajarán el próximo curso en el destino elegido en primera opción](https://www.elperiodico.com/es/sociedad/20260630/funcionarios-maestros-profesores-destinos-escuelas-curso-2026-2027-cataluna-131989561)<br>
+20:58 [Illa recibe al presidente de Portugal, el primer jefe de Estado en la Generalitat en 15 años](https://www.elperiodico.com/es/politica/20260630/salvador-illa-presidente-portugal-reunion-catalunya-primer-jefe-estado-131984018)<br>
+20:52 [La mayoría del Parlament se abre a sancionar a los diputados que no condenen la violencia machista](https://www.elperiodico.com/es/politica/20260630/parlament-sanciones-diputados-codigo-conducta-violencia-machista-131987297)<br>
+20:45 [Redada en Europa contra eurodiputados de extrema derecha por malversación de fondos públicos](https://www.elperiodico.com/es/internacional/20260630/malversacion-fondos-ue-redada-partido-extrema-derecha-jordan-bardella-131989398)<br>
+20:25 [Las garrapatas se extienden por España: estas son las tres especies más peligrosas](https://www.elperiodico.com/es/salud/20260630/garrapatas-especies-peligrosas-espana-salud-dv-131810262)<br>
+20:18 [Declarado un incendio forestal en  Zaragoza con la UME activada: "Es un foco muy importante"](https://www.elperiodico.com/es/sociedad/20260630/declarado-incendio-forestal-zaragoza-ume-131988752)<br>
+20:07 [La jueza ordena hacer una copia del móvil de la viuda de Isak Andic y de los excursionistas que auxiliaron a Jonathan](https://www.elperiodico.com/es/sociedad/20260630/jueza-copia-movil-viuda-isak-andic-mango-excursionistas-131988029)<br>
+20:00 [Un año después del caso del Liceu, los centros de música catalanes blindan sus protocolos contra el acoso](https://www.elperiodico.com/es/ocio-y-cultura/20260630/ano-despues-caso-liceu-centros-131820702)<br>
+19:49 [R1 y R2 hasta la UAB y cinco líneas nuevas: así será Rodalies en 2040 según el nuevo plan de la Generalitat](https://www.elperiodico.com/es/sociedad/20260630/r1-r2-uab-cinco-lineas-asi-sera-rodalies-renfe-nuevo-plan-generalitat-131984187)<br>
+19:45 [Hacienda cierra en Catalunya la ronda de contactos sobre el nuevo modelo de financiación y enfila el Congreso](https://www.elperiodico.com/es/economia/20260630/financiacion-autonomica-hacienda-cierra-catalunya-ronda-contactos-131986309)<br>
+19:45 [Netanyahu visita el sur del Líbano: "Mientras Hezbolá esté aquí, nos quedaremos"](https://www.elperiodico.com/es/internacional/20260630/netanyahu-visita-sur-libano-hezbola-131987917)<br>
+19:30 [La comunidad venezolana en Barcelona se moviliza para enviar ayuda: "Se necesita mucho medicamento porque los hospitales están sobresaturados"](https://www.elperiodico.com/es/internacional/20260630/comunidad-venezolana-barcelona-moviliza-enviar-ayuda-medicamentos-necesarios-131987423)<br>
 19:02 [El Estado venezolano a prueba](https://www.elperiodico.com/es/opinion/20260630/venezolano-prueba-terremoto-estado-editorial-131985971)<br>
 18:55 [La francesa Colis Privé negocia la compra de la barcelonesa Paack para reforzar su negocio de reparto en la Península](https://www.elperiodico.com/es/economia/20260630/francesa-colis-prive-negocia-compra-131985732)<br>
 18:54 [El papa León XIV nombra a una tercera mujer como 'ministra' del Vaticano](https://www.elperiodico.com/es/sociedad/20260630/papa-leon-xiv-nombra-mujer-ministra-vaticano-131986037)<br>
