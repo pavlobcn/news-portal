@@ -1,8 +1,19 @@
-# News for 2026-06-30 15:08
+# News for 2026-06-30 16:11
 
 Previous day: [2026-06-29](./data/2026-06-29.md)
 
 ## ua.korrespondent.net
+16:05 [Тиха революція праці: у Росії різко зріс попит на мігрантів з Індії](https://ua.korrespondent.net/world/russia/4890486-tykha-revoluitsiia-pratsi-u-rosii-rizko-zris-popyt-na-mihrantiv-z-indii)<br>
+15:59 [В Україні провели восьмий етап операції Опікун](https://ua.korrespondent.net/ukraine/4890484-v-ukraini-provely-vosmyi-etap-operatsii-opikun)<br>
+15:54 [Троє проросійських агітаторів отримали тюремні строки](https://ua.korrespondent.net/ukraine/4890480-troie-prorosiiskykh-ahitatoriv-otrymaly-tuiremni-stroky)<br>
+15:50 [Зміни у липні 2026: тарифи, пенсії, виплати військовим і переселенцям](https://ua.korrespondent.net/articles/4890482-zminy-u-lypni-2026-taryfy-pensii-vyplaty-viiskovym-i-pereselentsiam)<br>
+15:49 [Україна і Південна Корея готують зустріч Зеленського та Лі](https://ua.korrespondent.net/ukraine/4890478-ukraina-i-pivdenna-koreia-hotuuit-zustrich-zelenskoho-ta-li)<br>
+15:46 [На фронті знизилась інтенсивність боїв - Генштаб](https://ua.korrespondent.net/ukraine/4890476-na-fronti-znyzylas-intensyvnist-boiv-henshtab)<br>
+15:42 [Туристи везуть бензин до Криму в іграшках і термосах - соцмережі](https://ua.korrespondent.net/ukraine/4890474-turysty-vezut-benzyn-do-krymu-v-ihrashkakh-i-termosakh-sotsmerezhi)<br>
+15:38 [У Львові змінюють правила для електросамокатів](https://ua.korrespondent.net/city/lvov/4890471-u-lvovi-zminuiuit-pravyla-dlia-elektrosamokativ)<br>
+15:26 [Єврокомісія: Повернення російського газу до ЄС неможливе](https://ua.korrespondent.net/world/4890467-yevrokomisiia-povernennia-rosiiskoho-hazu-do-yes-nemozhlyve)<br>
+15:18 [ЗСУ отримали на озброєння унікальний дрон](https://ua.korrespondent.net/ukraine/4890463-zsu-otrymaly-na-ozbroiennia-unikalnyi-dron)<br>
+15:14 [У Казахстані впав видобуток нафти через українські атаки на РФ](https://ua.korrespondent.net/world/4890461-u-kazakhstani-vpav-vydobutok-nafty-cherez-ukrainski-ataky-na-rf)<br>
 15:03 [Пригрозив проблемами: що вимагає Трамп від власників АЗС](https://ua.korrespondent.net/business/financial/4890459-pryhrozyv-problemamy-scho-vymahaie-tramp-vid-vlasnykiv-azs)<br>
 14:57 [Судитимуть ексмитника, який смертельно поранив службовця ТЦК у Львові](https://ua.korrespondent.net/world/4890457-sudytymut-eksmytnyka-yakyi-smertelno-poranyv-sluzhbovtsia-ttsk-u-lvovi)<br>
 14:52 [ЗСУ отримають додаткові ресурси - Зеленський](https://ua.korrespondent.net/ukraine/4890454-zsu-otrymauit-dodatkovi-resursy-zelenskyi)<br>
@@ -86,6 +97,8 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 00:43 [У Монако підірвали українського олігарха з сім'єю](https://ua.korrespondent.net/world/4890258-u-monako-pidirvaly-ukrainskoho-oliharkha-z-simieui)<br>
 
 ## as.com
+15:11 [Lazar Mutic vuelve a la ACB](https://as.com/baloncesto/acb/lazar-mutic-vuelve-a-la-acb-f202606-n/)<br>
+14:51 [Marcelinho Huertas es infinito](https://as.com/baloncesto/acb/marcelinho-huertas-es-infinito-f202606-n/)<br>
 13:46 [Mike James abandona el Mónaco](https://as.com/baloncesto/euroliga/mike-james-abandona-el-monaco-f202606-n/)<br>
 13:34 [El Breogán ficha a Edgar Vicedo](https://as.com/baloncesto/acb/el-breogan-ficha-a-edgar-vicedo-f202606-n/)<br>
 12:46 [Una visita muy especial](https://as.com/baloncesto/mas_baloncesto/una-visita-muy-especial-f202606-n/)<br>
@@ -99,6 +112,24 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 07:01 [“Hay que ser autocrítico y sincero: no ha sido un buen año”](https://as.com/baloncesto/euroliga/hay-que-ser-autocritico-y-sincero-no-ha-sido-un-buen-ano-f202606-n/)<br>
 
 ## www.elperiodico.com
+16:10 [Los expertos coinciden: ducharte de esta forma en plena ola de calor puede salirte caro](https://www.elperiodico.com/es/salud/20260630/ducha-agua-fria-verano-malo-vasos-sanguineos-dv-131939921)<br>
+16:06 [Albert Serra: "Este mundo no tiene arreglo y hay que salir de él, porque quienes están dentro son gente horrible"](https://www.elperiodico.com/es/ocio-y-cultura/20260630/albert-serra-mundo-no-tiene-arreglo-magallanes-entrevista-131977804)<br>
+16:05 [En la memoria del Festival Grec](https://www.elperiodico.com/es/opinion/20260630/memoria-festival-grec-teatro-articulo-alex-salmon-131978360)<br>
+16:05 [El escondido jardín a menos de dos horas de Barcelona diseñado por Gaudí: bancos, fuentes y puentes inspirados en la naturaleza](https://www.elperiodico.com/es/catalunya/20260630/pueblos-barcelona-jardin-artigas-antoni-gaudi-la-pobla-de-lillet-dv-loc-130660176)<br>
+16:00 [Una empresa convertirá un antiguo suelo industrial de Terrassa en una nave logística](https://www.elperiodico.com/es/barcelona/20260630/empresa-convertira-antiguo-suelo-industrial-terrassa-belog-131971870)<br>
+15:56 [La terapeuta de la familia Andic declara durante cerca de tres horas en los juzgados de Martorell](https://www.elperiodico.com/es/videos/sociedad/terapeuta-familia-andic-declara-durante/131978127.shtml)<br>
+15:56 [Correos, carteros profesionales y reforma postal](https://www.elperiodico.com/es/opinion/20260630/correos-carteros-profesionales-reforma-postal-huelga-correos-131978264)<br>
+15:55 [El escritorio de prensa del Congreso llevará el nombre de Alfredo Pérez Rubalcaba](https://www.elperiodico.com/es/politica/20260630/escritorio-prensa-congreso-llevara-nombre-131978186)<br>
+15:52 [Incremento de la demanda de Bicing en Barcelona: las medidas de verano para dar respuesta](https://www.elperiodico.com/es/barcelona/20260630/incremento-bicing-servicio-verano-temporada-bicicletas-playas-131932503)<br>
+15:51 [Hacienda anuncia que trabaja en una propuesta para mejorar la burocracia y fiscalidad de los autónomos](https://www.elperiodico.com/es/economia/20260630/hacienda-anuncia-trabaja-propuesta-mejorar-131978043)<br>
+15:47 [Illa reivindica los órganos de control para evitar que se "debilite la democracia" en la toma de posesión de la nueva síndica mayor](https://www.elperiodico.com/es/politica/20260630/illa-subraya-importancia-organos-control-toma-posesion-nueva-sindica-mayor-131977674)<br>
+15:44 [Paradojas económicas en el mercado de trabajo](https://www.elperiodico.com/es/opinion/20260630/paradojas-economicas-mercado-trabajo-articulo-guillem-lopez-casasnovas-131977251)<br>
+15:38 [El nuevo delegado de Defensa en Catalunya toma posesión destacando el papel militar en la "preservación de nuestra libertad"](https://www.elperiodico.com/es/politica/20260630/pedro-valdes-posesion-nuevo-delegado-defensa-cataluna-131977746)<br>
+15:32 [El Gobierno confía en que el Supremo no pare la regularización de migrantes tras haber rechazado antes medidas cautelares](https://www.elperiodico.com/es/politica/20260630/gobierno-supremo-proceso-regularizacion-migrantes-131977600)<br>
+15:31 [La terapeuta de la familia Andic declara durante tres horas como testigo ante la jueza](https://www.elperiodico.com/es/sociedad/20260630/terapeuta-familia-andic-declara-durante-casi-tres-horas-jueza-131977131)<br>
+15:30 [La firma Mirazur Capital se convierte en accionista mayoritario de la Marina Port Vell](https://www.elperiodico.com/es/barcelona/20260630/firma-mirazur-capital-convierte-accionista-131976522)<br>
+15:12 [BBVA dona cinco millones de euros y moviliza ayuda humanitaria tras los terremotos en Venezuela](https://www.elperiodico.com/es/economia/20260630/bbva-dona-cinco-millones-euros-131976985)<br>
+15:10 [Declaran los dos excursionistas que atendieron a Jonathan Andic tras la caída de su padre en Montserrat](https://www.elperiodico.com/es/videos/sociedad/declaran-excursionistas-atendieron-jonathan-andic/131976879.shtml)<br>
 15:06 [El rincón de Sant Cugat del Vallès que está en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-cugat/20260630/rincon-sant-cugat-valles-historia-cine-dv-loc-110916622)<br>
 15:05 [Brooke George, la 'influencer' de 23 años que podría ser condenada a muerte por apuñalar a su novio en Dubai "en defensa propia"](https://www.elperiodico.com/es/gente/20260630/brooke-george-influencer-condenada-muerte-apunalar-novio-dubai-dv-131972300)<br>
 15:00 [¡Adiós comisiones! Descubre imagin: tu cuenta 100 % online sin gastos extra](https://www.elperiodico.com/es/shopping/20260630/imagin-cuenta-caixa-adios-comisiones-bc-131539762)<br>
