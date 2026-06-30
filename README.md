@@ -1,8 +1,21 @@
-# News for 2026-06-30 13:56
+# News for 2026-06-30 15:08
 
 Previous day: [2026-06-29](./data/2026-06-29.md)
 
 ## ua.korrespondent.net
+15:03 [Пригрозив проблемами: що вимагає Трамп від власників АЗС](https://ua.korrespondent.net/business/financial/4890459-pryhrozyv-problemamy-scho-vymahaie-tramp-vid-vlasnykiv-azs)<br>
+14:57 [Судитимуть ексмитника, який смертельно поранив службовця ТЦК у Львові](https://ua.korrespondent.net/world/4890457-sudytymut-eksmytnyka-yakyi-smertelno-poranyv-sluzhbovtsia-ttsk-u-lvovi)<br>
+14:52 [ЗСУ отримають додаткові ресурси - Зеленський](https://ua.korrespondent.net/ukraine/4890454-zsu-otrymauit-dodatkovi-resursy-zelenskyi)<br>
+14:49 [Туреччина розглядає продаж російських С-400 заради F-35 - ЗМІ](https://ua.korrespondent.net/world/4890453-turechchyna-rozghliadaie-prodazh-rosiiskykh-s-400-zarady-F-35-zmi)<br>
+14:46 [Лукашенко в Китаї відвідав випускний свого сина](https://ua.korrespondent.net/world/4890451-lukashenko-v-kytai-vidvidav-vypusknyi-svoho-syna)<br>
+14:35 [Спецоперація Бюджет: збитки державі перевищили 1,2 млрд грн](https://ua.korrespondent.net/business/financial/4890448-spetsoperatsiia-buidzhet-zbytky-derzhavi-perevyschyly-12-mlrd-hrn)<br>
+14:29 [Росія формує резервний "тіньовий СПГ-флот" - розвідка](https://ua.korrespondent.net/world/russia/4890446-rosiia-formuie-rezervnyi-tinovyi-sph-flot-rozvidka)<br>
+14:26 [Окупаційна влада Криму дала невтішний прогноз щодо пального](https://ua.korrespondent.net/ukraine/4890445-okupatsiina-vlada-krymu-dala-nevtishnyi-prohnoz-schodo-palnoho)<br>
+14:16 [Угорщина продовжить захист українським чоловікам](https://ua.korrespondent.net/world/4890443-uhorschyna-prodovzhyt-zakhyst-ukrainskym-cholovikam)<br>
+14:12 [Сейм Литви затвердив Сінкявічюса новим прем’єр-міністром](https://ua.korrespondent.net/world/4890441-seim-lytvy-zatverdyv-sinkiavichuisa-novym-premier-ministrom)<br>
+14:05 [Що вміють сучасні пилососи і за які функції варто платити](https://ua.korrespondent.net/business/4890396-scho-vmiuit-suchasni-pylososy-i-za-yaki-funktsii-varto-platyty)<br>
+14:00 [Озвучено дані уражень по стратегічному НПЗ в Росії](https://ua.korrespondent.net/ukraine/4890439-ozvucheno-dani-urazhen-po-stratehichnomu-npz-v-rosii)<br>
+13:53 [Херсонець отримав довічне за співпрацю з РФ після деокупації](https://ua.korrespondent.net/ukraine/4890435-khersonets-otrymav-dovichne-za-spivpratsui-z-rf-pislia-deokupatsii)<br>
 13:50 [США запевнили союзників у готовності захищати країни Балтії](https://ua.korrespondent.net/world/4890432-ssha-zapevnyly-souiznykiv-u-hotovnosti-zakhyschaty-krainy-baltii)<br>
 13:46 [ЗМІ опублікували рейтинг найкращих роботодавців для ветеранів](https://ua.korrespondent.net/business/companies/4890430-zmi-opublikuvaly-reitynh-naikraschykh-robotodavtsiv-dlia-veteraniv)<br>
 13:32 [Яхту Усманова вивели з-під санкцій ЄС](https://ua.korrespondent.net/world/4890428-yakhtu-usmanova-vyvely-z-pid-sanktsii-yes)<br>
@@ -73,6 +86,7 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 00:43 [У Монако підірвали українського олігарха з сім'єю](https://ua.korrespondent.net/world/4890258-u-monako-pidirvaly-ukrainskoho-oliharkha-z-simieui)<br>
 
 ## as.com
+13:46 [Mike James abandona el Mónaco](https://as.com/baloncesto/euroliga/mike-james-abandona-el-monaco-f202606-n/)<br>
 13:34 [El Breogán ficha a Edgar Vicedo](https://as.com/baloncesto/acb/el-breogan-ficha-a-edgar-vicedo-f202606-n/)<br>
 12:46 [Una visita muy especial](https://as.com/baloncesto/mas_baloncesto/una-visita-muy-especial-f202606-n/)<br>
 12:29 [Ettore Messina deja el Milán](https://as.com/baloncesto/euroliga/ettore-messina-deja-el-milan-f202606-n/)<br>
@@ -85,6 +99,18 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 07:01 [“Hay que ser autocrítico y sincero: no ha sido un buen año”](https://as.com/baloncesto/euroliga/hay-que-ser-autocritico-y-sincero-no-ha-sido-un-buen-ano-f202606-n/)<br>
 
 ## www.elperiodico.com
+15:06 [El rincón de Sant Cugat del Vallès que está en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-cugat/20260630/rincon-sant-cugat-valles-historia-cine-dv-loc-110916622)<br>
+15:05 [Brooke George, la 'influencer' de 23 años que podría ser condenada a muerte por apuñalar a su novio en Dubai "en defensa propia"](https://www.elperiodico.com/es/gente/20260630/brooke-george-influencer-condenada-muerte-apunalar-novio-dubai-dv-131972300)<br>
+15:00 [¡Adiós comisiones! Descubre imagin: tu cuenta 100 % online sin gastos extra](https://www.elperiodico.com/es/shopping/20260630/imagin-cuenta-caixa-adios-comisiones-bc-131539762)<br>
+14:43 [Lagarde defiende la subida de tipos: "Fue la decisión correcta teniendo en cuenta los datos"](https://www.elperiodico.com/es/economia/20260630/lagarde-defiende-subida-tipos-decision-131975987)<br>
+14:39 [Pablo González, albañil español en Noruega: "El sector de la construcción funciona muy bien en este país"](https://www.elperiodico.com/es/economia/20260630/pablo-gonzalez-albanil-sector-construccion-noruega-salarios-horarios-dv-131971507)<br>
+14:30 [El Área Metropolitana de Tarragona crea una agencia para atraer inversiones y competitividad](https://www.elperiodico.com/es/tarragona/20260630/area-metropolitana-tarragona-agencia-competitividad-inversiones-131973365)<br>
+14:27 [Lista completa de morosos de Hacienda 2025: consulta todos los nombres aquí](https://www.elperiodico.com/es/economia/20260630/lista-completa-morosos-hacienda-2025-131975141)<br>
+14:15 [El Reino Unido aumenta su gasto militar hasta el 2,7% pero deja dudas sobre la financiación a largo plazo](https://www.elperiodico.com/es/internacional/20260630/reino-unido-aumenta-gasto-militar-dudas-financiacion-largo-plazo-131974477)<br>
+14:12 [Xi impone un campamento a sus generales para reforzar sus ideales marxistas y alejen la mano de la caja](https://www.elperiodico.com/es/internacional/20260630/xi-impone-campamento-generales-reforzar-marxismo-evitar-corrupcion-131974266)<br>
+14:09 [El Gobierno inicia una reforma de las indemnizaciones de los interinos y pide más tiempo a Europa](https://www.elperiodico.com/es/economia/20260630/interinos-gobierno-pide-tiempo-europa-cambios-indemnizacion-131974056)<br>
+14:07 [Los regalos de Zarzuela: un móvil chino de Xi y 20 botellas de alcohol para Felipe VI y casi 80 libros y 7 pendientes para Letizia](https://www.elperiodico.com/es/politica/20260630/regalos-zarzuela-movil-chino-xi-jinping-alcohol-pendientes-letizia-131973928)<br>
+14:01 [Indra ratifica a Recasens y Simón en su primera junta y rebaja las condiciones salariales del nuevo consejero delegado](https://www.elperiodico.com/es/economia/20260630/indra-celebra-primera-junta-accionistas-recasens-simon-131973515)<br>
 13:56 [Solo un 30% de los profesionales de la IA son mujeres en Barcelona](https://www.elperiodico.com/es/economia/20260630/30-profesionales-ia-son-mujeres-131959100)<br>
 13:55 [Unió de Pagesos anuncia una tractorada el 10 de julio para reclamar medidas urgentes ante "la grave crisis de la viña"](https://www.elperiodico.com/es/economia/20260630/unio-pagesos-anuncia-tractorada-10julio-precios-uva-131969538)<br>
 13:52 [Trapero ve "muy desafortunadas" las palabras del detective de la defensa de Andic sobre los Mossos](https://www.elperiodico.com/es/sociedad/20260630/josep-lluis-trapero-caso-andic-declaraciones-paco-marco-investigacion-judicial-131972035)<br>
@@ -105,6 +131,7 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 12:54 [Francia busca al autor del atentado fallido contra un oligarca ucraniano en Mónaco](https://www.elperiodico.com/es/internacional/20260630/francia-busca-autor-atentado-fallido-oligarca-ucraniano-vinculos-rusia-131969566)<br>
 12:49 [El PP volverá a citar a Zapatero en el Senado aunque aún no pone fecha](https://www.elperiodico.com/es/politica/20260630/pp-volvera-citar-zapatero-senado-131969319)<br>
 12:46 [Marvel Super Heroes convierte Magic The Gathering en un duelo de héroes, villanos y mazos temáticos](https://www.elperiodico.com/es/videojuegos/20260630/marvel-super-heroes-convierte-magic-131968874)<br>
+12:41 [El Papa pide in extremis a los lefebvristas que se detengan antes de consumar este miércoles un cisma con Roma](https://www.elperiodico.com/es/sociedad/20260630/papa-leon-xiv-pide-lefebvristas-detengan-cisma-131967765)<br>
 12:31 [Último día para presentar la declaración de la Renta: sanción de 200 euros y recargos de hasta el 15% si no se entrega antes de medianoche](https://www.elperiodico.com/es/economia/declaracion-renta/20260630/ultimo-dia-presentar-declaracion-renta-multas-200-euros-recargos-dv-131966451)<br>
 12:30 [Carlos Burguera, graduado en Medicina con 21 años: "Muchas personas con altas capacidades nunca llegan a brillar porque su potencial pasa desapercibido"](https://www.elperiodico.com/es/ser-feliz/20260630/coeficiente-intelectual-alto-seis-habitos-signos-dv-131547106)<br>
 12:30 [Ignacio Solsona, abogado laboralista, avisa sobre las pensiones: "No todo en la pensión depende de la edad de jubilación"](https://www.elperiodico.com/es/economia/20260630/ignacio-solsona-abogado-laboralista-explica-diferencia-cotizar-15-37-anos-dv-131420261)<br>
