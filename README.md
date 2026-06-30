@@ -1,8 +1,14 @@
-# News for 2026-06-30 18:21
+# News for 2026-06-30 19:30
 
 Previous day: [2026-06-29](./data/2026-06-29.md)
 
 ## ua.korrespondent.net
+19:27 [У США обіцяють $10 млн за інформацію про хакерів російських спецслужб](https://ua.korrespondent.net/world/4890545-u-ssha-obitsiauit-10-mln-za-informatsiui-pro-khakeriv-rosiiskykh-spetssluzhb)<br>
+19:26 [Нафтові доходи Кремля обвалилися - ЗМІ](https://ua.korrespondent.net/world/russia/4890544-naftovi-dokhody-kremlia-obvalylysia-zmi)<br>
+19:05 [Сирський: Росія може піти в наступ на Чернігівщину](https://ua.korrespondent.net/ukraine/4890537-syrskyi-rosiia-mozhe-pity-v-nastup-na-chernihivschynu)<br>
+18:59 [Бурелом знищив понад 400 гектарів лісу на Рівненщині та Волині](https://ua.korrespondent.net/ukraine/4890540-burelom-znyschyv-ponad-400-hektariv-lisu-na-rivnenschyni-ta-volyni)<br>
+18:39 [Кешбек за квітень українці отримають з 3 липня](https://ua.korrespondent.net/business/economics/4890534-keshbek-za-kviten-ukraintsi-otrymauit-z-3-lypnia)<br>
+18:20 [Знову атака: у Запоріжжі зростає число поранених](https://ua.korrespondent.net/city/zaporozhye/4890529-znovu-ataka-u-zaporizhzhi-zrostaie-chyslo-poranenykh)<br>
 18:13 [На Хмельниччині засудили ґвалтівника 13-річної](https://ua.korrespondent.net/ukraine/4890527-na-khmelnychchyni-zasudyly-gvaltivnyka-13-richnoi)<br>
 18:03 [Проти війни рекордна кількість росіян - опитування](https://ua.korrespondent.net/world/russia/4890524-proty-viiny-rekordna-kilkist-rosiian-opytuvannia)<br>
 18:00 [Scandinavian Airlines купить літаків Airbus на рекордні $10 млрд](https://ua.korrespondent.net/business/companies/4890522-Scandinavian-Airlines-kupyt-litakiv-Airbus-na-rekordni-10-mlrd)<br>
@@ -130,6 +136,16 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 07:01 [“Hay que ser autocrítico y sincero: no ha sido un buen año”](https://as.com/baloncesto/euroliga/hay-que-ser-autocritico-y-sincero-no-ha-sido-un-buen-ano-f202606-n/)<br>
 
 ## www.elperiodico.com
+19:02 [El Estado venezolano a prueba](https://www.elperiodico.com/es/opinion/20260630/venezolano-prueba-terremoto-estado-editorial-131985971)<br>
+18:55 [La francesa Colis Privé negocia la compra de la barcelonesa Paack para reforzar su negocio de reparto en la Península](https://www.elperiodico.com/es/economia/20260630/francesa-colis-prive-negocia-compra-131985732)<br>
+18:54 [El papa León XIV nombra a una tercera mujer como 'ministra' del Vaticano](https://www.elperiodico.com/es/sociedad/20260630/papa-leon-xiv-nombra-mujer-ministra-vaticano-131986037)<br>
+18:45 [La oposición de L'Hospitalet tumba el primer paquete de inversiones para la reforma del Samontà](https://www.elperiodico.com/es/barcelona/20260630/oposicion-lhospitalet-tumba-primer-paquete-inversiones-reforma-del-samonta-131979737)<br>
+18:41 [Bruselas investiga al fabricante de correctores ortodónticos estadounidense Align por abuso de posición dominante](https://www.elperiodico.com/es/economia/20260630/bruselas-investiga-fabricante-correctores-ortodonticos-131985668)<br>
+18:40 [El patrimonio de Iker Casillas (45 años): una fundación, una academia y una mansión en República Dominicana](https://www.elperiodico.com/es/gente/20260630/patrimonio-iker-casillas-45-anos-academia-mansion-republica-dominicana-dv-131985388)<br>
+18:37 [El Reino Unido exigirá a los refugiados devolver hasta 11.000 euros por gastos de alojamiento](https://www.elperiodico.com/es/internacional/20260630/reino-unido-exigira-refugiados-devolver-hasta-11000-euros-gastos-alojamiento-131985477)<br>
+18:35 [Impacto en la NBA: Lebron James abandona los Lakers](https://www.elperiodico.com/es/deportes/20260630/impacto-nba-lebron-james-abandona-131984752)<br>
+18:29 [El Parlament tumba el plan de Junts para que los ayuntamientos decidan sobre pisos turísticos](https://www.elperiodico.com/es/politica/20260630/parlament-ley-junts-pisos-turisticos-licencias-ayuntamientos-131967660)<br>
+18:29 [La UE refuerza su ‘lista negra’: más de 150 aerolíneas vetadas por motivos de seguridad](https://www.elperiodico.com/es/trafico-y-transportes/20260630/ue-lista-negra-aerolineas-vetadas-seguridad-dv-131945407)<br>
 18:16 [Tàrrega cierra las piscinas municipales por la presencia de excrementos en el agua](https://www.elperiodico.com/es/sucesos/20260630/tarrega-cierra-piscinas-municipales-excrementos-humanos-agua-131984428)<br>
 18:12 [Hallan una bomba de mortero del siglo XVII en unas excavaciones en La Seu d'Urgell](https://www.elperiodico.com/es/sociedad/20260630/hallan-bomba-mortero-siglo-xvii-excavaciones-cataluna-131984221)<br>
 18:05 [El calor extremo dispara las emergencias médicas de personas con demencia y podría acelerar su deterioro cognitivo](https://www.elperiodico.com/es/sociedad/20260630/calor-extremo-emergencias-medicas-demencia-efectos-131973238)<br>
