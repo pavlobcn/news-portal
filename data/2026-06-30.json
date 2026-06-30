@@ -1,5 +1,32 @@
 [
   {
+    "title": "Keiko Fujimori es la ganadora inapelable del segundo turno electoral en Perú",
+    "link": "https://www.elperiodico.com/es/internacional/20260630/keiko-fujimori-ganadora-inapelable-segundo-131953526",
+    "pubDate": "2026-06-30 03:24:07",
+    "category": "",
+    "description": "<h2>Su rival Roberto Sánchez reconoció la derrota. Fujimori asume el próximo 28 de julio</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Польщі пояснили, чому Києву не дадуть винищувачі",
+    "link": "https://ua.korrespondent.net/world/worldabus/4890269-v-polschi-poiasnyly-chomu-kyievu-ne-dadut-vynyschuvachi",
+    "pubDate": "2026-06-30 03:12:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475082.jpg\">Україна мала поділитися доступом до дронових технологій в обмін на радянські МіГи від Варшави, переконаний голова Міноборони Польщі.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В РФ звинуватили НАТО й Україну в планах атаки на російські авіабази",
+    "link": "https://ua.korrespondent.net/world/russia/4890267-v-rf-zvynuvatyly-nato-y-ukrainu-v-planakh-ataky-na-rosiiski-aviabazy",
+    "pubDate": "2026-06-30 02:46:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475073.jpg\">Альянс втрачає залишки раціональності й дрейфує в зону підвищеного ризику, запевняє речниця МЗС Росії Марія Захарова.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський запропонував Данії укласти Dron Deal",
     "link": "https://ua.korrespondent.net/ukraine/4890264-zelenskyi-zaproponuvav-danii-uklasty-Dron-Deal",
     "pubDate": "2026-06-30 01:57:00",
@@ -33,6 +60,15 @@
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475028.jpeg\">Мурманський оперативний штаб в понеділок, 29 червня, підтвердив тотальні перевірки на трасах регіону.",
     "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Мурманській області РФ масово зупиняють авто і шукають \"диверсантів\"",
+    "link": "https://ua.korrespondent.net/world/russia/4890260-v-murmanskii-oblasti-rf-masovo-zupyniauit-avto-i-shukauit-dyversantiv",
+    "pubDate": "2026-06-30 00:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475028.jpeg\">Мурманський оперативний штаб в понеділок, 29 червня, підтвердив тотальні перевірки на трасах регіону.",
+    "topic": "0",
     "topic_match_probability": 0
   },
   {
