@@ -1,8 +1,31 @@
-# News for 2026-06-30 10:41
+# News for 2026-06-30 12:56
 
 Previous day: [2026-06-29](./data/2026-06-29.md)
 
 ## ua.korrespondent.net
+12:51 [Росія втрачає вплив на свого головного сателіта - ЦПД](https://ua.korrespondent.net/world/4890401-rosiia-vtrachaie-vplyv-na-svoho-holovnoho-satelita-tspd)<br>
+12:48 [У Києві затримали "ексміністра" енергетики Криму](https://ua.korrespondent.net/ukraine/4890405-u-kyievi-zatrymaly-eksministra-enerhetyky-krymu)<br>
+12:46 [У поліції пояснили складність встановлення особи загиблих бійців](https://ua.korrespondent.net/ukraine/4890407-u-politsii-poiasnyly-skladnist-vstanovlennia-osoby-zahyblykh-biitsiv)<br>
+12:43 [Київ і область никрило димом від пожеж](https://ua.korrespondent.net/city/kiev/4890404-kyiv-i-oblast-nykrylo-dymom-vid-pozhezh)<br>
+12:29 [Більшість росіян визнали погіршення економіки - опитування](https://ua.korrespondent.net/world/russia/4890399-bilshist-rosiian-vyznaly-pohirshennia-ekonomiky-opytuvannia)<br>
+12:21 [В одній з областей України посилили відключення світла](https://ua.korrespondent.net/ukraine/4890387-v-odnii-z-oblastei-ukrainy-posylyly-vidkluichennia-svitla)<br>
+12:16 [Нова Зеландія збільшила обсяг допомоги Україні](https://ua.korrespondent.net/world/4890392-nova-zelandiia-zbilshyla-obsiah-dopomohy-ukraini)<br>
+12:16 [УЗ повідомила про масову затримку поїздів з Харкова](https://ua.korrespondent.net/ukraine/4890393-uz-povidomyla-pro-masovu-zatrymku-poizdiv-z-kharkova)<br>
+12:11 [Євросоюз надав Україні 3,9 млрд євро на дрони](https://ua.korrespondent.net/world/4890388-yevrosouiz-nadav-ukraini-39-mlrd-yevro-na-drony)<br>
+12:06 [Діяльність Навроцького позитивно оцінюють понад половина поляків](https://ua.korrespondent.net/world/4890385-diialnist-navrotskoho-pozytyvno-otsinuiuit-ponad-polovyna-poliakiv)<br>
+11:58 [Найсильніша спека за 63 роки: у Львові та Вінниці температурні рекорди](https://ua.korrespondent.net/city/lvov/4890377-naisylnisha-speka-za-63-roky-u-lvovi-ta-vinnytsi-temperaturni-rekordy)<br>
+11:53 [У WhatsApp з'являться нікнейми: коли запрацює нова функція](https://ua.korrespondent.net/business/companies/4890381-u-WhatsApp-ziavliatsia-nikneimy-koly-zapratsuiie-nova-funktsiia)<br>
+11:47 [Примусова мобілізація на Донеччині: підозрюють чотирьох "депутатів ДНР"](https://ua.korrespondent.net/ukraine/4890374-prymusova-mobilizatsiia-na-donechchyni-pidozruiuit-chotyrokh-deputativ-dnr)<br>
+11:44 [Гривня повернулась до зміцнення в обмінниках](https://ua.korrespondent.net/business/financial/4890372-hryvnia-povernulas-do-zmitsnennia-v-obminnykakh)<br>
+11:28 [Британія реформує армію за прикладом України](https://ua.korrespondent.net/world/4890363-brytaniia-reformuie-armiui-za-prykladom-ukrainy)<br>
+11:25 [Під Москвою повторно уражено стратегічний об'єкт](https://ua.korrespondent.net/ukraine/4890364-pid-moskvoui-povtorno-urazheno-stratehichnyi-obiekt)<br>
+11:21 [Вибух у будинку Єрмолаєва в Монако: слідство відкинуло версію теракту](https://ua.korrespondent.net/world/4890362-vybukh-u-budynku-yermolaieva-v-monako-slidstvo-vidkynulo-versiui-teraktu)<br>
+11:14 [Франція арештувала тіньовий танкер РФ](https://ua.korrespondent.net/world/4890358-frantsiia-areshtuvala-tinovyi-tanker-rf)<br>
+11:10 [Жителя Запоріжжя судитимуть за зґвалтування доньки співмешканки](https://ua.korrespondent.net/ukraine/4890360-zhytelia-zaporizhzhia-sudytymut-za-zgvaltuvannia-donky-spivmeshkanky)<br>
+11:01 [Удар по Сакській ТЕЦ в Криму: стало відомо про наслідки](https://ua.korrespondent.net/ukraine/4890354-udar-po-sakskii-tets-v-krymu-stalo-vidomo-pro-naslidky)<br>
+10:46 [Перший теракт в Монако: до чого тут українці](https://ua.korrespondent.net/world/4890344-pershyi-terakt-v-monako-do-choho-tut-ukraintsi)<br>
+10:45 [Китай в ООН звернувся до України і Росії](https://ua.korrespondent.net/world/4890349-kytai-v-oon-zvernuvsia-do-ukrainy-i-rosii)<br>
+10:41 [У Зімбабве затримали підозрюваного у вербуванні найманців до армії РФ - ЗМІ](https://ua.korrespondent.net/world/4890347-u-zimbabve-zatrymaly-pidozruivanoho-u-verbuvanni-naimantsiv-do-armii-rf-zmi)<br>
 10:22 [Метро Києва засекретило відомості про місткість підземки як укриття](https://ua.korrespondent.net/city/kiev/4890341-metro-kyieva-zasekretylo-vidomosti-pro-mistkist-pidzemky-yak-ukryttia)<br>
 10:15 [В Одесі затримали агента ФСБ](https://ua.korrespondent.net/city/odessa/4890340-v-odesi-zatrymaly-ahenta-fsb)<br>
 10:02 [Удари по Донеччині: четверо поранених](https://ua.korrespondent.net/ukraine/4890336-udary-po-donechchyni-chetvero-poranenykh)<br>
@@ -40,17 +63,39 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 00:43 [У Монако підірвали українського олігарха з сім'єю](https://ua.korrespondent.net/world/4890258-u-monako-pidirvaly-ukrainskoho-oliharkha-z-simieui)<br>
 
 ## as.com
+12:29 [Ettore Messina deja el Milán](https://as.com/baloncesto/euroliga/ettore-messina-deja-el-milan-f202606-n/)<br>
+11:12 [Lukic y Echezuria, el talento forjado bajo el apellido Laso, brilla en el Mundial Sub-17](https://as.com/baloncesto/mas_baloncesto/lukic-y-echezuria-el-talento-forjado-bajo-el-apellido-laso-brilla-en-el-mundial-sub-17-f202606-n/)<br>
+11:04 [Drama en Valencia por la salida de Pedro Martínez](https://as.com/baloncesto/acb/drama-en-valencia-por-la-salida-de-pedro-martinez-f202606-n/)<br>
+10:37 [Adiós a una leyenda del Efes: Shane Larkin ficha por el Fenerbahçe](https://as.com/baloncesto/euroliga/adios-a-una-leyenda-del-efes-shane-larkin-ficha-por-el-fenerbahce-f202606-n/)<br>
 08:21 [El Mundial Sub-17 se rinde al madridista Omer Kutluay](https://as.com/baloncesto/mas_baloncesto/el-mundial-sub-17-se-rinde-al-madridista-omer-kutluay-f202606-n/)<br>
 07:27 [La frase de Pedro Martínez sobre su futuro y el Madrid hace menos de una semana por la que le están cayendo palos](https://as.com/baloncesto/videos/la-frase-de-pedro-martinez-sobre-su-futuro-y-el-madrid-hace-menos-de-una-semana-por-la-que-le-estan-cayendo-palos-f202606-v/)<br>
 07:03 [Confianza en Willy Hernangómez](https://as.com/baloncesto/mas_baloncesto/confianza-en-willy-hernangomez-f202606-n/)<br>
 07:01 [“Hay que ser autocrítico y sincero: no ha sido un buen año”](https://as.com/baloncesto/euroliga/hay-que-ser-autocritico-y-sincero-no-ha-sido-un-buen-ano-f202606-n/)<br>
 
 ## www.elperiodico.com
+12:54 [Francia busca al autor del atentado fallido contra un oligarca ucraniano en Mónaco](https://www.elperiodico.com/es/internacional/20260630/francia-busca-autor-atentado-fallido-oligarca-ucraniano-vinculos-rusia-131969566)<br>
+12:49 [El PP volverá a citar a Zapatero en el Senado aunque aún no pone fecha](https://www.elperiodico.com/es/politica/20260630/pp-volvera-citar-zapatero-senado-131969319)<br>
+12:46 [Marvel Super Heroes convierte Magic The Gathering en un duelo de héroes, villanos y mazos temáticos](https://www.elperiodico.com/es/videojuegos/20260630/marvel-super-heroes-convierte-magic-131968874)<br>
+12:31 [Último día para presentar la declaración de la Renta: sanción de 200 euros y recargos de hasta el 15% si no se entrega antes de medianoche](https://www.elperiodico.com/es/economia/declaracion-renta/20260630/ultimo-dia-presentar-declaracion-renta-multas-200-euros-recargos-dv-131966451)<br>
+12:30 [Carlos Burguera, graduado en Medicina con 21 años: "Muchas personas con altas capacidades nunca llegan a brillar porque su potencial pasa desapercibido"](https://www.elperiodico.com/es/ser-feliz/20260630/coeficiente-intelectual-alto-seis-habitos-signos-dv-131547106)<br>
+12:30 [Ignacio Solsona, abogado laboralista, avisa sobre las pensiones: "No todo en la pensión depende de la edad de jubilación"](https://www.elperiodico.com/es/economia/20260630/ignacio-solsona-abogado-laboralista-explica-diferencia-cotizar-15-37-anos-dv-131420261)<br>
+12:23 [Un tribunal condena a Google a indemnizar a varios medios franceses con más de 125 millones de euros](https://www.elperiodico.com/es/internacional/20260630/tribunal-condena-google-indemnizar-medios-131965253)<br>
+12:17 [Suben a 19 los españoles fallecidos en los terremotos de Venezuela; hay 131 desaparecidos](https://www.elperiodico.com/es/internacional/20260630/espanoles-desaparecidos-terremotos-venezuela-133-personas-131873927)<br>
+12:10 [Quién entra y quién sale de la lista de morosos de Hacienda 2025: Isabel Pantoja vuelve y el futbolista Arda Turan se estrena](https://www.elperiodico.com/es/economia/20260630/listado-grandes-morosos-hacienda-deudores-2025-131966905)<br>
+11:52 [Begoña Gómez pide permiso a Peinado para acompañar a Sánchez a la cumbre de la OTAN y acudir a la graduación de su hija](https://www.elperiodico.com/es/politica/20260630/begona-gomez-pide-permisio-peinado-cumbre-otan-graduacion-hija-131966023)<br>
+11:47 [Rescatista venezolano: "Cada minuto que yo descanso es una persona que se queda sin tiempo"](https://www.elperiodico.com/es/videos/internacional/rescatista-terremotos-venezuela/131965774.shtml)<br>
+11:46 [El riesgo de colapso en una torre de la muralla de Tossa de Mar obliga a cerrar terrazas de su entorno](https://www.elperiodico.com/es/sociedad/20260630/posible-riesgo-colapso-torre-muralla-tossa-de-mar-131964791)<br>
+11:17 [La escuela decana de fotografía de Barcelona encara una etapa ilusionante tras sortear su desaparición](https://www.elperiodico.com/es/barcelona/eixample/20260630/escuela-decana-fotografia-barcelona-encara-etapa-ilusionante-sortear-desaparicion-131815408)<br>
+11:11 [Impactantes imágenes aéreas de edificios destrozados tras los terremotos en Venezuela](https://www.elperiodico.com/es/videos/internacional/impactantes-imagenes-aereas-edificios-destrozados-terremotos-venezuela/131963880.shtml)<br>
+10:58 [La OMS informa de la muerte de 117 personas por un brote de cólera en Sudán](https://www.elperiodico.com/es/internacional/20260630/oms-informa-muerte-117-personas-colera-sudan-131961863)<br>
+10:57 [El fiscal de Kitchen concluye en su alegato final la "finalidad bastarda" del operativo contra Bárcenas](https://www.elperiodico.com/es/politica/20260630/fiscal-kitchen-concluye-alegato-final-131963262)<br>
+10:53 [Profesores de institutos de Vigo piden la presencia de un directivo en las tutorías por las tensiones con los padres: "Es para calmar los ánimos"](https://www.elperiodico.com/es/sociedad/20260630/profesores-institutos-vigo-presencia-directivo-tutorias-miedo-familias-131962279)<br>
 10:39 [Ascienden a 18 los españoles fallecidos en los terremotos de Venezuela](https://www.elperiodico.com/es/videos/internacional/ascienden-18-espanoles-fallecidos-terremotos/131962313.shtml)<br>
 10:39 [Investigadores catalanes convierten las patatas en plásticos biodegradables mediante una bacteria modificada](https://www.elperiodico.com/es/ciencia/20260630/patatas-plastico-biodegradable-investigacion-catalana-bacteria-dv-loc-131960973)<br>
 10:34 [Los Castellers de Barcelona baten un récord histórico con los castells más altos del mundo en los Alpes suizos](https://www.elperiodico.com/es/barcelona/20260630/castellers-barcelona-record-historico-castells-mas-altos-del-mundo-131959610)<br>
 10:33 [Rescatan a una venezolana de 69 años tras tres días bajo los escombros: lo primero que pidió fue una Coca-Cola](https://www.elperiodico.com/es/videos/internacional/rescatan-venezolana-escombros-terremotos-pide-cocacola/131962330.shtml)<br>
 10:33 [La cúpula de Salut durante la pandemia, a juicio por el retraso en vacunar a policías](https://www.elperiodico.com/es/sociedad/20260630/cupula-salut-durante-pandemia-juicio-mascarillas-discriminacion-guardia-civil-policia-nacional-131961858)<br>
+10:33 [El tribunal deja fuera el delito que permitía pedir prisión a la excúpula de Salut por la vacunación policial](https://www.elperiodico.com/es/politica/20260630/juicio-vacunacion-policias-guardias-civiles-cataluna-alba-verges-argimon-131961858)<br>
 10:30 [Muere el etarra Jesús María Zabarte, 'el carnicero de Mondragón'](https://www.elperiodico.com/es/politica/20260630/muere-etarra-jesus-maria-josu-zabarte-carnicero-mondragon-131962215)<br>
 10:30 [Barcelona atiende a unos 87.000 inmigrantes que aspiran a obtener la regularización](https://www.elperiodico.com/es/barcelona/20260630/barcelona-inmigrantes-regularizacion-proceso-gobierno-131961718)<br>
 10:30 [Una sentencia en EEUU respalda la fabricación del polémico pesticida glifosato](https://www.elperiodico.com/es/medio-ambiente/20260630/sentencia-eeuu-respalda-fabricacion-polemico-131962182)<br>

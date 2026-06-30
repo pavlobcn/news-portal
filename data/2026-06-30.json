@@ -1,5 +1,554 @@
 [
   {
+    "title": "Francia busca al autor del atentado fallido contra un oligarca ucraniano en Mónaco",
+    "link": "https://www.elperiodico.com/es/internacional/20260630/francia-busca-autor-atentado-fallido-oligarca-ucraniano-vinculos-rusia-131969566",
+    "pubDate": "2026-06-30 12:54:14",
+    "category": "",
+    "description": "<h2>Las autoridades descartan la posibilidad de que se trate de un ataque terrorista e investigan el suceso como un intento de asesinato contra el empresario sancionado por Kiev por sus negocios con Moscú</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Establiments Viena rozó en 2025 los 92 millones de euros en ventas y mantuvo su deuda a cero",
+    "link": "https://www.elperiodico.com/es/economia/20260630/establiments-viena-resultados-empresariales-2025-131965112",
+    "pubDate": "2026-06-30 12:51:03",
+    "category": "",
+    "description": "<h2>\"En establecimientos comparables, las ventas han crecido un 5,3%, cuatro puntos más de la media del sector\", destaca la compañía vallesana</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250731/establiments-viena-supero-90-millones-ventas-2024-120245027\" target=\"_blank\">La cadena de restauración Viena superó los 90 millones de euros en ventas en 2024</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Росія втрачає вплив на свого головного сателіта - ЦПД",
+    "link": "https://ua.korrespondent.net/world/4890401-rosiia-vtrachaie-vplyv-na-svoho-holovnoho-satelita-tspd",
+    "pubDate": "2026-06-30 12:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475357.jpg\">Після Східної Європи, Південного Кавказу та Середньої Азії Росія втрачає вплив навіть на Білорусь.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP volverá a citar a Zapatero en el Senado aunque aún no pone fecha",
+    "link": "https://www.elperiodico.com/es/politica/20260630/pp-volvera-citar-zapatero-senado-131969319",
+    "pubDate": "2026-06-30 12:49:54",
+    "category": "",
+    "description": "<h2>Los populares denuncian que el expresidente les \"mintió\" y que ahora debe dar explicaciones</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві затримали \"ексміністра\" енергетики Криму",
+    "link": "https://ua.korrespondent.net/ukraine/4890405-u-kyievi-zatrymaly-eksministra-enerhetyky-krymu",
+    "pubDate": "2026-06-30 12:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475364.jpg\">У столицю України зловмисник приїхав для вирішення особистих справ. Йому повідомили про підозру за статтею про державну зраду.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cancelación o exilio: Les Arts y Bigsound enmarcan el dilema festivalero de València",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260630/cancelacion-o-exilio-les-arts-131967264",
+    "pubDate": "2026-06-30 12:46:40",
+    "category": "",
+    "description": "<h2>La sentencia por los festivales en la Ciutat de les Arts ha abierto un cambio de ciclo en el que la música en directo al aire libre ya no depende solo del cartel, sino de la acústica, la movilidad y la tolerancia vecinal</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Marvel Super Heroes convierte Magic The Gathering en un duelo de héroes, villanos y mazos temáticos",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260630/marvel-super-heroes-convierte-magic-131968874",
+    "pubDate": "2026-06-30 12:46:37",
+    "category": "",
+    "description": "<h2>El crossover apuesta por el choque entre personajes con mecánicas como Power-up, Teamwork, Worthy y Plan, que trasladan el cómic a la mesa</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У поліції пояснили складність встановлення особи загиблих бійців",
+    "link": "https://ua.korrespondent.net/ukraine/4890407-u-politsii-poiasnyly-skladnist-vstanovlennia-osoby-zahyblykh-biitsiv",
+    "pubDate": "2026-06-30 12:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475367.jpg\">В Україні продовжується ідентифікація тіл загиблих військових, у тому числі тих, хто зник ще з 2014 року. Частину тіл вдається впізнати лише через роки після репатріації.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Київ і область никрило димом від пожеж",
+    "link": "https://ua.korrespondent.net/city/kiev/4890404-kyiv-i-oblast-nykrylo-dymom-vid-pozhezh",
+    "pubDate": "2026-06-30 12:43:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475363.jpg\">Шлейфи диму поширювалися на південь від осередків пожеж, що призвело до погіршення якості повітря на Київщині.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El curioso dato que lideran Kevin De Bruyne y Mbappé",
+    "link": "https://www.elperiodico.com/es/deportes/20260630/kevin-de-bruyne-mbappe-remates-mundial-lideres-131964360",
+    "pubDate": "2026-06-30 12:41:19",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260630/bono-lleva-marruecos-octavos-tanda-131956022\" target=\"_blank\" rel=\"nofollow\">Bono lleva a Marruecos a octavos en una tanda de infarto y deja fuera a Países Bajos</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Вільнюсі з музею викрали роботу українського фотографа",
+    "link": "https://ua.korrespondent.net/world/4890402-u-vilnuisi-z-muzeui-vykraly-robotu-ukrainskoho-fotohrafa",
+    "pubDate": "2026-06-30 12:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475356.jpg\">Співробітники помітили зникнення фотографії незабаром після інциденту, однак підозрюваний на той час уже покинув будівлю музею.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Robbie Williams sorprende cantando con un músico callejero en Sevilla",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/robbie-williams-sorprende-cantando-calle-sevilla/131968570.shtml",
+    "pubDate": "2026-06-30 12:38:27",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Shakira (49 años), exmujer de Gerard Piqué: \"No habría conocido al padre de mis hijos si no hubiera sido por 'Waka Waka'\"",
+    "link": "https://www.elperiodico.com/es/gente/20260630/mundial-shakira-gerard-pique-waka-waka-dai-dai-dv-131960583",
+    "pubDate": "2026-06-30 12:37:39",
+    "category": "",
+    "description": "<h2>La cantante explica la relevancia que tienen los temas que interpreta para los grandes eventos deportivos</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/futbol/20260612/mundial-2026-memes-twitter-shakira-mana-labubus-dv-131318629\">Los mejores memes y comentarios de las redes sociales sobre la inauguración del Mundial</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El jefe de los Mossos de tráfico en Girona afirma que los navegadores hacen que la vigilancia en carreteras pierda efectividad",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/jefe-mossos-trafico-girona-afirma/131967764.shtml",
+    "pubDate": "2026-06-30 12:37:03",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muere el presentador de Aragón TV Manuel Gómez Fernández a los 55 años",
+    "link": "https://www.elperiodico.com/es/tele/20260630/muere-el-presentador-de-aragon-tv-manuel-gomez-fernandez-a-los-55-anos-131968111",
+    "pubDate": "2026-06-30 12:34:14",
+    "category": "",
+    "description": "<h2>El periodista alicantino conducía el programa 'Buenos días Aragón' desde 2024</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Último día para presentar la declaración de la Renta: sanción de 200 euros y recargos de hasta el 15% si no se entrega antes de medianoche",
+    "link": "https://www.elperiodico.com/es/economia/declaracion-renta/20260630/ultimo-dia-presentar-declaracion-renta-multas-200-euros-recargos-dv-131966451",
+    "pubDate": "2026-06-30 12:31:42",
+    "category": "",
+    "description": "<h2>La Agencia Tributaria cierra la campaña del IRPF con un castigo económico desconocido para quienes esperan una devolución</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260630/hacienda-avisa-contribuyentes-revisar-30-junio-primer-pago-renta-dv-131961887\" target=\"_blank\">Hacienda avisa: los contribuyentes deberán revisar sus cuentas el 30 de junio para el primer pago de la Renta</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlos Burguera, graduado en Medicina con 21 años: \"Muchas personas con altas capacidades nunca llegan a brillar porque su potencial pasa desapercibido\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260630/coeficiente-intelectual-alto-seis-habitos-signos-dv-131547106",
+    "pubDate": "2026-06-30 12:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Algunos comportamientos pueden indicar que alguien tiene altas capacidades</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260624/carlos-burguera-graduado-medicina-21-anos-altas-capacidades-131623744\">Carlos Burguera, graduado en Medicina con 21 años: \"Muchas personas con altas capacidades nunca llegan a brillar porque su potencial pasa desapercibido y no se incentiva\"</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ignacio Solsona, abogado laboralista, avisa sobre las pensiones: \"No todo en la pensión depende de la edad de jubilación\"",
+    "link": "https://www.elperiodico.com/es/economia/20260630/ignacio-solsona-abogado-laboralista-explica-diferencia-cotizar-15-37-anos-dv-131420261",
+    "pubDate": "2026-06-30 12:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto ha querido aclarar que no todo en la pensión depende de la edad de jubilación</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ettore Messina deja el Milán",
+    "link": "https://as.com/baloncesto/euroliga/ettore-messina-deja-el-milan-f202606-n/",
+    "pubDate": "2026-06-30 12:29:23",
+    "category": "Baloncesto",
+    "description": "La mítica figura pone fin a su etapa en el club italiano definitivamente. Hace unos meses dejó los banquillos y ahora se desvincula por completo.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Більшість росіян визнали погіршення економіки - опитування",
+    "link": "https://ua.korrespondent.net/world/russia/4890399-bilshist-rosiian-vyznaly-pohirshennia-ekonomiky-opytuvannia",
+    "pubDate": "2026-06-30 12:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475355.jpg\">Близько 60% опитаних росіян заявили, що економічна ситуація в їхніх регіонах погіршується - це найвищий показник із 2006 року.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un tribunal condena a Google a indemnizar a varios medios franceses con más de 125 millones de euros",
+    "link": "https://www.elperiodico.com/es/internacional/20260630/tribunal-condena-google-indemnizar-medios-131965253",
+    "pubDate": "2026-06-30 12:23:48",
+    "category": "",
+    "description": "<h2>La justicia considera que el gigante tecnológico atentó contra las reglas de la competencia en la publicidad en línea</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В одній з областей України посилили відключення світла",
+    "link": "https://ua.korrespondent.net/ukraine/4890387-v-odnii-z-oblastei-ukrainy-posylyly-vidkluichennia-svitla",
+    "pubDate": "2026-06-30 12:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475344.jpg\">На території  Сумської області  введені графіки  аварійних відключень для 1-10 черг споживачів.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Google Maps y Waze obligan a los Mossos a cambiar sus controles en carretera: \"En cuanto llevas 10 minutos, todo el mundo se avisa\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260630/google-maps-waze-mossos-efectividad-controles-cambian-estrategia-carreteras-cataluna-trafico-131965007",
+    "pubDate": "2026-06-30 12:18:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía apuesta por dispositivos \"dinámicos\" para hacer frente al hecho de que los navegadores avisan en tiempo real a los conductores dónde están las patrullas de policía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260625/catalunya-estrena-sistema-pionero-control-ap-7-camiones-131821229\" target=\"_blank\">Catalunya estrena en la AP-7 un sistema para controlar irregularidades de camiones y autocares sin necesidad de pararlos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Salma Paralluelo termina contrato y no seguirá en el Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260630/salma-paralluelo-seguira-barca-131966654",
+    "pubDate": "2026-06-30 12:18:05",
+    "category": "",
+    "description": "<h2>Tal y como adelantó EL PERIÓDICO hace unas semanas, la zaragozana no acepta la oferta de renovación y deja de ser azulgrana después de 4 temporadas</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Suben a 19 los españoles fallecidos en los terremotos de Venezuela; hay 131 desaparecidos",
+    "link": "https://www.elperiodico.com/es/internacional/20260630/espanoles-desaparecidos-terremotos-venezuela-133-personas-131873927",
+    "pubDate": "2026-06-30 12:17:00",
+    "category": "",
+    "description": "<h2>El ministro de Asuntos Exteriores, José Manuel Albares, mantienen en 12 la cifra de nacionales localizados bajo los escombros</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нова Зеландія збільшила обсяг допомоги Україні",
+    "link": "https://ua.korrespondent.net/world/4890392-nova-zelandiia-zbilshyla-obsiah-dopomohy-ukraini",
+    "pubDate": "2026-06-30 12:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475341.jpg\">На тлі триваючих жорстоких атак з боку Росії Нова Зеландія надає Україні додаткову гуманітарну допомогу у 5 мільйонів доларів.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "УЗ повідомила про масову затримку поїздів з Харкова",
+    "link": "https://ua.korrespondent.net/ukraine/4890393-uz-povidomyla-pro-masovu-zatrymku-poizdiv-z-kharkova",
+    "pubDate": "2026-06-30 12:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475347.jpg\">Причиною затримок більшості рейсів став вплив бойових дій. Винятком є поїзд №93/94 Харків - Хелм, який запізнюється через затримки під час проходження кордону.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Інтер втратив одразу трьох захисників",
+    "link": "https://ua.korrespondent.net/sport/football/4890390-inter-vtratyv-odrazu-trokh-zakhysnykiv",
+    "pubDate": "2026-06-30 12:14:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475343.jpg\">Усі три виконавці не стали продовжувати свої угоди з клубом та отримали статус вільних агентів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Євросоюз надав Україні 3,9 млрд євро на дрони",
+    "link": "https://ua.korrespondent.net/world/4890388-yevrosouiz-nadav-ukraini-39-mlrd-yevro-na-drony",
+    "pubDate": "2026-06-30 12:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475346.jpg\">Передові технології зміцнять оборону України. І далі буде ще більше підтримки, пообіцяла Урсула фон дер Ляєн.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Quién entra y quién sale de la lista de morosos de Hacienda 2025: Isabel Pantoja vuelve y el futbolista Arda Turan se estrena",
+    "link": "https://www.elperiodico.com/es/economia/20260630/listado-grandes-morosos-hacienda-deudores-2025-131966905",
+    "pubDate": "2026-06-30 12:10:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Los grandes morosos con Hacienda se reducen un 4,4% en 2025, hasta los 5.853 contribuyentes</h2><h2 class=\"item\">La Agencia Tributaria ha precisado que, si se eliminan las duplicidades, la deuda se sitúa en 15.364 millones, un 12,2% más</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Діяльність Навроцького позитивно оцінюють понад половина поляків",
+    "link": "https://ua.korrespondent.net/world/4890385-diialnist-navrotskoho-pozytyvno-otsinuiuit-ponad-polovyna-poliakiv",
+    "pubDate": "2026-06-30 12:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475342.jpg\">Оцінка діяльності Навроцького покращилася порівняно з показниками попереднього опитування від IBRiS близько місяця тому.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "УЧХ попередив про шахрайську схему з \"виплатами\"",
+    "link": "https://ua.korrespondent.net/ukraine/4890383-uchkh-poperedyv-pro-shakhraisku-skhemu-z-vyplatamy",
+    "pubDate": "2026-06-30 11:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475340.jpg\">У Telegram-каналах поширюють неправдиві повідомлення про нібито одноразову виплату у 9 600 грн від органзіації.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Найсильніша спека за 63 роки: у Львові та Вінниці температурні рекорди",
+    "link": "https://ua.korrespondent.net/city/lvov/4890377-naisylnisha-speka-za-63-roky-u-lvovi-ta-vinnytsi-temperaturni-rekordy",
+    "pubDate": "2026-06-30 11:58:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475333.jpg\">Рекорд  максимальної  температури  повітря  у  Львові  становив  +37,4°С, у Вінниці +36,5° С.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У WhatsApp з'являться нікнейми: коли запрацює нова функція",
+    "link": "https://ua.korrespondent.net/business/companies/4890381-u-WhatsApp-ziavliatsia-nikneimy-koly-zapratsuiie-nova-funktsiia",
+    "pubDate": "2026-06-30 11:53:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475330.jpg\">WhatsApp починає впроваджувати нову функцію бронювання нікнеймів для користувачів. Вона має зробити спілкування більш приватним і допоможе не розкривати номер телефону незнайомим людям.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Begoña Gómez pide permiso a Peinado para acompañar a Sánchez a la cumbre de la OTAN y acudir a la graduación de su hija",
+    "link": "https://www.elperiodico.com/es/politica/20260630/begona-gomez-pide-permisio-peinado-cumbre-otan-graduacion-hija-131966023",
+    "pubDate": "2026-06-30 11:52:30",
+    "category": "",
+    "description": "<h2 class=\"item\">El juez le obligó a entregar el pasaporte la pasada semana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260630/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\">Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rescatista venezolano: \"Cada minuto que yo descanso es una persona que se queda sin tiempo\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescatista-terremotos-venezuela/131965774.shtml",
+    "pubDate": "2026-06-30 11:47:57",
+    "category": "",
+    "description": "",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Примусова мобілізація на Донеччині: підозрюють чотирьох \"депутатів ДНР\"",
+    "link": "https://ua.korrespondent.net/ukraine/4890374-prymusova-mobilizatsiia-na-donechchyni-pidozruiuit-chotyrokh-deputativ-dnr",
+    "pubDate": "2026-06-30 11:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475332.jpg\">Підозрюваним інкримінують порушення законів та звичаїв війни, двоє з них уже мають заочні вироки.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У РФ запропонували продавати бензин за номерами машин",
+    "link": "https://ua.korrespondent.net/world/russia/4890376-u-rf-zaproponuvaly-prodavaty-benzyn-za-nomeramy-mashyn",
+    "pubDate": "2026-06-30 11:47:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475331.jpg\">У суботу заправляються машини орловчан, номери яких починаються з 0 до 1, у неділю - з 2 до 3 тощо. Відпускатиметься до 50 літрів.",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El riesgo de colapso en una torre de la muralla de Tossa de Mar obliga a cerrar terrazas de su entorno",
+    "link": "https://www.elperiodico.com/es/sociedad/20260630/posible-riesgo-colapso-torre-muralla-tossa-de-mar-131964791",
+    "pubDate": "2026-06-30 11:46:08",
+    "category": "",
+    "description": "<h2 class=\"item\">El alcalde de Tossa de Mar confirma que el deterioro de la torre de Ses Hores es más grave de lo que se esperaba, se mantiene un perímetro de seguridad y se estudia cómo asegurarla</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гривня повернулась до зміцнення в обмінниках",
+    "link": "https://ua.korrespondent.net/business/financial/4890372-hryvnia-povernulas-do-zmitsnennia-v-obminnykakh",
+    "pubDate": "2026-06-30 11:44:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475328.jpg\">Середній курс продажу долара впав до 44,85 гривні, а курс продажу євро знизився до рівня 51,52 гривень.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Британія реформує армію за прикладом України",
+    "link": "https://ua.korrespondent.net/world/4890363-brytaniia-reformuie-armiui-za-prykladom-ukrainy",
+    "pubDate": "2026-06-30 11:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475312.jpg\">Лондон відмовляється від частини дорогих військово-морських проєктів і робить ставку на безпілотні платформи та штучний інтелект.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під Москвою повторно уражено стратегічний об'єкт",
+    "link": "https://ua.korrespondent.net/ukraine/4890364-pid-moskvoui-povtorno-urazheno-stratehichnyi-obiekt",
+    "pubDate": "2026-06-30 11:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475321.jpg\">Губернатор Московської області Андрій Воробйов підтвердив атаку на місто Дубна. За його словами, пошкоджено адміністративну будівлю.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибух у будинку Єрмолаєва в Монако: слідство відкинуло версію теракту",
+    "link": "https://ua.korrespondent.net/world/4890362-vybukh-u-budynku-yermolaieva-v-monako-slidstvo-vidkynulo-versiui-teraktu",
+    "pubDate": "2026-06-30 11:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475313.jpg\">Слідство у справі вибуху в Монако на даному етапі виключило версію про терористичний напад.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La escuela decana de fotografía de Barcelona encara una etapa ilusionante tras sortear su desaparición",
+    "link": "https://www.elperiodico.com/es/barcelona/eixample/20260630/escuela-decana-fotografia-barcelona-encara-etapa-ilusionante-sortear-desaparicion-131815408",
+    "pubDate": "2026-06-30 11:17:42",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260608/solarigrafia-foto-hecha-sagrada-familia-131148791\" target=\"_blank\">Una solarigrafía, la foto nunca antes hecha de la Sagrada Família</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20200916/barceloneando-con-libro-barcelona-y-sus-fotografas-8113831\" target=\"_blank\">Fotógrafas de Barcelona, mujeres con un objetivo</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Франція арештувала тіньовий танкер РФ",
+    "link": "https://ua.korrespondent.net/world/4890358-frantsiia-areshtuvala-tinovyi-tanker-rf",
+    "pubDate": "2026-06-30 11:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475310.jpg\">Французькі військові перехопили щонайменше п'ять танкерів, які ⁠перевозять російську нафту в обхід санкцій.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lukic y Echezuria, el talento forjado bajo el apellido Laso, brilla en el Mundial Sub-17",
+    "link": "https://as.com/baloncesto/mas_baloncesto/lukic-y-echezuria-el-talento-forjado-bajo-el-apellido-laso-brilla-en-el-mundial-sub-17-f202606-n/",
+    "pubDate": "2026-06-30 11:12:09",
+    "category": "Baloncesto",
+    "description": "El venezolano, actual jugador de la Laso Academy, destaca como el único jugador de 2011 de todo el campeonato intercontinental.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Impactantes imágenes aéreas de edificios destrozados tras los terremotos en Venezuela",
+    "link": "https://www.elperiodico.com/es/videos/internacional/impactantes-imagenes-aereas-edificios-destrozados-terremotos-venezuela/131963880.shtml",
+    "pubDate": "2026-06-30 11:11:13",
+    "category": "",
+    "description": "Un complejo residencial inaugurado bajo el mandato de Hugo Chávez ha quedado totalmente destruido",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Жителя Запоріжжя судитимуть за зґвалтування доньки співмешканки",
+    "link": "https://ua.korrespondent.net/ukraine/4890360-zhytelia-zaporizhzhia-sudytymut-za-zgvaltuvannia-donky-spivmeshkanky",
+    "pubDate": "2026-06-30 11:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475311.jpg\">Про злочин стало відомо після того, як дитину вилучили із сімʼї через неналежне виконання матірʼю своїх обовʼязків. Уже в безпечному середовищі вона розповіла про пережите.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alonso: \"No hay nada como ganar, ganar te cambia la vida\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260630/alonso-hay-ganar-ganar-cambia-131962777",
+    "pubDate": "2026-06-30 11:06:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Es uno de los llamados a ocupar la cima, la cúspide, del motociclismo mundial. Este colombiano-español, nacido en Madrid, pero orgulloso de correr bajo los colores de la bandera colombiana, por mamá Sandra Marcela, recuperó la senda de la victoria en Assen, la 'catedral' y ya es otro. Ya es el campeón de siempre.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Drama en Valencia por la salida de Pedro Martínez",
+    "link": "https://as.com/baloncesto/acb/drama-en-valencia-por-la-salida-de-pedro-martinez-f202606-n/",
+    "pubDate": "2026-06-30 11:04:55",
+    "category": "Baloncesto",
+    "description": "El técnico se marcha porque nunca ha entrenado a un grande, pero el Madrid, que todavía no ha pagado la cláusula, no se comunicó con el club taronja. El Valencia, indignado con la situación.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Сакській ТЕЦ в Криму: стало відомо про наслідки",
+    "link": "https://ua.korrespondent.net/ukraine/4890354-udar-po-sakskii-tets-v-krymu-stalo-vidomo-pro-naslidky",
+    "pubDate": "2026-06-30 11:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475309.jpg\">Зараз теплоелектроцентраль не працює. У місті Саки та Сакському районі діють графіки відключення електроенергії.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La OMS informa de la muerte de 117 personas por un brote de cólera en Sudán",
+    "link": "https://www.elperiodico.com/es/internacional/20260630/oms-informa-muerte-117-personas-colera-sudan-131961863",
+    "pubDate": "2026-06-30 10:58:28",
+    "category": "",
+    "description": "<h2>La Organización Mundial de la Salud alerta de más de 800 casos sospechosos y siete enfermos confirmados en el país africano</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fiscal de Kitchen concluye en su alegato final la \"finalidad bastarda\" del operativo contra Bárcenas",
+    "link": "https://www.elperiodico.com/es/politica/20260630/fiscal-kitchen-concluye-alegato-final-131963262",
+    "pubDate": "2026-06-30 10:57:48",
+    "category": "",
+    "description": "<h2 class=\"item\">La Fiscalía elevó a definitiva su petición de 15 años de cárcel para el exmistro Fernández Díaz y su secretario de Seguridad</h2><h2 class=\"item\">Las anotaciones en la agenda de Villarejo y la falta de interlocución con el juez Ruz descartan que se tratara de un operativo legal de inteligencia </h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Profesores de institutos de Vigo piden la presencia de un directivo en las tutorías por las tensiones con los padres: \"Es para calmar los ánimos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260630/profesores-institutos-vigo-presencia-directivo-tutorias-miedo-familias-131962279",
+    "pubDate": "2026-06-30 10:53:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Denuncian insultos «vejatorios» sobre todo hacia profesoras jóvenes y están alerta ante posibles grabaciones de las conversaciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260323/profesores-sufren-agresiones-128300337\" target=\"_blank\">Más de la mitad de los profesores sufren agresiones y faltas de respeto en clase</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rosalía y Karol G acaban con los rumores de rivalidad con una confesión inesperada en pleno 'Lux Tour'",
+    "link": "https://www.elperiodico.com/es/gente/20260630/rosalia-karol-g-rumores-rivalidad-confesionario-lux-tour-131962429",
+    "pubDate": "2026-06-30 10:51:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La catalana invitó a Karol G al confesionario de 'La Perla' durante su concierto en Los Ángeles y la colombiana terminó contando una historia sentimental que encendió al público</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260629/rosalia-la-tour-life-substack-sexto-post-gira-lux-131918216\">'La Tour Life' de Rosalía: \"Construyes tu casa y la destruyes cada día. Me da miedo no tener raíces en ningún lugar\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Tour de Francia en Barcelona: estas son las principales afectaciones a la movilidad y el transporte público",
+    "link": "https://www.elperiodico.com/es/barcelona/20260630/tour-francia-barcelona-principales-afectaciones-movilidad-transporte-publico-131941854",
+    "pubDate": "2026-06-30 10:48:55",
+    "category": "",
+    "description": "<h2>Las calles por dónde pasa la carrera quedarán cerradas horas antes del paso del pelotón, multitud de líneas de bus quedarán afectadas o suspendidas y el metro absorberá el incremento de usuarios</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260615/paso-tour-francia-barcelona-atraera-850000-aficionados-implicara-importantes-cortes-trafico-131415827\">El Tour de Francia atraerá a Barcelona a unos 850.000 aficionados e implicará importantes cortes de tráfico</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Marruecos sale a la calle para celebrar la clasificación frente a los Países Bajos en el Mundial",
+    "link": "https://www.elperiodico.com/es/videos/deportes/marruecos-sale-calle-celebrar-clasificacion/131962601.shtml",
+    "pubDate": "2026-06-30 10:47:18",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Перший теракт в Монако: до чого тут українці",
+    "link": "https://ua.korrespondent.net/world/4890344-pershyi-terakt-v-monako-do-choho-tut-ukraintsi",
+    "pubDate": "2026-06-30 10:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475298.jpg\">На Лазуровому узбережжі стався перший в історії теракт. Внаслідок вибуху троє людей отримали серйозні поранення.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Audi SQ7 TFSI: El coloso de los ocho cilindros",
+    "link": "https://www.elperiodico.com/es/motor/20260630/audi-sq7-tfsi-coloso-ocho-cilindros-131942224",
+    "pubDate": "2026-06-30 10:45:16",
+    "category": "",
+    "description": "<h2>Probamos el imponente SUV de los cuatro aros con motor V8 biturbo y 507 CV de potencia\t \t</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Китай в ООН звернувся до України і Росії",
+    "link": "https://ua.korrespondent.net/world/4890349-kytai-v-oon-zvernuvsia-do-ukrainy-i-rosii",
+    "pubDate": "2026-06-30 10:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475288.jpg\">Необхідно вийти на досягнення остаточного, реального та обов'язкового припинення вогню, зазначив представник КНР.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Зімбабве затримали підозрюваного у вербуванні найманців до армії РФ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4890347-u-zimbabve-zatrymaly-pidozruivanoho-u-verbuvanni-naimantsiv-do-armii-rf-zmi",
+    "pubDate": "2026-06-30 10:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475297.jpg\">Підозрюваного затримали, коли він супроводжував одного з новобранців до автовокзалу в Хараре, звідки той мав вирушити через Південну Африку до Росії.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
     "title": "На виборах у Перу перемогла дочка експрезидента Фухіморі",
     "link": "https://ua.korrespondent.net/world/4890345-na-vyborakh-u-peru-peremohla-dochka-eksprezydenta-fukhimori",
     "pubDate": "2026-06-30 10:40:00",
@@ -24,6 +573,15 @@
     "category": "",
     "description": "<h2>El descubrimiento permite fabricar una alternativa sostenible y más económica</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260526/descubiertos-obstaculos-moleculares-dificultan-reciclaje-botellas-plastico-130676816\">Descubiertos los obstáculos moleculares que dificultan el reciclaje total de las botellas de plástico</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260224/proyecto-pionero-convierte-fertilizante-organico-residuo-cerveza-127212254\">Un proyecto entre Damm y Ametller Origen convierte en abono orgánico un residuo de la cerveza</a></h2>",
     "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adiós a una leyenda del Efes: Shane Larkin ficha por el Fenerbahçe",
+    "link": "https://as.com/baloncesto/euroliga/adios-a-una-leyenda-del-efes-shane-larkin-ficha-por-el-fenerbahce-f202606-n/",
+    "pubDate": "2026-06-30 10:37:18",
+    "category": "Baloncesto",
+    "description": "El equipo de Pablo Laso pierde a una de sus piezas más valiosas. El base se marcha con 10 títulos en ocho temporadas, incluidas dos Euroligas.",
+    "topic": "0",
     "topic_match_probability": 0
   },
   {
@@ -60,6 +618,15 @@
     "category": "",
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250526/fiscalia-argimon-verges-guardia-civil-policia-nacional-vacunas-covid-117840024\" target=\"_blank\">El fiscal reclama 12 años de inhabilitación para Vergés y Argimon por paralizar la vacunación del covid a policías</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20240112/alba-verges-declaracion-juez-vacunacion-policias-96808773\" target=\"_blank\">La exconsellera Vergés defiende ante el juez que la vacunación de policías se hizo con criterios sanitarios y de edad</a></h2>",
     "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tribunal deja fuera el delito que permitía pedir prisión a la excúpula de Salut por la vacunación policial",
+    "link": "https://www.elperiodico.com/es/politica/20260630/juicio-vacunacion-policias-guardias-civiles-cataluna-alba-verges-argimon-131961858",
+    "pubDate": "2026-06-30 10:33:26",
+    "category": "",
+    "description": "<h2 class=\"item\">La Audiencia de Barcelona excluye la acusación contra los derechos de los trabajadores, que podía comportar cárcel para Vergés, Argimon y el resto de excargos, y mantiene la causa por prevaricación administrativa, castigada con inhabilitación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250526/fiscalia-argimon-verges-guardia-civil-policia-nacional-vacunas-covid-117840024\" target=\"_blank\">El fiscal reclama 12 años de inhabilitación para Vergés y Argimon por paralizar la vacunación del covid a policías</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20240112/alba-verges-declaracion-juez-vacunacion-policias-96808773\" target=\"_blank\">La exconsellera Vergés defiende ante el juez que la vacunación de policías se hizo con criterios sanitarios y de edad</a></h2>",
+    "topic": "0",
     "topic_match_probability": 0
   },
   {
