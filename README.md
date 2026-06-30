@@ -1,8 +1,11 @@
-# News for 2026-06-30 03:42
+# News for 2026-06-30 05:07
 
 Previous day: [2026-06-29](./data/2026-06-29.md)
 
 ## ua.korrespondent.net
+04:59 [ООН фіксує зростання жертв серед цивільних від ударів РФ](https://ua.korrespondent.net/world/worldabus/4890277-oon-fiksuie-zrostannia-zhertv-sered-tsyvilnykh-vid-udariv-rf)<br>
+04:52 [У Польщі пригрозили блокувати шлях України до ЄС](https://ua.korrespondent.net/world/worldabus/4890275-u-polschi-pryhrozyly-blokuvaty-shliakh-ukrainy-do-yes)<br>
+04:25 [У Львові провели операцію дитині в утробі матері](https://ua.korrespondent.net/ukraine/4890273-u-lvovi-provely-operatsiui-dytyni-v-utrobi-materi)<br>
 03:12 [В Польщі пояснили, чому Києву не дадуть винищувачі](https://ua.korrespondent.net/world/worldabus/4890269-v-polschi-poiasnyly-chomu-kyievu-ne-dadut-vynyschuvachi)<br>
 02:46 [В РФ звинуватили НАТО й Україну в планах атаки на російські авіабази](https://ua.korrespondent.net/world/russia/4890267-v-rf-zvynuvatyly-nato-y-ukrainu-v-planakh-ataky-na-rosiiski-aviabazy)<br>
 01:57 [Зеленський запропонував Данії укласти Dron Deal](https://ua.korrespondent.net/ukraine/4890264-zelenskyi-zaproponuvav-danii-uklasty-Dron-Deal)<br>
@@ -12,4 +15,7 @@ Previous day: [2026-06-29](./data/2026-06-29.md)
 00:43 [У Монако підірвали українського олігарха з сім'єю](https://ua.korrespondent.net/world/4890258-u-monako-pidirvaly-ukrainskoho-oliharkha-z-simieui)<br>
 
 ## www.elperiodico.com
+05:01 [Dinamita Montilla, retrato de un asesino en serie: "Yo soy una persona completa. El resto de la gente son más torpes que yo"](https://www.elperiodico.com/es/sucesos/20260630/dinamita-montilla-retrato-asesino-serie-131954468)<br>
+04:50 [El idioma de la literatura](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260630/idioma-literatura-131677480)<br>
+04:50 [La rueda del año](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260630/rueda-ano-131711857)<br>
 00:18 [Un Mackie el Navaja 'queer' inaugura el Grec 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260630/mackie-navaja-queer-inaugura-grec-131922533)<br>
