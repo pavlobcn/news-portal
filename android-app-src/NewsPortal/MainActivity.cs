@@ -6,6 +6,8 @@ using Android.Widget;
 using Android.Content;
 using Android.Content.PM;
 using Android.Graphics;
+using Android.Net;
+using Android.Provider;
 
 namespace NewsPortal;
 
@@ -28,7 +30,16 @@ public sealed class MainActivity : Activity
         BuildUi();
         LoadSettings();
         RequestNotificationPermissionIfNeeded();
+        RequestBatteryOptimizationExemptionIfNeeded();
         BackgroundExecutionService.Start(this);
+    }
+
+
+    protected override void OnResume()
+    {
+        base.OnResume();
+        BackgroundExecutionService.Start(this);
+        UpdateBatteryOptimizationStatus();
     }
 
     private void BuildUi()
@@ -66,8 +77,10 @@ public sealed class MainActivity : Activity
         var buttons = new LinearLayout(this) { Orientation = Orientation.Horizontal };
         buttons.SetPadding(0, Dp(12), 0, Dp(12));
         var saveButton = new Button(this) { Text = "Save" };
+        var batteryButton = new Button(this) { Text = "Allow background" };
         _executeButton = new Button(this) { Text = "Execute" };
         buttons.AddView(saveButton, new LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.WrapContent, 1));
+        buttons.AddView(batteryButton, new LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.WrapContent, 1));
         buttons.AddView(_executeButton, new LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.WrapContent, 1));
         layout.AddView(buttons);
 
@@ -75,6 +88,7 @@ public sealed class MainActivity : Activity
         layout.AddView(_statusText);
 
         saveButton.Click += (_, _) => SaveSettings(showMessage: true);
+        batteryButton.Click += (_, _) => OpenBatteryOptimizationSettings();
         _executeButton.Click += async (_, _) => await ExecuteAsync();
         SetContentView(scrollView);
     }
@@ -159,6 +173,64 @@ public sealed class MainActivity : Activity
         if (token is not null)
         {
             inputMethodManager?.HideSoftInputFromWindow(token, HideSoftInputFlags.None);
+        }
+    }
+
+
+    private void RequestBatteryOptimizationExemptionIfNeeded()
+    {
+        if (IsIgnoringBatteryOptimizations())
+        {
+            return;
+        }
+
+        try
+        {
+            var intent = new Intent(Settings.ActionRequestIgnoreBatteryOptimizations);
+            intent.SetData(Uri.Parse($"package:{PackageName}"));
+            StartActivity(intent);
+        }
+        catch
+        {
+            OpenBatteryOptimizationSettings();
+        }
+    }
+
+    private void OpenBatteryOptimizationSettings()
+    {
+        try
+        {
+            StartActivity(new Intent(Settings.ActionIgnoreBatteryOptimizationSettings));
+        }
+        catch
+        {
+            StartActivity(new Intent(Settings.ActionApplicationDetailsSettings, Uri.Parse($"package:{PackageName}")));
+        }
+
+        _statusText.Text = "Allow NewsPortal to ignore battery optimizations so Android is less likely to suspend its foreground service.";
+    }
+
+    private bool IsIgnoringBatteryOptimizations()
+    {
+        if (Build.VERSION.SdkInt < BuildVersionCodes.M)
+        {
+            return true;
+        }
+
+        var powerManager = (PowerManager?)GetSystemService(PowerService);
+        return powerManager?.IsIgnoringBatteryOptimizations(PackageName) == true;
+    }
+
+    private void UpdateBatteryOptimizationStatus()
+    {
+        if (_statusText is null)
+        {
+            return;
+        }
+
+        if (IsIgnoringBatteryOptimizations())
+        {
+            _statusText.Text = "Background execution enabled. Keep the persistent notification visible to reduce Android suspension risk.";
         }
     }
 
