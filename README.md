@@ -1,8 +1,14 @@
-# News for 2026-07-01 17:07
+# News for 2026-07-01 18:21
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+18:10 [Іран попередив про "наслідки" за обхід його маршрутів Ормузу](https://ua.korrespondent.net/world/4890852-iran-poperedyv-pro-naslidky-za-obkhid-yoho-marshrutiv-ormuzu)<br>
+18:04 [Нацбанк зміцнив курс гривні у перший день липня](https://ua.korrespondent.net/business/financial/4890850-natsbank-zmitsnyv-kurs-hryvni-u-pershyi-den-lypnia)<br>
+17:50 [Нова перевірка на кордонах в ЄС: в аеропортах багатогодинні черги](https://ua.korrespondent.net/world/4890846-nova-perevirka-na-kordonakh-v-yes-v-aeroportakh-bahatohodynni-cherhy)<br>
+17:44 [Укренерго скасувало відключення на четвер](https://ua.korrespondent.net/ukraine/4890844-ukrenerho-skasuvalo-vidkluichennia-na-chetver)<br>
+17:33 [ЗСУ спалили 22 фури в окупованому Донецьку](https://ua.korrespondent.net/ukraine/4890842-zsu-spalyly-22-fury-v-okupovanomu-donetsku)<br>
+17:21 [Росіяни обстріляли Суми, четверо поранених](https://ua.korrespondent.net/ukraine/4890836-rosiiany-obstrilialy-sumy-chetvero-poranenykh)<br>
 16:59 [Атака російських дронів: у Херсоні кількість поранених зросла до 18 осіб](https://ua.korrespondent.net/ukraine/4890833-ataka-rosiiskykh-droniv-u-khersoni-kilkist-poranenykh-zrosla-do-18-osib)<br>
 16:57 [В НБА продовжить участь Михайлюк із гарантованим контрактом від Юта Джаз](https://ua.korrespondent.net/sport/basketball/4890831-v-nba-prodovzhyt-uchast-mykhailuik-iz-harantovanym-kontraktom-vid-yuta-dzhaz)<br>
 16:55 [Феодосія та Армянськ залишилися без світла внаслідок ударів ЗСУ](https://ua.korrespondent.net/ukraine/4890830-feodosiia-ta-armiansk-zalyshylysia-bez-svitla-vnaslidok-udariv-zsu)<br>
@@ -93,11 +99,34 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 00:21 [Сирський назвав критерій перелому на фронті](https://ua.korrespondent.net/ukraine/4890594-syrskyi-nazvav-kryterii-perelomu-na-fronti)<br>
 
 ## as.com
+18:01 [El Ilerna Lleida se deshace de Cameron Krutwig](https://as.com/baloncesto/acb/el-ilerna-lleida-se-deshace-de-cameron-krutwig-f202607-n/)<br>
+17:42 [El Real Madrid apuesta por el gran acuerdo](https://as.com/baloncesto/euroliga/el-real-madrid-apuesta-por-el-gran-acuerdo-f202607-n/)<br>
+17:42 [Oriola: “No valen las excusas”](https://as.com/baloncesto/mas_baloncesto/oriola-no-valen-las-excusas-f202607-n/)<br>
+17:41 [España busca el pleno](https://as.com/opinion/espana-busca-el-pleno-f202607-n/)<br>
+15:44 [Galbiati representó al Baskonia en la reunión de entrenadores europeos](https://as.com/baloncesto/galbiati-represento-al-baskonia-en-la-reunion-de-entrenadores-f202607-n/)<br>
 15:07 [Paulí y Bassas, descartes ante Dinamarca](https://as.com/baloncesto/mas_baloncesto/pauli-y-bassas-descartes-ante-dinamarca-f202607-n/)<br>
 13:42 [Kam Taylor renueva hasta 2028](https://as.com/futbol/primera/kam-taylor-renueva-hasta-2028-f202607-n/)<br>
 11:30 [Pradilla y su futuro: “Tengo que pensar en mí”](https://as.com/baloncesto/acb/pradilla-y-su-futuro-tengo-que-pensar-en-mi-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:18 [Catalunya registra la cifra más alta de muertes por calor en un mes de junio con 218 decesos prematuros atribuíbles a las altas temperaturas](https://www.elperiodico.com/es/videos/sociedad/catalunya-registra-cifra-alta-muertes/132022608.shtml)<br>
+18:08 [Blake Lively pide ocho millones de dólares a Justin Baldoni tras su disputa legal](https://www.elperiodico.com/es/gente/20260701/blake-lively-pide-ocho-millones-132022193)<br>
+18:05 [Hallan muerta a una mujer en un pozo en Málaga y detienen a tres personas](https://www.elperiodico.com/es/sucesos/20260701/hallan-muerta-mujer-pozo-malaga-132022148)<br>
+18:00 [Catalunya invertirá unos 1.500 millones de euros en la gigafactoría de IA que prevé desplegar en Tarragona](https://www.elperiodico.com/es/tecnologia/20260701/gigafactoria-ia-catalunya-centros-datos-govern-energia-agua-inversion-131998801)<br>
+18:00 [Platform Dalí abre convocatoria de residencias para artistas y científicos en 2027](https://www.elperiodico.com/es/ocio-y-cultura/20260701/platform-dali-abre-convocatoria-residencias-132013837)<br>
+17:54 [Seis condenados por torturar a un discapacitado y tatuarle un pene en la cara en Mallorca](https://www.elperiodico.com/es/sucesos/20260701/seis-condenados-torturar-discapacitado-tatuarle-132021640)<br>
+17:53 [Francia propone que los operadores de IA paguen una 'tasa por derechos de autor' para garantizar "un ingreso mínimo"](https://www.elperiodico.com/es/ocio-y-cultura/20260701/francia-propone-operadores-ia-paguen-132020965)<br>
+17:49 [La directora general de la Agencia Tributaria y otros dos altos cargos dejarán su cargo tras solicitar un relevo](https://www.elperiodico.com/es/economia/20260701/directora-general-agencia-tributaria-altos-132021306)<br>
+17:46 [La conversión de 700 pisos vacíos en viviendas para Castelldefels desemboca en una pugna entre el gobierno de Reyes y la oposición](https://www.elperiodico.com/es/barcelona/20260701/conversion-700-pisos-vacios-viviendas-castelldefels-desemboca-pugna-gobierno-reyes-oposicion-131929150)<br>
+17:45 [Imágenes a pie de calle de la destrucción en La Guaira, Venezuela](https://www.elperiodico.com/es/videos/internacional/imagenes-pie-calle-destruccion-guaira-venezuela-terremotos/132021084.shtml)<br>
+17:41 [El permiso de Begoña Gómez para la graduación de su hija confunde a las acusaciones: informan a favor y luego rectifican alegando un "error"](https://www.elperiodico.com/es/politica/20260701/permiso-graduacion-hija-begona-gomez-cn-o-confunde-acusaciones-132020879)<br>
+17:39 [La reina Camila, criticada por recibir a J.K. Rowling en pleno mes del orgullo LGTBI+](https://www.elperiodico.com/es/gente/20260701/reina-camila-criticada-recibir-j-132020540)<br>
+17:31 [Level elimina las rutas que unen Barcelona con Boston y Los Ángeles a partir de este invierno tras varios ajustes en su red](https://www.elperiodico.com/es/economia/20260701/level-elimina-rutas-unen-barcelona-el-prat-con-boston-los-angeles-132019207)<br>
+17:29 [Un 40% de los pacientes con cáncer de próstata reciben tratamientos que pueden favorecer la osteoporosis](https://www.elperiodico.com/es/sanidad/20260701/pacientes-cancer-prostata-reciben-tratamientos-favorecer-osteoporosis-132017711)<br>
+17:28 [Hacienda aclara cuándo poner a un hijo o pareja de cotitular de una cuenta bancaria se considera donación: "La misma reflexión sirve para el cónyuge"](https://www.elperiodico.com/es/videos/economia/hacienda-aclara-poner-hijo-o/132020158.shtml)<br>
+17:25 [El parque nacional de Aigüestortes lanza un nuevo proyecto para proteger a tres especies emblemáticas en declive](https://www.elperiodico.com/es/sociedad/20260701/parque-nacional-aiguestortes-lanza-nuevo-132009296)<br>
+17:09 [Warsh debuta en Europa sin dar pistas sobre los tipos mientras Lagarde ve menores riesgos de inflación](https://www.elperiodico.com/es/economia/20260701/warsh-debuta-europa-dar-pistas-132019459)<br>
+17:07 [Las polémicas declaraciones de Albert Batlle sobre los refugios climáticos](https://www.elperiodico.com/es/videos/barcelona/polemicas-declaraciones-albert-batlle-refugios-video/132018874.shtml)<br>
 17:02 [Marruecos estudia medidas para erradicar el trabajo infantil: 103.000 menores afectados](https://www.elperiodico.com/es/internacional/20260701/marruecos-estudia-medidas-erradicar-trabajo-infantil-132019092)<br>
 16:56 [Tragedia en Canadá: muere por rabia un niño de 11 años que despertó con un murciélago en la cara](https://www.elperiodico.com/es/sociedad/20260701/muere-nino-rabia-murcielago-canada-dv-132014069)<br>
 16:47 [Detenidos cuatro policías en Venezuela por apropiarse de dinero hallado entre escombros](https://www.elperiodico.com/es/videos/internacional/detenidos-policias-venezuela-apropiarse-dinero-escombros-terremoto/132018528.shtml)<br>
