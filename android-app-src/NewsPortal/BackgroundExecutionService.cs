@@ -91,8 +91,6 @@ public sealed class BackgroundExecutionService : Service
 
     private void UpdateNotification(string content)
     {
-        AppendNotificationLog(content);
-
         var notificationManager = (NotificationManager?)GetSystemService(NotificationService);
         notificationManager?.Notify(NotificationId, BuildNotification(content));
     }

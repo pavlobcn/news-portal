@@ -1,13 +1,11 @@
-using Android.App;
 using Android.OS;
 using Android.Views;
 using Android.Views.InputMethods;
-using Android.Widget;
 using Android.Content;
 using Android.Content.PM;
 using Android.Graphics;
-using Android.Net;
 using Android.Provider;
+using Uri = Android.Net.Uri;
 
 namespace NewsPortal;
 
@@ -62,7 +60,8 @@ public sealed class MainActivity : Activity
 
         var description = new TextView(this)
         {
-            Text = "Save GitHub settings, then trigger the \"Trigger Codex Cloud Task to refresh data\" workflow dispatch.",
+            Text =
+                "Save GitHub settings, then trigger the \"Trigger Codex Cloud Task to refresh data\" workflow dispatch.",
             TextSize = 15,
         };
         description.SetPadding(0, Dp(8), 0, Dp(18));
@@ -70,7 +69,8 @@ public sealed class MainActivity : Activity
 
         _ownerText = AddField(layout, "Repository owner", "Example: octocat", false);
         _repoText = AddField(layout, "Repository name", "news-portal", false);
-        _workflowText = AddField(layout, "Workflow file or ID", GitHubWorkflowDispatchExecutor.DefaultWorkflowId, false);
+        _workflowText = AddField(layout, "Workflow file or ID", GitHubWorkflowDispatchExecutor.DefaultWorkflowId,
+            false);
         _refText = AddField(layout, "Git ref", GitHubWorkflowDispatchExecutor.DefaultRef, false);
         _tokenText = AddField(layout, "GitHub token", "Fine-grained token with Actions workflow permission", true);
 
@@ -120,7 +120,8 @@ public sealed class MainActivity : Activity
 
     private void LoadSettings()
     {
-        var preferences = GetSharedPreferences(GitHubWorkflowDispatchExecutor.PreferencesName, FileCreationMode.Private)!;
+        var preferences =
+            GetSharedPreferences(GitHubWorkflowDispatchExecutor.PreferencesName, FileCreationMode.Private)!;
         _ownerText.Text = preferences.GetString("owner", string.Empty);
         _repoText.Text = preferences.GetString("repo", "news-portal");
         _workflowText.Text = preferences.GetString("workflowId", GitHubWorkflowDispatchExecutor.DefaultWorkflowId);
@@ -131,7 +132,8 @@ public sealed class MainActivity : Activity
 
     private void SaveSettings(bool showMessage)
     {
-        var preferences = GetSharedPreferences(GitHubWorkflowDispatchExecutor.PreferencesName, FileCreationMode.Private)!;
+        var preferences =
+            GetSharedPreferences(GitHubWorkflowDispatchExecutor.PreferencesName, FileCreationMode.Private)!;
         using var editor = preferences.Edit()!;
         editor.PutString("owner", _ownerText.Text?.Trim() ?? string.Empty);
         editor.PutString("repo", _repoText.Text?.Trim() ?? string.Empty);
@@ -207,7 +209,8 @@ public sealed class MainActivity : Activity
             StartActivity(new Intent(Settings.ActionApplicationDetailsSettings, Uri.Parse($"package:{PackageName}")));
         }
 
-        _statusText.Text = "Allow NewsPortal to ignore battery optimizations so Android is less likely to suspend its foreground service.";
+        _statusText.Text =
+            "Allow NewsPortal to ignore battery optimizations so Android is less likely to suspend its foreground service.";
     }
 
     private bool IsIgnoringBatteryOptimizations()
@@ -230,7 +233,8 @@ public sealed class MainActivity : Activity
 
         if (IsIgnoringBatteryOptimizations())
         {
-            _statusText.Text = "Background execution enabled. Keep the persistent notification visible to reduce Android suspension risk.";
+            _statusText.Text =
+                "Background execution enabled. Keep the persistent notification visible to reduce Android suspension risk.";
         }
     }
 
@@ -239,7 +243,8 @@ public sealed class MainActivity : Activity
         if (Build.VERSION.SdkInt >= BuildVersionCodes.Tiramisu &&
             CheckSelfPermission(Android.Manifest.Permission.PostNotifications) != Permission.Granted)
         {
-            RequestPermissions(new[] { Android.Manifest.Permission.PostNotifications }, NotificationPermissionRequestCode);
+            RequestPermissions(new[] { Android.Manifest.Permission.PostNotifications },
+                NotificationPermissionRequestCode);
         }
     }
 

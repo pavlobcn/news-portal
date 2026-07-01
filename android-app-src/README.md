@@ -12,7 +12,7 @@ This folder contains a Visual Studio Android solution for the `NewsPortal` app.
 You can also build from a machine with the .NET 10 Android workload installed:
 
 ```bash
-dotnet build android-app-src/NewsPortal.sln -c Release
+dotnet build android-app-src/NewsPortal.sln --configuration Release -p:AndroidPackageFormat=apk
 ```
 
 The project sets `AndroidPackageFormat` to `apk` so the release output is an APK file that can be copied to an Android device and installed later.
