@@ -12,6 +12,7 @@ public sealed class BackgroundExecutionService : Service
     private static readonly TimeSpan WaitInterval = TimeSpan.FromMinutes(1);
     private static readonly TimeSpan ExecutionInterval = TimeSpan.FromMinutes(60);
     private static DateTime? _lastExecutionTime;
+    private static readonly object NotificationLogLock = new();
     private CancellationTokenSource? _stoppingTokenSource;
     private Task? _executionLoop;
 
@@ -124,15 +125,18 @@ public sealed class BackgroundExecutionService : Service
 
     private void AppendNotificationLog(string content)
     {
-        try
+        lock (NotificationLogLock)
         {
-            var logPath = Path.Combine(GetNotificationLogDirectory(), NotificationLogFileName);
-            var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            File.AppendAllText(logPath, $"{timestamp} {content}\n");
-        }
-        catch
-        {
-            // Logging must not prevent foreground service notifications from being shown.
+            try
+            {
+                var logPath = Path.Combine(GetNotificationLogDirectory(), NotificationLogFileName);
+                var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                File.AppendAllText(logPath, $"{timestamp} {content}\n");
+            }
+            catch
+            {
+                // Logging must not prevent foreground service notifications from being shown.
+            }
         }
     }
 
