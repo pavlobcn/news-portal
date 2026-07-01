@@ -1,8 +1,14 @@
-# News for 2026-07-01 14:05
+# News for 2026-07-01 15:07
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+15:04 [У Фінляндії вперше ув’язнили бізнесмена за обхід санкцій проти РФ](https://ua.korrespondent.net/world/4890795-u-finliandii-vpershe-uviaznyly-biznesmena-za-obkhid-sanktsii-proty-rf)<br>
+14:53 [У Росії виявили 500 кг кокаїну у мороженій рибі](https://ua.korrespondent.net/world/russia/4890789-u-rosii-vyiavyly-500-kh-kokainu-u-morozhenii-rybi)<br>
+14:42 [Федоров заявив про "вікно можливостей" у війні](https://ua.korrespondent.net/ukraine/4890781-fedorov-zaiavyv-pro-vikno-mozhlyvostei-u-viini)<br>
+14:38 [Мільйонні збитки: троє посадовців митниці отримали підозру](https://ua.korrespondent.net/ukraine/4890779-milionni-zbytky-troie-posadovtsiv-mytnytsi-otrymaly-pidozru)<br>
+14:17 [Китай потай тренував російських військових - ЗМІ](https://ua.korrespondent.net/world/4890774-kytai-potai-trenuvav-rosiiskykh-viiskovykh-zmi)<br>
+14:15 [Камалію запідозрили у брехні про розлучення із Захуром](https://ua.korrespondent.net/lifestyle/4890773-kamaliui-zapidozryly-u-brekhni-pro-rozluchennia-iz-zakhurom)<br>
 13:49 [Зеленський прибув з візитом в Ірландію](https://ua.korrespondent.net/ukraine/4890761-zelenskyi-prybuv-z-vizytom-v-irlandiui)<br>
 13:46 [Окупанти спалили майже 2000 гектарів заповідника Асканія-Нова](https://ua.korrespondent.net/ukraine/4890760-okupanty-spalyly-maizhe-2000-hektariv-zapovidnyka-askaniia-nova)<br>
 13:41 [У прифронтових регіонах подвоїлась кількість заброньованих](https://ua.korrespondent.net/ukraine/4890758-u-pryfrontovykh-rehionakh-podvoilas-kilkist-zabronovanykh)<br>
@@ -71,6 +77,22 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 11:30 [Pradilla y su futuro: “Tengo que pensar en mí”](https://as.com/baloncesto/acb/pradilla-y-su-futuro-tengo-que-pensar-en-mi-f202607-n/)<br>
 
 ## www.elperiodico.com
+15:06 [La Aemet advierte de la llegada de "un episodio de temperaturas muy altas" que podría convertirse en una nueva ola de calor a partir del viernes](https://www.elperiodico.com/es/sociedad/20260701/aemet-episodio-temperaturas-ola-de-calor-132014070)<br>
+15:03 [El Supremo abre causa a 'Alvise' Pérez por presunto delito de desórdenes públicos](https://www.elperiodico.com/es/politica/20260701/supremo-abre-causa-alvise-perez-132014408)<br>
+14:58 [Condenado el hijastro de la alcaldesa de Marbella a 9 años de cárcel por tráfico de drogas](https://www.elperiodico.com/es/sucesos/20260701/condenado-hijastro-alcaldesa-marbella-carcela-trafico-drogas-132014272)<br>
+14:57 [Un trabajador en estado crítico y otro herido leve por la explosión de un tanque de gas en Ibiza](https://www.elperiodico.com/es/sucesos/20260701/explosion-tanque-gas-ibiza-heridos-cala-moli-132014193)<br>
+14:47 [Bolaños saca pecho a los 6 meses de su reforma porque hay un 7,3% más de juicios pero el CGPJ le afea que no pague los refuerzos](https://www.elperiodico.com/es/politica/20260701/bolanos-saca-pecho-aumento-juicios-cgpj-reclama-pago-refuerzos-132013791)<br>
+14:46 [El Festival de Mérida arranca este viernes con el ballet 'Spartacus' protagonizado por Miguel Ángel Muñoz](https://www.elperiodico.com/es/ocio-y-cultura/20260701/festival-merida-arranca-viernes-ballet-132013663)<br>
+14:42 [El filántropo estadounidense David Rockefeller Jr., nuevo patrono de honor del Teatro Real](https://www.elperiodico.com/es/gente/20260701/filantropo-estadounidense-david-rockefeller-jr-132013331)<br>
+14:35 [¿Naciste después de 1960? Consulta la edad a la que podrás jubilarte según la tabla oficial de la Seguridad Social](https://www.elperiodico.com/es/economia/20260701/tabla-jubilacion-segun-ano-nacimiento-dv-132012672)<br>
+14:29 [Orson Salazar, muy cómplice con una nueva amiga tras su separación de Paz Vega](https://www.elperiodico.com/es/gente/20260701/orson-salazar-complice-nueva-amiga-132012864)<br>
+14:28 [El Col·legi d'Arquitectes de Catalunya rememora 60 años de exposiciones culturales, rebeldes, preclaras y antifranquistas](https://www.elperiodico.com/es/barcelona/20260701/collegi-arquitectes-catalunya-rememora-60-anos-exposiciones-rebeldes-antifranquistas-131843723)<br>
+14:26 [Una nueva potabilizadora permitirá a Sabadell abastecer con agua propia a casi 7.000 familias](https://www.elperiodico.com/es/barcelona/20260701/nueva-potabilizadora-permitira-sabadell-abastecer-agua-familias-132011960)<br>
+14:25 [Letizia arropa a pie de pista al equipo médico que parte hacia Venezuela: "Profesionalidad, rigor y cariño"](https://www.elperiodico.com/es/politica/20260701/letizia-arropa-pie-pista-equipo-medico-venezuela-terremotos-132012865)<br>
+14:14 [Julia Janeiro revela el regalo de 1.400 euros de sus padres Jesulín y María José Campanario tras comprarse su primera casa](https://www.elperiodico.com/es/gente/20260701/julia-janeiro-revela-regalo-1-132012218)<br>
+14:12 [Roca Rey, de viaje familiar a Perú con Tana Rivera](https://www.elperiodico.com/es/gente/20260701/roca-rey-viaje-familiar-peru-132012061)<br>
+14:06 [Agustín Pérez, el estudiante "número uno" de la FP de Carpintería que desde los 8 años lo tuvo claro: "En el instituto llegaron a reírse de mí"](https://www.elperiodico.com/es/sociedad/20260701/agustin-perez-estudiante-numero-uno-fp-carpinteria-instituto-dv-131814166)<br>
+14:05 [Catalunya registra la cifra más alta de muertes por calor en un mes de junio con 218 decesos prematuros atribuíbles a las altas temperaturas](https://www.elperiodico.com/es/sociedad/20260701/catalunya-cifra-muertes-calor-record-junio-132010276)<br>
 14:02 [Al menos seis muertos en un incendio en un edificio de viviendas en Amberes](https://www.elperiodico.com/es/internacional/20260701/muertos-incendio-edificio-residencial-amberes-belgica-132011660)<br>
 13:59 [El cielo de Venezuela se tiñe de rojo y causa asombro entre los ciudadanos](https://www.elperiodico.com/es/videos/internacional/cielo-venezuela-tine-rojo-causa/132011394.shtml)<br>
 13:56 [El pianista de jazz Iñaki Sandoval, nuevo director del Conservatori Superior del Liceu](https://www.elperiodico.com/es/ocio-y-cultura/20260701/pianista-jazz-inaki-sandoval-nuevo-132010601)<br>

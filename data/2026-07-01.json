@@ -1,5 +1,293 @@
 [
   {
+    "title": "La Aemet advierte de la llegada de \"un episodio de temperaturas muy altas\" que podría convertirse en una nueva ola de calor a partir del viernes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/aemet-episodio-temperaturas-ola-de-calor-132014070",
+    "pubDate": "2026-07-01 15:06:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Los modelos apuntan a que las temperaturas empezarán a subir entre el viernes y el sábado y se intensificarán de cara al fin de semana, cuando se esperan máximas de hasta 44 grados en varios puntos del país</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260629/espana-adentra-semana-calor-prevision-aemet-131920137\">España se adentra en una semana marcada por el calor y cruza los dedos ante un posible aumento de las temperaturas el viernes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laporta toma posesión por cuarta vez en presencia del \"amigo Tebas\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/laporta-toma-posesion-cuarta-vez/132014122.shtml",
+    "pubDate": "2026-07-01 15:05:34",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Фінляндії вперше ув’язнили бізнесмена за обхід санкцій проти РФ",
+    "link": "https://ua.korrespondent.net/world/4890795-u-finliandii-vpershe-uviaznyly-biznesmena-za-obkhid-sanktsii-proty-rf",
+    "pubDate": "2026-07-01 15:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476180.jpg\">У Фінляндії вперше винесли обвинувальний вирок за грубе порушення санкцій ЄС проти Росії. Власника компанії з Лаппеенранти засудили до реального терміну ув’язнення та зобов’язали повернути незаконно отримані кошти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Supremo abre causa a 'Alvise' Pérez por presunto delito de desórdenes públicos",
+    "link": "https://www.elperiodico.com/es/politica/20260701/supremo-abre-causa-alvise-perez-132014408",
+    "pubDate": "2026-07-01 15:03:36",
+    "category": "",
+    "description": "<h2>Se trata de la sexta causa que abre el Alto Tribunal al eurodiputado </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія почала купувати бензин в Індії",
+    "link": "https://ua.korrespondent.net/world/russia/4890792-rosiia-pochala-kupuvaty-benzyn-v-indii",
+    "pubDate": "2026-07-01 15:01:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476172.jpg\">Росія планує щомісяця імпортувати 400 тисяч тонн бензину з різних країн, включаючи сусідню Білорусь, яка вже постачає пальне на російський ринок.",
+    "topic": "автомобілі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Condenado el hijastro de la alcaldesa de Marbella a 9 años de cárcel por tráfico de drogas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260701/condenado-hijastro-alcaldesa-marbella-carcela-trafico-drogas-132014272",
+    "pubDate": "2026-07-01 14:58:42",
+    "category": "",
+    "description": "<h2>La Audiencia Nacional impone penas de entre dos y dieciséis años de prisión a 21 de los 24 acusados, entre los que se encuentra Joakim Broberg, tras haber sido incautados 244 kilos de cannabis</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un trabajador en estado crítico y otro herido leve por la explosión de un tanque de gas en Ibiza",
+    "link": "https://www.elperiodico.com/es/sucesos/20260701/explosion-tanque-gas-ibiza-heridos-cala-moli-132014193",
+    "pubDate": "2026-07-01 14:57:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Un trabajador de 46 años, de nacionalidad española, se encuentra en estado crítico tras sufrir quemaduras extensas en la explosión de un tanque de gas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ворог випалює АЗС: до чого готуватись українцям",
+    "link": "https://ua.korrespondent.net/ukraine/4890766-voroh-vypaluiie-azs-do-choho-hotuvatys-ukraintsiam",
+    "pubDate": "2026-07-01 14:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476170.jpg\">Російська армія посилила удари по автозаправним станціям. За минулу ніч тільки на Дніпропетровщині згоріло п'ять АЗС.",
+    "topic": "автомобілі",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "У Росії виявили 500 кг кокаїну у мороженій рибі",
+    "link": "https://ua.korrespondent.net/world/russia/4890789-u-rosii-vyiavyly-500-kh-kokainu-u-morozhenii-rybi",
+    "pubDate": "2026-07-01 14:53:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476168.jpg\">Наркотики були сховані в морожених тушах тунця, які прибули з Еквадору.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bolaños saca pecho a los 6 meses de su reforma porque hay un 7,3% más de juicios pero el CGPJ le afea que no pague los refuerzos",
+    "link": "https://www.elperiodico.com/es/politica/20260701/bolanos-saca-pecho-aumento-juicios-cgpj-reclama-pago-refuerzos-132013791",
+    "pubDate": "2026-07-01 14:47:09",
+    "category": "",
+    "description": "<h2>El ministro de Justicia reivindica el impacto positivo de la Ley de Eficiencia y su nuevo modelo judicial mientras el órgano de gobienro de los jueces advierte que habrá suspensiones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Festival de Mérida arranca este viernes con el ballet 'Spartacus' protagonizado por Miguel Ángel Muñoz",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260701/festival-merida-arranca-viernes-ballet-132013663",
+    "pubDate": "2026-07-01 14:46:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El filántropo estadounidense David Rockefeller Jr., nuevo patrono de honor del Teatro Real",
+    "link": "https://www.elperiodico.com/es/gente/20260701/filantropo-estadounidense-david-rockefeller-jr-132013331",
+    "pubDate": "2026-07-01 14:42:51",
+    "category": "",
+    "description": "<h2>El conocido conservacionista y filántropo neoyorquino se convierte en el primer patrono de honor procedente de la sociedad civil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Федоров заявив про \"вікно можливостей\" у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4890781-fedorov-zaiavyv-pro-vikno-mozhlyvostei-u-viini",
+    "pubDate": "2026-07-01 14:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476151.jpg\">Українські удари вже призвели до серйозних проблем з логістикою для російських окупантів та \"накопичення великої кількості криз\", зазначив Михайло Федоров.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві викрили схему ввезення 3000 \"авто для ЗСУ\"",
+    "link": "https://ua.korrespondent.net/city/kiev/4890780-u-kyievi-vykryly-skhemu-vvezennia-3000-avto-dlia-zsu",
+    "pubDate": "2026-07-01 14:39:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476152.png\">Група осіб використовувала благодійні фонди для безмитного ввезення авто, які згодом продавалися.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Мільйонні збитки: троє посадовців митниці отримали підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4890779-milionni-zbytky-troie-posadovtsiv-mytnytsi-otrymaly-pidozru",
+    "pubDate": "2026-07-01 14:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476146.jpg\">Суб’єкт господарювання не сплатив митні платежі у повному обсязі. До Державного бюджету України не надійшло майже 2,5 млн грн обов’язкових платежів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Naciste después de 1960? Consulta la edad a la que podrás jubilarte según la tabla oficial de la Seguridad Social",
+    "link": "https://www.elperiodico.com/es/economia/20260701/tabla-jubilacion-segun-ano-nacimiento-dv-132012672",
+    "pubDate": "2026-07-01 14:35:19",
+    "category": "",
+    "description": "<h2>La normativa vigente fija la edad ordinaria de jubilación según los años cotizados. Así queda la tabla por año de nacimiento y qué dice la Seguridad Social</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laporta reivindica sus tres Ligas en cinco años: \"Volvimos a combatir y volvimos a vencer\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260701/laporta-reivindica-tres-ligas-cinco-132011995",
+    "pubDate": "2026-07-01 14:35:06",
+    "category": "",
+    "description": "<h2>El presidente del Barça introduce al Real Madrid y a Florentino Pérez en el discurso de su nuevo mandato </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mamarazzis en directo: los morosos de Hacienda y el nuevo amor de Nuria Fergó",
+    "link": "https://www.elperiodico.com/es/podcast/20260701/mamarazzis-directo-morosos-hacienda-nuevo-131930226",
+    "pubDate": "2026-07-01 14:32:12",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "В елітному готелі Кишинева стався спалах сальмонельозу",
+    "link": "https://ua.korrespondent.net/world/4890777-v-elitnomu-hoteli-kyshyneva-stavsia-spalakh-salmonelozu",
+    "pubDate": "2026-07-01 14:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476141.jpg\">У зв’язку зі спалахом сальмонельозу створили міжвідомчу групу; експерти встановлюють можливе джерело зараження і контактних осіб хворих.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Orson Salazar, muy cómplice con una nueva amiga tras su separación de Paz Vega",
+    "link": "https://www.elperiodico.com/es/gente/20260701/orson-salazar-complice-nueva-amiga-132012864",
+    "pubDate": "2026-07-01 14:29:39",
+    "category": "",
+    "description": "<h2>El exmarido de Paz Vega es fotografiado en actitud cercana con una mujer en Madrid, ajeno a la deuda millonaria que arrastra con Hacienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Col·legi d'Arquitectes de Catalunya rememora 60 años de exposiciones culturales, rebeldes, preclaras y antifranquistas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260701/collegi-arquitectes-catalunya-rememora-60-anos-exposiciones-rebeldes-antifranquistas-131843723",
+    "pubDate": "2026-07-01 14:28:39",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260507/hospital-sant-pau-recuerda-625-129954678\" target=\"_blank\">El Hospital de Sant Pau recuerda, en su 625 cumpleaños, sus siglos de idilio con el Teatre Principal</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260612/sandra-bestraten-coac-decana-arquitectos-any-gaudi-ildefons-cerda-rehabilitacion-crisis-de-vivienda-131169075\" target=\"_blank\">Sandra Bestraten, decana del COAC: \"Hay que aprovechar a Gaudí para reivindicar la rehabilitación por la puerta grande\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260613/arquitectura-letra-adn-humano-70-131346376\" target=\"_blank\">¿Es la arquitectura una letra del adn humano y de otras 70 especies?: una expo analiza ese instinto ancestral</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una nueva potabilizadora permitirá a Sabadell abastecer con agua propia a casi 7.000 familias",
+    "link": "https://www.elperiodico.com/es/barcelona/20260701/nueva-potabilizadora-permitira-sabadell-abastecer-agua-familias-132011960",
+    "pubDate": "2026-07-01 14:26:10",
+    "category": "",
+    "description": "<h2>La planta de la Serra d’en Camaró incorpora a la red agua freática del Ripoll, el Parc Catalunya y la mina Marí Vinyals, y reducirá la dependencia del sistema Ter-Llobregat</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/sabadell/20250226/sabadell-ultima-trabajos-red-agua-114711249\">Sabadell ultima los trabajos en la red de agua regenerada para reducir el uso de la potable en un 20%</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/sabadell/20240215/sabadell-redobla-apuesta-agua-regenerada-98225697\">Sabadell redobla su apuesta por el agua regenerada: proyecta un consumo \"similar\" al de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Letizia arropa a pie de pista al equipo médico que parte hacia Venezuela: \"Profesionalidad, rigor y cariño\"",
+    "link": "https://www.elperiodico.com/es/politica/20260701/letizia-arropa-pie-pista-equipo-medico-venezuela-terremotos-132012865",
+    "pubDate": "2026-07-01 14:25:33",
+    "category": "",
+    "description": "<h2>La Reina despide en el aeropuerto de Barajas a los cooperantes españoles que van a ayudar a las víctimas de los terremotos en el país suramericano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Китай потай тренував російських військових - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4890774-kytai-potai-trenuvav-rosiiskykh-viiskovykh-zmi",
+    "pubDate": "2026-07-01 14:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476126.jpg\">Секретні тренування включали підготовку з радіологічного, хімічного та біологічного захисту на військових об’єктах Китаю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mamarazzis en directo: los morosos de Hacienda y el nuevo amor de Nuria Fergó",
+    "link": "https://www.elperiodico.com/es/videos/podcast/mamarazzis-directo/131929673.shtml",
+    "pubDate": "2026-07-01 14:15:40",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Камалію запідозрили у брехні про розлучення із Захуром",
+    "link": "https://ua.korrespondent.net/lifestyle/4890773-kamaliui-zapidozryly-u-brekhni-pro-rozluchennia-iz-zakhurom",
+    "pubDate": "2026-07-01 14:15:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476133.jpg\">Після публікації спільних фото з колишнім чоловіком Мохаммадом Захуром Камалія зіткнулася з хвилею критики. Деякі користувачі припустили, що пара нібито не розлучалася, однак артистка емоційно відреагувала на такі звинувачення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Julia Janeiro revela el regalo de 1.400 euros de sus padres Jesulín y María José Campanario tras comprarse su primera casa",
+    "link": "https://www.elperiodico.com/es/gente/20260701/julia-janeiro-revela-regalo-1-132012218",
+    "pubDate": "2026-07-01 14:14:59",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Кривому Розі викрито наркогрупу за участю військових у СЗЧ",
+    "link": "https://ua.korrespondent.net/ukraine/4890771-u-kryvomu-rozi-vykryto-narkohrupu-za-uchastui-viiskovykh-u-szch",
+    "pubDate": "2026-07-01 14:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476128.jpg\">Під час обшуків правоохоронці вилучили метадон, метамфетамін, A-PVP, канабіс, екстазі та інші речовини.",
+    "topic": "марихуана",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Roca Rey, de viaje familiar a Perú con Tana Rivera",
+    "link": "https://www.elperiodico.com/es/gente/20260701/roca-rey-viaje-familiar-peru-132012061",
+    "pubDate": "2026-07-01 14:12:30",
+    "category": "",
+    "description": "<h2>El torero ha compartido su felicidad tras sus vacaciones en Perú, donde su familia conoció a su pareja, Cayetana Rivera</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На війні загинув музикант і дослідник Ігор Ходжаніязов",
+    "link": "https://ua.korrespondent.net/lifestyle/4890769-na-viini-zahynuv-muzykant-i-doslidnyk-ihor-khodzhaniiazov",
+    "pubDate": "2026-07-01 14:11:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476127.jpg\">Український музикант, перекладач і дослідник традиційної музики Ігор Ходжаніязов загинув під час виконання бойового завдання. У захисника залишилися дружина та троє неповнолітніх дітей.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Agustín Pérez, el estudiante \"número uno\" de la FP de Carpintería que desde los 8 años lo tuvo claro: \"En el instituto llegaron a reírse de mí\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/agustin-perez-estudiante-numero-uno-fp-carpinteria-instituto-dv-131814166",
+    "pubDate": "2026-07-01 14:06:00",
+    "category": "",
+    "description": "<h2>El ovetense, que no quiso estudiar Bachillerato, acabó el grado formativo con todo matrículas de honor y un 10: \"Me salía todo natural, nunca me costó\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya registra la cifra más alta de muertes por calor en un mes de junio con 218 decesos prematuros atribuíbles a las altas temperaturas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/catalunya-cifra-muertes-calor-record-junio-132010276",
+    "pubDate": "2026-07-01 14:05:25",
+    "category": "",
+    "description": "<h2 class=\"item\">La cifra más alta registrada hasta ahora, en más de diez años de datos, eran los 56 decesos prematuros vinculados al calor registrados en junio del año pasado</h2><h2 class=\"item\">El 90% de las muertes registradas corresponden a personas de más de 65 años, según apuntan las estadísticas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260625/ola-calor-junio-212-muertes-prematuras-espana-altas-temperaturas-momo-131795446\">La primera gran ola de calor del verano deja al menos 212 muertes prematuras en España en tan solo cuatro días</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Al menos seis muertos en un incendio en un edificio de viviendas en Amberes",
     "link": "https://www.elperiodico.com/es/internacional/20260701/muertos-incendio-edificio-residencial-amberes-belgica-132011660",
     "pubDate": "2026-07-01 14:02:13",
