@@ -1,8 +1,18 @@
-# News for 2026-07-01 13:03
+# News for 2026-07-01 14:05
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+13:49 [Зеленський прибув з візитом в Ірландію](https://ua.korrespondent.net/ukraine/4890761-zelenskyi-prybuv-z-vizytom-v-irlandiui)<br>
+13:46 [Окупанти спалили майже 2000 гектарів заповідника Асканія-Нова](https://ua.korrespondent.net/ukraine/4890760-okupanty-spalyly-maizhe-2000-hektariv-zapovidnyka-askaniia-nova)<br>
+13:41 [У прифронтових регіонах подвоїлась кількість заброньованих](https://ua.korrespondent.net/ukraine/4890758-u-pryfrontovykh-rehionakh-podvoilas-kilkist-zabronovanykh)<br>
+13:27 [Deep strike у червні: уражені 11 російських НПЗ](https://ua.korrespondent.net/ukraine/4890753-Deep-strike-u-chervni-urazheni-11-rosiiskykh-npz)<br>
+13:25 [Найвідоміший собор Німеччини став платним для відвідувачів](https://ua.korrespondent.net/lifestyle/travel/4890751-naividomishyi-sobor-nimechchyny-stav-platnym-dlia-vidviduvachiv)<br>
+13:22 [Зірка українського кіно вперше стала мамою](https://ua.korrespondent.net/lifestyle/4890747-zirka-ukrainskoho-kino-vpershe-stala-mamoui)<br>
+13:21 [Виправдовував агресію РФ: правоохоронцю з Одещини загрожує 8 років тюрми](https://ua.korrespondent.net/ukraine/4890749-vypravdovuvav-ahresiui-rf-pravookhorontsui-z-odeschyny-zahrozhuie-8-rokiv-tuirmy)<br>
+13:18 [Українська акторка розповіла про свою пенсію](https://ua.korrespondent.net/lifestyle/4890743-ukrainska-aktorka-rozpovila-pro-svoui-pensiui)<br>
+13:16 [Смертність на воді в Україні у червні зросла на 60%](https://ua.korrespondent.net/ukraine/4890741-smertnist-na-vodi-v-ukraini-u-chervni-zrosla-na-60)<br>
+12:59 [В СБУ назвали кількість зірваних російських кібератак](https://ua.korrespondent.net/ukraine/4890737-v-sbu-nazvaly-kilkist-zirvanykh-rosiiskykh-kiberatak)<br>
 12:51 [Укргазбанк та Сенс банк продадуть інвесторам](https://ua.korrespondent.net/business/4890733-ukrhazbank-ta-sens-bank-prodadut-investoram)<br>
 12:48 [Скандал із ТЦК: у Кривому Розі відпустили мобілізованого батька-одинака](https://ua.korrespondent.net/ukraine/4890732-skandal-iz-ttsk-u-kryvomu-rozi-vidpustyly-mobilizovanoho-batka-odynaka)<br>
 12:46 [Рада ухвалила закон про національний пантеон](https://ua.korrespondent.net/ukraine/4890730-rada-ukhvalyla-zakon-pro-natsionalnyi-panteon)<br>
@@ -57,9 +67,26 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 00:21 [Сирський назвав критерій перелому на фронті](https://ua.korrespondent.net/ukraine/4890594-syrskyi-nazvav-kryterii-perelomu-na-fronti)<br>
 
 ## as.com
+13:42 [Kam Taylor renueva hasta 2028](https://as.com/futbol/primera/kam-taylor-renueva-hasta-2028-f202607-n/)<br>
 11:30 [Pradilla y su futuro: “Tengo que pensar en mí”](https://as.com/baloncesto/acb/pradilla-y-su-futuro-tengo-que-pensar-en-mi-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:02 [Al menos seis muertos en un incendio en un edificio de viviendas en Amberes](https://www.elperiodico.com/es/internacional/20260701/muertos-incendio-edificio-residencial-amberes-belgica-132011660)<br>
+13:59 [El cielo de Venezuela se tiñe de rojo y causa asombro entre los ciudadanos](https://www.elperiodico.com/es/videos/internacional/cielo-venezuela-tine-rojo-causa/132011394.shtml)<br>
+13:56 [El pianista de jazz Iñaki Sandoval, nuevo director del Conservatori Superior del Liceu](https://www.elperiodico.com/es/ocio-y-cultura/20260701/pianista-jazz-inaki-sandoval-nuevo-132010601)<br>
+13:53 [El Gobierno quiere obligar a las empresas a explicar cuáles son los criterios objetivos para ascender a un trabajador](https://www.elperiodico.com/es/economia/20260701/transparencia-salarial-gobierno-quiere-obligar-empresas-explicar-criterios-subida-salario-132011123)<br>
+13:47 [La reina Letizia despide al equipo médico que viaja a Venezuela: "La sociedad española os lo agradece"](https://www.elperiodico.com/es/videos/politica/reina-letizia-despide-equipo-medico-venezuela/132010726.shtml)<br>
+13:44 [Niubó asegura que el curso 27-28 se aplicará el requisito de C2 de catalán (el nivel más alto) a los nuevos docentes](https://www.elperiodico.com/es/sociedad/20260701/niubo-asegura-curso-27-28-titulo-c2-catalan-docentes-cataluna-132009711)<br>
+13:42 [España necesita 100.000 enfermeras para llegar a la media europea y cubrir las próximas jubilaciones](https://www.elperiodico.com/es/sanidad/20260701/espana-necesita-enfermeras-media-europea-proximas-jubilaciones-132007785)<br>
+13:41 [El precio del euríbor hoy, 1 de julio: ligero alivio para los hipotecados](https://www.elperiodico.com/es/economia/20260701/precio-euribor-hoy-1-julio-dv-131997524)<br>
+13:38 [La Guardia Urbana de Badalona instala un módulo en la playa para "mejorar la convivencia" y evitar conductas sancionables en la arena](https://www.elperiodico.com/es/barcelona/20260701/guardia-urbana-badalona-instala-modulo-playa-reforzar-seguridad-evitar-conductas-sancionables-132004565)<br>
+13:20 [Barcelona empezará en 2027 las obras para concentrar su archivo municipal en Can Batlló con una inversión de 98 millones](https://www.elperiodico.com/es/barcelona/20260701/barcelona-obras-archivo-municipal-can-batllo-inversion-98-millones-132007922)<br>
+13:17 [Trump tuvo ingresos extraordinarios de 2.000 millones de dólares en el primer año de regreso a la Casa Blanca](https://www.elperiodico.com/es/internacional/20260701/declaracion-financiera-trump-revela-ingresos-2-000-millones-de-dolares-primer-ano-regreso-casa-blanca-criptomonedas-132002568)<br>
+13:16 [Siete de cada diez empleos creados desde 2019 han sido ocupados por nacidos en el extranjero](https://www.elperiodico.com/es/economia/20260701/siete-diez-empleos-creados-han-132008707)<br>
+13:14 [Bolaños cree que la petición de Begoña Gómez para viajar está "perfectamente justificada"](https://www.elperiodico.com/es/videos/politica/bolanos-cree-peticion-begona-gomez/132008377.shtml)<br>
+13:07 [Impactantes imágenes de la erupción del volcán Taal en Filipinas](https://www.elperiodico.com/es/videos/internacional/impactantes-imagenes-erupcion-volcan-taal/132008111.shtml)<br>
+13:05 [Hacienda aclara cuándo poner a un hijo o pareja de cotitular de una cuenta bancaria se considera donación: "La misma reflexión sirve para el cónyuge"](https://www.elperiodico.com/es/economia/20260701/hacienda-aclara-poner-hijo-o-pareja-cotitular-cuenta-bancaria-donacion-dv-131817378)<br>
+13:04 [El juez llama como testigo al 'número dos' de García Ortiz por su reunión con Leire Díez para valorar si cita al exfiscal general](https://www.elperiodico.com/es/politica/20260701/juez-llama-testigo-fiscales-reunieron-leire-diez-132007921)<br>
 13:03 [Luz verde al plan que protegerá de los temporales marítimos al colector de aguas residuales que atraviesa Badalona y Sant Adrià](https://www.elperiodico.com/es/barcelona/20260701/luz-verde-plan-resguardar-colector-aguas-residuales-atraviesa-badalona-sant-adria-131977974)<br>
 13:02 [La Fiscalía y la acusación particular piden 12 años de cárcel para cada una de las exmonjas de Belorado](https://www.elperiodico.com/es/sociedad/20260701/fiscalia-12anos-carcel-monjas-belorado-132007533)<br>
 13:00 [El adiós a la calvicie podría estar más cerca que nunca: esto es lo que está cambiando en la ciencia](https://www.elperiodico.com/es/salud/20260701/adios-calvicie-cerca-cambiando-ciencia-132007668)<br>

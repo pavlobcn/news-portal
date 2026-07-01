@@ -1,5 +1,374 @@
 [
   {
+    "title": "Al menos seis muertos en un incendio en un edificio de viviendas en Amberes",
+    "link": "https://www.elperiodico.com/es/internacional/20260701/muertos-incendio-edificio-residencial-amberes-belgica-132011660",
+    "pubDate": "2026-07-01 14:02:13",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Elle' (Prime Video): la vida (adolescente) en rosa de 'Una rubia muy legal'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260701/critica-elle-prime-video-una-rubia-muy-legal-132001637",
+    "pubDate": "2026-07-01 14:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Reese Witherspoon produce esta incoherente exploración de los años de instituto de Elle Woods, aquella rubia (no tan) superficial que acababa estudiando derecho en Harvard </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20210428/reese-witherspoon-empresaria-hello-sunshine-portada-time-11686892\" target=\"_blank\">Reese Witherspoon, la 'rubia muy legal' que ha amasado un imperio de libros y series</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/series/20240517/prime-video-serie-elle-reese-witherspoon-legally-blonde-precuela-102450820\" target=\"_blank\">Prime Video prepara la serie ‘Elle’, una precuela de ‘Legally Blonde’</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La nueva vida de Carolina Marín tras su retirada del bádminton: de la pista a la India",
+    "link": "https://www.elperiodico.com/es/deportes/20260701/nueva-vida-carolina-marin-retirada-badminton-india-132007272",
+    "pubDate": "2026-07-01 14:00:23",
+    "category": "",
+    "description": "<h2>Tras su retirada, la campeona olímpica abre una nueva etapa profesional</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El refugio de Toñi Moreno en Málaga: una casa de colores neutros con una gran terraza y un minipiano para su hija Lola",
+    "link": "https://www.elperiodico.com/es/gente/20260701/refugio-toni-moreno-malaga-enorme-casa-colores-neutros-gran-terraza-minipiano-hija-dv-131996366",
+    "pubDate": "2026-07-01 13:59:34",
+    "category": "",
+    "description": "<h2>La presentadora ha mostrado su nuevo hogar en el territorio malagueño, un espacio luminoso y con toques personales</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El cielo de Venezuela se tiñe de rojo y causa asombro entre los ciudadanos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/cielo-venezuela-tine-rojo-causa/132011394.shtml",
+    "pubDate": "2026-07-01 13:59:10",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona cortará un centenar de calles y accesos a la Ronda Litoral ante el paso del Tour de Francia",
+    "link": "https://www.elperiodico.com/es/barcelona/20260701/barcelona-cortara-centenar-calles-accesos-ronda-litoral-paso-tour-de-francia-131962695",
+    "pubDate": "2026-07-01 13:57:35",
+    "category": "",
+    "description": "<h2>Este jueves se restringirá el tráfico en el entorno de la Sagrada Família y el sábado habrá afectaciones en importantes vías como Aragó o Mallorca</h2><h2>Las previsiones del Ayuntamiento apuntan a que el paso de la ronda gala atraerá a hasta 1,3 millones de aficionados a la capital catalana</h2><h2>MOVILIDAD | <a href=\"https://www.elperiodico.com/es/barcelona/20260630/tour-francia-barcelona-principales-afectaciones-movilidad-transporte-publico-131941854\">Afectaciones a la movilidad y en el transporte público por el paso del Tour de Francia en Barcelona</a></h2><h2>VALLAS | <a href=\"https://www.elperiodico.com/es/barcelona/20260630/barcelona-calienta-motores-tour-francia-40000-vallas-calles-131969236\" target=\"_blank\">Las calles de Barcelona calientan motores para el Tour de Francia: tendrán casi 40.000 vallas de protección</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El pianista de jazz Iñaki Sandoval, nuevo director del Conservatori Superior del Liceu",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260701/pianista-jazz-inaki-sandoval-nuevo-132010601",
+    "pubDate": "2026-07-01 13:56:38",
+    "category": "",
+    "description": "<h2>Fue alumno del Conservatori, donde se formó como pianista clásico y posteriormente fue creador del departamento de jazz y música moderna y decano de los estudios de posgrado. Impartió clases en el centro de 2003 al 2015</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno quiere obligar a las empresas a explicar cuáles son los criterios objetivos para ascender a un trabajador",
+    "link": "https://www.elperiodico.com/es/economia/20260701/transparencia-salarial-gobierno-quiere-obligar-empresas-explicar-criterios-subida-salario-132011123",
+    "pubDate": "2026-07-01 13:53:34",
+    "category": "",
+    "description": "<h2>El Ministerio de Trabajo inicia con patronal y sindicatos la negociación para transponer la directiva europea de transparencia salarial</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський прибув з візитом в Ірландію",
+    "link": "https://ua.korrespondent.net/ukraine/4890761-zelenskyi-prybuv-z-vizytom-v-irlandiui",
+    "pubDate": "2026-07-01 13:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476117.jpg\">Глава держави анонсував зустрічі з прем’єр-міністром Ірландії та президентом Європейської ради.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни влучили по території підприємства у Новій Одесі, є загиблий",
+    "link": "https://ua.korrespondent.net/ukraine/4890762-rosiiany-vluchyly-po-terytorii-pidpryiemstva-u-novii-odesi-ye-zahyblyi",
+    "pubDate": "2026-07-01 13:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476118.jpg\">Загинув 66-річний чоловік - водій вантажівки. Ще троє чоловіків отримали поранення, усі госпіталізовані. Лікарі надають їм необхідну допомогу.",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Тренер Атлетіко поставив зіркового аргентинця перед жорстким вибором",
+    "link": "https://ua.korrespondent.net/sport/football/4890757-trener-atletiko-postavyv-zirkovoho-arhentyntsia-pered-zhorstkym-vyborom",
+    "pubDate": "2026-07-01 13:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476116.jpg\">У мадридському клубі розгорається внутрішній конфлікт між головним тренером Дієго Сімеоне та зірковим нападником Хуліаном Альваресом.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La reina Letizia despide al equipo médico que viaja a Venezuela: \"La sociedad española os lo agradece\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/reina-letizia-despide-equipo-medico-venezuela/132010726.shtml",
+    "pubDate": "2026-07-01 13:47:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Окупанти спалили майже 2000 гектарів заповідника Асканія-Нова",
+    "link": "https://ua.korrespondent.net/ukraine/4890760-okupanty-spalyly-maizhe-2000-hektariv-zapovidnyka-askaniia-nova",
+    "pubDate": "2026-07-01 13:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476104.jpg\">У біосферному заповіднику сталися дві масштабні пожежі, внаслідок яких знищено значні площі заповідного степу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Niubó asegura que el curso 27-28 se aplicará el requisito de C2 de catalán (el nivel más alto) a los nuevos docentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/niubo-asegura-curso-27-28-titulo-c2-catalan-docentes-cataluna-132009711",
+    "pubDate": "2026-07-01 13:44:17",
+    "category": "",
+    "description": "<h2 class=\"item\"> La consellera ha asegurado que el aplazamiento de este requisito para el próximo curso se trata de una \"excepción temporal, transitoria\", que solo se aplicará un curso para que los docentes que todavía no hayan acreditado el C2 tengan margen para hacerlo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260514/bajas-profesores-escuelas-cataluna-130127650\">Una de cada cinco bajas de profesores en Catalunya no se ha cubierto en los últimos cinco cursos por falta de docentes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España necesita 100.000 enfermeras para llegar a la media europea y cubrir las próximas jubilaciones",
+    "link": "https://www.elperiodico.com/es/sanidad/20260701/espana-necesita-enfermeras-media-europea-proximas-jubilaciones-132007785",
+    "pubDate": "2026-07-01 13:42:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Navarra, con 8,97 enfermeras por cada 1.000 habitantes, lideran el ranking nacional, seguida de País Vasco, con 8,21</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260622/calor-asfixia-hospitales-centros-salud-sanitarios-pacientes-compran-ventiladores-altas-tempraturas-131674653\">El calor asfixia a hospitales y centros de salud: sanitarios y pacientes compran ventiladores para combatir las altas temperaturas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kam Taylor renueva hasta 2028",
+    "link": "https://as.com/futbol/primera/kam-taylor-renueva-hasta-2028-f202607-n/",
+    "pubDate": "2026-07-01 13:42:07",
+    "category": "Kameron Taylor",
+    "description": "El alero de Maryland (31 años y 1,98 m) ha ampliado su contrato con el Valencia Basket por las próximas dos temporadas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El precio del euríbor hoy, 1 de julio: ligero alivio para los hipotecados",
+    "link": "https://www.elperiodico.com/es/economia/20260701/precio-euribor-hoy-1-julio-dv-131997524",
+    "pubDate": "2026-07-01 13:41:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El euríbor hoy: este es el índice en el que se sitúa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У прифронтових регіонах подвоїлась кількість заброньованих",
+    "link": "https://ua.korrespondent.net/ukraine/4890758-u-pryfrontovykh-rehionakh-podvoilas-kilkist-zabronovanykh",
+    "pubDate": "2026-07-01 13:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476108.jpeg\">В Україні за рік суттєво зросла кількість заброньованих працівників у всіх секторах економіки. Також розширився перелік критично важливих підприємств.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Guardia Urbana de Badalona instala un módulo en la playa para \"mejorar la convivencia\" y evitar conductas sancionables en la arena",
+    "link": "https://www.elperiodico.com/es/barcelona/20260701/guardia-urbana-badalona-instala-modulo-playa-reforzar-seguridad-evitar-conductas-sancionables-132004565",
+    "pubDate": "2026-07-01 13:38:24",
+    "category": "",
+    "description": "<h2>La infraestructura estará abierta desde las 9 de la mañana y hasta las 21:00 horas, y funcionará durante toda la temporada de baño</h2><h2>BANDO MUNICIPAL EN 2023 | <a href=\"https://www.elperiodico.com/es/que-hacer/playas/20230630/albiol-sanciona-tratar-playas-badalona-89324983\">Albiol sanciona la \"música molesta\" y la acampada en la playa de Badalona: ¿qué más no se puede hacer?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Монте офіційно попрощалася з усім складом",
+    "link": "https://ua.korrespondent.net/lifestyle/videoigry/4890746-monte-ofitsiino-poproschalasia-z-usim-skladom",
+    "pubDate": "2026-07-01 13:33:00",
+    "category": "Кіберспорт",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476103.jpg\">Одразу після турніру організація Luminosity Gaming гучно оголосила про своє повернення на професійну сцену.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Principales afectaciones en la movilidad y el transporte público: esto es lo que debes saber",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/principales-afectaciones-movilidad-transporte-publico/132009396.shtml",
+    "pubDate": "2026-07-01 13:32:05",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Deep strike у червні: уражені 11 російських НПЗ",
+    "link": "https://ua.korrespondent.net/ukraine/4890753-Deep-strike-u-chervni-urazheni-11-rosiiskykh-npz",
+    "pubDate": "2026-07-01 13:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476101.jpg\">Максимальна дистанція успішного удару перевищила 2000 кілометрів від державного кордону України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Найвідоміший собор Німеччини став платним для відвідувачів",
+    "link": "https://ua.korrespondent.net/lifestyle/travel/4890751-naividomishyi-sobor-nimechchyny-stav-platnym-dlia-vidviduvachiv",
+    "pubDate": "2026-07-01 13:25:00",
+    "category": "Новини туризму",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476102.jpg\">Нововведення запровадили через зростання витрат на утримання пам'ятки, що входить до списку Світової спадщини ЮНЕСКО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Omar Montes desparece del cartel del Orgullo de Madrid tras rescatarse un vídeo con un grave insulto homófobo",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260701/omar-montes-desparece-cartel-orgullo-polemica-video-homofobo-132008470",
+    "pubDate": "2026-07-01 13:23:20",
+    "category": "",
+    "description": "<h2>La organización del MADO cancela su concierto en Plaza de España en medio de versiones contradictorias y mientras el cantante se enfrenta a una dura batalla legal y familiar</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зірка українського кіно вперше стала мамою",
+    "link": "https://ua.korrespondent.net/lifestyle/4890747-zirka-ukrainskoho-kino-vpershe-stala-mamoui",
+    "pubDate": "2026-07-01 13:22:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476100.jpg\">28-річна акторка Клавдія Дрозд повідомила про народження первістка. Зірка поділилася першими світлинами з малюком та розповіла, як минули пологи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Виправдовував агресію РФ: правоохоронцю з Одещини загрожує 8 років тюрми",
+    "link": "https://ua.korrespondent.net/ukraine/4890749-vypravdovuvav-ahresiui-rf-pravookhorontsui-z-odeschyny-zahrozhuie-8-rokiv-tuirmy",
+    "pubDate": "2026-07-01 13:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476099.jpeg\">На Одещині правоохоронцю повідомили про підозру за виправдовування збройної агресії РФ. Йому загрожує до 8 років позбавлення волі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona empezará en 2027 las obras para concentrar su archivo municipal en Can Batlló con una inversión de 98 millones",
+    "link": "https://www.elperiodico.com/es/barcelona/20260701/barcelona-obras-archivo-municipal-can-batllo-inversion-98-millones-132007922",
+    "pubDate": "2026-07-01 13:20:21",
+    "category": "",
+    "description": "<h2>El alcalde Collboni ha garantizado el traslado tras quedar congelado hace 8 años por falta de presupuesto</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20150417/50000-documentos-arxiu-municipal-barcelona-alcance-clic-web-4111088\" target=\"_blank\">Casi 50.000 documentos históricos de Barcelona al alcance de un clic</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українська акторка розповіла про свою пенсію",
+    "link": "https://ua.korrespondent.net/lifestyle/4890743-ukrainska-aktorka-rozpovila-pro-svoui-pensiui",
+    "pubDate": "2026-07-01 13:18:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476090.jpeg\">Зірка зізналася, що живе на пенсію, іноді дозволяє собі невеликі радощі, а також розповіла, на що нині витрачає найбільше коштів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un narco se fuga de una cárcel francesa después de Navidad y lo detienen cuando iba a ver a unos familiares en Sevilla",
+    "link": "https://www.elperiodico.com/es/sucesos/20260701/narco-fuga-carcel-francesa-despues-sevilla-familiares-132008425",
+    "pubDate": "2026-07-01 13:18:00",
+    "category": "",
+    "description": "<h2>La colaboración entre Mossos y Policía Nacional ha sido clave para encontrar al sospechoso</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260701/cae-banda-narcos-enviaba-droga-barcelona-rennes-132000905\">Cae una banda de narcos que enviaba droga por paquetería desde Castelldefels hasta Rennes</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Trump tuvo ingresos extraordinarios de 2.000 millones de dólares en el primer año de regreso a la Casa Blanca",
+    "link": "https://www.elperiodico.com/es/internacional/20260701/declaracion-financiera-trump-revela-ingresos-2-000-millones-de-dolares-primer-ano-regreso-casa-blanca-criptomonedas-132002568",
+    "pubDate": "2026-07-01 13:17:13",
+    "category": "",
+    "description": "<h2>La declaración financiera obligatoria del mandatario refleja que el mayor impulso económico vino de sus negocios de criptomonedas, que le reportaron unos<strong> </strong>1.400 millones de dólares</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Siete de cada diez empleos creados desde 2019 han sido ocupados por nacidos en el extranjero",
+    "link": "https://www.elperiodico.com/es/economia/20260701/siete-diez-empleos-creados-han-132008707",
+    "pubDate": "2026-07-01 13:16:14",
+    "category": "",
+    "description": "<h2>El estudio, elaborado a petición de la Sociedad Barcelonesa de Estudios Económicos y Sociales del Foment del Treball, muestra que la empleabilidad de los jóvenes sigue siendo uno de los mayores retos del mercado laboral</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Смертність на воді в Україні у червні зросла на 60%",
+    "link": "https://ua.korrespondent.net/ukraine/4890741-smertnist-na-vodi-v-ukraini-u-chervni-zrosla-na-60",
+    "pubDate": "2026-07-01 13:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476084.jpg\">Більшість трагедій стається під час відпочинку у стихійних, не обладнаних для купання місцях, зазначили рятувальники.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laporta toma posesión por cuarta vez en presencia del \"amigo Tebas\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260701/laporta-toma-posesion-cuarta-vez-132001629",
+    "pubDate": "2026-07-01 13:15:23",
+    "category": "",
+    "description": "<h2>El presidente de LaLiga felicita al presidente azulgrana por \"los éxitos deportivos, las infraestructuras (el Camp Nou) y la sostenibilidad económica conseguida\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Bolaños cree que la petición de Begoña Gómez para viajar está \"perfectamente justificada\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/bolanos-cree-peticion-begona-gomez/132008377.shtml",
+    "pubDate": "2026-07-01 13:14:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по Херсону, є жертва та поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4890740-rosiiany-vdaryly-po-khersonu-ye-zhertva-ta-poraneni",
+    "pubDate": "2026-07-01 13:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476087.png\">Жінка отримала травми, несумісні з життям. Наразі відповідні служби встановлюють її особу. Ще двоє херсонок дістали поранення. Нині вони перебувають у лікарні.",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Impactantes imágenes de la erupción del volcán Taal en Filipinas",
+    "link": "https://www.elperiodico.com/es/videos/internacional/impactantes-imagenes-erupcion-volcan-taal/132008111.shtml",
+    "pubDate": "2026-07-01 13:07:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Довбик назвав головне розчарування після переходу в Рому",
+    "link": "https://ua.korrespondent.net/sport/football/4890736-dovbyk-nazvav-holovne-rozcharuvannia-pislia-perekhodu-v-romu",
+    "pubDate": "2026-07-01 13:07:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476086.jpg\">Довбик наголосив, що раптове звільнення головного тренера Даніеле Де Россі стало для нього серйозним психологічним ударом.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hacienda aclara cuándo poner a un hijo o pareja de cotitular de una cuenta bancaria se considera donación: \"La misma reflexión sirve para el cónyuge\"",
+    "link": "https://www.elperiodico.com/es/economia/20260701/hacienda-aclara-poner-hijo-o-pareja-cotitular-cuenta-bancaria-donacion-dv-131817378",
+    "pubDate": "2026-07-01 13:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La notaria alicantina María Cristina Clemente Buendía ha explicado esta cuestión a partir de dos consultas planteadas ante la Dirección General de Tributos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20251117/abogada-laura-lobo-desmonta-mito-bancario-dv-122944036\">Laura Lobo, abogada, desmonta un mito bancario: “Ser cotitular no te convierte en propietario\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El nombramiento de Maribel López como nueva directora de la Fundació Miró consuma el cambio de guardia en los grandes museos de Barcelona",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260701/nombramiento-maribel-lopez-nueva-directora-fundacio-miro-132006364",
+    "pubDate": "2026-07-01 13:04:58",
+    "category": "",
+    "description": "<h2 class=\"item\">La barcelonesa, actual directora de Arco, cierra una temporada de fichajes que ha llevado a Rosario Peiró al Museu Picasso y a Valentín Roma al Macba </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260227/cambio-guardia-museos-barcelona-espanta-127291809\">Cambio de guardia en los museos de Barcelona: de la 'espantá' de Borja-Villel a los inesperados relevos en el MACBA y la Miró</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El juez llama como testigo al 'número dos' de García Ortiz por su reunión con Leire Díez para valorar si cita al exfiscal general",
+    "link": "https://www.elperiodico.com/es/politica/20260701/juez-llama-testigo-fiscales-reunieron-leire-diez-132007921",
+    "pubDate": "2026-07-01 13:04:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La Fiscalía admitió al juez Pedraz que García Ortiz fue informado de las reuniones de Leire Díez con su ‘número dos’</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260701/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\">Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Seguridad Social puede reconocer una incapacidad permanente sin años cotizados",
+    "link": "https://www.elperiodico.com/es/economia/20260701/seguridad-social-reconocer-incapacidad-permanente-sin-anos-cotizados-dv-132007061",
+    "pubDate": "2026-07-01 13:04:15",
+    "category": "",
+    "description": "<h2>La normativa prevé una excepción para los casos de accidente de trabajo y enfermedad profesional</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Luz verde al plan que protegerá de los temporales marítimos al colector de aguas residuales que atraviesa Badalona y Sant Adrià",
     "link": "https://www.elperiodico.com/es/barcelona/20260701/luz-verde-plan-resguardar-colector-aguas-residuales-atraviesa-badalona-sant-adria-131977974",
     "pubDate": "2026-07-01 13:03:11",
@@ -18,11 +387,29 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El compromiso de Hugo González con la Selección",
+    "link": "https://as.com/baloncesto/nba/el-compromiso-de-hugo-gonzalez-con-la-seleccion-f202607-n/",
+    "pubDate": "2026-07-01 13:01:24",
+    "category": "Baloncesto",
+    "description": "El alero (20 años y 1,98 m) regresa a la Selección tras su temporada en la NBA y de perderse el último Eurobasket por sus compromisos como rookie de Boston.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 80
+  },
+  {
     "title": "El adiós a la calvicie podría estar más cerca que nunca: esto es lo que está cambiando en la ciencia",
     "link": "https://www.elperiodico.com/es/salud/20260701/adios-calvicie-cerca-cambiando-ciencia-132007668",
     "pubDate": "2026-07-01 13:00:25",
     "category": "",
     "description": "<h2>La investigación avanza en múltiples frentes, combinando moléculas, medicina regenerativa y cirugía personalizada para restaurar la capacidad biológica del folículo piloso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В СБУ назвали кількість зірваних російських кібератак",
+    "link": "https://ua.korrespondent.net/ukraine/4890737-v-sbu-nazvaly-kilkist-zirvanykh-rosiiskykh-kiberatak",
+    "pubDate": "2026-07-01 12:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476073.jpg\">Від початку повномасштабної війни Україна зіткнулася з різким зростанням кібератак з боку РФ. У СБУ розповіли, скільки таких атак вдалося зупинити та які об’єкти найчастіше стають мішенню ворога.",
     "topic": "",
     "topic_match_probability": 0
   },
