@@ -1,8 +1,11 @@
-# News for 2026-07-01 21:45
+# News for 2026-07-01 23:03
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+22:58 [У Києві лунали вибухи: є падіння уламків](https://ua.korrespondent.net/city/kiev/4890906-u-kyievi-lunaly-vybukhy-ye-padinnia-ulamkiv)<br>
+22:36 [ЗСУ вже застосовують вітчизняні КАБи - Федоров](https://ua.korrespondent.net/ukraine/4890903-zsu-vzhe-zastosovuuit-vitchyzniani-kaby-fedorov)<br>
+21:54 [Загроза удару: Зеленський обірвав візит в Ірландію](https://ua.korrespondent.net/ukraine/4890899-zahroza-udaru-zelenskyi-obirvav-vizyt-v-irlandiui)<br>
 21:36 [В Україні мережа АЗС призупиняє роботу через загрозу ракетного удару](https://ua.korrespondent.net/ukraine/4890895-v-ukraini-merezha-azs-pryzupyniaie-robotu-cherez-zahrozu-raketnoho-udaru)<br>
 21:24 [Справа Північних потоків: ФРН звинуватила українця у диверсії](https://ua.korrespondent.net/world/4890892-sprava-pivnichnykh-potokiv-frn-zvynuvatyla-ukraintsia-u-dyversii)<br>
 20:58 [Україна розширила радіус ударів по Росії - ЗМІ](https://ua.korrespondent.net/world/4890889-ukraina-rozshyryla-radius-udariv-po-rosii-zmi)<br>
@@ -126,6 +129,10 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 11:30 [Pradilla y su futuro: “Tengo que pensar en mí”](https://as.com/baloncesto/acb/pradilla-y-su-futuro-tengo-que-pensar-en-mi-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:16 [Nueve años y medio de cárcel para un exdiputado gallego por violar a una alumna suya menor](https://www.elperiodico.com/es/politica/20260701/nueve-anos-medio-carcel-exdiputado-132029394)<br>
+22:04 [Madrid inaugura su Orgullo con un pregón que reivindica presencia 'queer' en la pantalla: "Gracias al cine transformador por llegar donde la política no"](https://www.elperiodico.com/es/sociedad/20260701/madrid-orgullo-pregon-reivindica-presencia-queer-pantalla-132029197)<br>
+21:51 [Pilar Cancela, secretaria de Estado de Migraciones: "Que sea una regularización extraordinaria no implica que se hayan relajado los requisitos"](https://www.elperiodico.com/es/politica/20260701/pilar-cancela-secretaria-migraciones-sea-132028754)<br>
+21:48 [El volcán Etna sigue en erupción: así avanza la impresionante colada de lava](https://www.elperiodico.com/es/videos/internacional/volcan-etna-erupcion-impresionante-colada-lava/132028866.shtml)<br>
 21:30 [Venezuela, ante la titánica tarea de la reconstrucción una semana después del terremoto sin esperanzas ya de hallar a más supervivientes](https://www.elperiodico.com/es/internacional/20260701/semana-terremoto-venezuela-reconstruccion-sin-esperanzas-supervivientes-132028623)<br>
 21:00 [Repsol fleta tres aviones con ayuda de emergencia para las víctimas de los terremotos en Venezuela](https://www.elperiodico.com/es/economia/20260701/repsol-fleta-tres-aviones-ayuda-132027835)<br>
 20:59 [El incendio está "descontrolado" en la Sierra de Alcubierre (Zaragoza): "Esperamos que mejoren las condiciones"](https://www.elperiodico.com/es/sociedad/20260701/incendio-descontrolado-sierra-alcubierre-zaragoza-132027942)<br>
