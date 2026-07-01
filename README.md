@@ -1,8 +1,14 @@
-# News for 2026-07-01 20:39
+# News for 2026-07-01 21:45
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+21:36 [В Україні мережа АЗС призупиняє роботу через загрозу ракетного удару](https://ua.korrespondent.net/ukraine/4890895-v-ukraini-merezha-azs-pryzupyniaie-robotu-cherez-zahrozu-raketnoho-udaru)<br>
+21:24 [Справа Північних потоків: ФРН звинуватила українця у диверсії](https://ua.korrespondent.net/world/4890892-sprava-pivnichnykh-potokiv-frn-zvynuvatyla-ukraintsia-u-dyversii)<br>
+20:58 [Україна розширила радіус ударів по Росії - ЗМІ](https://ua.korrespondent.net/world/4890889-ukraina-rozshyryla-radius-udariv-po-rosii-zmi)<br>
+20:55 [Microsoft звільнить понад 5 тисяч співробітників - ЗМІ](https://ua.korrespondent.net/business/companies/4890887-Microsoft-zvilnyt-ponad-5-tysiach-spivrobitnykiv-zmi)<br>
+20:39 [Чорногорія готується скасувати безвіз для росіян](https://ua.korrespondent.net/world/4890883-chornohoriia-hotuietsia-skasuvaty-bezviz-dlia-rosiian)<br>
+20:36 [Масштабний витік розкрив нові подробиці про iPhone 18 Pro](https://ua.korrespondent.net/lifestyle/gadgets/4890881-masshtabnyi-vytik-rozkryv-novi-podrobytsi-pro-iPhone-18-Pro)<br>
 20:23 [У Росії заявили про понад 63 тисячі збитих дронів з початку року](https://ua.korrespondent.net/world/4890879-u-rosii-zaiavyly-pro-ponad-63-tysiachi-zbytykh-droniv-z-pochatku-roku)<br>
 19:57 [Росіяни стали активніше виводити готівку з банків](https://ua.korrespondent.net/world/russia/4890876-rosiiany-staly-aktyvnishe-vyvodyty-hotivku-z-bankiv)<br>
 19:56 [Найбільша мережа АЗС у Сибіру зупинила продаж пального](https://ua.korrespondent.net/world/russia/4890875-naibilsha-merezha-azs-u-sybiru-zupynyla-prodazh-palnoho)<br>
@@ -120,6 +126,12 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 11:30 [Pradilla y su futuro: “Tengo que pensar en mí”](https://as.com/baloncesto/acb/pradilla-y-su-futuro-tengo-que-pensar-en-mi-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:30 [Venezuela, ante la titánica tarea de la reconstrucción una semana después del terremoto sin esperanzas ya de hallar a más supervivientes](https://www.elperiodico.com/es/internacional/20260701/semana-terremoto-venezuela-reconstruccion-sin-esperanzas-supervivientes-132028623)<br>
+21:00 [Repsol fleta tres aviones con ayuda de emergencia para las víctimas de los terremotos en Venezuela](https://www.elperiodico.com/es/economia/20260701/repsol-fleta-tres-aviones-ayuda-132027835)<br>
+20:59 [El incendio está "descontrolado" en la Sierra de Alcubierre (Zaragoza): "Esperamos que mejoren las condiciones"](https://www.elperiodico.com/es/sociedad/20260701/incendio-descontrolado-sierra-alcubierre-zaragoza-132027942)<br>
+20:55 [Ayuso continúa apretando con la ley de nietos: "¿Están intentando nacionalizar socialistas?"](https://www.elperiodico.com/es/videos/politica/ayuso-continua-apretando-ley-nietos-nacionalizar-socialistas/132028166.shtml)<br>
+20:45 ["El momento periodístico se parece mucho al político. Demasiada tensión"](https://www.elperiodico.com/es/ocio-y-cultura/20260701/momento-periodistico-parece-politico-tension-132027998)<br>
+20:45 [Crean la primera célula sintética del mundo con un ciclo de vida completo](https://www.elperiodico.com/es/sociedad/20260701/crean-primera-celula-sintetica-mundo-132027938)<br>
 20:38 [Molins prevé empezar a cotizar en el Mercado Continuo el próximo 13 de julio](https://www.elperiodico.com/es/economia/20260701/molins-preve-empezar-cotizar-mercado-continuo-13-de-julio-132027837)<br>
 20:37 [Smiljan Radić, arquitecto: "Tengo una oficina con cinco personas. Es la cantidad máxima que puedo administrar sin volverme loco"](https://www.elperiodico.com/es/ocio-y-cultura/20260701/smiljan-radic-oficina-cinco-personas-132009188)<br>
 20:36 [Al menos 200 bomberos combaten un incendio forestal de grandes proporciones en el sur de Francia](https://www.elperiodico.com/es/sucesos/20260701/200-bomberos-combaten-incendio-forestal-132027738)<br>
