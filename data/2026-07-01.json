@@ -1,5 +1,77 @@
 [
   {
+    "title": "Llenar el depósito será más caro desde hoy: así sube el precio de la gasolina con la reducción de la ayuda al combustible",
+    "link": "https://www.elperiodico.com/es/economia/20260701/llenar-deposito-sera-caro-hoy-1-julio-sube-precio-gasolina-dv-131978790",
+    "pubDate": "2026-07-01 07:05:02",
+    "category": "",
+    "description": "<h2>Los conductores irán perdiendo parte del descuento y el coste aumentará de forma gradual</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260629/medidas-anticrisis-nuevas-prorrogadas-gobierno-131938744\" target=\"_blank\">Todas las medidas anticrisis nuevas y prorrogadas por el Gobierno: ayuda al combustible, lista de gasolineras fraudulentas y desaparición de impuestos</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Los 10 errores más comunes al comprar un coche de segunda mano",
+    "link": "https://www.elperiodico.com/es/motor/20260701/10-errores-comunes-comprar-coche-segunda-mano-128388059",
+    "pubDate": "2026-07-01 07:00:28",
+    "category": "",
+    "description": "<h2>Todo lo que debes revisar para no llevarte sorpresas al adquirir un vehículo de ocasión</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Martín Ferrando, pediatra: \"Un niño puede ahogarse en segundos y sin hacer ruido\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/nino-ahogarse-segundos-ruido-entrevista-martin-ferrando-pediatra-dv-131938288",
+    "pubDate": "2026-07-01 07:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El pediatra del Hospital de Sant Joan alerta de que la mayoría de los ahogamientos infantiles en verano se deben a despistes y pide a los adultos vigilancia constante, sobre todo en piscinas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260626/hallan-cadaver-joven-playa-dels-pescadors-badalona-131835414\" >Hallan el cadáver de un joven en la playa dels Pescadors de Badalona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La curiosa historia de las gemelas Mercy y Goodness: nacieron unidas por la cabeza y la IA ayudó a separarlas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/siamesas-gemelas-separadas-operacion-ia-mercy-goodness-dv-131834911",
+    "pubDate": "2026-07-01 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras seis meses, cuatro cirugías y más de 60 médicos, las siamesas han conseguido verse cara a cara</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260216/siamesas-mauritanas-unidas-abdomen-vida-normal-dos-anos-sant-joan-de-deu-126889486\">Las siamesas mauritanas unidas por el abdomen hacen vida normal dos años después de ser separadas en Sant Joan de Déu</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260212/ia-da-paso-siamesas-influencers-creadas-inteligencia-artificial-dv-126529498\">De experimento digital a fenómeno en redes: las polémicas siamesas 'influencers' creadas con IA</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estos son los museos que puedes visitar gratis este primer domingo de mes en Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260701/museos-gratis-barcelona-primer-domingo-mes-julio-2026-122139263",
+    "pubDate": "2026-07-01 07:00:00",
+    "category": "",
+    "description": "<h2>Culturízate por encima de tus posibilidades. Este domingo toca ir de museos por tu cara bonita: es primer domingo de mes</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260630/calle-outlets-barcelona-chollazos-rebajas-131823992\" target=\"_blank\">La calle de los 'outlets' de Barcelona con chollazos en cada esquina</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260424/hoy-barcelona-agenda-actividades-planes-semana-102304377\" target=\"_blank\">Qué hacer esta semana en Barcelona: estos son los mejores planes</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Regístrate y recibe descuentos exclusivos de tus marcas favoritas: así puedes ahorrar en tus compras",
+    "link": "https://www.elperiodico.com/es/sociedad/20260701/registrate-recibe-descuentos-exclusivos-marcas-bc-131922098",
+    "pubDate": "2026-07-01 07:00:00",
+    "category": "",
+    "description": "<h2>Recibir <strong>descuentos exclusivos</strong>, <strong>promociones digitales</strong> y <strong>ofertas personalizadas</strong> ya es una forma cómoda de ahorrar y descubrir oportunidades cerca de casa. Con <strong>Oférica</strong>, los usuarios pueden registrarse para recibir ofertas relevantes y para los negocios conectar directamente con clientes interesados.</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "США перекинули два кораблі з морпіхами на Близький Схід",
+    "link": "https://ua.korrespondent.net/world/4890627-ssha-perekynuly-dva-korabli-z-morpikhamy-na-blyzkyi-skhid",
+    "pubDate": "2026-07-01 06:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475866.jpg\">Про цілі та завдання, що стоять перед десантними кораблями, американське командування не повідомляє.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Франція не залишила шансів Швеції у матчі ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4890607-frantsiia-ne-zalyshyla-shansiv-shvetsii-u-matchi-chs",
+    "pubDate": "2026-07-01 06:46:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4475865.jpg\">У чисто європейському протистоянні підопічні Дідьє Дешама без особливих зусиль розібралися зі збірною Швеції.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Quiles: \"Sé que Aspar dice que le estoy arruinando, pero él es el primero que quiere que gane\"",
     "link": "https://www.elperiodico.com/es/deportes/20260701/quiles-aspar-dice-le-arruinando-131990959",
     "pubDate": "2026-07-01 06:43:46",
