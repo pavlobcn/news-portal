@@ -1,11 +1,23 @@
-# News for 2026-07-01 16:06
+# News for 2026-07-01 17:07
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+16:59 [Атака російських дронів: у Херсоні кількість поранених зросла до 18 осіб](https://ua.korrespondent.net/ukraine/4890833-ataka-rosiiskykh-droniv-u-khersoni-kilkist-poranenykh-zrosla-do-18-osib)<br>
+16:57 [В НБА продовжить участь Михайлюк із гарантованим контрактом від Юта Джаз](https://ua.korrespondent.net/sport/basketball/4890831-v-nba-prodovzhyt-uchast-mykhailuik-iz-harantovanym-kontraktom-vid-yuta-dzhaz)<br>
+16:55 [Феодосія та Армянськ залишилися без світла внаслідок ударів ЗСУ](https://ua.korrespondent.net/ukraine/4890830-feodosiia-ta-armiansk-zalyshylysia-bez-svitla-vnaslidok-udariv-zsu)<br>
+16:49 [На Хмельниччині судитимуть ґвалтівника власної падчерки](https://ua.korrespondent.net/ukraine/4890825-na-khmelnychchyni-sudytymut-gvaltivnyka-vlasnoi-padcherky)<br>
+16:46 [Атака на Харків: у місті десятки поранених](https://ua.korrespondent.net/ukraine/4890827-ataka-na-kharkiv-u-misti-desiatky-poranenykh)<br>
+16:27 [У Бельгії внаслідок пожежі в багатоповерхівці загинули п’ятеро осіб](https://ua.korrespondent.net/world/4890823-u-belhii-vnaslidok-pozhezhi-v-bahatopoverkhivtsi-zahynuly-piatero-osib)<br>
+16:22 [ДТП в Туреччині: автобус із 30 поляками потрапив в аварію](https://ua.korrespondent.net/world/4890821-dtp-v-turechchyni-avtobus-iz-30-poliakamy-potrapyv-v-avariui)<br>
+16:18 [Свята 2 липня 2026 року: факти, традиції](https://ua.korrespondent.net/lifestyle/4890785-sviata-2-lypnia-2026-roku-fakty-tradytsii)<br>
+16:15 [Загроза масованого удару: які ймовірні цілі ворога](https://ua.korrespondent.net/ukraine/4890802-zahroza-masovanoho-udaru-yaki-ymovirni-tsili-voroha)<br>
+16:10 [Після Путіна - до Сі: чи з'являться китайські війська у Білорусі](https://ua.korrespondent.net/articles/4890819-pislia-putina-do-si-chy-ziavliatsia-kytaiski-viiska-u-bilorusi)<br>
+16:09 [На Одещині "приліт" балістики, є загиблі](https://ua.korrespondent.net/ukraine/4890817-na-odeschyni-prylit-balistyky-ye-zahybli)<br>
 15:59 [У Польщі розкритикували рішення про Український пантеон](https://ua.korrespondent.net/world/4890815-u-polschi-rozkrytykuvaly-rishennia-pro-ukrainskyi-panteon)<br>
 15:58 [Росіяни вдарили по Харкову, є загиблі та поранені](https://ua.korrespondent.net/ukraine/4890813-rosiiany-vdaryly-po-kharkovu-ye-zahybli-ta-poraneni)<br>
 15:45 [Українці за кордоном: в яких країнах допомагають уповноважені омбудсмана](https://ua.korrespondent.net/ukraine/4890810-ukraintsi-za-kordonom-v-yakykh-krainakh-dopomahauit-upovnovazheni-ombudsmana)<br>
+15:45 [Українці за кордоном: де допомагають уповноважені омбудсмана](https://ua.korrespondent.net/ukraine/4890810-ukraintsi-za-kordonom-de-dopomahauit-upovnovazheni-ombudsmana)<br>
 15:41 [Рубль пережив найсильніше місячне падіння з 2022-го](https://ua.korrespondent.net/business/economics/4890808-rubl-perezhyv-naisylnishe-misiachne-padinnia-z-2022-ho)<br>
 15:36 [Росія зупинила штурми на шести напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4890807-rosiia-zupynyla-shturmy-na-shesty-napriamkakh-henshtab)<br>
 15:24 [Мобілізація в Україні: кількість скарг на ТЦК зросла у 300 разів](https://ua.korrespondent.net/ukraine/4890803-mobilizatsiia-v-ukraini-kilkist-skarh-na-ttsk-zrosla-u-300-raziv)<br>
@@ -86,6 +98,14 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 11:30 [Pradilla y su futuro: “Tengo que pensar en mí”](https://as.com/baloncesto/acb/pradilla-y-su-futuro-tengo-que-pensar-en-mi-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:02 [Marruecos estudia medidas para erradicar el trabajo infantil: 103.000 menores afectados](https://www.elperiodico.com/es/internacional/20260701/marruecos-estudia-medidas-erradicar-trabajo-infantil-132019092)<br>
+16:56 [Tragedia en Canadá: muere por rabia un niño de 11 años que despertó con un murciélago en la cara](https://www.elperiodico.com/es/sociedad/20260701/muere-nino-rabia-murcielago-canada-dv-132014069)<br>
+16:47 [Detenidos cuatro policías en Venezuela por apropiarse de dinero hallado entre escombros](https://www.elperiodico.com/es/videos/internacional/detenidos-policias-venezuela-apropiarse-dinero-escombros-terremoto/132018528.shtml)<br>
+16:47 [Veolia se incorpora a la Cambra de Comerç de Barcelona como socio institucional](https://www.elperiodico.com/es/economia/20260701/veolia-incorpora-cambra-comerc-barcelona-132015891)<br>
+16:19 [De "escuela de las pesadillas" a la mejor del mundo: el 'milagro' brasileño que empezó casa por casa con profesores motivados](https://www.elperiodico.com/es/sociedad/20260701/de-escuela-pesadilla-a-mejor-escuela-mundo-milagro-brasil-profesores-motivados-visitas-casa-familia-regis-marques-profesor-parque-suenos-132011089)<br>
+16:10 [Seis condenados por torturar a un discapacitado y tatuarle un pene en la cara en Manacor](https://www.elperiodico.com/es/videos/sociedad/seis-condenados-torturar-discapacitado-tatuarle-video/132016976.shtml)<br>
+16:10 [Rafa Nadal inaugura su primer hotel de cuatro estrellas en Canarias:  meca de los deportes náuticos en la isla](https://www.elperiodico.com/es/gente/20260701/rafa-nadal-inaugura-primer-hotel-cuatro-estrellas-canarias-dv-131840790)<br>
+16:08 [Grifols se reorganiza y creará una estructura solo para el negocio de 'biopharma' de Estados Unidos](https://www.elperiodico.com/es/economia/20260701/grifols-reorganiza-creara-estructura-negocio-solo-estados-unidos-132016951)<br>
 16:05 [Rutte defiende como "indispensable" la compra de armas a EEUU para Ucrania](https://www.elperiodico.com/es/internacional/20260701/rutte-defiende-indispensable-compra-armas-eeuu-ucrania-132016867)<br>
 16:05 [El MNAC pide paralizar la devolución de las pinturas de Sijena hasta que Aragón explique cómo y dónde las quiere reinstalar](https://www.elperiodico.com/es/ocio-y-cultura/20260701/mnac-pide-paralizar-devolucion-pinturas-132016494)<br>
 16:04 [Récord histórico en la temperatura de la superficie del mar](https://www.elperiodico.com/es/tendencias21/20260701/record-historico-temperatura-superficie-mar-132016818)<br>
@@ -94,6 +114,7 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 16:00 [Policía Nacional y Guardia Civil niegan que Salut pusiera trabas a la vacunación de agentes por el covid](https://www.elperiodico.com/es/politica/20260701/policia-nacional-guardia-civil-niegan-trabas-salut-vacunacion-agentes-verges-argimon-covid-132015275)<br>
 15:59 [El mayor In-Edit Empordà homenajea a Frank Scheffer y Paquito D'Rivera](https://www.elperiodico.com/es/ocio-y-cultura/20260701/mayor-in-edit-emporda-homenajea-132016468)<br>
 15:53 [Mossos y Guardia Civil registran por segunda vez el laboratorio IRTA-CReSA en la investigación sobre el origen del brote de peste porcina](https://www.elperiodico.com/es/sucesos/20260701/mossos-guardia-civil-registran-laboratorio-peste-porcina-132016299)<br>
+15:50 [Sánchez potencia la candidatura de la gigafactoría de IA con la escenificación del nuevo consorcio público-privado](https://www.elperiodico.com/es/politica/20260701/sanchez-publico-privada-gigafactoria-ia-132016215)<br>
 15:44 [El Parlament aprueba llevar al Congreso modificar la ley ELA ante "disfunciones" en su despliegue](https://www.elperiodico.com/es/politica/20260701/cataluna-parlament-congreso-ley-ela-132015801)<br>
 15:37 [Harvey Weinstein (74), hospitalizado tras sufrir una insuficiencia cardiaca en la cárcel de Rikers Island](https://www.elperiodico.com/es/gente/20260701/harvey-weinstein-hospitalizado-insuficiencia-cardiaca-rikers-island-132015033)<br>
 15:35 [Junji Ito protagonizará la 32ª edición del Manga Barcelona con un cartel inspirado en el Park Güell](https://www.elperiodico.com/es/ocio-y-cultura/20260701/junji-ito-protagonizara-32a-edicion-132015561)<br>
@@ -107,6 +128,7 @@ Previous day: [2026-06-30](./data/2026-06-30.md)
 14:58 [Condenado el hijastro de la alcaldesa de Marbella a 9 años de cárcel por tráfico de drogas](https://www.elperiodico.com/es/sucesos/20260701/condenado-hijastro-alcaldesa-marbella-carcela-trafico-drogas-132014272)<br>
 14:57 [Un trabajador en estado crítico y otro herido leve por la explosión de un tanque de gas en Ibiza](https://www.elperiodico.com/es/sucesos/20260701/explosion-tanque-gas-ibiza-heridos-cala-moli-132014193)<br>
 14:47 [Bolaños saca pecho a los 6 meses de su reforma porque hay un 7,3% más de juicios pero el CGPJ le afea que no pague los refuerzos](https://www.elperiodico.com/es/politica/20260701/bolanos-saca-pecho-aumento-juicios-cgpj-reclama-pago-refuerzos-132013791)<br>
+14:47 [Bolaños saca pecho a los 6 meses de su reforma porque hay un 7,3% más de juicios pero el CGPJ le afea que no pague los refuerzos](https://www.elperiodico.com/es/politica/20260701/saca-pecho-aumento-juicios-cgpj-reclama-pago-refuerzos-bolanos-132013791)<br>
 14:46 [El Festival de Mérida arranca este viernes con el ballet 'Spartacus' protagonizado por Miguel Ángel Muñoz](https://www.elperiodico.com/es/ocio-y-cultura/20260701/festival-merida-arranca-viernes-ballet-132013663)<br>
 14:42 [El filántropo estadounidense David Rockefeller Jr., nuevo patrono de honor del Teatro Real](https://www.elperiodico.com/es/gente/20260701/filantropo-estadounidense-david-rockefeller-jr-132013331)<br>
 14:35 [¿Naciste después de 1960? Consulta la edad a la que podrás jubilarte según la tabla oficial de la Seguridad Social](https://www.elperiodico.com/es/economia/20260701/tabla-jubilacion-segun-ano-nacimiento-dv-132012672)<br>
