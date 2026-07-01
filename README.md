@@ -1,8 +1,11 @@
-# News for 2026-07-01 03:01
+# News for 2026-07-01 04:49
 
 Previous day: [2026-06-30](./data/2026-06-30.md)
 
 ## ua.korrespondent.net
+04:25 [Данія виділила новий пакет допомоги Україні](https://ua.korrespondent.net/ukraine/4890612-daniia-vydilyla-novyi-paket-dopomohy-ukraini)<br>
+03:53 [Оман та Іран підготували схему тарифікації Ормузької протоки - ЗМІ](https://ua.korrespondent.net/world/4890610-oman-ta-iran-pidhotuvaly-skhemu-taryfikatsii-ormuzkoi-protoky-zmi)<br>
+03:24 [У Донецьку "приліт" і пожежа](https://ua.korrespondent.net/ukraine/4890608-u-donetsku-prylit-i-pozhezha)<br>
 02:50 [Смерть комбрига 154 ОМБр: названо три версії](https://ua.korrespondent.net/ukraine/4890599-smert-kombryha-154-ombr-nazvano-try-versii)<br>
 02:23 [В Чехї теж хочуть позбавити Зеленського ордена](https://ua.korrespondent.net/ukraine/4890605-v-chekhi-tezh-khochut-pozbavyty-zelenskoho-ordena)<br>
 01:51 [Указ Трампа про скасування громадянства за народженням визнаний незаконним](https://ua.korrespondent.net/world/4890603-ukaz-trampa-pro-skasuvannia-hromadianstva-za-narodzhenniam-vyznanyi-nezakonnym)<br>
