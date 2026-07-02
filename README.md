@@ -1,8 +1,10 @@
-# News for 2026-07-02 22:15
+# News for 2026-07-02 23:15
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+22:52 [Польща спише МіГи, але не передасть їх Україні](https://ua.korrespondent.net/world/4891223-polscha-spyshe-mihy-ale-ne-peredast-yikh-ukraini)<br>
+22:24 [РФ ударила по лікарні у Херсоні, є жертви](https://ua.korrespondent.net/ukraine/4891221-rf-udaryla-po-likarni-u-khersoni-ye-zhertvy)<br>
 21:55 [Ситуація в енергетиці: Шмигаль зробив важливу заяву](https://ua.korrespondent.net/ukraine/4891216-sytuatsiia-v-enerhetytsi-shmyhal-zrobyv-vazhlyvu-zaiavu)<br>
 21:39 [Москва просить бензин по світу: чи допоможе їй це](https://ua.korrespondent.net/world/russia/4891213-moskva-prosyt-benzyn-po-svitu-chy-dopomozhe-yii-tse)<br>
 21:31 [У Києві кількість загиблих через удар РФ зросла до 25](https://ua.korrespondent.net/city/kiev/4891211-u-kyievi-kilkist-zahyblykh-cherez-udar-rf-zrosla-do-25)<br>
@@ -125,6 +127,11 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 08:14 [Una concentración entre dos mundos: Dinamarca y el mercado](https://as.com/baloncesto/mas_baloncesto/una-concentracion-entre-dos-mundos-dinamarca-y-el-mercado-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:52 [Los mandos asociados de la Guardia Civil piden la dimisión de su directora general y el cese del DAO](https://www.elperiodico.com/es/politica/20260702/mandos-guardia-civil-piden-dimision-directora-dao-132068968)<br>
+22:44 [Juanma Moreno insiste en que sigue siendo el mismo pero… ahora tiene un vicepresidente de Vox](https://www.elperiodico.com/es/politica/20260702/juanma-moreno-insiste-sigue-ahora-132068847)<br>
+22:25 [Flamenco, electrónica y tradición en el ‘Òh!pera’ 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260702/flamenco-electronica-tradicion-oh-pera-132068187)<br>
+22:18 [Adif acaba las obras del acceso ferroviario del aeropuerto de Barcelona-El Prat e iniciará las pruebas en las próximas semanas](https://www.elperiodico.com/es/economia/20260702/adif-acaba-obras-acceso-ferroviario-aeropuerto-prat-pruebas-132068068)<br>
+22:17 [Un robot humanoide conquista la cima de 'El Chimborazo' de 6263 metros, en Ecuador](https://www.elperiodico.com/es/videos/sociedad/robot-humanoide-conquista-cima-chimborazo/132068120.shtml)<br>
 22:02 [Un corazón robótico revoluciona la investigación de enfermedades y dispositivos médicos que salvan vidas](https://www.elperiodico.com/es/tendencias21/20260702/corazon-robotico-revoluciona-investigacion-enfermedades-132067953)<br>
 21:59 [El incendio de Canet del Rosselló obliga a evacuar a 1.700 personas, con 9 heridos y 256 bungalows y una empresa quemados](https://www.elperiodico.com/es/sociedad/20260702/incendio-canet-rossello-obliga-evacuar-heridos-camping-empresa-quemados-132067368)<br>
 21:37 [Trump publica un vídeo con IA en el que "cura" a De Niro, Julia Roberts y otros famosos](https://www.elperiodico.com/es/videos/internacional/trump-video-ia-cura-sindrome-antitrump-famosos/132066851.shtml)<br>
