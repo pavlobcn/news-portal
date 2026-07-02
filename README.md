@@ -1,8 +1,18 @@
-# News for 2026-07-02 17:05
+# News for 2026-07-02 18:29
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+18:03 [Кількість постраждалих в Києві зросла до 100 осіб](https://ua.korrespondent.net/city/kiev/4891168-kilkist-postrazhdalykh-v-kyievi-zrosla-do-100-osib)<br>
+18:00 [Дрони з танкерів тіньового флоту РФ стежили за об'єктами НАТО - дослідження](https://ua.korrespondent.net/world/russia/4891163-drony-z-tankeriv-tinovoho-flotu-rf-stezhyly-za-obiektamy-nato-doslidzhennia)<br>
+17:55 [На саміті НАТО відбудеться зустріч щодо програми Freya - Зеленський](https://ua.korrespondent.net/ukraine/4891161-na-samiti-nato-vidbudetsia-zustrich-schodo-prohramy-Freya-zelenskyi)<br>
+17:54 [Атака РФ: в озеро на столичній Оболоні витікає паливо](https://ua.korrespondent.net/city/kiev/4891160-ataka-rf-v-ozero-na-stolychnii-oboloni-vytikaie-palyvo)<br>
+17:43 [У 12 регіонах РФ бензин продають дорожче, ніж у США](https://ua.korrespondent.net/world/russia/4891155-u-12-rehionakh-rf-benzyn-prodauit-dorozhche-nizh-u-ssha)<br>
+17:40 [На Вінниччині чоловік ґвалтував та знімав на телефон 14-річну дівчину](https://ua.korrespondent.net/ukraine/4891152-na-vinnychchyni-cholovik-gvaltuvav-ta-znimav-na-telefon-14-richnu-divchynu)<br>
+17:35 [Нові системи ППО для Бельгії: країна готує масштабні закупівлі](https://ua.korrespondent.net/world/4891150-novi-systemy-ppo-dlia-belhii-kraina-hotuie-masshtabni-zakupivli)<br>
+17:19 [РФ отримає відповідь за удар по Києву - Зеленський](https://ua.korrespondent.net/ukraine/4891144-rf-otrymaie-vidpovid-za-udar-po-kyievu-zelenskyi)<br>
+17:14 [Викрито мережу нелегального виробництва сигарет у кількох областях](https://ua.korrespondent.net/ukraine/4891142-vykryto-merezhu-nelehalnoho-vyrobnytstva-syharet-u-kilkokh-oblastiakh)<br>
+17:05 [Франція оштрафувала танкер, пов'язаний із тіньовим флотом РФ](https://ua.korrespondent.net/world/4891140-frantsiia-oshtrafuvala-tanker-poviazanyi-iz-tinovym-flotom-rf)<br>
 16:55 [Як отримати консультацію гінеколога за кордоном: що варто знати українкам](https://ua.korrespondent.net/lifestyle/health/4890464-yak-otrymaty-konsultatsiui-hinekoloha-za-kordonom-scho-varto-znaty-ukrainkam)<br>
 16:51 [У США назвали загальні втрати України і Росії](https://ua.korrespondent.net/ukraine/4891137-u-ssha-nazvaly-zahalni-vtraty-ukrainy-i-rosii)<br>
 16:49 [Росіяни вдарили по навчальному закладу в Сумах, є поранені](https://ua.korrespondent.net/ukraine/4891135-rosiiany-vdaryly-po-navchalnomu-zakladu-v-sumakh-ye-poraneni)<br>
@@ -84,6 +94,9 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 00:36 [Зеленський запропонував Ірландії оборонну угоду](https://ua.korrespondent.net/ukraine/4890919-zelenskyi-zaproponuvav-irlandii-oboronnu-uhodu)<br>
 
 ## as.com
+18:22 [España - Dinamarca, en directo: Ventanas FIBA para el Mundial 2027 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/espana-dinamarca-en-directo-ventanas-fiba-para-el-mundial-2027-en-vivo-hoy-f202607-d/)<br>
+18:00 [Las Canastas y Goles contra el Cáncer Infantil se transforman en 291.000 euros](https://as.com/baloncesto/mas_baloncesto/las-canastas-y-goles-contra-el-cancer-infantil-se-transforman-en-291000-euros-f202607-n/)<br>
+17:38 [El Valencia Basket ficha a la pívot Kamila Borkowska](https://as.com/baloncesto/el-valencia-basket-ficha-a-la-pivot-kamila-borkowska-f202607-n/)<br>
 16:37 [Del recado de Bruno Fernando a Scariolo al agradecimiento de Hezonja](https://as.com/baloncesto/acb/del-recado-de-bruno-fernando-a-scariolo-al-agradecimiento-de-hezonja-f202607-n/)<br>
 15:34 [El Real Madrid tiene cerrado el fichaje de Jaime Pradilla](https://as.com/baloncesto/jaime-pradilla-nuevo-jugador-del-real-madrid-f202607-n/)<br>
 13:12 [Los cinco ‘recados’ de Scariolo en su despedida del Real Madrid](https://as.com/baloncesto/los-cinco-recados-de-scariolo-en-su-despedida-del-real-madrid-f202607-n/)<br>
@@ -91,6 +104,15 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 08:14 [Una concentración entre dos mundos: Dinamarca y el mercado](https://as.com/baloncesto/mas_baloncesto/una-concentracion-entre-dos-mundos-dinamarca-y-el-mercado-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:00 [Así fue la insólita pedida de matrimonio en la cima del Empire State: la pareja acabó detenida](https://www.elperiodico.com/es/videos/internacional/insolita-pedida-matrimonio-cima-empire-state/132061107.shtml)<br>
+17:57 [Illa logra los presupuestos y prepara su 'emancipación'](https://www.elperiodico.com/es/politica/20260702/cataluna-presupuestos-govern-salvador-illa-psc-erc-comuns-132005961)<br>
+17:55 [La juez rechaza que se suspenda cautelarmente la expulsión de Ortega Smith de Vox](https://www.elperiodico.com/es/politica/20260702/juez-rechaza-suspenda-cautelarmente-expulsion-132060789)<br>
+17:54 [El Parlament acota la definición de gran tenedor de viviendas y da más poder al Govern en los aeropuertos](https://www.elperiodico.com/es/politica/20260702/parlament-vivienda-gran-tenedor-5-propiedades-ley-acompanamiento-132053867)<br>
+17:51 [El BOE lo hace oficial: cambios para los ciclistas en los arcenes de las carreteras españolas](https://www.elperiodico.com/es/trafico-y-transportes/20260702/boe-oficial-cambios-ciclistas-arcenes-carreteras-espanolas-dv-129941478)<br>
+17:48 [Cambios para los ciclistas en los arcenes de las carreteras españolas](https://www.elperiodico.com/es/videos/trafico-y-transportes/cambios-ciclistas-arcenes-carreteras-espanolas-dv/132060195.shtml)<br>
+17:30 [Arancha González Laya: "Trump ha sufrido una derrota sin paliativos en Irán y ha reforzado al régimen"](https://www.elperiodico.com/es/internacional/20260702/arancha-gonzalez-laya-solos-en-el-mundo-trump-derrota-sin-paliativos-iran-reforzado-regimen-132059500)<br>
+17:30 [Cuántos inmigrantes regularizados ya trabajan, dónde y cómo lo hacen: 5 claves de su impacto en el mercado laboral](https://www.elperiodico.com/es/economia/20260702/regularizacion-extraordinaria-inmigrantes-efecto-mercado-laboral-132046625)<br>
+17:07 [Reus estrena la normativa de viviendas en locales comerciales con cuatro pisos de alquiler asequible en el Barri Gaudí](https://www.elperiodico.com/es/tarragona/20260702/plantas-bajas-locales-reus-vivienda-alquiler-asequible-132057244)<br>
 17:02 [El movimiento vecinal barcelonés celebra la Ley contra el Amianto catalana pero teme que quede "en papel mojado"](https://www.elperiodico.com/es/barcelona/20260702/movimiento-vecinal-celebra-primera-ley-amianto-ley-barcelona-sabadell-santa-coloma-132058050)<br>
 17:00 [El estrés crónico podría alterar la microbiota intestinal, acelerar el envejecimiento del sistema inmunitario y debilitar las defensas](https://www.elperiodico.com/es/sociedad/20260702/estres-cronico-microbiota-intestinal-envejecimiento-celular-defensas-sistema-inmunitario-132017565)<br>
 16:53 [Badalona contratará a más de 100 personas en paro para "mejorar los servicios y los espacios públicos"](https://www.elperiodico.com/es/barcelona/20260702/badalona-contratara-100-personas-paro-mejorar-servicios-espacios-publicos-132051512)<br>
