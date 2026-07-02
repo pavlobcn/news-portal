@@ -1,8 +1,16 @@
-# News for 2026-07-02 12:47
+# News for 2026-07-02 13:50
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+13:43 [Сили ППО показали, як відбивали атаку Росії](https://ua.korrespondent.net/ukraine/4891073-syly-ppo-pokazaly-yak-vidbyvaly-ataku-rosii)<br>
+13:39 [Єдиний НПЗ Грузії відмовився від російської нафти](https://ua.korrespondent.net/world/4891070-yedynyi-npz-hruzii-vidmovyvsia-vid-rosiiskoi-nafty)<br>
+13:36 [Атака РФ пошкодила Київський зоопарк: постраждали тварини](https://ua.korrespondent.net/city/kiev/4891068-ataka-rf-poshkodyla-kyivskyi-zoopark-postrazhdaly-tvaryny)<br>
+13:30 [Розстріл цивільного авто в Бучі: один з окупантів отримав підозру](https://ua.korrespondent.net/ukraine/4891066-rozstril-tsyvilnoho-avto-v-buchi-odyn-z-okupantiv-otrymav-pidozru)<br>
+13:18 [Росіяни вбили КАБом дівчинку на Дніпропетровщині](https://ua.korrespondent.net/ukraine/4891063-rosiiany-vbyly-kabom-divchynku-na-dnipropetrovschyni)<br>
+13:08 [Збитки у 2,5 млрд грн: тіньовий власник підприємства отримав підозру](https://ua.korrespondent.net/ukraine/4891058-zbytky-u-25-mlrd-hrn-tinovyi-vlasnyk-pidpryiemstva-otrymav-pidozru)<br>
+13:02 [Чому обстріли Києва стають дуже небезпечними](https://ua.korrespondent.net/kyiv/4891045-chomu-obstrily-kyieva-stauit-duzhe-nebezpechnymy)<br>
+12:57 [Кремль пригрозив посиленням тиску на Київ](https://ua.korrespondent.net/world/russia/4891048-kreml-pryhrozyv-posylenniam-tysku-na-kyiv)<br>
 12:43 [Атака РФ: в метро Києва переховувалась рекордна кількість людей](https://ua.korrespondent.net/city/kiev/4891041-ataka-rf-v-metro-kyieva-perekhovuvalas-rekordna-kilkist-luidei)<br>
 12:33 [У Херсоні затримали іноземця, який працював на ФСБ](https://ua.korrespondent.net/ukraine/4891037-u-khersoni-zatrymaly-inozemtsia-yakyi-pratsuivav-na-fsb)<br>
 12:29 [У російських дронах і ракетах знайшли 35 тис. іноземних деталей](https://ua.korrespondent.net/ukraine/4891034-u-rosiiskykh-dronakh-i-raketakh-znaishly-35-tys-inozemnykh-detalei)<br>
@@ -55,6 +63,20 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 08:14 [Una concentración entre dos mundos: Dinamarca y el mercado](https://as.com/baloncesto/mas_baloncesto/una-concentracion-entre-dos-mundos-dinamarca-y-el-mercado-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:46 [Laura Lobo, abogada: "En principio, no, si los padres no quieren, el anterior uso de la vivienda no forma parte de la herencia"](https://www.elperiodico.com/es/economia/20260702/laura-lobo-abogada-herencias-uso-vivienda-hijos-dv-132045039)<br>
+13:43 [El PP, tras la imputación de Mercedes González, exige su dimisión y la de Grande-Marlaska: "Es de extrema gravedad"](https://www.elperiodico.com/es/politica/20260702/pp-dimision-marlaska-imputacion-mercedes-gonzales-132049231)<br>
+13:34 [Los tatuajes ayudan a identificar a Cristina, la mujer cuyo cuerpo fue hallado en un pozo de Málaga tras confesar su pareja el crimen](https://www.elperiodico.com/es/sucesos/20260702/tatuajes-ayudan-identificar-cristina-mujer-132048701)<br>
+13:30 [Intervienen en un parque de L'Hospitalet de Llobregat 263 pájaros de especies protegidas y exóticas y detienen a 13 personas](https://www.elperiodico.com/es/barcelona/20260702/intervienen-parque-lhospitalet-llobregat-263-pajaros-especies-protegidas-exoticas-detienen-13-personas-132047852)<br>
+13:29 [Felipe VI recibe en audiencia a Mañueco tras ser investido para un tercer mandato en Castilla y León](https://www.elperiodico.com/es/politica/20260702/felipe-recibe-audiencia-manueco-zarzuela-castilla-leon-132048256)<br>
+13:27 [Merz desvela su plan para reactivar la economía: retraso de la edad de jubilación, alivio de la carga fiscal para las familias y subida de impuestos a los más ricos](https://www.elperiodico.com/es/internacional/20260702/alemania-plan-reactivar-economia-retraso-jubilacion-alivio-carga-fiscal-familias-subida-impuestos-ricos-132048112)<br>
+13:26 [Tarragona cierra el proceso extraordinario de regularización con más de 2.200 informes tramitados](https://www.elperiodico.com/es/tarragona/20260702/servicios-sociales-tarragona-proceso-regularizacion-132046449)<br>
+13:19 [La Unión Europea baraja ceder a la industria de la IA y suavizar las leyes climáticas para desplegar más centros de datos](https://www.elperiodico.com/es/internacional/20260702/union-europea-baraja-ceder-industria-tecnologica-suavizar-normas-clima-centros-datos-inteligencia-artificial-energia-agua-132047568)<br>
+13:15 [Revolución en Whatsapp: nombres de usuario para que no vean tu número de teléfono](https://www.elperiodico.com/es/tecnologia/20260702/whatsapp-nombre-usuario-reservar-actualizacion-numero-telefono-dv-132040361)<br>
+13:12 [Catalunya recibirá ejemplares de alondra ricotí para salvar a la especie: "Es el Santo Grial de los ornitólogos británicos en la Península"](https://www.elperiodico.com/es/sociedad/20260702/cataluna-trasladara-ejemplares-alondra-ricoti-programa-europeo-proyecto-life-131991498)<br>
+13:08 [El Sindicato de Enfermería denuncia el cierre de más de 10.000 camas en los hospitales en verano, 1.500 en Catalunya](https://www.elperiodico.com/es/sanidad/20260702/sindicato-enfermeria-satse-denuncia-cierre-camas-verano-catalunya-132045214)<br>
+13:01 [Illa agradece el apoyo de ERC y Comuns a los Presupuestos y se compromete a desplegarlo](https://www.elperiodico.com/es/videos/politica/illa-agradece-apoyo-erc-comuns/132046447.shtml)<br>
+12:58 [Las cuevas de Altamira dejan de ser un monumento](https://www.elperiodico.com/es/videos/ocio-y-cultura/cuevas-altamira-monumento-zona-arqueologica-dv/132046107.shtml)<br>
+12:55 [La orden de arresto a Vito Quiles es por un "bulo" sobre un asesor de Montero](https://www.elperiodico.com/es/politica/20260702/orden-arresto-vito-quiles-bulo-asesor-montero-hacienda-132046291)<br>
 12:43 [Siete de cada diez empresas no tienen en cuenta a la infancia en su modelo de negocio](https://www.elperiodico.com/es/economia/20260702/siete-diez-empresas-cuenta-infancia-132045453)<br>
 12:36 [La Pedrera dedicará su gran exposición del otoño al alemán Anselm Kiefer](https://www.elperiodico.com/es/ocio-y-cultura/20260702/pedrera-dedicara-gran-exposicion-otono-132044360)<br>
 12:35 [Magic V6: características, análisis y valoración del nuevo plegable de Honor](https://www.elperiodico.com/es/tecnologia/20260702/magic-v6-caracteristicas-analisis-valoracion-132043038)<br>
