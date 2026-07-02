@@ -1,5 +1,23 @@
 [
   {
+    "title": "El horóscopo de mañana, viernes 3 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260702/horoscopo-hoy-viernes-3-julio-dv-132019816",
+    "pubDate": "2026-07-02 21:09:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський розповів про останні контакти зі США",
+    "link": "https://ua.korrespondent.net/ukraine/4891206-zelenskyi-rozpoviv-pro-ostanni-kontakty-zi-ssha",
+    "pubDate": "2026-07-02 21:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477461.jpg\">Американські переговірники підтримували зв'язок з Україною протягом останніх двох днів, зазначив глава держави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los viejos rockeros nunca mueren",
     "link": "https://as.com/baloncesto/mas_baloncesto/los-viejos-rockeros-nunca-mueren-f202607-n/",
     "pubDate": "2026-07-02 20:55:17",
@@ -18,6 +36,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El Honda Jazz cumple 25 años y lo celebra ofreciendo condiciones especiales",
+    "link": "https://www.elperiodico.com/es/motor/20260702/honda-jazz-cumple-25-anos-132019991",
+    "pubDate": "2026-07-02 20:42:06",
+    "category": "",
+    "description": "<h2>Desde su lanzamiento en 2001, el Jazz ha superado el millón de unidades vendidas en Europa y los nueve millones a nivel global</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Хакери зламали федеральну платформу обміну розвідданими США - ЗМІ",
     "link": "https://ua.korrespondent.net/world/4891202-khakery-zlamaly-federalnu-platformu-obminu-rozviddanymy-ssha-zmi",
     "pubDate": "2026-07-02 20:38:00",
@@ -27,6 +54,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El melón más caro del mundo se sirve en este restaurante de Barcelona: puede valer hasta 3.000 euros la pieza",
+    "link": "https://www.elperiodico.com/es/barcelona/20260702/melon-mas-caro-mundo-restaurante-barcelona-carlota-akaneya-dv-loc-131800983",
+    "pubDate": "2026-07-02 20:35:00",
+    "category": "",
+    "description": "<h2>La exclusiva variante se cultiva a mano en Japón</h2><h2><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250310/melon-mas-caro-del-mundo-115128532\">¿A qué sabe un melón que puede costar 3.000 euros?</a></h2><h2><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250319/restaurante-carlota-akaneya-barcelona-115392669\">Restaurante Carlota Akaneya: puede que tengan la mejor carne del mundo</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Понад 70 іноземних дипломатів відвідали місце удару РФ в Києві",
     "link": "https://ua.korrespondent.net/city/kiev/4891200-ponad-70-inozemnykh-dyplomativ-vidvidaly-mistse-udaru-rf-v-kyievi",
     "pubDate": "2026-07-02 20:32:00",
@@ -34,6 +70,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477397.jpg\">Представників іноземного дипкорпусу було вчергове закликано посилити тиск на Росію з метою примусити її завершити війну.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Vicente Rioja, chef valenciano: \"Se puede hacer una buena paella a gas pero le faltaría un ingrediente\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260702/vicente-rioja-chef-valenciano-buena-paella-gas-ingrediente-dv-131856332",
+    "pubDate": "2026-07-02 20:30:00",
+    "category": "",
+    "description": "<h2>El chef de Benissanó reivindica la receta valenciana desde la tradición y sin innovaciones: \"La chuleta no le da sabor al arroz, dámela aparte y en su punto exacto. Eso sí, para la foto queda chula\"</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
   },
   {
     "title": "Volkswagen може продати Lamborghini та Ducati",
