@@ -153,6 +153,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-01 21:59:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Загроза удару: Зеленський обірвав візит в Ірландію",
     "link": "https://ua.korrespondent.net/ukraine/4890899-zahroza-udaru-zelenskyi-obirvav-vizyt-v-irlandiui",
     "pubDate": "2026-07-01 21:54:00",
@@ -196,6 +205,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476406.jpg\">Англійці обіграли збірну Конго завдяки двом голам Гаррі Кейна, але він не один створював гольові моменти.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-01 21:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "В Україні мережа АЗС призупиняє роботу через загрозу ракетного удару",
@@ -1231,6 +1249,15 @@
     "description": "<h2>Con esta operación ya no están como accionistas ninguno de los fundadores originales de la productora catalana </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260430/tatxo-benet-southwind-negocian-venta-129570806\">Tatxo Benet y Southwind negocian la venta del último paquete de acciones del fundador de Mediapro</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260122/tatxo-benet-nuevo-presidente-femcat-125960871\">Tatxo Benet, nuevo presidente de Femcat</a></h2>",
     "topic": "телебачення",
     "topic_match_probability": 80
+  },
+  {
+    "title": "El Mundial Sub-17 se rinde al madridista Omer Kutluay",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-mundial-sub-17-se-rinde-al-madridista-omer-kutluay-f202606-n/",
+    "pubDate": "2026-07-01 16:50:33",
+    "category": "Baloncesto cantera",
+    "description": "El base turco, que llegó a la cantera blanca en 2023, es el segundo máximo anotador (28), el mejor asistente (9,5), y el segundo más valorado (30,2) del torneo.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "На Хмельниччині судитимуть ґвалтівника власної падчерки",
