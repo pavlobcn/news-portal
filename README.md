@@ -1,8 +1,17 @@
-# News for 2026-07-02 16:02
+# News for 2026-07-02 17:05
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+16:55 [Як отримати консультацію гінеколога за кордоном: що варто знати українкам](https://ua.korrespondent.net/lifestyle/health/4890464-yak-otrymaty-konsultatsiui-hinekoloha-za-kordonom-scho-varto-znaty-ukrainkam)<br>
+16:51 [У США назвали загальні втрати України і Росії](https://ua.korrespondent.net/ukraine/4891137-u-ssha-nazvaly-zahalni-vtraty-ukrainy-i-rosii)<br>
+16:49 [Росіяни вдарили по навчальному закладу в Сумах, є поранені](https://ua.korrespondent.net/ukraine/4891135-rosiiany-vdaryly-po-navchalnomu-zakladu-v-sumakh-ye-poraneni)<br>
+16:47 [У Києві росіяни знищили склад Червоного Хреста](https://ua.korrespondent.net/city/kiev/4891134-u-kyievi-rosiiany-znyschyly-sklad-chervonoho-khresta)<br>
+16:26 [Росія зробила новий вкид про "удар ЗСУ по білоруському автобусу"](https://ua.korrespondent.net/ukraine/4891130-rosiia-zrobyla-novyi-vkyd-pro-udar-zsu-po-biloruskomu-avtobusu)<br>
+16:20 [10 надзвичайних місць у Польщі, що здивують навіть мандрівників](https://ua.korrespondent.net/articles/4891116-10-nadzvychainykh-mists-u-polschi-scho-zdyvuuit-navit-mandrivnykiv)<br>
+16:18 [Війська РФ вдарили по Запоріжжю, є поранені](https://ua.korrespondent.net/ukraine/4891129-viiska-rf-vdaryly-po-zaporizhzhui-ye-poraneni)<br>
+16:11 [В академії Міноброни викрили "крота" ГРУ](https://ua.korrespondent.net/ukraine/4891127-v-akademii-minobrony-vykryly-krota-hru)<br>
+16:07 [Після обстрілу Києва на Оболоні виявили касетні боєприпаси](https://ua.korrespondent.net/city/kiev/4891125-pislia-obstrilu-kyieva-na-oboloni-vyiavyly-kasetni-boieprypasy)<br>
 15:55 [Інвестори збанкрутували на криптовалюті Трампа](https://ua.korrespondent.net/business/4891121-investory-zbankrutuvaly-na-kryptovaluiti-trampa)<br>
 15:54 [СБУ викрила мережу організаторів проплачених мітингів у ЄС](https://ua.korrespondent.net/ukraine/4891119-sbu-vykryla-merezhu-orhanizatoriv-proplachenykh-mitynhiv-u-yes)<br>
 15:50 [Трамп має намір встановити світовий рекорд із запуску феєрверків](https://ua.korrespondent.net/world/4891118-tramp-maie-namir-vstanovyty-svitovyi-rekord-iz-zapusku-feierverkiv)<br>
@@ -75,9 +84,19 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 00:36 [Зеленський запропонував Ірландії оборонну угоду](https://ua.korrespondent.net/ukraine/4890919-zelenskyi-zaproponuvav-irlandii-oboronnu-uhodu)<br>
 
 ## as.com
+16:37 [Del recado de Bruno Fernando a Scariolo al agradecimiento de Hezonja](https://as.com/baloncesto/acb/del-recado-de-bruno-fernando-a-scariolo-al-agradecimiento-de-hezonja-f202607-n/)<br>
+15:34 [El Real Madrid tiene cerrado el fichaje de Jaime Pradilla](https://as.com/baloncesto/jaime-pradilla-nuevo-jugador-del-real-madrid-f202607-n/)<br>
+13:12 [Los cinco ‘recados’ de Scariolo en su despedida del Real Madrid](https://as.com/baloncesto/los-cinco-recados-de-scariolo-en-su-despedida-del-real-madrid-f202607-n/)<br>
+11:02 [Oficial: el Madrid despide a Scariolo](https://as.com/baloncesto/acb/oficial-el-madrid-despide-a-scariolo-f202607-n/)<br>
 08:14 [Una concentración entre dos mundos: Dinamarca y el mercado](https://as.com/baloncesto/mas_baloncesto/una-concentracion-entre-dos-mundos-dinamarca-y-el-mercado-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:02 [El movimiento vecinal barcelonés celebra la Ley contra el Amianto catalana pero teme que quede "en papel mojado"](https://www.elperiodico.com/es/barcelona/20260702/movimiento-vecinal-celebra-primera-ley-amianto-ley-barcelona-sabadell-santa-coloma-132058050)<br>
+17:00 [El estrés crónico podría alterar la microbiota intestinal, acelerar el envejecimiento del sistema inmunitario y debilitar las defensas](https://www.elperiodico.com/es/sociedad/20260702/estres-cronico-microbiota-intestinal-envejecimiento-celular-defensas-sistema-inmunitario-132017565)<br>
+16:53 [Badalona contratará a más de 100 personas en paro para "mejorar los servicios y los espacios públicos"](https://www.elperiodico.com/es/barcelona/20260702/badalona-contratara-100-personas-paro-mejorar-servicios-espacios-publicos-132051512)<br>
+16:13 [El manifiesto del Congreso Mundial de Arquitectos de Barcelona: "La vivienda es un derecho, no una inversión"](https://www.elperiodico.com/es/ocio-y-cultura/20260702/manifiesto-declaracion-congreso-mundial-arquitectos-barcelona-2026-132051961)<br>
+16:08 [Cientos de evacuados por tres incendios forestales en el sur de Francia](https://www.elperiodico.com/es/sociedad/20260702/evacuados-incendios-forestales-sur-francia-132054932)<br>
+16:04 ['Los músicos': un drama ligero en torno a los egos de cuatro intérpretes](https://www.elperiodico.com/es/ocio-y-cultura/20260702/musicos-drama-ligero-torno-egos-132054895)<br>
 16:00 [Crítica de 'Magallanes': Lav Diaz dirige una ambiciosa y exigente aproximación a la figura del navegante portugués](https://www.elperiodico.com/es/ocio-y-cultura/20260702/critica-magallanes-lav-diaz-pelicula-estreno-132054514)<br>
 16:00 [Las fiscales del caso Leire contradicen a Marlaska y consideran que sí se presionó a la UCO](https://www.elperiodico.com/es/politica/20260702/fiscales-caso-leire-contradicen-marlaska-presiones-132055220)<br>
 15:57 [¿Quiénes son los lefebvristas o lefebvrianos? ¿Por qué la Fraternidad San Pío X ha provocado un cisma con el Vaticano?](https://www.elperiodico.com/es/sociedad/20260702/quienes-son-lefebvristas-lefebvrianos-cisma-iglesia-catolica-papa-leon-xiv-fraternidad-san-pio-x-132048289)<br>
@@ -89,6 +108,7 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 15:38 [Dónde están las llaves](https://www.elperiodico.com/es/opinion/20260702/llaves-articulo-juan-tallon-132053956)<br>
 15:30 [El pequeño Sorolla extraviado en Sevilla nació en una fábrica de conservas de Ayamonte](https://www.elperiodico.com/es/ocio-y-cultura/20260702/pequeno-sorolla-extraviado-sevilla-nacio-132054131)<br>
 15:30 [España, Portugal y Francia se reunirán el 6 de julio en París para impulsar las interconexiones eléctricas](https://www.elperiodico.com/es/economia/20260702/espana-portugal-francia-reuniran-6-julio-paris-interconexiones-electricas-132054141)<br>
+15:25 [La noche salvó a Jódar: remonta a Carreño y sigue vivo en Wimbledon](https://www.elperiodico.com/es/deportes/20260702/wimbledon-directo-rafa-jodar-pablo-132051585)<br>
 15:15 [El precio del euríbor hoy, 2 de julio: el índice vuelve a subir tras la ligera caída de ayer](https://www.elperiodico.com/es/economia/20260702/precio-euribor-hoy-2-julio-dv-132037410)<br>
 15:15 [José Manuel Felices, médico, desvela tres trucos para dormir mejor con calor: "Mantendrás el frescor en el cuerpo más tiempo"](https://www.elperiodico.com/es/vida-y-estilo/20260702/jose-manuel-felices-medico-revela-trucos-dormir-mejor-calor-dv-131858612)<br>
 14:59 [¿Cómo viven los venezolanos tras los terremotos? Así es el refugio de La Guaira](https://www.elperiodico.com/es/videos/internacional/venezolanos-terremotos-refugio-guaira/132053090.shtml)<br>
