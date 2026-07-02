@@ -1,5 +1,95 @@
 [
   {
+    "title": "Los mejores restaurantes para ir con niños en Barcelona: con arcades, videojuegos y hasta parque de bolas",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20260702/mejores-restaurantes-ninos-barcelona-arcades-videojuegos-parque-infantil-bolas-132020940",
+    "pubDate": "2026-07-02 07:00:27",
+    "category": "",
+    "description": "<h2>Respira. Se acabó lo de apostar a ciegas. En los siguientes restaurantes podrás ir con niños sin temor. Los hay con piscina de bolas, tobogán, videojuegos y arcades de carreras </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260630/calle-outlets-barcelona-chollazos-rebajas-131823992\" target=\"_blank\">La calle de los 'outlets' de Barcelona con chollazos en cada esquina</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las ventas de vehículos electrificados crecen un 39% el primer semestre",
+    "link": "https://www.elperiodico.com/es/motor/20260702/ventas-vehiculos-electrificados-crecen-primer-semestre-132020838",
+    "pubDate": "2026-07-02 07:00:26",
+    "category": "",
+    "description": "<h2>El sexto mes del año alcanza 32.542 ventas de vehículos electrificados (BEV + PHEV), con el 21,4% del mercado total</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Польща екстрадувала українця, який переховувався з 2017 року",
+    "link": "https://ua.korrespondent.net/world/4890950-polscha-ekstraduvala-ukraintsia-yakyi-perekhovuvavsia-z-2017-roku",
+    "pubDate": "2026-07-02 06:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476754.jpg\">Слідство інкримінує йому низку епізодів незаконного обігу наркотиків і спробу контрабанди.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала Дніпропетровщину дронами, є поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4890948-rf-atakuvala-dnipropetrovschynu-dronamy-ye-poraneni",
+    "pubDate": "2026-07-02 06:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476742.jpg\">Понад 20 разів російські війська атакували п'ять районів області безпілотниками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Спека до 37° і локальні грози: якою буде погода у четвер",
+    "link": "https://ua.korrespondent.net/ukraine/4890946-speka-do-37-i-lokalni-hrozy-yakoui-bude-pohoda-u-chetver",
+    "pubDate": "2026-07-02 06:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476741.jpg\">Атмосферний фронт із Європи принесе опади та зниження температури у західні регіони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Afectaciones al tráfico por el Tour de Francia 2026 en Barcelona, en directo: calles cortadas y última hora de las incidencias a la movilidad",
+    "link": "https://www.elperiodico.com/es/barcelona/20260702/tour-francia-2026-barcelona-afectaciones-movilidad-cortes-calles-trafico-ultima-hora-directo-131962428",
+    "pubDate": "2026-07-02 06:20:00",
+    "category": "",
+    "description": "<h2>La capital catalana afronta unos días de máxima presión en la movilidad por el Grand Départ, que se celebra por primera vez en Barcelona</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260629/barcelona-ceremonia-salida-tour-francia-2026-sagrada-familia-131923117#comments\" target=\"_blank\">Barcelona convertirá la salida del Tour de Francia 2026 en un gran espectáculo televisivo con la Sagrada Família como protagonista</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни спрямували дві ракети по Запоріжжю",
+    "link": "https://ua.korrespondent.net/ukraine/4890943-rosiiany-spriamuvaly-dvi-rakety-po-zaporizhzhui",
+    "pubDate": "2026-07-02 06:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476717.jpg\">Протягом доби ворожі війська завдали майже тисячу ударів по регіону, застосувавши ракети, авіацію, дрони та артилерію.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Карпати оформили повернення українського нападника в УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4890915-karpaty-oformyly-povernennia-ukrainskoho-napadnyka-v-upl",
+    "pubDate": "2026-07-02 06:13:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476729.jpg\">Керівництво зелено-білих домовилося про трансфер вихованця львівського футболу, повернувши його до виступів на батьківщині після закордонного етапу кар'єри.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Waynabox eleva sus ingresos hasta los 12 millones de euros en 2025 y mira hacia Europa para crecer",
+    "link": "https://www.elperiodico.com/es/economia/20260702/waynabox-eleva-ingresos-12-millones-2025-europa-131023486",
+    "pubDate": "2026-07-02 06:01:43",
+    "category": "",
+    "description": "<h2>La ambición principal de la plataforma es ganar peso en Italia y Francia, donde la empresa está presente pero con un negocio mucho menor al nacional</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260223/negocio-generan-startups-catalanas-dispara-127158516\" target=\"_blank\">Las 'startups' catalanas generan ya 3.000 millones de euros de negocio y 30.000 empleos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Austria mide la ambición de España",
+    "link": "https://www.elperiodico.com/es/deportes/20260702/austria-mide-ambicion-espana-132030537",
+    "pubDate": "2026-07-02 06:01:20",
+    "category": "",
+    "description": "<h2>Las dudas generadas en los partidos de grupo por los de De la Fuente deben resolverse porque ya no hay margen del error: cualquier derrota les manda a casa </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 92
+  },
+  {
     "title": "'Made in Europe', emisiones de CO2, electrificación, unión bancaria: Bruselas intenta acelerar las reformas para ganar competitividad frente a EEUU y China",
     "link": "https://www.elperiodico.com/es/internacional/20260702/union-europea-reformas-competitividad-emisiones-co2-electrificacion-132026643",
     "pubDate": "2026-07-02 06:01:05",
@@ -36,6 +126,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Удар по Києву: кількість загиблих різко зросла",
+    "link": "https://ua.korrespondent.net/city/kiev/4890941-udar-po-kyievu-kilkist-zahyblykh-rizko-zrosla",
+    "pubDate": "2026-07-02 06:01:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4476707.jpg\">Станом на зараз стало відомо вже про десять жертв російської атаки на столицю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Empieza el corte por obras del Trambesòs de Barcelona: estas son las alternativas de transporte",
     "link": "https://www.elperiodico.com/es/barcelona/20260702/empieza-corte-obras-trambesos-barcelona-132021273",
     "pubDate": "2026-07-02 06:00:54",
@@ -54,6 +153,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Gobierno y Supremo agudizan sus tensiones por la regularización de migrantes tras chocar por la amnistía y la condena al fiscal general",
+    "link": "https://www.elperiodico.com/es/politica/20260702/gobierno-supremo-tensiones-regularizacion-migrantes-132020826",
+    "pubDate": "2026-07-02 06:00:50",
+    "category": "",
+    "description": "<h2>Pese al mensaje de tranquilidad que trasmite Moncloa, la intención es resolver las solicitudes cuando antes y evitar así que se reviertan ante la posibilidad de que la justicia paralice el proceso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Tour de Pogacar y la ilusión francesa de Paul Seixas",
     "link": "https://www.elperiodico.com/es/deportes/20260702/tour-pogacar-ilusion-francesa-paul-seixas-132001041",
     "pubDate": "2026-07-02 06:00:47",
@@ -68,6 +176,15 @@
     "pubDate": "2026-07-02 06:00:46",
     "category": "",
     "description": "<h2 class=\"item\">Crece la oferta (y la demanda) de servicios para gestionar la muerte de los animales de compañía y hacer más llevadera su ausencia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260701/mascotas-vinculo-presupuesto-familias-gasto-euros-amor-131826085\" target=\"_blank\">El vínculo con las mascotas dispara el presupuesto familiar: \"Gasto más de 4.000 euros en mis perros, pero el amor que dan no tiene precio\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/terrasa/20260619/terrassa-primer-tanatorio-crematorio-mascotas-publico-131590487\" target=\"_blank\">Terrassa tendrá el primer tanatorio y crematorio público de mascotas de Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa aprueba hoy sus primeros presupuestos y se asegura la legislatura",
+    "link": "https://www.elperiodico.com/es/politica/20260702/salvador-illa-presupuestos-aprobacion-legislatura-catalunya-erc-comuns-132008214",
+    "pubDate": "2026-07-02 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El president de la Generalitat logrará, de la mano de ERC y de los Comuns, dejar atrás las cuentas de 2023 después de seis meses de intensas negociaciones </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260701/erc-salvador-illa-mossos-puertos-aeropuertos-financiacion-parlament-131996855\" target=\"_blank\">ERC exige a Illa que cumpla con la presencia de los Mossos en puertos y aeropuertos y que garantice la nueva financiación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260523/pacto-presupuestos-cataluna-illa-junqueras-comuns-intrahistoria-ministro-espana-juventudes-erc-130526511\" target=\"_blank\">Los 63 días que salvaron los presupuestos: de las citas con el ministro España a la reunión de Romero con las juventudes de ERC</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
