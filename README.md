@@ -1,8 +1,12 @@
-# News for 2026-07-02 21:13
+# News for 2026-07-02 22:15
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+21:55 [Ситуація в енергетиці: Шмигаль зробив важливу заяву](https://ua.korrespondent.net/ukraine/4891216-sytuatsiia-v-enerhetytsi-shmyhal-zrobyv-vazhlyvu-zaiavu)<br>
+21:39 [Москва просить бензин по світу: чи допоможе їй це](https://ua.korrespondent.net/world/russia/4891213-moskva-prosyt-benzyn-po-svitu-chy-dopomozhe-yii-tse)<br>
+21:31 [У Києві кількість загиблих через удар РФ зросла до 25](https://ua.korrespondent.net/city/kiev/4891211-u-kyievi-kilkist-zahyblykh-cherez-udar-rf-zrosla-do-25)<br>
+21:09 [Українські баскетболісти з перемогою над Грузією прямують далі у відборі ЧС](https://ua.korrespondent.net/sport/basketball/4891207-ukrainski-basketbolisty-z-peremohoui-nad-hruziieui-priamuuit-dali-u-vidbori-chs)<br>
 21:07 [Зеленський розповів про останні контакти зі США](https://ua.korrespondent.net/ukraine/4891206-zelenskyi-rozpoviv-pro-ostanni-kontakty-zi-ssha)<br>
 20:52 [У форматі Drone Deal підписані вже шість угод - Умєров](https://ua.korrespondent.net/ukraine/4891204-u-formati-Drone-Deal-pidpysani-vzhe-shist-uhod-umierov)<br>
 20:38 [Хакери зламали федеральну платформу обміну розвідданими США - ЗМІ](https://ua.korrespondent.net/world/4891202-khakery-zlamaly-federalnu-platformu-obminu-rozviddanymy-ssha-zmi)<br>
@@ -107,6 +111,8 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 00:36 [Зеленський запропонував Ірландії оборонну угоду](https://ua.korrespondent.net/ukraine/4890919-zelenskyi-zaproponuvav-irlandii-oboronnu-uhodu)<br>
 
 ## as.com
+21:38 [Chus Mateo: “Chapó por mis jugadores: se entregan a muerte”](https://as.com/baloncesto/mas_baloncesto/chus-mateo-chapo-por-mis-jugadores-se-entregan-a-muerte-f202607-n/)<br>
+21:12 [La debacle de Grecia mejora el camino de España al Mundial](https://as.com/baloncesto/mas_baloncesto/la-debacle-de-grecia-mejora-el-camino-de-espana-al-mundial-f202607-n/)<br>
 20:55 [Los viejos rockeros nunca mueren](https://as.com/baloncesto/mas_baloncesto/los-viejos-rockeros-nunca-mueren-f202607-n/)<br>
 19:33 [La Grada Solidaria de CaixaBank disfruta con España](https://as.com/baloncesto/mas_baloncesto/la-grada-solidaria-de-caixabank-disfruta-con-espana-f202607-n/)<br>
 18:22 [España - Dinamarca, en directo: Ventanas FIBA para el Mundial 2027 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/espana-dinamarca-en-directo-ventanas-fiba-para-el-mundial-2027-en-vivo-hoy-f202607-d/)<br>
@@ -119,6 +125,10 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 08:14 [Una concentración entre dos mundos: Dinamarca y el mercado](https://as.com/baloncesto/mas_baloncesto/una-concentracion-entre-dos-mundos-dinamarca-y-el-mercado-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:02 [Un corazón robótico revoluciona la investigación de enfermedades y dispositivos médicos que salvan vidas](https://www.elperiodico.com/es/tendencias21/20260702/corazon-robotico-revoluciona-investigacion-enfermedades-132067953)<br>
+21:59 [El incendio de Canet del Rosselló obliga a evacuar a 1.700 personas, con 9 heridos y 256 bungalows y una empresa quemados](https://www.elperiodico.com/es/sociedad/20260702/incendio-canet-rossello-obliga-evacuar-heridos-camping-empresa-quemados-132067368)<br>
+21:37 [Trump publica un vídeo con IA en el que "cura" a De Niro, Julia Roberts y otros famosos](https://www.elperiodico.com/es/videos/internacional/trump-video-ia-cura-sindrome-antitrump-famosos/132066851.shtml)<br>
+21:24 [La guerra de Ucrania ha causado más de dos millones de bajas, la mayoría de ellas en el bando ruso](https://www.elperiodico.com/es/internacional/20260702/guerra-ucrania-causado-millones-bajas-132066367)<br>
 19:23 [Illa logra los presupuestos y prepara su 'emancipación'](https://www.elperiodico.com/es/videos/politica/illa-logra-presupuestos-prepara-emancipacion/132064234.shtml)<br>
 19:19 [La Rambla de Barcelona se propone caminar hacia un modelo turístico que conviva con los vecinos](https://www.elperiodico.com/es/barcelona/20260702/rambla-barcelona-propone-caminar-modelo-turistico-convivencia-vecinos-132057632)<br>
 19:17 [Yolanda Díaz pide un acuerdo "de una vez por todas" para acabar con la corrupción](https://www.elperiodico.com/es/sociedad/20260702/yolanda-diaz-pide-acuerdo-vez-132064009)<br>
