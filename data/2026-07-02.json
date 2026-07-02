@@ -1,5 +1,68 @@
 [
   {
+    "title": "La vida de los otros: el fascinante rescate de la fotografía anónima",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260702/vida-fascinante-rescate-fotografia-anonima-bc-131963059",
+    "pubDate": "2026-07-02 23:59:54",
+    "category": "",
+    "description": "<h2>El Museu Palau Solterra inaugura una muestra con más de 300 imágenes domésticas de la colección de Jordi Baron, un viaje sociológico y sentimental por la intimidad oculta del siglo XX</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joan Dausà, después de las gestas, una montaña rusa entre la euforia y la sensiblería en el Barts Festival",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260702/joan-dausa-despues-gestas-montana-euforia-sensibleria-barts-festival-132070232",
+    "pubDate": "2026-07-02 23:58:44",
+    "category": "",
+    "description": "<h2>El cantante de Sant Feliu de Llobregat desplegó el cancionero de ‘Immortals’, con recogimiento y dinámicas rituales en el Poble Espanyol</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Montero tilda de \"vergonzoso\" el pacto PP-Vox: \"Por primera vez desde el franquismo, va a entrar la ultraderecha en un Gobierno andaluz\"",
+    "link": "https://www.elperiodico.com/es/politica/20260702/montero-tilda-vergonzoso-pacto-pp-132070242",
+    "pubDate": "2026-07-02 23:55:55",
+    "category": "",
+    "description": "<h2>La líder del PSOE reprocha el \"oscurantismo\" de un pacto que \"se ha fraguado en Madrid\" y del que ni siquiera conocían el contenido a la hora de la votación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Concierto de Joan Dausà en el Barts Festival, sobre el escenario del Poble Espanyol",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/concierto-joan-dausa-barts-festival-fotos-132070161",
+    "pubDate": "2026-07-02 23:54:18",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Захистить усю Європу: Україна і ФРН розробляє спільний захист від балістики",
+    "link": "https://ua.korrespondent.net/ukraine/4891228-zakhystyt-usui-yevropu-ukraina-i-frn-rozrobliaie-spilnyi-zakhyst-vid-balistyky",
+    "pubDate": "2026-07-02 23:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477602.jpg\">Зараз Європа не має власного захисту такого класу. Країни змушені купувати іноземні технології.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La alegría se llama España",
+    "link": "https://www.elperiodico.com/es/deportes/20260702/alegria-llama-espana-132069410",
+    "pubDate": "2026-07-02 23:19:37",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Кривому Розі \"приліт\" ракети: багато пошкоджень",
+    "link": "https://ua.korrespondent.net/ukraine/4891225-u-kryvomu-rozi-prylit-rakety-bahato-poshkodzhen",
+    "pubDate": "2026-07-02 23:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477567.jpg\">Щонайменше двоє людей були поранені. Пожежі вже загашені, але аварійно-рятувальна операція триває.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "España hace vía blindado en defensa y rompiendo un récord de Iker Casillas",
     "link": "https://www.elperiodico.com/es/deportes/20260702/blindados-defensa-contracronica-espana-austria-132068457",
     "pubDate": "2026-07-02 23:14:36",
@@ -59,6 +122,15 @@
     "pubDate": "2026-07-02 22:52:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477548.jpg\">Варшава хотіла виміняти свої зношені літаки на сучасні безпілотні технології, якими володіє Київ. Однак, через історично-політичні суперечки угода не відбулася.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Осліплення ворога. Удари по космічному звʼязку РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4891231-osliplennia-voroha-udary-po-kosmichnomu-zviazku-rf",
+    "pubDate": "2026-07-02 22:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477623.jpg\">Серія ударів по центрах космічного зв'язку Росії демонструє високий рівень планування та технологічну еволюцію українських операцій.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -135,6 +207,15 @@
     "topic_match_probability": 55
   },
   {
+    "title": "Дрони з танкерів. Як Росія слідкує за Заходом",
+    "link": "https://ua.korrespondent.net/ukraine/4891227-drony-z-tankeriv-yak-rosiia-slidkuie-za-zakhodom",
+    "pubDate": "2026-07-02 22:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477604.jpg\">Російські дрони систематично кружляли над об'єктами, що мають стратегічне значення, зокрема тими, де зберігається ядерна зброя або базуються сили стримування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El incendio de Canet del Rosselló obliga a evacuar a 1.700 personas, con 9 heridos y 256 bungalows y una empresa quemados",
     "link": "https://www.elperiodico.com/es/sociedad/20260702/incendio-canet-rossello-obliga-evacuar-heridos-camping-empresa-quemados-132067368",
     "pubDate": "2026-07-02 21:59:39",
@@ -178,6 +259,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477462.jpg\">Юніорська збірна України візьме участь у півфінальному матчі чемпіонату Європи 2026 року та отримала зелене світло на участь у чемпіонаті світу 2027 року після перемоги над сербами.",
     "topic": "спорт",
     "topic_match_probability": 98
+  },
+  {
+    "title": "Venezuela, 7 días después del sismo: continúan las  labores de rescate",
+    "link": "https://www.elperiodico.com/es/fotos/internacional/venezuela-7-dias-despues-sismo-132065692",
+    "pubDate": "2026-07-02 21:45:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Москва просить бензин по світу: чи допоможе їй це",
@@ -799,6 +889,15 @@
     "description": "<h2>La Diputación impulsa una programación estival que busca redescubrir el patrimonio arqueológico e histórico de la provincia</h2>",
     "topic": "qué hacer esta semana en Barcelona",
     "topic_match_probability": 65
+  },
+  {
+    "title": "El inicio del Tour de Francia por Barcelona",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/inicio-tour-francia-barcelona-fotos-132060700",
+    "pubDate": "2026-07-02 17:55:02",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "На саміті НАТО відбудеться зустріч щодо програми Freya - Зеленський",
