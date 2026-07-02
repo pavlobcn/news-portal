@@ -1,8 +1,10 @@
-# News for 2026-07-02 02:47
+# News for 2026-07-02 03:52
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+03:31 [Удар по Києву: зросла кількість потерпілих](https://ua.korrespondent.net/city/kiev/4890931-udar-po-kyievu-zrosla-kilkist-poterpilykh)<br>
+02:48 [РФ поцілила в підстанцію швидкої допомоги в Києві](https://ua.korrespondent.net/city/kiev/4890929-rf-potsilyla-v-pidstantsiui-shvydkoi-dopomohy-v-kyievi)<br>
 01:58 [Основною темою саміту НАТО буде посилення ППО України - ЗМІ](https://ua.korrespondent.net/world/worldabus/4890925-osnovnoui-temoui-samitu-nato-bude-posylennia-ppo-ukrainy-zmi)<br>
 01:29 [Росія атакувала Київ балістикою](https://ua.korrespondent.net/city/kiev/4890923-rosiia-atakuvala-kyiv-balistykoui)<br>
 00:58 [РФ ударила по домогосподарству в Харкові](https://ua.korrespondent.net/city/kharkov/4890921-rf-udaryla-po-domohospodarstvu-v-kharkovi)<br>
