@@ -1,9 +1,17 @@
-# News for 2026-07-02 14:59
+# News for 2026-07-02 16:02
 
 Previous day: [2026-07-01](./data/2026-07-01.md)
 
 ## ua.korrespondent.net
+15:55 [Інвестори збанкрутували на криптовалюті Трампа](https://ua.korrespondent.net/business/4891121-investory-zbankrutuvaly-na-kryptovaluiti-trampa)<br>
+15:54 [СБУ викрила мережу організаторів проплачених мітингів у ЄС](https://ua.korrespondent.net/ukraine/4891119-sbu-vykryla-merezhu-orhanizatoriv-proplachenykh-mitynhiv-u-yes)<br>
+15:50 [Трамп має намір встановити світовий рекорд із запуску феєрверків](https://ua.korrespondent.net/world/4891118-tramp-maie-namir-vstanovyty-svitovyi-rekord-iz-zapusku-feierverkiv)<br>
+15:37 [Генштаб: На фронті новий найгарячіший напрямок](https://ua.korrespondent.net/ukraine/4891113-henshtab-na-fronti-novyi-naihariachishyi-napriamok)<br>
+15:34 [У США бабуся вбила чотирьох онуків і власну доньку](https://ua.korrespondent.net/world/4891111-u-ssha-babusia-vbyla-chotyrokh-onukiv-i-vlasnu-donku)<br>
+15:15 [На Київщині затримали замовника вбивства своєї колишньої дружини](https://ua.korrespondent.net/ukraine/4891109-na-kyivschyni-zatrymaly-zamovnyka-vbyvstva-svoiei-kolyshnoi-druzhyny)<br>
+15:06 [У Кам'янці на Черкащині прибрали пам'ятник Пушкіну](https://ua.korrespondent.net/ukraine/4891105-u-kamiantsi-na-cherkaschyni-prybraly-pamiatnyk-pushkinu)<br>
 14:50 [Киргизстан просить у 5 країн допомоги у забезпеченні постачання палива](https://ua.korrespondent.net/world/4891098-kyrhyzstan-prosyt-u-5-krain-dopomohy-u-zabezpechenni-postachannia-palyva)<br>
+14:50 [Вікно можливостей: як Україні скористатися шансом, адже він не вічний](https://ua.korrespondent.net/articles/4891100-vikno-mozhlyvostei-yak-ukraini-skorystatysia-shansom-adzhe-vin-ne-vichnyi)<br>
 14:46 [Рекордна за 20 років кількість росіян заявила про падіння рівня життя](https://ua.korrespondent.net/world/russia/4891096-rekordna-za-20-rokiv-kilkist-rosiian-zaiavyla-pro-padinnia-rivnia-zhyttia)<br>
 14:27 [У Чехії закрили справу щодо "контрабанди" дронів до України](https://ua.korrespondent.net/world/4891091-u-chekhii-zakryly-spravu-schodo-kontrabandy-droniv-do-ukrainy)<br>
 14:19 [РФ вдарила по готелю з дипломатами в Києві: що відомо](https://ua.korrespondent.net/kyiv/4891089-rf-vdaryla-po-hotelui-z-dyplomatamy-v-kyievi-scho-vidomo)<br>
@@ -70,6 +78,20 @@ Previous day: [2026-07-01](./data/2026-07-01.md)
 08:14 [Una concentración entre dos mundos: Dinamarca y el mercado](https://as.com/baloncesto/mas_baloncesto/una-concentracion-entre-dos-mundos-dinamarca-y-el-mercado-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:00 [Crítica de 'Magallanes': Lav Diaz dirige una ambiciosa y exigente aproximación a la figura del navegante portugués](https://www.elperiodico.com/es/ocio-y-cultura/20260702/critica-magallanes-lav-diaz-pelicula-estreno-132054514)<br>
+16:00 [Las fiscales del caso Leire contradicen a Marlaska y consideran que sí se presionó a la UCO](https://www.elperiodico.com/es/politica/20260702/fiscales-caso-leire-contradicen-marlaska-presiones-132055220)<br>
+15:57 [¿Quiénes son los lefebvristas o lefebvrianos? ¿Por qué la Fraternidad San Pío X ha provocado un cisma con el Vaticano?](https://www.elperiodico.com/es/sociedad/20260702/quienes-son-lefebvristas-lefebvrianos-cisma-iglesia-catolica-papa-leon-xiv-fraternidad-san-pio-x-132048289)<br>
+15:52 [El Vaticano confirma la excomunión de los consagrantes y nuevos obispos lefebvrianos](https://www.elperiodico.com/es/videos/sociedad/vaticano-confirma-excomunion-consagrantes-nuevos/132054823.shtml)<br>
+15:51 [Contrastes](https://www.elperiodico.com/es/opinion/20260702/contrastes-selectividad-estudiantes-articulo-josep-maria-fonalleras-132054729)<br>
+15:43 [La visita de Delcy Rodríguez a los rescatistas internacionales: "Venimos a darles las gracias"](https://www.elperiodico.com/es/videos/internacional/delcy-rodriguez-rescatistas-internacionales-terremotos-venezuela/132054668.shtml)<br>
+15:42 [Toheed Sajjad, trabajador de la construcción accidentado](https://www.elperiodico.com/es/videos/sociedad/toheed-sajjad-trabajador-construccion-accidente-laboral/131731896.shtml)<br>
+15:41 [Rescatan a un superviviente de los terremotos tras ocho días bajo los escombros](https://www.elperiodico.com/es/internacional/20260702/rescatan-superviviente-terremotos-venezuela-ocho-dias-escombros-132054546)<br>
+15:38 [Dónde están las llaves](https://www.elperiodico.com/es/opinion/20260702/llaves-articulo-juan-tallon-132053956)<br>
+15:30 [El pequeño Sorolla extraviado en Sevilla nació en una fábrica de conservas de Ayamonte](https://www.elperiodico.com/es/ocio-y-cultura/20260702/pequeno-sorolla-extraviado-sevilla-nacio-132054131)<br>
+15:30 [España, Portugal y Francia se reunirán el 6 de julio en París para impulsar las interconexiones eléctricas](https://www.elperiodico.com/es/economia/20260702/espana-portugal-francia-reuniran-6-julio-paris-interconexiones-electricas-132054141)<br>
+15:15 [El precio del euríbor hoy, 2 de julio: el índice vuelve a subir tras la ligera caída de ayer](https://www.elperiodico.com/es/economia/20260702/precio-euribor-hoy-2-julio-dv-132037410)<br>
+15:15 [José Manuel Felices, médico, desvela tres trucos para dormir mejor con calor: "Mantendrás el frescor en el cuerpo más tiempo"](https://www.elperiodico.com/es/vida-y-estilo/20260702/jose-manuel-felices-medico-revela-trucos-dormir-mejor-calor-dv-131858612)<br>
+14:59 [¿Cómo viven los venezolanos tras los terremotos? Así es el refugio de La Guaira](https://www.elperiodico.com/es/videos/internacional/venezolanos-terremotos-refugio-guaira/132053090.shtml)<br>
 14:56 [Más de 1,17 millones de migrantes solicitan acogerse a la regularización extraordinaria impulsada por el Gobierno, duplicando las previsiones iniciales](https://www.elperiodico.com/es/videos/politica/1-17-millones-migrantes-solicitan/132052726.shtml)<br>
 14:47 ["Seremos el centro del mundo de la salud y del bienestar": el alcalde de L'Hospitalet reivindica el proyecto del futuro polo biomédico](https://www.elperiodico.com/es/barcelona/20260702/seremos-centro-mundo-salud-bienestar-alcalde-quiros-hospitalet-reivindica-futuro-polo-biomedico-132048830)<br>
 14:27 [Entra en vigor la polémica ley de unidad étnica en China en medio del temor de las minorías](https://www.elperiodico.com/es/internacional/20260702/polemica-ley-unidad-etnica-china-minorias-132051744)<br>
