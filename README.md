@@ -1,8 +1,12 @@
-# News for 2026-07-03 07:00
+# News for 2026-07-03 08:31
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+08:30 [Київ і Берлін обговорюють повернення чоловіків мобілізаційного віку](https://ua.korrespondent.net/world/4891277-kyiv-i-berlin-obhovoruiuit-povernennia-cholovikiv-mobilizatsiinoho-viku)<br>
+08:12 [РФ вночі атакувала ракетами й дронами: є влучання](https://ua.korrespondent.net/ukraine/4891274-rf-vnochi-atakuvala-raketamy-y-dronamy-ye-vluchannia)<br>
+07:45 [У Генштабі назвали найгарячіші напрямки фронту](https://ua.korrespondent.net/ukraine/4891272-u-henshtabi-nazvaly-naihariachishi-napriamky-frontu)<br>
+07:11 [Саудівська Аравія майже відновила довоєнний експорт нафти - ЗМІ](https://ua.korrespondent.net/business/economics/4891266-saudivska-araviia-maizhe-vidnovyla-dovoiennyi-eksport-nafty-zmi)<br>
 06:51 [У справі про вибух у Монако та замах на Єрмолаєва підозрюють жінку - ЗМІ](https://ua.korrespondent.net/world/4891263-u-spravi-pro-vybukh-u-monako-ta-zamakh-na-yermolaieva-pidozruiuit-zhinku-zmi)<br>
 06:26 [Генштаб назвав втрати Росії станом на 3 липня](https://ua.korrespondent.net/ukraine/4891258-henshtab-nazvav-vtraty-rosii-stanom-na-3-lypnia)<br>
 06:15 [Атака РФ на Київ: кількість жертв зросла до 30](https://ua.korrespondent.net/city/kiev/4891256-ataka-rf-na-kyiv-kilkist-zhertv-zrosla-do-30)<br>
@@ -17,7 +21,18 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 01:22 [МЗС Чехії про атаку на Київ: Найтемніше місце в пеклі тим, хто таке чинить](https://ua.korrespondent.net/ukraine/4891237-mzs-chekhii-pro-ataku-na-kyiv-naitemnishe-mistse-v-pekli-tym-khto-take-chynyt)<br>
 00:21 [Удар по Києву: число жертв продовжує зростати](https://ua.korrespondent.net/city/kiev/4891232-udar-po-kyievu-chyslo-zhertv-prodovzhuie-zrostaty)<br>
 
+## as.com
+07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
+
 ## www.elperiodico.com
+08:30 [Terremoto en Venezuela, en directo | Llegan los primeros 100 españoles procedentes de Venezuela tras los terremotos](https://www.elperiodico.com/es/internacional/20260703/terremoto-venezuela-directo-muertos-desaparecidos-131789417)<br>
+08:24 [Un hombre mata a su mujer y a una hija y hiere a otra en Alicante](https://www.elperiodico.com/es/videos/sucesos/hombre-mata-mujer-hija-hiere/132076622.shtml)<br>
+08:20 [DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE](https://www.elperiodico.com/es/politica/20260703/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522)<br>
+08:16 [Sara Aagesen ratifica la previsión de sacar la primera subasta de eólica marina este año: "Se hará donde tenga aceptación"](https://www.elperiodico.com/es/economia/20260703/sara-aagesen-ratifica-prevision-sacar-132076531)<br>
+08:05 [La Fundación Banco Sabadell premia a dos investigadores del genoma y la energía limpia](https://www.elperiodico.com/es/sociedad/20260703/fundacion-banco-sabadell-premia-investigadores-genoma-energia-limpia-132075880)<br>
+08:00 [La Administración online no convence: más del 40% de los españoles acaba en una oficina porque el trámite por Internet falla](https://www.elperiodico.com/es/economia/20260703/administracion-online-no-convence-40-por-ciento-acaba-oficina-132052249)<br>
+07:18 [Rodríguez defiende la respuesta del Estado venezolano frente al doble terremoto y refuerza relaciones con EEUU](https://www.elperiodico.com/es/internacional/20260703/rodriguez-defiende-respuesta-venezolano-frente-132075211)<br>
+07:13 [Asesinado a tiros un menor de 15 años en el parque de la Pegaso tras un ajuste de cuentas entre bandas juveniles](https://www.elperiodico.com/es/barcelona/20260703/asesinado-tiros-menor-sagrera-barcelona-bandas-latinas-parque-pegaso-132075111)<br>
 06:30 [Marcos López (18 años), premiado como mejor instalador joven: "Quiero ser electricista porque hay mucho futuro, tener una carrera ya no te asegura nada"](https://www.elperiodico.com/es/sociedad/20260703/marcos-lopez-mejor-instalador-joven-electricista-futuro-carrera-dv-130958485)<br>
 06:01 [El arquitecto paisajista Bas Smets urge a Barcelona a arrancar el asfalto del Fòrum: "Se pone a 50, incluso 60 grados"](https://www.elperiodico.com/es/ocio-y-cultura/20260703/congreso-mundial-arquitectos-barcelona-bas-smets-cambio-climatico-132061503)<br>
 06:00 [La ‘prioridad nacional’ de PP y Vox en las CCAA amenaza la recepción de fondos como los 500 millones del plan de integración](https://www.elperiodico.com/es/politica/20260703/prioridad-nacional-andalucia-amenaza-fondos-132061866)<br>
