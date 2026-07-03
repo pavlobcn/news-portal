@@ -1,8 +1,12 @@
-# News for 2026-07-03 20:20
+# News for 2026-07-03 21:23
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+20:57 [Україна ініціює міжнародне розслідування замаху у Монако](https://ua.korrespondent.net/ukraine/4891518-ukraina-initsiuiie-mizhnarodne-rozsliduvannia-zamakhu-u-monako)<br>
+20:34 [На окупованій ЗАЕС укотре стався блекаут](https://ua.korrespondent.net/ukraine/4891514-na-okupovanii-zaes-ukotre-stavsia-blekaut)<br>
+20:26 [Тисячі смертей. Європу чекає нова хвиля спеки](https://ua.korrespondent.net/world/4891509-tysiachi-smertei-yevropu-chekaie-nova-khvylia-speky)<br>
+20:21 [Кількість постраждалих у Запоріжжі зросла до 17](https://ua.korrespondent.net/city/zaporozhye/4891510-kilkist-postrazhdalykh-u-zaporizhzhi-zrosla-do-17)<br>
 20:03 [Бійцю Азову оголосили підозру через смерть побратима у полоні](https://ua.korrespondent.net/ukraine/4891507-biitsui-azovu-oholosyly-pidozru-cherez-smert-pobratyma-u-poloni)<br>
 19:53 [Поріг з чотирьох предметів здолали 85,1% учасників НМТ- Свириденко](https://ua.korrespondent.net/ukraine/4891504-porih-z-chotyrokh-predmetiv-zdolaly-851-uchasnykiv-nmt-svyrydenko)<br>
 19:34 [У тяжких злочинах проти власних дітей викрито трьох жінок](https://ua.korrespondent.net/ukraine/4891502-u-tiazhkykh-zlochynakh-proty-vlasnykh-ditei-vykryto-trokh-zhinok)<br>
@@ -104,6 +108,9 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:01 [Mueren dos hombres ahogados en las playas de Cunit y Vandellòs i l'Hospitalet de l'Infant](https://www.elperiodico.com/es/tarragona/20260703/mueren-dos-hombres-ahogados-playas-cunit-vandellos-hospitalet-infant-132107405)<br>
+20:29 [El rincón favorito de Anabel Pantoja (39 años) en Gran Canaria para desconectar: un pueblo pesquero, playas tranquilas y sol casi todo el año](https://www.elperiodico.com/es/gente/20260703/rincon-favorito-anabel-pantoja-gran-dv-132076912)<br>
+20:28 [La UME envía a 200 militares y 60 vehículos a Cataluña por los incendios forestales](https://www.elperiodico.com/es/videos/sucesos/ume-envia-200-militares-60/132107234.shtml)<br>
 20:03 [La Junta de Andalucía exigirá 10 años de residencia en España para comprar una VPO y se valorarán los vínculos familiares y sociales con Andalucía](https://www.elperiodico.com/es/economia/20260703/junta-andalucia-exigira-residencia-vivienda-espana-vpo-pacto-pp-vox-132106703)<br>
 19:58 [Detenido el operario que realizaba los trabajos con una radial por provocar el incendio de la Bisbal](https://www.elperiodico.com/es/videos/sucesos/detenido-operario-realizaba-trabajos-radial/132106460.shtml)<br>
 19:44 [Doble crimen machista en Alicante: la joven apuñalada por su padre evitó la muerte al refugiarse en el cuarto de baño](https://www.elperiodico.com/es/sucesos/20260703/doble-crimen-machista-alicante-joven-132106181)<br>
