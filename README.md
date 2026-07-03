@@ -1,8 +1,12 @@
-# News for 2026-07-03 08:31
+# News for 2026-07-03 09:31
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+09:24 [Машина з чиновниками підірвалася на міні у Курській області](https://ua.korrespondent.net/world/russia/4891288-mashyna-z-chynovnykamy-pidirvalasia-na-mini-u-kurskii-oblasti)<br>
+09:21 [Атаковано енергетику п'яти областей - Укренерго](https://ua.korrespondent.net/ukraine/4891286-atakovano-enerhetyku-piaty-oblastei-ukrenerho)<br>
+09:01 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)<br>
+08:50 [Росіяни вдарили по АЗС на Дніпропетровщині: є загиблий та поранені](https://ua.korrespondent.net/ukraine/4891281-rosiiany-vdaryly-po-azs-na-dnipropetrovschyni-ye-zahyblyi-ta-poraneni)<br>
 08:30 [Київ і Берлін обговорюють повернення чоловіків мобілізаційного віку](https://ua.korrespondent.net/world/4891277-kyiv-i-berlin-obhovoruiuit-povernennia-cholovikiv-mobilizatsiinoho-viku)<br>
 08:12 [РФ вночі атакувала ракетами й дронами: є влучання](https://ua.korrespondent.net/ukraine/4891274-rf-vnochi-atakuvala-raketamy-y-dronamy-ye-vluchannia)<br>
 07:45 [У Генштабі назвали найгарячіші напрямки фронту](https://ua.korrespondent.net/ukraine/4891272-u-henshtabi-nazvaly-naihariachishi-napriamky-frontu)<br>
@@ -18,6 +22,7 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 02:48 [Конгресмени США закликали дати Києву більше зброї](https://ua.korrespondent.net/ukraine/4891243-konhresmeny-ssha-zaklykaly-daty-kyievu-bilshe-zbroi)<br>
 02:23 [Байден-молодший потролив Трампа через війну в Ірані](https://ua.korrespondent.net/world/4891241-baiden-molodshyi-potrolyv-trampa-cherez-viinu-v-irani)<br>
 01:51 [РФ ударили по Сумщині: загинули дві жінки](https://ua.korrespondent.net/ukraine/4891239-rf-udaryly-po-sumschyni-zahynuly-dvi-zhinky)<br>
+01:51 [РФ ударила по Сумщині: загинули дві жінки](https://ua.korrespondent.net/ukraine/4891239-rf-udaryla-po-sumschyni-zahynuly-dvi-zhinky)<br>
 01:22 [МЗС Чехії про атаку на Київ: Найтемніше місце в пеклі тим, хто таке чинить](https://ua.korrespondent.net/ukraine/4891237-mzs-chekhii-pro-ataku-na-kyiv-naitemnishe-mistse-v-pekli-tym-khto-take-chynyt)<br>
 00:21 [Удар по Києву: число жертв продовжує зростати](https://ua.korrespondent.net/city/kiev/4891232-udar-po-kyievu-chyslo-zhertv-prodovzhuie-zrostaty)<br>
 
@@ -25,6 +30,19 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
 
 ## www.elperiodico.com
+09:30 [Álvaro González, de 23 años, estudió el grado de FP de Logística y Transporte y no le hizo falta buscar trabajo: "Me contrataron el mismo día en el que acabé las prácticas"](https://www.elperiodico.com/es/sociedad/20260703/alvaro-gonzalez-23-anos-grado-fp-logistica-transporte-trabajo-dv-132016522)<br>
+09:27 [María Oruña, en el vídeopodcast del suplemento 'ABRIL': "El periodo de investigación para mí es el más divertido"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260703/maria-oruna-videopodcast-suplemento-abril-131966515)<br>
+09:20 ['Onimusha: Way of the Sword' adelanta unas semanas sus planes de lanzamiento](https://www.elperiodico.com/es/videojuegos/20260703/onimusha-way-sword-fecha-lanzamiento-132077410)<br>
+09:18 [Doble terremoto en el Pacífico: un temblor de 6,4 se deja sentir en el sur de Japón y otro de 6,2 en el norte de Indonesia](https://www.elperiodico.com/es/internacional/20260703/doble-terremoto-pacifico-temblor-6-132077625)<br>
+09:16 [Una mujer de 85 años consigue jubilarse gracias al gesto de una joven que ya se ha hecho viral](https://www.elperiodico.com/es/vida-y-estilo/20260703/mujer-85-anos-jubilarse-gracias-joven-dv-132044474)<br>
+09:13 [Precio del petróleo hoy, 3 de julio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260703/precio-petroleo-hoy-3-julio-dv-132077441)<br>
+09:10 [Rubén Ariza, fontanero: "Se paga demasiado y hay muy poca ayuda al empresario"](https://www.elperiodico.com/es/economia/20260703/emprendedores-autonomos-cotizaciones-seguridad-social-fontanero-ruben-ariza-dv-131415945)<br>
+09:10 [La excepción que contempla la Ley de Propiedad Horizontal: hay vecinos que no están obligados a pagar una derrama aunque la obra sea aprobada](https://www.elperiodico.com/es/vivienda/20260703/ley-propiedad-horizontal-contempla-excepcion-vecinos-obligados-pagar-derrama-obra-aprobada-dv-131920862)<br>
+09:09 [El Govern prevé ejecutar al menos el 80% del presupuesto de 2026](https://www.elperiodico.com/es/politica/20260703/govern-presupuestos-alicia-romero-ejecucion-catalunya-financiacion-132077052)<br>
+09:07 [Precio de la gasolina y diésel hoy, 3 de julio en España por la Guerra de Irán: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20260703/precio-gasolina-diesel-hoy-3-julio-dv-132077219)<br>
+08:45 [Suben a 29 los españoles fallecidos en los terremotos de Venezuela](https://www.elperiodico.com/es/internacional/20260703/espanoles-desaparecidos-terremotos-venezuela-133-personas-131873927)<br>
+08:37 [Un hombre mata a su mujer y a una hija y hiere a otra en una partida rural de Alicante](https://www.elperiodico.com/es/videos/sucesos/hombre-mata-mujer-hija-hiere/132076874.shtml)<br>
+08:35 [El Cristo de Río de Janeiro rinde homenaje a las víctimas de los terremotos en Venezuela](https://www.elperiodico.com/es/videos/internacional/cristo-rio-janeiro-rinde-homenaje/132076767.shtml)<br>
 08:30 [Terremoto en Venezuela, en directo | Llegan los primeros 100 españoles procedentes de Venezuela tras los terremotos](https://www.elperiodico.com/es/internacional/20260703/terremoto-venezuela-directo-muertos-desaparecidos-131789417)<br>
 08:24 [Un hombre mata a su mujer y a una hija y hiere a otra en Alicante](https://www.elperiodico.com/es/videos/sucesos/hombre-mata-mujer-hija-hiere/132076622.shtml)<br>
 08:20 [DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE](https://www.elperiodico.com/es/politica/20260703/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522)<br>
