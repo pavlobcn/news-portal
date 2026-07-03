@@ -1,5 +1,203 @@
 [
   {
+    "title": "У справі про вибух у Монако та замах на Єрмолаєва підозрюють жінку - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4891263-u-spravi-pro-vybukh-u-monako-ta-zamakh-na-yermolaieva-pidozruiuit-zhinku-zmi",
+    "pubDate": "2026-07-03 06:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4478002.jpg\">Підозрювану оголошено в міжнародний розшук. За даними правоохоронців, вона перебуває в одній з країн Європи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marcos López (18 años), premiado como mejor instalador joven: \"Quiero ser electricista porque hay mucho futuro, tener una carrera ya no te asegura nada\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260703/marcos-lopez-mejor-instalador-joven-electricista-futuro-carrera-dv-130958485",
+    "pubDate": "2026-07-03 06:30:00",
+    "category": "",
+    "description": "<h2>Este estudiante de 18 años del Ciclo Superior de Sistemas Electrotécnicos y Automatizados en el instituto As Mariñas de Betanzos se impuso con el primer puesto del certamen organizado por la Asociación Provincial de Industriales Electricistas y Telecomunicaciones (Asinec) gracias a su trabajo y \"precisión\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 3 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4891258-henshtab-nazvav-vtraty-rosii-stanom-na-3-lypnia",
+    "pubDate": "2026-07-03 06:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477980.jpg\">Минулої доби ЗСУ ліквідували 1250 окупантів. Знищено чотири танка, дві бронемашини, 57 артсистем, дві РСЗВ, чотири засоби ППО, 18 НРК і 2152 БпЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Без інтриги: Іспанія впевнено розібралася з Австрією",
+    "link": "https://ua.korrespondent.net/sport/football/4891261-bez-intryhy-ispaniia-vpevneno-rozibralasia-z-avstriieui",
+    "pubDate": "2026-07-03 06:21:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477983.jpg\">Іспанці повністю контролювали хід зустрічі з перших хвилин і не залишили суперникам жодного шансу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака РФ на Київ: кількість жертв зросла до 30",
+    "link": "https://ua.korrespondent.net/city/kiev/4891256-ataka-rf-na-kyiv-kilkist-zhertv-zrosla-do-30",
+    "pubDate": "2026-07-03 06:15:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477953.jpg\">У Дарницькому районі досі триває розбір завалів та пошук людей. Рятувальники працюють безперервно.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El arquitecto paisajista Bas Smets urge a Barcelona a arrancar el asfalto del Fòrum: \"Se pone a 50, incluso 60 grados\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260703/congreso-mundial-arquitectos-barcelona-bas-smets-cambio-climatico-132061503",
+    "pubDate": "2026-07-03 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El belga, responsable de la reurbanización del entorno de Notre-Dame, donde está creando un microclima, es una de las figuras que han pasado por el Congreso Mundial de Arquitectos de Barcelona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Messi y Argentina reciben en su casa de Miami a Cabo Verde",
+    "link": "https://www.elperiodico.com/es/deportes/20260703/messi-argentina-reciben-casa-miami-132057284",
+    "pubDate": "2026-07-03 06:00:58",
+    "category": "",
+    "description": "<h2>Se prevé la llegada de 50.000 aficionados sin entrada en el único partido que jugará la albiceleste en el estado de Florida</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La ‘prioridad nacional’ de PP y Vox en las CCAA amenaza la recepción de fondos como los 500 millones del plan de integración",
+    "link": "https://www.elperiodico.com/es/politica/20260703/prioridad-nacional-andalucia-amenaza-fondos-132061866",
+    "pubDate": "2026-07-03 06:00:57",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ejecutivo central ya avanzó que recurrirá “todo lo que sea discriminatorio o suponga recortes de derechos\"</h2><h2 class=\"item\">Las comunidades cuentan con competencias clave para la política migratoria en materia de servicios sociales, sanidad, educación o vivienda </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Bye, bye, Mr. Marshall?",
+    "link": "https://www.elperiodico.com/es/opinion/20260703/bye-bye-mr-marshall-estados-unidos-articulo-anna-grau-132061707",
+    "pubDate": "2026-07-03 06:00:57",
+    "category": "",
+    "description": "<h2>Ha querido la providencia que el 250 aniversario de nuestro mayor objeto de deseo/odio haya caído en pleno 'trumpato', con lo cual ser antiUSA con chulería vuelve a estar de moda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno rebaja los requisitos de los avales para la compra de viviendas a jóvenes y familias tras su poco éxito",
+    "link": "https://www.elperiodico.com/es/economia/20260703/gobierno-requisitos-avalar-compra-vivienda-132060065",
+    "pubDate": "2026-07-03 06:00:54",
+    "category": "",
+    "description": "<h2>La medida, que buscaba facilitar hipotecas, apenas ha alcanzado el 10% de su objetivo inicial en el primer año</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las playas más erosionadas del área de Barcelona se quedan un verano más sin aportación extra de arena: \"Perdemos 750.000 euros cada año\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260703/area-barcelona-urge-solucion-playas-en-regresion-gobierno-descarta-reponer-arena-132016201",
+    "pubDate": "2026-07-03 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Los municipios más afectados exigen desencallar un plan que ponga remedio al desgaste de la franja marítima y ofrezca soluciones estructurales ante la negativa del Gobierno a reponer tierra en el litoral</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260520/amb-condiciona-inyeccion-20-millones-playas-area-barcelona-colaboracion-estado-generalitat-130410920\">El AMB insta a poner soluciones a la regresión de la costa y promete invertir 20 millones si la Generalitat y el Estado se implican en la elaboración de un plan</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Llega a Mercamadrid el primer autobús autónomo y a demanda de España",
+    "link": "https://www.elperiodico.com/es/motor/20260703/empieza-circular-mercamadrid-primer-autobus-autonomo-132011228",
+    "pubDate": "2026-07-03 06:00:50",
+    "category": "",
+    "description": "<h2>Una iniciativa pionera que sitúa a Madrid a la vanguardia de la movilidad sostenible internacional </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Estados Unidos cumple 250 años bajo la \"presidencia imperial\" de Donald Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260703/estados-unidos-250-anos-trump-andrew-jackson-132073785",
+    "pubDate": "2026-07-03 06:00:47",
+    "category": "",
+    "description": "<h2 class=\"item\">Expertos en historia de Estados Unidos señalan que se asemeja a Andrew Jackson: un populista de alta cuna que decía hablar en nombre del pueblo pero ejercía el poder con contundencia</h2><h2 class=\"item\">\"Trump tiene toques de Abraham Lincoln, Woodrow Wilson y Franklin Roosevelt. Todos ampliaron el poder del Ejecutivo\", argumenta Mitchell Lerner</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Inflación, absentismo, deuda y déficit: el cóctel 'macro' que frena a España",
+    "link": "https://www.elperiodico.com/es/economia/20260703/programada-epc-inflacion-absentismo-deuda-132055226",
+    "pubDate": "2026-07-03 06:00:45",
+    "category": "",
+    "description": "<h2>Las cuatro magnitudes ensombrecen el crecimiento económico del país, y los expertos coinciden en que por resolverlas pasará la sostenibilidad del boom macroeconómico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El 4 de julio de Trump: cómo convirtió la celebración nacional en una fiesta en su honor",
+    "link": "https://www.elperiodico.com/es/internacional/20260703/el-4-de-julio-de-trump-eeuu-cumple-250-anos-deriva-autoritaria-132073764",
+    "pubDate": "2026-07-03 06:00:45",
+    "category": "",
+    "description": "<h2>Los festejos del 250 aniversario exhiben una deriva partidista en la que los símbolos nacionales se mezclan con liderazgo personal, memoria histórica selectiva y lenguaje autocrático</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“De la emergencia nacional” de Escrivá al “no hay que construir a lo loco” de Rodríguez: la vivienda desangra al crecimiento de la economía española",
+    "link": "https://www.elperiodico.com/es/economia/20260703/emergencia-nacional-escriva-hay-construir-isabel-rodriguez-vivienda-132019940",
+    "pubDate": "2026-07-03 06:00:44",
+    "category": "",
+    "description": "<h2>La falta de vivienda asequible se convierte en el reverso del buen momento económico español: suben empleo y renta, pero también alquileres, hipotecas y precios de compra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la macro a la micro: por qué el crecimiento económico español no se nota en la calle",
+    "link": "https://www.elperiodico.com/es/economia/20260703/macro-micro-crecimiento-economico-espanol-no-se-nota-calle-132020143",
+    "pubDate": "2026-07-03 06:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La vivienda, la inflación acumulada y la menor renta per cápita explican por qué la bonanza aún no se traduce en alivio para muchos hogares</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anticorrupción suma indicios contra la directora de la Guardia Civil: encuentros y mensajes borrados con Leire Díez y silencio ante los mandos",
+    "link": "https://www.elperiodico.com/es/politica/20260703/anticorrupcion-suma-indicios-directora-guardia-civil-trama-leire-diez-132052248",
+    "pubDate": "2026-07-03 06:00:42",
+    "category": "",
+    "description": "<h2>El informe de las fiscales Elisa Lamelas y Mar Scharfhausen ha motivado la imputación de la responsable política del Instituto Armado, que deberá declarar el próximo día 16 en la Audiencia Nacional</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260702/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\" target=\"_blank\">DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mariana Mazzucato: \"La mayoría de empresas que se quejan de la burocracia solo quieren ganar más dinero y tener menos regulación\"",
+    "link": "https://www.elperiodico.com/es/economia/20260703/mariana-mazzucato-mayoria-empresas-quejan-buorcracia-dinero-regulacion-132041818",
+    "pubDate": "2026-07-03 06:00:40",
+    "category": "",
+    "description": "<h2>La catedrática de Economía de la Innovación y Valor Público en el University College de Londres y fundadora del Institute for Innovation and Public Purpose, visita Barcelona para dar una conferencia sobre  cultura en el Palau Macaya, de la Fundació \"la Caixa\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "10 cosas que los Emmy 2026 no deberían olvidar",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260703/apuestas-emmy-2026-mejor-drama-mejor-comedia-actores-132011077",
+    "pubDate": "2026-07-03 06:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Recordamos títulos y nombres propios que deberían sonar en el anuncio de las nominaciones a los Emmy del próximo miércoles</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251105/serie-creador-breaking-bad-entrevista-123343038\">El creador de 'Breaking bad' nos explica 'Pluribus', el gran acontecimiento seriéfilo de lo que queda de 2025</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260428/maldicion-widows-bay-apple-tv-129613702\">'La maldición de Widow's Bay' (Apple TV): esta comedia de terror con Matthew Rhys no es ninguna broma</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mercè Torrentallé, activista en primera persona: \"¿Quién educa mientras miramos las pantallas?\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260703/merce-torrentalle-activista-primera-persona-131510907",
+    "pubDate": "2026-07-03 06:00:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Hay padres y madres presentes físicamente, pero ausentes emocionalmente</h2><h2 class=\"item\">Nos preocupamos de que nuestros hijos tengan los mejores juguetes, pero ¿qué valores les transmitimos?</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 02.07: Атака на Київ і рекордні втрати РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4891159-pidsumky-0207-ataka-na-kyiv-i-rekordni-vtraty-rf",
+    "pubDate": "2026-07-03 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4477918.jpg\">РФ атакувала балістикою Київ: десятки жертв; Втрати РФ у війні зросли до 8:1 на користь України. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Afectaciones al tráfico por el Tour de Francia 2026 en Barcelona, en directo: calles cortadas y última hora de las incidencias a la movilidad",
     "link": "https://www.elperiodico.com/es/barcelona/20260703/tour-francia-2026-barcelona-afectaciones-movilidad-cortes-calles-trafico-ultima-hora-directo-131962428",
     "pubDate": "2026-07-03 05:50:00",
