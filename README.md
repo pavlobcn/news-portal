@@ -1,8 +1,13 @@
-# News for 2026-07-03 16:51
+# News for 2026-07-03 17:51
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+17:27 [Генералу РФ заочно повідомлено про підозру - СБУ](https://ua.korrespondent.net/ukraine/4891469-heneralu-rf-zaochno-povidomleno-pro-pidozru-sbu)<br>
+17:24 [Генштаб підтвердив знищення мостів на ТОТ](https://ua.korrespondent.net/ukraine/4891467-henshtab-pidtverdyv-znyschennia-mostiv-na-tot)<br>
+17:13 [З окупованої Херсонщини повернули п’ятьох дітей](https://ua.korrespondent.net/ukraine/4891465-z-okupovanoi-khersonschyny-povernuly-piatokh-ditei)<br>
+16:59 [У Путіна рекордне падіння рейтингу за вісім років](https://ua.korrespondent.net/world/russia/4891458-u-putina-rekordne-padinnia-reitynhu-za-visim-rokiv)<br>
+16:59 [В Європі змирилися, що Ормуз стане платним - ЗМІ](https://ua.korrespondent.net/world/4891460-v-yevropi-zmyrylysia-scho-ormuz-stane-platnym-zmi)<br>
 16:44 [Росія готується імпортувати авіапальне з Японії - ЗМІ](https://ua.korrespondent.net/business/economics/4891456-rosiia-hotuietsia-importuvaty-aviapalne-z-yaponii-zmi)<br>
 16:37 [Автономна версія "Молнії": наші рої дронів проти підробки з РФ](https://ua.korrespondent.net/articles/4891454-avtonomna-versiia-molnii-nashi-roi-droniv-proty-pidrobky-z-rf)<br>
 16:26 [Українцям почали виплачувати Нацкешбек за квітень](https://ua.korrespondent.net/ukraine/4891450-ukraintsiam-pochaly-vyplachuvaty-natskeshbek-za-kviten)<br>
@@ -86,6 +91,19 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:40 [El incendio de la Bisbal entra en las Gavarres y ya afecta a 1000 hectáreas y avanza sin control](https://www.elperiodico.com/es/videos/sucesos/incendio-bisbal-entra-gavarres-afecta/132100602.shtml)<br>
+17:34 [Barcelona ya es Venecia](https://www.elperiodico.com/es/opinion/20260703/barcelona-venecia-turismo-delincuencia-articulo-ernest-folch-132100540)<br>
+17:30 [De la guerra civil al asalto al Capitolio: Los 10 momentos que más han marcado los 250 años de historia de Estados Unidos](https://www.elperiodico.com/es/internacional/20260703/momentos-clave-250-anos-estados-unidos-trump-independencia-constitucion-obama-132100879)<br>
+17:30 [Los samuráis que visitaron Montserrat hace más de 400 años](https://www.elperiodico.com/es/ocio-y-cultura/20260703/samurais-maravillaron-montserrat-400-anos-dv-131896326)<br>
+17:25 [Barcelona da luz verde al nuevo barrio del Sector Prim con más de 2.000 viviendas públicas](https://www.elperiodico.com/es/barcelona/20260703/barcelona-da-luz-verde-nuevo-132099955)<br>
+17:21 [Hacienda abre una inspección fiscal a Zapatero, su mujer y sus hijas](https://www.elperiodico.com/es/politica/20260703/hacienda-abre-inspeccion-fiscal-zapatero-132100452)<br>
+17:15 [Así es la tirolina doble más larga de Catalunya: un kilómetro de recorrido, un descenso a 130 kilómetros por hora y las mejores vistas del Pirineo](https://www.elperiodico.com/es/sociedad/20260703/tirolina-doble-larga-catalunya-kilometro-recorrido-velocidad-mejores-vistas-pirineo-dv-131903422)<br>
+17:09 [La invasión sutil de los fondos de inversión (II)](https://www.elperiodico.com/es/opinion/20260703/invasion-sutil-fondos-inversion-ii-articulo-miquel-barcelo-roca-132099327)<br>
+17:08 [El pasillo de conexión entre la L1 y L3 del metro en plaza Catalunya cerrará durante dos meses](https://www.elperiodico.com/es/barcelona/20260703/pasillo-conexion-l1-l3-metro-barcelona-cierra-obras-132099566)<br>
+17:08 [Declaraciones de Salvador Illa](https://www.elperiodico.com/es/videos/politica/declaraciones-salvador-illa-video/132099260.shtml)<br>
+17:05 [BBVA recauda en 48 horas más de un millón de euros entre clientes y empleados como ayuda humanitaria para Venezuela](https://www.elperiodico.com/es/economia/20260703/bbva-recauda-48-horas-millon-132099704)<br>
+17:00 [El misterio de Tunguska: la explosión que arrasó Siberia sin dejar cráter](https://www.elperiodico.com/es/sociedad/20260703/misterio-tunguska-explosion-arraso-siberia-dv-132047511)<br>
+16:57 [El psiquiatra que atendió a los Andic no estaba de acuerdo en centrar la terapia en la herencia en vida](https://www.elperiodico.com/es/sociedad/20260703/psiquiatra-isak-jonathan-andic-mango-discrepancia-terapeuta-centrar-tratamiento-herencia-en-vida-132098787)<br>
 16:50 [¿Subes o bajas?](https://www.elperiodico.com/es/opinion/20260703/subes-o-bajas-profecias-de-futuro-articulo-usoa-arregui-132097506)<br>
 16:49 [Ya lo hicimos antes, por Enrique Ballester](https://www.elperiodico.com/es/deportes/20260703/ya-lo-hicimos-antes-enrique-ballester-barraca-y-tangana-132098828)<br>
 16:47 [Alejandro Sáez, experto de la Organización Meteorológica Mundial: "En 20 años, quizá recordaremos este verano como uno de los más fríos"](https://www.elperiodico.com/es/tiempo/20260703/verano-calor-extremo-anual-opinion-meteorologo-alejandro-saez-experto-dv-132081999)<br>
