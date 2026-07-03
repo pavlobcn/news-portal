@@ -1,8 +1,12 @@
-# News for 2026-07-03 19:10
+# News for 2026-07-03 20:20
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+20:03 [Бійцю Азову оголосили підозру через смерть побратима у полоні](https://ua.korrespondent.net/ukraine/4891507-biitsui-azovu-oholosyly-pidozru-cherez-smert-pobratyma-u-poloni)<br>
+19:53 [Поріг з чотирьох предметів здолали 85,1% учасників НМТ- Свириденко](https://ua.korrespondent.net/ukraine/4891504-porih-z-chotyrokh-predmetiv-zdolaly-851-uchasnykiv-nmt-svyrydenko)<br>
+19:34 [У тяжких злочинах проти власних дітей викрито трьох жінок](https://ua.korrespondent.net/ukraine/4891502-u-tiazhkykh-zlochynakh-proty-vlasnykh-ditei-vykryto-trokh-zhinok)<br>
+19:23 [Черги до російських заправок потрапили на супутникові знімки](https://ua.korrespondent.net/world/russia/4891500-cherhy-do-rosiiskykh-zapravok-potrapyly-na-suputnykovi-znimky)<br>
 19:03 [В Росії зупинив роботу стратегічний НПЗ - ЗМІ](https://ua.korrespondent.net/world/4891497-v-rosii-zupynyv-robotu-stratehichnyi-npz-zmi)<br>
 18:52 [Затверджено порядок логістики іноземних добровольців для приєднання до ЗСУ](https://ua.korrespondent.net/ukraine/4891495-zatverdzheno-poriadok-lohistyky-inozemnykh-dobrovoltsiv-dlia-pryiednannia-do-zsu)<br>
 18:34 [Укренерго визначилось щодо відключень у суботу](https://ua.korrespondent.net/ukraine/4891491-ukrenerho-vyznachylos-schodo-vidkluichen-u-subotu)<br>
@@ -100,6 +104,15 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:03 [La Junta de Andalucía exigirá 10 años de residencia en España para comprar una VPO y se valorarán los vínculos familiares y sociales con Andalucía](https://www.elperiodico.com/es/economia/20260703/junta-andalucia-exigira-residencia-vivienda-espana-vpo-pacto-pp-vox-132106703)<br>
+19:58 [Detenido el operario que realizaba los trabajos con una radial por provocar el incendio de la Bisbal](https://www.elperiodico.com/es/videos/sucesos/detenido-operario-realizaba-trabajos-radial/132106460.shtml)<br>
+19:44 [Doble crimen machista en Alicante: la joven apuñalada por su padre evitó la muerte al refugiarse en el cuarto de baño](https://www.elperiodico.com/es/sucesos/20260703/doble-crimen-machista-alicante-joven-132106181)<br>
+19:30 [Aumenta el negocio de alquilar una piscina privada por horas: ingresos de hasta 5.000 euros por temporada](https://www.elperiodico.com/es/sociedad/20260703/crece-negocio-alquilar-piscina-privada-ingresos-5000-euros-verano-dv-131939682)<br>
+19:21 [León XIV dice que la palabra "América" se ha convertido en sinónimo de libertad gracias a los migrantes, en otro recado implícito a Trump](https://www.elperiodico.com/es/internacional/20260703/leon-xiv-dice-palabra-america-sinonimo-libertad-migrantes-recado-trump-132105518)<br>
+19:14 [Así es el McDonald's convertido en hospital tras los terremotos en Venezuela](https://www.elperiodico.com/es/videos/internacional/mcdonalds-convertido-hospital-terremotos-venezuela/132105190.shtml)<br>
+19:13 [Estados Unidos, tras 250 años](https://www.elperiodico.com/es/opinion/20260703/estados-unidos-250-anos-editorial-132104820)<br>
+19:11 [Detenido el operario que realizaba los trabajos con una radial por provocar el incendio de la Bisbal](https://www.elperiodico.com/es/sucesos/20260703/detenido-operario-realizaba-trabajos-radial-detenido-mossos-132104848)<br>
+19:10 [Los psicólogos coinciden: escribir a mano las fechas ayuda a recordarlas mejor](https://www.elperiodico.com/es/ser-feliz/20260703/escribir-mano-memoria-calendario-psicologia-dv-131410738)<br>
 19:00 [Mudarse a una urbanización de lujo para convivir con un ruido "insoportable" que ya le ha costado una multa de 20.000 euros a Telefónica](https://www.elperiodico.com/es/sociedad/20260703/mudarse-urbanizacion-lujo-convivir-ruido-insoportable-multa-telefonica-dv-132084016)<br>
 18:54 [Más de un centenar de desalojados, pendientes de la evolución del incendio desde el espacio habilitado en Santa Cristina d'Aro](https://www.elperiodico.com/es/sociedad/20260703/centenar-desalojados-pendientes-evolucion-incendio-santa-cristina-aro-132104219)<br>
 18:49 [Una bicicleta inteligente sabe cuándo quieres girar y cuándo puedes caerte](https://www.elperiodico.com/es/tendencias21/20260703/bicicleta-inteligente-quieres-girar-puedes-132104311)<br>
