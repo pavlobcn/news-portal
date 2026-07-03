@@ -1,8 +1,16 @@
-# News for 2026-07-03 17:51
+# News for 2026-07-03 19:10
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+19:03 [В Росії зупинив роботу стратегічний НПЗ - ЗМІ](https://ua.korrespondent.net/world/4891497-v-rosii-zupynyv-robotu-stratehichnyi-npz-zmi)<br>
+18:52 [Затверджено порядок логістики іноземних добровольців для приєднання до ЗСУ](https://ua.korrespondent.net/ukraine/4891495-zatverdzheno-poriadok-lohistyky-inozemnykh-dobrovoltsiv-dlia-pryiednannia-do-zsu)<br>
+18:34 [Укренерго визначилось щодо відключень у суботу](https://ua.korrespondent.net/ukraine/4891491-ukrenerho-vyznachylos-schodo-vidkluichen-u-subotu)<br>
+18:34 [Удари по Дніпропетровщині: троє загиблих, дванадцять поранених](https://ua.korrespondent.net/ukraine/4891492-udary-po-dnipropetrovschyni-troie-zahyblykh-dvanadtsiat-poranenykh)<br>
+18:08 [Дефіцит бензину назвали "корисним" для росіян](https://ua.korrespondent.net/world/russia/4891485-defitsyt-benzynu-nazvaly-korysnym-dlia-rosiian)<br>
+18:06 [Зеленський заявив про важливе досягнення України](https://ua.korrespondent.net/ukraine/4891484-zelenskyi-zaiavyv-pro-vazhlyve-dosiahnennia-ukrainy)<br>
+17:51 [Польщі запропоновано "антикризові кроки" - Сибіга](https://ua.korrespondent.net/ukraine/4891476-polschi-zaproponovano-antykryzovi-kroky-sybiha)<br>
+17:47 [Російські КАБи атакували Запоріжжя, є загиблі](https://ua.korrespondent.net/city/zaporozhye/4891475-rosiiski-kaby-atakuvaly-zaporizhzhia-ye-zahybli)<br>
 17:27 [Генералу РФ заочно повідомлено про підозру - СБУ](https://ua.korrespondent.net/ukraine/4891469-heneralu-rf-zaochno-povidomleno-pro-pidozru-sbu)<br>
 17:24 [Генштаб підтвердив знищення мостів на ТОТ](https://ua.korrespondent.net/ukraine/4891467-henshtab-pidtverdyv-znyschennia-mostiv-na-tot)<br>
 17:13 [З окупованої Херсонщини повернули п’ятьох дітей](https://ua.korrespondent.net/ukraine/4891465-z-okupovanoi-khersonschyny-povernuly-piatokh-ditei)<br>
@@ -83,6 +91,7 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 00:21 [Удар по Києву: число жертв продовжує зростати](https://ua.korrespondent.net/city/kiev/4891232-udar-po-kyievu-chyslo-zhertv-prodovzhuie-zrostaty)<br>
 
 ## as.com
+18:44 [Pradilla se desvincula del Valencia... rumbo al Real Madrid](https://as.com/baloncesto/acb/pradilla-se-desvincula-del-valencia-rumbo-al-real-madrid-f202607-n/)<br>
 16:01 [La políticamente correcta despedida del Valencia Basket a Pedro Martínez](https://as.com/baloncesto/la-politicamente-correcta-despedida-del-valencia-basket-a-pedro-martinez-f202607-n/)<br>
 14:35 [El Unicaja corta a Emir Sulejmanovic](https://as.com/baloncesto/el-unicaja-corta-a-emir-sulejmanovic-f202607-n/)<br>
 14:28 [TLC y Bonga, cerca del Barça](https://as.com/baloncesto/acb/tlc-y-bonga-cerca-del-barca-f202607-n/)<br>
@@ -91,6 +100,16 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:00 [Mudarse a una urbanización de lujo para convivir con un ruido "insoportable" que ya le ha costado una multa de 20.000 euros a Telefónica](https://www.elperiodico.com/es/sociedad/20260703/mudarse-urbanizacion-lujo-convivir-ruido-insoportable-multa-telefonica-dv-132084016)<br>
+18:54 [Más de un centenar de desalojados, pendientes de la evolución del incendio desde el espacio habilitado en Santa Cristina d'Aro](https://www.elperiodico.com/es/sociedad/20260703/centenar-desalojados-pendientes-evolucion-incendio-santa-cristina-aro-132104219)<br>
+18:49 [Una bicicleta inteligente sabe cuándo quieres girar y cuándo puedes caerte](https://www.elperiodico.com/es/tendencias21/20260703/bicicleta-inteligente-quieres-girar-puedes-132104311)<br>
+18:49 [Cinco menores detenidos por una agresión homófoba en Mataró](https://www.elperiodico.com/es/sucesos/20260703/cinco-menores-detenidos-agresion-homofoba-mataro-132103978)<br>
+18:30 [La advertencia de Laura Lobo, abogada, si no quieres que tus hijos vean a la nueva pareja de tu ex](https://www.elperiodico.com/es/economia/20260703/advertencia-abogada-laura-lobo-divorcio-hijos-dv-131812894)<br>
+18:29 [El Govern impulsa el catalán en las cárceles: "Hablarlo nos abre puertas"](https://www.elperiodico.com/es/politica/20260703/catalan-carcel-presos-funcionarios-cataluna-132089408)<br>
+18:22 [Los Bomberos alertan de que es 'importantísimo' cerrar el flanco derecho del incendio para controlarlo](https://www.elperiodico.com/es/videos/sucesos/proteccio-civil-pide-desplazarse-barcelona/132102878.shtml)<br>
+18:12 [Álvaro (39 años) dejó la ciudad para salvar el pueblo perdido de su padre: "Mi objetivo es mantener la zona y la carretera de acceso"](https://www.elperiodico.com/es/economia/20260703/alvaro-salvar-pueblo-familia-asturias-dv-132097624)<br>
+18:10 [El encantador pueblo a tan solo 15 minutos de Santa Coloma de Gramenet para los amantes de la naturaleza](https://www.elperiodico.com/es/barcelona/santa-coloma/20260703/tiana-pueblo-cuento-cerca-santa-coloma-de-gramenet-dv-loc-109287809)<br>
+17:52 [¿La soledad internacional de España?](https://www.elperiodico.com/es/opinion/20260703/soledad-internacional-espana-articulo-bernardo-navazo-132101199)<br>
 17:40 [El incendio de la Bisbal entra en las Gavarres y ya afecta a 1000 hectáreas y avanza sin control](https://www.elperiodico.com/es/videos/sucesos/incendio-bisbal-entra-gavarres-afecta/132100602.shtml)<br>
 17:34 [Barcelona ya es Venecia](https://www.elperiodico.com/es/opinion/20260703/barcelona-venecia-turismo-delincuencia-articulo-ernest-folch-132100540)<br>
 17:30 [De la guerra civil al asalto al Capitolio: Los 10 momentos que más han marcado los 250 años de historia de Estados Unidos](https://www.elperiodico.com/es/internacional/20260703/momentos-clave-250-anos-estados-unidos-trump-independencia-constitucion-obama-132100879)<br>
@@ -133,6 +152,7 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 14:32 [Sara Carbonero (42 años), exmujer de Iker Casillas: "El padre de mis hijos es de un pueblo, de 100 habitantes, una aldea, directamente. Y a mis hijos les gusta mucho"](https://www.elperiodico.com/es/videos/sociedad/sara-carbonero-iker-casillas-pueblo/132093060.shtml)<br>
 14:29 [Sarah y Judith Andic sostienen ante la jueza que Jonathan acordó con su padre  dejar de ser ejecutivo de Mango](https://www.elperiodico.com/es/sociedad/20260703/hermanas-jonathan-andic-jueza-martorell-mango-132090499)<br>
 14:28 [Delcy Rodríguez visita a Hernan el hombre rescatado con vida 8 días después de los terremotos que azotaron Venezuela](https://www.elperiodico.com/es/videos/internacional/delcy-rodriguez-visita-hernan-hombre/132092793.shtml)<br>
+14:08 [Juanma Moreno se compromete a no acoger más menores inmigrantes, recortar a ONG y limitar el acceso a ayudas sociales a través de la prioridad nacional](https://www.elperiodico.com/es/politica/20260703/juanma-moreno-menores-inmigrantes-ong-ayudas-sociales-prioridad-nacional-132091719)<br>
 14:00 [¿Puede tu casero quedarse con la fianza para pintar el piso? El abogado Alberto Sánchez lo aclara](https://www.elperiodico.com/es/economia/20260703/devolucion-de-la-fianza-piso-alquiler-propietarios-inquilinos-dv-132043498)<br>
 13:49 [Badalona invertirá más de medio millón de euros en climatizar cinco escuelas infantiles y dotar de sombras a otros 25 centros de primaria](https://www.elperiodico.com/es/barcelona/20260703/badalona-invertira-medio-millon-euros-climatizar-escuelas-infantiles-sombras-escuelas-primaria-132088674)<br>
 13:31 [La gestión del talento:el gran desafío de la IA](https://www.elperiodico.com/es/economia/20260703/gestion-talento-gran-desafio-ia-bc-132089730)<br>
@@ -144,6 +164,7 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 12:01 [La Indra de Simón y Recasens trabaja para acelerar las entregas y desatascar la alianza con Santa Bárbara](https://www.elperiodico.com/es/economia/20260703/indra-simon-recasens-trabaja-acelerar-132067164)<br>
 11:50 [El número dos de la SEPI defiende ante el juez reuniones con Air Europa antes del rescate de la compañía](https://www.elperiodico.com/es/politica/20260703/numero-dos-vicepresidente-sepi-comparece-juez-rescate-air-europa-132084101)<br>
 11:46 [Desvío de fondos, comercialización de muestras humanas y acoso laboral: claves de la denuncia contra el Institut Josep Carreras](https://www.elperiodico.com/es/sociedad/20260703/institut-josep-carreras-manel-esteller-claves-denuncia-desvios-fondos-comercializacion-muestras-humanas-acoso-laboral-131856184)<br>
+11:45 [El Institut Josep Carreras despidió a dos cargos protegidos por la ley que denunciaron desvíos de fondos y otras irregularidades](https://www.elperiodico.com/es/sociedad/20260703/institut-josep-carreras-despidos-altos-cargos-denunciaron-desvio-fondos-manel-esteller-131934937)<br>
 11:34 ["Yo mismo compré el casco que me salvó la vida": La historia de Toheed Sajjad, el obrero obligado a trabajar sin contrato que quedó en silla de ruedas](https://www.elperiodico.com/es/economia/20260703/accidente-laboral-inmigrante-sin-contrato-silla-de-ruedas-incapacidad-132054409)<br>
 11:30 [La investigación fetal avanza en Barcelona: la oveja Gaia, nacida prematura y criada en una placenta artificial, tiene ya 13 meses: "Es un proyecto disruptivo"](https://www.elperiodico.com/es/sanidad/20260703/placenta-artificial-sant-joan-deu-clinic-logra-supervivencia-modelo-ovino-prematuro-extremo-132044855)<br>
 11:19 [La Seguridad Social informa por carta de las ventajas de retrasar la jubilación: subida del 4% en la pensión por cada año de demora](https://www.elperiodico.com/es/economia/20260703/seguridad-social-informa-carta-ventajas-retrasar-jubilacion-dv-132080998)<br>
