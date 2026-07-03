@@ -1,11 +1,19 @@
-# News for 2026-07-03 15:51
+# News for 2026-07-03 16:51
 
 Previous day: [2026-07-02](./data/2026-07-02.md)
 
 ## ua.korrespondent.net
+16:44 [Росія готується імпортувати авіапальне з Японії - ЗМІ](https://ua.korrespondent.net/business/economics/4891456-rosiia-hotuietsia-importuvaty-aviapalne-z-yaponii-zmi)<br>
+16:37 [Автономна версія "Молнії": наші рої дронів проти підробки з РФ](https://ua.korrespondent.net/articles/4891454-avtonomna-versiia-molnii-nashi-roi-droniv-proty-pidrobky-z-rf)<br>
+16:26 [Українцям почали виплачувати Нацкешбек за квітень](https://ua.korrespondent.net/ukraine/4891450-ukraintsiam-pochaly-vyplachuvaty-natskeshbek-za-kviten)<br>
+16:24 [Спецтрибунал для Росії: в ОП заявили про важливе рішення Нідерландів](https://ua.korrespondent.net/ukraine/4891448-spetstrybunal-dlia-rosii-v-op-zaiavyly-pro-vazhlyve-rishennia-niderlandiv)<br>
+16:06 [Україна відповіла Румунії щодо інциденту з морським дроном](https://ua.korrespondent.net/world/4891446-ukraina-vidpovila-rumunii-schodo-intsydentu-z-morskym-dronom)<br>
+15:59 [На Сумщині арештували підозрюваного у зґвалтуванні малолітньої падчерки](https://ua.korrespondent.net/ukraine/4891443-na-sumschyni-areshtuvaly-pidozruivanoho-u-zgvaltuvanni-malolitnoi-padcherky)<br>
+15:52 [Генштаб розповів, де точаться найважчі бої](https://ua.korrespondent.net/ukraine/4891440-henshtab-rozpoviv-de-tochatsia-naivazhchi-boi)<br>
 15:48 [У Швеції за підозрами у шпигунстві затримали двох людей](https://ua.korrespondent.net/world/4891437-u-shvetsii-za-pidozramy-u-shpyhunstvi-zatrymaly-dvokh-luidei)<br>
 15:26 [Чоловік знайшов на вулиці картину за 150 тис. євро й повернув її власникам](https://ua.korrespondent.net/lifestyle/4891429-cholovik-znaishov-na-vulytsi-kartynu-za-150-tys-yevro-y-povernuv-yii-vlasnykam)<br>
 15:21 [Польща чекає "на крок" від України для примирення](https://ua.korrespondent.net/world/4891423-polscha-chekaie-na-krok-vid-ukrainy-dlia-prymyrennia)<br>
+15:21 [Туск висловився щодо відносин з Україною](https://ua.korrespondent.net/world/4891423-tusk-vyslovyvsia-schodo-vidnosyn-z-ukrainoui)<br>
 15:15 [Удари по Криму: спалахнули сім електропідстанцій та сонячна електростанція](https://ua.korrespondent.net/ukraine/4891420-udary-po-krymu-spalakhnuly-sim-elektropidstantsii-ta-soniachna-elektrostantsiia)<br>
 15:11 [Удар по Києву: на Дарниці завершили пошуки жертв](https://ua.korrespondent.net/city/kiev/4891419-udar-po-kyievu-na-darnytsi-zavershyly-poshuky-zhertv)<br>
 15:02 [Свириденко розповіла про тривалість навчального року 2026/27](https://ua.korrespondent.net/ukraine/4891416-svyrydenko-rozpovila-pro-tryvalist-navchalnoho-roku-202627)<br>
@@ -70,6 +78,7 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 00:21 [Удар по Києву: число жертв продовжує зростати](https://ua.korrespondent.net/city/kiev/4891232-udar-po-kyievu-chyslo-zhertv-prodovzhuie-zrostaty)<br>
 
 ## as.com
+16:01 [La políticamente correcta despedida del Valencia Basket a Pedro Martínez](https://as.com/baloncesto/la-politicamente-correcta-despedida-del-valencia-basket-a-pedro-martinez-f202607-n/)<br>
 14:35 [El Unicaja corta a Emir Sulejmanovic](https://as.com/baloncesto/el-unicaja-corta-a-emir-sulejmanovic-f202607-n/)<br>
 14:28 [TLC y Bonga, cerca del Barça](https://as.com/baloncesto/acb/tlc-y-bonga-cerca-del-barca-f202607-n/)<br>
 13:22 [Martínez explica su salida del Valencia y llegada al Madrid: “Me gusta probarme”](https://as.com/baloncesto/acb/martinez-explica-su-salida-del-valencia-y-llegada-al-madrid-me-gusta-probarme-f202607-n/)<br>
@@ -77,6 +86,20 @@ Previous day: [2026-07-02](./data/2026-07-02.md)
 07:37 [Pablo Laso se queda sin Vincent Poirier](https://as.com/baloncesto/euroliga/pablo-laso-se-queda-sin-vincent-poirier-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:50 [¿Subes o bajas?](https://www.elperiodico.com/es/opinion/20260703/subes-o-bajas-profecias-de-futuro-articulo-usoa-arregui-132097506)<br>
+16:49 [Ya lo hicimos antes, por Enrique Ballester](https://www.elperiodico.com/es/deportes/20260703/ya-lo-hicimos-antes-enrique-ballester-barraca-y-tangana-132098828)<br>
+16:47 [Alejandro Sáez, experto de la Organización Meteorológica Mundial: "En 20 años, quizá recordaremos este verano como uno de los más fríos"](https://www.elperiodico.com/es/tiempo/20260703/verano-calor-extremo-anual-opinion-meteorologo-alejandro-saez-experto-dv-132081999)<br>
+16:46 [Von der Leyen culpa a los países de la UE de no avanzar en las sanciones por los asentamientos de Cisjordania](https://www.elperiodico.com/es/internacional/20260703/von-der-leyen-culpa-paises-de-la-ue-falta-de-sanciones-por-los-asentamientos-de-cisjordania-132098996)<br>
+16:45 [Confinados Vilavenut y el Palol de la Farga por un nuevo incendio de vegetación](https://www.elperiodico.com/es/sociedad/20260703/confinados-vilavenut-palol-farga-nuevo-incendio-132098709)<br>
+16:45 [Salvador Illa pide ayuda al Ejército para apagar el incendio del Empordà](https://www.elperiodico.com/es/videos/sociedad/salvador-illa-pide-ayuda-ejercito/132098845.shtml)<br>
+16:45 [Incendios forestales en Catalunya y resto de España, en directo | Última hora del fuego en la Bisbal](https://www.elperiodico.com/es/sociedad/20260703/incendios-forestales-catalunya-espana-directo-131393069)<br>
+16:36 [Christine Lagarde abre la puerta a su regreso a la política francesa para aportar "una voz europea"](https://www.elperiodico.com/es/internacional/20260703/christine-lagarde-abre-puerta-regreso-politica-francesa-132098598)<br>
+16:30 [Un taxista rural logra apoyo de Europa para conectar a todo un pueblo: "Es una tranquilidad"](https://www.elperiodico.com/es/trafico-y-transportes/20260703/taxista-rural-logra-apoyo-europa-conectado-pueblo-tranquilidad-dv-131927275)<br>
+16:23 [ByteTravel debuta en el BME Growth de Barcelona tras elevar un 51% sus ingresos](https://www.elperiodico.com/es/economia/20260703/bytetravel-debuta-bme-growth-barcelona-132098028)<br>
+16:13 [Illa pide ayuda al Ejército para apagar los incendios en Catalunya y reclama evitar desplazamientos al Empordà](https://www.elperiodico.com/es/politica/20260703/illa-ayuda-ejercito-ume-incendio-emporda-desplazamientos-evitar-132096370)<br>
+16:05 [Prensa Ibérica incorpora a tres nuevos consejeros](https://www.elperiodico.com/es/sociedad/20260703/prensa-iberica-nuevos-consejeros-132097480)<br>
+15:58 [Irán inicia 7 días de funerales de su líder supremo mientras promete responder "con dureza" cualquier ataque de EEUU o Israel](https://www.elperiodico.com/es/internacional/20260703/iran-inicia-7-dias-funerales-lider-supremo-promete-responder-dureza-ataque-eeuu-israel-132097117)<br>
+15:57 [Los jarrones chinos](https://www.elperiodico.com/es/opinion/20260703/jarrones-chinos-felipe-gonzalez-jose-maria-aznar-articulo-rosa-paz-132096910)<br>
 15:41 [Dalí y el PSUC](https://www.elperiodico.com/es/opinion/20260703/dali-psuc-articulo-andreu-claret-132096007)<br>
 15:37 [Las autoridades identifican a una mujer ucraniana de 39 años como presunta autora del ataque contra un oligarca en Mónaco](https://www.elperiodico.com/es/internacional/20260703/autoridades-identifican-mujer-ucraniana-39-anos-tatuaje-serpiente-autora-ataque-oligarca-monaco-132096297)<br>
 15:36 [Salut prevé que la primaria resuelva las solicitudes de dependencia en menos de 60 días a partir de diciembre](https://www.elperiodico.com/es/sanidad/20260703/salut-preve-primaria-resuelva-solicitudes-dependencia-60-dias-diciembre-132089014)<br>
