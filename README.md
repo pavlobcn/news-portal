@@ -1,8 +1,11 @@
-# News for 2026-07-04 19:48
+# News for 2026-07-04 20:47
 
 Previous day: [2026-07-03](./data/2026-07-03.md)
 
 ## ua.korrespondent.net
+20:37 [ЗСУ вперше показали пускову установку Harpoon](https://ua.korrespondent.net/ukraine/4891692-zsu-vpershe-pokazaly-puskovu-ustanovku-Harpoon)<br>
+20:16 [Росіяни вдарили по АЗС у Сумах](https://ua.korrespondent.net/ukraine/4891690-rosiiany-vdaryly-po-azs-u-sumakh)<br>
+19:57 [В Україні створять нову бригаду ВМС](https://ua.korrespondent.net/ukraine/4891688-v-ukraini-stvoriat-novu-bryhadu-vms)<br>
 19:35 [Кількість жертв удару по Києву зросла](https://ua.korrespondent.net/kyiv/4891686-kilkist-zhertv-udaru-po-kyievu-zrosla)<br>
 19:18 [Зеленський: Світ чекає на перемогу України над російською сволотою](https://ua.korrespondent.net/ukraine/4891684-zelenskyi-svit-chekaie-na-peremohu-ukrainy-nad-rosiiskoui-svolotoui)<br>
 18:53 [Росія зробила Україні неочікувану пропозицію](https://ua.korrespondent.net/world/russia/4891681-rosiia-zrobyla-ukraini-neochikuvanu-propozytsiui)<br>
@@ -45,6 +48,7 @@ Previous day: [2026-07-03](./data/2026-07-03.md)
 00:35 [Путін наказав продовжити масовані удари по Україні](https://ua.korrespondent.net/world/russia/4891544-putin-nakazav-prodovzhyty-masovani-udary-po-ukraini)<br>
 
 ## as.com
+20:26 [Isaac Bonga a un paso del Panathinaikos](https://as.com/baloncesto/euroliga/isaac-bonga-a-un-paso-del-panathinaikos-f202607-n/)<br>
 18:27 [Pascual y Scariolo se unen en el Consejo de Entrenadores de la Euroliga](https://as.com/baloncesto/euroliga/pascual-y-scariolo-se-unen-en-el-consejo-de-entrenadores-de-la-euroliga-f202607-n/)<br>
 18:06 [Xabi López-Arostegui ficha por el Tenerife](https://as.com/baloncesto/acb/xabi-lopez-arostegui-ficha-por-el-tenerife-f202607-n/)<br>
 17:11 [Clyburn tampoco sigue en el Barça](https://as.com/baloncesto/acb/clyburn-tampoco-sigue-en-el-barca-f202607-n/)<br>
