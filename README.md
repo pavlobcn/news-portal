@@ -1,4 +1,4 @@
-# News for 2026-07-05 00:49
+# News for 2026-07-05 01:50
 
 Previous day: [2026-07-03](./data/2026-07-03.md)
 
@@ -67,6 +67,7 @@ Previous day: [2026-07-03](./data/2026-07-03.md)
 09:45 [Sissoko deja el Real Madrid y seguirá en la Euroliga](https://as.com/baloncesto/sissoko-deja-el-real-madrid-y-seguira-en-la-euroliga-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:50 [Los estadounidenses desafían al calor extremo para celebrar los 250 años de su Independencia](https://www.elperiodico.com/es/internacional/20260704/estadounidenses-desafian-calor-extremo-celebrar-132134189)<br>
 23:42 [El heavy metal puro reconquista el Rock Fest con Accept y Helloween](https://www.elperiodico.com/es/ocio-y-cultura/20260704/heavy-metal-puro-reconquista-rock-festival-can-zam-132133820)<br>
 23:28 [Los Bombers estabilizan el fuego de las Gavarres, pero tardarán días en extinguirlo](https://www.elperiodico.com/es/sociedad/20260704/bombers-estabilizan-fuego-gavarres-tardaran-incendio-emporda-132133363)<br>
 21:47 [Mucho calor, abanicos arcoíris y bronca política: el Orgullo LGTBIQ+ clama "disidencia y resistencia" en Madrid](https://www.elperiodico.com/es/sociedad/20260704/manifestacion-orgullo-lgtbiq-madrid-2026-miles-personas-resistencia-polemica-132132572)<br>
