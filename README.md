@@ -1,8 +1,10 @@
-# News for 2026-07-04 17:42
+# News for 2026-07-04 18:45
 
 Previous day: [2026-07-03](./data/2026-07-03.md)
 
 ## ua.korrespondent.net
+18:26 [У Путіна відповіли на пропозицію зустрічі у Костянтинівці](https://ua.korrespondent.net/world/russia/4891677-u-putina-vidpovily-na-propozytsiui-zustrichi-u-kostiantynivtsi)<br>
+17:59 [У Латвії допустили ескалацію РФ проти країн НАТО](https://ua.korrespondent.net/world/4891671-u-latvii-dopustyly-eskalatsiui-rf-proty-krain-nato)<br>
 17:37 [Росія знову атакує Запоріжжя: є поранені](https://ua.korrespondent.net/ukraine/4891669-rosiia-znovu-atakuie-zaporizhzhia-ye-poraneni)<br>
 16:58 [Кабмін визначив місце для Національного пантеону](https://ua.korrespondent.net/ukraine/4891662-kabmin-vyznachyv-mistse-dlia-natsionalnoho-panteonu)<br>
 16:36 [Зеленський прибув на Одещину через роботу ППО](https://ua.korrespondent.net/ukraine/4891660-zelenskyi-prybuv-na-odeschynu-cherez-robotu-ppo)<br>
@@ -40,6 +42,8 @@ Previous day: [2026-07-03](./data/2026-07-03.md)
 00:35 [Путін наказав продовжити масовані удари по Україні](https://ua.korrespondent.net/world/russia/4891544-putin-nakazav-prodovzhyty-masovani-udary-po-ukraini)<br>
 
 ## as.com
+18:27 [Pascual y Scariolo se unen en el Consejo de Entrenadores de la Euroliga](https://as.com/baloncesto/euroliga/pascual-y-scariolo-se-unen-en-el-consejo-de-entrenadores-de-la-euroliga-f202607-n/)<br>
+18:06 [Xabi López-Arostegui ficha por el Tenerife](https://as.com/baloncesto/acb/xabi-lopez-arostegui-ficha-por-el-tenerife-f202607-n/)<br>
 17:11 [Clyburn tampoco sigue en el Barça](https://as.com/baloncesto/acb/clyburn-tampoco-sigue-en-el-barca-f202607-n/)<br>
 12:14 [“Me gusta como esta nueva generación me va quitando el puesto”](https://as.com/baloncesto/mas_baloncesto/me-gusta-como-esta-nueva-generacion-me-va-quitando-el-puesto-f202607-n/)<br>
 10:53 [Feliz y Montero ponen contra las cuerdas a Estados Unidos](https://as.com/baloncesto/feliz-y-montero-ponen-contra-las-cuerdas-a-estados-unidos-f202607-n/)<br>
@@ -47,6 +51,12 @@ Previous day: [2026-07-03](./data/2026-07-03.md)
 09:45 [Sissoko deja el Real Madrid y seguirá en la Euroliga](https://as.com/baloncesto/sissoko-deja-el-real-madrid-y-seguira-en-la-euroliga-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:29 [Ucrania afirma que mantiene el control de la estratégica localidad de Konstantinovka pese al anuncio ruso de su ocupación](https://www.elperiodico.com/es/internacional/20260704/ucrania-asegura-mantiene-control-estrategica-konstantinovka-rusia-132127195)<br>
+18:15 [Javier Albares, experto en sueño, tiene claro cómo preparar la habitación para dormir en verano: "El dormitorio puede ayudar o dificultar nuestro descanso"](https://www.elperiodico.com/es/vida-y-estilo/20260704/javier-albares-experto-sueno-preparar-dormitorio-verano-dv-132017715)<br>
+17:59 [Junts cree que Illa debería remodelar el Govern tras la aprobación de los presupuestos](https://www.elperiodico.com/es/politica/20260704/junts-cree-illa-deberia-remodelar-govern-despues-presupuestos-132126242)<br>
+17:58 [Albares: "España no se va a resignar a que una guerra tenga premio para el agresor"](https://www.elperiodico.com/es/videos/politica/albares-espana-resignar-guerra-tenga/132126463.shtml)<br>
+17:52 [PP y Vox cargan contra la planificación de los incendios del Govern y reclaman más prevención](https://www.elperiodico.com/es/politica/20260704/pp-vox-cargan-govern-incendios-gavarres-emporda-prevencion-132125897)<br>
+17:45 [A PIE DE CALLE | Llegada de los primeros equipos a Montjuïc.](https://www.elperiodico.com/es/videos/barcelona/pie-calle-llegada-primeros-equipos/132125912.shtml)<br>
 17:38 [A PIE DE CALLE| Momentos del desfile previo a la salida de las distintas marcas](https://www.elperiodico.com/es/videos/barcelona/pie-calle-momentos-desfile-previo/132123938.shtml)<br>
 17:30 [Los psicólogos coinciden: olvidar nombres puede ser una forma distinta de prestar atención](https://www.elperiodico.com/es/ser-feliz/20260704/psicologos-coinciden-olvidar-nombres-prestar-atencion-dv-131858232)<br>
 17:21 [A PIE DE CALLE| Claudia Mas, en la previa de la salida de la contrarrelo](https://www.elperiodico.com/es/videos/barcelona/pie-calle-claudia-previa-salida/132125240.shtml)<br>
@@ -73,6 +83,7 @@ Previous day: [2026-07-03](./data/2026-07-03.md)
 11:12 [Sólo querer volver](https://www.elperiodico.com/es/opinion/20260704/solo-querer-volver-articulo-opinion-agnes-marques-132116057)<br>
 11:00 [Los 'safaris humanos'](https://www.elperiodico.com/es/opinion/20260704/safaris-humanos-sarajevo-maldad-articulo-carles-sans-132017162)<br>
 10:23 [Trump azuza la división y avisa contra el "resurgimiento del comunismo" en un discurso electoralista a los pies del monte Rushmore](https://www.elperiodico.com/es/internacional/20260704/trump-proclama-monte-rushmore-eeuu-nacion-mas-fuerte-resurgimiento-comunista-132116376)<br>
+10:00 [Sumar y Podemos se hartan del "doble discurso" de Rufián: "No va a irse de ERC"](https://www.elperiodico.com/es/politica/20260704/sumar-hartan-doble-discurso-rufian-132106203)<br>
 09:30 [Illa anuncia el cierre total del parque de Les Gavarres ante los incendios y mantiene el confinamiento en siete municipios](https://www.elperiodico.com/es/sucesos/20260704/incendio-bisbal-estabilizado-quema-bombers-132114935)<br>
 09:00 [Sánchez no deja caer a nadie más; Feijóo compra el lío de Vox](https://www.elperiodico.com/es/politica/20260704/sanchez-deja-caer-guardia-civil-feijoo-puro-132108845)<br>
 08:00 [¿Por qué Illa tiene presupuestos?](https://www.elperiodico.com/es/opinion/20260704/illa-presupuestos-catalunya-erc-comuns-articulo-joan-tapia-132109180)<br>
