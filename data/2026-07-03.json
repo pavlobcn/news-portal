@@ -1,5 +1,23 @@
 [
   {
+    "title": "Віткофф і Кушнер готові приїхати в Україну та РФ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4891541-vitkoff-i-kushner-hotovi-pryikhaty-v-ukrainu-ta-rf-zmi",
+    "pubDate": "2026-07-03 23:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4478767.jpg\">Переговірники Трампа готові поїхати в Росію та Україну, якщо з’явиться щось нове для обговорення, пише The New York Times.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Egipto prolonga su sueño y echa a Australia en los penaltis",
+    "link": "https://www.elperiodico.com/es/deportes/20260703/egipto-prolonga-sueno-echa-australia-132110150",
+    "pubDate": "2026-07-03 23:29:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La selección de Salah se mete en los octavos tras superar una eliminatoria mundialista por primera vez en su historia.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Van Morrison, excelencia blues sin concesiones ni arrebatos en el Auditori del Fòrum",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260703/van-morrison-auditori-forum-concierto-critica-132109802",
     "pubDate": "2026-07-03 23:13:19",
@@ -25,6 +43,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4478684.jpg\">На українського футболіста є попит в італійському чемпіонаті. Головний тренер Дженоа, давній знайомий українця, намагається знову взяти гравця до своєї команди.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Показовий траур. Похорон Хаменаї став політакцією",
+    "link": "https://ua.korrespondent.net/world/4891543-pokazovyi-traur-pokhoron-khamenai-stav-politaktsiieui",
+    "pubDate": "2026-07-03 22:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4478781.jpg\">Алі Хаменеї загинув ще 28 лютого 2026 року внаслідок першої хвилі авіаударів ВПС Ізраїлю.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "РФ масовано атакувала Суми: є загиблі",
@@ -1231,6 +1258,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4478443.jpg\">Неймовірна удача спіткала мандрівника в аеропорту Лас-Вегаса. Чоловік поставив останні 10 доларів в ігровий автомат і зірвав джекпот у розмірі 3,3 мільйона доларів.",
     "topic": "лотереї",
     "topic_match_probability": 80
+  },
+  {
+    "title": "El incendio en la Bisbal d'Empordà obliga a confinar una decena de municipios y una casa de colonias con 150 niños",
+    "link": "https://www.elperiodico.com/es/fotos/sucesos/incendio-bisbal-demporda-obliga-confinar-132095454",
+    "pubDate": "2026-07-03 15:22:02",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "José María Figaredo: de tal palo...",
