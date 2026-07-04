@@ -1,8 +1,10 @@
-# News for 2026-07-04 21:48
+# News for 2026-07-04 22:49
 
 Previous day: [2026-07-03](./data/2026-07-03.md)
 
 ## ua.korrespondent.net
+22:24 [Зеленський: Є реальна перспектива завершити війну](https://ua.korrespondent.net/ukraine/4891702-zelenskyi-ye-realna-perspektyva-zavershyty-viinu)<br>
+21:59 [Україна готує нову морську лінію оборони](https://ua.korrespondent.net/ukraine/4891700-ukraina-hotuie-novu-morsku-liniui-oborony)<br>
 21:38 [РФ атакувала магазин у Краматорську, є постраждалі](https://ua.korrespondent.net/ukraine/4891698-rf-atakuvala-mahazyn-u-kramatorsku-ye-postrazhdali)<br>
 21:15 [Стало відомо про стан Єрмолаєва після замаху в Монако](https://ua.korrespondent.net/world/4891696-stalo-vidomo-pro-stan-yermolaieva-pislia-zamakhu-v-monako)<br>
 20:58 [У Сумах буде додаткове оповіщення через КАБи](https://ua.korrespondent.net/ukraine/4891694-u-sumakh-bude-dodatkove-opovischennia-cherez-kaby)<br>
