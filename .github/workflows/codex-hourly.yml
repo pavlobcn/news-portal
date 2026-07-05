@@ -1,8 +1,8 @@
 name: Trigger Codex Cloud Task to refresh data
 
 on:
-  # schedule:
-  #   - cron: '*/14 * * * *'
+  schedule:
+    - cron: '*/7 * * * *'
   workflow_dispatch:
 defaults:
   run:
@@ -20,6 +20,7 @@ jobs:
       GH_TOKEN: ${{ secrets.CODEX_TRIGGER_TOKEN }}
       PR_NUMBER: 55
       CODEX_COMMENT_BODY: '@codex Execute Job.md. In your final response, write exactly one sentence under Summary, do not include file citations, and omit the Testing section entirely.'
+      MIN_SECONDS_BETWEEN_RUNS: 1800
       STALE_COMMENT_CUTOFF_HOURS: 4
     steps:
       - name: Delete stale PR comments
@@ -39,4 +40,22 @@ jobs:
 
       - name: Add Codex instruction comment
         run: |
+          last_comment_created_at="$(
+            gh pr view "$PR_NUMBER" \
+              --repo "$GITHUB_REPOSITORY" \
+              --json comments \
+              --jq '.comments | map(select(.body == env.CODEX_COMMENT_BODY)) | last | .createdAt // empty'
+          )"
+
+          if [[ -n "$last_comment_created_at" ]]; then
+            last_comment_epoch="$(date -u -d "$last_comment_created_at" +%s)"
+            current_epoch="$(date -u +%s)"
+            seconds_since_last_run="$((current_epoch - last_comment_epoch))"
+
+            if (( seconds_since_last_run <= MIN_SECONDS_BETWEEN_RUNS )); then
+              echo "Skipping Codex task trigger: only ${seconds_since_last_run}s passed since last run."
+              exit 0
+            fi
+          fi
+
           gh pr comment "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --body "$CODEX_COMMENT_BODY"
