@@ -1,5 +1,32 @@
 [
   {
+    "title": "ЄС має проблеми в підготовці до нападу Росії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4891855-yes-maie-problemy-v-pidhotovtsi-do-napadu-rosii-zmi",
+    "pubDate": "2026-07-05 23:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480468.jpg\">Частина країн Європи витрачають забагато на вітчизняну промисловість, що призводить до фрагментації, пише The Economist.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Real Madrid cierra un acuerdo con Luwawu-Cabarrot",
+    "link": "https://as.com/baloncesto/acb/el-real-madrid-cierra-un-acuerdo-con-luwawu-cabarrot-f202607-n/",
+    "pubDate": "2026-07-05 23:52:58",
+    "category": "Baloncesto",
+    "description": "El club blanco y el francés han acordado los términos para su fichaje a la espera de llegar a un entendimiento con el Baskonia, que tiene derecho de tanteo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Поліція Польщі розслідує вандалізм на могилі українського письменника",
+    "link": "https://ua.korrespondent.net/world/worldabus/4891853-politsiia-polschi-rozsliduie-vandalizm-na-mohyli-ukrainskoho-pysmennyka",
+    "pubDate": "2026-07-05 23:45:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480457.jpg\">Польські правоохоронці не вбачають в інциденті \"національних мотивів\" і припускають, що він відбувся останніми тижнями.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "De la Fuente: \"A Lamine le pediría que haga sufrir a los rivales\"",
     "link": "https://www.elperiodico.com/es/deportes/20260705/fuente-lamine-le-pediria-haga-132154146",
     "pubDate": "2026-07-05 23:34:59",
@@ -765,6 +792,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El Baskonia no ejerce la opción de corte con Paolo Galbiati",
+    "link": "https://as.com/baloncesto/el-baskonia-no-ejerce-la-opcion-de-corte-con-galbiati-f202607-n/",
+    "pubDate": "2026-07-05 15:02:04",
+    "category": "Baskonia",
+    "description": "Eso no significa que vaya a entrenar al equipo vitoriano la próxima temporada. Pablo Laso incluso fue cortado más tarde.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У команді Кабаєла обирають суперника на перший захист чемпіонського пояса",
     "link": "https://ua.korrespondent.net/sport/boks/4891799-u-komandi-kabaiela-obyrauit-supernyka-na-pershyi-zakhyst-chempionskoho-poiasa",
     "pubDate": "2026-07-05 15:01:00",
@@ -1125,6 +1161,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Dylan Osetkowski refuerza el juego interior de Valencia Basket",
+    "link": "https://as.com/baloncesto/euroliga/dylan-osetkowski-refuerza-el-juego-interior-de-valencia-basket-f202607-n/",
+    "pubDate": "2026-07-05 12:24:23",
+    "category": "Valencia Basket Club",
+    "description": "El americano con pasaporte alemán conoce la ACB porque jugó tres temporadas en el Unicaja.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los seis grandes incendios que han afectado a las Gavarres a lo largo de la historia",
     "link": "https://www.elperiodico.com/es/sociedad/20260705/seis-grandes-incendios-han-afectado-gavarres-132141008",
     "pubDate": "2026-07-05 12:20:28",
@@ -1321,6 +1366,15 @@
     "description": "<h2>Los Mossos d'Esquadra desmantelan dos puntos de venta de droga y detienen a un presunto cómplice, con antecedentes por robo y lesiones</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260618/cocaina-droga-adiccion-cataluna-tratamiento-131492477\">La cocaína despunta como la droga que motiva más peticiones de ayuda: \"Empecé con 14 años por diversión y me ha robado media vida\"</a></h2>",
     "topic": "пограбування, афера",
     "topic_match_probability": 45
+  },
+  {
+    "title": "Montero y Valencia Basket separan sus caminos",
+    "link": "https://as.com/baloncesto/euroliga/montero-y-valencia-basket-separan-sus-caminos-f202607-n/",
+    "pubDate": "2026-07-05 11:11:33",
+    "category": "Valencia Basket Club",
+    "description": "El base dominicano pone rumbo a Grecia para jugar en el Olympiakos.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Сили оборони показали удар по російських інструкторах БпЛА у Покровську",
