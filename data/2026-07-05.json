@@ -1,5 +1,257 @@
 [
   {
+    "title": "Sánchez informa del despliegue de efectivos de la UME y el MITECO para colaborar en los incendios y pide precaución",
+    "link": "https://www.elperiodico.com/es/sociedad/20260705/sanchez-informa-despliegue-efectivos-ume-132152798",
+    "pubDate": "2026-07-05 21:07:20",
+    "category": "",
+    "description": "<h2>\"Evitemos riesgos y sigamos las indicaciones de los servicios de emergencia\", apuntó el presidente del Gobierno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La moneda de 2 euros de Mónaco que puede darte hasta 1.000 euros: cómo identificarla",
+    "link": "https://www.elperiodico.com/es/economia/20260705/moneda-monaco-dos-euros-valor-mil-euros-dv-131999299",
+    "pubDate": "2026-07-05 21:05:33",
+    "category": "",
+    "description": "<h2>La pieza fue acuñada en 2018 con motivo del 250º aniversario del escultor François Joseph Bosio</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260516/monedas-mortadelo-filemon-coleccion-ministerio-economia-boe-dv-130213021\">Confirmado por el BOE: llegan las nuevas monedas de plata de Mortadelo y Filemón (y así las puedes conseguir)</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un Martínez contra España",
+    "link": "https://www.elperiodico.com/es/deportes/20260705/martinez-espana-132147917",
+    "pubDate": "2026-07-05 21:02:05",
+    "category": "",
+    "description": "<h2>El seleccionador de Portugal es el técnico español con más partidos (y más victorias) dirigidos en un Mundial y también es un hombre récord al frente del combinado luso</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El horóscopo de mañana, lunes 6 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260705/horoscopo-hoy-lunes-6-julio-dv-132022549",
+    "pubDate": "2026-07-05 21:00:23",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El incendio Castellón desde Azuébar: \"Lo vemos venir, decimos lo que va a pasar, pero no nos hacen caso\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260705/incendio-castellon-azuebar-vemos-venir-132152723",
+    "pubDate": "2026-07-05 20:59:43",
+    "category": "",
+    "description": "<h2>Precisamente este viernes, el agente medioambiental de la zona había recargado el depósito de extinción puesto en marcha hace dos meses</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una incidencia en la estación del aeropuerto obliga a los trenes de la R2 Nord a iniciar y finalizar el recorrido en El Prat",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260705/incidencia-estacion-aeropuerto-trenes-r2-nord-el-prat-132152549",
+    "pubDate": "2026-07-05 20:55:52",
+    "category": "",
+    "description": "<h2>Los pasajeros pueden llegar a la infraestructura en metro con la línea L9S.</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Дощі та грози прогнозують синоптики на початку тижня",
+    "link": "https://ua.korrespondent.net/ukraine/4891838-doschi-ta-hrozy-prohnozuuit-synoptyky-na-pochatku-tyzhnia",
+    "pubDate": "2026-07-05 20:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480358.jpg\">По всій території нашої країни очікується мінлива хмарність, місцями пройдуть короткочасні дощі та грози.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mateo: “Lo importante es levantar la cabeza”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/mateo-lo-importante-es-levantar-la-cabeza-f202607-n/",
+    "pubDate": "2026-07-05 20:48:47",
+    "category": "Baloncesto",
+    "description": "El seleccionador nacional y Willy Hernangómez, pívot de la Selección, analizaron la derrota ante Georgia en la tercera ventana de clasificación para el Mundial de Qatar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Georgia remonta 22 puntos a España y vence en la prórroga (91-89)",
+    "link": "https://www.elperiodico.com/es/deportes/20260705/georgia-remonta-22-puntos-espana-132151843",
+    "pubDate": "2026-07-05 20:42:28",
+    "category": "",
+    "description": "<h2>Tornike Shengelia y Marcquise Reed, con 37 y 32 puntos, propician la primera derrota de Chus Mateo como seleccionador </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lleida activará el lunes el plan operativo para prevenir los efectos del calor sobre la salud de las personas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260705/lleida-temperaturas-calor-salud-personas-132152054",
+    "pubDate": "2026-07-05 20:40:01",
+    "category": "",
+    "description": "<h2>En la ciudad hay unos sesenta refugios climáticos y, por tercer verano, las piscinas municipales abren hasta las 20.30 h</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260705/catalunya-adentra-domingo-nueva-ola-calor-riesgo-incendios-132127259\">Catalunya roza los 40 grados en el primer día de una ola de calor con riesgo \"extremo\" de incendios en Girona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un duro aprendizaje para España",
+    "link": "https://as.com/baloncesto/mas_baloncesto/shengelia-impide-el-invicto-f202607-n/",
+    "pubDate": "2026-07-05 20:29:49",
+    "category": "Baloncesto",
+    "description": "La Selección desperdicia 22 puntos de ventaja en Georgia. Toko Shegenlia, letal (37 puntos). Primera derrota de Chus Mateo en el banquillo nacional.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія готує новий масований удар по Україні",
+    "link": "https://ua.korrespondent.net/ukraine/4891836-rosiia-hotuie-novyi-masovanyi-udar-po-ukraini",
+    "pubDate": "2026-07-05 20:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480347.png\">Дані розвідки свідчать про те, що росіяни готують масований удар перед самітом НАТО в Анкарі, заявив Зеленський.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La FIFA quita la roja a Balogun, estrella de Estados Unidos, y Trump lo agradece en redes sociales",
+    "link": "https://www.elperiodico.com/es/deportes/20260705/fifa-quita-roja-balogun-infantino-trump-132151750",
+    "pubDate": "2026-07-05 20:10:28",
+    "category": "",
+    "description": "<h2>El goleador de la selección de Pochettino podrá jugar en octavos ante Bélgica pese a haber sido expulsado ante Bosnia por una durísima entrada. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Gobierno 'borra' 50.000 pisos turísticos del mapa tras la reforma de la ley y el registro único",
+    "link": "https://www.elperiodico.com/es/economia/20260705/programada-gobierno-borra-50-000-132098740",
+    "pubDate": "2026-07-05 20:01:04",
+    "category": "",
+    "description": "<h2>El Instituto Nacional de Estadística contabiliza 40.836 viviendas turísticas menos que hace un año, rompiendo la tendencia alcista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Венс заявив про виснаження російського наступу",
+    "link": "https://ua.korrespondent.net/world/4891834-vens-zaiavyv-pro-vysnazhennia-rosiiskoho-nastupu",
+    "pubDate": "2026-07-05 19:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480326.jpg\">Нині росіяни перебувають у ситуації, коли те, чого вони можуть досягти тривалими наступальними операціями, \"наближається до нуля\", заявив віцепрезидент США.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські футболісти U-19 очолили групу за підсумками відбору на Євро-2026",
+    "link": "https://ua.korrespondent.net/sport/football/4891832-ukrainski-futbolisty-U-19-ocholyly-hrupu-za-pidsumkamy-vidboru-na-yevro-2026",
+    "pubDate": "2026-07-05 19:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480291.jpg\">Тепер українським юніорам, які виступають під керівництвом Дмитра Михайленка, у рамках турніру належить провести півфінальний матч.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Finlandia busca profesores de Educación infantil: más de 3.000 euros brutos y vivienda garantizada",
+    "link": "https://www.elperiodico.com/es/educacion/20260705/finlandia-busca-profesores-educacion-infantil-sueldo-alto-vivienda-dv-131966262",
+    "pubDate": "2026-07-05 19:40:16",
+    "category": "",
+    "description": "<h2 class=\"item\">El sistema educativo del país nórdico está considerado como uno de los mejores a nivel mundial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260409/educacion-correo-familia-sueldos-profesores-cataluna-primaria-secundaria-128901025\">Educació envía un correo a las familias con el sueldo que cobrarán los profesores: 39.700 euros anuales en primaria y 44.500 en secundaria</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260310/maestros-profesores-sueldos-cataluna-aumento-salarial-acuerdo-educacio-127767667\">Los maestros y profesores catalanes serán los terceros mejor pagados de España, según el Govern</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor y la humedad disparan las plagas de cucarachas: la desconocida solución ante unos insecticidas que ya no funcionan",
+    "link": "https://www.elperiodico.com/es/sociedad/20260705/insecticidas-calor-humedad-plagas-cucarachas-dv-131853891",
+    "pubDate": "2026-07-05 19:34:00",
+    "category": "",
+    "description": "<h2>Una de las mejores opciones para liquidar estos insectos es un veneno estomacal inodoro que contamina sus nidos</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260528/arranca-badalona-campana-estival-control-plagas-ratas-cucarachas-130755725\">Badalona insta a la ciudadanía a mantener limpios espacios públicos y privados para evitar la proliferación de ratas y cucarachas</a></h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/20260607/cataluna-plaga-mosquitos-cucarachas-ratas-dv-loc-130964377\">El aviso de la Associació Catalana d'Empreses de Salut Ambiental: las plagas de mosquitos y cucarachas ya no son estacionales</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині виявили нові випадки загибелі дельфінів",
+    "link": "https://ua.korrespondent.net/ukraine/4891830-na-odeschyni-vyiavyly-novi-vypadky-zahybeli-delfiniv",
+    "pubDate": "2026-07-05 19:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480305.jpg\">Лише починаючи з кінця травня на території парку Тузлівські лимани офіційно задокументували 67 загиблих дельфінів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cruzar media Catalunya dentro de una taza de café es posible en el Tour",
+    "link": "https://www.elperiodico.com/es/deportes/20260705/cruzar-media-catalunya-taza-cafe-tour-tarragona-barcelona-132149989",
+    "pubDate": "2026-07-05 19:19:33",
+    "category": "",
+    "description": "<h2 class=\"item\">El espectáculo de la ronda francesa va más allá de los ciclistas y a menudo se sitúa en los márgenes de la carretera, como se ha comprobado en la etapa de Tarragona a Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260705/ganador-etapa-tour-francia-barcelona-del-toro-pogacar-132145530\">Pogacar regala Barcelona a Del Toro</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "A PIE DE CALLE|  Así ha sido la segunda jornada del Tour de Francia",
+    "link": "https://www.elperiodico.com/es/videos/deportes/pie-calle-sido-segunda-jornada/132150738.shtml",
+    "pubDate": "2026-07-05 19:18:46",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Collboni asegura que el Tour es el acontecimiento “más importante” que ha vivido Barcelona desde los Juegos Olímpicos del 92",
+    "link": "https://www.elperiodico.com/es/barcelona/20260705/collboni-asegura-tour-acontecimiento-mas-importante-barcelona-juegos-olimpicos-132150581",
+    "pubDate": "2026-07-05 19:14:38",
+    "category": "",
+    "description": "<h2>El alcalde agradece la “paciencia” de los ciudadanos y dice que ha sido un \"éxito organizativo y de participación\"</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260705/ganador-etapa-tour-francia-barcelona-del-toro-pogacar-132145530\">Pogacar regala Barcelona a Del Toro</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Укренерго дало прогноз по відключеннях у понеділок",
+    "link": "https://ua.korrespondent.net/ukraine/4891825-ukrenerho-dalo-prohnoz-po-vidkluichenniakh-u-ponedilok",
+    "pubDate": "2026-07-05 19:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480293.jpg\">В Україні не планують застосовувати заходи обмеження споживання електроенергії 6 липня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bomberos revisan las casas afectadas por el incendio de La Bisbal d'Empordà (Girona)",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/bomberos-revisan-casas-afectadas-incendio/132150709.shtml",
+    "pubDate": "2026-07-05 19:12:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El volcán Etna entró en actividad eruptiva",
+    "link": "https://www.elperiodico.com/es/videos/internacional/volcan-etna-entro-actividad-eruptiva/132150292.shtml",
+    "pubDate": "2026-07-05 19:02:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Збірна України з баскетболу виграла останній матч групи у відборі на ЧС",
+    "link": "https://ua.korrespondent.net/sport/basketball/4891823-zbirna-ukrainy-z-basketbolu-vyhrala-ostannii-match-hrupy-u-vidbori-na-chs",
+    "pubDate": "2026-07-05 19:01:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480260.jpg\">Матч, який складався із чотирьох періодів, завершився очевидною перемогою українських баскетболістів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A PIE DE CALLE| Montjuïc vibra con una afición entregada",
+    "link": "https://www.elperiodico.com/es/videos/deportes/pie-calle-montjuic-vibra-aficion/132149381.shtml",
+    "pubDate": "2026-07-05 18:54:37",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Djokovic logra ante Safiullin su victoria 106 y supera a Federer en Wimbledon",
+    "link": "https://www.elperiodico.com/es/deportes/20260705/djokovic-logra-safiullin-victoria-106-132149794",
+    "pubDate": "2026-07-05 18:51:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro serbio se mete en cuartos de final por novena vez consecutiva después de tumbar al ruso en cuatro sets. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
     "title": "У Кишиневі остаточно закрили \"русский дом\"",
     "link": "https://ua.korrespondent.net/world/4891821-u-kyshynevi-ostatochno-zakryly-russkyi-dom",
     "pubDate": "2026-07-05 18:46:00",
