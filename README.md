@@ -1,8 +1,12 @@
-# News for 2026-07-05 14:46
+# News for 2026-07-05 16:23
 
 Previous day: [2026-07-04](./data/2026-07-04.md)
 
 ## ua.korrespondent.net
+16:09 [КНДР протестувала системи озброєнь нового есмінця](https://ua.korrespondent.net/world/4891807-kndr-protestuvala-systemy-ozbroien-novoho-esmintsia)<br>
+15:49 [Росіяни готуються вдарити по АЗС на Сумщині - ОВА](https://ua.korrespondent.net/ukraine/4891805-rosiiany-hotuuitsia-vdaryty-po-azs-na-sumschyni-ova)<br>
+15:23 [РФ за тиждень застосувала 2200 дронів проти Ураїни](https://ua.korrespondent.net/ukraine/4891803-rf-za-tyzhden-zastosuvala-2200-droniv-proty-urainy)<br>
+15:03 [Росіяни атакували АЗС на Харківщині](https://ua.korrespondent.net/ukraine/4891800-rosiiany-atakuvaly-azs-na-kharkivschyni)<br>
 14:39 [У Польщі пошкодили могилу українського письменника](https://ua.korrespondent.net/world/4891797-u-polschi-poshkodyly-mohylu-ukrainskoho-pysmennyka)<br>
 14:14 [Пісторіус оцінив ситуацію на фронті в Україні](https://ua.korrespondent.net/world/4891788-pistorius-otsinyv-sytuatsiui-na-fronti-v-ukraini)<br>
 13:56 [СБС за два дні уразили 16 електропідстанцій на ТОТ](https://ua.korrespondent.net/ukraine/4891791-sbs-za-dva-dni-urazyly-16-elektropidstantsii-na-tot)<br>
@@ -40,6 +44,13 @@ Previous day: [2026-07-04](./data/2026-07-04.md)
 07:24 [Willy Hernangómez: “España debe estar ilusionada con lo que viene”](https://as.com/baloncesto/mas_baloncesto/willy-hernangomez-espana-debe-estar-ilusionada-con-lo-que-viene-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:20 [Un incendio fuera de control cerca de la ciudad griega de Salónica obliga a evacuar viviendas](https://www.elperiodico.com/es/videos/internacional/incendio-fuera-control-cerca-ciudad/132146266.shtml)<br>
+16:20 [Estas son las medidas de los expertos para disfrutar del eclipse de agosto de forma segura: "En 1999 salimos tarde y quedamos colapsados en la carretera"](https://www.elperiodico.com/es/sociedad/20260705/medidas-expertos-eclipse-agosto-seguridad-salud-132146166)<br>
+16:05 [Ya está en vigor: cambio en las normas de las notificaciones para los trabajadores de baja](https://www.elperiodico.com/es/economia/20260705/baja-laboral-notificaciones-trabajadores-cambio-norma-dv-131834272)<br>
+16:01 [Los Minyons de Terrassa se estrenan en la gama extra esta temporada durante la Fiesta Mayor](https://www.elperiodico.com/es/barcelona/20260705/minyons-terrassa-estrenan-gama-extra-132145826)<br>
+16:00 [De una idea entre amigos al espectáculo de la Sagrada Família con el Papa: el imparable vuelo de Flock Drone Art Studio](https://www.elperiodico.com/es/barcelona/20260705/sostenibilidad-empresa-flockdroneartstudio-drone-pirodrone-espectaculo-pirotecnia-barcelona-131803487)<br>
+15:04 [Confirmado: Los billetes de avión incluirán de entrada el precio de la maleta de mano](https://www.elperiodico.com/es/trafico-y-transportes/20260705/confirmado-acaba-pagar-maleta-mano-separado-avion-aerolineas-dv-131801814)<br>
+15:00 [Sánchez afronta una cumbre de la OTAN marcada por las amenazas de Trump: "España aprenderá"](https://www.elperiodico.com/es/internacional/20260705/sanchez-afronta-cumbre-otan-amenazas-trump-turquia-132145096)<br>
 14:42 [Incendios forestales en Catalunya y resto de España, en directo | Última hora del fuego en La Bisbal](https://www.elperiodico.com/es/sociedad/20260705/incendios-forestales-catalunya-espana-directo-131393069)<br>
 14:40 [Los bomberos tratan de apagar un incendio forestal de alta intensidad en Sant Andreu de la Barca](https://www.elperiodico.com/es/sociedad/20260705/incendio-sant-andreu-barca-bomberos-apagan-fuego-alta-intensidad-132144420)<br>
 14:35 [La OCU avisa: esta es la tarjeta bancaria que desaconseja "en absoluto"](https://www.elperiodico.com/es/economia/20260705/ocu-avisa-tarjeta-bancaria-desaconseja-dv-131770253)<br>
@@ -78,6 +89,7 @@ Previous day: [2026-07-04](./data/2026-07-04.md)
 06:01 [Sílvia Paneque: "Ciertos sectores ambientalistas deberían hacer una profunda reflexión cuando se sitúan en contra parques renovables"](https://www.elperiodico.com/es/sociedad/20260705/silvia-paneque-sectores-ambientalistas-reflexion-contra-energias-renovables-132090292)<br>
 06:01 [El día que pasó el Tour](https://www.elperiodico.com/es/opinion/20260705/dia-paso-tour-opinion-132103797)<br>
 06:01 [Las bebidas espirituosas apuntan a jóvenes y extranjeros como salvavidas para frenar su crisis de consumo](https://www.elperiodico.com/es/economia/20260705/bebidas-espirituosas-apuntan-jovenes-extranjeros-salvar-consumo-132135460)<br>
+06:01 [La aportación económica de las espirituosas: Materias primas autóctonas y casi 2.500 millones en impuestos](https://www.elperiodico.com/es/economia/20260705/aportacion-economica-espirituosas-materias-primas-impuestos-132135455)<br>
 06:01 [Aragón busca trabajadores para sostener su crecimiento](https://www.elperiodico.com/es/economia/20260705/aragon-busca-trabajadores-sostener-crecimiento-132135409)<br>
 06:00 [Los rincones secretos de la Sagrada Família (IV): el Centro de Documentación](https://www.elperiodico.com/es/barcelona/eixample/20260705/rincones-secretos-sagrada-familia-centro-documentacion-129822926)<br>
 05:58 [Entrevista a Sílvia Paneque](https://www.elperiodico.com/es/videos/sociedad/entrevista-silvia-paneque-medio-ambiente-video/132102164.shtml)<br>
