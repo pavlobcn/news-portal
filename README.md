@@ -1,8 +1,11 @@
-# News for 2026-07-05 16:23
+# News for 2026-07-05 17:48
 
 Previous day: [2026-07-04](./data/2026-07-04.md)
 
 ## ua.korrespondent.net
+17:23 [У Путіна змінили формулювання щодо війни](https://ua.korrespondent.net/world/4891813-u-putina-zminyly-formuluivannia-schodo-viiny)<br>
+16:58 ["Гей-лайнеру" заборонили захід у порти Туреччини](https://ua.korrespondent.net/world/4891811-hei-laineru-zaboronyly-zakhid-u-porty-turechchyny)<br>
+16:39 [ДТП із 12 загиблими: водію оголосили підозру](https://ua.korrespondent.net/ukraine/4891809-dtp-iz-12-zahyblymy-vodiui-oholosyly-pidozru)<br>
 16:09 [КНДР протестувала системи озброєнь нового есмінця](https://ua.korrespondent.net/world/4891807-kndr-protestuvala-systemy-ozbroien-novoho-esmintsia)<br>
 15:49 [Росіяни готуються вдарити по АЗС на Сумщині - ОВА](https://ua.korrespondent.net/ukraine/4891805-rosiiany-hotuuitsia-vdaryty-po-azs-na-sumschyni-ova)<br>
 15:23 [РФ за тиждень застосувала 2200 дронів проти Ураїни](https://ua.korrespondent.net/ukraine/4891803-rf-za-tyzhden-zastosuvala-2200-droniv-proty-urainy)<br>
@@ -37,6 +40,7 @@ Previous day: [2026-07-04](./data/2026-07-04.md)
 00:19 [У Криму майже повністю зникло освітлення - ISW](https://ua.korrespondent.net/ukraine/4891711-u-krymu-maizhe-povnistui-znyklo-osvitlennia-ISW)<br>
 
 ## as.com
+17:41 [Georgia - España, en directo: clasificación del Mundial 2027, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/georgia-espana-en-directo-clasificacion-del-mundial-2027-hoy-en-vivo-f202607-d/)<br>
 14:11 [Georgia - España: horario, TV, cómo y dónde ver las Ventanas FIBA del Mundial 2027](https://as.com/baloncesto/mas_baloncesto/espana-georgia-horario-tv-como-y-donde-ver-las-ventanas-fiba-del-mundial-2027-f202511-n/)<br>
 09:15 [Obligados a reinventarse](https://as.com/baloncesto/euroliga/obligados-a-reinventarse-f202607-n/)<br>
 09:14 [Georgia - España: horario, TV, cómo y dónde ver las Ventanas FIBA del Mundial 2027](https://as.com/baloncesto/mas_baloncesto/georgia-espana-horario-tv-como-y-donde-ver-las-ventanas-fiba-del-mundial-2027-f202607-n/)<br>
@@ -44,6 +48,11 @@ Previous day: [2026-07-04](./data/2026-07-04.md)
 07:24 [Willy Hernangómez: “España debe estar ilusionada con lo que viene”](https://as.com/baloncesto/mas_baloncesto/willy-hernangomez-espana-debe-estar-ilusionada-con-lo-que-viene-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:30 [¿Sabes que te pueden multar por tener la lavadora en la terraza? La Ley de Propiedad Horizontal confirma en qué casos](https://www.elperiodico.com/es/vivienda/20260705/multar-lavadora-terraza-ley-propiedad-horizontal-dv-132094940)<br>
+17:30 [Un bombero y un vecino, heridos en estado muy grave por el incendio de la Catalunya del Nord que ya ha arrasado 1.650 hectáreas](https://www.elperiodico.com/es/sociedad/20260705/bombero-vecino-heridos-grave-incendio-cataluna-nord-arrasado-132147959)<br>
+17:15 [María Cristina Clemente Buendía, notaria: "Hay una escritura que puede evitar conflictos familiares, no es el testamento"](https://www.elperiodico.com/es/economia/20260705/maria-cristina-clemente-buendia-notaria-escritura-evitar-conflictos-testamento-dv-131964831)<br>
+17:05 [Francisco, español jubilado en Filipinas: "Con 800 euros al mes puedes vivir perfectamente"](https://www.elperiodico.com/es/vida-y-estilo/20260705/francisco-espanol-jubilado-filipinas-vivir-con-800-euros-dv-131798535)<br>
+16:31 [Un incendio de vegetación arde cerca de la C-15, en Capellades](https://www.elperiodico.com/es/videos/sociedad/incendio-vegetacion-arde-cerca-c/132146467.shtml)<br>
 16:20 [Un incendio fuera de control cerca de la ciudad griega de Salónica obliga a evacuar viviendas](https://www.elperiodico.com/es/videos/internacional/incendio-fuera-control-cerca-ciudad/132146266.shtml)<br>
 16:20 [Estas son las medidas de los expertos para disfrutar del eclipse de agosto de forma segura: "En 1999 salimos tarde y quedamos colapsados en la carretera"](https://www.elperiodico.com/es/sociedad/20260705/medidas-expertos-eclipse-agosto-seguridad-salud-132146166)<br>
 16:05 [Ya está en vigor: cambio en las normas de las notificaciones para los trabajadores de baja](https://www.elperiodico.com/es/economia/20260705/baja-laboral-notificaciones-trabajadores-cambio-norma-dv-131834272)<br>
@@ -67,6 +76,7 @@ Previous day: [2026-07-04](./data/2026-07-04.md)
 12:50 [Miles de personas forman una cadena humana para protestar contra la desprotección del parque natural de es Trenc, en Mallorca](https://www.elperiodico.com/es/sociedad/20260705/miles-personas-forman-cadena-humana-protesta-desproteccion-parque-natural-es-trenc-mallorca-132142107)<br>
 12:40 [Carlos Llull, electricista: "Cuando alguien te diga 'apaga el aire acondicionado, que consume muchísimo', recuerda que..."](https://www.elperiodico.com/es/economia/20260705/aire-acondicionado-consumo-noche-electricista-carlos-llull-dv-131815013)<br>
 12:29 [Juanma Moreno toma posesión de su acta como presidente de la Junta de Andalucía](https://www.elperiodico.com/es/videos/politica/juanma-moreno-toma-posesion-acta/132141443.shtml)<br>
+12:20 [Los seis grandes incendios que han afectado a las Gavarres a lo largo de la historia](https://www.elperiodico.com/es/sociedad/20260705/seis-grandes-incendios-han-afectado-gavarres-132141008)<br>
 12:14 [Zelenski pedirá a Trump que medie con Putin para acordar la paz en Ucrania: "Hay una posibilidad real de poner fin a la guerra"](https://www.elperiodico.com/es/internacional/20260705/guerra-de-ucrania-zelenski-pide-donald-trump-mediacion-putin-132141069)<br>
 12:05 [Poner una bandera de España en el balcón puede costarte un problema con los vecinos: esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/vivienda/20260705/poner-bandera-espana-balcon-costarte-problema-vecinos-ley-propiedad-horizontal-dv-131940889)<br>
 12:00 [Suecia y Alemania, frente al desafío de los clanes criminales que reclutan a menores como sicarios y activan el voto ultra](https://www.elperiodico.com/es/internacional/20260705/suecia-alemania-desafio-clanes-criminales-reclutan-menores-sicarios-activan-voto-ultra-132140637)<br>
@@ -82,6 +92,7 @@ Previous day: [2026-07-04](./data/2026-07-04.md)
 09:26 [Putin llama por teléfono a Trump y le repite que conquistará todo el Donbás: "Tomaremos una ciudad tras otra"](https://www.elperiodico.com/es/internacional/20260705/putin-llamada-telefono-donald-trump-conquistar-todo-donbas-132137607)<br>
 09:21 [En directo | Juanma Moreno toma posesión como presidente de la Junta de Andalucía](https://www.elperiodico.com/es/videos/politica/directo-juanma-moreno-toma-posesion/132137506.shtml)<br>
 09:00 [Barcelona impulsará una FP especializada para cubrir el déficit europeo de 65.000 expertos en chips](https://www.elperiodico.com/es/economia/20260705/barcelona-impulsara-fp-especializada-cubrir-132137139)<br>
+09:00 [Un nuevo orden energético en Oriente Medio: los países del Golfo buscan vías alternativas al estrecho de Ormuz](https://www.elperiodico.com/es/internacional/20260705/nuevo-orden-energetico-oriente-medio-paises-golfos-buscan-vias-alternativas-estrecho-ormuz-petroleo-gas-132137150)<br>
 08:59 [Sobre(vivir) a la crianza - Cómo negociar con adolescentes](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-negociar-adolescentes/131983346.shtml)<br>
 06:02 [El verdadero coste de las olas de calor](https://www.elperiodico.com/es/opinion/20260705/verdadero-coste-olas-calor-132134173)<br>
 06:01 [¿Cómo quiere gobernar el PP?](https://www.elperiodico.com/es/opinion/20260705/como-quiere-gobernar-el-pp-articulo-astrid-barrio-132131929)<br>
