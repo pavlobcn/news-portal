@@ -1,5 +1,50 @@
 [
   {
+    "title": "La primera derrota de la nueva era",
+    "link": "https://as.com/opinion/la-primera-derrota-de-la-nueva-era-f202607-n/",
+    "pubDate": "2026-07-05 22:00:05",
+    "category": "Chus Mateo",
+    "description": "El primer tropiezo de Chus Mateo al frente de la Selección llegó de una manera inesperada, tras desperdiciar ante Georgia una ventaja de 22 puntos. Una lección de futuro.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вімблдон скасував участь представників агресора у турнірі",
+    "link": "https://ua.korrespondent.net/sport/tenis/4891844-vimbldon-skasuvav-uchast-predstavnykiv-ahresora-u-turniri",
+    "pubDate": "2026-07-05 21:59:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480372.jpg\">Усі без винятку представники країни-агресора припинили участь у міжнародному тенісному турнірі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Зеленський озвучив втрати росіян у червні",
+    "link": "https://ua.korrespondent.net/ukraine/4891842-zelenskyi-ozvuchyv-vtraty-rosiian-u-chervni",
+    "pubDate": "2026-07-05 21:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480393.jpg\">Майже 30 тисяч підтверджених уражень російських окупантів на фронті - ліквідованими та важкопораненими.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sigue en directo el Brasil-Noruega de octavos del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260705/brasil-noruega-octavos-final-mundial-futbol-2026-132152999",
+    "pubDate": "2026-07-05 21:41:12",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260705/vinicius-haaland-formas-liderar-equipo-132115790\" target=\"_blank\">Vinicius y Haaland, dos formas de liderar un equipo</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Росія затягне початок переговорів до 2027-го - FT",
+    "link": "https://ua.korrespondent.net/world/4891840-rosiia-zatiahne-pochatok-perehovoriv-do-2027-ho-FT",
+    "pubDate": "2026-07-05 21:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480371.jpg\">У Кремлі розраховують на цілковиту окупацію Донеччини та поступки з боку України й США.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Sánchez informa del despliegue de efectivos de la UME y el MITECO para colaborar en los incendios y pide precaución",
     "link": "https://www.elperiodico.com/es/sociedad/20260705/sanchez-informa-despliegue-efectivos-ume-132152798",
     "pubDate": "2026-07-05 21:07:20",
@@ -131,6 +176,15 @@
     "pubDate": "2026-07-05 19:58:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480326.jpg\">Нині росіяни перебувають у ситуації, коли те, чого вони можуть досягти тривалими наступальними операціями, \"наближається до нуля\", заявив віцепрезидент США.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se amplían las restricciones por peligro extremo de incendio en los espacios naturales de la Ribera Salada y la Baronia de Rialb",
+    "link": "https://www.elperiodico.com/es/barcelona/20260705/amplian-restricciones-peligro-extremo-incendio-132151407",
+    "pubDate": "2026-07-05 19:56:22",
+    "category": "",
+    "description": "<h2>A partir de la medianoche del lunes, se activa el nivel 4 del Plan Alfa en estas zonas y en 45 municipios de 9 comarcas</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260705/incendio-fuera-control-cerca-ciudad-grecia-salonica-132145017\">Un incendio fuera de control cerca de la ciudad griega de Salónica obliga a evacuar viviendas</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -632,6 +686,15 @@
   {
     "title": "РФ за тиждень застосувала 2200 дронів проти Ураїни",
     "link": "https://ua.korrespondent.net/ukraine/4891803-rf-za-tyzhden-zastosuvala-2200-droniv-proty-urainy",
+    "pubDate": "2026-07-05 15:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480170.jpg\">Україна вже має потужності збивати понад 90% дронів, однак балістичні ракети досі перехоплюються не всі, визнав президент.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ за тиждень застосувала 2200 БпЛА проти України",
+    "link": "https://ua.korrespondent.net/ukraine/4891803-rf-za-tyzhden-zastosuvala-2200-bpla-proty-ukrainy",
     "pubDate": "2026-07-05 15:23:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480170.jpg\">Україна вже має потужності збивати понад 90% дронів, однак балістичні ракети досі перехоплюються не всі, визнав президент.",
@@ -1681,6 +1744,15 @@
     "description": "<h2 class=\"item\">EL PERIÓDICO recorre espacios del templo de Gaudí inaccesibles para el público, tras la bendición de la torre de Jesús</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260614/rincones-secretos-sagrada-familia-sacristia-130258301\" target=\"_blank\">Los rincones secretos de la Sagrada Família (I): la sacristía de cristal</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260621/rincones-secretos-sagrada-familia-huerto-129741052\">Los rincones secretos de la Sagrada Família (II): el huerto junto al sepulcro de Jesús</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20260628/rincones-secretos-sagrada-familia-sotanos-131537860\">Los rincones secretos de la Sagrada Família (III): ¿qué hay debajo del templo?</a></h2>",
     "topic": "0",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Alimentación afrodisiaca: un menú de tres platos y un batido que aumentarán tu deseo sexual",
+    "link": "https://www.elperiodico.com/es/gente/alimentos-afrodisiacos-131544627-rm/index.html",
+    "pubDate": "2026-07-05 06:00:58",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
   },
   {
     "title": "Laura Zurita (dietista): \"Hasta el 30% del deseo sexual se puede mejorar con la nutrición; en el caso del colesterol solo se mejora un 10%, pero ponemos más empeño\"",
