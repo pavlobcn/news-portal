@@ -1,5 +1,86 @@
 [
   {
+    "title": "У Бєлгороді після удару стався блекаут",
+    "link": "https://ua.korrespondent.net/world/russia/4892173-u-bielhorodi-pislia-udaru-stavsia-blekaut",
+    "pubDate": "2026-07-06 23:57:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481380.jpg\">Моніторингові канали пишуть про удар по ТЕЦ і аеропорту. Місто хоч і частково без електрики, але не в повній темряві - нічне небо освітлює яскрава пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamine abraza a Cristiano, por Juan Cruz Ruiz",
+    "link": "https://www.elperiodico.com/es/deportes/20260706/lamine-abraza-cristiano-golpe-franco-juan-cruz-ruiz-132194527",
+    "pubDate": "2026-07-06 23:46:06",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260706/espana-portugal-resumen-resultado-futbol-mundial-2026-132193644\">El talismán Merino mete a España en cuartos en el último baile de Cristiano</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cristiano exhibe su decrepitud en el Mundial de la vergüenza de Trump",
+    "link": "https://www.elperiodico.com/es/deportes/20260706/cristiano-exhibe-decrepitud-mundial-verguenza-132193034",
+    "pubDate": "2026-07-06 23:43:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya amplía las restricciones de acceso a parques naturales por peligro extremo de incendio",
+    "link": "https://www.elperiodico.com/es/sociedad/20260706/catalunya-amplia-restricciones-acceso-parques-incendio-riesgo-extremo-132194492",
+    "pubDate": "2026-07-06 23:39:50",
+    "category": "",
+    "description": "<h2>A partir de medianoche de este martes se activa el nivel 4 del plan Alfa en 111 municipios de 18 comarcas.</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260706/incendios-forestales-catalunya-espana-directo-131393069\">Incendios forestales en Catalunya y resto de España, en directo | Última hora del fuego en La Bisbal y Sentmenat</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En la era de Vitinha y Pedri, Rodri sigue siendo el rey",
+    "link": "https://www.elperiodico.com/es/deportes/20260706/vitinha-pedri-rodri-sigue-rey-132194262",
+    "pubDate": "2026-07-06 23:28:24",
+    "category": "",
+    "description": "<h2 class=\"item\">LA CRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20260706/espana-portugal-resumen-resultado-futbol-mundial-2026-132193644\" target=\"_blank\">El talismán Merino mete a España en cuartos en el último baile de Cristiano</a></h2><h2 class=\"item\">LA CONTRACRÓNICA: <a href=\"https://www.elperiodico.com/es/deportes/20260706/cero-unai-simon-espana-siga-132190778\" target=\"_blank\">El cero de Unai Simón para que España siga sumando victorias</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El cero de Unai Simón para que España siga sumando victorias",
+    "link": "https://www.elperiodico.com/es/deportes/20260706/cero-unai-simon-espana-siga-132190778",
+    "pubDate": "2026-07-06 23:23:02",
+    "category": "",
+    "description": "<h2>La crónica: <a href=\"https://www.elperiodico.com/es/deportes/20260706/espana-portugal-resumen-resultado-futbol-mundial-2026-132193644\">El talismán Merino mete a España en cuartos en el último baile de Cristiano</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Києві з-під завалів дістали ще два тіла",
+    "link": "https://ua.korrespondent.net/city/kiev/4892168-u-kyievi-z-pid-zavaliv-distaly-sche-dva-tila",
+    "pubDate": "2026-07-06 23:20:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481357.jpg\">Кількість загиблих внаслідок російського удару по столиці зросла до 18. Роботи по розбору завалів тривають.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La gran humareda en la Universidad Complutense queda en un susto: extinguido el incendio sin heridos",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/gran-humareda-universidad-complutense-queda-extinguido-incendio/132193988.shtml",
+    "pubDate": "2026-07-06 23:14:13",
+    "category": "",
+    "description": "Los bomberos del Ayuntamiento de Madrid han sofocado el fuego originado en un cuarto de instalaciones de climatización",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El talismán Merino mete a España en cuartos en el último baile de Cristiano",
+    "link": "https://www.elperiodico.com/es/deportes/20260706/espana-portugal-resumen-resultado-futbol-mundial-2026-132193644",
+    "pubDate": "2026-07-06 23:09:05",
+    "category": "",
+    "description": "<h2>Un gol del pamplonica en el minuto 90 deja en la cuneta a los lusos, que fueron dominados por una España donde Olmo fue el mejor. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "La falta de sueño sostenida puede provocar un aumento de peso de hasta medio kg en apenas un mes y medio",
     "link": "https://www.elperiodico.com/es/sociedad/20260706/dormir-poco-aumento-peso-estudio-132180502",
     "pubDate": "2026-07-06 23:00:26",
@@ -968,6 +1049,15 @@
     "pubDate": "2026-07-06 16:53:23",
     "category": "",
     "description": "<h2>Vox ha impuesto el relato público en Andalucía y en consecuencia ha validado, vía Bonilla, sus tesis más extremas. Es decir, Vox ha conseguido que el líder más liberal del PP normalizara su discurso</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260705/moreno-defiende-pacto-vox-toma-132138693\">Moreno defiende el pacto con Vox en una toma de posesión de perfil bajo: \"La vía andaluza siempre ha sido contraria a los cordones sanitarios\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hacienda propone a las CCAA debatir objetivos de déficit asimétricos según la situación fiscal de cada una",
+    "link": "https://www.elperiodico.com/es/economia/20260706/hacienda-propone-ccaa-debatir-objetivos-132181881",
+    "pubDate": "2026-07-06 16:50:50",
+    "category": "",
+    "description": "<h2>La propuesta ha nacido directamente del ministro, con el apoyo de Catalunya </h2><h2>Madrid, Andalucía y Extremadura manifiestan su oposición, mientras que Valencia y Murcia se muestran más abiertas</h2>",
     "topic": "",
     "topic_match_probability": 0
   },

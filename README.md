@@ -1,8 +1,10 @@
-# News for 2026-07-06 23:07
+# News for 2026-07-07 00:37
 
 Previous day: [2026-07-05](./data/2026-07-05.md)
 
 ## ua.korrespondent.net
+23:57 [У Бєлгороді після удару стався блекаут](https://ua.korrespondent.net/world/russia/4892173-u-bielhorodi-pislia-udaru-stavsia-blekaut)<br>
+23:20 [У Києві з-під завалів дістали ще два тіла](https://ua.korrespondent.net/city/kiev/4892168-u-kyievi-z-pid-zavaliv-distaly-sche-dva-tila)<br>
 22:52 [У Київській області оголосили день жалоби за загиблими](https://ua.korrespondent.net/ukraine/4892164-u-kyivskii-oblasti-oholosyly-den-zhaloby-za-zahyblymy)<br>
 22:52 [Спір на користь Москви. Військова допомога Польщі](https://ua.korrespondent.net/ukraine/4892166-spir-na-koryst-moskvy-viiskova-dopomoha-polschi)<br>
 22:24 [Зеленський розповів про плани витиснути Путіна з Москви](https://ua.korrespondent.net/ukraine/4892159-zelenskyi-rozpoviv-pro-plany-vytysnuty-putina-z-moskvy)<br>
@@ -124,6 +126,8 @@ Previous day: [2026-07-05](./data/2026-07-05.md)
 11:36 [Catorce jugadores sujetos al tanteo en la ACB: Cabarrot, Ndiaye...](https://as.com/baloncesto/acb/14-jugadores-sujetos-al-derecho-de-tanteo-en-acb-cabarrot-y-ndiaye-los-mas-destacados-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:39 [Catalunya amplía las restricciones de acceso a parques naturales por peligro extremo de incendio](https://www.elperiodico.com/es/sociedad/20260706/catalunya-amplia-restricciones-acceso-parques-incendio-riesgo-extremo-132194492)<br>
+23:14 [La gran humareda en la Universidad Complutense queda en un susto: extinguido el incendio sin heridos](https://www.elperiodico.com/es/videos/sucesos/gran-humareda-universidad-complutense-queda-extinguido-incendio/132193988.shtml)<br>
 23:00 [La falta de sueño sostenida puede provocar un aumento de peso de hasta medio kg en apenas un mes y medio](https://www.elperiodico.com/es/sociedad/20260706/dormir-poco-aumento-peso-estudio-132180502)<br>
 22:35 [Tres incendios simultáneos ponen a Cataluña en una situación extremadamente complicada](https://www.elperiodico.com/es/videos/sucesos/tres-incendios-simultaneos-ponen-cataluna/132193261.shtml)<br>
 22:04 [El segundo día de la ola de calor deja máximas por encima de los 43 grados antes del gran estallido de temperaturas previsto a partir del martes](https://www.elperiodico.com/es/videos/sociedad/incendio-sentmenat-afecta-60-hectareas/132192991.shtml)<br>
@@ -168,6 +172,7 @@ Previous day: [2026-07-05](./data/2026-07-05.md)
 17:00 [Arrancan los Sanfermines 2026](https://www.elperiodico.com/es/videos/sociedad/arrancan-sanfermines-2026/132182235.shtml)<br>
 16:55 [La exsubdirectora de Salut Pública desvincula a Argimon de la gestión directa de la vacunación a policías y guardias civiles](https://www.elperiodico.com/es/politica/20260706/cabezas-exsubdirectora-salut-publica-desvincula-argimon-vacunacion-policias-verges-juicio-132181073)<br>
 16:53 [¿Quién tiene la culpa?](https://www.elperiodico.com/es/opinion/20260706/culpa-pp-vox-articulo-pilar-rahola-132181155)<br>
+16:50 [Hacienda propone a las CCAA debatir objetivos de déficit asimétricos según la situación fiscal de cada una](https://www.elperiodico.com/es/economia/20260706/hacienda-propone-ccaa-debatir-objetivos-132181881)<br>
 16:49 [Las extrabajadoras despedidas del Institut Josep Carreras denuncian en Europa que no fueron protegidas tras alertar de las irregularidades](https://www.elperiodico.com/es/sociedad/20260706/denunciantes-institut-josep-carreras-desvio-fondos-irregularidades-manel-esteller-llevan-caso-defensor-pueblo-europeo-132167979)<br>
 16:47 [Pacientes respiratorios critican el rechazo a financiar dupilumab, el primer fármaco biológico para la EPOC tras más de 15 años sin avances: "Difícil de justificar"](https://www.elperiodico.com/es/sanidad/20260706/pacientes-respiratorios-critican-rechazo-financiar-dupilumab-farmaco-biologico-epoc-anos-avances-dificil-justificar-132179985)<br>
 16:38 [Los Bombers mantienen el optimismo en Les Gavarres, pero temen la simultaneidad de incendios](https://www.elperiodico.com/es/sociedad/20260706/bombers-mantienen-optimismo-les-gavarres-preocupa-simultaneidad-incendios-132181275)<br>
