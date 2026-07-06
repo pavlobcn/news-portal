@@ -1,8 +1,27 @@
-# News for 2026-07-06 16:36
+# News for 2026-07-06 19:26
 
 Previous day: [2026-07-05](./data/2026-07-05.md)
 
 ## ua.korrespondent.net
+19:23 [Рютте підтвердив постачання озброєння Україні у межах PURL](https://ua.korrespondent.net/world/4892122-ruitte-pidtverdyv-postachannia-ozbroiennia-ukraini-u-mezhakh-PURL)<br>
+19:21 [Внаслідок російського обстрілу загинули двоє працівниць Укренерго](https://ua.korrespondent.net/ukraine/4892120-vnaslidok-rosiiskoho-obstrilu-zahynuly-dvoie-pratsivnyts-ukrenerho)<br>
+18:58 [Під час перехоплення дронів загинув екіпаж Мі-8](https://ua.korrespondent.net/ukraine/4892118-pid-chas-perekhoplennia-droniv-zahynuv-ekipazh-mi-8)<br>
+18:56 [Трамп зробив заяву щодо війни в Україні](https://ua.korrespondent.net/world/4892116-tramp-zrobyv-zaiavu-schodo-viiny-v-ukraini)<br>
+18:32 [У Криму не можуть назвати терміни відновлення електропостачання](https://ua.korrespondent.net/ukraine/4892110-u-krymu-ne-mozhut-nazvaty-terminy-vidnovlennia-elektropostachannia)<br>
+18:29 [Російська нафта обвалилася нижче $42](https://ua.korrespondent.net/business/economics/4892108-rosiiska-nafta-obvalylasia-nyzhche-42)<br>
+18:01 [Окупанти третій день поспіль обстрілюють об'єкти Нафтогазу](https://ua.korrespondent.net/ukraine/4892104-okupanty-tretii-den-pospil-obstriluiuit-obiekty-naftohazu)<br>
+17:53 [Саудівська Аравія різко знизила ціну на нафту: рекорд за 26 років](https://ua.korrespondent.net/business/financial/4892098-saudivska-araviia-rizko-znyzyla-tsinu-na-naftu-rekord-za-26-rokiv)<br>
+17:51 [Обстріл Київщини: семеро загиблих, 29 постраждалих](https://ua.korrespondent.net/ukraine/4892100-obstril-kyivschyny-semero-zahyblykh-29-postrazhdalykh)<br>
+17:45 [Атака Росії: у НАТО заявили про "відчай" Путіна](https://ua.korrespondent.net/world/4892096-ataka-rosii-u-nato-zaiavyly-pro-vidchai-putina)<br>
+17:25 [Китай запустив балістичну ракету із субмарини в Тихому океані](https://ua.korrespondent.net/world/4892093-kytai-zapustyv-balistychnu-raketu-iz-submaryny-v-tykhomu-okeani)<br>
+17:17 [Росія втратила два дрони вартістю $10 млн в Керчі](https://ua.korrespondent.net/ukraine/4892090-rosiia-vtratyla-dva-drony-vartistui-10-mln-v-kerchi)<br>
+17:14 [Ухвалення 21-го пакета санкцій ЄС проти РФ можуть відкласти на осінь - ЗМІ](https://ua.korrespondent.net/world/4892088-ukhvalennia-21-ho-paketa-sanktsii-yes-proty-rf-mozhut-vidklasty-na-osin-zmi)<br>
+17:03 [Мобілізація в РФ: у провоєнних каналах ширяться прогнози](https://ua.korrespondent.net/world/russia/4892084-mobilizatsiia-v-rf-u-provoiennykh-kanalakh-shyriatsia-prohnozy)<br>
+17:00 [Блекаут у Берліні визнали терористичною атакою: що відомо](https://ua.korrespondent.net/world/4892081-blekaut-u-berlini-vyznaly-terorystychnoui-atakoui-scho-vidomo)<br>
+16:57 [Росіяни обстріляли Запоріжжя, є загибла та 10 поранених](https://ua.korrespondent.net/ukraine/4892083-rosiiany-obstrilialy-zaporizhzhia-ye-zahybla-ta-10-poranenykh)<br>
+16:48 [Генштаб: Росія концентрує атаки на трьох напрямках](https://ua.korrespondent.net/ukraine/4892079-henshtab-rosiia-kontsentruie-ataky-na-trokh-napriamkakh)<br>
+16:38 [На Прикарпатті другий день не можуть загасити лісову пожежу](https://ua.korrespondent.net/ukraine/4892074-na-prykarpatti-druhyi-den-ne-mozhut-zahasyty-lisovu-pozhezhu)<br>
+16:33 [У РФ арештували ще одного топ-менеджера, пов'язаного з Ротенбергом](https://ua.korrespondent.net/world/russia/4892076-u-rf-areshtuvaly-sche-odnoho-top-menedzhera-poviazanoho-z-rotenberhom)<br>
 16:27 [ЄС шукає рішення для зменшення черг на кордонах](https://ua.korrespondent.net/world/4892073-yes-shukaie-rishennia-dlia-zmenshennia-cherh-na-kordonakh)<br>
 16:20 [У Польщі заявили про відновлення в країні ротації військ США](https://ua.korrespondent.net/world/4892070-u-polschi-zaiavyly-pro-vidnovlennia-v-kraini-rotatsii-viisk-ssha)<br>
 16:17 [Удар по Києву: під завалами знайшли 15 загиблих](https://ua.korrespondent.net/city/kiev/4892069-udar-po-kyievu-pid-zavalamy-znaishly-15-zahyblykh)<br>
@@ -83,12 +102,45 @@ Previous day: [2026-07-05](./data/2026-07-05.md)
 00:42 [Російські хакери торгують украденими даними з пошти урядовців Британії](https://ua.korrespondent.net/tech/technews/4891857-rosiiski-khakery-torhuuit-ukradenymy-danymy-z-poshty-uriadovtsiv-brytanii)<br>
 
 ## as.com
+18:37 [Nikola Mirotic busca casa](https://as.com/baloncesto/euroliga/nikola-mirotic-busca-casa-f202607-n/)<br>
+18:09 [El Valencia congela los precios de los abonos tras la desbandada](https://as.com/baloncesto/el-valencia-congela-los-precios-de-los-abonos-tras-la-desbandada-f202607-n/)<br>
 14:26 [Efecto dominó: Hezonja podría marcharse del Real Madrid](https://as.com/baloncesto/euroliga/efecto-domino-hezonja-podria-marcharse-del-real-madrid-f202607-n/)<br>
 14:01 [El Baskonia comprará el Buesa Arena](https://as.com/baloncesto/el-baskonia-comprara-el-buesa-arena-f202607-n/)<br>
 12:04 [Oficial: Pedro Martínez entrenará al Madrid](https://as.com/baloncesto/acb/oficial-pedro-martinez-entrenara-al-madrid-f202607-n/)<br>
 11:36 [Catorce jugadores sujetos al tanteo en la ACB: Cabarrot, Ndiaye...](https://as.com/baloncesto/acb/14-jugadores-sujetos-al-derecho-de-tanteo-en-acb-cabarrot-y-ndiaye-los-mas-destacados-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:19 [Un juez sustituto de Peinado impide a Begoña Gómez viajar a la cumbre de la OTAN, pero sí le permite ir a Londres a la graduación de su hija](https://www.elperiodico.com/es/videos/politica/juez-sustituto-peinado-impide-begona/132189138.shtml)<br>
+19:07 [Los Andic han pagado ya a la Agencia Tributaria catalana los impuestos asociados a la herencia del fundador de Mango](https://www.elperiodico.com/es/economia/20260706/andic-han-pagado-agencia-tributaria-132180085)<br>
+19:07 [El príncipe Enrique llega a Londres entre la confusión por su alojamiento y seguridad](https://www.elperiodico.com/es/gente/20260706/principe-enrique-llega-londres-confusion-132188215)<br>
+19:06 [Las comunidades del PP rechazan los objetivos de estabilidad del Gobierno: "No disponemos de recursos suficientes"](https://www.elperiodico.com/es/politica/20260706/comunidades-pp-rechazan-objetivos-estabilidad-132188648)<br>
+19:03 [Rutte promete una lluvia de "miles de millones de dólares" en gasto en defensa y agradece la presión de Trump a los aliados europeos](https://www.elperiodico.com/es/internacional/20260706/rutte-promete-lluvia-miles-millones-gasto-defensa-agradece-presion-trump-aliados-132188559)<br>
+18:58 [Los Bomberos activan un centro de mando único por la simultaneidad de incendios en Catalunya](https://www.elperiodico.com/es/sociedad/20260706/bomberos-centro-mando-unico-simultaneidad-incendios-cataluna-132187936)<br>
+18:51 [Un fármaco experimental podría proteger a las neuronas del daño causado por la ELA](https://www.elperiodico.com/es/tendencias21/20260706/farmaco-experimental-proteger-neuronas-dano-132188050)<br>
+18:50 [Joan Costa, el hombre detrás de los logotipos de Telefónica, Movistar, La Caixa, Seat, Aigües de Barcelona o Renfe](https://www.elperiodico.com/es/ocio-y-cultura/20260706/joan-costa-hombre-detras-logotipos-132177282)<br>
+18:30 [El segundo día de la ola de calor deja máximas por encima de los 43 grados antes del gran estallido de temperaturas previsto a partir del martes](https://www.elperiodico.com/es/sociedad/20260706/lunes-segundo-dia-ola-calor-espana-balance-maximas-132185309)<br>
+18:30 [Los vecinos del Turó de la Rovira reciben con escepticismo la primera reunión para combatir la masificación en la zona](https://www.elperiodico.com/es/barcelona/20260706/barcelona-grupo-trabajo-masificacion-incivismo-turo-rovira-bunkers-carmel-132175998)<br>
+18:26 [El gasto en Defensa dispara el endeudamiento de Alemania, que sacrifica la ayuda al desarrollo](https://www.elperiodico.com/es/internacional/20260706/gasto-defensa-dispara-endeudamiento-alemania-sacrifica-ayuda-desarrollo-132186171)<br>
+18:18 [Jonathan Anderson convierte los pliegues en arte en el desfile de alta costura de Dior](https://www.elperiodico.com/es/vida-y-estilo/20260706/jonathan-anderson-convierte-pliegues-arte-132184622)<br>
+18:12 [Un estudio desvela que los hombres mayores de 45 años presentan un 31% más de mutaciones en el esperma](https://www.elperiodico.com/es/sanidad/20260706/estudio-desvela-hombres-mayores-45-presentan-mutaciones-esperma-132184232)<br>
+18:10 [Confinan siete urbanizaciones en el incendio de Sentmenat](https://www.elperiodico.com/es/videos/sociedad/confinan-siete-urbanizaciones-incendio-sentmenat/132185426.shtml)<br>
+18:04 [La CIAF apunta que la rotura del carril en Adamuz se produjo "22 horas antes del accidente"](https://www.elperiodico.com/es/economia/20260706/ciaf-apunta-rotura-carril-adamuz-132185286)<br>
+18:00 [Los Bombers movilizan 26 dotaciones en un incendio en Sentmenat](https://www.elperiodico.com/es/videos/sucesos/bombers-movilizan-26-dotaciones-incendio/132184841.shtml)<br>
+17:52 [Catalunya retira los envases grandes de antibióticos para paliar la creciente resistencia a estos fármacos](https://www.elperiodico.com/es/sanidad/20260706/salut-cataluna-retira-envases-grandes-antibioticos-132184149)<br>
+17:49 [Los 200 iPods de Karl Lagerfeld y otros tesoros de Martin Margiela, a subasta en París](https://www.elperiodico.com/es/ocio-y-cultura/20260706/200-ipods-karl-lagerfeld-tesoros-132184342)<br>
+17:37 [Una ciudad, dos veranos](https://www.elperiodico.com/es/opinion/20260706/ciudad-veranos-casals-infancia-articulo-elisenda-alamany-132183102)<br>
+17:35 [Ni el móvil ni la hora de dormir: el motivo que casi nunca sirve para cambiar una custodia según la abogada Laura Lobo](https://www.elperiodico.com/es/economia/20260706/custodia-compartida-divorcio-discrepancias-educativas-hijos-menores-dv-132004237)<br>
+17:31 [La cara b de la cumbre de la OTAN: Turquía detiene a cientos de personas y prohíbe todo acto público por miedo a manifestaciones](https://www.elperiodico.com/es/internacional/20260706/cara-b-cumbre-otan-turquia-detiene-cientos-personas-prohibe-actos-publicos-protestas-132183540)<br>
+17:25 [Bomberos luchan desde sábado en el incendio del Sur de Francia, cerca de Perpinyà](https://www.elperiodico.com/es/fotos/internacional/bomberos-luchan-sabado-incendio-sur-132183202)<br>
+17:15 [El renovado Foro de la Colonia de Tarragona abrirá sus puertas este viernes tras más de un año de obras](https://www.elperiodico.com/es/tarragona/20260706/tarragona-reabrira-nuevo-foro-colonia-romano-tarraco-132181761)<br>
+17:08 [El PP anuncia una ley en la que el concebido no nacido cuente a efectos administrativos](https://www.elperiodico.com/es/videos/politica/pp-anuncia-ley-concebido-nacido/132182582.shtml)<br>
+17:04 [Nuria Roure, psicóloga experta en sueño revela los tres errores que te impiden dormir cuando tienes insomnio](https://www.elperiodico.com/es/salud/20260706/nuria-roure-psicologa-experta-sueno-tres-errores-dormir-dv-131876172)<br>
+17:00 [Arrancan los Sanfermines 2026](https://www.elperiodico.com/es/videos/sociedad/arrancan-sanfermines-2026/132182235.shtml)<br>
+16:55 [La exsubdirectora de Salut Pública desvincula a Argimon de la gestión directa de la vacunación a policías y guardias civiles](https://www.elperiodico.com/es/politica/20260706/cabezas-exsubdirectora-salut-publica-desvincula-argimon-vacunacion-policias-verges-juicio-132181073)<br>
+16:53 [¿Quién tiene la culpa?](https://www.elperiodico.com/es/opinion/20260706/culpa-pp-vox-articulo-pilar-rahola-132181155)<br>
+16:49 [Las extrabajadoras despedidas del Institut Josep Carreras denuncian en Europa que no fueron protegidas tras alertar de las irregularidades](https://www.elperiodico.com/es/sociedad/20260706/denunciantes-institut-josep-carreras-desvio-fondos-irregularidades-manel-esteller-llevan-caso-defensor-pueblo-europeo-132167979)<br>
+16:47 [Pacientes respiratorios critican el rechazo a financiar dupilumab, el primer fármaco biológico para la EPOC tras más de 15 años sin avances: "Difícil de justificar"](https://www.elperiodico.com/es/sanidad/20260706/pacientes-respiratorios-critican-rechazo-financiar-dupilumab-farmaco-biologico-epoc-anos-avances-dificil-justificar-132179985)<br>
+16:38 [Los Bombers mantienen el optimismo en Les Gavarres, pero temen la simultaneidad de incendios](https://www.elperiodico.com/es/sociedad/20260706/bombers-mantienen-optimismo-les-gavarres-preocupa-simultaneidad-incendios-132181275)<br>
 16:32 [La Generalitat investiga si un agente de la ARRO de Barcelona incitó a insultar a Pedro Sánchez en un acto policial](https://www.elperiodico.com/es/barcelona/20260706/generalitat-investiga-agente-arro-barcelona-132179653)<br>
 16:10 [Un incendio forestal afecta a unas 10 hectáreas cerca de Sentmenat](https://www.elperiodico.com/es/barcelona/20260706/incendio-forestal-afecta-10-hectareas-132180184)<br>
 16:08 [Un incendio arde a gran intensidad impulsado por el viento y el calor en Sentmenat](https://www.elperiodico.com/es/videos/sucesos/incendio-arde-gran-intensidad-impulsado/132180348.shtml)<br>
@@ -117,6 +169,7 @@ Previous day: [2026-07-05](./data/2026-07-05.md)
 14:01 [Junts descarta apoyar el nuevo modelo de financiación en el Congreso: "Perpetúa el 'café para todos'"](https://www.elperiodico.com/es/politica/20260706/junts-modelo-financiacion-autonomica-erc-concierto-economico-132172442)<br>
 13:47 [Un juez sustituto decidirá si permite a Begoña Gómez viajar porque Peinado está de vacaciones](https://www.elperiodico.com/es/politica/20260706/juez-sustituto-begona-gomez-permiso-viajar-vacaciones-peinado-132173908)<br>
 13:43 [La ONU exige una regulación global de la IA para reducir sus riesgos](https://www.elperiodico.com/es/internacional/20260706/onu-exige-regulacion-global-ia-inteligencia-artificial-naciones-unidas-132173632)<br>
+13:39 [En imágenes | Chupinazo de las fiestas de San Fermín 2026](https://www.elperiodico.com/es/fotos/sociedad/imagenes-chupinazo-fiestas-san-fermin-2026-132173358)<br>
 13:14 [Catalunya usará drones para detectar abusos laborales durante la campaña de recogida de fruta](https://www.elperiodico.com/es/economia/20260706/cataluna-drones-detectar-abusos-laborales-campana-recogida-fruta-132166510)<br>
 13:14 [Hacienda aprueba un incremento del 4% la regla de gasto de las comunidades para 2027 con el rechazo del PP](https://www.elperiodico.com/es/politica/20260706/hacienda-comunidades-objetivo-deficit-0-1-132169900)<br>
 13:13 [Diferencias entre deshidratación, agotamiento y golpe de calor: así puedes identificarlos](https://www.elperiodico.com/es/salud/20260706/tiempo-golpe-calor-deshidratacion-agotamiento-diferencias-dv-132167264)<br>
