@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Росія запустила крилаті ракети та Калібри з моря",
+    "link": "https://ua.korrespondent.net/ukraine/4891869-rosiia-zapustyla-krylati-rakety-ta-kalibry-z-moria",
+    "pubDate": "2026-07-06 02:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480562.jpg\">Військові о 02:52 повідомили про перші групи крилатих ракет на Сумщині курсом на Чернігівщину і Полтавщину.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіянам пропонують заправляти авто в Китаї - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4891867-rosiianam-proponuuit-zapravliaty-avto-v-kytai-sotsmerezhi",
+    "pubDate": "2026-07-06 02:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480551.jpg\">Забайкальський край РФ переживає гострий дефіцит палива ще з кінця червня, пишуть місцеві Telegram-канали.",
+    "topic": "автомобілі",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "РФ завдала удару по Одесі: спалахнули пожежі",
+    "link": "https://ua.korrespondent.net/city/odessa/4891865-rf-zavdala-udaru-po-odesi-spalakhnuly-pozhezhi",
+    "pubDate": "2026-07-06 01:59:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480524.jpg\">Поранення внаслідок ударів по місту дістав 23-річний чоловік; медики надають йому усю необхідну допомогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Києву: стали відомі перші наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4891863-udar-po-kyievu-staly-vidomi-pershi-naslidky",
+    "pubDate": "2026-07-06 01:47:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480523.jpg\">Руйнування будинку в Подільському районі і кілька пожеж в Голосіївському районі фіксують у столиці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни атакують Київ балістикою - ЗМІ",
+    "link": "https://ua.korrespondent.net/city/kiev/4891859-rosiiany-atakuuit-kyiv-balistykoui-zmi",
+    "pubDate": "2026-07-06 00:57:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480491.jpg\">Військові закликали киян негайно пройти в безпечні місця та перебувати там до сигналу про відбій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російські хакери торгують украденими даними з пошти урядовців Британії",
+    "link": "https://ua.korrespondent.net/tech/technews/4891857-rosiiski-khakery-torhuuit-ukradenymy-danymy-z-poshty-uriadovtsiv-brytanii",
+    "pubDate": "2026-07-06 00:42:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4480479.jpg\">Хакери скористалися вразливістю у понад 80 000 файрволів компанії Fortinet; логіни й паролі продають на форумах даркнету.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Haaland elimina a Brasil y Noruega seguirá remando en el Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260706/haaland-elimina-brasil-noruega-seguira-132153583",
+    "pubDate": "2026-07-06 00:23:02",
+    "category": "",
+    "description": "<h2>El delantero marcó dos goles en los últimos diez minutos y liquida a la 'canarinha' cuando el desesperado Ancelotti había apostado por Neymar</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "The Offspring y Bad Religion sacan pecho con su punk californiano en el clímax del Rock Fest",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260706/the-offspring-bad-religion-sacan-132154176",
+    "pubDate": "2026-07-06 00:01:14",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Ambas bandas exhibieron vigor y veteranía en la jornada final de la muestra del parque de Can Zam</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260704/heavy-metal-puro-reconquista-rock-festival-can-zam-132133820\" target=\"_blank\">El heavy metal puro reconquista el Rock Fest con Accept y Helloween</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  }
+]
