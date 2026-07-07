@@ -1,8 +1,9 @@
-# News for 2026-07-07 23:07
+# News for 2026-07-08 00:23
 
 Previous day: [2026-07-06](./data/2026-07-06.md)
 
 ## ua.korrespondent.net
+23:57 [РФ ударила по Києву балістикою: лунають вибухи](https://ua.korrespondent.net/city/kiev/4892467-rf-udaryla-po-kyievu-balistykoui-lunauit-vybukhy)<br>
 22:58 ["Імпорт не рятує": удари України зупинили топові НПЗ Росії](https://ua.korrespondent.net/world/russia/4892459-import-ne-riatuie-udary-ukrainy-zupynyly-topovi-npz-rosii)<br>
 22:06 [Нова стратегія для України. Саміт НАТО в Анкарі](https://ua.korrespondent.net/ukraine/4892455-nova-stratehiia-dlia-ukrainy-samit-nato-v-ankari)<br>
 21:56 [Генштаб оновив дані щодо боїв на фронті](https://ua.korrespondent.net/ukraine/4892452-henshtab-onovyv-dani-schodo-boiv-na-fronti)<br>
@@ -121,6 +122,7 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 07:04 [Al Barça se le escapa todo](https://as.com/baloncesto/acb/al-barca-se-le-escapa-todo-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:42 [EE. UU. lanza "fuertes" ataques contra Irán en respuesta a las "agresiones" contra buques en el estrecho de Ormuz](https://www.elperiodico.com/es/internacional/20260707/eeuu-lanza-fuertes-ataques-iran-132234249)<br>
 21:19 [EEUU defiende su plan de transición controlada en Venezuela pero asegura que la prioridad actual es responder a las consecuencias del doble terremoto](https://www.elperiodico.com/es/internacional/20260707/eeuu-defiende-plan-transicion-controlada-132232820)<br>
 21:09 [Jorge Azcón, a Salvador Illa y el MNAC sobre las obras de Sijena: "Ejecuten la sentencia; las responsabilidades penales son personales"](https://www.elperiodico.com/es/politica/20260707/presidente-aragon-jorge-azcon-afterwork-periodico-pinturas-sijena-132210875)<br>
 21:01 [Reforzar la prevención](https://www.elperiodico.com/es/opinion/20260707/reforzar-prevencion-incendios-editorial-132232196)<br>
