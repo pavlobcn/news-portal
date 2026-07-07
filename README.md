@@ -1,8 +1,14 @@
-# News for 2026-07-07 19:28
+# News for 2026-07-07 21:24
 
 Previous day: [2026-07-06](./data/2026-07-06.md)
 
 ## ua.korrespondent.net
+21:16 [В Італії під рибним ринком знайшли християнську базиліку з мозаїками](https://ua.korrespondent.net/tech/science/4892442-v-italii-pid-rybnym-rynkom-znaishly-khrystyiansku-bazyliku-z-mozaikamy)<br>
+20:56 [Україна підписала Drone Deal із Данією](https://ua.korrespondent.net/ukraine/4892438-ukraina-pidpysala-Drone-Deal-iz-daniieui)<br>
+20:25 [Житель Києва вчиняв сексуальне насильство щодо 5 малолітніх племінників](https://ua.korrespondent.net/ukraine/4892436-zhytel-kyieva-vchyniav-seksualne-nasylstvo-schodo-5-malolitnikh-pleminnykiv)<br>
+19:59 [Україна готує угоду Drone Deal з ФРН - Зеленський](https://ua.korrespondent.net/ukraine/4892433-ukraina-hotuie-uhodu-Drone-Deal-z-frn-zelenskyi)<br>
+19:58 [Вбивство підозрюваної в замаху на Єрмолаєва: затриманим вручили підозри](https://ua.korrespondent.net/ukraine/4892430-vbyvstvo-pidozruivanoi-v-zamakhu-na-yermolaieva-zatrymanym-vruchyly-pidozry)<br>
+19:37 [НКРЕКП прийняла рішення щодо тарифу Укренерго на передачу електроенергії](https://ua.korrespondent.net/ukraine/4892424-nkrekp-pryiniala-rishennia-schodo-taryfu-ukrenerho-na-peredachu-elektroenerhii)<br>
 19:15 [Російський ринок різко обвалився: акції компаній оновили мінімуми](https://ua.korrespondent.net/world/russia/4892422-rosiiskyi-rynok-rizko-obvalyvsia-aktsii-kompanii-onovyly-minimumy)<br>
 18:58 [Сирський зробив заяву щодо перелому у війні](https://ua.korrespondent.net/ukraine/4892419-syrskyi-zrobyv-zaiavu-schodo-perelomu-u-viini)<br>
 18:52 [Nothing представила смартфон Phone (4b)](https://ua.korrespondent.net/lifestyle/gadgets/4892413-Nothing-predstavyla-smartfon-Phone-4b)<br>
@@ -107,6 +113,14 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 07:04 [Al Barça se le escapa todo](https://as.com/baloncesto/acb/al-barca-se-le-escapa-todo-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:19 [EEUU defiende su plan de transición controlada en Venezuela pero asegura que la prioridad actual es responder a las consecuencias del doble terremoto](https://www.elperiodico.com/es/internacional/20260707/eeuu-defiende-plan-transicion-controlada-132232820)<br>
+21:09 [Jorge Azcón, a Salvador Illa y el MNAC sobre las obras de Sijena: "Ejecuten la sentencia; las responsabilidades penales son personales"](https://www.elperiodico.com/es/politica/20260707/presidente-aragon-jorge-azcon-afterwork-periodico-pinturas-sijena-132210875)<br>
+21:01 [Reforzar la prevención](https://www.elperiodico.com/es/opinion/20260707/reforzar-prevencion-incendios-editorial-132232196)<br>
+20:47 [Jorge Azcón, presidente de Aragón: "Este país necesita una reforma electoral mediante un pacto entre el PP y el PSOE"](https://www.elperiodico.com/es/politica/20260707/jorge-azcon-presidente-aragon-afterwork-periodico-pp-ley-electoral-132210858)<br>
+20:47 [Los grupos de apoyo a la paternidad de Barcelona benefician a más de 2.200 padres en 15 años](https://www.elperiodico.com/es/barcelona/20260707/grupos-apoyo-paternidad-barcelona-benefician-mas-dos-mi-doscientos-padres-132231743)<br>
+20:45 [Feijóo tacha de "cáncer" el absentismo laboral y Sánchez le ataca: "Deja claro de qué lado está"](https://www.elperiodico.com/es/politica/20260707/feijoo-tacha-cancer-absentismo-laboral-132231888)<br>
+20:31 [Marine Le Pen pasa página de la herencia envenenada de su padre](https://www.elperiodico.com/es/internacional/20260707/marine-le-pen-pasa-pagina-herencia-envenenada-padre-132231522)<br>
+20:19 [La caída de un rayo sobre un Alvia provoca retrasos en varios trenes de la línea de alta velocidad entre Madrid y Zaragoza, y obliga a detener alguno de ellos](https://www.elperiodico.com/es/sociedad/20260707/caida-rayo-alvia-provoca-retrasos-132231048)<br>
 19:21 [Todo listo para el megaconcierto de clásica en la Barceloneta: "Nuestro oficio consiste en crear belleza a través de la música"](https://www.elperiodico.com/es/ocio-y-cultura/20260707/josep-pons-ludovic-morlot-retan-barceloneta-132204136)<br>
 19:11 [Israel bombardea un campamento de desplazados en Gaza](https://www.elperiodico.com/es/videos/internacional/israel-bombardea-campamento-desplazados-gaza/132228764.shtml)<br>
 18:59 [El Real Madrid confirma el segundo 'clausulazo' al Valencia Basket para fichar a Jaime Pradilla](https://www.elperiodico.com/es/deportes/20260707/real-madrid-confirma-segundo-clausulazo-jaime-pradilla-baloncesto-132228267)<br>
@@ -122,6 +136,7 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 17:43 [La ola de calor deja al menos cuatro récords absolutos de temperatura en Catalunya y máximas de 43,7 grados](https://www.elperiodico.com/es/sociedad/20260707/ola-calor-cataluna-records-calor-martes-meteocat-132223854)<br>
 17:40 [La Audiencia de Barcelona reabre la causa contra los mossos que ayudaron a Puigdemont después de reaparecer en Barcelona](https://www.elperiodico.com/es/politica/20260707/audiencia-barcelona-causa-mossos-huida-puigdemont-132223564)<br>
 17:36 [Estrasburgo condena a Italia por una fiscal que justificó la violación en el seno del matrimonio: "Un hombre debe superar la resistencia de una mujer"](https://www.elperiodico.com/es/internacional/20260707/tribunal-estrasburgo-condena-italia-fiscal-justifico-violacion-matrimonio-hombre-resistencia-mujer-132224432)<br>
+17:33 [Zapatero pide que pare la inspección de Hacienda sobre sus joyas, emprendida "unilateral y caprichosamente"](https://www.elperiodico.com/es/politica/20260707/zapatero-pide-suspender-inspeccion-hacienda-132224235)<br>
 17:30 [Gabi y Tomás, la joven pareja que reforma una casa abandonada para cumplir su sueño: "Desde cero, sin experiencia y sin casi dinero, ahorrando mes a mes"](https://www.elperiodico.com/es/sociedad/20260707/gabi-tomas-veinteaneros-casa-abandonada-reforma-sin-experiencia-dinero-dv-131875228)<br>
 17:23 [Trump recupera las amenazas a Groenlandia a su llegada a Ankara: "Debería ser nuestra, no de Dinamarca. Esto es lo que ha dañado mi relación con la OTAN"](https://www.elperiodico.com/es/internacional/20260707/trump-recupera-amenazas-groenlandia-cumbre-otan-132223787)<br>
 17:10 [Vuelven las Gandules, el ciclo de cine de verano en el CCCB comisariado por Desirée de Fez](https://www.elperiodico.com/es/ocio-y-cultura/20260707/vuelven-gandules-ciclo-cine-verano-132222848)<br>
@@ -145,6 +160,7 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 16:06 [Socavón por las obras de la L9 del Putxet en Barcelona, en directo: causa, reacciones y última hora de las fincas afectadas](https://www.elperiodico.com/es/barcelona/20260707/socavon-obras-l9-el-putxet-barcelona-ultima-hora-directo-132218479)<br>
 15:39 [El líder populista británico Nigel Farage anuncia su dimisión como diputado](https://www.elperiodico.com/es/internacional/20260707/lider-populista-britanico-nigel-farage-132219425)<br>
 15:36 [El Govern considera que la ley del concebido no nacido del PP supone un "retroceso en los derechos de las mujeres"](https://www.elperiodico.com/es/politica/20260707/govern-considera-ley-concebido-no-nacido-pp-retroceso-derechos-mujeres-132218804)<br>
+15:33 [La Justicia británica falla contra el príncipe Enrique en su demanda al Daily Mail](https://www.elperiodico.com/es/internacional/20260707/justicia-britanica-falla-principe-enrique-132219210)<br>
 15:30 [Bolaños: "Begoña Gómez tiene cero riesgo de eludir la acción de la justicia"](https://www.elperiodico.com/es/videos/politica/bolanos-begona-gomez-cero-riesgo-eludir-justicia/132219113.shtml)<br>
 15:13 [Vuelve Cine Sénior: las personas de 65 años o más podrán ir al cine todos los martes por 2 euros](https://www.elperiodico.com/es/ocio-y-cultura/20260707/vuelve-cine-senior-personas-65-132217924)<br>
 15:05 [La Unión Europea responde a Trump con un plan de ciberseguridad para acceder a modelos avanzados de IA como Mythos](https://www.elperiodico.com/es/internacional/20260707/union-europea-presenta-plan-acceder-ia-avanzada-ciberseguridad-mythos-soberania-anthropic-dependencia-132217975)<br>
