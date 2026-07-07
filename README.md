@@ -1,8 +1,14 @@
-# News for 2026-07-07 21:24
+# News for 2026-07-07 23:07
 
 Previous day: [2026-07-06](./data/2026-07-06.md)
 
 ## ua.korrespondent.net
+22:58 ["Імпорт не рятує": удари України зупинили топові НПЗ Росії](https://ua.korrespondent.net/world/russia/4892459-import-ne-riatuie-udary-ukrainy-zupynyly-topovi-npz-rosii)<br>
+22:06 [Нова стратегія для України. Саміт НАТО в Анкарі](https://ua.korrespondent.net/ukraine/4892455-nova-stratehiia-dlia-ukrainy-samit-nato-v-ankari)<br>
+21:56 [Генштаб оновив дані щодо боїв на фронті](https://ua.korrespondent.net/ukraine/4892452-henshtab-onovyv-dani-schodo-boiv-na-fronti)<br>
+21:38 [Британія і Нідерланди уклали угоду про спільні військово-морські сили](https://ua.korrespondent.net/world/4892448-brytaniia-i-niderlandy-uklaly-uhodu-pro-spilni-viiskovo-morski-syly)<br>
+21:31 [Windows 11 скоро можна буде перевстановити без "флешки"](https://ua.korrespondent.net/tech/technews/4892446-Windows-11-skoro-mozhna-bude-perevstanovyty-bez-fleshky)<br>
+21:18 [Удар по Одесі: кількість постраждалих зросла](https://ua.korrespondent.net/city/odessa/4892444-udar-po-odesi-kilkist-postrazhdalykh-zrosla)<br>
 21:16 [В Італії під рибним ринком знайшли християнську базиліку з мозаїками](https://ua.korrespondent.net/tech/science/4892442-v-italii-pid-rybnym-rynkom-znaishly-khrystyiansku-bazyliku-z-mozaikamy)<br>
 20:56 [Україна підписала Drone Deal із Данією](https://ua.korrespondent.net/ukraine/4892438-ukraina-pidpysala-Drone-Deal-iz-daniieui)<br>
 20:25 [Житель Києва вчиняв сексуальне насильство щодо 5 малолітніх племінників](https://ua.korrespondent.net/ukraine/4892436-zhytel-kyieva-vchyniav-seksualne-nasylstvo-schodo-5-malolitnikh-pleminnykiv)<br>
@@ -105,6 +111,8 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 00:26 [На Сумщині від обстрілів РФ загинули люди](https://ua.korrespondent.net/ukraine/4892175-na-sumschyni-vid-obstriliv-rf-zahynuly-luidy)<br>
 
 ## as.com
+21:23 [Alex Len abandona el Real Madrid](https://as.com/baloncesto/acb/alex-len-abandona-el-real-madrid-f202607-n/)<br>
+18:06 [Empieza la reconstrucción en el Valencia: TJ Shorts, oficial](https://as.com/baloncesto/empieza-la-reconstruccion-en-el-valencia-tj-shorts-oficial-f202607-n/)<br>
 16:21 [El sistema de franquicias, en marcha](https://as.com/baloncesto/euroliga/el-sistema-de-franquicias-en-marcha-f202607-n/)<br>
 16:17 [España pisa el acelerador y deja sin aire a Croacia](https://as.com/baloncesto/mas_baloncesto/espana-pisa-el-acelerador-y-deja-sin-aire-a-croacia-f202607-n/)<br>
 12:05 [Oficial: Jaime Pradilla se va al Real Madrid](https://as.com/baloncesto/acb/oficial-jaime-pradilla-se-va-al-real-madrid-f202607-n/)<br>
@@ -197,6 +205,7 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 11:59 [Barcelona iniciará las obras del nuevo centro de coordinación policial en las Tres Xemeneies del Poble-sec a principios del 2027](https://www.elperiodico.com/es/barcelona/20260707/barcelona-obras-nuevo-cecor-tres-xemeneies-132205597)<br>
 11:55 [FGC abre el proceso para contratar a 42 maquinistas para el nuevo tren lanzadera entre Barcelona y el aeropuerto de El Prat](https://www.elperiodico.com/es/barcelona/20260707/fgc-busca-maquinistas-nueva-linea-aeropuerto-el-prat-132199297)<br>
 11:48 [Del 'chupinazo' de Merino al conciliador De la Fuente: "Podía ser ventajista ahora, pero..."](https://www.elperiodico.com/es/deportes/20260707/chupinazo-merino-plan-de-la-fuente-espana-mundial-2025-132206963)<br>
+11:32 [Bombers descarta estabilizar este martes el incendio de Sentmenat, pero revaluará los confinamientos por la evolución favorable del fuego](https://www.elperiodico.com/es/sociedad/20260707/bomberos-alertan-reavivamientos-importantes-incendio-sentmenat-132204971)<br>
 11:30 [La justicia rebaja la pena a Marine Le Pen y la condena a 15 meses de inhabilitación y un año de arresto domiciliario](https://www.elperiodico.com/es/internacional/20260707/marine-le-pen-veredicto-condena-elecciones-presidenciales-francia-2027-132206000)<br>
 11:12 [Hacienda nombra a Antonio Ansón como director general de la Agencia Tributaria tras la salida de Soledad Fernández](https://www.elperiodico.com/es/economia/20260707/agencia-tributaria-nombra-antonio-anson-132204926)<br>
 11:11 [¿Cuándo acaba la ola de calor en Barcelona y resto de Catalunya? Esto dice el Meteocat](https://www.elperiodico.com/es/tiempo/20260707/tiempo-cataluna-ola-calor-aviso-peligro-extremo-meteocat-dv-loc-132202100)<br>
