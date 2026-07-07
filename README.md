@@ -1,8 +1,23 @@
-# News for 2026-07-07 17:14
+# News for 2026-07-07 19:28
 
 Previous day: [2026-07-06](./data/2026-07-06.md)
 
 ## ua.korrespondent.net
+19:15 [Російський ринок різко обвалився: акції компаній оновили мінімуми](https://ua.korrespondent.net/world/russia/4892422-rosiiskyi-rynok-rizko-obvalyvsia-aktsii-kompanii-onovyly-minimumy)<br>
+18:58 [Сирський зробив заяву щодо перелому у війні](https://ua.korrespondent.net/ukraine/4892419-syrskyi-zrobyv-zaiavu-schodo-perelomu-u-viini)<br>
+18:52 [Nothing представила смартфон Phone (4b)](https://ua.korrespondent.net/lifestyle/gadgets/4892413-Nothing-predstavyla-smartfon-Phone-4b)<br>
+18:48 [Атаки Росії на АЗС: в уряді зробили важливу заяву](https://ua.korrespondent.net/business/economics/4892412-ataky-rosii-na-azs-v-uriadi-zrobyly-vazhlyvu-zaiavu)<br>
+18:29 [Розслідується привласнення коштів під час закупівлі дронів на майже 7 млрд](https://ua.korrespondent.net/ukraine/4892410-rozsliduietsia-pryvlasnennia-koshtiv-pid-chas-zakupivli-droniv-na-maizhe-7-mlrd)<br>
+18:24 [Найбільший НПЗ Росії призупинив роботу після ураження дронами - ЗМІ](https://ua.korrespondent.net/world/russia/4892408-naibilshyi-npz-rosii-pryzupynyv-robotu-pislia-urazhennia-dronamy-zmi)<br>
+18:10 [В Італії викрили двох підозрюваних у шпигунстві на користь РФ](https://ua.korrespondent.net/world/4892402-v-italii-vykryly-dvokh-pidozruivanykh-u-shpyhunstvi-na-koryst-rf)<br>
+18:05 [Резерви України відновили зростання](https://ua.korrespondent.net/business/financial/4892405-rezervy-ukrainy-vidnovyly-zrostannia)<br>
+17:59 [Атакований в Ормузькій протоці катарський СПГ-танкер може вибухнути - ЗМІ](https://ua.korrespondent.net/world/4892400-atakovanyi-v-ormuzkii-prototsi-katarskyi-sph-tanker-mozhe-vybukhnuty-zmi)<br>
+17:53 [На Закарпатті туристи отруїлися після відпочинку в готелі](https://ua.korrespondent.net/ukraine/4892398-na-zakarpatti-turysty-otruilysia-pislia-vidpochynku-v-hoteli)<br>
+17:46 [Канада придбає у німецької компанії TKMS 12 підводних човнів](https://ua.korrespondent.net/world/4892396-kanada-prydbaie-u-nimetskoi-kompanii-TKMS-12-pidvodnykh-chovniv)<br>
+17:38 [Україна і Естонія підписали дронову угоду](https://ua.korrespondent.net/ukraine/4892393-ukraina-i-estoniia-pidpysaly-dronovu-uhodu)<br>
+17:35 [На Київщині зросла кількість загиблих від масованого удару РФ](https://ua.korrespondent.net/ukraine/4892392-na-kyivschyni-zrosla-kilkist-zahyblykh-vid-masovanoho-udaru-rf)<br>
+17:27 [В уряді РФ визнали, що російський ВПК досяг межі своїх можливостей](https://ua.korrespondent.net/world/russia/4892390-v-uriadi-rf-vyznaly-scho-rosiiskyi-vpk-dosiah-mezhi-svoikh-mozhlyvostei)<br>
+17:17 [Очищення озера у Києві після удару Росії: зібрано вже 65 тонн нафтосуміші](https://ua.korrespondent.net/city/kiev/4892388-ochyschennia-ozera-u-kyievi-pislia-udaru-rosii-zibrano-vzhe-65-tonn-naftosumishi)<br>
 17:12 [Понад 1000 затриманих: у 59 країнах викрили мережі торгівлі людьми](https://ua.korrespondent.net/ukraine/4892386-ponad-1000-zatrymanykh-u-59-krainakh-vykryly-merezhi-torhivli-luidmy)<br>
 16:57 [Суд дозволив зняти електронний браслет з Чернишова](https://ua.korrespondent.net/ukraine/4892382-sud-dozvolyv-zniaty-elektronnyi-braslet-z-chernyshova)<br>
 16:51 [Трамп: Зеленський і Путін хочуть укласти угоду](https://ua.korrespondent.net/world/4892378-tramp-zelenskyi-i-putin-khochut-uklasty-uhodu)<br>
@@ -92,6 +107,23 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 07:04 [Al Barça se le escapa todo](https://as.com/baloncesto/acb/al-barca-se-le-escapa-todo-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:21 [Todo listo para el megaconcierto de clásica en la Barceloneta: "Nuestro oficio consiste en crear belleza a través de la música"](https://www.elperiodico.com/es/ocio-y-cultura/20260707/josep-pons-ludovic-morlot-retan-barceloneta-132204136)<br>
+19:11 [Israel bombardea un campamento de desplazados en Gaza](https://www.elperiodico.com/es/videos/internacional/israel-bombardea-campamento-desplazados-gaza/132228764.shtml)<br>
+18:59 [El Real Madrid confirma el segundo 'clausulazo' al Valencia Basket para fichar a Jaime Pradilla](https://www.elperiodico.com/es/deportes/20260707/real-madrid-confirma-segundo-clausulazo-jaime-pradilla-baloncesto-132228267)<br>
+18:52 [El punto cero del incendio de Sentmenat, arrasado mientras el flanco más crítico amenaza el Vallès Oriental](https://www.elperiodico.com/es/barcelona/20260707/punto-cero-incendio-sentmenat-arrasado-incendio-forestal-132225966)<br>
+18:50 [Dimite un patrono de la Fundació Miró por la elección de Maribel López como nueva directora](https://www.elperiodico.com/es/ocio-y-cultura/20260707/dimite-patrono-fundacio-miro-eleccion-132225440)<br>
+18:42 [“Tengo mi vida ahí arriba”: los vecinos afectados por el incendio de Sentmenat esperan poder volver a casa](https://www.elperiodico.com/es/videos/sociedad/vida-vecinos-afectados-incendio-sentmenat-video/132226800.shtml)<br>
+18:37 [Marta Kos, comisaria de Ampliación de la UE: "Ucrania se ha convertido en un pilar fundamental de la arquitectura de seguridad europea"](https://www.elperiodico.com/es/internacional/20260707/comisaria-ampliacion-ucrania-convertido-pilar-seguridad-europea-132226890)<br>
+18:25 [Trump recupera las amenazas a Groenlandia a su llegada a Ankara: "Debería ser nuestra, no de Dinamarca. Esto es lo que ha dañado mi relación con la OTAN"](https://www.elperiodico.com/es/videos/internacional/trump-recupera-amenazas-groenlandia-llegada/132226311.shtml)<br>
+18:05 [Estas son las 10 ciudades del mundo con mejor calidad de vida en 2026](https://www.elperiodico.com/es/internacional/20260707/ciudades-mundo-mejor-calidad-vida-medioambiente-seguridad-transporte-educacion-infraestructura-132209951)<br>
+18:04 [“Tengo mi vida ahí arriba”: los vecinos afectados por el incendio de Sentmenat esperan poder volver a casa](https://www.elperiodico.com/es/barcelona/20260707/vida-vecinos-afectados-incendio-sentmenat-caldes-fuego-testimonios-miedo-132224002)<br>
+18:03 [Rescatados 16 menores que iban en una barcaza frente a las costas de Malta](https://www.elperiodico.com/es/videos/internacional/rescatados-menores-barcaza-costas-malta/132225500.shtml)<br>
+17:48 [El Brunch Electronik se reivindica como "un festival de ciudad" y presenta nombres como Kaytranada o Jeff Mills](https://www.elperiodico.com/es/ocio-y-cultura/20260707/brunch-electronik-reivindica-festival-ciudad-cartel-2026-132211909)<br>
+17:43 [La ola de calor deja al menos cuatro récords absolutos de temperatura en Catalunya y máximas de 43,7 grados](https://www.elperiodico.com/es/sociedad/20260707/ola-calor-cataluna-records-calor-martes-meteocat-132223854)<br>
+17:40 [La Audiencia de Barcelona reabre la causa contra los mossos que ayudaron a Puigdemont después de reaparecer en Barcelona](https://www.elperiodico.com/es/politica/20260707/audiencia-barcelona-causa-mossos-huida-puigdemont-132223564)<br>
+17:36 [Estrasburgo condena a Italia por una fiscal que justificó la violación en el seno del matrimonio: "Un hombre debe superar la resistencia de una mujer"](https://www.elperiodico.com/es/internacional/20260707/tribunal-estrasburgo-condena-italia-fiscal-justifico-violacion-matrimonio-hombre-resistencia-mujer-132224432)<br>
+17:30 [Gabi y Tomás, la joven pareja que reforma una casa abandonada para cumplir su sueño: "Desde cero, sin experiencia y sin casi dinero, ahorrando mes a mes"](https://www.elperiodico.com/es/sociedad/20260707/gabi-tomas-veinteaneros-casa-abandonada-reforma-sin-experiencia-dinero-dv-131875228)<br>
+17:23 [Trump recupera las amenazas a Groenlandia a su llegada a Ankara: "Debería ser nuestra, no de Dinamarca. Esto es lo que ha dañado mi relación con la OTAN"](https://www.elperiodico.com/es/internacional/20260707/trump-recupera-amenazas-groenlandia-cumbre-otan-132223787)<br>
 17:10 [Vuelven las Gandules, el ciclo de cine de verano en el CCCB comisariado por Desirée de Fez](https://www.elperiodico.com/es/ocio-y-cultura/20260707/vuelven-gandules-ciclo-cine-verano-132222848)<br>
 17:07 [Avanza el proyecto para alegar el Trambaix hasta el centro de Sant Feliu de Llobregat](https://www.elperiodico.com/es/barcelona/20260707/avanza-proyecto-alegar-trambaix-centro-sant-feliu-de-llobregat-132222723)<br>
 17:05 [Mudarse a una urbanización de lujo para convivir con un ruido "insoportable" que ya le ha costado una multa de 20.000 euros a Telefónica](https://www.elperiodico.com/es/sociedad/20260707/mudarse-urbanizacion-lujo-convivir-ruido-insoportable-multa-telefonica-dv-132084016)<br>
@@ -118,6 +150,7 @@ Previous day: [2026-07-06](./data/2026-07-06.md)
 15:05 [La Unión Europea responde a Trump con un plan de ciberseguridad para acceder a modelos avanzados de IA como Mythos](https://www.elperiodico.com/es/internacional/20260707/union-europea-presenta-plan-acceder-ia-avanzada-ciberseguridad-mythos-soberania-anthropic-dependencia-132217975)<br>
 15:03 [El Govern estudiará si rescinde el contrato con la empresa del trabajador investigado por el incendio de Les Gavarres](https://www.elperiodico.com/es/politica/20260707/govern-estudiara-rescinde-contrato-empresa-incendio-gavarres-132207078)<br>
 15:01 [Un incendio en Savallà del Comtat (Tarragona) obliga a confinar el núcleo de población de Segura](https://www.elperiodico.com/es/tarragona/20260707/incendio-savalla-comtat-tarragona-confinar-segura-132217665)<br>
+15:01 [Los Bombers estabilizan el incendio de Savallà del Comtat (Tarragona) y se desconfina el núcleo de Segura](https://www.elperiodico.com/es/tarragona/20260707/incendio-estabilizado-savalla-comtat-tarragona-segura-132217665)<br>
 14:46 [Drones, satélites y miles de millones en una flota aérea conjunta: la OTAN muestra a Trump cómo gasta más en defensa](https://www.elperiodico.com/es/internacional/20260707/drones-satelites-miles-millones-flota-aerea-conjunta-otan-132217159)<br>
 14:38 [Los pasajeros europeos seguirán pagando por el equipaje de mano y serán indemnizados si su vuelo se retrasa más de tres horas](https://www.elperiodico.com/es/economia/20260707/equipaje-de-mano-maleta-europa-pasajeros-indemnizacion-retraso-vuelo-132216810)<br>
 14:16 [Begoña Gómez, los jueces y el menos común de los sentidos](https://www.elperiodico.com/es/opinion/20260707/begona-gomez-jueces-comun-sentidos-articulo-ernesto-ekaizer-132205250)<br>

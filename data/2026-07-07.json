@@ -1,5 +1,392 @@
 [
   {
+    "title": "Todo listo para el megaconcierto de clásica en la Barceloneta: \"Nuestro oficio consiste en crear belleza a través de la música\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260707/josep-pons-ludovic-morlot-retan-barceloneta-132204136",
+    "pubDate": "2026-07-07 19:21:11",
+    "category": "",
+    "description": "<h2>El maestro catalán Josep Pons dirige este miércoles el primer concierto popular en la playa de Sant Sebastià con la Simfònica del Liceu y el director francés Ludovic Morlot lo hará al día siguiente con la OBC y una original propuesta, la 'Sinfonía Imaginaria'</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський ринок різко обвалився: акції компаній оновили мінімуми",
+    "link": "https://ua.korrespondent.net/world/russia/4892422-rosiiskyi-rynok-rizko-obvalyvsia-aktsii-kompanii-onovyly-minimumy",
+    "pubDate": "2026-07-07 19:15:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482028.jpg\">Ринок закладає сценарій глибокої макроекономічної кризи та проблем у найбільш уразливих компаній РФ.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Israel bombardea un campamento de desplazados en Gaza",
+    "link": "https://www.elperiodico.com/es/videos/internacional/israel-bombardea-campamento-desplazados-gaza/132228764.shtml",
+    "pubDate": "2026-07-07 19:11:44",
+    "category": "",
+    "description": "Hay un fallecido y cuatro personas heridas por el ataque",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El probable cierre de la histórica Casa Torres en la calle de Petritxol de Barcelona trae una liquidación de bisutería",
+    "link": "https://www.elperiodico.com/es/barcelona/20260707/liquidacion-bisuteria-calle-petritxol-barcelona-probable-cierre-casa-torres-132223488",
+    "pubDate": "2026-07-07 19:10:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La tienda de 1956 del Gòtic ha anunciado la despedida en su web y en rótulos, pero la respuesta de los clientes podría detener la clausura de su sede física</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260501/centenaria-joyeria-sant-muda-petritxol-eixample-129691884\">La joyería centenaria Sant de Barcelona deja Petritxol y se reinventa en el Eixample con diseños únicos y piezas 'rescatadas'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20250206/cierra-papeleria-conesa-barcelona-petritxol-114043378\">Cierra la histórica Papelería Conesa tras 75 años en la calle Petritxol</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "La televisión pública húngara deja de emitir noticias y pide disculpas por años de \"mentiras\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260707/television-publica-hungara-deja-emitir-informacion-132228679",
+    "pubDate": "2026-07-07 19:10:15",
+    "category": "",
+    "description": "<h2>El nuevo Gobierno de Péter Magyar afronta la anunciada reforma de los medios de comunicación públicos</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "El Real Madrid confirma el segundo 'clausulazo' al Valencia Basket para fichar a Jaime Pradilla",
+    "link": "https://www.elperiodico.com/es/deportes/20260707/real-madrid-confirma-segundo-clausulazo-jaime-pradilla-baloncesto-132228267",
+    "pubDate": "2026-07-07 18:59:59",
+    "category": "",
+    "description": "<h2>El internacional español firma por cinco temporadas con los blancos y ahora esperan cerrar a Luwawu-Cabarrot y a Juancho Hernangómez. </h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fiat завершив виробництво Tipo після 11 років на ринку",
+    "link": "https://ua.korrespondent.net/business/auto/4892416-Fiat-zavershyv-vyrobnytstvo-Tipo-pislia-11-rokiv-na-rynku",
+    "pubDate": "2026-07-07 18:59:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482019.jpg\">На турецькому заводі Tofaş припинили випуск Fiat Egea, який у більшості європейських країн продавався під назвою Fiat Tipo. За 11 років було виготовлено понад 1,4 млн авто.",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Сирський зробив заяву щодо перелому у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4892419-syrskyi-zrobyv-zaiavu-schodo-perelomu-u-viini",
+    "pubDate": "2026-07-07 18:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482026.jpg\">Головнокомандувавч ЗСУ вважає, що говорити про якісний перелом у війні ще зарано. РФ зберігає значний наступальний потенціал.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El punto cero del incendio de Sentmenat, arrasado mientras el flanco más crítico amenaza el Vallès Oriental",
+    "link": "https://www.elperiodico.com/es/barcelona/20260707/punto-cero-incendio-sentmenat-arrasado-incendio-forestal-132225966",
+    "pubDate": "2026-07-07 18:52:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El fuego, que según las primeras investigaciones se habría originado por una excavadora incendiada, ha quemado ya 159,9 hectáreas, según los Agents Rurals</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260707/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">DIRECTO | Última hora de los fuegos activos en La Bisbal, Anoia, Sentmenat y Perpinyà</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nothing представила смартфон Phone (4b)",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4892413-Nothing-predstavyla-smartfon-Phone-4b",
+    "pubDate": "2026-07-07 18:52:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482014.jpg\">Перший смартфон середньобюджетної серії (b) отримав AMOLED-дисплей із частотою 120 Гц та батарею до 6000 мА·год. Разом зі смартфоном також були представлені нові навушники Ear (3a).",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dimite un patrono de la Fundació Miró por la elección de Maribel López como nueva directora",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260707/dimite-patrono-fundacio-miro-eleccion-132225440",
+    "pubDate": "2026-07-07 18:50:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Robert Lubar, patrono de la institución desde 2013, considera que la elección de la directora de Arco representa \"el traslado los intereses del mercado del arte al núcleo de gestión de una institución artística\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260701/nombramiento-maribel-lopez-nueva-directora-fundacio-miro-132006364\">El nombramiento de Maribel López como nueva directora de la Fundació Miró consuma el cambio de guardia en los grandes museos de Barcelona</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атаки Росії на АЗС: в уряді зробили важливу заяву",
+    "link": "https://ua.korrespondent.net/business/economics/4892412-ataky-rosii-na-azs-v-uriadi-zrobyly-vazhlyvu-zaiavu",
+    "pubDate": "2026-07-07 18:48:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482016.jpg\">Прем'єрка повідомила про додаткові заходи для захисту АЗС у прифронтових регіонах. Дефіциту пального немає.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Oficial: Los cambios en el BOE para los ciclistas en los arcenes de las carreteras españolas",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260707/boe-oficial-cambios-ciclistas-arcenes-carreteras-espanolas-dv-129941478",
+    "pubDate": "2026-07-07 18:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La nueva normativa afecta tanto a los ciclistas individuales como a los que circulan en grupo</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "“Tengo mi vida ahí arriba”: los vecinos afectados por el incendio de Sentmenat esperan poder volver a casa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/vida-vecinos-afectados-incendio-sentmenat-video/132226800.shtml",
+    "pubDate": "2026-07-07 18:42:54",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marta Kos, comisaria de Ampliación de la UE: \"Ucrania se ha convertido en un pilar fundamental de la arquitectura de seguridad europea\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260707/comisaria-ampliacion-ucrania-convertido-pilar-seguridad-europea-132226890",
+    "pubDate": "2026-07-07 18:37:18",
+    "category": "",
+    "description": "<h2>Kos apunta los avances del país en su camino hacia la Unión Europea destacando su contribución a la seguridad del bloque</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tebas carga contra la FIFA por el perdón a Balogun",
+    "link": "https://www.elperiodico.com/es/deportes/20260707/tebas-carga-fifa-perdon-balogun-132226784",
+    "pubDate": "2026-07-07 18:36:47",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Розслідується привласнення коштів під час закупівлі дронів на майже 7 млрд",
+    "link": "https://ua.korrespondent.net/ukraine/4892410-rozsliduietsia-pryvlasnennia-koshtiv-pid-chas-zakupivli-droniv-na-maizhe-7-mlrd",
+    "pubDate": "2026-07-07 18:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482000.jpg\">Товариство уклало з ДП МОУ Агенція оборонних закупівель держконтракти на постачання БПЛА різних типів та модифікацій. Перевіряється версія про штучне завищення вартості БПЛА.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump recupera las amenazas a Groenlandia a su llegada a Ankara: \"Debería ser nuestra, no de Dinamarca. Esto es lo que ha dañado mi relación con la OTAN\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-recupera-amenazas-groenlandia-llegada/132226311.shtml",
+    "pubDate": "2026-07-07 18:25:58",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Найбільший НПЗ Росії призупинив роботу після ураження дронами - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4892408-naibilshyi-npz-rosii-pryzupynyv-robotu-pislia-urazhennia-dronamy-zmi",
+    "pubDate": "2026-07-07 18:24:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481999.jpg\">Омський НПЗ вже повністю припинив продаж бензину та дизельного палива на Санкт-Петербурзькій міжнародній товарно-сировинній біржі.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Powerdot adquiere InstaVolt en España y Portugal y suma 200 nuevos puntos a su plataforma europea de recarga de vehículos eléctricos",
+    "link": "https://www.elperiodico.com/es/motor/20260707/powerdot-adquiere-instavolt-espana-portugal-132200133",
+    "pubDate": "2026-07-07 18:15:28",
+    "category": "",
+    "description": "<h2>La operación supone una nueva fase en la expansión de la compañía en Iberia, enfocada en el despliegue de infraestructura de recarga en destino</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 78
+  },
+  {
+    "title": "В Італії викрили двох підозрюваних у шпигунстві на користь РФ",
+    "link": "https://ua.korrespondent.net/world/4892402-v-italii-vykryly-dvokh-pidozruivanykh-u-shpyhunstvi-na-koryst-rf",
+    "pubDate": "2026-07-07 18:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481984.jpg\">У Римі затримали двох чоловіків, яких підозрюють у передачі секретної інформації російським спецслужбам. Серед фігурантів справи – колишній співробітник італійської розвідки.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estas son las 10 ciudades del mundo con mejor calidad de vida en 2026",
+    "link": "https://www.elperiodico.com/es/internacional/20260707/ciudades-mundo-mejor-calidad-vida-medioambiente-seguridad-transporte-educacion-infraestructura-132209951",
+    "pubDate": "2026-07-07 18:05:30",
+    "category": "",
+    "description": "<h2>El índice, elaborado por la 'Economist Intelligence Unit', evalúa 173 ciudades de todo el mundo teniendo en cuenta cinco criterios principales</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ромеро і Теофімо домовилися про чемпіонський поєдинок",
+    "link": "https://ua.korrespondent.net/sport/boks/4892401-romero-i-teofimo-domovylysia-pro-chempionskyi-poiedynok",
+    "pubDate": "2026-07-07 18:05:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481993.jpg\">Цей бій стане особливим для обох: \"Роллі\" дебютуватиме в захисті титулу, а Лопес - у новій ваговій категорії.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Резерви України відновили зростання",
+    "link": "https://ua.korrespondent.net/business/financial/4892405-rezervy-ukrainy-vidnovyly-zrostannia",
+    "pubDate": "2026-07-07 18:05:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481992.jpg\">Резерви зросли завдяки валютним надходженням від міжнародних партнерів, що перевищили чистий продаж валюти Нацбанком та боргові виплати України.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Tengo mi vida ahí arriba”: los vecinos afectados por el incendio de Sentmenat esperan poder volver a casa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260707/vida-vecinos-afectados-incendio-sentmenat-caldes-fuego-testimonios-miedo-132224002",
+    "pubDate": "2026-07-07 18:04:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El incendio declarado en Sentmenat mantiene a vecinos de la urbanización de El Farell sin poder volver a casa, con más de un centenar de personas confinadas y una treintena realojadas en un hotel de Caldes de Montbui</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260707/farell-urbanizacion-caldes-montbui-sentenciada-incendio-132207322\">Qué es El Farell, la urbanización de Caldes de Montbui sentenciada por el incendio de Sentmenat</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260707/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">DIRECTO | Última hora de los fuegos activos en La Bisbal, Anoia, Sentmenat y Perpinyà</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rescatados 16 menores que iban en una barcaza frente a las costas de Malta",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescatados-menores-barcaza-costas-malta/132225500.shtml",
+    "pubDate": "2026-07-07 18:03:51",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атакований в Ормузькій протоці катарський СПГ-танкер може вибухнути - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4892400-atakovanyi-v-ormuzkii-prototsi-katarskyi-sph-tanker-mozhe-vybukhnuty-zmi",
+    "pubDate": "2026-07-07 17:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481985.jpg\">Танкер ⁠Al Rekayyat, завантажений СПГ, подав ‌сигнал лиха в Ормузькій протоці після удару ‌в лівий борт.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mundial 2026: Argentina-Egipto, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/20260707/mundial-2026-argentina-egipto-directo-132224878",
+    "pubDate": "2026-07-07 17:55:47",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "На Закарпатті туристи отруїлися після відпочинку в готелі",
+    "link": "https://ua.korrespondent.net/ukraine/4892398-na-zakarpatti-turysty-otruilysia-pislia-vidpochynku-v-hoteli",
+    "pubDate": "2026-07-07 17:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481974.jpeg\">Група туристів із Луцька захворіла після відпочинку в одному з готелів Хустського району. Серед госпіталізованих - восьмеро дітей, які скаржилися на сильні розлади травлення.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Espías con 'pizzini' y teléfonos en microondas: la justicia italiana descubre una red que vendía secretos a Moscú",
+    "link": "https://www.elperiodico.com/es/internacional/20260707/espias-pizzini-telefonos-microondas-justicia-italiana-descubre-red-vendia-secretos-moscu-132224856",
+    "pubDate": "2026-07-07 17:51:17",
+    "category": "",
+    "description": "<h2>Los Carabinieri difunden las imágenes de los encuentros clandestinos en los que un exsuboficial entregaba información clasificada a un presunto espía ruso a cambio de dinero en efectivo</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 68
+  },
+  {
+    "title": "El Brunch Electronik se reivindica como \"un festival de ciudad\" y presenta nombres como Kaytranada o Jeff Mills",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260707/brunch-electronik-reivindica-festival-ciudad-cartel-2026-132211909",
+    "pubDate": "2026-07-07 17:48:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La cita de música electrónica se hace fuerte en el Fòrum, donde prevé reunir 70.000 personas del 7 al 9 de agosto </h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Канада придбає у німецької компанії TKMS 12 підводних човнів",
+    "link": "https://ua.korrespondent.net/world/4892396-kanada-prydbaie-u-nimetskoi-kompanii-TKMS-12-pidvodnykh-chovniv",
+    "pubDate": "2026-07-07 17:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481983.jpg\">Фінансування вже закладено до бюджету, а сам проект стане найбільшою закупівлею в історії Канади.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Tour se convierte en una sartén con la victoria del danés Pedersen",
+    "link": "https://www.elperiodico.com/es/deportes/20260707/tour-francia-sarten-victoria-pedersen-cuarta-etapa-132219798",
+    "pubDate": "2026-07-07 17:45:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Fuga permitida por Pogacar con diez corredores jugándose el triunfo de la cuarta etapa en Foix; entre ellos, Pablo Castrillo y Raúl García Pierna, del Movistar.</h2><h2 class=\"item\"><a href=\"https://www.letour.fr/es/clasificaciones/etapa-4\">Clasificaciones.</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La ola de calor deja al menos cuatro récords absolutos de temperatura en Catalunya y máximas de 43,7 grados",
+    "link": "https://www.elperiodico.com/es/sociedad/20260707/ola-calor-cataluna-records-calor-martes-meteocat-132223854",
+    "pubDate": "2026-07-07 17:43:00",
+    "category": "",
+    "description": "<h2 class=\"item\">En el Pantà de Riba-roja, en Torroja del Priorat, Ascó y Margalef se han registrado las temperaturas más altas desde que existen registros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260707/cataluna-avisos-rojos-calor-prevision-meteocat-aemet-132182658\">Catalunya activa los primeros avisos rojos por calor extremo ante un martes en que se esperan máximas por encima de los 43 grados</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Audiencia de Barcelona reabre la causa contra los mossos que ayudaron a Puigdemont después de reaparecer en Barcelona",
+    "link": "https://www.elperiodico.com/es/politica/20260707/audiencia-barcelona-causa-mossos-huida-puigdemont-132223564",
+    "pubDate": "2026-07-07 17:40:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El tribunal deja a un paso del juicio a los tres agentes, tras admitir un recurso de la fiscalía y de la acusación popular </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20240808/puigdemont-regresa-espana-detenido-investidura-illa-106416646\">Puigdemont reaparece en Barcelona tras cruzar la frontera sin ser detenido</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sergio García, nuevo entrenador del Espanyol B",
+    "link": "https://www.elperiodico.com/es/deportes/20260707/sergio-garcia-nuevo-entrenador-espanyol-132223701",
+    "pubDate": "2026-07-07 17:39:07",
+    "category": "",
+    "description": "<h2 class=\"item\">La leyenda blanquiazul, que jugó 231 partidos y marcó 50 goles como jugador perico, firma hasta 2028 con el filial. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Україна і Естонія підписали дронову угоду",
+    "link": "https://ua.korrespondent.net/ukraine/4892393-ukraina-i-estoniia-pidpysaly-dronovu-uhodu",
+    "pubDate": "2026-07-07 17:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481973.jpg\">Буде розвиватись спільне військове виробництво на території обох країн, зокрема важливих засобів захисту неба.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estrasburgo condena a Italia por una fiscal que justificó la violación en el seno del matrimonio: \"Un hombre debe superar la resistencia de una mujer\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260707/tribunal-estrasburgo-condena-italia-fiscal-justifico-violacion-matrimonio-hombre-resistencia-mujer-132224432",
+    "pubDate": "2026-07-07 17:36:55",
+    "category": "",
+    "description": "<h2>El Tribunal dictaminó que esos razonamientos reflejan \"una cultura sexista y estereotipada”, según el TEDH, en un caso que ha suscitado esta semana la indignación en los medios de comunicación italianos</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Київщині зросла кількість загиблих від масованого удару РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4892392-na-kyivschyni-zrosla-kilkist-zahyblykh-vid-masovanoho-udaru-rf",
+    "pubDate": "2026-07-07 17:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481972.jpg\">У лікарні помер чоловік, який зазнав тяжких поранень. Таким чином кількість жертв атаки Росії 6 липня зросла до дев'яти.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gabi y Tomás, la joven pareja que reforma una casa abandonada para cumplir su sueño: \"Desde cero, sin experiencia y sin casi dinero, ahorrando mes a mes\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260707/gabi-tomas-veinteaneros-casa-abandonada-reforma-sin-experiencia-dinero-dv-131875228",
+    "pubDate": "2026-07-07 17:30:00",
+    "category": "",
+    "description": "<h2>La pareja, de tan solo 24 años, adquirió en 2025 una vivienda abandonada desde hace cuatro décadas para rehabilitarla con sus propias manos a la vez que trabajan fuera de la región: \"Sacrificamos las comodidades, la rutina y las vacaciones por cumplir un sueño\"</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В уряді РФ визнали, що російський ВПК досяг межі своїх можливостей",
+    "link": "https://ua.korrespondent.net/world/russia/4892390-v-uriadi-rf-vyznaly-scho-rosiiskyi-vpk-dosiah-mezhi-svoikh-mozhlyvostei",
+    "pubDate": "2026-07-07 17:27:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481971.jpg\">Цього року витрати на ВПК заплановано 12,1 трлн. рублів. За даними дослідників, російський ВПК, незважаючи на величезні вливання, деградує.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump recupera las amenazas a Groenlandia a su llegada a Ankara: \"Debería ser nuestra, no de Dinamarca. Esto es lo que ha dañado mi relación con la OTAN\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260707/trump-recupera-amenazas-groenlandia-cumbre-otan-132223787",
+    "pubDate": "2026-07-07 17:23:42",
+    "category": "",
+    "description": "<h2>El presidente estadounidense asegura que la guerra entre Ucrania y Rusia \"terminará pronto\" durante un encuentro bilateral con su homólogo turco, Recep Tayyip Erdogan</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Очищення озера у Києві після удару Росії: зібрано вже 65 тонн нафтосуміші",
+    "link": "https://ua.korrespondent.net/city/kiev/4892388-ochyschennia-ozera-u-kyievi-pislia-udaru-rosii-zibrano-vzhe-65-tonn-naftosumishi",
+    "pubDate": "2026-07-07 17:17:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481954.jpg\">Поширення нафтопродуктів на озері Кирилівське вдалося локалізувати, а загрози для акваторії Дніпра нема.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Понад 1000 затриманих: у 59 країнах викрили мережі торгівлі людьми",
     "link": "https://ua.korrespondent.net/ukraine/4892386-ponad-1000-zatrymanykh-u-59-krainakh-vykryly-merezhi-torhivli-luidmy",
     "pubDate": "2026-07-07 17:12:00",
@@ -504,6 +891,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Los Bombers estabilizan el incendio de Savallà del Comtat (Tarragona) y se desconfina el núcleo de Segura",
+    "link": "https://www.elperiodico.com/es/tarragona/20260707/incendio-estabilizado-savalla-comtat-tarragona-segura-132217665",
+    "pubDate": "2026-07-07 15:01:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El fuego ha quemado aproximadamente unas 11,3 hectáreas de terreno agrícola y forestal</h2><h2 class=\"item\">Los Bombers siguen en el terreno perimetrando el fuego y actuando en zonas calientes con 16 dotaciones</h2><h2 class=\"item\">EN DIRECTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260707/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Incendios en Catalunya y resto de España hoy, en directo: última hora de los fuegos activos en La Bisbal, Anoia, Sentmenat y Perpinyà</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Києві накрили підпільну \"поліграфію\" меддовідок для ухилянтів",
     "link": "https://ua.korrespondent.net/city/kiev/4892349-u-kyievi-nakryly-pidpilnu-polihrafiui-meddovidok-dlia-ukhyliantiv",
     "pubDate": "2026-07-07 14:59:00",
@@ -880,6 +1276,15 @@
     "description": "<h2>Aquí va un pequeño muestrario de lo que ofrece la gran cita musical madrileña más allá de sus mayores figuras y los nombres de siempre</h2>",
     "topic": "виконавці поп музики",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Trànsit propone a la DGT cursos obligatorios de conducción segura para motoristas ante los 30 muertos de este año",
+    "link": "https://www.elperiodico.com/es/sociedad/20260707/transit-propone-cursos-obligatorios-conduccion-segura-motoristas-132210772",
+    "pubDate": "2026-07-07 13:24:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Lamiel ve con preocupación la elevada siniestralidad en este colectivo y apunta a una \"falta de pericia\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260707/app-transit-avisara-mensaje-voz-retenciones-ap-7-132209153\" target=\"_blank\">Trànsit avisará a los conductores con un mensaje de voz en tiempo real de las incidencias en la AP-7</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 88
   },
   {
     "title": "El Gobierno aprueba la creación de 500 plazas de jueces y 200 de fiscales",
