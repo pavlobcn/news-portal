@@ -1,13 +1,16 @@
-# News for 2026-07-08 23:35
+# News for 2026-07-09 00:41
 
 Previous day: [2026-07-07](./data/2026-07-07.md)
 
 ## ua.korrespondent.net
+23:47 [Держдеп: Трамп перезавантажив стосунки з Києвом](https://ua.korrespondent.net/ukraine/4892756-derzhdep-tramp-perezavantazhyv-stosunky-z-kyievom)<br>
 23:20 [У Львові натовп перекинув авто ТЦК](https://ua.korrespondent.net/city/lvov/4892754-u-lvovi-natovp-perekynuv-avto-ttsk)<br>
 22:52 [Навроцький розповів, що говорив Зеленському](https://ua.korrespondent.net/ukraine/4892752-navrotskyi-rozpoviv-scho-hovoryv-zelenskomu)<br>
+22:42 [Тінь Волині. Київ і Варшава відновлюють відносини](https://ua.korrespondent.net/ukraine/4892760-tin-volyni-kyiv-i-varshava-vidnovluiuit-vidnosyny)<br>
 22:24 [ЗСУ зачистили від окупантів Новохатське на Донбасі](https://ua.korrespondent.net/ukraine/4892750-zsu-zachystyly-vid-okupantiv-novokhatske-na-donbasi)<br>
 21:53 [Рютте передав Путіну сигнал після саміту НАТО](https://ua.korrespondent.net/world/4892748-ruitte-peredav-putinu-syhnal-pislia-samitu-nato)<br>
 21:29 [Україна та Швеція обговорили посилення авіації](https://ua.korrespondent.net/ukraine/4892746-ukraina-ta-shvetsiia-obhovoryly-posylennia-aviatsii)<br>
+21:29 [Крах перемир'я на 20 днів. США б'є по Ірану](https://ua.korrespondent.net/world/4892758-krakh-peremyria-na-20-dniv-ssha-bie-po-iranu)<br>
 20:52 [Apple програла суд проти ЄС](https://ua.korrespondent.net/business/companies/4892742-Apple-prohrala-sud-proty-yes)<br>
 20:37 [Росіяни атакували Одесу: загинули четверо осіб](https://ua.korrespondent.net/city/odessa/4892739-rosiiany-atakuvaly-odesu-zahynuly-chetvero-osib)<br>
 20:26 [Антиукраїнський марш у Варшаві: його безпрецедентні наслідки](https://ua.korrespondent.net/world/4892734-antyukrainskyi-marsh-u-varshavi-yoho-bezpretsedentni-naslidky)<br>
@@ -129,7 +132,9 @@ Previous day: [2026-07-07](./data/2026-07-07.md)
 13:14 [James Nnaji baja de escalón en la NCAA en busca de minutos](https://as.com/baloncesto/james-nnaji-baja-un-escalon-en-la-ncaa-en-busca-de-minutos-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Los pisos vacíos no solucionarán la crisis de la vivienda](https://www.elperiodico.com/es/vivienda/20260708/pisos-vacios-solucionaran-crisis-vivienda-bc-132210182)<br>
 22:45 [Trump cumple su amenaza y EEUU bombardea de nuevo a Irán](https://www.elperiodico.com/es/internacional/20260708/ee-uu-bombardea-nuevo-iran-132272789)<br>
+22:18 [Gran Gala de Ópera de Clàssica a la Platja desde la playa de Sant Sebastià durante el concierto gratuito del Gran Teatre del Liceu](https://www.elperiodico.com/es/fotos/ocio-y-cultura/gran-gala-opera-classica-platja-132272281)<br>
 21:57 [Las 10 claves del primer discurso de la infanta Sofía: lenguaje cercano, mirada realista y referencias familiares](https://www.elperiodico.com/es/politica/20260708/10-claves-discurso-infanta-sofia-lenguaje-cercano-referencias-familiares-132271611)<br>
 21:56 [Trump contra España](https://www.elperiodico.com/es/opinion/20260708/trump-espana-departamento-de-estado-articulo-ernesto-ekaizer-132271241)<br>
 21:18 [Los Bombers estabilizan el incendio de Sentmenat en su tercer día](https://www.elperiodico.com/es/barcelona/20260708/desconfinadas-tres-urbanizaciones-seguian-afectadas-incendio-sentmenat-fuego-confinados-132270715)<br>
@@ -149,6 +154,7 @@ Previous day: [2026-07-07](./data/2026-07-07.md)
 19:02 [Catalunya bate récords de calor hasta ahora impensables en un miércoles infernal con mínimas de 32 en Portbou y máximas de 40 en Barcelona](https://www.elperiodico.com/es/sociedad/20260708/cataluna-record-calor-miercoles-altas-temperaturas-maximas-132262389)<br>
 19:01 [Barcelona se postula para acoger el congreso del espacio más importante del mundo en 2029](https://www.elperiodico.com/es/economia/20260708/barcelona-postula-acoger-iac-congreso-espacio-mas-importante-mundo-2029-132225415)<br>
 18:50 [Pedro González, testimonio del origen del incendio en Gavà](https://www.elperiodico.com/es/videos/sucesos/pedro-gonzalez-testimonio-origen-incendio/132266076.shtml)<br>
+18:44 [Los Bombers confían en perimetrar pronto el incendio forestal en Gavà que ha obligado a confinar a 6.000 personas](https://www.elperiodico.com/es/fotos/sucesos/bombers-confian-perimetrar-pronto-incendio-132265996)<br>
 18:41 [El Institut Ramon Llull impulsa un centro de estudios catalanes en Montreal, el primero fuera de Europa](https://www.elperiodico.com/es/ocio-y-cultura/20260708/institut-ramon-llull-impulsa-centro-132265649)<br>
 18:40 [La alta velocidad entre Andalucía y Madrid registra retrasos por un robo de cable en Ciudad Real](https://www.elperiodico.com/es/economia/20260708/alta-velocidad-andalucia-madrid-registra-132265779)<br>
 18:35 [Pedro Sánchez, afirma haber mantenido en Ankara una conversación "sin tirantez" con Donald Trump](https://www.elperiodico.com/es/videos/politica/pedro-sanchez-afirma-haber-mantenido/132265505.shtml)<br>
