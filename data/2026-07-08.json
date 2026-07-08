@@ -1,5 +1,230 @@
 [
   {
+    "title": "Más acuerdos, menos reformas",
+    "link": "https://www.elperiodico.com/es/opinion/20260708/acuerdos-reformas-editorial-132269978",
+    "pubDate": "2026-07-08 20:41:17",
+    "category": "",
+    "description": "<h2>La fragmentación del sistema de partidos no es una anomalía que deba corregirse, sino la consecuencia de una sociedad políticamente más plural</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260707/jorge-azcon-presidente-aragon-afterwork-periodico-pp-ley-electoral-132210858\">Jorge Azcón, presidente de Aragón: \"Este país necesita una reforma electoral mediante un pacto entre el PP y el PSOE\"</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El incendio de \"alta intensidad\" en Aiguamúrcia (Tarragona) obliga a confinar a 1.600 personas",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-alta-intensidad-aiguamurcia-tarragona/132270029.shtml",
+    "pubDate": "2026-07-08 20:38:49",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Palau de la Música roza el millón de espectadores: \"Tenemos voluntad de expandirnos\", afirma Joaquim Uriach",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260708/palau-musica-roza-millon-espectadores-132263321",
+    "pubDate": "2026-07-08 20:38:06",
+    "category": "",
+    "description": "<h2>El auditorio modernista, sede del Orfeó Català, bate un nuevo récord de asistencia  con 953.049 espectadores, de los que 555.750 acudieron a sus conciertos y 358.519 fueron visitas al edificio de Lluís Domènech i Montaner</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dacia представила крос-універсал Striker",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4892738-Dacia-predstavyla-kros-universal-Striker",
+    "pubDate": "2026-07-08 20:38:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483243.jpg\">Румунський бренд Dacia офіційно презентував новий крос-універсал Striker, який поєднує риси універсала, кросовера та седана та матиме стартову ціну нижче приблизно €25 тисяч.",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росіяни атакували Одесу: загинули четверо осіб",
+    "link": "https://ua.korrespondent.net/city/odessa/4892739-rosiiany-atakuvaly-odesu-zahynuly-chetvero-osib",
+    "pubDate": "2026-07-08 20:37:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483259.jpg\">Внаслідок чергового ворожого обстрілу відомо про чотирьох загиблих. Ще шестеро осіб зазнали поранень.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Manuel: \"Vivo en la calle teniendo un trabajo, prefiero dormir en la calle y poder comer que estar en una habitación y no hacerlo\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20260708/manuel-vivo-calle-teniendo-trabajo-poder-comer-dv-132122250",
+    "pubDate": "2026-07-08 20:30:00",
+    "category": "",
+    "description": "<h2> Expone la realidad de la vivienda: ni un trabajo puede asegurarte un piso</h2><h2><a href=\"https://www.elperiodico.com/es/vivienda/20260704/alba-propietaria-piso-25-anos-evita-jubilados-dv-131926080\" target=\"_blank\">Alba, propietaria de un piso con 25 años, expone por qué evita alquilar a jubilados: \"Buscas gente más o menos con el mismo rol\"</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Arthur Fery da la sorpresa en Wimbledon y se planta en semifinales",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/arthur-fery-da-sorpresa-wimbledon-132268642",
+    "pubDate": "2026-07-08 20:27:23",
+    "category": "",
+    "description": "<h2 class=\"item\">El británico es el segundo tenista de la historia en alcanzar las semifinales en Londres tras ser invitado.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Антиукраїнський марш у Варшаві: його безпрецедентні наслідки",
+    "link": "https://ua.korrespondent.net/world/4892734-antyukrainskyi-marsh-u-varshavi-yoho-bezpretsedentni-naslidky",
+    "pubDate": "2026-07-08 20:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483222.jpg\">Інцидент набув значного резонансу в польських та українських ЗМІ через конфлікт та подальший погром галереї.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Танкери обходять Ормузьку протоку після нових атак - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4892735-tankery-obkhodiat-ormuzku-protoku-pislia-novykh-atak-zmi",
+    "pubDate": "2026-07-08 20:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483220.jpg\">Щонайменше чотири танкери змінили курс після нових атак в одному з ключових морських маршрутів світової торгівлі енергоносіями.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalá sale del juzgado de Catarroja tras declarar ante la jueza de la dana",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/catala-sale-juzgado-catarroja-declarar/132269575.shtml",
+    "pubDate": "2026-07-08 20:16:30",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Terrats vuelve al Getafe, esta vez traspasado del Villarreal",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/terrats-vuelve-getafe-vez-traspasado-132268309",
+    "pubDate": "2026-07-08 20:14:07",
+    "category": "",
+    "description": "<h2>El excentrocampista del Espanyol firma un contrato por tres temporadas con el club madrileño</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El número de empresas que desarrollan tecnología para el espacio se triplica en Catalunya en cinco años",
+    "link": "https://www.elperiodico.com/es/economia/20260708/numero-empresas-desarrollan-tecnologia-espacio-triplica-catalunya-132223658",
+    "pubDate": "2026-07-08 20:00:49",
+    "category": "",
+    "description": "<h2>La comunidad cuenta con más de 80 empresas dedicadas a ello, que facturan cerca de 250 millones de euros al año</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251010/govern-150-millones-euros-estrategia-espacio-catalunya-espai-2030-122491465\" target=\"_blank\">El Govern invertirá 150 millones de euros en la estrategia catalana del espacio hasta 2030</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seis familias del Putxet afectadas por el socavón, realojadas en hoteles por las constructoras de la L9",
+    "link": "https://www.elperiodico.com/es/barcelona/20260708/familias-putxet-afectadas-socavon-realojadas-hoteles-constructoras-l9-132258816",
+    "pubDate": "2026-07-08 20:00:48",
+    "category": "",
+    "description": "<h2>Baja la tensión vecinal entre los afectados tras el segundo encuentro con portavoces de Generalitat y Ayuntamiento: \"Hoy ha habido más información y más empatía\"</h2><h2>DIRECTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260708/socavon-obras-l9-el-putxet-barcelona-ultima-hora-directo-132218479\">Socavón por las obras de la L9 del Putxet en Barcelona: causa, reacciones y última hora</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260708/bomberos-inspeccionan-fincas-socavon-putxet-l9-132242474\" ><strong>Los vecinos desalojados por el socavón del Putxet no podrán regresar a sus casas hasta el sábado como mínimo</strong></a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La amistad con Francia tendrá que esperar: el PP paralizará mañana el tratado que firmaron Sánchez y Macron en 2023",
+    "link": "https://www.elperiodico.com/es/politica/20260708/tratado-amistad-francia-esperar-bloqueo-pp-132261728",
+    "pubDate": "2026-07-08 20:00:48",
+    "category": "",
+    "description": "<h2>Los populares siguen dudando sobre la constitucionalidad de que un ministro francés acuda a las reuniones del Consejo de Ministros puntualmente, pese a la aclaración realizada por ambos países</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor extremo provoca averías y paros \"puntuales\" en la climatización de Cercanías y Metrovalencia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/calor-extremo-provoca-averias-paros-climatizacion-cercanias-metrovalencia-132239618",
+    "pubDate": "2026-07-08 19:59:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La mayoría de equipos no están preparado para soportar temperaturas tan altas y provoca que se activen los \"sistemas de protección integrados en los equipos\", el motivo de la mayoría de los fallos según Renfe </h2><h2 class=\"item\">Los sindicatos critican las \"contínuas averías\" y la falta de unidades de reemplazo </h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vecinos de Gavà abastacen de agua a los cuerpos de emergencia que trabajan en la zona",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/vecinos-gava-abastacen-agua-cuerpos/132268959.shtml",
+    "pubDate": "2026-07-08 19:56:34",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Німецького лікаря ув'язнили за вбивство 15 пацієнтів",
+    "link": "https://ua.korrespondent.net/world/4892732-nimetskoho-likaria-uviaznyly-za-vbyvstvo-15-patsiientiv",
+    "pubDate": "2026-07-08 19:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483199.jpg\">Чоловіка визнали винним у вбивстві 15 важкохворих пацієнтів, яким він вводив смертельні препарати без їхнього відома.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "УЄФА перешкоджатиме поверненню російських команд",
+    "link": "https://ua.korrespondent.net/sport/football/4892730-uiefa-pereshkodzhatyme-povernennui-rosiiskykh-komand",
+    "pubDate": "2026-07-08 19:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483198.jpg\">УЄФА виступає проти повернення російських команд до єврокубків. Більшість західноєвропейських федерацій також жорстко виступають проти такого кроку.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Довга розмова: Зеленський зустрівся з Навроцьким",
+    "link": "https://ua.korrespondent.net/ukraine/4892728-dovha-rozmova-zelenskyi-zustrivsia-z-navrotskym",
+    "pubDate": "2026-07-08 19:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483177.jpeg\">За словами українського президента, розмова була важливою та необхідною і тривала понад годину.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кабмін змінив правила видачі водійських посвідчень",
+    "link": "https://ua.korrespondent.net/ukraine/4892725-kabmin-zminyv-pravyla-vydachi-vodiiskykh-posvidchen",
+    "pubDate": "2026-07-08 19:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483175.jpg\">Для водіїв легкових авто та мотоциклів посвідчення відтепер діятимуть 15 років.",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La Generalitat activa medidas extraordinarias para paliar la crisis de precios del sector vinícola catalán",
+    "link": "https://www.elperiodico.com/es/economia/20260708/generalitat-medidas-extraordinarias-crisis-precios-uva-vinicola-132266987",
+    "pubDate": "2026-07-08 19:28:45",
+    "category": "",
+    "description": "<h2>El conseller Ordeig anuncia en el Parlament un plan de choque, que cuenta con un presupuesto de nueve millones y que incluye acciones de promoción del vino catalán</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260630/unio-pagesos-anuncia-tractorada-10julio-precios-uva-131969538\" target=\"_blank\">Unió de Pagesos anuncia una tractorada el 10 de julio para reclamar medidas urgentes ante \"la grave crisis de la viña\"</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ФІФА не скасувала жовту картку Майкла Олісе",
+    "link": "https://ua.korrespondent.net/sport/football/4892724-fifa-ne-skasuvala-zhovtu-kartku-maikla-olise",
+    "pubDate": "2026-07-08 19:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483174.jpg\">Покарання французького вінгера за епізод у матчі з Парагваєм залишилося чинним.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Samsung оголосила дату презентації нових пристроїв",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4892722-Samsung-oholosyla-datu-prezentatsii-novykh-prystroiv",
+    "pubDate": "2026-07-08 19:23:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483153.jpg\">Компанія підтвердила проведення наступної презентації Galaxy Unpacked у Лондоні, де очікується дебют нового покоління складаних смартфонів та смартгодинників.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія випробовує новий дрон-\"невидимку\" на оптоволокні - \"Флеш\"",
+    "link": "https://ua.korrespondent.net/ukraine/4892720-rosiia-vyprobovuie-novyi-dron-nevydymku-na-optovolokni-flesh",
+    "pubDate": "2026-07-08 19:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483149.png\">Новий російський дрон стане аналогом дрона Молнія та матиме дальність польоту до 50 кілометрів.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Land Rover оновила Defender",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4892718-Land-Rover-onovyla-Defender",
+    "pubDate": "2026-07-08 19:09:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483112.jpg\">Лінійка поповнилася новою комплектацією Vertex, з'явилися додаткові варіанти салону, новий двигун і розширений список оснащення, але найпотужніша версія Octa стала менш продуктивною.",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Qida capta 15 millones del ICO para impulsar su expansión y reforzar su tecnología de cuidado sénior",
     "link": "https://www.elperiodico.com/es/economia/20260708/qida-capta-15-millones-ico-132263573",
     "pubDate": "2026-07-08 19:04:02",
