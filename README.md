@@ -1,8 +1,16 @@
-# News for 2026-07-08 03:09
+# News for 2026-07-08 06:31
 
 Previous day: [2026-07-07](./data/2026-07-07.md)
 
 ## ua.korrespondent.net
+06:23 [Через атаку РФ у Запоріжжі знеструмлені тисячі абонентів](https://ua.korrespondent.net/city/zaporozhye/4892497-cherez-ataku-rf-u-zaporizhzhi-znestrumleni-tysiachi-abonentiv)<br>
+05:47 [Війна на Близькому Сході. Онлайн](https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain)<br>
+05:42 [США вразили понад 80 цілей під час ударів по Ірану](https://ua.korrespondent.net/world/4892495-ssha-vrazyly-ponad-80-tsilei-pid-chas-udariv-po-iranu)<br>
+04:58 [Глава Пентагону вперше приїде в Ізраїль - CNN](https://ua.korrespondent.net/world/4892493-hlava-pentahonu-vpershe-pryide-v-izrail-CNN)<br>
+04:33 [В Києві пролунали повторні вибухи, працює ППО](https://ua.korrespondent.net/city/kiev/4892491-v-kyievi-prolunaly-povtorni-vybukhy-pratsuiie-ppo)<br>
+03:59 [Росію атакували дрони: в Саратові палає НПЗ](https://ua.korrespondent.net/world/russia/4892489-rosiui-atakuvaly-drony-v-saratovi-palaie-npz)<br>
+03:48 [Румунія просить Україну перепрограмувати дрони](https://ua.korrespondent.net/world/worldabus/4892487-rumuniia-prosyt-ukrainu-pereprohramuvaty-drony)<br>
+03:14 [ВООЗ попередила про хвилю "смертоносної" спеки](https://ua.korrespondent.net/ukraine/4892485-vooz-poperedyla-pro-khvylui-smertonosnoi-speky)<br>
 02:42 [США продовжать переговори з Іраном, попри нові удари - ЗМІ](https://ua.korrespondent.net/world/4892483-ssha-prodovzhat-perehovory-z-iranom-popry-novi-udary-zmi)<br>
 01:59 [Удар по Одесі: число потерпілих сягло 10 людей](https://ua.korrespondent.net/city/odessa/4892479-udar-po-odesi-chyslo-poterpilykh-siahlo-10-luidei)<br>
 01:45 [Росіяни вдарили балістикою по Харкову](https://ua.korrespondent.net/city/kharkov/4892477-rosiiany-vdaryly-balistykoui-po-kharkovu)<br>
@@ -10,6 +18,20 @@ Previous day: [2026-07-07](./data/2026-07-07.md)
 00:28 [В Києві повідомили про наслідки нових ударів РФ](https://ua.korrespondent.net/city/kiev/4892470-v-kyievi-povidomyly-pro-naslidky-novykh-udariv-rf)<br>
 
 ## www.elperiodico.com
+06:10 [Socavón por las obras de la L9 del Putxet en Barcelona, en directo: causa, reacciones y última hora de las fincas afectadas](https://www.elperiodico.com/es/barcelona/20260708/socavon-obras-l9-el-putxet-barcelona-ultima-hora-directo-132218479)<br>
+06:00 [Podemos exigirá al Gobierno trocear el decreto de vivienda para apoyar la prórroga de alquileres: "Si Junts puede bloquear, nosotros también"](https://www.elperiodico.com/es/politica/20260708/exigira-gobierno-trocear-decreto-vivienda-132229514)<br>
+06:00 [Catalunya revisará las franjas que protegen del fuego a las urbanizaciones](https://www.elperiodico.com/es/sociedad/20260708/catalunya-revisara-franjas-antiincendios-urbanizaciones-protegen-fuego-132209337)<br>
+06:00 [Hacienda tienta a las comunidades del PP con un sistema de nueva financiación abierto a incluir sus propuestas](https://www.elperiodico.com/es/politica/20260708/hacienda-comunidades-pp-sistema-financiacion-132226702)<br>
+06:00 [Catalunya, en aviso rojo ante un miércoles de temperaturas extremas que ya se perfila como el día más cálido de lo que llevamos de verano](https://www.elperiodico.com/es/sociedad/20260708/cataluna-aviso-rojo-miercoles-temperaturas-altas-meteocat-132221785)<br>
+06:00 [La ‘hucha’ de las nucleares marca récord con 9.400 millones para pagar el cierre de las centrales](https://www.elperiodico.com/es/economia/20260708/centrales-nucleares-fondo-desmantelamiento-record-9400-millones-enresa-132221141)<br>
+06:00 [Lluvia de dividendos en julio: Repsol, Iberdrola y una decena de cotizadas que pagarán 7.150 millones este mes](https://www.elperiodico.com/es/economia/20260708/lluvia-dividendos-julio-repsol-iberdrola-132236873)<br>
+06:00 [Rosa Martínez, secretaria de Estado de Derechos Sociales: "Catalunya recibirá 1.630 millones más para dependencia y podrá reducir la lista de espera a la mitad"](https://www.elperiodico.com/es/sociedad/20260708/financiacion-sistema-dependencia-nuevo-modelo-residencias-132206771)<br>
+06:00 [ALCA Technologies, la empresa italiana que quiere acercar la automatización a las pymes](https://www.elperiodico.com/es/consorci-zona-franca/20260708/alca-technologies-empresa-italiana-quiere-bc-132161474)<br>
+06:00 [Los psiquiátricos en la Guerra Civil, una historia de terror: "Los enfermos se mueren de hambre"](https://www.elperiodico.com/es/ser-feliz/20260708/psiquiatricos-guerra-civil-historia-terror-131790901)<br>
+05:40 [Directo guerra Ucrania - Rusia, última hora | Cumbre de la OTAN](https://www.elperiodico.com/es/internacional/20260708/directo-guerra-ucrania-rusia-ultima-126605559)<br>
+05:37 [Guerra de Irán, en directo. Última hora | Tregua en peligro](https://www.elperiodico.com/es/internacional/20260708/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+05:35 [Incendios en Catalunya y resto de España hoy, en directo: última hora de los fuegos activos en La Bisbal, Anoia, Sentmenat y Perpinyà](https://www.elperiodico.com/es/sociedad/20260708/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+05:30 [Barcelona se convierte en el laboratorio del turismo del futuro](https://www.elperiodico.com/es/economia/20260708/casos-exito-barcelona-travel-hub-bc-131592899)<br>
 01:00 [Nuevos referentes para una economía en transformación](https://www.elperiodico.com/es/sociedad/20260708/nuevos-referentes-economia-transformacion-bc-132203697)<br>
 00:26 [Un agente de ICE mata a un migrante mexicano durante un operativo de detención en Texas](https://www.elperiodico.com/es/internacional/20260708/agente-ice-mata-migrante-mexicano-132234623)<br>
 00:08 [Muere ahogada una niña de seis años en la piscina del complejo deportivo Barri del Secà de Balaguer](https://www.elperiodico.com/es/sociedad/20260708/muere-ahogada-nina-seis-anos-barri-seca-balaguer-132234512)<br>
