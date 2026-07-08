@@ -1,5 +1,86 @@
 [
   {
+    "title": "La aparatosa fantasía gótica de Halsey y la intimidad de Sen Senra impulsan el Cruïlla en su jornada inaugural",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260708/halsey-sen-senra-cruilla-jornada-inaugural-132273050",
+    "pubDate": "2026-07-08 23:22:40",
+    "category": "",
+    "description": "<h2 class=\"item\">La cantante de New Jersey y el cantautor gallego protagonizaron una parrilla inaugural en la que destacaron también actuaciones como las de Reneé Rapp, Yami Safdie y Greta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260708/cruilla-vuelve-festival-barcelona-conciertos-132226705\">El Cruïlla vuelve como refugio musical de amplio espectro: de La Ludwig Band a David Byrne</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Львові натовп перекинув авто ТЦК",
+    "link": "https://ua.korrespondent.net/city/lvov/4892754-u-lvovi-natovp-perekynuv-avto-ttsk",
+    "pubDate": "2026-07-08 23:20:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483407.jpg\">Конфлікт стався через чоловіка, який за даними поліції, перебував у розшуку за ухилення від військової служби.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Навроцький розповів, що говорив Зеленському",
+    "link": "https://ua.korrespondent.net/ukraine/4892752-navrotskyi-rozpoviv-scho-hovoryv-zelenskomu",
+    "pubDate": "2026-07-08 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483386.jpg\">Польський лідер назвав розмову з українським колегою конструктивною, однак зазначив, що проблему вирішити не вдалося.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedri: \"Sé cuándo juego bien y cuándo juego mal, no necesito que nadie me lo diga\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/pedri-juego-juego-mal-necesito-132272579",
+    "pubDate": "2026-07-08 22:48:20",
+    "category": "",
+    "description": "<h2>El jugador del Barça y de la selección es autocrítico con su partido ante Portugal, pero quiere poner en valor tanto su fútbol como el del combinado español.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump cumple su amenaza y EEUU bombardea de nuevo a Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260708/ee-uu-bombardea-nuevo-iran-132272789",
+    "pubDate": "2026-07-08 22:45:36",
+    "category": "",
+    "description": "<h2>El presidente estadounidense había dado por concluida la tregua horas antes, durante la celebración de la cumbre de la OTAN en Ankara </h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La 'Clàssica a la Platja' triunfa pese al calor extremo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260708/classica-playa-barcelona-record-asistencia-calor-extremo-132272612",
+    "pubDate": "2026-07-08 22:42:38",
+    "category": "",
+    "description": "<h2>La primera de las dos veladas en la playa de Sant Sebastià, a cargo de la Simfònica del Liceu y con un programa de sabor balletístico, reunió a unas 30.000 personas y batió el récord de asistencia</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El Tibidabo enciende las letras ‘Barcelona’ para abrir la temporada de verano del parque de atracciones",
+    "link": "https://www.elperiodico.com/es/barcelona/20260708/tibidabo-enciende-letras-barcelona-abrir-temporada-verano-132265240",
+    "pubDate": "2026-07-08 22:42:30",
+    "category": "",
+    "description": "<h2>Las grafías se iluminarán todos los fines de semana de julio a las 21.45 en la instalación, que abrirá hasta las 21.00 desde este jueves y hasta las 22.00 en agosto</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260228/tibidabo-arranca-celebracion-125-aniversario-barcelona-letras-luminosas-127383159\">El Tibidabo arranca la celebración de su 125 aniversario con la inauguración de las letras \"Barcelona\" en el mirador</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250714/tibidabo-pondra-barcelona-letras-gigantes-mirador-foto-iconica-barcelona-119597798\">El Tibidabo pondrá 'Barcelona' en letras gigantes en su mirador para generar una foto icónica</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Rafa Márquez, nuevo seleccionador de México",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/rafa-marquez-nuevo-seleccionador-mexico-132272393",
+    "pubDate": "2026-07-08 22:30:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El exdefensa del Barça, que disputó cinco mundiales como jugador, sucede en el cargo a Javier Aguirre, de quien ya era ayudante. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗСУ зачистили від окупантів Новохатське на Донбасі",
+    "link": "https://ua.korrespondent.net/ukraine/4892750-zsu-zachystyly-vid-okupantiv-novokhatske-na-donbasi",
+    "pubDate": "2026-07-08 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483365.jpg\">Українські захисники заявили, що ворог вибитий із позицій, зазнав втрат і відступив. Бійці показали відео зі звільненого селища.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las 10 claves del primer discurso de la infanta Sofía: lenguaje cercano, mirada realista y referencias familiares",
     "link": "https://www.elperiodico.com/es/politica/20260708/10-claves-discurso-infanta-sofia-lenguaje-cercano-referencias-familiares-132271611",
     "pubDate": "2026-07-08 21:57:54",

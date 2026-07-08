@@ -1,8 +1,11 @@
-# News for 2026-07-08 22:14
+# News for 2026-07-08 23:35
 
 Previous day: [2026-07-07](./data/2026-07-07.md)
 
 ## ua.korrespondent.net
+23:20 [У Львові натовп перекинув авто ТЦК](https://ua.korrespondent.net/city/lvov/4892754-u-lvovi-natovp-perekynuv-avto-ttsk)<br>
+22:52 [Навроцький розповів, що говорив Зеленському](https://ua.korrespondent.net/ukraine/4892752-navrotskyi-rozpoviv-scho-hovoryv-zelenskomu)<br>
+22:24 [ЗСУ зачистили від окупантів Новохатське на Донбасі](https://ua.korrespondent.net/ukraine/4892750-zsu-zachystyly-vid-okupantiv-novokhatske-na-donbasi)<br>
 21:53 [Рютте передав Путіну сигнал після саміту НАТО](https://ua.korrespondent.net/world/4892748-ruitte-peredav-putinu-syhnal-pislia-samitu-nato)<br>
 21:29 [Україна та Швеція обговорили посилення авіації](https://ua.korrespondent.net/ukraine/4892746-ukraina-ta-shvetsiia-obhovoryly-posylennia-aviatsii)<br>
 20:52 [Apple програла суд проти ЄС](https://ua.korrespondent.net/business/companies/4892742-Apple-prohrala-sud-proty-yes)<br>
@@ -126,6 +129,7 @@ Previous day: [2026-07-07](./data/2026-07-07.md)
 13:14 [James Nnaji baja de escalón en la NCAA en busca de minutos](https://as.com/baloncesto/james-nnaji-baja-un-escalon-en-la-ncaa-en-busca-de-minutos-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:45 [Trump cumple su amenaza y EEUU bombardea de nuevo a Irán](https://www.elperiodico.com/es/internacional/20260708/ee-uu-bombardea-nuevo-iran-132272789)<br>
 21:57 [Las 10 claves del primer discurso de la infanta Sofía: lenguaje cercano, mirada realista y referencias familiares](https://www.elperiodico.com/es/politica/20260708/10-claves-discurso-infanta-sofia-lenguaje-cercano-referencias-familiares-132271611)<br>
 21:56 [Trump contra España](https://www.elperiodico.com/es/opinion/20260708/trump-espana-departamento-de-estado-articulo-ernesto-ekaizer-132271241)<br>
 21:18 [Los Bombers estabilizan el incendio de Sentmenat en su tercer día](https://www.elperiodico.com/es/barcelona/20260708/desconfinadas-tres-urbanizaciones-seguian-afectadas-incendio-sentmenat-fuego-confinados-132270715)<br>
