@@ -1,5 +1,338 @@
 [
   {
+    "title": "La San Diego Comic-Con Málaga cambia para este octubre: nuevos auditorios, más aforo y el doble de espacio expositivo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260708/sera-mapa-san-diego-comic-132239500",
+    "pubDate": "2026-07-08 09:09:10",
+    "category": "",
+    "description": "<h2>La segunda edición, que se celebrará del 1 al 4 de octubre en FYCMA, amplia sus zonas, estrenará espacios y mejorará la distribución del recinto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comunidad de Madrid inaugurará en 2027 su Centro para la Memoria de las Víctimas del Terrorismo",
+    "link": "https://www.elperiodico.com/es/politica/20260708/comunidad-madrid-inaugurara-2027-centro-132239503",
+    "pubDate": "2026-07-08 09:08:18",
+    "category": "",
+    "description": "<h2>El Consejo de Gobierno da luz verde a una inversión de 2,2 millones de euros para la creación de un espacio previsto en la ley regional para el reconocimiento y protección de las víctimas de 2018 </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así funciona Oceanaria, el nuevo guardián de la IA para avisar de la llegada de las medusas a la playa",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/funciona-oceanaria-nuevo-guardian-ia-132239509",
+    "pubDate": "2026-07-08 09:06:13",
+    "category": "",
+    "description": "<h2>El grupo de investigación de I+D Edanya con participación de la Junta de Andalucía y de la UMA se apoya en la inteligencia artificial para anticipar el baile de estos molestos invertebrados tan temidos por los bañistas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Joan Vaello (100 años): \"Cada día me levanto a las 7, tomo un vaso de agua y desayuno un pastelito, pero con control\"",
+    "link": "https://www.elperiodico.com/es/salud/20260708/joan-vaello-100-anos-levanto-7-desayuno-agua-dulce-dv-132224490",
+    "pubDate": "2026-07-08 09:06:04",
+    "category": "",
+    "description": "<h2>El hombre, que acaba de cumplir un siglo de vida, revela los hábitos con los que comienza cada día y que ha mantenido durante décadas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260612/calcula-probabilidad-centenario-longevidad-mapa-131329502\" target=\"_blank\">Calcula la probabilidad de ser centenario en función de la provincia en que vivas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вдарила по п'ятиповерхівці в Харкові: є жертва",
+    "link": "https://ua.korrespondent.net/city/kharkov/4892517-rf-vdaryla-po-piatypoverkhivtsi-v-kharkovi-ye-zhertva",
+    "pubDate": "2026-07-08 09:05:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482423.jpg\">Внаслідок ракетної атаки на Немишлянський район Харкова постраждали 15 осіб. Підтверджено загибель однієї людини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El parque a tan solo 6 horas de Catalunya que ya es viral: la mejor alternativa a Disneyland París",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260708/futuroscope-francia-parque-atracciones-viral-disneyland-paris-dv-131962842",
+    "pubDate": "2026-07-08 09:05:00",
+    "category": "",
+    "description": "<h2>Un destino innovador para disfrutar de entretenimiento, ciencia y tecnología</h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260602/tobogan-agua-alto-europa-espana-parque-acuatico-dv-130700551\">El tobogán de agua más alto de Europa está a cinco horas de Barcelona: equivale a lanzarse desde un edificio de 13 plantas</a></h2><h2><a href=\"https://www.elperiodico.com/es/destinos/20250528/futuroscope-parque-tematico-tecnologia-imaginacion-117917817\">Futuroscope: el parque temático donde la tecnología y la imaginación se dan la mano</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nacho Vidal será juzgado por la muerte del fotógrafo ocho años después del rito del sapo bufo",
+    "link": "https://www.elperiodico.com/es/sucesos/20260708/nacho-vidal-sera-juzgado-muerte-132239540",
+    "pubDate": "2026-07-08 09:04:40",
+    "category": "",
+    "description": "<h2 class=\"item\">La vista, que durará varios días, está fijada para dentro de un año, en junio de 2027, en la Sección de lo Penal de Valencia</h2><h2 class=\"item\">El ex actor porno afronta entre cuatro años y siete años de cárcel por homicidio imprudente y tráfico de drogas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona destina 1,3 millones de euros a las ayudas para el alumbrado de Navidad de 2026",
+    "link": "https://www.elperiodico.com/es/barcelona/20260708/barcelona-destina-13-millones-ayudas-alumbrado-navidad-2026-132238746",
+    "pubDate": "2026-07-08 09:00:06",
+    "category": "",
+    "description": "<h2>La subvención cubrirá hasta el 75% de las luces de Navidad impulsadas por las asociaciones de comerciantes, con un máximo de 120.000 euros por solicitud</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260421/barcelona-subvencion-prohibir-pisos-turisticos-127353165\" target=\"_blank\">Subvención para prohibir pisos turísticos en tu comunidad: Así puedes recibir la ayuda en Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya ya suma más de 150 incendios en lo que va de verano; la segunda cifra más alta desde 2010",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/catalunya-suma-centenar-incendios-verano-hectareas-quemadas-132238684",
+    "pubDate": "2026-07-08 08:56:48",
+    "category": "",
+    "description": "<h2 class=\"item\">Las hectáreas quemadas ya se acercan a las 3.000, lejos de las más de 9.000 del año pasado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260708/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Incendios en Catalunya y resto de España hoy, en directo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Del abismo al éxtasis: la prensa argentina se entrega a la épica de Messi tras la remontada ante Egipto",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/abismo-extasis-prensa-argentina-entrega-epica-messi-remontada-egipto-132238305",
+    "pubDate": "2026-07-08 08:55:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260707/messi-escribe-pagina-inolvidable-argentina-132224691\">Messi escribe otra página inolvidable para que Argentina sobreviva ante Egipto</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya vive una noche infernal con mínimas de hasta 32 grados en el Empordà y más de 27 en Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/catalunya-noche-infernal-minimas-32-grados-registros-miercoles-132238474",
+    "pubDate": "2026-07-08 08:48:05",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260708/cataluna-aviso-rojo-miercoles-temperaturas-altas-meteocat-132221785\">Catalunya, en aviso rojo ante un miércoles de temperaturas extremas que ya se perfila como el día más cálido de lo que llevamos de verano</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260707/calor-hoy-8-julio-temperaturas-meteocat-aemet-131690573\" >Consulta las temperaturas de la noche anterior y la previsión de la jornada de hoy</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Обстріл Харківщини: двоє загиблих, десятки постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4892511-obstril-kharkivschyny-dvoie-zahyblykh-desiatky-postrazhdalykh",
+    "pubDate": "2026-07-08 08:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482393.jpg\">Серед 35 травмованих внаслідок російської атаки є шестеро дітей. Пошкоджено та зруйновано низку обʼєктів цивільної інфраструктури.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los mejores escaladores del ranking europeo listos para brillar en GRAVITEO y el Circuit",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/mejores-escaladores-ranking-europeo-listos-132234398",
+    "pubDate": "2026-07-08 08:41:51",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El Circuit de Barcelona-Catalunya acoge del 17 al 19 de julio el World Climbing Europe Championship de búlder, la gran cita continental de la disciplina</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Bryan Johnson, el biohacker que quería vencer a la muerte, revela que sufre una enfermedad incurable: \"Mi estómago se está comiendo a sí mismo\"",
+    "link": "https://www.elperiodico.com/es/gente/20260708/bryan-johnson-biohacker-enfermedad-incurable-gastritis-autoinmune-netflix-132238292",
+    "pubDate": "2026-07-08 08:38:04",
+    "category": "",
+    "description": "<h2>El famoso multimillonario de Silicon Valley, que protagonizó un documental en Netflix y que usaba transfusiones de sangre de su hijo adolescente en busca de la eterna juventud, ha confesado ahora el diagnóstico que pone en jaque su obsesivo plan contra natura</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irán y EEUU intercambian ataques a gran escala en plena cumbre de la OTAN en Turquía",
+    "link": "https://www.elperiodico.com/es/videos/internacional/iran-eeuu-intercambian-ataques-gran/132238644.shtml",
+    "pubDate": "2026-07-08 08:32:14",
+    "category": "",
+    "description": "El presidente estadounidense, Donald Trump, dio la orden de atacar al país persa durante la madrugada del miércoles desde Ankara, donde se reúne con los jefes de Estado y de gobierno de la alianza",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Premios Empresa del Año Banco Sabadell 2026 reconocerán la trayectoria empresarial en Castilla y León",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/premios-empresa-ano-banco-sabadell-bc-132238591",
+    "pubDate": "2026-07-08 08:30:47",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irene, camionera: \"Hoy me he ido a Logroño y Cantabria, de vuelta a Madrid me he quedado a medio camino porque no me daban las horas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/irene-camionera-quedado-medio-camino-sin-horas-dv-et-132220659",
+    "pubDate": "2026-07-08 08:30:46",
+    "category": "",
+    "description": "<h2>En España se necesitan alrededor de 30.000 conductores, con una plantilla actual de 400.000 transportistas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260629/andrea-22-anos-camionera-empleo-transporte-logistica-salario-dv-131933084\" target=\"_blank\">Andrea, 22 años, camionera: \"Trabajo 8 horas de lunes a viernes, recorro casi 300 kilómetros diarios y gano unos 2.000 euros mensuales\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "ГШ: У напрямку Покровська ЗСУ зупинили 51 штурм РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4892508-hsh-u-napriamku-pokrovska-zsu-zupynyly-51-shturm-rf",
+    "pubDate": "2026-07-08 08:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482372.jpg\">На фронті за добу сталось 271 зіткнення, найбільше - на Покровському та Слов'янському напрямах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro García Ramos, médico de familia: \"Con el calor el organismo sufre una deshidratación, un aumento de su temperatura y una descompensación de nuestros sistemas\"",
+    "link": "https://www.elperiodico.com/es/salud/20260708/golpe-calor-efectos-deshidratacion-organos-medico-dv-et-132170086",
+    "pubDate": "2026-07-08 08:20:06",
+    "category": "",
+    "description": "<h2 class=\"item\">El doctor señala que los golpes de calor se producen \"cada vez con mayor frecuencia\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260706/julio-cataluna-calor-temperaturas-verano-aemet-dv-loc-132037204\">Se avecina un mes de julio tórrido en Catalunya: temperaturas extremas las próximas semanas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260706/tiempo-golpe-calor-deshidratacion-agotamiento-diferencias-dv-132167264\">Diferencias entre deshidratación, agotamiento y golpe de calor: así puedes identificarlos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bolas espaciales en las playas de Australia: los astrofísicos advierten a quienes las encuentren que no deben tocarlas",
+    "link": "https://www.elperiodico.com/es/ciencia/20260708/australia-bolas-espaciales-playas-dv-132203759",
+    "pubDate": "2026-07-08 08:20:05",
+    "category": "",
+    "description": "<h2>La Agencia Espacial australiana cree que los objetos proceden del espacio exterior y que pueden contener sustancias tóxicas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260705/sonda-japonesa-sobrevuela-asteroide-ensayo-proteger-tierra-132145301\">Una sonda japonesa sobrevuela un asteroide en un ensayo para proteger la Tierra</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora del terremoto en Venezuela, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260708/terremoto-venezuela-hoy-ultima-hora-directo-131788662",
+    "pubDate": "2026-07-08 08:20:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260625/doblete-sismico-venezuela-explicacion-131792108\" target=\"_blank\">¿Qué es el doblete sísmico que ha ocurrido en Venezuela y por qué se han producido dos terremotos violentos en menos de un minuto?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260625/terremotos-venezuela-desaparecidos-muertos-caracas-131790570\" target=\"_blank\">Venezuela busca a la desesperada a los desaparecidos por los terremotos: \"¡Antonio, mamá está aquí!\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Movistar Plus refuerza su apuesta por las series españolas y multiplicará los estrenos",
+    "link": "https://www.elperiodico.com/es/tele/20260708/movistar-plus-series-espanolas-132237873",
+    "pubDate": "2026-07-08 08:18:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El objetivo es llegar a 26 series españolas al año, doblando el volumen de las producciones originales actuales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260505/movistar-plan-cine-series-129864597\">Movistar Plus lanza un plan más barato de cine y series</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rápida carrera de los toros de Cebada Gago en el segundo encierro de los Sanfermines",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/segundo-encierro-sanfermines-rapida-carrera-toros-cebada-gago-132238440",
+    "pubDate": "2026-07-08 08:17:46",
+    "category": "",
+    "description": "<h2>Los servicios sanitarios han atendido a un herido por una cornada en un brazo que no reviste gravedad</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Restaurante Cal Quiquet: veinteañeros que se estrenan con una casa de 'menjars', donde el fricandó es una terrina",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260708/restaurante-cal-quiquet-barcelona-132180702",
+    "pubDate": "2026-07-08 08:12:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Malena Loyer y Albert Blesa se han lanzado a la aventura con su primer restaurante después de conocerse en una universidad gastronómica</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260527/mejores-restaurantes-poblenou-barcelona-91777533\">Los mejores restaurantes para dejarse caer por Poblenou</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260623/mejores-restaurantes-nueva-cocina-catalana-barcelona-114262685\">Los mejores restaurantes de Barcelona para probar la Nova Cuina Catalana</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260618/mejores-restaurantes-abiertos-barcelona-ano-2026-130815563\">Los mejores restaurantes abiertos en Barcelona en lo que llevamos de 2026</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los mejores restaurantes de la Zona Franca para reponer fuerzas con buen gusto",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260708/mejores-restaurantes-zona-franca-barcelona-128599604",
+    "pubDate": "2026-07-08 08:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El popular barrio barcelonés cuenta con establecimientos donde disfrutar de cada bocado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240112/mejores-restaurantes-sants-barcelona-77697316\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230206/restaurantes-cerca-feria-montjuic-barcelona-82434641\" >Los mejores restaurantes de Sants que deberías tener en tu radar</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230206/restaurantes-cerca-feria-montjuic-barcelona-82434641\" >Buenos restaurantes cerca de la Fira de Montjuïc</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "3 vinos espumosos con los que sorprender a tus invitados",
+    "link": "https://www.elperiodico.com/es/gastronomia/vinos/20260708/mejores-vinos-espumosos-originales-131584723",
+    "pubDate": "2026-07-08 08:07:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Triple propuesta para dejar a tu gente descolocada: un rosado sin alcohol, un 'frizzante' enlatado y un 'prosecco' de garantías</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/bebidas/20240523/secretos-espumosos-josep-roca-cata-mayor-102534802\">VÍDEO | ¿Espumoso joven o de larga crianza? ¿Corpinnat o champán? Responde el sumiller Josep Roca</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20230420/mejores-vinos-espumosos-videocata-cata-84973647\">VIDEOCATA: los 3 vinos espumosos por los que brindan los expertos</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La multa a la que te enfrentas este verano por conducir con chanclas",
+    "link": "https://www.elperiodico.com/es/motor/20260708/multar-chanclas-conducir-132200970",
+    "pubDate": "2026-07-08 08:01:04",
+    "category": "",
+    "description": "<h2>Con el verano aquí muchos conductores llevan puestas las chanclas al volante, y la DGT explica sus posibles sanciones</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Навчання за кордоном: як дистанційна школа готує учнів до вступу до міжнародних університетів",
+    "link": "https://ua.korrespondent.net/business/4892338-navchannia-za-kordonom-yak-dystantsiina-shkola-hotuie-uchniv-do-vstupu-do-mizhnarodnykh-universytetiv",
+    "pubDate": "2026-07-08 08:00:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4481864.jpg\">\r\n\r\n\r\nУявіть школяра, який зранку опановує історію та географію українською, а вдень вивчає IT та бізнес за англомовною програмою Cambridge.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Долетіло до Татарстану: ключовий НПЗ Росії у вогні",
+    "link": "https://ua.korrespondent.net/world/russia/4892503-doletilo-do-tatarstanu-kluichovyi-npz-rosii-u-vohni",
+    "pubDate": "2026-07-08 07:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482351.jpg\">У Нижньокамську після оголошення загрози БПЛА горить промзона, де розташовані АТ ТАІФ-НК та НПЗ Татнефти АТ ТАНЕКО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стало відомо, як cпрацювала ППО у ніч проти середи",
+    "link": "https://ua.korrespondent.net/ukraine/4892506-stalo-vidomo-yak-cpratsuivala-ppo-u-nich-proty-seredy",
+    "pubDate": "2026-07-08 07:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482361.jpg\">Зафіксовано влучання п'яти балістичних ракет Іскандер-М/С-400 на чотирьох локаціях та 20 ударних БпЛА на 11 локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ракетна атака РФ на Київ: у ДСНС показали наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4892501-raketna-ataka-rf-na-kyiv-u-dsns-pokazaly-naslidky",
+    "pubDate": "2026-07-08 07:09:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482324.jpg\">Рятувальники ліквідовують пожежі у двох районах столиці. Дві людини постраждали. Інформація про наслідки атаки уточнюється.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Dacia Striker llega para revolucionar el segmento C a medio camino entre SUV, berlina y familiar",
+    "link": "https://www.elperiodico.com/es/motor/20260708/dacia-striker-llega-revolucionar-segmento-132044175",
+    "pubDate": "2026-07-08 07:05:56",
+    "category": "",
+    "description": "<h2>Un gran maletero, una silueta que quiere combinar lo mejor de tres carrocerías y un precio por debajo de los 25.000 euros son sus puntos fuertes.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Apúntate al duatlón de GRAVITEO, la original forma de descubrir el Circuit de Barcelona-Catalunya",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/apuntate-duatlon-graviteo-original-forma-132237566",
+    "pubDate": "2026-07-08 07:03:49",
+    "category": "",
+    "description": "<h2><em>La prueba popular del sábado 18 de julio permitirá recorrer las curvas de Montmeló en bicicleta y completar 5 kilómetros a pie por los viales del Circuit, dentro de este festival gratuito</em></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuando Vingegaard se cuela en tu habitación y se ducha en ella",
+    "link": "https://www.elperiodico.com/es/deportes/20260708/jaula-puerta-cerrada-sorpresas-tour-tourmalet-sergi-lopez-egea-132219300",
+    "pubDate": "2026-07-08 07:00:11",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La atención continuada, una alternativa ágil a las urgencias hospitalarias",
+    "link": "https://www.elperiodico.com/es/salud/20260708/atencion-continuada-alternativa-agil-urgencias-bc-132207173",
+    "pubDate": "2026-07-08 07:00:11",
+    "category": "",
+    "description": "<h2>Los Centros Médicos Sanitas Provença, en Barcelona, y Sanitas Sabadell ofrecen atención inmediata para problemas de salud no demorables, con acceso a pruebas diagnósticas, tratamiento y seguimiento clínico.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los mejores restaurantes para una breve escapada al Maresme",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260708/mejores-restaurantes-maresme-84311016",
+    "pubDate": "2026-07-08 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Da igual si es un sube-baja o si vas de paso. Porque te aseguramos que estos buenos restaurantes justificarán el desplazamiento. ¿Por cuál empezarás?</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230501/buenos-restaurantes-badalona-84300825\" >Los mejores restaurantes para acercarse a Badalona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб ЗСУ показав нові дані про втрати ворога",
+    "link": "https://ua.korrespondent.net/ukraine/4892499-henshtab-zsu-pokazav-novi-dani-pro-vtraty-voroha",
+    "pubDate": "2026-07-08 06:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4482299.jpg\">Загальні бойові втрати російських загарбників з початку повномасштабної війни орієнтовно становлять близько 1 413 510 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Через атаку РФ у Запоріжжі знеструмлені тисячі абонентів",
     "link": "https://ua.korrespondent.net/city/zaporozhye/4892497-cherez-ataku-rf-u-zaporizhzhi-znestrumleni-tysiachi-abonentiv",
     "pubDate": "2026-07-08 06:23:00",
