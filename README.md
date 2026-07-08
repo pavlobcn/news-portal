@@ -1,8 +1,24 @@
-# News for 2026-07-08 15:15
+# News for 2026-07-08 17:39
 
 Previous day: [2026-07-07](./data/2026-07-07.md)
 
 ## ua.korrespondent.net
+17:29 [Уряд скерує 3 млрд на відновлення Вишневого](https://ua.korrespondent.net/ukraine/4892693-uriad-skeruie-3-mlrd-na-vidnovlennia-vyshnevoho)<br>
+17:18 [Країни НАТО погодили €140 млрд на зброю Україні](https://ua.korrespondent.net/world/4892690-krainy-nato-pohodyly-140-mlrd-na-zbroui-ukraini)<br>
+17:15 [У Києві безпілотник влучив у 25-поверхівку](https://ua.korrespondent.net/city/kiev/4892689-u-kyievi-bezpilotnyk-vluchyv-u-25-poverkhivku)<br>
+17:10 [ЄС закликав до примирення: у Брюсселі відреагували на дискусію про УПА](https://ua.korrespondent.net/ukraine/4892687-yes-zaklykav-do-prymyrennia-u-bruisseli-vidreahuvaly-na-dyskusiui-pro-upa)<br>
+17:02 [Трамп анонсував нові удари по Ірану](https://ua.korrespondent.net/world/4892685-tramp-anonsuvav-novi-udary-po-iranu)<br>
+16:42 [Зеленський відповів Трампу щодо поїздки до Москви](https://ua.korrespondent.net/ukraine/4892680-zelenskyi-vidpoviv-trampu-schodo-poizdky-do-moskvy)<br>
+16:39 [Росія потроїла знижки на нафту для Індії](https://ua.korrespondent.net/business/economics/4892679-rosiia-potroila-znyzhky-na-naftu-dlia-indii)<br>
+16:32 [Коригувальника російських ударів по Херсону засудили довічно](https://ua.korrespondent.net/ukraine/4892677-koryhuvalnyka-rosiiskykh-udariv-po-khersonu-zasudyly-dovichno)<br>
+16:22 [Морський дрон Sea Baby уразив танкер "тіньового флоту" РФ](https://ua.korrespondent.net/ukraine/4892673-morskyi-dron-Sea-Baby-urazyv-tanker-tinovoho-flotu-rf)<br>
+16:19 [Число жертв російського удару по Києву зросло до трьох](https://ua.korrespondent.net/city/kiev/4892672-chyslo-zhertv-rosiiskoho-udaru-po-kyievu-zroslo-do-trokh)<br>
+16:09 [Армія Росії зменшила кількість штурмів - Генштаб](https://ua.korrespondent.net/ukraine/4892667-armiia-rosii-zmenshyla-kilkist-shturmiv-henshtab)<br>
+16:04 [Спонукав дітей до створення порно: затримано 53-річного киянина](https://ua.korrespondent.net/city/kiev/4892666-sponukav-ditei-do-stvorennia-porno-zatrymano-53-richnoho-kyianyna)<br>
+15:48 [Апеляція підтвердила вирок ексглаві Тернопільської облради](https://ua.korrespondent.net/ukraine/4892663-apeliatsiia-pidtverdyla-vyrok-ekshlavi-ternopilskoi-oblrady)<br>
+15:40 [Україна зможе виробляти системи Patriot - Трамп](https://ua.korrespondent.net/world/4892660-ukraina-zmozhe-vyrobliaty-systemy-Patriot-tramp)<br>
+15:33 [Зеленський розповів про переговори з фон дер Ляєн в Анкарі](https://ua.korrespondent.net/ukraine/4892659-zelenskyi-rozpoviv-pro-perehovory-z-fon-der-liaien-v-ankari)<br>
+15:22 [Болгарія та Україна обговорили питання енергетики](https://ua.korrespondent.net/ukraine/4892656-bolhariia-ta-ukraina-obhovoryly-pytannia-enerhetyky)<br>
 15:01 [Збито російський винищувач Cу-35 - ПС](https://ua.korrespondent.net/ukraine/4892653-zbyto-rosiiskyi-vynyschuvach-Cu-35-ps)<br>
 14:57 [Бензин у Крим перевозять у молоковозах через удари ЗСУ](https://ua.korrespondent.net/ukraine/4892650-benzyn-u-krym-perevoziat-u-molokovozakh-cherez-udary-zsu)<br>
 14:50 [Удар по Харкову: кількість поранених різко зросла](https://ua.korrespondent.net/city/kharkov/4892648-udar-po-kharkovu-kilkist-poranenykh-rizko-zrosla)<br>
@@ -79,10 +95,40 @@ Previous day: [2026-07-07](./data/2026-07-07.md)
 00:28 [В Києві повідомили про наслідки нових ударів РФ](https://ua.korrespondent.net/city/kiev/4892470-v-kyievi-povidomyly-pro-naslidky-novykh-udariv-rf)<br>
 
 ## as.com
+16:40 [Alba, Slavia e Igokea, rivales del Bilbao](https://as.com/baloncesto/alba-slavia-e-igokea-rivales-del-bilbao-f202607-n/)<br>
+15:32 [El Valencia Basket se fija en Joel Parra](https://as.com/futbol/primera/el-valencia-basket-se-fija-en-joel-parra-f202607-n/)<br>
+15:07 [Oficial: Montero firma con el Olympiacos hasta 2029](https://as.com/baloncesto/oficial-montero-firma-con-el-olympiacos-hasta-2029-f202607-n/)<br>
+14:54 [Yusta se reencuentra con Pablo Laso en el Anadolu Efes](https://as.com/baloncesto/yusta-se-reencuentra-con-pablo-laso-en-el-anadolu-efes-f202607-n/)<br>
 14:27 [España se exhibe y vuela a cuartos del Eurobasket](https://as.com/baloncesto/espana-se-exhibe-y-vuela-a-cuartos-del-eurobasket-f202607-n/)<br>
 13:14 [James Nnaji baja de escalón en la NCAA en busca de minutos](https://as.com/baloncesto/james-nnaji-baja-un-escalon-en-la-ncaa-en-busca-de-minutos-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:36 [Trump autorizará a Ucrania a fabricar misiles 'Patriot'](https://www.elperiodico.com/es/internacional/20260708/trump-autorizara-ucrania-fabricar-misiles-patriot-132262699)<br>
+17:34 [Los médicos inspectores de la Seguridad Social, sobre la propuesta de Feijóo para las bajas: "Un despropósito"](https://www.elperiodico.com/es/sanidad/20260708/medicos-inspectores-seguridad-social-propuesta-feijoo-bajas-desproposito-132260276)<br>
+17:30 [Pablo Acebes, técnico del 112, sobre el calor: "Si notas cansancio o dolor de cabeza, debes buscar la sombra y beber agua"](https://www.elperiodico.com/es/tiempo/20260708/pablo-acebes-tecnico-112-calor-cansancio-dolor-cabeza-dv-et-132224150)<br>
+17:18 [Los Bombers luchan contra un incendio de "alta intensidad" en Aiguamúrcia (Tarragona)](https://www.elperiodico.com/es/tarragona/20260708/bomberos-incendio-alta-intensidad-aiguamurcia-tarragona-132261792)<br>
+17:15 [El rincón de Jesús Calleja (61 años), una maravilla de la naturaleza en el norte de España: "Maravilloso y espectacular"](https://www.elperiodico.com/es/gente/20260708/rincon-jesus-calleja-61-anos-naturaleza-norte-de-espana-dv-132079431)<br>
+17:14 [Barcelona estrena el mayor hotel de Ibis Budget en la península ibérica](https://www.elperiodico.com/es/barcelona/20260708/barcelona-estrena-mayor-hotel-ibis-budget-peninsula-iberica-132261553)<br>
+17:04 [Frente común de los alcaldes de Tarragona ante los despidos de Dow en la química: "Queremos la máxima transparencia"](https://www.elperiodico.com/es/tarragona/20260708/frente-comun-alcaldes-tarragona-despidos-dow-quimica-132260116)<br>
+16:58 [Caen 'Los 300', la banda juvenil  que actuaba con "violencia extrema" en Barcelona y reclutaba a menores](https://www.elperiodico.com/es/videos/politica/los-300-banda-juvenil-barcelona/132261323.shtml)<br>
+16:57 [Las mellizas de Tita Cervera celebran su cumpleaños acompañadas de su madre](https://www.elperiodico.com/es/gente/20260708/mellizas-tita-cervera-celebran-cumpleanos-acompanadas-madre-132257513)<br>
+16:45 [Las mellizas de Tita Cervera celebran su cumpleaños acompañadas de su madre](https://www.elperiodico.com/es/videos/podcast/mellizas-tita-cervera-celebran-cumpleanos/132260828.shtml)<br>
+16:14 [Imágenes del incendio de Gavà este miércoles](https://www.elperiodico.com/es/videos/sucesos/inagenes-incendio-gava-miercoles/132259788.shtml)<br>
+16:12 [De Pau a Anton](https://www.elperiodico.com/es/opinion/20260708/pau-anton-musica-clasica-articulo-anna-grau-132258937)<br>
+16:07 [Barcelona registra su récord absoluto de temperatura con máximas por encima de los 40 grados](https://www.elperiodico.com/es/videos/sociedad/barcelona-registra-record-absoluto-temperatura/132259261.shtml)<br>
+16:04 [La OTAN se compromete ayudar a Ucrania con 70.000 millones de euros en asistencia militar](https://www.elperiodico.com/es/internacional/20260708/otan-compromete-ayudar-ucrania-70-132259326)<br>
+16:03 [La policía cree que operan entre cinco y diez bandas juveniles violentas en Barcelona y su área metropolitana](https://www.elperiodico.com/es/sociedad/20260708/mossos-creen-operan-cinco-diez-bandas-juveniles-violentas-territoriales-menores-docena-132258686)<br>
+15:52 [El Tribunal Constitucional rechaza el recurso de Page contra la amnistía al 'procés' y lo suma a los desestimados de CCAA del PP](https://www.elperiodico.com/es/politica/20260708/tribunal-constitucional-rechaza-recurso-page-132258888)<br>
+15:46 [Mapa de refugios climáticos en Barcelona y resto de Catalunya: ¿dónde refugiarse de la ola de calor?](https://www.elperiodico.com/es/sociedad/20260708/refugios-climaticos-barcelona-cataluna-mapa-ola-calor-132257927)<br>
+15:41 [Los bancos suelen incluir una cláusula en las hipotecas que casi nadie negocia y puede costar 4.000 euros](https://www.elperiodico.com/es/economia/20260708/hipotecas-clausula-casi-nadie-negocia-puede-costar-4000-euros-dv-132257671)<br>
+15:40 [Mapa mundial del cáncer: un 20% de la población desarrollará algún tumor y el 92% se verá afectada por la enfermedad](https://www.elperiodico.com/es/sanidad/20260708/oms-estima-poblacion-mundial-cancer-132256903)<br>
+15:38 [Un tribunal marroquí condena a un polémico 'youtuber' a ocho meses por cocinar un perro](https://www.elperiodico.com/es/sucesos/20260708/tribunal-marroqui-condena-polemico-youtuber-cocinar-perro-dv-132258138)<br>
+15:38 [Muere Louise Lasser, actriz de 'Toma el dinero y corre' y ex de Woody Allen](https://www.elperiodico.com/es/ocio-y-cultura/20260708/muere-louise-lasser-actriz-toma-132258161)<br>
+15:30 [Grup 62 celebra la bonanza editorial con una ambiciosa historia de Catalunya desde la óptica de las mujeres](https://www.elperiodico.com/es/ocio-y-cultura/20260708/grup-62-celebra-bonanza-editorial-132243465)<br>
+15:29 [Paula Echevarría sobre la mayoría de edad de su hija: "Lo que no quiere David es que se haga una revolución por sus 18 años"](https://www.elperiodico.com/es/gente/20260708/paula-echevarria-mayoria-edad-hija-132257827)<br>
+15:24 [Inés García presume del regalo que le ha hecho Lamine Yamal valorado en 30.000 euros](https://www.elperiodico.com/es/gente/20260708/ines-garcia-presume-regalo-le-132257657)<br>
+15:19 [La Comisión recuerda que tiene un dispositivo listo para apoyar labores de extinción de los incendios, en plena ola de calor en Europa](https://www.elperiodico.com/es/internacional/20260708/comision-recuerda-dispositivo-listo-apoyar-extincion-incendios-ola-calor-europa-132257587)<br>
+15:16 [Air Europa mejora sus beneficios a la espera de la entrada de Turkish Airlines en su capital](https://www.elperiodico.com/es/economia/20260708/air-europa-mejora-beneficios-espera-entrada-turkish-airlines-capital-132257478)<br>
 15:12 [Aldama declara en la pieza del caso Koldo en la que se investigan las cuentas del PSOE](https://www.elperiodico.com/es/politica/20260708/aldama-declara-pieza-caso-koldo-132257203)<br>
 15:11 [El éxito del plan piloto de enfermería escolar impulsa su extensión a 50% de escuelas catalanas el próximo curso](https://www.elperiodico.com/es/sociedad/20260708/govern-planea-extender-modelo-enfermeria-escolar-proximo-curso-la-mitad-de-escuelas-catalanas-132255751)<br>
 15:03 [Barcelona registra su récord absoluto de temperatura con máximas por encima de los 40 grados](https://www.elperiodico.com/es/sociedad/20260708/barcelona-record-absoluto-temperatura-40-grados-miercoles-calor-132256633)<br>
@@ -153,6 +199,7 @@ Previous day: [2026-07-07](./data/2026-07-07.md)
 09:56 [Tiroteo en el Putxet de Barcelona: los vecinos denuncian un aumento de la inseguridad en la zona](https://www.elperiodico.com/es/barcelona/20260708/investigan-tiroteo-putxet-barcelona-disparos-madrugada-132240605)<br>
 09:56 [El incendio de Sentmenat sigue activo en su tercer día y los Bombers concentran esfuerzos para evitar que alcance El Farell](https://www.elperiodico.com/es/barcelona/20260708/incendio-sentmenat-sigue-activo-tercer-bombers-generalitat-132240557)<br>
 09:50 [Catalunya avanza en la limitación de la compra especulativa de vivienda](https://www.elperiodico.com/es/politica/20260708/parlament-compra-especulativa-vivienda-132239588)<br>
+09:21 [Illa niega la responsabilidad del Govern en el incendio de Les Gavarres: "No ha habido ninguna negligencia"](https://www.elperiodico.com/es/politica/20260708/incendios-catalunya-salvador-illa-parlament-junts-fuego-gavarres-132202251)<br>
 09:15 [El futuro de Castilla y León se escribe desde sus empresas](https://www.elperiodico.com/es/sociedad/20260708/futuro-castilla-leon-escribe-empresas-bc-132239805)<br>
 09:13 [Un hombre mata a puñaladas a madre e hija en Mijas: descubrieron los cuerpos al sofocar un incendio](https://www.elperiodico.com/es/sucesos/20260708/hombre-mata-punaladas-madre-hija-132239695)<br>
 09:09 [La San Diego Comic-Con Málaga cambia para este octubre: nuevos auditorios, más aforo y el doble de espacio expositivo](https://www.elperiodico.com/es/ocio-y-cultura/20260708/sera-mapa-san-diego-comic-132239500)<br>
