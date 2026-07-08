@@ -1,5 +1,122 @@
 [
   {
+    "title": "Las 10 claves del primer discurso de la infanta Sofía: lenguaje cercano, mirada realista y referencias familiares",
+    "link": "https://www.elperiodico.com/es/politica/20260708/10-claves-discurso-infanta-sofia-lenguaje-cercano-referencias-familiares-132271611",
+    "pubDate": "2026-07-08 21:57:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La hija menor de los Reyes estrena su voz institucional con una intervención sobre educación que deja pistas sobre el perfil público que empieza a construir</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260708/reyes-felipe-vi-letizia-arropan-132268873\">Primer discurso oficial de la infanta Sofía: \"En cada escuela hay un docente que defiende ese tiempo sagrado del aprendizaje\"</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump contra España",
+    "link": "https://www.elperiodico.com/es/opinion/20260708/trump-espana-departamento-de-estado-articulo-ernesto-ekaizer-132271241",
+    "pubDate": "2026-07-08 21:56:13",
+    "category": "",
+    "description": "<h2>El último<a href=\"https://www.state.gov/reports/2025-investment-climate-statements/spain\"> informe</a> correspondiente a 2025 del Departamento de Estado que dirige Marco Rubio permite entender por qué las amenazas de Trump no impiden que Estados Unidos sea el primer inversor extranjero en España</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260708/sanchez-responde-amenazas-trump-espana-otan-132259386\">Sánchez minimiza las amenazas de Trump contra España en la OTAN: \"He hablado con él de fútbol. No hay ninguna tirantez\"</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рютте передав Путіну сигнал після саміту НАТО",
+    "link": "https://ua.korrespondent.net/world/4892748-ruitte-peredav-putinu-syhnal-pislia-samitu-nato",
+    "pubDate": "2026-07-08 21:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483323.jpg\">Відкриті дискусії всередині НАТО мають стати уроком для глави РФ, котрий звик до іншої політичної моделі.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна та Швеція обговорили посилення авіації",
+    "link": "https://ua.korrespondent.net/ukraine/4892746-ukraina-ta-shvetsiia-obhovoryly-posylennia-aviatsii",
+    "pubDate": "2026-07-08 21:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483302.jpeg\">Глава держави під час зустрічі поінформував шведського прем’єра про наслідки російських атак на українські міста та розповів про потреби в антибалістичних ракетах.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Bombers estabilizan el incendio de Sentmenat en su tercer día",
+    "link": "https://www.elperiodico.com/es/barcelona/20260708/desconfinadas-tres-urbanizaciones-seguian-afectadas-incendio-sentmenat-fuego-confinados-132270715",
+    "pubDate": "2026-07-08 21:18:29",
+    "category": "",
+    "description": "<h2>El Farell y Sant Sebastià de Montmajor ya han sido desconfinados, mientras Guanta sigue con restricciones</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260708/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">En directo, última hora de los fuegos activos en Gavà y Sentmenat</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así son los nuevos eléctricos que ha entregado Fiat al Vaticano para avanzar en movilidad sostenible",
+    "link": "https://www.elperiodico.com/es/motor/20260708/fiat-entrega-30-vehiculos-electricos-vaticano-132204344",
+    "pubDate": "2026-07-08 21:15:29",
+    "category": "",
+    "description": "<h2>El modelo de coche más pequeño de la marca Italiana tomará las calles del Vaticano con el objetivo de reducir las emisiones </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Marine Le Pen presidenta?",
+    "link": "https://www.elperiodico.com/es/opinion/20260708/marine-le-pen-presidenta-francia-articulo-joan-tapia-132270506",
+    "pubDate": "2026-07-08 21:05:15",
+    "category": "",
+    "description": "<h2>La candidata de extrema derecha es la política más popular de Francia. Puede ganar las elecciones de 2027. Y, junto a Meloni en Roma, paralizar Europa</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260707/marine-le-pen-pasa-pagina-herencia-envenenada-padre-132231522\">Marine Le Pen pasa página de la herencia envenenada de su padre</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Казахстан обмежив в'їзд російських авто",
+    "link": "https://ua.korrespondent.net/world/4892744-kazakhstan-obmezhyv-vizd-rosiiskykh-avto",
+    "pubDate": "2026-07-08 21:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483281.jpg\">Влада Казахстану обмежила в'їзд вантажного та легкового транспорту із сусідніх країн для боротьби з нелегальним вивозом пального.",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 9 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260708/horoscopo-hoy-jueves-9-julio-dv-132024222",
+    "pubDate": "2026-07-08 21:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El baloncesto español hace historia en Marsella",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-baloncesto-espanol-hace-historia-en-marsella-f202607-n/",
+    "pubDate": "2026-07-08 20:58:43",
+    "category": "Baloncesto",
+    "description": "Tanto Fuengirola como Barcelona llegaron a las semifinales en el World Tour de la ciudad francesa. Es la primera vez que dos equipos españoles del 3x3 llegan a dicha ronda al unísono.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Apple програла суд проти ЄС",
+    "link": "https://ua.korrespondent.net/business/companies/4892742-Apple-prohrala-sud-proty-yes",
+    "pubDate": "2026-07-08 20:52:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483260.jpg\">Суд Європейського Союзу відхилив позов Apple проти положень Закону про цифрові ринки (DMA), підтвердивши, що App Store та операційна система iOS підпадають під вимоги, покликані посилити конкуренцію на цифровому ринку.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jordi Castellví, subinspector de los bomberos: \"Podemos asumir un gran incendio, pero no dos a la vez\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260708/jordi-castellvi-subinspector-bomberos-podemos-asumir-gran-incendio-no-dos-132259161",
+    "pubDate": "2026-07-08 20:50:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Miembro del GRAF (grupo especializado en actuaciones forestales), advierte de que las circunstancias extremas que en los años 80 se daban en 3 o 4 jornadas del verano ahora se repiten más de 30 días</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260708/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Incendios en Catalunya y resto de España hoy, en directo: última hora de los fuegos activos en Gavà y Sentmenat</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Banca en mantillas y el riesgo sistémico de la IA",
+    "link": "https://www.elperiodico.com/es/opinion/20260708/banca-riesgo-sistemico-ia-anthropic-mithos-132270360",
+    "pubDate": "2026-07-08 20:46:20",
+    "category": "",
+    "description": "<h2>Claude de Anthropic ha creado un espacio interno inesperado (detectado mediante la técnica de análisis matemático bautizada como lente jacobiana), un mecanismo 'consciente' inventado por el propio 'software'</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Más acuerdos, menos reformas",
     "link": "https://www.elperiodico.com/es/opinion/20260708/acuerdos-reformas-editorial-132269978",
     "pubDate": "2026-07-08 20:41:17",
@@ -41,6 +158,15 @@
     "pubDate": "2026-07-08 20:37:00",
     "category": "Одеса",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483259.jpg\">Внаслідок чергового ворожого обстрілу відомо про чотирьох загиблих. Ще шестеро осіб зазнали поранень.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sorpresón en Vitoria: el Baskonia corta a Rafa Villar",
+    "link": "https://as.com/baloncesto/sorpreson-en-vitoria-el-baskonia-corta-a-rafa-villar-f202607-n/",
+    "pubDate": "2026-07-08 20:31:58",
+    "category": "Baskonia",
+    "description": "Además, el club ha anunciado que Savkov seguirá cedido en Rusia. El Fenerbahçe también ha hecho oficial la llegada de Trent Forrest al club turco",
     "topic": 0,
     "topic_match_probability": 0
   },
@@ -203,6 +329,15 @@
     "pubDate": "2026-07-08 19:23:00",
     "category": "Гаджети",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483153.jpg\">Компанія підтвердила проведення наступної презентації Galaxy Unpacked у Лондоні, де очікується дебют нового покоління складаних смартфонів та смартгодинників.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Isaac Nogués regresa al Asisa Joventut",
+    "link": "https://as.com/baloncesto/acb/isaac-nogues-regresa-al-asisa-joventut-f202607-n/",
+    "pubDate": "2026-07-08 19:22:06",
+    "category": "Baloncesto",
+    "description": "El escolta vuelve al club en el que se formó tras buscar más minutos en la Liga Endesa y se reencontrará con Dani Miret.",
     "topic": 0,
     "topic_match_probability": 0
   },
@@ -475,6 +610,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4483047.jpg\">Українська тенісистка легко здобула перемогу над італійкою у чвертьфіналі престижного турніру.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 92
+  },
+  {
+    "title": "Cuerpo calma las aguas ante la amenaza de Trump: \"No hay ninguna medida sobre la mesa\"",
+    "link": "https://www.elperiodico.com/es/economia/20260708/cuerpo-calma-aguas-amenaza-trump-132263535",
+    "pubDate": "2026-07-08 17:51:52",
+    "category": "",
+    "description": "<h2>El ministro de Economía ha recordado en el Congreso que la política comercial es competencia exclusiva de la UE, por lo que Trump no podrá cortar el comercio con España sin hacerlo con todo el bloque</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
   },
   {
     "title": "Asepeyo eleva un 4,4% sus ingresos hasta los 3.780 millones en 2025",
