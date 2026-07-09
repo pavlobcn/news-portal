@@ -1,5 +1,239 @@
 [
   {
+    "title": "Mundial 2026 | Francia - Marruecos de cuartos de final, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/20260709/mundial-2026-francia-marruecos-cuartos-132307930",
+    "pubDate": "2026-07-09 21:11:05",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Al menos 28 muertos en el incendio de una fábrica de calzado en China",
+    "link": "https://www.elperiodico.com/es/videos/internacional/28-muertos-incendio-fabrica-calzado/132307841.shtml",
+    "pubDate": "2026-07-09 21:02:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luis de Valdivia, presidente de Ecoener, recibe el premio al Empresario Gallego del Año",
+    "link": "https://www.elperiodico.com/es/economia/20260709/luis-valdivia-presidente-ecoener-recibe-132307856",
+    "pubDate": "2026-07-09 21:01:05",
+    "category": "",
+    "description": "<h2>El fundador de la energética reivindica el papel del empresario en un entorno de incertidumbre y defiende el crecimiento de la compañía desde Galicia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del jueves, 9 de julio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260709/primitiva-hoy-jueves-9-julio-2026-resultados-comprobar-numeros-132305597",
+    "pubDate": "2026-07-09 21:00:51",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana viernes, 10 de julio: amor, trabajo, dinero y salud para todos los signos del zodiaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260709/horoscopo-hoy-viernes-10-julio-dv-132280720",
+    "pubDate": "2026-07-09 21:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodiaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La ONU condena la escalada violenta en el este del Congo y pide a Ruanda retirar apoyo al M23",
+    "link": "https://www.elperiodico.com/es/internacional/20260709/onu-condena-escalada-violenta-congo-132307834",
+    "pubDate": "2026-07-09 21:00:36",
+    "category": "",
+    "description": "<h2>La ONU advierte de que la intensificación de la violencia en Kivu del Sur amenaza con forzar una nueva ola de desplazamientos masivos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ferrari estrena un Madring a medio terminar... con un despliegue total: primero Leclerc, y luego Hamilton",
+    "link": "https://www.elperiodico.com/es/deportes/20260709/ferrari-estrena-madring-medio-terminar-despliegue-total-hamilton-leclerc-132307571",
+    "pubDate": "2026-07-09 20:51:28",
+    "category": "",
+    "description": "<h2>El equipo italiano ha probado el nuevo trazado de Valdebebas en un día de rodaje publicitario donde el reglamento permite completar hasta 200 kilómetros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Китайська Denza представила 2000-сильний електричний суперкар",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4893070-kytaiska-Denza-predstavyla-2000-sylnyi-elektrychnyi-superkar",
+    "pubDate": "2026-07-09 20:51:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484932.jpg\">Преміальний бренд Denza, що належить BYD, представив електричний суперкар Z на фестивалі швидкості в Гудвуді.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Al menos 28 muertos en el incendio de una fábrica de calzado en China",
+    "link": "https://www.elperiodico.com/es/internacional/20260709/china-muertos-incendio-fabrica-calzado-132307516",
+    "pubDate": "2026-07-09 20:47:31",
+    "category": "",
+    "description": "<h2>El inmueble albergaba grandes cantidades de pegamentos y materias primas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Росії заявили про бюджетний профіцит у червні",
+    "link": "https://ua.korrespondent.net/world/russia/4893067-u-rosii-zaiavyly-pro-buidzhetnyi-profitsyt-u-chervni",
+    "pubDate": "2026-07-09 20:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484906.jpg\">За шість місяців дефіцит російської скарбниці становив 5,731 трлн рублів проти 6,01 трлн рублів станом на кінець травня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Xiaomi запускає новий автомобільний бренд Sky Nomad",
+    "link": "https://ua.korrespondent.net/business/auto/4893065-Xiaomi-zapuskaie-novyi-avtomobilnyi-brend-Sky-Nomad",
+    "pubDate": "2026-07-09 20:35:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484929.jpg\">Очікується, що саме під новою маркою Sky Nomad до кінця року представлять новий великий гібридний кросовер із запасом ходу понад 1500 км.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El declive del acontecimiento",
+    "link": "https://www.elperiodico.com/es/opinion/20260709/declive-acontecimiento-periodismo-articulo-joan-canete-bayle-132307048",
+    "pubDate": "2026-07-09 20:31:09",
+    "category": "",
+    "description": "<h2>La conversación pública ha desplazado su interés de la noticia factual hacia sus efectos concretos, del ‘¿qué sucede’ al ‘esto cómo me afecta a mí?’, y el movimiento cambia la manera de informar, gobernar y de interpretar </h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260706/mapa-ola-calor-zonas-afectadas-espana-cataluna-132168835\">Mapa de la ola de calor: estas son las zonas de España que registrarán temperaturas extremas este lunes, martes y miércoles</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de Guimerà (Urgell) se reactiva y obliga a confinar a 21.000 vecinos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260709/incendio-guimera-confinados-activo-cap-creus-132306596",
+    "pubDate": "2026-07-09 20:24:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Las llamas, con capacidad de lanzar focos secundarios, han alcanzado vegetación forestal y campos de cultivo por segar y ya han afectado a más de 160 hectáreas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\"> Incendios en Catalunya y resto de España hoy, en directo: última hora de los fuegos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гібридна загроза: РФ готує провокації проти Польщі",
+    "link": "https://ua.korrespondent.net/world/4893046-hibrydna-zahroza-rf-hotuie-provokatsii-proty-polschi",
+    "pubDate": "2026-07-09 20:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484848.jpg\">Головна мета Москви зводиться до одного: змусити країни НАТО припинити підтримку України в її протистоянні російській агресії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Вишневому був склад Укроборонпрому - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4893063-u-vyshnevomu-buv-sklad-ukroboronpromu-zelenskyi",
+    "pubDate": "2026-07-09 20:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484908.jpg\">Для встановлення винних відкрили кримінальне провадження, запевнив глава держави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "200 львів'ян проти групи ТЦК: деталі скандалу",
+    "link": "https://ua.korrespondent.net/city/lvov/4893057-200-lvivian-proty-hrupy-ttsk-detali-skandalu",
+    "pubDate": "2026-07-09 20:09:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484884.jpg\">Правоохоронці розпочали розслідування обставин інциденту у Львові за участі військових ЗСУ, поліцейських та близько 200 цивільних осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tuneladora de la L9 llegará a la estación El Putxet este julio y le quedará un solo kilómetro hasta Lesseps",
+    "link": "https://www.elperiodico.com/es/barcelona/20260709/tuneladora-l9-llegara-estacion-putxet-julio-1km-lesseps-132302708",
+    "pubDate": "2026-07-09 20:00:35",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El socavón de Sarrià - Sant Gervasi está justo detrás de la cabeza perforadora, que ya casi alcanza el subsuelo del mercado</h2><h2 style=\"text-align: justify;\">MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/economia/tuneladora-L9-metro-barcelona-sh/index.html\" target=\"_blank\">La tuneladora de la L9: así perfora el suelo de Barcelona</a></h2><h2 style=\"text-align: justify;\">DIRECTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260709/socavon-obras-l9-el-putxet-barcelona-ultima-hora-directo-132218479\">Última hora de los trabajos en el socavón del Putxet</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Google анонсувала презентацію Pixel 11",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4893058-Google-anonsuvala-prezentatsiui-Pixel-11",
+    "pubDate": "2026-07-09 19:59:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484883.jpg\">Презентація відбудеться 12 серпня у Нью-Йорку, де очікується дебют смартфонів серії Pixel 11, а також інших нових пристроїв екосистеми компанії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "П’яні бортпровідників зірвали рейс British Airways",
+    "link": "https://ua.korrespondent.net/business/companies/4893055-piani-bortprovidnykiv-zirvaly-reis-British-Airways",
+    "pubDate": "2026-07-09 19:52:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484849.jpg\">Рейс із Барбадосу до Лондона скасували після того, як кілька членів екіпажу напередодні влаштували алкогольну вечірку в готелі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muchova-Noskova, final checa en Wimbledon",
+    "link": "https://www.elperiodico.com/es/deportes/20260709/muchova-noskova-final-checa-wimbledon-132306144",
+    "pubDate": "2026-07-09 19:49:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Muchova se impuso a Gauff en una magnífico partido en la primera semifinal, mientras Noskova noqueó a Kostyuk.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Nissan представила кросовер на базі Renault Duster",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4893053-Nissan-predstavyla-krosover-na-bazi-Renault-Duster",
+    "pubDate": "2026-07-09 19:48:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484851.jpg\">Новий Nissan Tekton, створений на базі Renault Duster, отримав дизайн у стилі Patrol, два варіанти турбомоторів та сучасне оснащення, а продаватиметься насамперед в Індії, країнах Африки та Близького Сходу.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ракети для Patriot скоро прибудуть в Україну",
+    "link": "https://ua.korrespondent.net/ukraine/4893050-rakety-dlia-Patriot-skoro-prybudut-v-ukrainu",
+    "pubDate": "2026-07-09 19:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484850.jpg\">Україна отримає від США ракети для Patriot найближчими днями, запевнив президент Зеленський.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pogacar despedaza el Tour en el Tourmalet",
+    "link": "https://www.elperiodico.com/es/videos/deportes/pogacar-despedaza-tour-tourmalet/132305876.shtml",
+    "pubDate": "2026-07-09 19:39:27",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Confinan Verdú, Tàrrega, Vilagrassa, Granyanella y la Villa de Mas Bondia por una reanudación del fuego de Guimerà",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/confinan-verdu-tarrega-vilagrassa-granyanella/132306021.shtml",
+    "pubDate": "2026-07-09 19:37:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 84.000 personas han tenido que confinarse por incendios en Catalunya en menos de una semana: \"Algunas no hacen caso y deciden huir por su cuenta\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260709/personas-confinadas-incendios-cataluna-bomberos-alertan-algunas-no-hacen-caso-132292635",
+    "pubDate": "2026-07-09 19:31:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Los incendios simultáneos de estos últimos días, ahora bajo control, han obligado a los bomberos a movilizar sobre todo a vecinos de urbanizaciones y casas diseminadas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260708/jordi-castellvi-subinspector-bomberos-podemos-asumir-gran-incendio-no-dos-132259161\" target=\"_blank\">Jordi Castellví, subinspector de los bomberos: \"Podemos asumir un gran incendio, pero no dos a la vez\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Інфляція в Україні сповільнилася до 7,2%: ціни знижуються четвертий місяць",
+    "link": "https://ua.korrespondent.net/business/financial/4893047-infliatsiia-v-ukraini-spovilnylasia-do-72-tsiny-znyzhuuitsia-chetvertyi-misiats",
+    "pubDate": "2026-07-09 19:27:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484803.jpg\">Найбільше подешевшали яйця - майже на 28%, а також овочі, фрукти та окремі продукти харчування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Disturbios y protestas en la India por la violación y asesinato de una niña de 11 años",
     "link": "https://www.elperiodico.com/es/internacional/20260709/disturbios-protestas-india-violacion-nina-11-anos-132305589",
     "pubDate": "2026-07-09 19:24:11",
