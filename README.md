@@ -1,8 +1,22 @@
-# News for 2026-07-09 17:20
+# News for 2026-07-09 19:30
 
 Previous day: [2026-07-08](./data/2026-07-08.md)
 
 ## ua.korrespondent.net
+19:18 [Ігнор перемовин. Путін готує мобілізацію?](https://ua.korrespondent.net/ukraine/4893043-ihnor-peremovyn-putin-hotuie-mobilizatsiui)<br>
+19:17 [Саратовський НПЗ зупинив роботу через удар дронів - ЗМІ](https://ua.korrespondent.net/world/russia/4893042-saratovskyi-npz-zupynyv-robotu-cherez-udar-droniv-zmi)<br>
+18:53 [Сили ППО збили майже 90% ракет і дронів у червні](https://ua.korrespondent.net/ukraine/4893040-syly-ppo-zbyly-maizhe-90-raket-i-droniv-u-chervni)<br>
+18:46 [Росія втратила 40% дизеля після ударів ЗСУ](https://ua.korrespondent.net/business/economics/4893037-rosiia-vtratyla-40-dyzelia-pislia-udariv-zsu)<br>
+18:29 [США вдарили по мосту, який єднає Іран з Китаєм та Росією - ЗМІ](https://ua.korrespondent.net/world/4893030-ssha-vdaryly-po-mostu-yakyi-yednaie-iran-z-kytaiem-ta-rosiieui-zmi)<br>
+18:22 [Свята 10 липня 2026 року: що не можна робити в цей день](https://ua.korrespondent.net/lifestyle/4893026-sviata-10-lypnia-2026-roku-scho-ne-mozhna-robyty-v-tsei-den)<br>
+18:08 [Нацбанк почав знижувати курс гривні](https://ua.korrespondent.net/business/financial/4893022-natsbank-pochav-znyzhuvaty-kurs-hryvni)<br>
+17:58 [На Вінниччині СЗЧ-шник сокирою відбивався від представників групи розшуку](https://ua.korrespondent.net/ukraine/4893019-na-vinnychchyni-szch-shnyk-sokyroui-vidbyvavsia-vid-predstavnykiv-hrupy-rozshuku)<br>
+17:51 [РФ і Китай готують відповідь Starlink: деталі таємних планів](https://ua.korrespondent.net/world/4893014-rf-i-kytai-hotuuit-vidpovid-Starlink-detali-taiemnykh-planiv)<br>
+17:49 [Росіяни атакували АЗС у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4893017-rosiiany-atakuvaly-azs-u-zaporizhzhi)<br>
+17:45 [Іран атакував об’єкти США в Кувейті, Катарі та Бахрейні](https://ua.korrespondent.net/world/4893013-iran-atakuvav-obiekty-ssha-v-kuveiti-katari-ta-bakhreini)<br>
+17:40 [Путін планує ескалацію війни - ЗМІ](https://ua.korrespondent.net/world/4893010-putin-planuie-eskalatsiui-viiny-zmi)<br>
+17:24 [Катар пригальмував виробництво СПГ](https://ua.korrespondent.net/business/economics/4893007-katar-pryhalmuvav-vyrobnytstvo-sph)<br>
+17:23 [Організації із заборони хімічної зброї повернула Сирії право голосу](https://ua.korrespondent.net/world/4893005-orhanizatsii-iz-zaborony-khimichnoi-zbroi-povernula-syrii-pravo-holosu)<br>
 17:08 [Словенія виділила мільйони доларів на ініціативу PURL](https://ua.korrespondent.net/world/4893001-sloveniia-vydilyla-miliony-dolariv-na-initsiatyvu-PURL)<br>
 16:59 [Польща вивела розвідувальний супутник на орбіту](https://ua.korrespondent.net/world/4892997-polscha-vyvela-rozviduvalnyi-suputnyk-na-orbitu)<br>
 16:54 [Росіяни вбили останню мешканку прикордонного села на Харківщині](https://ua.korrespondent.net/ukraine/4892995-rosiiany-vbyly-ostannui-meshkanku-prykordonnoho-sela-na-kharkivschyni)<br>
@@ -11,6 +25,7 @@ Previous day: [2026-07-08](./data/2026-07-08.md)
 16:39 [Нафтогаз відреагував на рішення суду в Казахстані щодо боргу Газпрому](https://ua.korrespondent.net/business/companies/4892987-naftohaz-vidreahuvav-na-rishennia-sudu-v-kazakhstani-schodo-borhu-hazpromu)<br>
 16:23 [Росіяни посилили тиск на низці напрямків - Генштаб](https://ua.korrespondent.net/ukraine/4892984-rosiiany-posylyly-tysk-na-nyztsi-napriamkiv-henshtab)<br>
 16:18 [У Польщі зробили заяву щодо передачу МіГів Україні](https://ua.korrespondent.net/world/4892981-u-polschi-zrobyly-zaiavu-schodo-peredachu-mihiv-ukraini)<br>
+16:18 [У Польщі зробили заяву щодо передачі МіГів Україні](https://ua.korrespondent.net/world/4892981-u-polschi-zrobyly-zaiavu-schodo-peredachi-mihiv-ukraini)<br>
 16:16 [Зачинив собаку на балконі в спеку: киянину повідомили про підозру](https://ua.korrespondent.net/city/kiev/4892980-zachynyv-sobaku-na-balkoni-v-speku-kyianynu-povidomyly-pro-pidozru)<br>
 16:10 [10 мільйонів за свободу: Тищенко вніс заставу у гучній справі](https://ua.korrespondent.net/ukraine/4892978-10-milioniv-za-svobodu-tyschenko-vnis-zastavu-u-huchnii-spravi)<br>
 15:59 [Стало відомо, коли запрацюють всі блоки на АЕС](https://ua.korrespondent.net/business/economics/4892972-stalo-vidomo-koly-zapratsuiuit-vsi-bloky-na-aes)<br>
@@ -83,6 +98,8 @@ Previous day: [2026-07-08](./data/2026-07-08.md)
 00:18 [У ТЦК прокоментували інцидент у Львові](https://ua.korrespondent.net/city/lvov/4892762-u-ttsk-prokomentuvaly-intsydent-u-lvovi)<br>
 
 ## as.com
+17:28 [Okeke continúa en el Madrid](https://as.com/baloncesto/acb/okeke-continuara-en-el-madrid-f202607-n/)<br>
+15:39 [Nueva etapa en la cantera del Unicaja](https://as.com/baloncesto/nueva-etapa-en-la-cantera-del-unicaja-f202607-n/)<br>
 12:08 [Brancou Badio cambia el Valencia por el Panathinaikos](https://as.com/baloncesto/euroliga/brancou-badio-cambia-el-valencia-por-el-panathinaikos-f202607-n/)<br>
 11:15 [Un Barça en llamas](https://as.com/baloncesto/acb/un-barca-en-llamas-f202607-n/)<br>
 09:10 [Jonas Valanciunas apunta al Zalgiris](https://as.com/baloncesto/euroliga/jonas-valanciunas-apunta-al-zalgiris-f202607-n/)<br>
@@ -90,6 +107,24 @@ Previous day: [2026-07-08](./data/2026-07-08.md)
 07:17 [Obradovic y dos récords para machacar a Europa](https://as.com/baloncesto/euroliga/obradovic-y-dos-records-para-machacar-a-europa-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:24 [Disturbios y protestas en la India por la violación y asesinato de una niña de 11 años](https://www.elperiodico.com/es/internacional/20260709/disturbios-protestas-india-violacion-nina-11-anos-132305589)<br>
+19:18 [Reconocen como víctima de "persecución política" a Josu Zabala, fallecido en 1976 por un disparo de la Guardia Civil](https://www.elperiodico.com/es/politica/20260709/reconocen-victima-persecucion-politica-josu-132305375)<br>
+19:15 [El refugio de Sara Carbonero (42 años): playas volcánicas y mucha calma](https://www.elperiodico.com/es/gente/20260709/refugio-sara-carbonero-42-anos-canarias-descanso-relax-dv-132086196)<br>
+19:03 [El BSC celebra una década de empresas nacidas de la supercomputación: más de 100 millones captados y 600 empleos creados](https://www.elperiodico.com/es/economia/20260709/bsc-celebra-decada-empresas-nacidas-132304046)<br>
+19:00 [María (32 años) vive aislada en el bosque restaurando una casa abandonada y depende del clima para conseguir electricidad: tampoco "tengo agua caliente"](https://www.elperiodico.com/es/economia/20260709/maria-vive-casa-abandonada-aislada-bosque-asturias-dv-et-132260649)<br>
+18:58 [El Tribunal de Justicia de la UE da luz verde al 'bloqueo geográfico' de obras culturales](https://www.elperiodico.com/es/ocio-y-cultura/20260709/tribunal-justicia-ue-da-luz-132303999)<br>
+18:51 [Tres investigados por verter 100 kilos de sulfato de cobre en un canal de riego del rio Ebro](https://www.elperiodico.com/es/tarragona/20260709/tres-investigados-verter-100-kilos-sulfato-de-cobre-rio-ebro-guardia-civil-132304210)<br>
+18:31 [Crítica de 'Las corrientes': Milagros Mumenthaler firma una película magnífica sobre la identidad como algo que no hay que dar por hecho](https://www.elperiodico.com/es/ocio-y-cultura/20260709/critica-corrientes-milagros-mumenthaler-firma-132301510)<br>
+18:25 [Joaquín Furriel: "Veo 'Ricardo III' como una farsa de la crueldad"](https://www.elperiodico.com/es/ocio-y-cultura/20260709/joaquin-furriel-veo-ricardo-iii-132271238)<br>
+18:21 [El colegio de psicólogos catalanes investiga a la terapeuta de los Andic por posible intrusismo profesional y mala praxis](https://www.elperiodico.com/es/sanidad/20260709/colegio-psicologos-catalunya-investigara-terapeuta-andic-julia-luderwaldt-intrusismo-profesional-mala-praxis-132302313)<br>
+18:17 [Cuerpo defiende ante el Eurogrupo la emisión de deuda conjunta para ahorrar en costes de financiación](https://www.elperiodico.com/es/economia/20260709/cuerpo-defiende-eurogrupo-emision-deuda-132303150)<br>
+18:03 [Un drama sereno del veterano cineasta japonés Yoji Yamada sobre los recuerdos de una mujer maltratada que encara el tramo final de su vida](https://www.elperiodico.com/es/ocio-y-cultura/20260709/drama-sereno-veterano-cineasta-japones-132301686)<br>
+18:01 [Catalunya constata que la ultraderecha violenta es una "amenaza" contra la seguridad pública y la convivencia](https://www.elperiodico.com/es/politica/20260709/catalunya-constata-derecha-ultraderecha-amenaza-seguridad-publica-convivencia-132300309)<br>
+18:00 [España se queda sin donantes de semen: el aviso de las clínicas](https://www.elperiodico.com/es/sanidad/20260709/espana-queda-donantes-semen-aviso-132170297)<br>
+17:50 [Dan Buettner, experto en longevidad: "Las personas que más viven no solo hacen más ejercicio, están construyendo amistades, comunidad y alegría"](https://www.elperiodico.com/es/ser-feliz/20260709/dan-buettner-experto-longevidad-personas-mas-viven-ejercicio-amistades-dv-131817490)<br>
+17:30 [El 'criptogate' agoniza en medio de la euforia mundialista en Argentina](https://www.elperiodico.com/es/internacional/20260709/criptogate-agoniza-euforia-mundialista-argentina-milei-132300532)<br>
+17:25 [El calor causó 5.100 muertes en Alemania en junio, de los cuales 4.300 en solo 7 días](https://www.elperiodico.com/es/internacional/20260709/calor-causo-5100-muertes-alemania-junio-132300346)<br>
+17:19 [Dos de cada tres socios de Comertia creen que el nuevo arancel de la UE sobre los envíos de paquetes no tendrá efecto](https://www.elperiodico.com/es/economia/20260709/comertia-arancel-ue-paquetes-132299269)<br>
 17:15 [¿Sabes que te pueden multar por tener la lavadora en la terraza? La Ley de Propiedad Horizontal lo confirma en estos casos](https://www.elperiodico.com/es/vivienda/20260709/multar-lavadora-terraza-ley-propiedad-horizontal-dv-132094940)<br>
 17:14 [El PP eleva al Constitucional sus dudas sobre el Tratado de Amistad con Francia y bloquea su tramitación](https://www.elperiodico.com/es/politica/20260709/pp-eleva-constitucional-tratado-francia-bloqueo-132299835)<br>
 17:10 [El rincón de Carles Puyol (48 años): Un pueblo de 3.000 habitantes, rodeado de montañas, ríos y patrimonio modernista al que vuelve cada verano](https://www.elperiodico.com/es/gente/20260709/rincon-carles-puyol-48-anos-pueblo-rios-montanas-pobla-segur-dv-et-132097540)<br>
@@ -116,6 +151,7 @@ Previous day: [2026-07-08](./data/2026-07-08.md)
 14:43 [Sánchez recibe un revólver cargado como regalo del presidente turco Erdogan a los líderes de la OTAN](https://www.elperiodico.com/es/internacional/20260709/presidente-turco-erdogan-regala-sanchez-132293560)<br>
 14:36 [La Comisión Europea propone a los gobiernos prohibir el comercio con los territorios palestinos ocupados por Israel](https://www.elperiodico.com/es/internacional/20260709/comision-propone-gobiernos-prohibir-comercio-territorios-palestinos-ocupados-132293181)<br>
 14:31 ["Si siente debilidad, mareos y dolor de cabeza, siéntese al fresco e hidrátese: es un golpe de calor"](https://www.elperiodico.com/es/sanidad/20260709/golpe-calor-debilidad-mareos-dolor-cabeza-fresco-hidratacion-132288453)<br>
+14:19 [La riqueza financiera de los hogares crece un 9,3% y su deuda sobre PIB cae a mínimos de 1999](https://www.elperiodico.com/es/economia/20260709/riqueza-financiera-hogares-crece-9-132292464)<br>
 14:00 [La hacienda catalana ayuda a casi 60.000 personas a hacer su declaración de la renta](https://www.elperiodico.com/es/economia/20260709/campana-de-la-renta-cataluna-agencia-tributaria-aumenta-atenciones-132289776)<br>
 14:00 [La Audiencia Nacional abre juicio a BBVA, Francisco González y otros 14 exdirectivos por el caso Villarejo](https://www.elperiodico.com/es/economia/20260709/audiencia-nacional-juicio-bbva-francisco-gonzalez-caso-villarejo-132291542)<br>
 13:57 [Tengo 87 años y mi hija quería llevarme a una residencia: "Lloré porque no sabía qué hacer, porque ninguna opción me parecía bien, porque sentía que se me estaban acabando las opciones. El mundo ya no tenía sitio para mí tal y como era"](https://www.elperiodico.com/es/sociedad/20260709/residencia-ancianos-personas-mayores-abuelos-dependencia-dv-et-132283390)<br>
