@@ -1,8 +1,31 @@
-# News for 2026-07-09 11:01
+# News for 2026-07-09 13:58
 
 Previous day: [2026-07-08](./data/2026-07-08.md)
 
 ## ua.korrespondent.net
+13:56 [Конфлікт із ТЦК у Львові: розпочато розслідування, вже є затриманий](https://ua.korrespondent.net/ukraine/4892922-konflikt-iz-ttsk-u-lvovi-rozpochato-rozsliduvannia-vzhe-ye-zatrymanyi)<br>
+13:51 [Італія висилає двох військових аташе РФ через шпигунство](https://ua.korrespondent.net/world/4892920-italiia-vysylaie-dvokh-viiskovykh-atashe-rf-cherez-shpyhunstvo)<br>
+13:42 [Стало відомо, з якими країнами Україна торгує найбільше](https://ua.korrespondent.net/business/economics/4892916-stalo-vidomo-z-yakymy-krainamy-ukraina-torhuie-naibilshe)<br>
+13:41 [Офіційні цифри занижені: в Україні різко побільшало бездомних](https://ua.korrespondent.net/ukraine/4892915-ofitsiini-tsyfry-zanyzheni-v-ukraini-rizko-pobilshalo-bezdomnykh)<br>
+13:33 [У Хмельницькій області стався землетрус](https://ua.korrespondent.net/ukraine/4892913-u-khmelnytskii-oblasti-stavsia-zemletrus)<br>
+13:29 [Бундестаг відхилив ініціативу щодо Taurus і посилення допомоги Україні](https://ua.korrespondent.net/world/4892909-bundestah-vidkhylyv-initsiatyvu-schodo-Taurus-i-posylennia-dopomohy-ukraini)<br>
+13:22 [Моджтаба Хаменеї вперше з'явиться на публіці після смерті батька - ЗМІ](https://ua.korrespondent.net/world/4892907-modzhtaba-khamenei-vpershe-ziavytsia-na-publitsi-pislia-smerti-batka-zmi)<br>
+13:03 [Блокпости на кордоні: Казахстан бореться з вивезенням пального до Росії](https://ua.korrespondent.net/world/russia/4892904-blokposty-na-kordoni-kazakhstan-boretsia-z-vyvezenniam-palnoho-do-rosii)<br>
+13:02 [Майбутній прем'єр Британії висловився щодо України](https://ua.korrespondent.net/world/4892901-maibutnii-premier-brytanii-vyslovyvsia-schodo-ukrainy)<br>
+12:52 [Зникли десятки корів: керівника держпідприємства підозрюють у збитках](https://ua.korrespondent.net/business/4892897-znykly-desiatky-koriv-kerivnyka-derzhpidpryiemstva-pidozruiuit-u-zbytkakh)<br>
+12:45 [Росія в 20 разів збільшила закупівлю бензину в Білорусі](https://ua.korrespondent.net/world/russia/4892896-rosiia-v-20-raziv-zbilshyla-zakupivlui-benzynu-v-bilorusi)<br>
+12:33 [Без води і світла: атаки БПЛА на Крим спричинили тривалий блекаут](https://ua.korrespondent.net/world/russia/4892891-bez-vody-i-svitla-ataky-bpla-na-krym-sprychynyly-tryvalyi-blekaut)<br>
+12:24 [У Києві викрили підпільні покерні клуби з мільйонними прибутками](https://ua.korrespondent.net/city/kiev/4892887-u-kyievi-vykryly-pidpilni-pokerni-kluby-z-milionnymy-prybutkamy)<br>
+12:22 [Платили мільйони податків РФ: у підприємців з Криму арештували майно](https://ua.korrespondent.net/ukraine/4892886-platyly-miliony-podatkiv-rf-u-pidpryiemtsiv-z-krymu-areshtuvaly-maino)<br>
+12:13 [Вибухи на Північних потоках: в ОГП зробили заяву](https://ua.korrespondent.net/ukraine/4892882-vybukhy-na-pivnichnykh-potokakh-v-ohp-zrobyly-zaiavu)<br>
+11:55 [В Ужгороді помер чоловік, який випав з вікна ТЦК](https://ua.korrespondent.net/ukraine/4892877-v-uzhhorodi-pomer-cholovik-yakyi-vypav-z-vikna-ttsk)<br>
+11:44 [Росіяни вдарили дроном по авто в Херсоні: є жертви](https://ua.korrespondent.net/ukraine/4892873-rosiiany-vdaryly-dronom-po-avto-v-khersoni-ye-zhertvy)<br>
+11:36 [Міноборони і Генштаб відреагували на масштабний конфлікт із ТЦК у Львові](https://ua.korrespondent.net/ukraine/4892868-minoborony-i-henshtab-vidreahuvaly-na-masshtabnyi-konflikt-iz-ttsk-u-lvovi)<br>
+11:33 [Сили оборони уразили 12 російських танкерів](https://ua.korrespondent.net/ukraine/4892866-syly-oborony-urazyly-12-rosiiskykh-tankeriv)<br>
+11:29 [США погодили продаж Tomahawk Німеччині: що зміниться для НАТО](https://ua.korrespondent.net/world/4892865-ssha-pohodyly-prodazh-Tomahawk-nimechchyni-scho-zminytsia-dlia-nato)<br>
+11:20 [Як ФОП оптимізувати витрати в умовах фіскалізації](https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii)<br>
+11:18 [На Черкащині затримали агентку ФСБ, яка допомагала РФ готувати обстріл](https://ua.korrespondent.net/ukraine/4892862-na-cherkaschyni-zatrymaly-ahentku-fsb-yaka-dopomahala-rf-hotuvaty-obstril)<br>
+11:11 [Долар і євро втрачають позиції в обмінниках](https://ua.korrespondent.net/business/financial/4892861-dolar-i-yevro-vtrachauit-pozytsii-v-obminnykakh)<br>
 10:57 [Херсон та область знеструмлені після атак РФ](https://ua.korrespondent.net/ukraine/4892852-kherson-ta-oblast-znestrumleni-pislia-atak-rf)<br>
 10:48 [Зеленський розповів про нові удари по Росії](https://ua.korrespondent.net/ukraine/4892850-zelenskyi-rozpoviv-pro-novi-udary-po-rosii)<br>
 10:27 [Західна Європа пережила найспекотніший червень в історії спостережень](https://ua.korrespondent.net/world/4892845-zakhidna-yevropa-perezhyla-naispekotnishyi-cherven-v-istorii-sposterezhen)<br>
@@ -31,11 +54,52 @@ Previous day: [2026-07-08](./data/2026-07-08.md)
 00:18 [У ТЦК прокоментували інцидент у Львові](https://ua.korrespondent.net/city/lvov/4892762-u-ttsk-prokomentuvaly-intsydent-u-lvovi)<br>
 
 ## as.com
+12:08 [Brancou Badio cambia el Valencia por el Panathinaikos](https://as.com/baloncesto/euroliga/brancou-badio-cambia-el-valencia-por-el-panathinaikos-f202607-n/)<br>
+11:15 [Un Barça en llamas](https://as.com/baloncesto/acb/un-barca-en-llamas-f202607-n/)<br>
 09:10 [Jonas Valanciunas apunta al Zalgiris](https://as.com/baloncesto/euroliga/jonas-valanciunas-apunta-al-zalgiris-f202607-n/)<br>
 07:59 [El verano del baloncesto](https://as.com/baloncesto/mas_baloncesto/el-verano-del-baloncesto-f202607-n/)<br>
 07:17 [Obradovic y dos récords para machacar a Europa](https://as.com/baloncesto/euroliga/obradovic-y-dos-records-para-machacar-a-europa-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:57 [Tengo 87 años y mi hija quería llevarme a una residencia: "Lloré porque no sabía qué hacer, porque ninguna opción me parecía bien, porque sentía que se me estaban acabando las opciones. El mundo ya no tenía sitio para mí tal y como era"](https://www.elperiodico.com/es/sociedad/20260709/residencia-ancianos-personas-mayores-abuelos-dependencia-dv-et-132283390)<br>
+13:51 [Italia expulsa a dos militares rusos por un presunto caso de espionaje](https://www.elperiodico.com/es/internacional/20260709/italia-expulsa-militares-rusos-presunto-espionaje-rusia-carabinieri-injerencia-132287215)<br>
+13:50 [El Tibidabo enciende las letras ‘Barcelona’ para abrir la temporada de verano del parque de atracciones](https://www.elperiodico.com/es/videos/barcelona/tibidabo-enciende-letras-barcelona-abrir-video/132290706.shtml)<br>
+13:49 [Detenido por matar a un hombre en el cementerio de Cubelles con un cuchillo](https://www.elperiodico.com/es/sucesos/20260709/detenido-matar-hombre-cementerio-cubelles-arma-blanca-132290340)<br>
+13:48 [Riftbound: Ya a la venta las entradas para el Regional Qualifier de agosto en Barcelona](https://www.elperiodico.com/es/videojuegos/20260709/riftbound-venta-entradas-regional-qualifier-132287243)<br>
+13:45 [El PP pone el foco en Sánchez tras el último informe de la UCO: "Cuando los que te rodean están podridos, el corrupto eres tú"](https://www.elperiodico.com/es/politica/20260709/pp-foco-sanchez-informe-uco-correos-132290655)<br>
+13:39 [Un hombre le rompe la nariz a una niña de 13 años en un hotel de Barcelona por supuestamente quitarle su tumbona](https://www.elperiodico.com/es/catalunya/20260709/hombre-rompe-nariz-nina-13-anos-pelea-tumbona-hotel-santa-susanna-barcelona-video-dv-loc-132279542)<br>
+13:39 [Portugal da luz verde a la acuicultura del futuro con su primera macrogranja de peces en alta mar](https://www.elperiodico.com/es/sociedad/20260709/portugal-da-luz-verde-acuicultura-132289895)<br>
+13:34 [Felipe VI entrega las becas de 100.000 euros de La Caixa que llevarán a 98 españoles a Cambridge, Harvard y Columbia](https://www.elperiodico.com/es/politica/20260709/felipe-entrega-becas-100-000-fundacion-caixa-132289976)<br>
+13:30 [Mortadelo y Filemón se quedan en el banquillo en el primer Mundial sin Ibáñez](https://www.elperiodico.com/es/ocio-y-cultura/20260709/mortadelo-filemon-quedan-banquillo-primer-132221066)<br>
+13:27 [La industria espacial reclama a Europa más inversión en lanzadores, conectividad... y la Tierra](https://www.elperiodico.com/es/economia/20260709/industria-espacial-reclama-europa-inversion-132284048)<br>
+13:26 [¿Podría Catalunya llegar a los 50 grados? Este es el futuro que nos espera si el cambio climático sigue acelerándose como hasta ahora](https://www.elperiodico.com/es/sociedad/20260709/cataluna-50-grados-futuro-cambio-climatico-132285855)<br>
+13:24 [El Consejo General de Graduados Sociales carga contra Feijóo: “Las relaciones laborales no deben bañarse de un debate político”](https://www.elperiodico.com/es/economia/20260709/consejo-general-graduados-sociales-carga-132289415)<br>
+13:20 [La Unión Europea autoriza a las plataformas a escanear mensajes privados de los usuarios contra el abuso sexual infantil](https://www.elperiodico.com/es/internacional/20260709/union-europea-autoriza-plataformas-escanear-mensajes-privados-usuarios-abuso-sexual-infantil-privacidad-pedofilia-chat-control-132289163)<br>
+13:19 [Mariana Enríquez, Angélica Liddell, José Luis Guerín y Lilian Thuram participarán en la Biennal de Pensament 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260709/mariana-enriquez-angelica-liddell-jose-132282070)<br>
+13:06 [EEUU accede a vender a Alemania los misiles Tomahawk que Berlín plantea como disuasión ante Rusia](https://www.elperiodico.com/es/internacional/20260709/eeuu-accede-venderle-merz-tomahawk-alemania-132288159)<br>
+13:04 [Amnistía Internacional acusa a la Fiscalía de "obstaculizar" las investigaciones sobre el espionaje con Pegasus](https://www.elperiodico.com/es/politica/20260709/espionaje-pegasus-amnistia-internacional-denuncia-fiscalia-obstaculizar-132281905)<br>
+12:50 [La Seguridad Social suma 124.000 hogares más en un año al Ingreso Mínimo Vital y alcanza a 2,6 millones de personas](https://www.elperiodico.com/es/economia/20260709/ingreso-minimo-vital-beneficiarios-junio-2026-132203839)<br>
+12:43 [Los profesores catalanes preparan un "otoño caliente" de huelgas y movilizaciones en la escuela pública](https://www.elperiodico.com/es/sociedad/20260709/profesorado-catalan-avala-reactivar-lucha-docente-vuelta-al-cole-otono-caliente-132284640)<br>
+12:36 [Santa Coloma logra el desalojo de cuatro fincas para construir 168 nuevas viviendas protegidas](https://www.elperiodico.com/es/barcelona/20260709/santa-coloma-logra-desalojo-cuatro-fincas-168-nuevas-viviendas-protegidas-132285296)<br>
+12:33 [Barcelona impulsará las pequeñas salas de música en vivo con un millón de euros en ayudas](https://www.elperiodico.com/es/barcelona/20260709/barcelona-impulsara-salas-pequenas-musica-vivo-ayuda-millon-euros-132276570)<br>
+12:32 [Sin una pierna y con la reforma del ascensor paralizada por una denuncia vecinal: "Suerte que me ayudan mi mujer o mi hija"](https://www.elperiodico.com/es/sociedad/20260709/sin-pierna-reforma-ascensor-paralizada-denuncia-vecino-132286251)<br>
+12:32 [Sémper pide "cautela" en las comparaciones, después de que Feijóo equiparara bajas con el cáncer](https://www.elperiodico.com/es/politica/20260709/semper-pide-cautela-comparaciones-despues-132286792)<br>
+12:30 [Suben a 40 los españoles fallecidos en los terremotos de Venezuela](https://www.elperiodico.com/es/internacional/20260709/espanoles-desaparecidos-terremotos-venezuela-133-personas-131873927)<br>
+12:29 [El Gobierno aprobó 6.287 millones más de gasto en defensa horas antes de la cumbre de la OTAN](https://www.elperiodico.com/es/politica/20260709/gobierno-aprobo-gasto-defensa-otan-132286583)<br>
+12:25 [La UCO cree que el expresidente de Correos dio un cargo a Leire Díez en favor de la trama](https://www.elperiodico.com/es/politica/20260709/uco-expresidente-correos-dio-cargo-leire-diez-132286389)<br>
+12:24 [Barcelona expandirá sus luces navideñas de autor a nuevos barrios y recupera los 'galets' luminosos](https://www.elperiodico.com/es/barcelona/20260709/barcelona-ampliara-luces-autor-capital-europea-navidad-2026-132281830)<br>
+12:19 [Los toros de Victoriano del Río dejan un tercer encierro de los Sanfermines rápido y emocionante](https://www.elperiodico.com/es/videos/sociedad/toros-tercer-encierro-sanfermines-san-fermin/132286042.shtml)<br>
+12:15 [El doctor José Manuel Felices, sobre cómo encender el aire acondicionado de tu cuerpo: "Hacer la estrella de mar y ponerte crema hidratante hace que estés más fresco"](https://www.elperiodico.com/es/sociedad/20260709/doctor-felices-encender-aire-acondicionado-estrella-crema-hidratante-dv-132142743)<br>
+12:10 [En estos observatorios de Catalunya se han batido récords de temperatura por el calor](https://www.elperiodico.com/es/tiempo/20260709/temperaturas-record-cataluna-calor-observatorios-dv-loc-132279394)<br>
+12:10 [Encuesta CEO: El apoyo a la independencia de Catalunya se dispara y vuelve a registros de 2020](https://www.elperiodico.com/es/politica/20260709/encuesta-ceo-independencia-catalunya-julio-2026-cataluna-132284760)<br>
+12:09 [Los Mossos investigan un tiroteo en el barrio de la Creu Alta de Sabadell](https://www.elperiodico.com/es/barcelona/20260709/mossos-investigan-disparos-barrio-creu-alta-sabadell-132284915)<br>
+12:00 [Cayetana, más de 20 meses esperando cita para rehabilitación del suelo pélvico tras un parto muy complejo: "Aún no me han llamado. Mi hija tiene ya dos años"](https://www.elperiodico.com/es/sanidad/20260709/cayetana-20-meses-esperando-cita-rehabilitacion-suelo-pelvico-parto-complicado-131833940)<br>
+12:00 [La falta de médicos y el envejecimiento disparan hasta los 4 meses la espera para recibir rehabilitación: "Se pierden oportunidades de recuperación"](https://www.elperiodico.com/es/sanidad/20260709/falta-medicos-envejecimiento-listas-espera-rehabilitacion-131689614)<br>
+11:50 [Yolanda Díaz califica a Feijóo de "radical económico" con su propuesta sobre las bajas: "Gobierna contra los trabajadores"](https://www.elperiodico.com/es/economia/20260709/baja-laboral-ccoo-rechaza-explicaciones-pp-propuesta-feijoo-132284478)<br>
+11:50 [Pedraz aplaza al 15 de julio la citación de Narbona al comunicar que ha fallecido su madre](https://www.elperiodico.com/es/sociedad/20260709/pedraz-aplaza-15-julio-citacion-132284476)<br>
+11:38 [Los III Premios Empresa del Año Banco Sabadell, el mejor escaparate de historias de éxito en Castilla y León](https://www.elperiodico.com/es/sociedad/20260709/iii-premios-empresa-ano-banco-bc-132283836)<br>
+11:20 [Rosa Peral cree que su traslado "forzoso" a Brians 1 es por demandar a Justícia por vulnerar sus derechos fundamentales](https://www.elperiodico.com/es/sucesos/20260709/rosa-peral-cree-traslado-forzoso-brians-1-129636977)<br>
+11:16 [Trump bromea sobre posible amenaza de Irán contra su avión: "Soy el número uno en su lista"](https://www.elperiodico.com/es/videos/internacional/trump-bromea-posible-amenaza-iran/132282752.shtml)<br>
 10:50 [El calor extremo provoca reglas más largas y dolorosas y en menopausia, sofocos más intensos](https://www.elperiodico.com/es/videos/sociedad/calor-extremo-provoca-reglas-largas/132281485.shtml)<br>
 10:50 [El sérum 2 en 1 que cambia las reglas del juego en el tratamiento antiedad facial](https://www.elperiodico.com/es/vida-y-estilo/20260709/serum-2-1-cambia-reglas-bc-132281521)<br>
 10:47 [Dónde dormir fresquito: escapadas por Catalunya donde el termómetro cae por debajo de los 20 grados](https://www.elperiodico.com/es/que-hacer/planes/20260709/dormir-fresquito-escapadas-catalunya-termometro-132231349)<br>
