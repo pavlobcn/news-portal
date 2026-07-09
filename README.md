@@ -1,8 +1,37 @@
-# News for 2026-07-09 13:58
+# News for 2026-07-09 17:20
 
 Previous day: [2026-07-08](./data/2026-07-08.md)
 
 ## ua.korrespondent.net
+17:08 [Словенія виділила мільйони доларів на ініціативу PURL](https://ua.korrespondent.net/world/4893001-sloveniia-vydilyla-miliony-dolariv-na-initsiatyvu-PURL)<br>
+16:59 [Польща вивела розвідувальний супутник на орбіту](https://ua.korrespondent.net/world/4892997-polscha-vyvela-rozviduvalnyi-suputnyk-na-orbitu)<br>
+16:54 [Росіяни вбили останню мешканку прикордонного села на Харківщині](https://ua.korrespondent.net/ukraine/4892995-rosiiany-vbyly-ostannui-meshkanku-prykordonnoho-sela-na-kharkivschyni)<br>
+16:51 [На Рівненщині викрили підпільний цех: вилучили бурштину на мільйони](https://ua.korrespondent.net/ukraine/4892993-na-rivnenschyni-vykryly-pidpilnyi-tsekh-vyluchyly-burshtynu-na-miliony)<br>
+16:41 [Мелоні прокоментувала відносини з Трампом](https://ua.korrespondent.net/world/4892989-meloni-prokomentuvala-vidnosyny-z-trampom)<br>
+16:39 [Нафтогаз відреагував на рішення суду в Казахстані щодо боргу Газпрому](https://ua.korrespondent.net/business/companies/4892987-naftohaz-vidreahuvav-na-rishennia-sudu-v-kazakhstani-schodo-borhu-hazpromu)<br>
+16:23 [Росіяни посилили тиск на низці напрямків - Генштаб](https://ua.korrespondent.net/ukraine/4892984-rosiiany-posylyly-tysk-na-nyztsi-napriamkiv-henshtab)<br>
+16:18 [У Польщі зробили заяву щодо передачу МіГів Україні](https://ua.korrespondent.net/world/4892981-u-polschi-zrobyly-zaiavu-schodo-peredachu-mihiv-ukraini)<br>
+16:16 [Зачинив собаку на балконі в спеку: киянину повідомили про підозру](https://ua.korrespondent.net/city/kiev/4892980-zachynyv-sobaku-na-balkoni-v-speku-kyianynu-povidomyly-pro-pidozru)<br>
+16:10 [10 мільйонів за свободу: Тищенко вніс заставу у гучній справі](https://ua.korrespondent.net/ukraine/4892978-10-milioniv-za-svobodu-tyschenko-vnis-zastavu-u-huchnii-spravi)<br>
+15:59 [Стало відомо, коли запрацюють всі блоки на АЕС](https://ua.korrespondent.net/business/economics/4892972-stalo-vidomo-koly-zapratsuiuit-vsi-bloky-na-aes)<br>
+15:59 [Вбивство підозрюваної у справі "Монако": арештували експрацівника СБУ](https://ua.korrespondent.net/ukraine/4892975-vbyvstvo-pidozruivanoi-u-spravi-monako-areshtuvaly-ekspratsivnyka-sbu)<br>
+15:53 [Українця у Вроцлаві побили після розмови рідною мовою](https://ua.korrespondent.net/world/4892971-ukraintsia-u-vrotslavi-pobyly-pislia-rozmovy-ridnoui-movoui)<br>
+15:43 [В Укренерго назвали суму збитків від ударів РФ](https://ua.korrespondent.net/business/companies/4892966-v-ukrenerho-nazvaly-sumu-zbytkiv-vid-udariv-rf)<br>
+15:43 [Трамп готується до затяжної війни з Іраном - ЗМІ](https://ua.korrespondent.net/world/4892969-tramp-hotuietsia-do-zatiazhnoi-viiny-z-iranom-zmi)<br>
+15:35 [Польща допоможе Україні з виробництвом Patriot](https://ua.korrespondent.net/world/4892964-polscha-dopomozhe-ukraini-z-vyrobnytstvom-Patriot)<br>
+15:19 [В Ірані заявили про 14 загиблих після ударів США](https://ua.korrespondent.net/world/4892962-v-irani-zaiavyly-pro-14-zahyblykh-pislia-udariv-ssha)<br>
+15:10 [НАТО запустило ШІ Palantir для стеження за російськими військами](https://ua.korrespondent.net/world/4892960-nato-zapustylo-shi-Palantir-dlia-stezhennia-za-rosiiskymy-viiskamy)<br>
+14:59 [В ОП пояснили прихильність Трампа до України](https://ua.korrespondent.net/ukraine/4892953-v-op-poiasnyly-prykhylnist-trampa-do-ukrainy)<br>
+14:59 [Рух Ормузькою протокою майже зупинився - ЗМІ](https://ua.korrespondent.net/world/4892954-rukh-ormuzkoui-protokoui-maizhe-zupynyvsia-zmi)<br>
+14:50 ["Пішли на поступки": Трамп зробив нову заяву про Іспанію](https://ua.korrespondent.net/world/4892948-pishly-na-postupky-tramp-zrobyv-novu-zaiavu-pro-ispaniui)<br>
+14:41 [Казахстан відповів Росії на звинувачення в атаці на Омський НПЗ](https://ua.korrespondent.net/world/4892942-kazakhstan-vidpoviv-rosii-na-zvynuvachennia-v-atatsi-na-omskyi-npz)<br>
+14:40 [Полювання на "тіньовий" флот: наслідки для РФ](https://ua.korrespondent.net/ukraine/4892936-poluivannia-na-tinovyi-flot-naslidky-dlia-rf)<br>
+14:27 [Онлайн-шлюби б'ють рекорди: українці дедалі частіше одружуються дистанційно](https://ua.korrespondent.net/ukraine/4892938-onlain-shluiby-buit-rekordy-ukraintsi-dedali-chastishe-odruzhuuitsia-dystantsiino)<br>
+14:21 [Вбивство підозрюваної в замаху на Єрмолаєва: співробітника ГУР арештовано](https://ua.korrespondent.net/ukraine/4892935-vbyvstvo-pidozruivanoi-v-zamakhu-na-yermolaieva-spivrobitnyka-hur-areshtovano)<br>
+14:17 [Мовний омбудсмен перевірив громади Закарпаття](https://ua.korrespondent.net/ukraine/4892932-movnyi-ombudsmen-pereviryv-hromady-zakarpattia)<br>
+14:10 [Кремль відреагував на заяви Трампа щодо України](https://ua.korrespondent.net/world/russia/4892930-kreml-vidreahuvav-na-zaiavy-trampa-schodo-ukrainy)<br>
+14:07 [У Польщі подружжя росіян отримало вироки за шпигунство](https://ua.korrespondent.net/world/4892928-u-polschi-podruzhzhia-rosiian-otrymalo-vyroky-za-shpyhunstvo)<br>
+13:58 [Росіяни атакували маршрутку у центрі Херсона](https://ua.korrespondent.net/ukraine/4892924-rosiiany-atakuvaly-marshrutku-u-tsentri-khersona)<br>
 13:56 [Конфлікт із ТЦК у Львові: розпочато розслідування, вже є затриманий](https://ua.korrespondent.net/ukraine/4892922-konflikt-iz-ttsk-u-lvovi-rozpochato-rozsliduvannia-vzhe-ye-zatrymanyi)<br>
 13:51 [Італія висилає двох військових аташе РФ через шпигунство](https://ua.korrespondent.net/world/4892920-italiia-vysylaie-dvokh-viiskovykh-atashe-rf-cherez-shpyhunstvo)<br>
 13:42 [Стало відомо, з якими країнами Україна торгує найбільше](https://ua.korrespondent.net/business/economics/4892916-stalo-vidomo-z-yakymy-krainamy-ukraina-torhuie-naibilshe)<br>
@@ -61,6 +90,34 @@ Previous day: [2026-07-08](./data/2026-07-08.md)
 07:17 [Obradovic y dos récords para machacar a Europa](https://as.com/baloncesto/euroliga/obradovic-y-dos-records-para-machacar-a-europa-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:15 [¿Sabes que te pueden multar por tener la lavadora en la terraza? La Ley de Propiedad Horizontal lo confirma en estos casos](https://www.elperiodico.com/es/vivienda/20260709/multar-lavadora-terraza-ley-propiedad-horizontal-dv-132094940)<br>
+17:14 [El PP eleva al Constitucional sus dudas sobre el Tratado de Amistad con Francia y bloquea su tramitación](https://www.elperiodico.com/es/politica/20260709/pp-eleva-constitucional-tratado-francia-bloqueo-132299835)<br>
+17:10 [El rincón de Carles Puyol (48 años): Un pueblo de 3.000 habitantes, rodeado de montañas, ríos y patrimonio modernista al que vuelve cada verano](https://www.elperiodico.com/es/gente/20260709/rincon-carles-puyol-48-anos-pueblo-rios-montanas-pobla-segur-dv-et-132097540)<br>
+17:07 [Irán entierra al ayatolá Jameneí tras una semana de funerales multitudinarios y entre gritos de "muerte a Trump"](https://www.elperiodico.com/es/internacional/20260709/iran-entierra-ayatola-jamenei-semana-funerales-multitudinarios-gritos-muerte-trump-132299507)<br>
+17:05 [Juanma Moreno presenta el nuevo Gobierno de Andalucía](https://www.elperiodico.com/es/videos/politica/juanma-moreno-nuevo-gobierno-andalucia/132299397.shtml)<br>
+17:03 [Desalojada la estación de Urquinaona del metro de Barcelona por un incidente con gas pimienta](https://www.elperiodico.com/es/barcelona/20260709/desalojan-estacion-urquinaona-metro-barcelona-gas-pimienta-132298830)<br>
+17:00 [La ola de calor en Catalunya dará unas horas de tregua a partir del viernes y remontará de cara al domingo](https://www.elperiodico.com/es/sociedad/20260709/cataluna-ola-de-calor-prevision-meteocat-132289884)<br>
+16:52 [Un estudio analiza la microbiota de tres generaciones para conocer el riesgo de alergia a las proteínas de la leche de vaca](https://www.elperiodico.com/es/sanidad/20260709/estudio-analiza-microbiota-tres-generaciones-conocer-alergia-proteinas-leche-de-vaca-132296790)<br>
+16:37 [El famoso panda de internet cumple 16 años](https://www.elperiodico.com/es/videos/sociedad/famoso-panda-cumple-16/132298131.shtml)<br>
+16:31 [Crítica de ‘Marielle lo sabe todo’, un intento de provocación resultón pero inocuo](https://www.elperiodico.com/es/ocio-y-cultura/20260709/critica-marielle-provocacion-resulton-inocuo-132297282)<br>
+16:30 [Crítica de 'La copia perfecta': retrato de un personaje real que fue considerado el Cézanne de los falsificadores](https://www.elperiodico.com/es/ocio-y-cultura/20260709/critica-copia-perfecta-retrato-personaje-estreno-cine-pelicula-falsificador-132297137)<br>
+16:21 [Un hombre le rompe la nariz a una niña de 13 años en un hotel de Barcelona por supuestamente quitarle su tumbona](https://www.elperiodico.com/es/videos/sucesos/hombre-le-rompe-nariz-nina/132297461.shtml)<br>
+16:15 [Las obras para consolidar el socavón del Putxet se harán las 24 horas del día](https://www.elperiodico.com/es/barcelona/20260709/obras-24h-consolidar-socavon-putxet-l9-132296636)<br>
+16:15 [Los otorrinos coinciden: hay que usar tapones para los oídos en verano "igual que protegemos la piel del sol"](https://www.elperiodico.com/es/sociedad/20260709/otorrinos-coinciden-verano-tapones-oidos-piel-sol-dv-132143369)<br>
+16:11 [Detienen a un hombre por apuñalar mortalmente a un joven, con quien convivía, en un asentamiento en Cubelles](https://www.elperiodico.com/es/videos/sociedad/detienen-hombre-apunalar-mortalmente-joven/132296925.shtml)<br>
+16:10 [Millones y más millones](https://www.elperiodico.com/es/opinion/20260709/millones-millones-elon-musk-hormigas-articulo-juan-tallon-132296501)<br>
+16:00 [Estas lámparas de mesa versátiles y con luz cálida son las mejores para decorar tu hogar](https://www.elperiodico.com/es/shopping/20260709/mejores-lamparas-mesa-versatiles-luz-calida-132211136)<br>
+15:56 [Podemos no apoyará el decreto de vivienda si incluye "regalos fiscales" a los caseros](https://www.elperiodico.com/es/videos/politica/apoyara-decreto-vivienda-incluye-regalos/132296390.shtml)<br>
+15:50 [Suárez como inspiración](https://www.elperiodico.com/es/opinion/20260709/suarez-inspiracion-transicion-articulo-nacho-martin-blanco-132295955)<br>
+15:31 [Sin certezas](https://www.elperiodico.com/es/opinion/20260709/certezas-app-de-citas-articulo-josep-maria-fonalleras-132267036)<br>
+15:18 [L’Hospitalet modifica su servicio de limpieza viaria para evitar las temperaturas más altas durante la ola de calor](https://www.elperiodico.com/es/barcelona/20260709/hospitalet-modifica-servicios-limpieza-viaria-para-evitar-las-temperaturas-mas-altas-durante-la-ola-de-calor-132289210)<br>
+15:17 [Dos CAP de Barcelona y Tarragona ensayarán una técnica para hacer extracciones de sangre menos dolorosas](https://www.elperiodico.com/es/sanidad/20260709/cataluna-extracciones-sangre-menos-invasivas-menos-dolorosas-pacientes-vall-hebron-ics-idiapgjol-132292603)<br>
+14:49 [La derrota del príncipe Enrique y los otros seis demandantes contra 'Daily Mail' podría costarles 50 millones de libras](https://www.elperiodico.com/es/gente/20260709/principe-harry-factura-legal-daily-mail-67-millones-dolares-132292842)<br>
+14:43 [Sánchez recibe un revólver cargado como regalo del presidente turco Erdogan a los líderes de la OTAN](https://www.elperiodico.com/es/internacional/20260709/presidente-turco-erdogan-regala-sanchez-132293560)<br>
+14:36 [La Comisión Europea propone a los gobiernos prohibir el comercio con los territorios palestinos ocupados por Israel](https://www.elperiodico.com/es/internacional/20260709/comision-propone-gobiernos-prohibir-comercio-territorios-palestinos-ocupados-132293181)<br>
+14:31 ["Si siente debilidad, mareos y dolor de cabeza, siéntese al fresco e hidrátese: es un golpe de calor"](https://www.elperiodico.com/es/sanidad/20260709/golpe-calor-debilidad-mareos-dolor-cabeza-fresco-hidratacion-132288453)<br>
+14:00 [La hacienda catalana ayuda a casi 60.000 personas a hacer su declaración de la renta](https://www.elperiodico.com/es/economia/20260709/campana-de-la-renta-cataluna-agencia-tributaria-aumenta-atenciones-132289776)<br>
+14:00 [La Audiencia Nacional abre juicio a BBVA, Francisco González y otros 14 exdirectivos por el caso Villarejo](https://www.elperiodico.com/es/economia/20260709/audiencia-nacional-juicio-bbva-francisco-gonzalez-caso-villarejo-132291542)<br>
 13:57 [Tengo 87 años y mi hija quería llevarme a una residencia: "Lloré porque no sabía qué hacer, porque ninguna opción me parecía bien, porque sentía que se me estaban acabando las opciones. El mundo ya no tenía sitio para mí tal y como era"](https://www.elperiodico.com/es/sociedad/20260709/residencia-ancianos-personas-mayores-abuelos-dependencia-dv-et-132283390)<br>
 13:51 [Italia expulsa a dos militares rusos por un presunto caso de espionaje](https://www.elperiodico.com/es/internacional/20260709/italia-expulsa-militares-rusos-presunto-espionaje-rusia-carabinieri-injerencia-132287215)<br>
 13:50 [El Tibidabo enciende las letras ‘Barcelona’ para abrir la temporada de verano del parque de atracciones](https://www.elperiodico.com/es/videos/barcelona/tibidabo-enciende-letras-barcelona-abrir-video/132290706.shtml)<br>
