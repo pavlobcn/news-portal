@@ -1,8 +1,13 @@
-# News for 2026-07-10 20:51
+# News for 2026-07-10 22:17
 
 Previous day: [2026-07-09](./data/2026-07-09.md)
 
 ## ua.korrespondent.net
+21:59 [ЗМІ дізналися, де Україна планує виробляти Patriot](https://ua.korrespondent.net/world/4893357-zmi-diznalysia-de-ukraina-planuie-vyrobliaty-Patriot)<br>
+21:53 [Удар по Запоріжжю: число поранених різко зросло](https://ua.korrespondent.net/city/zaporozhye/4893355-udar-po-zaporizhzhui-chyslo-poranenykh-rizko-zroslo)<br>
+21:31 [У США вперше в світі прооперували свиней за допомогою гуманоїдних роботів](https://ua.korrespondent.net/tech/technews/4893353-u-ssha-vpershe-v-sviti-prooperuvaly-svynei-za-dopomohoui-humanoidnykh-robotiv)<br>
+21:29 [На фронті відбулося 226 боїв з початку доби](https://ua.korrespondent.net/ukraine/4893351-na-fronti-vidbulosia-226-boiv-z-pochatku-doby)<br>
+21:01 [Зеленський заявив про підтримку миру в оточенні Путіна](https://ua.korrespondent.net/ukraine/4893349-zelenskyi-zaiavyv-pro-pidtrymku-myru-v-otochenni-putina)<br>
 20:43 [Пасажира затягнуло у розбите вікно літака Ryanair](https://ua.korrespondent.net/world/4893347-pasazhyra-zatiahnulo-u-rozbyte-vikno-litaka-Ryanair)<br>
 20:39 [Китай вперше успішно повернув ракету після орбітального запуску](https://ua.korrespondent.net/tech/space/4893344-kytai-vpershe-uspishno-povernuv-raketu-pislia-orbitalnoho-zapusku)<br>
 20:26 [ЄС пом'якшив 21-й пакет санкцій проти Росії - ЗМІ](https://ua.korrespondent.net/world/4893339-yes-pomiakshyv-21-y-paket-sanktsii-proty-rosii-zmi)<br>
@@ -36,6 +41,7 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 16:16 [Данія виділила 10 млн євро на підтримку енергетики України](https://ua.korrespondent.net/business/economics/4893274-daniia-vydilyla-10-mln-yevro-na-pidtrymku-enerhetyky-ukrainy)<br>
 16:09 [Військовий зі Скелі побив капелана та підполковника](https://ua.korrespondent.net/ukraine/4893270-viiskovyi-zi-skeli-pobyv-kapelana-ta-pidpolkovnyka)<br>
 15:59 [ЄС звинуватив Meta у "залежному" дизайні](https://ua.korrespondent.net/business/companies/4893272-yes-zvynuvatyv-Meta-u-zalezhnomu-dyzaini)<br>
+15:59 [ЄС звинуватив Meta у створенні дизайну, що викликає залежність](https://ua.korrespondent.net/business/companies/4893272-yes-zvynuvatyv-Meta-u-stvorenni-dyzainu-scho-vyklykaie-zalezhnist)<br>
 15:58 [У центрі Запоріжжя "приліт" КАБів, є жертви](https://ua.korrespondent.net/city/zaporozhye/4893268-u-tsentri-zaporizhzhia-prylit-kabiv-ye-zhertvy)<br>
 15:41 [Німеччина починає випуск наземних безпілотників для ЗСУ](https://ua.korrespondent.net/world/4893264-nimechchyna-pochynaie-vypusk-nazemnykh-bezpilotnykiv-dlia-zsu)<br>
 15:34 [Київський фунікулер закриють на ремонт](https://ua.korrespondent.net/city/kiev/4893263-kyivskyi-funikuler-zakryuit-na-remont)<br>
@@ -112,6 +118,7 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 00:46 [РФ атакувала Харківщину: є загибла й потерпілі](https://ua.korrespondent.net/ukraine/4893092-rf-atakuvala-kharkivschynu-ye-zahybla-y-poterpili)<br>
 
 ## as.com
+21:48 [España, a semifinales del Eurobasket](https://as.com/baloncesto/mas_baloncesto/espana-a-semifinales-del-eurobasket-f202607-n/)<br>
 18:07 [El Joventut anuncia su tercer fichaje: Emir Sulejmanovic](https://as.com/baloncesto/acb/el-joventut-anuncia-su-tercer-fichaje-emir-sulejmanovic-f202607-n/)<br>
 16:16 [El Barça se desangra: Shengelia puede acabar en el Olympiacos](https://as.com/baloncesto/euroliga/el-barca-se-desangra-shengelia-puede-acabar-en-el-olympiacos-f202607-n/)<br>
 14:28 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
@@ -120,6 +127,12 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 10:20 [Moses Wright se escapa](https://as.com/baloncesto/moses-wright-se-escapa-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:04 [VÍDEO | Juanma Moreno confirma 12 muertos y 23 personas sin localizar](https://www.elperiodico.com/es/videos/sociedad/video-juanma-moreno-confirma-12/132346915.shtml)<br>
+22:02 [VÍDEO | La Guardia Civil realiza batidas para la localización de posibles desaparecidos](https://www.elperiodico.com/es/videos/sociedad/video-guardia-civil-realiza-batidas/132346835.shtml)<br>
+21:30 [¿Puede un vecino llevar todos los invitados que quiera a la piscina? Esto es lo que dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260710/vecino-invitados-piscina-comunitaria-ley-propiedad-horizontal-dv-132294658)<br>
+21:22 [Los Bombers dan por controlado el incendio en Sentmenat (Barcelona)](https://www.elperiodico.com/es/sociedad/20260710/bombers-dan-controlado-incendio-sentmenat-132345726)<br>
+21:18 [Al menos 12 muertos en el trágico incendio que convirtió Los Gallardos en una ratonera: "Era el mismísimo infierno"](https://www.elperiodico.com/es/sociedad/20260710/12-muertos-tragico-incendio-convirtio-132345874)<br>
+21:15 [Se elevan a siete las denuncias por desaparecidos en el incendio de Los Gallardos, en Almería, y terminan las 12 autopsias](https://www.elperiodico.com/es/sociedad/20260710/elevan-siete-denuncias-desaparecidos-incendio-132345783)<br>
 20:36 [Aprender de la tragedia](https://www.elperiodico.com/es/opinion/20260710/aprender-tragedia-incendio-almeria-editorial-132344239)<br>
 20:30 [La OCU avisa: esta tarjeta bancaria no la recomienda "en absoluto"](https://www.elperiodico.com/es/economia/20260710/ocu-avisa-tarjeta-bancaria-desaconseja-dv-131770253)<br>
 20:13 [Muere Wally Funk, pionera de la aviación y la mujer de mayor edad en viajar al espacio](https://www.elperiodico.com/es/ciencia/20260710/muere-wally-funk-pionera-aviacion-jeff-bezos-132343469)<br>

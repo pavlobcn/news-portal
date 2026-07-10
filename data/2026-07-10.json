@@ -1,5 +1,131 @@
 [
   {
+    "title": "VÍDEO | Juanma Moreno confirma 12 muertos y 23 personas sin localizar",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-juanma-moreno-confirma-12/132346915.shtml",
+    "pubDate": "2026-07-10 22:04:01",
+    "category": "",
+    "description": "",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "VÍDEO | La Guardia Civil realiza batidas para la localización de posibles desaparecidos",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-guardia-civil-realiza-batidas/132346835.shtml",
+    "pubDate": "2026-07-10 22:02:17",
+    "category": "",
+    "description": "",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ дізналися, де Україна планує виробляти Patriot",
+    "link": "https://ua.korrespondent.net/world/4893357-zmi-diznalysia-de-ukraina-planuie-vyrobliaty-Patriot",
+    "pubDate": "2026-07-10 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486754.jpg\">Ракети, ймовірно, спочатку вироблятимуть у Німеччині або іншій європейській країні з огляду на безпекову ситуацію.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Запоріжжю: число поранених різко зросло",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4893355-udar-po-zaporizhzhui-chyslo-poranenykh-rizko-zroslo",
+    "pubDate": "2026-07-10 21:53:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486733.jpg\">Для пошуку людини, яка може перебувати під завалами залучили кінологічний розрахунок ДСНС.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España, a semifinales del Eurobasket",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-a-semifinales-del-eurobasket-f202607-n/",
+    "pubDate": "2026-07-10 21:48:22",
+    "category": "Baloncesto",
+    "description": "La Selección ganó de forma trabajada a Turquía y llega a la penúltima ronda del torneo continental. Francia, un hueso duro de roer para llegar a la final.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У США вперше в світі прооперували свиней за допомогою гуманоїдних роботів",
+    "link": "https://ua.korrespondent.net/tech/technews/4893353-u-ssha-vpershe-v-sviti-prooperuvaly-svynei-za-dopomohoui-humanoidnykh-robotiv",
+    "pubDate": "2026-07-10 21:31:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486725.jpg\">Гуманоїдні роботи вперше у світі провели операцію на живих свинях під дистанційним керуванням хірургів з Каліфорнійського університету в Сан-Дієго.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Puede un vecino llevar todos los invitados que quiera a la piscina? Esto es lo que dice la Ley de Propiedad Horizontal",
+    "link": "https://www.elperiodico.com/es/economia/20260710/vecino-invitados-piscina-comunitaria-ley-propiedad-horizontal-dv-132294658",
+    "pubDate": "2026-07-10 21:30:08",
+    "category": "",
+    "description": "<h2>Los propietarios deben usar los elementos comunes de forma adecuada y sin perjudicar el derecho de los demás vecinos</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260702/confirmado-ley-propiedad-horizontal-permiso-vecinos-alquilar-piso-a-turistas-dv-131547032\">La Ley de Propiedad Horizontal lo confirma: si quieres alquilar tu piso a turistas, tienes que pedir permiso a tus vecinos</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На фронті відбулося 226 боїв з початку доби",
+    "link": "https://ua.korrespondent.net/ukraine/4893351-na-fronti-vidbulosia-226-boiv-z-pochatku-doby",
+    "pubDate": "2026-07-10 21:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486704.jpg\">Найбільше ворог тисне на Пкоровському та Слов’янському напрямках, де оборонці відбили по 29 штурмів.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Bombers dan por controlado el incendio en Sentmenat (Barcelona)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/bombers-dan-controlado-incendio-sentmenat-132345726",
+    "pubDate": "2026-07-10 21:22:02",
+    "category": "",
+    "description": "<h2 class=\"item\">21 dotaciones de bomberos se quedarán refrescando la zona y se irán desescalando durante la noche</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Los incendios en Catalunya y España, en directo</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos 12 muertos en el trágico incendio que convirtió Los Gallardos en una ratonera: \"Era el mismísimo infierno\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/12-muertos-tragico-incendio-convirtio-132345874",
+    "pubDate": "2026-07-10 21:18:47",
+    "category": "",
+    "description": "<h2>Otras ocho personas están heridas, cuatro de gravedad, 23 continúan sin ser localizadas en la zona afectada por las llamas y hay 1.405 desalojados</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260710/directo-ultima-hora-muertos-incendio-gallardos-almeria-132317696\" target=\"_blank\">En directo | Última hora del incendio forestal en Los Gallardos (Almería): número de muertos, mapa de las zonas afectadas y causas del fuego en Andalucía</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se elevan a siete las denuncias por desaparecidos en el incendio de Los Gallardos, en Almería, y terminan las 12 autopsias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/elevan-siete-denuncias-desaparecidos-incendio-132345783",
+    "pubDate": "2026-07-10 21:15:27",
+    "category": "",
+    "description": "<h2>El centro judicial de Vera investiga el incendio de Los Gallardos, que ha dejado doce fallecidos de los que aún no se conoce la identidad ni el sexo</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El riesgo de ser gruista: los atropellos en este sector en 2026 fuerzan un cambio en la DGT",
+    "link": "https://www.elperiodico.com/es/motor/20260710/tres-operarios-grua-mueren-atropellados-132280424",
+    "pubDate": "2026-07-10 21:15:21",
+    "category": "",
+    "description": "<h2>Los trágicos siniestros en Valladolid, Badajoz y Huesca reactivan las alarmas de un sector que históricamente ha denunciado su alta siniestralidad</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський заявив про підтримку миру в оточенні Путіна",
+    "link": "https://ua.korrespondent.net/ukraine/4893349-zelenskyi-zaiavyv-pro-pidtrymku-myru-v-otochenni-putina",
+    "pubDate": "2026-07-10 21:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486683.jpeg\">В оточення глави Кремля з'являється підтримка ідеї миру з Україною, вважає український президент.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana sábado, 11 de julio: amor, trabajo, dinero y salud para todos los signos del zodiaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260710/horoscopo-hoy-sabado-11-julio-dv-132281041",
+    "pubDate": "2026-07-10 21:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodiaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Пасажира затягнуло у розбите вікно літака Ryanair",
     "link": "https://ua.korrespondent.net/world/4893347-pasazhyra-zatiahnulo-u-rozbyte-vikno-litaka-Ryanair",
     "pubDate": "2026-07-10 20:43:00",
@@ -906,6 +1032,15 @@
     "category": "Новини компаній",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486302.jpg\">Брюссель звинувачує компанію у недостатньому захисті неповнолітніх та ігноруванні даних про поведінку дітей онлайн.",
     "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС звинуватив Meta у створенні дизайну, що викликає залежність",
+    "link": "https://ua.korrespondent.net/business/companies/4893272-yes-zvynuvatyv-Meta-u-stvorenni-dyzainu-scho-vyklykaie-zalezhnist",
+    "pubDate": "2026-07-10 15:59:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4486302.jpg\">Брюссель звинувачує компанію у недостатньому захисті неповнолітніх та ігноруванні даних про поведінку дітей онлайн.",
+    "topic": "0",
     "topic_match_probability": 0
   },
   {
