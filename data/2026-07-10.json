@@ -1,5 +1,473 @@
 [
   {
+    "title": "РФ атакувала Дніпропетровщину БпЛА: влада назвала наслідки",
+    "link": "https://ua.korrespondent.net/city/dnepr/4893125-rf-atakuvala-dnipropetrovschynu-bpla-vlada-nazvala-naslidky",
+    "pubDate": "2026-07-10 08:11:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485626.jpg\">Одна людина отримала поранення внаслідок майже десяти атак з боку ворога на три райони області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendio en Almería, en directo: última hora de los fallecidos en Los Gallardos y otros fuegos activos en Catalunya y resto de España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-07-10 08:07:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/muertos-incendio-almeria-los-gallardos-132310835\">Mueren al menos 11 personas en el incendio forestal de Los Gallardos (Almería)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/personas-confinadas-incendios-cataluna-bomberos-alertan-algunas-no-hacen-caso-132292635\">Más de 84.000 personas han tenido que confinarse por incendios en Catalunya en menos de una semana: \"Algunas no hacen caso y deciden huir por su cuenta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fútbol como espejo: el Mundial y la democracia",
+    "link": "https://www.elperiodico.com/es/internacional/latinoamerica21/20260710/futbol-espejo-mundial-democracia-polarizacion-emergencia-climatica-desarrollo-132279763",
+    "pubDate": "2026-07-10 08:00:33",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La otra cara del Dacia Striker: accesorios, habitabilidad y un maletero de 600 litros",
+    "link": "https://www.elperiodico.com/es/motor/20260710/cara-dacia-striker-accesorios-habitabilidad-132054285",
+    "pubDate": "2026-07-10 08:00:33",
+    "category": "",
+    "description": "<h2>El nuevo modelo de Dacia sigue con la línea de soluciones prácticas que caracteriza la marca y las lleva a otro nivel.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Eva Martín, de 'La Promesa' a 'Ágata y Lola': \"La marquesa está donde le corresponde: en la cárcel\"",
+    "link": "https://www.elperiodico.com/es/tele/20260710/eva-martin-promesa-agata-lola-serie-atresplayer-132177417",
+    "pubDate": "2026-07-10 08:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz catalana protagoniza la nueva serie de Atresplayer, sobre una policía con autismo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260630/series-estrenos-julio-2026-netflix-hbo-disney-prime-apple-skyshowtime-atresplayer-filmin-movistar-131596065\">Las 10 series que no te puedes perder este julio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20250716/series-cozy-mystery-misterio-crimen-asesinatos-106283838\">10 series de 'cozy crime' para el verano</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La nutrición animal, clave para reducir la huella de carbono de los alimentos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/nutricion-animal-clave-reducir-huella-carbono-alimentos-bc-132315517",
+    "pubDate": "2026-07-10 08:00:32",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Trouw Nutrition, multinacional líder en nutrición animal perteneciente al grupo Nutreco, ofrece soluciones nutricionales y digitales que se combinan para impulsar una producción más eficiente, económica y más sostenible</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La Audiencia de València cita al yonqui del dinero para que ingrese en prisión",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/la-audiencia-de-valencia-cita-al-yonqui-del-dinero-para-que-ingrese-en-prision-132315342",
+    "pubDate": "2026-07-10 08:00:31",
+    "category": "",
+    "description": "<h2>La sección primera comunica la firmeza de la primera sentencia del caso Taula, la de la pieza de Thematica Events, que condenó a siete personas por amañar contratos en el Ayuntamiento de València y en Imelsa</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Antonio Sanz, la mano derecha de Moreno Bonilla asciende para ser el gran contrapeso de Vox",
+    "link": "https://www.elperiodico.com/es/politica/20260710/antonio-sanz-mano-derecha-moreno-bonilla-pp-132315351",
+    "pubDate": "2026-07-10 08:00:26",
+    "category": "",
+    "description": "<h2>El consejero gaditano mantendrá las competencias de sanidad, recupera las difíciles relaciones con los sindicatos y asumirá la presidencia de la Junta de Andalucía en ausencia de Juanma Moreno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Manuel Gavira, el hijo de panaderos que quiere impedir la entrada de menores migrantes en Andalucía",
+    "link": "https://www.elperiodico.com/es/politica/20260710/manuel-gavira-hijo-panaderos-quiere-132315344",
+    "pubDate": "2026-07-10 08:00:20",
+    "category": "",
+    "description": "<h2>El representante de la extrema derecha en Andalucía se ha consolidado como vicepresidente y consejero tras firmar el pacto con el PP en un tiempo récord si se mira a otras comunidades</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Чемпіонат світу-2026: прев'ю 29-го ігрового дня – Іспанія vs Бельгія",
+    "link": "https://ua.korrespondent.net/sport/4893060-chempionat-svitu-2026-prevui-29-ho-ihrovoho-dnia-ispaniia-vs-belhiia",
+    "pubDate": "2026-07-10 08:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4484907.jpg\">\r\nПропонуємо вашій увазі анонс трьох поєдинків, які пройдуть у 29-й день мундіалю.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "GRAVITEO convierte el Circuit de Barcelona-Catalunya en el gran festival del deporte urbano con competiciones de élite y actividades familiares",
+    "link": "https://www.elperiodico.com/es/deportes/20260710/graviteo-convierte-circuit-barcelona-catalunya-132315485",
+    "pubDate": "2026-07-10 07:59:27",
+    "category": "",
+    "description": "<h2>El Circuit de Barcelona-Catalunya se prepara para vivir una transformación sin precedentes con la llegada de <a href=\"https://www.graviteofestival.com/programa/\" target=\"_blank\">GRAVITEO Urban Sports Festival, una cita que del 17 al 19 de julio</a> reunirá deporte, ocio, música, cultura urbana y experiencias para todos los públicos en un formato abierto, gratuito mediante inscripción previa y pensado para que tanto aficionados como familias disfruten de un fin de semana único. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "'Lleva la delantera' de Novartis",
+    "link": "https://www.elperiodico.com/es/videos/salud/lleva-delantera-novartis/132315426.shtml",
+    "pubDate": "2026-07-10 07:57:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Не тільки Shahed: ППО знешкодила 114 дронів зі 137",
+    "link": "https://ua.korrespondent.net/ukraine/4893123-ne-tilky-Shahed-ppo-zneshkodyla-114-droniv-zi-137",
+    "pubDate": "2026-07-10 07:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485649.jpg\">Зафіксовано влучання 18 ударних безпілотників на 16 локаціях, а уламки збитих БпЛА впали на чотирьох інших місцях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE",
+    "link": "https://www.elperiodico.com/es/politica/20260710/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522",
+    "pubDate": "2026-07-10 07:38:00",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "¿A qué hora salen las notas de corte 2026 en Catalunya este viernes?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/cuando-notas-corte-catalunya-2026-dia-hora-132256799",
+    "pubDate": "2026-07-10 07:33:00",
+    "category": "",
+    "description": "<h2>La nota de corte es la nota de admisión más baja con la que un estudiante ha conseguido una plaza en un grado universitario</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Німеччина і США домовилися про розширення виробництва ракет у Європі",
+    "link": "https://ua.korrespondent.net/world/4893120-nimechchyna-i-ssha-domovylysia-pro-rozshyrennia-vyrobnytstva-raket-u-yevropi",
+    "pubDate": "2026-07-10 07:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485563.jpg\">Планується задовольнити національний, європейський і світовий попит на керовані ракети середньої дальності класу \"повітря-повітря\" та скоротити строки їх постачання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Escape room' al aire libre: visita los laberintos naturales alrededor de Catalunya",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260710/escape-room-aire-libre-visita-132307150",
+    "pubDate": "2026-07-10 07:15:10",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Durante el verano, diversos municipios del cordón agrícola catalán organizan actividades dinámicas (y muy virales) para sensibilizar sobre la vida rural con retos muy divertidos.</h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260709/dormir-fresquito-escapadas-catalunya-termometro-132231349\" target=\"_blank\" rel=\"nofollow\">Dónde dormir fresquito: escapadas por Catalunya donde el termómetro cae por debajo de los 20 grados</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Доба на Запоріжжі: понад тисячу ударів РФ, є загибла",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4893118-doba-na-zaporizhzhi-ponad-tysiachu-udariv-rf-ye-zahybla",
+    "pubDate": "2026-07-10 07:06:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485605.jpg\">Внаслідок російської агресії також 12 осіб травмовано, надійшло 153 повідомлення про пошкодження об'єктів інфраструктури, помешкань та транспортних засобів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¡Ojo! La multa que te pueden poner por llevar estas pegatinas este verano",
+    "link": "https://www.elperiodico.com/es/motor/20260710/ojo-multa-poner-llevar-pegatinas-coche-132286555",
+    "pubDate": "2026-07-10 07:01:04",
+    "category": "",
+    "description": "<h2>Decorar el coche puede salirte caro si comprometes la visibilidad o la seguridad vial</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya pide a la ciudadanía estar en \"alerta\" ante el aumento de estafas con IA durante el verano",
+    "link": "https://www.elperiodico.com/es/politica/20260710/generalitat-advierte-aumento-estafas-ia-verano-catalunya-132299768",
+    "pubDate": "2026-07-10 07:00:59",
+    "category": "",
+    "description": "<h2>La Agència de Ciberseguretat de Catalunya lanza una campaña de concienciación de la ciudadanía para fomentar el uso crítico de las aplicaciones generativas y advertir de sus usos fraudulentos</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Tour y los gemidos de la superestrella del cine",
+    "link": "https://www.elperiodico.com/es/deportes/20260710/tour-gemidos-superestrella-cine-tourmalet-sergi-lopez-egea-132294885",
+    "pubDate": "2026-07-10 07:00:58",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Mueren al menos 11 personas en el incendio forestal de Los Gallardos (Almería)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/muertos-incendio-almeria-los-gallardos-132310835",
+    "pubDate": "2026-07-10 06:55:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las víctimas fueron sorprendidas en el interior de vehículos en una pedanía de Bédar</h2><h2 class=\"item\">El origen de las llamas sería la caída de un cable eléctrico</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Última hora del incendio en Almería y fallecidos, en directo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака БпЛА на РФ: у Таганрозі й на Азові пожежі",
+    "link": "https://ua.korrespondent.net/world/russia/4893116-ataka-bpla-na-rf-u-tahanrozi-y-na-azovi-pozhezhi",
+    "pubDate": "2026-07-10 06:47:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485584.jpg\">Під ударом дронів, ймовірно, опинилися нафтобаза та підприємство оборонно-промислового комплексу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "MotoGP prescinde de Alex Rins, uno de los suyos",
+    "link": "https://www.elperiodico.com/es/deportes/20260710/motogp-prescinde-alex-rins-132295860",
+    "pubDate": "2026-07-10 06:36:10",
+    "category": "",
+    "description": "<h2 class=\"item\">No es fácil mantenerse 15 años en la élite del motociclismo mundial, no importa sea en Moto3, Moto2 o MotoGP. El catalán Alex Rins, actual piloto de la desastrosa Yamaha, lo ha conseguido, ganando carreras en las tres categorías. Rins, a los 30 años, ha visto como se quedaba sin moto para la próxima temporada. Le duele, lo lamenta, puede que no lo entienda, pero así de duro es.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Laporta corta el grifo a los veteranos del Barça para aliviar las finanzas",
+    "link": "https://www.elperiodico.com/es/deportes/20260710/laporta-corta-grifo-veteranos-barca-132310172",
+    "pubDate": "2026-07-10 06:35:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати армії РФ станом на 10 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4893114-henshtab-nazvav-vtraty-armii-rf-stanom-na-10-lypnia",
+    "pubDate": "2026-07-10 06:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485520.jpg\">Загальні бойові втрати російських загарбників з початку повномасштабної війни орієнтовно становлять близько 1 416 280 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Informe de la UCO: así se enchufó a Leire Díez en Correos saltándose el concurso de la empresa",
+    "link": "https://www.elperiodico.com/es/politica/20260710/informe-uco-enchufe-leire-diez-correos-trama-132308958",
+    "pubDate": "2026-07-10 06:00:58",
+    "category": "",
+    "description": "<h2>La Guardia Civil relata en un informe cómo Juan Manuel Serrano y Vicente Fernández, presidentes de Correos y la SEPI, metieron a su amiga en la empresa pública pasando por encima de los candidatos internos</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Parlament decidirá la próxima semana si sanciona a Garriga, Calvet y Orriols por discursos de odio",
+    "link": "https://www.elperiodico.com/es/politica/20260710/parlament-sanciones-discursos-oido-comision-estatuto-diputado-132297042",
+    "pubDate": "2026-07-10 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">PSC, Junts y ERC prevén presentar una reforma del reglamento de la Cámara catalana para incorporar el código de conducta, que recoge las multas, y blindarlo jurídicamente </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260505/parlament-reforma-reglamento-discursos-odio-vox-alianca-catalana-orriols-125081539\" target=\"_blank\">PSC, Junts y ERC ultiman una reforma de reglamento del Parlament para blindar las multas por discursos de odio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los viticultores retoman las tractoradas para denunciar la caída de precios de la uva: \"Muchos se plantean no vendimiar\"",
+    "link": "https://www.elperiodico.com/es/economia/20260710/viticultores-retoman-tractoradas-denunciar-caida-132302696",
+    "pubDate": "2026-07-10 06:00:49",
+    "category": "",
+    "description": "<h2>Los productores aseguran que las bodegas les están comprando menos producto (o directamente no les compran), lo que va a provocar un \"estoc dramático de producto\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260708/generalitat-medidas-extraordinarias-crisis-precios-uva-vinicola-132266987\" target=\"_blank\">La Generalitat activa medidas extraordinarias para paliar la crisis de precios del sector vinícola catalán</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Un hotel de 330 habitaciones consolida la apuesta de Alexandre por L’Hospitalet",
+    "link": "https://www.elperiodico.com/es/barcelona/20260710/hotel-330-habitaciones-consolida-apuesta-alexandre-hospitalet-fira-congresos-132302903",
+    "pubDate": "2026-07-10 06:00:47",
+    "category": "",
+    "description": "<h2>El futuro Alexandre Gran Via contará con piscina, bar en la azotea, restaurante y gimnasio, buscando ofrecer un alto nivel de confort</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260707/nuevos-hoteles-impulsan-polo-fira-gran-via-hospitalet-132178428\" target=\"_blank\">Diez nuevos proyectos impulsan el polo hotelero de L'Hospitalet y el entorno de la Fira Gran Via</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lukaku, la mole eterna de Bélgica que se burló de Trump amenaza la imbatibilidad de España",
+    "link": "https://www.elperiodico.com/es/deportes/20260710/lukaku-mole-eterna-belgica-amenaza-espana-mundial-132297012",
+    "pubDate": "2026-07-10 06:00:45",
+    "category": "",
+    "description": "<h2>El veterano delantero belga, máximo goleador histórico del país, ha marcado en los tres últimos partidos saliendo desde el banquillo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bélgica propone un partido trampa a dos pasos de la final del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260710/belgica-cuartos-de-final-espana-mundial-2026-previa-futbol-132304496",
+    "pubDate": "2026-07-10 06:00:42",
+    "category": "",
+    "description": "<h2>Preocupa el mal momento de Pedri y la falta de chispa de Lamine. Pese a que en los últimos ochos partidos ante los belgas, España ha ganado siete y empatado uno, no habrá confianzas porque los de Courtois vienen creciendo en el Mundial. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Hay riesgo de ingobernabilidad en Catalunya? ¿Tiene freno Aliança? 5 claves de la encuesta del CEO",
+    "link": "https://www.elperiodico.com/es/politica/20260710/encuesta-ceo-catalunya-ingobernabilidad-alianca-catalana-claves-132301665",
+    "pubDate": "2026-07-10 06:00:40",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260709/encuesta-ceo-elecciones-catalunya-julio-2026-cataluna-132259763\" target=\"_blank\">Encuesta CEO: Aliança Catalana superaría a Junts y sería la tercera fuerza con el PSC a la baja y ERC al alza</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260709/encuesta-ceo-independencia-catalunya-julio-2026-cataluna-132284760\" target=\"_blank\">Encuesta CEO: El apoyo a la independencia de Catalunya sube seis puntos y vuelve a registros de 2020</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260709/sondeo-ceo-inteligencia-artificial-catalunya-ia-132290585\" target=\"_blank\">Sondeo CEO: La mitad de los catalanes que utilizan la IA consultan dudas sobre su salud</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260709/sondeo-ceo-papa-leon-xiv-encuesta-132297292\" target=\"_blank\">Sondeo CEO: El papa León XIV es el líder internacional mejor valorado por los catalanes y Trump, el peor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Emma Vilarasau y Jordi Boix brillan en 'La truita', una comedia muy dramática y afinada en tres actos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260710/emma-vilarasau-jordi-boix-brillan-132230063",
+    "pubDate": "2026-07-10 06:00:39",
+    "category": "",
+    "description": "<h2>Ambos ejercen como abuelos en esta obra coral del francés Baptiste Amann, muy aplaudida en el estreno en el Teatre Poliorama, dentro del Festival de verano de Barcelona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Clásicos de verano",
+    "link": "https://www.elperiodico.com/es/tele/20260710/clasicos-verano-sergi-mas-132303097",
+    "pubDate": "2026-07-10 06:00:38",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El aumento del gasto militar para cumplir con la OTAN aleja el apoyo a los Presupuestos entre los socios de izquierda",
+    "link": "https://www.elperiodico.com/es/politica/20260710/gasto-militar-otan-presupuestos-socios-132300739",
+    "pubDate": "2026-07-10 06:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">La intención de presentar las cuentas públicas en otoño obligará a votar en las Cortes Generales la partida presupuestaria para Defensa. Hasta ahora se había incrementado sin pasar por el Congreso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260709/gobierno-aprobo-gasto-defensa-otan-132286583\" target=\"_blank\">El Gobierno aprobó 6.287 millones más de gasto en defensa horas antes de la cumbre de la OTAN</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Estado tiene 63 inmuebles en Catalunya a los que no da ningún uso conocido; 38 en Tarragona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/estado-inmuebles-viviendas-sin-uso-cataluna-tarragona-barcelona-132273247",
+    "pubDate": "2026-07-10 06:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">En Barcelona hay varias propiedades en desuso en el entorno del Paseo Marítimo, entre ellos varios inmuebles en el centro comercial Moda Shopping</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/patrimonio-estado-inmuebles-pisos-vacios-sin-utilizar-espana-132272212\" target=\"_blank\">El Estado cifra en más de 800 sus inmuebles sin uso repartidos por España: de viviendas a locales y párkings</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/pisos-vacios-propiedad-estado-vivienda-calle-serrano-madrid-132210101\" target=\"_blank\">El piso valorado en 12 millones de euros en la calle Serrano de Madrid que el Estado tiene vacío desde hace años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP paga el 100% de salario a los funcionarios de baja en las comunidades donde gobierna",
+    "link": "https://www.elperiodico.com/es/economia/20260710/baja-laboral-pp-paga-100-salario-funcionarios-comunidades-autonomas-gobierno-132299801",
+    "pubDate": "2026-07-10 06:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El Gobierno permitió en 2018 a las autonomías conceder ese beneficio a sus empelados públicos y los ejecutivos, de distintos colores políticos, reconocieron ese derecho a sus plantillas </h2><h2 class=\"item\">Feijóo acordó en 2019, cuando era presidente de la Xunta de Galicia, conceder a los empleados públicos gallegos el complemento por incapacidad temporal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El piso valorado en 12 millones de euros de la calle Serrano de Madrid que el Estado tiene sin uso desde hace años",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/pisos-vacios-propiedad-estado-vivienda-calle-serrano-madrid-132210101",
+    "pubDate": "2026-07-10 06:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">La vivienda, de más de mil metros cuadrados, lleva vacía desde hace al menos diez años cuando la Sociedad Estatal de Gestión Inmobiliaria de Patrimonio la sacó a subasta sin éxito por 5,3 millones de euros </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/patrimonio-estado-inmuebles-pisos-vacios-sin-utilizar-espana-132272212\" target=\"_blank\">El Estado cifra en más de 800 sus inmuebles sin uso repartidos por España: de viviendas a locales y párkings</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Estado cifra en más de 800 sus inmuebles sin uso repartidos por España: de viviendas a locales y plazas de párking",
+    "link": "https://www.elperiodico.com/es/sociedad/20260710/patrimonio-estado-inmuebles-pisos-vacios-sin-utilizar-espana-132272212",
+    "pubDate": "2026-07-10 06:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El inventario, al que ha tenido acceso EL PERIÓDICO, consta de viviendas y locales -la mayoría- , oficinas, parcelas y plazas de garaje, entre otros bienes</h2><h2 class=\"item\">Málaga, León y Tarragona son las provincias que acumulan más propiedades sin uso registrado </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/pisos-vacios-propiedad-estado-vivienda-calle-serrano-madrid-132210101\" target=\"_blank\">El Estado tiene un piso en desuso valorado en 12 millones de euros en la calle Serrano de Madrid</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hamás se enfrenta a su salida del Gobierno de la Franja en bancarrota y sangrando a impuestos a los gazatíes",
+    "link": "https://www.elperiodico.com/es/internacional/20260710/hamas-salida-gobierno-gaza-situacion-numero-soldados-132314012",
+    "pubDate": "2026-07-10 06:00:26",
+    "category": "",
+    "description": "<h2>\"Desde el alto el fuego, Hamás ha vuelto a imponer impuestos y comisiones sobre bienes importados, gravámenes de hasta alrededor del 30% sobre comerciantes\", explica el investigador Jaser Abu Mousa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Unión Europea busca crear un carnet de conducir conjunto para todos los conductores",
+    "link": "https://www.elperiodico.com/es/motor/20260710/union-europea-busca-crear-carnet-132212523",
+    "pubDate": "2026-07-10 06:00:24",
+    "category": "",
+    "description": "<h2>Tras 20 años de éxito el sistema se estanca y Bruselas busca un nuevo modelo válido para toda Europa</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un estudio identifica 30 suicidios durante el primer año posparto o tras una pérdida gestacional",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260710/estudio-identifica-30-suicidios-durante-131291935",
+    "pubDate": "2026-07-10 06:00:23",
+    "category": "",
+    "description": "<h2 class=\"item\">\"No teníamos datos de suicidio como una causa de muerte en el primer año posparto”, explica la autora del estudio</h2><h2 class=\"item\">La falta de datos puede estar invisibilizando muertes maternas y dificultando el diseño de políticas de prevención</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 9.07: плани ескалації та вимоги Кремля",
+    "link": "https://ua.korrespondent.net/ukraine/4893096-pidsumky-907-plany-eskalatsii-ta-vymohy-kremlia",
+    "pubDate": "2026-07-10 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485267.jpg\">Путін планує ескалацію війни - ЗМІ. Кремль відреагував на заяви Трампа щодо України. Лавров озвучив вимоги Кремля. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TVyMAS Viernes 10",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-viernes-10/132294344.shtml",
+    "pubDate": "2026-07-10 05:55:58",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Українські дрони позбавляють росіян човнів на Херсонщині - Атеш",
+    "link": "https://ua.korrespondent.net/ukraine/4893112-ukrainski-drony-pozbavliauit-rosiian-chovniv-na-khersonschyni-atesh",
+    "pubDate": "2026-07-10 05:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485519.jpg\">Човни російських окупантів палять один за одним, і завадити цьому нема чим, розповідає агент партизанського руху.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Directo guerra Ucrania - Rusia, última hora | Ucrania ataca depósitos de petróleo a orillas del Volga y en el Cáucaso",
+    "link": "https://www.elperiodico.com/es/internacional/20260710/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-07-10 05:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo. Última hora | EEUU e Irán intercambian ataques y reavivan el temor a una guerra abierta",
+    "link": "https://www.elperiodico.com/es/internacional/20260710/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-07-10 05:37:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Elegir el vehículo eléctrico adaptado a tus necesidades",
+    "link": "https://www.elperiodico.com/es/motor/20260710/elegir-vehiculo-electrico-adaptado-necesidades-bc-132282109",
+    "pubDate": "2026-07-10 05:30:00",
+    "category": "",
+    "description": "<h2>El interesado en adquirir un vehículo eléctrico tiene un buen número de elementos que considerar para realizar una compra acertada, desde la tecnología utilizada hasta la capacidad para recorrer distancias sin recargar. Sin embargo, bastará con analizar el factor de conducción relacionado con sus costumbres y usos para acertar con el modelo.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un enfermero del Centro de Esclerosis de la Comunidad de Madrid, acusado de agredir sexualmente a una paciente enferma de ELA",
+    "link": "https://www.elperiodico.com/es/sucesos/20260710/enfermero-agresion-sexual-paciente-ela-132313377",
+    "pubDate": "2026-07-10 05:00:24",
+    "category": "",
+    "description": "<h2>La mujer, de 65 años, denunció que, cuando el hombre fue a cambiarle el pañal de madrugada, se sacó el miembro viril, la lamió los pechos y la tocó por todo el cuerpo mientras le decía que se estuviera \"calladita\"</h2><h2>La policía detuvo al auxiliar de enfermería, un hombre casado de origen colombiano que mantiene su inocencia. El juez lo ha dejado en libertad a la espera de juicio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін поспішає використати останній шанс - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4893110-putin-pospishaie-vykorystaty-ostannii-shans-zmi",
+    "pubDate": "2026-07-10 04:56:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485478.jpg\">Головна ставка Путіна полягає в тому, щоб переконати Україну погодитися на вигідні РФ умови ще до зміни ситуації на полі бою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ізраїль попередив про новий план Ірану з убивства Трампа - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4893108-izrail-poperedyv-pro-novyi-plan-iranu-z-ubyvstva-trampa-zmi",
+    "pubDate": "2026-07-10 04:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4485437.jpg\">Іран протягом багатьох років відкрито заявляє про намір помститися Трампу, пише The Wall Street Journal.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Дрони успішно атакували Ільський НПЗ в Росії",
     "link": "https://ua.korrespondent.net/ukraine/4893106-drony-uspishno-atakuvaly-ilskyi-npz-v-rosii",
     "pubDate": "2026-07-10 03:58:00",
