@@ -1,10 +1,33 @@
-# News for 2026-07-10 14:31
+# News for 2026-07-10 17:18
 
 Previous day: [2026-07-09](./data/2026-07-09.md)
 
 ## ua.korrespondent.net
+17:08 [Сили оборони уразили 18 російських суден за добу](https://ua.korrespondent.net/ukraine/4893293-syly-oborony-urazyly-18-rosiiskykh-suden-za-dobu)<br>
+16:59 [У справі Мідас з'явилася нова підозра](https://ua.korrespondent.net/ukraine/4893291-u-spravi-midas-ziavylasia-nova-pidozra)<br>
+16:57 [Росія запускає до 25 дронів по одному енергооб’єкту за атаку](https://ua.korrespondent.net/ukraine/4893288-rosiia-zapuskaie-do-25-droniv-po-odnomu-enerhoobiektu-za-ataku)<br>
+16:50 [У Чорнобильській зоні загасили масштабну пожежу](https://ua.korrespondent.net/ukraine/4893286-u-chornobylskii-zoni-zahasyly-masshtabnu-pozhezhu)<br>
+16:44 [Туреччина шукає покупця для російських С-400](https://ua.korrespondent.net/world/4893284-turechchyna-shukaie-pokuptsia-dlia-rosiiskykh-s-400)<br>
+16:36 [Судитимуть військового, який за $20 тисяч "продавав" тилову посаду](https://ua.korrespondent.net/ukraine/4893282-sudytymut-viiskovoho-yakyi-za-20-tysiach-prodavav-tylovu-posadu)<br>
+16:28 [ЄС погодив відкриття шостого кластера для України](https://ua.korrespondent.net/world/4893279-yes-pohodyv-vidkryttia-shostoho-klastera-dlia-ukrainy)<br>
+16:24 [ЗСУ уразили логістику росіян під Донецьком](https://ua.korrespondent.net/ukraine/4893278-zsu-urazyly-lohistyku-rosiian-pid-donetskom)<br>
+16:21 [Подружжя агентів РФ отримало по 15 років за наведення ударів по Одесі](https://ua.korrespondent.net/ukraine/4893276-podruzhzhia-ahentiv-rf-otrymalo-po-15-rokiv-za-navedennia-udariv-po-odesi)<br>
+16:16 [Данія виділила 10 млн євро на підтримку енергетики України](https://ua.korrespondent.net/business/economics/4893274-daniia-vydilyla-10-mln-yevro-na-pidtrymku-enerhetyky-ukrainy)<br>
+16:09 [Військовий зі Скелі побив капелана та підполковника](https://ua.korrespondent.net/ukraine/4893270-viiskovyi-zi-skeli-pobyv-kapelana-ta-pidpolkovnyka)<br>
+15:59 [ЄС звинуватив Meta у "залежному" дизайні](https://ua.korrespondent.net/business/companies/4893272-yes-zvynuvatyv-Meta-u-zalezhnomu-dyzaini)<br>
+15:58 [У центрі Запоріжжя "приліт" КАБів, є жертви](https://ua.korrespondent.net/city/zaporozhye/4893268-u-tsentri-zaporizhzhia-prylit-kabiv-ye-zhertvy)<br>
+15:41 [Німеччина починає випуск наземних безпілотників для ЗСУ](https://ua.korrespondent.net/world/4893264-nimechchyna-pochynaie-vypusk-nazemnykh-bezpilotnykiv-dlia-zsu)<br>
+15:34 [Київський фунікулер закриють на ремонт](https://ua.korrespondent.net/city/kiev/4893263-kyivskyi-funikuler-zakryuit-na-remont)<br>
+15:32 [Росіяни посилюють тиск на Слов'янськ - Генштаб](https://ua.korrespondent.net/ukraine/4893262-rosiiany-posyluiuit-tysk-na-sloviansk-henshtab)<br>
+15:25 [Гнів Z-блогерів. Пряма критика Путіна](https://ua.korrespondent.net/world/russia/4893260-hniv-Z-bloheriv-priama-krytyka-putina)<br>
+15:13 [Болгарія підтримає новий пакет санкцій проти Росії](https://ua.korrespondent.net/world/4893258-bolhariia-pidtrymaie-novyi-paket-sanktsii-proty-rosii)<br>
+15:03 [Супутник показав наслідки ударів по танкерам Росії](https://ua.korrespondent.net/ukraine/4893254-suputnyk-pokazav-naslidky-udariv-po-tankeram-rosii)<br>
+14:56 [У ЄС різко впала кількість нелегальних перетинів кордонів](https://ua.korrespondent.net/world/4893250-u-yes-rizko-vpala-kilkist-nelehalnykh-peretyniv-kordoniv)<br>
+14:47 [Напад на ТЦК у Львові: з’явилися нові підозрювані](https://ua.korrespondent.net/ukraine/4893249-napad-na-ttsk-u-lvovi-ziavylysia-novi-pidozruivani)<br>
+14:47 [У Росії заарештували відомого Z-блогера](https://ua.korrespondent.net/world/russia/4893248-u-rosii-zaareshtuvaly-vidomoho-Z-blohera)<br>
 14:27 [Коаліція охочих проведе парад у Парижі](https://ua.korrespondent.net/world/4893244-koalitsiia-okhochykh-provede-parad-u-paryzhi)<br>
 14:27 [Удар Іскандером по поминках у Грозі: встановлено імена організаторів атаки](https://ua.korrespondent.net/ukraine/4893245-udar-iskanderom-po-pomynkakh-u-hrozi-vstanovleno-imena-orhanizatoriv-ataky)<br>
+14:27 [Коаліція охочих проведе військовий парад у Парижі](https://ua.korrespondent.net/world/4893244-koalitsiia-okhochykh-provede-viiskovyi-parad-u-paryzhi)<br>
 14:11 [Уряд Росії вперше визнав дефіцит пального](https://ua.korrespondent.net/world/russia/4893241-uriad-rosii-vpershe-vyznav-defitsyt-palnoho)<br>
 14:10 [З України хотіли вивезти до Таїланду унікальну ікону XIX століття](https://ua.korrespondent.net/ukraine/4893242-z-ukrainy-khotily-vyvezty-do-tailandu-unikalnu-ikonu-XIX-stolittia)<br>
 13:59 ["Найсмертоносніша" пожежа в Іспанії: люди гинуть у вогняній пастці](https://ua.korrespondent.net/world/4893238-naismertonosnisha-pozhezha-v-ispanii-luidy-hynut-u-vohnianii-pasttsi)<br>
@@ -68,11 +91,39 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 00:46 [РФ атакувала Харківщину: є загибла й потерпілі](https://ua.korrespondent.net/ukraine/4893092-rf-atakuvala-kharkivschynu-ye-zahybla-y-poterpili)<br>
 
 ## as.com
+16:16 [El Barça se desangra: Shengelia puede acabar en el Olympiacos](https://as.com/baloncesto/euroliga/el-barca-se-desangra-shengelia-puede-acabar-en-el-olympiacos-f202607-n/)<br>
+14:28 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 11:26 [Parra disipa las dudas y firma hasta 2030](https://as.com/baloncesto/parra-disipa-las-dudas-y-firma-hasta-2030-f202607-n/)<br>
 10:48 [Bruno Fernando también se une al Efes de Laso](https://as.com/baloncesto/euroliga/bruno-fernando-tambien-se-une-al-efes-de-laso-f202607-n/)<br>
 10:20 [Moses Wright se escapa](https://as.com/baloncesto/moses-wright-se-escapa-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:15 [Muere un temporero de 64 años en Seròs (Segrià) mientras recogía fruta a más de 40 grados](https://www.elperiodico.com/es/videos/economia/muere-temporero-64-anos-seros/132337819.shtml)<br>
+17:15 [Estas son las diferencias entre deshidratación, agotamiento y golpe de calor: así puedes identificarlos](https://www.elperiodico.com/es/salud/20260710/tiempo-golpe-calor-deshidratacion-agotamiento-diferencias-dv-132167264)<br>
+17:12 [El Ayuntamiento de Tarragona reparte cerca de 23.000 gafas gratuitas para ver el eclipse solar del 12 de agosto](https://www.elperiodico.com/es/tarragona/20260710/tarragona-reparte-cerca-gafas-eclipse-solar-agosto-132337633)<br>
+17:06 [La alineación más estelar: este fin de semana la Luna, Marte, Saturno y Urano se dejarán ver juntos antes del amanecer](https://www.elperiodico.com/es/sociedad/20260710/luna-marte-saturno-urano-alineacion-amanecer-132335671)<br>
+16:52 [Cobardes antes que españoles](https://www.elperiodico.com/es/opinion/20260710/cobardes-espanoles-giorgia-meloni-donald-trump-articulo-ernest-folch-132336894)<br>
+16:51 [Una reacción por la mezcla de productos químicos en la piscina municipal de La Bisbal del Penedès deja diecisiete heridos](https://www.elperiodico.com/es/sucesos/20260710/reaccion-mezcla-productos-quimicos-piscina-bisbal-penedes-132336890)<br>
+16:47 [MAPA | ¿Por qué los incendios de Catalunya no han sido aún peores?: talas de árboles y cultivo de viñedos](https://www.elperiodico.com/es/sociedad/20260710/gestion-forestal-evitar-consecuencias-peores-incendios-forestales-132327914)<br>
+16:46 [La Fiscalía no ve indefensión para Zapatero en mantener su declaración sobre las joyas](https://www.elperiodico.com/es/politica/20260710/fiscalia-ve-indefension-zapatero-mantener-132336908)<br>
+16:43 [Incendios forestales mortales en Almería](https://www.elperiodico.com/es/fotos/en-imagenes/incendios-forestales-mortales-almeria-fotos-132336403)<br>
+16:41 [Suspenden el ingreso en prisión de Diego El Cigala por su condena de malos tratos](https://www.elperiodico.com/es/sociedad/20260710/suspenden-ingreso-prision-diego-cigala-132336750)<br>
+16:41 [Muere un temporero de 64 años en Seròs (Segrià) mientras recogía fruta a más de 40 grados](https://www.elperiodico.com/es/economia/20260710/muere-temporero-seros-segria-recogia-fruta-golpe-calor-132336312)<br>
+16:32 [Un material bastante decente, por Enrique Ballester](https://www.elperiodico.com/es/deportes/20260710/material-decente-enrique-ballester-barraca-y-tangana-132336055)<br>
+16:19 [Un misterio en Cádiz](https://www.elperiodico.com/es/opinion/20260710/misterio-cadiz-fenicio-articulo-jordi-punti-132335680)<br>
+16:18 [Incendio de Almería: el 'factor burbuja' de la comunidad británica residente en la zona se convirtió en una trampa mortal](https://www.elperiodico.com/es/sociedad/20260710/incendio-almeria-factor-burbuja-comunidad-britanicos-ingleses-trampa-mortal-132333862)<br>
+16:15 [El aviso del asesor fiscal José Ramón López Martínez sobre cobrar en 12 o 14 pagas: "Tiene bastantes más inconvenientes"](https://www.elperiodico.com/es/economia/20260710/aviso-asesor-fiscal-jose-ramon-cobrar-12-14-pagas-dv-et-132294366)<br>
+16:15 [Carlos Llull, experto en aire acondicionado, alerta de este error: "La habitación volverá a calentarse y a las 3 te despiertas sudando"](https://www.elperiodico.com/es/vida-y-estilo/20260710/carlos-llull-experto-aire-acondicionado-calor-vivienda-dv-et-132095770)<br>
+16:15 [Franc Molinos (38 años), tras siete años viviendo en un camión con sus perros: "Llevo siete años sin pagar alquiler, no pago luz y apenas pago agua"](https://www.elperiodico.com/es/economia/20260710/franc-molinos-38-anos-viviendo-camion-siete-anos-sin-pagar-alquiler-dv-et-132099123)<br>
+16:14 [Confinados por el fuego Verdú, Tàrrega, Vilagrassa, Granyanella y Mas de Bondia (Lleida)](https://www.elperiodico.com/es/videos/sociedad/confinados-fuego-verdu-tarrega-vilagrassa/132335704.shtml)<br>
+16:07 [Luis Argüello, redentor crucificado](https://www.elperiodico.com/es/opinion/20260710/luis-arguello-redentor-crucificado-articulo-josep-cuni-132335261)<br>
+16:04 [FIATC dará nombre al Bàsquet Girona en la Liga Endesa](https://www.elperiodico.com/es/deportes/20260710/fiatc-dara-nombre-basquet-girona-132335263)<br>
+16:00 [Maria Bescanó, activista de Obertament: "Convivo con una psicosis y el amor no se escapa"](https://www.elperiodico.com/es/ser-feliz/20260710/maria-bescano-activista-obertament-convivo-132268434)<br>
+15:41 [El calor extremo de julio y la segunda ola de calor ya dejan al menos 622 muertes prematuras en España, de las cuales 126 solo en Catalunya](https://www.elperiodico.com/es/videos/sociedad/calor-extremo-julio-segunda-ola/132334643.shtml)<br>
+15:31 [La nueva potabilizadora de agua de Sant Feliu abastecerá al 15% de la población metropolitana](https://www.elperiodico.com/es/barcelona/20260710/nueva-potabilizadora-agua-sant-feliu-parque-pozos-potable-amb-vecinos-sequia-govern-132334418)<br>
+15:26 [De Ankara a Ormuz](https://www.elperiodico.com/es/opinion/20260710/ankara-ormuz-donald-trump-articulo-josep-borrell-132333774)<br>
+15:21 [El Tapiz de Bayeux llega al British Museum tras un traslado épico y secreto desde Francia](https://www.elperiodico.com/es/ocio-y-cultura/20260710/tapiz-bayeux-llega-british-museum-132334107)<br>
+15:09 [Por qué el incendio de Los Gallardos se ha extendido tan rápido: viento, calor y un terreno escarpado](https://www.elperiodico.com/es/sociedad/20260710/incendio-gallardos-extendido-rapido-viento-calor-terreno-escarpado-132333742)<br>
 14:26 [Hacienda reitera a las comunidades su voluntad a incluir cambios en el modelo de financiación tras remitirles el borrador](https://www.elperiodico.com/es/politica/20260710/hacienda-comunidades-incluir-cambios-financiacion-132332105)<br>
 14:16 [Mapa del incendio de Los Gallardos, en Almería: dónde se sitúa el fuego y qué zonas están afectadas](https://www.elperiodico.com/es/sociedad/20260710/mapa-incendio-gallardos-almeria-132331671)<br>
 14:08 [Juanma Moreno sobre el fuego de Los Gallardos (Almería): "Es una bomba de relojería, uno de los incendios más complicados de los últimos años"](https://www.elperiodico.com/es/sociedad/20260710/juanma-moreno-fuego-gallardos-almeria-bomba-relojeria-132331203)<br>
