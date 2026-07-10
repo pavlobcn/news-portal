@@ -1,8 +1,9 @@
-# News for 2026-07-10 23:34
+# News for 2026-07-11 00:38
 
 Previous day: [2026-07-09](./data/2026-07-09.md)
 
 ## ua.korrespondent.net
+23:53 [РФ, ймовірно, готує запуск аналога Starlink – ЗМІ](https://ua.korrespondent.net/world/russia/4893372-rf-ymovirno-hotuie-zapusk-analoha-Starlink-zmi)<br>
 23:27 [Зеленський і конгресмен Маккол обговорили результати саміту НАТО](https://ua.korrespondent.net/ukraine/4893370-zelenskyi-i-konhresmen-makkol-obhovoryly-rezultaty-samitu-nato)<br>
 22:58 [Штурми і діпстрайки. Нові сили в ЗСУ](https://ua.korrespondent.net/ukraine/4893368-shturmy-i-dipstraiky-novi-syly-v-zsu)<br>
 22:52 [На Волині проведуть ексгумацію останків поляків](https://ua.korrespondent.net/ukraine/dennezavisimosti2014/4893364-na-volyni-provedut-ekshumatsiui-ostankiv-poliakiv)<br>
@@ -123,6 +124,7 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 00:46 [РФ атакувала Харківщину: є загибла й потерпілі](https://ua.korrespondent.net/ukraine/4893092-rf-atakuvala-kharkivschynu-ye-zahybla-y-poterpili)<br>
 
 ## as.com
+23:40 [Sorpresa mayúscula: Osman deja el PAO… para irse al PAOK](https://as.com/baloncesto/euroliga/sorpresa-mayuscula-osman-deja-el-pao-para-irse-al-paok-f202607-n/)<br>
 21:48 [España, a semifinales del Eurobasket](https://as.com/baloncesto/mas_baloncesto/espana-a-semifinales-del-eurobasket-f202607-n/)<br>
 18:07 [El Joventut anuncia su tercer fichaje: Emir Sulejmanovic](https://as.com/baloncesto/acb/el-joventut-anuncia-su-tercer-fichaje-emir-sulejmanovic-f202607-n/)<br>
 16:16 [El Barça se desangra: Shengelia puede acabar en el Olympiacos](https://as.com/baloncesto/euroliga/el-barca-se-desangra-shengelia-puede-acabar-en-el-olympiacos-f202607-n/)<br>
@@ -132,6 +134,8 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 10:20 [Moses Wright se escapa](https://as.com/baloncesto/moses-wright-se-escapa-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:58 [Apple demanda a OpenAI por el supuesto robo de secretos comerciales de dispositivos iPhone](https://www.elperiodico.com/es/tecnologia/20260710/apple-demanda-openai-supuesto-robo-132349087)<br>
+23:50 [Investigan un posible caso de fiebre hemorrágica Crimea-Congo en Catalunya](https://www.elperiodico.com/es/sociedad/20260710/investigan-posible-caso-fiebre-hemorragica-crimea-congo-catalunya-132348715)<br>
 22:04 [VÍDEO | Juanma Moreno confirma 12 muertos y 23 personas sin localizar](https://www.elperiodico.com/es/videos/sociedad/video-juanma-moreno-confirma-12/132346915.shtml)<br>
 22:02 [VÍDEO | La Guardia Civil realiza batidas para la localización de posibles desaparecidos](https://www.elperiodico.com/es/videos/sociedad/video-guardia-civil-realiza-batidas/132346835.shtml)<br>
 21:30 [¿Puede un vecino llevar todos los invitados que quiera a la piscina? Esto es lo que dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260710/vecino-invitados-piscina-comunitaria-ley-propiedad-horizontal-dv-132294658)<br>
