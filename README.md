@@ -1,8 +1,15 @@
-# News for 2026-07-10 19:16
+# News for 2026-07-10 20:51
 
 Previous day: [2026-07-09](./data/2026-07-09.md)
 
 ## ua.korrespondent.net
+20:43 [Пасажира затягнуло у розбите вікно літака Ryanair](https://ua.korrespondent.net/world/4893347-pasazhyra-zatiahnulo-u-rozbyte-vikno-litaka-Ryanair)<br>
+20:39 [Китай вперше успішно повернув ракету після орбітального запуску](https://ua.korrespondent.net/tech/space/4893344-kytai-vpershe-uspishno-povernuv-raketu-pislia-orbitalnoho-zapusku)<br>
+20:26 [ЄС пом'якшив 21-й пакет санкцій проти Росії - ЗМІ](https://ua.korrespondent.net/world/4893339-yes-pomiakshyv-21-y-paket-sanktsii-proty-rosii-zmi)<br>
+19:59 [Створено командування далекобійних ударів по РФ](https://ua.korrespondent.net/ukraine/4893335-stvoreno-komanduvannia-dalekobiinykh-udariv-po-rf)<br>
+19:30 [Санкції проти РФ і Patriot: Зеленський зустрівся з сенатором Гремом](https://ua.korrespondent.net/ukraine/4893331-sanktsii-proty-rf-i-Patriot-zelenskyi-zustrivsia-z-senatorom-hremom)<br>
+19:12 [Для Гази набрали в 1000 разів менше солдатів, ніж планував Трамп](https://ua.korrespondent.net/world/4893328-dlia-hazy-nabraly-v-1000-raziv-menshe-soldativ-nizh-planuvav-tramp)<br>
+19:11 [Росіяни кілька разів поспіль били по Краматорську](https://ua.korrespondent.net/ukraine/4893327-rosiiany-kilka-raziv-pospil-byly-po-kramatorsku)<br>
 19:10 [У Японії виявили підводне родовище з рекордною концентрацією золота](https://ua.korrespondent.net/world/4893325-u-yaponii-vyiavyly-pidvodne-rodovysche-z-rekordnoui-kontsentratsiieui-zolota)<br>
 18:56 [Україна отримала $3,35 млрд від Світового банку](https://ua.korrespondent.net/business/financial/4893323-ukraina-otrymala-335-mlrd-vid-svitovoho-banku)<br>
 18:44 [Зеленський візьме участь у Коаліції охочих](https://ua.korrespondent.net/ukraine/4893319-zelenskyi-vizme-uchast-u-koalitsii-okhochykh)<br>
@@ -113,6 +120,13 @@ Previous day: [2026-07-09](./data/2026-07-09.md)
 10:20 [Moses Wright se escapa](https://as.com/baloncesto/moses-wright-se-escapa-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:36 [Aprender de la tragedia](https://www.elperiodico.com/es/opinion/20260710/aprender-tragedia-incendio-almeria-editorial-132344239)<br>
+20:30 [La OCU avisa: esta tarjeta bancaria no la recomienda "en absoluto"](https://www.elperiodico.com/es/economia/20260710/ocu-avisa-tarjeta-bancaria-desaconseja-dv-131770253)<br>
+20:13 [Muere Wally Funk, pionera de la aviación y la mujer de mayor edad en viajar al espacio](https://www.elperiodico.com/es/ciencia/20260710/muere-wally-funk-pionera-aviacion-jeff-bezos-132343469)<br>
+20:08 [Desalojados por el incendio de Los Gallardos: "No tuvimos otra opción, tuvimos que dejar nuestra casa"](https://www.elperiodico.com/es/sociedad/20260710/desalojados-incendio-gallardos-tuvimos-opcion-132343823)<br>
+20:00 [El ministro Hereu inaugura el nuevo Foro de la Colonia de Tarragona tras la transformación urbanística](https://www.elperiodico.com/es/tarragona/20260710/ministro-hereu-inaugura-nuevo-foro-colonia-tarragona-132331458)<br>
+20:00 [Luis Sentis, experto en robótica: "Los robots solo tienen sentido si mejoran la vida de las personas"](https://www.elperiodico.com/es/sociedad/20260710/luis-sentis-robots-mejorar-vida-personas-132319225)<br>
+19:40 [Una vecina británica que escapó del incendio de Almería: "De golpe, el fuego se abalanzó sobre el coche, escapé por muy poco"](https://www.elperiodico.com/es/sociedad/20260710/vecina-britanica-escapo-incendio-almeria-llamas-carretera-gallardo-132342227)<br>
 18:28 [Muere Jordi Borja, urbanista clave de Barcelona y referente del progresismo barcelonés](https://www.elperiodico.com/es/barcelona/20260710/muere-jordi-borja-urbanista-clave-progresismo-barcelona-132336865)<br>
 18:25 [La nueva potabilizadora de Aigües de Barcelona y Veolia entra en funcionamiento tras una inversión de 45,9 millones](https://www.elperiodico.com/es/economia/20260710/nueva-potabilizadora-aigues-barcelona-veolia-132339070)<br>
 18:19 [La Audiencia Nacional da la razón a Iberdrola y evita una multa de la CNMC por 25 millones](https://www.elperiodico.com/es/politica/20260710/audiencia-nacional-da-razon-iberdrola-multa-25-millones-cnmc-132340585)<br>
