@@ -1,11 +1,16 @@
-# News for 2026-07-11 20:10
+# News for 2026-07-11 21:33
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+21:29 [Зеленський анонсував зміни на дипломатичних напрямах](https://ua.korrespondent.net/ukraine/4893508-zelenskyi-anonsuvav-zminy-na-dyplomatychnykh-napriamakh)<br>
+21:00 [Навроцький виступає за заборону в Польщі червоно-чорного прапора](https://ua.korrespondent.net/world/4893505-navrotskyi-vystupaie-za-zaboronu-v-polschi-chervono-chornoho-prapora)<br>
+20:35 [Зеленський: Україна та Польща мають одну спільну загрозу](https://ua.korrespondent.net/ukraine/4893501-zelenskyi-ukraina-ta-polscha-mauit-odnu-spilnu-zahrozu)<br>
+20:10 [Зеленський про Вишневе: розслідуємо дії посадовців](https://ua.korrespondent.net/ukraine/4893497-zelenskyi-pro-vyshneve-rozsliduiemo-dii-posadovtsiv)<br>
 19:45 [У Німеччині сталися дві пожежі на залізниці](https://ua.korrespondent.net/world/4893493-u-nimechchyni-stalysia-dvi-pozhezhi-na-zaliznytsi)<br>
 19:20 [Авіаудар по Слов'янську: є жертва і поранені](https://ua.korrespondent.net/ukraine/4893491-aviaudar-po-sloviansku-ye-zhertva-i-poraneni)<br>
 18:55 [Російські КАБи атаркували Запоріжжя: поранено трьох жінок](https://ua.korrespondent.net/city/zaporozhye/4893486-rosiiski-kaby-atarkuvaly-zaporizhzhia-poraneno-trokh-zhinok)<br>
+18:55 [Російські КАБи атакували Запоріжжя: поранено трьох жінок](https://ua.korrespondent.net/city/zaporozhye/4893486-rosiiski-kaby-atakuvaly-zaporizhzhia-poraneno-trokh-zhinok)<br>
 18:30 [Атаки РФ на Харків та Ізюм: семеро поранених](https://ua.korrespondent.net/city/kharkov/4893484-ataky-rf-na-kharkiv-ta-izuim-semero-poranenykh)<br>
 18:05 [ЄС планує змінити правила надання тимчасового захисту українцям](https://ua.korrespondent.net/world/worldabus/4893479-yes-planuie-zminyty-pravyla-nadannia-tymchasovoho-zakhystu-ukraintsiam)<br>
 17:40 [Через російську атаку частина Сум залишилася без води](https://ua.korrespondent.net/ukraine/4893476-cherez-rosiisku-ataku-chastyna-sum-zalyshylasia-bez-vody)<br>
@@ -56,6 +61,10 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 10:45 [El Valencia ficha a Saint-Supéry por cuatro temporadas](https://as.com/baloncesto/el-valencia-ficha-a-saint-supery-por-cuatro-temporadas-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:47 [Declaración de Gonzalo Fraga, inspector jefe de la Unidad de Asuntos Internos (UAI) de la Policía Nacional.](https://www.elperiodico.com/es/videos/politica/declaracion-gonzalo-fraga-inspector-jefe/132364298.shtml)<br>
+20:30 [Un incendio en Camarasa (Lleida) amenaza el espacio natural protegido del Aiguabarreig Segre-Noguera Pallaresa](https://www.elperiodico.com/es/sociedad/20260711/incendio-camarasa-entra-espacio-natural-132367082)<br>
+20:23 [El incendio de Los Gallardos (Almería) no avanza y la perspectiva de estabilización es favorable](https://www.elperiodico.com/es/sociedad/20260711/incendio-gallardos-almeria-avanza-perspectiva-132368205)<br>
+20:19 [Detenido el 'Joker' de Pamplona por grabarse durante un encierro de los Sanfermines](https://www.elperiodico.com/es/sociedad/20260711/detenido-joker-pamplona-grabarse-sanfermin-132367938)<br>
 19:45 [Alfonso Muñoz, especialista en pensiones, sobre cómo aumentar el importe de la jubilación: "Con 15 años cotizados únicamente se tiene derecho al 50% de la base reguladora"](https://www.elperiodico.com/es/economia/20260711/jubilacion-pension-anos-cotizados-seguridad-social-dv-et-132205764)<br>
 19:41 [Venezuela estima en 25.000 las viviendas que se necesitarán para los afectados por los terremotos](https://www.elperiodico.com/es/internacional/20260711/venezuela-estima-25-000-viviendas-132367503)<br>
 19:34 [El Liceu se transforma en obra de arte](https://www.elperiodico.com/es/ocio-y-cultura/20260711/liceu-transforma-obra-arte-132364102)<br>
