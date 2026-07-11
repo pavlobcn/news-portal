@@ -1,8 +1,15 @@
-# News for 2026-07-11 06:32
+# News for 2026-07-11 08:41
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+08:22 [Росія била ракетами і дронами: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4893413-rosiia-byla-raketamy-i-dronamy-yak-spratsuivala-ppo)<br>
+08:00 [Іран міг розпочати відбудову ядерних об'єктів - ЗМІ](https://ua.korrespondent.net/world/4893410-iran-mih-rozpochaty-vidbudovu-yadernykh-obiektiv-zmi)<br>
+07:46 [Наслідки "прильотів" у Києві показали на відео](https://ua.korrespondent.net/city/kiev/4893408-naslidky-prylotiv-u-kyievi-pokazaly-na-video)<br>
+07:23 [На чотирьох напрямках доба без атак РФ - Генштаб](https://ua.korrespondent.net/ukraine/4893405-na-chotyrokh-napriamkakh-doba-bez-atak-rf-henshtab)<br>
+06:59 [В Україні провели десятки трансплантацій серця з початку року](https://ua.korrespondent.net/ukraine/4893402-v-ukraini-provely-desiatky-transplantatsii-sertsia-z-pochatku-roku)<br>
+06:45 [Генштаб назвав втрати Росії станом на 11 липня](https://ua.korrespondent.net/ukraine/4893399-henshtab-nazvav-vtraty-rosii-stanom-na-11-lypnia)<br>
+06:27 [У Києві постраждала дитина під час ракетного удару](https://ua.korrespondent.net/city/kiev/4893397-u-kyievi-postrazhdala-dytyna-pid-chas-raketnoho-udaru)<br>
 05:27 [США вимагають від Ірану заяви щодо Ормузу](https://ua.korrespondent.net/world/4893390-ssha-vymahauit-vid-iranu-zaiavy-schodo-ormuzu)<br>
 04:48 [Удар по Києву: названо число поранених](https://ua.korrespondent.net/city/kiev/4893394-udar-po-kyievu-nazvano-chyslo-poranenykh)<br>
 04:20 [Кубу вдруге за тиждень накрив масштабний блекаут](https://ua.korrespondent.net/world/4893392-kubu-vdruhe-za-tyzhden-nakryv-masshtabnyi-blekaut)<br>
@@ -16,6 +23,20 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 00:21 [Нещадно бомбити: Трамп заявив, що дав інструкції на випадок свого вбивства](https://ua.korrespondent.net/world/4893374-neschadno-bombyty-tramp-zaiavyv-scho-dav-instruktsii-na-vypadok-svoho-vbyvstva)<br>
 
 ## www.elperiodico.com
+08:38 [Mónica de la Peña, neumóloga: "Es peor dormir mal que tener el aire acondicionado encendido toda la noche"](https://www.elperiodico.com/es/sociedad/20260711/monica-pena-neumologa-peor-dormir-mal-aire-acondicionado-noche-calor-132352864)<br>
+08:37 [Mucho peligro con los toros de Escolar en el quinto encierro de los Sanfermines](https://www.elperiodico.com/es/sociedad/20260711/peligro-toros-escolar-quinto-encierro-sanfermines-132352922)<br>
+08:35 [Nerea (27 años), albañil española en Australia: "Cobro 4.465 dólares australianos brutos, unos 2.140 euros netos limpios en dos semanas"](https://www.elperiodico.com/es/economia/20260711/nerea-27-anos-albanil-australia-2140-euros-netos-salarios-dv-et-132098707)<br>
+08:25 [Terremoto en Venezuela, en directo](https://www.elperiodico.com/es/internacional/20260711/terremoto-venezuela-directo-muertos-desaparecidos-131789417)<br>
+08:21 [Baltasar Garzón: "Hay inquina contra Sánchez, el caso Begoña Gómez no habría llegado tan lejos si no fuese su mujer"](https://www.elperiodico.com/es/politica/20260711/baltasar-garzon-inquina-sanchez-caso-begona-gomez-132352800)<br>
+08:20 [Expertas en cosmética coinciden: "El factor de protección solar 50 no significa protección infinita"](https://www.elperiodico.com/es/salud/20260711/proteccion-solar-spf-50-indice-uv-expertas-cosmetica-dv-et-132211391)<br>
+08:19 [Incendio forestal en Los Gallardos (Almería), última hora en directo: cifra de muertos, heridos, desaparecidos y causa del fuego](https://www.elperiodico.com/es/sociedad/20260711/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+08:15 [Incendios hoy, 11 de julio, en Almería, Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260711/incendios-hoy-11-julio-almeria-cataluna-espana-mapa-fuegos-activos-dv-132352693)<br>
+08:11 [Guerra de Irán, en directo. Última hora](https://www.elperiodico.com/es/internacional/20260711/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+08:00 [En directo | Última hora del incendio en Los Gallardos (Almería), que deja 12 muertos](https://www.elperiodico.com/es/sociedad/20260711/directo-ultima-hora-muertos-incendio-gallardos-almeria-132317696)<br>
+07:15 [¿Cuántas olas de calor habrá este verano en España? La crisis climática cambia el tablero de juego y aumenta el riesgo de episodios extremos](https://www.elperiodico.com/es/sociedad/20260711/olas-calor-verano-espana-prevision-cambio-climatico-132329696)<br>
+07:01 [El nuevo confinamiento](https://www.elperiodico.com/es/opinion/20260711/nuevo-confinamiento-132310650)<br>
+07:00 [La IA deja el chat y entra en el día a día: la nueva fase será gestionar pagos, WhatsApp y tareas cotidianas](https://www.elperiodico.com/es/tecnologia/20260711/ia-deja-chat-entra-en-tareas-cotidianas-132335760)<br>
+07:00 [Tirano de Bergerac](https://www.elperiodico.com/es/deportes/20260711/tirano-bergerac-tourmalet-indurain-pogacar-sergi-lopez-egea-132335557)<br>
 06:00 [Todos los caminos llevan a la 'Odisea', la aventura de volver a casa con la que nació la literatura occidental](https://www.elperiodico.com/es/ocio-y-cultura/20260711/caminos-llevan-odisea-aventura-volver-131982927)<br>
 06:00 [Carmen Zapata, 'alcaldesa' de la Noche: "Barcelona cada vez tendrá más actividad nocturna, pero ahora no necesita más discotecas"](https://www.elperiodico.com/es/barcelona/20260711/carmen-zapata-alcaldesa-noche-barcelona-132329605)<br>
 06:00 [Háblame, Musa, en verso y en catalán: el reto de viajar a Ítaca con una lengua "viva, rica y accesible"](https://www.elperiodico.com/es/ocio-y-cultura/20260711/odisea-catalan-traduccion-pau-sabate-132167134)<br>
