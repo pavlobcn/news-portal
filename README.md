@@ -1,8 +1,10 @@
-# News for 2026-07-11 23:25
+# News for 2026-07-12 00:23
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+23:59 [ЗМІ оцінили ситуацію з боями в Костянтинівці](https://ua.korrespondent.net/world/worldabus/4893523-zmi-otsinyly-sytuatsiui-z-boiamy-v-kostiantynivtsi)<br>
+23:44 [Землетруси у Венесуелі: число загиблих сягло 4300 осіб](https://ua.korrespondent.net/world/4893521-zemletrusy-u-venesueli-chyslo-zahyblykh-siahlo-4300-osib)<br>
 22:58 [Екс-комбригу 155 ОМБр оголосили підозру](https://ua.korrespondent.net/ukraine/4893518-eks-kombryhu-155-ombr-oholosyly-pidozru)<br>
 22:33 [В Білій Церкві сталася стрільба: постраждав юнак](https://ua.korrespondent.net/ukraine/4893515-v-bilii-tserkvi-stalasia-strilba-postrazhdav-yunak)<br>
 21:58 [Від початку доби відбулося 215 боєзіткнень](https://ua.korrespondent.net/ukraine/4893513-vid-pochatku-doby-vidbulosia-215-boiezitknen)<br>
@@ -57,6 +59,7 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 00:21 [Нещадно бомбити: Трамп заявив, що дав інструкції на випадок свого вбивства](https://ua.korrespondent.net/world/4893374-neschadno-bombyty-tramp-zaiavyv-scho-dav-instruktsii-na-vypadok-svoho-vbyvstva)<br>
 
 ## as.com
+23:31 [España barre a Alemania en el estreno mundialista](https://as.com/baloncesto/mas_baloncesto/espana-barre-a-alemania-en-el-estreno-mundialista-f202607-n/)<br>
 22:04 [España tendrá que luchar por el bronce sub-20 femenino](https://as.com/baloncesto/mas_baloncesto/espana-tendra-que-luchar-por-el-bronce-sub-20-f202607-n/)<br>
 18:09 [España cumple ante Bélgica en su estreno en el Eurobasket](https://as.com/baloncesto/mas_baloncesto/la-seleccion-sub-20-cumple-ante-belgica-en-su-estreno-en-el-eurobasket-f202607-n/)<br>
 16:42 [Mario Saint-Supéry, la cronología de un bochorno](https://as.com/baloncesto/mario-saint-supery-la-cronologia-de-un-bochorno-f202607-n/)<br>
