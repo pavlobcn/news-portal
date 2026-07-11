@@ -1,8 +1,10 @@
-# News for 2026-07-11 22:28
+# News for 2026-07-11 23:25
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+22:58 [Екс-комбригу 155 ОМБр оголосили підозру](https://ua.korrespondent.net/ukraine/4893518-eks-kombryhu-155-ombr-oholosyly-pidozru)<br>
+22:33 [В Білій Церкві сталася стрільба: постраждав юнак](https://ua.korrespondent.net/ukraine/4893515-v-bilii-tserkvi-stalasia-strilba-postrazhdav-yunak)<br>
 21:58 [Від початку доби відбулося 215 боєзіткнень](https://ua.korrespondent.net/ukraine/4893513-vid-pochatku-doby-vidbulosia-215-boiezitknen)<br>
 21:29 [Зеленський анонсував зміни на дипломатичних напрямах](https://ua.korrespondent.net/ukraine/4893508-zelenskyi-anonsuvav-zminy-na-dyplomatychnykh-napriamakh)<br>
 21:00 [Навроцький виступає за заборону в Польщі червоно-чорного прапора](https://ua.korrespondent.net/world/4893505-navrotskyi-vystupaie-za-zaboronu-v-polschi-chervono-chornoho-prapora)<br>
