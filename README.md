@@ -1,8 +1,10 @@
-# News for 2026-07-11 16:58
+# News for 2026-07-11 18:02
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+17:40 [Через російську атаку частина Сум залишилася без води](https://ua.korrespondent.net/ukraine/4893476-cherez-rosiisku-ataku-chastyna-sum-zalyshylasia-bez-vody)<br>
+17:15 [Зросла кількість жертв атаки на Суми](https://ua.korrespondent.net/ukraine/4893473-zrosla-kilkist-zhertv-ataky-na-sumy)<br>
 16:50 [РФ атакували Київ балістикою, начиненою шрапнеллю - голова РДА](https://ua.korrespondent.net/kyiv/4893470-rf-atakuvaly-kyiv-balistykoui-nachynenoui-shrapnellui-holova-rda)<br>
 16:25 [РФ будує новий військовий гарнізон біля кордону з Фінляндією](https://ua.korrespondent.net/world/russia/4893468-rf-buduie-novyi-viiskovyi-harnizon-bilia-kordonu-z-finliandiieui)<br>
 16:00 [Через тайфун Баві в Китаї евакуювали сотні тисяч людей](https://ua.korrespondent.net/world/4893466-cherez-taifun-bavi-v-kytai-evakuuivaly-sotni-tysiach-luidei)<br>
@@ -42,10 +44,22 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 00:21 [Нещадно бомбити: Трамп заявив, що дав інструкції на випадок свого вбивства](https://ua.korrespondent.net/world/4893374-neschadno-bombyty-tramp-zaiavyv-scho-dav-instruktsii-na-vypadok-svoho-vbyvstva)<br>
 
 ## as.com
+16:42 [Mario Saint-Supéry, la cronología de un bochorno](https://as.com/baloncesto/mario-saint-supery-la-cronologia-de-un-bochorno-f202607-n/)<br>
 14:07 [La Selección femenina apunta alto en el Mundial Sub-17](https://as.com/baloncesto/mas_baloncesto/la-seleccion-femenina-apunta-alto-en-el-mundial-sub-17-f202607-n/)<br>
+14:07 [Mike James ficha por el Efes tras el plantón del Barça](https://as.com/baloncesto/mike-james-ficha-por-el-efes-tras-el-planton-del-barca-f202607-n/)<br>
 10:45 [El Valencia ficha a Saint-Supéry por cuatro temporadas](https://as.com/baloncesto/el-valencia-ficha-a-saint-supery-por-cuatro-temporadas-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:59 [Las pruebas descartan la fiebre hemorrágica de Crimea-Congo en el paciente ingresado en el Clínic](https://www.elperiodico.com/es/sociedad/20260711/pruebas-descartan-fiebre-hemorragica-crimea-salud-clinic-negativo-132364959)<br>
+17:39 [David Jiménez, abogado, sobre qué hacer cuando un hijo deja de hablarte y quieres quitarle del testamento: "Puede haber una vía para la desheredación por maltrato psicológico"](https://www.elperiodico.com/es/economia/20260711/abogado-desheredar-hijo-herencia-legitima-testamento-codigo-civil-maltrato-psicologico-dv-et-132224873)<br>
+17:16 [Jornada negra en España con tres nuevas muertes por ahogamiento este sábado](https://www.elperiodico.com/es/sucesos/20260711/jornada-negra-ahogamientos-espana-132362653)<br>
+17:15 [Expertos en aire acondicionado coinciden: "El agua destilada de la máquina es una alternativa para usos concretos en el jardín o el hogar"](https://www.elperiodico.com/es/vida-y-estilo/20260711/expertos-aire-acondicionado-coinciden-usos-agua-destilada-dv-et-132260709)<br>
+17:14 [WhatsApp añade una función que facilita la incorporación de nuevos miembros a los grupos](https://www.elperiodico.com/es/sociedad/20260711/whatsapp-anade-funcion-facilita-incorporacion-132362019)<br>
+17:12 [El PSG pone a Ferran Torres y al Barça en un dilema: renovación o venta este verano](https://www.elperiodico.com/es/deportes/20260711/psg-pone-ferran-torres-barca-132362024)<br>
+17:11 [Jayden Adams (25), internacional con Sudáfrica en este Mundial, aparece muerto en un hotel](https://www.elperiodico.com/es/deportes/20260711/jayden-adams-25-internacional-sudafrica-132363835)<br>
+17:10 [Los rincones de El Prat de Llobregat que ya están en la historia del cine](https://www.elperiodico.com/es/barcelona/20260711/rincones-prat-llobregat-historia-cine-dv-loc-128497898)<br>
+17:08 [Pedro Sánchez tiene previsto visitar este lunes la zona del incendio de Almería](https://www.elperiodico.com/es/politica/20260711/pedro-sanchez-previsto-visitar-lunes-132363987)<br>
+17:01 [Detenido por una presunta violación a una mujer en Pamplona](https://www.elperiodico.com/es/sucesos/20260711/detenido-presunta-violacion-mujer-pamplona-132363811)<br>
 16:57 [El Departamento de Justicia de EEUU cita a declarar a los periodistas del New York Times que cuestionaron la seguridad del nuevo Air Force One](https://www.elperiodico.com/es/internacional/20260711/departamento-justicia-eeuu-cita-declarar-periodistas-new-york-times-132363758)<br>
 16:56 [Anita Williams reencuentra el amor con José Navarro, 'el jamonero de los famosos'](https://www.elperiodico.com/es/gente/20260711/anita-williams-reencuentra-amor-jose-132362860)<br>
 16:55 [Imágenes del Grupo de Apoyo Aéreo de Agentes Rurales del incendio forestal de Camarasa.](https://www.elperiodico.com/es/videos/sucesos/imagenes-grupo-apoyo-aereo-agentes/132363720.shtml)<br>
@@ -54,6 +68,7 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 16:18 [Sánchez aplaza al día 15 el acto de demolición de la Verja por la tragedia en Almería](https://www.elperiodico.com/es/politica/20260711/pedro-sanchez-aplaza-dia-15-acto-verja-incendio-gallardos-132362671)<br>
 16:12 [Márquez se sigue acercando al líder de MotoGP al arrasar en Sachsenring](https://www.elperiodico.com/es/deportes/20260711/marquez-sigue-acercando-lider-motogp-132360176)<br>
 16:05 [La Assemblea Educativa de Catalunya convoca una huelga para el primer día de curso: "No empezará con normalidad"](https://www.elperiodico.com/es/sociedad/20260711/assemblea-educativa-catalunya-convoca-huelga-escuela-primer-dia-curso-escolar-132362587)<br>
+16:05 [Convocada otra huelga de profesores para el primer día de curso: "No empezará con normalidad"](https://www.elperiodico.com/es/sociedad/20260711/assemblea-educativa-catalunya-convoca-huelga-escuela-primer-dia-curso-escolar-8-de-septiembre-132362587)<br>
 16:00 [La fiesta de la ciencia del Sabadell no necesita música](https://www.elperiodico.com/es/opinion/20260711/fiesta-ciencia-sabadell-no-necesita-musica-132324761)<br>
 16:00 [Una casa de 482 metros por 21.600 euros y otros inmuebles olvidados del Estado en Tarragona](https://www.elperiodico.com/es/tarragona/20260711/inmuebles-sin-uso-propiedad-estado-tarragona-cambrils-132335020)<br>
 16:00 [Seis rutas para perderse, una provincia para encontrarse](https://www.elperiodico.com/es/motor/20260711/seis-rutas-perderse-provincia-moto-132244652)<br>
