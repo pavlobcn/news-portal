@@ -1,8 +1,15 @@
-# News for 2026-07-11 14:12
+# News for 2026-07-11 16:58
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+16:50 [РФ атакували Київ балістикою, начиненою шрапнеллю - голова РДА](https://ua.korrespondent.net/kyiv/4893470-rf-atakuvaly-kyiv-balistykoui-nachynenoui-shrapnellui-holova-rda)<br>
+16:25 [РФ будує новий військовий гарнізон біля кордону з Фінляндією](https://ua.korrespondent.net/world/russia/4893468-rf-buduie-novyi-viiskovyi-harnizon-bilia-kordonu-z-finliandiieui)<br>
+16:00 [Через тайфун Баві в Китаї евакуювали сотні тисяч людей](https://ua.korrespondent.net/world/4893466-cherez-taifun-bavi-v-kytai-evakuuivaly-sotni-tysiach-luidei)<br>
+15:35 [РФ 74 рази атакувала позиції Сил оборони](https://ua.korrespondent.net/ukraine/4893464-rf-74-razy-atakuvala-pozytsii-syl-oborony)<br>
+15:10 [РФ ударила по портовій інфраструктурі Одещини, є загиблі й поранені](https://ua.korrespondent.net/city/odessa/4893462-rf-udaryla-po-portovii-infrastrukturi-odeschyny-ye-zahybli-y-poraneni)<br>
+14:45 [Напад на ТЦК: ще трьох учасників конфлікту взяли під варту](https://ua.korrespondent.net/ukraine/4893460-napad-na-ttsk-sche-trokh-uchasnykiv-konfliktu-vzialy-pid-vartu)<br>
+14:18 [Росіяни скинули на Суми три КАБи, є жертви](https://ua.korrespondent.net/ukraine/4893458-rosiiany-skynuly-na-sumy-try-kaby-ye-zhertvy)<br>
 14:05 [У ЦПД пояснили, чому росіянам час втікати з РФ](https://ua.korrespondent.net/ukraine/4893456-u-tspd-poiasnyly-chomu-rosiianam-chas-vtikaty-z-rf)<br>
 13:44 [Генштаб уточнив дані по ураженим об'єктам в Росії](https://ua.korrespondent.net/ukraine/4893453-henshtab-utochnyv-dani-po-urazhenym-obiektam-v-rosii)<br>
 13:21 [Нацбанк зменшив продаж доларів нижче психологічної межі](https://ua.korrespondent.net/business/financial/4893450-natsbank-zmenshyv-prodazh-dolariv-nyzhche-psykholohichnoi-mezhi)<br>
@@ -35,9 +42,35 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 00:21 [Нещадно бомбити: Трамп заявив, що дав інструкції на випадок свого вбивства](https://ua.korrespondent.net/world/4893374-neschadno-bombyty-tramp-zaiavyv-scho-dav-instruktsii-na-vypadok-svoho-vbyvstva)<br>
 
 ## as.com
+14:07 [La Selección femenina apunta alto en el Mundial Sub-17](https://as.com/baloncesto/mas_baloncesto/la-seleccion-femenina-apunta-alto-en-el-mundial-sub-17-f202607-n/)<br>
 10:45 [El Valencia ficha a Saint-Supéry por cuatro temporadas](https://as.com/baloncesto/el-valencia-ficha-a-saint-supery-por-cuatro-temporadas-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:57 [El Departamento de Justicia de EEUU cita a declarar a los periodistas del New York Times que cuestionaron la seguridad del nuevo Air Force One](https://www.elperiodico.com/es/internacional/20260711/departamento-justicia-eeuu-cita-declarar-periodistas-new-york-times-132363758)<br>
+16:56 [Anita Williams reencuentra el amor con José Navarro, 'el jamonero de los famosos'](https://www.elperiodico.com/es/gente/20260711/anita-williams-reencuentra-amor-jose-132362860)<br>
+16:55 [Imágenes del Grupo de Apoyo Aéreo de Agentes Rurales del incendio forestal de Camarasa.](https://www.elperiodico.com/es/videos/sucesos/imagenes-grupo-apoyo-aereo-agentes/132363720.shtml)<br>
+16:47 [El incendio de Los Gallardos llegó a avanzar a cien metros por minuto y ya alcanza las 6.600 hectáreas quemadas](https://www.elperiodico.com/es/videos/sucesos/incendio-gallardos-llego-avanzar-cien/132363501.shtml)<br>
+16:28 [La Guardia Civil continúa las batidas en el incendio de Los Gallardos: "No descartamos nuevas víctimas"](https://www.elperiodico.com/es/sociedad/20260711/guardia-civil-continua-batidas-incendio-132363071)<br>
+16:18 [Sánchez aplaza al día 15 el acto de demolición de la Verja por la tragedia en Almería](https://www.elperiodico.com/es/politica/20260711/pedro-sanchez-aplaza-dia-15-acto-verja-incendio-gallardos-132362671)<br>
+16:12 [Márquez se sigue acercando al líder de MotoGP al arrasar en Sachsenring](https://www.elperiodico.com/es/deportes/20260711/marquez-sigue-acercando-lider-motogp-132360176)<br>
+16:05 [La Assemblea Educativa de Catalunya convoca una huelga para el primer día de curso: "No empezará con normalidad"](https://www.elperiodico.com/es/sociedad/20260711/assemblea-educativa-catalunya-convoca-huelga-escuela-primer-dia-curso-escolar-132362587)<br>
+16:00 [La fiesta de la ciencia del Sabadell no necesita música](https://www.elperiodico.com/es/opinion/20260711/fiesta-ciencia-sabadell-no-necesita-musica-132324761)<br>
+16:00 [Una casa de 482 metros por 21.600 euros y otros inmuebles olvidados del Estado en Tarragona](https://www.elperiodico.com/es/tarragona/20260711/inmuebles-sin-uso-propiedad-estado-tarragona-cambrils-132335020)<br>
+16:00 [Seis rutas para perderse, una provincia para encontrarse](https://www.elperiodico.com/es/motor/20260711/seis-rutas-perderse-provincia-moto-132244652)<br>
+16:00 [Defender el turno de oficio es defender la igualdad ante la justicia](https://www.elperiodico.com/es/opinion/20260711/defender-turno-oficio-defender-igualdad-articulo-cristina-vallejo-ros-132345543)<br>
+15:58 [El rescate de la Guardia Civil que salvó la vida dos turistas británicos semiinconscientes: "Era inverosímil que pudiera quedar vida"](https://www.elperiodico.com/es/sociedad/20260711/rescate-guardia-civil-salvo-vida-132362550)<br>
+15:51 [Huaqiangbei, el mayor supermercado de la electrónica de China (y probablemente del mundo)](https://www.elperiodico.com/es/internacional/20260711/huaqiangbei-shenzhen-china-supermercado-electronica-132356660)<br>
+15:49 [Viaje a la supersónica Shenzhen: cómo una aldea de pescadores china pasó a liderar la revolución tecnológica](https://www.elperiodico.com/es/internacional/20260711/shenzhen-china-pueblo-pescadores-empresas-tecnologia-132355338)<br>
+15:31 [La Assemblea Educativa de Catalunya acuerda ir a la huelga el 8 de septiembre: "El curso no empezará con normalidad"](https://www.elperiodico.com/es/videos/sociedad/assemblea-educativa-catalunya-acuerda-huelga/132362065.shtml)<br>
+15:21 [El incendio de Los Gallardos llegó a avanzar a cien metros por minuto y ya alcanza las 6.600 hectáreas quemadas](https://www.elperiodico.com/es/sociedad/20260711/incendio-almeria-gallardos-avanzar-cien-metros-minutos-132361981)<br>
+15:15 [El refugio de la Baronesa Thyssen frente al mar en la Costa Brava: nueve habitaciones, piscina climatizada, camas balinesas y sala de cine privada](https://www.elperiodico.com/es/gente/20260711/refugio-frente-mar-nueve-habitaciones-baronesa-thyssen-piscina-cine-dv-132208284)<br>
+15:00 [Óscar López será el candidato del PSOE a la Comunidad de Madrid tras superar el máximo de avales en las primarias](https://www.elperiodico.com/es/videos/politica/oscar-lopez-sera-candidato-psoe/132361716.shtml)<br>
+14:46 [Junqueras atribuye la subida de ERC en las encuestas a su "utilidad" como partido](https://www.elperiodico.com/es/videos/politica/junqueras-atribuye-subida-erc-encuestas/132361557.shtml)<br>
+14:37 [Catalunya anuncia una inversión de más de 1.000 millones en la construcción de un centro de IA en Flix](https://www.elperiodico.com/es/politica/20260711/inteligencia-artificial-catalunya-inversion-1000-millones-flix-ercros-132360493)<br>
+14:34 [9.240 campos de fútbol: eso es lo que ha quemado el incendio forestal de Los Gallardos (Almería)](https://www.elperiodico.com/es/videos/sociedad/9240-campos-futbol-los-gallardos/132361415.shtml)<br>
+14:33 [Junqueras saca pecho de la subida de ERC en las encuestas y lo atribuye a que es un partido "útil"](https://www.elperiodico.com/es/politica/20260711/junqueras-atribuye-subida-erc-encuestas-partido-utilidad-132361338)<br>
+14:30 [Estos son los 5 mejores restaurantes de Sant Cugat según Tripadvisor](https://www.elperiodico.com/es/barcelona/sant-cugat/20260711/mejores-restaurantes-sant-cugat-tripadvisor-dv-loc-111007676)<br>
+14:27 ['La verdadera historia de Ricardo III': Bieito, una excesiva familiaridad](https://www.elperiodico.com/es/ocio-y-cultura/20260711/historia-ricardo-iii-bieito-excesiva-familiaridad-critica-132360811)<br>
 14:08 [Feijóo pide todos los medios disponibles ante un verano que será "muy complicado"](https://www.elperiodico.com/es/videos/politica/feijoo-pide-medios-disponibles-verano/132360774.shtml)<br>
 14:05 [Antonio Sanz responde Óscar Puente por el ES-Alert en el incendio de Los Gallardos: "No tiene ni idea de cómo funciona"](https://www.elperiodico.com/es/videos/politica/antonio-sanz-responde-oscar-puente/132360753.shtml)<br>
 14:05 [Ramon Vallès, piloto de avión: "Abróchate el cinturón en todo momento, no importa si el vuelo está tranquilo: es el hábito más simple que puede salvarte la vida"](https://www.elperiodico.com/es/trafico-y-transportes/20260711/accidente-avion-emergencia-protocolos-piloto-ramon-valles-dv-et-132164098)<br>
