@@ -1,8 +1,13 @@
-# News for 2026-07-11 08:41
+# News for 2026-07-11 10:31
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+10:19 [Зеленський назвав головне завдання після ударів РФ](https://ua.korrespondent.net/ukraine/4893430-zelenskyi-nazvav-holovne-zavdannia-pislia-udariv-rf)<br>
+09:54 [Атака Росії: під Києвом загасили масштабну пожежу](https://ua.korrespondent.net/ukraine/4893427-ataka-rosii-pid-kyievom-zahasyly-masshtabnu-pozhezhu)<br>
+09:29 [Жертвами землетрусу у Венесуелі стали понад 4000 людей](https://ua.korrespondent.net/world/4893422-zhertvamy-zemletrusu-u-venesueli-staly-ponad-4000-luidei)<br>
+09:07 [РФ зупинила судноплавство через Донсько-Азовський канал -ЗМІ](https://ua.korrespondent.net/world/russia/4893419-rf-zupynyla-sudnoplavstvo-cherez-donsko-azovskyi-kanal-zmi)<br>
+08:43 [Росіяни вбили сімох жителів Донеччини](https://ua.korrespondent.net/ukraine/4893415-rosiiany-vbyly-simokh-zhyteliv-donechchyny)<br>
 08:22 [Росія била ракетами і дронами: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4893413-rosiia-byla-raketamy-i-dronamy-yak-spratsuivala-ppo)<br>
 08:00 [Іран міг розпочати відбудову ядерних об'єктів - ЗМІ](https://ua.korrespondent.net/world/4893410-iran-mih-rozpochaty-vidbudovu-yadernykh-obiektiv-zmi)<br>
 07:46 [Наслідки "прильотів" у Києві показали на відео](https://ua.korrespondent.net/city/kiev/4893408-naslidky-prylotiv-u-kyievi-pokazaly-na-video)<br>
@@ -23,6 +28,23 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 00:21 [Нещадно бомбити: Трамп заявив, що дав інструкції на випадок свого вбивства](https://ua.korrespondent.net/world/4893374-neschadno-bombyty-tramp-zaiavyv-scho-dav-instruktsii-na-vypadok-svoho-vbyvstva)<br>
 
 ## www.elperiodico.com
+10:26 [El Teatro Regina baja la persiana 38 años después: "Es el precio de ser una ciudad tan abierta al mundo"](https://www.elperiodico.com/es/videos/ocio-y-cultura/teatro-regina-baja-persiana-38/132354863.shtml)<br>
+10:18 [El director gerente de la Agencia de Emergencias de Andalucía, Alejandro García, justifica la decisión de no haber activado el 'Es-Alert'](https://www.elperiodico.com/es/videos/sucesos/director-gerente-agencia-emergencias-andalucia/132354665.shtml)<br>
+10:10 [Llegan a Madrid las muestras biológicas de las doce víctimas mortales de Los Gallardos](https://www.elperiodico.com/es/videos/sucesos/llegan-madrid-muestras-biologicas-doce/132354393.shtml)<br>
+10:10 [Qué dice la prensa británica hoy del incendio de Los Gallardos: de la trampa mortal a la "increíble" escapada de una mujer](https://www.elperiodico.com/es/sociedad/20260711/incendio-gallardos-almeria-prensa-britanica-hoy-132353644)<br>
+10:05 [Joan Bagaria, vecino de Prullans (87 años): "Con el calor se exagera demasiado. Antes sí que pasábamos calor trabajando a mano"](https://www.elperiodico.com/es/vida-y-estilo/20260711/joan-bagaria-vecino-prullans-87-calor-exagera-dv-et-132327592)<br>
+10:00 [La OTAN entre Trump y Putin](https://www.elperiodico.com/es/opinion/20260711/otan-trump-putin-articulo-valenti-puig-132343240)<br>
+10:00 [Julio negro en la memoria de ETA: una matanza en un bus y el rastro perdido del disidente Pertur](https://www.elperiodico.com/es/politica/20260711/julio-negro-eta-matanza-republica-dominicana-desaparicion-pertur-132348883)<br>
+09:58 [Illa lanza un plan de pueblos de 400 millones de euros para ayudar a los municipios pequeños](https://www.elperiodico.com/es/politica/20260711/salvador-illa-anuncia-plan-pueblos-pequenos-400-millones-132298988)<br>
+09:35 [Multado con 10 euros por cruzar un semáforo en rojo en Alemania](https://www.elperiodico.com/es/sociedad/20260711/multado-alemania-10-euros-cruzar-132353636)<br>
+09:35 [El rincón de Granollers que ya está en la historia de Netlfix](https://www.elperiodico.com/es/barcelona/granollers/20260711/barcelona-granollers-rodajes-cine-pavello-municipal-el-parquet-el-gran-salto-dv-loc-118399721)<br>
+09:32 [Detonan un proyectil de aviación francés localizado en una cala del Port de la Selva](https://www.elperiodico.com/es/sucesos/20260711/sucesos-proyectil-aviacion-frances-desactivado-mar-port-de-la-selva-132353874)<br>
+09:30 [¿Qué es el plan de pueblos del Govern? Todas las claves de las ayudas para los municipios pequeños](https://www.elperiodico.com/es/politica/20260711/claves-plan-pueblos-ayudas-municipios-cataluna-govern-132298995)<br>
+09:30 [Federico (94 años) vive solo rodeado de vacas en una aldea sin electricidad: "Aconsejo a los jóvenes que se dejen de tanta ciudad y que se adapten a una vida normal en la montaña"](https://www.elperiodico.com/es/economia/20260711/federico-aldea-consejo-jovenes-vida-montana-dv-132180435)<br>
+09:02 [Teresa Comellas, mejor estudiante de Selectividad de Baleares: "La educación en catalán solo enriquece, no limita"](https://www.elperiodico.com/es/sociedad/20260711/teresa-comellas-mejor-estudiante-selectividad-educacion-catalan-enriquece-132353446)<br>
+09:00 [Una de cada cuatro bibliotecas de Barcelona, cerradas este julio por huelga indefinida pese al calor extremo](https://www.elperiodico.com/es/barcelona/20260711/una-cada-cuatro-bibliotecas-barcelona-cerradas-julio-132348247)<br>
+09:00 [El 'absentismo' de las mujeres](https://www.elperiodico.com/es/opinion/20260711/absentismo-mujeres-bajas-laborales-articulo-ana-bernal-trivino-132342578)<br>
+08:45 [En busca de 2.700 euros para que Abu acabe la universidad: "Me faltan dos asignaturas para ser educador social"](https://www.elperiodico.com/es/sociedad/20260711/2-700-euros-abu-senegales-acabe-universidad-educador-social-dv-132326041)<br>
 08:38 [Mónica de la Peña, neumóloga: "Es peor dormir mal que tener el aire acondicionado encendido toda la noche"](https://www.elperiodico.com/es/sociedad/20260711/monica-pena-neumologa-peor-dormir-mal-aire-acondicionado-noche-calor-132352864)<br>
 08:37 [Mucho peligro con los toros de Escolar en el quinto encierro de los Sanfermines](https://www.elperiodico.com/es/sociedad/20260711/peligro-toros-escolar-quinto-encierro-sanfermines-132352922)<br>
 08:35 [Nerea (27 años), albañil española en Australia: "Cobro 4.465 dólares australianos brutos, unos 2.140 euros netos limpios en dos semanas"](https://www.elperiodico.com/es/economia/20260711/nerea-27-anos-albanil-australia-2140-euros-netos-salarios-dv-et-132098707)<br>
