@@ -1,8 +1,11 @@
-# News for 2026-07-11 10:31
+# News for 2026-07-11 12:06
 
 Previous day: [2026-07-10](./data/2026-07-10.md)
 
 ## ua.korrespondent.net
+11:58 [Одеса зазнала ракетного удару, є загиблі](https://ua.korrespondent.net/city/odessa/4893440-odesa-zaznala-raketnoho-udaru-ye-zahybli)<br>
+11:24 [Уражено рекордне число російських кораблів за добу](https://ua.korrespondent.net/ukraine/4893437-urazheno-rekordne-chyslo-rosiiskykh-korabliv-za-dobu)<br>
+10:51 [У Харкові дрон атакував підприємство, сім постраждалих](https://ua.korrespondent.net/city/kharkov/4893434-u-kharkovi-dron-atakuvav-pidpryiemstvo-sim-postrazhdalykh)<br>
 10:19 [Зеленський назвав головне завдання після ударів РФ](https://ua.korrespondent.net/ukraine/4893430-zelenskyi-nazvav-holovne-zavdannia-pislia-udariv-rf)<br>
 09:54 [Атака Росії: під Києвом загасили масштабну пожежу](https://ua.korrespondent.net/ukraine/4893427-ataka-rosii-pid-kyievom-zahasyly-masshtabnu-pozhezhu)<br>
 09:29 [Жертвами землетрусу у Венесуелі стали понад 4000 людей](https://ua.korrespondent.net/world/4893422-zhertvamy-zemletrusu-u-venesueli-staly-ponad-4000-luidei)<br>
@@ -27,7 +30,24 @@ Previous day: [2026-07-10](./data/2026-07-10.md)
 00:58 [ЗМІ дізналися причину створення Командування далекобійних ударів](https://ua.korrespondent.net/ukraine/4893376-zmi-diznalysia-prychynu-stvorennia-komanduvannia-dalekobiinykh-udariv)<br>
 00:21 [Нещадно бомбити: Трамп заявив, що дав інструкції на випадок свого вбивства](https://ua.korrespondent.net/world/4893374-neschadno-bombyty-tramp-zaiavyv-scho-dav-instruktsii-na-vypadok-svoho-vbyvstva)<br>
 
+## as.com
+10:45 [El Valencia ficha a Saint-Supéry por cuatro temporadas](https://as.com/baloncesto/el-valencia-ficha-a-saint-supery-por-cuatro-temporadas-f202607-n/)<br>
+
 ## www.elperiodico.com
+12:00 [Una exposición recrea en el Cementerio de Montjuïc con figuras de Playmobil ritos de la muerte de distintas culturas](https://www.elperiodico.com/es/barcelona/20260711/exposicion-recrea-cementerio-montjuic-figuras-playmobil-ritos-funerarios-distintas-culturas-barcelona-132261625)<br>
+12:00 [La Unión Europea tiene un plan para dejar de depender de la tecnología de Estados Unidos: los expertos no lo tienen tan claro](https://www.elperiodico.com/es/internacional/20260711/union-europea-plan-dependencia-tecnologia-estados-unidos-trump-ia-nube-amazon-microsoft-google-soberania-digital-132357368)<br>
+12:00 [Jhonny Mancilla, profesor: "Estamos ante una generación de jóvenes para quienes la escuela clásica ya no da respuesta"](https://www.elperiodico.com/es/sociedad/20260711/jhonny-mancilla-profesor-generacion-jovenes-estructura-escuela-no-da-respuesta-escuela-segundas-oportunidades-barcelona-abandono-escolar-temprano-132257746)<br>
+12:00 [El precio de vivienda se estanca en el centro de Madrid, Barcelona y Valencia y el 'boom' se traslada a las afueras](https://www.elperiodico.com/es/economia/20260711/precio-vivienda-madrid-valencia-barcelona-centro-132325816)<br>
+11:55 [Illa reivindica la "política útil" y la esperanza para combatir el "discurso del miedo" durante  el II Encuentro de Municipios Rurales.](https://www.elperiodico.com/es/videos/politica/illa-reivindica-politica-util-esperanza/132357072.shtml)<br>
+11:54 [Trump amenaza con destruir todo Irán si Teherán intenta asesinarle](https://www.elperiodico.com/es/internacional/20260711/trump-amenaza-destruir-iran-teheran-132357086)<br>
+11:53 [Cargos del PSOE admiten preocupación tras la imputación de Juanma Serrano: "No pinta bien"](https://www.elperiodico.com/es/politica/20260711/cargos-psoe-admiten-preocupacion-imputacion-132357028)<br>
+11:52 [El paisaje](https://www.elperiodico.com/es/opinion/20260711/paisaje-articulo-opinion-agnes-marques-132356743)<br>
+11:24 [El Govern creará este mes la nueva dirección general de vivienda pactada con los Comuns](https://www.elperiodico.com/es/politica/20260711/vivienda-govern-nueva-direccion-general-comuns-jessica-albiach-132356043)<br>
+11:20 [Joan Siquier, emprendedor avícola: "No cuidamos gallinas, cuidamos reinas... porque yo apuesto más por el bienestar de las gallinas que por la producción de huevo"](https://www.elperiodico.com/es/economia/20260711/emprendedor-avicola-negocio-gallinas-camperas-joan-siquier-dv-et-132266575)<br>
+11:14 [La Junta de Andalucía replica a Óscar Puente tras sus críticas por el Es-Alert: "No tiene ni idea, hubiera provocado más daño"](https://www.elperiodico.com/es/politica/20260711/junta-andalucia-replica-oscar-puente-132356192)<br>
+10:59 [Muere ahogado un hombre de 47 años en una playa de Cambrils](https://www.elperiodico.com/es/tarragona/20260711/muere-ahogado-hombre-47-anos-playa-cambrils-132355854)<br>
+10:31 [Imágenes de las actuaciones de la UME esta noche en el incendio de la localidad almeriense de Los Gallardos.](https://www.elperiodico.com/es/videos/sucesos/imagenes-actuaciones-ume-noche-incendio/132354937.shtml)<br>
+10:31 [Bajas flexibles, 'autobajas'...vuelve la polémica del absentismo tras dos años sin avances en la mesa de diálogo social](https://www.elperiodico.com/es/economia/20260711/bajas-flexibles-autobajas-vuelve-polemica-132355012)<br>
 10:26 [El Teatro Regina baja la persiana 38 años después: "Es el precio de ser una ciudad tan abierta al mundo"](https://www.elperiodico.com/es/videos/ocio-y-cultura/teatro-regina-baja-persiana-38/132354863.shtml)<br>
 10:18 [El director gerente de la Agencia de Emergencias de Andalucía, Alejandro García, justifica la decisión de no haber activado el 'Es-Alert'](https://www.elperiodico.com/es/videos/sucesos/director-gerente-agencia-emergencias-andalucia/132354665.shtml)<br>
 10:10 [Llegan a Madrid las muestras biológicas de las doce víctimas mortales de Los Gallardos](https://www.elperiodico.com/es/videos/sucesos/llegan-madrid-muestras-biologicas-doce/132354393.shtml)<br>
