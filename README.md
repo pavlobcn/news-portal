@@ -1,8 +1,9 @@
-# News for 2026-07-12 16:40
+# News for 2026-07-12 17:43
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+16:41 [У Львові рятувальники зняли з дерева жінку та її кота](https://ua.korrespondent.net/city/lvov/4893630-u-lvovi-riatuvalnyky-znialy-z-dereva-zhinku-ta-yii-kota)<br>
 15:00 [Зеленський заслухав доповідь голови МВС](https://ua.korrespondent.net/ukraine/4893621-zelenskyi-zaslukhav-dopovid-holovy-mvs)<br>
 14:40 [На пост прем'єра розглядають чотирьох кандидатів - нардеп](https://ua.korrespondent.net/ukraine/4893619-na-post-premiera-rozghliadauit-chotyrokh-kandydativ-nardep)<br>
 14:20 [Свириденко оголосила про свою відставку](https://ua.korrespondent.net/ukraine/4893617-svyrydenko-oholosyla-pro-svoui-vidstavku)<br>
@@ -44,6 +45,9 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 11:13 [Satoransky, al Hapoel](https://as.com/baloncesto/euroliga/satoransky-al-hapoel-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:23 [Catalunya se enfrenta a la tercera ola de calor del verano con temperaturas que ya superan los 38 grados](https://www.elperiodico.com/es/tiempo/20260712/tercera-ola-calor-catalunya-temperaturas-record-132381868)<br>
+16:59 [Impresionantes imágenes del incendio que se produjo en una planta de reciclaje de Valencia](https://www.elperiodico.com/es/videos/sociedad/impresionantes-imagenes-incendio-produjo-planta-valencia/132382891.shtml)<br>
+16:40 [Jesús Sahún, experto en eficiencia energética: "Cada grado menos en el aire acondicionado aumenta un 7% el consumo; ponlo a esta temperatura"](https://www.elperiodico.com/es/economia/consumo/20260712/jesus-sahun-experto-eficiencia-energetica-aire-acondicionado-consumo-calor-verano-dv-et-132251139)<br>
 16:30 [La vecina de Paiporta y su familia desalojados por el incendio de Almería regresarán de los últimos a su casa](https://www.elperiodico.com/es/sociedad/20260712/vecina-paiporta-familia-desalojados-incendio-almeria-regresan-casa-vivienda-viviendas-entrevista-antas-132382359)<br>
 16:20 [El bonito pueblo de cuento a solo 40 minutos de Castelldefels](https://www.elperiodico.com/es/barcelona/castelldefels/20260712/espectacular-pueblo-cuento-40-minutos-castelldefels-dv-loc-115180075)<br>
 16:14 [Las últimas imágenes aéreas del incendio de Los Gallardos muestran un paisaje devastado](https://www.elperiodico.com/es/sociedad/20260712/ultimas-imagenes-aereas-incendio-gallardos-almeria-132381580)<br>
