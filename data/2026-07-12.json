@@ -1,5 +1,284 @@
 [
   {
+    "title": "Medusas: estas son las 10 más habituales y las más peligrosas",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260712/medusas-son-10-habituales-peligrosas-89448862",
+    "pubDate": "2026-07-12 09:27:00",
+    "category": "",
+    "description": "<h2>La gravedad de su picadura varía según la especie, por lo que es preciso conocerlas</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Claustre Ribera (91 años): \"De pequeña, no teníamos nevera ni aire acondicionado. Estoy acostumbrada al calor\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260712/claustre-ribera-91-anos-pequena-no-teniamos-nevera-aire-acondicionado-calor-dv-et-132327878",
+    "pubDate": "2026-07-12 09:15:24",
+    "category": "",
+    "description": "<h2>Los episodios de calor extrema los vive dentro de casa y con el ventilador encendido. Pero, a pesar de tener aire acondicionado, nunca lo pone en marcha porque dice que le provoca dolor de garganta: \"Debe de ser que no estoy habituada\", expresa</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Romper la inercia",
+    "link": "https://www.elperiodico.com/es/opinion/20260712/emma-riverola-articulo-pp-feijoo-romper-la-inercia-132373322",
+    "pubDate": "2026-07-12 09:14:58",
+    "category": "",
+    "description": "<h2>La derecha radical populista empuja con fuerza y, en su movimiento, succiona a los partidos conservadores</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала новітніми ракетами: як спрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4893573-rf-atakuvala-novitnimy-raketamy-yak-spratsuivala-ppo",
+    "pubDate": "2026-07-12 09:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488974.jpg\">Протиповітряна оборона збила або подавила 102 зі 128 ворожих цілей, зокрема сім із дев'яти новітніх ракет Х-59/69.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irene, camionera: \"Hoy me he ido a Logroño y Cantabria y de vuelta a Madrid me he quedado a medio camino porque no me daban las horas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/irene-camionera-quedado-medio-camino-sin-horas-dv-et-132220659",
+    "pubDate": "2026-07-12 09:10:00",
+    "category": "",
+    "description": "<h2>En España se necesitan alrededor de 30.000 conductores, con una plantilla actual de 400.000 transportistas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260629/andrea-22-anos-camionera-empleo-transporte-logistica-salario-dv-131933084\" target=\"_blank\">Andrea, 22 años, camionera: \"Trabajo 8 horas de lunes a viernes, recorro casi 300 kilómetros diarios y gano unos 2.000 euros mensuales\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Julia Velasco, especialista en alimentación infantil: \"Muchos niños consumen grandes cantidades de azúcar y para digerirla, se necesita de mucha glucosa, lo que hace que no tengan sueño por la noche\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/julia-velasco-especialista-alimentacion-infantil-ninos-azucar-sueno-noche-dv-et-132336179",
+    "pubDate": "2026-07-12 09:05:50",
+    "category": "",
+    "description": "<h2>La dietista y psiconeuroimnunóloga advierte que las analíticas de un niño en la actualidad \"muestran valores de vitaminas bajos y que, por tanto, no son útiles para el sistema neurológico\"</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Jacobo, tras conducir sin carné desde los 15 años y pasar ocho en la cárcel: \"Yo tuve suerte, otros no llegan a contarlo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/jacobo-conducir-sin-carnet-15-anos-carcel-132373294",
+    "pubDate": "2026-07-12 09:04:38",
+    "category": "",
+    "description": "<h2>Las multas, las persecuciones y los accidentes no consiguieron frenarlo; escuchar a una madre que perdió a su hijo en la carretera le hizo replantearse su vida: \"Me hizo bajar las orejas y reflexionar\"</h2><h2>Tras cumplir condena por varios delitos de tráfico, quebrantamientos y un atraco, ahora vive en Moaña, tiene casa propia, se apoya en su pareja y repite una promesa que resume su nueva etapa: «No vuelvo a nada»</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El municipalismo busca soluciones innovadoras contra el envejecimiento y el despoblamiento rural en Catalunya",
+    "link": "https://www.elperiodico.com/es/barcelona/20260712/acm-busca-soluciones-innovadoras-despoblamiento-rural-catalunya-132328350",
+    "pubDate": "2026-07-12 09:00:28",
+    "category": "",
+    "description": "<h2>La entidad municipalista impulsa la quinta edición de los 'Projectes Arrelament' para fomentar el arraigo</h2><h2>Entrevista | Meritxell Budó (ACM): \"El sistema te empuja a subir impuestos, pero no podemos subirlos más\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260518/pacto-presupuestos-govern-illa-erc-cataluna-plan-barrios-municipios-pequenos-rurales-130373838\" target=\"_blank\">El Govern y ERC pactan un plan de barrios para los municipios pequeños de 400 millones en cuatro años</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260617/parlament-avala-reforma-urbanistica-agilizar-creacion-vivienda-590-municipios-rurales-catalunya-131496267\" target=\"_blank\">El Parlament avala la reforma para agilizar la creación de vivienda en 590 municipios rurales de Catalunya</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Meritxell Budó, presidenta de la ACM: \"El sistema te empuja a subir impuestos, pero no sé si podemos subirlos más\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260712/meritxell-budo-presidenta-acm-impuestos-padron-urbanizaciones-132323086",
+    "pubDate": "2026-07-12 09:00:28",
+    "category": "",
+    "description": "<h2>La alcaldesa de La Garriga, Meritxell Budó (Barcelona, 1969), preside la <strong>Associació Catalana de Municipis</strong> (ACM) desde septiembre de 2023. La entidad acaba de lograr voz y voto en el Consejo Mundial de Ciudades y Gobiernos Locales Unidos (CGLU) y reivindica el <a href=\"https://www.elperiodico.com/es/barcelona/20260609/municipalismo-catalan-pide-blindar-legalmente-figura-electo-local-situarla-lugar-merece-131184916\">nuevo Estatuto del Electo Local</a> para dignificar los cargos municipales \"ante el desprestigio de la política\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260712/acm-busca-soluciones-innovadoras-despoblamiento-rural-catalunya-132328350\">La ACM busca soluciones innovadoras contra el despoblamiento rural en Catalunya</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sobre (vivir) a la crianza - La importancia de la educación musical",
+    "link": "https://www.elperiodico.com/es/videos/podcast/vivir-crianza-negociar-adolescentes/132169335.shtml",
+    "pubDate": "2026-07-12 08:59:22",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El parque de Reus que alucinará a tus hijos: con pista de baloncesto y rocódromo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/mini-central-park-parque-infantil-reus-dv-loc-108366789",
+    "pubDate": "2026-07-12 08:55:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20240920/teatro-reus-historia-cine-pelicula-francesa-dv-loc-108357731\" >El edificio de Reus que ya está en la historia del cine</a></h2><h2><a href=\"https://www.elperiodico.com/es/tarragona/20240914/pasteleria-reus-postres-argentina-dv-loc-107203435\" >Postres para viajar a Argentina: la pastelería de Reus con mejores reseñas en Google</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Помер великий друг України сенатор США Ліндсі Грем",
+    "link": "https://ua.korrespondent.net/world/4893570-pomer-velykyi-druh-ukrainy-senator-ssha-lindsi-hrem",
+    "pubDate": "2026-07-12 08:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488952.jpg\">Американський політик активно виступав за постачання Києву сучасного озброєння, включно з ATACMS, системами ППО та винищувачами.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere a los 71 años Lindsey Graham, 'halcón' republicano y uno de los grandes aliados de Donald Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260712/muere-71-anos-lindsey-graham-aliado-donald-trump-132372826",
+    "pubDate": "2026-07-12 08:47:46",
+    "category": "",
+    "description": "<h2 class=\"item\">\"A nuestros amigos en España: habéis perdido el rumbo\", escribió tras la negativa del gobierno español al uso de las bases de Rota y Morón por parte de Estados Unidos</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En directo | Última hora del incendio en Los Gallardos (Almería), que deja 12 muertos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/directo-ultima-hora-muertos-incendio-gallardos-almeria-132317696",
+    "pubDate": "2026-07-12 08:41:00",
+    "category": "",
+    "description": "<h2>El fuego, que empezó el jueves, ha arrasado ya a 5.000 hectáreas y ha obligado a desalojar a 1.405 personas</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La zona cero del incendio de Almería incumple la obligación de tener plan de emergencias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/zona-cero-incendio-almeria-gallardos-incumple-obligacion-plan-emergencias-132372777",
+    "pubDate": "2026-07-12 08:32:53",
+    "category": "",
+    "description": "<h2>Las llamas dejan 12 muertos y 6.600 hectáreas calcinadas, evidenciando graves lagunas y vacíos en la prevención</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Армія РФ вбила трьох людей і пошкодила підприємства на Дніпропетровщині",
+    "link": "https://ua.korrespondent.net/ukraine/4893566-armiia-rf-vbyla-trokh-luidei-i-poshkodyla-pidpryiemstva-na-dnipropetrovschyni",
+    "pubDate": "2026-07-12 08:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488931.jpg\">Понад десять разів ворог атакував п'ять районів області безпілотниками та артилерією.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los toros de La Palmosilla regalan un sexto encierro de los Sanfermines tenso y emocionante",
+    "link": "https://www.elperiodico.com/es/sociedad/20260712/toros-palmosilla-sexto-encierro-sanfermines-2026-132372611",
+    "pubDate": "2026-07-12 08:16:54",
+    "category": "",
+    "description": "<h2>Un corredor ha resultado herido por asta y otros siete han precisado asistencia médica</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав, де найбільше штурмів відбили ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4893563-henshtab-nazvav-de-naibilshe-shturmiv-vidbyly-zsu",
+    "pubDate": "2026-07-12 08:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488910.jpg\">Ворог атакував по всій лінії фронту, особливо під Покровськом, де українські військові зупинили 44 наступи росіян.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo. Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260712/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-07-12 08:12:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Josep Maria Pou: \"En lugar de tomar una pastilla, vaya al teatro, el resultado quizás sería el mismo\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260712/josep-maria-pou-lugar-pastilla-132159860",
+    "pubDate": "2026-07-12 08:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Muchos espectadores, sin darse cuenta, están obteniendo el mismo resultado que si fueran a un psicólogo\"</h2><h2 class=\"item\">\"Se habla de ir a terapia entre mucha gente joven como quien va al gimnasio, y eso me sorprende muchísimo\"</h2><h2 class=\"item\">\"No me asusta morirme en absoluto.Yo ya he cumplido. Si me han puesto en este mundo para hacer algo, creo que ya lo he hecho\"</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Del skatepark a la federación: así se ha institucionalizado el deporte popular",
+    "link": "https://www.elperiodico.com/es/deportes/20260712/skatepark-federacion-institucionalizado-deporte-popular-graviteo-132292885",
+    "pubDate": "2026-07-12 08:00:35",
+    "category": "",
+    "description": "<h2>Rocódromos y pistas se multiplican y los mosquetones y las ruedas se afianzan en el panorama deportivo de Catalunya</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Росіяни дроном атакували цивільних у Херсоні: один загиблий, двоє поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4893561-rosiiany-dronom-atakuvaly-tsyvilnykh-u-khersoni-odyn-zahyblyi-dvoie-poranenykh",
+    "pubDate": "2026-07-12 07:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488890.jpg\">Внаслідок атаки чоловік 48 років загинув на місці. Поранення також отримали двоє чоловіків 43 та 58 років.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En confianza, Josep Maria Pou, actor",
+    "link": "https://www.elperiodico.com/es/videos/ser-feliz/confianza-josep-maria-pou-actor/132219721.shtml",
+    "pubDate": "2026-07-12 07:50:06",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Понад тисячу разів РФ обстріляла Запоріжжя: 12 поранених",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4893554-ponad-tysiachu-raziv-rf-obstriliala-zaporizhzhia-12-poranenykh",
+    "pubDate": "2026-07-12 07:29:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488829.jpg\">Росіяни гатили КАБами, дронами та аритилерією. Надійшло 165 повідомлень про пошкодження об’єктів інфраструктури, житла та автівок.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nos vamos al pueblo: prepara las vacaciones sin salir de Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20260712/comida-de-pueblo-vacaciones-sin-salir-barcelona-132335283",
+    "pubDate": "2026-07-12 07:15:08",
+    "category": "",
+    "description": "<h2>Dos restaurantes de la capital catalana donde comer como en la fonda más rústica y tradicional de la niñez</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ атакувала підприємства в Кривому Розі: є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4893557-rf-atakuvala-pidpryiemstva-v-kryvomu-rozi-ye-zahybli",
+    "pubDate": "2026-07-12 07:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488849.jpg\">Вранці ворог двічі атакував \"шахедами\" місто. Двоє людей загинули, пошкоджені підприємство та інфраструктура.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un 14 de julio en Francia entre la pasión y la tragedia con el Tour y el fútbol",
+    "link": "https://www.elperiodico.com/es/deportes/20260712/14-julio-pasion-tragedia-futbol-tour-francia-tourmalet-sergi-lopez-egea-132362553",
+    "pubDate": "2026-07-12 07:01:16",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El futuro de Carles Puigdemont y Junts pende de la resolución del TJUE sobre la ley de amnistía",
+    "link": "https://www.elperiodico.com/es/opinion/20260712/futuro-carles-puigdemont-junts-pende-132360526",
+    "pubDate": "2026-07-12 07:01:15",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "CaixaBank despliega agentes de IA en toda su contratación digital",
+    "link": "https://www.elperiodico.com/es/economia/20260712/caixabank-despliega-agentes-ia-contratacion-bc-132170030",
+    "pubDate": "2026-07-12 07:01:05",
+    "category": "",
+    "description": "<h2>La inteligencia artificial deja de ser una herramienta de apoyo para convertirse en la primera voz que escucharán miles de clientes de CaixaBank cuando quieran contratar un préstamo, un seguro o un producto de ahorro desde el móvil</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Argentina sufre otra vez pero le gana a Suiza 3-1 y el martes decide el pase a la final nada menos que con Inglaterra",
+    "link": "https://www.elperiodico.com/es/deportes/20260712/argentina-sufre-vez-le-gana-132372252",
+    "pubDate": "2026-07-12 06:58:16",
+    "category": "",
+    "description": "<h2>Un golazo de Julián Álvarez en el alargue destrabó un partido que amenazaba con definirse por la vía de los penales</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генштаб ЗСУ оприлюднив нові дані про втрати росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4893552-henshtab-zsu-opryluidnyv-novi-dani-pro-vtraty-rosiian",
+    "pubDate": "2026-07-12 06:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488786.jpg\">За добу українські військові відмінусували ще 1320 окупантів і знищили понад 500 одиниць російської техніки.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Trump, Milei, Infantino, ‘D10S’, Pinheiro, Jara, Julián Álvarez, todos con la Argentina campeona",
     "link": "https://www.elperiodico.com/es/deportes/20260712/trump-milei-infantino-d10s-pinheiro-132372087",
     "pubDate": "2026-07-12 06:37:25",
@@ -207,6 +486,33 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Catorce municipios del área de Barcelona multan con hasta 750 euros por fumar en la playa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260712/multas-750-euros-14-muncipios-fumar-en-playas-area-de-barcelona-131146743",
+    "pubDate": "2026-07-12 06:01:02",
+    "category": "",
+    "description": "<h2>Más de la mitad de los ayuntamientos que este verano han declarado sus arenales libres de humo ya sancionan a quienes incumplen la prohibición</h2><h2>TESTIMONIOS | <a>División en Badalona sobre la tolerancia al tabaco en la playa: \"Es indignante\"</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260529/prohibicion-fumar-playas-amplia-veintena-ciudades-area-barcelona-130799997\" target=\"_blank\">La prohibición de fumar en las playas se amplía a una veintena de ciudades</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "División entre los bañistas de Badalona sobre la tolerancia al tabaco en la playa: \"Es indignante\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260712/division-banistas-badalona-tolerancia-tabaco-132281352",
+    "pubDate": "2026-07-12 06:01:02",
+    "category": "",
+    "description": "<h2>Solo Badalona y Castelldefels, los dos municipios barceloneses gobernados por el PP, han quedado fuera este verano de la iniciativa provincial 'Playas sin humo'</h2><h2><a>Catorce municipios del área de Barcelona multan con hasta 750 euros por fumar en la playa</a></h2><h2>CONTEXTO  | <a href=\"https://www.elperiodico.com/es/barcelona/20260529/prohibicion-fumar-playas-amplia-veintena-ciudades-area-barcelona-130799997\" target=\"_blank\">La prohibición de fumar en las playas se amplía a una veintena de ciudades</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La mayoría de los partidos reclaman un sistema de viñeta para acabar con el colapso de la AP-7",
+    "link": "https://www.elperiodico.com/es/politica/20260712/ap-7-colapso-peajes-vineta-partidos-cataluna-govern-132258812",
+    "pubDate": "2026-07-12 06:01:01",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20260705/entrevista-silvia-paneque-consellera-territori-autopista-ap7-ampliacion-132090501\">Sílvia Paneque, consellera de Territori, Habitatge i Transició Ecològica: \"Hay que ampliar la autopista AP-7 y, hasta que no se haga, regular el tráfico pesado\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260706/peajes-cataluna-ap7-junts-erc-pp-govern-illa-132174754\">Junts acusa al Govern de querer \"vaciar los bolsillos de los catalanes\" al querer recuperar los peajes en la AP-7</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
     "title": "En el corazón de una gigafactoría de baterías",
     "link": "https://www.elperiodico.com/es/economia/20260712/corazon-gigafactoria-baterias-132371647",
     "pubDate": "2026-07-12 06:00:57",
@@ -340,6 +646,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4488468.jpg\">Помста - воля нашого народу, і вона неминуче має бути здійснена, наголосив у своему зверненні Моджтаба Хаменеї.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Escándalo en 'Malas lenguas Noche': Marta Gómez Montero abandona el plató llorando tras sentirse humillada por Cintora: \"Prefiero comer mierda\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260712/escandalo-malas-lenguas-tertuliana-marta-gomez-montero-acusa-cintora-humillarla-abandona-plato-llorando-132370816",
+    "pubDate": "2026-07-12 00:45:40",
+    "category": "",
+    "description": "<h2>La periodista rechazó dar su opinión sobre el tema que se estaba debatiendo para anunciar su marcha del programa en ese momento. </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
   },
   {
     "title": "В Росії обмежили роботу іноземних SIM-карток для \"захисту від дронів\"",
