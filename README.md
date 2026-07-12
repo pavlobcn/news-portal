@@ -1,8 +1,9 @@
-# News for 2026-07-12 19:44
+# News for 2026-07-12 20:41
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+20:16 [У Слов'янську дрон атакував вантажівку з пальним на АЗС](https://ua.korrespondent.net/ukraine/4893654-u-sloviansku-dron-atakuvav-vantazhivku-z-palnym-na-azs)<br>
 19:15 [На Харківщині з кладовища викрали радянський танк](https://ua.korrespondent.net/ukraine/4893647-na-kharkivschyni-z-kladovyscha-vykraly-radianskyi-tank)<br>
 18:49 [Ормузька протока залишається відкритою для суден - США](https://ua.korrespondent.net/world/4893645-ormuzka-protoka-zalyshaietsia-vidkrytoui-dlia-suden-ssha)<br>
 18:24 [Німеччина оплатить для України 50 000 дронів - ЗМІ](https://ua.korrespondent.net/world/4893641-nimechchyna-oplatyt-dlia-ukrainy-50-000-droniv-zmi)<br>
@@ -50,6 +51,8 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 11:13 [Satoransky, al Hapoel](https://as.com/baloncesto/euroliga/satoransky-al-hapoel-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:37 [Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos (Almería)](https://www.elperiodico.com/es/sociedad/20260712/belgica-apunta-tres-posibles-victimas-132387104)<br>
+20:15 [Muere un bañista francés de 54 años en la playa de Empuriabrava](https://www.elperiodico.com/es/sucesos/20260712/muere-banista-frances-54-anos-empuriabrava-132386587)<br>
 19:36 [Los expertos coinciden en que el calor extremo provoca ojos secos, ardor y sensación de arenilla: "Son uno de los órganos más expuestos y sensibles a las oscilaciones térmica"](https://www.elperiodico.com/es/salud/20260712/calor-extremo-ojo-seco-salud-vision-dv-et-132164876)<br>
 19:33 [La Guardia Civil rescata a un perro que había quedado atrapado en la zona calcinada por el incendio de Los Gallardos](https://www.elperiodico.com/es/sociedad/20260712/guardia-civil-rescata-perro-incendio-los-gallardos-132385980)<br>
 19:17 [Guardias Civiles rescatan con vida a un perro que había quedado atrapado en el incendio de Los Gallardos.](https://www.elperiodico.com/es/videos/sociedad/guardias-civiles-rescatan-vida-perro/132385920.shtml)<br>
