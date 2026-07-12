@@ -1,8 +1,9 @@
-# News for 2026-07-12 23:34
+# News for 2026-07-13 00:30
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+23:47 [Під Одесою БПЛА атакували багатоповерхівку і супермаркет](https://ua.korrespondent.net/ukraine/4893673-pid-odesoui-bpla-atakuvaly-bahatopoverkhivku-i-supermarket)<br>
 23:24 [Удар по Запоріжжю: число постраждалих потроїлося](https://ua.korrespondent.net/city/zaporozhye/4893675-udar-po-zaporizhzhui-chyslo-postrazhdalykh-potroilosia)<br>
 22:53 [РФ атакувала село на Харківщині, серед поранених - діти](https://ua.korrespondent.net/ukraine/4893669-rf-atakuvala-selo-na-kharkivschyni-sered-poranenykh-dity)<br>
 22:26 [БПЛА влучило у багатоповерхівку у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4893671-bpla-vluchylo-u-bahatopoverkhivku-u-zaporizhzhi)<br>

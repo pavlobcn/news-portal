@@ -1,5 +1,41 @@
 [
   {
+    "title": "Angus & Julia Stone, tenues brillos pop y rastros de melancolía en el anochecer de Porta Ferrada",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260712/angus-julia-stone-tenues-brillos-pop-rastros-melancolia-porta-ferrada-132389336",
+    "pubDate": "2026-07-12 23:55:18",
+    "category": "",
+    "description": "<h2>El dúo australiano recorrió con pulcritud sus diez años de trayectoria y presentó tres canciones de su próximo álbum, ‘Karaoke bar’ (que saldrá en septiembre), en la muestra de Sant Feliu de Guíxols</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Під Одесою БПЛА атакували багатоповерхівку і супермаркет",
+    "link": "https://ua.korrespondent.net/ukraine/4893673-pid-odesoui-bpla-atakuvaly-bahatopoverkhivku-i-supermarket",
+    "pubDate": "2026-07-12 23:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4489869.jpg\">В Одеському районі дрон влучив у верхні поверхи багатоповерхового житлового будинку. Інший пошкодив дах будівельного супермаркету.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Silvana Estrada cautiva a Les Nits Occident",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/silvana-estrada-cautiva-les-nits-132389258",
+    "pubDate": "2026-07-12 23:41:55",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Angus & Julia Stone en el Festival Portaferrada",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/angus-julia-stone-festival-portaferrada-132389286",
+    "pubDate": "2026-07-12 23:39:47",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Удар по Запоріжжю: число постраждалих потроїлося",
     "link": "https://ua.korrespondent.net/city/zaporozhye/4893675-udar-po-zaporizhzhui-chyslo-postrazhdalykh-potroilosia",
     "pubDate": "2026-07-12 23:24:00",
@@ -475,6 +511,15 @@
     "description": "<h2 class=\"item\">El verdadero origen y destino del dinero en cuentas compartidas son los factores determinantes para Hacienda a la hora de analizar si existe una donación oculta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260701/hacienda-aclara-poner-hijo-o-pareja-cotitular-cuenta-bancaria-donacion-dv-131817378\">Hacienda aclara cuándo poner a un hijo o pareja de cotitular de una cuenta bancaria se considera donación: \"La misma reflexión sirve para el cónyuge\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Las mejores imágenes de la novena etapa del Tour de Francia",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/mejores-imagenes-novena-etapa-tour-132384145",
+    "pubDate": "2026-07-12 17:47:46",
+    "category": "",
+    "description": "<h2>Mathieu van der Poel culminó con éxito una larga escapada para lograr su tercera victoria en la ronda francesa, mientras Tadej Pogacar conservó sin dificultades el liderato de la clasificación general</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Футболісти Реала збагачують історію чемпіонатів світу власним досягненням",
