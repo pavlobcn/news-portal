@@ -1,8 +1,10 @@
-# News for 2026-07-12 21:54
+# News for 2026-07-12 22:40
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+22:26 [БПЛА влучило у багатоповерхівку у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4893671-bpla-vluchylo-u-bahatopoverkhivku-u-zaporizhzhi)<br>
+21:56 [Генштаб розповів, де точаться найважчі бої](https://ua.korrespondent.net/ukraine/4893664-henshtab-rozpoviv-de-tochatsia-naivazhchi-boi)<br>
 21:32 [У Франції терміново зупинили три ядерні реактори](https://ua.korrespondent.net/world/4893662-u-frantsii-terminovo-zupynyly-try-yaderni-reaktory)<br>
 21:07 [Авіаудар по Сумах: кількість постраждалих зросла до 43](https://ua.korrespondent.net/ukraine/4893660-aviaudar-po-sumakh-kilkist-postrazhdalykh-zrosla-do-43)<br>
 20:51 [США уразили понад 100 об'єктів в Ірані](https://ua.korrespondent.net/world/4893658-ssha-urazyly-ponad-100-obiektiv-v-irani)<br>
@@ -55,6 +57,8 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 11:13 [Satoransky, al Hapoel](https://as.com/baloncesto/euroliga/satoransky-al-hapoel-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:55 [Vídeo | Incendio en Peñarroya de Tastavíns (Teruel)](https://www.elperiodico.com/es/videos/sociedad/video-incendio-penarroya-tastavins-teruel/132388416.shtml)<br>
+21:55 [Un incendio forestal en la provincia de Teruel obliga a enviar un ES-Alert a cuatro municipios](https://www.elperiodico.com/es/sociedad/20260712/incendio-forestal-provincia-teruel-obliga-132388432)<br>
 21:42 [El incendio de Aiguamúrcia ya ha quemado 114 hectáreas y podría tener un potencial de un millar](https://www.elperiodico.com/es/videos/sociedad/incendio-aiguamurcia-quemado-114-hectareas/132388223.shtml)<br>
 21:24 [Muere una de las mujeres hospitalizadas por el incendio de Los Gallardos (Almería) y se elevan a 13 los fallecidos](https://www.elperiodico.com/es/sociedad/20260712/muere-mujeres-hospitalizadas-incendio-gallardos-132388062)<br>
 20:37 [Bélgica apunta a tres posibles víctimas belgas entre los fallecidos en el incendio de Los Gallardos (Almería)](https://www.elperiodico.com/es/sociedad/20260712/belgica-apunta-tres-posibles-victimas-132387104)<br>
