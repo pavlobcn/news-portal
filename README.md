@@ -1,9 +1,12 @@
-# News for 2026-07-12 22:40
+# News for 2026-07-12 23:34
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+23:24 [Удар по Запоріжжю: число постраждалих потроїлося](https://ua.korrespondent.net/city/zaporozhye/4893675-udar-po-zaporizhzhui-chyslo-postrazhdalykh-potroilosia)<br>
+22:53 [РФ атакувала село на Харківщині, серед поранених - діти](https://ua.korrespondent.net/ukraine/4893669-rf-atakuvala-selo-na-kharkivschyni-sered-poranenykh-dity)<br>
 22:26 [БПЛА влучило у багатоповерхівку у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4893671-bpla-vluchylo-u-bahatopoverkhivku-u-zaporizhzhi)<br>
+22:26 [БПЛА влучив у багатоповерхівку у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4893671-bpla-vluchyv-u-bahatopoverkhivku-u-zaporizhzhi)<br>
 21:56 [Генштаб розповів, де точаться найважчі бої](https://ua.korrespondent.net/ukraine/4893664-henshtab-rozpoviv-de-tochatsia-naivazhchi-boi)<br>
 21:32 [У Франції терміново зупинили три ядерні реактори](https://ua.korrespondent.net/world/4893662-u-frantsii-terminovo-zupynyly-try-yaderni-reaktory)<br>
 21:07 [Авіаудар по Сумах: кількість постраждалих зросла до 43](https://ua.korrespondent.net/ukraine/4893660-aviaudar-po-sumakh-kilkist-postrazhdalykh-zrosla-do-43)<br>
@@ -48,6 +51,8 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 00:37 [В Росії обмежили роботу іноземних SIM-карток для "захисту від дронів"](https://ua.korrespondent.net/world/russia/4893526-v-rosii-obmezhyly-robotu-inozemnykh-SIM-kartok-dlia-zakhystu-vid-droniv)<br>
 
 ## as.com
+23:14 [Más triunfos para la sub-20](https://as.com/baloncesto/mas_baloncesto/mas-triunfos-para-la-sub-20-f202607-n/)<br>
+22:31 [Sekulic, a un paso del Barça](https://as.com/baloncesto/acb/sekulic-a-un-paso-del-barca-f202607-n/)<br>
 20:30 [Brussino vuelve al Zaragoza](https://as.com/baloncesto/acb/brussino-vuelve-al-zaragoza-f202607-n/)<br>
 19:14 [Un bronce rotundo](https://as.com/baloncesto/mas_baloncesto/un-bronce-rotundo-f202607-n/)<br>
 18:30 [España arranca fuerte: dos de dos](https://as.com/baloncesto/mas_baloncesto/espana-arranca-fuerte-dos-de-dos-f202607-n/)<br>
@@ -57,6 +62,8 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 11:13 [Satoransky, al Hapoel](https://as.com/baloncesto/euroliga/satoransky-al-hapoel-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:59 [Muere una niña de 9 años en las termas de la Fontcalda (Tarragona) a raíz de la caída de una roca mientras se bañaba](https://www.elperiodico.com/es/sucesos/20260712/muere-nina-9-anos-termas-fontcalda-roca-132389011)<br>
+22:43 [Al menos 27 muertos en un gran incendio en un pub de Bangkok](https://www.elperiodico.com/es/internacional/20260712/muertos-incendio-pub-bangkok-tailandia-132388952)<br>
 21:55 [Vídeo | Incendio en Peñarroya de Tastavíns (Teruel)](https://www.elperiodico.com/es/videos/sociedad/video-incendio-penarroya-tastavins-teruel/132388416.shtml)<br>
 21:55 [Un incendio forestal en la provincia de Teruel obliga a enviar un ES-Alert a cuatro municipios](https://www.elperiodico.com/es/sociedad/20260712/incendio-forestal-provincia-teruel-obliga-132388432)<br>
 21:42 [El incendio de Aiguamúrcia ya ha quemado 114 hectáreas y podría tener un potencial de un millar](https://www.elperiodico.com/es/videos/sociedad/incendio-aiguamurcia-quemado-114-hectareas/132388223.shtml)<br>
