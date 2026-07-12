@@ -1,8 +1,10 @@
-# News for 2026-07-12 18:39
+# News for 2026-07-12 19:44
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+19:15 [На Харківщині з кладовища викрали радянський танк](https://ua.korrespondent.net/ukraine/4893647-na-kharkivschyni-z-kladovyscha-vykraly-radianskyi-tank)<br>
+18:49 [Ормузька протока залишається відкритою для суден - США](https://ua.korrespondent.net/world/4893645-ormuzka-protoka-zalyshaietsia-vidkrytoui-dlia-suden-ssha)<br>
 18:24 [Німеччина оплатить для України 50 000 дронів - ЗМІ](https://ua.korrespondent.net/world/4893641-nimechchyna-oplatyt-dlia-ukrainy-50-000-droniv-zmi)<br>
 16:41 [У Львові рятувальники зняли з дерева жінку та її кота](https://ua.korrespondent.net/city/lvov/4893630-u-lvovi-riatuvalnyky-znialy-z-dereva-zhinku-ta-yii-kota)<br>
 15:00 [Зеленський заслухав доповідь голови МВС](https://ua.korrespondent.net/ukraine/4893621-zelenskyi-zaslukhav-dopovid-holovy-mvs)<br>
@@ -40,12 +42,21 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 00:37 [В Росії обмежили роботу іноземних SIM-карток для "захисту від дронів"](https://ua.korrespondent.net/world/russia/4893526-v-rosii-obmezhyly-robotu-inozemnykh-SIM-kartok-dlia-zakhystu-vid-droniv)<br>
 
 ## as.com
+19:14 [Un bronce rotundo](https://as.com/baloncesto/mas_baloncesto/un-bronce-rotundo-f202607-n/)<br>
+18:30 [España arranca fuerte: dos de dos](https://as.com/baloncesto/mas_baloncesto/espana-arranca-fuerte-dos-de-dos-f202607-n/)<br>
 13:50 [Guerra interna en el Baskonia](https://as.com/baloncesto/acb/guerra-interna-en-el-baskonia-f202607-n/)<br>
 12:33 [El Real Madrid ‘pesca’ en el retorno de Yabusele a Europa](https://as.com/baloncesto/euroliga/el-real-madrid-pesca-en-el-retorno-de-yabusele-a-europa-f202607-n/)<br>
 11:54 [Olivier Nkamhoua, primer fichaje del Barça](https://as.com/baloncesto/olivier-nkamhoua-primer-fichaje-del-barca-f202607-n/)<br>
 11:13 [Satoransky, al Hapoel](https://as.com/baloncesto/euroliga/satoransky-al-hapoel-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:36 [Los expertos coinciden en que el calor extremo provoca ojos secos, ardor y sensación de arenilla: "Son uno de los órganos más expuestos y sensibles a las oscilaciones térmica"](https://www.elperiodico.com/es/salud/20260712/calor-extremo-ojo-seco-salud-vision-dv-et-132164876)<br>
+19:33 [La Guardia Civil rescata a un perro que había quedado atrapado en la zona calcinada por el incendio de Los Gallardos](https://www.elperiodico.com/es/sociedad/20260712/guardia-civil-rescata-perro-incendio-los-gallardos-132385980)<br>
+19:17 [Guardias Civiles rescatan con vida a un perro que había quedado atrapado en el incendio de Los Gallardos.](https://www.elperiodico.com/es/videos/sociedad/guardias-civiles-rescatan-vida-perro/132385920.shtml)<br>
+19:11 [Un incendio en Aiguamúrcia (Tarragona) arrasa 80 hectáreas: los Bomberos temen por las urbanizaciones](https://www.elperiodico.com/es/sociedad/20260712/incendio-aiguamurcia-tarragona-hectareas-afectadas-bomberos-confinar-urbanizaciones-132385204)<br>
+19:10 [Finalizan las batidas en Los Gallardos (Almería) sin encontrar nuevas víctimas mortales en las zonas incendiadas](https://www.elperiodico.com/es/sociedad/20260712/finalizan-batidas-gallardos-almeria-encontrar-132385878)<br>
+19:10 [José Ruiz, entrenador personal: "Entrenar más no siempre arregla el problema"](https://www.elperiodico.com/es/vida-y-estilo/20260712/jose-ruiz-entrenador-personal-entrenar-mas-problema-dv-et-132288953)<br>
+18:47 [Los bomberos buscan a un hombre de 60 años desaparecido en Villaviciosa tras una fiesta familiar](https://www.elperiodico.com/es/sociedad/20260712/bomberos-buscan-hombre-villaviciosa-fiesta-desaparecido-132383298)<br>
 18:32 [Incendios forestales en Los Gallardos (Almería) y en Catalunya, última hora en directo: cifra de muertos, heridos y desaparecidos](https://www.elperiodico.com/es/sociedad/20260712/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 18:19 [Impresionantes vistas aéreas del durante y el después del incendio de Los Gallardos](https://www.elperiodico.com/es/videos/sociedad/impresionantes-vistas-aereas-durante-despues/132384861.shtml)<br>
 18:01 [La notaria alicantina María Cristina Clemente lo confirma: incluir a un hijo como titular en una cuenta bancaria no es, por sí solo, una donación](https://www.elperiodico.com/es/economia/20260712/notaria-alicantina-maria-cristina-clemente-hacienda-titularidad-bancaria-dv-132335062)<br>
