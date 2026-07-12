@@ -1,8 +1,11 @@
-# News for 2026-07-12 09:17
+# News for 2026-07-12 11:23
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
 ## ua.korrespondent.net
+11:01 [ЗМІ розкрили деталі смерті Ліндсі Грема](https://ua.korrespondent.net/world/4893585-zmi-rozkryly-detali-smerti-lindsi-hrema)<br>
+10:38 [Росія вдарила по підприємству на Полтавщині, виникла пожежа](https://ua.korrespondent.net/ukraine/4893582-rosiia-vdaryla-po-pidpryiemstvu-na-poltavschyni-vynykla-pozhezha)<br>
+09:46 [У Криму знову були вибухи і сильна пожежа в порту](https://ua.korrespondent.net/world/russia/4893576-u-krymu-znovu-buly-vybukhy-i-sylna-pozhezha-v-portu)<br>
 09:13 [РФ атакувала новітніми ракетами: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4893573-rf-atakuvala-novitnimy-raketamy-yak-spratsuivala-ppo)<br>
 08:51 [Помер великий друг України сенатор США Ліндсі Грем](https://ua.korrespondent.net/world/4893570-pomer-velykyi-druh-ukrainy-senator-ssha-lindsi-hrem)<br>
 08:29 [Армія РФ вбила трьох людей і пошкодила підприємства на Дніпропетровщині](https://ua.korrespondent.net/ukraine/4893566-armiia-rf-vbyla-trokh-luidei-i-poshkodyla-pidpryiemstva-na-dnipropetrovschyni)<br>
@@ -24,6 +27,16 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 00:37 [В Росії обмежили роботу іноземних SIM-карток для "захисту від дронів"](https://ua.korrespondent.net/world/russia/4893526-v-rosii-obmezhyly-robotu-inozemnykh-SIM-kartok-dlia-zakhystu-vid-droniv)<br>
 
 ## www.elperiodico.com
+11:15 [Pablo Acebes, técnico del 112, avisa sobre el calor: "Si notas cansancio o dolor de cabeza, debes buscar la sombra y beber agua"](https://www.elperiodico.com/es/tiempo/20260712/pablo-acebes-tecnico-112-calor-cansancio-dolor-cabeza-dv-et-132224150)<br>
+11:15 ["Sospecho que mi hermano ha cambiado el testamento de mis padres": la advertencia de la experta en herencias Laura Lobo](https://www.elperiodico.com/es/economia/20260712/sospecho-hermano-cambiado-testamento-padres-dv-132080561)<br>
+11:04 [Incendios hoy, 12 de julio, en Almería, Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260712/incendios-hoy-12-julio-almeria-cataluna-espana-mapa-fuegos-dv-132376011)<br>
+11:00 [DATOS | ¿Cuántos turistas hay en Barcelona un día de verano?](https://www.elperiodico.com/es/barcelona/20260712/datos-cuantos-turistas-hay-barcelona-agosto-132328807)<br>
+10:34 [China mantiene las alertas tras tocar tierra el tifón Bavi en el este del país](https://www.elperiodico.com/es/videos/internacional/china-mantiene-alertas-tocar-tierra/132375094.shtml)<br>
+10:11 [Al menos tres heridos, incluido un niño, tras interceptar proyectiles iraníes en Catar](https://www.elperiodico.com/es/internacional/20260712/tres-heridos-nino-ataque-drones-iranies-catar-oman-132374616)<br>
+10:02 [Irán cierra el estrecho de Ormuz tras el paso de un buque que habría ignorado sus instrucciones](https://www.elperiodico.com/es/videos/internacional/iran-cierra-estrecho-ormuz-paso/132374391.shtml)<br>
+10:00 [Olvido en la escuela: un 60% de alumnos no sabe decir el nombre de una víctima de ETA](https://www.elperiodico.com/es/politica/20260712/olvido-escuela-alumnos-desconoce-victimas-terrorismo-eta-132366053)<br>
+09:44 [Niubó mantiene más de cien reuniones con centros educativos para "rebajar el malestar"](https://www.elperiodico.com/es/sociedad/20260712/esther-niubo-cien-reuniones-malestar-educativo-jornada-huelga-132373817)<br>
+09:29 [Dos muertos y cuatro heridos en un tiroteo durante un festival en Toronto](https://www.elperiodico.com/es/internacional/20260712/muertos-heridos-tiroteo-festival-toronto-canada-132373867)<br>
 09:27 [Medusas: estas son las 10 más habituales y las más peligrosas](https://www.elperiodico.com/es/medio-ambiente/20260712/medusas-son-10-habituales-peligrosas-89448862)<br>
 09:15 [Claustre Ribera (91 años): "De pequeña, no teníamos nevera ni aire acondicionado. Estoy acostumbrada al calor"](https://www.elperiodico.com/es/vida-y-estilo/20260712/claustre-ribera-91-anos-pequena-no-teniamos-nevera-aire-acondicionado-calor-dv-et-132327878)<br>
 09:14 [Romper la inercia](https://www.elperiodico.com/es/opinion/20260712/emma-riverola-articulo-pp-feijoo-romper-la-inercia-132373322)<br>
