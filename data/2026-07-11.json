@@ -72,6 +72,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-11 22:00:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Від початку доби відбулося 215 боєзіткнень",
     "link": "https://ua.korrespondent.net/ukraine/4893513-vid-pochatku-doby-vidbulosia-215-boiezitknen",
     "pubDate": "2026-07-11 21:58:00",
@@ -104,6 +113,15 @@
     "pubDate": "2026-07-11 21:24:20",
     "category": "",
     "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bellingham lleva a Inglaterra a semifinales tras tumbar a la Noruega de Haaland en un polémico partido: el día del 'cable de Dios'",
+    "link": "https://www.elperiodico.com/es/deportes/20260711/noruega-inglaterra-directo-cuartos-final-partido-goles-cronica-cable-132369059",
+    "pubDate": "2026-07-11 21:24:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Dos goles del futbolista del Real Madrid (1-2) certifican la remontada en la prórroga del equipo de Tuchel</h2><h2 class=\"item\">La FIFA tiene que demostrar con su chip que, en el empate de Inglaterra, la pelota no tocó el cable de una cámara</h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
   },
@@ -446,6 +464,15 @@
     "pubDate": "2026-07-11 17:59:18",
     "category": "",
     "description": "<h2>El enfermo, que había estado en el norte de España, se encuentra en buen estado y continuará bajo estudio para determinar el origen de sus síntomas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260710/investigan-posible-caso-fiebre-hemorragica-crimea-congo-catalunya-132348715\">Investigan un posible caso de fiebre hemorrágica Crimea-Congo en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-11 17:57:00",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -1660,6 +1687,15 @@
     "description": "<h2 class=\"item\">Mireia Oriol y Eva Martín protagonizan la nueva serie sobre dos policías muy diferentes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260710/eva-martin-promesa-agata-lola-serie-atresplayer-132177417\">Eva Martín, de 'La Promesa' a 'Ágata y Lola': \"La marquesa está donde le corresponde: en la cárcel\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260630/series-estrenos-julio-2026-netflix-hbo-disney-prime-apple-skyshowtime-atresplayer-filmin-movistar-131596065\">Las 10 series que no te puedes perder este julio</a></h2>",
     "topic": "телебачення",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-11 08:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Condenado un vigilante por robar dinero 29 veces de un furgón blindado",
