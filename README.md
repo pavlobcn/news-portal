@@ -1,4 +1,4 @@
-# News for 2026-07-12 15:11
+# News for 2026-07-12 16:40
 
 Previous day: [2026-07-11](./data/2026-07-11.md)
 
@@ -44,6 +44,20 @@ Previous day: [2026-07-11](./data/2026-07-11.md)
 11:13 [Satoransky, al Hapoel](https://as.com/baloncesto/euroliga/satoransky-al-hapoel-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:30 [La vecina de Paiporta y su familia desalojados por el incendio de Almería regresarán de los últimos a su casa](https://www.elperiodico.com/es/sociedad/20260712/vecina-paiporta-familia-desalojados-incendio-almeria-regresan-casa-vivienda-viviendas-entrevista-antas-132382359)<br>
+16:20 [El bonito pueblo de cuento a solo 40 minutos de Castelldefels](https://www.elperiodico.com/es/barcelona/castelldefels/20260712/espectacular-pueblo-cuento-40-minutos-castelldefels-dv-loc-115180075)<br>
+16:14 [Las últimas imágenes aéreas del incendio de Los Gallardos muestran un paisaje devastado](https://www.elperiodico.com/es/sociedad/20260712/ultimas-imagenes-aereas-incendio-gallardos-almeria-132381580)<br>
+16:10 [Los comerciantes afectados por el socavón de la L9 reclaman que la aseguradora comparezca y garantice compensaciones](https://www.elperiodico.com/es/barcelona/20260712/comerciantes-afectados-socavon-l9-reclaman-aseguradora-perdidas-economicas-132381971)<br>
+16:07 [Cada vez más municipios en Cataluña prohíben el tabaco en sus playas](https://www.elperiodico.com/es/videos/barcelona/vez-municipios-cataluna-prohiben-tabaco/132382061.shtml)<br>
+16:04 [Detenido por una presunta violación a una mujer en Pamplona](https://www.elperiodico.com/es/sucesos/20260712/detenido-presunta-violacion-mujer-pamplona-132363811)<br>
+16:00 [Laura Della Guardia, expat franco-estadounidense en Barcelona: "Aquí los vecinos conocen tu nombre, te saludan y existe comunidad"](https://www.elperiodico.com/es/barcelona/20260712/laura-della-guardia-expat-barcelona-vecinos-comunidad-132330378)<br>
+16:00 [España desplegará una red coordinada de telescopios para estudiar la corona solar durante los "eclipses ibéricos"](https://www.elperiodico.com/es/sociedad/20260712/espana-red-telescopios-trio-eclipses-ibericos-estudio-132337695)<br>
+15:52 [¿Por qué ahora compramos más vinilos si el CD suena mejor y es más barato?](https://www.elperiodico.com/es/ocio-y-cultura/20260712/ahora-compramos-vinilos-cd-suena-mejor-132379606)<br>
+15:30 [Imágenes del 32.º Trofeo Internacional Ciudad de Barcelona de baloncesto en silla de ruedas](https://www.elperiodico.com/es/videos/deportes/imagenes-32-o-trofeo-internacional/132381328.shtml)<br>
+15:28 [Nuevas imágenes del Servicio Aéreo de la Guardia Civil de la zona extinguida del incendio de Los Gallardos](https://www.elperiodico.com/es/videos/sucesos/nuevas-imagenes-servicio-aereo-guardia/132381479.shtml)<br>
+15:25 [Cierre de un histórico parque de atracciones: llevaba 36 años funcionando](https://www.elperiodico.com/es/vida-y-estilo/20260712/cierra-historico-parque-atracciones-atlanta-agosto-2026-dv-132018620)<br>
+15:14 [Agentes de paisano controlan el Mercat de Sant Antoni para regular la compraventa ilegal de cromos](https://www.elperiodico.com/es/barcelona/20260712/agentes-controlan-mercat-sant-antoni-cromos-mundial-futbolistas-agentes-paisano-132380433)<br>
+15:13 [El turismo vuelve a llenar Barcelona en un verano que apunta a cifras récord](https://www.elperiodico.com/es/videos/barcelona/turismo-vuelve-llenar-barcelona-verano/132381164.shtml)<br>
 15:10 [Sandra Lleida, influencer, regresa a la ciudad tras mudarse hace un año a un pequeño pueblo del Pirineo de 100 habitantes: "La soledad me está comiendo"](https://www.elperiodico.com/es/vida-y-estilo/20260712/sandra-lleida-influencer-regresa-ciudad-pequeno-pueblo-pirineo-soledad-dv-et-132335923)<br>
 15:00 [Llega la primera biografía de Roberto Bolaño, concebida como una novela de aventuras](https://www.elperiodico.com/es/ocio-y-cultura/20260712/llega-primera-biografia-roberto-bolano-132265494)<br>
 14:56 [Barcelona despide la semana con las playas llenas y a la espera de un nuevo episodio de calor](https://www.elperiodico.com/es/videos/sociedad/barcelona-despide-semana-playas-llenas/132381020.shtml)<br>
