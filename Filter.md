@@ -16,3 +16,6 @@
 - portada de EL PERIÓDICO
 - qué hacer esta semana en Barcelona
 - підсумки (за попередній день, наприклад)
+- політика
+- блогери
+- туристичні квартири
