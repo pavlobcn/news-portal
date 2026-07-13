@@ -1,4 +1,4 @@
-# News for 2026-07-13 23:52
+# News for 2026-07-14 00:50
 
 Previous day: [2026-07-12](./data/2026-07-12.md)
 
@@ -89,6 +89,8 @@ Previous day: [2026-07-12](./data/2026-07-12.md)
 09:26 [Kinu Rochford, asesinado a tiros en Harlem](https://as.com/baloncesto/mas_baloncesto/kinu-rochford-asesinado-a-tiros-en-harlem-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Los directivos catalanes alertan sobre el absentismo, la regulación y la pérdida de productividad como principales riesgos para la competitividad](https://www.elperiodico.com/es/economia/20260713/directivos-catalanes-alertan-absentismo-regulacion-132344240)<br>
+23:54 [Sergio Peris-Mencheta: "La dirección teatral no me da de comer, pero necesito contar historias"](https://www.elperiodico.com/es/ocio-y-cultura/20260713/sergio-peris-mencheta-direccion-teatral-132422119)<br>
 22:32 [El ICE mata a tiros a un colombiano en Maine, Estados Unidos](https://www.elperiodico.com/es/videos/internacional/ice-mata-tiros-colombiano-maine/132421492.shtml)<br>
 22:25 [Paneque entrega las llaves de 46 viviendas de alquiler asequible en Malgrat de Mar (Barcelona)](https://www.elperiodico.com/es/economia/20260713/paneque-entrega-llaves-46-viviendas-alquiler-asequible-malgrat-de-mar-132421380)<br>
 21:13 [La agencia Ford Models traslada sus oficinas de Barcelona a la Casa de les Punxes](https://www.elperiodico.com/es/barcelona/20260713/agencia-ford-models-traslada-oficinas-casa-punxes-barcelona-132420343)<br>
