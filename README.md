@@ -1,12 +1,28 @@
-# News for 2026-07-13 03:12
+# News for 2026-07-13 06:50
 
 Previous day: [2026-07-12](./data/2026-07-12.md)
 
 ## ua.korrespondent.net
+06:45 [Генштаб повідомив про рекордні втрати РФ за добу](https://ua.korrespondent.net/ukraine/4893702-henshtab-povidomyv-pro-rekordni-vtraty-rf-za-dobu)<br>
+06:21 [Іран атакував бази США в Йорданії та Бахрейні](https://ua.korrespondent.net/world/4893700-iran-atakuvav-bazy-ssha-v-yordanii-ta-bakhreini)<br>
+05:27 [Киян попередили про обмеження руху по Набережному шосе](https://ua.korrespondent.net/city/kiev/4893697-kyian-poperedyly-pro-obmezhennia-rukhu-po-naberezhnomu-shose)<br>
+04:56 [Провал сезону: Москва виплачуватиме допомогу працівникам турсектору Криму](https://ua.korrespondent.net/world/russia/4893695-proval-sezonu-moskva-vyplachuvatyme-dopomohu-pratsivnykam-tursektoru-krymu)<br>
 02:48 [Під Ставрополем ефектно палає нафтобаза](https://ua.korrespondent.net/world/russia/4893687-pid-stavropolem-efektno-palaie-naftobaza)<br>
 02:23 [Названа причина смерті Ліндсі Грема](https://ua.korrespondent.net/world/4893685-nazvana-prychyna-smerti-lindsi-hrema)<br>
 01:50 [США завдали нових ударів по Ірану](https://ua.korrespondent.net/world/4893683-ssha-zavdaly-novykh-udariv-po-iranu)<br>
 00:51 [Ультраправі провели у Варшаві "Волинський марш"](https://ua.korrespondent.net/world/4893679-ultrapravi-provely-u-varshavi-volynskyi-marsh)<br>
 
 ## www.elperiodico.com
+06:03 [Los expertos urgen a planificar y a invertir a largo plazo para atajar la brecha entre ingresos y gastos durante la jubilación](https://www.elperiodico.com/es/economia/20260713/expertos-urgen-planificar-invertir-largo-plazo-atajar-brecha-ingresos-gastos-jubilacion-claves-132166617)<br>
+06:01 [Las empresas adaptan sus horarios para evitar el calor: "Hay momentos que no puedes mover ni las pestañas"](https://www.elperiodico.com/es/economia/20260713/ola-de-calor-empresas-adaptan-horarios-evitar-altas-temperaturas-132342607)<br>
+06:01 [El calor también crea oportunidades](https://www.elperiodico.com/es/opinion/20260713/calor-crea-oportunidades-132364911)<br>
+06:01 [Patronales y sindicatos tienen encallado desde hace un año un protocolo ante olas de calor en el campo](https://www.elperiodico.com/es/economia/20260713/patronales-sindicatos-encallado-ano-protocolo-132342446)<br>
+06:01 [Digi no rompe con la sequía de las OPV en la Bolsa española: ¿por qué el parón de estrenos persiste?](https://www.elperiodico.com/es/economia/20260713/digi-rompe-sequia-opv-bolsa-132390452)<br>
+06:01 [La Generalitat sanciona al Institut Josep Carreras por no proteger a una trabajadora que sufrió "menosprecio" por parte de Manel Esteller](https://www.elperiodico.com/es/sociedad/20260713/treball-sancion-institut-josep-carreras-menosprecio-manel-esteller-132295139)<br>
+06:01 [Estos son los errores que hay que evitar al planificar la jubilación](https://www.elperiodico.com/es/economia/20260713/errores-evitar-consejos-planificar-jubilacion-132180815)<br>
+06:01 [La oferta de plazas públicas disminuye en el 80% de los municipios catalanes con centros concertados](https://www.elperiodico.com/es/sociedad/20260713/oferta-plazas-publicas-disminuye-mayoria-poblaciones-concertada-132315586)<br>
+06:01 [La diadema para tratar un ictus de Time is Brain capta 3 millones de euros para su llegada a los hospitales](https://www.elperiodico.com/es/economia/20260713/diadema-tratar-ictus-time-is-132320260)<br>
+05:39 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260713/directo-guerra-ucrania-rusia-ultima-126605559)<br>
+05:35 [Guerra de Irán, en directo. Última hora](https://www.elperiodico.com/es/internacional/20260713/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+05:33 [Incendios forestales en Los Gallardos (Almería) y en Catalunya, última hora en directo: cifra de muertos, heridos y desaparecidos](https://www.elperiodico.com/es/sociedad/20260713/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 01:00 [Los caballos, aliados terapéuticos para la salud mental juvenil](https://www.elperiodico.com/es/sociedad/20260713/caballos-aliados-terapeuticos-salud-mental-bc-132242656)<br>

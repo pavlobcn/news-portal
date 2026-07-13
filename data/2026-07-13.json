@@ -1,5 +1,284 @@
 [
   {
+    "title": "Генштаб повідомив про рекордні втрати РФ за добу",
+    "link": "https://ua.korrespondent.net/ukraine/4893702-henshtab-povidomyv-pro-rekordni-vtraty-rf-za-dobu",
+    "pubDate": "2026-07-13 06:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490309.jpg\">Українські військові відмінусували ще 1600 окупантів і знищили понад 500 одиниць російської техніки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран атакував бази США в Йорданії та Бахрейні",
+    "link": "https://ua.korrespondent.net/world/4893700-iran-atakuvav-bazy-ssha-v-yordanii-ta-bakhreini",
+    "pubDate": "2026-07-13 06:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490331.jpg\">КВІР заявляє, що ці дії є частиною першого етапу скоординованої відповіді Тегерана на останні американські атаки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No crean a Márquez cuando dice que no tenía un plan: lo tenía, este",
+    "link": "https://www.elperiodico.com/es/deportes/20260713/crean-marquez-dice-tenia-plan-132389272",
+    "pubDate": "2026-07-13 06:17:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Hace nada, el campeón estaba a 102 puntos del líder del Mundial, que era uno; ahora, cuatro grandes premios después, está a solo 18 puntos del líder, que es otro distinto. El que no cambia es Marc Márquez, que sigue siendo el mejor del mundo. Y lo demuestra fuera y dentro de la pista.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los expertos urgen a planificar y a invertir a largo plazo para atajar la brecha entre ingresos y gastos durante la jubilación",
+    "link": "https://www.elperiodico.com/es/economia/20260713/expertos-urgen-planificar-invertir-largo-plazo-atajar-brecha-ingresos-gastos-jubilacion-claves-132166617",
+    "pubDate": "2026-07-13 06:03:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Para complementar la pensión pública es clave anticiparse, diversificar las inversiones y tener en cuenta factores como la inflación y el estilo de vida de cada persona</h2><h2 class=\"item\">Ferran Teixes, director del IEF: \"Planificar la jubilación es un ejercicio de responsabilidad; el factor tiempo es importantísimo\"</h2><h2 class=\"item\">Con una aportación de 50 euros mensuales, una persona de 30 años puede atesorar un capital estimado de 72.900 euros a los 67 años </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260713/errores-evitar-consejos-planificar-jubilacion-132180815\">Estos son los errores que hay que evitar al planificar la jubilación</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los 19 del 19: Lamine Yamal cumple años con su gran partido en el Mundial aún por llegar",
+    "link": "https://www.elperiodico.com/es/deportes/20260713/lamine-yamal-cumple-19-anos-mundial-2026-132381896",
+    "pubDate": "2026-07-13 06:03:22",
+    "category": "",
+    "description": "<h2>La estrella de España, que arrancó el torneo convaleciente de una lesión, celebra hoy su cumpleaños con confianza en ofrecer su mejor versión en esta semana final</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Por qué Collboni llega reforzado a la recta final del mandato",
+    "link": "https://www.elperiodico.com/es/opinion/20260713/collboni-llega-reforzado-recta-final-132388233",
+    "pubDate": "2026-07-13 06:01:37",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "A la espera del TJUE",
+    "link": "https://www.elperiodico.com/es/opinion/20260713/espera-tjue-editorial-132379715",
+    "pubDate": "2026-07-13 06:01:16",
+    "category": "",
+    "description": "<h2>La resolución del tribunal europeo sobre la ley de amnistía es la condición necesaria para cerrar el ciclo político abierto por el procés</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Cosas del Mundial",
+    "link": "https://www.elperiodico.com/es/opinion/20260713/articulo-jorge-dezcallar-futbol-mundial-espana-final-132379720",
+    "pubDate": "2026-07-13 06:01:16",
+    "category": "",
+    "description": "<h2>Lejos queda aquello de que el fútbol es un deporte donde juegan once contra once y siempre gana Alemania</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las empresas adaptan sus horarios para evitar el calor: \"Hay momentos que no puedes mover ni las pestañas\"",
+    "link": "https://www.elperiodico.com/es/economia/20260713/ola-de-calor-empresas-adaptan-horarios-evitar-altas-temperaturas-132342607",
+    "pubDate": "2026-07-13 06:01:12",
+    "category": "",
+    "description": "<h2>Las altas temperaturas obligan a adelantar los trabajos en vía pública y a invertir en maquinaria para refrescar las naves industriales, si bien no todas las compañías reorganizan sus operativas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260427/cataluna-adaptara-verano-horarios-obras-publicas-verano-129581163\">Catalunya adaptará en verano los horarios de sus obras públicas a los picos de calor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor también crea oportunidades",
+    "link": "https://www.elperiodico.com/es/opinion/20260713/calor-crea-oportunidades-132364911",
+    "pubDate": "2026-07-13 06:01:12",
+    "category": "",
+    "description": "<h2 class=\"item\">La adaptación al cambio climático ya no es solo una necesidad: también impulsa la innovación, la competitividad y nuevos mercados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La relación entre Junts y el PSOE: nueve meses de negociación indirecta con la vista puesta en el regreso de Puigdemont",
+    "link": "https://www.elperiodico.com/es/politica/20260713/puigdemont-sanchez-relacion-junts-psoe-132288849",
+    "pubDate": "2026-07-13 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260712/carles-puigdemont-amnistia-regreso-cataluna-justicia-europea-tribunal-constitucional-supremo-132017924\">Puigdemont reduce su actividad pública mientras aguarda el desenlace de la amnistía y su regreso</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260613/puigdemont-regreso-cataluna-amnistia-tjue-tc-supremo-127242580\">CLAVES | Puigdemont y su camino de regreso: los escenarios que se abren cuando el TJUE resuelva sobre la amnistía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Patronales y sindicatos tienen encallado desde hace un año un protocolo ante olas de calor en el campo",
+    "link": "https://www.elperiodico.com/es/economia/20260713/patronales-sindicatos-encallado-ano-protocolo-132342446",
+    "pubDate": "2026-07-13 06:01:10",
+    "category": "",
+    "description": "<h2>La muerte de un temporero en Seròs vuelve a hacer saltar las alarmas y la Inspección de Trabajo investiga si hubo una negligencia por parte de la empresa contratante</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260706/cataluna-drones-detectar-abusos-laborales-campana-recogida-fruta-132166510\">Catalunya usará drones para detectar abusos laborales durante la campaña de recogida de fruta</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260509/accidentes-trabajo-catalunya-busca-reactivar-plan-piloto-delegados-territoriales-129966521\">Catalunya busca reactivar su plan piloto para prevenir accidentes laborales pese al rechazo de Foment</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El efecto en el PSOE de los pactos con Junts: de \"normalizar la convivencia\" al \"enorme coste electoral\" para los socialistas",
+    "link": "https://www.elperiodico.com/es/politica/20260713/efecto-pactos-psoe-junts-ley-de-amnistia-132338798",
+    "pubDate": "2026-07-13 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Dirigentes socialistas se dividen entre los que creen que los acuerdos fueron \"desastrosos\" y los que piensan que aquello \"ya está amortizado\"</h2><h2 class=\"item\">Un secretario general autonómico se pregunta: \"¿Cómo es posible que no se acordara al menos un apoyo a los presupuestos para dar estabilidad al mandato?\"</h2><h2 class=\"item\">\"El PP comenzó prediciendo el apocalipsis y ha terminado aceptando a Junts como un actor político más\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La justicia europea examina la amnistía de Puigdemont, a la espera del TC para regresar a España",
+    "link": "https://www.elperiodico.com/es/politica/20260713/justicia-europea-pasa-examen-amnistia-132337255",
+    "pubDate": "2026-07-13 06:01:07",
+    "category": "",
+    "description": "<h2>El Tribunal de Justicia de la Unión Europea resuelve el jueves sobre si la medida de gracia es acorde al derecho comunitario</h2><h2>La decisión del <strong>Tribunal Constitucional sobre </strong>el recurso que presentó el expresident contra la decisión del Supremo de no aplicar la amnistía al delito de <strong>malversación </strong>se prevé para septiembre u octubre</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Digi no rompe con la sequía de las OPV en la Bolsa española: ¿por qué el parón de estrenos persiste?",
+    "link": "https://www.elperiodico.com/es/economia/20260713/digi-rompe-sequia-opv-bolsa-132390452",
+    "pubDate": "2026-07-13 06:01:07",
+    "category": "",
+    "description": "<h2>El mercado español arrastra obstáculos como un tejido empresarial dominado por pequeñas compañías y una cultura corporativa poco proclive a la cotización, según los analistas consultados </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat sanciona al Institut Josep Carreras por no proteger a una trabajadora que sufrió \"menosprecio\" por parte de Manel Esteller",
+    "link": "https://www.elperiodico.com/es/sociedad/20260713/treball-sancion-institut-josep-carreras-menosprecio-manel-esteller-132295139",
+    "pubDate": "2026-07-13 06:01:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Treball considera probado que la entidad ignoró los riesgos psicosociales elevados que corría la exgerente, despedida tiempo después</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260703/institut-josep-carreras-despidos-altos-cargos-denunciaron-desvio-fondos-manel-esteller-131934937\" target=\"_blank\">El Institut Josep Carreras despidió a dos cargos protegidos por la ley que denunciaron desvíos de fondos y otras irregularidades</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260703/institut-josep-carreras-manel-esteller-claves-denuncia-desvios-fondos-comercializacion-muestras-humanas-acoso-laboral-131856184\" target=\"_blank\">Desvío de fondos, comercialización de muestras humanas y acoso laboral: claves de la denuncia contra el Institut Josep Carreras</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La posibilidad de que Canadá rechace la eutanasia por trastorno mental genera alarma en entidades y expertos",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260713/posibilidad-canada-rechace-eutanasia-trastorno-132319582",
+    "pubDate": "2026-07-13 06:01:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Una comisión parlamentaria del país norteamericano plantea excluir estos casos</h2><h2 class=\"item\">En España, la ley no descarta diagnósticos psiquiátricos</h2><h2 class=\"item\">La clave pasa por distinguir entre una decisión autónoma de una crisis suicida</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260326/psiquiatras-eutanasia-noelia-sufrimiento-psiquico-equiparable-dolor-fisico-derecho-muerte-digna-128435861\">Los psiquiatras alertan de que el sufrimiento psíquico es equiparable a cualquier otro e incluso peor</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Estos son los errores que hay que evitar al planificar la jubilación",
+    "link": "https://www.elperiodico.com/es/economia/20260713/errores-evitar-consejos-planificar-jubilacion-132180815",
+    "pubDate": "2026-07-13 06:01:06",
+    "category": "",
+    "description": "<h2>Esperar hasta el último momento, no prever las situaciones de dependencia y no tener en cuenta la inflación son errores que conviene evitar para afrontar la vejez con tranquilidad</h2><h2>Los expertos urgen a planificar y a invertir a largo plazo para atajar la brecha entre ingresos y gastos durante la jubilación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La presión policial contra las bandas de carteristas en el metro de Barcelona hace bajar los delitos un 40%",
+    "link": "https://www.elperiodico.com/es/barcelona/20260713/presion-policial-bandas-carteristas-metro-barcelona-autobus-policia-132026938",
+    "pubDate": "2026-07-13 06:01:05",
+    "category": "",
+    "description": "<h2>El hurto constituye el 85% de las denuncias que se registran en la red de transporte </h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260712/sants-estaciones-centro-conexiones-aeropuerto-carteristas-barcelona-mossos-132027084\">Grandes estaciones y distracciones: los ‘puntos calientes’ de ladrones en el transporte de Barcelona y las técnicas más frecuentes</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260522/plan-multirreincidencia-reduce-40-delitos-autobus-barcelona-130533916\">El plan contra la multirreincidencia reduce un 40% los delitos en los autobuses de Barcelona el primer trimestre del año</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La oferta de plazas públicas disminuye en el 80% de los municipios catalanes con centros concertados",
+    "link": "https://www.elperiodico.com/es/sociedad/20260713/oferta-plazas-publicas-disminuye-mayoria-poblaciones-concertada-132315586",
+    "pubDate": "2026-07-13 06:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">La renovación del 99% de los conciertos blinda la oferta concertada durante seis años y podría trasladar a la escuela pública los cierres de grupos derivados de la baja natalidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260708/espana-perdera-un-millon-alumnos-132173261\">España perderá 1,3 millones de alumnos potenciales: la caída demográfica abre la puerta a una educación más personalizada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La diadema para tratar un ictus de Time is Brain capta 3 millones de euros para su llegada a los hospitales",
+    "link": "https://www.elperiodico.com/es/economia/20260713/diadema-tratar-ictus-time-is-132320260",
+    "pubDate": "2026-07-13 06:01:04",
+    "category": "",
+    "description": "<h2>Esta empresa de Barcelona ha recibido la autorización de la Comisión Europea y prevé empezar las tareas de comercialización después del verano</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260219/startups-salud-catalanas-record-inversion-2025-517-millones-informe-biocat-126947890\" target=\"_blank\">Las ‘startups’ de salud catalanas baten su récord histórico de financiación con 517 millones de euros captados en 2025</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20260713/gasolineras-mas-baratas-hoy-lunes-13-julio-2026-132318430",
+    "pubDate": "2026-07-13 06:01:04",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Підсумки 12.07: Зміна уряду і смерть Грема",
+    "link": "https://ua.korrespondent.net/ukraine/4893634-pidsumky-1207-zmina-uriadu-i-smert-hrema",
+    "pubDate": "2026-07-13 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490248.jpg\">Свириденко пішла у відставку; Помер великий друг України сенатор США Ліндсі Грем. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Directo guerra Ucrania - Rusia, última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260713/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-07-13 05:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo. Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260713/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-07-13 05:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios forestales en Los Gallardos (Almería) y en Catalunya, última hora en directo: cifra de muertos, heridos y desaparecidos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260713/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-07-13 05:33:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/muertos-incendio-almeria-los-gallardos-132310835\">Mueren al menos 12 personas en el incendio forestal de Los Gallardos (Almería)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/personas-confinadas-incendios-cataluna-bomberos-alertan-algunas-no-hacen-caso-132292635\">Más de 84.000 personas han tenido que confinarse por incendios en Catalunya en menos de una semana: \"Algunas no hacen caso y deciden huir por su cuenta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Киян попередили про обмеження руху по Набережному шосе",
+    "link": "https://ua.korrespondent.net/city/kiev/4893697-kyian-poperedyly-pro-obmezhennia-rukhu-po-naberezhnomu-shose",
+    "pubDate": "2026-07-13 05:27:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490247.jpg\">Комунальники очищатимуть і ремонтуватимуть дощову каналізацію на ділянці від Подолу до мосту Метро.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Провал сезону: Москва виплачуватиме допомогу працівникам турсектору Криму",
+    "link": "https://ua.korrespondent.net/world/russia/4893695-proval-sezonu-moskva-vyplachuvatyme-dopomohu-pratsivnykam-tursektoru-krymu",
+    "pubDate": "2026-07-13 04:56:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490206.jpg\">Державні виплати отримають працівники понад 4,6 тис. галузевих підприємств, які опинилися у \"складній ситуації\" через українські атаки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "За полонених: ЄС готує нові санкції проти Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4893693-za-polonenykh-yes-hotuie-novi-sanktsii-proty-rosii",
+    "pubDate": "2026-07-13 04:25:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490165.jpg\">РФ використовує затримання, насильницькі зникнення, катування та незаконні судові процеси для залякування населення на окупованих територіях.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "У Тайланді десятки людей загинуло через пожежу у пабі",
+    "link": "https://ua.korrespondent.net/world/4893691-u-tailandi-desiatky-luidei-zahynulo-cherez-pozhezhu-u-pabi",
+    "pubDate": "2026-07-13 03:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490144.jpg\">Місцевий музикант помітив дим біля електрощита, після цього пролунав вибух, і приміщення швидко заповнив густий дим.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Італія хоче \"континентальний\" оборонний альянс за участю України",
+    "link": "https://ua.korrespondent.net/world/4893689-italiia-khoche-kontynentalnyi-oboronnyi-alians-za-uchastui-ukrainy",
+    "pubDate": "2026-07-13 03:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490123.jpg\">Пріоритетами оборонної політики Рим вважає розвиток супутникового зв'язку, захист підводної критичної інфраструктури, а також кібербезпеку та протидію дезінформації.",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
     "title": "Під Ставрополем ефектно палає нафтобаза",
     "link": "https://ua.korrespondent.net/world/russia/4893687-pid-stavropolem-efektno-palaie-naftobaza",
     "pubDate": "2026-07-13 02:48:00",
