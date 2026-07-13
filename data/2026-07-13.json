@@ -1,5 +1,86 @@
 [
   {
+    "title": "El PP se compromete a derogar la Ley de Memoria Democrática para que el \"relato\" del terrorismo no lleve \"sello\" de Bildu",
+    "link": "https://www.elperiodico.com/es/politica/20260713/pp-compromete-derogar-ley-memoria-132421693",
+    "pubDate": "2026-07-13 22:48:06",
+    "category": "",
+    "description": "<h2>Miguel Tellado asegura que lo harán en el \"primer\" Consejo de Ministros cuando Feijóo llegue a la Moncloa</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El ICE mata a tiros a un colombiano en Maine, Estados Unidos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ice-mata-tiros-colombiano-maine/132421492.shtml",
+    "pubDate": "2026-07-13 22:32:25",
+    "category": "",
+    "description": "El joven de 26 años tenía permiso de trabajo",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удари України \"відкотили\" нафтопереробку в РФ на 20 років назад - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4893972-udary-ukrainy-vidkotyly-naftopererobku-v-rf-na-20-rokiv-nazad-zmi",
+    "pubDate": "2026-07-13 22:29:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491474.jpg\">Значний дефіцит змусив Кремль заборонити більшість експорту дизельного пального до кінця липня, зауважує Bloomberg.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paneque entrega las llaves de 46 viviendas de alquiler asequible en Malgrat de Mar (Barcelona)",
+    "link": "https://www.elperiodico.com/es/economia/20260713/paneque-entrega-llaves-46-viviendas-alquiler-asequible-malgrat-de-mar-132421380",
+    "pubDate": "2026-07-13 22:25:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España y otros ocho países pactan crear una coalición antibalística defensiva con Ucrania",
+    "link": "https://www.elperiodico.com/es/videos/internacional/espana-ocho-paises-pactan-crear/132421369.shtml",
+    "pubDate": "2026-07-13 22:25:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Стали відомі характеристики двох автомобілів нового суббренду Xiaomi",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4893969-staly-vidomi-kharakterystyky-dvokh-avtomobiliv-novoho-subbrendu-Xiaomi",
+    "pubDate": "2026-07-13 22:04:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491447.jpg\">У Китаї сертифікували моделі Skynomad N70 та N90 із гібридними силовими установками. Вони орієнтовані насамперед на сімейних покупців.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Стало відомо, де відбудеться наступне засідання Коаліції охочих",
+    "link": "https://ua.korrespondent.net/ukraine/4893963-stalo-vidomo-de-vidbudetsia-nastupne-zasidannia-koalitsii-okhochykh",
+    "pubDate": "2026-07-13 21:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491424.jpg\">Учасники сьогоднішнього засідання Коаліції охочих погодилися провести наступу зустріч в Україні.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Volkswagen офіційно підтвердив скорочення 50 тисяч працівників",
+    "link": "https://ua.korrespondent.net/business/auto/4893966-Volkswagen-ofitsiino-pidtverdyv-skorochennia-50-tysiach-pratsivnykiv",
+    "pubDate": "2026-07-13 21:56:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491445.jpg\">Генеральний директор концерну підтвердив, що компанія оцінює можливість додаткових скорочень, тоді як загальна кількість звільнень може сягнути 100 тисяч осіб.",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Бокс: Олександр Хижняк дізнався ім'я свого нового суперника",
+    "link": "https://ua.korrespondent.net/sport/boks/4893965-boks-oleksandr-khyzhniak-diznavsia-imia-svoho-novoho-supernyka",
+    "pubDate": "2026-07-13 21:47:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491446.jpg\">Український боксер зустрінеться 26 липня в Саудівській Аравії з непереможеним французом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Трамп назвав, кого хоче бачити на місці Грема в Сенаті США",
     "link": "https://ua.korrespondent.net/world/4893961-tramp-nazvav-koho-khoche-bachyty-na-mistsi-hrema-v-senati-ssha",
     "pubDate": "2026-07-13 21:31:00",
@@ -25,6 +106,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Francia convierte su fiesta nacional en una demostración de fuerza europea con presencia de tropas españolas",
+    "link": "https://www.elperiodico.com/es/internacional/20260713/francia-convierte-fiesta-nacional-demostracion-132420230",
+    "pubDate": "2026-07-13 21:00:40",
+    "category": "",
+    "description": "<h2>Macron organiza un desfile marcado por el poder militar, la unidad europea y el homenaje a las víctimas del atentado de Niza diez años después</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
   },
   {
     "title": "El horóscopo de mañana martes, 14 de julio: amor, trabajo, dinero y salud para todos los signos del zodiaco",

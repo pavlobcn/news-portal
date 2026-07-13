@@ -1,8 +1,9 @@
-# News for 2026-07-13 21:52
+# News for 2026-07-13 22:53
 
 Previous day: [2026-07-12](./data/2026-07-12.md)
 
 ## ua.korrespondent.net
+22:29 [Удари України "відкотили" нафтопереробку в РФ на 20 років назад - ЗМІ](https://ua.korrespondent.net/business/economics/4893972-udary-ukrainy-vidkotyly-naftopererobku-v-rf-na-20-rokiv-nazad-zmi)<br>
 21:00 [Нам потрібно 300 ракет для Patriot - Зеленський](https://ua.korrespondent.net/ukraine/4893959-nam-potribno-300-raket-dlia-Patriot-zelenskyi)<br>
 20:00 [Польща ідентифікувала вісім жертв у Пужниках на Тернопільщині](https://ua.korrespondent.net/world/4893946-polscha-identyfikuvala-visim-zhertv-u-puzhnykakh-na-ternopilschyni)<br>
 19:47 [Адвокат України. Раптова смерть Ліндсі Грема](https://ua.korrespondent.net/world/4893944-advokat-ukrainy-raptova-smert-lindsi-hrema)<br>
@@ -87,6 +88,8 @@ Previous day: [2026-07-12](./data/2026-07-12.md)
 09:26 [Kinu Rochford, asesinado a tiros en Harlem](https://as.com/baloncesto/mas_baloncesto/kinu-rochford-asesinado-a-tiros-en-harlem-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:32 [El ICE mata a tiros a un colombiano en Maine, Estados Unidos](https://www.elperiodico.com/es/videos/internacional/ice-mata-tiros-colombiano-maine/132421492.shtml)<br>
+22:25 [Paneque entrega las llaves de 46 viviendas de alquiler asequible en Malgrat de Mar (Barcelona)](https://www.elperiodico.com/es/economia/20260713/paneque-entrega-llaves-46-viviendas-alquiler-asequible-malgrat-de-mar-132421380)<br>
 21:13 [La agencia Ford Models traslada sus oficinas de Barcelona a la Casa de les Punxes](https://www.elperiodico.com/es/barcelona/20260713/agencia-ford-models-traslada-oficinas-casa-punxes-barcelona-132420343)<br>
 21:00 [EEUU usa por primera vez drones marinos para atacar un centro para submarinos en Irán](https://www.elperiodico.com/es/videos/internacional/eeuu-primera-vez-drones-marinos-iran/132420238.shtml)<br>
 20:56 [Un bisonte lanza a un turista por los aires en el parque de Yellowstone](https://www.elperiodico.com/es/internacional/20260713/bisonte-lanza-turista-aires-parque-132420126)<br>
