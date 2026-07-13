@@ -1,8 +1,9 @@
-# News for 2026-07-13 20:11
+# News for 2026-07-13 21:52
 
 Previous day: [2026-07-12](./data/2026-07-12.md)
 
 ## ua.korrespondent.net
+21:00 [Нам потрібно 300 ракет для Patriot - Зеленський](https://ua.korrespondent.net/ukraine/4893959-nam-potribno-300-raket-dlia-Patriot-zelenskyi)<br>
 20:00 [Польща ідентифікувала вісім жертв у Пужниках на Тернопільщині](https://ua.korrespondent.net/world/4893946-polscha-identyfikuvala-visim-zhertv-u-puzhnykakh-na-ternopilschyni)<br>
 19:47 [Адвокат України. Раптова смерть Ліндсі Грема](https://ua.korrespondent.net/world/4893944-advokat-ukrainy-raptova-smert-lindsi-hrema)<br>
 19:44 [Дефіцит пального в Росії вдарив по Центральній Азії](https://ua.korrespondent.net/business/economics/4893941-defitsyt-palnoho-v-rosii-vdaryv-po-tsentralnii-azii)<br>
@@ -78,6 +79,7 @@ Previous day: [2026-07-12](./data/2026-07-12.md)
 00:51 [Ультраправі провели у Варшаві "Волинський марш"](https://ua.korrespondent.net/world/4893679-ultrapravi-provely-u-varshavi-volynskyi-marsh)<br>
 
 ## as.com
+20:30 [Mantas Juzenas reescribe la historia del Eurobasket Sub-20](https://as.com/baloncesto/mas_baloncesto/mantas-juzenas-reescribe-la-historia-del-eurobasket-sub-20-f202607-n/)<br>
 19:31 [El Real Madrid se lanza a por Jantunen](https://as.com/baloncesto/euroliga/el-real-madrid-se-lanza-a-por-jantunen-f202607-n/)<br>
 14:56 [El día que España aprendió a ganar](https://as.com/baloncesto/mas_baloncesto/el-dia-que-espana-aprendio-a-ganar-f202607-n/)<br>
 13:13 [Valanciunas opta por su país: deja la NBA para jugar en el Zalgiris](https://as.com/baloncesto/euroliga/valanciunas-opta-por-su-pais-deja-la-nba-para-jugar-en-el-zalgiris-f202607-n/)<br>
@@ -85,6 +87,12 @@ Previous day: [2026-07-12](./data/2026-07-12.md)
 09:26 [Kinu Rochford, asesinado a tiros en Harlem](https://as.com/baloncesto/mas_baloncesto/kinu-rochford-asesinado-a-tiros-en-harlem-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:13 [La agencia Ford Models traslada sus oficinas de Barcelona a la Casa de les Punxes](https://www.elperiodico.com/es/barcelona/20260713/agencia-ford-models-traslada-oficinas-casa-punxes-barcelona-132420343)<br>
+21:00 [EEUU usa por primera vez drones marinos para atacar un centro para submarinos en Irán](https://www.elperiodico.com/es/videos/internacional/eeuu-primera-vez-drones-marinos-iran/132420238.shtml)<br>
+20:56 [Un bisonte lanza a un turista por los aires en el parque de Yellowstone](https://www.elperiodico.com/es/internacional/20260713/bisonte-lanza-turista-aires-parque-132420126)<br>
+20:33 [La vicepresidenta de Hipra, Maria del Mar Nogareda, recibe el Premio Empresaria en Catalunya](https://www.elperiodico.com/es/economia/20260713/vicepresidenta-hipra-maria-mar-nogareda-132419628)<br>
+20:31 [Muere la elefanta 'Zambi' tras una lucha entre ejemplares en el Parque de Cabárceno](https://www.elperiodico.com/es/sociedad/20260713/muere-elefanta-zambi-lucha-ejemplares-132419608)<br>
+20:17 [Infecciones urinarias y cálculos renales, entre los problemas urológicos masculinos más habituales en verano](https://www.elperiodico.com/es/salud/20260713/infecciones-urinarias-calculos-renales-problemas-132419052)<br>
 19:59 [Caixabank firma una alianza con el grupo de Calzedonia y Tezenis para expandir su nuevo sistema de pagos](https://www.elperiodico.com/es/economia/20260713/caixabank-firma-alianza-grupo-calzedonia-132418680)<br>
 19:55 [Criteria relanza sus inversiones en 'start-ups' científicas y tecnológicas](https://www.elperiodico.com/es/economia/20260713/criteria-relanza-inversiones-start-ups-132417599)<br>
 19:51 [Lleida se convierte este lunes en la ciudad más cálida de toda España con máximas cercanas a los 40 grados](https://www.elperiodico.com/es/videos/sociedad/lleida-convierte-lunes-ciudad-calida/132418394.shtml)<br>
