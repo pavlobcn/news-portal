@@ -1,8 +1,21 @@
-# News for 2026-07-13 06:50
+# News for 2026-07-13 10:01
 
 Previous day: [2026-07-12](./data/2026-07-12.md)
 
 ## ua.korrespondent.net
+09:58 [На Полтавщині фотограф із громадянством РФ розбещував дітей](https://ua.korrespondent.net/ukraine/4893744-na-poltavschyni-fotohraf-iz-hromadianstvom-rf-rozbeschuvav-ditei)<br>
+09:55 [Водіїв попередили про ремонт і затримки на кордоні з Молдовою](https://ua.korrespondent.net/ukraine/4893742-vodiiv-poperedyly-pro-remont-i-zatrymky-na-kordoni-z-moldovoui)<br>
+09:46 [Російське керівництво зійшло з розуму - Зеленський](https://ua.korrespondent.net/ukraine/4893740-rosiiske-kerivnytstvo-ziishlo-z-rozumu-zelenskyi)<br>
+09:40 [Землетруси у Венесуелі: число жертв наближається до 4,5 тисячі](https://ua.korrespondent.net/world/4893738-zemletrusy-u-venesueli-chyslo-zhertv-nablyzhaietsia-do-45-tysiachi)<br>
+09:30 [Як ФОП оптимізувати витрати в умовах фіскалізації](https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii)<br>
+09:25 [Відключення світла в чотирьох областях - Укренерго](https://ua.korrespondent.net/ukraine/4893734-vidkluichennia-svitla-v-chotyrokh-oblastiakh-ukrenerho)<br>
+09:15 [У Молдові впав і вибухнув російський безпілотник](https://ua.korrespondent.net/world/4893725-u-moldovi-vpav-i-vybukhnuv-rosiiskyi-bezpilotnyk)<br>
+09:09 [Свята 13 липня 2026: факти, традиції, прикмети](https://ua.korrespondent.net/lifestyle/4893722-sviata-13-lypnia-2026-fakty-tradytsii-prykmety)<br>
+09:01 [Сили ППО знешкодили три ракети і 123 дрони](https://ua.korrespondent.net/ukraine/4893720-syly-ppo-zneshkodyly-try-rakety-i-123-drony)<br>
+08:47 [Росія має нові просування на Запоріжжі - DeepState](https://ua.korrespondent.net/ukraine/4893715-rosiia-maie-novi-prosuvannia-na-zaporizhzhi-DeepState)<br>
+08:21 [Росіяни з артилерії обстріляли село на Херсонщині: загинула жінка](https://ua.korrespondent.net/ukraine/4893712-rosiiany-z-artylerii-obstrilialy-selo-na-khersonschyni-zahynula-zhinka)<br>
+07:57 [Генштаб назвав найгарячіші напрямки фронту](https://ua.korrespondent.net/ukraine/4893710-henshtab-nazvav-naihariachishi-napriamky-frontu)<br>
+07:33 [Росія атакувала транспортну інфраструктуру в Одесі](https://ua.korrespondent.net/city/odessa/4893707-rosiia-atakuvala-transportnu-infrastrukturu-v-odesi)<br>
 06:45 [Генштаб повідомив про рекордні втрати РФ за добу](https://ua.korrespondent.net/ukraine/4893702-henshtab-povidomyv-pro-rekordni-vtraty-rf-za-dobu)<br>
 06:21 [Іран атакував бази США в Йорданії та Бахрейні](https://ua.korrespondent.net/world/4893700-iran-atakuvav-bazy-ssha-v-yordanii-ta-bakhreini)<br>
 05:27 [Киян попередили про обмеження руху по Набережному шосе](https://ua.korrespondent.net/city/kiev/4893697-kyian-poperedyly-pro-obmezhennia-rukhu-po-naberezhnomu-shose)<br>
@@ -12,7 +25,22 @@ Previous day: [2026-07-12](./data/2026-07-12.md)
 01:50 [США завдали нових ударів по Ірану](https://ua.korrespondent.net/world/4893683-ssha-zavdaly-novykh-udariv-po-iranu)<br>
 00:51 [Ультраправі провели у Варшаві "Волинський марш"](https://ua.korrespondent.net/world/4893679-ultrapravi-provely-u-varshavi-volynskyi-marsh)<br>
 
+## as.com
+09:26 [Kinu Rochford, asesinado a tiros en Harlem](https://as.com/baloncesto/mas_baloncesto/kinu-rochford-asesinado-a-tiros-en-harlem-f202607-n/)<br>
+
 ## www.elperiodico.com
+09:59 [Las mamas fibrosas: qué son y por qué no aumentan el riesgo de cáncer de mama](https://www.elperiodico.com/es/cuidamos-tu-salud/mujer-y-embarazo/20260713/mamas-fibrosas-son-aumentan-riesgo-132393483)<br>
+09:44 [Ordenan evacuación de 4 urbanizaciones de Querol por el incendio de Aiguamúrcia (Tarragona)](https://www.elperiodico.com/es/tarragona/20260713/ordenan-evacuacion-urbanizaciones-querol-incendio-aiguamurcia-tarragona-132392743)<br>
+09:40 [Esperma cultivado en laboratorio: un avance que acerca nuevas soluciones contra la infertilidad](https://www.elperiodico.com/es/tendencias21/20260713/esperma-cultivado-laboratorio-avance-acerca-132393010)<br>
+09:23 [Míster Universo Venezuela despide a su novio tras buscarlo durante 17 días entre los escombros](https://www.elperiodico.com/es/internacional/20260713/mister-venezuela-despide-novio-buscarlo-escombros-terremotos-132392514)<br>
+09:21 [Un Míster Venezuela despide a su novio tras buscarlo durante 17 días entre los escombros](https://www.elperiodico.com/es/videos/internacional/mister-venezuela-despide-novio-buscarlo/132392067.shtml)<br>
+09:15 [Incendios hoy, 13 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260713/incendios-hoy-13-julio-cataluna-espana-mapa-fuegos-activos-dv-132391943)<br>
+09:14 [Flock Drone Art eleva los drones a espectáculo](https://www.elperiodico.com/es/economia/20260713/flock-drone-art-eleva-drones-132371650)<br>
+09:07 [En una semifinal, las dos mejores del mundo y, en la otra, la guerra de las Malvinas, no es casualidad](https://www.elperiodico.com/es/deportes/20260713/semifinal-mejores-mundo-guerra-malvinas-132389795)<br>
+08:34 [Muere una mujer hospitalizada por el incendio de Los Gallardos y las víctimas ascienden a 13](https://www.elperiodico.com/es/videos/sucesos/muere-mujer-hospitalizada-incendio-gallardos/132391453.shtml)<br>
+08:17 [Los Miura cumplen en su enésima participación en San Fermín con un encierro peligroso y limpio](https://www.elperiodico.com/es/politica/20260713/miura-cumplen-enesima-participacion-san-132391209)<br>
+08:00 [Calor hoy lunes, 13 de julio, en Catalunya: consulta las temperaturas máximas y la previsión del tiempo, según Meteocat y Aemet](https://www.elperiodico.com/es/tiempo/20260713/calor-hoy-13-julio-temperaturas-meteocat-aemet-131690573)<br>
+07:41 [En directo | Última hora del incendio en Los Gallardos (Almería), que deja 12 muertos](https://www.elperiodico.com/es/sociedad/20260713/directo-ultima-hora-muertos-incendio-gallardos-almeria-132317696)<br>
 06:03 [Los expertos urgen a planificar y a invertir a largo plazo para atajar la brecha entre ingresos y gastos durante la jubilación](https://www.elperiodico.com/es/economia/20260713/expertos-urgen-planificar-invertir-largo-plazo-atajar-brecha-ingresos-gastos-jubilacion-claves-132166617)<br>
 06:01 [Las empresas adaptan sus horarios para evitar el calor: "Hay momentos que no puedes mover ni las pestañas"](https://www.elperiodico.com/es/economia/20260713/ola-de-calor-empresas-adaptan-horarios-evitar-altas-temperaturas-132342607)<br>
 06:01 [El calor también crea oportunidades](https://www.elperiodico.com/es/opinion/20260713/calor-crea-oportunidades-132364911)<br>
@@ -20,6 +48,7 @@ Previous day: [2026-07-12](./data/2026-07-12.md)
 06:01 [Digi no rompe con la sequía de las OPV en la Bolsa española: ¿por qué el parón de estrenos persiste?](https://www.elperiodico.com/es/economia/20260713/digi-rompe-sequia-opv-bolsa-132390452)<br>
 06:01 [La Generalitat sanciona al Institut Josep Carreras por no proteger a una trabajadora que sufrió "menosprecio" por parte de Manel Esteller](https://www.elperiodico.com/es/sociedad/20260713/treball-sancion-institut-josep-carreras-menosprecio-manel-esteller-132295139)<br>
 06:01 [Estos son los errores que hay que evitar al planificar la jubilación](https://www.elperiodico.com/es/economia/20260713/errores-evitar-consejos-planificar-jubilacion-132180815)<br>
+06:01 [España se asegura un suministro masivo de gas durante quince años con contratos para la llegada de 2.250 barcos](https://www.elperiodico.com/es/economia/20260713/gas-natural-espana-seguridad-suministro-masivo-2250-barcos-132331694)<br>
 06:01 [La oferta de plazas públicas disminuye en el 80% de los municipios catalanes con centros concertados](https://www.elperiodico.com/es/sociedad/20260713/oferta-plazas-publicas-disminuye-mayoria-poblaciones-concertada-132315586)<br>
 06:01 [La diadema para tratar un ictus de Time is Brain capta 3 millones de euros para su llegada a los hospitales](https://www.elperiodico.com/es/economia/20260713/diadema-tratar-ictus-time-is-132320260)<br>
 05:39 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260713/directo-guerra-ucrania-rusia-ultima-126605559)<br>
