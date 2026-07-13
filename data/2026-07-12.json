@@ -414,6 +414,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-12 19:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ормузька протока залишається відкритою для суден - США",
     "link": "https://ua.korrespondent.net/world/4893645-ormuzka-protoka-zalyshaietsia-vidkrytoui-dlia-suden-ssha",
     "pubDate": "2026-07-12 18:49:00",
@@ -540,6 +549,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-12 17:37:00",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Prisión sin fianza para el presunto violador detenido en Pamplona durante los Sanfermines",
     "link": "https://www.elperiodico.com/es/sociedad/20260712/prision-fianza-presunto-violador-detenido-pamplona-sanfermines-132383321",
     "pubDate": "2026-07-12 17:35:27",
@@ -547,6 +565,15 @@
     "description": "",
     "topic": "пограбування, афера",
     "topic_match_probability": 45
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-12 17:32:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Los taxis aéreos están cada vez más cerca: Toyota y Joby Aviation se unen para fabricar estos vehículos a gran escala",
