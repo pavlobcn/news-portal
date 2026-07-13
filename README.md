@@ -1,8 +1,9 @@
-# News for 2026-07-13 22:53
+# News for 2026-07-13 23:52
 
 Previous day: [2026-07-12](./data/2026-07-12.md)
 
 ## ua.korrespondent.net
+23:51 [Росія атакувала Київ балістикою: прогриміли вибухи](https://ua.korrespondent.net/city/kiev/4893979-rosiia-atakuvala-kyiv-balistykoui-prohrymily-vybukhy)<br>
 22:29 [Удари України "відкотили" нафтопереробку в РФ на 20 років назад - ЗМІ](https://ua.korrespondent.net/business/economics/4893972-udary-ukrainy-vidkotyly-naftopererobku-v-rf-na-20-rokiv-nazad-zmi)<br>
 21:00 [Нам потрібно 300 ракет для Patriot - Зеленський](https://ua.korrespondent.net/ukraine/4893959-nam-potribno-300-raket-dlia-Patriot-zelenskyi)<br>
 20:00 [Польща ідентифікувала вісім жертв у Пужниках на Тернопільщині](https://ua.korrespondent.net/world/4893946-polscha-identyfikuvala-visim-zhertv-u-puzhnykakh-na-ternopilschyni)<br>
