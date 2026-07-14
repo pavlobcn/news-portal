@@ -1,9 +1,27 @@
-# News for 2026-07-14 03:05
+# News for 2026-07-14 06:17
 
 Previous day: [2026-07-13](./data/2026-07-13.md)
 
 ## ua.korrespondent.net
+04:59 [В російському Салаваті атакований НПЗ - соцмережі](https://ua.korrespondent.net/world/russia/4894001-v-rosiiskomu-salavati-atakovanyi-npz-sotsmerezhi)<br>
+04:46 [Польща за півроку збудувала лиш один кілометр укріплень Східний щит - ЗМІ](https://ua.korrespondent.net/world/4893999-polscha-za-pivroku-zbuduvala-lysh-odyn-kilometr-ukriplen-skhidnyi-schyt-zmi)<br>
+04:17 [На Кубані в РФ атаковано НПЗ: спалахнула пожежа](https://ua.korrespondent.net/world/russia/4893997-na-kubani-v-rf-atakovano-npz-spalakhnula-pozhezha)<br>
+03:48 [Іран атакував танкери ОАЕ: поранено українців](https://ua.korrespondent.net/world/4893995-iran-atakuvav-tankery-oae-poraneno-ukraintsiv)<br>
 00:38 [У Донецьку палає склад боєприпасів: чути вибухи](https://ua.korrespondent.net/ukraine/4893981-u-donetsku-palaie-sklad-boieprypasiv-chuty-vybukhy)<br>
 
 ## www.elperiodico.com
+06:01 [Un caza F-18 y el Tercio Armada: esta será la presencia española en el desfile de la fiesta nacional de Francia](https://www.elperiodico.com/es/politica/20260714/espana-desfile-militar-fiesta-nacional-francia-14-julio-132420810)<br>
+06:01 [La Universidad Carlos III tiene herramientas para actuar ante la difusión de imágenes o audios de Leonor](https://www.elperiodico.com/es/politica/20260714/universidad-carlos-herramientas-actuar-videos-imagenes-audios-princesa-leonor-132420298)<br>
+06:01 [“Prefiero comer mierda”](https://www.elperiodico.com/es/tele/20260714/prefiero-comer-mierda-sergi-mas-132417650)<br>
+06:01 [Un estudio concluye que el absentismo de los universitarios tiene motivos emocionales](https://www.elperiodico.com/es/ser-feliz/20260714/estudio-concluye-absentismo-universitarios-motivos-132264122)<br>
+06:01 [El fiscal reclama hasta 17 años de cárcel para una red de tráfico ilegal de cachorros de perros y gatos en Barcelona](https://www.elperiodico.com/es/sociedad/20260714/fiscal-acusa-carcel-trafico-ilegal-perros-gatos-132299954)<br>
+06:00 [Suicidios en el metro de Barcelona: tres muertos y 14 intentos fallidos en los últimos seis meses](https://www.elperiodico.com/es/barcelona/20260714/suicidios-metro-barcelona-tres-muertos-14-intentos-primer-semestre-2026-132339108)<br>
+06:00 [TMB extenderá en un año de 11 a 123 estaciones de metro los carteles de prevención del suicidio y de asistencia a testigos](https://www.elperiodico.com/es/barcelona/20260714/tmb-extendera-en-un-ano-a-123-estaciones-metro-barcelona-carteles-prevencion-suicidio-132332986)<br>
+06:00 [Javier García, exempleado del metro de Barcelona con ocho arrollamientos de suicidas: “Lo normal es que un conductor sufra uno o dos”](https://www.elperiodico.com/es/barcelona/20260714/javier-garcia-exempleado-metro-barcelona-ocho-arrollamientos-suicidas-suicidio-132321157)<br>
+05:56 [“Prefiero comer mierda”](https://www.elperiodico.com/es/videos/tele/prefiero-comer-mierda/132410753.shtml)<br>
+05:51 [Javier García, exempleado del metro de Barcelona con ocho arrollamientos de suicidas: “Lo normal es que un conductor sufra uno o dos”](https://www.elperiodico.com/es/videos/sociedad/javier-garcia-exempleado-metro-barcelona/132334399.shtml)<br>
+05:44 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260714/directo-guerra-ucrania-rusia-ultima-126605559)<br>
+05:40 [Incendios forestales en Catalunya y resto de España, en directo: última hora del incendio en Aiguamúrcia (Tarragona) y Los Gallardos (Almería)](https://www.elperiodico.com/es/sociedad/20260714/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+05:40 [Guerra de Irán, en directo. Última hora](https://www.elperiodico.com/es/internacional/20260714/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+05:00 [Condenado un santero por violar a una niña española de 13 años: "Me regaló una muñeca y un anillo, decía que era mi esposo en la religión yoruba"](https://www.elperiodico.com/es/sucesos/20260714/santero-violar-nina-condenado-132423862)<br>
 00:03 [Muere Luis Goytisolo, escritor y académico de la RAE, a los 91 años](https://www.elperiodico.com/es/ocio-y-cultura/20260714/muere-luis-goytisolo-escritor-academico-rae-132422072)<br>
