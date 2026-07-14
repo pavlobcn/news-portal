@@ -1,4 +1,4 @@
-# News for 2026-07-14 23:31
+# News for 2026-07-15 00:36
 
 Previous day: [2026-07-13](./data/2026-07-13.md)
 
@@ -93,6 +93,16 @@ Previous day: [2026-07-13](./data/2026-07-13.md)
 11:45 [Real Madrid: cuenta atrás para Hezonja y Max Shulga, en la agenda](https://as.com/baloncesto/acb/cuenta-atras-para-hezonja-y-shulga-en-la-agenda-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:54 [Entrevista a Javi García, exconductor de metro, ante cuyo tren se arrojaron ocho personas a la vía](https://www.elperiodico.com/es/videos/sociedad/entrevista-javi-garcia-exconductor-metro/132306993.shtml)<br>
+23:43 [Se desploma un edificio de tres plantas en Valencia](https://www.elperiodico.com/es/sucesos/20260714/desploma-edificio-tres-plantas-benetusser-valencia-132460624)<br>
+23:42 [Las superestrellas de Francia se frustran ante España: "Están rotos"](https://www.elperiodico.com/es/deportes/20260714/superestrellas-francia-decepcionan-mbappe-dembele-espana-semifinal-132458952)<br>
+23:28 [Lamine pone la piedra](https://www.elperiodico.com/es/deportes/20260714/lamine-pone-piedra-132460049)<br>
+23:22 [La gloriosa España de los 'sin nombre': "Esto es una barbaridad"](https://www.elperiodico.com/es/deportes/20260714/gloriosa-espana-nombre-barbaridad-132454823)<br>
+23:21 [Lamine tenía razón](https://www.elperiodico.com/es/deportes/20260714/lamine-tenia-razon-132459595)<br>
+23:03 [Marcó Oyarzabal y Clermont-Ferrand enmudeció](https://www.elperiodico.com/es/deportes/20260714/marco-oyarzabal-clermont-ferrand-enmudecio-reportaje-francia-132459349)<br>
+22:59 [España se mete en la final aplastando a Francia con su fútbol 'sapiens'](https://www.elperiodico.com/es/deportes/20260714/francia-espana-resumen-resultado-mundial-2026-futbol-132459370)<br>
+22:59 [España es 'cruyffista'](https://www.elperiodico.com/es/deportes/20260714/espana-cruyffista-132459222)<br>
+22:59 [VIDEO | El 'mandato' del Rey se ha cumplido: solo aceptaba que la selección llegara a la final](https://www.elperiodico.com/es/politica/20260714/rey-felipe-acepta-seleccion-final-mundial-futbol-132216143)<br>
 21:30 [El Barcelona Finance Cluster reivindica el lugar de la ciudad en las finanzas europeas](https://www.elperiodico.com/es/economia/20260714/barcelona-finance-cluster-reivindica-lugar-132448053)<br>
 21:02 [Ceremonia de entrega de los Premios Princesa de Girona](https://www.elperiodico.com/es/fotos/ocio-y-cultura/ceremonia-entrega-premios-princesa-girona-132456832)<br>
 20:25 [La princesa Leonor pide proteger y acompañar el "talento joven" y el Rey reivindica la necesidad de "progresar juntos"](https://www.elperiodico.com/es/sociedad/20260714/princesa-leonor-pide-proteger-acompanar-talento-joven-132451805)<br>
