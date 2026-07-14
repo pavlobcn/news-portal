@@ -1,8 +1,18 @@
-# News for 2026-07-14 13:57
+# News for 2026-07-14 15:55
 
 Previous day: [2026-07-13](./data/2026-07-13.md)
 
 ## ua.korrespondent.net
+15:45 [Інженера будівельної компанії у Львові затримали за розбещення дітей](https://ua.korrespondent.net/city/lvov/4894190-inzhenera-budivelnoi-kompanii-u-lvovi-zatrymaly-za-rozbeschennia-ditei)<br>
+15:12 [Винищувачі Польщі перехопили розвідувальний літак РФ над Балтійським морем](https://ua.korrespondent.net/world/4894180-vynyschuvachi-polschi-perekhopyly-rozviduvalnyi-litak-rf-nad-baltiiskym-morem)<br>
+15:07 [Пожежу в зоні відчуження взяли під контроль](https://ua.korrespondent.net/ukraine/4894178-pozhezhu-v-zoni-vidchuzhennia-vzialy-pid-kontrol)<br>
+14:57 [Іран таємно вивозив нафту через Ормузьку протоку - ЗМІ](https://ua.korrespondent.net/business/economics/4894176-iran-taiemno-vyvozyv-naftu-cherez-ormuzku-protoku-zmi)<br>
+14:39 [Екскомандира 155-ї бригади Лучанова відправили у СІЗО](https://ua.korrespondent.net/ukraine/4894171-ekskomandyra-155-yi-bryhady-luchanova-vidpravyly-u-sizo)<br>
+14:26 [Росіяни атакували маршрутку у центрі Херсона: є постраждалі](https://ua.korrespondent.net/ukraine/4894162-rosiiany-atakuvaly-marshrutku-u-tsentri-khersona-ye-postrazhdali)<br>
+14:24 [У Києві знешкодили бойову частину ракети С-400](https://ua.korrespondent.net/city/kiev/4894159-u-kyievi-zneshkodyly-boiovu-chastynu-rakety-s-400)<br>
+14:08 [ВМС знищили російський корабель Ізумруд](https://ua.korrespondent.net/ukraine/4894153-vms-znyschyly-rosiiskyi-korabel-izumrud)<br>
+14:06 [Нью-Йорк першим у США призупинив будівництво дата-центрів](https://ua.korrespondent.net/business/4894150-nui-york-pershym-u-ssha-pryzupynyv-budivnytstvo-data-tsentriv)<br>
+14:00 [Армія РФ обстріляла Очаків: восьмеро поранених](https://ua.korrespondent.net/ukraine/4894148-armiia-rf-obstriliala-ochakiv-vosmero-poranenykh)<br>
 13:41 [РФ вдарила по Харкову і Слатиному: є жертва і поранені](https://ua.korrespondent.net/ukraine/4894141-rf-vdaryla-po-kharkovu-i-slatynomu-ye-zhertva-i-poraneni)<br>
 13:35 [Rheinmetall передав Україні перші снаряди з нового заводу в Німеччині](https://ua.korrespondent.net/ukraine/4894139-Rheinmetall-peredav-ukraini-pershi-snariady-z-novoho-zavodu-v-nimechchyni)<br>
 13:19 [Екскомбриг 155-ї бригади зробив заяву у суді](https://ua.korrespondent.net/ukraine/4894134-ekskombryh-155-yi-bryhady-zrobyv-zaiavu-u-sudi)<br>
@@ -39,8 +49,26 @@ Previous day: [2026-07-13](./data/2026-07-13.md)
 03:48 [Іран атакував танкери ОАЕ: поранено українців](https://ua.korrespondent.net/world/4893995-iran-atakuvav-tankery-oae-poraneno-ukraintsiv)<br>
 00:38 [У Донецьку палає склад боєприпасів: чути вибухи](https://ua.korrespondent.net/ukraine/4893981-u-donetsku-palaie-sklad-boieprypasiv-chuty-vybukhy)<br>
 
+## as.com
+15:30 [Un fichaje que nadie vio venir: TJ Warren se une al París Basketball](https://as.com/baloncesto/euroliga/un-fichaje-que-nadie-vio-venir-tj-warren-se-une-al-paris-basketball-f202607-n/)<br>
+14:09 [La Sub-17 intratable de principio a fin](https://as.com/baloncesto/mas_baloncesto/la-sub-17-intratable-de-principio-a-fin-f202607-n/)<br>
+13:49 [Portazo del Panathinaikos a Juancho: “¿Quién lo va a dejar ir?"](https://as.com/baloncesto/portazo-del-panathinaikos-a-juancho-quien-lo-va-a-dejar-ir-f202607-n/)<br>
+11:45 [Real Madrid: cuenta atrás para Hezonja y Max Shulga, en la agenda](https://as.com/baloncesto/acb/cuenta-atras-para-hezonja-y-shulga-en-la-agenda-f202607-n/)<br>
+
 ## www.elperiodico.com
+15:45 [Fnac entra de lleno en el reacondicionado con Restart y garantía de tres años](https://www.elperiodico.com/es/tecnologia/20260714/fnac-entra-lleno-reacondicionado-restart-132445936)<br>
+15:42 [Aclarar el panorama](https://www.elperiodico.com/es/opinion/20260714/aclarar-panorama-ceo-junts-alianca-catalana-articulo-josep-maria-fonalleras-132420655)<br>
+15:40 [Protección Civil mantiene activada la alerta por calor extremo en Catalunya](https://www.elperiodico.com/es/videos/barcelona/proteccion-civil-mantiene-activada-alerta-video/132442664.shtml)<br>
+15:32 [Varios muertos y 6 desaparecidos en el incendio de un edificio en el centro de Bruselas](https://www.elperiodico.com/es/internacional/20260714/muertos-6-desaparecidos-incendio-edificio-132445850)<br>
+15:22 [Pistoletazo de salida para la nueva Audiencia de Barcelona 17 años después, tras el hallazgo de restos arqueológicos](https://www.elperiodico.com/es/barcelona/20260714/pistoletazo-salida-nueva-audiencia-barcelona-espadaler-collboni-132442587)<br>
+15:17 [Axel y el precio de vivir solo en un palacio en la naturaleza por solo 150 euros al mes: "Sé que con los precios de España es una locura"](https://www.elperiodico.com/es/economia/20260714/asturias-vivienda-palacio-aislado-axel-dv-et-132337212)<br>
+15:03 [Un espectáculo inmersivo y gratuito redescubrirá el mayor claustro de Barcelona mediante luz y sonido](https://www.elperiodico.com/es/barcelona/20260714/espectaculo-monasteriodepedralbes-luminadivina-experienciainmersiva-historia-132430394)<br>
+15:00 [La brecha territorial del verano: elegir Mallorca en vez de Málaga puede encarecer más de 1.100 euros unas vacaciones familiares de una semana](https://www.elperiodico.com/es/economia/20260714/vacaciones-verano-elegir-mallorca-malaga-1100-euros-mas-caro-132434748)<br>
+14:56 [Barcelona da luz verde al 'ecodistrito' de la Mercedes: abierta la reserva de 1.300 pisos y obras en breve](https://www.elperiodico.com/es/barcelona/20260714/luz-verde-ayuntamiento-nuevo-barrio-la-mercedes-bon-pastor-inicio-obras-132441760)<br>
+14:50 [Playa de Sotavento, en Fuerteventura](https://www.elperiodico.com/es/videos/sociedad/playa-sotavento-fuerteventura/132441458.shtml)<br>
+14:44 [Hallan a un hombre apuñalado en la cocina de una vivienda de Fuencarral tras una alerta por un fuerte olor químico](https://www.elperiodico.com/es/videos/sucesos/hallan-hombre-apunalado-cocina-las-tablas/132443769.shtml)<br>
 13:56 [Las bajas sin justificar apenas suponen el 1,2% de las horas no trabajadas en las empresas](https://www.elperiodico.com/es/economia/20260714/bajas-sin-justificar-cuantas-personas-faltan-trabajo-informe-adecco-absentismo-132441251)<br>
+13:46 [Tarragona prepara la fiesta de Sant Magí más larga, con trece días de celebración y el eclipse solar como protagonista](https://www.elperiodico.com/es/tarragona/20260714/tarragona-prepara-fiesta-sant-magi-132437351)<br>
 13:35 [Cyclospora: así es la bacteria que está contagiando y provocando diarreas explosivas a cientos de estadounidenses](https://www.elperiodico.com/es/sociedad/20260714/cyclospora-bacteria-diarrea-asi-es-132431415)<br>
 13:35 [Parece las Maldivas pero está en España: la playa paradisíaca y de agua cristalina que te hará viajar sin salir del país](https://www.elperiodico.com/es/vida-y-estilo/20260714/playa-paradisiaca-espana-islas-canarias-dv-132437990)<br>
 13:22 [Carme Farnell, técnica de predicción del Meteocat, sobre lo que ocurrirá este miércoles en Catalunya: "Se podría llegar a los 40ºC, 41ºC o 42ºC"](https://www.elperiodico.com/es/tiempo/20260714/tiempo-cataluna-temperaturas-ola-de-calor-carme-farnell-meteocat-dv-loc-et-132431531)<br>
