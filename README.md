@@ -1,8 +1,13 @@
-# News for 2026-07-14 17:22
+# News for 2026-07-14 18:45
 
 Previous day: [2026-07-13](./data/2026-07-13.md)
 
 ## ua.korrespondent.net
+18:27 [Колишнього диякона ув'язнили на 15 років за зґвалтування доньки](https://ua.korrespondent.net/ukraine/4894231-kolyshnoho-dyiakona-uviaznyly-na-15-rokiv-za-zgvaltuvannia-donky)<br>
+18:25 [Росія атакувала два торговельні судна в Чорному морі: загинув капітан](https://ua.korrespondent.net/city/odessa/4894233-rosiia-atakuvala-dva-torhovelni-sudna-v-chornomu-mori-zahynuv-kapitan)<br>
+17:48 [У Польщі перехожий побив поляка, бо сприйняв його за українця](https://ua.korrespondent.net/world/4894224-u-polschi-perekhozhyi-pobyv-poliaka-bo-spryiniav-yoho-za-ukraintsia)<br>
+17:37 [Пожежа на будівництві у Брюсселі: є загиблі та зниклі люди](https://ua.korrespondent.net/world/4894222-pozhezha-na-budivnytstvi-u-bruisseli-ye-zahybli-ta-znykli-luidy)<br>
+17:28 [У ЗСУ є успіх на межі двох областей - DeepState](https://ua.korrespondent.net/ukraine/4894220-u-zsu-ye-uspikh-na-mezhi-dvokh-oblastei-DeepState)<br>
 17:13 [Росія відправила до Ірану "літак Судного дня" - ЗМІ](https://ua.korrespondent.net/world/4894215-rosiia-vidpravyla-do-iranu-litak-sudnoho-dnia-zmi)<br>
 17:06 [ГУР заявило про нову схему експорту російського пального](https://ua.korrespondent.net/world/4894211-hur-zaiavylo-pro-novu-skhemu-eksportu-rosiiskoho-palnoho)<br>
 16:55 [У Харкові бізнесмена засудили за допомогу супутниковій розвідці РФ](https://ua.korrespondent.net/city/kharkov/4894208-u-kharkovi-biznesmena-zasudyly-za-dopomohu-suputnykovii-rozvidtsi-rf)<br>
@@ -60,12 +65,23 @@ Previous day: [2026-07-13](./data/2026-07-13.md)
 00:38 [У Донецьку палає склад боєприпасів: чути вибухи](https://ua.korrespondent.net/ukraine/4893981-u-donetsku-palaie-sklad-boieprypasiv-chuty-vybukhy)<br>
 
 ## as.com
+17:52 [Dos NBA, muy cerca del Barça](https://as.com/baloncesto/euroliga/dos-nba-muy-cerca-del-barca-f202607-n/)<br>
 15:30 [Un fichaje que nadie vio venir: TJ Warren se une al París Basketball](https://as.com/baloncesto/euroliga/un-fichaje-que-nadie-vio-venir-tj-warren-se-une-al-paris-basketball-f202607-n/)<br>
 14:09 [La Sub-17 intratable de principio a fin](https://as.com/baloncesto/mas_baloncesto/la-sub-17-intratable-de-principio-a-fin-f202607-n/)<br>
 13:49 [Portazo del Panathinaikos a Juancho: “¿Quién lo va a dejar ir?"](https://as.com/baloncesto/portazo-del-panathinaikos-a-juancho-quien-lo-va-a-dejar-ir-f202607-n/)<br>
 11:45 [Real Madrid: cuenta atrás para Hezonja y Max Shulga, en la agenda](https://as.com/baloncesto/acb/cuenta-atras-para-hezonja-y-shulga-en-la-agenda-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:28 [Mueren ahogados dos hermanos gemelos de 11 años en el río Ter en Manlleu](https://www.elperiodico.com/es/videos/sucesos/mueren-ahogados-hermanos-gemelos-11/132452441.shtml)<br>
+18:25 [Investigadores observan por primera vez cómo se desarrolla una reacción química átomo a átomo](https://www.elperiodico.com/es/sociedad/20260714/investigadores-observan-primera-vez-desarrolla-132452298)<br>
+18:24 [España es el segundo país de Europa donde más crecerá el precio de la vivienda en 2026](https://www.elperiodico.com/es/economia/20260714/espana-segundo-pais-europa-crecera-132452382)<br>
+18:23 [Barcelona fomentará el catalán en cinco institutos y en 600 bares y comercios de Gràcia a partir de otoño](https://www.elperiodico.com/es/barcelona/20260714/barcelona-fomentara-catalan-cinco-institutos-comercios-gracia-132451302)<br>
+18:16 [Laura Autonell hace un homenaje a las librerías y al comercio de proximidad en su segunda novela](https://www.elperiodico.com/es/ocio-y-cultura/20260714/laura-autonell-homenaje-librerias-comercio-libro-catalan-132448056)<br>
+18:12 [Los bomberos trabajan con 36 tripulaciones, 9 de ellas aéreas, en un incendio forestal en Rubió](https://www.elperiodico.com/es/videos/sociedad/bomberos-36-tripulaciones-9-aereas-video/132451950.shtml)<br>
+18:11 [Las 130 candidaturas a los Premios Pimec 2026 consolidan el protagonismo de la pequeña empresa industrial](https://www.elperiodico.com/es/economia/20260714/130-candidaturas-premios-pimec-2026-132447038)<br>
+17:58 [Varios cortes de luz en el norte de L’Hospitalet llevan a Endesa a activar un “plan de choque” en su red eléctrica](https://www.elperiodico.com/es/barcelona/20260714/cortes-luz-norte-hospitalet-endesa-activar-plan-choque-red-electrica-132446092)<br>
+17:35 [El 75% de las fincas afectadas por el socavón del Putxet ya están inspeccionadas y 67 vecinos, realojados en hoteles](https://www.elperiodico.com/es/videos/barcelona/75-fincas-afectadas-socavon-putxet-video/132450069.shtml)<br>
+17:30 [Rafa Guerrero, psicólogo experto en trauma: “Más que centrarnos en lo que te pasa, deberíamos centrarnos en lo que pasó”](https://www.elperiodico.com/es/ser-feliz/20260714/traumas-invisibles-sintomas-rafa-guerrero-psiologo-dv-131566639)<br>
 17:15 [La Guardia Urbana rescata a una gata que estaba en "condiciones precarias" en un local de Ciutat Vella](https://www.elperiodico.com/es/barcelona/20260714/guardia-urbana-rescata-gata-condiciones-malas-condiciones-132449293)<br>
 17:15 [Ángel, socorrista de playa, sobre cómo actuar ante un ahogamiento: los primeros 3 minutos son cruciales para salvar una vida](https://www.elperiodico.com/es/sociedad/20260714/socorrista-playa-actuacion-ahogamiento-playas-dv-et-132221967)<br>
 17:13 [Toño Escrig, ferretero, sobre los enfriadores de aire: "Por menos de 80 euros lo tienes en tu casa"](https://www.elperiodico.com/es/economia/20260714/enfriador-aire-mejor-aire-acondicionado-barato-consumo-solucion-calor-verano-ferretero-dv-et-132263832)<br>
