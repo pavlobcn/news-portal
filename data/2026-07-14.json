@@ -1,5 +1,635 @@
 [
   {
+    "title": "Huawei FreeClip 2 S: diseño abierto, acabado metálico y audio adaptativo en unos auriculares que no se notan",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260714/huawei-freeclip-2-s-precio-132430096",
+    "pubDate": "2026-07-14 10:40:50",
+    "category": "",
+    "description": "<h2>La nueva generación apuesta por una estética más cuidada, mayor funcionalidad en el estuche y mejoras en inteligencia artificial para el sonido</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern abre la puerta a indemnizar a los afectados por el socavón de la L9: “Haremos lo que haga falta”",
+    "link": "https://www.elperiodico.com/es/barcelona/20260714/socavon-putxet-obras-l9-informe-ayuntamiento-paneque-indemnizaciones-132430068",
+    "pubDate": "2026-07-14 10:40:33",
+    "category": "",
+    "description": "<h2>Albert Batlle y Maria Eugènia Gay presentan este mediodía un informe de la gestión municipal sobre la incidencia</h2><h2>Directo | <a href=\"https://www.elperiodico.com/es/barcelona/20260714/socavon-obras-l9-el-putxet-barcelona-ultima-hora-directo-132218479\">Paneque apunta que la causa del socavón de la L9 en el Putxet podria ser la falta de hormigón en una cavidad</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "Solo el 46% de los autónomos se irá de vacaciones este verano y uno de cada cinco lleva más de tres años sin descansar",
+    "link": "https://www.elperiodico.com/es/economia/20260714/solo-46-por-ciento-autonomos-ira-vacaciones-verano-dv-132429857",
+    "pubDate": "2026-07-14 10:38:30",
+    "category": "",
+    "description": "<h2>La falta de ingresos durante el cierre del negocio y la imposibilidad de delegar explican por qué miles de trabajadores por cuenta propia se ven obligados a ‘renunciar’ a las vacaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тиску на Росію має бути більше - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4894069-tysku-na-rosiui-maie-buty-bilshe-zelenskyi",
+    "pubDate": "2026-07-14 10:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492277.jpg\">Кожен день затримки санкційних рішень означає додатковий час для Росії, щоб підготуватись до санкцій, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Trump recibe a Álex Palou y a la IndyCar para inaugurar un circuito urbano en el corazón de Washington",
+    "link": "https://www.elperiodico.com/es/motor/20260714/trump-recibe-alex-palou-casa-blanca-132429468",
+    "pubDate": "2026-07-14 10:35:12",
+    "category": "",
+    "description": "<h2>El piloto español regaló un casco personalizado al mandatario en la puesta de largo del 'Freedom 250', una carrera gratuita por el National Mall para conmemorar el 250º aniversario de EE.UU.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los Mossos investigan una presunta agresión sexual entre dos menores de 13 años en Tàrrega",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/mossos-investigan-presunta-agresion-sexual-tarrega-menores-132429688",
+    "pubDate": "2026-07-14 10:34:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El caso se deriva a los servicios sociales, ya que el presunto autor es inimputable al tener menos de 14 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260713/mossos-investigan-monitor-natacion-agredir-menores-centro-sant-cugat-132401563\">Los Mossos investigan a un monitor de natación por agredir sexualmente a menores en un colegio de Sant Cugat</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mushkaa reinterpreta el himno del VCT EMEA y lo presentará en directo durante las finales europeas",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260714/mushkaa-reinterpreta-himno-vct-emea-132429275",
+    "pubDate": "2026-07-14 10:34:05",
+    "category": "",
+    "description": "<h2>La artista catalana se alía con Riot Games para desarrollar un remix de ‘Villain (Take the Shot)’, un himno que ya acumula millones de reproducciones</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "FPV-дрон вдарив по авто на Запоріжжі: є загибла та поранений",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4894068-FPV-dron-vdaryv-po-avto-na-zaporizhzhi-ye-zahybla-ta-poranenyi",
+    "pubDate": "2026-07-14 10:34:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/0.jpg\">Автомобіль із мирними мешканцями рухався по одній з вулиць Таврійського. Росіяни вбили жінку та поранили чоловіка.",
+    "topic": "автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "¿Qué les sucede a las ballenas grises? Una mortalidad sin precedentes alarma a los científicos",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260714/les-sucede-ballenas-grises-mortalidad-132430154",
+    "pubDate": "2026-07-14 10:30:45",
+    "category": "",
+    "description": "<h2>Reclaman que sea catalogada como especie en peligro de extinción y temen que el cambio climático las esté privando de alimento</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Piromusical se trasladará a la playa del Bogatell y la noche de Fin de Año a la Anella Olímpica por las obras en la Fira",
+    "link": "https://www.elperiodico.com/es/barcelona/20260714/obras-fira-montjuic-piromusical-trasladara-bogatell-fin-de-ano-anella-olimpica-132429308",
+    "pubDate": "2026-07-14 10:24:43",
+    "category": "",
+    "description": "<h2>El Ayuntamiento de Barcelona reubica los dos grandes eventos que dejan la avenida de la Reina Maria Cristina</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250317/antes-despues-pabellones-montjuic-fira-barcelona-115396127\" >El antes y el después de los tres pabellones de Montjuïc que reformará la Fira de Barcelona</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "Після гучного IPO акції SpaceX різко просіли",
+    "link": "https://ua.korrespondent.net/business/companies/4894066-pislia-huchnoho-IPO-aktsii-SpaceX-rizko-prosily",
+    "pubDate": "2026-07-14 10:21:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492255.jpg\">Папери SpaceX зазнали помітного падіння на біржі. Лише за дві торговельні сесії компанія Ілона Маска втратила майже 9% своєї ринкової вартості.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irán y EEUU intensifican los ataques cruzados después de que Trump restableciera el bloqueo del estrecho de Ormuz",
+    "link": "https://www.elperiodico.com/es/internacional/20260714/iran-eeuu-intensifican-ataques-cruzados-bloqueo-estrecho-ormuz-132429703",
+    "pubDate": "2026-07-14 10:16:59",
+    "category": "",
+    "description": "<h2>El presidente estadounidense notificó al Congreso la vuelta a las hostilidades contra Teherán, lo que deja casi en papel mojado el acuerdo de paz</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260714/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713\">Guerra de Irán, en directo. Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El fin de la Verja de Gibraltar elimina los controles fronterizos entre España y el Peñón",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/verja-gibraltar-elimina-controles-fronterizos/132429397.shtml",
+    "pubDate": "2026-07-14 10:16:20",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Сумщині ексміліціонер шпигував для ФСБ",
+    "link": "https://ua.korrespondent.net/ukraine/4894063-na-sumschyni-eksmilitsioner-shpyhuvav-dlia-fsb",
+    "pubDate": "2026-07-14 10:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492254.jpg\">На ворога працював екскерівник слідчого відділу одного з підрозділів розформованої міліції у Шосткинському районі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Київ відреагував на атаку Ірану по танкерах ОАЕ з українцями",
+    "link": "https://ua.korrespondent.net/world/4894060-kyiv-vidreahuvav-na-ataku-iranu-po-tankerakh-oae-z-ukraintsiamy",
+    "pubDate": "2026-07-14 10:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492253.jpg\">В українському МЗС закликали до негайного припинення бойових дій та повного відновлення доступу до Ормузької протоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El grupo municipal de Junts en Cambrils se integra al completo en Aliança Catalana",
+    "link": "https://www.elperiodico.com/es/politica/20260714/junts-grupo-municipal-ficha-alianca-catalana-candidato-municipales-2027-132427725",
+    "pubDate": "2026-07-14 10:09:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Los tres concejales se pasan al partido de Sílvia Orriols y su portavoz, Enric Daza, será el candidato a la alcaldía en las municipales de 2027</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260705/alianca-catalana-aplaza-congreso-vetara-132118105\" target=\"_blank\">Aliança Catalana aplaza el congreso en el que vetará la posibilidad de concurrir a las elecciones generales</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЄС наклав санкції на причетних до знущань з українських полонених",
+    "link": "https://ua.korrespondent.net/world/4894061-yes-naklav-sanktsii-na-prychetnykh-do-znuschan-z-ukrainskykh-polonenykh",
+    "pubDate": "2026-07-14 10:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492252.jpg\">Європейський Союз розширив санкції через порушення прав українських військовополонених і цивільних. До нового списку потрапили 15 людей та російська пенітенціарна установа, яку пов'язують із катуваннями.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere Luis Goytisolo, escritor y académico de la RAE, a los 91 años",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/muere-luis-goytisolo-escritor-academico/132428694.shtml",
+    "pubDate": "2026-07-14 09:57:22",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Sales a caminar o correr por la playa? Esto es lo que debes saber para evitar lesiones",
+    "link": "https://www.elperiodico.com/es/salud/20260714/sales-caminar-correr-playa-riesgo-lesiones-132428635",
+    "pubDate": "2026-07-14 09:55:15",
+    "category": "",
+    "description": "<h2>El Ilustre Colegio Oficial de Podología de la Comunidad Valenciana advierte que la arena blanda y la orilla compacta alteran la biomecánica de la pisada y elevan el riesgo de lesiones.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "АТЕШ: у Криму окупанти демонтують насосні станції для відновлення світла",
+    "link": "https://ua.korrespondent.net/world/russia/4894056-atesh-u-krymu-okupanty-demontuuit-nasosni-stantsii-dlia-vidnovlennia-svitla",
+    "pubDate": "2026-07-14 09:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492231.jpg\">Після системних ударів по енергетичній інфраструктурі РФ загарбники змушені демонтувати обладнання на одних об'єктах, щоб латати дірки на інших.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Євросоюз відкрив шостий кластер для України",
+    "link": "https://ua.korrespondent.net/world/4894054-yevrosouiz-vidkryv-shostyi-klaster-dlia-ukrainy",
+    "pubDate": "2026-07-14 09:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492230.jpg\">Моніторинг прогресу України в узгодженні з правовою базою ЄС та відповідними європейськими стандартами та їх імплементації триватиме протягом усіх переговорів.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Офіцер на Сумщині заробляв на фальшивих бойових відрядженнях",
+    "link": "https://ua.korrespondent.net/ukraine/4894053-ofitser-na-sumschyni-zarobliav-na-falshyvykh-boiovykh-vidriadzhenniakh",
+    "pubDate": "2026-07-14 09:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492225.jpg\">На Сумщині завершили розслідування щодо офіцера військової частини, якого підозрюють в організації схеми незаконного отримання бойових виплат. Збитки державі сягнули майже 2,6 млн грн.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Junts rompe el pacto en el Ayuntamiento de Girona, abandona el gobierno y deja a Guanyem y ERC en minoría",
+    "link": "https://www.elperiodico.com/es/politica/20260714/junts-rompe-pacto-gobierno-girona-deja-minoria-guanyem-erc-132427950",
+    "pubDate": "2026-07-14 09:45:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La vicealcaldesa Gemma Geis, ahora portavoz de posconvergente, lo comunicó a Salellas el lunes por la noche y este martes explicará los motivos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260712/junts-girona-gemma-geis-romper-gobierno-municipal-salellas-132376223\" target=\"_blank\">Junts amaga con romper el gobierno municipal en Girona: \"Se nos ha acabado la paciencia\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Luis de la Fuente sobre las semifinales del Mundial: “Venimos dispuestos a sufrir”",
+    "link": "https://www.elperiodico.com/es/videos/deportes/luis-fuente-semifinales-mundial-venimos/132428236.shtml",
+    "pubDate": "2026-07-14 09:45:07",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Дрон РФ влучив у поїзд на Дніпропетровщині",
+    "link": "https://ua.korrespondent.net/ukraine/4894049-dron-rf-vluchyv-u-poizd-na-dnipropetrovschyni",
+    "pubDate": "2026-07-14 09:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492202.jpg\">У Дніпропетровській області російський безпілотник атакував вантажний поїзд. Завдяки тому, що склад завчасно зупинили та евакуювали бригаду, обійшлося без постраждалих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Реал і Моурінью вирішують запросити Трубіна на позицію основного воротаря",
+    "link": "https://ua.korrespondent.net/sport/football/4894048-real-i-mourinui-vyrishuuit-zaprosyty-trubina-na-pozytsiui-osnovnoho-vorotaria",
+    "pubDate": "2026-07-14 09:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492173.jpg\">Український голкіпер Бенфіки може прийти першим номером у мадридський клуб на місце Тібо Куртуа.",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "La venta de viviendas encadena cinco meses a la baja tras caer un 7,3% interanual en mayo",
+    "link": "https://www.elperiodico.com/es/economia/20260714/venta-viviendas-cae-quinto-mes-132427717",
+    "pubDate": "2026-07-14 09:36:15",
+    "category": "",
+    "description": "<h2>La compraventas de casas acumulan una contracción del 3,4% en lo que va de año</h2>",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Відключення охопили дев'ять областей - Укренерго",
+    "link": "https://ua.korrespondent.net/ukraine/4894046-vidkluichennia-okhopyly-deviat-oblastei-ukrenerho",
+    "pubDate": "2026-07-14 09:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492201.jpg\">Енергетики роблять усе можливе, щоб якнайшвидше повернути пошкоджене ворогом обладнання в роботу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora del terremoto en Venezuela, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260714/terremoto-venezuela-hoy-ultima-hora-directo-131788662",
+    "pubDate": "2026-07-14 09:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260625/doblete-sismico-venezuela-explicacion-131792108\" target=\"_blank\">¿Qué es el doblete sísmico que ha ocurrido en Venezuela y por qué se han producido dos terremotos violentos en menos de un minuto?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260625/terremotos-venezuela-desaparecidos-muertos-caracas-131790570\" target=\"_blank\">Venezuela busca a la desesperada a los desaparecidos por los terremotos: \"¡Antonio, mamá está aquí!\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині вбивця поліцейського отримав довічне",
+    "link": "https://ua.korrespondent.net/ukraine/4894044-na-odeschyni-vbyvtsia-politseiskoho-otrymav-dovichne",
+    "pubDate": "2026-07-14 09:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492195.jpeg\">Засуджений зізнався, що постійно носив із собою зброю і був готовий її застосувати проти поліцейських або військових у разі спроби його зупинити.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Así son los dos limpiadores coreanos que transforman tu piel a los 35: firmeza y cero marcas",
+    "link": "https://www.elperiodico.com/es/shopping/20260714/limpiadores-facial-coreanos-piel-firmeza-marcas-118020092",
+    "pubDate": "2026-07-14 09:22:00",
+    "category": "",
+    "description": "<h2> Lo que estos dos limpiadores coreanos hacen por tu piel a los 35 te va a sorprender… olvídate con ellos de las marcas o signos de la edad de una vez por todas. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 14 de julio en España tras la eliminación de la rebaja del IVA: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20260714/precio-gasolina-diesel-hoy-14-julio-dv-132426992",
+    "pubDate": "2026-07-14 09:21:17",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Вступ України до ЄС: всі кластери готові до відкриття",
+    "link": "https://ua.korrespondent.net/world/4894042-vstup-ukrainy-do-yes-vsi-klastery-hotovi-do-vidkryttia",
+    "pubDate": "2026-07-14 09:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492194.jpg\">Європейська комісія заявляє, що всі переговорні кластери для вступу України до ЄС уже готові до відкриття. Попри політичні процедури, технічна підготовка триває без зупинки.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Precio del petróleo hoy, 14 de julio por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20260714/precio-petroleo-hoy-14-julio-dv-132426999",
+    "pubDate": "2026-07-14 09:17:22",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "DAZN emite todo el Mundial 2026: así puedes disfrutar de los 104 partidos totalmente gratis",
+    "link": "https://www.elperiodico.com/es/shopping/20260714/donde-ver-mundial-2026-gratis-dazn-131226577",
+    "pubDate": "2026-07-14 09:16:00",
+    "category": "",
+    "description": "<h2>Descubre la nueva propuesta de DAZN y vive el torneo en directo y con cobertura completa</h2><h2><a href=\"https://tidd.ly/4f5Jha3\" target=\"_blank\" rel=\"nofollow\">Disfruta del Mundial en DAZN con la oferta de 4,99 euros</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Incendios hoy, 14 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/incendios-hoy-14-julio-cataluna-espana-mapa-fuegos-activos-dv-132426833",
+    "pubDate": "2026-07-14 09:14:50",
+    "category": "",
+    "description": "<h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260712/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" >Incendios forestales en Catalunya y resto de España, última hora en directo: cifra de muertos, heridos y desaparecidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія звинуватила Київстонера в організації атаки дронами під Москвою",
+    "link": "https://ua.korrespondent.net/lifestyle/4894040-rosiia-zvynuvatyla-kyivstonera-v-orhanizatsii-ataky-dronamy-pid-moskvoui",
+    "pubDate": "2026-07-14 09:12:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492172.jpg\">Сам артист відреагував на звинувачення у соцмережах нецензурними словами.",
+    "topic": "блогери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La asombrosa transformación con prótesis y maquillaje de Tom Cruise en 'Digger': de héroe de acción al límite a excéntrico magnate envejecido",
+    "link": "https://www.elperiodico.com/es/gente/20260714/tom-cruise-digger-transformacion-protesis-maquillaje-132425838",
+    "pubDate": "2026-07-14 09:09:39",
+    "category": "",
+    "description": "<h2>A sus 64 años, la estrella hollywoodiense cambia las escenas de acrobacias increíbles por pelo canoso, barriga y abundantes prótesis en la nueva sátira de Alejandro G. Iñárritu, que llegará a los cines el 2 de octubre </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20220525/tom-cruise-secreto-juventud-dieta-entrentamiento-13695192\">¿Cuál es el secreto de la eterna juventud de Tom Cruise?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іскандери, Х-59/69 і дрони: як ППО відбивала атаку",
+    "link": "https://ua.korrespondent.net/ukraine/4894038-iskandery-kh-5969-i-drony-yak-ppo-vidbyvala-ataku",
+    "pubDate": "2026-07-14 09:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492150.jpg\">Зафіксовано влучання балістичної ракети та 25 ударних БпЛА на 17 локаціях, а також падіння уламків на 10 локаціях. Інформація щодо двох балістичних ракет уточнюється.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Argentina-Inglaterra en los Mundiales: el banderín británico estrujado, la mano de Dios de Maradona y el 'bullying' nacional a Beckham",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/argentina-inglaterra-precedentes-mundial-132411355",
+    "pubDate": "2026-07-14 09:00:07",
+    "category": "",
+    "description": "<h2 class=\"item\">La rivalidad entre las dos selecciones surgió antes de la guerra de las Malvinas, pero el conflicto bélico la agravó</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Operativo de los Mossos en Barcelona, Badalona, Sant Adrià, Terrassa y Maçanet por un tiroteo en La Mina ocurrido en mayo",
+    "link": "https://www.elperiodico.com/es/barcelona/20260714/disposito-mosso-tiroteo-mayo-mina-barcelona-132426485",
+    "pubDate": "2026-07-14 08:57:30",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260512/mina-tiroteo-pelea-familias-sant-adria-130158926\">Una pelea en Sant Adrià deriva en disparos al aire en La Mina y un coche tiroteado</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Беленюк підсумував свій дебют в ММА",
+    "link": "https://ua.korrespondent.net/sport/boks/4894035-belenuik-pidsumuvav-svii-debuit-v-mma",
+    "pubDate": "2026-07-14 08:48:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492105.jpg\">Нещодавно спортсмен провів свій перший бій за правилами змішаних єдиноборств. Його успіх, однак, не мав матеріального підкріплення.",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "У Севастополі \"прилетіло\" на Балаклавську ТЕС - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/dennezavisimosti2014/4894033-u-sevastopoli-pryletilo-na-balaklavsku-tes-zmi",
+    "pubDate": "2026-07-14 08:46:00",
+    "category": "Історія досягнень України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492149.jpg\">Після атаки частина міста залишилася без електропостачання, на об'єктах енергетичної інфраструктури окупанти запровадили особливий режим.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EE.UU. investiga si Irán tiene drones almacenados en Cuba",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ee-uu-investiga-iran-drones/132426070.shtml",
+    "pubDate": "2026-07-14 08:45:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Última hora de la situación en los tribunales y de las reacciones políticas de los casos Zapatero, Leire Díez, Begoña Gómez y toda la trama PSOE",
+    "link": "https://www.elperiodico.com/es/politica/20260714/zapatero-declaracion-plus-ultra-joyas-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522",
+    "pubDate": "2026-07-14 08:40:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Consum inspecciona la venta física y en línea de gafas para el eclipse solar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/eclipse-agosto-inspeccion-gafas-cataluna-132425940",
+    "pubDate": "2026-07-14 08:38:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El organismo aconseja \"no jugársela\", seguir las recomendaciones y comprobar que se está comprando un producto homologado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260712/espana-red-telescopios-trio-eclipses-ibericos-estudio-132337695\">España desplegará una red coordinada de telescopios para estudiar la corona solar durante los \"eclipses ibéricos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump dice que Irán buscó seguir negociando pese a un acuerdo alcanzado con EE.UU.",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-dice-iran-busco-seguir/132425911.shtml",
+    "pubDate": "2026-07-14 08:36:13",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kia Seltos: el SUV que conquista Europa con diseño, tecnología y una versión híbrida e-AWD",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/kia-seltos-suv-conquista-europa-bc-132425483",
+    "pubDate": "2026-07-14 08:15:04",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Qué cambia (y qué no) con el fin de la Verja de Gibraltar: controles, trabajadores, soberanía y flecos pendientes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/cambia-verja-gibraltar-controles-trabajadores-132425441",
+    "pubDate": "2026-07-14 08:14:46",
+    "category": "",
+    "description": "<h2>Guía práctica para entender cómo será el paso entre La Línea y el Peñón, dónde estarán ahora los controles y qué efectos tendrá el acuerdo sobre personas, mercancías, aduanas, fiscalidad y seguridad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Marta Gómez Montero encuentra nuevo trabajo en Telemadrid con Antonio Naranjo tras su incidente con Cintora en TVE: \"Aquí no tendrás que comer nada que no quieras\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260714/marta-gomez-montero-ficha-telemadrid-tras-polemica-cintira-tve-antonio-naranjo-132425223",
+    "pubDate": "2026-07-14 08:09:33",
+    "category": "",
+    "description": "<h2 class=\"item\">La periodista suma una nueva colaboración en televisión después del enorme revuelo generado por su espantada de 'Malas Lenguas Noche'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20260713/jesus-cintora-zanja-polemica-marta-montero-respuesta-tajante-despido-mediaset-desmiente-golpes-insultos-gritos-132418696\">Jesús Cintora zanja su polémica con Marta Gómez Montero y responde tajante a los que recuerdan su depido en Mediaset: \"Yo ni insulto, ni grito ni golpeo a nadie\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війська РФ обстріляли Херсонщину: троє загиблих, 25 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4894020-viiska-rf-obstrilialy-khersonschynu-troie-zahyblykh-25-poranenykh",
+    "pubDate": "2026-07-14 08:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492084.jpg\">За добу окупанти били по 39 населених пунктах різними видами озброєння, що призвело до жертв та спричинило низку руйнувань і пошкоджень у громадах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bizum Pay ya se puede descargar en Android e IOs desde este martes: así funciona el nuevo sistema y la app para pagar en comercios y grandes superficies",
+    "link": "https://www.elperiodico.com/es/economia/20260714/bizum-pago-tiendas-comercios-asi-funciona-sistema-app-entra-en-vigor-130186645",
+    "pubDate": "2026-07-14 08:01:00",
+    "category": "",
+    "description": "<h2>La aplicación permite realizar cobros instantáneos y sin intermediarios directamente desde de la cuenta bancaria del cliente</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Nobu: \"¿Cree que tengo pinta de chef estrella? Soy Nobuyuki Matsuhisa, solo soy un cocinero\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260714/nobu-cree-pinta-chef-estrella-131850496",
+    "pubDate": "2026-07-14 08:00:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El cocinero japonés, socio de Robert de Niro y uno de los chefs más conocidos del mundo, visita Barcelona y charla con EL PERIÓDICO</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20200118/nobu-suicidio-robert-de-niro-chef-japones-sushi-7807941\">Nobu: \"Estuve a punto de suicidarme\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250801/mejores-restaurantes-japoneses-barcelona-11616041\">Los mejores restaurantes japoneses de Barcelona en los que te sentirás como en Tokio</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Europa frena el avance de los neumáticos chinos con aranceles a la competencia desleal",
+    "link": "https://www.elperiodico.com/es/motor/20260714/europa-frena-avance-neumaticos-chinos-132399613",
+    "pubDate": "2026-07-14 08:00:11",
+    "category": "",
+    "description": "<h2>La Comisión Europea aplica gravámenes de hasta el 45% para frenar la competencia desleal del país asiático, que ya controlaba el 28% del mercado comunitario con precios muy inferiores a los europeos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los mejores restaurantes de la Costa Brava donde comer un gran producto con los pies casi en el agua",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260714/mejores-restaurantes-costa-brava-cerca-mar-132090903",
+    "pubDate": "2026-07-14 07:59:06",
+    "category": "",
+    "description": "<h2 class=\"item\">En estos sitios a dos pasos de la playa disfrutarás de grandes platos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231009/buenos-restaurantes-baix-emporda-91953879\">Los mejores restaurantes del Baix Empordà</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231009/mejores-restaurantes-alt-emporda-107662794\">Los mejores restaurantes del Alt Empordà</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España-Francia (Mundial 2026): rabo de vaca contra 'boeuf bourguignon'. ¿Qué se come en el país vecino?",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260714/platos-tipicos-francia-132399857",
+    "pubDate": "2026-07-14 07:57:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La selección de Luis de la Fuente se enfrenta al equipo galo, cuyo recetario es más variado que los regates de Mbappé</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260710/platos-tipicos-belgica-132290433\">España-Bélgica (Mundial 2026): mejillones a la marinera contra mejillones con patatas fritas. ¿Qué se come en el país centroeuropeo?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260706/platos-tipicos-portugal-132098557\">España-Portugal (Mundial 2026): merluza contra bacalao. ¿Qué se come en el país vecino?</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Listán blanco, maturana, oneca... 3 nuevos vinos blancos elaborados con variedades minoritarias",
+    "link": "https://www.elperiodico.com/es/gastronomia/vinos/20260714/mejores-vinos-blancos-nuevos-130681405",
+    "pubDate": "2026-07-14 07:55:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí tienes elaboraciones con personalidad propia que te sorprenderán</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20250901/vinos-blancos-buenos-navarra-valladolid-rioja-bierzo-120158638\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20211004/trivial-vinos-12127600\" >Navarra, Valladolid, Rioja, El Bierzo...: los vinos blancos buenos llegan de todas partes</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20211004/trivial-vinos-12127600\" >Trivial: ¿cuánto sabes de vinos?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/vinos/20240620/vinos-blancos-josep-roca-cata-mayor-103783226\" >VÍDEO | Esto va de blancos: ¿chardonnay, albariño, Penedès, La Rioja? ¿joven, añejo? Responde el sumiller Josep Roca</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "En directo | Última hora del incendio en Los Gallardos (Almería), que deja 12 muertos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/directo-ultima-hora-muertos-incendio-gallardos-almeria-132317696",
+    "pubDate": "2026-07-14 07:41:00",
+    "category": "",
+    "description": "<h2>El fuego, que empezó el jueves, ha arrasado ya a 5.000 hectáreas y ha obligado a desalojar a 1.405 personas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Оновлено карту бойових дій на фронті - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4894016-onovleno-kartu-boiovykh-dii-na-fronti-henshtab",
+    "pubDate": "2026-07-14 07:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492049.jpg\">На фронті за минулу добу відбулося 244 зіткнення, найбільше ворог атакував на Покровському напрямку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака РФ на Київ: рятувальники показали наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4894013-ataka-rf-na-kyiv-riatuvalnyky-pokazaly-naslidky",
+    "pubDate": "2026-07-14 07:16:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492023.jpg\">Наслідки ударів балістикою зафіксували у двох районах Києва. Виникли пожежі на складах. Люди не постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamine Yamal responde a Rajoy: \"El fútbol si sirve para algo es para integrar\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/lamine-yamal-responde-rajoy-francia-racista-132424911",
+    "pubDate": "2026-07-14 07:10:45",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260713/francia-criticas-rajoy-gobierno-seleccion-racismo-articulo-132403626\">Francia redobla las críticas a Rajoy por sus comentarios sobre la selección: \"Es una estupidez, racismo o las dos cosas\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Треба збільшити виробництво боєприпасів для ППО України - Нідерланди",
+    "link": "https://ua.korrespondent.net/world/4894010-treba-zbilshyty-vyrobnytstvo-boieprypasiv-dlia-ppo-ukrainy-niderlandy",
+    "pubDate": "2026-07-14 07:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492001.png\">Нарощення військового виробництва важливо для безпеки обох країн, заявили в міністерстві оборони Нідерландів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "GRAVITEO también se saborea: así será el festival donde la música y la gastronomía juegan su propio campeonato",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/graviteo-saborea-sera-festival-musica-132424893",
+    "pubDate": "2026-07-14 07:01:53",
+    "category": "",
+    "description": "<h2>El gran festival de cultura urbana no solo concentrará a algunos de los mejores especialistas nacionales e internacionales de disciplinas como la escalada o el patinaje, sino que convertirá cada rincón del recinto en una experiencia en la que el deporte será solo el punto de partida. ¿Te vienes?</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Cuando al Tour le saltan los plomos",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/tour-saltan-plomos-tourmalet-sergi-lopez-egea-132419428",
+    "pubDate": "2026-07-14 07:00:32",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'La Odisea' contada en 2026",
+    "link": "https://www.elperiodico.com/es/opinion/20260714/odisea-contada-2026-132417018",
+    "pubDate": "2026-07-14 07:00:28",
+    "category": "",
+    "description": "<h2>La epopeya clásica de Homero resuena en la actualidad abordando temas como el desarraigo, la identidad y la perseverancia en un mundo desigual</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Biorremodelación: ¿qué es y por qué es el nuevo oro de la cosmética?",
+    "link": "https://www.elperiodico.com/es/gente/20260714/que-es-biorremodelacion-nuevo-oro-cosmetica-smartker-proteos-biotech-132294554",
+    "pubDate": "2026-07-14 07:00:21",
+    "category": "",
+    "description": "<h2>El laboratorio español <a href=\"https://api-esp-eu.piano.io/-c/20/24983/329417/2937208/825222/b603e677d51514b48d319021665d3cd8/-1/-1?attrs=0&order=0\"  rel=\"nofollow\">Proteos Biotech</a> desarrolla y produce seis enzimas recombinantes propias que regeneran la piel desde dentro para llevar el cuidado profesional a casa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Calor o velocidad: ¿Qué afecta más a un coche eléctrico en un viaje largo?",
+    "link": "https://www.elperiodico.com/es/motor/20260714/calor-o-velocidad-que-afecta-mas-coche-verano-132245759",
+    "pubDate": "2026-07-14 07:00:19",
+    "category": "",
+    "description": "<h2>Muchos propietarios de vehículos eléctricos desconocen qué tiene más impacto a la hora de realizar trayectos largos en verano</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La parrilla de MotoGP reconoce que el Márquez campeón ha vuelto",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/parrilla-motogp-reconoce-marquez-campeon-132422006",
+    "pubDate": "2026-07-14 06:45:05",
+    "category": "",
+    "description": "<h2 class=\"item\">No son (solo) los resultados. No es solo la determinación con la que los consigue. Es, sobre todo, la sensación que desprende de seguridad, de volver a ser el de siempre, o casi. Marc Márquez (Ducati) ya impresiona a sus rivales, como impresionó el pasado año. Y muchos otros. Muchos.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "США оголосили завершення ударної операції по Ірану і підбили її підсумки",
+    "link": "https://ua.korrespondent.net/world/4894007-ssha-oholosyly-zavershennia-udarnoi-operatsii-po-iranu-i-pidbyly-yii-pidsumky",
+    "pubDate": "2026-07-14 06:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491959.jpg\">Центральне командування застосувало високоточні боєприпаси для знищення іранських систем берегової оборони, ракетних комплексів і об'єктів морської інфраструктури у шести містах.",
+    "topic": "підсумки",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Генштаб ЗСУ навів свіжі дані про втрати армії РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4894005-henshtab-zsu-naviv-svizhi-dani-pro-vtraty-armii-rf",
+    "pubDate": "2026-07-14 06:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491937.jpg\">За добу українські військові відмінусували ще 1120 окупантів і знищили понад 500 одиниць російської техніки.",
+    "topic": "підсумки",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Gràcia y Sants se preparan para unas fiestas mayores 2026 con alto riesgo de calor extremo",
     "link": "https://www.elperiodico.com/es/barcelona/20260714/fiestasdegracia-sants-2026-medidas-calor-extremo-verano-132402362",
     "pubDate": "2026-07-14 06:01:32",
@@ -61,6 +691,15 @@
     "description": "<h2>España, a un paso de la final, monpolizará la posesión para desconectar a los delanteros galos igual que en los tres últimos precedentes en los que doblegó a los galos. </h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 90
+  },
+  {
+    "title": "De la Fuente utilizará el balón como cortafuegos ante la Francia de los cuatro mosqueteros",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/francia-de-la-fuente-cortafuegos-balon-semifinal-espana-mundial-2026-132416825",
+    "pubDate": "2026-07-14 06:01:13",
+    "category": "",
+    "description": "<h2>España, a un paso de la final, monpolizará la posesión para desconectar a los delanteros galos igual que en los tres últimos precedentes en los que doblegó a los galos. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
   },
   {
     "title": "Un estudio concluye que el absentismo de los universitarios tiene motivos emocionales",
