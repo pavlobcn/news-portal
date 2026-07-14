@@ -387,6 +387,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-13 19:49:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Convocado un concurso para definir el diseño de los nuevos elementos de las terrazas de la Rambla",
     "link": "https://www.elperiodico.com/es/barcelona/20260713/convocado-concurso-definir-diseno-nuevos-elementos-terrazas-rambla-barcelona-132418073",
     "pubDate": "2026-07-13 19:48:07",
@@ -979,6 +988,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4491098.jpg\">Концерн відповідатиме за наземну складову колективної підготовки, за управління фізичною навчальною інфраструктурою, налаштування систем і логістичне забезпечення.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-13 16:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Атаки дронів обвалили нафтопереробку Росії до рівня 2005 року",
@@ -1744,6 +1762,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4490860.jpg\">Воєнний стан і загальну мобілізацію пропонується продовжити ще на 90 діб – з 2 серпня 2026 року.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-13 13:35:00",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
+    "topic": "0",
+    "topic_match_probability": 0
   },
   {
     "title": "Убивство двох братів: поліція розкрила деталі справи за участю військових",
