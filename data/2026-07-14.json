@@ -1,5 +1,329 @@
 [
   {
+    "title": "Зеленський попередив про небезпечні кроки Путіна",
+    "link": "https://ua.korrespondent.net/ukraine/4894277-zelenskyi-poperedyv-pro-nebezpechni-kroky-putina",
+    "pubDate": "2026-07-14 21:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493059.jpg\">Росія може намагатися втягнути у конфлікт нові країни, якщо не досягне бажаного результату у війні проти України.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Congreso deja lista para aprobar la reforma que facilitaría a ERC y Junts tener grupo parlamentario propio en el futuro",
+    "link": "https://www.elperiodico.com/es/politica/20260714/congreso-reforma-requisitos-grupo-parlamentario-132456835",
+    "pubDate": "2026-07-14 21:01:35",
+    "category": "",
+    "description": "<h2>La norma, que se aprobará próximamente en el pleno, rebaja los requisitos exigidos actualmente</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Euromillones hoy: resultados y comprobar números premiados en el sorteo del martes, 14 de julio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/euromillones-hoy-martes-14-julio-2026-resultados-comprobar-numeros-directo-132454767",
+    "pubDate": "2026-07-14 21:00:26",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana miércoles, 15 de julio: amor, trabajo, dinero y salud para todos los signos del zodiaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260714/horoscopo-hoy-miercoles-15-julio-dv-132295357",
+    "pubDate": "2026-07-14 21:00:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodiaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Congreso deja a las autonomías sin 5.849 millones de margen fiscal al tumbar la senda de déficit",
+    "link": "https://www.elperiodico.com/es/economia/20260714/congreso-deja-autonomias-5-849-132456499",
+    "pubDate": "2026-07-14 20:52:01",
+    "category": "",
+    "description": "<h2>Los votos en contra de PP, Vox y Junts obligan al Gobierno a llevar de nuevo los objetivos de estabilidad a la Cámara Baja el 23 de julio</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Астронавти вперше використали рентген в космосі",
+    "link": "https://ua.korrespondent.net/tech/space/4894272-astronavty-vpershe-vykorystaly-renthen-v-kosmosi",
+    "pubDate": "2026-07-14 20:48:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493032.jpeg\">Експеримент підтвердив, що портативні рентгенівські апарати можуть використовуватися під час космічних місій для діагностики травм, захворювань і навіть перевірки обладнання.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп відреагував на чутки навколо смерті сенатора Грема",
+    "link": "https://ua.korrespondent.net/world/4894273-tramp-vidreahuvav-na-chutky-navkolo-smerti-senatora-hrema",
+    "pubDate": "2026-07-14 20:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493034.jpg\">Американський сенатор Ліндсі Грема помер фактично у день свого повернення з поїздки в Україну.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нова стратегія США. Трамп і Ормузська протока",
+    "link": "https://ua.korrespondent.net/world/4894260-nova-stratehiia-ssha-tramp-i-ormuzska-protoka",
+    "pubDate": "2026-07-14 20:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492986.jpg\">Президент США Дональд Трамп оголосив про відновлення морської блокади Ірану, звинувативши Тегеран у порушенні попередніх домовленостей із Вашингтоном.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Названо найпопулярніші гібридні авто в Україні",
+    "link": "https://ua.korrespondent.net/business/auto/4894267-nazvano-naipopuliarnishi-hibrydni-avto-v-ukraini",
+    "pubDate": "2026-07-14 20:34:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493011.jpg\">За перше півріччя український автопарк поповнили понад 19 тисяч гібридів, а найпопулярнішою новою моделлю стала Toyota RAV4.",
+    "topic": "автомобілі",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Росіяни вдарили по авто на Харківщині: загинув водій",
+    "link": "https://ua.korrespondent.net/ukraine/4894265-rosiiany-vdaryly-po-avto-na-kharkivschyni-zahynuv-vodii",
+    "pubDate": "2026-07-14 20:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493008.jpg\">Безпілотник, попередньо типу Молнія, влучив у цивільний автомобіль Peugeot. Загинув 61-річний водій.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La princesa Leonor pide proteger y acompañar el \"talento joven\" y el Rey reivindica la necesidad de \"progresar juntos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/princesa-leonor-pide-proteger-acompanar-talento-joven-132451805",
+    "pubDate": "2026-07-14 20:25:38",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260713/premios-princesa-girona-ganadores-2026-132393757\" target=\"_blank\">Los Premios Princesa de Girona 2026 reconocen seis proyectos como ejemplos del talento joven</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nuevo Peugeot 408: el primer automóvil de la marca en iluminar las letras Peugeot en la parte trasera del vehículo",
+    "link": "https://www.elperiodico.com/es/motor/20260714/nuevo-peugeot-408-primer-automovil-marca-iluminar-letras-parte-trasera-132394828",
+    "pubDate": "2026-07-14 20:15:29",
+    "category": "",
+    "description": "<h2>Embajador del carisma y el estilo francés, este fastback luce el lenguaje de diseño del León en todo su esplendor</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Росія вдарила по судну на Одещині: є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4894262-rosiia-vdaryla-po-sudnu-na-odeschyni-ye-zahybli",
+    "pubDate": "2026-07-14 20:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492987.jpg\">Російський безпілотник уразив цивільне судно під прапором Маршаллових Островів. Загинули двоє людей.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El alegato contra el \"nepotismo\" y \"enchufismo\" en la condena a David Sánchez: \"Torcimiento grosero y arbitrario del derecho\"",
+    "link": "https://www.elperiodico.com/es/politica/20260714/alegato-nepotismo-enchufismo-condena-david-132454573",
+    "pubDate": "2026-07-14 20:00:44",
+    "category": "",
+    "description": "<h2>La Audiencia de Badajoz acredita que fue nombrado por un \"procedimiento ad hoc\" y \"cosmético\" para \"enmascarar\" una decisión \"arbitraria\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260714/sanchez-hermano-david-sentencia-zapatero-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\" target=\"_blank\">Última hora de los casos judiciales relacionados con el PSOE y el presidente del Gobierno</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 74
+  },
+  {
+    "title": "Sondeo GESOP: El 76% de los españoles, a favor de pagar impuestos para tener unos servicios públicos de calidad",
+    "link": "https://www.elperiodico.com/es/economia/20260714/encuesta-impuestos-espana-gesop-132416915",
+    "pubDate": "2026-07-14 20:00:44",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260714/encuesta-elecciones-generales-espana-132382672\" target=\"_blank\">Encuesta elecciones generales: La derecha mantiene su dominio con el PP a la baja y el PSOE estancado</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260714/sondeo-elecciones-anticipadas-mocion-censura-adelanto-electoral-132410812\" target=\"_blank\">Sondeo GESOP: Los españoles prefieren elecciones anticipadas que una moción de censura contra Sánchez</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На ЗАЕС стався десятиий блекаут з початку року",
+    "link": "https://ua.korrespondent.net/ukraine/4894257-na-zaes-stavsia-desiatyyi-blekaut-z-pochatku-roku",
+    "pubDate": "2026-07-14 19:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492963.png\">Така статистика свідчить про критичний стан ядерної безпеки на ядерному об'єкті, наголосив Енергоатом.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині росіяни влучили у резервуар із олією",
+    "link": "https://ua.korrespondent.net/city/odessa/4894256-na-odeschyni-rosiiany-vluchyly-u-rezervuar-iz-oliieui",
+    "pubDate": "2026-07-14 19:51:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492964.jpg\">Виникло займання резервуару із соняшниковою олією. Рятувальникам вдалося ліквідувати вогонь.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juancho renueva hasta 2030 con el Panathinaikos",
+    "link": "https://as.com/baloncesto/euroliga/juancho-renueva-hasta-2030-con-el-panathinaikos-f202607-n/",
+    "pubDate": "2026-07-14 19:45:37",
+    "category": "Baloncesto",
+    "description": "Tras semanas de especulaciones, el ala-pívot no regresará a España y seguirá ligado al club verde. Dimitris Giannakopoulos lo dejó claro en un directo de Instagram antes de que se conociera la noticia.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tom Cruise y Robbie Williams participarán en la ceremonia de clausura del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/tom-cruise-robbie-williams-participaran-ceremonia-clausula-mundial-132455053",
+    "pubDate": "2026-07-14 19:44:29",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260714/francia-espana-semifinales-mundial-2026-ultima-hora-directo-132434242\" target=\"_blank\">Francia – España, en directo: De la Fuente mantiene a Pedri en el banquillo y repite el once ante Bélgica</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Маршем по Парижу. ЗСУ на параді у Франції",
+    "link": "https://ua.korrespondent.net/ukraine/4894254-marshem-po-paryzhu-zsu-na-paradi-u-frantsii",
+    "pubDate": "2026-07-14 19:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492960.jpg\">У небі над Парижем також майоріли українські кольори — у рамках повітряної частини параду українські пілоти пролетіли на винищувачах Mirage.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Угорщина \"закриває двері перед росіянами\"",
+    "link": "https://ua.korrespondent.net/world/4894250-uhorschyna-zakryvaie-dveri-pered-rosiianamy",
+    "pubDate": "2026-07-14 19:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492934.jpg\">Глава Міноборони заявив про необхідність відновити довіру союзників і посилити дистанцію з Москвою.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Вчені вперше детально дослідили дитинчат тиранозаврів",
+    "link": "https://ua.korrespondent.net/tech/science/4894248-vcheni-vpershe-detalno-doslidyly-dytynchat-tyranozavriv",
+    "pubDate": "2026-07-14 19:28:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492936.jpg\">Нове дослідження показало, що новонароджені Tyrannosaurus rex були розміром із домашнього кота, а самки могли відкладати до трьох десятків яєць за один раз.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Волині розпочалися українсько-польські ексгумаційні роботи",
+    "link": "https://ua.korrespondent.net/ukraine/4894247-na-volyni-rozpochalysia-ukrainsko-polski-ekshumatsiini-roboty",
+    "pubDate": "2026-07-14 19:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492937.jpg\">Мета досліджень - ексгумація та перепоховання останків мешканців, загиблих у серпні 1943 року.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los días más luminosos nos ayudan a dormir mejor",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260714/dias-luminosos-ayudan-dormir-mejor-132454806",
+    "pubDate": "2026-07-14 19:26:18",
+    "category": "",
+    "description": "<h2>La exposición diurna a la luz natural podría ser una de las claves más sencillas para mejorar el descanso</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota оновила седан Avalon",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4894243-Toyota-onovyla-sedan-Avalon",
+    "pubDate": "2026-07-14 19:18:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492910.jpg\">Модель, яка зникла зі США ще у 2022 році, отримала третій рестайлінг у Китаї з новим дизайном задньої частини та економічною гібридною версією.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Blanca Portillo (63 años) sobre Hacienda: \"Pago impuestos como una puerca\"",
+    "link": "https://www.elperiodico.com/es/gente/20260714/blanca-portillo-hacienda-declaracion-renta-la-revuelta-dv-et-132303338",
+    "pubDate": "2026-07-14 19:16:02",
+    "category": "",
+    "description": "<h2>La actriz española responde a las preguntas clásicas de 'La revuelta'</h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260427/bertin-osborne-asegura-pagado-millon-euros-hacienda-debo-centimo-129571839\">Bertín Osborne asegura que ha pagado un millón de euros a Hacienda: \"No debo un céntimo\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260702/patricia-conde-estalla-aparecer-nuevo-lista-morosos-hacienda-132042752\">Patricia Conde estalla tras aparecer de nuevo en la lista de morosos de Hacienda: \"Quedó resuelto en 2023\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Олійникова з перемоги почала виступи в Румунії",
+    "link": "https://ua.korrespondent.net/sport/tenis/4894245-oliinykova-z-peremohy-pochala-vystupy-v-rumunii",
+    "pubDate": "2026-07-14 19:14:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492935.jpg\">Українська тенісистка успішно стартувала на турнірі в румунських Яссах, обігравши суперницю з Туреччини.",
+    "topic": "спорт",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Трамп підтримав \"пекельні санкції\" проти РФ",
+    "link": "https://ua.korrespondent.net/world/4894241-tramp-pidtrymav-pekelni-sanktsii-proty-rf",
+    "pubDate": "2026-07-14 19:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492911.jpg\">Законопроєкт буде прийнятий на честь сенатора Грема, до нього додадуть обмеження проти Ірану та Хезболли.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "En su país doctor, en España peón o camarero: la mitad de los trabajadores extracomunitarios con estudios superiores está sobrecualificado",
+    "link": "https://www.elperiodico.com/es/economia/20260714/inmigrantes-trabajadores-sobrecualificados-espana-datos-eurostat-132453968",
+    "pubDate": "2026-07-14 19:01:59",
+    "category": "",
+    "description": "<h2>España es la cuarta economía europea que tiene más personas nacidas fuera de la UE con un grado universitario o un doctorado pero que trabajan en ocupaciones de baja formación</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los 'noctámbulos' de 35 a 44 años son los que más gastan en Barcelona: 61 euros, el doble que los más jóvenes",
+    "link": "https://www.elperiodico.com/es/barcelona/20260714/noctambulos-35-44-anos-son-132391337",
+    "pubDate": "2026-07-14 19:00:23",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre 66.000 y 80.000 personas trabajan en horario nocturno en la capital catalana, una de cada cuatro en la hostelería</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260711/carmen-zapata-alcaldesa-noche-barcelona-132329605\">Carmen Zapata, 'alcaldesa' de la Noche: \"Barcelona cada vez tendrá más actividad nocturna, pero ahora no necesita más discotecas\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260709/barcelona-impulsara-salas-pequenas-musica-vivo-ayuda-millon-euros-132276570\">Barcelona impulsará las pequeñas salas de música en vivo con un millón de euros en ayudas</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Heidrick & Struggles ficha a Aurora Catà para reforzar su negocio de búsqueda de directivos y gobierno corporativo en España",
+    "link": "https://www.elperiodico.com/es/economia/20260714/heidrick-struggles-ficha-aurora-cata-132453601",
+    "pubDate": "2026-07-14 19:00:05",
+    "category": "",
+    "description": "<h2>La ex presidenta de Barcelona Global y consejera de varias compañías del Ibex 35 se incorpora como socia de la firma para impulsar las áreas de Executive Search y Board Services</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Польща домагається арешту проросійського європарламентаря",
+    "link": "https://ua.korrespondent.net/world/4894237-polscha-domahaietsia-areshtu-prorosiiskoho-yevroparlamentaria",
+    "pubDate": "2026-07-14 18:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492889.jpg\">Євродепутат-націоналіст від Польщі Гжегож Браун відомий своїми українофобськими та проросійськими поглядами.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un esqueleto de T. Rex se vende por 50,1 millones en una subasta en Nueva York",
+    "link": "https://www.elperiodico.com/es/sociedad/20260714/esqueleto-dinosaurio-tiranosaurio-rex-precio-record-subasta-132453833",
+    "pubDate": "2026-07-14 18:58:24",
+    "category": "",
+    "description": "<h2>'Gus' es un \"esqueleto montado excepcional, listo para exhibición\", y es uno de los ejemplares \"más grandes jamás encontrados\"</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ВМС України показали знищений корабель ФСБ Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4894236-vms-ukrainy-pokazaly-znyschenyi-korabel-fsb-rosii",
+    "pubDate": "2026-07-14 18:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4492888.jpg\">Супутниковий знімок підтверджує знищення російського прикордонного сторожового корабля Ізумруд біля причальної стінки.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un informe recomienda al Barça suspender temporalmente las aportaciones a los veteranos por sus altos excedentes de tesorería",
+    "link": "https://www.elperiodico.com/es/deportes/20260714/informe-recomienda-barca-suspender-temporalmente-132452107",
+    "pubDate": "2026-07-14 18:47:09",
+    "category": "",
+    "description": "<h2>Tanto la Agrupació como la Fundació de Jugadors tienen la obligación legal de destinar, al menos, el 70% de sus ingresos netos anuales al cumplimiento \"de sus finalidades fundacionales\".</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Madrid, a un paso de fichar a un dos veces campeón de la NBA",
+    "link": "https://as.com/baloncesto/euroliga/el-madrid-a-un-paso-de-fichar-a-un-dos-veces-campeon-de-la-nba-f202607-n/",
+    "pubDate": "2026-07-14 18:36:02",
+    "category": "Baloncesto",
+    "description": "El pívot Damian Jones, que ganó dos anillos con los Warriors de Stephen Curry y Kevin Durant, estaría muy cerca de recalar en el club blanco.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Kia renueva el XCeed y lo carga de argumentos para ser un superventas",
     "link": "https://www.elperiodico.com/es/motor/20260714/kia-renueva-xceed-diseno-tecnologia-motores-precio-132438067",
     "pubDate": "2026-07-14 18:34:46",
