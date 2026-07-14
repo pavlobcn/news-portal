@@ -1,8 +1,18 @@
-# News for 2026-07-14 10:43
+# News for 2026-07-14 12:27
 
 Previous day: [2026-07-13](./data/2026-07-13.md)
 
 ## ua.korrespondent.net
+12:19 [ЗСУ пройшли маршем на параді у Парижі](https://ua.korrespondent.net/ukraine/4894111-zsu-proishly-marshem-na-paradi-u-paryzhi)<br>
+11:45 [Туск сказав, чи передасть Польща Україні ще ракети для Patriot](https://ua.korrespondent.net/world/4894100-tusk-skazav-chy-peredast-polscha-ukraini-sche-rakety-dlia-Patriot)<br>
+11:44 [Китай готується до Росії після Путіна - WSJ](https://ua.korrespondent.net/world/4894098-kytai-hotuietsia-do-rosii-pislia-putina-WSJ)<br>
+11:33 [Гривня почала втрачати позиції в обмінниках](https://ua.korrespondent.net/business/financial/4894093-hryvnia-pochala-vtrachaty-pozytsii-v-obminnykakh)<br>
+11:16 [Деякі бійці понад 200 днів без ротації - Сирський](https://ua.korrespondent.net/ukraine/4894086-deiaki-biitsi-ponad-200-dniv-bez-rotatsii-syrskyi)<br>
+11:05 [Імпорт нафти до Китаю опустився до десятирічного мінімуму - ЗМІ](https://ua.korrespondent.net/business/economics/4894081-import-nafty-do-kytaui-opustyvsia-do-desiatyrichnoho-minimumu-zmi)<br>
+11:03 [Уражено два НПЗ і 11 кораблів Росії - Генштаб](https://ua.korrespondent.net/ukraine/4894079-urazheno-dva-npz-i-11-korabliv-rosii-henshtab)<br>
+11:00 [Що робити, якщо телефон упав у воду: план швидкого порятунку](https://ua.korrespondent.net/articles/4894077-scho-robyty-yakscho-telefon-upav-u-vodu-plan-shvydkoho-poriatunku)<br>
+10:45 [Півонії без романтичних кліше: кому і з якого приводу їх доречно дарувати](https://ua.korrespondent.net/lifestyle/4893955-pivonii-bez-romantychnykh-klishe-komu-i-z-yakoho-pryvodu-yikh-dorechno-daruvaty)<br>
+10:39 [Костюк досягла досягнення із чистими подачами](https://ua.korrespondent.net/sport/tenis/4894071-kostuik-dosiahla-dosiahnennia-iz-chystymy-podachamy)<br>
 10:21 [Після гучного IPO акції SpaceX різко просіли](https://ua.korrespondent.net/business/companies/4894066-pislia-huchnoho-IPO-aktsii-SpaceX-rizko-prosily)<br>
 10:12 [На Сумщині ексміліціонер шпигував для ФСБ](https://ua.korrespondent.net/ukraine/4894063-na-sumschyni-eksmilitsioner-shpyhuvav-dlia-fsb)<br>
 10:10 [Київ відреагував на атаку Ірану по танкерах ОАЕ з українцями](https://ua.korrespondent.net/world/4894060-kyiv-vidreahuvav-na-ataku-iranu-po-tankerakh-oae-z-ukraintsiamy)<br>
@@ -23,6 +33,15 @@ Previous day: [2026-07-13](./data/2026-07-13.md)
 00:38 [У Донецьку палає склад боєприпасів: чути вибухи](https://ua.korrespondent.net/ukraine/4893981-u-donetsku-palaie-sklad-boieprypasiv-chuty-vybukhy)<br>
 
 ## www.elperiodico.com
+12:25 [Rusia intercepta envío de drones ucranianos ocultos entre baldosas de cerámica española](https://www.elperiodico.com/es/videos/internacional/rusia-intercepta-envio-drones-ucranianos/132435358.shtml)<br>
+12:25 [CCOO pide limitar el trabajo en la construcción de 7.00 a 12.00 en verano para evitar golpes de calor](https://www.elperiodico.com/es/economia/20260714/ola-de-calor-ccoo-reclama-jornada-intensiva-construccion-durante-verano-132434244)<br>
+11:59 [El calor extremo ha causado 10.200 muertes en el área de Barcelona en las últimas dos décadas: "El código postal no puede determinar quién sufre más"](https://www.elperiodico.com/es/barcelona/20260714/calor-extremo-causa-10200-muertes-area-de-barcelona-ultimas-dos-decadas-132425768)<br>
+11:54 [Catalunya vuelve a activar avisos rojos ante un miércoles de calor extremo con máximas por encima de los 42 grados](https://www.elperiodico.com/es/sociedad/20260714/cataluna-aviso-rojo-calor-miercoles-maximas-temperatura-meteocat-132432109)<br>
+11:51 [Imágenes del ataque de Irán a bases estadounidenses y embarcaciones "hostiles" en la región](https://www.elperiodico.com/es/videos/internacional/imagenes-ataque-iran-bases-estadounidenses/132433309.shtml)<br>
+11:41 [La factura del fin de la tregua con Irán: el petróleo se dispara un 18% en julio](https://www.elperiodico.com/es/economia/20260714/factura-tregua-iran-petroleo-dispara-132432963)<br>
+11:37 [Mette-Marit recibe el alta hospitalaria tras su trasplante de pulmón: "Me han regalado la vida"](https://www.elperiodico.com/es/gente/20260714/mette-marit-noruega-alta-trasplante-pulmon-132432079)<br>
+11:14 [El 63% de los trabajadores cobra menos que el salario medio pese al récord de empleo en España](https://www.elperiodico.com/es/economia/20260714/63-por-ciento-trabajadores-cobra-menos-que-salario-medio-espana-dv-132431064)<br>
+11:02 [El pico de calor aún está por llegar: quedan pocas horas para que Catalunya hierva](https://www.elperiodico.com/es/tiempo/20260714/tiempo-cataluna-ola-calor-tercera-temperaturas-miercoles-pico-dv-loc-132428783)<br>
 10:40 [Huawei FreeClip 2 S: diseño abierto, acabado metálico y audio adaptativo en unos auriculares que no se notan](https://www.elperiodico.com/es/tecnologia/20260714/huawei-freeclip-2-s-precio-132430096)<br>
 10:38 [Solo el 46% de los autónomos se irá de vacaciones este verano y uno de cada cinco lleva más de tres años sin descansar](https://www.elperiodico.com/es/economia/20260714/solo-46-por-ciento-autonomos-ira-vacaciones-verano-dv-132429857)<br>
 10:34 [Los Mossos investigan una presunta agresión sexual entre dos menores de 13 años en Tàrrega](https://www.elperiodico.com/es/sociedad/20260714/mossos-investigan-presunta-agresion-sexual-tarrega-menores-132429688)<br>
@@ -34,6 +53,7 @@ Previous day: [2026-07-13](./data/2026-07-13.md)
 09:22 [Así son los dos limpiadores coreanos que transforman tu piel a los 35: firmeza y cero marcas](https://www.elperiodico.com/es/shopping/20260714/limpiadores-facial-coreanos-piel-firmeza-marcas-118020092)<br>
 09:14 [Incendios hoy, 14 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260714/incendios-hoy-14-julio-cataluna-espana-mapa-fuegos-activos-dv-132426833)<br>
 09:09 [La asombrosa transformación con prótesis y maquillaje de Tom Cruise en 'Digger': de héroe de acción al límite a excéntrico magnate envejecido](https://www.elperiodico.com/es/gente/20260714/tom-cruise-digger-transformacion-protesis-maquillaje-132425838)<br>
+08:51 [La sorprendente reacción del hombre atacado por un bisonte en Yellowstone: ni las fracturas ni el susto apagaron su sentido del humor](https://www.elperiodico.com/es/sociedad/20260714/sorprendente-reaccion-hombre-atacado-bisonte-yellowstone-fracturas-sustos-sentido-humor-132425916)<br>
 08:45 [EE.UU. investiga si Irán tiene drones almacenados en Cuba](https://www.elperiodico.com/es/videos/internacional/ee-uu-investiga-iran-drones/132426070.shtml)<br>
 08:38 [Consum inspecciona la venta física y en línea de gafas para el eclipse solar](https://www.elperiodico.com/es/sociedad/20260714/eclipse-agosto-inspeccion-gafas-cataluna-132425940)<br>
 08:36 [Trump dice que Irán buscó seguir negociando pese a un acuerdo alcanzado con EE.UU.](https://www.elperiodico.com/es/videos/internacional/trump-dice-iran-busco-seguir/132425911.shtml)<br>
