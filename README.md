@@ -1,8 +1,23 @@
-# News for 2026-07-15 14:22
+# News for 2026-07-15 16:19
 
 Previous day: [2026-07-14](./data/2026-07-14.md)
 
 ## ua.korrespondent.net
+16:05 [Новий шанс для України: Хорватія розширює газовий термінал](https://ua.korrespondent.net/business/economics/4894489-novyi-shans-dlia-ukrainy-khorvatiia-rozshyruiie-hazovyi-terminal)<br>
+16:01 [У Кривому Розі арештували чоловіка за домагання до 11-річної](https://ua.korrespondent.net/ukraine/4894490-u-kryvomu-rozi-areshtuvaly-cholovika-za-domahannia-do-11-richnoi)<br>
+15:59 [У Росії будуть виробляти одеколон Дух Анкоріджа](https://ua.korrespondent.net/world/russia/4894487-u-rosii-budut-vyrobliaty-odekolon-dukh-ankoridzha)<br>
+15:53 [Росіяни атакують на 12 напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4894485-rosiiany-atakuuit-na-12-napriamkakh-henshtab)<br>
+15:39 [У Харкові кількість постраждалих зросла до дев'яти](https://ua.korrespondent.net/city/kharkov/4894482-u-kharkovi-kilkist-postrazhdalykh-zrosla-do-deviaty)<br>
+15:30 [Санкції США тимчасово заблокували домен Telegram](https://ua.korrespondent.net/business/companies/4894480-sanktsii-ssha-tymchasovo-zablokuvaly-domen-Telegram)<br>
+15:19 [Путін готовий укласти угоду - Трамп](https://ua.korrespondent.net/world/4894477-putin-hotovyi-uklasty-uhodu-tramp)<br>
+15:16 [США вдарили по Ірану, Тегеран пригрозив перекрити вивезення нафти](https://ua.korrespondent.net/world/4894476-ssha-vdaryly-po-iranu-teheran-pryhrozyv-perekryty-vyvezennia-nafty)<br>
+14:59 [Росія готується до диверсій у Європі - Науседа](https://ua.korrespondent.net/world/4894474-rosiia-hotuietsia-do-dyversii-u-yevropi-nauseda)<br>
+14:53 [Паливна криза в Росії: темпи жнив утричі нижчі, ніж торік](https://ua.korrespondent.net/world/russia/4894472-palyvna-kryza-v-rosii-tempy-zhnyv-utrychi-nyzhchi-nizh-torik)<br>
+14:44 [Зеленський проведе зустріч з керівництвом армії](https://ua.korrespondent.net/ukraine/4894469-zelenskyi-provede-zustrich-z-kerivnytstvom-armii)<br>
+14:41 [Харків під атакою дронів і КАБів: є влучанння у багатоповерхівки](https://ua.korrespondent.net/city/kharkov/4894468-kharkiv-pid-atakoui-droniv-i-kabiv-ye-vluchannnia-u-bahatopoverkhivky)<br>
+14:28 [До Луцька курсуватиме "літературний" Intercity](https://ua.korrespondent.net/business/companies/4894462-do-lutska-kursuvatyme-literaturnyi-Intercity)<br>
+14:26 [Китай обвалив акції Газпрому до 17-річного мінімуму](https://ua.korrespondent.net/business/4894463-kytai-obvalyv-aktsii-hazpromu-do-17-richnoho-minimumu)<br>
+14:21 [У Дніпрі затримали двох військових Маріупольського ТЦК](https://ua.korrespondent.net/city/dnepr/4894461-u-dnipri-zatrymaly-dvokh-viiskovykh-mariupolskoho-ttsk)<br>
 13:59 [Росія вдарила дроном по комунальниках Сумщини](https://ua.korrespondent.net/ukraine/4894456-rosiia-vdaryla-dronom-po-komunalnykakh-sumschyny)<br>
 13:50 [Атаки дронів на Дніпропетровщину і Запоріжжя: є загиблі та поранені](https://ua.korrespondent.net/ukraine/4894454-ataky-droniv-na-dnipropetrovschynu-i-zaporizhzhia-ye-zahybli-ta-poraneni)<br>
 13:37 [Росіяни прицільно атакували цивільне авто у Краматорську](https://ua.korrespondent.net/ukraine/4894449-rosiiany-prytsilno-atakuvaly-tsyvilne-avto-u-kramatorsku)<br>
@@ -61,6 +76,8 @@ Previous day: [2026-07-14](./data/2026-07-14.md)
 01:07 [РФ атакувала Ізюм: багато руйнувань і пожежі](https://ua.korrespondent.net/ukraine/4894310-rf-atakuvala-izuim-bahato-ruinuvan-i-pozhezhi)<br>
 
 ## as.com
+15:24 [Un inicio arrollador lleva a la Sub-20 a octavos del Eurobasket](https://as.com/baloncesto/mas_baloncesto/un-inicio-arrollador-dispara-a-la-sub-20-hacia-octavos-f202607-n/)<br>
+14:22 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 13:57 [La Sub-17, un rodillo hacia octavos](https://as.com/baloncesto/la-sub-17-un-rodillo-hacia-octavos-f202607-n/)<br>
 13:03 [Josh Nebo refuerza el juego interior](https://as.com/baloncesto/josh-nebo-refuerza-el-juego-interior-f202607-n/)<br>
 12:00 [El chino Jiahao Yu, cortado en Bilbao](https://as.com/baloncesto/el-chino-jiahao-yu-cortado-en-bilbao-f202607-n/)<br>
@@ -68,6 +85,17 @@ Previous day: [2026-07-14](./data/2026-07-14.md)
 07:27 [Ricky le dice ‘no’ a Obradovic](https://as.com/baloncesto/euroliga/ricky-le-dice-no-a-obradovic-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:12 [Estados Unidos autoriza un espejo espacial gigante para probar la “luz solar a demanda”](https://www.elperiodico.com/es/tendencias21/20260715/estados-unidos-autoriza-espejo-espacial-132483349)<br>
+16:05 [Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar](https://www.elperiodico.com/es/economia/20260715/albert-sanchez-nuevo-director-general-132483101)<br>
+16:00 [Dos másteres coordinados por la UB y la Universidad Católica de Valencia, los primeros en recibir el nuevo sello de calidad de la UE para títulos europeos conjuntos](https://www.elperiodico.com/es/sociedad/20260715/masteres-universidades-ub-barcelona-catolica-valencia-estrenan-sello-europeo-calidad-alianzas-universitarias-union-europea-joint-european-degree-label-132466881)<br>
+16:00 [Vulnerable](https://www.elperiodico.com/es/opinion/20260715/vulnerable-moto-accidente-articulo-care-santos-132482589)<br>
+15:53 [La Unión Europea quiere acelerar el despliegue de centros de datos: las empresas más beneficiadas podrían ser de EEUU](https://www.elperiodico.com/es/internacional/20260715/union-europea-acelerar-despliegue-centro-datos-empresas-microsoft-google-soberania-estados-unidos-ia-132482672)<br>
+15:46 [¿Por qué unas economías prosperan más que otras?](https://www.elperiodico.com/es/opinion/20260715/economias-prosperan-catalunya-productividad-articulo-oriol-amat-132458317)<br>
+15:20 [La Aemet advierte de la llegada de otro episodio de calor extremo a partir de este fin de semana que dejará máximas de hasta 44 grados](https://www.elperiodico.com/es/sociedad/20260715/aemet-llegada-episodio-calor-fin-de-semana-132481154)<br>
+15:09 [Los Bombers trabajan en un incendio en Querol (Tarragona), el cuarto en pocos días en la misma zona](https://www.elperiodico.com/es/tarragona/20260715/bomberos-extincion-incendio-declarado-querol-tarragona-132480964)<br>
+14:56 [Finca Papiol Video Tour](https://www.elperiodico.com/es/videos/comunicacion-empresarial/finca-papiol-video-tour/132480759.shtml)<br>
+14:56 [Estas son las 5 carreras universitarias con los sueldos más bajos tres años después de graduarse](https://www.elperiodico.com/es/sociedad/20260715/carreras-universitarias-sueldos-bajos-despues-graduarse-cataluna-132477145)<br>
+14:41 [Estas son las 5 carreras universitarias con los sueldos más altos tres años después de graduarse](https://www.elperiodico.com/es/sociedad/20260715/carreras-universitarias-sueldos-altos-despues-graduarse-cataluna-132473042)<br>
 14:19 [La Seguridad Social aplicará reducciones permanentes de hasta un 21% en las jubilaciones anticipadas](https://www.elperiodico.com/es/economia/20260715/seguridad-social-aplicara-reducciones-permanentes-jubilaciones-anticipadas-dv-132475410)<br>
 14:17 [Cuatro heridos leves por una fuga en un contenedor con materias peligrosas en la estación de La Llagosta](https://www.elperiodico.com/es/sociedad/20260715/cuatro-heridos-leves-fuga-material-peligroso-contenedor-estacion-llagosta-132478306)<br>
 14:15 [Alfonso Muñoz, especialista en pensiones, explica cómo aumentar el importe de la jubilación: "Con 15 años cotizados únicamente se tiene derecho al 50% de la base reguladora"](https://www.elperiodico.com/es/economia/20260715/jubilacion-pension-anos-cotizados-seguridad-social-dv-et-132205764)<br>
