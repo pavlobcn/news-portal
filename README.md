@@ -1,8 +1,9 @@
-# News for 2026-07-15 21:51
+# News for 2026-07-15 22:54
 
 Previous day: [2026-07-14](./data/2026-07-14.md)
 
 ## ua.korrespondent.net
+21:55 [Атака РФ по Запоріжжю загинули троє людей, ще 15 поранені](https://ua.korrespondent.net/city/zaporozhye/4894569-ataka-rf-po-zaporizhzhui-zahynuly-troie-luidei-sche-15-poraneni)<br>
 21:01 [Huawei представила смартфони Pura 90 для міжнародного ринку](https://ua.korrespondent.net/lifestyle/gadgets/4894564-Huawei-predstavyla-smartfony-Pura-90-dlia-mizhnarodnoho-rynku)<br>
 19:55 [США провалили плану різкого збільшення виробництва 155-мм снарядів](https://ua.korrespondent.net/world/4894551-ssha-provalyly-planu-rizkoho-zbilshennia-vyrobnytstva-155-mm-snariadiv)<br>
 19:47 [Україна втратила третину потужностей експорту зерна через атаки РФ](https://ua.korrespondent.net/business/economics/4894547-ukraina-vtratyla-tretynu-potuzhnostei-eksportu-zerna-cherez-ataky-rf)<br>
@@ -112,6 +113,8 @@ Previous day: [2026-07-14](./data/2026-07-14.md)
 07:27 [Ricky le dice ‘no’ a Obradovic](https://as.com/baloncesto/euroliga/ricky-le-dice-no-a-obradovic-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:22 [Así influye el calor extremo en los comportamientos delictivos](https://www.elperiodico.com/es/sociedad/20260715/influye-calor-extremo-comportamientos-delictivos-132495291)<br>
+22:13 ['Friends' en el espacio (y la belleza de las plantas eólicas)](https://www.elperiodico.com/es/ocio-y-cultura/20260715/friends-espacio-entrevista-becky-chambers-132495004)<br>
 21:19 [La proteína p-tau217 en sangre, clave para predecir el riesgo de Alzheimer en personas sanas con décadas de antelación](https://www.elperiodico.com/es/sanidad/20260715/proteina-p-tau217-sangre-clave-132494251)<br>
 20:47 [Suspendidos todos los desalojos del macrodesahucio de La Mina hasta septiembre](https://www.elperiodico.com/es/barcelona/20260715/suspendidos-desalojos-macrodesahucio-mina-septiembre-132490443)<br>
 20:35 [Podría ser el emprendedor más joven de la historia: monta un negocio de venta de huevos con solo 6 años](https://www.elperiodico.com/es/economia/20260715/nino-emprendedor-negocio-huevos-gallina-escolarizacion-brasil-dv-131589238)<br>
