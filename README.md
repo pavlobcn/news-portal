@@ -1,8 +1,11 @@
-# News for 2026-07-15 19:25
+# News for 2026-07-15 20:38
 
 Previous day: [2026-07-14](./data/2026-07-14.md)
 
 ## ua.korrespondent.net
+19:55 [США провалили плану різкого збільшення виробництва 155-мм снарядів](https://ua.korrespondent.net/world/4894551-ssha-provalyly-planu-rizkoho-zbilshennia-vyrobnytstva-155-mm-snariadiv)<br>
+19:47 [Україна втратила третину потужностей експорту зерна через атаки РФ](https://ua.korrespondent.net/business/economics/4894547-ukraina-vtratyla-tretynu-potuzhnostei-eksportu-zerna-cherez-ataky-rf)<br>
+19:25 [У Литві показали королівські коштовності, які були сховані майже 90 років](https://ua.korrespondent.net/tech/science/4894545-u-lytvi-pokazaly-korolivski-koshtovnosti-yaki-buly-skhovani-maizhe-90-rokiv)<br>
 19:13 [В окупованому Криму обмежили мобільний зв’язок](https://ua.korrespondent.net/ukraine/4894540-v-okupovanomu-krymu-obmezhyly-mobilnyi-zviazok)<br>
 19:11 [Україна посилила санкції проти цифрових активів РФ](https://ua.korrespondent.net/business/economics/4894538-ukraina-posylyla-sanktsii-proty-tsyfrovykh-aktyviv-rf)<br>
 18:46 [У США випускатимуть золоті монети із зображенням Трампа](https://ua.korrespondent.net/world/4894535-u-ssha-vypuskatymut-zoloti-monety-iz-zobrazhenniam-trampa)<br>
@@ -105,6 +108,14 @@ Previous day: [2026-07-14](./data/2026-07-14.md)
 07:27 [Ricky le dice ‘no’ a Obradovic](https://as.com/baloncesto/euroliga/ricky-le-dice-no-a-obradovic-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:35 [Podría ser el emprendedor más joven de la historia: monta un negocio de venta de huevos con solo 6 años](https://www.elperiodico.com/es/economia/20260715/nino-emprendedor-negocio-huevos-gallina-escolarizacion-brasil-dv-131589238)<br>
+20:11 [Trece heridos trasladados a hospitales tras la caída de un árbol sobre el porche de una masía en Batet de la Serra](https://www.elperiodico.com/es/videos/sucesos/trece-heridos-trasladados-hospitales-caida/132492745.shtml)<br>
+20:10 [Expertos en aire acondicionado coinciden: "El agua destilada del aparato es una alternativa para usos concretos en el jardín o el hogar"](https://www.elperiodico.com/es/vida-y-estilo/20260715/expertos-aire-acondicionado-coinciden-usos-agua-destilada-dv-et-132260709)<br>
+20:07 [El incendio de Sant Quirze Safaja, que ya ha quemado 97 hectáreas, obliga a evacuar un centro de menores, un cámping y una casa de colonias](https://www.elperiodico.com/es/sociedad/20260715/incendio-sant-quirze-safaja-quema-97-hectareas-132492569)<br>
+20:00 [Botellones, colillas e incivismo exponen Collserola a incendios: conductas de riesgo en la zona cerrada por peste porcina](https://www.elperiodico.com/es/barcelona/20260715/botellones-colillas-incivismo-exponen-collserola-incendios-barcelona-132488954)<br>
+19:36 [España registra otro miércoles infernal con 44,4ºC en Valencia y 42,4ºC en Catalunya mientras se prepara para la llegada de otra ola de calor extremo](https://www.elperiodico.com/es/sociedad/20260715/espana-miercoles-infernal-maximas-valencia-catalunya-registros-aemet-132488181)<br>
+19:28 [Una madre y su dos hijos menores mueren ahogados en una presa de Navarra](https://www.elperiodico.com/es/sucesos/20260715/madre-hijos-menores-mueren-ahogados-132491696)<br>
+19:26 [Estos diminutos barcos robot construyen plataformas flotantes sin intervención humana](https://www.elperiodico.com/es/tendencias21/20260715/diminutos-barcos-robot-construyen-plataformas-132491593)<br>
 18:57 [La economista Judit Vall asume la dirección del IEB tras nueve años de mandato de José María Durán-Cabré](https://www.elperiodico.com/es/economia/20260715/economista-judit-vall-asume-direccion-132488858)<br>
 18:30 [Francisco Orozco, 96 años: "Salgo a pasear temprano por la mañana porque por la tarde no se puede estar"](https://www.elperiodico.com/es/vida-y-estilo/20260715/francisco-orozco-96-anos-salgo-pasear-temprano-dv-et-132327323)<br>
 18:27 [Anthropic se reunirá en las próximas semanas con potenciales inversores para ultimar su salida a Bolsa](https://www.elperiodico.com/es/economia/20260715/anthropic-reunira-proximas-semanas-potenciales-132488765)<br>
