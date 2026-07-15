@@ -1,5 +1,59 @@
 [
   {
+    "title": "El tomate cuántico",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/tomate-cuantico-132496345",
+    "pubDate": "2026-07-15 23:50:17",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Aficionados argentinos en Barcelona celebran su pase a la final del Mundial",
+    "link": "https://www.elperiodico.com/es/videos/deportes/aficionados-argentinos-barcelona-celebran-pase/132496341.shtml",
+    "pubDate": "2026-07-15 23:46:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У США впровадять перевірку військових на рівень тестостерону",
+    "link": "https://ua.korrespondent.net/world/4894580-u-ssha-vprovadiat-perevirku-viiskovykh-na-riven-testosteronu",
+    "pubDate": "2026-07-15 23:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4494902.jpg\">Мета програми – переконатися, що військовослужбовці мають належний рівень тестостерону, пояснили в Пентагоні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Rey, con Trump y pendiente de Milei en el palco de la final",
+    "link": "https://www.elperiodico.com/es/politica/20260715/rey-palco-milei-trump-final-mundial-nueva-york-132492688",
+    "pubDate": "2026-07-15 23:20:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Argentina derrotó a Inglaterra por 2-1 y será la rival de España, pero su presidente aún no ha confirmado si viajará a Nueva York</h2><h2 class=\"item\">Infantino ya comunicó que el presidente de EEUU asistirá al encuentro y entregará el trofeo a la selección ganadora</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Argentina deshonra a la Inglaterra de Tuchel y se enfrentará a España en la final del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/inglaterra-argentina-goles-resumen-cronica-132493360",
+    "pubDate": "2026-07-15 23:10:33",
+    "category": "",
+    "description": "<h2>La Albiceleste será la rival de los españoles en la final del Mundial después de otra increíble remontada (1-2) tramada entre el corazón, la rabia y los golpes de genio de Messi, asistente en los goles de Enzo y Lautaro ante los aterrorizados ingleses.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський передав ВР подання щодо нового прем'єра",
+    "link": "https://ua.korrespondent.net/ukraine/4894576-zelenskyi-peredav-vr-podannia-schodo-novoho-premiera",
+    "pubDate": "2026-07-15 22:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4494862.jpg\">Парламент розгляне документ з призначення Сергія Корецького новим прем'єр-міністром найближчим часом, заявив спікер Ради.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Unos 40 vecinos de Badalona cortan la C-31 para protestar contra el último reducto de los desalojados del B9",
     "link": "https://www.elperiodico.com/es/barcelona/20260715/vecinos-badalona-cortan-c-31-protestar-ultimo-reducto-instituto-b9-132495128",
     "pubDate": "2026-07-15 22:39:19",

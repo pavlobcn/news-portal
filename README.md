@@ -1,8 +1,9 @@
-# News for 2026-07-15 22:54
+# News for 2026-07-15 23:54
 
 Previous day: [2026-07-14](./data/2026-07-14.md)
 
 ## ua.korrespondent.net
+23:33 [У США впровадять перевірку військових на рівень тестостерону](https://ua.korrespondent.net/world/4894580-u-ssha-vprovadiat-perevirku-viiskovykh-na-riven-testosteronu)<br>
 21:55 [Атака РФ по Запоріжжю загинули троє людей, ще 15 поранені](https://ua.korrespondent.net/city/zaporozhye/4894569-ataka-rf-po-zaporizhzhui-zahynuly-troie-luidei-sche-15-poraneni)<br>
 21:01 [Huawei представила смартфони Pura 90 для міжнародного ринку](https://ua.korrespondent.net/lifestyle/gadgets/4894564-Huawei-predstavyla-smartfony-Pura-90-dlia-mizhnarodnoho-rynku)<br>
 19:55 [США провалили плану різкого збільшення виробництва 155-мм снарядів](https://ua.korrespondent.net/world/4894551-ssha-provalyly-planu-rizkoho-zbilshennia-vyrobnytstva-155-mm-snariadiv)<br>
