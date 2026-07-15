@@ -1,5 +1,482 @@
 [
   {
+    "title": "Hipertermia, o cuando el calor extremo puede ser mortal: qué es, síntomas y cómo prevenir esta peligrosa condición",
+    "link": "https://www.elperiodico.com/es/salud/20260715/hipertemia-calor-puede-ser-mortal-13671017",
+    "pubDate": "2026-07-15 10:50:00",
+    "category": "",
+    "description": "<h2>Aunque el calor no afecta a todas las personas por igual, y teniendo en cuenta que las altas temperaturas se van a prolongar durante días, hay que tomar una serie de precauciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unos ladrones intentan asaltar la casa de Lamine Yamal en Esplugues tras el Francia-España",
+    "link": "https://www.elperiodico.com/es/sucesos/20260715/ladrones-asaltar-casa-lamine-yamal-esplugues-132467736",
+    "pubDate": "2026-07-15 10:48:16",
+    "category": "",
+    "description": "<h2>Los Mossos han abierto una investigación para determinar si se trata de una banda organizada</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Затримано агента ФСБ, який шпигував у двох областях",
+    "link": "https://ua.korrespondent.net/ukraine/4894385-zatrymano-ahenta-fsb-yakyi-shpyhuvav-u-dvokh-oblastiakh",
+    "pubDate": "2026-07-15 10:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493960.jpg\">Ворога цікавила енергетична інфраструктура, зокрема опорні електропідстанції, які живлять більшу частину Київщини і Черкащини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Свириденко і Шмигаль отримали нагороди від Зеленського",
+    "link": "https://ua.korrespondent.net/ukraine/4894382-svyrydenko-i-shmyhal-otrymaly-nahorody-vid-zelenskoho",
+    "pubDate": "2026-07-15 10:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493959.jpg\">Відзначення президентом державними нагородами сталося в рамках Дня Української Державності.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Зірка Величного століття зізналася в любові до Москви",
+    "link": "https://ua.korrespondent.net/lifestyle/4894386-zirka-velychnoho-stolittia-ziznalasia-v-luibovi-do-moskvy",
+    "pubDate": "2026-07-15 10:45:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493961.jpg\">Артистка розповіла про симпатію до Москви та російської мови, не згадавши про війну РФ проти України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Sabías que en Palamós hay una barraca con una puerta muy torcida?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/sabias-palamos-hay-barraca-puerta-132467129",
+    "pubDate": "2026-07-15 10:40:46",
+    "category": "",
+    "description": "<h2>Sobre la playa de Castell, en Palamós, encontrarás una barraca muy curiosa de un artista catalán muy singular</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Sánchez acude este miércoles a La Línea por el acto de demolición de la Verja de Gibraltar",
+    "link": "https://www.elperiodico.com/es/politica/20260715/pedro-sanchez-acude-miercoles-linea-132467863",
+    "pubDate": "2026-07-15 10:40:08",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La FIFA rompe las normas para la final del Mundial: habrá un descanso inaudito de 30 minutos",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/fifa-rompe-normas-final-mundial-132467533",
+    "pubDate": "2026-07-15 10:39:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Organizan un espectáculo inverosímil con Justin Bieber, Shakira, Madonna, BTS, Burna Boy y Coldplay, que cortará el ritmo habitual de partido</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Oyarzabal entra en la historia de España en los Mundiales",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/14-7-26-oyarzabal-entra-132459071",
+    "pubDate": "2026-07-15 10:36:35",
+    "category": "",
+    "description": "<h2>El delantero español iguala el récord goleador de David Villa y Emilio Butragueño en una misma edición del Mundial con cinco tantos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Así te hemos contado el Francia-España que le ha dado a la Selección el pase a la final de Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/francia-espana-directo-ultima-hora-132451540",
+    "pubDate": "2026-07-15 10:36:33",
+    "category": "",
+    "description": "<h2>El rival de la Roja saldrá del partido que enfrenta el miércoles a Inglaterra y Argentina</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Mbappé, contundente tras la derrota: \"Hay una enorme decepción. El fútbol no espera a nadie\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/mbappe-contundente-derrota-hay-enorme-132467448",
+    "pubDate": "2026-07-15 10:36:30",
+    "category": "",
+    "description": "<h2>El capitán de Les Bleus fue claro tras la eliminación y afirmó que \"no jugamos el partido que queríamos\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Дрони РФ атакували Херсон: троє людей отримали поранення",
+    "link": "https://ua.korrespondent.net/ukraine/4894379-drony-rf-atakuvaly-kherson-troie-luidei-otrymaly-poranennia",
+    "pubDate": "2026-07-15 10:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493937.jpg\">Російські військові атакували Херсон безпілотниками. Унаслідок ударів троє місцевих жителів отримали поранення та були госпіталізовані.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Анна Трінчер здивувала сміливим образом у новому кліпі",
+    "link": "https://ua.korrespondent.net/showbiz/music/4894381-anna-trincher-zdyvuvala-smilyvym-obrazom-u-novomu-klipi",
+    "pubDate": "2026-07-15 10:32:00",
+    "category": "Музика",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493938.jpg\">Анна Трінчер представила пісню «Маргарита» та кліп до неї, головною ідеєю якого стала ностальгія за яскравою епохою 2000-х років.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "La pérdida de abejas alcanza niveles críticos en Holanda: este invierno se perdió el 24% de sus colonias",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260715/perdida-abejas-alcanza-niveles-criticos-132467569",
+    "pubDate": "2026-07-15 10:30:57",
+    "category": "",
+    "description": "<h2>La varroasis, la avispa asiática y otros factores están diezmando este polinizador imprescindible</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kia Seltos: Un soplo de aire fresco para el segmento C-SUV",
+    "link": "https://www.elperiodico.com/es/motor/20260715/kia-seltos-soplo-aire-fresco-132408606",
+    "pubDate": "2026-07-15 10:25:28",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Kia se trae al Viejo Continente la segunda generación del Kia Seltos, hasta ahora un desconocido en nuestras carreteras</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Саміт НАТО: Німеччина розкрила частку своєї допомоги Україні",
+    "link": "https://ua.korrespondent.net/world/4894376-samit-nato-nimechchyna-rozkryla-chastku-svoiei-dopomohy-ukraini",
+    "pubDate": "2026-07-15 10:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493936.jpg\">Від початку повномасштабного вторгнення Росії ФРН надала або передбачила на майбутні роки близько 55,5 млрд євро військової допомоги Україні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La millonaria fortuna de Pedro Porro, 'MVP' de España ante Francia: sueldo de casi siete millones al año, una empresa inmobiliaria y un valor de mercado astronómico",
+    "link": "https://www.elperiodico.com/es/gente/20260715/pedro-porro-fortuna-mvp-espana-valor-mercado-patrimonio-dv-132466342",
+    "pubDate": "2026-07-15 10:24:47",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260714/francia-espana-resumen-resultado-mundial-2026-futbol-132459370\" >España se mete en la final aplastando a Francia con su fútbol 'sapiens'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260714/gloriosa-espana-nombre-barbaridad-132454823\">La gloriosa España de los 'sin nombre': \"Esto es una barbaridad\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260715/keyne-hermano-lamine-yamal-rompe-llorar-espana-francia-video-dv-132465397\">Keyne, hermano de Lamine Yamal, rompe a llorar durante la semifinal entre España y Francia</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Una narcolancha entra en una playa de Cartagena llena de bañistas a cargar garrafas de combustible",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/narcolancha-entra-playa-cartagena-llena/132467027.shtml",
+    "pubDate": "2026-07-15 10:24:13",
+    "category": "",
+    "description": "",
+    "topic": "марихуана",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "¿Qué gana España si se corona campeona del mundo? Del impulso al consumo al efecto sobre las exportaciones",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/gana-espana-corona-campeona-mundo-datos-informe-economico-132466339",
+    "pubDate": "2026-07-15 10:22:42",
+    "category": "",
+    "description": "<h2>La FIFA ha fijado en 50 millones de dólares la recompensa para el campeón del Mundial, dentro de un reparto global de 871 millones entre las selecciones participantes pero los efectos en el consumo y la marca del país son superiores a esa cuantía. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Керч повністю знеструмлено: окупанти звинувачують ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4894370-kerch-povnistui-znestrumleno-okupanty-zvynuvachuuit-zsu",
+    "pubDate": "2026-07-15 10:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493893.jpg\">Через проблеми з електропостачанням також фіксуються перебої з водопостачанням у дев'яти районах анексованого Криму.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Переробка нафти в Китаї впала до мінімуму за шість років",
+    "link": "https://ua.korrespondent.net/business/economics/4894373-pererobka-nafty-v-kytai-vpala-do-minimumu-za-shist-rokiv",
+    "pubDate": "2026-07-15 10:18:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493915.jpg\">Переробка нафти в Китаї у червні скоротилася до найнижчого рівня за останні шість років. Причиною стали слабкий попит на паливо, проблеми з постачанням сировини та збитковість роботи заводів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Javier Quintero, médico: \"El 65% de nuestras conversaciones son sobre personas que no están presentes. Y no, no es cotilleo\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260715/javier-quintero-medico-65-conversaciones-personas-no-presentes-dv-132452587",
+    "pubDate": "2026-07-15 10:14:31",
+    "category": "",
+    "description": "<h2 class=\"item\">El profesor de la UCM ha compartido una publicación en redes sociales sobre la antropología de los cotilleos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "СБС збили вертоліт Мі-28 у Бєлгородській області",
+    "link": "https://ua.korrespondent.net/ukraine/4894372-sbs-zbyly-vertolit-mi-28-u-bielhorodskii-oblasti",
+    "pubDate": "2026-07-15 10:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493914.jpg\">Російський ударний гелікоптер знищили бійці 427-го окремого полку безпілотних систем Рарог.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué es el acesulfamo K? El nuevo edulcorante \"sin colorarías\" que aparece en las etiquetas de más de 2.000 productos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/acesulfamo-k-nuevo-edulcorante-sin-colorarias-dv-132452962",
+    "pubDate": "2026-07-15 10:11:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La mayor prevalencia se registró en la categoría 'Refrescos, aguas embotelladas y otros', que concentró el 36,65%</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "\"¡Vamos!\": España ya está en la final del Mundial",
+    "link": "https://www.elperiodico.com/es/videos/deportes/espana-final-mundial/132466715.shtml",
+    "pubDate": "2026-07-15 10:10:22",
+    "category": "",
+    "description": "La selección española dio un recital de juego ante el combinado francés con un Dani Olmo estelar jugando entre líneas",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Diez años del intento de golpe de Estado en Turquía, el inicio de una represión sin filtros",
+    "link": "https://www.elperiodico.com/es/internacional/20260715/diez-anos-golpe-turquia-represion-erdogan-132466573",
+    "pubDate": "2026-07-15 10:07:59",
+    "category": "",
+    "description": "<h2>La intentona del 15 de julio de 2016 sirvió al Gobierno del presidente turco Recep Tayyip Erdogan para purgar las instituciones, cambiar rivales por adeptos y facilitar la persecución de la oposición </h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Aitana pide que Rosalía cante en la final del Mundial y represente a España: \"Tiene que estar allí\"",
+    "link": "https://www.elperiodico.com/es/gente/20260715/aitana-pide-rosalia-cante-final-mundial-represente-espana-132465604",
+    "pubDate": "2026-07-15 10:04:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La cantante ha expresado en X la ilusión que le haría ver a su amiga sobre el escenario de Nueva York</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260715/ana-botin-juan-roig-ishowspeed-mundial-mercadona-santander-132464548\">Ana Botín y Juan Roig festejaron en el campo el triunfo de España contra Francia con el 'youtuber' IShowSpeed: \"Mercadona es el Walmart de España\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Росіяни вбили КАБами трьох людей у Сумах",
+    "link": "https://ua.korrespondent.net/ukraine/4894368-rosiiany-vbyly-kabamy-trokh-luidei-u-sumakh",
+    "pubDate": "2026-07-15 09:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493892.jpg\">Одна з бомб влучила поблизу медичних закладів – у районі з жвавим рухом людей і транспорту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "За добу Донеччина пережила понад 1300 обстрілів: наслідки атак РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4894366-za-dobu-donechchyna-perezhyla-ponad-1300-obstriliv-naslidky-atak-rf",
+    "pubDate": "2026-07-15 09:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493883.jpg\">Російські війська протягом доби масовано обстрілювали населені пункти Донецької області. Загинула одна людина, ще семеро отримали поранення, пошкоджено десятки житлових будинків і цивільних об'єктів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тіна Кароль зізналася, чому залишається самотньою після смерті чоловіка",
+    "link": "https://ua.korrespondent.net/lifestyle/4894365-tina-karol-ziznalasia-chomu-zalyshaietsia-samotnoui-pislia-smerti-cholovika",
+    "pubDate": "2026-07-15 09:47:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493884.jpg\">Артистка зізналася, що може кохати, але не завжди готова про це говорити.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "El mundo se pone en pie ante España: la prensa internacional eleva a la Roja a gran favorita al título",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/mundo-pone-pie-espana-prensa-prensa-internacional-eleva-roja-gran-favorita-titulo-132464786",
+    "pubDate": "2026-07-15 09:40:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Numerosos medios ensalzan el juego de la selección y lanzan hirientes críticas a la actuación de los 'Bleus' por el planteamiento de Deschamps y el rendimiento de  Mbappé y Dembélé</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260714/francia-espana-resumen-resultado-mundial-2026-futbol-132459370\">España se mete en la final del Mundial aplastando a Francia con su fútbol 'sapiens'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260714/gloriosa-espana-nombre-barbaridad-132454823\">La gloriosa España de los 'sin nombre': \"Esto es una barbaridad\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260715/fuente-espectaculo-espana-francia-enfrente-132460444\">De la Fuente, sobre el \"espectáculo\" de España ante Francia: \"Enfrente tenían al mejor equipo del mundo\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Росія масовано атакує Одещину п'яту добу поспіль",
+    "link": "https://ua.korrespondent.net/city/odessa/4894363-rosiia-masovano-atakuie-odeschynu-piatu-dobu-pospil",
+    "pubDate": "2026-07-15 09:38:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493845.jpg\">Під прицілом ворога - мирне населення, цивільна, промислова та портова інфраструктура. Є троє загиблих і постраждалі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Відключення світла у дев'яти областях України",
+    "link": "https://ua.korrespondent.net/ukraine/4894361-vidkluichennia-svitla-u-deviaty-oblastiakh-ukrainy",
+    "pubDate": "2026-07-15 09:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493844.jpg\">Аварійно-відновлювальні роботи вже здійснюються там, де це зараз дозволяють безпекові умови.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський удар по АЗС у Сумах: постраждав водій",
+    "link": "https://ua.korrespondent.net/ukraine/4894359-rosiiskyi-udar-po-azs-u-sumakh-postrazhdav-vodii",
+    "pubDate": "2026-07-15 09:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493840.jpg\">У Сумах російські війська атакували дві автозаправні станції. Внаслідок удару тяжкі поранення отримав водій маршрутного таксі, також виникла пожежа та пошкоджено інфраструктуру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сікорський попередив про провокацію РФ з українськими дронами",
+    "link": "https://ua.korrespondent.net/world/4894357-sikorskyi-poperedyv-pro-provokatsiui-rf-z-ukrainskymy-dronamy",
+    "pubDate": "2026-07-15 09:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493819.jpg\">Путін може вдатись до подібних дій, \"оскільки він у відчаї й програє\", зауважив глава МЗС Польщі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ya ha entrado en vigor: cambios en las letras de las matrículas de los coches desde este julio",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260715/entrado-vigor-cambios-letras-matriculas-coches-julio-dv-132412261",
+    "pubDate": "2026-07-15 09:12:40",
+    "category": "",
+    "description": "<h2 class=\"item\">El avance del parque móvil y el auge de ventas en verano impulsan la llegada de combinaciones mientras crece la importancia de conocer el año de matriculación en la compra de vehículos de segunda mano</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Ana Botín y Juan Roig festejaron en el campo el triunfo de España contra Francia con el 'youtuber' IShowSpeed: \"Mercadona es el Walmart de España\"",
+    "link": "https://www.elperiodico.com/es/gente/20260715/ana-botin-juan-roig-ishowspeed-mundial-mercadona-santander-132464548",
+    "pubDate": "2026-07-15 09:12:36",
+    "category": "",
+    "description": "<h2>La presidenta del Santander y el dueño de Mercadona coincidieron en Dallas con Darren Watkins Jr., el creador estadounidense de 21 años que arrasa en internet. La directiva hasta le invitó a abrirse una cuenta en su banco</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260714/francia-espana-resumen-resultado-mundial-2026-futbol-132459370\">España se mete en la final del Mundial aplastando a Francia con su fútbol 'sapiens'</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Землетруси у Венесуелі: кількість загиблих перевищила 4,7 тисячі",
+    "link": "https://ua.korrespondent.net/world/4894355-zemletrusy-u-venesueli-kilkist-zahyblykh-perevyschyla-47-tysiachi",
+    "pubDate": "2026-07-15 09:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493818.jpg\">У Венесуелі оновили дані про наслідки потужних землетрусів, що сталися наприкінці червня. Кількість загиблих перевищила 4,7 тисячі, а десятки тисяч людей постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cae en Barcelona una banda de estafadores que usurpaban la identidad: consiguió 131.000 euros en 12 días",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cae-barcelona-banda-estafadores-usurpaban/132465183.shtml",
+    "pubDate": "2026-07-15 09:09:52",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Científicos de Barcelona crean una \"nueva generación de fármacos\" activados por luz capaces de restaurar la visión en ratones ciegos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/cientificos-barcelona-terapia-luz-restaurar-vision-ratones-132452498",
+    "pubDate": "2026-07-15 09:08:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El tratamiento, desarrollado por un consorcio de investigadores españoles, no requiere ni técnicas de edición genética ni implantes por lo que, algún día, podría convertirse en un tratamiento en forma de colirio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20251025/arboles-tienen-hojas-sant-joan-deu-frena-ceguera-nina-cirugia-pionera-hipoplasia-nervio-trigemino-122690355\">\"¡Los árboles tienen hojas!\": una cirugía pionera en Sant Joan de Déu salva a una niña de la ceguera</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alice Kellen: \"Sí que he sufrido el bloqueo del escritor, tuve dos años bastante malos\"",
+    "link": "https://www.elperiodico.com/es/tele/20260715/alice-kellen-mapa-anhelos-netflix-serie-132391465",
+    "pubDate": "2026-07-15 09:05:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Netflix adapta una de las novelas más famosas de la escritora valenciana, 'El mapa de los anhelos'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260630/series-estrenos-julio-2026-netflix-hbo-disney-prime-apple-skyshowtime-atresplayer-filmin-movistar-131596065\">Las 10 series que no te puedes perder este julio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor extremo y la calima se abren paso en un miércoles infernal con avisos rojos por altas temperaturas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/calor-extremo-calima-miercoles-prevision-avisos-rojos-132464539",
+    "pubDate": "2026-07-15 09:05:19",
+    "category": "",
+    "description": "<h2 class=\"item\">La Aemet advierte de máximas por encima de los 42 grados en Zaragoza y Valencia, mientras Meteocat avisa de calor extremo en el Vallès y Baix Llobregat</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260714/cataluna-aviso-rojo-calor-miercoles-maximas-temperatura-meteocat-132432109\">Catalunya vuelve a activar avisos rojos ante un miércoles de calor extremo con máximas por encima de los 42 grados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ibex 35 enfría su rally por la crisis en Ormuz y el petróleo rebota hasta los 85 dólares",
+    "link": "https://www.elperiodico.com/es/economia/20260715/ibex-35-enfria-rally-crisis-132465171",
+    "pubDate": "2026-07-15 09:05:05",
+    "category": "",
+    "description": "<h2>El parqué madrileño cae un 0,90% ante la incertidumbre generada por las tensiones geopolíticas y la subida del crudo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La inflación se mantiene en el 3,2% en junio y los alimentos moderan su subida",
+    "link": "https://www.elperiodico.com/es/economia/20260715/inflacion-mantiene-3-2-junio-132465158",
+    "pubDate": "2026-07-15 09:03:25",
+    "category": "",
+    "description": "<h2>La moderación de los carburantes y de los alimentos compensa el mayor impacto de la electricidad y el gas, mientras la inflación subyacente baja al 2,9%</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "Доба на Харківщині: двоє загиблих, 16 постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4894353-doba-na-kharkivschyni-dvoie-zahyblykh-16-postrazhdalykh",
+    "pubDate": "2026-07-15 09:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493797.jpg\">Росіяни били ракетами, КАБами та безпілотниками по Харкову і 21 населеному пункту області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así ha celebrado la Familia Real el pase de España a la final del Mundial",
+    "link": "https://www.elperiodico.com/es/videos/deportes/celebrado-familia-real-pase-espana-final/132465119.shtml",
+    "pubDate": "2026-07-15 09:01:27",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Las mejores ofertas del día (15 de julio): rebajas por tiempo limitado en Ariel, Kérastase, Hawkers y más",
+    "link": "https://www.elperiodico.com/es/shopping/20260715/amazon-mejores-ofertas-dia-chollos-rebajas-132212370",
+    "pubDate": "2026-07-15 09:00:00",
+    "category": "",
+    "description": "<h2>Con descuentos épicos superiores al 70 %, hemos recopilado algunas de las mejores ofertas del día para que no pierdas la oportunidad de hacerte con ellas. ¡No dejes escapar estos chollos!</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Autobús autónomo de Alsa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/autobus-autonomo-alsa/132464974.shtml",
+    "pubDate": "2026-07-15 08:58:48",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Генштаб оприлюднив карту боїв станом на 15 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4894349-henshtab-opryluidnyv-kartu-boiv-stanom-na-15-lypnia",
+    "pubDate": "2026-07-15 08:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493765.jpg\">Найбільшу кількість штурмових дій зафіксовано на Покровському напрямку, де наші захисники зупинили сорок атак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cae en Barcelona una banda de estafadores que usurpaban la identidad: consiguió 131.000 euros en 12 días",
+    "link": "https://www.elperiodico.com/es/sucesos/20260715/cae-barcelona-banda-estafadores-usurpaban-identidad-banco-financiero-132464725",
+    "pubDate": "2026-07-15 08:57:53",
+    "category": "",
+    "description": "<h2>Los Mossos encuentran 1.600 documentos de identidad, pasaportes y permisos de conducir que los sospechosos usaban para contratar productos financieros</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260710/cae-banda-estafo-millon-euros-estafas-telefonia-suplantacion-clientes-132317221\">Cae una banda que estafó más de un millón de euros suplantando clientes de Telefónica para robar móviles</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Calor hoy miércoles, 15 de julio, en Catalunya: consulta las temperaturas máximas y la previsión del tiempo, según Meteocat y Aemet",
+    "link": "https://www.elperiodico.com/es/tiempo/20260715/calor-hoy-14-julio-temperaturas-meteocat-aemet-131690573",
+    "pubDate": "2026-07-15 08:55:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/tiempo/20260713/calor-hoy-14-julio-temperaturas-barcelona-meteocat-aemet-132268292\"><strong>El tiempo en Barcelona</strong></a><a href=\"https://www.elperiodico.com/es/tiempo/20260713/calor-hoy-14-julio-temperaturas-barcelona-meteocat-aemet-132268292\"> | Consulta las temperaturas máximas y la previsión según Meteocat y Aemet</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Китай звинуватив американського вченого у шпигунстві",
+    "link": "https://ua.korrespondent.net/world/4894351-kytai-zvynuvatyv-amerykanskoho-vchenoho-u-shpyhunstvi",
+    "pubDate": "2026-07-15 08:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493796.jpg\">У Китаї вже майже два роки під вартою перебуває американський сейсмолог китайського походження Чень Юлінь. Його родина заявляє, що звинувачення у шпигунстві безпідставні, а Вашингтон домагається звільнення науковця.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Президент Єврокомісії прибула до Києва",
+    "link": "https://ua.korrespondent.net/ukraine/4894347-prezydent-yevrokomisii-prybula-do-kyieva",
+    "pubDate": "2026-07-15 08:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493744.jpg\">Президент Єврокомісії Урсула фон дер Ляєн прибула до Києва з офіційним візитом. Під час поїздки вона планує представити нові кроки для співпраці України та ЄС в оборонній сфері, а також обговорити євроінтеграцію.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "España golea a Francia y Gibraltar gana también: crónica futbolera a medianoche del fin de una Verja",
     "link": "https://www.elperiodico.com/es/sociedad/20260715/espana-golea-francia-gibraltar-gana-132464370",
     "pubDate": "2026-07-15 08:26:07",
@@ -122,6 +599,15 @@
     "pubDate": "2026-07-15 08:05:00",
     "category": "",
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La princesa Leonor sorprende con humor en su discurso del Liceu y lanza un guiño a Sofía",
+    "link": "https://www.elperiodico.com/es/politica/20260715/estilo-leonor-humor-replicante-blade-runner-guino-sofia-132461138",
+    "pubDate": "2026-07-15 08:01:05",
+    "category": "",
+    "description": "<h2>La heredera al trono se mostró más cercana y natural en su intervención en el Gran Teatre del Liceu de Barcelona </h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -378,6 +864,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Una nueva herramienta que mide la humedad de bosques y campos permitirá anticipar el riesgo de incendio",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/nueva-herramienta-mide-humedad-bosques-incendios-prevencion-incendios-espana-132406601",
+    "pubDate": "2026-07-15 06:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La plataforma ForestDrought actualiza diariamente el estado hídrico de la vegetación en España y facilita la detección de las áreas donde plantas, árboles y arbustos pueden arder con mayor facilidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260707/catalunya-mantiene-modelo-prevencion-incendios-les-gavarres-gestion-forestal-132104363\" target=\"_blank\">Catalunya mantiene el modelo de prevención de incendios de Les Gavarres: \"Con calor extremo y tramontana, aunque haya gestión, el bosque arde\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Encuesta GESOP: El 60% de los españoles apoyan reformar la ley electoral para facilitar que gobierne la lista más votada",
     "link": "https://www.elperiodico.com/es/politica/20260715/encuesta-ley-electoral-lista-mas-votada-gesop-132411777",
     "pubDate": "2026-07-15 06:00:40",
@@ -452,6 +947,15 @@
   {
     "title": "Сенат хоче ухвалити санкції проти РФ без правок",
     "link": "https://ua.korrespondent.net/world/4894323-senat-khoche-ukhvalyty-sanktsii-proty-rf-bez-pravok",
+    "pubDate": "2026-07-15 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493523.jpg\">Законопроєкт хочуть ухвалити до серпневої перерви. А запропоновані Трампом зміни до закону про \"перельні санкції\" можуть розглянути окремо.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сенат США хоче ухвалити санкції проти РФ без правок",
+    "link": "https://ua.korrespondent.net/world/4894323-senat-ssha-khoche-ukhvalyty-sanktsii-proty-rf-bez-pravok",
     "pubDate": "2026-07-15 04:56:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4493523.jpg\">Законопроєкт хочуть ухвалити до серпневої перерви. А запропоновані Трампом зміни до закону про \"перельні санкції\" можуть розглянути окремо.",
