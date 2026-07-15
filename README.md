@@ -1,8 +1,17 @@
-# News for 2026-07-15 16:19
+# News for 2026-07-15 17:58
 
 Previous day: [2026-07-14](./data/2026-07-14.md)
 
 ## ua.korrespondent.net
+17:48 [Удар по Запоріжжю: двоє загиблих, багато поранених](https://ua.korrespondent.net/city/zaporozhye/4894523-udar-po-zaporizhzhui-dvoie-zahyblykh-bahato-poranenykh)<br>
+17:33 [Харків'янка побила 7-річного сина посеред вулиці: відкрито провадження](https://ua.korrespondent.net/ukraine/4894517-kharkivianka-pobyla-7-richnoho-syna-posered-vulytsi-vidkryto-provadzhennia)<br>
+17:29 [У Львові військовий ТЦК схопив жінку за горло: у військкоматі відреагували](https://ua.korrespondent.net/city/lvov/4894516-u-lvovi-viiskovyi-ttsk-skhopyv-zhinku-za-horlo-u-viiskkomati-vidreahuvaly)<br>
+17:05 [Євросоюз виділив Україні черговий €1 млрд на дрони](https://ua.korrespondent.net/world/4894511-yevrosouiz-vydilyv-ukraini-cherhovyi-1-mlrd-na-drony)<br>
+16:58 [Коригував удари під Краматорськом: агент РФ отримав 15 років тюрми](https://ua.korrespondent.net/ukraine/4894509-koryhuvav-udary-pid-kramatorskom-ahent-rf-otrymav-15-rokiv-tuirmy)<br>
+16:51 [У Білорусі проводять масову ревізію бомбосховищ](https://ua.korrespondent.net/world/4894505-u-bilorusi-provodiat-masovu-reviziui-bomboskhovysch)<br>
+16:49 [Дрони РФ пошкодили іноземні судна на Миколаївщині](https://ua.korrespondent.net/ukraine/4894504-drony-rf-poshkodyly-inozemni-sudna-na-mykolaivschyni)<br>
+16:27 [У Севастополі уражено електростанцію - ССО](https://ua.korrespondent.net/ukraine/4894495-u-sevastopoli-urazheno-elektrostantsiui-sso)<br>
+16:24 [Рятувальники ліквідували пожежу у Чорнобильській зоні](https://ua.korrespondent.net/ukraine/4894497-riatuvalnyky-likviduvaly-pozhezhu-u-chornobylskii-zoni)<br>
 16:05 [Новий шанс для України: Хорватія розширює газовий термінал](https://ua.korrespondent.net/business/economics/4894489-novyi-shans-dlia-ukrainy-khorvatiia-rozshyruiie-hazovyi-terminal)<br>
 16:01 [У Кривому Розі арештували чоловіка за домагання до 11-річної](https://ua.korrespondent.net/ukraine/4894490-u-kryvomu-rozi-areshtuvaly-cholovika-za-domahannia-do-11-richnoi)<br>
 15:59 [У Росії будуть виробляти одеколон Дух Анкоріджа](https://ua.korrespondent.net/world/russia/4894487-u-rosii-budut-vyrobliaty-odekolon-dukh-ankoridzha)<br>
@@ -76,6 +85,9 @@ Previous day: [2026-07-14](./data/2026-07-14.md)
 01:07 [РФ атакувала Ізюм: багато руйнувань і пожежі](https://ua.korrespondent.net/ukraine/4894310-rf-atakuvala-izuim-bahato-ruinuvan-i-pozhezhi)<br>
 
 ## as.com
+17:24 [La Liga Endesa ya tiene fecha de regreso](https://as.com/baloncesto/la-liga-endesa-ya-tiene-fecha-de-regreso-f202607-n/)<br>
+17:03 [Los pecados que condenaron a Scariolo](https://as.com/baloncesto/acb/los-pecados-que-condenaron-a-scariolo-f202607-n/)<br>
+16:26 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
 15:24 [Un inicio arrollador lleva a la Sub-20 a octavos del Eurobasket](https://as.com/baloncesto/mas_baloncesto/un-inicio-arrollador-dispara-a-la-sub-20-hacia-octavos-f202607-n/)<br>
 14:22 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 13:57 [La Sub-17, un rodillo hacia octavos](https://as.com/baloncesto/la-sub-17-un-rodillo-hacia-octavos-f202607-n/)<br>
@@ -85,6 +97,17 @@ Previous day: [2026-07-14](./data/2026-07-14.md)
 07:27 [Ricky le dice ‘no’ a Obradovic](https://as.com/baloncesto/euroliga/ricky-le-dice-no-a-obradovic-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:54 [El humo y el estrés de un incendio reducen el peso de los recién nacidos y aumentan los partos prematuros](https://www.elperiodico.com/es/sociedad/20260715/humo-estres-incendio-reducen-peso-bebes-prematuros-132487236)<br>
+17:47 ["La trata de menores existía en la antigua Roma y en nuestros días"](https://www.elperiodico.com/es/ocio-y-cultura/20260715/trata-menores-existia-antigua-roma-132487181)<br>
+17:42 [Laprovittola ficha por el Joventut por tres temporadas: "Vuelvo donde fui feliz"](https://www.elperiodico.com/es/deportes/20260715/laprovittola-ficha-tres-temporadas-joventut-132486118)<br>
+17:37 [Els Bombers treballen en un nou incendi forestal a Sant Quirze Safaja, que afecta unes 20 hectàrees](https://www.elperiodico.com/es/videos/sucesos/els-bombers-treballen-nou-incendi/132486591.shtml)<br>
+17:36 [La UE y Ucrania promoverán la producción conjunta de drones y misiles antibalísticos](https://www.elperiodico.com/es/internacional/20260715/ue-ucrania-produccion-drones-misiles-antibalisticos-132486578)<br>
+17:32 [Barcelona tendrá una Biennal d’Arts Digitals para impulsar la escena de arte digital](https://www.elperiodico.com/es/ocio-y-cultura/20260715/barcelona-tendra-biennal-d-arts-132485545)<br>
+17:26 [Barcelona estrena la aplicación “GPS del calor” durante la tercera ola de calor del verano](https://www.elperiodico.com/es/videos/sociedad/barcelona-estrena-aplicacion-gps-calor/132486031.shtml)<br>
+17:15 [El bote de Nivea no siempre ha sido azul: este es el color con el que nació](https://www.elperiodico.com/es/economia/20260715/nivea-lata-azul-antes-amarillo-dv-132402641)<br>
+17:15 [Mónica de la Peña, neumóloga, señala: "Es peor dormir mal que tener el aire acondicionado encendido toda la noche"](https://www.elperiodico.com/es/sociedad/20260715/monica-pena-neumologa-peor-dormir-mal-aire-acondicionado-noche-calor-132352864)<br>
+17:15 [Joan Siquier, emprendedor avícola: "No cuidamos gallinas, cuidamos reinas... yo apuesto más por el bienestar de las gallinas que por la producción de huevo"](https://www.elperiodico.com/es/economia/20260715/emprendedor-avicola-negocio-gallinas-camperas-joan-siquier-dv-et-132266575)<br>
+17:00 [Más calima y menos brisa: así es cómo el cambio climático empeora el aire que respiramos en España y aumenta los riesgos para la salud](https://www.elperiodico.com/es/sociedad/20260715/calima-brisa-cambio-climatico-aire-espana-efectos-estudios-132467341)<br>
 16:12 [Estados Unidos autoriza un espejo espacial gigante para probar la “luz solar a demanda”](https://www.elperiodico.com/es/tendencias21/20260715/estados-unidos-autoriza-espejo-espacial-132483349)<br>
 16:05 [Albert Sánchez, nuevo director general de Philip Morris para España, Andorra y Gibraltar](https://www.elperiodico.com/es/economia/20260715/albert-sanchez-nuevo-director-general-132483101)<br>
 16:00 [Dos másteres coordinados por la UB y la Universidad Católica de Valencia, los primeros en recibir el nuevo sello de calidad de la UE para títulos europeos conjuntos](https://www.elperiodico.com/es/sociedad/20260715/masteres-universidades-ub-barcelona-catolica-valencia-estrenan-sello-europeo-calidad-alianzas-universitarias-union-europea-joint-european-degree-label-132466881)<br>
