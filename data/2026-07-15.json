@@ -1,5 +1,41 @@
 [
   {
+    "title": "\"Quien elige el tren no compra solo un trayecto; compra tiempo, comodidad y flexibilidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/elige-tren-compra-trayecto-compra-bc-132496551",
+    "pubDate": "2026-07-15 23:59:15",
+    "category": "",
+    "description": "<h2>Javier Abadía, Director Comercial y de Cliente de IRYO ofrece una visión precisa sobre el momento que vive el sector ferroviario</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія вдарила по Києву балістикою",
+    "link": "https://ua.korrespondent.net/city/kiev/4894583-rosiia-vdaryla-po-kyievu-balistykoui",
+    "pubDate": "2026-07-15 23:58:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4494923.jpg\">Російські воєнні злочинці вдарили по Києву балістичними ракетами, повідомили в Повітряних Силах ЗСУ.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los vecinos de Manlleu rinden homenaje a los dos gemelos ahogados en el río Ter",
+    "link": "https://www.elperiodico.com/es/sociedad/20260715/vecinos-manlleu-rinden-homenaje-gemelos-132496487",
+    "pubDate": "2026-07-15 23:55:25",
+    "category": "",
+    "description": "<h2>Amigos, profesores y vecinos han mostrado un sentido pésame a los padres y familiares de las víctimas</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Locura en las calles argentinas después de la victoria ante Inglaterra",
+    "link": "https://www.elperiodico.com/es/deportes/20260715/locura-calles-argentinas-despues-victoria-132496416",
+    "pubDate": "2026-07-15 23:54:34",
+    "category": "",
+    "description": "<h2>El pase a la final frente a España desató, otra vez, una fiesta de proporciones en la ciudad de Buenos Aires y gran parte del territorio argentino</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 93
+  },
+  {
     "title": "El tomate cuántico",
     "link": "https://www.elperiodico.com/es/deportes/20260715/tomate-cuantico-132496345",
     "pubDate": "2026-07-15 23:50:17",
@@ -106,6 +142,15 @@
     "description": "<h2>La investigación científica refuta la influencia de la Luna y señala la relación directa entre altas temperaturas y el aumento de la criminalidad.</h2>",
     "topic": 0,
     "topic_match_probability": 0
+  },
+  {
+    "title": "Гібридна війна. Нові загрози країнам ЄС від Росії",
+    "link": "https://ua.korrespondent.net/world/4894585-hibrydna-viina-novi-zahrozy-krainam-yes-vid-rosii",
+    "pubDate": "2026-07-15 22:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4494944.jpg\">За словами міністра закордонних справ Польщі Радослава Сікорського, Росія може готувати масштабну провокацію з використанням українських безпілотників.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "El caso del meme del hermano de Lamine Yamal en el Mundial",
