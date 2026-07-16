@@ -1,5 +1,149 @@
 [
   {
+    "title": "Los seis errores que nunca debes cometer al parar en el arcén",
+    "link": "https://www.elperiodico.com/es/motor/20260716/seis-errores-no-debes-cometer-parar-arcen-132469799",
+    "pubDate": "2026-07-16 08:00:15",
+    "category": "",
+    "description": "<h2>La DGT prevé más de 104 millones de desplazamientos en una temporada estival donde detenerse incorrectamente en carretera puede multiplicar el riesgo de sufrir un accidente grave</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La contaminación por plástico ya es, ante todo, un problema de salud, alertan los científicos",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260716/contaminacion-plastico-problema-salud-alertan-132499650",
+    "pubDate": "2026-07-16 07:55:56",
+    "category": "",
+    "description": "<h2>Descubren cómo afecta al hígado la ingesta de partículas de este material, omnipresente en alimentos y bebidas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оцінив ситуацію на фронті: оновлена карта",
+    "link": "https://ua.korrespondent.net/ukraine/4894620-henshtab-otsinyv-sytuatsiui-na-fronti-onovlena-karta",
+    "pubDate": "2026-07-16 07:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495396.jpg\">Найгарячішими ділянками залишаються Покровський, Костянтинівський та Слов'янський напрямки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sentencia del TJUE sobre la ley de amnistía y Carles Puigdemont hoy, en directo: última hora de la decisión del tribunal europeo",
+    "link": "https://www.elperiodico.com/es/politica/20260716/sentencia-ley-de-amnistia-carles-puigdemont-tjue-ultima-hora-directo-132490434",
+    "pubDate": "2026-07-16 07:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260613/puigdemont-regreso-cataluna-amnistia-tjue-tc-supremo-127242580\" target=\"_blank\">Puigdemont y su camino de regreso: los escenarios que se abren cuando el TJUE resuelva sobre la amnistía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Messi se vuelve eterno en Atlanta: dos asistencias para emular a Maradona",
+    "link": "https://www.elperiodico.com/es/deportes/20260716/messi-vuelve-eterno-atlanta-asistencias-132496159",
+    "pubDate": "2026-07-16 07:33:12",
+    "category": "",
+    "description": "<h2>El mejor jugador de la historia lo volvió a hacer y jugará su tercera final de un Mundial</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Con las reservas ya en marcha, el lanzamiento de PlayStation FlexStrike se retrasa indefinidamente",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260716/reservas-marcha-lanzamiento-playstation-flexstrike-132485523",
+    "pubDate": "2026-07-16 07:33:01",
+    "category": "",
+    "description": "<h2>El controlador arcade ya no se podrá comprar en agosto debido a problemas en su proceso de fabricación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Puede tu PC ejecutar Onimusha: Way of the Sword? Compruébalo con una prueba de rendimiento",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260716/pc-ejecutar-onimusha-way-of-132484929",
+    "pubDate": "2026-07-16 07:32:57",
+    "category": "",
+    "description": "<h2>Capcom publica un benchmark oficial que calcula el rendimiento del juego y asigna una valoración según los resultados obtenidos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Pequeño Nicolás, un pícaro al sol",
+    "link": "https://www.elperiodico.com/es/opinion/20260716/pequeno-nicolas-picaro-sol-132499280",
+    "pubDate": "2026-07-16 07:29:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lionel Scaloni, tras la remontada de Argentina: \"Sin palabras, somos únicos, vamos a dejarnos todo para ganar\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260716/lionel-scaloni-remontada-argentina-palabras-132496412",
+    "pubDate": "2026-07-16 07:29:25",
+    "category": "",
+    "description": "<h2>El seleccionador de la Albiceleste, emocionado tras el milagroso pase a la final, admitió que \"este grupo no deja de sorprenderme\". \"Vamos a dejarnos todo para ganar\", prometió</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "На Запоріжжі армія РФ вбила сімох людей і поранила 20",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4894617-na-zaporizhzhi-armiia-rf-vbyla-simokh-luidei-i-poranyla-20",
+    "pubDate": "2026-07-16 07:23:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495373.jpg\">Надійшло 147 повідомлень про пошкодження об’єктів інфраструктури, житла, автівок, господарських будівель.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un verano complicado entre Barça y Baskonia",
+    "link": "https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/",
+    "pubDate": "2026-07-16 07:14:26",
+    "category": "FC Barcelona baloncesto",
+    "description": "Xevi Pujol será el director deportivo desde el inicio de agosto, pero el club vasco no facilitó las cosas. Tampoco con Paolo Galbiati y Luwawu-Cabarrot.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así podrás seguir en directo las grandes competiciones de GRAVITEO",
+    "link": "https://www.elperiodico.com/es/deportes/20260716/podras-seguir-directo-grandes-competiciones-132499381",
+    "pubDate": "2026-07-16 07:05:52",
+    "category": "",
+    "description": "<h2>El Graviteo Urban Sports Festival, que se celebrará del 17 al 19 de julio en el Circuit de Barcelona-Catalunya, reunirá a algunos de los mejores especialistas internacionales de los deportes urbanos. Para quienes no puedan desplazarse hasta el recinto, varias de las principales competiciones podrán seguirse en directo y de forma totalmente gratuita a través de internet.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Stellantis quiere resucitar una histórica marca italiana y lo hará con este coche que triunfa en Italia",
+    "link": "https://www.elperiodico.com/es/motor/20260716/stellantis-quiere-resucitar-historica-marca-autobianchi-132039508",
+    "pubDate": "2026-07-16 07:00:02",
+    "category": "",
+    "description": "<h2>La histórica Autobianchi nació en acuerdo con Fiat, Bianchi y Pirelli y el Fiat Pandina actual será el elegido para su resurgimiento.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ вранці вдарила по Одесі: пошкоджено навчальний заклад",
+    "link": "https://ua.korrespondent.net/city/odessa/4894615-rf-vrantsi-vdaryla-po-odesi-poshkodzheno-navchalnyi-zaklad",
+    "pubDate": "2026-07-16 06:58:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495352.jpg\">Сьогодні в місті оголошено День жалоби за трьома загиблими внаслідок вчорашньої ранкової атаки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EEUU exigirá pruebas de testosterona a militares mayores de 30 años",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/testosterona-eeuu-militares-30-anos-pruebas-ejercito-132499259",
+    "pubDate": "2026-07-16 06:53:53",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260315/perfil-pete-hegseth-cruzado-arrogante-belicoso-guerra-iran-127938280\">Pete Hegseth, un cruzado arrogante y belicoso al frente de la guerra en Irán</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Генштаб навів свіжі дані про втрати Росії у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4894613-henshtab-naviv-svizhi-dani-pro-vtraty-rosii-u-viini",
+    "pubDate": "2026-07-16 06:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495330.jpg\">Загальні бойові втрати російських загарбників з 24.02.22 по 16.07.26 орієнтовно склали близько 1 424 620 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Наслідки нічної атаки на Київ: двоє людей загинули",
     "link": "https://ua.korrespondent.net/city/kiev/4894611-naslidky-nichnoi-ataky-na-kyiv-dvoie-luidei-zahynuly",
     "pubDate": "2026-07-16 06:13:00",
