@@ -1,5 +1,167 @@
 [
   {
+    "title": "Наслідки нічної атаки на Київ: двоє людей загинули",
+    "link": "https://ua.korrespondent.net/city/kiev/4894611-naslidky-nichnoi-ataky-na-kyiv-dvoie-luidei-zahynuly",
+    "pubDate": "2026-07-16 06:13:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495301.jpg\">Шестеро осіб дістали поранення, серед них - підліток. Інформація щодо жертв та постраждалих уточнюється.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Sant Jordi Club, bastión de los conciertos 'medianos' en Barcelona: 212 actuaciones y 617.781 espectadores en 5 años",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260716/sant-jordi-club-bastion-conciertos-formato-mediano-barcelona-covid-132481880",
+    "pubDate": "2026-07-16 06:02:48",
+    "category": "",
+    "description": "<h2 class=\"item\">En el último lustro, el pabellón pequeño de la Anella Olímpica se ha convertido en un escenario clave y ha acompañado el auge de la música en directo poscovid</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260715/nuevo-sant-jordi-club-presentacion-proyecto-132482409\">El nuevo Sant Jordi Club consolida la Anella Olímpica como un 'hub' musical de referencia en Europa</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "España va bien",
+    "link": "https://www.elperiodico.com/es/tele/20260716/espana-132494475",
+    "pubDate": "2026-07-16 06:01:02",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "107 municipios de 17 comarcas estarán en nivel 4 de riesgo de incendio forestal este jueves",
+    "link": "https://www.elperiodico.com/es/sociedad/20260716/107-municipios-17-comarcas-estaran-incendio-forestal-jueves-132493398",
+    "pubDate": "2026-07-16 06:00:58",
+    "category": "",
+    "description": "<h2>Se reabrirán los parques de Sant Llorenç del Munt i l'Obac y Montserrat por la mejora de las condiciones meteorológicas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La economía china crece a su ritmo más bajo en casi cuatro años y complica el objetivo anual",
+    "link": "https://www.elperiodico.com/es/economia/20260716/economia-china-crece-ritmo-cuatro-132491777",
+    "pubDate": "2026-07-16 06:00:53",
+    "category": "",
+    "description": "<h2>El PIB chino creció un 4,3% en el segundo trimestre, dos décimas por debajo de lo esperado, afectado por la crisis inmobiliaria y el paro juvenil</h2>",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "Fernando Lacasa, cooperante y escritor: \"Eritrea renunció al Mundial por miedo a que sus jugadores desertaran. El país vive blindado sobre sí mismo\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/fernando-lacasa-eritrea-mundial-futbol-entrevista-132489855",
+    "pubDate": "2026-07-16 06:00:48",
+    "category": "",
+    "description": "<h2>\"En Eritrea, el recluta sabe que quien tiene que sustituirle todavía no ha nacido\", afirma el autor de 'Huir de Eritrea' en conversación con EL PERIÓDICO</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El camino de la amnistía en la justicia europea que ya marcó el abogado general de la UE",
+    "link": "https://www.elperiodico.com/es/politica/20260716/camino-amnistia-justicia-europea-132488773",
+    "pubDate": "2026-07-16 06:00:46",
+    "category": "",
+    "description": "<h2>El Tribunal de Justicia de la Unión Europea emite el fallo que marcará el futuro político de Carles Puigdemont</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260716/gobierno-sentencia-amnistia-compromisos-junts-132486014\" target=\"_blank\">El Gobierno espera una “positiva” sentencia de la amnistía para cumplir sus compromisos con Junts y apuntalar la “normalización”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La reforma bancaria de la UE facilitará las fusiones transnacionales y simplificará la regulación",
+    "link": "https://www.elperiodico.com/es/economia/20260716/reforma-bancaria-ue-facilitara-fusiones-132487284",
+    "pubDate": "2026-07-16 06:00:45",
+    "category": "",
+    "description": "<h2>La comisaria de Servicios Financieros publica este viernes el informe de competitividad de la banca que busca que el sector colabore con más fuerza en el crecimiento europeo y la financiación de sectores estratégicos como defensa o IA</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El Gobierno espera una “positiva” sentencia de la amnistía para cumplir sus compromisos con Junts y apuntalar la “normalización”",
+    "link": "https://www.elperiodico.com/es/politica/20260716/gobierno-sentencia-amnistia-compromisos-junts-132486014",
+    "pubDate": "2026-07-16 06:00:42",
+    "category": "",
+    "description": "<h2>Desde Moncloa avanzan que seguirán trabajando “para sacar adelante los acuerdos que teníamos con Junts” y hasta confían en sentarse a negociar los Presupuestos ante el hipotético regreso de Puigdemont</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260715/tjue-decide-amnistia-puigdemont-132485391\" target=\"_blank\">Qué es lo que decide mañana el TJUE sobre la amnistía?</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El éxito de los juegos de agua de Barcelona urge a desencallar la antigua 'playa' del Eixample",
+    "link": "https://www.elperiodico.com/es/barcelona/eixample/20260716/exito-juegos-agua-barcelona-urge-132468494",
+    "pubDate": "2026-07-16 06:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/eixample/20250826/torre-les-aigues-ocho-anos-120945940\" target=\"_blank\">La Torre de les Aigües, tras ocho años sin 'playa', languidece al lado de los ejes verdes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260708/barcelona-record-absoluto-temperatura-40-grados-miercoles-calor-132256633\" target=\"_blank\">Barcelona registra su récord absoluto de temperatura con una máxima de 40,9 grados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las muertes por suicidio bajan ligeramente en España en los datos provisionales de 2025",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260716/muertes-suicidio-bajan-ligeramente-espana-132465714",
+    "pubDate": "2026-07-16 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El INE registra 3.808 fallecimientos por esta causa, un 3,7% menos que en la estadística definitiva del año anterior</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260715/responsable-antisuicidios-govern-felicita-campana-132448704\">El responsable antisuicidios del Govern se felicita de la campaña de TMB para reducir las muertes en el metro de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El doble grado de Derecho y Relaciones Internacionales atrae a jóvenes con vocación global: \"Nuestros alumnos no tienen alas de mosquito, tienen alas de cóndor\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260716/doble-grado-derecho-relaciones-internacionales-nota-corte-mas-alta-catalunya-estudiantes-excelentes-ambicion-global-132433982",
+    "pubDate": "2026-07-16 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">La carrera con la nota más alta de las PAU tiene 20 plazas para 122 aspirantes; todos son estudiantes excelentes, que quieren trabajar en el extranjero y contar con una formación jurídica  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260715/graduados-ciencias-ganan-300-euros-mas-que-la-media-pero-menos-que-en-2011-132440668\" target=\"_blank\">Los recién graduados en Medicina ganan más de 1.860 euros brutos al mes que los titulados en Historia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La desconocida señal del carretillero, ¿sabes lo que significa?",
+    "link": "https://www.elperiodico.com/es/motor/20260716/desconocida-senal-carretillero-132433030",
+    "pubDate": "2026-07-16 06:00:34",
+    "category": "",
+    "description": "<h2>Es la R-115 y, aunque apenas se ve en carretera, es clave para regular el reparto manual en polígonos y áreas peatonales</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Підсумки 15.7: Новий Кабмін і українська балістика",
+    "link": "https://ua.korrespondent.net/ukraine/4894593-pidsumky-157-novyi-kabmin-i-ukrainska-balistyka",
+    "pubDate": "2026-07-16 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495028.jpg\">Зеленський назвав головну мету України. Названо ймовірний склад нового Кабінету міністрів. Федоров: Україна випробувала власну балістику. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Directo guerra Ucrania - Rusia, última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-07-16 05:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a>Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo: última hora del incendio en Sant Quirze Safaja (Barcelona)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260716/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-07-16 05:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/muertos-incendio-almeria-los-gallardos-132310835\">Mueren al menos 13 personas en el incendio forestal de Los Gallardos (Almería)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/personas-confinadas-incendios-cataluna-bomberos-alertan-algunas-no-hacen-caso-132292635\">Más de 84.000 personas han tenido que confinarse por incendios en Catalunya en menos de una semana: \"Algunas no hacen caso y deciden huir por su cuenta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран звільнив затриману американку - Трамп",
+    "link": "https://ua.korrespondent.net/world/4894609-iran-zvilnyv-zatrymanu-amerykanku-tramp",
+    "pubDate": "2026-07-16 05:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495280.jpg\">Адвокат жінки подякував президенту за те, що його клієнтка \"тепер у безпеці й повертається в Сполучені Штати\".",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Guerra de Irán, en directo. Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-07-16 05:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "La Policía no podrá ver las grabaciones del asalto al despacho de los abogados de Vito Quiles",
     "link": "https://www.elperiodico.com/es/sucesos/20260716/vito-quiles-grabaciones-asalto-132498414",
     "pubDate": "2026-07-16 05:00:05",
