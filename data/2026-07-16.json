@@ -1,5 +1,50 @@
 [
   {
+    "title": "ЗМІ дізналися про візит Єрмака до Сирського",
+    "link": "https://ua.korrespondent.net/ukraine/4894860-zmi-diznalysia-pro-vizyt-yermaka-do-syrskoho",
+    "pubDate": "2026-07-16 23:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496535.jpg\">Ексочільник ОП поїхав до головкома в одну з прифронтових областей. Зустріч відбулася на тлі скандала зі звільненням міністра оборони.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Estados Unidos lanza nuevos ataques contra el sur de Irán que dejan al menos tres muertos y 12 heridos",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/estados-unidos-lanza-nuevos-ataques-132533007",
+    "pubDate": "2026-07-16 23:06:39",
+    "category": "",
+    "description": "<h2>Fruto de este bombardeo en un barrio de Bandar Abbas, una torre de comunicaciones ha resultado afectada, provocando cortes de electricidad en esta zona</h2>",
+    "topic": "політика",
+    "topic_match_probability": 72
+  },
+  {
+    "title": "Зеленський окреслив пріоритети Хмари у Міноборони",
+    "link": "https://ua.korrespondent.net/ukraine/4894857-zelenskyi-okreslyv-priorytety-khmary-u-minoborony",
+    "pubDate": "2026-07-16 22:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496514.jpg\">Виконувач обов'язків міністра оборони контролюватиме далекобійні операції та внутрішню ситуацію у складових Сил оборони.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Graviteo abre sus puertas al público con el mejor deporte urbano y una potente oferta cultural en el Circuit de Barcelona-Catalunya",
+    "link": "https://www.elperiodico.com/es/deportes/20260716/graviteo-abre-puertas-publico-mejor-132509317",
+    "pubDate": "2026-07-16 22:23:36",
+    "category": "",
+    "description": "<h2>Desde este viernes y hasta el 19 de julio, el festival reunirá deporte, ocio, música, cultura urbana y experiencias para todos los públicos en un formato abierto y gratuito pensado para que tanto aficionados como familias disfruten de un fin de semana único.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Muere Mary Jo 'MJ' Shannon, madre de Kris Jenner y abuela del clan Kardashian",
+    "link": "https://www.elperiodico.com/es/sociedad/20260716/muere-mary-jo-mj-shannon-132531543",
+    "pubDate": "2026-07-16 22:22:49",
+    "category": "",
+    "description": "<h2>Se le consideraba una de las pioneras indirectas del éxito de la dinastía televisiva del clan Kardashian</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 78
+  },
+  {
     "title": "РФ вдарила по Одесі: є жертви",
     "link": "https://ua.korrespondent.net/city/odessa/4894854-rf-vdaryla-po-odesi-ye-zhertvy",
     "pubDate": "2026-07-16 22:12:00",
@@ -7,6 +52,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496473.jpg\">Від ракетного удару постраждали житлові будинки та цивільна інфрастуктура. На місці прильоту виникли пожежі.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Технократи проти генералів. Звільнення Федорова",
+    "link": "https://ua.korrespondent.net/ukraine/4894861-tekhnokraty-proty-heneraliv-zvilnennia-fedorova",
+    "pubDate": "2026-07-16 21:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496556.jpg\">16 липня у Києві та багатьох інших містах України (зокрема у Львові, Дніпрі, Одесі, Харкові, Вінниці, Чернівцях, Ужгороді тощо) спалахнули мирні мітинги на підтримку Федорова.",
+    "topic": "політика",
+    "topic_match_probability": 88
   },
   {
     "title": "Комісар ЄС розкрив, що змусить Путіна погодитися на переговори",
