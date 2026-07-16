@@ -1,5 +1,77 @@
 [
   {
+    "title": "РФ вдарила по Одесі: є жертви",
+    "link": "https://ua.korrespondent.net/city/odessa/4894854-rf-vdaryla-po-odesi-ye-zhertvy",
+    "pubDate": "2026-07-16 22:12:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496473.jpg\">Від ракетного удару постраждали житлові будинки та цивільна інфрастуктура. На місці прильоту виникли пожежі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Комісар ЄС розкрив, що змусить Путіна погодитися на переговори",
+    "link": "https://ua.korrespondent.net/world/4894852-komisar-yes-rozkryv-scho-zmusyt-putina-pohodytysia-na-perehovory",
+    "pubDate": "2026-07-16 21:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496450.jpg\">Досягнення України проти флоту та енергетичної інфраструктури РФ ставлять Київ у сильнішу позицію на потенційних переговорах.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Intoxicados varios bomberos en un incendio que causa importantes daños en una galería de la Región de Murcia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260716/intoxicados-bomberos-incendio-causa-importantes-132530857",
+    "pubDate": "2026-07-16 21:44:59",
+    "category": "",
+    "description": "<h2>La Guardia Civil investiga cuál fue el origen del fuego en la sala de la calle San Sebastián, por el cual cinco personas recibieron atención sanitaria in situ </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La DGT prepara restricciones por el eclipse del 12 de agosto",
+    "link": "https://www.elperiodico.com/es/motor/20260716/dgt-prepara-restricciones-eclipse-solar-132473127",
+    "pubDate": "2026-07-16 21:31:03",
+    "category": "",
+    "description": "<h2>El primer eclipse total de Sol visible en la Península en más de un siglo movilizará a millones de personas, obligando a Tráfico a activar un plan de seguridad sin precedentes en siete comunidades</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La bañera de Messi y Lamine",
+    "link": "https://www.elperiodico.com/es/opinion/20260716/banera-messi-lamine-mundial-futbol-articulo-joan-canete-bayle-132530208",
+    "pubDate": "2026-07-16 21:25:42",
+    "category": "",
+    "description": "<h2>La famosa foto del diario 'Sport' de los dos astros hace 18 años es la mejor tarjeta de visita de una final de dos equipos que simbolizan el triunfo del colectivo sobre la individualidad </h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260716/origen-foto-messi-banando-lamine-132497213\">El origen de la foto de Messi bañando a Lamine Yamal</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Despertar europeo\": Merz y Macron buscan reactivar la defensa conjunta tras el fracaso del caza europeo",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/merz-macron-buscan-reactivar-defensa-europea-fracaso-caza-drones-alemania-francia-132530516",
+    "pubDate": "2026-07-16 21:22:19",
+    "category": "",
+    "description": "<h2>Ambos líderes abordarán hasta el viernes proyectos militares compartidos y la invitación gala a extender su paraguas nuclear a sus socios</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un impacto de aves habría provocado el accidente de helicóptero en Nueva York en el que murió una familia catalana",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/impacto-aves-habria-provocado-accidente-nueva-york-familia-catalana-132530380",
+    "pubDate": "2026-07-16 21:18:46",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський назвав головне завдання нового уряду",
+    "link": "https://ua.korrespondent.net/ukraine/4894850-zelenskyi-nazvav-holovne-zavdannia-novoho-uriadu",
+    "pubDate": "2026-07-16 21:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496389.jpeg\">Головним завданням нового прем'єра Сергія Корецького та його уряду буде підготовка до зими.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del jueves, 16 de julio de 2026, en directo",
     "link": "https://www.elperiodico.com/es/sociedad/20260716/primitiva-hoy-jueves-16-julio-2026-resultados-comprobar-numeros-132524919",
     "pubDate": "2026-07-16 21:01:03",

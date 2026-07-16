@@ -1,8 +1,9 @@
-# News for 2026-07-16 21:12
+# News for 2026-07-16 22:16
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+22:12 [РФ вдарила по Одесі: є жертви](https://ua.korrespondent.net/city/odessa/4894854-rf-vdaryla-po-odesi-ye-zhertvy)<br>
 19:56 [Супер'яхти Путіна та російських олігархів зібралися в Туреччині - ЗМІ](https://ua.korrespondent.net/world/4894838-superiakhty-putina-ta-rosiiskykh-oliharkhiv-zibralysia-v-turechchyni-zmi)<br>
 19:49 [НБУ спростив доступ до банківських послуг](https://ua.korrespondent.net/business/economics/4894836-nbu-sprostyv-dostup-do-bankivskykh-posluh)<br>
 19:33 [Іспанія спрямує 570 млн євро на відбудову України](https://ua.korrespondent.net/business/economics/4894834-ispaniia-spriamuie-570-mln-yevro-na-vidbudovu-ukrainy)<br>
@@ -83,6 +84,8 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:44 [Intoxicados varios bomberos en un incendio que causa importantes daños en una galería de la Región de Murcia](https://www.elperiodico.com/es/sociedad/20260716/intoxicados-bomberos-incendio-causa-importantes-132530857)<br>
+21:18 [Un impacto de aves habría provocado el accidente de helicóptero en Nueva York en el que murió una familia catalana](https://www.elperiodico.com/es/internacional/20260716/impacto-aves-habria-provocado-accidente-nueva-york-familia-catalana-132530380)<br>
 20:19 [Tras una década ausente en Francia, la obra de Andy Warhol se expone en un pueblo bretón](https://www.elperiodico.com/es/ocio-y-cultura/20260716/decada-ausente-francia-obra-andy-warhol-132528954)<br>
 20:10 ["No me estás escuchando"; o sí, las personas pueden atender dos conversaciones a la vez](https://www.elperiodico.com/es/ciencia/20260716/escuchando-o-personas-atender-conversaciones-a-la-vez-132528752)<br>
 20:08 [Un nuevo estudio sugiere que el exoplaneta LHS 1140b, descubierto en 2016, aún podría tener su propia atmósfera](https://www.elperiodico.com/es/ciencia/20260716/revelan-posible-existencia-atmosfera-planeta-planeta-rocoso-tierra-132528751)<br>
