@@ -1,5 +1,185 @@
 [
   {
+    "title": "Detenido un hombre en El Vendrell por agredir a un mosso de paisano y a un periodista que realizaba un reportaje sobre droga",
+    "link": "https://www.elperiodico.com/es/tarragona/20260716/detenido-hombre-vendrell-agredir-mosso-periodista-droga-132520008",
+    "pubDate": "2026-07-16 17:02:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El arrestado, de 23 años, está acusado de un presunto delito de atentado contra los agentes de la autoridad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Qué hacer en Barcelona este verano sin asarte de calor",
+    "link": "https://www.elperiodico.com/es/barcelona/20260716/barcelona-verano-asarte-calor-132488882",
+    "pubDate": "2026-07-16 17:00:31",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un hombre con parálisis recupera el movimiento y la sensibilidad de sus manos gracias a una neuroprótesis: \"Puedo volver a acariciar a mi perro\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260716/hombre-paralisis-recupera-movimiento-manos-neuroprotesis-132519185",
+    "pubDate": "2026-07-16 17:00:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El paciente, de 42 años, perdió completamente la movilidad tras un accidente de buceo y ahora, gracias a esta nueva prótesis, ha podido volver a recuperar parte de su autonomía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20250116/mano-bionica-experimental-personas-paralisis-recuperar-sentido-tacto-113449814\">Una mano biónica experimental permite a personas con parálisis recuperar el sentido del tacto</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20230524/hombre-paraplejico-vuelve-caminar-implantes-cerebrales-87726618\">Un hombre parapléjico vuelve a caminar gracias a unos implantes cerebrales y una 'mochila'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Pasar página?",
+    "link": "https://www.elperiodico.com/es/opinion/20260716/pasar-pagina-tjue-puigdemont-articulo-josep-maria-fonalleras-132522123",
+    "pubDate": "2026-07-16 16:59:11",
+    "category": "",
+    "description": "<h2>¿En qué consiste exactamente ese dejar atrás un pasado tormentoso? ¿Desaparecerá del panorama social la pulsión de entonces?</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260716/tjue-avala-amnistia-malversacion-132504280\">La justicia europea avala la ley de amnistía y abre la puerta al regreso de Puigdemont</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Aznar tras el aval a la amnistía: \"La agresión sediciosa al Derecho no debe quedar impune ni recompensarse\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/aznar-aval-amnistia-agresion-sediciosa-derecho/132522226.shtml",
+    "pubDate": "2026-07-16 16:57:54",
+    "category": "",
+    "description": "El expresidente reacciona al fallo del TJUE sobre la amnistía y avisa que \"atacar la integridad\" de España amenaza a toda la Unión Europea",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los billetes de euro podrían cambiar por completo: Cervantes, Beethoven y Marie Curie, entre las figuras seleccionadas",
+    "link": "https://www.elperiodico.com/es/economia/20260716/euro-redisena-celebre-escritor-espanol-aparece-nuevos-billetes-dv-129838778",
+    "pubDate": "2026-07-16 16:54:00",
+    "category": "",
+    "description": "<h2 class=\"item\"> Su presencia simboliza la importancia de la literatura y del conocimiento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260504/bruselas-preve-posible-primera-emision-129834234\" target=\"_blank\">Bruselas prevé una posible primera emisión del euro digital para 2029 y una prueba piloto el año que viene</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260430/claves-subida-tipos-bce-prepara-129718395\" target=\"_blank\">Las claves de la subida de tipos que el BCE prepara para junio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни втратили бомбардувальник Су-24М в Криму",
+    "link": "https://ua.korrespondent.net/ukraine/4894798-rosiiany-vtratyly-bombarduvalnyk-su-24m-v-krymu",
+    "pubDate": "2026-07-16 16:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496117.jpg\">Перший БпЛА влучив у носову частину Су-24М, другий завдав повторного удару в район паливних баків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США ввели 25% мито на імпорт з Бразилії",
+    "link": "https://ua.korrespondent.net/business/economics/4894797-ssha-vvely-25-myto-na-import-z-brazylii",
+    "pubDate": "2026-07-16 16:52:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496096.jpg\">Американський лідер обклав митом у 25% імпорт із Бразилії після звинувачень у піратстві з боку бразильського президента.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Los radares que más deben vigilar los conductores en Girona: controles fijos, tramos completos y vigilancia desde helicóptero",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260716/radares-velocidad-provincia-girona-dv-108027925",
+    "pubDate": "2026-07-16 16:49:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20240908/radar-trafico-multas-espana-cadiz-salida-tunel-dv-107828817\" >Así es como de verdad funciona el radar que más multa en España: solo si haces este gesto en carretera</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20240903/dgt-motos-camufladas-radar-multa-dv-107503271\" >Te multan sin que te des cuenta: así son las motos camufladas de la DGT</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Jamie Dimon (JP Morgan), sobre Claude Mythos: \"Es como darle un misil balístico a un individuo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260716/jamie-dimon-jp-morgan-claude-132522009",
+    "pubDate": "2026-07-16 16:48:00",
+    "category": "",
+    "description": "<h2>El presidente ejecutivo del mayor banco del mundo conoce de primera mano las revolucionarias capacidades del nuevo modelo de Anthropic, que Trump llegó a prohibir por miedo a que Rusia o China pudieran explotar sus capacidades</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260715/anthropic-reunira-proximas-semanas-potenciales-132488765\" target=\"_blank\">Anthropic se reunirá en las próximas semanas con potenciales inversores para ultimar su salida a Bolsa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "З Іспанії через Карпати: прикордонники затримали \"антиухилянта\"",
+    "link": "https://ua.korrespondent.net/ukraine/4894795-z-ispanii-cherez-karpaty-prykordonnyky-zatrymaly-antyukhylianta",
+    "pubDate": "2026-07-16 16:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496095.jpg\">Чоловік майже рік перебував за межами України, втім, повернутися вирішив через незаконний перетин кордону.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"¿Dónde puedo comprar camisetas para revender?\": la final del Mundial agita a la comunidad argentina de Castelldefels",
+    "link": "https://www.elperiodico.com/es/barcelona/20260716/comprar-camisetas-revender-final-mundial-agita-comunidad-argentina-castelldefels-132520091",
+    "pubDate": "2026-07-16 16:39:48",
+    "category": "",
+    "description": "<h2>Los vecinos se mueven en internet para conseguir 'merchandising' albiceleste o buscar lugares para ver el enfrentamiento contra España </h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260716/cientos-argentinos-barcelona-reunen-glories-132496897\" target=\"_blank\">Cientos de argentinos de Barcelona se reúnen en Glòries para celebrar el pase a la final del Mundial</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260716/fans-roja-barcelona-montaran-fiesta-alternativa-ver-final-mundial-espana-beach-club-barceloneta-132511104\" target=\"_blank\">Los fans de la Roja en Barcelona montan una fiesta 'alternativa' para ver la final en un 'beach club' de la Barceloneta</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Albares presenta la nueva Estrategia de Diplomacia Pública para proyectar al mundo la \"España real\"",
+    "link": "https://www.elperiodico.com/es/politica/20260716/albares-presenta-nueva-estrategia-diplomacia-132521442",
+    "pubDate": "2026-07-16 16:38:43",
+    "category": "",
+    "description": "<h2>El ministro defiende que la diplomacia es \"tarea de todos\" y reivindica la \"identidad sólida\" con que cuenta ya España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Ley de Propiedad Horizontal lo deja claro: qué hacer si un vecino tira colillas a tu patio",
+    "link": "https://www.elperiodico.com/es/vivienda/20260716/colillas-patio-comun-vecinos-ley-propiedad-horizontal-dv-124589389",
+    "pubDate": "2026-07-16 16:34:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Cuando un vecino arroja colillas o realiza cualquier actividad que perjudique a la comunidad, el artículo 7.2 de la LPH ofrece un procedimiento claro</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20251123/vecino-no-paga-cuota-comunidad-embargo-bienes-privacion-servicios-superintereses-medidas-ley-propiedad-horizontal-dv-123861402\" >¿Tu vecino no paga la cuota de la comunidad? Embargo de bienes, privación de servicios, 'superintereses' y otras medidas que ampara la ley</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20251117/perro-sin-bozal-zonas-comunes-ley-propiedad-horizontal-bienestar-animal-dv-123803109\" >¿Tu vecino lleva a su perro sin bozal en las zonas comunes? La ley podría estar de tu parte si denuncias</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нова перевірка на кордонах в ЄС: як цифровий контроль дав збій",
+    "link": "https://ua.korrespondent.net/world/4894792-nova-perevirka-na-kordonakh-v-yes-yak-tsyfrovyi-kontrol-dav-zbii",
+    "pubDate": "2026-07-16 16:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496073.jpg\">Нова система цифрового контролю на кордонах ЄС дала збій через однояйцевих близнюків. Британку затримали під час виїзду з Румунії, бо система помилково пов’язала її з поїздкою сестри.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aurelio Rojas, cardiólogo: \"Hay personas que no saben que tienen enfermedad coronaria. En un sobreesfuerzo, una placa puede romperse\"",
+    "link": "https://www.elperiodico.com/es/salud/20260716/correr-maratones-corazon-cardiologo-aurelio-rojas-dv-126189202",
+    "pubDate": "2026-07-16 16:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un mensaje claro al inicio de la temporada de running: es seguro para la mayoría, pero no para todo el mundo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260127/aurelio-rojas-cardiologo-incompatibilidad-no-mezclar-alimentos-medicamentos-dv-125995958\">Aurelio Rojas, cardiólogo, advierte sobre la incompatibilidad de ciertos alimentos y fármacos: \"Es muy peligroso, sobre todo para el corazón\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260603/aurelio-rojas-ducha-nocturna-dormir-mejor-dv-121659835\">Aurelio Rojas, cardiólogo, sobre los beneficios de la ducha nocturna: \"Es un sencillo hábito para vivir más y mejor\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Entramos al pueblo donde mejor se come de España, conocido por su pulpo: una catedral declarada Monumento Histórico-Artístico y murallas del siglo XII",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260716/pueblo-mejor-comida-espana-dv-130037270",
+    "pubDate": "2026-07-16 16:27:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Este municipio gallego, con solo 17.000 habitantes, es famoso por su casco histórico medieval, destacando su catedral</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260311/mejores-restaurants-tradicionales-galicia-127797416\">Estas son las casas de comidas gallegas que debes visitar, según Lucía Freitas (A Tafona, 1 estrella Michelin)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Російські багатії кинулися рятувати статки від Кремля- ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4894789-rosiiski-bahatii-kynulysia-riatuvaty-statky-vid-kremlia-zmi",
+    "pubDate": "2026-07-16 16:23:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496074.jpg\">З початку року з Росії могли вивести кілька десятків мільярдів доларів через зростання ризиків для приватних активів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Італії оголосили вирок за обвал мосту в Генуї, де загинули 43 людини",
+    "link": "https://ua.korrespondent.net/world/4894788-v-italii-oholosyly-vyrok-za-obval-mostu-v-henui-de-zahynuly-43-luidyny",
+    "pubDate": "2026-07-16 16:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496072.jpg\">Звинувачення вимагало загалом понад 400 років ув'язнення для 57 підсудних  у справі про обвал мосту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Esperar diez minutos",
+    "link": "https://www.elperiodico.com/es/opinion/20260716/esperar-diez-minutos-filas-puntualidad-articulo-joan-canete-bayle-132520416",
+    "pubDate": "2026-07-16 16:19:17",
+    "category": "",
+    "description": "<h2>Ser puntual es detestable. Creo que es uno de mis peores defectos. Me empuja siempre a pensamientos horribles, como querer instaurar la pena de muerte para la gente que no lo es</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Двоє агентів РФ підпалювали об’єкти Укрзалізниці: вирок суду",
     "link": "https://ua.korrespondent.net/ukraine/4894784-dvoie-ahentiv-rf-pidpaluivaly-obiekty-ukrzaliznytsi-vyrok-sudu",
     "pubDate": "2026-07-16 16:11:00",
@@ -412,6 +592,15 @@
     "description": "<h2>El Ejecutivo comunitario da un año a Google para permitir el acceso de terceros a las funciones clave de Android y compartir datos de búsqueda</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "La Unión Europea obliga a Google a abrir Android y compartir datos del buscador con sus rivales de IA",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/bruselas-impone-google-abrir-android-132516907",
+    "pubDate": "2026-07-16 14:33:58",
+    "category": "",
+    "description": "<h2>El Ejecutivo comunitario da al gigante tecnológico hasta 2027 para permitir el acceso de terceros a las funciones clave de Android y compartir datos de búsqueda a competidores de IA como OpenAI para crear más competencia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "Сікан знову забиває у спарингах за Андерлехт",

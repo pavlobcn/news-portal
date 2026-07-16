@@ -1,8 +1,13 @@
-# News for 2026-07-16 16:21
+# News for 2026-07-16 17:04
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+16:53 [Росіяни втратили бомбардувальник Су-24М в Криму](https://ua.korrespondent.net/ukraine/4894798-rosiiany-vtratyly-bombarduvalnyk-su-24m-v-krymu)<br>
+16:44 [З Іспанії через Карпати: прикордонники затримали "антиухилянта"](https://ua.korrespondent.net/ukraine/4894795-z-ispanii-cherez-karpaty-prykordonnyky-zatrymaly-antyukhylianta)<br>
+16:33 [Нова перевірка на кордонах в ЄС: як цифровий контроль дав збій](https://ua.korrespondent.net/world/4894792-nova-perevirka-na-kordonakh-v-yes-yak-tsyfrovyi-kontrol-dav-zbii)<br>
+16:23 [Російські багатії кинулися рятувати статки від Кремля- ЗМІ](https://ua.korrespondent.net/business/economics/4894789-rosiiski-bahatii-kynulysia-riatuvaty-statky-vid-kremlia-zmi)<br>
+16:22 [В Італії оголосили вирок за обвал мосту в Генуї, де загинули 43 людини](https://ua.korrespondent.net/world/4894788-v-italii-oholosyly-vyrok-za-obval-mostu-v-henui-de-zahynuly-43-luidyny)<br>
 16:11 [Двоє агентів РФ підпалювали об’єкти Укрзалізниці: вирок суду](https://ua.korrespondent.net/ukraine/4894784-dvoie-ahentiv-rf-pidpaluivaly-obiekty-ukrzaliznytsi-vyrok-sudu)<br>
 16:07 [Армія РФ зменшила активність на фронті - Генштаб](https://ua.korrespondent.net/ukraine/4894783-armiia-rf-zmenshyla-aktyvnist-na-fronti-henshtab)<br>
 15:51 [Росіяни обстріляли пшеничні поля на Харківщині](https://ua.korrespondent.net/ukraine/4894777-rosiiany-obstrilialy-pshenychni-polia-na-kharkivschyni)<br>
@@ -63,6 +68,12 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:02 [Detenido un hombre en El Vendrell por agredir a un mosso de paisano y a un periodista que realizaba un reportaje sobre droga](https://www.elperiodico.com/es/tarragona/20260716/detenido-hombre-vendrell-agredir-mosso-periodista-droga-132520008)<br>
+17:00 [Un hombre con parálisis recupera el movimiento y la sensibilidad de sus manos gracias a una neuroprótesis: "Puedo volver a acariciar a mi perro"](https://www.elperiodico.com/es/sociedad/20260716/hombre-paralisis-recupera-movimiento-manos-neuroprotesis-132519185)<br>
+16:54 [Los billetes de euro podrían cambiar por completo: Cervantes, Beethoven y Marie Curie, entre las figuras seleccionadas](https://www.elperiodico.com/es/economia/20260716/euro-redisena-celebre-escritor-espanol-aparece-nuevos-billetes-dv-129838778)<br>
+16:48 [Jamie Dimon (JP Morgan), sobre Claude Mythos: "Es como darle un misil balístico a un individuo"](https://www.elperiodico.com/es/economia/20260716/jamie-dimon-jp-morgan-claude-132522009)<br>
+16:34 [La Ley de Propiedad Horizontal lo deja claro: qué hacer si un vecino tira colillas a tu patio](https://www.elperiodico.com/es/vivienda/20260716/colillas-patio-comun-vecinos-ley-propiedad-horizontal-dv-124589389)<br>
+16:19 [Esperar diez minutos](https://www.elperiodico.com/es/opinion/20260716/esperar-diez-minutos-filas-puntualidad-articulo-joan-canete-bayle-132520416)<br>
 16:08 [Los ordenadores cuánticos más avanzados pueden aprender de sus propios errores](https://www.elperiodico.com/es/tendencias21/20260716/ordenadores-cuanticos-avanzados-aprender-propios-132520301)<br>
 16:00 [La pediatra del CAP que atendió al bebé maltratado en Barcelona no detectó lesiones anales tres días antes de su hospitalización](https://www.elperiodico.com/es/sociedad/20260716/pediatra-atendio-bebe-presuntamente-maltratado-132518304)<br>
 15:44 [La justicia italiana impone penas de hasta 12 años de cárcel por el derrumbe del puente Morandi, que en 2018 mató a 43 personas](https://www.elperiodico.com/es/internacional/20260716/justicia-italiana-impone-penas-carcel-derrumbe-puente-morandi-accidente-italia-132519574)<br>
