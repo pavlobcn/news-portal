@@ -216,6 +216,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-15 21:33:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "¿Qué decide este jueves la justicia europea sobre la ley de amnistía?",
     "link": "https://www.elperiodico.com/es/politica/20260715/tjue-decide-amnistia-puigdemont-132485391",
     "pubDate": "2026-07-15 21:30:17",
@@ -646,6 +655,15 @@
     "description": "<h2>En Catalunya, el Código Civil prevé esa posibilidad si existe “ausencia manifiesta y continuada de relación”</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260422/demostracion-herencia-legitima-experto-abogado-en-herencias-y-familia-david-jimenez-dv-129171070\">Esto es lo que tienes que demostrar para quitarle a un hijo su legítima herencia: “Si no tienes testamento no cabe desheredar a un hijo”</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260113/david-jimenez-abogado-problemas-hermanos-herencias-evitar-testamentos-genericos-dv-123555528\">David Jiménez, abogado, sobre los problemas entre hermanos por las herencias: \"Hay que evitar los testamentos genéricos\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-15 18:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Becky Chambers y Juliet Marillier convierten el estreno del Celsius en un alegato frente a la crisis ambiental: \"Los problemas sistémicos requieren soluciones sistémicas\"",
