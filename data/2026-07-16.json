@@ -1,5 +1,77 @@
 [
   {
+    "title": "La Policía no podrá ver las grabaciones del asalto al despacho de los abogados de Vito Quiles",
+    "link": "https://www.elperiodico.com/es/sucesos/20260716/vito-quiles-grabaciones-asalto-132498414",
+    "pubDate": "2026-07-16 05:00:05",
+    "category": "",
+    "description": "<h2>La compañía de seguridad solo podrá aportar a los investigadores \"un pantallazo\" de lo que ocurrió la noche del 4 de julio porque los ladrones \"arrancaron las cámaras\" del despacho de Ospina Abogados </h2><h2>Una cámara del portal del edificio sí captó, en blanco y negro, la imagen de tres hombres saliendo tras el asalto, en el que únicamente se llevaron el expediente judicial del conocido agitador mediático</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Жителі Латвії помилково збивають дрони комунальників - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4894607-zhyteli-latvii-pomylkovo-zbyvauit-drony-komunalnykiv-zmi",
+    "pubDate": "2026-07-16 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495238.jpg\">Люди сприймають безпілотники компанії Sadales tīkls за шпигунські або військові апарати та намагаються їх пошкодити.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El espíritu es el sistema nervioso",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260716/espiritu-sistema-nervioso-132203513",
+    "pubDate": "2026-07-16 04:50:44",
+    "category": "",
+    "description": "<h2>Estoy rodeado de libros por todos lados en esta biblioteca personal que ocupa muros, mesas, sillas, sofás y el suelo de baldosas de barro; la mayoría son viejos o de ocasión</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'El movimiento situacionista', de Patrick Marcolini: hacer la revolución",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260716/patrick-marcolini-critica-libro-movimiento-situacionista-132168544",
+    "pubDate": "2026-07-16 04:50:44",
+    "category": "",
+    "description": "<h2>El autor plantea una interpretación distinta de Mayo de 1968</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Дрони атакували в РФ Енгельс і Саратов - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4894605-drony-atakuvaly-v-rf-enhels-i-saratov-sotsmerezhi",
+    "pubDate": "2026-07-16 04:24:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495194.jpg\">Місцеві жителі скаржаться в соцмережах на велику кількість дронів, а також на звуки вибухів.",
+    "topic": "політика",
+    "topic_match_probability": 82
+  },
+  {
+    "title": "Joan Matas, ginecólogo: \"Una buena hidratación es la mejor aliada para prevenir las molestias urinarias en verano\"",
+    "link": "https://www.elperiodico.com/es/salud/20260716/joan-matas-ginecologo-buena-hidratacion-evitar-cistitis-verano-132497632",
+    "pubDate": "2026-07-16 03:59:03",
+    "category": "",
+    "description": "<h2>El calor, la deshidratación y cambios en la rutina, como permanecer con el bañador mojado, favorecen las molestias urinarias en mujeres durante el verano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп прагне розширити операції проти Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4894603-tramp-prahne-rozshyryty-operatsii-proty-iranu-zmi",
+    "pubDate": "2026-07-16 03:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495153.jpg\">Дипломатична безвихідь спонукала Трампа звернутися до помічників з проханням про нові ескалаційні варіанти.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ готує провокації проти країн Балтії - президент Латвії",
+    "link": "https://ua.korrespondent.net/world/worldabus/4894601-rf-hotuie-provokatsii-proty-krain-baltii-prezydent-latvii",
+    "pubDate": "2026-07-16 02:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495112.jpg\">РФ може посилити провокації проти країн Балтії, бо їй не вдається досягти успіхів в Україні, припускає лідер Латвії.",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
     "title": "ЗМІ дізналися, хто \"блокує\" 21-й пакет санкцій ЄС",
     "link": "https://ua.korrespondent.net/world/4894599-zmi-diznalysia-khto-blokuie-21-y-paket-sanktsii-yes",
     "pubDate": "2026-07-16 02:37:00",
@@ -16,6 +88,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495050.jpg\">Війська США почали другу хвилю ударів по Ірану, спрямовану проти іранських військових обʼєктів.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Сполучені Штати вдруге за добу вдарили по Ірану",
+    "link": "https://ua.korrespondent.net/world/4894597-spolucheni-shtaty-vdruhe-za-dobu-vdaryly-po-iranu",
+    "pubDate": "2026-07-16 01:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4495050.jpg\">Війська США почали другу хвилю ударів по Ірану, спрямовану проти іранських військових обʼєктів.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Дрони РФ атакували Харків: є влучання",
