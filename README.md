@@ -1,8 +1,10 @@
-# News for 2026-07-16 10:32
+# News for 2026-07-16 11:06
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+10:43 [Курси валют на 16 липня: долар і євро падають](https://ua.korrespondent.net/business/financial/4894664-kursy-valuit-na-16-lypnia-dolar-i-yevro-padauit)<br>
+10:38 [Генштаб уточнив дані про уражені важливі обєкти РФ](https://ua.korrespondent.net/ukraine/4894653-henshtab-utochnyv-dani-pro-urazheni-vazhlyvi-obiekty-rf)<br>
 10:29 [Британія створить балістичні ракети для України - ЗМІ](https://ua.korrespondent.net/world/4894661-brytaniia-stvoryt-balistychni-rakety-dlia-ukrainy-zmi)<br>
 10:14 [СЗЧ-шник на Дніпропетровщині поранив поліцейських і застрелився сам](https://ua.korrespondent.net/ukraine/4894656-szch-shnyk-na-dnipropetrovschyni-poranyv-politseiskykh-i-zastrelyvsia-sam)<br>
 09:48 [Зеленський відреагував на нічний удар РФ по Києву](https://ua.korrespondent.net/ukraine/4894650-zelenskyi-vidreahuvav-na-nichnyi-udar-rf-po-kyievu)<br>
@@ -20,6 +22,10 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+11:04 [Ni los idiomas ni la informática: las habilidades que la OCDE, LinkedIn y PwC creen que marcarán la diferencia en el mercado laboral](https://www.elperiodico.com/es/economia/20260716/ocde-linkedin-pwc-habilidades-marcaran-diferencia-mercado-laboral-dv-132505118)<br>
+11:02 [No existe “la multitarea” como una destreza única, empaquetada y repartida por sexos](https://www.elperiodico.com/es/tendencias21/20260716/existe-multitarea-destreza-unica-empaquetada-132505803)<br>
+10:52 [Eddie Wilson (Ryanair): "Los aeropuertos españoles que queremos están llenos y los que están vacíos son demasiado caros"](https://www.elperiodico.com/es/economia/20260716/eddie-wilson-ryanair-aeropuertos-espanoles-aena-demasiado-caros-tarifas-132505394)<br>
+10:39 [África, la joven con altas capacidades que empezará la universidad con 16 años: "En clase me aburría, hablaba mucho y mis notas empezaron a bajar"](https://www.elperiodico.com/es/educacion/20260716/africa-altas-capacidades-16-anos-universidad-dv-et-132473371)<br>
 10:31 [Muere Fina García, la profesora sevillana que conmovió a las redes con su mensaje de despedida: "Nunca nos va a hacer feliz lo mismo, pero esa es la magia de la vida"](https://www.elperiodico.com/es/sociedad/20260716/muere-fina-garcia-27-anos-profesora-cancer-redes-dv-132503532)<br>
 10:30 [300 millones de trabajadores y una estrategia de décadas: así está disparando China su superficie forestal](https://www.elperiodico.com/es/medio-ambiente/20260716/300-millones-trabajadores-estrategia-decadas-132504690)<br>
 10:30 [Los electricistas coinciden sobre este electrodoméstico para combatir el calor: "Cuesta menos que una botella de agua"](https://www.elperiodico.com/es/economia/20260716/electricista-cuanto-cuesta-ventilador-noche-dv-119315567)<br>
