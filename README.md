@@ -1,8 +1,10 @@
-# News for 2026-07-16 17:53
+# News for 2026-07-16 18:41
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+18:31 [Київ відкинув звинувачення РФ щодо причетності до загибелі інженера ЗАЕС](https://ua.korrespondent.net/ukraine/4894818-kyiv-vidkynuv-zvynuvachennia-rf-schodo-prychetnosti-do-zahybeli-inzhenera-zaes)<br>
+18:13 [Акції Газпрому впали до історичного мінімуму](https://ua.korrespondent.net/business/4894812-aktsii-hazpromu-vpaly-do-istorychnoho-minimumu)<br>
 17:18 [Іран планує заблокувати ще одну стратегічну для нафти протоку - ЗМІ](https://ua.korrespondent.net/world/4894801-iran-planuie-zablokuvaty-sche-odnu-stratehichnu-dlia-nafty-protoku-zmi)<br>
 16:53 [Росіяни втратили бомбардувальник Су-24М в Криму](https://ua.korrespondent.net/ukraine/4894798-rosiiany-vtratyly-bombarduvalnyk-su-24m-v-krymu)<br>
 16:44 [З Іспанії через Карпати: прикордонники затримали "антиухилянта"](https://ua.korrespondent.net/ukraine/4894795-z-ispanii-cherez-karpaty-prykordonnyky-zatrymaly-antyukhylianta)<br>
@@ -70,6 +72,13 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:35 [Un incendio forestal en Madrid alcanza el nivel 1 de riesgo](https://www.elperiodico.com/es/videos/sociedad/incendio-forestal-madrid-alcanza-nivel/132526058.shtml)<br>
+18:30 [EEUU desarrolla una vacuna experimental para prevenir el cáncer de páncreas en personas de alto riesgo](https://www.elperiodico.com/es/sociedad/20260716/vacuna-prevenir-cancer-pancreas-personas-alto-riesgo-132525273)<br>
+18:30 [El rincón de Rubí que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/rubi/20260716/rincon-rubi-historia-cine-dv-loc-111402057)<br>
+18:27 [Un incendio forestal provoca confinamientos en la Sierra de Madrid, corta la A-1 y obliga al envío de un ES-Alert](https://www.elperiodico.com/es/sociedad/20260716/incendio-forestal-provoca-confinamientos-sierra-132525723)<br>
+18:20 [El Ayuntamiento de La Llagosta exige que Adif deje de usar materias peligrosas en su centro logístico](https://www.elperiodico.com/es/sociedad/20260716/llagosta-exige-adif-suspenda-actividad-mercancias-peligrosas-centro-logistico-132518933)<br>
+18:19 [Una niebla naranja cubre por completo Toronto debido a los incendios](https://www.elperiodico.com/es/videos/internacional/niebla-naranja-cubre-completo-toronto-incendios/132525355.shtml)<br>
+18:01 [La esposa del Nobel de Economía Joseph Stiglitz considera que el Trueta salvó la vida de su marido](https://www.elperiodico.com/es/sociedad/20260716/esposa-nobel-economia-joseph-stiglitz-salud-hospital-josep-trueta-girona-dv-132476019)<br>
 17:49 [Seis mujeres denuncian por violación a un exdirectivo de la agencia de modelos Elite en París](https://www.elperiodico.com/es/gente/20260716/seis-mujeres-denuncian-violacion-exdirectivo-132523842)<br>
 17:40 [Crítica de 'Hombres de acero': una descripción dura y realista de la vida en un presidio británico, con las luchas de poder y de mera supervivencia](https://www.elperiodico.com/es/ocio-y-cultura/20260716/critica-hombres-acero-descripcion-dura-132523438)<br>
 17:39 [Sanidad y las comunidades rechazan financiar, de nuevo, los dos fármacos que ralentizan el alzhéimer](https://www.elperiodico.com/es/salud/20260716/sanidad-rechazo-financiar-medicamento-alzheimer-132522780)<br>
