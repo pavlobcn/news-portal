@@ -1,8 +1,16 @@
-# News for 2026-07-16 18:41
+# News for 2026-07-16 19:55
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+19:49 [НБУ спростив доступ до банківських послуг](https://ua.korrespondent.net/business/economics/4894836-nbu-sprostyv-dostup-do-bankivskykh-posluh)<br>
+19:33 [Іспанія спрямує 570 млн євро на відбудову України](https://ua.korrespondent.net/business/economics/4894834-ispaniia-spriamuie-570-mln-yevro-na-vidbudovu-ukrainy)<br>
+19:16 [Авіаудари РФ по Запоріжжю: три людини загинули](https://ua.korrespondent.net/city/zaporozhye/4894832-aviaudary-rf-po-zaporizhzhui-try-luidyny-zahynuly)<br>
+19:14 [Польща готується до "передвоєнного режиму"](https://ua.korrespondent.net/world/4894828-polscha-hotuietsia-do-peredvoiennoho-rezhymu)<br>
+19:14 [З магазину Google Play зникли російські застосунки VK](https://ua.korrespondent.net/world/russia/4894830-z-mahazynu-Google-Play-znykly-rosiiski-zastosunky-VK)<br>
+18:58 [До Москви звозять бензин зі всієї Росії - ЗМІ](https://ua.korrespondent.net/world/russia/4894824-do-moskvy-zvoziat-benzyn-zi-vsiiei-rosii-zmi)<br>
+18:44 [Німеччина і Франція розпочали ядерну співпрацю](https://ua.korrespondent.net/world/4894820-nimechchyna-i-frantsiia-rozpochaly-yadernu-spivpratsui)<br>
+18:43 [Олійникова пробилася до чвертьфіналу турніру в Румунії](https://ua.korrespondent.net/sport/tenis/4894821-oliinykova-probylasia-do-chvertfinalu-turniru-v-rumunii)<br>
 18:31 [Київ відкинув звинувачення РФ щодо причетності до загибелі інженера ЗАЕС](https://ua.korrespondent.net/ukraine/4894818-kyiv-vidkynuv-zvynuvachennia-rf-schodo-prychetnosti-do-zahybeli-inzhenera-zaes)<br>
 18:13 [Акції Газпрому впали до історичного мінімуму](https://ua.korrespondent.net/business/4894812-aktsii-hazpromu-vpaly-do-istorychnoho-minimumu)<br>
 17:18 [Іран планує заблокувати ще одну стратегічну для нафти протоку - ЗМІ](https://ua.korrespondent.net/world/4894801-iran-planuie-zablokuvaty-sche-odnu-stratehichnu-dlia-nafty-protoku-zmi)<br>
@@ -63,6 +71,7 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 06:35 [Генштаб навів свіжі дані про втрати Росії у війні](https://ua.korrespondent.net/ukraine/4894613-henshtab-naviv-svizhi-dani-pro-vtraty-rosii-u-viini)<br>
 
 ## as.com
+18:52 [La Sub-20 se planta en semifinales tras una gran exhibición contra Alemania](https://as.com/baloncesto/mas_baloncesto/la-sub-20-se-planta-en-semifinales-tras-una-gran-exhibicion-contra-alemania-f202607-n/)<br>
 17:23 [¿Cómo funciona el derecho de tanteo en la ACB?](https://as.com/baloncesto/acb/como-funciona-el-derecho-de-tanteo-en-la-acb-f202607-n/)<br>
 15:19 [El baloncesto marca el camino a España en el Mundial](https://as.com/baloncesto/mas_baloncesto/el-baloncesto-marca-el-camino-a-espana-en-el-mundial-f202607-n/)<br>
 13:54 [Chris Duarte deja de ser jugador del Unicaja](https://as.com/baloncesto/chris-duarte-deja-de-ser-jugador-del-unicaja-f202607-n/)<br>
@@ -72,6 +81,17 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:38 [Einstein tenía razón: una nueva medición vuelve a confirmar la relatividad general](https://www.elperiodico.com/es/tendencias21/20260716/einstein-tenia-razon-nueva-medicion-132528022)<br>
+19:37 [El incendio de Orés arrasa ya 6.000 hectáreas y daña varias viviendas en Asín](https://www.elperiodico.com/es/videos/sucesos/incendio-ores-arrasa-6-000/132527919.shtml)<br>
+19:30 [Caminar no es suficiente después de los 65: El ejercicio clave para frenar el envejecimiento, según Harvard](https://www.elperiodico.com/es/salud/20260716/ejercicio-tai-chi-caminar-65-anos-estudio-harvard-dv-126407805)<br>
+19:12 [Pepita Bernat celebra sus 107 años rodeada de 'drag queens': "Estoy espléndida"](https://www.elperiodico.com/es/videos/sociedad/pepita-bernat-celebra-107-anos/132527081.shtml)<br>
+19:02 [Interior admite que aumentan "las armas de fuego en las calles" aunque los delitos bajan un 8% este año en Catalunya](https://www.elperiodico.com/es/sociedad/20260716/catalunya-delitos-catalunya-bajan-narcotrafico-armas-de-fuego-132525879)<br>
+18:59 [Llega el esperado primer tráiler de 'La bola negra': guerra civil, sexualidad y Camarón](https://www.elperiodico.com/es/ocio-y-cultura/20260716/llega-esperado-primer-trailer-la-bola-negra-132526579)<br>
+18:58 [La 'mili' de tres años de Leonor, en vídeos inéditos publicados por la Zarzuela](https://www.elperiodico.com/es/politica/20260716/resumen-mili-leonor-videos-ineditos-ejercitos-132526954)<br>
+18:56 [Los hospitales de Terrassa, Sabadell y Manresa se alían para impulsar un Comprehensive Cancer Center](https://www.elperiodico.com/es/barcelona/20260716/hospitales-terrassa-sabadell-manresa-alian-tauli-cancer-center-132526594)<br>
+18:51 [El vídeo resumen que la Casa del Rey ha elaborado con los tres años militares de la Princesa de Asturias](https://www.elperiodico.com/es/videos/politica/video-resumen-casa-rey-princesa-asturias-ejercito/132526612.shtml)<br>
+18:51 [El CZFB se alía con el Mobile World Capital para acelerar el 'tech-transfer' y la creación de 'spin-offs' en Barcelona](https://www.elperiodico.com/es/economia/20260716/czfb-alia-mobile-world-capital-132525551)<br>
+18:45 [Ferrocarrils estrena una red de 280 puntos lila en sus estaciones y 75.000 en la 'app' del servicio](https://www.elperiodico.com/es/barcelona/20260716/ferrocarrils-estrena-red-280-puntos-132526098)<br>
 18:35 [Un incendio forestal en Madrid alcanza el nivel 1 de riesgo](https://www.elperiodico.com/es/videos/sociedad/incendio-forestal-madrid-alcanza-nivel/132526058.shtml)<br>
 18:30 [EEUU desarrolla una vacuna experimental para prevenir el cáncer de páncreas en personas de alto riesgo](https://www.elperiodico.com/es/sociedad/20260716/vacuna-prevenir-cancer-pancreas-personas-alto-riesgo-132525273)<br>
 18:30 [El rincón de Rubí que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/rubi/20260716/rincon-rubi-historia-cine-dv-loc-111402057)<br>
