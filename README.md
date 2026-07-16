@@ -1,8 +1,13 @@
-# News for 2026-07-16 14:08
+# News for 2026-07-16 14:56
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+14:44 [У Польщі судитимуть 18-річного українця за диверсії на користь Росії](https://ua.korrespondent.net/world/4894760-u-polschi-sudytymut-18-richnoho-ukraintsia-za-dyversii-na-koryst-rosii)<br>
+14:39 [Україна повернула 501 тіло загиблих захисників](https://ua.korrespondent.net/ukraine/4894757-ukraina-povernula-501-tilo-zahyblykh-zakhysnykiv)<br>
+14:28 [Росіяни почали скуповувати паспорти карликових країн, аби потрапити в ЄС](https://ua.korrespondent.net/world/russia/4894752-rosiiany-pochaly-skupovuvaty-pasporty-karlykovykh-krain-aby-potrapyty-v-yes)<br>
+14:27 [ГУР відповіло на заяви Єрмолаєва про причетність до замаху](https://ua.korrespondent.net/ukraine/4894750-hur-vidpovilo-na-zaiavy-yermolaieva-pro-prychetnist-do-zamakhu)<br>
+14:18 [Детонація боєприпасів у Вишневому: затримано двох посадовців](https://ua.korrespondent.net/ukraine/4894747-detonatsiia-boieprypasiv-u-vyshnevomu-zatrymano-dvokh-posadovtsiv)<br>
 13:58 [У Херсоні чоловік допомагав РФ відновити роботу заводу](https://ua.korrespondent.net/ukraine/4894740-u-khersoni-cholovik-dopomahav-rf-vidnovyty-robotu-zavodu)<br>
 13:43 [Перша зустріч Альянсу дронів ЄС-Україна відбудеться у Брюсселі](https://ua.korrespondent.net/world/4894735-persha-zustrich-aliansu-droniv-yes-ukraina-vidbudetsia-u-bruisseli)<br>
 13:33 [У Балтійському морі знайшли місце з водою, як на Адріатиці](https://ua.korrespondent.net/tech/science/4894730-u-baltiiskomu-mori-znaishly-mistse-z-vodoui-yak-na-adriatytsi)<br>
@@ -50,6 +55,14 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:48 [TMB licita la compra de 35 trenes para el Metro de Barcelona para mejorar la frecuencia de paso](https://www.elperiodico.com/es/barcelona/20260716/tmb-licita-35-trenes-metro-barcelona-132517282)<br>
+14:43 [La mitad de las hectáreas calcinadas en Sant Quirze Safaja son de un único propietario: "Cuando te encuentras así, no se puede hacer nada"](https://www.elperiodico.com/es/sociedad/20260716/incendio-sant-quirze-safaja-moianes-mitad-hectareas-quemados-un-propietario-132514378)<br>
+14:43 [La mitad de las hectáreas calcinadas en Sant Quirze pertenecen a un único propietario: «Cuando te encuentras así, no se puede hacer nada».](https://www.elperiodico.com/es/videos/sucesos/mitad-hectareas-calcinadas-sant-quirze/132516881.shtml)<br>
+14:42 [Brote de diarrea explosiva: así es la enfermedad que ha causado ya más de 7.000 casos en Estados Unidos](https://www.elperiodico.com/es/salud/20260716/brote-diarrea-explosiva-enfermedad-causado-casos-estados-unidos-132517359)<br>
+14:39 [Los Mossos d'Esquadra buscan a Sara Maria, desaparecida el 8 de julio en Badalona](https://www.elperiodico.com/es/barcelona/20260716/mossos-desquadra-buscan-sara-maria-desaparecida-badalona-8-de-julio-132516781)<br>
+14:33 [Bruselas impone a Google abrir Android a servicios rivales de IA y compartir datos con motores de búsqueda](https://www.elperiodico.com/es/sociedad/20260716/bruselas-impone-google-abrir-android-132516907)<br>
+14:25 [El Aquitània Teatre, el teatro comprado por Aitana y el Mago Pop, lleva desde 2018 con una ocupación media por debajo del 50%](https://www.elperiodico.com/es/ocio-y-cultura/20260716/aquitania-teatre-teatro-comprado-aitana-mago-pop-butacas-ocupacion-132470598)<br>
+14:23 [Catalunya genera más riqueza, pero esta apenas llega a la clase media](https://www.elperiodico.com/es/economia/20260716/cataluna-economia-evolucion-pib-2025-clase-media-salarios-132514495)<br>
 13:56 [Nace ITSready, una nueva herramienta que facilita la detección precoz del VIH, la clamidia y la gonorrea entre los jóvenes](https://www.elperiodico.com/es/sociedad/20260716/nace-itsready-nueva-herramienta-facilita-deteccion-clamidia-gonorrea-132513677)<br>
 13:43 [Álvaro Fernández, farmacéutico, desmonta el mito de las duchas frías en verano: "Puede ser justo lo contrario de lo que necesitas"](https://www.elperiodico.com/es/vida-y-estilo/20260716/alvaro-fernandez-farmaceutico-desmonta-mito-ducha-fria-dv-132507255)<br>
 13:37 [La natalidad crece en Catalunya por primera vez desde 2008, con más de 54.200 bebés nacidos en 2025](https://www.elperiodico.com/es/sociedad/20260716/natalidad-nacimientos-crece-por-primera-vez-cataluna-desde-2008-132508195)<br>
