@@ -1,8 +1,15 @@
-# News for 2026-07-16 13:12
+# News for 2026-07-16 14:08
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+13:58 [У Херсоні чоловік допомагав РФ відновити роботу заводу](https://ua.korrespondent.net/ukraine/4894740-u-khersoni-cholovik-dopomahav-rf-vidnovyty-robotu-zavodu)<br>
+13:43 [Перша зустріч Альянсу дронів ЄС-Україна відбудеться у Брюсселі](https://ua.korrespondent.net/world/4894735-persha-zustrich-aliansu-droniv-yes-ukraina-vidbudetsia-u-bruisseli)<br>
+13:33 [У Балтійському морі знайшли місце з водою, як на Адріатиці](https://ua.korrespondent.net/tech/science/4894730-u-baltiiskomu-mori-znaishly-mistse-z-vodoui-yak-na-adriatytsi)<br>
+13:32 [У Краматорську семеро поранених через атаку РФ](https://ua.korrespondent.net/ukraine/4894729-u-kramatorsku-semero-poranenykh-cherez-ataku-rf)<br>
+13:30 [Будинок зірки Кави з кардамоном постраждав під час нічної атаки на Київ](https://ua.korrespondent.net/lifestyle/4894727-budynok-zirky-kavy-z-kardamonom-postrazhdav-pid-chas-nichnoi-ataky-na-kyiv)<br>
+13:25 [В Одесі черговий ракетний удар, є загибла і поранені](https://ua.korrespondent.net/city/odessa/4894723-v-odesi-cherhovyi-raketnyi-udar-ye-zahybla-i-poraneni)<br>
+13:10 [Після атаки РФ у Києві другий тиждень очищають озеро від нафти](https://ua.korrespondent.net/kyiv/4894717-pislia-ataky-rf-u-kyievi-druhyi-tyzhden-ochyschauit-ozero-vid-nafty)<br>
 13:00 [Український бізнес показав свої очікування щодо ділової активності](https://ua.korrespondent.net/business/4894710-ukrainskyi-biznes-pokazav-svoi-ochikuvannia-schodo-dilovoi-aktyvnosti)<br>
 12:59 [Анкара готова забезпечити морську складову гарантій безпеки України](https://ua.korrespondent.net/world/4894708-ankara-hotova-zabezpechyty-morsku-skladovu-harantii-bezpeky-ukrainy)<br>
 12:38 [НАТО ретельніше захищатиме Балтійське море від РФ - Вадефуль](https://ua.korrespondent.net/world/4894702-nato-retelnishe-zakhyschatyme-baltiiske-more-vid-rf-vadeful)<br>
@@ -22,6 +29,7 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 10:43 [Курси валют на 16 липня: долар і євро падають](https://ua.korrespondent.net/business/financial/4894664-kursy-valuit-na-16-lypnia-dolar-i-yevro-padauit)<br>
 10:38 [Генштаб уточнив дані про уражені важливі обєкти РФ](https://ua.korrespondent.net/ukraine/4894653-henshtab-utochnyv-dani-pro-urazheni-vazhlyvi-obiekty-rf)<br>
 10:29 [Британія створить балістичні ракети для України - ЗМІ](https://ua.korrespondent.net/world/4894661-brytaniia-stvoryt-balistychni-rakety-dlia-ukrainy-zmi)<br>
+10:29 [Британія створить балістику для України до 2027 року - ЗМІ](https://ua.korrespondent.net/world/4894661-brytaniia-stvoryt-balistyku-dlia-ukrainy-do-2027-roku-zmi)<br>
 10:14 [СЗЧ-шник на Дніпропетровщині поранив поліцейських і застрелився сам](https://ua.korrespondent.net/ukraine/4894656-szch-shnyk-na-dnipropetrovschyni-poranyv-politseiskykh-i-zastrelyvsia-sam)<br>
 09:48 [Зеленський відреагував на нічний удар РФ по Києву](https://ua.korrespondent.net/ukraine/4894650-zelenskyi-vidreahuvav-na-nichnyi-udar-rf-po-kyievu)<br>
 09:38 [Атаки РФ: в Україні знеструмлені шість областей](https://ua.korrespondent.net/ukraine/4894648-ataky-rf-v-ukraini-znestrumleni-shist-oblastei)<br>
@@ -35,10 +43,20 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 06:35 [Генштаб навів свіжі дані про втрати Росії у війні](https://ua.korrespondent.net/ukraine/4894613-henshtab-naviv-svizhi-dani-pro-vtraty-rosii-u-viini)<br>
 
 ## as.com
+13:54 [Chris Duarte deja de ser jugador del Unicaja](https://as.com/baloncesto/chris-duarte-deja-de-ser-jugador-del-unicaja-f202607-n/)<br>
+13:37 [Kassius Robertson tiene nueva casa: el MoraBanc Andorra](https://as.com/baloncesto/acb/kassius-robertson-tiene-nueva-casa-el-morabanc-andorra-f202607-n/)<br>
+13:31 [El San Pablo Burgos se hace con Retin Obasohan](https://as.com/baloncesto/acb/el-san-pablo-burgos-se-hace-con-retin-obasohan-f202607-n/)<br>
 12:24 [El Barça cierra la posición de base con Umoja Gibson](https://as.com/baloncesto/el-barca-cierra-la-posicion-de-base-con-umoja-gibson-f202607-n/)<br>
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:56 [Nace ITSready, una nueva herramienta que facilita la detección precoz del VIH, la clamidia y la gonorrea entre los jóvenes](https://www.elperiodico.com/es/sociedad/20260716/nace-itsready-nueva-herramienta-facilita-deteccion-clamidia-gonorrea-132513677)<br>
+13:43 [Álvaro Fernández, farmacéutico, desmonta el mito de las duchas frías en verano: "Puede ser justo lo contrario de lo que necesitas"](https://www.elperiodico.com/es/vida-y-estilo/20260716/alvaro-fernandez-farmaceutico-desmonta-mito-ducha-fria-dv-132507255)<br>
+13:37 [La natalidad crece en Catalunya por primera vez desde 2008, con más de 54.200 bebés nacidos en 2025](https://www.elperiodico.com/es/sociedad/20260716/natalidad-nacimientos-crece-por-primera-vez-cataluna-desde-2008-132508195)<br>
+13:35 [Catalunya emite un aviso por contaminación atmosférica y mala calidad del aire ante la llegada de una intensa calima](https://www.elperiodico.com/es/sociedad/20260716/cataluna-aviso-calima-mala-calidad-aire-contaminacion-jueves-132512976)<br>
+13:31 [Pepita Bernat Bosch, 107 años: "Si después de muerto se estuviera tan bien, alguien habría vuelto para contarlo"](https://www.elperiodico.com/es/sociedad/20260716/pepita-bernat-bosch-107-anos-127257419)<br>
+13:20 [¿Cuánto dinero se puede transferir a un familiar sin declarar? Lo que realmente vigila Hacienda](https://www.elperiodico.com/es/economia/20260716/dinero-transferir-familiar-declarar-hacienda-dv-132507329)<br>
+13:17 [La Seguridad Social amplía las enfermedades que permiten jubilarse a los 56 años sin recortes en la pensión](https://www.elperiodico.com/es/economia/20260716/seguridad-social-enfermedades-permiten-jubilarse-56-anos-sin-recortes-pension-dv-132511921)<br>
 13:00 [El pederasta de La Salle Bonanova ingresa en la cárcel de Brians 2 seis años y medio después de la denuncia](https://www.elperiodico.com/es/sociedad/20260716/pederasta-la-salle-bonanova-barcelona-victor-planas-ingreso-prision-brians2-agresion-sexual-menor-132506108)<br>
 12:52 [El precio del euríbor hoy, 16 de julio: jornada de alivio para los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20260716/precio-euribor-hoy-16-julio-dv-132511300)<br>
 12:50 [Cemex recibe 200 millones de euros para descarbonizar para su producción en Alcanar (Tarragona)](https://www.elperiodico.com/es/tarragona/20260716/cemex-recibe-200-millones-descarbonizacion-alcanar-tarragona-132511014)<br>
