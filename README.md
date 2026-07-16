@@ -1,8 +1,12 @@
-# News for 2026-07-16 12:32
+# News for 2026-07-16 13:12
 
 Previous day: [2026-07-15](./data/2026-07-15.md)
 
 ## ua.korrespondent.net
+13:00 [Український бізнес показав свої очікування щодо ділової активності](https://ua.korrespondent.net/business/4894710-ukrainskyi-biznes-pokazav-svoi-ochikuvannia-schodo-dilovoi-aktyvnosti)<br>
+12:59 [Анкара готова забезпечити морську складову гарантій безпеки України](https://ua.korrespondent.net/world/4894708-ankara-hotova-zabezpechyty-morsku-skladovu-harantii-bezpeky-ukrainy)<br>
+12:38 [НАТО ретельніше захищатиме Балтійське море від РФ - Вадефуль](https://ua.korrespondent.net/world/4894702-nato-retelnishe-zakhyschatyme-baltiiske-more-vid-rf-vadeful)<br>
+12:36 [Російські нафтовики закликали Індію збільшити постачання бензину](https://ua.korrespondent.net/business/economics/4894701-rosiiski-naftovyky-zaklykaly-indiui-zbilshyty-postachannia-benzynu)<br>
 12:24 [Стармера нагородили орденом Свободи](https://ua.korrespondent.net/ukraine/4894699-starmera-nahorodyly-ordenom-svobody)<br>
 12:11 [У дитбудинку в Алжирі спалахнула пожежа: 11 загиблих, є поранені](https://ua.korrespondent.net/world/4894696-u-dytbudynku-v-alzhyri-spalakhnula-pozhezha-11-zahyblykh-ye-poraneni)<br>
 12:07 [Через атаку по Краматорську люди опинилися заблокованими у власних оселях](https://ua.korrespondent.net/ukraine/4894694-cherez-ataku-po-kramatorsku-luidy-opynylysia-zablokovanymy-u-vlasnykh-oseliakh)<br>
@@ -31,9 +35,14 @@ Previous day: [2026-07-15](./data/2026-07-15.md)
 06:35 [Генштаб навів свіжі дані про втрати Росії у війні](https://ua.korrespondent.net/ukraine/4894613-henshtab-naviv-svizhi-dani-pro-vtraty-rosii-u-viini)<br>
 
 ## as.com
+12:24 [El Barça cierra la posición de base con Umoja Gibson](https://as.com/baloncesto/el-barca-cierra-la-posicion-de-base-con-umoja-gibson-f202607-n/)<br>
 07:14 [Un verano complicado entre Barça y Baskonia](https://as.com/baloncesto/acb/un-verano-complicado-entre-barca-y-baskonia-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:00 [El pederasta de La Salle Bonanova ingresa en la cárcel de Brians 2 seis años y medio después de la denuncia](https://www.elperiodico.com/es/sociedad/20260716/pederasta-la-salle-bonanova-barcelona-victor-planas-ingreso-prision-brians2-agresion-sexual-menor-132506108)<br>
+12:52 [El precio del euríbor hoy, 16 de julio: jornada de alivio para los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20260716/precio-euribor-hoy-16-julio-dv-132511300)<br>
+12:50 [Cemex recibe 200 millones de euros para descarbonizar para su producción en Alcanar (Tarragona)](https://www.elperiodico.com/es/tarragona/20260716/cemex-recibe-200-millones-descarbonizacion-alcanar-tarragona-132511014)<br>
+12:50 [Juanma Lorente, abogado, sobre los seguros de convenio durante una incapacidad permanente: "Hay algunos convenios colectivos que obligan a la empresa a pagarte a ti una cantidad bastante alta"](https://www.elperiodico.com/es/economia/20260716/juanma-lorente-abogado-seguros-convenio-incapacidad-permanente-dv-132508183)<br>
 12:27 [Motorola lanza el edge 70 max con Snapdragon 8 Gen 5 y batería de 7100 mAh](https://www.elperiodico.com/es/tecnologia/20260716/motorola-lanza-edge-70-max-132510087)<br>
 12:26 [El Barça ficha al base estadounidense Umoja Gibson hasta 2028](https://www.elperiodico.com/es/deportes/20260716/barca-base-estadounidense-fichaje-umoja-gibson-baloncesto-132510265)<br>
 12:24 [Júlia y Biel, los nombres más puestos a bebés en Catalunya en 2025: consulte el ránking](https://www.elperiodico.com/es/sociedad/20260716/nombres-bebes-2025-julia-biel-132505595)<br>
