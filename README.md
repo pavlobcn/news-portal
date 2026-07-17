@@ -1,8 +1,12 @@
-# News for 2026-07-17 17:42
+# News for 2026-07-17 18:52
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+18:37 [Податок на Google: цифрові гіганти сплатили до бюджету України 8,9 млрд](https://ua.korrespondent.net/business/financial/4895128-podatok-na-Google-tsyfrovi-hihanty-splatyly-do-buidzhetu-ukrainy-89-mlrd)<br>
+18:16 [Сирський розкрив, що відбувається в Куп'янську](https://ua.korrespondent.net/ukraine/4895122-syrskyi-rozkryv-scho-vidbuvaietsia-v-kupiansku)<br>
+17:49 [Енергоатом прокоментував загибель "головного інженера" ЗАЕС](https://ua.korrespondent.net/ukraine/4895116-enerhoatom-prokomentuvav-zahybel-holovnoho-inzhenera-zaes)<br>
+17:43 [Росіяни скинули КАБи на Ізюм: поранено дітей](https://ua.korrespondent.net/ukraine/4895115-rosiiany-skynuly-kaby-na-izuim-poraneno-ditei)<br>
 17:26 [Для ЗСУ за пів року законтрактували безпілотників на 333 млрд](https://ua.korrespondent.net/ukraine/4895113-dlia-zsu-za-piv-roku-zakontraktuvaly-bezpilotnykiv-na-333-mlrd)<br>
 17:19 [ЗСУ отримали нового мисливця за дронами](https://ua.korrespondent.net/ukraine/4895109-zsu-otrymaly-novoho-myslyvtsia-za-dronamy)<br>
 17:14 [У Данії невідомий відкрив стрілянину по поліції: троє поранених](https://ua.korrespondent.net/world/4895105-u-danii-nevidomyi-vidkryv-strilianynu-po-politsii-troie-poranenykh)<br>
@@ -65,6 +69,7 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
 ## as.com
+18:06 [El Murcia denuncia a DeJulius](https://as.com/baloncesto/acb/el-murcia-denuncia-a-dejulius-f202607-n/)<br>
 17:16 [¡España, a semifinales!](https://as.com/baloncesto/mas_baloncesto/espana-a-semifinales-f202607-n/)<br>
 16:37 [Will Clyburn ficha por el Fenerbahçe](https://as.com/baloncesto/euroliga/will-clyburn-ficha-por-el-fenerbahce-f202607-n/)<br>
 15:09 [El Baskonia ficha a Chris Duarte, procedente del Unicaja](https://as.com/baloncesto/el-baskonia-ficha-a-chris-duarte-procedente-del-unicaja-f202607-n/)<br>
@@ -75,14 +80,22 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 09:35 [El ASVEL pasa de 59 a 24 millones: peligra el fichaje de Sylvain Francisco](https://as.com/baloncesto/el-asvel-pasa-de-59-a-24-millones-peligra-el-fichaje-de-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:46 [La falta de vivienda expulsa de Ibiza a trabajadores y familias](https://www.elperiodico.com/es/sociedad/20260717/falta-vivienda-expulsa-ibiza-trabajadores-132466186)<br>
+18:36 [El periodista Fonsi Loaiza denuncia haber sufrido "una brutal agresión" en plena calle](https://www.elperiodico.com/es/sociedad/20260717/periodista-fonsi-loaiza-denuncia-haber-132563233)<br>
+18:15 [Encuentro de Leonor y Sofía con jóvenes con discapacidad](https://www.elperiodico.com/es/videos/sociedad/leonor-sofia-encuentro-jovenes-discapacidad/132562404.shtml)<br>
+18:09 [Los expertos coinciden en la importancia del color de los toldos: "Puede provocar el efecto contrario al esperado"](https://www.elperiodico.com/es/vida-y-estilo/20260717/calor-toldo-color-baja-temperatura-dv-131734860)<br>
+18:05 [UARX aspira a ser la primera empresa de España en llegar a la Luna](https://www.elperiodico.com/es/sociedad/20260717/uarx-aspira-primera-empresa-espana-132561993)<br>
+18:00 [Verstappen lidera los primeros libres en Spa, sin Alonso y con Sainz muy lejos](https://www.elperiodico.com/es/deportes/20260717/verstappen-lidera-primeros-libres-spa-132555947)<br>
 17:41 [Kira Miró y Salva Reina protagonizan 'Tres de más' y reflexionan sobre conciliación laboral: "Hay que mejorar"](https://www.elperiodico.com/es/gente/20260717/kira-miro-salva-reina-protagonizan-132560794)<br>
 17:38 [Eva Orúe, "Caballera" de las Artes y Letras francesas, recibe el apoyo del mundo literario tras su despido como directora de la Feria del Libro de Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20260717/eva-orue-caballera-artes-letras-132560887)<br>
 17:32 [Alana S. Portero, Bernardo Atxaga y Sandra Barquinero, protagonistas de España como invitada de honor a la Bienal del Libro de São Paulo](https://www.elperiodico.com/es/ocio-y-cultura/20260717/alana-s-portero-bernardo-atxaga-132560545)<br>
 17:32 [Ángela González, psicóloga experta en familias: “Pese a que sea buena persona, no te están amando como necesitas”](https://www.elperiodico.com/es/salud/20260717/alicia-gonzalez-psicologa-punto-muerto-relaciones-duda-emocional-dv-130040696)<br>
 17:30 [El Estatuto de los Trabajadores reconoce 20 horas libres pagadas al año: así puedes solicitarlas](https://www.elperiodico.com/es/economia/20260717/estatuto-de-los-trabajadores-20-horas-libres-remuneradas-dv-129900259)<br>
 17:26 [Se jubiló a los 41 años y ahora ahorra 4.300 euros al mes: las dos claves que explican cómo lo consiguió](https://www.elperiodico.com/es/economia/20260717/alex-trias-jubilado-41-anos-ahorro-4300-euros-mes-estrategia-vivir-debajo-posibilidades-dv-128593653)<br>
+17:22 [Un terremoto de magnitud 7,4 sacude las costas de México y Guatemala y activa la alerta de tsunami](https://www.elperiodico.com/es/internacional/20260717/terremoto-mexico-tsunami-guatemala-chiapas-132560338)<br>
 17:20 [Alemania se acopla al paraguas nuclear de Francia y anuncia sus primeras maniobras compartidas](https://www.elperiodico.com/es/internacional/20260717/alemania-francia-paraguas-nuclear-maniobras-conjuntas-132560174)<br>
 17:15 [El Port de Barcelona acoge el primer suministro de bioetanol a un portacontenedores realizado por Repsol y Maersk](https://www.elperiodico.com/es/economia/20260717/puerto-barcelona-primer-suministro-bioetanol-portacontenedores-maersk-repsol-132557530)<br>
+16:40 [La terminal T2 del aeropuerto de Barcelona se renovará hasta 2032](https://www.elperiodico.com/es/fotos/sociedad/terminal-t2-aeropuerto-barcelona-renovara-132558220)<br>
 16:15 [Kristyn Hoffman, esteticista, revela un truco con la clásica crema Nivea para maquillarse: "Va a cambiar tu vida"](https://www.elperiodico.com/es/vida-y-estilo/20260717/nivea-crema-hidratante-base-maquillaje-truco-efecto-glace-dv-et-132397825)<br>
 16:09 [Dos detenidos por tener un 'narcobuzón' con medio kilo de cocaína en una vivienda de Nou Barris](https://www.elperiodico.com/es/sucesos/20260717/detenidos-narcobuzon-medio-kilo-cocaina-nou-barris-barcelona-132557169)<br>
 15:56 [SharkNinja lanza la Ninja Luxe Café Mini Plus, una cafetera compacta con funciones barista y alto nivel de personalización](https://www.elperiodico.com/es/tecnologia/20260717/sharkninja-lanza-ninja-luxe-cafetera-132556476)<br>
@@ -127,6 +140,7 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 10:00 [Lucía Solla Sobral, en el videopódcast del suplemento ‘ABRIL’: “Hay hombres que me piden ayuda como maltratadores”](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260717/lucia-solla-sobral-videopodcast-suplemento-132434346)<br>
 09:43 [Confirmado por el Estatuto de los Trabajadores: si te pones malo durante las vacaciones tienes derecho a recuperar los días](https://www.elperiodico.com/es/economia/20260717/confirmado-estatuto-trabajadores-pones-malo-dv-132537976)<br>
 08:59 ["L'Albufera sería como un enfermo en la UCI que queremos pasar a planta"](https://www.elperiodico.com/es/sociedad/20260717/entrevista-director-parque-natural-lalbufera-132395091)<br>
+08:41 [En imágenes | Así han quedado las viviendas calcinadas de Asín por el incendio en las Cinco Villas](https://www.elperiodico.com/es/fotos/en-imagenes/imagenes-han-quedado-viviendas-calcinadas-132538705)<br>
 08:35 [La tarde en la que el fuego atrapó a los bomberos en Aragón: "El viento nos dejó sin salida: tuvimos que cruzar el frente de llamas"](https://www.elperiodico.com/es/sucesos/20260717/tarde-fuego-atrapo-bomberos-aragon-132537953)<br>
 08:35 [Los jóvenes de entre 16 y 25 años podrán acceder gratis a un kit para detectar si tienen alguna enfermedad de transmisión sexual](https://www.elperiodico.com/es/sociedad/20260717/kit-enfermedades-sexuales-cataluna-gratis-jovenes-deteccion-vih-gonorrea-clamidia-132513677)<br>
 08:00 [Bibi, peluquera, sobre cómo conseguir el rubio perfecto: "La mayoría cree que el error está al elegir el matiz, pero créeme que está justo antes de empezar"](https://www.elperiodico.com/es/vida-y-estilo/20260717/bibi-peluquera-rubio-perfecto-dv-132522418)<br>
