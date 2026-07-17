@@ -1,8 +1,12 @@
-# News for 2026-07-17 14:19
+# News for 2026-07-17 16:11
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+15:10 [Росіяни знову атакували Одесу: є загиблий](https://ua.korrespondent.net/city/odessa/4895066-rosiiany-znovu-atakuvaly-odesu-ye-zahyblyi)<br>
+15:08 [В Україні розпочалися додаткові сесії НМТ: що потрібно знати](https://ua.korrespondent.net/ukraine/4895065-v-ukraini-rozpochalysia-dodatkovi-sesii-nmt-scho-potribno-znaty)<br>
+14:59 [Російські церкви в Європі ховаються за українською символікою](https://ua.korrespondent.net/world/4895062-rosiiski-tserkvy-v-yevropi-khovauitsia-za-ukrainskoui-symvolikoui)<br>
+14:23 [Слідом за бензином: Росія готується імпортувати дизель](https://ua.korrespondent.net/business/economics/4895054-slidom-za-benzynom-rosiia-hotuietsia-importuvaty-dyzel)<br>
 14:12 [На Гаваях знову прокинувся вулкан Кілауеа](https://ua.korrespondent.net/world/4895051-na-havaiakh-znovu-prokynuvsia-vulkan-kilauea)<br>
 14:09 [Названо найкрасивіше слово у світі](https://ua.korrespondent.net/lifestyle/4895049-nazvano-naikrasyvishe-slovo-u-sviti)<br>
 14:01 [У Чехії санітар із сокирою і ножем скоїв напад у медзакладі: загинули двоє](https://ua.korrespondent.net/world/4895045-u-chekhii-sanitar-iz-sokyroui-i-nozhem-skoiv-napad-u-medzakladi-zahynuly-dvoie)<br>
@@ -55,9 +59,27 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
 ## as.com
+15:09 [El Baskonia ficha a Chris Duarte, procedente del Unicaja](https://as.com/baloncesto/el-baskonia-ficha-a-chris-duarte-procedente-del-unicaja-f202607-n/)<br>
+14:45 [Oficial: el Madrid ficha a Luwawu-Cabarrot](https://as.com/baloncesto/euroliga/oficial-el-madrid-ficha-a-luwawu-cabarrot-f202607-n/)<br>
 13:44 [Óscar Castañeda, nuevo vicepresidente de la FEB](https://as.com/baloncesto/mas_baloncesto/oscar-castaneda-nuevo-vicepresidente-de-la-feb-f202607-n/)<br>
+12:36 [Ubal vuelve al Barça](https://as.com/baloncesto/acb/ubal-vuelve-al-barca-f202607-n/)<br>
+09:53 [Las incógnitas del Madrid](https://as.com/baloncesto/euroliga/las-incognitas-del-madrid-f202607-n/)<br>
+09:35 [El ASVEL pasa de 59 a 24 millones: peligra el fichaje de Sylvain Francisco](https://as.com/baloncesto/el-asvel-pasa-de-59-a-24-millones-peligra-el-fichaje-de-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:09 [Dos detenidos por tener un 'narcobuzón' con medio kilo de cocaína en una vivienda de Nou Barris](https://www.elperiodico.com/es/sucesos/20260717/detenidos-narcobuzon-medio-kilo-cocaina-nou-barris-barcelona-132557169)<br>
+15:56 [SharkNinja lanza la Ninja Luxe Café Mini Plus, una cafetera compacta con funciones barista y alto nivel de personalización](https://www.elperiodico.com/es/tecnologia/20260717/sharkninja-lanza-ninja-luxe-cafetera-132556476)<br>
+15:55 [Richard Gere y el cuento de siempre](https://www.elperiodico.com/es/gente/20260717/richard-gere-cuento-132549555)<br>
+15:47 [De explotados a prescindibles](https://www.elperiodico.com/es/opinion/20260717/explotados-prescindibles-empleo-informe-articulo-josep-m-lozano-132556082)<br>
+15:37 [Los ayuntamientos de Aiguamúrcia y Querol se querellarán contra el autor de los múltiples incendios si se confirma que se trata de un pirómano en serie](https://www.elperiodico.com/es/tarragona/20260717/ayuntamientos-aiguamurcia-querol-querellaran-autor-132547967)<br>
+15:33 [Aena invertirá 153 millones para transformar y "coser" la T2 del aeropuerto de Barcelona-El Prat](https://www.elperiodico.com/es/videos/economia/aena-invertira-153-millones-transformar/132556119.shtml)<br>
+15:27 [Los fanáticos hacen cola para ver La Odisea de Christopher Nolan con entradas que compraron hace un año](https://www.elperiodico.com/es/videos/ocio-y-cultura/fanaticos-fila-ver-odisea-christopher-video/132556076.shtml)<br>
+15:19 [Así fue el momento del deslizamiento de tierra en China que deja desaparecidos y 1.100 evacuados](https://www.elperiodico.com/es/videos/internacional/momento-deslizamiento-tierra-china-deja-desaparecidos-evacuados/132555808.shtml)<br>
+15:15 [La pediatra de Sant Pau que atendió al bebé maltratado declara que las lesiones anales no fueron originadas en una sola acción](https://www.elperiodico.com/es/sociedad/20260717/juez-investigacion-hospital-de-sant-pau-bebe-maltratado-vall-dhebron-132553526)<br>
+15:11 [Europa se abrasa: nuestras ciudades deben cambiar](https://www.elperiodico.com/es/opinion/20260717/europa-abrasa-ciudades-deben-cambiar-articulo-javi-lopez-132554808)<br>
+15:00 [Catalunya contrata a 160 profesores para desdoblar Matemáticas de 4º de ESO en generales y avanzadas por orden judicial](https://www.elperiodico.com/es/sociedad/20260717/catalunya-contratara-160-profesores-matematicas-cumplir-sentencias-matematicas-desdobladas-4-eso-132520996)<br>
+14:47 [Los perros de hasta 40 kilos podrán viajar junto a sus dueños en todos los trenes de Renfe a partir del 21 de julio](https://www.elperiodico.com/es/sociedad/20260717/mascotas-perros-gatos-podran-viajar-todos-trenes-renfe-julio-132553561)<br>
+14:19 [Un muerto y dos desaparecidos tras el naufragio de una embarcación cerca de Alcatraz en EEUU](https://www.elperiodico.com/es/internacional/20260717/muerto-desaparecidos-naufragio-barco-cerca-alcatraz-san-francisco-eeuu-132553319)<br>
 14:16 [Qué pasa con el alquiler si fallece el casero: el aviso del abogado Alberto Sánchez a los inquilinos](https://www.elperiodico.com/es/vivienda/20260717/alquiler-fallece-casero-aviso-abogado-dv-132507251)<br>
 14:03 [Hallan 2 esqueletos de rinoceronte de hace 200.000 años en una cueva de Moià (Barcelona)](https://www.elperiodico.com/es/sociedad/20260717/hallan-2-esqueletos-rinoceronte-200-132552517)<br>
 13:59 [Joan Kinyua, antigua anotadora de datos: "La IA no es mágica, hay personas detrás de los sistemas"](https://www.elperiodico.com/es/internacional/20260717/joan-kinyua-antigua-anotadora-datos-ia-magina-trabajadores-kenia-inteligencia-artificial-132552376)<br>
@@ -69,6 +91,7 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 13:20 [Las temperaturas se estabilizan en Catalunya pero aumenta la humedad y se activan avisos por calor nocturno](https://www.elperiodico.com/es/sociedad/20260717/temperaturas-estabilizan-cataluna-ola-de-calor-humedad-132546339)<br>
 13:07 [El Banco Santander pacta con los sindicatos prejubilaciones desde 55 años con hasta el 95% de salario](https://www.elperiodico.com/es/economia/20260717/banco-santander-pacta-sindicatos-prejubilaciones-132549883)<br>
 13:05 [La leyenda de la danza Anne Teresa de Keersmaeker y Solal Mariotte bailan al ritmo de Jacques Brel](https://www.elperiodico.com/es/ocio-y-cultura/20260717/leyenda-danza-anne-teresa-keersmaeker-132529744)<br>
+13:00 [Catalonia Hotels asegura 383 millones para acelerar su expansión internacional en Zanzíbar y Jamaica](https://www.elperiodico.com/es/economia/20260717/catalonia-asegura-383-millones-acelerar-132553744)<br>
 12:47 [VÍDEO I Las obras del Pont del Petroli se harán desde el mar: así han trasladado la enorme plataforma donde se ubica la grúa](https://www.elperiodico.com/es/barcelona/20260717/instalan-gran-plataforma-marina-arreglara-pont-del-petroli-badalona-132541583)<br>
 12:38 [Agustín Ubal vuelve al Barça: "Desde que me fui, siempre he soñado con este momento"](https://www.elperiodico.com/es/deportes/20260717/agustin-ubal-vuelve-barca-he-132547470)<br>
 12:31 [La Síndica urge a garantizar las colonias escolares y reclama medidas para proteger los derechos de alumnos y docentes](https://www.elperiodico.com/es/sociedad/20260717/sindic-greuges-garantizar-colonias-escolares-cataluna-curso-26-27-132543859)<br>
