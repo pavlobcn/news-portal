@@ -1,0 +1,65 @@
+[
+  {
+    "title": "GRAVITEO abre sus puertas al público con el mejor deporte urbano y una potente oferta cultural en el Circuit de Barcelona-Catalunya",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/graviteo-abre-puertas-publico-mejor-132534722",
+    "pubDate": "2026-07-17 02:59:04",
+    "category": "",
+    "description": "<h2>Desde este viernes y hasta el 19 de julio, el festival reunirá deporte, ocio, música, cultura urbana y experiencias para todos los públicos en un formato abierto y gratuito pensado para que tanto aficionados como familias disfruten de un fin de semana único</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "США шосту ніч поспіль атакують Іран",
+    "link": "https://ua.korrespondent.net/world/4894878-ssha-shostu-nich-pospil-atakuuit-iran",
+    "pubDate": "2026-07-17 02:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496753.jpg\">Центральне командування США заявило що продовжують ослабити військові спроможності Тегерану.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Оператор суфлера Трампа заробив 100 000$, роблячи ставки щодо його виступів",
+    "link": "https://ua.korrespondent.net/world/4894876-operator-suflera-trampa-zarobyv-100-000-robliachy-stavky-schodo-yoho-vystupiv",
+    "pubDate": "2026-07-17 02:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496732.jpg\">Технічний співробітник апарату президента США робив ставки на те, які слова вимовить Трамп.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Пекельні санкції\" набрали необхідну підтримку в Сенаті",
+    "link": "https://ua.korrespondent.net/world/4894874-pekelni-sanktsii-nabraly-neobkhidnu-pidtrymku-v-senati",
+    "pubDate": "2026-07-17 01:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496691.jpeg\">Керівництво Верхньої палати Конгресу ще має винести документ на голосування. Після ухвалення законопроєкт буде розглядатися у Палаті представників.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "У Сумах та районі через атаки РФ постраждало семеро людей",
+    "link": "https://ua.korrespondent.net/ukraine/4894872-u-sumakh-ta-raioni-cherez-ataky-rf-postrazhdalo-semero-luidei",
+    "pubDate": "2026-07-17 01:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496670.jpg\">БПЛА атакував цивільного в центрі міста, а по передмістю били КАБи. Також троє людей постраждали від обстрілу РСЗВ.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Військові США висалилися на борт судна в Оманській затоці",
+    "link": "https://ua.korrespondent.net/world/4894870-viiskovi-ssha-vysalylysia-na-bort-sudna-v-omanskii-zatotsi",
+    "pubDate": "2026-07-17 00:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496629.jpg\">У CENTCOM розповіли про підтримку блокади Ірану, зорема в Оманській затоці, яка веде до Ормузької протоки.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Удар по Одесі: поранені діти",
+    "link": "https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity",
+    "pubDate": "2026-07-17 00:21:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496588.jpg\">Серед загиблих - жінка, яка під час атаки гуляла в парку з дітьми. Окрім двох загиблих, семеро люддей постраждали.",
+    "topic": 0,
+    "topic_match_probability": 0
+  }
+]

@@ -1,5 +1,41 @@
 [
   {
+    "title": "Bienestar, cohesión y alimentación accesible en el corazón del medio rural",
+    "link": "https://www.elperiodico.com/es/economia/20260716/bienestar-cohesion-alimentacion-accesible-corazon-bc-132533445",
+    "pubDate": "2026-07-16 23:59:20",
+    "category": "",
+    "description": "<h2>Dia y COCEDER firman una alianza estratégica para impulsar proyectos de cohesión territorial y bienestar social en el medio rural, coincidiendo con el retorno estival</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Resistencia Islámica en Irak ofrece 10 millones de dólares por el asesinato de Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260716/resistencia-islamica-irak-ofrece-10-132533409",
+    "pubDate": "2026-07-16 23:50:32",
+    "category": "",
+    "description": "<h2>Aseguran que la cantidad ha sido recaudada gracias a las donaciones de sus leales miembros y firmes simpatizantes</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран обіцяє знищити усю інфраструктуру в регіоні в разі атак США",
+    "link": "https://ua.korrespondent.net/world/4894864-iran-obitsiaie-znyschyty-usui-infrastrukturu-v-rehioni-v-razi-atak-ssha",
+    "pubDate": "2026-07-16 23:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496560.jpg\">У Тегерані відповіли на погрози Трампа завдати нових ударів по країні. Там також заявили, що ніколи не дозволить США втручатися в Ормузьку протоку.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Las Migas, un alma flamenca con frescura y jaleo en Les Nits Occident",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260716/migas-alma-flamenca-frescura-jaleo-nits-occident-concierto-132533349",
+    "pubDate": "2026-07-16 23:49:27",
+    "category": "",
+    "description": "<h2>El cuarteto barcelonés recorrió su nuevo álbum, ‘Flamencas’, ganador de un Latin Grammy, y apuntó a la rumba, la copla, Pata Negra y Paco de Lucía en los jardines del Palau de Pedralbes</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 55
+  },
+  {
     "title": "ЗМІ дізналися про візит Єрмака до Сирського",
     "link": "https://ua.korrespondent.net/ukraine/4894860-zmi-diznalysia-pro-vizyt-yermaka-do-syrskoho",
     "pubDate": "2026-07-16 23:18:00",
@@ -25,6 +61,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496514.jpg\">Виконувач обов'язків міністра оборони контролюватиме далекобійні операції та внутрішню ситуацію у складових Сил оборони.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Уряд Корецького. Чого чекати від нового Кабміну",
+    "link": "https://ua.korrespondent.net/ukraine/4894866-uriad-koretskoho-choho-chekaty-vid-novoho-kabminu",
+    "pubDate": "2026-07-16 22:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496581.jpg\">Виступаючи в парламенті, Корецький заявив, що хоче, аби новий Кабмін став урядом оборони, економічного розвитку та європейської інтеграції, але якраз власне міністра оборони в новому уряді поки немає.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Graviteo abre sus puertas al público con el mejor deporte urbano y una potente oferta cultural en el Circuit de Barcelona-Catalunya",
@@ -88,6 +133,15 @@
     "description": "<h2>El primer eclipse total de Sol visible en la Península en más de un siglo movilizará a millones de personas, obligando a Tráfico a activar un plan de seguridad sin precedentes en siete comunidades</h2>",
     "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 65
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-16 21:30:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "La bañera de Messi y Lamine",
@@ -369,6 +423,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Así está la plantilla del Barça para la temporada 2026-27: Shengelia, la gran duda",
+    "link": "https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-barca-para-la-temporada-2026-27-shengelia-la-gran-duda-f202607-n/",
+    "pubDate": "2026-07-16 19:20:27",
+    "category": "Baloncesto",
+    "description": "Solo cinco jugadores de la pasada temporada sobreviven a la limpia que se ha producido en la plantilla. El georgiano puede salir.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Авіаудари РФ по Запоріжжю: три людини загинули",
     "link": "https://ua.korrespondent.net/city/zaporozhye/4894832-aviaudary-rf-po-zaporizhzhui-try-luidyny-zahynuly",
     "pubDate": "2026-07-16 19:16:00",
@@ -574,6 +637,15 @@
     "description": "<h2>El fuego en la zona de Pinar de Cincovillas obliga a elevar al nivel 2 del Infoma</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-16 18:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "Un mosso detiene a tiros un coche en L'Hospitalet después de que el conductor haya intentado embestir a una patrulla para huir",
@@ -2292,6 +2364,24 @@
     "category": "",
     "description": "<h2>La economía española pierde cada día el equivalente a 1,5 millones de trabajadores ausentes  </h2>",
     "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-16 12:00:00",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercado de fichajes, 2026, EuroLeague: todos los movimientos",
+    "link": "https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-16 12:00:00",
+    "category": "Mercado Euroliga",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Euroliga este verano de 2026.",
+    "topic": 0,
     "topic_match_probability": 0
   },
   {
