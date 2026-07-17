@@ -1,5 +1,284 @@
 [
   {
+    "title": "Генштаб ЗСУ підрахував нові втрати ворожої армії",
+    "link": "https://ua.korrespondent.net/ukraine/4894891-henshtab-zsu-pidrakhuvav-novi-vtraty-vorozhoi-armii",
+    "pubDate": "2026-07-17 06:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496961.jpg\">За добу українські військові відмінусували ще 1370 окупантів і знищили понад 500 одиниць російської техніки, зокрема гелікоптер.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "No lo olviden, pibes: nosotros pagamos las inyecciones del niño Leo",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/olviden-pibes-pagamos-inyecciones-nino-132530617",
+    "pubDate": "2026-07-17 06:11:43",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Catalunya será la comunidad que más reducirá la lista de espera de la dependencia con la inyección de fondos estatal",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/dependencia-cataluna-lista-espera-financiacion-132515115",
+    "pubDate": "2026-07-17 06:03:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El Gobierno calcula que la inversión extra de 6.200 millones permitirá reducir en 71.000 las personas que esperan recibir una prestación: el 35% viven en Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260714/reforma-ley-dependencia-discapacidad-financiacion-obras-132410997\" target=\"_blank\">Estos son los cambios en la ley de dependencia y discapacidad, una reforma que trae consigo más financiación y prestaciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Todo lo que nos jugamos en verano",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/jugamos-verano-casals-dos-semanas-compromiso-govern-cataluna-parlament-132529972",
+    "pubDate": "2026-07-17 06:01:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Un país que quiera tomarse en serio la educación, la salud, la lengua y la cohesión social no puede permitirse perder el verano</h2><h2 class=\"item\"><a>Uno de cada tres niños y adolescentes catalanes no puede permitirse una semana de vacaciones en verano</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PSOE da por amortizado el daño electoral de la amnistía: \"Hoy perjudica más la financiación autonómica que la ley de gracia\"",
+    "link": "https://www.elperiodico.com/es/politica/20260717/psoe-amortizado-dano-electoral-amnistia-132529193",
+    "pubDate": "2026-07-17 06:01:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Fuentes socialistas admiten que su impacto negativo ha llegado hasta las autonómicas celebradas en 2026</h2><h2 class=\"item\">Ferraz no teme la vuelta de Puigdemont a España y asegura que se demostrará que \"se ha normalizado la convivencia\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La encuesta de EL PERIÓDICO sobre las elecciones generales, al completo: datos internos, cruces y respuestas individuales",
+    "link": "https://www.elperiodico.com/es/politica/20260717/encuesta-periodico-elecciones-generales-datos-internos-gesop-132528810",
+    "pubDate": "2026-07-17 06:01:14",
+    "category": "",
+    "description": "<h2>El diario ofrece los datos íntegros del sondeo del GESOP publicado los días 14 y 15 de julio de 2026</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Baterías y 'marcapasos' en la red eléctrica, el plan de Lituania para evitar un apagón como el de la Península Ibérica",
+    "link": "https://www.elperiodico.com/es/economia/20260717/baterias-marcapasos-red-electrica-plan-lituania-evitar-apagon-peninsula-iberica-132526909",
+    "pubDate": "2026-07-17 06:01:06",
+    "category": "",
+    "description": "<h2>La desconexión del sistema ruso, acelerada tras la invasión de Ucrania, obligó al país báltico a rediseñar la protección de su red eléctrica para evitar una desconexión sistémica o provocada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Unión Europea aspira a financiar reparaciones de emergencia en las interconexiones eléctricas",
+    "link": "https://www.elperiodico.com/es/economia/20260717/union-europea-aspira-financiar-reparaciones-emergencia-interconexiones-electricas-paquete-redes-132526565",
+    "pubDate": "2026-07-17 06:01:04",
+    "category": "",
+    "description": "<h2>Los Estados miembros no solo quieren construir más redes, sino también reforzar la resiliencia de la infraestructura existente ante ataques deliberados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los fundadores de Busquets Gálvez venden un edificio de 27 viviendas en Barcelona",
+    "link": "https://www.elperiodico.com/es/economia/20260717/fundadores-busquets-galvez-venden-edificio-132526184",
+    "pubDate": "2026-07-17 06:01:02",
+    "category": "",
+    "description": "<h2>El edificio, situado en Vall d'Hebron, ha sido rehabilitado de forma progresiva durante doce años y mantiene alquileres de entre 400 y 600 euros mensuales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Atraco a las tres",
+    "link": "https://www.elperiodico.com/es/tele/20260717/atraco-tres-sergi-mas-tv-y-mas-132524674",
+    "pubDate": "2026-07-17 06:00:58",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Los parques urbanos en olas de calor: cierre preventivo en Madrid, refugio climático en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260717/parques-olas-calor-cierre-madrid-cierra-retiro-barcelona-refugios-climaticos-132523113",
+    "pubDate": "2026-07-17 06:00:57",
+    "category": "",
+    "description": "<h2>Los ayuntamientos de las dos capitales entienden de forma antagónica la relación entre zonas verdes y calor</h2><h2><strong>MULTIMEDIA | </strong><a href=\"https://www.elperiodico.com/es/barcelona/planes-verano-piscina-playas-parques-cine-musica-132488172-rm/index.html\" ><strong>Qué hacer en Barcelona este verano sin asarte de calor</strong></a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "El Gobierno cierra el círculo de la legislatura con la amnistía y la asocia al fin del ‘procés’ para contrarrestar el rechazo social",
+    "link": "https://www.elperiodico.com/es/politica/20260717/gobierno-legislatura-amnistia-rechazo-proces-132524058",
+    "pubDate": "2026-07-17 06:00:55",
+    "category": "",
+    "description": "<h2>Los socialistas dan por ganada su partida con el Supremo tras el aval de la justicia europea a la medida de gracia y reclaman ahora celeridad en su aplicación</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260716/tjue-avala-amnistia-malversacion-132504280\" target=\"_blank\">La justicia europea avala la ley de amnistía y abre la puerta al regreso de Puigdemont</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los Mossos desplegarán un dispositivo para la final del Mundial entre España y Argentina en Barcelona y su área",
+    "link": "https://www.elperiodico.com/es/sucesos/20260717/mossos-preparan-dispositivo-preventivo-seguridad-final-espana-argentina-mundial-futbol-132522652",
+    "pubDate": "2026-07-17 06:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía catalana desplegará unidades de orden público y patrullas</h2><h2 class=\"item\"><a>Barcelona instalará una pantalla gigante para seguir la final del Mundial de fútbol este domingo</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Telefónica crece en el negocio sanitario y se refuerza en el uso de la IA para hacer diagnósticos médicos",
+    "link": "https://www.elperiodico.com/es/economia/20260717/telefonica-negocio-sanitario-refuerza-inteligencia-artificial-medicina-132522339",
+    "pubDate": "2026-07-17 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La filial tecnológica de la teleco sigue creciendo en el ámbito sanitario y se alía con la australiana Harrison.ai para ofrecer en España una solución de diagnósticos rápidos de radiografías</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La histórica subministradora de hostelería García de Pou abre nueva etapa con una inversión de 12 millones de euros",
+    "link": "https://www.elperiodico.com/es/barcelona/20260717/historica-subministradora-hosteleria-garcia-pou-132512203",
+    "pubDate": "2026-07-17 06:00:50",
+    "category": "",
+    "description": "<h2>La firma, con tienda en Barcelona y el músculo logístico en la Costa Brava, reforzará su capacidad logística para una expansión a gran escala</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El reto de organizar las vacaciones con un enfermo de alzhéimer: \"Mejor implicarlos en los preparativos y priorizar destinos conocidos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/reto-organizar-vacaciones-enfermo-alzheimer-132303877",
+    "pubDate": "2026-07-17 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Los profesionales habituados a tratar a personas con deterioro cognitivo aconsejan identificarles bien si viajan en bus, tren o avión por si se desorientan y mantener estables las rutinas diarias en el lugar de destino</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/rebelados-estigma-social-demencia-alzheimer-132290002\" target=\"_blank\">Indignados contra el estigma social de la demencia: \"Tengo alzhéimer, pero sigo siendo una persona útil\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260706/entramos-unico-centro-espana-tratar-alzheimer-jovenes-132156009\" target=\"_blank\">Así es el único centro que hay en España para tratar el alzhéimer en jóvenes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Personas con alzhéimer incipiente se rebelan contra el estigma de la demencia: \"Queremos ser tratados como personas, no como trastos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/enfermos-principio-alzheimer-rebelan-estigma-demencia-personas-trastos-132290002",
+    "pubDate": "2026-07-17 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Pacientes con diagnóstico de daño cognitivo irreversible, pero aún con síntomas leves o asintomáticos, reclaman poder seguir trabajando y que la sociedad no los margine</h2><h2 class=\"item\">Las asociaciones calculan que 80.000 personas en España se encuentran en la fase inicial de la enfermedad, un número en aumento con el avance de la detección temprana </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/reto-organizar-vacaciones-paciente-alzheimer-132303877\" target=\"_blank\">Vacaciones con demencia: el reto de viajar con una persona diagnosticada de alzhéimer</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20180921/el-alzheimer-una-enfermedad-infradiagnosticada-7044857\" target=\"_blank\">El alzhéimer, una enfermedad infradiagnosticada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estabilidad y el fin de la judicialización: ¿Por qué para el Govern de Illa es clave que se haya avalado la amnistía?",
+    "link": "https://www.elperiodico.com/es/politica/20260717/amnistia-govern-salvador-illa-estabilidad-pedro-sanchez-desjudicializacion-132474707",
+    "pubDate": "2026-07-17 06:00:45",
+    "category": "",
+    "description": "<h2>Para el president de la Generalitat, la aplicación de la ley es un punto de inflexión tanto para la legislatura de Sánchez como para hacer 'tabula rasa' con los independentistas y dar carpetazo a los últimos vestigios del 'procés'</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260716/amnistia-salvador-illa-tjue-aval-aplicacion-justicia-europea-obligado-obstaculo-132485827\" target=\"_blank\">Illa exige la aplicación inmediata de la amnistía tras el aval europeo: \"Es de obligado cumplimiento, ya no hay ningún obstáculo\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260716/tjue-avala-amnistia-malversacion-132504280\" target=\"_blank\">La justicia europea avala la ley de amnistía y abre la puerta al regreso de Puigdemont</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Andrés Cuartero, jefe de psicología del SEM: \"En tentativas de suicidio, sentirse escuchado es un bálsamo muy potente\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260717/andres-cuartero-jefe-psicologia-sem-132478024",
+    "pubDate": "2026-07-17 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Debemos ser más conscientes de que presenciar un intento de suicidio tiene un impacto a lo largo del tiempo\"</h2><h2 class=\"item\">\"Acabamos de estrenar un programa de apoyo entre iguales, para psicólogos\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A 170 km/h por el túnel de San Gotardo: un conductor es vetado en Suiza tras una temeraria persecución",
+    "link": "https://www.elperiodico.com/es/motor/20260717/joven-detenido-170-km-h-san-gotardo-132436753",
+    "pubDate": "2026-07-17 06:00:43",
+    "category": "",
+    "description": "<h2>El joven alemán realizó 21 adelantamientos ilegales, dio positivo en drogas y triplicó el límite de la velocidad permitido</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Підсумки 16.07: Новий уряд і скандал з Федоровим",
+    "link": "https://ua.korrespondent.net/ukraine/4894793-pidsumky-1607-novyi-uriad-i-skandal-z-fedorovym",
+    "pubDate": "2026-07-17 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496940.jpg\">Рада призначила новий уряд; Скандальне звільнення Федорова сколихнуло країну. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TVyMAS Viernes 17",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-viernes-17/132518118.shtml",
+    "pubDate": "2026-07-17 05:55:08",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump advierte sobre los peligros electorales en Estados Unidos y, sin pruebas, apunta contra China por su derrota en las urnas en 2020",
+    "link": "https://www.elperiodico.com/es/internacional/20260717/trump-advierte-peligros-electorales-estados-132535714",
+    "pubDate": "2026-07-17 05:41:18",
+    "category": "",
+    "description": "<h2>\"Sin elecciones libres y justas, pierdes el país\", aseguró el magnate a pocos meses de los comicios de medio término, que, según sondeos, no le son favorables</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo. Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260717/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-07-17 05:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Directo guerra Ucrania - Rusia, última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260717/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-07-17 05:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo: última hora del incendio en Orés, que arrasa ya más de 7.600 hectáreas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-07-17 05:29:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/muertos-incendio-almeria-los-gallardos-132310835\">Mueren al menos 13 personas en el incendio forestal de Los Gallardos (Almería)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/personas-confinadas-incendios-cataluna-bomberos-alertan-algunas-no-hacen-caso-132292635\">Más de 84.000 personas han tenido que confinarse por incendios en Catalunya en menos de una semana: \"Algunas no hacen caso y deciden huir por su cuenta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп заявив про \"жахливу ситуацію з безпекою виборів\" у США",
+    "link": "https://ua.korrespondent.net/world/4894888-tramp-zaiavyv-pro-zhakhlyvu-sytuatsiui-z-bezpekoui-vyboriv-u-ssha",
+    "pubDate": "2026-07-17 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496898.jpg\">Глава Білого дому у телезверненні до американців пообіцяв опублікувати документи, яккі свідчать про начебто критичні вразливості системи, якими можуть користуватися вороги США, серед яких названа Росія.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У РФ дефіцит бюджету може перевищити трильйон рублів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4894886-u-rf-defitsyt-buidzhetu-mozhe-perevyschyty-trylion-rubliv-zmi",
+    "pubDate": "2026-07-17 04:56:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496877.jpeg\">У першому півріччі дефіцит бюджету Росії становив 5,73 трлн рублів, або 2,5 % ВВП, що в 1,7 рази перевищує показник за аналогічний період минулого року.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "США заборонять в'їзд ультралівим радикалам",
+    "link": "https://ua.korrespondent.net/world/4894884-ssha-zaboroniat-vizd-ultralivym-radykalam",
+    "pubDate": "2026-07-17 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496836.jpg\">Ообмеження покликані захистити національну безпеку США і запроваджені на підтримку президентського меморандуму з національної безпеки.",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "РФ скинула на Суми п'ять КАБів",
+    "link": "https://ua.korrespondent.net/ukraine/4894882-rf-skynula-na-sumy-piat-kabiv",
+    "pubDate": "2026-07-17 03:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496815.jpg\">Влучання по цивільній інфраструктурі зафіксували в кількох частинах міста. Внаслідок атаки була пошкоджена нежитлова багатоповерхівка. У будівлях навколо вибиті сотні вікон.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Латвія посилила захист дамби через російську загрозу",
+    "link": "https://ua.korrespondent.net/world/4894880-latviia-posylyla-zakhyst-damby-cherez-rosiisku-zahrozu",
+    "pubDate": "2026-07-17 03:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496794.jpg\">За даними західної розвідки, РФ планує провокації та атаки на об'єкти інфраструктури в регіоні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "GRAVITEO abre sus puertas al público con el mejor deporte urbano y una potente oferta cultural en el Circuit de Barcelona-Catalunya",
     "link": "https://www.elperiodico.com/es/deportes/20260717/graviteo-abre-puertas-publico-mejor-132534722",
     "pubDate": "2026-07-17 02:59:04",
@@ -52,6 +331,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496629.jpg\">У CENTCOM розповіли про підтримку блокади Ірану, зорема в Оманській затоці, яка веде до Ормузької протоки.",
     "topic": "політика",
     "topic_match_probability": 65
+  },
+  {
+    "title": "Військові США висадилися на борт судна в Оманській затоці",
+    "link": "https://ua.korrespondent.net/world/4894870-viiskovi-ssha-vysadylysia-na-bort-sudna-v-omanskii-zatotsi",
+    "pubDate": "2026-07-17 00:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496629.jpg\">У CENTCOM розповіли про підтримку блокади Ірану, зорема в Оманській затоці, яка веде до Ормузької протоки.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Удар по Одесі: поранені діти",
