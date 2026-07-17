@@ -1,8 +1,24 @@
-# News for 2026-07-17 09:02
+# News for 2026-07-17 11:20
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+11:09 [В Одесі під час атаки загинула інструкторка УЧХ](https://ua.korrespondent.net/city/odessa/4894969-v-odesi-pid-chas-ataky-zahynula-instruktorka-uchkh)<br>
+11:09 [Зеленський призначив Качку представником України в ЄС](https://ua.korrespondent.net/ukraine/4894970-zelenskyi-pryznachyv-kachku-predstavnykom-ukrainy-v-yes)<br>
+11:08 [Криза пального: у Росії масово розпродують АЗС](https://ua.korrespondent.net/world/russia/4894968-kryza-palnoho-u-rosii-masovo-rozproduuit-azs)<br>
+10:51 [У Миколаєві "шахеди" атакували порт, є загиблі](https://ua.korrespondent.net/ukraine/4894962-u-mykolaievi-shakhedy-atakuvaly-port-ye-zahybli)<br>
+10:47 [Meta попереджатиме батьків про небезпечні запити дітей до ШІ](https://ua.korrespondent.net/business/companies/4894959-Meta-poperedzhatyme-batkiv-pro-nebezpechni-zapyty-ditei-do-shi)<br>
+10:37 [РФ вдарила по ринку в Херсоні: є загибла і поранені](https://ua.korrespondent.net/ukraine/4894957-rf-vdaryla-po-rynku-v-khersoni-ye-zahybla-i-poraneni)<br>
+10:34 [На Донеччині затримали "подвійного" агента РФ](https://ua.korrespondent.net/ukraine/4894955-na-donechchyni-zatrymaly-podviinoho-ahenta-rf)<br>
+10:20 [На Тернопільщині директора інтернату викрили на торгівлі людьми](https://ua.korrespondent.net/ukraine/4894951-na-ternopilschyni-dyrektora-internatu-vykryly-na-torhivli-luidmy)<br>
+10:11 [Укренерго назвало п’ять областей, де є відключення](https://ua.korrespondent.net/ukraine/4894948-ukrenerho-nazvalo-piat-oblastei-de-ye-vidkluichennia)<br>
+10:07 [Британія посилить військовий контингент у країні-сусідці РФ](https://ua.korrespondent.net/world/4894944-brytaniia-posylyt-viiskovyi-kontynhent-u-kraini-susidtsi-rf)<br>
+10:02 [Зеленський відреагував на чергову атаку Росії](https://ua.korrespondent.net/ukraine/4894940-zelenskyi-vidreahuvav-na-cherhovu-ataku-rosii)<br>
+09:56 [НАТО тисне на Грецію через ракети Patriot для України - ЗМІ](https://ua.korrespondent.net/world/4894936-nato-tysne-na-hretsiui-cherez-rakety-Patriot-dlia-ukrainy-zmi)<br>
+09:42 [Китай з Сі випередив США з Трампом за рівнем підтримки у світі - ЗМІ](https://ua.korrespondent.net/world/4894932-kytai-z-si-vyperedyv-ssha-z-trampom-za-rivnem-pidtrymky-u-sviti-zmi)<br>
+09:29 [Індія відмовила Росії у збільшенні постачань бензину](https://ua.korrespondent.net/world/russia/4894930-indiia-vidmovyla-rosii-u-zbilshenni-postachan-benzynu)<br>
+09:17 [Уражено 12 суден РФ у Чорному морі - "Мадяр"](https://ua.korrespondent.net/ukraine/4894926-urazheno-12-suden-rf-u-chornomu-mori-madiar)<br>
+09:05 [SpaceX перенесла запуск Starship: що сталося перед стартом](https://ua.korrespondent.net/business/companies/4894920-SpaceX-perenesla-zapusk-Starship-scho-stalosia-pered-startom)<br>
 08:44 [Як ФОП оптимізувати витрати в умовах фіскалізації](https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii)<br>
 08:38 [Ракетний удар РФ по Одесі: кількість жертв зросла](https://ua.korrespondent.net/city/odessa/4894915-raketnyi-udar-rf-po-odesi-kilkist-zhertv-zrosla)<br>
 08:26 [РФ обстріляла Харківщину: є жертви та десятки постраждалих](https://ua.korrespondent.net/city/kharkov/4894908-rf-obstriliala-kharkivschynu-ye-zhertvy-ta-desiatky-postrazhdalykh)<br>
@@ -11,6 +27,7 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 07:52 [Росія втрачає контроль над Кримом - The Economist](https://ua.korrespondent.net/world/russia/4894904-rosiia-vtrachaie-kontrol-nad-krymom-The-Economist)<br>
 07:34 [Генштаб виділив найінтенсивніші ділянки фронту](https://ua.korrespondent.net/ukraine/4894902-henshtab-vydilyv-naiintensyvnishi-dilianky-frontu)<br>
 07:17 [Росія атакувала житлові квартали Херсон: є жертва](https://ua.korrespondent.net/ukraine/4894899-rosiia-atakuvala-zhytlovi-kvartaly-kherson-ye-zhertva)<br>
+07:17 [Росія атакувала житлові квартали Херсона: є жертва](https://ua.korrespondent.net/ukraine/4894899-rosiia-atakuvala-zhytlovi-kvartaly-khersona-ye-zhertva)<br>
 06:53 [Іран атакував Бахрейн і Кувейт: у країнах активували ППО](https://ua.korrespondent.net/world/4894896-iran-atakuvav-bakhrein-i-kuveit-u-krainakh-aktyvuvaly-ppo)<br>
 06:36 [Доба на Запоріжжі: троє загиблих, серед поранених є діти](https://ua.korrespondent.net/city/zaporozhye/4894893-doba-na-zaporizhzhi-troie-zahyblykh-sered-poranenykh-ye-dity)<br>
 06:17 [Генштаб ЗСУ підрахував нові втрати ворожої армії](https://ua.korrespondent.net/ukraine/4894891-henshtab-zsu-pidrakhuvav-novi-vtraty-vorozhoi-armii)<br>
@@ -23,6 +40,15 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
 ## www.elperiodico.com
+11:15 [Los rincones de Manresa que ya están en la historia del cine](https://www.elperiodico.com/es/vida-y-estilo/20260717/manresa-lugares-que-visitar-historia-cine-television-dv-loc-108633214)<br>
+11:10 [Bea de Vicente, abogada penalista: "Saber el sueldo exacto de un compañero de trabajo podría vulnerar la ley de protección de datos"](https://www.elperiodico.com/es/economia/20260717/bea-vicente-abogada-penalista-saber-sueldo-companero-proteccion-datos-dv-et-132488216)<br>
+11:05 [El cuadro de George Washington que lleva 210 años en un palacio de Madrid: cruzó el Atlántico y jamás regresó a América](https://www.elperiodico.com/es/ocio-y-cultura/20260717/cuadro-george-washington-lleva-210-anos-palacio-madrid-cruzo-atlantico-132543774)<br>
+11:01 [Los promotores de la mezquita de Sevilla: "Jamás hemos hablado de prioridad musulmana"](https://www.elperiodico.com/es/sociedad/20260717/promotores-mezquita-sevilla-hemos-hablado-132543484)<br>
+10:51 [Si tienes 5.000 euros ahorrados, estos son los bancos que ya pagan hasta un 5% por tu dinero en España](https://www.elperiodico.com/es/economia/20260717/depositos-cuentas-remuneradas-bancos-vuelven-pagar-ahorro-dv-132541857)<br>
+10:46 [El fuego en Orés (Zaragoza) sigue activo y alcanza las 12.000 hectáreas afectadas](https://www.elperiodico.com/es/videos/sociedad/fuego-ores-zaragoza-sigue-activo/132542571.shtml)<br>
+10:13 [El nuevo sistema de entradas del Concurs de Castells de Tarragona registra más de 67.000 solicitudes en tres días](https://www.elperiodico.com/es/tarragona/20260717/nuevo-sistema-entradas-concurs-castells-132540115)<br>
+10:00 [Lucía Solla Sobral, en el videopódcast del suplemento ‘ABRIL’: “Hay hombres que me piden ayuda como maltratadores”](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260717/lucia-solla-sobral-videopodcast-suplemento-132434346)<br>
+09:43 [Confirmado por el Estatuto de los Trabajadores: si te pones malo durante las vacaciones tienes derecho a recuperar los días](https://www.elperiodico.com/es/economia/20260717/confirmado-estatuto-trabajadores-pones-malo-dv-132537976)<br>
 08:59 ["L'Albufera sería como un enfermo en la UCI que queremos pasar a planta"](https://www.elperiodico.com/es/sociedad/20260717/entrevista-director-parque-natural-lalbufera-132395091)<br>
 08:35 [La tarde en la que el fuego atrapó a los bomberos en Aragón: "El viento nos dejó sin salida: tuvimos que cruzar el frente de llamas"](https://www.elperiodico.com/es/sucesos/20260717/tarde-fuego-atrapo-bomberos-aragon-132537953)<br>
 08:35 [Los jóvenes de entre 16 y 25 años podrán acceder gratis a un kit para detectar si tienen alguna enfermedad de transmisión sexual](https://www.elperiodico.com/es/sociedad/20260717/kit-enfermedades-sexuales-cataluna-gratis-jovenes-deteccion-vih-gonorrea-clamidia-132513677)<br>
