@@ -1,8 +1,10 @@
-# News for 2026-07-17 18:52
+# News for 2026-07-17 19:55
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+19:45 [У Польщі поїзд зійшов з рейок: вагони впали в річку](https://ua.korrespondent.net/world/4895147-u-polschi-poizd-ziishov-z-reiok-vahony-vpaly-v-richku)<br>
+19:31 [Apple стала найдорожчою компанією світу, випередивши NVIDIA](https://ua.korrespondent.net/business/companies/4895141-Apple-stala-naidorozhchoui-kompaniieui-svitu-vyperedyvshy-NVIDIA)<br>
 18:37 [Податок на Google: цифрові гіганти сплатили до бюджету України 8,9 млрд](https://ua.korrespondent.net/business/financial/4895128-podatok-na-Google-tsyfrovi-hihanty-splatyly-do-buidzhetu-ukrainy-89-mlrd)<br>
 18:16 [Сирський розкрив, що відбувається в Куп'янську](https://ua.korrespondent.net/ukraine/4895122-syrskyi-rozkryv-scho-vidbuvaietsia-v-kupiansku)<br>
 17:49 [Енергоатом прокоментував загибель "головного інженера" ЗАЕС](https://ua.korrespondent.net/ukraine/4895116-enerhoatom-prokomentuvav-zahybel-holovnoho-inzhenera-zaes)<br>
@@ -69,6 +71,8 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
 ## as.com
+19:11 [Así está la plantilla del Madrid para la temporada 2026-27: Llull, en el aire](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/)<br>
+19:05 [La nueva era del Movistar Estudiantes sigue avanzando](https://as.com/baloncesto/mas_baloncesto/la-nueva-era-del-movistar-estudiantes-sigue-avanzando-f202607-n/)<br>
 18:06 [El Murcia denuncia a DeJulius](https://as.com/baloncesto/acb/el-murcia-denuncia-a-dejulius-f202607-n/)<br>
 17:16 [¡España, a semifinales!](https://as.com/baloncesto/mas_baloncesto/espana-a-semifinales-f202607-n/)<br>
 16:37 [Will Clyburn ficha por el Fenerbahçe](https://as.com/baloncesto/euroliga/will-clyburn-ficha-por-el-fenerbahce-f202607-n/)<br>
@@ -80,6 +84,9 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 09:35 [El ASVEL pasa de 59 a 24 millones: peligra el fichaje de Sylvain Francisco](https://as.com/baloncesto/el-asvel-pasa-de-59-a-24-millones-peligra-el-fichaje-de-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:44 [Los trastornos del sueño pueden cambiar tu cerebro](https://www.elperiodico.com/es/tendencias21/20260717/trastornos-sueno-cambiar-cerebro-132566294)<br>
+19:20 [Carlos Llull, técnico de climatización: "Recuerda esto cuando alguien te diga 'apaga el aire acondicionado, que consume muchísimo'"](https://www.elperiodico.com/es/economia/20260717/aire-acondicionado-consumo-noche-electricista-carlos-llull-dv-131815013)<br>
+19:12 [Un torneo de lucha libre entre robots humanoides se estrena en China](https://www.elperiodico.com/es/videos/sociedad/torneo-lucha-robots-china/132565255.shtml)<br>
 18:46 [La falta de vivienda expulsa de Ibiza a trabajadores y familias](https://www.elperiodico.com/es/sociedad/20260717/falta-vivienda-expulsa-ibiza-trabajadores-132466186)<br>
 18:36 [El periodista Fonsi Loaiza denuncia haber sufrido "una brutal agresión" en plena calle](https://www.elperiodico.com/es/sociedad/20260717/periodista-fonsi-loaiza-denuncia-haber-132563233)<br>
 18:15 [Encuentro de Leonor y Sofía con jóvenes con discapacidad](https://www.elperiodico.com/es/videos/sociedad/leonor-sofia-encuentro-jovenes-discapacidad/132562404.shtml)<br>
