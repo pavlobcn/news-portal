@@ -9,6 +9,393 @@
     "topic_match_probability": 95
   },
   {
+    "title": "La Comisión Europea propone dar más margen a los sectores más contaminantes para reducir sus emisiones",
+    "link": "https://www.elperiodico.com/es/economia/20260717/comision-europea-emisiones-carbono-industria-empresas-contaminacion-132549396",
+    "pubDate": "2026-07-17 13:00:38",
+    "category": "",
+    "description": "<h2>La reforma del mercado de emisiones de carbono planteada por Bruselas amplía los permisos gratis para las empresas a cambio de planes de inversión en descarbonización</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Carla Martínez, atleta de Graviteo: \"Empecé a escalar con mis padres y fui creando mi propio camino\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/carla-martinez-atleta-graviteo-empece-132508080",
+    "pubDate": "2026-07-17 13:00:23",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260712/leslie-romero-escaladora-olimpica-paris-graviteo-132279371\">Leslie Romero, escaladora olímpica y atleta de GRAVITEO: \"La escalada ha sido mi vía de escape desde los seis años\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Atlético le cierra la puerta del Barça a Julián Álvarez: \"No aceptaremos 100 millones, ni 150, ni 200\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/atletico-cierra-puerta-barca-julian-alvarez-132548427",
+    "pubDate": "2026-07-17 12:58:40",
+    "category": "",
+    "description": "<h2>\"Se lo hemos manifestado al jugador, al agente y al presidente del Barça\", afirma Miguel Ángel Marín en declaraciones a los medios del club</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rusia inhabilita como candidato al diputado al opositor Borís Nadezhdin por extremismo",
+    "link": "https://www.elperiodico.com/es/internacional/20260717/rusia-inhabilita-candidato-diputado-opositor-boris-nadezhdin-legislativas-132549039",
+    "pubDate": "2026-07-17 12:56:23",
+    "category": "",
+    "description": "<h2>El veterano político,  a favor de la campaña militar en Ucrania y se opone al bloqueo de internet, fue acusado por colgar una imagen del icónico opositor Navalni en las redes sociales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран уперше вдарив по Сирії від початку війни в регіоні",
+    "link": "https://ua.korrespondent.net/world/4895014-iran-upershe-vdaryv-po-syrii-vid-pochatku-viiny-v-rehioni",
+    "pubDate": "2026-07-17 12:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497485.jpg\">Іран уперше від початку нинішньої регіональної ескалації завдав прямого удару по території Сирії. Атаку здійснили у відповідь на загибель іранських військових.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Guardia Civil investiga a tres hombres por provocar incendios forestales en Castellón",
+    "link": "https://www.elperiodico.com/es/sucesos/20260717/guardia-civil-investiga-tres-hombres-132548919",
+    "pubDate": "2026-07-17 12:54:24",
+    "category": "",
+    "description": "<h2>Las investigaciones del SEPRONA se centran en fuegos registrados en Soneja, Atzeneta del Maestrat y Sant Mateu dentro del Plan Especial de Prevención y Actuación en Incendios Forestales </h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Ямаль і Мессі численними фінтами підкорили ЧС-2026",
+    "link": "https://ua.korrespondent.net/sport/football/4895012-yamal-i-messi-chyslennymy-fintamy-pidkoryly-chs-2026",
+    "pubDate": "2026-07-17 12:51:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497453.jpg\">Іспанський та аргентинський футболісти стали єдиними, хто надзвичайно успішно обігрував своїх суперників на чемпіонаті світу 2026 року. Тепер їм належить провести очну зустріч.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Силове затримання біля ТЦК у Полтаві: поліцейський зламав руку чоловіку",
+    "link": "https://ua.korrespondent.net/ukraine/4895008-sylove-zatrymannia-bilia-ttsk-u-poltavi-politseiskyi-zlamav-ruku-choloviku",
+    "pubDate": "2026-07-17 12:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497475.jpeg\">У Полтаві правоохоронцю повідомили про підозру після інциденту під час доставки чоловіка до ТЦК. За даними ДБР, потерпілий отримав перелом руки через застосування сили.",
+    "topic": "політика",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Кокаїн у дитячому наплічнику: в Одесі засудили наркоторговця",
+    "link": "https://ua.korrespondent.net/city/odessa/4895010-kokain-u-dytiachomu-naplichnyku-v-odesi-zasudyly-narkotorhovtsia",
+    "pubDate": "2026-07-17 12:48:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497480.jpeg\">Одесит використовував власну семирічну доньку для перевезення наркотиків.",
+    "topic": "марихуана",
+    "topic_match_probability": 20
+  },
+  {
+    "title": "VÍDEO I Las obras del Pont del Petroli se harán desde el mar: así han trasladado la enorme plataforma donde se ubica la grúa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260717/instalan-gran-plataforma-marina-arreglara-pont-del-petroli-badalona-132541583",
+    "pubDate": "2026-07-17 12:47:20",
+    "category": "",
+    "description": "<h2>Una estructura de 450 metros cuadrados de superficie ha recorrido el kilómetro y medio que separa el Pont de Badalona del pantalán, partido en dos desde el temporal Gloria de 2020</h2><h2>INICIO DE LAS OBRAS | <a href=\"https://www.elperiodico.com/es/barcelona/20260513/esperadas-obras-pont-petroli-badalona-comienzan-junio-recuperar-patrimonio-sentimiental-130168392\">Las esperadas obras del Pont del Petroli de Badalona comenzarán en junio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рейтинг Путіна оновив мінімум з початку війни",
+    "link": "https://ua.korrespondent.net/world/russia/4895006-reitynh-putina-onovyv-minimum-z-pochatku-viiny",
+    "pubDate": "2026-07-17 12:42:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497478.jpg\">Тепер Володимир Путін випереджає прем'єр-міністра Михайла Мішустіна за рівнем несхвалення більш ніж у півтора рази.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Mundial que no construyó estadios pero sí disparó la factura climática: así cuesta 14.000 millones el torneo de EEUU, México y Canadá",
+    "link": "https://www.elperiodico.com/es/economia/20260717/mundial-2026-impacto-economico-factura-climatica-dv-132546835",
+    "pubDate": "2026-07-17 12:39:47",
+    "category": "",
+    "description": "<h2>El primer Mundial de 48 selecciones promete ingresos récord para la FIFA y un fuerte impacto turístico, aunque los expertos recuerdan que buena parte de los costes recaen sobre las ciudades anfitrionas </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Побита у ТЦК адвокатка отримала інвалідність і звернулася до ЄСПЛ",
+    "link": "https://ua.korrespondent.net/ukraine/4895004-pobyta-u-ttsk-advokatka-otrymala-invalidnist-i-zvernulasia-do-yespl",
+    "pubDate": "2026-07-17 12:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497474.jpg\">За понад рік розслідування особу, яка завдала тілесних ушкоджень жінці, так і не встановили.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Agustín Ubal vuelve al Barça: \"Desde que me fui, siempre he soñado con este momento\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/agustin-ubal-vuelve-barca-he-132547470",
+    "pubDate": "2026-07-17 12:38:06",
+    "category": "",
+    "description": "<h2>El joven llegó a la cantera azulgrana con 16 años y regresa tras acumular experiencia en cinco equipos de la Liga Endesa</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así es la enorme mansión que Erling Haaland tiene en una de las urbanizaciones más exclusivas de Marbella: 2.000 metros cuadrados con gimnasio, piscina y las mejores vistas de la costa",
+    "link": "https://www.elperiodico.com/es/gente/20260717/enorme-mansion-erling-haaland-marbella-132335183",
+    "pubDate": "2026-07-17 12:36:04",
+    "category": "",
+    "description": "<h2>El futbolista tiene en la Costa del Sol una lujosa propiedad con vistas al Mediterráneo valorada en 6 millones de euros</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 25
+  },
+  {
+    "title": "McLaren 788HS, la despedida más radical de la generación 700",
+    "link": "https://www.elperiodico.com/es/motor/20260717/mclaren-788hs-spider-coupe-edicion-limitada-132468443",
+    "pubDate": "2026-07-17 12:34:13",
+    "category": "",
+    "description": "<h2>Limitado a 200 unidades entre Coupé y Spider, combina un V8 biturbo de 788 CV, 1.265 kilos y un nuevo paquete aerodinámico de carbono</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Síndica urge a garantizar las colonias escolares y reclama medidas para proteger los derechos de alumnos y docentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/sindic-greuges-garantizar-colonias-escolares-cataluna-curso-26-27-132543859",
+    "pubDate": "2026-07-17 12:31:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La institución mantiene que la realización de estas salidas debe regirse \"únicamente\" por criterios pedagógicos y por las necesidades del alumnado, y no por otras circunstancias como los procesos de negociación colectiva o conflictos laborales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260417/anna-rodriguez-familias-escuela-suspension-colonias-protesta-profesores-cataluna-129087066\">Las familias, contra la estrategia de los profesores de suspender colonias: \"Para muchos niños son las únicas salidas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"No falla\": los elogios al mejor restaurante de Sant Boi de Llobregat, según Tripadvisor",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260717/mejor-restaurante-sant-boi-llobregat-elogios-dv-loc-113276693",
+    "pubDate": "2026-07-17 12:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sant-boi/20241227/sant-boi-de-llobregat-mejores-restaurantes-tripadvisor-dv-loc-111373082\" >Los 5 mejores restaurantes de Sant Boi de Llobregat según Tripadvisor</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230322/restaurante-marimorena-sant-boi-de-llobregat-por-pau-arenos-84752017\" >Restaurante Marimorena (Sant Boi): este arroz es la estrella del polígono</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підполковник допоміг співмешканці отримати 1,3 млн \"бойових\"",
+    "link": "https://ua.korrespondent.net/ukraine/4895001-pidpolkovnyk-dopomih-spivmeshkantsi-otrymaty-13-mln-boiovykh",
+    "pubDate": "2026-07-17 12:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497446.jpeg\">Жінка з російським паспортом майже три роки отримувала грошове забезпечення та бойові виплати, хоча більшість часу перебувала вдома.",
+    "topic": "політика",
+    "topic_match_probability": 30
+  },
+  {
+    "title": "La UE se propone electrificar el 46% de la economía europea para 2040",
+    "link": "https://www.elperiodico.com/es/economia/20260717/ue-electrificar-economia-bajar-impuestos-electricidad-europa-132547539",
+    "pubDate": "2026-07-17 12:27:48",
+    "category": "",
+    "description": "<h2>La Comisión Europea plantea que los impuestos a la electricidad sean más bajos que a los combustibles fósiles para reducir costes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El inesperado protagonista del Mundial: Keyne, el hermano de Lamine Yamal, junto a Penélope Cruz",
+    "link": "https://www.elperiodico.com/es/gente/20260717/keyne-lamal-hermano-yamal-foto-penelope-cruz-protagonista-mundial-espana-dv-132525559",
+    "pubDate": "2026-07-17 12:26:40",
+    "category": "",
+    "description": "<h2>El niño, de tan solo 3 años, se ha viralizado en las redes sociales por sus caras y reacciones desde la grada</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260711/keyne-hermano-lamine-yamal-protagonista-espana-mundial-dv-video-132354857\">Keyne, el hermano de Lamine Yamal, protagonista de nuevo en el España-Bélgica: \"Me dijo que iba a sacar la lengua, le he visto en la pantalla y me ha hecho mucha gracia\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260715/keyne-hermano-lamine-yamal-rompe-llorar-espana-francia-video-dv-132465397\">Keyne, hermano de Lamine Yamal, rompe a llorar durante la semifinal entre España y Francia</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Вийшов трейлер бойовика Перевізник",
+    "link": "https://ua.korrespondent.net/showbiz/cinema/4894999-vyishov-treiler-boiovyka-pereviznyk",
+    "pubDate": "2026-07-17 12:17:00",
+    "category": "Кіно новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497445.jpg\">Новий комедійний екшн розповість про смертельно небезпечну місію з доставки донорського органа, від якої залежить життя семирічної дівчинки.",
+    "topic": "телебачення",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Traslado de la plataforma que va a a arreglar el pont del petroli en Badalona",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/traslado-plataforma-arreglar-pont-petroli/132546767.shtml",
+    "pubDate": "2026-07-17 12:16:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos vuelven a detener al profesor de Torroella acusado de tocamientos tras ocho nuevas denuncias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/mossos-vuelven-detener-profesor-torroella-nuevas-denuncias-132544676",
+    "pubDate": "2026-07-17 12:14:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El hombre, de 74 años, ha pasado otra noche en el calabozo y este viernes ha sido trasladado a los juzgados de La Bisbal d'Empordà</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260630/cinco-detenidos-girona-pagar-menores-sexo-131971134\">Cinco detenidos en Girona por pagar a menores para tener sexo, uno de ellos controlador de un local de ocio nocturno</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aena invertirá 153 millones para transformar y \"coser\" la T2 del aeropuerto de Barcelona-El Prat",
+    "link": "https://www.elperiodico.com/es/economia/20260717/aena-invertira-153-millones-transformar-terminal-t2-aeropuerto-barcelona-el-prat-coser-132544827",
+    "pubDate": "2026-07-17 12:11:55",
+    "category": "",
+    "description": "<h2>La remodelación integral renovará de arriba abajo una terminal por la que ya pasan más de 20 millones de pasajeros al año, reabrirá el módulo A y reorganizará los accesos sin aumentar la capacidad aérea</h2><h2>Las obras se ejecutarán hasta 2031, mantendrán la actividad durante toda la intervención e incorporarán nuevos controles de seguridad, más intermodalidad, espacios de descanso y un gran eje paisajístico mediterráneo</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260305/aena-licita-reforma-terminal-t2-aeropuerto-barcelona-el-prat-127544564\" target=\"_blank\">Aena licita la reforma de la terminal T2 del aeropuerto de Barcelona-El Prat por 65,2 millones de euros</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 25
+  },
+  {
+    "title": "Спека до 31° та локальні грози очікуються в Україні на вихідних",
+    "link": "https://ua.korrespondent.net/ukraine/4894995-speka-do-31-ta-lokalni-hrozy-ochikuuitsia-v-ukraini-na-vykhidnykh",
+    "pubDate": "2026-07-17 12:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497423.jpg\">У більшості областей України буде сухо, однак на заході обіцяють дощі, грози, град і шквали до 20 м/с.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump, Milei, Sánchez, Begoña Gómez: quién irá y quién no irá a la final del Mundial entre España y Argentina",
+    "link": "https://www.elperiodico.com/es/internacional/20260717/trump-milei-sanchez-ira-final-mundial-futbol-espana-argentina-132541514",
+    "pubDate": "2026-07-17 12:10:01",
+    "category": "",
+    "description": "<h2>El palco del MetLife Stadium de Nueva York tendrá un alto voltaje diplomático con presencias de colores políticos antagónicos y llamativas ausencias</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Путін наказав посилити дроновий терор України - ГУР",
+    "link": "https://ua.korrespondent.net/world/russia/4894993-putin-nakazav-posylyty-dronovyi-teror-ukrainy-hur",
+    "pubDate": "2026-07-17 12:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497422.jpg\">Виконавцями цих наказів визначені центр перспективних безпілотних систем Рубікон та зовнішні пілоти лінійних підрозділів окупаційної армії.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Дмитро Коляденко зізнався, що 12 років повертав Ірині Білик борг",
+    "link": "https://ua.korrespondent.net/lifestyle/4894997-dmytro-koliadenko-ziznavsia-scho-12-rokiv-povertav-iryni-bilyk-borh",
+    "pubDate": "2026-07-17 12:09:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497424.jpg\">Шоумен розповів, що поставив крапку в багаторічній історії з боргом перед колишньою коханою, продавши квартиру.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Barça obtiene 105 millones de euros mediante una emisión de bonos",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/barca-obtiene-105-millones-euros-132542294",
+    "pubDate": "2026-07-17 12:04:05",
+    "category": "",
+    "description": "<h2>El club tendrá que retornar el dinero en octubre de 2036 con un interés del 5,14%</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мессі зрівнявся асистами з легендарним Пеле",
+    "link": "https://ua.korrespondent.net/sport/football/4894991-messi-zrivniavsia-asystamy-z-lehendarnym-pele",
+    "pubDate": "2026-07-17 12:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497366.jpg\">Ключовий плеймейкер збірної Аргентини чотири рази допоміг своїй команді на чемпіонаті світу-2026 гольовими передачами в рамках плейофу, що порівнянно з рекордом, установленим колись легендою збірної Бразилії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ відмовилася від турецьких персиків після заяв Анкари",
+    "link": "https://ua.korrespondent.net/world/4894989-rf-vidmovylasia-vid-turetskykh-persykiv-pislia-zaiav-ankary",
+    "pubDate": "2026-07-17 11:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497400.jpg\">Рішення Москви ухвалили після заяв Хакана Фідана про готовність Туреччини долучитися до гарантій безпеки для України.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Росіяни атакують об'єкт газовидобутку на Харківщині",
+    "link": "https://ua.korrespondent.net/ukraine/4894986-rosiiany-atakuuit-obiekt-hazovydobutku-na-kharkivschyni",
+    "pubDate": "2026-07-17 11:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497401.jpg\">Ніхто з працівників не постраждав. Але через загрозу повторних ударів поки що неможливо визначити ступінь і масштаб руйнувань.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mala nota a la justicia europea",
+    "link": "https://www.elperiodico.com/es/opinion/20260717/mala-nota-justicia-europea-132545062",
+    "pubDate": "2026-07-17 11:49:46",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Від Авігеї до Ліама: українці частіше дають дітям незвичайні імена",
+    "link": "https://ua.korrespondent.net/ukraine/4894979-vid-avihei-do-liama-ukraintsi-chastishe-dauit-ditiam-nezvychaini-imena",
+    "pubDate": "2026-07-17 11:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497368.jpg\">Українські батьки дедалі частіше шукають для дітей особливі імена. У першому півріччі 2026 року в Україні реєстрували не лише популярні, а й рідкісні, подвійні та старовинні імена.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fuego se aproxima a Uncastillo, en un incendio que ya ha arrasado con 6.000 hectáreas en las Cinco Villas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/fuego-aproxima-uncastillo-incendio-arrasado/132545407.shtml",
+    "pubDate": "2026-07-17 11:42:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los bomberos trabajan en sostener el fuego, ya en las piscinas de Uncastillo.",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/bomberos-sostener-fuego-piscinas-uncastillo/132545390.shtml",
+    "pubDate": "2026-07-17 11:42:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Directo | El DAO de la Guardia Civil en el Senado: \"No he pensado en absoluto en dimitir\"",
+    "link": "https://www.elperiodico.com/es/politica/20260717/dao-guardia-civil-senado-no-dimitir-uco-leire-diez-132545141",
+    "pubDate": "2026-07-17 11:39:32",
+    "category": "",
+    "description": "<h2>El teniente general Manuel Llamas relata que Marlaska le llamó por la filtración de la dirección de <em>email </em>de Begoña Gómez y que la directora Mercedes González le confirmó que se había visto con Leire Díez</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Курс гривні зміцнюється наприкінці тижня",
+    "link": "https://ua.korrespondent.net/business/financial/4894978-kurs-hryvni-zmitsnuiietsia-naprykintsi-tyzhnia",
+    "pubDate": "2026-07-17 11:38:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497369.jpg\">Середній курс продажу долара впав до 44,70 гривні, а курс продажу євро перебуває на рівні 51,20 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Заблоковано сім каналів продажу \"трофейної\" зброї - СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4894983-zablokovano-sim-kanaliv-prodazhu-trofeinoi-zbroi-sbu",
+    "pubDate": "2026-07-17 11:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497367.jpg\">Серед вилученого нелегального озброєння - понад 1000 кг вибухових речовин, російські автомати АК-12, гранати та боєприпаси різного калібру.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Служили ворогу: десять бойовиків армії РФ отримали вироки",
+    "link": "https://ua.korrespondent.net/ukraine/4894977-sluzhyly-vorohu-desiat-boiovykiv-armii-rf-otrymaly-vyroky",
+    "pubDate": "2026-07-17 11:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497370.jpg\">Уродженців Донецької, Луганської областей та Криму, які добровільно приєдналися до окупаційних військ РФ і брали участь у бойових діях проти Сил оборони України, визнали винними у державній зраді та колабораційній діяльності.",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Буданов обговорив з главою МЗС Туреччини завершення війни",
+    "link": "https://ua.korrespondent.net/ukraine/4894975-budanov-obhovoryv-z-hlavoui-mzs-turechchyny-zavershennia-viiny",
+    "pubDate": "2026-07-17 11:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497345.jpg\">Міністр закордонних справ Туреччини розповів про посередницькі ініціативи Анкари щодо досягнення сталого миру.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "No solo con Lamine Yamal: Messi también se fotografió con otros internacionales del Barça cuando eran niños",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/lamine-yamal-messi-fotografio-internacionales-barca-ninos-dv-132542918",
+    "pubDate": "2026-07-17 11:20:37",
+    "category": "",
+    "description": "<h2>Tras vestir la camiseta azulgrana durante dos décadas, muchos otros futbolistas tienen imágenes con él de pequeños</h2><h2><a href=\"https://www.elperiodico.com/es/tele/20260717/jimmy-fallon-ironiza-teoria-conspirativa-foto-messi-lamine-yamal-final-mundial-dv-132541304\" target=\"_blank\">Jimmy Fallon ironiza con las teorías conspirativas por la imagen de Messi y Lamine Yamal: \"¡Ahí lo tienen! La final del Mundial está decidida\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260717/origen-foto-viral-messi-banando-lamine-yamal-132521305\" target=\"_blank\">El origen de la foto de Messi y Lamine de SPORT que se ha vuelto viral antes de la final del Mundial entre España y Argentina</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "DIRECTO | El DAO de la Guardia Civil comparece en la comisión de investigación del caso Koldo",
     "link": "https://www.elperiodico.com/es/videos/politica/directo-dao-guardia-civil-comparece-caso-koldo/132544163.shtml",
     "pubDate": "2026-07-17 11:15:22",
@@ -214,6 +601,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Eurostars Grand Cayacoa: el refugio caribeño de tus sueños",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260717/eurostars-grand-cayacoa-refugio-caribeno-bc-132542534",
+    "pubDate": "2026-07-17 10:41:26",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 25
   },
   {
     "title": "РФ вдарила по ринку в Херсоні: є загибла і поранені",
