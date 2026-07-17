@@ -1,8 +1,18 @@
-# News for 2026-07-17 06:30
+# News for 2026-07-17 09:02
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+08:44 [Як ФОП оптимізувати витрати в умовах фіскалізації](https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii)<br>
+08:38 [Ракетний удар РФ по Одесі: кількість жертв зросла](https://ua.korrespondent.net/city/odessa/4894915-raketnyi-udar-rf-po-odesi-kilkist-zhertv-zrosla)<br>
+08:26 [РФ обстріляла Харківщину: є жертви та десятки постраждалих](https://ua.korrespondent.net/city/kharkov/4894908-rf-obstriliala-kharkivschynu-ye-zhertvy-ta-desiatky-postrazhdalykh)<br>
+08:17 [Комбінована атака РФ: як відпрацювали сили ППО](https://ua.korrespondent.net/ukraine/4894911-kombinovana-ataka-rf-yak-vidpratsuivaly-syly-ppo)<br>
+08:11 [На Дніпропетровщині росіяни пошкодили підприємства і склад](https://ua.korrespondent.net/city/dnepr/4894906-na-dnipropetrovschyni-rosiiany-poshkodyly-pidpryiemstva-i-sklad)<br>
+07:52 [Росія втрачає контроль над Кримом - The Economist](https://ua.korrespondent.net/world/russia/4894904-rosiia-vtrachaie-kontrol-nad-krymom-The-Economist)<br>
+07:34 [Генштаб виділив найінтенсивніші ділянки фронту](https://ua.korrespondent.net/ukraine/4894902-henshtab-vydilyv-naiintensyvnishi-dilianky-frontu)<br>
+07:17 [Росія атакувала житлові квартали Херсон: є жертва](https://ua.korrespondent.net/ukraine/4894899-rosiia-atakuvala-zhytlovi-kvartaly-kherson-ye-zhertva)<br>
+06:53 [Іран атакував Бахрейн і Кувейт: у країнах активували ППО](https://ua.korrespondent.net/world/4894896-iran-atakuvav-bakhrein-i-kuveit-u-krainakh-aktyvuvaly-ppo)<br>
+06:36 [Доба на Запоріжжі: троє загиблих, серед поранених є діти](https://ua.korrespondent.net/city/zaporozhye/4894893-doba-na-zaporizhzhi-troie-zahyblykh-sered-poranenykh-ye-dity)<br>
 06:17 [Генштаб ЗСУ підрахував нові втрати ворожої армії](https://ua.korrespondent.net/ukraine/4894891-henshtab-zsu-pidrakhuvav-novi-vtraty-vorozhoi-armii)<br>
 05:27 [Трамп заявив про "жахливу ситуацію з безпекою виборів" у США](https://ua.korrespondent.net/world/4894888-tramp-zaiavyv-pro-zhakhlyvu-sytuatsiui-z-bezpekoui-vyboriv-u-ssha)<br>
 03:50 [РФ скинула на Суми п'ять КАБів](https://ua.korrespondent.net/ukraine/4894882-rf-skynula-na-sumy-piat-kabiv)<br>
@@ -13,6 +23,12 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
 ## www.elperiodico.com
+08:59 ["L'Albufera sería como un enfermo en la UCI que queremos pasar a planta"](https://www.elperiodico.com/es/sociedad/20260717/entrevista-director-parque-natural-lalbufera-132395091)<br>
+08:35 [La tarde en la que el fuego atrapó a los bomberos en Aragón: "El viento nos dejó sin salida: tuvimos que cruzar el frente de llamas"](https://www.elperiodico.com/es/sucesos/20260717/tarde-fuego-atrapo-bomberos-aragon-132537953)<br>
+08:35 [Los jóvenes de entre 16 y 25 años podrán acceder gratis a un kit para detectar si tienen alguna enfermedad de transmisión sexual](https://www.elperiodico.com/es/sociedad/20260717/kit-enfermedades-sexuales-cataluna-gratis-jovenes-deteccion-vih-gonorrea-clamidia-132513677)<br>
+08:00 [Bibi, peluquera, sobre cómo conseguir el rubio perfecto: "La mayoría cree que el error está al elegir el matiz, pero créeme que está justo antes de empezar"](https://www.elperiodico.com/es/vida-y-estilo/20260717/bibi-peluquera-rubio-perfecto-dv-132522418)<br>
+07:15 [Cuélate en la piscina de tu vecino: ‘apps’ para alquilar por horas piscinas de particulares](https://www.elperiodico.com/es/que-hacer/planes/20260717/cuelate-piscina-vecino-apps-alquilar-132264268)<br>
+07:06 [Corte de la L1 del metro de Barcelona:  no funciona entre Florida y Plaça de Sants desde este viernes por obras](https://www.elperiodico.com/es/barcelona/hospitalet/20260717/catalunya-l1-metro-barcelona-afectada-cinco-estaciones-obras-verano-132483941)<br>
 06:01 [Todo lo que nos jugamos en verano](https://www.elperiodico.com/es/sociedad/20260717/jugamos-verano-casals-dos-semanas-compromiso-govern-cataluna-parlament-132529972)<br>
 06:01 [Baterías y 'marcapasos' en la red eléctrica, el plan de Lituania para evitar un apagón como el de la Península Ibérica](https://www.elperiodico.com/es/economia/20260717/baterias-marcapasos-red-electrica-plan-lituania-evitar-apagon-peninsula-iberica-132526909)<br>
 06:01 [La Unión Europea aspira a financiar reparaciones de emergencia en las interconexiones eléctricas](https://www.elperiodico.com/es/economia/20260717/union-europea-aspira-financiar-reparaciones-emergencia-interconexiones-electricas-paquete-redes-132526565)<br>
