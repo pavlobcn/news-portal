@@ -1,8 +1,14 @@
-# News for 2026-07-17 16:11
+# News for 2026-07-17 17:42
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+17:26 [Для ЗСУ за пів року законтрактували безпілотників на 333 млрд](https://ua.korrespondent.net/ukraine/4895113-dlia-zsu-za-piv-roku-zakontraktuvaly-bezpilotnykiv-na-333-mlrd)<br>
+17:19 [ЗСУ отримали нового мисливця за дронами](https://ua.korrespondent.net/ukraine/4895109-zsu-otrymaly-novoho-myslyvtsia-za-dronamy)<br>
+17:14 [У Данії невідомий відкрив стрілянину по поліції: троє поранених](https://ua.korrespondent.net/world/4895105-u-danii-nevidomyi-vidkryv-strilianynu-po-politsii-troie-poranenykh)<br>
+16:52 [В Орєшніку знайшли лише російські та білоруські компоненти](https://ua.korrespondent.net/ukraine/4895098-v-orieshniku-znaishly-lyshe-rosiiski-ta-biloruski-komponenty)<br>
+16:35 [Сили оборони уразили нафтові об'єкти і кораблі РФ](https://ua.korrespondent.net/ukraine/4895095-syly-oborony-urazyly-naftovi-obiekty-i-korabli-rf)<br>
+16:12 [Померла перша ірландка, яка отримала Оскар: ким була зірка Сам удома](https://ua.korrespondent.net/lifestyle/4895091-pomerla-persha-irlandka-yaka-otrymala-oskar-kym-bula-zirka-sam-udoma)<br>
 15:10 [Росіяни знову атакували Одесу: є загиблий](https://ua.korrespondent.net/city/odessa/4895066-rosiiany-znovu-atakuvaly-odesu-ye-zahyblyi)<br>
 15:08 [В Україні розпочалися додаткові сесії НМТ: що потрібно знати](https://ua.korrespondent.net/ukraine/4895065-v-ukraini-rozpochalysia-dodatkovi-sesii-nmt-scho-potribno-znaty)<br>
 14:59 [Російські церкви в Європі ховаються за українською символікою](https://ua.korrespondent.net/world/4895062-rosiiski-tserkvy-v-yevropi-khovauitsia-za-ukrainskoui-symvolikoui)<br>
@@ -59,6 +65,8 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
 ## as.com
+17:16 [¡España, a semifinales!](https://as.com/baloncesto/mas_baloncesto/espana-a-semifinales-f202607-n/)<br>
+16:37 [Will Clyburn ficha por el Fenerbahçe](https://as.com/baloncesto/euroliga/will-clyburn-ficha-por-el-fenerbahce-f202607-n/)<br>
 15:09 [El Baskonia ficha a Chris Duarte, procedente del Unicaja](https://as.com/baloncesto/el-baskonia-ficha-a-chris-duarte-procedente-del-unicaja-f202607-n/)<br>
 14:45 [Oficial: el Madrid ficha a Luwawu-Cabarrot](https://as.com/baloncesto/euroliga/oficial-el-madrid-ficha-a-luwawu-cabarrot-f202607-n/)<br>
 13:44 [Óscar Castañeda, nuevo vicepresidente de la FEB](https://as.com/baloncesto/mas_baloncesto/oscar-castaneda-nuevo-vicepresidente-de-la-feb-f202607-n/)<br>
@@ -67,6 +75,15 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 09:35 [El ASVEL pasa de 59 a 24 millones: peligra el fichaje de Sylvain Francisco](https://as.com/baloncesto/el-asvel-pasa-de-59-a-24-millones-peligra-el-fichaje-de-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:41 [Kira Miró y Salva Reina protagonizan 'Tres de más' y reflexionan sobre conciliación laboral: "Hay que mejorar"](https://www.elperiodico.com/es/gente/20260717/kira-miro-salva-reina-protagonizan-132560794)<br>
+17:38 [Eva Orúe, "Caballera" de las Artes y Letras francesas, recibe el apoyo del mundo literario tras su despido como directora de la Feria del Libro de Madrid](https://www.elperiodico.com/es/ocio-y-cultura/20260717/eva-orue-caballera-artes-letras-132560887)<br>
+17:32 [Alana S. Portero, Bernardo Atxaga y Sandra Barquinero, protagonistas de España como invitada de honor a la Bienal del Libro de São Paulo](https://www.elperiodico.com/es/ocio-y-cultura/20260717/alana-s-portero-bernardo-atxaga-132560545)<br>
+17:32 [Ángela González, psicóloga experta en familias: “Pese a que sea buena persona, no te están amando como necesitas”](https://www.elperiodico.com/es/salud/20260717/alicia-gonzalez-psicologa-punto-muerto-relaciones-duda-emocional-dv-130040696)<br>
+17:30 [El Estatuto de los Trabajadores reconoce 20 horas libres pagadas al año: así puedes solicitarlas](https://www.elperiodico.com/es/economia/20260717/estatuto-de-los-trabajadores-20-horas-libres-remuneradas-dv-129900259)<br>
+17:26 [Se jubiló a los 41 años y ahora ahorra 4.300 euros al mes: las dos claves que explican cómo lo consiguió](https://www.elperiodico.com/es/economia/20260717/alex-trias-jubilado-41-anos-ahorro-4300-euros-mes-estrategia-vivir-debajo-posibilidades-dv-128593653)<br>
+17:20 [Alemania se acopla al paraguas nuclear de Francia y anuncia sus primeras maniobras compartidas](https://www.elperiodico.com/es/internacional/20260717/alemania-francia-paraguas-nuclear-maniobras-conjuntas-132560174)<br>
+17:15 [El Port de Barcelona acoge el primer suministro de bioetanol a un portacontenedores realizado por Repsol y Maersk](https://www.elperiodico.com/es/economia/20260717/puerto-barcelona-primer-suministro-bioetanol-portacontenedores-maersk-repsol-132557530)<br>
+16:15 [Kristyn Hoffman, esteticista, revela un truco con la clásica crema Nivea para maquillarse: "Va a cambiar tu vida"](https://www.elperiodico.com/es/vida-y-estilo/20260717/nivea-crema-hidratante-base-maquillaje-truco-efecto-glace-dv-et-132397825)<br>
 16:09 [Dos detenidos por tener un 'narcobuzón' con medio kilo de cocaína en una vivienda de Nou Barris](https://www.elperiodico.com/es/sucesos/20260717/detenidos-narcobuzon-medio-kilo-cocaina-nou-barris-barcelona-132557169)<br>
 15:56 [SharkNinja lanza la Ninja Luxe Café Mini Plus, una cafetera compacta con funciones barista y alto nivel de personalización](https://www.elperiodico.com/es/tecnologia/20260717/sharkninja-lanza-ninja-luxe-cafetera-132556476)<br>
 15:55 [Richard Gere y el cuento de siempre](https://www.elperiodico.com/es/gente/20260717/richard-gere-cuento-132549555)<br>
