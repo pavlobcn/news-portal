@@ -1,8 +1,18 @@
-# News for 2026-07-17 13:01
+# News for 2026-07-17 14:19
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+14:12 [На Гаваях знову прокинувся вулкан Кілауеа](https://ua.korrespondent.net/world/4895051-na-havaiakh-znovu-prokynuvsia-vulkan-kilauea)<br>
+14:09 [Названо найкрасивіше слово у світі](https://ua.korrespondent.net/lifestyle/4895049-nazvano-naikrasyvishe-slovo-u-sviti)<br>
+14:01 [У Чехії санітар із сокирою і ножем скоїв напад у медзакладі: загинули двоє](https://ua.korrespondent.net/world/4895045-u-chekhii-sanitar-iz-sokyroui-i-nozhem-skoiv-napad-u-medzakladi-zahynuly-dvoie)<br>
+13:40 [СБУ знищила бомбардувальник Ту-95 в Енгельсі](https://ua.korrespondent.net/ukraine/4895038-sbu-znyschyla-bombarduvalnyk-tu-95-v-enhelsi)<br>
+13:36 [Під землею знайшли загублений світ із джунглями та власною "погодою"](https://ua.korrespondent.net/tech/science/4895030-pid-zemleui-znaishly-zahublenyi-svit-iz-dzhunhliamy-ta-vlasnoui-pohodoui)<br>
+13:33 [Швейцарія долучилася до спільних закупівель НАТО](https://ua.korrespondent.net/world/4895033-shveitsariia-doluchylasia-do-spilnykh-zakupivel-nato)<br>
+13:19 [Таїланд розпочав "зачистку" російських поселень](https://ua.korrespondent.net/world/4895029-tailand-rozpochav-zachystku-rosiiskykh-poselen)<br>
+13:15 [Доступні ліки розширили: які препарати тепер можна отримати](https://ua.korrespondent.net/ukraine/4895021-dostupni-liky-rozshyryly-yaki-preparaty-teper-mozhna-otrymaty)<br>
+13:15 [Туристів попередили про сувенір, за який у Франції можна отримати штраф](https://ua.korrespondent.net/lifestyle/travel/4895026-turystiv-poperedyly-pro-suvenir-za-yakyi-u-frantsii-mozhna-otrymaty-shtraf)<br>
+13:06 [У Криму компенсацію за блекаут видають після військкомату - ЗМІ](https://ua.korrespondent.net/world/russia/4895023-u-krymu-kompensatsiui-za-blekaut-vydauit-pislia-viiskkomatu-zmi)<br>
 12:55 [Іран уперше вдарив по Сирії від початку війни в регіоні](https://ua.korrespondent.net/world/4895014-iran-upershe-vdaryv-po-syrii-vid-pochatku-viiny-v-rehioni)<br>
 12:11 [Спека до 31° та локальні грози очікуються в Україні на вихідних](https://ua.korrespondent.net/ukraine/4894995-speka-do-31-ta-lokalni-hrozy-ochikuuitsia-v-ukraini-na-vykhidnykh)<br>
 11:53 [Росіяни атакують об'єкт газовидобутку на Харківщині](https://ua.korrespondent.net/ukraine/4894986-rosiiany-atakuuit-obiekt-hazovydobutku-na-kharkivschyni)<br>
@@ -44,7 +54,21 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 00:47 [Військові США висадилися на борт судна в Оманській затоці](https://ua.korrespondent.net/world/4894870-viiskovi-ssha-vysadylysia-na-bort-sudna-v-omanskii-zatotsi)<br>
 00:21 [Удар по Одесі: поранені діти](https://ua.korrespondent.net/city/odessa/4894867-udar-po-odesi-poraneni-dity)<br>
 
+## as.com
+13:44 [Óscar Castañeda, nuevo vicepresidente de la FEB](https://as.com/baloncesto/mas_baloncesto/oscar-castaneda-nuevo-vicepresidente-de-la-feb-f202607-n/)<br>
+
 ## www.elperiodico.com
+14:16 [Qué pasa con el alquiler si fallece el casero: el aviso del abogado Alberto Sánchez a los inquilinos](https://www.elperiodico.com/es/vivienda/20260717/alquiler-fallece-casero-aviso-abogado-dv-132507251)<br>
+14:03 [Hallan 2 esqueletos de rinoceronte de hace 200.000 años en una cueva de Moià (Barcelona)](https://www.elperiodico.com/es/sociedad/20260717/hallan-2-esqueletos-rinoceronte-200-132552517)<br>
+13:59 [Joan Kinyua, antigua anotadora de datos: "La IA no es mágica, hay personas detrás de los sistemas"](https://www.elperiodico.com/es/internacional/20260717/joan-kinyua-antigua-anotadora-datos-ia-magina-trabajadores-kenia-inteligencia-artificial-132552376)<br>
+13:58 [El equipo de investigadores del estrés climático que recorre las calles en bici en Valencia](https://www.elperiodico.com/es/sociedad/20260717/equipo-investigadores-estres-climatico-recorre-132551949)<br>
+13:57 [Baleares se consolida como la comunidad con el alquiler más caro de España: 160 personas compiten por cada vivienda y el precio medio alcanza los 1.678 euros](https://www.elperiodico.com/es/sociedad/20260717/baleares-consolida-comunidad-alquiler-caro-132551947)<br>
+13:51 [Sancionado el Ayuntamiento de Santa Coloma por "contribuir de forma determinante" al contagio de legionela de un conserje municipal](https://www.elperiodico.com/es/barcelona/santa-coloma/20260717/sancionado-ayuntamiento-santa-coloma-contribuir-determinante-contagio-legionela-conserje-132448414)<br>
+13:50 [Álex Bermúdez, asesor energético, calcula cuánto cuesta tener el ventilador encendido toda la noche: "No lo vas a notar en tu factura"](https://www.elperiodico.com/es/economia/20260717/cuanto-cuesta-ventilador-encendido-toda-la-noche-alex-bermudez-asesor-energetico-calcula-dv-132513864)<br>
+13:23 [Tres semanas sin Braulio, el vecino de Córdoba que desapareció en un bosque de Manresa durante un retiro espiritual](https://www.elperiodico.com/es/sociedad/20260717/desaparicion-vecino-cordoba-retiro-espiritual-manresa-132549299)<br>
+13:20 [Las temperaturas se estabilizan en Catalunya pero aumenta la humedad y se activan avisos por calor nocturno](https://www.elperiodico.com/es/sociedad/20260717/temperaturas-estabilizan-cataluna-ola-de-calor-humedad-132546339)<br>
+13:07 [El Banco Santander pacta con los sindicatos prejubilaciones desde 55 años con hasta el 95% de salario](https://www.elperiodico.com/es/economia/20260717/banco-santander-pacta-sindicatos-prejubilaciones-132549883)<br>
+13:05 [La leyenda de la danza Anne Teresa de Keersmaeker y Solal Mariotte bailan al ritmo de Jacques Brel](https://www.elperiodico.com/es/ocio-y-cultura/20260717/leyenda-danza-anne-teresa-keersmaeker-132529744)<br>
 12:47 [VÍDEO I Las obras del Pont del Petroli se harán desde el mar: así han trasladado la enorme plataforma donde se ubica la grúa](https://www.elperiodico.com/es/barcelona/20260717/instalan-gran-plataforma-marina-arreglara-pont-del-petroli-badalona-132541583)<br>
 12:38 [Agustín Ubal vuelve al Barça: "Desde que me fui, siempre he soñado con este momento"](https://www.elperiodico.com/es/deportes/20260717/agustin-ubal-vuelve-barca-he-132547470)<br>
 12:31 [La Síndica urge a garantizar las colonias escolares y reclama medidas para proteger los derechos de alumnos y docentes](https://www.elperiodico.com/es/sociedad/20260717/sindic-greuges-garantizar-colonias-escolares-cataluna-curso-26-27-132543859)<br>
@@ -80,3 +104,4 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 05:35 [Guerra de Irán, en directo. Última hora](https://www.elperiodico.com/es/internacional/20260717/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
 05:30 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260717/directo-guerra-ucrania-rusia-ultima-126605559)<br>
 05:29 [Incendios forestales en Catalunya y resto de España, en directo: última hora del incendio en Orés, que arrasa ya más de 7.600 hectáreas](https://www.elperiodico.com/es/sociedad/20260717/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+04:50 [Un corazón roto](https://www.elperiodico.com/es/opinion/20260717/sindrome-corazon-roto-articulo-ines-martin-rodrigo-132475592)<br>

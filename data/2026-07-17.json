@@ -9,6 +9,348 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Qué pasa con el alquiler si fallece el casero: el aviso del abogado Alberto Sánchez a los inquilinos",
+    "link": "https://www.elperiodico.com/es/vivienda/20260717/alquiler-fallece-casero-aviso-abogado-dv-132507251",
+    "pubDate": "2026-07-17 14:16:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto recuerda que el contrato no cambia si los herederos pasan a ser los nuevos arrendadores, salvo en un caso clave</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Гаваях знову прокинувся вулкан Кілауеа",
+    "link": "https://ua.korrespondent.net/world/4895051-na-havaiakh-znovu-prokynuvsia-vulkan-kilauea",
+    "pubDate": "2026-07-17 14:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497587.jpg\">Після майже тритижневого затишшя один із найактивніших вулканів світу знову почав вивергатися, а влада попередила про небезпеку попелу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Названо найкрасивіше слово у світі",
+    "link": "https://ua.korrespondent.net/lifestyle/4895049-nazvano-naikrasyvishe-slovo-u-sviti",
+    "pubDate": "2026-07-17 14:09:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497585.jpg\">Переможцем міжнародного мовного конкурсу стало слово з мови маорі, яке символізує особливий зв'язок людини з природою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський обговорив з Корецьким перші кроки уряду",
+    "link": "https://ua.korrespondent.net/ukraine/4895047-zelenskyi-obhovoryv-z-koretskym-pershi-kroky-uriadu",
+    "pubDate": "2026-07-17 14:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497584.jpg\">Прем’єр-міністр розпочав підготовку урядової програми, яка буде представлена суспільству та парламентарям, зазначив Володимир Зеленський.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Hallan 2 esqueletos de rinoceronte de hace 200.000 años en una cueva de Moià (Barcelona)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/hallan-2-esqueletos-rinoceronte-200-132552517",
+    "pubDate": "2026-07-17 14:03:48",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Leonor y Sofía afianzan su etapa más institucional con una parada muy personal: su colegio de Gales",
+    "link": "https://www.elperiodico.com/es/politica/20260717/leonor-sofia-afianzan-etapa-institucional-zarzuela-gales-132552516",
+    "pubDate": "2026-07-17 14:01:34",
+    "category": "",
+    "description": "<h2 class=\"item\">La Zarzuela refuerza la presencia conjunta de la Princesa de Asturias y la infanta en un verano de intensa agenda</h2><h2 class=\"item\">Los Reyes y sus hijas han recibido a alumnos de Colegios del Mundo, donde ambas cursaron el bachillerato internacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "У Чехії санітар із сокирою і ножем скоїв напад у медзакладі: загинули двоє",
+    "link": "https://ua.korrespondent.net/world/4895045-u-chekhii-sanitar-iz-sokyroui-i-nozhem-skoiv-napad-u-medzakladi-zahynuly-dvoie",
+    "pubDate": "2026-07-17 14:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497583.jpg\">Самого нападника застрелила поліція під час затримання. Один із постраждалих загинув, ще один співробітник інституту отримав поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La etapa 13 del Tour de Francia, en directo | Dole - Belfort",
+    "link": "https://www.elperiodico.com/es/deportes/ciclismo/20260717/etapa-13-tour-francia-directo-132549366",
+    "pubDate": "2026-07-17 13:59:59",
+    "category": "",
+    "description": "<h2>El Balón de Alsacia, con su cima situada a 1.173 metros sobre el nivel del mar, fue una apuesta personal de Henri Desgrange, el creador de la carrera, que buscaba insuflar aliento a su invento</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Joan Kinyua, antigua anotadora de datos: \"La IA no es mágica, hay personas detrás de los sistemas\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260717/joan-kinyua-antigua-anotadora-datos-ia-magina-trabajadores-kenia-inteligencia-artificial-132552376",
+    "pubDate": "2026-07-17 13:59:26",
+    "category": "",
+    "description": "<h2>Los trabajadores que depuran el contenido tóxico de la IA, muchos de ellos subcontratados con sueldos precarios en países como Kenia, luchan por una remuneración justa y reconocimiento de sus derechos laborales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El equipo de investigadores del estrés climático que recorre las calles en bici en Valencia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/equipo-investigadores-estres-climatico-recorre-132551949",
+    "pubDate": "2026-07-17 13:58:56",
+    "category": "",
+    "description": "<h2>Los científicos medioambientales estudian los efectos de las altas temperaturas en València para determinar los rincones más agradables ante el calor y los más insoportables</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Baleares se consolida como la comunidad con el alquiler más caro de España: 160 personas compiten por cada vivienda y el precio medio alcanza los 1.678 euros",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/baleares-consolida-comunidad-alquiler-caro-132551947",
+    "pubDate": "2026-07-17 13:57:25",
+    "category": "",
+    "description": "<h2>El nuevo Barómetro del Alquiler sitúa al archipiélago como el mercado residencial más tensionado del país por delante de Madrid y Barcelona, con una presión que multiplica por diez la considerada equilibrada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Comuns y la CUP llevan al Consell de Garanties la ley de cámaras de comercio y retrasan su aprobación a otoño",
+    "link": "https://www.elperiodico.com/es/politica/20260717/comuns-cup-consell-garanties-ley-camaras-comercio-aprobacion-otono-132551674",
+    "pubDate": "2026-07-17 13:56:08",
+    "category": "",
+    "description": "<h2>Se trata de una iniciativa impulsada por Junts, ERC y el PPC, que cuenta con los votos necesarios para salir adelante y que tenía que ser votada en el pleno de la semana que viene</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Arranca Graviteo: “El deporte urbano es un estilo de vida, es compañerismo, es pasárselo bien”",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/arranca-graviteo-deporte-urbano-estilo-de-vida-132551152",
+    "pubDate": "2026-07-17 13:55:57",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260716/graviteo-abre-puertas-publico-mejor-132509317\">Graviteo abre sus puertas al público con el mejor deporte urbano y una potente oferta cultural en el Circuit de Barcelona-Catalunya</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sancionado el Ayuntamiento de Santa Coloma por \"contribuir de forma determinante\" al contagio de legionela de un conserje municipal",
+    "link": "https://www.elperiodico.com/es/barcelona/santa-coloma/20260717/sancionado-ayuntamiento-santa-coloma-contribuir-determinante-contagio-legionela-conserje-132448414",
+    "pubDate": "2026-07-17 13:51:14",
+    "category": "",
+    "description": "<h2>El Departament d'Empresa concluye que consistorio y concesionaria no protegieron a un trabajador en revisiones de instalaciones deportivas</h2><h2>Un recurso municipal busca \"evidenciar que no ha quedado acreditado el nexo causal\" entre la actuación municipal y el contagio</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20251203/inspeccio-treball-sancionar-ayuntamiento-santa-coloma-contagio-legionela-conserje-124196481\" target=\"_blank\">Inspecció de Treball propone sancionar al Ayuntamiento de Santa Coloma por \"contribuir\" al contagio de legionela de un conserje</a> </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Álex Bermúdez, asesor energético, calcula cuánto cuesta tener el ventilador encendido toda la noche: \"No lo vas a notar en tu factura\"",
+    "link": "https://www.elperiodico.com/es/economia/20260717/cuanto-cuesta-ventilador-encendido-toda-la-noche-alex-bermudez-asesor-energetico-calcula-dv-132513864",
+    "pubDate": "2026-07-17 13:50:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto explica el consumo medio de un ventilador durante ocho horas y por qué el impacto en la factura puede ser mucho menor de lo que muchos creen</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260716/electricista-cuanto-cuesta-ventilador-noche-dv-119315567\">Los electricistas coinciden sobre este electrodoméstico para combatir el calor: \"Cuesta menos que una botella de agua\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Федоров визначився з новою роллю після відставки",
+    "link": "https://ua.korrespondent.net/ukraine/4895041-fedorov-vyznachyvsia-z-novoui-rollui-pislia-vidstavky",
+    "pubDate": "2026-07-17 13:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497562.jpg\">Ексміністр не розглядає посаду радника президента, втім, ймовірно, продовжить роботу у команді глави держави.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "На кордоні України змінюють правила єЧерги",
+    "link": "https://ua.korrespondent.net/ukraine/4895039-na-kordoni-ukrainy-zminuiuit-pravyla-yecherhy",
+    "pubDate": "2026-07-17 13:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497559.jpg\">В  Україні тестують новий механізм роботи системи єЧерга для вантажного транспорту. Частина перевізників зможе проходити кордон швидше завдяки оновленим правилам пріоритетності.",
+    "topic": "автомобілі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Óscar Castañeda, nuevo vicepresidente de la FEB",
+    "link": "https://as.com/baloncesto/mas_baloncesto/oscar-castaneda-nuevo-vicepresidente-de-la-feb-f202607-n/",
+    "pubDate": "2026-07-17 13:44:09",
+    "category": "Baloncesto",
+    "description": "Tras la renuncia de José Miguel Sierra, el presidente de la Federación de Castilla y León asume el cargo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Festival de San Sebastián proyectará lo nuevo de Fernando Trueba, Elena Martín Gimeno y Javier Giner",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260717/festival-san-sebastian-proyectara-nuevo-132551006",
+    "pubDate": "2026-07-17 13:40:45",
+    "category": "",
+    "description": "<h2>El certamen, que se celebrará del 18 al 26 de septiembre, presentará 23 largometrajes y dos series, tres de ellas aspirantes a la Concha de Oro</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "СБУ знищила бомбардувальник Ту-95 в Енгельсі",
+    "link": "https://ua.korrespondent.net/ukraine/4895038-sbu-znyschyla-bombarduvalnyk-tu-95-v-enhelsi",
+    "pubDate": "2026-07-17 13:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497560.jpeg\">Літак зазнав критичних пошкоджень – у нього повністю відірвано хвостову частину, зазначили в спецслужбі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "María Peláe, en el discurso del pregón del Pride Barcelona 2026: \"Siempre hemos existido, con y sin su permiso\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260717/pride-parade-barcelona-2026-orgullo-gay-discurso-maria-pelae-dv-loc-132545205",
+    "pubDate": "2026-07-17 13:37:52",
+    "category": "",
+    "description": "<h2>La cantante y compositora hace un alegato \"por el silencio de todos ellos, por todo lo que han engullido y tragado... hoy en esta plaza gritamos\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260617/pride-barcelona-2026-programa-manifestacion-131524919\">Pride Barcelona 2026 desplegará una decena actos y una gran manifestación con el lema 'Todas las realidades, un solo orgullo'</a></h2><h2><a href=\"https://www.elperiodico.com/es/fotos/ocio-y-cultura/cantante-maria-pelae-pregon-pride-132531678\">La cantante María Peláe, hace el pregón del Pride en la plaza Universitat</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Під землею знайшли загублений світ із джунглями та власною \"погодою\"",
+    "link": "https://ua.korrespondent.net/tech/science/4895030-pid-zemleui-znaishly-zahublenyi-svit-iz-dzhunhliamy-ta-vlasnoui-pohodoui",
+    "pubDate": "2026-07-17 13:36:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497536.jpg\">У В'єтнамі розташована гігантська печера Сон Доонг, усередині якої сформувалися тропічний ліс, підземна річка та унікальна екосистема.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tres detenidos y dos investigados en Barcelona por el reto viral “happy slapping”: agresiones aleatorias y difundidas en redes",
+    "link": "https://www.elperiodico.com/es/sucesos/20260717/tres-detenidos-investigados-barcelona-reto-reto-viral-agresiones-en-grupo-132550937",
+    "pubDate": "2026-07-17 13:34:59",
+    "category": "",
+    "description": "<h2>Los agentes buscarían a un sexto implicado en estos ataques en grupo</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260707/mossos-investigan-grupo-jovenes-agresiones-eixample-barcelona-redes-sociales-132213530\">Los Mossos investigan a un grupo de jóvenes por varias agresiones en el Eixample de Barcelona difundidas en redes sociales</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Швейцарія долучилася до спільних закупівель НАТО",
+    "link": "https://ua.korrespondent.net/world/4895033-shveitsariia-doluchylasia-do-spilnykh-zakupivel-nato",
+    "pubDate": "2026-07-17 13:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497537.jpg\">Берн приєднався до програми спільних закупівель боєприпасів, яка має скоротити витрати та пришвидшити постачання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una nueva línea de bus nocturno conecta Gavà y Viladecans con Sant Climent de Llobregat: \"Es una noticia muy esperada\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260717/nueva-linea-bus-nocturno-conectara-gava-viladecans-sant-climent-llobregat-noticia-esperada-132550280",
+    "pubDate": "2026-07-17 13:31:23",
+    "category": "",
+    "description": "<h2>El servicio de la L21 empieza desde la noche de este viernes 17 de julio: operará de jueves a sábado y vísperas de festivos cada 90 minutos</h2><h2>BUSES | <a href=\"https://www.elperiodico.com/es/barcelona/20260714/tres-autobuses-barcelona-sera-zero-emisiones-finales-2027-132431417\" target=\"_blank\">Uno de cada tres autobuses de Barcelona será cero emisiones a finales de 2027</a></h2><h2>EL PRAT | <a href=\"https://www.elperiodico.com/es/barcelona/20260630/prat-estrena-nueva-linea-bus-hospital-bellvitge-131984282\" target=\"_blank\">El Prat estrena una nueva línea de bus directa al Hospital de Bellvitge</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Paula de Prado (34 años), agricultora en Baena: \"Dejé la hostelería en Madrid para gestionar yo sola una finca de olivos en Córdoba\"",
+    "link": "https://www.elperiodico.com/es/economia/20260717/paula-prado-agricultora-baena-hosteleria-madrid-finca-olivos-cordoba-dv-132550448",
+    "pubDate": "2026-07-17 13:26:40",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta cordobesa utiliza las redes sociales para dar visibilidad a la mujer en el mundo rural y llamar a las nuevas generaciones al relevo en el campo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260716/lucia-27-anos-viviendo-aldea-gallega-9-personas-estilo-vida-dv-132041004\">Lucía (27 años) vive en un aldea gallega de 9 personas: \"Para mí, la compra del mes ronda los 50 euros, porque entre el huerto y la recolección gasto muy poco\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Tres semanas sin Braulio, el vecino de Córdoba que desapareció en un bosque de Manresa durante un retiro espiritual",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/desaparicion-vecino-cordoba-retiro-espiritual-manresa-132549299",
+    "pubDate": "2026-07-17 13:23:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La familia del este hombre de 61 años padre de un hijo de 19 reprocha a los terapeutas que dirigían el taller que tardaran 48 horas en llamar al 112 </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260309/catalunya-registra-diez-desaparicion-mossos-esquadra-denuncias-127700639\" target=\"_blank\">Catalunya registra diez denuncias por desaparición cada día</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las temperaturas se estabilizan en Catalunya pero aumenta la humedad y se activan avisos por calor nocturno",
+    "link": "https://www.elperiodico.com/es/sociedad/20260717/temperaturas-estabilizan-cataluna-ola-de-calor-humedad-132546339",
+    "pubDate": "2026-07-17 13:20:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La primera mitad del verano se cierra con valores de récord a las puertas de un fin de semana de calor y bochorno</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260715/espana-miercoles-infernal-maximas-valencia-catalunya-registros-aemet-132488181\">España registra otro miércoles infernal con 44,4ºC en Valencia y 42,4ºC en Catalunya mientras se prepara para la llegada de otra ola de calor extremo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Temporada Alta avanza diez nuevos conciertos y colaboración con el Cruïlla",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260717/temporada-alta-avanza-diez-nuevos-132544974",
+    "pubDate": "2026-07-17 13:19:46",
+    "category": "",
+    "description": "<h2>Pink Martini con Storm Large, Eliades Ochoa, Iván Ferreiro, Martirio, Alosa, The Black Heritage Choir, Anna Andreu, Momi Maiga, e-STRINGS by GIO y Mariona Escoda estarán en la programación del festival </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Таїланд розпочав \"зачистку\" російських поселень",
+    "link": "https://ua.korrespondent.net/world/4895029-tailand-rozpochav-zachystku-rosiiskykh-poselen",
+    "pubDate": "2026-07-17 13:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497513.jpg\">Слідство стосується житлових комплексів вартістю близько $154 млн, де іноземці могли приховувати фактичний контроль над компаніями.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La investigadora de la ketamina Marta Echaves: «Sin fármacos o drogas no se sostendrían los ritmos actuales de productividad»",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260717/investigadora-ketamina-marta-echaves-farmacos-132550187",
+    "pubDate": "2026-07-17 13:15:11",
+    "category": "",
+    "description": "<h2 class=\"item\">La autora madrileña publicó el pasado mes de abril un ensayo sobre la ketamina, <strong>‘Químicas piedades’</strong></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Доступні ліки розширили: які препарати тепер можна отримати",
+    "link": "https://ua.korrespondent.net/ukraine/4895021-dostupni-liky-rozshyryly-yaki-preparaty-teper-mozhna-otrymaty",
+    "pubDate": "2026-07-17 13:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497511.jpg\">Українці отримали доступ до ще 260 препаратів у межах програми Доступні ліки. Йдеться про засоби для лікування серцево-судинних і цереброваскулярних захворювань.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Туристів попередили про сувенір, за який у Франції можна отримати штраф",
+    "link": "https://ua.korrespondent.net/lifestyle/travel/4895026-turystiv-poperedyly-pro-suvenir-za-yakyi-u-frantsii-mozhna-otrymaty-shtraf",
+    "pubDate": "2026-07-17 13:15:00",
+    "category": "Новини туризму",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497515.png\">Звичка забирати додому мушлі, гальку чи пісок може дорого обійтися відпочивальникам.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Згода Трампа на нові санкції загрожує РФ економічним паралічем",
+    "link": "https://ua.korrespondent.net/articles/4895025-zghoda-trampa-na-novi-sanktsii-zahrozhuie-rf-ekonomichnym-paralichem",
+    "pubDate": "2026-07-17 13:13:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497514.jpg\">Які наслідки очікують на Москву в разі остаточного схвалення Білим домом масштабних обмежень?",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El Banco Santander pacta con los sindicatos prejubilaciones desde 55 años con hasta el 95% de salario",
+    "link": "https://www.elperiodico.com/es/economia/20260717/banco-santander-pacta-sindicatos-prejubilaciones-132549883",
+    "pubDate": "2026-07-17 13:07:24",
+    "category": "",
+    "description": "<h2>Los sindicatos estiman que habrá cerca de 3.000 salidas y se espera que  el acuerdo se firme en la próxima semana</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Криму компенсацію за блекаут видають після військкомату - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4895023-u-krymu-kompensatsiui-za-blekaut-vydauit-pislia-viiskkomatu-zmi",
+    "pubDate": "2026-07-17 13:06:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497512.jpg\">Сама виплата передбачена мешканцям населених пунктів, які залишалися без електрики та води на більш як 48 годин.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La leyenda de la danza Anne Teresa de Keersmaeker y Solal Mariotte bailan al ritmo de Jacques Brel",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260717/leyenda-danza-anne-teresa-keersmaeker-132529744",
+    "pubDate": "2026-07-17 13:05:13",
+    "category": "",
+    "description": "<h2>El espectáculo 'Brel' que se verá solo dos días en el Teatre Grec reúne a una leyenda de la danza contemporánea con un joven bailarín de breakedance</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Обіцяв місце у Раді за $160 000: у Києві викрили політичну аферу",
+    "link": "https://ua.korrespondent.net/city/kiev/4895019-obitsiav-mistse-u-radi-za-160-000-u-kyievi-vykryly-politychnu-aferu",
+    "pubDate": "2026-07-17 13:03:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497510.jpg\">Керівник анульованої партії обіцяв чоловікові депутатський мандат через неіснуючий політичний проєкт.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La Comisión Europea propone dar más margen a los sectores más contaminantes para reducir sus emisiones",
     "link": "https://www.elperiodico.com/es/economia/20260717/comision-europea-emisiones-carbono-industria-empresas-contaminacion-132549396",
     "pubDate": "2026-07-17 13:00:38",
@@ -25,6 +367,24 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260712/leslie-romero-escaladora-olimpica-paris-graviteo-132279371\">Leslie Romero, escaladora olímpica y atleta de GRAVITEO: \"La escalada ha sido mi vía de escape desde los seis años\"</a></h2>",
     "topic": "спорт",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Зеленський визначився з новим керівником Нафтогазу",
+    "link": "https://ua.korrespondent.net/ukraine/4895017-zelenskyi-vyznachyvsia-z-novym-kerivnykom-naftohazu",
+    "pubDate": "2026-07-17 13:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4497506.jpg\">Сергій Федоренко пройшов шлях трансформації Укрнафти разом із Сергієм Корецьким, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El humo de los incendios borra la silueta del estadio que albergará la final del Mundial en Nueva York",
+    "link": "https://www.elperiodico.com/es/videos/internacional/humo-incendios-borra-silueta-estadio-mundial/132549547.shtml",
+    "pubDate": "2026-07-17 12:59:26",
+    "category": "",
+    "description": "Una densa capa de contaminación afecta a millones de personas desde el Medio Oeste hasta Nueva York",
+    "topic": "спорт",
+    "topic_match_probability": 55
   },
   {
     "title": "El Atlético le cierra la puerta del Barça a Julián Álvarez: \"No aceptaremos 100 millones, ni 150, ni 200\"",
@@ -1429,6 +1789,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4496877.jpeg\">У першому півріччі дефіцит бюджету Росії становив 5,73 трлн рублів, або 2,5 % ВВП, що в 1,7 рази перевищує показник за аналогічний період минулого року.",
     "topic": "політика",
     "topic_match_probability": 45
+  },
+  {
+    "title": "Un corazón roto",
+    "link": "https://www.elperiodico.com/es/opinion/20260717/sindrome-corazon-roto-articulo-ines-martin-rodrigo-132475592",
+    "pubDate": "2026-07-17 04:50:44",
+    "category": "",
+    "description": "<h2>El corazón se rompe, es un hecho anatómicamente constatado, igual que está demostrado que el volumen del hipocampo, la estructura cerebral gracias a la que recordamos, se reduce durante el duelo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "США заборонять в'їзд ультралівим радикалам",
