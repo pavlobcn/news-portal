@@ -1,8 +1,9 @@
-# News for 2026-07-17 19:55
+# News for 2026-07-17 21:03
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+21:01 [У Китаї знайшли найдавніший у світі бурштин віком 385 мільйонів років](https://ua.korrespondent.net/tech/science/4895161-u-kytai-znaishly-naidavnishyi-u-sviti-burshtyn-vikom-385-milioniv-rokiv)<br>
 19:45 [У Польщі поїзд зійшов з рейок: вагони впали в річку](https://ua.korrespondent.net/world/4895147-u-polschi-poizd-ziishov-z-reiok-vahony-vpaly-v-richku)<br>
 19:31 [Apple стала найдорожчою компанією світу, випередивши NVIDIA](https://ua.korrespondent.net/business/companies/4895141-Apple-stala-naidorozhchoui-kompaniieui-svitu-vyperedyvshy-NVIDIA)<br>
 18:37 [Податок на Google: цифрові гіганти сплатили до бюджету України 8,9 млрд](https://ua.korrespondent.net/business/financial/4895128-podatok-na-Google-tsyfrovi-hihanty-splatyly-do-buidzhetu-ukrainy-89-mlrd)<br>
@@ -84,6 +85,8 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 09:35 [El ASVEL pasa de 59 a 24 millones: peligra el fichaje de Sylvain Francisco](https://as.com/baloncesto/el-asvel-pasa-de-59-a-24-millones-peligra-el-fichaje-de-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:34 [La literatura fantástica también puede ser 'funtasy' (como el fenómeno Matt Dinniman)](https://www.elperiodico.com/es/ocio-y-cultura/20260717/literatura-fantastica-funtasy-humor-132566584)<br>
+19:59 [Barcelona estrena un espacio para skaters y peatones con mobiliario patinable y vistas al mar](https://www.elperiodico.com/es/barcelona/20260717/barcelona-estrena-espacio-experimental-skaters-peatones-garcia-faria-132566309)<br>
 19:44 [Los trastornos del sueño pueden cambiar tu cerebro](https://www.elperiodico.com/es/tendencias21/20260717/trastornos-sueno-cambiar-cerebro-132566294)<br>
 19:20 [Carlos Llull, técnico de climatización: "Recuerda esto cuando alguien te diga 'apaga el aire acondicionado, que consume muchísimo'"](https://www.elperiodico.com/es/economia/20260717/aire-acondicionado-consumo-noche-electricista-carlos-llull-dv-131815013)<br>
 19:12 [Un torneo de lucha libre entre robots humanoides se estrena en China](https://www.elperiodico.com/es/videos/sociedad/torneo-lucha-robots-china/132565255.shtml)<br>
