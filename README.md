@@ -1,8 +1,10 @@
-# News for 2026-07-17 22:15
+# News for 2026-07-17 23:12
 
 Previous day: [2026-07-16](./data/2026-07-16.md)
 
 ## ua.korrespondent.net
+22:58 [РФ атакувала іноземне судно в Одесі: є потерпілі](https://ua.korrespondent.net/ukraine/4895177-rf-atakuvala-inozemne-sudno-v-odesi-ye-poterpili)<br>
+22:36 [Більшість поляків проти прийому біженців з України - опитування](https://ua.korrespondent.net/world/worldabus/4895175-bilshist-poliakiv-proty-pryiomu-bizhentsiv-z-ukrainy-opytuvannia)<br>
 21:01 [У Китаї знайшли найдавніший у світі бурштин віком 385 мільйонів років](https://ua.korrespondent.net/tech/science/4895161-u-kytai-znaishly-naidavnishyi-u-sviti-burshtyn-vikom-385-milioniv-rokiv)<br>
 19:45 [У Польщі поїзд зійшов з рейок: вагони впали в річку](https://ua.korrespondent.net/world/4895147-u-polschi-poizd-ziishov-z-reiok-vahony-vpaly-v-richku)<br>
 19:31 [Apple стала найдорожчою компанією світу, випередивши NVIDIA](https://ua.korrespondent.net/business/companies/4895141-Apple-stala-naidorozhchoui-kompaniieui-svitu-vyperedyvshy-NVIDIA)<br>
@@ -85,6 +87,7 @@ Previous day: [2026-07-16](./data/2026-07-16.md)
 09:35 [El ASVEL pasa de 59 a 24 millones: peligra el fichaje de Sylvain Francisco](https://as.com/baloncesto/el-asvel-pasa-de-59-a-24-millones-peligra-el-fichaje-de-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:24 [Cazadores de tesoros hallan un lingote de plata de galeón español hundido en Florida en 1622](https://www.elperiodico.com/es/ocio-y-cultura/20260717/cazadores-tesoros-hallan-lingote-plata-florida-132569664)<br>
 22:04 [Máxima tensión en Luesia (Zaragoza) por los incendios: "Estamos con el corazón en un puño"](https://www.elperiodico.com/es/sociedad/20260717/maxima-tension-luesia-zaragoza-incendios-132569392)<br>
 21:42 [La impotencia de luchar contra el fuego descontrolado en Zaragoza: “Esto es desolador, está todo quemado”](https://www.elperiodico.com/es/sociedad/20260717/impotencia-luchar-fuego-descontrolado-zaragoza-132569065)<br>
 20:34 [La literatura fantástica también puede ser 'funtasy' (como el fenómeno Matt Dinniman)](https://www.elperiodico.com/es/ocio-y-cultura/20260717/literatura-fantastica-funtasy-humor-132566584)<br>
