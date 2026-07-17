@@ -9,6 +9,24 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Зеленський призначив нового т.в.о. голови СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4895163-zelenskyi-pryznachyv-novoho-tvo-holovy-sbu",
+    "pubDate": "2026-07-17 21:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498071.png\">Український президент призначив Олександра Поклада тимчасово виконуючим обов'язки голови СБУ.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Carla Martínez reina en la jornada inaugural de GRAVITEO",
+    "link": "https://www.elperiodico.com/es/deportes/20260717/carla-martinez-reina-jornada-inaugural-132568429",
+    "pubDate": "2026-07-17 21:05:48",
+    "category": "",
+    "description": "<h2>La catalana se impuso en la final de velocidad que se disputó en la zona del paddock del Circuit de Barcelona-Catalunya</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
     "title": "У Китаї знайшли найдавніший у світі бурштин віком 385 мільйонів років",
     "link": "https://ua.korrespondent.net/tech/science/4895161-u-kytai-znaishly-naidavnishyi-u-sviti-burshtyn-vikom-385-milioniv-rokiv",
     "pubDate": "2026-07-17 21:01:00",
@@ -52,6 +70,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498048.jpg\">Компанія завершить продажі кросовера Prologue після модельного року 2026 на тлі різкого падіння попиту на електромобілі.",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Arranca Graviteo: “El deporte urbano es un estilo de vida, es compañerismo, es pasárselo bien”",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/arranca-graviteo-deporte-urbano-estilo-132567832",
+    "pubDate": "2026-07-17 20:46:54",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 92
   },
   {
     "title": "\"Флеш\" став радником Зеленського",
