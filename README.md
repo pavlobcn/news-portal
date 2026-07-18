@@ -1,8 +1,9 @@
-# News for 2026-07-18 23:32
+# News for 2026-07-19 00:30
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+23:49 [У Херсоні БПЛА влучив у будинок: постраждали діти](https://ua.korrespondent.net/ukraine/4895338-u-khersoni-bpla-vluchyv-u-budynok-postrazhdaly-dity)<br>
 22:24 [У США заявили про смерть своїх військових після атаки Ірану](https://ua.korrespondent.net/world/4895330-u-ssha-zaiavyly-pro-smert-svoikh-viiskovykh-pislia-ataky-iranu)<br>
 21:59 [Від початку доби відбулося 193 боєзіткнення](https://ua.korrespondent.net/ukraine/4895328-vid-pochatku-doby-vidbulosia-193-boiezitknennia)<br>
 21:30 [Окупанти планують забудову історичного центру Маріуполя](https://ua.korrespondent.net/ukraine/4895326-okupanty-planuuit-zabudovu-istorychnoho-tsentru-mariupolia)<br>
@@ -36,6 +37,7 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## as.com
+23:41 [Serbia para a la Sub-20 en semifinales](https://as.com/baloncesto/mas_baloncesto/serbia-para-a-la-sub-20-en-semifinales-f202607-n/)<br>
 21:58 [El Barcelona, cerca de fichar a Balcerowski](https://as.com/baloncesto/acb/el-barcelona-cerca-de-fichar-a-balcerowski-f202607-n/)<br>
 20:12 [¡A por el oro mundial!](https://as.com/baloncesto/mas_baloncesto/a-por-el-oro-mundial-f202607-n/)<br>
 17:06 [Stanley Whittaker, nuevo fichaje del FIATC Girona para su debut europeo](https://as.com/baloncesto/acb/stanley-whittaker-nuevo-fichaje-del-fiatc-girona-para-su-debut-europeo-f202607-n/)<br>
