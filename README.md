@@ -1,7 +1,14 @@
-# News for 2026-07-18 03:05
+# News for 2026-07-18 05:32
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+02:58 [У Франції загинули 3000 людей за тиждень через спеку](https://ua.korrespondent.net/world/4895196-u-frantsii-zahynuly-3000-luidei-za-tyzhden-cherez-speku)<br>
 01:43 [У Литві невідомі розіслали листи з погрозами влаштувати вибухи](https://ua.korrespondent.net/world/4895188-u-lytvi-nevidomi-rozislaly-lysty-z-pohrozamy-vlashtuvaty-vybukhy)<br>
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
+
+## www.elperiodico.com
+04:50 [La 'Odisea', entre el respeto reverencial y la libre transformación](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260718/odisea-libro-pelicula-christopher-nolan-132428874)<br>
+04:50 [Desahuciado por acumular libros](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260718/desahuciado-acumular-libros-132477574)<br>
+04:50 [Amitav Ghosh, escritor: "La crisis no es sólo climática, sino cultural y de imaginación"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260718/amitav-ghosh-libro-gran-delirio-entrevista-132332750)<br>
+04:50 [¿Sirve la crema solar del verano pasado? Esto es lo que debes comprobar antes de usarla](https://www.elperiodico.com/es/salud/20260718/reutilizar-crema-solar-peligroso-piel-14228249)<br>
