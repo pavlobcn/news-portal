@@ -1,5 +1,113 @@
 [
   {
+    "title": "La pelota como patria",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/pelota-patria-mundial-2026-lamine-seleccion-espanola-de-futbol-final-pedri-132587789",
+    "pubDate": "2026-07-18 19:25:45",
+    "category": "",
+    "description": "<h2>España ha llegado a la final siendo fiel a sí misma: con el balón en los pies y los compañeros cerca. Una cultura futbolera que ha seducido a un país más de clubes que de selección.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Росіяни атакували Одещину: четверо поранених",
+    "link": "https://ua.korrespondent.net/city/odessa/4895313-rosiiany-atakuvaly-odeschynu-chetvero-poranenykh",
+    "pubDate": "2026-07-18 19:20:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499492.jpg\">Внаслідок ворожих атак зазнали пошкоджень вантажні та легкові автомобілі. Вогонь охопив і суху рослинність на відкритій території.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El rincón familiar de Lamine Yamal es un barrio de 11.000 habitantes en Catalunya: \"Como te dice tu padre, los pies siempre en el suelo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/rincon-familiar-lamine-yamal-barrio-rocafonda-mataro-infancia-132587637",
+    "pubDate": "2026-07-18 19:13:31",
+    "category": "",
+    "description": "<h2>Rocafonda, en Mataró, celebra la madurez futbolística de su vecino más universal mientras reivindica su identidad: un código postal convertido en símbolo comunitario y cultural</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "Los vecinos de Rocafonda inician una recogida de firmas: \"No queremos que se enfrenten los vecinos que necesitan descansar con los niños y jóvenes\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260718/vecinos-rocafonda-inician-recogida-firmas-enfrenten-vecinos-jovenes-132587493",
+    "pubDate": "2026-07-18 19:03:40",
+    "category": "",
+    "description": "<h2>El barrio donde creció Lamine Yamal, futbolista del FC Barcelona, exige medidas urgentes al Ayuntamiento de Mataró</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El último entrenamiento de España antes de la final del Mundial contra Argentina, cancelado por una tormenta eléctrica",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/ultimo-entrenamiento-espana-final-mundial-132587081",
+    "pubDate": "2026-07-18 19:00:47",
+    "category": "",
+    "description": "<h2>Las condiciones meteorológicas impiden que la Roja pueda ejercitarse en la previa del partido por el título de campeón del mundo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Entre rugidos, caparazones y pronósticos: así son los animales que predicen la final del Mundial y arrasan en las redes",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/rugidos-caparazones-pronosticos-son-animales-predicen-final-mundial-132587427",
+    "pubDate": "2026-07-18 19:00:46",
+    "category": "",
+    "description": "<h2>Jirafas, tortugas, hipopótamos y otros animales han revolucionado Instagram con sus sorprendentes apuestas futbolísticas, convertidas para muchos aficionados en todo un oráculo</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260718/video-hipopotamo-viral-tailandes-predice-final-mundial-132585091\" target=\"_blank\">Vídeo | El hipopótamo viral tailandés Moo Deng predice la final del Mundial: este sería el ganador</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Alfonso Muñoz, funcionario de la Seguridad Social, avisa: estos son los 4 datos imprescindibles que debes saber sobre la jubilación",
+    "link": "https://www.elperiodico.com/es/economia/20260718/cuatro-datos-imprescindibles-debes-jubilacion-seguridad-social-dv-132513873",
+    "pubDate": "2026-07-18 19:00:18",
+    "category": "",
+    "description": "<h2 class=\"item\">Según relata, en su experiencia laboral se ha encontrado casos de personas que pensaban que tenían más años cotizados, que no habían estado dados de alta o que desconocían los datos de su pensión</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se llama Seixas, es francés, no se lo pierdan, tiene pinta de ser el próximo Pogacar",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/llama-seixas-frances-pierdan-pinta-132586782",
+    "pubDate": "2026-07-18 18:56:05",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "У Києві в ДТП загинув неповнолітній велосипедист",
+    "link": "https://ua.korrespondent.net/kyiv/4895308-u-kyievi-v-dtp-zahynuv-nepovnolitnii-velosypedyst",
+    "pubDate": "2026-07-18 18:55:00",
+    "category": "Київ новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499465.jpg\">27-річний водій автомобіля BMW, скоїв зіткнення із двома велосипедистами, які рухалися в попутному напрямку по узбіччю дороги, а потім виїхав у другий ряд дороги та зіткнувся із автомобілем KIA.",
+    "topic": "автомобілі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Samantha Shannon: Sant Jordi contra Saint George",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260718/samantha-shannon-sant-jordi-saint-george-132586712",
+    "pubDate": "2026-07-18 18:43:57",
+    "category": "",
+    "description": "<h2>La escritora explica,durante el Festival Celsius de Avilés, cómo su libro ‘El priorato del naranjo’ surgió de su reacción ante la leyenda, que especialmente en su versión inglesa más que romántica es “islamófoba, xenófoba, racista y profundamente misógina”</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Bombers trabajan en dos incendios en Catalunya en Pontils y en Vilademuls",
+    "link": "https://www.elperiodico.com/es/sociedad/20260718/bombers-incendios-catalunya-pontils-vilademuls-132586887",
+    "pubDate": "2026-07-18 18:43:30",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260718/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Incendios forestales en Catalunya y resto de España, en directo</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни скинули бомби на Краматорськ: є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4895305-rosiiany-skynuly-bomby-na-kramatorsk-ye-zahybli",
+    "pubDate": "2026-07-18 18:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499424.jpg\">Росіяни свідомо б’ють туди, де живуть люди. Їхня мета - вбивати, калічити й перетворювати кожен звичайний день на трагедію, підкреслив голова Донецької ОВА.",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los bomberos rescatan a 11 personas tras el hundimiento de un catamarán en Tabarca",
     "link": "https://www.elperiodico.com/es/sucesos/20260718/rescatadas-personas-hundimiento-catamaran-tabarca-132586621",
     "pubDate": "2026-07-18 18:16:19",
@@ -88,6 +196,15 @@
     "description": "",
     "topic": "спорт",
     "topic_match_probability": 92
+  },
+  {
+    "title": "Pogacar provoca otro destrozo y Seixas enloquece al Tour",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/pogacar-exhibe-vosgos-tour-francia-enloquece-paul-seixas-132583885",
+    "pubDate": "2026-07-18 17:36:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El jersey amarillo conquista una cuarta etapa con un ataque en los Vosgos y la joven estrella francesa arrebata por tres segundos el jersey blanco de mejor joven a Juan Ayuso.</h2><h2 class=\"item\"><a href=\"https://www.tissottiming.com/2026/tdf/stage-14/rankings\">Todas las clasificaciones.</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260718/autopistas-francesas-defeca-prado-tourmalet-sergi-lopez-egea-132557422\">El Tourmalet: </a>en las autopistas francesas no se defeca.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
   },
   {
     "title": "Colas y furor por obtener una camiseta de 'la roja' en Barcelona: \"Es imposible encontrar nada ni en el 'top manta' ni en la tienda oficial\"",
