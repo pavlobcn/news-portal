@@ -1,5 +1,113 @@
 [
   {
+    "title": "Los bomberos rescatan a 11 personas tras el hundimiento de un catamarán en Tabarca",
+    "link": "https://www.elperiodico.com/es/sucesos/20260718/rescatadas-personas-hundimiento-catamaran-tabarca-132586621",
+    "pubDate": "2026-07-18 18:16:19",
+    "category": "",
+    "description": "<h2>La embarcación se hundió al sureste de la isla y todos sus ocupantes fueron auxiliados</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los argentinos en Barcelona se conjuran en el 'banderazo' previo a la final: \"En esta ciudad me siento como en casa\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260718/argentinos-barcelona-conjuran-banderazo-previo-132578128",
+    "pubDate": "2026-07-18 18:15:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Argentinos residentes en la capital catalana se reúnen para compartir las horas previas a una final que, en muchos casos, les ha permitido \"reconectar\" con su país</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260716/diego-arcos-buenos-aires-barcelona-118319059\" target=\"_blank\">Diego Arcos: \"De Buenos Aires a Barcelona emigra clase media, porque una familia necesita 20.000 euros para venir\"</a></h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Josh Kerr destroza el legendario récord de la milla de El Guerrouj de hace 27 años: 12 horas en una cámara de hipoxia y entrenamiento metódico",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/josh-kerr-destroza-legendario-record-132586080",
+    "pubDate": "2026-07-18 18:08:51",
+    "category": "",
+    "description": "<h2>Con un tiempo de 3:42.66, el atleta bate en Londres la legendaria marca del marroquí</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 94
+  },
+  {
+    "title": "Понад 1000 разів: росіяни вдарили по теплооб'єкту в Херсоні",
+    "link": "https://ua.korrespondent.net/ukraine/4895301-ponad-1000-raziv-rosiiany-vdaryly-po-teploobiektu-v-khersoni",
+    "pubDate": "2026-07-18 18:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499403.jpg\">Росіяни вже понад тисячу разів вдарили по підприємству, яке забезпечує теплом майже півтисячі домівок херсонців.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿A quién apoyará Trump en la final del Mundial entre España y Argentina? Esto es lo que dice la Casa Blanca",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/quien-apoyara-trump-final-mundial-espana-argentina-que-dice-casa-blanca-dv-132564105",
+    "pubDate": "2026-07-18 18:02:12",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260718/espana-argentina-partido-final-mundial-2026-resultado-ultima-hora-directo-132575699\" target=\"_blank\">España – Argentina, en directo: última hora y resultado de la final del Mundial 2026</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Antonelli puede con todos y se lleva la pole en Spa",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/antonelli-lleva-pole-spa-132585893",
+    "pubDate": "2026-07-18 18:01:11",
+    "category": "",
+    "description": "<h2>Verstappen y Hadjar ejecutan a la perfección una vuelta al rebufo que ha catapultado al neerlandés al segundo puesto en parrilla, pero el italiano le ha batido por tres décimas y este domingo saldrá desde la pole en el GP de Bélgica. Sainz partirá 15º y Alonso, en la última fila</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Магучіх стала другою на Діамантовій лізі у Лондоні",
+    "link": "https://ua.korrespondent.net/sport/4895303-mahuchikh-stala-druhoui-na-diamantovii-lizi-u-londoni",
+    "pubDate": "2026-07-18 17:51:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499382.jpg\">Українська спортсменка, яка спеціалізується на стрибках у висоту, посіла друге місце на турнірі, що триває у столиці Великої Британії.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ атакувала Запоріжжя, є поранені",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4895298-rf-atakuvala-zaporizhzhia-ye-poraneni",
+    "pubDate": "2026-07-18 17:40:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499373.jpg\">Голова Запорізької ОВА повідомив, що постраждали чоловік 42 років і дівчина 17 років.  У ДСНС повідомляють про трьох поранених.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Danny Leon, skater profesional, desde GRAVITEO: \"Voy a por el 'hat-trick', a por mis terceros Juegos Olímpicos y voy a ir con todo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/danny-leon-skater-profesional-graviteo-132584385",
+    "pubDate": "2026-07-18 17:39:52",
+    "category": "",
+    "description": "<h2>El madrileño es uno de los skaters más veteranos del circuito y tras participar en Tokio 2020 y París 2024 apunta ya a Los Ángeles 2028</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Pogacar se exhibe en los Vosgos y el Tour enloquece con Seixas",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/pogacar-exhibe-vosgos-tour-enloquece-132583885",
+    "pubDate": "2026-07-18 17:36:59",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "Colas y furor por obtener una camiseta de 'la roja' en Barcelona: \"Es imposible encontrar nada ni en el 'top manta' ni en la tienda oficial\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260718/colas-furor-existencias-camiseta-seleccion-espanola-roja-futbol-barcelona-132584825",
+    "pubDate": "2026-07-18 17:30:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Los aficionados barceloneses apuran las opciones para conseguir una elástica antes de la final, que vivirán con amigos, en bares y en las diferentes pantallas gigantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260716/diego-arcos-buenos-aires-barcelona-118319059\" target=\"_blank\">Diego Arcos: \"De Buenos Aires a Barcelona emigra clase media, porque una familia necesita 20.000 euros para venir\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una tormenta eléctrica obliga a cancelar el último entrenamiento de España antes de la final",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/tormenta-electrica-obliga-aplazar-ultimo-132585109",
+    "pubDate": "2026-07-18 17:17:34",
+    "category": "",
+    "description": "<h2>La final no corre peligro, ya que no se prevén tormentas el domingo en el estado de Nueva Jersey</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Vídeo | El hipopótamo viral tailandés Moo Deng predice la final del Mundial: este sería el ganador",
     "link": "https://www.elperiodico.com/es/deportes/20260718/video-hipopotamo-viral-tailandes-predice-final-mundial-132585091",
     "pubDate": "2026-07-18 17:16:05",
@@ -772,6 +880,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499020.jpg\">Внаслідок удару спалахнула пожежа. Її вже ліквідували. Вщент зруйнований один житловий будинок, пошкоджені ще кілька господарських споруд.",
     "topic": null,
     "topic_match_probability": 0
+  },
+  {
+    "title": "Під Харковом п'ятеро поліцейських постраждали через атаку дрона",
+    "link": "https://ua.korrespondent.net/ukraine/4895255-pid-kharkovom-piatero-politseiskykh-postrazhdaly-cherez-ataku-drona",
+    "pubDate": "2026-07-18 11:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499020.jpg\">Внаслідок удару спалахнула пожежа. Її вже ліквідували. Вщент зруйнований один житловий будинок, пошкоджені ще кілька господарських споруд.",
+    "topic": "спорт",
+    "topic_match_probability": 90
   },
   {
     "title": "Чемпіонат світу-2026: анонс 33-го дня –кому дістанеться бронза?",
@@ -1735,6 +1852,15 @@
     "description": "<h2>Las opacas maniobras financieras de Eric Trump y Donald Trump Jr. con compañías de tecnología militar, criptomonedas o minería recompensadas con contratos públicos firmados por su padre están enriqueciendo al clan familiar más poderoso de Estados Unidos</h2>",
     "topic": "політика",
     "topic_match_probability": 70
+  },
+  {
+    "title": "¿Qué son los Fantasy? Los juegos Fantasy, la competición paralela que convierte al aficionado en entrenador",
+    "link": "https://www.elperiodico.com/es/economia/20260718/juegos-fantasy-competicion-paralela-convierte-aficionado-entrenador-132512599",
+    "pubDate": "2026-07-18 06:00:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Estas plataformas permiten crear equipos virtuales con futbolistas reales y competir según su rendimiento en cada jornada. La estrategia, el seguimiento de la actualidad y la relación entre amigos explican buena parte de su popularidad</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "Quién gana cuando hace 40 grados: Goldman señala las 42 empresas beneficiadas por el calor extremo",
