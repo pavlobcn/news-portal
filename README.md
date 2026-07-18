@@ -1,8 +1,9 @@
-# News for 2026-07-18 09:30
+# News for 2026-07-18 10:21
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+09:34 [Землетруси у Венесуелі: загинули понад 5000 людей](https://ua.korrespondent.net/world/4895235-zemletrusy-u-venesueli-zahynuly-ponad-5000-luidei)<br>
 09:13 [Міноборони уточнило інформацію щодо Резерв+](https://ua.korrespondent.net/ukraine/4895233-minoborony-utochnylo-informatsiui-schodo-rezerv)<br>
 08:54 [Летіли Іскандери і Онікси: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4895230-letily-iskandery-i-oniksy-yak-vidpratsuivala-ppo)<br>
 08:35 [На Чернігівщині дрон РФ влучив у будинок, серед постраждалих діти](https://ua.korrespondent.net/ukraine/4895227-na-chernihivschyni-dron-rf-vluchyv-u-budynok-sered-postrazhdalykh-dity)<br>
@@ -18,6 +19,9 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## www.elperiodico.com
+10:15 [Qué significa "dormirse en los laureles" y de dónde viene esta expresión](https://www.elperiodico.com/es/sociedad/20260718/dormirse-laureles-significado-origen-expresion-dv-132513869)<br>
+10:05 [Ni tropicales ni infernales: los meteorólogos estudian un nuevo nombre para las noches que superen los 35 grados en Catalunya](https://www.elperiodico.com/es/tiempo/20260718/temperaturas-noches-tropicales-torridas-infernales-mas-caliente-nombres-expertos-meteocat-dv-et-132318653)<br>
+10:00 [Volver a la playa cuando te estás recuperando de un trastorno de conducta alimentaria: "Llevamos años sin bañarnos"](https://www.elperiodico.com/es/sociedad/20260718/jovenes-tca-trastorno-alimentario-playa-terapia-perros-cuerpo-132324925)<br>
 09:29 [Sony quiere que PS6 abandone el metal líquido y adopte un nuevo sistema de refrigeración](https://www.elperiodico.com/es/videojuegos/20260718/sony-quiere-ps6-abandone-metal-132566948)<br>
 09:20 [Revuelo científico: detectan por primera vez una atmósfera en un planeta rocoso situado en zona habitable](https://www.elperiodico.com/es/tendencias21/20260718/revuelo-cientifico-detectan-primera-vez-132575028)<br>
 09:10 [Axel y el precio de vivir solo en un palacio en la naturaleza por solo 150 euros al mes: "Con los precios de España es una locura"](https://www.elperiodico.com/es/economia/20260718/asturias-vivienda-palacio-aislado-axel-dv-et-132337212)<br>
