@@ -1,5 +1,140 @@
 [
   {
+    "title": "Cinco heridos por la explosión de un coche aparcado en Lleida.",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cinco-heridos-explosion-coche-aparcado/132581195.shtml",
+    "pubDate": "2026-07-18 13:40:16",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Mario Kempes analiza la final del Mundial: \"Para mí, Argentina es la favorita\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/mario-kempes-analiza-final-mundial-132581125",
+    "pubDate": "2026-07-18 13:39:46",
+    "category": "",
+    "description": "<h2>A punto de la final mundialista entre España y Argentina, SUPER contacta con el gran ídolo valencianista, el hombre que le dio a los argentinos la primera estrella de las tres que lucen en su camiseta</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El balón de la ‘Mano de Dios’ sale a subasta por 2,5 millones de dólares",
+    "link": "https://www.elperiodico.com/es/videos/deportes/balon-mano-dios-sale-subasta/132581215.shtml",
+    "pubDate": "2026-07-18 13:39:10",
+    "category": "",
+    "description": "El balón del Argentina-Inglaterra de 1986 estará en venta hasta finales de agosto con una puja inicial de 2,5 millones de dólares",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Copa del Mundo: el trofeo de 6,175 kilos de oro que resistió guerras y robos ridículos",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/copa-mundo-trofeo-6-175-132580960",
+    "pubDate": "2026-07-18 13:37:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La Copa del Mundo, una joya que ha protagonizado robos, ha sido escondida bajo una cama y casi se funde en Argentina</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260718/espana-argentina-partido-final-mundial-2026-resultado-ultima-hora-directo-132575699\" target=\"_blank\">DIRECTO| Siga las últimas noticias sobre la final del mundial entre España-Argentina de este domingo</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cinco heridos por una explosión en un coche aparcado en la calle en Lleida",
+    "link": "https://www.elperiodico.com/es/sociedad/20260718/cinco-heridos-explosion-coche-aparcado-132580790",
+    "pubDate": "2026-07-18 13:36:35",
+    "category": "",
+    "description": "<h2>Los Mossos d’Esquadra han abierto una investigación para conocer las causas del suceso</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Інтервенції НБУ знову перевищили психологічну межу",
+    "link": "https://ua.korrespondent.net/business/financial/4895272-interventsii-nbu-znovu-perevyschyly-psykholohichnu-mezhu",
+    "pubDate": "2026-07-18 13:33:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499129.jpg\">З початку 2026 року регулятор продав на міжбанку майже 26 млрд доларів, а продав – лише 1 млн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los implicados en los incendios de Zamora: Dos varones de 31 y 32 años",
+    "link": "https://www.elperiodico.com/es/sucesos/20260718/implicados-incendios-zamora-varones-31-132580883",
+    "pubDate": "2026-07-18 13:29:55",
+    "category": "",
+    "description": "<h2>La Guardia Civil ha detenido a uno de ellos y el otro está investigado como supuestos autores de 15 incendios que afectaron una vivienda habitada con grave peligro para los moradores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Samantha Vallejo-Nágera presume de su sobrino, el hijo de Colate y Paulina Rubio, en un día muy especial para ella",
+    "link": "https://www.elperiodico.com/es/gente/20260718/samantha-vallejo-nagera-presume-sobrino-132580794",
+    "pubDate": "2026-07-18 13:29:12",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Sara Carbonero (42 años), presentadora, sobre su hijo Martín: \"El color de mi verano\"",
+    "link": "https://www.elperiodico.com/es/gente/20260718/sara-carbonero-instagram-foto-hijos-iker-casillas-verano-pueblo-dv-et-132473332",
+    "pubDate": "2026-07-18 13:25:37",
+    "category": "",
+    "description": "<h2>El menor, de 12 años, reivindica su juego para diferenciarse de su padre, Iker Casillas: \"Quiero hacer mi propia carrera, no quiero que me comparen\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 25
+  },
+  {
+    "title": "La etapa 14 del Tour de Francia, en directo | Mulhouse - Le Markstein Fellering",
+    "link": "https://www.elperiodico.com/es/deportes/ciclismo/20260718/etapa-14-tour-francia-directo-132580481",
+    "pubDate": "2026-07-18 13:21:33",
+    "category": "",
+    "description": "<h2>Con inicio en Mulhouse y final en Le Markstein, la etapa 14 del Tour de Francia 2026 abarca un recorrido de 155,3 kilómetros, 3.800 metros de desnivel y cuatro puertos categorizados</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЗСУ уразили нафтобазу під Москвою і кораблі РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4895269-zsu-urazyly-naftobazu-pid-moskvoui-i-korabli-rf",
+    "pubDate": "2026-07-18 13:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499108.jpg\">Під удар потрапив сторожовий корабель проєкту 10410 Светляк у кримській Керчі. Це вже другий такий корабель за останні два дні.",
+    "topic": "політика",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "El aviso del doctor Javier Albares para mejorar el insomnio: \"Estar en contacto con la naturaleza es fundamental para nuestro descanso y paz mental\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260718/combatir-insomnio-naturaleza-efectos-contaminacion-luminica-doctor-albares-dv-et-131584762",
+    "pubDate": "2026-07-18 13:10:00",
+    "category": "",
+    "description": "<h2>El especialista señala a la contaminación lumínica como uno de los principales enemigos para conciliar el sueño</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260706/nuria-roure-psicologa-experta-sueno-tres-errores-dormir-dv-131876172\">Nuria Roure, psicóloga experta en sueño revela los tres errores que te impiden dormir cuando tienes insomnio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Urtasun advierte de que la legislatura no es \"resistir por resistir\" y debe valer la pena a la gente",
+    "link": "https://www.elperiodico.com/es/politica/20260718/urtasun-advierte-legislatura-resistir-gobierno-pena-gente-132579941",
+    "pubDate": "2026-07-18 13:03:29",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260718/zapatero-interlocucion-sanchez-ministros-joyas-132562926\" target=\"_blank\">Zapatero mantiene la interlocución con Sánchez, ministros y la cúpula del PSOE pese al choque por la investigación fiscal</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260718/aval-amnistia-reunion-sanchez-puigdemont-132558692\" target=\"_blank\">El aval de la justicia europea a la amnistía no acerca una reunión entre Sánchez y Puigdemont: “No está sobre la mesa”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Inda Bonet, el músico que tocará en directo el himno de España en la final del Mundial contra Argentina: \"Más que nervios siento ilusión\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/inda-bonet-musico-tocara-directo-132579744",
+    "pubDate": "2026-07-18 12:59:44",
+    "category": "",
+    "description": "<h2>El integrante de Spanish Brass interpretará el himno nacional en la ceremonia previa al partido, ante millones de espectadores en todo el mundo</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260718/espana-argentina-partido-final-mundial-2026-resultado-ultima-hora-directo-132575699\" target=\"_blank\">España – Argentina, en directo: última hora y resultado de la final del Mundial 2026</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Illa reivindica la amnistía como vía para no quedar \"atrapados en el rencor\"",
+    "link": "https://www.elperiodico.com/es/politica/20260718/amnistia-salvador-illa-atrapados-rencor-catalunya-132579581",
+    "pubDate": "2026-07-18 12:47:20",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260718/junts-carles-puigdemont-volver-catalunya-amnistia-regreso-jordi-turull-justicia-venganza-132577104\" target=\"_blank\">Junts proclama que Puigdemont volverá a Catalunya \"pese a quien le pese\" aunque la justicia española busque \"venganza\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260718/expertos-alejan-regreso-puigdemont-anticipan-largo-camino-supremo-amnistia-132545104\" target=\"_blank\">Los expertos alejan el regreso de Puigdemont y anticipan un largo camino en el Supremo para aplicar la amnistía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "¿Por qué España ha llegado a la final del Mundial? El Museo del Prado te lo explica a través de 10 obras",
     "link": "https://www.elperiodico.com/es/deportes/20260718/por-que-espana-llegado-final-mundial-museo-prado-explica-10-obras-132579346",
     "pubDate": "2026-07-18 12:42:14",
@@ -16,6 +151,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499066.jpg\">Усіх пасажирів і працівників оперативно перевели у безпечне місце. За попередньою інформацією, постраждалих немає.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "ФІФА збільшила перерву у фіналі для грандіозного шоу",
+    "link": "https://ua.korrespondent.net/sport/football/4895265-fifa-zbilshyla-perervu-u-finali-dlia-hrandioznoho-shou",
+    "pubDate": "2026-07-18 12:33:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499067.jpg\">Міжнародна федерація футболу офіційно оголосила про 17-хвилинну паузу у перерві фінального матчу між Аргентиною та Іспанією.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "\"Es algo que debes ver al menos una vez en la vida\": la visita a la Capilla Sixtina por un precio imbatible",

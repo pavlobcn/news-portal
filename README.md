@@ -1,8 +1,9 @@
-# News for 2026-07-18 12:44
+# News for 2026-07-18 13:40
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+13:33 [Інтервенції НБУ знову перевищили психологічну межу](https://ua.korrespondent.net/business/financial/4895272-interventsii-nbu-znovu-perevyschyly-psykholohichnu-mezhu)<br>
 12:38 [Росія атакувала пасажирський поїзд на Запоріжжі](https://ua.korrespondent.net/ukraine/4895263-rosiia-atakuvala-pasazhyrskyi-poizd-na-zaporizhzhi)<br>
 12:15 [Туск відреагував на ініціативи Зеленського](https://ua.korrespondent.net/world/4895261-tusk-vidreahuvav-na-initsiatyvy-zelenskoho)<br>
 11:51 [Під Харковом п'ятеро поліцейських потраждали через атаку дрона](https://ua.korrespondent.net/ukraine/4895255-pid-kharkovom-piatero-politseiskykh-potrazhdaly-cherez-ataku-drona)<br>
@@ -23,6 +24,8 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## www.elperiodico.com
+13:29 [Los implicados en los incendios de Zamora: Dos varones de 31 y 32 años](https://www.elperiodico.com/es/sucesos/20260718/implicados-incendios-zamora-varones-31-132580883)<br>
+13:10 [El aviso del doctor Javier Albares para mejorar el insomnio: "Estar en contacto con la naturaleza es fundamental para nuestro descanso y paz mental"](https://www.elperiodico.com/es/ser-feliz/20260718/combatir-insomnio-naturaleza-efectos-contaminacion-luminica-doctor-albares-dv-et-131584762)<br>
 12:30 ["Es algo que debes ver al menos una vez en la vida": la visita a la Capilla Sixtina por un precio imbatible](https://www.elperiodico.com/es/sociedad/20260718/visita-capilla-sixtina-precio-dv-132513868)<br>
 12:29 [C](https://www.elperiodico.com/es/videos/internacional/c/132579146.shtml)<br>
 12:05 [¿Qué diferencias hay entre deshidratación, agotamiento y golpe de calo? Así puedes identificarlos](https://www.elperiodico.com/es/salud/20260718/tiempo-golpe-calor-deshidratacion-agotamiento-diferencias-dv-132167264)<br>
