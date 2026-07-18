@@ -1,5 +1,113 @@
 [
   {
+    "title": "La duda ofende",
+    "link": "https://www.elperiodico.com/es/opinion/20260718/duda-ofende-agnes-marques-132577061",
+    "pubDate": "2026-07-18 11:09:26",
+    "category": "",
+    "description": "<h2>La pausa parece pensamiento; la vacilación, prudencia; el \"déjame ver”, rigor\" Quien contesta demasiado deprisa da la impresión de no haber pensado nada, aunque sepa perfectamente de qué habla. </h2>",
+    "topic": null,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pride Barcelona 2026: estos son todos los conciertos gratis del sábado",
+    "link": "https://www.elperiodico.com/es/barcelona/20260718/pride-barcelona-2026-cartelera-conciertos-gratis-dv-132415332",
+    "pubDate": "2026-07-18 11:06:00",
+    "category": "",
+    "description": "<h2>En la celebración actúan artistas reconocidos mundialmente y emergentes de ámbito local</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260626/orgullo-lgtbi-mejores-planes-pride-barcelona-131814614\">Empieza el orgullo LGTBI: los mejores planes del Pride en Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20230609/planes-orgullo-lgtbi-barcelona-2023-88391435\">Todos los planes para celebrar el Orgullo LGTBI en Barcelona</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Franc Molinos (38 años), que vive en un camión con sus perros: \"Llevo siete años sin pagar alquiler, no pago luz y apenas pago agua\"",
+    "link": "https://www.elperiodico.com/es/economia/20260718/franc-molinos-38-anos-viviendo-camion-siete-anos-sin-pagar-alquiler-dv-et-132099123",
+    "pubDate": "2026-07-18 11:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El creador de contenido comparte con sus seguidores su estilo de vida sin casa fija, que le permite no pagar alquiler ni hipoteca, luz y llevar \"siete años sin facturas\"</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "BICI SENSE EDAD, Acompañamos a personas mayores de una residencia pública durante un paseo por Barcelona en bicicletas asistidas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/bici-sense-edad-acompanamos-personas/132576827.shtml",
+    "pubDate": "2026-07-18 11:04:13",
+    "category": "",
+    "description": "",
+    "topic": null,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de las Cinco Villas en Zaragoza quema ya unas 15.400 hectáreas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260718/incendio-cinco-villas-zaragoza-quema-132576991",
+    "pubDate": "2026-07-18 11:01:12",
+    "category": "",
+    "description": "<h2>Los equipos de extinción han evitado que el fuego alcance el núcleo urbano, aunque el incendio continúa activo y presenta varios frentes abiertos</h2>",
+    "topic": null,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La mentira permanente",
+    "link": "https://www.elperiodico.com/es/opinion/20260718/mentira-permanente-donald-trump-china-elecciones-articulo-rafael-vilasanjuan-132567853",
+    "pubDate": "2026-07-18 11:00:14",
+    "category": "",
+    "description": "<h2>¿Había que abrir esta guerra con China basado en unos documentos que no muestran el menor síntoma de evidencia? </h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260717/china-trump-inventadas-injuriosas-injerencia-elecciones-estados-unidos-132549922\">China califica de inventadas e injuriosas las acusaciones de Trump de injerencia en las elecciones de 2020</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Росіяни змінюють тактику застосування \"шахедів\" - Флеш\"",
+    "link": "https://ua.korrespondent.net/ukraine/4895248-rosiiany-zminuiuit-taktyku-zastosuvannia-shakhediv-flesh",
+    "pubDate": "2026-07-18 11:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498950.jpg\">Усі кроки ворога вимагають швидкої адаптації контрзаходів з боку України, зазначив Сергій Бескрестнов.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Jorge Iván Argiz, codirector del Celsius: \"No tenemos un gran presupuesto, pero sí leyendas que hacen que la gente quiera venir al festival\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260718/jorge-ivan-argiz-codirector-celsius-132576888",
+    "pubDate": "2026-07-18 10:54:50",
+    "category": "",
+    "description": "<h2>\"El Celsius ha conectado con la ciudad de una manera que otro tipo de eventos no consiguen hacerlo, la gente de <strong>Avilés</strong> se siente orgullosa de tenerlo en sus calles\"</h2>",
+    "topic": null,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuando la pena es menos pena: los españoles que afirman que una derrota ante Argentina les dolería menos",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/pena-pena-espanoles-afirman-derrota-132576558",
+    "pubDate": "2026-07-18 10:49:32",
+    "category": "",
+    "description": "<h2>Un sector de la afición española mantiene cierto cariño por la selección argentina y tendrá \"el corazón dividido\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "La final del Mundial se juega en el salón de casa: el conflicto de intereses de las parejas hispanoargentinas",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/final-mundial-juega-salon-casa-132576563",
+    "pubDate": "2026-07-18 10:45:46",
+    "category": "",
+    "description": "<h2>Familias con lazos argentinos y españoles experimentan la rivalidad futbolística con un sentimiento de pertenencia dual y afecto</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський підтвердив знищення логістики у РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4895245-zelenskyi-pidtverdyv-znyschennia-lohistyky-u-rf",
+    "pubDate": "2026-07-18 10:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498908.jpg\">Логістичні об’єкти були задіяні ворогом для забезпечення поставок підсанкційних комплектуючих для виробництва дронів та навігаційного обладнання.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Mujeres emprendedoras en Dubái: \"No podría recomendar un mejor lugar para emprender siendo mujer. Hemos llegado a las seis cifras de beneficio\"",
+    "link": "https://www.elperiodico.com/es/economia/20260718/mujeres-emprendedoras-dubai-mejor-lugar-seis-cifras-beneficio-dv-et-132483278",
+    "pubDate": "2026-07-18 10:20:55",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Nos sentimos súper seguras y muchas veces hay descuentos incluso para mujeres emprendedoras\", asegura la abogada Elena Baltar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20251122/alex-huertas-empresario-espanol-dubai-unica-alternativa-salvar-futuro-dv-123852768\">Alex Huertas, empresario español en el extranjero: \"Dubái es la única alternativa lógica para salvar tu futuro\" | Vídeo</a></h2>",
+    "topic": null,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Rajoy : \"España está en el momento de mayor polarización política desde 1978\"",
     "link": "https://www.elperiodico.com/es/politica/20260718/rajoy-espana-momento-mayor-polarizacion-132576109",
     "pubDate": "2026-07-18 10:20:12",
@@ -160,6 +268,15 @@
     "description": "<h2 class=\"item\">La decisión de la FIFA sigue el modelo de los grandes eventos deportivos estadounidenses</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/futbol/20260717/final-mundial-2026-espana-argentina-contaminacion-calidad-aire-nueva-york-incendio-canada-dv-132549738\">¿Se suspende la final del Mundial 2026 entre España y Argentina? Así está la situación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260715/barcelona-instalara-pantalla-gigante-final-mundial-132480015\">Barcelona instalará una pantalla gigante para seguir la final del Mundial de fútbol este domingo</a></h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "El ministro de Interior alemán advierte de la \"alta amenaza\" de atentados en el país",
+    "link": "https://www.elperiodico.com/es/internacional/20260718/ministro-interior-alemania-riesgo-atentado-132575104",
+    "pubDate": "2026-07-18 09:35:19",
+    "category": "",
+    "description": "<h2>Dobrindt explica que quiere reforzar los servicios secretos para que puedan actuar directamente ante amenazas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
   },
   {
     "title": "Землетруси у Венесуелі: загинули понад 5000 людей",

@@ -1,4 +1,4 @@
-# News for 2026-07-18 10:21
+# News for 2026-07-18 11:12
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
@@ -19,6 +19,11 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## www.elperiodico.com
+11:09 [La duda ofende](https://www.elperiodico.com/es/opinion/20260718/duda-ofende-agnes-marques-132577061)<br>
+11:04 [BICI SENSE EDAD, Acompañamos a personas mayores de una residencia pública durante un paseo por Barcelona en bicicletas asistidas](https://www.elperiodico.com/es/videos/sociedad/bici-sense-edad-acompanamos-personas/132576827.shtml)<br>
+11:01 [El incendio de las Cinco Villas en Zaragoza quema ya unas 15.400 hectáreas](https://www.elperiodico.com/es/sociedad/20260718/incendio-cinco-villas-zaragoza-quema-132576991)<br>
+10:54 [Jorge Iván Argiz, codirector del Celsius: "No tenemos un gran presupuesto, pero sí leyendas que hacen que la gente quiera venir al festival"](https://www.elperiodico.com/es/ocio-y-cultura/20260718/jorge-ivan-argiz-codirector-celsius-132576888)<br>
+10:20 [Mujeres emprendedoras en Dubái: "No podría recomendar un mejor lugar para emprender siendo mujer. Hemos llegado a las seis cifras de beneficio"](https://www.elperiodico.com/es/economia/20260718/mujeres-emprendedoras-dubai-mejor-lugar-seis-cifras-beneficio-dv-et-132483278)<br>
 10:15 [Qué significa "dormirse en los laureles" y de dónde viene esta expresión](https://www.elperiodico.com/es/sociedad/20260718/dormirse-laureles-significado-origen-expresion-dv-132513869)<br>
 10:05 [Ni tropicales ni infernales: los meteorólogos estudian un nuevo nombre para las noches que superen los 35 grados en Catalunya](https://www.elperiodico.com/es/tiempo/20260718/temperaturas-noches-tropicales-torridas-infernales-mas-caliente-nombres-expertos-meteocat-dv-et-132318653)<br>
 10:00 [Volver a la playa cuando te estás recuperando de un trastorno de conducta alimentaria: "Llevamos años sin bañarnos"](https://www.elperiodico.com/es/sociedad/20260718/jovenes-tca-trastorno-alimentario-playa-terapia-perros-cuerpo-132324925)<br>
