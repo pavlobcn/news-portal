@@ -1,5 +1,14 @@
 [
   {
+    "title": "США сьому ніч поспіль завдають ударів по Ірану",
+    "link": "https://ua.korrespondent.net/world/4895194-ssha-somu-nich-pospil-zavdauit-udariv-po-iranu",
+    "pubDate": "2026-07-18 02:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498435.jpg\">Удари по Ірану мають на меті ще більше ослабити його військові спроможності, зазначає Центрального командування США.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Дрони атакували Росію: горить склад Wildberries",
     "link": "https://ua.korrespondent.net/ukraine/4895192-drony-atakuvaly-rosiui-horyt-sklad-Wildberries",
     "pubDate": "2026-07-18 01:59:00",
@@ -7,6 +16,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498394.png\">Один з працівників складу в місті Котовськ підтвердив, що склад загорівся після атаки - звідти евакуюють персонал.",
     "topic": "політика",
     "topic_match_probability": 45
+  },
+  {
+    "title": "Дрони атакували Росію: горить склад Wildberries",
+    "link": "https://ua.korrespondent.net/world/russia/4895192-drony-atakuvaly-rosiui-horyt-sklad-Wildberries",
+    "pubDate": "2026-07-18 01:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498394.png\">Один з працівників складу в місті Котовськ підтвердив, що склад загорівся після атаки - звідти евакуюють персонал.",
+    "topic": "політика",
+    "topic_match_probability": 55
   },
   {
     "title": "У Литві невідомі розіслали листи з погрозами влаштувати вибухи",
