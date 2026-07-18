@@ -1,8 +1,10 @@
-# News for 2026-07-18 14:40
+# News for 2026-07-18 15:47
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+15:10 [ЗМІ: Ірак уклав енергетичні угоди із західними компаніями на понад $60 млрд](https://ua.korrespondent.net/world/4895283-zmi-irak-uklav-enerhetychni-uhody-iz-zakhidnymy-kompaniiamy-na-ponad-60-mlrd)<br>
+14:44 [Скеля заявляє про контроль над Костянтинівкою](https://ua.korrespondent.net/ukraine/4895281-skelia-zaiavliaie-pro-kontrol-nad-kostiantynivkoui)<br>
 13:33 [Інтервенції НБУ знову перевищили психологічну межу](https://ua.korrespondent.net/business/financial/4895272-interventsii-nbu-znovu-perevyschyly-psykholohichnu-mezhu)<br>
 12:38 [Росія атакувала пасажирський поїзд на Запоріжжі](https://ua.korrespondent.net/ukraine/4895263-rosiia-atakuvala-pasazhyrskyi-poizd-na-zaporizhzhi)<br>
 12:15 [Туск відреагував на ініціативи Зеленського](https://ua.korrespondent.net/world/4895261-tusk-vidreahuvav-na-initsiatyvy-zelenskoho)<br>
@@ -24,6 +26,8 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## www.elperiodico.com
+15:37 [Incendios hoy, 18 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260718/incendios-hoy-18-julio-cataluna-espana-mapa-fuegos-activos-dv-132583697)<br>
+15:22 [Chuck Palahniuk: "Escribí 'El club de la lucha' pensando que sería un libro que nadie querría publicar, pero que, a su vez, nadie olvidaría"](https://www.elperiodico.com/es/ocio-y-cultura/20260718/chuck-palahniuk-escribi-club-lucha-132583478)<br>
 14:34 [Las víctimas del accidente de Adamuz denuncian “desamparo y parálisis” seis meses después de la tragedia](https://www.elperiodico.com/es/sociedad/20260718/victimas-accidente-adamuz-denuncian-desamparo-132582510)<br>
 14:31 [Borracho al manillar: multan con mil euros a un ciclista en A Coruña que cuadruplicaba la tasa de alcohol permitida](https://www.elperiodico.com/es/sucesos/20260718/borracho-manillar-multan-mil-euros-132582423)<br>
 14:22 [Rusia confirma un muerto y 37 heridos en el gran ataque ucraniano de esta pasada noche contra Moscú](https://www.elperiodico.com/es/internacional/20260718/rusia-confirma-muerto-heridos-ataque-ucrania-132582205)<br>
