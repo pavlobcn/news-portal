@@ -90,6 +90,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Новий прем'єр Британії. Хто замінить Стармера",
+    "link": "https://ua.korrespondent.net/world/4895189-novyi-premier-brytanii-khto-zaminyt-starmera",
+    "pubDate": "2026-07-17 22:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4498373.jpg\">Послужний список Бернема на посаді мера Манчестера вважають доказом того, що це працює, у заслугу йому ставлять створення ефективної та прибуткової транспортної системи.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Cazadores de tesoros hallan un lingote de plata de galeón español hundido en Florida en 1622",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260717/cazadores-tesoros-hallan-lingote-plata-florida-132569664",
     "pubDate": "2026-07-17 22:24:54",
@@ -243,6 +252,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-17 20:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "La mitad de los conductores en España ya eligen gasolineras low cost como primera opción",
     "link": "https://www.elperiodico.com/es/motor/20260717/mitad-conductores-espana-eligen-gasolineras-low-cost-132439642",
     "pubDate": "2026-07-17 20:30:16",
@@ -387,6 +405,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-17 19:33:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Apple стала найдорожчою компанією світу, випередивши NVIDIA",
     "link": "https://ua.korrespondent.net/business/companies/4895141-Apple-stala-naidorozhchoui-kompaniieui-svitu-vyperedyvshy-NVIDIA",
     "pubDate": "2026-07-17 19:31:00",
@@ -403,6 +430,15 @@
     "description": "<h2>El propio presidente Infantino politizó el torneo al alinearse con Trump y luego al aceptar retirar por sugerencia suya una tarjeta roja. El seleccionador egipcio sacó una bandera palestina. En otras ediciones, se sancionó a dos suizos y un coreano por proclamas políticas</h2>",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Mercado de fichajes, 2026, EuroLeague: todos los movimientos",
+    "link": "https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-17 19:24:14",
+    "category": "Mercado Euroliga",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Euroliga este verano de 2026.",
+    "topic": 0,
+    "topic_match_probability": 0
   },
   {
     "title": "У Польщі різко зросла кількість нападів на українців",
@@ -450,6 +486,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-17 19:17:49",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "Pruebas en la Torre Glòries para la final del mundo de fútbol",
     "link": "https://www.elperiodico.com/es/videos/barcelona/pruebas-torre-glories-final-mundo/132565122.shtml",
     "pubDate": "2026-07-17 19:14:16",
@@ -457,6 +502,15 @@
     "description": "",
     "topic": "спорт",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Así está la plantilla del Barça para la temporada 2026-27: Shengelia, la gran duda",
+    "link": "https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-barca-para-la-temporada-2026-27-shengelia-la-gran-duda-f202607-n/",
+    "pubDate": "2026-07-17 19:13:43",
+    "category": "Baloncesto",
+    "description": "Solo cinco jugadores de la pasada temporada sobreviven a la limpia que se ha producido en la plantilla. El georgiano puede salir.",
+    "topic": 0,
+    "topic_match_probability": 0
   },
   {
     "title": "Un torneo de lucha libre entre robots humanoides se estrena en China",
