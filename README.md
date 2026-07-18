@@ -1,8 +1,10 @@
-# News for 2026-07-18 15:47
+# News for 2026-07-18 16:43
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+16:25 [У Чернігові російські дрони атакували гаражний кооператив](https://ua.korrespondent.net/ukraine/4895291-u-chernihovi-rosiiski-drony-atakuvaly-harazhnyi-kooperatyv)<br>
+16:00 [На Донеччині триває понад 10 боєзіткнень](https://ua.korrespondent.net/ukraine/4895289-na-donechchyni-tryvaie-ponad-10-boiezitknen)<br>
 15:10 [ЗМІ: Ірак уклав енергетичні угоди із західними компаніями на понад $60 млрд](https://ua.korrespondent.net/world/4895283-zmi-irak-uklav-enerhetychni-uhody-iz-zakhidnymy-kompaniiamy-na-ponad-60-mlrd)<br>
 14:44 [Скеля заявляє про контроль над Костянтинівкою](https://ua.korrespondent.net/ukraine/4895281-skelia-zaiavliaie-pro-kontrol-nad-kostiantynivkoui)<br>
 13:33 [Інтервенції НБУ знову перевищили психологічну межу](https://ua.korrespondent.net/business/financial/4895272-interventsii-nbu-znovu-perevyschyly-psykholohichnu-mezhu)<br>
@@ -25,7 +27,12 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 01:43 [У Литві невідомі розіслали листи з погрозами влаштувати вибухи](https://ua.korrespondent.net/world/4895188-u-lytvi-nevidomi-rozislaly-lysty-z-pohrozamy-vlashtuvaty-vybukhy)<br>
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
+## as.com
+16:31 [Souley Boum, el nuevo fichaje del UCAM Murcia](https://as.com/baloncesto/acb/souley-boum-el-nuevo-fichaje-del-ucam-murcia-f202607-n/)<br>
+
 ## www.elperiodico.com
+16:02 [El Pentágono realizará pruebas para detectar deficiencia de testosterona entre los soldados estadounidenses](https://www.elperiodico.com/es/internacional/20260718/pentagono-realizara-pruebas-detectar-deficiencia-testosterona-132584032)<br>
+16:01 [Alcaldes de las Cinco Villas (Zaragoza) en preaviso por evacuación: "Tenemos que estar pendientes de todas las noticias"](https://www.elperiodico.com/es/sociedad/20260718/alcaldes-cinco-villas-zaragoza-preaviso-132584003)<br>
 15:37 [Incendios hoy, 18 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260718/incendios-hoy-18-julio-cataluna-espana-mapa-fuegos-activos-dv-132583697)<br>
 15:22 [Chuck Palahniuk: "Escribí 'El club de la lucha' pensando que sería un libro que nadie querría publicar, pero que, a su vez, nadie olvidaría"](https://www.elperiodico.com/es/ocio-y-cultura/20260718/chuck-palahniuk-escribi-club-lucha-132583478)<br>
 14:34 [Las víctimas del accidente de Adamuz denuncian “desamparo y parálisis” seis meses después de la tragedia](https://www.elperiodico.com/es/sociedad/20260718/victimas-accidente-adamuz-denuncian-desamparo-132582510)<br>
