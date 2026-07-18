@@ -1,8 +1,11 @@
-# News for 2026-07-18 08:24
+# News for 2026-07-18 09:30
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
 ## ua.korrespondent.net
+09:13 [Міноборони уточнило інформацію щодо Резерв+](https://ua.korrespondent.net/ukraine/4895233-minoborony-utochnylo-informatsiui-schodo-rezerv)<br>
+08:54 [Летіли Іскандери і Онікси: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4895230-letily-iskandery-i-oniksy-yak-vidpratsuivala-ppo)<br>
+08:35 [На Чернігівщині дрон РФ влучив у будинок, серед постраждалих діти](https://ua.korrespondent.net/ukraine/4895227-na-chernihivschyni-dron-rf-vluchyv-u-budynok-sered-postrazhdalykh-dity)<br>
 08:14 ["Везувій" на складах: дим від пожеж сягнув Москви](https://ua.korrespondent.net/world/russia/4895225-vezuvii-na-skladakh-dym-vid-pozhezh-siahnuv-moskvy)<br>
 07:45 [ЗСУ уразили 20 скупчень російських військ](https://ua.korrespondent.net/ukraine/4895222-zsu-urazyly-20-skupchen-rosiiskykh-viisk)<br>
 07:31 [Пірати знову захопили танкер біля узбережжя Ємену](https://ua.korrespondent.net/world/4895220-piraty-znovu-zakhopyly-tanker-bilia-uzberezhzhia-yemenu)<br>
@@ -15,6 +18,14 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## www.elperiodico.com
+09:29 [Sony quiere que PS6 abandone el metal líquido y adopte un nuevo sistema de refrigeración](https://www.elperiodico.com/es/videojuegos/20260718/sony-quiere-ps6-abandone-metal-132566948)<br>
+09:20 [Revuelo científico: detectan por primera vez una atmósfera en un planeta rocoso situado en zona habitable](https://www.elperiodico.com/es/tendencias21/20260718/revuelo-cientifico-detectan-primera-vez-132575028)<br>
+09:10 [Axel y el precio de vivir solo en un palacio en la naturaleza por solo 150 euros al mes: "Con los precios de España es una locura"](https://www.elperiodico.com/es/economia/20260718/asturias-vivienda-palacio-aislado-axel-dv-et-132337212)<br>
+09:00 [Solo tres hospitales de Barcelona tienen antídoto contra las víboras en Cataluya, lejos de las zonas de más riesgo](https://www.elperiodico.com/es/sociedad/20260718/tres-hospitales-barcelona-antidoto-viboras-cataluna-lejos-zonas-riesgo-131688418)<br>
+09:00 [Las 12 serpientes de Catalunya, "amenazadas y difíciles de ver": solo tres son venenosas](https://www.elperiodico.com/es/sociedad/20260718/serpientes-viboras-amenazadas-cataluna-dificiles-observar-venenosas-131935331)<br>
+08:30 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260718/directo-guerra-ucrania-rusia-ultima-126605559)<br>
+08:30 [El encantador pueblo a tan solo 15 minutos de Santa Coloma de Gramenet: con viñedos y ambiente tranquilo](https://www.elperiodico.com/es/barcelona/santa-coloma/20260718/tiana-pueblo-cuento-cerca-santa-coloma-de-gramenet-dv-loc-109287809)<br>
+08:15 [Incendios forestales en Catalunya y resto de España, en directo: última hora del fuego en Orés (Zaragoza), que arrasa ya más de 14.000 hectáreas](https://www.elperiodico.com/es/sociedad/20260718/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 08:12 [Berni Álvarez, Conseller d'Esports de la Generalitat, sobre GRAVITEO: "Tenemos expectativas muy altas de que sea un éxito"](https://www.elperiodico.com/es/deportes/20260718/berni-alvarez-conseller-desports-generalitat-132573874)<br>
 08:10 [Los expertos avisan: "Cada vez habrá más medusas" en las playas de Catalunya](https://www.elperiodico.com/es/catalunya/20260718/medusas-playas-cataluna-expertos-dv-loc-et-132551022)<br>
 08:05 [El municipio de Barcelona donde nació Héctor Bellerín: un faro, tres playas y un sorprendente pasado textil](https://www.elperiodico.com/es/catalunya/20260718/hector-bellerin-futbol-calella-maresme-cataluna-turismo-textil-dv-loc-131931680)<br>
