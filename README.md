@@ -1,4 +1,4 @@
-# News for 2026-07-18 16:43
+# News for 2026-07-18 17:16
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
@@ -28,6 +28,8 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## as.com
+17:06 [Stanley Whittaker, nuevo fichaje del FIATC Girona para su debut europeo](https://as.com/baloncesto/acb/stanley-whittaker-nuevo-fichaje-del-fiatc-girona-para-su-debut-europeo-f202607-n/)<br>
+16:46 [El Joventut Badalona ficha al estadounidense Kwan Cheatham](https://as.com/baloncesto/acb/el-joventut-badalona-ficha-al-estadounidense-kwan-cheatham-f202607-n/)<br>
 16:31 [Souley Boum, el nuevo fichaje del UCAM Murcia](https://as.com/baloncesto/acb/souley-boum-el-nuevo-fichaje-del-ucam-murcia-f202607-n/)<br>
 
 ## www.elperiodico.com
