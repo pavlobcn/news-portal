@@ -1,4 +1,4 @@
-# News for 2026-07-18 13:40
+# News for 2026-07-18 14:40
 
 Previous day: [2026-07-17](./data/2026-07-17.md)
 
@@ -24,6 +24,12 @@ Previous day: [2026-07-17](./data/2026-07-17.md)
 00:38 [Росіяни чотири рази атакували склад з гуманітаркою ООН в Дніпрі](https://ua.korrespondent.net/city/dnepr/4895184-rosiiany-chotyry-razy-atakuvaly-sklad-z-humanitarkoui-oon-v-dnipri)<br>
 
 ## www.elperiodico.com
+14:34 [Las víctimas del accidente de Adamuz denuncian “desamparo y parálisis” seis meses después de la tragedia](https://www.elperiodico.com/es/sociedad/20260718/victimas-accidente-adamuz-denuncian-desamparo-132582510)<br>
+14:31 [Borracho al manillar: multan con mil euros a un ciclista en A Coruña que cuadruplicaba la tasa de alcohol permitida](https://www.elperiodico.com/es/sucesos/20260718/borracho-manillar-multan-mil-euros-132582423)<br>
+14:22 [Rusia confirma un muerto y 37 heridos en el gran ataque ucraniano de esta pasada noche contra Moscú](https://www.elperiodico.com/es/internacional/20260718/rusia-confirma-muerto-heridos-ataque-ucrania-132582205)<br>
+14:15 [La Aemet avisa de una nueva ola de calor a partir del martes](https://www.elperiodico.com/es/sociedad/20260718/aemet-avisa-nueva-ola-calor-132582052)<br>
+14:09 [La RD del Congo eleva a 864 el número de muertos y a 2.181 los casos confirmados de ébola](https://www.elperiodico.com/es/internacional/20260718/ebola-congo-deja-860-muertos-132581935)<br>
+14:04 [El pez del Índico que ya está en el Mediterráneo y empieza a provocar estragos: es venenoso para los humanos](https://www.elperiodico.com/es/medio-ambiente/20260718/pez-globo-venenoso-mediterraneo-grecia-dv-132048167)<br>
 13:29 [Los implicados en los incendios de Zamora: Dos varones de 31 y 32 años](https://www.elperiodico.com/es/sucesos/20260718/implicados-incendios-zamora-varones-31-132580883)<br>
 13:10 [El aviso del doctor Javier Albares para mejorar el insomnio: "Estar en contacto con la naturaleza es fundamental para nuestro descanso y paz mental"](https://www.elperiodico.com/es/ser-feliz/20260718/combatir-insomnio-naturaleza-efectos-contaminacion-luminica-doctor-albares-dv-et-131584762)<br>
 12:30 ["Es algo que debes ver al menos una vez en la vida": la visita a la Capilla Sixtina por un precio imbatible](https://www.elperiodico.com/es/sociedad/20260718/visita-capilla-sixtina-precio-dv-132513868)<br>
