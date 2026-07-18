@@ -1,5 +1,59 @@
 [
   {
+    "title": "El Espanyol supera con solvencia el primer amistoso del verano contra el Olot (0-3)",
+    "link": "https://www.elperiodico.com/es/deportes/20260718/espanyol-supera-solvencia-olot-primer-amistoso-pretemporada-132591751",
+    "pubDate": "2026-07-18 23:26:07",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 19 de julio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260718/portada-periodico-19-julio-2026-132591760",
+    "pubDate": "2026-07-18 23:23:04",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Президент Угорщини підписав закон про своє звільнення",
+    "link": "https://ua.korrespondent.net/world/4895336-prezydent-uhorschyny-pidpysav-zakon-pro-svoie-zvilnennia",
+    "pubDate": "2026-07-18 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499731.jpg\">Підписана поправка до Конституції фактично усуває главу держави з посади вже найближчими днями.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El presidente húngaro firma la ley que implica su destitución este lunes",
+    "link": "https://www.elperiodico.com/es/internacional/20260718/presidente-hungaro-firma-ley-implica-132591520",
+    "pubDate": "2026-07-18 22:56:45",
+    "category": "",
+    "description": "<h2>El jefe de Estado húngaro firma la reforma constitucional que finaliza su mandato, pese a calificarla de \"abuso del poder político\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Полісся за 2 млн євро придбало легіонера у Кривбаса - інсайдер",
+    "link": "https://ua.korrespondent.net/sport/football/4895334-polissia-za-2-mln-yevro-prydbalo-lehionera-u-kryvbasa-insaider",
+    "pubDate": "2026-07-18 22:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499710.jpg\">Житомирській команді знадобився опорний півзахисник, і такий знайшовся на трансферному ринку.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "В Україні третій день тривали протести",
+    "link": "https://ua.korrespondent.net/ukraine/4895332-v-ukraini-tretii-den-tryvaly-protesty",
+    "pubDate": "2026-07-18 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499709.jpg\">Картонкові пртести відбулися у Києві, Запоріжжі, Вінниці, Черкасах, Дніпрі, Одесі, Миколаєві, Івано-Франківську, Тернополі, Львові та інших містах.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "У США заявили про смерть своїх військових після атаки Ірану",
     "link": "https://ua.korrespondent.net/world/4895330-u-ssha-zaiavyly-pro-smert-svoikh-viiskovykh-pislia-ataky-iranu",
     "pubDate": "2026-07-18 22:24:00",
