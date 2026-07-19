@@ -1,8 +1,10 @@
-# News for 2026-07-19 19:30
+# News for 2026-07-19 20:34
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+20:06 [У 155-й бригаді змінили командира: що відомо](https://ua.korrespondent.net/ukraine/4895482-u-155-y-bryhadi-zminyly-komandyra-scho-vidomo)<br>
+19:47 [В Україні стартував основний етап вступної кампанії до вишів](https://ua.korrespondent.net/ukraine/4895480-v-ukraini-startuvav-osnovnyi-etap-vstupnoi-kampanii-do-vyshiv)<br>
 18:54 [Росіяни атакують: де тривають найважчі бої](https://ua.korrespondent.net/ukraine/4895474-rosiiany-atakuuit-de-tryvauit-naivazhchi-boi)<br>
 18:33 [Удар РФ по Запоріжю: зросла кількість жертв](https://ua.korrespondent.net/city/zaporozhye/4895471-udar-rf-po-zaporizhui-zrosla-kilkist-zhertv)<br>
 17:30 [Атака РФ на Запоріжжя: зруйновано будинок, є жертви](https://ua.korrespondent.net/city/zaporozhye/4895464-ataka-rf-na-zaporizhzhia-zruinovano-budynok-ye-zhertvy)<br>
@@ -48,10 +50,14 @@ Previous day: [2026-07-18](./data/2026-07-18.md)
 00:17 [РФ вдарила по Запоріжжю: пожежі і руйнування](https://ua.korrespondent.net/city/zaporozhye/4895342-rf-vdaryla-po-zaporizhzhui-pozhezhi-i-ruinuvannia)<br>
 
 ## as.com
+20:26 [Estados Unidos - España, en directo: Mundial femenino Sub-17 de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/estados-unidos-espana-en-directo-mundial-femenino-sub-17-de-baloncesto-2026-en-vivo-hoy-f202607-d/)<br>
 19:12 [Una Selección de bronce](https://as.com/baloncesto/otra-medalla-para-el-baloncesto-espanol-f202607-n/)<br>
 12:48 [Hezonja, Madrid y la NBA: horas críticas](https://as.com/baloncesto/acb/hezonja-madrid-y-la-nba-horas-criticas-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:22 [Más de 30 bomberos intentan sofocar un incendio forestal en Cardeña (Córdoba)](https://www.elperiodico.com/es/sociedad/20260719/30-bomberos-sofocar-incendio-cardena-cordoba-132607473)<br>
+20:20 [Fallece una menor, de 14 años, tras ahogarse en el río Duero a la altura del Puente de Piedra de Toro, Zamora](https://www.elperiodico.com/es/sucesos/20260719/fallece-menor-14-anos-ahogarse-132607466)<br>
+20:07 [Susto en la Cova Tallada de Dénia: Rescatan a dos adultos y dos menores arrastrados por la corriente en kayak](https://www.elperiodico.com/es/sociedad/20260719/susto-cova-tallada-denia-rescatan-cuatro-personas-kayak-132607234)<br>
 19:20 [Oswaldo Restrepo, médico especialista en seguridad y salud en el trabajo: "Si te despiertas babeando la almohada casi todas las noches, tu cuerpo te está intentando hablar"](https://www.elperiodico.com/es/salud/20260719/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
 18:44 [Así se vivió el terremoto de magnitud 5,1 en Perú](https://www.elperiodico.com/es/videos/internacional/asi-vivio-terremoto-peru/132605839.shtml)<br>
 18:35 [Sandra y José, padres de 4 hijos, sobre su vida en el bosque: "Nuestros hijos no van a la escuela, sino que los educamos en casa"](https://www.elperiodico.com/es/economia/20260719/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687)<br>
