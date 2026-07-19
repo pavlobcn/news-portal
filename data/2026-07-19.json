@@ -1,5 +1,86 @@
 [
   {
+    "title": "Así combate la UME el incendio de La Mierla, Guadalajara",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/combate-ume-incendio-mierla-guadalajara/132602681.shtml",
+    "pubDate": "2026-07-19 16:03:11",
+    "category": "",
+    "description": "El incendio de Guadalajara supera las 13.000 hectáreas y obliga a evacuar 21 municipios",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cinco plataformas se disputan ocho millones de jugadores Fantasy en España",
+    "link": "https://www.elperiodico.com/es/economia/20260719/cinco-plataformas-disputan-ocho-millones-132520762",
+    "pubDate": "2026-07-19 16:00:41",
+    "category": "",
+    "description": "<h2 class=\"item\">LaLiga Fantasy lidera en alcance, mientras Biwenger y Mister Fantasy ofrecen las cifras económicas más claras. Comunio y Futmondo conservan peso histórico y de comunidad, aunque sin datos comparables de facturación</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Pau Cubarsí, de un pueblo de 200 habitantes y una carpintería familiar a deslumbrar en el Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260719/pau-cubarsi-pueblo-200-habitantes-132543858",
+    "pubDate": "2026-07-19 16:00:39",
+    "category": "",
+    "description": "<h2>El central de la selección, originario de Estanyol (Girona) jugará este domingo su primera final de la Copa del Mundo en el año en que debuta en un Mundial</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Adiós a Fina García, la profesora sevillana que dejó una lección de vida a los 27 años: \"Me voy feliz y en calma\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260719/adios-fina-garcia-profesora-sevillana-132540270",
+    "pubDate": "2026-07-19 15:59:35",
+    "category": "",
+    "description": "<h2>La joven, que luchaba contra una larga enfermedad, compartió un emotivo vídeo de despedida en redes sociales que conmovió a miles de personas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Біля Мадрида спалахнула лісова пожежа: евакуювали сотні людей",
+    "link": "https://ua.korrespondent.net/world/4895451-bilia-madryda-spalakhnula-lisova-pozhezha-evakuuivaly-sotni-luidei",
+    "pubDate": "2026-07-19 15:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500853.jpg\">У центральній частині Іспанії триває боротьба з великою лісовою пожежею. Вогонь уже знищив понад 12 тисяч гектарів лісу, а сотні людей були змушені залишити свої домівки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlos di Urarte, Cristopher Buehlman y Johan Gwynne: la fantasía barbuda rebaja su dosis de testosterona",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260719/carlos-di-urarte-cristopher-buehlman-132602297",
+    "pubDate": "2026-07-19 15:40:55",
+    "category": "",
+    "description": "<h2>Hablamos con tres autores que quizá sean el estereotipo del autor de 'grimdark', pero que discuten que este subgénero y la 'romantasy' sigan encasillados como productos para lectores y lectoras, respectivamente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bernat Clarella, presidente de la FEDME, en GRAVITEO: \"Ha sido un gran evento, un espacio donde poner en presencia todo nuestro potencial de escaladores\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260719/bernat-clarella-presidente-fedme-graviteo-132602427",
+    "pubDate": "2026-07-19 15:38:28",
+    "category": "",
+    "description": "<h2>El festival de deportes urbanos acogió durante el fin de semana pruebas de la Copa de Europa de Velocidad y de Boulder con los mejores escaladores europeos en liza</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Fischer apuesta por Mont-roig del Camp para instalar su primer almacén robotizado fuera de Alemania",
+    "link": "https://www.elperiodico.com/es/economia/20260719/fischer-apuesta-mont-roig-camp-132601915",
+    "pubDate": "2026-07-19 15:34:35",
+    "category": "",
+    "description": "<h2>La inversión de más de 4 millones de euros permitirá a la multinacional gestionar hasta 4.000 referencias</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260605/inversion-logistica-inmologistico-empleo-en-logistica-almacenes-inteligencia-artificial-131049633\">El sector de la logística bate récords pese a la caída de la inversión: \"La inestabilidad global es una oportunidad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Керченська переправа РФ майже зупинилася - \"Мадяр\"",
+    "link": "https://ua.korrespondent.net/ukraine/4895449-kerchenska-pereprava-rf-maizhe-zupynylasia-madiar",
+    "pubDate": "2026-07-19 15:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500832.jpg\">Українські СБС послабили роботу Керченської паромної переправи. За даними військових, більшість суден, що забезпечували перевезення для російської армії, більше не можуть виконувати свої функції.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Un espectáculo de drones con motivo del Mundial ilumina el horizonte de Manhattan",
     "link": "https://www.elperiodico.com/es/videos/internacional/espectaculo-drones-mundial-ilumina-manhattan/132602273.shtml",
     "pubDate": "2026-07-19 15:18:26",
