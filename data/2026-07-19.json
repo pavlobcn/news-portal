@@ -1,5 +1,95 @@
 [
   {
+    "title": "Al menos 6 fallecidos y decenas de heridos tras sismo de magnitud 5,1 en el centro de Perú",
+    "link": "https://www.elperiodico.com/es/videos/internacional/6-fallecidos-decenas-heridos-sismo/132604665.shtml",
+    "pubDate": "2026-07-19 18:11:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 19 de julio en España: sube el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20260719/precio-gasolina-diesel-hoy-19-julio-precio-carburantes-dv-132604633",
+    "pubDate": "2026-07-19 18:11:11",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Los psicólogos coinciden sobre qué significa reírse a solas en voz alta: \"Implica creatividad cognitiva y bienestar emocional\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260719/reirse-solo-voz-alta-creatividad-psicologos-dv-et-132476984",
+    "pubDate": "2026-07-19 18:10:11",
+    "category": "",
+    "description": "<h2>La risa no siempre es síntoma de desequilibro emocional</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260716/psicologos-levantar-voz-dominante-discusion-seguridad-dv-131066028\">Los psicólogos coinciden sobre las personas que levantan la voz al hablar: no siempre es seguridad ni liderazgo más bien todo lo contrario</a></h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20260702/mayores-silencio-soledad-mejor-jovenes-psicologia-dv-131391333\">Los psicólogos coinciden: los mayores conviven mejor con el silencio que las personas jóvenes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios hoy, 19 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260719/incendios-hoy-19-julio-cataluna-espana-mapa-fuegos-activos-dv-132604375",
+    "pubDate": "2026-07-19 18:05:31",
+    "category": "",
+    "description": "<h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260712/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" >Incendios forestales en Catalunya y resto de España, última hora en directo: cifra de muertos, heridos y desaparecidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tijl Smitz, presidente de World Climbing Europe, sobre GRAVITEO: \"Es genial poder contar con tanta gente que descubre, que se motiva, se inspira\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260719/tijl-smitz-presidente-world-climbing-132604482",
+    "pubDate": "2026-07-19 18:00:44",
+    "category": "",
+    "description": "<h2>El festival de deportes urbanos fue escenario de la prueba de Boulder del World Climbing Championship </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los delitos caen un 10,6% en L'Hospitalet en la primera mitad del 2026 respecto al mismo periodo del año anterior",
+    "link": "https://www.elperiodico.com/es/barcelona/20260719/delitos-caen-10-por-ciento-lhospitalet-primera-mitad-2026-respecto-mismo-periodo-2025-132545067",
+    "pubDate": "2026-07-19 18:00:43",
+    "category": "",
+    "description": "<h2>El plan de choque hospitalense, vigente entre abril y junio, también ha reducido un 21,67% de los robos con violencia en la segunda ciudad de Catalunya</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260529/mossos-lanzan-bastio-plan-choque-hospitalet-delincuencia-130817269\" target=\"_blank\">Los Mossos lanzan el Bastió, su plan de choque para contener y reducir la delincuencia en L'Hospitalet de Llobregat</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "В Естонії назвали умову для зупинки терору РФ",
+    "link": "https://ua.korrespondent.net/world/4895467-v-estonii-nazvaly-umovu-dlia-zupynky-teroru-rf",
+    "pubDate": "2026-07-19 17:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500986.jpg\">Міністр закордонних справ Естонії Маргус Тсахкна заявив, що Росію можна змусити припинити атаки лише через посилення міжнародного тиску та ізоляції.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El desayuno saludable de Raphael (83 años) que toma a las 8 de la mañana y que es innegociable: “Yo sin aceite soy hombre muerto”",
+    "link": "https://www.elperiodico.com/es/gente/20260719/raphael-desayuno-saludable-gira-83-anos-dv-132603531",
+    "pubDate": "2026-07-19 17:35:50",
+    "category": "",
+    "description": "<h2 class=\"item\">El cantante sigue dando conciertos alrededor del mundo y se encuentra en plena gira </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260530/alzheimer-dieta-mediterranea-sofrito-cocina-catalana-demencia-dv-loc-130642587\">El sofrito y el Alzhéimer: el desconocido aliado de la cocina catalana para proteger el cerebro</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Taxistas, repartidores y profesores de autoescuela deberán usar el cinturón obligatoriamente",
+    "link": "https://www.elperiodico.com/es/motor/20260719/taxistas-repartidores-profesores-autoescuela-deberan-usar-cinturon-132403268",
+    "pubDate": "2026-07-19 17:30:51",
+    "category": "",
+    "description": "<h2>La DGT elimina la excepción histórica en vías urbanas para estos colectivos profesionales, que afrontarán sanciones de 200 euros y la pérdida de cuatro puntos si no cumplen la ley</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Атака РФ на Запоріжжя: зруйновано будинок, є жертви",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4895464-ataka-rf-na-zaporizhzhia-zruinovano-budynok-ye-zhertvy",
+    "pubDate": "2026-07-19 17:30:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500961.jpg\">Російські війська атакували Запоріжжя керованими авіабомбами. Унаслідок удару загинула людина, ще троє отримали поранення, повідомив Іван Федоров.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El rincón de Lleida que está ya en la historia del cine",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260719/rincon-lleida-cine-alcarras-municipio-dv-loc-105102578",
     "pubDate": "2026-07-19 17:10:00",
@@ -43,6 +133,15 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/catalunya/20241003/figueres-que-visitar-casco-antiguo-aparece-gran-produccion-cine-dv-loc-108847393\" >El rincón de Figueres que ya forma parte de la historia del cine</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20240929/restaurantes-figueres-inmejorable-magret-pato-pelegri-dv-loc-108711365\" >\"Inmejorable\": El restaurante de Figueres aclamado por su magret de pato</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Схід Туреччини сколихнули підземні поштовхи: що відомо",
+    "link": "https://ua.korrespondent.net/world/4895462-skhid-turechchyny-skolykhnuly-pidzemni-poshtovkhy-scho-vidomo",
+    "pubDate": "2026-07-19 17:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500940.jpg\">На сході Туреччини зафіксували землетрус магнітудою 5,0. Поштовхи відчули мешканці кількох провінцій, однак інформації про руйнування чи постраждалих наразі немає.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Caída y abandono de Vingegaard en el Tour",
@@ -1222,6 +1321,15 @@
     "description": "<h2 class=\"item\">El mercado mundial de estos juegos alcanzará los 40.000 millones este año y casi duplicará su tamaño hasta 2031. España afronta la final del Mundial contra la Argentina de Lionel Messi con una comunidad de entrenadores virtuales que representa a uno de cada seis habitantes</h2>",
     "topic": "спорт",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Yolanda Díaz claudica del liderazgo de Sumar en el Gobierno y se vuelca en su búsqueda de apoyos para la OIT",
+    "link": "https://www.elperiodico.com/es/politica/20260719/yolanda-diaz-claudica-liderazgo-sumar-132567145",
+    "pubDate": "2026-07-19 08:00:45",
+    "category": "",
+    "description": "<h2>La vicepresidenta sondea sus opciones para el puesto y delega en Urtasun y Bustinduy el protagonismo doméstico</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "España – Argentina, en directo: última hora y resultado de la final del Mundial 2026",

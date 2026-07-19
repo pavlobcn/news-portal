@@ -1,8 +1,10 @@
-# News for 2026-07-19 17:20
+# News for 2026-07-19 18:17
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+17:30 [Атака РФ на Запоріжжя: зруйновано будинок, є жертви](https://ua.korrespondent.net/city/zaporozhye/4895464-ataka-rf-na-zaporizhzhia-zruinovano-budynok-ye-zhertvy)<br>
+17:04 [Схід Туреччини сколихнули підземні поштовхи: що відомо](https://ua.korrespondent.net/world/4895462-skhid-turechchyny-skolykhnuly-pidzemni-poshtovkhy-scho-vidomo)<br>
 16:13 [У Польщі напали на 15-річного українця через мову в автобусі](https://ua.korrespondent.net/world/4895453-u-polschi-napaly-na-15-richnoho-ukraintsia-cherez-movu-v-avtobusi)<br>
 15:58 [Біля Мадрида спалахнула лісова пожежа: евакуювали сотні людей](https://ua.korrespondent.net/world/4895451-bilia-madryda-spalakhnula-lisova-pozhezha-evakuuivaly-sotni-luidei)<br>
 15:34 [Керченська переправа РФ майже зупинилася - "Мадяр"](https://ua.korrespondent.net/ukraine/4895449-kerchenska-pereprava-rf-maizhe-zupynylasia-madiar)<br>
@@ -47,6 +49,9 @@ Previous day: [2026-07-18](./data/2026-07-18.md)
 12:48 [Hezonja, Madrid y la NBA: horas críticas](https://as.com/baloncesto/acb/hezonja-madrid-y-la-nba-horas-criticas-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:11 [Al menos 6 fallecidos y decenas de heridos tras sismo de magnitud 5,1 en el centro de Perú](https://www.elperiodico.com/es/videos/internacional/6-fallecidos-decenas-heridos-sismo/132604665.shtml)<br>
+18:10 [Los psicólogos coinciden sobre qué significa reírse a solas en voz alta: "Implica creatividad cognitiva y bienestar emocional"](https://www.elperiodico.com/es/ser-feliz/20260719/reirse-solo-voz-alta-creatividad-psicologos-dv-et-132476984)<br>
+18:05 [Incendios hoy, 19 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260719/incendios-hoy-19-julio-cataluna-espana-mapa-fuegos-activos-dv-132604375)<br>
 17:10 [El rincón de Lleida que está ya en la historia del cine](https://www.elperiodico.com/es/ocio-y-cultura/20260719/rincon-lleida-cine-alcarras-municipio-dv-loc-105102578)<br>
 17:05 [El bote de Nivea no siempre ha sido azul: este es el color con el que nació](https://www.elperiodico.com/es/economia/20260719/nivea-lata-azul-antes-amarillo-dv-132402641)<br>
 16:48 [Hallan 33 cadáveres, entre ellos mujeres y niños, tras quedar varados en desierto de Sudán](https://www.elperiodico.com/es/internacional/20260719/hallan-33-cadaveres-mujeres-ninos-sudan-132603372)<br>
