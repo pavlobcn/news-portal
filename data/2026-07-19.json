@@ -1,5 +1,230 @@
 [
   {
+    "title": "У роботі Facebook та Instagram стався масштабний збій",
+    "link": "https://ua.korrespondent.net/business/companies/4895408-u-roboti-Facebook-ta-Instagram-stavsia-masshtabnyi-zbii",
+    "pubDate": "2026-07-19 11:17:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500559.jpg\">Найбільше скарг на десктопні версії: при спробі увійти з'являється повідомлення про технічну помилку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Magnífico\": los elogios al mejor restaurante de Cornellà de Llobregat, según Tripadvisor",
+    "link": "https://www.elperiodico.com/es/barcelona/cornella/20260719/cornella-mejor-restaurante-tripadvisor-dv-loc-111407549",
+    "pubDate": "2026-07-19 11:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cornella/20241106/cornella-mejores-restaurantes-tripadvisor-dv-loc-111025301\" >Estos son los 5 mejores restaurantes de Cornellà, según Tripadvisor</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El detenido por tocamientos a una mujer en el concierto de Orozco en Badajoz niega los hechos: \"Solo quiere que todo se aclare para limpiar su nombre\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260719/detenido-tocamientos-mujer-concierto-orozco-132597837",
+    "pubDate": "2026-07-19 11:12:29",
+    "category": "",
+    "description": "<h2>La familia del hombre, que ha quedado en libertad con cargos tras comparecer en el juzgado, asegura que está \"destrozado\" </h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Terrassa se vuelca con Dani Olmo ante la final del Mundial: \"Es un orgullo para la ciudad\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260719/terrassa-vuelca-dani-olmo-final-132546462",
+    "pubDate": "2026-07-19 11:04:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Los vecinos confían en que el futbolista egarense, fijo en el once de De la Fuente, guíe a España hacia el título contra Argentina</h2><h2 class=\"item\">ENTREVISTA | <a href=\"https://www.elperiodico.com/es/deportes/20260618/dani-olmo-mal-partido-manchar-131577577\" target=\"_blank\">Dani Olmo: \"Un mal partido no puede manchar lo que ha hecho esta selección, toca volver a demostrarlo\"</a> </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo: \"Me tengo que entender con Abascal porque la única solución que tenemos es llegar a un acuerdo con Vox\"",
+    "link": "https://www.elperiodico.com/es/politica/20260719/feijoo-entender-abascal-unica-solucion-132597624",
+    "pubDate": "2026-07-19 11:02:14",
+    "category": "",
+    "description": "<h2>El presidente del PP asegura que priorizará un entendimiento con Vox antes que dejar gobernar a Sánchez y promete derogar la Ley de Memoria Democrática si llega a La Moncloa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya es el motor de España: nueve representantes entre los 26 finalistas",
+    "link": "https://www.elperiodico.com/es/deportes/20260719/catalunya-motor-espana-nueve-representantes-final-mundial-132577407",
+    "pubDate": "2026-07-19 11:00:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de un tercio de los convocados por Luis de la Fuente para el Mundial son catalanes, la mayor representación de toda la historia</h2><h2 class=\"item\">Contando al seleccionador, 10 comunidades autónomas y una región francesa estarán representadas en la final de esta noche</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ірак переорієнтував нафтові потоки через Сирію - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4895405-irak-pereoriientuvav-naftovi-potoky-cherez-syriui-zmi",
+    "pubDate": "2026-07-19 10:59:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500536.jpg\">Ірак нарощує експорт нафтопродуктів сухопутними маршрутами, аби зменшити залежність від Ормузької протоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los vecinos de Les Gavarres, después del incendio: \"Da miedo volver, pero aquí tengo mi vida\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260719/vecinos-les-gavarres-despues-incendio-132597381",
+    "pubDate": "2026-07-19 10:58:38",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260707/catalunya-mantiene-modelo-prevencion-incendios-les-gavarres-gestion-forestal-132104363\" target=\"_blank\">Catalunya mantiene el modelo de prevención de incendios de Les Gavarres: \"Con calor extremo y tramontana, aunque haya gestión, el bosque arde\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los expertos coinciden sobre el collar de Lamine Yamal que se ha autorregalado: \"Es una pieza diseñada para captar todas las miradas\"",
+    "link": "https://www.elperiodico.com/es/gente/20260719/lamine-yamal-collar-rueda-prensa-seleccion-espana-mundial-2026-dv-et-132469647",
+    "pubDate": "2026-07-19 10:46:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El fubolista acudió a la rueda de prensa previa a la semifinal contra Francia con una llamativa gargantilla, \"una propuesta deliberadamente ostentosa\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260715/mundial-2026-prima-jugadores-seleccion-espanola-fifa-dv-132467543\">¿Cuánto cobrarán los jugadores de la selección española si ganan el Mundial 2026?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260719/lamine-yamal-espana-final-mundial-sindrome-riqueza-repentina-psicologa-lara-ferreiro-dv-et-132465534\">Lara Ferreiro, psicóloga, sobre Lamine Yamal: \"Detrás del éxito pueden aparecer ansiedad, insomnio y una dependencia extrema de la validación externa\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Abel Garcia, sobre Graviteo: “Catalunya es punta de lanza, como lo fuimos en los JJOO del 92”",
+    "link": "https://www.elperiodico.com/es/deportes/20260719/abel-garcia-graviteo-catalunya-punta-132596481",
+    "pubDate": "2026-07-19 10:43:53",
+    "category": "",
+    "description": "<h2>El secretario general del Departament d’Esports de la Generalitat visitó la segunda jornada del festival de deportes urbanos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Puedes bañarte en la piscina comunitaria por la noche? Esto dice la Ley de Propiedad Horizontal",
+    "link": "https://www.elperiodico.com/es/vivienda/20260719/piscina-comunitaria-noche-vecinos-ley-propiedad-horizontal-dv-132513985",
+    "pubDate": "2026-07-19 10:40:25",
+    "category": "",
+    "description": "<h2 class=\"item\">La comunidad de vecinos puede fijar horarios de apertura y cierre para proteger el descanso, la seguridad y la convivencia durante el verano</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260714/vecino-invitados-piscina-comunitaria-ley-propiedad-horizontal-dv-132294658\">La Ley de Propiedad Horizontal lo aclara: cuándo puede la comunidad limitar los invitados en la piscina</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los Mossos d'Esquadra investigan la muerte violenta de una mujer en Soses",
+    "link": "https://www.elperiodico.com/es/sociedad/20260719/encuentran-muerta-mujer-forma-violenta-132597145",
+    "pubDate": "2026-07-19 10:38:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Офіційна кількість жертв землетрусу у Венесуелі зросла до 5119 осіб",
+    "link": "https://ua.korrespondent.net/world/4895403-ofitsiina-kilkist-zhertv-zemletrusu-u-venesueli-zrosla-do-5119-osib",
+    "pubDate": "2026-07-19 10:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500516.jpg\">З 24 червня у Венесуелі зареєстрували 1331 афтершок. Поштовхи магнітудою 7,2 і 7,5 зруйнували будівлі, а також спричинили перебої з електропостачанням і водою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un piloto de Ryanair denuncia a la Hacienda vasca: alega que la mayor parte de sus horas son fuera de España",
+    "link": "https://www.elperiodico.com/es/economia/20260719/piloto-ryanair-denuncia-hacienda-pais-vasco-impuestos-aerolinea-irlandesa-dv-132088912",
+    "pubDate": "2026-07-19 10:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La controversia es relevante en sectores donde los empleados operan fuera del territorio nacional, aunque mantengan su residencia fiscal en territorio español</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260630/jubilacion-30-anos-cotizados-edad-retiro-laboral-dv-131801626\">Jubilación con 30 años cotizados en 2026: la edad exacta a la que puedes retirarte y cuánto cobrarás</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260604/fiscalia-coruna-lidera-pleito-vueling-volotea-ryanair-equipaje-de-mano-131009807\">La justicia de A Coruña traslada a la Unión Europea la guerra contra el cobro del equipaje de mano de Vueling, Volotea y Ryanair</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російські КАБи масовано атакували Суми",
+    "link": "https://ua.korrespondent.net/ukraine/4895400-rosiiski-kaby-masovano-atakuvaly-sumy",
+    "pubDate": "2026-07-19 10:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500495.jpg\">З-під завалів деблокували тіло загиблого чоловіка, котрий перебував у власній оселі під час удару РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toni Reboredo, experto en tecnología, avisa sobre el coste de los aires acondicionados portátiles: \"Es bastante más de lo que crees\"",
+    "link": "https://www.elperiodico.com/es/economia/20260719/toni-reboredo-experto-tecnologia-avisa-coste-aire-acondicionado-portatil-dv-et-132513990",
+    "pubDate": "2026-07-19 10:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El divulgador calcula cuánto puede costar tener uno de estos aparatos encendido durante toda la noche y advierte de un detalle clave antes de comprarlo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260715/expertos-aire-acondicionado-coinciden-usos-agua-destilada-dv-et-132260709\">Expertos en aire acondicionado coinciden: \"El agua destilada del aparato es una alternativa para usos concretos en el jardín o el hogar\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La coral España de Lamine desafía la hegemonía de la Argentina de Messi",
+    "link": "https://www.elperiodico.com/es/deportes/20260719/coral-espana-lamine-desafia-hegemonia-argentina-messi-132587578",
+    "pubDate": "2026-07-19 10:00:41",
+    "category": "",
+    "description": "<h2>Nueva York acoge esta noche una final monumental que enfrenta al vigente campeón del mundo y de la Copa América con el de la Eurocopa</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cubitos de hielo que cambian de color si detectan droga: así funciona la nueva medida contra la sumisión química",
+    "link": "https://www.elperiodico.com/es/sociedad/20260719/cubitos-hielo-cambian-color-alertar-droga-bebida-sumision-quimica-132540734",
+    "pubDate": "2026-07-19 10:00:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El sistema, desarrollado por la empresa Narxcup, transforma el líquido en gelatina y la bebida adquiere un tono azulado con sabor amargo que alerta de la posible manipulación </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20220308/violaciones-sumision-quimica-13340993\" target=\"_blank\">Una de cada tres violaciones se produce bajo la sumisión química</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США вдарили по Ірану після загибелі військових в Йорданії",
+    "link": "https://ua.korrespondent.net/world/4895397-ssha-vdaryly-po-iranu-pislia-zahybeli-viiskovykh-v-yordanii",
+    "pubDate": "2026-07-19 09:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500474.jpg\">Попередньо, удари припали на кілька районів на півдні Ірану, зокрема місто Бендер-Аббас і острів Кешм.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Expertos cuestionan el plan del Pentágono para realizar controles de testosterona a los militares",
+    "link": "https://www.elperiodico.com/es/internacional/20260719/estados-unidos-testosterona-ejercito-expertos-132596290",
+    "pubDate": "2026-07-19 09:55:18",
+    "category": "",
+    "description": "<h2>Los médicos advierten que una medición aislada de testosterona puede ser engañosa y recomiendan considerar factores como el estrés, el sueño y la alimentación antes de un diagnóstico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Табір найманців РФ знайшли за скульптурою Баби Яги",
+    "link": "https://ua.korrespondent.net/world/4895392-tabir-naimantsiv-rf-znaishly-za-skulpturoui-baby-yahy",
+    "pubDate": "2026-07-19 09:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500450.jpg\">Німецькі журналісти встановили місце тренувального табору російської армії, де перед відправкою на фронт готують іноземних рекрутів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "10 голів на двох: Англія вириває перемогу у Франції на ЧС",
+    "link": "https://ua.korrespondent.net/sport/football/4895395-10-holiv-na-dvokh-anhliia-vyryvaie-peremohu-u-frantsii-na-chs",
+    "pubDate": "2026-07-19 09:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4500473.jpg\">Матч за третє місце на Чемпіонаті світу з футболу відзначився канонадою голів. Англійці спромоглися вирвати перемогу з рахунком 6:4.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Arrestados en EEUU los hermanos Tate tras una nueva imputación en Reino Unido por abuso sexual y violación",
+    "link": "https://www.elperiodico.com/es/internacional/20260719/arrestados-eeuu-hermanos-tate-violacion-132595987",
+    "pubDate": "2026-07-19 09:30:10",
+    "category": "",
+    "description": "<h2>El Servicio de Marshals estadounidense ejecutó el arresto en Miami tras la solicitud de extradición por parte de la Fiscalía de la Corona británica</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El padre que lleva a sus hijos  de 8 y 11 años al colegio atravesando el mar: \"Merece un barco grande. Del mismo tamaño que su esfuerzo\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260719/padre-hijos-colegio-mar-malasia-dv-131846494",
+    "pubDate": "2026-07-19 09:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Para llegar a la escuela por tierra hay que caminar por la selva entre animales venenosos y fuertes pendientes durante cuatro horas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260123/alumno-gran-canaria-sin-clase-desprendimiento-transporte-escolar-casa-126010450\">Un alumno de Gran Canaria lleva dos semanas sin ir a clase por un desprendimiento que impide que el transporte escolar llegue a su casa</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260203/austin-appelbee-menor-conmocionado-australia-nadar-mal-agitado-sin-luz-salvar-familia-dv-126403059\">Austin Appelbee, el menor que ha conmocionado a Australia tras nadar cuatro kilómetros contra un mar agitado: \"Salvó la vida de su madre y sus hermanos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rodalies mantiene 183 tramos de vía con la velocidad limitada seis meses después del accidente de Gelida",
+    "link": "https://www.elperiodico.com/es/sociedad/20260719/rodalies-mantiene-183-tramos-via-limitaciones-velocidad-accidente-gelida-seis-meses-despues-132595465",
+    "pubDate": "2026-07-19 09:27:47",
+    "category": "",
+    "description": "<h2>El siniestro mortal motivó que el gestor de la red ferroviaria catalana llegara a establecer en marzo hasta 225 limitaciones, que afectaban a 180 kilómetros de vía</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260401/trenes-rodalies-abril-red-tensionada-limitaciones-velocidad-normalidad-junio-128497139\" target=\"_blank\">Rodalies encara abril con la red de trenes tensionada y Adif sitúa la plena normalidad en junio</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Un terremoto de magnitud preliminar 5,1 deja al menos cinco muertos en Perú",
     "link": "https://www.elperiodico.com/es/internacional/20260719/terremoto-magnitud-preliminar-5-1-132595719",
     "pubDate": "2026-07-19 09:11:49",
