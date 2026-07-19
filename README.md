@@ -1,8 +1,10 @@
-# News for 2026-07-19 14:43
+# News for 2026-07-19 15:29
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+15:18 [Обстріл Києва: станція метро Лук'янівська відновила роботу](https://ua.korrespondent.net/city/kiev/4895447-obstril-kyieva-stantsiia-metro-lukianivska-vidnovyla-robotu)<br>
+14:46 [Обстріл поштового терміналу у Харкові: зросла кількість жертв](https://ua.korrespondent.net/city/kharkov/4895443-obstril-poshtovoho-terminalu-u-kharkovi-zrosla-kilkist-zhertv)<br>
 13:44 [Удар по передмістю Харкова: число поранених зросло](https://ua.korrespondent.net/ukraine/4895432-udar-po-peredmistui-kharkova-chyslo-poranenykh-zroslo)<br>
 13:24 [Ботсвана заявила про масове вербування громадян у Росії для війни](https://ua.korrespondent.net/world/4895429-botsvana-zaiavyla-pro-masove-verbuvannia-hromadian-u-rosii-dlia-viiny)<br>
 12:57 [Стали відомі наслідки удару по парку розваг на Одещині](https://ua.korrespondent.net/ukraine/4895424-staly-vidomi-naslidky-udaru-po-parku-rozvah-na-odeschyni)<br>
@@ -42,6 +44,10 @@ Previous day: [2026-07-18](./data/2026-07-18.md)
 12:48 [Hezonja, Madrid y la NBA: horas críticas](https://as.com/baloncesto/acb/hezonja-madrid-y-la-nba-horas-criticas-f202607-n/)<br>
 
 ## www.elperiodico.com
+15:00 ["No expulsamos a los niños que molestan en clase": Conxita y Alícia se jubilan tras 30 años al frente del IE Viver de Montcada](https://www.elperiodico.com/es/sociedad/20260719/estima-das-alumnos-vuelve-conxita-alicia-viver-montcada-maestras-jubiladas-132547141)<br>
+14:55 [Fallece la mujer a la que dos sicarios quemaron por orden de su marido](https://www.elperiodico.com/es/sociedad/20260719/fallece-mujer-sicarios-quemaron-orden-132601793)<br>
+14:51 [Dos DJ denuncian insultos homófobos, escupitajos y agresiones en las fiestas de una localidad de Mallorca](https://www.elperiodico.com/es/sucesos/20260719/dj-denuncian-insultos-homofobos-escupitajos-132601867)<br>
+14:44 [El aeropuerto de Gibraltar: de refugio en la Guerra Civil a pista para hacer despegar al Campo](https://www.elperiodico.com/es/sociedad/20260719/aeropuerto-gibraltar-refugio-guerra-civil-132601773)<br>
 14:24 [Detenido un hombre en Mallorca por dar éxtasis a un menor y realizarle tocamientos](https://www.elperiodico.com/es/sucesos/20260719/detenido-hombre-mallorca-dar-extasis-132601453)<br>
 14:18 [Suspenden a una entrenadora de la WNBA por llamar "especie protegida" a una jugadora](https://www.elperiodico.com/es/deportes/20260719/suspenden-entrenadora-wnba-llamar-especie-132601332)<br>
 13:43 [Roche Diagnostics redobla su apuesta por España con el 33% más de inversión](https://www.elperiodico.com/es/economia/20260719/roche-diagnostics-redobla-apuesta-espana-132600542)<br>
