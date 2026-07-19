@@ -1,8 +1,10 @@
-# News for 2026-07-19 18:17
+# News for 2026-07-19 19:30
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+18:54 [Росіяни атакують: де тривають найважчі бої](https://ua.korrespondent.net/ukraine/4895474-rosiiany-atakuuit-de-tryvauit-naivazhchi-boi)<br>
+18:33 [Удар РФ по Запоріжю: зросла кількість жертв](https://ua.korrespondent.net/city/zaporozhye/4895471-udar-rf-po-zaporizhui-zrosla-kilkist-zhertv)<br>
 17:30 [Атака РФ на Запоріжжя: зруйновано будинок, є жертви](https://ua.korrespondent.net/city/zaporozhye/4895464-ataka-rf-na-zaporizhzhia-zruinovano-budynok-ye-zhertvy)<br>
 17:04 [Схід Туреччини сколихнули підземні поштовхи: що відомо](https://ua.korrespondent.net/world/4895462-skhid-turechchyny-skolykhnuly-pidzemni-poshtovkhy-scho-vidomo)<br>
 16:13 [У Польщі напали на 15-річного українця через мову в автобусі](https://ua.korrespondent.net/world/4895453-u-polschi-napaly-na-15-richnoho-ukraintsia-cherez-movu-v-avtobusi)<br>
@@ -46,9 +48,14 @@ Previous day: [2026-07-18](./data/2026-07-18.md)
 00:17 [РФ вдарила по Запоріжжю: пожежі і руйнування](https://ua.korrespondent.net/city/zaporozhye/4895342-rf-vdaryla-po-zaporizhzhui-pozhezhi-i-ruinuvannia)<br>
 
 ## as.com
+19:12 [Una Selección de bronce](https://as.com/baloncesto/otra-medalla-para-el-baloncesto-espanol-f202607-n/)<br>
 12:48 [Hezonja, Madrid y la NBA: horas críticas](https://as.com/baloncesto/acb/hezonja-madrid-y-la-nba-horas-criticas-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:20 [Oswaldo Restrepo, médico especialista en seguridad y salud en el trabajo: "Si te despiertas babeando la almohada casi todas las noches, tu cuerpo te está intentando hablar"](https://www.elperiodico.com/es/salud/20260719/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
+18:44 [Así se vivió el terremoto de magnitud 5,1 en Perú](https://www.elperiodico.com/es/videos/internacional/asi-vivio-terremoto-peru/132605839.shtml)<br>
+18:35 [Sandra y José, padres de 4 hijos, sobre su vida en el bosque: "Nuestros hijos no van a la escuela, sino que los educamos en casa"](https://www.elperiodico.com/es/economia/20260719/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687)<br>
+18:20 [Estas películas en cinta VHS pueden darte hasta 3.600 euros](https://www.elperiodico.com/es/economia/20260719/peliculas-vhs-cinta-compraventa-dvd-cd-dv-132446844)<br>
 18:11 [Al menos 6 fallecidos y decenas de heridos tras sismo de magnitud 5,1 en el centro de Perú](https://www.elperiodico.com/es/videos/internacional/6-fallecidos-decenas-heridos-sismo/132604665.shtml)<br>
 18:10 [Los psicólogos coinciden sobre qué significa reírse a solas en voz alta: "Implica creatividad cognitiva y bienestar emocional"](https://www.elperiodico.com/es/ser-feliz/20260719/reirse-solo-voz-alta-creatividad-psicologos-dv-et-132476984)<br>
 18:05 [Incendios hoy, 19 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260719/incendios-hoy-19-julio-cataluna-espana-mapa-fuegos-activos-dv-132604375)<br>
