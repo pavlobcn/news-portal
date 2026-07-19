@@ -1,8 +1,17 @@
-# News for 2026-07-19 06:34
+# News for 2026-07-19 09:13
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+09:03 [Росія атакувала авто Червоного Хреста на Запоріжжі](https://ua.korrespondent.net/ukraine/4895390-rosiia-atakuvala-avto-chervonoho-khresta-na-zaporizhzhi)<br>
+08:53 [Генштаб заявив про ураження двох танкерів РФ у Чорному морі](https://ua.korrespondent.net/ukraine/4895387-henshtab-zaiavyv-pro-urazhennia-dvokh-tankeriv-rf-u-chornomu-mori)<br>
+08:34 [Зеленський прокоментував нічний удар РФ по Києву](https://ua.korrespondent.net/ukraine/4895384-zelenskyi-prokomentuvav-nichnyi-udar-rf-po-kyievu)<br>
+08:12 [У Німеччині підтримали нові правила для українських чоловіків](https://ua.korrespondent.net/world/4895382-u-nimechchyni-pidtrymaly-novi-pravyla-dlia-ukrainskykh-cholovikiv)<br>
+07:56 [Збивали дрони та балістику: стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4895379-zbyvaly-drony-ta-balistyku-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
+07:37 [Генштаб опублікував карту боїв на фронті](https://ua.korrespondent.net/ukraine/4895377-henshtab-opublikuvav-kartu-boiv-na-fronti)<br>
+07:18 [У Росії палають одразу три нафтобази - соцмережі](https://ua.korrespondent.net/world/russia/4895374-u-rosii-palauit-odrazu-try-naftobazy-sotsmerezhi)<br>
+06:53 [Кількість постраждалих у Києві зросла до 13](https://ua.korrespondent.net/city/kiev/4895371-kilkist-postrazhdalykh-u-kyievi-zrosla-do-13)<br>
+06:39 [У Києві закрили станцію метро Лук’янівська після атаки РФ](https://ua.korrespondent.net/city/kiev/4895369-u-kyievi-zakryly-stantsiui-metro-lukianivska-pislia-ataky-rf)<br>
 06:27 [Понад тисячу ударів: наслідки атаки на Запоріжжя та область](https://ua.korrespondent.net/ukraine/4895366-ponad-tysiachu-udariv-naslidky-ataky-na-zaporizhzhia-ta-oblast)<br>
 06:11 [Генштаб озвучив втрати росіян на фронті](https://ua.korrespondent.net/ukraine/4895364-henshtab-ozvuchyv-vtraty-rosiian-na-fronti)<br>
 04:58 [Росіяни атакували склади під Києвом](https://ua.korrespondent.net/ukraine/4895359-rosiiany-atakuvaly-sklady-pid-kyievom)<br>
@@ -16,12 +25,28 @@ Previous day: [2026-07-18](./data/2026-07-18.md)
 00:17 [РФ вдарила по Запоріжжю: пожежі і руйнування](https://ua.korrespondent.net/city/zaporozhye/4895342-rf-vdaryla-po-zaporizhzhui-pozhezhi-i-ruinuvannia)<br>
 
 ## www.elperiodico.com
+09:11 [Un terremoto de magnitud preliminar 5,1 deja al menos cinco muertos en Perú](https://www.elperiodico.com/es/internacional/20260719/terremoto-magnitud-preliminar-5-1-132595719)<br>
+09:10 [Pablo Martín, sevillano en Suiza: "El trabajo aquí te permite ahorrar con solvencia"](https://www.elperiodico.com/es/economia/20260719/pablo-martin-sevillano-suiza-trabajo-permite-ahorrar-solvencia-dv-et-132513872)<br>
+09:09 [El conocido teatro de Reus que ya está en la historia del cine](https://www.elperiodico.com/es/sociedad/20260719/teatro-reus-historia-cine-pelicula-francesa-dv-loc-108357731)<br>
+09:00 [Más de 22.000 personas piden excedencias en verano para cuidar de los hijos: el 90% son mujeres](https://www.elperiodico.com/es/sociedad/20260719/excedencias-cuidado-hijos-verano-campamentos-conciliacion-132522059)<br>
+09:00 [Vacaciones imposibles y campamentos de 1.000 euros semanales: el verano de las familias con hijos con autismo severo](https://www.elperiodico.com/es/sociedad/20260719/verano-ninos-autismo-tdah-conciliacion-vacaciones-132545759)<br>
+09:00 [Álvaro (39 años), viviendo solo en un pueblo: "Mi padre me contaba muchas anécdotas de cuando venía de pequeño en verano, que todavía vivía mi bisabuelo, y él amaba mucho esta tierra"](https://www.elperiodico.com/es/sociedad/20260719/alvaro-viviendo-solo-revivir-ambiente-rural-salvar-pueblo-padre-dv-et-132514271)<br>
+08:59 ["Since I was chica": qué es el llanito, la lengua de Gibraltar que teme apagarse entre los jóvenes](https://www.elperiodico.com/es/sociedad/20260719/since-was-chica-llanito-lengua-132595605)<br>
+08:53 [Aumentan a 5.119 los muertos por el doble terremoto en Venezuela del 24 de junio](https://www.elperiodico.com/es/internacional/20260719/aumentan-muertos-doble-terremoto-venezuela-132595369)<br>
+08:30 [Incendios forestales en Catalunya y resto de España, en directo: última hora del fuego en Orés (Zaragoza), que arrasa ya más de 15.000 hectáreas](https://www.elperiodico.com/es/sociedad/20260719/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+08:15 [Dos ventiladores y una ventana: el truco de los expertos para refrescar la casa cuando no tienes aire acondicionado](https://www.elperiodico.com/es/vida-y-estilo/20260719/truco-dos-ventiladores-enfriar-casa-sin-aire-acondicionado-expertos-dv-132513989)<br>
+08:08 [EEUU lanza nuevos ataques contra Irán tras la agresión a una base estadounidense en Jordania que ha dejado dos muertos](https://www.elperiodico.com/es/internacional/20260719/eeuu-lanza-nuevos-ataques-iran-132595028)<br>
+08:00 [El error que muchos cometen con el aire acondicionado en plena ola de calor y que puede hacer que enfríe peor](https://www.elperiodico.com/es/vida-y-estilo/20260719/error-aire-acondicionado-ola-calor-casa-temperatura-dv-132513988)<br>
+08:00 [La FP se alía con los Bomberos para mejorar la lucha contra los incendios: videojuegos para entrenar y sensores en Collserola](https://www.elperiodico.com/es/sociedad/20260719/formacion-profesional-bomberos-cataluna-innovacion-videojuegos-simuladores-realidad-virtual-emergencias-sensores-prevencion-incendios-132506992)<br>
+08:00 [Oriol Núñez, bombero: "Si quieres ser bombero, no puedes querer dormir todas las noches, son cosas incompatibles"](https://www.elperiodico.com/es/sociedad/20260719/oriol-nunez-bombero-tarragona-112-fp-grado-medio-emergencias-grado-superior-coordinacion-formacion-bomberos-132453086)<br>
+07:00 [Guía antimanchas del verano: cómo tratar pecas, léntigos, melasma o marcas, del bronceado bonito al tono irregular](https://www.elperiodico.com/es/gente/20260719/guia-antimanchas-consejos-verano-bronceado-tono-irregular-pecas-melasma-lentigos-132393861)<br>
 06:01 [Carlos Alsina se aparta de las mañanas de Onda Cero, el periodismo se queda más huérfano](https://www.elperiodico.com/es/opinion/20260719/carlos-alsina-aparta-mananas-onda-132580540)<br>
 06:01 [El despegue en bolsa de la ACS de Florentino Pérez](https://www.elperiodico.com/es/economia/20260719/despegue-bolsa-acs-florentino-perez-132585484)<br>
 06:00 [Juan Santamaría, el consejero delegado más joven del Ibex 35 que prepara a ACS para la era de la IA](https://www.elperiodico.com/es/economia/20260719/juan-santamaria-consejero-delegado-joven-132583846)<br>
 06:00 [Los rincones secretos de la Sagrada Família (y VI): un coro de 1.000 voces](https://www.elperiodico.com/es/barcelona/eixample/20260719/rincones-secretos-sagrada-familia-vi-129817425)<br>
 06:00 [Dongguan se reinventa tras ejercer de prostíbulo nacional de China](https://www.elperiodico.com/es/internacional/20260719/dongguan-prostibulo-china-132562234)<br>
 06:00 [La Generalitat declara 'proyecto de país' al hub de las Tres Xemeneies del Besòs para agilizar tramitaciones y garantizarle potencia energética](https://www.elperiodico.com/es/barcelona/20260719/generalitat-refuerza-compromiso-hub-tecnologico-tres-xemeneies-besos-proyecto-estrategico-pais-132551329)<br>
+06:00 [España, una potencia mundial en ingeniería](https://www.elperiodico.com/es/economia/20260719/espana-potencia-mundial-ingenieria-132594736)<br>
 06:00 [Choque por la productividad de la economía catalana: el informe Fénix enfrenta a economistas y organizaciones](https://www.elperiodico.com/es/economia/20260719/choque-productividad-economia-catalana-informe-132209343)<br>
 06:00 [Chequeo al informe Fénix: la polémica radiografía de la economía catalana y su productividad](https://www.elperiodico.com/es/economia/20260719/chequeo-informe-fenix-polemica-radiografia-132263857)<br>
 06:00 [Javier Sierra, el banquero que quiere abrir España al mundo árabe: "Queremos que Aresbank deje de ser ese gran desconocido"](https://www.elperiodico.com/es/economia/20260719/javier-sierra-banquero-quiere-abrir-132594710)<br>
