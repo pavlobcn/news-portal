@@ -1,8 +1,9 @@
-# News for 2026-07-19 21:51
+# News for 2026-07-19 22:36
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+21:59 [Rheinmetall запропонував Польщі масштабний завод зброї та техніки](https://ua.korrespondent.net/business/companies/4895501-Rheinmetall-zaproponuvav-polschi-masshtabnyi-zavod-zbroi-ta-tekhniky)<br>
 21:45 [РФ втрачає контроль над морськими шляхами до Криму - ЗМІ](https://ua.korrespondent.net/ukraine/4895498-rf-vtrachaie-kontrol-nad-morskymy-shliakhamy-do-krymu-zmi)<br>
 21:29 [У Чехії 11 днів горить фабрика: мешканців міста евакуюють](https://ua.korrespondent.net/world/4895495-u-chekhii-11-dniv-horyt-fabryka-meshkantsiv-mista-evakuuiuit)<br>
 21:11 [РФ вдарила ракетами по судну біля Одеси: є загиблі](https://ua.korrespondent.net/ukraine/4895492-rf-vdaryla-raketamy-po-sudnu-bilia-odesy-ye-zahybli)<br>
