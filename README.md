@@ -1,8 +1,9 @@
-# News for 2026-07-19 22:36
+# News for 2026-07-19 23:34
 
 Previous day: [2026-07-18](./data/2026-07-18.md)
 
 ## ua.korrespondent.net
+22:58 [У Києві після удару РФ коло метро Лук’янівська створять наземний перехід](https://ua.korrespondent.net/city/kiev/4895510-u-kyievi-pislia-udaru-rf-kolo-metro-lukianivska-stvoriat-nazemnyi-perekhid)<br>
 21:59 [Rheinmetall запропонував Польщі масштабний завод зброї та техніки](https://ua.korrespondent.net/business/companies/4895501-Rheinmetall-zaproponuvav-polschi-masshtabnyi-zavod-zbroi-ta-tekhniky)<br>
 21:45 [РФ втрачає контроль над морськими шляхами до Криму - ЗМІ](https://ua.korrespondent.net/ukraine/4895498-rf-vtrachaie-kontrol-nad-morskymy-shliakhamy-do-krymu-zmi)<br>
 21:29 [У Чехії 11 днів горить фабрика: мешканців міста евакуюють](https://ua.korrespondent.net/world/4895495-u-chekhii-11-dniv-horyt-fabryka-meshkantsiv-mista-evakuuiuit)<br>
@@ -55,6 +56,7 @@ Previous day: [2026-07-18](./data/2026-07-18.md)
 00:17 [РФ вдарила по Запоріжжю: пожежі і руйнування](https://ua.korrespondent.net/city/zaporozhye/4895342-rf-vdaryla-po-zaporizhzhui-pozhezhi-i-ruinuvannia)<br>
 
 ## as.com
+23:14 [Una plata para el recuerdo](https://as.com/baloncesto/mas_baloncesto/una-plata-para-el-recuerdo-f202607-n/)<br>
 20:26 [Estados Unidos - España, en directo: Mundial femenino Sub-17 de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/estados-unidos-espana-en-directo-mundial-femenino-sub-17-de-baloncesto-2026-en-vivo-hoy-f202607-d/)<br>
 19:12 [Una Selección de bronce](https://as.com/baloncesto/otra-medalla-para-el-baloncesto-espanol-f202607-n/)<br>
 12:48 [Hezonja, Madrid y la NBA: horas críticas](https://as.com/baloncesto/acb/hezonja-madrid-y-la-nba-horas-criticas-f202607-n/)<br>
