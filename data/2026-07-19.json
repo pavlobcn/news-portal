@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Атака на Київ: стало відомо про наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4895351-ataka-na-kyiv-stalo-vidomo-pro-naslidky",
+    "pubDate": "2026-07-19 02:39:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499961.jpg\">Влучання та падіння уламків зафіксовані у п'яти районах столиці. Наразі відомо про одну жертву.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У США повідомили про нові удари по Ірану",
+    "link": "https://ua.korrespondent.net/world/4895349-u-ssha-povidomyly-pro-novi-udary-po-iranu",
+    "pubDate": "2026-07-19 02:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499920.jpg\">Війська США вже восьму ніч поспіль, завдають повітряних ударів по цілях на території Ірану.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ скинула на Слатин чотири КАБи: є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4895347-rf-skynula-na-slatyn-chotyry-kaby-ye-postrazhdali",
+    "pubDate": "2026-07-19 01:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499919.jpg\">Найбільше постраждав один із приватних будинків, під завалами якого опинилися мати та дитина.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Десятки ракет вдарили по Києву: масштабні пожежі",
+    "link": "https://ua.korrespondent.net/city/kiev/4895344-desiatky-raket-vdaryly-po-kyievu-masshtabni-pozhezhi",
+    "pubDate": "2026-07-19 01:26:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499878.jpg\">Моніторингові канали нарахували близько 40 ракет. Це була найбільша атака балістикою на Київ за увесь час війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ дізналися про ідею Зеленського щодо Федорова",
+    "link": "https://ua.korrespondent.net/ukraine/4895340-zmi-diznalysia-pro-ideui-zelenskoho-schodo-fedorova",
+    "pubDate": "2026-07-19 00:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499793.jpg\">Президент схиляється до того, щоб звільнити головкома Сирського, натомість Федорову можуть запропонувати іншу посаду.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ вдарила по Запоріжжю: пожежі і руйнування",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4895342-rf-vdaryla-po-zaporizhzhui-pozhezhi-i-ruinuvannia",
+    "pubDate": "2026-07-19 00:17:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4499798.jpg\">Після російської атаки в одному з районів міста палає навчальний заклад та приватний будинок.",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
