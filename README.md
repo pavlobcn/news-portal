@@ -1,8 +1,12 @@
-# News for 2026-07-20 18:43
+# News for 2026-07-20 20:36
 
 Previous day: [2026-07-19](./data/2026-07-19.md)
 
 ## ua.korrespondent.net
+20:10 [Четверо загиблих і один у реанімації: Індія засудила удар РФ по судну](https://ua.korrespondent.net/world/4895819-chetvero-zahyblykh-i-odyn-u-reanimatsii-indiia-zasudyla-udar-rf-po-sudnu)<br>
+19:49 [У Росії бракує третини необхідного пального - СЗРУ](https://ua.korrespondent.net/world/russia/4895816-u-rosii-brakuie-tretyny-neobkhidnoho-palnoho-szru)<br>
+19:22 [На Київщині судитимуть матір, яка не викликала лікарів і сховала тіло сина](https://ua.korrespondent.net/ukraine/4895812-na-kyivschyni-sudytymut-matir-yaka-ne-vyklykala-likariv-i-skhovala-tilo-syna)<br>
+19:11 [Археологи знайшли у Мексиці жертовний вівтар із людськими останками](https://ua.korrespondent.net/tech/science/4895809-arkheolohy-znaishly-u-meksytsi-zhertovnyi-vivtar-iz-luidskymy-ostankamy)<br>
 18:39 [У прокуратурі повідомили деталі щодо падіння хлопчика з вікна у Харкові](https://ua.korrespondent.net/city/kharkov/4895797-u-prokuraturi-povidomyly-detali-schodo-padinnia-khlopchyka-z-vikna-u-kharkovi)<br>
 17:40 [Чехія вводить жорстку заборону на телефони у школах: що зміниться](https://ua.korrespondent.net/world/4895781-chekhiia-vvodyt-zhorstku-zaboronu-na-telefony-u-shkolakh-scho-zminytsia)<br>
 17:30 [У Польщі побили чоловіка, який заступився за українця](https://ua.korrespondent.net/world/4895777-u-polschi-pobyly-cholovika-yakyi-zastupyvsia-za-ukraintsia)<br>
@@ -78,11 +82,22 @@ Previous day: [2026-07-19](./data/2026-07-19.md)
 00:11 [Українські баскетболісти U-20 на Євро виграли золото дивізіону В](https://ua.korrespondent.net/sport/basketball/4895519-ukrainski-basketbolisty-U-20-na-yevro-vyhraly-zoloto-dyvizionu-v)<br>
 
 ## as.com
+18:49 [Balcerowski se desvincula del Unicaja](https://as.com/baloncesto/balcerowski-se-desvincula-del-unicaja-f202607-n/)<br>
 16:19 [TJ Bamba, nuevo fichaje de La Laguna Tenerife](https://as.com/baloncesto/acb/tj-bamba-nuevo-fichaje-de-la-laguna-tenerife-f202607-n/)<br>
 14:26 [“Es una locura lo que hemos conseguido”](https://as.com/baloncesto/mas_baloncesto/es-una-locura-lo-que-hemos-conseguido-f202607-n/)<br>
 11:39 [Oferta del Valencia por Ndiaye: el Madrid tiene cinco días para igualarla](https://as.com/baloncesto/acb/oferta-del-valencia-por-ndiaye-el-madrid-tiene-cinco-dias-para-igualarla-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:34 [David Martínez, el exconsejero del Sabadell que apostó por BBVA en la opa, vende el 1,5% de su posición](https://www.elperiodico.com/es/economia/20260720/david-martinez-exconsejero-sabadell-aposto-132644716)<br>
+20:22 [Ganaderos del Pallars denuncian que un oso ha matado a una yegua y un potro y ha herido a un ternero](https://www.elperiodico.com/es/sociedad/20260720/ganaderos-pallars-denuncian-oso-matado-132644283)<br>
+20:07 [El aviso de Pedro García Ramos, médico de familia: "Con el calor el organismo sufre una deshidratación, un aumento de su temperatura y una descompensación de nuestros sistemas"](https://www.elperiodico.com/es/salud/20260720/golpe-calor-efectos-deshidratacion-organos-medico-dv-et-132170086)<br>
+20:00 [Combatir la bulimia a los 70 años: "Normalicé desde jovencita vomitar después de comer"](https://www.elperiodico.com/es/sanidad/20260720/trastornos-alimentarios-tca-bulimia-vejez-normalizar-vomitar-131926826)<br>
+20:00 [Los trastornos alimentarios en los mayores pueden confundirse con depresión, deterioro cognitivo o fragilidad](https://www.elperiodico.com/es/sanidad/20260720/trastornos-alimentarios-tca-mayores-confundirse-depresion-deterioro-cognitivo-fragilidad-131840033)<br>
+20:00 [El 10% de las personas de entre 50 y 70 años sufren trastornos alimentarios: "Aumentan las mujeres que combinan atracones con dietas estrictas"](https://www.elperiodico.com/es/sanidad/20260720/personas-mayores-trastorno-alimentario-tca-mujeres-atracones-dietas-estrictas-131774112)<br>
+19:44 [Fuertes rachas de viento tumban varios árboles de L'Hospitalet en una fugaz tormenta veraniega](https://www.elperiodico.com/es/barcelona/20260720/fuertes-reachas-viento-tumban-arboles-hospitalet-fugaz-tormenta-veraniega-132642489)<br>
+19:42 [Los "fuegos extremos" de Zaragoza y Guadalajara ya elevan a 100.000 las hectáreas quemadas en España: "Lo que queda de verano puede ser aún peor"](https://www.elperiodico.com/es/sociedad/20260720/incendios-extremos-zaragoza-guadalajara-hectareas-espana-132640285)<br>
+18:54 [Bruselas acusa a una decena cementeras y patronales del sector en Francia, Alemania y España de conspirar para subir los precios](https://www.elperiodico.com/es/economia/20260720/bruselas-acusa-decena-cementeras-patronales-pactar-precios-132641496)<br>
+18:45 [Ginóbili: "En Argentina, nos creemos que se gana con huevos y con coraje, y no: se gana jugando bien"](https://www.elperiodico.com/es/deportes/20260720/ginobili-argentina-creemos-gana-huevos-132640520)<br>
 18:29 [La tecnológica española aggity compra Bluenest a Globavia e irrumpe en el sector de la Defensa](https://www.elperiodico.com/es/economia/20260720/tecnologica-espanola-aggity-compra-bluenest-132640458)<br>
 18:00 [La Generalitat concentra los servicios de pediatría en la zona sur de Mataró](https://www.elperiodico.com/es/barcelona/20260720/generalitat-concentra-servicios-pediatria-zona-sur-mataro-132638248)<br>
 17:02 [La Diputación de Barcelona renovará más de 400 equipamientos culturales tras una inyección de 15 millones de euros](https://www.elperiodico.com/es/barcelona/20260720/diputacion-barcelona-renovara-400-equipamientos-culturales-inyeccion-15-millones-euros-132627520)<br>
