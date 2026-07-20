@@ -1,5 +1,23 @@
 [
   {
+    "title": "Memoria, diálogos y mucha aventura en el concierto de 50º aniversario de Grec",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260720/memoria-dialogos-aventura-concierto-50o-aniversario-grec-132648331",
+    "pubDate": "2026-07-20 23:51:14",
+    "category": "",
+    "description": "<h2>El espectáculo conmemorativo del festival desarrolló el concepto de mestizaje a través de sustanciosas interpretaciones de voces como Maria del Mar Bonet, Mayte Martín y Estrella Morente</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "ЗМІ дізналися, чи буде відставка Сирського",
+    "link": "https://ua.korrespondent.net/ukraine/4895850-zmi-diznalysia-chy-bude-vidstavka-syrskoho",
+    "pubDate": "2026-07-20 23:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4503067.jpg\">У списку можливих наступників головнокомандувача - 11 прізвищ. Названо ім'я найбільш ймовірного.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Otra superestrella bien merecía un fiestón: la España más feliz inunda las calles de Madrid por el Mundial de \"26 fantásticas personas\"",
     "link": "https://www.elperiodico.com/es/deportes/20260720/celebracion-cibeles-mundial-seleccion-espanola-futbol-rodri-lamine-yamal-nico-williams-luis-fuente-132648228",
     "pubDate": "2026-07-20 23:31:14",
@@ -7,6 +25,15 @@
     "description": "<h2>Dos millones de personas acompañaron a los campeones por las repletas calles de la capital en una rúa para la historia que desembocó en una gran celebración en Cibeles en homenaje de los Rodri, Lamine, Nico, Cubarsí y compañía</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Сибіга розповів послам ОБСЄ про удари по Києву",
+    "link": "https://ua.korrespondent.net/ukraine/4895848-sybiha-rozpoviv-poslam-obsie-pro-udary-po-kyievu",
+    "pubDate": "2026-07-20 23:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4503027.jpg\">Представники держав-учасниць, які з'їхалися в українську столицю, обговорили можливості для посилення підтримки України з боку ОБСЄ.",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "У Сумах після удару БПЛА палає Епіцентр",
@@ -70,6 +97,15 @@
     "description": "",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Заміна Сирського. Кандидати є, рішення немає",
+    "link": "https://ua.korrespondent.net/ukraine/4895856-zamina-syrskoho-kandydaty-ye-rishennia-nemaie",
+    "pubDate": "2026-07-20 22:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4503108.jpeg\">Починаючи з 16 липня у Києві та інших містах відбуваютья акції з вимогою повернути Михайла Федорова на посаду міністра оборони та звільнити головнокомандувача ЗСУ Олександра Сирського.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "En torno a 1,8 millones de aficionados se vuelcan en Madrid con los campeones del mundo",
