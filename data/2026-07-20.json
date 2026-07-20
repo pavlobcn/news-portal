@@ -1,5 +1,32 @@
 [
   {
+    "title": "Росіяни вдарили ракетою по Одесі",
+    "link": "https://ua.korrespondent.net/city/odessa/4895551-rosiiany-vdaryly-raketoui-po-odesi",
+    "pubDate": "2026-07-20 06:46:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501807.jpg\">Внаслідок атаки постраждала інфраструктура. На місці російського удару працюють усі відповідні служби.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар РФ по Запоріжжю: кількість загиблих зросла",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4895549-udar-rf-po-zaporizhzhui-kilkist-zahyblykh-zrosla",
+    "pubDate": "2026-07-20 06:36:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501806.jpg\">У Запоріжжі під завалами будинку знайшли тіло 11-річної дівчинки: кількість жертв російського удару зросла до трьох.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 20 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4895547-henshtab-nazvav-vtraty-rosii-stanom-na-20-lypnia",
+    "pubDate": "2026-07-20 06:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501785.jpg\">Минулої доби ЗСУ ліквідували 1600 окупантів. Знищено два танки, вісім бронемашин, 82 артсистеми, три РСЗВ, шість засобів ППО, дев'ять НРК і 1769 дронів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La clínica estética con mentalidad (y fondos) de ‘startup’ ultratecnológica",
     "link": "https://www.elperiodico.com/es/economia/20260720/sante-clinica-estetica-mentalidad-fondos-startup-didit-132450362",
     "pubDate": "2026-07-20 06:00:57",
@@ -151,6 +178,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501702.jpg\">Кремль готовий \"сприяти мирному врегулюванню розбіжностей як між США та Іраном\", але \"не буде нав'язуватися\".",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "'Ignorancia y felicidad', de Mark Lilla: saber o no saber",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260720/mark-lilla-critica-libro-ignorancia-felicidad-132395862",
+    "pubDate": "2026-07-20 04:50:33",
+    "category": "",
+    "description": "<h2>El autor alerta en su último ensayo del peligro de la ignorancia, pero no oculta la desazón con que obliga a cargar el conocimiento, que no tiene vuelta atrás</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Hombres enamorados', de Irvine Welsh: un día de boda, y más de lo mismo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260720/irvine-welsh-critica-libro-hombres-enamorados-132394410",
+    "pubDate": "2026-07-20 04:50:31",
+    "category": "",
+    "description": "<h2>El autor escocés recupera a sus hijos pródigos justo al acabar la exitosa ‘Trainspotting’ en su nueva novela</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260515/irvine-welsh-entrevista-hombres-enamorados-trainspotting-130275682\">Irvine Welsh: \"A los veintitantos no sabes ni en qué pub vas a beber, pero tienes que tomar las grandes decisiones que definirán tu vida\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Румунія не вироблятиме ракети PAC-3 для Patriot для України",
