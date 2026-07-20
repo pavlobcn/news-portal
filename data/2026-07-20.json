@@ -1,5 +1,311 @@
 [
   {
+    "title": "Keir Starmer: \"Me marcho orgulloso de todo lo que hemos conseguido\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/keir-starmer-ultimo-discurso/132641004.shtml",
+    "pubDate": "2026-07-20 18:42:16",
+    "category": "",
+    "description": "Starmer dice que su trabajo \"ha terminado\" y destaca la labor realizada en sus dos años",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La red de Telefónica en España registró un 30% más de tráfico 5G durante la final del Mundial",
+    "link": "https://www.elperiodico.com/es/economia/20260720/red-telefonica-espana-registro-aumento-trafico-5g-mundial-132640735",
+    "pubDate": "2026-07-20 18:40:08",
+    "category": "",
+    "description": "<h2>El pico de tráfico fue un 20% superior al máximo registrado hace justo una semana, día 12 de julio</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Firestone celebra 125 años de historia: un siglo y cuarto de evolución sobre el asfalto",
+    "link": "https://www.elperiodico.com/es/motor/20260720/firestone-celebra-125-anos-historia-132640188",
+    "pubDate": "2026-07-20 18:40:05",
+    "category": "",
+    "description": "<h2>La mítica marca de neumáticos, estrechamente vinculada a España desde 1932, repasa un legado que abarca desde los primeros hitos industriales con Ford hasta la victoria de Álex Palou en la mítica Indy 500</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У прокуратурі повідомили деталі щодо падіння хлопчика з вікна у Харкові",
+    "link": "https://ua.korrespondent.net/city/kharkov/4895797-u-prokuraturi-povidomyly-detali-schodo-padinnia-khlopchyka-z-vikna-u-kharkovi",
+    "pubDate": "2026-07-20 18:39:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502718.jpg\">За словами матері хлопчика, через погане самопочуття, спричинене харчовим отруєнням, вона перебувала у ванній кімнаті саме у момент падіння дитини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Білорусі офіцеру дали 14 років за критику війни РФ проти України",
+    "link": "https://ua.korrespondent.net/world/4895796-u-bilorusi-ofitseru-daly-14-rokiv-za-krytyku-viiny-rf-proty-ukrainy",
+    "pubDate": "2026-07-20 18:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502717.jpg\">Експідполковник Антон Черемних відбуватиме термін у колонії посиленого режиму за \"держзраду\" та \"розпалювання соціальної ворожнечі\".",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "La tecnológica española aggity compra Bluenest a Globavia e irrumpe en el sector de la Defensa",
+    "link": "https://www.elperiodico.com/es/economia/20260720/tecnologica-espanola-aggity-compra-bluenest-132640458",
+    "pubDate": "2026-07-20 18:29:52",
+    "category": "",
+    "description": "<h2>La compañía estima que el sector moverá en España más de 800 millones de euros de aquí a 2030</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хабар у $100 тисяч: завершено слідство у справі топпосадовця Укрзалізниці",
+    "link": "https://ua.korrespondent.net/ukraine/4895792-khabar-u-100-tysiach-zaversheno-slidstvo-u-spravi-topposadovtsia-ukrzaliznytsi",
+    "pubDate": "2026-07-20 18:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502694.jpg\">Заступник керівника одного з департаментів Укрзалізниці обіцяв погодити демонтаж колії за 100 тисяч доларів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЛНЗ та Полісся отримали можливих суперників у кваліфікації Ліги конференцій",
+    "link": "https://ua.korrespondent.net/sport/football/4895794-lnz-ta-polissia-otrymaly-mozhlyvykh-supernykiv-u-kvalifikatsii-lihy-konferentsii",
+    "pubDate": "2026-07-20 18:18:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502696.jpg\">Два українські клуби дізналися про потенційних суперників у третьому раунді відбору єврокубкового турніру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ryanair lanza vuelos desde 19 euros hasta esta medianoche por el Mundial: destinos y condiciones de la oferta",
+    "link": "https://www.elperiodico.com/es/economia/20260720/ryanair-lanza-vuelos-19-euros-mundial-oferta-dv-132639322",
+    "pubDate": "2026-07-20 18:16:56",
+    "category": "",
+    "description": "<h2>Destacan vuelos desde Barcelona-El Prat con precios a partir de 14,99 euros a destinos como Alghero (Italia), Fez (Marruecos) y Londres Stansted (Reino Unido)</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260720/espana-argentina-campeon-mundial-2026-victoria-seleccion-espanola-ultima-hora-directo-132575699\" target=\"_blank\">Celebración del Mundial de España, hoy en directo</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Ismael 'El Mayo' Zambada, exlíder del cartel de Sinaloa, condenado a cadena perpetua por un tribunal de Nueva York",
+    "link": "https://www.elperiodico.com/es/internacional/20260720/ismael-mayo-zambada-cartel-sinaloa-condenado-cadena-perpetua-132640097",
+    "pubDate": "2026-07-20 18:16:20",
+    "category": "",
+    "description": "<h2>El narcotraficante se declaró culpable el año pasado de traficar durante décadas toneladas de cocaína, heroína y fentanilo para evitar la pena de muerte</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260707/guerra-interna-liderazgo-cartel-sinaloa-violencia-132199837\" target=\"_blank\">La guerra interna por el liderazgo del cártel de Sinaloa se recrudece pese al despliegue militar y las presiones de EEUU</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Санкції проти РФ зависли, ЄС шукає компроміс - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4895790-sanktsii-proty-rf-zavysly-yes-shukaie-kompromis-zmi",
+    "pubDate": "2026-07-20 18:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502695.jpg\">Посли країн ЄС мають продовжити переговори цього тижня, щоб спробувати узгодити остаточний варіант санкційного пакета.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un lío judicial frena la investigación a un notario de Barcelona denunciado por estafar a una veintena de ancianos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260720/lio-judicial-juez-frena-investigacion-notario-estafa-ancianos-barcelona-132485390",
+    "pubDate": "2026-07-20 18:06:18",
+    "category": "",
+    "description": "<h2 class=\"item\">La causa contra la trama va de un juzgado a otro, a pesar de llevar cinco años abierta, sin que los afectados hayan obtenido respuesta a sus denuncias</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251008/juez-investigacion-notario-barcelona-estafa-avanzada-edad-minusvalidos-discapacitadas-122375216\">Investigado un notario de Barcelona por estafar a ancianos y personas con discapacidad</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Generalitat concentra los servicios de pediatría en la zona sur de Mataró",
+    "link": "https://www.elperiodico.com/es/barcelona/20260720/generalitat-concentra-servicios-pediatria-zona-sur-mataro-132638248",
+    "pubDate": "2026-07-20 18:00:12",
+    "category": "",
+    "description": "<h2>La coordinadora en defensa de la sanidad pública denuncia que la operación \"rompe\" con el principio de proximidad</h2><h2>En 2024 | <a href=\"https://www.elperiodico.com/es/sanidad/20240614/hospital-mataro-estudia-cierre-temporal-ingresos-urgencias-pediatria-103777562\">El Hospital de Mataró derivará los ingresos pediátricos de larga duración a Can Ruti por falta de personal</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Test-drive de Cupra, un éxito en GRAVITEO",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/test-drive-cupra-experiencia-132639491",
+    "pubDate": "2026-07-20 17:59:12",
+    "category": "",
+    "description": "<h2>La marca automovilística puso a disposición de los asistentes a GRAVITEO varios de sus modelos emblemáticos como el León o el Formentor, para dar una vuelta al Circuit de Barcelona-Catalunya y sentirse como un auténtico piloto por unas vueltas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Los Reyes abren el homenaje a los nuevos campeones del mundo: pasillo de los trabajadores de la Zarzuela",
+    "link": "https://www.elperiodico.com/es/politica/20260720/reyes-homenaje-campeones-espana-futbol-pasillo-zarzuela-132639304",
+    "pubDate": "2026-07-20 17:56:44",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генштаб розкрив деталі морської фази Sea Breeze",
+    "link": "https://ua.korrespondent.net/world/4895787-henshtab-rozkryv-detali-morskoi-fazy-Sea-Breeze",
+    "pubDate": "2026-07-20 17:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502659.jpg\">У Великій Британії триває активна фаза міжнародних навчань Sea Breeze, які цього року проходять під керівництвом України та США. Військові відпрацьовують дії для майбутніх протимінних операцій.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Київське Динамо дізналося про суперників у відборі ЛЄ чи Ліги конференцій",
+    "link": "https://ua.korrespondent.net/sport/football/4895786-kyivske-dynamo-diznalosia-pro-supernykiv-u-vidbori-lie-chy-lihy-konferentsii",
+    "pubDate": "2026-07-20 17:52:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502693.jpg\">Київський клуб отримав можливих суперників у разі перемоги та у разі програшу у матчі з ПАОК.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Illa, en la toma de posesión de Raúl Moreno: \"Es un cambio de conseller, no de políticas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260720/raul-moreno-toma-posesion-conseller-drets-socials-inclusio-132626865",
+    "pubDate": "2026-07-20 17:45:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El president envía un mensaje de continuidad en las políticas sociales pese al cambio en el Consell Executiu y reivindica la obra de gobierno de la ya exconsellera Mònica Martínez Bravo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260720/raul-moreno-conseller-drets-socials-nuevo-relevo-monica-martinez-bravo-govern-salvador-illa-132545276\">Raúl Moreno, nuevo conseller de Drets Socials en sustitución de Mònica Martínez Bravo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260720/crisis-dgaia-listas-espera-martinez-bravo-drets-socials-132620813\">De la crisis de la DGAIA a las listas de espera: lo hecho y lo que queda por hacer en Drets Socials tras la salida de Martínez Bravo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Мільйони повз бюджет: у Британії заявили про тютюнову схему в Україні",
+    "link": "https://ua.korrespondent.net/world/4895782-miliony-povz-buidzhet-u-brytanii-zaiavyly-pro-tuituinovu-skhemu-v-ukraini",
+    "pubDate": "2026-07-20 17:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502657.jpeg\">Мережа використовувала офшорні структури для наповнення ринків України та ЄС контрабандними сигаретами, ухиляючись від сплати податків на суму близько 180 мільйонів фунтів стерлінгів (майже 200 мільйонів євро) на рік.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Чехія вводить жорстку заборону на телефони у школах: що зміниться",
+    "link": "https://ua.korrespondent.net/world/4895781-chekhiia-vvodyt-zhorstku-zaboronu-na-telefony-u-shkolakh-scho-zminytsia",
+    "pubDate": "2026-07-20 17:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502636.jpg\">Нові правила мають запрацювати з 1 вересня 2027 року й охоплять не лише уроки, а й перерви та позакласні заходи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rosalía, Chino Darín y Javier Bardem celebran la victoria de España en el Mundial con emoción y camisetas",
+    "link": "https://www.elperiodico.com/es/gente/20260720/rosalia-chino-darin-javier-bardem-132638052",
+    "pubDate": "2026-07-20 17:33:10",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Польщі побили чоловіка, який заступився за українця",
+    "link": "https://ua.korrespondent.net/world/4895777-u-polschi-pobyly-cholovika-yakyi-zastupyvsia-za-ukraintsia",
+    "pubDate": "2026-07-20 17:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502633.jpg\">У польському Познані 60-річного чоловіка побили після того, як він спробував захистити українця від образ у трамваї. Після нападу в потерпілого виникли проблеми з пам’яттю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nuevo Fiat Grande Panda, un diseño icónico y la oferta multienergía más completa de su segmento: gasolina, híbrido y eléctrico",
+    "link": "https://www.elperiodico.com/es/motor/20260720/nuevo-fiat-grande-panda-diseno-iconico-oferta-multienergia-132627641",
+    "pubDate": "2026-07-20 17:28:03",
+    "category": "",
+    "description": "<h2>Disponible desde 14.950 euros, cumple con la misión de proporcionar una movilidad accesible y versátil</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El presidente de Plus Ultra señala a Zapatero y \"Julito\" en el pago de una mordida por el rescate por sus labores de \"acompañamiento\"",
+    "link": "https://www.elperiodico.com/es/politica/20260720/presidente-plus-ultra-implica-zapatero-cobro-mordidas-132638040",
+    "pubDate": "2026-07-20 17:25:13",
+    "category": "",
+    "description": "<h2>Martinez Sola decide colaborar con la justicia -- al igual que el presunto testaferro del expresidente-- y relata en un extenso escrito al juez Calama las visicitudes para el cobro del crédito de 53 millones</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Tribunal de Cuentas pospone la aplicación de la amnistía a Puigdemont y Mas por los gastos del 1-O",
+    "link": "https://www.elperiodico.com/es/politica/20260720/tribunal-cuentas-aplicacion-ley-amnistia-puigdemont-artur-mas-132636470",
+    "pubDate": "2026-07-20 17:23:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El órgano fiscalizador ha dado un plazo de 10 días a las partes para que presenten alegaciones si lo estima conveniente e incluso documentación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260718/expertos-alejan-regreso-puigdemont-anticipan-largo-camino-supremo-amnistia-132545104\">Los expertos alejan el regreso de Puigdemont y anticipan un largo camino en el Supremo para aplicar la amnistía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Muere el exfutbolista Kevin Keegan, carismática estrella del fútbol inglés que ganó dos veces el Balón de Oro",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/muere-kevin-keegan-exfutbolista-entrenador-ingles-balon-de-oro-132637551",
+    "pubDate": "2026-07-20 17:22:27",
+    "category": "",
+    "description": "<h2>Tropezó como seleccionador de Inglaterra, pero será recordado como una gran estrella del Liverpool y el Hamburgo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Росії обвалилися продажі нових авто на тлі кризи пального",
+    "link": "https://ua.korrespondent.net/business/economics/4895774-v-rosii-obvalylysia-prodazhi-novykh-avto-na-tli-kryzy-palnoho",
+    "pubDate": "2026-07-20 17:22:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502634.jpg\">За тиждень продажі нових легкових автомобілів у Росії скоротилися до 25,9 тисячі автомобілів.",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Mundo Today | Los amigos con piscina cobrarán una tarifa premium por su amistad",
+    "link": "https://www.elperiodico.com/es/que-hacer/20260720/mundo-today-amigos-piscina-cobraran-tarifa-premium-132637513",
+    "pubDate": "2026-07-20 17:15:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/autor/el-mundo-today-1850889\" >La actualidad del mañana de Barcelona de El Mundo Today</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260714/mundo-today-paga-50-euros-paella-restos-132444418\">Paga 50 euros por una paella hecha con las sobras de la que se pidió el año pasado</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Зеленський вручив держнагороди, 172 - посмертно",
+    "link": "https://ua.korrespondent.net/ukraine/4895772-zelenskyi-vruchyv-derzhnahorody-172-posmertno",
+    "pubDate": "2026-07-20 17:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502612.jpg\">Загалом 472 оборонці України отримали ордени, медалі та відзнаку \"Хрест бойових заслуг\".",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La guerra que reconcilió a árabes y persas",
+    "link": "https://www.elperiodico.com/es/opinion/20260720/guerra-reconcilio-arabes-persas-oriente-medio-articulo-andreu-claret-132636522",
+    "pubDate": "2026-07-20 17:12:09",
+    "category": "",
+    "description": "<h2>Todavía es pronto para calibrar todas las derivadas de este terremoto. La primera es la voluntad de la mayoría de los países del Golfo de recuperar autonomía estratégica y militar respecto de EEUU</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "La Diputación de Barcelona renovará más de 400 equipamientos culturales tras una inyección de 15 millones de euros",
+    "link": "https://www.elperiodico.com/es/barcelona/20260720/diputacion-barcelona-renovara-400-equipamientos-culturales-inyeccion-15-millones-euros-132627520",
+    "pubDate": "2026-07-20 17:02:30",
+    "category": "",
+    "description": "<h2>La convocatoria recibió 241 solicitudes, que demandaban más de 50 millones de euros llevar a cargo sus respectivas rehabilitaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La exposición crónica al ruido del tráfico podría aumentar el riesgo de sufrir párkinson, según un estudio con tres millones de personas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260720/exposicion-ruido-trafico-aumentar-riesgo-parkinson-estudio-132633545",
+    "pubDate": "2026-07-20 17:00:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio indica que los residentes de entornos urbanos ruidosos presentan una probabilidad entre un 3 y un 4% mayor de padecer esta enfermedad neurodegenerativa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20231031/epidemia-ruido-barcelona-madrid-ciudades-trafico-estres-insomnio-94034010\">La epidemia del ruido se erige en un problema de salud pública en España: mucho tráfico y hogares no preparados</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "¿Y ahora, qué? Una selección pletórica, joven y preparada para seguir reinando en España 2030",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/seleccion-joven-preparada-seguir-reinando-mundial-2030-132625665",
+    "pubDate": "2026-07-20 17:00:04",
+    "category": "",
+    "description": "<h2 class=\"item\">La campeona del mundo lo ha sido con una media de edad inferior a los 27 años, la sexta más baja de todo el torneo</h2><h2 class=\"item\">Dentro de cuatro años, en casa, estrellas como Lamine Yamal, Cubarsí, Pedri o Nico Williams seguirán en plenitud</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "НАТО тричі підіймало винищувачі через російські літаки над Балтією",
+    "link": "https://ua.korrespondent.net/world/4895770-nato-trychi-pidiimalo-vynyschuvachi-cherez-rosiiski-litaky-nad-baltiieui",
+    "pubDate": "2026-07-20 16:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502591.jpg\">Винищувачі НАТО, які патрулюють повітряний простір Балтії, протягом минулого тижня тричі здійснювали перехоплення російських військових літаків. Частина з них летіла без планів польоту або з вимкненими транспондерами.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
     "title": "В Одесі 21 липня оголосили Днем жалоби",
     "link": "https://ua.korrespondent.net/city/odessa/4895768-v-odesi-21-lypnia-oholosyly-dnem-zhaloby",
     "pubDate": "2026-07-20 16:53:00",

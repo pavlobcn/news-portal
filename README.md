@@ -1,8 +1,11 @@
-# News for 2026-07-20 16:59
+# News for 2026-07-20 18:43
 
 Previous day: [2026-07-19](./data/2026-07-19.md)
 
 ## ua.korrespondent.net
+18:39 [У прокуратурі повідомили деталі щодо падіння хлопчика з вікна у Харкові](https://ua.korrespondent.net/city/kharkov/4895797-u-prokuraturi-povidomyly-detali-schodo-padinnia-khlopchyka-z-vikna-u-kharkovi)<br>
+17:40 [Чехія вводить жорстку заборону на телефони у школах: що зміниться](https://ua.korrespondent.net/world/4895781-chekhiia-vvodyt-zhorstku-zaboronu-na-telefony-u-shkolakh-scho-zminytsia)<br>
+17:30 [У Польщі побили чоловіка, який заступився за українця](https://ua.korrespondent.net/world/4895777-u-polschi-pobyly-cholovika-yakyi-zastupyvsia-za-ukraintsia)<br>
 16:53 [В Одесі 21 липня оголосили Днем жалоби](https://ua.korrespondent.net/city/odessa/4895768-v-odesi-21-lypnia-oholosyly-dnem-zhaloby)<br>
 16:38 [У Києві різко подорожчає проїзд у міській електричці](https://ua.korrespondent.net/city/kiev/4895760-u-kyievi-rizko-podorozhchaie-proizd-u-miskii-elektrychtsi)<br>
 16:33 [Бундесвер удвічі збільшить дивізію тероборони](https://ua.korrespondent.net/world/4895759-bundesver-udvichi-zbilshyt-dyviziui-teroborony)<br>
@@ -80,6 +83,9 @@ Previous day: [2026-07-19](./data/2026-07-19.md)
 11:39 [Oferta del Valencia por Ndiaye: el Madrid tiene cinco días para igualarla](https://as.com/baloncesto/acb/oferta-del-valencia-por-ndiaye-el-madrid-tiene-cinco-dias-para-igualarla-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:29 [La tecnológica española aggity compra Bluenest a Globavia e irrumpe en el sector de la Defensa](https://www.elperiodico.com/es/economia/20260720/tecnologica-espanola-aggity-compra-bluenest-132640458)<br>
+18:00 [La Generalitat concentra los servicios de pediatría en la zona sur de Mataró](https://www.elperiodico.com/es/barcelona/20260720/generalitat-concentra-servicios-pediatria-zona-sur-mataro-132638248)<br>
+17:02 [La Diputación de Barcelona renovará más de 400 equipamientos culturales tras una inyección de 15 millones de euros](https://www.elperiodico.com/es/barcelona/20260720/diputacion-barcelona-renovara-400-equipamientos-culturales-inyeccion-15-millones-euros-132627520)<br>
 16:33 [Muere ahogada una mujer de 78 años en una piscina de Sant Vicenç de Montalt: 23 personas han fallecido este verano en el agua](https://www.elperiodico.com/es/sucesos/20260720/muere-ahogada-mujer-maresme-piscina-132635876)<br>
 16:15 [José Muñoz, inversor inmobiliario, da las claves para comprar una vivienda cobrando 1.400 euros al mes: "El sistema no está diseñado para que con ese sueldo puedas comprar"](https://www.elperiodico.com/es/vivienda/20260720/comprar-piso-espana-salario-medio-imposible-inversor-inmobiliario-dv-et-132227690)<br>
 15:05 [Polémica por un enorme hotel en la costa: forma de crucero, más de mil habitaciones de 60 metros cuadrados como mínimo y vistas al mar](https://www.elperiodico.com/es/economia/20260720/hotel-polonia-mar-baltico-forma-crucero-dv-132008178)<br>
