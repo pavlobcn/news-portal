@@ -1,8 +1,11 @@
-# News for 2026-07-20 20:36
+# News for 2026-07-20 22:13
 
 Previous day: [2026-07-19](./data/2026-07-19.md)
 
 ## ua.korrespondent.net
+21:37 [РФ вдарила по багатоповерхівці у Сумах: постраждали діти](https://ua.korrespondent.net/ukraine/4895835-rf-vdaryla-po-bahatopoverkhivtsi-u-sumakh-postrazhdaly-dity)<br>
+21:13 [Сирський пояснив, чому реформа ТЦК досі не стартувала](https://ua.korrespondent.net/ukraine/4895833-syrskyi-poiasnyv-chomu-reforma-ttsk-dosi-ne-startuvala)<br>
+20:52 [Удари по РФ: уражено танкери, міст і систему ППО](https://ua.korrespondent.net/ukraine/4895830-udary-po-rf-urazheno-tankery-mist-i-systemu-ppo)<br>
 20:10 [Четверо загиблих і один у реанімації: Індія засудила удар РФ по судну](https://ua.korrespondent.net/world/4895819-chetvero-zahyblykh-i-odyn-u-reanimatsii-indiia-zasudyla-udar-rf-po-sudnu)<br>
 19:49 [У Росії бракує третини необхідного пального - СЗРУ](https://ua.korrespondent.net/world/russia/4895816-u-rosii-brakuie-tretyny-neobkhidnoho-palnoho-szru)<br>
 19:22 [На Київщині судитимуть матір, яка не викликала лікарів і сховала тіло сина](https://ua.korrespondent.net/ukraine/4895812-na-kyivschyni-sudytymut-matir-yaka-ne-vyklykala-likariv-i-skhovala-tilo-syna)<br>
@@ -82,12 +85,15 @@ Previous day: [2026-07-19](./data/2026-07-19.md)
 00:11 [Українські баскетболісти U-20 на Євро виграли золото дивізіону В](https://ua.korrespondent.net/sport/basketball/4895519-ukrainski-basketbolisty-U-20-na-yevro-vyhraly-zoloto-dyvizionu-v)<br>
 
 ## as.com
+22:05 [Hezonja se va a la NBA](https://as.com/baloncesto/euroliga/hezonja-se-va-a-la-nba-f202607-n/)<br>
 18:49 [Balcerowski se desvincula del Unicaja](https://as.com/baloncesto/balcerowski-se-desvincula-del-unicaja-f202607-n/)<br>
 16:19 [TJ Bamba, nuevo fichaje de La Laguna Tenerife](https://as.com/baloncesto/acb/tj-bamba-nuevo-fichaje-de-la-laguna-tenerife-f202607-n/)<br>
 14:26 [“Es una locura lo que hemos conseguido”](https://as.com/baloncesto/mas_baloncesto/es-una-locura-lo-que-hemos-conseguido-f202607-n/)<br>
 11:39 [Oferta del Valencia por Ndiaye: el Madrid tiene cinco días para igualarla](https://as.com/baloncesto/acb/oferta-del-valencia-por-ndiaye-el-madrid-tiene-cinco-dias-para-igualarla-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:14 [Adiós 'pausa': el hielo invernal del Ártico vuelve a disminuir drásticamente](https://www.elperiodico.com/es/medio-ambiente/20260720/adios-pausa-hielo-invernal-artico-disminuir-drasticamente-132645625)<br>
+21:11 [Los niños y los monos comparten una comprensión común de la geometría](https://www.elperiodico.com/es/ciencia/20260720/ninos-monos-comparten-comprension-comun-geometria-132645624)<br>
 20:34 [David Martínez, el exconsejero del Sabadell que apostó por BBVA en la opa, vende el 1,5% de su posición](https://www.elperiodico.com/es/economia/20260720/david-martinez-exconsejero-sabadell-aposto-132644716)<br>
 20:22 [Ganaderos del Pallars denuncian que un oso ha matado a una yegua y un potro y ha herido a un ternero](https://www.elperiodico.com/es/sociedad/20260720/ganaderos-pallars-denuncian-oso-matado-132644283)<br>
 20:07 [El aviso de Pedro García Ramos, médico de familia: "Con el calor el organismo sufre una deshidratación, un aumento de su temperatura y una descompensación de nuestros sistemas"](https://www.elperiodico.com/es/salud/20260720/golpe-calor-efectos-deshidratacion-organos-medico-dv-et-132170086)<br>
