@@ -1,8 +1,27 @@
-# News for 2026-07-20 09:35
+# News for 2026-07-20 12:32
 
 Previous day: [2026-07-19](./data/2026-07-19.md)
 
 ## ua.korrespondent.net
+12:26 [Дощі, подекуди грози: якою буде погода в Україні](https://ua.korrespondent.net/ukraine/4895662-doschi-podekudy-hrozy-yakoui-bude-pohoda-v-ukraini)<br>
+12:25 [Двоє енергетиків отримали поранення через обстріл у передмісті Херсона](https://ua.korrespondent.net/ukraine/4895661-dvoie-enerhetykiv-otrymaly-poranennia-cherez-obstril-u-peredmisti-khersona)<br>
+12:22 [По всій Польщі лунатимуть сирени повітряної тривоги](https://ua.korrespondent.net/world/4895659-po-vsii-polschi-lunatymut-syreny-povitrianoi-tryvohy)<br>
+12:09 [Росіянам почали обмежувати доступ до AppStore](https://ua.korrespondent.net/world/russia/4895654-rosiianam-pochaly-obmezhuvaty-dostup-do-AppStore)<br>
+12:07 [Українська економіка відновлюється: ВВП зріс третій місяць поспіль](https://ua.korrespondent.net/business/economics/4895652-ukrainska-ekonomika-vidnovluiietsia-vvp-zris-tretii-misiats-pospil)<br>
+11:57 [Агент РФ збирав інформацію про позиції ЗСУ на Харківщині](https://ua.korrespondent.net/ukraine/4895650-ahent-rf-zbyrav-informatsiui-pro-pozytsii-zsu-na-kharkivschyni)<br>
+11:55 [Як ФОП оптимізувати витрати в умовах фіскалізації](https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii)<br>
+11:51 [Росіяни вдарили по Запоріжжю, один загиблий, п'ятеро поранених](https://ua.korrespondent.net/ukraine/4895648-rosiiany-vdaryly-po-zaporizhzhui-odyn-zahyblyi-piatero-poranenykh)<br>
+11:38 [У Києві адвокат намагався заволодіти коштами підприємства](https://ua.korrespondent.net/city/kiev/4895640-u-kyievi-advokat-namahavsia-zavolodity-koshtamy-pidpryiemstva)<br>
+11:24 [Росія активніше застосовує баражуючі боєприпаси Бандероль - Ігнат](https://ua.korrespondent.net/ukraine/4895633-rosiia-aktyvnishe-zastosovuie-barazhuuichi-boieprypasy-banderol-ihnat)<br>
+11:16 [Санкції ЄС проти РФ опинилися під загрозою зриву - FT](https://ua.korrespondent.net/business/economics/4895629-sanktsii-yes-proty-rf-opynylysia-pid-zahrozoui-zryvu-FT)<br>
+10:55 [РФ вперше вдарила КАБом по Павлограду: є загиблі](https://ua.korrespondent.net/ukraine/4895621-rf-vpershe-vdaryla-kabom-po-pavlohradu-ye-zahybli)<br>
+10:55 [Шварценеггер розкрив правило, яке допомагає йому залишатися активним у 78](https://ua.korrespondent.net/lifestyle/4895626-shvartsenehher-rozkryv-pravylo-yake-dopomahaie-yomu-zalyshatysia-aktyvnym-u-78)<br>
+10:46 [Росіяни вдарили по Краматорську, є загиблий і поранені](https://ua.korrespondent.net/ukraine/4895617-rosiiany-vdaryly-po-kramatorsku-ye-zahyblyi-i-poraneni)<br>
+10:26 [Через атаки РФ зафіксовано знеструмлення у чотирьох областях](https://ua.korrespondent.net/ukraine/4895610-cherez-ataky-rf-zafiksovano-znestrumlennia-u-chotyrokh-oblastiakh)<br>
+10:11 [СБС за ніч уразили сім російських суден](https://ua.korrespondent.net/ukraine/4895608-sbs-za-nich-urazyly-sim-rosiiskykh-suden)<br>
+09:53 [На Київщині ліквідували пожежу, яка охопила близько 100 тисяч м² складів](https://ua.korrespondent.net/ukraine/4895603-na-kyivschyni-likviduvaly-pozhezhu-yaka-okhopyla-blyzko-100-tysiach-m-skladiv)<br>
+09:45 [Дев'ята ніч ударів США по Ірану: відомо, які об'єкти атаковано](https://ua.korrespondent.net/world/4895597-deviata-nich-udariv-ssha-po-iranu-vidomo-yaki-obiekty-atakovano)<br>
+09:37 [На Дніпропетровщині затримали агента РФ, якому загрожує довічне](https://ua.korrespondent.net/ukraine/4895594-na-dnipropetrovschyni-zatrymaly-ahenta-rf-yakomu-zahrozhuie-dovichne)<br>
 09:28 [У Криму лунали вибухи, спалахнула пожежа на електропідстанції](https://ua.korrespondent.net/ukraine/4895591-u-krymu-lunaly-vybukhy-spalakhnula-pozhezha-na-elektropidstantsii)<br>
 09:23 [Сирський розповів про ситуацію в Костянтинівці](https://ua.korrespondent.net/ukraine/4895590-syrskyi-rozpoviv-pro-sytuatsiui-v-kostiantynivtsi)<br>
 09:14 [Обстріли Харківщини: четверо загиблих та десятки постраждалих](https://ua.korrespondent.net/city/kharkov/4895588-obstrily-kharkivschyny-chetvero-zahyblykh-ta-desiatky-postrazhdalykh)<br>
@@ -26,9 +45,33 @@ Previous day: [2026-07-19](./data/2026-07-19.md)
 00:33 [У Запоріжжі прогримів вибух](https://ua.korrespondent.net/city/zaporozhye/4895522-u-zaporizhzhi-prohrymiv-vybukh)<br>
 00:11 [Українські баскетболісти U-20 на Євро виграли золото дивізіону В](https://ua.korrespondent.net/sport/basketball/4895519-ukrainski-basketbolisty-U-20-na-yevro-vyhraly-zoloto-dyvizionu-v)<br>
 
+## as.com
+11:39 [Oferta del Valencia por Ndiaye: el Madrid tiene cinco días para igualarla](https://as.com/baloncesto/acb/oferta-del-valencia-por-ndiaye-el-madrid-tiene-cinco-dias-para-igualarla-f202607-n/)<br>
+
 ## www.elperiodico.com
+12:25 [El puñetazo de Nahuel Molina a Rodri una vez pitó el final del partido](https://www.elperiodico.com/es/videos/deportes/punetazo-nahuel-molina-rodri-final-mundial/132625639.shtml)<br>
+12:25 [El origen de la trifulca tras la final: un puñetazo de Nahuel Molina a Rodri](https://www.elperiodico.com/es/deportes/20260720/origen-trifulca-nahuel-molina-rodri-mundial-espana-argentina-paredes-eric-garcia-gavi-132626040)<br>
+12:17 [Rafael Díaz, la única persona que lleva 50 años fotografiando al Tour](https://www.elperiodico.com/es/deportes/20260720/rafael-diaz-unica-persona-lleva-50-anos-tour-francia-fotografo-132624887)<br>
+12:12 [Trinitat, la cárcel de adúlteras y lesbianas de Barcelona, salvada por la lucha vecinal](https://www.elperiodico.com/es/barcelona/20260720/trinitat-carcel-adulteras-lesbianas-salvada-presion-vecinal-132625012)<br>
+12:10 [Cuándo sale a la venta la camiseta de 2 estrellas de la selección española: día, precios y dónde comprarla](https://www.elperiodico.com/es/deportes/futbol/20260720/camiseta-seleccion-espanola-2-estrellas-venta-dv-132622175)<br>
+12:02 [La Seguridad Social digitaliza sus comunicaciones: la vía electrónica será la primera opción para notificar bajas e incapacidades desde septiembre de 2026](https://www.elperiodico.com/es/economia/20260720/seguridad-social-digitaliza-comunicaciones-bajas-incapacidades-dv-132622675)<br>
+12:01 [Bruselas multa con 550 millones de euros a AliExpress por no hacer lo suficiente para prevenir la venta de productos ilegales y falsificados](https://www.elperiodico.com/es/internacional/20260720/bruselas-multa-550-millones-euros-aliexpress-132625067)<br>
+11:51 [El Funicular de Vallvidrera cerrará todo un mes a partir del lunes 27 de julio por obras de mantenimiento](https://www.elperiodico.com/es/barcelona/20260720/funicular-vallvidrera-cerrara-un-mes-obras-mantenimiento-julio-agosto-132624578)<br>
+11:46 [MamoRisk, así es el primer estudio español para predecir el riesgo personalizado de cáncer de mama](https://www.elperiodico.com/es/sanidad/20260720/mamorisk-primer-estudio-espanol-predecir-riesgo-personalizado-cancer-mama-132622492)<br>
+11:44 [Calcinada la fachada de un edificio municipal vacío de Barcelona sin causar heridos](https://www.elperiodico.com/es/barcelona/20260720/calcinada-fachada-edificio-municipal-vacio-pere-calafell-132623038)<br>
+11:17 [Marc Márquez fue el primer campeonísimo que mostró su fe ciega en España](https://www.elperiodico.com/es/deportes/20260720/marc-marquez-primer-campeonisimo-mostro-132622509)<br>
+11:13 ["Fútbol 1 - Delincuentes 0": la prensa internacional alaba a España y reprocha la dureza de Argentina](https://www.elperiodico.com/es/deportes/20260720/futbol-1-delincuentes-0-prensa-132620429)<br>
+11:10 [La camiseta de España con dos estrellas: fecha de venta, dónde comprarla y precio tras ganar el Mundial 2026](https://www.elperiodico.com/es/shopping/20260720/nueva-camiseta-espana-mundial-ganadora-bc-132622866)<br>
+11:10 [España se prepara para una nueva ola de calor que dejará máximas de 45 grados y elevará aún más el riesgo de incendios](https://www.elperiodico.com/es/sociedad/20260720/espana-ola-calor-prevision-aemet-semana-132621960)<br>
+11:00 [Blanca Suárez vuelve a su refugio: vistas al Montgó y paseo hasta una cala escondida](https://www.elperiodico.com/es/gente/20260720/refugio-blanca-suarez-alicante-vistas-montgo-cala-sardinera-xabia-dv-132558322)<br>
+10:57 [Los Alpes iluminan la senda victoriosa de Pogacar](https://www.elperiodico.com/es/deportes/20260720/alpes-iluminan-senda-victoriosa-pogacar-tercera-semana-tour-francia-132622219)<br>
+10:54 [El uno por uno: así jugaron la final los héroes de la España del 26](https://www.elperiodico.com/es/deportes/20260720/jugaron-final-heroes-espana-26-mundial-uno-por-uno-132621749)<br>
+10:45 [Badalona nombra hijo predilecto a Jordi Fernández, entrenador de los Brooklyn Nets de la NBA](https://www.elperiodico.com/es/barcelona/20260720/badalona-nombra-hijo-predilecto-jordi-fernandez-entrenador-brooklyn-nets-nba-132620670)<br>
+10:36 [El incendio de Guadalajara avanza sin control y ya ha arrasado 26.000 hectáreas y desplaza a 1.200 personas](https://www.elperiodico.com/es/sucesos/20260720/incendio-guadalajara-arrasado-26-000-hectareas-132621533)<br>
+09:58 [Cinco señales de alerta en el desarrollo infantil que no debes ignorar](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/familia-e-infancia/cinco-senales-alerta-desarrollo-infantil-no-debes-ignorar/132620190.shtml)<br>
 09:33 [Las hipotecas sobre viviendas caen un 0,1% en mayo](https://www.elperiodico.com/es/economia/20260720/hipotecas-viviendas-caen-mayo-132619616)<br>
 09:13 [Incendios hoy, 20 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260720/incendios-hoy-20-julio-cataluna-espana-mapa-fuegos-activos-dv-132619266)<br>
+08:00 [¿Presión financiera, insatisfacción salarial y desgaste laboral? Esta es la fórmula para fidelizar talento sin disparar los costes salariales](https://www.elperiodico.com/es/economia/20260720/presion-financiera-insatisfaccion-salarial-desgaste-laboral-formula-fidelizar-talento-edenred-bc-132618096)<br>
 07:59 [España bate récord de inversión inmobiliaria en el primer semestre del año](https://www.elperiodico.com/es/economia/20260720/espana-record-inversion-inmobiliaria-132618174)<br>
 07:00 [Banca March: por qué es el banco más recomendado por sus clientes](https://www.elperiodico.com/es/economia/20260720/banca-march-banco-recomendado-clientes-bc-132617441)<br>
 07:00 [Álvaro Colomer, escritor: "Los hombres llevamos siglos intentando robarles la maternidad a las mujeres"](https://www.elperiodico.com/es/ocio-y-cultura/20260720/alvaro-colomer-escritor-hombres-llevamos-132483306)<br>

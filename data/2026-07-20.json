@@ -1,5 +1,581 @@
 [
   {
+    "title": "Se inicia el proyecto 'Barcelona a 50ºC' para preparar la ciudad ante episodios de calor extremo",
+    "link": "https://www.elperiodico.com/es/mas-barcelona/20260720/inicia-proyecto-barcelona-50-grados-preparar-ciudad-episodios-calor-extremo-bc-132624764",
+    "pubDate": "2026-07-20 12:30:45",
+    "category": "",
+    "description": "<h2>La capital catalana da el pistoletazo de salida al proyecto 'Barcelona a 50 ºC: ensayar hoy para responder mejor mañana' en un acto celebrado en el Saló de Cent, presidido por el alcalde de Barcelona, Jaume Collboni</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Дощі, подекуди грози: якою буде погода в Україні",
+    "link": "https://ua.korrespondent.net/ukraine/4895662-doschi-podekudy-hrozy-yakoui-bude-pohoda-v-ukraini",
+    "pubDate": "2026-07-20 12:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502246.jpg\">У більшості центральних, південних областей, а також на Сумщині й Харківщині прогнозують дощі, грози, град і шквали.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El puñetazo de Nahuel Molina a Rodri una vez pitó el final del partido",
+    "link": "https://www.elperiodico.com/es/videos/deportes/punetazo-nahuel-molina-rodri-final-mundial/132625639.shtml",
+    "pubDate": "2026-07-20 12:25:59",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El origen de la trifulca tras la final: un puñetazo de Nahuel Molina a Rodri",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/origen-trifulca-nahuel-molina-rodri-mundial-espana-argentina-paredes-eric-garcia-gavi-132626040",
+    "pubDate": "2026-07-20 12:25:58",
+    "category": "",
+    "description": "<h2>El jugador del Atlético de Madrid inició la batalla entre Paredes, Eric Garcia y Gavi</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Двоє енергетиків отримали поранення через обстріл у передмісті Херсона",
+    "link": "https://ua.korrespondent.net/ukraine/4895661-dvoie-enerhetykiv-otrymaly-poranennia-cherez-obstril-u-peredmisti-khersona",
+    "pubDate": "2026-07-20 12:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502245.jpg\">Поранення отримали чоловіки віком 63 та 51 рік. У них уламкові поранення ніг, контузії, вибухові та закриті черепно-мозкові травми.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "По всій Польщі лунатимуть сирени повітряної тривоги",
+    "link": "https://ua.korrespondent.net/world/4895659-po-vsii-polschi-lunatymut-syreny-povitrianoi-tryvohy",
+    "pubDate": "2026-07-20 12:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502243.jpeg\">Метою навчань ALARM 2026  є перевірка готовності систем оповіщення військових і цивільного населення.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El curioso intercambio de monedas entre Trump y Felipe VI en el palco del Mundial",
+    "link": "https://www.elperiodico.com/es/politica/20260720/monedas-trump-felipe-futbol-leonor-sofia-132626060",
+    "pubDate": "2026-07-20 12:19:18",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Rafael Díaz, la única persona que lleva 50 años fotografiando al Tour",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/rafael-diaz-unica-persona-lleva-50-anos-tour-francia-fotografo-132624887",
+    "pubDate": "2026-07-20 12:17:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El jueves, a los 85 años, viaja con su hijo Ignacio desde Barcelona a los Alpes, a una carrera que visitó por primera vez en 1974. Es la cita inagotable y llena de pasión de todos los meses de julio desde los tiempos de Eddy Merckx.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260720/alpes-iluminan-senda-victoriosa-pogacar-tercera-semana-tour-francia-132622219\">El Tour entra en la tercera semana de competición.</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Усик планує життя поза боксом на рингу",
+    "link": "https://ua.korrespondent.net/sport/boks/4895657-usyk-planuie-zhyttia-poza-boksom-na-rynhu",
+    "pubDate": "2026-07-20 12:16:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502219.jpg\">Український боксер розповів в інтерв'ю, які плани має на майбутнє і яким бачить своє подальше життя.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Norton entra en la batalla de las trail medias con las Atlas y Atlas GT",
+    "link": "https://www.elperiodico.com/es/motor/20260720/norton-entra-batalla-trail-medias-132463188",
+    "pubDate": "2026-07-20 12:15:03",
+    "category": "",
+    "description": "<h2>Las nuevas Atlas y Atlas GT inauguran una etapa inédita para Norton con dos motocicletas de aventura para ampliar su mercado sin renunciar a su identidad</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "J Kbello, ganador de 'Tu cara me suena 13': \"Eurovisión se ha ido degradando con la participación de ciertos países\"",
+    "link": "https://www.elperiodico.com/es/tele/20260720/j-kbello-ganador-cara-suena-13-132619969",
+    "pubDate": "2026-07-20 12:14:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El artista gaditano se impuso en el concurso de Antena 3 con el 51% de los votos</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Trinitat, la cárcel de adúlteras y lesbianas de Barcelona, salvada por la lucha vecinal",
+    "link": "https://www.elperiodico.com/es/barcelona/20260720/trinitat-carcel-adulteras-lesbianas-salvada-presion-vecinal-132625012",
+    "pubDate": "2026-07-20 12:12:12",
+    "category": "",
+    "description": "<h2>El viejo centro penitenciario dará paso a la construcción de 391 pisos, de los cuales 45 privados y el resto protegidos</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuándo sale a la venta la camiseta de 2 estrellas de la selección española: día, precios y dónde comprarla",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20260720/camiseta-seleccion-espanola-2-estrellas-venta-dv-132622175",
+    "pubDate": "2026-07-20 12:10:57",
+    "category": "",
+    "description": "<h2>Algunos jugadores de La Roja ya lucieron la nueva equipación durante la celebración posterior a la victoria</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/futbol/20260720/espana-seleccion-mundial-2026-madrid-rua-celebracion-dv-132620617\">¿A qué hora llega la selección a España?</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260720/jugaron-final-heroes-espana-26-mundial-uno-por-uno-132621749\">El uno por uno: así jugaron la final los héroes de la España del 26</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіянам почали обмежувати доступ до AppStore",
+    "link": "https://ua.korrespondent.net/world/russia/4895654-rosiianam-pochaly-obmezhuvaty-dostup-do-AppStore",
+    "pubDate": "2026-07-20 12:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502222.jpg\">Кількість скарг російських користувачів на роботу App Store зросла у понад 30 разів, тоді як у інших країнах аналогічних проблем не зафіксували.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українська економіка відновлюється: ВВП зріс третій місяць поспіль",
+    "link": "https://ua.korrespondent.net/business/economics/4895652-ukrainska-ekonomika-vidnovluiietsia-vvp-zris-tretii-misiats-pospil",
+    "pubDate": "2026-07-20 12:07:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502221.jpg\">Після складного початку року економіка України змогла компенсувати втрати та вийти на рівень минулого року. У травні ВВП зріс на 0,8%, а позитивна динаміка триває вже третій місяць поспіль.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Seguridad Social digitaliza sus comunicaciones: la vía electrónica será la primera opción para notificar bajas e incapacidades desde septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/economia/20260720/seguridad-social-digitaliza-comunicaciones-bajas-incapacidades-dv-132622675",
+    "pubDate": "2026-07-20 12:02:08",
+    "category": "",
+    "description": "<h2>La medida no elimina el formato físico, sino que busca coexistir ambos métodos para facilitar la gestión a los usuarios</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260715/seguridad-social-puede-terminar-baja-medica-aunque-trabajador-no-recuperado-132472833\" target=\"_blank\">La Seguridad Social puede dar por terminada una baja médica aunque el trabajador no se haya recuperado</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La eliminación de dos delitos contra Begoña Gómez obliga a Peinado a ordenar un ajuste en las posiciones de las acusaciones populares",
+    "link": "https://www.elperiodico.com/es/politica/20260720/eliminacion-delitos-begona-gomez-obliga-nuevos-escritos-acusacion-132625114",
+    "pubDate": "2026-07-20 12:01:48",
+    "category": "",
+    "description": "<h2>La Audiencia Provincial eliminó la apropiación indebida y la corrupción en los negocios</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Bruselas multa con 550 millones de euros a AliExpress por no hacer lo suficiente para prevenir la venta de productos ilegales y falsificados",
+    "link": "https://www.elperiodico.com/es/internacional/20260720/bruselas-multa-550-millones-euros-aliexpress-132625067",
+    "pubDate": "2026-07-20 12:01:03",
+    "category": "",
+    "description": "<h2>Es la mayor sanción impuesta en el marco de la ley de mercados digitales, después de que Bruselas sancionara con 200 millones a Temu</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat invertirá 2,5 millones de euros anuales a impulsar las empresas catalanas de tecnologías cuánticas",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260720/generalitat-invertira-tecnologia-cuantica-ordenador-catalunya-sector-empresas-millones-facturacion-132622416",
+    "pubDate": "2026-07-20 11:59:42",
+    "category": "",
+    "description": "<h2>Las 52 empresas catalanas que desarrollan tecnologías cuánticas, que prometen revolucionar la computación y la seguridad, recibirán un impulso económico significativo del Govern</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Piqué, con sus hijos Sasha y Milan, en la final del Mundial",
+    "link": "https://www.elperiodico.com/es/gente/20260720/final-mundial-pique-sasha-milan-shakira-dai-dai-dv-132620187",
+    "pubDate": "2026-07-20 11:59:39",
+    "category": "",
+    "description": "<h2>El exjugador, impasible durante la actuación de Shakira en la media parte</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260507/shakira-dai-dai-cancion-mundial-futbol-himno-129968879\">La canción 'Dai Dai', de Shakira, será el himno oficial del Mundial de fútbol</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260520/grupo-ninos-uganda-bailara-shakira-130451741\">Un grupo de niños de Uganda bailará con Shakira en el entretiempo de la final del Mundial</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЄС готує підтримку України: про що говорили фон дер Ляєн і Корецький",
+    "link": "https://ua.korrespondent.net/ukraine/4895646-yes-hotuie-pidtrymku-ukrainy-pro-scho-hovoryly-fon-der-liaien-i-koretskyi",
+    "pubDate": "2026-07-20 11:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502198.jpg\">Президент Єврокомісії Урсула фон дер Ляєн провела першу телефонну розмову з новим прем'єр-міністром України Сергієм Корецьким. Сторони обговорили євроінтеграцію, оборонну співпрацю та підготовку країни до зими.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Агент РФ збирав інформацію про позиції ЗСУ на Харківщині",
+    "link": "https://ua.korrespondent.net/ukraine/4895650-ahent-rf-zbyrav-informatsiui-pro-pozytsii-zsu-na-kharkivschyni",
+    "pubDate": "2026-07-20 11:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502220.jpg\">Серед найбільш важливих даних, що цікавили ворога, це інформація про територію військового аеродрому та відомості щодо вильотів.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Як ФОП оптимізувати витрати в умовах фіскалізації",
+    "link": "https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii",
+    "pubDate": "2026-07-20 11:55:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471272.png\">\r\n\r\n\r\nРеєстрація розрахункових операцій для малого та мікробізнесу в Україні остаточно переходить в онлайн.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Funicular de Vallvidrera cerrará todo un mes a partir del lunes 27 de julio por obras de mantenimiento",
+    "link": "https://www.elperiodico.com/es/barcelona/20260720/funicular-vallvidrera-cerrara-un-mes-obras-mantenimiento-julio-agosto-132624578",
+    "pubDate": "2026-07-20 11:51:23",
+    "category": "",
+    "description": "<h2>Un servicio alternativo de autobús con el mismo horario hará tres paradas que emulan el trazado: Peu del Funicular, Carretera de les Aigües y Vallvidrera Superior</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по Запоріжжю, один загиблий, п'ятеро поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4895648-rosiiany-vdaryly-po-zaporizhzhui-odyn-zahyblyi-piatero-poranenykh",
+    "pubDate": "2026-07-20 11:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502199.jpg\">Зруйновано та пошкоджено житлові та нежитлові будівлі. Загинула одна людина, ще п'ятеро - поранені.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "MamoRisk, así es el primer estudio español para predecir el riesgo personalizado de cáncer de mama",
+    "link": "https://www.elperiodico.com/es/sanidad/20260720/mamorisk-primer-estudio-espanol-predecir-riesgo-personalizado-cancer-mama-132622492",
+    "pubDate": "2026-07-20 11:46:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El proyecto proporciona el equivalente a \"una calculadora\" según factores de riesgo no genéticos, genéticos y mamográficos</h2><h2 class=\"item\">El uso del modelo podría mejorar sustancialmente la detección precoz del cáncer de mama, señala el equipo de investigadores</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Calcinada la fachada de un edificio municipal vacío de Barcelona sin causar heridos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260720/calcinada-fachada-edificio-municipal-vacio-pere-calafell-132623038",
+    "pubDate": "2026-07-20 11:44:16",
+    "category": "",
+    "description": "<h2>El fuego no causó heridos ni llegó a afectar a la colindante guardería, pese a lo que apuntaban las estimaciones iniciales</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині військового підозрюють у продажі техніки для ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4895643-na-odeschyni-viiskovoho-pidozruiuit-u-prodazhi-tekhniky-dlia-ppo",
+    "pubDate": "2026-07-20 11:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502197.jpg\">Обвинувачений, за версією слідства, заволодів технікою на понад 6,2 млн і придбав автомобіль Lexus за виручені кошти.",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "В ЄС назвали найімовірніші цілі РФ після України",
+    "link": "https://ua.korrespondent.net/world/4895642-v-yes-nazvaly-naiimovirnishi-tsili-rf-pislia-ukrainy",
+    "pubDate": "2026-07-20 11:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502193.jpeg\">Російському диктатору потрібна нова \"перемога\" і він дивиться на Балтію та Польщу, заявив міністр оборони Литви.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Oferta del Valencia por Ndiaye: el Madrid tiene cinco días para igualarla",
+    "link": "https://as.com/baloncesto/acb/oferta-del-valencia-por-ndiaye-el-madrid-tiene-cinco-dias-para-igualarla-f202607-n/",
+    "pubDate": "2026-07-20 11:39:00",
+    "category": "Eli Ndiaye",
+    "description": "El conjunto blanco dispone hasta el 24 de julio para igualar la propuesta presentada por el Valencia y mantener los derechos del ala-pívot.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві адвокат намагався заволодіти коштами підприємства",
+    "link": "https://ua.korrespondent.net/city/kiev/4895640-u-kyievi-advokat-namahavsia-zavolodity-koshtamy-pidpryiemstva",
+    "pubDate": "2026-07-20 11:38:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502189.jpeg\">У Києві затримали адвоката, якого підозрюють у спробі виманити у підприємства 20 тисяч доларів. За версією слідства, він запевняв, що може забезпечити потрібне рішення суду, хоча не мав до нього жодного стосунку.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Японія відкрито обговорює можливість зміни ядерної політики",
+    "link": "https://ua.korrespondent.net/world/4895638-yaponiia-vidkryto-obhovoruiie-mozhlyvist-zminy-yadernoi-polityky",
+    "pubDate": "2026-07-20 11:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502188.jpg\">Токіо розглядає можливість перегляду багаторічних принципів щодо ядерної зброї, які діють після атомних бомбардувань 1945 року.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Що не варто забувати в салоні авто під час літнього сезону",
+    "link": "https://ua.korrespondent.net/articles/4895630-scho-ne-varto-zabuvaty-v-saloni-avto-pid-chas-litnoho-sezonu",
+    "pubDate": "2026-07-20 11:30:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502166.png\">Які речі в автомобілі можуть перетворитися на бомбу уповільненої дії з настанням сильної спеки?",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Збірна України з волейболу вперше зіграє у плейофі Ліги націй",
+    "link": "https://ua.korrespondent.net/sport/4895634-zbirna-ukrainy-z-voleibolu-vpershe-zihraie-u-pleiofi-lihy-natsii",
+    "pubDate": "2026-07-20 11:26:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502143.jpg\">Українські волейболісти під керівництвом Рауля Лосано вперше в історії змогли пробитися у плейоф турніру.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Росія активніше застосовує баражуючі боєприпаси Бандероль - Ігнат",
+    "link": "https://ua.korrespondent.net/ukraine/4895633-rosiia-aktyvnishe-zastosovuie-barazhuuichi-boieprypasy-banderol-ihnat",
+    "pubDate": "2026-07-20 11:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502167.jpg\">Баражуючі боєприпаси Бандероль зазвичай запускають із російських безпілотників Оріон, які діють над акваторією Чорного моря.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ERC reclama desbloquear la reforma de la Ley del Deporte y pregunta al Gobierno por las selecciones catalanas",
+    "link": "https://www.elperiodico.com/es/politica/20260720/erc-reclama-desbloquear-reforma-ley-132623548",
+    "pubDate": "2026-07-20 11:22:15",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Marc Márquez fue el primer campeonísimo que mostró su fe ciega en España",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/marc-marquez-primer-campeonisimo-mostro-132622509",
+    "pubDate": "2026-07-20 11:17:51",
+    "category": "",
+    "description": "<h2 class=\"item\">No había conferencia de prensa del Mundial de MotoGP, mientras se celebraba la Copa del Mundo de fútbol, que no le preguntasen a Marc Márquez (y a su hermano Àlex) quién ganaría el Mundial. Antes de jugar contra Bélgica, antes del duelo ante Francia, antes de la final, Marc siempre dijo lo mismo: España será campeona, porque somos los mejores. Y fue.</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Санкції ЄС проти РФ опинилися під загрозою зриву - FT",
+    "link": "https://ua.korrespondent.net/business/economics/4895629-sanktsii-yes-proty-rf-opynylysia-pid-zahrozoui-zryvu-FT",
+    "pubDate": "2026-07-20 11:16:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502165.jpg\">Через вимоги національних винятків 21-й пакет санкцій проти Росії опинився під загрозою, що викликає побоювання щодо майбутньої підтримки України.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Fútbol 1 - Delincuentes 0\": la prensa internacional alaba a España y reprocha la dureza de Argentina",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/futbol-1-delincuentes-0-prensa-132620429",
+    "pubDate": "2026-07-20 11:13:30",
+    "category": "",
+    "description": "<h2>Los medios ingleses fueron los más duros con la albiceleste, mientras que la prensa argentina reconoce a España como la justa vencedora</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿A qué hora llega la selección a España?",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20260720/espana-seleccion-mundial-2026-madrid-rua-celebracion-dv-132620617",
+    "pubDate": "2026-07-20 11:11:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Los jugadores de Luis de la Fuente visitarán al Rey y al presidente del Gobierno antes de la rúa de celebración</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260720/celebracion-espana-madrid-mundial-2026-horario-donde-ver-132618438\">Cuándo es la celebración de España tras ganar el Mundial 2026: horario y dónde ver la rúa en Madrid</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260720/espana-argentina-campeon-mundial-2026-victoria-seleccion-espanola-ultima-hora-directo-132575699\">España gana el Mundial 2026, en directo: llegada de los jugadores, celebración, reacciones y última hora de la victoria de la selección</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La camiseta de España con dos estrellas: fecha de venta, dónde comprarla y precio tras ganar el Mundial 2026",
+    "link": "https://www.elperiodico.com/es/shopping/20260720/nueva-camiseta-espana-mundial-ganadora-bc-132622866",
+    "pubDate": "2026-07-20 11:10:22",
+    "category": "",
+    "description": "<h2>Tras ganar el Mundial 2026, toca actualizar nuestras equipaciones de España y añadir nuestra segunda estrella a la camiseta</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España se prepara para una nueva ola de calor que dejará máximas de 45 grados y elevará aún más el riesgo de incendios",
+    "link": "https://www.elperiodico.com/es/sociedad/20260720/espana-ola-calor-prevision-aemet-semana-132621960",
+    "pubDate": "2026-07-20 11:10:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Los modelos apuntan a un aumento exponencial de las temperaturas a partir de este lunes y hasta como mínimo el próximo jueves</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260719/tercera-ola-calor-verano-rozara-cataluna-132597753\">La tercera ola de calor del verano rozará Catalunya: \"Las temperaturas seguirán por encima de la media\"</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Blanca Suárez vuelve a su refugio: vistas al Montgó y paseo hasta una cala escondida",
+    "link": "https://www.elperiodico.com/es/gente/20260720/refugio-blanca-suarez-alicante-vistas-montgo-cala-sardinera-xabia-dv-132558322",
+    "pubDate": "2026-07-20 11:00:40",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz ha compartido en redes una escapada relámpago a un municipio de la Marina Alta, donde ha visitado a la interiorista Jessica Bataille</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260704/refugio-famosos-pequeno-pueblo-felipe-vi-letizia-dv-131929641\" >El refugio de los famosos está en este pequeño pueblo: su arquitectura y paisaje enamoró a los reyes Felipe VI y Letizia</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські рефері призначені на матчі Ліги конференцій",
+    "link": "https://ua.korrespondent.net/sport/football/4895623-ukrainski-referi-pryznacheni-na-matchi-lihy-konferentsii",
+    "pubDate": "2026-07-20 10:58:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501997.jpg\">Безпрецедентна кількість українських суддів на матчі у рамках проведення Ліги конференцій передбачена на сезон-2026/27.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los Alpes iluminan la senda victoriosa de Pogacar",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/alpes-iluminan-senda-victoriosa-pogacar-tercera-semana-tour-francia-132622219",
+    "pubDate": "2026-07-20 10:57:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El Tour entra en la última semana con el jersey amarillo amarrado al cuerpo del esloveno, pendiente de la intensa pelea en la lucha por el podio de París y a la espera de la fantasía que pueda darse en las dos subidas diferentes a Alpe d’Huez.</h2><h2 class=\"item\"><a href=\"https://www.letour.fr/es/clasificaciones\">Todas las clasificaciones.</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260720/controles-antidopaje-fantasmas-tour-tourmalet-sergi-lopez-egea-132602468\">El Tourmalet: los fantasmas del Tour.</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вперше вдарила КАБом по Павлограду: є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4895621-rf-vpershe-vdaryla-kabom-po-pavlohradu-ye-zahybli",
+    "pubDate": "2026-07-20 10:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502114.jpg\">Російські війська атакували Павлоград. Внаслідок атаки загинуло дві людини, ще 13 поранені.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шварценеггер розкрив правило, яке допомагає йому залишатися активним у 78",
+    "link": "https://ua.korrespondent.net/lifestyle/4895626-shvartsenehher-rozkryv-pravylo-yake-dopomahaie-yomu-zalyshatysia-aktyvnym-u-78",
+    "pubDate": "2026-07-20 10:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502144.jpg\"> За його словами, головне — не здаватися через біль чи вікові зміни, а продовжувати рухатися.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El uno por uno: así jugaron la final los héroes de la España del 26",
+    "link": "https://www.elperiodico.com/es/deportes/20260720/jugaron-final-heroes-espana-26-mundial-uno-por-uno-132621749",
+    "pubDate": "2026-07-20 10:54:22",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260720/espana-argentina-final-mundial-resultado-goles-resumen-132606524\">Ferran conduce a España al delirio de su segundo Mundial frente a la Argentina de Messi</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Німеччині кинули помідор у прем'єра Баварії",
+    "link": "https://ua.korrespondent.net/world/4895618-u-nimechchyni-kynuly-pomidor-u-premiera-bavarii",
+    "pubDate": "2026-07-20 10:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502106.jpg\">Під час святкування 1100-річчя громади Бернау-ам-Кімзеє невідомий кинув помідор у прем'єра Баварії Маркуса Зьодера. Політика не зачепило, а нападника миттєво затримала охорона.",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Росіяни вдарили по Краматорську, є загиблий і поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4895617-rosiiany-vdaryly-po-kramatorsku-ye-zahyblyi-i-poraneni",
+    "pubDate": "2026-07-20 10:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502109.jpg\">Внаслідок атаки пошкоджено дев'ять багатоквартирних будинків. Тип озброєння, яким російські війська завдали ударів, встановлюють.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Badalona nombra hijo predilecto a Jordi Fernández, entrenador de los Brooklyn Nets de la NBA",
+    "link": "https://www.elperiodico.com/es/barcelona/20260720/badalona-nombra-hijo-predilecto-jordi-fernandez-entrenador-brooklyn-nets-nba-132620670",
+    "pubDate": "2026-07-20 10:45:14",
+    "category": "",
+    "description": "<h2>El homenajeado es el único entrenador nacido en España que dirige actualmente a una franquicia de la liga estadounidense de baloncesto</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20240424/jordi-fernandez-flamante-entrenador-nba-nets-badalona-101514814\">Jordi Fernández, flamante entrenador de los Nets: “Es un honor representar el baloncesto español, catalán y de Badalona”</a></h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jésica Rodríguez se acoge a su derecho a no declarar por los \"enchufes\" que Ábalos le consiguió en Ineco y Tragsatec",
+    "link": "https://www.elperiodico.com/es/politica/20260720/jesica-audiencia-nacional-declara-132621946",
+    "pubDate": "2026-07-20 10:40:07",
+    "category": "",
+    "description": "<h2>La expareja del exministro Ábalos estaba citada por presuntos delitos de malversación y tráfico de influencias tras la condena del Supremo</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El incendio de Guadalajara avanza sin control y ya ha arrasado 26.000 hectáreas y desplaza a 1.200 personas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260720/incendio-guadalajara-arrasado-26-000-hectareas-132621533",
+    "pubDate": "2026-07-20 10:36:41",
+    "category": "",
+    "description": "<h2 class=\"item\">Los equipos de extinción se preparan para una tarde complicada en el que ya es, en términos de superficie, el peor fuego de Castilla-La Mancha</h2>",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Peugeot 408: la berlina con espíritu crossover que desafía la hegemonía SUV",
+    "link": "https://www.elperiodico.com/es/motor/20260720/peugeot-408-berlina-espiritu-crossover-132332906",
+    "pubDate": "2026-07-20 10:35:55",
+    "category": "",
+    "description": "<h2>La firma francesa actualiza su propuesta más singular con mejoras en diseño, tecnología, motorizaciones electrificadas y una gama que mantiene intacto su carácter dinámico</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський розкрив деталі нічних ударів по Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4895615-zelenskyi-rozkryv-detali-nichnykh-udariv-po-rosii",
+    "pubDate": "2026-07-20 10:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502105.jpeg\">Україна продовжує відповідати на російські удари по своїй території, наголосив Володимир Зеленський.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "EEUU completa una oleada de bombardeos contra Irán por novena noche consecutiva",
+    "link": "https://www.elperiodico.com/es/internacional/20260720/iran-eeuu-completa-oleada-ataques-132621444",
+    "pubDate": "2026-07-20 10:28:52",
+    "category": "",
+    "description": "<h2>El mando militar argumenta que el objetivo ha sido \"reducir aún más la capacidad de Irán para atacar buques mercantes y marineros civiles que transitan por el Estrecho de Ormuz\"</h2><h2>Guerra de Irán, en directo | Última hora</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Через атаки РФ зафіксовано знеструмлення у чотирьох областях",
+    "link": "https://ua.korrespondent.net/ukraine/4895610-cherez-ataky-rf-zafiksovano-znestrumlennia-u-chotyrokh-oblastiakh",
+    "pubDate": "2026-07-20 10:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502084.jpg\">На ранок є нові знеструмлення у Дніпропетровській, Харківській, Сумській і Херсонській областях.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "СБС за ніч уразили сім російських суден",
+    "link": "https://ua.korrespondent.net/ukraine/4895608-sbs-za-nich-urazyly-sim-rosiiskykh-suden",
+    "pubDate": "2026-07-20 10:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502063.png\">За ніч впольовано сім суден РФ - три танкери та чотири суховантажі у Чорному та Азовському морях.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junqueras responsabiliza a Junts del crecimiento de Aliança Catalana: \"Cuando nunca eres útil, tus votantes votan a cualquier inútil\"",
+    "link": "https://www.elperiodico.com/es/politica/20260720/oriol-junqueras-modelo-financiacion-junts-alianca-catalana-encuestas-132619293",
+    "pubDate": "2026-07-20 10:06:54",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260708/financiacion-autonomica-govern-oferta-junts-alicia-romero-132246682\">El Govern ofrece a Junts introducir cambios en la financiación a cambio de su apoyo: \"Negociemos y mejoremos la propuesta\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Las mejores ofertas del día (20 de julio) rebajas por tiempo limitado en Ariel, Kérastase, Hawkers y más",
+    "link": "https://www.elperiodico.com/es/shopping/20260720/amazon-mejores-ofertas-dia-chollos-rebajas-132212370",
+    "pubDate": "2026-07-20 10:00:00",
+    "category": "",
+    "description": "<h2>Con descuentos épicos superiores al 70 %, hemos recopilado algunas de las mejores ofertas del día para que no pierdas la oportunidad de hacerte con ellas. ¡No dejes escapar estos chollos!</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cinco señales de alerta en el desarrollo infantil que no debes ignorar",
+    "link": "https://www.elperiodico.com/es/videos/cuidamos-tu-salud/familia-e-infancia/cinco-senales-alerta-desarrollo-infantil-no-debes-ignorar/132620190.shtml",
+    "pubDate": "2026-07-20 09:58:16",
+    "category": "",
+    "description": "",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Київщині ліквідували пожежу, яка охопила близько 100 тисяч м² складів",
+    "link": "https://ua.korrespondent.net/ukraine/4895603-na-kyivschyni-likviduvaly-pozhezhu-yaka-okhopyla-blyzko-100-tysiach-m-skladiv",
+    "pubDate": "2026-07-20 09:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502035.jpg\">Роботи з ліквідації пожежі та її наслідків тривали понад добу і потребували залучення значних сил та засобів.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дев'ята ніч ударів США по Ірану: відомо, які об'єкти атаковано",
+    "link": "https://ua.korrespondent.net/world/4895597-deviata-nich-udariv-ssha-po-iranu-vidomo-yaki-obiekty-atakovano",
+    "pubDate": "2026-07-20 09:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4502022.jpg\">Американські військові вдарили по іранських військових командних пунктах, об'єктах ППО та пускових установках ракет і безпілотників.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Дніпропетровщині затримали агента РФ, якому загрожує довічне",
+    "link": "https://ua.korrespondent.net/ukraine/4895594-na-dnipropetrovschyni-zatrymaly-ahenta-rf-yakomu-zahrozhuie-dovichne",
+    "pubDate": "2026-07-20 09:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501999.jpeg\">У Дніпропетровській області співробітники СБУ затримали чоловіка, якого підозрюють у співпраці з російськими спецслужбами. Після втечі з військової частини він збирав інформацію про українських військових для ворога.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
     "title": "España gana el Mundial 2026, en directo: llegada de los jugadores, celebración, reacciones y última hora de la victoria de la selección",
     "link": "https://www.elperiodico.com/es/deportes/20260720/espana-argentina-campeon-mundial-2026-victoria-seleccion-espanola-ultima-hora-directo-132575699",
     "pubDate": "2026-07-20 09:34:00",
@@ -266,6 +842,15 @@
     "pubDate": "2026-07-20 08:04:00",
     "category": "LifestyleFashion",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4501892.jpg\">Міжнародний день торта, день шахів і свято Перуна- найцікавіші події 20 липня на Korrespondent.net.",
+    "topic": 0,
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Presión financiera, insatisfacción salarial y desgaste laboral? Esta es la fórmula para fidelizar talento sin disparar los costes salariales",
+    "link": "https://www.elperiodico.com/es/economia/20260720/presion-financiera-insatisfaccion-salarial-desgaste-laboral-formula-fidelizar-talento-edenred-bc-132618096",
+    "pubDate": "2026-07-20 08:00:07",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">La compañía apuesta por una nueva solución que integra subvención y retribución flexible, generando hasta 700 euros anuales en beneficios exentos en salarios medios</h2>",
     "topic": 0,
     "topic_match_probability": 0
   },
