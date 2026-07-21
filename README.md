@@ -1,8 +1,16 @@
-# News for 2026-07-21 06:36
+# News for 2026-07-21 09:18
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+09:10 [Удари по Донеччині: четверо загиблих, 13 поранених](https://ua.korrespondent.net/ukraine/4895914-udary-po-donechchyni-chetvero-zahyblykh-13-poranenykh)<br>
+08:57 [Стали відомі наслідки ранкової атаки РФ на Харків](https://ua.korrespondent.net/city/kharkov/4895911-staly-vidomi-naslidky-rankovoi-ataky-rf-na-kharkiv)<br>
+08:35 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4895906-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
+08:23 [У Криму пролунали вибухи, частина півострова без світла](https://ua.korrespondent.net/ukraine/4895902-u-krymu-prolunaly-vybukhy-chastyna-pivostrova-bez-svitla)<br>
+07:43 [Росіяни атакували рятувальників у Сумах](https://ua.korrespondent.net/ukraine/4895893-rosiiany-atakuvaly-riatuvalnykiv-u-sumakh)<br>
+07:34 [Франція мобілізувала авіафлот проти лісових пожеж](https://ua.korrespondent.net/world/4895891-frantsiia-mobilizuvala-aviaflot-proty-lisovykh-pozhezh)<br>
+07:19 [Генштаб опублікував карту боїв на фронті](https://ua.korrespondent.net/ukraine/4895888-henshtab-opublikuvav-kartu-boiv-na-fronti)<br>
+06:49 [Як зміняться виплати військовим із липня: пояснення Міноборони](https://ua.korrespondent.net/ukraine/4895883-yak-zminiatsia-vyplaty-viiskovym-iz-lypnia-poiasnennia-minoborony)<br>
 06:23 [Росіяни вдарили по адмінбудівлі у центрі Чернігова](https://ua.korrespondent.net/ukraine/4895880-rosiiany-vdaryly-po-adminbudivli-u-tsentri-chernihova)<br>
 06:13 [Генштаб підрахував втрати росіян на 21 липня](https://ua.korrespondent.net/ukraine/4895878-henshtab-pidrakhuvav-vtraty-rosiian-na-21-lypnia)<br>
 05:27 [У Липецьку після атаки сталася масштабна пожежа](https://ua.korrespondent.net/world/russia/4895875-u-lypetsku-pislia-ataky-stalasia-masshtabna-pozhezha)<br>
@@ -13,6 +21,13 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 00:19 [У РФ анонсували новий обмін полоненими](https://ua.korrespondent.net/ukraine/4895854-u-rf-anonsuvaly-novyi-obmin-polonenymy)<br>
 
 ## www.elperiodico.com
+09:11 [El Ibex 35 sube mientras se enfrían los temores sobre la IA y el Brent cae debajo de los 90 dólares](https://www.elperiodico.com/es/economia/20260721/ibex-35-sube-enfrian-temores-132653299)<br>
+09:00 [Depredadores terrestres en alta mar: "Capturábamos incontables tiburones. Hasta el punto de destruir el ecosistema"](https://www.elperiodico.com/es/sociedad/20260721/depredadores-terrestres-alta-mar-capturabamos-132576574)<br>
+09:00 [Yeray Ortiz, mecatrónico del Puerto de Las Palmas: «Aquí puedes duplicar o triplicar tu sueldo»](https://www.elperiodico.com/es/sociedad/20260721/yeray-ortiz-mecatronico-duplicar-triplicar-sueldo-astillero-puerto-de-las-palmas-132576564)<br>
+08:39 [Tratar a los perros como si fueran personas, una tendencia que puede derivar en maltrato](https://www.elperiodico.com/es/vida-y-estilo/20260721/tratar-perros-fueran-personas-tendencia-132652967)<br>
+08:14 [Lluvias en Barcelona y L'Hospitalet: ¿Qué es un 'esclafit' o reventón cálido?](https://www.elperiodico.com/es/tiempo/20260721/esclafit-calid-reventon-calido-ola-calor-catalunya-que-es-dv-13865348)<br>
+07:50 [Nacho de la Calzada, abogado laboralista, alerta del truco que usan las empresas para bajarte el sueldo sin que te des cuenta: "Revisa tu nómina"](https://www.elperiodico.com/es/economia/20260721/nacho-calzada-abogado-laboralista-alerta-empresa-irpf-dv-132623522)<br>
+07:00 [Catalunya autoriza el suministro eléctrico necesario para la gigafactoría de IA de Móra la Nova](https://www.elperiodico.com/es/economia/20260721/cataluna-suministro-energia-gigafactoria-inteligencia-artificial-ia-mora-la-nova-ebre-132639672)<br>
 06:00 [Alfredo Rodríguez, catedrático de Psicología: "Dormir mal aumenta el riesgo de depresión y la depresión altera el sueño"](https://www.elperiodico.com/es/ser-feliz/20260721/alfredo-rodriguez-catedratico-psicologia-dormir-132264330)<br>
 06:00 [CaixaBank Tech nombra a una máxima responsable de ciberseguridad](https://www.elperiodico.com/es/economia/20260721/caixabank-tech-nombra-maxima-responsable-132540568)<br>
 05:40 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260721/directo-guerra-ucrania-rusia-ultima-126605559)<br>
