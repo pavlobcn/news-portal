@@ -1,8 +1,13 @@
-# News for 2026-07-21 16:13
+# News for 2026-07-21 17:17
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+17:12 [У Польщі відреагували на заяву Зеленського щодо Волинської трагедії](https://ua.korrespondent.net/world/4896080-u-polschi-vidreahuvaly-na-zaiavu-zelenskoho-schodo-volynskoi-trahedii)<br>
+16:54 [Під час розмінування на Харківщині загинули вибухотехніки](https://ua.korrespondent.net/ukraine/4896074-pid-chas-rozminuvannia-na-kharkivschyni-zahynuly-vybukhotekhniky)<br>
+16:47 [Діючі військові можуть підписати новий мотиваційний контракт - Міноборони](https://ua.korrespondent.net/ukraine/4896072-diuichi-viiskovi-mozhut-pidpysaty-novyi-motyvatsiinyi-kontrakt-minoborony)<br>
+16:21 [У Генштабі оцінили події на фронті](https://ua.korrespondent.net/ukraine/4896063-u-henshtabi-otsinyly-podii-na-fronti)<br>
+16:07 [Комунальна недбалість: у Північній Македонії понад три тисячі отруєнь](https://ua.korrespondent.net/world/4896060-komunalna-nedbalist-u-pivnichnii-makedonii-ponad-try-tysiachi-otruien)<br>
 16:00 [Перегрів чи тепловий удар: як швидко відрізнити небезпечний стан](https://ua.korrespondent.net/articles/4896057-perehriv-chy-teplovyi-udar-yak-shvydko-vidriznyty-nebezpechnyi-stan)<br>
 15:51 [Росіяни влучили в авто з цивільними на Донеччині, є загиблі](https://ua.korrespondent.net/ukraine/4896054-rosiiany-vluchyly-v-avto-z-tsyvilnymy-na-donechchyni-ye-zahybli)<br>
 15:50 [Зеленський готує посилення оборони на сході](https://ua.korrespondent.net/ukraine/4896052-zelenskyi-hotuie-posylennia-oborony-na-skhodi)<br>
@@ -76,6 +81,12 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 12:12 [Pantzar: “El Unicaja llamó y dije directamente sí”](https://as.com/baloncesto/el-unicaja-llamo-y-dije-directamente-si-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:06 [El incendio de La Mierla ha quemado ya 29.000 hectáreas](https://www.elperiodico.com/es/videos/sociedad/incendio-mierla-quemado-29-000/132672622.shtml)<br>
+16:59 [Sandra y José viven en el bosque con sus 4 hijos](https://www.elperiodico.com/es/videos/vida-y-estilo/sandra-jose-viven-bosque-4/132672235.shtml)<br>
+16:47 [País Vasco, Asturias y Canarias lideran el absentismo laboral en España](https://www.elperiodico.com/es/politica/20260721/pais-vasco-asturias-canarias-lideran-132671823)<br>
+16:46 [El protagonismo de las mujeres al frente de las empresas se diluye por no tener el poder real](https://www.elperiodico.com/es/economia/20260721/protagonismo-mujeres-frente-empresas-diluye-132671809)<br>
+16:28 [Analfabetos](https://www.elperiodico.com/es/opinion/20260721/analfabetos-ojos-articulo-juan-jose-millas-132670473)<br>
+16:15 [Kristyn Hoffman, esteticista, revela un truco con la clásica crema Nivea: "Va a cambiar tu vida"](https://www.elperiodico.com/es/vida-y-estilo/20260721/nivea-crema-hidratante-base-maquillaje-truco-efecto-glace-dv-et-132397825)<br>
 16:05 [KPMG reclama una respuesta coordinada ante el aumento del absentismo laboral](https://www.elperiodico.com/es/economia/20260721/kpmg-reclama-respuesta-coordinada-aumento-132670559)<br>
 16:05 [Detenido un monitor de un casal de verano de Tortosa por una presunta agresión sexual a dos menores](https://www.elperiodico.com/es/tarragona/20260721/detenido-monitor-casal-verano-tortosa-presunta-agresion-sexual-menores-132670224)<br>
 16:05 ["No hay que enseñarles a los hijos a gestionar sus emociones": qué propone la neuroeducadora Tania García en su lugar](https://www.elperiodico.com/es/ser-feliz/20260721/tania-garcia-no-ensenar-hijos-gestionar-emociones-dv-et-120821226)<br>
