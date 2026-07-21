@@ -1,8 +1,12 @@
-# News for 2026-07-21 17:17
+# News for 2026-07-21 17:57
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+17:52 [Побиття поляка через українця: у Польщі затримали двох підозрюваних](https://ua.korrespondent.net/world/4896091-pobyttia-poliaka-cherez-ukraintsia-u-polschi-zatrymaly-dvokh-pidozruivanykh)<br>
+17:49 [В Іспанії готують нові жорсткі правила для курців](https://ua.korrespondent.net/world/4896089-v-ispanii-hotuuit-novi-zhorstki-pravyla-dlia-kurtsiv)<br>
+17:40 [Кремль рятує Москву від дефіциту бензину, жертвуючи іншими регіонами - ЗМІ](https://ua.korrespondent.net/world/russia/4896086-kreml-riatuie-moskvu-vid-defitsytu-benzynu-zhertvuuichy-inshymy-rehionamy-zmi)<br>
+17:33 [Нова атака армії РФ: у Запоріжжі горять склади](https://ua.korrespondent.net/city/zaporozhye/4896084-nova-ataka-armii-rf-u-zaporizhzhi-horiat-sklady)<br>
 17:12 [У Польщі відреагували на заяву Зеленського щодо Волинської трагедії](https://ua.korrespondent.net/world/4896080-u-polschi-vidreahuvaly-na-zaiavu-zelenskoho-schodo-volynskoi-trahedii)<br>
 16:54 [Під час розмінування на Харківщині загинули вибухотехніки](https://ua.korrespondent.net/ukraine/4896074-pid-chas-rozminuvannia-na-kharkivschyni-zahynuly-vybukhotekhniky)<br>
 16:47 [Діючі військові можуть підписати новий мотиваційний контракт - Міноборони](https://ua.korrespondent.net/ukraine/4896072-diuichi-viiskovi-mozhut-pidpysaty-novyi-motyvatsiinyi-kontrakt-minoborony)<br>
@@ -81,6 +85,10 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 12:12 [Pantzar: “El Unicaja llamó y dije directamente sí”](https://as.com/baloncesto/el-unicaja-llamo-y-dije-directamente-si-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:48 [Nueva entrada para el Palau de la Música Catalana](https://www.elperiodico.com/es/videos/ocio-y-cultura/nueva-entrada-palau-musica-catalana/132674192.shtml)<br>
+17:45 [Marta (74 años) sufrió el silencio de un hijo que la apartó de su vida y tomó una dura decisión: "Dejó de ser mi hijo mucho antes de morir"](https://www.elperiodico.com/es/vida-y-estilo/20260721/marta-74-anos-sufrio-silencio-hijo-morir-dv-et-132333700)<br>
+17:28 [Yara, oficial de primera a los 25 años, sobre la creciente presencia femenina en la construcción: "Este oficio también es nuestro"](https://www.elperiodico.com/es/videos/economia/yara-oficial-primera-construccion-mujeres-jovenes/132673388.shtml)<br>
+17:24 [El Palau de la Música Catalana tiene casi lista su nueva entrada por Via Laietana, la Porta del Palau](https://www.elperiodico.com/es/ocio-y-cultura/20260721/palau-musica-catalana-lista-nueva-132662077)<br>
 17:06 [El incendio de La Mierla ha quemado ya 29.000 hectáreas](https://www.elperiodico.com/es/videos/sociedad/incendio-mierla-quemado-29-000/132672622.shtml)<br>
 16:59 [Sandra y José viven en el bosque con sus 4 hijos](https://www.elperiodico.com/es/videos/vida-y-estilo/sandra-jose-viven-bosque-4/132672235.shtml)<br>
 16:47 [País Vasco, Asturias y Canarias lideran el absentismo laboral en España](https://www.elperiodico.com/es/politica/20260721/pais-vasco-asturias-canarias-lideran-132671823)<br>

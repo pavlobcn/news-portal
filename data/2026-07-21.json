@@ -1,5 +1,149 @@
 [
   {
+    "title": "Побиття поляка через українця: у Польщі затримали двох підозрюваних",
+    "link": "https://ua.korrespondent.net/world/4896091-pobyttia-poliaka-cherez-ukraintsia-u-polschi-zatrymaly-dvokh-pidozruivanykh",
+    "pubDate": "2026-07-21 17:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504333.jpg\">Підозрювані - 38- та 41-річний чоловіки, яких неодноразово притягували до відповідальності за кримінальні злочини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Іспанії готують нові жорсткі правила для курців",
+    "link": "https://ua.korrespondent.net/world/4896089-v-ispanii-hotuuit-novi-zhorstki-pravyla-dlia-kurtsiv",
+    "pubDate": "2026-07-21 17:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504328.jpg\">Іспанія планує суттєво розширити перелік місць, де буде заборонено курити. Нові правила можуть торкнутися не лише закритих приміщень, а й відкритих терас закладів харчування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nueva entrada para el Palau de la Música Catalana",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/nueva-entrada-palau-musica-catalana/132674192.shtml",
+    "pubDate": "2026-07-21 17:48:01",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Evenepoel destroza la contrarreloj del Tour",
+    "link": "https://www.elperiodico.com/es/deportes/20260721/evenepoel-destroza-contrarreloj-tour-francia-132670941",
+    "pubDate": "2026-07-21 17:46:30",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Marta (74 años) sufrió el silencio de un hijo que la apartó de su vida y tomó una dura decisión: \"Dejó de ser mi hijo mucho antes de morir\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260721/marta-74-anos-sufrio-silencio-hijo-morir-dv-et-132333700",
+    "pubDate": "2026-07-21 17:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La mujer asegura que llevaba nueve años sin hablar con su único hijo y que decidió no acudir al entierro porque ya había vivido el duelo en silencio mientras él seguía con vida y la ignoraba</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260713/residencia-ancianos-personas-mayores-abuelos-dependencia-dv-et-132283390\">Tengo 87 años y mi hija quería llevarme a una residencia: \"Lloré porque no sabía qué hacer, porque ninguna opción me parecía bien, porque sentía que se me estaban acabando las opciones. El mundo ya no tenía sitio para mí tal y como era\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fuimos todos",
+    "link": "https://www.elperiodico.com/es/opinion/20260721/futbol-mundial-articulo-carlos-perez-laporta-132673730",
+    "pubDate": "2026-07-21 17:42:50",
+    "category": "",
+    "description": "<h2>En el equipo del colegio o del barrio. Una infinitud de niños ocupa su infancia y su adolescencia en perseguir un balón</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260720/redencion-ferran-torres-mentalidad-tiburon-problemas-psicologicos-132636950\">La redención de Ferran Torres: mentalidad de tiburón para superar los baches psicológicos</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Кремль рятує Москву від дефіциту бензину, жертвуючи іншими регіонами - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4896086-kreml-riatuie-moskvu-vid-defitsytu-benzynu-zhertvuuichy-inshymy-rehionamy-zmi",
+    "pubDate": "2026-07-21 17:40:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504329.jpg\">У зв'язку з цим Кремль перенаправляє постачання пального із Сибіру та нарощує імпорт із Білорусі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Julio Iglesias demanda a Yolanda Díaz por intromisión al honor y le reclama 50.000 euros",
+    "link": "https://www.elperiodico.com/es/politica/20260721/julio-iglesias-demanda-yolanda-diaz-132673847",
+    "pubDate": "2026-07-21 17:37:11",
+    "category": "",
+    "description": "<h2>El artista reclama que la política se retracte por unas declaraciones sobre la denuncia archivada en su contra y amplía su ofensiva judicial con una querella contra varios periodistas de elDiario.es</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Нова атака армії РФ: у Запоріжжі горять склади",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4896084-nova-ataka-armii-rf-u-zaporizhzhi-horiat-sklady",
+    "pubDate": "2026-07-21 17:33:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504308.jpg\">Росіяни вдруге за день атакували обласний центр. Внаслідок атаки чоловік отримав поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya desplegará un centro de edición genómica de cereales para desarrollar variedades resistentes a sequías y extremos climáticos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260721/centro-edicion-genomica-lleida-variedades-cambio-climatico-132661729",
+    "pubDate": "2026-07-21 17:31:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El proyecto, que tiene previsto entrar en funcionamiento en 2028, pondrá en macha una línea de trabajo \"prioritaria\" para proteger el arroz de los periodos de escasez de agua y la salinización de los suelos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260422/naciones-unidas-adaptar-cultivos-realidad-climatica-calor-extremo-129379482\">Naciones Unidas reclama adaptar los cultivos \"a la nueva realidad climática\" y apostar por plantaciones más resistentes al calor extremo</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "¿Pueden los coches chinos beneficiarse del Plan Auto+? Sí, con estas condiciones",
+    "link": "https://www.elperiodico.com/es/motor/20260721/coches-chinos-beneficiarse-ayudas-plan-auto-132658158",
+    "pubDate": "2026-07-21 17:30:12",
+    "category": "",
+    "description": "<h2>Las ayudas que sustituyen al antiguo Plan Moves no miran la nacionalidad de la marca, sino la huella industrial de cada modelo.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Yara, oficial de primera a los 25 años, sobre la creciente presencia femenina en la construcción: \"Este oficio también es nuestro\"",
+    "link": "https://www.elperiodico.com/es/videos/economia/yara-oficial-primera-construccion-mujeres-jovenes/132673388.shtml",
+    "pubDate": "2026-07-21 17:28:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Palau de la Música Catalana tiene casi lista su nueva entrada por Via Laietana, la Porta del Palau",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260721/palau-musica-catalana-lista-nueva-132662077",
+    "pubDate": "2026-07-21 17:24:22",
+    "category": "",
+    "description": "<h2>El local de 354 metros cuadrados en el número 54 de Via Laietana será una tienda-experiencia donde descubrir el Orfeó Català y su historia, con un espacio inmersivo y la taquilla de toda la vida reinventada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Teatro de sombras",
+    "link": "https://www.elperiodico.com/es/opinion/20260721/teatro-sombras-juicios-articulo-emma-riverola-132673026",
+    "pubDate": "2026-07-21 17:22:47",
+    "category": "",
+    "description": "<h2>Hay algo inquietante en el reiterado descrédito a los testigos cuando parece no ajustarse a un guion previo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Трамп готує нові мита для 60 країн - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4896082-tramp-hotuie-novi-myta-dlia-60-krain-zmi",
+    "pubDate": "2026-07-21 17:19:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504306.jpg\">Адміністрація Дональда Трампа завершує підготовку нового пакета мит, який може зачепити близько 60 країн. Водночас частина американських чиновників закликає не поспішати з рішенням через можливі економічні наслідки.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Nómada, la Harley-Davidson española que quiere conquistar Europa",
+    "link": "https://www.elperiodico.com/es/motor/20260721/nomada-harley-davidson-espanola-quiere-conquistar-europa-132656730",
+    "pubDate": "2026-07-21 17:17:44",
+    "category": "",
+    "description": "<h2>Espacio Harley-Davidson Barcelona transforma una Low Rider S en una chopper moderna para competir en el Creators Custom Clash internacional</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "У Польщі відреагували на заяву Зеленського щодо Волинської трагедії",
     "link": "https://ua.korrespondent.net/world/4896080-u-polschi-vidreahuvaly-na-zaiavu-zelenskoho-schodo-volynskoi-trahedii",
     "pubDate": "2026-07-21 17:12:00",
