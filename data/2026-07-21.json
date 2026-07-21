@@ -1,5 +1,383 @@
 [
   {
+    "title": "Температура в Іспанії перевищить +40°C: сім регіонів під загрозою",
+    "link": "https://ua.korrespondent.net/world/4896040-temperatura-v-ispanii-perevyschyt-40C-sim-rehioniv-pid-zahrozoui",
+    "pubDate": "2026-07-21 15:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504118.jpg\">Іспанія опинилася під впливом нової хвилі аномальної спеки. У семи автономних спільнотах оголосили помаранчевий рівень небезпеки, адже температура місцями може перевищити +41°C.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Польща попередила про нові провокації Кремля",
+    "link": "https://ua.korrespondent.net/world/4896042-polscha-poperedyla-pro-novi-provokatsii-kremlia",
+    "pubDate": "2026-07-21 15:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504138.jpg\">Одним із можливих сценаріїв є запуск Росією рою дронів із маркуванням Збройних сил України над територією держав східного флангу НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Borja Iglesias cuela a Violadores del Verso en la celebración del Mundial de España",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260721/borja-iglesias-cuela-violadores-verso-132668514",
+    "pubDate": "2026-07-21 15:03:54",
+    "category": "",
+    "description": "<h2>Así fue el rap que interpretó el delantero en la celebración por el título conquistado por la selección</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La fiscalía urge al Tribunal de Cuentas que aplique la amnistía a Puigdemont y Mas por los gastos del 1-O",
+    "link": "https://www.elperiodico.com/es/politica/20260721/fiscalia-urge-tribunal-cuentas-aplique-132666799",
+    "pubDate": "2026-07-21 14:59:45",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministerio público considera improcedente la decisión de posponer la decisión, tal y como ha acordado el órgano fiscalizador</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260716/amnistia-puigdemont-sentencia-tjue-europa-claves-132502992\">\"La finalidad de la amnistía es favorecer la reconciliación política\": Las claves de la sentencia europea y sus efectos en Puigdemont y las causas del 'procés'</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El PP forzará una votación para que el Congreso condene las agresiones en Bilbao y Navarra durante la final del Mundial",
+    "link": "https://www.elperiodico.com/es/politica/20260721/pp-forzara-votacion-congreso-condene-132668387",
+    "pubDate": "2026-07-21 14:58:43",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ferran Torres imita a Trump durante la rúa de la selección: \"Make Spain great again\"",
+    "link": "https://www.elperiodico.com/es/videos/gente/ferran-torres-imita-trump-durante/132668091.shtml",
+    "pubDate": "2026-07-21 14:54:13",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЗСУ готуються до можливих дій РФ на півночі - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4896037-zsu-hotuuitsia-do-mozhlyvykh-dii-rf-na-pivnochi-zelenskyi",
+    "pubDate": "2026-07-21 14:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504115.png\">Сили оборони готуються до різних сценаріїв дій російської окупаційної армії на Чернігівсько-Київському напрямку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Supremo pide por cuarta vez levantar la inmunidad de Alvise, ahora por coacciones",
+    "link": "https://www.elperiodico.com/es/sociedad/20260721/supremo-pide-cuarta-vez-levantar-132668100",
+    "pubDate": "2026-07-21 14:51:45",
+    "category": "",
+    "description": "<h2>Para investigar amenazas al alcalde de Algeciras (Cádiz), José Ignacio Landaluce</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Авто та апартаменти в Буковелі: посадовці Нацгвардії привласнили 150 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4896035-avto-ta-apartamenty-v-bukoveli-posadovtsi-natshvardii-pryvlasnyly-150-mln",
+    "pubDate": "2026-07-21 14:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504105.jpg\">Оборудку провернули у 2024 році, коли НГУ потребувала купівлі складського приміщення для зберігання продовольства.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Detenido un 'conductor kamikaze' por ir contra dirección en la AP7 con 12 kilos de cocaína, 56 kilos de hachís y 27 kilos de marihuana",
+    "link": "https://www.elperiodico.com/es/sucesos/20260721/detenido-conductor-kamikaze-direccion-ap7-droga-hachis-cocaina-132667905",
+    "pubDate": "2026-07-21 14:49:19",
+    "category": "",
+    "description": "<h2>La Policía Nacional atrapó al sospechoso que aceleró cuando vio a los agentes</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260220/kamikaze-jonquera-homicidio-prision-marihuana-cataluna-127063314\">Condenado el kamikaze de La Jonquera a 13 años y medio de prisión por homicidio y tráfico de drogas</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Шахрай назвався співробітником СБУ і виманив у артистки понад 6 млн грн",
+    "link": "https://ua.korrespondent.net/ukraine/4896034-shakhrai-nazvavsia-spivrobitnykom-sbu-i-vymanyv-u-artystky-ponad-6-mln-hrn",
+    "pubDate": "2026-07-21 14:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504106.jpg\">Аферист переконав жінку в необхідності термінової перевірки походження її коштів через нібито зв’язок, який є у неї з державою-агресором.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Andrés Millán, experto en inversiones, sobre empezar a ahorrar: \"Tienes que pagarte a ti mismo primero. Tienes que invertir y no solo ahorrar\"",
+    "link": "https://www.elperiodico.com/es/economia/20260721/andres-millan-experto-inversiones-importancia-empezar-ahorrar-dv-132664314",
+    "pubDate": "2026-07-21 14:42:38",
+    "category": "",
+    "description": "<h2>El abogado y experto en inversiones señala que el sistema financiero está diseñado para que sea más fácil ganar dinero una vez que ya se posee capital</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260427/andres-millan-abogado-laboralista-mejor-momento-solicitar-jubilacion-dv-129561399\" target=\"_blank\">Andrés Millán, abogado: “El mejor momento del año para jubilarse suele ser de julio a diciembre, ya que son meses con una tasa de inflación más alta”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La nueva ley de medicamentos busca acelerar los tiempos de financiación a un máximo de 180 días",
+    "link": "https://www.elperiodico.com/es/sanidad/20260721/nueva-ley-medicamentos-busca-acelerar-tiempos-financiacion-maximo-132660115",
+    "pubDate": "2026-07-21 14:37:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La normativa contempla que enfermeras y fisioterapeutas puedan prescribir medicamentos dentro de sus competencias</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260702/hospitales-farmacias-duplican-consumo-medicamentos-biosimilares-132047695\">Los hospitales y las farmacias duplican el consumo de medicamentos biosimilares en cinco años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Латвія до кінця вересня планує покрити кордон з РФ системами виявлення БПЛА",
+    "link": "https://ua.korrespondent.net/world/4896032-latviia-do-kintsia-veresnia-planuie-pokryty-kordon-z-rf-systemamy-vyiavlennia-bpla",
+    "pubDate": "2026-07-21 14:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504100.jpg\">Радіолокаційні системи ще потрібно підготувати та інтегрувати в загальну систему оборони. Також треба купити додаткові системи управління та командування і додаткові радари.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La justicia lo confirma: la DGT no siempre tiene derecho a poner multas por llevar la ITV caducada",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260721/multa-itv-caducada-justicia-dgt-dv-132542170",
+    "pubDate": "2026-07-21 14:31:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260706/itv-conducir-caducada-cita-previa-dv-113953137\" >¿Tienes caducada la ITV pero ya has cogido cita? Esto es lo que puede pasar si te para la Guardia Civil</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/motor/20260710/ojo-multa-poner-llevar-pegatinas-coche-132286555\" >¡Ojo! La multa que te pueden poner por llevar estas pegatinas este verano</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Los psicólogos expertos coinciden: la principal diferencia entre españoles y argentinos radica en la intensidad emocional con la que se vive y se expresa la cotidianidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260721/espanoles-argentinos-expertos-coinciden-principal-diferencia-dv-132635486",
+    "pubDate": "2026-07-21 14:30:43",
+    "category": "",
+    "description": "<h2 class=\"item\">España se impuso a Argentina con gol en la prórroga de un heroico Ferran Torres</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260720/lluvia-mezcla-lagrimas-argentina-consuelo-132614940\">La lluvia se mezcla con las lágrimas en una Argentina sin consuelo por la derrota ante España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bibi, peluquera, sobre cómo conseguir el rubio perfecto: \"La mayoría cree que el error está al elegir el matiz, pero créeme que está justo antes de empezar\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260721/bibi-peluquera-rubio-perfecto-dv-132522418",
+    "pubDate": "2026-07-21 14:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260121/menopausia-calvicie-drama-mujeres-pelo-125318836\">La menopausia provoca pérdida de cabello en cuatro de cada 10 mujeres: \"Sufres mucho porque  sientes el estigma todo el rato\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Названо дві області з найкращими показниками мобілізації",
+    "link": "https://ua.korrespondent.net/ukraine/4896030-nazvano-dvi-oblasti-z-naikraschymy-pokaznykamy-mobilizatsii",
+    "pubDate": "2026-07-21 14:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504080.jpg\">Кіровоградська та Хмельницька області демонструють найкращі показників організації мобілізаційних процесів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fernanfloo manda un mensaje a Plex antes de la Velada del Año 6: \"En boxeo no siempre gana el que tiene más músculos, sino el que sabe pegar y...\"",
+    "link": "https://www.elperiodico.com/es/gente/20260721/velada-del-ano-2026-fernanfloo-entrevista-boxeo-mensaje-plex-dv-et-132559209",
+    "pubDate": "2026-07-21 14:26:19",
+    "category": "",
+    "description": "<h2>El 'youtuber' salvadoreño explica cómo se prepara para este sábado y cómo ve a su oponente: \"Que tenga mucho cuidadito, no le va a salir tan fácil como cree\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260310/velada-ano-vi-nombres-concursantes-sevilla-ibai-llanos-dv-127770683\">Estos son todos los combates de La Velada del Año VI de Ibai: cartel completo del evento en Sevilla</a></h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260704/ibai-anuncia-artistas-velada-del-ano-sevilla-dv-132058638\">Ibai Llanos anuncia los primeros artistas que participarán en la Velada del Año 6: Bad Gyal, entre ellos</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Comuns exigen a Illa nuevos relevos después de verano y apuntan a las conselleras Pané y Paneque",
+    "link": "https://www.elperiodico.com/es/politica/20260721/comuns-cambios-govern-generalitat-salvador-illa-consellers-132663885",
+    "pubDate": "2026-07-21 14:26:17",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260720/erc-comuns-illa-cambios-govern-drets-socials-martinez-bravo-132626950\">ERC y Comuns reclaman a Illa más cambios en el Govern tras el relevo en Drets Socials: \"Hay cosas que no funcionan\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260720/raul-moreno-conseller-drets-socials-nuevo-relevo-monica-martinez-bravo-govern-salvador-illa-132545276\">Raúl Moreno, nuevo conseller de Drets Socials en sustitución de Mònica Martínez Bravo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La única sala IMAX de Catalunya, sin entradas hasta mitad de agosto para ver 'La Odisea'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260721/unica-sala-imax-catalunya-entradas-132659859",
+    "pubDate": "2026-07-21 14:22:39",
+    "category": "",
+    "description": "<h2>La película de Christopher Nolan, la primera rodada íntegramente con cámaras IMAX, dispara el interés por este formato, del que solo existen siete salas en toda España</h2><h2>CONTEXTO  |<a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260720/odisea-arrasa-taquilla-mejor-estreno-132635935\" target=\"_blank\"> 'La Odisea' arrasa en taquilla y ya es el mejor estreno de Christopher Nolan</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260715/odisea-fiel-texto-homero-nolan-132476486\" target=\"_blank\">Crítica de 'La Odisea': fiel al texto de Homero, Nolan lleva a su terreno la aventura fantástica y trágica de Odiseo en un espectáculo épico y poético</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De un 'reality' de citas rodado en Gibraltar a experta en marketing: así es Marie-France van Heel, la esposa de Andy Burnham",
+    "link": "https://www.elperiodico.com/es/gente/20260721/reality-citas-rodado-gibraltar-experta-132656884",
+    "pubDate": "2026-07-21 14:20:05",
+    "category": "",
+    "description": "<h2>La esposa del nuevo premier británico, Marie-France van Heel, es una empresaria con una trayectoria en marketing y una colaboradora muy activa en causas solidarias</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "ЗСУ атакувалим аеродром у РФ: уражено МіГ-29 і ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4896027-zsu-atakuvalym-aerodrom-u-rf-urazheno-mih-29-i-ppo",
+    "pubDate": "2026-07-21 14:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504078.jpg\">Бригада \"Чорного лісу\" провела успішну операцію у Курській олбласті Росії, влучивши в ворожі МіГ-29 та Панцир-С1.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Чорноморськ залишився без води після російської атаки",
+    "link": "https://ua.korrespondent.net/ukraine/4896025-chornomorsk-zalyshyvsia-bez-vody-pislia-rosiiskoi-ataky",
+    "pubDate": "2026-07-21 14:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504077.jpg\">Після російської атаки на Одещину у Чорноморську пошкодили водопровідну мережу. У місті тимчасово припинили подачу води, аварійні служби вже працюють над відновленням.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuatro mujeres muertas con violencia en las últimas horas",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cuatro-mujeres-muertas-violencia-ultimas/132665900.shtml",
+    "pubDate": "2026-07-21 14:15:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona contará con seis amortiguadores de impacto para motos a partir de enero de 2027",
+    "link": "https://www.elperiodico.com/es/barcelona/20260721/barcelona-contara-seis-amortiguadores-impacto-moto-132664989",
+    "pubDate": "2026-07-21 14:13:07",
+    "category": "",
+    "description": "<h2>Laia Bonet anuncia que el ayuntamiento doblará en 2027 las zonas de avanzada para motocicletas en pasos de peatones y mejorará la señalización en bifurcaciones</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260707/transit-propone-cursos-obligatorios-conduccion-segura-motoristas-132210772\">Trànsit propone a la DGT cursos obligatorios de conducción segura para motoristas ante los 30 muertos de este año</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Lamine Yamal pagaría hasta 379.000 euros a Hacienda: cuánto tributa cada jugador de España por ganar el Mundial",
+    "link": "https://www.elperiodico.com/es/economia/20260721/lamine-yamal-pagaria-379-000-132666124",
+    "pubDate": "2026-07-21 14:09:36",
+    "category": "",
+    "description": "<h2>El dinero que tributa cada jugador de España tras ganar el Mundial podría rondar hasta el 54% y tendría un tratamiento fiscal en función de la residencia fiscal del futbolista </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Удар по Запоріжжю: зросла кількість загиблих та поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4896023-udar-po-zaporizhzhui-zrosla-kilkist-zahyblykh-ta-poranenykh",
+    "pubDate": "2026-07-21 14:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504076.jpg\">Двоє людей загинули. Також збільшилась кількість поранених, наразі девʼятеро людей потребують допомоги лікарів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La 'influencer' Inés García, novia de Lamine Yamal, explota tras el aluvión de críticas en la final del Mundial: \"Hay una diferencia enorme entre opinar y humillar e insultar\"",
+    "link": "https://www.elperiodico.com/es/gente/20260721/influencer-ines-garcia-novia-lamine-yamal-criticas-mundial-dv-132665463",
+    "pubDate": "2026-07-21 14:07:41",
+    "category": "",
+    "description": "<h2>La creadora de contenido pide \"empatía\" después de \"recibir cientos o miles de mensajes de odio\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260521/ines-garcia-lamine-yamal-cena-celebracion-barca-dv-130483681\" target=\"_blank\">¿Quién es Inés García, la nueva novia de Lamine Yamal? 'Influencer' de moda y 'lifestyle' con miles de seguidores en Instagram y TikTok</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Disturbios en Bolonia tras la muerte de un inmigrante marroquí mientras era inmovilizado por la policía",
+    "link": "https://www.elperiodico.com/es/internacional/20260721/bolonia-disturbios-muerte-inmigrante-marroqui-policia-italia-132665743",
+    "pubDate": "2026-07-21 14:04:10",
+    "category": "",
+    "description": "<h2>Las imágenes de un hombre muerto durante su detención desatan masivas protestas en la ciudad italiana y acusaciones de una deriva en el país hacia el modelo policial estadounidense del ICE.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuatro mujeres mueren asesinadas en solo 24 horas: \"En verano deberían extremar la vigilancia de las mujeres en riesgo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260721/cuatro-mujeres-mueren-asesinadas-24-horas-verano-vigilancia-riesgo-132659540",
+    "pubDate": "2026-07-21 14:04:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Las expertas alertan que el repunte de casos de violencia machista es habitual en verano y durante grandes eventos deportivos y exigen reforzar los servicios recursos de acogida</h2><h2 class=\"item\">La policía investiga como crímenes machistas tres de los sucesos mientras esclarece los detalles del cuarto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260721/hallan-muerta-mujer-signos-violencia-benahavis-malaga-132657885\">Investigan la muerte violenta de una mujer en Málaga</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260720/hallan-malaga-cadaver-mujer-apunalada-132644936\">La Policía investiga como asesinato machista el apuñalamiento de una mujer de 30 años en Málaga</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рекордне вилучення: в Італії перехопили велику партію кокаїну",
+    "link": "https://ua.korrespondent.net/world/4896018-rekordne-vyluchennia-v-italii-perekhopyly-velyku-partiui-kokainu",
+    "pubDate": "2026-07-21 13:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504052.jpg\">В італійському порту Вадо-Лігуре правоохоронці виявили велику партію кокаїну, заховану серед вантажу бананів. Вартість вилучених наркотиків оцінюють у чверть мільярда євро.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona inhabilita por primera vez la licencia de terraza a dos bares infractores durante un año",
+    "link": "https://www.elperiodico.com/es/barcelona/20260721/barcelona-inhabilita-primera-vez-licencia-terraza-dos-bares-infracciones-rambla-132664925",
+    "pubDate": "2026-07-21 13:56:14",
+    "category": "",
+    "description": "<h2>Otros 12 locales con incumplimientos reiterados podrían perder el permiso por la misma vía y a 31 más se les ha bloqueado la renovación automática desde 2023</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Barça de baloncesto ficha a Stanley Umude, un estadounidense que jugará por primera vez en Europa",
+    "link": "https://www.elperiodico.com/es/deportes/20260721/barca-baloncesto-incorpora-stanley-umude-132662926",
+    "pubDate": "2026-07-21 13:48:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Es un alero estadounidense de 28 años y 1,98 y se convierte en la sexta incorporación de la sección</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260716/barca-base-estadounidense-fichaje-umoja-gibson-baloncesto-132510265\" target=\"_blank\" rel=\"nofollow\">El Barça ficha al base estadounidense Umoja Gibson hasta 2028</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La nueva ley antitabaco prevé multas de hasta 600 euros para los menores que fumen",
+    "link": "https://www.elperiodico.com/es/sanidad/20260721/nueva-ley-antitabaco-preve-multas-euros-menores-fumen-132656200",
+    "pubDate": "2026-07-21 13:46:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Las playas, las terrazas, las piscinas, las marquesinas... serán espacios libres de humo y no se podrá fumar en un radio inferior a 15 metros de los accesos a edificios públicos </h2><h2 class=\"item\">La venta de cigarrillos electrónicos, shisha, las bolsas de nicotina y otros productos se queda limitada a tiendas especializadas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260720/ley-antitabaco-medicamentos-llegan-consejo-ministros-132624650\">El Gobierno aprueba este martes la ley antitabaco, que prohíbe fumar y vapear en terrazas, piscinas y marquesinas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Світоліна прокоментувала свої виступи з тенісистками агресора",
+    "link": "https://ua.korrespondent.net/sport/tenis/4896015-svitolina-prokomentuvala-svoi-vystupy-z-tenisystkamy-ahresora",
+    "pubDate": "2026-07-21 13:46:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4503980.jpg\">Українська тенісистка заявила, що те, що перед нею такий суперник, не позбавляє її сил, навпаки, допомагає ще більше зосередитися на грі.",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Barça y Valencia reeditarán la final de la Liga Endesa en la Supercopa",
+    "link": "https://as.com/baloncesto/mas_baloncesto/barca-y-valencia-reeditaran-la-final-de-la-liga-endesa-en-la-supercopa-f202607-n/",
+    "pubDate": "2026-07-21 13:43:37",
+    "category": "FC Barcelona baloncesto",
+    "description": "La otra semifinal enfrentará al Baskonia, campeón de la Copa del Rey, y al Joventut, anfitrión.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya invertirá 875.000 euros para convertir residuos agrícolas en fertilizantes y reducir la dependencia exterior",
+    "link": "https://www.elperiodico.com/es/economia/20260721/catalunya-invertira-875-000-euros-132662907",
+    "pubDate": "2026-07-21 13:43:24",
+    "category": "",
+    "description": "<h2>La Generalitat entra en el patronato de la Fundació BETA, un centro tecnológico de referencia en bioeconomía circular, para impulsar proyectos que transformen residuos orgánicos en nuevos recursos para el campo y reducir la dependencia de fertilizantes </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260706/campo-espanol-ayudas-fertilizantes-plan-pedro-sanchez-132168410\">El campo español ya ha recibido 1.100 millones por la crisis de fertilizantes causada por la guerra de Irán</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія рекордно розпродує золото, щоб наповнити бюджет",
+    "link": "https://ua.korrespondent.net/world/russia/4896013-rosiia-rekordno-rozproduie-zoloto-schob-napovnyty-buidzhet",
+    "pubDate": "2026-07-21 13:43:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504032.jpg\">Від продажу золота Центробанк РФ міг виручити близько 5,6 млрд доларів. Ці гроші пішли на балансування бюджету.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Європі викрили осередки ХАМАС - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4896007-v-yevropi-vykryly-oseredky-khamas-zmi",
+    "pubDate": "2026-07-21 13:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504030.jpg\">Слідчі у Німеччині, Данії, Великій Британії, Австрії, Греції та на Кіпрі виявили ознаки діяльності розгалуженої мережі, пов’язаної з угрупованням.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Julito' se presenta ante el juez como un simple 'correveidile' de los negocios de Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20260721/julito-declara-zapatero-simple-correveidile-negocios-132664233",
+    "pubDate": "2026-07-21 13:38:10",
+    "category": "",
+    "description": "<h2 class=\"item\">En un escrito remitido al juez en la víspera de esta declaración como imputado confesó que se pactó cobrar un 1 por ciento del rescate de la aerolínea por \"acompañamiento\" durante la gestión de la ayuda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260721/sanchez-hermano-david-sentencia-zapatero-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\" target=\"_blank\">Última hora, en directo, de la situación en los tribunales y de las reacciones políticas del caso David Sánchez, Begoña Gómez, Zapatero, Leire Díez y toda la trama PSOE</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Корабель РФ провів стрільби біля узбережжя Британії",
+    "link": "https://ua.korrespondent.net/world/4896011-korabel-rf-proviv-strilby-bilia-uzberezhzhia-brytanii",
+    "pubDate": "2026-07-21 13:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504031.png\">Йдеться про російський фрегат \"Неустрашимый\", за яким також спостерігав французький військовий літак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Іспанія профінансує план відновлення повітряного руху України",
     "link": "https://ua.korrespondent.net/business/financial/4896008-ispaniia-profinansuie-plan-vidnovlennia-povitrianoho-rukhu-ukrainy",
     "pubDate": "2026-07-21 13:30:00",
