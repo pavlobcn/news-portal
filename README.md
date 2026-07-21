@@ -1,8 +1,9 @@
-# News for 2026-07-21 23:40
+# News for 2026-07-22 00:40
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+23:59 [Франція ухвалила заборону на соцмережі для дітей до 15 років](https://ua.korrespondent.net/world/4896151-frantsiia-ukhvalyla-zaboronu-na-sotsmerezhi-dlia-ditei-do-15-rokiv)<br>
 21:08 [РФ знищила склад ЮНІСЕФ із допомогою на $3,9 млн](https://ua.korrespondent.net/ukraine/4896132-rf-znyschyla-sklad-yunisef-iz-dopomohoui-na-39-mln)<br>
 20:28 [Супутники викрили нову схему РФ із Запорізькою АЕС](https://ua.korrespondent.net/ukraine/4896126-suputnyky-vykryly-novu-skhemu-rf-iz-zaporizkoui-aes)<br>
 19:51 [В Одесі зросла кількість постраждалих внаслідок атаки РФ](https://ua.korrespondent.net/city/odessa/4896118-v-odesi-zrosla-kilkist-postrazhdalykh-vnaslidok-ataky-rf)<br>
