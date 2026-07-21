@@ -1,8 +1,11 @@
-# News for 2026-07-21 19:37
+# News for 2026-07-21 20:56
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+20:28 [Супутники викрили нову схему РФ із Запорізькою АЕС](https://ua.korrespondent.net/ukraine/4896126-suputnyky-vykryly-novu-skhemu-rf-iz-zaporizkoui-aes)<br>
+19:51 [В Одесі зросла кількість постраждалих внаслідок атаки РФ](https://ua.korrespondent.net/city/odessa/4896118-v-odesi-zrosla-kilkist-postrazhdalykh-vnaslidok-ataky-rf)<br>
+19:45 [Федорову пророкують президентську кампанію - The Times](https://ua.korrespondent.net/ukraine/4896120-fedorovu-prorokuuit-prezydentsku-kampaniui-The-Times)<br>
 19:24 [Іран висунув попередження Болгарії через літаки США](https://ua.korrespondent.net/world/4896116-iran-vysunuv-poperedzhennia-bolharii-cherez-litaky-ssha)<br>
 19:16 [OnePlus офіційно залишає ринки США та Європи](https://ua.korrespondent.net/business/companies/4896111-OnePlus-ofitsiino-zalyshaie-rynky-ssha-ta-yevropy)<br>
 19:06 [Росіяни вбили FPV-дроном двох жінок на Харківщині](https://ua.korrespondent.net/ukraine/4896109-rosiiany-vbyly-FPV-dronom-dvokh-zhinok-na-kharkivschyni)<br>
@@ -88,6 +91,7 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 00:19 [У РФ анонсували новий обмін полоненими](https://ua.korrespondent.net/ukraine/4895854-u-rf-anonsuvaly-novyi-obmin-polonenymy)<br>
 
 ## as.com
+19:42 [Definidos los equipos y los grupos de la Liga U](https://as.com/baloncesto/mas_baloncesto/definidos-los-equipos-y-los-grupos-de-la-liga-u-f202607-n/)<br>
 18:04 [Las luces y las sombras de Hezonja](https://as.com/baloncesto/las-luces-y-las-sombras-de-hezonja-f202607-n/)<br>
 14:34 [Stanley Umude, sexto fichaje del Barça](https://as.com/baloncesto/stanley-umude-sexto-fichaje-del-barca-f202607-n/)<br>
 13:43 [Barça y Valencia reeditarán la final de la Liga Endesa en la Supercopa](https://as.com/baloncesto/mas_baloncesto/barca-y-valencia-reeditaran-la-final-de-la-liga-endesa-en-la-supercopa-f202607-n/)<br>
@@ -96,6 +100,11 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 12:12 [Pantzar: “El Unicaja llamó y dije directamente sí”](https://as.com/baloncesto/el-unicaja-llamo-y-dije-directamente-si-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:26 [Iberdrola entra en Finlandia con la compra de un gigante de las redes eléctricas por 5.000 millones](https://www.elperiodico.com/es/videos/economia/iberdrola-entra-finlandia-compra-gigante/132679082.shtml)<br>
+20:25 [Manuel vive en un túnel oculto desde hace meses: "Tiene equipo de música, tiene dormitorio, tiene televisión, DVD, tiene microondas..."](https://www.elperiodico.com/es/economia/20260721/manuel-tunel-comodidades-tele-dvd-adiccion-drogas-carcel-dv-et-132417752)<br>
+20:22 [Catalunya aún instala renovables a paso lento pero los parques solares de Alcarràs y Pujalt convierten 2026 en el año del "cambio de ciclo"](https://www.elperiodico.com/es/sociedad/20260721/cataluna-energias-renovables-balance-atraso-cambio-de-ciclo-132668895)<br>
+20:17 [El parque de Joan Miró renovará sus actuales inertes tierras para renacer como un vergel más sano y frondoso](https://www.elperiodico.com/es/barcelona/eixample/20260721/parque-joan-miro-renovara-actuales-132678544)<br>
+19:57 [Detenido un técnico de mantenimiento de un colegio público de Ibiza acusado de instalar cámaras en los baños de las profesoras](https://www.elperiodico.com/es/sucesos/20260721/detenido-tecnico-mantenimiento-colegio-publico-132678408)<br>
 19:17 [Iberdrola entra en Finlandia con la compra de un gigante de las redes eléctricas por 5.000 millones](https://www.elperiodico.com/es/economia/20260721/iberdrola-entra-finlandia-compra-gigante-redes-5000-millones-132677584)<br>
 19:10 [Manuel, 87 años, sobre el momento de ingresar en una residencia: "Lloré porque ninguna opción me parecía bien"](https://www.elperiodico.com/es/sociedad/20260721/residencia-ancianos-personas-mayores-abuelos-dependencia-dv-et-132283390)<br>
 18:44 [El eclipse del 12 de agosto atraerá a casi medio millón de turistas a España y dejará 342 millones de euros](https://www.elperiodico.com/es/sociedad/20260721/eclipse-agosto-medio-millon-turistas-impacto-economico-espana-132675246)<br>
