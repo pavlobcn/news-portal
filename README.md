@@ -1,8 +1,20 @@
-# News for 2026-07-21 11:48
+# News for 2026-07-21 13:33
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+13:30 [Іспанія профінансує план відновлення повітряного руху України](https://ua.korrespondent.net/business/financial/4896008-ispaniia-profinansuie-plan-vidnovlennia-povitrianoho-rukhu-ukrainy)<br>
+13:18 [Зеленський відреагував на нові атаки Росії](https://ua.korrespondent.net/ukraine/4896003-zelenskyi-vidreahuvav-na-novi-ataky-rosii)<br>
+13:14 [Німецькі вокзали стануть безалкогольними: коли запрацює заборона](https://ua.korrespondent.net/world/4896001-nimetski-vokzaly-stanut-bezalkoholnymy-koly-zapratsuiie-zaborona)<br>
+13:05 [МО придбало партію нових жіночих бронежилетів](https://ua.korrespondent.net/ukraine/4895997-mo-prydbalo-partiui-novykh-zhinochykh-bronezhyletiv)<br>
+13:04 [У Кремлі зреагували на інформацію про візит глави ФБР](https://ua.korrespondent.net/world/4895998-u-kremli-zreahuvaly-na-informatsiui-pro-vizyt-hlavy-fbr)<br>
+12:51 [Викрито шість схем для ухилянтів: однією з них скористалися понад 200 осіб](https://ua.korrespondent.net/ukraine/4895994-vykryto-shist-skhem-dlia-ukhyliantiv-odniieui-z-nykh-skorystalysia-ponad-200-osib)<br>
+12:49 [Сили оборони уразили військові об’єкти РФ](https://ua.korrespondent.net/ukraine/4895992-syly-oborony-urazyly-viiskovi-obiekty-rf)<br>
+12:40 [Міністр юстиції Японії прибув до Києва](https://ua.korrespondent.net/ukraine/4895987-ministr-yustytsii-yaponii-prybuv-do-kyieva)<br>
+12:37 [У Польщі жінка напала на українських дівчат](https://ua.korrespondent.net/world/4895986-u-polschi-zhinka-napala-na-ukrainskykh-divchat)<br>
+12:33 [В Росії запропонували перекрити нафту Угорщині](https://ua.korrespondent.net/world/4895983-v-rosii-zaproponuvaly-perekryty-naftu-uhorschyni)<br>
+12:25 [Країна НАТО пригрозила Росії військовою відповіддю](https://ua.korrespondent.net/world/4895980-kraina-nato-pryhrozyla-rosii-viiskovoui-vidpoviddui)<br>
+11:52 [Росія запустила нову партію "аналогів" Starlink - "Флеш"](https://ua.korrespondent.net/world/russia/4895971-rosiia-zapustyla-novu-partiui-analohiv-Starlink-flesh)<br>
 11:47 [Глава ФБР може відвідати Москву: стали відомі деталі візиту](https://ua.korrespondent.net/world/4895968-hlava-fbr-mozhe-vidvidaty-moskvu-staly-vidomi-detali-vizytu)<br>
 11:38 [Росіяни вдарили по житловому будинку в Одесі: є поранені](https://ua.korrespondent.net/city/odessa/4895965-rosiiany-vdaryly-po-zhytlovomu-budynku-v-odesi-ye-poraneni)<br>
 11:33 [Війська РФ вдарили по Запоріжжю, є загиблий](https://ua.korrespondent.net/ukraine/4895963-viiska-rf-vdaryly-po-zaporizhzhui-ye-zahyblyi)<br>
@@ -42,7 +54,22 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 00:50 [РФ вдарила ракетами касетного типу по будинках на Харківщині](https://ua.korrespondent.net/ukraine/4895858-rf-vdaryla-raketamy-kasetnoho-typu-po-budynkakh-na-kharkivschyni)<br>
 00:19 [У РФ анонсували новий обмін полоненими](https://ua.korrespondent.net/ukraine/4895854-u-rf-anonsuvaly-novyi-obmin-polonenymy)<br>
 
+## as.com
+13:02 [El Unicaja no descarta a Willy Hernangómez](https://as.com/baloncesto/el-unicaja-no-descarta-a-willy-hernangomez-f202607-n/)<br>
+12:24 [Resumen y resultado del Estados Unidos - España: Mundial Sub-17 femenino 2026](https://as.com/baloncesto/mas_baloncesto/estados-unidos-espana-en-directo-mundial-femenino-sub-17-de-baloncesto-2026-en-vivo-hoy-f202607-d/)<br>
+12:12 [Pantzar: “El Unicaja llamó y dije directamente sí”](https://as.com/baloncesto/el-unicaja-llamo-y-dije-directamente-si-f202607-n/)<br>
+
 ## www.elperiodico.com
+13:12 [Israel mata a seis miembros de una familia, entre ellos cuatro niños, en la ciudad de Gaza](https://www.elperiodico.com/es/videos/internacional/israel-mata-seis-miembros-familia/132662834.shtml)<br>
+13:11 [Tarragona cede 11.000 metros cuadrados de la Tabacalera al Estado para la futura Biblioteca Pública](https://www.elperiodico.com/es/tarragona/20260721/tarragona-cede-finca-tabacalera-biblioteca-publica-estado-132660382)<br>
+12:59 [Canarias capta 430 millones y acelera para convertirse en referente del sector aeroespacial](https://www.elperiodico.com/es/sociedad/20260721/canarias-capta-430-millones-acelera-132582809)<br>
+12:59 [Sarah Waters, escritora: "Con el Brexit parece como si estuviéramos viviendo en una época realmente gótica"](https://www.elperiodico.com/es/ocio-y-cultura/20260721/sarah-waters-escritora-brexit-parece-132581102)<br>
+12:59 [Magic presenta sus colecciones de 2027 y llevará MagicCon por primera vez a Japón](https://www.elperiodico.com/es/videojuegos/20260721/magic-presenta-colecciones-2027-llevara-132661797)<br>
+12:55 [Noel factura 727 millones en 2025, un 9,5% más, con las exportaciones ya aportando la mitad del negocio](https://www.elperiodico.com/es/economia/20260721/noel-factura-727-millones-2025-132659789)<br>
+12:55 [El mayor claustro de Barcelona, como nunca antes se había visto: espectáculo inmersivo y gratuito de luz y sonido](https://www.elperiodico.com/es/barcelona/20260721/espectaculo-monasteriodepedralbes-luminadivina-experienciainmersiva-historia-132430394)<br>
+12:12 [Duchas y helados, entre las medidas del Zoo de Barcelona para que los animales sobrelleven mejor el calor](https://www.elperiodico.com/es/barcelona/20260721/duchas-helados-medidas-zoo-barcelona-calor-animales-132657849)<br>
+12:06 [Últimos días de calor antes de un giro del tiempo en Catalunya](https://www.elperiodico.com/es/tiempo/20260721/tiempo-cataluna-calor-temperaturas-tormentas-dv-loc-132656911)<br>
+11:51 [Meliá se marcha de Cuba tras las sanciones de Trump](https://www.elperiodico.com/es/economia/20260721/melia-marcha-cuba-cierra-todos-hoteles-pais-132658783)<br>
 11:46 [¿Jubilarse antes o después? Estas son las penalizaciones y recompensas sobre la pensión](https://www.elperiodico.com/es/economia/20260721/jubilarse-o-despues-penalizaciones-recompensas-sobre-pension-dv-132656858)<br>
 11:43 [El Tribunal de Estrasburgo estudia una demanda por torturas en el CIE de Barcelona](https://www.elperiodico.com/es/videos/sucesos/tribunal-estrasburgo-estudia-demanda-torturas/132658202.shtml)<br>
 11:41 [Los pacientes españoles esperan más de tres meses para una primera consulta de neurología: "Cada retraso diagnóstico supone una oportunidad perdida"](https://www.elperiodico.com/es/sanidad/20260721/pacientes-espanoles-esperan-tres-meses-consulta-neurologo-retraso-diagnostico-oportunidad-perdida-132656485)<br>
