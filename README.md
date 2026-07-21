@@ -1,8 +1,9 @@
-# News for 2026-07-21 20:56
+# News for 2026-07-21 21:50
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+21:08 [РФ знищила склад ЮНІСЕФ із допомогою на $3,9 млн](https://ua.korrespondent.net/ukraine/4896132-rf-znyschyla-sklad-yunisef-iz-dopomohoui-na-39-mln)<br>
 20:28 [Супутники викрили нову схему РФ із Запорізькою АЕС](https://ua.korrespondent.net/ukraine/4896126-suputnyky-vykryly-novu-skhemu-rf-iz-zaporizkoui-aes)<br>
 19:51 [В Одесі зросла кількість постраждалих внаслідок атаки РФ](https://ua.korrespondent.net/city/odessa/4896118-v-odesi-zrosla-kilkist-postrazhdalykh-vnaslidok-ataky-rf)<br>
 19:45 [Федорову пророкують президентську кампанію - The Times](https://ua.korrespondent.net/ukraine/4896120-fedorovu-prorokuuit-prezydentsku-kampaniui-The-Times)<br>
@@ -100,6 +101,9 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 12:12 [Pantzar: “El Unicaja llamó y dije directamente sí”](https://as.com/baloncesto/el-unicaja-llamo-y-dije-directamente-si-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:28 [16 dotaciones de Bombers trabajan en el incendio de una nave industrial de Vilamalla](https://www.elperiodico.com/es/sociedad/20260721/incendio-nave-industrial-vilamalla-bombers-16-dotaciones-132680083)<br>
+21:27 [16 dotaciones de los Bomberos trabajan en un incendio en una nave industrial de Vilamalla.](https://www.elperiodico.com/es/videos/sucesos/16-dotaciones-bomberos-incendio-nave/132680113.shtml)<br>
+21:02 [Tres fallecidos por hantavirus en el noreste de Venezuela](https://www.elperiodico.com/es/internacional/20260721/tres-fallecidos-hantavirus-noreste-venezuela-132679727)<br>
 20:26 [Iberdrola entra en Finlandia con la compra de un gigante de las redes eléctricas por 5.000 millones](https://www.elperiodico.com/es/videos/economia/iberdrola-entra-finlandia-compra-gigante/132679082.shtml)<br>
 20:25 [Manuel vive en un túnel oculto desde hace meses: "Tiene equipo de música, tiene dormitorio, tiene televisión, DVD, tiene microondas..."](https://www.elperiodico.com/es/economia/20260721/manuel-tunel-comodidades-tele-dvd-adiccion-drogas-carcel-dv-et-132417752)<br>
 20:22 [Catalunya aún instala renovables a paso lento pero los parques solares de Alcarràs y Pujalt convierten 2026 en el año del "cambio de ciclo"](https://www.elperiodico.com/es/sociedad/20260721/cataluna-energias-renovables-balance-atraso-cambio-de-ciclo-132668895)<br>
