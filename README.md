@@ -1,8 +1,30 @@
-# News for 2026-07-21 09:18
+# News for 2026-07-21 11:48
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
 ## ua.korrespondent.net
+11:47 [Глава ФБР може відвідати Москву: стали відомі деталі візиту](https://ua.korrespondent.net/world/4895968-hlava-fbr-mozhe-vidvidaty-moskvu-staly-vidomi-detali-vizytu)<br>
+11:38 [Росіяни вдарили по житловому будинку в Одесі: є поранені](https://ua.korrespondent.net/city/odessa/4895965-rosiiany-vdaryly-po-zhytlovomu-budynku-v-odesi-ye-poraneni)<br>
+11:33 [Війська РФ вдарили по Запоріжжю, є загиблий](https://ua.korrespondent.net/ukraine/4895963-viiska-rf-vdaryly-po-zaporizhzhui-ye-zahyblyi)<br>
+11:23 [Країнам НАТО не вистачає бавовни для виробництва боєприпасів - ЗМІ](https://ua.korrespondent.net/world/4895960-krainam-nato-ne-vystachaie-bavovny-dlia-vyrobnytstva-boieprypasiv-zmi)<br>
+11:20 [Напад біля Акрополя: чоловік із ножем поранив двох туристів](https://ua.korrespondent.net/world/4895957-napad-bilia-akropolia-cholovik-iz-nozhem-poranyv-dvokh-turystiv)<br>
+11:13 [Росіяни вдарили по рятувальниках на Дніпропетровщині, троє постраждалих](https://ua.korrespondent.net/ukraine/4895956-rosiiany-vdaryly-po-riatuvalnykakh-na-dnipropetrovschyni-troie-postrazhdalykh)<br>
+11:12 [Безпрецедентний бойкот: столиці ЄС масово відхиляють нові санкції проти РФ](https://ua.korrespondent.net/articles/4895954-bezpretsedentnyi-boikot-stolytsi-yes-masovo-vidkhyliauit-novi-sanktsii-proty-rf)<br>
+11:03 [Goldman попередив про зростання нафти Brent до понад $120](https://ua.korrespondent.net/business/economics/4895952-Goldman-poperedyv-pro-zrostannia-nafty-Brent-do-ponad-120)<br>
+10:53 [Спроби нового наступу РФ на Сумщині провалились - ISW](https://ua.korrespondent.net/ukraine/4895949-sproby-novoho-nastupu-rf-na-sumschyni-provalylys-ISW)<br>
+10:46 [Перевірки ТЦК виявили понад 200 порушень](https://ua.korrespondent.net/ukraine/4895947-perevirky-ttsk-vyiavyly-ponad-200-porushen)<br>
+10:37 [Киянам не підвищуватимуть тариф на воду до 90 грн](https://ua.korrespondent.net/city/kiev/4895944-kyianam-ne-pidvyschuvatymut-taryf-na-vodu-do-90-hrn)<br>
+10:36 [Удар по торговому судну: Індія викликала до МЗС російського посла](https://ua.korrespondent.net/world/4895942-udar-po-torhovomu-sudnu-indiia-vyklykala-do-mzs-rosiiskoho-posla)<br>
+10:20 [РФ три дні поспіль атакувала об’єкти газовидобутку на Харківщині](https://ua.korrespondent.net/ukraine/4895940-rf-try-dni-pospil-atakuvala-obiekty-hazovydobutku-na-kharkivschyni)<br>
+10:19 [Іран заявив про удар по дата-центру Amazon у Бахрейні](https://ua.korrespondent.net/world/4895938-iran-zaiavyv-pro-udar-po-data-tsentru-Amazon-u-bakhreini)<br>
+10:13 [Біля узбережжя Румунії уразили танкер, що прямував до України](https://ua.korrespondent.net/world/4895936-bilia-uzberezhzhia-rumunii-urazyly-tanker-scho-priamuvav-do-ukrainy)<br>
+10:03 [У Харкові викрили псевдореабілітаційні центри: звільнили майже 50 людей](https://ua.korrespondent.net/city/kharkov/4895934-u-kharkovi-vykryly-psevdoreabilitatsiini-tsentry-zvilnyly-maizhe-50-luidei)<br>
+09:56 [Президент Ірану заявив про "тотальну війну" зі США](https://ua.korrespondent.net/world/4895929-prezydent-iranu-zaiavyv-pro-totalnu-viinu-zi-ssha)<br>
+09:50 [Британія отримала першого в історії міністра з питань ШІ](https://ua.korrespondent.net/world/4895927-brytaniia-otrymala-pershoho-v-istorii-ministra-z-pytan-shi)<br>
+09:42 [КНДР обіцяє РФ "беззастережну підтримку" у війні](https://ua.korrespondent.net/world/4895924-kndr-obitsiaie-rf-bezzasterezhnu-pidtrymku-u-viini)<br>
+09:38 [Через обстріли зафіксовано знеструмлення у пʼяти областях](https://ua.korrespondent.net/ukraine/4895923-cherez-obstrily-zafiksovano-znestrumlennia-u-piaty-oblastiakh)<br>
+09:22 [У Франківську запобігли масштабному теракту](https://ua.korrespondent.net/ukraine/4895918-u-frankivsku-zapobihly-masshtabnomu-teraktu)<br>
+09:16 [У Херсоні дрон РФ убив співробітницю ОВА](https://ua.korrespondent.net/ukraine/4895915-u-khersoni-dron-rf-ubyv-spivrobitnytsui-ova)<br>
 09:10 [Удари по Донеччині: четверо загиблих, 13 поранених](https://ua.korrespondent.net/ukraine/4895914-udary-po-donechchyni-chetvero-zahyblykh-13-poranenykh)<br>
 08:57 [Стали відомі наслідки ранкової атаки РФ на Харків](https://ua.korrespondent.net/city/kharkov/4895911-staly-vidomi-naslidky-rankovoi-ataky-rf-na-kharkiv)<br>
 08:35 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4895906-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
@@ -21,12 +43,27 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 00:19 [У РФ анонсували новий обмін полоненими](https://ua.korrespondent.net/ukraine/4895854-u-rf-anonsuvaly-novyi-obmin-polonenymy)<br>
 
 ## www.elperiodico.com
+11:46 [¿Jubilarse antes o después? Estas son las penalizaciones y recompensas sobre la pensión](https://www.elperiodico.com/es/economia/20260721/jubilarse-o-despues-penalizaciones-recompensas-sobre-pension-dv-132656858)<br>
+11:43 [El Tribunal de Estrasburgo estudia una demanda por torturas en el CIE de Barcelona](https://www.elperiodico.com/es/videos/sucesos/tribunal-estrasburgo-estudia-demanda-torturas/132658202.shtml)<br>
+11:41 [Los pacientes españoles esperan más de tres meses para una primera consulta de neurología: "Cada retraso diagnóstico supone una oportunidad perdida"](https://www.elperiodico.com/es/sanidad/20260721/pacientes-espanoles-esperan-tres-meses-consulta-neurologo-retraso-diagnostico-oportunidad-perdida-132656485)<br>
+11:29 [Hallan muerta a una mujer con signos de violencia en Málaga](https://www.elperiodico.com/es/sucesos/20260721/hallan-muerta-mujer-signos-violencia-benahavis-malaga-132657885)<br>
+11:25 [El déficit comercial aumenta un 16,6% hasta mayo](https://www.elperiodico.com/es/economia/20260721/deficit-comercial-aumenta-mayo-importaciones-energia-132657733)<br>
+11:24 [Caso Plus Ultra: Estas son las claves del interrogatorio de Julio Martínez, el socio de Zapatero](https://www.elperiodico.com/es/videos/politica/caso-plus-ultra-claves-declaracion-julio-martinez/132657638.shtml)<br>
+11:15 [Catalunya presenta una nueva guía para gestionar el uso de la inteligencia artificial en las aulas sin perder "integridad académica"](https://www.elperiodico.com/es/sociedad/20260721/catalunya-presenta-nueva-herramienta-gestionar-ia-guia-intelegencia-artificial-generativa-aula-132644144)<br>
+11:14 [Las oenegés de infancia urgen a instalar pérgola, fuentes y protección en las ventanas en las escuelas cara al próximo curso](https://www.elperiodico.com/es/sociedad/20260721/oeneges-infancia-instalar-pergola-proteccion-ventanas-escuelas-132655189)<br>
+11:05 [El Tribunal de Estrasburgo estudia una demanda por torturas en el CIE de Barcelona](https://www.elperiodico.com/es/sucesos/20260721/tribunal-estrasburgo-estudia-demanda-torturas-cie-barcelona-132656528)<br>
+11:01 [Chorro polar: el fenómeno atmosférico que provocará un giro radical del tiempo en tres días](https://www.elperiodico.com/es/tiempo/20260721/chorro-polar-tiempo-cataluna-ola-calor-dv-loc-132654953)<br>
+10:55 [Un hombre mata presuntamente a su mujer en Alicante en un crimen que se investiga como violencia machista](https://www.elperiodico.com/es/sucesos/20260721/hombre-mata-presuntamente-mujer-alicante-almoradi-132656624)<br>
+10:10 [Cuidado con una costumbre histórica en España: la Ley de Propiedad Horizontal lo deja claro](https://www.elperiodico.com/es/vivienda/20260721/tendederos-adios-costumbre-historica-espana-ley-propiedad-horizontal-dv-132654471)<br>
+09:55 [Irán lanza nuevos ataques contra radares y defensas de EEUU en Bahréin y Kuwait y un centro de Amazon](https://www.elperiodico.com/es/internacional/20260721/iran-ataca-bahrein-kuwait-radares-defensas-eeuu-amazon-132654641)<br>
+09:19 [Detenido por matar a cuchilladas a su mujer en Toledo](https://www.elperiodico.com/es/sucesos/20260721/detenido-matar-cuchilladas-mujer-toledo-132653562)<br>
 09:11 [El Ibex 35 sube mientras se enfrían los temores sobre la IA y el Brent cae debajo de los 90 dólares](https://www.elperiodico.com/es/economia/20260721/ibex-35-sube-enfrian-temores-132653299)<br>
 09:00 [Depredadores terrestres en alta mar: "Capturábamos incontables tiburones. Hasta el punto de destruir el ecosistema"](https://www.elperiodico.com/es/sociedad/20260721/depredadores-terrestres-alta-mar-capturabamos-132576574)<br>
 09:00 [Yeray Ortiz, mecatrónico del Puerto de Las Palmas: «Aquí puedes duplicar o triplicar tu sueldo»](https://www.elperiodico.com/es/sociedad/20260721/yeray-ortiz-mecatronico-duplicar-triplicar-sueldo-astillero-puerto-de-las-palmas-132576564)<br>
 08:39 [Tratar a los perros como si fueran personas, una tendencia que puede derivar en maltrato](https://www.elperiodico.com/es/vida-y-estilo/20260721/tratar-perros-fueran-personas-tendencia-132652967)<br>
 08:14 [Lluvias en Barcelona y L'Hospitalet: ¿Qué es un 'esclafit' o reventón cálido?](https://www.elperiodico.com/es/tiempo/20260721/esclafit-calid-reventon-calido-ola-calor-catalunya-que-es-dv-13865348)<br>
 07:50 [Nacho de la Calzada, abogado laboralista, alerta del truco que usan las empresas para bajarte el sueldo sin que te des cuenta: "Revisa tu nómina"](https://www.elperiodico.com/es/economia/20260721/nacho-calzada-abogado-laboralista-alerta-empresa-irpf-dv-132623522)<br>
+07:48 [El dispositivo de extinción empieza a contener los flancos del incendio de Guadalajara, que ya ha calcinado más de 29.000 hectáreas](https://www.elperiodico.com/es/sociedad/20260721/trabajos-incendio-guadalajara-pasan-estrategia-132652218)<br>
 07:00 [Catalunya autoriza el suministro eléctrico necesario para la gigafactoría de IA de Móra la Nova](https://www.elperiodico.com/es/economia/20260721/cataluna-suministro-energia-gigafactoria-inteligencia-artificial-ia-mora-la-nova-ebre-132639672)<br>
 06:00 [Alfredo Rodríguez, catedrático de Psicología: "Dormir mal aumenta el riesgo de depresión y la depresión altera el sueño"](https://www.elperiodico.com/es/ser-feliz/20260721/alfredo-rodriguez-catedratico-psicologia-dormir-132264330)<br>
 06:00 [CaixaBank Tech nombra a una máxima responsable de ciberseguridad](https://www.elperiodico.com/es/economia/20260721/caixabank-tech-nombra-maxima-responsable-132540568)<br>
