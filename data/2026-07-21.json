@@ -1,5 +1,50 @@
 [
   {
+    "title": "Gente de Zona, arrolladora sabrosura cubana en el cierre de Les Nits Occident",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260721/gente-zona-cierre-les-nits-occident-barcelona-132681592",
+    "pubDate": "2026-07-21 23:32:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El dúo de origen habanero, asentado en Miami, encendió la noche de clímax del festival de los jardines del Palau de Pedralbes con su fogosa música tropical, en la que se funden la salsa, el pop latino y el reguetón</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260721/les-nits-occident-cierran-79-132675262\">Les Nits Occident cierran con un 79% de ocupación y 36.920 asistentes</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La ronda de Dalt inicia dos semanas de cortes nocturnos para colocar el techo de un nuevo tramo cubierto en Vall d’Hebron",
+    "link": "https://www.elperiodico.com/es/barcelona/20260721/cortes-de-noche-ronda-dalt-obras-cobertura-vall-hebron-132676126",
+    "pubDate": "2026-07-21 23:30:46",
+    "category": "",
+    "description": "<h2>La Guardia Urbana cortará el tránsito en los dos sentidos cuatro noches por semana entre las salidas 5 y 6, mientras una enorme grúa instala 56 prelosas</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Les Nits Occident cierran con un 79% de ocupación y 36.920 asistentes",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260721/les-nits-occident-cierran-79-132675262",
+    "pubDate": "2026-07-21 23:30:46",
+    "category": "",
+    "description": "<h2>El festival de los jardines del Palau de Pedralbes ofreció un total de 22 de conciertos, de los que seis agotaron las entradas: los de Taburete, Hakuna Group Music (dos actuaciones), Sting, Il Volo y Rosario</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Зеленський анонсував нову стратегію оборони країни",
+    "link": "https://ua.korrespondent.net/ukraine/4896149-zelenskyi-anonsuvav-novu-stratehiui-oborony-krainy",
+    "pubDate": "2026-07-21 23:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504698.jpg\">Оновлений план оборони буде стосуватись і реформ корпусної системи, посиленому постачанню дронів до ЗСУ.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Драпатий прокоментував своє призначення головкомом",
+    "link": "https://ua.korrespondent.net/ukraine/4896147-drapatyi-prokomentuvav-svoie-pryznachennia-holovkomom",
+    "pubDate": "2026-07-21 22:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504659.jpg\">Військовий подякував \"президенту України за довіру, міністру оборони за підтримку, а Силам оборони за новий етап служби\".",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Зеленський запропонував Федорову посаду",
     "link": "https://ua.korrespondent.net/ukraine/4896144-zelenskyi-zaproponuvav-fedorovu-posadu",
     "pubDate": "2026-07-21 22:26:00",
