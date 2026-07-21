@@ -1,5 +1,59 @@
 [
   {
+    "title": "Muere Josep Vallverdú, referente de las letras catalanas y creador de Rovelló",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260721/muere-josep-vallverdu-referente-literatura-catalana-132680799",
+    "pubDate": "2026-07-21 22:14:21",
+    "category": "",
+    "description": "<h2>El escritor, poeta, dramaturgo, lingüista y traductor fallece seis meses después de retirarse de la vida pública, poniendo fin a una trayectoria de más de un siglo ligada a la cultura catalana</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zelenski cesa a Sirski como jefe del Ejército y lo reemplaza por el general Drapati",
+    "link": "https://www.elperiodico.com/es/internacional/20260721/zelenski-cesa-sirski-jefe-ejercito-132680833",
+    "pubDate": "2026-07-21 22:11:26",
+    "category": "",
+    "description": "<h2>Drapati dirigía las Fuerzas Conjuntas del Ejército ucraniano</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Trump se ofrece a hablar con Hezbolá en la primera visita de un presidente de Líbano a la Casa Blanca en 17 años",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-ofrece-hablar-hezbola-primera/132680315.shtml",
+    "pubDate": "2026-07-21 21:57:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Hezonja deja un agujero",
+    "link": "https://as.com/opinion/hezonja-deja-un-agujero-f202607-n/",
+    "pubDate": "2026-07-21 21:55:25",
+    "category": "Mario Hezonja",
+    "description": "La marcha de Lyles era más previsible, su nombre sonaba a efímero, pero el croata ya había echado raíces en el Madrid, donde se había convertido en un líder.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський змінив головнокомандувача ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4896142-zelenskyi-zminyv-holovnokomanduvacha-zsu",
+    "pubDate": "2026-07-21 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504600.jpg\">Глава держави наголосив, що головною метою кадрових змін залишається посилення української армії та створення умов для перемоги у війні проти Росії.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Динамо поповнилося захисником Карпат та збірної України",
+    "link": "https://ua.korrespondent.net/sport/football/4896140-dynamo-popovnylosia-zakhysnykom-karpat-ta-zbirnoi-ukrainy",
+    "pubDate": "2026-07-21 21:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504599.jpg\">Київський клуб оголосив про підписання 25-річного вихованця львівських Карпат Олексія Сича.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Puigdemont denuncia a España ante la Comisión Europea por incumplir la ley de amnistía",
     "link": "https://www.elperiodico.com/es/politica/20260721/puigdemont-denuncia-espana-comision-europea-ley-aministia-132680474",
     "pubDate": "2026-07-21 21:47:22",
@@ -572,6 +626,15 @@
     "pubDate": "2026-07-21 18:17:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504356.jpg\">Один із танкерів зазнав удару невідомим снарядом за вісім морських миль на схід від оманського міста Лімах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iván Montero, fichado para el Surne Sub-22, hará la pretemporada con Ponsarnau",
+    "link": "https://as.com/baloncesto/ivan-montero-fichado-para-el-surne-sub-22-hara-la-pretemporada-con-ponsarnau-f202607-n/",
+    "pubDate": "2026-07-21 18:16:54",
+    "category": "Bilbao basket",
+    "description": "Llega a Bilbao procedente del júnior del Estudiantes, de Tercera FEB, y este verano se ha estrenado como  internacional con la Sub-18.",
     "topic": "",
     "topic_match_probability": 0
   },

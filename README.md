@@ -1,4 +1,4 @@
-# News for 2026-07-21 21:50
+# News for 2026-07-21 22:20
 
 Previous day: [2026-07-20](./data/2026-07-20.md)
 
@@ -92,7 +92,9 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 00:19 [У РФ анонсували новий обмін полоненими](https://ua.korrespondent.net/ukraine/4895854-u-rf-anonsuvaly-novyi-obmin-polonenymy)<br>
 
 ## as.com
+21:55 [Hezonja deja un agujero](https://as.com/opinion/hezonja-deja-un-agujero-f202607-n/)<br>
 19:42 [Definidos los equipos y los grupos de la Liga U](https://as.com/baloncesto/mas_baloncesto/definidos-los-equipos-y-los-grupos-de-la-liga-u-f202607-n/)<br>
+18:16 [Iván Montero, fichado para el Surne Sub-22, hará la pretemporada con Ponsarnau](https://as.com/baloncesto/ivan-montero-fichado-para-el-surne-sub-22-hara-la-pretemporada-con-ponsarnau-f202607-n/)<br>
 18:04 [Las luces y las sombras de Hezonja](https://as.com/baloncesto/las-luces-y-las-sombras-de-hezonja-f202607-n/)<br>
 14:34 [Stanley Umude, sexto fichaje del Barça](https://as.com/baloncesto/stanley-umude-sexto-fichaje-del-barca-f202607-n/)<br>
 13:43 [Barça y Valencia reeditarán la final de la Liga Endesa en la Supercopa](https://as.com/baloncesto/mas_baloncesto/barca-y-valencia-reeditaran-la-final-de-la-liga-endesa-en-la-supercopa-f202607-n/)<br>
@@ -101,6 +103,7 @@ Previous day: [2026-07-20](./data/2026-07-20.md)
 12:12 [Pantzar: “El Unicaja llamó y dije directamente sí”](https://as.com/baloncesto/el-unicaja-llamo-y-dije-directamente-si-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:14 [Muere Josep Vallverdú, referente de las letras catalanas y creador de Rovelló](https://www.elperiodico.com/es/ocio-y-cultura/20260721/muere-josep-vallverdu-referente-literatura-catalana-132680799)<br>
 21:28 [16 dotaciones de Bombers trabajan en el incendio de una nave industrial de Vilamalla](https://www.elperiodico.com/es/sociedad/20260721/incendio-nave-industrial-vilamalla-bombers-16-dotaciones-132680083)<br>
 21:27 [16 dotaciones de los Bomberos trabajan en un incendio en una nave industrial de Vilamalla.](https://www.elperiodico.com/es/videos/sucesos/16-dotaciones-bomberos-incendio-nave/132680113.shtml)<br>
 21:02 [Tres fallecidos por hantavirus en el noreste de Venezuela](https://www.elperiodico.com/es/internacional/20260721/tres-fallecidos-hantavirus-noreste-venezuela-132679727)<br>
