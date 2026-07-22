@@ -1,5 +1,59 @@
 [
   {
+    "title": "Cómo funcionan las ayudas del Plan Auto+ para motos y cuadriciclos eléctricos",
+    "link": "https://www.elperiodico.com/es/motor/20260722/como-funcionan-ayudas-plan-auto-motos-132691951",
+    "pubDate": "2026-07-22 21:15:18",
+    "category": "",
+    "description": "<h2>Para las motocicletas eléctricas, la máxima ayuda posible es de 1.100 euros, una cifra que sube hasta los 1.500 euros para los cuadriciclos.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Asesinan al periodista Francisco Alejandro en el sur de México",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/asesinan-periodista-francisco-alejandro-sur-132713611",
+    "pubDate": "2026-07-22 21:11:03",
+    "category": "",
+    "description": "<h2>El crimen, que tuvo lugar en Oaxaca, supone el séptimo asesinato de periodistas en lo que va del año en el páis </h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рубіо зробив заяву перед зустріччю з Лавровим",
+    "link": "https://ua.korrespondent.net/world/4896436-rubio-zrobyv-zaiavu-pered-zustrichchui-z-lavrovym",
+    "pubDate": "2026-07-22 21:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505812.jpg\">США прагнуть грати конструктивну роль у переговорному процесі щодо завершення російської війни проти України.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 23 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260722/horoscopo-hoy-jueves-23-julio-dv-132327783",
+    "pubDate": "2026-07-22 21:01:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Israel intensifica de nuevo sus ataques en Gaza pese a la tregua: 12 muertos en un día y 60 en una semana",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/israel-intensifica-ataques-gaza-muertos-tregua-alto-el-fuego-132713393",
+    "pubDate": "2026-07-22 21:01:03",
+    "category": "",
+    "description": "<h2>Seis miembros de una misma familia fallecieron el martes en una de las semanas más mortíferas desde el alto el fuego, cuya violación sistemática denuncia la ONU</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Juanma Moreno justifica las cesiones a Vox ante el PP andaluz: \"La otra opción era ir a otras elecciones\"",
+    "link": "https://www.elperiodico.com/es/politica/20260722/juanma-moreno-justifica-cesiones-vox-132713175",
+    "pubDate": "2026-07-22 20:45:51",
+    "category": "",
+    "description": "<h2>El presidente andaluz reactiva el modo electoral con la vista puesta en los comicios municipales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El incendio de Almorox (Toledo) salta a Madrid y obliga a evacuar varias urbanizaciones y confinar Villa del Prado",
     "link": "https://www.elperiodico.com/es/sociedad/20260722/incendio-pinar-almorox-toledo-obliga-desalojar-viviendas-bomberos-madrid-132713098",
     "pubDate": "2026-07-22 20:43:34",
