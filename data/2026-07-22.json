@@ -63,6 +63,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Цифрове повноліття. Франція забороняє соцмережі",
+    "link": "https://ua.korrespondent.net/world/4896467-tsyfrove-povnolittia-frantsiia-zaboroniaie-sotsmerezhi",
+    "pubDate": "2026-07-22 22:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505930.jpg\">Франція стала другою країною світу, яка запровадила законодавчу заборону на використання соцмереж дітьми.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
     "title": "ФІФА назвала символічну збірну Мундіалю-2026",
     "link": "https://ua.korrespondent.net/sport/football/4896452-fifa-nazvala-symvolichnu-zbirnu-mundialui-2026",
     "pubDate": "2026-07-22 22:42:00",
@@ -97,6 +106,15 @@
     "description": "<h2>El mandatario cree que la presión militar acabará forzando a Teherán a aceptar un pacto \"muy pronto\"</h2>",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "США повертаються? Перемовини навколо війни",
+    "link": "https://ua.korrespondent.net/ukraine/4896465-ssha-povertauitsia-peremovyny-navkolo-viiny",
+    "pubDate": "2026-07-22 22:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505929.jpeg\">Президент України Володимир Зеленський провів важливу телефонну розмову з ключовими перемовниками президента США — Стівом Віткоффом та Джаредом Кушнером",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "\"Te tienes que buscar la vida\": El socavón en Montcada obliga a los usuarios del tren a buscar alternativas",
