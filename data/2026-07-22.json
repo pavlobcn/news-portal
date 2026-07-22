@@ -1,5 +1,428 @@
 [
   {
+    "title": "Grisi: \"Este ha sido el mejor primer semestre de la historia del Santander\"",
+    "link": "https://www.elperiodico.com/es/economia/20260722/grisi-sido-mejor-primer-semestre-132695789",
+    "pubDate": "2026-07-22 13:17:19",
+    "category": "",
+    "description": "<h2>El Santander capta 12 nuevos millones de clientes de los que 4 millones proceden de la compra del británico TSB</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rosalía se sitúa en el centro de la polémica tras la final del Mundial entre España y Argentina",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/rosalia-situa-centro-polemica-final-video/132695522.shtml",
+    "pubDate": "2026-07-22 13:15:30",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Desaparecen los sobres de ketchup, mayonesa y azúcar en los bares y restaurantes a partir de agosto",
+    "link": "https://www.elperiodico.com/es/videos/economia/desaparecen-sobres-ketchup-mayonesa-azucar/132695233.shtml",
+    "pubDate": "2026-07-22 13:10:50",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Pedro Venteo, chef con más de 12 años de experiencia: \"Mientras tú estás de vacaciones, en las cocinas están luchando contra un enemigo invisible: el calor extremo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260722/calor-extremo-cocinas-muertes-cocinero-pedro-venteo-vacaciones-dv-et-132319323",
+    "pubDate": "2026-07-22 13:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El chef, con más de 12 años de experiencia, denuncia que \"en Estados Unidos se han registrado más de 30 fallecimientos\" al año en las cocinas por culpa del calor</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260512/gasto-bares-restaurantes-verano-2026-crecimiento-2-5-130134408\">El gasto de españoles y turistas en bares y restaurantes crecerá este verano un 2,5%</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260710/ola-calor-cataluna-temperaturas-aviso-amarillo-dv-loc-132318382\">A por la tercera ola de calor en Catalunya: en menos de 48 horas vuelven a subir las temperaturas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Nueva ley antitabaco: ¿cómo se puede dejar de fumar? ¿Qué tratamientos hay disponibles?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260722/nueva-ley-antitabaco-fumar-tratamientos-dejar-fumar-132693944",
+    "pubDate": "2026-07-22 13:09:45",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260721/nueva-ley-antitabaco-preve-multas-euros-menores-fumen-132656200\">La nueva ley antitabaco incluye multas de hasta 600 euros para los menores que fumen</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generación Z descubre 'La Odisea': el libro se vende un 76% más y el audiolibro se dispara un 500%",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260722/generacion-z-descubre-odisea-libro-132689091",
+    "pubDate": "2026-07-22 13:08:19",
+    "category": "",
+    "description": "<h2>En las semanas previas al estreno del film, las escuchas del audiolibro habían crecido más de un <strong>240%</strong> en Spotify y, el día que la película llegó a los cines, el 17 de julio, las reproducciones aumentaron más de un <strong>500%</strong> en la plataforma. Se espera que, después del estreno, las escuchas lleguen hasta un <strong>680%</strong>.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Корецький анонсував відновлення Ради коаліції: що зміниться",
+    "link": "https://ua.korrespondent.net/ukraine/4896297-koretskyi-anonsuvav-vidnovlennia-rady-koalitsii-scho-zminytsia",
+    "pubDate": "2026-07-22 13:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505473.jpg\">Прем’єр-міністр Сергій Корецький і голова Верховної Ради Руслан Стефанчук домовилися відновити роботу Ради коаліції та посилити взаємодію між урядом і парламентом.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El sector celebra la llegada del Plan Auto+, aunque asume que falta dar un paso más",
+    "link": "https://www.elperiodico.com/es/motor/20260722/sector-celebra-llegada-plan-auto-132687777",
+    "pubDate": "2026-07-22 13:05:21",
+    "category": "",
+    "description": "<h2>El esperado plan de ayudas a la adquisición de vehículos electrificados ya está operativo, a falta de que se publique el Real Decreto en el BOE.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Полтавщині лев травмував 5-річну дитину",
+    "link": "https://ua.korrespondent.net/ukraine/4896303-na-poltavschyni-lev-travmuvav-5-richnu-dytynu",
+    "pubDate": "2026-07-22 13:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505490.jpg\">Інцидент стався 21 липня в селищі Котельва у центрі реабілітації диких тварин. Дитина в реанімації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Llorca aprueba sus primeros presupuestos convirtiendo en ley la 'prioridad nacional' de Vox",
+    "link": "https://www.elperiodico.com/es/politica/20260722/llorca-primer-presupuesto-comunidad-valenciana-vox-prioridad-nacional-132694985",
+    "pubDate": "2026-07-22 13:03:29",
+    "category": "",
+    "description": "<h2>Las terceras cuentas de la legislatura, las más tardías de la historia, salen adelante con los votos de populares y voxistas y tras tumbar las más de 5.000 enmiendas de PSPV y Compromís</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Cuánto han cobrado Shakira, Madonna, BTS y Justin Bieber por actuar en la media parte de la final del Mundial 2026?",
+    "link": "https://www.elperiodico.com/es/gente/20260722/mundial-2026-show-media-parte-shakira-madonna-bts-justin-bieber-sueldo-final-espana-argentina-dv-132691660",
+    "pubDate": "2026-07-22 13:03:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La FIFA explica que el show buscaba \"unir a los mayores artistas del planeta en un momento histórico en la intersección entre el deporte, la cultura y el propósito\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/loteria-navidad/20260721/decimo-fecha-victoria-espana-mundial-2026-loteria-navidad-19726-donde-comprar-dv-132655271\">La victoria de España dispara las ventas de la Lotería de Navidad 2026: este es el número más buscado ahora mismo y se puede comprar en estas administraciones</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260704/mundial-shakira-gerard-pique-waka-waka-dai-dai-dv-131960583\">Shakira (49 años), exmujer de Gerard Piqué: \"Si no hubiera sido por el 'Waka Waka' no habría conocido al padre de mis hijos\"</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "España registra ya 22 grandes incendios forestales este año, tres veces mas que la media de la última década",
+    "link": "https://www.elperiodico.com/es/sociedad/20260722/22-grandes-incendios-espana-2026-132691652",
+    "pubDate": "2026-07-22 13:03:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ministerio para la Transición Ecológica y Reto Demográfico eleva a más de 101.000 las hectáreas forestales arrasadas en lo que va de año</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260722/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Incendios forestales en Catalunya y resto de España, en directo: última hora del fuego en La Mierla (Guadalajara), que arrasa ya más de 30.000 hectáreas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "JPMorgan AM enfría las expectativas de nuevas subidas de tipos del BCE y la Fed a corto plazo",
+    "link": "https://www.elperiodico.com/es/economia/20260722/jpmorgan-am-enfria-expectativas-nuevas-132694888",
+    "pubDate": "2026-07-22 13:01:22",
+    "category": "",
+    "description": "<h2>La gestora de JPMorgan recomienda diversificar más allá de EEUU y mantiene su apuesta por los mercados emergentes, donde anticipa un crecimiento de beneficio por acción del 60% en 2026 </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Драпатий розповів про завдання від Зеленського",
+    "link": "https://ua.korrespondent.net/ukraine/4896299-drapatyi-rozpoviv-pro-zavdannia-vid-zelenskoho",
+    "pubDate": "2026-07-22 13:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505474.jpg\">Генерал-майор отримав від президента завдання продовжити й посилити наступальні дії та нарощувати спроможності ЗСУ.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Candina: “Ha sido el momento más crítico de nuestra historia”",
+    "link": "https://as.com/baloncesto/candina-ha-sido-el-momento-mas-critico-de-nuestra-historia-f202607-n/",
+    "pubDate": "2026-07-22 12:57:55",
+    "category": "Gernika KESB",
+    "description": "El club vizcaíno sale a flote y presenta a su nuevo patrocinador: la empresa murciana Inversus.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una aplicación conectará a la ciudadanía de los municipios del Camp de Tarragona con la policía y geolocalizará las emergencias",
+    "link": "https://www.elperiodico.com/es/tarragona/20260722/municipios-camp-tarragona-compartiran-aplicacion-seguridad-geolocalizacion-132692687",
+    "pubDate": "2026-07-22 12:57:49",
+    "category": "",
+    "description": "<h2>La herramienta, impulsada por 7 ayuntamientos, permitirá enviar alertas, realizar llamadas de emergencia y mejorar la coordinación entre las policías locales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія вбила 350 митців і 137 медійників з початку війни",
+    "link": "https://ua.korrespondent.net/ukraine/4896301-rosiia-vbyla-350-myttsiv-i-137-mediinykiv-z-pochatku-viiny",
+    "pubDate": "2026-07-22 12:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505475.jpg\">Втрати серед митців і журналістів стали одним із наслідків російської агресії, спрямованої не лише проти людей, а й проти української ідентичності.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hallados los restos del avión de Pan Am estrellado en Puerto Rico hace 74 años en el que murieron 52 personas",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/restos-avion-pan-am-accidente-puerto-rico-132692424",
+    "pubDate": "2026-07-22 12:52:07",
+    "category": "",
+    "description": "<h2>Los restos de la aeronave fueron encontrados por un equipo de búsqueda que colaboraba con el canal Discovery Channel</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La taiwanesa TCI invierte 20 millones de euros en L'Hospitalet para abrir un centro de producción y I+D",
+    "link": "https://www.elperiodico.com/es/barcelona/20260722/taiwanesa-tci-invierte-20-millones-euros-hospitalet-abrir-centro-i-d-132693839",
+    "pubDate": "2026-07-22 12:48:16",
+    "category": "",
+    "description": "<h2>La compañía creará 15 puestos de trabajo calificados en un inicio y prevé ampliar esta plantilla progresivamente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio nocturno en el Turó de la Rovira alarma a los vecinos, hartos del incivismo",
+    "link": "https://www.elperiodico.com/es/barcelona/20260722/incendio-turo-de-la-rovira-incivismo-alarma-vecinos-132689262",
+    "pubDate": "2026-07-22 12:47:15",
+    "category": "",
+    "description": "<h2>Las llamas quemaron 100 m² de matorrales muy cerca de las de las baterías antiaéreas este lunes por la noche</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260502/barcelona-turo-rovira-turistas-botellones-valla-carmel-129772910\">Resurge el malestar en el Turó de la Rovira por los botellones y los saltos a la valla: \"Todos los días se cuelan\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Снігур пробилася до чвертьфіналу турніру в Празі",
+    "link": "https://ua.korrespondent.net/sport/tenis/4896293-snihur-probylasia-do-chvertfinalu-turniru-v-prazi",
+    "pubDate": "2026-07-22 12:47:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505471.jpg\">Українська тенісистка продовжує успішний виступ на турнірі в Празі, здобувши переконливу перемогу над представницею Туреччини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Названо один із найкращих літніх хітів усіх часів",
+    "link": "https://ua.korrespondent.net/showbiz/music/4896294-nazvano-odyn-iz-naikraschykh-litnikh-khitiv-usikh-chasiv",
+    "pubDate": "2026-07-22 12:46:00",
+    "category": "Музика",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505472.jpg\">Композиція Sweet Freedom американського співака Майкла МакДональда, випущена у 1986 році, знову опинилася в центрі уваги.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Прем’єр Естонії розповів про розмову з Корецьким",
+    "link": "https://ua.korrespondent.net/ukraine/4896289-premier-estonii-rozpoviv-pro-rozmovu-z-koretskym",
+    "pubDate": "2026-07-22 12:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505458.jpg\">Крістен Міхал провів телефонну розмову з новим главою уряду України Сергієм Корецьким. Він запевнив, що Таллінн продовжить підтримувати Київ військовою допомогою та співпрацею у сфері оборони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Supremo levanta las medidas contra Aldama: podrá salir del país y ya no deberá comparecer cada dos semanas",
+    "link": "https://www.elperiodico.com/es/politica/20260722/supremo-levanta-medidas-aldama-podra-salir-pais-132694051",
+    "pubDate": "2026-07-22 12:41:48",
+    "category": "",
+    "description": "<h2>El alto tribunal le impuso cuatro años y medio de prisión por sus actividades con el exministro Ábalos y Koldo García, pero acordó que no entraría en la cárcel</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El Barça de baloncesto ficha al técnico Aleksander Zekulic para dirigir la reconstrucción desde cero",
+    "link": "https://www.elperiodico.com/es/deportes/20260722/aleksander-zekulic-nuevo-entrenador-baloncesto-esloveno-barcelona-132689516",
+    "pubDate": "2026-07-22 12:40:15",
+    "category": "",
+    "description": "<h2>El técnico esloveno de 48 años, octavo entrenador en diez años, ha llegado a un acuerdo con el club azulgrana para ocupar el banquillo del Palau hasta 2028</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Collboni plantea regular los alquileres comerciales y crear un fondo para comprar locales emblemáticos “en riesgo”",
+    "link": "https://www.elperiodico.com/es/barcelona/20260722/collboni-plantea-regular-alquileres-comerciales-crear-fondo-comprar-emblematicos-132693450",
+    "pubDate": "2026-07-22 12:36:09",
+    "category": "",
+    "description": "<h2>El alcalde defiende que hay que actuar para evitar la desertificación de comercios de barrio y combatir la gentrificación</h2><h2>HEMEROTECA | <a href=\"https://www.elperiodico.com/es/barcelona/20241016/barcelona-plantea-gobierno-alquileres-locales-comerciales-109461731\">Barcelona plantea al Gobierno y a la Generalitat regular los alquileres de los locales comerciales</a></h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Лавров анонсував переговори з Рубіо щодо України",
+    "link": "https://ua.korrespondent.net/world/4896291-lavrov-anonsuvav-perehovory-z-rubio-schodo-ukrainy",
+    "pubDate": "2026-07-22 12:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505457.jpg\">Глава МЗС Росії анонсував майбутню зустріч із держсекретарем США після заходів АСЕАН на Філіппінах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вдарила по Одесі, є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4896287-rf-vdaryla-po-odesi-ye-postrazhdali",
+    "pubDate": "2026-07-22 12:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505459.png\">Пошкоджена інфраструктура. Є влучання в житловий сектор та руйнування. За попередніми даними, є постраждалі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La divertida confesión de la actriz Blanca Portillo (63 años), sobre Hacienda: \"Pago impuestos como una puerca\"",
+    "link": "https://www.elperiodico.com/es/gente/20260722/blanca-portillo-hacienda-declaracion-renta-la-revuelta-dv-et-132303338",
+    "pubDate": "2026-07-22 12:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz española responde a las preguntas clásicas de 'La revuelta'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20260427/bertin-osborne-asegura-pagado-millon-euros-hacienda-debo-centimo-129571839\">Bertín Osborne asegura que ha pagado un millón de euros a Hacienda: \"No debo un céntimo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20260702/patricia-conde-estalla-aparecer-nuevo-lista-morosos-hacienda-132042752\">Patricia Conde estalla tras aparecer de nuevo en la lista de morosos de Hacienda: \"Quedó resuelto en 2023\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Francia se enfrenta al reto de verificar la edad en redes sociales para evitar que su prohibición a menores fracase",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/francia-verificar-edad-redes-sociales-prohibicion-menores-132693458",
+    "pubDate": "2026-07-22 12:28:02",
+    "category": "",
+    "description": "<h2>Expertos y políticos cuestionan la eficacia y la viabilidad técnica de la medida, que entrará en vigor el 1 de septiembre, para proteger a los menores de los peligros de las redes sociales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Kia potencia el EV2 con más de 440 km de autonomía y una versión Black-Line",
+    "link": "https://www.elperiodico.com/es/motor/20260722/kia-potencia-ev2-132672742",
+    "pubDate": "2026-07-22 12:21:58",
+    "category": "",
+    "description": "<h2>El SUV compacto eléctrico suma una batería de mayor capacidad, inicia su producción en Europa y estrena acabados pensados para cada tipo de conductor</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "До США доправили тіла загиблих військових із Близького Сходу",
+    "link": "https://ua.korrespondent.net/world/4896284-do-ssha-dopravyly-tila-zahyblykh-viiskovykh-iz-blyzkoho-skhodu",
+    "pubDate": "2026-07-22 12:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505456.jpg\">Тіла американських військовослужбовців доправили на авіабазу Довер. Серед загиблих - 19-річна військова ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни обстріляли Харків, п'ятеро постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4896283-rosiiany-obstrilialy-kharkiv-piatero-postrazhdalykh",
+    "pubDate": "2026-07-22 12:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505444.jpg\">Внаслідок ворожого удару по Немишлянському району - 5 постраждалих. В усіх діагностовано гостру реакцію на стрес.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Directo | Feijóo comparece para hacer balance del curso político",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-comparece-balance-curso-politico/132693111.shtml",
+    "pubDate": "2026-07-22 12:18:06",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Директор фірми привласнив 68 млн грн, виділені на захист енергооб’єкта",
+    "link": "https://ua.korrespondent.net/ukraine/4896276-dyrektor-firmy-pryvlasnyv-68-mln-hrn-vydileni-na-zakhyst-enerhoobiekta",
+    "pubDate": "2026-07-22 12:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505434.jpeg\">Керівника приватної компанії підозрюють у привласненні майже 68 млн грн, які держава виділила на реконструкцію та фізичний захист важливого енергетичного об’єкта.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Port de Barcelona entra en el accionariado de la Terminal Intermodal de Navarra con una participación del 40%",
+    "link": "https://www.elperiodico.com/es/economia/20260722/puerto-barcelona-entra-accionariado-terminal-intermodal-navarra-noain-132689774",
+    "pubDate": "2026-07-22 12:15:34",
+    "category": "",
+    "description": "<h2>La autoridad portuaria se alía con Hutchison Ports BEST para reforzar el corredor ferroviario entre Barcelona y Noáin, impulsar el transporte ferroviario de mercancías y acercar los servicios portuarios al tejido empresarial navarro</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260629/terminal-hutchison-ports-best-puerto-barcelona-estudio-economico-pib-catalunya-131930632\" target=\"_blank\">La terminal Hutchison Ports BEST del Port de Barcelona aporta el 0,7% del PIB de Catalunya y genera más de 20.500 empleos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una lista de muchos quilates y mucho futuro: Mara, Aldama, Hugo…",
+    "link": "https://as.com/baloncesto/mas_baloncesto/una-lista-de-muchos-quilates-y-mucho-futuro-mara-aldama-hugo-f202607-n/",
+    "pubDate": "2026-07-22 12:13:21",
+    "category": "Baloncesto",
+    "description": "Chus Mateo, seleccionador nacional, ha dado este miércoles la convocatoria de 15 jugadores para la Ventana de agosto clasificatoria para el Mundial.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Синій колір і новий дизайн: МЮ показав виїзну форму",
+    "link": "https://ua.korrespondent.net/sport/football/4896273-synii-kolir-i-novyi-dyzain-mui-pokazav-vyiznu-formu",
+    "pubDate": "2026-07-22 12:11:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505443.jpg\">Оновлене гостьове екіпірування манчестерського клубу виконане в класичному синьому кольорі.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mikael Jantunen, un ala-pívot aguerrido para el nuevo Real Madrid",
+    "link": "https://as.com/baloncesto/acb/mikael-jantunen-un-ala-pivot-aguerrido-para-el-nuevo-real-madrid-f202607-n/",
+    "pubDate": "2026-07-22 12:10:28",
+    "category": "Baloncesto",
+    "description": "El ala-pívot finlandés Mikael Jantunen refuerza la pintura del nuevo Real Madrid de Pedro Martínez. La última temporada la disputó en el Fenerbahçe con Jasikevicius.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Borja Iglesias, una \"superestrella\" también en redes sociales",
+    "link": "https://www.elperiodico.com/es/deportes/20260722/borja-iglesias-superestrella-redes-sociales-mundial-132689826",
+    "pubDate": "2026-07-22 12:08:23",
+    "category": "",
+    "description": "<h2>El delantero ha disparado sus seguidores un 54% en Instagram y 35% en TikTok a raíz de sus publicaciones con Bardem y título con la selección</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Cae un clan de traficantes de armas de fuego que tenía un lanzacohetes, unas 40 pistolas y una granada",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cae-clan-traficantes-armas-fuego/132692345.shtml",
+    "pubDate": "2026-07-22 12:07:43",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Слов'янську пожежа сухої наблизилася до осель",
+    "link": "https://ua.korrespondent.net/ukraine/4896277-u-sloviansku-pozhezha-sukhoi-nablyzylasia-do-osel",
+    "pubDate": "2026-07-22 12:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505442.jpg\">Через сильний вітер полум’я швидко поширювалося та наблизилося до приватних будинків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський назвав ім'я нового начальника Генштабу",
+    "link": "https://ua.korrespondent.net/ukraine/4896279-zelenskyi-nazvav-imia-novoho-nachalnyka-henshtabu",
+    "pubDate": "2026-07-22 12:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505418.jpg\">Новим начальником Генштабу стане досвідчений генерал, який пліч-о-пліч воював з новим головнокомандувачем ЗСУ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La terapeuta de los Andic pidió a su ayudante buscar rutas para que Jonathan se pusiera en \"situaciones extremas\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/terapeuta-andic-pidio-ayudante-buscar/132692051.shtml",
+    "pubDate": "2026-07-22 12:03:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vodafone España se lanza a vender y alquilar parte de sus sedes y busca revender muebles de oficina de segunda mano",
+    "link": "https://www.elperiodico.com/es/economia/20260722/vodafone-vender-alquilar-parte-sedes-reventa-muebles-132692176",
+    "pubDate": "2026-07-22 12:02:24",
+    "category": "",
+    "description": "<h2 class=\"item\">La teleco lanza una web para comercializar directamente y sin intermediarios su cartera de inmuebles y también mesas y sillas que ya no usa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Чехія посилить захист критичної інфраструктури від БПЛА",
+    "link": "https://ua.korrespondent.net/world/4896274-chekhiia-posylyt-zakhyst-krytychnoi-infrastruktury-vid-bpla",
+    "pubDate": "2026-07-22 12:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505431.jpg\">Законопроєкт передбачає створення зон із підвищеним рівнем захисту навколо об'єктів критичної інфраструктури.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los cambios en las fábricas en España frenan la producción de vehículos y las exportaciones en junio",
+    "link": "https://www.elperiodico.com/es/motor/20260722/cambios-fabricas-espana-frenan-produccion-132689855",
+    "pubDate": "2026-07-22 12:01:31",
+    "category": "",
+    "description": "<h2>Anfac apunta a la adaptación de las líneas a los nuevos modelos electrificados como la razón principal de la bajada en la producción, que ya se refleja en el acumulado del año.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
     "title": "La Premier encadena fichajes de más de 100 millones: el último, Morgan Rogers por el Chelsea",
     "link": "https://www.elperiodico.com/es/deportes/20260722/fichaje-morgan-rogers-chelsea-premier-league-barrera-100-millones-132687413",
     "pubDate": "2026-07-22 12:01:13",
@@ -7,6 +430,15 @@
     "description": "<h2>El club londinense oficializa el traspaso del mediapunta por 137 millones de euros, el cuarto que rompe la barrera este verano</h2>",
     "topic": "спорт",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Se destapa el romance sorpresa entre el futbolista Héctor Bellerín y la actriz Carolina Yuste",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260722/carolina-yuste-destapa-romance-sorpresa-futbolista-hector-bellerin-132691730",
+    "pubDate": "2026-07-22 11:58:00",
+    "category": "",
+    "description": "<h2>El jugador del Real Betis y la protagonista de 'La Infiltrada' han sido cazados compartiendo un romántico picnic y un apasionado beso que confirma su relación</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 55
   },
   {
     "title": "Cae un clan de traficantes de armas de fuego que tenía un lanzacohetes, unas 40 pistolas y una granada",
