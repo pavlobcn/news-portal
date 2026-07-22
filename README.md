@@ -1,11 +1,13 @@
-# News for 2026-07-22 21:16
+# News for 2026-07-22 22:08
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+21:30 [У Вірменії розкопали гробницю бронзової доби](https://ua.korrespondent.net/tech/science/4896439-u-virmenii-rozkopaly-hrobnytsui-bronzovoi-doby)<br>
 20:16 [РФ двічі за день атакувала АЗС у Харкові: наслідки](https://ua.korrespondent.net/city/kharkov/4896428-rf-dvichi-za-den-atakuvala-azs-u-kharkovi-naslidky)<br>
 19:31 [Більш як 5,3 тисячі жертв землетрусів: у Венесуелі збирають ДНК](https://ua.korrespondent.net/world/4896421-bilsh-yak-53-tysiachi-zhertv-zemletrusiv-u-venesueli-zbyrauit-dnk)<br>
 19:15 [Samsung представлиа нове покоління складаних смартфонів з новою моделлю](https://ua.korrespondent.net/lifestyle/gadgets/4896419-Samsung-predstavlya-nove-pokolinnia-skladanykh-smartfoniv-z-novoui-modellui)<br>
+19:15 [Samsung представила нове покоління складаних смартфонів з новою моделлю](https://ua.korrespondent.net/lifestyle/gadgets/4896419-Samsung-predstavyla-nove-pokolinnia-skladanykh-smartfoniv-z-novoui-modellui)<br>
 19:12 [З'явилися супутникові знімки пожеж на складах Wildberries у РФ](https://ua.korrespondent.net/world/russia/4896417-ziavylysia-suputnykovi-znimky-pozhezh-na-skladakh-Wildberries-u-rf)<br>
 19:10 [Samsung Galaxy Fold 8 – розкладний смартфон нової ери](https://ua.korrespondent.net/lifestyle/gadgets/4896407-Samsung-Galaxy-Fold-8-rozkladnyi-smartfon-novoi-ery)<br>
 19:03 [Під Одесою тліють 8 га очерету й трави](https://ua.korrespondent.net/city/odessa/4896415-pid-odesoui-tliuit-8-ha-ocheretu-y-travy)<br>
