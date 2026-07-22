@@ -1,8 +1,10 @@
-# News for 2026-07-22 17:57
+# News for 2026-07-22 18:41
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+18:17 [Синоптики розповіли, чому в Україні виникає дедалі більше смерчів](https://ua.korrespondent.net/ukraine/4896405-synoptyky-rozpovily-chomu-v-ukraini-vynykaie-dedali-bilshe-smerchiv)<br>
+18:04 [У Львові викрили наркогрупу, що збувала наркотики військовим](https://ua.korrespondent.net/city/lvov/4896402-u-lvovi-vykryly-narkohrupu-scho-zbuvala-narkotyky-viiskovym)<br>
 17:11 [Передавав РФ координати військових: у Слов’янську винесли вирок зраднику](https://ua.korrespondent.net/ukraine/4896389-peredavav-rf-koordynaty-viiskovykh-u-sloviansku-vynesly-vyrok-zradnyku)<br>
 17:01 ["Впали" Facebook та Instagram: користувачі масово поскаржилися на збій](https://ua.korrespondent.net/business/companies/4896386-vpaly-Facebook-ta-Instagram-korystuvachi-masovo-poskarzhylysia-na-zbii)<br>
 16:55 [РФ тисне на чотирьох напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4896385-rf-tysne-na-chotyrokh-napriamkakh-henshtab)<br>
@@ -91,6 +93,8 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 00:36 [Генерал США: F-16 України вперше збив винищувач РФ](https://ua.korrespondent.net/world/worldabus/4896153-heneral-ssha-F-16-ukrainy-vpershe-zbyv-vynyschuvach-rf)<br>
 
 ## as.com
+18:11 [Así está la plantilla del Madrid para la temporada 2026-27: Llull, en el aire](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/)<br>
+17:46 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
 17:35 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 17:28 [Jan Cerdan, Rhys Robinson y un futuro que ilusiona](https://as.com/baloncesto/mas_baloncesto/jan-cerdan-rhys-robinson-y-un-futuro-que-ilusiona-f202607-n/)<br>
 16:46 [Muere ahogada Fabiola Mbulito, promesa del baloncesto canario](https://as.com/baloncesto/mas_baloncesto/muere-ahogada-fabiola-mbulito-promesa-del-baloncesto-canario-f202607-n/)<br>
@@ -102,6 +106,12 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:39 [Adiós a Josep Vallverdú, la voz de la literatura infantil catalana que conquistó a generaciones](https://www.elperiodico.com/es/ocio-y-cultura/20260722/adios-josep-vallverdu-voz-literatura-132709286)<br>
+18:37 [Merlin invertirá 1.225 millones en un centro de datos de Botorrita con la energía renovable de Forestalia](https://www.elperiodico.com/es/economia/20260722/merlin-invertira-1-225-millones-132709500)<br>
+18:35 [La ola de calor deja máximas de 44,3 grados en Granada y vuelve a activar avisos de color rojo en Catalunya, Murcia, Alicante y Valencia](https://www.elperiodico.com/es/sociedad/20260722/ola-calor-maximas-miercoles-prevision-jueves-aviso-rojo-132708962)<br>
+18:16 [Ver deportes en directo en grupo sincroniza los latidos del corazón y eleva la oxitocina](https://www.elperiodico.com/es/tendencias21/20260722/ver-deportes-directo-grupo-sincroniza-132708755)<br>
+18:05 [Europa convierte el Moianès en un laboratorio sobre cómo talar árboles para frenar grandes incendios](https://www.elperiodico.com/es/sociedad/20260722/europa-convierte-moianes-laboratorio-talar-arboles-frenar-grandes-incendios-130548944)<br>
+18:00 [El calor extremo por el cambio climático traslada el riesgo de 'expulsión' de vecinos a municipios del entorno de Barcelona](https://www.elperiodico.com/es/barcelona/20260722/calor-extremo-cambio-climatico-traslada-riesgo-expulsion-vecinos-municipios-entorno-barcelona-132669121)<br>
 17:47 [Tarragona recuperará una cripta de los siglos XVI al XVIII oculta durante más de cien años](https://www.elperiodico.com/es/tarragona/20260722/tarragona-recuperara-cripta-siglos-oculta-durante-cien-anos-132706196)<br>
 17:36 [Estabilizado el incendio de Guadalajara tras calcinar más de 32.000 hectáreas](https://www.elperiodico.com/es/videos/sucesos/estabilizado-incendio-guadalajara/132706955.shtml)<br>
 17:21 [El TNC cierra temporada con casi 118.000 espectadores y un 76% de ocupación](https://www.elperiodico.com/es/ocio-y-cultura/20260722/tnc-cierra-temporada-espectadores-ocupacion-132706127)<br>

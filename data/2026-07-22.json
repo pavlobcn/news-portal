@@ -1,5 +1,167 @@
 [
   {
+    "title": "Adiós a Josep Vallverdú, la voz de la literatura infantil catalana que conquistó a generaciones",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260722/adios-josep-vallverdu-voz-literatura-132709286",
+    "pubDate": "2026-07-22 18:39:37",
+    "category": "",
+    "description": "<h2>El escritor, reconocido con la Creu de Sant Jordi y el Premi d’Honor de les Lletres Catalanes, destacó por su vitalidad y defensa del catalán</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Merlin invertirá 1.225 millones en un centro de datos de Botorrita con la energía renovable de Forestalia",
+    "link": "https://www.elperiodico.com/es/economia/20260722/merlin-invertira-1-225-millones-132709500",
+    "pubDate": "2026-07-22 18:37:22",
+    "category": "",
+    "description": "<h2>El Gobierno de Aragón declara de interés autonómico el proyecto, que aprovechará los permisos de acceso a la red adquiridos a la compañía fundada por Fernando Samper y aspira a convertirse en una referencia mundial con un autoconsumo renovable que llega al 87%</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ola de calor deja máximas de 44,3 grados en Granada y vuelve a activar avisos de color rojo en Catalunya, Murcia, Alicante y Valencia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260722/ola-calor-maximas-miercoles-prevision-jueves-aviso-rojo-132708962",
+    "pubDate": "2026-07-22 18:35:16",
+    "category": "",
+    "description": "<h2 class=\"item\">La Agencia Estatal de Meteorología alerta de altas temperaturas en el litoral sur de Valencia, la costa de Alicante, la zona de Vega del Seguray el Valle del Guadalentín, Lorca y Águilas, mientras que Meteocat activa avisos rojos en Segrià y Ribera d'Ebre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260720/espana-ola-calor-prevision-aemet-semana-132621960\">España se prepara para una nueva ola de calor que dejará máximas de 45 grados y elevará aún más el riesgo de incendios</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Від дронів до Patriot: Україна і США розширюють оборонне партнерство",
+    "link": "https://ua.korrespondent.net/ukraine/4896409-vid-droniv-do-Patriot-ukraina-i-ssha-rozshyruiuit-oboronne-partnerstvo",
+    "pubDate": "2026-07-22 18:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505702.jpg\">Рустем Умєров обговорив з Метью Вітакером Drone Deal та локалізацію виробництва ракет до Patriot в Україні.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Una asociación de militares denuncia ante la Fiscalía la agresión a soldados durante la final del Mundial en Navarra",
+    "link": "https://www.elperiodico.com/es/sucesos/20260722/asociacion-militares-denuncia-fiscalia-agresion-132709280",
+    "pubDate": "2026-07-22 18:30:04",
+    "category": "",
+    "description": "<h2>Según explica AUME en un comunicado, los hechos pueden constituir un delito de lesiones en su modalidad agravada por el uso de instrumentos peligrosos para la vida o integridad física </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "¿Nueva crisis en Muface?: 14.000 funcionarios abandonan el concierto sanitario para pasarse a la sanidad pública",
+    "link": "https://www.elperiodico.com/es/sanidad/20260722/nueva-crisis-muface-funcionarios-abandonan-concierto-sanidad-publica-132707352",
+    "pubDate": "2026-07-22 18:26:01",
+    "category": "",
+    "description": "<h2 class=\"item\">CSIF exige al Gobierno garantías para el futuro de la mutualidad y denuncia que MUFACE ha reducido la actividad en Atención Primaria, especializada y pruebas en el primer año del nuevo concierto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260709/medicos-privados-mejorado-honorarios-aumento-primas-muface-aseguradoras-132292892\">El 80% de los médicos privados no ha mejorado sus honorarios tras la subida de primas a Muface</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Narbona insiste en que desconocía las gestiones de Leire Díaz",
+    "link": "https://www.elperiodico.com/es/videos/politica/narbona-desconocia-gestiones-leire/132709053.shtml",
+    "pubDate": "2026-07-22 18:25:25",
+    "category": "",
+    "description": "La presidenta del PSOE niega que la 'fontanera' del PSOE fuera su \"amiga\" y asegura que jamás habló con ella de los asuntos por los que se la está investigando",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Синоптики розповіли, чому в Україні виникає дедалі більше смерчів",
+    "link": "https://ua.korrespondent.net/ukraine/4896405-synoptyky-rozpovily-chomu-v-ukraini-vynykaie-dedali-bilshe-smerchiv",
+    "pubDate": "2026-07-22 18:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505683.jpg\">Через зміну клімату умови для утворення сильних грозових вихорів стають сприятливішими, тож, їхня географія розширюється.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ver deportes en directo en grupo sincroniza los latidos del corazón y eleva la oxitocina",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260722/ver-deportes-directo-grupo-sincroniza-132708755",
+    "pubDate": "2026-07-22 18:16:56",
+    "category": "",
+    "description": "<h2>Un estudio con espectadores de baloncesto muestra que la emoción compartida activa respuestas fisiológicas vinculadas a la experiencia grupal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así está la plantilla del Madrid para la temporada 2026-27: Llull, en el aire",
+    "link": "https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/",
+    "pubDate": "2026-07-22 18:11:33",
+    "category": "Baloncesto",
+    "description": "El balear es el único jugador en la actual plantilla que acaba contrato tras la marcha de Trey Lyles. Los temporales Yurtseven y Sissoko ya no están.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Volkswagen estrena una nueva tecnología híbrida que debuta en los Golf y T-Roc",
+    "link": "https://www.elperiodico.com/es/motor/20260722/volkswagen-golf-troc-motor-hibrido-precio-132686551",
+    "pubDate": "2026-07-22 18:07:30",
+    "category": "",
+    "description": "<h2>Por el momento, se han abierto las preventas en el mercado alemán con potencia de 170 CV. Más adelante, llegará otra opción más potente.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Supremo revisará si la Junta Electoral incurre en dejación de funciones sobre el derecho a voto concedido en la llamada ley de nietos",
+    "link": "https://www.elperiodico.com/es/politica/20260722/supremo-revisara-junta-electoral-incurre-dejacion-funciones-ley-de-nietos-132708130",
+    "pubDate": "2026-07-22 18:06:01",
+    "category": "",
+    "description": "<h2>El Alto Tribunal requiere a la Junta el expediente y abre pieza para estudiar medidas cautelares: si suspende la eficacia de la instrucción de Justicia y se obliga a las embajadas a separar los expedientes de nacionalidad ya tramitados</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Europa convierte el Moianès en un laboratorio sobre cómo talar árboles para frenar grandes incendios",
+    "link": "https://www.elperiodico.com/es/sociedad/20260722/europa-convierte-moianes-laboratorio-talar-arboles-frenar-grandes-incendios-130548944",
+    "pubDate": "2026-07-22 18:05:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El proyecto comunitario, que experimenta con diferentes tipos de gestión e incluye propietarios, ambientalistas, científicos, ganaderos y técnicos, se centra también en preservar la biodiversidad de los bosques mediterráneos</h2><h2 class=\"item\">MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/sociedad/20231112/bosques-maduros-mediterraneo-gestion-incendios-94492288\" target=\"_blank\">Objetivo bosques: ¿Es viable lograr bosques maduros?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Львові викрили наркогрупу, що збувала наркотики військовим",
+    "link": "https://ua.korrespondent.net/city/lvov/4896402-u-lvovi-vykryly-narkohrupu-scho-zbuvala-narkotyky-viiskovym",
+    "pubDate": "2026-07-22 18:04:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505684.jpg\">Незаконний збут здійснювали у Львівській, Київській та Сумській областях, а також через поштові відправлення по всій Україні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor extremo por el cambio climático traslada el riesgo de 'expulsión' de vecinos a municipios del entorno de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260722/calor-extremo-cambio-climatico-traslada-riesgo-expulsion-vecinos-municipios-entorno-barcelona-132669121",
+    "pubDate": "2026-07-22 18:00:56",
+    "category": "",
+    "description": "<h2>Un nuevo índice del Institut de Ciència de la UAB sitúa a Badia, Sant Cugat o Sant Adrià entre los municipios más vulnerables a la 'gentrificación climática'</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260703/barrios-municipios-area-metropolitana-barcelona-zonas-vulnerables-calor-extremo-132007583\" target=\"_blank\">Casi un millón de vecinos del área metropolitana de Barcelona sufren exposición extrema al calor pero no tienen dinero para afrontarlo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Stuart no consigue salvar el universo' (HBO Max): la franquicia 'Big bang' se reinventa como (pobre) aventura de ciencia ficción",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260722/critica-stuart-no-consigue-salvar-el-universo-serie-big-bang-132689315",
+    "pubDate": "2026-07-22 18:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El segundo 'spinoff' directo de la querida telecomedia es una exploración poco original y sin demasiados buenos chistes del concepto del multiverso </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cuaderno/20190113/chuck-lorre-perfil-globos-de-oro-metodo-kominsky-7236970\" target=\"_blank\">Chuck Lorre, el genio de la telecomedia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/videos/tele/acaba-the-big-bang-theory/4622866.shtml\" target=\"_blank\">Acaba 'The Big Bang theory'</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "ФІДЕ ухвалила рішення зняти санкції з білорусів",
+    "link": "https://ua.korrespondent.net/sport/chess/4896401-fide-ukhvalyla-rishennia-zniaty-sanktsii-z-bilorusiv",
+    "pubDate": "2026-07-22 18:00:00",
+    "category": "Новини шахів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505671.jpg\">Головна організація у світі шахів дослухалася до рекомендацій Міжнародного олімпійського комітету і допустила білоруських спортсменів до змагань.",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЄС почне перевіряти судна російського \"тіньового флоту\" в морі",
+    "link": "https://ua.korrespondent.net/world/4896399-yes-pochne-pereviriaty-sudna-rosiiskoho-tinovoho-flotu-v-mori",
+    "pubDate": "2026-07-22 17:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505672.jpg\">Європейський Союз посилює контроль за російським тіньовим флотом. Військово-морські місії ЄС зможуть перевіряти підозрілі судна просто у відкритому морі.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "El Arzobispado de Barcelona interviene tres fundaciones diocesanas por presuntas irregularidades en la gestión",
     "link": "https://www.elperiodico.com/es/sociedad/20260722/arzobispado-barcelona-interviene-tres-fundaciones-irregularidades-gestion-132707460",
     "pubDate": "2026-07-22 17:53:59",
@@ -18,6 +180,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Угорщина знову проти: відкриття кластерів відклали",
+    "link": "https://ua.korrespondent.net/world/4896397-uhorschyna-znovu-proty-vidkryttia-klasteriv-vidklaly",
+    "pubDate": "2026-07-22 17:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505673.jpg\">Через позицію Будапешта питання відкриття кластерів 2 і 3 для України перенесли на вересень.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "El supereclipse pondrá a prueba la movilidad en España: se esperan 1,5 millones de desplazamientos en un solo día",
     "link": "https://www.elperiodico.com/es/videos/sociedad/supereclipse-pondra-prueba-movilidad-espana/132707374.shtml",
     "pubDate": "2026-07-22 17:47:57",
@@ -32,6 +203,15 @@
     "pubDate": "2026-07-22 17:47:32",
     "category": "",
     "description": "<h2 class=\"item\">La intervención arqueológica permitirá estudiar una veintena de enterramientos y preparar la apertura al público de este espacio histórico</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20251108/tarragona-despide-convento-seis-monjas-colegio-lestonnac-123390436\">Tarragona despide un convento de seis monjas después de más de 300 años en la ciudad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercado de fichajes, 2026, EuroLeague: todos los movimientos",
+    "link": "https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-22 17:46:36",
+    "category": "Mercado Euroliga",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Euroliga este verano de 2026.",
     "topic": "",
     "topic_match_probability": 0
   },
