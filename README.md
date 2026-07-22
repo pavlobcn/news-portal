@@ -1,8 +1,10 @@
-# News for 2026-07-22 17:02
+# News for 2026-07-22 17:57
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+17:11 [Передавав РФ координати військових: у Слов’янську винесли вирок зраднику](https://ua.korrespondent.net/ukraine/4896389-peredavav-rf-koordynaty-viiskovykh-u-sloviansku-vynesly-vyrok-zradnyku)<br>
+17:01 ["Впали" Facebook та Instagram: користувачі масово поскаржилися на збій](https://ua.korrespondent.net/business/companies/4896386-vpaly-Facebook-ta-Instagram-korystuvachi-masovo-poskarzhylysia-na-zbii)<br>
 16:55 [РФ тисне на чотирьох напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4896385-rf-tysne-na-chotyrokh-napriamkakh-henshtab)<br>
 16:51 [Китай створив надтонкі сонячні панелі для космосу й одягу](https://ua.korrespondent.net/tech/technews/4896383-kytai-stvoryv-nadtonki-soniachni-paneli-dlia-kosmosu-y-odiahu)<br>
 16:42 [Обстріл Харківщини: дитина та чоловік опинилися в лікарні](https://ua.korrespondent.net/ukraine/4896381-obstril-kharkivschyny-dytyna-ta-cholovik-opynylysia-v-likarni)<br>
@@ -89,6 +91,8 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 00:36 [Генерал США: F-16 України вперше збив винищувач РФ](https://ua.korrespondent.net/world/worldabus/4896153-heneral-ssha-F-16-ukrainy-vpershe-zbyv-vynyschuvach-rf)<br>
 
 ## as.com
+17:35 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
+17:28 [Jan Cerdan, Rhys Robinson y un futuro que ilusiona](https://as.com/baloncesto/mas_baloncesto/jan-cerdan-rhys-robinson-y-un-futuro-que-ilusiona-f202607-n/)<br>
 16:46 [Muere ahogada Fabiola Mbulito, promesa del baloncesto canario](https://as.com/baloncesto/mas_baloncesto/muere-ahogada-fabiola-mbulito-promesa-del-baloncesto-canario-f202607-n/)<br>
 12:57 [Candina: “Ha sido el momento más crítico de nuestra historia”](https://as.com/baloncesto/candina-ha-sido-el-momento-mas-critico-de-nuestra-historia-f202607-n/)<br>
 12:13 [Una lista de muchos quilates y mucho futuro: Mara, Aldama, Hugo…](https://as.com/baloncesto/mas_baloncesto/una-lista-de-muchos-quilates-y-mucho-futuro-mara-aldama-hugo-f202607-n/)<br>
@@ -98,6 +102,11 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:47 [Tarragona recuperará una cripta de los siglos XVI al XVIII oculta durante más de cien años](https://www.elperiodico.com/es/tarragona/20260722/tarragona-recuperara-cripta-siglos-oculta-durante-cien-anos-132706196)<br>
+17:36 [Estabilizado el incendio de Guadalajara tras calcinar más de 32.000 hectáreas](https://www.elperiodico.com/es/videos/sucesos/estabilizado-incendio-guadalajara/132706955.shtml)<br>
+17:21 [El TNC cierra temporada con casi 118.000 espectadores y un 76% de ocupación](https://www.elperiodico.com/es/ocio-y-cultura/20260722/tnc-cierra-temporada-espectadores-ocupacion-132706127)<br>
+17:03 [Cortada la circulación en la R2 Nord, la R2 y R11 por una incidencia entre Montcada i Reixac y Sant Andreu](https://www.elperiodico.com/es/barcelona/20260722/cortada-circulacion-r2-nord-r2-132705204)<br>
+17:02 [Calor y pobreza energética](https://www.elperiodico.com/es/opinion/20260722/calor-pobreza-energetica-articulo-joan-guix-132704604)<br>
 16:54 [La casa real británica celebra el 13 cumpleaños del príncipe George con una nueva fotografía](https://www.elperiodico.com/es/gente/20260722/casa-real-britanica-celebra-13-132703658)<br>
 16:47 ['La odisea' se convierte en el estreno más taquillero de Nolan, con 264 millones de dólares](https://www.elperiodico.com/es/videos/ocio-y-cultura/odisea-convierte-estreno-taquillero-nolan-video/132704686.shtml)<br>
 16:39 [Muere un trabajador en un accidente en los talleres de Renfe en Villaverde (Madrid)](https://www.elperiodico.com/es/sucesos/20260722/muere-trabajador-accidente-talleres-renfe-villaverde-madrid-132704451)<br>
