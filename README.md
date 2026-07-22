@@ -1,8 +1,10 @@
-# News for 2026-07-22 19:26
+# News for 2026-07-22 20:45
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+20:16 [РФ двічі за день атакувала АЗС у Харкові: наслідки](https://ua.korrespondent.net/city/kharkov/4896428-rf-dvichi-za-den-atakuvala-azs-u-kharkovi-naslidky)<br>
+19:31 [Більш як 5,3 тисячі жертв землетрусів: у Венесуелі збирають ДНК](https://ua.korrespondent.net/world/4896421-bilsh-yak-53-tysiachi-zhertv-zemletrusiv-u-venesueli-zbyrauit-dnk)<br>
 19:15 [Samsung представлиа нове покоління складаних смартфонів з новою моделлю](https://ua.korrespondent.net/lifestyle/gadgets/4896419-Samsung-predstavlya-nove-pokolinnia-skladanykh-smartfoniv-z-novoui-modellui)<br>
 19:12 [З'явилися супутникові знімки пожеж на складах Wildberries у РФ](https://ua.korrespondent.net/world/russia/4896417-ziavylysia-suputnykovi-znimky-pozhezh-na-skladakh-Wildberries-u-rf)<br>
 19:10 [Samsung Galaxy Fold 8 – розкладний смартфон нової ери](https://ua.korrespondent.net/lifestyle/gadgets/4896407-Samsung-Galaxy-Fold-8-rozkladnyi-smartfon-novoi-ery)<br>
@@ -97,6 +99,9 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 00:36 [Генерал США: F-16 України вперше збив винищувач РФ](https://ua.korrespondent.net/world/worldabus/4896153-heneral-ssha-F-16-ukrainy-vpershe-zbyv-vynyschuvach-rf)<br>
 
 ## as.com
+20:36 [Hezonja no paga la cláusula y sigue siendo jugador del Madrid](https://as.com/baloncesto/acb/hezonja-no-ha-pagado-la-clausula-y-sigue-siendo-jugador-del-madrid-f202607-n/)<br>
+19:44 [Birutis refuerza el juego interior del Zaragoza](https://as.com/baloncesto/acb/birutis-refuerza-el-juego-interior-del-zaragoza-f202607-n/)<br>
+19:14 [El CB Tizona pierde el recurso contra la ACB](https://as.com/baloncesto/acb/el-cb-tizona-pierde-el-recurso-contra-la-acb-f202607-n/)<br>
 18:11 [Así está la plantilla del Madrid para la temporada 2026-27: Llull, en el aire](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/)<br>
 17:46 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
 17:35 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
@@ -110,6 +115,11 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:43 [El incendio de Almorox (Toledo) salta a Madrid y obliga a evacuar varias urbanizaciones y confinar Villa del Prado](https://www.elperiodico.com/es/sociedad/20260722/incendio-pinar-almorox-toledo-obliga-desalojar-viviendas-bomberos-madrid-132713098)<br>
+20:30 [El incendio de El Cerro del Andévalo (Huelva) obliga a activar Es-Alert: desalojan a 380 vecinos de Villanueva de las Cruces](https://www.elperiodico.com/es/sociedad/20260722/activada-fase-emergencia-incendio-forestal-132712821)<br>
+20:18 [Un incendio en Cervelló obliga a confinar a 300 personas de dos urbanizaciones](https://www.elperiodico.com/es/sociedad/20260722/incendio-cervello-confinar-300-personas-les-rovires-132712278)<br>
+20:01 [Los psicólogos advierten de que la "terapia de confrontación" de la psicoanalista de los Andic "carece de sentido": "Es pseudociencia"](https://www.elperiodico.com/es/ser-feliz/20260722/psicologos-advierten-terapia-confrontacion-psicoanalista-132705059)<br>
+19:52 [Catalunya monitoriza el impacto del calor en la salud: 2.800 insolaciones atendidas este verano, la mayoría entre jóvenes](https://www.elperiodico.com/es/sociedad/20260722/cataluna-casos-golpe-calor-insolacion-inicio-verano-registros-salut-sivic-impacto-salud-132703651)<br>
 19:21 [La CNMV autoriza la OPA de exclusión de cotización de Ercros](https://www.elperiodico.com/es/economia/20260722/cnmv-autoriza-opa-exclusion-cotizacion-132711215)<br>
 19:16 [Dos urbanizaciones confinadas por un incendio en Cervelló, Barcelona](https://www.elperiodico.com/es/videos/sucesos/dos-urbanizaciones-confinadas-incendio-cervello/132711030.shtml)<br>
 19:12 [Rusia destruye más de 1,5 millones de libros en ataques a Ucrania y los ciudadanos responden con compras masivas](https://www.elperiodico.com/es/ocio-y-cultura/20260722/rusia-destruye-1-5-millones-132710438)<br>
