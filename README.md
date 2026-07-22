@@ -1,8 +1,10 @@
-# News for 2026-07-22 14:00
+# News for 2026-07-22 14:52
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+14:35 [Невидимі пастки купання одразу за зливою](https://ua.korrespondent.net/articles/4896329-nevydymi-pastky-kupannia-odrazu-za-zlyvoui)<br>
+14:34 [Спека в Греції: влада призупинила доставку й роботу на вулиці](https://ua.korrespondent.net/world/4896333-speka-v-hretsii-vlada-pryzupynyla-dostavku-y-robotu-na-vulytsi)<br>
 13:54 [Європа розпочала секретну ракетну програму - ЗМІ](https://ua.korrespondent.net/world/4896320-yevropa-rozpochala-sekretnu-raketnu-prohramu-zmi)<br>
 13:46 [Атака РФ на Київ: екологи виявили нові витоки нафти в озеро](https://ua.korrespondent.net/city/kiev/4896316-ataka-rf-na-kyiv-ekolohy-vyiavyly-novi-vytoky-nafty-v-ozero)<br>
 13:33 [РФ пошкодила енергооб’єкт: Чернігівщина частково без світла](https://ua.korrespondent.net/ukraine/4896309-rf-poshkodyla-enerhoobiekt-chernihivschyna-chastkovo-bez-svitla)<br>
@@ -68,6 +70,12 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:51 [Una IA revela que los cambios climáticos impulsaron grandes saltos en la evolución de las aves](https://www.elperiodico.com/es/tendencias21/20260722/ia-revela-cambios-climaticos-impulsaron-132700664)<br>
+14:43 [Notaria sobre las herencias: "Muchos matrimonios sin hijos creen que, si uno fallece, el otro heredará automáticamente toda la vivienda que ambos compraron"](https://www.elperiodico.com/es/economia/20260722/notaria-herencias-matrimonios-sin-hijos-vivienda-dv-132697159)<br>
+14:38 [Inditex financiará la apertura de rutas aéreas de A Coruña a Lisboa, París, Londres y Estambul](https://www.elperiodico.com/es/economia/20260722/inditex-financiara-apertura-rutas-aereas-aeropuerto-a-coruna-132700118)<br>
+14:34 [¿Cuándo entra en vigor la ley antitabaco ¿Se podrá fumar este verano en las terrazas?](https://www.elperiodico.com/es/videos/sociedad/entra-vigor-ley-antitabaco-podra-video/132699759.shtml)<br>
+14:10 [El precio del euríbor hoy, 22 de julio: alivio en el mercado de las hipotecas](https://www.elperiodico.com/es/economia/20260722/precio-euribor-hoy-22-julio-dv-132698170)<br>
+14:03 [Irán despide a los 32 niños fallecidos en el bombardeo a la escuela de Minab](https://www.elperiodico.com/es/videos/internacional/iran-despide-ninos-fallecidos-bombardeo-escuela-minab/132697909.shtml)<br>
 14:00 [La movilidad durante el día del eclipse podría multiplicarse por dos hasta sumar hasta 1,5 millones de viajes internos en España](https://www.elperiodico.com/es/sociedad/20260722/movilidad-dia-eclipse-multiplicarse-millones-viajes-internos-calculos-132697275)<br>
 14:00 [Ataque con drones de Ucrania a centro logísticos rusos](https://www.elperiodico.com/es/videos/internacional/ataque-drones-ucrania-centro-logisticos-rusos/132697757.shtml)<br>
 13:54 [La Comisión Europea pide una revisión del Impuesto sobre el Patrimonio en España](https://www.elperiodico.com/es/economia/20260722/comision-europea-pide-revision-impuesto-132697611)<br>
