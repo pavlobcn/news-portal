@@ -54,6 +54,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Знову таємні зустрічі. Перемовини щодо війни",
+    "link": "https://ua.korrespondent.net/ukraine/4896162-znovu-taiemni-zustrichi-peremovyny-schodo-viiny",
+    "pubDate": "2026-07-21 22:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504837.jpg\">Президент Азербайджану Ільхам Алієв заявив, що цього місяця у Баку відбулася зустріч колишніх високопосадовців Німеччини та Росії.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
     "title": "Зеленський запропонував Федорову посаду",
     "link": "https://ua.korrespondent.net/ukraine/4896144-zelenskyi-zaproponuvav-fedorovu-posadu",
     "pubDate": "2026-07-21 22:26:00",
@@ -88,6 +97,15 @@
     "description": "<h2>Drapati dirigía las Fuerzas Conjuntas del Ejército ucraniano</h2>",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-21 21:59:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Trump se ofrece a hablar con Hezbolá en la primera visita de un presidente de Líbano a la Casa Blanca en 17 años",
@@ -324,6 +342,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-21 20:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Софія схвалила розміщення літаків і військових США",
     "link": "https://ua.korrespondent.net/world/4896124-sofiia-skhvalyla-rozmischennia-litakiv-i-viiskovykh-ssha",
     "pubDate": "2026-07-21 20:07:00",
@@ -428,6 +455,15 @@
     "pubDate": "2026-07-21 19:42:15",
     "category": "Baloncesto",
     "description": "La segunda edición arranca el 25 de septiembre con 14 equipos divididos en dos grupos, un formato de ascensos y descensos, y una Fase Final en mayo de 2027.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Як ФОП оптимізувати витрати в умовах фіскалізації",
+    "link": "https://ua.korrespondent.net/business/financial/4889388-yak-fop-optymizuvaty-vytraty-v-umovakh-fiskalizatsii",
+    "pubDate": "2026-07-21 19:40:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4471272.png\">\r\n\r\n\r\nРеєстрація розрахункових операцій для малого та мікробізнесу в Україні остаточно переходить в онлайн.",
     "topic": "",
     "topic_match_probability": 0
   },
