@@ -1,8 +1,17 @@
-# News for 2026-07-22 16:20
+# News for 2026-07-22 17:02
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+16:55 [РФ тисне на чотирьох напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4896385-rf-tysne-na-chotyrokh-napriamkakh-henshtab)<br>
+16:51 [Китай створив надтонкі сонячні панелі для космосу й одягу](https://ua.korrespondent.net/tech/technews/4896383-kytai-stvoryv-nadtonki-soniachni-paneli-dlia-kosmosu-y-odiahu)<br>
+16:42 [Обстріл Харківщини: дитина та чоловік опинилися в лікарні](https://ua.korrespondent.net/ukraine/4896381-obstril-kharkivschyny-dytyna-ta-cholovik-opynylysia-v-likarni)<br>
+16:38 [Росіяни вдарили по Запорізькому району, під завалами люди](https://ua.korrespondent.net/ukraine/4896379-rosiiany-vdaryly-po-zaporizkomu-raionu-pid-zavalamy-luidy)<br>
+16:33 [У Роттердамі зіткнулися два трамваї: 15 постраждалих](https://ua.korrespondent.net/world/4896377-u-rotterdami-zitknulysia-dva-tramvai-15-postrazhdalykh)<br>
+16:27 [Почаївську лавру визнали пов'язаною з РПЦ](https://ua.korrespondent.net/ukraine/4896371-pochaivsku-lavru-vyznaly-poviazanoui-z-rpts)<br>
+16:24 [DeepState повідомив про нові просування окупантів](https://ua.korrespondent.net/ukraine/4896374-DeepState-povidomyv-pro-novi-prosuvannia-okupantiv)<br>
+16:20 [П’ятдесят енергетиків отримають по 200 тис грн премії від уряду](https://ua.korrespondent.net/ukraine/4896372-piatdesiat-enerhetykiv-otrymauit-po-200-tys-hrn-premii-vid-uriadu)<br>
+16:17 [Суд взяв під варту водія, який у ДТП на Львівщині вбив трьох дівчат](https://ua.korrespondent.net/ukraine/4896369-sud-vziav-pid-vartu-vodiia-yakyi-u-dtp-na-lvivschyni-vbyv-trokh-divchat)<br>
 16:06 [США атакуватимуть Іран за кожен напад у Ормузькій протоці - Трамп](https://ua.korrespondent.net/world/4896366-ssha-atakuvatymut-iran-za-kozhen-napad-u-ormuzkii-prototsi-tramp)<br>
 16:06 [США атакуватимуть Іран за кожен напад в Ормузькій протоці - Трамп](https://ua.korrespondent.net/world/4896366-ssha-atakuvatymut-iran-za-kozhen-napad-v-ormuzkii-prototsi-tramp)<br>
 16:00 [Розширення ядерного клубу: чи почнеться велика війна США з Іраном](https://ua.korrespondent.net/articles/4896365-rozshyrennia-yadernoho-klubu-chy-pochnetsia-velyka-viina-ssha-z-iranom)<br>
@@ -80,6 +89,7 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 00:36 [Генерал США: F-16 України вперше збив винищувач РФ](https://ua.korrespondent.net/world/worldabus/4896153-heneral-ssha-F-16-ukrainy-vpershe-zbyv-vynyschuvach-rf)<br>
 
 ## as.com
+16:46 [Muere ahogada Fabiola Mbulito, promesa del baloncesto canario](https://as.com/baloncesto/mas_baloncesto/muere-ahogada-fabiola-mbulito-promesa-del-baloncesto-canario-f202607-n/)<br>
 12:57 [Candina: “Ha sido el momento más crítico de nuestra historia”](https://as.com/baloncesto/candina-ha-sido-el-momento-mas-critico-de-nuestra-historia-f202607-n/)<br>
 12:13 [Una lista de muchos quilates y mucho futuro: Mara, Aldama, Hugo…](https://as.com/baloncesto/mas_baloncesto/una-lista-de-muchos-quilates-y-mucho-futuro-mara-aldama-hugo-f202607-n/)<br>
 12:10 [Mikael Jantunen, un ala-pívot aguerrido para el nuevo Real Madrid](https://as.com/baloncesto/acb/mikael-jantunen-un-ala-pivot-aguerrido-para-el-nuevo-real-madrid-f202607-n/)<br>
@@ -88,6 +98,11 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:54 [La casa real británica celebra el 13 cumpleaños del príncipe George con una nueva fotografía](https://www.elperiodico.com/es/gente/20260722/casa-real-britanica-celebra-13-132703658)<br>
+16:47 ['La odisea' se convierte en el estreno más taquillero de Nolan, con 264 millones de dólares](https://www.elperiodico.com/es/videos/ocio-y-cultura/odisea-convierte-estreno-taquillero-nolan-video/132704686.shtml)<br>
+16:39 [Muere un trabajador en un accidente en los talleres de Renfe en Villaverde (Madrid)](https://www.elperiodico.com/es/sucesos/20260722/muere-trabajador-accidente-talleres-renfe-villaverde-madrid-132704451)<br>
+16:36 [Detenido el presunto autor de tres incendios forestales en El Prat de Llobregat](https://www.elperiodico.com/es/barcelona/20260722/detenido-presunto-autor-tres-incendios-prat-de-llobregat-forestales-el-prat-de-llobregat-132702847)<br>
+16:32 [El condenado por matar y descuartizar a su casero en Barcelona se escapa en su primera salida programada de la cárcel](https://www.elperiodico.com/es/sucesos/20260722/condenado-matar-descuartizar-casero-barcelona-escapa-prision-quatre-camins-132703970)<br>
 16:11 [El nuevo Freelander 8 ya está en los concesionarios chinos y hay fotos de su interior](https://www.elperiodico.com/es/motor/20260722/nuevo-freelander-8-concesionarios-chinos-132685921)<br>
 16:08 [La Comisión Europea recibe la demanda de Puigdemont: ¿Qué puede pasar a partir de ahora?](https://www.elperiodico.com/es/politica/20260722/comision-europea-recibe-demanda-puigdemont-que-pasa-132702685)<br>
 16:06 [Llega una nueva ola de calor a España y va a batir récords históricos con temperaturas de hasta 45 grados](https://www.elperiodico.com/es/videos/sociedad/llega-nueva-ola-calor-espana/132703228.shtml)<br>
