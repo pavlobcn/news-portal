@@ -1,8 +1,10 @@
-# News for 2026-07-22 22:08
+# News for 2026-07-22 23:23
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+23:20 [Росіяни атакували дві АЗС у Сумах](https://ua.korrespondent.net/ukraine/4896454-rosiiany-atakuvaly-dvi-azs-u-sumakh)<br>
+22:49 [У Запоріжжі після атаки палає підприємство](https://ua.korrespondent.net/city/zaporozhye/4896450-u-zaporizhzhi-pislia-ataky-palaie-pidpryiemstvo)<br>
 21:30 [У Вірменії розкопали гробницю бронзової доби](https://ua.korrespondent.net/tech/science/4896439-u-virmenii-rozkopaly-hrobnytsui-bronzovoi-doby)<br>
 20:16 [РФ двічі за день атакувала АЗС у Харкові: наслідки](https://ua.korrespondent.net/city/kharkov/4896428-rf-dvichi-za-den-atakuvala-azs-u-kharkovi-naslidky)<br>
 19:31 [Більш як 5,3 тисячі жертв землетрусів: у Венесуелі збирають ДНК](https://ua.korrespondent.net/world/4896421-bilsh-yak-53-tysiachi-zhertv-zemletrusiv-u-venesueli-zbyrauit-dnk)<br>
@@ -117,6 +119,8 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:00 [Ignacio Solsona, abogado, sobre la jubilación parcial:  "En la mayoría de casos es económicamente más rentable que la anticipada"](https://www.elperiodico.com/es/economia/20260722/ignacio-solsona-abogado-aumento-pension-cotizado-dv-et-132633425)<br>
+22:09 ["Te tienes que buscar la vida": El socavón en Montcada obliga a los usuarios del tren a buscar alternativas](https://www.elperiodico.com/es/sociedad/20260722/tienes-buscar-vida-socavon-montcada-obliga-usuarios-tren-buscar-alternativas-132714338)<br>
 21:11 [Asesinan al periodista Francisco Alejandro en el sur de México](https://www.elperiodico.com/es/internacional/20260722/asesinan-periodista-francisco-alejandro-sur-132713611)<br>
 20:43 [El incendio de Almorox (Toledo) salta a Madrid y obliga a evacuar varias urbanizaciones y confinar Villa del Prado](https://www.elperiodico.com/es/sociedad/20260722/incendio-pinar-almorox-toledo-obliga-desalojar-viviendas-bomberos-madrid-132713098)<br>
 20:30 [El incendio de El Cerro del Andévalo (Huelva) obliga a activar Es-Alert: desalojan a 380 vecinos de Villanueva de las Cruces](https://www.elperiodico.com/es/sociedad/20260722/activada-fase-emergencia-incendio-forestal-132712821)<br>
