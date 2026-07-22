@@ -1,8 +1,19 @@
-# News for 2026-07-22 11:05
+# News for 2026-07-22 12:01
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+11:56 [Танкери з саудівською нафтою розвернулися через погрози хуситів](https://ua.korrespondent.net/world/4896270-tankery-z-saudivskoui-naftoui-rozvernulysia-cherez-pohrozy-khusytiv)<br>
+11:44 [ЗМІ назвали втрати США у війні проти Ірану](https://ua.korrespondent.net/world/4896267-zmi-nazvaly-vtraty-ssha-u-viini-proty-iranu)<br>
+11:37 [ЄС послабив санкційний пакет проти РФ - ЗМІ](https://ua.korrespondent.net/world/4896265-yes-poslabyv-sanktsiinyi-paket-proty-rf-zmi)<br>
+11:36 [ВМС Болгарії знищили дрон, який дрейфував у Чорному морі](https://ua.korrespondent.net/world/4896266-vms-bolharii-znyschyly-dron-yakyi-dreifuvav-u-chornomu-mori)<br>
+11:30 [SpaceX зробила крок до ремонту супутників прямо на орбіті](https://ua.korrespondent.net/tech/space/4896263-SpaceX-zrobyla-krok-do-remontu-suputnykiv-priamo-na-orbiti)<br>
+11:24 [Україна відреагувала на таємну зустріч у Баку](https://ua.korrespondent.net/ukraine/4896255-ukraina-vidreahuvala-na-taiemnu-zustrich-u-baku)<br>
+11:23 [Киргизія збудує міні-НПЗ, аби зменшити залежність від РФ](https://ua.korrespondent.net/business/economics/4896258-kyrhyziia-zbuduie-mini-npz-aby-zmenshyty-zalezhnist-vid-rf)<br>
+11:22 [Орнелла Муті захотіла отримати громадянство РФ: акторка подала документи](https://ua.korrespondent.net/lifestyle/4896260-ornella-muti-zakhotila-otrymaty-hromadianstvo-rf-aktorka-podala-dokumenty)<br>
+11:16 [Індія скуповує рекордні обсяги російської нафти](https://ua.korrespondent.net/business/economics/4896253-indiia-skupovuie-rekordni-obsiahy-rosiiskoi-nafty)<br>
+11:05 [Начальника відділу університету ДСНС підозрюють у розтраті техніки](https://ua.korrespondent.net/ukraine/4896249-nachalnyka-viddilu-universytetu-dsns-pidozruiuit-u-roztrati-tekhniky)<br>
+11:01 [Росіяни вдарили дронами по мікроавтобусу у Херсоні](https://ua.korrespondent.net/ukraine/4896251-rosiiany-vdaryly-dronamy-po-mikroavtobusu-u-khersoni)<br>
 10:51 [У Варшаві стався збій під час тестування системи повітряної тривоги](https://ua.korrespondent.net/world/4896245-u-varshavi-stavsia-zbii-pid-chas-testuvannia-systemy-povitrianoi-tryvohy)<br>
 10:31 [У Чернігові внаслідок влучання дрона загорівся склад, є постраждалий](https://ua.korrespondent.net/ukraine/4896235-u-chernihovi-vnaslidok-vluchannia-drona-zahorivsia-sklad-ye-postrazhdalyi)<br>
 10:23 [Свята 22 липня 2026 року: іменини, прикмети](https://ua.korrespondent.net/lifestyle/4896233-sviata-22-lypnia-2026-roku-imenyny-prykmety)<br>
@@ -30,10 +41,22 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 00:54 [Федоров зробив заяву про призначення Драпатого головкомом](https://ua.korrespondent.net/ukraine/4896155-fedorov-zrobyv-zaiavu-pro-pryznachennia-drapatoho-holovkomom)<br>
 00:36 [Генерал США: F-16 України вперше збив винищувач РФ](https://ua.korrespondent.net/world/worldabus/4896153-heneral-ssha-F-16-ukrainy-vpershe-zbyv-vynyschuvach-rf)<br>
 
+## as.com
+11:05 [Oficial: Sekulic, nuevo entrenador del Barça](https://as.com/baloncesto/oficial-sekulic-nuevo-entrenador-del-barca-f202607-n/)<br>
+08:38 [El Madrid necesita talento](https://as.com/baloncesto/euroliga/el-madrid-necesita-talento-f202607-n/)<br>
+08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
+
 ## www.elperiodico.com
+11:55 [El secretismo y los curiosos marcan el primer día de rodaje de 'Enredados' en Girona](https://www.elperiodico.com/es/ocio-y-cultura/20260722/secretismo-curiosos-marcan-primer-dia-132687978)<br>
+11:54 [David Jiménez, experto sobre las clausulas importantes en un testamento: "Hay dos que casi nadie conoce y que te ahorran muchos problemas"](https://www.elperiodico.com/es/economia/20260722/david-jimenez-experto-clausulas-importantes-testamento-dv-132689328)<br>
+11:54 [Woman agosto llega con los bolsos del verano diseñados junto a Rocío Osorno](https://www.elperiodico.com/es/vida-y-estilo/20260722/woman-agosto-llega-bolsos-verano-132691865)<br>
+11:40 [Axel, que vive solo en un palacio en la naturaleza por solo 150 euros al mes: "Con los precios de España es una locura"](https://www.elperiodico.com/es/economia/20260722/asturias-vivienda-palacio-aislado-axel-dv-et-132337212)<br>
+11:38 [Rodri, objetivo del Real Madrid](https://www.elperiodico.com/es/videos/deportes/rodri-objetivo-real-madrid/132691132.shtml)<br>
+11:26 [Daniel Siad, el conseguidor de mujeres de Epstein en Barcelona, hallado muerto cerca de París](https://www.elperiodico.com/es/internacional/20260722/muere-daniel-siad-conseguidor-mujeres-jeffrey-epstein-132689914)<br>
 11:04 [La casa natal de Hitler en Austria reabre como comisaria](https://www.elperiodico.com/es/internacional/20260722/casa-natal-hitler-austria-reabre-comisaria-132689410)<br>
 10:57 [La fiebre perica, por Sergi Mas](https://www.elperiodico.com/es/deportes/20260722/fiebre-perica-opinion-sergi-mas-132688963)<br>
 10:55 [El clima entra en la reserva hotelera: las olas de calor alteran el turismo en España](https://www.elperiodico.com/es/tendencias21/20260722/clima-entra-reserva-hotelera-olas-132689140)<br>
+10:49 [Zelenski cesa al jefe del Ejército y lo reemplaza por el general Mijailo Drapati](https://www.elperiodico.com/es/videos/internacional/zelenski-cesa-jefe-ejercito-reemplaza/132688674.shtml)<br>
 10:14 [Chile mantiene la alerta por lluvias tras el desborde de una quebrada en Coquimbo](https://www.elperiodico.com/es/videos/internacional/chile-mantiene-alerta-lluvias-desborde/132685463.shtml)<br>
 09:34 [Naturgy acelera su crecimiento y apunta a un beneficio récord de más de 2.100 millones este año](https://www.elperiodico.com/es/economia/20260722/naturgy-acelera-crecimiento-beneficio-record-2100-millones-132686684)<br>
 09:11 [Muere Josep Vallverdú, referente de la literatura catalana, a los 103 años](https://www.elperiodico.com/es/videos/gente/muere-josep-vallverdu-referente-literatura/132686186.shtml)<br>
