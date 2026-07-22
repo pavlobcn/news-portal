@@ -1,8 +1,12 @@
-# News for 2026-07-22 18:41
+# News for 2026-07-22 19:26
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+19:15 [Samsung представлиа нове покоління складаних смартфонів з новою моделлю](https://ua.korrespondent.net/lifestyle/gadgets/4896419-Samsung-predstavlya-nove-pokolinnia-skladanykh-smartfoniv-z-novoui-modellui)<br>
+19:12 [З'явилися супутникові знімки пожеж на складах Wildberries у РФ](https://ua.korrespondent.net/world/russia/4896417-ziavylysia-suputnykovi-znimky-pozhezh-na-skladakh-Wildberries-u-rf)<br>
+19:10 [Samsung Galaxy Fold 8 – розкладний смартфон нової ери](https://ua.korrespondent.net/lifestyle/gadgets/4896407-Samsung-Galaxy-Fold-8-rozkladnyi-smartfon-novoi-ery)<br>
+19:03 [Під Одесою тліють 8 га очерету й трави](https://ua.korrespondent.net/city/odessa/4896415-pid-odesoui-tliuit-8-ha-ocheretu-y-travy)<br>
 18:17 [Синоптики розповіли, чому в Україні виникає дедалі більше смерчів](https://ua.korrespondent.net/ukraine/4896405-synoptyky-rozpovily-chomu-v-ukraini-vynykaie-dedali-bilshe-smerchiv)<br>
 18:04 [У Львові викрили наркогрупу, що збувала наркотики військовим](https://ua.korrespondent.net/city/lvov/4896402-u-lvovi-vykryly-narkohrupu-scho-zbuvala-narkotyky-viiskovym)<br>
 17:11 [Передавав РФ координати військових: у Слов’янську винесли вирок зраднику](https://ua.korrespondent.net/ukraine/4896389-peredavav-rf-koordynaty-viiskovykh-u-sloviansku-vynesly-vyrok-zradnyku)<br>
@@ -106,6 +110,14 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:21 [La CNMV autoriza la OPA de exclusión de cotización de Ercros](https://www.elperiodico.com/es/economia/20260722/cnmv-autoriza-opa-exclusion-cotizacion-132711215)<br>
+19:16 [Dos urbanizaciones confinadas por un incendio en Cervelló, Barcelona](https://www.elperiodico.com/es/videos/sucesos/dos-urbanizaciones-confinadas-incendio-cervello/132711030.shtml)<br>
+19:12 [Rusia destruye más de 1,5 millones de libros en ataques a Ucrania y los ciudadanos responden con compras masivas](https://www.elperiodico.com/es/ocio-y-cultura/20260722/rusia-destruye-1-5-millones-132710438)<br>
+19:07 [Revolut roza los 100.000 millones de euros de valoración y se afianza como la start-up más valiosa de Europa](https://www.elperiodico.com/es/economia/20260722/revolut-alcanza-valoracion-110-000-132710648)<br>
+19:06 [Un derrumbe en las obras de soterramiento de Rodalies en Montcada se lleva una grúa por delante](https://www.elperiodico.com/es/sociedad/20260722/derrumbe-obras-soterramiento-rodalies-montcada-obliga-cortar-r2-r2nord-r11-132709752)<br>
+19:01 [Roma transforma sus cines en refugios climáticos contra la ola de calor](https://www.elperiodico.com/es/ocio-y-cultura/20260722/roma-transforma-cines-refugios-climaticos-132710137)<br>
+18:51 [La Policía Nacional detona un artefacto explosivo en una playa de Ceuta](https://www.elperiodico.com/es/sucesos/20260722/policia-nacional-detona-artefacto-explosivo-132710079)<br>
+18:50 [La retirada del amianto en Badia encara su inicio tras adjudicarse los últimos 25 bloques](https://www.elperiodico.com/es/barcelona/20260722/retirada-amianto-encara-inicio-badia-del-valles-ayuntamiento-septiembre-obras-132709789)<br>
 18:39 [Adiós a Josep Vallverdú, la voz de la literatura infantil catalana que conquistó a generaciones](https://www.elperiodico.com/es/ocio-y-cultura/20260722/adios-josep-vallverdu-voz-literatura-132709286)<br>
 18:37 [Merlin invertirá 1.225 millones en un centro de datos de Botorrita con la energía renovable de Forestalia](https://www.elperiodico.com/es/economia/20260722/merlin-invertira-1-225-millones-132709500)<br>
 18:35 [La ola de calor deja máximas de 44,3 grados en Granada y vuelve a activar avisos de color rojo en Catalunya, Murcia, Alicante y Valencia](https://www.elperiodico.com/es/sociedad/20260722/ola-calor-maximas-miercoles-prevision-jueves-aviso-rojo-132708962)<br>
