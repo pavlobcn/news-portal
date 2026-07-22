@@ -1,5 +1,122 @@
 [
   {
+    "title": "Directo guerra Ucrania - Rusia, última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-07-22 05:44:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-07-22 05:40:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo: última hora del fuego en La Mierla (Guadalajara), que arrasa ya más de 29.000 hectáreas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260722/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-07-22 05:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260710/muertos-incendio-almeria-los-gallardos-132310835\">Mueren al menos 13 personas en el incendio forestal de Los Gallardos (Almería)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/personas-confinadas-incendios-cataluna-bomberos-alertan-algunas-no-hacen-caso-132292635\">Más de 84.000 personas han tenido que confinarse por incendios en Catalunya en menos de una semana: \"Algunas no hacen caso y deciden huir por su cuenta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resuelto el crimen del gas pimienta: un marido celoso mató al ingeniero y luego se suicidó",
+    "link": "https://www.elperiodico.com/es/sucesos/20260722/marido-celoso-asesino-gas-pimienta-132683609",
+    "pubDate": "2026-07-22 05:00:47",
+    "category": "",
+    "description": "<h2>El hombre sospechaba que su esposa, que quería separarse de él, tenía una relación con el ingeniero, al que ella había conocido en un gimnasio en Las Tablas (Madrid)</h2><h2>El 14 de julio, tras matar al supuesto amante de su mujer, el asesino huyó en coche. Condujo hasta La Adrada (Ávila), pasó unas horas con su esposa y luego se tiró por un barranco</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "La administración de Donald Trump blinda a Delcy Rodríguez frente a una millonaria demanda judicial en EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260722/administracion-donald-trump-blinda-delcy-132683541",
+    "pubDate": "2026-07-22 04:59:08",
+    "category": "",
+    "description": "<h2>Un Tribunal de La Florida quiere que pague 314 millones de dólares para resarcir a tres ciudadanos norteamericanos que habían sido arrestados cuando gobernaba Maduro</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Сенат США просунув розгляд проєкту закона про підтримку України",
+    "link": "https://ua.korrespondent.net/world/worldabus/4896176-senat-ssha-prosunuv-rozghliad-proiektu-zakona-pro-pidtrymku-ukrainy",
+    "pubDate": "2026-07-22 04:57:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505015.jpg\">Документ подав до Палати представників демократ Грегорі Мікс з Нью-Йорка ще 14 квітня 2025 року.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "'La era de las revoluciones', de Fareed Zakaria: un enfoque liberal",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260722/fareed-zakaria-critica-libro-era-revoluciones-132397247",
+    "pubDate": "2026-07-22 04:50:08",
+    "category": "",
+    "description": "<h2>El autor reabre el viejo debate sobre los límites ideológicos en este ensayo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Julia sobrevivió a una muerte súbita con 19 años y ahora lucha por recuperar su vida tras un daño cerebral",
+    "link": "https://www.elperiodico.com/es/salud/20260722/julia-sobrevivio-muerte-subita-19-anos-dano-cerebral-adquirido-132683446",
+    "pubDate": "2026-07-22 04:50:08",
+    "category": "",
+    "description": "<h2>La joven murciana de 19 años sufrió una parada cardiorrespiratoria que le provocó un daño cerebral adquirido, necesitando terapias intensivas para su recuperación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La posdemocracia, a diagnóstico",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260722/posdemocracia-diagnostico-132399956",
+    "pubDate": "2026-07-22 04:50:07",
+    "category": "",
+    "description": "<h2>En ‘Los límites de la democracia’, el físico e inmunólogo Eduardo López-Collazo y el neurólogo José Castillo leen los sistemas políticos con la lógica de los sistemas vivos </h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Mis veranos con Rohmer",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260722/veranos-rohmer-132466650",
+    "pubDate": "2026-07-22 04:50:07",
+    "category": "",
+    "description": "<h2>Tras ‘Cuatro aventuras de Reinette y Mirabelle’, me esperan ‘Las noches de la luna llena’ y ‘Bajo el signo de leo’</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Геґсет назвав точну вартість війни США з Іраном",
+    "link": "https://ua.korrespondent.net/world/4896174-hegset-nazvav-tochnu-vartist-viiny-ssha-z-iranom",
+    "pubDate": "2026-07-22 04:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504995.jpg\">Конгрес США скаржиться на закритість Білого дому, тому сенатори побоюються початку \"нескінченної війни\".",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Атаковано важливий центр Wildberries в РФ - OSINT",
+    "link": "https://ua.korrespondent.net/world/russia/4896172-atakovano-vazhlyvyi-tsentr-Wildberries-v-rf-OSINT",
+    "pubDate": "2026-07-22 03:48:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504937.jpeg\">OSINT-канал world.militares встановив координати логістичного центру російського маркетплейсу в Краснодарі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські дрони Magura вироблятимуть у США - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4896170-ukrainski-drony-Magura-vyrobliatymut-u-ssha-zmi",
+    "pubDate": "2026-07-22 03:24:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504917.jpg\">Мета угоди двох країн - виробляти сотні або й тисячі дронів щороку на потужностях в Орегоні та Південній Кароліні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Польща домагається розміщення центру управління паливопроводами НАТО",
     "link": "https://ua.korrespondent.net/world/4896168-polscha-domahaietsia-rozmischennia-tsentru-upravlinnia-palyvoprovodamy-nato",
     "pubDate": "2026-07-22 02:57:00",
