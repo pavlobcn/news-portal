@@ -1,8 +1,26 @@
-# News for 2026-07-22 14:52
+# News for 2026-07-22 16:20
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+16:06 [США атакуватимуть Іран за кожен напад у Ормузькій протоці - Трамп](https://ua.korrespondent.net/world/4896366-ssha-atakuvatymut-iran-za-kozhen-napad-u-ormuzkii-prototsi-tramp)<br>
+16:06 [США атакуватимуть Іран за кожен напад в Ормузькій протоці - Трамп](https://ua.korrespondent.net/world/4896366-ssha-atakuvatymut-iran-za-kozhen-napad-v-ormuzkii-prototsi-tramp)<br>
+16:00 [Розширення ядерного клубу: чи почнеться велика війна США з Іраном](https://ua.korrespondent.net/articles/4896365-rozshyrennia-yadernoho-klubu-chy-pochnetsia-velyka-viina-ssha-z-iranom)<br>
+15:59 [Дим над Запоріжжям: РФ вдарила по харчовому підприємству](https://ua.korrespondent.net/city/zaporozhye/4896363-dym-nad-zaporizhzhiam-rf-vdaryla-po-kharchovomu-pidpryiemstvu)<br>
+15:55 [Обшуки у штаб-квартирі Deutsche Bank: що розслідує прокуратура](https://ua.korrespondent.net/business/companies/4896358-obshuky-u-shtab-kvartyri-Deutsche-Bank-scho-rozsliduie-prokuratura)<br>
+15:52 [РФ вдарила по іноземному судну у Чорному морі, моряків евакуйовано](https://ua.korrespondent.net/ukraine/4896361-rf-vdaryla-po-inozemnomu-sudnu-u-chornomu-mori-moriakiv-evakuiovano)<br>
+15:48 [Рубіо попередив про "небезпечний" прецедент вимог Ірану](https://ua.korrespondent.net/world/4896357-rubio-poperedyv-pro-nebezpechnyi-pretsedent-vymoh-iranu)<br>
+15:40 [Акордбанк оголосив про партнерство з футбольним клубом Полісся](https://ua.korrespondent.net/business/4895821-akordbank-oholosyv-pro-partnerstvo-z-futbolnym-klubom-polissia)<br>
+15:39 [Maersk припиняє роботу в українському порту](https://ua.korrespondent.net/business/companies/4896355-Maersk-prypyniaie-robotu-v-ukrainskomu-portu)<br>
+15:35 [Хмара розкрив деталі першої розмови з Драпатим](https://ua.korrespondent.net/ukraine/4896353-khmara-rozkryv-detali-pershoi-rozmovy-z-drapatym)<br>
+15:29 [Викрито схему виготовлення підроблених документів України та ЄС](https://ua.korrespondent.net/ukraine/4896351-vykryto-skhemu-vyhotovlennia-pidroblenykh-dokumentiv-ukrainy-ta-yes)<br>
+15:21 [Україна вироблятиме британські гармати Light Gun за ліцензією BAE](https://ua.korrespondent.net/business/4896349-ukraina-vyrobliatyme-brytanski-harmaty-Light-Gun-za-litsenziieui-BAE)<br>
+15:11 [Звільнення Сирського: скільки українців підтримали це рішення](https://ua.korrespondent.net/ukraine/4896347-zvilnennia-syrskoho-skilky-ukraintsiv-pidtrymaly-tse-rishennia)<br>
+15:05 [РФ вдарила по Слов'янську: є поранені, пошкоджений навчальний заклад](https://ua.korrespondent.net/ukraine/4896345-rf-vdaryla-po-sloviansku-ye-poraneni-poshkodzhenyi-navchalnyi-zaklad)<br>
+14:59 [Трамп схвалив ядерну угоду з Саудівською Аравією - ЗМІ](https://ua.korrespondent.net/world/4896343-tramp-skhvalyv-yadernu-uhodu-z-saudivskoui-araviieui-zmi)<br>
+14:52 [Біля берегів Норвегії помітили ймовірні уламки російської ракети](https://ua.korrespondent.net/world/4896341-bilia-berehiv-norvehii-pomityly-ymovirni-ulamky-rosiiskoi-rakety)<br>
+14:50 [Дезертир і студентка готували диверсію на залізниці](https://ua.korrespondent.net/ukraine/4896337-dezertyr-i-studentka-hotuvaly-dyversiui-na-zaliznytsi)<br>
+14:49 [Удар по Одесі: є жертва та двоє постраждалих](https://ua.korrespondent.net/ukraine/4896339-udar-po-odesi-ye-zhertva-ta-dvoie-postrazhdalykh)<br>
 14:35 [Невидимі пастки купання одразу за зливою](https://ua.korrespondent.net/articles/4896329-nevydymi-pastky-kupannia-odrazu-za-zlyvoui)<br>
 14:34 [Спека в Греції: влада призупинила доставку й роботу на вулиці](https://ua.korrespondent.net/world/4896333-speka-v-hretsii-vlada-pryzupynyla-dostavku-y-robotu-na-vulytsi)<br>
 13:54 [Європа розпочала секретну ракетну програму - ЗМІ](https://ua.korrespondent.net/world/4896320-yevropa-rozpochala-sekretnu-raketnu-prohramu-zmi)<br>
@@ -70,6 +88,23 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 08:31 [Hezonja también espera a LeBron](https://as.com/baloncesto/acb/hezonja-tambien-espera-a-lebron-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:11 [El nuevo Freelander 8 ya está en los concesionarios chinos y hay fotos de su interior](https://www.elperiodico.com/es/motor/20260722/nuevo-freelander-8-concesionarios-chinos-132685921)<br>
+16:08 [La Comisión Europea recibe la demanda de Puigdemont: ¿Qué puede pasar a partir de ahora?](https://www.elperiodico.com/es/politica/20260722/comision-europea-recibe-demanda-puigdemont-que-pasa-132702685)<br>
+16:06 [Llega una nueva ola de calor a España y va a batir récords históricos con temperaturas de hasta 45 grados](https://www.elperiodico.com/es/videos/sociedad/llega-nueva-ola-calor-espana/132703228.shtml)<br>
+16:05 [Ángel, socorrista de playa, sobre cómo actuar ante un ahogamiento: "Llegaría corriendo, agarro mi material y señalizo"](https://www.elperiodico.com/es/sociedad/20260722/socorrista-playa-actuacion-ahogamiento-playas-dv-et-132221967)<br>
+16:04 [Arranca la demolición del 'mercado fantasma' de Sabadell tres años después del anuncio de su transformación](https://www.elperiodico.com/es/barcelona/20260722/arranca-demolicion-mercado-fantasma-sabadell-campoamor-s-132702695)<br>
+16:03 [Ana Redondo pide "la unión y fuerza de toda España" frente a la "ola de terrorismo machista"](https://www.elperiodico.com/es/politica/20260722/ana-redondo-pide-union-fuerza-132703077)<br>
+15:58 [Bertín Osborne, entre la afonía y el lujo: concierto privado, proyecto hotelero y nuevo barco](https://www.elperiodico.com/es/videos/podcast/bertin-osborne-afonia-lujo-concierto/132702854.shtml)<br>
+15:44 [Manuel, un hombre que vive en un túnel oculto con comodidades](https://www.elperiodico.com/es/videos/economia/manuel-hombre-vive-tunel-oculto/132702228.shtml)<br>
+15:41 [Trump amenaza con bombardear Teherán si Irán ataca buques en Ormuz](https://www.elperiodico.com/es/internacional/20260722/trump-bombardear-teheran-iran-ataques-barcos-ormuz-132702265)<br>
+15:35 [Cara y cruz de la geopolítica del gas: Naturgy ve riesgo de escasez en la UE por el veto a Rusia, pero España ya está lista para traer más gas de Argelia](https://www.elperiodico.com/es/economia/20260722/cara-cruz-geopolitica-gas-naturgy-132701998)<br>
+15:32 [Los argentinos estallan contra Rosalía: sus fans piden devolver sus entradas para el concierto en Buenos Aires después de la que ha liado en redes](https://www.elperiodico.com/es/gente/20260722/rosalia-argentina-polemica-tiktok-la-perla-mia-khalifa-mundial-2026-dv-132687870)<br>
+15:32 [Incendios en Cervelló este miércoles](https://www.elperiodico.com/es/videos/sociedad/incendios-cervello-miercoles/132701835.shtml)<br>
+15:30 [El capricho de Marcos Llorente que cuesta más de 20.000 euros: "Cada uno se gasta su dinero en lo que quiere"](https://www.elperiodico.com/es/gente/20260722/marcos-llorente-polemica-gasto-vino-capricho-reloj-dv-et-132298966)<br>
+15:26 [El Parlament concluye que la falta de control en la DGAIA dio "margen" para que centros de menores se "lucraran de forma opaca"](https://www.elperiodico.com/es/sociedad/20260722/parlament-reconoce-lucro-opaco-entidades-dgaia-132690999)<br>
+15:16 [OpenAI asegura que su IA se descontroló y atacó de forma autónoma a otra empresa](https://www.elperiodico.com/es/tecnologia/20260722/openai-asegura-ia-descontrolo-ciberataque-seguridad-empresa-chatgpt-hugging-face-132700419)<br>
+15:01 [PSOE y Sumar pactan un decreto de vivienda que amplía la prórroga de alquiler a los contratos de hasta junio de 2028](https://www.elperiodico.com/es/politica/20260722/psoe-sumar-pactan-decreto-vivienda-132700967)<br>
+15:00 [Samsung redobla su apuesta por el formato plegable y la IA con la nueva gama de Galaxy Z](https://www.elperiodico.com/es/economia/20260722/samsung-redobla-apuesta-formato-plegable-132700939)<br>
 14:51 [Una IA revela que los cambios climáticos impulsaron grandes saltos en la evolución de las aves](https://www.elperiodico.com/es/tendencias21/20260722/ia-revela-cambios-climaticos-impulsaron-132700664)<br>
 14:43 [Notaria sobre las herencias: "Muchos matrimonios sin hijos creen que, si uno fallece, el otro heredará automáticamente toda la vivienda que ambos compraron"](https://www.elperiodico.com/es/economia/20260722/notaria-herencias-matrimonios-sin-hijos-vivienda-dv-132697159)<br>
 14:38 [Inditex financiará la apertura de rutas aéreas de A Coruña a Lisboa, París, Londres y Estambul](https://www.elperiodico.com/es/economia/20260722/inditex-financiara-apertura-rutas-aereas-aeropuerto-a-coruna-132700118)<br>
