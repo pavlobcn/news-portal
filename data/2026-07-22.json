@@ -1,10 +1,172 @@
 [
   {
+    "title": "Українців попередили про нову шахрайську схему",
+    "link": "https://ua.korrespondent.net/ukraine/4896183-ukraintsiv-poperedyly-pro-novu-shakhraisku-skhemu",
+    "pubDate": "2026-07-22 06:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505117.jpg\">Зловмисники розсилають громадянам України фейкові виклики на судове засідання у кримінальному провадженні.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Названо втрати армії Росії станом на 22 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4896180-nazvano-vtraty-armii-rosii-stanom-na-22-lypnia",
+    "pubDate": "2026-07-22 06:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505096.jpg\">Минулої доби ЗСУ ліквідували 1330 окупантів. Знищено два танки, чотири бронемашини, 57 артсистем, три РСЗВ, 11 НРК і 1610 дронів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Будзинська принесла Україні медаль Континентального туру",
+    "link": "https://ua.korrespondent.net/sport/4896146-budzynska-prynesla-ukraini-medal-kontynentalnoho-turu",
+    "pubDate": "2026-07-22 06:11:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505098.jpg\">Українська спортсменка поповнила скарбничку національної збірної черговою нагородою, здобувши срібну медаль.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Triunfa Infantino: la FIFA ingresa 9.000 millones de dólares en el Mundial más yanqui",
+    "link": "https://www.elperiodico.com/es/deportes/20260722/triunfa-infantino-fifa-ingresa-9000-millones-132675891",
+    "pubDate": "2026-07-22 06:05:47",
+    "category": "",
+    "description": "<h2 class=\"item\">Todo el mundo está ya en su casa. Los estadounidenses volverán a su béisbol, Donald Trump a lo suyo y Gianni Infantino tiene ya confirmada su reelección como presidente de la FIFA. Y España, la más feliz de todas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260721/10-cosas-recordaremos-mundial-2026-132625147\">Las 10 cosas que recordaremos del Mundial 2026 más allá del gol de Ferran Torres</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Work Your Face, la revolución del 'fitness' facial nacido en Barcelona, abre franquicias: \"Entrenar los músculos de la cara reduce arrugas\"",
+    "link": "https://www.elperiodico.com/es/gente/20260722/work-your-face-fitness-facial-franquicias-entrevista-fundadora-stephanie-marin-entrenar-musculos-cara-reduce-arrugas-132473120",
+    "pubDate": "2026-07-22 06:00:57",
+    "category": "",
+    "description": "<h2>Stephanie Marin fundó en 2022 la primera cadena española de gimnasios para ejercitar el rostro con resultados como los tratamientos estéticos de cabina. Ya busca abrir en nuevas ciudades de España y Europa, tras consolidar su modelo en la capital catalana, Madrid, Andorra y Estoril</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La terapeuta de los Andic pidió a su ayudante buscar rutas para que Jonathan se pusiera en \"situaciones extremas\", \"al borde del precipicio\", como si lo \"fueran a tirar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260722/terapeuta-andic-pidio-ayudante-buscar-rutas-extremas-precipicio-fuera-tirar-132679981",
+    "pubDate": "2026-07-22 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La nueva testigo, colaboradora de la psicoanalista, ha declarado ante los Mossos que buscó el sendero de Collbató para que el acusado llevara hasta allí su terapia y acudió con él dos veces antes de la caída mortal</h2><h2 class=\"item\">La terapeuta ya explicó en su declaración que una ayudante suya buscaba enclaves para “pasear a sus pacientes\" </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Galería Apolo del Louvre, escenario del espectacular robo de joyas en octubre de 2025, reabre hoy al público sin vitrinas ni joyas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260722/galeria-apolo-louvre-escenario-espectacular-132676336",
+    "pubDate": "2026-07-22 06:00:41",
+    "category": "",
+    "description": "<h2>El 19 de octubre de 2025, un comando entró en esta galería utilizando una plataforma elevadora y robó ocho joyas de la corona francesa a plena luz del día. Estas joyas siguen desaparecidas, con un valor estimado de 88 millones de euros</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El BCE pondrá en pausa su política monetaria y mantendrá los tipos con la inflación más contenida",
+    "link": "https://www.elperiodico.com/es/economia/20260722/bce-pondra-pausa-politica-monetaria-132684277",
+    "pubDate": "2026-07-22 06:00:39",
+    "category": "",
+    "description": "<h2>El organismo presidido por Christine Lagarde se dará el verano para volver a evaluar las proyecciones de inflación, aunque los analistas ven muy probable una nueva subida en septiembre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anticorrupción pone el foco en los tres empresarios que vinculan a Zapatero con 'mordidas' por el rescate de Plus Ultra",
+    "link": "https://www.elperiodico.com/es/politica/20260722/anticorrupcion-pone-foco-tres-empresarios-132676253",
+    "pubDate": "2026-07-22 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">'Julito', Martínez Sola y Roselli avisaron a la Fiscalía de su intención de confesar la mediación de Zapatero en el rescate y su testimonio resulta clave en la investigación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260721/sanchez-hermano-david-sentencia-zapatero-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\" target=\"_blank\">Última hora, en directo, de la situación en los tribunales y de las reacciones políticas</a></h2><h2 class=\"item\"><atarget=\"_blank\">El Gobierno refuta la versión de ‘Julito’ Martínez contra Zapatero: “No tenía sentido intermediar en el rescate”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Gobierno refuta la versión de ‘Julito’ Martínez contra Zapatero: “No tenía sentido intermediar en el rescate”",
+    "link": "https://www.elperiodico.com/es/politica/20260722/gobierno-refuta-version-julito-martinez-zapatero-132674659",
+    "pubDate": "2026-07-22 06:00:36",
+    "category": "",
+    "description": "<h2>En el Ejecutivo insisten en limitar el préstamo a la aerolínea en un procedimiento técnico, sin intervención política, cuestionando cualquier mediación por el hecho de que Plus Ultra cumpliría todos los requisitos</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260721/pp-apunta-gobierno-plus-ultra-zapatero-132654156\" target=\"_blank\">El PP apunta al Gobierno tras los escritos en el caso Plus Ultra y Zapatero: \"Sin Sánchez, ZP no hubiera hecho este negocio\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260721/sanchez-hermano-david-sentencia-zapatero-leire-diez-begona-gomez-psoe-ultima-hora-directo-130387522\" target=\"_blank\">En directo: Última hora del caso, reacciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las primeras viviendas de Madrid Nuevo Norte salen a la venta: precios por encima de los 455.000 euros y más de 500 interesados",
+    "link": "https://www.elperiodico.com/es/economia/20260722/primeras-viviendas-madrid-nuevo-norte-132672595",
+    "pubDate": "2026-07-22 06:00:31",
+    "category": "",
+    "description": "<h2>Grupo Ibosa ha comenzado a captar socios para constituir una cooperativa que aspira a levantar 102 viviendas de uno a cuatro dormitorios en Las Tablas Oeste. La promoción solo saldrá adelante si logra adjudicarse la parcela en la subasta que prepara Crea Madrid Nuevo Norte</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El 60% de los crímenes con armas de fuego en Catalunya están relacionados con el crimen organizado",
+    "link": "https://www.elperiodico.com/es/sucesos/20260722/asesinados-tiros-catalunya-narcotrafico-droga-muertos-tiroteos-balas-132641947",
+    "pubDate": "2026-07-22 06:00:30",
+    "category": "",
+    "description": "<h2>La policía cuenta siete muertos por disparos en poco más de seis meses cuando en todo el pasado fueron ocho</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260611/catalunya-pide-triplicar-penas-carcel-marihuana-tenencia-armas-131304163\">Catalunya pide triplicar las penas de cárcel por tener ilegalmente armas de fuego y distribuir marihuana</a></h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20250316/mafias-marihuana-blindan-armas-fuego-narcoasaltos-cataluna-115296797\">Las mafias de la marihuana se blindan con más armas de fuego: un narcoasalto cada 5 días en Catalunya</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Este país cobrará una tasa anual a los vehículos eléctricos en función de cuánto se muevan",
+    "link": "https://www.elperiodico.com/es/motor/20260722/pais-cobrara-tasa-anual-vehiculos-electricos-132628774",
+    "pubDate": "2026-07-22 06:00:27",
+    "category": "",
+    "description": "<h2>El nuevo sistema obligará a los conductores de coches con batería a pagar una cuota anual en función de la distancia recorrida</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "María José Llergo: \"Nuestro legado no se va a quedar en el Whatsapp, se va a quedar en el arte que creemos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260722/maria-jose-llergo-entrevista-el-juego-132261234",
+    "pubDate": "2026-07-22 06:00:26",
+    "category": "",
+    "description": "<h2>Tras un año marcado por el duelo y la experimentación, María José Llergo presenta 'El Juego', el disco con el que más se ha divertido. La artista reflexiona sobre la industria, el éxito, sus orígenes y la importancia de no dejar de jugar</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Así han divergido los alquileres en los municipios limitados por ley y en los que siguen libres",
+    "link": "https://www.elperiodico.com/es/barcelona/20260722/asi-divergido-alquileres-municipios-limitados-ley-siguen-libres-132637705",
+    "pubDate": "2026-07-22 06:00:25",
+    "category": "",
+    "description": "<h2>Los nuevos datos oficiales muestran una contención en las zonas tensionadas con los precios topados</h2><h2>BARCELONA | <a href=\"https://www.elperiodico.com/es/barcelona/20260713/nuevos-contratos-alquiler-bajan-dos-por-ciento-primer-trimestre-2026-media-1-137-3-euros-132407821\" target=\"_blank\">Los nuevos contratos de alquiler bajan un 2% en el primer trimestre del año en Barcelona: 1.137,3 euros al mes</a></h2><h2>ÁREA METROPOLITANA | <a href=\"https://www.elperiodico.com/es/barcelona/20260713/precio-alquileres-estanca-gran-barcelona-desde-aplico-tope-2024-132412444\" target=\"_blank\">El precio de los alquileres se estanca en la Gran Barcelona desde que se aplicó el tope en 2024</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eduard Vieta, psiquiatra: \"Tenemos el prejuicio de que debemos hacerlo todo nosotros mismos y que la fuerza de voluntad lo puede todo\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260722/eduard-vieta-psiquiatra-prejuicio-debemos-132544020",
+    "pubDate": "2026-07-22 06:00:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Creemos que, si algo sale mal, es porque no nos hemos esforzado lo suficiente</h2><h2 class=\"item\">La depresión puede aparecer sin un desencadenante explícito o claro</h2><h2 class=\"item\">Te impulsa a pensar de esta manera, te engaña, te lleva a un agujero negro donde todo lo ves triste y negativo, donde no encuentras solución</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 21.7:Новий головком і пропозиція Федорову",
+    "link": "https://ua.korrespondent.net/ukraine/4896166-pidsumky-217novyi-holovkom-i-propozytsiia-fedorovu",
+    "pubDate": "2026-07-22 05:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4504877.jpg\">Сирського звільнено з посади головкома ЗСУ - ЗМІ. Зеленський змінив головнокомандувача ЗСУ. Зеленський запропонував Федорову посаду. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Directo guerra Ucrania - Rusia, última hora",
     "link": "https://www.elperiodico.com/es/internacional/20260722/directo-guerra-ucrania-rusia-ultima-126605559",
     "pubDate": "2026-07-22 05:44:00",
     "category": "",
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрони атакували Крим: є \"прильоти\", зникло світло",
+    "link": "https://ua.korrespondent.net/ukraine/4896178-drony-atakuvaly-krym-ye-pryloty-znyklo-svitlo",
+    "pubDate": "2026-07-22 05:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4505055.jpg\">Електроживлення нема щонайменше в двох містах півострова після нальоту дронів: в Ялті та Алушті.",
     "topic": "",
     "topic_match_probability": 0
   },

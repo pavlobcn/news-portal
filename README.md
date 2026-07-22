@@ -1,8 +1,10 @@
-# News for 2026-07-22 05:45
+# News for 2026-07-22 06:41
 
 Previous day: [2026-07-21](./data/2026-07-21.md)
 
 ## ua.korrespondent.net
+06:15 [Названо втрати армії Росії станом на 22 липня](https://ua.korrespondent.net/ukraine/4896180-nazvano-vtraty-armii-rosii-stanom-na-22-lypnia)<br>
+05:44 [Дрони атакували Крим: є "прильоти", зникло світло](https://ua.korrespondent.net/ukraine/4896178-drony-atakuvaly-krym-ye-pryloty-znyklo-svitlo)<br>
 03:48 [Атаковано важливий центр Wildberries в РФ - OSINT](https://ua.korrespondent.net/world/russia/4896172-atakovano-vazhlyvyi-tsentr-Wildberries-v-rf-OSINT)<br>
 03:24 [Українські дрони Magura вироблятимуть у США - ЗМІ](https://ua.korrespondent.net/world/worldabus/4896170-ukrainski-drony-Magura-vyrobliatymut-u-ssha-zmi)<br>
 02:57 [Польща домагається розміщення центру управління паливопроводами НАТО](https://ua.korrespondent.net/world/4896168-polscha-domahaietsia-rozmischennia-tsentru-upravlinnia-palyvoprovodamy-nato)<br>
@@ -12,6 +14,12 @@ Previous day: [2026-07-21](./data/2026-07-21.md)
 00:36 [Генерал США: F-16 України вперше збив винищувач РФ](https://ua.korrespondent.net/world/worldabus/4896153-heneral-ssha-F-16-ukrainy-vpershe-zbyv-vynyschuvach-rf)<br>
 
 ## www.elperiodico.com
+06:00 [Work Your Face, la revolución del 'fitness' facial nacido en Barcelona, abre franquicias: "Entrenar los músculos de la cara reduce arrugas"](https://www.elperiodico.com/es/gente/20260722/work-your-face-fitness-facial-franquicias-entrevista-fundadora-stephanie-marin-entrenar-musculos-cara-reduce-arrugas-132473120)<br>
+06:00 [La terapeuta de los Andic pidió a su ayudante buscar rutas para que Jonathan se pusiera en "situaciones extremas", "al borde del precipicio", como si lo "fueran a tirar"](https://www.elperiodico.com/es/sociedad/20260722/terapeuta-andic-pidio-ayudante-buscar-rutas-extremas-precipicio-fuera-tirar-132679981)<br>
+06:00 [El BCE pondrá en pausa su política monetaria y mantendrá los tipos con la inflación más contenida](https://www.elperiodico.com/es/economia/20260722/bce-pondra-pausa-politica-monetaria-132684277)<br>
+06:00 [Las primeras viviendas de Madrid Nuevo Norte salen a la venta: precios por encima de los 455.000 euros y más de 500 interesados](https://www.elperiodico.com/es/economia/20260722/primeras-viviendas-madrid-nuevo-norte-132672595)<br>
+06:00 [Así han divergido los alquileres en los municipios limitados por ley y en los que siguen libres](https://www.elperiodico.com/es/barcelona/20260722/asi-divergido-alquileres-municipios-limitados-ley-siguen-libres-132637705)<br>
+06:00 [Eduard Vieta, psiquiatra: "Tenemos el prejuicio de que debemos hacerlo todo nosotros mismos y que la fuerza de voluntad lo puede todo"](https://www.elperiodico.com/es/ser-feliz/20260722/eduard-vieta-psiquiatra-prejuicio-debemos-132544020)<br>
 05:44 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260722/directo-guerra-ucrania-rusia-ultima-126605559)<br>
 05:40 [Guerra de Irán, en directo | Última hora](https://www.elperiodico.com/es/internacional/20260722/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
 05:35 [Incendios forestales en Catalunya y resto de España, en directo: última hora del fuego en La Mierla (Guadalajara), que arrasa ya más de 29.000 hectáreas](https://www.elperiodico.com/es/sociedad/20260722/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
