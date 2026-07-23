@@ -1,8 +1,19 @@
-# News for 2026-07-23 13:57
+# News for 2026-07-23 16:09
 
 Previous day: [2026-07-22](./data/2026-07-22.md)
 
 ## ua.korrespondent.net
+16:04 [Росіяни скинули бомби на Херсон, є постраждалі](https://ua.korrespondent.net/ukraine/4896671-rosiiany-skynuly-bomby-na-kherson-ye-postrazhdali)<br>
+15:51 [У Казахстані різко впав видобуток нафти після атак дронів - ЗМІ](https://ua.korrespondent.net/world/4896666-u-kazakhstani-rizko-vpav-vydobutok-nafty-pislia-atak-droniv-zmi)<br>
+15:36 [Російська нафта подорожчала для індійських НПЗ](https://ua.korrespondent.net/business/economics/4896660-rosiiska-nafta-podorozhchala-dlia-indiiskykh-npz)<br>
+15:33 [У Чехії розбився військовий вертоліт](https://ua.korrespondent.net/world/4896658-u-chekhii-rozbyvsia-viiskovyi-vertolit)<br>
+15:25 [МВС: за кілька годин РФ атакувала п'ять областей](https://ua.korrespondent.net/ukraine/4896656-mvs-za-kilka-hodyn-rf-atakuvala-piat-oblastei)<br>
+15:20 [Жорстоке вбивство кота в Одесі: чоловіку загрожує до 8 років](https://ua.korrespondent.net/city/odessa/4896654-zhorstoke-vbyvstvo-kota-v-odesi-choloviku-zahrozhuie-do-8-rokiv)<br>
+15:13 [Польща встановила рекорд сонячної генерації у червні](https://ua.korrespondent.net/business/economics/4896652-polscha-vstanovyla-rekord-soniachnoi-heneratsii-u-chervni)<br>
+14:58 [Ірландія виділяє Україні допомогу на 125 млн євро](https://ua.korrespondent.net/ukraine/4896646-irlandiia-vydiliaie-ukraini-dopomohu-na-125-mln-yevro)<br>
+14:36 [Українці збільшили вклади до банків](https://ua.korrespondent.net/business/financial/4896636-ukraintsi-zbilshyly-vklady-do-bankiv)<br>
+14:22 [Десантники знищили точку російських Молній на Покровському напрямку](https://ua.korrespondent.net/ukraine/4896634-desantnyky-znyschyly-tochku-rosiiskykh-molnii-na-pokrovskomu-napriamku)<br>
+14:08 [Росія імпортує бензин з Індії, зроблений зі її ж нафти - FT](https://ua.korrespondent.net/business/economics/4896628-rosiia-importuie-benzyn-z-indii-zroblenyi-zi-yii-zh-nafty-FT)<br>
 13:32 [У Запоріжжі агенти РФ влаштували п’ять підпалів](https://ua.korrespondent.net/city/zaporozhye/4896614-u-zaporizhzhi-ahenty-rf-vlashtuvaly-piat-pidpaliv)<br>
 13:18 [ЄС оштрафував Google на на мільярд доларів](https://ua.korrespondent.net/business/companies/4896609-yes-oshtrafuvav-Google-na-na-miliard-dolariv)<br>
 13:17 [Під Москвою розбився військовий літак Су-57](https://ua.korrespondent.net/world/russia/4896610-pid-moskvoui-rozbyvsia-viiskovyi-litak-su-57)<br>
@@ -53,6 +64,10 @@ Previous day: [2026-07-22](./data/2026-07-22.md)
 00:50 [Масштабна пожежа сталася поблизу аеропорту у Франції](https://ua.korrespondent.net/world/4896463-masshtabna-pozhezha-stalasia-poblyzu-aeroportu-u-frantsii)<br>
 
 ## as.com
+15:19 [Olivier Sarr, opción interior para el Madrid](https://as.com/baloncesto/acb/olivier-sarr-opcion-interior-para-el-madrid-f202607-n/)<br>
+14:57 [Zaragoza-Valencia, para abrir la Supercopa](https://as.com/baloncesto/mas_baloncesto/zaragoza-valencia-para-abrir-la-supercopa-f202607-n/)<br>
+14:46 [Alonso Faure da el salto a la ACB con el Obradoiro](https://as.com/baloncesto/acb/alonso-faure-da-el-salto-a-la-acb-con-el-obradoiro-f202607-n/)<br>
+13:52 [Sengfelder aterriza en el San Pablo Burgos](https://as.com/baloncesto/acb/sengfelder-aterriza-en-el-san-pablo-burgos-f202607-n/)<br>
 13:38 [Así está la plantilla del Barça para la temporada 2026-27: Shengelia, la gran duda](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-barca-para-la-temporada-2026-27-shengelia-la-gran-duda-f202607-n/)<br>
 13:34 [El CSD ya tramita la compra del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/el-csd-ya-tramita-la-compra-del-movistar-estudiantes-f202607-n/)<br>
 13:27 [El Anadolu Efes de Pablo Laso se reinventa para volver a competir](https://as.com/baloncesto/euroliga/el-anadolu-efes-de-pablo-laso-se-reinventa-para-volver-a-competir-f202607-n/)<br>
@@ -60,6 +75,15 @@ Previous day: [2026-07-22](./data/2026-07-22.md)
 10:02 [Sin heredero de Carroll](https://as.com/baloncesto/acb/sin-heredero-de-carroll-f202607-n/)<br>
 
 ## www.elperiodico.com
+15:55 [Bayreuth cumple 150 años entre un hitleriano 'Rienzi' y el perdón judío](https://www.elperiodico.com/es/ocio-y-cultura/20260723/bayreuth-cumple-150-anos-hitleriano-132687231)<br>
+15:54 [Grup Cañigueral aumenta la facturación hasta los 1.608 millones, pero gana un 21% menos](https://www.elperiodico.com/es/economia/20260723/grup-canigueral-aumenta-facturacion-1-132738933)<br>
+15:50 [Una mujer de 74 años muere ahogada en una playa de Calafell (Tarragona): la cifra de fallecidos asciende a 13](https://www.elperiodico.com/es/sociedad/20260723/mujer-74-anos-muere-ahogada-calafell-132738640)<br>
+15:42 [La hija pequeña de Angelina Jolie y Brad Pitt también pide eliminar el apellido de su padre](https://www.elperiodico.com/es/gente/20260723/hija-pequena-angelina-jolie-brad-132735928)<br>
+15:25 [Penélope Cruz y Javier Bardem, estrellas también en la Mostra de Venecia](https://www.elperiodico.com/es/ocio-y-cultura/20260723/penelope-cruz-javier-bardem-estrellas-132737831)<br>
+15:23 [Restablecida la alta velocidad entre Madrid y Barcelona tras la extinción de un incendio en Alcalá de Henares](https://www.elperiodico.com/es/economia/20260723/interrumpida-alta-velocidad-madrid-barcelona-incendio-alcala-henares-132738008)<br>
+14:25 [Rusia defiende que Arabia Saudí tiene derecho a desarrollar la energía nuclear](https://www.elperiodico.com/es/videos/internacional/rusia-defiende-arabia-saudi-derecho/132735510.shtml)<br>
+14:23 [La ola de calor en Japón dejó al menos 14 muertos y récord de insolaciones](https://www.elperiodico.com/es/videos/sociedad/ola-calor-japon-dejo-14-video/132734728.shtml)<br>
+14:17 [El BCE mantiene los tipos en el 2,25% y alerta que el shock energético aún no se ha materializado por completo](https://www.elperiodico.com/es/economia/20260723/bce-mantiene-tipos-2-25-132734991)<br>
 13:38 [Catalunya asume la primera presidencia del comité de coordinación autonómico de la Agencia Espacial Española: "Es una oportunidad única"](https://www.elperiodico.com/es/sociedad/20260723/cataluna-presidencia-comite-coordinacion-agencia-espacial-espanola-132732096)<br>
 13:37 [Bruselas impone dos multas a Google por un total de 890 millones de euros](https://www.elperiodico.com/es/videos/internacional/bruselas-impone-multas-google-total/132732568.shtml)<br>
 13:17 [Así fue la rápida actuación de la Guardia Civil para desalojar, por el fuego, una urbanización de Villa del Prado en Madrid](https://www.elperiodico.com/es/videos/sociedad/rapida-actuacion-guardia-civil-desalojar-almorox/132731870.shtml)<br>
