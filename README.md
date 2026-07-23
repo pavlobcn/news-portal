@@ -1,8 +1,9 @@
-# News for 2026-07-23 20:54
+# News for 2026-07-23 22:11
 
 Previous day: [2026-07-22](./data/2026-07-22.md)
 
 ## ua.korrespondent.net
+21:31 [У Запоріжжі вже 25 постраждалих від авіаудару РФ, шестеро з них - діти](https://ua.korrespondent.net/city/zaporozhye/4896751-u-zaporizhzhi-vzhe-25-postrazhdalykh-vid-aviaudaru-rf-shestero-z-nykh-dity)<br>
 20:36 [ЗСУ уразили російський танкер і понтонну переправу](https://ua.korrespondent.net/ukraine/4896742-zsu-urazyly-rosiiskyi-tanker-i-pontonnu-perepravu)<br>
 20:33 [Акції Tesla та Google різко впали через зростання витрат на розвиток ШІ](https://ua.korrespondent.net/business/companies/4896740-aktsii-Tesla-ta-Google-rizko-vpaly-cherez-zrostannia-vytrat-na-rozvytok-shi)<br>
 20:20 [У Житомирі після удару РФ загорівся об'єкт паливної інфраструктури](https://ua.korrespondent.net/ukraine/4896735-u-zhytomyri-pislia-udaru-rf-zahorivsia-obiekt-palyvnoi-infrastruktury)<br>
@@ -96,6 +97,11 @@ Previous day: [2026-07-22](./data/2026-07-22.md)
 10:02 [Sin heredero de Carroll](https://as.com/baloncesto/acb/sin-heredero-de-carroll-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:26 [Aferrado a un peluche, una cría de lémur lucha por sobrevivir en el suroeste de Colombia](https://www.elperiodico.com/es/videos/internacional/aferrado-peluche-cria-lemur-lucha/132751935.shtml)<br>
+21:23 [Los vecinos del socavón en Vallbona: "Vimos el agua del Rec cayendo en cascada sobre el agujero"](https://www.elperiodico.com/es/sociedad/20260723/vecinos-socavon-vallbona-vimos-agua-132749295)<br>
+21:20 [Continúan los incendios, confinamientos y desalojos en el último día de la ola de calor](https://www.elperiodico.com/es/sociedad/20260723/continuan-incendios-confinamientos-desalojos-ultimo-132751858)<br>
+21:08 [Murcia roza los 45ºC y Catalunya, Valencia y Alicante superan los 43ºC en la jornada más cálida de la tercera ola de calor del verano](https://www.elperiodico.com/es/videos/sucesos/murcia-roza-45oc-catalunya-valencia/132750618.shtml)<br>
+21:07 [Un gran incendio cerca de Burdeos obliga a evacuar a 20.000 personas](https://www.elperiodico.com/es/sociedad/20260723/gran-incendio-cerca-burdeos-obliga-evacuar-veinte-mil-personas-132751127)<br>
 20:51 [Evacuada la localidad madrileña de Aldea del Fresno por el incendio en Villa del Prado](https://www.elperiodico.com/es/sociedad/20260723/evacuada-localidad-madrilena-aldea-fresno-132750855)<br>
 20:04 [Unas orcas hunden un velero a 1,3 millas de Estaca de Bares, en el norte de la provincia de A Coruña](https://www.elperiodico.com/es/sucesos/20260723/orcas-hunden-velero-1-3-millas-estaca-bares-norte-provincia-coruna-132749745)<br>
 20:02 [La recortadora de barba que arrasa: vende más de mil unidades en horas y ahora está rebajada](https://www.elperiodico.com/es/shopping/20260723/philips-one-blade-recortadora-afeitadora-barba-cuerpo-132741849)<br>
