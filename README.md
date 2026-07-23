@@ -1,8 +1,18 @@
-# News for 2026-07-23 11:57
+# News for 2026-07-23 13:57
 
 Previous day: [2026-07-22](./data/2026-07-22.md)
 
 ## ua.korrespondent.net
+13:32 [У Запоріжжі агенти РФ влаштували п’ять підпалів](https://ua.korrespondent.net/city/zaporozhye/4896614-u-zaporizhzhi-ahenty-rf-vlashtuvaly-piat-pidpaliv)<br>
+13:18 [ЄС оштрафував Google на на мільярд доларів](https://ua.korrespondent.net/business/companies/4896609-yes-oshtrafuvav-Google-na-na-miliard-dolariv)<br>
+13:17 [Під Москвою розбився військовий літак Су-57](https://ua.korrespondent.net/world/russia/4896610-pid-moskvoui-rozbyvsia-viiskovyi-litak-su-57)<br>
+13:16 [Декларації приховали 99 тис. посадовців - Опендатабот](https://ua.korrespondent.net/business/financial/4896608-deklaratsii-prykhovaly-99-tys-posadovtsiv-opendatabot)<br>
+13:05 [МВФ перерахував Україні новий транш](https://ua.korrespondent.net/business/economics/4896605-mvf-pererakhuvav-ukraini-novyi-transh)<br>
+12:59 [Європі загрожує дефіцит газу через конкуренцію з Азією](https://ua.korrespondent.net/business/economics/4896601-yevropi-zahrozhuie-defitsyt-hazu-cherez-konkurentsiui-z-aziieui)<br>
+12:41 [Італійські військові взяли на абордаж "тіньовий" танкер РФ](https://ua.korrespondent.net/world/4896595-italiiski-viiskovi-vzialy-na-abordazh-tinovyi-tanker-rf)<br>
+12:39 [Відпочинок у Хорватії та гори: на Львівщині чоловік захворів на хантавірус](https://ua.korrespondent.net/ukraine/4896593-vidpochynok-u-khorvatii-ta-hory-na-lvivschyni-cholovik-zakhvoriv-na-khantavirus)<br>
+12:28 [США запідозрили Росію у допомозі Ірану під час атак](https://ua.korrespondent.net/world/4896588-ssha-zapidozryly-rosiui-u-dopomozi-iranu-pid-chas-atak)<br>
+12:27 [Двоє чоловіків загинули від вибуху невідомого предмета на Харківщині](https://ua.korrespondent.net/ukraine/4896590-dvoie-cholovikiv-zahynuly-vid-vybukhu-nevidomoho-predmeta-na-kharkivschyni)<br>
 11:53 [Росіяни вдарили по Павлограду: троє загиблих і 19 постраждалих](https://ua.korrespondent.net/ukraine/4896573-rosiiany-vdaryly-po-pavlohradu-troie-zahyblykh-i-19-postrazhdalykh)<br>
 11:51 [З Польщі повернули фігуранта справи про "зелений" тариф](https://ua.korrespondent.net/ukraine/4896570-z-polschi-povernuly-fihuranta-spravy-pro-zelenyi-taryf)<br>
 11:46 [Боєприпаси зі збідненим ураном виявили на Чернігівщині](https://ua.korrespondent.net/ukraine/4896569-boieprypasy-zi-zbidnenym-uranom-vyiavyly-na-chernihivschyni)<br>
@@ -43,9 +53,24 @@ Previous day: [2026-07-22](./data/2026-07-22.md)
 00:50 [Масштабна пожежа сталася поблизу аеропорту у Франції](https://ua.korrespondent.net/world/4896463-masshtabna-pozhezha-stalasia-poblyzu-aeroportu-u-frantsii)<br>
 
 ## as.com
+13:38 [Así está la plantilla del Barça para la temporada 2026-27: Shengelia, la gran duda](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-barca-para-la-temporada-2026-27-shengelia-la-gran-duda-f202607-n/)<br>
+13:34 [El CSD ya tramita la compra del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/el-csd-ya-tramita-la-compra-del-movistar-estudiantes-f202607-n/)<br>
+13:27 [El Anadolu Efes de Pablo Laso se reinventa para volver a competir](https://as.com/baloncesto/euroliga/el-anadolu-efes-de-pablo-laso-se-reinventa-para-volver-a-competir-f202607-n/)<br>
+12:13 [Franky García asume el reto de Gernika](https://as.com/baloncesto/franky-garcia-asume-el-reto-de-gernika-f202607-n/)<br>
 10:02 [Sin heredero de Carroll](https://as.com/baloncesto/acb/sin-heredero-de-carroll-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:38 [Catalunya asume la primera presidencia del comité de coordinación autonómico de la Agencia Espacial Española: "Es una oportunidad única"](https://www.elperiodico.com/es/sociedad/20260723/cataluna-presidencia-comite-coordinacion-agencia-espacial-espanola-132732096)<br>
+13:37 [Bruselas impone dos multas a Google por un total de 890 millones de euros](https://www.elperiodico.com/es/videos/internacional/bruselas-impone-multas-google-total/132732568.shtml)<br>
+13:17 [Así fue la rápida actuación de la Guardia Civil para desalojar, por el fuego, una urbanización de Villa del Prado en Madrid](https://www.elperiodico.com/es/videos/sociedad/rapida-actuacion-guardia-civil-desalojar-almorox/132731870.shtml)<br>
+13:02 [El Hospital Clínic de Barcelona ha implantado más de 300 prótesis de pene en los últimos cuatro años](https://www.elperiodico.com/es/sanidad/20260723/hospital-clinic-barcelona-implantado-300-protesis-pene-anos-disfuncion-erectil-132725360)<br>
+13:01 [Los neumólogos esperaban "más" de la nueva ley antitabaco: "No puede ser que España tenga una de las cajetillas de tabaco más baratas de Europa"](https://www.elperiodico.com/es/salud/20260723/neumologos-esperaban-mas-nueva-ley-antitabaco-precio-cajetillas-132730712)<br>
+12:41 [Los bomberos avisan: no es recomendable dejar la llave de casa puesta por la noche](https://www.elperiodico.com/es/sociedad/20260723/llave-puesta-noche-bomberos-emergencia-dv-et-132726550)<br>
+12:30 [Veolia presenta la mejor oferta económica para el contrato de agua de 1.000 millones del área de Barcelona](https://www.elperiodico.com/es/barcelona/20260723/veolia-presenta-mejor-oferta-economica-contrato-agua-1000-millones-area-barcelona-132727518)<br>
+12:30 [Oswaldo Restrepo, médico especialista en seguridad y salud en el trabajo: "Si notas que durante el día te cuesta trabajo hablar, esto no es un problema de almohada"](https://www.elperiodico.com/es/salud/20260723/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
+12:20 [Bruselas impone dos multas a Google por un total de 890 millones de euros](https://www.elperiodico.com/es/tecnologia/20260723/bruselas-multas-google-890-millones-euros-132728161)<br>
+12:04 [Las noches tórridas de Barcelona son más peligrosas que los días de calor extremo: el bochorno nocturno ya es el factor que más dispara la mortalidad](https://www.elperiodico.com/es/sociedad/20260723/calor-nocturno-barcelona-peligro-estudios-132725220)<br>
+12:03 [La economía catalana resiste a la crisis de Oriente Medio: la Cambra estima que crecerá un 2,5% este año](https://www.elperiodico.com/es/economia/20260723/economia-catalana-resiste-crisis-oriente-132725002)<br>
 11:57 [Los trabajadores pueden recibir 20 horas de permiso retribuido al año para formación](https://www.elperiodico.com/es/economia/20260723/trabajadores-recibir-20-horas-permiso-retribuido-ano-formacion-dv-132724818)<br>
 11:48 [Un hombre de 60 años fallece tras precipitarse de un edificio de Barcelona](https://www.elperiodico.com/es/barcelona/20260723/hombre-60-anos-fallece-precipitarse-132726395)<br>
 11:45 [Jornada de cortes por el socavón en Montcada](https://www.elperiodico.com/es/videos/sociedad/jornada-cortes-socavon-montcada/132726839.shtml)<br>
