@@ -1,8 +1,9 @@
-# News for 2026-07-23 23:30
+# News for 2026-07-24 00:35
 
 Previous day: [2026-07-22](./data/2026-07-22.md)
 
 ## ua.korrespondent.net
+23:40 [В Грузії стався масштабний блекаут](https://ua.korrespondent.net/world/4896767-v-hruzii-stavsia-masshtabnyi-blekaut)<br>
 22:58 [Удар по Запоріжжю: ліквідаційні роботи завершені](https://ua.korrespondent.net/ukraine/4896763-udar-po-zaporizhzhui-likvidatsiini-roboty-zaversheni)<br>
 21:31 [У Запоріжжі вже 25 постраждалих від авіаудару РФ, шестеро з них - діти](https://ua.korrespondent.net/city/zaporozhye/4896751-u-zaporizhzhi-vzhe-25-postrazhdalykh-vid-aviaudaru-rf-shestero-z-nykh-dity)<br>
 20:36 [ЗСУ уразили російський танкер і понтонну переправу](https://ua.korrespondent.net/ukraine/4896742-zsu-urazyly-rosiiskyi-tanker-i-pontonnu-perepravu)<br>
