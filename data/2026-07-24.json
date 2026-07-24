@@ -1,5 +1,140 @@
 [
   {
+    "title": "Trump dice que Venezuela todavía no está \"preparada\" para elecciones pero hay \"avances\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260724/trump-dice-venezuela-todavia-preparada-132788923",
+    "pubDate": "2026-07-24 21:43:46",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Президент прокоментував удар РФ по виставці зброї",
+    "link": "https://ua.korrespondent.net/ukraine/4897060-prezydent-prokomentuvav-udar-rf-po-vystavtsi-zbroi",
+    "pubDate": "2026-07-24 21:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508030.jpg\">Відповідальність за атаку повністю лежить на Росії, однак висновки мають бути зроблені, акцентував Зеленський.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una trifulca entre generales",
+    "link": "https://www.elperiodico.com/es/opinion/20260724/trifulca-generales-articulo-luis-sanchez-merlo-132788605",
+    "pubDate": "2026-07-24 21:32:26",
+    "category": "",
+    "description": "<h2>La sorprendente rapidez con la que se archivó la denuncia entre dos mandos de la Guardia Civil invita a una reflexión que trasciende el episodio: qué ocurre cuando la confianza desaparece de la cadena de mando y la política empieza a erosionar la autoridad institucional.</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "TERA Batteries, nominada a los Premios Innovation Awards de Automechanika Frankfurt 2026 por su innovador modelo de reparación y diagnóstico de baterías para vehículos eléctricos",
+    "link": "https://www.elperiodico.com/es/motor/20260724/tera-batteries-nominada-premios-innovation-awards-automechanika-frankfurt-2026-132766503",
+    "pubDate": "2026-07-24 21:30:39",
+    "category": "",
+    "description": "<h2>La compañía española competirá en la categoría \"Smart Workshop & Service Solutions\" con su plataforma industrial de diagnóstico, reparación y valorización de baterías de litio basada en inteligencia artificial</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Comunidad de Madrid denuncia el \"chantaje\" de 60 bomberos forestales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260724/comunidad-madrid-denuncia-chantaje-60-132788666",
+    "pubDate": "2026-07-24 21:27:49",
+    "category": "",
+    "description": "<h2>El Ejecutivo madrileño asegura que este grupo, de 60 efectivos de un dispositivo de 2.100, está utilizando la emergencia para presionar a la Administración y estudiará posibles responsabilidades</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Постріли в лісі і пожежа: в Ужгороді КОРД затримав озброєного чоловіка",
+    "link": "https://ua.korrespondent.net/ukraine/4897058-postrily-v-lisi-i-pozhezha-v-uzhhorodi-kord-zatrymav-ozbroienoho-cholovika",
+    "pubDate": "2026-07-24 21:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508043.jpg\">Правоохоронці провели спеціальну операцію із залученням бійців КОРД для затримання озброєного бойовим пістолетом чоловіка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Europa resiste los aranceles de Trump",
+    "link": "https://www.elperiodico.com/es/opinion/20260724/europa-resiste-aranceles-trump-editorial-132788175",
+    "pubDate": "2026-07-24 21:16:30",
+    "category": "",
+    "description": "<h2> Resulta difícil entender una política errática y unilateral que ni siquiera beneficia a quienes la imponen</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260724/trump-anuncia-subidas-aranceles-ue-132787315\">Trump anuncia subidas de aranceles para la UE por multar de nuevo a empresas de EEUU: \"Lo pagarán caro\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Madrid vive su gran pesadilla ante el fuego con más de 50.000 desplazados y confinados y en medio de una bronca política",
+    "link": "https://www.elperiodico.com/es/sociedad/20260724/madrid-vive-gran-pesadilla-fuego-132788352",
+    "pubDate": "2026-07-24 21:06:53",
+    "category": "",
+    "description": "<h2>El incendio sigue avanzando tras arrasar 12.000 hectáreas mientras Puente y Ayuso se cruzan reproches después de que la Comunidad solicitara que el Gobierno asuma el mando de la emergencia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Нове покоління Kia Sportage помітили на шпигунських фото",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4897053-nove-pokolinnia-Kia-Sportage-pomityly-na-shpyhunskykh-foto",
+    "pubDate": "2026-07-24 21:03:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508016.jpg\">Компактний кросовер шостого покоління вже проходить дорожні випробування. Очікується, що модель стане більшою, отримає нову гібридну техніку та відмовиться від суто бензинових і дизельних версій на окремих ринках.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, sábado 25 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260724/horoscopo-hoy-sabado-25-julio-dv-132727909",
+    "pubDate": "2026-07-24 21:00:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo pide \"arrimar el hombro todos juntos\" frente a los incendios como \"necesitan\" las miles de personas afectadas",
+    "link": "https://www.elperiodico.com/es/politica/20260724/feijoo-pide-arrimar-hombro-frente-132788136",
+    "pubDate": "2026-07-24 20:59:16",
+    "category": "",
+    "description": "<h2>El PP comunica que Feijóo está en contacto con presidentes de las CCAA y alcaldes de zonas afectadas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Ayuso eleva a 12.000 las hectáreas quemadas en una situación \"muy crítica\"",
+    "link": "https://www.elperiodico.com/es/politica/20260724/ayuso-eleva-12-000-hectareas-132788074",
+    "pubDate": "2026-07-24 20:55:52",
+    "category": "",
+    "description": "<h2>Según la presidenta autonómica, hay 20.000 vecinos evacuados y el objetivo sigue siendo \"salvar vidas, que no haya lesiones importantes\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Зеленський попередив про новий масований удар РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4897051-zelenskyi-poperedyv-pro-novyi-masovanyi-udar-rf",
+    "pubDate": "2026-07-24 20:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508008.jpeg\">За попередньою інформацією розвідки, упродовж 48 годин Росія може атакувати Україну ракетами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "RTVE arrancará temporada con paros en RNE por los expedientes abiertos contra el Consejo de Informativos",
+    "link": "https://www.elperiodico.com/es/politica/20260724/rtve-temporada-paros-rne-132786949",
+    "pubDate": "2026-07-24 20:44:59",
+    "category": "",
+    "description": "<h2 class=\"item\">La plantilla de la radio pública convoca movilizaciones por las investigaciones internas, con amenaza de expulsión, a los miembros del órgano</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260702/direccion-rtve-abre-expediente-consejo-132043966\">La dirección de RTVE abre expediente al Consejo de Informativos de RNE tras denunciar \"mala praxis\" y cuando se cumple un año de los 'viernes negros'</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Трампа стурбовані темпами використання ракет Patriot і Tomahawk - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4897049-u-trampa-sturbovani-tempamy-vykorystannia-raket-Patriot-i-Tomahawk-zmi",
+    "pubDate": "2026-07-24 20:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507995.jpg\">Щоб зменшити витрати далекобійного озброєння, американські військові дедалі частіше застосовують авіабомби з комплектами наведення JDAM та керовані реактивні снаряди GMLRS.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El incendio deja en situación \"crítica\" el complejo de antenas de la NASA en Robledo de Chavela (Madrid)",
     "link": "https://www.elperiodico.com/es/sociedad/20260724/incendio-deja-situacion-critica-complejo-antenas-nasa-robledo-chavela-madrid-132787024",
     "pubDate": "2026-07-24 20:15:34",

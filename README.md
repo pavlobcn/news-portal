@@ -1,8 +1,12 @@
-# News for 2026-07-24 20:19
+# News for 2026-07-24 21:53
 
 Previous day: [2026-07-23](./data/2026-07-23.md)
 
 ## ua.korrespondent.net
+21:43 [Президент прокоментував удар РФ по виставці зброї](https://ua.korrespondent.net/ukraine/4897060-prezydent-prokomentuvav-udar-rf-po-vystavtsi-zbroi)<br>
+21:23 [Постріли в лісі і пожежа: в Ужгороді КОРД затримав озброєного чоловіка](https://ua.korrespondent.net/ukraine/4897058-postrily-v-lisi-i-pozhezha-v-uzhhorodi-kord-zatrymav-ozbroienoho-cholovika)<br>
+20:51 [Зеленський попередив про новий масований удар РФ](https://ua.korrespondent.net/ukraine/4897051-zelenskyi-poperedyv-pro-novyi-masovanyi-udar-rf)<br>
+20:32 [У Трампа стурбовані темпами використання ракет Patriot і Tomahawk - ЗМІ](https://ua.korrespondent.net/world/4897049-u-trampa-sturbovani-tempamy-vykorystannia-raket-Patriot-i-Tomahawk-zmi)<br>
 20:12 [Вчені створили експериментальну вакцину від чуми](https://ua.korrespondent.net/tech/4897047-vcheni-stvoryly-eksperymentalnu-vaktsynu-vid-chumy)<br>
 19:20 [Україна матиме дрони дальністю до 10 тисяч км - Зеленський](https://ua.korrespondent.net/ukraine/4897037-ukraina-matyme-drony-dalnistui-do-10-tysiach-km-zelenskyi)<br>
 19:08 [Удар по Київщині: ДСНС показала масштаби руйнувань](https://ua.korrespondent.net/ukraine/4897035-udar-po-kyivschyni-dsns-pokazala-masshtaby-ruinuvan)<br>
@@ -83,6 +87,7 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 07:52 [Madrid, Barça y Valencia, a vueltas con los cupos](https://as.com/baloncesto/acb/madrid-barca-y-valencia-a-vueltas-con-los-cupos-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:27 [La Comunidad de Madrid denuncia el "chantaje" de 60 bomberos forestales](https://www.elperiodico.com/es/sociedad/20260724/comunidad-madrid-denuncia-chantaje-60-132788666)<br>
 20:15 [El incendio deja en situación "crítica" el complejo de antenas de la NASA en Robledo de Chavela (Madrid)](https://www.elperiodico.com/es/sociedad/20260724/incendio-deja-situacion-critica-complejo-antenas-nasa-robledo-chavela-madrid-132787024)<br>
 20:07 [Francia desbordada por los incendios evacua a casi 70.000 personas](https://www.elperiodico.com/es/videos/sucesos/francia-desbordada-incendios-evacua-70/132786897.shtml)<br>
 20:01 [Daniel Osiàs, educador social: "Las colonias de verano dejan una huella educativa profunda”](https://www.elperiodico.com/es/sociedad/20260724/daniel-osias-educador-social-colonias-132738194)<br>
