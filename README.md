@@ -1,13 +1,20 @@
-# News for 2026-07-24 03:05
+# News for 2026-07-24 06:30
 
 Previous day: [2026-07-23](./data/2026-07-23.md)
 
 ## ua.korrespondent.net
+03:45 [Дубай вигадав спосіб вернути туристів, попри війну](https://ua.korrespondent.net/business/economics/4896792-dubai-vyhadav-sposib-vernuty-turystiv-popry-viinu)<br>
 02:49 [Польща зробила США пропозицію щодо ракет Patriot](https://ua.korrespondent.net/world/worldabus/4896788-polscha-zrobyla-ssha-propozytsiui-schodo-raket-Patriot)<br>
 01:59 [Атаковано склад Wildberries в Криму - соцмережі](https://ua.korrespondent.net/ukraine/4896784-atakovano-sklad-Wildberries-v-krymu-sotsmerezhi)<br>
 01:48 [У Чернігові та області блекаут після ударів РФ](https://ua.korrespondent.net/ukraine/4896782-u-chernihovi-ta-oblasti-blekaut-pislia-udariv-rf)<br>
 00:37 [Флеш назвав регіони, яким загрожують шахеди з онлайн-керуванням](https://ua.korrespondent.net/ukraine/4896773-flesh-nazvav-rehiony-yakym-zahrozhuuit-shakhedy-z-onlain-keruvanniam)<br>
 
 ## www.elperiodico.com
+06:01 [Claves sobre la "terapia de confrontación": nada que ver con las técnicas de la terapeuta de los Andic](https://www.elperiodico.com/es/ser-feliz/20260724/claves-terapia-confrontacion-ver-tecnicas-132724186)<br>
+06:01 [Salud, dinero y amor](https://www.elperiodico.com/es/opinion/20260724/salud-dinero-amor-bajas-laborales-cancer-articulo-anna-grau-132745915)<br>
+06:00 [Indra mantiene abiertas las alianzas, las compras y las desinversiones mientras prepara su nuevo plan estratégico](https://www.elperiodico.com/es/economia/20260724/indra-mantiene-abiertas-alianzas-compras-desinversiones-prepara-plan-estrategico-132737908)<br>
+06:00 [La fotógrafa de Madrid que convirtió a Goya, Suárez y Alberti en apariciones: el universo inquietante de Isabel Matoses](https://www.elperiodico.com/es/ocio-y-cultura/20260724/fotografa-madrid-convirtio-goya-suarez-alberti-apariciones-universo-inquietante-isabel-matoses-132668419)<br>
+06:00 [José Luis Galipienso: "La IA reduce tareas repetitivas, pero aumenta el valor del criterio y el análisis"](https://www.elperiodico.com/es/economia/20260724/jose-luis-galipienso-auren-bc-132661852)<br>
+05:37 [Incendios forestales en Catalunya y resto de España, en directo: Ávila confina tres municipios y La Mierla supera las 30.000 hectáreas](https://www.elperiodico.com/es/sociedad/20260724/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 00:19 [Así es la "lucha sin cuartel" de la UME por evitar que el fuego de San Martín de Valdeiglesias arrase las casas de los vecinos](https://www.elperiodico.com/es/videos/sociedad/lucha-sin-cuartel-ume-evitar-fuego-incendio-san-martin-valdeiglesias-arrase-casas-vecinos/132754103.shtml)<br>
 00:07 [Mapfre compra Safety por 1.355 millones para crecer en EEUU](https://www.elperiodico.com/es/economia/20260724/mapfre-compra-safety-1-355-132753938)<br>
