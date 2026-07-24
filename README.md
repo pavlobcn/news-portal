@@ -1,8 +1,11 @@
-# News for 2026-07-24 18:56
+# News for 2026-07-24 20:19
 
 Previous day: [2026-07-23](./data/2026-07-23.md)
 
 ## ua.korrespondent.net
+20:12 [Вчені створили експериментальну вакцину від чуми](https://ua.korrespondent.net/tech/4897047-vcheni-stvoryly-eksperymentalnu-vaktsynu-vid-chumy)<br>
+19:20 [Україна матиме дрони дальністю до 10 тисяч км - Зеленський](https://ua.korrespondent.net/ukraine/4897037-ukraina-matyme-drony-dalnistui-do-10-tysiach-km-zelenskyi)<br>
+19:08 [Удар по Київщині: ДСНС показала масштаби руйнувань](https://ua.korrespondent.net/ukraine/4897035-udar-po-kyivschyni-dsns-pokazala-masshtaby-ruinuvan)<br>
 18:45 [Вечірній обстріл Слов'янська: значні руйнування, 16 поранених](https://ua.korrespondent.net/ukraine/4897032-vechirnii-obstril-slovianska-znachni-ruinuvannia-16-poranenykh)<br>
 18:21 [Дрон РФ влучив у пасажирський поїзд на Дніпропетровщині - УЗ](https://ua.korrespondent.net/ukraine/4897026-dron-rf-vluchyv-u-pasazhyrskyi-poizd-na-dnipropetrovschyni-uz)<br>
 18:02 [Укренерго зробило прогноз щодо вимкнень на суботу](https://ua.korrespondent.net/ukraine/4897021-ukrenerho-zrobylo-prohnoz-schodo-vymknen-na-subotu)<br>
@@ -68,6 +71,7 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 00:37 [Флеш назвав регіони, яким загрожують шахеди з онлайн-керуванням](https://ua.korrespondent.net/ukraine/4896773-flesh-nazvav-rehiony-yakym-zahrozhuuit-shakhedy-z-onlain-keruvanniam)<br>
 
 ## as.com
+18:48 [El culebrón de Hezonja](https://as.com/opinion/el-culebron-de-hezonja-f202607-n/)<br>
 16:01 [Tosan Evbuomwan ficha por el Barça](https://as.com/baloncesto/euroliga/tosan-evbuomwan-ficha-por-el-barca-f202607-n/)<br>
 14:23 [Adiós a una leyenda: Jayson Granger anuncia su retirada](https://as.com/baloncesto/mas_baloncesto/adios-a-una-leyenda-jayson-granger-anuncia-su-retirada-f202607-n/)<br>
 14:05 [El Barça ficha a Tyrese Martin, un alero con 122 partidos en la NBA](https://as.com/baloncesto/acb/el-barca-ficha-a-tyrese-martin-un-alero-con-122-partidos-en-la-nba-f202607-n/)<br>
@@ -79,6 +83,17 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 07:52 [Madrid, Barça y Valencia, a vueltas con los cupos](https://as.com/baloncesto/acb/madrid-barca-y-valencia-a-vueltas-con-los-cupos-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:15 [El incendio deja en situación "crítica" el complejo de antenas de la NASA en Robledo de Chavela (Madrid)](https://www.elperiodico.com/es/sociedad/20260724/incendio-deja-situacion-critica-complejo-antenas-nasa-robledo-chavela-madrid-132787024)<br>
+20:07 [Francia desbordada por los incendios evacua a casi 70.000 personas](https://www.elperiodico.com/es/videos/sucesos/francia-desbordada-incendios-evacua-70/132786897.shtml)<br>
+20:01 [Daniel Osiàs, educador social: "Las colonias de verano dejan una huella educativa profunda”](https://www.elperiodico.com/es/sociedad/20260724/daniel-osias-educador-social-colonias-132738194)<br>
+19:59 [Rescatados 63 migrantes llegados a bordo de tres pateras a Mallorca, Formentera y Cabrera](https://www.elperiodico.com/es/sociedad/20260724/rescatados-63-migrantes-llegados-bordo-132786266)<br>
+19:55 [Un camión de paja arde y provoca un incendio forestal en la carretera de Córdoba a Cerro Muriano](https://www.elperiodico.com/es/sociedad/20260724/camion-paja-arde-provoca-incendio-132786566)<br>
+19:49 [Imágenes satelitales del antes y el después muestran los incendios forestales que devastan Europa.](https://www.elperiodico.com/es/videos/sucesos/imagenes-satelitales-despues-muestran-incendios/132786348.shtml)<br>
+19:42 [Encontrado Duque, el perro desaparecido en el incendio de San Martín de Valdeiglesias: "Están llevándolo al veterinario para saber si está bien"](https://www.elperiodico.com/es/sociedad/20260724/raquel-busca-duque-perro-desaparecido-incendio-madrid-san-martin-valdeiglesias-132786209)<br>
+19:41 [650 guardias civiles desplegados en los incendios forestales en Madrid y Ávila](https://www.elperiodico.com/es/videos/sucesos/650-guardias-civiles-desplegados-incendios/132786054.shtml)<br>
+19:10 [Imágenes de las labores que está realizando la UME en el incendio de Burgohondo (Ávila), como el ataque directo a las llamas y protección de viviendas en la localidad](https://www.elperiodico.com/es/videos/sucesos/imagenes-labores-realizando-ume-incendio/132785087.shtml)<br>
+19:07 [Einer Rubio, del Movistar, se empotra contra el coche del UAE](https://www.elperiodico.com/es/deportes/20260724/einer-rubio-movistar-empotra-coche-uae-tour-francia-132785075)<br>
+19:02 [Los Bombers trabajan en un incendio de difícil acceso en Farrera (Lleida) que podría haber sido causado por un rayo](https://www.elperiodico.com/es/sociedad/20260724/bombers-incendio-dificil-acceso-farrera-132784666)<br>
 18:51 [Primera muerte de un trabajador en un accidente laboral en el Camp Nou](https://www.elperiodico.com/es/videos/sociedad/primera-muerte-trabajador-accidente-laboral/132784782.shtml)<br>
 18:46 [El incendio de alta montaña en Farrera afecta a 28 hectáreas y podría haber sido causado por un rayo.](https://www.elperiodico.com/es/videos/sucesos/incendio-alta-montana-farrera-afecta/132784656.shtml)<br>
 18:44 [Pat Metheny no es de este mundo: el guitarrista ofrece un recital abrumador en el Festival de Jazz de Barcelona ante un público entregado](https://www.elperiodico.com/es/ocio-y-cultura/20260724/pat-metheny-mundo-guitarrista-ofrece-132781014)<br>
