@@ -1,4 +1,4 @@
-# News for 2026-07-24 22:57
+# News for 2026-07-25 00:12
 
 Previous day: [2026-07-23](./data/2026-07-23.md)
 
@@ -77,6 +77,7 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 00:37 [Флеш назвав регіони, яким загрожують шахеди з онлайн-керуванням](https://ua.korrespondent.net/ukraine/4896773-flesh-nazvav-rehiony-yakym-zahrozhuuit-shakhedy-z-onlain-keruvanniam)<br>
 
 ## as.com
+23:23 [El agente de Hezonja insinúa que irá a los Cavaliers](https://as.com/baloncesto/nba/el-agente-de-hezonja-insinua-que-ira-a-los-cavaliers-f202607-n/)<br>
 18:48 [El culebrón de Hezonja](https://as.com/opinion/el-culebron-de-hezonja-f202607-n/)<br>
 16:01 [Tosan Evbuomwan ficha por el Barça](https://as.com/baloncesto/euroliga/tosan-evbuomwan-ficha-por-el-barca-f202607-n/)<br>
 14:23 [Adiós a una leyenda: Jayson Granger anuncia su retirada](https://as.com/baloncesto/mas_baloncesto/adios-a-una-leyenda-jayson-granger-anuncia-su-retirada-f202607-n/)<br>
@@ -89,6 +90,7 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 07:52 [Madrid, Barça y Valencia, a vueltas con los cupos](https://as.com/baloncesto/acb/madrid-barca-y-valencia-a-vueltas-con-los-cupos-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:05 [Pons se despide del Liceu con un Mahler brillante](https://www.elperiodico.com/es/ocio-y-cultura/20260724/pons-se-despide-del-liceu-con-un-mahler-brillante-132789924)<br>
 22:25 [Andalucía envía medios aéreos y 70 efectivos para ayudar a la extinción de incendios de Madrid y Castilla y León](https://www.elperiodico.com/es/sociedad/20260724/andalucia-envia-medios-aereos-70-132789655)<br>
 22:12 [5.000 nuevos desalojados de un camping en Madrid elevan el total a 63.000](https://www.elperiodico.com/es/videos/sucesos/5-000-nuevos-desalojados-camping/132789150.shtml)<br>
 21:27 [La Comunidad de Madrid denuncia el "chantaje" de 60 bomberos forestales](https://www.elperiodico.com/es/sociedad/20260724/comunidad-madrid-denuncia-chantaje-60-132788666)<br>
