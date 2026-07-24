@@ -1,5 +1,311 @@
 [
   {
+    "title": "Primera muerte de un trabajador en un accidente laboral en el Camp Nou",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/primera-muerte-trabajador-accidente-laboral/132784782.shtml",
+    "pubDate": "2026-07-24 18:51:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США продають зброю НАТО, а не Україні - Трамп",
+    "link": "https://ua.korrespondent.net/world/4897030-ssha-prodauit-zbroui-nato-a-ne-ukraini-tramp",
+    "pubDate": "2026-07-24 18:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507901.jpg\">Сполучені Штати не продають зброю Україні, а Китай та РФ не продають зброю Ірану, заявив американський лідер.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El incendio de alta montaña en Farrera afecta a 28 hectáreas y podría haber sido causado por un rayo.",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-alta-montana-farrera-afecta/132784656.shtml",
+    "pubDate": "2026-07-24 18:46:28",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вечірній обстріл Слов'янська: значні руйнування, 16 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4897032-vechirnii-obstril-slovianska-znachni-ruinuvannia-16-poranenykh",
+    "pubDate": "2026-07-24 18:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507907.jpg\">Російська атака пошкодила 11 багатоповерхівок, дві кав'ярні, аптеку, крамницю та друкарню.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pat Metheny no es de este mundo: el guitarrista ofrece un recital abrumador en el Festival de Jazz de Barcelona ante un público entregado",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260724/pat-metheny-mundo-guitarrista-ofrece-132781014",
+    "pubDate": "2026-07-24 18:44:08",
+    "category": "",
+    "description": "<h2>El guitarrista de jazz, que actuó en el Palau de la Música, demostró un virtuosismo intacto </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota оновила позашляховик Sequoia",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4897028-Toyota-onovyla-pozashliakhovyk-Sequoia",
+    "pubDate": "2026-07-24 18:35:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507881.jpg\">Флагманський позашляховик для американського ринку отримав оновлену зовнішність, сучаснішу мультимедійну систему, новий пакет Trailhunter для бездоріжжя та зберіг потужну гібридну силову установку i-Force Max.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Quién es Loredana: Mujer de Karim Adeyemi y rapera kosovar",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260724/loredana-mujer-karim-adeyemi-rapera-132784178",
+    "pubDate": "2026-07-24 18:34:50",
+    "category": "",
+    "description": "<h2>El nuevo jugador del Barça ha destacado la influencia de su pareja en su vida, así como la importancia de sus padres inmigrantes </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ferran Torres y Marcos Llorente celebran el Mundial con un prohibitivo vino que cuesta más que un yate",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260724/ferran-torres-marcos-llorente-celebran-132784028",
+    "pubDate": "2026-07-24 18:30:45",
+    "category": "",
+    "description": "<h2>Los campeones del mundo siguen con la celebración tras conquistar la segunda estrella con una de las pasiones del lateral madrileño</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Real Madrid de Mourinho se estrena con un penalti a favor en el primer minuto",
+    "link": "https://www.elperiodico.com/es/deportes/20260724/real-madrid-alcorcon-amistoso-entrenamiento-pretemporada-132780949",
+    "pubDate": "2026-07-24 18:29:27",
+    "category": "",
+    "description": "<h2>El equipo blanco realiza una sesión de entrenamiento con partidillo frente al Alcorcón, parcialmente abierto a la prensa</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Дрон РФ влучив у пасажирський поїзд на Дніпропетровщині - УЗ",
+    "link": "https://ua.korrespondent.net/ukraine/4897026-dron-rf-vluchyv-u-pasazhyrskyi-poizd-na-dnipropetrovschyni-uz",
+    "pubDate": "2026-07-24 18:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507879.jpg\">Залізничники й пасажири встигли евакуюватися з вагонів, що допомогло уникнути жертв і постраждалих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Колишнього президента УАФ затримали у Словаччині",
+    "link": "https://ua.korrespondent.net/ukraine/4897023-kolyshnoho-prezydenta-uaf-zatrymaly-u-slovachchyni",
+    "pubDate": "2026-07-24 18:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507867.png\">Ексочільника УАФ Андрія Павелка підозрюють в організації схеми з виведення майже 295 мільйонів гривень.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "LeBron James elige por sorpresa a los Philadelphia 76ers para su último baile",
+    "link": "https://www.elperiodico.com/es/deportes/20260724/lebron-james-elige-philadelphia-76ers-132782592",
+    "pubDate": "2026-07-24 18:10:16",
+    "category": "",
+    "description": "<h2>El exjugador de los Lakers firma por dos temporadas, lo que significa que se mantendrá en la NBA hasta los 43 años, y el salario más bajo de su carrera</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pili, la hermana de Rosalía, desvela que está detrás de los estilismos más comentados de Lamine Yamal durante el Mundial",
+    "link": "https://www.elperiodico.com/es/gente/20260724/pili-hermana-rosalia-estilismos-lamine-yamal-132780597",
+    "pubDate": "2026-07-24 18:08:44",
+    "category": "",
+    "description": "<h2 class=\"item\">El jugador del FC Barcelona ha lucido prendas de firmas de lujo como Chanel, Hermès y Dior durante las últimas semanas</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Catalunya activa varios avisos por intensidad de lluvia para este fin de semana y advierte de chubascos potencialmente torrenciales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260724/cataluna-meteocat-avisos-intensidad-lluvia-sabado-domingo-132779962",
+    "pubDate": "2026-07-24 18:05:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El Servei Meteorològic de Catalunya afirma que tanto el sábado como el domingo podrían producirse en varios puntos del territorio descargas de hasta 20 litros por metro cuadrado en periodos de apenas 30 minutos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260724/cambio-tiempo-ola-calor-prevision-espana-aemet-132766875\">Un cambio de tiempo pondrá fin a la ola de calor en España y dará un breve respiro antes de una nueva subida de las temperaturas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Укренерго зробило прогноз щодо вимкнень на суботу",
+    "link": "https://ua.korrespondent.net/ukraine/4897021-ukrenerho-zrobylo-prohnoz-schodo-vymknen-na-subotu",
+    "pubDate": "2026-07-24 18:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507866.jpg\">25 липня в Україні не плануються відключення електроенергії, однак українців просять економити.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Otras tres trabajadoras denuncian al productor Xavier Atance: se elevan a siete las acusaciones por acoso y agresión sexual",
+    "link": "https://www.elperiodico.com/es/sociedad/20260724/siete-denuncias-productor-xavier-atance-acoso-agresion-sexual-132771241",
+    "pubDate": "2026-07-24 18:01:01",
+    "category": "",
+    "description": "<h2 class=\"item\">La acusación más grave es por una violación denunciada por una trabajadora de 26 años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un nuevo robo histórico sacude Francia: desaparece el torque de oro del Tesoro de Vix",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260724/nuevo-robo-historico-sacude-francia-132781805",
+    "pubDate": "2026-07-24 17:54:23",
+    "category": "",
+    "description": "<h2>Los ladrones burlaron la seguridad del museo de Châtillon-sur-Seine, accediendo al edificio disfrazados de turistas para hacerse con la joya de incalculable valor histórico</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un Tribunal tumba el plan de Renfe para crear una empresa de autobuses tras las quejas de las patronales",
+    "link": "https://www.elperiodico.com/es/economia/20260724/tribunal-tumba-plan-renfe-crear-132782444",
+    "pubDate": "2026-07-24 17:52:00",
+    "category": "",
+    "description": "<h2>Pese a la resolución del órgano judicial, Renfe ha insistido a través de un comunicado en la creación de una empresa de autobuses que preste los servicios alternativos de transporte cuando la circulación en tren no sea posible</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Viladecans presenta al Pla de Barris una inversión de 25 millones para transformar áreas de 6.400 vecinos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260724/viladecans-presenta-pla-barris-inversion-25-millones-transformar-areas-6-400-vecinos-132781869",
+    "pubDate": "2026-07-24 17:51:00",
+    "category": "",
+    "description": "<h2>El proyecto prevé un Ateneu o una guardería en las zonas de Can Palmer, Can Sellarès, Poblat Roca, Hospital y Viviendas del Congreso</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260701/festival-teatro-carrer-viladecans-recupera-espectaculos-gran-formato-37-edicion-132002802\" target=\"_blank\">El festival de teatro Al Carrer de Viladecans recupera los espectáculos de gran formato en su 37ª edición</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Відні лайнер з 200 людьми врізався у шлюз",
+    "link": "https://ua.korrespondent.net/world/4897018-u-vidni-lainer-z-200-luidmy-vrizavsia-u-shluiz",
+    "pubDate": "2026-07-24 17:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507844.jpg\">Круїзний лайнер MS Anna Katharina зіткнувся зі шлюзом у Відні. На борту перебували близько 200 людей, 14 пасажирів отримали травми, шестеро з них потрапили до лікарні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Primera muerte de un trabajador en un accidente laboral en el Camp Nou",
+    "link": "https://www.elperiodico.com/es/sucesos/20260724/muere-trabajador-camp-nou-accidente-laboral-operario-golpe-132781879",
+    "pubDate": "2026-07-24 17:49:50",
+    "category": "",
+    "description": "<h2>El operario habría recibido un golpe mientras trabajaba en las obras del estadio</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20241011/batalla-campal-trabajadores-obras-camp-nou-palos-heridos-109206783\">Una batalla campal entre trabajadores de las obras del Camp Nou deja seis heridos leves</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Corte Inglés presentará en septiembre un plan estratégico con énfasis en las tiendas físicas",
+    "link": "https://www.elperiodico.com/es/economia/20260724/corte-ingles-presentara-septiembre-plan-132782260",
+    "pubDate": "2026-07-24 17:45:19",
+    "category": "",
+    "description": "<h2>La compañía obtuvo un beneficio neto de 628 millones de euros, un 22,8% más que el ejercicio anterior, mientras que el beneficio recurrente alcanzó los 522 millones, con un crecimiento del 11%</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Лавров звинуватив Трампа у недотриманні \"слова пацана\"",
+    "link": "https://ua.korrespondent.net/world/russia/4897014-lavrov-zvynuvatyv-trampa-u-nedotrymanni-slova-patsana",
+    "pubDate": "2026-07-24 17:41:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507831.jpg\">Глава МЗС Росії дорікнув американському президенту \"непацанською\" поведінкою через провал домовленостей в Анкориджі.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Фіцо висловився щодо участі Словаччини у Коаліції охочих",
+    "link": "https://ua.korrespondent.net/world/4897016-fitso-vyslovyvsia-schodo-uchasti-slovachchyny-u-koalitsii-okhochykh",
+    "pubDate": "2026-07-24 17:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507843.jpg\">Повідомлення про участь Братислави у \"військовому союзі\" виникло через \"непорозуміння\", яке має публічно пояснити французька сторона, вважає словацький прем’єр.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un Pogacar sobrenatural triunfa en Alpe d'Huez",
+    "link": "https://www.elperiodico.com/es/deportes/20260724/pogacar-sobrenatural-triunfa-alpe-huez-tour-francia-132777910",
+    "pubDate": "2026-07-24 17:33:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Majestuosa exhibición del jersey amarillo, en una tarde de enorme ciclismo, con 600.000 personas en la ascensión final y donde el fenómeno esloveno hizo añicos el récord de escalada que estableció Pantani en 1995.</h2><h2 class=\"item\"><a href=\"https://www.tissottiming.com/2026/tdf/stage-19/rankings\">Todas las clasificaciones.</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260724/viejo-tour-francia-anfetaminas-tourmalet-sergi-lopez-egea-132749374\">El Tourmalet.</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los nuevos aranceles de Trump amenazan con frenar las exportaciones y la inversión en España",
+    "link": "https://www.elperiodico.com/es/economia/20260724/trump-reconstruye-muro-arancelario-amenaza-frenar-exportaciones-inversion-espana-132770166",
+    "pubDate": "2026-07-24 17:30:14",
+    "category": "",
+    "description": "<h2>La tarifa del 10% amenaza unas exportaciones españolas de 18.100 millones, mientras Funcas calcula que una escalada al 20% podría restar hasta tres décimas al PIB</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El socavón de Montcada deja en el aire el calendario del mayor soterramiento ferroviario de Catalunya",
+    "link": "https://www.elperiodico.com/es/economia/20260724/socavon-montcada-deja-aire-calendario-obras-mayor-soterramiento-rodalies-catalunya-132768527",
+    "pubDate": "2026-07-24 17:27:35",
+    "category": "",
+    "description": "<h2>Las obras de 540 millones ya habían tenido que modificarse por las grietas detectadas en viviendas y Adif evita concretar cómo se alterarán los plazos por el incidente de Vallbona</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260723/adif-senala-aguas-freaticas-zona-posible-origen-socavon-soterramiento-montcada-132723796\" target=\"_blank\">El socavón de las obras de Montcada se hizo mayor con el agua del Rec Comtal</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260724/incidencias-rodalies-renfe-hoy-r2-r2nord-r11-ultima-hora-directo-126520847\" target=\"_blank\">Incidencias en Rodalies Renfe hoy, en directo | Última hora del socavón de Montcada y de las afectaciones en la alta velocidad Madrid-Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Imágenes de la Guardia Civil que ha detenido a una persona e investiga a una segunda como responsable del incendio forestal causado en Burgohondo (Ávila).",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/imagenes-guardia-civil-detenido-persona/132780996.shtml",
+    "pubDate": "2026-07-24 17:21:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Херсоні нацгвардійців викрили на схемі з ухилянтами",
+    "link": "https://ua.korrespondent.net/ukraine/4897010-u-khersoni-natshvardiitsiv-vykryly-na-skhemi-z-ukhyliantamy",
+    "pubDate": "2026-07-24 17:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507812.jpeg\">У Херсоні правоохоронці викрили двох військовослужбовців Нацгвардії, яких підозрюють у вимаганні 7 тисяч доларів за допомогу зі звільненням зі служби та подальшим оформленням інвалідності.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La DJ Barbara Butch denunciará a La Francia Insumisa y a figuras de la extrema derecha tras la interrupción de su concierto en Grenoble",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260724/dj-barbara-butch-denunciara-francia-132780495",
+    "pubDate": "2026-07-24 17:16:52",
+    "category": "",
+    "description": "<h2>La DJ acusa a responsables del partido de Jean-Luc Mélenchon, al medio Omertà y al ensayista Alain Soral de delitos relacionados con la incitación al odio, la violencia y el ciberacoso. La Fiscalía ya investiga los incidentes ocurridos durante su actuación.</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Удар РФ Київщині: порушено дві кримінальні справи",
+    "link": "https://ua.korrespondent.net/ukraine/4897012-udar-rf-kyivschyni-porusheno-dvi-kryminalni-spravy",
+    "pubDate": "2026-07-24 17:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507830.jpg\">Одне провадження стосується воєнного злочину РФ, друге - ймовірного неналежного виконання службових обов’язків під час організації заходу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Imágenes de Grupo 43 del Ejército del Aire y del Espacio trabajando en el incendio de San Martín de Valdeiglesias.",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/imagenes-grupo-43-ejercito-aire/132780731.shtml",
+    "pubDate": "2026-07-24 17:11:45",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський перезавантажує РНБО: Умєров і Клименко отримали нові задачі",
+    "link": "https://ua.korrespondent.net/ukraine/4897006-zelenskyi-perezavantazhuie-rnbo-umierov-i-klymenko-otrymaly-novi-zadachi",
+    "pubDate": "2026-07-24 17:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4507798.jpg\">Умєров займеться комунікацією з партнерами, Drone Deals і Freya, а Клименко - внутрішньою безпекою.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "De las fiestas en Ibiza de Ferran al turismo por Pekín de Pedri: los campeones del mundo disfrutan de sus vacaciones",
+    "link": "https://www.elperiodico.com/es/gente/20260724/fiestas-ibiza-ferran-turismo-pekin-132745142",
+    "pubDate": "2026-07-24 17:09:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Mientras algunos jugadores de la selección, como Ferran Torres, Marcos Llorente y Lamine Yamal, disfrutan de yates y restaurantes exclusivos en la isla pitiusa, Fabián Ruiz y Gavi han regresado a su pueblo natal en Sevilla</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 75
+  },
+  {
     "title": "З 10 сіл Дніпропетровщини евакуюють родини з дітьми",
     "link": "https://ua.korrespondent.net/ukraine/4897008-z-10-sil-dnipropetrovschyny-evakuuiuit-rodyny-z-ditmy",
     "pubDate": "2026-07-24 17:00:00",
