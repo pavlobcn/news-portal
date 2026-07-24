@@ -1,8 +1,16 @@
-# News for 2026-07-24 13:26
+# News for 2026-07-24 14:59
 
 Previous day: [2026-07-23](./data/2026-07-23.md)
 
 ## ua.korrespondent.net
+14:55 [Повітряні сили ЗСУ звернулись до українців](https://ua.korrespondent.net/ukraine/4896962-povitriani-syly-zsu-zvernulys-do-ukraintsiv)<br>
+14:49 [Удар по заводу в РФ: влада оголосила про жертви і приховує деталі](https://ua.korrespondent.net/world/russia/4896964-udar-po-zavodu-v-rf-vlada-oholosyla-pro-zhertvy-i-prykhovuie-detali)<br>
+14:42 [На Запоріжжі через обстріли знищено понад 1800 гектарів посівів](https://ua.korrespondent.net/ukraine/4896960-na-zaporizhzhi-cherez-obstrily-znyscheno-ponad-1800-hektariv-posiviv)<br>
+14:24 [Європі загрожує нестача газу взимку - ЗМІ](https://ua.korrespondent.net/world/4896955-yevropi-zahrozhuie-nestacha-hazu-vzymku-zmi)<br>
+14:21 [Уражено 19 енергооб'єктів РФ: Мадяр розповів про нову операцію СБС](https://ua.korrespondent.net/ukraine/4896953-urazheno-19-enerhoobiektiv-rf-madiar-rozpoviv-pro-novu-operatsiui-sbs)<br>
+14:14 [Удар РФ по Київщині: кількість жертв зростає](https://ua.korrespondent.net/ukraine/4896950-udar-rf-po-kyivschyni-kilkist-zhertv-zrostaie)<br>
+14:08 [СБУ завдала ударів по паливній та військовій інфраструктурі Росії](https://ua.korrespondent.net/ukraine/4896947-sbu-zavdala-udariv-po-palyvnii-ta-viiskovii-infrastrukturi-rosii)<br>
+13:57 [У Литві викрили шпигуна РФ, який збирав дані про військові об’єкти](https://ua.korrespondent.net/world/4896944-u-lytvi-vykryly-shpyhuna-rf-yakyi-zbyrav-dani-pro-viiskovi-obiekty)<br>
 13:21 [РФ вдарила по Київщині: шестеро людей загинули](https://ua.korrespondent.net/ukraine/4896932-rf-vdaryla-po-kyivschyni-shestero-luidei-zahynuly)<br>
 13:15 [В Італії готують пониження віку кримінальної відповідальності до 14 років](https://ua.korrespondent.net/world/4896928-v-italii-hotuuit-ponyzhennia-viku-kryminalnoi-vidpovidalnosti-do-14-rokiv)<br>
 12:55 [РФ атакувала портову інфраструктуру на Миколаївщині, пошкоджені два судна](https://ua.korrespondent.net/ukraine/4896920-rf-atakuvala-portovu-infrastrukturu-na-mykolaivschyni-poshkodzheni-dva-sudna)<br>
@@ -50,6 +58,9 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 00:37 [Флеш назвав регіони, яким загрожують шахеди з онлайн-керуванням](https://ua.korrespondent.net/ukraine/4896773-flesh-nazvav-rehiony-yakym-zahrozhuuit-shakhedy-z-onlain-keruvanniam)<br>
 
 ## as.com
+14:23 [Adiós a una leyenda: Jayson Granger anuncia su retirada](https://as.com/baloncesto/mas_baloncesto/adios-a-una-leyenda-jayson-granger-anuncia-su-retirada-f202607-n/)<br>
+14:05 [El Barça ficha a Tyrese Martin, un alero con 122 partidos en la NBA](https://as.com/baloncesto/acb/el-barca-ficha-a-tyrese-martin-un-alero-con-122-partidos-en-la-nba-f202607-n/)<br>
+13:16 [El Madrid se queda con Ndiaye](https://as.com/baloncesto/euroliga/el-madrid-se-queda-con-ndiaye-f202607-n/)<br>
 13:07 [Oficial: Llull seguirá un año más](https://as.com/baloncesto/oficial-llull-seguira-un-ano-mas-f202607-n/)<br>
 13:00 [España presenta su lista para el Mundial, pendiente de la WNBA](https://as.com/baloncesto/mas_baloncesto/espana-presenta-su-lista-para-el-mundial-pendiente-de-la-wnba-f202607-n/)<br>
 12:12 [El Madrid se interesa por Lonnie Walker](https://as.com/baloncesto/euroliga/el-madrid-se-interesa-por-lonnie-walker-f202607-n/)<br>
@@ -57,6 +68,14 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 07:52 [Madrid, Barça y Valencia, a vueltas con los cupos](https://as.com/baloncesto/acb/madrid-barca-y-valencia-a-vueltas-con-los-cupos-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:38 [Postres para la piel, el más beauty del verano](https://www.elperiodico.com/es/vida-y-estilo/20260724/postres-piel-beauty-verano-bc-132776131)<br>
+14:10 [Lluvia de Delta Acuáridas en julio: esta es la noche en la que caerán hasta 25 estrellas fugaces por hora](https://www.elperiodico.com/es/ciencia/20260724/lluvia-estrellas-delta-acuaridas-julio-2026-donde-cuando-ver-dv-132737340)<br>
+14:07 [Más de 25.600 personas evacuadas y al menos 63.500 confinadas por los incendios forestales de este verano](https://www.elperiodico.com/es/sociedad/20260724/15600-personas-evacuadas-confinados-incendios-verano-132770793)<br>
+13:59 [Un cambio de tiempo pondrá fin a la ola de calor en España y dará un breve respiro antes de una nueva subida de las temperaturas](https://www.elperiodico.com/es/videos/sociedad/cambio-tiempo-pondra-ola-calor/132774153.shtml)<br>
+13:53 [Ayuso acude al puesto de mando avanzado mientras los incendios de Madrid se unen en uno y alcanzan las 6.000 hectáreas calcinadas](https://www.elperiodico.com/es/politica/20260724/ayuso-acude-puesto-mando-avanzado-132774338)<br>
+13:51 [Las empresas tienen el derecho de comprobar la salud de sus empleados durante la baja médica y pueden suspender el sueldo si se niegan a la revisión](https://www.elperiodico.com/es/economia/20260724/empresas-derecho-comprobar-salud-empleados-baja-laboral-suspender-sueldo-niegan-revision-dv-132770649)<br>
+13:39 [La ONU pide la evacuación de unos 6.000 marinos que siguen atrapados en Ormuz por la guerra](https://www.elperiodico.com/es/internacional/20260724/onu-pide-evacuacion-marinos-estrecho-ormuz-132770836)<br>
+13:38 [Tensión y desconfianza crónicas: un año del conflicto armado entre Tailandia y Camboya](https://www.elperiodico.com/es/videos/internacional/tension-desconfianza-cronicas-ano-conflicto/132773113.shtml)<br>
 13:24 [El mar de ardora hace brillar las costas gallegas](https://www.elperiodico.com/es/videos/medio-ambiente/mar-ardora-brillar-costas-gallegas/132772315.shtml)<br>
 12:36 [DIRECTO | Señal en directo del incendio de San Martín de ValdeIglesias, Madrid](https://www.elperiodico.com/es/videos/sociedad/directo-senal-directo-incendio-san/132769884.shtml)<br>
 12:31 [Vall d'Hebron logra el primer trasplante entre dos personas con VIH en España](https://www.elperiodico.com/es/videos/sanidad/vall-dhebron-logra-primer-trasplante/132769551.shtml)<br>
@@ -80,6 +99,7 @@ Previous day: [2026-07-23](./data/2026-07-23.md)
 10:00 [Volver al trabajo tras superar un cáncer: "Es muy duro coger el ritmo, el regreso debe ser personalizado"](https://www.elperiodico.com/es/sanidad/20260724/volver-trabajo-tras-cancer-duro-coger-ritmo-regreso-personalizado-132669750)<br>
 09:46 [Castilla y León amanece con 9 fuegos activos y más de 1.500 evacuados entre Ávila y León](https://www.elperiodico.com/es/sociedad/20260724/incendio-tiemblo-evacuaciones-residencia-mayores-132761640)<br>
 09:43 [Consulta aquí el mapa de incendios que asolan España en tiempo real](https://www.elperiodico.com/es/sociedad/20260724/mapa-incendios-forestales-espana-tiempo-real-132761975)<br>
+09:31 [Elvira Sastre, en el videopódcast del suplemento 'ABRIL': "La palabra y la imagen son dos herramientas muy poderosas"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260724/elvira-sastre-videopodcast-suplemento-abril-132627409)<br>
 09:31 [Francia pide ayuda a la UE para controlar los tres grandes incendios que tiene activos](https://www.elperiodico.com/es/internacional/20260724/francia-pide-ayuda-ue-controlar-incendios-escapar-barco-132761527)<br>
 09:13 [El Ibex 35 desafía el vendaval de Trump y el Sabadell sube un 3,5% tras presentar resultados](https://www.elperiodico.com/es/economia/20260724/ibex-35-desafia-vendaval-trump-132760868)<br>
 09:03 [Los planes para la línea de Renfe del Bages prevén acortar su recorrido para hacerla más operativa](https://www.elperiodico.com/es/trafico-y-transportes/20260724/planes-linea-renfe-bages-preven-132760522)<br>
