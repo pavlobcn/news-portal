@@ -1,5 +1,68 @@
 [
   {
+    "title": "РФ атакувала поштове відділення у Сумах: є жертви",
+    "link": "https://ua.korrespondent.net/ukraine/4897068-rf-atakuvala-poshtove-viddilennia-u-sumakh-ye-zhertvy",
+    "pubDate": "2026-07-24 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508084.jpg\">Внаслідок влучання сталася пожежа. Одна людина загинула на місці, ще одна померла в лікарні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Andalucía envía medios aéreos y 70 efectivos para ayudar a la extinción de incendios de Madrid y Castilla y León",
+    "link": "https://www.elperiodico.com/es/sociedad/20260724/andalucia-envia-medios-aereos-70-132789655",
+    "pubDate": "2026-07-24 22:25:18",
+    "category": "",
+    "description": "<h2>El Plan Infoca moviliza dos aviones anfibios, un helicóptero, cuatro autobombas y 70 efectivos para apoyar las labores de extinción</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Працівник польської компанії загинув на виставці зброї під Києвом",
+    "link": "https://ua.korrespondent.net/ukraine/4897066-pratsivnyk-polskoi-kompanii-zahynuv-na-vystavtsi-zbroi-pid-kyievom",
+    "pubDate": "2026-07-24 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508072.jpg\">Серед учасників заходу, який атакували російські ракети, були представники оборонної промисловості, військові та технологічні компанії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump estudia cómo intensificar la guerra con Irán, que extiende las amenazas a sus aliados",
+    "link": "https://www.elperiodico.com/es/internacional/20260724/trump-ataque-masivo-iran-guerra-netanyahu-132789354",
+    "pubDate": "2026-07-24 22:13:20",
+    "category": "",
+    "description": "<h2>Netanyahu se reunirá el lunes con el presidente de EEUU en plena escalada de la tensión en Oriente Medio</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "5.000 nuevos desalojados de un camping en Madrid elevan el total a 63.000",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/5-000-nuevos-desalojados-camping/132789150.shtml",
+    "pubDate": "2026-07-24 22:12:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dimiten el presidente y el CEO de Plus Ultra, investigados por el préstamo a la aerolínea",
+    "link": "https://www.elperiodico.com/es/economia/20260724/dimiten-presidente-ceo-plus-ultra-132789261",
+    "pubDate": "2026-07-24 22:04:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Julio Martínez Sola y Roberto Roselli dejan sus cargos mientras continúan investigados por el rescate de la aerolínea. Hugo Castaño asumirá la presidencia ejecutiva, pendiente del visto bueno de la SEPI</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260724/psoe-plus-ultra-zapatero-begona-gomez-leire-diez-ultima-hora-directo-130387522\">Última hora de la trama del PSOE, en directo: caso Plus Ultra, Zapatero, Begoña Gómez y Leire Díez</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Прокурора МКС, який видав ордер на арешт Путіна, відсторонили: що сталося",
+    "link": "https://ua.korrespondent.net/world/4897064-prokurora-mks-yakyi-vydav-order-na-aresht-putina-vidstoronyly-scho-stalosia",
+    "pubDate": "2026-07-24 21:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4508060.jpg\">Держави-учасниці МКС проголосували за тимчасове відсторонення Каріма Хана через звинувачення у сексуальних домаганнях, які сам прокурор категорично заперечує.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Trump dice que Venezuela todavía no está \"preparada\" para elecciones pero hay \"avances\"",
     "link": "https://www.elperiodico.com/es/internacional/20260724/trump-dice-venezuela-todavia-preparada-132788923",
     "pubDate": "2026-07-24 21:43:46",
