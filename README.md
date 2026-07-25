@@ -1,8 +1,10 @@
-# News for 2026-07-25 19:41
+# News for 2026-07-25 20:42
 
 Previous day: [2026-07-24](./data/2026-07-24.md)
 
 ## ua.korrespondent.net
+20:31 [РФ знищила склади логістичного центру в Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4897220-rf-znyschyla-sklady-lohistychnoho-tsentru-v-zaporizhzhi)<br>
+20:09 [Дніпропетровщина під масованим ударом: майже 50 атак, є жертви](https://ua.korrespondent.net/city/dnepr/4897216-dnipropetrovschyna-pid-masovanym-udarom-maizhe-50-atak-ye-zhertvy)<br>
 19:08 [У Польщі хочуть заблокувати повернення Україні цінних картин зі Львова](https://ua.korrespondent.net/showbiz/culture/4897205-u-polschi-khochut-zablokuvaty-povernennia-ukraini-tsinnykh-kartyn-zi-lvova)<br>
 18:21 [Била онуку в магазині: на Миколаївщині в бабусі вилучили дитину](https://ua.korrespondent.net/ukraine/4897200-byla-onuku-v-mahazyni-na-mykolaivschyni-v-babusi-vyluchyly-dytynu)<br>
 17:57 [У Києві біля ресторану знайшли гранати в покинутій куртці](https://ua.korrespondent.net/ukraine/4897195-u-kyievi-bilia-restoranu-znaishly-hranaty-v-pokynutii-kurttsi)<br>
@@ -24,6 +26,7 @@ Previous day: [2026-07-24](./data/2026-07-24.md)
 02:23 [На Київщині оголошено день жалоби](https://ua.korrespondent.net/ukraine/4897083-na-kyivschyni-oholosheno-den-zhaloby)<br>
 
 ## as.com
+19:42 [Muere el argentino Horacio Muratore, expresidente de la FIBA](https://as.com/baloncesto/mas_baloncesto/muere-el-argentino-horacio-muratore-expresidente-de-la-fiba-f202607-n/)<br>
 14:13 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
 14:10 [Skapintsev, fuerza interior para el Leyma Coruña](https://as.com/baloncesto/acb/skapintsev-fuerza-interior-para-el-leyma-coruna-f202607-n/)<br>
 13:32 [El Baskonia anuncia la salida de Diakite](https://as.com/baloncesto/el-baskonia-anuncia-la-salida-de-diakite-f202607-n/)<br>
@@ -36,6 +39,10 @@ Previous day: [2026-07-24](./data/2026-07-24.md)
 08:53 [“Me ofrecieron 10 millones... al año, un cheque en blanco”](https://as.com/baloncesto/euroliga/me-ofrecieron-10-millones-al-ano-un-cheque-en-blanco-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:27 [El gran incendio de Madrid y Ávila mira al cielo buscando una tregua: más de 88.000 afectados y 45.000 hectáreas arrasadas](https://www.elperiodico.com/es/sociedad/20260725/gran-incendio-madrid-avila-mira-cielo-buscando-tregua-afectados-hectareas-quemadas-132809433)<br>
+20:15 [El barrio del Clot de Barcelona lo consigue: estas arcadas de una antigua estación de tren serán rehabilitadas](https://www.elperiodico.com/es/barcelona/20260725/clot-parque-barcelona-rehabilitacion-arcadas-dv-loc-132770245)<br>
+20:07 [El incendio de la Vall d'Uixó obliga a evacuar a los 6.000 vecinos de la Vilavella, Artana y Eslida](https://www.elperiodico.com/es/videos/sociedad/incendio-vall-duixo-obliga-evacuar/132809103.shtml)<br>
+19:48 [Así son las llamas que han quemado árboles por completo en los incendios de la Comunidad de Madrid](https://www.elperiodico.com/es/videos/sociedad/son-llamas-han-quemado-arboles/132808768.shtml)<br>
 19:30 [“Parece el apocalipsis”: el relato de un bombero del GERA tras una noche defendiendo viviendas del fuego en Madrid](https://www.elperiodico.com/es/sociedad/20260725/apocalipsis-relato-bombero-gera-incendios-madrid-fuego-132808501)<br>
 19:19 [El Gobierno amplía la emergencia nacional por los incendios a Toledo](https://www.elperiodico.com/es/sociedad/20260725/gobierno-amplia-emergencia-nacional-incendios-132808315)<br>
 19:03 [Una trabajadora del crucero Disney Dream denuncia un supuesto envenenamiento de una compañera](https://www.elperiodico.com/es/sociedad/20260725/trabajadora-crucero-disney-dream-denuncia-132808007)<br>
