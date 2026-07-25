@@ -1,8 +1,9 @@
-# News for 2026-07-25 16:25
+# News for 2026-07-25 17:40
 
 Previous day: [2026-07-24](./data/2026-07-24.md)
 
 ## ua.korrespondent.net
+17:34 [11 млн тонн "зависли": чому ціни на зерно падають](https://ua.korrespondent.net/ukraine/4897193-11-mln-tonn-zavysly-chomu-tsiny-na-zerno-padauit)<br>
 16:05 [У Грузії запідозрили диверсію після двох масштабних блекаутів](https://ua.korrespondent.net/world/4897180-u-hruzii-zapidozryly-dyversiui-pislia-dvokh-masshtabnykh-blekautiv)<br>
 14:42 [Спершу спека, потім грози: якою буде погода найближчими днями](https://ua.korrespondent.net/ukraine/4897170-spershu-speka-potim-hrozy-yakoui-bude-pohoda-naiblyzhchymy-dniamy)<br>
 14:42 [Спершу спека, потім грози: якою буде погода найближчими днями](https://ua.korrespondent.net/ukraine/4897171-spershu-speka-potim-hrozy-yakoui-bude-pohoda-naiblyzhchymy-dniamy)<br>
@@ -32,6 +33,14 @@ Previous day: [2026-07-24](./data/2026-07-24.md)
 08:53 [“Me ofrecieron 10 millones... al año, un cheque en blanco”](https://as.com/baloncesto/euroliga/me-ofrecieron-10-millones-al-ano-un-cheque-en-blanco-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:29 [Ocho muertos, incluyendo seis niños, en un incendio investigado como un posible homicidio-suicidio en Michigan](https://www.elperiodico.com/es/internacional/20260725/ocho-muertos-incluyendo-seis-ninos-homicidio-suicidio-michigan-132805720)<br>
+17:28 [Los Bombers activan a 50 efectivos para luchar contra un incendio forestal en Cubelles y confinan a las urbanizaciones de la zona](https://www.elperiodico.com/es/sociedad/20260725/bomberos-incendio-forestal-cubelles-confinan-urbanizaciones-132805425)<br>
+17:26 [Un camión de bomberos de Madrid se adentra casi a ciegas en uno de los incendios](https://www.elperiodico.com/es/videos/sociedad/camion-bomberos-madrid-adentra-ciegas-incendio/132805468.shtml)<br>
+17:00 [Conchi Lillo, científica: "Unas gafas para el eclipse son buenas si al probarlas antes no ves absolutamente nada"](https://www.elperiodico.com/es/sociedad/20260725/conchi-lillo-cientifica-eclipse-salud-ocular-consejos-entrevista-132750331)<br>
+17:00 [Estas aplicaciones te ayudarán a elegir el mejor lugar de Mallorca para ver el eclipse solar](https://www.elperiodico.com/es/tecnologia/20260725/aplicaciones-ayudaran-elegir-mejor-lugar-dv-132732315)<br>
+16:55 [Restituida la circulación del agua en un tramo del Rec Comtal tras el socavón de Vallbona](https://www.elperiodico.com/es/sociedad/20260725/restituida-circulacion-agua-rec-comtal-socavon-vallbona-montcada-132804384)<br>
+16:50 [Escándalo científico: China oculta la muerte de una niña que recibió una terapia génica experimental de 860.000 dólares](https://www.elperiodico.com/es/sociedad/20260725/escandalo-cientifico-china-oculta-muerte-nina-terapia-genica-experimental-132803731)<br>
+16:29 [El fuego avanza sin control en Francia y se acerca a Burdeos](https://www.elperiodico.com/es/internacional/20260725/fuego-avanza-francia-acerca-burdeos-incendio-132804385)<br>
 16:03 [Los vecinos de Navaluenga (Ávila) preparan un retén para frenar el fuego](https://www.elperiodico.com/es/videos/sociedad/vecinos-navaluenga-avila-preparan-reten-fuego-video/132803516.shtml)<br>
 15:29 [¿Por qué el cielo de Madrid se ha teñido hoy de amarillo en pleno día? Este es el fenómeno óptico detrás de una luz que parece de atardecer](https://www.elperiodico.com/es/sociedad/20260725/cielo-madrid-luz-amarilla-atardecer-explicacion-incendios-132802665)<br>
 14:47 [Un piloto de avión graba el incendio de Ávila desde 22.000 pies de altura](https://www.elperiodico.com/es/videos/sociedad/piloto-avion-graba-incendio-avila/132802582.shtml)<br>
