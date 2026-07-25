@@ -1,4 +1,4 @@
-# News for 2026-07-25 08:37
+# News for 2026-07-25 10:37
 
 Previous day: [2026-07-24](./data/2026-07-24.md)
 
@@ -7,8 +7,20 @@ Previous day: [2026-07-24](./data/2026-07-24.md)
 03:24 [Пожежу біля Мадрида визнали наййгіршою в історії](https://ua.korrespondent.net/world/4897088-pozhezhu-bilia-madryda-vyznaly-naiihirshoui-v-istorii)<br>
 02:23 [На Київщині оголошено день жалоби](https://ua.korrespondent.net/ukraine/4897083-na-kyivschyni-oholosheno-den-zhaloby)<br>
 
+## as.com
+09:17 [España anuncia su convocatoria para el Mundial 2026](https://as.com/baloncesto/videos/espanaa-anuncia-su-convocatoria-para-el-mundial-2026-f202607-v/)<br>
+08:53 [“Me ofrecieron 10 millones... al año, un cheque en blanco”](https://as.com/baloncesto/euroliga/me-ofrecieron-10-millones-al-ano-un-cheque-en-blanco-f202607-n/)<br>
+
 ## www.elperiodico.com
+10:30 [Tender la ropa en el patio de luces puede salir caro: retirada obligatoria, demanda y costas judiciales](https://www.elperiodico.com/es/vivienda/20260725/tendederos-adios-costumbre-historica-espana-ley-propiedad-horizontal-dv-132654471)<br>
+10:12 [La familia que ha perdido sus dos chiringuitos por los incendios de Madrid: "Se quemó todo en cinco minutos"](https://www.elperiodico.com/es/sociedad/20260725/familia-pelayos-presa-chiringuitos-pantano-san-juan-incendios-madrid-132795374)<br>
+10:00 [La compleja batalla de Adif contra el agua bajo el barrio de Vallbona: proyecta pozos y sifones para drenar el túnel de alta velocidad](https://www.elperiodico.com/es/sociedad/20260725/compleja-batalla-adif-agua-barrio-132780454)<br>
+09:49 [Los bomberos trabajan para extinguir los incendios en la sierra oeste de Madrid](https://www.elperiodico.com/es/videos/sociedad/bomberos-extinguir-incendios-sierra-oeste-video/132794671.shtml)<br>
+09:41 [Laura Lobo, abogada de familia: "Todo lo que pidas, que sea en beneficio de tus hijos"](https://www.elperiodico.com/es/economia/20260725/juicio-divorcio-matrimonio-hijos-conflicto-padres-dv-132623521)<br>
+09:19 [El 57% de aves cinegéticas presenta un declive poblacional en España](https://www.elperiodico.com/es/sociedad/20260725/57-aves-cinegeticas-presenta-declive-132794138)<br>
+09:15 [Víctor Rojas, pastor del cap de Creus con 700 ovejas: "Los incendios se apagan en invierno gestionando el territorio, no en verano"](https://www.elperiodico.com/es/medio-ambiente/20260725/victor-rojas-pastor-cap-creus-incendios-apagan-invierno-territorio-verano-dv-et-132663755)<br>
 08:50 [Incendios forestales en Catalunya y resto de España, en directo: Madrid, fuera de la capacidad de extinción: más de 63.000 evacuados o confinados por los incendios](https://www.elperiodico.com/es/sociedad/20260725/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+08:47 [Marc Simón reivindica los nuevos Premios de Transformación Social: "Es muy importante dar a conocer proyectos que funcionan y replicarlos"](https://www.elperiodico.com/es/sociedad/20260725/marc-simon-premios-transformacion-social-cafe-alturas-132793943)<br>
 08:35 [La doble tirolina más larga de Catalunya ya está en marcha: espectaculares vistas de los Pirineos](https://www.elperiodico.com/es/catalunya/20260725/tirolina-mas-larga-cataluna-boi-taull-pirineos-dv-loc-132660078)<br>
 08:05 [Última hora de los incendios en España, en directo | Protección Civil prevé una evolución más favorable del fuego de Madrid por el cambio de viento](https://www.elperiodico.com/es/sociedad/20260725/ultima-hora-incendios-espana-directo-132759066)<br>
 08:00 [Begoña Román, profesora de Ética: "Las personas que aceptan su dolor suelen afrontar mejor las recaídas"](https://www.elperiodico.com/es/ser-feliz/20260725/begona-roman-profesora-etica-personas-132642926)<br>
