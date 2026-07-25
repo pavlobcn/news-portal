@@ -1,9 +1,19 @@
-# News for 2026-07-25 02:59
+# News for 2026-07-25 06:19
 
 Previous day: [2026-07-24](./data/2026-07-24.md)
 
 ## ua.korrespondent.net
+03:24 [Пожежу біля Мадрида визнали наййгіршою в історії](https://ua.korrespondent.net/world/4897088-pozhezhu-bilia-madryda-vyznaly-naiihirshoui-v-istorii)<br>
 02:23 [На Київщині оголошено день жалоби](https://ua.korrespondent.net/ukraine/4897083-na-kyivschyni-oholosheno-den-zhaloby)<br>
 
 ## www.elperiodico.com
+06:01 [El socavón de Montcada impacta en la potabilización del Besòs](https://www.elperiodico.com/es/sociedad/20260725/obras-socavon-montcada-impactan-potabilizacion-besos-132773191)<br>
+06:01 [Catalunya tendrá una compañía nacional de danza en 2027](https://www.elperiodico.com/es/ocio-y-cultura/20260725/catalunya-tendra-compania-nacional-danza-132410710)<br>
+06:00 [La guía definitiva para comprar gafas del eclipse: dónde encontrarlas, cuánto valen y 5 cosas en las que fijarse para escoger las adecuadas](https://www.elperiodico.com/es/sociedad/20260725/gafas-eclipse-homologadas-requisitos-consejos-donde-comprar-132778802)<br>
+06:00 [Del anuncio de Illa al temor de regresar a la 'ciudad dormitorio': el reto de densificar para sumar vivienda](https://www.elperiodico.com/es/barcelona/20260725/anuncio-illa-temor-regresar-ciudad-132673663)<br>
+06:00 [Nuevo récord en el alquiler de los locales comerciales de Barcelona: escaló hasta 1.570 euros mensuales de media en 2025](https://www.elperiodico.com/es/barcelona/20260725/precio-alquiler-locales-comerciales-barcelona-escalo-2025-hasta-1570-euros-132677860)<br>
+06:00 [Aleix Martínez, el catalán que triunfa en el Ballet de Hamburgo y sueña con volver a casa: "Al Mediterráneo lo llevo dentro y eso tira"](https://www.elperiodico.com/es/ocio-y-cultura/20260725/aleix-martinez-catalan-triunfa-ballet-132521121)<br>
+06:00 [Más de un tercio de los comercios de Barcelona han abierto después de la pandemia](https://www.elperiodico.com/es/barcelona/20260725/comercios-barcelona-antiguedad-un-tercio-abiertos-ultimos-cinco-anos-132706657)<br>
+06:00 [‘La Odisea’ genera dinero a mansalva y discusiones en las redes por sus diversos formatos](https://www.elperiodico.com/es/ocio-y-cultura/20260725/odisea-genera-dinero-mansalva-discusiones-132744385)<br>
+05:30 [Entrevista a Aleix Martínez, bailarín en el Ballet de Hamburgo](https://www.elperiodico.com/es/videos/ocio-y-cultura/entrevista-aleix-martinez-bailarin-ballet/132539985.shtml)<br>
 00:36 [Temporada de dansa a Catalunya](https://www.elperiodico.com/es/ocio-y-cultura/20260725/temporada-dansa-catalunya-132790334)<br>
