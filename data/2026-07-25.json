@@ -1,5 +1,59 @@
 [
   {
+    "title": "Іран звинуватив Україну в атаці на його судно",
+    "link": "https://ua.korrespondent.net/world/worldabus/4897241-iran-zvynuvatyv-ukrainu-v-atatsi-na-yoho-sudno",
+    "pubDate": "2026-07-25 22:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509043.jpg\">Тегеран назвав напад на своє судно актом агресії та звинуватив Київ у спробах розширити війну в Україні.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Усик відзначив у соцмережах другий успіх Хижняка",
+    "link": "https://ua.korrespondent.net/sport/boks/4897239-usyk-vidznachyv-u-sotsmerezhakh-druhyi-uspikh-khyzhniaka",
+    "pubDate": "2026-07-25 22:54:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509027.jpg\">Колишній абсолют схвально відгукнувся щодо успішного другого поєдинку Олександра Хижняка на профірингу у напівважкій вазі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La lluvia obliga a finalizar antes de lo previsto el segundo día del Share Festival",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260725/lluvia-obliga-finalizar-previsto-segundo-dia-share-festival-barcelona-132811489",
+    "pubDate": "2026-07-25 22:53:01",
+    "category": "",
+    "description": "<h2>A pesar de que el último concierto seguía en pie, los asistentes han empezado a abandonar el recinto</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Un tribunal bloquea provisionalmente la polémica reforma de Trump sobre el voto por correo",
+    "link": "https://www.elperiodico.com/es/internacional/20260725/tribunal-bloquea-provisionalmente-polemica-reforma-132811449",
+    "pubDate": "2026-07-25 22:42:05",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Al menos 60 policías heridos en una protesta contra una línea de alta velocidad en el norte de Italia",
+    "link": "https://www.elperiodico.com/es/internacional/20260725/60-policias-heridos-protesta-linea-132811355",
+    "pubDate": "2026-07-25 22:34:43",
+    "category": "",
+    "description": "<h2>No se ha informado de cifras concretas de lesionados entre los manifestantes, aunque algunos medios indican que podrían ser alrededor de medio centenar</h2>",
+    "topic": "0",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп наказав зупинити удари по Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4897236-tramp-nakazav-zupynyty-udary-po-iranu-zmi",
+    "pubDate": "2026-07-25 22:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509028.jpg\">Американські військові паралельно все ще готують плани можливого відновлення великих бойових дій, пише Axios.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "ЗСУ відбили понад 200 атак Росії за день - Генштаб",
     "link": "https://ua.korrespondent.net/ukraine/4897234-zsu-vidbyly-ponad-200-atak-rosii-za-den-henshtab",
     "pubDate": "2026-07-25 21:58:00",
