@@ -1,4 +1,4 @@
-# News for 2026-07-25 23:04
+# News for 2026-07-26 00:06
 
 Previous day: [2026-07-24](./data/2026-07-24.md)
 
@@ -26,6 +26,7 @@ Previous day: [2026-07-24](./data/2026-07-24.md)
 02:23 [На Київщині оголошено день жалоби](https://ua.korrespondent.net/ukraine/4897083-na-kyivschyni-oholosheno-den-zhaloby)<br>
 
 ## as.com
+23:09 [España empieza fuerte con un Chiek Diallo intimidante](https://as.com/baloncesto/mas_baloncesto/espana-empieza-fuerte-con-un-chiek-diallo-intimidante-f202607-n/)<br>
 21:50 [Nunn enfada a su afición](https://as.com/baloncesto/euroliga/nunn-enfada-a-su-aficion-f202607-n/)<br>
 19:42 [Muere el argentino Horacio Muratore, expresidente de la FIBA](https://as.com/baloncesto/mas_baloncesto/muere-el-argentino-horacio-muratore-expresidente-de-la-fiba-f202607-n/)<br>
 14:13 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
