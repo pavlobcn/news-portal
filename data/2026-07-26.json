@@ -1,5 +1,50 @@
 [
   {
+    "title": "Ataque a un anciano en la provincia de Málaga, por una integrante de una banda desarticulada por la Guardia Civil en junio pasado.",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ataque-anciano-provincia-malaga-abrazo-carinoso/132833710.shtml",
+    "pubDate": "2026-07-26 23:50:04",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 27 de julio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/portada-periodico-27-julio-2026-132833655",
+    "pubDate": "2026-07-26 23:47:32",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Українці 11 днів вимагають повернути Федорова",
+    "link": "https://ua.korrespondent.net/ukraine/4897397-ukraintsi-11-dniv-vymahauit-povernuty-fedorova",
+    "pubDate": "2026-07-26 23:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510285.jpg\">Протестувальники продовжують вимагати \"міняти полонених, а не Федорова\", та закликають владу \"виправити помилку\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un 'abrazo' de una ladrona a un anciano en Torrevieja, en febrero pasado",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/abrazo-ladrona-anciano-torrevieja-febrero/132833595.shtml",
+    "pubDate": "2026-07-26 23:42:04",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las cifras del virulento incendio de Castellón: 76.000 vecinos de 21 zonas afectadas y 6.500 hectáreas quemadas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/cifras-virulento-incendio-castellon-76-132833556",
+    "pubDate": "2026-07-26 23:39:40",
+    "category": "",
+    "description": "<h2>El fuego contra el que todavía luchan los efectivos afecta ya a un perímetro de 48 kilómetros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У США достатньо зброї для війни проти Ірану - Волц",
     "link": "https://ua.korrespondent.net/world/4897395-u-ssha-dostatno-zbroi-dlia-viiny-proty-iranu-volts",
     "pubDate": "2026-07-26 23:20:00",
@@ -7,6 +52,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510245.jpg\">Посол США в ООН спростував повідомлення про те, що у американських військових запаси деяких видів озброєння  вичерпані.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "РФ завдала масований авіаудар по Сумах",
+    "link": "https://ua.korrespondent.net/ukraine/4897392-rf-zavdala-masovanyi-aviaudar-po-sumakh",
+    "pubDate": "2026-07-26 22:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510243.jpg\">Росіяни спрямували сім КАБів на обʼєкти міської інфраструктури та приватний житловий сектор.",
+    "topic": "політика",
+    "topic_match_probability": 40
   },
   {
     "title": "Біля Одеси затонуло судно, яке РФ атакувала тиждень тому",

@@ -1,4 +1,4 @@
-# News for 2026-07-26 23:39
+# News for 2026-07-27 00:12
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
@@ -33,6 +33,7 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 08:50 [Shengelia apunta a Dubái](https://as.com/baloncesto/otra-baja-sensible-para-el-barca-shengelia-apunta-a-dubai-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:39 [Las cifras del virulento incendio de Castellón: 76.000 vecinos de 21 zonas afectadas y 6.500 hectáreas quemadas](https://www.elperiodico.com/es/sociedad/20260726/cifras-virulento-incendio-castellon-76-132833556)<br>
 22:20 [El incendio de Castellón quema ya 6.500 hectáreas, pero se ve posibilidad de estabilizarlo](https://www.elperiodico.com/es/sociedad/20260726/incendio-castellon-quema-6-500-132832811)<br>
 22:15 [Las claves del día en el incendio de Castellón: dónde está el mayor peligro, la investigación sobre las causas “no naturales” y una puerta a la esperanza](https://www.elperiodico.com/es/sociedad/20260726/claves-dia-incendio-castellon-mayor-132832769)<br>
 21:32 [Interrumpido el servicio de la R2 de Rodalies entre Cunit y Cubelles por la caída de un árbol en las vías](https://www.elperiodico.com/es/trafico-y-transportes/20260726/interrumpido-servicio-r2-rodalies-cunit-cubelles-caida-arbol-132832123)<br>
