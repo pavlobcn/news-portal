@@ -1,5 +1,212 @@
 [
   {
+    "title": "РФ за тиждень випустили по Україні 95 ракет",
+    "link": "https://ua.korrespondent.net/ukraine/4897313-rf-za-tyzhden-vypustyly-po-ukraini-95-raket",
+    "pubDate": "2026-07-26 12:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509693.jpg\">Вночі росіяни випустили по Україні 8 ракет і 136 дронів. Під ударами були Херсонська, Донецька, Дніпровська, Харківська, Сумська, Одеська, Миколаївська, Запорізька, Чернігівська області та Київ.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Todo el mundo quiere a Ferran Torres, menos el Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260726/mundo-quiere-ferran-torres-barca-132811046",
+    "pubDate": "2026-07-26 12:50:27",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "DIRECTO | Ayuso acompaña a S.M. el Rey en su visita al punto de acogida por los incendios en Villamanta",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-ayuso-acompana-s-m/132820503.shtml",
+    "pubDate": "2026-07-26 12:45:49",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "Війська РФ вдарили по фермі на Сумщині, загинули корови",
+    "link": "https://ua.korrespondent.net/ukraine/4897310-viiska-rf-vdaryly-po-fermi-na-sumschyni-zahynuly-korovy",
+    "pubDate": "2026-07-26 12:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509677.png\">Унаслідок атак по молочно-товарній фермі у Дубов’язівській громаді загинули корови, є поранені тварини.",
+    "topic": "політика",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Desalojo de vecinos entre Almorox (Toledo) y Villa del Prado (Madrid) por la Guardia Civil el pasado día 22.mp4",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/desalojo-vecinos-almorox-toledo-villa-del-prado/132820016.shtml",
+    "pubDate": "2026-07-26 12:24:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las Palmas de Gran Canaria se desnuda ante el objetivo de Spencer Tunick",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260726/palmas-gran-canaria-desnuda-objetivo-spencer-tunick-132819980",
+    "pubDate": "2026-07-26 12:23:28",
+    "category": "",
+    "description": "<h2>El fotógrafo estadounidense transformó la vulnerabilidad del desnudo en una imagen de poder colectivo y visibilidad para el colectivo LGTBIQA+</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La obra de Spencer Tunick en Las Palmas de Gran Canaria",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/obra-spencer-tunick-palmas-gran/132819841.shtml",
+    "pubDate": "2026-07-26 12:17:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez destaca la evolución favorable del incendio, pero asegura que \"quedan horas complejas\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/sanchez-destaca-evolucion-favorable-incendio/132819730.shtml",
+    "pubDate": "2026-07-26 12:16:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Удар по Запоріжжю: є загиблий, шестеро поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4897305-udar-po-zaporizhzhui-ye-zahyblyi-shestero-poranenykh",
+    "pubDate": "2026-07-26 12:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509659.jpg\">За даним пабліків, у Кривому Розі внаслідок російського обстрілу стався приліт по \"Епіцентру\", там масштабна пожежа.",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Protección Civil mantiene activada la alerta por lluvias intensas en el Maresme y el sur de Girona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/proteccion-civil-mantiene-activada-alerta-132819099",
+    "pubDate": "2026-07-26 12:02:55",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260725/catalunya-activa-aviso-lluvias-torrenciales-132795005\">Catalunya eleva los avisos por lluvia y activa su plan frente a inundaciones ante los chubascos torrenciales previstos para este fin de semana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El clan Fujimori vuelve al poder en Perú: similitudes y diferencias entre padre e hija",
+    "link": "https://www.elperiodico.com/es/internacional/20260726/fujimori-peru-keiko-alberto-padre-hija-diferencias-132819295",
+    "pubDate": "2026-07-26 12:00:52",
+    "category": "",
+    "description": "<h2>Keiko Fujimori se propone reivindicar el legado paterno, pero sin reproducir los errores que llevaron al expresidente a huir del país en 2000</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "No juguemos con la testosterona",
+    "link": "https://www.elperiodico.com/es/opinion/20260726/juguemos-testosterona-estados-unidos-articulo-salvador-macip-132789662",
+    "pubDate": "2026-07-26 12:00:52",
+    "category": "",
+    "description": "<h2>La tradicional guerra de trincheras, que quizás sí que se podría beneficiar de soldados dopados, hace mucho que ha pasado a la historia</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260718/pentagono-realizara-pruebas-detectar-deficiencia-testosterona-132584032\">El Pentágono realizará pruebas para detectar deficiencia de testosterona entre los soldados estadounidenses</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Una amonestación sin sanción pone fin al expediente al bombero crítico con la reserva femenina de plazas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260726/amonestacion-sin-sancion-pone-fin-expediente-bombero-critico-reserva-femenina-plazas-132674173",
+    "pubDate": "2026-07-26 12:00:52",
+    "category": "",
+    "description": "<h2>El caso se resuelve sin penalización laboral ni económica; la defensa del amonestado pide la nulidad y advierte de una posible vía judicial</h2><h2>\"Se ha vulnerado el principio de presunción de inocencia y ha habido indefensión\", considera la defensa del expedientado </h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260126/expediente-disciplinario-mensajes-machistas-sacude-bomberos-generalitat-difamacion-plazas-mujeres-125790347\">Interior propone sancionar a un bombero por sus \"mensajes machistas\" tras un manifiesto crítico de un centenar de efectivos</a></h2><h2>NOTICIA | <a href=\"https://www.elperiodico.com/es/barcelona/20260126/expediente-disciplinario-mensajes-machistas-sacude-bomberos-generalitat-difamacion-plazas-mujeres-125790347\">Interior intenta frenar cambios de sexo fraudulentos en Bombers tras dos casos en Badalona y Vic</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cómo afecta el calor al rendimiento y durabilidad de los neumáticos: claves para conducir con seguridad en verano",
+    "link": "https://www.elperiodico.com/es/motor/20260726/afecta-calor-rendimiento-durabilidad-neumaticos-132770160",
+    "pubDate": "2026-07-26 12:00:52",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Los neumáticos están diseñados para soportar estas condiciones tan exigentes; sin embargo, para cumplir a la perfección con su trabajo, es fundamental que se encuentren en perfecto estado de uso y mantenimiento</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Está EE UU esquilmando a Venezuela pese a los terremotos?",
+    "link": "https://www.elperiodico.com/es/opinion/20260726/estados-unidos-petroleo-venezuela-terremoto-132780588",
+    "pubDate": "2026-07-26 12:00:51",
+    "category": "",
+    "description": "<h2>La Administración de Donald Trump ha vendido petróleo venezolano por valor de 13.000 millones de dólares, pero el dinero para la reconstrucción llega con cuentagotas </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un All-Star de récord para la WNBA",
+    "link": "https://as.com/baloncesto/un-all-star-de-record-para-la-wnba-f202607-n/",
+    "pubDate": "2026-07-26 11:49:15",
+    "category": "WNBA",
+    "description": "El Partido de las Estrellas reunió a 19.783 espectadores en Chicago, la mayor asistencia de su historia, con Jonquel Jones como MVP.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez destaca la evolución en el control de los fuegos",
+    "link": "https://www.elperiodico.com/es/politica/20260726/sanchez-evolucion-control-incendios-madrid-avila-toledo-132819071",
+    "pubDate": "2026-07-26 11:47:46",
+    "category": "",
+    "description": "<h2>El Consejo de Ministros aprobará el martes el real decreto que declarará zonas gravemente afectadas los territorios asolados por las llamas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Сибіга прокоментував заклик Токаєва до Путіна",
+    "link": "https://ua.korrespondent.net/ukraine/4897301-sybiha-prokomentuvav-zaklyk-tokaieva-do-putina",
+    "pubDate": "2026-07-26 11:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509641.png\">Україна запропонувала зупинити війну вздовж нинішньої лінії фронту та перейти до дипломатії, але Кремль продовжує відкидати цей чіткий шлях до миру.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Junqueras dice estar convencido de la inocencia de Zapatero aunque\"mintió\" con el Estatut",
+    "link": "https://www.elperiodico.com/es/politica/20260726/junqueras-zapatero-investigacion-corrupcion-joyas-junq-132818923",
+    "pubDate": "2026-07-26 11:43:35",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260726/agujeros-sistema-anticorrupcion-fallan-controles-etica-publica-132784025\">Los agujeros del sistema anticorrupción: ¿fallan los controles? ¿falta ética pública?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260724/joyas-zapatero-como-son-que-sabemos-valor-131338960\">¿Cómo son las joyas de Zapatero? ¿Dónde estaban y qué valor tienen? Todo lo que sabemos sobre el ajuar</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los incendios han arrasado más de 152.000 hectáreas, seis veces más que en 2025",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/incendios-arrasado-seis-veces-mas-hectareas-2025-132818664",
+    "pubDate": "2026-07-26 11:24:49",
+    "category": "",
+    "description": "<h2>Los siniestros superiores a las 500 hectáreas quemadas casi se quintuplicaron en comparación con el mismo periodo del año pasado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Румунії заявили про третє поспіль збиття дрона",
+    "link": "https://ua.korrespondent.net/world/4897299-u-rumunii-zaiavyly-pro-tretie-pospil-zbyttia-drona",
+    "pubDate": "2026-07-26 11:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509625.jpg\">Дан подякував румунським пілотам та наземним екіпажам за професіоналізм, мужність та ефективність, з якими вони виконують свої завдання.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La UME avanza en la estabilización del gran incendio entre Ávila y Madrid con \"cabezas activas\" aún por controlar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/ume-incendio-avila-madrid-contenido-cabezas-activas-132818477",
+    "pubDate": "2026-07-26 11:14:46",
+    "category": "",
+    "description": "<h2>No se prevén nuevas evacuaciones hasta el mediodía, gracias a la evolución favorable del incendio y a las líneas de control establecidas por la UME</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la Fuente: \"Lamine y Cubarsí son genios. Tienen una madurez y una inteligencia...\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260726/fuente-lamine-cubarsi-genios-132818385",
+    "pubDate": "2026-07-26 11:12:26",
+    "category": "",
+    "description": "<h2>El seleccionador elogia la partición de los dos jóvenes azulgranas cuando se cumple una semana del título en el Mundial</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "DIRECTO | Pedro Sánchez visita el Puesto de Mando Avanzado y las zonas afectadas por los incendios en Ávila",
     "link": "https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-visita-puesto/132818205.shtml",
     "pubDate": "2026-07-26 11:03:54",

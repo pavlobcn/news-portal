@@ -1,4 +1,4 @@
-# News for 2026-07-26 11:06
+# News for 2026-07-26 12:53
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
@@ -13,7 +13,17 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 04:35 [В Німеччині літак упав на будинок: двоє загиблих](https://ua.korrespondent.net/world/4897266-v-nimechchyni-litak-upav-na-budynok-dvoie-zahyblykh)<br>
 02:44 [У Франції та Іспанії евакуювали 250 тис. людей через лісові пожежі](https://ua.korrespondent.net/world/4897260-u-frantsii-ta-ispanii-evakuuivaly-250-tys-luidei-cherez-lisovi-pozhezhi)<br>
 
+## as.com
+11:49 [Un All-Star de récord para la WNBA](https://as.com/baloncesto/un-all-star-de-record-para-la-wnba-f202607-n/)<br>
+
 ## www.elperiodico.com
+12:24 [Desalojo de vecinos entre Almorox (Toledo) y Villa del Prado (Madrid) por la Guardia Civil el pasado día 22.mp4](https://www.elperiodico.com/es/videos/sociedad/desalojo-vecinos-almorox-toledo-villa-del-prado/132820016.shtml)<br>
+12:23 [Las Palmas de Gran Canaria se desnuda ante el objetivo de Spencer Tunick](https://www.elperiodico.com/es/ocio-y-cultura/20260726/palmas-gran-canaria-desnuda-objetivo-spencer-tunick-132819980)<br>
+12:17 [La obra de Spencer Tunick en Las Palmas de Gran Canaria](https://www.elperiodico.com/es/videos/ocio-y-cultura/obra-spencer-tunick-palmas-gran/132819841.shtml)<br>
+12:02 [Protección Civil mantiene activada la alerta por lluvias intensas en el Maresme y el sur de Girona](https://www.elperiodico.com/es/sociedad/20260726/proteccion-civil-mantiene-activada-alerta-132819099)<br>
+12:00 [Una amonestación sin sanción pone fin al expediente al bombero crítico con la reserva femenina de plazas](https://www.elperiodico.com/es/barcelona/20260726/amonestacion-sin-sancion-pone-fin-expediente-bombero-critico-reserva-femenina-plazas-132674173)<br>
+11:24 [Los incendios han arrasado más de 152.000 hectáreas, seis veces más que en 2025](https://www.elperiodico.com/es/sociedad/20260726/incendios-arrasado-seis-veces-mas-hectareas-2025-132818664)<br>
+11:14 [La UME avanza en la estabilización del gran incendio entre Ávila y Madrid con "cabezas activas" aún por controlar](https://www.elperiodico.com/es/sociedad/20260726/ume-incendio-avila-madrid-contenido-cabezas-activas-132818477)<br>
 11:00 [Ni 20 ni 25 años cotizados: con este periodo mínimo ya puedes cobrar el 50% de la base reguladora](https://www.elperiodico.com/es/economia/20260726/ignacio-solsona-abogado-aumento-pension-cotizado-dv-et-132633425)<br>
 10:47 [El incendio de Madrid y Ávila a vista de dron](https://www.elperiodico.com/es/videos/sociedad/incendio-madrid-avila-vista-dron-video/132817835.shtml)<br>
 10:23 [Un lince, un lobo y cuatro buitres, a salvo tras el rescate de Safari Madrid: "El fuego se les echaba encima"](https://www.elperiodico.com/es/sociedad/20260726/lince-lobo-cuatro-buitres-rescate-safari-madrid-incendio-kuna-iberica-navas-rey-132817555)<br>
