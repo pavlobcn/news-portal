@@ -1,4 +1,4 @@
-# News for 2026-07-26 12:53
+# News for 2026-07-26 13:57
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
@@ -17,8 +17,14 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 11:49 [Un All-Star de récord para la WNBA](https://as.com/baloncesto/un-all-star-de-record-para-la-wnba-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:46 [Las causas del incendio de Castellón: tuvo varios focos y se sospecha que fue intencionado](https://www.elperiodico.com/es/sociedad/20260726/causas-incendio-vall-duixo-castellon-intencionado-132821806)<br>
+13:22 [Una cámara graba el rápido avance del incendio en Madrid: tan solo 8 minutos para rodear una casa](https://www.elperiodico.com/es/videos/sociedad/camara-graba-rapido-avance-incendio/132821287.shtml)<br>
+13:02 [Nothing Phone (4b): características, precio y primeras claves de un nuevo modelo de la marca](https://www.elperiodico.com/es/tecnologia/20260726/nothing-phone-4b-caracteristicas-precio-132819608)<br>
+13:00 [El incendio de la Vall d'Uixò](https://www.elperiodico.com/es/fotos/en-imagenes/incendio-vall-duixo-132820417)<br>
+12:55 [Evacuar a la gente en una catástrofe: así se organiza y así lo dificulta la ausencia de planes](https://www.elperiodico.com/es/sociedad/20260726/evacuar-gente-catastrofe-organiza-retrasa-planes-deficiencias-132820655)<br>
 12:24 [Desalojo de vecinos entre Almorox (Toledo) y Villa del Prado (Madrid) por la Guardia Civil el pasado día 22.mp4](https://www.elperiodico.com/es/videos/sociedad/desalojo-vecinos-almorox-toledo-villa-del-prado/132820016.shtml)<br>
 12:23 [Las Palmas de Gran Canaria se desnuda ante el objetivo de Spencer Tunick](https://www.elperiodico.com/es/ocio-y-cultura/20260726/palmas-gran-canaria-desnuda-objetivo-spencer-tunick-132819980)<br>
+12:22 [Los incendios arrasan la sierra oeste de Madrid](https://www.elperiodico.com/es/fotos/en-imagenes/incendios-arrasan-sierra-oeste-madrid-132819776)<br>
 12:17 [La obra de Spencer Tunick en Las Palmas de Gran Canaria](https://www.elperiodico.com/es/videos/ocio-y-cultura/obra-spencer-tunick-palmas-gran/132819841.shtml)<br>
 12:02 [Protección Civil mantiene activada la alerta por lluvias intensas en el Maresme y el sur de Girona](https://www.elperiodico.com/es/sociedad/20260726/proteccion-civil-mantiene-activada-alerta-132819099)<br>
 12:00 [Una amonestación sin sanción pone fin al expediente al bombero crítico con la reserva femenina de plazas](https://www.elperiodico.com/es/barcelona/20260726/amonestacion-sin-sancion-pone-fin-expediente-bombero-critico-reserva-femenina-plazas-132674173)<br>

@@ -1,5 +1,95 @@
 [
   {
+    "title": "Las causas del incendio de Castellón: tuvo varios focos y se sospecha que fue intencionado",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/causas-incendio-vall-duixo-castellon-intencionado-132821806",
+    "pubDate": "2026-07-26 13:46:06",
+    "category": "",
+    "description": "<h2>Así lo aseguran fuentes municipales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "До МЗС Румунії викликали посла РФ через дрони",
+    "link": "https://ua.korrespondent.net/world/4897320-do-mzs-rumunii-vyklykaly-posla-rf-cherez-drony",
+    "pubDate": "2026-07-26 13:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4509726.jpg\">Дипломатичний протест Румунії на адресу Російської Федерації ґрунтуватиметься на результатах розслідувань вторгнень дронів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Una cámara graba el rápido avance del incendio en Madrid: tan solo 8 minutos para rodear una casa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/camara-graba-rapido-avance-incendio/132821287.shtml",
+    "pubDate": "2026-07-26 13:22:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa impulsa las exportaciones a Vietnam en favor de una economía \"abierta e internacionalizada\"",
+    "link": "https://www.elperiodico.com/es/politica/20260726/illa-vietnam-cataluna-govern-exportaciones-sudeste-asiatico-empresas-132815180",
+    "pubDate": "2026-07-26 13:15:46",
+    "category": "",
+    "description": "<h2>El president se reúne con la vicepresidenta del Comité Popular de Da Nang, Nguyen Thi Anh Thi, y visita empresas catalanas en la región</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260725/catalunya-salvador-illa-govern-vietnam-empresas-convenio-startups-tecnologia-innovacion-132793775\">Catalunya se alía con Vietnam para facilitar la entrada de las startups tecnológicas en su mercado</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260724/salvador-illa-govern-cataluna-viaja-vietnam-singapur-132721316\">Illa viaja a Vietnam y Singapur para abrir Catalunya a nuevos mercados en el Sudeste Asiático</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El bañador menstrual que arrasa en Amazon por lo bien que sienta y lo barato que es",
+    "link": "https://www.elperiodico.com/es/shopping/20260726/banador-menstrual-barato-favorecedor-amazon-105449626",
+    "pubDate": "2026-07-26 13:15:00",
+    "category": "",
+    "description": "<h2>Ve a la piscina sin tampón y con tranquilidad este verano con este bañador menstrual de lo más cómodo y seguro para el periodo</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El factor Aliança Catalana",
+    "link": "https://www.elperiodico.com/es/opinion/20260726/factor-alianca-catalana-articulo-opinion-astrid-barrio-132820307",
+    "pubDate": "2026-07-26 13:06:14",
+    "category": "",
+    "description": "<h2 class=\"item\">El ascenso de la formación independentista de extrema derecha reconfigura el tablero político y abre interrogantes sobre la estabilidad institucional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "35 diputados del Parlament se han apuntado al servicio de asesoramiento de catalán en casi un año y medio",
+    "link": "https://www.elperiodico.com/es/politica/20260726/diputados-parlament-cursos-catalan-asesoramiento-132820520",
+    "pubDate": "2026-07-26 13:02:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Se trata de representantes de todos los grupos excepto de Vox y Aliança Catalana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260526/parlament-formacion-anticorrupcion-oficina-antifrau-diputados-cataluna-130232727\">El Parlament pone en marcha la primera formación anticorrupción a los diputados</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260611/parlament-cataluna-actos-milenario-izada-senyera-diada-rull-131205222\">El Parlament abrirá los actos de su milenario con la izada de la gran 'senyera' la víspera de la Diada</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Nothing Phone (4b): características, precio y primeras claves de un nuevo modelo de la marca",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260726/nothing-phone-4b-caracteristicas-precio-132819608",
+    "pubDate": "2026-07-26 13:02:15",
+    "category": "",
+    "description": "<h2>El Phone (4b) aterriza con un planteamiento más accesible, pero conserva varios rasgos asociados a los modelos más ambiciosos de la marca</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de la Vall d'Uixò",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/incendio-vall-duixo-132820417",
+    "pubDate": "2026-07-26 13:00:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Evacuar a la gente en una catástrofe: así se organiza y así lo dificulta la ausencia de planes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/evacuar-gente-catastrofe-organiza-retrasa-planes-deficiencias-132820655",
+    "pubDate": "2026-07-26 12:55:45",
+    "category": "",
+    "description": "<h2>Los bomberos y equipos de rescate topan con el eterno problema de la falta de perímetros de seguridad y de planes de evacuación en pedanías y urbanizaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "РФ за тиждень випустили по Україні 95 ракет",
     "link": "https://ua.korrespondent.net/ukraine/4897313-rf-za-tyzhden-vypustyly-po-ukraini-95-raket",
     "pubDate": "2026-07-26 12:52:00",
@@ -50,6 +140,15 @@
     "pubDate": "2026-07-26 12:23:28",
     "category": "",
     "description": "<h2>El fotógrafo estadounidense transformó la vulnerabilidad del desnudo en una imagen de poder colectivo y visibilidad para el colectivo LGTBIQA+</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los incendios arrasan la sierra oeste de Madrid",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/incendios-arrasan-sierra-oeste-madrid-132819776",
+    "pubDate": "2026-07-26 12:22:18",
+    "category": "",
+    "description": "",
     "topic": "",
     "topic_match_probability": 0
   },
