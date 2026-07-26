@@ -1,13 +1,27 @@
-# News for 2026-07-26 06:39
+# News for 2026-07-26 08:46
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
 ## ua.korrespondent.net
+08:20 [Обстріли Херсонщини: двоє загиблих, 24 поранених](https://ua.korrespondent.net/ukraine/4897285-obstrily-khersonschyny-dvoie-zahyblykh-24-poranenykh)<br>
+07:53 [Генштаб оцінив події на фронті](https://ua.korrespondent.net/ukraine/4897282-henshtab-otsinyv-podii-na-fronti)<br>
+07:37 [Удари по Запорізькій області: є загиблий, 12 поранених](https://ua.korrespondent.net/ukraine/4897280-udary-po-zaporizkii-oblasti-ye-zahyblyi-12-poranenykh)<br>
+07:16 [Росіяни вдарили по Кривому Рогу, сталася пожежа у ТЦ](https://ua.korrespondent.net/ukraine/4897278-rosiiany-vdaryly-po-kryvomu-rohu-stalasia-pozhezha-u-tts)<br>
+06:50 [Генштаб оновив втрати РФ](https://ua.korrespondent.net/ukraine/4897276-henshtab-onovyv-vtraty-rf)<br>
+06:23 [ЗСУ показали знищення російського Мурома-М](https://ua.korrespondent.net/ukraine/4897274-zsu-pokazaly-znyschennia-rosiiskoho-muroma-m)<br>
 05:42 [У Криму атакована Таврійська ТЕС - соцмережі](https://ua.korrespondent.net/ukraine/4897272-u-krymu-atakovana-tavriiska-tes-sotsmerezhi)<br>
 04:35 [В Німеччині літак упав на будинок: двоє загиблих](https://ua.korrespondent.net/world/4897266-v-nimechchyni-litak-upav-na-budynok-dvoie-zahyblykh)<br>
 02:44 [У Франції та Іспанії евакуювали 250 тис. людей через лісові пожежі](https://ua.korrespondent.net/world/4897260-u-frantsii-ta-ispanii-evakuuivaly-250-tys-luidei-cherez-lisovi-pozhezhi)<br>
 
 ## www.elperiodico.com
+08:00 [Javier García Rodríguez, el profesor que quería lectores más inteligentes que él](https://www.elperiodico.com/es/ocio-y-cultura/20260726/javier-garcia-rodriguez-profesor-queria-132779499)<br>
+08:00 [Maria José Valiente, psicóloga: "El silencio asusta porque hace que te encuentres contigo mismo"](https://www.elperiodico.com/es/ser-feliz/20260726/maria-jose-valiente-psicologa-silencio-132513813)<br>
+08:00 [‘Las islas afortunadas’: la película canaria que se estrenará en Toronto y está protagonizada por Luisa Ahl Laabiad, de origen saharaui](https://www.elperiodico.com/es/ocio-y-cultura/20260726/islas-afortunadas-pelicula-canaria-estrenara-132747365)<br>
+08:00 [El método para llegar con más dinero a la jubilación: automatizar 30 euros, aumentar las aportaciones y vigilar la inflación](https://www.elperiodico.com/es/economia/20260726/jubilacion-consejos-40-anos-mejorar-decisiones-dv-132654474)<br>
+07:50 [Los consejos de Maria José Valiente: El silencio](https://www.elperiodico.com/es/videos/sociedad/consejos-maria-jose-valiente-silencio-video/132628766.shtml)<br>
+07:00 ['Els moixons': Montse Virgili narra la memoria de las mujeres de su vida y rompe cadenas de miedo](https://www.elperiodico.com/es/ocio-y-cultura/20260726/els-moixons-montse-virgili-narra-132768604)<br>
+07:00 [Víctor Ullate, bailarín y coreógrafo: "Las cosas no vienen solas, todo en la vida es un aprendizaje"](https://www.elperiodico.com/es/ocio-y-cultura/20260726/victor-ullate-bailarin-coreografo-dv-et-132732313)<br>
+07:00 [EL PERIÓDICO se consolida en el top 6 de los medios más leídos en España y es el único que crece en el último año](https://www.elperiodico.com/es/sociedad/20260726/periodico-consolida-top-6-medios-132633487)<br>
 06:02 ["Cada piel tiene, por genética, un límite. Es mentira eso de que la puedes entrenar"](https://www.elperiodico.com/es/sociedad/20260726/piel-genetica-limite-mentira-puedes-132814850)<br>
 06:01 [Mapa mundial de los centros de datos: ¿Qué país tiene más? ¿Cuántos hay en España?](https://www.elperiodico.com/es/tecnologia/20260726/mapa-centros-datos-paises-mundo-espana-inteligencia-artificial-132677382)<br>
 06:00 [España llora de solastalgia, el dolor de ver un país asolado por incendios: así es cómo los desastres climáticos están aumentando la angustia colectiva](https://www.elperiodico.com/es/sociedad/20260726/espana-solastalgia-dolor-incendios-salud-mental-desastres-climaticos-132804887)<br>
