@@ -1,4 +1,4 @@
-# News for 2026-07-26 09:23
+# News for 2026-07-26 11:06
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
@@ -14,12 +14,23 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 02:44 [У Франції та Іспанії евакуювали 250 тис. людей через лісові пожежі](https://ua.korrespondent.net/world/4897260-u-frantsii-ta-ispanii-evakuuivaly-250-tys-luidei-cherez-lisovi-pozhezhi)<br>
 
 ## www.elperiodico.com
+11:00 [Ni 20 ni 25 años cotizados: con este periodo mínimo ya puedes cobrar el 50% de la base reguladora](https://www.elperiodico.com/es/economia/20260726/ignacio-solsona-abogado-aumento-pension-cotizado-dv-et-132633425)<br>
+10:47 [El incendio de Madrid y Ávila a vista de dron](https://www.elperiodico.com/es/videos/sociedad/incendio-madrid-avila-vista-dron-video/132817835.shtml)<br>
+10:23 [Un lince, un lobo y cuatro buitres, a salvo tras el rescate de Safari Madrid: "El fuego se les echaba encima"](https://www.elperiodico.com/es/sociedad/20260726/lince-lobo-cuatro-buitres-rescate-safari-madrid-incendio-kuna-iberica-navas-rey-132817555)<br>
+10:20 [Operativo en marcha para salvar el Castañar de El Tiemblo, una "joya ecológica" amenazada por los incendios](https://www.elperiodico.com/es/sociedad/20260726/operativo-marcha-salvar-castanar-tiemblo-132816665)<br>
+10:14 [Viviremos más años, pero también más tiempo enfermos: la longevidad se está convirtiendo en una trampa](https://www.elperiodico.com/es/tendencias21/20260726/viviremos-anos-tiempo-enfermos-longevidad-132817151)<br>
+10:02 [El avance sin control del fuego en Castellón pone en vilo a 50.000 personas](https://www.elperiodico.com/es/sociedad/20260726/avance-fuego-castellon-incendio-forestal-132816998)<br>
+10:00 [Los expertos en pensiones coinciden: la edad de jubilación tendría que subir hasta los 73 años para garantizar su viabilidad](https://www.elperiodico.com/es/economia/20260726/expertos-pensiones-coinciden-edad-jubilacion-subir-73-anos-dv-132774128)<br>
+09:48 [Restablecida la circulación en las líneas R2, R2 Nord y R11 de Rodalies, suspendida desde el miércoles](https://www.elperiodico.com/es/sociedad/20260726/restablecida-circulacion-lineas-r2-r2-nord-r11-rodalies-132816684)<br>
+09:31 [Un vídeo capta el origen del gran incendio de Castellón: se ve a un hombre salir corriendo](https://www.elperiodico.com/es/sociedad/20260726/video-capta-origen-incendio-forestal-castellon-hombre-corriendo-132816621)<br>
+09:27 [Vídeo | El origen del devastador incendio forestal de la Vall d'Uixó (Castellón)](https://www.elperiodico.com/es/videos/sociedad/video-origen-devastador-incendio-forestal-vall-uxo-castellon/132816585.shtml)<br>
 09:18 [Incendios hoy, 26 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260726/incendios-hoy-26-julio-cataluna-espana-mapa-fuegos-activos-dv-132816453)<br>
 09:15 [El barrio de Girona que aparece en una película de Netflix: recaudó 100 millones de euros](https://www.elperiodico.com/es/ocio-y-cultura/20260726/girona-cine-barrio-vell-pelicula-el-perfume-dv-loc-107739871)<br>
 09:12 [Incendios forestales en Catalunya y resto de España, en directo: última hora del fuego descontrolado en la Vall d'Uixó y del de Madrid, fuera de la capacidad de extinción y con 115.000 afectados](https://www.elperiodico.com/es/sociedad/20260726/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 09:00 [Jordi Sacasas: “La fiesta por la beatificación de Sant Josep Oriol, en 1807, fue para Barcelona como los JJOO de 1992”](https://www.elperiodico.com/es/barcelona/20260726/jordi-sacasas-archivero-santa-maria-del-pi-barcelona-fiesta-beatificacion-sant-josep-orio-jjoo-1992-132777813)<br>
 09:00 [Dr. José Viña, experto en longevidad: "Los daños del envejecimiento se ven en personas mayores, pero se causan en su juventud"](https://www.elperiodico.com/es/sociedad/20260726/dr-jose-vina-experto-longevidad-envejecimiento-personas-mayores-dv-132772690)<br>
 08:59 [Cuatro días muerto: un error provoca que un trabajador de Ibiza reciba un alta laboral por fallecimiento](https://www.elperiodico.com/es/sociedad/20260726/cuatro-dias-muerto-error-provoca-132720577)<br>
+08:05 [Última hora de los incendios en España, en directo | El incendio de Madrid encara una jornada clave tras una noche que ha frenado el avance las llamas](https://www.elperiodico.com/es/sociedad/20260726/ultima-hora-incendios-espana-directo-132759066)<br>
 08:00 [Javier García Rodríguez, el profesor que quería lectores más inteligentes que él](https://www.elperiodico.com/es/ocio-y-cultura/20260726/javier-garcia-rodriguez-profesor-queria-132779499)<br>
 08:00 [Maria José Valiente, psicóloga: "El silencio asusta porque hace que te encuentres contigo mismo"](https://www.elperiodico.com/es/ser-feliz/20260726/maria-jose-valiente-psicologa-silencio-132513813)<br>
 08:00 [‘Las islas afortunadas’: la película canaria que se estrenará en Toronto y está protagonizada por Luisa Ahl Laabiad, de origen saharaui](https://www.elperiodico.com/es/ocio-y-cultura/20260726/islas-afortunadas-pelicula-canaria-estrenara-132747365)<br>
@@ -34,6 +45,7 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 06:00 [La soberanía que se decide en las empresas](https://www.elperiodico.com/es/opinion/20260726/soberania-decide-empresas-articulo-borja-ochoa-132789899)<br>
 06:00 [La barcelonesa By Salomon Hospitality cierra un acuerdo con NH (Minor Hotels) para crecer en hoteles corporativos](https://www.elperiodico.com/es/economia/20260726/barcelonesa-by-salomon-hospitality-cierra-132337507)<br>
 06:00 [De una librería de Badalona a una trituradora de Silicon Valley: el inquietante viaje de los libros de segunda mano que sirven para entrenar inteligencias artificiales](https://www.elperiodico.com/es/ocio-y-cultura/20260726/destruir-libros-entrenar-ia-segunda-mano-131847687)<br>
+06:00 [Crónica desde Berlín: La piscina, lo mejor o lo peor del verano](https://www.elperiodico.com/es/internacional/20260726/berlin-alemania-piscinas-verano-calor-precios-132814700)<br>
 06:00 [La mitad de las principales farmacéuticas en España tienen a una mujer al frente](https://www.elperiodico.com/es/economia/20260726/mitad-principales-farmaceuticas-espana-mujer-directora-presidenta-132814677)<br>
 06:00 [Aluvión de relevos frente a las farmacéuticas: 14 de las 20 mayores compañías han cambiado a su primer ejecutivo en los últimos tres años](https://www.elperiodico.com/es/economia/20260726/aluvion-relevos-frente-farmaceuticas-12-20-principales-empresas-primer-ejecutivo-132814647)<br>
 06:00 [Cinco de cada diez edificios registran deficiencias graves en las inspecciones técnicas en Catalunya](https://www.elperiodico.com/es/barcelona/20260726/cinco-diez-edificios-suspenden-inspecciones-tecnicas-catalunya-deficiencias-graves-132707437)<br>
