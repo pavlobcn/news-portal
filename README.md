@@ -1,4 +1,4 @@
-# News for 2026-07-26 18:00
+# News for 2026-07-26 19:12
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
@@ -24,6 +24,9 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 11:49 [Un All-Star de récord para la WNBA](https://as.com/baloncesto/un-all-star-de-record-para-la-wnba-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:21 [Los Mossos investigan un incendio en un aparcamiento de Corbera que quemó dos autocares](https://www.elperiodico.com/es/sociedad/20260726/mossos-investigan-incendio-aparcamiento-corbera-132827462)<br>
+18:13 [Las extremas condiciones que se han vivido en Casavieja (Ávila) a causa del incendio](https://www.elperiodico.com/es/videos/sociedad/extremas-condiciones-han-vivido-casavieja/132827351.shtml)<br>
+18:00 [Un nuevo plan urbanístico protegerá ambientalmente la gran riera que conecta la Serralada de Marina con el mar](https://www.elperiodico.com/es/barcelona/20260726/plan-urbanistico-protegera-ambientalmente-riera-conecta-serralada-marina-mar-132735439)<br>
 17:58 [El fuerte oleaje obliga a izar banderas rojas en varias playas catalanas y a prohibir el baño](https://www.elperiodico.com/es/sociedad/20260726/oleaje-bandera-roja-playa-cataluna-aviso-132826140)<br>
 17:40 [Vídeo | Bomberos forestales en el incendio de la Vall d'Uixò (Castellón)](https://www.elperiodico.com/es/videos/sociedad/video-bomberos-forestales-incendio-vall/132826111.shtml)<br>
 17:27 [Medios aéreos luchan por frenar el fuego en Castellón](https://www.elperiodico.com/es/videos/sociedad/medios-aereos-luchan-frenar-fuego/132825936.shtml)<br>
