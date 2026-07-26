@@ -1,5 +1,86 @@
 [
   {
+    "title": "Біля Одеси затонуло судно, яке РФ атакувала тиждень тому",
+    "link": "https://ua.korrespondent.net/city/odessa/4897388-bilia-odesy-zatonulo-sudno-yake-rf-atakuvala-tyzhden-tomu",
+    "pubDate": "2026-07-26 22:23:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510204.jpg\">Судно ходило під прапором Гвінеї-Бісау та перевозило кукурудзу. Після російського удару на ньому загинуло 10 моряків.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "El incendio de Castellón quema ya 6.500 hectáreas, pero se ve posibilidad de estabilizarlo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/incendio-castellon-quema-6-500-132832811",
+    "pubDate": "2026-07-26 22:20:14",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las claves del día en el incendio de Castellón: dónde está el mayor peligro, la investigación sobre las causas “no naturales” y una puerta a la esperanza",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/claves-dia-incendio-castellon-mayor-132832769",
+    "pubDate": "2026-07-26 22:15:38",
+    "category": "",
+    "description": "<h2>450 efectivos y 20 medios aéreos trabajan sin descanso en la segunda jornada del incendio forestal de la Vall d’Uixó </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Decenas de miles de personas marchan en Palma contra la masificación turística entre gritos y tensión final",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/decenas-miles-personas-marchan-palma-132832613",
+    "pubDate": "2026-07-26 22:07:20",
+    "category": "",
+    "description": "<h2 class=\"item\">La plataforma eleva la asistencia a más de 70.000 participantes y reclama el decrecimiento turístico como única solución</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260726/enfrentamientos-manifestantes-policias-mallorca-durante-132832328\">Varios manifestantes fuerzan las vallas de acceso a ses Voltes tras denunciar que no les dejaban entrar al acto final</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "На Вінниччині поранили військового ТЦК",
+    "link": "https://ua.korrespondent.net/ukraine/4897387-na-vinnychchyni-poranyly-viiskovoho-ttsk",
+    "pubDate": "2026-07-26 21:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510184.jpg\">Нині нападнику загрожує відповідальність за кількома статтями Кримінального кодексу.",
+    "topic": "політика",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "VÍDEO | Enfrentamiento entre manifestantes y policías tras cortar el paso a ses Voltes",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-enfrentamiento-manifestantes-policias-cortar/132832545.shtml",
+    "pubDate": "2026-07-26 21:58:32",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Enfrentamientos entre manifestantes y policías en Mallorca durante una protesta contra la densificación turística",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/enfrentamientos-manifestantes-policias-mallorca-durante-132832328",
+    "pubDate": "2026-07-26 21:55:00",
+    "category": "",
+    "description": "<h2>Algunos participantes en la marcha se quejaban de haber sido golpeados por los agentes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Генштаб озвучив ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4897383-henshtab-ozvuchyv-sytuatsiui-na-fronti",
+    "pubDate": "2026-07-26 21:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510164.jpg\">Найбільше ворожих штурмів зафіксували на Покровському, Слов’янському та Лиманському напрямках.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Шахтар грає другий спаринг по нулях",
+    "link": "https://ua.korrespondent.net/sport/football/4897385-shakhtar-hraie-druhyi-sparynh-po-nuliakh",
+    "pubDate": "2026-07-26 21:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510144.jpg\">Донецька команда не змогла обіграти чергового суперника у рамках проведення товариських зустрічей у міжсезоння.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Interrumpido el servicio de la R2 de Rodalies entre Cunit y Cubelles por la caída de un árbol en las vías",
     "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260726/interrumpido-servicio-r2-rodalies-cunit-cubelles-caida-arbol-132832123",
     "pubDate": "2026-07-26 21:32:53",
@@ -111,6 +192,15 @@
     "pubDate": "2026-07-26 20:23:56",
     "category": "",
     "description": "<h2><a href=\"https://www.elperiodico.com/es/sucesos/20260725/ocho-heridos-menor-critico-accidente-mataro-132808793\" target=\"_blank\">Ocho heridos, entre ellos un menor en estado crítico, en un accidente de tráfico en Mataró</a></h2>"
+  },
+  {
+    "title": "Los incendios de Madrid, Ávila y Toledo empiezan a ceder ante la mejora meteorológica: 77.000 hectáreas arrasadas y 90.000 vecinos afectados",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/incendios-madrid-avila-toledo-esperanza-ceder-mejora-condiciones-hectareas-arrasadas-vecinos-desalojados-132830024",
+    "pubDate": "2026-07-26 20:21:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Solo en Ávila han ardido ya unas 50.000 hectáreas, una superficie que convierte este episodio en el mayor incendio registrado hasta ahora en España</h2><h2 class=\"item\">El Gobierno declarará este martes las zonas afectadas como gravemente dañadas por la emergencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Вашингтон готує новий план для РФ та України - ЗМІ",
