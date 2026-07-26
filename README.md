@@ -1,4 +1,4 @@
-# News for 2026-07-26 19:12
+# News for 2026-07-26 20:15
 
 Previous day: [2026-07-25](./data/2026-07-25.md)
 
@@ -21,9 +21,19 @@ Previous day: [2026-07-25](./data/2026-07-25.md)
 02:44 [У Франції та Іспанії евакуювали 250 тис. людей через лісові пожежі](https://ua.korrespondent.net/world/4897260-u-frantsii-ta-ispanii-evakuuivaly-250-tys-luidei-cherez-lisovi-pozhezhi)<br>
 
 ## as.com
+20:11 [Acuerdo entre Hezonja y Cleveland Cavaliers](https://as.com/baloncesto/nba/acuerdo-entre-hezonja-y-cleveland-cavaliers-f202607-n/)<br>
+19:08 [¿Quién es Fabian Kayser, la perla del Real Madrid que arrasa en el Eurobasket Sub-18?](https://as.com/baloncesto/mas_baloncesto/quien-es-fabian-kayser-la-perla-del-real-madrid-que-arrasa-en-el-eurobasket-sub-18-f202607-n/)<br>
 11:49 [Un All-Star de récord para la WNBA](https://as.com/baloncesto/un-all-star-de-record-para-la-wnba-f202607-n/)<br>
+09:09 [Hezonja desata el interés de Cavaliers y Warriors](https://as.com/baloncesto/acb/cavaliers-y-warriors-se-pelean-por-hezonja-f202607-n/)<br>
+08:50 [Shengelia apunta a Dubái](https://as.com/baloncesto/otra-baja-sensible-para-el-barca-shengelia-apunta-a-dubai-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:03 ["Animo a los turistas a que consideren otro destino": el fuego no da tregua y vacía el suroeste de Francia con 220.000 evacuados](https://www.elperiodico.com/es/internacional/20260726/animo-turistas-consideren-destino-fuego-francia-132829591)<br>
+19:52 [El incendio de la Vall d'Uixó desde dentro: "Estábamos solos, sin medios aéreos, porque las condiciones atmosféricas desplomaron el humo al suelo"](https://www.elperiodico.com/es/sociedad/20260726/incendio-vall-duixo-testimonio-desde-dentro-132829291)<br>
+19:34 [La angustia de una familia evacuada del camping Fuente Helecha por el incendio de Ávila que lo ha perdido todo: "La casa estaba recién estrenada"](https://www.elperiodico.com/es/sociedad/20260726/angustia-familia-evacuada-camping-fuente-incendio-avila-madrid-132828896)<br>
+19:25 [Los psicólogos coinciden: pagar en efectivo no significa necesariamente que estés anticuado](https://www.elperiodico.com/es/ser-feliz/20260726/pago-efectivo-dolor-tarjeta-credito-movil-control-gastos-dv-et-132505423)<br>
+19:20 [Muere ahogado un joven de 25 años en el río Segre a su paso por Camarasa](https://www.elperiodico.com/es/sucesos/20260726/muere-ahogado-hombre-25-anos-rio-segre-arrastrado-corriente-132828522)<br>
+19:15 [Nueva línea de bus en Catalunya que conectará un punto clave de transbordo](https://www.elperiodico.com/es/catalunya/20260726/nueva-linea-cataluna-bus-guissona-cervera-lleida-dv-loc-132694797)<br>
 18:21 [Los Mossos investigan un incendio en un aparcamiento de Corbera que quemó dos autocares](https://www.elperiodico.com/es/sociedad/20260726/mossos-investigan-incendio-aparcamiento-corbera-132827462)<br>
 18:13 [Las extremas condiciones que se han vivido en Casavieja (Ávila) a causa del incendio](https://www.elperiodico.com/es/videos/sociedad/extremas-condiciones-han-vivido-casavieja/132827351.shtml)<br>
 18:00 [Un nuevo plan urbanístico protegerá ambientalmente la gran riera que conecta la Serralada de Marina con el mar](https://www.elperiodico.com/es/barcelona/20260726/plan-urbanistico-protegera-ambientalmente-riera-conecta-serralada-marina-mar-132735439)<br>
