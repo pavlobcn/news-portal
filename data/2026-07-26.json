@@ -1,5 +1,50 @@
 [
   {
+    "title": "El Tour femenino empieza en Suiza y la Vuelta en Mónaco",
+    "link": "https://www.elperiodico.com/es/deportes/20260726/tour-femenino-empieza-suiza-vuelta-espana-monaco-132758371",
+    "pubDate": "2026-07-26 06:17:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Eslovenia ha presentado candidatura para acoger el Grand Départ de 2029 en homenaje a Tadej Pogacar.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Cada piel tiene, por genética, un límite. Es mentira eso de que la puedes entrenar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/piel-genetica-limite-mentira-puedes-132814850",
+    "pubDate": "2026-07-26 06:02:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Raül Refree y Niño de Elche: \"Lo divino puede estar cerca de la amistad y su escucha\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260726/raul-refree-nino-elche-divino-132814787",
+    "pubDate": "2026-07-26 06:01:39",
+    "category": "",
+    "description": "<h2>El dúo presenta este jueves en La Mar de Músicas Cru+es, una experiencia escénica que funde electrónica experimental, canción pop, poesía y espiritualidad, guiada por los versos del poeta griego Yannis Ritsos, en una propuesta que explora el tránsito entre la vida y la muerte</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Mapa mundial de los centros de datos: ¿Qué país tiene más? ¿Cuántos hay en España?",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260726/mapa-centros-datos-paises-mundo-espana-inteligencia-artificial-132677382",
+    "pubDate": "2026-07-26 06:01:08",
+    "category": "",
+    "description": "<h2>Estados Unidos lidera la concentración de estas naves industriales, columna vertebral de Internet y vitales para el desarrollo de la IA generativa, con más de un 90% más que el segundo país en la lista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España llora de solastalgia, el dolor de ver un país asolado por incendios: así es cómo los desastres climáticos están aumentando la angustia colectiva",
+    "link": "https://www.elperiodico.com/es/sociedad/20260726/espana-solastalgia-dolor-incendios-salud-mental-desastres-climaticos-132804887",
+    "pubDate": "2026-07-26 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">La comunidad científica advierte sobre el aumento de problemas de salud mental derivados de del 'boom' de desastres naturales que vive el planeta por culpa del avance del cambio climático </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260725/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" >Incendios forestales en Catalunya y resto de España, en directo: Madrid, fuera de la capacidad de extinción: más de 63.000 evacuados o confinados por los incendios</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los alcaldes, la primera línea de defensa ante los incendios que asolan España",
     "link": "https://www.elperiodico.com/es/opinion/20260726/alcaldes-primera-linea-defensa-incendios-132805790",
     "pubDate": "2026-07-26 06:00:52",
@@ -79,6 +124,24 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 45
+  },
+  {
+    "title": "La mitad de las principales farmacéuticas en España tienen a una mujer al frente",
+    "link": "https://www.elperiodico.com/es/economia/20260726/mitad-principales-farmaceuticas-espana-mujer-directora-presidenta-132814677",
+    "pubDate": "2026-07-26 06:00:27",
+    "category": "",
+    "description": "<h2>Los relevos sucedidos en los últimos años favorecen la tendencia: la mayoría de los movimientos han implicado el nombramiento de una presidenta o directora general</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aluvión de relevos frente a las farmacéuticas: 14 de las 20 mayores compañías han cambiado a su primer ejecutivo en los últimos tres años",
+    "link": "https://www.elperiodico.com/es/economia/20260726/aluvion-relevos-frente-farmaceuticas-12-20-principales-empresas-primer-ejecutivo-132814647",
+    "pubDate": "2026-07-26 06:00:26",
+    "category": "",
+    "description": "<h2>La industria lidia con el cercano final de muchas patentes, la tendencia a la especialización, una regulación cada vez más exigente y la presión de cumplir en bolsa </h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "'Furious' (Disney+), la apasionante serie sobre una asesina en serie de la creadora de 'Dying for sex'",
