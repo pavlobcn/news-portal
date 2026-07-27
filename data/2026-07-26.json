@@ -72,6 +72,15 @@
     "topic_match_probability": 40
   },
   {
+    "title": "María Casado se despide de 'Informativos Telecinco' al borde del llanto: \"Espero que pronto nos volvamos a ver\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260726/maria-casado-despide-informativos-telecinco-borde-llanto-132832842",
+    "pubDate": "2026-07-26 22:29:16",
+    "category": "",
+    "description": "<h2>La periodista ha presentado su última edición este domingo tras anunciar su salida por motivos personales y Carmen Corazzini cogerá su testigo a partir del próximo fin de semana</h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260720/maria-casado-abandona-manera-inesperada-informativos-telecinco-motivos-personales-132640226\" target=\"_blank\"><strong>María Casado abandona de manera inesperada 'Informativos Telecinco' por motivos personales</strong></a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Біля Одеси затонуло судно, яке РФ атакувала тиждень тому",
     "link": "https://ua.korrespondent.net/city/odessa/4897388-bilia-odesy-zatonulo-sudno-yake-rf-atakuvala-tyzhden-tomu",
     "pubDate": "2026-07-26 22:23:00",
@@ -651,6 +660,15 @@
     "description": "<h2>La presentadora de Espejo Público y el exconsejero delegado del Grupo Vocento se han casado en una ceremonia íntima en la Costa Brava</h2>",
     "topic": "телебачення",
     "topic_match_probability": 70
+  },
+  {
+    "title": "El ciclismo español pone voluntad, pero se queda sin botín en el Tour",
+    "link": "https://www.elperiodico.com/es/deportes/20260726/ciclismo-espanol-pone-voluntad-ninguna-etapa-tour-francia-2026-132825948",
+    "pubDate": "2026-07-26 17:34:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Juan Ayuso acaba séptimo de la general, aunque con la sensación de que la tercera semana se le hizo eterna. El Movistar sigue sin lograr una etapa desde 2019.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Audige cambia Málaga por Burgos",
