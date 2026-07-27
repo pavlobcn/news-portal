@@ -1,5 +1,86 @@
 [
   {
+    "title": "El estudio de Choví \"El Verano Real de los Españoles\" revela que los españoles cambian de destino, pero no de costumbres",
+    "link": "https://www.elperiodico.com/es/economia/20260727/estudio-chovi-verano-real-espanoles-bc-132867815",
+    "pubDate": "2026-07-27 23:59:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El verano no es igual para todos: casi un tercio de los españoles pasará las vacaciones sin salir de su ciudad.</h2><h2 class=\"item\">Las fiestas del pueblo y el bar de confianza siguen formando parte del verano: el 77% vuelve a sus fiestas patronales y más de la mitad acaba repitiendo en los mismos bares de sus vacaciones.</h2><h2 class=\"item\">La playa sigue siendo el gran refugio del verano: casi la mitad de los españoles la elige como destino favorito.</h2><h2 class=\"item\">Ya no hay “canción del verano”: solo el 13,8% de los españoles identifica una canción del verano clara en 2026.</h2><h2 class=\"item\">El allioli ya forma parte de los cinco ingredientes imprescindibles del verano español.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "CNN: Трамп планує зустріч з Нетаньягу і Зеленським",
+    "link": "https://ua.korrespondent.net/world/worldabus/4897737-CNN-tramp-planuie-zustrich-z-netaniahu-i-zelenskym",
+    "pubDate": "2026-07-27 23:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511503.jpg\">Президент США і прем'єр Ізраїлю не досягли повної згоди щодо Ірану, але їхні позиції \"є дуже близькими\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Detenido el atacante que ha apuñalado a tres mujeres en París",
+    "link": "https://www.elperiodico.com/es/videos/internacional/detenido-atacante-apunalado-tres-mujeres/132867752.shtml",
+    "pubDate": "2026-07-27 23:57:16",
+    "category": "",
+    "description": "Se desconoce el motivo del ataque",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 28 de julio de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/portada-periodico-28-julio-2026-132867462",
+    "pubDate": "2026-07-27 23:54:45",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Grande-Marlaska: “La zona que más nos preocupa es la zona norte del pantano de San Juan”",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/grande-marlaska-zona-preocupa-zona/132867688.shtml",
+    "pubDate": "2026-07-27 23:53:31",
+    "category": "",
+    "description": "Castilla-La Mancha procede al realojo de nueve localidades",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los bomberos de los incendios de Ávila y Madrid están preocupados por la ola de calor",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/bomberos-incendios-avila-madrid-preocupados/132867610.shtml",
+    "pubDate": "2026-07-27 23:50:53",
+    "category": "",
+    "description": "Los incendios dejan 77000 hectáreas calcinadas",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Пентагоні визнали відставання від України в галузі дронів",
+    "link": "https://ua.korrespondent.net/world/worldabus/4897735-u-pentahoni-vyznaly-vidstavannia-vid-ukrainy-v-haluzi-droniv",
+    "pubDate": "2026-07-27 23:42:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511495.jpg\">Нинішні обсяги виробництва в США становлять тільки невелику частку від українських, зазначають американські чиновники.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "La Comisión Europea recula y no impondrá las sanciones que anunció para la pesca rusa",
+    "link": "https://www.elperiodico.com/es/economia/20260727/comision-europea-recula-impondra-sanciones-pesca-rusa-132867355",
+    "pubDate": "2026-07-27 23:15:21",
+    "category": "",
+    "description": "<h2>La resistencia de Alemania y Polonia, dependientes de las importaciones de abadejo de Alaska, y de Portugal, por el bacalao, tumba el primer paquete de represalias contra los barcos de la nación del Kremlin</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Sabadell Gallego impulsa 1.132 millones de euros en financiación a las empresas gallegas en el segundo trimestre, un 48% más",
+    "link": "https://www.elperiodico.com/es/economia/20260727/sabadell-gallego-impulsa-1-132-galicia-132867296",
+    "pubDate": "2026-07-27 23:13:29",
+    "category": "",
+    "description": "<h2>La entidad capta 700 nuevos clientes en este segmento, la mayoría negocios y autónomos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Selección, líder tras un partido de locura",
     "link": "https://as.com/baloncesto/mas_baloncesto/la-seleccion-lider-tras-un-partido-de-locura-f202607-n/",
     "pubDate": "2026-07-27 23:10:56",

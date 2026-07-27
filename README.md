@@ -1,4 +1,4 @@
-# News for 2026-07-27 23:14
+# News for 2026-07-28 00:31
 
 Previous day: [2026-07-26](./data/2026-07-26.md)
 
@@ -46,6 +46,10 @@ Previous day: [2026-07-26](./data/2026-07-26.md)
 08:17 [Hezonja, en 2022: “No volveré a la NBA”](https://as.com/baloncesto/hezonja-en-2022-no-voy-a-regresar-a-la-nba-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:57 [Detenido el atacante que ha apuñalado a tres mujeres en París](https://www.elperiodico.com/es/videos/internacional/detenido-atacante-apunalado-tres-mujeres/132867752.shtml)<br>
+23:53 [Grande-Marlaska: “La zona que más nos preocupa es la zona norte del pantano de San Juan”](https://www.elperiodico.com/es/videos/sociedad/grande-marlaska-zona-preocupa-zona/132867688.shtml)<br>
+23:50 [Los bomberos de los incendios de Ávila y Madrid están preocupados por la ola de calor](https://www.elperiodico.com/es/videos/sociedad/bomberos-incendios-avila-madrid-preocupados/132867610.shtml)<br>
+23:13 [Sabadell Gallego impulsa 1.132 millones de euros en financiación a las empresas gallegas en el segundo trimestre, un 48% más](https://www.elperiodico.com/es/economia/20260727/sabadell-gallego-impulsa-1-132-galicia-132867296)<br>
 22:57 [Declarado un incendio forestal próximo a la urbanización Islantilla Golf, en Lepe (Huelva)](https://www.elperiodico.com/es/sociedad/20260727/declarado-incendio-forestal-proximo-urbanizacion-islantilla-golf-lepe-huelva-132867208)<br>
 22:52 [VÍDEO | Incendio forestal junto a Islantilla Golf, en Lepe (Huelva)](https://www.elperiodico.com/es/videos/sociedad/video-incendio-forestal-islantilla-golf/132867175.shtml)<br>
 22:14 [Lucha contrarreloj para controlar el incendio de la sierra oeste de Madrid y Ávila](https://www.elperiodico.com/es/videos/sucesos/lucha-contrarreloj-controlar-incendio-sierra/132866572.shtml)<br>
