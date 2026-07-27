@@ -1,5 +1,149 @@
 [
   {
+    "title": "Генштаб оновив дані про бої на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4897725-henshtab-onovyv-dani-pro-boi-na-fronti",
+    "pubDate": "2026-07-27 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511448.jpg\">На Костянтинівському напрямку Сили оборони відбивали 22 ворожі штурми, на Північно-Слобожанському та Курському напрямках від початку доби ворог здійснив 66 обстрілів.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Саудівський клуб хоче підписати зірку Баварії",
+    "link": "https://ua.korrespondent.net/sport/football/4897727-saudivskyi-klub-khoche-pidpysaty-zirku-bavarii",
+    "pubDate": "2026-07-27 21:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511456.jpg\">Колумбійський вінгер Баварії Луїс Діас потрапив у сферу інтересів саудівського Аль-Хіляля, який готує щедру пропозицію щодо його трансферу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Juan Carlos I visita unas horas a la reina Sofía en Marivent, pero no se encuentra con Felipe VI",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/juan-carlos-visita-horas-reina/132866209.shtml",
+    "pubDate": "2026-07-27 21:35:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Поліція Польщі затримала двох підозрюваних у нападі на пару українців",
+    "link": "https://ua.korrespondent.net/world/4897723-politsiia-polschi-zatrymala-dvokh-pidozruivanykh-u-napadi-na-paru-ukraintsiv",
+    "pubDate": "2026-07-27 21:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511440.png\">Підозрювані раніше фігурували в поліцейських реєстрах. Одного з них затримали правоохоронці з антитерористичного підрозділу, коли він намагався покинути Вроцлав.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El consejo de los expertos en aire acondicionado: \"El agua destilada del aparato es una alternativa para usos concretos en el jardín o el hogar\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260727/expertos-aire-acondicionado-coinciden-usos-agua-destilada-dv-et-132260709",
+    "pubDate": "2026-07-27 21:30:00",
+    "category": "",
+    "description": "<h2>Los técnicos explican que el agua que evacuan los aparatos pueden servir hasta para regar determinadas plantas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/consumo/20260712/jesus-sahun-experto-eficiencia-energetica-aire-acondicionado-consumo-calor-verano-dv-et-132251139\">Jesús Sahún, experto en eficiencia energética: \"Pon el aire acondicionado a esta temperatura; cada grado menos aumenta un 7% el consumo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los neonazis irrumpen en la manifestación contra la mezquita de Sevilla: la Policía Nacional se despliega en el Polígono Sur",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/neonazis-irrumpen-manifestacion-mezquita-sevilla-132866101",
+    "pubDate": "2026-07-27 21:28:50",
+    "category": "",
+    "description": "<h2>Hasta tres furgones de la Policía Nacional se han trasladado al lugar para evitar cualquier altercado este lunes por la tarde</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "KGM recorre España junto al influencer 'Brosjaca' en apoyo a la lucha contra el cáncer",
+    "link": "https://www.elperiodico.com/es/motor/20260727/nuevo-kgm-musso-recorrera-espana-apoyo-lucha-contra-cancer-132841354",
+    "pubDate": "2026-07-27 21:15:09",
+    "category": "",
+    "description": "<h2>Durante 50 días consecutivos, 'Brosjaca' está recorriendo las 50 provincias españolas para celebrar un encuentro solidario en cada una de ellas</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/megaincendios-desata-emergencia-espana-esperabamos/132865726.shtml",
+    "pubDate": "2026-07-27 21:10:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрон РФ влучив у автомобіль у Харкові, є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4897721-dron-rf-vluchyv-u-avtomobil-u-kharkovi-ye-postrazhdali",
+    "pubDate": "2026-07-27 21:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511432.jpg\">За даними Ігоря Терехова, постраждали двоє людей, за даними Олега Синєгубова - одна жінка.",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Lucha contrarreloj para controlar el incendio de la sierra oeste de Madrid y Ávila: cinco días de fuego, 90.000 desplazados y la amenaza de otra ola de calor",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/contarreloj-incendio-madrid-avila-desplazados-ola-calor-132865722",
+    "pubDate": "2026-07-27 21:06:30",
+    "category": "",
+    "description": "<h2>Ayuso considera \"una solución de brocha gorda para eximirse de responsabilidad\" la propuesta de pacto de Estado contra la emergencia climática de Sánchez</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260727/ultima-hora-incendios-espana-directo-132759066\" target=\"_blank\">Incendios en Madrid, en directo hoy | Preocupación por un frente \"muy agresivo\" en el Pantano de San Juan que obliga a nuevos confinamientos en Madrid y Ávila</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Casas dañadas, evacuaciones y fincas en peligro: Najwa Nimri, Tamara Falcó y Carlos Sainz, entre los famosos afectados por los incendios",
+    "link": "https://www.elperiodico.com/es/gente/20260727/incendios-famosos-afectados-132856818",
+    "pubDate": "2026-07-27 21:04:27",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz denuncia públicamente la situación en el valle del Tiétar y reclama más medios para combatir los incendios, mientras la marquesa de Griñón asegura que está \"muy pendiente de la evolución\" por la cercanía del fuego a su finca El Rincón</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, martes 28 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260727/horoscopo-hoy-martes-28-julio-dv-132730272",
+    "pubDate": "2026-07-27 21:00:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Esto es lo que debes hacer en el testamento cuando un hijo deja de hablarte, según el abogado David Jiménez: \"Puede haber una vía para la desheredación por maltrato psicológico\"",
+    "link": "https://www.elperiodico.com/es/economia/20260727/abogado-desheredar-hijo-herencia-legitima-testamento-codigo-civil-maltrato-psicologico-dv-et-132224873",
+    "pubDate": "2026-07-27 21:00:00",
+    "category": "",
+    "description": "<h2>En Catalunya, el Código Civil prevé esa posibilidad si existe “ausencia manifiesta y continuada de relación”</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260422/demostracion-herencia-legitima-experto-abogado-en-herencias-y-familia-david-jimenez-dv-129171070\">Esto es lo que tienes que demostrar para quitarle a un hijo su legítima herencia: “Si no tienes testamento no cabe desheredar a un hijo”</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260113/david-jimenez-abogado-problemas-hermanos-herencias-evitar-testamentos-genericos-dv-123555528\">David Jiménez, abogado, sobre los problemas entre hermanos por las herencias: \"Hay que evitar los testamentos genéricos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 27 de julio de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/primitiva-hoy-lunes-27-julio-2026-resultados-comprobar-numeros-132865482",
+    "pubDate": "2026-07-27 20:56:33",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La UME ataca con máquinas y autobombas el incendio entre Cebreros y Robledo de Chavela",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/ume-ataca-maquinas-autobombas-incendio/132865423.shtml",
+    "pubDate": "2026-07-27 20:54:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп попередив про \"запасний план\" щодо Ірану",
+    "link": "https://ua.korrespondent.net/world/4897719-tramp-poperedyv-pro-zapasnyi-plan-schodo-iranu",
+    "pubDate": "2026-07-27 20:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511424.jpg\">США не виключають позитивного розвитку переговорів з Іраном, але водночас готуються до альтернативного сценарію.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Agapita y Félix, los 'abuelos' de Chapinería que esperan el fin de la pesadilla: \"Solo quiero volver para regar mis plantas\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260727/agapita-felix-abuelos-chapineria-esperan-fin-pesadilla-fuego-incendio-madrid-132865020",
     "pubDate": "2026-07-27 20:41:36",
@@ -36,6 +180,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "На Київщині потонула 13-річна дівчинка",
+    "link": "https://ua.korrespondent.net/ukraine/4897717-na-kyivschyni-potonula-13-richna-divchynka",
+    "pubDate": "2026-07-27 20:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511415.png\">На місце викликали правоохоронців і медиків. Попри реанімаційні заходи, дитину не врятували.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Una usuaria recoge imágenes en el incendio de la catenaria del metro de Glòries",
     "link": "https://www.elperiodico.com/es/videos/sucesos/usuaria-recoge-imagenes-incendio-catenaria/132864411.shtml",
     "pubDate": "2026-07-27 20:19:30",
@@ -52,6 +205,15 @@
     "description": "<h2 class=\"item\">Una campaña publicitaria da a conocer los lugares gastronómicos preferidos de los tres centrocampistas vascos del Arsenal</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260706/espana-portugal-resumen-resultado-futbol-mundial-2026-132193644\">El talismán Merino mete a España en cuartos en el último baile de Cristiano</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260608/tarta-queso-la-vina-jubilacion-santiago-rivera-san-sebastian-dv-130967778\">Conmoción en el País Vasco por la jubilación de Santiago Rivera, inventor de la tarta de queso de La Viña: 4 décadas de oficio y un postre de fama mundial</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Олександр Свіщов про стратегію розвитку водного поло в Україні",
+    "link": "https://ua.korrespondent.net/sport/4897715-oleksandr-svischov-pro-stratehiui-rozvytku-vodnoho-polo-v-ukraini",
+    "pubDate": "2026-07-27 20:11:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511404.jpg\">\r\nПозачергова конференція Федерації водного поло України, яка відбулася у Львові, стала важливою платформою для формування стратегічного бачення розвитку українського водного поло.",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"",
@@ -144,6 +306,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Челсі націлився на ще одного досвідченого гравця",
+    "link": "https://ua.korrespondent.net/sport/football/4897709-chelsi-natsilyvsia-na-sche-odnoho-dosvidchenoho-hravtsia",
+    "pubDate": "2026-07-27 19:53:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511402.jpg\">Лондонський Челсі розглядає можливість підписання 36-річного півзахисника Джордана Хендерсона для надання досвіду оновленій команді Хаві Алонсо.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Aagesen responde a los bulos sobre los incendios, y los califica como \"irresponsabilidad política\"",
     "link": "https://www.elperiodico.com/es/videos/politica/aagesen-responde-bulos-incendios-irresponsabilidad-politica/132863673.shtml",
     "pubDate": "2026-07-27 19:49:03",
@@ -178,6 +349,15 @@
     "description": "<h2 class=\"item\">El rey emérito pasa apenas 24 horas en la isla para el cumpleaños de un amigo: llegó el domingo de Ginebra y esta mañana partió hacia Italia</h2><h2 class=\"item\">La fiesta fue de Miguel Arias y otro, Manuel Piñera, le acogió en su casa para dormir para que cumpliera su promesa de no usar residencias oficiales </h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Полозюк здобула історичну бронзу на ЧС-2026 з фехтування",
+    "link": "https://ua.korrespondent.net/sport/other/4897699-polozuik-zdobula-istorychnu-bronzu-na-chs-2026-z-fekhtuvannia",
+    "pubDate": "2026-07-27 19:33:00",
+    "category": "Інші",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511393.jpg\">Історичний успіх українського фехтування: Аліна Полозюк стала бронзовою призеркою ЧС-2026.",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "Ni Ozempic ni dietas milagro: el suplemento más recomendado por los usuarios para perder peso",

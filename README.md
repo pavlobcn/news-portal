@@ -1,8 +1,10 @@
-# News for 2026-07-27 20:48
+# News for 2026-07-27 21:56
 
 Previous day: [2026-07-26](./data/2026-07-26.md)
 
 ## ua.korrespondent.net
+21:31 [Поліція Польщі затримала двох підозрюваних у нападі на пару українців](https://ua.korrespondent.net/world/4897723-politsiia-polschi-zatrymala-dvokh-pidozruivanykh-u-napadi-na-paru-ukraintsiv)<br>
+20:20 [На Київщині потонула 13-річна дівчинка](https://ua.korrespondent.net/ukraine/4897717-na-kyivschyni-potonula-13-richna-divchynka)<br>
 18:47 [Пожежа в зоні ЧАЕС: рятувальники описали ситуацію з радіаційним фоном](https://ua.korrespondent.net/ukraine/4897696-pozhezha-v-zoni-chaes-riatuvalnyky-opysaly-sytuatsiui-z-radiatsiinym-fonom)<br>
 18:02 [СБС збили рідкісний дрон Форпост-Р над Курщиною](https://ua.korrespondent.net/ukraine/4897689-sbs-zbyly-ridkisnyi-dron-forpost-r-nad-kurschynoui)<br>
 17:54 [Атака БПЛА призвела до проблем у роботі портів Азова та Таганрога](https://ua.korrespondent.net/world/russia/4897687-ataka-bpla-pryzvela-do-problem-u-roboti-portiv-azova-ta-tahanroha)<br>
@@ -42,6 +44,13 @@ Previous day: [2026-07-26](./data/2026-07-26.md)
 08:17 [Hezonja, en 2022: “No volveré a la NBA”](https://as.com/baloncesto/hezonja-en-2022-no-voy-a-regresar-a-la-nba-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:35 [Juan Carlos I visita unas horas a la reina Sofía en Marivent, pero no se encuentra con Felipe VI](https://www.elperiodico.com/es/videos/sociedad/juan-carlos-visita-horas-reina/132866209.shtml)<br>
+21:30 [El consejo de los expertos en aire acondicionado: "El agua destilada del aparato es una alternativa para usos concretos en el jardín o el hogar"](https://www.elperiodico.com/es/vida-y-estilo/20260727/expertos-aire-acondicionado-coinciden-usos-agua-destilada-dv-et-132260709)<br>
+21:10 [La era de los megaincendios desata la emergencia en España: "No esperábamos fuegos así de violentos hasta 2050 y aquí están"](https://www.elperiodico.com/es/videos/sucesos/megaincendios-desata-emergencia-espana-esperabamos/132865726.shtml)<br>
+21:06 [Lucha contrarreloj para controlar el incendio de la sierra oeste de Madrid y Ávila: cinco días de fuego, 90.000 desplazados y la amenaza de otra ola de calor](https://www.elperiodico.com/es/sociedad/20260727/contarreloj-incendio-madrid-avila-desplazados-ola-calor-132865722)<br>
+21:04 [Casas dañadas, evacuaciones y fincas en peligro: Najwa Nimri, Tamara Falcó y Carlos Sainz, entre los famosos afectados por los incendios](https://www.elperiodico.com/es/gente/20260727/incendios-famosos-afectados-132856818)<br>
+21:00 [Esto es lo que debes hacer en el testamento cuando un hijo deja de hablarte, según el abogado David Jiménez: "Puede haber una vía para la desheredación por maltrato psicológico"](https://www.elperiodico.com/es/economia/20260727/abogado-desheredar-hijo-herencia-legitima-testamento-codigo-civil-maltrato-psicologico-dv-et-132224873)<br>
+20:54 [La UME ataca con máquinas y autobombas el incendio entre Cebreros y Robledo de Chavela](https://www.elperiodico.com/es/videos/sucesos/ume-ataca-maquinas-autobombas-incendio/132865423.shtml)<br>
 20:41 [Agapita y Félix, los 'abuelos' de Chapinería que esperan el fin de la pesadilla: "Solo quiero volver para regar mis plantas"](https://www.elperiodico.com/es/sociedad/20260727/agapita-felix-abuelos-chapineria-esperan-fin-pesadilla-fuego-incendio-madrid-132865020)<br>
 20:29 [El Liceu de Barcelona cierra temporada con 282.000 espectadores y equilibrio económico](https://www.elperiodico.com/es/ocio-y-cultura/20260727/liceu-barcelona-cierra-temporada-espectadores-132863593)<br>
 20:28 [Los vecinos de Navalcarnero se vuelcan con los evacuados que solo piensan en volver a casa: "Cada día que pasa se vuelve más angustioso"](https://www.elperiodico.com/es/sociedad/20260727/vecinos-navalcarnero-vuelcan-evacuados-piensan-volver-casa-incendio-madrid-132864958)<br>
