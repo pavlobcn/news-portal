@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "title": "CENTCOM рекомендував Трампу припинити атаки Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4897411-CENTCOM-rekomenduvav-trampu-prypynyty-ataky-iranu-zmi",
+    "pubDate": "2026-07-27 02:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510471.jpg\">Військові заявили, що існують межі того, чого можна досягти за допомогою кампанії з використанням авіації.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Іран погрожує Україні відповіддю за удар по судну",
+    "link": "https://ua.korrespondent.net/world/4897409-iran-pohrozhuie-ukraini-vidpoviddui-za-udar-po-sudnu",
+    "pubDate": "2026-07-27 02:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510451.jpg\">Іранська влада викликала тимчасового повіреного України у Тегерані. Дипломату передали протест через те, що Іран назвав \"ворожою та злочинною\" атакою.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Пожежі у Франції: Макрон збирає екстрену нараду",
+    "link": "https://ua.korrespondent.net/world/4897407-pozhezhi-u-frantsii-makron-zbyraie-ekstrenu-naradu",
+    "pubDate": "2026-07-27 01:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510412.jpg\">Рятувальники зіштовхнулися з рідкісною конвективною пожежею, яка сама генерує вітер, швидко поширюється та раптово змінює напрямок.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін визнав проблеми з точністю у ракет Циркон",
+    "link": "https://ua.korrespondent.net/world/russia/4897405-putin-vyznav-problemy-z-tochnistui-u-raket-tsyrkon",
+    "pubDate": "2026-07-27 01:22:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510392.jpg\">Протикорабельна ракета, якою російські військові б'ють по українських містах, потребує покращення точності, заявив господар Кремля.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бєлгород масовано атакують БПЛА - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4897401-bielhorod-masovano-atakuuit-bpla-sotsmerezhi",
+    "pubDate": "2026-07-27 00:21:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510333.jpg\">Місцеві жителі чули гучні вибухи, над містом здіймається дим. Також повідомляється про ймовірний \"приліт\" у будівлю ФСБ.",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
