@@ -1,5 +1,95 @@
 [
   {
+    "title": "La Selección, líder tras un partido de locura",
+    "link": "https://as.com/baloncesto/mas_baloncesto/la-seleccion-lider-tras-un-partido-de-locura-f202607-n/",
+    "pubDate": "2026-07-27 23:10:56",
+    "category": "Baloncesto",
+    "description": "La Sub-18 acaba primera de grupo tras vencer con mucho sudor a Letonia. Se medirá con Bulgaria mañana en los octavos del Europeo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Напад на українців: Сибіга подякував владі Польщі за швидку реакцію",
+    "link": "https://ua.korrespondent.net/ukraine/4897733-napad-na-ukraintsiv-sybiha-podiakuvav-vladi-polschi-za-shvydku-reaktsiui",
+    "pubDate": "2026-07-27 22:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511480.png\">Україна тепер покладає надію на \"об'єктивне та неупереджене розслідування\", наголосив очільник українського МЗС.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Declarado un incendio forestal próximo a la urbanización Islantilla Golf, en Lepe (Huelva)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/declarado-incendio-forestal-proximo-urbanizacion-islantilla-golf-lepe-huelva-132867208",
+    "pubDate": "2026-07-27 22:57:07",
+    "category": "",
+    "description": "<h2>La Junta eleva el Plan Infoca a fase de emergencia, situación operativa 1, y refuerza el dispositivo con cuatro medios aéreos, 45 efectivos y dos autobombas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ФІФА визначила автора найкращого голу ЧС-2026",
+    "link": "https://ua.korrespondent.net/sport/football/4897731-fifa-vyznachyla-avtora-naikraschoho-holu-chs-2026",
+    "pubDate": "2026-07-27 22:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511479.jpg\">Міжнародна федерація футболу підвела підсумки голосування вболівальників: авторство найкращого голу мундіалю-2026 належить гравцю Кабо-Верде.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "VÍDEO | Incendio forestal junto a Islantilla Golf, en Lepe (Huelva)",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-incendio-forestal-islantilla-golf/132867175.shtml",
+    "pubDate": "2026-07-27 22:52:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Xavi Hurtado, el fotógrafo víctima de las cargas policiales en Mallorca: \"Tenemos que poder ejercer nuestro trabajo con garantías\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/xavi-hurtado-fotografo-victima-cargas-132867116",
+    "pubDate": "2026-07-27 22:47:10",
+    "category": "",
+    "description": "<h2>El reportero gráfico agradece el apoyo recibido tras ser agredido cuando cubría la manifestación contra la saturación turística, mientras la asociación de fotoperiodistas de Baleares y el sindicato de periodistas (SPIB) se solidariza con su compañero y critica la actuación \"desproporcionada\" de la Policía Nacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "CNN дізнався причину зустрічі Трампа і Зеленського",
+    "link": "https://ua.korrespondent.net/world/worldabus/4897729-CNN-diznavsia-prychynu-zustrichi-trampa-i-zelenskoho",
+    "pubDate": "2026-07-27 22:36:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511471.jpg\">Головною темою переговорів лідерів двох країн стане поточний мирний процес між Росією та Україною.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Willy Hernangómez, destino Unicaja",
+    "link": "https://as.com/baloncesto/acb/willy-hernangomez-destino-unicaja-f202607-n/",
+    "pubDate": "2026-07-27 22:30:58",
+    "category": "Baloncesto",
+    "description": "El pívot madrileño (32 años y 2,10 m) tendrá en Málaga su nuevo destino tras salir del Barcelona este verano y ocupará el hueco dejado por Balceroswki.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lucha contrarreloj para controlar el incendio de la sierra oeste de Madrid y Ávila",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/lucha-contrarreloj-controlar-incendio-sierra/132866572.shtml",
+    "pubDate": "2026-07-27 22:14:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vilablareix ha homenajeado a Pau Cubarsí por la conquista del Mundial con España",
+    "link": "https://www.elperiodico.com/es/videos/deportes/vilablareix-homenajeado-pau-cubarsi-conquista/132866459.shtml",
+    "pubDate": "2026-07-27 21:57:55",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Генштаб оновив дані про бої на фронті",
     "link": "https://ua.korrespondent.net/ukraine/4897725-henshtab-onovyv-dani-pro-boi-na-fronti",
     "pubDate": "2026-07-27 21:55:00",
