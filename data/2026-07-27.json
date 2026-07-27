@@ -1,5 +1,104 @@
 [
   {
+    "title": "Cuando el amor no surge",
+    "link": "https://www.elperiodico.com/es/tele/20260727/amor-surge-132822928",
+    "pubDate": "2026-07-27 07:00:51",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El precio de la desconfianza",
+    "link": "https://www.elperiodico.com/es/opinion/20260727/precio-desconfianza-132826072",
+    "pubDate": "2026-07-27 07:00:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dolors Liria, decana del Col·legi de Psicologia: \"De probarse el intrusismo en el 'caso Andic', se podría denunciar por la vía penal\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260727/dolors-liria-decana-collegi-psicologia-132760848",
+    "pubDate": "2026-07-27 07:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La representante de los psicólogos catalanes afirma que las técnicas que han trascendido de la terapeuta suponen un \"peligro para la salud pública, como lo sería ejercer de cirujano sin serlo\"</h2><h2 class=\"item\">\"Un psicólogo nunca pondría en riesgo a un paciente ni le diría que debe ponerse en el borde de un precipicio\", afirma</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TVyMAS Lunes 27",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-27/132822891.shtml",
+    "pubDate": "2026-07-27 06:58:36",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пляжі висадки союзників у Нормандії внесли до списку ЮНЕСКО",
+    "link": "https://ua.korrespondent.net/world/4897432-pliazhi-vysadky-souiznykiv-u-normandii-vnesly-do-spysku-yunesko",
+    "pubDate": "2026-07-27 06:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510758.jpg\">Рішення ЮНЕСКО визнало історичну цінність місць, де 6 червня 1944 року розпочалася масштабна операція зі звільнення Європи від нацистської окупації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Entrevista a Dolors Liria, decana del Col·legi de Psicologia: \"Si se demuestra intrusismo en el 'caso Andic' se puede denunciar por la vía penal\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/entrevista-dolors-liria-decana-collegi/132789038.shtml",
+    "pubDate": "2026-07-27 06:55:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб озвучив втрати росіян на 27 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4897429-henshtab-ozvuchyv-vtraty-rosiian-na-27-lypnia",
+    "pubDate": "2026-07-27 06:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510756.jpg\">Нині загальні бойові втрати російських загарбників орієнтовно становлять близько  1 440 580 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нападник Атлетіко налаштований будь-що залишити клуб",
+    "link": "https://ua.korrespondent.net/sport/football/4897428-napadnyk-atletiko-nalashtovanyi-bud-scho-zalyshyty-klub",
+    "pubDate": "2026-07-27 06:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510757.jpg\">Аргентинський форвард готовий до рішучих дій і має намір особисто зустрітися з керівництвом мадридців, щоб переконати босів клубу відпустити його.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдарили дронами по Дніпру",
+    "link": "https://ua.korrespondent.net/city/dnepr/4897426-rosiiany-vdaryly-dronamy-po-dnipru",
+    "pubDate": "2026-07-27 06:27:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510735.jpg\">Внаслідок нічної атаки виникла пожежа на території приватного домоволодіння. Вибуховою хвилею пошкоджено будівлі та авто.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un Tour al año no hace daño; dos, tres o cuatro más, sí",
+    "link": "https://www.elperiodico.com/es/deportes/20260727/tour-ano-dano-tres-o-132833951",
+    "pubDate": "2026-07-27 06:18:28",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Mitsubishi масово вироблятиме роботів-гуманоїдів",
+    "link": "https://ua.korrespondent.net/business/companies/4897424-Mitsubishi-masovo-vyrobliatyme-robotiv-humanoidiv",
+    "pubDate": "2026-07-27 06:14:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510706.jpg\">Корпорація поставила собі за мету виробляти 1000 одиниць на місяць до кінця 2027 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El misterio de los seis uniformes de Policía Nacional 'desaparecidos' en pleno rodaje de un thriller en Valencia",
     "link": "https://www.elperiodico.com/es/sociedad/20260727/misterio-seis-uniformes-policia-nacional-132835765",
     "pubDate": "2026-07-27 06:06:01",
