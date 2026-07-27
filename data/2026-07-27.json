@@ -126,6 +126,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Повітряне перемир’я. Перемовини навколо війни",
+    "link": "https://ua.korrespondent.net/ukraine/4897744-povitriane-peremyria-peremovyny-navkolo-viiny",
+    "pubDate": "2026-07-27 22:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511535.jpeg\">Україна вже зверталася до російського диктатора Володимира Путіна з пропозиціями щодо припинення вогню, раніше ці пропозиції було відхилено.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Xavi Hurtado, el fotógrafo víctima de las cargas policiales en Mallorca: \"Tenemos que poder ejercer nuestro trabajo con garantías\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260727/xavi-hurtado-fotografo-victima-cargas-132867116",
     "pubDate": "2026-07-27 22:47:10",
@@ -158,6 +167,15 @@
     "pubDate": "2026-07-27 22:14:41",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по економіці. РФ виводить з роботи порти",
+    "link": "https://ua.korrespondent.net/ukraine/4897741-udar-po-ekonomitsi-rf-vyvodyt-z-roboty-porty",
+    "pubDate": "2026-07-27 22:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511519.jpg\">Блокування морських портів завдає болісного удару по економіці, виробникам, надходженню валюти в Україну, а отже — по здатності фінансувати оборону.",
     "topic": "",
     "topic_match_probability": 0
   },
