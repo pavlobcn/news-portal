@@ -1,8 +1,12 @@
-# News for 2026-07-27 10:00
+# News for 2026-07-27 10:50
 
 Previous day: [2026-07-26](./data/2026-07-26.md)
 
 ## ua.korrespondent.net
+10:38 [Гривня дешевшає в обмінниках на початку тижня](https://ua.korrespondent.net/business/financial/4897498-hryvnia-deshevshaie-v-obminnykakh-na-pochatku-tyzhnia)<br>
+10:33 [У Франції пожежі знищили 115 тисяч гектарів лісу](https://ua.korrespondent.net/world/4897495-u-frantsii-pozhezhi-znyschyly-115-tysiach-hektariv-lisu)<br>
+10:06 [У Польщі жорстоко побили молоду пару з України](https://ua.korrespondent.net/world/4897482-u-polschi-zhorstoko-pobyly-molodu-paru-z-ukrainy)<br>
+10:03 [Масовий туризм викликав нові протести в Іспанії](https://ua.korrespondent.net/world/4897480-masovyi-turyzm-vyklykav-novi-protesty-v-ispanii)<br>
 06:58 [Пляжі висадки союзників у Нормандії внесли до списку ЮНЕСКО](https://ua.korrespondent.net/world/4897432-pliazhi-vysadky-souiznykiv-u-normandii-vnesly-do-spysku-yunesko)<br>
 06:47 [Генштаб озвучив втрати росіян на 27 липня](https://ua.korrespondent.net/ukraine/4897429-henshtab-ozvuchyv-vtraty-rosiian-na-27-lypnia)<br>
 06:27 [Росіяни вдарили дронами по Дніпру](https://ua.korrespondent.net/city/dnepr/4897426-rosiiany-vdaryly-dronamy-po-dnipru)<br>
@@ -15,6 +19,13 @@ Previous day: [2026-07-26](./data/2026-07-26.md)
 08:17 [Hezonja, en 2022: “No volveré a la NBA”](https://as.com/baloncesto/hezonja-en-2022-no-voy-a-regresar-a-la-nba-f202607-n/)<br>
 
 ## www.elperiodico.com
+10:48 [Íñigo María, el único bebé-milagro de España y octavo del mundo que sobrevive a la falta de riñones al nacer y cuyo horizonte es el trasplante](https://www.elperiodico.com/es/sociedad/20260727/inigo-maria-unico-bebe-milagro-132841163)<br>
+10:32 [Así combate la UME el incendio de Sotillo de la Adrada, Ávila](https://www.elperiodico.com/es/videos/sociedad/combate-ume-incendio-sotillo-adrada-avila/132840440.shtml)<br>
+10:31 [Halo: Campaign Evolved abre fuego en una semana de fantasía oscura y expediciones mortales](https://www.elperiodico.com/es/videojuegos/20260727/halo-campaign-evolved-abre-fuego-132839734)<br>
+10:27 [La Aemet alerta de una nueva subida de temperaturas que podría derivar en la cuarta ola de calor del verano](https://www.elperiodico.com/es/videos/sociedad/aemet-alerta-nueva-subida-temperaturas/132840169.shtml)<br>
+10:15 [Los huertos de Santa Eugènia de Girona sufren una grave falta de agua que genera disputas entre los horticultores](https://www.elperiodico.com/es/sociedad/20260727/huertos-santa-eugenia-girona-sufren-132839772)<br>
+10:08 [Denuncian a dos parejas por encender una hoguera y utilizar una «cachimba» en la riera de Merlès durante la alerta máxima por incendio](https://www.elperiodico.com/es/sociedad/20260727/denuncian-parejas-encender-hoguera-utilizar-132839474)<br>
+09:59 [Cortada la Alta Velocidad entre Barcelona y Madrid por un incendio cerca de la infraestructura en Camp de Tarragona](https://www.elperiodico.com/es/tarragona/20260727/cortada-alta-velocidad-camp-tarragona-barcelona-madrid-132838864)<br>
 09:55 [Menopausia: síntomas tempranos y opciones actuales de manejo](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/mujer-y-embarazo/menopausia-sintomas-tempranos-opciones-actuales/132839037.shtml)<br>
 09:48 [Najwa Nimri, afectada y enfadada por los incendios en Ávila y Madrid: "Olvidaos de dar la chapa con vuestros ideales de mierda"](https://www.elperiodico.com/es/tele/20260727/najwa-nimri-incendio-avila-132838260)<br>
 09:46 [La Aemet advierte de una nueva subida de las termómetros a partir del martes que podría desembocar en la cuarta ola de calor del verano](https://www.elperiodico.com/es/sociedad/20260727/aemet-nueva-subida-temperaturas-cuarta-ola-calor-verano-132838322)<br>

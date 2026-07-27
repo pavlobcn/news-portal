@@ -1,5 +1,194 @@
 [
   {
+    "title": "Íñigo María, el único bebé-milagro de España y octavo del mundo que sobrevive a la falta de riñones al nacer y cuyo horizonte es el trasplante",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/inigo-maria-unico-bebe-milagro-132841163",
+    "pubDate": "2026-07-27 10:48:31",
+    "category": "",
+    "description": "<h2>Tras diez meses de hospitalización, ha recibido el alta del hospital de la Paz de Madrid, pero requiere de diálisis diaria y de oxígeno 24 horas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В ЄС хочуть відмовитися від великих пакетів санкцій проти РФ",
+    "link": "https://ua.korrespondent.net/world/4897502-v-yes-khochut-vidmovytysia-vid-velykykh-paketiv-sanktsii-proty-rf",
+    "pubDate": "2026-07-27 10:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510988.jpg\">Після затяжного блокування нового пакета санкцій з боку Греції у Європейському Союзі почали обговорювати зміну механізму запровадження обмежень проти Росії.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Гривня дешевшає в обмінниках на початку тижня",
+    "link": "https://ua.korrespondent.net/business/financial/4897498-hryvnia-deshevshaie-v-obminnykakh-na-pochatku-tyzhnia",
+    "pubDate": "2026-07-27 10:38:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510986.jpg\">Середній курс продажу долара зріс до 44,88 гривні, а курс продажу євро перебуває на рівні 51,39 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Франції пожежі знищили 115 тисяч гектарів лісу",
+    "link": "https://ua.korrespondent.net/world/4897495-u-frantsii-pozhezhi-znyschyly-115-tysiach-hektariv-lisu",
+    "pubDate": "2026-07-27 10:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510970.jpg\">Французька влада повідомляє про десятки нових займань щодня. Для боротьби з вогнем влада залучила тисячі пожежників, військових і правоохоронців.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así combate la UME el incendio de Sotillo de la Adrada, Ávila",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/combate-ume-incendio-sotillo-adrada-avila/132840440.shtml",
+    "pubDate": "2026-07-27 10:32:29",
+    "category": "",
+    "description": "El incendio de Ávila: noche complicada por el viento y 40.000 desalojados tras cinco días",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Avalan al juez que rechazó investigar si Leire Díez maniobró en el caso de David Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20260727/avalan-juez-rechazo-investigar-leire-132840374",
+    "pubDate": "2026-07-27 10:31:37",
+    "category": "",
+    "description": "<h2>Los jueces rechazan el recurso presentado por Hazte Oír en contra del auto dictado en enero por el magistrado Arturo Zamarriego</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Halo: Campaign Evolved abre fuego en una semana de fantasía oscura y expediciones mortales",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260727/halo-campaign-evolved-abre-fuego-132839734",
+    "pubDate": "2026-07-27 10:31:29",
+    "category": "",
+    "description": "<h2>Consulta nuestro listado con los videojuegos que se publican entre el 27 y el 31 de julio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ігнат розповів про нову тактики РФ під час атак",
+    "link": "https://ua.korrespondent.net/ukraine/4897492-ihnat-rozpoviv-pro-novu-taktyky-rf-pid-chas-atak",
+    "pubDate": "2026-07-27 10:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510969.jpg\">За минулий тиждень російські війська застосували близько 50 балістичних ракет, зазначив речник Повітряних сил ЗСУ.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "La Aemet alerta de una nueva subida de temperaturas que podría derivar en la cuarta ola de calor del verano",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/aemet-alerta-nueva-subida-temperaturas/132840169.shtml",
+    "pubDate": "2026-07-27 10:27:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El nuevo Peugeot E-408 brinda una experiencia de conducción emocionante y se erige como un referente de su categoría en materia de eficiencia",
+    "link": "https://www.elperiodico.com/es/motor/20260727/nuevo-peugeot-408-brinda-experiencia-conduccion-emocionante-132657943",
+    "pubDate": "2026-07-27 10:25:39",
+    "category": "",
+    "description": "<h2>Equipa un motor de 213 CV, la autonomía WLTP puede alcanzar 456 km y puede cargar del 20% al 80% en 31 minutos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атаковано об’єкти у трьох регіонах РФ - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4897488-atakovano-obiekty-u-trokh-rehionakh-rf-zelenskyi",
+    "pubDate": "2026-07-27 10:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510967.jpg\">Глава держави подякував Силам оборони \"за влучну роботу там, що ще зовсім нещодавно було глибоким російським тилом\".",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЄС скасував заборону на російське хутро - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4897489-yes-skasuvav-zaboronu-na-rosiiske-khutro-zmi",
+    "pubDate": "2026-07-27 10:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510968.jpg\">Виняток із санкційного режиму підтримали Італія та Греція - головні покупці російського соболя серед країн ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los huertos de Santa Eugènia de Girona sufren una grave falta de agua que genera disputas entre los horticultores",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/huertos-santa-eugenia-girona-sufren-132839772",
+    "pubDate": "2026-07-27 10:15:24",
+    "category": "",
+    "description": "<h2>Las disputas y los sabotajes entre los horticultores se multiplican ante la escasez de agua en los huertos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Чернігову: в ОВА повідомили нові деталі",
+    "link": "https://ua.korrespondent.net/ukraine/4897486-udar-po-chernihovu-v-ova-povidomyly-novi-detali",
+    "pubDate": "2026-07-27 10:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510959.jpg\">Кількість постраждалих зросла до 25, серед них четверо дітей, а 27 липня в місті оголосили днем жалоби.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20260727/psoe-plus-ultra-zapatero-pedro-sanchez-ultima-hora-directo-132839681",
+    "pubDate": "2026-07-27 10:12:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Netanyahu habla con Rubio sobre desmantelar la Corte Penal Internacional antes de su inminente viaje a EE.UU.",
+    "link": "https://www.elperiodico.com/es/videos/internacional/netanyahu-habla-rubio-desmantelar-corte/132839324.shtml",
+    "pubDate": "2026-07-27 10:11:01",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'Tu pollo ha tomado más drogas que una chica en una despedida de soltera en Ibiza': la provocadora campaña alimentaria en el metro de Londres",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/ibiza-drogas-despedida-soltera-londres-132839545",
+    "pubDate": "2026-07-27 10:08:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Un anuncio contra la ganadería industrial recurre a la imagen festiva de la isla para denunciar el uso de antibióticos en la cría de pollos</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Denuncian a dos parejas por encender una hoguera y utilizar una «cachimba» en la riera de Merlès durante la alerta máxima por incendio",
+    "link": "https://www.elperiodico.com/es/sociedad/20260727/denuncian-parejas-encender-hoguera-utilizar-132839474",
+    "pubDate": "2026-07-27 10:08:23",
+    "category": "",
+    "description": "<h2>Los guardas rurales los sorprendieron haciendo un pícnic con mesas y sillas y con el coche aparcado en una zona protegida</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі жорстоко побили молоду пару з України",
+    "link": "https://ua.korrespondent.net/world/4897482-u-polschi-zhorstoko-pobyly-molodu-paru-z-ukrainy",
+    "pubDate": "2026-07-27 10:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510945.png\">У Польщі стався черговий випадок агресії проти громадян України. За словами родичів постраждалих, приводом для нападу став український акцент.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Масовий туризм викликав нові протести в Іспанії",
+    "link": "https://ua.korrespondent.net/world/4897480-masovyi-turyzm-vyklykav-novi-protesty-v-ispanii",
+    "pubDate": "2026-07-27 10:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4510921.jpg\">Місцеві жителі Майорки заявляють, що через рекордний наплив відпочивальників житло стає недоступним, а якість життя стрімко погіршується.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cortada la Alta Velocidad entre Barcelona y Madrid por un incendio cerca de la infraestructura en Camp de Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260727/cortada-alta-velocidad-camp-tarragona-barcelona-madrid-132838864",
+    "pubDate": "2026-07-27 09:59:14",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260727/retrasos-r2-rodalies-averia-tren-sitges-garraf-132838344\">Retrasos en la R2 de Rodalies y en los Regionals del sur por la avería de un tren entre Sitges y Garraf</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Menopausia: síntomas tempranos y opciones actuales de manejo",
     "link": "https://www.elperiodico.com/es/videos/cuidamos-tu-salud/mujer-y-embarazo/menopausia-sintomas-tempranos-opciones-actuales/132839037.shtml",
     "pubDate": "2026-07-27 09:55:22",
