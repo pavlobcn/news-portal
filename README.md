@@ -1,8 +1,9 @@
-# News for 2026-07-27 18:29
+# News for 2026-07-27 19:10
 
 Previous day: [2026-07-26](./data/2026-07-26.md)
 
 ## ua.korrespondent.net
+18:47 [Пожежа в зоні ЧАЕС: рятувальники описали ситуацію з радіаційним фоном](https://ua.korrespondent.net/ukraine/4897696-pozhezha-v-zoni-chaes-riatuvalnyky-opysaly-sytuatsiui-z-radiatsiinym-fonom)<br>
 18:02 [СБС збили рідкісний дрон Форпост-Р над Курщиною](https://ua.korrespondent.net/ukraine/4897689-sbs-zbyly-ridkisnyi-dron-forpost-r-nad-kurschynoui)<br>
 17:54 [Атака БПЛА призвела до проблем у роботі портів Азова та Таганрога](https://ua.korrespondent.net/world/russia/4897687-ataka-bpla-pryzvela-do-problem-u-roboti-portiv-azova-ta-tahanroha)<br>
 17:14 [Тривожний сигнал. Нове побиття українців в Польщі](https://ua.korrespondent.net/world/4897621-tryvozhnyi-syhnal-nove-pobyttia-ukraintsiv-v-polschi)<br>
@@ -34,11 +35,14 @@ Previous day: [2026-07-26](./data/2026-07-26.md)
 00:21 [Бєлгород масовано атакують БПЛА - соцмережі](https://ua.korrespondent.net/world/russia/4897401-bielhorod-masovano-atakuuit-bpla-sotsmerezhi)<br>
 
 ## as.com
+18:17 [Tercer fichaje del Baskonia: llega AJ. Lawson](https://as.com/baloncesto/tercer-fichaje-del-baskonia-llega-aj-lawson-f202607-n/)<br>
 16:43 [El Gran Canaria ficha a Joe Cremo](https://as.com/baloncesto/acb/el-gran-canaria-ficha-a-joe-cremo-f202607-n/)<br>
 12:33 [Oficial: Tosan Evbuomwan, noveno fichaje del Barça](https://as.com/baloncesto/acb/oficial-tosan-evbuomwan-noveno-fichaje-del-barca-f202607-n/)<br>
 08:17 [Hezonja, en 2022: “No volveré a la NBA”](https://as.com/baloncesto/hezonja-en-2022-no-voy-a-regresar-a-la-nba-f202607-n/)<br>
 
 ## www.elperiodico.com
+19:00 [¿Estamos preparados para grandes evacuaciones por incendio? Los desalojos este verano ya se elevan a 84.000, siete veces más que hace una década](https://www.elperiodico.com/es/sociedad/20260727/preparados-grandes-evacuaciones-incendios-siete-veces-mas-decada-132854938)<br>
+18:50 [Un incendio en la catenaria del metro de Barcelona obliga a cerrar el Clot y desalojar Glòries](https://www.elperiodico.com/es/videos/sucesos/incendio-catenaria-metro-barcelona-obliga/132861682.shtml)<br>
 18:21 [El incendio de Madrid, Ávila y Toledo ya ha quemado 662 km2: siete veces la ciudad de Barcelona](https://www.elperiodico.com/es/sociedad/20260727/incendio-meseta-quemado-662-km2-mollet-sant-jaume-domenys-132859821)<br>
 18:13 [Un incendio en la catenaria del metro de Barcelona obliga a cerrar el Clot y desalojar Glòries](https://www.elperiodico.com/es/barcelona/20260727/cerrada-estacion-metro-clot-incidencia-tecnica-132859651)<br>
 18:03 [El Cerdanya Film Festival se celebrará finalmente en Puigcerdà y contará con 250 proyecciones](https://www.elperiodico.com/es/ocio-y-cultura/20260727/cerdanya-film-festival-celebrara-finalmente-puigcerda-132842917)<br>
