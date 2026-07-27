@@ -1,8 +1,11 @@
-# News for 2026-07-27 15:58
+# News for 2026-07-27 17:11
 
 Previous day: [2026-07-26](./data/2026-07-26.md)
 
 ## ua.korrespondent.net
+16:47 [На півночі Німеччини вихор пошкодив близько 50 будинків](https://ua.korrespondent.net/world/4897662-na-pivnochi-nimechchyny-vykhor-poshkodyv-blyzko-50-budynkiv)<br>
+16:03 [ChatGPT опинився в центрі скандалу через відповіді про отруйні речовини](https://ua.korrespondent.net/business/web/4897641-ChatGPT-opynyvsia-v-tsentri-skandalu-cherez-vidpovidi-pro-otruini-rechovyny)<br>
+15:57 [Кількість померлих від Еболи у ДР Конго сягнула 1405 людей](https://ua.korrespondent.net/world/4897646-kilkist-pomerlykh-vid-eboly-u-dr-konho-siahnula-1405-luidei)<br>
 15:55 [Кліщ уже вкусив: п’ять помилок, що можуть коштувати вам здоров’я](https://ua.korrespondent.net/articles/4897637-klisch-uzhe-vkusyv-piat-pomylok-scho-mozhut-koshtuvaty-vam-zdorovia)<br>
 15:10 [Ґвалтував 14-річну падчерку, яка завагітніла: суд виніс вирок](https://ua.korrespondent.net/ukraine/4897618-gvaltuvav-14-richnu-padcherku-yaka-zavahitnila-sud-vynis-vyrok)<br>
 14:40 ["Діяв за наказом Аллаха": у Парижі затримали нападника з ножем](https://ua.korrespondent.net/world/4897608-diiav-za-nakazom-allakha-u-paryzhi-zatrymaly-napadnyka-z-nozhem)<br>
@@ -27,10 +30,24 @@ Previous day: [2026-07-26](./data/2026-07-26.md)
 00:21 [Бєлгород масовано атакують БПЛА - соцмережі](https://ua.korrespondent.net/world/russia/4897401-bielhorod-masovano-atakuuit-bpla-sotsmerezhi)<br>
 
 ## as.com
+16:43 [El Gran Canaria ficha a Joe Cremo](https://as.com/baloncesto/acb/el-gran-canaria-ficha-a-joe-cremo-f202607-n/)<br>
 12:33 [Oficial: Tosan Evbuomwan, noveno fichaje del Barça](https://as.com/baloncesto/acb/oficial-tosan-evbuomwan-noveno-fichaje-del-barca-f202607-n/)<br>
 08:17 [Hezonja, en 2022: “No volveré a la NBA”](https://as.com/baloncesto/hezonja-en-2022-no-voy-a-regresar-a-la-nba-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:07 [La familia Porter vive en la selva con sus seis hijos y no les falta de nada: "Yo ayudo a Natalie con la educación de los niños desde casa"](https://www.elperiodico.com/es/economia/20260727/familia-porter-selva-educacion-hijos-abuelos-dv-et-132783720)<br>
+17:00 [El formulario obligatorio de la UE: si viajas con este dinero en vacaciones y no lo tienes, habrá multa](https://www.elperiodico.com/es/economia/20260727/multas-ue-cantidad-efectivo-vacaciones-aduanas-dv-131021230)<br>
+16:58 [Bomberos y forestales continúan las labores de extinción de incendios en la Comunidad de Madrid](https://www.elperiodico.com/es/videos/sucesos/bomberos-forestales-continuan-labores-extincion/132857216.shtml)<br>
+16:57 [Herido menos grave un operario al quedar atrapado en la bodega de un barco en el Port de Tarragona](https://www.elperiodico.com/es/tarragona/20260727/port-tarragona-herido-menos-grave-operario-bodega-barco-132857205)<br>
+16:44 [Indra refuerza su apuesta por Catalunya con una alianza estratégica con Bold Technology](https://www.elperiodico.com/es/economia/20260727/indra-refuerza-apuesta-cataluna-alianza-estrategica-bold-technology-132856953)<br>
+16:25 [La reina Letizia preside el "gran consejo de redacción" del Instituto Cervantes: "La lengua es un compromiso con la libertad"](https://www.elperiodico.com/es/ocio-y-cultura/20260727/reina-letizia-preside-gran-consejo-132856228)<br>
+16:12 [Atención: Hacienda aclara qué transferencias entre familiares deben tributar](https://www.elperiodico.com/es/economia/20260727/transferencias-familiares-atencion-hacienda-aclara-tributar-dv-132855282)<br>
+16:11 [¿Quién cubre los daños de los incendios? ¿Cuánto me van a pagar? ¿Dónde voy a vivir? Preguntas y respuestas ante un siniestro por fuego](https://www.elperiodico.com/es/sociedad/20260727/cubre-danos-incendios-pagar-vivir-preguntas-respuestas-siniestros-fuego-132853866)<br>
+16:09 [Muere Gunther von Hagens, el creador de las muestras de cadáveres humanos "plastinados"](https://www.elperiodico.com/es/ocio-y-cultura/20260727/muere-gunther-von-hagens-cadaveres-humanos-plastinados-132855158)<br>
+16:06 [Niubó admite que no había "protocolos claros" para controlar el desarrollo de las pruebas del informe PISA](https://www.elperiodico.com/es/sociedad/20260727/niubo-admite-no-habia-protocolos-claros-controlar-desarrollo-pruebas-informes-pisa-132845994)<br>
+16:05 [Sergio, asesor fiscal, sobre jubilarse a los 50: "Debes tener en cuenta la opción del despido improcedente"](https://www.elperiodico.com/es/economia/20260727/jubilacion-50-anos-despido-improcedente-asesor-fiscal-sergio-dv-et-132643387)<br>
+16:00 [Bàrbara, madre de una joven con anorexia: "Han sido su perseverancia y sus ganas de salir del trastorno las que finalmente han ganado la batalla"](https://www.elperiodico.com/es/ser-feliz/20260727/barbara-madre-joven-anorexia-han-132750114)<br>
+16:00 [Giussepina vive en la montaña como hace un siglo, sin nevera, teléfono, calefacción o televisión: "Me acostumbré a las cosas antiguas"](https://www.elperiodico.com/es/economia/20260727/giussepina-aislada-montana-animales-trabajo-granja-vida-siglo-pasado-dv-et-132675643)<br>
 15:50 [Redmagic 11S Pro: el móvil que convierte el rendimiento en una forma de identidad](https://www.elperiodico.com/es/tecnologia/20260727/redmagic-11s-pro-movil-precio-y-caracteristicas-132853793)<br>
 15:48 [Las llamas se ceban con la provincia de Toledo: nuevo incendio forestal en Navalcán, donde ya trabajan efectivos](https://www.elperiodico.com/es/sociedad/20260727/llamas-ceban-provincia-toledo-nuevo-132854762)<br>
 15:46 [Un tiroteo deja un hombre herido dentro de su vivienda en Terrassa](https://www.elperiodico.com/es/barcelona/20260727/hombre-resulta-herido-bala-vivienda-mossos-tiroteo-132854474)<br>
