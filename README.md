@@ -1,8 +1,9 @@
-# News for 2026-07-28 19:55
+# News for 2026-07-28 21:18
 
 Previous day: [2026-07-27](./data/2026-07-27.md)
 
 ## ua.korrespondent.net
+19:59 [Платформа X запустила власний фінансовий сервіс](https://ua.korrespondent.net/business/companies/4898055-platforma-X-zapustyla-vlasnyi-finansovyi-servis)<br>
 19:27 [У Франції пожежа дісталася бази спецпризначенців поблизу Бордо](https://ua.korrespondent.net/world/4898043-u-frantsii-pozhezha-distalasia-bazy-spetspryznachentsiv-poblyzu-bordo)<br>
 18:51 [РФ втретє вдарила по судну під прапором Ліберії на Одещині - АМПУ](https://ua.korrespondent.net/ukraine/4898037-rf-vtretie-vdaryla-po-sudnu-pid-praporom-liberii-na-odeschyni-ampu)<br>
 18:21 [Китай запустив випуск ключового обладнання для виготовлення чипів - ЗМІ](https://ua.korrespondent.net/business/companies/4898033-kytai-zapustyv-vypusk-kluichovoho-obladnannia-dlia-vyhotovlennia-chypiv-zmi)<br>
@@ -49,6 +50,9 @@ Previous day: [2026-07-27](./data/2026-07-27.md)
 10:44 [Leyma Coruña: un proyecto con vocación de quedarse en Liga Endesa](https://as.com/baloncesto/acb/leyma-coruna-un-proyecto-con-vocacion-de-quedarse-en-liga-endesa-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:47 [El incendio de Madrid y Ávila da una tregua al sexto día: los equipos de extinción contienen el avance y más de 45.000 personas pueden volver a sus casas](https://www.elperiodico.com/es/sociedad/20260728/incendio-madrid-avila-tregua-sexto-dia-132901319)<br>
+20:46 [La mitad de las mujeres asesinadas en julio y junio se estaban separando de sus parejas](https://www.elperiodico.com/es/sociedad/20260728/mitad-mujeres-asesinadas-julio-junio-estaban-separando-sus-parejas-132900511)<br>
+20:19 [Un detenido tras el hallazgo de restos humanos en un camino de acceso a la cantera de Alhaurín de la Torre (Málaga)](https://www.elperiodico.com/es/sucesos/20260728/detenido-hallazgo-restos-humanos-camino-132900809)<br>
 19:47 [Perros, gatos, un par de cobayas y hasta un canario: Las Rozas de Madrid cuida también a los animales de las familias evacuadas](https://www.elperiodico.com/es/sociedad/20260728/perros-gatos-canario-rozas-madrid-familias-evacuados-incendio-132899854)<br>
 19:47 [Un tornado causa graves daños en el estado de Wisconsin (Estados Unidos)](https://www.elperiodico.com/es/videos/internacional/tornado-causa-graves-danos-wisconsin/132899661.shtml)<br>
 19:42 [Un rebrote del fuego en Artana complica la tarde en el incendio forestal en Castellón](https://www.elperiodico.com/es/videos/sociedad/rebrote-fuego-artana-complica-tarde/132899503.shtml)<br>
