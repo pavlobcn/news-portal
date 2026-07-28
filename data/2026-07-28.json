@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Кремль розглядає введення \"воєнного стану\" - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4897751-kreml-rozghliadaie-vvedennia-voiennoho-stanu-zmi",
+    "pubDate": "2026-07-28 02:57:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511573.jpg\">Відповідний захід можуть запровадити в РФ лиш одним указом очільника правлячого режиму РФ Володимира Путіна.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Криму атаковано енергооб'єкт - соцмережі",
+    "link": "https://ua.korrespondent.net/ukraine/4897749-u-krymu-atakovano-enerhoobiekt-sotsmerezhi",
+    "pubDate": "2026-07-28 02:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511551.jpeg\">Атаки зазнав великий електроенергетичний об'єкт - Феодосійські високовольтні магістральні електромережі.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "РФ вдарила КАБами і дроном по Сумщині: є потерпілі",
+    "link": "https://ua.korrespondent.net/ukraine/4897747-rf-vdaryla-kabamy-i-dronom-po-sumschyni-ye-poterpili",
+    "pubDate": "2026-07-28 01:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511543.jpg\">Російські загарбники скинули керовані авіабомби на житловий сектор на околиці Сум, там постраждала одна людина.",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Оман має надію відновити судноплавство в Ормузькій протоці - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4897743-oman-maie-nadiui-vidnovyty-sudnoplavstvo-v-ormuzkii-prototsi-zmi",
+    "pubDate": "2026-07-28 00:59:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511527.jpg\">Оманські переговорники надіються найближчими днями зможуть зробити заяву про прогрес в перемовах з Іраном.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни атакували Київ та область: лунали вибухи",
+    "link": "https://ua.korrespondent.net/city/kiev/4897739-rosiiany-atakuvaly-kyiv-ta-oblast-lunaly-vybukhy",
+    "pubDate": "2026-07-28 00:28:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511511.jpg\">Реактивні дрони летіли в бік Києва, а в бік Макарова - ракета, повідомили Повітряні сили ЗСУ.",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "El Supremo aplica la amnistía a Meritxell Serret, primera consellera del Govern del 1-O en beneficiarse de la medida",
+    "link": "https://www.elperiodico.com/es/politica/20260728/supremo-aplica-amnistia-meritxell-serret-primera-consellera-govern-1-o-132867816",
+    "pubDate": "2026-07-28 00:09:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La exconsellera de Agricultura, condenada por desobediencia grave por facilitar el referéndum del 1 de octubre de 2017, ve extinguida su responsabilidad penal</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260724/govern-tribunal-cuentas-amistia-medidas-cautelares-1-o-proces-artur-mas-132764382\">El Govern reclama al Tribunal de Cuentas que aplique la amnistía por los gastos del 1-O</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las exmonjas de Belorado comparecen en los juzgados de Burgos",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/exmonjas-belorado-comparecen-juzgados-burgos/132867925.shtml",
+    "pubDate": "2026-07-28 00:08:21",
+    "category": "",
+    "description": "Dicen que eran ellas las propietarias de las casullas, objetos litúrgicos y obras de arte que se vendieron",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Actuación de los bomberos en el incendio de la Vall d'Uixó este lunes",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/actuacion-bomberos-incendio-vall-duixo/132867876.shtml",
+    "pubDate": "2026-07-28 00:05:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
