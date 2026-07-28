@@ -1,8 +1,10 @@
-# News for 2026-07-28 22:38
+# News for 2026-07-28 23:47
 
 Previous day: [2026-07-27](./data/2026-07-27.md)
 
 ## ua.korrespondent.net
+22:56 [Вогняний шторм. Лісові пожежі в Іспанії і Франції](https://ua.korrespondent.net/world/4898082-vohnianyi-shtorm-lisovi-pozhezhi-v-ispanii-i-frantsii)<br>
+22:52 [В Одесі під час руху вибухнуло авто](https://ua.korrespondent.net/city/odessa/4898080-v-odesi-pid-chas-rukhu-vybukhnulo-avto)<br>
 19:59 [Платформа X запустила власний фінансовий сервіс](https://ua.korrespondent.net/business/companies/4898055-platforma-X-zapustyla-vlasnyi-finansovyi-servis)<br>
 19:27 [У Франції пожежа дісталася бази спецпризначенців поблизу Бордо](https://ua.korrespondent.net/world/4898043-u-frantsii-pozhezha-distalasia-bazy-spetspryznachentsiv-poblyzu-bordo)<br>
 18:51 [РФ втретє вдарила по судну під прапором Ліберії на Одещині - АМПУ](https://ua.korrespondent.net/ukraine/4898037-rf-vtretie-vdaryla-po-sudnu-pid-praporom-liberii-na-odeschyni-ampu)<br>
@@ -42,6 +44,7 @@ Previous day: [2026-07-27](./data/2026-07-27.md)
 08:46 [В Одесі вибухнув автомобіль: є потерпілий](https://ua.korrespondent.net/city/odessa/4897796-v-odesi-vybukhnuv-avtomobil-ye-poterpilyi)<br>
 
 ## as.com
+23:06 [El Madrid cierra el fichaje de Max Shulga](https://as.com/baloncesto/acb/el-madrid-cierra-el-fichaje-de-max-shulga-f202607-n/)<br>
 17:32 [Fenerbahçe, un gigante que no deja de crecer](https://as.com/baloncesto/euroliga/fenerbahce-un-gigante-que-no-deja-de-crecer-f202607-n/)<br>
 14:50 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
 13:52 [¡Dabone ya es español!](https://as.com/baloncesto/mas_baloncesto/dabone-ya-es-espanol-f202607-n/)<br>
@@ -50,6 +53,11 @@ Previous day: [2026-07-27](./data/2026-07-27.md)
 10:44 [Leyma Coruña: un proyecto con vocación de quedarse en Liga Endesa](https://as.com/baloncesto/acb/leyma-coruna-un-proyecto-con-vocacion-de-quedarse-en-liga-endesa-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:38 [Muere un turista neerlandés durante un paseo en una barca en las cataratas del Iguazú](https://www.elperiodico.com/es/internacional/20260728/muere-turista-neerlandes-durante-paseo-132903624)<br>
+23:00 [La Orquestra Jove de Girona saca músculo con Mahler en el Palau](https://www.elperiodico.com/es/ocio-y-cultura/20260728/orquestra-jove-girona-mahler-palau-musica-barcelona-132903333)<br>
+22:56 [Ferrovial gana 258 millones en el primer semestre, menos de la mitad que hace un año, pese a la mejora operativa del negocio](https://www.elperiodico.com/es/economia/20260728/ferrovial-gana-258-millones-la-mitad-que-en-2025-132903332)<br>
+22:45 [Holaluz presenta alegaciones y asegura que todas las facturas ya están al corriente de pago](https://www.elperiodico.com/es/economia/20260728/holaluz-presenta-alegaciones-asegura-facturas-132903166)<br>
+22:39 [La Iglesia suprime las Hijas del Amor Misericordioso tras las denuncias de abusos sexuales y prácticas sectarias](https://www.elperiodico.com/es/sociedad/20260728/iglesia-suprime-hijas-amor-misericordioso-investigacion-abusos-132902538)<br>
 22:33 [Asesinada una mujer a manos de su pareja delante de sus dos hijos en Barcelona](https://www.elperiodico.com/es/videos/sucesos/asesinada-mujer-manos-pareja-delante/132902965.shtml)<br>
 22:13 [Los vecinos evacuados de Chapinería y Navas del Rey vuelven a sus casas](https://www.elperiodico.com/es/videos/sucesos/vecinos-evacuados-chapineria-navas-rey/132902712.shtml)<br>
 22:00 [Ana (87 años) jubilada: “No cobro nada de nada. Mi marido es el que lleva las cosas y él sí que cobra. Pero por la pensión, ni un céntimo”](https://www.elperiodico.com/es/economia/20260728/ana-87-anos-jubilada-cobro-nada-marido-dv-et-132872536)<br>
