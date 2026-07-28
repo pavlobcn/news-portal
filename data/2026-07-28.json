@@ -1,5 +1,464 @@
 [
   {
+    "title": "El Gobierno suspende el Consejo de Política Fiscal y Financiera previsto para mañana",
+    "link": "https://www.elperiodico.com/es/politica/20260728/gobierno-suspende-consejo-politica-fiscal-132886003",
+    "pubDate": "2026-07-28 14:09:15",
+    "category": "",
+    "description": "<h2>Lo aplaza a septiembre</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Govern reclama al PP un \"debate constructivo\" sobre financiación autonómica en el CPFF",
+    "link": "https://www.elperiodico.com/es/politica/20260728/financiacion-autonomica-reunion-cppf-pp-debate-constructivo-132874313",
+    "pubDate": "2026-07-28 14:02:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La consellera Paneque pide a Junts que apruebe la nueva ley por los \"beneficios\" que tendrá para Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260727/comunidades-pp-piden-aplazar-cpff-financiacion-autonomica-septiembre-132863852\" target=\"_blank\">Las comunidades del PP piden aplazar el CPFF de financiación autonómica hasta septiembre por \"falta de información\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260728/salvador-illa-cataluna-financiacion-pp-gobierno-consejo-politica-fiscal-financiera-132868454\" target=\"_blank\">Illa aplaude el aval de Canarias a la nueva financiación y critica al PP por \"hacer castillos en el aire\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un estudio en los hospitales Trueta y Santa Caterina demuestra que el cribado de hepatitis B y C en urgencias aumenta la detección precoz",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/estudio-hospitales-trueta-santa-caterina-cribado-hepatitis-132878925",
+    "pubDate": "2026-07-28 14:02:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Evidencia que la incorporación automática del cribado a los circuitos asistenciales multiplica por ocho la cobertura</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260223/busca-personas-hepatitis-c-saben-reto-nadie-fuera-sistema-pacientes-antivirales-127163228\">Se busca a 13.000 personas que tienen hepatitis C y no lo saben: \"El reto es que nadie quede fuera del sistema\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los oftalmólogos avisan de que el calor extremo provoca sequedad, ardor e irritación: \"Uno de los órganos más expuestos y sensibles\"",
+    "link": "https://www.elperiodico.com/es/salud/20260728/calor-extremo-ojo-seco-salud-vision-dv-et-132164876",
+    "pubDate": "2026-07-28 14:00:00",
+    "category": "",
+    "description": "<h2>Los ojos también sufren cuando suben las temperaturas</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260718/tiempo-golpe-calor-deshidratacion-agotamiento-diferencias-dv-132167264\">Diferencias entre deshidratación, agotamiento y golpe de calor: así puedes identificarlo</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260703/aviso-opticas-gafas-sol-baratas-peor-sin-filtro-dv-131760025\">Las ópticas alertan sobre las gafas de sol baratas: \"Es peor llevar unas sin filtro que no llevar nada\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere Josep Vilarasau, artífice de la gran Caixa",
+    "link": "https://www.elperiodico.com/es/economia/20260728/muere-josep-vilarasau-artifice-gran-132883916",
+    "pubDate": "2026-07-28 13:59:12",
+    "category": "",
+    "description": "<h2>El histórico presidente de la entidad fallece a los 95 años de edad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Облгази перевірять через можливі маніпуляції з даними про споживання газу",
+    "link": "https://ua.korrespondent.net/ukraine/4897932-oblhazy-pereviriat-cherez-mozhlyvi-manipuliatsii-z-danymy-pro-spozhyvannia-hazu",
+    "pubDate": "2026-07-28 13:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511892.jpg\">Регулятор перевірить, чи коректно 11 облгазів визначали обсяги споживання природного газу та передавали ці дані до інформаційної платформи Оператора ГТС. Саме від цих показників залежать суми у платіжках споживачів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "'Milagro' en Artana: El pastoreo salva a 227 reses rodeadas por el fuego",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/milagro-artana-pastoreo-salva-227-132883350",
+    "pubDate": "2026-07-28 13:58:23",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260728/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pepa Cases, artista y vecina de Eslida: \"Mi hija me pregunta cuándo volveremos a casa y si estará quemada. Y no tengo respuesta para esas cosas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/pepa-cases-artista-vecina-eslida-hija-pregunta-cuando-volveremos-casa-no-tengo-respuesta-132883353",
+    "pubDate": "2026-07-28 13:58:15",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260728/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Descubren en la Región dos especies de rayas que reescriben la biodiversidad del Mediterráneo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/descubren-region-especies-rayas-reescriben-132883356",
+    "pubDate": "2026-07-28 13:57:37",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260728/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La familia de la empleada de limpieza muerta en Barcelona en 2025 demanda al ayuntamiento y a FCC",
+    "link": "https://www.elperiodico.com/es/barcelona/20260728/familia-empleada-limpieza-muerta-ola-calor-denuncia-barcelona-fcc-132884417",
+    "pubDate": "2026-07-28 13:57:18",
+    "category": "",
+    "description": "<h2>El gobierno municipal defiende aplicar los protocolos de seguridad y prevención pertinentes cuando haya temperaturas extremas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран готує ракетний удар по Україні - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4897930-iran-hotuie-raketnyi-udar-po-ukraini-zmi",
+    "pubDate": "2026-07-28 13:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511891.jpg\">Наразі немає офіційних даних про намір Ірану бити балістичними ракетами по Україні, зазначили в ЦПД.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La película 'Sorda', Premio Nacional de Discapacidad Reina Letizia de cultura inclusiva",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260728/sorda-pelicula-premio-nacional-discapacidad-reina-letizia-132876124",
+    "pubDate": "2026-07-28 13:56:17",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20250403/critica-pelicula-sorda-estrenos-cine-cartelera-116017842\">Crítica de 'Sorda': Comprender el mundo sin oírlo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno crea un \"panel científico de acción\" para orientar las políticas vinculadas a incendios y cambio climático",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/gobierno-primer-panel-cientifico-accion-emergencia-climatica-132879247",
+    "pubDate": "2026-07-28 13:55:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo contará con diez investigadores \"de reconocido prestigio\" en distintas disciplinas vinculadas al cambio climático y se encargará de \"elaborar los informes\" y \"prestar el asesoramiento científico\" en situaciones ordinarias y de emergencia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260728/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260728/equipo-cientificos-csic-incendios-espana-132858331\">Un equipo de científicos se enrola por primera vez en las labores de extinción de los incendios: \"Alertamos a los bomberos de las zonas más peligrosas\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El 60% de las agresiones sexuales en discotecas de Barcelona son tocamientos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260728/agresiones-sexuales-discotecas-barcelona-tocamientos-denuncias-mossos-132732685",
+    "pubDate": "2026-07-28 13:54:58",
+    "category": "",
+    "description": "<h2>Las denuncias por violencia sexual en la ciudad han bajado un 9,4% respecto al año pasado</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20230129/mossos-piden-discotecas-haya-espacios-82159248\">Los Mossos piden a las discotecas que no haya espacios sin videovigilancia para evitar las agresiones sexuales</a></h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260318/agresiones-sexuales-detenciones-in-fraganti-barcelona-127561808\">Una de cada dos detenciones de agresores sexuales en Barcelona se hace in fraganti</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern aprueba el aumento de sueldo a los profesores pactado con algunos sindicatos tras las huelgas de este curso escolar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/govern-aprueba-aumento-sueldo-profesores-pactado-sindicatos-huelgas-curso-escolar-132881750",
+    "pubDate": "2026-07-28 13:54:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Catalunya también saca adelante la ampliación del complemento retributivo por mayor dedicación lectiva y ha subido el salario a las dinamizadoras de educación inclusiva en el primer Consell Executiu tras el error con las pruebas PISA</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260604/govern-preve-aplicar-ultimo-preacuerdo-pese-rechazo-profesores-131010987\">El Govern aplicará las medidas acordadas en el preacuerdo de Educació pese al rechazo de los profesores</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260604/profesores-rechazan-preacuerdo-educacion-govern-catalanes-tumba-preacuerdo-131001855\">Los profesores tumban el preacuerdo con Educació y abren una crisis educativa, política y sindical</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Sánchez asegura que se ve \"el final del túnel\" con los incendios y avisa: \"El negacionismo es el peor de los combustibles\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/sanchez-asegura-ve-final-tunel-incendios/132885222.shtml",
+    "pubDate": "2026-07-28 13:54:23",
+    "category": "",
+    "description": "El presidente del Gobierno redobla su llamamiento a un pacto de Estado contra la emergencia climática: \"No es una opción, es una obligación\"",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¡Dabone ya es español!",
+    "link": "https://as.com/baloncesto/mas_baloncesto/dabone-ya-es-espanol-f202607-n/",
+    "pubDate": "2026-07-28 13:52:47",
+    "category": "Baloncesto",
+    "description": "Los esfuerzos de la FEB han dado resultado. El Consejo de Ministros ha aprobado una resolución que abre un camino más de futuro para el baloncesto español.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eduardo Satué, presidente de la Sociedad Española de Salud Pública y Administración Sanitaria, sobre los mosquitos: el DEET es el repelente \"más potente de todos\"",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260728/mosquitos-deet-repelente-potente-eduardo-satue-dv-et-132879115",
+    "pubDate": "2026-07-28 13:52:01",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto también recuerda la importancia de aplicar correctamente el repelente cuando se utiliza junto con protector solar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260620/aumento-mosquitos-verano-por-que-causas-131601487\" >¿Es cierto que hay más mosquitos que nunca? Así ha cambiado la presencia de estos insectos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260724/mes-semanas-estudio-revela-vacaciones-descansar-dv-132769969\" >Ni dos semanas ni un mes: este es el periodo de vacaciones que necesitan los trabajadores para descansar del todo mental y físicamente</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La factura de la extinción de incendios alcanza ya los 3.275 millones este verano",
+    "link": "https://www.elperiodico.com/es/sociedad/20260728/factura-incendios-2026-espana-alcanza-3275-millones-euros-132876572",
+    "pubDate": "2026-07-28 13:47:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Los fuegos forestales han calcinado más de 172.000 hectáreas, una cifra seis veces superior a la contabilizada en el mismo periodo de 2025</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/megaincendios-desata-emergencia-espana-esperabamos-bombas-nucleares-132857533\">La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aprobado el nuevo plan de emergencia química de Tarragona, con 432 sensores de fugas tóxicas y los Es-Alert",
+    "link": "https://www.elperiodico.com/es/tarragona/20260728/aprobado-nuevo-plan-emergencia-quimica-plaseqta-tarragona-132884279",
+    "pubDate": "2026-07-28 13:45:12",
+    "category": "",
+    "description": "<h2>La revisión incluye la detección de óxido de etileno, cloro y amoníaco mediante nuevos sensores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nueva prestación para los trabajadores afectados por los incendios: quién puede cobrarla y durante cuánto tiempo",
+    "link": "https://www.elperiodico.com/es/economia/20260728/nueva-prestacion-trabajadores-afectados-incendios-quien-puede-cobrarla-durante-cuanto-tiempo-132884541",
+    "pubDate": "2026-07-28 13:43:39",
+    "category": "",
+    "description": "<h2 class=\"item\">La ayuda cubrirá hasta cuatro meses con el 70% de la base reguladora y no exigirá un periodo mínimo de cotización</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Ошукали майже тисячу українців: поліція викрила нову шахрайську схему",
+    "link": "https://ua.korrespondent.net/ukraine/4897920-oshukaly-maizhe-tysiachu-ukraintsiv-politsiia-vykryla-novu-shakhraisku-skhemu",
+    "pubDate": "2026-07-28 13:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511880.jpg\">Збитки потерпілих перевищили 1,1 млн доларів, а серед жертв фейкової академії інвестицій були пенсіонери, люди з інвалідністю та тяжкохворі.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Parlament sanciona con una advertencia pública a Sílvia Orriols y Joan Garriga por su conducta en el pleno",
+    "link": "https://www.elperiodico.com/es/politica/20260728/parlament-sancion-silvia-orriols-joan-garriga-reforma-reglamento-condigo-conducta-132882432",
+    "pubDate": "2026-07-28 13:40:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La Mesa de la Cámara catalana emplaza a los grupos a reformar el reglamento si quieren ir más allá</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260506/parlament-reforma-reglamento-discursos-odio-vox-alianca-catalana-orriols-125081539\">PSC, Junts y ERC ultiman una reforma de reglamento del Parlament para blindar las multas por discursos de odio</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Скандал з Nvidia: на Тайвані розслідують витік ШІ-чипів до Китаю",
+    "link": "https://ua.korrespondent.net/business/companies/4897917-skandal-z-Nvidia-na-taivani-rozsliduuit-vytik-shi-chypiv-do-kytaui",
+    "pubDate": "2026-07-28 13:35:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511879.jpg\">На Тайвані затримали співробітника американської Nvidia через підозри у підробці документів і можливому сприянні незаконному переміщенню ШІ-технологій до Китаю.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Oficial: Willy Hernangómez ficha por el Unicaja",
+    "link": "https://as.com/baloncesto/oficial-willy-hernangomez-ficha-por-el-unicaja-f202607-n/",
+    "pubDate": "2026-07-28 13:34:51",
+    "category": "Baloncesto",
+    "description": "El pívot llega a Málaga para relanzar su carrera después de una lastimosa etapa en Barcelona. Firma por una temporada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los intoxicados en el incendio del metro de Barcelona bajaron a las vías antes que el conductor pudiera dar media vuelta",
+    "link": "https://www.elperiodico.com/es/barcelona/20260728/pasajeros-incendio-metro-barcelona-bajaron-vias-antes-tren-diera-la-vuelta-132883098",
+    "pubDate": "2026-07-28 13:29:54",
+    "category": "",
+    "description": "<h2>El revestimiento de catenaria que ardió en Glòries solo está instalado en este punto de la red, por riesgo de filtraciones de agua</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez se pronuncia sobre el fallo del TJUE ante la amnistía: \"Actuamos conforme a derecho para favorecer la reconciliación\"",
+    "link": "https://www.elperiodico.com/es/politica/20260728/sanchez-fallo-tjue-amnistia-reconciliacion-132883717",
+    "pubDate": "2026-07-28 13:27:16",
+    "category": "",
+    "description": "<h2>El presidente del Gobierno ha señalado que solo el 2% de los catalanes ven problemática al relación con el Estado: \"Esto no es casualidad\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україну прибув новий посол Франції",
+    "link": "https://ua.korrespondent.net/ukraine/4897911-v-ukrainu-prybuv-novyi-posol-frantsii",
+    "pubDate": "2026-07-28 13:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511877.jpg\">На початку дипломатичної місії Рокфей вшанував українських захисників біля мурів Михайлівського золотоверхого собору.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Ірак звинуватив Україну у \"протиправній діяльності\": Київ відповів",
+    "link": "https://ua.korrespondent.net/ukraine/4897909-irak-zvynuvatyv-ukrainu-u-protypravnii-diialnosti-kyiv-vidpoviv",
+    "pubDate": "2026-07-28 13:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511870.jpg\">Влада Іраку стверджує, що за групами, затриманими за здійснення кількох нападів у країні, стоїть Україна.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sant Celoni estrena piscina municipal tras dos décadas de espera: \"Es una demanda histórica\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260728/sant-celoni-estrena-piscina-municipal-dos-decadas-espera-demanda-historica-132880175",
+    "pubDate": "2026-07-28 13:22:25",
+    "category": "",
+    "description": "<h2>El municipio vallesano de 19.000 carecía de un equipamiento veraniego desde el 2006, cuando se derribó el anterior</h2><h2>El alcalde, Eduard Vallhonesta, asegura que este martes \"es un día muy especial\" para la historia local</h2><h2>REPORTAJE | <a href=\"https://www.elperiodico.com/es/sociedad/20230715/verano-pueblo-piscina-municipal-ola-calor-sant-celoni-89777042\" target=\"_blank\">Ser niño en verano en un pueblo sin piscina: \"¿Cómo lo vamos a llevar? ¡Mal!\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп почав захоплюватися Україною й охолов до Путіна - WSJ",
+    "link": "https://ua.korrespondent.net/world/4897904-tramp-pochav-zakhopluivatysia-ukrainoui-y-okholov-do-putina-WSJ",
+    "pubDate": "2026-07-28 13:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511868.jpg\">Президент США змінив погляди на війну після того, як Україна продемонструвала стійкість, розвиток безпілотних технологій і здатність завдавати ударів по території Росії.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cambia el chip al volante: así será la normativa para conducir a partir de otoño",
+    "link": "https://www.elperiodico.com/es/videos/motor/cambia-chip-volante-sera-normativa/132882685.shtml",
+    "pubDate": "2026-07-28 13:13:00",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Zaragoza, elegida como sede de la nueva Agencia Estatal de Salud Pública",
+    "link": "https://www.elperiodico.com/es/sanidad/20260728/zaragoza-elegida-sede-nueva-agencia-132881780",
+    "pubDate": "2026-07-28 13:09:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Toledo, Granada, Zaragoza, Murcia, Barcelona, León, Oviedo y Lugo eran las ocho ciudades que aspiraban a acoger la sede de este organismo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260217/eleccion-sede-agencia-estatal-salud-publica-retrasa-esperar-agosto-126941219\">La elección de la sede de la Agencia Estatal de Salud Pública se retrasa: habrá que esperar a agosto para saber qué ciudad acoge el organismo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La India cita a representantes de Meta por retirar un vídeo del presidente tras la protesta del movimiento  de las 'Cucarachas'",
+    "link": "https://www.elperiodico.com/es/internacional/20260728/india-cita-meta-retirar-video-educacion-cucarachas-protestas-movimiento-politico-tecnologia-acercamiento-juvenil-132879315",
+    "pubDate": "2026-07-28 13:08:34",
+    "category": "",
+    "description": "<h2>Las manifestaciones estudiantiles culminaron con la dimisión del ministro de Educación, Dharmendra Pradhan</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Генштабі заявили про інформаційну операцію проти Драпатого",
+    "link": "https://ua.korrespondent.net/ukraine/4897898-u-henshtabi-zaiavyly-pro-informatsiinu-operatsiui-proty-drapatoho",
+    "pubDate": "2026-07-28 12:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511859.jpg\">Наразі поширюються створені штучним інтелектом вигадані історії про нібито публічну сварку нового і колишнього головнокомандувачів ЗСУ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Stellantis se deshace de Free2move, su empresa de carsharing, como parte del plan FaSTLAne 2030",
+    "link": "https://www.elperiodico.com/es/motor/20260728/stellantis-deshace-free2move-empresa-carsharing-132878399",
+    "pubDate": "2026-07-28 12:56:16",
+    "category": "",
+    "description": "<h2>El grupo vende el 100% de sus acciones de la división de movilidad compartida a la empresa Mutares y el traspaso se hará efectivo a finales de este mismo año.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los tribunales revisarán la adjudicación de puestos en el extranjero a los diplomáticos españoles de 2026",
+    "link": "https://www.elperiodico.com/es/internacional/20260728/tribunal-de-justicia-de-madrid-bombo-diplomatico-denuncia-ade-132881393",
+    "pubDate": "2026-07-28 12:49:46",
+    "category": "",
+    "description": "<h2>La denuncia del cónsul en Mendoza (Argentina) por su exclusión del llamado \"bombo\" de distribución de destinos será revisada por el Tribunal de Justicia de Madrid</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sondeo Catalunya: La mitad de los catalanes rechazan construir edificios más altos y limitar la compra de vivienda a uso residencial",
+    "link": "https://www.elperiodico.com/es/economia/20260728/sondeo-catalunya-vivienda-densificacion-132769798",
+    "pubDate": "2026-07-28 12:45:38",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260727/encuesta-elecciones-catalunya-cataluna-132807169\" target=\"_blank\">Encuesta GESOP: El PSC ganaría las elecciones a la baja y Aliança Catalana sería la segunda fuerza</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260727/sondeo-catalunya-lideres-valoracion-govern-gestion-132768242\" target=\"_blank\">Illa y Junqueras aprueban y Orriols saca mejor nota que Puigdemont</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260727/sondeo-catalunya-extrema-derecha-ascenso-crecimiento-ultraderecha-132782303\" target=\"_blank\">Los catalanes atribuyen el ascenso de la extrema derecha a la desconfianza hacia los partidos tradicionales y la inseguridad</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260727/sondeo-catalunya-autopistas-peajes-impuestos-vineta-132771090\" target=\"_blank\">La mitad de los catalanes cree que el mantenimiento de las autopistas se debe pagar con peajes</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260727/sondeo-catalunya-ley-de-amnistia-132779474\" target=\"_blank\">El 62% de los catalanes están a favor de la aplicación completa de la ley de amnistía</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Rayo Vallecano se queda sin estadio a semanas del inicio de la Liga y la situación puede durar hasta seis meses",
+    "link": "https://www.elperiodico.com/es/deportes/20260728/rayo-vallecano-queda-estadio-semanas-132880961",
+    "pubDate": "2026-07-28 12:41:25",
+    "category": "",
+    "description": "<h2>La Comunidad de Madrid retira la concesión del estadio al Rayo Vallecano por \"problemas graves que exigen obras de urgencia. No se podía garantizar la salud de las personas ni la salubridad\".</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Más sofocos en verano? Así afecta el calor al sistema que regula la temperatura corporal",
+    "link": "https://www.elperiodico.com/es/salud/20260728/sofocos-verano-afecta-calor-temperatura-corporal-132880897",
+    "pubDate": "2026-07-28 12:40:19",
+    "category": "",
+    "description": "<h2>Los sofocos y sudores nocturnos se intensifican en verano, afectando a un 66% más de mujeres menopáusicas respecto al invierno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya impulsa una ley para que los directivos públicos se elijan por meritocracia y no por afinidad política",
+    "link": "https://www.elperiodico.com/es/politica/20260728/ley-generalitat-directivos-publicos-meritocracia-reforma-administracion-132843196",
+    "pubDate": "2026-07-28 12:30:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La nueva norma platea crear un órgano independiente que lleve a cabo la selección de los puestos clave de la administración </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250721/govern-ley-profesionalizar-direccion-publica-generalitat-meritocracia-politica-119903144\" target=\"_blank\">El Govern impulsa una ley para que los directivos públicos sean elegidos por meritocracia y no por adscripción política</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251105/reforma-administracion-plan-govern-reducir-altos-cargos-a-dedo-sector-privado-limitar-mandatos-123338851\" target=\"_blank\">El Govern se plantea captar talento del sector privado y limitar a 10 años los mandatos de los altos cargos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251103/salvador-illa-catalunya-reforma-administracion-generalitat-50-propuestas-expertos-123300319\" target=\"_blank\">Illa lanza su reforma de la administración pública de la Generalitat con 50 propuestas de expertos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Посадовця ЗСУ затримали на хабарі у $2,2 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4897886-posadovtsia-zsu-zatrymaly-na-khabari-u-22-mln",
+    "pubDate": "2026-07-28 12:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511844.jpg\">Частину грошей планувалось передати членам Кабміну за погодження договору про спільну діяльність між забудовником та військовою частиною.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Затримання з кайданками: що відомо про інцидент між журналістом і ТЦК",
+    "link": "https://ua.korrespondent.net/ukraine/4897885-zatrymannia-z-kaidankamy-scho-vidomo-pro-intsydent-mizh-zhurnalistom-i-ttsk",
+    "pubDate": "2026-07-28 12:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511836.jpg\">Редакція стверджує, що журналіст не порушував правил військового обліку, тоді як поліція і ТЦК заявляють про протилежне.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UEFA insta a los árbitros a sancionar las pérdidas de tiempo en el fútbol",
+    "link": "https://www.elperiodico.com/es/deportes/20260728/uefa-insta-arbitros-sancionar-perdidas-132877705",
+    "pubDate": "2026-07-28 12:26:48",
+    "category": "",
+    "description": "<h2>El tiempo para las sustituciones se mantiene en diez segundos y las lesiones \"tácticas\" de los porteros pueden comportar la exclusión de un jugador de su equipo durante un minuto</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un estudio identifica el 'escudo' que utiliza un cáncer de hígado muy agresivo para resistir la quimioterapia",
+    "link": "https://www.elperiodico.com/es/sanidad/20260728/estudio-identifica-escudo-utiliza-cancer-higado-agresivo-quimioterapia-132878821",
+    "pubDate": "2026-07-28 12:14:39",
+    "category": "",
+    "description": "<h2 class=\"item\">El trabajo del Centro de Investigación del Cáncer demuestra que ciertas células del entorno tumoral permiten al cáncer de vías biliares intrahepático resistir el tratamiento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260728/ensayo-clinico-permite-pacientes-cancer-sangre-vivir-sin-medicacion-resultados-esperanzadores-leucemia-132873459\">Un ensayo clínico permite a pacientes con un tipo de cáncer de la sangre vivir sin medicación: \"Aporta resultados esperanzadores\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El juicio del caso Kitchen que ha sentado en el banquillo al exministro del Interior de Rajoy queda visto para sentencia",
+    "link": "https://www.elperiodico.com/es/politica/20260728/kitchen-visto-sentencia-132879707",
+    "pubDate": "2026-07-28 12:14:34",
+    "category": "",
+    "description": "<h2>La supuesta maniobra parapolicial para robar a Bárcenas documentos que podrían perjudicar al PP es calificada por las defensas como una mera operación de inteligencia que no debe tener consecuencias penales </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así se vivió desde dentro el incendio de la línea 1 del metro entre las estaciones del Clot y Glòries",
+    "link": "https://www.elperiodico.com/es/barcelona/20260728/asi-vivio-incendio-linea-1-metro-barcelona-afectados-clot-glories-132875789",
+    "pubDate": "2026-07-28 12:14:27",
+    "category": "",
+    "description": "<h2 class=\"item\">La circulación de la línea 1 del metro de Barcelona se restableció este martes tras el fuego declarado en la estación El Clot</h2><h2 class=\"item\">Contexto | <a href=\"https://www.elperiodico.com/es/barcelona/20260727/cerrada-estacion-metro-clot-incidencia-tecnica-132859651\" target=\"_blank\">Un incendio en el metro de Barcelona obliga a evacuar estaciones de la línea 1 y deja a 137 atendidos por Emergències</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trabajadoras del PSOE declaran en la Audiencia Nacional que Cerdán era quien \"siempre\" autorizaba los billetes y las entradas en Ferraz de Leire Díez",
+    "link": "https://www.elperiodico.com/es/politica/20260728/administrativas-psoe-pedraz-caso-leire-132879309",
+    "pubDate": "2026-07-28 12:06:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La UCO sospecha de pagos realizados a varios abogados relacionados con la presunta trama para torpedear causas judiciales en torno al Gobierno</h2><h2 class=\"item\">Última hora sobre los casos judiciales próximos al PSOE y a Pedro Sánchez. En directo: reacciones </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Repsol, Moeve y BP se enzarzan en una nueva guerra de descuentos en las gasolineras durante el verano",
+    "link": "https://www.elperiodico.com/es/economia/20260728/precio-gasolineras-repsol-moeve-bp-descuentos-132879268",
+    "pubDate": "2026-07-28 12:04:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Las grandes petroleras amplían las rebajas en los repostajes y las concentran en los fines de semana y en los picos de desplazamientos en coche de las operaciones salida y retorno</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un ensayo clínico permite a pacientes con un tipo de cáncer de la sangre vivir sin medicación aporta resultados esperanzadores",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ensayo-clinico-permite-pacientes-tipo-video/132879186.shtml",
+    "pubDate": "2026-07-28 12:03:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тюменський НПЗ зупинився після атаки дронів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4897875-tuimenskyi-npz-zupynyvsia-pislia-ataky-droniv-zmi",
+    "pubDate": "2026-07-28 12:03:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511828.jpeg\">На заводі пошкоджено установку гідроочищення дизпалива і комбіновану установку виробництва високооктанових автобензинів, стверджують джерела.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El mayor estudio genético sobre fibromialgia desvela el origen neurológico de la enfermedad y abre nuevas esperanzas de tratamiento",
     "link": "https://www.elperiodico.com/es/sociedad/20260728/estudio-genetico-fibromialgia-origen-neurologico-enfermedad-132877315",
     "pubDate": "2026-07-28 12:00:45",
@@ -1303,6 +1762,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511620.jpeg\">Росавіація на тлі атаки БпЛА оголосила про обмеження та призупинку роботи московських аеропортів.",
     "topic": "політика",
     "topic_match_probability": 45
+  },
+  {
+    "title": "Nacen los Premios a la Transformación Social Prensa Ibérica-Fundación 'la Caixa'",
+    "link": "https://www.elperiodico.com/es/sociedad/nacen-premios-transformacion-social-prensa-132868486-rm/index.html",
+    "pubDate": "2026-07-28 04:55:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El difícil camino de Laura para ser madre: \"Al principio cuesta asumir que necesias ayuda\"",

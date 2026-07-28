@@ -1,8 +1,11 @@
-# News for 2026-07-28 12:03
+# News for 2026-07-28 14:10
 
 Previous day: [2026-07-27](./data/2026-07-27.md)
 
 ## ua.korrespondent.net
+12:59 [У Генштабі заявили про інформаційну операцію проти Драпатого](https://ua.korrespondent.net/ukraine/4897898-u-henshtabi-zaiavyly-pro-informatsiinu-operatsiui-proty-drapatoho)<br>
+12:27 [Затримання з кайданками: що відомо про інцидент між журналістом і ТЦК](https://ua.korrespondent.net/ukraine/4897885-zatrymannia-z-kaidankamy-scho-vidomo-pro-intsydent-mizh-zhurnalistom-i-ttsk)<br>
+12:03 [Тюменський НПЗ зупинився після атаки дронів - ЗМІ](https://ua.korrespondent.net/world/russia/4897875-tuimenskyi-npz-zupynyvsia-pislia-ataky-droniv-zmi)<br>
 11:38 [Apple повернула статус найдорожчої компанії, обійшовши Nvidia](https://ua.korrespondent.net/business/companies/4897864-Apple-povernula-status-naidorozhchoi-kompanii-obiishovshy-Nvidia)<br>
 11:19 [Затоплення Golden Leo: Україна почала екологічний моніторинг Чорного моря](https://ua.korrespondent.net/ukraine/4897854-zatoplennia-Golden-Leo-ukraina-pochala-ekolohichnyi-monitorynh-chornoho-moria)<br>
 10:59 [В обмінниках триває зниження курсу гривні](https://ua.korrespondent.net/business/financial/4897845-v-obminnykakh-tryvaie-znyzhennia-kursu-hryvni)<br>
@@ -11,10 +14,32 @@ Previous day: [2026-07-27](./data/2026-07-27.md)
 08:46 [В Одесі вибухнув автомобіль: є потерпілий](https://ua.korrespondent.net/city/odessa/4897796-v-odesi-vybukhnuv-avtomobil-ye-poterpilyi)<br>
 
 ## as.com
+13:52 [¡Dabone ya es español!](https://as.com/baloncesto/mas_baloncesto/dabone-ya-es-espanol-f202607-n/)<br>
+13:34 [Oficial: Willy Hernangómez ficha por el Unicaja](https://as.com/baloncesto/oficial-willy-hernangomez-ficha-por-el-unicaja-f202607-n/)<br>
 11:35 [“Nos faltan dos fichajes para cerrar el equipo”](https://as.com/baloncesto/nos-faltan-dos-fichajes-para-cerrar-el-equipo-f202607-n/)<br>
 10:44 [Leyma Coruña: un proyecto con vocación de quedarse en Liga Endesa](https://as.com/baloncesto/acb/leyma-coruna-un-proyecto-con-vocacion-de-quedarse-en-liga-endesa-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:02 [Un estudio en los hospitales Trueta y Santa Caterina demuestra que el cribado de hepatitis B y C en urgencias aumenta la detección precoz](https://www.elperiodico.com/es/sociedad/20260728/estudio-hospitales-trueta-santa-caterina-cribado-hepatitis-132878925)<br>
+14:00 [Los oftalmólogos avisan de que el calor extremo provoca sequedad, ardor e irritación: "Uno de los órganos más expuestos y sensibles"](https://www.elperiodico.com/es/salud/20260728/calor-extremo-ojo-seco-salud-vision-dv-et-132164876)<br>
+13:59 [Muere Josep Vilarasau, artífice de la gran Caixa](https://www.elperiodico.com/es/economia/20260728/muere-josep-vilarasau-artifice-gran-132883916)<br>
+13:58 ['Milagro' en Artana: El pastoreo salva a 227 reses rodeadas por el fuego](https://www.elperiodico.com/es/sociedad/20260728/milagro-artana-pastoreo-salva-227-132883350)<br>
+13:58 [Pepa Cases, artista y vecina de Eslida: "Mi hija me pregunta cuándo volveremos a casa y si estará quemada. Y no tengo respuesta para esas cosas"](https://www.elperiodico.com/es/sociedad/20260728/pepa-cases-artista-vecina-eslida-hija-pregunta-cuando-volveremos-casa-no-tengo-respuesta-132883353)<br>
+13:57 [Descubren en la Región dos especies de rayas que reescriben la biodiversidad del Mediterráneo](https://www.elperiodico.com/es/sociedad/20260728/descubren-region-especies-rayas-reescriben-132883356)<br>
+13:57 [La familia de la empleada de limpieza muerta en Barcelona en 2025 demanda al ayuntamiento y a FCC](https://www.elperiodico.com/es/barcelona/20260728/familia-empleada-limpieza-muerta-ola-calor-denuncia-barcelona-fcc-132884417)<br>
+13:56 [La película 'Sorda', Premio Nacional de Discapacidad Reina Letizia de cultura inclusiva](https://www.elperiodico.com/es/ocio-y-cultura/20260728/sorda-pelicula-premio-nacional-discapacidad-reina-letizia-132876124)<br>
+13:54 [El 60% de las agresiones sexuales en discotecas de Barcelona son tocamientos](https://www.elperiodico.com/es/barcelona/20260728/agresiones-sexuales-discotecas-barcelona-tocamientos-denuncias-mossos-132732685)<br>
+13:52 [Eduardo Satué, presidente de la Sociedad Española de Salud Pública y Administración Sanitaria, sobre los mosquitos: el DEET es el repelente "más potente de todos"](https://www.elperiodico.com/es/medio-ambiente/20260728/mosquitos-deet-repelente-potente-eduardo-satue-dv-et-132879115)<br>
+13:47 [La factura de la extinción de incendios alcanza ya los 3.275 millones este verano](https://www.elperiodico.com/es/sociedad/20260728/factura-incendios-2026-espana-alcanza-3275-millones-euros-132876572)<br>
+13:45 [Aprobado el nuevo plan de emergencia química de Tarragona, con 432 sensores de fugas tóxicas y los Es-Alert](https://www.elperiodico.com/es/tarragona/20260728/aprobado-nuevo-plan-emergencia-quimica-plaseqta-tarragona-132884279)<br>
+13:29 [Los intoxicados en el incendio del metro de Barcelona bajaron a las vías antes que el conductor pudiera dar media vuelta](https://www.elperiodico.com/es/barcelona/20260728/pasajeros-incendio-metro-barcelona-bajaron-vias-antes-tren-diera-la-vuelta-132883098)<br>
+13:22 [Sant Celoni estrena piscina municipal tras dos décadas de espera: "Es una demanda histórica"](https://www.elperiodico.com/es/barcelona/20260728/sant-celoni-estrena-piscina-municipal-dos-decadas-espera-demanda-historica-132880175)<br>
+13:09 [Zaragoza, elegida como sede de la nueva Agencia Estatal de Salud Pública](https://www.elperiodico.com/es/sanidad/20260728/zaragoza-elegida-sede-nueva-agencia-132881780)<br>
+12:49 [Los tribunales revisarán la adjudicación de puestos en el extranjero a los diplomáticos españoles de 2026](https://www.elperiodico.com/es/internacional/20260728/tribunal-de-justicia-de-madrid-bombo-diplomatico-denuncia-ade-132881393)<br>
+12:40 [¿Más sofocos en verano? Así afecta el calor al sistema que regula la temperatura corporal](https://www.elperiodico.com/es/salud/20260728/sofocos-verano-afecta-calor-temperatura-corporal-132880897)<br>
+12:14 [Un estudio identifica el 'escudo' que utiliza un cáncer de hígado muy agresivo para resistir la quimioterapia](https://www.elperiodico.com/es/sanidad/20260728/estudio-identifica-escudo-utiliza-cancer-higado-agresivo-quimioterapia-132878821)<br>
+12:14 [Así se vivió desde dentro el incendio de la línea 1 del metro entre las estaciones del Clot y Glòries](https://www.elperiodico.com/es/barcelona/20260728/asi-vivio-incendio-linea-1-metro-barcelona-afectados-clot-glories-132875789)<br>
+12:03 [Un ensayo clínico permite a pacientes con un tipo de cáncer de la sangre vivir sin medicación aporta resultados esperanzadores](https://www.elperiodico.com/es/videos/sociedad/ensayo-clinico-permite-pacientes-tipo-video/132879186.shtml)<br>
 12:00 [El mayor estudio genético sobre fibromialgia desvela el origen neurológico de la enfermedad y abre nuevas esperanzas de tratamiento](https://www.elperiodico.com/es/sociedad/20260728/estudio-genetico-fibromialgia-origen-neurologico-enfermedad-132877315)<br>
 11:56 [Nestlé lanza 21 ofertas de empleo en España: estos son los perfiles que busca la compañía](https://www.elperiodico.com/es/economia/20260728/nestle-puestos-trabajo-espana-barcelona-girona-dv-loc-132874926)<br>
 11:49 [¿Qué es el shovelware? Así funcionan los juegos fabricados en serie para vender rápido](https://www.elperiodico.com/es/videojuegos/20260728/shovelware-funcionan-juegos-fabricados-serie-132878353)<br>
@@ -38,6 +63,7 @@ Previous day: [2026-07-27](./data/2026-07-27.md)
 06:00 [Argis cuelga el cartel de 'se vende' a los mil pisos destinados al alquiler que compró a Acciona](https://www.elperiodico.com/es/economia/20260728/argis-cuelga-cartel-vende-mil-132767301)<br>
 06:00 [Argis cuelga el cartel de 'se vende' a los mil pisos destinados al alquiler que compró a Acciona](https://www.elperiodico.com/es/economia/20260728/argis-vende-vivienda-acciona-alquiler-132767301)<br>
 05:45 [Incendios forestales en Catalunya y resto de España, en directo: última hora de los fuegos activos en Madrid, Ávila, Toledo y Vall d'Uixó](https://www.elperiodico.com/es/sociedad/20260728/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+04:55 [Nacen los Premios a la Transformación Social Prensa Ibérica-Fundación 'la Caixa'](https://www.elperiodico.com/es/sociedad/nacen-premios-transformacion-social-prensa-132868486-rm/index.html)<br>
 04:50 [El difícil camino de Laura para ser madre: "Al principio cuesta asumir que necesias ayuda"](https://www.elperiodico.com/es/salud/20260728/dificil-camino-laura-ser-madre-fecundacion-in-vitro-132868462)<br>
 00:08 [Las exmonjas de Belorado comparecen en los juzgados de Burgos](https://www.elperiodico.com/es/videos/sociedad/exmonjas-belorado-comparecen-juzgados-burgos/132867925.shtml)<br>
 00:05 [Actuación de los bomberos en el incendio de la Vall d'Uixó este lunes](https://www.elperiodico.com/es/videos/sociedad/actuacion-bomberos-incendio-vall-duixo/132867876.shtml)<br>
