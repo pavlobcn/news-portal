@@ -1,12 +1,27 @@
-# News for 2026-07-28 09:20
+# News for 2026-07-28 12:03
 
 Previous day: [2026-07-27](./data/2026-07-27.md)
 
 ## ua.korrespondent.net
+11:38 [Apple повернула статус найдорожчої компанії, обійшовши Nvidia](https://ua.korrespondent.net/business/companies/4897864-Apple-povernula-status-naidorozhchoi-kompanii-obiishovshy-Nvidia)<br>
+11:19 [Затоплення Golden Leo: Україна почала екологічний моніторинг Чорного моря](https://ua.korrespondent.net/ukraine/4897854-zatoplennia-Golden-Leo-ukraina-pochala-ekolohichnyi-monitorynh-chornoho-moria)<br>
+10:59 [В обмінниках триває зниження курсу гривні](https://ua.korrespondent.net/business/financial/4897845-v-obminnykakh-tryvaie-znyzhennia-kursu-hryvni)<br>
+10:37 [У Японії стався сильний землетрус, є загроза цунамі](https://ua.korrespondent.net/world/4897835-u-yaponii-stavsia-sylnyi-zemletrus-ye-zahroza-tsunami)<br>
 09:06 [У Чернівецької області озброєний чоловік поранив двох поліцейських](https://ua.korrespondent.net/ukraine/4897802-u-chernivetskoi-oblasti-ozbroienyi-cholovik-poranyv-dvokh-politseiskykh)<br>
 08:46 [В Одесі вибухнув автомобіль: є потерпілий](https://ua.korrespondent.net/city/odessa/4897796-v-odesi-vybukhnuv-avtomobil-ye-poterpilyi)<br>
 
+## as.com
+11:35 [“Nos faltan dos fichajes para cerrar el equipo”](https://as.com/baloncesto/nos-faltan-dos-fichajes-para-cerrar-el-equipo-f202607-n/)<br>
+10:44 [Leyma Coruña: un proyecto con vocación de quedarse en Liga Endesa](https://as.com/baloncesto/acb/leyma-coruna-un-proyecto-con-vocacion-de-quedarse-en-liga-endesa-f202607-n/)<br>
+
 ## www.elperiodico.com
+12:00 [El mayor estudio genético sobre fibromialgia desvela el origen neurológico de la enfermedad y abre nuevas esperanzas de tratamiento](https://www.elperiodico.com/es/sociedad/20260728/estudio-genetico-fibromialgia-origen-neurologico-enfermedad-132877315)<br>
+11:56 [Nestlé lanza 21 ofertas de empleo en España: estos son los perfiles que busca la compañía](https://www.elperiodico.com/es/economia/20260728/nestle-puestos-trabajo-espana-barcelona-girona-dv-loc-132874926)<br>
+11:49 [¿Qué es el shovelware? Así funcionan los juegos fabricados en serie para vender rápido](https://www.elperiodico.com/es/videojuegos/20260728/shovelware-funcionan-juegos-fabricados-serie-132878353)<br>
+11:19 [Más de 400 efectivos trabajan toda la noche para contener el fuego del pantano de San Juan, uno de los focos mas activos](https://www.elperiodico.com/es/videos/sociedad/400-efectivos-contener-fuego-pantano-san-juan/132877355.shtml)<br>
+11:01 [Así se vivió el incendio en el interior de un tren de la L1 del Metro de Barcelona](https://www.elperiodico.com/es/videos/sucesos/vivio-incendio-interior-tren-l1/132875336.shtml)<br>
+10:24 [Un ensayo clínico permite a pacientes con un tipo de cáncer de la sangre vivir sin medicación: "Aporta resultados esperanzadores"](https://www.elperiodico.com/es/sanidad/20260728/ensayo-clinico-permite-pacientes-cancer-sangre-vivir-sin-medicacion-resultados-esperanzadores-leucemia-132873459)<br>
+09:24 [Incendios hoy, 28 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260728/incendios-hoy-28-julio-cataluna-espana-mapa-fuegos-activos-dv-132872562)<br>
 09:01 [Juana Rivas irá a tribunales internacionales tras perder el último recurso por la custodia](https://www.elperiodico.com/es/politica/20260728/juana-rivas-ira-tribunales-internacionales-132872015)<br>
 08:53 [El consejo de los expertos en aire acondicionado: "El agua destilada del aparato es una alternativa para usos concretos en el jardín o el hogar"](https://www.elperiodico.com/es/videos/sociedad/consejo-expertos-aire-acondicionado-agua/132871910.shtml)<br>
 08:34 [Muere apuñalado un hombre en el barrio de la Florida de L'Hospitalet](https://www.elperiodico.com/es/videos/sucesos/muere-apunalado-hombre-barrio-florida/132871650.shtml)<br>
