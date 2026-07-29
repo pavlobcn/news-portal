@@ -1,5 +1,140 @@
 [
   {
+    "title": "Українські дрони вразили понад 15% складів Wildberries - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4898390-ukrainski-drony-vrazyly-ponad-15-skladiv-Wildberries-zmi",
+    "pubDate": "2026-07-29 20:25:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512584.jpg\">Найбільшою втратою для компанії став склад у підмосковній Електросталі - там після атаки 18 липня згоріло приміщення площею 250 тисяч м².",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los centros afirman que Educació no concretó el tope del 5% de exención de las pruebas PISA en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/centros-afirman-educacio-les-traslado-tope-exencion-pruebas-pisa-cataluna-132922336",
+    "pubDate": "2026-07-29 20:24:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Los centros seleccionados para formar parte de la muestra explican que sí recibieron los criterios para descartar alumnos, pero no una cifra máxima de excluidos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260729/junts-comision-investigacion-parlament-pruebas-pisa-educacion-cataluna-132925778\">Junts pide una comisión de investigación en el Parlament por la polémica de las pruebas PISA</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260725/resultados-pisa-catalunya-seran-validos-fiasco-claves-incidencia-ocde-132798359\">¿Por qué los resultados de PISA 2025 en Catalunya no serán válidos? ¿Quién es el responsable? Preguntas y respuestas del fiasco</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Deco asume el control del Barcelona Atlètic",
+    "link": "https://www.elperiodico.com/es/deportes/20260729/deco-asume-control-barcelona-atletic-132934327",
+    "pubDate": "2026-07-29 20:16:05",
+    "category": "",
+    "description": "<h2>El Barça pacta otro amistoso para el primer equipo, que se jugará el 15 de agosto en Tánger (Marruecos)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El incendio de los Arribes del Duero llega a Fermoselle y obliga a evacuar siete otras localidades",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-arribes-duero-llega-fermoselle/132934522.shtml",
+    "pubDate": "2026-07-29 20:13:21",
+    "category": "",
+    "description": "El operativo trata de controlar las llamas que avanzan a gran velocidad hacia el casco urbano, favorecidas por el viento.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las agendas divergentes de Trump y Netanyahu",
+    "link": "https://www.elperiodico.com/es/opinion/20260729/agendas-divergentes-trump-netanyahu-editorial-132934186",
+    "pubDate": "2026-07-29 20:08:13",
+    "category": "",
+    "description": "<h2>Ambos afrontan elecciones en otoño, con visiones cada vez más distintas sobre cómo abordar los conflictos de Oriente Medio</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260728/reunion-trump-netanyahu-guerra-iran-132876964\">Trump y Netanyahu se reúnen por primera vez desde el inicio de la guerra en Irán: \"estamos en un momento crítico\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La futura compañía nacional de danza de Catalunya recoge aplausos (y dudas): \"Debe ser un plus que no tape el poco tejido que tenemos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260729/futura-compania-nacional-danza-recoge-aplausos-dudas-sector-132889993",
+    "pubDate": "2026-07-29 20:05:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Destacados agentes del sector celebran la iniciativa de la Generalitat de tener por primera vez en la historia un conjunto de baile financiado con dinero público en el TNC. A su vez, se muestran expectantes sobre el modelo y por su repercusión en un delicado ecosistema cultural</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260729/david-yudes-ex-bailarin-catalan-royal-ballet-132907286\">David Yudes, único bailarín catalán que ha integrado el Royal Ballet: \"Una compañía nacional es una oportunidad para todos los que aman la danza\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Обміління Дунаю обмежило потужність єдиної угорської АЕС",
+    "link": "https://ua.korrespondent.net/world/4898387-obmilinnia-dunaui-obmezhylo-potuzhnist-yedynoi-uhorskoi-aes",
+    "pubDate": "2026-07-29 20:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512574.jpg\">Фахівці розпочали зупинку реактора №3 на АЕС \"Пакш\" через значне зниження рівня води у Дунаї.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fuego de Fermoselle avanza ya por varias zonas de la provincia de Zamora con virulencia y provocando una gran masa de humo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/fuego-fermoselle-avanza-zonas-provincia/132934244.shtml",
+    "pubDate": "2026-07-29 20:01:20",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Reserva Federal de Warsh congela los tipos en el 3,50-3,75% y mantiene en vilo al mercado ante la amenaza del petróleo",
+    "link": "https://www.elperiodico.com/es/economia/20260729/fed-warsh-congela-tipos-3-132934198",
+    "pubDate": "2026-07-29 20:00:31",
+    "category": "",
+    "description": "<h2>El banco central mantiene los tipos de interés intactos a pesar del repunte de las presiones inflacionistas y sorprende a un mercado dividido hasta el último minuto </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "David Yudes, único bailarín catalán que ha integrado el Royal Ballet: \"Una compañía nacional es una oportunidad para todos los que aman la danza\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260729/david-yudes-ex-bailarin-catalan-royal-ballet-132907286",
+    "pubDate": "2026-07-29 20:00:24",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260729/futura-compania-nacional-danza-recoge-aplausos-dudas-sector-132889993\">La futura compañía nacional de danza de Catalunya recoge aplausos (y dudas): \"Debe ser un plus que no tape el poco tejido que tenemos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Antonio, jubilado con una pensión de 1.000 euros: \"La cuantía que nos pagaban era tan baja que todavía se queda corta\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20260729/antonio-jubilado-pension-comida-dv-126676727",
+    "pubDate": "2026-07-29 20:00:00",
+    "category": "",
+    "description": "<h2>Reconoce que le encantaría viajar, pero que es un \"lujo\" que no se puede permitir</h2><h2><a href=\"https://www.elperiodico.com/es/vivienda/20260209/miguel-angel-jubilado-78-anos-comparto-piso-dv-126620515\" target=\"_blank\">Miguel Ángel, jubilado de 78 años: \"Comparto piso desde hace seis años porque cobro 650 euros al mes\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260207/pensiones-mitad-futuros-jubilados-tendra-dificultades-mantener-nivel-vida-dv-126515521\" target=\"_blank\">Trabajar 40 años y no llegar: la mitad de los futuros jubilados tendrá dificultades para mantener su nivel de vida</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Auge, caída e indulto de Laura Borràs",
+    "link": "https://www.elperiodico.com/es/politica/20260729/auge-caida-indulto-laura-borras-132914353",
+    "pubDate": "2026-07-29 19:59:19",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260729/que-es-indulto-parcial-laura-borras-85377117\">¿Qué es un indulto parcial? Las claves de la medida que libra de la cárcel a Laura Borràs</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las llamas del incendio de Zamora llegan a las puertas de tres pueblos y siguen los desalojos",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-fermoselle-obliga-evacuar-siete/132934140.shtml",
+    "pubDate": "2026-07-29 19:58:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El más listo de 'La Odisea'",
+    "link": "https://www.elperiodico.com/es/opinion/20260729/listo-odisea-cine-articulo-miqui-otero-132933871",
+    "pubDate": "2026-07-29 19:55:01",
+    "category": "",
+    "description": "<h2>Los centinelas del rigor histórico no están en lucha contra la historia, sino a favor de la imagen mental que han generado con charlas de 'youtubers' y pelis de romanos</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260725/odisea-genera-dinero-mansalva-discusiones-132744385\">‘La Odisea’ genera dinero a mansalva y discusiones en las redes por sus diversos formatos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Pedro Sánchez comparece tras su reunión con el rey Felipe VI",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-comparece-reunion-rey-felipe/132933714.shtml",
+    "pubDate": "2026-07-29 19:41:25",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El incendio de Castellón sigue activo y sin control",
     "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-castellon-sigue-activo-control/132933511.shtml",
     "pubDate": "2026-07-29 19:33:22",
@@ -16,6 +151,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Туск розкрив деталі зустрічі із Зеленським",
+    "link": "https://ua.korrespondent.net/world/4898381-tusk-rozkryv-detali-zustrichi-iz-zelenskym",
+    "pubDate": "2026-07-29 19:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512560.jpg\">Володимир Зеленський і Дональд Туск обговорили інвестиції в Україну, співпрацю у сфері ППО та інші питання.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Розкрадання 150 млн Нацгвардії: фігурантам обрали запобіжні заходи",
@@ -52,6 +196,15 @@
     "description": "<h2>Como director general y presidente de 'La Caixa', el ingeniero Vilarasau fue clave en el crecimiento de la entidad y en su poder económico en toda España</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260728/muere-josep-vilarasau-artifice-gran-132883916\">Muere Josep Vilarasau, artífice de la gran Caixa</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Франція депортує ексочільницю RT France за поширення роспропаганди",
+    "link": "https://ua.korrespondent.net/world/4898374-frantsiia-deportuie-eksochilnytsui-RT-France-za-poshyrennia-rospropahandy",
+    "pubDate": "2026-07-29 19:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512558.jpg\">Федорову звинувачують у тому, що вона сприяла проведенню у Франції кампаній з дезінформації, організованих російською владою з метою \"дестабілізації громадського порядку\".",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "El asesino de su mujer en Barcelona la degolló ante uno de sus hijos y una vecina: \"Mi papá mató a mi mamá\"",
@@ -117,6 +270,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Визнання Абхазії та Південної Осетії відкликала ще одна країна",
+    "link": "https://ua.korrespondent.net/world/4898370-vyznannia-abkhazii-ta-pivdennoi-osetii-vidklykala-sche-odna-kraina",
+    "pubDate": "2026-07-29 18:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512550.jpg\">Тихоокеанська держава Науру ухвалила рішення припинити дипломатичні зв’язки з квазіутвореннями.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Держборг ФРН зріс до рекордних 2,66 трлн євро",
+    "link": "https://ua.korrespondent.net/world/4898369-derzhborh-frn-zris-do-rekordnykh-266-trln-yevro",
+    "pubDate": "2026-07-29 18:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512543.jpg\">Порівняно з кінцем 2024 року державний борг Німеччини збільшився на 6%, або на 151,4 млрд євро.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Загроза масованого удару: де є підвищена небезпека",
     "link": "https://ua.korrespondent.net/ukraine/4898365-zahroza-masovanoho-udaru-de-ye-pidvyschena-nebezpeka",
     "pubDate": "2026-07-29 18:42:00",
@@ -151,6 +322,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Україна та Польща поновили переговори щодо МіГ-29",
+    "link": "https://ua.korrespondent.net/world/4898363-ukraina-ta-polscha-ponovyly-perehovory-schodo-mih-29",
+    "pubDate": "2026-07-29 18:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512540.jpg\">Київ підтвердив зацікавленість у форматі \"МіГ-29 за дрони\", однак Варшава очікує конкретних пропозицій.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Un incendio en Canyelles obliga a confinar a unas 3.300 personas",
