@@ -1,4 +1,4 @@
-# News for 2026-07-29 18:13
+# News for 2026-07-29 18:56
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
@@ -66,6 +66,11 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 08:01 [La marcha de Hezonja a la NBA, paralizada](https://as.com/baloncesto/acb/la-marcha-de-hezonja-a-la-nba-paralizada-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:37 [INTERACTIVO | Los carteles más curiosos y extraños de las fiestas de la Mercè de Barcelona](https://www.elperiodico.com/es/barcelona/20260729/carteles-mas-curiosos-extranos-fiestas-de-la-merce-barcelona-132768380)<br>
+18:35 [Los empleados de la Sagrada Família protestan frente al templo por las insalubres condiciones de trabajo](https://www.elperiodico.com/es/barcelona/eixample/20260729/empleados-sagrada-familia-protestan-frente-132931327)<br>
+18:26 [España ya supera las 207.000 hectáreas quemadas por los incendios](https://www.elperiodico.com/es/videos/sucesos/espana-supera-207-000-hectareas/132931006.shtml)<br>
+18:25 [Un incendio en Canyelles obliga a confinar a unas 3.300 personas](https://www.elperiodico.com/es/sociedad/20260729/incendio-canyelles-obliga-confinar-fuego-bomberos-vecinos-132930984)<br>
+18:18 [Los hechos delictivos se reducen un 2,7% en la ciudad de Tarragona en el último año](https://www.elperiodico.com/es/tarragona/20260729/hechos-delictivos-reducen-tarragona-ciudad-criminalidad-132929637)<br>
 18:12 [El drama del calor para los sinhogar de Barcelona: "Ya llevamos 10 quemados graves en Santa Anna este verano"](https://www.elperiodico.com/es/barcelona/20260729/drama-calor-sinhogar-barcelona-llevamos-10-quemados-graves-hospital-santa-anna-132928974)<br>
 18:08 [La mitología y los escenarios oníricos de Modest Cuixart protagonizan la exposición del Thyssen de Sant Feliu de Guíxols](https://www.elperiodico.com/es/ocio-y-cultura/20260729/mitologia-escenarios-oniricos-modest-cuixart-132929850)<br>
 18:07 [Detenido en A Coruña un joven acusado de matar a su padre con un arma de fuego](https://www.elperiodico.com/es/sucesos/20260729/detenido-coruna-joven-acusado-matar-padre-arma-fuego-132930465)<br>
