@@ -1,5 +1,203 @@
 [
   {
+    "title": "El Circuit Festival LGTBIQ+ llena Barcelona este fin de semana con su edición más ambiciosa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260729/circuit-festival-gay-lgtbiq-barcelona-edicion-mas-ambiciosa-artistas-fiestas-131946358",
+    "pubDate": "2026-07-29 06:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Amplia su programa musical y artístico e incorpora escenarios nocturnos como la sala Luz de Gas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20250804/festival-circuit-2025-convierte-barcelona-meca-gay-amplia-escenarios-120330150\">El festival Circuit 2025 convierte de nuevo a Barcelona en meca gay: este año desde Vilassar a Molins de Rei</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20240807/manolo-soria-festival-circuit-consell-de-cent-rambla-lgtbi-106660067\">Manolo Soria, creador del festival Circuit de Barcelona: \"Consell de Cent va a ser la rambla LGTBI+\"</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "CaixaBank gana 3.203 millones hasta junio, un 8,5% más, pese al aumento de las provisiones",
+    "link": "https://www.elperiodico.com/es/economia/20260729/caixabank-gana-3-203-millones-132905719",
+    "pubDate": "2026-07-29 06:26:58",
+    "category": "",
+    "description": "<h2>El crecimiento del crédito y el impulso de la gestión patrimonial y los seguros de protección impulsan los resultados de CaixaBank</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué LeBron James renuncia a 50 millones de dólares al año?",
+    "link": "https://www.elperiodico.com/es/deportes/20260729/lebron-james-renuncia-50-millones-132903708",
+    "pubDate": "2026-07-29 06:24:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Todo el mundo creía que LeBron James haría el último baile con Miami Heat, Cleveland Calaviers o Golden State Warrios y se ha ido a Philadelphia para jugar con los 76ers, rebajándose la ficha en un 93%. No quiere (más) dinero, persigue su cuarto anillo. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оприлюднив дані про втрати РФ на 29 липня",
+    "link": "https://ua.korrespondent.net/ukraine/4898113-henshtab-opryluidnyv-dani-pro-vtraty-rf-na-29-lypnia",
+    "pubDate": "2026-07-29 06:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512171.jpg\">Минулої доби ЗСУ ліквідували 1310 окупантів. Знищено танк, шість бронемашин, 60 артсистем, 3 РСЗВ, 9 НРК і 1468 дронів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ebrima Tunkara, el último talento precoz de la Masia que Flick se ha llevado de pretemporada: \"Su potencial es enorme\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260729/ebrima-tunkara-ultimo-talento-precoz-la-masia-132895227",
+    "pubDate": "2026-07-29 06:15:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Nacido en Gambia, es el jugador más joven, con apenas 16 años, que Flick se ha llevado de pretemporada. Un futbolista de zurda exquísita y físico privilegiado cuya historia tiene cierto parecido a la de Lamine Yamal</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La hostelería gerundense reclama recuperar los peajes con barreras en la AP-7",
+    "link": "https://www.elperiodico.com/es/economia/20260729/hosteleria-gerundense-reclama-recuperar-peajes-132903496",
+    "pubDate": "2026-07-29 06:01:05",
+    "category": "",
+    "description": "<h2>La patronal rechaza el modelo de viñeta avalado por el Parlament y propone un carril exclusivo para camiones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los retos del alquiler en cuatro grandes capitales de Europa",
+    "link": "https://www.elperiodico.com/es/internacional/20260729/retos-alquiler-cuatro-grandes-capitales-132786022",
+    "pubDate": "2026-07-29 06:01:02",
+    "category": "",
+    "description": "<h2>París, Roma, Berlín y Londres afrontan la escasez de viviendas, el aumento de precios y la presión turística, generando dificultades para los inquilinos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cupra exporta su comunidad de corredores 'made in Barcelona' a siete ciudades",
+    "link": "https://www.elperiodico.com/es/deportes/20260729/cupra-exporta-comunidad-corredores-made-barcelona-132884258",
+    "pubDate": "2026-07-29 06:01:02",
+    "category": "",
+    "description": "<h2>La iniciativa, que en su última cita antes del parón veraniego llegó a reunir a un millar de corredores que disfrutaron también de un espectacular 'after run' en<strong> Beso Pedralbes</strong>, ha dado el salto a Madrid, Manchester, París, Múnich, Viena, Estambul y Sídney</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Barcelona metropolitana acelera en energía renovable: tendrá su primer parque eólico y más placas solares en aparcamientos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/barcelona-metropolitana-acelera-energia-renovable-primer-parque-eolico-placas-solares-aparcamientos-132821981",
+    "pubDate": "2026-07-29 06:01:01",
+    "category": "",
+    "description": "<h2>El AMB ultima su hoja de ruta para reducir la dependencia de combustibles fósiles en los 36 municipios de su perímetro antes del 2035</h2><h2>El plan se focaliza en aprovechar al máximo los espacios públicos disponibles e impulsar también la generación de biogás</h2><h2>DATOS | <a href=\"https://www.elperiodico.com/es/sociedad/20260728/energia-fotovoltaica-producida-amb-multiplicado-132896893\" target=\"_blank\">La energía fotovoltaica producida por el AMB se ha multiplicado por diez en los últimos cinco años</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20251106/parque-eolico-molinos-area-metropolitana-papiol-begues-corbera-cataluna-113611161\" target=\"_blank\">Catalunya probará si municipios como El Papiol, Begues y Corbera pueden acoger un mini parque eólico</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los desalojados del Putxet fichan a la abogada del socavón del Carmel y piden técnicos independientes",
+    "link": "https://www.elperiodico.com/es/barcelona/20260729/vecinos-afectados-socavon-putxet-abogada-carmel-reclamacion-conjunta-132849649",
+    "pubDate": "2026-07-29 06:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de la mitad de vecinos ya se han unido a una plataforma de afectados para negociar juntos cuándo, cómo y con qué indemnizaciones vuelven a sus viviendas y comercios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260724/geologos-remarcan-complejidad-terrenos-putxet-socavones-montcada-132740709\" target=\"_blank\">Dos socavones en dos semanas: los geólogos explican qué está pasando en el subsuelo de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La energía fotovoltaica producida por el AMB se ha multiplicado por diez en los últimos cinco años",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/energia-fotovoltaica-producida-amb-multiplicado-diez-ultimos-cinco-anos-132896893",
+    "pubDate": "2026-07-29 06:01:00",
+    "category": "",
+    "description": "<h2>La administración quiere dar un salto de escala en 2027 tras explorar la fórmula de las placas solares en tejados públicos</h2><h2>RENOVABLES | <a href=\"https://www.elperiodico.com/es/sociedad/20260728/barcelona-metropolitana-acelera-energia-renovable-primer-parque-eolico-placas-solares-aparcamientos-132821981\" target=\"_blank\">La Barcelona metropolitana acelera en energía renovable: primer parque eólico y placas solares en aparcamientos</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20251106/parque-eolico-molinos-area-metropolitana-papiol-begues-corbera-cataluna-113611161\" target=\"_blank\">Catalunya probará si municipios como El Papiol, Begues y Corbera pueden acoger un mini parque eólico</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El cierre del curso político confirma la total incomunicación entre Sánchez y Feijóo",
+    "link": "https://www.elperiodico.com/es/politica/20260729/cierre-curso-politico-confirma-total-132901005",
+    "pubDate": "2026-07-29 06:01:00",
+    "category": "",
+    "description": "<h2>La desconfianza mutua entre Pedro Sánchez y Alberto Núñez Feijóo, agravada por episodios recientes, dificulta el entendimiento político y la superación de la ausencia de encuentros bilaterales</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260727/incendios-pacto-estado-coincidencias-gobierno-pp-132847425\" target=\"_blank\">Ni Sánchez tiene intención de convocar al presidente del PP ni Feijóo de comunicarse con el jefe del Ejecutivo pese a que ambos claman por un pacto de Estado ante la oleada de incendios</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno se deja importantes asignaturas para septiembre: vivienda o financiación autonómica",
+    "link": "https://www.elperiodico.com/es/politica/20260729/gobierno-deja-importantes-asignaturas-septiembre-vivienda-financiacion-autonomica-132898272",
+    "pubDate": "2026-07-29 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ejecutivo pospone la financiación autonómica y el decreto de vivienda ante el rechazo de la mayoría de las CCAA y la falta de apoyos parlamentarios</h2><h2 class=\"item\">La fecha de la presentación de los Presupuestos también será clave para determinar la duración de la legislatura</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "España se adentra en una nueva ola de calor que arranca este miércoles y dejará máximas por encima de los 40",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/espana-ola-calor-prevision-aemet-132891043",
+    "pubDate": "2026-07-29 06:00:47",
+    "category": "",
+    "description": "<h2 class=\"item\">El episodio dejará máximas por encima de 42 grados en buena parte del interior peninsular y creará condiciones adversas para la extinción de incendios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/espana-cuarta-ola-calor-prevision-aemet-132843576\">España entrará en una nueva ola de calor a partir del miércoles, la cuarta desde que empezó el verano, y elevará aún más su riesgo de incendios</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La vivienda social en España: Ítaca existe",
+    "link": "https://www.elperiodico.com/es/opinion/20260729/vivienda-social-espana-itaca-existe-articulo-jose-maria-raya-132896388",
+    "pubDate": "2026-07-29 06:00:46",
+    "category": "",
+    "description": "<h2>En España existen fundaciones, asociaciones, cooperativas o entidades del tercer sector que trabajan con vivienda, pero no una figura específica equivalente a las 'housing associations' europeas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "PSC, Junts, ERC, Comuns y la CUP cierran una reforma del reglamento del Parlament para blindar las sanciones por discursos de odio",
+    "link": "https://www.elperiodico.com/es/politica/20260729/reforma-reglamento-parlament-sanciones-discursos-odio-psc-junts-erc-comuns-cup-132892578",
+    "pubDate": "2026-07-29 06:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El texto, que será registrado este miércoles ante la Cámara, llega un día después de que <a href=\"https://www.elperiodico.com/es/politica/20260728/parlament-sancion-silvia-orriols-joan-garriga-reforma-reglamento-condigo-conducta-132882432\">la Mesa sancionara con una advertencia pública a Sílvia Orriols y a Joan Garriga por su conducta en el pleno</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El reto del alquiler público: España solo tiene un 1,72% de vivienda pública en alquiler, frente al 8% de media en Europa",
+    "link": "https://www.elperiodico.com/es/economia/20260729/reto-alquiler-publico-espana-1-132779703",
+    "pubDate": "2026-07-29 06:00:34",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El reto del alquiler público: España solo tiene un 1,72% de vivienda pública en alquiler, frente al 8% de media en Europa",
+    "link": "https://www.elperiodico.com/es/economia/vivienda-social-alquiler-publico-europa-espana-132698286-rm/index.html",
+    "pubDate": "2026-07-29 06:00:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Warsh rompe el guión de la Fed y deja al mercado ante una posible subida sorpresa",
+    "link": "https://www.elperiodico.com/es/economia/20260729/warsh-rompe-guion-fed-deja-132904959",
+    "pubDate": "2026-07-29 06:00:33",
+    "category": "",
+    "description": "<h2>La incertidumbre sobre la futura política de comunicación de la Fed aumenta la inseguridad de los mercados ante el encarecimiento del precio del petróleo </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Àurea Muñoz transforma su ansiedad en una novela gráfica: \"Tienes un miedo irracional a que te juzguen constantemente\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260729/aurea-munoz-transforma-ansiedad-novela-132298837",
+    "pubDate": "2026-07-29 06:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">\"La idea de sociedad que hemos creado contempla una sola manera de ser y hacer\"</h2><h2 class=\"item\">\"Es importante decir 'yo soy así y que cada cual sea como tenga que ser', pero es complicado\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué coches pueden conseguir los 4.500 euros del Plan Auto+?",
+    "link": "https://www.elperiodico.com/es/motor/20260729/coches-consiguen-4500-euros-plan-auto-132838486",
+    "pubDate": "2026-07-29 06:00:28",
+    "category": "",
+    "description": "<h2>Los criterios que establecen a qué vehículos se les otorgan las ayudas ponen el foco en los eléctricos y los modelos más económicos.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 28.07: Зеленський у США і загроза Ірану",
+    "link": "https://ua.korrespondent.net/ukraine/4898004-pidsumky-2807-zelenskyi-u-ssha-i-zahroza-iranu",
+    "pubDate": "2026-07-29 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512167.jpg\">Іран готує ракетний удар по Україні. Очільники МЗС провели переговори; Зеленський зустрівся з Трампом. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Directo guerra Ucrania - Rusia, última hora",
     "link": "https://www.elperiodico.com/es/internacional/20260729/directo-guerra-ucrania-rusia-ultima-126605559",
     "pubDate": "2026-07-29 05:40:00",

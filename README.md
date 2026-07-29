@@ -1,8 +1,9 @@
-# News for 2026-07-29 05:46
+# News for 2026-07-29 06:36
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
 ## ua.korrespondent.net
+06:19 [Генштаб оприлюднив дані про втрати РФ на 29 липня](https://ua.korrespondent.net/ukraine/4898113-henshtab-opryluidnyv-dani-pro-vtraty-rf-na-29-lypnia)<br>
 04:55 [У Рязані горять склад WB і НПЗ - соцмережі](https://ua.korrespondent.net/world/russia/4898108-u-riazani-horiat-sklad-WB-i-npz-sotsmerezhi)<br>
 03:24 [Росіяни атакували дві АЗС на Сумщині](https://ua.korrespondent.net/ukraine/4898102-rosiiany-atakuvaly-dvi-azs-na-sumschyni)<br>
 01:22 [На Одещині дитину на надувному матраці віднесло у море](https://ua.korrespondent.net/ukraine/4898094-na-odeschyni-dytynu-na-naduvnomu-matratsi-vidneslo-u-more)<br>
@@ -10,6 +11,20 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 00:25 [Землетрус у Японії: десятки осіб зникли безвісти](https://ua.korrespondent.net/world/4898090-zemletrus-u-yaponii-desiatky-osib-znykly-bezvisty)<br>
 
 ## www.elperiodico.com
+06:26 [CaixaBank gana 3.203 millones hasta junio, un 8,5% más, pese al aumento de las provisiones](https://www.elperiodico.com/es/economia/20260729/caixabank-gana-3-203-millones-132905719)<br>
+06:24 [¿Por qué LeBron James renuncia a 50 millones de dólares al año?](https://www.elperiodico.com/es/deportes/20260729/lebron-james-renuncia-50-millones-132903708)<br>
+06:01 [La hostelería gerundense reclama recuperar los peajes con barreras en la AP-7](https://www.elperiodico.com/es/economia/20260729/hosteleria-gerundense-reclama-recuperar-peajes-132903496)<br>
+06:01 [Los retos del alquiler en cuatro grandes capitales de Europa](https://www.elperiodico.com/es/internacional/20260729/retos-alquiler-cuatro-grandes-capitales-132786022)<br>
+06:01 [Cupra exporta su comunidad de corredores 'made in Barcelona' a siete ciudades](https://www.elperiodico.com/es/deportes/20260729/cupra-exporta-comunidad-corredores-made-barcelona-132884258)<br>
+06:01 [La Barcelona metropolitana acelera en energía renovable: tendrá su primer parque eólico y más placas solares en aparcamientos](https://www.elperiodico.com/es/sociedad/20260729/barcelona-metropolitana-acelera-energia-renovable-primer-parque-eolico-placas-solares-aparcamientos-132821981)<br>
+06:01 [Los desalojados del Putxet fichan a la abogada del socavón del Carmel y piden técnicos independientes](https://www.elperiodico.com/es/barcelona/20260729/vecinos-afectados-socavon-putxet-abogada-carmel-reclamacion-conjunta-132849649)<br>
+06:01 [La energía fotovoltaica producida por el AMB se ha multiplicado por diez en los últimos cinco años](https://www.elperiodico.com/es/sociedad/20260729/energia-fotovoltaica-producida-amb-multiplicado-diez-ultimos-cinco-anos-132896893)<br>
+06:00 [España se adentra en una nueva ola de calor que arranca este miércoles y dejará máximas por encima de los 40](https://www.elperiodico.com/es/sociedad/20260729/espana-ola-calor-prevision-aemet-132891043)<br>
+06:00 [La vivienda social en España: Ítaca existe](https://www.elperiodico.com/es/opinion/20260729/vivienda-social-espana-itaca-existe-articulo-jose-maria-raya-132896388)<br>
+06:00 [El reto del alquiler público: España solo tiene un 1,72% de vivienda pública en alquiler, frente al 8% de media en Europa](https://www.elperiodico.com/es/economia/20260729/reto-alquiler-publico-espana-1-132779703)<br>
+06:00 [El reto del alquiler público: España solo tiene un 1,72% de vivienda pública en alquiler, frente al 8% de media en Europa](https://www.elperiodico.com/es/economia/vivienda-social-alquiler-publico-europa-espana-132698286-rm/index.html)<br>
+06:00 [Warsh rompe el guión de la Fed y deja al mercado ante una posible subida sorpresa](https://www.elperiodico.com/es/economia/20260729/warsh-rompe-guion-fed-deja-132904959)<br>
+06:00 [Àurea Muñoz transforma su ansiedad en una novela gráfica: "Tienes un miedo irracional a que te juzguen constantemente"](https://www.elperiodico.com/es/ser-feliz/20260729/aurea-munoz-transforma-ansiedad-novela-132298837)<br>
 05:40 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260729/directo-guerra-ucrania-rusia-ultima-126605559)<br>
 05:40 [Guerra de Irán, en directo | Última hora](https://www.elperiodico.com/es/internacional/20260729/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
 05:37 [Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas](https://www.elperiodico.com/es/sociedad/20260729/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
