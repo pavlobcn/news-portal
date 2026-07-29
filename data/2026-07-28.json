@@ -270,6 +270,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-07-28 21:19:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "6 consejos para conducir con seguridad y proteger el vehículo durante la Operación Salida",
     "link": "https://www.elperiodico.com/es/motor/20260728/6-consejos-conducir-seguridad-proteger-vehiculo-operacion-salida-132896051",
     "pubDate": "2026-07-28 21:15:46",
@@ -837,6 +846,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-28 17:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Fenerbahçe, un gigante que no deja de crecer",
     "link": "https://as.com/baloncesto/euroliga/fenerbahce-un-gigante-que-no-deja-de-crecer-f202607-n/",
     "pubDate": "2026-07-28 17:32:22",
@@ -1024,6 +1042,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4511971.jpg\">Лідер захисту підтверджує вірність клубу: Йошко Гвардіол поставив підпис під новим контрактом із Манчестер Сіті.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-28 16:56:45",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Dumfries: “Estoy muy orgulloso de ser parte del Real Madrid”",
