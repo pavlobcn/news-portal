@@ -1,8 +1,9 @@
-# News for 2026-07-29 09:29
+# News for 2026-07-29 11:23
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
 ## ua.korrespondent.net
+11:17 [Іспанія побачила "світло в кінці тунелю" у боротьбі з пожежами](https://ua.korrespondent.net/world/4898196-ispaniia-pobachyla-svitlo-v-kintsi-tunelui-u-borotbi-z-pozhezhamy)<br>
 09:23 [Сильний землетрус в Японії: загинули 13 людей](https://ua.korrespondent.net/world/4898148-sylnyi-zemletrus-v-yaponii-zahynuly-13-luidei)<br>
 09:21 [Укренерго назвало вісім областей з відключеннями](https://ua.korrespondent.net/ukraine/4898147-ukrenerho-nazvalo-visim-oblastei-z-vidkluichenniamy)<br>
 09:11 [У Херсоні дрон РФ влучив у хлібовоз: водій загинув на місці](https://ua.korrespondent.net/ukraine/4898143-u-khersoni-dron-rf-vluchyv-u-khlibovoz-vodii-zahynuv-na-mistsi)<br>
@@ -18,9 +19,21 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 00:25 [Землетрус у Японії: десятки осіб зникли безвісти](https://ua.korrespondent.net/world/4898090-zemletrus-u-yaponii-desiatky-osib-znykly-bezvisty)<br>
 
 ## as.com
+10:07 [El Madrid inicia la Euroliga ante el Dubái de Musa](https://as.com/baloncesto/euroliga/el-madrid-inicia-la-euroliga-ante-el-dubai-de-musa-f202607-n/)<br>
 08:01 [La marcha de Hezonja a la NBA, paralizada](https://as.com/baloncesto/acb/la-marcha-de-hezonja-a-la-nba-paralizada-f202607-n/)<br>
 
 ## www.elperiodico.com
+11:14 [Las mafias de prostitución en Catalunya usan cada vez más las redes para captar víctimas y las explotan en viviendas](https://www.elperiodico.com/es/sucesos/20260729/mafias-prostitucion-catalunya-vez-redes-explotacion-mujeres-trata-pisos-particulares-132896759)<br>
+11:12 [La mitad de la población tendrá miopía en 2050: ya es la principal causa de pérdida de visión irreversible en edad laboral](https://www.elperiodico.com/es/sanidad/20260729/mitad-poblacion-tendra-miopia-principal-causa-perdida-vision-edad-laboral-132890920)<br>
+11:03 [Pollen Street culmina la compra de Hipoges y crea un gigante de la gestión de activos en el sur de Europa](https://www.elperiodico.com/es/economia/20260729/pollen-street-culmina-compra-hipoges-gigante-gestion-activos-sur-europa-132912294)<br>
+11:03 [Una cámara capta el momento exacto del terremoto en Japón](https://www.elperiodico.com/es/videos/internacional/camara-capta-momento-exacto-terremoto-japon/132912260.shtml)<br>
+11:00 [Los mejores municipios de España para vivir después de la jubilación: la lista definitiva](https://www.elperiodico.com/es/vivienda/20260729/mejores-municipios-espana-jubilacion-idealista-dv-131229442)<br>
+10:56 [Tres plataformas de criptomonedas cierran en plena era MiCA: qué pasa ahora con los fondos de sus clientes](https://www.elperiodico.com/es/economia/20260729/tres-plataformas-criptomonedas-cierran-mica-dv-132910931)<br>
+10:50 [Barcelona abre un refugio diurno contra el calor para 75 sinhogar del 1 de agosto al 14 de septiembre](https://www.elperiodico.com/es/barcelona/20260729/barcelona-abre-refugio-diurno-calor-sinhogar-132911492)<br>
+10:47 ["Es un día muy especial": abre la piscina que 19.000 habitantes del área de Barcelona llevaban 20 años esperando](https://www.elperiodico.com/es/barcelona/20260729/dia-muy-especial-abre-piscina-19000-habitantes-area-barcelona-llevaban-20-anos-esperando-132911496)<br>
+10:34 [Ni infección de orina ni problema ginecológico: estos son los síntomas que pueden alertar de un cáncer de vejiga](https://www.elperiodico.com/es/salud/20260729/cancer-vejiga-sintomas-infeccion-orina-sangre-132911085)<br>
+10:30 [Kandy García, 91 años, tras haber visitado más de 80 países viajando sola por el mundo: "Yo iba siempre sola con la mochila. Era yo y mi mochila; mi mochila y yo”](https://www.elperiodico.com/es/vida-y-estilo/20260729/90-anos-jubilada-visitado-80-paises-sola-mundo-buena-pension-india-dv-127870328)<br>
+09:31 [Japón busca contra reloj a atrapados bajo los escombros tras el fuerte terremoto de 7,1](https://www.elperiodico.com/es/videos/internacional/japon-busca-reloj-atrapados-escombros/132909384.shtml)<br>
 09:27 [El Consejo Audiovisual de Andalucía envía a Fiscalía el vídeo sobre la agresión a una menor en Moguer (Huelva) difundido por TikTok](https://www.elperiodico.com/es/sociedad/20260729/consejo-audiovisual-andalucia-envia-fiscalia-132909464)<br>
 09:25 [La costa de Cádiz, en problemas por un alga invasora: "No se puede estar con la peste y los bichos", se quejan vecinos y turistas](https://www.elperiodico.com/es/sociedad/20260729/costa-cadiz-problemas-alga-invasora-132909239)<br>
 09:15 [Oleada migratoria en Ceuta: rescatan a 39 migrantes cuando trataban de entrar a nado](https://www.elperiodico.com/es/sociedad/20260729/salvamento-maritimo-rescata-39-migrantes-132909063)<br>
