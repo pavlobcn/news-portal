@@ -1,8 +1,13 @@
-# News for 2026-07-29 17:32
+# News for 2026-07-29 18:13
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
 ## ua.korrespondent.net
+17:59 [Офіційний курс долара пішов униз](https://ua.korrespondent.net/business/financial/4898358-ofitsiinyi-kurs-dolara-pishov-unyz)<br>
+17:51 [У Швеції колишній ІТ-консультант війська шпигував на РФ](https://ua.korrespondent.net/world/4898355-u-shvetsii-kolyshnii-it-konsultant-viiska-shpyhuvav-na-rf)<br>
+17:41 [Військовий планував продати 6 тонн вибухівки - ДБР](https://ua.korrespondent.net/ukraine/4898352-viiskovyi-planuvav-prodaty-6-tonn-vybukhivky-dbr)<br>
+17:38 [На південному заході Японії стався потужний землетрус](https://ua.korrespondent.net/world/4898350-na-pivdennomu-zakhodi-yaponii-stavsia-potuzhnyi-zemletrus)<br>
+17:37 [Де в Україні платять найбільше: як зросли середні зарплати](https://ua.korrespondent.net/business/financial/4898348-de-v-ukraini-platiat-naibilshe-yak-zrosly-seredni-zarplaty)<br>
 17:07 [Побиття українців у Вроцлаві: двох підозрюваних арештовано на три місяці](https://ua.korrespondent.net/world/4898338-pobyttia-ukraintsiv-u-vrotslavi-dvokh-pidozruivanykh-areshtovano-na-try-misiatsi)<br>
 16:59 [Російський дрон атакував селище на Харківщині](https://ua.korrespondent.net/ukraine/4898334-rosiiskyi-dron-atakuvav-selysche-na-kharkivschyni)<br>
 16:27 [РФ вдарила по приватному сектору Райгородка](https://ua.korrespondent.net/ukraine/4898324-rf-vdaryla-po-pryvatnomu-sektoru-raihorodka)<br>
@@ -61,6 +66,16 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 08:01 [La marcha de Hezonja a la NBA, paralizada](https://as.com/baloncesto/acb/la-marcha-de-hezonja-a-la-nba-paralizada-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:12 [El drama del calor para los sinhogar de Barcelona: "Ya llevamos 10 quemados graves en Santa Anna este verano"](https://www.elperiodico.com/es/barcelona/20260729/drama-calor-sinhogar-barcelona-llevamos-10-quemados-graves-hospital-santa-anna-132928974)<br>
+18:08 [La mitología y los escenarios oníricos de Modest Cuixart protagonizan la exposición del Thyssen de Sant Feliu de Guíxols](https://www.elperiodico.com/es/ocio-y-cultura/20260729/mitologia-escenarios-oniricos-modest-cuixart-132929850)<br>
+18:07 [Detenido en A Coruña un joven acusado de matar a su padre con un arma de fuego](https://www.elperiodico.com/es/sucesos/20260729/detenido-coruna-joven-acusado-matar-padre-arma-fuego-132930465)<br>
+18:00 [El asesino de su mujer en Barcelona la degolló ante uno de sus hijos y una vecina: "Mi papá mató a mi mamá"](https://www.elperiodico.com/es/sucesos/20260729/asesino-mujer-barcelona-degollo-hijos-crimen-machista-barcelona-132925080)<br>
+18:00 [Víctor Rojas, pastor del cap de Creus con 700 ovejas: "Los incendios se apagan en invierno gestionando el territorio, no en verano"](https://www.elperiodico.com/es/medio-ambiente/20260729/victor-rojas-pastor-cap-creus-incendios-apagan-invierno-territorio-verano-dv-et-132663755)<br>
+17:59 [Ingresado un hombre de 46 años por fiebre hemorrágica de Crimea-Congo](https://www.elperiodico.com/es/sanidad/20260729/ingresado-hombre-anos-fiebre-crimea-congo-castilla-la-mancha-132929110)<br>
+17:55 [Foment del Treball abre su primera oficina en China para tender un "puente aéreo comercial" con Catalunya](https://www.elperiodico.com/es/economia/20260729/foment-treball-abre-primera-oficina-132927062)<br>
+17:52 [El calor y las largas horas de espera provocan las críticas de los figurantes de 'Enredados'](https://www.elperiodico.com/es/ocio-y-cultura/20260729/calor-largas-horas-espera-provocan-132929303)<br>
+17:45 [La falta de lluvias asfixia el paisaje de los Pirineos: "Si la situación no cambia, no podremos alimentar al ganado"](https://www.elperiodico.com/es/sociedad/20260729/sequia-pirineos-asfixia-paisaje-no-alimentar-ganado-132915395)<br>
+17:37 [Vídeo: Así se encuentra el fuego en Artana la tarde del quinto día del incendio forestal de la Vall](https://www.elperiodico.com/es/videos/sociedad/video-encuentran-llamas-artana-tarde/132929083.shtml)<br>
 17:30 [BirdNET Live: la app con IA que identifica sonidos de animales sin Internet](https://www.elperiodico.com/es/tendencias21/20260729/birdnet-live-app-ia-identifica-132928778)<br>
 17:24 [Desoladora imagen de jabalíes salvajes en la zona quemada por los incendios en Ávila y Madrid](https://www.elperiodico.com/es/videos/sociedad/imagen-jabalies-zona-quemada-avila-madrid/132928493.shtml)<br>
 17:15 [Marlaska da por "técnicamente estabilizados" los incendios de Ávila y Madrid tras arrasar más de 70.000 hectáreas](https://www.elperiodico.com/es/videos/politica/marlaska-da-tecnicamente-estabilizados-incendios-avila-madrid/132927938.shtml)<br>
@@ -78,6 +93,7 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 16:21 [Ni Madrid ni Barcelona: la ciudad menos saludable de España está en las Islas Canarias](https://www.elperiodico.com/es/sociedad/20260729/madrid-barcelona-ciudad-saludable-espana-islas-canarias-dv-132925581)<br>
 16:17 [La terapeuta de los Andic estuvo en Collbató dos semanas antes de la caída mortal de Isak Andic](https://www.elperiodico.com/es/videos/sucesos/terapeuta-andic-estuvo-collbato-semanas/132925777.shtml)<br>
 16:09 [Virginia López, abogada: “Es muy cómodo culpar al trabajador enfermo. Mucho más incómodo es preguntarse cuántas bajas podrían haberse evitado”](https://www.elperiodico.com/es/economia/20260729/virginia-lopez-abogada-laboralista-bajas-laborales-dv-132925322)<br>
+16:06 [El incendio de los Arribes del Duero ya está en Fermoselle (Zamora), que está confinado y seis pueblos evacuados](https://www.elperiodico.com/es/sociedad/20260729/incendio-arribes-duero-fermoselle-zamora-132925405)<br>
 16:05 [El viento y el calor extremo complican la lucha contra los megaincendios de Francia](https://www.elperiodico.com/es/sociedad/20260729/francia-ola-calor-incendios-burdeos-calor-viento-132917262)<br>
 16:00 [“No podemos ser una ciudad dormitorio de Barcelona”: el riesgo de que el ‘efecto Cardedeu’ muera de éxito](https://www.elperiodico.com/es/barcelona/20260729/ciudad-dormitorio-barcelona-riesgo-efecto-cardedeu-muera-exito-132890182)<br>
 15:51 [Una máquina contratada por los ganaderos de Ávila que no podía operar por riesgo de incendio, en el origen del mayor fuego de España](https://www.elperiodico.com/es/videos/sociedad/maquina-contratada-ganaderos-avila-podia/132925027.shtml)<br>
