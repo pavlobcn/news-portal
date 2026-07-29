@@ -1,10 +1,12 @@
-# News for 2026-07-29 20:43
+# News for 2026-07-29 21:46
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
 ## ua.korrespondent.net
+21:07 [Росіяни вдарили по Глухову, серед поранених діти](https://ua.korrespondent.net/ukraine/4898399-rosiiany-vdaryly-po-hlukhovu-sered-poranenykh-dity)<br>
 20:25 [Українські дрони вразили понад 15% складів Wildberries - ЗМІ](https://ua.korrespondent.net/world/russia/4898390-ukrainski-drony-vrazyly-ponad-15-skladiv-Wildberries-zmi)<br>
 20:04 [Обміління Дунаю обмежило потужність єдиної угорської АЕС](https://ua.korrespondent.net/world/4898387-obmilinnia-dunaui-obmezhylo-potuzhnist-yedynoi-uhorskoi-aes)<br>
+20:03 [У Києві чоловік, якого доставили до ТЦК, зарізав лікарку ВЛК](https://ua.korrespondent.net/ukraine/4898386-u-kyievi-cholovik-yakoho-dostavyly-do-ttsk-zarizav-likarku-vlk)<br>
 18:51 [Держборг ФРН зріс до рекордних 2,66 трлн євро](https://ua.korrespondent.net/world/4898369-derzhborh-frn-zris-do-rekordnykh-266-trln-yevro)<br>
 18:42 [Загроза масованого удару: де є підвищена небезпека](https://ua.korrespondent.net/ukraine/4898365-zahroza-masovanoho-udaru-de-ye-pidvyschena-nebezpeka)<br>
 17:59 [Офіційний курс долара пішов униз](https://ua.korrespondent.net/business/financial/4898358-ofitsiinyi-kurs-dolara-pishov-unyz)<br>
@@ -70,6 +72,8 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 08:01 [La marcha de Hezonja a la NBA, paralizada](https://as.com/baloncesto/acb/la-marcha-de-hezonja-a-la-nba-paralizada-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:03 [Los incendios de Madrid y Ávila se dan por estabilizados una semana después de su inicio y apenas queda un millar de evacuados](https://www.elperiodico.com/es/sociedad/20260729/incendios-madrid-avila-dan-estabilizados-132935765)<br>
+20:55 [Noche decisiva en el incendio de la Vall d’Uixó (Castellón) con 400 efectivos trabajando para intentar lograr la estabilización del fuego](https://www.elperiodico.com/es/sociedad/20260729/noche-decisiva-incendio-vall-d-uixo-castellon-132935589)<br>
 20:24 [Los centros afirman que Educació no concretó el tope del 5% de exención de las pruebas PISA en Catalunya](https://www.elperiodico.com/es/sociedad/20260729/centros-afirman-educacio-les-traslado-tope-exencion-pruebas-pisa-cataluna-132922336)<br>
 20:13 [El incendio de los Arribes del Duero llega a Fermoselle y obliga a evacuar siete otras localidades](https://www.elperiodico.com/es/videos/sucesos/incendio-arribes-duero-llega-fermoselle/132934522.shtml)<br>
 20:05 [La futura compañía nacional de danza de Catalunya recoge aplausos (y dudas): "Debe ser un plus que no tape el poco tejido que tenemos"](https://www.elperiodico.com/es/ocio-y-cultura/20260729/futura-compania-nacional-danza-recoge-aplausos-dudas-sector-132889993)<br>
