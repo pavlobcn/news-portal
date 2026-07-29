@@ -1,4 +1,4 @@
-# News for 2026-07-29 22:41
+# News for 2026-07-29 23:10
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
@@ -65,6 +65,7 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 00:25 [Землетрус у Японії: десятки осіб зникли безвісти](https://ua.korrespondent.net/world/4898090-zemletrus-u-yaponii-desiatky-osib-znykly-bezvisty)<br>
 
 ## as.com
+22:34 [España manda una advertencia](https://as.com/baloncesto/mas_baloncesto/espana-manda-una-advertencia-f202607-n/)<br>
 16:49 [Yabusele y Obradovic vuelven a cruzarse en el Panathinaikos](https://as.com/baloncesto/euroliga/yabusele-y-obradovic-vuelven-a-cruzarse-en-el-panathinaikos-f202607-n/)<br>
 13:44 [¿Quién es Max Shulga? La curiosa historia del nuevo fichaje del Real Madrid](https://as.com/baloncesto/acb/quien-es-max-shulga-la-curiosa-historia-del-nuevo-fichaje-del-real-madrid-f202607-n/)<br>
 12:05 [El Movistar Estudiantes comienza ante el Caja; el Granca, frente al Oviedo](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-comienza-ante-el-caja-el-granca-frente-al-oviedo-f202607-n/)<br>
@@ -72,6 +73,7 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 08:01 [La marcha de Hezonja a la NBA, paralizada](https://as.com/baloncesto/acb/la-marcha-de-hezonja-a-la-nba-paralizada-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:02 [Dos heridos graves en un incendio en un piso de Molins de Rei](https://www.elperiodico.com/es/sucesos/20260729/dos-heridos-graves-incendio-piso-molins-rei-132937917)<br>
 22:16 [Noche decisiva en el incendio de la Vall d’Uixó, con 400 efectivos trabajando para estabilizar el fuego.](https://www.elperiodico.com/es/videos/sucesos/noche-decisiva-incendio-vall-d/132937396.shtml)<br>
 22:03 [Muere un hombre en Sant Adrià del Besòs tras recibir una herida por arma blanca](https://www.elperiodico.com/es/barcelona/20260729/muere-hombre-arma-blanca-sant-adria-besos-asesinado-ajuste-cuentas-132937279)<br>
 21:03 [Los incendios de Madrid y Ávila se dan por estabilizados una semana después de su inicio y apenas queda un millar de evacuados](https://www.elperiodico.com/es/sociedad/20260729/incendios-madrid-avila-dan-estabilizados-132935765)<br>
