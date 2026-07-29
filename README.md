@@ -1,10 +1,22 @@
-# News for 2026-07-29 15:28
+# News for 2026-07-29 16:42
 
 Previous day: [2026-07-28](./data/2026-07-28.md)
 
 ## ua.korrespondent.net
+16:27 [РФ вдарила по приватному сектору Райгородка](https://ua.korrespondent.net/ukraine/4898324-rf-vdaryla-po-pryvatnomu-sektoru-raihorodka)<br>
+16:19 [У Києві двоє військових до смерті побили чоловіка](https://ua.korrespondent.net/city/kiev/4898317-u-kyievi-dvoie-viiskovykh-do-smerti-pobyly-cholovika)<br>
+16:19 [На Харківщині внаслідок обстрілів зруйновано молокозавод](https://ua.korrespondent.net/ukraine/4898319/)<br>
+16:08 [Дрони уразили 10 енерговузлів на ТОТ - "Мадяр"](https://ua.korrespondent.net/ukraine/4898315-drony-urazyly-10-enerhovuzliv-na-tot-madiar)<br>
+16:05 [Українські банки збільшили капітал і залучили більше депозитів](https://ua.korrespondent.net/business/financial/4898311-ukrainski-banky-zbilshyly-kapital-i-zaluchyly-bilshe-depozytiv)<br>
+16:03 [Розвідка оцінила ризик наземної операції США в Ірані](https://ua.korrespondent.net/world/4898313-rozvidka-otsinyla-ryzyk-nazemnoi-operatsii-ssha-v-irani)<br>
+16:00 [Не поспішайте зрізати полуницю: помилка, яка коштує врожаю](https://ua.korrespondent.net/articles/4898306-ne-pospishaite-zrizaty-polunytsui-pomylka-yaka-koshtuie-vrozhaui)<br>
+15:50 [В Україні вже 20 російських військових вдруге здалися в полон](https://ua.korrespondent.net/ukraine/4898307-v-ukraini-vzhe-20-rosiiskykh-viiskovykh-vdruhe-zdalysia-v-polon)<br>
+15:45 [Вогонь охопив популярний курорт Греції: евакуювали жителів і туристів](https://ua.korrespondent.net/world/4898304-vohon-okhopyv-populiarnyi-kurort-hretsii-evakuuivaly-zhyteliv-i-turystiv)<br>
+15:29 [У Скелі опублікували заяву щодо випадків катувань](https://ua.korrespondent.net/ukraine/4898300-u-skeli-opublikuvaly-zaiavu-schodo-vypadkiv-katuvan)<br>
+15:26 [Стало відомо, де підрозділи ЗСУ ведуть активні бої](https://ua.korrespondent.net/ukraine/4898299-stalo-vidomo-de-pidrozdily-zsu-vedut-aktyvni-boi)<br>
 15:22 [Науковці відкрили новий вид заразного раку у сомів: чи є ризик для людей](https://ua.korrespondent.net/tech/medicine/4898294-naukovtsi-vidkryly-novyi-vyd-zaraznoho-raku-u-somiv-chy-ye-ryzyk-dlia-luidei)<br>
 15:14 [У Польщі затримали чоловіка погрози та образи українців](https://ua.korrespondent.net/world/4898293-u-polschi-zatrymaly-cholovika-pohrozy-ta-obrazy-ukraintsiv)<br>
+15:14 [У Польщі затримали чоловіка за погрози та образи українців](https://ua.korrespondent.net/world/4898293-u-polschi-zatrymaly-cholovika-za-pohrozy-ta-obrazy-ukraintsiv)<br>
 14:53 [У ЗСУ почали перевіряти комплектування підрозділів](https://ua.korrespondent.net/ukraine/4898286-u-zsu-pochaly-pereviriaty-komplektuvannia-pidrozdiliv)<br>
 14:43 [Майже 4 млн українців залишаються переселенцями - МОМ](https://ua.korrespondent.net/ukraine/4898283-maizhe-4-mln-ukraintsiv-zalyshauitsia-pereselentsiamy-mom)<br>
 14:40 [Переховувала військового РФ та здавала позиції ЗСУ: зрадниця отримала вирок](https://ua.korrespondent.net/ukraine/4898281-perekhovuvala-viiskovoho-rf-ta-zdavala-pozytsii-zsu-zradnytsia-otrymala-vyrok)<br>
@@ -45,6 +57,18 @@ Previous day: [2026-07-28](./data/2026-07-28.md)
 08:01 [La marcha de Hezonja a la NBA, paralizada](https://as.com/baloncesto/acb/la-marcha-de-hezonja-a-la-nba-paralizada-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:30 [Wagner Moura, el actor brasileño nominado al Oscar, llega al Grec con una reinterpretación de la obra clásica ‘Un enemigo del pueblo’: "La verdad como la conocemos se acabó"](https://www.elperiodico.com/es/ocio-y-cultura/20260729/wagner-moura-actor-brasileno-nominado-132922378)<br>
+16:30 [El incendio de Fermoselle avanza imparable: así se ven las llamas y el humo desde la carretera de Formariz.](https://www.elperiodico.com/es/videos/sociedad/incendio-fermoselle-avanza-imparable-ven/132926148.shtml)<br>
+16:29 [El incendio de Masllorenç quema once hectáreas y media, pero los Bomberos lo tienen "prácticamente perimetrado"](https://www.elperiodico.com/es/videos/sucesos/incendio-masllorenc-quema-once-hectareas/132925999.shtml)<br>
+16:28 [Dos mujeres albañilas coinciden sobre la construcción: "Hay errores en una reforma que no solo cuestan tiempo… también pueden costarte miles de euros"](https://www.elperiodico.com/es/sociedad/20260729/mujeres-albanilas-coinciden-construccion-reforma-dinero-dv-132926034)<br>
+16:26 [España ya supera las 207.000 hectáreas quemadas por los incendios: cuatro veces más que la media de los últimos 15 años](https://www.elperiodico.com/es/sociedad/20260729/espana-supera-207000-hectareas-quemadas-incendios-este-ano-132919124)<br>
+16:21 [Ni Madrid ni Barcelona: la ciudad menos saludable de España está en las Islas Canarias](https://www.elperiodico.com/es/sociedad/20260729/madrid-barcelona-ciudad-saludable-espana-islas-canarias-dv-132925581)<br>
+16:17 [La terapeuta de los Andic estuvo en Collbató dos semanas antes de la caída mortal de Isak Andic](https://www.elperiodico.com/es/videos/sucesos/terapeuta-andic-estuvo-collbato-semanas/132925777.shtml)<br>
+16:09 [Virginia López, abogada: “Es muy cómodo culpar al trabajador enfermo. Mucho más incómodo es preguntarse cuántas bajas podrían haberse evitado”](https://www.elperiodico.com/es/economia/20260729/virginia-lopez-abogada-laboralista-bajas-laborales-dv-132925322)<br>
+16:05 [El viento y el calor extremo complican la lucha contra los megaincendios de Francia](https://www.elperiodico.com/es/sociedad/20260729/francia-ola-calor-incendios-burdeos-calor-viento-132917262)<br>
+16:00 [“No podemos ser una ciudad dormitorio de Barcelona”: el riesgo de que el ‘efecto Cardedeu’ muera de éxito](https://www.elperiodico.com/es/barcelona/20260729/ciudad-dormitorio-barcelona-riesgo-efecto-cardedeu-muera-exito-132890182)<br>
+15:51 [Una máquina contratada por los ganaderos de Ávila que no podía operar por riesgo de incendio, en el origen del mayor fuego de España](https://www.elperiodico.com/es/videos/sociedad/maquina-contratada-ganaderos-avila-podia/132925027.shtml)<br>
+15:44 [El Meteocat advierte de que no existe un "vínculo claro" entre 'El Niño' y los veranos tórridos](https://www.elperiodico.com/es/sociedad/20260729/meteocat-advierte-el-nino-altas-temperaturas-lluvias-sequias-132901198)<br>
 15:25 [Leyla Kazim: "Dejé de trabajar para ver cuánto tardaría alguien en darse cuenta"](https://www.elperiodico.com/es/videos/sociedad/leyla-kazim-deje-trabajar-ver/132924357.shtml)<br>
 15:21 [Ayuso anuncia un paquete de 43 medidas para la reconstrucción de la Sierra Oeste tras los incendios: "No les vamos a abandonar"](https://www.elperiodico.com/es/politica/20260729/ayuso-anuncia-paquete-43-medidas-132924290)<br>
 14:59 [La terapeuta de los Andic estuvo en Collbató dos semanas antes de la caída mortal de Isak Andic](https://www.elperiodico.com/es/sociedad/20260729/terapeuta-andic-estuvo-collbato-dos-semanas-antes-caida-mortal-132914494)<br>

@@ -1,5 +1,293 @@
 [
   {
+    "title": "España se postula para albergar el primer Mundial de la historia de Fútbol 7",
+    "link": "https://www.elperiodico.com/es/deportes/20260729/espana-postula-albergar-primer-mundial-futbol-7-132926236",
+    "pubDate": "2026-07-29 16:33:08",
+    "category": "",
+    "description": "<h2>Drogba lidera la iniciativa para oficializar el Fútbol 7 con España y Brasil como principales potencias actuales de la modalidad </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump reparte varios caramelos durante el funeral del senador republicano Lindsey Graham",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-reparte-caramelos-durante-funeral/132926174.shtml",
+    "pubDate": "2026-07-29 16:32:14",
+    "category": "",
+    "description": "Su actuación ha generado polémica por tratarse de caramelos Tic-Tacs, los mismos con los que ilustró el problema de la inflación durante su campaña de 2024",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Raphinha se incorpora a los entrenamientos del Barça en Birmingham",
+    "link": "https://www.elperiodico.com/es/deportes/20260729/raphinha-incorpora-entrenamientos-barca-birmingham-132925320",
+    "pubDate": "2026-07-29 16:30:56",
+    "category": "",
+    "description": "<h2>El delantero brasileño se lesionó en el segundo partido del Mundial y no volvió a jugar </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Wagner Moura, el actor brasileño nominado al Oscar, llega al Grec con una reinterpretación de la obra clásica ‘Un enemigo del pueblo’: \"La verdad como la conocemos se acabó\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260729/wagner-moura-actor-brasileno-nominado-132922378",
+    "pubDate": "2026-07-29 16:30:45",
+    "category": "",
+    "description": "<h2 class=\"item\">El espectáculo, que convierte al público en jurado, podrá verse este jueves y viernes en el Teatre Lliure de Montjuïc</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de Fermoselle avanza imparable: así se ven las llamas y el humo desde la carretera de Formariz.",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-fermoselle-avanza-imparable-ven/132926148.shtml",
+    "pubDate": "2026-07-29 16:30:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de Masllorenç quema once hectáreas y media, pero los Bomberos lo tienen \"prácticamente perimetrado\"",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendio-masllorenc-quema-once-hectareas/132925999.shtml",
+    "pubDate": "2026-07-29 16:29:28",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos mujeres albañilas coinciden sobre la construcción: \"Hay errores en una reforma que no solo cuestan tiempo… también pueden costarte miles de euros\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/mujeres-albanilas-coinciden-construccion-reforma-dinero-dv-132926034",
+    "pubDate": "2026-07-29 16:28:48",
+    "category": "",
+    "description": "<h2 class=\"item\">Las chicas repasan algunas cosas que siempre debemos de tener en cuenta de cara a hacer una reforma de nuestra vivienda</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20251024/construccion-busca-talento-femenino-paliar-122941487\">Mujeres en la construcción, del 2% en las aulas al 11% en obra: \"Es una brecha que se reproduce a lo largo de toda la cadena de valor\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Контрабанда на мільйони: у Греції вилучили 92 кг канабісу",
+    "link": "https://ua.korrespondent.net/world/4898322-kontrabanda-na-miliony-u-hretsii-vyluchyly-92-kh-kanabisu",
+    "pubDate": "2026-07-29 16:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512477.jpg\">Грецькі правоохоронці запобігли ввезенню великої партії наркотиків з Італії. У вантажівці, яка прибула поромом до порту Ігуменіца, виявили понад 90 кг канабісу та метадон.",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ вдарила по приватному сектору Райгородка",
+    "link": "https://ua.korrespondent.net/ukraine/4898324-rf-vdaryla-po-pryvatnomu-sektoru-raihorodka",
+    "pubDate": "2026-07-29 16:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512484.jpg\">Внаслідок атаки російських військ загинула 37-річна жінка. Її шестирічний син, батько та бабуся дитини зазнали поранень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España ya supera las 207.000 hectáreas quemadas por los incendios: cuatro veces más que la media de los últimos 15 años",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/espana-supera-207000-hectareas-quemadas-incendios-este-ano-132919124",
+    "pubDate": "2026-07-29 16:26:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Según la última actualización del programa Copernicus, la superficia arrasada es cinco veces mayor que en 2025 </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260729/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni Madrid ni Barcelona: la ciudad menos saludable de España está en las Islas Canarias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/madrid-barcelona-ciudad-saludable-espana-islas-canarias-dv-132925581",
+    "pubDate": "2026-07-29 16:21:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Un análisis sobre bienestar urbano sitúa a este municipio en el último puesto del ranking nacional por la falta de zonas verdes, instalaciones deportivas y carencias en movilidad saludable</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20250918/mitad-escuelas-metropolis-barcelona-conviven-entornos-criticos-salud-ninos-hospitalet-badalona-121659645\">Más de la mitad de las escuelas de la metrópolis de Barcelona conviven con entornos \"críticos\" para la salud de los niños</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві двоє військових до смерті побили чоловіка",
+    "link": "https://ua.korrespondent.net/city/kiev/4898317-u-kyievi-dvoie-viiskovykh-do-smerti-pobyly-cholovika",
+    "pubDate": "2026-07-29 16:19:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512471.jpg\">Військовослужбовці завдали киянину ударів руками та ногами, а коли той упав на землю, продовжили його бити.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Харківщині внаслідок обстрілів зруйновано молокозавод",
+    "link": "https://ua.korrespondent.net/ukraine/4898319/",
+    "pubDate": "2026-07-29 16:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512479.jpg\">Знищено виробничий цех, суттєво пошкоджено обладнання. Зазначається, що люди під час удару не постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La terapeuta de los Andic estuvo en Collbató dos semanas antes de la caída mortal de Isak Andic",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/terapeuta-andic-estuvo-collbato-semanas/132925777.shtml",
+    "pubDate": "2026-07-29 16:17:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Virginia López, abogada: “Es muy cómodo culpar al trabajador enfermo. Mucho más incómodo es preguntarse cuántas bajas podrían haberse evitado”",
+    "link": "https://www.elperiodico.com/es/economia/20260729/virginia-lopez-abogada-laboralista-bajas-laborales-dv-132925322",
+    "pubDate": "2026-07-29 16:09:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Una abogada habla en profundidad acerca del mal funcionamiento de las bajas a nivel empresarial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260720/virginia-lopez-bello-abogada-laboralista-bajas-laborales-conflicto-empresas-sindicatos-dv-132625231\">Virginia López Bello, abogada laboralista, sobre las bajas laborales: \"La relación laboral llevaba mucho tiempo deteriorándose hasta hacerse insostenible. El conflicto simplemente hace visible un daño que ya existía\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De revolucionario a tirano",
+    "link": "https://www.elperiodico.com/es/opinion/20260729/revolucionario-tirano-daniel-ortega-nicaragua-articulo-andreu-claret-132925081",
+    "pubDate": "2026-07-29 16:08:59",
+    "category": "",
+    "description": "<h2>Hacer lo que sea para no perder. Robar si es necesario. Es lo que vienen haciendo el presidente nicaragüense, su mujer y sus compinches desde hace muchos años</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260721/ortega-afirma-volvera-haber-elecciones-132653769\">Estados Unidos advierte que no se quedará \"de brazos cruzados\" ante el anuncio de Daniel Ortega de abolir las elecciones en Nicaragua</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрони уразили 10 енерговузлів на ТОТ - \"Мадяр\"",
+    "link": "https://ua.korrespondent.net/ukraine/4898315-drony-urazyly-10-enerhovuzliv-na-tot-madiar",
+    "pubDate": "2026-07-29 16:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512473.jpg\">Останні результативні ураження в Криму стосувалися підстанцій у Керчі, Феодосії, Євпаторії та інших населених пунктах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Clavero, 'youtuber', sobre el país de Europa en el que se puede sobrevivir sin trabajo: \"No es un paraíso, pero sí uno de los pocos lugares donde, si dejas de hacerlo, tu vida no se rompe en pedazos\"",
+    "link": "https://www.elperiodico.com/es/economia/20260729/clavero-youtuber-paro-austria-alquiler-vivienda-dv-et-132337556",
+    "pubDate": "2026-07-29 16:07:14",
+    "category": "",
+    "description": "<h2>El 'youtuber' descubre cómo funciona el sistema de paro y el control del precio de la vivienda en Austria</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260511/herencias-libres-impuestos-austria-diferencia-clave-espana-dv-130085610\">Herencias libres de impuestos en Austria, una diferencia clave con el sistema fiscal de España</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260317/espanol-suiza-salario-euros-sin-filtros-dv-127842512\">Un español que vive en Suiza habla sin filtros sobre su salario: \"Cobro más de 1.300 euros a la semana\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El viento y el calor extremo complican la lucha contra los megaincendios de Francia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/francia-ola-calor-incendios-burdeos-calor-viento-132917262",
+    "pubDate": "2026-07-29 16:05:53",
+    "category": "",
+    "description": "<h2>La ola de calor elevará las temperaturas hasta los 40ºC en Gironda, donde el mayor incendio forestal del país desde 1949 sigue sin estar controlado</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260729/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\">Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські банки збільшили капітал і залучили більше депозитів",
+    "link": "https://ua.korrespondent.net/business/financial/4898311-ukrainski-banky-zbilshyly-kapital-i-zaluchyly-bilshe-depozytiv",
+    "pubDate": "2026-07-29 16:05:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512467.jpg\">Банки продовжують зміцнювати свої фінансові позиції. За даними Нацбанку, за останній рік усі учасники опитування збільшили капітал і прогнозують, що ця тенденція збережеться.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Розвідка оцінила ризик наземної операції США в Ірані",
+    "link": "https://ua.korrespondent.net/world/4898313-rozvidka-otsinyla-ryzyk-nazemnoi-operatsii-ssha-v-irani",
+    "pubDate": "2026-07-29 16:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512472.jpg\">Можлива операція США може постати перед повітряними ударами та складними географічними умовами, попереджають аналітики.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“No podemos ser una ciudad dormitorio de Barcelona”: el riesgo de que el ‘efecto Cardedeu’ muera de éxito",
+    "link": "https://www.elperiodico.com/es/barcelona/20260729/ciudad-dormitorio-barcelona-riesgo-efecto-cardedeu-muera-exito-132890182",
+    "pubDate": "2026-07-29 16:00:49",
+    "category": "",
+    "description": "<h2>La llegada de familias impulsa el crecimiento del municipio mientras los vecinos reclaman una mayor implicación de los nuevos residentes</h2><h2>El municipio vallesano surfea la paradoja de ser un polo de atracción cuando los jóvenes hallan dificultades para acceder a la vivienda</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20250720/ahora-vivimos-tranquilos-cardedeu-destino-moda-exodo-vecinos-barcelona-119801674\">El 'efecto Cardedeu': cómo el Vallès se ha convertido en el nuevo hogar de miles de barceloneses</a></h2><h2>TESTIMONIOS | <a href=\"https://www.elperiodico.com/es/barcelona/sabadell/20251229/planteamos-volver-barcelona-cinco-rostros-nuevo-exodo-segunda-corona-metropolitana-119364789\">\"No nos planteamos volver a Barcelona\": cinco rostros del nuevo éxodo hacia la segunda corona metropolitana</a></h2><h2>NOTICIA | <a href=\"https://www.elperiodico.com/es/barcelona/sabadell/20250713/valles-maresme-afianzan-destinos-exodo-barcelona-ganado-15000-vecinos-anos-119065058\">Vallès y Maresme se afianzan como destinos del éxodo de Barcelona: han ganado unos 15.000 vecinos en los últimos años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Не поспішайте зрізати полуницю: помилка, яка коштує врожаю",
+    "link": "https://ua.korrespondent.net/articles/4898306-ne-pospishaite-zrizaty-polunytsui-pomylka-yaka-koshtuie-vrozhaui",
+    "pubDate": "2026-07-29 16:00:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512466.jpg\">Після останньої ягоди робота на грядці не закінчується: саме зараз закладається майбутній урожай. Розповідаємо, чи справді потрібно обрізати полуницю після плодоношення і як не нашкодити рослинам.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El consumo de cannabis triplica el riesgo de que los adolescentes desarrollen trastornos mentales en comparación con otras sustancias",
+    "link": "https://www.elperiodico.com/es/sanidad/20260729/consumo-cannabis-triplica-riesgo-adolescentes-desarrollen-trastornos-mentales-sustancias-132923727",
+    "pubDate": "2026-07-29 15:58:19",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre los trastornos mentales asociados destacan la esquizofrenia (riesgo 52% mayor entre adolescentes con trastorno por uso de cannabis) y la depresión (riesgo 30% superior)</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260716/alcohol-drogas-accidente-fallecido-psicofarmaco-132504073\">La mitad de los conductores fallecidos han consumido alcohol, cocaína o psicofármacos: \"Son datos demoledores\"</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una máquina contratada por los ganaderos de Ávila que no podía operar por riesgo de incendio, en el origen del mayor fuego de España",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/maquina-contratada-ganaderos-avila-podia/132925027.shtml",
+    "pubDate": "2026-07-29 15:51:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні вже 20 російських військових вдруге здалися в полон",
+    "link": "https://ua.korrespondent.net/ukraine/4898307-v-ukraini-vzhe-20-rosiiskykh-viiskovykh-vdruhe-zdalysia-v-polon",
+    "pubDate": "2026-07-29 15:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512462.png\">Російське командування після обміну не залишає своїм солдатам вибору - всі вони знову відправляють на передову.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Todos los detalles sobre la boda de Susanna Griso y Luíz Enriquez",
+    "link": "https://www.elperiodico.com/es/videos/podcast/detalles-boda-susanna-griso-luiz/132924970.shtml",
+    "pubDate": "2026-07-29 15:47:11",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Вогонь охопив популярний курорт Греції: евакуювали жителів і туристів",
+    "link": "https://ua.korrespondent.net/world/4898304-vohon-okhopyv-populiarnyi-kurort-hretsii-evakuuivaly-zhyteliv-i-turystiv",
+    "pubDate": "2026-07-29 15:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512461.jpg\">На острові Парос уже другу добу триває боротьба з масштабною лісовою пожежею. Через стрімке поширення вогню влада евакуює людей, а рятувальникам заважають сильні пориви вітру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Meteocat advierte de que no existe un \"vínculo claro\" entre 'El Niño' y los veranos tórridos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260729/meteocat-advierte-el-nino-altas-temperaturas-lluvias-sequias-132901198",
+    "pubDate": "2026-07-29 15:44:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La directora del Servei Meterològic de Catalunya, Sarai Sarroca, firma que el fenómeno sí aumentará la posibilidad de fenómenos extremos, ya sea en forma de sequía o de lluvias abundantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260613/nino-espana-efectos-calor-lluvias-verano-otono-131349972\">¿Qué efectos tendrá El Niño en España? Los expertos estudian el riesgo de veranos de calor (aún más) extremo y otoños de lluvias torrenciales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260512/coctel-el-nino-cambio-climatico-efectos-advertencia-cientificos-130102786\" target=\"_blank\">Los científicos advierten del \"peligroso cóctel\" que supondrá la llegada de El Niño en un mundo ya alterado por el cambio climático</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Пашинян заявив Путіну, що Вірменія має право йти альтернативним шляхом",
+    "link": "https://ua.korrespondent.net/world/4898302-pashynian-zaiavyv-putinu-scho-virmeniia-maie-pravo-yty-alternatyvnym-shliakhom",
+    "pubDate": "2026-07-29 15:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512460.jpg\">Пашинян зазначив, що \"найважливіше питання полягає в тому, що Вірменія має легітимне право формулювати для себе альтернативи\".",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Скелі опублікували заяву щодо випадків катувань",
+    "link": "https://ua.korrespondent.net/ukraine/4898300-u-skeli-opublikuvaly-zaiavu-schodo-vypadkiv-katuvan",
+    "pubDate": "2026-07-29 15:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512459.png\">Командування заявило, що не толерує приниження гідності, насильство чи перевищення повноважень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стало відомо, де підрозділи ЗСУ ведуть активні бої",
+    "link": "https://ua.korrespondent.net/ukraine/4898299-stalo-vidomo-de-pidrozdily-zsu-vedut-aktyvni-boi",
+    "pubDate": "2026-07-29 15:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512458.jpg\">Найбільшактивно російська окупаційна армія намагається наступати поблизу Покровська і Костянтинівки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Leyla Kazim: \"Dejé de trabajar para ver cuánto tardaría alguien en darse cuenta\"",
     "link": "https://www.elperiodico.com/es/videos/sociedad/leyla-kazim-deje-trabajar-ver/132924357.shtml",
     "pubDate": "2026-07-29 15:25:11",
@@ -38,6 +326,15 @@
   {
     "title": "У Польщі затримали чоловіка погрози та образи українців",
     "link": "https://ua.korrespondent.net/world/4898293-u-polschi-zatrymaly-cholovika-pohrozy-ta-obrazy-ukraintsiv",
+    "pubDate": "2026-07-29 15:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512453.jpg\">Підозрюваний регулярно ображав українських сусідів, використовуючи нецензурну лексику та висловлювання на ґрунті національної ненависті.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі затримали чоловіка за погрози та образи українців",
+    "link": "https://ua.korrespondent.net/world/4898293-u-polschi-zatrymaly-cholovika-za-pohrozy-ta-obrazy-ukraintsiv",
     "pubDate": "2026-07-29 15:14:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4512453.jpg\">Підозрюваний регулярно ображав українських сусідів, використовуючи нецензурну лексику та висловлювання на ґрунті національної ненависті.",
