@@ -1,5 +1,50 @@
 [
   {
+    "title": "\"Переможця не буде\": Флеш оцінив хід війни",
+    "link": "https://ua.korrespondent.net/ukraine/4898788-peremozhtsia-ne-bude-flesh-otsinyv-khid-viiny",
+    "pubDate": "2026-07-30 23:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513846.jpg\">Попри відустність змін на фронті, Росія не збирається припиняти війну. Триває руйнування економік та інфраструктури Росії та України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amazon gana 92.902 millones de dólares hasta junio de 2026, un 163% más",
+    "link": "https://www.elperiodico.com/es/economia/20260730/amazon-gana-92-902-millones-132975168",
+    "pubDate": "2026-07-30 23:39:01",
+    "category": "",
+    "description": "<h2>La tecnológica estadounidense indicó que su facturación total en los últimos seis meses fue de 382.125 millones de dólares, un 18 % más en términos interanuales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Dios o bufón? Kanye West (Ye) se come Madrid pese a su historial de escándalos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260730/dios-o-bufon-kanye-west-come-madrid-historial-escandalos-132975122",
+    "pubDate": "2026-07-30 23:35:54",
+    "category": "",
+    "description": "<h2>Vetado en distintos puntos de Europa por sus declaraciones antisemitas, el artista congregó a 68.000 personas en el Metropolitano: su deslumbrante cancionero no logró borrar el peso de todo lo que representa</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Apple gana 101.464 millones de dólares en nueve meses, un 20% más interanual",
+    "link": "https://www.elperiodico.com/es/economia/20260730/apple-gana-101-464-millones-132975040",
+    "pubDate": "2026-07-30 23:31:11",
+    "category": "",
+    "description": "<h2>La facturación acumulada de la empresa en esos nueve meses fue de 364.357 millones, un 16 % más interanual, principalmente procedente de las ventas del iPhone</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ за роки війни атакувала 232 судна в Чорному морі",
+    "link": "https://ua.korrespondent.net/ukraine/4898783-rf-za-roky-viiny-atakuvala-232-sudna-v-chornomu-mori",
+    "pubDate": "2026-07-30 23:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513799.jpg\">Кремль намагається заблокувати роботу українських портів та зупинити морський експорт українського зерна. Мільйонам людей у світі загрожує голод.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Gobierno de Trump culpa a España y las \"políticas de extrema izquierda\" de la llegada masiva de migrantes a Ceuta",
     "link": "https://www.elperiodico.com/es/internacional/20260730/trump-culpa-espana-entrada-masiva-migrantes-ceuta-132974136",
     "pubDate": "2026-07-30 23:00:38",
@@ -88,6 +133,15 @@
     "description": "<h2>La marea humana de migrantes, que supera los cinco kilómetros de longitud, ha desbordado a la policía marroquí en la localidad de Castillejos</h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Росія проти Дурова. Звинувачення в тероризмі",
+    "link": "https://ua.korrespondent.net/world/russia/4898793-rosiia-proty-durova-zvynuvachennia-v-teroryzmi",
+    "pubDate": "2026-07-30 22:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513882.jpg\">Павло Дуров відреагував на звинувачення в тероризмі іронічно - змінив свою аватарку на фотографію в образі терориста.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "В Україні оновили правила реєстру Оберіг",

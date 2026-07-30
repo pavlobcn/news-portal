@@ -1,8 +1,10 @@
-# News for 2026-07-30 23:21
+# News for 2026-07-31 00:34
 
 Previous day: [2026-07-29](./data/2026-07-29.md)
 
 ## ua.korrespondent.net
+23:53 ["Переможця не буде": Флеш оцінив хід війни](https://ua.korrespondent.net/ukraine/4898788-peremozhtsia-ne-bude-flesh-otsinyv-khid-viiny)<br>
+23:20 [РФ за роки війни атакувала 232 судна в Чорному морі](https://ua.korrespondent.net/ukraine/4898783-rf-za-roky-viiny-atakuvala-232-sudna-v-chornomu-mori)<br>
 22:52 [Один з найбільших в Росії НПЗ зупинив роботу - ЗМІ](https://ua.korrespondent.net/world/russia/4898781-odyn-z-naibilshykh-v-rosii-npz-zupynyv-robotu-zmi)<br>
 22:24 [Реактивний дрон ударив по Сумщині: шестеро постраждалих](https://ua.korrespondent.net/ukraine/4898777-reaktyvnyi-dron-udaryv-po-sumschyni-shestero-postrazhdalykh)<br>
 21:49 [Чотири ФАБ-250 по Краматорську: одна влучила у багатоповерхівку](https://ua.korrespondent.net/ukraine/4898771-chotyry-fab-250-po-kramatorsku-odna-vluchyla-u-bahatopoverkhivku)<br>
@@ -112,6 +114,8 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 07:36 [Golpe de autoridad del Panathinaikos: se hace con Sylvain Francisco](https://as.com/baloncesto/euroliga/golpe-de-autoridad-del-panathinaikos-se-hace-con-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:39 [Amazon gana 92.902 millones de dólares hasta junio de 2026, un 163% más](https://www.elperiodico.com/es/economia/20260730/amazon-gana-92-902-millones-132975168)<br>
+23:31 [Apple gana 101.464 millones de dólares en nueve meses, un 20% más interanual](https://www.elperiodico.com/es/economia/20260730/apple-gana-101-464-millones-132975040)<br>
 21:49 [Más de 1.700 agentes, entre Mossos y policías locales, se gradúan en el Instituto de Seguridad Pública de Catalunya](https://www.elperiodico.com/es/sucesos/20260730/1-700-agentes-mossos-policias-132972454)<br>
 20:30 [Las entidades ambientales piden ordenar la afluencia de los 'turistas' de osos en el Pirineo](https://www.elperiodico.com/es/sociedad/20260730/entidades-ambientales-reclaman-ordenar-turismo-oso-pardo-pirineo-132957429)<br>
 20:15 [Imágenes de las Unidades del Quinto Batallón de Intervención en Emergencias saliendo de su base en #León para sumarse a las misiones de extinción del  #IFVillafrancadelBierzo](https://www.elperiodico.com/es/videos/sociedad/imagenes-unidades-quinto-batallon-intervencion/132970710.shtml)<br>
