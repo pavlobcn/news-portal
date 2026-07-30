@@ -1,8 +1,23 @@
-# News for 2026-07-30 11:42
+# News for 2026-07-30 13:21
 
 Previous day: [2026-07-29](./data/2026-07-29.md)
 
 ## ua.korrespondent.net
+13:08 [Під час спроби перетнути Ла-Манш загинули кілька мігрантів](https://ua.korrespondent.net/world/4898590-pid-chas-sproby-peretnuty-la-mansh-zahynuly-kilka-mihrantiv)<br>
+13:05 [У Києві хотіли незаконно продати будівлю Росатома](https://ua.korrespondent.net/business/4898586-u-kyievi-khotily-nezakonno-prodaty-budivlui-rosatoma)<br>
+13:04 [Графіки відключень можуть повернутися - Шмигаль](https://ua.korrespondent.net/ukraine/4898588-hrafiky-vidkluichen-mozhut-povernutysia-shmyhal)<br>
+12:59 [Китай уперше скоротив частку вугілля нижче 50%](https://ua.korrespondent.net/business/economics/4898584-kytai-upershe-skorotyv-chastku-vuhillia-nyzhche-50)<br>
+12:48 [Воєнний бум скінчився: економіка РФ входить у стагнацію](https://ua.korrespondent.net/business/economics/4898580-voiennyi-bum-skinchyvsia-ekonomika-rf-vkhodyt-u-stahnatsiui)<br>
+12:46 [У Японії кількість загиблих у результаті землетрусу зросла до 34](https://ua.korrespondent.net/world/4898579-u-yaponii-kilkist-zahyblykh-u-rezultati-zemletrusu-zrosla-do-34)<br>
+12:38 [Євросоюз надав Україні 3,47 млрд євро на зброю](https://ua.korrespondent.net/world/4898577-yevrosouiz-nadav-ukraini-347-mlrd-yevro-na-zbroui)<br>
+12:35 [В Україні повертають повні правила маркування продуктів](https://ua.korrespondent.net/business/4898574-v-ukraini-povertauit-povni-pravyla-markuvannia-produktiv)<br>
+12:28 [Дрони паралізували перевалку на КТК](https://ua.korrespondent.net/business/economics/4898570-drony-paralizuvaly-perevalku-na-ktk)<br>
+12:15 [Telegram загрожує штраф у $38 млн через терористичний контент](https://ua.korrespondent.net/business/companies/4898564-Telegram-zahrozhuie-shtraf-u-38-mln-cherez-terorystychnyi-kontent)<br>
+12:09 [Удари України вивели з ладу понад 30% нафтопереробки РФ - ЗМІ](https://ua.korrespondent.net/world/russia/4898563-udary-ukrainy-vyvely-z-ladu-ponad-30-naftopererobky-rf-zmi)<br>
+12:04 [Росія використовує залишки Ваґнера в Африці - ГУР](https://ua.korrespondent.net/ukraine/4898561-rosiia-vykorystovuie-zalyshky-vagnera-v-afrytsi-hur)<br>
+11:54 [На Марсі виявили поле "сот": відкриття Curiosity здивувало NASA](https://ua.korrespondent.net/tech/space/4898554-na-marsi-vyiavyly-pole-sot-vidkryttia-Curiosity-zdyvuvalo-NASA)<br>
+11:53 [Росіяни скинули три авіабомби на Херсон: є жертва](https://ua.korrespondent.net/ukraine/4898553-rosiiany-skynuly-try-aviabomby-na-kherson-ye-zhertva)<br>
+11:52 [Курс гривні зміцнився в обмінниках](https://ua.korrespondent.net/business/financial/4898550-kurs-hryvni-zmitsnyvsia-v-obminnykakh)<br>
 11:37 [В Індії через повені загинули 78 людей, понад 300 тис. постраждали](https://ua.korrespondent.net/world/4898546-v-indii-cherez-poveni-zahynuly-78-luidei-ponad-300-tys-postrazhdaly)<br>
 11:30 [Атака на Київ: метро прихистило рекордні 56 тисяч людей](https://ua.korrespondent.net/city/kiev/4898539-ataka-na-kyiv-metro-prykhystylo-rekordni-56-tysiach-luidei)<br>
 11:13 [Під Альпами створили тунель між Італією та Австрією](https://ua.korrespondent.net/world/4898528-pid-alpamy-stvoryly-tunel-mizh-italiieui-ta-avstriieui)<br>
@@ -50,6 +65,34 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 07:36 [Golpe de autoridad del Panathinaikos: se hace con Sylvain Francisco](https://as.com/baloncesto/euroliga/golpe-de-autoridad-del-panathinaikos-se-hace-con-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+13:17 [Las falsificaciones llegan ya hasta a las cremas: estos son los lotes afectados y cómo reconocerlas](https://www.elperiodico.com/es/sociedad/20260730/falsificaciones-cremas-lotes-afectados-tener-cuidado-dv-et-132954429)<br>
+13:13 [Cine bajo las estrellas: el proyector portátil TCL A1s reinventa las noches en familia](https://www.elperiodico.com/es/tecnologia/20260730/cine-estrellas-proyector-portatil-tcl-132953671)<br>
+13:13 [El BOE lo confirma: así será la moneda limitada para conmemorar el Mundial 2026](https://www.elperiodico.com/es/economia/20260730/moneda-oficial-triunfo-seleccion-mundial-2026-la-roja-limitada-boe-dv-132945813)<br>
+13:11 [Tareas de extinción del incendio de Fermoselle, en Zamora](https://www.elperiodico.com/es/fotos/sociedad/tareas-extincion-incendio-fermoselle-zamora-fotos-132954200)<br>
+13:10 [Sánchez anuncia el fin de la emergencia nacional para los incendios de Ávila y Madrid](https://www.elperiodico.com/es/videos/politica/sanchez-anuncia-fin-emergencia-nacional-incendios-avila-madrid/132954221.shtml)<br>
+13:09 [La Policía Local de Mataró detiene al autor de tres focos de incendio junto a la autopista C-32](https://www.elperiodico.com/es/barcelona/20260730/policia-local-mataro-detiene-autor-tres-focos-incendio-autopista-c32-132951913)<br>
+13:08 [Juan Carlos, bombero forestal: "A esa gente que niega el cambio climático le pondría a trabajar con nosotros frente a los incendios"](https://www.elperiodico.com/es/sociedad/20260730/juan-carlos-bombero-forestal-gente-cambio-climatico-incendios-dv-et-132953622)<br>
+13:02 [Rodalies estrena la nueva 'app' que informa sobre los trenes en tiempo real](https://www.elperiodico.com/es/sociedad/20260730/rodalies-estrena-nueva-app-informa-trenes-tiempo-real-132949308)<br>
+13:00 [Las dos últimas tiendas de marroquinería de la calle Ferran: "Cobramos el salario mínimo interprofesional"](https://www.elperiodico.com/es/barcelona/20260730/calpa-guido-barcelona-ultimas-tiendas-marroquineria-calle-ferran-132924969)<br>
+12:59 [Un hospital de Barcelona, primero en España en usar una técnica que detecta en tiempo real las alergias alimentarias ocultas](https://www.elperiodico.com/es/sanidad/20260730/hospital-barcelona-espana-tecnica-detecta-tiempo-real-alergias-alimentarias-ocultas-132951664)<br>
+12:56 [Una huelga indefinida en el 'handling' del aeropuerto de Barcelona-El Prat amenaza las vacaciones de dos millones de pasajeros](https://www.elperiodico.com/es/videos/barcelona/huelga-indefinida-handling-aeropuerto-barcelona/132953444.shtml)<br>
+12:51 [Más del 90% de Catalunya se encuentra en riesgo alto, muy alto o extremo de incendio](https://www.elperiodico.com/es/sociedad/20260730/90-catalunya-encuentra-riesgo-alto-incendios-132946615)<br>
+12:48 [Se lanza la misión NROL-95 de SpaceX desde Florida](https://www.elperiodico.com/es/videos/internacional/lanza-mision-nrol-95-spacex/132953047.shtml)<br>
+12:45 [Una imprudencia, posible causa del incendio de Fermoselle, en Zamora](https://www.elperiodico.com/es/videos/sociedad/imprudencia-posible-causa-incendio-fermoselle-zamora/132953001.shtml)<br>
+12:44 [José Abellán, cardiólogo: "Las mujeres tienen casi el doble de probabilidades de sufrir depresión después de un infarto que los hombres"](https://www.elperiodico.com/es/ser-feliz/20260730/infarto-mujeres-depresion-hombres-cardiologo-jose-abellan-dv-et-132482567)<br>
+12:44 [Fallece el actor Manolo Solo, ganador de un Goya por 'Tarde para la ira'](https://www.elperiodico.com/es/ocio-y-cultura/20260730/fallece-actor-manolo-ganador-goya-132952837)<br>
+12:42 [Los expertos en entrenamiento coinciden: "Los ciclistas tienen peor densidad ósea que los corredores"](https://www.elperiodico.com/es/salud/20260730/expertos-entrenamiento-coinciden-ciclistas-peor-densidad-osea-corredores-dv-et-132952266)<br>
+12:37 [El psicólogo Javier Urra (68 años) lanza un mensaje esperanzador tras revelar que padece de cáncer con metástasis: "Lo importante no es la tumba, es la memoria"](https://www.elperiodico.com/es/sociedad/20260730/javier-urra-cancer-metastasis-pulmon-psicologo-dv-et-132949051)<br>
+12:30 [Música, espectáculos, ciencia y 'castells': Tarragona y Reus organizan una tarde de actividades el 12 de agosto para el eclipse solar](https://www.elperiodico.com/es/tarragona/20260730/tarragona-reus-organizan-tarde-actividades-12-agosto-eclipse-solar-132950094)<br>
+12:24 [Los superhéroes y los villanos también se van de vacaciones](https://www.elperiodico.com/es/videos/sociedad/superheroes-villanos-vacaciones/132948122.shtml)<br>
+12:22 [Detenido un pirómano por provocar el incendio que obligó a confinar a 33.000 personas en Anoia](https://www.elperiodico.com/es/sucesos/20260730/detenido-piromano-provocar-tres-incendios-anoia-confinamiento-igualada-132951066)<br>
+12:18 [Miles de niños convierten una playa de Gaza en su escuela de natación](https://www.elperiodico.com/es/videos/internacional/miles-ninos-convierten-playa-gaza/132951132.shtml)<br>
+12:11 [Los contratistas catalanes reclaman doblar la inversión en infraestructuras ante el déficit acumulado de 49.500 millones](https://www.elperiodico.com/es/economia/20260730/contratistas-catalanes-reclaman-doblar-inversion-infraestructuras-informe-anual-132948162)<br>
+12:08 [Crítica de 'Mala bèstia': Bàrbara Farré, directora de videoclips de Rosalía y Bad Gyal, debuta en formato largo con un cuento iniciático, fantástico y misterioso](https://www.elperiodico.com/es/ocio-y-cultura/20260730/critica-mala-bestia-barbara-farre-videoclips-rosalia-pelicula-cine-132949397)<br>
+12:00 [Una huelga indefinida en el 'handling' del aeropuerto de Barcelona-El Prat amenaza las vacaciones de dos millones de pasajeros](https://www.elperiodico.com/es/economia/20260730/huelga-indefinida-handling-aeropuerto-barcelona-el-prat-agosto-132950433)<br>
+11:58 [Samsung advierte que la escasez de chips que está encareciendo móviles y ordenadores se agravará y prolongará hasta 2028](https://www.elperiodico.com/es/tecnologia/20260730/samsung-advierte-escasez-chips-encareciendo-moviles-ordenadores-precio-inteligencia-artificial-prolongara-2028-ia-memoria-132948102)<br>
+11:44 [Molins consolida su expansión y cierra el primer semestre con un crecimiento de ventas del 50%](https://www.elperiodico.com/es/economia/20260730/molins-consolida-expansion-cierra-primer-132949639)<br>
+11:43 [Ceuta pide "auxilio" al Gobierno ante la llegada de cientos de migrantes a nado](https://www.elperiodico.com/es/fotos/sociedad/ceuta-pide-auxilio-gobierno-llegada-cientos-migrantes-nado-132949516)<br>
 11:40 [Las sanciones por incivismo crecen un 133% en Santa Coloma de Gramenet](https://www.elperiodico.com/es/barcelona/20260730/sanciones-incivismo-crecen-133-por-ciento-santa-coloma-132944783)<br>
 11:36 [337 evacuados pasan la noche en los pabellones habilitados en Bermillo de Sayago](https://www.elperiodico.com/es/sociedad/20260730/337-evacuados-pasan-noche-pabellones-132948361)<br>
 11:20 [Más de 800 migrantes intentan entrar el miércoles a nado en Ceuta](https://www.elperiodico.com/es/videos/sociedad/800-migrantes-entrar-miercoles-nado-ceuta-video/132948123.shtml)<br>
@@ -87,6 +130,7 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 08:01 [Clamor ciudadano para exigir un protocolo nacional de rescate animal en catástrofes como incendios](https://www.elperiodico.com/es/sociedad/20260730/clamor-ciudadano-exigir-protocolo-nacional-132941959)<br>
 07:43 [Suben a 30 los muertos por el terremoto de magnitud 7,1 en el sudoeste de Japón](https://www.elperiodico.com/es/internacional/20260730/suben-30-muertos-terremoto-magnitud-132941821)<br>
 07:32 [BBVA supera los 6.051 millones de beneficio, un 11,1% más, gracias al tirón de México](https://www.elperiodico.com/es/economia/20260730/bbva-supera-6-051-millones-132941725)<br>
+06:31 [Peligrosa moda viral en las escaleras mecánicas de Sagrada Família](https://www.elperiodico.com/es/fotos/en-imagenes/peligrosa-moda-viral-escaleras-mecanicas-132928988)<br>
 06:02 [B de Barcelona, el oasis de "souvenirs bonitos" y locales a los pies de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20260730/tienda-souvenirs-bonitos-locales-oasis-avenida-gaudi-132839964)<br>
 06:01 [Manchester logra reducir en un 96% las hospitalizaciones psiquiátricas y acercar al paciente a su entorno](https://www.elperiodico.com/es/ser-feliz/20260730/manchester-logra-reducir-96-hospitalizaciones-131232355)<br>
 05:57 [Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas](https://www.elperiodico.com/es/sociedad/20260730/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
