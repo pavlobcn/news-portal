@@ -1,8 +1,11 @@
-# News for 2026-07-30 08:15
+# News for 2026-07-30 09:09
 
 Previous day: [2026-07-29](./data/2026-07-29.md)
 
 ## ua.korrespondent.net
+08:43 [ППО знешкодили 265 дронів та 55 ракет РФ](https://ua.korrespondent.net/ukraine/4898474-ppo-zneshkodyly-265-droniv-ta-55-raket-rf)<br>
+08:22 [У Львові кількість постраждалих зросла до 30 людей](https://ua.korrespondent.net/city/lvov/4898470-u-lvovi-kilkist-postrazhdalykh-zrosla-do-30-luidei)<br>
+08:14 [Удари по Дніпропетровщині: шестеро загиблих, серед них - діти](https://ua.korrespondent.net/ukraine/4898468-udary-po-dnipropetrovschyni-shestero-zahyblykh-sered-nykh-dity)<br>
 07:59 [Генштаб оцінив ситуацію на фронті](https://ua.korrespondent.net/tech/4898465-henshtab-otsinyv-sytuatsiui-na-fronti)<br>
 07:24 [Удар по Полтавщині: загинула людина, спалахнув термінал Нової пошти](https://ua.korrespondent.net/ukraine/4898461-udar-po-poltavschyni-zahynula-luidyna-spalakhnuv-terminal-novoi-poshty)<br>
 06:58 [Генштаб підрахував нові втрати росіян](https://ua.korrespondent.net/ukraine/4898457-henshtab-pidrakhuvav-novi-vtraty-rosiian)<br>
@@ -23,6 +26,13 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 07:36 [Golpe de autoridad del Panathinaikos: se hace con Sylvain Francisco](https://as.com/baloncesto/euroliga/golpe-de-autoridad-del-panathinaikos-se-hace-con-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+09:07 [El Ibex 35 busca rumbo tras la Fed y el BBVA sube un 3% tras presentar un beneficio récord](https://www.elperiodico.com/es/economia/20260730/ibex-35-busca-rumbo-fed-132943565)<br>
+09:04 [La madre de Noelia insta a la ONU a investigar a España por no proteger a su hija antes de autorizar su eutanasia](https://www.elperiodico.com/es/sociedad/20260730/madre-noelia-insta-onu-investigar-eutanasia-noelia-132943349)<br>
+09:03 [La inflación repunta al 3,5% en julio por los combustibles y la electricidad](https://www.elperiodico.com/es/economia/20260730/inflacion-repunta-3-5-julio-132943376)<br>
+09:02 [El BBVA gana 6.051 millones hasta junio, un 11% más, y lanza recompra de 2.000 millones](https://www.elperiodico.com/es/videos/economia/bbva-gana-6051-millones-hasta-junio-video/132943385.shtml)<br>
+09:00 [La economía española acelera y crece un 0,7% en el segundo trimestre](https://www.elperiodico.com/es/economia/20260730/economia-espanola-acelera-crece-0-132943417)<br>
+09:00 [Lluvia de Delta Acuáridas en julio: prepárate para ver caer hasta 25 estrellas fugaces por hora](https://www.elperiodico.com/es/ciencia/20260730/lluvia-estrellas-delta-acuaridas-julio-2026-donde-cuando-ver-dv-132737340)<br>
+08:40 [Las mejores apps de Android e iOS para ver el eclipse solar del 12 de agosto en tiempo real](https://www.elperiodico.com/es/ciencia/20260730/mejores-apps-eclipse-sol-12-agosto-2026-android-ios-ver-dv-132924993)<br>
 08:10 [Este es Gia, 8 años, que huyó de su país tras una situación de violencia vicaria](https://www.elperiodico.com/es/sociedad/20260730/gia-8-anos-huyo-pais-132942154)<br>
 08:05 [Última hora de los incendios en España, en directo | Dos desalojos más por el incendio forestal de Zamora, combatido por 50 medios por la noche](https://www.elperiodico.com/es/sociedad/20260730/ultima-hora-incendios-espana-directo-132759066)<br>
 08:01 [Clamor ciudadano para exigir un protocolo nacional de rescate animal en catástrofes como incendios](https://www.elperiodico.com/es/sociedad/20260730/clamor-ciudadano-exigir-protocolo-nacional-132941959)<br>
