@@ -1,5 +1,149 @@
 [
   {
+    "title": "Al menos nueve personas mueren durante la entrada masiva en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260730/personas-mueren-durante-entrada-masiva-ceuta-132972549",
+    "pubDate": "2026-07-30 21:53:24",
+    "category": "",
+    "description": "<h2>Con los de este jueves, se elevan a 39 el número de migrantes localizados sin vida en aguas del litoral de Ceuta en lo que va de año</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Más de 1.700 agentes, entre Mossos y policías locales, se gradúan en el Instituto de Seguridad Pública de Catalunya",
+    "link": "https://www.elperiodico.com/es/sucesos/20260730/1-700-agentes-mossos-policias-132972454",
+    "pubDate": "2026-07-30 21:49:43",
+    "category": "",
+    "description": "<h2>La 39ena promoción empezará a trabajar a partir de la semana próxima</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Чотири ФАБ-250 по Краматорську: одна влучила у багатоповерхівку",
+    "link": "https://ua.korrespondent.net/ukraine/4898771-chotyry-fab-250-po-kramatorsku-odna-vluchyla-u-bahatopoverkhivku",
+    "pubDate": "2026-07-30 21:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513748.jpg\">Окупанти атакували спальний мікрорайон Краматорська, внаслідок чого, попередньо, постраждали двоє людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "100 км вглиб. Як Польща не збила російську ракету",
+    "link": "https://ua.korrespondent.net/world/4898769-100-km-vhlyb-yak-polscha-ne-zbyla-rosiisku-raketu",
+    "pubDate": "2026-07-30 21:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513750.jpg\">Міністр оборони країни назвав цю ніч \"надзвичайно важкою\" для польської ППО через одну російську ракету.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Italia propone cerrar el espacio Schengen con España por la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260730/italia-propone-cerrar-espacio-schengen-132972332",
+    "pubDate": "2026-07-30 21:33:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministro de Exteriores italiano vincula la llegada masiva de migrantes con la regularización extraordinaria impulsada por el Gobierno español</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260730/sanchez-marlaska-ceuta-jovenes-valla-marroquies-132959112\">Sánchez viajará a Ceuta tras activar al Ejército y acordar con Marruecos la agilización de las devoluciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los 10 radares de la DGT que más multas ponen en toda España",
+    "link": "https://www.elperiodico.com/es/motor/20260730/10-radares-dgt-mas-multan-espana-132762425",
+    "pubDate": "2026-07-30 21:30:09",
+    "category": "",
+    "description": "<h2>Te mostramos cuáles son los 10 radares que más multas ponen en nuestro país para que los tengas en cuenta en tus desplazamientos estas vacaciones</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Проросійська євродепутатка потрапила в ДТП у Бухаресті - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4898765-prorosiiska-yevrodeputatka-potrapyla-v-dtp-u-bukharesti-zmi",
+    "pubDate": "2026-07-30 21:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513731.jpg\">Лідерка румунської партії SOS România Діана Шошоаке потрапила в аварію в столиці Румунії. Серйозних травм політикиня не зазнала.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos investigan un presunto atraco en una joyería del centro comercial Mataró Parc",
+    "link": "https://www.elperiodico.com/es/sociedad/20260730/atraco-joyeria-centro-comercial-mataro-parc-mossos-132972235",
+    "pubDate": "2026-07-30 21:26:00",
+    "category": "",
+    "description": "<h2>La policía recibió el aviso hacia las 18.15 horas y mantiene abierta una investigación para esclarecer lo ocurrido</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Корецький наказав терміново перевірити всі укриття",
+    "link": "https://ua.korrespondent.net/ukraine/4898762-koretskyi-nakazav-terminovo-pereviryty-vsi-ukryttia",
+    "pubDate": "2026-07-30 21:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513717.jpg\">На п'ятому році повномасштабної війни проблема із зачиненими або недоступними укриттями є неприпустимою, підкреслив прем'єр.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Un Gobierno desnortado",
+    "link": "https://www.elperiodico.com/es/opinion/20260730/gobierno-desnortado-editorial-132971772",
+    "pubDate": "2026-07-30 21:03:42",
+    "category": "",
+    "description": "<h2> La estabilidad económica no ha evitado el deterioro de la posición política del Ejecutivo</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260730/sanchez-reales-decretos-aprobados-2026-record-132857421\">Sánchez lleva ya 20 reales decretos en 2026, el tercer máximo histórico de la democracia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, viernes 31 de julio: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260730/horoscopo-hoy-viernes-31-julio-dv-132928076",
+    "pubDate": "2026-07-30 21:01:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El color del dinero",
+    "link": "https://www.elperiodico.com/es/opinion/20260730/color-dinero-gestion-forestal-bioeconomia-articulo-marc-palahi-132971419",
+    "pubDate": "2026-07-30 20:52:17",
+    "category": "",
+    "description": "<h2>Se necesita una bioeconomía circular que atraiga inversión, empleo e innovación al mundo rural para que pueda ejercer todo su potencial para generar bienestar y prosperidad</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260729/espana-supera-207000-hectareas-quemadas-incendios-este-ano-132919124\">España ya supera las 207.000 hectáreas quemadas por los incendios: cuatro veces más que la media de los últimos 15 años</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Barcelona lanza el SAGA Barcelona Game Fest para liderar el sector en el sur de Europa",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260730/barcelona-lanza-saga-barcelona-game-132971643",
+    "pubDate": "2026-07-30 20:50:36",
+    "category": "",
+    "description": "<h2>La feria, que se celebrará en Montjuïc, busca conectar a la industria con 20.000 jugadores y potenciar el uso del catalán en el ámbito digital</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las entidades ambientales piden ordenar la afluencia de los 'turistas' de osos en el Pirineo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260730/entidades-ambientales-reclaman-ordenar-turismo-oso-pardo-pirineo-132957429",
+    "pubDate": "2026-07-30 20:30:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Las autoridades del Val d'Aran obligan a una asociación a retirar un cartel informativo sobre la presencia del oso en la zona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260730/europa-apuesta-pirineos-impulsar-turismo-osos-naturaleza-131931240\" target=\"_blank\">Europa ve en los Pirineos una oportunidad para fomentar el turismo de observación de osos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gestamp gana un 47% más y reduce su deuda al nivel más bajo desde que salió a bolsa",
+    "link": "https://www.elperiodico.com/es/economia/20260730/gestamp-gana-47-reduce-deuda-132971275",
+    "pubDate": "2026-07-30 20:23:59",
+    "category": "",
+    "description": "<h2>El fabricante de componentes para automóviles mantiene estable su rentabilidad pese al estancamiento del mercado y reafirma sus previsiones para 2026</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "РФ отримала ракети від КНДР і посилить атаки - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4898757-rf-otrymala-rakety-vid-kndr-i-posylyt-ataky-zmi",
+    "pubDate": "2026-07-30 20:23:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513688.jpg\">Джерело Reuters заявило, що вже зараз упевнене у північнокорейському походженні зброї, яка вбила сім'ю в Радушному.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Última hora de la entrada masiva a Ceuta, en directo | Miles de jóvenes llegan a la valla de Marruecos",
     "link": "https://www.elperiodico.com/es/politica/20260730/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312",
     "pubDate": "2026-07-30 20:16:00",
@@ -167,6 +311,15 @@
     "pubDate": "2026-07-30 19:30:00",
     "category": "",
     "description": "<h2 class=\"item\">La Organización de Consumidores y Usuarios desaconseja este tipo de tarjetas porque son caras y pueden favorecer el endeudamiento permanente </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260505/ocu-pago-duplicado-guia-como-actuar-devolucion-dinero-dv-129582646\">La OCU lo aclara: si te duplican un cargo en la tarjeta de crédito puedes reclamar así</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francia empieza a recuperar el pulso tras los incendios: 84.000 evacuados vuelven a casa en Burdeos",
+    "link": "https://www.elperiodico.com/es/internacional/20260730/francia-empieza-recuperar-normalidad-incendios-burdeos-132969526",
+    "pubDate": "2026-07-30 19:27:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El fuego ha arrasado más de 117.000 hectáreas</h2><h2 class=\"item\">Las autoridades se mantienen en alerta ante la nueva ola de calor  </h2>",
     "topic": "",
     "topic_match_probability": 0
   },
