@@ -1,8 +1,13 @@
-# News for 2026-07-30 17:21
+# News for 2026-07-30 18:57
 
 Previous day: [2026-07-29](./data/2026-07-29.md)
 
 ## ua.korrespondent.net
+18:33 [Обміління Дунаю змушує Угорщину закрити єдину АЕС](https://ua.korrespondent.net/world/4898728-obmilinnia-dunaui-zmushuie-uhorschynu-zakryty-yedynu-aes)<br>
+18:19 [МАГАТЕ занепокоєне: на ЗАЕС перебої з інтернетом і водою](https://ua.korrespondent.net/ukraine/4898729-mahate-zanepokoiene-na-zaes-pereboi-z-internetom-i-vodoui)<br>
+18:03 [Офіційний курс долара прискорив зниження](https://ua.korrespondent.net/business/financial/4898720-ofitsiinyi-kurs-dolara-pryskoryv-znyzhennia)<br>
+17:43 [Посадовцям колонії на Буковині інкримінують торгівлю людьми](https://ua.korrespondent.net/ukraine/4898715-posadovtsiam-kolonii-na-bukovyni-inkryminuuit-torhivlui-luidmy)<br>
+17:39 [Затримано виконавців двох терактів у Одесі](https://ua.korrespondent.net/city/odessa/4898713-zatrymano-vykonavtsiv-dvokh-teraktiv-u-odesi)<br>
 17:18 [Нацбанк покращив прогноз зростання ВВП](https://ua.korrespondent.net/business/economics/4898704-natsbank-pokraschyv-prohnoz-zrostannia-vvp)<br>
 16:59 [Вогонь охопив Крит: у Греції загинули пожежники, евакуйовано 8000 людей](https://ua.korrespondent.net/world/4898699-vohon-okhopyv-kryt-u-hretsii-zahynuly-pozhezhnyky-evakuiovano-8000-luidei)<br>
 16:48 [Постраждали 300 будівель: росіяни атакували село на Житомирщині](https://ua.korrespondent.net/ukraine/4898693-postrazhdaly-300-budivel-rosiiany-atakuvaly-selo-na-zhytomyrschyni)<br>
@@ -94,10 +99,23 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 00:19 [В Києві прогриміла серія потужних вибухів](https://ua.korrespondent.net/city/kiev/4898428-v-kyievi-prohrymila-seriia-potuzhnykh-vybukhiv)<br>
 
 ## as.com
+18:07 [De la pesadilla al milagro: España remonta ante Grecia](https://as.com/baloncesto/mas_baloncesto/de-la-pesadilla-al-milagro-espana-remonta-ante-grecia-f202607-n/)<br>
+17:36 [La magia de Ricky Rubio no se apaga](https://as.com/baloncesto/acb/la-magia-de-ricky-rubio-no-se-apaga-f202607-n/)<br>
 07:37 [Las tres opciones del Madrid y Ndiaye](https://as.com/baloncesto/acb/las-tres-opciones-del-madrid-y-ndiaye-f202607-n/)<br>
 07:36 [Golpe de autoridad del Panathinaikos: se hace con Sylvain Francisco](https://as.com/baloncesto/euroliga/golpe-de-autoridad-del-panathinaikos-se-hace-con-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:45 [Un municipio en provincia de Barcelona registra la máxima más alta de toda España en un jueves donde más de la mitad del país ha superado los 35 ºC](https://www.elperiodico.com/es/sociedad/20260730/jueves-ola-de-calor-maxima-mas-alta-barcelona-cataluna-espana-132966500)<br>
+18:30 [Festival Grec 2026: diez claves de una celebración a medio gas](https://www.elperiodico.com/es/ocio-y-cultura/20260730/festival-grec-2026-10-claves-celebracion-132965291)<br>
+18:27 [Catalunya estrena su gran escaparate del videojuego: 14.000 metros cuadrados para el SAGA Barcelona Game Fest](https://www.elperiodico.com/es/economia/20260730/catalunya-estrena-gran-escaparate-videojuego-132963163)<br>
+18:09 [Dos policías locales de El Prat salvan a un bebé que se estaba ahogando con un trozo de pan](https://www.elperiodico.com/es/barcelona/20260730/policias-locales-prat-salvan-bebe-132965969)<br>
+18:08 [Menos incendios, pero más riesgo: el sur de Europa entra en una nueva fase de peligro por la crudeza de los incendios forestales](https://www.elperiodico.com/es/tendencias21/20260730/incendios-riesgo-sur-europa-entra-132966486)<br>
+18:04 [Puig incrementa ventas pero reduce ganancias en el primer semestre del año](https://www.elperiodico.com/es/economia/20260730/resultado-puig-primer-semestre-2026-puig-gana-260-millones-primer-semestre-132966302)<br>
+18:01 [Ni infección de orina ni problema ginecológico: estos son los síntomas que pueden alertar de un cáncer de vejiga](https://www.elperiodico.com/es/videos/sanidad/infeccion-orina-problema-ginecologico-son/132966035.shtml)<br>
+18:01 [Mueren dos menores en un incendio en una vivienda en Benalmádena](https://www.elperiodico.com/es/videos/sucesos/mueren-dos-menores-incendio-vivienda-benalmadena/132966066.shtml)<br>
+17:39 [Inspeccionan desde el aire los daños causados por los incendios en la Sierra Oeste](https://www.elperiodico.com/es/videos/sucesos/inspeccionan-aire-danos-causados-incendios/132964833.shtml)<br>
+17:36 [Una casa se ve gravemente afectada por las llamas en Fornillos de Fermoselle](https://www.elperiodico.com/es/videos/sociedad/casa-queda-calcinada-llamas-fornillos/132965012.shtml)<br>
+17:30 [Crítica de 'Mother Mary': Una fantasía con música, espiritismo y alta costura, tan excesiva como subyugante, tan sobrecargada como íntima](https://www.elperiodico.com/es/ocio-y-cultura/20260730/critica-mother-mary-fantasia-musica-132951659)<br>
 17:15 [Persecución policial tras tres incendios provocados junto a la C-32 en Mataró](https://www.elperiodico.com/es/videos/barcelona/persecucion-policial-tres-incendios-provocados/132962120.shtml)<br>
 17:09 [Un juzgado rechazó alejar de sus hijos a la mujer asesinada por su pareja en Barcelona tras una denuncia por maltrato](https://www.elperiodico.com/es/sucesos/20260730/juzgado-denego-alejar-mujer-asesinada-pareja-barcelona-hijos-menores-132963202)<br>
 17:00 [Los factores climáticos que aumentan el riesgo de incendios extremos en España han aumentado un 50% en menos de medio siglo](https://www.elperiodico.com/es/sociedad/20260730/factores-climaticos-aumentan-riesgo-incendios-espana-estudio-132956339)<br>

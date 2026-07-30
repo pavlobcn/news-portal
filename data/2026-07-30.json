@@ -1,5 +1,329 @@
 [
   {
+    "title": "Policías y guardias civiles denuncian que los agentes destinados en Ceuta están \"al límite\"",
+    "link": "https://www.elperiodico.com/es/politica/20260730/policias-guardias-civiles-denuncian-agentes-132968450",
+    "pubDate": "2026-07-30 18:55:41",
+    "category": "",
+    "description": "<h2> Exigen que se modifique la Ley de Extranjería para que las 'devoluciones en caliente' se apliquen también a las entradas a nado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Luz verde al plan para construir 3.000 nuevas viviendas en Mollet del Vallès, la mitad protegidas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260730/mollet-aprueba-plan-urbanistico-3-nuevo-poum-3-mil-nuevas-viviendas-132967170",
+    "pubDate": "2026-07-30 18:53:28",
+    "category": "",
+    "description": "<h2>El nuevo POUM prevé que Mollet alcance los 58.500 habitantes en 2040 y apuesta por un crecimiento compacto, sostenible y con más vivienda protegida</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260609/rubi-7000-nuevas-viviendas-crecimiento-demografico-9-000-vecinos-proxima-decada-131181643\" target=\"_blank\">Rubí proyecta 7.000 nuevas viviendas para encarar un crecimiento demográfico de 9.000 vecinos la próxima década</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/mollet-del-valles/20241114/mollet-valles-detiene-proyecto-urbanizacion-111682190\" target=\"_blank\">Mollet del Vallès detiene el proyecto de urbanización en el Calderí por riesgo de inundación tras la DANA de Valencia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un municipio en provincia de Barcelona registra la máxima más alta de toda España en un jueves donde más de la mitad del país ha superado los 35 ºC",
+    "link": "https://www.elperiodico.com/es/sociedad/20260730/jueves-ola-de-calor-maxima-mas-alta-barcelona-cataluna-espana-132966500",
+    "pubDate": "2026-07-30 18:45:59",
+    "category": "",
+    "description": "<h2 class=\"item\">La localidad de Sant Julià de Vilatorta, cerca del Montseny, ha alcanzado este jueves máximas de 42,6 grados marcando así la cifra más alta de la jornada en el conjunto del país</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260729/espana-ola-calor-prevision-aemet-132891043\">España se adentra este miércoles en otra ola de calor que pone en jaque la lucha contra los incendios en Madrid y Castellón</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo exige \"recuperar el control\" y movilizar al Ejército en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-exige-recuperar-control-ceuta/132968074.shtml",
+    "pubDate": "2026-07-30 18:45:50",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський призначив нового голову Київської ОДА",
+    "link": "https://ua.korrespondent.net/city/kiev/4898734-zelenskyi-pryznachyv-novoho-holovu-kyivskoi-oda",
+    "pubDate": "2026-07-30 18:35:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513615.jpg\">Тимур Ткаченко, який раніше очолював Київську міську військову адміністрацію, став головою Київської обласної державної адміністрації.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Multivan y California se inspiran en la Volkswagen ID. Buzz para su reciente renovación",
+    "link": "https://www.elperiodico.com/es/motor/20260730/renovacion-multivan-california-inspiran-volkswagen-id-buzz-132964406",
+    "pubDate": "2026-07-30 18:33:49",
+    "category": "",
+    "description": "<h2>Ambos modelos estrenan un frontal más reconocible, un sistema multimedia de 12,9 pulgadas y un Travel Assist ampliado</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Обміління Дунаю змушує Угорщину закрити єдину АЕС",
+    "link": "https://ua.korrespondent.net/world/4898728-obmilinnia-dunaui-zmushuie-uhorschynu-zakryty-yedynu-aes",
+    "pubDate": "2026-07-30 18:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513600.png\">Станція, котра забезпечує майже половину виробництва електроенергії в Угорщині, може припинити роботу протягом 24-72 годин.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detectado un nuevo caso de peste porcina africana, que eleva el total de positivos a 373",
+    "link": "https://www.elperiodico.com/es/sociedad/20260730/nuevo-caso-peste-porcina-africana-373-positivos-132967250",
+    "pubDate": "2026-07-30 18:30:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Las capturas de jabalíes dentro de la zona infectada superan las 9.807 desde el inicio del brote</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260528/industria-carnica-catalana-crecen-exportaciones-corea-vietnam-peste-porcina-130741348\" >La industria cárnica catalana vende un 128% más a Corea y un 257% más a Vietnam en plena crisis de la peste porcina</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Festival Grec 2026: diez claves de una celebración a medio gas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260730/festival-grec-2026-10-claves-celebracion-132965291",
+    "pubDate": "2026-07-30 18:30:29",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260730/grec-2026-aumenta-balance-espectadores-ocupacion-132956363\">El Grec 2026 aumenta su público hasta los 143.000 espectadores, pero baja al 71% de ocupación</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya estrena su gran escaparate del videojuego: 14.000 metros cuadrados para el SAGA Barcelona Game Fest",
+    "link": "https://www.elperiodico.com/es/economia/20260730/catalunya-estrena-gran-escaparate-videojuego-132963163",
+    "pubDate": "2026-07-30 18:27:22",
+    "category": "",
+    "description": "<h2>El nuevo salón, que se celebrará del 9 al 11 de octubre en Montjuïc con más de 80 actividades y tiene confirmada la presencia de estudios internacionales como Larian, Devolver Digital o Gameloft </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rusia se plantea abrir una embajada en Andorra",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rusia-plantea-abrir-embajada-andorra/132967137.shtml",
+    "pubDate": "2026-07-30 18:23:56",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "МАГАТЕ занепокоєне: на ЗАЕС перебої з інтернетом і водою",
+    "link": "https://ua.korrespondent.net/ukraine/4898729-mahate-zanepokoiene-na-zaes-pereboi-z-internetom-i-vodoui",
+    "pubDate": "2026-07-30 18:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513602.jpg\">За словами Гроссі, тривале відключення інтернету та проблеми з водопостачанням ускладнюють роботу станції і створюють додаткові загрози для ядерної безпеки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos policías locales de El Prat salvan a un bebé que se estaba ahogando con un trozo de pan",
+    "link": "https://www.elperiodico.com/es/barcelona/20260730/policias-locales-prat-salvan-bebe-132965969",
+    "pubDate": "2026-07-30 18:09:24",
+    "category": "",
+    "description": "<h2>El Servei d'Emergències Mèdiques constató que la labor de los agentes fue determinante para evitar que el crío de un año muriera</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260730/juzgado-denego-alejar-mujer-asesinada-pareja-barcelona-hijos-menores-132963202\" target=\"_blank\">El juez rechazó alejar de sus hijos a la mujer asesinada en Barcelona tras la denuncia por maltrato de su marido</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Menos incendios, pero más riesgo: el sur de Europa entra en una nueva fase de peligro por la crudeza de los incendios forestales",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260730/incendios-riesgo-sur-europa-entra-132966486",
+    "pubDate": "2026-07-30 18:08:03",
+    "category": "",
+    "description": "<h2>Un estudio advierte que las condiciones meteorológicas favorables al fuego se han duplicado con creces desde 1981 en la Península Ibérica, Francia, Italia y Grecia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la pesadilla al milagro: España remonta ante Grecia",
+    "link": "https://as.com/baloncesto/mas_baloncesto/de-la-pesadilla-al-milagro-espana-remonta-ante-grecia-f202607-n/",
+    "pubDate": "2026-07-30 18:07:04",
+    "category": "Baloncesto",
+    "description": "Victoria épica de la Selección por 69-66 ante los helenos en cuartos de final tras levantar 29 puntos de desventaja.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Європа прискорила перехід на електрокари",
+    "link": "https://ua.korrespondent.net/business/auto/4898723-yevropa-pryskoryla-perekhid-na-elektrokary",
+    "pubDate": "2026-07-30 18:07:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513584.jpg\">МЕА очікує, що у 2026 році частка електрокарів у продажах нових авто досягне 29%.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Puig incrementa ventas pero reduce ganancias en el primer semestre del año",
+    "link": "https://www.elperiodico.com/es/economia/20260730/resultado-puig-primer-semestre-2026-puig-gana-260-millones-primer-semestre-132966302",
+    "pubDate": "2026-07-30 18:04:31",
+    "category": "",
+    "description": "<h2>La empresa eleva un 4% sus ingresos hasta los 2.300 millones de euros, un porcentaje más discreto que otros años por la debilidad del dólar estadounidense y la situación en Oriente Medio</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260529/puig-zanja-matices-fusion-estee-lauder-no-estamos-en-venta-130796701\" target=\"_blank\">Puig zanja la fusión con Estée Lauder: \"No estamos en venta, la familia permanecerá como accionista a largo plazo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UEFA estalla y anuncia un boicot contra la FIFA: \"La Copa del Mundo no está en venta\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260730/uefa-retira-competiciones-fifa-copa-132965752",
+    "pubDate": "2026-07-30 18:03:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El organismo europeo asegura que ninguna de sus 55 federaciones participarán en torneos de la FIFA hasta que Infantino deje sin efecto su propuesta de privatizar el Mundial.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260730/propuesta-infantino-privatizar-mundial-cifras-fifa-132961557\" target=\"_blank\">La propuesta de Infantino para privatizar el Mundial, en cifras</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Офіційний курс долара прискорив зниження",
+    "link": "https://ua.korrespondent.net/business/financial/4898720-ofitsiinyi-kurs-dolara-pryskoryv-znyzhennia",
+    "pubDate": "2026-07-30 18:03:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513587.jpg\">На міжбанківському ринку американська валюта впала на 18 копійок і тепер перебуває на рівні 44,68-44,71 грн/долар купівля-продаж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni infección de orina ni problema ginecológico: estos son los síntomas que pueden alertar de un cáncer de vejiga",
+    "link": "https://www.elperiodico.com/es/videos/sanidad/infeccion-orina-problema-ginecologico-son/132966035.shtml",
+    "pubDate": "2026-07-30 18:01:37",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mueren dos menores en un incendio en una vivienda en Benalmádena",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/mueren-dos-menores-incendio-vivienda-benalmadena/132966066.shtml",
+    "pubDate": "2026-07-30 18:01:07",
+    "category": "",
+    "description": "La madre pudo ser rescatada y trasladada a un hospital, donde sigue con pronóstico grave. Hay un bombero herido y varios efectivos afectados por inhalación de humo",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La propuesta de Infantino para privatizar el Mundial, en cifras",
+    "link": "https://www.elperiodico.com/es/deportes/20260730/propuesta-infantino-privatizar-mundial-cifras-fifa-132961557",
+    "pubDate": "2026-07-30 18:00:09",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260728/inantino-estudia-vender-participaciones-mundial-fifa-132892794\" >Infantino estudia crear una empresa para gestionar y vender acciones del Mundial</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260729/propuesta-privatizacion-mundial-fifa-infantino-claves-132914312\" >El plan de Infantino de privatizar el Mundial pone en pie de guerra al mundo del fútbol</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран пригрозив Болгарії та Кіпру через співпрацю зі США",
+    "link": "https://ua.korrespondent.net/world/4898719-iran-pryhrozyv-bolharii-ta-kipru-cherez-spivpratsui-zi-ssha",
+    "pubDate": "2026-07-30 17:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513585.jpg\">Іранське МЗС попередило країни про неприпустимість використання їхніх баз у діях проти Тегерану.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Польща заборонила смартфони у школах: що зміниться з вересня",
+    "link": "https://ua.korrespondent.net/world/4898717-polscha-zaboronyla-smartfony-u-shkolakh-scho-zminytsia-z-veresnia",
+    "pubDate": "2026-07-30 17:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513583.jpg\">Президент Польщі Кароль Навроцький підписав закон, який обмежує використання смартфонів у школах і дитячих садках. Нові правила почнуть діяти з 1 вересня 2026 року.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Abascal culpa a Sánchez de la \"invasión\" en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/abascal-culpa-sanchez-invasion-ceuta/132965281.shtml",
+    "pubDate": "2026-07-30 17:46:22",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rusia se plantea abrir una embajada en Andorra",
+    "link": "https://www.elperiodico.com/es/internacional/20260730/rusia-embajada-andorra-132965393",
+    "pubDate": "2026-07-30 17:45:59",
+    "category": "",
+    "description": "<h2>Ninguno de los dos países confirman ni desmienten esta posibilidad, que, de materializarse, se produciría en un momento en que la UE limita la presencia de diplomáticos rusos en su territorio por considerarlos una \"amenaza\" para la seguridad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Паливна криза в РФ поглиблюється: Москва продовжила обмеження",
+    "link": "https://ua.korrespondent.net/world/russia/4898711-palyvna-kryza-v-rf-pohlybluiietsia-moskva-prodovzhyla-obmezhennia",
+    "pubDate": "2026-07-30 17:45:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513555.jpg\"> У Кремлі пояснюють рішення необхідністю стабілізувати внутрішній паливний ринок на тлі проблем із виробництвом.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Посадовцям колонії на Буковині інкримінують торгівлю людьми",
+    "link": "https://ua.korrespondent.net/ukraine/4898715-posadovtsiam-kolonii-na-bukovyni-inkryminuuit-torhivlui-luidmy",
+    "pubDate": "2026-07-30 17:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513566.jpg\">У разі доведення вини фігурантам може загрожувати до 12 років позбавлення волі з конфіскацією майна або без неї.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Unión Europea abre la convocatoria de 10.000 millones de euros para la gigafactoría de IA a la que Catalunya aspira",
+    "link": "https://www.elperiodico.com/es/internacional/20260730/union-europea-abre-convocatoria-millones-gigafactoria-ia-catalunya-soberania-centro-datos-tarragona-mora-nova-132965165",
+    "pubDate": "2026-07-30 17:39:59",
+    "category": "",
+    "description": "<h2>Bruselas pone en marcha la convocatoria para impulsar hasta siete instalaciones en todo el continente con la que potenciar la capacidad informática local y movilizar más de 30.000 millones de inversiones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Inspeccionan desde el aire los daños causados por los incendios en la Sierra Oeste",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/inspeccionan-aire-danos-causados-incendios/132964833.shtml",
+    "pubDate": "2026-07-30 17:39:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Затримано виконавців двох терактів у Одесі",
+    "link": "https://ua.korrespondent.net/city/odessa/4898713-zatrymano-vykonavtsiv-dvokh-teraktiv-u-odesi",
+    "pubDate": "2026-07-30 17:39:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513565.jpg\">Зловмисники заклали саморобні бомби під автомобілі українського воїна та цивільного одесита.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La magia de Ricky Rubio no se apaga",
+    "link": "https://as.com/baloncesto/acb/la-magia-de-ricky-rubio-no-se-apaga-f202607-n/",
+    "pubDate": "2026-07-30 17:36:36",
+    "category": "Baloncesto",
+    "description": "El base, que todavía no había desvelado si se retiraba o seguiría jugando, continuará en la Penya la próxima temporada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una casa se ve gravemente afectada por las llamas en Fornillos de Fermoselle",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/casa-queda-calcinada-llamas-fornillos/132965012.shtml",
+    "pubDate": "2026-07-30 17:36:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crítica de 'Mother Mary': Una fantasía con música, espiritismo y alta costura, tan excesiva como subyugante, tan sobrecargada como íntima",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260730/critica-mother-mary-fantasia-musica-132951659",
+    "pubDate": "2026-07-30 17:30:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ексміністр Соболев отримав нову посаду в Офісі президента",
+    "link": "https://ua.korrespondent.net/ukraine/4898705-eksministr-sobolev-otrymav-novu-posadu-v-ofisi-prezydenta",
+    "pubDate": "2026-07-30 17:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513541.jpg\">Новий посадовець зосередиться на економічному напрямі та підготовці плану відновлення України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Польща розгляне передачу Україні додаткових ракет для Patriot - Туск",
+    "link": "https://ua.korrespondent.net/world/4898709-polscha-rozghliane-peredachu-ukraini-dodatkovykh-raket-dlia-Patriot-tusk",
+    "pubDate": "2026-07-30 17:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513553.jpg\">Після порушення польського повітряного простору російською ракетою Х-101 Варшава розгляне можливість надати Україні додаткові ракети для систем Patriot.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Нацбанк покращив прогноз зростання ВВП",
     "link": "https://ua.korrespondent.net/business/economics/4898704-natsbank-pokraschyv-prohnoz-zrostannia-vvp",
     "pubDate": "2026-07-30 17:18:00",
@@ -250,6 +574,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513491.jpg\">Відомий американський актор та його сім'я були серед понад 600 людей, яких евакуювали через масштабну лісову пожежу в департаменті Вар на півдні Франції.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Caprabo cierra 2025 con 822 millones de euros en ventas, un 3% más, y 16 nuevas tiendas",
+    "link": "https://www.elperiodico.com/es/economia/20260730/caprabo-cierra-2025-822-millones-132962048",
+    "pubDate": "2026-07-30 16:23:23",
+    "category": "",
+    "description": "<h2>En el primer semestre del ejercicio la cadena ha abierto otras ocho tiendas</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
   },
   {
     "title": "У Слуги народу змінився склад фракції: ЦВК зареєструвала нових депутатів",
