@@ -1,8 +1,13 @@
-# News for 2026-07-30 06:18
+# News for 2026-07-30 08:15
 
 Previous day: [2026-07-29](./data/2026-07-29.md)
 
 ## ua.korrespondent.net
+07:59 [Генштаб оцінив ситуацію на фронті](https://ua.korrespondent.net/tech/4898465-henshtab-otsinyv-sytuatsiui-na-fronti)<br>
+07:24 [Удар по Полтавщині: загинула людина, спалахнув термінал Нової пошти](https://ua.korrespondent.net/ukraine/4898461-udar-po-poltavschyni-zahynula-luidyna-spalakhnuv-terminal-novoi-poshty)<br>
+06:58 [Генштаб підрахував нові втрати росіян](https://ua.korrespondent.net/ukraine/4898457-henshtab-pidrakhuvav-novi-vtraty-rosiian)<br>
+06:42 [Атака на Львів: кількість постраждалих зросла до 15 людей](https://ua.korrespondent.net/city/lvov/4898454-ataka-na-lviv-kilkist-postrazhdalykh-zrosla-do-15-luidei)<br>
+06:23 [Удар по Київщині: постраждали п'ятеро людей, серед них дитина](https://ua.korrespondent.net/ukraine/4898452-udar-po-kyivschyni-postrazhdaly-piatero-luidei-sered-nykh-dytyna)<br>
 05:34 [Удар по Львову: госпіталізовано п'ятьох людей](https://ua.korrespondent.net/city/lvov/4898450-udar-po-lvovu-hospitalizovano-piatokh-luidei)<br>
 04:37 [Ракети РФ досягли Львова: є "прильоти"](https://ua.korrespondent.net/city/lvov/4898446-rakety-rf-dosiahly-lvova-ye-pryloty)<br>
 03:59 [Польща підняла винищувачі через атаку РФ на Україну](https://ua.korrespondent.net/world/worldabus/4898444-polscha-pidniala-vynyschuvachi-cherez-ataku-rf-na-ukrainu)<br>
@@ -13,7 +18,16 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 00:44 [ШІ-агент Open AI вийшов з під контролю і зламав системи двох компаній](https://ua.korrespondent.net/world/4898430-shi-ahent-Open-AI-vyishov-z-pid-kontrolui-i-zlamav-systemy-dvokh-kompanii)<br>
 00:19 [В Києві прогриміла серія потужних вибухів](https://ua.korrespondent.net/city/kiev/4898428-v-kyievi-prohrymila-seriia-potuzhnykh-vybukhiv)<br>
 
+## as.com
+07:37 [Las tres opciones del Madrid y Ndiaye](https://as.com/baloncesto/acb/las-tres-opciones-del-madrid-y-ndiaye-f202607-n/)<br>
+07:36 [Golpe de autoridad del Panathinaikos: se hace con Sylvain Francisco](https://as.com/baloncesto/euroliga/golpe-de-autoridad-del-panathinaikos-se-hace-con-sylvain-francisco-f202607-n/)<br>
+
 ## www.elperiodico.com
+08:10 [Este es Gia, 8 años, que huyó de su país tras una situación de violencia vicaria](https://www.elperiodico.com/es/sociedad/20260730/gia-8-anos-huyo-pais-132942154)<br>
+08:05 [Última hora de los incendios en España, en directo | Dos desalojos más por el incendio forestal de Zamora, combatido por 50 medios por la noche](https://www.elperiodico.com/es/sociedad/20260730/ultima-hora-incendios-espana-directo-132759066)<br>
+08:01 [Clamor ciudadano para exigir un protocolo nacional de rescate animal en catástrofes como incendios](https://www.elperiodico.com/es/sociedad/20260730/clamor-ciudadano-exigir-protocolo-nacional-132941959)<br>
+07:43 [Suben a 30 los muertos por el terremoto de magnitud 7,1 en el sudoeste de Japón](https://www.elperiodico.com/es/internacional/20260730/suben-30-muertos-terremoto-magnitud-132941821)<br>
+07:32 [BBVA supera los 6.051 millones de beneficio, un 11,1% más, gracias al tirón de México](https://www.elperiodico.com/es/economia/20260730/bbva-supera-6-051-millones-132941725)<br>
 06:02 [B de Barcelona, el oasis de "souvenirs bonitos" y locales a los pies de la Sagrada Família](https://www.elperiodico.com/es/barcelona/20260730/tienda-souvenirs-bonitos-locales-oasis-avenida-gaudi-132839964)<br>
 06:01 [Manchester logra reducir en un 96% las hospitalizaciones psiquiátricas y acercar al paciente a su entorno](https://www.elperiodico.com/es/ser-feliz/20260730/manchester-logra-reducir-96-hospitalizaciones-131232355)<br>
 05:57 [Incendios forestales en Madrid, Ávila, Toledo y Vall d'Uixó, en directo: última hora de la situación de los fuegos activos y carreteras cortadas](https://www.elperiodico.com/es/sociedad/20260730/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
