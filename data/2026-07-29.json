@@ -927,6 +927,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-07-29 17:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "На південному заході Японії стався потужний землетрус",
     "link": "https://ua.korrespondent.net/world/4898350-na-pivdennomu-zakhodi-yaponii-stavsia-potuzhnyi-zemletrus",
     "pubDate": "2026-07-29 17:38:00",
@@ -3186,6 +3195,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Mercado de fichajes, 2026, EuroLeague: todos los movimientos",
+    "link": "https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-29 08:14:20",
+    "category": "Mercado Euroliga",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Euroliga este verano de 2026.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Півзахисник Реала продовжить кар'єру в Фулгемі",
     "link": "https://ua.korrespondent.net/sport/football/4898129-pivzakhysnyk-reala-prodovzhyt-karieru-v-fulhemi",
     "pubDate": "2026-07-29 08:14:00",
@@ -3272,6 +3290,15 @@
     "pubDate": "2026-07-29 08:05:00",
     "category": "",
     "description": "<h2 class=\"item\">El Gobierno ha aprobado la declaración de zonas gravemente afectadas por los fuegos</h2><h2 class=\"item\">El Ministerio del Interior levanta la orden de evacuación de diez municipios en Madrid y otros cinco en Ávila</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercado de fichajes, 2026, Liga Endesa: todos los movimientos",
+    "link": "https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-07-29 08:03:29",
+    "category": "Mercado ACB",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Liga este verano de 2026.",
     "topic": "",
     "topic_match_probability": 0
   },
