@@ -1,5 +1,338 @@
 [
   {
+    "title": "Туск прокоментував падіння російської ракети у Польщі",
+    "link": "https://ua.korrespondent.net/world/4898640-tusk-prokomentuvav-padinnia-rosiiskoi-rakety-u-polschi",
+    "pubDate": "2026-07-30 14:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513406.jpg\">Знайдені уламки вказують на російську крилату ракету Х-101. Розміри вирви - близько 10 метрів у діаметрі та до 5 метрів завглибшки - свідчать про значну силу вибуху.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дурова внесли до переліку терористів та екстремістів у Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4898638-durova-vnesly-do-pereliku-terorystiv-ta-ekstremistiv-u-rosii",
+    "pubDate": "2026-07-30 14:51:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513405.jpg\">Включення до списку терористів і екстремістів Росфінмоніторингу тягне за собою ряд обмежень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ceuta reclama el cierre de la frontera por la llegada de miles de jóvenes a la valla con Marruecos",
+    "link": "https://www.elperiodico.com/es/politica/20260730/sanchez-marlaska-ceuta-jovenes-valla-marroquies-132959112",
+    "pubDate": "2026-07-30 14:48:17",
+    "category": "",
+    "description": "<h2>Sánchez envía a Grande-Marlaska tras hablar con el presidente de la Ciudad Autónoma</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido por agredir a su pareja en Málaga y atrincherarse en la azotea cuatro horas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260730/detenido-agredir-pareja-malaga-atrincherarse-132959119",
+    "pubDate": "2026-07-30 14:47:10",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Антиукраїнські висловлювання: у Польщі депутат отримав найсуворішу догану",
+    "link": "https://ua.korrespondent.net/world/4898633-antyukrainski-vyslovluivannia-u-polschi-deputat-otrymav-naisuvorishu-dohanu",
+    "pubDate": "2026-07-30 14:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513394.jpg\">Комісія з етики Сейму Польщі оголосила догану депутату партії Право і справедливість Пшемиславу Чарнеку через його антиукраїнські висловлювання. Це найсуворіше дисциплінарне покарання, передбачене парламентським регламентом.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Grec 2026 aumenta hasta 143.000 espectadores pero baja a 71% la ocupación",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260730/grec-2026-aumenta-143-000-132956363",
+    "pubDate": "2026-07-30 14:42:01",
+    "category": "",
+    "description": "<h2>La programación en el epicentro del festival en Montjuïc triunfa pero no tanto la variada propuesta global repartida por el resto de la ciudad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pueblo famoso por el vino en el que nació Luis de la Fuente: atravesado por el Ebro y pionero en España",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260730/pueblo-famoso-vino-nacio-luis-fuente-dv-et-132958768",
+    "pubDate": "2026-07-30 14:40:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Este municipio riojano fue junto a Jerez de la Frontera uno de los primeros en tener alumbrado público</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260723/fuente-gustaria-recordado-buen-tio-132707196\">De la Fuente: \"Me gustaría ser recordado como un buen tío, solo eso\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El centro médico Teknon de Barcelona, primero en España en usar una técnica que detecta en tiempo real las alergias alimentarias ocultas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/centro-medico-teknon-barcelona-primero-espana-tecnica-detecta-tiempo-real-alergias-alimentarias-ocultas-video/132958596.shtml",
+    "pubDate": "2026-07-30 14:38:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La roca de Stonehenge de seis toneladas pudo llegar desde Escocia sobre un glaciar",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260730/roca-stonehenge-seis-toneladas-pudo-132958516",
+    "pubDate": "2026-07-30 14:32:10",
+    "category": "",
+    "description": "<h2>Una investigación plantea que la Piedra del Altar viajó primero sobre hielo hasta Dogger Bank y después fue movida por humanos hasta Stonehenge</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El error que puede provocar dolor de espalda durante un viaje largo y cómo evitarlo",
+    "link": "https://www.elperiodico.com/es/salud/20260730/error-provocar-dolor-espalda-durante-viajes-132958297",
+    "pubDate": "2026-07-30 14:24:26",
+    "category": "",
+    "description": "<h2>La Sociedad Española de Columna Vertebral (GEER) recomienda pequeños cambios de posición y pausas regulares para evitar molestias lumbares y cervicales durante los trayectos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tellado, sobre la polémica por el ático de Ayuso: \"El Gobierno ha pagado pisos a sobrinas de ministros\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/tellado-polemica-atico-ayuso-gobierno-pisos-sobrinas-ministros/132958007.shtml",
+    "pubDate": "2026-07-30 14:20:49",
+    "category": "",
+    "description": "El PP asegura que la razón de la compra de un ático por la Comunidad de Madrid es la obra integral en la sede de la Presidencia del Gobierno autonómico",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así combaten casi 40 grados los osos polares del zoo de Praga: las imágenes lo dicen todo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/calor-osos-polares-oso-ola-grados-40-praga-polar-video/132957673.shtml",
+    "pubDate": "2026-07-30 14:18:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Xavi Abat, abogado: \"Estas son 12 cosas que tienes que saber sobre tus vacaciones\"",
+    "link": "https://www.elperiodico.com/es/economia/20260730/xavi-abat-abogado-derechos-laborales-12-cosas-vacaciones-dv-132954658",
+    "pubDate": "2026-07-30 14:16:04",
+    "category": "",
+    "description": "<h2>El abogado Xavi Abat detalla los derechos de los trabajadores sobre sus periodos de descanso, así como algunas limitaciones que deben conocer</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260714/solo-46-por-ciento-autonomos-ira-vacaciones-verano-dv-132429857\" target=\"_blank\">Solo el 46% de los autónomos se irá de vacaciones este verano y uno de cada cinco lleva más de tres años sin descansar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атпака БпЛА: один із найбільших НПЗ Лукойлу втратив третину потужностей",
+    "link": "https://ua.korrespondent.net/world/russia/4898623-atpaka-bpla-odyn-iz-naibilshykh-npz-lukoilu-vtratyv-tretynu-potuzhnostei",
+    "pubDate": "2026-07-30 14:16:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513383.jpg\">Пермнефтеоргсинтез аварійно зупинив установку, що забезпечує понад третину переробних потужностей підприємства. Завод зміг частково компенсувати втрати за рахунок резервних ліній.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "НАТО відреагувало на заліт російської ракети в Польщу",
+    "link": "https://ua.korrespondent.net/world/4898622-nato-vidreahuvalo-na-zalit-rosiiskoi-rakety-v-polschu",
+    "pubDate": "2026-07-30 14:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513382.jpg\">Цієї  ночі  у  Люблінському  воєводстві  Польщі  упала  російська  крилата  ракета  Х-101.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una treintena de comerciantes quiere abrir una parada en el ‘mercado fantasma’ de Sabadell",
+    "link": "https://www.elperiodico.com/es/barcelona/20260730/mercado-fantasma-sabadell-atrae-treintena-locales-paradistas-campoamor-132954142",
+    "pubDate": "2026-07-30 14:12:49",
+    "category": "",
+    "description": "<h2>Las entidades vecinales piden al Ayuntamiento crear una oficina de asesoramiento para garantizar que el nuevo Mercat de Campoamor abra con todas sus paradas en funcionamiento</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260722/arranca-demolicion-mercado-fantasma-sabadell-campoamor-s-132702695\">Arranca la demolición del 'mercado fantasma' de Sabadell tres años después del anuncio de su transformación</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La solsonense de diez años que ha coronado el Mont Blanc: \"Si quieres conseguir un reto, necesitas mucho esfuerzo... y no siempre puedes llegar a la cima\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260730/solsonense-diez-anos-coronado-mont-blanc-reto-personal-dv-et-132950456",
+    "pubDate": "2026-07-30 14:09:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Júlia Nadal explica cómo ha vivido el ascenso al techo de los Alpes y qué ha aprendido durante los meses de preparación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Iván Redondo irrumpe en el sector defensa con la compra del 51% de la industrial vasca Norclamp",
+    "link": "https://www.elperiodico.com/es/economia/20260730/ivan-redondo-irrumpe-sector-defensa-compra-industrial-vasca-norclamp-132957181",
+    "pubDate": "2026-07-30 14:09:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La adquisición incorpora a Grupo Redondo cuatro plantas de producción, más de 60 máquinas y 7.500 metros cuadrados de superficie industrial. El conjunto de sus participadas supera ya los 21 millones de euros de facturación y los 100 empleados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere un hombre de 77 años atropellado por un coche en la ronda Litoral de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260730/muere-hombre-77-anos-atropellado-ronda-litoral-barcelona-132956549",
+    "pubDate": "2026-07-30 14:08:50",
+    "category": "",
+    "description": "<h2>Con esta víctima, ya son diez las personas que han perdido la vida en accidentes de tráfico en la ciudad este año</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Más medusas en las playas de Catalunya: qué provoca su llegada, dónde consultar el estado del mar y qué hacer si aparecen",
+    "link": "https://www.elperiodico.com/es/catalunya/20260730/medusas-playas-cataluna-expertos-dv-loc-132551022",
+    "pubDate": "2026-07-30 14:05:00",
+    "category": "",
+    "description": "<h2>Existe un motivo que se repite cada año y que aumenta la presencia de estos animales marinos</h2><h2><a href=\"https://www.elperiodico.com/es/tiempo/20260626/temperatura-record-agua-playa-barceloneta-mar-mediterraneo-dv-loc-131835104\">La temperatura del agua en la playa de la Barceloneta se dispara: cifra récord y registro excepcional para estas fechas</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/playas/20250710/buceo-snorkel-cataluna-animales-plantas-dv-91190810\" >Lista de 12 animales y plantas que puedes ver buceando en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tres eclipses en tres años: por qué esta década será irrepetible",
+    "link": "https://www.elperiodico.com/es/ciencia/20260730/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674",
+    "pubDate": "2026-07-30 14:02:00",
+    "category": "",
+    "description": "<h2 class=\"item\">En los años 2026-2028 habrá dos eclipses totales y uno anular que se podrán ver desde algún punto de nuestra geografía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260728/eclipse-sol-2026-horario-como-ver-gafas-dv-132838557\" >Eclipse solar 2026: horario, cuánto durará y mejores ciudades para verlo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260315/eclipse-solar-2027-mas-largo-siglo-como-donde-ver-espana-dv-127870269\" >El eclipse solar más largo del siglo llegará en 2027, durará más de 6 minutos y oscurecerá gran parte del planeta</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Veolia factura 1.500 millones en Iberia en el primer semestre, un 5,1% más",
+    "link": "https://www.elperiodico.com/es/economia/20260730/veolia-factura-1500-millones-iberia-primer-semestre-2026-resultados-132955095",
+    "pubDate": "2026-07-30 14:00:36",
+    "category": "",
+    "description": "<h2>El grupo obtiene un beneficio neto de 682 millones de euros en los seis primeros meses de 2025 y revisa al alza sus objetivos para este año tras el impulso del mercado español</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260622/veolia-acelera-apuesta-valorizacion-residuos-balance-semestre-2026-daniel-tugues-director-131684687\" target=\"_blank\">Veolia prevé invertir 1.000 millones de euros en España hasta 2030</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251203/veolia-unifica-marcas-espana-124396664\" target=\"_blank\">Veolia unifica sus marcas en España: absorbe Agbar pero mantiene el nombre a Aigües de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trànsit prueba una IA para detectar el uso del móvil y el cinturón en carretera",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/transit-prueba-ia-detectar-movil/132956560.shtml",
+    "pubDate": "2026-07-30 13:58:59",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un estudio asegura que los coches eléctricos son más baratos que hace cinco años, ¿también en España?",
+    "link": "https://www.elperiodico.com/es/motor/20260730/estudio-asegura-coches-electricos-mas-baratos-132944214",
+    "pubDate": "2026-07-30 13:57:59",
+    "category": "",
+    "description": "<h2>Las conclusiones apuntan que los coches eléctricos son un 18% más baratos que en 2020, aunque el precio medio de los vehículos vendido ha crecido.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP lleva al Congreso su plan contra los incendios y pide que el fuego \"no sea un elemento de confrontación\"",
+    "link": "https://www.elperiodico.com/es/politica/20260730/pp-lleva-congreso-plan-incendios-132956615",
+    "pubDate": "2026-07-30 13:56:53",
+    "category": "",
+    "description": "<h2>El Partido Popular llevará al Congreso su plan de cincuenta medidas contra los incendios mediante una Proposición no de Ley para su debate</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gabriel Rufián: \"Celebré el Mundial de España, una selección llena de catalanes y vascos. Se puede ser independentista e ir con España, canté todos los goles\"",
+    "link": "https://www.elperiodico.com/es/politica/20260730/gabriel-rufian-celebre-mundial-espana-independentista-catalanes-vascos-dv-et-132956366",
+    "pubDate": "2026-07-30 13:55:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El político de Esquerra Republicana de Catalunya compartió su punto de vista al respecto</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dictan una orden alejamiento de 200 metros para un hombre que increpó al alcalde de Salou en un pleno",
+    "link": "https://www.elperiodico.com/es/tarragona/20260730/orden-alejamiento-hombre-increpo-alcalde-salou-tarragona-132956229",
+    "pubDate": "2026-07-30 13:54:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Granados asegura que el individuo intentó \"alterar\" el desarrollo del pleno \"con una actitud desafiante, peligrosa y violenta\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260728/alquilo-balcon-mil-euros-dos-horas-eclipse-agosto-132778942\">\"Alquilo balcón de 5 m² en Salou por 1.000 euros durante dos horas\": el supereclipse dispara los precios en Tarragona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Imágenes de migrantes que acaban de pasar la frontera y han llegado a Ceuta a nado",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/imagenes-migrantes-acaban-pasar-frontera-llegar-ceuta-nado-video/132956341.shtml",
+    "pubDate": "2026-07-30 13:52:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Karol G anuncia nuevo disco 'No me arrepiento de sentir tanto' y su inminente fecha de lanzamiento",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260730/karol-g-nuevo-disco-fecha-titulo-132953998",
+    "pubDate": "2026-07-30 13:48:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La cantante se encuentra al inicio de su gira 'Viajando por el mundo. Tropitour', que finalizará en julio de 2027 y pasará por España</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран погрожує \"покарати агресора\" після хвилі ударів США",
+    "link": "https://ua.korrespondent.net/world/4898609-iran-pohrozhuie-pokaraty-ahresora-pislia-khvyli-udariv-ssha",
+    "pubDate": "2026-07-30 13:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513348.jpg\">Цілями можуть стати об’єкти критичної інфраструктури - аеропорти, електромережі, заводи з опріснення води та енергетичні об’єкти країн Перської затоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Prisión provisional para el detenido de 58 años por provocar el incendio de Carme, que arrasó más de 450 hectáreas",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/prision-provisional-detenido-58-anos/132955870.shtml",
+    "pubDate": "2026-07-30 13:43:28",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno de Ayuso pone a la venta el ático de Chamberí y destinará lo recaudado a la reconstrucción tras los incendios",
+    "link": "https://www.elperiodico.com/es/politica/20260730/gobierno-ayuso-pone-venta-atico-132955924",
+    "pubDate": "2026-07-30 13:41:43",
+    "category": "",
+    "description": "<h2>La Comunidad se desprenderá también de otros cuatro inmuebles para ayudar a la recuperación de los estragos causados por el fuego</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Mediaset desvela los primeros detalles del nuevo 'El Chiringuito': ¿cuándo volverá Pedrerol y en qué canales se emitirá el programa?",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260730/mediaset-desvela-primeros-detalles-nuevo-chiringuito-cuando-volvera-pedrerol-canales-emitira-programa-132955472",
+    "pubDate": "2026-07-30 13:38:31",
+    "category": "",
+    "description": "<h2>El formato deportivo estrenará su nueva etapa el 17 de agosto, coincidiendo con el arranque de LaLiga.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Fallece el actor Manolo Solo, ganador de un Goya por 'Tarde para la ira'",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/fallece-actor-manolo-ganador-goya/132955612.shtml",
+    "pubDate": "2026-07-30 13:38:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La gran banca sigue volando y gana 18.158 millones hasta junio",
+    "link": "https://www.elperiodico.com/es/economia/20260730/gran-banca-sigue-volando-132924658",
+    "pubDate": "2026-07-30 13:33:48",
+    "category": "",
+    "description": "<h2>Los cinco grandes bancos españoles alargan el momento dulce que viven por la fortaleza de la economía y el nivel de los tipos de interés</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260206/gran-banca-espanola-fulmina-records-126521720\">La gran banca española fulmina récords: gana 34.000 millones en 2025, un 7% más</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250731/gran-banca-espanola-gana-record-120223691\">Los seis bancos cotizados ganan 17.086 millones hasta junio, un 11,8 % más</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Британії смертність через спеку наближається до рекордного рівня",
+    "link": "https://ua.korrespondent.net/world/4898598-u-brytanii-smertnist-cherez-speku-nablyzhaietsia-do-rekordnoho-rivnia",
+    "pubDate": "2026-07-30 13:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513346.jpeg\">Під час двох хвиль спеки у травні та червні цього року було зафіксовано 2 877 смертей, пов’язаних зі спекотною погодою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни масово шукають способи уникнути фронту - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4898599-rosiiany-masovo-shukauit-sposoby-unyknuty-frontu-zmi",
+    "pubDate": "2026-07-30 13:26:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4513347.jpg\">Після чуток про можливу нову хвилю призову в Росії зросла кількість пошукових запитів про бронювання, мобілізаційні приписи та способи уникнення відправки на фронт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las falsificaciones llegan ya hasta a las cremas: estos son los lotes afectados y cómo reconocerlas",
     "link": "https://www.elperiodico.com/es/sociedad/20260730/falsificaciones-cremas-lotes-afectados-tener-cuidado-dv-et-132954429",
     "pubDate": "2026-07-30 13:17:56",
