@@ -1,13 +1,39 @@
-# News for 2026-07-30 15:00
+# News for 2026-07-30 17:21
 
 Previous day: [2026-07-29](./data/2026-07-29.md)
 
 ## ua.korrespondent.net
+17:18 [Нацбанк покращив прогноз зростання ВВП](https://ua.korrespondent.net/business/economics/4898704-natsbank-pokraschyv-prohnoz-zrostannia-vvp)<br>
+16:59 [Вогонь охопив Крит: у Греції загинули пожежники, евакуйовано 8000 людей](https://ua.korrespondent.net/world/4898699-vohon-okhopyv-kryt-u-hretsii-zahynuly-pozhezhnyky-evakuiovano-8000-luidei)<br>
+16:48 [Постраждали 300 будівель: росіяни атакували село на Житомирщині](https://ua.korrespondent.net/ukraine/4898693-postrazhdaly-300-budivel-rosiiany-atakuvaly-selo-na-zhytomyrschyni)<br>
+16:46 [Повторили тренд із соцмереж: на Київщині підлітки травмували немовля](https://ua.korrespondent.net/ukraine/4898695-povtoryly-trend-iz-sotsmerezh-na-kyivschyni-pidlitky-travmuvaly-nemovlia)<br>
+16:43 [Стало відомо про наслідки обстрілу Прикарпаття](https://ua.korrespondent.net/ukraine/4898690-stalo-vidomo-pro-naslidky-obstrilu-prykarpattia)<br>
+16:40 [Дві компанії Лукойлу в Болгарії визнали стратегічними об’єктами](https://ua.korrespondent.net/business/4898691-dvi-kompanii-lukoilu-v-bolharii-vyznaly-stratehichnymy-obiektamy)<br>
+16:34 [Атака РФ: Зеленський відреагував на вбивство сім'ї](https://ua.korrespondent.net/ukraine/4898686-ataka-rf-zelenskyi-vidreahuvav-na-vbyvstvo-simi)<br>
+16:26 [Третій за день: дрони атакували склад Wildberries під Перм'ю](https://ua.korrespondent.net/world/russia/4898684-tretii-za-den-drony-atakuvaly-sklad-Wildberries-pid-permui)<br>
+16:25 [Джорж Клуні з родиною евакуювався з небезпечної зони у Франції](https://ua.korrespondent.net/world/4898682-dzhorzh-kluni-z-rodynoui-evakuuivavsia-z-nebezpechnoi-zony-u-frantsii)<br>
+16:11 [На Харківщині розширили зону евакуації](https://ua.korrespondent.net/ukraine/4898677-na-kharkivschyni-rozshyryly-zonu-evakuatsii)<br>
+16:07 [Туск заявив про вирішальні дні війни в Україні](https://ua.korrespondent.net/world/4898673-tusk-zaiavyv-pro-vyrishalni-dni-viiny-v-ukraini)<br>
+16:05 [Росія замахнулася на Starlink: чи виграє Кремль космічну гонку](https://ua.korrespondent.net/articles/4898674-rosiia-zamakhnulasia-na-Starlink-chy-vyhraie-kreml-kosmichnu-honku)<br>
+16:01 [Повернення українських дітей: Меланія Трамп розповіла про нову місію](https://ua.korrespondent.net/world/4898668-povernennia-ukrainskykh-ditei-melaniia-tramp-rozpovila-pro-novu-misiui)<br>
+15:54 [Киянин, який завдав лікарці ВЛК 17 ударів ножем, отримав підозру](https://ua.korrespondent.net/city/kiev/4898665-kyianyn-yakyi-zavdav-likartsi-vlk-17-udariv-nozhem-otrymav-pidozru)<br>
+15:52 [Росіяни атакували Слов’янськ Ураганом](https://ua.korrespondent.net/ukraine/4898664-rosiiany-atakuvaly-sloviansk-urahanom)<br>
+15:38 [Волинська трагедія: завершився черговий етап ексгумацій](https://ua.korrespondent.net/ukraine/4898660-volynska-trahediia-zavershyvsia-cherhovyi-etap-ekshumatsii)<br>
+15:30 [Вантажні перевезення дорожчають: УЗ назвала дату підвищення тарифів](https://ua.korrespondent.net/business/4898657-vantazhni-perevezennia-dorozhchauit-uz-nazvala-datu-pidvyschennia-taryfiv)<br>
+15:21 [Армія РФ наступає на восьми напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4898653-armiia-rf-nastupaie-na-vosmy-napriamkakh-henshtab)<br>
+15:09 [Підозрюваних у катуванні військових Скелі взяли під варту](https://ua.korrespondent.net/ukraine/4898647-pidozruivanykh-u-katuvanni-viiskovykh-skeli-vzialy-pid-vartu)<br>
+15:02 [Епідемія набирає обертів: у Конго понад 1500 смертей від Еболи](https://ua.korrespondent.net/world/4898642-epidemiia-nabyraie-obertiv-u-konho-ponad-1500-smertei-vid-eboly)<br>
+14:57 [У Львові під завалами знайшли загиблого](https://ua.korrespondent.net/city/lvov/4898643-u-lvovi-pid-zavalamy-znaishly-zahybloho)<br>
 14:54 [Туск прокоментував падіння російської ракети у Польщі](https://ua.korrespondent.net/world/4898640-tusk-prokomentuvav-padinnia-rosiiskoi-rakety-u-polschi)<br>
 14:51 [Дурова внесли до переліку терористів та екстремістів у Росії](https://ua.korrespondent.net/world/russia/4898638-durova-vnesly-do-pereliku-terorystiv-ta-ekstremistiv-u-rosii)<br>
+14:38 [Росія вперше застосувала бомби відкладеної дії](https://ua.korrespondent.net/ukraine/4898631-rosiia-vpershe-zastosuvala-bomby-vidkladenoi-dii)<br>
+14:34 [СБС уразили чотири судна тіньового флоту РФ і базу катерів у Криму](https://ua.korrespondent.net/ukraine/4898628-sbs-urazyly-chotyry-sudna-tinovoho-flotu-rf-i-bazu-kateriv-u-krymu)<br>
 14:16 [Атпака БпЛА: один із найбільших НПЗ Лукойлу втратив третину потужностей](https://ua.korrespondent.net/world/russia/4898623-atpaka-bpla-odyn-iz-naibilshykh-npz-lukoilu-vtratyv-tretynu-potuzhnostei)<br>
 14:14 [НАТО відреагувало на заліт російської ракети в Польщу](https://ua.korrespondent.net/world/4898622-nato-vidreahuvalo-na-zalit-rosiiskoi-rakety-v-polschu)<br>
+13:50 [Росія "поховала" кубинського найманця, який опинився в полоні України](https://ua.korrespondent.net/ukraine/4898610-rosiia-pokhovala-kubynskoho-naimantsia-yakyi-opynyvsia-v-poloni-ukrainy)<br>
 13:47 [Іран погрожує "покарати агресора" після хвилі ударів США](https://ua.korrespondent.net/world/4898609-iran-pohrozhuie-pokaraty-ahresora-pislia-khvyli-udariv-ssha)<br>
+13:40 [Повідомлено про підозру бізнесмену РФ, який має 1,5 млрд активів в Україні](https://ua.korrespondent.net/ukraine/4898606-povidomleno-pro-pidozru-biznesmenu-rf-yakyi-maie-15-mlrd-aktyviv-v-ukraini)<br>
+13:35 [Нацбанк підвищив облікову ставку до 15,5%](https://ua.korrespondent.net/business/financial/4898604-natsbank-pidvyschyv-oblikovu-stavku-do-155)<br>
 13:27 [У Британії смертність через спеку наближається до рекордного рівня](https://ua.korrespondent.net/world/4898598-u-brytanii-smertnist-cherez-speku-nablyzhaietsia-do-rekordnoho-rivnia)<br>
 13:26 [Росіяни масово шукають способи уникнути фронту - ЗМІ](https://ua.korrespondent.net/world/russia/4898599-rosiiany-masovo-shukauit-sposoby-unyknuty-frontu-zmi)<br>
 13:08 [Під час спроби перетнути Ла-Манш загинули кілька мігрантів](https://ua.korrespondent.net/world/4898590-pid-chas-sproby-peretnuty-la-mansh-zahynuly-kilka-mihrantiv)<br>
@@ -72,8 +98,24 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 07:36 [Golpe de autoridad del Panathinaikos: se hace con Sylvain Francisco](https://as.com/baloncesto/euroliga/golpe-de-autoridad-del-panathinaikos-se-hace-con-sylvain-francisco-f202607-n/)<br>
 
 ## www.elperiodico.com
+17:15 [Persecución policial tras tres incendios provocados junto a la C-32 en Mataró](https://www.elperiodico.com/es/videos/barcelona/persecucion-policial-tres-incendios-provocados/132962120.shtml)<br>
+17:09 [Un juzgado rechazó alejar de sus hijos a la mujer asesinada por su pareja en Barcelona tras una denuncia por maltrato](https://www.elperiodico.com/es/sucesos/20260730/juzgado-denego-alejar-mujer-asesinada-pareja-barcelona-hijos-menores-132963202)<br>
+17:00 [Los factores climáticos que aumentan el riesgo de incendios extremos en España han aumentado un 50% en menos de medio siglo](https://www.elperiodico.com/es/sociedad/20260730/factores-climaticos-aumentan-riesgo-incendios-espana-estudio-132956339)<br>
+16:58 [Muere a los 62 años Manolo Solo, un buen actor y un actor bueno](https://www.elperiodico.com/es/ocio-y-cultura/20260730/muere-manolo-solo-actor-obituario-132961421)<br>
+16:52 [Lista de 12 animales y plantas que puedes ver buceando en Catalunya](https://www.elperiodico.com/es/catalunya/20260730/buceo-peces-snorkel-cataluna-plantas-animales-dv-91190810)<br>
+16:49 [Ricky Rubio renueva con el Asisa Joventut: "Yo estaré"](https://www.elperiodico.com/es/deportes/20260730/ricky-rubio-renueva-asisa-joventut-132962798)<br>
+16:49 [La Síndica de Greuges abre una actuación de oficio para investigar el fallo en las pruebas del informe PISA de 2025](https://www.elperiodico.com/es/sociedad/20260730/sindica-greuges-abre-actuacion-oficio-informe-pisa-2025-132961539)<br>
+16:45 [Habla menos](https://www.elperiodico.com/es/opinion/20260730/habla-tecnologia-articulo-juan-tallon-132962427)<br>
+16:40 [Los médicos de Ceuta piden la intervención estatal por la emergencia sanitaria: "Estamos al límite"](https://www.elperiodico.com/es/sanidad/20260730/medico-ceuta-pide-intervencion-estatal-emergencia-sanitaria-limite-132961590)<br>
+16:30 [El Grec 2026 aumenta hasta los 143.000 espectadores, pero baja al 71% de ocupación](https://www.elperiodico.com/es/videos/ocio-y-cultura/grec-2026-aumenta-143-000/132962143.shtml)<br>
+16:25 [La banda sonora del verano](https://www.elperiodico.com/es/opinion/20260730/banda-sonora-verano-vacaciones-articulo-carles-sans-132937386)<br>
+16:17 [Al menos ocho de los 10 mayores incendios declarados este verano son negligencias, imprudencias o provocados](https://www.elperiodico.com/es/sociedad/20260730/ocho-diez-grandes-incendios-verano-apuntan-negligencias-imprudencias-intencionalidad-humana-132953563)<br>
+15:52 [El eclipse solar más largo del siglo llegará en 2027, durará más de 6 minutos y oscurecerá gran parte del planeta](https://www.elperiodico.com/es/ciencia/20260730/eclipse-solar-2027-mas-largo-siglo-como-donde-ver-espana-dv-127870269)<br>
+15:42 [Eclipse solar del 12 de agosto: estos son los 27 observatorios de Catalunya donde se podrá ver](https://www.elperiodico.com/es/ciencia/20260730/eclipse-solar-observatorios-cataluna-dv-123809428)<br>
+15:28 [Un ensayo clínico evalúa la eficacia de PKB171, un gel para mejorar la fertilidad masculina y favorecer el embarazo natural](https://www.elperiodico.com/es/sanidad/20260730/ensayo-clinico-evalua-eficacia-gel-mejorar-fertilidad-embarazo-natural-132955798)<br>
 14:47 [Detenido por agredir a su pareja en Málaga y atrincherarse en la azotea cuatro horas](https://www.elperiodico.com/es/sucesos/20260730/detenido-agredir-pareja-malaga-atrincherarse-132959119)<br>
 14:42 [El Grec 2026 aumenta hasta 143.000 espectadores pero baja a 71% la ocupación](https://www.elperiodico.com/es/ocio-y-cultura/20260730/grec-2026-aumenta-143-000-132956363)<br>
+14:42 [El Grec 2026 aumenta su público hasta los 143.000 espectadores, pero baja al 71% de ocupación](https://www.elperiodico.com/es/ocio-y-cultura/20260730/grec-2026-aumenta-balance-espectadores-ocupacion-132956363)<br>
 14:40 [El pueblo famoso por el vino en el que nació Luis de la Fuente: atravesado por el Ebro y pionero en España](https://www.elperiodico.com/es/vida-y-estilo/20260730/pueblo-famoso-vino-nacio-luis-fuente-dv-et-132958768)<br>
 14:38 [El centro médico Teknon de Barcelona, primero en España en usar una técnica que detecta en tiempo real las alergias alimentarias ocultas](https://www.elperiodico.com/es/videos/sociedad/centro-medico-teknon-barcelona-primero-espana-tecnica-detecta-tiempo-real-alergias-alimentarias-ocultas-video/132958596.shtml)<br>
 14:32 [La roca de Stonehenge de seis toneladas pudo llegar desde Escocia sobre un glaciar](https://www.elperiodico.com/es/tendencias21/20260730/roca-stonehenge-seis-toneladas-pudo-132958516)<br>
@@ -107,6 +149,7 @@ Previous day: [2026-07-29](./data/2026-07-29.md)
 12:44 [Fallece el actor Manolo Solo, ganador de un Goya por 'Tarde para la ira'](https://www.elperiodico.com/es/ocio-y-cultura/20260730/fallece-actor-manolo-ganador-goya-132952837)<br>
 12:42 [Los expertos en entrenamiento coinciden: "Los ciclistas tienen peor densidad ósea que los corredores"](https://www.elperiodico.com/es/salud/20260730/expertos-entrenamiento-coinciden-ciclistas-peor-densidad-osea-corredores-dv-et-132952266)<br>
 12:37 [El psicólogo Javier Urra (68 años) lanza un mensaje esperanzador tras revelar que padece de cáncer con metástasis: "Lo importante no es la tumba, es la memoria"](https://www.elperiodico.com/es/sociedad/20260730/javier-urra-cancer-metastasis-pulmon-psicologo-dv-et-132949051)<br>
+12:30 [El refugio de verano en Barcelona de superhéroes y villanos](https://www.elperiodico.com/es/que-hacer/planes/20260730/refugio-verano-vacaciones-barcelona-superheroes-marvel-spiderman-132947863)<br>
 12:30 [Música, espectáculos, ciencia y 'castells': Tarragona y Reus organizan una tarde de actividades el 12 de agosto para el eclipse solar](https://www.elperiodico.com/es/tarragona/20260730/tarragona-reus-organizan-tarde-actividades-12-agosto-eclipse-solar-132950094)<br>
 12:24 [Los superhéroes y los villanos también se van de vacaciones](https://www.elperiodico.com/es/videos/sociedad/superheroes-villanos-vacaciones/132948122.shtml)<br>
 12:22 [Detenido un pirómano por provocar el incendio que obligó a confinar a 33.000 personas en Anoia](https://www.elperiodico.com/es/sucesos/20260730/detenido-piromano-provocar-tres-incendios-anoia-confinamiento-igualada-132951066)<br>
