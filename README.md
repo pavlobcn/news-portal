@@ -1,8 +1,12 @@
-# News for 2026-07-31 20:18
+# News for 2026-07-31 22:02
 
 Previous day: [2026-07-30](./data/2026-07-30.md)
 
 ## ua.korrespondent.net
+20:10 [У Києві з 1 серпня запроваджують пересадковий QR-квиток](https://ua.korrespondent.net/city/kiev/4899077-u-kyievi-z-1-serpnia-zaprovadzhuuit-peresadkovyi-QR-kvytok)<br>
+18:11 [Дохід Укртелекому у першому півріччі зріс на 12,6%](https://ua.korrespondent.net/business/companies/4899059-dokhid-ukrtelekomu-u-pershomu-pivrichchi-zris-na-126)<br>
+17:59 [ШІ Claude отримав доступ до мережі та проник у системи компаній](https://ua.korrespondent.net/tech/technews/4899056-shi-Claude-otrymav-dostup-do-merezhi-ta-pronyk-u-systemy-kompanii)<br>
+17:19 [Техногіганти США витратили $1,1 трлн на ШІ](https://ua.korrespondent.net/business/4899042-tekhnohihanty-ssha-vytratyly-11-trln-na-shi)<br>
 16:53 [Повернення після СЗЧ: військові можуть обрати один із понад 70 підрозділів](https://ua.korrespondent.net/ukraine/4899032-povernennia-pislia-szch-viiskovi-mozhut-obraty-odyn-iz-ponad-70-pidrozdiliv)<br>
 16:44 [Балістика з КНДР: знайдено вирву від другої ракети](https://ua.korrespondent.net/ukraine/4899028-balistyka-z-kndr-znaideno-vyrvu-vid-druhoi-rakety)<br>
 16:39 [Військовим затвердили нові мотиваційні виплати](https://ua.korrespondent.net/ukraine/4899023-viiskovym-zatverdyly-novi-motyvatsiini-vyplaty)<br>
@@ -17,6 +21,7 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 14:56 [За тиждень забезпечено п'ять екстрадицій, вперше - підозрюваного з Йорданії](https://ua.korrespondent.net/ukraine/4898991-za-tyzhden-zabezpecheno-piat-ekstradytsii-vpershe-pidozruivanoho-z-yordanii)<br>
 14:33 [Росіяни вдарили по Краматорську, є загибла та поранені](https://ua.korrespondent.net/ukraine/4898984-rosiiany-vdaryly-po-kramatorsku-ye-zahybla-ta-poraneni)<br>
 14:31 [Вибухи у Хмельницькому: з'явились перші подробиці](https://ua.korrespondent.net/ukraine/4898981-vybukhy-u-khmelnytskomu-ziavylys-pershi-podrobytsi)<br>
+14:25 [Кошти згорять після 31 липня: українцям нагадали про дедлайни на кешбек](https://ua.korrespondent.net/business/financial/4898979-koshty-zghoriat-pislia-31-lypnia-ukraintsiam-nahadaly-pro-dedlainy-na-keshbek)<br>
 14:18 [Мінсоцполітики ініціювало перевірку Артеку на Закарпатті](https://ua.korrespondent.net/ukraine/4898977-minsotspolityky-initsiuivalo-perevirku-arteku-na-zakarpatti)<br>
 14:08 [У Києві прибирають російськомовні вивіски: де вже провели демонтаж](https://ua.korrespondent.net/city/kiev/4898972-u-kyievi-prybyrauit-rosiiskomovni-vyvisky-de-vzhe-provely-demontazh)<br>
 13:34 [У Львові завершили рятувальну операцію після атаки РФ](https://ua.korrespondent.net/city/lvov/4898961-u-lvovi-zavershyly-riatuvalnu-operatsiui-pislia-ataky-rf)<br>
@@ -77,6 +82,13 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 07:27 [“Los ciclos hay que cerrarlos cuando uno está en paz consigo mismo”](https://as.com/baloncesto/mas_baloncesto/los-ciclos-hay-que-cerrarlos-cuando-uno-esta-en-paz-consigo-mismo-f202607-n/)<br>
 
 ## www.elperiodico.com
+21:30 [Los nombres poco comunes para niños que ya son tendencia en Catalunya](https://www.elperiodico.com/es/catalunya/20260731/nombres-ninos-poco-comunes-catalunya-dv-130886191)<br>
+21:00 [Mercè Barberà: "Siempre he pensado que si mi madre me dio la vida, yo no podía hacer una tontería con la mía; le debía lo mejor"](https://www.elperiodico.com/es/sociedad/20260731/merce-barbera-concurso-internacional-mini-print-cadaques-dv-et-132994919)<br>
+20:58 [A prisión el detenido por la muerte de un hombre en Málaga que desapareció durante la pandemia](https://www.elperiodico.com/es/sucesos/20260731/prision-detenido-muerte-hombre-malaga-133006901)<br>
+20:50 [La Guardia Civil detiene al presunto asesino de la mujer hallada apuñalada en su casa de Málaga](https://www.elperiodico.com/es/sucesos/20260731/guardia-civil-detiene-presunto-asesino-133006760)<br>
+20:42 [La mujer asesinada en Barcelona sufrió violencia machista durante 10 años y no denunció "por temor a que la matara"](https://www.elperiodico.com/es/sociedad/20260731/prision-asesinato-pareja-violencia-machista-barcelona-133004501)<br>
+20:35 [Catalunya deja atrás el episodio de calor intenso y entra en prealerta por lluvias y tormentas](https://www.elperiodico.com/es/tiempo/20260731/catalunya-deja-episodio-calor-plan-inuncat-lluvias-133005655)<br>
+20:33 [Endesa provisiona 208 millones para financiar un plan de bajas voluntarias para 230 empleados](https://www.elperiodico.com/es/economia/20260731/endesa-provisiona-208-millones-financiar-133006177)<br>
 20:08 [Nvidia recupera el liderazgo mundial en bolsa apenas cuatro días después de perderlo frente a Apple](https://www.elperiodico.com/es/economia/20260731/nvidia-recupera-liderazgo-mundial-bolsa-133005705)<br>
 20:00 [Un ampurdanés subirá 60 veces al Puig Neulós por su mujer, que tiene esclerosis múltiple](https://www.elperiodico.com/es/sociedad/20260731/ampurdanes-subira-60-veces-puig-neulos-esclerosis-multiple-dv-et-132993216)<br>
 20:00 [El aviso de Alejandro Sáez, experto de la Organización Meteorológica Mundial: " Estos episodios de calor extremo serán los más leves del resto de nuestras vidas"](https://www.elperiodico.com/es/tiempo/20260731/verano-calor-extremo-anual-opinion-meteorologo-alejandro-saez-experto-dv-132081999)<br>
