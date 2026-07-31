@@ -1,8 +1,22 @@
-# News for 2026-07-31 14:25
+# News for 2026-07-31 17:00
 
 Previous day: [2026-07-30](./data/2026-07-30.md)
 
 ## ua.korrespondent.net
+16:53 [Повернення після СЗЧ: військові можуть обрати один із понад 70 підрозділів](https://ua.korrespondent.net/ukraine/4899032-povernennia-pislia-szch-viiskovi-mozhut-obraty-odyn-iz-ponad-70-pidrozdiliv)<br>
+16:44 [Балістика з КНДР: знайдено вирву від другої ракети](https://ua.korrespondent.net/ukraine/4899028-balistyka-z-kndr-znaideno-vyrvu-vid-druhoi-rakety)<br>
+16:39 [Військовим затвердили нові мотиваційні виплати](https://ua.korrespondent.net/ukraine/4899023-viiskovym-zatverdyly-novi-motyvatsiini-vyplaty)<br>
+16:35 [Медичні відходи та токсини: фірма забруднила понад 1,6 тис. кв. м землі](https://ua.korrespondent.net/ukraine/4899025-medychni-vidkhody-ta-toksyny-firma-zabrudnyla-ponad-16-tys-kv-m-zemli)<br>
+16:20 [У Польщі жінка вдарила таксиста-українця](https://ua.korrespondent.net/world/4899018-u-polschi-zhinka-vdaryla-taksysta-ukraintsia)<br>
+16:09 [В Росію завезли близько 150 тисяч мігрантів з початку року](https://ua.korrespondent.net/world/russia/4899016-v-rosiui-zavezly-blyzko-150-tysiach-mihrantiv-z-pochatku-roku)<br>
+15:59 [Готував схрони з вибухівкою для терактів: агент РФ отримав 15 років тюрми](https://ua.korrespondent.net/ukraine/4899014-hotuvav-skhrony-z-vybukhivkoui-dlia-teraktiv-ahent-rf-otrymav-15-rokiv-tuirmy)<br>
+15:26 [Вбивство лікарки під час проходження ВЛК: киянина взято під варту](https://ua.korrespondent.net/ukraine/4899002-vbyvstvo-likarky-pid-chas-prokhodzhennia-vlk-kyianyna-vziato-pid-vartu)<br>
+15:26 [Росія зосереджує атаки на Слов'янськ - Генштаб](https://ua.korrespondent.net/ukraine/4899001-rosiia-zoseredzhuie-ataky-na-sloviansk-henshtab)<br>
+15:11 [РФ шукає паливо за кордоном: перша партія бензину прибула з Марокко](https://ua.korrespondent.net/world/russia/4898997-rf-shukaie-palyvo-za-kordonom-persha-partiia-benzynu-prybula-z-marokko)<br>
+14:57 [Ще одна країна почала боротьбу з "пологовим туризмом" із Росії](https://ua.korrespondent.net/world/4898992-sche-odna-kraina-pochala-borotbu-z-polohovym-turyzmom-iz-rosii)<br>
+14:56 [За тиждень забезпечено п'ять екстрадицій, вперше - підозрюваного з Йорданії](https://ua.korrespondent.net/ukraine/4898991-za-tyzhden-zabezpecheno-piat-ekstradytsii-vpershe-pidozruivanoho-z-yordanii)<br>
+14:33 [Росіяни вдарили по Краматорську, є загибла та поранені](https://ua.korrespondent.net/ukraine/4898984-rosiiany-vdaryly-po-kramatorsku-ye-zahybla-ta-poraneni)<br>
+14:31 [Вибухи у Хмельницькому: з'явились перші подробиці](https://ua.korrespondent.net/ukraine/4898981-vybukhy-u-khmelnytskomu-ziavylys-pershi-podrobytsi)<br>
 14:18 [Мінсоцполітики ініціювало перевірку Артеку на Закарпатті](https://ua.korrespondent.net/ukraine/4898977-minsotspolityky-initsiuivalo-perevirku-arteku-na-zakarpatti)<br>
 14:08 [У Києві прибирають російськомовні вивіски: де вже провели демонтаж](https://ua.korrespondent.net/city/kiev/4898972-u-kyievi-prybyrauit-rosiiskomovni-vyvisky-de-vzhe-provely-demontazh)<br>
 13:34 [У Львові завершили рятувальну операцію після атаки РФ](https://ua.korrespondent.net/city/lvov/4898961-u-lvovi-zavershyly-riatuvalnu-operatsiui-pislia-ataky-rf)<br>
@@ -62,6 +76,26 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 07:27 [“Los ciclos hay que cerrarlos cuando uno está en paz consigo mismo”](https://as.com/baloncesto/mas_baloncesto/los-ciclos-hay-que-cerrarlos-cuando-uno-esta-en-paz-consigo-mismo-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:52 [CaixaBank lleva oficinas móviles a los pueblos afectados por los incendios en Ávila, donde siete de cada diez vecinos atendidos son mayores de 65 años](https://www.elperiodico.com/es/economia/20260731/caixabank-lleva-oficinas-moviles-pueblos-132998228)<br>
+16:46 [Los traders de las memecoins saltan a las acciones de IA: el nuevo juego de 24 horas que inquieta a Wall Street](https://www.elperiodico.com/es/economia/20260731/traders-memecoins-saltan-acciones-ia-wall-street-dv-et-132997923)<br>
+16:45 [Arnau (24) vive de forma autosuficiente en el campo desde los 18: "Tenemos el invernadero que fabriqué el año pasado con materiales reciclados"](https://www.elperiodico.com/es/economia/20260731/arnau-campo-solo-aislado-granja-huerto-cria-conejos-dv-et-132305551)<br>
+16:41 [Vilanova i la Geltrú inicia la instalación de una red de cámaras de videovigilancia para reforzar la seguridad](https://www.elperiodico.com/es/barcelona/20260731/vilanova-inicia-instalacion-red-camaras-videovigilancia-132997499)<br>
+16:30 [A PIE DE CALLE | May Mariño nos cuenta cómo se vive la crisis migratoria desde Ceuta](https://www.elperiodico.com/es/videos/politica/pie-calle-may-marino-cuenta/132998366.shtml)<br>
+16:19 [Barcelona supera por primera vez los 30ºC todos los días del verano](https://www.elperiodico.com/es/sociedad/20260731/barcelona-supera-primera-vez-30-grados-verano-julio-43-dias-seguidos-132997496)<br>
+16:17 [El euríbor termina julio en el 2,855%, su nivel más alto desde septiembre de 2024, y avanza alzas hipotecarias](https://www.elperiodico.com/es/economia/20260731/euribor-termina-julio-2-855-132998154)<br>
+16:15 [Mauricio (37 años) deja atrás una vida llena de comodidades para levantar una casa de madera, paja y barro en pleno monte: "Siempre deseé una vida en el campo, en la que cultivar y tener mis animales"](https://www.elperiodico.com/es/economia/20260731/renuncia-vida-ciudad-terreno-campo-contruccion-casa-agua-luz-mauricio-dv-et-132707450)<br>
+16:07 [Reig Jofre dispara un 126% su beneficio y remonta gracias al reinicio de los antibióticos de Toledo](https://www.elperiodico.com/es/economia/20260731/reig-jofre-dispara-126-beneficio-132997511)<br>
+16:00 [El verdadero culpable de la alergia a los gatos (y no, no es su pelo)](https://www.elperiodico.com/es/salud/20260731/verdadero-culpable-alergia-gatos-pelo-120456396)<br>
+15:56 [Lengua de polvo sahariano sobre Barcelona: llegará este fin de semana](https://www.elperiodico.com/es/tiempo/20260731/tiempo-barcelona-cataluna-polvo-temperatura-sahariano-lluvia-calor-verano-dv-132995489)<br>
+15:45 [La ACA blinda por 23,5 millones la depuración de las aguas residuales de Terrassa durante cinco años](https://www.elperiodico.com/es/barcelona/20260731/blinda-23-5-millones-depuracion-terrassa-aca-agua-132997142)<br>
+15:36 [Muere apuñalada una mujer de 27 años en Santander y detienen a su pareja, un hombre de 39](https://www.elperiodico.com/es/sociedad/20260731/muere-apunalada-mujer-27-anos-132997177)<br>
+15:32 [Decenas de personas asaltan el paso fronterizo de Beni Enzar entre Marruecos y Melilla](https://www.elperiodico.com/es/videos/politica/decenas-personas-asaltan-paso-fronterizo-melilla/132997028.shtml)<br>
+14:59 [La Aemet avanza que ola de calor empezará a perder fuerza en las próximas horas y terminará entre el domingo y el lunes](https://www.elperiodico.com/es/sociedad/20260731/aemet-ola-calor-final-domingo-lunes-prevision-132995282)<br>
+14:48 [Ceuta, al "límite": "Han llegado familias enteras y sigue entrando gente"](https://www.elperiodico.com/es/politica/20260731/ceuta-limite-han-llegado-familias-132995482)<br>
+14:41 [Carlos Llull, experto en climatización: "Un aire acondicionado no enfría más deprisa por poner una temperatura más baja"](https://www.elperiodico.com/es/vida-y-estilo/20260731/aire-acondicionado-temperatura-frio-carlos-llull-experto-climatizacion-dv-et-132986407)<br>
+14:40 [Enrique Roviralta, médico en Ceuta: "La situación es dantesca y las urgencias están desbordadas"](https://www.elperiodico.com/es/sanidad/20260731/enrique-roviralta-medico-ceuta-situacion-dantesca-urgencias-desbordadas-132992307)<br>
+14:35 [Récord de trámites en Barcelona: 4,13 millones de gestiones ciudadanas en un año, 11.300 de media al día](https://www.elperiodico.com/es/barcelona/20260731/record-tramites-ciudadanos-2025-ayuntamiento-de-barcelona-132991978)<br>
+14:26 [El BCE cuestiona los planes de contingencia de la banca ante un 'shock' geopolítico](https://www.elperiodico.com/es/economia/20260731/bce-cuestiona-planes-contingencia-banca-132994773)<br>
 14:21 [El déficit del Estado sube al 1,3% del PIB en el primer semestre y el público baja al 1,03% hasta mayo](https://www.elperiodico.com/es/economia/20260731/deficit-sube-1-3-pib-132994610)<br>
 14:21 [El incendio de Castellón sigue sin ser estabilizado y la situación es favorable en Zamora](https://www.elperiodico.com/es/politica/20260731/incendio-castellon-sigue-estabilizado-situacion-132994537)<br>
 14:13 [Un contrato de 61 millones mejorará el tratamiento de aguas residuales en una treintena de municipios del Vallès y el Moianès](https://www.elperiodico.com/es/barcelona/20260731/contrato-61-millones-mejorara-tratamiento-aguas-residuales-valles-moianes-tordera-132993655)<br>
