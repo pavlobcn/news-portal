@@ -1,11 +1,37 @@
-# News for 2026-07-31 09:41
+# News for 2026-07-31 12:18
 
 Previous day: [2026-07-30](./data/2026-07-30.md)
 
 ## ua.korrespondent.net
+12:09 [Український пілот переслідував російську Х-101 до кордону Польщі](https://ua.korrespondent.net/world/4898925-ukrainskyi-pilot-peresliduvav-rosiisku-kh-101-do-kordonu-polschi)<br>
+12:03 [Долар впав в останній день липня, євро - дорожчає](https://ua.korrespondent.net/business/financial/4898922-dolar-vpav-v-ostannii-den-lypnia-yevro-dorozhchaie)<br>
+12:00 [У Росії запровадять маркування снігу та льоду: опубліковано проєкт рішення](https://ua.korrespondent.net/world/russia/4898920-u-rosii-zaprovadiat-markuvannia-snihu-ta-lodu-opublikovano-proiekt-rishennia)<br>
+11:59 [Вступна кампанія-2026 побила рекорд: подано понад мільйон заяв](https://ua.korrespondent.net/ukraine/4898916-vstupna-kampaniia-2026-pobyla-rekord-podano-ponad-milion-zaiav)<br>
+11:53 [У Польщі сталася аварія з повітряною кулею: є постраждалі](https://ua.korrespondent.net/world/4898915-u-polschi-stalasia-avariia-z-povitrianoui-kuleui-ye-postrazhdali)<br>
+11:44 [Франція посилила контроль на кордоні з Іспанією через мігрантів](https://ua.korrespondent.net/world/4898913-frantsiia-posylyla-kontrol-na-kordoni-z-ispaniieui-cherez-mihrantiv)<br>
+11:33 [В іспанський анклав у Африці прорвалися понад 40 000 мігрантів](https://ua.korrespondent.net/world/4898909-v-ispanskyi-anklav-u-afrytsi-prorvalysia-ponad-40-000-mihrantiv)<br>
+11:29 [Мелоні планує вивести Іспанію із Шенгенської зони](https://ua.korrespondent.net/world/4898907-meloni-planuie-vyvesty-ispaniui-iz-shenhenskoi-zony)<br>
+11:29 [У Хмельницькому пролунали потужні вибухи](https://ua.korrespondent.net/ukraine/4898906-u-khmelnytskomu-prolunaly-potuzhni-vybukhy)<br>
+11:20 [Зірка Ілюзії обману приїхав допомагати українським дітям](https://ua.korrespondent.net/ukraine/4898904-zirka-iluizii-obmanu-pryikhav-dopomahaty-ukrainskym-ditiam)<br>
+11:18 [Фінляндія вперше виявила африканську чуму свиней біля кордону РФ](https://ua.korrespondent.net/world/4898901-finliandiia-vpershe-vyiavyla-afrykansku-chumu-svynei-bilia-kordonu-rf)<br>
+11:13 [Польща підтвердила падіння російської ракети Х-101](https://ua.korrespondent.net/world/4898899-polscha-pidtverdyla-padinnia-rosiiskoi-rakety-kh-101)<br>
+11:10 [Дрон атакував авто на Херсонщині: є загиблий та поранений](https://ua.korrespondent.net/ukraine/4898897-dron-atakuvav-avto-na-khersonschyni-ye-zahyblyi-ta-poranenyi)<br>
+11:08 [Агент ФСБ готував атаки на електростанції в Києві - СБУ](https://ua.korrespondent.net/ukraine/4898896-ahent-fsb-hotuvav-ataky-na-elektrostantsii-v-kyievi-sbu)<br>
+10:51 [У російському Владивостоці згорів величезний склад](https://ua.korrespondent.net/world/russia/4898890-u-rosiiskomu-vladyvostotsi-zghoriv-velycheznyi-sklad)<br>
+10:48 [Зеленський назвав втрати України та РФ](https://ua.korrespondent.net/ukraine/4898888-zelenskyi-nazvav-vtraty-ukrainy-ta-rf)<br>
+10:40 [Краматорськ, Слов’янськ і Дружківка під вогнем: є постраждалі](https://ua.korrespondent.net/ukraine/4898884-kramatorsk-sloviansk-i-druzhkivka-pid-vohnem-ye-postrazhdali)<br>
+10:21 [РФ вдарила по Новій пошті на Вінниччині: восьмеро поранених](https://ua.korrespondent.net/ukraine/4898879-rf-vdaryla-po-novii-poshti-na-vinnychchyni-vosmero-poranenykh)<br>
+10:17 [Генштаб підтвердив ураження Волгоградського НПЗ](https://ua.korrespondent.net/ukraine/4898877-henshtab-pidtverdyv-urazhennia-volhohradskoho-npz)<br>
+10:13 [Без графіків і термінів: у Криму хаотично вимикають світло](https://ua.korrespondent.net/ukraine/4898875-bez-hrafikiv-i-terminiv-u-krymu-khaotychno-vymykauit-svitlo)<br>
+10:04 [Хусити змусили саудівські танкери вирушити в обхід Африки - ЗМІ](https://ua.korrespondent.net/world/4898872-khusyty-zmusyly-saudivski-tankery-vyrushyty-v-obkhid-afryky-zmi)<br>
+09:58 [Рекордні дати та онлайн-шлюби: в Україні різко побільшало одружень](https://ua.korrespondent.net/ukraine/4898869-rekordni-daty-ta-onlain-shluiby-v-ukraini-rizko-pobilshalo-odruzhen)<br>
+09:53 [СБУ уразила авіазавод в Євпаторії](https://ua.korrespondent.net/ukraine/4898867-sbu-urazyla-aviazavod-v-yevpatorii)<br>
+09:50 [Удари по Чернігівщині: є постраждалі, зруйновано будинки та ферму](https://ua.korrespondent.net/ukraine/4898865-udary-po-chernihivschyni-ye-postrazhdali-zruinovano-budynky-ta-fermu)<br>
+09:43 [Росія поцілила у цивільну інфраструктуру на Вінниччині](https://ua.korrespondent.net/ukraine/4898863-rosiia-potsilyla-u-tsyvilnu-infrastrukturu-na-vinnychchyni)<br>
 09:32 [Загиблі, поранені і масштабні пошкодження: РФ вдарила по Нікопольщині](https://ua.korrespondent.net/ukraine/4898860-zahybli-poraneni-i-masshtabni-poshkodzhennia-rf-vdaryla-po-nikopolschyni)<br>
 09:31 [Росіяни скинули чотири КАБи на Суми, спалахнули пожежі](https://ua.korrespondent.net/ukraine/4898859-rosiiany-skynuly-chotyry-kaby-na-sumy-spalakhnuly-pozhezhi)<br>
 09:26 [Атаковано енергетику чотирьох  областей України](https://ua.korrespondent.net/ukraine/4898856-atakovano-enerhetyku-chotyrokh-oblastei-ukrainy)<br>
+09:23 [Кабмін інвестує майже мільярди в освіту: що зміниться у школах і ліцеях](https://ua.korrespondent.net/business/financial/4898854-kabmin-investuie-maizhe-miliardy-v-osvitu-scho-zminytsia-u-shkolakh-i-litseiakh)<br>
 08:50 [В одній із областей ввели аварійні відключення світла](https://ua.korrespondent.net/ukraine/4898845-v-odnii-iz-oblastei-vvely-avariini-vidkluichennia-svitla)<br>
 08:47 [РФ нарощує тиск на Костянтинівському напрямку - ГШ](https://ua.korrespondent.net/ukraine/4898846-rf-naroschuie-tysk-na-kostiantynivskomu-napriamku-hsh)<br>
 08:32 [РФ змінює стратегію повітряних атак - аналіз ISW](https://ua.korrespondent.net/ukraine/4898829-rf-zminuiie-stratehiui-povitrianykh-atak-analiz-ISW)<br>
@@ -26,12 +52,31 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 07:27 [“Los ciclos hay que cerrarlos cuando uno está en paz consigo mismo”](https://as.com/baloncesto/mas_baloncesto/los-ciclos-hay-que-cerrarlos-cuando-uno-esta-en-paz-consigo-mismo-f202607-n/)<br>
 
 ## www.elperiodico.com
+12:12 [Ceuta afronta una situación de caos tras la entrada masiva desde Marruecos](https://www.elperiodico.com/es/videos/politica/ceuta-afronta-situacion-caos-entrada/132986983.shtml)<br>
+12:05 [Prisión para un profesor de baile por agresiones sexuales a cinco niñas en Mallorca](https://www.elperiodico.com/es/sucesos/20260731/prision-profesor-baile-agresiones-sexuales-132986928)<br>
+11:55 [A PIE DE CALLE| El recinto ferial de Ceuta inicia su desmontaje tras cancelarse las fiestas](https://www.elperiodico.com/es/videos/politica/pie-calle-recinto-ferial-ceuta/132986259.shtml)<br>
+11:44 [Barcelona abre al público las nuevas pistas de baloncesto bajo el viaducto de Vallcarca](https://www.elperiodico.com/es/barcelona/20260731/barcelona-abre-pistas-baloncesto-viaducto-vallcarca-132983655)<br>
+11:37 [Ceuta se sume en el caos con miles de personas deambulando por las calles: "La gente les da comida desde los balcones"](https://www.elperiodico.com/es/politica/20260731/ceuta-caos-migrantes-miles-calles-132985615)<br>
+11:17 [Anthropic asegura que su IA hackeó los sistemas de hasta tres empresas](https://www.elperiodico.com/es/tecnologia/20260731/anthropic-asegura-ia-hackeo-sistemas-empresas-claude-ataque-ciberseguridad-openai-chatgpt-hugging-face-132982324)<br>
+10:47 [Crisis migratoria sin precedentes en Ceuta: hasta 49.000 personas habrían cruzado la frontera](https://www.elperiodico.com/es/videos/politica/crisis-migratoria-precedentes-ceuta-cruzado-frontera/132983450.shtml)<br>
+10:37 [Muere el padre de Paula Echevarría, Luis, a los 76 años](https://www.elperiodico.com/es/videos/gente/muere-padre-paula-echevarria-luis-76-anos-video/132983029.shtml)<br>
+10:17 [La bolsa española enfila la cota inédita de los 20.000 puntos con el petróleo como árbitro](https://www.elperiodico.com/es/economia/20260731/bolsa-enfila-cota-inedita-20-132982365)<br>
+10:17 [El flujo de personas entrando a Ceuta desde Marruecos continúa a primera hora de la mañana](https://www.elperiodico.com/es/videos/sociedad/flujo-personas-entrando-ceuta-marruecos-continua-video/132982264.shtml)<br>
+10:17 [Desalojadas una treintena de personas sin hogar de un asentamiento de la Ronda Litoral de Barcelona](https://www.elperiodico.com/es/sociedad/20260731/desalojadas-treintena-personas-sin-hogar-asentamiento-ronda-litoral-132981688)<br>
+10:16 [Lola Larumbe, en el videopódcast del suplemento ‘ABRIL’: “Es importante poner la oreja y saber qué es lo que la gente más próxima quiere”](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260731/lola-larumbe-videopodcast-suplemento-abril-132673872)<br>
+10:06 [Cáncer de ano: el tumor que puede confundirse con hemorroides y afecta a mayores de 50 años](https://www.elperiodico.com/es/salud/20260731/cancer-ano-riesgo-mujeres-mayores-50-hemorroides-115750745)<br>
+10:03 [Artritis reumatoide, lupus, ataxia de Friedrich... estas son las otras enfermedades que podrían acogerse a la jubilación anticipada](https://www.elperiodico.com/es/sanidad/20260731/artritis-reumatoide-lupus-ataxia-friedrich-enfermedades-jubilacion-anticipada-132980203)<br>
+10:00 [Rubén Zaballos, propietario de 200 pisos: "Realmente se está gestionando fatal la política de vivienda"](https://www.elperiodico.com/es/vivienda/20260731/vivienda-alquiler-ruben-zaballos-200-pisos-propietario-dv-132900424)<br>
+09:51 [Un productor de cine demanda a Netflix por la desaparición de una película de Nicolas Cage: exige una indemnización de 105 millones de dólares](https://www.elperiodico.com/es/ocio-y-cultura/20260731/productor-cine-demanda-netflix-desaparicion-pelicula-nicolas-cage-fortitude-132981559)<br>
+09:48 [Los Mossos advierten que un reciente tiroteo en La Mina rozó una tragedia: “Puso en peligro a muchas personas”](https://www.elperiodico.com/es/barcelona/20260731/mina-tiroteo-armas-mossos-detenidos-132981352)<br>
+09:47 [Muere el padre de Paula Echevarría, Luis, a los 76 años](https://www.elperiodico.com/es/gente/20260731/muere-padre-paula-echevarria-luis-dv-132981465)<br>
 09:40 [Las sustancias químicas del agua potable podrían aumentar el riesgo de cáncer de útero](https://www.elperiodico.com/es/tendencias21/20260731/sustancias-quimicas-agua-potable-aumentar-132981452)<br>
 09:39 [Precio de la gasolina y diésel hoy, 31 de julio en España: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20260731/precio-gasolina-diesel-hoy-31-julio-dv-132981117)<br>
 09:39 [La Guardia Civil cifra en 49.000 las personas que ya han entrado en Ceuta desde Marruecos](https://www.elperiodico.com/es/politica/20260731/ceuta-49000-migrantes-marruecos-frontera-132981371)<br>
 09:38 [Muere ahogado un hombre de 82 años en una piscina privada en La Sénia (Tarragona)](https://www.elperiodico.com/es/tarragona/20260731/muere-ahogado-hombre-82-anos-piscina-privada-senia-tarragona-132981169)<br>
 09:38 [Precio del petróleo hoy, 31 de julio por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260731/precio-petroleo-hoy-31-julio-dv-132981128)<br>
 09:34 [Incendios hoy, 31 de julio, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260731/incendios-hoy-31-julio-cataluna-espana-mapa-fuegos-activos-dv-132981139)<br>
+09:33 [Nadar tres kilómetros para alcanzar Ceuta con aletas y flotadores: "No me importa el riesgo, quiero dejar Marruecos"](https://www.elperiodico.com/es/sociedad/20260731/llegar-ceuta-marruecos-mar-flotadores-aletas-marruecos-testimonios-volvere-hacerlo-132980364)<br>
 09:06 [El Ibex 35 apunta a los 19.800 puntos al calor del rebote de Asia y la tregua del petróleo](https://www.elperiodico.com/es/economia/20260731/ibex-35-apunta-19-800-132980313)<br>
 09:05 [El pueblo de cine a 40 minutos de Girona con construcciones del siglo XII donde se rodó 'Juego de Tronos'](https://www.elperiodico.com/es/sociedad/20260731/pueblo-girona-besalu-dv-loc-107761014)<br>
 08:05 [Última hora de los incendios en España, en directo | Mejora el incendio de Fermoselle (Zamora) y se estudia el regreso de los desalojados](https://www.elperiodico.com/es/sociedad/20260731/ultima-hora-incendios-espana-directo-132759066)<br>

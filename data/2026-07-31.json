@@ -1,5 +1,554 @@
 [
   {
+    "title": "Ceuta afronta una situación de caos tras la entrada masiva desde Marruecos",
+    "link": "https://www.elperiodico.com/es/videos/politica/ceuta-afronta-situacion-caos-entrada/132986983.shtml",
+    "pubDate": "2026-07-31 12:12:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Український пілот переслідував російську Х-101 до кордону Польщі",
+    "link": "https://ua.korrespondent.net/world/4898925-ukrainskyi-pilot-peresliduvav-rosiisku-kh-101-do-kordonu-polschi",
+    "pubDate": "2026-07-31 12:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514561.jpg\">Український пілот відстежував російську ракету Х-101 до останнього, проте, був змушений розвернутися за 20 секунд до польського кордону.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La familia del pequeño Luca, de Castellnou, inicia una recogida de firmas para que pueda jugar en una categoría segura",
+    "link": "https://www.elperiodico.com/es/sociedad/20260731/familia-pequeno-luca-castellnou-inicia-132987010",
+    "pubDate": "2026-07-31 12:08:24",
+    "category": "",
+    "description": "<h2>El entorno del joven, que tiene una mutación genética del gen XRCC4 que afecta a su crecimiento, pide a la Federació Catalana de Futbol que haga una excepción que le permita jugar esta temporada</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Prisión para un profesor de baile por agresiones sexuales a cinco niñas en Mallorca",
+    "link": "https://www.elperiodico.com/es/sucesos/20260731/prision-profesor-baile-agresiones-sexuales-132986928",
+    "pubDate": "2026-07-31 12:05:56",
+    "category": "",
+    "description": "<h2 class=\"item\">El acusado grabó las violaciones y distribuyó las imágenes a otros pederastas</h2><h2 class=\"item\">Interpol encontró los archivos en internet y alertó a la Guardia Civil, que arrestó al joven</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El día que Maradona mostró su admiración hacia Franco Baresi: \"Es el mejor defensa\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260731/dia-maradona-mostro-admiracion-franco-132984268",
+    "pubDate": "2026-07-31 12:03:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La leyenda argentina rindió tributo al defensor italiano, fallecido este viernes, vistiendo su camiseta del AC Milan tras un partido.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260731/muere-66-anos-franco-baresi-132979458\" target=\"_blank\">Muere a los 66 años Franco Baresi, leyenda del Milan y del fútbol italiano</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Долар впав в останній день липня, євро - дорожчає",
+    "link": "https://ua.korrespondent.net/business/financial/4898922-dolar-vpav-v-ostannii-den-lypnia-yevro-dorozhchaie",
+    "pubDate": "2026-07-31 12:03:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514549.jpg\">Середній курс продажу долара знизився до 44,86 гривні, а курс продажу євро піднявся до 51,60 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa viajará a Ucrania en septiembre para trasladar un mensaje de \"apoyo y solidaridad\"",
+    "link": "https://www.elperiodico.com/es/politica/20260731/ucrania-viaje-institucional-salvador-illa-setiembre-apoyo-solidaridad-132966280",
+    "pubDate": "2026-07-31 12:02:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El president de la Generalitat defiende su agenda internacional que ya cuenta con 15 viajes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/salvador-illa-educacion-financiacion-mandato-comparecencia-catalunya-132954259\" target=\"_blank\">Illa encara la segunda parte del mandato con la educación y la financiación como grandes retos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260730/cataluna-singapur-salvador-illa-conferencia-negocios-inversiones-132939301\" target=\"_blank\">Illa toma Singapur como modelo de influencia y abre camino a los negocios en Vietnam</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20251030/catalunya-jaume-duch-24-delegaciones-exterior-pleno-rendimiento-legislatura-123160032\" target=\"_blank\">Catalunya tendrá 24 delegaciones en el mundo a pleno rendimiento en esta legislatura</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Росії запровадять маркування снігу та льоду: опубліковано проєкт рішення",
+    "link": "https://ua.korrespondent.net/world/russia/4898920-u-rosii-zaprovadiat-markuvannia-snihu-ta-lodu-opublikovano-proiekt-rishennia",
+    "pubDate": "2026-07-31 12:00:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514544.jpg\">Міністерство промисловості і торгівлі Росії пропонує включити сніг і лід до експерименту із системою обов'язкового маркування товарів Чесний знак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вступна кампанія-2026 побила рекорд: подано понад мільйон заяв",
+    "link": "https://ua.korrespondent.net/ukraine/4898916-vstupna-kampaniia-2026-pobyla-rekord-podano-ponad-milion-zaiav",
+    "pubDate": "2026-07-31 11:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514542.jpg\">Ще до завершення основного етапу прийому документів кількість заяв перевищила мільйон і стала найбільшою за останні п'ять років.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'La Macarena' en K-pop: la 'girl-band' coreana de moda usa un fragmento de la famosa canción de Los del Río en 'Boompala'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260731/sserafim-cancion-kpop-macarena-los-del-rio-dv-et-132910128",
+    "pubDate": "2026-07-31 11:57:12",
+    "category": "",
+    "description": "<h2>El grupo recibe fuertes críticas de sus fans e insinuaciones de que ha sido creado con inteligencia artificial: \"El post-estribillo es agradable, pero el resto es bastante malo\"</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260628/bts-banda-k-pop-convirtio-131817186\">BTS: Cómo una banda de K‑pop convirtió a Corea en líder del entretenimiento mundial (y del poder blando)</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Israel desacredita a su embajador en la ONU tras calificar Ceuta de \"enclave colonial\" español",
+    "link": "https://www.elperiodico.com/es/internacional/20260731/israel-desacredita-embajador-onu-ceuta-enclave-espana-132986544",
+    "pubDate": "2026-07-31 11:56:39",
+    "category": "",
+    "description": "<h2>\"El comentario realizado por el embajador de Israel en la ONU sobre el tema no representa la posición del Estado de Israel\", asegura la embajadora de Israel en España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "A PIE DE CALLE| El recinto ferial de Ceuta inicia su desmontaje tras cancelarse las fiestas",
+    "link": "https://www.elperiodico.com/es/videos/politica/pie-calle-recinto-ferial-ceuta/132986259.shtml",
+    "pubDate": "2026-07-31 11:55:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Останній танець Усика? У команді назвали бажаного суперника",
+    "link": "https://ua.korrespondent.net/sport/boks/4898912-ostannii-tanets-usyka-u-komandi-nazvaly-bazhanoho-supernyka",
+    "pubDate": "2026-07-31 11:55:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514541.jpg\">У команді Усика чітко визначили ім'я наступного суперника, з яким українець планує вийти на ринг у найближчому майбутньому.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Польщі сталася аварія з повітряною кулею: є постраждалі",
+    "link": "https://ua.korrespondent.net/world/4898915-u-polschi-stalasia-avariia-z-povitrianoui-kuleui-ye-postrazhdali",
+    "pubDate": "2026-07-31 11:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514540.png\">Повітряна куля готувалася до посадки на полі, однак під час маневру зачепилася за гілки дерев.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona abre al público las nuevas pistas de baloncesto bajo el viaducto de Vallcarca",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/barcelona-abre-pistas-baloncesto-viaducto-vallcarca-132983655",
+    "pubDate": "2026-07-31 11:44:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Франція посилила контроль на кордоні з Іспанією через мігрантів",
+    "link": "https://ua.korrespondent.net/world/4898913-frantsiia-posylyla-kontrol-na-kordoni-z-ispaniieui-cherez-mihrantiv",
+    "pubDate": "2026-07-31 11:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514527.jpg\">Рішення Париж ухвалив після загострення ситуації в іспанському анклаві Сеута, де спостерігається зростання кількості нелегальних мігрантів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ceuta se sume en el caos con miles de personas deambulando por las calles: \"La gente les da comida desde los balcones\"",
+    "link": "https://www.elperiodico.com/es/politica/20260731/ceuta-caos-migrantes-miles-calles-132985615",
+    "pubDate": "2026-07-31 11:37:41",
+    "category": "",
+    "description": "<h2>La ciudad autónoma ha tenido que suspender sus fiestas y los comercios se encuentran cerrados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francia ordena reforzar el control de la frontera con España por la llegada masiva de migrantes a Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260731/francia-ordena-reforzar-control-frontera-espana-ceuta-132985547",
+    "pubDate": "2026-07-31 11:37:35",
+    "category": "",
+    "description": "<h2>El Gobierno francés evita secundar la propuesta de Italia de suspender el espacio Schengen con España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "В іспанський анклав у Африці прорвалися понад 40 000 мігрантів",
+    "link": "https://ua.korrespondent.net/world/4898909-v-ispanskyi-anklav-u-afrytsi-prorvalysia-ponad-40-000-mihrantiv",
+    "pubDate": "2026-07-31 11:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514524.jpg\">Ця цифра значно перевищує показники, зафіксовані під час попередньої міграційної кризи в 2021 році.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мелоні планує вивести Іспанію із Шенгенської зони",
+    "link": "https://ua.korrespondent.net/world/4898907-meloni-planuie-vyvesty-ispaniui-iz-shenhenskoi-zony",
+    "pubDate": "2026-07-31 11:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514526.jpg\">Рим заявив про готовність вжити жорстких заходів у відповідь на міграційну кризу, яка загострилася довкола іспанського анклаву Сеута.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Хмельницькому пролунали потужні вибухи",
+    "link": "https://ua.korrespondent.net/ukraine/4898906-u-khmelnytskomu-prolunaly-potuzhni-vybukhy",
+    "pubDate": "2026-07-31 11:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514525.jpg\">Влада просить громадян зберігати спокій та користуватися лише офіційними джерелами інформації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tensión por la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/tension-crisis-migratoria-ceuta-fotos-132984798",
+    "pubDate": "2026-07-31 11:25:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Зірка Ілюзії обману приїхав допомагати українським дітям",
+    "link": "https://ua.korrespondent.net/ukraine/4898904-zirka-iluizii-obmanu-pryikhav-dopomahaty-ukrainskym-ditiam",
+    "pubDate": "2026-07-31 11:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514523.jpg\">Двічі номінований на премію Оскар актор Джессі Айзенберг прибув на Львівщину, де разом із волонтерами допомагає дітям і підліткам, які пережили травматичний досвід війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Фінляндія вперше виявила африканську чуму свиней біля кордону РФ",
+    "link": "https://ua.korrespondent.net/world/4898901-finliandiia-vpershe-vyiavyla-afrykansku-chumu-svynei-bilia-kordonu-rf",
+    "pubDate": "2026-07-31 11:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514508.jpg\">У Фінляндії вперше підтвердили випадок африканської чуми свиней. Вірус виявили у дикого кабана на сході країни неподалік від кордону з Росією.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anthropic asegura que su IA hackeó los sistemas de hasta tres empresas",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260731/anthropic-asegura-ia-hackeo-sistemas-empresas-claude-ataque-ciberseguridad-openai-chatgpt-hugging-face-132982324",
+    "pubDate": "2026-07-31 11:17:55",
+    "category": "",
+    "description": "<h2>La start-up dirigida por Dario Amodei reconoce que sus modelos accedieron de forma no autorizada a las entrañas de tres compañías debido a un error de configuración en el entorno en el que se testeaban sus capacidades</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Arnau Tordera (Obeses) carga contra el “monopolio” de un pop catalán “sin poso político, que no dice nada y solo entretiene”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260731/arnau-tordera-obeses-carga-monopolio-132952443",
+    "pubDate": "2026-07-31 11:16:57",
+    "category": "",
+    "description": "<h2 class=\"item\">El grupo de Osona presenta su nuevo álbum, ‘L’ai al cor’, con sonoridades que van de la cobla al thrash metal, este sábado en la ‘Festa major d’Obeses’, en Les Masies de Roda, así como el domingo en el festival Dansàneu (La Guingueta d’Àneu) y el 7 de agosto en Palamós</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Польща підтвердила падіння російської ракети Х-101",
+    "link": "https://ua.korrespondent.net/world/4898899-polscha-pidtverdyla-padinnia-rosiiskoi-rakety-kh-101",
+    "pubDate": "2026-07-31 11:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514509.jpg\">Президент країни очікує від уряду детального звіту стосовно інциденту з російською ракетою .в Люблінському воєводстві",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрон атакував авто на Херсонщині: є загиблий та поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4898897-dron-atakuvav-avto-na-khersonschyni-ye-zahyblyi-ta-poranenyi",
+    "pubDate": "2026-07-31 11:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514507.jpg\">Внаслідок влучання російського дрона на місці загинув чоловік. Дістав поранення 21-річний хлопець.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Агент ФСБ готував атаки на електростанції в Києві - СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4898896-ahent-fsb-hotuvav-ataky-na-elektrostantsii-v-kyievi-sbu",
+    "pubDate": "2026-07-31 11:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514506.jpg\">Рашисти завербували працівника підприємства з обробки граніту у Житомирській області, пообіцявши йому 100 доларів за виконання завдань.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стосунки між Києвом та Вашингтоном потеплішали",
+    "link": "https://ua.korrespondent.net/articles/4898894-stosunky-mizh-kyievom-ta-vashynhtonom-poteplishaly",
+    "pubDate": "2026-07-31 11:00:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514493.jpg\">США знову поводиться як союзник України: новий етап відносин чи тимчасове зближення, і чого чекати від цієї співпраці далі?",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Україна оголосила склад на фінал Кубка Біллі Джин Кінг",
+    "link": "https://ua.korrespondent.net/sport/tenis/4898883-ukraina-oholosyla-sklad-na-final-kubka-billi-dzhyn-kinh",
+    "pubDate": "2026-07-31 10:56:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514492.jpg\">Українські тенісистки готуються до відповідального матчу стадії 1/4 фіналу, де їхніми суперницями стане збірна Бельгії.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У російському Владивостоці згорів величезний склад",
+    "link": "https://ua.korrespondent.net/world/russia/4898890-u-rosiiskomu-vladyvostotsi-zghoriv-velycheznyi-sklad",
+    "pubDate": "2026-07-31 10:51:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514490.png\">Вранці 31 липня в місті спалахнув склад мережі DNS, площа пожежі сягнула тисячі квадратних метрів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El túnel del Cadí, puerta de la Cerdanya gerundense, es el segundo peaje más caro de España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260731/tunel-cadi-puerta-cerdanya-gerundense-132983546",
+    "pubDate": "2026-07-31 10:50:48",
+    "category": "",
+    "description": "<h2>Un informe de automovilistas sitúa esta vía de la C-16 solo por detrás de los Túneles de ArtXanda, en Bilbao</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Illa reconoce el fiasco en las pruebas PISA y urge a Niubó a esclarecer los hechos: \"Las cosas no han ido bien. Tomaremos decisiones\"",
+    "link": "https://www.elperiodico.com/es/politica/20260731/illa-fiasco-pisa-pruebas-educacion-catalunya-132966301",
+    "pubDate": "2026-07-31 10:49:53",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/salvador-illa-educacion-financiacion-mandato-comparecencia-catalunya-132954259\" target=\"_blank\">Illa encara la segunda parte del mandato con la educación y la financiación como grandes retos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260724/govern-alerta-incidencia-hara-incomparables-pisa-2025-132765067\" target=\"_blank\">Un error en las pruebas PISA de Catalunya invalida los próximos resultados: no serán comparables con otros años ni territorios</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260727/pruebas-pisa-cataluna-junts-esther-niubo-salvador-illa-132842761\" target=\"_blank\">La oposición en bloque exige a Niubó dimisiones por el fiasco de las pruebas PISA</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський назвав втрати України та РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4898888-zelenskyi-nazvav-vtraty-ukrainy-ta-rf",
+    "pubDate": "2026-07-31 10:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514489.jpg\">Загальні втрати двох армій перевищили 2 млн вбитими і пораненими за понад чотири роки війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crisis migratoria sin precedentes en Ceuta: hasta 49.000 personas habrían cruzado la frontera",
+    "link": "https://www.elperiodico.com/es/videos/politica/crisis-migratoria-precedentes-ceuta-cruzado-frontera/132983450.shtml",
+    "pubDate": "2026-07-31 10:47:07",
+    "category": "",
+    "description": "Miles de hombres han pasado la noche tirados por las calles o en la playa",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "АТЕШ розкрив плани Путіна щодо зміну влади у Криму",
+    "link": "https://ua.korrespondent.net/world/russia/4898885-atesh-rozkryv-plany-putina-schodo-zminu-vlady-u-krymu",
+    "pubDate": "2026-07-31 10:45:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514487.jpg\">Кремль може зробити ставку на силовиків, які зможуть жорсткіше контролювати ситуацію на півострові.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Краматорськ, Слов’янськ і Дружківка під вогнем: є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4898884-kramatorsk-sloviansk-i-druzhkivka-pid-vohnem-ye-postrazhdali",
+    "pubDate": "2026-07-31 10:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514461.jpg\">Російські війська протягом 30 липня атакували населені пункти Донецької області, внаслідок чого п’ятеро цивільних отримали поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere el padre de Paula Echevarría, Luis, a los 76 años",
+    "link": "https://www.elperiodico.com/es/videos/gente/muere-padre-paula-echevarria-luis-76-anos-video/132983029.shtml",
+    "pubDate": "2026-07-31 10:37:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zontes completa su ofensiva tricilíndrica con las nuevas 703T ETC y 703R ETC",
+    "link": "https://www.elperiodico.com/es/motor/20260731/zontes-completa-ofensiva-tricilindrica-nuevas-703t-703r-etc-132848670",
+    "pubDate": "2026-07-31 10:27:26",
+    "category": "",
+    "description": "<h2>Incorporan más electrónica, mantienen un precio competitivo y amplían la familia de media cilindrada con dos propuestas de marcada personalidad</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ вдарила по Новій пошті на Вінниччині: восьмеро поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4898879-rf-vdaryla-po-novii-poshti-na-vinnychchyni-vosmero-poranenykh",
+    "pubDate": "2026-07-31 10:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514440.jpg\">Відомо про вісім постраждалих, троє з яких зараз знаходяться в реанімації. Один із них у важкому стані.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La bolsa española enfila la cota inédita de los 20.000 puntos con el petróleo como árbitro",
+    "link": "https://www.elperiodico.com/es/economia/20260731/bolsa-enfila-cota-inedita-20-132982365",
+    "pubDate": "2026-07-31 10:17:24",
+    "category": "",
+    "description": "<h2>La banca se convierte en el principal motor del Ibex pero la geopolítica y Wall Street son los factores clave</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El flujo de personas entrando a Ceuta desde Marruecos continúa a primera hora de la mañana",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/flujo-personas-entrando-ceuta-marruecos-continua-video/132982264.shtml",
+    "pubDate": "2026-07-31 10:17:22",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Desalojadas una treintena de personas sin hogar de un asentamiento de la Ronda Litoral de Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260731/desalojadas-treintena-personas-sin-hogar-asentamiento-ronda-litoral-132981688",
+    "pubDate": "2026-07-31 10:17:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ayuntamiento de Barcelona lo justifica por cuestiones de \"seguridad, salubridad y convivencia\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260617/ronda-litoral-absorbe-auge-personas-sin-techo-barcelona-131443014\">La Ronda Litoral absorbe el auge de personas sin techo en Barcelona, que aumentan el 45% en un año</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260729/drama-calor-sinhogar-barcelona-llevamos-10-quemados-graves-hospital-santa-anna-132928974\">El drama del calor para los sinhogar de Barcelona: \"Ya llevamos 10 quemados graves en Santa Anna este verano\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб підтвердив ураження Волгоградського НПЗ",
+    "link": "https://ua.korrespondent.net/ukraine/4898877-henshtab-pidtverdyv-urazhennia-volhohradskoho-npz",
+    "pubDate": "2026-07-31 10:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514439.jpg\">Унаслідок атаки уражено ключові елементи виробничих потужностей НПЗ. Там вирує масштабна пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lola Larumbe, en el videopódcast del suplemento ‘ABRIL’: “Es importante poner la oreja y saber qué es lo que la gente más próxima quiere”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260731/lola-larumbe-videopodcast-suplemento-abril-132673872",
+    "pubDate": "2026-07-31 10:16:05",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">La directora de la Librería Alberti, que el año pasado cumplió 50 años de puertas abiertas en Madrid, es esta semana la protagonista de ‘Libros y Cosas’</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Без графіків і термінів: у Криму хаотично вимикають світло",
+    "link": "https://ua.korrespondent.net/ukraine/4898875-bez-hrafikiv-i-terminiv-u-krymu-khaotychno-vymykauit-svitlo",
+    "pubDate": "2026-07-31 10:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514438.jpg\">Окупаційна адміністрація пів острова пояснює це ризиком масштабної аварії в енергосистемі та попереджає про непередбачувані відключення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cáncer de ano: el tumor que puede confundirse con hemorroides y afecta a mayores de 50 años",
+    "link": "https://www.elperiodico.com/es/salud/20260731/cancer-ano-riesgo-mujeres-mayores-50-hemorroides-115750745",
+    "pubDate": "2026-07-31 10:06:00",
+    "category": "",
+    "description": "<h2>El virus del papiloma humano (VPH) es la causa del 90% de los diagnósticos de cáncer anal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'Haraga': el fenómeno viral en redes sociales que incita a jóvenes marroquís a cruzar a nado la frontera hacia Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/haraga-fenomeno-viral-redes-sociales-incita-jovenes-marroquis-cruzar-frontera-nado-ceuta-video/132981891.shtml",
+    "pubDate": "2026-07-31 10:04:47",
+    "category": "",
+    "description": "",
+    "topic": "блогери",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Catalunya licitará 1.400 millones en obras públicas este 2026, un 17% más que el año anterior",
+    "link": "https://www.elperiodico.com/es/politica/20260731/infraestructuras-catalunya-licitacion-obras-salvador-illa-1400-millones-132966236",
+    "pubDate": "2026-07-31 10:04:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Illa reivindica que su Govern ha puesto Catalunya \"en marcha\" con las infraestructuras \"que el país necesita\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/salvador-illa-educacion-financiacion-mandato-comparecencia-catalunya-132954259\" target=\"_blank\">Illa encara la segunda parte del mandato con la educación y la financiación como grandes retos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260730/contratistas-catalanes-reclaman-doblar-inversion-infraestructuras-informe-anual-132948162\" target=\"_blank\">Los contratistas catalanes reclaman doblar la inversión en infraestructuras ante el déficit acumulado de 49.500 millones</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260727/sondeo-catalunya-autopistas-peajes-impuestos-vineta-132771090\" target=\"_blank\">Sondeo Catalunya: La mitad de los catalanes creen que el mantenimiento de las autopistas se debe pagar con peajes</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Хусити змусили саудівські танкери вирушити в обхід Африки - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4898872-khusyty-zmusyly-saudivski-tankery-vyrushyty-v-obkhid-afryky-zmi",
+    "pubDate": "2026-07-31 10:04:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514436.jpg\">Відмова від маршруту через Баб-ель-Мандеб на користь безпечного шляху навколо Африки додасть танкерам два тижні шляху.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Artritis reumatoide, lupus, ataxia de Friedrich... estas son las otras enfermedades que podrían acogerse a la jubilación anticipada",
+    "link": "https://www.elperiodico.com/es/sanidad/20260731/artritis-reumatoide-lupus-ataxia-friedrich-enfermedades-jubilacion-anticipada-132980203",
+    "pubDate": "2026-07-31 10:03:19",
+    "category": "",
+    "description": "<h2 class=\"item\">La Confederación Española de Personas con Discapacidad impulsará nuevos informes para que el listado de enfermedades siga ampliándose </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260728/espina-bifida-parkinson-lesion-medular-gobierno-amplia-jubilacion-anticipada-enfermedades-132894050\">Espina bífida, párkinson, lesión medular... el Gobierno amplía la jubilación anticipada a once nuevas enfermedades</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rubén Zaballos, propietario de 200 pisos: \"Realmente se está gestionando fatal la política de vivienda\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20260731/vivienda-alquiler-ruben-zaballos-200-pisos-propietario-dv-132900424",
+    "pubDate": "2026-07-31 10:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">España tiene una de las tasas de emancipación más altas de la Unión Europea</h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/economia/20260728/catalunya-prorroga-ano-tope-alquileres-lista-zonas-tensionadas-132876545\" >MAPA | Catalunya prorroga un año el tope a los alquileres y amplía a 302 los municipios afectados</a></u></h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/catalunya/20260728/salarios-cataluna-barcelona-santiago-nino-becerra-economista-economia-pib-dv-loc-130707910\" >El diagnóstico de Santiago Niño Becerra, economista: “La renta en Catalunya está concentrada”</a></u></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рекордні дати та онлайн-шлюби: в Україні різко побільшало одружень",
+    "link": "https://ua.korrespondent.net/ukraine/4898869-rekordni-daty-ta-onlain-shluiby-v-ukraini-rizko-pobilshalo-odruzhen",
+    "pubDate": "2026-07-31 09:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514421.jpg\">Попри війну, українці уклали майже 80 тисяч шлюбів за пів року. Значну частину весіль провели онлайн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un bus averiado tapona el acceso sur a Barcelona por la C-31 en hora punta",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/bus-averiado-congestion-c31-132981425",
+    "pubDate": "2026-07-31 09:53:12",
+    "category": "",
+    "description": "<h2>El incidente ha provocado 1,5 kilómetros de circulación lenta en dirección a la plaza Cerdà</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "СБУ уразила авіазавод в Євпаторії",
+    "link": "https://ua.korrespondent.net/ukraine/4898867-sbu-urazyla-aviazavod-v-yevpatorii",
+    "pubDate": "2026-07-31 09:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514420.jpg\">Також під удар потрапила інфраструктура порту Тамань на Чорному морі. Там зафіксовано масштабну пожежу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un productor de cine demanda a Netflix por la desaparición de una película de Nicolas Cage: exige una indemnización de 105 millones de dólares",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260731/productor-cine-demanda-netflix-desaparicion-pelicula-nicolas-cage-fortitude-132981559",
+    "pubDate": "2026-07-31 09:51:38",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удари по Чернігівщині: є постраждалі, зруйновано будинки та ферму",
+    "link": "https://ua.korrespondent.net/ukraine/4898865-udary-po-chernihivschyni-ye-postrazhdali-zruinovano-budynky-ta-fermu",
+    "pubDate": "2026-07-31 09:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514418.jpg\">Внаслідок нової серії атак дронами постраждали четверо людей, пошкоджено житлові будинки, підприємства та фермерське господарство.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos advierten que un reciente tiroteo en La Mina rozó una tragedia: “Puso en peligro a muchas personas”",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/mina-tiroteo-armas-mossos-detenidos-132981352",
+    "pubDate": "2026-07-31 09:48:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía avisa la virulencia de uno de los últimos episodios con armas de fuego en el barrio, con fuego cruzado y ráfagas de disparos entre personas de dos grupos enfrentados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260606/mina-tiroteos-mossos-controles-armas-drogas-131020649\">Los Mossos intensificarán los controles de armas y drogas en La Mina tras los últimos tiroteos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere el padre de Paula Echevarría, Luis, a los 76 años",
+    "link": "https://www.elperiodico.com/es/gente/20260731/muere-padre-paula-echevarria-luis-dv-132981465",
+    "pubDate": "2026-07-31 09:47:41",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260708/paula-echevarria-mayoria-edad-hija-132257827\" >Paula Echevarría sobre la mayoría de edad de su hija: \"Lo que no quiere David es que se haga una revolución por sus 18 años\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія поцілила у цивільну інфраструктуру на Вінниччині",
+    "link": "https://ua.korrespondent.net/ukraine/4898863-rosiia-potsilyla-u-tsyvilnu-infrastrukturu-na-vinnychchyni",
+    "pubDate": "2026-07-31 09:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514417.jpg\">За попередньою інформацією, внаслідок російської атаки на Вінниччину постраждала одна людина.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las sustancias químicas del agua potable podrían aumentar el riesgo de cáncer de útero",
     "link": "https://www.elperiodico.com/es/tendencias21/20260731/sustancias-quimicas-agua-potable-aumentar-132981452",
     "pubDate": "2026-07-31 09:40:32",
@@ -72,6 +621,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Nadar tres kilómetros para alcanzar Ceuta con aletas y flotadores: \"No me importa el riesgo, quiero dejar Marruecos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260731/llegar-ceuta-marruecos-mar-flotadores-aletas-marruecos-testimonios-volvere-hacerlo-132980364",
+    "pubDate": "2026-07-31 09:33:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Jóvenes como Fátima, Nabil y Hanna explican su empeño en llegar a suelo español y vivir el \"sueño europeo\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\">Entrada masiva de inmigrantes a Ceuta y Melilla, última hora en directo | Sánchez viaja hoy a Ceuta tras activar al Ejército y acordar con Marruecos la agilización de las devoluciones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Загиблі, поранені і масштабні пошкодження: РФ вдарила по Нікопольщині",
     "link": "https://ua.korrespondent.net/ukraine/4898860-zahybli-poraneni-i-masshtabni-poshkodzhennia-rf-vdaryla-po-nikopolschyni",
     "pubDate": "2026-07-31 09:32:00",
@@ -95,6 +653,15 @@
     "pubDate": "2026-07-31 09:26:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514394.jpg\">Наразі енергетики роблять усе можливе, щоб якнайшвидше заживити усіх знеструмленних споживачів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кабмін інвестує майже мільярди в освіту: що зміниться у школах і ліцеях",
+    "link": "https://ua.korrespondent.net/business/financial/4898854-kabmin-investuie-maizhe-miliardy-v-osvitu-scho-zminytsia-u-shkolakh-i-litseiakh",
+    "pubDate": "2026-07-31 09:23:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514391.jpg\">Кабінет міністрів ухвалив рішення про масштабне фінансування освіти. Кошти спрямують на оновлення професійних закладів, розвиток академічних ліцеїв та організацію безплатного харчування школярів у прифронтових регіонах.",
     "topic": "",
     "topic_match_probability": 0
   },
