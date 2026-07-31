@@ -1,5 +1,518 @@
 [
   {
+    "title": "Cuatro viaja a 'Punto Nemo' con la serie de ciencia ficción de Alba Flores: \"Nunca me había demandado tanto un personaje\"",
+    "link": "https://www.elperiodico.com/es/tele/20260731/punto-nemo-serie-alba-flores-cuatro-115698109",
+    "pubDate": "2026-07-31 14:23:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La cadena ofrece este lunes el 'thriller', que cuenta también con Óscar Jaenada, Maxi Iglesias, Michelle Calvó y Najwa Nimri</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260731/series-estrenos-agosto-2026-netflix-hbo-disney-prime-apple-movistar-filmin-atresplayer-skyshowtime-132839551\">Las 10 series que no te puedes perder este agosto</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El déficit del Estado sube al 1,3% del PIB en el primer semestre y el público baja al 1,03% hasta mayo",
+    "link": "https://www.elperiodico.com/es/economia/20260731/deficit-sube-1-3-pib-132994610",
+    "pubDate": "2026-07-31 14:21:19",
+    "category": "",
+    "description": "<h2>Los ingresos por IVA crecen un 3,9%; los de IRPF, un 15,6% y los de Sociedades, un 13,2%</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de Castellón sigue sin ser estabilizado y la situación es favorable en Zamora",
+    "link": "https://www.elperiodico.com/es/politica/20260731/incendio-castellon-sigue-estabilizado-situacion-132994537",
+    "pubDate": "2026-07-31 14:21:08",
+    "category": "",
+    "description": "<h2>La evolución favorable en Zamora y Madrid permite aliviar la emergencia, con Castellón aún en vilo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мінсоцполітики ініціювало перевірку Артеку на Закарпатті",
+    "link": "https://ua.korrespondent.net/ukraine/4898977-minsotspolityky-initsiuivalo-perevirku-arteku-na-zakarpatti",
+    "pubDate": "2026-07-31 14:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514662.jpg\">Національна соціальна сервісна служба перевірить умови перебування дітей в Артеку на Закарпатті.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Скоєно замах на командира корпусу Хартія",
+    "link": "https://ua.korrespondent.net/ukraine/4898975-skoieno-zamakh-na-komandyra-korpusu-khartiia",
+    "pubDate": "2026-07-31 14:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514649.jpg\">Нападник і його спільник затримані. Ведуться необхідні процесуальні дії, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Un contrato de 61 millones mejorará el tratamiento de aguas residuales en una treintena de municipios del Vallès y el Moianès",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/contrato-61-millones-mejorara-tratamiento-aguas-residuales-valles-moianes-tordera-132993655",
+    "pubDate": "2026-07-31 14:13:46",
+    "category": "",
+    "description": "<h2>El Consorci Besòs Tordera licita por 61,2 millones de euros la gestión, el mantenimiento y la renovación de depuradoras, colectores y estaciones de bombeo</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20250922/cataluna-agua-regenerada-directa-121843326\">De las cloacas al grifo: Catalunya tratará de convertir aguas residuales en agua potable sin paso previo por el río</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una crisis cíclica: los otros momentos de tensión fronteriza en Ceuta y Melilla por la llegada de migrantes",
+    "link": "https://www.elperiodico.com/es/politica/20260731/crisis-ciclica-momentos-tension-fronteriza-ceuta-melilla-132994141",
+    "pubDate": "2026-07-31 14:13:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La frontera de las dos ciudades con Marruecos ha sido escenario de múltiples asaltos desde hace 20 años</h2><h2 class=\"item\">El Reino alauí ha usado muchas veces las crisis migratorias como fórmula de presión sobre España</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\" target=\"_blank\">Última hora de Ceuta y Melilla, en directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Finlandia secunda a Italia y pide excluir a España del espacio Schengen por el \"fracaso\" de su política migratoria",
+    "link": "https://www.elperiodico.com/es/videos/internacional/finlandia-secunda-italia-pide-excluir-espana-espacio-schengen-fracaso-politica-migratoria-video/132994068.shtml",
+    "pubDate": "2026-07-31 14:12:44",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ньюкасл знайшов заміну головному тренеру",
+    "link": "https://ua.korrespondent.net/sport/football/4898971-nuikasl-znaishov-zaminu-holovnomu-treneru",
+    "pubDate": "2026-07-31 14:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514661.jpg\">Англійський клуб досяг принципової домовленості і готується виплатити компенсацію саудівському Аль-Ахлі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'Influencers' e irresponsabilidad: ¿no hay límite?",
+    "link": "https://www.elperiodico.com/es/gente/20260731/mamarazzis-influencers-irresponsabilidad-limite-laura-fa-132992987",
+    "pubDate": "2026-07-31 14:09:53",
+    "category": "",
+    "description": "",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві прибирають російськомовні вивіски: де вже провели демонтаж",
+    "link": "https://ua.korrespondent.net/city/kiev/4898972-u-kyievi-prybyrauit-rosiiskomovni-vyvisky-de-vzhe-provely-demontazh",
+    "pubDate": "2026-07-31 14:08:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514660.jpg\">У Києві триває очищення міського простору від російськомовних вивісок. За останні два місяці у шести районах столиці демонтували понад два десятки конструкцій, що порушували вимоги мовного законодавства.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una diputada del PP desde Ceuta: \"La situación es terrorífica. La ciudad está colapsada y sin policía. No tienen dinero, no saben dónde ir y están asaltando locales\"",
+    "link": "https://www.elperiodico.com/es/politica/20260731/diputada-pp-ceuta-situacion-terrorifica-132993760",
+    "pubDate": "2026-07-31 14:04:29",
+    "category": "",
+    "description": "<h2>La valenciana Alma Alfonso narra en primera persona cómo está viviendo estas 72 horas desde Ceuta: \"no entiendo es cómo este gobierno no hace nada\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260731/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\" target=\"_blank\">Última hora de Ceuta y Melilla, en directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Silencio ante la glorificación de fascistas",
+    "link": "https://www.elperiodico.com/es/opinion/20260731/silencio-glorificacion-fascistas-extrema-derecha-union-europea-nazi-ucrania-zelenski-132992836",
+    "pubDate": "2026-07-31 14:03:36",
+    "category": "",
+    "description": "<h2>Bruselas no denuncia la glorificación de figuras fascistas y colaboracionistas nazis en Ucrania, Bélgica, Croacia y los países bálticos, ignorando su papel en el exterminio de minorías</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "BYD se atreve a entrar en el segmento más específico de Japón: así es el Racco, su nuevo kei car",
+    "link": "https://www.elperiodico.com/es/motor/20260731/byd-racco-atreve-segmento-kei-car-japon-132911005",
+    "pubDate": "2026-07-31 14:02:30",
+    "category": "",
+    "description": "<h2>La marca china ha presentado un nuevo modelo creado única y exclusivamente para competir en el mercado japonés.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El pabellón de Bermillo de Sayago se vacía ante la estabilización del incendio",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/pabellon-bermillo-sayago-vacia-estabilizacion/132993509.shtml",
+    "pubDate": "2026-07-31 14:00:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El cuerpo necesita ocho días de vacaciones para recuperarse y el 'efecto descanso' dura un mes tras volver al trabajo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260731/cuerpo-necesita-ocho-dias-vacaciones-desconectar-132982563",
+    "pubDate": "2026-07-31 14:00:04",
+    "category": "",
+    "description": "<h2 class=\"item\">La neurociencia explica que la desconexión laboral permite al cerebro reducir el estrés crónico y mejorar la atención y la memoria</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260731/maria-jose-valiente-psicologa-vacaciones-132475827\">Maria José Valiente, psicóloga: \"De vacaciones en casa estarás como un rey si te lo montas bien\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Японія відродила Національну раду з розвідки",
+    "link": "https://ua.korrespondent.net/world/4898969-yaponiia-vidrodyla-natsionalnu-radu-z-rozvidky",
+    "pubDate": "2026-07-31 13:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514648.jpg\">Новий орган координуватиме розвідувальну інформацію від поліції, МЗС та Міноборони Японії.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "США та Ізраїль планують сухопутну блокаду Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4898965-ssha-ta-izrail-planuuit-sukhoputnu-blokadu-iranu-zmi",
+    "pubDate": "2026-07-31 13:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514647.jpg\">Цей план вимагатиме від США та Ізраїлю чинити тиск на сусідів Ірану та його регіональних партнерів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los vecinos de Ceuta denuncian estar “abandonados ante una invasión”",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/vecinos-ceuta-denuncian-abandonados-invasion-crisis-migratoria/132993085.shtml",
+    "pubDate": "2026-07-31 13:54:48",
+    "category": "",
+    "description": "Muchos comercios están cerrados y la gente tiene miedo a salir a la calle",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни влаштували \"банківську паніку\": із системи зникли трильйони рублів",
+    "link": "https://ua.korrespondent.net/world/russia/4898964-rosiiany-vlashtuvaly-bankivsku-paniku-iz-systemy-znykly-tryliony-rubliv",
+    "pubDate": "2026-07-31 13:54:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514646.jpg\">З російських банків витекли понад 2,5 трлн рублів готівкою. Есперти пов'язують тенденцію зі зростанням ризиків для економіки та бізнесу.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La Supercopa Endesa cambia sus criterios de clasificación",
+    "link": "https://as.com/baloncesto/acb/la-supercopa-endesa-cambia-sus-criterios-de-clasificacion-f202607-n/",
+    "pubDate": "2026-07-31 13:51:17",
+    "category": "Baloncesto",
+    "description": "El primer torneo oficial de la temporada ha sufrido un ligero cambio en su modo de acceso: el vigente campeón no tiene plaza asegurada, pero el campeón de la fase regular de la ACB sí. El formato se estrenará en 2027.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Уражено три логістичні центри у РФ - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4898963-urazheno-try-lohistychni-tsentry-u-rf-zelenskyi",
+    "pubDate": "2026-07-31 13:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514645.jpg\">Під удари потрапили важливі цілі на відстані 270-1300 кілометрів від лінії фронту, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Закупівлі дров для ЗСУ: шахраї привласнили більше 2 млн грн",
+    "link": "https://ua.korrespondent.net/ukraine/4898957-zakupivli-drov-dlia-zsu-shakhrai-pryvlasnyly-bilshe-2-mln-hrn",
+    "pubDate": "2026-07-31 13:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514615.jpg\">На Дніпропетровщині правоохоронці викрили ймовірну схему привласнення бюджетних коштів під час закупівлі дров для військової частини.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La oposición ve \"triunfalista\" el balcance de Illa y le reprocha la ausencia de autocrítica: \"Ha negado la realidad\"",
+    "link": "https://www.elperiodico.com/es/politica/20260731/oposicion-ve-triunfalista-balcance-illa-132966339",
+    "pubDate": "2026-07-31 13:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/illa-fiasco-pisa-pruebas-educacion-catalunya-132966301\">Illa reconoce el fiasco en las pruebas PISA y urge a Niubó a esclarecer los hechos: \"Las cosas no han ido bien. Tomaremos decisiones\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/salvador-illa-educacion-financiacion-mandato-comparecencia-catalunya-132954259\" target=\"_blank\">Illa encara la segunda parte del mandato con la educación y la financiación como grandes retos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/infraestructuras-catalunya-licitacion-obras-salvador-illa-1400-millones-132966236\">Catalunya licitará 1.400 millones en obras públicas este 2026, un 17% más que el año anterior</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sanidad aumenta los dispositivos médicos y refuerza la seguridad en los centros de salud de Ceuta",
+    "link": "https://www.elperiodico.com/es/sanidad/20260731/sanidad-aumenta-dispositivos-ceuta-seguridad-centros-salud-medicos-132989925",
+    "pubDate": "2026-07-31 13:35:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Médicos y enfermeras se sumarán a los centros de Atención Primaria y también al hospital de la ciudad autónoma</h2><h2 class=\"item\">El INGESA activará el Plan de Catástrofes Externas, con anexo específico para accidentes con múltiples víctimas, si fuera necesario</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\">Última hora de Ceuta y Melilla, en directo | Sánchez llega a Ceuta entre insultos y enfrentamientos de manifestantes con la Policía</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Este es el termo de 24 € de Nespresso que se ha hecho viral por una razón: mantiene el café helado durante horas",
+    "link": "https://www.elperiodico.com/es/shopping/20260731/termo-mantener-frio-cafe-nespresso-travel-tumbler-132945232",
+    "pubDate": "2026-07-31 13:35:15",
+    "category": "",
+    "description": "<h2>El termo de Nespresso es uno de los más buscados por su capacidad de mantener el café helado y su comodidad para llevarlo a todas partes</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El ICO activará en septiembre 12.150 millones para impulsar la vivienda asequible",
+    "link": "https://www.elperiodico.com/es/economia/20260731/ico-activara-septiembre-12-150-132991926",
+    "pubDate": "2026-07-31 13:34:56",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo instrumento de España Crece financiará la promoción y la explotación en alquiler a largo plazo e incluirá un tramo no reembolsable del 30% para promotores que construyan vivienda asequible</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Empiezan las obras del nuevo edificio de investigación de la UPC en el Campus Diagonal-Besòs",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/empiezan-obras-edificio-investigacion-upc-incasol-campus-digonal-besos-132983698",
+    "pubDate": "2026-07-31 13:34:29",
+    "category": "",
+    "description": "<h2>Con un coste de inversión de 24,3 millones de euros, el equipamento se ejecutará en un plazo de 21 meses</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260330/generalitat-compromete-fabrica-nova-manresa-128598126\">La Generalitat compromete 10 millones para la Fabrica Nova de Manresa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Львові завершили рятувальну операцію після атаки РФ",
+    "link": "https://ua.korrespondent.net/city/lvov/4898961-u-lvovi-zavershyly-riatuvalnu-operatsiui-pislia-ataky-rf",
+    "pubDate": "2026-07-31 13:34:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514633.jpg\">Російський ракетний удар по Львову забрав життя однієї людини, ще 38 осіб зазнали поранень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "До +37°: яку погоду обіцяють синоптики на вихідні",
+    "link": "https://ua.korrespondent.net/ukraine/4898958-do-37-yaku-pohodu-obitsiauit-synoptyky-na-vykhidni",
+    "pubDate": "2026-07-31 13:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514632.jpg\">Синоптики прогнозують суху та спекотну погоду на 1-2 серпня. Найвищі температури очікуються на заході країни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cambios en el parking express de la T1 del Aeropuerto del Prat de Barcelona: dos nuevas zonas claramente diferenciadas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/barcelona-aeropuerto-parking-t1-cambios-pasajeros-dv-132964649",
+    "pubDate": "2026-07-31 13:25:56",
+    "category": "",
+    "description": "<h2 class=\"item\">En 2025 se superó el récord de pasajeros durante el verano</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260730/huelga-indefinida-handling-aeropuerto-barcelona-el-prat-agosto-132950433\">Una huelga indefinida en el 'handling' del aeropuerto de Barcelona-El Prat amenaza las vacaciones de dos millones de pasajeros</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260717/aena-invertira-153-millones-transformar-terminal-t2-aeropuerto-barcelona-el-prat-coser-132544827\">Aena invertirá 153 millones para transformar y \"coser\" la T2 del aeropuerto de Barcelona-El Prat</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Іран вдарив по стратегічних об'єктах США в Кувейті та Бахрейні",
+    "link": "https://ua.korrespondent.net/world/4898953-iran-vdaryv-po-stratehichnykh-obiektakh-ssha-v-kuveiti-ta-bakhreini",
+    "pubDate": "2026-07-31 13:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514614.jpg\">Цілями стали ангари для літаків, системи супутникового зв'язку, електрогенератори, навігаційні системи та склади.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Santa Coloma de Gramenet incorpora cinco agentes a la Policía Local",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/santa-coloma-gramenet-incorpora-cinco-agentes-policia-local-132988420",
+    "pubDate": "2026-07-31 13:23:06",
+    "category": "",
+    "description": "<h2>Los nuevos efectivos se suman a otros cinco que ingresaron en el cuerpo en febrero de 2026</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260124/policia-local-santa-coloma-gramenet-mejor-valorada-vecinos-area-barcelona-126009440\">La Policia Local de Santa Coloma de Gramenet es la mejor valorada por los vecinos del área de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez condena la violación de la integridad territorial de España en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/sanchez-condena-violacion-integridad-territorial-ceuta/132991150.shtml",
+    "pubDate": "2026-07-31 13:21:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gana 35.000 euros en la ONCE y no puede cobrarlos: una decisión de su marido tiene la culpa",
+    "link": "https://www.elperiodico.com/es/loterias-y-sorteos/20260731/loteria-mujer-gana-once-lista-autoprohibicion-juego-culpa-marido-dv-et-132982999",
+    "pubDate": "2026-07-31 13:21:27",
+    "category": "",
+    "description": "<h2 class=\"item\">La afectada ha puesto el caso en manos de la Justicia y la hija de ambos resume: \"Mi padre tenía un pensamiento machista\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/loteria-navidad/20260725/decimo-fecha-victoria-espana-mundial-2026-loteria-navidad-19726-donde-comprar-dv-132655271\" >Furor por la Lotería de Navidad tras la victoria de España en el Mundial: el número más buscado y dónde comprarlo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/loterias-y-sorteos/\" >Sorteos</a></h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗМІ дізналися про ідею Зеленського щодо Starlink",
+    "link": "https://ua.korrespondent.net/world/4898954-zmi-diznalysia-pro-ideui-zelenskoho-schodo-Starlink",
+    "pubDate": "2026-07-31 13:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514611.jpeg\">Українські військові хочуть атакувати російські пускові установки балістичних ракет за допомогою Starlink, стверджують джерела.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Манчестер Сіті працює над переходом голкіпера збірної Аргентини",
+    "link": "https://ua.korrespondent.net/sport/football/4898946-manchester-siti-pratsuiie-nad-perekhodom-holkipera-zbirnoi-arhentyny",
+    "pubDate": "2026-07-31 13:17:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514613.jpg\">Англійський гранд розпочав переговори з французьким Марселем щодо переходу досвідченого аргентинського воротаря.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'Mother Mary', o cómo convertir a Anne Hathaway en Taylor Swift: \"Quise que su presencia fuera lo más icónica posible\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260731/mother-mary-convertir-anne-hathaway-taylor-swift-132982573",
+    "pubDate": "2026-07-31 13:15:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La nueva película de David Lowery muestra a una estrella del pop atrapada en una encrucijada espiritual y creativa que busca reinventarse como artista</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260730/critica-mother-mary-fantasia-musica-132951659\">Crítica de 'Mother Mary': Una fantasía con música, espiritismo y alta costura, tan excesiva como subyugante, tan sobrecargada como íntima</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "У Слов’янську залишаються 32 тисячі цивільних",
+    "link": "https://ua.korrespondent.net/ukraine/4898950-u-sloviansku-zalyshauitsia-32-tysiachi-tsyvilnykh",
+    "pubDate": "2026-07-31 13:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514612.jpg\">Зокрема, комунальники, медики, поліцейські, рятувальники ДСНС спільно з родинами ще знаходяться у громаді.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі затримали українця за підозрою у крадіжці 171 електровелосипеда",
+    "link": "https://ua.korrespondent.net/world/4898948-u-polschi-zatrymaly-ukraintsia-za-pidozroui-u-kradizhtsi-171-elektrovelosypeda",
+    "pubDate": "2026-07-31 13:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514610.jpg\">Громадянина України, якого розшукувала Німеччина за підозрою у масштабній крадіжці електровелосипедів, затримали під час прикордонного контролю в Польщі.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Navarro seguirá en el Barça",
+    "link": "https://as.com/baloncesto/euroliga/juan-carlos-navarro-seguira-en-el-barca-f202607-n/",
+    "pubDate": "2026-07-31 13:09:21",
+    "category": "Baloncesto",
+    "description": "El exjugador, una leyenda en la pista, abandona las funciones de su último cargo, pero cumplirá su contrato y seguirá vinculado a la sección.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Метінвесті заявили про підвищення зарплат працівникам",
+    "link": "https://ua.korrespondent.net/business/companies/4898945-u-metinvesti-zaiavyly-pro-pidvyschennia-zarplat-pratsivnykam",
+    "pubDate": "2026-07-31 13:04:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514598.jpg\">Рішення ухвалили попри воєнні ризики, перебої з енергопостачанням, складну логістику та посилення торговельних обмежень на ринку Європи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rodri Hernández: \"Mi padre siempre quiso que hiciera un intercambio en una escuela secundaria estadounidense durante un año. Pero mi sueño de jugar al fútbol lo hizo imposible\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260731/rodri-hernandez-padre-futbolista-futbol-seleccion-espanola-dv-et-132962775",
+    "pubDate": "2026-07-31 13:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El centrocampista del Manchester City, pretendido por el Real Madrid, vive un momento dulce: se proclamó campeón del Mundo con España y logró ganar el premio al MVP del torneo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260720/vida-personal-ferran-torres-jugador-132622071\">De la ruptura con una famosa 'influencer' a los problemas de salud mental: así es la vida personal de Ferran Torres</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Кіпрі затримали британця за підозрою у шпигунстві на користь Ірану",
+    "link": "https://ua.korrespondent.net/world/4898943-na-kipri-zatrymaly-brytantsia-za-pidozroui-u-shpyhunstvi-na-koryst-iranu",
+    "pubDate": "2026-07-31 13:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514596.jpg\">На Кіпрі затримали чоловіка з британським та азербайджанським громадянством, якого Велика Британія підозрює у шпигунстві на користь Ірану.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Скелі призупинили набір новобранців",
+    "link": "https://ua.korrespondent.net/ukraine/4898941-u-skeli-pryzupynyly-nabir-novobrantsiv",
+    "pubDate": "2026-07-31 12:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514597.png\">Призупинення поповнення пов’язане з перевіркою Генштабом комплектування військових частин і розподілу особового складу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una nueva grieta en uno de los edificios afectados por el socavón del Putxet alarga hasta septiembre el retorno del 38% de los vecinos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/nueva-grieta-edificios-afectados-socavon-132987200",
+    "pubDate": "2026-07-31 12:54:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa, sobre el error de Educación con PISA: \"Tomaremos las decisiones que haya que tomar\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/illa-error-educacion-pisa-tomaremos/132989272.shtml",
+    "pubDate": "2026-07-31 12:52:47",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Trump anuncia un acuerdo para el \"desarme total\" de Hamás en el marco del plan de paz para Gaza",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-anuncia-acuerdo-desarme-total-hamas-plan-paz-gaza-video/132989195.shtml",
+    "pubDate": "2026-07-31 12:50:57",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La piscina descubierta más esperada de Barcelona: abrirá \"a mediados de agosto\" tras cuatro meses llena y acabada",
+    "link": "https://www.elperiodico.com/es/barcelona/20260731/piscina-descubierta-la-sagrera-vecinos-mediados-agosto-132983973",
+    "pubDate": "2026-07-31 12:50:14",
+    "category": "",
+    "description": "<h2>El nuevo CEM La Sagrera tendría que haber abierto sus puertas en marzo de 2025, como todavía muestra una lona en las vallas perimetrales</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260530/piscinas-barcelona-verano-2026-130827144\">Barcelona abre 15 piscinas municipales este verano: fechas, barrios y cuáles ya están operativas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Declaración institucional de Pedro Sánchez en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-ceuta-crisis-migratoria/132988857.shtml",
+    "pubDate": "2026-07-31 12:44:36",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Китай прискорює військову революцію: Сі Цзіньпін дав нове доручення армії",
+    "link": "https://ua.korrespondent.net/world/4898939-kytai-pryskoruiie-viiskovu-revoluitsiui-si-tszinpin-dav-nove-doruchennia-armii",
+    "pubDate": "2026-07-31 12:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514584.jpg\">Військовому керівництву наказано зробити ставку на штучний інтелект, автономні системи та новітні безпілотні технології до 2027 року",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Maserati Grecale ofrece ahora más autonomía y mejor ergonomía",
+    "link": "https://www.elperiodico.com/es/motor/20260731/maserati-grecale-2026-folgore-precio-novedades-132982185",
+    "pubDate": "2026-07-31 12:32:38",
+    "category": "",
+    "description": "<h2>El SUV italiano estrena un frontal más agresivo, revisa sus mandos y su gestión dinámica y mejora la eficiencia de la versión eléctrica sin cambiar su batería de 105 kWh</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así ha quedado uno de los asentamientos de Montjuïc tras el desalojo",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/asi-quedado-asentamientos-montjuic-desalojo-fotos-132988015",
+    "pubDate": "2026-07-31 12:30:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlos Espí: fichaje sorpresa, incorporación inmediata y posible debut ante la Fiorentina",
+    "link": "https://www.elperiodico.com/es/deportes/20260731/carlos-espi-fichaje-sorpresa-incorporacion-real-madrid-132987693",
+    "pubDate": "2026-07-31 12:23:13",
+    "category": "",
+    "description": "<h2>El nuevo jugador del Real Madrid ya se ha ejercitado este viernes a las órdenes de Mourinho </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Одеса зазнала ракетної атаки, є поранені",
+    "link": "https://ua.korrespondent.net/city/odessa/4898929-odesa-zaznala-raketnoi-ataky-ye-poraneni",
+    "pubDate": "2026-07-31 12:23:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514563.jpg\">Внаслідок ракетної атаки у місті пошкоджено цивільну інфраструктуру: територію підприємства, а також будівлі лікарні та коледжу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Спецслужби США та Ізраїлю розшукують нового верховного лідера Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4898927-spetssluzhby-ssha-ta-izrailui-rozshukuuit-novoho-verkhovnoho-lidera-iranu-zmi",
+    "pubDate": "2026-07-31 12:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514562.jpg\">Моджтаба Хаменеї вже понад 150 днів не користується жодними електронними пристроями, а ЦРУ та Моссад намагаються знайти його через агентурну мережу всередині країни.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Hospital de Bellvitge, líder en trasplantes renales con cirugía robótica en España: ya ha realizado 300 intervenciones",
+    "link": "https://www.elperiodico.com/es/sanidad/20260731/hospital-bellvitge-lider-trasplantes-renales-cirugia-robotica-espana-intervenciones-132985731",
+    "pubDate": "2026-07-31 12:19:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La cirugía robótica aporta la máxima precisión y permite una recuperación postquirúrgica más rápida y con menor riesgo de complicaciones, subraya el hospital</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260624/catalunya-concentra-trasplantes-renales-donante-vivo-espana-131756239\">Catalunya concentra más del 40% de todos los trasplantes renales de donante vivo que se realizan en España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ceuta afronta una situación de caos tras la entrada masiva desde Marruecos",
     "link": "https://www.elperiodico.com/es/videos/politica/ceuta-afronta-situacion-caos-entrada/132986983.shtml",
     "pubDate": "2026-07-31 12:12:50",
@@ -124,6 +637,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514540.png\">Повітряна куля готувалася до посадки на полі, однак під час маневру зачепилася за гілки дерев.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Fallece a los 72 años Pep Manresa, concejal de Junts en el Ayuntamiento de Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260731/fallece-72-pep-manresa-concejal-junts-ayuntamiento-tarragona-132988678",
+    "pubDate": "2026-07-31 11:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El consistorio ha decretado luto oficial los días 1 y 2 de agosto</h2><h2 class=\"item\">Manresa había sido militante de Convergència, y era edil de Junts desde las pasadas elecciones municipales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260723/jordi-sendra-candidato-junts-elecciones-municipales-2027-tarragona-132742586\">Jordi Sendra será el candidato de Junts en Tarragona en las elecciones municipales de 2027</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Barcelona abre al público las nuevas pistas de baloncesto bajo el viaducto de Vallcarca",
@@ -331,6 +853,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514487.jpg\">Кремль може зробити ставку на силовиків, які зможуть жорсткіше контролювати ситуацію на півострові.",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "АТЕШ розкрив плани Путіна щодо зміни влади у Криму",
+    "link": "https://ua.korrespondent.net/world/russia/4898885-atesh-rozkryv-plany-putina-schodo-zminy-vlady-u-krymu",
+    "pubDate": "2026-07-31 10:45:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514487.jpg\">Кремль може зробити ставку на силовиків, які зможуть жорсткіше контролювати ситуацію на півострові.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Краматорськ, Слов’янськ і Дружківка під вогнем: є постраждалі",

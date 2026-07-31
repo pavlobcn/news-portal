@@ -1,8 +1,16 @@
-# News for 2026-07-31 12:18
+# News for 2026-07-31 14:25
 
 Previous day: [2026-07-30](./data/2026-07-30.md)
 
 ## ua.korrespondent.net
+14:18 [Мінсоцполітики ініціювало перевірку Артеку на Закарпатті](https://ua.korrespondent.net/ukraine/4898977-minsotspolityky-initsiuivalo-perevirku-arteku-na-zakarpatti)<br>
+14:08 [У Києві прибирають російськомовні вивіски: де вже провели демонтаж](https://ua.korrespondent.net/city/kiev/4898972-u-kyievi-prybyrauit-rosiiskomovni-vyvisky-de-vzhe-provely-demontazh)<br>
+13:34 [У Львові завершили рятувальну операцію після атаки РФ](https://ua.korrespondent.net/city/lvov/4898961-u-lvovi-zavershyly-riatuvalnu-operatsiui-pislia-ataky-rf)<br>
+13:29 [До +37°: яку погоду обіцяють синоптики на вихідні](https://ua.korrespondent.net/ukraine/4898958-do-37-yaku-pohodu-obitsiauit-synoptyky-na-vykhidni)<br>
+13:14 [У Слов’янську залишаються 32 тисячі цивільних](https://ua.korrespondent.net/ukraine/4898950-u-sloviansku-zalyshauitsia-32-tysiachi-tsyvilnykh)<br>
+13:04 [У Метінвесті заявили про підвищення зарплат працівникам](https://ua.korrespondent.net/business/companies/4898945-u-metinvesti-zaiavyly-pro-pidvyschennia-zarplat-pratsivnykam)<br>
+12:56 [У Скелі призупинили набір новобранців](https://ua.korrespondent.net/ukraine/4898941-u-skeli-pryzupynyly-nabir-novobrantsiv)<br>
+12:23 [Одеса зазнала ракетної атаки, є поранені](https://ua.korrespondent.net/city/odessa/4898929-odesa-zaznala-raketnoi-ataky-ye-poraneni)<br>
 12:09 [Український пілот переслідував російську Х-101 до кордону Польщі](https://ua.korrespondent.net/world/4898925-ukrainskyi-pilot-peresliduvav-rosiisku-kh-101-do-kordonu-polschi)<br>
 12:03 [Долар впав в останній день липня, євро - дорожчає](https://ua.korrespondent.net/business/financial/4898922-dolar-vpav-v-ostannii-den-lypnia-yevro-dorozhchaie)<br>
 12:00 [У Росії запровадять маркування снігу та льоду: опубліковано проєкт рішення](https://ua.korrespondent.net/world/russia/4898920-u-rosii-zaprovadiat-markuvannia-snihu-ta-lodu-opublikovano-proiekt-rishennia)<br>
@@ -49,9 +57,24 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 00:21 [РФ знищила у Києві завод, що виготовляв БПЛА - ЗМІ](https://ua.korrespondent.net/ukraine/4898791-rf-znyschyla-u-kyievi-zavod-scho-vyhotovliav-bpla-zmi)<br>
 
 ## as.com
+13:51 [La Supercopa Endesa cambia sus criterios de clasificación](https://as.com/baloncesto/acb/la-supercopa-endesa-cambia-sus-criterios-de-clasificacion-f202607-n/)<br>
+13:09 [Navarro seguirá en el Barça](https://as.com/baloncesto/euroliga/juan-carlos-navarro-seguira-en-el-barca-f202607-n/)<br>
 07:27 [“Los ciclos hay que cerrarlos cuando uno está en paz consigo mismo”](https://as.com/baloncesto/mas_baloncesto/los-ciclos-hay-que-cerrarlos-cuando-uno-esta-en-paz-consigo-mismo-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:21 [El déficit del Estado sube al 1,3% del PIB en el primer semestre y el público baja al 1,03% hasta mayo](https://www.elperiodico.com/es/economia/20260731/deficit-sube-1-3-pib-132994610)<br>
+14:21 [El incendio de Castellón sigue sin ser estabilizado y la situación es favorable en Zamora](https://www.elperiodico.com/es/politica/20260731/incendio-castellon-sigue-estabilizado-situacion-132994537)<br>
+14:13 [Un contrato de 61 millones mejorará el tratamiento de aguas residuales en una treintena de municipios del Vallès y el Moianès](https://www.elperiodico.com/es/barcelona/20260731/contrato-61-millones-mejorara-tratamiento-aguas-residuales-valles-moianes-tordera-132993655)<br>
+14:00 [El pabellón de Bermillo de Sayago se vacía ante la estabilización del incendio](https://www.elperiodico.com/es/videos/sociedad/pabellon-bermillo-sayago-vacia-estabilizacion/132993509.shtml)<br>
+14:00 [El cuerpo necesita ocho días de vacaciones para recuperarse y el 'efecto descanso' dura un mes tras volver al trabajo](https://www.elperiodico.com/es/sociedad/20260731/cuerpo-necesita-ocho-dias-vacaciones-desconectar-132982563)<br>
+13:35 [Sanidad aumenta los dispositivos médicos y refuerza la seguridad en los centros de salud de Ceuta](https://www.elperiodico.com/es/sanidad/20260731/sanidad-aumenta-dispositivos-ceuta-seguridad-centros-salud-medicos-132989925)<br>
+13:34 [El ICO activará en septiembre 12.150 millones para impulsar la vivienda asequible](https://www.elperiodico.com/es/economia/20260731/ico-activara-septiembre-12-150-132991926)<br>
+13:34 [Empiezan las obras del nuevo edificio de investigación de la UPC en el Campus Diagonal-Besòs](https://www.elperiodico.com/es/barcelona/20260731/empiezan-obras-edificio-investigacion-upc-incasol-campus-digonal-besos-132983698)<br>
+13:23 [Santa Coloma de Gramenet incorpora cinco agentes a la Policía Local](https://www.elperiodico.com/es/barcelona/20260731/santa-coloma-gramenet-incorpora-cinco-agentes-policia-local-132988420)<br>
+12:54 [Una nueva grieta en uno de los edificios afectados por el socavón del Putxet alarga hasta septiembre el retorno del 38% de los vecinos](https://www.elperiodico.com/es/barcelona/20260731/nueva-grieta-edificios-afectados-socavon-132987200)<br>
+12:50 [La piscina descubierta más esperada de Barcelona: abrirá "a mediados de agosto" tras cuatro meses llena y acabada](https://www.elperiodico.com/es/barcelona/20260731/piscina-descubierta-la-sagrera-vecinos-mediados-agosto-132983973)<br>
+12:30 [Así ha quedado uno de los asentamientos de Montjuïc tras el desalojo](https://www.elperiodico.com/es/fotos/sociedad/asi-quedado-asentamientos-montjuic-desalojo-fotos-132988015)<br>
+12:19 [El Hospital de Bellvitge, líder en trasplantes renales con cirugía robótica en España: ya ha realizado 300 intervenciones](https://www.elperiodico.com/es/sanidad/20260731/hospital-bellvitge-lider-trasplantes-renales-cirugia-robotica-espana-intervenciones-132985731)<br>
 12:12 [Ceuta afronta una situación de caos tras la entrada masiva desde Marruecos](https://www.elperiodico.com/es/videos/politica/ceuta-afronta-situacion-caos-entrada/132986983.shtml)<br>
 12:05 [Prisión para un profesor de baile por agresiones sexuales a cinco niñas en Mallorca](https://www.elperiodico.com/es/sucesos/20260731/prision-profesor-baile-agresiones-sexuales-132986928)<br>
 11:55 [A PIE DE CALLE| El recinto ferial de Ceuta inicia su desmontaje tras cancelarse las fiestas](https://www.elperiodico.com/es/videos/politica/pie-calle-recinto-ferial-ceuta/132986259.shtml)<br>
