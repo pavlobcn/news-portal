@@ -1,4 +1,4 @@
-# News for 2026-07-31 22:02
+# News for 2026-07-31 23:18
 
 Previous day: [2026-07-30](./data/2026-07-30.md)
 
@@ -82,6 +82,8 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 07:27 [“Los ciclos hay que cerrarlos cuando uno está en paz consigo mismo”](https://as.com/baloncesto/mas_baloncesto/los-ciclos-hay-que-cerrarlos-cuando-uno-esta-en-paz-consigo-mismo-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:16 [Tres militares de la UME heridos, dos de ellos graves, tras volcar su camión en Robledo de Chavela](https://www.elperiodico.com/es/sociedad/20260731/heridos-graves-volcar-camion-ume-robledo-chavela-133008988)<br>
+22:15 [Ya puedes pedirlo: cómo funciona el nuevo permiso laboral de 4 días totalmente pagado](https://www.elperiodico.com/es/economia/20260731/permiso-ausencia-laboral-4-dias-fuerza-mayor-dv-131144628)<br>
 21:30 [Los nombres poco comunes para niños que ya son tendencia en Catalunya](https://www.elperiodico.com/es/catalunya/20260731/nombres-ninos-poco-comunes-catalunya-dv-130886191)<br>
 21:00 [Mercè Barberà: "Siempre he pensado que si mi madre me dio la vida, yo no podía hacer una tontería con la mía; le debía lo mejor"](https://www.elperiodico.com/es/sociedad/20260731/merce-barbera-concurso-internacional-mini-print-cadaques-dv-et-132994919)<br>
 20:58 [A prisión el detenido por la muerte de un hombre en Málaga que desapareció durante la pandemia](https://www.elperiodico.com/es/sucesos/20260731/prision-detenido-muerte-hombre-malaga-133006901)<br>

@@ -1,5 +1,68 @@
 [
   {
+    "title": "Tres militares de la UME heridos, dos de ellos graves, tras volcar su camión en Robledo de Chavela",
+    "link": "https://www.elperiodico.com/es/sociedad/20260731/heridos-graves-volcar-camion-ume-robledo-chavela-133008988",
+    "pubDate": "2026-07-31 23:16:15",
+    "category": "",
+    "description": "<h2>El accidente ha obligado a cortar temporalmente la vía y ha movilizado a los servicios sanitarios del SUMMA 112, que han trasladado a los afectados a un centro hospitalario</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ зруйнувала термінал Нової пошти в Полтаві",
+    "link": "https://ua.korrespondent.net/ukraine/4899092-rf-zruinuvala-terminal-novoi-poshty-v-poltavi",
+    "pubDate": "2026-07-31 22:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515005.jpg\">Нова пошта вже задіяла резервні логістичні маршрути, щоб мінімізувати можливі затримки в доставці.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El egipcio Hamza ejerce de 9 con dos goles en el empate del Barça en Birmingham (2-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260731/egipcio-hamza-ejerce-9-goles-133003784",
+    "pubDate": "2026-07-31 22:39:11",
+    "category": "",
+    "description": "<h2>Una tanda de penaltis (3-2) dio la victoria al cuadro inglés bajo la mirada de Jude Bellingham, leyenda del club local</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В РФ після атаки дронів спалахнув великий хімзавод",
+    "link": "https://ua.korrespondent.net/world/russia/4899090-v-rf-pislia-ataky-droniv-spalakhnuv-velykyi-khimzavod",
+    "pubDate": "2026-07-31 22:33:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4514981.jpeg\">Пожежа в промзоні заводу виникла, схоже, внаслідок перевантаження системи після серії атак БПЛА, припускають в соцмережах.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Ya puedes pedirlo: cómo funciona el nuevo permiso laboral de 4 días totalmente pagado",
+    "link": "https://www.elperiodico.com/es/economia/20260731/permiso-ausencia-laboral-4-dias-fuerza-mayor-dv-131144628",
+    "pubDate": "2026-07-31 22:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La Unión Europea propone soluciones para hacer frente a la desigualdad de género en el sector doméstico y de cuidados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260313/bajas-laborales-cuidado-personas-mayores-discapacidad-atencion-domicilio-riesgo-sistema-127793118\">Las bajas en el sector de los cuidados crecen un 70% en seis años y comprometen la ayuda a domicilio: \"Está en riesgo la atención a dependientes\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Agentes marroquíes abortan varios intentos de entrada a Melilla en diferentes puntos de la valla",
+    "link": "https://www.elperiodico.com/es/politica/20260731/agentes-marroquies-abortan-intentos-entrada-melilla-valla-133008201",
+    "pubDate": "2026-07-31 22:13:03",
+    "category": "",
+    "description": "<h2>El dispositivo permanece preparado para responder a los distintos escenarios que puedan producirse, adaptando la respuesta operativa en función de la evolución de la situación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El despliegue militar desinfla la presión social en Ceuta con el regreso de los migrantes que llegaron de Marruecos",
+    "link": "https://www.elperiodico.com/es/politica/20260731/despliegue-militar-desinfla-presion-social-133008143",
+    "pubDate": "2026-07-31 22:09:34",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260731/mapa-ceuta-como-llegan-migrantes-ruta-nado-frontera-132979405\" target=\"_blank\">Cómo llegan a nado los migrantes a Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260731/migrantes-entrado-ceuta-que-ocurrira-identificacion-colaboracion-marruecos-132990591\" target=\"_blank\">¿Qué pasará con los migrantes que han entrado en Ceuta y Melilla? La ley avala su expulsión pero se requiere la colaboración de Marruecos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260731/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\" target=\"_blank\">Última hora de la crisis migratoria. En directo:</a> </h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "De la esperanza a la frustración en 24 horas: \"Vimos que muchos entraban en Ceuta e hicimos lo mismo. Pero no encontramos ni comida\"",
     "link": "https://www.elperiodico.com/es/internacional/20260731/castillejos-marruecos-ceuta-situacion-frontera-jovenes-migrantes-133003247",
     "pubDate": "2026-07-31 22:00:41",
