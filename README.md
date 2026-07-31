@@ -1,4 +1,4 @@
-# News for 2026-07-31 23:18
+# News for 2026-08-01 00:28
 
 Previous day: [2026-07-30](./data/2026-07-30.md)
 
@@ -82,6 +82,7 @@ Previous day: [2026-07-30](./data/2026-07-30.md)
 07:27 [“Los ciclos hay que cerrarlos cuando uno está en paz consigo mismo”](https://as.com/baloncesto/mas_baloncesto/los-ciclos-hay-que-cerrarlos-cuando-uno-esta-en-paz-consigo-mismo-f202607-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Empresas que transforman el presente para construir el futuro](https://www.elperiodico.com/es/sociedad/20260731/empresas-transforman-presente-construir-futuro-bc-132990248)<br>
 23:16 [Tres militares de la UME heridos, dos de ellos graves, tras volcar su camión en Robledo de Chavela](https://www.elperiodico.com/es/sociedad/20260731/heridos-graves-volcar-camion-ume-robledo-chavela-133008988)<br>
 22:15 [Ya puedes pedirlo: cómo funciona el nuevo permiso laboral de 4 días totalmente pagado](https://www.elperiodico.com/es/economia/20260731/permiso-ausencia-laboral-4-dias-fuerza-mayor-dv-131144628)<br>
 21:30 [Los nombres poco comunes para niños que ya son tendencia en Catalunya](https://www.elperiodico.com/es/catalunya/20260731/nombres-ninos-poco-comunes-catalunya-dv-130886191)<br>
