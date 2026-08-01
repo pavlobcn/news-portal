@@ -1,8 +1,13 @@
-# News for 2026-08-01 09:14
+# News for 2026-08-01 11:26
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+10:59 [У Києві через атаку РФ пошкоджено посольство Литви](https://ua.korrespondent.net/ukraine/4899167-u-kyievi-cherez-ataku-rf-poshkodzheno-posolstvo-lytvy)<br>
+10:37 [АМКУ оштрафував київських сміттярів на понад 300 млн](https://ua.korrespondent.net/city/kiev/4899164-amku-oshtrafuvav-kyivskykh-smittiariv-na-ponad-300-mln)<br>
+10:11 [У Криму уражено мости і склад морських дронів](https://ua.korrespondent.net/ukraine/4899159-u-krymu-urazheno-mosty-i-sklad-morskykh-droniv)<br>
+09:43 [В Ормузькій протоці атаковано нафтовий танкер](https://ua.korrespondent.net/world/4899156-v-ormuzkii-prototsi-atakovano-naftovyi-tanker)<br>
+09:21 [Немає ракет до "петріотів" - Зеленський](https://ua.korrespondent.net/ukraine/4899153-nemaie-raket-do-petriotiv-zelenskyi)<br>
 09:07 [Ракети і БпЛА з семи напрямків: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4899149-rakety-i-bpla-z-semy-napriamkiv-yak-spratsuivala-ppo)<br>
 08:15 [Атака РФ: у Києві перекрито рух на двох вулицях, змінено маршрути автобусів](https://ua.korrespondent.net/city/kiev/4899143-ataka-rf-u-kyievi-perekryto-rukh-na-dvokh-vulytsiakh-zmineno-marshruty-avtobusiv)<br>
 07:54 [ЗСУ уразили 15 скупчень російських військ](https://ua.korrespondent.net/ukraine/4899139-zsu-urazyly-15-skupchen-rosiiskykh-viisk)<br>
@@ -19,14 +24,27 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 00:50 [Росія завдала балістикою серію ударів по Києву](https://ua.korrespondent.net/city/kiev/4899102-rosiia-zavdala-balistykoui-seriui-udariv-po-kyievu)<br>
 
 ## as.com
+09:32 [La Sub-18 busca otro verano dorado en Estocolmo](https://as.com/baloncesto/mas_baloncesto/la-sub-18-busca-otro-verano-dorado-en-estocolmo-f202608-n/)<br>
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:25 [La Guardia Civil cierra la unidad de submarinistas de rescate en la Costa Brava, el lugar con más inmersiones de España: "Es una locura'"](https://www.elperiodico.com/es/videos/sociedad/guardia-civil-cierra-unidad-submarinistas/133014865.shtml)<br>
+11:00 [En agosto nos vemos](https://www.elperiodico.com/es/opinion/20260801/agosto-vemos-gabriel-garcia-marquez-periodismo-articulo-juan-cruz-ruiz-133004684)<br>
+11:00 [Un terremoto de 4,7 grados sacude Nápoles causando numerosos daños y al menos 8 heridos leves](https://www.elperiodico.com/es/videos/sucesos/terremoto-4-7-grados-sacude/133014347.shtml)<br>
+11:00 [José Antonio, endeudado que consiguió librarse de los pagos gracias a la ley de segunda oportunidad: "Cuando dejé de pagar, llamaban a mi madre, que no sé cómo consiguieron su número"](https://www.elperiodico.com/es/economia/20260801/ley-segunda-oportunidad-deudas-dv-et-132244196)<br>
+10:52 [Capturan en Alicante a un peligroso fugitivo británico que iba a entrar en la lista de los más buscados](https://www.elperiodico.com/es/sucesos/20260801/capturan-alicante-peligroso-fugitivo-britanico-133014246)<br>
+10:30 [Eclipse solar del 12 de agosto en Catalunya: las mejores horas con mas visibilidad para ver el fenómeno astrónomico en Barcelona, Tarragona, Lleida y Girona](https://www.elperiodico.com/es/ciencia/20260801/eclipse-solar-12-agosto-cataluna-barcelona-lleida-tarragona-horas-dv-133002769)<br>
+10:01 [El fenómeno Ozempic desata en Silicon Valley la fiebre de los péptidos: 'moléculas mágicas' que prometen 'hackear' la salud](https://www.elperiodico.com/es/sociedad/20260801/ozempic-silicon-valley-fiebre-oro-peptidos-moleculas-heckear-cuerpo-envejecimiento-132783024)<br>
+10:01 [Manuel J. Castillo, experto en longevidad: "No existe una píldora mágica que evite el envejecimiento y solucione todos los problemas"](https://www.elperiodico.com/es/sanidad/20260801/manuel-castillo-experto-longevidad-pildora-magica-evite-envejecimiento-problemas-132926683)<br>
+10:01 ["Nos sorprendió el precio de la piscina": La Bassa de Sabadell atrae a miles de catalanes convertida en símbolo del verano](https://www.elperiodico.com/es/barcelona/20260801/sorprendio-precio-piscina-bassa-sabadell-atrae-miles-catalanes-convertida-simbolo-verano-132995861)<br>
+09:30 [Pedro García Ramos, médico de familia, ya avisa: "los golpes de calor se producen cada vez con mayor frecuencia"](https://www.elperiodico.com/es/salud/20260801/golpe-calor-efectos-deshidratacion-organos-medico-dv-et-132170086)<br>
+09:22 [Angosto](https://www.elperiodico.com/es/opinion/20260801/angosto-agnes-marques-133012663)<br>
 09:02 [Protección Civil llama a la prudencia en las zonas de baño ante la gran afluencia de personas](https://www.elperiodico.com/es/barcelona/20260801/proteccion-civil-llama-prudencia-zonas-barcelona-calor-mar-133012432)<br>
 09:01 [Ascienden a nueve los muertos y 28 los heridos en un ataque con misiles balísticos rusos sobre Kiev](https://www.elperiodico.com/es/internacional/20260801/ascienden-nueve-muertos-28-heridos-133012470)<br>
 09:00 [El nuevo Reglamento Europeo de Envases empieza a aplicarse en agosto: estos son los cambios que notará el consumidor](https://www.elperiodico.com/es/sociedad/20260801/nuevo-reglamento-europeo-envases-agosto-cambios-consumidor-dv-et-132998449)<br>
 09:00 [Hasta 12 puntales en pisos de 42 metros cuadrados: tres desalojos avivan el temor a la aluminosis en el Besòs](https://www.elperiodico.com/es/barcelona/20260801/barcelona-pisos-aluminosis-desalojos-besos-maresme-132974391)<br>
 09:00 [La "revolución de los flamencos" enciende Albania](https://www.elperiodico.com/es/internacional/20260801/revolucion-flamencos-enciende-albania-132920349)<br>
+08:34 [Un terremoto de 4,7 grados causa numerosos daños y al menos 8 heridos leves en Nápoles](https://www.elperiodico.com/es/sucesos/20260801/terremoto-4-7-grados-causa-napoles-italia-seismo-133012049)<br>
 08:05 [Última hora de los incendios en España, en directo | Estabilizados los incendios en la Vall d'Uixó y Zamora](https://www.elperiodico.com/es/sociedad/20260801/ultima-hora-incendios-espana-directo-132759066)<br>
 08:01 [La Guardia Civil cierra la unidad de submarinistas de rescate en la Costa Brava, el lugar con más inmersiones de España: "Es una locura'"](https://www.elperiodico.com/es/sociedad/20260801/guardia-civil-cierra-unidad-submarinistas-costa-brava-alcaldes-locura-bestiesa-medes-estartit-133007560)<br>
 08:00 [Las jirafas del zoo de Barcelona saben 'matemáticas' (se acercan a la suma, pero fallan en la resta)](https://www.elperiodico.com/es/sociedad/20260801/jirafas-zoo-barcelona-matematicas-sumar-restar-133001126)<br>
