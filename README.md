@@ -1,6 +1,17 @@
-# News for 2026-08-01 03:11
+# News for 2026-08-01 06:37
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+04:59 [У США упав винищувач-невидимка F-35B](https://ua.korrespondent.net/world/4899120-u-ssha-upav-vynyschuvach-nevydymka-F-35B)<br>
+04:45 [У Криму приліт з детонацією та пожежею - соцмережі](https://ua.korrespondent.net/ukraine/4899118-u-krymu-prylit-z-detonatsiieui-ta-pozhezheui-sotsmerezhi)<br>
+03:46 [Стали відомі наслідки атаки РФ на Київщину](https://ua.korrespondent.net/ukraine/4899116-staly-vidomi-naslidky-ataky-rf-na-kyivschynu)<br>
 01:58 [Атаки на Wildberries призвели до стрибку цін на маркетплейсах в РФ - ЗМІ](https://ua.korrespondent.net/ukraine/4899108-ataky-na-Wildberries-pryzvely-do-strybku-tsin-na-marketpleisakh-v-rf-zmi)<br>
+
+## www.elperiodico.com
+06:01 [Leticia Martín, directora del Grec: "Este julio ha sido infernal. Hay que buscar soluciones para el calor en el Teatre Grec"](https://www.elperiodico.com/es/ocio-y-cultura/20260801/leticia-martin-directora-grec-julio-132942254)<br>
+06:01 [La UAB inicia su primera gran reforma urbanística en medio siglo: integración con el Vallès y densificación sostenible](https://www.elperiodico.com/es/barcelona/20260801/uab-primera-reforma-urbanistica-medio-siglo-integracion-valles-densificacion-sostenible-132857621)<br>
+06:00 [El billete de euro se renueva (y puedes decidir cuál es tu favorito): así son los 10 diseños finalistas](https://www.elperiodico.com/es/economia/20260801/billete-euro-renueva-puedes-decidir-132933690)<br>
+06:00 [Mango empieza a explorar un sistema de venta de ropa de segunda mano en Estados Unidos](https://www.elperiodico.com/es/economia/20260801/mango-empieza-probar-venta-ropa-segunda-mano-estados-unidos-132997586)<br>
+06:00 [La exportación de ropa usada y residuo textil se quintuplica en una década en España](https://www.elperiodico.com/es/economia/20260801/exportacion-ropa-usada-residuo-textil-quintuplica-en-una-decada-132929292)<br>
+04:50 [Cecilia Oliver: “El verano puede aumentar el riesgo de cistitis, pero también favorecer la fertilidad femenina”](https://www.elperiodico.com/es/salud/20260801/cecilia-oliver-ginecologa-evitar-humedad-genital-infecciones-120417220)<br>
