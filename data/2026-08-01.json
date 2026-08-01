@@ -1,5 +1,257 @@
 [
   {
+    "title": "Así se ve el incendio de Casas de Millán desde el municipio",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ve-incendio-casas-millan-municipio/133024735.shtml",
+    "pubDate": "2026-08-01 20:09:34",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Sánchez y su familia llegan en el Falcon al Aeródromo Militar de Lanzarote para sus vacaciones de verano en La Mareta",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/pedro-sanchez-familia-llegan-falcon-lanzarote-vacaciones-verano/133024674.shtml",
+    "pubDate": "2026-08-01 20:07:41",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La frontera respira de nuevo tras la crisis migratoria: \"Todo estaba lleno de gente. Al final hemos decidido volver\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/frontera-respira-nuevo-crisis-migratoria/133024507.shtml",
+    "pubDate": "2026-08-01 20:02:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар КАБами по Херсону: є жертва, 18 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4899237-udar-kabamy-po-khersonu-ye-zhertva-18-poranenykh",
+    "pubDate": "2026-08-01 20:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515614.jpg\">Російська армія завдала авіаудару по центральній частині Херсона. Внаслідок атаки загинула 54-річна жінка, ще 18 мирних жителів отримали поранення різного ступеня тяжкості.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El UCAM llevará el caso de DeJulius a la FIBA",
+    "link": "https://as.com/baloncesto/acb/el-ucam-llevara-el-caso-de-dejulius-a-la-fiba-f202608-n/",
+    "pubDate": "2026-08-01 19:57:32",
+    "category": "Baloncesto",
+    "description": "El Besiktas anunció su fichaje, pero el equipo universitario asegura que el jugador no tiene su carta de libertad.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Empate con más dudas que certezas del Real Madrid ante la Fiorentina (2-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/empate-dudas-certezas-real-madrid-133024448",
+    "pubDate": "2026-08-01 19:56:20",
+    "category": "",
+    "description": "<h2>Los de Mourinho se pusieron (2-0) arriba, pero en la segunda parte lo pasaron mal sin balón </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "La frontera respira de nuevo tras la crisis migratoria: \"Todo estaba lleno de gente. Al final hemos decidido volver\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260801/frontera-respira-nuevo-crisis-migratoria-133024350",
+    "pubDate": "2026-08-01 19:50:58",
+    "category": "",
+    "description": "<h2>La ciudad fronteriza marroquí, desbordada de jóvenes que regresan tras el intento fallido de cruzar a Ceuta, recupera la normalidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Світ готується до нової хвилі спеки: ООН назвала головну причину",
+    "link": "https://ua.korrespondent.net/world/4899235-svit-hotuietsia-do-novoi-khvyli-speky-oon-nazvala-holovnu-prychynu",
+    "pubDate": "2026-08-01 19:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515606.jpg\">ООН попереджає про різке посилення кліматичних ризиків у найближчі місяці. Через активізацію явища Ель-Ніньйо світ може зіткнутися з небезпечними хвилями спеки, посухами, повенями та новими температурними рекордами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump se desdice de su promesa de permitir a Ucrania fabricar misiles Patriot",
+    "link": "https://www.elperiodico.com/es/internacional/20260801/trump-desdice-promesa-permitir-ucrania-fabricar-misiles-patriot-133024204",
+    "pubDate": "2026-08-01 19:40:22",
+    "category": "",
+    "description": "<h2>\"Hay que ser muy prudentes, pero también muy cuidadosos.<strong> </strong>No hemos llegado a un acuerdo al respecto\", aseguró el presidente estadounidense durante una reunión con su gabinete </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Feijóo sobre la entrada masiva en Ceuta: \"Tenemos el derecho a que el Gobierno nos diga si conociendo lo que iba a pasar, por qué no actuó\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-entrada-masiva-ceuta-derecho/133024093.shtml",
+    "pubDate": "2026-08-01 19:36:23",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Centenares de migrantes vuelven a ritmo constante a Marruecos tras entrada masiva a España",
+    "link": "https://www.elperiodico.com/es/videos/politica/centenares-migrantes-vuelven-ritmo-constante/133024062.shtml",
+    "pubDate": "2026-08-01 19:32:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Así se ven las zonas quemadas por los incendios del centro de España desde el aire",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ven-zonas-quemadas-incendios-centro/133024117.shtml",
+    "pubDate": "2026-08-01 19:32:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі пенсіонер побив українку палицею",
+    "link": "https://ua.korrespondent.net/world/4899233-u-polschi-pensioner-pobyv-ukrainku-palytseui",
+    "pubDate": "2026-08-01 19:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515591.jpg\">У польській Гдині затримали 76-річного чоловіка, якого підозрюють у нападі на 40-річну громадянку України. Правоохоронці з’ясовують усі обставини інциденту.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A PIE DE CALLE. La cancelación de la feria y el impacto económico",
+    "link": "https://www.elperiodico.com/es/videos/politica/pie-calle-cancelacion-feria-impacto/133023874.shtml",
+    "pubDate": "2026-08-01 19:20:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hamza relaja la obsesión del Barça por el 9: \"Si hay una ocasión, tienes que estar ahí, y él estuvo ahí\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/hamza-relaja-obsesion-barca-9-133020973",
+    "pubDate": "2026-08-01 19:18:40",
+    "category": "",
+    "description": "<h2>Los dos goles del delantero en Birmingham alivian a Flick, que destaca el olfato del gol y la humildad del futbolista egipcio de 18 años</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Andrew Funk, de estar en la calle a emprendedor: \"Lo más complicado es cuando ya no te sientes como una persona\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/sinhogar-sintecho-organizacion-homeless-entrepreneur-emprendedor-andrew-funk-dv-et-132780836",
+    "pubDate": "2026-08-01 19:15:56",
+    "category": "",
+    "description": "<h2>El estadounidense ha ayudado a más de 3.500 personas sin hogar de todo el mundo: \"Detrás de cada rostro en la calle hay una historia y cada historia tiene un nombre\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260617/antoni-milian-impulsor-ley-sin-techo-cataluna-millones-calle-131318523\">Antoni Milian, impulsor de la ley contra el sinhogarismo: \"Con una inyección de 100 millones al año, nadie viviría en la calle en Catalunya\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así se ha montado la barrera para impedir la entrada a nado en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/montado-barrera-impedir-entrada-nado/133023737.shtml",
+    "pubDate": "2026-08-01 19:12:57",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El impacto en la economía de la ciudad, otra derivada de la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260801/impacto-economia-ciudad-derivada-crisis-133023714",
+    "pubDate": "2026-08-01 19:10:18",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260801/ceuta-recupera-normalidad-comercios-abren-133013409\" ><strong>Ceuta recupera la normalidad: los comercios abren y el Gobierno coloca una barrera de 500 metros en el mar</strong></a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/marlaska-ceuta-crisis-migratoria-133016103\" >Marlaska destaca que \"en 24 horas\" se ha revertido la crisis migratoria en Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/feijoo-pp-ceuta-gobierno-entrada-masiva-migrantes-133017186\" ><strong>Feijóo responsabiliza al Gobierno de la situación que vive Ceuta y tacha de \"ridícula\" su respuesta a la crisis</strong></a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\" target=\"_blank\">Ultima hora de la crisis migratoria en Ceuta y Melilla: En directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Así será la luna en agosto 2026, fase a fase: fechas y horas de todos sus cambios en el cielo",
+    "link": "https://www.elperiodico.com/es/ciencia/20260801/luna-agosto-2026-fases-cuarto-menguante-nueva-creciente-llena-fechas-horas-dv-132724154",
+    "pubDate": "2026-08-01 19:06:09",
+    "category": "",
+    "description": "<h2>El único satélite natural de la Tierra cambia visualmente cuando orbita alrededor de ella y refleja la luz del Sol</h2><h2><a href=\"https://www.elperiodico.com/es/ciencia/20260629/verano-2026-cielo-eclipse-triangulo-estrellas-perseidas-astronomia-dv-131495212\">Del triángulo del verano a las perseidas y el eclipse del 12 de agosto: el calendario astronómico completo del verano de 2026</a></h2><h2><a href=\"https://www.elperiodico.com/es/ciencia/20260617/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674\" >Eclipse solar del 12 de agosto de 2026: este es el momento en que una franja de España quedará a oscuras</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Evacúan a 800 personas de dos municipios de Cáceres por un incendio forestal: \"Las llamas ya están aquí\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/evacuan-800-personas-municipios-caceres-incendio-forestal-133023520",
+    "pubDate": "2026-08-01 19:05:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La Junta de Extremadura activa la situación operativa 1 del Plan Especial de Protección Civil y va a desplegar un Puesto de Mando Avanzado para coordinar el operativo sobre el terreno</h2><h2 class=\"item\">El fuego se ha originado en la tarde de este sábado por un camión que ha comenzado a arder en la A-66, en la zona del Puerto de los Castaños</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aviso por tiempo violento en Catalunya: granizo de 2 cm y riesgo de tornados en pleno inicio de agosto",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/alerta-tiempo-violento-catalunya-granizo-133022740",
+    "pubDate": "2026-08-01 19:03:48",
+    "category": "",
+    "description": "<h2 class=\"item\">El Meteocat ha activado el aviso rojo en la comarca gerundense del Ripollès.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака на Київ: завершено рятувальні роботи",
+    "link": "https://ua.korrespondent.net/city/kiev/4899231-ataka-na-kyiv-zaversheno-riatuvalni-roboty",
+    "pubDate": "2026-08-01 19:03:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515574.jpg\">Рятувальники завершили ліквідацію наслідків нічного російського обстрілу Києва. Внаслідок атаки загинули 9 людей, ще 33 отримали поранення, серед них четверо дітей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paula Blasi supera las adversidades y se viste de blanco en el Tour",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/paula-blasi-supera-adversidades-viste-jersey-blanco-tour-francia-133023147",
+    "pubDate": "2026-08-01 19:00:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La corredora catalana se aúpa a la primera plaza entre las menores de 25 años en una etapa inicial que gana la neerlandesa Lorena Wiebes, que lidera la clasificación general.</h2><h2 class=\"item\"><a href=\"https://www.tissottiming.com/2026/trf/stage-1/rankings\">Las clasificaciones.</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росіяни вдарили дроном по маршрутці на Дніпропетровщині",
+    "link": "https://ua.korrespondent.net/ukraine/4899229-rosiiany-vdaryly-dronom-po-marshruttsi-na-dnipropetrovschyni",
+    "pubDate": "2026-08-01 18:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515573.jpg\">Унаслідок удару FPV-дроном семеро пасажирів отримали поранення, двоє з них перебувають у тяжкому стані.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Espanyol se abona a las tablas en su gira inglesa (3-3)",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/espanyol-abona-tablas-gira-inglesa-133022398",
+    "pubDate": "2026-08-01 18:28:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo perico, que ya igualó con el Burnley (2-2) en su primer partido del stage, repitió empate este sábado contra el Middlesbrough.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Землетрус біля Неаполя став найсильнішим за 40 років",
+    "link": "https://ua.korrespondent.net/world/4899227-zemletrus-bilia-neapolia-stav-naisylnishym-za-40-rokiv",
+    "pubDate": "2026-08-01 18:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515558.jpg\">У курортному містечку Поццуолі неподалік Неаполя стався потужний землетрус магнітудою 4,7 бала. Поштовхи стали найсильнішими в регіоні за останні чотири десятиліття, є постраждалі та руйнування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A PIE DE CALLE | May Mariño nos muestra la situación actual en la Frontera",
+    "link": "https://www.elperiodico.com/es/videos/politica/pie-calle-situacion-frontera-sabado/133022077.shtml",
+    "pubDate": "2026-08-01 18:14:54",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "A PIE DE CALLE | May Mariño, desde el corazón del barrio de Rosales (Ceuta)",
+    "link": "https://www.elperiodico.com/es/videos/politica/pie-calle-corazon-barrio-rosales/133022206.shtml",
+    "pubDate": "2026-08-01 18:13:35",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Felipe IV sigue con \"gran preocupación e indignación\" la crisis en Ceuta y reclama evitar que se repita",
     "link": "https://www.elperiodico.com/es/politica/20260801/rey-felipe-ceuta-crisis-migratoria-133021848",
     "pubDate": "2026-08-01 18:08:56",
@@ -151,6 +403,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "ФК Харків на останніх хвилинах матчу переміг Верес у першому турі УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4899217-fk-kharkiv-na-ostannikh-khvylynakh-matchu-peremih-veres-u-pershomu-turi-upl",
+    "pubDate": "2026-08-01 16:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515513.jpg\">Харківська команда і рівненський Верес завершили гру першого ігрового дня нового сезону з рахунком 1:0.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Capturan en Alicante a un peligroso fugitivo británico que iba a entrar en la lista de los más buscados",

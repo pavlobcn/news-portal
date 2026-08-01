@@ -1,8 +1,14 @@
-# News for 2026-08-01 19:16
+# News for 2026-08-01 20:18
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+20:01 [Удар КАБами по Херсону: є жертва, 18 поранених](https://ua.korrespondent.net/ukraine/4899237-udar-kabamy-po-khersonu-ye-zhertva-18-poranenykh)<br>
+19:42 [Світ готується до нової хвилі спеки: ООН назвала головну причину](https://ua.korrespondent.net/world/4899235-svit-hotuietsia-do-novoi-khvyli-speky-oon-nazvala-holovnu-prychynu)<br>
+19:21 [У Польщі пенсіонер побив українку палицею](https://ua.korrespondent.net/world/4899233-u-polschi-pensioner-pobyv-ukrainku-palytseui)<br>
+19:03 [Атака на Київ: завершено рятувальні роботи](https://ua.korrespondent.net/city/kiev/4899231-ataka-na-kyiv-zaversheno-riatuvalni-roboty)<br>
+18:45 [Росіяни вдарили дроном по маршрутці на Дніпропетровщині](https://ua.korrespondent.net/ukraine/4899229-rosiiany-vdaryly-dronom-po-marshruttsi-na-dnipropetrovschyni)<br>
+18:26 [Землетрус біля Неаполя став найсильнішим за 40 років](https://ua.korrespondent.net/world/4899227-zemletrus-bilia-neapolia-stav-naisylnishym-za-40-rokiv)<br>
 18:07 [Липень став рекордним для втрат армії РФ](https://ua.korrespondent.net/ukraine/4899225-lypen-stav-rekordnym-dlia-vtrat-armii-rf)<br>
 17:26 [На Закарпатті ДТП із трьома авто: постраждали 13 людей, серед них діти](https://ua.korrespondent.net/ukraine/4899221-na-zakarpatti-dtp-iz-troma-avto-postrazhdaly-13-luidei-sered-nykh-dity)<br>
 16:45 [Російський дрон влучив у склад Rozetka: є загиблий і поранені](https://ua.korrespondent.net/ukraine/4899214-rosiiskyi-dron-vluchyv-u-sklad-Rozetka-ye-zahyblyi-i-poraneni)<br>
@@ -38,10 +44,20 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 00:50 [Росія завдала балістикою серію ударів по Києву](https://ua.korrespondent.net/city/kiev/4899102-rosiia-zavdala-balistykoui-seriui-udariv-po-kyievu)<br>
 
 ## as.com
+19:57 [El UCAM llevará el caso de DeJulius a la FIBA](https://as.com/baloncesto/acb/el-ucam-llevara-el-caso-de-dejulius-a-la-fiba-f202608-n/)<br>
 09:32 [La Sub-18 busca otro verano dorado en Estocolmo](https://as.com/baloncesto/mas_baloncesto/la-sub-18-busca-otro-verano-dorado-en-estocolmo-f202608-n/)<br>
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:09 [Así se ve el incendio de Casas de Millán desde el municipio](https://www.elperiodico.com/es/videos/sociedad/ve-incendio-casas-millan-municipio/133024735.shtml)<br>
+20:02 [La frontera respira de nuevo tras la crisis migratoria: "Todo estaba lleno de gente. Al final hemos decidido volver"](https://www.elperiodico.com/es/videos/internacional/frontera-respira-nuevo-crisis-migratoria/133024507.shtml)<br>
+19:50 [La frontera respira de nuevo tras la crisis migratoria: "Todo estaba lleno de gente. Al final hemos decidido volver"](https://www.elperiodico.com/es/internacional/20260801/frontera-respira-nuevo-crisis-migratoria-133024350)<br>
+19:32 [Así se ven las zonas quemadas por los incendios del centro de España desde el aire](https://www.elperiodico.com/es/videos/sociedad/ven-zonas-quemadas-incendios-centro/133024117.shtml)<br>
+19:20 [A PIE DE CALLE. La cancelación de la feria y el impacto económico](https://www.elperiodico.com/es/videos/politica/pie-calle-cancelacion-feria-impacto/133023874.shtml)<br>
+19:15 [Andrew Funk, de estar en la calle a emprendedor: "Lo más complicado es cuando ya no te sientes como una persona"](https://www.elperiodico.com/es/sociedad/20260801/sinhogar-sintecho-organizacion-homeless-entrepreneur-emprendedor-andrew-funk-dv-et-132780836)<br>
+19:06 [Así será la luna en agosto 2026, fase a fase: fechas y horas de todos sus cambios en el cielo](https://www.elperiodico.com/es/ciencia/20260801/luna-agosto-2026-fases-cuarto-menguante-nueva-creciente-llena-fechas-horas-dv-132724154)<br>
+19:05 [Evacúan a 800 personas de dos municipios de Cáceres por un incendio forestal: "Las llamas ya están aquí"](https://www.elperiodico.com/es/sociedad/20260801/evacuan-800-personas-municipios-caceres-incendio-forestal-133023520)<br>
+19:03 [Aviso por tiempo violento en Catalunya: granizo de 2 cm y riesgo de tornados en pleno inicio de agosto](https://www.elperiodico.com/es/sociedad/20260801/alerta-tiempo-violento-catalunya-granizo-133022740)<br>
 17:50 [Muere una niña de 13 años en un trágico accidente entre una autocaravana y un camión en la AP-7 en Benicàssim (Castellón)](https://www.elperiodico.com/es/sociedad/20260801/muere-nina-13-anos-tragico-accidente-autocaravana-camion-benicassim-castellon-133022010)<br>
 17:43 [Rescatados dos tripulantes heridos tras caer al mar desde una embarcación de alquiler en Barcelona](https://www.elperiodico.com/es/sociedad/20260801/rescatados-tripulantes-embarcacion-heridos-barcelona-133021566)<br>
 17:31 [Tomás, el ciervo que recorrió 50 kilómetros para volver a su pueblo](https://www.elperiodico.com/es/medio-ambiente/20260801/tomas-ciervo-recorrio-50-kilometros-volver-pueblo-zamora-dv-133021406)<br>
