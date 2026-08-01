@@ -1,8 +1,11 @@
-# News for 2026-08-01 23:33
+# News for 2026-08-02 00:33
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+23:49 [Вибух у Хмельницькому: п'ятьох військових досі шукають](https://ua.korrespondent.net/ukraine/4899258-vybukh-u-khmelnytskomu-piatokh-viiskovykh-dosi-shukauit)<br>
+23:16 [Американцям рекомендують покинути Близький Схід: названа причина](https://ua.korrespondent.net/world/4899254-amerykantsiam-rekomenduuit-pokynuty-blyzkyi-skhid-nazvana-prychyna)<br>
+22:49 [Вибух у центрі Москви: НАК визнав вибухівку](https://ua.korrespondent.net/world/russia/4899256-vybukh-u-tsentri-moskvy-nak-vyznav-vybukhivku)<br>
 22:23 [На Запоріжжі від російської атаки загинула людина](https://ua.korrespondent.net/ukraine/4899252-na-zaporizhzhi-vid-rosiiskoi-ataky-zahynula-luidyna)<br>
 21:40 [Через 150 років: бібліотека в Австралії отримала унікальний "борг"](https://ua.korrespondent.net/world/4899247-cherez-150-rokiv-biblioteka-v-avstralii-otrymala-unikalnyi-borh)<br>
 21:03 [Росія вдарила по Дніпропетровщині: є жертва](https://ua.korrespondent.net/city/dnepr/4899243-rosiia-vdaryla-po-dnipropetrovschyni-ye-zhertva)<br>
@@ -52,6 +55,7 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 22:58 [España peleará por el bronce a pesar de la exhibición de Diego Niebla](https://as.com/baloncesto/mas_baloncesto/espana-peleara-por-el-bronce-a-pesar-de-la-exhibicion-de-diego-niebla-f202608-n/)<br>
 19:57 [El UCAM llevará el caso de DeJulius a la FIBA](https://as.com/baloncesto/acb/el-ucam-llevara-el-caso-de-dejulius-a-la-fiba-f202608-n/)<br>
 09:32 [La Sub-18 busca otro verano dorado en Estocolmo](https://as.com/baloncesto/mas_baloncesto/la-sub-18-busca-otro-verano-dorado-en-estocolmo-f202608-n/)<br>
+09:03 [Olympiacos y Panathinaikos hacen temblar de nuevo la Euroliga](https://as.com/baloncesto/euroliga/olympiacos-y-panathinaikos-hacen-temblar-de-nuevo-la-euroliga-f202608-n/)<br>
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Вибух у Хмельницькому: п'ятьох військових досі шукають",
+    "link": "https://ua.korrespondent.net/ukraine/4899258-vybukh-u-khmelnytskomu-piatokh-viiskovykh-dosi-shukauit",
+    "pubDate": "2026-08-01 23:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515712.jpg\">ДСНС продовжує обстеження території поблизу полігону. Виявлені боєприпаси та інші вибухонебезпечні предмети вилучають для подальшого знешкодження.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 2 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/portada-periodico-2-agosto-2026-133027602",
+    "pubDate": "2026-08-01 23:47:47",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Girona sucumbe ante un Arsenal superior (1-4)",
     "link": "https://www.elperiodico.com/es/deportes/20260801/girona-sucumbe-arsenal-superior-1-133027219",
     "pubDate": "2026-08-01 23:23:11",
@@ -9,11 +27,29 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Американцям рекомендують покинути Близький Схід: названа причина",
+    "link": "https://ua.korrespondent.net/world/4899254-amerykantsiam-rekomenduuit-pokynuty-blyzkyi-skhid-nazvana-prychyna",
+    "pubDate": "2026-08-01 23:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515686.jpg\">Держдеп попереджає про можливе скасування авіарейсів, тимчасове закриття повітряного простору та інших перебоїв у транспортному сполученні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "España peleará por el bronce a pesar de la exhibición de Diego Niebla",
     "link": "https://as.com/baloncesto/mas_baloncesto/espana-peleara-por-el-bronce-a-pesar-de-la-exhibicion-de-diego-niebla-f202608-n/",
     "pubDate": "2026-08-01 22:58:39",
     "category": "Baloncesto",
     "description": "El alero del Joventut acabó con 32 puntos, pero los júnior cayeron ante Eslovenia tras encajar un parcial final de 45-21.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибух у центрі Москви: НАК визнав вибухівку",
+    "link": "https://ua.korrespondent.net/world/russia/4899256-vybukh-u-tsentri-moskvy-nak-vyznav-vybukhivku",
+    "pubDate": "2026-08-01 22:49:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515695.jpg\">До ресторану намагалася пройти невідома жінка, яка мала при собі вибуховий пристрій. Охоронець став їй на перешкоді.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -1906,6 +1942,15 @@
     "description": "<h2>El Premio Coche del Año de los Lectores cerró la votación de julio con la victoria del Zeekr 7GT ante BYD Dolphin G DM-i y Mercedes-Benz GLC E</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Olympiacos y Panathinaikos hacen temblar de nuevo la Euroliga",
+    "link": "https://as.com/baloncesto/euroliga/olympiacos-y-panathinaikos-hacen-temblar-de-nuevo-la-euroliga-f202608-n/",
+    "pubDate": "2026-08-01 09:03:00",
+    "category": "Baloncesto",
+    "description": "Los dos conjuntos griegos se han reforzado este verano con jugadores de altísimo nivel: Jean Monero, Brancou Badio, Miller-McIntyre, Sylvain Francisco…",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Protección Civil llama a la prudencia en las zonas de baño ante la gran afluencia de personas",
