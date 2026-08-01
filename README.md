@@ -1,4 +1,4 @@
-# News for 2026-08-01 14:09
+# News for 2026-08-01 15:54
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
@@ -35,6 +35,10 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:36 [El puerto de Algeciras registra la llegada récord de 900 vehículos en una hora](https://www.elperiodico.com/es/videos/sociedad/puerto-algeciras-registra-llegada-record/133019588.shtml)<br>
+15:23 [Instaladas barreras de contención en la playa de Ceuta](https://www.elperiodico.com/es/videos/politica/instaladas-barreras-contencion-playa-ceuta/133019429.shtml)<br>
+15:00 [El melanoma no siempre comienza con un lunar en la piel: síntomas y cómo detectarlo a tiempo](https://www.elperiodico.com/es/salud/20260801/melanoma-no-siempre-comienza-lunar-sintomas-deteccion-temprana-103046103)<br>
+15:00 [Remedios caseros para quemaduras leves por el sol: ¿cuáles funcionan y cuáles debes evitar?](https://www.elperiodico.com/es/salud/20260801/remedios-caseros-quemaduras-leves-solares-si-funcionan-119972570)<br>
 14:01 [Incendios hoy, 1 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260801/incendios-hoy-1-agosto-cataluna-espana-mapa-fuegos-activos-dv-133018266)<br>
 13:56 [Detienen a una cuarta persona por el tiroteo del pasado 12 de mayo en La Mina](https://www.elperiodico.com/es/barcelona/20260801/detienen-cuarta-persona-tiroteo-mina-mayo-133018020)<br>
 13:31 [Al menos diez heridos por la explosión de un coche bomba frente a una comisaría en el noreste de Colombia](https://www.elperiodico.com/es/internacional/20260801/atentado-colombia-coche-bomba-cucuta-diez-heridos-explosion-133017572)<br>
