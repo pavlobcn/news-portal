@@ -1,5 +1,302 @@
 [
   {
+    "title": "Ракети і БпЛА з семи напрямків: як спрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4899149-rakety-i-bpla-z-semy-napriamkiv-yak-spratsuivala-ppo",
+    "pubDate": "2026-08-01 09:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515321.jpg\">Основний напрямок удару – Київщина. Але також було атаковано Дніпропетровщину, Сумщину, Харківщину і Полтавщину.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Zeekr 7GT gana julio y arranca la votación de agosto con Changan Deepal S05, Skoda Peaq y Toyota Yaris Cross",
+    "link": "https://www.elperiodico.com/es/motor/20260801/premio-coche-ano-lectores-julio-agosto-zeekr-7-gt-132882979",
+    "pubDate": "2026-08-01 09:03:23",
+    "category": "",
+    "description": "<h2>El Premio Coche del Año de los Lectores cerró la votación de julio con la victoria del Zeekr 7GT ante BYD Dolphin G DM-i y Mercedes-Benz GLC E</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Protección Civil llama a la prudencia en las zonas de baño ante la gran afluencia de personas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260801/proteccion-civil-llama-prudencia-zonas-barcelona-calor-mar-133012432",
+    "pubDate": "2026-08-01 09:02:13",
+    "category": "",
+    "description": "<h2>A mitad de la campaña de verano, 29 bañistas han muerto ahogados y otros 55 han resultado heridos en playas, piscinas y aguas interiores de Catalunya</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260727/hombres-mueren-ahogados-playas-cubelles-lloret-de-mar-132849109\">Dos hombres ahogados en Cunit y Lloret elevan a 15 los bañistas muertos este verano en la costa catalana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ascienden a nueve los muertos y 28 los heridos en un ataque con misiles balísticos rusos sobre Kiev",
+    "link": "https://www.elperiodico.com/es/internacional/20260801/ascienden-nueve-muertos-28-heridos-133012470",
+    "pubDate": "2026-08-01 09:01:46",
+    "category": "",
+    "description": "<h2>El alcalde de la capital ha instado a los residentes a buscar refugio y ha informado de que hay varios incendios en los distritos de Holosiivskii, Darnytskii, Shevchenkivskii y Solomianskii.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marruecos provoca una crisis y Ayuso no consigue cerrar la suya",
+    "link": "https://www.elperiodico.com/es/politica/20260801/ceuta-marruecos-crisis-frontera-inmigrantes-ayuso-atico-133005471",
+    "pubDate": "2026-08-01 09:00:52",
+    "category": "",
+    "description": "<h2>La semana empezó con la tragedia de los incendios y acabó con otra en las costas de Ceuta, mientras en Madrid la compra de un ático de lujo ha abierto una polémica que su venta no ha logrado zanjar</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ceuta: ¿quién mueve las piezas?",
+    "link": "https://www.elperiodico.com/es/opinion/20260801/ceuta-mueve-piezas-crisis-migratoria-articulo-ana-bernal-trivino-133003937",
+    "pubDate": "2026-08-01 09:00:49",
+    "category": "",
+    "description": "<h2>Los migrantes y sus vidas pasan a ser instrumentalizadas, a cambio de concesiones económicas, políticas o diplomáticas</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260731/italia-suspende-espacio-schengen-espana-crisis-migratoria-ceuta-133002541\">Italia suspende el espacio Schengen con España por la crisis migratoria en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El nuevo Reglamento Europeo de Envases empieza a aplicarse en agosto: estos son los cambios que notará el consumidor",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/nuevo-reglamento-europeo-envases-agosto-cambios-consumidor-dv-et-132998449",
+    "pubDate": "2026-08-01 09:00:48",
+    "category": "",
+    "description": "<h2 class=\"item\">La norma limitará el sobreenvasado, impulsará los recipientes reutilizables y acabará con determinados formatos de un solo uso, aunque muchas de las medidas más visibles llegarán de forma gradual hasta 2030</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260411/monodosis-gel-champu-hotel-prohibicion-ue-reciclaje-dv-128821133\">Adiós a los champús y geles monodosis de los hoteles: este verano empezarán a desaparecer</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hasta 12 puntales en pisos de 42 metros cuadrados: tres desalojos avivan el temor a la aluminosis en el Besòs",
+    "link": "https://www.elperiodico.com/es/barcelona/20260801/barcelona-pisos-aluminosis-desalojos-besos-maresme-132974391",
+    "pubDate": "2026-08-01 09:00:47",
+    "category": "",
+    "description": "<h2 class=\"item\">Dos evacuaciones recientes ordenadas por los Bomberos inquietan en un bloque del barrio, en el que una familia no ha podido regresar desde que tuvo que marcharse en 2024 por riesgo de que el techo se hundiera</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260726/cinco-diez-edificios-suspenden-inspecciones-tecnicas-catalunya-deficiencias-graves-132707437\">Cinco de cada diez edificios registran deficiencias graves en las inspecciones técnicas en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La \"revolución de los flamencos\" enciende Albania",
+    "link": "https://www.elperiodico.com/es/internacional/20260801/revolucion-flamencos-enciende-albania-132920349",
+    "pubDate": "2026-08-01 09:00:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La cardióloga Magdalena Perelló desvela el mejor alimento para el corazón: \"Baja la presión arterial, reduce el colesterol y combate la inflamación\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/magdalena-perello-cardiologa-mejor-alimento-barato-salud-nevera-dv-et-132178952",
+    "pubDate": "2026-08-01 09:00:00",
+    "category": "",
+    "description": "<h2>Aporta potasio, fibra y vitaminas, lo que la convierte en un alimento con un perfil nutricional muy completo y fácil de incorporar a la dieta diaria</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260604/infarto-alimentacion-pastillas-ejercicio-jose-abellan-cardiologo-dv-130451792\" target=\"_blank\">El cardiólogo José Abellán: \"La buena alimentación salva más vidas que las pastillas\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Пентагон запросив $18 млрд на екстрене посилення ППО",
+    "link": "https://ua.korrespondent.net/world/4899147-pentahon-zaprosyv-18-mlrd-na-ekstrene-posylennia-ppo",
+    "pubDate": "2026-08-01 08:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515314.jpg\">Із цих коштів $5,57 млрд планується асигнувати на перехоплювачі для зенітних комплексів Patriot.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Колишній гравець Реала заявив, що хотів опинитися в одній команді з Мессі",
+    "link": "https://ua.korrespondent.net/sport/football/4899145-kolyshnii-hravets-reala-zaiavyv-scho-khotiv-opynytysia-v-odnii-komandi-z-messi",
+    "pubDate": "2026-08-01 08:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515313.jpg\">Колишній футболіст Реала відверто зізнався, що хотів би грати в одному клубі з Ліонелем Мессі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Menores atrapados en la crisis de Ceuta: \"Muchas familias de Marruecos han llamado para que vuelvan\"",
+    "link": "https://www.elperiodico.com/es/politica/20260801/menores-migrantes-ceuta-marruecos-133012169",
+    "pubDate": "2026-08-01 08:34:52",
+    "category": "",
+    "description": "<h2>El director de la Fundación Sur Acoge, José Miguel Morales, señala que a los niños y adolescentes que no puedan volver \"se les debe trasladar a un centro con más garantías y ya luego valorar su acogida\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ocho meses de cárcel para un polémico 'youtuber' marroquí por cocinar a un perro en Marruecos",
+    "link": "https://www.elperiodico.com/es/sucesos/20260801/tribunal-marroqui-condena-polemico-youtuber-cocinar-perro-dv-132258138",
+    "pubDate": "2026-08-01 08:30:00",
+    "category": "",
+    "description": "<h2>El creador de contenido, que cuenta con más de 2,2 millones de suscriptores, publicó a finales de mayo un vídeo en el que cocinaba un perro muerto y consumía sus restos</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака РФ: у Києві перекрито рух на двох вулицях, змінено маршрути автобусів",
+    "link": "https://ua.korrespondent.net/city/kiev/4899143-ataka-rf-u-kyievi-perekryto-rukh-na-dvokh-vulytsiakh-zmineno-marshruty-avtobusiv",
+    "pubDate": "2026-08-01 08:15:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515298.jpg\">Станом на зараз відомо про 9 загиблих і 28 постраждалих в результаті балістичної атаки рашистів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora de los incendios en España, en directo | Estabilizados los incendios en la Vall d'Uixó y Zamora",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/ultima-hora-incendios-espana-directo-132759066",
+    "pubDate": "2026-08-01 08:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Pedro Sánchez: \"Hemos dejado atrás la emergencia nacional en Ávila y Madrid\", mientras que Sara Aagesen ha cifrado en 180.000 hectáreas la superficie quemada en España en lo que va de año</h2><h2 class=\"item\">El fuego de Castellón ha calcinado 9.568 hectáreas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Guardia Civil cierra la unidad de submarinistas de rescate en la Costa Brava, el lugar con más inmersiones de España: \"Es una locura'\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/guardia-civil-cierra-unidad-submarinistas-costa-brava-alcaldes-locura-bestiesa-medes-estartit-133007560",
+    "pubDate": "2026-08-01 08:01:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Alcaldes de la zona se muestran muy críticos con la supresión de una base que también socorre a embarcaciones </h2><h2 class=\"item\">En 2026 el único miembro de esta unidad aún operativo ya ha participado en la recuperación de cuatro cadáveres </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las jirafas del zoo de Barcelona saben 'matemáticas' (se acercan a la suma, pero fallan en la resta)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/jirafas-zoo-barcelona-matematicas-sumar-restar-133001126",
+    "pubDate": "2026-08-01 08:00:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio realizado en el zoológico sugiere que estos animales son capaces de combinar cantidades mentalmente </h2><h2 class=\"item\">La ciencia halla en cada vez más especies un sentido de la cantidad relacionado con la alimentación y la depredación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Entrenamos con Martina Capdevila, capitana del KH-7 BM Granollers: \"Soy una persona con la mente muy fría, pero los deportistas somos una montaña rusa\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/entrenamos-martina-capdevila-capitana-kh-132818838",
+    "pubDate": "2026-08-01 08:00:32",
+    "category": "",
+    "description": "<h2>Así es un entrenamiento de élite en el Pavelló Municipal de Granollers con Martina, quien luce el brazalete de capitana del equipo femenino de la ciudad. Además del balonmano, la comunicación es su otra gran pasión. Dos profesiones que combina en su día a día. </h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260725/entrenamos-helena-arias-deportista-tiro-132783303\">RITMO DE CAMPEONA (1) | Entrenamos con Helena Arias, deportista de tiro olímpico: “Quiero hacerme un hueco en el sector espacial sin dejar el deporte”</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mercè Torrentallé, activista: \"Las aficiones nos hacen reconectar, las obsesiones nos pueden descompensar\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260801/merce-torrentalle-activista-aficiones-reconectar-132565157",
+    "pubDate": "2026-08-01 08:00:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Hace más de 27 años que convivo con un trastorno mental y se agrava cuando tengo estrés y obsesiones</h2><h2 class=\"item\">Es importante aprender a dialogar con uno mismo y con el entorno con empatía y asertividad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тоналі розповів, що вплинуло на його вибір на користь Тоттенгема",
+    "link": "https://ua.korrespondent.net/sport/football/4899134-tonali-rozpoviv-scho-vplynulo-na-yoho-vybir-na-koryst-tottenhema",
+    "pubDate": "2026-08-01 07:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515297.jpg\">Сандро Тоналі відверто пояснив свій трансфер у Тоттенгем, зазначивши, що клуби Серії А зараз поступаються АПЛ у фінансових можливостях.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗСУ уразили 15 скупчень російських військ",
+    "link": "https://ua.korrespondent.net/ukraine/4899139-zsu-urazyly-15-skupchen-rosiiskykh-viisk",
+    "pubDate": "2026-08-01 07:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515289.jpg\">Найбільш гарячим залишається Покровський напрямок, де підрозділи ЗСУ відбили майже 40 штурмів за добу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гаві ризикує бути дискваліфікованим після інциденту з Паредесом",
+    "link": "https://ua.korrespondent.net/sport/football/4899133-havi-ryzykuie-buty-dyskvalifikovanym-pislia-intsydentu-z-paredesom",
+    "pubDate": "2026-08-01 07:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515288.jpg\">Дисциплінарний комітет розглядає дискваліфікацію Гаві через інцидент із Паредесом, незважаючи на те, що сам хавбек отримав удар.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hezonja se olvida del Madrid",
+    "link": "https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/",
+    "pubDate": "2026-08-01 07:37:00",
+    "category": "Baloncesto",
+    "description": "El croata puso un mensaje de despedida en redes sociales en el que no se acordó de los blancos. Una herida abierta que tardará tiempo en cicatrizar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "БпЛА уразили енергооб’єкти на ТОТ, є знеструмлення",
+    "link": "https://ua.korrespondent.net/ukraine/4899135-bpla-urazyly-enerhoobiekty-na-tot-ye-znestrumlennia",
+    "pubDate": "2026-08-01 07:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515278.jpg\">Російське міноборони заявляє про нібито перехоплення 274 українських безпілотників над територіями Криму і 15 регіонів РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В ЄК запевнили, що нелегали із Сеути не потраплять в Європу",
+    "link": "https://ua.korrespondent.net/world/4899131-v-yek-zapevnyly-scho-nelehaly-iz-seuty-ne-potrapliat-v-yevropu",
+    "pubDate": "2026-08-01 07:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515268.jpg\">Люди, які в’їжджають до Сеути без дозволу, не можуть сісти на пороми чи літаки до материкової Іспанії без попередньої перевірки особи.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El plan de Infantino fracasa y la FIFA suspende la privatización del Mundial: \"La propuesta no seguirá adelante\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/plan-infantino-fracasa-fifa-suspende-133010486",
+    "pubDate": "2026-08-01 07:05:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente del organismo se ve obligado a dar marcha atrás ante el boicot de la UEFA y  desiste de su intención de crear una filial para comercializar la Copa del Mundo.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260730/uefa-retira-competiciones-fifa-copa-132965752\" target=\"_blank\"> La UEFA estalla y anuncia un boicot contra la FIFA: \"La Copa del Mundo no está en venta\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Florentino convierte Valdebebas en un cajero automático: 200 millones en ventas de canteranos",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/programada-florentino-convierte-valdebebas-cajero-133008905",
+    "pubDate": "2026-08-01 07:01:10",
+    "category": "",
+    "description": "<h2>El traspaso de Nico Paz al Como (60 millones) y el de Gonzalo al Fulham (40) lideran la lista del verano más rentable de 'La Fábrica'</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las líneas rojas",
+    "link": "https://www.elperiodico.com/es/opinion/20260801/lineas-rojas-133005314",
+    "pubDate": "2026-08-01 07:00:57",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¡Vacaciones! (Para algunos)",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260801/vacaciones-podcast-sergi-mas-133001675",
+    "pubDate": "2026-08-01 07:00:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Реалі поставили Вінісіуса перед непростим вибором",
+    "link": "https://ua.korrespondent.net/sport/football/4899128-u-reali-postavyly-vinisiusa-pered-neprostym-vyborom",
+    "pubDate": "2026-08-01 06:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515258.jpg\">Реал не збирається ризикувати: Вінісіус Жуніор отримав ультиматум щодо продовження контракту або продажу цього літа.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 1 серпня",
+    "link": "https://ua.korrespondent.net/ukraine/4899126-henshtab-nazvav-vtraty-rosii-stanom-na-1-serpnia",
+    "pubDate": "2026-08-01 06:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515257.jpg\">Українські військові знищили понад 2400 одиниць російської техніки, серед якої 82 гармати, чотири РСЗВ і два засоби ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Vall d'Uixó, Madrid, León y Zamora",
+    "link": "https://www.elperiodico.com/es/sociedad/20260801/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-08-01 06:41:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/megaincendios-desata-emergencia-espana-esperabamos-bombas-nucleares-132857533\">La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260728/equipo-cientificos-csic-incendios-espana-132858331\">Un equipo de científicos se enrola por primera vez en las labores de extinción de los incendios: \"Alertamos a los bomberos de las zonas más peligrosas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Нові прем'єри України та Молдови провели першу розмову",
     "link": "https://ua.korrespondent.net/ukraine/4899124-novi-premiery-ukrainy-ta-moldovy-provely-pershu-rozmovu",
     "pubDate": "2026-08-01 06:28:00",
@@ -82,6 +379,15 @@
   },
   {
     "title": "El billete de euro se renueva (y puedes decidir cuál es tu favorito): así son los 10 diseños finalistas",
+    "link": "https://www.elperiodico.com/es/economia/nuevo-diseno-billete-euro-encuesta-132891335-rm/index.html",
+    "pubDate": "2026-08-01 06:00:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El billete de euro se renueva (y puedes decidir cuál es tu favorito): así son los 10 diseños finalistas",
     "link": "https://www.elperiodico.com/es/economia/20260801/billete-euro-renueva-puedes-decidir-132933690",
     "pubDate": "2026-08-01 06:00:54",
     "category": "",
@@ -135,6 +441,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "У Києві зросла кількість загиблих після атаки РФ",
+    "link": "https://ua.korrespondent.net/city/kiev/4899122-u-kyievi-zrosla-kilkist-zahyblykh-pislia-ataky-rf",
+    "pubDate": "2026-08-01 05:35:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515209.jpg\">Дев'ять людей загинули в Києві внаслідок російського ракетного удару; ще 23 особи зазнали поранень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У США упав винищувач-невидимка F-35B",
     "link": "https://ua.korrespondent.net/world/4899120-u-ssha-upav-vynyschuvach-nevydymka-F-35B",
     "pubDate": "2026-08-01 04:59:00",
@@ -171,11 +486,38 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Росіяни повторно вдарили по Києву балістикою",
+    "link": "https://ua.korrespondent.net/city/kiev/4899112-rosiiany-povtorno-vdaryly-po-kyievu-balistykoui",
+    "pubDate": "2026-08-01 02:51:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515128.jpg\">Повітряні сили попередили про загрозу застосування балістики з північного сходу, після чого в місті прогриміли вибухи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ракетні удари по Києву: є загиблі та потерпілі",
+    "link": "https://ua.korrespondent.net/city/kiev/4899110-raketni-udary-po-kyievu-ye-zahybli-ta-poterpili",
+    "pubDate": "2026-08-01 02:28:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515127.jpg\">Чотири людини загинули в столиці внаслідок російського балістичного удару в ніч проти 1 липня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Атаки на Wildberries призвели до стрибку цін на маркетплейсах в РФ - ЗМІ",
     "link": "https://ua.korrespondent.net/ukraine/4899108-ataky-na-Wildberries-pryzvely-do-strybku-tsin-na-marketpleisakh-v-rf-zmi",
     "pubDate": "2026-08-01 01:58:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515108.jpg\">Підприємці Wildberries незадоволені компенсаціями за товари, які були знищені під час пожеж, пише The Moscow Times.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар РФ по Києві: названі попередні наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4899106-udar-rf-po-kyievi-nazvani-poperedni-naslidky",
+    "pubDate": "2026-08-01 01:30:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515098.jpg\">Наслідки обстрілу фіксуються в трьох районах міста: Шевченківському, Солом'янському та Дарницькому.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -187,6 +529,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515088.jpg\">Президент США закликав американців підтримати Республіканську партію на виборах, щоб запобігти напливу нелегалів.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Росія завдала балістикою серію ударів по Києву",
+    "link": "https://ua.korrespondent.net/city/kiev/4899102-rosiia-zavdala-balistykoui-seriui-udariv-po-kyievu",
+    "pubDate": "2026-08-01 00:50:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515078.jpg\">Повітряні сили ЗСУ попереджали перед цим про \"загрозу застосування балістичного озброєння з Курська\".",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Іспанія заявила, що більшість нелегальних мігрантів покинули Сеуту",

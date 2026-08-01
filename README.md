@@ -1,16 +1,42 @@
-# News for 2026-08-01 06:37
+# News for 2026-08-01 09:14
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+09:07 [Ракети і БпЛА з семи напрямків: як спрацювала ППО](https://ua.korrespondent.net/ukraine/4899149-rakety-i-bpla-z-semy-napriamkiv-yak-spratsuivala-ppo)<br>
+08:15 [Атака РФ: у Києві перекрито рух на двох вулицях, змінено маршрути автобусів](https://ua.korrespondent.net/city/kiev/4899143-ataka-rf-u-kyievi-perekryto-rukh-na-dvokh-vulytsiakh-zmineno-marshruty-avtobusiv)<br>
+07:54 [ЗСУ уразили 15 скупчень російських військ](https://ua.korrespondent.net/ukraine/4899139-zsu-urazyly-15-skupchen-rosiiskykh-viisk)<br>
+07:33 [БпЛА уразили енергооб’єкти на ТОТ, є знеструмлення](https://ua.korrespondent.net/ukraine/4899135-bpla-urazyly-enerhoobiekty-na-tot-ye-znestrumlennia)<br>
+06:47 [Генштаб назвав втрати Росії станом на 1 серпня](https://ua.korrespondent.net/ukraine/4899126-henshtab-nazvav-vtraty-rosii-stanom-na-1-serpnia)<br>
+05:35 [У Києві зросла кількість загиблих після атаки РФ](https://ua.korrespondent.net/city/kiev/4899122-u-kyievi-zrosla-kilkist-zahyblykh-pislia-ataky-rf)<br>
 04:59 [У США упав винищувач-невидимка F-35B](https://ua.korrespondent.net/world/4899120-u-ssha-upav-vynyschuvach-nevydymka-F-35B)<br>
 04:45 [У Криму приліт з детонацією та пожежею - соцмережі](https://ua.korrespondent.net/ukraine/4899118-u-krymu-prylit-z-detonatsiieui-ta-pozhezheui-sotsmerezhi)<br>
 03:46 [Стали відомі наслідки атаки РФ на Київщину](https://ua.korrespondent.net/ukraine/4899116-staly-vidomi-naslidky-ataky-rf-na-kyivschynu)<br>
+02:51 [Росіяни повторно вдарили по Києву балістикою](https://ua.korrespondent.net/city/kiev/4899112-rosiiany-povtorno-vdaryly-po-kyievu-balistykoui)<br>
+02:28 [Ракетні удари по Києву: є загиблі та потерпілі](https://ua.korrespondent.net/city/kiev/4899110-raketni-udary-po-kyievu-ye-zahybli-ta-poterpili)<br>
 01:58 [Атаки на Wildberries призвели до стрибку цін на маркетплейсах в РФ - ЗМІ](https://ua.korrespondent.net/ukraine/4899108-ataky-na-Wildberries-pryzvely-do-strybku-tsin-na-marketpleisakh-v-rf-zmi)<br>
+01:30 [Удар РФ по Києві: названі попередні наслідки](https://ua.korrespondent.net/city/kiev/4899106-udar-rf-po-kyievi-nazvani-poperedni-naslidky)<br>
+00:50 [Росія завдала балістикою серію ударів по Києву](https://ua.korrespondent.net/city/kiev/4899102-rosiia-zavdala-balistykoui-seriui-udariv-po-kyievu)<br>
+
+## as.com
+07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+09:02 [Protección Civil llama a la prudencia en las zonas de baño ante la gran afluencia de personas](https://www.elperiodico.com/es/barcelona/20260801/proteccion-civil-llama-prudencia-zonas-barcelona-calor-mar-133012432)<br>
+09:01 [Ascienden a nueve los muertos y 28 los heridos en un ataque con misiles balísticos rusos sobre Kiev](https://www.elperiodico.com/es/internacional/20260801/ascienden-nueve-muertos-28-heridos-133012470)<br>
+09:00 [El nuevo Reglamento Europeo de Envases empieza a aplicarse en agosto: estos son los cambios que notará el consumidor](https://www.elperiodico.com/es/sociedad/20260801/nuevo-reglamento-europeo-envases-agosto-cambios-consumidor-dv-et-132998449)<br>
+09:00 [Hasta 12 puntales en pisos de 42 metros cuadrados: tres desalojos avivan el temor a la aluminosis en el Besòs](https://www.elperiodico.com/es/barcelona/20260801/barcelona-pisos-aluminosis-desalojos-besos-maresme-132974391)<br>
+09:00 [La "revolución de los flamencos" enciende Albania](https://www.elperiodico.com/es/internacional/20260801/revolucion-flamencos-enciende-albania-132920349)<br>
+08:05 [Última hora de los incendios en España, en directo | Estabilizados los incendios en la Vall d'Uixó y Zamora](https://www.elperiodico.com/es/sociedad/20260801/ultima-hora-incendios-espana-directo-132759066)<br>
+08:01 [La Guardia Civil cierra la unidad de submarinistas de rescate en la Costa Brava, el lugar con más inmersiones de España: "Es una locura'"](https://www.elperiodico.com/es/sociedad/20260801/guardia-civil-cierra-unidad-submarinistas-costa-brava-alcaldes-locura-bestiesa-medes-estartit-133007560)<br>
+08:00 [Las jirafas del zoo de Barcelona saben 'matemáticas' (se acercan a la suma, pero fallan en la resta)](https://www.elperiodico.com/es/sociedad/20260801/jirafas-zoo-barcelona-matematicas-sumar-restar-133001126)<br>
+08:00 [Mercè Torrentallé, activista: "Las aficiones nos hacen reconectar, las obsesiones nos pueden descompensar"](https://www.elperiodico.com/es/ser-feliz/20260801/merce-torrentalle-activista-aficiones-reconectar-132565157)<br>
+07:00 [Las líneas rojas](https://www.elperiodico.com/es/opinion/20260801/lineas-rojas-133005314)<br>
+07:00 [¡Vacaciones! (Para algunos)](https://www.elperiodico.com/es/ocio-y-cultura/20260801/vacaciones-podcast-sergi-mas-133001675)<br>
+06:41 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Vall d'Uixó, Madrid, León y Zamora](https://www.elperiodico.com/es/sociedad/20260801/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 06:01 [Leticia Martín, directora del Grec: "Este julio ha sido infernal. Hay que buscar soluciones para el calor en el Teatre Grec"](https://www.elperiodico.com/es/ocio-y-cultura/20260801/leticia-martin-directora-grec-julio-132942254)<br>
 06:01 [La UAB inicia su primera gran reforma urbanística en medio siglo: integración con el Vallès y densificación sostenible](https://www.elperiodico.com/es/barcelona/20260801/uab-primera-reforma-urbanistica-medio-siglo-integracion-valles-densificacion-sostenible-132857621)<br>
+06:00 [El billete de euro se renueva (y puedes decidir cuál es tu favorito): así son los 10 diseños finalistas](https://www.elperiodico.com/es/economia/nuevo-diseno-billete-euro-encuesta-132891335-rm/index.html)<br>
 06:00 [El billete de euro se renueva (y puedes decidir cuál es tu favorito): así son los 10 diseños finalistas](https://www.elperiodico.com/es/economia/20260801/billete-euro-renueva-puedes-decidir-132933690)<br>
 06:00 [Mango empieza a explorar un sistema de venta de ropa de segunda mano en Estados Unidos](https://www.elperiodico.com/es/economia/20260801/mango-empieza-probar-venta-ropa-segunda-mano-estados-unidos-132997586)<br>
 06:00 [La exportación de ropa usada y residuo textil se quintuplica en una década en España](https://www.elperiodico.com/es/economia/20260801/exportacion-ropa-usada-residuo-textil-quintuplica-en-una-decada-132929292)<br>
