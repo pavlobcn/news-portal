@@ -1,8 +1,11 @@
-# News for 2026-08-01 12:59
+# News for 2026-08-01 14:09
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+14:00 [На Львівщині 11 людей постраждали у ДТП](https://ua.korrespondent.net/ukraine/4899194-na-lvivschyni-11-luidei-postrazhdaly-u-dtp)<br>
+13:37 [СБУ уразила три НПЗ в Башкортостані](https://ua.korrespondent.net/ukraine/4899190-sbu-urazyla-try-npz-v-bashkortostani)<br>
+13:14 [Росіяни вдарили по складу в Броварах, є жертви](https://ua.korrespondent.net/ukraine/4899187-rosiiany-vdaryly-po-skladu-v-brovarakh-ye-zhertvy)<br>
 12:48 [Армія РФ зазнала рекордних втрат у липні - Генштаб](https://ua.korrespondent.net/ukraine/4899182-armiia-rf-zaznala-rekordnykh-vtrat-u-lypni-henshtab)<br>
 12:19 [Росатом заявив про втрату корабля через атаку морських дронів](https://ua.korrespondent.net/world/russia/4899177-rosatom-zaiavyv-pro-vtratu-korablia-cherez-ataku-morskykh-droniv)<br>
 11:52 [В Одесі "шахед" влетів у будинок, є постраждалі](https://ua.korrespondent.net/city/odessa/4899174-v-odesi-shakhed-vletiv-u-budynok-ye-postrazhdali)<br>
@@ -32,6 +35,13 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:01 [Incendios hoy, 1 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260801/incendios-hoy-1-agosto-cataluna-espana-mapa-fuegos-activos-dv-133018266)<br>
+13:56 [Detienen a una cuarta persona por el tiroteo del pasado 12 de mayo en La Mina](https://www.elperiodico.com/es/barcelona/20260801/detienen-cuarta-persona-tiroteo-mina-mayo-133018020)<br>
+13:31 [Al menos diez heridos por la explosión de un coche bomba frente a una comisaría en el noreste de Colombia](https://www.elperiodico.com/es/internacional/20260801/atentado-colombia-coche-bomba-cucuta-diez-heridos-explosion-133017572)<br>
+13:31 [Atentan contra comando de policía en la ciudad colombiana de Cúcuta](https://www.elperiodico.com/es/videos/internacional/atentan-comando-policia-ciudad-colombiana/133017660.shtml)<br>
+13:14 [Cortada la R3 de Rodalies entre Vic y La Garriga (Barcelona) por una incidencia técnica](https://www.elperiodico.com/es/sociedad/20260801/catalunya-cortada-r3-rodalies-garriga-vic-barcelona-incidencia-133017140)<br>
+13:00 [La factura mundial de la depresión: 10'5 billones de euros hasta 2050](https://www.elperiodico.com/es/ser-feliz/20260801/factura-mundial-depresion-105-billones-132944591)<br>
+13:00 [48 horas sin voz por un récord: la locura del grito de 122 decibelios que ha entrado en el libro Guinnes](https://www.elperiodico.com/es/vida-y-estilo/20260801/record-guinnes-grito-mas-alto-mundo-australiano-dv-132055711)<br>
 12:40 [Natalie y Michael, padres de 6 hijos, revelan cómo es su día a día viviendo en la selva: "Aquí ayudamos con la educación de los niños desde casa"](https://www.elperiodico.com/es/economia/20260801/familia-porter-selva-educacion-hijos-abuelos-dv-et-132783720)<br>
 12:36 [Protección Civil activa la alerta por lluvias fuertes en Catalunya este sábado, que pueden acumular más de 20 litros en 30 minutos](https://www.elperiodico.com/es/sociedad/20260801/proteccion-civil-activa-alerta-lluvias-fuertes-cataluna-precaucion-133016294)<br>
 12:30 [Antonio Pérez, fisioterapeuta, explica el motivo por el que puedes marearte al hacer ejercicio: "Tu cerebro le dice al corazón dónde tiene que estar la sangre"](https://www.elperiodico.com/es/vida-y-estilo/20260801/antonio-perez-fisioterapeuta-explica-motivo-mareo-ejercicio-fisico-dv-et-133001090)<br>
@@ -43,6 +53,7 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 12:00 [¿Cómo se verá el eclipse desde Barcelona, Madrid o Cádiz? Así se oscurecerá el cielo fuera de la franja de totalidad](https://www.elperiodico.com/es/sociedad/20260801/como-vera-eclipse-barcelona-madrid-puntos-observacion-consejos-cielo-132986635)<br>
 12:00 [Grito, susurro y silencio de la Barcelona Art Orchestra: "Es el tipo de reto que uno como músico está buscando todo el tiempo"](https://www.elperiodico.com/es/ocio-y-cultura/20260801/grito-susurro-silencio-barcelona-art-132479148)<br>
 11:35 [Muere un trabajador de 65 años al caer desde la azotea de un hotel en Salou](https://www.elperiodico.com/es/tarragona/20260801/muere-trabajador-caer-azotea-hotel-salou-133014996)<br>
+11:30 [Aviso del Tribunal Supremo: vivir en suelo rústico te expone a penas de prisión](https://www.elperiodico.com/es/economia/20260801/supremo-confirma-vivir-suelo-rustico-carcel-dv-132052313)<br>
 11:25 [La Guardia Civil cierra la unidad de submarinistas de rescate en la Costa Brava, el lugar con más inmersiones de España: "Es una locura'"](https://www.elperiodico.com/es/videos/sociedad/guardia-civil-cierra-unidad-submarinistas/133014865.shtml)<br>
 11:00 [En agosto nos vemos](https://www.elperiodico.com/es/opinion/20260801/agosto-vemos-gabriel-garcia-marquez-periodismo-articulo-juan-cruz-ruiz-133004684)<br>
 11:00 [Un terremoto de 4,7 grados sacude Nápoles causando numerosos daños y al menos 8 heridos leves](https://www.elperiodico.com/es/videos/sucesos/terremoto-4-7-grados-sacude/133014347.shtml)<br>
