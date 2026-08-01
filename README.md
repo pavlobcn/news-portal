@@ -1,8 +1,10 @@
-# News for 2026-08-01 21:40
+# News for 2026-08-01 22:34
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
 ## ua.korrespondent.net
+22:23 [На Запоріжжі від російської атаки загинула людина](https://ua.korrespondent.net/ukraine/4899252-na-zaporizhzhi-vid-rosiiskoi-ataky-zahynula-luidyna)<br>
+21:40 [Через 150 років: бібліотека в Австралії отримала унікальний "борг"](https://ua.korrespondent.net/world/4899247-cherez-150-rokiv-biblioteka-v-avstralii-otrymala-unikalnyi-borh)<br>
 21:03 [Росія вдарила по Дніпропетровщині: є жертва](https://ua.korrespondent.net/city/dnepr/4899243-rosiia-vdaryla-po-dnipropetrovschyni-ye-zhertva)<br>
 20:43 [На місці падіння ракети РФ в Польщі шукають ще один уламок](https://ua.korrespondent.net/world/4899241-na-mistsi-padinnia-rakety-rf-v-polschi-shukauit-sche-odyn-ulamok)<br>
 20:22 [Угорщина готується до енергокризи: транспорт змінює графіки](https://ua.korrespondent.net/world/4899239-uhorschyna-hotuietsia-do-enerhokryzy-transport-zminuiie-hrafiky)<br>
@@ -52,6 +54,8 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:29 [Los bomberos luchan por salvar un complejo turístico en Grecia en medio de fuertes vientos](https://www.elperiodico.com/es/internacional/20260801/bomberos-luchan-salvar-complejo-turistico-133025779)<br>
+22:03 [Reactivado un incendio en Senet (Lleida), que ha quemado unas 17 hectáreas](https://www.elperiodico.com/es/sucesos/20260801/reactivado-incendio-senet-lleida-quemado-133026352)<br>
 21:02 [Cárcel para tres de los detenidos por el crimen de Murcia: el resto queda en libertad](https://www.elperiodico.com/es/sucesos/20260801/carcel-detenidos-crimen-murcia-133025525)<br>
 20:46 [La jueza decreta prisión provisional, comunicada y sin fianza para el parricida confeso de A Coruña](https://www.elperiodico.com/es/sucesos/20260801/jueza-decreta-prision-provisional-comunicada-133025213)<br>
 20:31 [La marca de lujo de MSC estrena crucero en Barcelona y potencia sus rutas desde la ciudad](https://www.elperiodico.com/es/barcelona/20260801/marca-lujo-msc-estrena-mejor-crucero-barcelona-explora-journeys-133019692)<br>

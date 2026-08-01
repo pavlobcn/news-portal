@@ -1,5 +1,68 @@
 [
   {
+    "title": "Los bomberos luchan por salvar un complejo turístico en Grecia en medio de fuertes vientos",
+    "link": "https://www.elperiodico.com/es/internacional/20260801/bomberos-luchan-salvar-complejo-turistico-133025779",
+    "pubDate": "2026-08-01 22:29:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Porto Germeno, en el golfo de Corinto, es un destino vacacional muy apreciado por los atenienses, y su población se multiplica en verano, especialmente este primer fin de semana de agosto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260801/reactivado-incendio-senet-lleida-quemado-133026352\" target=\"_blank\">Reactivado un incendio en Senet (Lleida), que ha quemado unas 17 hectáreas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260801/evacuan-800-personas-municipios-caceres-incendio-forestal-133023520\" target=\"_blank\">El fuego entra en el casco urbano de Casas de Millán (Cáceres) y afecta ya a viviendas: \"Temo por mi casa\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Запоріжжі від російської атаки загинула людина",
+    "link": "https://ua.korrespondent.net/ukraine/4899252-na-zaporizhzhi-vid-rosiiskoi-ataky-zahynula-luidyna",
+    "pubDate": "2026-08-01 22:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515677.jpg\">Російські дрони атакували два села. В одному чоловік загинув, в іншому жертвою атаки став комбайнер, він отримав поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tebas: \"Infantino no debe continuar al frente de la FIFA\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260801/tebas-infantino-debe-continuar-frente-133026371",
+    "pubDate": "2026-08-01 22:04:52",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Retirar una propuesta no borra todo lo ocurrido, es solo la punta del iceberg\", asegura el presidente de LaLiga.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260801/plan-infantino-fracasa-fifa-suspende-133010486\" target=\"_blank\">El plan de Infantino fracasa y la FIFA suspende la privatización del Mundial</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Reactivado un incendio en Senet (Lleida), que ha quemado unas 17 hectáreas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260801/reactivado-incendio-senet-lleida-quemado-133026352",
+    "pubDate": "2026-08-01 22:03:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Потрібне рішення: Зеленський про ракети до Patriot",
+    "link": "https://ua.korrespondent.net/ukraine/4899250-potribne-rishennia-zelenskyi-pro-rakety-do-Patriot",
+    "pubDate": "2026-08-01 21:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515668.jpg\">Володимир Зеленський заявив, що у світі є необхідні ракети для систем Patriot, однак Україні потрібне політичне рішення партнерів щодо їх передачі.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ceuta mira \"con preocupación\" los 5.000 migrantes que estiman se han quedado por la ciudad",
+    "link": "https://www.elperiodico.com/es/politica/20260801/ceuta-mira-preocupacion-5-000-133026035",
+    "pubDate": "2026-08-01 21:42:13",
+    "category": "",
+    "description": "<h2>Marlaska destaca que \"en 24 horas\" se ha revertido la crisis migratoria en Ceuta</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/impacto-economia-ciudad-derivada-crisis-133023714\" target=\"_blank\">El impacto en la economía de la ciudad, otra derivada de la crisis migratoria en Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/feijoo-pp-ceuta-gobierno-entrada-masiva-migrantes-133017186\" target=\"_blank\">Feijóo responsabiliza al Gobierno de la situación que vive Ceuta y tacha de \"ridícula\" su respuesta a la crisis</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\" target=\"_blank\">Última hora de la crisis migratoria en Ceuta y Melilla. En directo: </a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Через 150 років: бібліотека в Австралії отримала унікальний \"борг\"",
+    "link": "https://ua.korrespondent.net/world/4899247-cherez-150-rokiv-biblioteka-v-avstralii-otrymala-unikalnyi-borh",
+    "pubDate": "2026-08-01 21:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4515658.jpg\">В австралійському місті Кіама до бібліотеки повернули книгу, яка майже півтора століття вважалася втраченою. Старовинне видання випадково знайшли під час ремонту будинку, де воно десятиліттями було заховане в каміні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Muere una niña de 13 años en un trágico accidente entre una autocaravana y un camión en la AP-7 en Benicàssim",
     "link": "https://www.elperiodico.com/es/videos/sociedad/muere-nina-13-anos-tragico/133025954.shtml",
     "pubDate": "2026-08-01 21:34:44",
