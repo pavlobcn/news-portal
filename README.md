@@ -1,4 +1,4 @@
-# News for 2026-08-01 22:34
+# News for 2026-08-01 23:33
 
 Previous day: [2026-07-31](./data/2026-07-31.md)
 
@@ -49,11 +49,13 @@ Previous day: [2026-07-31](./data/2026-07-31.md)
 00:50 [Росія завдала балістикою серію ударів по Києву](https://ua.korrespondent.net/city/kiev/4899102-rosiia-zavdala-balistykoui-seriui-udariv-po-kyievu)<br>
 
 ## as.com
+22:58 [España peleará por el bronce a pesar de la exhibición de Diego Niebla](https://as.com/baloncesto/mas_baloncesto/espana-peleara-por-el-bronce-a-pesar-de-la-exhibicion-de-diego-niebla-f202608-n/)<br>
 19:57 [El UCAM llevará el caso de DeJulius a la FIBA](https://as.com/baloncesto/acb/el-ucam-llevara-el-caso-de-dejulius-a-la-fiba-f202608-n/)<br>
 09:32 [La Sub-18 busca otro verano dorado en Estocolmo](https://as.com/baloncesto/mas_baloncesto/la-sub-18-busca-otro-verano-dorado-en-estocolmo-f202608-n/)<br>
 07:37 [Hezonja se olvida del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-olvida-del-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:39 [Al menos 13 muertos al estrellarse una avioneta con turistas cerca de las Líneas de Nazca, en Perú](https://www.elperiodico.com/es/internacional/20260801/13-muertos-estrellarse-avioneta-turistas-lineas-nazca-peru-133026944)<br>
 22:29 [Los bomberos luchan por salvar un complejo turístico en Grecia en medio de fuertes vientos](https://www.elperiodico.com/es/internacional/20260801/bomberos-luchan-salvar-complejo-turistico-133025779)<br>
 22:03 [Reactivado un incendio en Senet (Lleida), que ha quemado unas 17 hectáreas](https://www.elperiodico.com/es/sucesos/20260801/reactivado-incendio-senet-lleida-quemado-133026352)<br>
 21:02 [Cárcel para tres de los detenidos por el crimen de Murcia: el resto queda en libertad](https://www.elperiodico.com/es/sucesos/20260801/carcel-detenidos-crimen-murcia-133025525)<br>
