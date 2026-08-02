@@ -1,5 +1,167 @@
 [
   {
+    "title": "El socavón del Putxet mantiene fuera de casa a cientos de vecinos de Barcelona un mes después",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/socavon-putxet-mantiene-fuera-casa/133044446.shtml",
+    "pubDate": "2026-08-02 21:42:09",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Donal Trump se posiciona más cerca de Rabat que de Madrid",
+    "link": "https://www.elperiodico.com/es/videos/internacional/donal-trump-posiciona-cerca-rabat/133044378.shtml",
+    "pubDate": "2026-08-02 21:38:02",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Стрільця в Одесі затримали – ЗМІ",
+    "link": "https://ua.korrespondent.net/city/odessa/4899425-striltsia-v-odesi-zatrymaly-zmi",
+    "pubDate": "2026-08-02 21:36:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516383.jpg\">Поліція підтвердила стрілянину по співробітникам військкомату в Одесі. Раніше ЗМІ писали, що його помешкання вже штурмують.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere la artista leridana Teresa Vall Palou",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260802/muere-artista-leridana-teresa-vall-133044110",
+    "pubDate": "2026-08-02 21:20:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Su partida coincide con un periodo de gran reconocimiento a su carrera</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vozinha pone rumbo a Chile para jugar en el Colo Colo",
+    "link": "https://www.elperiodico.com/es/deportes/20260802/vozinha-pone-rumbo-chile-jugar-133044050",
+    "pubDate": "2026-08-02 21:18:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El meta de la selección de Cabo Verde, Josimar José Évora Dias 'Vozinha', figura en el Mundial 2026, voló este domingo desde Madrid hacia su nuevo destino. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗМІ: У ресторані в Москві загинула дочка генерала",
+    "link": "https://ua.korrespondent.net/world/russia/4899421-zmi-u-restorani-v-moskvi-zahynula-dochka-henerala",
+    "pubDate": "2026-08-02 21:18:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516369.jpg\">Серед жертв вибуху фігурують донька та зять головнокомандувача Повітряно-космічних сил РФ генерал-полковника Олександра Чайка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нападник ПСЖ перейшов у Ювентус",
+    "link": "https://ua.korrespondent.net/sport/football/4899419-napadnyk-pszh-pereishov-u-yuventus",
+    "pubDate": "2026-08-02 21:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516328.jpg\">Форвард парижан підписав контракт про співпрацю з туринською командою строком дії до 2031 року.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ceuta reivindica su españolidad y clama por seguir unida ante los que \"siembran odio\"",
+    "link": "https://www.elperiodico.com/es/politica/20260802/ceuta-reivindica-espanolidad-clama-seguir-133041673",
+    "pubDate": "2026-08-02 21:00:56",
+    "category": "",
+    "description": "<h2>El Gobierno trabaja para qu<strong>e “no vuelva a ocurrir” esta “ataque” a la integridad territorial pero no puede garantizar que puedan impedirlo</strong></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260802/migrantes-ceuta-claro-vuelven-marruecos-133038068\" target=\"_blank\">Migrantes en Ceuta que tienen claro que no vuelven a Marruecos: “Allí nos llevan al Sáhara”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El horóscopo de mañana, lunes 3 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260802/horoscopo-hoy-lunes-3-agosto-dv-132930594",
+    "pubDate": "2026-08-02 21:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Once muertos en la segunda operación salida del verano, cuatro de ellos motoristas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260802/once-muertos-segunda-operacion-salida-133043885",
+    "pubDate": "2026-08-02 20:59:18",
+    "category": "",
+    "description": "<h2>La operación salida del primer éxodo vacacional de julio y el inicio de agosto generan complicaciones en las vías de acceso a Madrid y Barcelona</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Флеш назвав \"панацею\" від російської балістики",
+    "link": "https://ua.korrespondent.net/ukraine/4899417-flesh-nazvav-panatseui-vid-rosiiskoi-balistyky",
+    "pubDate": "2026-08-02 20:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516355.jpg\">Радник президента розповів, що може врятувати Україну від ворожої балістики і захисти небо.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Miles de evacuados en el estado de Washington a causa de los incendios",
+    "link": "https://www.elperiodico.com/es/internacional/20260802/miles-evacuados-washington-causa-incendios-133043480",
+    "pubDate": "2026-08-02 20:43:50",
+    "category": "",
+    "description": "<h2>Al menos 600 infraestructuras han quedado destruidas y<strong> </strong>otras están amenazadas en en condado de Spokane donde los bomberos luchan contra el mayor fuego de los que amenazan la zona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seis muertos y 30 heridos en una colisión entre un autobús y una autocaravana en Italia",
+    "link": "https://www.elperiodico.com/es/internacional/20260802/seis-muertos-30-heridos-colision-italia-133043566",
+    "pubDate": "2026-08-02 20:41:56",
+    "category": "",
+    "description": "<h2>El siniestro se produjo cuando los dos vehículos chocaron frontalmente</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ вдарила по портовій інфраструктурі Миколаївщини",
+    "link": "https://ua.korrespondent.net/ukraine/4899414-rf-vdaryla-po-portovii-infrastrukturi-mykolaivschyny",
+    "pubDate": "2026-08-02 20:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516341.jpg\">Внаслідок ворожого обстрілу порту пошкоджено два цивільних судна. Попередньо без постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El  Barça no se inquieta por la posible marcha de Ferran Torres al PSG",
+    "link": "https://www.elperiodico.com/es/deportes/20260802/barca-inquieta-posible-marcha-ferran-133042917",
+    "pubDate": "2026-08-02 20:24:48",
+    "category": "",
+    "description": "<h2>El club confía en que tiene tiempo y recambios para cubrir la baja de Lewandowski y no le consta que el delantero valenciano desee irse a París</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rafa Nadal se centra en su nuevo proyecto: \"Del mismo modo que construí un legado dentro de la pista, ahora es el momento de construir un legado fuera de ella\"",
+    "link": "https://www.elperiodico.com/es/gente/20260802/rafa-nadal-turismo-compra-vivienda-hoteles-empresas-dv-et-132874255",
+    "pubDate": "2026-08-02 20:20:25",
+    "category": "",
+    "description": "<h2>El extenista cree que \"la mentalidad de la gente ha cambiado mucho\" y prefieren invertir en turismo y ocio antes que \"ahorrar para comprar un coche o una casa\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260714/rafa-nadal-40-anos-padre-dv-132409951\">Rafa Nadal, a sus 40 años: \"Ver a mi padre levantar desde cero la mayor empresa de cristales de Baleares marcó mi forma de entender el esfuerzo\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ibon Berasategui (32 años) vive en su aldea por menos de 300 euros al mes: gasta 100 en alquiler y unos 110 en comida: \"No me da por comprar chocolatinas, bollerías, galletas y cosas de estas\"",
+    "link": "https://www.elperiodico.com/es/economia/20260802/aldea-asturias-300-euros-mes-gastos-luz-gas-agua-alquiler-ibon-berasategui-dv-et-132968610",
+    "pubDate": "2026-08-02 20:16:02",
+    "category": "",
+    "description": "<h2>Todo lo relacionado con vegetales y fruta lo cultiva en su huerto</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260722/asturias-vivienda-palacio-aislado-axel-dv-et-132337212\">Axel, que vive solo en un palacio en la naturaleza por solo 150 euros al mes: \"Con los precios de España es una locura\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260730/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564\">Alain reforma solo una masía catalana de más de 300 años: \"Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A España se le escapa el bronce",
+    "link": "https://as.com/baloncesto/mas_baloncesto/a-espana-se-le-escapa-el-bronce-f202608-n/",
+    "pubDate": "2026-08-02 20:15:50",
+    "category": "Baloncesto",
+    "description": "La Sub-18 cayó 69-74 ante Francia tras un intento de remontada que no logró culminar y dejó el tercer puesto en manos galas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "В Одесі по працівникам ТЦК відкрили вогонь",
     "link": "https://ua.korrespondent.net/city/odessa/4899412-v-odesi-po-pratsivnykam-ttsk-vidkryly-vohon",
     "pubDate": "2026-08-02 20:10:00",
@@ -14,6 +176,15 @@
     "pubDate": "2026-08-02 19:55:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516315.jpg\">Російські війська ввечері завдали ударів керованими авіабомбами по житлових кварталах обласного центру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "George Clooney, evacuado de su casa por los incendios en el sur de Francia",
+    "link": "https://www.elperiodico.com/es/gente/20260802/george-clooney-evacuado-incendios-francia-casa-dv-133042430",
+    "pubDate": "2026-08-02 19:53:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Las llamas han calcinado ya más de 40.000 hectáreas y han obligado a evacuar a más de 200.000 personas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260802/muertos-heridos-chocar-helicopteros-antiincendios-133039955\">Dos muertos y dos heridos al chocar dos helicópteros antiincendios en Grecia</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
