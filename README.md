@@ -1,8 +1,9 @@
-# News for 2026-08-02 18:17
+# News for 2026-08-02 19:28
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## ua.korrespondent.net
+18:35 [У Греції зіткнулись пожежні гелікоптери, є загиблі](https://ua.korrespondent.net/world/4899394-u-hretsii-zitknulys-pozhezhni-helikoptery-ye-zahybli)<br>
 17:55 [Росія більше не досягає проривів на фронті - ISW](https://ua.korrespondent.net/ukraine/4899387-rosiia-bilshe-ne-dosiahaie-proryviv-na-fronti-ISW)<br>
 17:15 [На Полтавщині після атаки стався витік хімікатів](https://ua.korrespondent.net/ukraine/4899382-na-poltavschyni-pislia-ataky-stavsia-vytik-khimikativ)<br>
 15:35 [Білорусь формує нову штурмову бригаду біля кордону з Україною](https://ua.korrespondent.net/ukraine/4899368-bilorus-formuie-novu-shturmovu-bryhadu-bilia-kordonu-z-ukrainoui)<br>
@@ -25,6 +26,10 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 00:04 [El contrato de Mario Hezonja con los Cavs no es garantizado](https://as.com/baloncesto/nba/el-contrato-de-mario-hezonja-con-los-cavs-no-es-garantizado-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:25 [La última entrega de Spider-Man arrasa en EEUU](https://www.elperiodico.com/es/ocio-y-cultura/20260802/ultima-entrega-spider-man-arrasa-133041691)<br>
+18:59 [La vuelta a Casas de Millán (Cáceres) tras el incendio: "Nos hemos venido abajo al ver cómo ha quedado"](https://www.elperiodico.com/es/sociedad/20260802/vuelta-casas-millan-caceres-incendio-133041816)<br>
+18:49 [Hallados tres proyectiles antiaéreos en plena Eixample de Barcelona](https://www.elperiodico.com/es/barcelona/20260802/hallados-tres-proyectiles-antiaereos-plena-eixample-133040856)<br>
+18:45 [El terremoto asusta a los vecinos de la Región de Murcia: “Fue como un gran trueno que rompió la barrera del sonido”](https://www.elperiodico.com/es/sociedad/20260802/terremoto-asusta-vecinos-region-murcia-133041539)<br>
 18:00 [Peralada recupera 'Le Terroir' de Lorena Nogal](https://www.elperiodico.com/es/ocio-y-cultura/20260802/peralada-recupera-le-terroir-lorena-133039365)<br>
 17:49 [Así ha sido el choque entre dos helicópteros mientras combatían un incendio en Grecia](https://www.elperiodico.com/es/videos/internacional/sido-choque-helicopteros-combatian-incendio/133040362.shtml)<br>
 17:42 ['Le Terroir', la creación site-specific de Lorena Nogal](https://www.elperiodico.com/es/videos/ocio-y-cultura/festival-perelada-recupera-le-terroir/133038824.shtml)<br>
