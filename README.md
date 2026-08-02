@@ -1,8 +1,9 @@
-# News for 2026-08-02 21:49
+# News for 2026-08-02 22:40
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## ua.korrespondent.net
+22:19 [Атака на Запоріжжя: кількість постраждалих зростає](https://ua.korrespondent.net/city/zaporozhye/4899431-ataka-na-zaporizhzhia-kilkist-postrazhdalykh-zrostaie)<br>
 21:36 [Стрільця в Одесі затримали – ЗМІ](https://ua.korrespondent.net/city/odessa/4899425-striltsia-v-odesi-zatrymaly-zmi)<br>
 21:18 [ЗМІ: У ресторані в Москві загинула дочка генерала](https://ua.korrespondent.net/world/russia/4899421-zmi-u-restorani-v-moskvi-zahynula-dochka-henerala)<br>
 20:10 [В Одесі по працівникам ТЦК відкрили вогонь](https://ua.korrespondent.net/city/odessa/4899412-v-odesi-po-pratsivnykam-ttsk-vidkryly-vohon)<br>

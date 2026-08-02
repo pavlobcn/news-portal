@@ -1,5 +1,41 @@
 [
   {
+    "title": "Атака на Запоріжжя: кількість постраждалих зростає",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4899431-ataka-na-zaporizhzhia-kilkist-postrazhdalykh-zrostaie",
+    "pubDate": "2026-08-02 22:19:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516399.jpg\">Після повторного удару російської авіації по Запоріжжю кількість поранених збільшилася до 31. Внаслідок атаки також загинула одна людина, пошкоджено житлові будинки та цивільну інфраструктуру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Санкції проти РФ \"застрягли\" в Конгресі - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4899427-sanktsii-proty-rf-zastriahly-v-konhresi-zmi",
+    "pubDate": "2026-08-02 21:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516397.jpg\">Демократи і республіканці не можуть домовитися щодо окремих положень документа, пише The Washington Times.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Marruecos atribuye a las mafias y la desinformación la entrada nado en Ceuta de miles de migrantes",
+    "link": "https://www.elperiodico.com/es/politica/20260802/marruecos-reconoce-40-000-entradas-migrantes-ceuta-11-muertos-133044563",
+    "pubDate": "2026-08-02 21:52:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Marruecos reconoce 40.000 entradas de migrantes a Ceuta y 11 muertos en su territorio</h2><h2 class=\"item\">El Ministerio del Interior  marroquí admite también la llegada de 1.135 llegadas a la frontera en dirección a la ciudad de Melilla </h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Ataque informático en Liechtenstein: 31.000 actas de titularidad robadas",
+    "link": "https://www.elperiodico.com/es/internacional/20260802/ataque-informatico-liechtenstein-31-000-133044291",
+    "pubDate": "2026-08-02 21:49:25",
+    "category": "",
+    "description": "<h2>No hay indicios preliminares de manipulación del resto de contenido ni de publicación en Internet de los datos robados</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
     "title": "El socavón del Putxet mantiene fuera de casa a cientos de vecinos de Barcelona un mes después",
     "link": "https://www.elperiodico.com/es/videos/sucesos/socavon-putxet-mantiene-fuera-casa/133044446.shtml",
     "pubDate": "2026-08-02 21:42:09",
