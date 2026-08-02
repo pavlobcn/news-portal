@@ -1,8 +1,14 @@
-# News for 2026-08-02 14:14
+# News for 2026-08-02 16:00
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## ua.korrespondent.net
+15:35 [Білорусь формує нову штурмову бригаду біля кордону з Україною](https://ua.korrespondent.net/ukraine/4899368-bilorus-formuie-novu-shturmovu-bryhadu-bilia-kordonu-z-ukrainoui)<br>
+15:19 [Хижняк мріє про великі досягнення на профі-рингу](https://ua.korrespondent.net/sport/boks/4899365-khyzhniak-mriie-pro-velyki-dosiahnennia-na-profi-rynhu)<br>
+15:15 [СБС уразили ще 13 енергооб'єктів окупантів](https://ua.korrespondent.net/ukraine/4899364-sbs-urazyly-sche-13-enerhoobiektiv-okupantiv)<br>
+14:58 [АЗС в Україні вводять ліміт на продаж дизеля - ЗМІ](https://ua.korrespondent.net/business/financial/4899362-azs-v-ukraini-vvodiat-limit-na-prodazh-dyzelia-zmi)<br>
+14:37 [Країни ОПЕК+ збільшують видобуток нафти](https://ua.korrespondent.net/business/financial/4899360-krainy-opek-zbilshuuit-vydobutok-nafty)<br>
+14:16 [У Болгарії виник скандал через польські МіГ-29 для України](https://ua.korrespondent.net/world/4899357-u-bolharii-vynyk-skandal-cherez-polski-mih-29-dlia-ukrainy)<br>
 12:59 [Росіяни вдруге атакували склад Rozetka](https://ua.korrespondent.net/ukraine/4899345-rosiiany-vdruhe-atakuvaly-sklad-Rozetka)<br>
 12:36 [Росіняи тиснуть малими штурмовими групами на Харківщині](https://ua.korrespondent.net/ukraine/4899342-rosiniay-tysnut-malymy-shturmovymy-hrupamy-na-kharkivschyni)<br>
 10:37 [У Перу розбився туристичний літак: загинули 13 осіб](https://ua.korrespondent.net/world/4899325-u-peru-rozbyvsia-turystychnyi-litak-zahynuly-13-osib)<br>
@@ -17,6 +23,31 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 00:04 [El contrato de Mario Hezonja con los Cavs no es garantizado](https://as.com/baloncesto/nba/el-contrato-de-mario-hezonja-con-los-cavs-no-es-garantizado-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:59 [La historia de Cloe, la inseparable compañera de Chenoa](https://www.elperiodico.com/es/gente/20260802/historia-cloe-inseparable-companera-chenoa-132948092)<br>
+15:55 [El aviso del abogado laboralista Juanma Lorente para que no pierdas días de libranza: "Tus vacaciones deben empezar un lunes"](https://www.elperiodico.com/es/economia/20260802/juanma-lorente-abogado-laboralista-vacaciones-comienzan-lunes-dv-133037901)<br>
+15:47 [Ayuso acusa a los bomberos en huelga de "intoxicar" durante los incendios: "Han tenido poca sensibilidad"](https://www.elperiodico.com/es/politica/20260802/ayuso-acusa-bomberos-huelga-intoxicar-incendios-forestales-133038222)<br>
+15:38 [Migrantes en Ceuta que tienen claro que no vuelven a Marruecos: “Allí nos llevan al Sáhara”](https://www.elperiodico.com/es/politica/20260802/migrantes-ceuta-claro-vuelven-marruecos-133038068)<br>
+15:37 [Abascal pide la militarización de la frontera de Ceuta "hasta que sea necesario"](https://www.elperiodico.com/es/videos/politica/abascal-pide-militarizacion-frontera-ceuta/133038031.shtml)<br>
+15:32 [La vendimia 2026 ante las sucesivas olas de calor: adelanto histórico y recogida nocturna](https://www.elperiodico.com/es/economia/20260802/vendimia-2026-sucesivas-olas-calor-133037787)<br>
+15:28 [Israel retiene 800 cadáveres de palestinos abatidos por soldados y colonos, 83 son menores](https://www.elperiodico.com/es/videos/internacional/israel-retiene-800-cadaveres-palestinos/133037880.shtml)<br>
+15:22 [Amaia Montero se abre como nunca tras su regreso a 'La Oreja de Van Gogh'](https://www.elperiodico.com/es/videos/gente/amaia-montero-abre-regreso-oreja/133037798.shtml)<br>
+15:15 [José Manuel Calderón, leyenda del baloncesto: "Ahora estamos más abiertos a utilizar las herramientas de salud mental, en mi época era tabú"](https://www.elperiodico.com/es/deportes/20260802/jose-manuel-calderon-leyenda-baloncesto-herramientas-salud-mental-dv-et-133002510)<br>
+15:03 [La atleta olímpica Esther Guerrero sigue entrenando con siete meses y medio de embarazo](https://www.elperiodico.com/es/deportes/20260802/atleta-olimpica-esther-guerrero-sigue-133037399)<br>
+15:00 [Aspirina para prevenir infartos: ¿es cierto? ¿se debe tomar una pastilla cada día?](https://www.elperiodico.com/es/salud/20260802/aspirina-diaria-prevenir-infartos-ictus-84784280)<br>
+15:00 [Por qué son tan peligrosas las picaduras de garrapatas y cómo evitar que nos piquen](https://www.elperiodico.com/es/salud/picadura-garrapatas-peligros-prevencion-105990386)<br>
+14:58 [De la garrafa al formato individual, el agua envasada afronta su temporada clave en verano](https://www.elperiodico.com/es/economia/20260802/garrafa-formato-individual-agua-envasada-133037299)<br>
+14:57 [Los Mossos detienen a un hombre buscado por un juzgado tras rescatarlo en el mar en Barcelona](https://www.elperiodico.com/es/videos/sucesos/mossos-detienen-hombre-buscado-juzgado/133037494.shtml)<br>
+14:47 [Ayuso asegura que Marruecos intentará "quitarnos" Ceuta y Melilla "a medio y largo plazo"](https://www.elperiodico.com/es/videos/politica/ayuso-asegura-marruecos-intentara-quitarnos/133037391.shtml)<br>
+14:44 [«La DOP Aceite del Empordà también debería tener espacio para los pequeños productores»](https://www.elperiodico.com/es/economia/20260802/dop-aceite-emporda-deberia-espacio-133035713)<br>
+14:44 [Tercer incendio en un mes en el vertedero de Can Mata, en Els Hostalets de Pierola (Barcelona)](https://www.elperiodico.com/es/sucesos/20260802/bomberos-incendio-patio-vertedero-hostalets-pierola-barcelona-133037063)<br>
+14:43 [Incendios hoy, 2 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260802/incendios-hoy-2-agosto-cataluna-espana-mapa-fuegos-activos-ultima-hora-dv-133037048)<br>
+14:43 [Precio de la gasolina y diésel hoy, 2 de agosto en España: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20260802/precio-gasolina-diesel-hoy-2-agosto-ultima-hora-dv-133037043)<br>
+14:42 [El Papa pide soluciones de paz y justicia ante la "alarmante situación" en Ceuta](https://www.elperiodico.com/es/videos/politica/papa-pide-soluciones-paz-justicia/133037175.shtml)<br>
+14:40 [La casa de Lamine Yamal: 3.800 metros cuadrados, tres plantas, piscina exterior con cascada, campo de fútbol y a 10 minutos de Barcelona](https://www.elperiodico.com/es/gente/20260802/casa-lamine-yamal-shakira-pique-campo-futbol-piscina-cascada-dv-132924805)<br>
+14:33 [Así es la barrera neumática flotante instalada en Ceuta: una defensa marítima para frenar la inmigración a nado](https://www.elperiodico.com/es/politica/20260802/barrera-neumatica-flotante-instalada-ceuta-espana-marruecos-133035748)<br>
+14:30 [El Papa pide soluciones de paz y justicia ante la "alarmante situación" en Ceuta](https://www.elperiodico.com/es/sociedad/20260802/papa-pide-soluciones-paz-justicia-133036922)<br>
+14:29 [Muere Faten Ben Amar, promesa del fútbol femenino marroquí, tras intentar cruzar la frontera con Ceuta: "Su sueño acabó antes de empezar"](https://www.elperiodico.com/es/deportes/20260802/muere-faten-ben-amar-promesa-133036713)<br>
+14:15 [El incendio de un ferry en Indonesia deja varios muertos y decenas de desaparecidos](https://www.elperiodico.com/es/videos/internacional/incendio-ferry-indonesia-deja-muertos/133036650.shtml)<br>
 14:07 [Declarado un incendio de vegetación agrícola en Montmaneu (Barcelona)](https://www.elperiodico.com/es/barcelona/20260802/declarado-incendio-vegetacion-agricola-montmaneu-barcelona-bombers-133036462)<br>
 14:00 [El milagro de Mercy y Goodness: las gemelas unidas por la cabeza que la IA ayudó a separar](https://www.elperiodico.com/es/sociedad/20260802/siamesas-gemelas-separadas-operacion-ia-mercy-goodness-dv-131834911)<br>
 13:59 [Incendio de vegetación agrícola en Montmaneu](https://www.elperiodico.com/es/videos/sucesos/incendio-vegetacion-agricola-montmaneu/133036330.shtml)<br>
@@ -55,6 +86,7 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 10:00 [Los abogados de Barcelona recibirán atención psicológica gratuita: siete de cada 10 sufren ansiedad](https://www.elperiodico.com/es/sociedad/20260802/abogados-barcelona-psicologos-servicio-gratuito-ansiedad-estres-telefonico-132963902)<br>
 10:00 [Josep Maria Antràs: "Muchos abogados no hablan de sus problemas psíquicos porque temen quedar marcados y perder clientes"](https://www.elperiodico.com/es/sociedad/20260802/entrevista-josep-maria-antras-abogados-salud-mental-132987297)<br>
 10:00 [Carlos Llull, experto en aire acondicionado: "El problema es cuánto calor entra en la vivienda..."](https://www.elperiodico.com/es/economia/20260802/aire-acondicionado-consumo-noche-electricista-carlos-llull-dv-131815013)<br>
+09:30 [Los expertos coinciden en la importancia del color de los toldos: "Los tonos oscuros absorben más energía solar..."](https://www.elperiodico.com/es/vida-y-estilo/20260802/calor-toldo-color-baja-temperatura-dv-131734860)<br>
 09:17 [OpenAI y Anthropic pierden el control de sus agentes de IA en pruebas de ciberseguridad](https://www.elperiodico.com/es/tendencias21/20260802/openai-anthropic-pierden-control-agentes-133031176)<br>
 09:15 [Corte en la R4 y la R8 de Rodalies desde este domingo hasta el 9 de agosto entre Martorell, Molins de Rei y Rubí](https://www.elperiodico.com/es/barcelona/20260802/corte-r4-r8-rodalies-domingo-cortes-obras-9-agosto-133031020)<br>
 09:00 [Nuevo récord: 4,5 millones de turistas en hoteles de Barcelona de enero a junio y más búsquedas on line por la visita del Papa](https://www.elperiodico.com/es/barcelona/20260802/nuevo-record-4-5-millones-turistas-en-hoteles-barcelona-primer-semestre-2026-133001094)<br>
