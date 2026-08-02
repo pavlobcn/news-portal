@@ -1,4 +1,4 @@
-# News for 2026-08-02 16:00
+# News for 2026-08-02 17:14
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
@@ -23,6 +23,11 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 00:04 [El contrato de Mario Hezonja con los Cavs no es garantizado](https://as.com/baloncesto/nba/el-contrato-de-mario-hezonja-con-los-cavs-no-es-garantizado-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:09 [Los Bombers auxilian a un excursionista lesionado en Collbató](https://www.elperiodico.com/es/sociedad/20260802/bomberos-auxilian-excursionista-lesionado-collbato-montserrat-133039578)<br>
+17:08 [Munich negocia un ERE para despedir a unos 65 trabajadores en su red de tiendas en España](https://www.elperiodico.com/es/economia/20260802/munich-negocia-ere-despedir-65-trabajadores-133039466)<br>
+17:01 [Los expertos advierten:  "En verano, muchas personas retrasan durante semanas dos horas, o incluso más, la hora de acostarse y levantarse"](https://www.elperiodico.com/es/sociedad/20260802/expertos-advierten-durante-verano-facil-caer-jet-lag-social-dv-133037778)<br>
+16:51 [Sebastián Ramírez, abogado laboralista, aclara qué puede pedirte la empresa durante una baja: "No tienes la obligación"](https://www.elperiodico.com/es/economia/20260802/mensajes-empresa-baja-medica-explicaciones-sebastian-ramirez-abogado-laboralista-aclara-dv-133039185)<br>
+16:48 [El paraguas, gran protagonista este verano en Barcelona para evitar los rayos de sol.](https://www.elperiodico.com/es/videos/barcelona/paraguas-gran-protagonista-verano-barcelona/133039138.shtml)<br>
 15:59 [La historia de Cloe, la inseparable compañera de Chenoa](https://www.elperiodico.com/es/gente/20260802/historia-cloe-inseparable-companera-chenoa-132948092)<br>
 15:55 [El aviso del abogado laboralista Juanma Lorente para que no pierdas días de libranza: "Tus vacaciones deben empezar un lunes"](https://www.elperiodico.com/es/economia/20260802/juanma-lorente-abogado-laboralista-vacaciones-comienzan-lunes-dv-133037901)<br>
 15:47 [Ayuso acusa a los bomberos en huelga de "intoxicar" durante los incendios: "Han tenido poca sensibilidad"](https://www.elperiodico.com/es/politica/20260802/ayuso-acusa-bomberos-huelga-intoxicar-incendios-forestales-133038222)<br>
