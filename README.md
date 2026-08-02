@@ -1,4 +1,4 @@
-# News for 2026-08-02 03:14
+# News for 2026-08-02 06:46
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
@@ -7,3 +7,10 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## as.com
 00:04 [El contrato de Mario Hezonja con los Cavs no es garantizado](https://as.com/baloncesto/nba/el-contrato-de-mario-hezonja-con-los-cavs-no-es-garantizado-f202608-n/)<br>
+
+## www.elperiodico.com
+06:42 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260802/ultima-hora-incendios-espana-directo-132759066)<br>
+06:02 [La víctima del crimen de Lloret es un hombre de mediana edad que aún no ha sido identificado](https://www.elperiodico.com/es/sociedad/20260802/victima-crimen-lloret-hombre-mediana-133025759)<br>
+06:01 [Los icónicos retratos de la Gran Depresión de Dorothea Lange llegan a Catalunya](https://www.elperiodico.com/es/ocio-y-cultura/20260802/dorothea-lange-fotografa-gran-depresion-exposicion-palafrugell-133015821)<br>
+06:00 [Así es por dentro la mayor planta de gestión de ropa donada en Catalunya](https://www.elperiodico.com/es/economia/20260802/planta-gestion-ropa-donada-por-dentro-formacioitreball-sabadell-132952061)<br>
+05:30 [El Port de Barcelona revoluciona la conservación del medio marino](https://www.elperiodico.com/es/sociedad/20260802/port-barcelona-revoluciona-conservacion-medio-bc-132922552)<br>
