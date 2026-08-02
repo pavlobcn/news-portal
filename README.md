@@ -1,8 +1,11 @@
-# News for 2026-08-02 19:28
+# News for 2026-08-02 20:34
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## ua.korrespondent.net
+20:10 [В Одесі по працівникам ТЦК відкрили вогонь](https://ua.korrespondent.net/city/odessa/4899412-v-odesi-po-pratsivnykam-ttsk-vidkryly-vohon)<br>
+19:55 [Повторний удар по Запоріжжю: поранено 21 людину](https://ua.korrespondent.net/ukraine/4899409-povtornyi-udar-po-zaporizhzhui-poraneno-21-luidynu)<br>
+19:35 [У Польщі стався черговий напад на українців](https://ua.korrespondent.net/world/4899404-u-polschi-stavsia-cherhovyi-napad-na-ukraintsiv)<br>
 18:35 [У Греції зіткнулись пожежні гелікоптери, є загиблі](https://ua.korrespondent.net/world/4899394-u-hretsii-zitknulys-pozhezhni-helikoptery-ye-zahybli)<br>
 17:55 [Росія більше не досягає проривів на фронті - ISW](https://ua.korrespondent.net/ukraine/4899387-rosiia-bilshe-ne-dosiahaie-proryviv-na-fronti-ISW)<br>
 17:15 [На Полтавщині після атаки стався витік хімікатів](https://ua.korrespondent.net/ukraine/4899382-na-poltavschyni-pislia-ataky-stavsia-vytik-khimikativ)<br>
