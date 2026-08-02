@@ -1,8 +1,10 @@
-# News for 2026-08-02 17:14
+# News for 2026-08-02 18:17
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## ua.korrespondent.net
+17:55 [Росія більше не досягає проривів на фронті - ISW](https://ua.korrespondent.net/ukraine/4899387-rosiia-bilshe-ne-dosiahaie-proryviv-na-fronti-ISW)<br>
+17:15 [На Полтавщині після атаки стався витік хімікатів](https://ua.korrespondent.net/ukraine/4899382-na-poltavschyni-pislia-ataky-stavsia-vytik-khimikativ)<br>
 15:35 [Білорусь формує нову штурмову бригаду біля кордону з Україною](https://ua.korrespondent.net/ukraine/4899368-bilorus-formuie-novu-shturmovu-bryhadu-bilia-kordonu-z-ukrainoui)<br>
 15:19 [Хижняк мріє про великі досягнення на профі-рингу](https://ua.korrespondent.net/sport/boks/4899365-khyzhniak-mriie-pro-velyki-dosiahnennia-na-profi-rynhu)<br>
 15:15 [СБС уразили ще 13 енергооб'єктів окупантів](https://ua.korrespondent.net/ukraine/4899364-sbs-urazyly-sche-13-enerhoobiektiv-okupantiv)<br>
@@ -23,6 +25,12 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 00:04 [El contrato de Mario Hezonja con los Cavs no es garantizado](https://as.com/baloncesto/nba/el-contrato-de-mario-hezonja-con-los-cavs-no-es-garantizado-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:00 [Peralada recupera 'Le Terroir' de Lorena Nogal](https://www.elperiodico.com/es/ocio-y-cultura/20260802/peralada-recupera-le-terroir-lorena-133039365)<br>
+17:49 [Así ha sido el choque entre dos helicópteros mientras combatían un incendio en Grecia](https://www.elperiodico.com/es/videos/internacional/sido-choque-helicopteros-combatian-incendio/133040362.shtml)<br>
+17:42 ['Le Terroir', la creación site-specific de Lorena Nogal](https://www.elperiodico.com/es/videos/ocio-y-cultura/festival-perelada-recupera-le-terroir/133038824.shtml)<br>
+17:36 [Dos muertos y dos heridos al chocar dos helicópteros antiincendios en Grecia](https://www.elperiodico.com/es/internacional/20260802/muertos-heridos-chocar-helicopteros-antiincendios-133039955)<br>
+17:34 [Los bomberos valencianos estallan: "Estamos trabajando como hace veinte años y los incendios han avanzado"](https://www.elperiodico.com/es/sociedad/20260802/bomberos-valencianos-estallan-trabajando-veinte-anos-incendios-avanzado-133040044)<br>
+17:27 [Muere ahogada una mujer de 74 años en la playa de Sant Feliu de Guíxols](https://www.elperiodico.com/es/sociedad/20260802/muere-mujer-playa-sant-feliu-guixols-ahogada-133039727)<br>
 17:09 [Los Bombers auxilian a un excursionista lesionado en Collbató](https://www.elperiodico.com/es/sociedad/20260802/bomberos-auxilian-excursionista-lesionado-collbato-montserrat-133039578)<br>
 17:08 [Munich negocia un ERE para despedir a unos 65 trabajadores en su red de tiendas en España](https://www.elperiodico.com/es/economia/20260802/munich-negocia-ere-despedir-65-trabajadores-133039466)<br>
 17:01 [Los expertos advierten:  "En verano, muchas personas retrasan durante semanas dos horas, o incluso más, la hora de acostarse y levantarse"](https://www.elperiodico.com/es/sociedad/20260802/expertos-advierten-durante-verano-facil-caer-jet-lag-social-dv-133037778)<br>
