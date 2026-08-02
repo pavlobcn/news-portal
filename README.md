@@ -1,8 +1,9 @@
-# News for 2026-08-02 22:40
+# News for 2026-08-02 23:40
 
 Previous day: [2026-08-01](./data/2026-08-01.md)
 
 ## ua.korrespondent.net
+23:09 [Росія розбила міст у Слов'янську - журналіст](https://ua.korrespondent.net/ukraine/4899438-rosiia-rozbyla-mist-u-sloviansku-zhurnalist)<br>
 22:19 [Атака на Запоріжжя: кількість постраждалих зростає](https://ua.korrespondent.net/city/zaporozhye/4899431-ataka-na-zaporizhzhia-kilkist-postrazhdalykh-zrostaie)<br>
 21:36 [Стрільця в Одесі затримали – ЗМІ](https://ua.korrespondent.net/city/odessa/4899425-striltsia-v-odesi-zatrymaly-zmi)<br>
 21:18 [ЗМІ: У ресторані в Москві загинула дочка генерала](https://ua.korrespondent.net/world/russia/4899421-zmi-u-restorani-v-moskvi-zahynula-dochka-henerala)<br>
@@ -33,6 +34,7 @@ Previous day: [2026-08-01](./data/2026-08-01.md)
 00:04 [El contrato de Mario Hezonja con los Cavs no es garantizado](https://as.com/baloncesto/nba/el-contrato-de-mario-hezonja-con-los-cavs-no-es-garantizado-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:44 [La reina clausura el Atlántida Film Fest en la gala del estreno de 'El ser querido'](https://www.elperiodico.com/es/ocio-y-cultura/20260802/reina-clausura-atlantida-film-fest-133044933)<br>
 21:20 [Muere la artista leridana Teresa Vall Palou](https://www.elperiodico.com/es/ocio-y-cultura/20260802/muere-artista-leridana-teresa-vall-133044110)<br>
 20:43 [Miles de evacuados en el estado de Washington a causa de los incendios](https://www.elperiodico.com/es/internacional/20260802/miles-evacuados-washington-causa-incendios-133043480)<br>
 20:16 [Ibon Berasategui (32 años) vive en su aldea por menos de 300 euros al mes: gasta 100 en alquiler y unos 110 en comida: "No me da por comprar chocolatinas, bollerías, galletas y cosas de estas"](https://www.elperiodico.com/es/economia/20260802/aldea-asturias-300-euros-mes-gastos-luz-gas-agua-alquiler-ibon-berasategui-dv-et-132968610)<br>
