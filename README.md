@@ -1,4 +1,4 @@
-# News for 2026-08-03 22:04
+# News for 2026-08-03 22:37
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
@@ -45,6 +45,8 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:34 [La oportunidad del 22@ para seguir transformando Barcelona](https://www.elperiodico.com/es/opinion/20260803/oportunidad-22at-seguir-transformando-barcelona-133070843)<br>
+22:29 [Familias rotas buscan desesperadamente a decenas de jóvenes y niños perdidos tras intentar cruzar la frontera hacia Ceuta](https://www.elperiodico.com/es/videos/internacional/familias-rotas-buscan-desesperadamente-decenas/133073674.shtml)<br>
 21:06 [La fiscalía archiva la denuncia contra las obras del Agroparc de Ametller Origen](https://www.elperiodico.com/es/economia/20260803/fiscalia-archiva-denuncia-obras-agroparc-133071419)<br>
 21:04 ["Por favor, ayuda, busco a mi hermano de 13 años": la lucha desesperada de las familias por encontrar a los desaparecidos en Ceuta](https://www.elperiodico.com/es/sociedad/20260803/busco-hijo-hermano-lucha-desesperada-familias-encontrar-desaparecidos-ceuta-133063047)<br>
 20:49 [El cadáver encontrado en un contenedor de Lloret corresponde a un vecino de 30 años y fue asesinado a tiros](https://www.elperiodico.com/es/videos/sucesos/cadaver-encontrado-contenedor-lloret-corresponde/133071949.shtml)<br>
