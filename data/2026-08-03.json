@@ -1,5 +1,212 @@
 [
   {
+    "title": "Encuentran muerto junto a la Torre Lluvià de Manresa a un hombre desaparecido desde esta mañana",
+    "link": "https://www.elperiodico.com/es/sucesos/20260803/encuentran-muerto-torre-lluvia-manresa-desaparecido-133071132",
+    "pubDate": "2026-08-03 20:11:59",
+    "category": "",
+    "description": "<h2>Los Mossos movilizaron unidades caninas y drones, y el cuerpo fue hallado hacia las 19 horas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар впевнено відкрив новий сезон УПЛ, обігравши Кудрівку",
+    "link": "https://ua.korrespondent.net/sport/football/4899704-shakhtar-vpevneno-vidkryv-novyi-sezon-upl-obihravshy-kudrivku",
+    "pubDate": "2026-08-03 20:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517538.jpg\">Шахтар з самого початку матчу захопив ініціативу, змушуючи суперників захищатися.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Quién vigila las escenas de sexo en los rodajes? \"El mayor riesgo es poner a personas sin formación\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260803/vigila-escenas-sexo-rodajes-mayor-132995889",
+    "pubDate": "2026-08-03 20:00:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo decreto del Estatuto del Artista obliga a incorporar coordinadores de intimidad en las producciones, pero deja dudas sobre su aplicación y no concreta en qué tipo de proyectos deberán estar presentes, en qué fases tendrán que intervenir, ni exige que cuenten con una formación específica</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Gobierno de Marruecos se enfrenta a críticas internas por la gestión de la crisis migratoria de Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260803/marruecos-criticas-internas-gestion-crisis-migratoria-ceuta-espana-133070940",
+    "pubDate": "2026-08-03 19:57:38",
+    "category": "",
+    "description": "<h2>La oposición y las ONG cuestionan el silencio del Ejecutivo y vinculan el éxodo con el desempleo y la desconfianza juvenil</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Se puede usar el dinero de un fallecido para pagar su funeral?",
+    "link": "https://www.elperiodico.com/es/videos/economia/dinero-fallecido-pagar-funeral/133070864.shtml",
+    "pubDate": "2026-08-03 19:54:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Львові визначили чемпіонів України з вуличного баскетболу",
+    "link": "https://ua.korrespondent.net/ukraine/4899707-u-lvovi-vyznachyly-chempioniv-ukrainy-z-vulychnoho-basketbolu",
+    "pubDate": "2026-08-03 19:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517519.jpg\">Переможцями національного фіналу Red Bull Half Court стали BC CrossEnduro серед чоловіків та БК \"Будівельник\" серед жінок. Взимку обидві команди представлять Україну на світовому фіналі турніру у Манілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під Римом потяг зійшов із рейок після зіткнення з коровами",
+    "link": "https://ua.korrespondent.net/world/4899702-pid-rymom-potiah-ziishov-iz-reiok-pislia-zitknennia-z-korovamy",
+    "pubDate": "2026-08-03 19:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517518.jpg\">У потязі перебували близько 450 пасажирів, ніхто не постраждав. Рух на ділянці тимчасово зупинили.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удари України паралізували роботу Волгоградського НПЗ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4899705-udary-ukrainy-paralizuvaly-robotu-volhohradskoho-npz-zmi",
+    "pubDate": "2026-08-03 19:52:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517537.jpg\">Після атаки дронів на НПЗ були зупинені установки первинної переробки сирої нафти АВТ-1 та АВТ-6.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Felipe VI navega en 'Hispania' tras la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/felipe-vi-navega-hispania-tras-crisis-ceuta/133070769.shtml",
+    "pubDate": "2026-08-03 19:46:31",
+    "category": "",
+    "description": "El Rey ha llegado a la estación naval de Porto Pi al volante de su coche sobre las doce del mediodía",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Pochettino seguirá como seleccionador de Estados Unidos hasta 2030",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/pochettino-seguira-seleccionador-estados-unidos-133070491",
+    "pubDate": "2026-08-03 19:41:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El extécnico del Espanyol acordó su renovación con la federación norteamericana tras su notable papel en el último Mundial. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Proteccion Civil activa la alerta del plan Inuncat por fuertes lluvias este martes en Ripollès, Garrotxa y Osona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/proteccion-civil-activa-alerta-plan-inuncat-noreste-catalunya-fuertes-lluvias-133070533",
+    "pubDate": "2026-08-03 19:41:02",
+    "category": "",
+    "description": "<h2>Piden mucha prudencia en los desplazamientos y en las actividades previstas al aire libre</h2><h2> En estas comarcas se pueden superar los 20 l/m² en 30 minutos mañana por la tarde</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260801/proteccion-civil-activa-alerta-lluvias-fuertes-cataluna-precaucion-133016294\">Protección Civil activa la alerta por lluvias fuertes en Catalunya este sábado, que pueden acumular más de 20 litros en 30 minutos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El primer ministro de Marruecos suspende sus vacaciones en Mallorca por orden del rey tras la crisis en Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260803/primer-ministro-marroqui-suspende-vacaciones-mallorca-crisis-ceuta-133070620",
+    "pubDate": "2026-08-03 19:38:12",
+    "category": "",
+    "description": "<h2>Mohammed VI ordena el regreso de Aziz Akhannouch al país en plena crisis migratoria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Barcelona obliga a un club deportivo de Montjuïc a abrir su piscina al público general",
+    "link": "https://www.elperiodico.com/es/barcelona/20260803/barcelona-club-deportivo-tennis-pompeia-montjuic-abrir-piscina-publico-general-133054658",
+    "pubDate": "2026-08-03 19:37:21",
+    "category": "",
+    "description": "<h2>Desde este verano se puede acceder a la instalación, recién renovada, sin ser socio: hay que abona una entrada general de 12 euros y reservar con antelación</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260530/piscinas-barcelona-verano-2026-130827144\">Barcelona abre 15 piscinas municipales este verano: fechas, barrios y cuáles ya están operativas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamborghini представила ювілейну спецверсію суперкару Revuelto",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4899700-Lamborghini-predstavyla-yuvileinu-spetsversiui-superkaru-Revuelto",
+    "pubDate": "2026-08-03 19:35:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517485.jpg\">Італійський виробник випустить лише 99 екземплярів спеціальної версії гібридного суперкара Revuelto, присвяченої 60-річчю культової Lamborghini Miura.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El apocalipsis de alma europea",
+    "link": "https://www.elperiodico.com/es/opinion/20260803/apocalipsis-alma-europea-crisis-ceuta-133068879",
+    "pubDate": "2026-08-03 19:33:57",
+    "category": "",
+    "description": "<h2>La entrada de migrantes en Ceuta ha destapado las costuras de España ante esta jugada de Marruecos. Es la enésima vez que el país vecino ningunea al gobierno español.</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260802/crisis-ceuta-colaboracion-marruecos-inmigracion-sahara-occidental-133026120\" target=\"_blank\">La crisis de Ceuta pone en cuestión la colaboración migratoria de Marruecos tras el giro de Sánchez sobre el Sáhara</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Запаси газу в Європі впали до історичного мінімуму",
+    "link": "https://ua.korrespondent.net/business/economics/4899695-zapasy-hazu-v-yevropi-vpaly-do-istorychnoho-minimumu",
+    "pubDate": "2026-08-03 19:32:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517483.jpeg\">Середній рівень заповненості європейських сховищ становив 57,11%. Це нижче за попередній антирекорд 2021 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Saturación en la sanidad pública e incidencias en el transporte: las olas de calor golpean al Reino Unido cada vez con más fuerza",
+    "link": "https://www.elperiodico.com/es/internacional/20260803/calor-extremo-europa-saturacion-sanidad-publica-incidencias-transporte-reino-unido-133068024",
+    "pubDate": "2026-08-03 19:31:05",
+    "category": "",
+    "description": "<h2>Las altas temperaturas se están notando especialmente en Inglaterra y en Gales, donde se han registrado récords históricos para un mes de junio con valores cercanos a los 40 grados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ceuta o crónica de una 'vendetta' anunciada",
+    "link": "https://www.elperiodico.com/es/politica/20260803/ernesto-ekaizer-ceuta-marruecos-rey-sanchez-feijoo-133066465",
+    "pubDate": "2026-08-03 19:29:41",
+    "category": "",
+    "description": "<h2>El Rey reprende a Sánchez, y se suma de facto a Meloni, Trump, Le Pen, Frederiksen, Ben Gvir… y, por supuesto, a Feijóo y Abascal. La invasión de Los Miserables del siglo XXI</h2><h2><a href=\"https://www.elperiodico.com/es/opinion/20260728/llamarse-meritxell-serret-o-marta-articulo-ernesto-ekaizer-132902578\">Llamarse Meritxell Serret o Marta Rovira no es lo mismo para el Supremo que Aldama</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260725/gasta-sala-penal-tribunal-supremo-ernesto-ekaizer-132808152\">Cómo te las gasta la Sala Penal del Tribunal Supremo</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260722/sera-suficiente-amparo-tribunal-constitucional-132687861\">¿Será suficiente el amparo del Tribunal Constitucional  a Turull para que el Supremo cumpla con la amnistía?</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los Entrecanales Franco venden un 3% de Acciona por unos 381 millones y reducen su peso al nivel de la otra rama familiar",
+    "link": "https://www.elperiodico.com/es/economia/20260803/entrecanales-franco-venden-3-acciona-133070113",
+    "pubDate": "2026-08-03 19:26:52",
+    "category": "",
+    "description": "<h2>La sociedad neerlandesa Tussen de Grachten BV comunica a la CNMV la desinversión, que equipara la participación los Entrecanales Franco con la de los Entrecanales Domenecq, las dos ramas familiares en Acciona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські дрони обвалили нафтопереробку в РФ до мінімуму з 2002-го",
+    "link": "https://ua.korrespondent.net/business/economics/4899688-ukrainski-drony-obvalyly-naftopererobku-v-rf-do-minimumu-z-2002-ho",
+    "pubDate": "2026-08-03 19:23:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517464.jpg\">Так, у липні під удари потрапили 18 російських НПЗ, зокрема найбільший у країні - Омський завод, розташований більш ніж за 2500 км від кордону з Україною",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Te ha suspendido WhatsApp la cuenta? Así puedes recuperarla",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260803/whatsapp-suspendido-cuenta-fallo-recuperar-dv-133068713",
+    "pubDate": "2026-08-03 19:15:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Usuarios denuncian en redes sociales que la aplicación les ha bloqueado el perfil.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260603/whatsapp-plus-meta-sucripcion-instagram-facebook-dv-130786284\">Meta pone precio a WhatsApp, Facebook e Instagram Plus: así serán las nuevas suscripciones de pago</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260729/biografia-whatsapp-instagram-tiktok-estado-psicologos-dv-et-132511892\">Los psicólogos coinciden: tener la biografía vacía en redes no te hace menos sociable</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mariano De Paco confirma la apertura del Estadio de Vallecas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mariano-paco-confirma-apertura-estadio-vallecas/133069965.shtml",
+    "pubDate": "2026-08-03 19:14:24",
+    "category": "",
+    "description": "El club se compromete a permitir el acceso de los técnicos autonómicos y a entregar la documentación pendiente, aunque el expediente para extinguir la concesión seguirá adelante",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El 57% de los españoles sigue utilizando el efectivo como principal medio de pago, pese al auge del móvil",
+    "link": "https://www.elperiodico.com/es/economia/20260803/57-espanoles-sigue-utilizando-efectivo-133069796",
+    "pubDate": "2026-08-03 19:10:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El avance de Bizum y el pago con móvil convive con un uso mayoritario del dinero en metálico</h2><h2 class=\"item\">Entidades como el Banco de España destacan que el dinero físico sigue siendo esencial para garantizar el acceso a servicios financieros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260317/ley-espana-tienda-pagar-solo-tarjeta-pequeno-detalle-dv-127837289\">¿Pueden obligarte a pagar con tarjeta en una tienda? La ley prevé multas de hasta 10.000 euros</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260617/economistas-defienden-convivir-efectivo-evitar-exclusion-mayores-jubilados-dv-131506432\">Los economistas defienden convivir con los pagos en efectivo para evitar la exclusión de los mayores y jubilados</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Barcelona ya ha puesto en funcionamiento los 18 juegos de agua de la ciudad, la mitad nuevos",
     "link": "https://www.elperiodico.com/es/barcelona/20260803/barcelona-pone-funcionamiento-9-juegos-agua-ayuntamiento-133069438",
     "pubDate": "2026-08-03 19:08:21",
@@ -25,6 +232,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Стефанішину звільнили з посади посла України у США",
+    "link": "https://ua.korrespondent.net/ukraine/4899693-stefanishynu-zvilnyly-z-posady-posla-ukrainy-u-ssha",
+    "pubDate": "2026-08-03 19:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517468.jpg\">Про причини звільнення не повідомляється. Наразі немає інформації стосовно того, хто має зайняти посаду.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "El Gobierno deberá reubicar en 15 días en la Península a los cientos de menores llegados a Ceuta",
@@ -2437,6 +2653,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "La UE no es de usar y tirar",
+    "link": "https://www.elperiodico.com/es/opinion/20260803/ue-tirar-133049330",
+    "pubDate": "2026-08-03 08:43:08",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260803/ultima-hora-ceuta-entrada-jovenes-marruecos-directo-132960312\" target=\"_blank\">Última hora de Ceuta y Melilla, en directo </a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Масовані обстріли Донеччини: є жертви, пошкоджено десятки будинків",
