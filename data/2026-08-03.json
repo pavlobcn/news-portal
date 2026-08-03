@@ -1,5 +1,32 @@
 [
   {
+    "title": "Залужний: Україна не вступить до НАТО",
+    "link": "https://ua.korrespondent.net/ukraine/4899747-zaluzhnyi-ukraina-ne-vstupyt-do-nato",
+    "pubDate": "2026-08-03 23:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517711.jpg\">Посол України у Великій Британії назвав можливий альтернативний формат безпекових гарантій для Києва.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 4 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/portada-periodico-4-agosto-2026-133074413",
+    "pubDate": "2026-08-03 23:31:15",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака РФ: під Дніпром вирує масштабна пожежа на складах",
+    "link": "https://ua.korrespondent.net/city/dnepr/4899744-ataka-rf-pid-dniprom-vyruie-masshtabna-pozhezha-na-skladakh",
+    "pubDate": "2026-08-03 23:26:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517697.jpg\">Після атаки російського безпілотника поблизу Дніпра зайнялися склади із продуктами харчування. На місці працюють екстрені служби.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Атаки в морі: є перші рішення з підтримки аграріїв",
     "link": "https://ua.korrespondent.net/ukraine/4899739-ataky-v-mori-ye-pershi-rishennia-z-pidtrymky-ahrariiv",
     "pubDate": "2026-08-03 23:02:00",
@@ -25,6 +52,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Перемовник Зеленського. Нова посада Умерова",
+    "link": "https://ua.korrespondent.net/ukraine/4899752-peremovnyk-zelenskoho-nova-posada-umerova",
+    "pubDate": "2026-08-03 22:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517737.jpg\">Останніми роками Умєров був насамперед перемовником Зеленського, його конфідентом, який займався таємними (і, звісно, явними) контактами Києва і з Вашингтоном, і з Близьким Сходом.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Іран готував удар по трьох об'єктах в Україні - ЗМІ",
@@ -88,6 +124,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517629.jpg\">Російська пропаганда поширює нове відео, повністю згенероване штучним інтелектом, щоб маніпулювати темою ударів по українських АЗС.",
     "topic": "політика",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Відмова в ліцензії. Виробництво Patriot  в Україні",
+    "link": "https://ua.korrespondent.net/ukraine/4899746-vidmova-v-litsenzii-vyrobnytstvo-Patriot-v-ukraini",
+    "pubDate": "2026-08-03 22:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517698.jpg\">Безпека українського неба цієї зими повною мірою залежить від ритмічності та обсягів постачання готових боєприпасів від західних партнерів.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Jódar sucumbe ante Fritz en la final de Washington",
