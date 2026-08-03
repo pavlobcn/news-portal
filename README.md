@@ -1,8 +1,9 @@
-# News for 2026-08-03 21:00
+# News for 2026-08-03 22:04
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
 ## ua.korrespondent.net
+20:54 [Samsung представила смартфон Galaxy F70 Pro](https://ua.korrespondent.net/lifestyle/gadgets/4899723-Samsung-predstavyla-smartfon-Galaxy-F70-Pro)<br>
 20:51 [Росіяни знищили відділення Нової пошти в Прилуках](https://ua.korrespondent.net/ukraine/4899719-rosiiany-znyschyly-viddilennia-novoi-poshty-v-prylukakh)<br>
 19:54 [У Львові визначили чемпіонів України з вуличного баскетболу](https://ua.korrespondent.net/ukraine/4899707-u-lvovi-vyznachyly-chempioniv-ukrainy-z-vulychnoho-basketbolu)<br>
 19:53 [Під Римом потяг зійшов із рейок після зіткнення з коровами](https://ua.korrespondent.net/world/4899702-pid-rymom-potiah-ziishov-iz-reiok-pislia-zitknennia-z-korovamy)<br>
@@ -44,6 +45,8 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:06 [La fiscalía archiva la denuncia contra las obras del Agroparc de Ametller Origen](https://www.elperiodico.com/es/economia/20260803/fiscalia-archiva-denuncia-obras-agroparc-133071419)<br>
+21:04 ["Por favor, ayuda, busco a mi hermano de 13 años": la lucha desesperada de las familias por encontrar a los desaparecidos en Ceuta](https://www.elperiodico.com/es/sociedad/20260803/busco-hijo-hermano-lucha-desesperada-familias-encontrar-desaparecidos-ceuta-133063047)<br>
 20:49 [El cadáver encontrado en un contenedor de Lloret corresponde a un vecino de 30 años y fue asesinado a tiros](https://www.elperiodico.com/es/videos/sucesos/cadaver-encontrado-contenedor-lloret-corresponde/133071949.shtml)<br>
 20:37 [Lleida activa 160 plazas más para acoger a temporeros sin techo](https://www.elperiodico.com/es/sociedad/20260803/lleida-activa-160-plazas-acoger-temporeros-sin-hogar-133071396)<br>
 20:11 [Encuentran muerto junto a la Torre Lluvià de Manresa a un hombre desaparecido desde esta mañana](https://www.elperiodico.com/es/sucesos/20260803/encuentran-muerto-torre-lluvia-manresa-desaparecido-133071132)<br>
