@@ -1,4 +1,4 @@
-# News for 2026-08-03 22:37
+# News for 2026-08-03 23:20
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
@@ -45,6 +45,7 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:51 [Tarde de canciones en el Palau con dos jóvenes valores](https://www.elperiodico.com/es/ocio-y-cultura/20260803/tarde-canciones-palau-irene-mas-marc-serra-133074036)<br>
 22:34 [La oportunidad del 22@ para seguir transformando Barcelona](https://www.elperiodico.com/es/opinion/20260803/oportunidad-22at-seguir-transformando-barcelona-133070843)<br>
 22:29 [Familias rotas buscan desesperadamente a decenas de jóvenes y niños perdidos tras intentar cruzar la frontera hacia Ceuta](https://www.elperiodico.com/es/videos/internacional/familias-rotas-buscan-desesperadamente-decenas/133073674.shtml)<br>
 21:06 [La fiscalía archiva la denuncia contra las obras del Agroparc de Ametller Origen](https://www.elperiodico.com/es/economia/20260803/fiscalia-archiva-denuncia-obras-agroparc-133071419)<br>

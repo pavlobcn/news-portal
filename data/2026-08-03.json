@@ -1,5 +1,41 @@
 [
   {
+    "title": "Атаки в морі: є перші рішення з підтримки аграріїв",
+    "link": "https://ua.korrespondent.net/ukraine/4899739-ataky-v-mori-ye-pershi-rishennia-z-pidtrymky-ahrariiv",
+    "pubDate": "2026-08-03 23:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517656.jpg\">Через подорожчання логістики та проблеми з експортом після російських атак у Чорному морі уряд змінив мінімальні експортні ціни на окремі види аграрної продукції.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Промоутер Ф’юрі оцінив виступ Джошуа у поєдинку з Пренгою",
+    "link": "https://ua.korrespondent.net/sport/boks/4899741-promouter-fuiri-otsinyv-vystup-dzhoshua-u-poiedynku-z-prenhoui",
+    "pubDate": "2026-08-03 22:59:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517684.jpg\">Вердикт від Воррена: відомий промоутер висловився про виступ британця в минулому поєдинку.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tarde de canciones en el Palau con dos jóvenes valores",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260803/tarde-canciones-palau-irene-mas-marc-serra-133074036",
+    "pubDate": "2026-08-03 22:51:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран готував удар по трьох об'єктах в Україні - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4899737-iran-hotuvav-udar-po-trokh-obiektakh-v-ukraini-zmi",
+    "pubDate": "2026-08-03 22:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517657.jpg\">За словами іранського посадовця, операцію нібито скасували після дипломатичних контактів між Києвом і Тегераном.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "La oportunidad del 22@ para seguir transformando Barcelona",
     "link": "https://www.elperiodico.com/es/opinion/20260803/oportunidad-22at-seguir-transformando-barcelona-133070843",
     "pubDate": "2026-08-03 22:34:10",
@@ -43,6 +79,15 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Викрито новий ШІ-фейк РФ про удари по українських АЗС",
+    "link": "https://ua.korrespondent.net/ukraine/4899735-vykryto-novyi-shi-feik-rf-pro-udary-po-ukrainskykh-azs",
+    "pubDate": "2026-08-03 22:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517629.jpg\">Російська пропаганда поширює нове відео, повністю згенероване штучним інтелектом, щоб маніпулювати темою ударів по українських АЗС.",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "Jódar sucumbe ante Fritz en la final de Washington",
