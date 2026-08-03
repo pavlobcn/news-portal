@@ -1,4 +1,4 @@
-# News for 2026-08-03 18:16
+# News for 2026-08-03 19:09
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
@@ -38,6 +38,13 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:08 [Barcelona ya ha puesto en funcionamiento los 18 juegos de agua de la ciudad, la mitad nuevos](https://www.elperiodico.com/es/barcelona/20260803/barcelona-pone-funcionamiento-9-juegos-agua-ayuntamiento-133069438)<br>
+19:07 [Éxito en la eliminación de los peces de los lagos pirenaicos con un producto químico: "Se demuestra que es posible restaurar el ecosistema"](https://www.elperiodico.com/es/sociedad/20260803/exito-eliminacion-peces-lagos-pirenaicos-133066182)<br>
+19:07 [El cine catalán, representado por Colell y Serra, destaca en Locarno con 5 producciones](https://www.elperiodico.com/es/ocio-y-cultura/20260803/cine-catalan-representado-colell-serra-locarno-133069437)<br>
+18:58 [El Consorci de les Gavarres traza la hoja de ruta tras el incendio: retirará los árboles de riesgo y reparará los caminos afectados](https://www.elperiodico.com/es/sociedad/20260803/consorci-les-gavarres-traza-hoja-ruta-incendio-arboles-riesgo-caminos-afectados-133069263)<br>
+18:55 [Cómo hablan los niños puede revelar su riesgo futuro de sufrir problemas de salud mental](https://www.elperiodico.com/es/tendencias21/20260803/hablan-ninos-revelar-riesgo-futuro-133069428)<br>
+18:44 [Catalunya pone fin a 31 días de riesgo extremo de incendio, su racha más larga hasta ahora](https://www.elperiodico.com/es/sucesos/20260803/catalunya-pone-31-dias-riesgo-133068878)<br>
+18:16 [Vinícius regresa con perfil discreto, buena cara y silencio mientras su futuro sigue en el aire](https://www.elperiodico.com/es/deportes/20260803/vinicius-regresa-perfil-discreto-real-madrid-133068247)<br>
 18:00 [¿Se puede usar el dinero de un fallecido para pagar su funeral? Un abogado lo aclara](https://www.elperiodico.com/es/economia/20260803/dinero-fallecido-pagar-funeral-abogado-dv-133042217)<br>
 17:57 [El Ibex 35 se queda a las puertas de romper la barrera de los 20.000 puntos tras subir 1,01%](https://www.elperiodico.com/es/economia/20260803/ibex-35-queda-puertas-romper-133067374)<br>
 17:53 [La baja implantación de la PAC pone en riesgo el futuro de las aves esteparias](https://www.elperiodico.com/es/sociedad/20260803/baja-implantacion-pac-compromete-aves-esteparias-133066804)<br>
