@@ -1,8 +1,12 @@
-# News for 2026-08-03 10:25
+# News for 2026-08-03 13:03
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
 ## ua.korrespondent.net
+12:24 [Українська митниця зібрала рекордну суму платежів за час війни](https://ua.korrespondent.net/business/economics/4899569-ukrainska-mytnytsia-zibrala-rekordnu-sumu-platezhiv-za-chas-viiny)<br>
+11:36 [Обмінники оновили курси валют на початку серпня](https://ua.korrespondent.net/business/financial/4899549-obminnyky-onovyly-kursy-valuit-na-pochatku-serpnia)<br>
+11:24 [Лісові пожежі принесли Європі €3 млрд збитків - FT](https://ua.korrespondent.net/world/4899543-lisovi-pozhezhi-prynesly-yevropi-3-mlrd-zbytkiv-FT)<br>
+10:25 [Ліхтенштейн зазнав масштабної хакерської атаки](https://ua.korrespondent.net/world/4899521-likhtenshtein-zaznav-masshtabnoi-khakerskoi-ataky)<br>
 10:23 [Україна наростила експорт зерна на понад 50%](https://ua.korrespondent.net/business/economics/4899518-ukraina-narostyla-eksport-zerna-na-ponad-50)<br>
 10:17 [Як AIR Brands систематизували продажі з NetHunt CRM](https://ua.korrespondent.net/business/4898342-yak-AIR-Brands-systematyzuvaly-prodazhi-z-NetHunt-CRM)<br>
 10:14 [Армійський "кріт" ГРУ коригував удари по АЗС](https://ua.korrespondent.net/ukraine/4899517-armiiskyi-krit-hru-koryhuvav-udary-po-azs)<br>
@@ -19,6 +23,21 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:00 [El precio del euríbor hoy, 3 de agosto: el mes empieza con un soplo de aire fresco para los titulares de hipotecas](https://www.elperiodico.com/es/economia/20260803/euribor-precio-hoy-3-agosto-dv-133057210)<br>
+13:00 [Multas de hasta 3.000 euros por sacudir el felpudo por la ventana: normativa y sanciones](https://www.elperiodico.com/es/economia/20260803/sacudir-felpudo-ventana-multa-3000-euros-ley-dv-132845572)<br>
+12:58 [Buscan en Benidorm a la familia de una urna con cenizas olvidada en un supermercado](https://www.elperiodico.com/es/sociedad/20260803/buscan-benidorm-familia-urna-cenizas-133057202)<br>
+12:52 [Un estudio forense vincula los ahogamientos de menores en Catalunya a desigualdades sociales: más de la mitad eran extranjeros](https://www.elperiodico.com/es/sociedad/20260803/estudio-forense-vincula-ahogamientos-menores-cataluna-desigualdades-sociales-mitad-extranjeros-133053554)<br>
+12:49 [El calor extremo de julio ha causado al menos 2.024 muertes prematuras en España, de las cuales 544 en Catalunya: un 130% más que hace 10 años](https://www.elperiodico.com/es/sociedad/20260803/calor-extremo-julio-muertes-prematuras-133054377)<br>
+12:42 [Tous recorta un 58% sus ganancias y reorienta su plan estratégico para asegurarse el crecimiento](https://www.elperiodico.com/es/economia/20260803/resultados-tous-2025-tous-recorta-ganancias-reorienta-plan-estrategico-133054626)<br>
+12:42 [Roca dejará de producir váteres en su fábrica de Gavà para hacer cuartos de baño enteros](https://www.elperiodico.com/es/videos/economia/roca-dejara-producir-vateres-fabrica-gava-hacer-cuartos-bano-enteros-video/133056629.shtml)<br>
+12:32 [La factura de la luz incluirá un recargo de 29,6 millones de euros para pagar a las eléctricas por reponer el sistema tras el apagón](https://www.elperiodico.com/es/economia/20260803/factura-luz-incluira-recargo-pagar-electricas-reponer-sistema-apagon-133056293)<br>
+12:03 [Barcelona reunirá a líderes europeos en comercio en un foro sobre economía de proximidad este septiembre](https://www.elperiodico.com/es/barcelona/20260803/barcelona-reunira-lideres-europeos-foro-comercio-de-proximidad-capital-europea-comercio-132962109)<br>
+12:00 [El modo del aire acondicionado que nadie conoce y que te salvará la vida en la cuarta ola de calor: enfría y ahorra al mismo tiempo](https://www.elperiodico.com/es/videos/sociedad/modo-aire-acondicionado-nadie-conoce-enfria-ahorra-mismo-tiempo-video/133054882.shtml)<br>
+12:00 [Qué hacer si tu vecino llega de la playa y sacude la arena sobre tu ropa tendida: esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260803/vecino-sacude-arena-playa-ropa-tendida-molestias-dv-133041952)<br>
+11:43 [Estreno histórico de 'Spider-Man: Brand New Day': recauda 355 millones en el fin de semana de su debut](https://www.elperiodico.com/es/ocio-y-cultura/20260803/spider-man-brand-new-day-bate-records-eeuu-355-millones-taquilla-133053921)<br>
+11:42 [Catalunya desactiva los avisos por calor y enciende los de lluvias torrenciales ante la llegada de fuertes chubascos acompañados de tormenta](https://www.elperiodico.com/es/sociedad/20260803/cataluna-aviso-intensidad-lluvias-chubascos-tormenta-meteocat-prevision-133053077)<br>
+11:04 [Semana de calor y tormentas en España: la Aemet advierte de unos "días de contrastes" pero "sin temperaturas extremas" a la vista](https://www.elperiodico.com/es/sociedad/20260803/semana-calor-tormentas-espana-aemet-prevision-133052397)<br>
+10:32 [Catalunya supera los 3.450 euros por metro cuadrado y Barcelona ya roza los 425.000 euros por vivienda, según Fotocasa](https://www.elperiodico.com/es/economia/20260803/catalunya-supera-3450-euros-metro-cuadrado-vivienda-133051708)<br>
 10:13 [Un incendio provoca el colapso de un tejado en Chamberí y obliga a desalojar a 15 vecinos](https://www.elperiodico.com/es/videos/sucesos/incendio-provoca-colapso-tejado-chamberi-madrid/133051518.shtml)<br>
 10:04 [Una jubilada se construye una cabaña en el bosque de Girona y vive en ella con una pensión de 800 euros: "No me gustan los pisos"](https://www.elperiodico.com/es/economia/20260803/jubilada-construye-cabana-bosque-girona-pension-800-euros-dv-et-133051071)<br>
 10:00 [El modo del aire acondicionado que nadie conoce y que te salvará la vida en la cuarta ola de calor: enfría y ahorra al mismo tiempo](https://www.elperiodico.com/es/sociedad/20260803/aire-acondicionado-modo-ahorro-enfriar-mas-dv-133039364)<br>
