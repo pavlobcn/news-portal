@@ -1,5 +1,86 @@
 [
   {
+    "title": "El Gobierno cesa a una funcionaria de Seguridad Nacional por informar de que habían entrado en Ceuta 49.000 inmigrantes",
+    "link": "https://www.elperiodico.com/es/politica/20260803/moncloa-cesa-funcionaria-seguridad-nacional-133072089",
+    "pubDate": "2026-08-03 20:56:27",
+    "category": "",
+    "description": "<h2 class=\"item\">El cese se ha producido por \"pérdida de confianza\" y después de que se publicara una alerta en la web del Departamento de Seguridad Nacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Eala remonta a Pegula y estrena su palmarés en Washington",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/eala-remonta-pegula-estrena-palmares-133071955",
+    "pubDate": "2026-08-03 20:56:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La filipina se impuso a la americana por 4-6, 6-4 y 6-0 en una final marcada por la lluvia y disputada durante dos días.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни знищили відділення Нової пошти в Прилуках",
+    "link": "https://ua.korrespondent.net/ukraine/4899719-rosiiany-znyschyly-viddilennia-novoi-poshty-v-prylukakh",
+    "pubDate": "2026-08-03 20:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517572.jpg\">Співробітники та клієнти Нової пошти перебували в укритті, ніхто не постраждав. Триває ліквідація наслідків атаки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El cadáver encontrado en un contenedor de Lloret corresponde a un vecino de 30 años y fue asesinado a tiros",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cadaver-encontrado-contenedor-lloret-corresponde/133071949.shtml",
+    "pubDate": "2026-08-03 20:49:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una empresa tecnológica de Alicante alerta que grupos organizados en redes sociales preparan un nuevo asalto a la “reja” en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260803/grupos-organizados-redes-sociales-anuncian-asalto-15-agosto-ceuta-133071825",
+    "pubDate": "2026-08-03 20:41:07",
+    "category": "",
+    "description": "<h2>Golden Owl, financiada por el Gobierno, concluye tras rastrear con IA más de 5.000 publicaciones que la última avalancha fue organizada por 25 grupos en Facebook</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Lleida activa 160 plazas más para acoger a temporeros sin techo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/lleida-activa-160-plazas-acoger-temporeros-sin-hogar-133071396",
+    "pubDate": "2026-08-03 20:37:15",
+    "category": "",
+    "description": "<h2 class=\"item\">El dispositivo suma ya 2,2390 atenciones, más del doble que el año pasado</h2><h2 class=\"item\">Es la primera vez que la Paeria y el Govern tienen que amplíar el dispositivo ordinario de atención a los trabajadores de la fruta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260710/muere-temporero-seros-segria-recogia-fruta-golpe-calor-132336312\">Muere un temporero de 64 años en Seròs (Segrià) mientras recogía fruta a más de 40 grados</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260713/patronales-sindicatos-encallado-ano-protocolo-132342446\">Patronales y sindicatos tienen encallado desde hace un año un protocolo ante olas de calor en el campo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ порушила справу проти Apple через відмову встановлювати Мах на iPhone",
+    "link": "https://ua.korrespondent.net/world/russia/4899715-rf-porushyla-spravu-proty-Apple-cherez-vidmovu-vstanovluivaty-makh-na-iPhone",
+    "pubDate": "2026-08-03 20:30:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517556.jpg\">Раніше Apple виключила російський \"національний\" месенджер Max зі свого магазину застосунків, позбавивши доступу до нього приблизно 20 млн росіян.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Felipe VI navega en 'Hispania' tras la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/felipe-vi-navega-hispania-tras-crisis-ceuta/133071373.shtml",
+    "pubDate": "2026-08-03 20:18:04",
+    "category": "",
+    "description": "El Rey ha llegado a la estación naval de Porto Pi al volante de su coche sobre las doce del mediodía",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Стефанішина прокоментувала своє звільнення",
+    "link": "https://ua.korrespondent.net/ukraine/4899711-stefanishyna-prokomentuvala-svoie-zvilnennia",
+    "pubDate": "2026-08-03 20:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517539.jpg\">Експосол пообіцяла також прокоментувати публічно найближчим часом низку запитань, які \"останнім часом лунають у медіа\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Encuentran muerto junto a la Torre Lluvià de Manresa a un hombre desaparecido desde esta mañana",
     "link": "https://www.elperiodico.com/es/sucesos/20260803/encuentran-muerto-torre-lluvia-manresa-desaparecido-133071132",
     "pubDate": "2026-08-03 20:11:59",
