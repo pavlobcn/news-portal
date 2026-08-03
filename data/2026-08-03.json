@@ -1,11 +1,380 @@
 [
   {
+    "title": "Save the Children alerta de que cientos de menores en Ceuta se hallan fuera del sistema de protección",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/save-the-children-alerta-cientos-menores-ceuta-fuera-sistema-proteccion-133062574",
+    "pubDate": "2026-08-03 15:44:01",
+    "category": "",
+    "description": "<h2 class=\"item\">La organización considera \"imprescindible\" acelerar los traslados de niños y adolescentes no acompañados a otras comunidades</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260803/enrique-roviralta-medico-ceuta-radiografias-menores-certificar-edad-133054374\">Enrique Roviralta, médico de Ceuta: \"¿Cómo vamos a hacer 7.000 radiografías para certificar la edad de los menores?\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260803/ceuta-marruecos-migrantes-ultima-hora-directo-132960312\">Última hora de Ceuta y Melilla, en directo | Robles exige a Marruecos investigar la entrada masiva en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El fondo Pollen Street compra Servihabitat y crea un gigante inmobiliario con 60.000 millones en activos bajo gestión",
+    "link": "https://www.elperiodico.com/es/economia/20260803/fondo-pollen-street-compra-servihabitat-133063554",
+    "pubDate": "2026-08-03 15:42:32",
+    "category": "",
+    "description": "<h2>La operación de formalizará a través de Finsolutia e Hipoges</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se destapa el romance sorpresa entre el futbolista Héctor Bellerín y la actriz Carolina Yuste",
+    "link": "https://www.elperiodico.com/es/videos/gente/destapa-romance-sorpresa-futbolista-hector/133063457.shtml",
+    "pubDate": "2026-08-03 15:39:24",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Генштаб назвав чотири активні напрямки на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4899631-henshtab-nazvav-chotyry-aktyvni-napriamky-na-fronti",
+    "pubDate": "2026-08-03 15:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517271.jpg\">Найбільш активно російські окупанти намагаютья наступати на  Костянтинівському напрямку в районах п'яти населених пунктів.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "В Україну йде аномальна спека",
+    "link": "https://ua.korrespondent.net/ukraine/4899629-v-ukrainu-yde-anomalna-speka",
+    "pubDate": "2026-08-03 15:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517269.jpg\">В Україні очікується по-справжньому літня спека. Місцями температура повітря досягне +38 градусів, а опадів не передбачається.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ejército transporta a centenares de migrantes desde las barriadas de Ceuta de vuelta a la frontera",
+    "link": "https://www.elperiodico.com/es/videos/politica/ejercito-transporta-centenares-migrantes-barriadas-ceuta-marruecos/133063308.shtml",
+    "pubDate": "2026-08-03 15:31:37",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Íker vive con su mujer y su hija en la montaña sin red eléctrica: \"Para una familia moderna con Internet y trabajos digitales puede resultar complicado llevarlo al extremo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260803/red-electrica-panales-solares-almacenar-energia-familia-montana-iker-dv-et-132897433",
+    "pubDate": "2026-08-03 15:30:00",
+    "category": "",
+    "description": "<h2>El hombre explica cómo vivir sin electricidad y \"hacer funcionar el frigorífico más de dos días sin recibir ni un rayo de sol\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687\">José y Sandra, padres de 4 hijos, hablan de su vida en el bosque: \"Nuestros hijos no van a la escuela, sino que los educamos en casa\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/renuncia-vida-ciudad-terreno-campo-contruccion-casa-agua-luz-mauricio-dv-et-132707450\">Mauricio (37 años) renuncia a una vida cómoda para construir una casa de madera, paja y barro en el monte: \"En la ciudad vivimos tan acelerados que dejamos de lado el respirar, el disfrutar...\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ощадбанк відзвітував про падіння чистого прибутку у 3,5 раза",
+    "link": "https://ua.korrespondent.net/business/financial/4899627-oschadbank-vidzvituvav-pro-padinnia-chystoho-prybutku-u-35-raza",
+    "pubDate": "2026-08-03 15:23:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517253.jpg\">Прибуток до оподаткування у другому кварталі скоротився на 46,4%, тоді як витрати з податку на прибуток зросли на 33,3%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dinamarca estrena una mili obligatoria e igualitaria, con destino a Groenlandia incluido",
+    "link": "https://www.elperiodico.com/es/videos/internacional/dinamarca-estrena-mili-obligatoria-igualitaria/133063014.shtml",
+    "pubDate": "2026-08-03 15:21:12",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Бєлгороді після атаки дронів згорів склад великої логістичної компанії",
+    "link": "https://ua.korrespondent.net/world/russia/4899626-u-bielhorodi-pislia-ataky-droniv-zghoriv-sklad-velykoi-lohistychnoi-kompanii",
+    "pubDate": "2026-08-03 15:18:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517255.jpg\">У ніч на 3 серпня в Бєлгороді пролунала серія вибухів. Після атаки безпілотників спалахнули пожежі на території логістичного комплексу та в одному з корпусів місцевого університету.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Un incendio en una planta de residuos de Zamora activa las emergencias de Protección Civil",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/incendio-planta-residuos-zamora-activa-133062827",
+    "pubDate": "2026-08-03 15:15:17",
+    "category": "",
+    "description": "<h2>La columna de humo visible desde varios puntos de la provincia alertó a los ciudadanos, que llamaron en cerca de cuarenta ocasiones al centro de emergencias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мати на смерть збила однорічного сина на Одещині",
+    "link": "https://ua.korrespondent.net/ukraine/4899624-maty-na-smert-zbyla-odnorichnoho-syna-na-odeschyni",
+    "pubDate": "2026-08-03 15:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517254.jpeg\">Водійка Mercedes Vito, виїжджаючи з території домоволодіння, не помітила свого однорічного сина, який вибіг з подвір'я.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hay 862 menores acogidos en centros de Ceuta, aunque sospecha que muchos siguen en las calles",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/hay-862-menores-acogidos-centros-video/133062549.shtml",
+    "pubDate": "2026-08-03 15:09:44",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Фейки, ШІ та маніпуляції: як Росія намагалася вплинути на вибори в Німеччин",
+    "link": "https://ua.korrespondent.net/world/4899622-feiky-shi-ta-manipuliatsii-yak-rosiia-namahalasia-vplynuty-na-vybory-v-nimechchyn",
+    "pubDate": "2026-08-03 15:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517239.jpg\">За даними розслідування, сотні фейкових публікацій мали на меті дискредитувати кандидатів і посилити розкол між регіонами країни.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los empresarios piden ayudas por el impacto que la crisis de Ceuta tendrá sobre el empleo y la inversión",
+    "link": "https://www.elperiodico.com/es/economia/20260803/empresarios-piden-ayudas-dano-ocasionara-133062466",
+    "pubDate": "2026-08-03 15:04:00",
+    "category": "",
+    "description": "<h2>La patronal ha defendido que la protección de las fronteras exteriores de España y de la Unión Europea resulta clave para preservar el mercado único europeo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Los microplásticos pueden atravesar la placenta y alterar las hormonas del embarazo",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260803/microplasticos-atravesar-placenta-alterar-hormonas-133062423",
+    "pubDate": "2026-08-03 15:02:16",
+    "category": "",
+    "description": "<h2>Un nuevo estudio con un modelo placentario humano detecta el paso de micro y nanoplásticos y cambios en la producción de hormonas esteroideas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sabotean el local de una de las calles decoradas de Gràcia en plena cuenta atrás para la fiesta mayor",
+    "link": "https://www.elperiodico.com/es/barcelona/20260803/fiestas-de-gracia-calle-de-la-perla-sabotaje-accion-deliberada-133061295",
+    "pubDate": "2026-08-03 15:00:10",
+    "category": "",
+    "description": "<h2>La Comisión de vecinos y voluntarios que impulsa este escenario ha emitido un comunicado muy crítico contra una acción que considera \"deliberada\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250817/incendio-quema-decorado-calle-verdi-120696905\">Un incendio quema el decorado de la calle Verdi en las fiestas de Gràcia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибух в ресторані Москви. Хто був ціллю атаки",
+    "link": "https://ua.korrespondent.net/world/russia/4899611-vybukh-v-restorani-moskvy-khto-buv-tsillui-ataky",
+    "pubDate": "2026-08-03 15:00:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517230.jpg\">Російська влада дозовано коментує вибух в ресторані в центрі Москви, не називаючи імена загиблих та поранених.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Berasategui habla de la realidad de vivir en una aldea: \"Lo malo es que tienes que ir cada vez que necesitas agua, pero son solo 100 metros de distancia...\"",
+    "link": "https://www.elperiodico.com/es/economia/20260803/vivir-aldea-aislada-ibon-berasategui-gallinero-agua-dv-et-132677866",
+    "pubDate": "2026-08-03 15:00:00",
+    "category": "",
+    "description": "<h2>El 'youtuber' explica cómo es el día a día sin comodidades: \"Si te dan pereza estas cosas, no te vengas a un pueblo; te quedas en la ciudad\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687\">José y Sandra, padres de 4 hijos, hablan de su vida en el bosque: \"Nuestros hijos no van a la escuela, sino que los educamos en casa\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260707/alvaro-salvar-pueblo-padre-asturias-dv-et-132097624\">Álvaro (39 años) dejó la ciudad para salvar el pueblo de su padre: \"Veníamos con las mochilas, el cámping gas y víveres para 15 días\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни атакували цивільний буксир \"шахедом\"",
+    "link": "https://ua.korrespondent.net/ukraine/4899618-rosiiany-atakuvaly-tsyvilnyi-buksyr-shakhedom",
+    "pubDate": "2026-08-03 14:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517238.jpeg\">Унаслідок удару безпілотника по цивільному буксиру виникла пожежа. За попередніми даними, загиблих і постраждалих немає.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Wildberries втратив приблизно 20% складів через удари України - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4899617-Wildberries-vtratyv-pryblyzno-20-skladiv-cherez-udary-ukrainy-zmi",
+    "pubDate": "2026-08-03 14:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517235.jpg\">Станом на 2 серпня загальна площа атакованих складів компанії досягла 1,21-1,47 млн ​​кв. метрів.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Зеленський анонсував спеціальне засідання РНБО",
+    "link": "https://ua.korrespondent.net/ukraine/4899615-zelenskyi-anonsuvav-spetsialne-zasidannia-rnbo",
+    "pubDate": "2026-08-03 14:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517231.jpg\">Майданчик РНБО буде більше залучений в роботу з урядом щодо підготовки до зими, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya invita a Pedro Duque, a un Nobel de Física y a científicos de la NASA para seguir el \"eclipse del siglo\" desde el Observatori de l'Ebre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/cataluna-eclipse-pedro-duque-nobel-fisica-nasa-observatori-ebre-133058515",
+    "pubDate": "2026-08-03 14:50:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La conselleria de Recerca i Universitats organiza una jornada en Roquetes para \"seguir este fenómeno astronómico excepcional\" y prepara un especial que se transmitirá por Youtube</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260724/catalunya-acelera-eclipse-23-puntos-mossos-acceso-puntos-observacion-132773153\">Catalunya acelera hacia el supereclipse: 23 puntos de observación, 150.000 gafas gratuitas, 700 mossos y restricciones en la AP-7</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cómo regar tus plantas durante las vacaciones: los sistemas de riego que evitarán que se marchiten",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260803/como-regar-plantas-vacaciones-sistemas-riego-133054404",
+    "pubDate": "2026-08-03 14:44:34",
+    "category": "",
+    "description": "<h2>Desde macetas con autorriego hasta dispositivos por goteo, estas soluciones mantienen tus plantas hidratadas mientras disfrutas de tus vacaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підготовка до опалювального сезону: до суду передали майже 90% справ",
+    "link": "https://ua.korrespondent.net/ukraine/4899613-pidhotovka-do-opaluivalnoho-sezonu-do-sudu-peredaly-maizhe-90-sprav",
+    "pubDate": "2026-08-03 14:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517229.jpg\">Перед початком нового опалювального сезону правоохоронці підбили підсумки розслідувань зловживань під час закупівель тепла та енергоресурсів для комунальних установ. Більшість кримінальних проваджень уже передано до суду.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Zarrías recurre que se investiguen ocho de sus cuentas bancarias cuando sólo desde una de ellas se pagó a Leire Díez",
+    "link": "https://www.elperiodico.com/es/politica/20260803/zarrias-recurre-investiguen-ocho-cuentas-caso-leire-133061608",
+    "pubDate": "2026-08-03 14:35:38",
+    "category": "",
+    "description": "<h2>El juez Pedraz ordenó rastrear estos depósitos bancarios junto con cuentas del PSOE tras pedirlo la UCO y con el aval de Anticorrupción</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Бюджетні підряди на 800 млн: викрито схему розкрадання на відновленні",
+    "link": "https://ua.korrespondent.net/ukraine/4899608-buidzhetni-pidriady-na-800-mln-vykryto-skhemu-rozkradannia-na-vidnovlenni",
+    "pubDate": "2026-08-03 14:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517200.jpg\">Фігуранти заробляли на оборудках із бюджетними підрядами, які держава проводила для відновлення та ремонту критичної й соціальної інфраструктури.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guía del eclipse del 12 de agosto: Buscador de los mejores miradores de España para vivir el fenómeno",
+    "link": "https://www.elperiodico.com/es/ciencia/20260803/eclipse-sol-12-agosto-2026-buscador-mejor-lugar-espana-dv-132874879",
+    "pubDate": "2026-08-03 14:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La duración total del fenómeno será de algo menos de 4 horas y media</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260728/eclipse-sol-2026-horario-como-ver-gafas-dv-132838557\" >Eclipse solar 2026: horario, cuánto durará y mejores ciudades para verlo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260730/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674\" >Tres eclipses en tres años: por qué esta década será irrepetible</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія атакувала цивільні судна в портах Великої Одеси і Дунаю",
+    "link": "https://ua.korrespondent.net/city/odessa/4899607-rosiia-atakuvala-tsyvilni-sudna-v-portakh-velykoi-odesy-i-dunaui",
+    "pubDate": "2026-08-03 14:28:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517202.jpeg\">Внаслідок чергової атаки на об'єкти транспортної інфраструктури та цивільні судна Одещини постраждали 10 людей.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Robles ensalza el trabajo de los servicios de inteligencia españoles tras la crisis migratoria",
+    "link": "https://www.elperiodico.com/es/videos/politica/robles-ensalza-trabajo-servicios-inteligencia/133061146.shtml",
+    "pubDate": "2026-08-03 14:24:43",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido un feriante por agredir sexualmente a dos personas sin hogar en Blanes y Barcelona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260803/detenido-feriante-agredir-sexualmente-personas-sin-hogar-133060816",
+    "pubDate": "2026-08-03 14:19:59",
+    "category": "",
+    "description": "<h2>El sospechoso también lesionó y robó a los dos víctimas</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Catalunya registra 544 muertes prematuras por calor extremo: 22 veces más que hace una década",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/catalunya-registra-544-muertes-prematuras-133060630",
+    "pubDate": "2026-08-03 14:19:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Las altas temperaturas han dejado 2.024 fallecimientos en toda España: un 130% más que en 2016</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260701/catalunya-cifra-muertes-calor-record-junio-132010276\">Catalunya registra la cifra más alta de muertes por calor en un mes de junio con 218 decesos prematuros atribuíbles a las altas temperaturas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Abascal califica la llegada de migrantes a Ceuta de “invasión” y “acto de guerra promovido por Marruecos”",
+    "link": "https://www.elperiodico.com/es/videos/politica/abascal-califica-llegada-migrantes-ceuta-invasion-guerra/133061061.shtml",
+    "pubDate": "2026-08-03 14:17:42",
+    "category": "",
+    "description": "Pide militarizar la frontera y asegura que Marruecos “tiene pruebas de las corrupciones y de la mafia de Sánchez”",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Laser Show del Tibidabo vuelve a iluminar las noches de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/laser-show-tibidabo-vuelve-iluminar-noche-barcelona-video/133060597.shtml",
+    "pubDate": "2026-08-03 14:13:22",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Cómo pueden 'ver' el eclipse solar las personas ciegas? Un científico español adapta un dispositivo que transforma la luz en sonido",
+    "link": "https://www.elperiodico.com/es/ciencia/20260803/eclipse-sol-12-agosto-personas-ciegas-dispositivo-traduce-dv-133051376",
+    "pubDate": "2026-08-03 14:12:19",
+    "category": "",
+    "description": "<h2>Catalunya será uno de los territorios con mayor despliegue del proyecto, con aparatos en 10 de los municipios identificados como prioritarios para observar el oscurecimiento del Sol del día 12</h2><h2><a href=\"https://www.elperiodico.com/es/ciencia/20260728/eclipse-sol-2026-horario-como-ver-gafas-dv-132838557\" >Eclipse solar 2026: horario, cuánto durará y mejores ciudades para verlo</a></h2><h2><a href=\"https://www.elperiodico.com/es/ciencia/20260729/eclipse-sol-12-agosto-2026-buscador-mejor-lugar-espana-dv-132874879\" >¿Dónde se verá mejor el eclipse este 12 de agosto? Buscador de los sitios más espectaculares de España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dinamarca estrena una mili obligatoria e igualitaria, con destino a Groenlandia incluido",
+    "link": "https://www.elperiodico.com/es/internacional/20260803/dinamarca-estrena-mili-obligatoria-igualitaria-groenlancia-133060662",
+    "pubDate": "2026-08-03 14:10:28",
+    "category": "",
+    "description": "<h2>Todos los hombres y mujeres daneses deben registrarse al cumplir los 18 años para prestar el servicio militar durante 11 meses</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Хакери зламали 4,5 тисячі криптогаманців: викрадено $86 млн у біткойнах",
+    "link": "https://ua.korrespondent.net/world/4899605-khakery-zlamaly-45-tysiachi-kryptohamantsiv-vykradeno-86-mln-u-bitkoinakh",
+    "pubDate": "2026-08-03 14:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517186.jpg\">Хакери здійснили одну з наймасштабніших атак на апаратні криптогаманці Coldcard. Через критичну вразливість вони вже отримали доступ до понад 4,5 тисячі пристроїв і викрали біткойни на суму близько 86 мільйонів доларів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un camión que transportaba vigas de hormigón se accidenta en la AP7 y causa 20 km de retenciones",
+    "link": "https://www.elperiodico.com/es/sucesos/20260803/camion-transportaba-vigas-hormigon-accidenta-ap7-carriles-cortados-133060180",
+    "pubDate": "2026-08-03 14:03:54",
+    "category": "",
+    "description": "<h2>Se cortaron carriles en la zona de Castellví de la Marca y está previsto que las tareas para retirar el vehículo se hagan la próxima madrugada</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260803/transit-mossos-intensifican-controles-velocidad-carreteras-133050843\">Trànsit y los Mossos intensifican los controles contra la velocidad excesiva en las carreteras catalanas</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Clavero, 'youtuber', sobre el país de Europa en el que se puede sobrevivir sin trabajar: \"El 60% de las viviendas son públicas y el Gobierno es el que controla su precio\"",
+    "link": "https://www.elperiodico.com/es/economia/20260803/clavero-youtuber-paro-austria-alquiler-vivienda-dv-et-132337556",
+    "pubDate": "2026-08-03 14:00:00",
+    "category": "",
+    "description": "<h2>El 'youtuber' descubre cómo funciona el sistema de paro y el control del precio de la vivienda en Austria</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260511/herencias-libres-impuestos-austria-diferencia-clave-espana-dv-130085610\">Herencias libres de impuestos en Austria, una diferencia clave con el sistema fiscal de España</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260317/espanol-suiza-salario-euros-sin-filtros-dv-127842512\">Un español que vive en Suiza habla sin filtros sobre su salario: \"Cobro más de 1.300 euros a la semana\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Адвокати та лікарі: викрито дев'ять схем ухилянтів",
+    "link": "https://ua.korrespondent.net/ukraine/4899599-advokaty-ta-likari-vykryto-deviat-skhem-ukhyliantiv",
+    "pubDate": "2026-08-03 13:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517170.jpg\">У різних регіонах затримали 10 організаторів оборудок, котрі брали до $21 тисячі за допомогу в ухиленні від мобілізації.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Un diputado del PSC acusa a Marruecos de hacer \"chantaje\" a España con la crisis migratoria en Ceuta",
     "link": "https://www.elperiodico.com/es/politica/20260803/diputado-psc-acusa-marruecos-chantaje-espana-crisis-migratoria-ceuta-133058303",
     "pubDate": "2026-08-03 13:58:47",
     "category": "",
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260803/ceuta-marruecos-migrantes-ultima-hora-directo-132960312\">Última hora de Ceuta y Melilla, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260802/menores-crisis-ceuta-han-llegado-133026689\">Los menores, en la crisis de Ceuta: \"Han llegado miles y nadie sabe cuántos\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260803/interior-rotundamente-falso-cni-alertara-entrada-masiva-migrantes-133057570\">Interior asegura que es \"rotundamente falso\" que el CNI alertara de la entrada masiva de migrantes a Ceuta</a></h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Президент ФІФА планує заручитися підтримкою Трампа - джерело",
+    "link": "https://ua.korrespondent.net/sport/football/4899601-prezydent-fifa-planuie-zaruchytysia-pidtrymkoui-trampa-dzherelo",
+    "pubDate": "2026-08-03 13:58:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517154.jpg\">Джанні Інфантіно шукає союзників на найвищому рівні, сподіваючись на підтримку Дональда Трампа.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -187,6 +556,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517137.jpg\">На місці влучання спалахнула пожежа. Було понівечено заправку і автомобілі, зазначили в ОВА.",
     "topic": "політика",
     "topic_match_probability": 65
+  },
+  {
+    "title": "Última hora de Ceuta y Melilla, en directo | Robles exige a Marruecos investigar la entrada masiva en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260803/ceuta-marruecos-migrantes-ultima-hora-directo-132960312",
+    "pubDate": "2026-08-03 13:25:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260802/ceuta-muertos-crisis-migratoria-133033736\" target=\"_blank\">El Gobierno sitúan la cifra oficial de muertos a 72, aunque otras fuentes lo elevan a más de 100</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260802/menores-crisis-ceuta-han-llegado-133026689\">Los menores, en la crisis de Ceuta: \"Han llegado miles y nadie sabe cuántos”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Catalunya desactiva los avisos por calor y enciende los de lluvias torrenciales ante la llegada de fuertes chubascos acompañados de tormenta",

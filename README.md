@@ -1,8 +1,11 @@
-# News for 2026-08-03 14:00
+# News for 2026-08-03 15:50
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
 ## ua.korrespondent.net
+15:36 [В Україну йде аномальна спека](https://ua.korrespondent.net/ukraine/4899629-v-ukrainu-yde-anomalna-speka)<br>
+15:23 [Ощадбанк відзвітував про падіння чистого прибутку у 3,5 раза](https://ua.korrespondent.net/business/financial/4899627-oschadbank-vidzvituvav-pro-padinnia-chystoho-prybutku-u-35-raza)<br>
+15:10 [Мати на смерть збила однорічного сина на Одещині](https://ua.korrespondent.net/ukraine/4899624-maty-na-smert-zbyla-odnorichnoho-syna-na-odeschyni)<br>
 13:35 [У Єгипті стався потужний землетрус](https://ua.korrespondent.net/world/4899590-u-yehypti-stavsia-potuzhnyi-zemletrus)<br>
 13:03 [Румунія підірве скелю на Дунаї для порятунку АЕС](https://ua.korrespondent.net/world/4899583-rumuniia-pidirve-skelui-na-dunai-dlia-poriatunku-aes)<br>
 12:24 [Українська митниця зібрала рекордну суму платежів за час війни](https://ua.korrespondent.net/business/economics/4899569-ukrainska-mytnytsia-zibrala-rekordnu-sumu-platezhiv-za-chas-viiny)<br>
@@ -26,6 +29,16 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:42 [El fondo Pollen Street compra Servihabitat y crea un gigante inmobiliario con 60.000 millones en activos bajo gestión](https://www.elperiodico.com/es/economia/20260803/fondo-pollen-street-compra-servihabitat-133063554)<br>
+15:30 [Íker vive con su mujer y su hija en la montaña sin red eléctrica: "Para una familia moderna con Internet y trabajos digitales puede resultar complicado llevarlo al extremo"](https://www.elperiodico.com/es/economia/20260803/red-electrica-panales-solares-almacenar-energia-familia-montana-iker-dv-et-132897433)<br>
+15:15 [Un incendio en una planta de residuos de Zamora activa las emergencias de Protección Civil](https://www.elperiodico.com/es/sociedad/20260803/incendio-planta-residuos-zamora-activa-133062827)<br>
+15:02 [Los microplásticos pueden atravesar la placenta y alterar las hormonas del embarazo](https://www.elperiodico.com/es/tendencias21/20260803/microplasticos-atravesar-placenta-alterar-hormonas-133062423)<br>
+15:00 [Sabotean el local de una de las calles decoradas de Gràcia en plena cuenta atrás para la fiesta mayor](https://www.elperiodico.com/es/barcelona/20260803/fiestas-de-gracia-calle-de-la-perla-sabotaje-accion-deliberada-133061295)<br>
+14:50 [Catalunya invita a Pedro Duque, a un Nobel de Física y a científicos de la NASA para seguir el "eclipse del siglo" desde el Observatori de l'Ebre](https://www.elperiodico.com/es/sociedad/20260803/cataluna-eclipse-pedro-duque-nobel-fisica-nasa-observatori-ebre-133058515)<br>
+14:44 [Cómo regar tus plantas durante las vacaciones: los sistemas de riego que evitarán que se marchiten](https://www.elperiodico.com/es/vida-y-estilo/20260803/como-regar-plantas-vacaciones-sistemas-riego-133054404)<br>
+14:30 [Guía del eclipse del 12 de agosto: Buscador de los mejores miradores de España para vivir el fenómeno](https://www.elperiodico.com/es/ciencia/20260803/eclipse-sol-12-agosto-2026-buscador-mejor-lugar-espana-dv-132874879)<br>
+14:19 [Catalunya registra 544 muertes prematuras por calor extremo: 22 veces más que hace una década](https://www.elperiodico.com/es/sociedad/20260803/catalunya-registra-544-muertes-prematuras-133060630)<br>
+14:12 [¿Cómo pueden 'ver' el eclipse solar las personas ciegas? Un científico español adapta un dispositivo que transforma la luz en sonido](https://www.elperiodico.com/es/ciencia/20260803/eclipse-sol-12-agosto-personas-ciegas-dispositivo-traduce-dv-133051376)<br>
 13:53 [La Policía detiene en Sitges a un fugitivo vinculado al 'Pablo Escobar de Suecia'](https://www.elperiodico.com/es/videos/sociedad/policia-detiene-sitges-fugitivo-vinculado-pablo-escobar-suecia-video/133059786.shtml)<br>
 13:50 [Muere un vecino de Martorell tras ser embestido por una vaca en los festejos taurinos de un pueblo de Castelló](https://www.elperiodico.com/es/barcelona/20260803/muere-vecino-martorell-embestido-vaca-festejos-taurinos-pueblo-castello-133057146)<br>
 13:43 [La Policía detiene en Sitges a un fugitivo vinculado al 'Pablo Escobar de Suecia'](https://www.elperiodico.com/es/sucesos/20260803/policia-detiene-sitges-mano-derecha-pablo-escobar-droga-suecia-133058712)<br>
