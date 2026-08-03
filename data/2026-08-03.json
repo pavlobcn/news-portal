@@ -1,5 +1,329 @@
 [
   {
+    "title": "Una jubilada se construye una cabaña en el bosque de Girona y vive en ella con una pensión de 800 euros",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/jubilada-construye-cabana-bosque-girona/133065254.shtml",
+    "pubDate": "2026-08-03 16:53:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ignacio Galán (Iberdrola), Medalla de Oro de los Cursos de la Granda en reconocimiento a su trayectoria profesional",
+    "link": "https://www.elperiodico.com/es/economia/20260803/ignacio-galan-iberdrola-medalla-oro-133065363",
+    "pubDate": "2026-08-03 16:51:28",
+    "category": "",
+    "description": "<h2>El máximo dirigente de Iberdrola pone en valor la electrificación como oportunidad histórica para la nueva industrialización.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хмельницького топ-посадовця спіймали на \"відкатах\"",
+    "link": "https://ua.korrespondent.net/ukraine/4899659-khmelnytskoho-top-posadovtsia-spiimaly-na-vidkatakh",
+    "pubDate": "2026-08-03 16:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517344.jpg\">Зараз триває розслідування для встановлення можливої причетності до злочину інших посадовців.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El euríbor vuelve a golpear a miles de hipotecados y podrían pagar hasta 712 euros más al año",
+    "link": "https://www.elperiodico.com/es/economia/20260803/euribor-vuelve-golpear-miles-hipotecados-712-euros-mas-ano-133060503",
+    "pubDate": "2026-08-03 16:45:35",
+    "category": "",
+    "description": "<h2>El índice de referencia de las hipotecas variables alcanza su nivel más alto desde 2024, rozando el 3%, y consolida el cambio de rumbo del mercado tras meses de estabilidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El euríbor cerró en julio en el 2,855%, su nivel más alto en casi dos años y eleva el coste de las hipotecas variables en hasta 1.500 euros al año",
+    "link": "https://www.elperiodico.com/es/economia/20260803/euribor-cerro-julio-2-855-133065223",
+    "pubDate": "2026-08-03 16:44:00",
+    "category": "",
+    "description": "<h2>En comparación con junio, <strong>cuando se situó en el 2,798%, el indicador avanzó 0,057 puntos y quedó a las puertas de volver a superar la barrera del 3%</strong></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Військовий у СЗЧ кинув гранату в підлітків на Одещині",
+    "link": "https://ua.korrespondent.net/ukraine/4899657-viiskovyi-u-szch-kynuv-hranatu-v-pidlitkiv-na-odeschyni",
+    "pubDate": "2026-08-03 16:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517334.jpg\">Перебуваючи в стані сп'яніння поблизу одного з місцевих ліцеїв, чоловік спровокував сварку з підлітками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Xevi Pujol sustituye a Juan Carlos Navarro como director deportivo del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/xevi-pujol-sustituye-juan-carlos-133064988",
+    "pubDate": "2026-08-03 16:41:52",
+    "category": "",
+    "description": "<h2 class=\"item\">El manresano, procedente del Baskonia, asume la responsabilidad deportiva de la sección para las tres próximas temporadas. </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260731/revolucion-vista-barca-basquet-nueve-132913097\" target=\"_blank\">La revolución nunca vista del Barça de básquet: quién es quién de los nueve fichajes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amplio despliegue de emergencias por un incendio en la planta de residuos de Roales",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/amplio-despliegue-emergencias-incendio-planta/133065176.shtml",
+    "pubDate": "2026-08-03 16:40:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Подрез з перемоги розпочала виступ на турнірі у Варшаві",
+    "link": "https://ua.korrespondent.net/sport/tenis/4899656-podrez-z-peremohy-rozpochala-vystup-na-turniri-u-varshavi",
+    "pubDate": "2026-08-03 16:40:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517337.jpg\">Український успіх у Варшаві: Вероніка Подрез вибила австралійську тенісистку в першому раунді.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Франція розслідує хвилю лісових пожеж: серед підозрюваних 142 дітини",
+    "link": "https://ua.korrespondent.net/world/4899654-frantsiia-rozsliduie-khvylui-lisovykh-pozhezh-sered-pidozruivanykh-142-dityny",
+    "pubDate": "2026-08-03 16:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517333.jpg\">Від початку літа у Франції затримали сотні людей, яких підозрюють у причетності до масштабних лісових пожеж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pablo Iglesias atiza a Yolanda Díaz desde RTVE tras su candidatura a la OIT: \"Será la afiliada de CCOO mejor pagada de la historia\"",
+    "link": "https://www.elperiodico.com/es/videos/tele/yotele/pablo-iglesias-atiza-yolanda-diaz/133064814.shtml",
+    "pubDate": "2026-08-03 16:31:03",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Nando Díaz, peluquero que se ha encargado del famoso 'glow up' de Ferran Torres: \"Vimos que el cabello largo iba a favorecerle y potenciar mejor sus rasgos\"",
+    "link": "https://www.elperiodico.com/es/gente/20260803/peluquero-ferran-torres-nando-diaz-entrevista-dv-et-132926371",
+    "pubDate": "2026-08-03 16:30:00",
+    "category": "",
+    "description": "<h2>El barbero revela el secreto de la abundancia capilar del protagonista del Mundial: \"El aceite de romero ayuda a reforzar el cabello y estimula el crecimiento\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260720/vida-personal-ferran-torres-jugador-132622071\">De la ruptura con una famosa 'influencer' a los problemas de salud mental: así es la vida personal de Ferran Torres</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260720/redencion-ferran-torres-mentalidad-tiburon-problemas-psicologicos-132636950\">La redención de Ferran Torres: mentalidad de tiburón para superar los baches psicológicos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дім за 3,8 млн і хабар від арештанта: справа посадовця Київського СІЗО",
+    "link": "https://ua.korrespondent.net/city/kiev/4899652-dim-za-38-mln-i-khabar-vid-areshtanta-sprava-posadovtsia-kyivskoho-sizo",
+    "pubDate": "2026-08-03 16:28:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517315.jpeg\">Колишньому заступнику керівника Київського слідчого ізолятора повідомили про підозру у декларуванні неправдивих даних, легалізації майна та отриманні неправомірної вигоди.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Alberto Sánchez, abogado experto en vivienda, sobre qué pasa con el contrato de alquiler cuando el propietario muere: “Sí puede terminar…”",
+    "link": "https://www.elperiodico.com/es/vivienda/20260803/vivienda-alquiler-casero-alberto-sanchez-abogado-muere-dv-133064035",
+    "pubDate": "2026-08-03 16:27:41",
+    "category": "",
+    "description": "<h2 class=\"item\">Algunos licenciados utilizan las redes sociales para difundir sus conocimientos</h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/vivienda/20260731/vivienda-alquiler-ruben-zaballos-200-pisos-propietario-dv-132900424\" >Rubén Zaballos, propietario de 200 pisos: \"Realmente se está gestionando fatal la política de vivienda\"</a></u></h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/economia/20260803/clavero-youtuber-paro-austria-alquiler-vivienda-dv-et-132337556\" >Clavero, 'youtuber', sobre el país de Europa en el que se puede sobrevivir sin trabajar: \"El 60% de las viviendas son públicas y el Gobierno es el que controla su precio\"</a></u></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UEFA sortea los 'play off' de la Europa League y la Conference League",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/uefa-sortea-play-off-europa-133064140",
+    "pubDate": "2026-08-03 16:27:27",
+    "category": "",
+    "description": "<h2>El Getafe espera al vencedor del Partizan-Tobol en su última eliminatoria antes de la fase liga, mientras quedan definidos los cruces de acceso a ambas competiciones</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Stuart Grant (94 años) vive en una casa 'hobbit' en el bosque: \"Estaba rodeado de materiales de obra y pensé que podía hacer este lugar más cómodo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260803/construccion-casa-hobbit-bosque-escocia-stuart-grant-dv-et-133003629",
+    "pubDate": "2026-08-03 16:26:44",
+    "category": "",
+    "description": "<h2>El anciano revela que el parecido con el universo de Tolkien es pura coincidencia: \"Fue una construcción guiada por la intuición\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260707/alvaro-salvar-pueblo-padre-asturias-dv-et-132097624\">Álvaro (39 años) dejó la ciudad para salvar el pueblo de su padre: \"Veníamos con las mochilas, el cámping gas y víveres para 15 días\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260803/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564\">Alain reforma solo una masía catalana de más de 300 años: \"Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zapatero recurre el 'cheque en blanco' que el juez ha dado a la UDEF para el análisis de sus cuentas bancarias y las de sus hijas",
+    "link": "https://www.elperiodico.com/es/politica/20260803/zapatero-recurre-cheque-blanco-juez-revision-cuentas-udef-133064730",
+    "pubDate": "2026-08-03 16:26:10",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260730/juez-pone-foco-universo-empresarial-julito-martinez-pagos-rodriguez-zapatero-132955143\">El juez autorizó nuevas indagaciones en las cuentas de Zapatero, en las de sus hijas y su secretaria tras detectar la UDEF \"operativas financieras\" sospechosas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un estudio forense vincula los ahogamientos de menores en Catalunya a desigualdades sociales",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/estudio-forense-vincula-ahogamientos-menores/133064663.shtml",
+    "pubDate": "2026-08-03 16:23:02",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Єдиний НПЗ Грузії замінить російську нафту казахстанською",
+    "link": "https://ua.korrespondent.net/business/economics/4899642-yedynyi-npz-hruzii-zaminyt-rosiisku-naftu-kazakhstanskoui",
+    "pubDate": "2026-08-03 16:19:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517290.jpg\">Євросоюз дав підприємству час до 25 січня 2027 року, щоб повністю відмовитися від російської нафти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп знову на гойдалках: що стоїть за історією з Patriot",
+    "link": "https://ua.korrespondent.net/articles/4899649-tramp-znovu-na-hoidalkakh-scho-stoit-za-istoriieui-z-Patriot",
+    "pubDate": "2026-08-03 16:14:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517309.jpg\">Держсекретар США Марко Рубіо заявив: Вашингтон планує докласти нових зусиль для відновлення переговорного процесу між Україною та Росією. Та перспективи такої ініціативи залежатимуть не лише від посередництва США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Десятеро зрадників, які воювали проти ЗСУ, отримали вироки",
+    "link": "https://ua.korrespondent.net/ukraine/4899644-desiatero-zradnykiv-yaki-vouivaly-proty-zsu-otrymaly-vyroky",
+    "pubDate": "2026-08-03 16:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517307.jpg\">Українські захисники взяли їх у полон під час боїв на Покровському, Краматорському та Сіверському напрямках.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Постараємось завершити війну до зими - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4899643-postaraiemos-zavershyty-viinu-do-zymy-zelenskyi",
+    "pubDate": "2026-08-03 16:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517306.jpg\">Потрібно посилювати дипломатичний напрям, санкційний тиск і взаємодію з партнерами, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lambretta J 125: el regreso de un icono que mira al futuro sin renunciar a su personalidad",
+    "link": "https://www.elperiodico.com/es/motor/20260803/lambretta-j-125-regreso-icono-133054282",
+    "pubDate": "2026-08-03 16:11:37",
+    "category": "",
+    "description": "<h2>La firma italiana recupera el nombre J seis décadas después con un escúter que apuesta por el diseño, la personalización y una tecnología pensada para el uso diario</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sole y Rudy, aislados en el bosque con animales rescatados: \"El peor momento era cuando estaba el tejado quitado y empezó a llover\"",
+    "link": "https://www.elperiodico.com/es/economia/20260803/bosque-animales-rescatados-pareja-aislada-sole-rudy-asturias-dv-et-132932539",
+    "pubDate": "2026-08-03 16:10:48",
+    "category": "",
+    "description": "<h2>La pareja explica que construyeron un refugio para caballos, que \"normalmente van al matadero en la mitad de su vida, pero aún les queda la otra mitad\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687\">José y Sandra, padres de 4 hijos, hablan de su vida en el bosque: \"Nuestros hijos no van a la escuela, sino que los educamos en casa\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260803/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564\">Alain reforma solo una masía catalana de más de 300 años: \"Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Динамо дізналося, з ким може зіграти у плей-оф відбору Ліги конференцій",
+    "link": "https://ua.korrespondent.net/sport/football/4899639-dynamo-diznalosia-z-kym-mozhe-zihraty-u-plei-of-vidboru-lihy-konferentsii",
+    "pubDate": "2026-08-03 16:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517308.jpg\">Визначився потенційний суперник Динамо: кияни дізналися сітку наступного раунду єврокубків у разі перемоги над Карабахом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Si usas el parasol como solución definitiva para evitar el calor dentro del coche, estás cometiendo un error",
+    "link": "https://www.elperiodico.com/es/videos/motor/parasol-solucion-definitiva-evitar-calor/133064081.shtml",
+    "pubDate": "2026-08-03 16:09:49",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Вогонь охопив захід США: у штаті Вашингтон знищено 600 будинків",
+    "link": "https://ua.korrespondent.net/world/4899640-vohon-okhopyv-zakhid-ssha-u-shtati-vashynhton-znyscheno-600-budynkiv",
+    "pubDate": "2026-08-03 16:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517305.jpg\">Потужні лісові пожежі охопили схід штату Вашингтон, змусивши десятки тисяч людей залишити свої домівки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El sector de la moto y los vehículos ligeros crece en julio un 9,2 %",
+    "link": "https://www.elperiodico.com/es/motor/20260803/sector-moto-vehiculos-ligeros-crece-julio-133059443",
+    "pubDate": "2026-08-03 16:04:03",
+    "category": "",
+    "description": "<h2>Las matriculaciones acumulan un incremento del 21,2 % en lo que va de año, impulsadas por las motocicletas de 125 cc y el auge de los vehículos ligeros de cuatro ruedas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las denuncias por grafitis en los trenes caen un 50% por la presión policial y el uso de drones",
+    "link": "https://www.elperiodico.com/es/sucesos/20260803/mossos-constatado-descenso-50-grafitis-trenes-rodalies-metro-drones-133051709",
+    "pubDate": "2026-08-03 16:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">La última operación policial registró diez detenidos y nueve investigados por daños valorados en 377.000 euros</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251128/mossos-incorporan-primera-vez-drones-124246984\">Los Mossos incorporan por primera vez drones para controlar a los grafiteros de trenes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los golpes a las bandas de carteristas hacen caer un 20% los delitos en el metro y Rodalies",
+    "link": "https://www.elperiodico.com/es/sociedad/20260803/golpes-bandas-carteristas-multirreincidentes-bajan-robos-rodalies-trenes-cataluna-132928350",
+    "pubDate": "2026-08-03 16:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">En Barcelona, los denuncias se han desplomado el 40% respecto al año pasado</h2><h2 class=\"item\">La mayoría de ladrones operan de forma individual en la red ferroviaria catalana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260126/delitos-transporte-publico-barcelona-caen-ano-pasado-mossos-125615838\">Los delitos en el transporte público de Barcelona han caído un 24% en el último año</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alain vive en una masía abandonada de hace más de 300 años en las montañas de Catalunya: \"Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer\"",
+    "link": "https://www.elperiodico.com/es/economia/20260803/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564",
+    "pubDate": "2026-08-03 16:00:00",
+    "category": "",
+    "description": "<h2>El exmúsico explica cómo consiguió tener agua y electricidad en medio de la montaña: \"Hay que tener en cuenta todos los metros de tubería que he tenido que instalar para algo tan simple como tener agua del grifo\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260722/asturias-vivienda-palacio-aislado-axel-dv-et-132337212\">Axel, que vive solo en un palacio en la naturaleza por solo 150 euros al mes: \"Con los precios de España es una locura\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687\">José y Sandra, padres de 4 hijos, hablan de su vida en el bosque: \"Nuestros hijos no van a la escuela, sino que los educamos en casa\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Я на свободі\": антивоєнний політик Надєждін покинув Росію",
+    "link": "https://ua.korrespondent.net/world/4899636-ya-na-svobodi-antyvoiennyi-polityk-nadiezhdin-pokynuv-rosiui",
+    "pubDate": "2026-08-03 15:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517289.jpg\">Політик став відомим після того, як йому не дозволили балотуватися на президентських виборах, попри рекордну кількість зібраних підписів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Автомати, гранатомети та тисячі набоїв: на Черкащині вилучили склад зброї",
+    "link": "https://ua.korrespondent.net/ukraine/4899634-avtomaty-hranatomety-ta-tysiachi-naboiv-na-cherkaschyni-vyluchyly-sklad-zbroi",
+    "pubDate": "2026-08-03 15:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4517272.jpg\">Правоохоронці виявили понад 6500 набоїв, 7 автоматів, 10 гранатометів, 12 пострілів до гранатометів, 70 гранат, 17 стартових двигунів, 3 тубуси з порохом, 113 підривників, 2 тротилові шашки та запали до гранат.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 120.000 evacuados por fuertes lluvias en el centro de China",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/120-000-evacuados-fuertes-lluvias/133063698.shtml",
+    "pubDate": "2026-08-03 15:52:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça anuncia a Xevi Pujol como nuevo director deportivo",
+    "link": "https://as.com/baloncesto/acb/el-barca-anuncia-a-xevi-pujol-como-nuevo-director-deportivo-f202608-n/",
+    "pubDate": "2026-08-03 15:51:04",
+    "category": "Baloncesto",
+    "description": "Xevi Pujol, de 36 años, es el nuevo director deportivo del Barcelona, como ha anunciado el club azulgrana, tras un año en el Baskonia que ha acabado en un lío gordo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno birmano muestra al fin a Suu Kyi para acabar con las dudas sobre su salud",
+    "link": "https://www.elperiodico.com/es/internacional/20260803/gobierno-birmano-muestra-suu-kyi-imagenes-acabar-dudas-salud-133063702",
+    "pubDate": "2026-08-03 15:51:01",
+    "category": "",
+    "description": "<h2>La lideresa detenida se reunió este lunes con un representante de la Cruz Roja</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Save the Children alerta de que cientos de menores en Ceuta se hallan fuera del sistema de protección",
     "link": "https://www.elperiodico.com/es/sociedad/20260803/save-the-children-alerta-cientos-menores-ceuta-fuera-sistema-proteccion-133062574",
     "pubDate": "2026-08-03 15:44:01",

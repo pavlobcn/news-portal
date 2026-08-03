@@ -1,8 +1,13 @@
-# News for 2026-08-03 15:50
+# News for 2026-08-03 16:56
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
 ## ua.korrespondent.net
+16:42 [Військовий у СЗЧ кинув гранату в підлітків на Одещині](https://ua.korrespondent.net/ukraine/4899657-viiskovyi-u-szch-kynuv-hranatu-v-pidlitkiv-na-odeschyni)<br>
+16:39 [Франція розслідує хвилю лісових пожеж: серед підозрюваних 142 дітини](https://ua.korrespondent.net/world/4899654-frantsiia-rozsliduie-khvylui-lisovykh-pozhezh-sered-pidozruivanykh-142-dityny)<br>
+16:19 [Єдиний НПЗ Грузії замінить російську нафту казахстанською](https://ua.korrespondent.net/business/economics/4899642-yedynyi-npz-hruzii-zaminyt-rosiisku-naftu-kazakhstanskoui)<br>
+16:07 [Вогонь охопив захід США: у штаті Вашингтон знищено 600 будинків](https://ua.korrespondent.net/world/4899640-vohon-okhopyv-zakhid-ssha-u-shtati-vashynhton-znyscheno-600-budynkiv)<br>
+15:53 [Автомати, гранатомети та тисячі набоїв: на Черкащині вилучили склад зброї](https://ua.korrespondent.net/ukraine/4899634-avtomaty-hranatomety-ta-tysiachi-naboiv-na-cherkaschyni-vyluchyly-sklad-zbroi)<br>
 15:36 [В Україну йде аномальна спека](https://ua.korrespondent.net/ukraine/4899629-v-ukrainu-yde-anomalna-speka)<br>
 15:23 [Ощадбанк відзвітував про падіння чистого прибутку у 3,5 раза](https://ua.korrespondent.net/business/financial/4899627-oschadbank-vidzvituvav-pro-padinnia-chystoho-prybutku-u-35-raza)<br>
 15:10 [Мати на смерть збила однорічного сина на Одещині](https://ua.korrespondent.net/ukraine/4899624-maty-na-smert-zbyla-odnorichnoho-syna-na-odeschyni)<br>
@@ -25,10 +30,25 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 03:53 [Смертник у Пакистані атакував акцію за мир: 14 загиблих, багато поранених](https://ua.korrespondent.net/world/4899464-smertnyk-u-pakystani-atakuvav-aktsiui-za-myr-14-zahyblykh-bahato-poranenykh)<br>
 
 ## as.com
+15:51 [El Barça anuncia a Xevi Pujol como nuevo director deportivo](https://as.com/baloncesto/acb/el-barca-anuncia-a-xevi-pujol-como-nuevo-director-deportivo-f202608-n/)<br>
 13:52 [Campazzo: “¿Juegas al baloncesto? Ven a verme y te lo demostraré”](https://as.com/baloncesto/euroliga/campazzo-juegas-al-baloncesto-ven-a-verme-y-te-lo-demostrare-f202608-n/)<br>
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:53 [Una jubilada se construye una cabaña en el bosque de Girona y vive en ella con una pensión de 800 euros](https://www.elperiodico.com/es/videos/sociedad/jubilada-construye-cabana-bosque-girona/133065254.shtml)<br>
+16:51 [Ignacio Galán (Iberdrola), Medalla de Oro de los Cursos de la Granda en reconocimiento a su trayectoria profesional](https://www.elperiodico.com/es/economia/20260803/ignacio-galan-iberdrola-medalla-oro-133065363)<br>
+16:45 [El euríbor vuelve a golpear a miles de hipotecados y podrían pagar hasta 712 euros más al año](https://www.elperiodico.com/es/economia/20260803/euribor-vuelve-golpear-miles-hipotecados-712-euros-mas-ano-133060503)<br>
+16:44 [El euríbor cerró en julio en el 2,855%, su nivel más alto en casi dos años y eleva el coste de las hipotecas variables en hasta 1.500 euros al año](https://www.elperiodico.com/es/economia/20260803/euribor-cerro-julio-2-855-133065223)<br>
+16:41 [Xevi Pujol sustituye a Juan Carlos Navarro como director deportivo del Barça](https://www.elperiodico.com/es/deportes/20260803/xevi-pujol-sustituye-juan-carlos-133064988)<br>
+16:40 [Amplio despliegue de emergencias por un incendio en la planta de residuos de Roales](https://www.elperiodico.com/es/videos/sociedad/amplio-despliegue-emergencias-incendio-planta/133065176.shtml)<br>
+16:30 [Nando Díaz, peluquero que se ha encargado del famoso 'glow up' de Ferran Torres: "Vimos que el cabello largo iba a favorecerle y potenciar mejor sus rasgos"](https://www.elperiodico.com/es/gente/20260803/peluquero-ferran-torres-nando-diaz-entrevista-dv-et-132926371)<br>
+16:27 [Alberto Sánchez, abogado experto en vivienda, sobre qué pasa con el contrato de alquiler cuando el propietario muere: “Sí puede terminar…”](https://www.elperiodico.com/es/vivienda/20260803/vivienda-alquiler-casero-alberto-sanchez-abogado-muere-dv-133064035)<br>
+16:26 [Stuart Grant (94 años) vive en una casa 'hobbit' en el bosque: "Estaba rodeado de materiales de obra y pensé que podía hacer este lugar más cómodo"](https://www.elperiodico.com/es/economia/20260803/construccion-casa-hobbit-bosque-escocia-stuart-grant-dv-et-133003629)<br>
+16:23 [Un estudio forense vincula los ahogamientos de menores en Catalunya a desigualdades sociales](https://www.elperiodico.com/es/videos/sucesos/estudio-forense-vincula-ahogamientos-menores/133064663.shtml)<br>
+16:10 [Sole y Rudy, aislados en el bosque con animales rescatados: "El peor momento era cuando estaba el tejado quitado y empezó a llover"](https://www.elperiodico.com/es/economia/20260803/bosque-animales-rescatados-pareja-aislada-sole-rudy-asturias-dv-et-132932539)<br>
+16:00 [Las denuncias por grafitis en los trenes caen un 50% por la presión policial y el uso de drones](https://www.elperiodico.com/es/sucesos/20260803/mossos-constatado-descenso-50-grafitis-trenes-rodalies-metro-drones-133051709)<br>
+16:00 [Alain vive en una masía abandonada de hace más de 300 años en las montañas de Catalunya: "Después de una vida llena de sexo, drogas y rock and roll, un día me detectaron un cáncer"](https://www.elperiodico.com/es/economia/20260803/reforma-masia-anos-300-ruina-hogar-alain-dv-et-132890564)<br>
+15:52 [Más de 120.000 evacuados por fuertes lluvias en el centro de China](https://www.elperiodico.com/es/videos/sucesos/120-000-evacuados-fuertes-lluvias/133063698.shtml)<br>
 15:42 [El fondo Pollen Street compra Servihabitat y crea un gigante inmobiliario con 60.000 millones en activos bajo gestión](https://www.elperiodico.com/es/economia/20260803/fondo-pollen-street-compra-servihabitat-133063554)<br>
 15:30 [Íker vive con su mujer y su hija en la montaña sin red eléctrica: "Para una familia moderna con Internet y trabajos digitales puede resultar complicado llevarlo al extremo"](https://www.elperiodico.com/es/economia/20260803/red-electrica-panales-solares-almacenar-energia-familia-montana-iker-dv-et-132897433)<br>
 15:15 [Un incendio en una planta de residuos de Zamora activa las emergencias de Protección Civil](https://www.elperiodico.com/es/sociedad/20260803/incendio-planta-residuos-zamora-activa-133062827)<br>
