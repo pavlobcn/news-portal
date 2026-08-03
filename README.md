@@ -1,12 +1,32 @@
-# News for 2026-08-03 06:55
+# News for 2026-08-03 09:42
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
 ## ua.korrespondent.net
+09:13 [В Україні з початку року зафіксовано понад 108 тисяч боргів за комуналку](https://ua.korrespondent.net/ukraine/4899501-v-ukraini-z-pochatku-roku-zafiksovano-ponad-108-tysiach-borhiv-za-komunalku)<br>
+08:47 [В Італії туристичний автобус потрапив у ДТП: шестеро загиблих](https://ua.korrespondent.net/world/4899496-v-italii-turystychnyi-avtobus-potrapyv-u-dtp-shestero-zahyblykh)<br>
 05:14 [У Бєлгороді після атаки згорів університет, де розробляли безпілотники](https://ua.korrespondent.net/world/russia/4899472-u-bielhorodi-pislia-ataky-zghoriv-universytet-de-rozroblialy-bezpilotnyky)<br>
 03:53 [Смертник у Пакистані атакував акцію за мир: 14 загиблих, багато поранених](https://ua.korrespondent.net/world/4899464-smertnyk-u-pakystani-atakuvav-aktsiui-za-myr-14-zahyblykh-bahato-poranenykh)<br>
 
+## as.com
+07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
+
 ## www.elperiodico.com
+09:40 [Científicos españoles crean un “cerebro cuántico” inspirado en la plasticidad neuronal humana](https://www.elperiodico.com/es/tendencias21/20260803/cientificos-espanoles-crean-cerebro-cuantico-133050496)<br>
+09:40 [Crean una plataforma para cubrir guardias y turnos vacantes de sanitarios en Baleares](https://www.elperiodico.com/es/sociedad/20260803/crean-plataforma-cubrir-guardias-turnos-133050474)<br>
+09:40 [Incendios hoy, 3 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260803/incendios-hoy-3-agosto-cataluna-espana-mapa-fuegos-activos-ultima-hora-dv-133050403)<br>
+09:36 [El turismo roza los 50 millones en la primera mitad del año tras un avance del 4,9%](https://www.elperiodico.com/es/economia/20260803/turismo-roza-50-millones-primera-mitad-2026-ine-datos-133050348)<br>
+09:30 [10 euros el metro cuadrado: la localidad de Catalunya donde alquilar un piso sale bastante barato](https://www.elperiodico.com/es/vivienda/20260803/alquiler-piso-cataluna-mas-barato-tortosa-metro-cuadrado-ranking-espana-dv-loc-132945692)<br>
+09:14 [El tifón Noul deja alertas por inundaciones en el sur de China tras avanzar hacia el interior](https://www.elperiodico.com/es/videos/internacional/tifon-noul-deja-alertas-inundaciones-china-video/133049722.shtml)<br>
+09:01 [Olga Arderiu, abogada de Rosa Peral: "Es más difícil acusar que defender"](https://www.elperiodico.com/es/sociedad/20260803/olga-arderiu-abogada-rosa-peral-dv-133041545)<br>
+09:01 [El Ibex 35 toca máximos históricos tras la fuerte caída del petróleo](https://www.elperiodico.com/es/economia/20260803/ibex-35-coquetea-maximos-historicos-133049543)<br>
+09:00 [El psicólogo Javier Urra (68 años) anuncia que tiene cáncer con metástasis y comparte un mensaje de esperanza: "La vida acaba donde acaba, pero a la vida hay que ponerle ganas"](https://www.elperiodico.com/es/sociedad/20260803/javier-urra-cancer-metastasis-pulmon-psicologo-132949051)<br>
+08:55 [El verano también necesita modo avión](https://www.elperiodico.com/es/sociedad/20260803/verano-necesita-avion-133049482)<br>
+08:44 ["¿Has visto a mi hijo?", la angustiosa búsqueda de los desaparecidos en el mar](https://www.elperiodico.com/es/videos/internacional/has-visto-hijo-angustiosa-busqueda-desaparecidos-mar-ceuta-video/133049357.shtml)<br>
+08:17 [Cortadas 6 líneas de Rodalies entre Sant Vicenç de Calders y Cunit, en Tarragona, por atropello](https://www.elperiodico.com/es/tarragona/20260803/cortadas-6-lineas-rodalies-sant-133048979)<br>
+08:05 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260803/ultima-hora-incendios-espana-directo-132759066)<br>
+07:59 [La "casa Playboy" de Nacho Vidal donde murió un fotógrafo tras el rito del sapo bufo se alquila por 2.600 euros al mes](https://www.elperiodico.com/es/sociedad/20260803/casa-playboy-nacho-vidal-murio-132983202)<br>
+07:55 [Munich negocia un ERE para despedir a unos 65 trabajadores en su red de tiendas en España](https://www.elperiodico.com/es/economia/20260803/munich-negocia-ere-despedir-65-trabajadores-133039466)<br>
 06:45 [Cuba sufre un nuevo apagón total de su sistema eléctrico](https://www.elperiodico.com/es/internacional/20260803/uba-sufre-nuevo-apagon-total-133048119)<br>
 06:06 [Ir de vacaciones sin sobresaltos financieros requiere planificación y priorizar el presupuesto en lugar del destino](https://www.elperiodico.com/es/economia/20260803/vacaciones-sin-sobresaltos-financieros-claves-planificar-presupuesto-financiacion-132847612)<br>
 06:01 [Eclipses de ficción (1): Malos augurios y listillos en apuros](https://www.elperiodico.com/es/ocio-y-cultura/20260803/eclipses-ficcion-mark-twain-odisea-shakespeare-132998794)<br>
