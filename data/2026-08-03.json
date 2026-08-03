@@ -1,5 +1,95 @@
 [
   {
+    "title": "СБС уразили колону бензовозів РФ на ТОТ Запорізької області",
+    "link": "https://ua.korrespondent.net/ukraine/4899477-sbs-urazyly-kolonu-benzovoziv-rf-na-tot-zaporizkoi-oblasti",
+    "pubDate": "2026-08-03 06:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516769.png\">Уражено колону російських бензовозів у місті Приморськ на тимчасово окупованій території Запорізької області.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "СБС уразили колону бензовозів РФ на Запоріжжі",
+    "link": "https://ua.korrespondent.net/ukraine/4899477-sbs-urazyly-kolonu-benzovoziv-rf-na-zaporizhzhi",
+    "pubDate": "2026-08-03 06:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516769.png\">Уражено колону російських бензовозів у місті Приморськ на тимчасово окупованій території Запорізької області.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Cuba sufre un nuevo apagón total de su sistema eléctrico",
+    "link": "https://www.elperiodico.com/es/internacional/20260803/uba-sufre-nuevo-apagon-total-133048119",
+    "pubDate": "2026-08-03 06:45:18",
+    "category": "",
+    "description": "<h2>Se produce un nuevo apagón total en Cuba tras el restablecimiento parcial de la víspera, sumiendo al país en una crisis energética persistente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав кількість знищених окупантів",
+    "link": "https://ua.korrespondent.net/ukraine/4899475-henshtab-nazvav-kilkist-znyschenykh-okupantiv",
+    "pubDate": "2026-08-03 06:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516742.jpg\">Загальні бойові втрати російської армії з 24.02.22 по 03.08.26 орієнтовно склали близько 1 450 510 (+1 390) осіб.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "¿Se puede obligar a Infantino a dimitir como presidente de la FIFA? Hay vías, pero difíciles de prosperar",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/infantino-presidente-fifa-dimision-dificiles-vias-133042623",
+    "pubDate": "2026-08-03 06:15:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Por primera vez desde que manda en el máximo organismo internacional las peticiones para que deje el cargo se han hecho oír con fuerza</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260801/plan-infantino-fracasa-fifa-suspende-133010486\" >El plan de Infantino fracasa y la FIFA suspende la privatización del Mundial: \"La propuesta no seguirá adelante\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Vinicius está celoso de Mbappé y acabará forzando su salida del Real Madrid",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/vinicius-celoso-mbappe-acabara-forzando-133046524",
+    "pubDate": "2026-08-03 06:10:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Clase magistral de Márquez",
+    "link": "https://www.elperiodico.com/es/videos/deportes/clase-magistral-marquez/133021463.shtml",
+    "pubDate": "2026-08-03 06:09:36",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Marc, el miniyo de 9 años que imita a Márquez: “Me encanta cómo te enseña a pilotar”",
+    "link": "https://www.elperiodico.com/es/deportes/20260803/marc-miniyo-9-anos-imita-133043123",
+    "pubDate": "2026-08-03 06:09:35",
+    "category": "",
+    "description": "<h2 class=\"item\">En la vida para que te ocurran cosas mágicas, no solo debes merecerlas sino tener suerte. Como la que tuvo el pequeño Marc Solés, de 9 años, piloto de las pequeñas categorías que, de pronto, se encontró, en Motorland, con diez de los mejores pilotos del mundo, entre ellos los hermano Marc y Àlex Márquez.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ir de vacaciones sin sobresaltos financieros requiere planificación y priorizar el presupuesto en lugar del destino",
+    "link": "https://www.elperiodico.com/es/economia/20260803/vacaciones-sin-sobresaltos-financieros-claves-planificar-presupuesto-financiacion-132847612",
+    "pubDate": "2026-08-03 06:06:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Casi el 95% de los españoles asegura que se irá de vacaciones estivales y 4 de cada 10 consideran imprescindible que los operadores turísticos les ofrezcan la posibilidad de financiar el viaje</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260803/viajar-extranjero-seguridad-imprevistos-tarjetas-sin-comisiones-132865428\">Viajar al extranjero con seguridad y sin imprevistos: estas son las mejores tarjetas sin comisiones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 'nepo babies' llegan al mundo 'influencer': la hermana de Marta Díaz y la hija de Bustamante y Echevarría cumplen la mayoría de edad con su salto a las redes sociales",
+    "link": "https://www.elperiodico.com/es/gente/20260803/nepo-babies-llegan-mundo-influencer-132928359",
+    "pubDate": "2026-08-03 06:06:29",
+    "category": "",
+    "description": "<h2 class=\"item\">La hermana menor de la creadora de contenido, hasta ahora anónima, suma más de 400.000 seguidores en dos días tras su debut público en La Velada, mientras la hija del cantante y la actriz ficha por una agencia de representación de 'influencers'</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Bares y restaurantes emblemáticos de Barcelona alzan la voz para que el Raval recupere su afluencia histórica",
     "link": "https://www.elperiodico.com/es/barcelona/20260803/bares-restaurantes-emblematicos-barcelona-alzan-voz-raval-recupere-afluencia-132945853",
     "pubDate": "2026-08-03 06:02:50",
@@ -34,6 +124,15 @@
     "description": "<h2 class=\"item\">El Govern defiende que el retraso en la aprobación del PLATER no impide el avance de decenas de proyectos eólicos y fotovoltaicos</h2><h2 class=\"item\">Territori se propone incluir las objeciones en una nueva propuesta que verá la luz después de las elecciones municipales del próximo mayo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260705/silvia-paneque-sectores-ambientalistas-reflexion-contra-energias-renovables-132090292\" target=\"_blank\">Sílvia Paneque: \"Ciertos sectores ambientalistas deberían hacer una profunda reflexión cuando se sitúan en contra de parques renovables\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Ocho de cada diez empresas consolidadas frenan su crecimiento por la presión burocrática",
+    "link": "https://www.elperiodico.com/es/economia/20260803/ocho-diez-empresas-consolidadas-frenan-133047269",
+    "pubDate": "2026-08-03 06:01:22",
+    "category": "",
+    "description": "<h2>El 51,6% denuncia duplicidades en los requerimientos de información entre los distintos niveles de la Administración, según un informe del Foro de Marcas Renombradas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
   },
   {
     "title": "Aqualia y Global Omnium consideran \"totalmente injustificable\" la oferta económica de Veolia al gran contrato de agua del área de Barcelona",
@@ -105,6 +204,15 @@
     "category": "",
     "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260731/encuesta-periodico-elecciones-catalunya-datos-internos-gesop-132925681\" target=\"_blank\">La encuesta de EL PERIÓDICO sobre las elecciones en Catalunya, al completo: tablas, cruces y microdatos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260731/alianca-catalana-votos-elecciones-catalunya-perfil-votante-encuesta-132925298\" target=\"_blank\">¿De dónde saldrían los 867.000 votos de Aliança Catalana? Perfil del votante de Orriols</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260619/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260606/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
     "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 02.08: Удари по тилу РФ і російські атаки",
+    "link": "https://ua.korrespondent.net/ukraine/4899406-pidsumky-0208-udary-po-tylu-rf-i-rosiiski-ataky",
+    "pubDate": "2026-08-03 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4516304.jpg\">Українські дрони атакували військові об'єкти в Росії; Зеленський закликав партнерів збільшити тиск на воєнне виробництво РФ.",
+    "topic": "підсумки",
     "topic_match_probability": 100
   },
   {
