@@ -1,10 +1,17 @@
-# News for 2026-08-03 09:42
+# News for 2026-08-03 10:25
 
 Previous day: [2026-08-02](./data/2026-08-02.md)
 
 ## ua.korrespondent.net
+10:23 [Україна наростила експорт зерна на понад 50%](https://ua.korrespondent.net/business/economics/4899518-ukraina-narostyla-eksport-zerna-na-ponad-50)<br>
+10:17 [Як AIR Brands систематизували продажі з NetHunt CRM](https://ua.korrespondent.net/business/4898342-yak-AIR-Brands-systematyzuvaly-prodazhi-z-NetHunt-CRM)<br>
+10:14 [Армійський "кріт" ГРУ коригував удари по АЗС](https://ua.korrespondent.net/ukraine/4899517-armiiskyi-krit-hru-koryhuvav-udary-po-azs)<br>
+09:59 [У Словаччині розбився літак, серед загиблих дитина](https://ua.korrespondent.net/world/4899515-u-slovachchyni-rozbyvsia-litak-sered-zahyblykh-dytyna)<br>
+09:56 [Дрони знову спалили склад Wildberries у Росії](https://ua.korrespondent.net/world/russia/4899512-drony-znovu-spalyly-sklad-Wildberries-u-rosii)<br>
+09:48 [Вибухи на полігоні Хмельниччини: рятувальники досі обстежують територію](https://ua.korrespondent.net/ukraine/4899511-vybukhy-na-polihoni-khmelnychchyny-riatuvalnyky-dosi-obstezhuuit-terytoriui)<br>
 09:13 [В Україні з початку року зафіксовано понад 108 тисяч боргів за комуналку](https://ua.korrespondent.net/ukraine/4899501-v-ukraini-z-pochatku-roku-zafiksovano-ponad-108-tysiach-borhiv-za-komunalku)<br>
 08:47 [В Італії туристичний автобус потрапив у ДТП: шестеро загиблих](https://ua.korrespondent.net/world/4899496-v-italii-turystychnyi-avtobus-potrapyv-u-dtp-shestero-zahyblykh)<br>
+08:32 [Ціни на нафту різко впали після заяви Трампа щодо Ірану](https://ua.korrespondent.net/business/economics/4899491-tsiny-na-naftu-rizko-vpaly-pislia-zaiavy-trampa-schodo-iranu)<br>
 05:14 [У Бєлгороді після атаки згорів університет, де розробляли безпілотники](https://ua.korrespondent.net/world/russia/4899472-u-bielhorodi-pislia-ataky-zghoriv-universytet-de-rozroblialy-bezpilotnyky)<br>
 03:53 [Смертник у Пакистані атакував акцію за мир: 14 загиблих, багато поранених](https://ua.korrespondent.net/world/4899464-smertnyk-u-pakystani-atakuvav-aktsiui-za-myr-14-zahyblykh-bahato-poranenykh)<br>
 
@@ -12,9 +19,15 @@ Previous day: [2026-08-02](./data/2026-08-02.md)
 07:18 [Armoni Brooks, de nuevo en el radar del Real Madrid](https://as.com/baloncesto/euroliga/armoni-brooks-de-nuevo-en-el-radar-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:13 [Un incendio provoca el colapso de un tejado en Chamberí y obliga a desalojar a 15 vecinos](https://www.elperiodico.com/es/videos/sucesos/incendio-provoca-colapso-tejado-chamberi-madrid/133051518.shtml)<br>
+10:04 [Una jubilada se construye una cabaña en el bosque de Girona y vive en ella con una pensión de 800 euros: "No me gustan los pisos"](https://www.elperiodico.com/es/economia/20260803/jubilada-construye-cabana-bosque-girona-pension-800-euros-dv-et-133051071)<br>
+10:00 [El modo del aire acondicionado que nadie conoce y que te salvará la vida en la cuarta ola de calor: enfría y ahorra al mismo tiempo](https://www.elperiodico.com/es/sociedad/20260803/aire-acondicionado-modo-ahorro-enfriar-mas-dv-133039364)<br>
+09:58 [Una huelga indefinida en el 'handling' del aeropuerto de Barcelona-El Prat amenaza las vacaciones de dos millones de pasajeros a partir de este martes](https://www.elperiodico.com/es/economia/20260803/huelga-indefinida-handling-aeropuerto-barcelona-el-prat-agosto-132950433)<br>
+09:46 [Precio del petróleo hoy, 3 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260803/precio-petroleo-hoy-3-agosto-ultima-hora-dv-133050626)<br>
 09:40 [Científicos españoles crean un “cerebro cuántico” inspirado en la plasticidad neuronal humana](https://www.elperiodico.com/es/tendencias21/20260803/cientificos-espanoles-crean-cerebro-cuantico-133050496)<br>
 09:40 [Crean una plataforma para cubrir guardias y turnos vacantes de sanitarios en Baleares](https://www.elperiodico.com/es/sociedad/20260803/crean-plataforma-cubrir-guardias-turnos-133050474)<br>
 09:40 [Incendios hoy, 3 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260803/incendios-hoy-3-agosto-cataluna-espana-mapa-fuegos-activos-ultima-hora-dv-133050403)<br>
+09:40 [Cirugía robótica en ginecología: precisión y recuperación más rápida](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/cirugia-robotica-ginecologia-precision-recuperacion/128781120.shtml)<br>
 09:36 [El turismo roza los 50 millones en la primera mitad del año tras un avance del 4,9%](https://www.elperiodico.com/es/economia/20260803/turismo-roza-50-millones-primera-mitad-2026-ine-datos-133050348)<br>
 09:30 [10 euros el metro cuadrado: la localidad de Catalunya donde alquilar un piso sale bastante barato](https://www.elperiodico.com/es/vivienda/20260803/alquiler-piso-cataluna-mas-barato-tortosa-metro-cuadrado-ranking-espana-dv-loc-132945692)<br>
 09:14 [El tifón Noul deja alertas por inundaciones en el sur de China tras avanzar hacia el interior](https://www.elperiodico.com/es/videos/internacional/tifon-noul-deja-alertas-inundaciones-china-video/133049722.shtml)<br>
