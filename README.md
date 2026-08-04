@@ -1,20 +1,46 @@
-# News for 2026-08-04 12:49
+# News for 2026-08-04 14:20
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
 ## ua.korrespondent.net
+13:55 [Наводили удари по Запоріжжю: затримано двох агентів РФ](https://ua.korrespondent.net/ukraine/4899932-navodyly-udary-po-zaporizhzhui-zatrymano-dvokh-ahentiv-rf)<br>
+13:35 [Вийшов трейлер фільму Хижі води від режисера Міцного горішка 2](https://ua.korrespondent.net/showbiz/cinema/4899919-vyishov-treiler-filmu-khyzhi-vody-vid-rezhysera-mitsnoho-horishka-2)<br>
+13:28 [Глава Aramco попередив про глобальну нафтову кризу](https://ua.korrespondent.net/business/4899923-hlava-Aramco-poperedyv-pro-hlobalnu-naftovu-kryzu)<br>
+13:27 [У ВМС пояснили, навіщо РФ атакує старі судна в Миколаєві](https://ua.korrespondent.net/ukraine/4899920-u-vms-poiasnyly-navischo-rf-atakuie-stari-sudna-v-mykolaievi)<br>
+13:20 [Загибель 17-річної дівчини на Київщині: посадовці соцслужб отримали підозри](https://ua.korrespondent.net/ukraine/4899917-zahybel-17-richnoi-divchyny-na-kyivschyni-posadovtsi-sotssluzhb-otrymaly-pidozry)<br>
+13:19 [Сили оборони уразили мости і базу ФСБ](https://ua.korrespondent.net/ukraine/4899916-syly-oborony-urazyly-mosty-i-bazu-fsb)<br>
+12:55 [Масова смерть на пляжі. Робота ППО Росії](https://ua.korrespondent.net/world/russia/4899889-masova-smert-na-pliazhi-robota-ppo-rosii)<br>
+12:51 [На Хмельниччині директора мовного центру підозрюють у розбещенні учениць](https://ua.korrespondent.net/ukraine/4899908-na-khmelnychchyni-dyrektora-movnoho-tsentru-pidozruiuit-u-rozbeschenni-uchenyts)<br>
+12:43 [Молдова обмежила споживання води через обміління Дністра](https://ua.korrespondent.net/world/4899903-moldova-obmezhyla-spozhyvannia-vody-cherez-obmilinnia-dnistra)<br>
+12:39 [Україна вперше у світі провела повітряний штурм роботами](https://ua.korrespondent.net/ukraine/4899901-ukraina-vpershe-u-sviti-provela-povitrianyi-shturm-robotamy)<br>
+12:34 [Краматорськ під бомбовим ударом, десятки поранених](https://ua.korrespondent.net/ukraine/4899897-kramatorsk-pid-bombovym-udarom-desiatky-poranenykh)<br>
+12:31 [Бельгія стала повністю залежною від імпорту російського СПГ](https://ua.korrespondent.net/world/4899896-belhiia-stala-povnistui-zalezhnoui-vid-importu-rosiiskoho-sph)<br>
+12:24 [НБУ заперечив вимоги щодо персональних даних у квитанціях](https://ua.korrespondent.net/business/4899892-nbu-zaperechyv-vymohy-schodo-personalnykh-danykh-u-kvytantsiiakh)<br>
+12:16 [Італію знову сколихнув землетрус: цього разу в районі Пізи](https://ua.korrespondent.net/world/4899890-italiui-znovu-skolykhnuv-zemletrus-tsoho-razu-v-raioni-pizy)<br>
 11:41 [Курси долара і євро знижуються в обмінниках](https://ua.korrespondent.net/business/financial/4899875-kursy-dolara-i-yevro-znyzhuuitsia-v-obminnykakh)<br>
 11:40 [Інвестиції українців у державні облігації досягли історичного максимуму](https://ua.korrespondent.net/business/financial/4899873-investytsii-ukraintsiv-u-derzhavni-oblihatsii-dosiahly-istorychnoho-maksymumu)<br>
 11:33 [Акції Amazon злетіли після прориву хмарного бізнесу та ШІ](https://ua.korrespondent.net/business/companies/4899864-aktsii-Amazon-zletily-pislia-proryvu-khmarnoho-biznesu-ta-shi)<br>
 11:22 [Серпень-2026: календар свят в Україні та світі, скільки буде вихідних](https://ua.korrespondent.net/lifestyle/4899858-serpen-2026-kalendar-sviat-v-ukraini-ta-sviti-skilky-bude-vykhidnykh)<br>
 11:00 [Давню мармурову статую, якій 2500 років, виявили в Туреччині](https://ua.korrespondent.net/tech/science/4899849-davnui-marmurovu-statuui-yakii-2500-rokiv-vyiavyly-v-turechchyni)<br>
 10:53 [Житель Києва влаштував стрілянину у дворі житлових будинків](https://ua.korrespondent.net/city/kiev/4899847-zhytel-kyieva-vlashtuvav-strilianynu-u-dvori-zhytlovykh-budynkiv)<br>
+10:37 [В Apple назвали причину вилучення Telegram з магазину додатків](https://ua.korrespondent.net/business/companies/4899840-v-Apple-nazvaly-prychynu-vyluchennia-Telegram-z-mahazynu-dodatkiv)<br>
+10:22 [Дрон РФ "полював" на продавця на ринку Херсона](https://ua.korrespondent.net/ukraine/4899834-dron-rf-poluivav-na-prodavtsia-na-rynku-khersona)<br>
 09:57 [4 серпня: яке сьогодні церковне свято, традиції, прикмети та заборони дня](https://ua.korrespondent.net/lifestyle/4899828-4-serpnia-yake-sohodni-tserkovne-sviato-tradytsii-prykmety-ta-zaborony-dnia)<br>
 09:54 [У Севастополі російський військовий вбив чотирьох людей](https://ua.korrespondent.net/ukraine/4899825-u-sevastopoli-rosiiskyi-viiskovyi-vbyv-chotyrokh-luidei)<br>
 08:56 [Лісова пожежа в Нідерландах охопила вже 100 гектарів](https://ua.korrespondent.net/world/4899804-lisova-pozhezha-v-niderlandakh-okhopyla-vzhe-100-hektariv)<br>
 08:41 [Ціни на нафту зросли після обвалу](https://ua.korrespondent.net/business/economics/4899798-tsiny-na-naftu-zrosly-pislia-obvalu)<br>
 
 ## www.elperiodico.com
+14:11 [El incendio de Castellón aún sin controlar y se investigan reactivaciones en Ávila](https://www.elperiodico.com/es/sociedad/20260804/incendio-castellon-controlar-investigan-reactivaciones-133090025)<br>
+14:04 [VÍDEO | Un dron ruso persigue y ataca a un vendedor de fruta en Jersón](https://www.elperiodico.com/es/internacional/20260804/video-dron-ruso-persigue-ataca-vendedor-fruta-jerson-133089169)<br>
+14:01 [El aviso de privacidad que no debes ignorar: para qué sirve el punto de color que aparece en tu móvil](https://www.elperiodico.com/es/vida-y-estilo/20260804/notificaciones-sonidos-aviso-secreto-movil-nadie-sabe-para-que-sirve-dv-120618106)<br>
+14:00 [Se buscan 5.000 voluntarios en Catalunya para formar parte de un experimento científico durante el eclipse solar](https://www.elperiodico.com/es/sociedad/20260804/buscan-5-000-voluntarios-catalunya-experimento-eclipse-solar-133084851)<br>
+13:58 [VIDEO | El ataque de un dron suicida ruso contra un vendedor de fruta en Jersón](https://www.elperiodico.com/es/videos/internacional/video-ataque-dron-suicida-ruso/133089306.shtml)<br>
+13:39 [Pasajeros en el aeropuerto de Barcelona-El Prat durante una jornada de huelga de personal](https://www.elperiodico.com/es/fotos/economia/pasajeros-aeropuerto-barcelona-prat-jornada-huelga-personal-fotos-133088598)<br>
+13:33 [Un dron alcanza un buque cerca de un puerto ruso y deja tres tripulantes en estado crítico](https://www.elperiodico.com/es/videos/internacional/dron-alcanza-buque-puerto-ruso/133088375.shtml)<br>
+13:17 [Las olas de calor disparan el consumo de luz a su nivel más alto desde enero de 2008](https://www.elperiodico.com/es/economia/20260804/olas-calor-disparan-consumo-electrico-nivel-mas-alto-enero-2008-133087212)<br>
+13:10 [Dónde se verá mejor el eclipse solar del 12 de agosto y qué necesitas para verlo de forma segura](https://www.elperiodico.com/es/shopping/20260804/eclipse-solar-donde-ver-mejor-productos-133066302)<br>
+12:51 [Ataque ruso en Sumy deja tres muertos, entre ellos dos niñas y una mujer mayor](https://www.elperiodico.com/es/videos/internacional/ataque-ruso-sumy-deja-tres/133085850.shtml)<br>
 12:35 [Consumo multa al festival Reggaeton Beach con 320.000 euros por prácticas abusivas](https://www.elperiodico.com/es/economia/20260804/consumo-multa-festival-reggaeton-beach-133085355)<br>
 12:30 [Marco Bermúdez, CEO a los14 años: "No es que haya dejado de hacer las cosas que hace un chaval de mi edad, pero yo, viniendo a estos eventos y emprendiendo, me lo paso bien"](https://www.elperiodico.com/es/economia/20260804/marco-bermudez-emprendedor-14-anos-creatividad-dv-131256297)<br>
 12:17 [El Supremo de California falla a favor de la farmacéutica Gilead Sciences en la demanda de 24.000 personas con VIH](https://www.elperiodico.com/es/internacional/20260804/supremo-california-falla-favor-farmaceutica-gilead-demanda-farmaco-vih-patente-133084640)<br>
@@ -54,6 +80,7 @@ Previous day: [2026-08-03](./data/2026-08-03.md)
 06:01 [El complejo control legal de las habitaciones de alquiler dispara el 'negocio' y los precios en Barcelona](https://www.elperiodico.com/es/barcelona/20260804/complejo-control-legal-habitaciones-alquiler-dispara-precios-negocio-barcelona-132961934)<br>
 06:01 [Andrea, 50 años, vive en una habitación de alquiler: "Comparto piso para poder darme algún capricho y no solo llegar a fin de mes"](https://www.elperiodico.com/es/barcelona/20260804/andrea-historias-habitacion-alquilada-piso-compartido-132997227)<br>
 06:00 [Las cámaras y los móviles también necesitan sus "gafas del eclipse": "Sin filtro adecuado se puede quemar el sensor de forma irreversible"](https://www.elperiodico.com/es/sociedad/20260804/camaras-moviles-necesitan-gafas-eclipse-132781404)<br>
+06:00 [¿Por qué cae la venta de casas en las grandes ciudades y las islas y se dispara en Teruel o Cuenca?](https://www.elperiodico.com/es/economia/20260804/programado-espanas-posible-hunda-venta-133065883)<br>
 06:00 [Eclipses de ficción (2): Un 'deus ex machina' colonial en el altar de los sacrificios](https://www.elperiodico.com/es/ocio-y-cultura/20260804/eclipses-ficcion-colon-tintin-el-templo-del-sol-133054307)<br>
 06:00 [Ana Espinosa: "La nanomedicina está mejorando los tratamientos para que sean más precisos, más eficientes y con menos efectos secundarios"](https://www.elperiodico.com/es/sociedad/20260804/ana-espinosa-nanomedicina-tratamientos-cancer-investigacion-csic-133075298)<br>
 06:00 [La noche en que Nureyev bailó en Benidorm y trajo de cabeza a los promotores: pidió un mayordomo, un masajista y acabar la noche acompañado](https://www.elperiodico.com/es/ocio-y-cultura/20260804/noche-nureyev-bailo-benidorm-trajo-cabeza-promotores-133075319)<br>
