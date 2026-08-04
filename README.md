@@ -1,4 +1,4 @@
-# News for 2026-08-04 12:11
+# News for 2026-08-04 12:49
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
@@ -15,6 +15,9 @@ Previous day: [2026-08-03](./data/2026-08-03.md)
 08:41 [Ціни на нафту зросли після обвалу](https://ua.korrespondent.net/business/economics/4899798-tsiny-na-naftu-zrosly-pislia-obvalu)<br>
 
 ## www.elperiodico.com
+12:35 [Consumo multa al festival Reggaeton Beach con 320.000 euros por prácticas abusivas](https://www.elperiodico.com/es/economia/20260804/consumo-multa-festival-reggaeton-beach-133085355)<br>
+12:30 [Marco Bermúdez, CEO a los14 años: "No es que haya dejado de hacer las cosas que hace un chaval de mi edad, pero yo, viniendo a estos eventos y emprendiendo, me lo paso bien"](https://www.elperiodico.com/es/economia/20260804/marco-bermudez-emprendedor-14-anos-creatividad-dv-131256297)<br>
+12:17 [El Supremo de California falla a favor de la farmacéutica Gilead Sciences en la demanda de 24.000 personas con VIH](https://www.elperiodico.com/es/internacional/20260804/supremo-california-falla-favor-farmaceutica-gilead-demanda-farmaco-vih-patente-133084640)<br>
 12:06 [Juanma Lorente, abogado laboralista: "Tu antigüedad en la empresa no debe ser la fecha en la que te hicieron indefinido"](https://www.elperiodico.com/es/economia/20260804/juanma-lorente-abogado-laboralista-antiguedad-trabajador-empresa-contrato-indefinido-dv-133082874)<br>
 12:03 [La pesca de gamba roja de Badalona a Vilanova, detenida por los topes europeos en un año de población "extraordinaria"](https://www.elperiodico.com/es/barcelona/20260804/pesca-gamba-roja-badalona-vilanova-detenida-topes-europeos-133082217)<br>
 12:00 [Escapada cerca de Sant Cugat: el paraíso del senderismo a tan solo 45 minutos](https://www.elperiodico.com/es/barcelona/sant-cugat/20260804/bonito-pueblo-cuento-45-minutos-sant-cugat-dv-loc-111024509)<br>
