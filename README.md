@@ -1,8 +1,10 @@
-# News for 2026-08-04 17:02
+# News for 2026-08-04 19:02
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
 ## ua.korrespondent.net
+17:22 [Єдиний виробник телевізорів у Росії збанкрутував через борги](https://ua.korrespondent.net/world/russia/4899992-yedynyi-vyrobnyk-televizoriv-u-rosii-zbankrutuvav-cherez-borhy)<br>
+17:17 [СЗЧшник вбив дівчину: нові деталі різанини](https://ua.korrespondent.net/ukraine/4899989-szchshnyk-vbyv-divchynu-novi-detali-rizanyny)<br>
 16:53 [У Гватемалі прокинувся вулкан Фуего](https://ua.korrespondent.net/world/4899983-u-hvatemali-prokynuvsia-vulkan-fueho)<br>
 16:44 [Після від’їзду Путіна у Красноярську злетіли ціни на пальне](https://ua.korrespondent.net/business/economics/4899980-pislia-vidizdu-putina-u-krasnoiarsku-zletily-tsiny-na-palne)<br>
 16:36 [У Вроцлаві жінка з ножами погрожувала українцям](https://ua.korrespondent.net/world/4899977-u-vrotslavi-zhinka-z-nozhamy-pohrozhuvala-ukraintsiam)<br>
@@ -48,10 +50,24 @@ Previous day: [2026-08-03](./data/2026-08-03.md)
 08:41 [Ціни на нафту зросли після обвалу](https://ua.korrespondent.net/business/economics/4899798-tsiny-na-naftu-zrosly-pislia-obvalu)<br>
 
 ## as.com
+18:24 [Gabriel Deck ya es español](https://as.com/baloncesto/acb/gabriel-deck-ya-es-espanol-f202608-n/)<br>
 15:25 [La Euroliga crece a pasos agigantados en el entorno digital](https://as.com/baloncesto/euroliga/la-euroliga-crece-a-pasos-agigantados-en-el-entorno-digital-f202608-n/)<br>
 08:20 [El verano en llamas del ASVEL](https://as.com/baloncesto/euroliga/el-verano-en-llamas-del-asvel-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:00 [¿Puedes irte de viaje estas vacaciones si estás de baja médica? Un abogado laboralista lo aclara](https://www.elperiodico.com/es/economia/20260804/viaje-vacaciones-baja-medica-posibles-problemas-legales-dv-133042609)<br>
+18:49 [El volcán de Fuego entra en erupción en Guatemala](https://www.elperiodico.com/es/videos/sociedad/volcan-fuego-entra-erupcion-guatemala/133098668.shtml)<br>
+18:45 [El inicio temprano en las redes sociales ralentiza el éxito académico](https://www.elperiodico.com/es/tendencias21/20260804/inicio-temprano-redes-sociales-ralentiza-133098501)<br>
+18:42 [Resuelto el misterio de la urna hallada en un supermercado de Benidorm: la familia la dejó allí porque estaba haciendo obras en su casa](https://www.elperiodico.com/es/sociedad/20260804/resuelto-misterio-urna-hallada-supermercado-funeraria-olvido-inesperado-obras-en-casa-133098434)<br>
+18:36 [¿Qué harán los animales durante el eclipse?: una red ciudadana grabará sus movimientos cuando el sol desaparezca](https://www.elperiodico.com/es/sociedad/20260804/reaccion-animales-durante-eclipse-solar-ciencia-ciudadana-133086297)<br>
+18:18 [El contundente mensaje de Georgina tras las críticas: "¿Quién decide cuál es el cuerpo correcto? El valor de una persona jamás puede depender de un físico"](https://www.elperiodico.com/es/gente/20260804/georgina-criticas-contundente-mensaje-fotos-barco-biquini-dv-et-133096669)<br>
+18:10 [El chocante antes y el después de la rehabilitación de la ‘Capella dels Segadors’ de Barcelona](https://www.elperiodico.com/es/barcelona/20260804/antes-despues-rehabilitacion-capella-dels-segadors-sant-andreu-himno-catalunya-133096958)<br>
+18:02 [Los locales comerciales 'prime' mejor situados se encarecen un 9,6% impulsados por la escasez de oferta](https://www.elperiodico.com/es/economia/20260804/locales-comerciales-prime-mejor-situados-133094115)<br>
+18:00 [El calor extremo en los ancianos eleva los ahogamientos en Catalunya hasta un récord histórico](https://www.elperiodico.com/es/sucesos/20260804/calor-extremo-ancianos-dispara-ahogamientos-cataluna-record-133085835)<br>
+18:00 [¿Pierdes días libres si empiezas tus vacaciones de verano mañana sábado 1 de agosto? Esto dice la ley](https://www.elperiodico.com/es/economia/20260804/vacaciones-agosto-empezar-sabado-perder-dias-libres-dv-133042681)<br>
+17:50 [El supermercado 'gafe' de un mercado de Barcelona: segunda subasta desierta pese a una rebaja del 92%](https://www.elperiodico.com/es/barcelona/20260804/supermercado-gafe-mercado-barcelona-segunda-subasta-desierta-133093485)<br>
+17:23 [Detenido por intentar matar a una mujer con una botella de cristal en el mismo lugar de Badalona donde ya había sido detenido](https://www.elperiodico.com/es/barcelona/20260804/matar-mujer-botella-cristal-lugar-badalona-detenido-133095069)<br>
+17:13 [Las cámaras y los móviles también necesitan sus "gafas del eclipse": "Sin filtro adecuado se puede quemar el sensor de forma irreversible"](https://www.elperiodico.com/es/videos/sociedad/camaras-moviles-necesitan-gafas-eclipse/133095413.shtml)<br>
 16:35 [Rescatan a más de 150 migrantes en el Canal de la Mancha tras incendiarse una embarcación](https://www.elperiodico.com/es/internacional/20260804/rescatan-migrantes-canal-mancha-incendiarse-embarcacion-133094579)<br>
 16:32 [Tere, última habitante de un pueblo abandonado: "Siento demasiada pena cuando pienso que el día que yo no esté"](https://www.elperiodico.com/es/economia/20260804/ultima-habitante-pueblo-abandonado-asturias-tere-dv-et-132638064)<br>
 16:25 [Catalunya, en alerta por lluvias intensas acompañadas de tormenta y granizo](https://www.elperiodico.com/es/videos/sociedad/catalunya-alerta-lluvias-intensas-acompanadas/133094273.shtml)<br>
