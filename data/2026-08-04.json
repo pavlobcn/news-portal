@@ -1,5 +1,68 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 5 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260804/portada-periodico-5-agosto-2026-133103896",
+    "pubDate": "2026-08-04 23:33:34",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Чехія змінила правила надання тимчасового захисту українцям",
+    "link": "https://ua.korrespondent.net/ukraine/4900057-chekhiia-zminyla-pravyla-nadannia-tymchasovoho-zakhystu-ukraintsiam",
+    "pubDate": "2026-08-04 23:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518580.jpeg\">Чоловікам призовного віку необхідно буде підтвердити виконання своїх військових обов'язків через заявку Резерв+.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "SpaceX perdió 5.488 millones de dólares en el primer semestre de 2026, un 257% más",
+    "link": "https://www.elperiodico.com/es/economia/20260804/spacex-perdio-millones-primer-semestre-2026-133103688",
+    "pubDate": "2026-08-04 22:53:33",
+    "category": "",
+    "description": "<h2>Son las primeras cuentas divulgadas por la compañía de Elon Musk desde su histórica salida a bolsa en junio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Повернути Федорова: в Україні 20-ий день тривають протести",
+    "link": "https://ua.korrespondent.net/ukraine/4900053-povernuty-fedorova-v-ukraini-20-yi-den-tryvauit-protesty",
+    "pubDate": "2026-08-04 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518563.jpg\">По всій Україні вже 20 днів триває \"картонковий майдан\". Учасники акцій вимагають, щоб влада їх почула.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Familia Real recibe a la sociedad balear en Marivent",
+    "link": "https://www.elperiodico.com/es/politica/20260804/familia-real-recepcion-sociedad-balear-palacio-marivent-mallorca-133103620",
+    "pubDate": "2026-08-04 22:47:56",
+    "category": "",
+    "description": "<h2>Felipe VI y la reina Letizia han estado en todo momento acompañados por sus hijas y la reina emérita, doña Sofía</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Кілька клубів претендують на нападника Манчестер Юнайтед",
+    "link": "https://ua.korrespondent.net/sport/football/4900051-kilka-klubiv-pretenduuit-na-napadnyka-manchester-yunaited",
+    "pubDate": "2026-08-04 22:36:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518564.jpg\">Форвард Манчестер Юнайтед Маркус Решфорд привернув увагу кількох покупців, але гравець, ймовірно, продовжить виступи в АПЛ.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни атакували дитячу лікарню у Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4900049-rosiiany-atakuvaly-dytiachu-likarnui-u-zaporizhzhi",
+    "pubDate": "2026-08-04 22:24:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518543.jpg\">На щастя усі діти разом з медиками перебували в укритті. Однак будівля медзакладу була пошкоджена.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Muere el guitarrista flamenco Pepe Habichuela",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260804/muere-pepe-habichuela-guitarrista-flamenco-133102322",
     "pubDate": "2026-08-04 22:02:25",
@@ -16,6 +79,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518535.jpg\">США беруть участь у переговорах щодо того, як забезпечити безпечний прохід більшої кількості суден через протоку.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Напади на українців в Польщі. Як змінити ситуацію",
+    "link": "https://ua.korrespondent.net/ukraine/4900055-napady-na-ukraintsiv-v-polschi-yak-zminyty-sytuatsiui",
+    "pubDate": "2026-08-04 21:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518579.jpg\">Політикам та медійним особам варто припинити використовувати побутові конфлікти чи кримінальні інциденти для підняття рейтингів.",
+    "topic": "політика",
+    "topic_match_probability": 45
   },
   {
     "title": "Cómo se crearon los fondos para comprar el ático de Martínez Campos",

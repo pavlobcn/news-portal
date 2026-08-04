@@ -1,8 +1,9 @@
-# News for 2026-08-04 22:16
+# News for 2026-08-04 23:41
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
 ## ua.korrespondent.net
+22:24 [Росіяни атакували дитячу лікарню у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4900049-rosiiany-atakuvaly-dytiachu-likarnui-u-zaporizhzhi)<br>
 21:56 [Є прогрес в переговорах щодо відновлення роботи Ормузької протоки - Рубіо](https://ua.korrespondent.net/world/4900047-ye-prohres-v-perehovorakh-schodo-vidnovlennia-roboty-ormuzkoi-protoky-rubio)<br>
 21:35 [Вчені пов'язали ранній доступ до соцмереж з гіршими результатами у школі](https://ua.korrespondent.net/tech/science/4900042-vcheni-poviazaly-rannii-dostup-do-sotsmerezh-z-hirshymy-rezultatamy-u-shkoli)<br>
 21:34 [Росіянам запустили прямі авіарейси до Сирії та Іраку](https://ua.korrespondent.net/world/4900038-rosiianam-zapustyly-priami-aviareisy-do-syrii-ta-iraku)<br>
@@ -65,6 +66,7 @@ Previous day: [2026-08-03](./data/2026-08-03.md)
 08:20 [El verano en llamas del ASVEL](https://as.com/baloncesto/euroliga/el-verano-en-llamas-del-asvel-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:53 [SpaceX perdió 5.488 millones de dólares en el primer semestre de 2026, un 257% más](https://www.elperiodico.com/es/economia/20260804/spacex-perdio-millones-primer-semestre-2026-133103688)<br>
 22:02 [Muere el guitarrista flamenco Pepe Habichuela](https://www.elperiodico.com/es/ocio-y-cultura/20260804/muere-pepe-habichuela-guitarrista-flamenco-133102322)<br>
 21:40 [El supermercado 'gafe' de un mercado de Barcelona: segunda subasta desierta pese a una rebaja del 92%](https://www.elperiodico.com/es/videos/economia/supermercado-gafe-mercado-barcelona-segunda/133102058.shtml)<br>
 21:19 [Las oenegés denuncian traslados forzosos en Marruecos de menores que intentaron entrar en Ceuta: "No pueden volver a su casa"](https://www.elperiodico.com/es/videos/internacional/oeneges-denuncian-traslados-forzosos-marruecos/133101854.shtml)<br>
