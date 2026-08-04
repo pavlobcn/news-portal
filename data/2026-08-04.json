@@ -1,5 +1,23 @@
 [
   {
+    "title": "El horóscopo de mañana, miércoles 5 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260804/horoscopo-hoy-miercoles-5-agosto-dv-132931703",
+    "pubDate": "2026-08-04 23:59:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Київ під масованим балістичним ударом",
+    "link": "https://ua.korrespondent.net/city/kiev/4900063-kyiv-pid-masovanym-balistychnym-udarom",
+    "pubDate": "2026-08-04 23:47:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518597.jpg\">Протягом 20 хвилин по столиці та області вдарило близько 25-30 ракет, пишуть моніторингові канали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La portada de EL PERIÓDICO del 5 de agosto de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20260804/portada-periodico-5-agosto-2026-133103896",
     "pubDate": "2026-08-04 23:33:34",
@@ -52,6 +70,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518564.jpg\">Форвард Манчестер Юнайтед Маркус Решфорд привернув увагу кількох покупців, але гравець, ймовірно, продовжить виступи в АПЛ.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Удари по Росії. Чого досягла 40-денна операція",
+    "link": "https://ua.korrespondent.net/ukraine/4900061-udary-po-rosii-choho-dosiahla-40-denna-operatsiia",
+    "pubDate": "2026-08-04 22:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518596.jpg\">СБУ перерахувала всі уражені цілі росіян протягом 40-денної кампанії, серед яких були військова авіація та системи ППО, паливно-енергетична інфраструктура, \"тіньовий флот\", військові цілі на полі бою, безпілотні системи тощо.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Росіяни атакували дитячу лікарню у Запоріжжі",

@@ -1,8 +1,10 @@
-# News for 2026-08-04 23:41
+# News for 2026-08-05 00:46
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
 ## ua.korrespondent.net
+23:47 [Київ під масованим балістичним ударом](https://ua.korrespondent.net/city/kiev/4900063-kyiv-pid-masovanym-balistychnym-udarom)<br>
+22:36 [Удари по Росії. Чого досягла 40-денна операція](https://ua.korrespondent.net/ukraine/4900061-udary-po-rosii-choho-dosiahla-40-denna-operatsiia)<br>
 22:24 [Росіяни атакували дитячу лікарню у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4900049-rosiiany-atakuvaly-dytiachu-likarnui-u-zaporizhzhi)<br>
 21:56 [Є прогрес в переговорах щодо відновлення роботи Ормузької протоки - Рубіо](https://ua.korrespondent.net/world/4900047-ye-prohres-v-perehovorakh-schodo-vidnovlennia-roboty-ormuzkoi-protoky-rubio)<br>
 21:35 [Вчені пов'язали ранній доступ до соцмереж з гіршими результатами у школі](https://ua.korrespondent.net/tech/science/4900042-vcheni-poviazaly-rannii-dostup-do-sotsmerezh-z-hirshymy-rezultatamy-u-shkoli)<br>
