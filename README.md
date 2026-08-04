@@ -1,19 +1,42 @@
-# News for 2026-08-04 10:03
+# News for 2026-08-04 12:11
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
 ## ua.korrespondent.net
+11:41 [Курси долара і євро знижуються в обмінниках](https://ua.korrespondent.net/business/financial/4899875-kursy-dolara-i-yevro-znyzhuuitsia-v-obminnykakh)<br>
+11:40 [Інвестиції українців у державні облігації досягли історичного максимуму](https://ua.korrespondent.net/business/financial/4899873-investytsii-ukraintsiv-u-derzhavni-oblihatsii-dosiahly-istorychnoho-maksymumu)<br>
+11:33 [Акції Amazon злетіли після прориву хмарного бізнесу та ШІ](https://ua.korrespondent.net/business/companies/4899864-aktsii-Amazon-zletily-pislia-proryvu-khmarnoho-biznesu-ta-shi)<br>
+11:22 [Серпень-2026: календар свят в Україні та світі, скільки буде вихідних](https://ua.korrespondent.net/lifestyle/4899858-serpen-2026-kalendar-sviat-v-ukraini-ta-sviti-skilky-bude-vykhidnykh)<br>
+11:00 [Давню мармурову статую, якій 2500 років, виявили в Туреччині](https://ua.korrespondent.net/tech/science/4899849-davnui-marmurovu-statuui-yakii-2500-rokiv-vyiavyly-v-turechchyni)<br>
+10:53 [Житель Києва влаштував стрілянину у дворі житлових будинків](https://ua.korrespondent.net/city/kiev/4899847-zhytel-kyieva-vlashtuvav-strilianynu-u-dvori-zhytlovykh-budynkiv)<br>
 09:57 [4 серпня: яке сьогодні церковне свято, традиції, прикмети та заборони дня](https://ua.korrespondent.net/lifestyle/4899828-4-serpnia-yake-sohodni-tserkovne-sviato-tradytsii-prykmety-ta-zaborony-dnia)<br>
 09:54 [У Севастополі російський військовий вбив чотирьох людей](https://ua.korrespondent.net/ukraine/4899825-u-sevastopoli-rosiiskyi-viiskovyi-vbyv-chotyrokh-luidei)<br>
 08:56 [Лісова пожежа в Нідерландах охопила вже 100 гектарів](https://ua.korrespondent.net/world/4899804-lisova-pozhezha-v-niderlandakh-okhopyla-vzhe-100-hektariv)<br>
 08:41 [Ціни на нафту зросли після обвалу](https://ua.korrespondent.net/business/economics/4899798-tsiny-na-naftu-zrosly-pislia-obvalu)<br>
 
 ## www.elperiodico.com
+12:06 [Juanma Lorente, abogado laboralista: "Tu antigüedad en la empresa no debe ser la fecha en la que te hicieron indefinido"](https://www.elperiodico.com/es/economia/20260804/juanma-lorente-abogado-laboralista-antiguedad-trabajador-empresa-contrato-indefinido-dv-133082874)<br>
+12:03 [La pesca de gamba roja de Badalona a Vilanova, detenida por los topes europeos en un año de población "extraordinaria"](https://www.elperiodico.com/es/barcelona/20260804/pesca-gamba-roja-badalona-vilanova-detenida-topes-europeos-133082217)<br>
+12:00 [Escapada cerca de Sant Cugat: el paraíso del senderismo a tan solo 45 minutos](https://www.elperiodico.com/es/barcelona/sant-cugat/20260804/bonito-pueblo-cuento-45-minutos-sant-cugat-dv-loc-111024509)<br>
+11:45 [Un espectacular doble arcoíris sorprende a turistas en las montañas de Anhui, China](https://www.elperiodico.com/es/videos/internacional/espectacular-doble-arcoiris-sorprende-turistas-china/133082850.shtml)<br>
+11:35 [La Fundación Pere Tarrés pone en marcha su casal social de verano en Torre Baró: "En casa estoy todo el día encerrada y con el móvil y aquí salgo de excursión y conozco gente"](https://www.elperiodico.com/es/sociedad/20260804/comienza-casal-verano-fundacio-pere-tarres-torre-baro-133078984)<br>
+11:33 [Muchos propietarios lo desconocen: así pueden incluir la reforma de la cocina en las ayudas Next Generation a la vivienda](https://www.elperiodico.com/es/economia/20260804/fondos-next-generation-vivienda-reforma-cocina-dv-133081940)<br>
+11:30 [Un grupo de jóvenes de entre 19 y 35 años intentan repoblar el pueblo abandonado de Molinàs, sin éxito: "Ninguno de nosotros tiene la vivienda solucionada diez años después"](https://www.elperiodico.com/es/sociedad/20260804/sueno-frustrado-repoblar-pueblo-abandonado-despoblamiento-molinas-vivienda-dv-131599537)<br>
+11:24 [Viajar al extranjero con seguridad y sin imprevistos: estas son las mejores tarjetas sin comisiones](https://www.elperiodico.com/es/economia/20260804/viajar-extranjero-seguridad-imprevistos-son-bc-133082146)<br>
+11:04 [Última hora de los incendios en Grecia y Canadá, en directo | El fuego se propaga hacia Atenas y estado de emergencia en la Columbia británica canadiense](https://www.elperiodico.com/es/internacional/20260804/ultima-hora-incendios-grecia-canada-mundo-133081160)<br>
+10:56 [El paro registrado sube en 19.517 personas en julio y vuelve a superar los 2,3 millones](https://www.elperiodico.com/es/videos/economia/paro-registrado-sube-19517-personas-julio-video/133081151.shtml)<br>
+10:50 [Investigado en Cáceres por arrojar vivos a siete cachorros a un contenedor](https://www.elperiodico.com/es/videos/sociedad/investigado-caceres-arrojar-vivos-siete-cachorros-contenedor/133081068.shtml)<br>
+10:37 [Catalunya encabeza la subida del paro en julio pese a liderar la creación del empleo](https://www.elperiodico.com/es/economia/20260804/catalunya-encabeza-subida-paro-julio-133080596)<br>
+10:18 ['Lectura en movimiento', actividad enmarcada en la Feria del Libro promocionada por la OEI](https://www.elperiodico.com/es/fotos/sociedad/lectura-movimiento-actividad-enmarcada-feria-133079825)<br>
+10:14 [Oswaldo Tavío, el guardia civil canario que salva vidas en Ceuta: "Nadie se esperaba una crisis migratoria como esta"](https://www.elperiodico.com/es/videos/sociedad/oswaldo-tavio-guardia-civil-canario-salva-vidas-ceuta-video/133079515.shtml)<br>
+10:14 [La escalera mecánica viral del metro de Sagrada Família renace como temerario plató pese a la prohibición](https://www.elperiodico.com/es/barcelona/eixample/20260804/escalera-mecanica-viral-metro-sagrada-familia-peligro-132882131)<br>
+10:13 [Renace la moda viral de posar en una escalera mecánica del metro Sagrada Família](https://www.elperiodico.com/es/videos/barcelona/renace-moda-viral-posar-escalera/133079478.shtml)<br>
 10:00 [El cambio que recomiendan los expertos en reformas: baños pequeños con más amplitud, menos ruido visual y una lavandería integrada](https://www.elperiodico.com/es/vida-y-estilo/20260804/felix-garcia-experto-reformas-cuarto-bano-ducha-lavadora-dv-131202895)<br>
 09:40 [Los monos pueden aprender a usar la IA para obtener recompensas](https://www.elperiodico.com/es/tendencias21/20260804/monos-aprender-ia-obtener-recompensas-133078685)<br>
 09:39 [Buceo y snorkel en Catalunya: lista de 12 animales y plantas que puedes ver bajo el agua](https://www.elperiodico.com/es/catalunya/20260804/buceo-peces-snorkel-cataluna-plantas-animales-dv-loc-91190810)<br>
 09:35 [Precio del petróleo hoy, 4 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260804/precio-petroleo-hoy-4-agosto-ultima-hora-dv-133066349)<br>
 09:33 [Vida marina que puedes encontrar en Catalunya](https://www.elperiodico.com/es/videos/ciencia/vida-marina-puedes-encontrar-catalunya/133078578.shtml)<br>
+09:27 [Oswaldo Tavío, el guardia civil que salva vidas en Ceuta: "Nadie se esperaba una crisis migratoria como esta"](https://www.elperiodico.com/es/sociedad/20260804/oswaldo-tavio-guardia-civil-salva-133078483)<br>
 09:16 [Así te afecta la huelga de personal en el aeropuerto del Prat de Barcelona: vuelos cancelados y compañías aéreas afectadas](https://www.elperiodico.com/es/internacional/20260804/huelga-aeropuerto-prat-barcelona-companias-aereas-133078216)<br>
 09:00 [El Ibex 35 pulveriza los 20.000 puntos por primera vez en la historia](https://www.elperiodico.com/es/economia/20260804/ibex-35-pulveriza-20-000-133077782)<br>
 09:00 [Marcos López (18 años), premiado como mejor instalador joven: "Me gusta mucho el mundo los montajes eléctricos en general porque te retan"](https://www.elperiodico.com/es/sociedad/20260804/marcos-lopez-mejor-instalador-joven-electricista-futuro-carrera-dv-130958485)<br>
