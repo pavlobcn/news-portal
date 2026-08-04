@@ -1,5 +1,500 @@
 [
   {
+    "title": "СБУ підвела підсумки 40-денної операції проти РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4899986-sbu-pidvela-pidsumky-40-dennoi-operatsii-proty-rf",
+    "pubDate": "2026-08-04 16:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518384.jpg\">Робота зі зниження воєнно-економічного потенціалу Фосії триватиме і надалі, запевнили в спецслужбі.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Кремль посилює мобілізаційну готовність - розвідка",
+    "link": "https://ua.korrespondent.net/ukraine/4899985-kreml-posyluiie-mobilizatsiinu-hotovnist-rozvidka",
+    "pubDate": "2026-08-04 16:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518383.jpg\">До парламентських виборів Кремль навряд чи наважиться оголосити нову хвилю мобілізації, вважають у СЗР.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Гватемалі прокинувся вулкан Фуего",
+    "link": "https://ua.korrespondent.net/world/4899983-u-hvatemali-prokynuvsia-vulkan-fueho",
+    "pubDate": "2026-08-04 16:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518373.jpg\">Через потужне виверження влада евакуює мешканців прилеглих сіл, а по всій країні оголосила підвищений рівень небезпеки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Sánchez comparte su 'playlist' para verano de Spotify: desde Quevedo hasta Melani García",
+    "link": "https://www.elperiodico.com/es/gente/20260804/pedro-sanchez-musica-playlist-verano-crisis-migratoria-redes-dv-133065088",
+    "pubDate": "2026-08-04 16:49:37",
+    "category": "",
+    "description": "<h2>En medio de la crisis migratoria de Ceuta, el presidente del Gobierno incendia las redes sociales</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260803/ceuta-88-muertos-entrada-masiva-migrantes-espana-marruecos-133051120\">Ceuta eleva a 88 el número de fallecidos durante la entrada masiva de migrantes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260801/frontera-respira-nuevo-crisis-migratoria-133024350\">La frontera respira de nuevo tras la crisis migratoria: \"Todo estaba lleno de gente. Al final hemos decidido volver\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Після від’їзду Путіна у Красноярську злетіли ціни на пальне",
+    "link": "https://ua.korrespondent.net/business/economics/4899980-pislia-vidizdu-putina-u-krasnoiarsku-zletily-tsiny-na-palne",
+    "pubDate": "2026-08-04 16:44:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518363.jpeg\">Різке здешевлення пального напередодні візиту Путіна змінилося новим стрибком цін після його завершення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Білорусі засудили лідера Ляпіса Трубецького Міхалка",
+    "link": "https://ua.korrespondent.net/world/4899979-u-bilorusi-zasudyly-lidera-liapisa-trubetskoho-mikhalka",
+    "pubDate": "2026-08-04 16:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518372.jpg\">Сергій Міхалок роками відкрито критикує режим Олександра Лукашенка та має звання заслуженого артиста України.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Вроцлаві жінка з ножами погрожувала українцям",
+    "link": "https://ua.korrespondent.net/world/4899977-u-vrotslavi-zhinka-z-nozhamy-pohrozhuvala-ukraintsiam",
+    "pubDate": "2026-08-04 16:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518364.jpg\">У польському Вроцлаві правоохоронці затримали нетверезу жінку, яка серед ночі з ножами в руках погрожувала людям і вигукувала образи на адресу українців.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rescatan a más de 150 migrantes en el Canal de la Mancha tras incendiarse una embarcación",
+    "link": "https://www.elperiodico.com/es/internacional/20260804/rescatan-migrantes-canal-mancha-incendiarse-embarcacion-133094579",
+    "pubDate": "2026-08-04 16:35:25",
+    "category": "",
+    "description": "<h2>El grupo ha sido trasladado a la localidad francesa de Boulogne-sur-Mer, donde recibirán tratamiento médico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irán, principal sospechoso de los ciberataques contra sistemas de suministro de agua en EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260804/iran-principal-sospechoso-ciberataques-suministros-agua-eeuu-133094492",
+    "pubDate": "2026-08-04 16:33:17",
+    "category": "",
+    "description": "<h2>Grupos de 'hackers' vinculados con Teherán han llevado a cabo ataques informáticos contra Washington en otras ocasiones, con el objetivo de influir en procesos electorales y de obtener información sensible</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Tere, última habitante de un pueblo abandonado: \"Siento demasiada pena cuando pienso que el día que yo no esté\"",
+    "link": "https://www.elperiodico.com/es/economia/20260804/ultima-habitante-pueblo-abandonado-asturias-tere-dv-et-132638064",
+    "pubDate": "2026-08-04 16:32:00",
+    "category": "",
+    "description": "<h2>La mujer no quiere dejar que la aldea y la casa de sus antepasados caigan en el olvido para siempre: \"El día que yo no esté, no sé qué va a ser de esto\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/arnau-campo-solo-aislado-granja-huerto-cria-conejos-dv-et-132305551\">Arnau (24 años), vive solo en el campo de manera autosuficiente desde los 18: \"A partir de los 15 años empecé a salir de caza con el grupo de cazadores del pueblo\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/renuncia-vida-ciudad-terreno-campo-contruccion-casa-agua-luz-mauricio-dv-et-132707450\">Mauricio (37 años) renuncia a una vida cómoda para construir una casa de madera, paja y barro en el monte: \"En la ciudad vivimos tan acelerados que dejamos de lado el respirar, el disfrutar...\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атаки Росії: аграрії можуть втратити $3 млрд",
+    "link": "https://ua.korrespondent.net/business/economics/4899975-ataky-rosii-ahrarii-mozhut-vtratyty-3-mlrd",
+    "pubDate": "2026-08-04 16:27:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518362.jpg\">Морський шлях залишається критично важливим для аграрного експорту – через порти вивозиться близько 90% зернових та олійних культур.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya, en alerta por lluvias intensas acompañadas de tormenta y granizo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/catalunya-alerta-lluvias-intensas-acompanadas/133094273.shtml",
+    "pubDate": "2026-08-04 16:25:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los caballos huyen de las llamas del incendio en Grecia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/caballos-huyen-llamas-incendio-grecia/133094124.shtml",
+    "pubDate": "2026-08-04 16:19:43",
+    "category": "",
+    "description": "Los bomberos siguen trabajando en su extinción tras nueve días luchando contra las llamas",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comisión Europea no ve una relación directa entre la regularización masiva y la crisis en Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260804/comision-europea-no-ve-relacion-directa-regularizacion-masiva-pedro-sanchez-crisis-ceuta-133094056",
+    "pubDate": "2026-08-04 16:16:47",
+    "category": "",
+    "description": "<h2>El comisario de Interior y Migración ha dicho, sin embargo, que la medida tomada por el Gobierno español es \"no es una buena señal\" para el resto de Europa</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260804/ceuta-marruecos-migrantes-ultima-hora-directo-132960312\" target=\"_blank\">Directo | Última hora de la crisis de Ceuta y reacciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260804/paises-ue-piden-mejorar-sistemas-inteligencia-redes-sociales-ceuta-133090478\" target=\"_blank\">Los Veintisiete piden mejorar los sistemas de inteligencia y la vigilancia de las redes sociales tras la crisis de Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Empieza el plazo para solicitar las ayudas de hasta 4.500 euros para comprar un coche eléctrico: requisitos y cómo solicitar el plan Auto+",
+    "link": "https://www.elperiodico.com/es/videos/economia/empieza-plazo-solicitar-ayudas-4/133093852.shtml",
+    "pubDate": "2026-08-04 16:13:44",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Київщині п'яний тракторист на смерть збив 6-річну дитину на велосипеді",
+    "link": "https://ua.korrespondent.net/ukraine/4899972-na-kyivschyni-pianyi-traktoryst-na-smert-zbyv-6-richnu-dytynu-na-velosypedi",
+    "pubDate": "2026-08-04 16:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518351.jpg\">Водій трактора не дотримався безпечного бокового інтервалу й зачепив дитину. 6-річна дівчинка загинула на місці ДТП.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Geely E2, el más vendido de su segmento en el mundo, llega a España por menos de 14.000 euros",
+    "link": "https://www.elperiodico.com/es/motor/20260804/precio-geely-e2-pro-espana-133080118",
+    "pubDate": "2026-08-04 16:08:07",
+    "category": "",
+    "description": "<h2>El compacto eléctrico del grupo chino tiene dos tamaños de batería, un gran equipamiento ya en las versiones de acceso y un precio (cumpliendo condiciones) de los más económicos del mercado.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗМІ: Сирія готова відмовитися від російської нафти",
+    "link": "https://ua.korrespondent.net/world/4899967-zmi-syriia-hotova-vidmovytysia-vid-rosiiskoi-nafty",
+    "pubDate": "2026-08-04 16:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518349.jpg\">Сирія заявила США про готовність різко скоротити закупівлі російської нафти під час переговорів про скасування санкційного статусу, зазначають обізнані джерела.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Disney traslada al Castell de Figueres el rodaje de 'Enredados'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260804/disney-traslada-castell-figueres-rodaje-133082431",
+    "pubDate": "2026-08-04 16:06:05",
+    "category": "",
+    "description": "<h2 class=\"item\">La superproducción termina las grabaciones en el Barri Vell de Girona y filmará varias escenas en Sant Ferran este principio de agosto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unos 1.340 nuevos mossos comienzan su año en prácticas en su nuevo destino esta semana",
+    "link": "https://www.elperiodico.com/es/sociedad/20260804/nuevos-mossos-comienzan-destino-seguridad-refuerzo-133093428",
+    "pubDate": "2026-08-04 16:05:34",
+    "category": "",
+    "description": "<h2>Barcelona contará en total con una plantilla de 3.000 agentes, su cifra más alta </h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260730/1-700-agentes-mossos-policias-132972454\">Más de 1.700 agentes, entre Mossos y policías locales, se gradúan en el Instituto de Seguridad Pública de Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Rayo permite el acceso al Estadio de Vallecas a los técnicos regionales",
+    "link": "https://www.elperiodico.com/es/deportes/20260804/rayo-permite-acceso-estadio-vallecas-133093295",
+    "pubDate": "2026-08-04 16:04:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El recinto cuenta con graves deficiencias de seguridad que impedirán al conjunto madrileño iniciar la Liga en su habitual emplazamiento.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las olas de calor disparan el consumo de luz a su nivel más alto desde enero de 2008",
+    "link": "https://www.elperiodico.com/es/videos/economia/olas-calor-disparan-consumo-luz/133093623.shtml",
+    "pubDate": "2026-08-04 16:04:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juan Dávila, el cómico viral, se pone en el papel de un gúru de la seducción en 'El último mono': \"Mi personaje en la película es un perdedor y un payaso\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260804/juan-davila-comico-viral-pone-133052716",
+    "pubDate": "2026-08-04 16:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El intérprete madrileño estrena 'El último mono', donde encarna a un gurú de la seducción con discursos machistas que intenta conquistar a una escritora feminista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ERC, Junts y PNV señalan a Marruecos y EH Bildu se sume en el silencio ante la crisis migratoria",
+    "link": "https://www.elperiodico.com/es/politica/20260804/erc-junts-marruecos-bildu-pnv-silencio-ceuta-133082370",
+    "pubDate": "2026-08-04 16:00:49",
+    "category": "",
+    "description": "<h2>Los posconvergentes piden recuperar la delegación de competencias en inmigración a Catalunya y los jeltzales reclaman una política migratoria \"integral\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Низький рівень Дунаю: ЄС заявив про ситуацію з енергопостачанням",
+    "link": "https://ua.korrespondent.net/world/4899968-nyzkyi-riven-dunaui-yes-zaiavyv-pro-sytuatsiui-z-enerhopostachanniam",
+    "pubDate": "2026-08-04 15:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518348.jpg\">Європейська комісія запевняє, що обміління Дунаю поки не створює загрози для енергопостачання Угорщини, Румунії та Болгарії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El comisario europeo de Interior no ve relación entre regularización y la crisis en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/internacional/comisario-europeo-interior-ve-relacion/133093385.shtml",
+    "pubDate": "2026-08-04 15:58:30",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росія зменшила кількість вильотів над Чорним морем: у ЗСУ назвали причину",
+    "link": "https://ua.korrespondent.net/ukraine/4899965-rosiia-zmenshyla-kilkist-vylotiv-nad-chornym-morem-u-zsu-nazvaly-prychynu",
+    "pubDate": "2026-08-04 15:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518341.jpg\">У російських військових виникають складнощі щодо забезпечення контингенту в Криму, зазначив речник ВМС України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ibex tiene combustible para superar los 20.000, pero consolidarlos dependerá del petróleo, la banca y Wall Street",
+    "link": "https://www.elperiodico.com/es/economia/20260804/ibex-combustible-superar-20-000-133093226",
+    "pubDate": "2026-08-04 15:50:49",
+    "category": "",
+    "description": "<h2>Los sólidos resultados de la gran banca impulsa el Ibex, aunque la guerra en Irán, la política monetaria y Wall Street amenazan con frenar su recorrido alcista </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los otros perjudicados de 'Pasapalabra' tras el fin de 'El Rosco': juegos, libros, revistas y aplicaciones desaparecen del mapa",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260804/perjudicados-pasapalabra-rosco-juegos-libros-revistas-aplicaciones-desaparecen-mapa-133082335",
+    "pubDate": "2026-08-04 15:49:42",
+    "category": "",
+    "description": "<h2>La retirada de la prueba final no solo ha obligado al programa a reinventarse: también ha afectado a varios productos derivados de la marca.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya, en alerta por lluvias intensas acompañadas de tormenta y granizo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260804/catalunya-espera-lluvias-intensas-acompanadas-granizo-tormenta-133093127",
+    "pubDate": "2026-08-04 15:46:54",
+    "category": "",
+    "description": "<h2>Protecció Civil mantiene el Inuncat por acumulación de más de 20 l/m² en 30 minutos, que pueden ser más de 60 l/m² en 3 horas en el Ripollès, Berguedà, Lluçanès y Osona</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260803/proteccion-civil-activa-alerta-plan-inuncat-noreste-catalunya-fuertes-lluvias-133070533\">Proteccion Civil activa la alerta del plan Inuncat por fuertes lluvias este martes en Ripollès, Garrotxa y Osona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Leo Messi dona 80.000€ para la reconstrucción de la Sierra Oeste de Madrid tras los devastadores incendios",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/leo-messi-dona-80-000/133093151.shtml",
+    "pubDate": "2026-08-04 15:45:37",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La compraventa de empresas alimentarias crece 3% en el primer semestre, gracias al empuje de la industria cárnica",
+    "link": "https://www.elperiodico.com/es/economia/20260804/compraventa-empresas-alimentarias-crece-3-133093175",
+    "pubDate": "2026-08-04 15:45:26",
+    "category": "",
+    "description": "<h2>Los datos destacan especialmente el avance de las bebidas con bajo o nulo contenido en azúcar y que España es uno de sus máximos exponentes en Europa</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Україна продала більше електроенергії, ніж купила",
+    "link": "https://ua.korrespondent.net/business/economics/4899963-ukraina-prodala-bilshe-elektroenerhii-nizh-kupyla",
+    "pubDate": "2026-08-04 15:44:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518340.jpg\">Найбільше зріс експорт до Словаччини – майже у шість разів порівняно з попереднім місяцем.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Окупована ЗАЕС пережила 12-й блекаут з початку року",
+    "link": "https://ua.korrespondent.net/ukraine/4899958-okupovana-zaes-perezhyla-12-y-blekaut-z-pochatku-roku",
+    "pubDate": "2026-08-04 15:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518332.png\">Кожна втрата зовнішнього живлення створює пряму загрозу ядерній та радіаційній безпеці, пояснили в Енергоатомі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Німеччині через спеку Рейн обмілів до нових мінімумів",
+    "link": "https://ua.korrespondent.net/world/4899961-u-nimechchyni-cherez-speku-rein-obmiliv-do-novykh-minimumiv",
+    "pubDate": "2026-08-04 15:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518339.jpg\">Через посуху вартість транспортування вантажів танкерними баржами з Роттердама до Карлсруе зросла до 145-150 євро за тонну.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Що обов'язково має бути в авто влітку: список здивує водіїв України",
+    "link": "https://ua.korrespondent.net/articles/4899956-scho-oboviazkovo-maie-buty-v-avto-vlitku-spysok-zdyvuie-vodiiv-ukrainy",
+    "pubDate": "2026-08-04 15:37:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518331.jpg\">Спека, затори й непередбачувані ситуації можуть швидко змінити плани влітку. Розповідаємо, які речі варто тримати в автомобілі для комфортної подорожі й що доцільно додати з огляду на воєнний стан в Україні.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alemania, ante el reto de unos veranos cada vez más tórridos y una sequía que ha dejado al Rin en mínimos históricos",
+    "link": "https://www.elperiodico.com/es/internacional/20260804/alemania-reto-veranos-torridos-caudal-rin-minimos-historicos-era-calor-extremo-133083808",
+    "pubDate": "2026-08-04 15:30:24",
+    "category": "",
+    "description": "<h2>La primera economía europea sufre las consecuencias de las olas de calor sin aire acondicionado ni en hospitales ni en el transporte urbano</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260802/lucha-cambio-climatico-trump-ucrania-iran-133003850\" target=\"_blank\">¿Los peores años de la lucha por el clima? Trump es un problema, pero las guerras de Ucrania e Irán impulsan las renovables</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260803/calor-extremo-europa-saturacion-sanidad-publica-incidencias-transporte-reino-unido-133068024\" target=\"_blank\">Saturación en la sanidad pública e incidencias en el transporte: las olas de calor golpean al Reino Unido cada vez con más fuerza</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вперше за 10 років: американці більше довіряють демократам в економіці",
+    "link": "https://ua.korrespondent.net/world/4899954-vpershe-za-10-rokiv-amerykantsi-bilshe-doviriauit-demokratam-v-ekonomitsi",
+    "pubDate": "2026-08-04 15:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518330.jpg\">Водночас рівень схвалення роботи президента Дональда Трампа опустився майже до найнижчої позначки за час його президентства.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La Euroliga crece a pasos agigantados en el entorno digital",
+    "link": "https://as.com/baloncesto/euroliga/la-euroliga-crece-a-pasos-agigantados-en-el-entorno-digital-f202608-n/",
+    "pubDate": "2026-08-04 15:25:40",
+    "category": "Baloncesto",
+    "description": "Con un 133% en su página oficial, y crecimiento en todas sus áreas digitales, la Euroliga muestra músculo en uno de sus momentos más cruciales en años.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Міграційна криза у Сеуті: контрабандисти відкрили новий маршрут до Іспанії",
+    "link": "https://ua.korrespondent.net/world/4899950-mihratsiina-kryza-u-seuti-kontrabandysty-vidkryly-novyi-marshrut-do-ispanii",
+    "pubDate": "2026-08-04 15:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518317.jpg\">В іспанському анклаві Сеута залишаються до 5000 мігрантів. Тим часом, нелегальні мережі почали пропонувати переправлення через Гібралтарську протоку на гідроциклах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві двоє пенсіонерів віддали шахраям 12,5 млн грн",
+    "link": "https://ua.korrespondent.net/city/kiev/4899952-u-kyievi-dvoie-pensioneriv-viddaly-shakhraiam-125-mln-hrn",
+    "pubDate": "2026-08-04 15:16:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518329.jpg\">Пенсіонери віддали кур’єру усі свої заощадження, щоб зняти підозри нібито у колабораційній діяльності та фінансуванні РФ.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Після атак у РФ Wildberries розширює логістику в Казахстані",
+    "link": "https://ua.korrespondent.net/world/russia/4899947-pislia-atak-u-rf-Wildberries-rozshyruiie-lohistyku-v-kazakhstani",
+    "pubDate": "2026-08-04 15:13:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518318.jpg\">Водночас влада країни закликає покупців підтримувати місцеві онлайн-платформи та попереджає бізнес про можливі ризики співпраці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Встановлено сімох бойовиків, причетних до катувань волонтерки на Донбасі",
+    "link": "https://ua.korrespondent.net/ukraine/4899946-vstanovleno-simokh-boiovykiv-prychetnykh-do-katuvan-volonterky-na-donbasi",
+    "pubDate": "2026-08-04 15:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518319.jpg\">Жінку, яка допомагала українським військовим та евакуйовувала цивільних із районів бойових дій, бойовики вивезли з Луганщини до окупованої Горлівки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marlaska recalca que no hubo ningún aviso del CNI sobre una entrada masiva de personas",
+    "link": "https://www.elperiodico.com/es/videos/politica/marlaska-recalca-no-aviso-cni-entrada-masiva-migrantes/133091789.shtml",
+    "pubDate": "2026-08-04 14:57:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Leo Messi dona 80.000€ para la reconstrucción de la Sierra Oeste de Madrid tras los devastadores incendios",
+    "link": "https://www.elperiodico.com/es/sociedad/20260804/leo-messi-dona-80-000-euros-reconstruccion-sierra-oeste-madrid-incendios-fuego-133091714",
+    "pubDate": "2026-08-04 14:53:36",
+    "category": "",
+    "description": "<h2>\"Quiero darle las gracias y decirle que los madrileños esperamos recibirle pronto para darle el aplauso que se merece\", ha asegurado Ayuso tras el gesto del que muchos consideran el mejor futbolista de la historia</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Приїхали на заробітки, а загинули в штурмі: ГУР ідентифікувало найманців РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4899942-pryikhaly-na-zarobitky-a-zahynuly-v-shturmi-hur-identyfikuvalo-naimantsiv-rf",
+    "pubDate": "2026-08-04 14:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518309.png\">Українська розвідка ідентифікувала двох ліквідованих російських найманців із Киргизстану, які воювали проти України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "George R. R. Martin revela su lucha contra la depresión: \"Puede que lo peor aún esté por llegar\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260804/george-martin-depresion-juego-tronos-escritor-133050250",
+    "pubDate": "2026-08-04 14:46:27",
+    "category": "",
+    "description": "<h2 class=\"item\">El escritor de la saga que ha inspirado 'Juego de tronos' y 'La Casa del Dragón' confiesa que está viviendo un año difícil</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260729/juego-tronos-lena-headey-desnudos-tatuajes-132910837\">Una estrella de 'Juego de tronos' revela su truco para evitar rodar escenas de desnudos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estas calas turquesas de la Costa Brava están entre las más bonitas de España",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260804/calas-turquesas-costa-brava-playas-bonitas-barcelona-espana-133089397",
+    "pubDate": "2026-08-04 14:45:00",
+    "category": "",
+    "description": "<h2>Son los baños más instagrameables. Las mejores playas de Catalunya para una escapada paradisiaca. Estas calas a hora y media de Barcelona se han colado en la lista anual de 'National Geographic' </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260803/mundo-today-barcelona-bomberos-rescatan-nino-sepultado-toneladas-crema-solar-133057758\" target=\"_blank\">Los bomberos de Barcelona rescatan a un niño sepultado bajo seis toneladas de crema solar</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Marlaska recalca que no hubo ningún \"aviso\" del CNI y asegura que la UE reconoce \"el extraordinario trabajo de España en Ceuta\"",
+    "link": "https://www.elperiodico.com/es/politica/20260804/marlaska-recalca-hubo-aviso-cni-133091042",
+    "pubDate": "2026-08-04 14:34:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministro asegura que 70.000 de los 72.000 inmigrantes que cruzaron la frontera han regresado a Marruecos</h2><h2 class=\"item\">Afirma que el titular de Interior italiano ha reconocido el trabajo de España y que tampoco ha hecho reproches en la reunión</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260804/ceuta-marruecos-migrantes-ultima-hora-directo-132960312\" target=\"_blank\">Última hora de Ceuta y Melilla</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Puntos de apoyo",
+    "link": "https://www.elperiodico.com/es/opinion/20260804/puntos-apoyo-juan-jose-millas-articulo-133077596",
+    "pubDate": "2026-08-04 14:32:49",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump crea un servicio de alertas para sus publicaciones de Truth Social que vende a inversores por 100.000 dólares al mes",
+    "link": "https://www.elperiodico.com/es/internacional/20260804/trump-crea-servicio-alertas-truth-social-vende-inversores-100-000-dolares-mes-133090893",
+    "pubDate": "2026-08-04 14:31:50",
+    "category": "",
+    "description": "<h2>El anuncio abre un debate sobre conflictos de interés e información privilegiada mientras el presidente aumenta sus beneficios en medio de la guerra de Irán</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Nueve de cada diez alumnos logra plaza de FP en otro año récord de inscripciones en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20260804/educacion-asigna-86-500-plazas-formacion-profesional-133085376",
+    "pubDate": "2026-08-04 14:29:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Educació asigna 86.550 plazas, 5.072 más que el curso anterior: dos tercios en primera opción</h2><h2 class=\"item\">El departament realiza por primera vez 5.300 propuestas de asignación alternativa a alumnos que no habían logrado plaza, novedad clave contra el abandono escolar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260731/hubs-fp-barcelona-boom-crecimiento-practico-flexible-barcelona-132696122\">La FP despega como alternativa \"práctica y flexible' al Bachillerato: los alumnos crecen un 32% en seis años en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Президент відреагував на \"сафарі\" росіян у Херсоні",
+    "link": "https://ua.korrespondent.net/ukraine/4899940-prezydent-vidreahuvav-na-safari-rosiian-u-khersoni",
+    "pubDate": "2026-08-04 14:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518270.jpg\">Без тиску на Росію і без демонтажу її агресивного потенціалу просто неможливо уявити, що світ зможе співіснувати із цим злом, зазначив президент.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Grupo MAHLE: Un servicio postventa sin filtros",
+    "link": "https://www.elperiodico.com/es/motor/20260804/grupo-mahle-servicio-postventa-sin-filtros-133069819",
+    "pubDate": "2026-08-04 14:27:12",
+    "category": "",
+    "description": "<h2>El Grupo MAHLE desarrolla un ecosistema para el taller del futuro</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія атакувала Балаклію: є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4899937-rosiia-atakuvala-balakliui-ye-postrazhdali",
+    "pubDate": "2026-08-04 14:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518271.jpg\">Внаслідок одного з ударів пошкоджено заклад культури, бібліотеку, три магазини та понад 10 приватних житлових будинків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los Veintisiete piden mejorar los sistemas de inteligencia y la vigilancia de las redes sociales tras la crisis de Ceuta",
     "link": "https://www.elperiodico.com/es/internacional/20260804/paises-ue-piden-mejorar-sistemas-inteligencia-redes-sociales-ceuta-133090478",
     "pubDate": "2026-08-04 14:18:19",
@@ -115,6 +610,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518259.jpg\">26-річний футболіст натякнув на готовність змінити клубну прописку, якщо керівництво \"синьо-гранатових\" не продемонструє зацікавленість у продовженні співпраці.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Vandalizado el piano de cola de Plaça Catalunya en Barcelona: sin teclas y ácido sobre el instrumento",
+    "link": "https://www.elperiodico.com/es/barcelona/20260804/piano-placa-cataluna-barcelona-roto-teclas-acido-dv-loc-133081701",
+    "pubDate": "2026-08-04 13:39:59",
+    "category": "",
+    "description": "<h2>El daño obliga a sustituir todo el mecanismo interior</h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/20260521/barcelona-pianos-calles-escenarios-plaza-cataluna-passeig-de-gracia-dv-loc-130491347\">Barcelona se llena de pianos: diez escenarios repartidos por la ciudad para tocar o simplemente escuchar</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20240314/barcelona-piano-solar-plaza-catalunya-99485188\">Barcelona instala un piano solar de forma permanente para ser tocado en la plaza Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Pasajeros en el aeropuerto de Barcelona-El Prat durante una jornada de huelga de personal",
@@ -1438,6 +1942,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518027.jpg\">Ракетні війська й артилерія Сил оборони уразили три пункти управління БПЛА, 11 районів зосередження живої сили та ще один важливий об’єкт російських загарбників.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "El verano en llamas del ASVEL",
+    "link": "https://as.com/baloncesto/euroliga/el-verano-en-llamas-del-asvel-f202608-n/",
+    "pubDate": "2026-08-04 08:20:00",
+    "category": "Asvel Basket",
+    "description": "Un desplome inesperado en el presupuesto ha dejado al club de Tony Parker con un equipo que debe reinventarse a contrarreloj.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Investigada una agencia de viajes de Girona  por estafar a 200 familias y dejarlas sin dinero ni vacaciones",
