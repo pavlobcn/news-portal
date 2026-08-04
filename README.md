@@ -1,8 +1,12 @@
-# News for 2026-08-04 20:49
+# News for 2026-08-04 22:16
 
 Previous day: [2026-08-03](./data/2026-08-03.md)
 
 ## ua.korrespondent.net
+21:56 [Є прогрес в переговорах щодо відновлення роботи Ормузької протоки - Рубіо](https://ua.korrespondent.net/world/4900047-ye-prohres-v-perehovorakh-schodo-vidnovlennia-roboty-ormuzkoi-protoky-rubio)<br>
+21:35 [Вчені пов'язали ранній доступ до соцмереж з гіршими результатами у школі](https://ua.korrespondent.net/tech/science/4900042-vcheni-poviazaly-rannii-dostup-do-sotsmerezh-z-hirshymy-rezultatamy-u-shkoli)<br>
+21:34 [Росіянам запустили прямі авіарейси до Сирії та Іраку](https://ua.korrespondent.net/world/4900038-rosiianam-zapustyly-priami-aviareisy-do-syrii-ta-iraku)<br>
+20:58 [У Fire Point сказали, коли український аналог Patriot почне збивати ракети](https://ua.korrespondent.net/ukraine/4900032-u-Fire-Point-skazaly-koly-ukrainskyi-analoh-Patriot-pochne-zbyvaty-rakety)<br>
 20:33 [Oppo представила  смартфон A7 Pro Max з рекордно великою батареєю](https://ua.korrespondent.net/lifestyle/gadgets/4900028-Oppo-predstavyla-smartfon-A7-Pro-Max-z-rekordno-velykoui-batareieui)<br>
 20:32 [У липні дронами знешкодили понад 30 000 окупантів](https://ua.korrespondent.net/ukraine/4900030-u-lypni-dronamy-zneshkodyly-ponad-30-000-okupantiv)<br>
 19:56 [Генерал Борпер очолив командування НАТО з підтримки України](https://ua.korrespondent.net/world/4900020-heneral-borper-ocholyv-komanduvannia-nato-z-pidtrymky-ukrainy)<br>
@@ -61,6 +65,12 @@ Previous day: [2026-08-03](./data/2026-08-03.md)
 08:20 [El verano en llamas del ASVEL](https://as.com/baloncesto/euroliga/el-verano-en-llamas-del-asvel-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:02 [Muere el guitarrista flamenco Pepe Habichuela](https://www.elperiodico.com/es/ocio-y-cultura/20260804/muere-pepe-habichuela-guitarrista-flamenco-133102322)<br>
+21:40 [El supermercado 'gafe' de un mercado de Barcelona: segunda subasta desierta pese a una rebaja del 92%](https://www.elperiodico.com/es/videos/economia/supermercado-gafe-mercado-barcelona-segunda/133102058.shtml)<br>
+21:19 [Las oenegés denuncian traslados forzosos en Marruecos de menores que intentaron entrar en Ceuta: "No pueden volver a su casa"](https://www.elperiodico.com/es/videos/internacional/oeneges-denuncian-traslados-forzosos-marruecos/133101854.shtml)<br>
+21:18 [Nadie quiere muertes](https://www.elperiodico.com/es/opinion/20260804/nadie-quiere-muertes-ahogamientos-ahogados-verano-133101093)<br>
+21:03 [Primera víctima mortal por la fiebre del virus del Nilo en Sevilla desde 2024](https://www.elperiodico.com/es/sociedad/20260804/primera-victima-mortal-fiebre-virus-nilo-sevilla-133101538)<br>
+20:49 [TMB auditará los revestimientos de los túneles del metro de Barcelona tras el incendio en la línea 1](https://www.elperiodico.com/es/barcelona/20260804/pieza-tunel-cayo-catenaria-desato-tunel-auditoria-133101120)<br>
 20:43 [Una tormenta de granizo descarga con fuerza en la Catalunya central: Torelló registra hasta 70 litros en solo una hora](https://www.elperiodico.com/es/videos/sociedad/tormenta-granizo-descarga-fuerza-catalunya/133101092.shtml)<br>
 20:37 [Las oenegés denuncian traslados forzosos en Marruecos de menores que intentaron entrar en Ceuta: "No pueden volver a su casa"](https://www.elperiodico.com/es/sociedad/20260804/oeneges-denuncian-traslados-forzosos-menores-marruecos-ceuta-133081854)<br>
 20:29 [Los Veintisiete piden mejorar los sistemas de inteligencia y la vigilancia de las redes sociales tras la crisis de Ceuta](https://www.elperiodico.com/es/videos/internacional/veintisiete-piden-mejorar-sistemas-inteligencia/133100777.shtml)<br>
