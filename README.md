@@ -1,9 +1,12 @@
-# News for 2026-08-05 18:20
+# News for 2026-08-05 18:53
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
 ## ua.korrespondent.net
+18:09 [Краматорськ тимчасово залишився без води](https://ua.korrespondent.net/ukraine/4900327-kramatorsk-tymchasovo-zalyshyvsia-bez-vody)<br>
 17:53 [Саратовський НПЗ зупинив роботу через удар дронів - ЗМІ](https://ua.korrespondent.net/world/russia/4900320-saratovskyi-npz-zupynyv-robotu-cherez-udar-droniv-zmi)<br>
+17:32 [Партизани встановили військових РФ, причетних до ракетних ударів по Києву](https://ua.korrespondent.net/ukraine/4900315-partyzany-vstanovyly-viiskovykh-rf-prychetnykh-do-raketnykh-udariv-po-kyievu)<br>
+17:05 [Із Краматорської громади примусово вивезуть 525 дітей](https://ua.korrespondent.net/ukraine/4900309-iz-kramatorskoi-hromady-prymusovo-vyvezut-525-ditei)<br>
 16:29 [Пакистан обмежив роботу іноземних журналістів](https://ua.korrespondent.net/world/4900297-pakystan-obmezhyv-robotu-inozemnykh-zhurnalistiv)<br>
 16:28 [Блокада портів: ЗМІ оцінили втрати залізорудного виробництва](https://ua.korrespondent.net/business/economics/4900296-blokada-portiv-zmi-otsinyly-vtraty-zalizorudnoho-vyrobnytstva)<br>
 16:22 [Під Москвою горить науковий центр Роскосмосу](https://ua.korrespondent.net/world/russia/4900293-pid-moskvoui-horyt-naukovyi-tsentr-roskosmosu)<br>
@@ -80,6 +83,7 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:45 [Las unidades de grandes quemados logran recuperar a pacientes con el 85% del cuerpo dañado: "Hace poco era un milagro"](https://www.elperiodico.com/es/videos/salud/unidades-grandes-quemados-logran-recuperar/133125033.shtml)<br>
 18:13 [Hablan testigos del crimen en el cuartel de la Guardia Civil de Llanes: "Escuché tiros y vi a los guardias corriendo pistola en mano, parecía una película"](https://www.elperiodico.com/es/sucesos/20260805/hablan-testigos-crimen-cuartel-guardia-civil-llanes-asturias-133124086)<br>
 18:10 [¿Quién era el Guardia Civil destinado en Zamora que ha matado a su exmujer en el puesto de Llanes (Asturias)?](https://www.elperiodico.com/es/sucesos/20260805/guardia-civil-destinado-zamora-matado-133123962)<br>
 18:00 [Barcelona fija una patrulla nocturna en el Turó de la Rovira y llena los accesos de avisos de multas por incivismo](https://www.elperiodico.com/es/barcelona/20260805/barcelona-turo-rovira-bunkers-multas-carteles-guardia-urbana-133122077)<br>
