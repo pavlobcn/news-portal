@@ -1,9 +1,10 @@
-# News for 2026-08-05 23:23
+# News for 2026-08-06 00:08
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
 ## ua.korrespondent.net
 23:20 [Втретє за два тижні: у Грузії стався масштабний блекаут](https://ua.korrespondent.net/world/4900393-vtretie-za-dva-tyzhni-u-hruzii-stavsia-masshtabnyi-blekaut)<br>
+22:36 [Диверсія в Лейпцигу. Дрон біля українського літака](https://ua.korrespondent.net/world/4900404-dyversiia-v-leiptsyhu-dron-bilia-ukrainskoho-litaka)<br>
 22:23 [Вивозив тіла полеглих: загинув керівник пошукового загону Олексій Юков](https://ua.korrespondent.net/ukraine/4900387-vyvozyv-tila-polehlykh-zahynuv-kerivnyk-poshukovoho-zahonu-oleksii-yukov)<br>
 21:55 [Російські хакери шпигують через Wi-Fi у готелях - Microsoft](https://ua.korrespondent.net/world/4900383-rosiiski-khakery-shpyhuuit-cherez-Wi-Fi-u-hoteliakh-Microsoft)<br>
 20:57 [Україна та Румунія розвиватимуть альтернативну логістику для агроекспорту](https://ua.korrespondent.net/business/economics/4900370-ukraina-ta-rumuniia-rozvyvatymut-alternatyvnu-lohistyku-dlia-ahroeksportu)<br>
@@ -90,6 +91,8 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Así organizamos hoy los gastos de verano: del carrito de compra al pago flexible](https://www.elperiodico.com/es/sociedad/20260805/organizamos-hoy-gastos-verano-carrito-bc-133130042)<br>
+23:59 [Por qué cada vez más viajeros eligen el tren para descubrir España](https://www.elperiodico.com/es/sociedad/20260805/vez-viajeros-eligen-tren-descubrir-bc-133130013)<br>
 22:03 [China reforzará la prevención de desastres geológicos ante el cambio climático](https://www.elperiodico.com/es/internacional/20260805/china-reforzara-prevencion-desastres-geologicos-133126687)<br>
 21:55 [China utiliza por primera vez un enjambre de drones para observar un tifón desde dentro](https://www.elperiodico.com/es/internacional/20260805/china-utiliza-primera-vez-enjambre-133126688)<br>
 21:19 [Un tiroteo causa un número indeterminado de muertos en Carolina del Norte](https://www.elperiodico.com/es/internacional/20260805/tiroteo-causa-numero-indeterminado-muertos-133128458)<br>

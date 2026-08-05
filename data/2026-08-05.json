@@ -1,5 +1,41 @@
 [
   {
+    "title": "Así organizamos hoy los gastos de verano: del carrito de compra al pago flexible",
+    "link": "https://www.elperiodico.com/es/sociedad/20260805/organizamos-hoy-gastos-verano-carrito-bc-133130042",
+    "pubDate": "2026-08-05 23:59:29",
+    "category": "",
+    "description": "<h2>Cada vez más usuarios valoran disponer de herramientas que les permitan organizar mejor determinados gastos. En este contexto han ganado protagonismo las soluciones “Compra ahora, paga después”, BNPL, que permiten dividir el coste de una compra en varios pagos.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Por qué cada vez más viajeros eligen el tren para descubrir España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260805/vez-viajeros-eligen-tren-descubrir-bc-133130013",
+    "pubDate": "2026-08-05 23:59:27",
+    "category": "",
+    "description": "<h2>iryo está transformando la forma de recorrer el país. La alta velocidad que propone solo acerca ciudades, también convierte el trayecto en una parte esencial de la experiencia y facilita descubrir nuevos destinos de una forma más flexible, cómoda y consciente.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 6 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260805/portada-periodico-6-agosto-2026-133129917",
+    "pubDate": "2026-08-05 23:50:13",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Залужний пояснив свої слова про неможливість вступу України до НАТО",
+    "link": "https://ua.korrespondent.net/ukraine/4900395-zaluzhnyi-poiasnyv-svoi-slova-pro-nemozhlyvist-vstupu-ukrainy-do-nato",
+    "pubDate": "2026-08-05 23:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519442.jpg\">Ексголовком вважає, що Україні потрібен новий силовий блок, ймовірніше за все, з територіальною прив'язкою у Європі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Ayuso no quiere a nadie por encima",
     "link": "https://www.elperiodico.com/es/opinion/20260805/ayuso-no-quiere-nadie-encima-133129751",
     "pubDate": "2026-08-05 23:22:22",
@@ -27,6 +63,15 @@
     "topic_match_probability": 45
   },
   {
+    "title": "Реал погодив із Лейпцигом перехід 19-річного Діоманде за 125 млн євро",
+    "link": "https://ua.korrespondent.net/sport/football/4900396-real-pohodyv-iz-leiptsyhom-perekhid-19-richnoho-diomande-za-125-mln-yevro",
+    "pubDate": "2026-08-05 23:18:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519416.jpg\">19-річний вінгер збірної Кот-д’Івуару змінить прописку і переїде до Іспанії в мадридський клуб.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Корецький назвав кроки для порятунку бізнеса",
     "link": "https://ua.korrespondent.net/ukraine/4900390-koretskyi-nazvav-kroky-dlia-poriatunku-biznesa",
     "pubDate": "2026-08-05 22:52:00",
@@ -34,6 +79,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519415.jpg\">Уряд разом із бізнесом опрацьовує конкретні рішення для збереження безперервної роботи підприємств.",
     "topic": "політика",
     "topic_match_probability": 55
+  },
+  {
+    "title": "Диверсія в Лейпцигу. Дрон біля українського літака",
+    "link": "https://ua.korrespondent.net/world/4900404-dyversiia-v-leiptsyhu-dron-bilia-ukrainskoho-litaka",
+    "pubDate": "2026-08-05 22:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519471.jpg\">Посол України в Німеччині Олексій Макеєв припустив, що за спробою підриву українського літака стоять російські спецслужби.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Вивозив тіла полеглих: загинув керівник пошукового загону Олексій Юков",
@@ -45,6 +99,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"Намагаються зламати Київ\". Реакція Заходу на удар",
+    "link": "https://ua.korrespondent.net/ukraine/4900398-namahauitsia-zlamaty-kyiv-reaktsiia-zakhodu-na-udar",
+    "pubDate": "2026-08-05 22:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519455.jpg\">Президент Франції Емманюель Макрон наголосив, що систематичні атаки лише підтверджують необхідність жорсткої відповідальності для держави-агресора.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "China reforzará la prevención de desastres geológicos ante el cambio climático",
     "link": "https://www.elperiodico.com/es/internacional/20260805/china-reforzara-prevencion-desastres-geologicos-133126687",
     "pubDate": "2026-08-05 22:03:24",
@@ -52,6 +115,15 @@
     "description": "<h2>El plan hasta 2030 contempla la identificación de zonas de riesgo, la mejora de la red de alerta temprana y simulacros locales</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Головний тренер Динамо закликав вірити в командну силу в матчі з Карабахом",
+    "link": "https://ua.korrespondent.net/sport/football/4900385-holovnyi-trener-dynamo-zaklykav-viryty-v-komandnu-sylu-v-matchi-z-karabakhom",
+    "pubDate": "2026-08-05 21:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519390.jpg\">Керманич київської команди кидає виклик супернику у рамках проведення Ліги конференцій і говорить про настрій своїх гравців.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Sorteo Bonoloto del miércoles 5 de agosto de 2026",
@@ -79,6 +151,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519391.jpg\">Метою атак є викрадення облікових даних, файлів та інформації про натискання клавіш у користувачів готельних мереж.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "У команді Ньюкасла офіційно новий головний тренер",
+    "link": "https://ua.korrespondent.net/sport/football/4900381-u-komandi-nuikasla-ofitsiino-novyi-holovnyi-trener",
+    "pubDate": "2026-08-05 21:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519360.jpg\">Англійську команду очолив 38-річний німецький спеціаліст Маттіас Яйссле.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Телевізори Samsung першими у світі отримають технологію HDR10+ Advanced",
