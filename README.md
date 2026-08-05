@@ -1,8 +1,9 @@
-# News for 2026-08-05 20:00
+# News for 2026-08-05 21:50
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
 ## ua.korrespondent.net
+20:57 [Україна та Румунія розвиватимуть альтернативну логістику для агроекспорту](https://ua.korrespondent.net/business/economics/4900370-ukraina-ta-rumuniia-rozvyvatymut-alternatyvnu-lohistyku-dlia-ahroeksportu)<br>
 19:54 [Дрони ЗСУ обвалили експорт російського пального Чорним та Азовським морями](https://ua.korrespondent.net/ukraine/4900353-drony-zsu-obvalyly-eksport-rosiiskoho-palnoho-chornym-ta-azovskym-moriamy)<br>
 19:42 [З'явилися зображення флагманського Google Pixel 11 Pro XL](https://ua.korrespondent.net/lifestyle/gadgets/4900350-ziavylysia-zobrazhennia-flahmanskoho-Google-Pixel-11-Pro-XL)<br>
 18:09 [Краматорськ тимчасово залишився без води](https://ua.korrespondent.net/ukraine/4900327-kramatorsk-tymchasovo-zalyshyvsia-bez-vody)<br>
@@ -86,6 +87,10 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:19 [Un tiroteo causa un número indeterminado de muertos en Carolina del Norte](https://www.elperiodico.com/es/internacional/20260805/tiroteo-causa-numero-indeterminado-muertos-133128458)<br>
+20:55 [El lamento de los amigos de Laura, la guardia civil asesinada por su exmarido en Asturias: "La mató por ser feliz y hacer su vida"](https://www.elperiodico.com/es/sucesos/20260805/laura-guardia-civil-victima-violencia-machista-llanes-asturias-133128184)<br>
+20:22 [Cuenta atrás para el "eclipse del siglo": 5 consejos para elegir el lugar idóneo para observar el fenómeno el próximo 12 de agosto](https://www.elperiodico.com/es/sociedad/20260805/eclipse-consejos-escoger-lugar-observacion-133097227)<br>
+20:00 [Miriam, catalana trabajando como minera en Australia: "Volver a España es mi plan Z, me tiene que ir muy mal en el extranjero para querer volver"](https://www.elperiodico.com/es/sociedad/20260805/miriam-catalana-trabajando-minera-australia-volver-espana-plan-z-extranjero-dv-et-133093111)<br>
 19:43 [El CosmoCaixa ofrece una programación especial para vivir el eclipse del 12 de agosto](https://www.elperiodico.com/es/ocio-y-cultura/20260805/cosmocaixa-ofrece-programacion-especial-vivir-133126520)<br>
 18:55 [Descubren ancestros fantasma ocultos en el ADN humano](https://www.elperiodico.com/es/tendencias21/20260805/descubren-ancestros-fantasma-ocultos-adn-133125331)<br>
 18:45 [Las unidades de grandes quemados logran recuperar a pacientes con el 85% del cuerpo dañado: "Hace poco era un milagro"](https://www.elperiodico.com/es/videos/salud/unidades-grandes-quemados-logran-recuperar/133125033.shtml)<br>
