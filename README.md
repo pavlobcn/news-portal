@@ -1,9 +1,24 @@
-# News for 2026-08-05 10:08
+# News for 2026-08-05 12:04
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
 ## ua.korrespondent.net
+12:01 [Росіяни атакували цивільні об’єкти на Харківщині](https://ua.korrespondent.net/ukraine/4900184-rosiiany-atakuvaly-tsyvilni-obiekty-na-kharkivschyni)<br>
+11:52 [Казахстан нарощує експорт нафти через Батумі в обхід РФ](https://ua.korrespondent.net/world/4900180-kazakhstan-naroschuie-eksport-nafty-cherez-batumi-v-obkhid-rf)<br>
+11:45 [В Україні через російський обстріл загинув польський волонтер](https://ua.korrespondent.net/ukraine/4900176-v-ukraini-cherez-rosiiskyi-obstril-zahynuv-polskyi-volonter)<br>
+11:39 [Майора ВСП викрили на "допомозі" військовому в СЗЧ](https://ua.korrespondent.net/ukraine/4900173-maiora-vsp-vykryly-na-dopomozi-viiskovomu-v-szch)<br>
+11:29 [В Уфі палає нафтопереробний завод після атаки БпЛА](https://ua.korrespondent.net/ukraine/4900165-v-ufi-palaie-naftopererobnyi-zavod-pislia-ataky-bpla)<br>
+11:26 [Названо найпопулярніші спеціальності серед вступників у 2026 році](https://ua.korrespondent.net/ukraine/4900162-nazvano-naipopuliarnishi-spetsialnosti-sered-vstupnykiv-u-2026-rotsi)<br>
+11:13 [Індія відмовилася від російських Су-57](https://ua.korrespondent.net/world/4900158-indiia-vidmovylasia-vid-rosiiskykh-su-57)<br>
+10:59 [РФ вдарила Бандероллю по Харкову: постраждали дев'ятеро людей](https://ua.korrespondent.net/city/kharkov/4900153-rf-vdaryla-banderollui-po-kharkovu-postrazhdaly-deviatero-luidei)<br>
+10:50 [Міносвіти назвало ВУЗи, у які надійшло найбільше заяв на вступ](https://ua.korrespondent.net/ukraine/4900152-minosvity-nazvalo-vuzy-u-yaki-nadiishlo-naibilshe-zaiav-na-vstup)<br>
+10:49 [В Одесі затримали коригувальника ГРУ](https://ua.korrespondent.net/city/odessa/4900151-v-odesi-zatrymaly-koryhuvalnyka-hru)<br>
+10:44 [Топ-5 місць у Києві, де варто провести незабутні вихідні](https://ua.korrespondent.net/lifestyle/travel/4900148-top-5-mists-u-kyievi-de-varto-provesty-nezabutni-vykhidni)<br>
+10:36 [Обміління Дунаю: Румунія вдається до незвичного рішення](https://ua.korrespondent.net/world/4900146-obmilinnia-dunaui-rumuniia-vdaietsia-do-nezvychnoho-rishennia)<br>
+10:22 [Відомий шоумен поскаржився на проблеми зі здоров'ям](https://ua.korrespondent.net/lifestyle/4900137-vidomyi-shoumen-poskarzhyvsia-na-problemy-zi-zdoroviam)<br>
+10:08 [Донеччина після нових атак РФ: загиблі, поранені та масштабні руйнування](https://ua.korrespondent.net/ukraine/4900135-donechchyna-pislia-novykh-atak-rf-zahybli-poraneni-ta-masshtabni-ruinuvannia)<br>
 09:55 [Укренерго попередило мешканців Києва і області](https://ua.korrespondent.net/ukraine/4900131-ukrenerho-poperedylo-meshkantsiv-kyieva-i-oblasti)<br>
+09:30 [Трамп анонсував відкриття Ормузької протоки](https://ua.korrespondent.net/world/4900122-tramp-anonsuvav-vidkryttia-ormuzkoi-protoky)<br>
 09:13 [Незаконна вирубка лісу в Медоборах: пні маскували ґрунтом і гіллям](https://ua.korrespondent.net/ukraine/4900118-nezakonna-vyrubka-lisu-v-medoborakh-pni-maskuvaly-gruntom-i-hilliam)<br>
 09:05 [Свята 5 серпня 2026 року: що не можна робити в цей день](https://ua.korrespondent.net/lifestyle/4900037-sviata-5-serpnia-2026-roku-scho-ne-mozhna-robyty-v-tsei-den)<br>
 09:02 [Зеленський відреагував на удар по Києву та області](https://ua.korrespondent.net/ukraine/4900113-zelenskyi-vidreahuvav-na-udar-po-kyievu-ta-oblasti)<br>
@@ -30,10 +45,20 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 00:16 [Удар по Києву: перша інформація про наслідки](https://ua.korrespondent.net/city/kiev/4900065-udar-po-kyievu-persha-informatsiia-pro-naslidky)<br>
 
 ## as.com
+10:52 [Stefan Joksimovic, ¿el próximo Doncic?](https://as.com/baloncesto/mas_baloncesto/stefan-joksimovic-el-proximo-doncic-f202608-n/)<br>
 07:34 [La ACB toma ‘el control’ de la Euroliga](https://as.com/baloncesto/euroliga/la-acb-toma-el-control-de-la-euroliga-f202608-n/)<br>
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:00 [Nazis y fámulas en la Barcelona de 1941: "Las monjitas no advertían a las sirvientas de que el señor podía abusar de ellas si quería"](https://www.elperiodico.com/es/ocio-y-cultura/20260805/entrevista-marta-platel-novela-el-baile-de-las-criadas-nazis-barcelona-1941-131756437)<br>
+11:08 [Un incendio deja sin luz durante dos horas a casi 4.000 vecinos de Viladecans, Sant Boi, Gavà y Castelldefels](https://www.elperiodico.com/es/barcelona/20260805/incendio-deja-sin-luz-dos-horas-casi-4000-vecinos-viladecans-sant-boi-gava-castelldefels-133106935)<br>
+11:07 [Tres años del asesinato de Daniel Sancho a Edwin Arrieta en Tailandia: ¿Cuál fue el veredicto? ¿Cuánta condena aún debe cumplir? ¿Podría volver a España? ¿Y recibir un indulto?](https://www.elperiodico.com/es/sociedad/20260805/tres-anos-asesinato-daniel-sancho-edwin-arrieta-133107888)<br>
+10:58 [Barcelona estrena un callejero virtual para consultar los nombres antiguos y proponer cambios](https://www.elperiodico.com/es/barcelona/20260805/barcelona-estrena-callejero-virtual-consultar-cambiar-nombre-calles-133108383)<br>
+10:50 [Mbappé y Ester Expósito visitan la Sagrada Família durante una escapada a Barcelona](https://www.elperiodico.com/es/videos/gente/mbappe-ester-exposito-visitan-sagrada-familia-escapada-barcelona-video/133109038.shtml)<br>
+10:32 [Muchos trabajadores desconocen que pueden pedir un día de permiso retribuido por mudarse de casa: estos son los requisitos](https://www.elperiodico.com/es/economia/20260805/trabajadores-pueden-pedir-un-dia-permiso-mudanza-dv-133108202)<br>
+10:25 [Ucrania ataca con drones un centro logístico de Wildberries, el "Amazon ruso"](https://www.elperiodico.com/es/videos/internacional/ucrania-ataca-drones-centro-logistico-amazon-ruso/133108313.shtml)<br>
+10:20 [Brote de diarrea explosiva: así es la enfermedad que ha causado ya dos muertes y más de 11.000 casos en Estados Unidos](https://www.elperiodico.com/es/salud/20260805/brote-diarrea-explosiva-enfermedad-causado-casos-estados-unidos-132517359)<br>
+10:14 [Sònia Hernández sobre una salida forzosa de los murales de Sijena: "No quiero imaginar esa imagen lamentable"](https://www.elperiodico.com/es/ocio-y-cultura/20260805/cultura-sonia-hernandez-salida-forzosa-murales-sijena-imagen-lamentable-133107502)<br>
 10:00 [Álvaro, ingeniero de software español que trabaja en Estados Unidos: "Gano 9.160 euros al mes que después de impuestos se quedan en 7.520 euros"](https://www.elperiodico.com/es/economia/20260805/alvaro-ingeniero-software-espanol-trabaja-estados-unidos-salario-dv-130921913)<br>
 09:59 [Confirmado: la Seguridad Social dejará de enviar cartas a estos trabajadores a partir del 1 de septiembre](https://www.elperiodico.com/es/economia/20260805/seguridad-social-dejara-enviar-cartas-1-septiembre-dv-133107004)<br>
 09:53 [La Policía Local de Sevilla detiene a un hombre con un hacha que iba a matar a su pareja](https://www.elperiodico.com/es/sucesos/20260805/policia-local-sevilla-detiene-hombre-133107275)<br>
