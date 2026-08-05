@@ -1,5 +1,41 @@
 [
   {
+    "title": "Ayuso no quiere a nadie por encima",
+    "link": "https://www.elperiodico.com/es/opinion/20260805/ayuso-no-quiere-nadie-encima-133129751",
+    "pubDate": "2026-08-05 23:22:22",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Втретє за два тижні: у Грузії стався масштабний блекаут",
+    "link": "https://ua.korrespondent.net/world/4900393-vtretie-za-dva-tyzhni-u-hruzii-stavsia-masshtabnyi-blekaut",
+    "pubDate": "2026-08-05 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519429.jpg\">Аварія сталася під час випробувань енергоблоків Енгурської ГЕС. У країні було знеструмлено майже всі основні лінії електропередач.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Conectamos Sant Cugat con el mundo para generar oportunidades",
+    "link": "https://www.elperiodico.com/es/opinion/20260805/sant-cugat-del-valles-conectar-economia-mundo-133126755",
+    "pubDate": "2026-08-05 23:18:44",
+    "category": "",
+    "description": "<h2>Convenios como los que acabamos de firmar en China nos permitirán ser todavía más ambiciosos y generar nuevas oportunidades para seguir transformando nuestra ciudad en los próximos años</h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Корецький назвав кроки для порятунку бізнеса",
+    "link": "https://ua.korrespondent.net/ukraine/4900390-koretskyi-nazvav-kroky-dlia-poriatunku-biznesa",
+    "pubDate": "2026-08-05 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519415.jpg\">Уряд разом із бізнесом опрацьовує конкретні рішення для збереження безперервної роботи підприємств.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
     "title": "Вивозив тіла полеглих: загинув керівник пошукового загону Олексій Юков",
     "link": "https://ua.korrespondent.net/ukraine/4900387-vyvozyv-tila-polehlykh-zahynuv-kerivnyk-poshukovoho-zahonu-oleksii-yukov",
     "pubDate": "2026-08-05 22:23:00",
@@ -32,6 +68,15 @@
     "pubDate": "2026-08-05 21:55:45",
     "category": "",
     "description": "<h2>El experimento chino busca ofrecer una solución replicable y de bajo coste para mejorar la predicción de tifones en zonas costeras vulnerables</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російські хакери шпигують через Wi-Fi у готелях - Microsoft",
+    "link": "https://ua.korrespondent.net/world/4900383-rosiiski-khakery-shpyhuuit-cherez-Wi-Fi-u-hoteliakh-Microsoft",
+    "pubDate": "2026-08-05 21:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519391.jpg\">Метою атак є викрадення облікових даних, файлів та інформації про натискання клавіш у користувачів готельних мереж.",
     "topic": "",
     "topic_match_probability": 0
   },
