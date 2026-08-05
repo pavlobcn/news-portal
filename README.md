@@ -1,8 +1,10 @@
-# News for 2026-08-05 06:31
+# News for 2026-08-05 07:32
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
 ## ua.korrespondent.net
+07:21 [Обстріли Херсонщини: є жертва та 18 поранених](https://ua.korrespondent.net/ukraine/4900092-obstrily-khersonschyny-ye-zhertva-ta-18-poranenykh)<br>
+06:55 [Удар по Київщині: 14 загиблих, 22 поранених](https://ua.korrespondent.net/ukraine/4900089-udar-po-kyivschyni-14-zahyblykh-22-poranenykh)<br>
 06:24 [Генштаб оновив втрати РФ у війні](https://ua.korrespondent.net/ukraine/4900086-henshtab-onovyv-vtraty-rf-u-viini)<br>
 04:25 [У ДСНС розповіли про наслідки атаки РФ](https://ua.korrespondent.net/ukraine/4900081-u-dsns-rozpovily-pro-naslidky-ataky-rf)<br>
 03:53 [У РФ палає черговий склад WB - соцмережі](https://ua.korrespondent.net/world/russia/4900079-u-rf-palaie-cherhovyi-sklad-WB-sotsmerezhi)<br>
@@ -15,6 +17,8 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 00:16 [Удар по Києву: перша інформація про наслідки](https://ua.korrespondent.net/city/kiev/4900065-udar-po-kyievu-persha-informatsiia-pro-naslidky)<br>
 
 ## www.elperiodico.com
+07:05 [Asocian la contaminación atmosférica con una mayor actividad de la artritis reumatoide](https://www.elperiodico.com/es/sanidad/20260805/asocian-contaminacion-atmosferica-mayor-actividad-133105202)<br>
+07:00 [El TripAdvisor de los ‘sexcondites’ en Barcelona (escondites públicos y playas "discretas" donde practicar sexo)](https://www.elperiodico.com/es/que-hacer/planes/20260805/tripadvisor-sexcondites-barcelona-escondites-sexo-picaderos-playas-133093430)<br>
 06:01 [La pregunta que toda persona con miopía y el astigmatismo se hace ante el eclipse: ¿cómo me pongo las gafas homologadas si ya llevo gafas para ver?](https://www.elperiodico.com/es/sociedad/20260805/como-poner-gafas-miopia-astigmatismo-eclipse-133085878)<br>
 06:01 [Las lanchas de 'domingueros' tensionan Salvamento Marítimo: "No somos la grúa del mar"](https://www.elperiodico.com/es/sucesos/20260805/lanchas-domingueros-tensionan-salvamento-maritimo-133086739)<br>
 06:00 [España, la gran bolsa europea que más gana tras el fin de la pandemia](https://www.elperiodico.com/es/economia/20260805/espana-gran-bolsa-europea-gana-133104735)<br>
