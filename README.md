@@ -1,4 +1,4 @@
-# News for 2026-08-05 16:35
+# News for 2026-08-05 17:08
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
@@ -78,6 +78,10 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:07 [El precio del euríbor hoy, 5 de agosto: primera corrección del mes en el mercado de las hipotecas](https://www.elperiodico.com/es/economia/20260805/euribor-precio-hoy-5-agosto-dv-133121861)<br>
+17:00 [Las imágenes más nítidas jamás captadas de la superficie del Sol desvelan los vórtices de plasma invisibles que alimentan las tormentas solares](https://www.elperiodico.com/es/sociedad/20260805/imagenes-superficie-sol-estudio-tormentas-solares-133093909)<br>
+16:42 [La playa escondida del Tibidabo: chorros de agua, hamacas para los mayores y juguetes para los niños](https://www.elperiodico.com/es/barcelona/20260805/playa-escondida-tibidabo-chorros-agua-barcelona-133120890)<br>
+16:38 [Matías quiere construir él solo su nueva casa hecha a base de contenedores marítimos: "La idea es hacer todo el proyecto solo con tutoriales de YouTube"](https://www.elperiodico.com/es/economia/20260805/casa-contenedores-maritimos-construccion-youtube-precios-vivienda-matias-dv-et-133095298)<br>
 16:32 [Una mujer con problemas de salud mental apuñala a cuatro personas en el centro de Londres](https://www.elperiodico.com/es/internacional/20260805/cuatro-personas-apunaladas-covent-garden-londres-133120919)<br>
 16:30 [Montserrat Torrent, un particular debut en Perelada a los 100 años: el desafío de tocar con un órgano portátil en un sitio inédito](https://www.elperiodico.com/es/ocio-y-cultura/20260805/montserrat-torrent-particular-debut-peralada-organo-portatil-100-anos-133096341)<br>
 16:23 [Sandra (27 años) vive con miedo en una cueva: "Me sujetó de las manos, obligándome a que yo me fuera a un cortijo con él. Me intentó secuestrar..."](https://www.elperiodico.com/es/economia/20260805/vive-cueva-miedo-gitana-transexual-sandra-dv-et-133093399)<br>
