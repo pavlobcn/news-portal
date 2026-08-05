@@ -1,5 +1,149 @@
 [
   {
+    "title": "El precio del euríbor hoy, 5 de agosto: primera corrección del mes en el mercado de las hipotecas",
+    "link": "https://www.elperiodico.com/es/economia/20260805/euribor-precio-hoy-5-agosto-dv-133121861",
+    "pubDate": "2026-08-05 17:07:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El euríbor hoy: este es el índice en el que se sitúa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260803/euribor-vuelve-golpear-miles-hipotecados-712-euros-mas-ano-133060503\" >El euríbor vuelve a golpear a miles de hipotecados y podrían pagar hasta 712 euros más al año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vandalizan una figura festiva de los Diables de Sant Pere Nord en su sede de Terrassa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/vandalizan-figura-festiva-diables-sant/133121844.shtml",
+    "pubDate": "2026-08-05 17:05:16",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Зеленський провів засідання РНБО",
+    "link": "https://ua.korrespondent.net/ukraine/4900312-zelenskyi-proviv-zasidannia-rnbo",
+    "pubDate": "2026-08-05 17:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519205.jpg\">Глава держави заявив про відставання частини міст і регіонів від виконання визначених планів стійкості.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las imágenes más nítidas jamás captadas de la superficie del Sol desvelan los vórtices de plasma invisibles que alimentan las tormentas solares",
+    "link": "https://www.elperiodico.com/es/sociedad/20260805/imagenes-superficie-sol-estudio-tormentas-solares-133093909",
+    "pubDate": "2026-08-05 17:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El trabajo confirma por primera vez la existencia de la inestabilidad de Kelvin-Helmholtz, unos vórtices de plasma invisibles hasta ahora que podrían estar detrás de la actividad solar más violenta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260624/eco-colision-agujeros-negros-horizonte-sucesos-estudio-131769173\">El eco de la colisión de dos agujeros negros desvela por primera vez el pulso del horizonte de sucesos donde nada, ni siquiera la luz, logra escapar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Патель заявив про нову еру співпраці ФБР із Китаєм і Росією",
+    "link": "https://ua.korrespondent.net/world/4900310-patel-zaiavyv-pro-novu-eru-spivpratsi-fbr-iz-kytaiem-i-rosiieui",
+    "pubDate": "2026-08-05 16:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519194.jpg\">Глава ФБР  заявив про новий формат співпраці з Китаєм і Росією у боротьбі з транснаціональною злочинністю.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Un nuevo robo de cable interrumpe la circulación de toda la R3 de Rodalies",
+    "link": "https://www.elperiodico.com/es/sociedad/20260805/nuevo-robo-cable-interrumpe-circulacion-133121507",
+    "pubDate": "2026-08-05 16:58:43",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La fiscalía de Tetuán procesa a 25 personas por organizar los cruces irregulares hacia Ceuta el pasado jueves",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/fiscalia-tetuan-procesa-25-personas/133121589.shtml",
+    "pubDate": "2026-08-05 16:55:58",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 40
+  },
+  {
+    "title": "Російська музика на пляжі: у Трускавці покарають відпочивальників",
+    "link": "https://ua.korrespondent.net/ukraine/4900305-rosiiska-muzyka-na-pliazhi-u-truskavtsi-pokarauit-vidpochyvalnykiv",
+    "pubDate": "2026-08-05 16:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519195.jpg\">Поліціянти встановили особи порушників - двох жінок та чоловіка, котрі тимчасово мешкають у Дрогобицькому районі.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 35
+  },
+  {
+    "title": "Vandalizan una figura festiva de los Diables de Sant Pere Nord en su sede de Terrassa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260805/vandalizan-figura-festiva-diables-sant-terrassa-133120179",
+    "pubDate": "2026-08-05 16:52:22",
+    "category": "",
+    "description": "<h2>La colla ha difundido un vídeo en el que un joven golpea y arroja al suelo la Morgana, una de sus bestias de fuego, para pedir ayuda en su identificación</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/terrasa/20260412/correfoc-descontrola-empana-cierre-culturassa-terrassa-129002815\">Un menor herido tras un incidente en el correfoc de La Culturassa de Terrassa</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Мудрик провів свій перший матч після відсторонення",
+    "link": "https://ua.korrespondent.net/sport/football/4900304-mudryk-proviv-svii-pershyi-match-pislia-vidstoronennia",
+    "pubDate": "2026-08-05 16:51:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519175.jpg\">Український футболіст, який є гравцем англійського Челсі, узяв участь у товариському матчі команди, вийшовши на поле після тривалої дискваліфікації.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La playa escondida del Tibidabo: chorros de agua, hamacas para los mayores y juguetes para los niños",
+    "link": "https://www.elperiodico.com/es/barcelona/20260805/playa-escondida-tibidabo-chorros-agua-barcelona-133120890",
+    "pubDate": "2026-08-05 16:42:08",
+    "category": "",
+    "description": "<h2>La instalación ‘viste’ las fuentes que inauguró en 2017, que están disponibles de 11.00 a 22.00 junto a la atracción Beyond</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260729/espectaculo-nocturno-laser-show-tibidabo-verano-132916344\">El Tibidabo recupera su 'Laser Show' nocturno y estrena una 'playa' con sombrillas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Irán y Omán ultiman un nuevo estatus para el estrecho de Ormuz que daría el control del tráfico a Teherán",
+    "link": "https://www.elperiodico.com/es/internacional/20260805/iran-oman-ultiman-nuevo-estatus-estrecho-ormuz-control-trafico-teheran-133121340",
+    "pubDate": "2026-08-05 16:42:07",
+    "category": "",
+    "description": "<h2>Oficiales anónimos de la República Islámica aseguran a la prensa que el acuerdo con Mascate es inminente, pero avisan que la apertura de la vía \"depende de las acciones de EEUU, que viola la ley internacional con sus ataques\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Росія знищила склад запчастин Toyota в Україні",
+    "link": "https://ua.korrespondent.net/business/auto/4900301-rosiia-znyschyla-sklad-zapchastyn-Toyota-v-ukraini",
+    "pubDate": "2026-08-05 16:40:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519193.jpg\">Компанія вже перебудовує логістику, але попереджає про можливі тимчасові затримки з постачанням окремих товарів.",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un guardia civil mata a su exmujer en un cuartel de Asturias y muere tras un tiroteo con compañeros en su huida",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/guardia-civil-mata-exmujer-cuartel-llanes-asturias/133121179.shtml",
+    "pubDate": "2026-08-05 16:38:37",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Matías quiere construir él solo su nueva casa hecha a base de contenedores marítimos: \"La idea es hacer todo el proyecto solo con tutoriales de YouTube\"",
+    "link": "https://www.elperiodico.com/es/economia/20260805/casa-contenedores-maritimos-construccion-youtube-precios-vivienda-matias-dv-et-133095298",
+    "pubDate": "2026-08-05 16:38:29",
+    "category": "",
+    "description": "<h2>El hombre, que pretende finalizar su nuevo hogar en menos de dos años, confiesa: \"Aunque lo construyas tú, tienes que tener siempre el proyecto de un arquitecto para cumplir las leyes\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260801/vive-furgoneta-alquiler-precio-elevado-ibiza-jose-dv-et-132931396\">José vive la mitad del año en una furgoneta: \"La vivienda es tan cara que vivo aquí para poder mantenerme luego en invierno\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260713/maria-vive-casa-abandonada-aislada-bosque-asturias-dv-et-132260649\">María (32 años) vive en un bosque sin electricidad de red ni agua caliente: “Vives un poco con los ritmos de la vida”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Папа Римський вирушить у першу подорож до Латинської Америки",
+    "link": "https://ua.korrespondent.net/world/4900300-papa-rymskyi-vyrushyt-u-pershu-podorozh-do-latynskoi-ameryky",
+    "pubDate": "2026-08-05 16:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519192.jpg\">Папа Римський Лев XIV у листопаді здійснить Апостольську подорож до трьох країн Латинської Америки - Уругваю, Аргентини та Перу.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
     "title": "Una mujer con problemas de salud mental apuñala a cuatro personas en el centro de Londres",
     "link": "https://www.elperiodico.com/es/internacional/20260805/cuatro-personas-apunaladas-covent-garden-londres-133120919",
     "pubDate": "2026-08-05 16:32:24",
