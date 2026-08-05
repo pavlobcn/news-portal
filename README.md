@@ -1,8 +1,11 @@
-# News for 2026-08-05 12:04
+# News for 2026-08-05 12:46
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
 ## ua.korrespondent.net
+12:27 [Україна отримає €1,4 млрд за рахунок активів РФ](https://ua.korrespondent.net/world/4900194-ukraina-otrymaie-14-mlrd-za-rakhunok-aktyviv-rf)<br>
+12:16 [Дрон з детонатором зупинив роботу німецького аеропорту](https://ua.korrespondent.net/world/4900190-dron-z-detonatorom-zupynyv-robotu-nimetskoho-aeroportu)<br>
+12:12 [Генштаб повідомив про ураження об'єктів в РФ та на ТОТ](https://ua.korrespondent.net/ukraine/4900188-henshtab-povidomyv-pro-urazhennia-obiektiv-v-rf-ta-na-tot)<br>
 12:01 [Росіяни атакували цивільні об’єкти на Харківщині](https://ua.korrespondent.net/ukraine/4900184-rosiiany-atakuvaly-tsyvilni-obiekty-na-kharkivschyni)<br>
 11:52 [Казахстан нарощує експорт нафти через Батумі в обхід РФ](https://ua.korrespondent.net/world/4900180-kazakhstan-naroschuie-eksport-nafty-cherez-batumi-v-obkhid-rf)<br>
 11:45 [В Україні через російський обстріл загинув польський волонтер](https://ua.korrespondent.net/ukraine/4900176-v-ukraini-cherez-rosiiskyi-obstril-zahynuv-polskyi-volonter)<br>
@@ -50,6 +53,12 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:45 [Lucía Menéndez, abogada, sobre la nuda propiedad en herencias: "Hay gente que piensa que la casa ya es heredada y que puede hacer lo que quiera con ella, pero no es así"](https://www.elperiodico.com/es/economia/20260805/lucia-menendez-abogada-nuda-propiedad-vivienda-heredada-usufructo-dv-133111492)<br>
+12:35 [Ni apuñalamientos mortales, ni cesión de Ceuta a Marruecos, ni vuelos directos a Italia: los bulos de la crisis migratoria](https://www.elperiodico.com/es/sociedad/20260805/bulos-fakes-ceuta-chequeo-apunalamientos-mortales-cesion-marruecos-trump-133111840)<br>
+12:30 [Leyla Kazim, la mujer que no hizo nada en su trabajo durante un año: "Desarrollé la sospecha de que mi puesto era irrelevante e inútil"](https://www.elperiodico.com/es/economia/20260805/empleada-finge-trabajar-un-ano-leyla-kazim-dv-et-132710199)<br>
+12:25 [Barcelona compra 201 aparatos de inteligencia artificial capaces de traducir 82 idiomas para policías y funcionarios](https://www.elperiodico.com/es/barcelona/20260805/barcelona-inteligencia-artificial-traductores-idiomas-guardia-urbana-servicios-sociales-133112565)<br>
+12:11 [Al menos 17 muertos y 50 heridos en bombardeos rusos contra Kiev](https://www.elperiodico.com/es/videos/internacional/17-muertos-50-heridos-bombardeos-rusos-kiev/133112175.shtml)<br>
+12:09 [Cuerpo alerta del riesgo de cierre de pequeños negocios en Ceuta y estudia medidas de apoyo](https://www.elperiodico.com/es/economia/20260805/cuerpo-alerta-riesgo-cierre-pequenos-133112127)<br>
 12:00 [Nazis y fámulas en la Barcelona de 1941: "Las monjitas no advertían a las sirvientas de que el señor podía abusar de ellas si quería"](https://www.elperiodico.com/es/ocio-y-cultura/20260805/entrevista-marta-platel-novela-el-baile-de-las-criadas-nazis-barcelona-1941-131756437)<br>
 11:08 [Un incendio deja sin luz durante dos horas a casi 4.000 vecinos de Viladecans, Sant Boi, Gavà y Castelldefels](https://www.elperiodico.com/es/barcelona/20260805/incendio-deja-sin-luz-dos-horas-casi-4000-vecinos-viladecans-sant-boi-gava-castelldefels-133106935)<br>
 11:07 [Tres años del asesinato de Daniel Sancho a Edwin Arrieta en Tailandia: ¿Cuál fue el veredicto? ¿Cuánta condena aún debe cumplir? ¿Podría volver a España? ¿Y recibir un indulto?](https://www.elperiodico.com/es/sociedad/20260805/tres-anos-asesinato-daniel-sancho-edwin-arrieta-133107888)<br>
