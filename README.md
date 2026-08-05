@@ -1,4 +1,4 @@
-# News for 2026-08-05 14:11
+# News for 2026-08-05 14:47
 
 Previous day: [2026-08-04](./data/2026-08-04.md)
 
@@ -58,6 +58,14 @@ Previous day: [2026-08-04](./data/2026-08-04.md)
 07:34 [España, la mejor defensa del Eurobasket Sub-18](https://as.com/baloncesto/mas_baloncesto/espana-la-mejor-defensa-del-eurobasket-sub-18-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:41 [Una agente muerta y al menos un herido por un tiroteo en el cuartel de la Guardia Civil de Asturias](https://www.elperiodico.com/es/sucesos/20260805/agente-muerta-herido-tiroteo-cuartel-133117982)<br>
+14:36 [Aleksander Sekulic toma las riendas del básquet azulgrana: "Es un gran honor y una gran responsabilidad"](https://www.elperiodico.com/es/deportes/20260805/aleksander-sekulic-toma-riendas-basquet-133112896)<br>
+14:35 [Barcelona despliega 201 traductores con inteligencia artificial para la atención ciudadana](https://www.elperiodico.com/es/videos/sociedad/barcelona-despliega-201-traductores-inteligencia-artificial-atencion-ciudadana-video/133117721.shtml)<br>
+14:27 [Un muerto y dos heridos graves tras una explosión en una nave industrial de Gran Canaria](https://www.elperiodico.com/es/sucesos/20260805/fallecido-heridos-graves-explosion-nave-133117471)<br>
+14:15 [¿Cómo conseguir gratis en Barcelona las gafas para ver el eclipse solar del 12 de agosto?](https://www.elperiodico.com/es/videos/sociedad/conseguir-gratis-barcelona-gafas-ver-eclipse-12-agosto-video/133116985.shtml)<br>
+14:14 [Catalunya vuelve a activar el Inuncat por la intensidad y acumulación de lluvia: 40 l/m² en 30 minutos](https://www.elperiodico.com/es/sociedad/20260805/catalunya-vuelve-activar-inuncat-intensidad-lluvia-tormenta-133116838)<br>
+14:12 [La Fed calcula que el Santander crecerá un 33% en EEUU con Webster y eleva sus exigencias de supervisión](https://www.elperiodico.com/es/economia/20260805/fed-calcula-santander-crecera-33-133116957)<br>
+14:11 [Josemi Carmona despide a su padre, Pepe Habichuela: "Ha sido muy grande, un ser único y un gran referente"](https://www.elperiodico.com/es/gente/20260805/pepe-muere-habichuela-josemi-carmona-padre-133116729)<br>
 14:05 [El incendio de sexta generación de la Alta Ribagorça sigue activo y pone en jaque el hábitat del oso y el urogallo](https://www.elperiodico.com/es/sociedad/20260805/incendio-senet-mantiene-perimetro-estable-continua-activo-133116047)<br>
 14:02 [David Bueno, doctor en biología, sobre la reacción de los adolescentes a sus padres: "La voz de su madre activa la amígdala, pero en modo amenaza"](https://www.elperiodico.com/es/sociedad/20260805/cerebro-adolescentes-padres-hijos-david-bueno-neurocientifico-dv-et-130367646)<br>
 14:01 [Lucía Menéndez, abogada y experta legal: "Hay cosas que hacemos por costumbre, confianza o porque pensamos que tenemos derecho... hasta que aparece el problema"](https://www.elperiodico.com/es/economia/20260805/lucia-menendez-abogada-experta-legal-practicas-comunes-problemas-justicia-dv-133113509)<br>
