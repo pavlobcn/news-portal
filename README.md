@@ -1,8 +1,11 @@
-# News for 2026-08-06 09:23
+# News for 2026-08-06 11:19
 
 Previous day: [2026-08-05](./data/2026-08-05.md)
 
 ## ua.korrespondent.net
+10:54 [Уражено НПЗ в Ярославлі та Уфі - Генштаб](https://ua.korrespondent.net/ukraine/4900498-urazheno-npz-v-yaroslavli-ta-ufi-henshtab)<br>
+10:40 [Росіяни вдарили по Запоріжжю та області, шестеро постраждалих](https://ua.korrespondent.net/ukraine/4900492-rosiiany-vdaryly-po-zaporizhzhui-ta-oblasti-shestero-postrazhdalykh)<br>
+09:53 [Укренерго назвало області, де є відключення](https://ua.korrespondent.net/ukraine/4900475-ukrenerho-nazvalo-oblasti-de-ye-vidkluichennia)<br>
 09:08 [Обміління Дунаю: з води виринули десятки нацистських кораблів](https://ua.korrespondent.net/world/4900457-obmilinnia-dunaui-z-vody-vyrynuly-desiatky-natsystskykh-korabliv)<br>
 08:56 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4900455-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
 08:16 [Росіяни вдарили по Дніпропетровщині, є поранені](https://ua.korrespondent.net/ukraine/4900444-rosiiany-vdaryly-po-dnipropetrovschyni-ye-poraneni)<br>
@@ -19,10 +22,21 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 00:21 [РФ знищила 900 тисяч книг одного з видавництв](https://ua.korrespondent.net/business/companies/4900402-rf-znyschyla-900-tysiach-knyh-odnoho-z-vydavnytstv)<br>
 
 ## as.com
+09:20 [Hezonja se despide del Madrid](https://as.com/baloncesto/euroliga/hezonja-se-despide-del-madrid-f202608-n/)<br>
 07:48 [Una preparación atípica](https://as.com/baloncesto/mas_baloncesto/una-preparacion-atipica-f202608-n/)<br>
 07:33 [Satoransky muy crítico con el Barcelona: “Ganar en el baloncesto no les importa demasiado”](https://as.com/baloncesto/acb/satoransky-muy-critico-con-el-barcelona-ganar-en-el-baloncesto-no-les-importa-demasiado-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:07 [Shengelia deja el Barça tras pagar su cláusula de salida y apunta al Dubai de Xavi Pascual](https://www.elperiodico.com/es/deportes/20260806/shengelia-deja-barca-pagar-clausula-133136864)<br>
+11:04 [El aeropuerto de Barcelona-El Prat bate su récord de conexiones directas con Asia](https://www.elperiodico.com/es/economia/20260806/aeropuerto-barcelona-el-prat-bate-record-conexiones-asiaticas-verano-2026-datos-comite-rutas-133136054)<br>
+11:01 [Catalunya se descuelga del acelerón industrial en junio: crece un 2,2% frente al 3,8% de España](https://www.elperiodico.com/es/economia/20260806/catalunya-descuelga-aceleron-industrial-junio-133136881)<br>
+10:51 [Esta pequeña isla española de 50 habitantes se quiere independizar: sus vecinos dicen basta](https://www.elperiodico.com/es/economia/20260806/isla-tabarca-independencia-administrativa-alicante-turismo-dv-133086068)<br>
+10:27 [Evacúan de madrugada una empresa de Mercabarna por una fuga de amoníaco](https://www.elperiodico.com/es/barcelona/20260806/evacuada-empresa-mercabarna-fuga-amoniaco-madrugada-133135735)<br>
+10:15 [Carlos Lamela, arquitecto: "El ascensor es lo que cambia la estructura social de la ciudad. Antes, todas las clases sociales convivían en el mismo edificio: los más adinerados estaban abajo, para no subir escaleras, y los menos pudientes arriba, que no tenían más remedio que subir y bajar"](https://www.elperiodico.com/es/sociedad/20260806/carlos-lamela-arquitecto-ascensor-cambia-estructura-social-ciudad-dv-133124302)<br>
+10:05 [Mònica Gascón, vecina de Girona, denuncia un "calvario burocrático" para registrar cuatro gallinas para autoconsumo de huevos](https://www.elperiodico.com/es/sociedad/20260806/monica-gascon-vecina-girona-denuncia-calvario-burocratico-registrar-gallinas-133121561)<br>
+09:48 [Un incendio en un piso de Badalona se salda con dos personas heridas trasladadas al hospital](https://www.elperiodico.com/es/barcelona/20260806/incendio-piso-badalona-salda-dos-personas-heridas-trasladadas-hospital-133134433)<br>
+09:32 [Ucrania daña una de las refinerías más importantes de Rusia en un ataque récord de más de 600 drones](https://www.elperiodico.com/es/internacional/20260806/ucrania-dana-refinerias-importantes-rusia-133134522)<br>
+09:30 [Detenidos tres activistas de Revoltes de la Terra por sabotear una vía de tren entre la mina de Súria y el puerto de Barcelona](https://www.elperiodico.com/es/sucesos/20260806/detenidos-tres-activistas-revoltes-terra-sabotaje-tren-minas-potasa-suria-puerto-ferrocarrils-133134369)<br>
 09:14 [Crónica de una tragedia en pleno cuartel de Llanes: el agente Dámaso, que estaba "obsesionado" con su exmujer, entró por el garaje y la tiroteó en una oficina](https://www.elperiodico.com/es/sucesos/20260806/cronica-tragedia-pleno-cuartel-llanes-133134164)<br>
 09:10 [Incendios hoy, 6 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260806/incendios-hoy-6-agosto-ultima-hora-cataluna-espana-mapa-fuegos-activos-dv-133111943)<br>
 09:05 [El cardiólogo Aurelio Rojas, sobre los riesgos de tomar ibuprofeno: "Desde el punto de vista del corazón es de los peores"](https://www.elperiodico.com/es/salud/20260806/ibuprofeno-dolor-perjudicial-corazon-naproxeno-paracetamol-salud-cardiologo-aurelio-rojas-dv-123712454)<br>
