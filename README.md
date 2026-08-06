@@ -1,8 +1,13 @@
-# News for 2026-08-06 06:28
+# News for 2026-08-06 08:19
 
 Previous day: [2026-08-05](./data/2026-08-05.md)
 
 ## ua.korrespondent.net
+08:16 [Росіяни вдарили по Дніпропетровщині, є поранені](https://ua.korrespondent.net/ukraine/4900444-rosiiany-vdaryly-po-dnipropetrovschyni-ye-poraneni)<br>
+08:06 [На Херсонщині дрон РФ поцілив в автобус: шестеро поранених](https://ua.korrespondent.net/ukraine/4900441-na-khersonschyni-dron-rf-potsilyv-v-avtobus-shestero-poranenykh)<br>
+07:54 [РФ найактивніше атакує на двох напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4900438-rf-naiaktyvnishe-atakuie-na-dvokh-napriamkakh-henshtab)<br>
+07:22 [Удар по Сумах: постраждали 13 людей](https://ua.korrespondent.net/ukraine/4900435-udar-po-sumakh-postrazhdaly-13-luidei)<br>
+06:55 [Росіяни вдарили по Балаклії: троє загиблих](https://ua.korrespondent.net/ukraine/4900430-rosiiany-vdaryly-po-balaklii-troie-zahyblykh)<br>
 06:24 [Генштаб підрахував втрати РФ у війні](https://ua.korrespondent.net/ukraine/4900426-henshtab-pidrakhuvav-vtraty-rf-u-viini)<br>
 04:56 [Гелікоптер Трампа наблизився на небезпечну відстань до пасажирського літака](https://ua.korrespondent.net/world/4900424-helikopter-trampa-nablyzyvsia-na-nebezpechnu-vidstan-do-pasazhyrskoho-litaka)<br>
 04:25 [Російські аналоги Starlink досягли вікна стабільного покриття над Україною](https://ua.korrespondent.net/tech/space/4900422-rosiiski-analohy-Starlink-dosiahly-vikna-stabilnoho-pokryttia-nad-ukrainoui)<br>
@@ -11,7 +16,18 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 00:50 [Другий за день: у РФ поховали ще одного генерала](https://ua.korrespondent.net/world/russia/4900405-druhyi-za-den-u-rf-pokhovaly-sche-odnoho-henerala)<br>
 00:21 [РФ знищила 900 тисяч книг одного з видавництв](https://ua.korrespondent.net/business/companies/4900402-rf-znyschyla-900-tysiach-knyh-odnoho-z-vydavnytstv)<br>
 
+## as.com
+07:48 [Una preparación atípica](https://as.com/baloncesto/mas_baloncesto/una-preparacion-atipica-f202608-n/)<br>
+07:33 [Satoransky muy crítico con el Barcelona: “Ganar en el baloncesto no les importa demasiado”](https://as.com/baloncesto/acb/satoransky-muy-critico-con-el-barcelona-ganar-en-el-baloncesto-no-les-importa-demasiado-f202608-n/)<br>
+
 ## www.elperiodico.com
+08:06 [Tragedia en Granada: un indigente se quema a lo bonzo en una bañera](https://www.elperiodico.com/es/sucesos/20260806/tragedia-granada-indigente-quema-bonzo-133132613)<br>
+08:05 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260806/ultima-hora-incendios-espana-directo-132759066)<br>
+08:00 [Emili Vives (74 años) revive una aldea abandonada para crear una comunidad nudista: "Fue un sueño y así me cambió la vida 180 grados"](https://www.elperiodico.com/es/catalunya/20260806/emili-vives-pueblo-abandonado-el-fonoll-nudista-dv-loc-et-132627074)<br>
+07:55 [El director de la OMS advierte que el brote de ébola en RDC se duplica en casos semanales](https://www.elperiodico.com/es/internacional/20260806/director-oms-advierte-brote-ebola-133132505)<br>
+07:00 [Laura y la última víctima](https://www.elperiodico.com/es/opinion/20260806/laura-ultima-victima-133122485)<br>
+07:00 [Crítica de 'El amor que permanece': Hlynur Pálmason firma esta historia familiar en la que el paisaje define a los personajes](https://www.elperiodico.com/es/ocio-y-cultura/20260806/critica-amor-permanece-hlynur-palmason-pelicula-133095278)<br>
+07:00 [Manolete, Churchill y el toro 'Perdigón', la historia más singular de la Feria de Julio de València: "Una verdadera expresión de amistad"](https://www.elperiodico.com/es/ocio-y-cultura/20260806/manolete-churchill-toro-perdigon-feria-de-julio-valencia-133054837)<br>
 06:01 [Sanidad enviará indicaciones a los servicios médicos de todo el país para atender lesiones oculares derivadas del eclipse](https://www.elperiodico.com/es/sociedad/20260806/sanidad-recomendaciones-servicios-medicos-lesiones-oculares-eclipse-133122395)<br>
 06:01 [Santa Coloma, Cornellà y Viladecans piden blindar los aparcamientos de las promociones de vivienda protegida](https://www.elperiodico.com/es/barcelona/20260806/santa-coloma-cornella-viladecans-blindar-parkings-minimos-promociones-vivienda-protegida-132916221)<br>
 06:00 [Glovo encargó una investigación para demostrar que Uber Eats sigue operando con repartidores autónomos](https://www.elperiodico.com/es/economia/20260806/glovo-encargo-investigacion-demostrar-uber-133086727)<br>
