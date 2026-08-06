@@ -1,4 +1,4 @@
-# News for 2026-08-06 14:22
+# News for 2026-08-06 15:20
 
 Previous day: [2026-08-05](./data/2026-08-05.md)
 
@@ -46,6 +46,7 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 00:21 [РФ знищила 900 тисяч книг одного з видавництв](https://ua.korrespondent.net/business/companies/4900402-rf-znyschyla-900-tysiach-knyh-odnoho-z-vydavnytstv)<br>
 
 ## as.com
+14:50 [España vuelve a arrasar y se mete en semifinales](https://as.com/baloncesto/mas_baloncesto/espana-vuelve-a-arrasar-y-se-mete-en-semifinales-f202608-n/)<br>
 14:01 [Oficial: Shengelia cambia Barcelona por Dubái junto a Xavi Pascual](https://as.com/baloncesto/acb/shengelia-cambia-barcelona-por-dubai-f202608-n/)<br>
 13:25 [El Baskonia confirma la llegada de Damion Baugh](https://as.com/baloncesto/el-baskonia-confirma-la-llegada-de-damion-baugh-f202608-n/)<br>
 13:16 [El Asvel sueña con el reencuentro Mills–Parker](https://as.com/baloncesto/euroliga/el-asvel-suena-con-el-reencuentro-millsparker-f202608-n/)<br>
@@ -54,8 +55,17 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 07:33 [Satoransky muy crítico con el Barcelona: “Ganar en el baloncesto no les importa demasiado”](https://as.com/baloncesto/acb/satoransky-muy-critico-con-el-barcelona-ganar-en-el-baloncesto-no-les-importa-demasiado-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:06 [¿Puede el Banco de España ver tus bizums? Esto es lo que ocurre realmente con los pagos entre particulares](https://www.elperiodico.com/es/economia/20260806/banco-espana-ver-bizum-esto-ocurre-realmente-pagos-entre-particulares-dv-133144707)<br>
+15:03 [Los médicos, decididos a ir a la huelga indefinida a partir de octubre: "Es la mejor estrategia"](https://www.elperiodico.com/es/sanidad/20260806/medicos-decididos-huelga-indefinida-partir-octubre-133137031)<br>
+15:00 [Borja Yus, entrenador personal: "Si al hacer la rueda abdominal notas que toda la tensión se va a la zona lumbar y no al abdomen, probablemente la estás haciendo mal"](https://www.elperiodico.com/es/deportes/20260806/borja-yus-entrenador-personal-rueda-abdominal-forma-adecuada-dv-133118521)<br>
+14:36 [¿Puede un eclipse provocar un apagón? Así afectará el eclipse solar del 12 de agosto al sistema eléctrico](https://www.elperiodico.com/es/economia/20260806/eclipse-solar-12-agosto-sistema-electrico-apagon-red-electrica-133146168)<br>
+14:35 [Excursión estelar a un paso de Lleida para disfrutar de la naturaleza con tus hijos](https://www.elperiodico.com/es/vida-y-estilo/20260806/congost-mont-rebei-excursion-estelar-en-familia-ninos-lleida-dv-loc-107292393)<br>
+14:32 [Estabilizado el fuego de Ávila; extinguido el de Toledo y en Huelva prosigue el trabajo](https://www.elperiodico.com/es/sociedad/20260806/estabilizado-fuego-avila-extinguido-toledo-133145992)<br>
+14:23 [Autónomo o Sociedad Limitada ¿Cuál es la opción más rentable y cuándo debes tomar la decisión?](https://www.elperiodico.com/es/economia/20260806/autonomo-o-sociedad-limitada-opcion-rentable-cuando-tomar-decision-dv-133140964)<br>
+14:20 [Crítica de 'El síndrome de Rembrandt': una película algo dispersa que cuestiona nuestro papel en la crisis climática y los peligros de la crisis nuclear](https://www.elperiodico.com/es/ocio-y-cultura/20260806/critica-el-sindrome-de-rembrandt-pelicula-133139907)<br>
 13:35 [Trump evita la caída de un niño en un mitin y lanza un dardo a Biden: "No quiero que termine igual"](https://www.elperiodico.com/es/videos/internacional/trump-evita-caida-nino-mitin/133143346.shtml)<br>
 13:30 [Oasis térmicos de emergencia: Italia estudia reconvertir catacumbas, búnkeres o canteras romanas en refugios climáticos](https://www.elperiodico.com/es/internacional/20260806/oasis-termicos-emergencia-italia-estudia-133138400)<br>
+13:30 [Oasis térmicos de emergencia: Italia estudia reconvertir catacumbas, búnkeres o canteras romanas en refugios climáticos](https://www.elperiodico.com/es/internacional/20260806/oasis-termicos-emergencia-italia-estudia-reconvertir-catacumbas-bunkeres-canteras-romanas-refugios-climaticos-133138400)<br>
 13:30 [Detenido por homicidio imprudente el patrón de la lancha investigada por la muerte de un motorista de agua en Roses](https://www.elperiodico.com/es/sociedad/20260806/detenido-homicidio-imprudente-patron-lancha-muerte-moto-acuatica-roses-133142729)<br>
 13:20 [Las oenegés alertan del riesgo que viven las niñas migrantes en Ceuta ante agresiones sexuales, trata y explotación](https://www.elperiodico.com/es/sociedad/20260806/oeneges-alertan-riesgo-viven-ninas-migrantes-ceuta-agresiones-sexuales-trata-explotacion-133141504)<br>
 13:18 [Tarragona se prepara para el eclipse: restricciones de tráfico y aparcamientos especiales para el 12 de agosto](https://www.elperiodico.com/es/tarragona/20260806/tarragona-prepara-eclipse-restricciones-trafico-aparcamientos-12-agosto-133141768)<br>
