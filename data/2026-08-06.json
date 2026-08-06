@@ -1,10 +1,64 @@
 [
   {
+    "title": "Карні потролив Трампа після поламки телесуфлера",
+    "link": "https://ua.korrespondent.net/world/4900411-karni-potrolyv-trampa-pislia-polamky-telesuflera",
+    "pubDate": "2026-08-06 02:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519540.jpg\">Канадський прем'єр заявив, що на відміну від \"певного світового лідера\", не бачить змови у тому, що його телесуфлер вийшов з ладу.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-08-06 02:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ скинула на Суми чотири КАБи: є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4900415-rf-skynula-na-sumy-chotyry-kaby-ye-postrazhdali",
+    "pubDate": "2026-08-06 02:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519568.jpg\">Внаслідок удару пошкоджено житлові багатоповерхівки, магазини та інші обʼєкти інфраструктури міста.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран погрожує бити по сусіднім країнам в разі нових атак США - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4900409-iran-pohrozhuie-byty-po-susidnim-krainam-v-razi-novykh-atak-ssha-zmi",
+    "pubDate": "2026-08-06 01:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519526.jpg\">Тегеран закликав союзників США у Перській затоці використати свій вплив на Трампа, щоб відмовити його від відновлення ударів по Ірану.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Підозра Стефанішиній: САП просить 13,3 млн застави",
+    "link": "https://ua.korrespondent.net/ukraine/4900407-pidozra-stefanishynii-sap-prosyt-133-mln-zastavy",
+    "pubDate": "2026-08-06 01:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519499.jpg\">Суд у середу не зміг визначити експосолці у США запобіжний захід і зробив перерву до четверга.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Другий за день: у РФ поховали ще одного генерала",
     "link": "https://ua.korrespondent.net/world/russia/4900405-druhyi-za-den-u-rf-pokhovaly-sche-odnoho-henerala",
     "pubDate": "2026-08-06 00:50:00",
     "category": "Росія новини",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519485.jpg\">У Москві відбулося прощання і похорон з генерал-лейтенантом Ігорем Єрусалімовим. Його смерть пов'язують з вибухом на святкуванні дня народження головнокомандувача Повітряно-космічних сил РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ знищила 900 тисяч книг одного з видавництв",
+    "link": "https://ua.korrespondent.net/business/companies/4900402-rf-znyschyla-900-tysiach-knyh-odnoho-z-vydavnytstv",
+    "pubDate": "2026-08-06 00:21:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519470.jpg\">У видавництві BookChef розповіли, що російські війська після руйнування центрального складу знищили також резервний склад. Увесь наклад втрачено.",
     "topic": "",
     "topic_match_probability": 0
   },
