@@ -1,8 +1,9 @@
-# News for 2026-08-06 05:46
+# News for 2026-08-06 06:28
 
 Previous day: [2026-08-05](./data/2026-08-05.md)
 
 ## ua.korrespondent.net
+06:24 [Генштаб підрахував втрати РФ у війні](https://ua.korrespondent.net/ukraine/4900426-henshtab-pidrakhuvav-vtraty-rf-u-viini)<br>
 04:56 [Гелікоптер Трампа наблизився на небезпечну відстань до пасажирського літака](https://ua.korrespondent.net/world/4900424-helikopter-trampa-nablyzyvsia-na-nebezpechnu-vidstan-do-pasazhyrskoho-litaka)<br>
 04:25 [Російські аналоги Starlink досягли вікна стабільного покриття над Україною](https://ua.korrespondent.net/tech/space/4900422-rosiiski-analohy-Starlink-dosiahly-vikna-stabilnoho-pokryttia-nad-ukrainoui)<br>
 02:33 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
@@ -11,5 +12,13 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 00:21 [РФ знищила 900 тисяч книг одного з видавництв](https://ua.korrespondent.net/business/companies/4900402-rf-znyschyla-900-tysiach-knyh-odnoho-z-vydavnytstv)<br>
 
 ## www.elperiodico.com
+06:01 [Sanidad enviará indicaciones a los servicios médicos de todo el país para atender lesiones oculares derivadas del eclipse](https://www.elperiodico.com/es/sociedad/20260806/sanidad-recomendaciones-servicios-medicos-lesiones-oculares-eclipse-133122395)<br>
+06:01 [Santa Coloma, Cornellà y Viladecans piden blindar los aparcamientos de las promociones de vivienda protegida](https://www.elperiodico.com/es/barcelona/20260806/santa-coloma-cornella-viladecans-blindar-parkings-minimos-promociones-vivienda-protegida-132916221)<br>
+06:00 [Glovo encargó una investigación para demostrar que Uber Eats sigue operando con repartidores autónomos](https://www.elperiodico.com/es/economia/20260806/glovo-encargo-investigacion-demostrar-uber-133086727)<br>
+06:00 [Shirley McLaine y Jessica Lange, un rodaje catastrófico pasado por caipiriñas](https://www.elperiodico.com/es/ocio-y-cultura/20260806/shirley-mclaine-jessica-lange-rodaje-133131049)<br>
+06:00 [Guillermo Mattioli, doctor en Psicología: "La dimensión psicológica de la atención a la ciudadanía está siendo cada vez más reconocida"](https://www.elperiodico.com/es/ser-feliz/20260806/guillermo-mattioli-doctor-psicologia-dimension-132329790)<br>
+05:50 [Guerra de Irán, en directo | Última hora del conflicto en Oriente Medio](https://www.elperiodico.com/es/internacional/20260806/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713)<br>
+05:47 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Alta Ribagorça, Zamora y Vall d'Uixò](https://www.elperiodico.com/es/sociedad/20260806/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+05:45 [Directo guerra Ucrania - Rusia, última hora](https://www.elperiodico.com/es/internacional/20260806/directo-guerra-ucrania-rusia-ultima-126605559)<br>
 05:30 [Eclipse solar del 12 de agosto: cómo verlo con seguridad y qué hacer para evitar problemas de movilidad](https://www.elperiodico.com/es/sociedad/20260806/eclipse-solar-12-agosto-verlo-bc-132983154)<br>
 05:30 [Tarragona, una ciudad que hace piña antes de zarpar](https://www.elperiodico.com/es/ocio-y-cultura/20260806/que-ver-tarragona-bc-132941880)<br>

@@ -1,5 +1,176 @@
 [
   {
+    "title": "Генштаб підрахував втрати РФ у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4900426-henshtab-pidrakhuvav-vtraty-rf-u-viini",
+    "pubDate": "2026-08-06 06:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519730.jpg\">Загальні бойові втрати противника з 24.02.22 по 06.08.26 орієнтовно склали близько 1 454 210 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Infantino como el rey emérito: “Lo siento mucho, me he equivocado, no volverá a ocurrir”",
+    "link": "https://www.elperiodico.com/es/deportes/20260806/infantino-rey-emerito-siento-he-133130479",
+    "pubDate": "2026-08-06 06:18:44",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De los ríos al mar",
+    "link": "https://www.elperiodico.com/es/opinion/20260806/desembalses-rios-catalunya-aportar-sedimentos-costa-editorial-133129141",
+    "pubDate": "2026-08-06 06:01:22",
+    "category": "",
+    "description": "",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Los menores llegados a Ceuta tardarán al menos tres meses en ser trasladados a la península",
+    "link": "https://www.elperiodico.com/es/politica/20260806/menores-llegados-ceuta-tardaran-tres-meses-peninsula-133127502",
+    "pubDate": "2026-08-06 06:01:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El Gobierno advierte a los gobiernos del PP y Vox: \"La ley también obliga a las comunidades autónomas\"</h2><h2 class=\"item\">La ciudad acoge a unos 1.200 menores pendientes de traslado, unos 600 llegados la semana pasada</h2><h2 class=\"item\"><atarget=\"_blank\">Ceuta y Melilla, en directo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Sanidad enviará indicaciones a los servicios médicos de todo el país para atender lesiones oculares derivadas del eclipse",
+    "link": "https://www.elperiodico.com/es/sociedad/20260806/sanidad-recomendaciones-servicios-medicos-lesiones-oculares-eclipse-133122395",
+    "pubDate": "2026-08-06 06:01:16",
+    "category": "",
+    "description": "<h2 class=\"item\">También se lanzará un llamamiento a las comunidades autónomas para que garanticen la presencia de oftalmólogos de guardia en las urgencia en las horas posteriores al eclipse del próximo 12 de agosto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260725/gafas-eclipse-homologadas-requisitos-consejos-donde-comprar-132778802\">La guía definitiva para comprar gafas del eclipse: dónde encontrarlas, cuánto valen y 5 cosas en las que fijarse para escoger las adecuadas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260725/conchi-lillo-cientifica-eclipse-salud-ocular-consejos-entrevista-132750331\">Conchi Lillo, científica: \"Unas gafas para el eclipse son buenas si al probarlas antes no ves absolutamente nada\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las presas de las cuencas internas retienen cada año más de un millón de toneladas de sedimentos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260806/presas-cuencas-internas-retienen-ano-133121199",
+    "pubDate": "2026-08-06 06:01:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio encargado por la ACA señala cuánto material deja de avanzar por la intervención humana: identifica el Ter, el Llobregat, el Foix y el Gaià como las cuencas más afectadas </h2><h2 class=\"item\"><atarget=\"_blank\">Catalunya abrirá compuertas en los embalses del Ter y el Llobregat para recuperar las playas</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Catalunya abrirá compuertas en los embalses del Ter y el Llobregat para recuperar las playas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260806/cataluna-compuertas-embalses-liberar-sedimentos-playas-133113093",
+    "pubDate": "2026-08-06 06:01:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El plan del Govern para tratar de liberar sedimentos hacia la desembocadura de los ríos incluye esta medida, así como el derribo de pequeñas presas y azudes</h2><h2 class=\"item\">MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/sociedad/20240714/recuperacion-sedimetos-delta-ebro-sh-105553856\" target=\"_blank\">Así es el plan de crecidas provocadas para salvar al delta del Ebro</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El PP dificultará el reparto de menores reclamando pruebas de edad y alegando falta de capacidad en sus comunidades",
+    "link": "https://www.elperiodico.com/es/politica/20260806/pp-dificultara-reparto-menores-reclamando-133125659",
+    "pubDate": "2026-08-06 06:01:11",
+    "category": "",
+    "description": "<h2>Los populares descartan la ruptura con Vox, pero advierten de su oposición a un reparto que consideran injusto, reclamando mayor implicación del Gobierno central</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Audiencia de Madrid revisará la negativa a que el juez García-Castellón pueda acusar por presiones de la trama Leire",
+    "link": "https://www.elperiodico.com/es/politica/20260806/audiencia-madrid-revisara-negativa-juez-personacion-garcia-catellon-caso-leire-133124248",
+    "pubDate": "2026-08-06 06:01:05",
+    "category": "",
+    "description": "<h2>El primer instructor de la causa en un juzgado ordinario sigue resolviendo recursos, pero tendrá que contestar a la inhibición solicitada por el juez de la Audiencia Nacional Santiago Pedraz</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Santa Coloma, Cornellà y Viladecans piden blindar los aparcamientos de las promociones de vivienda protegida",
+    "link": "https://www.elperiodico.com/es/barcelona/20260806/santa-coloma-cornella-viladecans-blindar-parkings-minimos-promociones-vivienda-protegida-132916221",
+    "pubDate": "2026-08-06 06:01:03",
+    "category": "",
+    "description": "<h2>Los ayuntamientos apelan al \"déficit de plazas\" para introducir cambios en la reforma urbanística del AMB que lo regula</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260805/barcelona-incentiva-construccion-vivienda-protegida-eximir-aparcamiento-obligatorio-promociones-132886675\" target=\"_blank\">Barcelona incentiva la construcción de vivienda protegida al eximir de aparcamiento obligatorio a las promociones</a></h2><h2>COMERCIAL | <a href=\"https://www.elperiodico.com/es/barcelona/20260804/futuros-centros-comerciales-barcelona-tendran-menos-aparcamiento-nueva-regulacion-131774127\">Los futuros centros comerciales de Barcelona tendrán menos aparcamientos a raíz de una nueva regulación</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Glovo encargó una investigación para demostrar que Uber Eats sigue operando con repartidores autónomos",
+    "link": "https://www.elperiodico.com/es/economia/20260806/glovo-encargo-investigacion-demostrar-uber-133086727",
+    "pubDate": "2026-08-06 06:00:58",
+    "category": "",
+    "description": "<h2>El informe concluye que el 40% de los encargos realizados por esta plataforma con la que se ha acabado aliando su empresa matriz los siguen ejecutando ‘riders’ sin contrato laboral, pese a que la ley así lo obligue</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251218/uber-trabajo-denuncia-penal-repartidores-falsos-autonomos-124893595\" target=\"_blank\">Trabajo activará la vía penal contra Uber a partir de enero si no deja de repartir con autónomos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Shirley McLaine y Jessica Lange, un rodaje catastrófico pasado por caipiriñas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260806/shirley-mclaine-jessica-lange-rodaje-133131049",
+    "pubDate": "2026-08-06 06:00:53",
+    "category": "",
+    "description": "<h2>La actriz de 'El apartamento' narra el \"desastre colosal\" que fue el rodaje de la película 'Wild Oats' en Gran Canaria en 2014 junto a la actriz de 'Tootsie', que ambas sobrellevaron a base de barra libre de cócteles al final de cada jornada, en el libro 'Above the line: my Wild Oats adventure\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La DGT activa un operativo europeo de velocidad y estrena cinco nuevos radares",
+    "link": "https://www.elperiodico.com/es/motor/20260806/dgt-activa-operativo-europeo-velocidad-133084338",
+    "pubDate": "2026-08-06 06:00:53",
+    "category": "",
+    "description": "<h2>El dispositivo de control se mantendrá hasta el 9 de agosto con más radares en Albacete, Segovia y Soria, que emitirán solo avisos durante el primer mes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guillermo Mattioli, doctor en Psicología: \"La dimensión psicológica de la atención a la ciudadanía está siendo cada vez más reconocida\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260806/guillermo-mattioli-doctor-psicologia-dimension-132329790",
+    "pubDate": "2026-08-06 06:00:52",
+    "category": "",
+    "description": "<h2 class=\"item\">\"La dimensión biológica ha tomado la delantera, y las administraciones presumen orgullosas de nuestro sistema sanitario\"</h2><h2 class=\"item\">\"Los psicólogos demuestran la eficacia y la eficiencia del tratamiento psicológico en la atención primaria\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eclipses de ficción (4): Al amor hay que mirarlo con gafas protectoras",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260806/eclipses-ficcion-4-amor-hay-133087858",
+    "pubDate": "2026-08-06 06:00:52",
+    "category": "",
+    "description": "<h2 class=\"item\">De cómo Bonnie Tyler protagoniza un momento irrepetible en un crucero por el Caribe mientras Carly Simon huye de un amante vanidoso y el sol tiene una cita con la luna</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260805/eclipses-ficcion-apocalypto-melies-barrabas-133069256\" target=\"_blank\">Eclipses de ficción (3): Soles rotos y encuentros sexuales en el espacio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260804/eclipses-ficcion-colon-tintin-el-templo-del-sol-133054307\" target=\"_blank\">Eclipses de ficción (2): Un 'deus ex machina' colonial en el altar de los sacrificios</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Підсумки 05.08: Удар по Києву і брак антибалістики",
+    "link": "https://ua.korrespondent.net/ukraine/4900272-pidsumky-0508-udar-po-kyievu-i-brak-antybalistyky",
+    "pubDate": "2026-08-06 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519596.jpg\">РФ масовано атакувала Київ та область; Україна гостро потребує ракет, здатних перехоплювати балістику. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora del conflicto en Oriente Medio",
+    "link": "https://www.elperiodico.com/es/internacional/20260806/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-08-06 05:50:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Alta Ribagorça, Zamora y Vall d'Uixò",
+    "link": "https://www.elperiodico.com/es/sociedad/20260806/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-08-06 05:47:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/megaincendios-desata-emergencia-espana-esperabamos-bombas-nucleares-132857533\">La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260728/equipo-cientificos-csic-incendios-espana-132858331\">Un equipo de científicos se enrola por primera vez en las labores de extinción de los incendios: \"Alertamos a los bomberos de las zonas más peligrosas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Directo guerra Ucrania - Rusia, última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260806/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-08-06 05:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Eclipse solar del 12 de agosto: cómo verlo con seguridad y qué hacer para evitar problemas de movilidad",
     "link": "https://www.elperiodico.com/es/sociedad/20260806/eclipse-solar-12-agosto-verlo-bc-132983154",
     "pubDate": "2026-08-06 05:30:41",
