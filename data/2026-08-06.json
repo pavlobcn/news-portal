@@ -1,5 +1,86 @@
 [
   {
+    "title": "Eclipse solar del 12 de agosto: cómo verlo con seguridad y qué hacer para evitar problemas de movilidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260806/eclipse-solar-12-agosto-verlo-bc-132983154",
+    "pubDate": "2026-08-06 05:30:41",
+    "category": "",
+    "description": "<h2>El sur de Catalunya concentrará la mayor afluencia de visitantes para seguir un fenómeno astronómico excepcional que no volverá a repetirse en más de cien años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tarragona, una ciudad que hace piña antes de zarpar",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260806/que-ver-tarragona-bc-132941880",
+    "pubDate": "2026-08-06 05:30:00",
+    "category": "",
+    "description": "<h2>La fuerza, el equilibrio, el valor y el seny de los castells ayudan a entender una manera de vivir el patrimonio, el mar y el comienzo de un crucero</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Італії дві доби шукали викинутий лотерейний білет з виграшем у мільйон",
+    "link": "https://ua.korrespondent.net/world/4900420-v-italii-dvi-doby-shukaly-vykynutyi-lotereinyi-bilet-z-vyhrashem-u-milion",
+    "pubDate": "2026-08-06 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519636.jpg\">Чоловік лише вдома зрозумів, що білет, який він викинув у смітник, був виграшним. Після цього почалася гонитва за ним.",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Exclusiva | Los diarios policiales del Mundial de fútbol: El hombre que seguía a la princesa Leonor",
+    "link": "https://www.elperiodico.com/es/sucesos/20260806/mundial-futbol-amenazas-leonor-fbi-133130645",
+    "pubDate": "2026-08-06 05:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Prensa Ibérica accede a los informes del IPCC, el centro de mando policial dirigido por el FBI durante el campeonato. Uno de ellos recoge la detención de un individuo que intentó provocar un encuentro, sin éxito, con la princesa Leonor </h2><h2 class=\"item\">Otro incidente que fue investigado fue la amenaza de un usuario de X que anunció que acudiría al partido España-Portugal \"con una bomba\" adosada a la cintura</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Гелікоптер Трампа наблизився на небезпечну відстань до пасажирського літака",
+    "link": "https://ua.korrespondent.net/world/4900424-helikopter-trampa-nablyzyvsia-na-nebezpechnu-vidstan-do-pasazhyrskoho-litaka",
+    "pubDate": "2026-08-06 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519664.jpg\">Через проблеми зі зв'язком вертоліт з президентом опинився на траєкторії польоту пасажирського літака Envoy Air.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La opositora Dinorah Figuera se encuentra en Venezuela para iniciar el diálogo con el Gobierno provisional de Delcy Rodríguez",
+    "link": "https://www.elperiodico.com/es/internacional/20260806/opositora-dinorah-figuera-encuentra-venezuela-133130609",
+    "pubDate": "2026-08-06 04:37:27",
+    "category": "",
+    "description": "<h2>Las conversaciones comenzarán en lo que queda de la presente semana, anunció la dirigente </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Російські аналоги Starlink досягли вікна стабільного покриття над Україною",
+    "link": "https://ua.korrespondent.net/tech/space/4900422-rosiiski-analohy-Starlink-dosiahly-vikna-stabilnoho-pokryttia-nad-ukrainoui",
+    "pubDate": "2026-08-06 04:25:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519663.jpg\">Якщо темпи запуску супутників збережуться, Росія може досягти цілодобового супутникового покриття над Україною вже до середини 2027 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вартість названих на честь Трампа корбалів зросте щонайменше на 50%",
+    "link": "https://ua.korrespondent.net/world/4900417-vartist-nazvanykh-na-chest-trampa-korbaliv-zroste-schonaimenshe-na-50",
+    "pubDate": "2026-08-06 03:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519582.jpg\">Плани президента Трампа – побудувати \"золотий флот\" з 15 лінкорів – може коштувати американцям 275 мільярдів доларів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "В ОП виключають повернення Федорова - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4900413-v-op-vykluichauit-povernennia-fedorova-zmi",
+    "pubDate": "2026-08-06 03:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4519554.jpg\">У команді колишнього міністра оборони заявили журналістам, що Федорову \"не озвучили, що поставлено крапку й двері закриті\".",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Карні потролив Трампа після поламки телесуфлера",
     "link": "https://ua.korrespondent.net/world/4900411-karni-potrolyv-trampa-pislia-polamky-telesuflera",
     "pubDate": "2026-08-06 02:52:00",
