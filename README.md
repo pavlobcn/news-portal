@@ -1,11 +1,25 @@
-# News for 2026-08-06 11:19
+# News for 2026-08-06 12:09
 
 Previous day: [2026-08-05](./data/2026-08-05.md)
 
 ## ua.korrespondent.net
+11:57 [Хусити заблокували Баб-ель-Мандебську протоку](https://ua.korrespondent.net/world/4900523-khusyty-zablokuvaly-bab-el-mandebsku-protoku)<br>
+11:40 [Кількість охочих працювати в Росії жителів Центральної Азії впала на 15%](https://ua.korrespondent.net/world/russia/4900518-kilkist-okhochykh-pratsuivaty-v-rosii-zhyteliv-tsentralnoi-azii-vpala-na-15)<br>
+11:39 [На Житомирщині затримали військового за збут боєприпасів](https://ua.korrespondent.net/ukraine/4900516-na-zhytomyrschyni-zatrymaly-viiskovoho-za-zbut-boieprypasiv)<br>
+11:38 [Долар стабільний в обмінниках, євро дорожчає](https://ua.korrespondent.net/business/financial/4900515-dolar-stabilnyi-v-obminnykakh-yevro-dorozhchaie)<br>
+11:26 [Саудити знизили ціну на нафту для Азії](https://ua.korrespondent.net/business/economics/4900511-saudyty-znyzyly-tsinu-na-naftu-dlia-azii)<br>
+11:20 [Українські медики врятували дитину завдяки унікальній трансплантації серця](https://ua.korrespondent.net/tech/medicine/4900501-ukrainski-medyky-vriatuvaly-dytynu-zavdiaky-unikalnii-transplantatsii-sertsia)<br>
+11:12 [В Павлограді затримали агентку ФСБ](https://ua.korrespondent.net/ukraine/4900507-v-pavlohradi-zatrymaly-ahentku-fsb)<br>
+11:08 [У Мукачівському ТЦК проводять обшуки - ЗМІ](https://ua.korrespondent.net/ukraine/4900505-u-mukachivskomu-ttsk-provodiat-obshuky-zmi)<br>
+11:04 [На Дніпропетровщині через аварію тисячі людей залишилися без води](https://ua.korrespondent.net/ukraine/4900503-na-dnipropetrovschyni-cherez-avariui-tysiachi-luidei-zalyshylysia-bez-vody)<br>
+10:55 [На Сонці вперше побачили те, що раніше існувало лише в теорії](https://ua.korrespondent.net/tech/science/4900490-na-sontsi-vpershe-pobachyly-te-scho-ranishe-isnuvalo-lyshe-v-teorii)<br>
+10:55 [Дрон РФ атакував сміттєвоз у Херсоні, троє поранених](https://ua.korrespondent.net/ukraine/4900499-dron-rf-atakuvav-smittievoz-u-khersoni-troie-poranenykh)<br>
 10:54 [Уражено НПЗ в Ярославлі та Уфі - Генштаб](https://ua.korrespondent.net/ukraine/4900498-urazheno-npz-v-yaroslavli-ta-ufi-henshtab)<br>
+10:49 [Мільйонна застава і смерть двійні: у Києві викрили схему лікаря](https://ua.korrespondent.net/city/kiev/4900495-milionna-zastava-i-smert-dviini-u-kyievi-vykryly-skhemu-likaria)<br>
 10:40 [Росіяни вдарили по Запоріжжю та області, шестеро постраждалих](https://ua.korrespondent.net/ukraine/4900492-rosiiany-vdaryly-po-zaporizhzhui-ta-oblasti-shestero-postrazhdalykh)<br>
+10:05 [ЗПЕК стала лідером за темпами зростання імпорту дизпального - група А-95](https://ua.korrespondent.net/business/companies/4900478-zpek-stala-liderom-za-tempamy-zrostannia-importu-dyzpalnoho-hrupa-a-95)<br>
 09:53 [Укренерго назвало області, де є відключення](https://ua.korrespondent.net/ukraine/4900475-ukrenerho-nazvalo-oblasti-de-ye-vidkluichennia)<br>
+09:49 [РФ вдарила по судну з українською пшеницею: загинув моряк](https://ua.korrespondent.net/ukraine/4900470-rf-vdaryla-po-sudnu-z-ukrainskoui-pshenytseui-zahynuv-moriak)<br>
 09:08 [Обміління Дунаю: з води виринули десятки нацистських кораблів](https://ua.korrespondent.net/world/4900457-obmilinnia-dunaui-z-vody-vyrynuly-desiatky-natsystskykh-korabliv)<br>
 08:56 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4900455-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
 08:16 [Росіяни вдарили по Дніпропетровщині, є поранені](https://ua.korrespondent.net/ukraine/4900444-rosiiany-vdaryly-po-dnipropetrovschyni-ye-poraneni)<br>
@@ -27,6 +41,14 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 07:33 [Satoransky muy crítico con el Barcelona: “Ganar en el baloncesto no les importa demasiado”](https://as.com/baloncesto/acb/satoransky-muy-critico-con-el-barcelona-ganar-en-el-baloncesto-no-les-importa-demasiado-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:01 [Nace un elefante de Sumatra en Zoo Aquarium de Madrid, especie en peligro crítico de extinción](https://www.elperiodico.com/es/videos/sociedad/nace-elefante-sumatra-zoo-aquarium-madrid/133139105.shtml)<br>
+11:55 [La gran inspección de gafas del eclipse concluye que los productos comercializados en España son seguros y "sin deficiencias relevantes"](https://www.elperiodico.com/es/sociedad/20260806/inspeccion-gafas-eclipse-espana-productos-seguros-133137715)<br>
+11:52 [Manuel Hernández, abogado, sobre los errores comunes en herencias: "En muchas ocasiones no se solicita por las familias los certificados de seguros de vida"](https://www.elperiodico.com/es/economia/20260806/manuel-hernandez-abogado-errores-comunes-herencias-certificados-seguros-vida-dv-133138045)<br>
+11:43 [Ninja lanza Slushi Twist, máquina de bebidas heladas](https://www.elperiodico.com/es/tecnologia/20260806/ninja-lanza-slushi-twist-maquina-133138014)<br>
+11:30 [El espectacular pueblo de cuento a 45 minutos de L'Hospitalet](https://www.elperiodico.com/es/barcelona/hospitalet/20260806/espectacular-pueblo-cuento-45-minutos-lhospitalet-la-garriga-dv-loc-107818022)<br>
+11:26 [España roza los 50 millones de habitantes con 10,2 millones de personas nacidas fuera](https://www.elperiodico.com/es/sociedad/20260806/espana-roza-50-millones-habitantes-133137758)<br>
+11:20 [Barcelona abre la pugna empresarial para llevarse su millonaria contrata de mantenimiento de aceras, calzadas, señalización y mobiliario urbano](https://www.elperiodico.com/es/barcelona/20260806/barcelona-abre-pugna-empresarial-llevarse-millonaria-contrata-mantenimiento-espacio-publico-133108742)<br>
+11:19 [¿Tienes solo una plaza de garaje? Esto es lo que dice la ley sobre si puedes usar la piscina de la comunidad](https://www.elperiodico.com/es/economia/20260806/tienes-plaza-garaje-que-dice-ley-sobre-derecho-usar-piscina-comunidad-dv-133136969)<br>
 11:07 [Shengelia deja el Barça tras pagar su cláusula de salida y apunta al Dubai de Xavi Pascual](https://www.elperiodico.com/es/deportes/20260806/shengelia-deja-barca-pagar-clausula-133136864)<br>
 11:04 [El aeropuerto de Barcelona-El Prat bate su récord de conexiones directas con Asia](https://www.elperiodico.com/es/economia/20260806/aeropuerto-barcelona-el-prat-bate-record-conexiones-asiaticas-verano-2026-datos-comite-rutas-133136054)<br>
 11:01 [Catalunya se descuelga del acelerón industrial en junio: crece un 2,2% frente al 3,8% de España](https://www.elperiodico.com/es/economia/20260806/catalunya-descuelga-aceleron-industrial-junio-133136881)<br>
