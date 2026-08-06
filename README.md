@@ -1,13 +1,17 @@
-# News for 2026-08-06 16:54
+# News for 2026-08-06 17:36
 
 Previous day: [2026-08-05](./data/2026-08-05.md)
 
 ## ua.korrespondent.net
+17:15 [Ебола в Конго: медики вийшли на протести через невиплату зарплат](https://ua.korrespondent.net/world/4900652-ebola-v-konho-medyky-vyishly-na-protesty-cherez-nevyplatu-zarplat)<br>
+17:06 [У Києві лікарці оголосили підозру після втрати пацієнткою дитини](https://ua.korrespondent.net/city/kiev/4900650-u-kyievi-likartsi-oholosyly-pidozru-pislia-vtraty-patsiientkoui-dytyny)<br>
+16:57 [Спека спричинила аварійне знеструмлення у Львові](https://ua.korrespondent.net/city/lvov/4900647-speka-sprychynyla-avariine-znestrumlennia-u-lvovi)<br>
 16:41 [Ураження НПЗ в Ярославлі: стали відомі наслідки](https://ua.korrespondent.net/ukraine/4900643-urazhennia-npz-v-yaroslavli-staly-vidomi-naslidky)<br>
 16:38 [На Львівщині оголосили підозру ексенергетику після загибелі дитини](https://ua.korrespondent.net/ukraine/4900641-na-lvivschyni-oholosyly-pidozru-eksenerhetyku-pislia-zahybeli-dytyny)<br>
 16:26 [Стало відоме ім'я генерала, якого таємно поховали в Москві](https://ua.korrespondent.net/world/russia/4900637-stalo-vidome-imia-henerala-yakoho-taiemno-pokhovaly-v-moskvi)<br>
 16:07 [Ескалація для Європи. Російський дрон в Лейпцигу](https://ua.korrespondent.net/world/4900627-eskalatsiia-dlia-yevropy-rosiiskyi-dron-v-leiptsyhu)<br>
 16:05 [Росіяни розстріляли українського полоненого воїна на Донеччині](https://ua.korrespondent.net/ukraine/4900628-rosiiany-rozstrilialy-ukrainskoho-polonenoho-voina-na-donechchyni)<br>
+15:56 [В ЄС викрили схеми переправлення мігрантів](https://ua.korrespondent.net/world/4900623-v-yes-vykryly-skhemy-perepravlennia-mihrantiv)<br>
 15:51 [У Гданську чоловік напав на українця та поляків, яких назвав "бандерівцями"](https://ua.korrespondent.net/world/4900618-u-hdansku-cholovik-napav-na-ukraintsia-ta-poliakiv-yakykh-nazvav-banderivtsiamy)<br>
 15:32 [Клірик УПЦ МП сів до в'язниці на 15 років](https://ua.korrespondent.net/ukraine/4900610-kliryk-upts-mp-siv-do-viaznytsi-na-15-rokiv)<br>
 15:29 [Наїзд у Мюнхені: афганця засудили до довічного](https://ua.korrespondent.net/world/4900611-naizd-u-muinkheni-afhantsia-zasudyly-do-dovichnoho)<br>
@@ -61,6 +65,7 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 00:21 [РФ знищила 900 тисяч книг одного з видавництв](https://ua.korrespondent.net/business/companies/4900402-rf-znyschyla-900-tysiach-knyh-odnoho-z-vydavnytstv)<br>
 
 ## as.com
+17:13 [El Dream Team de EE.UU. para el Mundial ya está aquí](https://as.com/baloncesto/mas_baloncesto/el-dream-team-de-eeuu-para-el-mundial-femenino-ya-esta-aqui-f202608-n/)<br>
 14:50 [España vuelve a arrasar y se mete en semifinales](https://as.com/baloncesto/mas_baloncesto/espana-vuelve-a-arrasar-y-se-mete-en-semifinales-f202608-n/)<br>
 14:01 [Oficial: Shengelia cambia Barcelona por Dubái junto a Xavi Pascual](https://as.com/baloncesto/acb/shengelia-cambia-barcelona-por-dubai-f202608-n/)<br>
 13:25 [El Baskonia confirma la llegada de Damion Baugh](https://as.com/baloncesto/el-baskonia-confirma-la-llegada-de-damion-baugh-f202608-n/)<br>
@@ -70,6 +75,11 @@ Previous day: [2026-08-05](./data/2026-08-05.md)
 07:33 [Satoransky muy crítico con el Barcelona: “Ganar en el baloncesto no les importa demasiado”](https://as.com/baloncesto/acb/satoransky-muy-critico-con-el-barcelona-ganar-en-el-baloncesto-no-les-importa-demasiado-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:34 [La actividad anómala del Teide obliga a realizar reuniones de seguimiento cada tres meses](https://www.elperiodico.com/es/sociedad/20260806/actividad-anomala-teide-reuniones-seguimiento-133151550)<br>
+17:24 [Santander ficha al responsable de UBS en Brasil para liderar su banca de inversión en el país](https://www.elperiodico.com/es/economia/20260806/santander-ficha-responsable-ubs-brasil-133151146)<br>
+17:24 [Alemania investiga como "ataque híbrido" el dron-bomba interceptado junto a un avión ucraniano cargado de munición](https://www.elperiodico.com/es/internacional/20260806/alemania-investiga-ataque-hibrido-dron-bomba-interceptado-avion-ucraniano-cargado-municion-aeropuerto-leipzig-133151118)<br>
+17:22 [Budapest se apaga por la ola de calor y la sequía](https://www.elperiodico.com/es/videos/internacional/budapest-apaga-ola-calor-sequia/133151084.shtml)<br>
+17:00 [Madre e hijo, colegas en el hospital: Adrián vuelve como médico al hospital donde nació](https://www.elperiodico.com/es/sociedad/20260806/madre-hijo-colegas-hospital-adrian-133078973)<br>
 16:51 [Un turista franco-argentino en aislamiento en España tras dar positivo en hantavirus](https://www.elperiodico.com/es/internacional/20260806/turista-franco-argentino-aislamiento-espana-positivo-hantavirus-133149989)<br>
 16:37 [Xevi Pujol: "Empezamos un proyecto con una identidad muy clara"](https://www.elperiodico.com/es/deportes/20260806/xevi-pujol-empezamos-proyecto-identidad-133149603)<br>
 16:32 [Facundo vive en una carpa en plena montaña: "Instalarse en el campo, en estas condiciones, no es una situación idealizada de vida rural: es un proceso, con errores, ajustes y decisiones duras...""](https://www.elperiodico.com/es/economia/20260806/proceso-construccion-terreno-carpa-montana-mascota-facundo-dv-et-133067299)<br>
