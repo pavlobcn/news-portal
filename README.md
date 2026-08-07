@@ -1,9 +1,13 @@
-# News for 2026-08-07 10:03
+# News for 2026-08-07 11:14
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
 ## ua.korrespondent.net
+10:27 [У Коблево стався вибух у морі, є жертви](https://ua.korrespondent.net/ukraine/4900836-u-koblevo-stavsia-vybukh-u-mori-ye-zhertvy)<br>
+10:05 [На Житомирщині на території ТЦК помер чоловік](https://ua.korrespondent.net/ukraine/4900829-na-zhytomyrschyni-na-terytorii-ttsk-pomer-cholovik)<br>
 09:44 [На Миколаївщині затримали двох агентів РФ](https://ua.korrespondent.net/ukraine/4900821-na-mykolaivschyni-zatrymaly-dvokh-ahentiv-rf)<br>
+09:39 [Саудівська нафта зникла з ринку США: вперше за 40 років](https://ua.korrespondent.net/business/economics/4900819-saudivska-nafta-znykla-z-rynku-ssha-vpershe-za-40-rokiv)<br>
+09:35 [На одному із супутників Сатурна доба триває майже 16 земних днів](https://ua.korrespondent.net/tech/space/4900809-na-odnomu-iz-suputnykiv-saturna-doba-tryvaie-maizhe-16-zemnykh-dniv)<br>
 09:26 [В Криму знищено російський ЗРК та військовий кран](https://ua.korrespondent.net/ukraine/4900817-v-krymu-znyscheno-rosiiskyi-zrk-ta-viiskovyi-kran)<br>
 09:25 [Відключення світла охопили 12 областей - Укренерго](https://ua.korrespondent.net/ukraine/4900815-vidkluichennia-svitla-okhopyly-12-oblastei-ukrenerho)<br>
 08:51 [Удари по Харківщині: двоє загиблих, 18 постраждалих](https://ua.korrespondent.net/ukraine/4900805-udary-po-kharkivschyni-dvoie-zahyblykh-18-postrazhdalykh)<br>
@@ -21,6 +25,15 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 08:44 [Una reconstrucción profunda](https://as.com/baloncesto/euroliga/una-reconstruccion-profunda-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:10 [Alberto Sánchez, abogado experto en vivienda, expone qué pasa con el contrato de alquiler cuando el propietario muere: "Sí puede terminar…"](https://www.elperiodico.com/es/vivienda/20260807/vivienda-alquiler-casero-alberto-sanchez-abogado-muere-dv-133064035)<br>
+11:05 [El espectacular pueblo con entorno natural a tan solo 20 minutos de Badalona](https://www.elperiodico.com/es/catalunya/20260807/alella-pueblo-encanto-maresme-cerca-barcelona-dv-loc-109169795)<br>
+11:02 [Un ajuste de cuentas que acaba a tiros deja dos detenidos en el Raval](https://www.elperiodico.com/es/videos/sociedad/ajuste-cuentas-tiros-dos-detenidos-raval-barcelona-video/133166817.shtml)<br>
+11:00 [Antonio, jubilado con una pensión de 1.000 euros: "La cuantía que nos pagaban era tan baja que aún sigue siendo insuficiente"](https://www.elperiodico.com/es/economia/20260807/antonio-jubilado-pension-1-000-euros-pension-precaria-dv-133139814)<br>
+11:00 [Guía para conseguir las gafas gratis del Gobierno y la ONCE para el eclipse solar: todos los puntos de recogida en Catalunya](https://www.elperiodico.com/es/sociedad/20260807/eclipse-solar-cataluna-12-agosto-gafas-gratis-once-gobierno-dv-133020698)<br>
+10:56 [Enfado monumental de Florentino y cabreo mayúsculo de Mourinho con la pérdida de Rodri](https://www.elperiodico.com/es/deportes/20260807/enfado-monumental-florentino-cabreo-mayusculo-mourinho-real-madrid-133166643)<br>
+10:37 [Médicos Sin Fronteras entrena a sus equipos en Nairobi ante el riesgo de ébola en la República Democrática del Congo](https://www.elperiodico.com/es/fotos/sociedad/msf-entrena-equipos-nairobi-riesgo-ebola-rdc-fotos-133166159)<br>
+10:18 [Federico (93 años) vive oculto y sin luz en el bosque desde hace casi un siglo: "La vida es muy corta, estamos aquí cuatro días, hay que portarse bien y lo que venga"](https://www.elperiodico.com/es/economia/20260807/federico-93-anos-vive-oculto-sin-luz-bosque-siglo-dv-et-133164234)<br>
+10:05 [De Kenia a la República Democrática del Congo: así prepara MSF a profesionales sanitarios para combatir al ébola](https://www.elperiodico.com/es/videos/internacional/kenia-republica-democratica-congo-prepara-msf-sanitarios-combatir-ebola-video/133164928.shtml)<br>
 10:00 [Los accidentes laborales causaron 358 fallecidos en el primer semestre, 5 menos que hace un año](https://www.elperiodico.com/es/economia/20260807/accidentes-laborales-causaron-358-fallecidos-133164787)<br>
 10:00 [Samuel Prieto, experto en seguridad: "Dejar la llave echada no aporta más seguridad. De hecho, puede ser incluso contraproducente"](https://www.elperiodico.com/es/sociedad/20260807/samuel-prieto-experto-llave-echada-no-seguridad-dv-133142517)<br>
 10:00 [‘Kokuho. El maestro del kabuki’, de la ‘yakuza’ al teatro tradicional japonés: el fenómeno de Japón que llega a España](https://www.elperiodico.com/es/ocio-y-cultura/20260807/kokuho-maestro-kabuki-yakuza-teatro-133154114)<br>
