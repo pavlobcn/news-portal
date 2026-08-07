@@ -1,5 +1,41 @@
 [
   {
+    "title": "Росіяни наблизилися до Костянтинівки - DeepState",
+    "link": "https://ua.korrespondent.net/ukraine/4901062-rosiiany-nablyzylysia-do-kostiantynivky-DeepState",
+    "pubDate": "2026-08-07 23:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521784.jpg\">Російські війська мають просування на Костянтинівському напрямку. DeepState оновив карту бойових дій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Firmes por la patria\". Con un saludo militar, Abelardo de la Espriella toma posesión como nuevo presidente de Colombia",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/abelardo-espriella-toma-posesion-presidente-colombia-derecha-ultraderecha-america-latina-133187008",
+    "pubDate": "2026-08-07 23:33:48",
+    "category": "",
+    "description": "<h2>El abogado penalista jura el cargo rodeado de la comunidad de presidentes de derecha y ultraderecha de una región cada vez más ubicada en la órbita de EEUU</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 8 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/portada-periodico-8-agosto-2026-133186901",
+    "pubDate": "2026-08-07 23:23:09",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Путін уникає регіонів РФ, куди долітають дрони - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4901060-putin-unykaie-rehioniv-rf-kudy-dolitauit-drony-zmi",
+    "pubDate": "2026-08-07 23:21:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521783.jpg\">Після тривалої паузи у регіональних поїздках російський диктатор почав відвідувати переважно Сибір та віддалені регіони Росії.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Cuatro incendios complican el interior de Castellón y obligan a desalojar masías y confinar un municipio",
     "link": "https://www.elperiodico.com/es/sociedad/20260807/cuatro-incendios-complican-interior-castellon-133186577",
     "pubDate": "2026-08-07 22:49:01",
@@ -52,6 +88,15 @@
     "description": "<h2 class=\"item\">El festival de música electrónica ha habilitado puntos de hidratación, zonas de descanso con sombra y sistemas de nebulización para proteger a los asistentes del calor estival</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260807/calor-alarma-festivales-musica-medidas-horarios-133172002\">Las olas de calor encienden la alarma en los festivales de música veraniegos y los obliga a repensarse</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Пекельні санкції. Рішення Сената США",
+    "link": "https://ua.korrespondent.net/world/4901064-pekelni-sanktsii-rishennia-senata-ssha",
+    "pubDate": "2026-08-07 22:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521796.jpg\">Сенат Конгресу Сполучених Штатів 7 серпня підтримав проєкт щодо санкцій проти РФ, одним зі співавторів якого є покійний сенатор Ліндсі Грем.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "La prensa británica asegura que cuentas vinculadas al Ejército ruso agitaron narrativas ultras durante la crisis de Ceuta",
