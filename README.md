@@ -1,4 +1,4 @@
-# News for 2026-08-07 22:11
+# News for 2026-08-07 23:01
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
@@ -82,6 +82,10 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 08:44 [Una reconstrucción profunda](https://as.com/baloncesto/euroliga/una-reconstruccion-profunda-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:49 [Cuatro incendios complican el interior de Castellón y obligan a desalojar masías y confinar un municipio](https://www.elperiodico.com/es/sociedad/20260807/cuatro-incendios-complican-interior-castellon-133186577)<br>
+22:42 [La jornada se complica para los servicios de emergencia: ya son cinco los incendios ligados a las tormentas en el interior de Castellón](https://www.elperiodico.com/es/sociedad/20260807/tormentas-provocan-incendio-interior-tirig-culla-castellon-133186403)<br>
+22:23 [Cambiar nuestra forma de vida](https://www.elperiodico.com/es/opinion/20260807/cambiar-forma-vida-calentamiento-global-editorial-133186102)<br>
+22:15 [Abanicos, fruta fresca y cerveza: así desafía el público el calor en el Brunch Electronik Festival](https://www.elperiodico.com/es/ocio-y-cultura/20260807/abanicos-fruta-fresca-cerveza-desafia-133184396)<br>
 21:53 [Homero va a Hollywood](https://www.elperiodico.com/es/opinion/20260807/homero-hollywood-odisea-nolan-articulo-jordi-punti-133185826)<br>
 21:01 [La pesadilla de una noche de verano](https://www.elperiodico.com/es/opinion/20260807/pesadilla-noche-verano-festival-grec-teatro-calor-133184499)<br>
 20:18 [Los Mossos estrenan sus detectores portátiles 'antinavajas' con un dispositivo Daga en Barcelona](https://www.elperiodico.com/es/sucesos/20260807/mossos-estrenan-detectores-portatiles-antinavajas-barcelona-plan-daga-dispositivo-133181358)<br>
