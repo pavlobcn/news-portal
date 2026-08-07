@@ -1,5 +1,59 @@
 [
   {
+    "title": "La prensa británica asegura que cuentas vinculadas al Ejército ruso agitaron narrativas ultras durante la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/prensa-britanica-asegura-cuentas-vinculadas-133185995",
+    "pubDate": "2026-08-07 22:04:10",
+    "category": "",
+    "description": "<h2>La magnitud y la coordinación de la desinformación que siguió a la crisis de Ceuta fueron muy significativos y propagaron mensajes radicales de forma más organizada que en el pasado, según 'The Guardian'</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Скелі підтвердили, що з полку переводять бійців",
+    "link": "https://ua.korrespondent.net/ukraine/4901054-u-skeli-pidtverdyly-scho-z-polku-perevodiat-biitsiv",
+    "pubDate": "2026-08-07 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521750.png\">Бійці 425 окремого штурмовомо полку Скеля продовжують воювати на всіх визначених напрямках.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Homero va a Hollywood",
+    "link": "https://www.elperiodico.com/es/opinion/20260807/homero-hollywood-odisea-nolan-articulo-jordi-punti-133185826",
+    "pubDate": "2026-08-07 21:53:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Над Землею накопичилося 17 тисяч тонн космічного сміття - вчені",
+    "link": "https://ua.korrespondent.net/tech/space/4901052-nad-zemleui-nakopychylosia-17-tysiach-tonn-kosmichnoho-smittia-vcheni",
+    "pubDate": "2026-08-07 21:51:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521739.jpg\">На навколоземній орбіті вже перебуває понад 46 тисяч фрагментів космічного сміття, які становлять дедалі більшу загрозу для діючих супутників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Toyota оновила спорткупе GR86",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4901050-Toyota-onovyla-sportkupe-GR86",
+    "pubDate": "2026-08-07 21:36:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521732.jpg\">Задньоприводне купе отримало низку технічних доопрацювань, оновлений салон і вдосконалені системи допомоги водієві.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрон поцілив по лікарні в Херсоні: постраждали медпрацівниці",
+    "link": "https://ua.korrespondent.net/ukraine/4901048-dron-potsilyv-po-likarni-v-khersoni-postrazhdaly-medpratsivnytsi",
+    "pubDate": "2026-08-07 21:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521721.jpg\">Внаслідок російського удару постраждали четверо медичних працівниць - жінки 53, 56, 65 та 67 років.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las normas de tráfico europeas que muchos españoles desconocen y que te pueden arruinar las vacaciones",
     "link": "https://www.elperiodico.com/es/motor/20260807/normas-trafico-europeas-espanoles-desconocen-132770210",
     "pubDate": "2026-08-07 21:30:40",
@@ -60,6 +114,15 @@
     "category": "",
     "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
     "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Усик виступив проти допуску росіян на Олімпіаду",
+    "link": "https://ua.korrespondent.net/sport/boks/4901043-usyk-vystupyv-proty-dopusku-rosiian-na-olimpiadu",
+    "pubDate": "2026-08-07 20:58:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521708.jpg\">Колишній абсолютний чемпіон світу вважає, що не можна підтримувати війну в Україні, а згодом брати участь в Олімпійських іграх.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
