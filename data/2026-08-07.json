@@ -1,5 +1,176 @@
 [
   {
+    "title": "Зеленський уперше за каденцію прибув до Сербії",
+    "link": "https://ua.korrespondent.net/ukraine/4901010-zelenskyi-upershe-za-kadentsiui-prybuv-do-serbii",
+    "pubDate": "2026-08-07 18:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521597.jpeg\">Президент Володимир Зеленський прибув до Сербії, де проведе переговори з Александром Вучичем. Це його перший візит до країни за час президентської каденції.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La mitad de los turismos que circulan en España superan ya los 15 años de antigüedad",
+    "link": "https://www.elperiodico.com/es/motor/20260807/mitad-turismos-circulan-espana-superan-15-anos-antiguedad-133176643",
+    "pubDate": "2026-08-07 18:21:28",
+    "category": "",
+    "description": "<h2>La capital lidera el rejuvenecimiento de la flota mientras ocho comunidades concentran más de un 70% de vehículos con una década a sus espaldas </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Списали понад 1000 чоловіків: ексочільників Мукачівського ТЦК заарештували",
+    "link": "https://ua.korrespondent.net/ukraine/4901007-spysaly-ponad-1000-cholovikiv-eksochilnykiv-mukachivskoho-ttsk-zaareshtuvaly",
+    "pubDate": "2026-08-07 18:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521596.jpg\">Суд обрав запобіжні заходи двом екскерівникам ТЦК на Закарпатті, яких ДБР викрило на незаконному \"списанні\" понад тисячі чоловіків.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Нацбанк зафіксував стабілізацію резервів",
+    "link": "https://ua.korrespondent.net/business/financial/4901006-natsbank-zafiksuvav-stabilizatsiui-rezerviv",
+    "pubDate": "2026-08-07 18:12:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521595.jpg\">У липні уряд конвертував у гривню $3,43 млрд з коштів за програмою Ukraine Support Loan, що позитивно вплинуло на обсяг резервів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere a los 69 años William Orbit, el visionario productor que renovó el sonido de Madonna y Blur",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260807/muere-william-orbit-productor-blur-133179541",
+    "pubDate": "2026-08-07 18:10:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El británico fue el responsable de discos como 'Ray of Light' y '13' y colaboró con U2 y Britney Spears </h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El asesino machista de Murcia degolló a su expareja con un cúter de zapatero",
+    "link": "https://www.elperiodico.com/es/sucesos/20260807/asesino-machista-murcia-degollo-expareja-cuter-zapatero-133180855",
+    "pubDate": "2026-08-07 18:08:39",
+    "category": "",
+    "description": "<h2>La herramienta fue descubierta fuera de la tienda, donde el maltratador condenado Juan Bautista G. C., de 38 años, la habría arrojado al escapar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La hermana de la mujer asesinada en un centro comercial de Murcia: \"Era una persona maravillosa y conocer a ese psicópata fue su perdición\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/hermana-mujer-asesinada-centro-comercial-133180660",
+    "pubDate": "2026-08-07 18:06:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La hermana de la fallecida lamenta que ésta estuviese con el sujeto ahora detenido, al que califica como \"un psicópata celoso y manipulador\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260806/comunidad-asume-tutela-hija-mujer-asesinada-murcia-133133776\" target=\"_blank\">La Región de Murcia asume la tutela de la hija de 5 años de la mujer asesinada en el Centro Comercial Infante de Murcia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260806/detenido-puerto-lumbreras-presunto-asesino-133133726\" target=\"_blank\">Detenido en Puerto Lumbreras el presunto asesino de su exmujer en el centro comercial de Murcia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un verano en crisis",
+    "link": "https://www.elperiodico.com/es/opinion/20260807/verano-crisis-conflictos-mundiales-guerras-133179717",
+    "pubDate": "2026-08-07 18:06:05",
+    "category": "",
+    "description": "<h2>Los problemas estructurales no nos darán tregua este verano, en particular los causados por el<strong> </strong>calentamiento atmosférico y los desequilibrios demográficos y económicos</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260521/gaza-lucha-sobrevivir-mar-de-tiendas-130490953\" target=\"_blank\">Mientras nosotros estamos absorbidos por nuestros apuros, en Gaza dos millones de personas siguen intentando sobrevivir en condiciones extremadamente precarias</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Київ пережив найспекотніший день в історії спостережень",
+    "link": "https://ua.korrespondent.net/city/kiev/4901002-kyiv-perezhyv-naispekotnishyi-den-v-istorii-sposterezhen",
+    "pubDate": "2026-08-07 18:06:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521582.jpg\">Столиця України встановила одразу три температурні рекорди - за мінімальною, максимальною та середньодобовою температурою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El oftalmólogo José Antonio Gegúndez, en vísperas del eclipse: \"Estamos todos con cierta tensión\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260807/oftalmologo-jose-antonio-gegundez-visperas-eclipse-todos-cierta-tension-133179003",
+    "pubDate": "2026-08-07 18:03:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Los especialistas temen un aluvión de consultas de pacientes que crean padecer una retinopatía solar, pero aclaran: con protección, no tiene que suceder nada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260613/eclipse-de-sol-jose-fernandez-vigo-alerta-mirar-sin-proteccion-consecuencias-de-por-vida-130980411\">José Fernández-Vigo, oftalmólogo, alerta del peligro de mirar el eclipse sin protección: \"Puede tener consecuencias muy graves y de por vida\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlos Alcaraz (23 años), sobre sus estudios y su método para aprender inglés: \"Hace unos años entraba en la sala de prensa sudando, pensando: «A ver si voy a entender la pregunta y qué voy a contestar». Ahora me siento como en casa\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260807/carlos-alcaraz-estudios-metodo-aprender-ingles-dv-133143432",
+    "pubDate": "2026-08-07 18:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El tenista murciano reconoce su mejora con el inglés y revela qué es lo que más le ha ayudado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260703/refugio-carlos-alcaraz-23-anos-murcia-dv-131926396\">El refugio de Carlos Alcaraz (23 años) en Murcia, con senderos, vegetación mediterránea y buenas vistas: \"Está muy infravalorado\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Розкрадання міжнародної допомоги: ексчиновник МЗС вийшов із СІЗО",
+    "link": "https://ua.korrespondent.net/ukraine/4901004-rozkradannia-mizhnarodnoi-dopomohy-ekschynovnyk-mzs-vyishov-iz-sizo",
+    "pubDate": "2026-08-07 17:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521584.png\">Заставу в розмірі 10 млн гривень за Олександра Банькова внесли у день обрання запобіжного заходу.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "\"Парад\" дронів у Ялті: названо можливу ціль",
+    "link": "https://ua.korrespondent.net/ukraine/4901000-parad-droniv-u-yalti-nazvano-mozhlyvu-tsil",
+    "pubDate": "2026-08-07 17:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521583.jpg\">Безекіпажні катери, які атакували Ялту, були оснащені FPV-дронами і могли атакувати високопоставлених військових РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Valencia ficha a Oumar Ballo y lo cede al Galatasaray",
+    "link": "https://as.com/baloncesto/el-valencia-ficha-a-oumar-ballo-y-lo-cede-al-galatasaray-f202608-n/",
+    "pubDate": "2026-08-07 17:46:34",
+    "category": "Valencia Basket Club",
+    "description": "El pívot maliense, de 2,13m, ficha por tres temporadas y es cupo en Liga Endesa",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El desamor sin disculpas de Karol G",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/desamor-disculpas-karol-g/133180143.shtml",
+    "pubDate": "2026-08-07 17:42:54",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Матч УПЛ перенесли після обстрілу стадіону в Одесі",
+    "link": "https://ua.korrespondent.net/sport/football/4900998-match-upl-perenesly-pislia-obstrilu-stadionu-v-odesi",
+    "pubDate": "2026-08-07 17:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521580.jpg\">Матч УПЛ між Чорноморцем та Колосом, який мав відбутися 8 серпня, було скасовано через руйнування на стадіоні внаслідок російського обстрілу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Експорт України під загрозою: НБУ прогнозує втрати понад $2 млрд",
+    "link": "https://ua.korrespondent.net/business/economics/4900996-eksport-ukrainy-pid-zahrozoui-nbu-prohnozuie-vtraty-ponad-2-mlrd",
+    "pubDate": "2026-08-07 17:35:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521569.jpg\">Через обмеження експортних маршрутів Україна у другій половині 2026 року може недоотримати понад $2 млрд виручки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La policía escolta a las menores inmigrantes en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/policia-escolta-menores-inmigrantes-ceuta/133179718.shtml",
+    "pubDate": "2026-08-07 17:32:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Barça y el City buscan el acuerdo por Rodri",
+    "link": "https://www.elperiodico.com/es/deportes/20260807/barca-city-buscan-acuerdo-rodri-133178260",
+    "pubDate": "2026-08-07 17:31:22",
+    "category": "",
+    "description": "<h2>Según RAC 1, los clubs han pactado un precio cercano a los 50 millones por el mediocentro español</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "¿Por qué Sánchez les pirra a los italianos?",
     "link": "https://www.elperiodico.com/es/opinion/20260807/les-pirra-italianos-pedro-sanchez-133178529",
     "pubDate": "2026-08-07 17:26:58",
