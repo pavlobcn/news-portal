@@ -1,5 +1,104 @@
 [
   {
+    "title": "Exclusiva | Los diarios policiales del Mundial de fútbol: \"Voy a entrar en el estadio y volar a Messi con cuatro bombas pegadas en mi cuerpo\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260807/mundial-futbol-amenazas-messi-informes-133160673",
+    "pubDate": "2026-08-07 05:00:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Messi fue el futbolista más amenazado; Cristiano Ronaldo, el más acosado y varios jugadores que cometieron errores, como el francés Lucas Digne, fueron señalados</h2><h2 class=\"item\">François Letexier, árbitro del Argentina-Egipto, recibió más de 6.000 amenazas en su WhatsApp personal. Su familia y su casa en Francia tuvieron que ser protegidas por la policía</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Antonio Maudes, investigador de economía del espacio: \"Asturias puede impulsar la minería espacial por su gran experiencia en los yacimientos\"",
+    "link": "https://www.elperiodico.com/es/economia/20260807/antonio-maudes-investigador-economia-espacio-133160718",
+    "pubDate": "2026-08-07 05:00:01",
+    "category": "",
+    "description": "<h2>\"A medio plazo, los asteroides serán minas en movimiento, y se necesita el conocimiento para explotarlas\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія обурилася новими санкціями і звинуватила Британію у \"війні\"",
+    "link": "https://ua.korrespondent.net/world/4900770-rosiia-oburylasia-novymy-sanktsiiamy-i-zvynuvatyla-brytaniui-u-viini",
+    "pubDate": "2026-08-07 04:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4520860.jpg\">Зміна прем'єр-міністра Британії не вплинула на політику Лондона щодо Москви, заявили російські дипломати.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El 'boom' de Jeanette que la ha devuelto a lo más alto 50 años después: \"No quería grabar 'Soy rebelde', pero el sello insistió\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260807/boom-jeanette-devuelto-alto-50-anos-despues-fenomeno-spotify-concierto-teatro-real-madrid-133160648",
+    "pubDate": "2026-08-07 04:50:12",
+    "category": "",
+    "description": "<h2>Con cinco millones de oyentes mensuales en Spotify, la artista repasa una trayectoria de triunfos, sacrificios e himnos antes de su concierto en el Teatro Real</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Los mejores bomberos de Madrid\" son los bisontes: así evitaron que el fuego devorara una reserva natural en Robledo de Chavela y la convirtieron en \"un oasis\" para otros animales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/bisontes-salvaron-llamas-reserva-natural-robledo-chavela-madrid-pastando-133160562",
+    "pubDate": "2026-08-07 04:50:11",
+    "category": "",
+    "description": "<h2>Los siete ejemplares de 'Bisonte Park' crearon al pastar \"un cortafuegos natural\" que protegió gran parte de la finca y la fauna que vive allí del incendio forestal que se ensañó con la Comunidad: \"Hacen una labor preventiva casi inimitable\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сікорський закликав збивати ракети РФ над Україною",
+    "link": "https://ua.korrespondent.net/world/4900768-sikorskyi-zaklykav-zbyvaty-rakety-rf-nad-ukrainoui",
+    "pubDate": "2026-08-07 04:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4520827.jpg\">Це питання потребує серйозної дискусії та не має ставати заручником внутрішньополітичного протистояння, заявив глава МЗС Польщі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Gobierno provisional y un sector de la oposición de Venezuela sientan las bases para negociar bajo la mirada de EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/gobierno-provisional-sector-oposicion-venezuela-133160428",
+    "pubDate": "2026-08-07 04:17:02",
+    "category": "",
+    "description": "<h2>Ambas partes decidieron mantenerse en \"sesión permanente\" hasta el 12 de agosto después de suscribir un comunicado conjunto con una serie de acuerdos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кредитна криза вдарила по найбільших банках РФ - розвідка",
+    "link": "https://ua.korrespondent.net/world/russia/4900766-kredytna-kryza-vdaryla-po-naibilshykh-bankakh-rf-rozvidka",
+    "pubDate": "2026-08-07 03:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4520810.jpg\">У державних банках Росії різко погіршується якість кредитного портфеля. Сбер і ВТБ нарощують резерви під проблемні позики та скорочують витрати.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "У Криму вибухи, Керченський міст перекрито - OSINT",
+    "link": "https://ua.korrespondent.net/ukraine/4900764-u-krymu-vybukhy-kerchenskyi-mist-perekryto-OSINT",
+    "pubDate": "2026-08-07 03:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4520777.jpg\">У районі Феодосії фіксують масштабну пожежу; у Керчі, Севастополі та районі Алушти заявляють про вибухи.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Трамп різко відповів на публікацію про конфлікт із Гегсетом",
+    "link": "https://ua.korrespondent.net/world/4900762-tramp-rizko-vidpoviv-na-publikatsiui-pro-konflikt-iz-hehsetom",
+    "pubDate": "2026-08-07 02:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4520652.jpg\">Глава Білого дому назвав \"безпідставними чутками\" інформацію про конфлікт із міністром війни та різко розкритикував The Washington Post.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна поставила Путіна перед дилемою - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4900760-ukraina-postavyla-putina-pered-dylemoui-zmi",
+    "pubDate": "2026-08-07 02:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4520744.jpg\">Напередодні виборів Кремль зіткнувся з новими ризиками через втрати на фронті та економічні наслідки українських ударів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Шахраї погрожують бізнесу атаками \"шахедів\" - Флеш",
     "link": "https://ua.korrespondent.net/ukraine/4900758-shakhrai-pohrozhuuit-biznesu-atakamy-shakhediv-flesh",
     "pubDate": "2026-08-07 02:04:00",
