@@ -1,9 +1,20 @@
-# News for 2026-08-07 12:14
+# News for 2026-08-07 13:11
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
 ## ua.korrespondent.net
+12:59 [Укрзалізниця попередила про зміни в русі поїздів](https://ua.korrespondent.net/business/companies/4900896-ukrzaliznytsia-poperedyla-pro-zminy-v-rusi-poizdiv)<br>
+12:50 [Морські дрони атакували порт у Ялті - соцмережі](https://ua.korrespondent.net/ukraine/4900893-morski-drony-atakuvaly-port-u-yalti-sotsmerezhi)<br>
+12:44 [У Кракові розслідують справу з образами на адресу українців](https://ua.korrespondent.net/world/4900891-u-krakovi-rozsliduuit-spravu-z-obrazamy-na-adresu-ukraintsiv)<br>
+12:30 [Жителів Москви налякав гучний звук, схожий на вибух](https://ua.korrespondent.net/world/russia/4900885-zhyteliv-moskvy-naliakav-huchnyi-zvuk-skhozhyi-na-vybukh)<br>
+12:29 [Атака 5 серпня: в Києві зросла кількість жертв](https://ua.korrespondent.net/city/kiev/4900882-ataka-5-serpnia-v-kyievi-zrosla-kilkist-zhertv)<br>
+12:28 [Україну накриють дощі та грози: погода на вихідні](https://ua.korrespondent.net/ukraine/4900883-ukrainu-nakryuit-doschi-ta-hrozy-pohoda-na-vykhidni)<br>
+12:25 [Їздили в Україну заради полонених: у Кореї затримали активістів](https://ua.korrespondent.net/world/4900880-yizdyly-v-ukrainu-zarady-polonenykh-u-korei-zatrymaly-aktyvistiv)<br>
+12:09 [Росіяни били дронами по Херсонщині: є загибла та поранені](https://ua.korrespondent.net/ukraine/4900873-rosiiany-byly-dronamy-po-khersonschyni-ye-zahybla-ta-poraneni)<br>
+11:48 [У ПС назвали кількість знищених цілей у липні](https://ua.korrespondent.net/ukraine/4900866-u-ps-nazvaly-kilkist-znyschenykh-tsilei-u-lypni)<br>
 11:20 [Курс гривні знизився в обмінниках наприкінці тижня](https://ua.korrespondent.net/business/financial/4900856-kurs-hryvni-znyzyvsia-v-obminnykakh-naprykintsi-tyzhnia)<br>
+11:17 [Російський FPV-дрон убив жінку на Запоріжжі](https://ua.korrespondent.net/ukraine/4900854-rosiiskyi-FPV-dron-ubyv-zhinku-na-zaporizhzhi)<br>
+11:03 [В Україні вперше очно судять окупанта за зґвалтування](https://ua.korrespondent.net/ukraine/4900850-v-ukraini-vpershe-ochno-sudiat-okupanta-za-zgvaltuvannia)<br>
 10:27 [У Коблево стався вибух у морі, є жертви](https://ua.korrespondent.net/ukraine/4900836-u-koblevo-stavsia-vybukh-u-mori-ye-zhertvy)<br>
 10:05 [На Житомирщині на території ТЦК помер чоловік](https://ua.korrespondent.net/ukraine/4900829-na-zhytomyrschyni-na-terytorii-ttsk-pomer-cholovik)<br>
 09:44 [На Миколаївщині затримали двох агентів РФ](https://ua.korrespondent.net/ukraine/4900821-na-mykolaivschyni-zatrymaly-dvokh-ahentiv-rf)<br>
@@ -26,6 +37,16 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 08:44 [Una reconstrucción profunda](https://as.com/baloncesto/euroliga/una-reconstruccion-profunda-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:09 [Muere un hombre al incendiarse una vivienda abandonada en Lugo](https://www.elperiodico.com/es/sucesos/20260807/muere-hombre-incendiarse-vivienda-abandonada-133171649)<br>
+13:03 [La Aemet emite su primera predicción sobre el eclipse y afirma que la jornada será estable excepto por nubes en la cornisa cantábrica](https://www.elperiodico.com/es/sociedad/20260807/aemet-prediccion-eclipse-12-agosto-primera-prevision-133157365)<br>
+12:58 [Prohibido el baño en las playas de Badalona, Montgat y Sant Adrià por la mala calidad del agua tras las últimas lluvias](https://www.elperiodico.com/es/barcelona/20260807/bandera-roja-playas-badalona-montgat-sant-adria-mala-calidad-agua-lluvias-133169234)<br>
+12:57 [Incapacidad permanente con 49 años: la Justicia reconoce la pensión a un trabajador después de que la Seguridad Social se la negara](https://www.elperiodico.com/es/economia/20260807/incapacidad-permanente-49-anos-justicia-reconoce-pension-trabajador-despues-seguridad-social-negara-dv-133168828)<br>
+12:49 [La Reina Letizia, Leonor y Sofía muestran su lado más cercano durante su visita a la Fundación Esment de Palma](https://www.elperiodico.com/es/videos/sociedad/reina-letizia-leonor-sofia-visitan-fundacion-esment-palma/133170677.shtml)<br>
+12:32 [Juanma Lorente, abogado, sobre el próximo festivo del 15 de agosto: "Si tú no trabajas el sábado, estás perdiendo el festivo"](https://www.elperiodico.com/es/economia/20260807/festivo-15-agosto-juanma-lorente-abogado-laboralista-dv-et-133165502)<br>
+12:31 [La segunda reserva pública de solares de Catalunya suma 310 parcelas para más de 11.000 viviendas](https://www.elperiodico.com/es/economia/20260807/segunda-reserva-publica-solares-catalunya-resultado-310-parcelas-11-000-viviendas-133168737)<br>
+12:30 [El eclipse solar al alcance de las personas ciegas: así funciona el dispositivo que convierte la luz en sonido](https://www.elperiodico.com/es/ciencia/20260807/eclipse-sol-12-agosto-personas-ciegas-dispositivo-traduce-dv-133051376)<br>
+12:28 [Catalunya vuelve a activar la alerta por tormentas intensas por el riesgo de crecidas de ríos y rieras](https://www.elperiodico.com/es/sociedad/20260807/catalunya-vuelve-activar-alerta-tormentas-pirineo-prepirineo-133169586)<br>
+12:27 [Ocho muertos y 15 heridos en un tiroteo en una escuela de Tailandia a manos de un estudiante de secundaria](https://www.elperiodico.com/es/videos/internacional/ocho-muertos-15-heridos-tiroteo-escuela-tailandia-video/133169768.shtml)<br>
 12:11 [Decenas de migrantes se agolpan a las puertas de un Carrefour en Ceuta, donde la Policía Nacional les prohíbe la entrada](https://www.elperiodico.com/es/videos/sociedad/decenas-migrantes-agolpan-puertas-carrefour-ceuta-video/133169174.shtml)<br>
 12:08 [El precio del euríbor hoy, 7 de agosto: la semana acaba mal para los hipotecados](https://www.elperiodico.com/es/economia/20260807/euribor-precio-hoy-7-agosto-dv-133166515)<br>
 12:08 [La reflexión de Miquel Barceló (69 años) sobre sus estudios: "Duré una semana en la Escuela de Bellas Artes; mi escuela de aprendizaje han sido los viajes"](https://www.elperiodico.com/es/sociedad/20260807/reflexion-miquel-barcelo-69-anos-escuela-de-bellas-artes-aprendizaje-dv-et-133168904)<br>
