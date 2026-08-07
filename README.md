@@ -1,8 +1,12 @@
-# News for 2026-08-07 18:29
+# News for 2026-08-07 19:28
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
 ## ua.korrespondent.net
+19:11 [База ФСБ і шість суден: СБС уразили 102 цілі РФ](https://ua.korrespondent.net/ukraine/4901019-baza-fsb-i-shist-suden-sbs-urazyly-102-tsili-rf)<br>
+19:04 [НБУ послабив правила для бізнесу через наслідки війни](https://ua.korrespondent.net/business/4901016-nbu-poslabyv-pravyla-dlia-biznesu-cherez-naslidky-viiny)<br>
+18:50 [Ціни на труни в Росії злетіли на 105% з початку війни проти України](https://ua.korrespondent.net/world/russia/4901012-tsiny-na-truny-v-rosii-zletily-na-105-z-pochatku-viiny-proty-ukrainy)<br>
+18:40 [Данія вводить нові правила для учнів через штучний інтелект](https://ua.korrespondent.net/world/4901013-daniia-vvodyt-novi-pravyla-dlia-uchniv-cherez-shtuchnyi-intelekt)<br>
 18:12 [Нацбанк зафіксував стабілізацію резервів](https://ua.korrespondent.net/business/financial/4901006-natsbank-zafiksuvav-stabilizatsiui-rezerviv)<br>
 18:06 [Київ пережив найспекотніший день в історії спостережень](https://ua.korrespondent.net/city/kiev/4901002-kyiv-perezhyv-naispekotnishyi-den-v-istorii-sposterezhen)<br>
 17:50 ["Парад" дронів у Ялті: названо можливу ціль](https://ua.korrespondent.net/ukraine/4901000-parad-droniv-u-yalti-nazvano-mozhlyvu-tsil)<br>
@@ -71,6 +75,11 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 08:44 [Una reconstrucción profunda](https://as.com/baloncesto/euroliga/una-reconstruccion-profunda-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:25 [Qué hacer si tu vecino llega de la playa y sacude la arena sobre tu ropa tendida: la Ley de Propiedad Horizontal dice esto](https://www.elperiodico.com/es/economia/20260807/vecino-sacude-arena-playa-ropa-tendida-molestias-dv-133041952)<br>
+19:17 [Granizada en Torelló este viernes por la tarde](https://www.elperiodico.com/es/videos/sociedad/granizada-torello-viernes-tarde/133182864.shtml)<br>
+19:07 [La guardia civil asesinada en Asturias pidió una orden de alejamiento y de protección en diciembre, pero se la denegaron: no se tuvieron en cuenta los antecedentes](https://www.elperiodico.com/es/sucesos/20260807/agente-guardia-civil-asesinada-asturias-orden-alejamiento-133182672)<br>
+19:00 [La reducción de la sombra de los árboles urbanos incrementa la mortalidad](https://www.elperiodico.com/es/tendencias21/20260807/reduccion-sombra-arboles-urbanos-incrementa-133182311)<br>
+18:32 [Los vecinos de 31 pisos desalojados por el socavón de la L9 en el Putxet volverán la semana que viene a casa](https://www.elperiodico.com/es/barcelona/20260807/putxet-socavon-metro-l9-desalojos-vecinos-regreso-pisos-133180987)<br>
 18:08 [El asesino machista de Murcia degolló a su expareja con un cúter de zapatero](https://www.elperiodico.com/es/sucesos/20260807/asesino-machista-murcia-degollo-expareja-cuter-zapatero-133180855)<br>
 18:06 [La hermana de la mujer asesinada en un centro comercial de Murcia: "Era una persona maravillosa y conocer a ese psicópata fue su perdición"](https://www.elperiodico.com/es/sociedad/20260807/hermana-mujer-asesinada-centro-comercial-133180660)<br>
 18:03 [El oftalmólogo José Antonio Gegúndez, en vísperas del eclipse: "Estamos todos con cierta tensión"](https://www.elperiodico.com/es/sanidad/20260807/oftalmologo-jose-antonio-gegundez-visperas-eclipse-todos-cierta-tension-133179003)<br>
