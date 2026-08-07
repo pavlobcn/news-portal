@@ -1,8 +1,9 @@
-# News for 2026-08-07 11:14
+# News for 2026-08-07 12:14
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
 ## ua.korrespondent.net
+11:20 [Курс гривні знизився в обмінниках наприкінці тижня](https://ua.korrespondent.net/business/financial/4900856-kurs-hryvni-znyzyvsia-v-obminnykakh-naprykintsi-tyzhnia)<br>
 10:27 [У Коблево стався вибух у морі, є жертви](https://ua.korrespondent.net/ukraine/4900836-u-koblevo-stavsia-vybukh-u-mori-ye-zhertvy)<br>
 10:05 [На Житомирщині на території ТЦК помер чоловік](https://ua.korrespondent.net/ukraine/4900829-na-zhytomyrschyni-na-terytorii-ttsk-pomer-cholovik)<br>
 09:44 [На Миколаївщині затримали двох агентів РФ](https://ua.korrespondent.net/ukraine/4900821-na-mykolaivschyni-zatrymaly-dvokh-ahentiv-rf)<br>
@@ -25,6 +26,22 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 08:44 [Una reconstrucción profunda](https://as.com/baloncesto/euroliga/una-reconstruccion-profunda-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:11 [Decenas de migrantes se agolpan a las puertas de un Carrefour en Ceuta, donde la Policía Nacional les prohíbe la entrada](https://www.elperiodico.com/es/videos/sociedad/decenas-migrantes-agolpan-puertas-carrefour-ceuta-video/133169174.shtml)<br>
+12:08 [El precio del euríbor hoy, 7 de agosto: la semana acaba mal para los hipotecados](https://www.elperiodico.com/es/economia/20260807/euribor-precio-hoy-7-agosto-dv-133166515)<br>
+12:08 [La reflexión de Miquel Barceló (69 años) sobre sus estudios: "Duré una semana en la Escuela de Bellas Artes; mi escuela de aprendizaje han sido los viajes"](https://www.elperiodico.com/es/sociedad/20260807/reflexion-miquel-barcelo-69-anos-escuela-de-bellas-artes-aprendizaje-dv-et-133168904)<br>
+12:06 [Comienza la sustitución de las 4.000 placas con los nombres de las calles de Badalona](https://www.elperiodico.com/es/barcelona/20260807/comienza-sustitucion-4000-placas-nombres-calles-badalona-133167772)<br>
+12:06 [Yaya Bushcraft (71 años), la jubilada que se construyó una cabaña en el bosque y vive con una pensión de 800 euros en Girona: "No me gustan los pisos"](https://www.elperiodico.com/es/economia/20260807/jubilada-construye-cabana-bosque-girona-pension-800-euros-dv-et-133051071)<br>
+12:03 [«Gracias a un muro de piedra salvé la vida y el río no me arrastró por el barranco»](https://www.elperiodico.com/es/sociedad/20260807/gracias-muro-piedra-salve-vida-biescas-133168939)<br>
+12:01 [Teresa Maza, voluntaria de Cruz Roja en Biescas la tarde de la tragedia: "La gente del pueblo se volcó, tenemos que estar orgullosos"](https://www.elperiodico.com/es/sociedad/20260807/teresa-maza-voluntaria-cruz-roja-biescas-133168852)<br>
+12:00 [Las lecciones que dejó la tragedia de Biescas: la riada acabó con las acampadas en zonas inundables](https://www.elperiodico.com/es/sociedad/20260807/lecciones-dejo-tragedia-biescas-riada-133168782)<br>
+12:00 [María (32 años) vive en un bosque sin electricidad de red ni agua caliente: “Te puedes quedar en tu sofá, bien tranquilo, viendo los pájaros pasar”](https://www.elperiodico.com/es/economia/20260807/maria-vive-casa-abandonada-aislada-bosque-asturias-dv-et-132260649)<br>
+11:50 [Indignación en Sagunt por el logo de una peña con una mujer agredida sexualmente por un toro](https://www.elperiodico.com/es/videos/sociedad/indignacion-sagunt-logo-pena-mujer/133168565.shtml)<br>
+11:45 [David Céspedes, experto en longevidad: "Si tus padres tienen entre 50 y 60 años y no hacen deporte, no van a ser independientes"](https://www.elperiodico.com/es/vida-y-estilo/20260807/david-cespedes-experto-longevidad-padres-deporte-dv-133123904)<br>
+11:44 [Una joven regresa a Catalunya tras unos años viviendo en Andalucía y cuenta su experiencia: los catalanes no lo hacen "por maldad"](https://www.elperiodico.com/es/vida-y-estilo/20260807/choque-cultural-cataluna-andalucia-amigos-dv-loc-et-133164678)<br>
+11:41 [Mac McClung, el rey de los mates en el All Star de la NBA, ficha por el Bàsquet Girona](https://www.elperiodico.com/es/deportes/20260807/mac-mcclung-fichaje-girona-rey-mates-133165593)<br>
+11:31 [El duelo prolongado por la pérdida de un ser querido puede acentuar el deterioro cognitivo en mayores](https://www.elperiodico.com/es/sanidad/20260807/duelo-prolongado-perdida-querido-acentuar-deterioro-cognitivo-mayores-133165461)<br>
+11:26 [Indra coloca a Hispasat al frente del 'Starlink europeo' a través de un contrato de 1.600 millones](https://www.elperiodico.com/es/economia/20260807/indra-coloca-hispasat-frente-starlink-133167743)<br>
+11:23 [Santa Coloma saca pecho de su red de videovigilancia y la relaciona con la disminución de la criminalidad](https://www.elperiodico.com/es/barcelona/20260807/estudio-policia-local-santa-coloma-relaciona-videovigilancia-reduccion-delincuencia-133165698)<br>
 11:10 [Alberto Sánchez, abogado experto en vivienda, expone qué pasa con el contrato de alquiler cuando el propietario muere: "Sí puede terminar…"](https://www.elperiodico.com/es/vivienda/20260807/vivienda-alquiler-casero-alberto-sanchez-abogado-muere-dv-133064035)<br>
 11:05 [El espectacular pueblo con entorno natural a tan solo 20 minutos de Badalona](https://www.elperiodico.com/es/catalunya/20260807/alella-pueblo-encanto-maresme-cerca-barcelona-dv-loc-109169795)<br>
 11:02 [Un ajuste de cuentas que acaba a tiros deja dos detenidos en el Raval](https://www.elperiodico.com/es/videos/sociedad/ajuste-cuentas-tiros-dos-detenidos-raval-barcelona-video/133166817.shtml)<br>
