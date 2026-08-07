@@ -1,8 +1,9 @@
-# News for 2026-08-07 13:11
+# News for 2026-08-07 13:59
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
 ## ua.korrespondent.net
+13:50 [На Київщині погіршилася якість повітря: де найгірша ситуація](https://ua.korrespondent.net/ukraine/4900915-na-kyivschyni-pohirshylasia-yakist-povitria-de-naihirsha-sytuatsiia)<br>
 12:59 [Укрзалізниця попередила про зміни в русі поїздів](https://ua.korrespondent.net/business/companies/4900896-ukrzaliznytsia-poperedyla-pro-zminy-v-rusi-poizdiv)<br>
 12:50 [Морські дрони атакували порт у Ялті - соцмережі](https://ua.korrespondent.net/ukraine/4900893-morski-drony-atakuvaly-port-u-yalti-sotsmerezhi)<br>
 12:44 [У Кракові розслідують справу з образами на адресу українців](https://ua.korrespondent.net/world/4900891-u-krakovi-rozsliduuit-spravu-z-obrazamy-na-adresu-ukraintsiv)<br>
@@ -34,9 +35,16 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 01:12 [У Запоріжжі після атаки РФ спалахнула офісна будівля](https://ua.korrespondent.net/city/zaporozhye/4900756-u-zaporizhzhi-pislia-ataky-rf-spalakhnula-ofisna-budivlia)<br>
 
 ## as.com
+13:25 [Desvelados los horarios de la Supercopa](https://as.com/baloncesto/acb/desvelados-los-horarios-de-la-supercopa-f202608-n/)<br>
 08:44 [Una reconstrucción profunda](https://as.com/baloncesto/euroliga/una-reconstruccion-profunda-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:58 [Drones, vigilancia espacial y lecciones del pasado: así se ha preparado Grecia para afrontar los megaincendios estivales](https://www.elperiodico.com/es/internacional/20260807/drones-vigilancia-espacial-lecciones-pasado-grecia-prepara-megaincendios-estivales-era-calor-extremo-133154887)<br>
+13:54 [Catalunya refuerza las urgencias y unidades de oftalmología en los hospitales de la franja de totalidad del eclipse](https://www.elperiodico.com/es/sociedad/20260807/catalunya-refuerza-urgencias-unidades-oftalmologia-hospitales-franja-totalidad-eclipse-133172918)<br>
+13:35 [Así es el Airbus A350-1000ULR: podrá unir Sídney y Londres sin escalas en el vuelo más largo de la historia](https://www.elperiodico.com/es/trafico-y-transportes/20260807/vuelo-largo-directo-sidney-londres-avion-vega-airbus-qantas-dv-133090640)<br>
+13:34 [Los trenes ya circulan en pruebas por el nuevo ramal ferroviario al Aeropuerto de El Prat](https://www.elperiodico.com/es/sociedad/20260807/trenes-circulan-pruebas-nuevo-ramal-ferroviario-aeropuerto-el-prat-133169725)<br>
+13:21 [Catalunya vuelve a activar la alerta por tormentas intensas por el riesgo de crecidas de ríos y rieras](https://www.elperiodico.com/es/videos/sociedad/catalunya-vuelve-activar-alerta-tormentas-intensas-video/133172179.shtml)<br>
+13:14 [¿Está el Camino de Santiago masificado? Más de 1.440 peregrinos al día](https://www.elperiodico.com/es/videos/sociedad/camino-santiago-masificado-1-440/133171702.shtml)<br>
 13:09 [Muere un hombre al incendiarse una vivienda abandonada en Lugo](https://www.elperiodico.com/es/sucesos/20260807/muere-hombre-incendiarse-vivienda-abandonada-133171649)<br>
 13:03 [La Aemet emite su primera predicción sobre el eclipse y afirma que la jornada será estable excepto por nubes en la cornisa cantábrica](https://www.elperiodico.com/es/sociedad/20260807/aemet-prediccion-eclipse-12-agosto-primera-prevision-133157365)<br>
 12:58 [Prohibido el baño en las playas de Badalona, Montgat y Sant Adrià por la mala calidad del agua tras las últimas lluvias](https://www.elperiodico.com/es/barcelona/20260807/bandera-roja-playas-badalona-montgat-sant-adria-mala-calidad-agua-lluvias-133169234)<br>
