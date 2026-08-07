@@ -1,5 +1,230 @@
 [
   {
+    "title": "¿Por qué Sánchez les pirra a los italianos?",
+    "link": "https://www.elperiodico.com/es/opinion/20260807/les-pirra-italianos-pedro-sanchez-133178529",
+    "pubDate": "2026-08-07 17:26:58",
+    "category": "",
+    "description": "<h2>Un porcentaje relevante de europeos tiene una imagen más bien positiva del presidente español según se desprende de las encuestas disponibles</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260609/goldman-sachs-preve-espana-crecer-mas-que-alemania-francia-italia-eurozona-dv-131190053\" target=\"_blank\">Goldman Sachs prevé que España vuelva a crecer mucho más que Alemania, Francia e Italia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна підготувала до зими п'ять енергоблоків АЕС",
+    "link": "https://ua.korrespondent.net/business/economics/4900993-ukraina-pidhotuvala-do-zymy-piat-enerhoblokiv-aes",
+    "pubDate": "2026-08-07 17:22:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521558.jpg\">Атомники скоротили загальний термін проведення планових ремонтних робіт на 21 день, що надає енергосистемі додаткову генерацію.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francia se prepara para una guerra digital impulsada desde Rusia a puertas de las presidenciales: \"No toleraremos ningún intento de injerencia extranjera\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/francia-prepara-guerra-digital-impulsada-rusia-elecciones-presidenciales-injerencia-extranjera-133179426",
+    "pubDate": "2026-08-07 17:21:45",
+    "category": "",
+    "description": "<h2>El Gobierno de Macron endurece su estrategia frente a las campañas de desinformación con un nuevo proyecto de ley que prevé entre uno y tres años de cárcel para quienes difundan información falsa en un contexto electoral</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un juez condena al IB Salut a indemnizar a un paciente por la pérdida de un testículo",
+    "link": "https://www.elperiodico.com/es/sanidad/20260807/juez-condena-ib-salut-indemnizar-133178558",
+    "pubDate": "2026-08-07 17:20:54",
+    "category": "",
+    "description": "<h2>La sentencia cuestiona que no se le realizaran las pruebas necesarias para detectar la lesión</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "МВС спростувало фейк про репатріацію 1210 тіл українських військових",
+    "link": "https://ua.korrespondent.net/ukraine/4900991-mvs-sprostuvalo-feik-pro-repatriatsiui-1210-til-ukrainskykh-viiskovykh",
+    "pubDate": "2026-08-07 17:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521556.jpg\">Інформація про нібито встановлення осіб окремих військовослужбовців також не відповідає дійсності.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Guardia Civil rescata a una mujer y su hijo de un vehículo tras precipitarse por un barranco",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/guardia-civil-rescata-mujer-hijo/133179092.shtml",
+    "pubDate": "2026-08-07 17:17:25",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El rincón de Cornellà que ya está en la historia del cine",
+    "link": "https://www.elperiodico.com/es/barcelona/cornella/20260807/rincon-cornella-historia-cine-dv-loc-111466254",
+    "pubDate": "2026-08-07 17:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los estudios y los barrios de la ciudad la hacen un punto caliente de la industria del cine en Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cornella/20241106/cornella-mejores-restaurantes-tripadvisor-dv-loc-111025301\" >Los mejores restaurantes de Cornellà segun Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20210907/curiosidades-drama-extrarradio-chavalas-12043834\" >Las curiosidades del drama de extrarradio 'Chavalas'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "УЧХ повідомив про безпрецедентні атаки РФ у липні",
+    "link": "https://ua.korrespondent.net/ukraine/4900989-uchkh-povidomyv-pro-bezpretsedentni-ataky-rf-u-lypni",
+    "pubDate": "2026-08-07 17:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521552.jpg\">У липні російські атаки завдали Українському Червоному Хресту значних втрат. Знищено автомобіль, пошкоджено офіси та склад із гуманітарною допомогою на понад 79 млн грн",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "José Manuel Albares dice que \"no hay ningún motivo\" para que Italia mantenga control de fronteras",
+    "link": "https://www.elperiodico.com/es/videos/politica/jose-manuel-albares-dice-hay/133178838.shtml",
+    "pubDate": "2026-08-07 17:09:32",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Rhys Robinson debuta con España",
+    "link": "https://as.com/baloncesto/mas_baloncesto/rhys-robinson-debuta-con-espana-f202608-n/",
+    "pubDate": "2026-08-07 17:08:58",
+    "category": "Baloncesto cantera",
+    "description": "El escolta de la cantera del Real Madrid, que recibió la nacionalidad por carta de naturaleza en enero, se estrenó con 16 puntos en la victoria ante Grecia de la Sub-16 en el Europeo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El final no elegido de Gustavo Petro, el presidente de Colombia que quiso gobernar con un teléfono en la mano",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/gustavo-petro-final-presidente-colombia-quiso-gobernar-telefono-mano-133178961",
+    "pubDate": "2026-08-07 17:07:50",
+    "category": "",
+    "description": "<h2>El exguerrillero abandona el poder con un 40% de aprobación pero con fuertes críticas no solo de la derecha por su forma de gobernar</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Торгівля України у 2026 році: імпорт удвічі перевищив експорт",
+    "link": "https://ua.korrespondent.net/business/economics/4900986-torhivlia-ukrainy-u-2026-rotsi-import-udvichi-perevyschyv-eksport",
+    "pubDate": "2026-08-07 17:01:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521541.jpg\">За сім місяців 2026 року зовнішньоторговельний оборот України досяг 82,2 млрд дол. Імпорт більш ніж удвічі перевищив експорт, а найбільшим постачальником залишається Китай.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pederasta Miguel Ángel Flores, en paradero desconocido un mes después de plantar a la Audiencia de Barcelona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/depredador-sexual-pederasta-miguel-angel-flores-paradero-desconocido-violador-hija-133165752",
+    "pubDate": "2026-08-07 17:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El día que debía presentarse a juicio por violar a su hija, condujo ebrio durante horas y terminó en el hospital de Mataró</h2><h2 class=\"item\"> La fiscalía lo acusa por agredir sexualmente a la mejor y golpearla y maltratarla de forma continuada </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вікторія Бекхем похизувалася ідеальною фігурою",
+    "link": "https://ua.korrespondent.net/lifestyle/4900964-viktoriia-bekkhem-pokhyzuvalasia-idealnoui-fihuroui",
+    "pubDate": "2026-08-07 16:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521493.jpg\">Сім'я насолоджувалася морською прогулянкою на яхті та не звертала жодної уваги на камери папараці.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La actividad anómala del Teide obliga a realizar reuniones de seguimiento cada tres meses",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/actividad-anomala-teide-obliga-realizar/133178413.shtml",
+    "pubDate": "2026-08-07 16:53:14",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Запоріжжі двоє рятувальників постраждали при повторній атаці РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4900982-na-zaporizhzhi-dvoie-riatuvalnykiv-postrazhdaly-pry-povtornii-atatsi-rf",
+    "pubDate": "2026-08-07 16:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521539.jpg\">Росіяни влучив у пожежний автомобіль, коли рятувальники гасили пожежу після попереднього удару.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Навроцький пообіцяв допомогати Україні \"бити московитів\"",
+    "link": "https://ua.korrespondent.net/world/4900981-navrotskyi-poobitsiav-dopomohaty-ukraini-byty-moskovytiv",
+    "pubDate": "2026-08-07 16:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521540.jpg\">Україна може розраховувати на підтримку Варшави у боротьбі з Росією, заявив глава Польщі. Втім, закликав враховувати позицію його країни щодо історичних питань.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Pérez-Mas da luz verde al plan de Inveready y Mayoral y cede el control de Parlem tras meses de guerra",
+    "link": "https://www.elperiodico.com/es/economia/20260807/perez-da-luz-verde-plan-133171406",
+    "pubDate": "2026-08-07 16:46:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente se suma finalmente a una propuesta que ya contaba con el apoyo de cerca del 70% del capital y que sitúa al fondo cerca del 50% de la 'teleco' catalana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260727/catalana-parlem-juega-control-compania-132567839\">La catalana Parlem se juega el control de la compañía ante el pago de una deuda millonaria y la división interna</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adif adapta las obras en la Trinitat Vella para minimizar riesgos entre recelos de los vecinos: \"Los bloques están muy castigados\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260807/adif-adapta-obras-trinitat-vella-minimizar-riesgos-recelo-vecinos-bloques-castigados-133174845",
+    "pubDate": "2026-08-07 16:40:01",
+    "category": "",
+    "description": "<h2 class=\"item\">La compañía ferroviaria solo trabajará los días laborables y reforzará las medidas para detectar vibraciones y grietas en fincas cercanas a los trabajos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260806/deslojan-madrugada-tres-edificios-trinitat-vella-vibraciones-obras-soterramiento-montcada-133137527\">Desalojan de madrugada a ochenta vecinos de la Trinitat Vella por las vibraciones de las obras de soterramiento de Montcada</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260722/derrumbe-obras-soterramiento-rodalies-montcada-obliga-cortar-r2-r2nord-r11-132709752\">Un socavón en las obras de soterramiento de Rodalies en Montcada engulle una grúa y obliga a cortar 'sine die' la R2, la R2Nord y la R11</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Italia rechaza el ultimátum de España y anuncia que mantendrá los controles en sus fronteras hasta el 15 de agosto",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/italia-mantendra-suspension-schengen-espana-crisis-migratoria-ceuta-133178077",
+    "pubDate": "2026-08-07 16:39:51",
+    "category": "",
+    "description": "<h2>El Ejecutivo de la ultraderechista Giorgia Meloni asegura que no reconsiderará la decisión de suspender la aplicación del Acuerdo de Schengen hasta que se hayan eliminado por completo \"los riesgos de seguridad y terrorismo\" </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Bernardo Silva será la gran atracción en el amistoso ante el Ferencvaros",
+    "link": "https://www.elperiodico.com/es/deportes/20260807/bernardo-silva-sera-gran-atraccion-real-madrid-133178055",
+    "pubDate": "2026-08-07 16:39:00",
+    "category": "",
+    "description": "<h2>El portugués se estrena en la convocatoria junto a Brahim y Rudiger. Diomande pasó el reconocimiento, pero no se dejó ver por Valdebebas ni entra en la convocatoria</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Миколаївщині вибухнув металобрухт: є загиблий і поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4900979-na-mykolaivschyni-vybukhnuv-metalobrukht-ye-zahyblyi-i-poraneni",
+    "pubDate": "2026-08-07 16:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521527.jpg\">На Миколаївщині вибух стався просто на пункті прийому металобрухту. Один із трьох постраждалих помер у лікарні, ще двоє залишаються під наглядом медиків.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни масовано атакували об'єкти Укрнафти",
+    "link": "https://ua.korrespondent.net/business/economics/4900985-rosiiany-masovano-atakuvaly-obiekty-ukrnafty",
+    "pubDate": "2026-08-07 16:37:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521538.jpg\">Також за добу ворог атакував чотири АЗС у Запорізькій і Дніпропетровській областях. Обійшлося без постраждалих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Atentos al inesperado cambio de look de Cucurella, junto con el tatuaje de la cara de Luis de la Fuente",
+    "link": "https://www.elperiodico.com/es/videos/deportes/atentos-inesperado-cambio-look-cucurella/133177715.shtml",
+    "pubDate": "2026-08-07 16:33:01",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Війна міст\": чому балістичний терор РФ не є відповіддю на удари ЗСУ",
+    "link": "https://ua.korrespondent.net/articles/4900976-viina-mist-chomu-balistychnyi-teror-rf-ne-ye-vidpoviddui-na-udary-zsu",
+    "pubDate": "2026-08-07 16:30:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521526.jpg\">РФ все частіше застосовує балістичні ракети для ударів по наших містах, виснажуючи систему ППО та здійснюючи психологічний тиск на цивільне населення. Водночас така тактика є частиною давно сформованої стратегії ракетного терору.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "\"Сувенір\" із фронту: під Рівним через вибух гранати скалічилися студенти",
     "link": "https://ua.korrespondent.net/ukraine/4900973-suvenir-iz-frontu-pid-rivnym-cherez-vybukh-hranaty-skalichylysia-studenty",
     "pubDate": "2026-08-07 16:26:00",
