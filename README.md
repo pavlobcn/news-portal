@@ -1,4 +1,4 @@
-# News for 2026-08-07 05:29
+# News for 2026-08-07 07:21
 
 Previous day: [2026-08-06](./data/2026-08-06.md)
 
@@ -7,5 +7,9 @@ Previous day: [2026-08-06](./data/2026-08-06.md)
 01:12 [У Запоріжжі після атаки РФ спалахнула офісна будівля](https://ua.korrespondent.net/city/zaporozhye/4900756-u-zaporizhzhi-pislia-ataky-rf-spalakhnula-ofisna-budivlia)<br>
 
 ## www.elperiodico.com
+06:01 [Catalunya aprovechará el eclipse para lanzar globos sonda y estudiar los cambios que produce este fenómeno en la atmósfera](https://www.elperiodico.com/es/sociedad/20260807/cataluna-eclipse-estudio-atmosfera-globos-sonda-meteocat-133156244)<br>
+06:00 [Eclipses de ficción (y 5): la noche más corta también alberga horrores](https://www.elperiodico.com/es/ocio-y-cultura/20260807/eclipses-ficcion-cine-terror-stephen-king-133123102)<br>
+05:45 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Alta Ribagorça, Zamora y Vall d'Uixò](https://www.elperiodico.com/es/sociedad/20260807/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
+05:45 [Eclipse solar, en directo: horario, dónde y cómo verlo este 12 de agosto, mejores gafas de protección y última hora del fenómeno astronómico](https://www.elperiodico.com/es/sociedad/20260807/eclipse-solar-12-agosto-ultima-hora-directo-133133160)<br>
 05:00 [Antonio Maudes, investigador de economía del espacio: "Asturias puede impulsar la minería espacial por su gran experiencia en los yacimientos"](https://www.elperiodico.com/es/economia/20260807/antonio-maudes-investigador-economia-espacio-133160718)<br>
 04:50 ["Los mejores bomberos de Madrid" son los bisontes: así evitaron que el fuego devorara una reserva natural en Robledo de Chavela y la convirtieron en "un oasis" para otros animales](https://www.elperiodico.com/es/sociedad/20260807/bisontes-salvaron-llamas-reserva-natural-robledo-chavela-madrid-pastando-133160562)<br>

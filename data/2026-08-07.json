@@ -1,5 +1,176 @@
 [
   {
+    "title": "Àlex Márquez: “Yo tengo mi favorito, claro: Marc es capaz de todo”",
+    "link": "https://www.elperiodico.com/es/deportes/20260807/alex-marquez-favorito-claro-marc-133155670",
+    "pubDate": "2026-08-07 07:15:23",
+    "category": "",
+    "description": "<h2 class=\"item\">Camina por el 'paddock' del Mundial de MotoGP con zapatos de gamuza. No hace ruido. Tiene la misma sonrisa que su hermano Marc y la regala como el nueve veces campeón del mundo. Àlex Márquez no se queda corto, suma dos títulos mundiales y es el actual subcampeón de la máxima categoría. Por delante suyo, solo está su hermano. Normal, para él.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El confesionario interactivo que absuelve pecados en una pizzería de Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260807/confesionario-interactivo-pizzeria-barcelona-sacred-slice-pizza-133146481",
+    "pubDate": "2026-08-07 07:00:45",
+    "category": "",
+    "description": "<h2>Lo mismo puedes pedirte una pizza que la absolución divina. Esta nueva pizzería tiene un confesionario interactivo que escucha tus pecados y te pone penitencia </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260805/tripadvisor-sexcondites-barcelona-escondites-sexo-picaderos-playas-133093430\" target=\"_blank\">El TripAdvisor de los ‘sexcondites’ en Barcelona (escondites públicos y playas \"discretas\" donde practicar sexo)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Subastan 51 vehículos de empresa desde 150 euros para profesionales y autónomos",
+    "link": "https://www.elperiodico.com/es/motor/20260807/subastan-51-vehiculos-empresa-133140521",
+    "pubDate": "2026-08-07 07:00:42",
+    "category": "",
+    "description": "<h2>La flota está compuesta por 27 Dacia Duster y 24 Renault Zoe, y será una subasta dirigida a empresas, profesionales y trabajadores autónomos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ni la DGT ni el RACE aconsejan ya apagar el aire acondicionado antes del coche, pero puede que tú sí que tengas que hacerlo",
+    "link": "https://www.elperiodico.com/es/motor/20260807/dgt-race-no-aconsejan-apagar-aire-coches-antiguos-132947260",
+    "pubDate": "2026-08-07 06:04:15",
+    "category": "",
+    "description": "<h2>Este tipo de recomendaciones son más útiles para los coches que ya han cumplido una cierta edad y con los que hay que tener otros cuidados de mantenimiento.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya aprovechará el eclipse para lanzar globos sonda y estudiar los cambios que produce este fenómeno en la atmósfera",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/cataluna-eclipse-estudio-atmosfera-globos-sonda-meteocat-133156244",
+    "pubDate": "2026-08-07 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El Servei Meteorològic de Catalunya realizará el experimento desde el Observatori de l'Ebre para calcular los cambios de temperatura, humedad y viento que se producen durante la ocultación del sol</h2><h2 class=\"item\">También se extenderá la actividad de varias estaciones meteorológicas situadas en Barcelona, Tarragona y Lleida para mejorar el estudio de estas variables</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260712/espana-red-telescopios-trio-eclipses-ibericos-estudio-132337695\">España desplegará una red coordinada de telescopios para estudiar la corona solar durante los \"eclipses ibéricos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Felipe VI asiste este viernes por sexta vez a una investidura en Colombia, la del ultraderechista De la Espriella",
+    "link": "https://www.elperiodico.com/es/politica/20260807/colombia-felipe-investidura-espriella-ultraderechista-133154319",
+    "pubDate": "2026-08-07 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El Rey partió hacia Cali tras reunirse el jueves por la tarde en Mallorca con el presidente de Ceuta</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La expresidenta de Adif analiza ocho conversaciones de Koldo para defender que ella \"bloqueó\" a la trama de amaños de Cerdán",
+    "link": "https://www.elperiodico.com/es/politica/20260807/expresidenta-adif-analiza-ocho-conversaciones-koldo-exculpatorias-trama-santos-cerdan-133151913",
+    "pubDate": "2026-08-07 06:00:46",
+    "category": "",
+    "description": "<h2>“Pardo de Vera, la hija de puta […] no tiene perdón de Dios, tío\", comentó Koldo al exdirigente socialista en relación con las obras investigadas por la Audiencia Nacional</h2>",
+    "topic": "política",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La criminalidad en Ceuta cae más de un 25% en los últimos 10 años mientras en España sube",
+    "link": "https://www.elperiodico.com/es/politica/20260807/criminalidad-ceuta-caido-ultimos-anos-133141592",
+    "pubDate": "2026-08-07 06:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Los delitos que más alarma social generan se han desplomado en la ciudad autónoma hasta un 70% en la última década</h2><h2 class=\"item\">Ceuta tiene el triple de policías por habitante que la media nacional: 14 por cada 1.000 frente a cuatro en toda España</h2><h2 class=\"item\">La ciudad autónoma se confirma como una de las más seguras, con una tasa de criminalidad por debajo de la media</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260807/ceuta-marruecos-migrantes-ultima-hora-directo-132960312\" target=\"_blank\">Última hora de Ceuta y Melilla, en directo</a></h2>",
+    "topic": "política",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Comienza en Colombia la era del ultraderechista Abelardo de la Espriella",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/comienza-colombia-presidencial-ultraderechista-abelardo-espriella-133161202",
+    "pubDate": "2026-08-07 06:00:38",
+    "category": "",
+    "description": "<h2>El abogado, de 48 años, intentará establecer un corte de raíz con la herencia del Gobierno de izquierdas de Gustavo Petro, con un alineamiento total con Donald Trump</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260806/abelardo-espriella-ultraderecha-resultados-elecciones-colombia-130830737\" target=\"_blank\">Perfil | Abelardo de la Espriella, el abogado penalista forjado al calor de las redes sociales y los exabruptos que presidirá Colombia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Eclipses de ficción (y 5): la noche más corta también alberga horrores",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260807/eclipses-ficcion-cine-terror-stephen-king-133123102",
+    "pubDate": "2026-08-07 06:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">De cómo el cine de terror ha utilizado los eclipses como una señal de que el destino de la humanidad está controlado por fuerzas cósmicas que escapan a nuestra comprensión</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260806/eclipses-ficcion-4-amor-hay-133087858\" target=\"_blank\">Eclipses de ficción (4): Al amor hay que mirarlo con gafas protectoras </a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260805/eclipses-ficcion-apocalypto-melies-barrabas-133069256\" target=\"_blank\">Eclipses de ficción (3): Soles rotos y encuentros sexuales en el espacio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las claves del método Fuentes: la revolución que ha cambiado la natación artística española",
+    "link": "https://www.elperiodico.com/es/deportes/20260807/claves-metodo-fuentes-revolucion-cambiado-133109925",
+    "pubDate": "2026-08-07 06:00:36",
+    "category": "",
+    "description": "<h2>El objetivo de la exnadadora no es únicamente ganar más medallas, sino redefinir el éxito y demostrar que se puede llegar a la élite sin convertir el sufrimiento en el único camino posible. </h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260308/andrea-fuentes-seleccionadora-espanola-natacion-127542541\" >Andrea Fuentes, seleccionadora española de natación artística: \"Vamos a inspirar a todo dios, es mucho más bonito que ganar el oro\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260804/polemica-estalla-final-equipos-espana-133080651\" >La polémica estalla tras la final por equipos: España acusa a Rusia de apropiarse de una de las innovaciones de 'La Locura'</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rosalía, la nueva musa de la natación artística: \"La llevamos en la sangre\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260807/rosalia-nueva-musa-natacion-artistica-133112713",
+    "pubDate": "2026-08-07 06:00:36",
+    "category": "",
+    "description": "<h2>La capacidad emotiva y la potencia de las canciones de la artista de Sant Esteve Sesrovires ha cautivado dentro y fuera de la piscina hasta el punto de aparecer en ejercicios de Italia o Países Bajos. </h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260410/rosalia-inspira-andrea-fuentes-equipo-128964822\" >Rosalía inspira a Andrea Fuentes: el equipo de natación artística usará dos canciones de LUX en sus coreografías</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260528/andrea-fuentes-desafia-limites-sincronizada-130667009\" >Andrea Fuentes desafía los límites de la sincronizada española con Rosalía: \"Es la rutina más difícil que se ha hecho nunca\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "David Pastor Vico, filósofo: \"Compartir no es subir la foto de la comida sino mandarla en un táper\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/david-pastor-vico-filosofo-compartir-133161147",
+    "pubDate": "2026-08-07 06:00:32",
+    "category": "",
+    "description": "<h2>Filósofo, divulgador y fenómeno televisivo, defiende que la revolución pendiente no está en un algoritmo, sino en volver a mirar al vecino. En verano, dice, conviene apagar el móvil, sacar la silla a la puerta y recordar que nadie se salva solo</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "David Pastor Vico, filósofo: \"Yo protegería por la Unesco estar sentado al fresquito hablando con el vecino\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/david-pastor-vico-filosofo-protegeria/133161156.shtml",
+    "pubDate": "2026-08-07 06:00:31",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Alta Ribagorça, Zamora y Vall d'Uixò",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-08-07 05:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/megaincendios-desata-emergencia-espana-esperabamos-bombas-nucleares-132857533\">La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260728/equipo-cientificos-csic-incendios-espana-132858331\">Un equipo de científicos se enrola por primera vez en las labores de extinción de los incendios: \"Alertamos a los bomberos de las zonas más peligrosas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eclipse solar, en directo: horario, dónde y cómo verlo este 12 de agosto, mejores gafas de protección y última hora del fenómeno astronómico",
+    "link": "https://www.elperiodico.com/es/sociedad/20260807/eclipse-solar-12-agosto-ultima-hora-directo-133133160",
+    "pubDate": "2026-08-07 05:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260214/eclipse-sol-cataluna-actividades-divulgacion-ciencia-educacion-trio-eclipses-126806651\" >Catalunya creará un atlas divulgativo para implicar a la población en el eclipse de sol del 12 de agosto</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260802/eclipse-solar-cataluna-12-agosto-gafas-gratis-once-gobierno-dv-133020698\" target=\"_blank\">El Gobierno y la ONCE repartirán dos millones de gafas gratis para ver el eclipse del próximo 12 de agosto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Directo guerra Ucrania - Rusia, última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/directo-guerra-ucrania-rusia-ultima-126605559",
+    "pubDate": "2026-08-07 05:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora del conflicto en Oriente Medio",
+    "link": "https://www.elperiodico.com/es/internacional/20260807/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-apertura-ormuz-130265713",
+    "pubDate": "2026-08-07 05:40:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ceuta y Melilla, en directo | Última hora de la crisis migratoria, desaparecidos, situación de los menores y reacciones políticas",
+    "link": "https://www.elperiodico.com/es/politica/20260807/ceuta-marruecos-migrantes-ultima-hora-directo-132960312",
+    "pubDate": "2026-08-07 05:38:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260802/ceuta-muertos-crisis-migratoria-133033736\" target=\"_blank\">El Gobierno sitúan la cifra oficial de muertos a 72, aunque otras fuentes lo elevan a más de 100</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260802/menores-crisis-ceuta-han-llegado-133026689\">Los menores, en la crisis de Ceuta: \"Han llegado miles y nadie sabe cuántos”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Exclusiva | Los diarios policiales del Mundial de fútbol: \"Voy a entrar en el estadio y volar a Messi con cuatro bombas pegadas en mi cuerpo\"",
     "link": "https://www.elperiodico.com/es/sucesos/20260807/mundial-futbol-amenazas-messi-informes-133160673",
     "pubDate": "2026-08-07 05:00:01",
