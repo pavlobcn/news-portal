@@ -1,8 +1,10 @@
-# News for 2026-08-08 15:58
+# News for 2026-08-08 16:40
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+16:30 [Марганець: прем'єр повідомив про кадрові рішення після аварії на водогоні](https://ua.korrespondent.net/ukraine/4901173-marhanets-premier-povidomyv-pro-kadrovi-rishennia-pislia-avarii-na-vodohoni)<br>
+15:15 [У Болгарії невідомий БПЛА вибухнув поблизу газопроводу](https://ua.korrespondent.net/world/4901167-u-bolharii-nevidomyi-bpla-vybukhnuv-poblyzu-hazoprovodu)<br>
 14:50 [Росіяни атакували рейсовий автобус у Нікополі: загинув водій](https://ua.korrespondent.net/ukraine/4901165-rosiiany-atakuvaly-reisovyi-avtobus-u-nikopoli-zahynuv-vodii)<br>
 13:43 [НБУ втримав продаж доларів вище психологічної межі](https://ua.korrespondent.net/business/financial/4901157-nbu-vtrymav-prodazh-dolariv-vysche-psykholohichnoi-mezhi)<br>
 13:22 [США постачатимуть ракети для Patriot - Зеленський](https://ua.korrespondent.net/ukraine/4901154-ssha-postachatymut-rakety-dlia-Patriot-zelenskyi)<br>
@@ -26,9 +28,15 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## as.com
+15:53 [Tony Parker se lía solo](https://as.com/baloncesto/euroliga/tony-parker-se-lia-solo-f202608-n/)<br>
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:10 [¿Puedes irte de viaje estas vacaciones si estás de baja médica? Sebastián Ramírez, abogado laboralista, lo aclara](https://www.elperiodico.com/es/economia/20260808/viaje-vacaciones-baja-medica-posibles-problemas-legales-dv-133042609)<br>
+16:00 [El éxito de Celestech: la única fábrica española de gafas para el eclipse está en Barcelona y produce hasta 500.000 unidades diarias](https://www.elperiodico.com/es/sociedad/20260808/celestech-fabrica-gafas-eclipse-barcelona-133147013)<br>
+16:00 [Juanma Lorente, abogado laboralista: "Si tienes contrato fijo discontinuo, es muy posible que te estén engañando"](https://www.elperiodico.com/es/economia/20260808/juanma-lorente-abogado-laboralista-contrato-fijo-discontinuo-consejo-tiktok-dv-et-133143782)<br>
+16:00 [La fiebre por el eclipse también llega a los niños: "¿Me tendré que ir a dormir si se hace de noche?’”](https://www.elperiodico.com/es/sociedad/20260808/fiebre-eclipse-ninos-emocion-acostarse-interes-133169604)<br>
+16:00 [Jorge (23 años), agricultor de Aldea del Rey: "Mi madre no está de acuerdo con mi trabajo, pero aun así me apoya"](https://www.elperiodico.com/es/sociedad/20260808/jorge-23-anos-agricultor-aldea-mundo-rural-trabajo-en-el-campo-dv-et-133175098)<br>
 15:40 [Sam Neill tendrá un papel póstumo en la adaptación del videojuego 'The Legend of Zelda'](https://www.elperiodico.com/es/ocio-y-cultura/20260808/sam-neill-tendra-papel-postumo-133197724)<br>
 15:40 [Imágenes de los controles aleatorios de pasaporte hoy en los aeropuertos de Madrid Barajas y Barcelona el Prat](https://www.elperiodico.com/es/fotos/sociedad/imagenes-controles-aleatorios-pasaporte-hoy-133198036)<br>
 15:24 [Prisión para el zapatero que degolló a su expareja en el centro comercial de Murcia](https://www.elperiodico.com/es/videos/sucesos/prision-zapatero-degollo-expareja-centro-comercial-murcia/133197828.shtml)<br>
