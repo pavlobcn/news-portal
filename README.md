@@ -1,8 +1,10 @@
-# News for 2026-08-08 13:05
+# News for 2026-08-08 13:40
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+13:22 [США постачатимуть ракети для Patriot - Зеленський](https://ua.korrespondent.net/ukraine/4901154-ssha-postachatymut-rakety-dlia-Patriot-zelenskyi)<br>
+12:58 [На Буковині затримали чоловіка, який поранив двох поліцейських](https://ua.korrespondent.net/ukraine/4901152-na-bukovyni-zatrymaly-cholovika-yakyi-poranyv-dvokh-politseiskykh)<br>
 12:31 [Уражено 12 суден тіньового флоту Росії](https://ua.korrespondent.net/ukraine/4901148-urazheno-12-suden-tinovoho-flotu-rosii)<br>
 11:59 [Суд призначив довічне 11 військовим РФ за розстріл людей на Київщині](https://ua.korrespondent.net/ukraine/4901140-sud-pryznachyv-dovichne-11-viiskovym-rf-za-rozstril-luidei-na-kyivschyni)<br>
 09:15 [Росіяни влучили дроном по локомотиву поїзда Суми-Київ](https://ua.korrespondent.net/ukraine/4901119-rosiiany-vluchyly-dronom-po-lokomotyvu-poizda-sumy-kyiv)<br>
@@ -25,6 +27,9 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:38 [Meteocat avisa del tiempo que hará en Catalunya durante el eclipse solar total del 12 de agosto](https://www.elperiodico.com/es/sociedad/20260808/meteocat-avisa-tiempo-hara-catalunya-eclipse-solar-12-de-agosto-133195187)<br>
+13:25 [Cortada la línea de tren Madrid-Extremadura tras el arrollamiento mortal de una persona en Talavera (Toledo)](https://www.elperiodico.com/es/sociedad/20260808/cortada-linea-tren-madrid-extremadura-arrollamiento-mortal-persona-talavera-toledo-133195483)<br>
+13:24 [Emiratos Árabes acusa a Irán de atacar con un misil uno de sus buques cisterna en Ormuz](https://www.elperiodico.com/es/internacional/20260808/emiratos-arabes-acusa-iran-atacar-buque-estrecho-ormuz-133195332)<br>
 12:43 [Sóller se moviliza contra la masificación turística: unas 2.000 personas salen a la calle](https://www.elperiodico.com/es/sociedad/20260808/soller-protesta-masificacion-turistica-mallorca-133194537)<br>
 12:36 [El calor, las tormentas o las lluvias ponen en aviso a zonas de 16 comunidades autónomas](https://www.elperiodico.com/es/sociedad/20260808/calor-tormentas-o-lluvias-ponen-aviso-16-comunidades-autonomas-133194476)<br>
 12:34 [El pequeño ahorrador vuelve a las letras del Tesoro y demanda 15.000 millones en 6 meses](https://www.elperiodico.com/es/economia/20260808/pequeno-ahorrador-vuelve-letras-tesoro-demanda-15000-millones-133194041)<br>
