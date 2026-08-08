@@ -1,5 +1,68 @@
 [
   {
+    "title": "Así son los controles en aeropuertos para los viajeros procedentes de Italia",
+    "link": "https://www.elperiodico.com/es/videos/politica/controles-aeropuertos-viajeros-procedentes-italia/133201476.shtml",
+    "pubDate": "2026-08-08 19:00:25",
+    "category": "",
+    "description": "Los agentes han reclamado la documentación al 10% de los viajeros procedentes de Italia que han aterrizado en los aeropuertos de El Prat, Barajas, Málaga, Sevilla, Bilbao, Alicante y Valencia",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un incendio junto a la A-2 obliga a cortar brevemente la circulación en Cornellà",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260808/incendio-2-obliga-cortar-brevemente-133201182",
+    "pubDate": "2026-08-08 18:57:02",
+    "category": "",
+    "description": "<h2>La autopista ha quedado reabierta al tráfico, aunque la salida 609 permanece cerrada</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Броварах дівчинку вдарило струмом на даху поїзда",
+    "link": "https://ua.korrespondent.net/ukraine/4901193-u-brovarakh-divchynku-vdarylo-strumom-na-dakhu-poizda",
+    "pubDate": "2026-08-08 18:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522363.jpg\">Дитина намагалася залізти на нерухомий потяг. Постраждалу доставлено до Броварської лікарні. Стан вкрай важкий. Її подруга отримала опіки рук, загрози для життя немає.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vollering pasa la ofensiva y se viste de amarillo en el Tour, Blasi, séptima",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/vollering-pasa-ofensiva-viste-amarillo-tour-francia-blasi-septima-133201211",
+    "pubDate": "2026-08-08 18:54:03",
+    "category": "",
+    "description": "<h2 class=\"item\">La corredora neerlandesa vence en solitario la penúltima etapa en Niza, se pone líder con ocho segundos de ventaja y el suspense anima la decisiva jornada final.</h2><h2 class=\"item\"><a href=\"https://www.tissottiming.com/2026/trf/stage-8/rankings\">Todas las clasificaciones.</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ayuso critica el \"enfrentamiento\" con Italia mientras se deja \"entrar a más de 70.000\" migrantes \"ilegalmente\" por Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260808/ayuso-critica-enfrentamiento-italia-entrar-70000-migrantes-ilegales-ceuta-133200982",
+    "pubDate": "2026-08-08 18:51:23",
+    "category": "",
+    "description": "<h2>Marlaska ha comunicado este sábado a diferentes autoridades de la Unión Europea la decisión del Gobierno de restablecer los controles fronterizos entre ambos países</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260808/pasajeros-evidencian-sorpresa-controles-aleatorios-133195730\">Los pasajeros evidencian su sorpresa ante los controles aleatorios a los vuelos desde Italia a España: \"No lo hemos entendido\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las Harley de la escolta policial del papa Benedicto XVI en València están a la venta en Wallapop",
+    "link": "https://www.elperiodico.com/es/sociedad/20260808/harley-papa-motos-wallapop-escolta-policial-benedicto-dv-et-133152922",
+    "pubDate": "2026-08-08 18:30:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Las tres motocicletas, versión 'police' y con equipamiento original, se venden por 17.000 euros cada una</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Болгарії заявили, що вибухнув український дрон-приманка",
+    "link": "https://ua.korrespondent.net/world/worldabus/4901191-u-bolharii-zaiavyly-scho-vybukhnuv-ukrainskyi-dron-prymanka",
+    "pubDate": "2026-08-08 18:30:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522353.jpg\">УМіністерстві оборони Болгарії зазначили, що такий висновок зробили за результатами початкового аналізу уламків безпілотника.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Pablo Ojeda, nutricionista: \"El 90% de los españoles no saben tomar café\"",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260808/pablo-ojeda-nutricionista-90-espanoles-no-saben-tomar-cafe-dv-133119622",
     "pubDate": "2026-08-08 18:25:46",

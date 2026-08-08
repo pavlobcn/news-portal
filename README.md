@@ -1,8 +1,10 @@
-# News for 2026-08-08 18:26
+# News for 2026-08-08 19:05
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+18:55 [У Броварах дівчинку вдарило струмом на даху поїзда](https://ua.korrespondent.net/ukraine/4901193-u-brovarakh-divchynku-vdarylo-strumom-na-dakhu-poizda)<br>
+18:30 [У Болгарії заявили, що вибухнув український дрон-приманка](https://ua.korrespondent.net/world/worldabus/4901191-u-bolharii-zaiavyly-scho-vybukhnuv-ukrainskyi-dron-prymanka)<br>
 18:05 [Тайфун Дельфін накрив Японію, є постраждалі](https://ua.korrespondent.net/world/4901184-taifun-delfin-nakryv-yaponiui-ye-postrazhdali)<br>
 16:30 [Марганець: прем'єр повідомив про кадрові рішення після аварії на водогоні](https://ua.korrespondent.net/ukraine/4901173-marhanets-premier-povidomyv-pro-kadrovi-rishennia-pislia-avarii-na-vodohoni)<br>
 15:15 [У Болгарії невідомий БПЛА вибухнув поблизу газопроводу](https://ua.korrespondent.net/world/4901167-u-bolharii-nevidomyi-bpla-vybukhnuv-poblyzu-hazoprovodu)<br>
