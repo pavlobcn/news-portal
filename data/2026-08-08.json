@@ -1,5 +1,68 @@
 [
   {
+    "title": "Los jóvenes certifican el triunfo del Real Madrid en Budapest (1-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/real-madrid-ferencvaros-resumen-resultado-amistoso-futbol-133203356",
+    "pubDate": "2026-08-08 20:52:37",
+    "category": "",
+    "description": "<h2>Los goles de Mario Martín y Espí dan la segunda victoria en un partido en el que debutó Bernardo Silva pasando inadvertido</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Сумщині росіяни атакували пасажирський поїзд",
+    "link": "https://ua.korrespondent.net/ukraine/4901204-na-sumschyni-rosiiany-atakuvaly-pasazhyrskyi-poizd",
+    "pubDate": "2026-08-08 20:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522415.jpg\">Паралельно з гасінням пожежі офіцери-рятувальники громади спільно з місцевою владою проводили евакуацію пасажирів потяга. Ніхто з людей не постраждав.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vox pide activar el artículo 102 para investigar a Sánchez por \"traición\" tras la crisis migratoria de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260808/vox-pide-activar-articulo-102-133203167",
+    "pubDate": "2026-08-08 20:43:34",
+    "category": "",
+    "description": "<h2>La formación acusa al Ejecutivo de conocer de antemano la entrada masiva de migrantes y reclama desclasificar sus comunicaciones con Marruecos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ferran Torres comunica al Barça que desea irse al PSG",
+    "link": "https://www.elperiodico.com/es/videos/deportes/ferran-torres-comunica-barca-desea/133202881.shtml",
+    "pubDate": "2026-08-08 20:35:22",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Dépor condena los actos violentos registrados por supuestos aficionados en Génova",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/depor-condena-actos-violentos-registrados-133202833",
+    "pubDate": "2026-08-08 20:34:21",
+    "category": "",
+    "description": "<h2>El club ha reaccionado así a las informaciones difundidas en las últimas horas sobre los incidentes ocurridos en la ciudad italiana, en los que \"se habrían visto involucrados un grupo de individuos desplazados a la ciudad con motivo del encuentro disputado por el RC Deportivo\".</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Espanyol homenajea a Dani Jarque 17 años después de su muerte",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/espanyol-homenajea-dani-jarque-17-capitan-133202572",
+    "pubDate": "2026-08-08 20:28:45",
+    "category": "",
+    "description": "<h2>El acto ha contado con la participación de la familia de Jarque, representantes del Espanyol y de su Fundación, miembros de la Federació Catalana de Penyes y antiguos jugadores y embajadores de la entidad</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдарили по Павлограду: двоє поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4901202-rosiiany-vdaryly-po-pavlohradu-dvoie-poranenykh",
+    "pubDate": "2026-08-08 20:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522405.jpg\">Попередньо, поранення дістали двоє людей - 50-річний чоловік та 57-річна жінка. Медики надають їм необхідну допомогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La lucha contra el fuego de Niebla (Huelva) sigue condicionada por los cambios de viento",
     "link": "https://www.elperiodico.com/es/sociedad/20260808/lucha-fuego-niebla-huelva-sigue-133202456",
     "pubDate": "2026-08-08 20:10:24",
