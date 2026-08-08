@@ -1,8 +1,9 @@
-# News for 2026-08-08 14:24
+# News for 2026-08-08 15:10
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+14:50 [Росіяни атакували рейсовий автобус у Нікополі: загинув водій](https://ua.korrespondent.net/ukraine/4901165-rosiiany-atakuvaly-reisovyi-avtobus-u-nikopoli-zahynuv-vodii)<br>
 13:43 [НБУ втримав продаж доларів вище психологічної межі](https://ua.korrespondent.net/business/financial/4901157-nbu-vtrymav-prodazh-dolariv-vysche-psykholohichnoi-mezhi)<br>
 13:22 [США постачатимуть ракети для Patriot - Зеленський](https://ua.korrespondent.net/ukraine/4901154-ssha-postachatymut-rakety-dlia-Patriot-zelenskyi)<br>
 12:58 [На Буковині затримали чоловіка, який поранив двох поліцейських](https://ua.korrespondent.net/ukraine/4901152-na-bukovyni-zatrymaly-cholovika-yakyi-poranyv-dvokh-politseiskykh)<br>
@@ -28,6 +29,7 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:08 [Werner Herzog, primer Premio Donostia del 74 Festival de San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260808/werner-herzog-primer-premio-donostia-133197222)<br>
 14:22 [Los mejores filtros para fotografía el eclipse solar con el móvil y dónde comprarlos](https://www.elperiodico.com/es/ciencia/20260808/eclipse-solar-total-filtros-fotografia-movil-camara-seguros-dv-et-133175343)<br>
 14:10 [Cierran temporalmente las pasarelas de Montfalcó del desfiladero de Mont-rebei por los daños causados por las tormentas](https://www.elperiodico.com/es/sociedad/20260808/cierran-temporalmente-pasarelas-montfalco-desfiladero-congost-de-mont-rebei-133196319)<br>
 14:08 [Fernando (39 años), único habitante de un pueblo abandonado: "Siempre digo que soy monologuista por obligación, porque no tengo con quién hablar"](https://www.elperiodico.com/es/economia/20260808/despoblacion-problema-unico-habitante-pueblo-abandonado-espana-vaciada-fernando-dv-et-133097547)<br>

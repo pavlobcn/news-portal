@@ -1,5 +1,86 @@
 [
   {
+    "title": "Werner Herzog, primer Premio Donostia del 74 Festival de San Sebastián",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260808/werner-herzog-primer-premio-donostia-133197222",
+    "pubDate": "2026-08-08 15:08:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El festival destaca que el alemán ha alumbrado una \"obra extraordinaria\" con cerca de 80 filmes, moldeada por la obsesión y las  contradicciones de la naturaleza humana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20240317/lado-dios-memorias-extremas-werner-99539690\">‘Cada uno por su lado y Dios contra todos’: las memorias extremas de Werner Herzog</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "RTVE homenajea a Kevin Costner con una tarde de cine en La 1",
+    "link": "https://www.elperiodico.com/es/tele/20260808/rtve-homenajea-kevin-costner-tarde-133123870",
+    "pubDate": "2026-08-08 15:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">La cadena ofrecerá una doble emisión de las películas 'El guardaespaldas' y 'No hay salida'</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Algas, sobrecostes y patos muertos: el fiasco de Trump en el Estanque Reflectante de Washington",
+    "link": "https://www.elperiodico.com/es/internacional/20260808/trump-estanque-reflectante-explicacion-fiasco-washington-133197473",
+    "pubDate": "2026-08-08 15:00:35",
+    "category": "",
+    "description": "<h2>El presidente de EEUU atribuyó al \"vandalismo\" los problemas surgidos durante su reparación, pero los tribunales han concluido que se deben a \"la instalación chapucera\" de la empresa que republicano contrató a dedo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Quién es Javier Ruiz, el primer director de la nueva cadena de televisión La Séptima",
+    "link": "https://www.elperiodico.com/es/tele/20260808/javier-ruiz-primer-director-nueva-133155047",
+    "pubDate": "2026-08-08 15:00:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El periodista se despidió este viernes del programa 'Mañaneros' de TVE con un discurso en el que pidió a los espectadores que premiaran \"el periodismo\" y castigaran \"la basura\"</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Toscana Viar, nutricionista de la Selección Española: \"Hay algunos jugadores que, aunque sean las 8 de la mañana, comen lo mismo que desayunan; pollo y arroz\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/toscana-viar-nutricionista-seleccion-espanola-jugadores-desayuno-comida-dv-et-133078861",
+    "pubDate": "2026-08-08 15:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La nutricionista deportiva de la Selección Española y del Athletic Club señala las claves nutricionales de los campeones del mundo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260724/fiestas-ibiza-ferran-turismo-pekin-132745142\" >De las fiestas en Ibiza de Ferran al turismo por Pekín de Pedri: los campeones del mundo disfrutan de sus vacaciones</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cortada totalmente la C-58 en Barcelona en sentido Sabadell por un camión volcado",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260808/cortada-totalmente-c-58-barcelona-sabadell-camion-volcado-133197286",
+    "pubDate": "2026-08-08 14:59:57",
+    "category": "",
+    "description": "<h2>La afectación viaria va desde Santa Coloma de Gramenet a la pota Nord/B-20 y a la ronda Litoral/B-10, con la circulación derivada a la C-33</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP exige al Gobierno comparecer por Ceuta y acusa a Sánchez de \"aislar\" a España en la UE",
+    "link": "https://www.elperiodico.com/es/politica/20260808/crisis-ceuta-pp-comparecencia-pedro-sanchez-congreso-ue-133197052",
+    "pubDate": "2026-08-08 14:51:41",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260808/ceuta-marruecos-migrantes-ultima-hora-directo-132960312\" target=\"_blank\">DIRECTO | Última hora de la crisis migratoria, desaparecidos, situación de los menores y reacciones políticas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260808/crisis-ceuta-redes-sociales-bulos-133150141\" target=\"_blank\">¿Cómo se gestó la crisis en Ceuta? Los expertos analizan los mensajes y los bulos en las redes sociales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260808/pasajeros-evidencian-sorpresa-controles-aleatorios-133195730\" target=\"_blank\">Sorpresa de los viajeros ante los controles aleatorios en los vuelos desde Italia a El Prat y Barajas: \"No lo hemos entendido\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни атакували рейсовий автобус у Нікополі: загинув водій",
+    "link": "https://ua.korrespondent.net/ukraine/4901165-rosiiany-atakuvaly-reisovyi-avtobus-u-nikopoli-zahynuv-vodii",
+    "pubDate": "2026-08-08 14:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522245.jpg\">Через атаку згорів рейсовий автобус: загинув водій, його 48-річний колега дістав поранення, повідомили в Днпропетровській ОВА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленськй розповів про розмову з Вучичем",
+    "link": "https://ua.korrespondent.net/ukraine/4901163-zelenski-rozpoviv-pro-rozmovu-z-vuchychem",
+    "pubDate": "2026-08-08 14:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522236.jpg\">Президент наголосив: працюємо, щоб уже до кінця цього року підготувати все для укладання угоди про зону вільної торгівлі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Los mejores filtros para fotografía el eclipse solar con el móvil y dónde comprarlos",
     "link": "https://www.elperiodico.com/es/ciencia/20260808/eclipse-solar-total-filtros-fotografia-movil-camara-seguros-dv-et-133175343",
     "pubDate": "2026-08-08 14:22:31",
@@ -128,6 +209,15 @@
   {
     "title": "La oposición italiana critica a Meloni por crear una crisis diplomática \"sin fundamento\" con España",
     "link": "https://www.elperiodico.com/es/politica/20260808/oposicion-critica-meloni-crear-crisis-diplomatica-sin-fundamento-133195363",
+    "pubDate": "2026-08-08 13:27:14",
+    "category": "",
+    "description": "<h2>Algunos de los miembros de los partidos del Gobierno defienden la decisión de mantener la suspensión de Schengen: \"Las políticas de Pedro Sánchez han dado pie a la inmigración ilegal\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260808/policia-efectua-controles-identidad-aleatorios-aeropuerto-barcelona-italia-133194573\">La Policía efectúa controles de identidad aleatorios en el aeropuerto de Barcelona en vuelos desde Italia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La oposición italiana critica a Meloni por crear una crisis diplomática \"sin fundamento\" con España",
+    "link": "https://www.elperiodico.com/es/internacional/20260808/oposicion-critica-meloni-crear-crisis-diplomatica-sin-fundamento-133195363",
     "pubDate": "2026-08-08 13:27:14",
     "category": "",
     "description": "<h2>Algunos de los miembros de los partidos del Gobierno defienden la decisión de mantener la suspensión de Schengen: \"Las políticas de Pedro Sánchez han dado pie a la inmigración ilegal\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260808/policia-efectua-controles-identidad-aleatorios-aeropuerto-barcelona-italia-133194573\">La Policía efectúa controles de identidad aleatorios en el aeropuerto de Barcelona en vuelos desde Italia</a></h2>",
