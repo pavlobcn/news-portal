@@ -1,4 +1,4 @@
-# News for 2026-08-08 22:07
+# News for 2026-08-08 22:47
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -36,6 +36,7 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## as.com
+22:36 [El sueño, más vivo que nunca](https://as.com/baloncesto/mas_baloncesto/el-sueno-mas-vivo-que-nunca-f202608-n/)<br>
 21:25 [España saca músculo](https://as.com/baloncesto/mas_baloncesto/espana-saca-musculo-f202608-n/)<br>
 15:53 [Tony Parker se lía solo](https://as.com/baloncesto/euroliga/tony-parker-se-lia-solo-f202608-n/)<br>
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
