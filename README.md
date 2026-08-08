@@ -1,4 +1,4 @@
-# News for 2026-08-08 17:19
+# News for 2026-08-08 17:53
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -32,6 +32,9 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:36 [Polémica en el Fringe de Edimburgo por un monólogo cómico de Amanda Knox, condenada y absuelta en Italia por el asesinato de su compañera de piso](https://www.elperiodico.com/es/ocio-y-cultura/20260808/amanda-knox-monologo-comico-fringe-cartwheel-133198314)<br>
+17:34 [La quinta patera del día llega a Baleares rescatando a 29 migrantes y eleva a 84 los llegados este sábado](https://www.elperiodico.com/es/sociedad/20260808/quinta-patera-dia-llega-baleares-133199949)<br>
+17:20 [Muere una persona tras ser arrollada por un tren en Talavera de la Reina, Toledo](https://www.elperiodico.com/es/videos/sucesos/muere-persona-arrollada-tren-talavera-toledo/133199759.shtml)<br>
 16:10 [¿Puedes irte de viaje estas vacaciones si estás de baja médica? Sebastián Ramírez, abogado laboralista, lo aclara](https://www.elperiodico.com/es/economia/20260808/viaje-vacaciones-baja-medica-posibles-problemas-legales-dv-133042609)<br>
 16:00 [El éxito de Celestech: la única fábrica española de gafas para el eclipse está en Barcelona y produce hasta 500.000 unidades diarias](https://www.elperiodico.com/es/sociedad/20260808/celestech-fabrica-gafas-eclipse-barcelona-133147013)<br>
 16:00 [Juanma Lorente, abogado laboralista: "Si tienes contrato fijo discontinuo, es muy posible que te estén engañando"](https://www.elperiodico.com/es/economia/20260808/juanma-lorente-abogado-laboralista-contrato-fijo-discontinuo-consejo-tiktok-dv-et-133143782)<br>

@@ -1,5 +1,77 @@
 [
   {
+    "title": "Соціологи з'ясували головні мотиви гравців онлайн-казино в Україні",
+    "link": "https://ua.korrespondent.net/business/4901183-sotsiolohy-ziasuvaly-holovni-motyvy-hravtsiv-onlain-kazyno-v-ukraini",
+    "pubDate": "2026-08-08 17:48:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522332.jpg\">Більше половини гравців сприймають гру як дозвілля, а не можливість заробити.",
+    "topic": "лотереї",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Зеленський зустрівся з прем'єр-міністром Сербії",
+    "link": "https://ua.korrespondent.net/ukraine/4901181-zelenskyi-zustrivsia-z-premier-ministrom-serbii",
+    "pubDate": "2026-08-08 17:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522311.jpeg\">Учасники зустрічі обговорили спільні економічні та логістичні проєкти: розвиток Дунайського коридору й зміцнення зв’язків між Україною, Західними Балканами та Євросоюзом.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Carlos Gimeno se queda a las puertas del podio en la competición de 20 metros de saltos de altura del Europeo",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/carlos-gimeno-queda-puertas-podio-133199627",
+    "pubDate": "2026-08-08 17:38:49",
+    "category": "",
+    "description": "<h2>El rumano Catalin-Petru Preda se alzó con el oro en esta prueba disputada en el río Sena en París. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Polémica en el Fringe de Edimburgo por un monólogo cómico de Amanda Knox, condenada y absuelta en Italia por el asesinato de su compañera de piso",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260808/amanda-knox-monologo-comico-fringe-cartwheel-133198314",
+    "pubDate": "2026-08-08 17:36:11",
+    "category": "",
+    "description": "<h2 class=\"item\">La familia de Meredith Kercher, por cuyo asesinato Knox fue encarcelada y más tarde puesta en libertad, asegura que el espectáculo \"normaliza y trivializa la violencia contra las mujeres\"  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20250819/historia-amanda-knox-serie-disney-120761457\">La retorcida historia de Amanda Knox es ahora serie de televisión</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La quinta patera del día llega a Baleares rescatando a 29 migrantes y eleva a 84 los llegados este sábado",
+    "link": "https://www.elperiodico.com/es/sociedad/20260808/quinta-patera-dia-llega-baleares-133199949",
+    "pubDate": "2026-08-08 17:34:04",
+    "category": "",
+    "description": "<h2>Las llegadas de esta semana elevan a 414 el número de migrantes que han arribado al archipiélago en 24 pateras</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ferran Torres comunica al Barça que desea irse al PSG",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/ferran-torres-comunica-barca-desea-133199307",
+    "pubDate": "2026-08-08 17:30:52",
+    "category": "",
+    "description": "<h2>El club francés traspasó al Milan a Gonçalo Ramos, el delantero centro suplente, por 60 millones más 10 en variables </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El lugar de Castelldefels que ya está en la historia de la televisión gracias a un 'hit' de Netflix",
+    "link": "https://www.elperiodico.com/es/barcelona/castelldefels/20260808/rincon-castelldefels-historia-television-dv-loc-114972903",
+    "pubDate": "2026-08-08 17:30:00",
+    "category": "",
+    "description": "<h2>Esta localidad del Baix Llobregat lleva siendo el escenario favorito de muchos cineastas desde los años 60</h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20250303/pasteles-castelldefels-pasteleria-resenas-google-dv-114799516\" >\"Increíble\": la pastelería de Castelldefels con mejores reseñas en Google</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere una persona tras ser arrollada por un tren en Talavera de la Reina, Toledo",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/muere-persona-arrollada-tren-talavera-toledo/133199759.shtml",
+    "pubDate": "2026-08-08 17:20:56",
+    "category": "",
+    "description": "Tras el siniestro, la circulación de dicho tren, que transporta a 225 personas ha quedado cortada",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Радбез ООН обговорить поводження з полоненими в РФ",
     "link": "https://ua.korrespondent.net/world/4901179-radbez-oon-obhovoryt-povodzhennia-z-polonenymy-v-rf",
     "pubDate": "2026-08-08 17:15:00",
@@ -79,6 +151,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522281.jpg\">Йдеться про аварію нна магістральному водогоні на Дніпропетровщині. Марганець і кілька довколишніх громад кілька днів залишалися без води.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Carmen Lomana anuncia que se va a hacer una operación de estética en la cara: \"Tengo piel como para hacerme un bolso\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260808/carmen-lomana-anuncia-operacion-estetica-cara-blefaroplastia-piel-hacerme-bolso-133193336",
+    "pubDate": "2026-08-08 16:29:05",
+    "category": "",
+    "description": "<h2>Como la socialité no le teme al bisturí, en breve volverá a pasar por el quirófano para mejorar su aspecto físico. </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
   },
   {
     "title": "Así es la nueva norma de la DGT para autocaravanas: cuándo se puede dormir dentro y qué pueden prohibir los ayuntamientos",
