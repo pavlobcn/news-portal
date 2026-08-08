@@ -1,4 +1,4 @@
-# News for 2026-08-08 15:10
+# News for 2026-08-08 15:58
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -29,6 +29,9 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:40 [Sam Neill tendrá un papel póstumo en la adaptación del videojuego 'The Legend of Zelda'](https://www.elperiodico.com/es/ocio-y-cultura/20260808/sam-neill-tendra-papel-postumo-133197724)<br>
+15:40 [Imágenes de los controles aleatorios de pasaporte hoy en los aeropuertos de Madrid Barajas y Barcelona el Prat](https://www.elperiodico.com/es/fotos/sociedad/imagenes-controles-aleatorios-pasaporte-hoy-133198036)<br>
+15:24 [Prisión para el zapatero que degolló a su expareja en el centro comercial de Murcia](https://www.elperiodico.com/es/videos/sucesos/prision-zapatero-degollo-expareja-centro-comercial-murcia/133197828.shtml)<br>
 15:08 [Werner Herzog, primer Premio Donostia del 74 Festival de San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260808/werner-herzog-primer-premio-donostia-133197222)<br>
 14:22 [Los mejores filtros para fotografía el eclipse solar con el móvil y dónde comprarlos](https://www.elperiodico.com/es/ciencia/20260808/eclipse-solar-total-filtros-fotografia-movil-camara-seguros-dv-et-133175343)<br>
 14:10 [Cierran temporalmente las pasarelas de Montfalcó del desfiladero de Mont-rebei por los daños causados por las tormentas](https://www.elperiodico.com/es/sociedad/20260808/cierran-temporalmente-pasarelas-montfalco-desfiladero-congost-de-mont-rebei-133196319)<br>
