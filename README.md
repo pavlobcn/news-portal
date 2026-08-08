@@ -1,8 +1,9 @@
-# News for 2026-08-08 11:55
+# News for 2026-08-08 12:34
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+11:59 [Суд призначив довічне 11 військовим РФ за розстріл людей на Київщині](https://ua.korrespondent.net/ukraine/4901140-sud-pryznachyv-dovichne-11-viiskovym-rf-za-rozstril-luidei-na-kyivschyni)<br>
 09:15 [Росіяни влучили дроном по локомотиву поїзда Суми-Київ](https://ua.korrespondent.net/ukraine/4901119-rosiiany-vluchyly-dronom-po-lokomotyvu-poizda-sumy-kyiv)<br>
 08:49 [Нічна атака на Київ: стало відомо про жертву](https://ua.korrespondent.net/city/kiev/4901116-nichna-ataka-na-kyiv-stalo-vidomo-pro-zhertvu)<br>
 08:27 [Летіла балістика і "шахеди": як спрацювала ППО](https://ua.korrespondent.net/ukraine/4901113-letila-balistyka-i-shakhedy-yak-spratsuivala-ppo)<br>
@@ -19,7 +20,17 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:44 [У ФРН над об'єктом із системами Patriot помітили шість невідомих дронів](https://ua.korrespondent.net/world/4901066-u-frn-nad-obiektom-iz-systemamy-Patriot-pomityly-shist-nevidomykh-droniv)<br>
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
+## as.com
+11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
+
 ## www.elperiodico.com
+12:15 [Los psicólogos coinciden: "Cuando hace mucho calor nos volvemos más irritables"](https://www.elperiodico.com/es/ser-feliz/20260808/calor-violencia-psicologos-delincuencia-dv-133065605)<br>
+12:10 [El agente que se hizo viral al rescatar un perro de un incendio: "Ayudar es un orgullo"](https://www.elperiodico.com/es/sociedad/20260808/agente-guardia-civil-viral-rescatar-perro-incendio-ayudar-orgullo-133193576)<br>
+12:09 [La espectacular cascada de Hukou en China atrae a miles de turistas](https://www.elperiodico.com/es/videos/internacional/espectacular-cascada-hukou-china-atrae-turistas/133193950.shtml)<br>
+12:04 [El agente que se hizo viral al rescatar un perro de un incendio: "Ayudar es un orgullo"](https://www.elperiodico.com/es/videos/sociedad/agente-hizo-viral-rescatar-perro/133193710.shtml)<br>
+12:00 [La histórica tienda El Ingenio revivirá como sede de la Associació de Pessebristes de Barcelona en la Navidad de 2027](https://www.elperiodico.com/es/barcelona/20260808/historica-tienda-ingenio-revivira-sede-associacio-pessebristes-barcelona-133096068)<br>
+12:00 [Japón se adapta al 'kokushobi': neveras para humanos, pantalones cortos y nuevos cultivos frente a las altas temperaturas](https://www.elperiodico.com/es/internacional/20260808/japon-adapta-kokushobi-neveras-humanos-pantalon-corto-nuevos-cultuvos-altas-temperaturas-era-calor-extremo-133142342)<br>
+12:00 [Ulises que va y viene](https://www.elperiodico.com/es/opinion/20260808/ulises-viene-adaptacion-odisea-nolan-133187049)<br>
 11:47 [Un joven de 20 años, herido grave tras una reyerta de madrugada en Madrid](https://www.elperiodico.com/es/sucesos/20260808/joven-20-anos-herido-grave-133193400)<br>
 11:45 [El rincón de Sant Cugat del Vallès que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-cugat/20260808/rincon-sant-cugat-valles-historia-cine-dv-loc-110916622)<br>
 11:43 [Bomberos de Castellón continúan trabajando en el incendio de la Sierra Engarcerán](https://www.elperiodico.com/es/videos/sucesos/bomberos-castellon-continuan-trabajando-incendio/133193286.shtml)<br>
