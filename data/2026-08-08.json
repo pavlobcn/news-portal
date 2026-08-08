@@ -1,5 +1,50 @@
 [
   {
+    "title": "У ДСНС повідомили нові деталі атаки РФ на Київщину",
+    "link": "https://ua.korrespondent.net/ukraine/4901090-u-dsns-povidomyly-novi-detali-ataky-rf-na-kyivschynu",
+    "pubDate": "2026-08-08 05:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521971.jpg\">У Броварському районі загинули троє людей, серед них дитина 2022 року народження. Вогонь повністю знищив двоповерховий будинок та інше майно.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las aulas catalanas contarán con profesionales sanitarios a partir del próximo curso",
+    "link": "https://www.elperiodico.com/es/educacion/20260808/aulas-catalanas-contaran-profesionales-sanitarios-bc-132994008",
+    "pubDate": "2026-08-08 05:30:37",
+    "category": "",
+    "description": "<h2>La Generalitat desplegará enfermeras y técnicos auxiliares en los centros educativos para atender las necesidades de salud del alumnado y avanzar hacia un modelo más inclusivo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп різко відреагував на рішення суду щодо бальної зали",
+    "link": "https://ua.korrespondent.net/world/4901086-tramp-rizko-vidreahuvav-na-rishennia-sudu-schodo-balnoi-zaly",
+    "pubDate": "2026-08-08 05:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521960.jpg\">Глава Білого Дому назвав вердикт \"національною ганьбою\" та заявив про загрозу нацбезпеці.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Захід попередив Росію щодо її нових дій у Грузії",
+    "link": "https://ua.korrespondent.net/world/4901074-zakhid-poperedyv-rosiui-schodo-yii-novykh-dii-u-hruzii",
+    "pubDate": "2026-08-08 04:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521862.jpg\">Західні країни застерегли Москву щодо наслідків можливої анексії окупованої Південної Осетії та закликали Кремль припинити мілітаризацію грузинських територій.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗСУ отримали нове спорядження Бундесверу: що входить до комплекту",
+    "link": "https://ua.korrespondent.net/ukraine/4901084-zsu-otrymaly-nove-sporiadzhennia-bundesveru-scho-vkhodyt-do-komplektu",
+    "pubDate": "2026-08-08 04:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521947.jpg\">Комплект побудований за принципом багатошаровості, який дозволяє комбінувати різні елементи одягу залежно від погодних умов, пори року, фізичного навантаження та характеру бойового завдання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Сизрані палає НПЗ після атаки дронів - соцмережі",
     "link": "https://ua.korrespondent.net/world/russia/4901082-u-syzrani-palaie-npz-pislia-ataky-droniv-sotsmerezhi",
     "pubDate": "2026-08-08 03:44:00",
@@ -14,6 +59,24 @@
     "pubDate": "2026-08-08 03:16:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521894.jpg\">Київ хоче використовувати Starlink для ударів по російських пускових установках, однак Ілон Маск поки не погоджується на це.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Маск проти бажання України бити по пускових РФ через Starlink - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4901080-mask-proty-bazhannia-ukrainy-byty-po-puskovykh-rf-cherez-Starlink-zmi",
+    "pubDate": "2026-08-08 03:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521894.jpg\">Київ хоче використовувати Starlink для ударів по російських пускових установках, однак Ілон Маск поки не погоджується на це.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удруге за ніч: Росія атакувала Київ балістикою",
+    "link": "https://ua.korrespondent.net/kyiv/4901078-udruhe-za-nich-rosiia-atakuvala-kyiv-balistykoui",
+    "pubDate": "2026-08-08 02:41:00",
+    "category": "Київ новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4521905.jpg\">В Оболонському районі загорілися резервуари з паливом, у Голосіївському є загоряння на території нежитлової забудови.",
     "topic": "",
     "topic_match_probability": 0
   },
