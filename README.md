@@ -1,4 +1,4 @@
-# News for 2026-08-08 05:47
+# News for 2026-08-08 06:46
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -16,5 +16,11 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## www.elperiodico.com
+06:35 [Daniel Sancho ataca con dureza a su madre Silvia Bronchalo: "Jamás la maltrató"](https://www.elperiodico.com/es/gente/20260808/daniel-sancho-ataca-madre-silvia-bronchalo-maltrato-dv-et-133178003)<br>
+06:01 [La desinversión en empresas se dispara en España en el primer semestre](https://www.elperiodico.com/es/economia/20260808/desinversion-exit-salida-empresas-dispara-espana-primer-semestre-2026-133165924)<br>
+06:00 [Los hospitales refuerzan las urgencias y las unidades de oftalmología y traumatología en la 'zona cero del eclipse'](https://www.elperiodico.com/es/sanidad/20260808/hospitales-eclipse-refuerzo-servicios-urgencias-oftalmologos-traumatologia-133135833)<br>
+06:00 [José Miguel Viñas, meteorólogo: "La presencia de nubes bajas es lo que más puede limitar la observación del eclipse"](https://www.elperiodico.com/es/sociedad/20260808/eclipse-nubes-entrevista-jose-miguel-vinas-meteorologo-133157072)<br>
+06:00 [Jordi Savall: "Spotify es un desastre para la clásica. Estoy impulsando una nueva plataforma"](https://www.elperiodico.com/es/ocio-y-cultura/20260808/jordi-savall-spotify-desastre-clasica-entrevista-133094775)<br>
+05:59 [Entrevista con Jordi Savall, violagambista y arqueólogo musical](https://www.elperiodico.com/es/videos/ocio-y-cultura/entrevista-jordi-savall-violagambista-arqueologo-musical-video/133163901.shtml)<br>
 05:30 [Las aulas catalanas contarán con profesionales sanitarios a partir del próximo curso](https://www.elperiodico.com/es/educacion/20260808/aulas-catalanas-contaran-profesionales-sanitarios-bc-132994008)<br>
 00:00 [El incendio de Huelva se complica por los cambios de viento: la Junta de Andalucía declara el nivel 2 de emergencia y pide ayuda a la UME](https://www.elperiodico.com/es/sociedad/20260808/incendio-huelva-complica-cambios-viento-133187241)<br>
