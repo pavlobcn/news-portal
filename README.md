@@ -1,4 +1,4 @@
-# News for 2026-08-08 10:20
+# News for 2026-08-08 11:09
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -20,6 +20,14 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## www.elperiodico.com
+11:03 [Protecció Civil mantiene activada la alerta por lluvias intensas esta tarde en el Pirineo y Prepirineo](https://www.elperiodico.com/es/tiempo/20260808/proteccio-civil-mantiene-activada-alerta-lluvias-intensas-pirineo-133192288)<br>
+11:00 [Un juzgado de Barcelona concede una incapacidad a una administrativa con fibromialgia severa](https://www.elperiodico.com/es/sucesos/20260808/juzgado-barcelona-concede-incapacidad-administrativa-fibromialgia-133167437)<br>
+10:56 [Detenido un hombre por encerrar a su mujer y amenazarla con quemar su casa en Málaga](https://www.elperiodico.com/es/sociedad/20260808/detenido-hombre-encerrar-mujer-amenazarla-quemar-casa-malaga-133192533)<br>
+10:48 [Una nube de cenizas del Etna obliga a suspender los vuelos de llegada al aeropuerto de Catania](https://www.elperiodico.com/es/internacional/20260808/nube-cenizas-etna-obliga-suspender-vuelos-llegada-aeropuerto-catania-sicilia-133192208)<br>
+10:45 [La Guardia Civil desplegará 24.000 agentes para garantizar la seguridad durante el eclipse](https://www.elperiodico.com/es/sociedad/20260808/guardia-civil-desplegara-24-000-agentes-seguridad-eclipse-133192340)<br>
+10:44 [Rodalies tiene activos el 86% de los ascensores y el 96% de las escaleras mecánicas en sus estaciones](https://www.elperiodico.com/es/videos/sociedad/rodalies-activos-86-ascensores-96/133192265.shtml)<br>
+10:36 [Intervenidas cinco toneladas de cocaína en un portacontenedores contaminado con destino a Europa](https://www.elperiodico.com/es/sucesos/20260808/intervenidas-cinco-toneladas-cocaina-portacontenedores-destino-europa-133191388)<br>
+10:19 [Dos hombres catalanes, padre e hijo, detenidos en Paraguay acusados del asesinato de dos personas](https://www.elperiodico.com/es/sucesos/20260808/dos-hombres-catalanes-detenidos-paraguay-acusados-133191644)<br>
 10:10 [Irene y Carlos, tres años viviendo en una furgoneta camperizada: "Si quieres dar el paso, la pregunta es qué eres capaz de hacer con un ordenador o con tus manos"](https://www.elperiodico.com/es/sociedad/20260808/irene-carlos-viviendo-furgoneta-camperizada-trabajo-dv-133115990)<br>
 09:55 [La inteligencia artificial avanza un paso más: crea virus que infectan bacterias](https://www.elperiodico.com/es/tendencias21/20260808/inteligencia-artificial-avanza-paso-crea-133164454)<br>
 09:38 [Incendio declarado en la Serra d’en Galceran](https://www.elperiodico.com/es/videos/sociedad/incendio-declarado-serra-d-galceran/133191148.shtml)<br>
