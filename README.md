@@ -1,4 +1,4 @@
-# News for 2026-08-08 07:33
+# News for 2026-08-08 08:24
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -16,6 +16,8 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## www.elperiodico.com
+08:10 [Javi (23 años), el joven que vive en una cabaña aislada tras una infancia difícil en centros de menores: "Desde que he venido aquí he renacido personalmente"](https://www.elperiodico.com/es/sociedad/20260808/javi-23-anos-joven-vive-cabana-aislada-dv-et-133120119)<br>
+08:00 [Ponç Pons, poeta: "Cuidar la salud mental también es una forma de compromiso con el mundo"](https://www.elperiodico.com/es/ser-feliz/20260808/ponc-pons-poeta-cuidar-salud-132332759)<br>
 07:30 [La NASA retransmitirá el eclipse solar desde este pueblo de la España vaciada](https://www.elperiodico.com/es/sociedad/20260808/nasa-retransmitira-eclipse-solar-pueblo-espana-vaciada-villalibado-dv-133176359)<br>
 07:15 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos en Alta Ribagorça, Zamora y Vall d'Uixò](https://www.elperiodico.com/es/sociedad/20260808/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 07:00 [Música y eclipse conectan en el Festival Jordi Savall](https://www.elperiodico.com/es/ocio-y-cultura/20260808/musica-eclipse-conectan-festival-jordi-133067936)<br>
