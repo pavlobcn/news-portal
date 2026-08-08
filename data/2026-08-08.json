@@ -1,5 +1,32 @@
 [
   {
+    "title": "La lucha contra el fuego de Niebla (Huelva) sigue condicionada por los cambios de viento",
+    "link": "https://www.elperiodico.com/es/sociedad/20260808/lucha-fuego-niebla-huelva-sigue-133202456",
+    "pubDate": "2026-08-08 20:10:24",
+    "category": "",
+    "description": "<h2>Las llamas mantienen desalojadas a 70 personas y generan una columna de humo visible desde distintos puntos de Huelva y Sevilla</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Росія стягнула під Москву три кола ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4901197-zelenskyi-rosiia-stiahnula-pid-moskvu-try-kola-ppo",
+    "pubDate": "2026-08-08 19:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522384.jpg\">Президент України наголосив: після того як вони почали бити по нашій логістиці, ми знайшли іншу логістичну операцію і їм відповіли.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Жіночий футбол: Сістерс з Одеси зіграють у Кубку Європи",
+    "link": "https://ua.korrespondent.net/sport/football/4901199-zhinochyi-futbol-sisters-z-odesy-zihrauit-u-kubku-yevropy",
+    "pubDate": "2026-08-08 19:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522394.jpg\">Віце-чемпіонки України у матчі за третє місце у другому раунді жіночої Ліги чемпіонів обіграли швейцарок.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Sergi Roberto da el salto a la MLS con LA Galaxy",
     "link": "https://www.elperiodico.com/es/deportes/20260808/sergi-roberto-da-salto-mls-133201770",
     "pubDate": "2026-08-08 19:24:23",
@@ -601,6 +628,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522245.jpg\">Через атаку згорів рейсовий автобус: загинув водій, його 48-річний колега дістав поранення, повідомили в Днпропетровській ОВА.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Muere el dramaturgo Ángel Alonso, fundador de la Villarroel y director del taquillazo 'La extraña pareja'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260808/muere-dramaturgo-angel-alonso-director-teatre-villarroel-133196815",
+    "pubDate": "2026-08-08 14:34:50",
+    "category": "",
+    "description": "<h2 class=\"item\">Dramaturgo,  realizador de televisión y director de la sala del Eixample durante tres décadas, uno sus grandes hitos fue la adaptación de 'Historias de la puta mili'</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 45
   },
   {
     "title": "Зеленськй розповів про розмову з Вучичем",
