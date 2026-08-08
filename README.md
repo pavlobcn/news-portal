@@ -1,8 +1,9 @@
-# News for 2026-08-08 17:53
+# News for 2026-08-08 18:26
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+18:05 [Тайфун Дельфін накрив Японію, є постраждалі](https://ua.korrespondent.net/world/4901184-taifun-delfin-nakryv-yaponiui-ye-postrazhdali)<br>
 16:30 [Марганець: прем'єр повідомив про кадрові рішення після аварії на водогоні](https://ua.korrespondent.net/ukraine/4901173-marhanets-premier-povidomyv-pro-kadrovi-rishennia-pislia-avarii-na-vodohoni)<br>
 15:15 [У Болгарії невідомий БПЛА вибухнув поблизу газопроводу](https://ua.korrespondent.net/world/4901167-u-bolharii-nevidomyi-bpla-vybukhnuv-poblyzu-hazoprovodu)<br>
 14:50 [Росіяни атакували рейсовий автобус у Нікополі: загинув водій](https://ua.korrespondent.net/ukraine/4901165-rosiiany-atakuvaly-reisovyi-avtobus-u-nikopoli-zahynuv-vodii)<br>
@@ -32,6 +33,10 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:05 [El cáncer que padece Biden es "muy doloroso" y "muy debilitante", revela su hijo](https://www.elperiodico.com/es/politica/20260808/cancer-padece-biden-doloroso-debilitante-133200423)<br>
+18:04 [Circulación interrumpida en la línea R3 de Rodalies entre Planoles y La Molina por la avería de un tren en la parada de Toses](https://www.elperiodico.com/es/sociedad/20260808/circulacion-interrumpida-linea-r3-rodalies-133200255)<br>
+18:00 [De Alemania a los bálticos: cómo afrontar una crisis migratoria o una guerra híbrida](https://www.elperiodico.com/es/internacional/20260808/polonia-alemania-balticos-finlandia-como-afrontar-crisis-migratoria-guerra-hibrida-133200300)<br>
+18:00 [Salvador Macip, experto en longevidad: "No recomendaría a nadie hacer ayuno intermitente, pero yo lo hago"](https://www.elperiodico.com/es/salud/20260808/salvador-macip-experto-longevidad-no-recomendaria-ayuno-intermitente-dv-et-133144213)<br>
 17:36 [Polémica en el Fringe de Edimburgo por un monólogo cómico de Amanda Knox, condenada y absuelta en Italia por el asesinato de su compañera de piso](https://www.elperiodico.com/es/ocio-y-cultura/20260808/amanda-knox-monologo-comico-fringe-cartwheel-133198314)<br>
 17:34 [La quinta patera del día llega a Baleares rescatando a 29 migrantes y eleva a 84 los llegados este sábado](https://www.elperiodico.com/es/sociedad/20260808/quinta-patera-dia-llega-baleares-133199949)<br>
 17:20 [Muere una persona tras ser arrollada por un tren en Talavera de la Reina, Toledo](https://www.elperiodico.com/es/videos/sucesos/muere-persona-arrollada-tren-talavera-toledo/133199759.shtml)<br>
