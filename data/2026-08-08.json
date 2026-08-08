@@ -1,5 +1,14 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 9 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260808/portada-periodico-9-agosto-2026-133205266",
+    "pubDate": "2026-08-08 23:57:02",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
     "title": "РФ скинула на Ізюм КАБи: семеро поранених",
     "link": "https://ua.korrespondent.net/ukraine/4901224-rf-skynula-na-izuim-kaby-semero-poranenykh",
     "pubDate": "2026-08-08 23:48:00",
@@ -14,6 +23,15 @@
     "pubDate": "2026-08-08 23:31:36",
     "category": "",
     "description": "<h2>Raphinha marcó un penalti en el último minuto a los ingleses (1-0), pero un contraataque condenó a los azulgranas ante el anfitrión, campeón del torneo (0-1)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "УПЛ: Лівий Берег та Кудрівка зіграли внічию",
+    "link": "https://ua.korrespondent.net/sport/football/4901222-upl-livyi-bereh-ta-kudrivka-zihraly-vnichyui",
+    "pubDate": "2026-08-08 23:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522512.jpg\">Матч другого туру Чемпіонату України через повітряну тривогу двічі відкладався. Команди так і не змогли забити жодного голу.",
     "topic": "спорт",
     "topic_match_probability": 100
   },
@@ -61,6 +79,15 @@
     "description": "España se impone a Serbia en las semifinales y disputará ante Francia la gran final del Eurobasket Sub-18. El sueño del oro es tangible, palpable: real.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "УПЛ: Буковина та Оболонь розійшлися нічиєю",
+    "link": "https://ua.korrespondent.net/sport/football/4901215-upl-bukovyna-ta-obolon-roziishlysia-nichyieui",
+    "pubDate": "2026-08-08 22:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522482.jpg\">Буковина та Оболонь зустрілися у рамках другого туру УПЛ. Господарі, хоч як намагалися, так і не змогли відкрити рахунок.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Зеленський: Путін планує приховану мобілізацію",
