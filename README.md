@@ -1,8 +1,9 @@
-# News for 2026-08-08 21:25
+# News for 2026-08-08 22:07
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+21:59 [З початку доби відбулося 142 боєзіткнення](https://ua.korrespondent.net/ukraine/4901208-z-pochatku-doby-vidbulosia-142-boiezitknennia)<br>
 21:10 [На Київщині горів притулок для тварин](https://ua.korrespondent.net/ukraine/4901206-na-kyivschyni-horiv-prytulok-dlia-tvaryn)<br>
 20:45 [На Сумщині росіяни атакували пасажирський поїзд](https://ua.korrespondent.net/ukraine/4901204-na-sumschyni-rosiiany-atakuvaly-pasazhyrskyi-poizd)<br>
 20:20 [Росіяни вдарили по Павлограду: двоє поранених](https://ua.korrespondent.net/ukraine/4901202-rosiiany-vdaryly-po-pavlohradu-dvoie-poranenykh)<br>
@@ -35,10 +36,12 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## as.com
+21:25 [España saca músculo](https://as.com/baloncesto/mas_baloncesto/espana-saca-musculo-f202608-n/)<br>
 15:53 [Tony Parker se lía solo](https://as.com/baloncesto/euroliga/tony-parker-se-lia-solo-f202608-n/)<br>
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:29 [Muere ahogado un bañista de 61 años en L'Estartit, el decimoséptimo del verano en Catalunya](https://www.elperiodico.com/es/sociedad/20260808/muere-ahogado-banista-61-anos-133203693)<br>
 21:00 [El gesto que muchos hacen con la alfombra de casa y que puede acabar con una multa de 3.000 euros](https://www.elperiodico.com/es/vida-y-estilo/20260808/gesto-alfombra-casa-multa-3000-euros-convivencia-dv-et-133192400)<br>
 20:10 [La lucha contra el fuego de Niebla (Huelva) sigue condicionada por los cambios de viento](https://www.elperiodico.com/es/sociedad/20260808/lucha-fuego-niebla-huelva-sigue-133202456)<br>
 19:17 [Cuatro incendios ponen en alerta a Castellón, con 200 efectivos y 17 medios aéreos desplegados](https://www.elperiodico.com/es/sociedad/20260808/cuatro-incendios-ponen-alerta-castellon-133201835)<br>
