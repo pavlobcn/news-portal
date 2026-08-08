@@ -1,8 +1,9 @@
-# News for 2026-08-08 23:20
+# News for 2026-08-08 23:56
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
 ## ua.korrespondent.net
+23:48 [РФ скинула на Ізюм КАБи: семеро поранених](https://ua.korrespondent.net/ukraine/4901224-rf-skynula-na-izuim-kaby-semero-poranenykh)<br>
 21:59 [З початку доби відбулося 142 боєзіткнення](https://ua.korrespondent.net/ukraine/4901208-z-pochatku-doby-vidbulosia-142-boiezitknennia)<br>
 21:10 [На Київщині горів притулок для тварин](https://ua.korrespondent.net/ukraine/4901206-na-kyivschyni-horiv-prytulok-dlia-tvaryn)<br>
 20:45 [На Сумщині росіяни атакували пасажирський поїзд](https://ua.korrespondent.net/ukraine/4901204-na-sumschyni-rosiiany-atakuvaly-pasazhyrskyi-poizd)<br>
