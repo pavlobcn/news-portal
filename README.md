@@ -1,4 +1,4 @@
-# News for 2026-08-08 19:05
+# News for 2026-08-08 19:45
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -35,6 +35,8 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 11:39 [El nuevo Estrella Roja de Ibon Navarro](https://as.com/baloncesto/euroliga/el-nuevo-estrella-roja-de-ibon-navarro-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:17 [Cuatro incendios ponen en alerta a Castellón, con 200 efectivos y 17 medios aéreos desplegados](https://www.elperiodico.com/es/sociedad/20260808/cuatro-incendios-ponen-alerta-castellon-133201835)<br>
+19:14 [La sequía del Danubio deja al descubierto restos de un mamut y los cimientos del puente más largo que los romanos proyectaron sobre el río](https://www.elperiodico.com/es/sociedad/20260808/sequia-danubio-bulgaria-puente-romano-mamut-133201092)<br>
 18:05 [El cáncer que padece Biden es "muy doloroso" y "muy debilitante", revela su hijo](https://www.elperiodico.com/es/politica/20260808/cancer-padece-biden-doloroso-debilitante-133200423)<br>
 18:04 [Circulación interrumpida en la línea R3 de Rodalies entre Planoles y La Molina por la avería de un tren en la parada de Toses](https://www.elperiodico.com/es/sociedad/20260808/circulacion-interrumpida-linea-r3-rodalies-133200255)<br>
 18:00 [De Alemania a los bálticos: cómo afrontar una crisis migratoria o una guerra híbrida](https://www.elperiodico.com/es/internacional/20260808/polonia-alemania-balticos-finlandia-como-afrontar-crisis-migratoria-guerra-hibrida-133200300)<br>
