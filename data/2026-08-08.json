@@ -1,5 +1,77 @@
 [
   {
+    "title": "Pablo Ojeda, nutricionista: \"El 90% de los españoles no saben tomar café\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260808/pablo-ojeda-nutricionista-90-espanoles-no-saben-tomar-cafe-dv-133119622",
+    "pubDate": "2026-08-08 18:25:46",
+    "category": "",
+    "description": "<h2>El experto recomienda tomar el café una media hora o unos 45 minutos después de haberse levantado</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260525/tim-spector-medico-microbiota-cafe-microbioma-intestinal-dv-127912126\">Tim Spector, médico y experto en microbiota intestinal: \"El café de la mañana puede ayudar a tu salud intestinal y al bienestar general\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Martín refuerza su liderato en MotoGP encabezando el triplete de Aprilia",
+    "link": "https://www.elperiodico.com/es/deportes/20260808/martin-refuerza-liderato-motogp-encabezando-133199838",
+    "pubDate": "2026-08-08 18:06:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El madrileño Jorge Martín (Aprilia), que al mediodía logró la 'pole position' del Gran Premio de Inglaterra rompiendo el récord de la vuelta rápida, ha logrado un triunfo arrollador en la carrera al 'sprint', de principio a fin. Marc Márquez (Ducati) acabó noveno por culpa de un neumático trasero que ha terminado destrozado.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "El cáncer que padece Biden es \"muy doloroso\" y \"muy debilitante\", revela su hijo",
+    "link": "https://www.elperiodico.com/es/politica/20260808/cancer-padece-biden-doloroso-debilitante-133200423",
+    "pubDate": "2026-08-08 18:05:11",
+    "category": "",
+    "description": "<h2>Hunter Biden explicó en una entrevista que la enfermedad \"se ha extendido, ha hecho metástasis en sus huesos y en otras partes\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тайфун Дельфін накрив Японію, є постраждалі",
+    "link": "https://ua.korrespondent.net/world/4901184-taifun-delfin-nakryv-yaponiui-ye-postrazhdali",
+    "pubDate": "2026-08-08 18:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522333.jpg\">Очікується, що в неділю ввечері або в понеділок тайфун досягне узбережжя Китаю. Там Дельфіну оголосили помаранчевий рівень небезпеки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Circulación interrumpida en la línea R3 de Rodalies entre Planoles y La Molina por la avería de un tren en la parada de Toses",
+    "link": "https://www.elperiodico.com/es/sociedad/20260808/circulacion-interrumpida-linea-r3-rodalies-133200255",
+    "pubDate": "2026-08-08 18:04:26",
+    "category": "",
+    "description": "<h2>De momento, no hay previsión de restablecimiento del servicio y Renfe ha establecido un servicio alternativo por carretera</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Alemania a los bálticos: cómo afrontar una crisis migratoria o una guerra híbrida",
+    "link": "https://www.elperiodico.com/es/internacional/20260808/polonia-alemania-balticos-finlandia-como-afrontar-crisis-migratoria-guerra-hibrida-133200300",
+    "pubDate": "2026-08-08 18:00:56",
+    "category": "",
+    "description": "<h2>La acogida de un millón de refugiados puso contra las cuerdas a Merkel y precedió a las restricciones al asilo dominantes ahora en Europa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salvador Macip, experto en longevidad: \"No recomendaría a nadie hacer ayuno intermitente, pero yo lo hago\"",
+    "link": "https://www.elperiodico.com/es/salud/20260808/salvador-macip-experto-longevidad-no-recomendaria-ayuno-intermitente-dv-et-133144213",
+    "pubDate": "2026-08-08 18:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">El catedrático define cuál es el objetivo de la longevidad más allá de aumentar la esperanza de vida</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20251120/doctor-tinahones-experto-obesidad-ayuno-intermitente-eficaz-ingestas-dia-123938433\">Doctor Tinahones, experto en obesidad: \"El ayuno intermitente puede ser más eficaz que las 3-4 ingestas repartidas durante el día\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЖФК Харків пробився до жіночого Кубка Європи",
+    "link": "https://ua.korrespondent.net/sport/football/4901186-zhfk-kharkiv-probyvsia-do-zhinochoho-kubka-yevropy",
+    "pubDate": "2026-08-08 17:52:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4522334.jpg\">На стадіоні у бельгійському Левені харків'янки в овертаймі здолали сербських суперниць і далі зіграють у Кубку Європи.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Соціологи з'ясували головні мотиви гравців онлайн-казино в Україні",
     "link": "https://ua.korrespondent.net/business/4901183-sotsiolohy-ziasuvaly-holovni-motyvy-hravtsiv-onlain-kazyno-v-ukraini",
     "pubDate": "2026-08-08 17:48:00",
