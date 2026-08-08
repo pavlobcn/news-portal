@@ -1,4 +1,4 @@
-# News for 2026-08-08 11:09
+# News for 2026-08-08 11:55
 
 Previous day: [2026-08-07](./data/2026-08-07.md)
 
@@ -20,6 +20,11 @@ Previous day: [2026-08-07](./data/2026-08-07.md)
 00:15 [У Києві та Дніпрі прогриміли вибухи - ЗМІ](https://ua.korrespondent.net/ukraine/4901069-u-kyievi-ta-dnipri-prohrymily-vybukhy-zmi)<br>
 
 ## www.elperiodico.com
+11:47 [Un joven de 20 años, herido grave tras una reyerta de madrugada en Madrid](https://www.elperiodico.com/es/sucesos/20260808/joven-20-anos-herido-grave-133193400)<br>
+11:45 [El rincón de Sant Cugat del Vallès que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-cugat/20260808/rincon-sant-cugat-valles-historia-cine-dv-loc-110916622)<br>
+11:43 [Bomberos de Castellón continúan trabajando en el incendio de la Sierra Engarcerán](https://www.elperiodico.com/es/videos/sucesos/bomberos-castellon-continuan-trabajando-incendio/133193286.shtml)<br>
+11:36 [El incendio forestal en Huelva visto desde el cielo](https://www.elperiodico.com/es/videos/sociedad/incendio-forestal-huelva-visto-cielo/133193162.shtml)<br>
+11:09 [El incendio que dejó 168 muertos en Hong Kong comenzó por una colilla, según la investigación](https://www.elperiodico.com/es/internacional/20260808/incendio-edificios-residenciales-hong-kong-colilla-133192661)<br>
 11:03 [Protecció Civil mantiene activada la alerta por lluvias intensas esta tarde en el Pirineo y Prepirineo](https://www.elperiodico.com/es/tiempo/20260808/proteccio-civil-mantiene-activada-alerta-lluvias-intensas-pirineo-133192288)<br>
 11:00 [Un juzgado de Barcelona concede una incapacidad a una administrativa con fibromialgia severa](https://www.elperiodico.com/es/sucesos/20260808/juzgado-barcelona-concede-incapacidad-administrativa-fibromialgia-133167437)<br>
 10:56 [Detenido un hombre por encerrar a su mujer y amenazarla con quemar su casa en Málaga](https://www.elperiodico.com/es/sociedad/20260808/detenido-hombre-encerrar-mujer-amenazarla-quemar-casa-malaga-133192533)<br>
