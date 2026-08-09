@@ -1,8 +1,9 @@
-# News for 2026-08-09 19:08
+# News for 2026-08-09 19:47
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+19:33 [У Франції заарештували понад 400 людей за підозрою у підпалах лісів](https://ua.korrespondent.net/world/4901351-u-frantsii-zaareshtuvaly-ponad-400-luidei-za-pidozroui-u-pidpalakh-lisiv)<br>
 18:52 [Армія Росії просунулась на Донеччині - DeepState](https://ua.korrespondent.net/ukraine/4901345-armiia-rosii-prosunulas-na-donechchyni-DeepState)<br>
 17:24 [Росія знищила склад ВООЗ у Дніпрі](https://ua.korrespondent.net/ukraine/4901334-rosiia-znyschyla-sklad-vooz-u-dnipri)<br>
 16:20 [Росіяни повторно вдарили по Одещині і пошкодили автобус з дітьми](https://ua.korrespondent.net/city/odessa/4901323-rosiiany-povtorno-vdaryly-po-odeschyni-i-poshkodyly-avtobus-z-ditmy)<br>
@@ -27,7 +28,11 @@ Previous day: [2026-08-08](./data/2026-08-08.md)
 02:00 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 00:21 [ЗАЕС двічі за день втрачала зовнішнє живлення](https://ua.korrespondent.net/ukraine/4901220-zaes-dvichi-za-den-vtrachala-zovnishnie-zhyvlennia)<br>
 
+## as.com
+19:20 [Francia - España, en directo: final del Europeo Sub-18 femenino en vivo hoy](https://as.com/baloncesto/mas_baloncesto/francia-espana-en-directo-final-del-europeo-sub-18-femenino-en-vivo-hoy-f202608-n/)<br>
+
 ## www.elperiodico.com
+19:25 [Andrea Herranz (26 años), maestra española en Finlandia: "Puedes ser profesora sin oposiciones y con contrato indefinido desde el primer día"](https://www.elperiodico.com/es/educacion/20260809/finlandia-busca-profesores-educacion-infantil-sin-oposiciones-contrato-indefinido-andrea-espanola-dv-et-132487700)<br>
 19:03 [El este de China se encuentra en alerta máxima ante la llegada del tifón Dolphin](https://www.elperiodico.com/es/videos/internacional/china-encuentra-alerta-maxima-llegada/133219093.shtml)<br>
 18:00 [Eva Villaver, astrofísica: "Algún día, la Tierra dejará de ver eclipses porque la Luna se habrá alejado demasiado"](https://www.elperiodico.com/es/sociedad/20260809/eva-villaver-astrofisica-eclipse-luna-aleja-tierra-133158650)<br>
 17:48 [Cuba prevé un domingo de largos apagones que dejarán sin corriente hasta un 70% del país](https://www.elperiodico.com/es/internacional/20260809/cuba-preve-domingo-largos-apagones-133217943)<br>
