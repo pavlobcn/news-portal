@@ -1,5 +1,140 @@
 [
   {
+    "title": "Сирія та Росія домовилися щодо майбутнього російських військових баз",
+    "link": "https://ua.korrespondent.net/world/4901381-syriia-ta-rosiia-domovylysia-schodo-maibutnoho-rosiiskykh-viiskovykh-baz",
+    "pubDate": "2026-08-09 23:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523542.jpg\">Аеропорт Хмеймім та причал у порту Тартус перейдуть під управління держави, а на базах створять спільні навчальні центри.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Україні не вистачає грошей на армію",
+    "link": "https://ua.korrespondent.net/ukraine/4901379-ukraini-ne-vystachaie-hroshei-na-armiui",
+    "pubDate": "2026-08-09 23:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523530.jpg\">Уряд працюватиме над пошуком додаткового ресурсу, зокрема із залученням допомоги міжнародних партнерів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 10 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260809/portada-periodico-10-agosto-2026-133222212",
+    "pubDate": "2026-08-09 23:22:12",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El incendio de Niebla supera las 8.000 hectáreas y amenaza poblaciones de Huelva: \"Es imprevisible, peligroso y complejo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260809/lucha-incendio-niebla-centra-proteger-133222281",
+    "pubDate": "2026-08-09 23:20:41",
+    "category": "",
+    "description": "<h2>Este domingo permanecen alejadas de sus viviendas un total de 474 personas de núcleos cercanos al fuego</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Madrid y Barcelona concentran una de cada tres viviendas en alquiler en España",
+    "link": "https://www.elperiodico.com/es/economia/20260809/madrid-barcelona-concentran-tres-viviendas-133136721",
+    "pubDate": "2026-08-09 23:12:11",
+    "category": "",
+    "description": "<h2>Un estudio europeo señala que solo el 16,1% de las viviendas principales españolas están en alquiler, con una mínima rotación anual.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Madrid y Barcelona concentran una de cada tres viviendas en alquiler en España",
+    "link": "https://www.elperiodico.com/es/economia/20260809/madrid-barcelona-viviendas-alquiler-133136721",
+    "pubDate": "2026-08-09 23:12:11",
+    "category": "",
+    "description": "<h2>Un estudio europeo señala que solo el 16,1% de las viviendas principales españolas están en alquiler, con una mínima rotación anual.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nueve de cada diez viviendas que se ponen el alquiler encuentran inquilino en menos de tres meses",
+    "link": "https://www.elperiodico.com/es/economia/20260809/programado-nueve-diez-viviendas-ponen-133136821",
+    "pubDate": "2026-08-09 23:11:30",
+    "category": "",
+    "description": "<h2>Alicante, Barcelona, Bilbao, Madrid, Málaga, Murcia, Sevilla, Valencia y Zaragoza rozan el límite de absorción del alquiler, con entre el 81% y el 93% de la oferta arrendada en tres meses.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El alquiler pierde fuerza: caen los precios un 4,1% en Barcelona y se estancan en Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20260809/alquiler-pierde-fuerza-caen-precios-133136486",
+    "pubDate": "2026-08-09 23:10:52",
+    "category": "",
+    "description": "<h2>Los arrendamientos retroceden respecto al trimestre anterior en las dos capitales, mientras el precio de compraventa mantiene subidas de dos dígitos y reduce la rentabilidad de la vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El alquiler pierde fuerza: caen los precios un 4,1% en Barcelona y se estancan en Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20260809/vivienda-alquiler-caidas-gloval-133136486",
+    "pubDate": "2026-08-09 23:10:52",
+    "category": "",
+    "description": "<h2>Los arrendamientos retroceden respecto al trimestre anterior en las dos capitales, mientras el precio de compraventa mantiene subidas de dos dígitos y reduce la rentabilidad de la vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Festival de Peralada cierra con 11 'sold out' y ganas de recuperar su escenario al aire libre. \"Cuanto antes, mejor\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260809/festival-peralada-cierra-11-sold-133117857",
+    "pubDate": "2026-08-09 23:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El director de la cita ampurdanesa, Oriol Aguilà, celebra que grandes cantantes como Sara Blanch y Michael Spyres, que actuaron el sábado, continúen en el podio internacional y que quieran estar en el festival</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260808/jordi-savall-spotify-desastre-clasica-entrevista-133094775\">Jordi Savall: \"Spotify es un desastre para la clásica. Estoy impulsando una nueva plataforma\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сибіга розкритикував заяву ЮНІСЕФ про жертв війни серед дітей",
+    "link": "https://ua.korrespondent.net/ukraine/4901376-sybiha-rozkrytykuvav-zaiavu-yunisef-pro-zhertv-viiny-sered-ditei",
+    "pubDate": "2026-08-09 22:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523507.jpg\">Очільник МЗС засудив \"хибне враження рівнозначності між агресором і жертвою\", а також неправильно подані дані.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Crónica de una medalla de oro anunciada... y merecida",
+    "link": "https://as.com/baloncesto/mas_baloncesto/cronica-de-una-medalla-de-oro-anunciada-y-merecida-f202608-n/",
+    "pubDate": "2026-08-09 22:50:01",
+    "category": "Baloncesto",
+    "description": "La Selección Sub-18 doblega a Francia por 46-82 en Estocolmo para conquistar el Eurobasket y coronar un verano histórico.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos incendios simultáneos en Segovia obligan a desalojar las localidades de Los Ángeles de San Rafael y Vegas de Matute",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/incendios-simultaneos-segovia-obligan-desalojar/133221829.shtml",
+    "pubDate": "2026-08-09 22:34:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шелестюк поділився емоціями після завоювання пояса WBO International",
+    "link": "https://ua.korrespondent.net/sport/boks/4901371-shelestuik-podilyvsia-emotsiiamy-pislia-zavouivannia-poiasa-WBO-International",
+    "pubDate": "2026-08-09 22:25:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523490.jpg\">Після успішного поєдинку український боксер відверто розповів про емоції та ключові моменти зустрічі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "По Польщі прокотилася хвиля мітингів проти українофобії",
+    "link": "https://ua.korrespondent.net/world/4901373-po-polschi-prokotylasia-khvylia-mitynhiv-proty-ukrainofobii",
+    "pubDate": "2026-08-09 22:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523494.jpg\">Демонстрації відбулися у десятках польських міст. Вони пройшли під гаслом \"Не будь байдужим\".",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Генштаб ЗСУ назвав найгарячіший напрямок фронту",
     "link": "https://ua.korrespondent.net/ukraine/4901368-henshtab-zsu-nazvav-naihariachishyi-napriamok-frontu",
     "pubDate": "2026-08-09 21:55:00",
@@ -18,6 +153,15 @@
     "topic_match_probability": 75
   },
   {
+    "title": "П'ятиразовий чемпіон НБА та член Залу слави пішов із життя",
+    "link": "https://ua.korrespondent.net/sport/basketball/4901367-piatyrazovyi-chempion-nba-ta-chlen-zalu-slavy-pishov-iz-zhyttia",
+    "pubDate": "2026-08-09 21:40:00",
+    "category": "Новини баскетболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523465.jpg\">У віці 86 років пішов з життя Дон Нельсон - п’ятиразовий володар персня НБА та член Зали слави.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Lionel Messi y su familia despiden a su padre Jorge en un cementerio privado de Rosario",
     "link": "https://www.elperiodico.com/es/deportes/20260809/lionel-messi-familia-despiden-padre-133221207",
     "pubDate": "2026-08-09 21:33:31",
@@ -34,6 +178,15 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 70
+  },
+  {
+    "title": "На Одещині зросла кількість постраждалих від ударів РФ",
+    "link": "https://ua.korrespondent.net/city/odessa/4901365-na-odeschyni-zrosla-kilkist-postrazhdalykh-vid-udariv-rf",
+    "pubDate": "2026-08-09 21:26:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523437.jpg\">Наразі шестеро  постраждалих  перебувають на  стаціонарному  лікуванні, один  у важкому стані.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Marc Guirado, inversor inmobiliario: \"Este es el sueldo que necesitas en Barcelona o Madrid para vivir sin ir ahogado\"",
