@@ -1,5 +1,32 @@
 [
   {
+    "title": "Сирія та Росія домовилися щодо майбутнього російських військових баз",
+    "link": "https://ua.korrespondent.net/world/4901381-syriia-ta-rosiia-domovylysia-schodo-maibutnoho-rosiiskykh-viiskovykh-baz",
+    "pubDate": "2026-08-09 23:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523542.jpg\">Аеропорт Хмеймім та причал у порту Тартус перейдуть під управління держави, а на базах створять спільні навчальні центри.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Україні не вистачає грошей на армію",
+    "link": "https://ua.korrespondent.net/ukraine/4901379-ukraini-ne-vystachaie-hroshei-na-armiui",
+    "pubDate": "2026-08-09 23:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523530.jpg\">Уряд працюватиме над пошуком додаткового ресурсу, зокрема із залученням допомоги міжнародних партнерів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 10 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260809/portada-periodico-10-agosto-2026-133222212",
+    "pubDate": "2026-08-09 23:22:12",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El incendio de Niebla supera las 8.000 hectáreas y amenaza poblaciones de Huelva: \"Es imprevisible, peligroso y complejo\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260809/lucha-incendio-niebla-centra-proteger-133222281",
     "pubDate": "2026-08-09 23:20:41",
@@ -18,6 +45,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Madrid y Barcelona concentran una de cada tres viviendas en alquiler en España",
+    "link": "https://www.elperiodico.com/es/economia/20260809/madrid-barcelona-viviendas-alquiler-133136721",
+    "pubDate": "2026-08-09 23:12:11",
+    "category": "",
+    "description": "<h2>Un estudio europeo señala que solo el 16,1% de las viviendas principales españolas están en alquiler, con una mínima rotación anual.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Nueve de cada diez viviendas que se ponen el alquiler encuentran inquilino en menos de tres meses",
     "link": "https://www.elperiodico.com/es/economia/20260809/programado-nueve-diez-viviendas-ponen-133136821",
     "pubDate": "2026-08-09 23:11:30",
@@ -29,6 +65,15 @@
   {
     "title": "El alquiler pierde fuerza: caen los precios un 4,1% en Barcelona y se estancan en Madrid",
     "link": "https://www.elperiodico.com/es/economia/20260809/alquiler-pierde-fuerza-caen-precios-133136486",
+    "pubDate": "2026-08-09 23:10:52",
+    "category": "",
+    "description": "<h2>Los arrendamientos retroceden respecto al trimestre anterior en las dos capitales, mientras el precio de compraventa mantiene subidas de dos dígitos y reduce la rentabilidad de la vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El alquiler pierde fuerza: caen los precios un 4,1% en Barcelona y se estancan en Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20260809/vivienda-alquiler-caidas-gloval-133136486",
     "pubDate": "2026-08-09 23:10:52",
     "category": "",
     "description": "<h2>Los arrendamientos retroceden respecto al trimestre anterior en las dos capitales, mientras el precio de compraventa mantiene subidas de dos dígitos y reduce la rentabilidad de la vivienda</h2>",
