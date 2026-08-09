@@ -1,4 +1,4 @@
-# News for 2026-08-09 09:16
+# News for 2026-08-09 10:05
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
@@ -14,6 +14,13 @@ Previous day: [2026-08-08](./data/2026-08-08.md)
 00:21 [ЗАЕС двічі за день втрачала зовнішнє живлення](https://ua.korrespondent.net/ukraine/4901220-zaes-dvichi-za-den-vtrachala-zovnishnie-zhyvlennia)<br>
 
 ## www.elperiodico.com
+10:03 [Un testigo del crimen de Barriomar (Murcia): "Lo apalearon con una barra y, tras matarlo, huyeron siete en un coche"](https://www.elperiodico.com/es/sucesos/20260809/testigo-crimen-barriomar-murcia-apalearon-133209375)<br>
+10:02 [Cuatro personas mueren tras estrellarse un helicóptero en área boscosa de Río de Janeiro](https://www.elperiodico.com/es/internacional/20260809/cuatro-muertos-helicoptero-rio-janeiro-133209290)<br>
+10:00 [Juan Cruz Cigudosa, jefe de la ‘comisión eclipse’: “Me aterra que las transmisiones desde el móvil saturen las comunicaciones si hay una emergencia”](https://www.elperiodico.com/es/sociedad/20260809/juan-cruz-cigudosa-eclipse-aterra-retransmisiones-movil-saturar-comunicaciones-emergencia-133155847)<br>
+10:00 [Por qué España no veía un eclipse total como el del 12 de agosto desde hace más de un siglo](https://www.elperiodico.com/es/sociedad/20260809/espana-veia-eclipse-total-12-mas-de-un-siglo-dv-et-133170807)<br>
+10:00 [Un fisioterapeuta explica por qué no hay que usar chanclas en verano: "El pie no está preparado y los músculos se irritan"](https://www.elperiodico.com/es/vida-y-estilo/20260809/fisioterapeuta-explica-uso-chanclas-verano-perjudicial-dv-et-133173830)<br>
+10:00 [Reabierta la C-13 en Llavorsí y la Guingueta d'Àneu (Lleida) tras las inundaciones](https://www.elperiodico.com/es/trafico-y-transportes/20260809/reabierta-c-13-llavorsi-guingueta-lleida-inundaciones-133209071)<br>
+09:43 [La banca española defiende su actuación y la competencia en el mercado hipotecario](https://www.elperiodico.com/es/economia/20260809/banca-espanola-defiende-actuacion-hipotecas-133208800)<br>
 09:14 [Roberto Mariño, gallego que vive solo en un barco de 14 metros: "Es mucho más peligroso vivir en tierra que en el mar"](https://www.elperiodico.com/es/sociedad/20260809/roberto-marino-gallego-vive-barco-14-metros-dv-et-133136616)<br>
 09:00 [Todos los ojos en el eclipse](https://www.elperiodico.com/es/opinion/20260809/ojos-eclipse-133200042)<br>
 09:00 [La IA que enamora](https://www.elperiodico.com/es/opinion/20260809/ia-enamora-amenaza-salud-mental-133187563)<br>
