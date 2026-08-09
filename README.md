@@ -1,8 +1,10 @@
-# News for 2026-08-09 15:13
+# News for 2026-08-09 16:02
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+15:38 [На Закарпатті мотоцикліст загинув після зіткнення з коровою](https://ua.korrespondent.net/ukraine/4901318-na-zakarpatti-mototsyklist-zahynuv-pislia-zitknennia-z-korovoui)<br>
+15:17 [РФ вдарила по німецькому підприємству на Житомирщині: роботу зупинили](https://ua.korrespondent.net/ukraine/4901314-rf-vdaryla-po-nimetskomu-pidpryiemstvu-na-zhytomyrschyni-robotu-zupynyly)<br>
 14:51 [У Молдові пролунав потужний вибух](https://ua.korrespondent.net/world/4901312-u-moldovi-prolunav-potuzhnyi-vybukh)<br>
 14:30 [Херсонщина розширила зону обов'язкової евакуації](https://ua.korrespondent.net/ukraine/4901310-khersonschyna-rozshyryla-zonu-oboviazkovoi-evakuatsii)<br>
 14:12 [У Харкові уточнили дані про жертв атаки РФ](https://ua.korrespondent.net/city/kharkov/4901307-u-kharkovi-utochnyly-dani-pro-zhertv-ataky-rf)<br>
@@ -23,6 +25,15 @@ Previous day: [2026-08-08](./data/2026-08-08.md)
 00:21 [ЗАЕС двічі за день втрачала зовнішнє живлення](https://ua.korrespondent.net/ukraine/4901220-zaes-dvichi-za-den-vtrachala-zovnishnie-zhyvlennia)<br>
 
 ## www.elperiodico.com
+16:00 [Catalunya alcanza los objetivos europeos y supera el 76% de recogida separada de envases](https://www.elperiodico.com/es/sociedad/20260809/cataluna-objetivos-europeos-reciclaje-envases-133154763)<br>
+16:00 [La metamorfosis de las centrales de Telefónica en Barcelona: apartamentos de lujo, pisos sociales, oficinas y equipamientos pedientes](https://www.elperiodico.com/es/barcelona/20260809/barcelona-edificios-telefonica-obras-viviendas-oficinas-equipamientos-133184827)<br>
+16:00 [Las empresas afrontan dificultades para cumplir la norma que le obliga a reducir el contenido de plástico de los envases](https://www.elperiodico.com/es/economia/20260809/industria-nuevo-reglamento-envases-plastico-ppwr-agosto-132984290)<br>
+16:00 [Catalunya activa la "alerta máxima" ante el eclipse: 700 agentes, drones y unidades acuáticas y subacuáticas](https://www.elperiodico.com/es/sociedad/20260809/catalunya-planifica-movilidad-eclipse-gran-dispositivo-policial-restricciones-ap7-133174769)<br>
+15:37 [Fran y Adisu, padre e hijo, sobreviven en una aldea sin comunicación: "El supermercado grande más cercano está a 50 minutos. No puedes olvidarte de nada para preparar una comida o una cena"](https://www.elperiodico.com/es/economia/20260809/padre-hijo-sobreviven-aldea-sin-comunicacion-compra-supermercado-dv-et-133123536)<br>
+15:30 [El iPhone 18 Pro de Apple, por las nubes: su precio se dispara](https://www.elperiodico.com/es/tecnologia/20260809/iphone-18-pro-apple-precio-dispara-dv-133111833)<br>
+15:26 [Ataques rusos dejan al menos dos muertos en la ciudad ucraniana de Járkov](https://www.elperiodico.com/es/videos/internacional/ataques-rusos-dejan-muertos-ciudad/133215888.shtml)<br>
+15:17 [Hallados muertos en su vivienda de Tauste (Zaragoza) con signos de violencia el exsecretario general de Uaga, Javier Sánchez, y su mujer](https://www.elperiodico.com/es/videos/sucesos/hallados-muertos-vivienda-tauste-zaragoza/133215680.shtml)<br>
+15:15 [El encantador pueblo de cuento a media hora de Igualada](https://www.elperiodico.com/es/catalunya/20260809/catalunya-pujalt-pueblo-igualada-anoia-dv-loc-110319456)<br>
 15:00 [Los farmacéuticos coinciden sobre el eclipse solar: "No lo mires con gafas de sol, ni a través del móvil ni solo por un segundo"](https://www.elperiodico.com/es/sociedad/20260809/farmaceuticos-coinciden-eclipse-solar-no-mires-con-gafas-de-sol-ni-con-el-movil-dv-et-133170968)<br>
 14:51 [Brutal agresión homófoba a un grupo de niñas de 14 años en Benialí (Alicante) al grito de "Viva Franco"](https://www.elperiodico.com/es/videos/sucesos/brutal-agresion-homofoba-grupo-ninas/133215318.shtml)<br>
 14:33 [La Familia Real disfruta de una cena en familia en Mallorca](https://www.elperiodico.com/es/videos/sociedad/familia-real-disfruta-cena-familia/133215048.shtml)<br>
