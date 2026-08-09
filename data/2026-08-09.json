@@ -1,10 +1,91 @@
 [
   {
+    "title": "Генштаб ЗСУ назвав найгарячіший напрямок фронту",
+    "link": "https://ua.korrespondent.net/ukraine/4901368-henshtab-zsu-nazvav-naihariachishyi-napriamok-frontu",
+    "pubDate": "2026-08-09 21:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523451.jpg\">На Лиманському напрямку українські захисники відбивали 27 спроб російських військових просунутися.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los hutíes de Yemen atacan un puerto estratégico en el estrecho de Bab el Mandeb y una refinería de Aramco",
+    "link": "https://www.elperiodico.com/es/internacional/20260809/huties-yemen-atacab-puerto-estrategico-bab-el-mandeb-refineria-aramco-jazi-133221242",
+    "pubDate": "2026-08-09 21:49:40",
+    "category": "",
+    "description": "<h2>Un asalto con más de 20 drones deja al menos siete muertos y 30 heridos en una \"escalada de gravedad extrema\", según el Gobierno yemení</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Lionel Messi y su familia despiden a su padre Jorge en un cementerio privado de Rosario",
+    "link": "https://www.elperiodico.com/es/deportes/20260809/lionel-messi-familia-despiden-padre-133221207",
+    "pubDate": "2026-08-09 21:33:31",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260808/muere-jorge-padre-leo-messi-133194746\">Muere a los 68 años Jorge Messi, padre de Leo Messi</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Manifestación en Ceuta por la situación migratoria",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/manifestacion-ceuta-situacion-migratoria/133221149.shtml",
+    "pubDate": "2026-08-09 21:31:20",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Marc Guirado, inversor inmobiliario: \"Este es el sueldo que necesitas en Barcelona o Madrid para vivir sin ir ahogado\"",
+    "link": "https://www.elperiodico.com/es/economia/20260809/sueldo-vivir-barcelona-madrid-inversor-inmobiliario-marc-guirado-dv-et-133141013",
+    "pubDate": "2026-08-09 21:12:46",
+    "category": "",
+    "description": "<h2>El experto invita a reflexionar sobre la relación entre precios de la vivienda y salarios</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260622/sueldo-feliz-barcelona-cataluna-dv-loc-131287832\" >El salario que cambia la vida en España: a partir de esta cifra ganar más ya no aumenta tanto el bienestar</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260723/empresas-necesitan-gastar-210-euros-132737094\">Las empresas necesitan gastar hasta 210 euros para que un trabajador gane 100 euros netos más, según Pimec</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fallece Don Nelson, quíntuple campeón NBA, a los 86 años",
+    "link": "https://www.elperiodico.com/es/deportes/20260809/fallece-don-nelson-quintuple-campeon-133220974",
+    "pubDate": "2026-08-09 21:10:11",
+    "category": "",
+    "description": "<h2 class=\"item\">Como jugador ganó cinco anillos con los Boston Celtics entre 1965 y 1976 en una carrera que también incluyó etapas en los Chicago Zephyrs y Los Ángeles Lakers.</h2><h2 class=\"item\">Como técnico tuvo una amplia trayectoria con 31 temporadas al frente de varios conjuntos.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luis de la Fuente, \"emocionado, feliz y orgulloso\" en el homenaje en Haro",
+    "link": "https://www.elperiodico.com/es/deportes/20260809/luis-fuente-emocionado-feliz-orgulloso-133220983",
+    "pubDate": "2026-08-09 21:05:44",
+    "category": "",
+    "description": "<h2>Antes, el seleccionador nacional se ha hecho fotos y firmado autógrafos a varios de los vecinos que han abarrotado la plaza de la Paz de Haro, que le han recibido al grito de \"Campeones\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, lunes 10 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260809/horoscopo-hoy-lunes-10-agosto-dv-133114042",
+    "pubDate": "2026-08-09 21:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los bomberos combaten el incendio de Castellón en Catí",
     "link": "https://www.elperiodico.com/es/videos/sucesos/bomberos-combaten-incendio-castellon-cati/133220851.shtml",
     "pubDate": "2026-08-09 20:50:45",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Карпатах знайшли рідкісний гриб Свиняче вухо",
+    "link": "https://ua.korrespondent.net/ukraine/4901363-u-karpatakh-znaishly-ridkisnyi-hryb-svyniache-vukho",
+    "pubDate": "2026-08-09 20:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523417.jpg\">Попереднього разу цей вид у парку виявляли у 2014 році, тож нова знахідка стала першою за 12 років.",
     "topic": "",
     "topic_match_probability": 0
   },

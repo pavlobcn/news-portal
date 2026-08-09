@@ -1,8 +1,10 @@
-# News for 2026-08-09 20:55
+# News for 2026-08-09 22:16
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+21:55 [Генштаб ЗСУ назвав найгарячіший напрямок фронту](https://ua.korrespondent.net/ukraine/4901368-henshtab-zsu-nazvav-naihariachishyi-napriamok-frontu)<br>
+20:50 [У Карпатах знайшли рідкісний гриб Свиняче вухо](https://ua.korrespondent.net/ukraine/4901363-u-karpatakh-znaishly-ridkisnyi-hryb-svyniache-vukho)<br>
 19:33 [У Франції заарештували понад 400 людей за підозрою у підпалах лісів](https://ua.korrespondent.net/world/4901351-u-frantsii-zaareshtuvaly-ponad-400-luidei-za-pidozroui-u-pidpalakh-lisiv)<br>
 18:52 [Армія Росії просунулась на Донеччині - DeepState](https://ua.korrespondent.net/ukraine/4901345-armiia-rosii-prosunulas-na-donechchyni-DeepState)<br>
 17:24 [Росія знищила склад ВООЗ у Дніпрі](https://ua.korrespondent.net/ukraine/4901334-rosiia-znyschyla-sklad-vooz-u-dnipri)<br>
@@ -32,6 +34,8 @@ Previous day: [2026-08-08](./data/2026-08-08.md)
 19:20 [Francia - España, en directo: final del Europeo Sub-18 femenino en vivo hoy](https://as.com/baloncesto/mas_baloncesto/francia-espana-en-directo-final-del-europeo-sub-18-femenino-en-vivo-hoy-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:12 [Marc Guirado, inversor inmobiliario: "Este es el sueldo que necesitas en Barcelona o Madrid para vivir sin ir ahogado"](https://www.elperiodico.com/es/economia/20260809/sueldo-vivir-barcelona-madrid-inversor-inmobiliario-marc-guirado-dv-et-133141013)<br>
+21:10 [Fallece Don Nelson, quíntuple campeón NBA, a los 86 años](https://www.elperiodico.com/es/deportes/20260809/fallece-don-nelson-quintuple-campeon-133220974)<br>
 20:50 [Los bomberos combaten el incendio de Castellón en Catí](https://www.elperiodico.com/es/videos/sucesos/bomberos-combaten-incendio-castellon-cati/133220851.shtml)<br>
 20:28 [Vecinos de Barcelona reclaman más bibliotecas abiertas en agosto para combatir el calor y descansar: “Son esenciales”](https://www.elperiodico.com/es/videos/sociedad/vecinos-barcelona-reclaman-bibliotecas-abiertas/133220571.shtml)<br>
 20:23 [Las BRIF trabajan en el pueblo de Vegas de Matute por el incendio de Navas de San Antonio](https://www.elperiodico.com/es/videos/sucesos/brif-pueblo-vegas-matute-incendio/133220514.shtml)<br>
