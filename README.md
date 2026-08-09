@@ -1,8 +1,9 @@
-# News for 2026-08-09 21:35
+# News for 2026-08-09 22:16
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+21:55 [Генштаб ЗСУ назвав найгарячіший напрямок фронту](https://ua.korrespondent.net/ukraine/4901368-henshtab-zsu-nazvav-naihariachishyi-napriamok-frontu)<br>
 20:50 [У Карпатах знайшли рідкісний гриб Свиняче вухо](https://ua.korrespondent.net/ukraine/4901363-u-karpatakh-znaishly-ridkisnyi-hryb-svyniache-vukho)<br>
 19:33 [У Франції заарештували понад 400 людей за підозрою у підпалах лісів](https://ua.korrespondent.net/world/4901351-u-frantsii-zaareshtuvaly-ponad-400-luidei-za-pidozroui-u-pidpalakh-lisiv)<br>
 18:52 [Армія Росії просунулась на Донеччині - DeepState](https://ua.korrespondent.net/ukraine/4901345-armiia-rosii-prosunulas-na-donechchyni-DeepState)<br>
