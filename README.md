@@ -1,8 +1,9 @@
-# News for 2026-08-09 16:02
+# News for 2026-08-09 16:49
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+16:20 [Росіяни повторно вдарили по Одещині і пошкодили автобус з дітьми](https://ua.korrespondent.net/city/odessa/4901323-rosiiany-povtorno-vdaryly-po-odeschyni-i-poshkodyly-avtobus-z-ditmy)<br>
 15:38 [На Закарпатті мотоцикліст загинув після зіткнення з коровою](https://ua.korrespondent.net/ukraine/4901318-na-zakarpatti-mototsyklist-zahynuv-pislia-zitknennia-z-korovoui)<br>
 15:17 [РФ вдарила по німецькому підприємству на Житомирщині: роботу зупинили](https://ua.korrespondent.net/ukraine/4901314-rf-vdaryla-po-nimetskomu-pidpryiemstvu-na-zhytomyrschyni-robotu-zupynyly)<br>
 14:51 [У Молдові пролунав потужний вибух](https://ua.korrespondent.net/world/4901312-u-moldovi-prolunav-potuzhnyi-vybukh)<br>
@@ -25,6 +26,8 @@ Previous day: [2026-08-08](./data/2026-08-08.md)
 00:21 [ЗАЕС двічі за день втрачала зовнішнє живлення](https://ua.korrespondent.net/ukraine/4901220-zaes-dvichi-za-den-vtrachala-zovnishnie-zhyvlennia)<br>
 
 ## www.elperiodico.com
+16:48 [El día que Eugenio dedicó un chiste al eclipse: "¡A sus órdenes, mi coronel!"](https://www.elperiodico.com/es/ocio-y-cultura/20260809/eugenio-dedico-chiste-eclipse-solar-dv-133216661)<br>
+16:39 [El chiste que Eugenio dedicó a un eclipse](https://www.elperiodico.com/es/videos/ocio-y-cultura/chiste-eugenio-dedico-eclipse-video/133216881.shtml)<br>
 16:00 [Catalunya alcanza los objetivos europeos y supera el 76% de recogida separada de envases](https://www.elperiodico.com/es/sociedad/20260809/cataluna-objetivos-europeos-reciclaje-envases-133154763)<br>
 16:00 [La metamorfosis de las centrales de Telefónica en Barcelona: apartamentos de lujo, pisos sociales, oficinas y equipamientos pedientes](https://www.elperiodico.com/es/barcelona/20260809/barcelona-edificios-telefonica-obras-viviendas-oficinas-equipamientos-133184827)<br>
 16:00 [Las empresas afrontan dificultades para cumplir la norma que le obliga a reducir el contenido de plástico de los envases](https://www.elperiodico.com/es/economia/20260809/industria-nuevo-reglamento-envases-plastico-ppwr-agosto-132984290)<br>
