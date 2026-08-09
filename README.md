@@ -1,8 +1,9 @@
-# News for 2026-08-09 18:01
+# News for 2026-08-09 18:32
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+17:24 [Росія знищила склад ВООЗ у Дніпрі](https://ua.korrespondent.net/ukraine/4901334-rosiia-znyschyla-sklad-vooz-u-dnipri)<br>
 16:20 [Росіяни повторно вдарили по Одещині і пошкодили автобус з дітьми](https://ua.korrespondent.net/city/odessa/4901323-rosiiany-povtorno-vdaryly-po-odeschyni-i-poshkodyly-avtobus-z-ditmy)<br>
 15:38 [На Закарпатті мотоцикліст загинув після зіткнення з коровою](https://ua.korrespondent.net/ukraine/4901318-na-zakarpatti-mototsyklist-zahynuv-pislia-zitknennia-z-korovoui)<br>
 15:17 [РФ вдарила по німецькому підприємству на Житомирщині: роботу зупинили](https://ua.korrespondent.net/ukraine/4901314-rf-vdaryla-po-nimetskomu-pidpryiemstvu-na-zhytomyrschyni-robotu-zupynyly)<br>

@@ -1,5 +1,14 @@
 [
   {
+    "title": "У столиці Косово зняли прапор України",
+    "link": "https://ua.korrespondent.net/world/4901341-u-stolytsi-kosovo-znialy-prapor-ukrainy",
+    "pubDate": "2026-08-09 18:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523299.png\">\"Косово потрібно поважати\", а коли \"Косово не поважають, столиця Приштина відповідає\", заявив мер столиці.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Eva Villaver, astrofísica: \"Algún día, la Tierra dejará de ver eclipses porque la Luna se habrá alejado demasiado\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260809/eva-villaver-astrofisica-eclipse-luna-aleja-tierra-133158650",
     "pubDate": "2026-08-09 18:00:07",
@@ -7,6 +16,15 @@
     "description": "<h2 class=\"item\">La especialista desgrana la ciencia detrás de este fenómeno: \"Un eclipse es un extraordinario relato de sombras, perspectivas y, sobre todo, belleza\"</h2><h2 class=\"item\">La científica participó en un acto organizado por la conselleria de Recerca para hablar del evento del próximo 12 de agosto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/consejos-eclipse-solar-donde-ver-gafas-133095430-rm/index.html\">ESPECIAL MULTIMEDIA | Todo lo que debes saber para disfrutar con seguridad del eclipse</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260806/eclipse-solar-12-agosto-ultima-hora-directo-133133160\">Eclipse solar, en directo: horario, dónde y cómo verlo este 12 de agosto, mejores gafas de protección y última hora del fenómeno astronómico</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Ізраїль не погодився з планом Трампа щодо Гази",
+    "link": "https://ua.korrespondent.net/world/4901336-izrail-ne-pohodyvsia-z-planom-trampa-schodo-hazy",
+    "pubDate": "2026-08-09 17:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523280.jpg\">ХАМАС має роззброїтися до того, як Ізраїль виведе свої війська з сектору Гази, наголосив Нетаньягу.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Muere Oihane Mateos, icónica comunicadora y actual directiva de EITB, a los 45 años",
@@ -88,6 +106,15 @@
     "description": "<h2>Esta tecnología de propulsión libre de emisiones permite autonomías superiores a los 1.000 kilómetros y tiempos de repostaje muy reducidos</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Росія знищила склад ВООЗ у Дніпрі",
+    "link": "https://ua.korrespondent.net/ukraine/4901334-rosiia-znyschyla-sklad-vooz-u-dnipri",
+    "pubDate": "2026-08-09 17:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523241.jpg\">Команда встигла вивезти 130 із приблизно 300 палет із медичними вантажами та залишила територію до початку обстрілу.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Courtois: \"Mourinho dice las cosas como son y a mí eso me gusta\"",
