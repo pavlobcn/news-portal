@@ -1,5 +1,77 @@
 [
   {
+    "title": "Los bomberos combaten el incendio de Castellón en Catí",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/bomberos-combaten-incendio-castellon-cati/133220851.shtml",
+    "pubDate": "2026-08-09 20:50:45",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Захисник збірної Франції знову приєднався до ПСЖ",
+    "link": "https://ua.korrespondent.net/sport/football/4901360-zakhysnyk-zbirnoi-frantsii-znovu-pryiednavsia-do-pszh",
+    "pubDate": "2026-08-09 20:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523416.jpg\">ПСЖ офіційно оголосив про трансфер захисника Астон Вілли та збірної Франції Люки Діня.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miles de ceutíes salen a la calle al grito de “Basta ya: Ceuta no se rinde”",
+    "link": "https://www.elperiodico.com/es/sociedad/20260809/miles-ceuties-salen-calle-grito-133220620",
+    "pubDate": "2026-08-09 20:34:06",
+    "category": "",
+    "description": "<h2>La concentración, convocada por las comunidades cristiana, musulmana, hebrea e hindú, busca mostrar la unidad de la ciudad ante la crisis migratoria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Зеленський анонсував нові контакти з посередниками",
+    "link": "https://ua.korrespondent.net/ukraine/4901359-zelenskyi-anonsuvav-novi-kontakty-z-poserednykamy",
+    "pubDate": "2026-08-09 20:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523401.jpg\">Заплановані також нові контакти заради пакетів для протиповітряної оборони, заявив президент.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Vecinos de Barcelona reclaman más bibliotecas abiertas en agosto para combatir el calor y descansar: “Son esenciales”",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/vecinos-barcelona-reclaman-bibliotecas-abiertas/133220571.shtml",
+    "pubDate": "2026-08-09 20:28:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dani Mérida somete al neerlandés Griekspoor y vuela a los cuartos de final de Canadá",
+    "link": "https://www.elperiodico.com/es/deportes/20260809/dani-merida-somete-neerlandes-griekspoor-133220479",
+    "pubDate": "2026-08-09 20:26:50",
+    "category": "",
+    "description": "<h2 class=\"item\">El joven madrileño superó al verdugo de Zverev (6-3, 6-1) y acompaña a Rafa Jódar entre los ochos mejores del torneo.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las BRIF trabajan en el pueblo de Vegas de Matute por el incendio de Navas de San Antonio",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/brif-pueblo-vegas-matute-incendio/133220514.shtml",
+    "pubDate": "2026-08-09 20:23:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На кожен удар РФ буде наше реагування - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4901357-na-kozhen-udar-rf-bude-nashe-reahuvannia-zelenskyi",
+    "pubDate": "2026-08-09 20:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523386.jpeg\">Російська війна буде все більш відчутною в Росії. Україна відповідатиме на кожен російський удар.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Christine, maratoniana a los 73 años: \"La gente cree que levanto pesas para ganar músculo pero hoy en día me interesa mantener lo que ya he conseguido\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260809/christine-73-anos-gente-cree-ganar-musculo-dv-et-133093107",
     "pubDate": "2026-08-09 20:10:00",
@@ -33,6 +105,15 @@
     "category": "",
     "description": "<h2>El ministro de Exteriores afirma que Prístina seguirá defendiendo la integridad de Ucrania pero pide al presidente ucraniano que reconsidere su postura</h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пізній пенальті приніс Динамо перемогу над Вересом",
+    "link": "https://ua.korrespondent.net/sport/football/4901353-piznii-penalti-prynis-dynamo-peremohu-nad-veresom",
+    "pubDate": "2026-08-09 19:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523384.jpg\">Драматична розв’язка в виїзному матчі: кияни вирвали три очки на останніх секундах зустрічі.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
