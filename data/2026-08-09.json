@@ -1,5 +1,68 @@
 [
   {
+    "title": "El este de China se encuentra en alerta máxima ante la llegada del tifón Dolphin",
+    "link": "https://www.elperiodico.com/es/videos/internacional/china-encuentra-alerta-maxima-llegada/133219093.shtml",
+    "pubDate": "2026-08-09 19:03:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Армія Росії просунулась на Донеччині - DeepState",
+    "link": "https://ua.korrespondent.net/ukraine/4901345-armiia-rosii-prosunulas-na-donechchyni-DeepState",
+    "pubDate": "2026-08-09 18:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523333.jpeg\">Російські війська просунулися біля Ільїнівки під Костянтинівкою та в Часовому Яру Донецької області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maresca, sobre Rodri y el Barça: \"El viernes estará en Manchester\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260809/maresca-rodri-barca-viernes-estara-133218693",
+    "pubDate": "2026-08-09 18:38:16",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico del City, que superó este domingo al Atlético de Simeone, aseguró que el centrocampista español está citado con la plantilla para comenzar a entrenar esta semana. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El presidente del Senado acusa al Gobierno de \"escamotear\" a la Cámara Alta su labor de control en la crisis ceutí",
+    "link": "https://www.elperiodico.com/es/politica/20260809/presidente-senado-acusa-gobierno-escamotear-crisis-ceuta-133218646",
+    "pubDate": "2026-08-09 18:36:41",
+    "category": "",
+    "description": "<h2 class=\"item\">Pedro Rollán cree que los ministros han tenido tiempo suficiente de preparación</h2><h2 class=\"item\">El presidente ha mandado cartas a los interesados, advirtiendo de las consecuencias legales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Inteligencia Artificial para hacer un 'sinpa' en un restaurante: la estafa que cada vez denuncian más hosteleros",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/inteligencia-artificial-sinpa-restaurante-estafa/133218674.shtml",
+    "pubDate": "2026-08-09 18:32:18",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así asaltaba comercios una banda en Tenerife: ocho detenidos y 34 delitos esclarecidos",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/asaltaba-comercios-banda-tenerife-ocho-detenidos/133218730.shtml",
+    "pubDate": "2026-08-09 18:32:13",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sinner se suma a Alcaraz y renuncia a Cincinnati por lesión",
+    "link": "https://www.elperiodico.com/es/deportes/20260809/sinner-suma-alcaraz-renuncia-cincinnati-133218574",
+    "pubDate": "2026-08-09 18:31:48",
+    "category": "",
+    "description": "<h2 class=\"item\">El número uno del mundo arrastra molestias en la rodilla derecha. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "У столиці Косово зняли прапор України",
     "link": "https://ua.korrespondent.net/world/4901341-u-stolytsi-kosovo-znialy-prapor-ukrainy",
     "pubDate": "2026-08-09 18:23:00",
