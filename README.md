@@ -1,8 +1,9 @@
-# News for 2026-08-09 11:51
+# News for 2026-08-09 12:26
 
 Previous day: [2026-08-08](./data/2026-08-08.md)
 
 ## ua.korrespondent.net
+11:56 [В Одесі зросла кількість поранених, є перебої зі зв'язком та водою](https://ua.korrespondent.net/ukraine/4901285-v-odesi-zrosla-kilkist-poranenykh-ye-pereboi-zi-zviazkom-ta-vodoui)<br>
 10:27 [Росіяни вдарили по Житомирщині, троє постраждалих](https://ua.korrespondent.net/ukraine/4901276-rosiiany-vdaryly-po-zhytomyrschyni-troie-postrazhdalykh)<br>
 07:55 [Стало відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4901256-stalo-vidomo-yak-vidpratsuivala-ppo)<br>
 07:21 [Росіяни поцілили по багатоповерхівках у Харкові, є загиблі](https://ua.korrespondent.net/ukraine/4901253-rosiiany-potsilyly-po-bahatopoverkhivkakh-u-kharkovi-ye-zahybli)<br>
@@ -15,8 +16,18 @@ Previous day: [2026-08-08](./data/2026-08-08.md)
 00:21 [ЗАЕС двічі за день втрачала зовнішнє живлення](https://ua.korrespondent.net/ukraine/4901220-zaes-dvichi-za-den-vtrachala-zovnishnie-zhyvlennia)<br>
 
 ## www.elperiodico.com
+12:23 [Los Mossos investigan un tiroteo tras una pelea en Nou Barris, sin que consten heridos](https://www.elperiodico.com/es/sucesos/20260809/mossos-investigan-tiroteo-pelea-nou-barris-133212086)<br>
+12:17 [El Meteocat alerta de noches de calor intenso en buena parte de Catalunya este lunes y martes](https://www.elperiodico.com/es/videos/sociedad/meteocat-alerta-noches-calor-intenso/133212021.shtml)<br>
+12:13 [Carmen Balfagón, tajante sobre Daniel Sancho: "Daniel no es un asesino"](https://www.elperiodico.com/es/gente/20260809/carmen-balfagon-tajante-daniel-sancho-no-es-asesino-133211649)<br>
+12:11 [Un barco de 12 metros se hunde tras chocar contra unas rocas en Torroella de Montgrí](https://www.elperiodico.com/es/videos/sociedad/barco-12-metros-hunde-chocar-rocas/133211845.shtml)<br>
+12:11 [El eclipse total de Sol del 12 de agosto "no debería tener ningún impacto sobre la producción eléctrica", según la ESA](https://www.elperiodico.com/es/sociedad/20260809/eclipse-total-sol-12-agosto-fenomeno-astronomico-133211605)<br>
+12:10 [Santi Marín (22 años), propietario de una casa trabajando en el campo: "En cinco años la tendré pagada"](https://www.elperiodico.com/es/economia/20260809/santi-marin-22-anos-propietario-casa-campo-trabajando-dv-133124058)<br>
+12:00 [En busca del frescor: los secretos ancestrales del desierto marroquí contra las altas temperaturas](https://www.elperiodico.com/es/internacional/20260809/busca-frescor-secretos-ancestrales-desierto-marroqui-contra-calor-extremo-133144185)<br>
+12:00 [Ni Grecia ni Italia: la laguna artificial más grande de Europa está en Andalucía](https://www.elperiodico.com/es/vida-y-estilo/20260809/andalucia-laguna-artificial-malaga-capital-entorno-privilegiado-paraiso-dv-et-133169774)<br>
+11:51 [Retiran árboles caídos en 260 hectáreas del Ripollès afectadas por las ventadas](https://www.elperiodico.com/es/tiempo/20260809/retiran-arboles-caidos-260-hectareas-ripolles-133211044)<br>
 11:50 [Así fue el incidente en un espectáculo pirotécnico en Altea que dejó varios heridos](https://www.elperiodico.com/es/videos/sucesos/incidente-espectaculo-pirotecnico-altea-dejo/133211358.shtml)<br>
 11:48 [El Meteocat alerta de noches de calor intenso en buena parte de Catalunya este lunes y martes](https://www.elperiodico.com/es/sociedad/20260809/meteocat-alerta-noches-calor-intenso-133210599)<br>
+11:48 [El Meteocat alerta de noches de calor intenso en buena parte de Catalunya este lunes y martes](https://www.elperiodico.com/es/sociedad/20260809/meteocat-alerta-noches-calor-intenso-cataluna-133210599)<br>
 11:45 [Los secretos de las cinco calles de las fiestas de Gràcia que se vestirán de Tolkien: "Cada una ha trabajado a su manera"](https://www.elperiodico.com/es/fotos/barcelona/secretos-cinco-calles-fiestas-gracia-133211231)<br>
 11:43 [Montblanc reclama a Google Maps que no desvíe los coches por el municipio cuando haya atascos en la autopista](https://www.elperiodico.com/es/sociedad/20260809/google-maps-problemas-atascos-desviar-coche-municipios-catalunya-montblanc-133210752)<br>
 11:39 [Un incidente en un espectáculo pirotécnico en Altea deja 27 heridos, 11 de ellos trasladados a la Unidad de Quemados de Alicante](https://www.elperiodico.com/es/sucesos/20260809/27-personas-heridas-altea-impactar-publico-espectaculo-133211088)<br>
