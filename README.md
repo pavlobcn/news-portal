@@ -1,8 +1,9 @@
-# News for 2026-08-10 22:05
+# News for 2026-08-10 22:59
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+22:23 [На Одещині втрачено МіГ-29: пілот катапультувався](https://ua.korrespondent.net/ukraine/4901686-na-odeschyni-vtracheno-mih-29-pilot-katapultuvavsia)<br>
 21:59 [Атака РФ на Криворіжжя: загинув 15-річний хлопець](https://ua.korrespondent.net/ukraine/4901680-ataka-rf-na-kryvorizhzhia-zahynuv-15-richnyi-khlopets)<br>
 21:43 [Сотні тисяч туристів їдуть на затемнення: Іспанія б’є на сполох](https://ua.korrespondent.net/world/4901678-sotni-tysiach-turystiv-yidut-na-zatemnennia-ispaniia-bie-na-spolokh)<br>
 21:25 [Понад 6 тисяч дронів: ситуація на фронті](https://ua.korrespondent.net/ukraine/4901674-ponad-6-tysiach-droniv-sytuatsiia-na-fronti)<br>
@@ -85,6 +86,10 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:50 [Ascienden a 6.301 los muertos por el doble terremoto del 24 de junio en Venezuela](https://www.elperiodico.com/es/internacional/20260810/ascienden-6-301-muertos-doble-terremoto-24-junio-venezuela-133249996)<br>
+22:32 [Al límite de la capacidad](https://www.elperiodico.com/es/opinion/20260810/limite-capacidad-aeropuertos-espanoles-133249740)<br>
+22:30 [El terremoto desata el pánico en Colombia: "Ha sido muy duro y demasiado largo"](https://www.elperiodico.com/es/internacional/20260810/terremoto-desata-panico-colombia-sido-muy-duro-demasiado-largo-133249815)<br>
+22:29 [Detenidos en Totana (Murcia) unos padres por intentar vender a su hija de 2 años a otra pareja que ya había pagado 20.000 euros por la niña](https://www.elperiodico.com/es/sucesos/20260810/detenidos-totana-murcia-padres-vender-hija-133249802)<br>
 22:01 [Agresión homófoba en Alicante: “Las niñas están muy afectadas. Han vuelto al médico por nuevas secuelas de la agresión”](https://www.elperiodico.com/es/sucesos/20260810/agresion-homofoba-alicante-ninas-afectadas-133249228)<br>
 21:45 [Españoles en el terremoto de Colombia: Se da por hecho que el goteo de víctimas no dejará de crecer y el balance oficial supera ya el centenar](https://www.elperiodico.com/es/videos/internacional/espanoles-terremoto-colombia-da-hecho/133248822.shtml)<br>
 21:14 [El incendio de Niebla, en Huelva, vuelve a dejar vacío y con "mucha incertidumbre" a El Madroño: "Estamos con las carnes abiertas"](https://www.elperiodico.com/es/sociedad/20260810/incendio-niebla-huelva-vuelve-vacio-133248509)<br>
