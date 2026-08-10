@@ -1,5 +1,86 @@
 [
   {
+    "title": "Estado de los embalses hoy, 10 de agosto en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/embalses-hoy-10-agosto-catalunya-ultima-hora-dv-133215076",
+    "pubDate": "2026-08-10 08:08:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Devuelven a una biblioteca de Australia un libro con 150 años de retraso",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260810/devuelven-biblioteca-australia-libro-150-133225248",
+    "pubDate": "2026-08-10 08:02:48",
+    "category": "",
+    "description": "<h2>El Ayuntamiento de Kiama ha decidido condonar la multa acumulada de unos 18.000 euros por la devolución de un libro prestado hace 150 años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miguel Perlado, psicólogo: \"Un eclipse nos abre las puertas hacia la experiencia espiritual\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260810/miguel-perlado-psicologo-eclipse-abre-131691909",
+    "pubDate": "2026-08-10 08:00:52",
+    "category": "",
+    "description": "<h2 class=\"item\">El<a href=\"https://www.elperiodico.com/es/temas/eclipses-23591\"> eclipse total de sol</a> de agosto de 2026 no será solo un fenómeno astronómico: también puede ser una experiencia de asombro, pertenencia y conexión emocional</h2><h2 class=\"item\">Perlado explica por qué estos acontecimientos conectan con la necesidad humana de sentido, comunidad y trascendencia, pero también advierte de la importancia de vivirlos sin perder criterio propio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hispano Suiza Carmen Sagrera: así funciona el software que gestiona 1.115 CV sin restar protagonismo al conductor",
+    "link": "https://www.elperiodico.com/es/motor/20260810/hispano-suiza-carmen-sagrera-133089511",
+    "pubDate": "2026-08-10 08:00:51",
+    "category": "",
+    "description": "<h2>Frente a la tendencia actual de saturar los habitáculos con pantallas e interferencias digitales, la firma española apuesta por un software propio de gestión dinámica calibrado por el expiloto de Fórmula 1 Luis Pérez-Sala</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La isla española de 50 habitantes que busca independizarse: sus vecinos dicen basta",
+    "link": "https://www.elperiodico.com/es/economia/20260810/isla-tabarca-independencia-administrativa-alicante-turismo-dv-133086068",
+    "pubDate": "2026-08-10 08:00:00",
+    "category": "",
+    "description": "<h2>La comunidad denuncia el abandono de las instituciones frente a la llegada masiva de turistas </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260803/turistas-internacionales-aumentaron-4-6-133049744\">Los turistas internacionales aumentaron el 4,6 % hasta junio y el gasto, un 7 %</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Удар КАБами по Сумах: кількість постраждалих зросла до 14",
+    "link": "https://ua.korrespondent.net/ukraine/4901421-udar-kabamy-po-sumakh-kilkist-postrazhdalykh-zrosla-do-14",
+    "pubDate": "2026-08-10 07:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523839.jpg\">Важких поранених немає. У більшості - легкі травми або гостра реакція на стрес, розповів очільник ОВА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Перу повідомили про загибель 11 своїх громадян у війні РФ проти України",
+    "link": "https://ua.korrespondent.net/world/4901419-u-peru-povidomyly-pro-zahybel-11-svoikh-hromadian-u-viini-rf-proty-ukrainy",
+    "pubDate": "2026-08-10 07:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523838.jpg\">За даними перуанського МЗС, загалом 459 громадян Перу офіційно вступили до російських військ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрони атакували Татарстан: під ударом НПЗ",
+    "link": "https://ua.korrespondent.net/world/russia/4901416-drony-atakuvaly-tatarstan-pid-udarom-npz",
+    "pubDate": "2026-08-10 07:19:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523815.png\">У російській республіці Татарстан пролунали вибухи. Місцеві мешканці повідомили про атаку великої кількості дронів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El eclipse total de Sol que oscurecerá España el 12 de agosto: hora, mapa y mejores lugares para verlo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/eclipse-total-sol-espana/133224470.shtml",
+    "pubDate": "2026-08-10 07:02:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "4 consejos de la DGT para que disfrutes del eclipse de forma segura",
     "link": "https://www.elperiodico.com/es/motor/20260810/4-consejos-dgt-disfrutes-eclipse-132878233",
     "pubDate": "2026-08-10 07:00:50",
@@ -241,6 +322,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Eclipse solar, en directo: cuándo es, hora en España, dónde comprar gafas homologadas y última hora del fenómeno astronómico del 12 de agosto",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/eclipse-solar-directo-hora-espana-133133160",
+    "pubDate": "2026-08-10 05:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260214/eclipse-sol-cataluna-actividades-divulgacion-ciencia-educacion-trio-eclipses-126806651\" >Catalunya creará un atlas divulgativo para implicar a la población en el eclipse de sol del 12 de agosto</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260807/eclipse-solar-cataluna-12-agosto-gafas-gratis-once-gobierno-dv-133020698\" target=\"_blank\">El Gobierno y la ONCE repartirán dos millones de gafas gratis para ver el eclipse del próximo 12 de agosto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Ceuta y Melilla, en directo | Última hora de la crisis migratoria, desaparecidos, situación de los menores y reacciones políticas",
