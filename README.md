@@ -1,8 +1,13 @@
-# News for 2026-08-10 13:46
+# News for 2026-08-10 14:36
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+14:29 [У Болгарії пролунали вибухи на заводі боєприпасів](https://ua.korrespondent.net/world/4901563-u-bolharii-prolunaly-vybukhy-na-zavodi-boieprypasiv)<br>
+14:26 [Гардероб із Диявол носить Prada 2 піде з молотка](https://ua.korrespondent.net/lifestyle/4901553-harderob-iz-dyiavol-nosyt-Prada-2-pide-z-molotka)<br>
+14:14 [РФ прискорює аналог Starlink: ГУР розповіло про супутники Рассвет](https://ua.korrespondent.net/world/russia/4901560-rf-pryskoruiie-analoh-Starlink-hur-rozpovilo-pro-suputnyky-rassvet)<br>
+13:59 [До Британії прибув човен з рекордною кількістю мігрантів](https://ua.korrespondent.net/world/4901556-do-brytanii-prybuv-choven-z-rekordnoui-kilkistui-mihrantiv)<br>
+13:52 [Переслідував 11 жінок майже 9 років: у Києві оголосили в розшук сталкера](https://ua.korrespondent.net/city/kiev/4901546-peresliduvav-11-zhinok-maizhe-9-rokiv-u-kyievi-oholosyly-v-rozshuk-stalkera)<br>
 13:36 [У КМДА шукають компроміс щодо вирубки дерев на Теремках](https://ua.korrespondent.net/city/kiev/4901544-u-kmda-shukauit-kompromis-schodo-vyrubky-derev-na-teremkakh)<br>
 13:21 [Повітряні сили закликали ЗМІ не писати про "незбиті ракети"](https://ua.korrespondent.net/ukraine/4901536-povitriani-syly-zaklykaly-zmi-ne-pysaty-pro-nezbyti-rakety)<br>
 13:15 [Акторка показала інтимний момент із чоловіком](https://ua.korrespondent.net/lifestyle/4901515-aktorka-pokazala-intymnyi-moment-iz-cholovikom)<br>
@@ -53,6 +58,17 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:31 [Detectado un brote de sarampión en Mallorca con al menos seis afectados: cinco de ellos no estaban vacunados](https://www.elperiodico.com/es/sociedad/20260810/detectado-brote-sarampion-mallorca-seis-afectados-sin-vacunas-133236828)<br>
+14:20 [Interior ha realizado controles de entrada a 1.033 pasajeros de 58 vuelos procedentes de Italia en tres días](https://www.elperiodico.com/es/politica/20260810/interior-realizado-controles-entrada-italia-133236543)<br>
+14:16 [Trabajos de la UME en el incendio forestal de Niebla (Huelva)](https://www.elperiodico.com/es/videos/sociedad/trabajos-ume-incendio-forestal-niebla-huelva-video/133236190.shtml)<br>
+14:11 [El incendio de Niebla se expande a "velocidad desorbitada y está fuera de la capacidad de control": abarca ya 20.000 hectáreas y se estudian más desalojos](https://www.elperiodico.com/es/sociedad/20260810/incendio-niebla-expande-velocidad-desorbitada-desalojos-133236023)<br>
+14:10 [Defensa y Guardia Civil cancelan todos los permisos de los militares y los guardias en Ceuta en previsión de nuevas entradas masivas de migrantes](https://www.elperiodico.com/es/videos/politica/defensa-guardia-civil-cancelan-permisos-militares-guardias-ceuta-prevision-nuevas-entradas-inmigrantes-video/133235889.shtml)<br>
+14:10 [El 'eclipse del siglo' del 12 de agosto coincidirá con el momento álgido de lluvia de estrellas de las Perseidas](https://www.elperiodico.com/es/sociedad/20260810/eclipse-solar-agosto-noche-perseidas-espectaculo-astronomico-unico-129495516)<br>
+14:08 [Confirmado: los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo](https://www.elperiodico.com/es/economia/20260810/padres-con-hijos-menores-12-anos-teletrabajo-sin-perder-sueldo-dv-133235198)<br>
+14:08 [El plazo para solicitar ayudas para los alumnos con necesidades de apoyo educativo en Catalunya termina el 10 de septiembre](https://www.elperiodico.com/es/sociedad/20260810/ayudas-alumnos-necesidades-educativas-133235556)<br>
+14:00 [Facundo, viviendo en una carpa en plena montaña: "Instalarse en el campo, en estas condiciones, no es una situación idealizada de vida rural: es un proceso, con errores, ajustes y decisiones duras...""](https://www.elperiodico.com/es/economia/20260810/proceso-construccion-terreno-carpa-montana-mascota-facundo-dv-et-133067299)<br>
+13:54 [Un brote por la bacteria 'devoradora de carne' pone en alerta la costa este de EEUU con las primeras muertes](https://www.elperiodico.com/es/internacional/20260810/brote-bacteria-devoradora-carne-estados-unidos-eeuu-alerta-salud-muertes-133230929)<br>
+13:51 [Detenida una de las hijas y su pareja como presuntos autores del crimen del matrimonio de Zaragoza](https://www.elperiodico.com/es/sucesos/20260810/detenida-hijas-pareja-presuntos-autores-133235294)<br>
 13:45 [Una patera con 230 personas cruza el canal de la Mancha, la cifra más alta en un solo viaje](https://www.elperiodico.com/es/internacional/20260810/patera-230-personas-cruza-canal-mancha-cifra-record-133234968)<br>
 13:40 [Javi, jubilado español en Tailandia: "En España no se puede vivir. Aquí con 1.000 euros vive una pareja"](https://www.elperiodico.com/es/vida-y-estilo/20260810/javi-jubilado-espanol-tailandia-espana-vivir-euros-pareja-dv-et-133177558)<br>
 13:08 [¿Qué camioneros podían cobrar hasta 16.500 euros para combustible y qué ayudas siguen disponibles?](https://www.elperiodico.com/es/economia/20260810/camioneros-cobrar-16500-euros-combustible-otras-ayudas-disponibles-dv-133232683)<br>
