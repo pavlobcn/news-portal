@@ -1,8 +1,14 @@
-# News for 2026-08-10 12:55
+# News for 2026-08-10 13:46
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+13:36 [У КМДА шукають компроміс щодо вирубки дерев на Теремках](https://ua.korrespondent.net/city/kiev/4901544-u-kmda-shukauit-kompromis-schodo-vyrubky-derev-na-teremkakh)<br>
+13:21 [Повітряні сили закликали ЗМІ не писати про "незбиті ракети"](https://ua.korrespondent.net/ukraine/4901536-povitriani-syly-zaklykaly-zmi-ne-pysaty-pro-nezbyti-rakety)<br>
+13:15 [Акторка показала інтимний момент із чоловіком](https://ua.korrespondent.net/lifestyle/4901515-aktorka-pokazala-intymnyi-moment-iz-cholovikom)<br>
+13:12 [Удар по Запоріжжю: постраждали 24 людини](https://ua.korrespondent.net/city/zaporozhye/4901534-udar-po-zaporizhzhui-postrazhdaly-24-luidyny)<br>
+13:07 [Росія призупинила виробництво Кинджалів - ГУР](https://ua.korrespondent.net/ukraine/4901530-rosiia-pryzupynyla-vyrobnytstvo-kyndzhaliv-hur)<br>
+12:59 [ЗСУ знищили російський комплекс, здатний глушити Starlink - ЗМІ](https://ua.korrespondent.net/world/4901527-zsu-znyschyly-rosiiskyi-kompleks-zdatnyi-hlushyty-Starlink-zmi)<br>
 12:35 [Відомий актор показав зустріч із 10-річною донькою](https://ua.korrespondent.net/lifestyle/4901508-vidomyi-aktor-pokazav-zustrich-iz-10-richnoui-donkoui)<br>
 12:33 [В Україні прогнозують спеку до +31° та локальні грози](https://ua.korrespondent.net/ukraine/4901519-v-ukraini-prohnozuuit-speku-do-31-ta-lokalni-hrozy)<br>
 12:14 [Поблизу Данії зафіксували рекордну кількість GPS-збоїв](https://ua.korrespondent.net/world/4901512-poblyzu-danii-zafiksuvaly-rekordnu-kilkist-GPS-zboiv)<br>
@@ -47,6 +53,11 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:45 [Una patera con 230 personas cruza el canal de la Mancha, la cifra más alta en un solo viaje](https://www.elperiodico.com/es/internacional/20260810/patera-230-personas-cruza-canal-mancha-cifra-record-133234968)<br>
+13:40 [Javi, jubilado español en Tailandia: "En España no se puede vivir. Aquí con 1.000 euros vive una pareja"](https://www.elperiodico.com/es/vida-y-estilo/20260810/javi-jubilado-espanol-tailandia-espana-vivir-euros-pareja-dv-et-133177558)<br>
+13:08 [¿Qué camioneros podían cobrar hasta 16.500 euros para combustible y qué ayudas siguen disponibles?](https://www.elperiodico.com/es/economia/20260810/camioneros-cobrar-16500-euros-combustible-otras-ayudas-disponibles-dv-133232683)<br>
+13:05 [Un eclipse a casi 40 grados: la Aemet activa avisos por calor extremo ante un miércoles de altas temperaturas en gran parte del país](https://www.elperiodico.com/es/sociedad/20260810/eclipse-aemet-prevision-calor-temperatura-miercoles-12-agosto-133229198)<br>
+13:02 [Quantum Fracture, divulgador científico, sobre ver el eclipse solar al 99% o al 100%: "No tiene nada que ver... Pero es que ni de lejos"](https://www.elperiodico.com/es/ciencia/20260810/eclipse-solar-total-parcial-diferencia-divulgador-cientifico-quantum-fracture-dv-et-133230875)<br>
 12:53 [Al menos seis menores migrantes no acompañadas denuncian agresiones sexuales tras su llegada a Ceuta](https://www.elperiodico.com/es/sociedad/20260810/seis-menores-migrantes-denuncian-agresiones-sexuales-ceuta-133230058)<br>
 12:43 [La R4 y la R8 recuperan la normalidad tras las obras en Castellbisbal](https://www.elperiodico.com/es/sociedad/20260810/r4-r8-recuperan-normalidad-obras-133230166)<br>
 12:38 [El precio del euríbor hoy, 10 de agosto: la semana empieza de nuevo mal para los hipotecados](https://www.elperiodico.com/es/economia/20260810/euribor-precio-hoy-10-agosto-dv-133226574)<br>
