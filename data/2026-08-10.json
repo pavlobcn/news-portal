@@ -1,5 +1,14 @@
 [
   {
+    "title": "Los perros pueden distinguir entre el miedo, la ira y la tristeza en los rostros humanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/perros-distinguir-miedo-ira-tristeza-rostros-humanos-133250673",
+    "pubDate": "2026-08-10 23:59:35",
+    "category": "",
+    "description": "<h2>Investigadores hicieron una serie de escáneres a un grupo de perros domésticos mientras veían imágenes de rostros humanos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Лубінець звинуватив керівника ТЦК у тиску на свого представника",
     "link": "https://ua.korrespondent.net/ukraine/4901696-lubinets-zvynuvatyv-kerivnyka-ttsk-u-tysku-na-svoho-predstavnyka",
     "pubDate": "2026-08-10 23:51:00",
@@ -61,6 +70,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524546.jpg\">Ліміти на низку операцій зростуть удвічі, а оплачувати за кордоном можна буде, зокрема, оренду житла.",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Дипломатична сенсація. Зеленський з'їздив в Сербію",
+    "link": "https://ua.korrespondent.net/world/4901700-dyplomatychna-sensatsiia-zelenskyi-zizdyv-v-serbiui",
+    "pubDate": "2026-08-10 22:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524595.jpg\">Александар Вучич минулого року навіть літав до Москви для участі у військовому параді 9 травня.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Al límite de la capacidad",

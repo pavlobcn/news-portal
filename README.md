@@ -1,4 +1,4 @@
-# News for 2026-08-10 23:53
+# News for 2026-08-11 00:29
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
@@ -87,6 +87,7 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Los perros pueden distinguir entre el miedo, la ira y la tristeza en los rostros humanos](https://www.elperiodico.com/es/sociedad/20260810/perros-distinguir-miedo-ira-tristeza-rostros-humanos-133250673)<br>
 23:11 [Investigan la muerte violenta de un hombre en la localidad sevillana de Camas](https://www.elperiodico.com/es/sucesos/20260810/investigan-muerte-violenta-hombre-localidad-sevillana-camas-133250258)<br>
 22:50 [Ascienden a 6.301 los muertos por el doble terremoto del 24 de junio en Venezuela](https://www.elperiodico.com/es/internacional/20260810/ascienden-6-301-muertos-doble-terremoto-24-junio-venezuela-133249996)<br>
 22:32 [Al límite de la capacidad](https://www.elperiodico.com/es/opinion/20260810/limite-capacidad-aeropuertos-espanoles-133249740)<br>
