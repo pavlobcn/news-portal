@@ -1,8 +1,13 @@
-# News for 2026-08-10 16:41
+# News for 2026-08-10 17:15
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+17:08 [Вибухи на військовому заводі в Болгарії: названо попередню причину](https://ua.korrespondent.net/world/4901612-vybukhy-na-viiskovomu-zavodi-v-bolharii-nazvano-poperednui-prychynu)<br>
+16:55 [В одній з громад Полтавщині внаслідок нічної атаки знищені всі АЗС](https://ua.korrespondent.net/ukraine/4901610-v-odnii-z-hromad-poltavschyni-vnaslidok-nichnoi-ataky-znyscheni-vsi-azs)<br>
+16:49 [Дрони уразили нафтохімічний завод у Сибіру](https://ua.korrespondent.net/ukraine/4901606-drony-urazyly-naftokhimichnyi-zavod-u-sybiru)<br>
+16:48 [Трейлер фільму Демони і остання роль Писанки](https://ua.korrespondent.net/showbiz/cinema/4901605-treiler-filmu-demony-i-ostannia-rol-pysanky)<br>
+16:39 [Дрон біля літака в Лейпцигу: аеропорт був за крок від катастрофи](https://ua.korrespondent.net/world/4901603-dron-bilia-litaka-v-leiptsyhu-aeroport-buv-za-krok-vid-katastrofy)<br>
 16:27 [Лікарку військової поліклініки викрили на хабарі](https://ua.korrespondent.net/ukraine/4901601-likarku-viiskovoi-polikliniky-vykryly-na-khabari)<br>
 16:22 [Українські рятувальники зупинили лісову пожежу у Франції](https://ua.korrespondent.net/ukraine/4901599-ukrainski-riatuvalnyky-zupynyly-lisovu-pozhezhu-u-frantsii)<br>
 16:10 [ШІ "звільнив" чуже місце у спортзалі, щоб записати власника](https://ua.korrespondent.net/tech/technews/4901565-shi-zvilnyv-chuzhe-mistse-u-sportzali-schob-zapysaty-vlasnyka)<br>
@@ -64,11 +69,22 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 00:21 [На Запоріжжі від повторного удару загинув рятувальник](https://ua.korrespondent.net/ukraine/4901383-na-zaporizhzhi-vid-povtornoho-udaru-zahynuv-riatuvalnyk)<br>
 
 ## as.com
+16:56 [Luis Guil será seleccionador de Jordania tras su paso por el Madrid](https://as.com/baloncesto/mas_baloncesto/luis-guil-sera-seleccionador-de-jordania-tras-su-paso-por-el-madrid-f202608-n/)<br>
 16:21 [Andrej Bjelic sale del Real Madrid para pasar a profesional en el Estrella Roja](https://as.com/baloncesto/euroliga/andrej-bjelic-sale-del-real-madrid-para-pasar-a-profesional-en-el-estrella-roja-f202608-n/)<br>
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:12 [Rastreo de redes: Edificios y viviendas quedan destruidos tras el sismo de magnitud 7,4 en el Chocó](https://www.elperiodico.com/es/videos/internacional/rastreo-redes-edificios-viviendas-quedan/133241176.shtml)<br>
+17:09 [Un terremoto de magnitud 7,4 sacude la mayor parte de Colombia](https://www.elperiodico.com/es/videos/internacional/terremoto-sacude-colombia/133241152.shtml)<br>
+17:05 [Alcalde de Bogotá señala que no hay reporte de daños estructurales tras temblor de 7,4 en Colombia](https://www.elperiodico.com/es/videos/internacional/alcalde-bogota-senala-hay-reporte/133240775.shtml)<br>
+17:04 [El terremoto en Colombia desata la alarma en la colonia colombiana en Valencia: "Estamos buscando a mis sobrinos"](https://www.elperiodico.com/es/internacional/20260810/terremoto-colombia-desata-alarma-colonia-133241037)<br>
+17:01 [Historia de los eclipses en España](https://www.elperiodico.com/es/sociedad/20260810/historia-eclipses-espana-133175946)<br>
+17:01 [La Fantàstica: un taller de escritura donde los niños dejan volar su creatividad y aprenden a ser constantes](https://www.elperiodico.com/es/ocio-y-cultura/20260810/la-fantastica-taller-de-escritura-para-ninos-en-gracia-133168100)<br>
+16:59 ["Todo se movía", relata un empresario colombiano tras el grave terremoto que ha azotado Colombia](https://www.elperiodico.com/es/internacional/20260810/movia-relata-empresario-colombiano-vinculos-133240752)<br>
+16:47 [Revolut consigue una licencia bancaria en Francia y prepara su expansión por España, Alemania, Italia y Portugal](https://www.elperiodico.com/es/videos/economia/revolut-licencia-bancaria-francia-prepara/133240420.shtml)<br>
+16:42 [Un brote por la bacteria 'devoradora de carne' pone en alerta la costa este de EEUU con las primeras muertes](https://www.elperiodico.com/es/videos/internacional/brote-bacteria-devoradora-carne-pone/133240325.shtml)<br>
 16:31 [El riesgo que Laura veía y que los tribunales no supieron detectar: todo lo que falló en el asesinato machista de Asturias](https://www.elperiodico.com/es/sociedad/20260810/fallos-asesinato-laura-cruz-violencia-machista-133232670)<br>
+16:24 [Imágenes del terremoto  de magnitud 7,4 que ha sacudido a la mayor parte de Colombia](https://www.elperiodico.com/es/fotos/internacional/imagenes-terremoto-magnitud-7-4-133239929)<br>
 16:12 [Terremoto de magnitud 7,4 en Colombia, en directo: epicentro, afectación y última hora del temblor](https://www.elperiodico.com/es/internacional/20260810/terremoto-colombia-magnitud-temblor-ultima-hora-directo-133239425)<br>
 16:00 [Colombia es sacudida por un terremoto de 7,4 que provoca graves daños materiales](https://www.elperiodico.com/es/videos/internacional/colombia-sacudida-terremoto-7-4/133239237.shtml)<br>
 16:00 [Barcelona blindará el Arc de Triomf con una barrera de bolardos para impedir un atentado como el del 17A](https://www.elperiodico.com/es/barcelona/20260810/barcelona-17a-atentado-terrorista-arc-triomf-bolardos-133229890)<br>
