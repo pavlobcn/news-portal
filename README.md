@@ -1,8 +1,18 @@
-# News for 2026-08-10 08:21
+# News for 2026-08-10 10:13
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+10:03 [Між Фінляндією та Швецією через 40 років відновили залізничне сполучення](https://ua.korrespondent.net/world/4901459-mizh-finliandiieui-ta-shvetsiieui-cherez-40-rokiv-vidnovyly-zaliznychne-spoluchennia)<br>
+09:56 [Росіяни вбили п'ятьох цивільних на Харківщині](https://ua.korrespondent.net/ukraine/4901456-rosiiany-vbyly-piatokh-tsyvilnykh-na-kharkivschyni)<br>
+09:53 [ЗСУ знищили командний пункт комплексу ППО росіян](https://ua.korrespondent.net/ukraine/4901454-zsu-znyschyly-komandnyi-punkt-kompleksu-ppo-rosiian)<br>
+09:47 [У Татарстані заявили про "12 загиблих" після атаки дронів](https://ua.korrespondent.net/world/russia/4901452-u-tatarstani-zaiavyly-pro-12-zahyblykh-pislia-ataky-droniv)<br>
+09:34 [Укренерго повідомило, де сталися нові відключення](https://ua.korrespondent.net/ukraine/4901449-ukrenerho-povidomylo-de-stalysia-novi-vidkluichennia)<br>
+09:24 [У Херсоні дрон РФ поцілив у таксі, є загиблий](https://ua.korrespondent.net/ukraine/4901443-u-khersoni-dron-rf-potsilyv-u-taksi-ye-zahyblyi)<br>
+09:01 [На Харківщині через обстріли постраждали дев’ятеро людей](https://ua.korrespondent.net/ukraine/4901437-na-kharkivschyni-cherez-obstrily-postrazhdaly-deviatero-luidei)<br>
+08:41 [Удари по Донеччині: четверо поранених](https://ua.korrespondent.net/ukraine/4901432-udary-po-donechchyni-chetvero-poranenykh)<br>
+08:30 [РФ атакувала Україну дронами і ракетою: є влучання](https://ua.korrespondent.net/ukraine/4901430-rf-atakuvala-ukrainu-dronamy-i-raketoui-ye-vluchannia)<br>
+08:20 [РФ найбільше атакує на двох напрямках - Генштаб](https://ua.korrespondent.net/ukraine/4901426-rf-naibilshe-atakuie-na-dvokh-napriamkakh-henshtab)<br>
 07:57 [Удар КАБами по Сумах: кількість постраждалих зросла до 14](https://ua.korrespondent.net/ukraine/4901421-udar-kabamy-po-sumakh-kilkist-postrazhdalykh-zrosla-do-14)<br>
 07:39 [У Перу повідомили про загибель 11 своїх громадян у війні РФ проти України](https://ua.korrespondent.net/world/4901419-u-peru-povidomyly-pro-zahybel-11-svoikh-hromadian-u-viini-rf-proty-ukrainy)<br>
 07:19 [Дрони атакували Татарстан: під ударом НПЗ](https://ua.korrespondent.net/world/russia/4901416-drony-atakuvaly-tatarstan-pid-udarom-npz)<br>
@@ -14,7 +24,27 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 01:20 [РФ атакувала Запоріжя: у місті пожежа](https://ua.korrespondent.net/city/zaporozhye/4901387-rf-atakuvala-zaporizhia-u-misti-pozhezha)<br>
 00:21 [На Запоріжжі від повторного удару загинув рятувальник](https://ua.korrespondent.net/ukraine/4901383-na-zaporizhzhi-vid-povtornoho-udaru-zahynuv-riatuvalnyk)<br>
 
+## as.com
+08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
+
 ## www.elperiodico.com
+10:05 [Mònica Gascón, vecina de Girona, denuncia un "calvario burocrático" para registrar cuatro gallinas para autoconsumo](https://www.elperiodico.com/es/sociedad/20260810/monica-gascon-vecina-girona-denuncia-calvario-burocratico-registrar-gallinas-133121561)<br>
+10:02 [Meliá critica los controles a Italia y advierte de que Cataluña será uno de los destinos más perjudicados](https://www.elperiodico.com/es/economia/20260810/melia-critica-controles-italia-advierte-cataluna-destinos-perjudicados-133227252)<br>
+10:02 [Tiroteo en L’Hospitalet: un hombre dispara al aire en plena calle durante una discusión](https://www.elperiodico.com/es/barcelona/hospitalet/20260810/tiroteo-hospitalet-dispara-aire-pistola-133226627)<br>
+10:00 [Viejo, antiguo, patrimonio o basura](https://www.elperiodico.com/es/opinion/20260810/carteles-comerciales-articulo-juli-capella-133215540)<br>
+09:58 [Al menos 12 muertos y 39 heridos tras uno de los ataques más mortíferos de Ucrania en Rusia](https://www.elperiodico.com/es/internacional/20260810/12-muertos-39-heridos-ataques-133227116)<br>
+09:51 [Precio del petróleo hoy, 10 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260810/precio-petroleo-hoy-10-agosto-dv-133226473)<br>
+09:45 [Rotura del manguito rotador: qué es y cuándo se necesita cirugía](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/rotura-manguito-rotador-necesita-cirugia/130085161.shtml)<br>
+09:44 [Incendios hoy, 10 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260810/incendios-hoy-10-agosto-ultima-hora-cataluna-espana-mapa-fuegos-activos-dv-133226960)<br>
+09:31 [El tifón Dolphin deja lluvias récord y más de 1,6 millones de evacuados en China](https://www.elperiodico.com/es/internacional/20260810/tifon-dolphin-lluvias-record-1-6-millones-evacuados-china-133226638)<br>
+09:30 [El este de China, en alerta máxima ante la llegada del tifón Dolphin](https://www.elperiodico.com/es/videos/internacional/este-china-alerta-maxima-llegada-tifon-dolphin-video/133226576.shtml)<br>
+09:04 [El Ibex 35 amanece en rojo y se aleja de máximos con el petróleo al alza](https://www.elperiodico.com/es/economia/20260810/ibex-35-amanece-rojo-aleja-133226029)<br>
+09:01 [Nuria Moliner, arquitecta: "La Barcelona del futuro debemos imaginarla más espontánea y más natural, en la que brotase la vegetación por todas partes, de todas las formas posibles"](https://www.elperiodico.com/es/sociedad/20260810/nuria-moliner-arquitecta-barcelona-futuro-dv-et-133173388)<br>
+09:00 [Así es la vida del actor Quim Gutiérrez (45 años) viviendo en el campo: "A mí me ha ocurrido una cosa fantástica, que es que en mi pueblo no me conoce mucha gente"](https://www.elperiodico.com/es/gente/20260810/actor-quim-gutierrez-vida-monte-lejos-fama-ciudad-dv-et-133121255)<br>
+08:43 [Un grupo de ciberdelincuencia de Corea del Norte desarrolla herramientas de IA para automatizar ciberataques](https://www.elperiodico.com/es/internacional/20260810/grupo-ciberdelincuencia-corea-norte-desarrolla-ia-sistematizar-ciberataques-133225671)<br>
+08:43 [Multa de 47.200 euros por alquilar a 13 personas un piso que es para seis en Mallorca](https://www.elperiodico.com/es/economia/20260810/vivienda-mallorca-multa-47-200-euros-alquilar-133225634)<br>
+08:40 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260810/ultima-hora-incendios-espana-directo-132759066)<br>
+08:25 [Silvia Vidal, psicóloga, alerta: "El calor extremo altera el cuerpo de formas idénticas a la ansiedad"](https://www.elperiodico.com/es/ser-feliz/20260810/calor-extremo-ansiedad-psicologa-silvia-vidal-dv-et-133136529)<br>
 08:02 [Devuelven a una biblioteca de Australia un libro con 150 años de retraso](https://www.elperiodico.com/es/ocio-y-cultura/20260810/devuelven-biblioteca-australia-libro-150-133225248)<br>
 08:00 [Miguel Perlado, psicólogo: "Un eclipse nos abre las puertas hacia la experiencia espiritual"](https://www.elperiodico.com/es/ser-feliz/20260810/miguel-perlado-psicologo-eclipse-abre-131691909)<br>
 07:02 [El eclipse total de Sol que oscurecerá España el 12 de agosto: hora, mapa y mejores lugares para verlo](https://www.elperiodico.com/es/videos/sociedad/eclipse-total-sol-espana/133224470.shtml)<br>
