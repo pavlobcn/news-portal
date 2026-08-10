@@ -1,5 +1,77 @@
 [
   {
+    "title": "Agresión homófoba en Alicante: “Las niñas están muy afectadas. Han vuelto al médico por nuevas secuelas de la agresión”",
+    "link": "https://www.elperiodico.com/es/sucesos/20260810/agresion-homofoba-alicante-ninas-afectadas-133249228",
+    "pubDate": "2026-08-10 22:01:40",
+    "category": "",
+    "description": "<h2>Las víctimas de la agresión homófoba en Benialí presentan denuncias y buscan abogados mientras reviven el ataque sufrido en las fiestas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака РФ на Криворіжжя: загинув 15-річний хлопець",
+    "link": "https://ua.korrespondent.net/ukraine/4901680-ataka-rf-na-kryvorizhzhia-zahynuv-15-richnyi-khlopets",
+    "pubDate": "2026-08-10 21:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524513.jpg\">Російські війська атакували Грушівську громаду Криворізького району. Загинув 15-річний хлопець, ще двоє підлітків отримали поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Españoles en el terremoto de Colombia: Se da por hecho que el goteo de víctimas no dejará de crecer y el balance oficial supera ya el centenar",
+    "link": "https://www.elperiodico.com/es/videos/internacional/espanoles-terremoto-colombia-da-hecho/133248822.shtml",
+    "pubDate": "2026-08-10 21:45:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сотні тисяч туристів їдуть на затемнення: Іспанія б’є на сполох",
+    "link": "https://ua.korrespondent.net/world/4901678-sotni-tysiach-turystiv-yidut-na-zatemnennia-ispaniia-bie-na-spolokh",
+    "pubDate": "2026-08-10 21:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524500.jpg\">Іспанія готується до повного сонячного затемнення 12 серпня, але разом із напливом туристів зростає і ризик лісових пожеж через спеку та посуху.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "América Latina se vuelca en apoyo de Colombia",
+    "link": "https://www.elperiodico.com/es/internacional/20260810/america-latina-vuelca-apoyo-colombia-133248642",
+    "pubDate": "2026-08-10 21:31:04",
+    "category": "",
+    "description": "<h2>Líderes de la región expresan su solidaridad con el Gobierno y el pueblo colombiano, al tiempo que países como Venezuela o Chile ofrecen equipos de rescate  </h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Понад 6 тисяч дронів: ситуація на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4901674-ponad-6-tysiach-droniv-sytuatsiia-na-fronti",
+    "pubDate": "2026-08-10 21:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524499.jpg\">Російські війська активно атакували на Покровському та Костянтинівському напрямках, застосувавши тисячі дронів і 180 керованих авіабомб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El motivo por el que los parabrisas de los coches se rompen más en verano",
+    "link": "https://www.elperiodico.com/es/motor/20260810/motivo-parabrisas-coches-rompen-verano-133169928",
+    "pubDate": "2026-08-10 21:15:51",
+    "category": "",
+    "description": "<h2>Las altas temperaturas, la degradación del asfalto y los bruscos cambios térmicos al encender el aire acondicionado multiplican el riesgo de rotura </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El incendio de Niebla, en Huelva, vuelve a dejar vacío y con \"mucha incertidumbre\" a El Madroño: \"Estamos con las carnes abiertas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/incendio-niebla-huelva-vuelve-vacio-133248509",
+    "pubDate": "2026-08-10 21:14:40",
+    "category": "",
+    "description": "<h2>Varios pueblos de Sevilla han tenido que ser desalojados por las autoridades este pasado lunes a mediodía, justo 22 años después de otro fuego que arrasó miles de hectáreas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo",
     "link": "https://www.elperiodico.com/es/videos/economia/padres-hijos-menores-12-anos/133248386.shtml",
     "pubDate": "2026-08-10 21:09:26",

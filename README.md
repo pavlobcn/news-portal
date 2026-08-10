@@ -1,8 +1,11 @@
-# News for 2026-08-10 21:14
+# News for 2026-08-10 22:05
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+21:59 [Атака РФ на Криворіжжя: загинув 15-річний хлопець](https://ua.korrespondent.net/ukraine/4901680-ataka-rf-na-kryvorizhzhia-zahynuv-15-richnyi-khlopets)<br>
+21:43 [Сотні тисяч туристів їдуть на затемнення: Іспанія б’є на сполох](https://ua.korrespondent.net/world/4901678-sotni-tysiach-turystiv-yidut-na-zatemnennia-ispaniia-bie-na-spolokh)<br>
+21:25 [Понад 6 тисяч дронів: ситуація на фронті](https://ua.korrespondent.net/ukraine/4901674-ponad-6-tysiach-droniv-sytuatsiia-na-fronti)<br>
 19:37 [Xiaomi представила нові смартфони Redmi 17](https://ua.korrespondent.net/lifestyle/gadgets/4901645-Xiaomi-predstavyla-novi-smartfony-Redmi-17)<br>
 19:37 [Посилення ракетних атак. РФ нарощує можливості](https://ua.korrespondent.net/ukraine/4901642-posylennia-raketnykh-atak-rf-naroschuie-mozhlyvosti)<br>
 19:29 [На Львівщині дитина не приходить до тями після утоплення у басейні](https://ua.korrespondent.net/ukraine/4901643-na-lvivschyni-dytyna-ne-prykhodyt-do-tiamy-pislia-utoplennia-u-baseini)<br>
@@ -82,6 +85,9 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:01 [Agresión homófoba en Alicante: “Las niñas están muy afectadas. Han vuelto al médico por nuevas secuelas de la agresión”](https://www.elperiodico.com/es/sucesos/20260810/agresion-homofoba-alicante-ninas-afectadas-133249228)<br>
+21:45 [Españoles en el terremoto de Colombia: Se da por hecho que el goteo de víctimas no dejará de crecer y el balance oficial supera ya el centenar](https://www.elperiodico.com/es/videos/internacional/espanoles-terremoto-colombia-da-hecho/133248822.shtml)<br>
+21:14 [El incendio de Niebla, en Huelva, vuelve a dejar vacío y con "mucha incertidumbre" a El Madroño: "Estamos con las carnes abiertas"](https://www.elperiodico.com/es/sociedad/20260810/incendio-niebla-huelva-vuelve-vacio-133248509)<br>
 21:09 [Los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo](https://www.elperiodico.com/es/videos/economia/padres-hijos-menores-12-anos/133248386.shtml)<br>
 20:59 [Las plazas MIR de Medicina aumentarán un 4% en el examen de 2027](https://www.elperiodico.com/es/sociedad/20260810/plazas-mir-medicina-aumentan-4-2027-133247956)<br>
 20:49 [Barcelona blindará el Arc de Triomf con una barrera de bolardos para impedir un atentado como el del 17A](https://www.elperiodico.com/es/videos/barcelona/barcelona-blindara-arc-triomf-barrera/133247913.shtml)<br>
