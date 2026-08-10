@@ -1,8 +1,9 @@
-# News for 2026-08-10 18:13
+# News for 2026-08-10 19:12
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+18:59 [Витік з "тіньового" танкера біля Оману: пляма наблизилася до узбережжя](https://ua.korrespondent.net/world/4901640-vytik-z-tinovoho-tankera-bilia-omanu-pliama-nablyzylasia-do-uzberezhzhia)<br>
 18:05 [Колумбію та Еквадор потряс сильний землетрус](https://ua.korrespondent.net/world/4901624-kolumbiui-ta-ekvador-potrias-sylnyi-zemletrus)<br>
 17:39 [14 мостів, ППО та авіабази: Міноборони назвало цілі middle strike](https://ua.korrespondent.net/ukraine/4901619-14-mostiv-ppo-ta-aviabazy-minoborony-nazvalo-tsili-middle-strike)<br>
 17:08 [Вибухи на військовому заводі в Болгарії: названо попередню причину](https://ua.korrespondent.net/world/4901612-vybukhy-na-viiskovomu-zavodi-v-bolharii-nazvano-poperednui-prychynu)<br>
@@ -77,6 +78,16 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:03 [Los pájaros dodo eran más inteligentes de lo que imaginábamos](https://www.elperiodico.com/es/tendencias21/20260810/pajaros-dodo-inteligentes-imaginabamos-133245509)<br>
+19:00 [Deberes por placer y pasatiempos criminales: los adultos siguen enganchados a los cuadernos de verano](https://www.elperiodico.com/es/ocio-y-cultura/20260810/deberes-placer-pasatiempos-criminales-cuadernos-adultos-verano-133175950)<br>
+18:59 [¿Desde dónde seguir el eclipse en 'streaming'? Un despliegue de señales permitirá seguir el evento desde distintos puntos de España](https://www.elperiodico.com/es/sociedad/20260810/eclipse-directo-senales-espana-12-agosto-streaming-133179235)<br>
+18:53 [Más de una docena de detenidos en A Coruña, entre ellos un guardia civil, tras el decomiso de 1,5 toneladas de cocaína](https://www.elperiodico.com/es/sucesos/20260810/docena-detenidos-coruna-guardia-civil-decomiso-1-5-toneladas-cocaina-133245245)<br>
+18:40 [Así se ha vivido en Pereira y Cali el terremoto de magnitud 7,4 en Colombia](https://www.elperiodico.com/es/videos/internacional/vivido-pereira-cali-terremoto-magnitud/133244717.shtml)<br>
+18:34 [Enes Kanter reclama oficialmente jugar como mujer en la WNBA femenina](https://www.elperiodico.com/es/deportes/20260810/enes-kanter-reclama-oficialmente-jugar-133244269)<br>
+18:18 [Graves daños en el aeropuerto de Pereira tras el sismo de magnitud 7,4](https://www.elperiodico.com/es/videos/internacional/graves-danos-aeropuerto-pereira-sismo/133243952.shtml)<br>
+18:18 [VÍDEO | Graban por primera vez en el Mediterráneo el intento de cópula de dos tiburones azules frente a Badalona](https://www.elperiodico.com/es/barcelona/badalona/20260810/graban-cortejo-tiburones-azules-tintoreras-intento-copula-badalona-133242758)<br>
+18:16 [Graban por primera vez en el Mediterráneo el cortejo de dos tiburones azules frente a Badalona](https://www.elperiodico.com/es/videos/barcelona/graban-primera-vez-mediterraneo-cortejo/133242483.shtml)<br>
+18:15 [Los alumnos daneses deberán presentar sus trabajos de forma oral para combatir las "trampas" de la IA](https://www.elperiodico.com/es/sociedad/20260810/comienza-curso-escolar-dinamarca-nuevas-medidas-inteligencia-artificial-133227528)<br>
 18:11 [Muere un hombre de 83 años ahogado en la playa Nova de Roses](https://www.elperiodico.com/es/sociedad/20260810/muere-hombre-83-anos-ahogado-playa-nova-roses-133243359)<br>
 18:08 [Núria Rial, el último regalo del verano en el Festival Perelada](https://www.elperiodico.com/es/ocio-y-cultura/20260810/nuria-rial-ultimo-regalo-verano-festival-perelada-133242468)<br>
 18:04 [Pedro Porro se compromete con María Hurtado con una romántica pedida frente al mar](https://www.elperiodico.com/es/gente/20260810/pedro-porro-compromete-maria-hurtado-relacion-pedida-133242993)<br>
