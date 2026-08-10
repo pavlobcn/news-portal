@@ -1,5 +1,185 @@
 [
   {
+    "title": "Los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo",
+    "link": "https://www.elperiodico.com/es/videos/economia/padres-hijos-menores-12-anos/133248386.shtml",
+    "pubDate": "2026-08-10 21:09:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PSOE recuerda a Meloni que la inmigración irregular ha caído un 37% en 2026 y que migración no equivale a delincuencia",
+    "link": "https://www.elperiodico.com/es/politica/20260810/psoe-recuerda-meloni-inmigracion-irregular-133248379",
+    "pubDate": "2026-08-10 21:08:22",
+    "category": "",
+    "description": "<h2 class=\"item\">La entrada de extranjeros irregulares en la UE ha caído un 37% en el primer semestre de 2026</h2><h2 class=\"item\">El Gobierno ya recordó a Italia que registra el doble de entradas de 'ilegales' que España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЛНЗ непристойно програв Карпатам на старті чемпіонату",
+    "link": "https://ua.korrespondent.net/sport/football/4901669-lnz-neprystoino-prohrav-karpatam-na-starti-chempionatu",
+    "pubDate": "2026-08-10 21:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524403.jpg\">Черкаська команда зазнала поразки із сухим рахунком від суперників на футбольному полі в рамках проведення другого туру УПЛ.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Turquía ha cerrado un pacto de defensa colectiva con Riad e Islamabad: ¿tiene la OTAN que salir al rescate de Ankara si es atacada por defenderlos?",
+    "link": "https://www.elperiodico.com/es/internacional/20260810/acuerdo-defensa-colectiva-turquia-pakistan-arabia-saudi-implicaciones-otan-133248272",
+    "pubDate": "2026-08-10 21:02:34",
+    "category": "",
+    "description": "<h2>Los ataque iraníes de los últimos meses contra Arabia Saudí y la continuidad de la guerra convierten la pregunta en algo más que un escenario hipotético  </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las plazas MIR de Medicina aumentarán un 4% en el examen de 2027",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/plazas-mir-medicina-aumentan-4-2027-133247956",
+    "pubDate": "2026-08-10 20:59:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Sanidad oferta en total 12.850 plazas de Formación Sanitaria Especializada, un 3,9% más</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mazda анонсувала CX-3 нового покоління",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4901666-Mazda-anonsuvala-CX-3-novoho-pokolinnia",
+    "pubDate": "2026-08-10 20:58:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524475.jpg\">Компактний кросовер стане глобальною моделлю та почне виходити на світові ринки з 2027 року. Очікується, що в Європі новинка конкуруватиме з Ford Puma та Nissan Juke.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona blindará el Arc de Triomf con una barrera de bolardos para impedir un atentado como el del 17A",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/barcelona-blindara-arc-triomf-barrera/133247913.shtml",
+    "pubDate": "2026-08-10 20:49:48",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Канада ввела санкції проти виробника бронетехніки для РФ",
+    "link": "https://ua.korrespondent.net/world/4901659-kanada-vvela-sanktsii-proty-vyrobnyka-bronetekhniky-dlia-rf",
+    "pubDate": "2026-08-10 20:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524452.jpg\">Канада запровадила санкції проти оборонної компанії Streit Group, чиї броньовані машини використовує Росгвардія у війні проти України.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Dodge представив екстремальну версію Charger Super Bee",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4901664-Dodge-predstavyv-ekstremalnu-versiui-Charger-Super-Bee",
+    "pubDate": "2026-08-10 20:42:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524454.jpg\">Тираж особливо потужної спортивної версії маслкара Charger Super Bee Launch Edition буде обмеженим, поставки розпочнуться наступного року.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España logra una meritoria sexta plaza en el 4x200 con un equipo de futuro",
+    "link": "https://www.elperiodico.com/es/deportes/20260810/espana-logra-meritoria-sexta-plaza-133247527",
+    "pubDate": "2026-08-10 20:38:00",
+    "category": "",
+    "description": "<h2>Las españolas Ainhoa Campabadal, María Daza, Irene Ciércoles Alba Herrero, lucharon por el podio durante buena parte de la prueba</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un vertido de aguas residuales mata a cientos de peces en el río Ripoll a su paso por Sabadell",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/vertido-aguas-residuales-mata-decenas-peces-rio-ripoll-sabadell-133247335",
+    "pubDate": "2026-08-10 20:37:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento asegura que ha habido una incidencia por la obstrucción de un rebosadero</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260725/obras-socavon-montcada-impactan-potabilizacion-besos-132773191\">El socavón de Montcada impacta en la potabilización del Besòs</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260607/3-000-personas-manifiestan-sabadell-rio-ripoll-131123055\">Unas 3.000 personas se manifiestan en Sabadell \"en defensa del río Ripoll\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los despidos colectivos aumentan un 15,6% hasta mayo y Catalunya es la comunidad más castigada",
+    "link": "https://www.elperiodico.com/es/economia/20260810/despidos-colectivos-aumentan-15-6-133247585",
+    "pubDate": "2026-08-10 20:33:22",
+    "category": "",
+    "description": "<h2>El sector servicios concentra siete de cada diez de los ERE registrados en los cinco primeros meses del año y marzo fue el mes con mayor volumen</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El eclipse dispara el precio de los coches de alquiler por encima de 600 euros al día en Madrid y Barcelona: \"No hay disponibilidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/eclipse-dispara-precio-coches-alquiler-madrid-barcelona-133240047",
+    "pubDate": "2026-08-10 20:30:54",
+    "category": "",
+    "description": "<h2 class=\"item\">“No hay ninguno, intente venir mañana a ver”, dicen en un servicio de 'renting' de la estación de Atocha</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260810/eclipse-solar-directo-hora-espana-133133160\">Eclipse solar, en directo: cuándo es, hora en España, dónde ver, cómo comprar gafas homologadas y última hora del fenómeno astronómico del 12 de agosto</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260810/eclipse-solar-agosto-noche-perseidas-espectaculo-astronomico-unico-129495516\" target=\"_blank\">El 'eclipse del siglo' del 12 de agosto coincidirá con el momento álgido de lluvia de estrellas de las Perseidas</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "David Céspedes, experto en longevidad: \"Si tus padres tienen entre 50 y 60 años y no hacen deporte, no van a ser independientes cuando tengan 70\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260810/david-cespedes-experto-longevidad-padres-deporte-dv-133123904",
+    "pubDate": "2026-08-10 20:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El doctor David Céspedes ha señalado cuál es la rutina de ejercicio más eficiente para las personas mayores de 50 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260502/entrenar-sarcopenia-tercera-edad-estetica-bano-levantarse-solo-dv-128799551\">Entrenar para evitar la sarcopenia y no por estética: \"El músculo te va a permitir jugar con tus nietos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una niña escribe una carta hace 60 años en la que predice avances tecnológicos",
+    "link": "https://www.elperiodico.com/es/educacion/20260810/avances-tecnologicos-carta-nina-60-anos-dv-et-132551752",
+    "pubDate": "2026-08-10 20:29:18",
+    "category": "",
+    "description": "<h2 class=\"item\">La menor, a la que se está intentando localizar para hablar con ella, imaginó cómo sería el mundo en 1980</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260709/profesion-quieren-dedicar-ninos-de-ahora-trabajo-sonado-dv-132249746\">Ni médico ni futbolista: esta es la profesión a la que se quieren dedicar los niños en 2026</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Preocupación por el impacto del socavón de Montcada en el Rec Comtal: \"El hormigón es su peor enemigo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/preocupacion-impacto-socavon-montcada-rec-comtal-hormigon-peor-enemigo-133231265",
+    "pubDate": "2026-08-10 20:22:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Vecinos y expertos en patrimonio ven inadmisible que Adif dejara enterrada una excavadora en la cavidad tapada, sin estudiar el riesgo de filtraciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260723/adif-senala-aguas-freaticas-zona-posible-origen-socavon-soterramiento-montcada-132723796\">El socavón de las obras de Montcada se hizo mayor con el agua del Rec Comtal</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260725/obras-socavon-montcada-impactan-potabilizacion-besos-132773191\">El socavón de Montcada impacta en la potabilización del Besòs</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hélène Colinet, profesora, da la clave para aprender un nuevo idioma: \"No es hacer menos, es hacer en el orden correcto\"",
+    "link": "https://www.elperiodico.com/es/educacion/20260810/aprendizaje-idiomas-lenguas-cerebro-profesora-helene-colinet-dv-et-133140085",
+    "pubDate": "2026-08-10 20:15:59",
+    "category": "",
+    "description": "<h2 class=\"item\">La lingüista explica por qué se comprende mucho más de un idioma extrangero de lo que se consigue expresar oralmente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260429/alumnos-cataluna-suspenso-ingles-final-eso-pese-decada-estudio-idioma-escuela-128313050\" >Los alumnos catalanes acaban la ESO con un nivel insuficiente de inglés pese a llevar 10 años estudiándolo en la escuela</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260523/error-familias-cometen-ingles-academia-130139274\" >El error que muchas familias cometen con el inglés: más academia no siempre ayuda</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Samuel Prieto, experto en seguridad: \"Dejar la llave echada no aporta más seguridad, puede ser incluso contraproducente\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/samuel-prieto-experto-llave-echada-no-seguridad-dv-133142517",
+    "pubDate": "2026-08-10 20:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El profesional del Instituto Superior de Seguridad Pública ha explicado que este gesto no es más que una falsa sensación de seguridad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/llave-puesta-noche-bomberos-emergencia-dv-et-132726550\">El aviso de los bomberos: por qué nunca debes dejar la llave puesta por la noche</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Araujo ya viste de rojo con el Liverpool tras dejar el Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260810/araujo-viste-rojo-liverpool-barca-133246146",
+    "pubDate": "2026-08-10 20:11:06",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260808/ronald-araujo-jugara-ano-liverpool-133187196\">Ronald Araujo jugará un año en el Liverpool cedido por el Barça</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський заявив про новий дипстрайк у Тобольську",
+    "link": "https://ua.korrespondent.net/ukraine/4901656-zelenskyi-zaiavyv-pro-novyi-dypstraik-u-tobolsku",
+    "pubDate": "2026-08-10 20:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524441.jpg\">Українські Сили оборони уразили об’єкт російської нафтопереробної галузі в Тобольську. За словами Володимира Зеленського, відстань до цілі перевищує 2,5 тисячі кілометрів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El Barça jugará contra el Montpellier en pleno eclipse: gafas para los espectadores y medidas de seguridad para las jugadoras",
     "link": "https://www.elperiodico.com/es/deportes/20260810/barca-medira-montpellier-partido-pretemporada-eclipse-133231059",
     "pubDate": "2026-08-10 20:00:19",

@@ -1,4 +1,4 @@
-# News for 2026-08-10 20:06
+# News for 2026-08-10 21:14
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
@@ -82,6 +82,16 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:09 [Los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo](https://www.elperiodico.com/es/videos/economia/padres-hijos-menores-12-anos/133248386.shtml)<br>
+20:59 [Las plazas MIR de Medicina aumentarán un 4% en el examen de 2027](https://www.elperiodico.com/es/sociedad/20260810/plazas-mir-medicina-aumentan-4-2027-133247956)<br>
+20:49 [Barcelona blindará el Arc de Triomf con una barrera de bolardos para impedir un atentado como el del 17A](https://www.elperiodico.com/es/videos/barcelona/barcelona-blindara-arc-triomf-barrera/133247913.shtml)<br>
+20:37 [Un vertido de aguas residuales mata a cientos de peces en el río Ripoll a su paso por Sabadell](https://www.elperiodico.com/es/sociedad/20260810/vertido-aguas-residuales-mata-decenas-peces-rio-ripoll-sabadell-133247335)<br>
+20:33 [Los despidos colectivos aumentan un 15,6% hasta mayo y Catalunya es la comunidad más castigada](https://www.elperiodico.com/es/economia/20260810/despidos-colectivos-aumentan-15-6-133247585)<br>
+20:30 [David Céspedes, experto en longevidad: "Si tus padres tienen entre 50 y 60 años y no hacen deporte, no van a ser independientes cuando tengan 70"](https://www.elperiodico.com/es/vida-y-estilo/20260810/david-cespedes-experto-longevidad-padres-deporte-dv-133123904)<br>
+20:29 [Una niña escribe una carta hace 60 años en la que predice avances tecnológicos](https://www.elperiodico.com/es/educacion/20260810/avances-tecnologicos-carta-nina-60-anos-dv-et-132551752)<br>
+20:22 [Preocupación por el impacto del socavón de Montcada en el Rec Comtal: "El hormigón es su peor enemigo"](https://www.elperiodico.com/es/sociedad/20260810/preocupacion-impacto-socavon-montcada-rec-comtal-hormigon-peor-enemigo-133231265)<br>
+20:15 [Hélène Colinet, profesora, da la clave para aprender un nuevo idioma: "No es hacer menos, es hacer en el orden correcto"](https://www.elperiodico.com/es/educacion/20260810/aprendizaje-idiomas-lenguas-cerebro-profesora-helene-colinet-dv-et-133140085)<br>
+20:15 [Samuel Prieto, experto en seguridad: "Dejar la llave echada no aporta más seguridad, puede ser incluso contraproducente"](https://www.elperiodico.com/es/sociedad/20260810/samuel-prieto-experto-llave-echada-no-seguridad-dv-133142517)<br>
 20:00 [¿Qué tipo de nubes complicarían la visibilidad del eclipse de sol y cuáles resultarían más "inofensivas" para la observación del fenómeno?](https://www.elperiodico.com/es/sociedad/20260810/nubes-visibilidad-eclipse-explicacion-133233557)<br>
 20:00 [Alfonso Muñoz, funcionario de la Seguridad Social, revela cuál es el mejor momento para solicitar la jubilación anticipada](https://www.elperiodico.com/es/economia/20260810/alfonso-munoz-funcionario-seguridad-social-jubilacion-anticipada-dv-et-133174076)<br>
 19:57 [El Consulado de España en Colombia, pendiente del terremoto y de los españoles que puedan ser afectados](https://www.elperiodico.com/es/politica/20260810/consulado-espana-colombia-pendiente-terremoto-espanoles-afectados-133246894)<br>
