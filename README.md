@@ -1,8 +1,11 @@
-# News for 2026-08-10 16:05
+# News for 2026-08-10 16:41
 
 Previous day: [2026-08-09](./data/2026-08-09.md)
 
 ## ua.korrespondent.net
+16:27 [Лікарку військової поліклініки викрили на хабарі](https://ua.korrespondent.net/ukraine/4901601-likarku-viiskovoi-polikliniky-vykryly-na-khabari)<br>
+16:22 [Українські рятувальники зупинили лісову пожежу у Франції](https://ua.korrespondent.net/ukraine/4901599-ukrainski-riatuvalnyky-zupynyly-lisovu-pozhezhu-u-frantsii)<br>
+16:10 [ШІ "звільнив" чуже місце у спортзалі, щоб записати власника](https://ua.korrespondent.net/tech/technews/4901565-shi-zvilnyv-chuzhe-mistse-u-sportzali-schob-zapysaty-vlasnyka)<br>
 15:57 [Росіяни вдарили по Нікополю, є загиблий](https://ua.korrespondent.net/ukraine/4901587-rosiiany-vdaryly-po-nikopolui-ye-zahyblyi)<br>
 15:56 [Спалив авто Героя України та готував вбивство: агент РФ отримав 15 років](https://ua.korrespondent.net/ukraine/4901586-spalyv-avto-heroia-ukrainy-ta-hotuvav-vbyvstvo-ahent-rf-otrymav-15-rokiv)<br>
 15:49 [Нова хвиля мобілізації: у РФ побоюються великих втрат і дезертирства](https://ua.korrespondent.net/world/russia/4901584-nova-khvylia-mobilizatsii-u-rf-pobouiuitsia-velykykh-vtrat-i-dezertyrstva)<br>
@@ -61,12 +64,16 @@ Previous day: [2026-08-09](./data/2026-08-09.md)
 00:21 [На Запоріжжі від повторного удару загинув рятувальник](https://ua.korrespondent.net/ukraine/4901383-na-zaporizhzhi-vid-povtornoho-udaru-zahynuv-riatuvalnyk)<br>
 
 ## as.com
+16:21 [Andrej Bjelic sale del Real Madrid para pasar a profesional en el Estrella Roja](https://as.com/baloncesto/euroliga/andrej-bjelic-sale-del-real-madrid-para-pasar-a-profesional-en-el-estrella-roja-f202608-n/)<br>
 08:44 [Lo que le queda al Real Madrid: Ndiaye, un ‘2′ y dos jóvenes](https://as.com/baloncesto/acb/lo-que-le-queda-al-real-madrid-ndiaye-un-2-y-dos-jovenes-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:31 [El riesgo que Laura veía y que los tribunales no supieron detectar: todo lo que falló en el asesinato machista de Asturias](https://www.elperiodico.com/es/sociedad/20260810/fallos-asesinato-laura-cruz-violencia-machista-133232670)<br>
+16:12 [Terremoto de magnitud 7,4 en Colombia, en directo: epicentro, afectación y última hora del temblor](https://www.elperiodico.com/es/internacional/20260810/terremoto-colombia-magnitud-temblor-ultima-hora-directo-133239425)<br>
 16:00 [Colombia es sacudida por un terremoto de 7,4 que provoca graves daños materiales](https://www.elperiodico.com/es/videos/internacional/colombia-sacudida-terremoto-7-4/133239237.shtml)<br>
 16:00 [Barcelona blindará el Arc de Triomf con una barrera de bolardos para impedir un atentado como el del 17A](https://www.elperiodico.com/es/barcelona/20260810/barcelona-17a-atentado-terrorista-arc-triomf-bolardos-133229890)<br>
 16:00 [Alba, propietaria de un piso con 25 años, explica por qué evita alquilar a jubilados: "Buscas gente más o menos con el mismo rol"](https://www.elperiodico.com/es/economia/20260810/alba-propietaria-piso-evitar-alquilar-jubilados-dv-et-133179030)<br>
+16:00 [Las picaduras del verano: cuándo son normales, cuándo hay que ir a urgencias y qué remedios no funcionan](https://www.elperiodico.com/es/salud/20260810/picaduras-verano-cuando-ir-urgencias-remedios-funcionan-132112234)<br>
 15:48 [Un temblor de magnitud 7,4 sacude Colombia con graves daños materiales en varias ciudades](https://www.elperiodico.com/es/videos/internacional/temblor-magnitud-7-4-sacude/133238971.shtml)<br>
 15:45 [Detenida una de las hijas y su pareja como presuntos autores del crimen del matrimonio de Zaragoza](https://www.elperiodico.com/es/videos/sucesos/detenida-hijas-pareja-presuntos-autores/133238941.shtml)<br>
 15:22 [Enjambres de microrrobots eliminan microplásticos del suelo y del agua](https://www.elperiodico.com/es/tendencias21/20260810/enjambres-microrrobots-eliminan-microplasticos-suelo-133238271)<br>
