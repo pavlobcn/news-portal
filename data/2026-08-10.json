@@ -1,5 +1,329 @@
 [
   {
+    "title": "Una de cada cinco viviendas en España afronta el verano sin seguro, con mayor desprotección en las zonas rurales",
+    "link": "https://www.elperiodico.com/es/economia/20260810/una-cada-cinco-viviendas-espana-sin-seguro-hogar-133230394",
+    "pubDate": "2026-08-10 11:45:53",
+    "category": "",
+    "description": "<h2>Las segundas residencias y las casas ya pagadas concentran buena parte de los inmuebles sin cobertura</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під Києвом викрили склад контрафактних сигарет",
+    "link": "https://ua.korrespondent.net/ukraine/4901497-pid-kyievom-vykryly-sklad-kontrafaktnykh-syharet",
+    "pubDate": "2026-08-10 11:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524032.jpg\">У фігурантів вилучили понад 148 000 пачок сигарет без акцизних марок, понад 1500 літрів етилового спирту та 550 літрів готового алкоголю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Robert Lewandowski vuelve a sentirse importante en Chicago mientras el Barça sigue buscando un 'nueve'",
+    "link": "https://www.elperiodico.com/es/deportes/20260810/robert-lewandowski-chicago-fire-gol-importante-133227915",
+    "pubDate": "2026-08-10 11:40:52",
+    "category": "",
+    "description": "<h2>El atacante de 37 años anotó el tercer gol de su equipo para certificar la victoria ante el Santos mexicano</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Luca Hoek, la gran esperanza adolescente de la natación española: \"He ganado entre cinco y siete kilos de músculo. Eso se nota\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260810/luca-hoek-gran-esperanza-adolescente-133228313",
+    "pubDate": "2026-08-10 11:38:22",
+    "category": "",
+    "description": "<h2>A sus 18 años, el nadador de Sitges, de padre neerlandés y madre francesa, no se pone límites para los Campeonatos de Europa de París</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya estudia impulsar una compañía nacional de teatro",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260810/catalunya-estudia-impulsar-compania-nacional-teatro-133229961",
+    "pubDate": "2026-08-10 11:36:44",
+    "category": "",
+    "description": "<h2>La consellera de Cultura sostiene que en el análisis de la iniciativa habrá que hablar con el TNC y el Mercat de les Flors</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські зірки вразили образами на фестивалі Вирій",
+    "link": "https://ua.korrespondent.net/lifestyle/4901434-ukrainski-zirky-vrazyly-obrazamy-na-festyvali-vyrii",
+    "pubDate": "2026-08-10 11:27:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523867.jpg\">Фестиваль Вирій запам'ятався яскравими вбраннями українських зірок, які поєднали традиційні мотиви із сучасними трендами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рейтинг Трампа впав до нового мінімуму через війну з Іраном",
+    "link": "https://ua.korrespondent.net/world/4901493-reitynh-trampa-vpav-do-novoho-minimumu-cherez-viinu-z-iranom",
+    "pubDate": "2026-08-10 11:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524012.jpg\">Падіння рейтингу глави Білого дому посилює ризики для Республіканської партії напередодні проміжних виборів до Конгресу.",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Defensa cancela todos los permisos y libranzas de los militares en Ceuta en previsión de nuevas entradas masivas de migrantes",
+    "link": "https://www.elperiodico.com/es/politica/20260810/ministerio-defensa-cancela-permisos-libranzas-ceuta-133229610",
+    "pubDate": "2026-08-10 11:23:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Más de 2.000 militares de diversas unidades patrullan la ciudad autónoma en apoyo de las Fuerzas y Cuerpos de Seguridad del Estado</h2><h2 class=\"item\">Última hora de Ceuta y Melilla, en directo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Долар і євро зросли в обмінниках на початку тижня",
+    "link": "https://ua.korrespondent.net/business/financial/4901491-dolar-i-yevro-zrosly-v-obminnykakh-na-pochatku-tyzhnia",
+    "pubDate": "2026-08-10 11:21:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524013.jpg\">Середній курс продажу долара зріс до 44,85 гривні, а курс продажу євро піднявся до 51,80 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ман Сіті готує трансфер одного з найяскравіших талантів Європи",
+    "link": "https://ua.korrespondent.net/sport/football/4901486-man-siti-hotuie-transfer-odnoho-z-naiiaskravishykh-talantiv-yevropy",
+    "pubDate": "2026-08-10 11:17:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523991.jpg\">За інформацією джерел, англійський гранд уже повністю узгодив умови особистого контракту з французьким талантом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни скинули КАБ на Запоріжжя: є постраждалі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4901489-rosiiany-skynuly-kab-na-zaporizhzhia-ye-postrazhdali",
+    "pubDate": "2026-08-10 11:16:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524002.jpg\">Щонайменше  троє  людей дістали  поранень  внаслідок  російського  авіаудару  по  Запоріжжю.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Brunch Electronik Festival cierra su cuarta edición con 70.000 asistentes y un 80% de público local",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260810/brunch-electronik-festival-cierra-cuarta-133228171",
+    "pubDate": "2026-08-10 11:14:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El festival reúne a 65.000 personas durante tres días en su programación principal en el parque del Fòrum y hasta 5.000 asistentes en sus 'afterparties' oficiales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260807/calor-alarma-festivales-musica-medidas-horarios-133172002\">Las olas de calor encienden la alarma en los festivales de música veraniegos y los obliga a repensarse</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На розвіддронах ВМС Британії виявили китайські чипи-шпигуни",
+    "link": "https://ua.korrespondent.net/world/4901484-na-rozviddronakh-vms-brytanii-vyiavyly-kytaiski-chypy-shpyhuny",
+    "pubDate": "2026-08-10 11:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524011.jpg\">Встановлені на дронах камери містили компоненти китайського виробництва, які в фоновому режимі надсилали сигнали на пристрій у Китаї.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Американці почали \"друкувати\" морські дрони",
+    "link": "https://ua.korrespondent.net/business/companies/4901483-amerykantsi-pochaly-drukuvaty-morski-drony",
+    "pubDate": "2026-08-10 11:13:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524010.png\">Компанія зі США виготовила безекіпажний катер TF-179 за допомогою великоформатного роботизованого 3D-друку,",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Andrés Garza, experto en finanzas, sobre los gastos: \"Si no vas a usar un producto sin el logo, no lo compres solo por el logo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260810/andres-garza-experto-finanzas-vas-usar-producto-sin-logo-dv-133118313",
+    "pubDate": "2026-08-10 11:11:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un experto en finanzas habla acerca de cómo invertir el dinero de forma que dé satisfacción real</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260125/deuda-finanzas-gastos-quiero-necesito-consejos-experta-financiera-laura-encina-dv-121828913\">Laura Encina, experta en finanzas personales, sobre cómo saber si una deuda es buena: \"“¿Te va a servir para generar más ingresos?\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія перевиконує план по ракетах - ГУР",
+    "link": "https://ua.korrespondent.net/ukraine/4901480-rosiia-perevykonuie-plan-po-raketakh-hur",
+    "pubDate": "2026-08-10 11:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523990.jpg\">У росіян є запас Іскандерів орієнтовно у 130 ракет. У липні вони виготовили 65 таких балістичних ракет.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los avisos por calor extremo se intercalan con los de intensidad de lluvia en vísperas de la llegada del eclipse",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/avisos-calor-extremo-intensidad-lluvia-prevision-aemet-meteocat-133227332",
+    "pubDate": "2026-08-10 10:58:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Los modelos indican que las temperaturas se mantendrán altas durante buena parte de la semana aunque podrían experimentar una bajada a partir del viernes </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260807/aemet-prediccion-eclipse-12-agosto-primera-prevision-133157365\">Primera predicción de Aemet para el eclipse: la jornada será estable, con nubes en la cornisa cantábrica y el litoral gallego y andaluz</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Волинська трагедія: в Україні проведуть низку ексгумацій",
+    "link": "https://ua.korrespondent.net/ukraine/4901477-volynska-trahediia-v-ukraini-provedut-nyzku-ekshumatsii",
+    "pubDate": "2026-08-10 10:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523989.jpg\">Державна комісія пам'яті ухвалила рішення про розкопки на Львівщині, Рівненщині та Волині.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El incendio de Niebla es ya uno de los más devastadores de los últimos años en Andalucía",
+    "link": "https://www.elperiodico.com/es/sociedad/20260810/incendio-niebla-huelva-devastadores-andalucia-133228803",
+    "pubDate": "2026-08-10 10:53:22",
+    "category": "",
+    "description": "<h2>Los cambios de viento y la baja humedad no ayudan al amplio dispositivo, que cuenta con más de 600 profesionales desplegados en el terreno </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más calor y bochorno en Catalunya: hay para varios días más",
+    "link": "https://www.elperiodico.com/es/tiempo/20260810/tiempo-cataluna-calor-bochorno-meteocat-dv-loc-133226580",
+    "pubDate": "2026-08-10 10:51:17",
+    "category": "",
+    "description": "<h2>Las temperaturas se mantendrán por encima de los 35ºC en gran parte de la comunidad</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260809/meteocat-alerta-noches-calor-intenso-cataluna-133210599\" >El Meteocat activa un aviso por calor nocturno intenso este lunes y martes en Catalunya, mientras el Empordà roza hoy los 40 ºC</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260809/calor-bochorno-nubes-altas-temperaturas-eclipse-solar-12-de-agosto-133214206\" >Calor, bochorno y nubes altas: así será el tiempo durante el eclipse solar del 12 de agosto en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Черкащині військовослужбовець отримав довічне за подвійне вбивство",
+    "link": "https://ua.korrespondent.net/ukraine/4901475-na-cherkaschyni-viiskovosluzhbovets-otrymav-dovichne-za-podviine-vbyvstvo",
+    "pubDate": "2026-08-10 10:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523988.jpg\">Після подвійного вбивства обвинувачений заволодів двома металошукачами потерпілого та, намагаючись приховати сліди злочинів, підпалив будинок і літню кухню.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Біля Сицилії виявили давній корабель із сотнями амфор",
+    "link": "https://ua.korrespondent.net/tech/science/4901468-bilia-sytsylii-vyiavyly-davnii-korabel-iz-sotniamy-amfor",
+    "pubDate": "2026-08-10 10:48:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523975.jpg\">Рибалка Джакомо Де Мола пірнув до нетипової аномалії на сканері й натрапив на історичний корабель.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Жертви та поранені. Чергова робота ППО Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4901470-zhertvy-ta-poraneni-cherhova-robota-ppo-rosii",
+    "pubDate": "2026-08-10 10:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523977.jpg\">Є інформація, що під час атаки безпілотників на Татарстан один із них, придушений РЕБом, впав на базар в Ніжнєкамську.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El desembarco de la china SAIC en Ferrol activa las alertas de seguridad de Defensa ante el riesgo de espionaje",
+    "link": "https://www.elperiodico.com/es/politica/20260810/desembarco-china-saic-ferrol-activa-133228373",
+    "pubDate": "2026-08-10 10:38:33",
+    "category": "",
+    "description": "<h2>Preocupa la proximidad al arsenal militar y las instalaciones de Navantia de la futura factoría de ensamblaje de vehículos eléctricos del gigante asiático </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El reto actual de la empresa familiar española: competir por el cliente global",
+    "link": "https://www.elperiodico.com/es/economia/20260810/reto-actual-empresa-familiar-espanola-133228332",
+    "pubDate": "2026-08-10 10:37:51",
+    "category": "",
+    "description": "<h2>Las empresas familiares españolas, que representan el 92,4% del tejido empresarial, son clave para entender el futuro económico del país a través de la internacionalización</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стіна Хотинської фортеці продовжує руйнуватися",
+    "link": "https://ua.korrespondent.net/ukraine/4901466-stina-khotynskoi-fortetsi-prodovzhuie-ruinuvatysia",
+    "pubDate": "2026-08-10 10:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523959.png\">На одній зі стін Хотинської фортеці на Буковині обсипалися кілька зубців. Це сталося після обвалу частини оборонного муру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сенат США ухвалив “пекельні санкції”, що далі",
+    "link": "https://ua.korrespondent.net/articles/4901471-senat-ssha-ukhvalyv-pekelni-sanktsii-scho-dali",
+    "pubDate": "2026-08-10 10:30:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523976.jpg\">Американський зашморг для агресора: якщо нові санкції США будуть затверджені, вони обійдуть за суворістю європейські пакети.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mbappé prepara su gran golpe comercial: un contrato con Nike finalizado y una \"marca inesperada\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260810/mbappe-prepara-gran-golpe-comercial-133227436",
+    "pubDate": "2026-08-10 10:25:00",
+    "category": "",
+    "description": "<h2>El contrato con Nike, firma a la que está vinculado desde niño, venció el 31 de julio, aunque la compañía estadounidense dispone de seis meses para igualar cualquier otra oferta</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Донеччині затримали блогера, який працював на ГРУ",
+    "link": "https://ua.korrespondent.net/ukraine/4901465-na-donechchyni-zatrymaly-blohera-yakyi-pratsuivav-na-hru",
+    "pubDate": "2026-08-10 10:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523964.jpg\">Чоловік створив кілька власних Телеграм-каналів і за допомогою інтернет-охоплення збирав координати українських військ та передавав їх куратору з РФ.",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Maxus eDeliver 5: una furgoneta eléctrica que amplía las fronteras del transporte comercial",
+    "link": "https://www.elperiodico.com/es/motor/20260810/maxus-edeliver-5-furgoneta-electrica-amplia-fronteras-transporte-comercial-133148877",
+    "pubDate": "2026-08-10 10:23:57",
+    "category": "",
+    "description": "<h2>Con 163 CV y batería de 64 kWh, destaca también por su habitabilidad, elevado nivel tecnológico y un volumen de carga de hasta 7,5 m³</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Italia y Dinamarca rechazan \"la inmigración descontrolada\" y piden centros de repatriación",
+    "link": "https://www.elperiodico.com/es/internacional/20260810/italia-dinamarca-rechazan-inmigracion-descontrolada-misiva-conjunta-133227850",
+    "pubDate": "2026-08-10 10:22:13",
+    "category": "",
+    "description": "<h2>\"Estamos orgullosos del patrimonio cultural cristiano de Europa y queremos protegerlo\", reza una misiva conjunta firmada por Meloni y su homóloga danesa Mette Frederiksen</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Revolut consigue una licencia bancaria en Francia y prepara su expansión por España, Alemania, Italia y Portugal",
+    "link": "https://www.elperiodico.com/es/economia/20260810/revolut-licencia-bancaria-francia-133227891",
+    "pubDate": "2026-08-10 10:22:11",
+    "category": "",
+    "description": "<h2>La fintech británica operará con dos entidades bajo supervisión del BCE para crecer en Europa Occidental</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Управління Запорізької єпархії УПЦ МП перевірять на зв'язки із РП",
+    "link": "https://ua.korrespondent.net/ukraine/4901463-upravlinnia-zaporizkoi-yeparkhii-upts-mp-pereviriat-na-zviazky-iz-rp",
+    "pubDate": "2026-08-10 10:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523960.jpg\">Будь-які ознаки іноземного впливу чи підпорядкування в контексті заборонених структур буде ретельно досліджено, а результати - публічно представлено суспільству.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un matrimonio de Badalona viaja por todo el mundo buscando los mejores eclipses totales",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/matrimonio-badalona-viaja-mundo-buscando-eclipses-totales-video/133227694.shtml",
+    "pubDate": "2026-08-10 10:21:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "María Pombo vuelve a su refugio en Cantabria: \"Mi restaurante favorito es la casa de mis padres\"",
+    "link": "https://www.elperiodico.com/es/gente/20260810/maria-pombo-vacaciones-cantabria-casa-casavaca-verano-familia-dv-et-132992828",
+    "pubDate": "2026-08-10 10:16:49",
+    "category": "",
+    "description": "<h2>La 'influencer' disfruta de sus vacaciones familiares mientras saborea el éxito de la quinta temporada de su serie</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/libros/20260805/tiktok-polemica-libro-odisea-pelicula-christopher-nolan-byhermos-dv-et-133107498\">\"¿Esta no es la nueva película que ha salido nueva en cines?\" La metedura de pata de la 'booktoker' ByHermos al hablar del libro 'La Odisea' que indigna a las redes</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Фільм про Людину-павука підкорює світовий прокат",
+    "link": "https://ua.korrespondent.net/showbiz/cinema/4901451-film-pro-luidynu-pavuka-pidkoruiie-svitovyi-prokat",
+    "pubDate": "2026-08-10 10:13:00",
+    "category": "Кіно новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4523948.jpg\">Людина-павук йде до двомільярдної позначки, а Одіссея принесла Нолану новий касовий рекорд.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Mònica Gascón, vecina de Girona, denuncia un \"calvario burocrático\" para registrar cuatro gallinas para autoconsumo",
     "link": "https://www.elperiodico.com/es/sociedad/20260810/monica-gascon-vecina-girona-denuncia-calvario-burocratico-registrar-gallinas-133121561",
     "pubDate": "2026-08-10 10:05:00",
