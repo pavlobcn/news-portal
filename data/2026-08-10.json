@@ -1,5 +1,50 @@
 [
   {
+    "title": "Лубінець звинуватив керівника ТЦК у тиску на свого представника",
+    "link": "https://ua.korrespondent.net/ukraine/4901696-lubinets-zvynuvatyv-kerivnyka-ttsk-u-tysku-na-svoho-predstavnyka",
+    "pubDate": "2026-08-10 23:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524571.jpg\">Представнику омбудсмана на Закарпатті можуть сфабрикувати кримінальне провадження після того, як він виявив порушення у роботі ТЦК.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Ingebrigtsen se encumbra aún más y España acaba quinta en el 4x400 mixto",
+    "link": "https://www.elperiodico.com/es/deportes/20260810/ingebrigtsen-encumbra-espana-acaba-quinta-133250607",
+    "pubDate": "2026-08-10 23:37:43",
+    "category": "",
+    "description": "<h2>El noruego volvió a lo grande para reinar por cuarta vez en Europa en 5.000 y al cuarteto español le faltó algo de fuelle</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ексгравець Шахтаря змінив Тоттенгем на Вест Гем",
+    "link": "https://ua.korrespondent.net/sport/football/4901698-ekshravets-shakhtaria-zminyv-tottenhem-na-vest-hem",
+    "pubDate": "2026-08-10 23:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524558.jpg\">Ізраїльський футболіст обрав клуб, який запропонував гравцю три сезони гри, водночас новачок клубу почне свої виступи за команду в Чемпіоншипі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ООН: понад 95% українських полонених катували в РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4901693-oon-ponad-95-ukrainskykh-polonenykh-katuvaly-v-rf",
+    "pubDate": "2026-08-10 23:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524526.jpg\">У російському полоні загинули 48 і були страчені 129 українських захисників, підтвердили в ООН.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Investigan la muerte violenta de un hombre en la localidad sevillana de Camas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260810/investigan-muerte-violenta-hombre-localidad-sevillana-camas-133250258",
+    "pubDate": "2026-08-10 23:11:58",
+    "category": "",
+    "description": "<h2>El caso se investiga como un posible homicidio, sin que, hasta el momento, haya ninguna persona detenida en relación con estos hechos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ascienden a 6.301 los muertos por el doble terremoto del 24 de junio en Venezuela",
     "link": "https://www.elperiodico.com/es/internacional/20260810/ascienden-6-301-muertos-doble-terremoto-24-junio-venezuela-133249996",
     "pubDate": "2026-08-10 22:50:09",
@@ -27,6 +72,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Захисник Барселони став гравцем Ліверпуля",
+    "link": "https://ua.korrespondent.net/sport/football/4901688-zakhysnyk-barselony-stav-hravtsem-liverpulia",
+    "pubDate": "2026-08-10 22:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524527.jpg\">Футболіст поповнить склад англійської команди на основі орендної угоди строком на один рік.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El terremoto desata el pánico en Colombia: \"Ha sido muy duro y demasiado largo\"",
     "link": "https://www.elperiodico.com/es/internacional/20260810/terremoto-desata-panico-colombia-sido-muy-duro-demasiado-largo-133249815",
     "pubDate": "2026-08-10 22:30:01",
@@ -52,6 +106,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524529.jpg\">Під час пуску авіаційної ракети на МіГ-29 Повітряних сил ЗСУ сталася нештатна ситуація. Літак загорівся, а пілот втратив керування та катапультувався.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "У команді Усика розповіли про підготовку Джошуа до бою з Ф’юрі",
+    "link": "https://ua.korrespondent.net/sport/boks/4901684-u-komandi-usyka-rozpovily-pro-pidhotovku-dzhoshua-do-boui-z-fuiri",
+    "pubDate": "2026-08-10 22:06:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524512.jpg\">Директор команди Усика відкинув різкі зауваження щодо підготовки Ентоні Джошуа, який готується до протистояння на ринзі з Тайсоном Ф’юрі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Agresión homófoba en Alicante: “Las niñas están muy afectadas. Han vuelto al médico por nuevas secuelas de la agresión”",
