@@ -1,5 +1,194 @@
 [
   {
+    "title": "Ліван скасовує смертну кару: парламент ухвалив рішення",
+    "link": "https://ua.korrespondent.net/world/4902012-livan-skasovuie-smertnu-karu-parlament-ukhvalyv-rishennia",
+    "pubDate": "2026-08-11 21:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4525499.jpg\">Парламент Лівану підтримав законопроєкт про скасування смертної кари. Якщо документ набуде чинності, країна стане першою на Близькому Сході, яка офіційно відмовилася від страт.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Marta García se mitifica con una plata de leyenda en el Europeo de Birmingham",
+    "link": "https://www.elperiodico.com/es/deportes/20260811/marta-garcia-plata-5-000-metros-euopeos-atletismo-133276813",
+    "pubDate": "2026-08-11 21:16:36",
+    "category": "",
+    "description": "<h2>La palentina fue inteligente en la final de 5.000 y tan solo cedió ante Battocletti pese a estar corta de entrenamientos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У ЄС зросла кількість українців під захистом",
+    "link": "https://ua.korrespondent.net/world/4902008-u-yes-zrosla-kilkist-ukraintsiv-pid-zakhystom",
+    "pubDate": "2026-08-11 21:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4525487.jpg\">У червні кількість українців під тимчасовим захистом у ЄС зросла майже на 24,4 тисячі. Водночас у Польщі, Бельгії та Ірландії зафіксували скорочення.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La DGT empieza a pintar círculos blancos en las curvas para proteger a los motoristas",
+    "link": "https://www.elperiodico.com/es/motor/20260811/dgt-empieza-pintar-circulos-blancos-motoristas-133256969",
+    "pubDate": "2026-08-11 21:03:22",
+    "category": "",
+    "description": "<h2>Estas nuevas marcas viales buscan evitar que los motoristas invadan el carril contrario al tomar curvas peligrosas</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El horóscopo de hoy, miércoles 12 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260811/horoscopo-hoy-miercoles-12-agosto-dv-133115464",
+    "pubDate": "2026-08-11 21:00:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Evolución del incendio en Las Peñas de Riglos (Huesca)",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/evolucion-incendio-penas-riglos-huesca/133276624.shtml",
+    "pubDate": "2026-08-11 20:59:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rescatan con vida a mujer tras quedar atrapada entre escombros en Cali",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescatan-vida-mujer-quedar-atrapada/133276327.shtml",
+    "pubDate": "2026-08-11 20:47:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ZBE a doble velocidad",
+    "link": "https://www.elperiodico.com/es/opinion/20260811/zbe-doble-velocidad-133276162",
+    "pubDate": "2026-08-11 20:47:06",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El presunto homicida de Marbella y su pareja se denunciaron una semana antes del crimen por una agresión mutua",
+    "link": "https://www.elperiodico.com/es/sucesos/20260811/presunto-homicida-marbella-pareja-denunciaron-133276379",
+    "pubDate": "2026-08-11 20:44:50",
+    "category": "",
+    "description": "<h2>El TSJA asegura que el caso se archivó porque ninguno de los dos ratificó la denuncia en sede judicial y que el caso no lo llevará un juzgado de Violencia de Género porque ella no se inscribió como mujer en el Registro Civil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya inicia la cuenta atrás para el eclipse solar del siglo: \"Es una fortuna\"",
+    "link": "https://www.elperiodico.com/es/tarragona/20260811/govern-da-inicio-tarragona-cuenta-eclipsi-solar-catalunya-fortuna-salvador-illa-133275249",
+    "pubDate": "2026-08-11 20:43:23",
+    "category": "",
+    "description": "<h2>Vecinos, autoridades y referentes internacionales de la astronomía se reúnen frente al Anfiteatro de Tarragona en un acto institucional que marcará el inicio de la cuenta atrás para el gran fenómeno astronómico</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260811/eclipse-solar-ultima-hora-directo-133133160\">Eclipse solar, en directo: cuándo es, hora en España, dónde ver, cómo comprar gafas homologadas y última hora del fenómeno astronómico del 12 de agosto</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Inés García desvela el motivo por el que no está con Lamine Yamal en Colombia: \"Tengo malas noticias\"",
+    "link": "https://www.elperiodico.com/es/gente/20260811/ines-garcia-desvela-malas-noticias-lamine-yamal-colombia-dv-et-133197899",
+    "pubDate": "2026-08-11 20:40:11",
+    "category": "",
+    "description": "<h2 class=\"item\">La creadora de contenido sevillana sorprendió a todos tras no acompañar al futbolista del FC Barcelona a Colombia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260521/ines-garcia-lamine-yamal-cena-celebracion-barca-dv-130483681\">¿Quién es Inés García, la nueva novia de Lamine Yamal? 'Influencer' de moda y 'lifestyle' con miles de seguidores en Instagram y TikTok</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Detenido en Bélgica un joven sospechoso de asesinar a otro por encargo en Fuengirola (Málaga)",
+    "link": "https://www.elperiodico.com/es/sucesos/20260811/detenido-belgica-joven-sospechoso-asesinar-encargo-fuengirola-malaga-133276259",
+    "pubDate": "2026-08-11 20:37:09",
+    "category": "",
+    "description": "<h2>El sospechoso, reclutado como sicario, fue puesto en libertad en España tras cumplir el máximo legal de detención sin juicio y vuelto a arrestar en Bélgica</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere a los 100 años el psiquiatra y exmonje de Montserrat Jordi Vila-Abadal",
+    "link": "https://www.elperiodico.com/es/sociedad/20260811/jordi-vila-abadal-muere-100-anos-psiquiatra-exmonje-133275944",
+    "pubDate": "2026-08-11 20:33:15",
+    "category": "",
+    "description": "<h2>La familia ha confirmado que no habrá ningún tipo de despedida pública</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дві Гербери дрейфували біля берегів Румунії",
+    "link": "https://ua.korrespondent.net/world/4902003-dvi-herbery-dreifuvaly-bilia-berehiv-rumunii",
+    "pubDate": "2026-08-11 20:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4525476.jpg\">Румунські військові знищили два безпілотники Гербера, виявлені у Чорному морі неподалік газового проєкту Neptun Deep. Україна підтвердила, що дрони їй не належать.",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "Tres eclipses en tres años: la década astronómica que no se volverá a repetir",
+    "link": "https://www.elperiodico.com/es/ciencia/20260811/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674",
+    "pubDate": "2026-08-11 20:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">En los años 2026-2028 habrá dos eclipses totales y uno anular que se podrán ver desde algún punto de nuestra geografía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260728/eclipse-sol-2026-horario-como-ver-gafas-dv-132838557\" >Eclipse solar 2026: horario, cuánto durará y mejores ciudades para verlo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260315/eclipse-solar-2027-mas-largo-siglo-como-donde-ver-espana-dv-127870269\" >El eclipse solar más largo del siglo llegará en 2027, durará más de 6 minutos y oscurecerá gran parte del planeta</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la alarma por espionaje al aval de Defensa: 24 horas que despejan el futuro de la fábrica china en Ferrol",
+    "link": "https://www.elperiodico.com/es/economia/20260811/alarma-espionaje-aval-defensa-24-horas-despejan-futuro-fabrica-china-ferrol-133276048",
+    "pubDate": "2026-08-11 20:29:43",
+    "category": "",
+    "description": "<h2>Robles comunica a Rueda que su departamento avalará la planta de SAIC en el puerto exterior de Ferrol, con condiciones operativas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Interior ya ha realizado controles de entrada a 2.143 pasajeros de 149 vuelos procedentes de Italia en cuatro días",
+    "link": "https://www.elperiodico.com/es/politica/20260811/interior-realizado-controles-entrada-vuelos-italia-133276004",
+    "pubDate": "2026-08-11 20:27:30",
+    "category": "",
+    "description": "<h2 class=\"item\">259 policías nacionales han participado en este operativo en 14 aeropuertos españoles </h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Luca Hoek asombra y luchará por una histórica medalla española en los 100 libre del Europeo",
+    "link": "https://www.elperiodico.com/es/deportes/20260811/luca-hoek-asombra-luchara-historica-133275062",
+    "pubDate": "2026-08-11 20:25:42",
+    "category": "",
+    "description": "<h2>El prodigioso nadador catalán de 18 años, de padre neerlandés y madre francesa, disputará este miércoles la final de la distancia tras pulverizar su récord de España</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alerta por un incendio forestal declarado en Llíria (Valencia) que obliga a desalojar varias viviendas: movilizan dos medios aéreos y un amplio dispositivo terrestre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260811/alerta-incendio-forestal-declarado-lliria-133275888",
+    "pubDate": "2026-08-11 20:21:22",
+    "category": "",
+    "description": "<h2>Tras la alerta inicial emitida sobre las 18:15 horas, el Centro de Coordinación de Emergencias de la Generalitat ha activado de urgencia a diversos efectivos para combatir las llamas en la zona afectada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Todos pendientes del cielo: la amenaza de nubes obliga a cambiar planes y mantiene en vilo a millones de personas ante el eclipse del siglo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260811/eclipse-amenaza-nubes-complica-preparativos-todos-pendiente-cielo-133271247",
+    "pubDate": "2026-08-11 20:18:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Los modelos apuntan a un alto riesgo de nubosidad en la cornisa cantábrica así como en puntos del litoral mediterráneo, entre ellos el sur de Catalunya</h2><h2 class=\"item\">La inestabilidad dispara los cambios de planes de viaje de última hora para asegurar una buena visibiliad, lo que complica aún más una movilidad estimada en 1,5 millones de viajes </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260811/eclipse-solar-ultima-hora-directo-133133160\">Eclipse solar, última hora en directo: a qué hora es, mapa con franja de visibilidad en España y dónde encontrar gafas homologadas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ готує нову мобілізацію на осінь - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4901999-rf-hotuie-novu-mobilizatsiui-na-osin-zelenskyi",
+    "pubDate": "2026-08-11 20:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4525466.jpg\">Україна отримала підтвердження підготовки Росії до нової хвилі мобілізації восени. За даними розвідки, після \"виборів\" Москва може призвати сотні тисяч людей.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Búsqueda de supervivientes tras el terremoto de Colombia: \"La gente está incomunicada en Pereira, no sabemos si están desaparecidos\"",
     "link": "https://www.elperiodico.com/es/internacional/20260811/busqueda-supervivientes-terremoto-colombia-gente-incomunicada-pereira-desaparecidos-testimonios-133275446",
     "pubDate": "2026-08-11 20:03:02",

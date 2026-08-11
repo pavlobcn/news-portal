@@ -1,4 +1,4 @@
-# News for 2026-08-11 20:12
+# News for 2026-08-11 21:30
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
@@ -79,6 +79,15 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:59 [Evolución del incendio en Las Peñas de Riglos (Huesca)](https://www.elperiodico.com/es/videos/sociedad/evolucion-incendio-penas-riglos-huesca/133276624.shtml)<br>
+20:47 [Rescatan con vida a mujer tras quedar atrapada entre escombros en Cali](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-mujer-quedar-atrapada/133276327.shtml)<br>
+20:44 [El presunto homicida de Marbella y su pareja se denunciaron una semana antes del crimen por una agresión mutua](https://www.elperiodico.com/es/sucesos/20260811/presunto-homicida-marbella-pareja-denunciaron-133276379)<br>
+20:43 [Catalunya inicia la cuenta atrás para el eclipse solar del siglo: "Es una fortuna"](https://www.elperiodico.com/es/tarragona/20260811/govern-da-inicio-tarragona-cuenta-eclipsi-solar-catalunya-fortuna-salvador-illa-133275249)<br>
+20:37 [Detenido en Bélgica un joven sospechoso de asesinar a otro por encargo en Fuengirola (Málaga)](https://www.elperiodico.com/es/sucesos/20260811/detenido-belgica-joven-sospechoso-asesinar-encargo-fuengirola-malaga-133276259)<br>
+20:33 [Muere a los 100 años el psiquiatra y exmonje de Montserrat Jordi Vila-Abadal](https://www.elperiodico.com/es/sociedad/20260811/jordi-vila-abadal-muere-100-anos-psiquiatra-exmonje-133275944)<br>
+20:30 [Tres eclipses en tres años: la década astronómica que no se volverá a repetir](https://www.elperiodico.com/es/ciencia/20260811/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674)<br>
+20:21 [Alerta por un incendio forestal declarado en Llíria (Valencia) que obliga a desalojar varias viviendas: movilizan dos medios aéreos y un amplio dispositivo terrestre](https://www.elperiodico.com/es/sociedad/20260811/alerta-incendio-forestal-declarado-lliria-133275888)<br>
+20:18 [Todos pendientes del cielo: la amenaza de nubes obliga a cambiar planes y mantiene en vilo a millones de personas ante el eclipse del siglo](https://www.elperiodico.com/es/sociedad/20260811/eclipse-amenaza-nubes-complica-preparativos-todos-pendiente-cielo-133271247)<br>
 20:03 [Búsqueda de supervivientes tras el terremoto de Colombia: "La gente está incomunicada en Pereira, no sabemos si están desaparecidos"](https://www.elperiodico.com/es/internacional/20260811/busqueda-supervivientes-terremoto-colombia-gente-incomunicada-pereira-desaparecidos-testimonios-133275446)<br>
 20:00 [Cuatro mil británicos a bordo del 'Liberty of the Seas' persiguen el eclipse solar por la costa gallega](https://www.elperiodico.com/es/sociedad/20260811/cuatro-mil-britanicos-bordo-liberty-133275402)<br>
 19:46 [Mañana no recordaré nada](https://www.elperiodico.com/es/opinion/20260811/manana-recordare-eclipse-sol-solar-12-agosto-133274748)<br>
