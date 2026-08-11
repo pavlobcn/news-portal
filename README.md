@@ -1,8 +1,13 @@
-# News for 2026-08-11 19:17
+# News for 2026-08-11 20:12
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+19:44 [Масове знеструмлення на Чернігівщині: без світла 100 тисяч абонентів](https://ua.korrespondent.net/ukraine/4901988-masove-znestrumlennia-na-chernihivschyni-bez-svitla-100-tysiach-abonentiv)<br>
+19:14 [Вступна кампанія: у Харківському університеті помітили позитивні тенденції](https://ua.korrespondent.net/ukraine/4901984-vstupna-kampaniia-u-kharkivskomu-universyteti-pomityly-pozytyvni-tendentsii)<br>
+18:51 [DeepState зафіксував просування РФ на Куп'янщині](https://ua.korrespondent.net/ukraine/4901978-DeepState-zafiksuvav-prosuvannia-rf-na-kupianschyni)<br>
+18:47 [Дністер міліє: Україна і Молдова зменшили скид](https://ua.korrespondent.net/ukraine/4901976-dnister-miliie-ukraina-i-moldova-zmenshyly-skyd)<br>
+18:35 [У Мілані авто врізалося у приватний літак](https://ua.korrespondent.net/world/4901974-u-milani-avto-vrizalosia-u-pryvatnyi-litak)<br>
 17:57 [ДСНС отримала від Німеччини роботів і пожежну техніку](https://ua.korrespondent.net/ukraine/4901966-dsns-otrymala-vid-nimechchyny-robotiv-i-pozhezhnu-tekhniku)<br>
 17:35 [Зупинено найбільший нафтохімічний завод РФ - ЗМІ](https://ua.korrespondent.net/world/russia/4901960-zupyneno-naibilshyi-naftokhimichnyi-zavod-rf-zmi)<br>
 17:11 [Фінансовий ринок України втратив 11 учасників за місяць](https://ua.korrespondent.net/business/4901955-finansovyi-rynok-ukrainy-vtratyv-11-uchasnykiv-za-misiats)<br>
@@ -74,6 +79,11 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:03 [Búsqueda de supervivientes tras el terremoto de Colombia: "La gente está incomunicada en Pereira, no sabemos si están desaparecidos"](https://www.elperiodico.com/es/internacional/20260811/busqueda-supervivientes-terremoto-colombia-gente-incomunicada-pereira-desaparecidos-testimonios-133275446)<br>
+20:00 [Cuatro mil británicos a bordo del 'Liberty of the Seas' persiguen el eclipse solar por la costa gallega](https://www.elperiodico.com/es/sociedad/20260811/cuatro-mil-britanicos-bordo-liberty-133275402)<br>
+19:46 [Mañana no recordaré nada](https://www.elperiodico.com/es/opinion/20260811/manana-recordare-eclipse-sol-solar-12-agosto-133274748)<br>
+19:30 [Así es el Airbus A350-1000ULR: podrá unir Londres y Sídney sin escalas en el vuelo más largo de la historia](https://www.elperiodico.com/es/trafico-y-transportes/20260811/vuelo-largo-directo-sidney-londres-avion-vega-airbus-qantas-dv-133090640)<br>
+19:21 [Sin hablar del eclipse](https://www.elperiodico.com/es/opinion/20260811/hablar-eclipse-solar-12-agosto-2026-133273247)<br>
 19:15 [La Ley de Propiedad Horizontal te protege: si tienes más de 70 años y te toca ser presidente, puedes pedir que te releven](https://www.elperiodico.com/es/economia/20260811/ley-propiedad-horizontal-protege-tienes-mas-de-70-anos-relevo-presidente-dv-et-133216091)<br>
 18:54 [Los perros evolucionaron de forma distinta en todo el planeta para adaptarse a los humanos](https://www.elperiodico.com/es/tendencias21/20260811/perros-evolucionaron-forma-distinta-planeta-133274022)<br>
 18:39 [Una plaga de medusas obliga a las autoridades francesas a parar tres reactores nucleares de la central de Gravelines](https://www.elperiodico.com/es/internacional/20260811/plaga-medusas-obliga-autoridades-francesas-cerrar-tres-reactores-nucleares-central-gravelines-133273604)<br>
