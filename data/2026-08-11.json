@@ -1,0 +1,83 @@
+[
+  {
+    "title": "У Росії заявляють про чергову атаку на Wildberries",
+    "link": "https://ua.korrespondent.net/world/russia/4901714-u-rosii-zaiavliauit-pro-cherhovu-ataku-na-Wildberries",
+    "pubDate": "2026-08-11 02:33:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524680.jpg\">У Воронезькій області РФ компанія Wildberries підтвердила евакуацію своїх об'єктів у регіоні, але причину не уточнила.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-08-11 02:05:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Сеул не поспішає: що відповіли на прохання Зеленського щодо ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4901710-seul-ne-pospishaie-scho-vidpovily-na-prokhannia-zelenskoho-schodo-ppo",
+    "pubDate": "2026-08-11 01:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524656.jpg\">У ПІвденній Кореї наголосили на законодавчих обмеженнях щодо передачі військової допомоги.",
+    "topic": "політика",
+    "topic_match_probability": 88
+  },
+  {
+    "title": "Потужний землетрус у Колумбії: щонайменше 111 загиблих, під завалами люди",
+    "link": "https://ua.korrespondent.net/world/4901704-potuzhnyi-zemletrus-u-kolumbii-schonaimenshe-111-zahyblykh-pid-zavalamy-luidy",
+    "pubDate": "2026-08-11 00:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524608.jpg\">Місцеві служби продовжують пошуково-рятувальні роботи та встановлюють масштаби руйнувань.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un hombre mata a puñaladas a una mujer en un supuesto caso de violencia machista en Marbella",
+    "link": "https://www.elperiodico.com/es/sucesos/20260811/detienen-hombre-presuntamente-matar-mujer-marbella-133251021",
+    "pubDate": "2026-08-11 00:18:05",
+    "category": "",
+    "description": "<h2>La Policía Nacional ha arrestado al varón de 59 años tras el presunto crimen machista en la localidad malagueña</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estabilizado el incendio forestal de Tírig (Castellón), que ha quemado 810 hectáreas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/estabilizado-incendio-forestal-tirig-castellon/133250875.shtml",
+    "pubDate": "2026-08-11 00:10:15",
+    "category": "",
+    "description": "El fuego ha arrasado un total de 810 hectáreas, de las cuales 617 corresponden a terreno forestal",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 11 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260811/portada-periodico-11-agosto-2026-133250820",
+    "pubDate": "2026-08-11 00:08:30",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El incendio de Niebla en Huelva supera ya las 20.000 hectáreas de perímetro y es imposible de extinguir",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-niebla-huelva-supera-20/133250799.shtml",
+    "pubDate": "2026-08-11 00:05:43",
+    "category": "",
+    "description": "Casi un millar de personas permanecen en alejamiento preventivo de distintas pedanías, diseminados y viviendas",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Criminalística de la Guardia Civil recoge pruebas en la vivienda del crimen de Zaragoza",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/criminalistica-guardia-civil-recoge-pruebas/133250759.shtml",
+    "pubDate": "2026-08-11 00:00:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
