@@ -1,8 +1,13 @@
-# News for 2026-08-11 13:33
+# News for 2026-08-11 14:28
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+14:18 [Понад 260 дітей допомогли зірвати спроби вербування РФ](https://ua.korrespondent.net/ukraine/4901896-ponad-260-ditei-dopomohly-zirvaty-sproby-verbuvannia-rf)<br>
+14:08 [Збитки Trump Media Трампа зросли у 12 разів](https://ua.korrespondent.net/business/companies/4901894-zbytky-Trump-Media-trampa-zrosly-u-12-raziv)<br>
+13:56 [Під час ліквідації наслідків удару РФ в Сумах загинув рятувальник](https://ua.korrespondent.net/ukraine/4901891-pid-chas-likvidatsii-naslidkiv-udaru-rf-v-sumakh-zahynuv-riatuvalnyk)<br>
+13:51 [Ебола забрала понад 2000 життів у ДР Конго](https://ua.korrespondent.net/world/4901886-ebola-zabrala-ponad-2000-zhyttiv-u-dr-konho)<br>
+13:34 [Україна готує мобільні мережі до блекаутів](https://ua.korrespondent.net/business/4901881-ukraina-hotuie-mobilni-merezhi-do-blekautiv)<br>
 13:30 [Акторка вперше показала фото зі свого весілля](https://ua.korrespondent.net/lifestyle/4901865-aktorka-vpershe-pokazala-foto-zi-svoho-vesillia)<br>
 13:12 [Росіяни атакували ринок у Слов’янську, є поранені](https://ua.korrespondent.net/ukraine/4901870-rosiiany-atakuvaly-rynok-u-sloviansku-ye-poraneni)<br>
 13:05 [Ольга Сумська вразила шанувальників відвертим фото](https://ua.korrespondent.net/lifestyle/4901848-olha-sumska-vrazyla-shanuvalnykiv-vidvertym-foto)<br>
@@ -47,6 +52,14 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:22 [David y Rocío lo dejaron todo para volver a los orígenes: mantienen "vivos los oficios que están en peligro de extinción"](https://www.elperiodico.com/es/economia/20260811/david-rocio-pueblo-cantabria-oficio-extincion-herrero-ganadera-dv-et-133167460)<br>
+14:15 [Jessie Cave ('Harry Potter'), sobre su experiencia en Onlyfans peinándose el pelo: "He ganado más dinero en tan solo un año que en toda mi carrera como actriz"](https://www.elperiodico.com/es/gente/20260811/jessie-cave-harry-potter-onlyfans-actriz-lavender-brown-dinero-dv-et-133228637)<br>
+14:15 [Rescate de un bebé sepultado bajo los escombros de un edificio en Cali tras el terremoto de Colombia](https://www.elperiodico.com/es/videos/sociedad/rescate-bebe-sepultado-escombros-edificio-cali-terremoto-colombia-video/133265146.shtml)<br>
+14:15 [Las aplicaciones imprescindibles en Android e iOS para no perderte el eclipse solar del 12 de agosto](https://www.elperiodico.com/es/ciencia/20260811/mejores-apps-eclipse-sol-12-agosto-2026-android-ios-ver-dv-132924993)<br>
+14:12 [Más estudios, menos autonomía: solo el 31% de los jóvenes logra independizarse pese al avance educativo](https://www.elperiodico.com/es/economia/20260811/estudios-autonomia-31-jovenes-logra-133265571)<br>
+13:56 [Terremotos hoy, 11 de agosto: consulta el epicentro y escala del seísmo en Colombia en tiempo real](https://www.elperiodico.com/es/internacional/20260811/terremotos-hoy-11-agosto-consulta-dv-133264345)<br>
+13:47 [El incendio en Huesca afecta ya a 4.000 hectáreas y obliga a evacuar ocho pueblos](https://www.elperiodico.com/es/videos/politica/incendio-huesca-afecta-4000-hectareas-evacuar-ocho-pueblos/133264510.shtml)<br>
+13:34 [Solo los siglos](https://www.elperiodico.com/es/opinion/20260811/siglos-bosques-articulo-juan-jose-millas-133254093)<br>
 13:30 [El Instituto Geográfico Nacional (IGN) lo confirma: estas son las zonas de España con mayor riesgo de sufrir un terremoto](https://www.elperiodico.com/es/sociedad/20260811/terremoto-espana-riesgo-zonas-instituto-geografico-nacional-ign-colombia-dv-et-133259385)<br>
 13:22 [Pere Vallès, experto en viajes, sobre los cruceros: "Es una experiencia 'World Disney', porque estás metido en un sitio donde hay fiestas, comida 24 horas al día, la piscina..."](https://www.elperiodico.com/es/economia/20260811/cruceros-turismo-experiencia-disney-comida-fiesta-ciudades-experto-viajes-pere-valles-dv-et-133143300)<br>
 13:08 [Todo sobre el eclipse solar de 2026: a qué hora es, cuánto dura y dónde se verá mejor](https://www.elperiodico.com/es/ciencia/20260811/eclipse-sol-2026-horario-como-ver-gafas-dv-132838557)<br>
@@ -60,6 +73,7 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 12:09 [¿Por qué ex jugadores de la NBA pretenden competir en la liga femenina?: una normativa ambigua que no habla de la identidad de género o el sexo asignado al nacer](https://www.elperiodico.com/es/deportes/20260811/debate-deportistas-trans-wnba-enes-kanter-133256761)<br>
 12:01 [El simpático marsupilami, uno de los grandes personajes de la escuela franco-belga de cómic, salta otra vez al cine](https://www.elperiodico.com/es/ocio-y-cultura/20260811/estreno-pelicula-marsupilami-creacion-comic-franquin-133241704)<br>
 11:56 [Diecinueve años para ganar un 5%: la larga década perdida de la renta de los hogares españoles](https://www.elperiodico.com/es/economia/20260811/diecinueve-anos-ganar-5-larga-133260109)<br>
+11:52 [El Prado 'redibuja' sus obras maestras bajo la luz del eclipse: así cambian 'Las meninas' y otros 10 cuadros de Velázquez, Goya y Rubens](https://www.elperiodico.com/es/ocio-y-cultura/20260811/prado-redibuja-obras-maestras-luz-eclipse-cambian-meninas-goya-velazquez-rubens-133260025)<br>
 11:40 [Una exdiputada de Ciudadanos, que se quedó casi ciega por un eclipse, pide no mirarlo en absoluto](https://www.elperiodico.com/es/videos/sociedad/exdiputada-ciudadanos-quedo-casi-ciega-eclipse-pide-no-mirarlo-video/133259577.shtml)<br>
 11:32 [Así sorprendió el fuerte terremoto a soldados en Cali, Colombia](https://www.elperiodico.com/es/videos/internacional/fuerte-terremoto-sorprende-soldados-formacion-colombia/133259400.shtml)<br>
 11:29 [Colombia busca a supervivientes del terremoto](https://www.elperiodico.com/es/fotos/internacional/colombia-busca-supervivientes-terremoto-fotos-133259245)<br>
