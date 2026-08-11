@@ -1,8 +1,17 @@
-# News for 2026-08-11 22:23
+# News for 2026-08-11 23:15
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+23:15 [В Одесі російський дрон влучив у п'ятиповерхівку](https://ua.korrespondent.net/ukraine/4902039-v-odesi-rosiiskyi-dron-vluchyv-u-piatypoverkhivku)<br>
+22:47 [Росія посилила штурми біля Костянтинівки - Генштаб](https://ua.korrespondent.net/ukraine/4902032-rosiia-posylyla-shturmy-bilia-kostiantynivky-henshtab)<br>
+22:19 [На Полтавщині через атаку РФ зупинив роботу об'єкт газовидобутку](https://ua.korrespondent.net/business/companies/4902030-na-poltavschyni-cherez-ataku-rf-zupynyv-robotu-obiekt-hazovydobutku)<br>
+21:41 [У Чехії прогнозують найгірший за 14 років урожай зерна](https://ua.korrespondent.net/business/economics/4902020-u-chekhii-prohnozuuit-naihirshyi-za-14-rokiv-urozhai-zerna)<br>
+21:31 [Реактивні Герані: чи готова до них Україна](https://ua.korrespondent.net/ukraine/4902018-reaktyvni-herani-chy-hotova-do-nykh-ukraina)<br>
+21:19 [Третина чорнил для татуювань мають потенційні збудники захворювань - вчені](https://ua.korrespondent.net/tech/4902015-tretyna-chornyl-dlia-tatuuivan-mauit-potentsiini-zbudnyky-zakhvoruivan-vcheni)<br>
+20:47 [Мор риби під Києвом: Ткаченко розповів про можливе забруднення](https://ua.korrespondent.net/city/kiev/4901992-mor-ryby-pid-kyievom-tkachenko-rozpoviv-pro-mozhlyve-zabrudnennia)<br>
+19:59 [НБУ випустить монету на честь Іоанна Павла ІІ](https://ua.korrespondent.net/business/financial/4901996-nbu-vypustyt-monetu-na-chest-ioanna-pavla-ii)<br>
+19:53 [Вчені з'ясували, що собаки розрізняють людські емоції за виразом обличчя](https://ua.korrespondent.net/tech/science/4901993-vcheni-ziasuvaly-scho-sobaky-rozrizniauit-luidski-emotsii-za-vyrazom-oblychchia)<br>
 19:44 [Масове знеструмлення на Чернігівщині: без світла 100 тисяч абонентів](https://ua.korrespondent.net/ukraine/4901988-masove-znestrumlennia-na-chernihivschyni-bez-svitla-100-tysiach-abonentiv)<br>
 19:14 [Вступна кампанія: у Харківському університеті помітили позитивні тенденції](https://ua.korrespondent.net/ukraine/4901984-vstupna-kampaniia-u-kharkivskomu-universyteti-pomityly-pozytyvni-tendentsii)<br>
 18:51 [DeepState зафіксував просування РФ на Куп'янщині](https://ua.korrespondent.net/ukraine/4901978-DeepState-zafiksuvav-prosuvannia-rf-na-kupianschyni)<br>
@@ -79,6 +88,7 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:24 [La amenaza de nubes obliga a cambiar planes y mantiene en vilo a millones de personas ante el eclipse del siglo](https://www.elperiodico.com/es/videos/sociedad/amenaza-nubes-obliga-cambiar-planes/133278107.shtml)<br>
 21:38 [El Ayuntamiento de Tarragona escenifica la cuenta atrás para el eclipse con un acto en el parque del anfiteatro.](https://www.elperiodico.com/es/videos/sociedad/ayuntamiento-tarragona-escenifica-cuenta-eclipse/133277272.shtml)<br>
 20:59 [Evolución del incendio en Las Peñas de Riglos (Huesca)](https://www.elperiodico.com/es/videos/sociedad/evolucion-incendio-penas-riglos-huesca/133276624.shtml)<br>
 20:47 [Rescatan con vida a mujer tras quedar atrapada entre escombros en Cali](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-mujer-quedar-atrapada/133276327.shtml)<br>
