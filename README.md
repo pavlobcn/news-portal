@@ -1,8 +1,10 @@
-# News for 2026-08-11 11:45
+# News for 2026-08-11 12:39
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+12:16 [На закинутій шахті у Південній Африці загинули 14 нелегальних гірників](https://ua.korrespondent.net/ukraine/4901843-na-zakynutii-shakhti-u-pivdennii-afrytsi-zahynuly-14-nelehalnykh-hirnykiv)<br>
+11:38 [Курс гривні знову впав на готівковому ринку](https://ua.korrespondent.net/business/financial/4901828-kurs-hryvni-znovu-vpav-na-hotivkovomu-rynku)<br>
 11:11 [Румунія зупинить єдину АЕС через посуху](https://ua.korrespondent.net/world/4901815-rumuniia-zupynyt-yedynu-aes-cherez-posukhu)<br>
 10:30 [Троє поляків постали перед судом за жорстоке побиття українця](https://ua.korrespondent.net/world/4901799-troie-poliakiv-postaly-pered-sudom-za-zhorstoke-pobyttia-ukraintsia)<br>
 09:57 [На територію Молдови знову залетів російський дрон](https://ua.korrespondent.net/world/4901785-na-terytoriui-moldovy-znovu-zaletiv-rosiiskyi-dron)<br>
@@ -33,10 +35,18 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 00:06 [У Києві прогриміли вибухи: РФ вдарила балістикою](https://ua.korrespondent.net/city/kiev/4901702-u-kyievi-prohrymily-vybukhy-rf-vdaryla-balistykoui)<br>
 
 ## as.com
+12:04 [España se libra de Antetokounmpo](https://as.com/baloncesto/mas_baloncesto/espana-se-libra-de-antetokounmpo-f202608-n/)<br>
 08:08 [A la reconquista de Europa](https://as.com/baloncesto/acb/a-la-reconquista-de-europa-f202608-n/)<br>
 08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:37 [Así es el Cinturón de Fuego del Pacífico, el motor sísmico que ha sacudido Colombia](https://www.elperiodico.com/es/internacional/20260811/cinturon-fuego-pacifico-motor-sismico-terremoto-colombia-placa-nazca-sudamericana-133257801)<br>
+12:33 [De la Costa Brava a Islandia: así verán el eclipse los empresarios españoles](https://www.elperiodico.com/es/economia/20260811/costa-brava-islandia-veran-eclipse-empresarios-espanoles-133176083)<br>
+12:30 [Dónde ver el eclipse solar del 12 de agosto: mapa de los 27 observatorios en Catalunya](https://www.elperiodico.com/es/ciencia/20260811/eclipse-solar-observatorios-cataluna-dv-123809428)<br>
+12:10 [Gonzalo Bernardos, economista: "Con la creación de puestos de trabajos ficticios es más fácil tener una tasa de desempleo siempre muy reducida; algo impensable en España"](https://www.elperiodico.com/es/economia/20260811/gonzalo-bernardos-economista-creacion-puestos-trabajos-ficticios-desempleo-espana-dv-et-133215901)<br>
+12:09 [¿Por qué ex jugadores de la NBA pretenden competir en la liga femenina?: una normativa ambigua que no habla de la identidad de género o el sexo asignado al nacer](https://www.elperiodico.com/es/deportes/20260811/debate-deportistas-trans-wnba-enes-kanter-133256761)<br>
+12:01 [El simpático marsupilami, uno de los grandes personajes de la escuela franco-belga de cómic, salta otra vez al cine](https://www.elperiodico.com/es/ocio-y-cultura/20260811/estreno-pelicula-marsupilami-creacion-comic-franquin-133241704)<br>
+11:56 [Diecinueve años para ganar un 5%: la larga década perdida de la renta de los hogares españoles](https://www.elperiodico.com/es/economia/20260811/diecinueve-anos-ganar-5-larga-133260109)<br>
 11:40 [Una exdiputada de Ciudadanos, que se quedó casi ciega por un eclipse, pide no mirarlo en absoluto](https://www.elperiodico.com/es/videos/sociedad/exdiputada-ciudadanos-quedo-casi-ciega-eclipse-pide-no-mirarlo-video/133259577.shtml)<br>
 11:32 [Así sorprendió el fuerte terremoto a soldados en Cali, Colombia](https://www.elperiodico.com/es/videos/internacional/fuerte-terremoto-sorprende-soldados-formacion-colombia/133259400.shtml)<br>
 11:29 [Colombia busca a supervivientes del terremoto](https://www.elperiodico.com/es/fotos/internacional/colombia-busca-supervivientes-terremoto-fotos-133259245)<br>
@@ -57,9 +67,11 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 10:00 [Dos tiroteos en una misma noche en el barrio de Sant Cosme de El Prat](https://www.elperiodico.com/es/barcelona/20260811/tiroteos-sant-cosme-prat-llobregat-133255801)<br>
 09:41 [Regresan a sus casas los vecinos de los municipios de Segovia que habían sido desalojados por el incendio](https://www.elperiodico.com/es/sociedad/20260811/regresan-casas-vecinos-municipios-segovia-133256104)<br>
 09:40 [Las cenizas de Pompeya revelan a qué olía la ciudad antes de la erupción del Vesubio hace 2.000 años](https://www.elperiodico.com/es/tendencias21/20260811/cenizas-pompeya-revelan-olia-ciudad-133256063)<br>
+09:06 [Un espectacular incendio en Huesca obliga a desalojar cuatro pueblos y ya ha quemado más de 2.500 hectáreas](https://www.elperiodico.com/es/sociedad/20260811/espectacular-incendio-huesca-obliga-desalojar-133255304)<br>
 09:05 [Así funciona el dispositivo que traduce el eclipse solar en sonido para personas ciegas](https://www.elperiodico.com/es/ciencia/20260811/eclipse-sol-12-agosto-personas-ciegas-dispositivo-traduce-dv-133051376)<br>
 08:45 [El departamento del Chocó, entre las zonas más golpeadas por el terremoto que sacudió a Colombia](https://www.elperiodico.com/es/videos/internacional/departamento-choco-zonas-golpeadas-terremoto-colombia-video/133254903.shtml)<br>
 08:31 [Al menos 132 muertos, hospitales desbordados y toques de queda tras terremoto en Colombia](https://www.elperiodico.com/es/videos/internacional/muertos-hospitales-desbordados-toques-queda-terremoto-colombia-video/133254754.shtml)<br>
+08:21 [Eclipse solar, última hora en directo: a qué hora es, mapa con franja de visibilidad en España y dónde encontrar gafas homologadas](https://www.elperiodico.com/es/sociedad/20260811/eclipse-solar-ultima-hora-directo-133133160)<br>
 08:18 [Trabajos de búsqueda de personas atrapadas en Pereira en la primera noche tras terremoto en Colombia](https://www.elperiodico.com/es/videos/internacional/trabajos-busqueda-personas-atrapadas-pereira-terremoto-colombia-video/133254351.shtml)<br>
 08:18 [El Ibex 35 prolonga su racha de récords con el petróleo al borde de los 90 dólares](https://www.elperiodico.com/es/economia/20260811/cronica-bolsa-ibex-hoy-11-agosto-2026-133254570)<br>
 08:12 [¿Habrá  más réplicas en el terremoto de Colombia? Los expertos apuntan que no tiene relación con el de Venezuela pese a la magnitud similar](https://www.elperiodico.com/es/internacional/20260811/habra-replicas-terremoto-colombia-expertos-133253810)<br>
