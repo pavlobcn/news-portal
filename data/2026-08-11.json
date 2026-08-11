@@ -1,5 +1,41 @@
 [
   {
+    "title": "Compañía nacional de teatro: otro debate pendiente",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260811/compania-nacional-teatro-catalunya-debate-pendiente-133243959",
+    "pubDate": "2026-08-11 06:30:10",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260810/catalunya-estudia-impulsar-compania-nacional-teatro-133229961\">Catalunya impulsará una compañía nacional de teatro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 11 серпня",
+    "link": "https://ua.korrespondent.net/ukraine/4901729-henshtab-nazvav-vtraty-rosii-stanom-na-11-serpnia",
+    "pubDate": "2026-08-11 06:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524820.jpg\">Минулої доби ЗСУ ліквідували 1190 окупантів. Знищено чотири танки, чотири бронемашини, 44 артсистеми, одну РСЗВ, два засоби ППО, 9 НРК і 1578 дронів.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "\"En el Mundial, nosotros no hacemos diagnósticos, salvamos vidas\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260811/mundial-diagnosticos-salvamos-vidas-133201603",
+    "pubDate": "2026-08-11 06:09:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El Mundial de motociclismo tiene el mejor equipo médico de intervención inmediata que existe en el mundo. No lo dicen ellos, ni el Mundial, lo dice todo el mundo, especialmente los pilotos, que saben que están en las mejores manos. El doctor Ángel Charte, uno de los mejores internistas de Europa, creó y dirige una unidad que se ha convertido en los ángeles de la guarda de estos gladiadores.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El cine de 1976 (2): Y el cine descubrió a Stephen King con 'Carrie'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260811/cine-1976-2-cine-descubrio-133150820",
+    "pubDate": "2026-08-11 06:03:32",
+    "category": "",
+    "description": "<h2>'Carrie' es la primera novela de Stephen King. Y 'Carrie', el filme de Brian De Palma, la primera adaptación al cine del autor. Poderes telequinéticos, martirio religioso, baile de graduación y un cubo de sangre para el terror moderno.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ni peligro para embarazos ni aumento de la radiación: estos son los bulos más repetidos del eclipse",
     "link": "https://www.elperiodico.com/es/sociedad/20260811/bulos-desinformacion-eclipse-embarazos-radiacion-prediccion-arboles-133250981",
     "pubDate": "2026-08-11 06:01:24",
@@ -50,6 +86,15 @@
     "pubDate": "2026-08-11 06:00:59",
     "category": "",
     "description": "<h2>Cataluña deja de ser la comunidad con peor reputación turística de España gracias a la visita del Papa y el debate sobre la tasa turística</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Siete aeropuertos españoles superan su capacidad máxima y al menos otros cinco están a punto de sobrepasarla",
+    "link": "https://www.elperiodico.com/es/economia/20260811/siete-aeropuertos-espanoles-superan-capacidad-maxima-133242445",
+    "pubDate": "2026-08-11 06:00:58",
+    "category": "",
+    "description": "<h2>Barcelona, Alicante, Valencia, Sevilla, Bilbao, Tenerife Norte y Menorca recibieron en 2025 más pasajeros de los que se supone que pueden gestionar, mientras que Madrid, Palma de Mallorca, Lanzarote y Málaga se acercan a sus límites técnicos</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
