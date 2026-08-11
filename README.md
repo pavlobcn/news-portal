@@ -1,8 +1,11 @@
-# News for 2026-08-11 06:41
+# News for 2026-08-11 07:21
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+07:14 [Румунії вдалося врятувати АЕС від зупинки: вода в Дунаї піднялася](https://ua.korrespondent.net/world/4901738-rumunii-vdalosia-vriatuvaty-aes-vid-zupynky-voda-v-dunai-pidnialasia)<br>
+06:56 [Нічний удар по Києву: з'явилися фото наслідків](https://ua.korrespondent.net/city/kiev/4901734-nichnyi-udar-po-kyievu-ziavylysia-foto-naslidkiv)<br>
+06:42 [Удар по Запоріжжю: кількість загиблих зросла](https://ua.korrespondent.net/city/zaporozhye/4901731-udar-po-zaporizhzhui-kilkist-zahyblykh-zrosla)<br>
 05:35 [На Полтавщині уламки російського дрона впали на багатоповерхівку](https://ua.korrespondent.net/ukraine/4901724-na-poltavschyni-ulamky-rosiiskoho-drona-vpaly-na-bahatopoverkhivku)<br>
 05:07 [Дефіцит ракет Patriot грає на руку Путіну - ISW](https://ua.korrespondent.net/ukraine/4901722-defitsyt-raket-Patriot-hraie-na-ruku-putinu-ISW)<br>
 04:38 [Через атаки РФ Укрзалізниця закрила продаж квитків на частину рейсів](https://ua.korrespondent.net/business/companies/4901716-cherez-ataky-rf-ukrzaliznytsia-zakryla-prodazh-kvytkiv-na-chastynu-reisiv)<br>
@@ -15,6 +18,7 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 00:06 [У Києві прогриміли вибухи: РФ вдарила балістикою](https://ua.korrespondent.net/city/kiev/4901702-u-kyievi-prohrymily-vybukhy-rf-vdaryla-balistykoui)<br>
 
 ## www.elperiodico.com
+07:00 [Terremoto de magnitud 7,4 en Colombia, en directo: epicentro, afectación y última hora del temblor](https://www.elperiodico.com/es/internacional/20260811/terremoto-colombia-magnitud-temblor-ultima-hora-directo-133239425)<br>
 06:30 [Compañía nacional de teatro: otro debate pendiente](https://www.elperiodico.com/es/ocio-y-cultura/20260811/compania-nacional-teatro-catalunya-debate-pendiente-133243959)<br>
 06:03 [El cine de 1976 (2): Y el cine descubrió a Stephen King con 'Carrie'](https://www.elperiodico.com/es/ocio-y-cultura/20260811/cine-1976-2-cine-descubrio-133150820)<br>
 06:01 [Ni peligro para embarazos ni aumento de la radiación: estos son los bulos más repetidos del eclipse](https://www.elperiodico.com/es/sociedad/20260811/bulos-desinformacion-eclipse-embarazos-radiacion-prediccion-arboles-133250981)<br>
