@@ -1,8 +1,18 @@
-# News for 2026-08-11 08:15
+# News for 2026-08-11 09:43
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+09:32 [В одній з областей мережеві обмеження - Укренерго](https://ua.korrespondent.net/ukraine/4901771-v-odnii-z-oblastei-merezhevi-obmezhennia-ukrenerho)<br>
+09:30 [Бред Пітт зробив зізнання та розповів про спін-оф](https://ua.korrespondent.net/lifestyle/4901757-bred-pitt-zrobyv-ziznannia-ta-rozpoviv-pro-spin-of)<br>
+09:24 [Контррозвідка Австрії викрила обхід санкцій для постачання Росії обладнання](https://ua.korrespondent.net/world/4901769-kontrrozvidka-avstrii-vykryla-obkhid-sanktsii-dlia-postachannia-rosii-obladnannia)<br>
+09:18 [Українцям за кордоном спростили правила перевірки військового документа](https://ua.korrespondent.net/ukraine/4901767-ukraintsiam-za-kordonom-sprostyly-pravyla-perevirky-viiskovoho-dokumenta)<br>
+09:10 [У мозку знайшли точку перетину окситоцину та страху - вчені](https://ua.korrespondent.net/tech/4901662-u-mozku-znaishly-tochku-peretynu-oksytotsynu-ta-strakhu-vcheni)<br>
+08:56 [Равлик рухається швидше за війська Росії - посол Британії](https://ua.korrespondent.net/world/4901758-ravlyk-rukhaietsia-shvydshe-za-viiska-rosii-posol-brytanii)<br>
+08:43 [Удари по Сумщині: один загиблий, 18 постраждалих](https://ua.korrespondent.net/ukraine/4901755-udary-po-sumschyni-odyn-zahyblyi-18-postrazhdalykh)<br>
+08:30 [Свята 11 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4901682-sviata-11-serpnia-2026-roku-istoriia-tradytsii)<br>
+08:20 [Росіяни вдарили по Миколаєву, постраждала жінка](https://ua.korrespondent.net/ukraine/4901751-rosiiany-vdaryly-po-mykolaievu-postrazhdala-zhinka)<br>
+08:16 [Летіли ракети й дрони: відомо, як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4901749-letily-rakety-y-drony-vidomo-yak-vidpratsuivala-ppo)<br>
 07:14 [Румунії вдалося врятувати АЕС від зупинки: вода в Дунаї піднялася](https://ua.korrespondent.net/world/4901738-rumunii-vdalosia-vriatuvaty-aes-vid-zupynky-voda-v-dunai-pidnialasia)<br>
 06:56 [Нічний удар по Києву: з'явилися фото наслідків](https://ua.korrespondent.net/city/kiev/4901734-nichnyi-udar-po-kyievu-ziavylysia-foto-naslidkiv)<br>
 06:42 [Удар по Запоріжжю: кількість загиблих зросла](https://ua.korrespondent.net/city/zaporozhye/4901731-udar-po-zaporizhzhui-kilkist-zahyblykh-zrosla)<br>
@@ -17,7 +27,18 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 00:35 [Потужний землетрус у Колумбії: щонайменше 111 загиблих, під завалами люди](https://ua.korrespondent.net/world/4901704-potuzhnyi-zemletrus-u-kolumbii-schonaimenshe-111-zahyblykh-pid-zavalamy-luidy)<br>
 00:06 [У Києві прогриміли вибухи: РФ вдарила балістикою](https://ua.korrespondent.net/city/kiev/4901702-u-kyievi-prohrymily-vybukhy-rf-vdaryla-balistykoui)<br>
 
+## as.com
+08:08 [A la reconquista de Europa](https://as.com/baloncesto/acb/a-la-reconquista-de-europa-f202608-n/)<br>
+08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
+
 ## www.elperiodico.com
+09:41 [Regresan a sus casas los vecinos de los municipios de Segovia que habían sido desalojados por el incendio](https://www.elperiodico.com/es/sociedad/20260811/regresan-casas-vecinos-municipios-segovia-133256104)<br>
+09:40 [Las cenizas de Pompeya revelan a qué olía la ciudad antes de la erupción del Vesubio hace 2.000 años](https://www.elperiodico.com/es/tendencias21/20260811/cenizas-pompeya-revelan-olia-ciudad-133256063)<br>
+09:05 [Así funciona el dispositivo que traduce el eclipse solar en sonido para personas ciegas](https://www.elperiodico.com/es/ciencia/20260811/eclipse-sol-12-agosto-personas-ciegas-dispositivo-traduce-dv-133051376)<br>
+08:45 [El departamento del Chocó, entre las zonas más golpeadas por el terremoto que sacudió a Colombia](https://www.elperiodico.com/es/videos/internacional/departamento-choco-zonas-golpeadas-terremoto-colombia-video/133254903.shtml)<br>
+08:31 [Al menos 132 muertos, hospitales desbordados y toques de queda tras terremoto en Colombia](https://www.elperiodico.com/es/videos/internacional/muertos-hospitales-desbordados-toques-queda-terremoto-colombia-video/133254754.shtml)<br>
+08:18 [Trabajos de búsqueda de personas atrapadas en Pereira en la primera noche tras terremoto en Colombia](https://www.elperiodico.com/es/videos/internacional/trabajos-busqueda-personas-atrapadas-pereira-terremoto-colombia-video/133254351.shtml)<br>
+08:18 [El Ibex 35 prolonga su racha de récords con el petróleo al borde de los 90 dólares](https://www.elperiodico.com/es/economia/20260811/cronica-bolsa-ibex-hoy-11-agosto-2026-133254570)<br>
 08:12 [¿Habrá  más réplicas en el terremoto de Colombia? Los expertos apuntan que no tiene relación con el de Venezuela pese a la magnitud similar](https://www.elperiodico.com/es/internacional/20260811/habra-replicas-terremoto-colombia-expertos-133253810)<br>
 08:05 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260811/ultima-hora-incendios-espana-directo-132759066)<br>
 08:03 [Terremoto en Colombia, en directo: muertos, heridos, nuevas replicas y última hora del seísmo](https://www.elperiodico.com/es/internacional/20260811/terremoto-colombia-muertos-ultima-hora-directo-133239425)<br>
