@@ -32,8 +32,8 @@
     "pubDate": "2026-08-11 16:51:56",
     "category": "",
     "description": "",
-    "topic": "",
-    "topic_match_probability": 0
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Estas son las zonas de España con mayor riesgo de sufrir un terremoto",
@@ -41,8 +41,8 @@
     "pubDate": "2026-08-11 16:51:35",
     "category": "",
     "description": "",
-    "topic": "спорт",
-    "topic_match_probability": 100
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "\"El eclipse me está fastidiando la vida\": los coches de alquiler se agotan en Barcelona y los precios se disparan",
@@ -68,8 +68,8 @@
     "pubDate": "2026-08-11 16:47:38",
     "category": "",
     "description": "<h2>El líder húngaro Péter Magyar avanza hacia la \"regeneración democrática\" del país, mientras capea la crisis energética por la sequía del Danubio</h2>",
-    "topic": "пограбування, афера",
-    "topic_match_probability": 95
+    "topic": "вибори",
+    "topic_match_probability": 100
   },
   {
     "title": "Росіяни вбили двох людей у вантажівці на Одещині",
@@ -86,8 +86,8 @@
     "pubDate": "2026-08-11 16:39:05",
     "category": "",
     "description": "<h2>El cuerpo policial se coordinará con los Mossos y Policías Locales para \"favorecer un uso seguro del medio marítimo y prevenir incidentes relacionados con la navegación\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260808/guardia-civil-desplegara-24-000-agentes-seguridad-eclipse-133192340\" target=\"_blank\">La Guardia Civil desplegará 24.000 agentes para garantizar la seguridad durante el eclipse</a></h2>",
-    "topic": "автомобілі",
-    "topic_match_probability": 80
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "В Угорщині обрали нового президента",
@@ -104,8 +104,8 @@
     "pubDate": "2026-08-11 16:38:56",
     "category": "",
     "description": "<h2>Hay una serie de accesorios que no deberían faltarte si vas a hacer un viaje largo durante tus vacaciones de verano</h2>",
-    "topic": "",
-    "topic_match_probability": 0
+    "topic": "автомобілі",
+    "topic_match_probability": 80
   },
   {
     "title": "El caso de hantavirus aislado en Galicia recibe el alta y regresa a su país tras dar negativo en la PCR",
@@ -131,8 +131,8 @@
     "pubDate": "2026-08-11 16:31:00",
     "category": "",
     "description": "<h2>El Gobierno despliega un plan especial de seguridad ante el fenómeno astronómico, una estrategia que, según analistas en ciberdefensa, responde a que los criminales pueden aprovechar la incertidumbre para sembrar contenidos pseudocientíficos y vender productos fraudulentos</h2>",
-    "topic": "",
-    "topic_match_probability": 0
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
   },
   {
     "title": "Fran Rodríguez, pescadero: \"Aquí el horario lo tienes claro. Te levantas a las 5 de la mañana y a las tres de la tarde has terminado\"",
@@ -167,7 +167,7 @@
     "pubDate": "2026-08-11 16:20:17",
     "category": "",
     "description": "<h2>El extremo sueco de 20 años sufre una rotura del ligamento cruzado anterior de la rodilla derecha y se cierra la posibilidad de ser traspasado este verano</h2>",
-    "topic": "вибори",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -203,8 +203,8 @@
     "pubDate": "2026-08-11 16:10:00",
     "category": "",
     "description": "<h2 class=\"item\">España será el único país europeo donde el sol desaparecerá por completo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260811/eclipse-sol-12-agosto-2026-buscador-mejor-lugar-espana-dv-132874879\"><a href=\"https://www.elperiodico.com/es/ciencia/20260730/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674\" >Guía del eclipse del 12 de agosto: Buscador de los mejores miradores de España para vivir el fenómeno</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260730/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674\" >Tres eclipses en tres años: por qué esta década será irrepetible</a></h2>",
-    "topic": "спорт",
-    "topic_match_probability": 100
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Pereira, uno de los centros del Eje Cafetero de Colombia más afectados por el terremoto",
