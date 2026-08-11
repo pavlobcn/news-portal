@@ -1,8 +1,15 @@
-# News for 2026-08-11 12:39
+# News for 2026-08-11 13:33
 
 Previous day: [2026-08-10](./data/2026-08-10.md)
 
 ## ua.korrespondent.net
+13:30 [Акторка вперше показала фото зі свого весілля](https://ua.korrespondent.net/lifestyle/4901865-aktorka-vpershe-pokazala-foto-zi-svoho-vesillia)<br>
+13:12 [Росіяни атакували ринок у Слов’янську, є поранені](https://ua.korrespondent.net/ukraine/4901870-rosiiany-atakuvaly-rynok-u-sloviansku-ye-poraneni)<br>
+13:05 [Ольга Сумська вразила шанувальників відвертим фото](https://ua.korrespondent.net/lifestyle/4901848-olha-sumska-vrazyla-shanuvalnykiv-vidvertym-foto)<br>
+12:58 [Українські аграрії зібрали половину ранніх зернових](https://ua.korrespondent.net/business/economics/4901867-ukrainski-ahrarii-zibraly-polovynu-rannikh-zernovykh)<br>
+12:52 [Росіяни обстріляли Херсон, троє поранених](https://ua.korrespondent.net/ukraine/4901863-rosiiany-obstrilialy-kherson-troie-poranenykh)<br>
+12:51 [Рекордне обміління Дунаю ускладнило експорт українського зерна](https://ua.korrespondent.net/business/economics/4901862-rekordne-obmilinnia-dunaui-uskladnylo-eksport-ukrainskoho-zerna)<br>
+12:44 [Румунія випробувала крилату ШІ-ракету](https://ua.korrespondent.net/world/4901859-rumuniia-vyprobuvala-krylatu-shi-raketu)<br>
 12:16 [На закинутій шахті у Південній Африці загинули 14 нелегальних гірників](https://ua.korrespondent.net/ukraine/4901843-na-zakynutii-shakhti-u-pivdennii-afrytsi-zahynuly-14-nelehalnykh-hirnykiv)<br>
 11:38 [Курс гривні знову впав на готівковому ринку](https://ua.korrespondent.net/business/financial/4901828-kurs-hryvni-znovu-vpav-na-hotivkovomu-rynku)<br>
 11:11 [Румунія зупинить єдину АЕС через посуху](https://ua.korrespondent.net/world/4901815-rumuniia-zupynyt-yedynu-aes-cherez-posukhu)<br>
@@ -40,6 +47,12 @@ Previous day: [2026-08-10](./data/2026-08-10.md)
 08:08 [El Panathinaikos quiere a Nikola Jokic](https://as.com/baloncesto/euroliga/el-panathinaikos-quiere-a-nikola-jokic-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:30 [El Instituto Geográfico Nacional (IGN) lo confirma: estas son las zonas de España con mayor riesgo de sufrir un terremoto](https://www.elperiodico.com/es/sociedad/20260811/terremoto-espana-riesgo-zonas-instituto-geografico-nacional-ign-colombia-dv-et-133259385)<br>
+13:22 [Pere Vallès, experto en viajes, sobre los cruceros: "Es una experiencia 'World Disney', porque estás metido en un sitio donde hay fiestas, comida 24 horas al día, la piscina..."](https://www.elperiodico.com/es/economia/20260811/cruceros-turismo-experiencia-disney-comida-fiesta-ciudades-experto-viajes-pere-valles-dv-et-133143300)<br>
+13:08 [Todo sobre el eclipse solar de 2026: a qué hora es, cuánto dura y dónde se verá mejor](https://www.elperiodico.com/es/ciencia/20260811/eclipse-sol-2026-horario-como-ver-gafas-dv-132838557)<br>
+12:54 [El precio del euríbor hoy, 11 de agosto: una nueva subida pone en aprietos a los hipotecados](https://www.elperiodico.com/es/economia/20260811/euribor-precio-hoy-11-agosto-dv-133256081)<br>
+12:53 [La NASA toma un pueblo de Burgos para seguir eclipse y retransmitirlo al mundo](https://www.elperiodico.com/es/sociedad/20260811/nasa-toma-pueblo-burgos-seguir-eclipse-sol-133262049)<br>
+12:45 [Mónica García ayuda a reanimar a un hombre que se ahogaba en una piscina natural de León](https://www.elperiodico.com/es/sociedad/20260811/monica-garcia-ayuda-reanimar-hombre-133261932)<br>
 12:37 [Así es el Cinturón de Fuego del Pacífico, el motor sísmico que ha sacudido Colombia](https://www.elperiodico.com/es/internacional/20260811/cinturon-fuego-pacifico-motor-sismico-terremoto-colombia-placa-nazca-sudamericana-133257801)<br>
 12:33 [De la Costa Brava a Islandia: así verán el eclipse los empresarios españoles](https://www.elperiodico.com/es/economia/20260811/costa-brava-islandia-veran-eclipse-empresarios-espanoles-133176083)<br>
 12:30 [Dónde ver el eclipse solar del 12 de agosto: mapa de los 27 observatorios en Catalunya](https://www.elperiodico.com/es/ciencia/20260811/eclipse-solar-observatorios-cataluna-dv-123809428)<br>
