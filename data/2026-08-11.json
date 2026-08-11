@@ -1,5 +1,32 @@
 [
   {
+    "title": "За 6700 км від України: у РФ палає НПЗ Роснефти",
+    "link": "https://ua.korrespondent.net/world/russia/4901720-za-6700-km-vid-ukrainy-u-rf-palaie-npz-rosnefty",
+    "pubDate": "2026-08-11 04:06:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524739.jpg\">У Комсомольську-на-Амурі спалахнув НПЗ; також у Ангарську Іркутської області сталася пожежа на місцевій ТЕЦ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Армія РФ атакувала цивільну інфраструктуру Златополя, є постраждалий",
+    "link": "https://ua.korrespondent.net/ukraine/4901718-armiia-rf-atakuvala-tsyvilnu-infrastrukturu-zlatopolia-ye-postrazhdalyi",
+    "pubDate": "2026-08-11 03:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524716.jpg\">Ворожий удар пошкодив об’єкти цивільної інфраструктури на Харківщині. Відомо про одного постраждалого.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп висунув Ірану зустрічні вимоги",
+    "link": "https://ua.korrespondent.net/world/4901706-tramp-vysunuv-iranu-zustrichni-vymohy",
+    "pubDate": "2026-08-11 03:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524594.jpg\">Лідер США відкинув претензії Тегерана щодо компенсацій та заявив про власні фінансові вимоги за загиблих у війнах і придушенні протестів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "У Росії заявляють про чергову атаку на Wildberries",
     "link": "https://ua.korrespondent.net/world/russia/4901714-u-rosii-zaiavliauit-pro-cherhovu-ataku-na-Wildberries",
     "pubDate": "2026-08-11 02:33:00",
@@ -18,6 +45,15 @@
     "topic_match_probability": 98
   },
   {
+    "title": "Масована атака РФ на Запоріжжя: п'ятеро загиблих",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4901712-masovana-ataka-rf-na-zaporizhzhia-piatero-zahyblykh",
+    "pubDate": "2026-08-11 02:04:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524668.jpg\">Кількість жертв і постраждалих від російської атаки зростає: п'ятеро людей загинули, ще 20 постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Сеул не поспішає: що відповіли на прохання Зеленського щодо ППО",
     "link": "https://ua.korrespondent.net/ukraine/4901710-seul-ne-pospishaie-scho-vidpovily-na-prokhannia-zelenskoho-schodo-ppo",
     "pubDate": "2026-08-11 01:33:00",
@@ -25,6 +61,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524656.jpg\">У ПІвденній Кореї наголосили на законодавчих обмеженнях щодо передачі військової допомоги.",
     "topic": "політика",
     "topic_match_probability": 88
+  },
+  {
+    "title": "Ракети й КАБи по Запоріжжю: вже дев'ять поранених",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4901708-rakety-y-kaby-po-zaporizhzhui-vzhe-deviat-poranenykh",
+    "pubDate": "2026-08-11 01:04:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524631.jpg\">Росіяни атакували промислові об'єкти та інфраструктуру. Пошкоджені будинки, нежитлові будівлі, є знеструмлення, виникли пожежі.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Потужний землетрус у Колумбії: щонайменше 111 загиблих, під завалами люди",
@@ -61,6 +106,15 @@
     "description": "",
     "topic": "portada de EL PERIÓDICO",
     "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві прогриміли вибухи: РФ вдарила балістикою",
+    "link": "https://ua.korrespondent.net/city/kiev/4901702-u-kyievi-prohrymily-vybukhy-rf-vdaryla-balistykoui",
+    "pubDate": "2026-08-11 00:06:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4524596.jpg\">У Шевченківському районі фіксується загоряння складських приміщень, є виклик бригади медиків.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El incendio de Niebla en Huelva supera ya las 20.000 hectáreas de perímetro y es imposible de extinguir",
