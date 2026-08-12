@@ -1,4 +1,4 @@
-# News for 2026-08-12 13:36
+# News for 2026-08-12 14:32
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
@@ -23,10 +23,19 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 01:16 [Супутники показали масштаб пожежі на Wildberries у РФ](https://ua.korrespondent.net/world/russia/4902043-suputnyky-pokazaly-masshtab-pozhezhi-na-Wildberries-u-rf)<br>
 
 ## as.com
+14:21 [España, empeñada en soñar despierta](https://as.com/baloncesto/mas_baloncesto/espana-empenada-en-sonar-despierta-f202608-n/)<br>
+13:48 [La Liga Endesa ya tiene calendario](https://as.com/baloncesto/acb/la-liga-endesa-ya-tiene-calendario-f202608-n/)<br>
 07:28 [Alex Sánchez: “El 3x3 es una posibilidad adicional para los jugadores”](https://as.com/baloncesto/mas_baloncesto/alex-sanchez-el-3x3-es-una-posibilidad-adicional-para-los-jugadores-f202608-n/)<br>
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:27 [Un policía de Arkansas tira al suelo y golpea a la cara a una joven negra de 18 años](https://www.elperiodico.com/es/videos/internacional/policia-arkansas-tira-suelo-golpea-cara-joven-negra-video/133293759.shtml)<br>
+14:02 [El metro funcionará 67 horas seguidas por las Fiestas de Gràcia en Barcelona](https://www.elperiodico.com/es/barcelona/20260812/metro-barcelona-67-horas-festes-gracia-2026-133292488)<br>
+14:00 [Los tranvías de Barcelona probarán filtros térmicos en las ventanas para reducir el calor en su interior](https://www.elperiodico.com/es/barcelona/20260812/tranvias-barcelona-probaran-filtros-termicos-ventanas-calor-133230845)<br>
+13:49 [Ada Klein Fortuny: «Cuando una mujer escribe un libro, aunque sea sobre extraterrestres, la pregunta es qué hay de ti en esta novela»](https://www.elperiodico.com/es/sociedad/20260812/ada-klein-fortuny-mujer-escribe-libro-dv-et-133291799)<br>
+13:48 [Los Bombers de Barcelona presentan sus nuevos salvavidas teledirigidos para rescate marítimo](https://www.elperiodico.com/es/videos/barcelona/bombers-barcelona-presentan-nuevos-salvavidas-teledirigidos-rescate-maritimo-video/133292367.shtml)<br>
+13:40 [El vuelo de Iberia para ver el eclipse solar: así lo puedes seguir online](https://www.elperiodico.com/es/ciencia/20260812/eclipse-solar-avion-iberia-vuelo-directo-dv-133286634)<br>
+13:40 [El nuevo salvavidas teledirigido de los Bomberos de Barcelona ya ha rescatado a ocho personas](https://www.elperiodico.com/es/barcelona/20260812/salvavidas-teledirigido-bomberos-rescates-barcelona-133291636)<br>
 13:30 [Este es el pueblo de la España vaciada que la NASA ha elegido para retransmitir el eclipse solar](https://www.elperiodico.com/es/sociedad/20260812/nasa-retransmitira-eclipse-solar-pueblo-espana-vaciada-villalibado-dv-133176359)<br>
 13:17 [El nuevo aparcamiento gratuito del Eix Macià de Sabadell encara su recta final de obras para abrir en enero](https://www.elperiodico.com/es/barcelona/20260812/nuevo-aparcamiento-gratuito-eix-macia-sabadell-recta-final-obras-enero-133291053)<br>
 13:11 [Alfonso Muñoz, funcionario de la Seguridad Social: “Diciembre es el mejor mes para solicitar la jubilación anticipada”](https://www.elperiodico.com/es/economia/20260812/alfonso-munoz-seguridad-social-diciembre-mejor-mes-solicitar-jubilacion-anticipada-dv-133290613)<br>
