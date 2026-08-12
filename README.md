@@ -1,8 +1,24 @@
-# News for 2026-08-12 14:32
+# News for 2026-08-12 15:39
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+15:32 [Працівників Курського СІЗО підозрюють у жорстокому поводженні з полоненими](https://ua.korrespondent.net/ukraine/4902265-pratsivnykiv-kurskoho-sizo-pidozruiuit-u-zhorstokomu-povodzhenni-z-polonenymy)<br>
+15:28 [На Львівщині затримали майора з трьома ухилянтами](https://ua.korrespondent.net/ukraine/4902264-na-lvivschyni-zatrymaly-maiora-z-troma-ukhyliantamy)<br>
+15:17 [Експорт кави з Колумбії призупинили після потужного землетрусу](https://ua.korrespondent.net/business/4902261-eksport-kavy-z-kolumbii-pryzupynyly-pislia-potuzhnoho-zemletrusu)<br>
+15:16 [Росіяни поцілили в освітню будівлю на Харківщині](https://ua.korrespondent.net/ukraine/4902260-rosiiany-potsilyly-v-osvitnui-budivlui-na-kharkivschyni)<br>
+15:08 [Росіяни вдарили по Запорізькому району, є загиблий](https://ua.korrespondent.net/ukraine/4902257-rosiiany-vdaryly-po-zaporizkomu-raionu-ye-zahyblyi)<br>
+15:05 [Булінг і насильство в школах: МОН запровадило нові правила](https://ua.korrespondent.net/ukraine/4902255-bulinh-i-nasylstvo-v-shkolakh-mon-zaprovadylo-novi-pravyla)<br>
+15:02 [Армія РФ втратила рекордну кількість автотехніки](https://ua.korrespondent.net/ukraine/4902254-armiia-rf-vtratyla-rekordnu-kilkist-avtotekhniky)<br>
+14:48 [Не стало 90-річної праправнучки Тараса Шевченка - ЗМІ](https://ua.korrespondent.net/showbiz/culture/4902243-ne-stalo-90-richnoi-prapravnuchky-tarasa-shevchenka-zmi)<br>
+14:43 [ГУР ідентифікувало ліквідованого на війні філіппінця-найманця РФ](https://ua.korrespondent.net/ukraine/4902248-hur-identyfikuvalo-likvidovanoho-na-viini-filippintsia-naimantsia-rf)<br>
+14:37 [Україна домовилася з Молдовою про 50% знижку на транзит](https://ua.korrespondent.net/business/4902246-ukraina-domovylasia-z-moldovoui-pro-50-znyzhku-na-tranzyt)<br>
+14:19 [У Києві врятували малюка, якого вкусила змія](https://ua.korrespondent.net/ukraine/4902239-u-kyievi-vriatuvaly-maluika-yakoho-vkusyla-zmiia)<br>
+14:17 [Запоріжжя пережило наймасовішу атаку РФ - ОВА](https://ua.korrespondent.net/city/zaporozhye/4902237-zaporizhzhia-perezhylo-naimasovishu-ataku-rf-ova)<br>
+14:15 [Давнє місто знову з’явилося з-під води](https://ua.korrespondent.net/tech/science/4902235-davnie-misto-znovu-ziavylosia-z-pid-vody)<br>
+13:55 [З-під завалів у Колумбії врятували немовля та його батька](https://ua.korrespondent.net/world/4902230-z-pid-zavaliv-u-kolumbii-vriatuvaly-nemovlia-ta-yoho-batka)<br>
+13:53 [НПЗ в Орську зупинився після атаки дронів - ЗМІ](https://ua.korrespondent.net/ukraine/4902228-npz-v-orsku-zupynyvsia-pislia-ataky-droniv-zmi)<br>
+13:47 [Нафтова пляма з "тіньового" танкера дісталася Омана](https://ua.korrespondent.net/world/4902225-naftova-pliama-z-tinovoho-tankera-distalasia-omana)<br>
 13:26 [Тепла може не бути: у Києві складають списки людей для переселення](https://ua.korrespondent.net/city/kiev/4902219-tepla-mozhe-ne-buty-u-kyievi-skladauit-spysky-luidei-dlia-pereselennia)<br>
 13:25 [Дружина Кузьми розповіла про фільм Кузьма: Страшно веселий](https://ua.korrespondent.net/showbiz/cinema/4902204-druzhyna-kuzmy-rozpovila-pro-film-kuzma-strashno-veselyi)<br>
 13:00 [Генштаб назвав три уражені цілі на ТОТ](https://ua.korrespondent.net/ukraine/4902207-henshtab-nazvav-try-urazheni-tsili-na-tot)<br>
@@ -29,6 +45,13 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:35 [Un policía de Arkansas da un puñetazo en la cara y tira al suelo a una joven negra de 18 años en un control de velocidad](https://www.elperiodico.com/es/internacional/20260812/policia-arkansas-golpea-cara-tira-suelo-joven-negra-18-anos-control-velocidad-133295376)<br>
+15:27 [Una lente blanda alimentada por grafeno podría cambiar para siempre las gafas y cámaras del futuro](https://www.elperiodico.com/es/tendencias21/20260812/lente-blanda-alimentada-grafeno-cambiar-133295215)<br>
+15:10 [El gran eclipse de 2027: durará más de 6 minutos y oscurecerá gran parte del planeta](https://www.elperiodico.com/es/ciencia/20260812/eclipse-solar-2027-mas-largo-siglo-como-donde-ver-espana-dv-127870269)<br>
+15:00 [La nueva referencia de Insta360: review de la X6 en 8K y Dolby Vision](https://www.elperiodico.com/es/tecnologia/20260812/nueva-referencia-insta360-review-x6-133284514)<br>
+15:00 [MAPA | Los municipios de Catalunya más recomendados para ver el eclipse solar](https://www.elperiodico.com/es/ciencia/20260812/municipios-eclipse-solar-12-agosto-cataluna-dv-loc-131229667)<br>
+14:53 [Los Mossos denuncian a siete motoristas que circulaban a más de 160 km/h por Moià](https://www.elperiodico.com/es/sucesos/20260812/denuncian-siete-motoristas-circulaban-mossos-133294312)<br>
+14:50 [Largas colas en Barcelona para hacerse con las últimas unidades de gafas para el eclipse](https://www.elperiodico.com/es/videos/sociedad/largas-colas-barcelona-hacerse-ultimas-gafas-eclipse-video/133294328.shtml)<br>
 14:27 [Un policía de Arkansas tira al suelo y golpea a la cara a una joven negra de 18 años](https://www.elperiodico.com/es/videos/internacional/policia-arkansas-tira-suelo-golpea-cara-joven-negra-video/133293759.shtml)<br>
 14:02 [El metro funcionará 67 horas seguidas por las Fiestas de Gràcia en Barcelona](https://www.elperiodico.com/es/barcelona/20260812/metro-barcelona-67-horas-festes-gracia-2026-133292488)<br>
 14:00 [Los tranvías de Barcelona probarán filtros térmicos en las ventanas para reducir el calor en su interior](https://www.elperiodico.com/es/barcelona/20260812/tranvias-barcelona-probaran-filtros-termicos-ventanas-calor-133230845)<br>
