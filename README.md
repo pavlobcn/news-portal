@@ -1,8 +1,10 @@
-# News for 2026-08-12 19:45
+# News for 2026-08-12 20:41
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+20:21 [Повітряні сили змінили звіти про балістику](https://ua.korrespondent.net/ukraine/4902357-povitriani-syly-zminyly-zvity-pro-balistyku)<br>
+19:55 [Google представила нову серію Pixel 11](https://ua.korrespondent.net/lifestyle/gadgets/4902352-Google-predstavyla-novu-seriui-Pixel-11)<br>
 19:24 [У Польщі масштабний витік даних: постраждали 19 млн людей](https://ua.korrespondent.net/world/4902338-u-polschi-masshtabnyi-vytik-danykh-postrazhdaly-19-mln-luidei)<br>
 19:05 [ЗСУ наростили ефективність дронів на полі бою](https://ua.korrespondent.net/ukraine/4902335-zsu-narostyly-efektyvnist-droniv-na-poli-boui)<br>
 18:51 [Лубінець назвав кількість страчених українських полонених](https://ua.korrespondent.net/ukraine/4902331-lubinets-nazvav-kilkist-strachenykh-ukrainskykh-polonenykh)<br>
@@ -56,6 +58,9 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:17 [Las primeras imágenes del eclipse](https://www.elperiodico.com/es/fotos/sociedad/primeras-imagenes-eclipse-133304111)<br>
+20:14 [El 'eclipse del siglo' de este 12 de agosto coincide con el momento álgido de lluvia de estrellas de las Perseidas](https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-agosto-noche-perseidas-espectaculo-astronomico-unico-129495516)<br>
+20:00 [Los psicólogos coinciden sobre el calor: "Es un cóctel que hace que las tasas de delincuencia aumenten"](https://www.elperiodico.com/es/ser-feliz/20260812/calor-violencia-psicologos-delincuencia-dv-133065605)<br>
 19:36 [El show de la Tramuntana durante el eclipse: flotadores en la carretera, picnics en los arcenes y extranjeros ‘pasando’ de la policía y las restricciones](https://www.elperiodico.com/es/sociedad/20260812/show-tramuntana-durante-eclipse-flotadores-133302653)<br>
 19:25 [Protecció Civil pide el confinamiento de la zona cercana al incendio de Castellví de la Marca (Alt Penedès)](https://www.elperiodico.com/es/sociedad/20260812/proteccio-civil-pide-confinamiento-zona-133302206)<br>
 19:21 [A PIE DE CALLE | Ambiente en el Sot del Migdia (Montjuic) previo al eclipse](https://www.elperiodico.com/es/videos/sociedad/pie-calle-ambiente-sot-migdia/133302220.shtml)<br>
