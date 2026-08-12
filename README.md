@@ -1,8 +1,10 @@
-# News for 2026-08-12 18:41
+# News for 2026-08-12 19:14
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+19:05 [ЗСУ наростили ефективність дронів на полі бою](https://ua.korrespondent.net/ukraine/4902335-zsu-narostyly-efektyvnist-droniv-na-poli-boui)<br>
+18:51 [Лубінець назвав кількість страчених українських полонених](https://ua.korrespondent.net/ukraine/4902331-lubinets-nazvav-kilkist-strachenykh-ukrainskykh-polonenykh)<br>
 16:43 [Туреччина втратила другий за рік винищувач F-16](https://ua.korrespondent.net/world/4902297-turechchyna-vtratyla-druhyi-za-rik-vynyschuvach-F-16)<br>
 16:40 [Технологічний бум приніс Норвегії рекордні $184 млрд](https://ua.korrespondent.net/business/4902295-tekhnolohichnyi-bum-prynis-norvehii-rekordni-184-mlrd)<br>
 16:34 [Благородних оленів знову помітили на Одещині](https://ua.korrespondent.net/ukraine/4902281-blahorodnykh-oleniv-znovu-pomityly-na-odeschyni)<br>
@@ -53,6 +55,14 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:06 [Migrantes construyen chabolas en los exteriores del CETI de Ceuta](https://www.elperiodico.com/es/videos/sociedad/migrantes-construyen-chabolas-exteriores-ceti-ceuta/133301796.shtml)<br>
+19:06 [El eclipse no hace sombra al día del espectador en el cine de Gavà: "No tenía pensado verlo y hoy es más barato"](https://www.elperiodico.com/es/ocio-y-cultura/20260812/eclipse-sombra-dia-espectador-cine-gava-133300116)<br>
+19:03 [Los redactores y fotógrafos de EL PERIÓDICO relatan a pie de calle un eclipse histórico](https://www.elperiodico.com/es/sociedad/20260812/redactores-fotografos-periodico-relatan-eclipse-133301025)<br>
+19:00 [Javi (23 años), el joven que vive en una cabaña aislada tras una infancia difícil en centros de menores: "Lo que me ha servido mucho es venirme aquí y alejarme de todo"](https://www.elperiodico.com/es/sociedad/20260812/javi-23-anos-joven-vive-cabana-aislada-dv-et-133120119)<br>
+18:54 [A PIE DE CALLE | Los consejos de la astronauta Sara Garcia Alonso para disfrutar el eclipse al máximo](https://www.elperiodico.com/es/videos/sociedad/pie-calle-consejos-astronauta-sara/133301400.shtml)<br>
+18:53 [A PIE DE CALLE / Colas y aglomeraciones en la estación de Sants a poco más de una hora del eclipse](https://www.elperiodico.com/es/videos/sociedad/pie-calle-colas-aglomeraciones-estacion/133301396.shtml)<br>
+18:51 [Los bulos sobre el eclipse: Ni peligro para embarazos ni aumento de la radiación](https://www.elperiodico.com/es/sociedad/20260812/bulos-desinformacion-eclipse-embarazos-radiacion-prediccion-arboles-133250981)<br>
+18:48 [DIRECTO | Eclipse solar desde el observatorio de Yebes, Guadalajara](https://www.elperiodico.com/es/videos/sociedad/directo-eclipse-solar-observatorio-yebes/133301160.shtml)<br>
 18:40 [Una IA de Google puede adelantar hasta 30 horas la predicción de los ciclones](https://www.elperiodico.com/es/tendencias21/20260812/ia-google-adelantar-30-horas-133300919)<br>
 18:30 [Estos son los principales síntomas en los ojos después de ver el eclipse solar](https://www.elperiodico.com/es/salud/20260812/sintomas-lesion-ojos-retinopatia-solar-despues-eclipse-espana-dv-et-133289248)<br>
 18:30 [Irene y Carlos, tres años viviendo en una furgoneta camperizada: "Hablar las cosas pequeñas antes de que se vuelvan grandes, porque las pequeñas cosas en 10 m² se crecen"](https://www.elperiodico.com/es/sociedad/20260812/irene-carlos-viviendo-furgoneta-camperizada-trabajo-dv-133115990)<br>
