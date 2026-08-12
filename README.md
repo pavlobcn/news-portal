@@ -1,8 +1,10 @@
-# News for 2026-08-12 22:09
+# News for 2026-08-12 23:04
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+22:25 [Сонячне затемнення. Ідеальні локації в Іспанії](https://ua.korrespondent.net/world/4902391-soniachne-zatemnennia-idealni-lokatsii-v-ispanii)<br>
+21:13 [Астрономи відкрили новий вид космічного об’єкта - чорну діру-зірку](https://ua.korrespondent.net/tech/space/4902375-astronomy-vidkryly-novyi-vyd-kosmichnoho-obiekta-chornu-diru-zirku)<br>
 20:40 [У Франції через лісові пожежі евакуювали 1200 людей](https://ua.korrespondent.net/world/4902361-u-frantsii-cherez-lisovi-pozhezhi-evakuuivaly-1200-luidei)<br>
 20:21 [Повітряні сили змінили звіти про балістику](https://ua.korrespondent.net/ukraine/4902357-povitriani-syly-zminyly-zvity-pro-balistyku)<br>
 19:55 [Google представила нову серію Pixel 11](https://ua.korrespondent.net/lifestyle/gadgets/4902352-Google-predstavyla-novu-seriui-Pixel-11)<br>
@@ -59,6 +61,14 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:55 ["Este viaje es un calvario": así culminó Sorolla su última obra maestra](https://www.elperiodico.com/es/ocio-y-cultura/20260812/viaje-calvario-culmino-sorolla-ultima-obra-maestra-133311724)<br>
+22:49 [La 'consellera' Sònia Hernández, en el concierto del eclipse: "Ha superado cualquier expectativa posible"](https://www.elperiodico.com/es/ocio-y-cultura/20260812/sonia-hernandez-consellera-cultura-concierto-eclipse-133310013)<br>
+22:43 [El eclipse se asoma tras las Cuatro Torres de Madrid](https://www.elperiodico.com/es/videos/sociedad/eclipse-asoma-cuatro-torres-madrid/133311176.shtml)<br>
+22:41 [Jessica Martin, 'cazadora' de eclipses, entre el público fascinado de Tarragona: "Es una experiencia marciana"](https://www.elperiodico.com/es/tarragona/20260812/jessica-martin-cazadora-eclipses-publico-tarragona-133308924)<br>
+22:27 [El eclipse pone a prueba el sistema eléctrico y las redes de telecomunicaciones](https://www.elperiodico.com/es/economia/20260812/eclipse-pone-prueba-sistema-electrico-redes-telecomunicaciones-133310022)<br>
+22:23 [Concierto secreto del Festival Jordi Savall durante el eclipse](https://www.elperiodico.com/es/fotos/ocio-y-cultura/concierto-secreto-festival-jordi-savall-133309683)<br>
+22:23 [Música y lágrimas entre viñedos en el eclipse del Festival Jordi Savall](https://www.elperiodico.com/es/ocio-y-cultura/20260812/concierto-eclipse-barroco-santes-creus-festival-jordi-savall-133289471)<br>
+22:12 [A PIE DE CALLE | Jan Magarolas nos cuenta como se ha vivido el eclipse en Tarragona](https://www.elperiodico.com/es/videos/sociedad/pie-calle-jan-magarolas-cuenta/133308999.shtml)<br>
 22:08 [Una caída desde el techo de un tren, 10 denuncias por circular por espacios protegidos o dos barcos a la deriva: los incidentes que deja el eclipse](https://www.elperiodico.com/es/sucesos/20260812/caida-techo-tren-10-denuncias-espacios-naturales-embarcaciones-averiadas-deriva-incidentes-eclipse-133308767)<br>
 21:58 [Así se vio el eclipse total de Sol desde un avión](https://www.elperiodico.com/es/videos/sociedad/eclipse-total-sol-avion/133308601.shtml)<br>
 21:57 [Eclipse solar con aullidos: así se ha vivido desde la terraza más alta de Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260812/eclipse-solar-barcelona-nobu-terraza-alta-aullidos-133297700)<br>
