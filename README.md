@@ -1,8 +1,16 @@
-# News for 2026-08-12 15:39
+# News for 2026-08-12 16:46
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+16:43 [Туреччина втратила другий за рік винищувач F-16](https://ua.korrespondent.net/world/4902297-turechchyna-vtratyla-druhyi-za-rik-vynyschuvach-F-16)<br>
+16:40 [Технологічний бум приніс Норвегії рекордні $184 млрд](https://ua.korrespondent.net/business/4902295-tekhnolohichnyi-bum-prynis-norvehii-rekordni-184-mlrd)<br>
+16:34 [Благородних оленів знову помітили на Одещині](https://ua.korrespondent.net/ukraine/4902281-blahorodnykh-oleniv-znovu-pomityly-na-odeschyni)<br>
+16:21 [Воювали проти ЗСУ: двоє бойовиків отримали по 15 років тюрми](https://ua.korrespondent.net/ukraine/4902286-vouivaly-proty-zsu-dvoie-boiovykiv-otrymaly-po-15-rokiv-tuirmy)<br>
+16:10 [На Волині чоловік поранив ножем військовослужбовця ТЦК](https://ua.korrespondent.net/ukraine/4902283-na-volyni-cholovik-poranyv-nozhem-viiskovosluzhbovtsia-ttsk)<br>
+15:59 [ЗСУ звільнили 26 населених пунктів на півдні](https://ua.korrespondent.net/ukraine/4902279-zsu-zvilnyly-26-naselenykh-punktiv-na-pivdni)<br>
+15:50 [Двоє коллаборантів отримали по 15 років тюрми](https://ua.korrespondent.net/ukraine/4902273-dvoie-kollaborantiv-otrymaly-po-15-rokiv-tuirmy)<br>
+15:47 [Укрзалізниця відновила звичайний рух поїздів](https://ua.korrespondent.net/business/4902270-ukrzaliznytsia-vidnovyla-zvychainyi-rukh-poizdiv)<br>
 15:32 [Працівників Курського СІЗО підозрюють у жорстокому поводженні з полоненими](https://ua.korrespondent.net/ukraine/4902265-pratsivnykiv-kurskoho-sizo-pidozruiuit-u-zhorstokomu-povodzhenni-z-polonenymy)<br>
 15:28 [На Львівщині затримали майора з трьома ухилянтами](https://ua.korrespondent.net/ukraine/4902264-na-lvivschyni-zatrymaly-maiora-z-troma-ukhyliantamy)<br>
 15:17 [Експорт кави з Колумбії призупинили після потужного землетрусу](https://ua.korrespondent.net/business/4902261-eksport-kavy-z-kolumbii-pryzupynyly-pislia-potuzhnoho-zemletrusu)<br>
@@ -45,6 +53,20 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:43 [Rodalies y Regionals llenos hacia la franja de totalidad del eclipse de Catalunya: "Hemos bloqueado las puertas del tren para que entrara aire"](https://www.elperiodico.com/es/sociedad/20260812/rodalies-regionals-llenos-franja-totalidad-eclipse-cataluna-133295537)<br>
+16:38 [Los usuarios de Rodalies refuerzan su app sobre el estado del servicio alternativa a la oficial](https://www.elperiodico.com/es/sociedad/20260812/transportam-reta-nueva-app-rodalies-actualizacion-proximo-agosto-133284780)<br>
+16:38 [A PIE DE CALLE | Valentina Raffio explica cómo ponerse correctamente las gafas para ver el eclipse](https://www.elperiodico.com/es/videos/sociedad/pie-calle-valentina-raffio-explica/133297061.shtml)<br>
+16:37 [Mariona Font: "Antes la gente iba a un museo por disfrute estético; nosotros, en L'Escala, explicamos un 'modus vivendi' que el turismo ha cambiado"](https://www.elperiodico.com/es/sociedad/20260812/mariona-font-gente-iba-museo-modus-vivendi-turismo-dv-et-133295486)<br>
+16:30 [A PIE DE CALLE | Roberto Bécares, el eclipse desde el Observatorio de Yebes](https://www.elperiodico.com/es/videos/sociedad/pie-calle-roberto-becares-eclipse/133296899.shtml)<br>
+16:18 [BBVA pone el foco en la España rural: más de 4.600 pymes reciben su apoyo en municipios de menos de 5.000 habitantes](https://www.elperiodico.com/es/economia/20260812/bbva-pone-foco-espana-rural-133296702)<br>
+16:15 [La barra del Trabucador se llena de visitantes a la espera del eclipse: "Solo pasa una vez en la vida"](https://www.elperiodico.com/es/sociedad/20260812/barra-trabucador-llena-visitantes-espera-eclipse-133296162)<br>
+16:00 [Un proyecto de arte urbano dinamiza el comercio de barrio del Clot y ahuyenta las pintadas de sus persianas](https://www.elperiodico.com/es/barcelona/20260812/clot-persianas-arte-urbano-ro-blackblock-comercios-133228029)<br>
+16:00 [Ana Forés, doctora en Filosofía y Ciencias de la Educación: "Hoy hay más miedo a traumatizar a los hijos que a prepararlos para la vida"](https://www.elperiodico.com/es/educacion/20260812/ana-fores-educadora-miedo-trauma-hijos-preparacion-vida-samanta-villar-130356412)<br>
+15:55 [Rescatan a un gato bebé atrapado en un edificio derrumbado en Colombia](https://www.elperiodico.com/es/videos/internacional/rescatan-gato-bebe-atrapado-edificio-colombia-terremoto/133295919.shtml)<br>
+15:50 [Qué hacer durante un terremoto: protegerse bajo una mesa y no salir al exterior hasta que termine el temblor](https://www.elperiodico.com/es/salud/20260812/que-hacer-durante-terremoto-protegerse-mesa-131836038)<br>
+15:45 [Entre el muro y el algoritmo: una nueva generación de grafiteros cambia las reglas del arte urbano](https://www.elperiodico.com/es/sociedad/20260812/generacion-grafiteros-muro-algoritmo-rompe-reglas-arte-urbano-grafitis-133267750)<br>
+15:42 [Una nueva promoción inmobiliaria suma 82 viviendas al centro de Sabadell](https://www.elperiodico.com/es/barcelona/20260812/nueva-promocion-inmobiliaria-suma-82-viviendas-centro-sabadell-133295222)<br>
+15:35 [Cuándo ponerse y quitarse las gafas durante el eclipse solar: la advertencia de una farmacéutica en Instagram para no dañar los ojos](https://www.elperiodico.com/es/tele/yotele/20260812/cuando-ponerse-quitarse-gafas-durante-eclipse-advertencia-farmaceutica-instagram-danar-ojos-133291301)<br>
 15:35 [Un policía de Arkansas da un puñetazo en la cara y tira al suelo a una joven negra de 18 años en un control de velocidad](https://www.elperiodico.com/es/internacional/20260812/policia-arkansas-golpea-cara-tira-suelo-joven-negra-18-anos-control-velocidad-133295376)<br>
 15:27 [Una lente blanda alimentada por grafeno podría cambiar para siempre las gafas y cámaras del futuro](https://www.elperiodico.com/es/tendencias21/20260812/lente-blanda-alimentada-grafeno-cambiar-133295215)<br>
 15:10 [El gran eclipse de 2027: durará más de 6 minutos y oscurecerá gran parte del planeta](https://www.elperiodico.com/es/ciencia/20260812/eclipse-solar-2027-mas-largo-siglo-como-donde-ver-espana-dv-127870269)<br>
@@ -53,6 +75,7 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 14:53 [Los Mossos denuncian a siete motoristas que circulaban a más de 160 km/h por Moià](https://www.elperiodico.com/es/sucesos/20260812/denuncian-siete-motoristas-circulaban-mossos-133294312)<br>
 14:50 [Largas colas en Barcelona para hacerse con las últimas unidades de gafas para el eclipse](https://www.elperiodico.com/es/videos/sociedad/largas-colas-barcelona-hacerse-ultimas-gafas-eclipse-video/133294328.shtml)<br>
 14:27 [Un policía de Arkansas tira al suelo y golpea a la cara a una joven negra de 18 años](https://www.elperiodico.com/es/videos/internacional/policia-arkansas-tira-suelo-golpea-cara-joven-negra-video/133293759.shtml)<br>
+14:05 [Tres eclipses en tres años: la década astronómica que no se volverá a repetir](https://www.elperiodico.com/es/ciencia/20260812/eclipse-solar-12-agosto-2026-donde-ver-galicia-cataluna-espana-dv-100808674)<br>
 14:02 [El metro funcionará 67 horas seguidas por las Fiestas de Gràcia en Barcelona](https://www.elperiodico.com/es/barcelona/20260812/metro-barcelona-67-horas-festes-gracia-2026-133292488)<br>
 14:00 [Los tranvías de Barcelona probarán filtros térmicos en las ventanas para reducir el calor en su interior](https://www.elperiodico.com/es/barcelona/20260812/tranvias-barcelona-probaran-filtros-termicos-ventanas-calor-133230845)<br>
 13:49 [Ada Klein Fortuny: «Cuando una mujer escribe un libro, aunque sea sobre extraterrestres, la pregunta es qué hay de ti en esta novela»](https://www.elperiodico.com/es/sociedad/20260812/ada-klein-fortuny-mujer-escribe-libro-dv-et-133291799)<br>
@@ -64,6 +87,7 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 13:11 [Alfonso Muñoz, funcionario de la Seguridad Social: “Diciembre es el mejor mes para solicitar la jubilación anticipada”](https://www.elperiodico.com/es/economia/20260812/alfonso-munoz-seguridad-social-diciembre-mejor-mes-solicitar-jubilacion-anticipada-dv-133290613)<br>
 13:10 [A pie de calle | Valentina Raffio. El eclipse desde el Observatorio del Ebre](https://www.elperiodico.com/es/videos/sociedad/pie-calle-valentina-raffio-eclipse-observatori-ebre-video/133290961.shtml)<br>
 12:53 [La escritora Lilja Sigurdardóttir, ante el otro eclipse total, en Islandia: "He decidido no contribuir al colapso de tráfico y no lo veré"](https://www.elperiodico.com/es/internacional/20260812/ua-mathiasdottir-traductora-islandesa-hija-133244747)<br>
+12:53 [La escritora Lilja Sigurdardóttir, ante el otro eclipse total, en Islandia: "He decidido no contribuir al colapso de tráfico y no lo veré"](https://www.elperiodico.com/es/internacional/20260812/eclipse-islandia-bjork-ua-mathiasdottir-traductora-islandesa-hija-133244747)<br>
 12:45 [El aeropuerto de Barcelona-El Prat cierra julio al alza: el tráfico crece un 6%](https://www.elperiodico.com/es/economia/20260812/aeropuerto-barcelona-el-prat-cierra-julio-2026-trafico-4-mas-133288656)<br>
 12:43 [Cuando la tierra tiembla, los pueblos se sostienen](https://www.elperiodico.com/es/opinion/20260812/tierra-tiembla-pueblos-sostienen-terremoto-colombia-133289466)<br>
 12:43 [Lucía, abogada: "Cuidar de tus padres durante años no significa que te corresponda automáticamente una parte mayor de herencia"](https://www.elperiodico.com/es/economia/20260812/lucia-abogada-cuidar-padres-herencia-dv-et-133289717)<br>
