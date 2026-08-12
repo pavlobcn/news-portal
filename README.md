@@ -1,6 +1,20 @@
-# News for 2026-08-12 04:12
+# News for 2026-08-12 06:19
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+04:22 [Жертв уже 250: у Колумбії триває рятувальна операція після землетрусу](https://ua.korrespondent.net/world/4902059-zhertv-uzhe-250-u-kolumbii-tryvaie-riatuvalna-operatsiia-pislia-zemletrusu)<br>
 01:16 [Супутники показали масштаб пожежі на Wildberries у РФ](https://ua.korrespondent.net/world/russia/4902043-suputnyky-pokazaly-masshtab-pozhezhi-na-Wildberries-u-rf)<br>
+
+## www.elperiodico.com
+06:02 [El trivial definitivo del eclipse: 20 preguntas para poner a prueba cuánto sabes del fenómeno astronómico del siglo](https://www.elperiodico.com/es/sociedad/20260812/trivial-eclipse-20-preguntas-astronomia-curiosidades-133260166)<br>
+06:00 [Consejos 'last minute' de los científicos para disfrutar del eclipse: deja el móvil en el bolsillo, pon un temporizador y mira más allá del sol](https://www.elperiodico.com/es/sociedad/20260812/consejos-cientificos-eclipse-gafas-movil-visibilidad-133262629)<br>
+06:00 [El eclipse dispara la demanda hotelera en Islandia y los cruceros por el Ártico: "Se han hecho reservas con hasta dos años de antelación"](https://www.elperiodico.com/es/internacional/20260812/eclipse-islandia-groenlandia-cruceros-hoteles-artico-reservas-dos-anos-antelacion-133267741)<br>
+06:00 [El Rey se pondrá las gafas del eclipse en Mallorca antes de cogerse dos semanas largas de vacaciones](https://www.elperiodico.com/es/politica/20260812/rey-felipe-gafas-eclipse-solar-mallorca-133268229)<br>
+06:00 [Así avanzan las obras para terminar la L9-L10 en 2032, a un kilómetro de alcanzar Lesseps](https://www.elperiodico.com/es/economia/20260812/chequeo-obras-metro-l9-l10-avanzan-falta-un-kilometro-lesseps-133178023)<br>
+06:00 ['Checklist' para el eclipse: 5 cosas que debes llevar en la mochila para disfrutar del evento astronómico del siglo](https://www.elperiodico.com/es/sociedad/20260812/checklsit-eclipse-cosas-imprescindibles-llevar-gafas-133257276)<br>
+06:00 [La Diputación de Barcelona invertirá 15 millones para resucitar un edificio enfermo de la Diagonal cerrado desde 2010](https://www.elperiodico.com/es/barcelona/20260812/barcelona-edificio-enfermo-obras-diputacion-133249982)<br>
+06:00 [Marta Ramon, profesora de Psicología en la UB: "Los vínculos sociales favorecen el aprendizaje y son un factor protector del bienestar psicológico"](https://www.elperiodico.com/es/ser-feliz/20260812/marta-ramon-profesora-psicologia-ub-132334309)<br>
+05:56 [VÍDEO: Lucía González de Allande Stars nos da las claves para ver el eclipse solar](https://www.elperiodico.com/es/videos/sociedad/video-lucia-gonzalez-allande-stars/133280827.shtml)<br>
+05:52 [Eclipse solar, última hora en directo: a qué hora es, mapa con franja de visibilidad en España y dónde encontrar gafas homologadas](https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-ultima-hora-directo-133133160)<br>
+05:35 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos](https://www.elperiodico.com/es/sociedad/20260812/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
