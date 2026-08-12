@@ -1,8 +1,9 @@
-# News for 2026-08-12 19:14
+# News for 2026-08-12 19:45
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+19:24 [У Польщі масштабний витік даних: постраждали 19 млн людей](https://ua.korrespondent.net/world/4902338-u-polschi-masshtabnyi-vytik-danykh-postrazhdaly-19-mln-luidei)<br>
 19:05 [ЗСУ наростили ефективність дронів на полі бою](https://ua.korrespondent.net/ukraine/4902335-zsu-narostyly-efektyvnist-droniv-na-poli-boui)<br>
 18:51 [Лубінець назвав кількість страчених українських полонених](https://ua.korrespondent.net/ukraine/4902331-lubinets-nazvav-kilkist-strachenykh-ukrainskykh-polonenykh)<br>
 16:43 [Туреччина втратила другий за рік винищувач F-16](https://ua.korrespondent.net/world/4902297-turechchyna-vtratyla-druhyi-za-rik-vynyschuvach-F-16)<br>
@@ -55,6 +56,10 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:36 [El show de la Tramuntana durante el eclipse: flotadores en la carretera, picnics en los arcenes y extranjeros ‘pasando’ de la policía y las restricciones](https://www.elperiodico.com/es/sociedad/20260812/show-tramuntana-durante-eclipse-flotadores-133302653)<br>
+19:25 [Protecció Civil pide el confinamiento de la zona cercana al incendio de Castellví de la Marca (Alt Penedès)](https://www.elperiodico.com/es/sociedad/20260812/proteccio-civil-pide-confinamiento-zona-133302206)<br>
+19:21 [A PIE DE CALLE | Ambiente en el Sot del Migdia (Montjuic) previo al eclipse](https://www.elperiodico.com/es/videos/sociedad/pie-calle-ambiente-sot-migdia/133302220.shtml)<br>
+19:19 [El Gran Hermano del Observatorio de Yebes durante el eclipse solar: drones, caballos, perros y 70 agentes](https://www.elperiodico.com/es/sociedad/20260812/gran-hermano-seguridad-observatorio-yebes-eclipse-solar-133301661)<br>
 19:06 [Migrantes construyen chabolas en los exteriores del CETI de Ceuta](https://www.elperiodico.com/es/videos/sociedad/migrantes-construyen-chabolas-exteriores-ceti-ceuta/133301796.shtml)<br>
 19:06 [El eclipse no hace sombra al día del espectador en el cine de Gavà: "No tenía pensado verlo y hoy es más barato"](https://www.elperiodico.com/es/ocio-y-cultura/20260812/eclipse-sombra-dia-espectador-cine-gava-133300116)<br>
 19:03 [Los redactores y fotógrafos de EL PERIÓDICO relatan a pie de calle un eclipse histórico](https://www.elperiodico.com/es/sociedad/20260812/redactores-fotografos-periodico-relatan-eclipse-133301025)<br>

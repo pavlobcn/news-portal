@@ -1,5 +1,77 @@
 [
   {
+    "title": "El show de la Tramuntana durante el eclipse: flotadores en la carretera, picnics en los arcenes y extranjeros ‘pasando’ de la policía y las restricciones",
+    "link": "https://www.elperiodico.com/es/sociedad/20260812/show-tramuntana-durante-eclipse-flotadores-133302653",
+    "pubDate": "2026-08-12 19:36:32",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-hoy-12-agosto-ultima-hora-directo-133282438\" target=\"_blank\">DIRECTO| Última hora del eclipse del 12 de agosto</a></h2><h2 class=\"item\">La peligrosa y serpenteante carretera de la Tramuntana se ha convertido en una improvisada pasarela de aspirantes a espectadores, con estampas dantescas y, en ocasiones, surrealistas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "До 7 тисяч грн: Зеленський розповів, як зростуть стипендії",
+    "link": "https://ua.korrespondent.net/business/financial/4902344-do-7-tysiach-hrn-zelenskyi-rozpoviv-yak-zrostut-stypendii",
+    "pubDate": "2026-08-12 19:35:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526324.jpg\">Від 1 вересня українські студенти отримуватимуть більші академічні стипендії. Водночас плата за проживання у гуртожитках не має зрости.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Protecció Civil pide el confinamiento de la zona cercana al incendio de Castellví de la Marca (Alt Penedès)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260812/proteccio-civil-pide-confinamiento-zona-133302206",
+    "pubDate": "2026-08-12 19:25:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі масштабний витік даних: постраждали 19 млн людей",
+    "link": "https://ua.korrespondent.net/world/4902338-u-polschi-masshtabnyi-vytik-danykh-postrazhdaly-19-mln-luidei",
+    "pubDate": "2026-08-12 19:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526314.jpg\">У Польщі розслідують масштабну кібератаку на компанію MyDr. З її систем могли викрасти понад 2 ТБ даних майже 19 мільйонів людей, зокрема медичну інформацію.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luca Hoek, cuarto en la final europea del 100 libre, logra el mejor puesto de siempre de un español en la prueba reina",
+    "link": "https://www.elperiodico.com/es/deportes/20260812/luca-hoek-cuarto-final-europea-133299843",
+    "pubDate": "2026-08-12 19:23:21",
+    "category": "",
+    "description": "<h2>El nadador de 18 años nacido en Sant Pere de Ribes, pese a firmar otra extraordinaria marca (47.39), es superado en la final por Popovici, Kornev y Milak</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "A PIE DE CALLE | Ambiente en el Sot del Migdia (Montjuic) previo al eclipse",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/pie-calle-ambiente-sot-migdia/133302220.shtml",
+    "pubDate": "2026-08-12 19:21:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gran Hermano del Observatorio de Yebes durante el eclipse solar: drones, caballos, perros y 70 agentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260812/gran-hermano-seguridad-observatorio-yebes-eclipse-solar-133301661",
+    "pubDate": "2026-08-12 19:19:55",
+    "category": "",
+    "description": "<h2>La Guardia Civil monitoriza la seguridad de cada milímetro del recinto donde tres ministros presenciarán el eclipse</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб розкрив результати удару по Новоросійську",
+    "link": "https://ua.korrespondent.net/ukraine/4902340-henshtab-rozkryv-rezultaty-udaru-po-novorosiisku",
+    "pubDate": "2026-08-12 19:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526315.jpg\">Внаслідок української атаки пошкоджень зазнали два фрегати, малий ракетний корабель і сторожовий корабель Чорноморського флоту РФ.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Migrantes construyen chabolas en los exteriores del CETI de Ceuta",
     "link": "https://www.elperiodico.com/es/videos/sociedad/migrantes-construyen-chabolas-exteriores-ceti-ceuta/133301796.shtml",
     "pubDate": "2026-08-12 19:06:38",
