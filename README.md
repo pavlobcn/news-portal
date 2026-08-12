@@ -1,4 +1,4 @@
-# News for 2026-08-12 16:46
+# News for 2026-08-12 17:46
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
@@ -53,6 +53,12 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:26 [La actividad eruptiva del Etna mantiene cerrado el aeropuerto siciliano de Catania en plena temporada turística](https://www.elperiodico.com/es/internacional/20260812/actividad-eruptiva-etna-mantiene-cierre-aeropuerto-catania-sicilia-133298485)<br>
+17:22 [La exdirectora del Macba, Elvira Dyangani Ose, asume la dirección del Zeitz Museum de Ciudad del Cabo](https://www.elperiodico.com/es/ocio-y-cultura/20260812/exdirectora-macba-elvira-dyangani-ose-133297669)<br>
+17:16 [Rescatan a una mujer tras pasar 36 horas bajo un hotel derribado en Pereira (Colombia)](https://www.elperiodico.com/es/videos/internacional/rescatan-mujer-36-horas-tras-terremoto/133298270.shtml)<br>
+16:55 [Muere el conductor de un tractor después de salirse de la vía y volcar en Mas de Barberans (Tarragona)](https://www.elperiodico.com/es/sociedad/20260812/muere-conductor-tractor-salirse-via-volcar-montsia-tarragona-133297468)<br>
+16:52 [Normalidad en los CAP y hospitales de Catalunya en la jornada del eclipse: los sanitarios esperan las visitas oftalmológicas a partir de mañana](https://www.elperiodico.com/es/sanidad/20260812/normalidad-cap-hospitales-catalunya-durante-dia-eclipse-sanitarios-esperan-visitas-a-partir-manana-133294553)<br>
+16:46 [Piratas informáticos en la cárcel: presos de la cárcel Puig de les Basses 'hackean' información de la prisión de Figueres](https://www.elperiodico.com/es/sociedad/20260812/detectan-acceso-autorizado-presos-sistema-informatico-carcel-figueres-133296833)<br>
 16:43 [Rodalies y Regionals llenos hacia la franja de totalidad del eclipse de Catalunya: "Hemos bloqueado las puertas del tren para que entrara aire"](https://www.elperiodico.com/es/sociedad/20260812/rodalies-regionals-llenos-franja-totalidad-eclipse-cataluna-133295537)<br>
 16:38 [Los usuarios de Rodalies refuerzan su app sobre el estado del servicio alternativa a la oficial](https://www.elperiodico.com/es/sociedad/20260812/transportam-reta-nueva-app-rodalies-actualizacion-proximo-agosto-133284780)<br>
 16:38 [A PIE DE CALLE | Valentina Raffio explica cómo ponerse correctamente las gafas para ver el eclipse](https://www.elperiodico.com/es/videos/sociedad/pie-calle-valentina-raffio-explica/133297061.shtml)<br>
@@ -88,6 +94,7 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 13:10 [A pie de calle | Valentina Raffio. El eclipse desde el Observatorio del Ebre](https://www.elperiodico.com/es/videos/sociedad/pie-calle-valentina-raffio-eclipse-observatori-ebre-video/133290961.shtml)<br>
 12:53 [La escritora Lilja Sigurdardóttir, ante el otro eclipse total, en Islandia: "He decidido no contribuir al colapso de tráfico y no lo veré"](https://www.elperiodico.com/es/internacional/20260812/ua-mathiasdottir-traductora-islandesa-hija-133244747)<br>
 12:53 [La escritora Lilja Sigurdardóttir, ante el otro eclipse total, en Islandia: "He decidido no contribuir al colapso de tráfico y no lo veré"](https://www.elperiodico.com/es/internacional/20260812/eclipse-islandia-bjork-ua-mathiasdottir-traductora-islandesa-hija-133244747)<br>
+12:48 [El incendio de Huelva vuelve a complicarse: alcanza las 28.000 hectáreas y se adentra en la Pata del Caballo y en el municipio de Aznalcóllar](https://www.elperiodico.com/es/sociedad/20260812/incendio-niebla-vuelve-complicarse-alcanza-aznalcollar-pata-caballo-133290238)<br>
 12:45 [El aeropuerto de Barcelona-El Prat cierra julio al alza: el tráfico crece un 6%](https://www.elperiodico.com/es/economia/20260812/aeropuerto-barcelona-el-prat-cierra-julio-2026-trafico-4-mas-133288656)<br>
 12:43 [Cuando la tierra tiembla, los pueblos se sostienen](https://www.elperiodico.com/es/opinion/20260812/tierra-tiembla-pueblos-sostienen-terremoto-colombia-133289466)<br>
 12:43 [Lucía, abogada: "Cuidar de tus padres durante años no significa que te corresponda automáticamente una parte mayor de herencia"](https://www.elperiodico.com/es/economia/20260812/lucia-abogada-cuidar-padres-herencia-dv-et-133289717)<br>
