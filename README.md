@@ -1,8 +1,9 @@
-# News for 2026-08-12 10:43
+# News for 2026-08-12 11:48
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+11:16 [У Польщі затримали 20 іноземців-нелегалів](https://ua.korrespondent.net/world/4902158-u-polschi-zatrymaly-20-inozemtsiv-nelehaliv)<br>
 09:05 [Похорон принца Ендрю: нові подробиці](https://ua.korrespondent.net/lifestyle/4902091-pokhoron-pryntsa-endrui-novi-podrobytsi)<br>
 08:35 [Свята 12 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4902007-sviata-12-serpnia-2026-roku-istoriia-tradytsii)<br>
 08:18 [Ціни на нафту пішли вгору](https://ua.korrespondent.net/business/economics/4902089-tsiny-na-naftu-pishly-vhoru)<br>
@@ -14,6 +15,13 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:30 [La hora exacta para no perderte la mayor visibilidad del eclipse solar del 12 de agosto en Barcelona, Tarragona, Lleida y Girona](https://www.elperiodico.com/es/ciencia/20260812/eclipse-solar-12-agosto-cataluna-barcelona-lleida-tarragona-horas-dv-133002769)<br>
+11:21 [Última hora de Aemet y Meteocat horas antes del eclipse: nubes en estas zonas de Catalunya](https://www.elperiodico.com/es/tiempo/20260812/tiempo-cataluna-eclipse-nubes-meteocat-aemet-dv-loc-133284672)<br>
+11:20 [Eclipse solar en España, en directo: todas las claves para disfrutarlo](https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-espana-directo-claves-133283780)<br>
+11:17 [Muere el cineasta Bill Jersey, doble nominado al Oscar](https://www.elperiodico.com/es/ocio-y-cultura/20260812/muere-cineasta-bill-jersey-doble-133287197)<br>
+11:01 [Así será el eclipse total solar en España: a qué hora es, mapa y mejores lugares para verlo](https://www.elperiodico.com/es/videos/politica/eclipse-total-solar-espana/133286603.shtml)<br>
+11:00 [El uniforme para el eclipse solar: la camiseta que ha lanzado esta conocida marca de ropa y ya se está agotando](https://www.elperiodico.com/es/vida-y-estilo/20260812/eclipse-solar-camiseta-zara-uniforme-amancio-ortega-dv-133180146)<br>
+10:51 [Catalunya recibe al eclipse con riesgo de incendio muy elevado en comarcas de Lleida y con restricciones en dos parques naturales](https://www.elperiodico.com/es/sociedad/20260812/catalunya-recibe-eclipse-riesgo-incendio-lleida-restricciones-zonas-naturales-133285605)<br>
 10:30 [Dónde conseguir gratis en Barcelona las gafas homologadas para el eclipse solar de esta tarde](https://www.elperiodico.com/es/barcelona/20260812/eclipse-solar-gafas-gratis-barcelona-dv-loc-133110943)<br>
 10:24 [¿Influirá el eclipse solar en nuestro estado de ánimo?](https://www.elperiodico.com/es/sociedad/20260812/influira-eclipse-solar-animo-133285525)<br>
 10:15 [Muere un joven de 25 años tras ser apuñalado en una vivienda en Málaga](https://www.elperiodico.com/es/sucesos/20260812/muere-joven-25-anos-apunalado-133285273)<br>
