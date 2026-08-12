@@ -1,8 +1,9 @@
-# News for 2026-08-12 20:41
+# News for 2026-08-12 21:22
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
 ## ua.korrespondent.net
+20:40 [У Франції через лісові пожежі евакуювали 1200 людей](https://ua.korrespondent.net/world/4902361-u-frantsii-cherez-lisovi-pozhezhi-evakuuivaly-1200-luidei)<br>
 20:21 [Повітряні сили змінили звіти про балістику](https://ua.korrespondent.net/ukraine/4902357-povitriani-syly-zminyly-zvity-pro-balistyku)<br>
 19:55 [Google представила нову серію Pixel 11](https://ua.korrespondent.net/lifestyle/gadgets/4902352-Google-predstavyla-novu-seriui-Pixel-11)<br>
 19:24 [У Польщі масштабний витік даних: постраждали 19 млн людей](https://ua.korrespondent.net/world/4902338-u-polschi-masshtabnyi-vytik-danykh-postrazhdaly-19-mln-luidei)<br>
@@ -58,6 +59,15 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:21 [El eclipse triplica los visitantes de los búnkers del Turó de la Rovira de Barcelona: "¿Lleno? No lo volveremos a vivir"](https://www.elperiodico.com/es/barcelona/20260812/eclipse-triplica-visitantes-bunkers-turo-rovira-carmel-barcelona-133296360)<br>
+21:11 [Así se ha visto el eclipse de Sol total en España](https://www.elperiodico.com/es/videos/sociedad/eclipse-sol-total-espana/133306275.shtml)<br>
+21:09 [A PIE DE CALLE | Gente viendo el eclipse en la rotonda del antiguo hotel La Florida](https://www.elperiodico.com/es/videos/sociedad/pie-calle-gente-viendo-eclipse/133305890.shtml)<br>
+21:07 [Timelapse del eclipse solar: así fue el momento de la totalidad](https://www.elperiodico.com/es/videos/sociedad/timelapse-eclipse-solar-momento-totalidad/133306043.shtml)<br>
+21:00 [¿Te duelen los ojos después del eclipse solar? Haz esto](https://www.elperiodico.com/es/salud/20260812/eclipse-solar-lesion-ojos-retinopatia-consejos-medicos-quemadura-retina-dv-133284930)<br>
+20:53 [Más de 20.000 asistentes llegados de medio mundo celebran el eclipse desde el ángulo privilegiado de Tarragona](https://www.elperiodico.com/es/tarragona/20260812/20-000-asistentes-llegados-medio-133304387)<br>
+20:52 [A PIE DE CALLE | Ana Sánchez ve el eclipse desde el rooftop del Nobu](https://www.elperiodico.com/es/videos/sociedad/pie-calle-ana-sanchez-ve/133305118.shtml)<br>
+20:45 [El eclipse hechiza el país con el minuto de oscuridad más mágico y asombroso](https://www.elperiodico.com/es/sociedad/20260812/eclipse-espana-deslumbra-regala-noche-fugaz-asombrosa-133300647)<br>
+20:43 [Brian May, guitarrista de Queen, observa el eclipse desde Teruel](https://www.elperiodico.com/es/videos/ocio-y-cultura/brian-may-guitarrista-queen-observa-eclipse-teruel/133304920.shtml)<br>
 20:17 [Las primeras imágenes del eclipse](https://www.elperiodico.com/es/fotos/sociedad/primeras-imagenes-eclipse-133304111)<br>
 20:14 [El 'eclipse del siglo' de este 12 de agosto coincide con el momento álgido de lluvia de estrellas de las Perseidas](https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-agosto-noche-perseidas-espectaculo-astronomico-unico-129495516)<br>
 20:00 [Los psicólogos coinciden sobre el calor: "Es un cóctel que hace que las tasas de delincuencia aumenten"](https://www.elperiodico.com/es/ser-feliz/20260812/calor-violencia-psicologos-delincuencia-dv-133065605)<br>
