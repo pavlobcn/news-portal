@@ -1,5 +1,68 @@
 [
   {
+    "title": "У Севастополі настав блекаут",
+    "link": "https://ua.korrespondent.net/ukraine/4902400-u-sevastopoli-nastav-blekaut",
+    "pubDate": "2026-08-12 23:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526528.jpg\">Окупаційна влада повідомила, що українські безпілотники вдарили по енергетиці, внаслідок чого місто залишилося без світла.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Aglomeraciones en la estación de Tarragona tras el eclipse obligan a restringir los accesos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260812/catalunya-aglomeraciones-estacion-tarragona-eclipse-restringen-accesos-133313716",
+    "pubDate": "2026-08-12 23:44:59",
+    "category": "",
+    "description": "<h2>La concentración de viajeros obligó a regular los accesos y dejó largas colas en el exterior de la estación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la Espriella autoriza a EEUU a realizar operaciones militares en Colombia",
+    "link": "https://www.elperiodico.com/es/internacional/20260812/espriella-autoriza-eeuu-realizar-operaciones-militares-colombia-133312435",
+    "pubDate": "2026-08-12 23:23:39",
+    "category": "",
+    "description": "<h2>El secretario de Guerra de Estados Unidos, Pete Hegseth, informa de que el país suramericano se suma a la Coalición contra los Carteles de las Américas (A3C) para combatir el narcoterrorismo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Речниця Трампа Керолайн Левітт йде з посади",
+    "link": "https://ua.korrespondent.net/world/4902398-rechnytsia-trampa-kerolain-levitt-yde-z-posady",
+    "pubDate": "2026-08-12 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526501.png\">Своє рішення прессекретарка пояснила народженням другої дитини та необхідністю більше часу приділяти сім'ї.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "TIMELAPSE | Así se ha visto el eclipse solar desde el mirador de la Torre Glòries de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260812/timelapse-eclipse-solar-mirador-torre-glories-133295556",
+    "pubDate": "2026-08-12 23:17:08",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-hoy-12-agosto-ultima-hora-directo-133282438\">Eclipse solar total, en directo | Última hora: a qué hora empieza, cuánto dura y dónde comprar gafas homologadas</a></h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260812/trafico-cataluna-espana-eclipse-solar-ultima-hora-directo-133253906\" >El tráfico en Catalunya por el eclipse solar, en directo: restricciones en la AP-7, sanciones, recomendaciones y última hora del dispositivo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así se ha visto el eclipse solar desde el mirador de la Torre Glòries de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/visto-eclipse-solar-mirador-torre/133312088.shtml",
+    "pubDate": "2026-08-12 23:10:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Збірну Нідерландів очолив колишній керманич Барселони",
+    "link": "https://ua.korrespondent.net/sport/football/4902396-zbirnu-niderlandiv-ocholyv-kolyshnii-kermanych-barselony",
+    "pubDate": "2026-08-12 23:09:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526472.jpg\">Замість Роналда Кумана команду до наступного чемпіонату світу тренуватиме Хаві.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El PSG de Luis Enrique mantiene su ciclo triunfal en Europa ganando la Supercopa",
     "link": "https://www.elperiodico.com/es/deportes/20260812/psg-aston-villa-supercopa-de-europa-futbol-resumen-resultado-133311765",
     "pubDate": "2026-08-12 22:57:13",
@@ -410,6 +473,15 @@
     "pubDate": "2026-08-12 20:53:26",
     "category": "",
     "description": "<h2 class=\"item\">La Port Marina Tarraco se ha convertido en el epicentro del evento en Tarragona, donde se ha vivido un momento entre inexplicable e inesperado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-hoy-12-agosto-ultima-hora-directo-133282438\">Eclipse en España, en directo | Así ha sido el paso de la Luna por delante del Sol: última hora del eclipse solar con los mejores vídeos e imágenes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La emoción por el eclipse se apodera de más de 20.000 asistentes en Tarragona: \"Ha sido un regalo que no podremos volver a vivir\"",
+    "link": "https://www.elperiodico.com/es/tarragona/20260812/20-000-asistentes-llegados-medio-mundo-celebran-eclipse-angulo-tarragona-133304387",
+    "pubDate": "2026-08-12 20:53:26",
+    "category": "",
+    "description": "<h2>La Port Marina Tarraco se ha convertido en el epicentro del evento en la ciudad, donde se ha vivido un momento entre inexplicable e inesperado</h2><h2>El alcalde Viñuales se ha mostrado sorprendido por el acontecimiento: \"Con esto te das cuenta de que somos seres finitos y muy pequeños\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-hoy-12-agosto-ultima-hora-directo-133282438\">Eclipse en España, en directo | Así ha sido el paso de la Luna por delante del Sol: última hora del eclipse solar con los mejores vídeos e imágenes</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },

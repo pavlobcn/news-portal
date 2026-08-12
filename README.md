@@ -1,4 +1,4 @@
-# News for 2026-08-12 23:04
+# News for 2026-08-13 00:00
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
@@ -61,6 +61,9 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:44 [Aglomeraciones en la estación de Tarragona tras el eclipse obligan a restringir los accesos](https://www.elperiodico.com/es/sociedad/20260812/catalunya-aglomeraciones-estacion-tarragona-eclipse-restringen-accesos-133313716)<br>
+23:17 [TIMELAPSE | Así se ha visto el eclipse solar desde el mirador de la Torre Glòries de Barcelona](https://www.elperiodico.com/es/barcelona/20260812/timelapse-eclipse-solar-mirador-torre-glories-133295556)<br>
+23:10 [Así se ha visto el eclipse solar desde el mirador de la Torre Glòries de Barcelona](https://www.elperiodico.com/es/videos/sociedad/visto-eclipse-solar-mirador-torre/133312088.shtml)<br>
 22:55 ["Este viaje es un calvario": así culminó Sorolla su última obra maestra](https://www.elperiodico.com/es/ocio-y-cultura/20260812/viaje-calvario-culmino-sorolla-ultima-obra-maestra-133311724)<br>
 22:49 [La 'consellera' Sònia Hernández, en el concierto del eclipse: "Ha superado cualquier expectativa posible"](https://www.elperiodico.com/es/ocio-y-cultura/20260812/sonia-hernandez-consellera-cultura-concierto-eclipse-133310013)<br>
 22:43 [El eclipse se asoma tras las Cuatro Torres de Madrid](https://www.elperiodico.com/es/videos/sociedad/eclipse-asoma-cuatro-torres-madrid/133311176.shtml)<br>
@@ -84,6 +87,7 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 21:07 [Timelapse del eclipse solar: así fue el momento de la totalidad](https://www.elperiodico.com/es/videos/sociedad/timelapse-eclipse-solar-momento-totalidad/133306043.shtml)<br>
 21:00 [¿Te duelen los ojos después del eclipse solar? Haz esto](https://www.elperiodico.com/es/salud/20260812/eclipse-solar-lesion-ojos-retinopatia-consejos-medicos-quemadura-retina-dv-133284930)<br>
 20:53 [Más de 20.000 asistentes llegados de medio mundo celebran el eclipse desde el ángulo privilegiado de Tarragona](https://www.elperiodico.com/es/tarragona/20260812/20-000-asistentes-llegados-medio-133304387)<br>
+20:53 [La emoción por el eclipse se apodera de más de 20.000 asistentes en Tarragona: "Ha sido un regalo que no podremos volver a vivir"](https://www.elperiodico.com/es/tarragona/20260812/20-000-asistentes-llegados-medio-mundo-celebran-eclipse-angulo-tarragona-133304387)<br>
 20:52 [A PIE DE CALLE | Ana Sánchez ve el eclipse desde el rooftop del Nobu](https://www.elperiodico.com/es/videos/sociedad/pie-calle-ana-sanchez-ve/133305118.shtml)<br>
 20:45 [El eclipse hechiza el país con el minuto de oscuridad más mágico y asombroso](https://www.elperiodico.com/es/sociedad/20260812/eclipse-espana-deslumbra-regala-noche-fugaz-asombrosa-133300647)<br>
 20:43 [Brian May, guitarrista de Queen, observa el eclipse desde Teruel](https://www.elperiodico.com/es/videos/ocio-y-cultura/brian-may-guitarrista-queen-observa-eclipse-teruel/133304920.shtml)<br>
