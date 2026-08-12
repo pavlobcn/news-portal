@@ -1,4 +1,4 @@
-# News for 2026-08-12 06:19
+# News for 2026-08-12 07:51
 
 Previous day: [2026-08-11](./data/2026-08-11.md)
 
@@ -6,7 +6,18 @@ Previous day: [2026-08-11](./data/2026-08-11.md)
 04:22 [Жертв уже 250: у Колумбії триває рятувальна операція після землетрусу](https://ua.korrespondent.net/world/4902059-zhertv-uzhe-250-u-kolumbii-tryvaie-riatuvalna-operatsiia-pislia-zemletrusu)<br>
 01:16 [Супутники показали масштаб пожежі на Wildberries у РФ](https://ua.korrespondent.net/world/russia/4902043-suputnyky-pokazaly-masshtab-pozhezhi-na-Wildberries-u-rf)<br>
 
+## as.com
+07:28 [Alex Sánchez: “El 3x3 es una posibilidad adicional para los jugadores”](https://as.com/baloncesto/mas_baloncesto/alex-sanchez-el-3x3-es-una-posibilidad-adicional-para-los-jugadores-f202608-n/)<br>
+07:27 [El auge del 3x3](https://as.com/baloncesto/mas_baloncesto/el-auge-del-3x3-f202608-n/)<br>
+
 ## www.elperiodico.com
+07:49 [La pregunta que toda persona con miopía y astigmatismo se hace ante el eclipse: ¿cómo me pongo las gafas homologadas si ya llevo gafas para ver?](https://www.elperiodico.com/es/sociedad/20260812/como-poner-gafas-miopia-astigmatismo-eclipse-133085878)<br>
+07:35 [Eclipse solar hoy, en directo | A qué hora es en España, cómo verlo con gafas y última hora hora del fenómeno astronómico este 12 de agosto](https://www.elperiodico.com/es/sociedad/20260812/eclipse-solar-hoy-12-agosto-ultima-hora-directo-133282438)<br>
+07:25 [Incendios hoy, 12 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260812/incendios-hoy-12-agosto-ultima-hora-cataluna-espana-mapa-fuegos-activos-dv-133271152)<br>
+07:00 [Una armadura indetectable e indestructible hecha en España](https://www.elperiodico.com/es/economia/20260812/armadura-indetectable-indestructible-hecha-espana-133282049)<br>
+07:00 [La noche en que Ava Gardner fue expulsada del Ritz: ¿orinó realmente en la alfombra del hotel más lujoso de Madrid?](https://www.elperiodico.com/es/ocio-y-cultura/20260812/noche-ava-gardner-expulsada-ritz-orino-alfombra-hotel-lujoso-madrid-133282006)<br>
+06:49 [Rescatan con vida en Pereira, en el oeste de Colombia, a una mujer tras siete horas de búsqueda](https://www.elperiodico.com/es/politica/20260812/rescatan-vida-pereira-oeste-colombia-133281631)<br>
+06:44 [Un barco de pasajeros que partía de Bali se incendia en el estrecho de Lombok](https://www.elperiodico.com/es/internacional/20260812/barco-pasajeros-partia-bali-incendia-133281546)<br>
 06:02 [El trivial definitivo del eclipse: 20 preguntas para poner a prueba cuánto sabes del fenómeno astronómico del siglo](https://www.elperiodico.com/es/sociedad/20260812/trivial-eclipse-20-preguntas-astronomia-curiosidades-133260166)<br>
 06:00 [Consejos 'last minute' de los científicos para disfrutar del eclipse: deja el móvil en el bolsillo, pon un temporizador y mira más allá del sol](https://www.elperiodico.com/es/sociedad/20260812/consejos-cientificos-eclipse-gafas-movil-visibilidad-133262629)<br>
 06:00 [El eclipse dispara la demanda hotelera en Islandia y los cruceros por el Ártico: "Se han hecho reservas con hasta dos años de antelación"](https://www.elperiodico.com/es/internacional/20260812/eclipse-islandia-groenlandia-cruceros-hoteles-artico-reservas-dos-anos-antelacion-133267741)<br>
