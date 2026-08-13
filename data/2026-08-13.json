@@ -1,5 +1,86 @@
 [
   {
+    "title": "Україна пропонує РФ перемир’я у Чорному морі - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4902697-ukraina-proponuie-rf-peremyria-u-chornomu-mori-zmi",
+    "pubDate": "2026-08-13 19:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527527.jpg\">За оцінками ООН, удари Росії по зерновозах та портовій інфраструктурі у Чорному морі можуть суттєво вплинути на світові ціни на продовольство.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El lado oscuro del mercado: el Barça tiene seis jugadores apartados",
+    "link": "https://www.elperiodico.com/es/deportes/20260813/lado-oscuro-mercado-barca-seis-133335829",
+    "pubDate": "2026-08-13 19:39:21",
+    "category": "",
+    "description": "<h2>Los afectados son Héctor Fort, Marc Casadó, Jofre Torrents, Tommy Marqués, Guille Fernández y Toni Fernández, que pendientes de ser cedidos o traspasados se entrenan al margen de sus compañeros</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Бешикташ почав співпрацю з Влаховичем",
+    "link": "https://ua.korrespondent.net/sport/football/4902699-beshyktash-pochav-spivpratsui-z-vlakhovychem",
+    "pubDate": "2026-08-13 19:36:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527528.jpg\">Сербський нападник поповнив склад турецького клубу, запропонувавши свої послуги, перебуваючи у статусі вільного агента.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Celta admite que la situación con el césped de Balaídos es \"drástica\" y decide cambiarlo",
+    "link": "https://www.elperiodico.com/es/deportes/20260813/celta-admite-situacion-cesped-balaidos-133340414",
+    "pubDate": "2026-08-13 19:32:59",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260813/aplazado-celta-osasuna-debido-enfermedad-133324305\">Aplazado el Celta - Osasuna debido a una \"enfermedad del césped\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "30 años de 'Juego de Tronos'… y los que nos quedan",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260813/juego-tronos-30-aniversario-martin-vientos-invierno-133324140",
+    "pubDate": "2026-08-13 19:30:44",
+    "category": "",
+    "description": "<h2 class=\"item\">En agosto de 1996, George R. R. Martin publicó la primera novela de una saga legendaria que sigue atascada en su quinta entrega mientras a su alrededor se multiplican otros proyectos como  'La casa del dragón' y 'El caballero de los Siete Reinos' </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260804/george-martin-depresion-juego-tronos-escritor-133050250\">George R. R. Martin revela su lucha contra la depresión: \"Puede que lo peor aún esté por llegar\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Respaldo árabe a Infantino: Qatar y Marruecos, entre las seis federaciones que lo apoyan",
+    "link": "https://www.elperiodico.com/es/deportes/20260813/respaldo-arabe-infantino-qatar-marruecos-133340323",
+    "pubDate": "2026-08-13 19:25:48",
+    "category": "",
+    "description": "<h2>El presidente de la FIFA continúa buscando apoyos para resistir en el cargo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El fuego engulle el monasterio viejo de San Juan de la Peña, en Huesca, pero logran rescatar los restos de los reyes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/fuego-engulle-monasterio-viejo-san-juan-pena-huesca-rescatar-restos-reyes-133340320",
+    "pubDate": "2026-08-13 19:21:18",
+    "category": "",
+    "description": "<h2>La UME y técnicos del Gobierno de Aragón han logrado evacuar objetos históricos como capiteles y tumbas reales antes de que el fuego alcanzara el cenobio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський має претензії до голови НБУ - Bloomberg",
+    "link": "https://ua.korrespondent.net/ukraine/4902694-zelenskyi-maie-pretenzii-do-holovy-nbu-Bloomberg",
+    "pubDate": "2026-08-13 19:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527526.jpg\">Президент Володимир Зеленський нібито незадоволений тісними контактами голови НБУ Андрія Пишного з МВФ. Водночас його звільнення наразі не планують.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Italia mantendrá controles con España hasta descartar totalmente riesgos de seguridad",
+    "link": "https://www.elperiodico.com/es/videos/internacional/italia-mantendra-controles-espana-descartar/133340142.shtml",
+    "pubDate": "2026-08-13 19:18:18",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Esta es la localidad de Catalunya donde alquilar un piso sale bastante barato: a 10 euros el metro cuadrado",
     "link": "https://www.elperiodico.com/es/economia/20260813/localidad-catalunya-alquilar-piso-sale-mas-barato-dv-133140805",
     "pubDate": "2026-08-13 19:15:00",
@@ -25,6 +106,15 @@
     "description": "<h2>La Policía Nacional arresta a un joven de 22 años por agredir a otro tras una discusión en la parada del TRAM del Campo de Golf</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Кудрівка взяла до свого складу першого аргентинця",
+    "link": "https://ua.korrespondent.net/sport/football/4902693-kudrivka-vziala-do-svoho-skladu-pershoho-arhentyntsia",
+    "pubDate": "2026-08-13 19:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527497.jpg\">Команда поповнила склад аргентинським правим захисником, відкривши, зрештою, рахунок аргентинцям у клубі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "На збереження Хотинської фортеці спрямували 3 млн",

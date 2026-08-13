@@ -1,4 +1,4 @@
-# News for 2026-08-13 19:16
+# News for 2026-08-13 19:46
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
@@ -79,6 +79,8 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+19:21 [El fuego engulle el monasterio viejo de San Juan de la Peña, en Huesca, pero logran rescatar los restos de los reyes](https://www.elperiodico.com/es/sociedad/20260813/fuego-engulle-monasterio-viejo-san-juan-pena-huesca-rescatar-restos-reyes-133340320)<br>
+19:18 [Italia mantendrá controles con España hasta descartar totalmente riesgos de seguridad](https://www.elperiodico.com/es/videos/internacional/italia-mantendra-controles-espana-descartar/133340142.shtml)<br>
 19:15 [Esta es la localidad de Catalunya donde alquilar un piso sale bastante barato: a 10 euros el metro cuadrado](https://www.elperiodico.com/es/economia/20260813/localidad-catalunya-alquilar-piso-sale-mas-barato-dv-133140805)<br>
 19:10 [Ingresa en la UCI un joven de 27 años herido muy grave en una pelea en Alicante](https://www.elperiodico.com/es/sucesos/20260813/ingresa-uci-joven-27-anos-herido-muy-grave-pelea-alicante-133339995)<br>
 19:02 [Thomson Kinetic Mini: el timbre inalámbrico que no necesita pilas](https://www.elperiodico.com/es/tecnologia/20260813/thomson-kinetic-mini-timbre-inalambrico-133339298)<br>
