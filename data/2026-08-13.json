@@ -1,10 +1,100 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 14 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/portada-periodico-14-agosto-2026-133344847",
+    "pubDate": "2026-08-13 23:50:44",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Descarrila un tren de pasajeros en el sureste de Inglaterra",
+    "link": "https://www.elperiodico.com/es/videos/internacional/descarrila-tren-pasajeros-sureste-inglaterra/133344852.shtml",
+    "pubDate": "2026-08-13 23:47:56",
+    "category": "",
+    "description": "Por el momento no se han registrado heridos graves ni víctimas mortales",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sigue creciendo la cifra de víctimas mortales tras el terremoto de Colombia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/sigue-creciendo-cifra-victimas-mortales/133344795.shtml",
+    "pubDate": "2026-08-13 23:45:52",
+    "category": "",
+    "description": "Exteriores ha confirmado que hay un español entre las víctimas mortales y que hay otros 12 españoles a los que todavía no se ha podido localizar",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по WB у Башкортостані: з’явилися супутникові знімки",
+    "link": "https://ua.korrespondent.net/world/russia/4902750-udar-po-WB-u-bashkortostani-ziavylysia-suputnykovi-znimky",
+    "pubDate": "2026-08-13 23:42:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527766.jpg\">У селищі Чишми вигоріла п'ята частина складу, однак сліди влучання видно й на даху в інших частинах будівлі, тож пошкодження можуть бути масштабнішими.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Marlaska y Vivas chocan tras su reunión por la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/marlaska-vivas-chocan-reunion-crisis/133344647.shtml",
+    "pubDate": "2026-08-13 23:38:13",
+    "category": "",
+    "description": "Vivas se planta frente al ministro y avisa de que no aceptará regularizaciones ni traslados",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Італії на заводі з виробництва боєприпасів стався вибух",
+    "link": "https://ua.korrespondent.net/world/4902745-v-italii-na-zavodi-z-vyrobnytstva-boieprypasiv-stavsia-vybukh",
+    "pubDate": "2026-08-13 23:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527735.jpg\">Що саме стало причиною вибуху наразі невідомо, однак за даними місцевої влади, більшість працівників зараз у відпустках.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Динамо залишилося без єврокубків на ранній стадії вперше за 21 рік",
+    "link": "https://ua.korrespondent.net/sport/football/4902748-dynamo-zalyshylosia-bez-yevrokubkiv-na-rannii-stadii-vpershe-za-21-rik",
+    "pubDate": "2026-08-13 23:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527733.jpg\">Раніше у \"біло-синіх\" виходило доходити до стадії плейофу кваліфікації, а тепер поразка від Карабаха перервала цей успіх.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido tras intentar apuñalar a su expareja en un centro comercial de Mieres (Asturias)",
+    "link": "https://www.elperiodico.com/es/sucesos/20260813/detenido-apunalar-expareja-centro-comercial-mieres-asturias-133344407",
+    "pubDate": "2026-08-13 23:07:22",
+    "category": "",
+    "description": "<h2>El arrestado, que huyó y fue capturado posteriormente, trató de clavar un arma blanca, en plena hora punta, a una chica y al hombre que la acompañaba</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juls Janeiro se zambulle de lleno en la prensa del corazón y fulmina a Belen Esteban con un contundente contraataque: \"Un meme televisivo y la sombra de Jesulín de Ubrique\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260813/juls-janeiro-fulmina-belen-esteban-contrataque-contundente-meme-televisivo-sombra-jesulin-ubrique-133343905",
+    "pubDate": "2026-08-13 22:58:51",
+    "category": "",
+    "description": "<h2>La hija del torero y María José Campanario responde contundente a la indirecta de la madre de su hermana Andrea. </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Attaoui se cuelga un bronce con gran suspense en 800",
     "link": "https://www.elperiodico.com/es/deportes/20260813/mohamed-attaoui-cuelga-medalla-bronce-800-metros-europeos-atletismo-133344002",
     "pubDate": "2026-08-13 22:49:09",
     "category": "",
     "description": "<h2>El hispanomarroquí aguantó en la recta para conservar la tercera plaza y el extremeño David Barroso fue cuarto</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Тренер Динамо назвав причини поразки своєї команди від Карабаха",
+    "link": "https://ua.korrespondent.net/sport/football/4902742-trener-dynamo-nazvav-prychyny-porazky-svoiei-komandy-vid-karabakha",
+    "pubDate": "2026-08-13 22:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527717.jpg\">Часом буває, що бракує одного кроку, щоб усе вийшло так, як треба, каже керманич динамівців.",
     "topic": "спорт",
     "topic_match_probability": 100
   },

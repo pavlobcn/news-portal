@@ -1,8 +1,9 @@
-# News for 2026-08-13 23:01
+# News for 2026-08-13 23:57
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+23:10 [В Італії на заводі з виробництва боєприпасів стався вибух](https://ua.korrespondent.net/world/4902745-v-italii-na-zavodi-z-vyrobnytstva-boieprypasiv-stavsia-vybukh)<br>
 22:33 [У Краматорську приліт у багатоповерхівку, є жертви](https://ua.korrespondent.net/ukraine/4902739-u-kramatorsku-prylit-u-bahatopoverkhivku-ye-zhertvy)<br>
 22:12 [Польські МіГи невдовзі будуть в Україні - ЗМІ](https://ua.korrespondent.net/ukraine/4902737-polski-mihy-nevdovzi-budut-v-ukraini-zmi)<br>
 21:59 [Масштабні пожежі у Британії: людей евакуюють із будинків](https://ua.korrespondent.net/world/4902735-masshtabni-pozhezhi-u-brytanii-luidei-evakuuiuit-iz-budynkiv)<br>
@@ -88,6 +89,9 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+23:47 [Descarrila un tren de pasajeros en el sureste de Inglaterra](https://www.elperiodico.com/es/videos/internacional/descarrila-tren-pasajeros-sureste-inglaterra/133344852.shtml)<br>
+23:45 [Sigue creciendo la cifra de víctimas mortales tras el terremoto de Colombia](https://www.elperiodico.com/es/videos/internacional/sigue-creciendo-cifra-victimas-mortales/133344795.shtml)<br>
+23:07 [Detenido tras intentar apuñalar a su expareja en un centro comercial de Mieres (Asturias)](https://www.elperiodico.com/es/sucesos/20260813/detenido-apunalar-expareja-centro-comercial-mieres-asturias-133344407)<br>
 21:43 [Complicada jornada de lucha contra el fuego en Las Peñas de Riglos, Huesca](https://www.elperiodico.com/es/videos/sucesos/complicada-jornada-lucha-fuego-penas/133342976.shtml)<br>
 21:42 [Un niño de tres años resulta herido grave tras caer de una tribuna en unos festejos de Castalla (Alicante)](https://www.elperiodico.com/es/sucesos/20260813/nino-tres-anos-resulta-herido-grave-caer-tribuna-festejos-castalla-alicante-133342956)<br>
 21:41 [Muere una mujer de 84 años en una piscina de Castelldefels](https://www.elperiodico.com/es/sucesos/20260813/muere-mujer-84-anos-piscina-castelldefels-133342884)<br>
