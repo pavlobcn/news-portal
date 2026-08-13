@@ -1,4 +1,4 @@
-# News for 2026-08-13 15:50
+# News for 2026-08-13 16:51
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
@@ -68,6 +68,20 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+16:48 [La resaca emocional del eclipse aumenta el entusiasmo hacia los eventos que verá España en los próximos dos años](https://www.elperiodico.com/es/sociedad/20260813/resaca-emocional-eclipse-aumenta-entusiasmo-133333495)<br>
+16:37 [BBVA Research prevé que la inflación supere el 4% en agosto por el alza de la energía](https://www.elperiodico.com/es/economia/20260813/bbva-research-preve-inflacion-supere-4-agosto-energia-133334833)<br>
+16:35 [Rubén (44 años) vive de lo que otros tiran y reforma una casa abandonada en la montaña en Barcelona: "Vivo del despilfarro y del consumismo enfermizo que hay, solo gasto 15 euros al mes por el teléfono"](https://www.elperiodico.com/es/economia/20260813/10-anos-recoge-basura-reforma-casa-15-euros-mes-ruben-dv-et-133291329)<br>
+16:34 [Zoos y acuarios de la península registran el comportamiento de animales durante el eclipse](https://www.elperiodico.com/es/videos/sociedad/zoos-acuarios-peninsula-registran-comportamiento/133334801.shtml)<br>
+16:33 [Barcelona empieza a instalar la primera rampa mecánica peatonal para estrenarla en verano de 2027](https://www.elperiodico.com/es/barcelona/20260813/inicio-obras-primera-rampa-mecanica-peatones-estreno-2027-montbau-133328296)<br>
+16:32 [Así será la primera rampa mecánica de Barcelona a los pies de Collserola](https://www.elperiodico.com/es/videos/barcelona/sera-primera-rampa-mecanica-barcelona/133334745.shtml)<br>
+16:30 [Deshidratación en verano: síntomas que no debes ignorar y cómo prevenirla en adultos, niños y personas mayores](https://www.elperiodico.com/es/salud/20260813/deshidratacion-verano-sintomas-debes-ignorar-119875656)<br>
+16:13 [Juanma Lorente, abogado laboralista: “Hay empresas que utilizan la persecución laboral para que te vayas sin indemnización”](https://www.elperiodico.com/es/economia/20260813/juanma-lorente-abogado-empresas-persecucion-laboral-sin-indemnizacion-dv-133333833)<br>
+16:12 [Mi hijo de 14 años quiere ir a la playa con sus amigos: ¿debo dejarlo?](https://www.elperiodico.com/es/videos/sucesos/hijo-14-anos-quiere-playa/133334288.shtml)<br>
+16:10 [Antonio, jubilado con una pensión de 1.000 euros: "Con la pensión hay que hacer matemáticas, la cuantía que nos pagaban era tan baja que aún sigue siendo insuficiente"](https://www.elperiodico.com/es/economia/20260813/antonio-jubilado-pension-1-000-euros-pension-precaria-dv-133139814)<br>
+16:09 [Así se vio el eclipse desde la Gran Vía de Madrid](https://www.elperiodico.com/es/videos/sociedad/eclipse-gran-via-madrid/133334222.shtml)<br>
+15:54 [Crítica de 'El final de Oak Street': el director de 'It follows' firma la película del verano](https://www.elperiodico.com/es/ocio-y-cultura/20260813/critica-final-oak-street-david-robert-mitchell-133333231)<br>
+15:52 [Nick Reiner, acusado formalmente del asesinato de sus padres, Rob y Michele Reiner](https://www.elperiodico.com/es/ocio-y-cultura/20260813/nick-reiner-acusado-formalmente-del-asesinato-de-sus-padres-rob-y-michele-reiner-133333400)<br>
+15:49 [La locura por el eclipse del próximo agosto dispara los alojamientos en Cádiz hasta 10.000 euros la noche: “Hay lista de espera"](https://www.elperiodico.com/es/sociedad/20260813/locura-eclipse-proximo-agosto-dispara-precios-hoteles-cadiz-133332887)<br>
 15:34 [Cataluña y Valencia atienden decenas de dudas oftalmológicas tras el fenómeno](https://www.elperiodico.com/es/videos/salud/cataluna-valencia-atienden-decenas-dudas/133333323.shtml)<br>
 15:26 [Un microscopio en miniatura permite observar y controlar las neuronas mientras el cerebro está en movimiento](https://www.elperiodico.com/es/tendencias21/20260813/microscopio-miniatura-permite-observar-controlar-133333169)<br>
 15:11 [Los Mossos investigan un nuevo tiroteo en Nou Barris sin heridos](https://www.elperiodico.com/es/sucesos/20260813/mossos-investigan-nuevo-tiroteo-nou-barris-mossos-133332770)<br>
