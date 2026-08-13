@@ -1,10 +1,17 @@
-# News for 2026-08-13 11:34
+# News for 2026-08-13 12:21
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+12:00 [У ДТП в Грузії загинули четверо громадян Білорусі, 15 отримали травми](https://ua.korrespondent.net/world/4902543-u-dtp-v-hruzii-zahynuly-chetvero-hromadian-bilorusi-15-otrymaly-travmy)<br>
+11:59 [Крістен Стюарт похизувалася незвичним образом](https://ua.korrespondent.net/lifestyle/4902529-kristen-stuiart-pokhyzuvalasia-nezvychnym-obrazom)<br>
+11:54 [Генштаб підтвердив ураження НПЗ в Башкирії](https://ua.korrespondent.net/ukraine/4902539-henshtab-pidtverdyv-urazhennia-npz-v-bashkyrii)<br>
+11:51 [Обстріли Херсонщини: п'ять загиблих і 22 поранених](https://ua.korrespondent.net/ukraine/4902537-obstrily-khersonschyny-piat-zahyblykh-i-22-poranenykh)<br>
+11:39 [На Київщині попередили про забруднення водойм](https://ua.korrespondent.net/ukraine/4902533-na-kyivschyni-poperedyly-pro-zabrudnennia-vodoim)<br>
 11:14 [Міжнародний реєстр збитків для України відкрив нові категорії заяв](https://ua.korrespondent.net/ukraine/4902518-mizhnarodnyi-reiestr-zbytkiv-dlia-ukrainy-vidkryv-novi-katehorii-zaiav)<br>
+11:09 [Стало відомо, як працюватимуть школи Києва з 1 вересня](https://ua.korrespondent.net/city/kiev/4902516-stalo-vidomo-yak-pratsuivatymut-shkoly-kyieva-z-1-veresnia)<br>
 11:04 [У Севастополі ліквідували екскомандира субмарини Запоріжжя - соцмережі](https://ua.korrespondent.net/ukraine/4902514-u-sevastopoli-likviduvaly-ekskomandyra-submaryny-zaporizhzhia-sotsmerezhi)<br>
+10:59 [У бинтах 1600-річної мумії виявили уривок Іліади](https://ua.korrespondent.net/tech/science/4902480-u-byntakh-1600-richnoi-mumii-vyiavyly-uryvok-iliady)<br>
 10:46 [Уламки дрона виявили поблизу узбережжя Румунії](https://ua.korrespondent.net/world/4902508-ulamky-drona-vyiavyly-poblyzu-uzberezhzhia-rumunii)<br>
 10:42 [Курс гривні стабілізувався в обмінних пунктах](https://ua.korrespondent.net/business/financial/4902506-kurs-hryvni-stabilizuvavsia-v-obminnykh-punktakh)<br>
 10:30 [У польського МиГ-29 під час посадки відмовили гальма](https://ua.korrespondent.net/world/4902501-u-polskoho-myh-29-pid-chas-posadky-vidmovyly-halma)<br>
@@ -33,6 +40,14 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+12:21 [Ellas también eclipsan](https://www.elperiodico.com/es/deportes/20260813/eclipsan-133325256)<br>
+12:20 [Derecho a la desconexión digital en vacaciones: si te llama tu jefe en agosto, no tienes por qué coger el teléfono](https://www.elperiodico.com/es/economia/20260813/derecho-desconexion-digital-vacaciones-llamada-jefe-dv-133325280)<br>
+12:05 [Descubre en kayak playas secretas "increíbles" de la Costa Brava inaccesibles a pie](https://www.elperiodico.com/es/que-hacer/playas/20260813/kayak-playas-secretas-increibles-costa-brava-133127486)<br>
+12:05 [La surrealista queja de una millonaria argentina de vacaciones en Mallorca: "El yate es tan grande que no entra en las calas"](https://www.elperiodico.com/es/vida-y-estilo/20260813/surrealista-queja-millonaria-argentina-vacaciones-yate-calas-mallorca-dv-133324705)<br>
+12:03 [Muere un instructor de kitesurf y su novia graba accidentalmente el trágico momento: "¿Dónde estás gordito? No te veo"](https://www.elperiodico.com/es/sucesos/20260813/muere-instructor-kitesurf-fernando-javier-cappi-video-argentina-dv-133322714)<br>
+11:45 [El IPC sube tres décimas en julio en Catalunya, hasta el 3,5% interanual, impulsado por los combustibles y la electricidad](https://www.elperiodico.com/es/economia/20260813/ipc-catalunya-julio-2026-133323709)<br>
+11:37 [Detenido en Badalona (Barcelona) un fugitivo buscado en 31 países por tráfico de drogas](https://www.elperiodico.com/es/videos/sociedad/detenido-badalona-barcelona-fugitivo-buscado-31-paises-trafico-droga-video/133323959.shtml)<br>
+11:35 [A pie de calle | Así ha sido la cobertura fotográfica especial del eclipse total en Tarragona](https://www.elperiodico.com/es/videos/sociedad/pie-calle-sido-cobertura-fotografica/133323618.shtml)<br>
 11:31 ["Los lobos y linces no reaccionaron": qué hicieron los animales durante el eclipse total](https://www.elperiodico.com/es/sociedad/20260813/animales-eclipse-total-reaccion-zoologicos-133320531)<br>
 11:30 [El espectacular pueblo de cuento a media hora de Manresa](https://www.elperiodico.com/es/catalunya/20260813/catalunya-pueblo-cuento-manresa-bages-mura-dv-loc-109027763)<br>
 11:24 [El INE eleva el IPC de julio al 3,6%, su tasa más alta en 2 años, por los carburantes y la luz](https://www.elperiodico.com/es/videos/economia/ine-eleva-ipc-julio-3-6-tasa-mas-alta-2-anos-video/133323441.shtml)<br>
@@ -70,6 +85,7 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 06:00 [El cine de 1976 (4): 'Todos los hombres del presidente', Garganta Profunda y el Watergate](https://www.elperiodico.com/es/ocio-y-cultura/20260813/todos-los-hombres-del-presidente-cine-1976-redford-hoffman-133263266)<br>
 05:44 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos](https://www.elperiodico.com/es/sociedad/20260813/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 05:00 [¿Cuánto hace que no miras tu lengua? Puede revelar más sobre tu salud de lo que imaginas](https://www.elperiodico.com/es/salud/20260813/miras-lengua-revelar-salud-imaginas-bc-133316677)<br>
+01:00 ["Tranquilo, Patricio, es solo un eclipse solar”](https://www.elperiodico.com/es/sociedad/20260813/reportaje-ambiente-eclipse-sol-total-cubelles-catalunya-tranquilo-patricio-es-solo-un-eclipse-solar-133314919)<br>
 00:19 [De las nubes en Asturias a la puesta de sol en Baleares: así ha sido el eclipse en cada zona de España](https://www.elperiodico.com/es/sociedad/20260813/nubes-asturias-puesta-sol-baleares-eclipse-cada-zona-espana-133314562)<br>
 00:03 [El incendio de La Peña, en Huesca, sigue fuera de control y ya ha quemado 5.700 hectáreas](https://www.elperiodico.com/es/sociedad/20260813/incendio-pena-huesca-sigue-fuera-133314216)<br>
 00:00 [Miembros de INFOAR y de la UME trabajan de la mano frente al incendio de Las Peñas de Riglos en las inmediaciones de Ena](https://www.elperiodico.com/es/videos/sociedad/miembros-infoar-ume-mano-frente/133314122.shtml)<br>
