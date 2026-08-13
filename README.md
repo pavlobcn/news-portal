@@ -1,13 +1,17 @@
-# News for 2026-08-13 06:29
+# News for 2026-08-13 07:15
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+06:58 [На Львівщині матір оштрафували через вагітність її 16-річної доньки](https://ua.korrespondent.net/ukraine/4902434-na-lvivschyni-matir-oshtrafuvaly-cherez-vahitnist-yii-16-richnoi-donky)<br>
+06:42 [За місяць США скасували 600 віз у боротьбі з "пологовим туризмом"](https://ua.korrespondent.net/world/4902430-za-misiats-ssha-skasuvaly-600-viz-u-borotbi-z-polohovym-turyzmom)<br>
 04:56 [РФ атакувала порт Одещини](https://ua.korrespondent.net/ukraine/4902421-rf-atakuvala-port-odeschyny)<br>
 04:25 [У США розбився військовий гелікоптер](https://ua.korrespondent.net/world/4902419-u-ssha-rozbyvsia-viiskovyi-helikopter)<br>
 01:22 [У Греції через лісові пожежі затримали сотні людей](https://ua.korrespondent.net/world/4902407-u-hretsii-cherez-lisovi-pozhezhi-zatrymaly-sotni-luidei)<br>
 
 ## www.elperiodico.com
+07:05 [Iñaki Barrón, el expresidente de la comisión que investiga Adamuz: "Hemos tenido dos descarrilamientos similares este año y no ha habido accidentes graves"](https://www.elperiodico.com/es/economia/20260813/inaki-barron-expresidente-comision-accidente-adamuz-133318197)<br>
+07:00 [Cuando el cielo manda](https://www.elperiodico.com/es/opinion/20260813/cielo-manda-133298592)<br>
 06:01 [La camiseta feminista  para ver el eclipse de la ministra Morant de la que todos hablan: "La cabeza de una mujer es más grande que el espacio"](https://www.elperiodico.com/es/sociedad/20260813/camiseta-feminista-ministra-ciencia-morant-eclipsesolar-133315370)<br>
 06:01 [¿Cuáles son los síntomas de daño en la retina por mirar un eclipse? ¿Cuándo se debe acudir al médico?](https://www.elperiodico.com/es/sociedad/20260813/sintomas-dano-retina-eclipse-cuando-ir-medico-133314660)<br>
 06:01 [“Mi hijo de 14 años quiere ir a la playa con sus amigos: ¿debo dejarlo? ¿A partir de qué edad puede ir solo a nadar?"](https://www.elperiodico.com/es/sociedad/20260813/hijo-nadar-solo-amigos-expertos-playa-piscina-responden-132106410)<br>

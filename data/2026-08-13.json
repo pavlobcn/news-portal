@@ -1,5 +1,59 @@
 [
   {
+    "title": "Iñaki Barrón, el expresidente de la comisión que investiga Adamuz: \"Hemos tenido dos descarrilamientos similares este año y no ha habido accidentes graves\"",
+    "link": "https://www.elperiodico.com/es/economia/20260813/inaki-barron-expresidente-comision-accidente-adamuz-133318197",
+    "pubDate": "2026-08-13 07:05:22",
+    "category": "",
+    "description": "<h2>Iñaki Barrón ha dirigido durante seis meses la investigación del accidente de Adamuz, que dejó 46 fallecidos. Con la disolución de la Comisión de Investigación de Accidentes Ferroviarios (CIAF) en favor de una nueva autoridad, el ferroviario repasa las medidas adoptadas tras el siniestro, el estado de las pesquisas y los problemas que, a su juicio, arrastra el ferrocarril español</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuando el cielo manda",
+    "link": "https://www.elperiodico.com/es/opinion/20260813/cielo-manda-133298592",
+    "pubDate": "2026-08-13 07:00:40",
+    "category": "",
+    "description": "<h2>La filosofía islandesa de 'þetta reddast' emerge como una respuesta práctica ante la creciente influencia del clima en la vida moderna, evidenciada por el eclipse.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las balizas V-16 baten su récord de uso durante el verano por el aumento de los desplazamientos",
+    "link": "https://www.elperiodico.com/es/motor/20260813/balizas-v-16-baten-record-133109309",
+    "pubDate": "2026-08-13 07:00:33",
+    "category": "",
+    "description": "<h2>Las activaciones de este dispositivo crecen un 50% con respecto a la media registrada desde principios de año y alcanzan sus cifras más altas en los días previos a las grandes operaciones de tráfico</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "8 de cada 10 municipios se adhieren al servicio del Govern que gestiona los fallos masivos en la conectividad",
+    "link": "https://www.elperiodico.com/es/politica/20260813/fallos-conectividad-cobertura-catalunya-servicio-atencion-municipios-133214354",
+    "pubDate": "2026-08-13 07:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El Protocol TelcoCat ha recibido 917 llamadas en 9 meses y ha gestionado 459 incidencias </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20250710/generalitat-firma-acuerdo-mejorar-conectividad-catalunya-fibra-optica-telefonia-incidentes-atencion-govern-corte-internet-119550867\" target=\"_blank\">La Generalitat firma un acuerdo con operadores para expandir la conectividad de la Catalunya local y facilitar la gestión de incidencias</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260803/burocracia-reforma-administracion-210-tramites-govern-salvador-illa-132943587\" target=\"_blank\">Catalunya reforma 170 trámites administrativos para intentar reducir la burocracia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20250418/govern-concurso-200-millones-fibra-optica-publica-sedes-publicas-116302401\" target=\"_blank\">El Govern lanza un concurso de 200 millones para conectar sus colegios, hospitales o comisarías a la fibra óptica pública</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Львівщині матір оштрафували через вагітність її 16-річної доньки",
+    "link": "https://ua.korrespondent.net/ukraine/4902434-na-lvivschyni-matir-oshtrafuvaly-cherez-vahitnist-yii-16-richnoi-donky",
+    "pubDate": "2026-08-13 06:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526844.jpg\">Матір дівчини визнала провину та заявила, що сподівається, що \"таких вчинків\" більше не буде.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "За місяць США скасували 600 віз у боротьбі з \"пологовим туризмом\"",
+    "link": "https://ua.korrespondent.net/world/4902430-za-misiats-ssha-skasuvaly-600-viz-u-borotbi-z-polohovym-turyzmom",
+    "pubDate": "2026-08-13 06:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526828.jpg\">Держдеп створив робочу групу з протидії \"пологовому туризму\", що перевіряє діяльність власників віз і ліквідовує незаконні мережі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Генштаб назвав втрати Росії станом на 13 серпня",
     "link": "https://ua.korrespondent.net/ukraine/4902427-henshtab-nazvav-vtraty-rosii-stanom-na-13-serpnia",
     "pubDate": "2026-08-13 06:24:00",
