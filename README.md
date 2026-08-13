@@ -1,8 +1,13 @@
-# News for 2026-08-13 13:22
+# News for 2026-08-13 14:10
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+13:56 [Rheinmetall випробувала "мисливця" за бронетехнікою](https://ua.korrespondent.net/business/companies/4902598-Rheinmetall-vyprobuvala-myslyvtsia-za-bronetekhnikoui)<br>
+13:52 [З початку року проведено переказів на 27,5 трлн грн - НБУ](https://ua.korrespondent.net/business/financial/4902596-z-pochatku-roku-provedeno-perekaziv-na-275-trln-hrn-nbu)<br>
+13:51 [У Нідерландах потонули в озері двоє юнаків з України](https://ua.korrespondent.net/world/4902595-u-niderlandakh-potonuly-v-ozeri-dvoie-yunakiv-z-ukrainy)<br>
+13:45 [Сили оборони уразили аеродром Саки в Криму](https://ua.korrespondent.net/ukraine/4902593-syly-oborony-urazyly-aerodrom-saky-v-krymu)<br>
+13:27 [У Севастополі вибухнули залишки БпЛА, загинули піротехніки РФ](https://ua.korrespondent.net/ukraine/4902588-u-sevastopoli-vybukhnuly-zalyshky-bpla-zahynuly-pirotekhniky-rf)<br>
 13:21 [Урожай більше, експорт менше: оновлено прогноз для українського зерна](https://ua.korrespondent.net/business/economics/4902580-urozhai-bilshe-eksport-menshe-onovleno-prohnoz-dlia-ukrainskoho-zerna)<br>
 13:20 [Росіяни вдруге за день вдарили по поїзду на Одещині](https://ua.korrespondent.net/ukraine/4902585-rosiiany-vdruhe-za-den-vdaryly-po-poizdu-na-odeschyni)<br>
 13:15 [Вийшов трейлер фільму ДОВЖЕНКО. Перший погляд](https://ua.korrespondent.net/showbiz/cinema/4902572-vyishov-treiler-filmu-dovzhenko-pershyi-pohliad)<br>
