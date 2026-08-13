@@ -1,5 +1,68 @@
 [
   {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/ultima-hora-incendios-espana-directo-132759066",
+    "pubDate": "2026-08-13 08:05:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака дронів на Миколаївщину: пошкоджено цивільне судно",
+    "link": "https://ua.korrespondent.net/ukraine/4902444-ataka-droniv-na-mykolaivschynu-poshkodzheno-tsyvilne-sudno",
+    "pubDate": "2026-08-13 07:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526878.jpg\">Під ударом РФ опинилася портова інфраструктура Миколаївського району. Пошкоджено цивільне судно.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Kia EV3 ofrece una amplia oferta tecnológica al servicio de la seguridad y de la funcionalidad diaria",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/kia-ev3-ofrece-amplia-oferta-bc-133319084",
+    "pubDate": "2026-08-13 07:55:48",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нічна атака дронів: відомо, як спрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4902441-nichna-ataka-droniv-vidomo-yak-spratsuivala-ppo",
+    "pubDate": "2026-08-13 07:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526877.jpg\">Сили протиповітряної оборони знешкодили 111 зі 133 безпілотників, якими російські війська атакували Україну.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El incendio andaluz cumple una semana con 31.000 hectáreas afectadas, un perímetro de 120 kilómetros y nuevos desalojos en Huelva y Sevilla",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/incendio-andaluz-cumple-semana-31-133318932",
+    "pubDate": "2026-08-13 07:35:15",
+    "category": "",
+    "description": "<h2>La superficie afectada sigue aumentando, aunque más lentamente, y crece la preocupación entre municipios como Aznalcóllar en los que de momento los desalojos se concentran en zonas diseminadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Капітан Тоттенгема продовжить кар'єру в Іспанії",
+    "link": "https://ua.korrespondent.net/sport/football/4902440-kapitan-tottenhema-prodovzhyt-karieru-v-ispanii",
+    "pubDate": "2026-08-13 07:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526876.jpg\">Переговори між сторонами вийшли на фінішну пряму, і зараз клуби погоджують останні деталі трансферної угоди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна має лише 1% ракет для Patriot - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4902438-ukraina-maie-lyshe-1-raket-dlia-Patriot-zelenskyi",
+    "pubDate": "2026-08-13 07:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526859.jpg\">Купівля в США 5% ракет-перехоплювачів до систем Patriot допоможе Україні пройти зиму, а 10% дозволять повністю збивати балістику РФ.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Iñaki Barrón, el expresidente de la comisión que investiga Adamuz: \"Hemos tenido dos descarrilamientos similares este año y no ha habido accidentes graves\"",
     "link": "https://www.elperiodico.com/es/economia/20260813/inaki-barron-expresidente-comision-accidente-adamuz-133318197",
     "pubDate": "2026-08-13 07:05:22",
@@ -7,6 +70,15 @@
     "description": "<h2>Iñaki Barrón ha dirigido durante seis meses la investigación del accidente de Adamuz, que dejó 46 fallecidos. Con la disolución de la Comisión de Investigación de Accidentes Ferroviarios (CIAF) en favor de una nueva autoridad, el ferroviario repasa las medidas adoptadas tras el siniestro, el estado de las pesquisas y los problemas que, a su juicio, arrastra el ferrocarril español</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Світоліна не змогла вийти у фінал турніру в Торонто",
+    "link": "https://ua.korrespondent.net/sport/tenis/4902432-svitolina-ne-zmohla-vyity-u-final-turniru-v-toronto",
+    "pubDate": "2026-08-13 07:03:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526843.jpg\">Третій сет виявився фатальним для українки - Швьонтек перехопила ініціативу і довела матч до своєї перемоги.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Cuando el cielo manda",
@@ -45,6 +117,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Ямаль влаштував розкішне святкування 19-річчя",
+    "link": "https://ua.korrespondent.net/sport/football/4902378-yamal-vlashtuvav-rozkishne-sviatkuvannia-19-richchia",
+    "pubDate": "2026-08-13 06:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526415.jpg\">Свято пройшло у розкішній атмосфері з розважальною програмою, а кадри з грандіозного заходу вже встигли заполонити соціальні мережі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "За місяць США скасували 600 віз у боротьбі з \"пологовим туризмом\"",
     "link": "https://ua.korrespondent.net/world/4902430-za-misiats-ssha-skasuvaly-600-viz-u-borotbi-z-polohovym-turyzmom",
     "pubDate": "2026-08-13 06:42:00",
@@ -52,6 +133,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526828.jpg\">Держдеп створив робочу групу з протидії \"пологовому туризму\", що перевіряє діяльність власників віз і ліквідовує незаконні мережі.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "ПСЖ вдруге поспіль виграв Суперкубок УЄФА",
+    "link": "https://ua.korrespondent.net/sport/football/4902402-pszh-vdruhe-pospil-vyhrav-superkubok-uiefa",
+    "pubDate": "2026-08-13 06:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526813.jpg\">Чинний переможець Ліги чемпіонів у напруженому протистоянні здолав тріумфатора Ліги Європи - англійську Астон Віллу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Генштаб назвав втрати Росії станом на 13 серпня",
