@@ -1,5 +1,329 @@
 [
   {
+    "title": "La visita por sorpresa de Putin a las disputadas islas Kuriles desata la ira de Japón",
+    "link": "https://www.elperiodico.com/es/internacional/20260813/ira-japon-visita-sorpresa-putin-disputadas-islas-kuriles-133333625",
+    "pubDate": "2026-08-13 15:46:41",
+    "category": "",
+    "description": "<h2>La primera ministra nipona, Sanae Takaichi, asegura que aumentará el sentimiento antirruso en su país</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Сеута на межі: хто готує новий міграційний вибух 15 серпня",
+    "link": "https://ua.korrespondent.net/articles/4902632-seuta-na-mezhi-khto-hotuie-novyi-mihratsiinyi-vybukh-15-serpnia",
+    "pubDate": "2026-08-13 15:45:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527364.jpg\">Іспанія та Марокко готуються до нового масового прориву через кордон Сеути 15 серпня. Ситуацію ускладнює поєднання соціальних мереж, кримінальних та політичних інтересів і зовнішньої інформаційної експлуатації.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Виконував замовлення РФ у Києві: підпалювач отримав 15 років тюрми",
+    "link": "https://ua.korrespondent.net/ukraine/4902633-vykonuvav-zamovlennia-rf-u-kyievi-pidpaluivach-otrymav-15-rokiv-tuirmy",
+    "pubDate": "2026-08-13 15:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527358.jpg\">Для виконання ворожих завдань агент у темну пору доби обливав визначені \"цілі\" легкозаймистою сумішшю та підпалював їх.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un kitesurfista salta frente al eclipse de Sol en Tarifa y deja una imagen espectacular",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/kitesurfista-salta-frente-eclipse-sol-tarifa/133333471.shtml",
+    "pubDate": "2026-08-13 15:40:18",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cataluña y Valencia atienden decenas de dudas oftalmológicas tras el fenómeno",
+    "link": "https://www.elperiodico.com/es/videos/salud/cataluna-valencia-atienden-decenas-dudas/133333323.shtml",
+    "pubDate": "2026-08-13 15:34:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні з почестями зустріли труну Коновальця",
+    "link": "https://ua.korrespondent.net/ukraine/4902629-v-ukraini-z-pochestiamy-zustrily-trunu-konovaltsia",
+    "pubDate": "2026-08-13 15:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527343.jpg\">Церемонія перепоховання Євгена Коновальця відбудеться на Національному військовому меморіальному кладовищі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marlaska sobre Ceuta: \"Ninguna persona que entre de manera irregular va a ser regularizada\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/marlaska-ceuta-persona-manera-irregular/133333092.shtml",
+    "pubDate": "2026-08-13 15:26:52",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un microscopio en miniatura permite observar y controlar las neuronas mientras el cerebro está en movimiento",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260813/microscopio-miniatura-permite-observar-controlar-133333169",
+    "pubDate": "2026-08-13 15:26:35",
+    "category": "",
+    "description": "<h2>El dispositivo de apenas 16 gramos facilitó la observación de la actividad eléctrica del cerebro en animales despiertos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Корецький представив проєкт програми діяльності Кабміну",
+    "link": "https://ua.korrespondent.net/business/economics/4902626-koretskyi-predstavyv-proiekt-prohramy-diialnosti-kabminu",
+    "pubDate": "2026-08-13 15:23:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527324.jpg\">Документ передбачає посилення обороноздатності, підтримку громадян і бізнесу, а також прискорення інтеграції України до ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Археологи розкопали рідкісну 2300-річну гробницю",
+    "link": "https://ua.korrespondent.net/tech/science/4902612-arkheolohy-rozkopaly-ridkisnu-2300-richnu-hrobnytsui",
+    "pubDate": "2026-08-13 15:15:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527177.jpg\">Науковці виявили рідкісну гробницю віком 2300 років із добре збереженим скелетом та ножем.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos investigan un nuevo tiroteo en Nou Barris sin heridos",
+    "link": "https://www.elperiodico.com/es/sucesos/20260813/mossos-investigan-nuevo-tiroteo-nou-barris-mossos-133332770",
+    "pubDate": "2026-08-13 15:11:00",
+    "category": "",
+    "description": "<h2>Los agentes buscan a los sospechosos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El skater Danny León convierte el eclipse en el escenario de uno de sus trucos más espectaculares",
+    "link": "https://www.elperiodico.com/es/deportes/20260813/skater-danny-leon-convierte-eclipse-133332655",
+    "pubDate": "2026-08-13 15:10:56",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260812/eclipse-estadio-johan-cruyff-mirandolo-133310520\" >El eclipse desde dentro del estadio Johan Cruyff: \"Por estar mirándolo nos perdimos un gol del Barça\"</a></h2><h2>El skater mostoleño aprovechó el eclipse solar del 12 de agosto para realizar una maniobra con el cielo como telón de fondo y dejar una de las imágenes deportivas más llamativas de la jornada.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Vueling recupera la ruta entre Barcelona y Madrid a partir de octubre",
+    "link": "https://www.elperiodico.com/es/videos/economia/vueling-recupera-ruta-barcelona-madrid/133332734.shtml",
+    "pubDate": "2026-08-13 15:10:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві науковців спіймали на мільйонному хабарі",
+    "link": "https://ua.korrespondent.net/city/kiev/4902623-u-kyievi-naukovtsiv-spiimaly-na-milionnomu-khabari",
+    "pubDate": "2026-08-13 15:08:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527322.jpg\">Науковці хотіли отримати гроші за підготовку і погодження звіту з оцінки впливу дійльності підприємства на довкілля та здоров’я населення.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Rubén Gómez, español viviendo en Suiza: \"En cuatro meses he ahorrado más de 10.000 euros, estoy trabajando en la cocina de un restaurante\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/ruben-gomez-espanol-viviendo-suiza-ahorro-dinero-dv-133123534",
+    "pubDate": "2026-08-13 15:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El creador de contenido ha compartido un nuevo vídeo a través de su cuenta de TikTok</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20251102/fernando-23-anos-sincera-nueva-vida-suiza-nomina-7800-euros-122039143\">Fernando, 23 años, sobre su nueva vida en Suiza: \"Aquí mi nómina es de 7.868 euros al mes\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TV3 estrena este viernes 'Licorice Pizza', la aclamada película de Paul Thomas Anderson",
+    "link": "https://www.elperiodico.com/es/tele/20260813/tv3-estrena-licorice-pizza-pelicula-133332059",
+    "pubDate": "2026-08-13 14:58:51",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno cifra en 5.000 los migrantes que siguen en Ceuta y dice que \"la inmensa mayoría\" serán expulsados a Marruecos",
+    "link": "https://www.elperiodico.com/es/politica/20260813/gobierno-cifra-migrantes-5-000-ceuta-133332364",
+    "pubDate": "2026-08-13 14:58:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministro del Interior anuncia un plan de urgencia para acelerar las peticiones de asilo, de las que ya se han tramitado más de 500</h2><h2 class=\"item\">Marlaska asegura rotundo que \"no existe ningún riesgo de terrorismo\" vinculado a la entrada masiva del 30 de julio</h2><h2 class=\"item\">Última hora de Ceuta y Melilla, en directo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Обміління Дунаю повністю зупинило єдину АЕС Румунії",
+    "link": "https://ua.korrespondent.net/world/4902620-obmilinnia-dunaui-povnistui-zupynylo-yedynu-aes-rumunii",
+    "pubDate": "2026-08-13 14:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527305.jpg\">Єдина атомна електростанція Румунії забезпечувала близько 20% виробництва електроенергії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У фіналі Євро-2026 у стрибках у висоту виступлять Магучіх і Геращенко",
+    "link": "https://ua.korrespondent.net/sport/4902617-u-finali-yevro-2026-u-strybkakh-u-vysotu-vystupliat-mahuchikh-i-heraschenko",
+    "pubDate": "2026-08-13 14:50:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527291.jpg\">Українські спортсменки впевнено кваліфікувалися до фіналу змагань із перших своїх стрибків.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Енергоатом заявив про деградацію на ЗАЕС",
+    "link": "https://ua.korrespondent.net/ukraine/4902615-enerhoatom-zaiavyv-pro-dehradatsiui-na-zaes",
+    "pubDate": "2026-08-13 14:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527304.jpg\">В першу чергу зношуються дизельні генератори, які забезпечують резервне живлення атомної станції.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Jamboree reducirá \"bastante\" los conciertos de producción propia empujado por un contexto hostil para las salas pequeñas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260813/jamboree-reducira-conciertos-produccion-propia-sala-barcelona-133329834",
+    "pubDate": "2026-08-13 14:44:15",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260614/jazz-barcelona-locales-musicos-publico-131280343\">Jazz en Barcelona: pocos locales, muchos músicos y el público, un misterio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 80.000 vehículos regresaron del eclipse hacia Barcelona en pocas horas y colapsaron la AP7",
+    "link": "https://www.elperiodico.com/es/sucesos/20260813/vehiculos-regresaron-intensidad-eclipse-area-metropolitana-barcelona-colapso-tarragona-133331853",
+    "pubDate": "2026-08-13 14:43:21",
+    "category": "",
+    "description": "<h2>Trànsit remarca que se produjeron marchas lentas, paros intermitentes, más tiempo de viaje y un 40% de vehículos más en las carreteras: pero ninguna víctima mortal</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260812/eclipse-complica-movilidad-ap7-colapso-rodalies-renfe-desborde-133304679\">El eclipse complica la movilidad: Rodalies vive una jornada de caos, mientras que la AP7 esquiva el colapso</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El alcalde de Tarragona exige explicaciones a Renfe y Adif por el caos tras el eclipse: \"Las imágenes de la estación son inadmisibles\"",
+    "link": "https://www.elperiodico.com/es/tarragona/20260813/alcalde-tarragona-explicaciones-renfe-adif-movilidad-caos-rodalies-eclipse-133330142",
+    "pubDate": "2026-08-13 14:37:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Viñuales acusa una \"falta de previsión y de tacto con los usuarios\" y asegura que esta situación se vive \"cada día\"</h2><h2 class=\"item\">A PIE DE CALLE | <a href=\"https://www.elperiodico.com/es/tarragona/20260812/20-000-asistentes-llegados-medio-mundo-celebran-eclipse-angulo-tarragona-133304387\">La emoción por el eclipse se apodera de más de 20.000 asistentes en Tarragona: \"Ha sido un regalo que no podremos volver a vivir\"</a></h2><h2 class=\"item\">ACTUACIÓN | <a href=\"https://www.elperiodico.com/es/sociedad/20260812/catalunya-aglomeraciones-estacion-tarragona-eclipse-restringen-accesos-133313716\">Los Mossos regulan el acceso a la estación de Renfe de Tarragona por las aglomeraciones tras el eclipse</a></h2><h2 class=\"item\">MOVILIDAD | <a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260813/eclipse-duplica-ocupacion-r16-dispara-133319165\">Renfe afirma que reforzó el dispositivo de Rodalies del eclipse con todos los trenes disponibles</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У маршрутках Києва з’явиться оплата карткою: названо терміни",
+    "link": "https://ua.korrespondent.net/city/kiev/4902613-u-marshrutkakh-kyieva-ziavytsia-oplata-kartkoui-nazvano-terminy",
+    "pubDate": "2026-08-13 14:36:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527293.jpg\">У київських маршрутках планують запровадити безготівкову оплату та підключити їх до міської системи обліку проїзду.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Porsche y la china Xpeng se alían en Europa: las claves de una estrategia para evitar las multas de la UE",
+    "link": "https://www.elperiodico.com/es/motor/20260813/porsche-china-xpeng-alian-emisiones-ue-133321049",
+    "pubDate": "2026-08-13 14:32:36",
+    "category": "",
+    "description": "<h2>La marca alemán abandona temporalmente el grupo de emisiones de Volkswagen y evitar así las severas sanciones económicas de la Unión Europea.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cinco personas fueron rescatadas, entre ellas dos menores, cuando navegaban en una embarcación para ver el eclipse",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/cinco-personas-rescatadas-dos-menores-navegaban-barco-ver-eclipse-video/133331700.shtml",
+    "pubDate": "2026-08-13 14:31:20",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бекхеми разом спостерігали за сонячним затемненням",
+    "link": "https://ua.korrespondent.net/lifestyle/4902600-bekkhemy-razom-sposterihaly-za-soniachnym-zatemnenniam",
+    "pubDate": "2026-08-13 14:29:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527280.jpg\">Повне сонячне затемнення 12 серпня стало головною подією дня: зірки шоу-бізнесу показали, як спостерігали за рідкісним явищем.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський FPV-дрон убив двох мешканців Козачої Лопані",
+    "link": "https://ua.korrespondent.net/ukraine/4902610-rosiiskyi-FPV-dron-ubyv-dvokh-meshkantsiv-kozachoi-lopani",
+    "pubDate": "2026-08-13 14:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527292.jpg\">Двоє чоловіків віком 60 та 45 років перебували на подвір’ї одного з будинків, коли російські військові помітили їх та завдали цілеспрямованого удару.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido un hombre de 28 años como presunto autor del incendio de Huesca",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/detenido-hombre-28-anos-autor-incendio-huesca/133331512.shtml",
+    "pubDate": "2026-08-13 14:22:28",
+    "category": "",
+    "description": "La investigación de la Guardia Civil confirma oficialmente el inicio del fuego en la campa de acopio de materiales de las obras que se estaban realizando en la carretera A-132",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄК вивчить перспективи експорту української сільгосппродукції",
+    "link": "https://ua.korrespondent.net/world/4902608-yek-vyvchyt-perspektyvy-eksportu-ukrainskoi-silhospproduktsii",
+    "pubDate": "2026-08-13 14:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527281.jpg\">Брюссель отримав запит України щодо надання 220 млн євро на підтримку фермерів, які постраждали від перебоїв з експортом сільськогосподарської продукції через Чорне море.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Supercopa de España 2027 se celebrará en Estambul",
+    "link": "https://www.elperiodico.com/es/videos/deportes/supercopa-espana-2027-celebrara-estambul/133330865.shtml",
+    "pubDate": "2026-08-13 14:15:48",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "José Abellán, cardiólogo, expone la gran contradicción médica sobre el alcohol: \"Puede proteger tu corazón de un infarto, pero la OMS sostiene que no hay dosis segura\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260813/jose-abellan-cardiologo-contradiccion-alcohol-proteger-infarto-corazon-dv-et-133119174",
+    "pubDate": "2026-08-13 14:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260803/infarto-mujeres-depresion-hombres-cardiologo-jose-abellan-dv-et-132482567\" >El aviso de José Abellán, cardiólogo: \"Las mujeres tienen casi el doble de probabilidades de sufrir depresión después de un infarto que los hombres\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260603/jose-abellan-cardiologo-relacion-adolescentes-redes-sociales-uso-intensivo-instagram-asocia-trastornos-conducta-alimentaria-dv-130621474\" >José Abellán, médico e investigador, sobre la relación de los adolescentes con las redes sociales: \"El uso intensivo de Instagram se asocia con trastornos de la conducta alimentaria\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Podré utilizar mis gafas homologadas para observar el próximo eclipse? Mire la etiqueta",
+    "link": "https://www.elperiodico.com/es/sociedad/20260813/podre-utilizar-gafas-homologadas-observar-proximo-eclipse-133325815",
+    "pubDate": "2026-08-13 14:08:05",
+    "category": "",
+    "description": "<h2 class=\"item\">España tendrá dos nuevas oportunidades para observar eclipses solares en 2027 y 2028</h2><h2 class=\"item\"><a>Cómo saber si unas gafas para ver el eclipse son homologadas: las 5 cosas en las que debes fijarte</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un fallo en el sistema de regulación del tráfico de trenes corta la R3 en su totalidad",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260813/fallo-sistema-regulacion-trafico-trenes-corta-r3-totalidad-133329947",
+    "pubDate": "2026-08-13 14:06:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Adif ha asegurado que se está trabajando para solucionar la incidencia a la \"mayor brevedad\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20251006/r3-rodalies-iniciara-septiembre-corte-118484446\" target=\"_blank\">La R3 de Rodalies inició en octubre un corte de 16 meses que empezó por el tramo L'Hospitalet-La Garriga</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гравець Динамо показав, як привітав кохану дружину",
+    "link": "https://ua.korrespondent.net/sport/football/4902602-hravets-dynamo-pokazav-yak-pryvitav-kokhanu-druzhynu",
+    "pubDate": "2026-08-13 14:01:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527225.jpg\">З нагоди дня народження дружини футболіст опублікував у соцмережах серію теплих фотографій, додавши до них ніжний та сповнений кохання допис.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Crítica de 'Dos semanas en agosto' (Movistar Plus): la respuesta británica a 'The White Lotus' es incómoda y placentera",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260813/critica-dos-semanas-en-agosto-movistar-plus-132962842",
+    "pubDate": "2026-08-13 14:00:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Llega a España este éxito veraniego de la BBC, una historia de vacaciones torcidas con apuntes reflexivos sobre la amistad y el matrimonio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260730/sterling-point-serie-prime-video-entrevista-creadora-132848685\" target=\"_blank\">'Sterling Point' (Prime Video) es la clase de serie que cualquier verano necesita</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260730/bret-easton-ellis-ryan-murphy-serie-the-shards-132957066\" target=\"_blank\">'The shards' (Disney+): Bret Easton Ellis se alía con Ryan Murphy para una autoficción seductoramente perversa</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Rheinmetall випробувала \"мисливця\" за бронетехнікою",
     "link": "https://ua.korrespondent.net/business/companies/4902598-Rheinmetall-vyprobuvala-myslyvtsia-za-bronetekhnikoui",
     "pubDate": "2026-08-13 13:56:00",
@@ -7,6 +331,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527258.jpg\">Під час демонстрації FV-014 запустили з вантажівки Rheinmetall HX, як зі стаціонарного положення, так і під час руху.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Шоптенко відповіла, чи повернеться в Україну",
+    "link": "https://ua.korrespondent.net/lifestyle/4902587-shoptenko-vidpovila-chy-povernetsia-v-ukrainu",
+    "pubDate": "2026-08-13 13:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527254.jpg\">Хореографка Олена Шоптенко розповіла про свої плани щодо повернення з-за кордону в Україну.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Манчестер Сіті зберіг у складі основного вінгера",
+    "link": "https://ua.korrespondent.net/sport/football/4902591-manchester-siti-zberih-u-skladi-osnovnoho-vinhera",
+    "pubDate": "2026-08-13 13:54:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527269.jpg\">24-річний бельгійський футболіст уже поставив підпис під новим довгостроковим контрактом із клубом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "З початку року проведено переказів на 27,5 трлн грн - НБУ",
@@ -27,6 +369,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "El PP bloquea el debate sobre el reparto de los menores de Ceuta porque quiere antes conocer cuántos son",
+    "link": "https://www.elperiodico.com/es/politica/20260813/comunidades-pp-rechazan-debatir-menores-ceuta-133329967",
+    "pubDate": "2026-08-13 13:49:57",
+    "category": "",
+    "description": "<h2 class=\"item\">El ministerio de Juventud e Infancia quiere abordar con todas las autonomías la situación de los niños que entraron a España el último jueves del mes </h2><h2 class=\"item\">El Ejecutivo y los populares sí coinciden en destinar 25 millones de euros a ayudar a la ciudad autónoma </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Policía detiene a una pareja que tenía a sus hijos pequeños rodeados de basura y cucarachas en Mallorca",
+    "link": "https://www.elperiodico.com/es/sucesos/20260813/policia-detiene-pareja-hijos-pequenos-basura-cucarachas-mallorca-133329870",
+    "pubDate": "2026-08-13 13:49:56",
+    "category": "",
+    "description": "<h2>Los agentes comprobaron que el domicilio estaba en pésimas condiciones higiénicas y arrestaron a los padres por un delito de abandono de menores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Сили оборони уразили аеродром Саки в Криму",
     "link": "https://ua.korrespondent.net/ukraine/4902593-syly-oborony-urazyly-aerodrom-saky-v-krymu",
     "pubDate": "2026-08-13 13:45:00",
@@ -34,6 +394,60 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527268.jpg\">Також у районі Чорноморського уражено ретранслятор, призначений для управління ударними дронами.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Amazon derrumba sus precios HOY: las mejores ofertas del día con descuentos de hasta el 70 %",
+    "link": "https://www.elperiodico.com/es/shopping/20260813/amazon-ofertas-baja-precios-rebajas-bc-133295934",
+    "pubDate": "2026-08-13 13:45:00",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">En las siguientes líneas, encontrarás algunas de las mejores ofertas del día en Amazon, las mismas que dejan a su precio mínimo aquellos productos que, desde hace tiempo, pueden ser tuyos a precio de ganga</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vueling recupera la ruta entre Barcelona y Madrid a partir de octubre",
+    "link": "https://www.elperiodico.com/es/economia/20260813/vueling-recupera-ruta-barcelona-madrid-octubre-133326434",
+    "pubDate": "2026-08-13 13:42:46",
+    "category": "",
+    "description": "<h2>La aerolínea suspendió el servicio en marzo después de operarlo durante varios meses para responder al aumento de la demanda provocado por las dificultades del transporte ferroviario</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250213/vueling-cancelara-ruta-barcelona-114251848\" target=\"_blank\">Vueling cancelará su ruta entre Barcelona y Madrid a partir del 30 de marzo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El primer juez del caso Leire apunta a responsables de \"mayor jerarquía\" y al \"impulso intelectual y financiero\" de Cerdán",
+    "link": "https://www.elperiodico.com/es/politica/20260813/primer-juez-caso-leire-apunta-mayor-querarquia-impulso-intelectual-economico-santos-cerdan-133328516",
+    "pubDate": "2026-08-13 13:38:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El auto de inhibición del juez Zamarriego en favor del instructor del caso en la Audiencia Nacional también alude a la gerente del PSOE por transferir fondos del partido a la exmilitante</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260801/psoe-plus-ultra-zapatero-pedro-sanchez-ultima-hora-directo-132839681\">Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La rivalidad de los 'Blancs i Blaus' vuelve a Granollers: programación por días e historia de la Fiesta Mayor",
+    "link": "https://www.elperiodico.com/es/barcelona/20260813/granollers-vuelve-dividirse-blancs-blaus-festa-major-2026-133324984",
+    "pubDate": "2026-08-13 13:32:06",
+    "category": "",
+    "description": "<h2>El evento convierte la ciudad en escenario de competición entre las dos 'colles', con más de 250 actos y una pugna que se remonta a 1897 </h2><h2>CONTEXTO  | <a href=\"https://www.elperiodico.com/es/barcelona/granollers/20250702/granollers-prepara-festa-major-2025-119301299\" target=\"_blank\">Granollers se prepara para una Festa Major 2025 con una nueva imagen de los Blancs y Blaus</a></h2><h2>PERFIL | <a href=\"https://www.elperiodico.com/es/barcelona/granollers/20240831/son-blaus-blancs-polemicas-fiestas-107455145\" target=\"_blank\">¿Quién son los Blaus y Blancs de las polémicas fiestas de Granollers?</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los vecinos de otro edificio afectado por el socavón de la L9 de Barcelona ya pueden volver a casa",
+    "link": "https://www.elperiodico.com/es/barcelona/20260813/vecinos-edificio-socavon-l9-barcelona-vuelta-casa-133326935",
+    "pubDate": "2026-08-13 13:27:21",
+    "category": "",
+    "description": "<h2>El regreso al bloque del número 54 de la calle de Sant Gervasi de Cassoles será voluntario y escalonado</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260707/desalojadas-tres-fincas-enteras-putxet-sovacon-132206684\" target=\"_blank\">Un socavón que el Govern atribuye a las obras de la L9 obliga a desalojar 93 viviendas del Putxet</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Conde Carabasura, el \"guerrero intergaláctico\" que aspira a arrebatar el escaño al ultra Farage en el Parlamento británico",
+    "link": "https://www.elperiodico.com/es/internacional/20260813/quien-es-conde-carabasura-count-binface-elecciones-clacton-farage-133328034",
+    "pubDate": "2026-08-13 13:27:07",
+    "category": "",
+    "description": "<h2>Este personaje satírico se ha convertido en la principal alternativa al líder de Reform UK en los comicios de Clacton tras el boicot del resto de partidos</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
   },
   {
     "title": "У Севастополі вибухнули залишки БпЛА, загинули піротехніки РФ",
@@ -266,6 +680,15 @@
     "pubDate": "2026-08-13 12:52:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527214.jpg\">Відомо про трьох  поранених жінок. Двох із них  готують до  перевезення  у клініку Дніпра.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya registra 450 urgencias por daños en la vista en las primeras horas tras el eclipse",
+    "link": "https://www.elperiodico.com/es/sanidad/20260813/cataluna-sem-eclipse-retina-danos-consultas-medicas-vista-oftalmologicas-133326292",
+    "pubDate": "2026-08-13 12:51:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Las lesiones oculares representan entre un 2% y un 3% de las urgencias totales, que subieron ayer un 12% con respecto a hace una semana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260813/aumento-visitas-oftalmologicas-hospitales-espana-dia-posterior-eclipse-sol-133325684\" target=\"_blank\">Los hospitales y centros de salud de España reciben más de 200 visitas oftalmológicas en las primeras horas 'post-eclipse'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260813/eclipse-solar-espana-afectados-urgencias-medicas-problemas-vision-ultima-hora-directo-133282438\" >Eclipse solar en España, última hora en directo | Afectados por el fenómeno, primeras urgencias médicas, problemas de visión y principales síntomas</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
