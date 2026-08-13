@@ -1,5 +1,95 @@
 [
   {
+    "title": "Масштабні пожежі у Британії: людей евакуюють із будинків",
+    "link": "https://ua.korrespondent.net/world/4902735-masshtabni-pozhezhi-u-brytanii-luidei-evakuuiuit-iz-budynkiv",
+    "pubDate": "2026-08-13 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527687.jpg\">Через стрімке поширення вогню людей евакуюють, а рятувальники працюють на межі можливостей",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercado de fichajes, 2026, EuroLeague: todos los movimientos",
+    "link": "https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-08-13 21:47:19",
+    "category": "Mercado Euroliga",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Euroliga este verano de 2026.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Complicada jornada de lucha contra el fuego en Las Peñas de Riglos, Huesca",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/complicada-jornada-lucha-fuego-penas/133342976.shtml",
+    "pubDate": "2026-08-13 21:43:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un niño de tres años resulta herido grave tras caer de una tribuna en unos festejos de Castalla (Alicante)",
+    "link": "https://www.elperiodico.com/es/sucesos/20260813/nino-tres-anos-resulta-herido-grave-caer-tribuna-festejos-castalla-alicante-133342956",
+    "pubDate": "2026-08-13 21:42:16",
+    "category": "",
+    "description": "<h2>El menor ha sido trasladado en helicóptero a un centro hospitalario y la comisión ha decidido suspender la sesión de la tarde en señal de solidaridad con la familia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere una mujer de 84 años en una piscina de Castelldefels",
+    "link": "https://www.elperiodico.com/es/sucesos/20260813/muere-mujer-84-anos-piscina-castelldefels-133342884",
+    "pubDate": "2026-08-13 21:41:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Es la undécima víctima mortal en piscinas catalanas desde el inicio de la campaña de baño, el pasado 15 de junio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260813/muere-ahogado-banista-platja-gran-palamos-133338869\">Muere ahogado un bañista en la Platja Gran de Palamós</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "BYD оновила бюджетний седан Seal 06",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4902733-BYD-onovyla-buidzhetnyi-sedan-Seal-06",
+    "pubDate": "2026-08-13 21:41:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527657.jpg\">Сімейний седан 2027 модельного року отримав більшу та ефективнішу батарею і систему допомоги водієві з LiDAR при стартовій ціні від €12500 в Китаї.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sigue estas recomendaciones de la DGT para evitar accidentes de tráfico en tus vacaciones",
+    "link": "https://www.elperiodico.com/es/motor/20260813/dgt-evitar-accidentes-trafico-este-verano-132664733",
+    "pubDate": "2026-08-13 21:30:35",
+    "category": "",
+    "description": "<h2>Con las altas temperaturas y las vacaciones, las personas cogen el vehículo para hacer algún viaje o escapada, pero hay que tener mucho cuidado con los atascos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Для Інфантіно знайшлася група підтримки в особі арабських асоціацій",
+    "link": "https://ua.korrespondent.net/sport/football/4902730-dlia-infantino-znaishlasia-hrupa-pidtrymky-v-osobi-arabskykh-asotsiatsii",
+    "pubDate": "2026-08-13 21:30:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527642.jpg\">Керівник ФІФА Джанні Інфантіно може розраховувати на підтримку кількох представників арабського футболу, які звернулися до організації з листом на підтримку президента.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія атакувала Дніпропетровщину майже 60 разів",
+    "link": "https://ua.korrespondent.net/ukraine/4902726-rosiia-atakuvala-dnipropetrovschynu-maizhe-60-raziv",
+    "pubDate": "2026-08-13 21:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527629.jpg\">Російські війська протягом дня майже 60 разів атакували Дніпропетровську область. Унаслідок ударів постраждали четверо людей, є значні руйнування та пожежі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Від Гренландії відколовся крижаний острів площею з місто",
+    "link": "https://ua.korrespondent.net/world/4902728-vid-hrenlandii-vidkolovsia-kryzhanyi-ostriv-ploscheui-z-misto",
+    "pubDate": "2026-08-13 21:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527640.jpg\">Від льодовика відокремився масивний айсберг площею 76,4 квадратних кілометрів. Вчені очікують, що найближчим часом від льодовикового язика можуть відколотися ще щонайменше два великих фрагменти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El fuego engulle el monasterio viejo de San Juan de la Peña pero logran rescatar los restos de los reyes",
     "link": "https://www.elperiodico.com/es/videos/sociedad/fuego-engulle-monasterio-viejo-san/133342600.shtml",
     "pubDate": "2026-08-13 21:20:56",
@@ -36,6 +126,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Роналду здивував новим образом після весілля",
+    "link": "https://ua.korrespondent.net/sport/football/4902721-ronaldu-zdyvuvav-novym-obrazom-pislia-vesillia",
+    "pubDate": "2026-08-13 21:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527595.jpg\">З'явившись у таборі Аль-Насра, 41-річний португалець здивував уболівальників та журналістів зміною іміджу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "EN VÍDEO |   Los helicópteros de emergencias cargan agua en el río en Puente La Reina",
     "link": "https://www.elperiodico.com/es/videos/sociedad/video-helicopteros-emergencias-cargan-agua/133342317.shtml",
     "pubDate": "2026-08-13 21:06:12",
@@ -43,6 +142,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Гол українця дозволив супернику Динамо пройти далі у Лізі конференцій",
+    "link": "https://ua.korrespondent.net/sport/football/4902718-hol-ukraintsia-dozvolyv-supernyku-dynamo-proity-dali-u-lizi-konferentsii",
+    "pubDate": "2026-08-13 21:04:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527596.jpg\">Київське Динамо зустрічалося з Карабахом у рамках третього раунду кваліфікації Ліги конференцій.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "El horóscopo de mañana, viernes 14 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
@@ -1112,6 +1220,15 @@
     "pubDate": "2026-08-13 15:54:06",
     "category": "",
     "description": "<h2 class=\"item\">David Robert Mitchell recurre al cine popular de los 80 para construir un filme de acción fantástica ingenioso y conmovedor</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El eclipse llena las urgencias de los hospitales madrileños: \"La mayoría son jóvenes con ansiedad por no haber hecho las cosas bien\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260813/eclipse-llena-urgencias-hospitales-madrilenos-danos-retina-oftalmologia-133333724",
+    "pubDate": "2026-08-13 15:53:01",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El eclipse solar que provocó ayer jueves un anochecer anticipado en España ha dejado 101 atenciones en la Comunidad de Madrid por mareos, dudas, molestias y problemas oculares</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260813/eclipse-solar-espana-afectados-urgencias-medicas-problemas-vision-ultima-hora-directo-133282438\" target=\"_blank\">Última hora del eclipse del 12 de agosto</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },

@@ -1,8 +1,10 @@
-# News for 2026-08-13 21:28
+# News for 2026-08-13 22:08
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+21:59 [Масштабні пожежі у Британії: людей евакуюють із будинків](https://ua.korrespondent.net/world/4902735-masshtabni-pozhezhi-u-brytanii-luidei-evakuuiuit-iz-budynkiv)<br>
+21:28 [Від Гренландії відколовся крижаний острів площею з місто](https://ua.korrespondent.net/world/4902728-vid-hrenlandii-vidkolovsia-kryzhanyi-ostriv-ploscheui-z-misto)<br>
 20:15 [Вогонь наблизився до курортів Греції: почалась евакуація](https://ua.korrespondent.net/world/4902705-vohon-nablyzyvsia-do-kurortiv-hretsii-pochalas-evakuatsiia)<br>
 19:59 [Instagram оновив текстовий логотип уперше за десятиліття](https://ua.korrespondent.net/business/web/4902707-Instagram-onovyv-tekstovyi-lohotyp-upershe-za-desiatylittia)<br>
 19:04 [На збереження Хотинської фортеці спрямували 3 млн](https://ua.korrespondent.net/ukraine/4902689-na-zberezhennia-khotynskoi-fortetsi-spriamuvaly-3-mln)<br>
@@ -77,12 +79,16 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 01:22 [У Греції через лісові пожежі затримали сотні людей](https://ua.korrespondent.net/world/4902407-u-hretsii-cherez-lisovi-pozhezhi-zatrymaly-sotni-luidei)<br>
 
 ## as.com
+21:47 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
 21:12 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 20:50 [El Movistar Estudiantes cierra su sexto proyecto de Primera FEB](https://as.com/baloncesto/mas_baloncesto/el-movistar-estudiantes-cierra-su-sexto-proyecto-de-primera-feb-f202608-n/)<br>
 16:47 [El Barça se hace con el hijo de Pachulia](https://as.com/baloncesto/mas_baloncesto/el-barca-se-hace-con-el-hijo-de-pachulia-f202608-n/)<br>
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+21:43 [Complicada jornada de lucha contra el fuego en Las Peñas de Riglos, Huesca](https://www.elperiodico.com/es/videos/sucesos/complicada-jornada-lucha-fuego-penas/133342976.shtml)<br>
+21:42 [Un niño de tres años resulta herido grave tras caer de una tribuna en unos festejos de Castalla (Alicante)](https://www.elperiodico.com/es/sucesos/20260813/nino-tres-anos-resulta-herido-grave-caer-tribuna-festejos-castalla-alicante-133342956)<br>
+21:41 [Muere una mujer de 84 años en una piscina de Castelldefels](https://www.elperiodico.com/es/sucesos/20260813/muere-mujer-84-anos-piscina-castelldefels-133342884)<br>
 21:20 [El fuego engulle el monasterio viejo de San Juan de la Peña pero logran rescatar los restos de los reyes](https://www.elperiodico.com/es/videos/sociedad/fuego-engulle-monasterio-viejo-san/133342600.shtml)<br>
 21:10 [El incendio de Huesca no da tregua y las llamas cercan el Monasterio viejo de San Juan de la Peña pese al enorme operativo desplegado](https://www.elperiodico.com/es/sociedad/20260813/incendio-huesca-da-tregua-llamas-monasterio-viejo-san-juan-pena-133342425)<br>
 21:06 [EN VÍDEO |   Los helicópteros de emergencias cargan agua en el río en Puente La Reina](https://www.elperiodico.com/es/videos/sociedad/video-helicopteros-emergencias-cargan-agua/133342317.shtml)<br>
@@ -126,6 +132,7 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 16:10 [Antonio, jubilado con una pensión de 1.000 euros: "Con la pensión hay que hacer matemáticas, la cuantía que nos pagaban era tan baja que aún sigue siendo insuficiente"](https://www.elperiodico.com/es/economia/20260813/antonio-jubilado-pension-1-000-euros-pension-precaria-dv-133139814)<br>
 16:09 [Así se vio el eclipse desde la Gran Vía de Madrid](https://www.elperiodico.com/es/videos/sociedad/eclipse-gran-via-madrid/133334222.shtml)<br>
 15:54 [Crítica de 'El final de Oak Street': el director de 'It follows' firma la película del verano](https://www.elperiodico.com/es/ocio-y-cultura/20260813/critica-final-oak-street-david-robert-mitchell-133333231)<br>
+15:53 [El eclipse llena las urgencias de los hospitales madrileños: "La mayoría son jóvenes con ansiedad por no haber hecho las cosas bien"](https://www.elperiodico.com/es/sanidad/20260813/eclipse-llena-urgencias-hospitales-madrilenos-danos-retina-oftalmologia-133333724)<br>
 15:52 [Nick Reiner, acusado formalmente del asesinato de sus padres, Rob y Michele Reiner](https://www.elperiodico.com/es/ocio-y-cultura/20260813/nick-reiner-acusado-formalmente-del-asesinato-de-sus-padres-rob-y-michele-reiner-133333400)<br>
 15:49 [La locura por el eclipse del próximo agosto dispara los alojamientos en Cádiz hasta 10.000 euros la noche: “Hay lista de espera"](https://www.elperiodico.com/es/sociedad/20260813/locura-eclipse-proximo-agosto-dispara-precios-hoteles-cadiz-133332887)<br>
 15:34 [Cataluña y Valencia atienden decenas de dudas oftalmológicas tras el fenómeno](https://www.elperiodico.com/es/videos/salud/cataluna-valencia-atienden-decenas-dudas/133333323.shtml)<br>
