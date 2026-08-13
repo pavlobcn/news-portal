@@ -1,8 +1,14 @@
-# News for 2026-08-13 08:04
+# News for 2026-08-13 08:51
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+08:41 [Обстріли Сумщини: постраждали семеро людей](https://ua.korrespondent.net/ukraine/4902460-obstrily-sumschyny-postrazhdaly-semero-luidei)<br>
+08:35 [Свята 13 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4902386-sviata-13-serpnia-2026-roku-istoriia-tradytsii)<br>
+08:33 [Реактивний Шахед вдарив по пасажирському поїзду на Одещині: є загиблі](https://ua.korrespondent.net/ukraine/4902457-reaktyvnyi-shakhed-vdaryv-po-pasazhyrskomu-poizdu-na-odeschyni-ye-zahybli)<br>
+08:20 [Удари по Дніпропетровщині: п’ятеро поранених](https://ua.korrespondent.net/ukraine/4902450-udary-po-dnipropetrovschyni-piatero-poranenykh)<br>
+08:20 [Дрони вдарили по НПЗ і Wildberries у Башкортостані](https://ua.korrespondent.net/world/russia/4902452-drony-vdaryly-po-npz-i-Wildberries-u-bashkortostani)<br>
+08:16 [Рок-пісня 1975 року підкорила світ](https://ua.korrespondent.net/showbiz/music/4902360-rok-pisnia-1975-roku-pidkoryla-svit)<br>
 06:58 [На Львівщині матір оштрафували через вагітність її 16-річної доньки](https://ua.korrespondent.net/ukraine/4902434-na-lvivschyni-matir-oshtrafuvaly-cherez-vahitnist-yii-16-richnoi-donky)<br>
 06:42 [За місяць США скасували 600 віз у боротьбі з "пологовим туризмом"](https://ua.korrespondent.net/world/4902430-za-misiats-ssha-skasuvaly-600-viz-u-borotbi-z-polohovym-turyzmom)<br>
 04:56 [РФ атакувала порт Одещини](https://ua.korrespondent.net/ukraine/4902421-rf-atakuvala-port-odeschyny)<br>
@@ -10,6 +16,11 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 01:22 [У Греції через лісові пожежі затримали сотні людей](https://ua.korrespondent.net/world/4902407-u-hretsii-cherez-lisovi-pozhezhi-zatrymaly-sotni-luidei)<br>
 
 ## www.elperiodico.com
+08:30 [Accidente en Bali: Indonesia busca a cinco desaparecidos tras el incendio de un barco turístico](https://www.elperiodico.com/es/internacional/20260813/barco-bali-accidente-desaparecidos-turistas-133319332)<br>
+08:28 [Indonesia busca a cinco desaparecidos tras el incendio de un barco turístico en Bali](https://www.elperiodico.com/es/videos/internacional/indonesia-busca-cinco-desaparecidos-incendio-barco-turistico-bali-video/133319380.shtml)<br>
+08:20 [¿Cuándo hay Luna llena en agosto 2026 y por qué se llama del esturión?](https://www.elperiodico.com/es/ciencia/20260813/cuando-luna-llena-agosto-2026-esturion-dv-133143706)<br>
+08:16 [Rubén vive de lo que otros tiran y reforma una casa abandonada en la montaña en Barcelona: "Vivo del despilfarro y del consumismo enfermizo que hay, solo gasto 15 euros al mes"](https://www.elperiodico.com/es/economia/20260813/ruben-10-anos-viviendo-otros-tiran-reformando-casa-15-euros-dv-et-133291329)<br>
+08:09 [El eclipse duplica la ocupación de la R16 y dispara un 60% la de la R15 de Rodalies](https://www.elperiodico.com/es/trafico-y-transportes/20260813/eclipse-duplica-ocupacion-r16-dispara-133319165)<br>
 08:05 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260813/ultima-hora-incendios-espana-directo-132759066)<br>
 07:35 [El incendio andaluz cumple una semana con 31.000 hectáreas afectadas, un perímetro de 120 kilómetros y nuevos desalojos en Huelva y Sevilla](https://www.elperiodico.com/es/sociedad/20260813/incendio-andaluz-cumple-semana-31-133318932)<br>
 07:05 [Iñaki Barrón, el expresidente de la comisión que investiga Adamuz: "Hemos tenido dos descarrilamientos similares este año y no ha habido accidentes graves"](https://www.elperiodico.com/es/economia/20260813/inaki-barron-expresidente-comision-accidente-adamuz-133318197)<br>
