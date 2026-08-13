@@ -1,8 +1,9 @@
-# News for 2026-08-13 02:43
+# News for 2026-08-13 04:33
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+04:25 [У США розбився військовий гелікоптер](https://ua.korrespondent.net/world/4902419-u-ssha-rozbyvsia-viiskovyi-helikopter)<br>
 01:22 [У Греції через лісові пожежі затримали сотні людей](https://ua.korrespondent.net/world/4902407-u-hretsii-cherez-lisovi-pozhezhi-zatrymaly-sotni-luidei)<br>
 
 ## www.elperiodico.com

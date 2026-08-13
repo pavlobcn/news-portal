@@ -1,5 +1,41 @@
 [
   {
+    "title": "У США розбився військовий гелікоптер",
+    "link": "https://ua.korrespondent.net/world/4902419-u-ssha-rozbyvsia-viiskovyi-helikopter",
+    "pubDate": "2026-08-13 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526707.jpg\">Вертоліт Apache врізався в поле і спалахнув. Обидва пілоти, які перебували на борту, загинули.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗСУ на навчаннях \"знищили\" бригаду США - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4902417-zsu-na-navchanniakh-znyschyly-bryhadu-ssha-zmi",
+    "pubDate": "2026-08-13 03:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526692.jpg\">Американські війська ввели в бій важку бронетехніку, яка здіймала хмари пилу, через що українські розвідувальні дрони легко її помічали і \"атакували\".",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "РФ вночі атакувала Чернігів",
+    "link": "https://ua.korrespondent.net/ukraine/4902415-rf-vnochi-atakuvala-chernihiv",
+    "pubDate": "2026-08-13 03:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526663.jpg\">У північно-східній частині міста після російського удару сталася пожежа. Наслідки атаки уточнюється.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Російський БПЛА вбив двох жителів Херсона",
+    "link": "https://ua.korrespondent.net/ukraine/4902413-rosiiskyi-bpla-vbyv-dvokh-zhyteliv-khersona",
+    "pubDate": "2026-08-13 02:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526634.jpg\">Окупанти атакували з БпЛА двох чоловіків у Корабельному районі міста. Вони отримали смертельні поранення.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Сенатори США вимагають пояснень, чому немає нових санкцій проти РФ",
     "link": "https://ua.korrespondent.net/world/4902411-senatory-ssha-vymahauit-poiasnen-chomu-nemaie-novykh-sanktsii-proty-rf",
     "pubDate": "2026-08-13 02:23:00",
@@ -7,6 +43,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526619.jpg\">Двоє сенаторів вимагають від адміністрації пояснити, чому після фактичного застою переговорного процесу Вашингтон не повернувся до регулярного і частого введення нових санкцій.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Унікальна операція: стало відомо, чим били по Новоросійську",
+    "link": "https://ua.korrespondent.net/ukraine/4902409-unikalna-operatsiia-stalo-vidomo-chym-byly-po-novorosiisku",
+    "pubDate": "2026-08-13 01:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526604.jpg\">Сили оборони минулої ночі використали 15 видів засобів ураження. Зеленський провів нараду за підсумками комбінованої атаки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "У Греції через лісові пожежі затримали сотні людей",
@@ -25,6 +70,24 @@
     "description": "",
     "topic": "portada de EL PERIÓDICO",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Дорожня корупція: справу ексголови Дніпропетровської ОДА направлено до суду",
+    "link": "https://ua.korrespondent.net/ukraine/4902405-dorozhnia-koruptsiia-spravu-eksholovy-dnipropetrovskoi-oda-napravleno-do-sudu",
+    "pubDate": "2026-08-13 00:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526560.png\">Ексочільника регіону Валентина Резніченка і трьох його спільників звинувачують у розкраданні понад 392 млн гривень на ремонті доріг.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "DeepState показали контрнаступ на мапі",
+    "link": "https://ua.korrespondent.net/ukraine/4902403-DeepState-pokazaly-kontrnastup-na-mapi",
+    "pubDate": "2026-08-13 00:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4526545.jpg\">Українські військові звільнили 241,73 кв. км і збільшити сіру зону у бік росіян. OSINT-ери показали, як це виглядає на мапі.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "De las nubes en Asturias a la puesta de sol en Baleares: así ha sido el eclipse en cada zona de España",
