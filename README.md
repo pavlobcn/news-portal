@@ -1,8 +1,12 @@
-# News for 2026-08-13 09:51
+# News for 2026-08-13 11:03
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+10:46 [Уламки дрона виявили поблизу узбережжя Румунії](https://ua.korrespondent.net/world/4902508-ulamky-drona-vyiavyly-poblyzu-uzberezhzhia-rumunii)<br>
+10:42 [Курс гривні стабілізувався в обмінних пунктах](https://ua.korrespondent.net/business/financial/4902506-kurs-hryvni-stabilizuvavsia-v-obminnykh-punktakh)<br>
+10:30 [У польського МиГ-29 під час посадки відмовили гальма](https://ua.korrespondent.net/world/4902501-u-polskoho-myh-29-pid-chas-posadky-vidmovyly-halma)<br>
+10:12 [У Румунії почали процедуру зупинки АЕС через обміління Дунаю](https://ua.korrespondent.net/world/4902491-u-rumunii-pochaly-protseduru-zupynky-aes-cherez-obmilinnia-dunaui)<br>
 09:38 [Укренерго назвало чотири області з відключеннями](https://ua.korrespondent.net/ukraine/4902478-ukrenerho-nazvalo-chotyry-oblasti-z-vidkluichenniamy)<br>
 09:35 [В Україні перевірять готовність резервних джерел водопостачання](https://ua.korrespondent.net/ukraine/4902475-v-ukraini-pereviriat-hotovnist-rezervnykh-dzherel-vodopostachannia)<br>
 09:25 [Україна досі не отримала від Росії повних списків полонених - Коордштаб](https://ua.korrespondent.net/ukraine/4902471-ukraina-dosi-ne-otrymala-vid-rosii-povnykh-spyskiv-polonenykh-koordshtab)<br>
@@ -20,7 +24,13 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 04:25 [У США розбився військовий гелікоптер](https://ua.korrespondent.net/world/4902419-u-ssha-rozbyvsia-viiskovyi-helikopter)<br>
 01:22 [У Греції через лісові пожежі затримали сотні людей](https://ua.korrespondent.net/world/4902407-u-hretsii-cherez-lisovi-pozhezhi-zatrymaly-sotni-luidei)<br>
 
+## as.com
+10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
+
 ## www.elperiodico.com
+10:30 [Detenido un hombre de 28 años como presunto autor del incendio de Huesca](https://www.elperiodico.com/es/sociedad/20260813/detenido-hombre-28-anos-presunto-133321729)<br>
+10:05 [Exteriores confirma la muerte de un español en el terremoto de Colombia](https://www.elperiodico.com/es/internacional/20260813/exteriores-confirma-muerte-espanol-terremoto-133321098)<br>
+10:00 [Crítica de 'Cuenta atrás': Un filme demasiado funcional sobre una bomba de la Segunda Guerra Mundial incrustada en el Londres actual y un extraño atraco a un banco](https://www.elperiodico.com/es/ocio-y-cultura/20260813/critica-pelicula-cuenta-atras-londres-funcional-bomba-atraco-banco-133297150)<br>
 09:49 [Precio del petróleo hoy, 13 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260813/precio-petroleo-hoy-13-agosto-dv-133320782)<br>
 09:48 [Incendios hoy, 13 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260813/incendios-hoy-13-agosto-ultima-hora-cataluna-espana-mapa-fuegos-activos-dv-133320781)<br>
 09:46 [Golpe a la producción de droga en España: 23 detenidos y 4 laboratorios desmantelados](https://www.elperiodico.com/es/sucesos/20260813/golpe-produccion-droga-espana-23-133320799)<br>
