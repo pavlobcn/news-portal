@@ -1,8 +1,15 @@
-# News for 2026-08-13 16:51
+# News for 2026-08-13 17:48
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+17:45 [Вибух у порту Роттердама: загинула людина, є поранені](https://ua.korrespondent.net/world/4902674-vybukh-u-portu-rotterdama-zahynula-luidyna-ye-poraneni)<br>
+17:23 [Затримано начальника Миколаївського обласного ТЦК](https://ua.korrespondent.net/ukraine/4902672-zatrymano-nachalnyka-mykolaivskoho-oblasnoho-ttsk)<br>
+17:04 [Катастрофа МіГ-29: знайдено "чорну скриньку"](https://ua.korrespondent.net/ukraine/4902666-katastrofa-mih-29-znaideno-chornu-skrynku)<br>
+16:59 [Сибірська виразка в Азербайджані: влада розповіла про ситуацію](https://ua.korrespondent.net/world/4902662-sybirska-vyrazka-v-azerbaidzhani-vlada-rozpovila-pro-sytuatsiui)<br>
+16:49 [Філіппіни передали Україні 40 генераторів](https://ua.korrespondent.net/ukraine/4902656-filippiny-peredaly-ukraini-40-heneratoriv)<br>
+16:27 [Підозрюваного у розбещенні 12-річної дівчинки на Харківщині взято під варту](https://ua.korrespondent.net/ukraine/4902651-pidozruivanoho-u-rozbeschenni-12-richnoi-divchynky-na-kharkivschyni-vziato-pid-vartu)<br>
+15:55 [Сотні лелек зібралися в селі на Київщині](https://ua.korrespondent.net/ukraine/4902628-sotni-lelek-zibralysia-v-seli-na-kyivschyni)<br>
 15:45 [Виконував замовлення РФ у Києві: підпалювач отримав 15 років тюрми](https://ua.korrespondent.net/ukraine/4902633-vykonuvav-zamovlennia-rf-u-kyievi-pidpaluivach-otrymav-15-rokiv-tuirmy)<br>
 15:29 [В Україні з почестями зустріли труну Коновальця](https://ua.korrespondent.net/ukraine/4902629-v-ukraini-z-pochestiamy-zustrily-trunu-konovaltsia)<br>
 15:15 [Археологи розкопали рідкісну 2300-річну гробницю](https://ua.korrespondent.net/tech/science/4902612-arkheolohy-rozkopaly-ridkisnu-2300-richnu-hrobnytsui)<br>
@@ -65,9 +72,18 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 01:22 [У Греції через лісові пожежі затримали сотні людей](https://ua.korrespondent.net/world/4902407-u-hretsii-cherez-lisovi-pozhezhi-zatrymaly-sotni-luidei)<br>
 
 ## as.com
+16:47 [El Barça se hace con el hijo de Pachulia](https://as.com/baloncesto/mas_baloncesto/el-barca-se-hace-con-el-hijo-de-pachulia-f202608-n/)<br>
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+17:45 [Aguaceros y tormentas fuertes: el fin del calor intenso llega a Catalunya a partir de esta fecha](https://www.elperiodico.com/es/videos/sociedad/aguaceros-tormentas-fuertes-calor-intenso/133337490.shtml)<br>
+17:38 [Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)](https://www.elperiodico.com/es/sucesos/20260813/prision-dos-detenidos-crimen-matrimonio-zaragoza-tauste-133337315)<br>
+17:35 [La difícil respuesta al terremoto en Chocó, Colombia: "La pobreza es extrema y la infraestructura hospitalaria mínima"](https://www.elperiodico.com/es/internacional/20260813/choco-colombia-ayuda-humanitaria-terremoto-pobreza-extrema-infraestructura-hospitalaria-minimia-133337113)<br>
+17:22 [VÍDEOS | La UME realiza labores de extinción en el incendio forestal de La Niebla (Huelva)](https://www.elperiodico.com/es/videos/sociedad/videos-ume-realiza-labores-extincion/133336648.shtml)<br>
+17:12 [Create lanza un proyector portátil con rotación de 180 grados para llevar el cine a cualquier espacio](https://www.elperiodico.com/es/tecnologia/20260813/create-lanza-proyector-portatil-rotacion-133336217)<br>
+17:06 [Detenida una pirómana por provocar un incendio en Llançà que afectó a 1.200 metros cuadrados de bosque](https://www.elperiodico.com/es/sucesos/20260813/detenida-piromana-provocar-incendio-forestal-girona-mossos-133336149)<br>
+17:00 [¿Qué luna hay hoy en España? Todas las lunas (y superlunas) de este mes de agosto](https://www.elperiodico.com/es/ciencia/20260813/luna-espana-hoy-lunas-agosto-2024-calendario-lunar-dv-105850166)<br>
+16:53 [Digi eleva sus pérdidas a 14,5 millones, pero aumenta su Ebitda en un semestre marcado por su debut en bolsa](https://www.elperiodico.com/es/economia/20260813/digi-eleva-perdidas-14-5-133335979)<br>
 16:48 [La resaca emocional del eclipse aumenta el entusiasmo hacia los eventos que verá España en los próximos dos años](https://www.elperiodico.com/es/sociedad/20260813/resaca-emocional-eclipse-aumenta-entusiasmo-133333495)<br>
 16:37 [BBVA Research prevé que la inflación supere el 4% en agosto por el alza de la energía](https://www.elperiodico.com/es/economia/20260813/bbva-research-preve-inflacion-supere-4-agosto-energia-133334833)<br>
 16:35 [Rubén (44 años) vive de lo que otros tiran y reforma una casa abandonada en la montaña en Barcelona: "Vivo del despilfarro y del consumismo enfermizo que hay, solo gasto 15 euros al mes por el teléfono"](https://www.elperiodico.com/es/economia/20260813/10-anos-recoge-basura-reforma-casa-15-euros-mes-ruben-dv-et-133291329)<br>
