@@ -1,8 +1,10 @@
-# News for 2026-08-13 19:46
+# News for 2026-08-13 20:42
 
 Previous day: [2026-08-12](./data/2026-08-12.md)
 
 ## ua.korrespondent.net
+20:15 [Вогонь наблизився до курортів Греції: почалась евакуація](https://ua.korrespondent.net/world/4902705-vohon-nablyzyvsia-do-kurortiv-hretsii-pochalas-evakuatsiia)<br>
+19:59 [Instagram оновив текстовий логотип уперше за десятиліття](https://ua.korrespondent.net/business/web/4902707-Instagram-onovyv-tekstovyi-lohotyp-upershe-za-desiatylittia)<br>
 19:04 [На збереження Хотинської фортеці спрямували 3 млн](https://ua.korrespondent.net/ukraine/4902689-na-zberezhennia-khotynskoi-fortetsi-spriamuvaly-3-mln)<br>
 18:50 [На Рівненщині чоловік застрелив кота: що вирішив суд](https://ua.korrespondent.net/ukraine/4902688-na-rivnenschyni-cholovik-zastrelyv-kota-scho-vyrishyv-sud)<br>
 17:45 [Вибух у порту Роттердама: загинула людина, є поранені](https://ua.korrespondent.net/world/4902674-vybukh-u-portu-rotterdama-zahynula-luidyna-ye-poraneni)<br>
@@ -79,6 +81,9 @@ Previous day: [2026-08-12](./data/2026-08-12.md)
 10:19 [El próximo fichaje del Madrid la lía en Puerto Rico: un enfado tremendo que terminó de la peor manera](https://as.com/baloncesto/videos/el-proximo-fichaje-del-madrid-la-lia-en-puerto-rico-un-enfado-tremendo-que-termino-de-la-peor-manera-f202608-v/)<br>
 
 ## www.elperiodico.com
+20:40 [Florentino Pérez gana 23 millones con la venta de acciones de ACS recibidas en su plan de incentivos](https://www.elperiodico.com/es/economia/20260813/florentino-perez-gana-23-millones-133341873)<br>
+20:34 [El fuego engulle el monasterio viejo de San Juan de la Peña, en Huesca.](https://www.elperiodico.com/es/videos/sucesos/fuego-engulle-monasterio-viejo-san/133341733.shtml)<br>
+20:24 [Miles de personas vieron el eclipse de Sol desde el Templo de Debod](https://www.elperiodico.com/es/videos/sociedad/miles-personas-vieron-eclipse-sol-templo-debod-madrid/133341602.shtml)<br>
 19:21 [El fuego engulle el monasterio viejo de San Juan de la Peña, en Huesca, pero logran rescatar los restos de los reyes](https://www.elperiodico.com/es/sociedad/20260813/fuego-engulle-monasterio-viejo-san-juan-pena-huesca-rescatar-restos-reyes-133340320)<br>
 19:18 [Italia mantendrá controles con España hasta descartar totalmente riesgos de seguridad](https://www.elperiodico.com/es/videos/internacional/italia-mantendra-controles-espana-descartar/133340142.shtml)<br>
 19:15 [Esta es la localidad de Catalunya donde alquilar un piso sale bastante barato: a 10 euros el metro cuadrado](https://www.elperiodico.com/es/economia/20260813/localidad-catalunya-alquilar-piso-sale-mas-barato-dv-133140805)<br>
