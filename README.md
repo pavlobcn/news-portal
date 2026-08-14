@@ -1,8 +1,15 @@
-# News for 2026-08-14 10:57
+# News for 2026-08-14 13:12
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
+12:59 [Ніколь Кідман здивувала зізнанням про своє життя](https://ua.korrespondent.net/lifestyle/4902867-nikol-kidman-zdyvuvala-ziznanniam-pro-svoie-zhyttia)<br>
+12:53 [Уражено п’ять пунктів управління дронів росіян](https://ua.korrespondent.net/ukraine/4902878-urazheno-piat-punktiv-upravlinnia-droniv-rosiian)<br>
+12:39 [SpaceX скасувала обмеження Starlink для Польщі](https://ua.korrespondent.net/world/4902874-SpaceX-skasuvala-obmezhennia-Starlink-dlia-polschi)<br>
+12:33 [Відомий український гуморист розлучається з дружиною](https://ua.korrespondent.net/lifestyle/4902857-vidomyi-ukrainskyi-humoryst-rozluchaietsia-z-druzhynoui)<br>
+12:27 [Росіяни поставили на військовий облік 2700 жителів окупованої Херсонщини](https://ua.korrespondent.net/ukraine/4902872-rosiiany-postavyly-na-viiskovyi-oblik-2700-zhyteliv-okupovanoi-khersonschyny)<br>
+11:32 [Долар стабілізувався у обмінниках, євро подешевшав](https://ua.korrespondent.net/business/financial/4902856-dolar-stabilizuvavsia-u-obminnykakh-yevro-podeshevshav)<br>
+10:25 [Вчені відкрили незвичну поведінку дельфінів](https://ua.korrespondent.net/tech/science/4902821-vcheni-vidkryly-nezvychnu-povedinku-delfiniv)<br>
 10:07 [З Молдови в Україну екстрадували підозрюваного у переправленні чоловіків](https://ua.korrespondent.net/ukraine/4902824-z-moldovy-v-ukrainu-ekstraduvaly-pidozruivanoho-u-perepravlenni-cholovikiv)<br>
 09:45 [У застосунку Армія+ стався збій](https://ua.korrespondent.net/ukraine/4902819-u-zastosunku-armiia-stavsia-zbii)<br>
 03:50 [У Нідерландах в річці знайшли тіло українця](https://ua.korrespondent.net/world/4902768-u-niderlandakh-v-richtsi-znaishly-tilo-ukraintsia)<br>
@@ -11,6 +18,23 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:10 [Yihadismo en España en 2025: cien detenidos, nueve imanes expulsados y un 70% de condenas](https://www.elperiodico.com/es/politica/20260814/yihadismo-espana-2025-detenidos-imanes-expulsados-133358752)<br>
+13:04 [Catalunya activa la alerta por lluvias intensas este viernes y mañana sábado: caerán 20 litros por m2 en media hora](https://www.elperiodico.com/es/sociedad/20260814/catalunya-activa-alerta-lluvias-intensas-133357915)<br>
+13:01 [El precio del euríbor hoy, 14 de agosto: nueva alegría si tienes una hipoteca](https://www.elperiodico.com/es/economia/20260814/precio-euribor-hoy-14-agosto-dv-133355591)<br>
+12:59 [Interrumpidas la R2, la R2Nord y la R11 de Rodalies entre Granollers y Sant Andreu por el atropello de una persona](https://www.elperiodico.com/es/sociedad/20260814/interrumpida-r2-r2nord-r11-granollers-sant-andreu-atropello-persona-133357598)<br>
+12:51 [Los municipios nucleares de Catalunya celebran la prórroga de Almaraz y esperan un "efecto dominó" que alargue su cierre definitivo](https://www.elperiodico.com/es/tarragona/20260814/asco-vandellos-catalunya-centrales-nucleares-energia-almaraz-133356046)<br>
+12:38 [New Home, el "Ikea chino", prepara una nueva tienda en el enorme local que dejó Miró en Sant Antoni](https://www.elperiodico.com/es/videos/barcelona/new-home-ikea-chino-prepara-tienda-barcelona-enorme-local-antiguo-miro-sant-antoni-video/133357833.shtml)<br>
+12:36 [Barcelona activa la alerta por riesgo muy alto de incendios y refuerza los bomberos en Collserola](https://www.elperiodico.com/es/barcelona/20260814/barcelona-alerta-riesgo-muy-alto-incendios-bomberos-collserola-133357058)<br>
+12:35 [Afganistán: 5 años de pobreza, aislamiento y represión bajo el yugo talibán](https://www.elperiodico.com/es/videos/internacional/afganistan-5-anos-pobreza-aislamiento/133357658.shtml)<br>
+12:25 [Imágenes aéreas de las graves inundaciones en Japón: ocho muertos y miles de evacuados](https://www.elperiodico.com/es/videos/internacional/imagenes-aereas-graves-inundaciones-japon/133357267.shtml)<br>
+12:15 [Confirmado por el Estatuto de los Trabajadores: las personas que enfermen durante las vacaciones de verano podrán recuperar los días](https://www.elperiodico.com/es/economia/20260814/confirmado-estatuto-trabajadores-enfermen-vacaciones-verano-dv-et-133335649)<br>
+12:10 [Denuncian a un vecino de Ciudad Real que asegura haber matado a 40 gatos](https://www.elperiodico.com/es/sociedad/20260814/denuncian-vecino-ciudad-real-asegura-133356580)<br>
+12:01 [Rodalies reconoce fallos y aglomeraciones durante el eclipse solar](https://www.elperiodico.com/es/videos/sociedad/rodalies-reconoce-fallos-aglomeraciones-durante/133356158.shtml)<br>
+12:01 [Detenido en Barcelona un criminal fugitivo buscado en Islandia por tortura y asesinato](https://www.elperiodico.com/es/videos/sociedad/detenido-barcelona-criminal-fugitivo-buscado-islandia-tortura-asesinato-video/133356193.shtml)<br>
+11:30 [Un tren de pasajeros descarrila en Inglaterra: imágenes aéreas del accidente](https://www.elperiodico.com/es/videos/internacional/tren-pasajeros-descarrila-inglaterra-imagenes-aereas/133355115.shtml)<br>
+11:15 [Nuria Moliner, arquitecta: "La Barcelona del futuro debemos imaginarla más espontánea y más natural, en la que brote vegetación por todas partes, de todas las formas posibles"](https://www.elperiodico.com/es/sociedad/20260814/nuria-moliner-arquitecta-barcelona-futuro-dv-et-133173388)<br>
+11:15 [Javi, jubilado en Tailandia: "En España no se puede vivir. Aquí con 1.000 euros vive una pareja"](https://www.elperiodico.com/es/vida-y-estilo/20260814/javi-jubilado-espanol-tailandia-espana-vivir-euros-pareja-dv-et-133177558)<br>
+11:09 [Temperaturas extremas este viernes en Catalunya: último día de fuerte calor antes de un cambio drástico](https://www.elperiodico.com/es/tiempo/20260814/tiempo-cataluna-temperaturas-extremas-lluvia-dv-loc-133351250)<br>
 10:34 [Los afiliados extranjeros superan los 3,5 millones de cotizantes por primera vez en la historia](https://www.elperiodico.com/es/economia/20260814/afiliados-extranjeros-superan-3-5-133353236)<br>
 10:25 [El histórico narcotraficante Laureano Oubiña se convierte en guía turístico: así será su ruta por el Narcotráfico gallego](https://www.elperiodico.com/es/gente/20260814/historico-narcotraficante-laureano-oubina-guia-turistico-ruta-narcotrafico-gallego-dv-133333195)<br>
 10:18 [Alerta por contaminación en el Vallès y el Baix Llobregat: piden evitar el deporte al aire libre](https://www.elperiodico.com/es/barcelona/20260814/alerta-ozono-valles-baix-llobregat-133351984)<br>

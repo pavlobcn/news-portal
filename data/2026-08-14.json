@@ -1,5 +1,599 @@
 [
   {
+    "title": "La ampliación del Parlament arranca con las obras de la nueva pasarela y pendiente de la reubicación del párking",
+    "link": "https://www.elperiodico.com/es/politica/20260814/ampliacion-parlament-cataluna-parque-ciutadella-retos-pasarela-parking-128744810",
+    "pubDate": "2026-08-14 13:12:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La futura conexión entre el Zoo y la calle de Wellington afectará al espacio donde aparcan unos 200 vehículos de diputados y personal de la Cámara catalana los días de pleno </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260331/parlament-ampliacion-nuevo-edificio-parque-ciutadella-guardia-urbana-barcelona-128621528\" target=\"_blank\">Así será la ampliación del Parlament: un nuevo edificio, una pasarela y hasta las caballerizas de la Guardia Urbana</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Yihadismo en España en 2025: cien detenidos, nueve imanes expulsados y un 70% de condenas",
+    "link": "https://www.elperiodico.com/es/politica/20260814/yihadismo-espana-2025-detenidos-imanes-expulsados-133358752",
+    "pubDate": "2026-08-14 13:10:03",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20250816/terrorismo-islamico-yihadismo-detenciones-catalunya-17a-120672477\">Catalunya acumula casi el 30% de detenciones por yihadismo en España de la última década</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya activa la alerta por lluvias intensas este viernes y mañana sábado: caerán 20 litros por m2 en media hora",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/catalunya-activa-alerta-lluvias-intensas-133357915",
+    "pubDate": "2026-08-14 13:04:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El Servei Meteorològic activa un aviso por \"una situación de peligro\" que empezará este viernes en las comarcas centrales y occidentales y se extenderá por casi todo el territorio el sábado por la tarde</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El precio del euríbor hoy, 14 de agosto: nueva alegría si tienes una hipoteca",
+    "link": "https://www.elperiodico.com/es/economia/20260814/precio-euribor-hoy-14-agosto-dv-133355591",
+    "pubDate": "2026-08-14 13:01:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El euríbor hoy: este es el índice en el que se sitúa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260803/euribor-vuelve-golpear-miles-hipotecados-712-euros-mas-ano-133060503\" >El euríbor vuelve a golpear a miles de hipotecados y podrían pagar hasta 712 euros más al año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Interrumpidas la R2, la R2Nord y la R11 de Rodalies entre Granollers y Sant Andreu por el atropello de una persona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/interrumpida-r2-r2nord-r11-granollers-sant-andreu-atropello-persona-133357598",
+    "pubDate": "2026-08-14 12:59:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Renfe ha dispuesto un servicio alternativo por carretera que se detiene en todas las paradas intermedias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ніколь Кідман здивувала зізнанням про своє життя",
+    "link": "https://ua.korrespondent.net/lifestyle/4902867-nikol-kidman-zdyvuvala-ziznanniam-pro-svoie-zhyttia",
+    "pubDate": "2026-08-14 12:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528355.jpg\">Відома акторка взяла участь у відвертій фотосесії та дала інтерв'ю популярному глянцю, здивувавши фанатів низкою несподіваних зізнань.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мадяр перегляне угоду з Росатомом на $10 млрд",
+    "link": "https://ua.korrespondent.net/world/4902881-madiar-perehliane-uhodu-z-rosatomom-na-10-mlrd",
+    "pubDate": "2026-08-14 12:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528424.jpg\">Уряд Угорщини перевіряє фінансування й технічні рішення проєкту, який Віктор Орбан у 2014 році називав \"угодою століття\".",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Барселона не здається: клуб готує третю пропозицію Манчестер Сіті",
+    "link": "https://ua.korrespondent.net/sport/football/4902877-barselona-ne-zdaietsia-klub-hotuie-tretui-propozytsiui-manchester-siti",
+    "pubDate": "2026-08-14 12:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528425.jpg\">Каталонський клуб готує нову пропозицію стосовно іспанця, прагнучи зробити його головним підсиленням своєї команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "GAC Yue 7, el nuevo todoterreno chino con 544 CV que promete más de 1.500 km de autonomía",
+    "link": "https://www.elperiodico.com/es/motor/20260814/gac-yue-7-nuevo-todoterreno-133353016",
+    "pubDate": "2026-08-14 12:53:59",
+    "category": "",
+    "description": "<h2>Su nombre completo es GAC Trumpchi Yue 7, la marca del grupo chino GAC, y estará disponible a finales de este año en su país natal.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno empieza a alquilar sus primeras casas en Catalunya sin firmar un acuerdo con la Generalitat",
+    "link": "https://www.elperiodico.com/es/videos/economia/gobierno-empieza-alquilar-primeras-casas/133358391.shtml",
+    "pubDate": "2026-08-14 12:53:56",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Уражено п’ять пунктів управління дронів росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4902878-urazheno-piat-punktiv-upravlinnia-droniv-rosiian",
+    "pubDate": "2026-08-14 12:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528426.jpg\">Також уражено два наземних ретранслятори для управління ударними БпЛА типу Герань/Гербера на ТОТ Херсонщини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los municipios nucleares de Catalunya celebran la prórroga de Almaraz y esperan un \"efecto dominó\" que alargue su cierre definitivo",
+    "link": "https://www.elperiodico.com/es/tarragona/20260814/asco-vandellos-catalunya-centrales-nucleares-energia-almaraz-133356046",
+    "pubDate": "2026-08-14 12:51:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Por el momento, Ascó I y II tienen autorización hasta 2030 y 2032, respectivamente; y Vandellòs II, hasta 2035</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/economia/20260814/almaraz-gana-tres-anos-gobierno-133349690\">Almaraz gana tres años: el Gobierno autoriza su continuidad hasta 2030</a></h2><h2 class=\"item\">REPORTAJE | <a href=\"https://www.elperiodico.com/es/tarragona/20260810/municipios-centrales-nucleares-catalunya-reinventan-economia-apagon-132998762\">Los municipios de las centrales nucleares de Catalunya reinventan su economía con el apagón en el horizonte</a></h2><h2 class=\"item\">ENTREVISTA | <a href=\"https://www.elperiodico.com/es/tarragona/20260810/miquel-angel-ribes-alcalde-asco-prorroga-almaraz-precedente-nucleares-catalanas-132998896\">Miquel Àngel Ribes, alcalde de Ascó: \"Una prórroga de Almaraz sería un precedente y daría esperanzas a las centrales nucleares catalanas\"</a></h2><h2 class=\"item\">INVERSIÓN | <a href=\"https://www.elperiodico.com/es/tarragona/20260810/vandellos-tendra-2028-centro-investigacion-energias-renovables-132994599\">Vandellòs i l'Hospitalet de l'Infant tendrá en 2028 un centro de investigación de energías renovables para avanzar en la desnuclearización</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España y Marruecos refuerzan la seguridad en la frontera con Ceuta ante la posibilidad de una nueva entrada masiva",
+    "link": "https://www.elperiodico.com/es/politica/20260814/marruecos-espana-refuerzan-seguridad-frontera-ceuta-melilla-133358305",
+    "pubDate": "2026-08-14 12:50:37",
+    "category": "",
+    "description": "<h2>Tanto las autoridades marroquíes como españolas están tratando de contener los llamamientos que han circulado en las redes sociales en los últimos días, los cuales están invitando a miles de inmigrantes a repetir lo ocurrido el pasado 30 de julio</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "¿Esa mano es penalti o no? El CTA publica un manual para no perderse con las decisiones arbitrales",
+    "link": "https://www.elperiodico.com/es/deportes/20260814/manual-arbitral-liga-reglas-criterios-133358199",
+    "pubDate": "2026-08-14 12:49:41",
+    "category": "",
+    "description": "<h2>El documento CARD (criterios arbitrales, reglas y directrices) pretende arrojar luz a jugadores y aficionados sobre las decisiones más complejas para los árbitros</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno renueva la autorización para la central de Almaraz hasta junio de 2030",
+    "link": "https://www.elperiodico.com/es/videos/economia/gobierno-renueva-autorizacion-central-almaraz/133357867.shtml",
+    "pubDate": "2026-08-14 12:44:12",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Si Movistar Plus+ no funciona en tu tele, este dispositivo de 29 euros lo soluciona y está en su precio mínimo",
+    "link": "https://www.elperiodico.com/es/shopping/20260814/movistar-plus-que-hacer-si-no-funciona-television-128819592",
+    "pubDate": "2026-08-14 12:40:00",
+    "category": "",
+    "description": "<h2>En los últimos meses, algunos televisores dejarán de ser compatibles a las plataformas de streaming, pero he aquí esta solución que te permitirá seguir disfrutando del contenido sin necesidad de comprar una nueva televisión</h2><h2><a href=\"https://www.elperiodico.com/es/shopping/20260406/amazon-mejores-ofertas-productos-precio-minimo-128795545\" target=\"_blank\" rel=\"nofollow\">Amazon liquida, hoy, sus productos más solicitados con rebajas de hasta el 74 %</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "SpaceX скасувала обмеження Starlink для Польщі",
+    "link": "https://ua.korrespondent.net/world/4902874-SpaceX-skasuvala-obmezhennia-Starlink-dlia-polschi",
+    "pubDate": "2026-08-14 12:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528411.jpg\">Напередодні Варшава заявляла про можливий перегляд фінансування Starlink для України на $50 млн у разі збереження обмежень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "New Home, el \"Ikea chino\", prepara una nueva tienda en el enorme local que dejó Miró en Sant Antoni",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/new-home-ikea-chino-prepara-tienda-barcelona-enorme-local-antiguo-miro-sant-antoni-video/133357833.shtml",
+    "pubDate": "2026-08-14 12:38:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona activa la alerta por riesgo muy alto de incendios y refuerza los bomberos en Collserola",
+    "link": "https://www.elperiodico.com/es/barcelona/20260814/barcelona-alerta-riesgo-muy-alto-incendios-bomberos-collserola-133357058",
+    "pubDate": "2026-08-14 12:36:23",
+    "category": "",
+    "description": "<h2>Los siete parques de bomberos de la ciudad se preparan ante la elevada posibilidad de que se declare un fuego en zonas forestales.</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260814/fiestas-gracia-2026-calor-tormentas-barcelona-133354736\" target=\"_blank\">El tiempo en las Fiestas de Gràcia 2026: calor intenso y tormentas a la vista</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260814/alerta-ozono-valles-baix-llobregat-133351984\" target=\"_blank\">Alerta por contaminación en el Vallès y el Baix Llobregat: piden evitar el deporte al aire libre</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Afganistán: 5 años de pobreza, aislamiento y represión bajo el yugo talibán",
+    "link": "https://www.elperiodico.com/es/videos/internacional/afganistan-5-anos-pobreza-aislamiento/133357658.shtml",
+    "pubDate": "2026-08-14 12:35:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кремль прибрав з виборів єдину партію, яка виступала за мир з Україною",
+    "link": "https://ua.korrespondent.net/articles/4902846-kreml-prybrav-z-vyboriv-yedynu-partiui-yaka-vystupala-za-myr-z-ukrainoui",
+    "pubDate": "2026-08-14 12:33:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528314.png\">“Яблуко” без виборів: як зачистка антивоєнної опозиції може позначитися на війні Росії проти України.",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Відомий український гуморист розлучається з дружиною",
+    "link": "https://ua.korrespondent.net/lifestyle/4902857-vidomyi-ukrainskyi-humoryst-rozluchaietsia-z-druzhynoui",
+    "pubDate": "2026-08-14 12:33:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528316.jpg\">Популярний український комік, шоумен та зірка проєкту Ліга сміху Віктор Гевко повідомив про розлучення",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las sillas de playa que todos quieren: cómodas y se llevan como una mochila",
+    "link": "https://www.elperiodico.com/es/shopping/20260814/sillas-playa-comodas-faciles-llevar-133129599",
+    "pubDate": "2026-08-14 12:29:49",
+    "category": "",
+    "description": "<h2>Estas sillas de playa arrasan en ventas porque son las más sencillas de transportar, además de ultracómodas cuando te sientas</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Росіяни поставили на військовий облік 2700 жителів окупованої Херсонщини",
+    "link": "https://ua.korrespondent.net/ukraine/4902872-rosiiany-postavyly-na-viiskovyi-oblik-2700-zhyteliv-okupovanoi-khersonschyny",
+    "pubDate": "2026-08-14 12:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528410.jpg\">Серед підозрюваних - так званий \"губернатор\" області, керівники окупаційних військкоматів та посадовець, відповідальний за мобілізаційну роботу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Phoebe Bridgers saca oro del pulso con sus demonios en ‘Lost weekend’",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260814/phoebe-bridgers-saca-oro-pulso-critica-disco-lost-weekend-133339857",
+    "pubDate": "2026-08-14 12:26:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La cantautora californiana despliega su literatura del yo, salpicada por episodios amargos como la muerte de su padre y el fracaso de una relación, en un brillante tercer álbum, con sonidos acústicos, cuerdas y electrónica, que la consolida como voz preferente de su generación</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Imágenes aéreas de las graves inundaciones en Japón: ocho muertos y miles de evacuados",
+    "link": "https://www.elperiodico.com/es/videos/internacional/imagenes-aereas-graves-inundaciones-japon/133357267.shtml",
+    "pubDate": "2026-08-14 12:25:26",
+    "category": "",
+    "description": "Las fuertes precipitaciones han causado inundaciones repentinas, atrapando a varias víctimas en sus vehículos y provocando daños en cientos de edificios en la prefectura Chiba",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Киянин стрибнув у бочку зі смолою, щоб пограбувати магазин",
+    "link": "https://ua.korrespondent.net/city/kiev/4902870-kyianyn-strybnuv-u-bochku-zi-smoloui-schob-pohrabuvaty-mahazyn",
+    "pubDate": "2026-08-14 12:24:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528397.jpg\">Щоб відмити чоловіка від смоли знадобилося понад п’ять годин часу, щітки для взуття, 12 літрів олії та 4 літри миючого засобу.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Amazon derrumba sus precios HOY: las mejores ofertas del día con descuentos de hasta el 70 %",
+    "link": "https://www.elperiodico.com/es/shopping/20260814/amazon-ofertas-baja-precios-rebajas-bc-133295934",
+    "pubDate": "2026-08-14 12:22:00",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">En las siguientes líneas, encontrarás algunas de las mejores ofertas del día en Amazon, las mismas que dejan a su precio mínimo aquellos productos que, desde hace tiempo, pueden ser tuyos a precio de ganga</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La asociación mayoritaria de fiscales reclama a Peramato mantener los refuerzos en Ceuta frente a la \"previsible prolongación\" de la crisis",
+    "link": "https://www.elperiodico.com/es/politica/20260814/asociacion-mayoritaria-fiscales-reclama-refuerzos-ceuta-133356907",
+    "pubDate": "2026-08-14 12:19:05",
+    "category": "",
+    "description": "<h2>La Fiscalía General autorizó el nombramiento de tres fiscales sustitutos y personal de refuerzo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Confirmado por el Estatuto de los Trabajadores: las personas que enfermen durante las vacaciones de verano podrán recuperar los días",
+    "link": "https://www.elperiodico.com/es/economia/20260814/confirmado-estatuto-trabajadores-enfermen-vacaciones-verano-dv-et-133335649",
+    "pubDate": "2026-08-14 12:15:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La ley establece este derecho básico y contempla la interrupción automática del periodo vacacional ante una incapacidad temporal, permitiendo su disfrute posterior</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20250807/pierdo-vacaciones-baja-medica-debes-saber-dv-120436045\">¿Pierdo las vacaciones si estoy de baja médica? Todo lo que debes saber</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Клуб УПЛ показав оновлену форму на новий сезон",
+    "link": "https://ua.korrespondent.net/sport/football/4902865-klub-upl-pokazav-onovlenu-formu-na-novyi-sezon",
+    "pubDate": "2026-08-14 12:14:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528383.jpg\">ЛНЗ показав одразу два комплекти форми - домашній та гостьовий, зберігши свої традиційні клубні кольори.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Denuncian a un vecino de Ciudad Real que asegura haber matado a 40 gatos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/denuncian-vecino-ciudad-real-asegura-133356580",
+    "pubDate": "2026-08-14 12:10:11",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mario Cubo de María, camionero y profesor: \"El mejor país para conducir de los que he estado es España. No tenemos tan mal país, de verdad\"",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260814/espana-mejor-pais-conduccion-camionero-profesor-mario-cubo-maria-dv-et-133153840",
+    "pubDate": "2026-08-14 12:10:00",
+    "category": "",
+    "description": "<h2>El experto también da la clave que salva vidas en la carretera: \"Si no tienes paciencia, no conduzcas\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260620/ramon-ventureira-conductor-madrid-79anos-131529323\">Ramón Ventureira, jubilado de 79 años, conduce a diario por Madrid: \"Dejaré de conducir cuando no pueda llevar a mis nietas al colegio con seguridad\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260620/conductores-mayores-espana-aumentan-menos-accidentes-cifra-record-dos-millones-131529045\">Los conductores mayores de 74 años alcanzan la cifra récord de 1,9 millones y tienen la tasa de siniestralidad más baja</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Conciertos flotantes en Barcelona sobre tablas de paddle surf",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260814/conciertos-flotantes-barcelona-tablas-paddle-surf-barceloneta-sea-you-133353900",
+    "pubDate": "2026-08-14 12:08:08",
+    "category": "",
+    "description": "<h2>Esto “no va solo de hacer un concierto”, prometen. “Es algo muy inusual, une a la gente”. Acústicos en tablas de paddle surf. Son únicos en España. Música en directo en el mar con el hotel Vela de fondo. El club Sea You acaba de estrenar temporada en la Barceloneta</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260814/brisa-gava-open-air-macro-tardeos-133333954\" target=\"_blank\">Este viernes reabre en Gavà el esperado Brisa con más macro tardeos</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El tiempo en las Fiestas de Gràcia 2026: calor intenso y tormentas a la vista",
+    "link": "https://www.elperiodico.com/es/barcelona/20260814/fiestas-gracia-2026-calor-tormentas-barcelona-133354736",
+    "pubDate": "2026-08-14 12:04:05",
+    "category": "",
+    "description": "<h2>Barcelona vivirá los primeros días con altas temperaturas, pero los pronósticos apuntan a un giro de la situación a partir del 20 de agosto</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260813/metro-barcelona-67-horas-festes-gracia-2026-133292488\" >Cambios en el transporte público por las Fiestas de Gràcia: horario del metro y autobús</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260813/fiestas-gracia-2026-cortes-calles-transporte-133336038\" >Afectaciones al tráfico y a la movilidad por las fiestas de Gràcia 2026: cortes de calles y fechas</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El PP ve insuficiente la prórroga de Almaraz y pide que se cancele el cierre de las centrales",
+    "link": "https://www.elperiodico.com/es/politica/20260814/pp-almaraz-prorroga-insuficiente-nucleares-133356374",
+    "pubDate": "2026-08-14 12:03:20",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260814/almaraz-central-nuclear-prorroga-gobierno-choque-psoe-sumar-socios-133355994\">Sumar rechaza la prórroga de Almaraz y acusa al PSOE de incumplir el acuerdo de Gobierno</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260814/almaraz-gana-tres-anos-gobierno-133349690\">Almaraz gana tres años: el Gobierno autoriza su continuidad hasta 2030</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Знищені російські танки виставлять у музеях Європи",
+    "link": "https://ua.korrespondent.net/world/4902864-znyscheni-rosiiski-tanky-vystavliat-u-muzeiakh-yevropy",
+    "pubDate": "2026-08-14 12:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528369.jpg\">Зокрема, музеї Литви, Латвії, Естонії, Данії та Нідерландів отримають підбиті трофейні танки Т-72.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Rodalies reconoce fallos y aglomeraciones durante el eclipse solar",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/rodalies-reconoce-fallos-aglomeraciones-durante/133356158.shtml",
+    "pubDate": "2026-08-14 12:01:34",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido en Barcelona un criminal fugitivo buscado en Islandia por tortura y asesinato",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/detenido-barcelona-criminal-fugitivo-buscado-islandia-tortura-asesinato-video/133356193.shtml",
+    "pubDate": "2026-08-14 12:01:32",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El experto en economía Gabriel García da tres trucos para ahorrar en el supermercado: “Nada de improvisar”",
+    "link": "https://www.elperiodico.com/es/economia/ahorro/20260814/compra-supermercados-ahorro-consejos-dv-126934022",
+    "pubDate": "2026-08-14 12:00:00",
+    "category": "",
+    "description": "<h2>El experto da las claves para gastar menos en las tiendas: ni improvisar ni mirar al centro</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260217/precio-huevo-desploma-89-eeuu-mayorista-usda-supermercado-retraso-granja-lineal-126940979\">El precio del huevo se desploma un 89% en EEUU, pero no en el supermercado: así funciona el ‘retraso’ entre granja y lineal</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sumar rechaza la prórroga de Almaraz y acusa al PSOE de incumplir el acuerdo de Gobierno",
+    "link": "https://www.elperiodico.com/es/politica/20260814/almaraz-central-nuclear-prorroga-gobierno-choque-psoe-sumar-socios-133355994",
+    "pubDate": "2026-08-14 11:55:33",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20260814/almaraz-gana-tres-anos-gobierno-133349690\">Almaraz gana tres años: el Gobierno autoriza su continuidad hasta 2030</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві викрили масштабну оборудку з нерухомістю",
+    "link": "https://ua.korrespondent.net/city/kiev/4902862-u-kyievi-vykryly-masshtabnu-oborudku-z-nerukhomistui",
+    "pubDate": "2026-08-14 11:55:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528366.jpg\">Організатором схеми є колишній депутат Дніпровської міської ради, який набув у власність корпоративні права однієї з компаній, що володіла кількома недобудовами в центрі столиці.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rusia forja una alianza política y militar con los talibanes que inquieta a la comunidad internacional",
+    "link": "https://www.elperiodico.com/es/internacional/20260814/rusia-talibanes-afganistan-alianza-politica-militar-inquieta-comunidad-internacional-133355938",
+    "pubDate": "2026-08-14 11:52:57",
+    "category": "",
+    "description": "<h2>La caótica retirada estadounidense del país asiático ofreció una imagen de debilidad de EEUU y Occidente en general que, según analistas, empoderó a Putin para invadir el país vecino escasos meses después</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260814/declive-influencia-estados-unidos-oriente-medio-afganistan-retirada-aniversario-133347745\" target=\"_blank\">Afganistán y el declive del poder de EEUU en Oriente Medio</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна експортує лише 30% необхідного обсягу зерна",
+    "link": "https://ua.korrespondent.net/business/economics/4902860-ukraina-eksportuie-lyshe-30-neobkhidnoho-obsiahu-zerna",
+    "pubDate": "2026-08-14 11:49:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528356.jpg\">Зупинка морського маршруту вже вплинула на експортні можливості України, водночас альтернативні шляхи не можуть повністю компенсувати втрати.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "México: ¿transformación democrática o deriva autocrática?",
+    "link": "https://www.elperiodico.com/es/internacional/latinoamerica21/20260814/mexico-democratica-o-deriva-autoritaria-sheinbaum-obrador-democracia-judicial-desafios-diplomacia-elecciones-primavera-transicion-cuarta-transformacion-133355210",
+    "pubDate": "2026-08-14 11:48:59",
+    "category": "",
+    "description": "<h2>Ocho años después de la llegada de AMLO al poder, México hace balance de la Cuarta Transformación: avances sociales y una sólida mayoría política conviven con el debilitamiento de los contrapesos democráticos y la persistencia de la violencia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nigel Farage, reelegido como parlamentario por la circunscripción costera de Clacton-on-Sea",
+    "link": "https://www.elperiodico.com/es/videos/internacional/nigel-farage-reelegido-parlamentario-circunscripcion/133355458.shtml",
+    "pubDate": "2026-08-14 11:40:42",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sorteo del Cupón Extra de Verano de la ONCE este 15 de agosto: horario, premios y dónde ver",
+    "link": "https://www.elperiodico.com/es/loterias-y-sorteos/20260814/sorteo-cupon-verano-extra-once-agosto-horario-premio-dv-133352240",
+    "pubDate": "2026-08-14 11:38:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta rifa es una tradición en el calendario de verano de la organización desde el año 2000</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/loterias-y-sorteos/20260731/loteria-mujer-gana-once-lista-autoprohibicion-juego-culpa-marido-dv-et-132982999\" >Gana 35.000 euros en la ONCE y no puede cobrarlos: una decisión de su marido tiene la culpa</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/loteria-navidad/20260725/decimo-fecha-victoria-espana-mundial-2026-loteria-navidad-19726-donde-comprar-dv-132655271\" >Furor por la Lotería de Navidad tras la victoria de España en el Mundial: el número más buscado y dónde comprarlo</a></h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "EEUU amenaza con mantener su bloqueo a Irán \"de forma indefinida\" y promete más presión económica",
+    "link": "https://www.elperiodico.com/es/internacional/20260814/eeuu-amenaza-mantener-bloqueo-iran-forma-indefinida-promete-presion-economica-133355327",
+    "pubDate": "2026-08-14 11:36:27",
+    "category": "",
+    "description": "<h2>Las conversaciones entre Washington y Teherán están estancadas por completo, mientras el lunes 17 de agosto caduca el plazo establecido en el preacuerdo de junio para llegar a un acuerdo de paz en la región</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Христина Соловій розкрила нові подробиці особистого життя",
+    "link": "https://ua.korrespondent.net/lifestyle/4902843-khrystyna-solovii-rozkryla-novi-podrobytsi-osobystoho-zhyttia",
+    "pubDate": "2026-08-14 11:35:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528277.jpg\">Співачка Христина Соловій вперше розповла про роман із таємним бойфрендом і зізналася, скільки вони разом.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Долар стабілізувався у обмінниках, євро подешевшав",
+    "link": "https://ua.korrespondent.net/business/financial/4902856-dolar-stabilizuvavsia-u-obminnykakh-yevro-podeshevshav",
+    "pubDate": "2026-08-14 11:32:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528341.jpg\">Середній курс продажу долара перебуває на рівні 44,90 гривні, а курс продажу євро знизився до 51,85 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un tren de pasajeros descarrila en Inglaterra: imágenes aéreas del accidente",
+    "link": "https://www.elperiodico.com/es/videos/internacional/tren-pasajeros-descarrila-inglaterra-imagenes-aereas/133355115.shtml",
+    "pubDate": "2026-08-14 11:30:32",
+    "category": "",
+    "description": "Como consecuencia del accidente, varias de las líneas de esa compañía han quedado cortadas, y las demás sufren serios retrasos",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роботу Армія+ повністю відновили",
+    "link": "https://ua.korrespondent.net/ukraine/4902854-robotu-armiia-povnistui-vidnovyly",
+    "pubDate": "2026-08-14 11:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528327.png\">Користувачі застосунку Армія+ знову можуть проходити авторизацію у штатному режимі.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "250 días sin pisar tierra: desabastecimiento y alerta por salud mental en el portaaviones USS Abraham Lincoln",
+    "link": "https://www.elperiodico.com/es/videos/internacional/portaaviones-uss-abraham-lincoln-250-dias-sin-pisar-tierra-desabastecimiento-video/133354450.shtml",
+    "pubDate": "2026-08-14 11:16:11",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Nuria Moliner, arquitecta: \"La Barcelona del futuro debemos imaginarla más espontánea y más natural, en la que brote vegetación por todas partes, de todas las formas posibles\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/nuria-moliner-arquitecta-barcelona-futuro-dv-et-133173388",
+    "pubDate": "2026-08-14 11:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La arquitecta y divulgadora habla acerca de sus expectativas para la Barcelona de dentro de unos años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260706/mar-coll-investigadora-crisis-climatica-calor-extremo-vida-cotiana-infancia-crianza-familias-132038943\">Mar Coll, investigadora: \"El calor extremo ya condiciona la crianza y está alterando la vida cotidiana de los niños\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Javi, jubilado en Tailandia: \"En España no se puede vivir. Aquí con 1.000 euros vive una pareja\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260814/javi-jubilado-espanol-tailandia-espana-vivir-euros-pareja-dv-et-133177558",
+    "pubDate": "2026-08-14 11:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Debido al elevado coste de vida, muchos pensionistas buscan destinos más asequibles en el extranjero</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260127/luis-jubilado-dejo-cataluna-abandono-espana-vivir-tailandia-dv-126005104\">Luis, el jubilado de 68 años, que dejó Catalunya y se afincó en Tailandia: “Aquí nadie vive con prisas”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat alquila un edificio de 6.000 metros cuadrados en Barcelona para ampliar la hacienda catalana",
+    "link": "https://www.elperiodico.com/es/politica/20260814/hacienda-catalana-generalitat-catalunya-alquiler-nuevo-edificio-133352715",
+    "pubDate": "2026-08-14 11:14:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El inmueble está en el distrito 22@ del Poblenou y también albergará unidades de otros departamentos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260704/atc-agencia-tributaria-cataluna-hacienda-recaudacion-irpf-trabajadores-132019543\" target=\"_blank\">La hacienda catalana llegará a los 1.000 trabajadores con Illa, pero necesita el doble para gestionar el IRPF</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260704/cataluna-irpf-recaudacion-cambios-legales-congreso-parlament-hacienda-gobierno-132041005\" target=\"_blank\">La vía para que Catalunya recaude el IRPF: tres leyes en el Congreso, dos en el Parlament y un convenio con Hacienda</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "На Житомирщині горіли об’єкти інфраструктури після атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4902850-na-zhytomyrschyni-horily-obiekty-infrastruktury-pislia-ataky-rf",
+    "pubDate": "2026-08-14 11:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528325.jpg\">Унаслідок російських ударів виникли загоряння на об’єкті критичної інфраструктури та приватному підприємстві.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un caza de la OTAN derriba un dron sobre Letonia que obliga a mandar alertas a los móviles en el país báltico",
+    "link": "https://www.elperiodico.com/es/internacional/20260814/caza-otan-derriba-dron-letonia-rusia-guerra-ucrania-133354323",
+    "pubDate": "2026-08-14 11:10:32",
+    "category": "",
+    "description": "<h2>Otro Eurofighter del país transalpino y dos aviones de combate F-16 de Turquía también han participado en la operación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Temperaturas extremas este viernes en Catalunya: último día de fuerte calor antes de un cambio drástico",
+    "link": "https://www.elperiodico.com/es/tiempo/20260814/tiempo-cataluna-temperaturas-extremas-lluvia-dv-loc-133351250",
+    "pubDate": "2026-08-14 11:09:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Durante esta última jornada de calor se esperan valores superiores a los 41ºC</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260813/tiempo-cataluna-tormentas-calor-meteocat-dv-loc-133320710\" >Aguaceros y tormentas fuertes: el final del calor sofocante en Catalunya ya tiene fecha</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260804/tiempo-barcelona-cataluna-agosto-calor-meteocat-dv-loc-133078591\" >¿Qué tiempo hará este mes de agosto en Barcelona y resto de Catalunya? Esto es lo que avanza Meteocat sobre el calor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ексгравець Шахтаря змінить Фенербахче на бразильський клуб",
+    "link": "https://ua.korrespondent.net/sport/football/4902844-ekshravets-shakhtaria-zminyt-fenerbakhche-na-brazylskyi-klub",
+    "pubDate": "2026-08-14 11:08:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528315.jpg\">Півзахисник уже погоджує деталі трансферу до одного з бразильських грандів, де продовжить свою професійну кар'єру.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Govern asume el \"colapso\" de Rodalies para ir a ver el eclipse y cree que su comunicación con los usuarios fue \"inadecuada\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/govern-asume-colapso-rodalies-ver-eclipse-plazas-suficientes-vuelta-133351920",
+    "pubDate": "2026-08-14 11:06:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El secretario de Mobilitat i Transports, Manel Nadal, reconoce que el sistema \"no funcionó como tenía que funcionar\", pero defiende haber habilitado suficientes plazas para el regreso a Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260813/eclipse-duplica-ocupacion-r16-dispara-133319165\">Renfe justifica el colapso de Tarragona tras el eclipse por la falta de trenes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260812/rodalies-regionals-llenos-franja-totalidad-eclipse-cataluna-133295537\">Colapso en los Rodalies y Regionals de Sants en plena cuenta atrás para el eclipse: \"Nos tendremos que quedar en Montjuïc\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Росія атакувала 12 областей - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4902845-rosiia-atakuvala-12-oblastei-zelenskyi",
+    "pubDate": "2026-08-14 11:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528300.jpg\">Російські ракети, бомби і дрони можна зупиняти не в українському небі, а на етапі виробництва, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дженна Ортега здивувала змінами у зовнішності",
+    "link": "https://ua.korrespondent.net/lifestyle/4902829-dzhenna-orteha-zdyvuvala-zminamy-u-zovnishnosti",
+    "pubDate": "2026-08-14 10:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528261.jpg\">Голлівудська акторка Дженна Ортега, відома за головними ролями в хітах Венсдей та Крик, опинилася в епіцентрі бурхливих обговорень.",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ГУР показало тіньовий флот Росії: у схемах 26 суден",
+    "link": "https://ua.korrespondent.net/ukraine/4902841-hur-pokazalo-tinovyi-flot-rosii-u-skhemakh-26-suden",
+    "pubDate": "2026-08-14 10:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528297.jpg\">ГУР оприлюднило дані про 26 суден, задіяних у перевезенні російської нафти, газу та зерна з окупованих територій України. Більшість із них досі не під санкціями.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Unos 5.000 migrantes siguen en Ceuta tras la entrada masiva",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/5000-migrantes-siguen-ceuta-tras-entrada-masiva-video/133353850.shtml",
+    "pubDate": "2026-08-14 10:58:31",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Секрет раннього врожаю: коли саджати часник і цибулю під зиму",
+    "link": "https://ua.korrespondent.net/articles/4902836-sekret-rannoho-vrozhaui-koly-sadzhaty-chasnyk-i-tsybului-pid-zymu",
+    "pubDate": "2026-08-14 10:50:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528296.jpg\">Осіння посадка часнику й цибулі дає змогу використати зимову вологу й отримати ранню продукцію навесні. Головне не поспішити з висадкою, правильно підібрати посадковий матеріал і врахувати особливості свого регіону.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Shelton revalida su título en Canadá",
     "link": "https://www.elperiodico.com/es/deportes/20260814/shelton-revalida-titulo-canada-133353622",
     "pubDate": "2026-08-14 10:49:23",
@@ -7,6 +601,15 @@
     "description": "<h2>El estadounidense derrotó a su compatriota Brandon Nakashima para revalidar su título</h2>",
     "topic": "спорт",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Українська легкоатлетка зворушила фото з донечкою",
+    "link": "https://ua.korrespondent.net/sport/4902837-ukrainska-lehkoatletka-zvorushyla-foto-z-donechkoui",
+    "pubDate": "2026-08-14 10:47:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528281.jpg\">Зіркова легкоатлетка зворушила мережу ніжними кадрами з донечкою, якій виповнилося вже шість місяців.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "El \"Ikea chino\" prepara una nueva tienda en el enorme local que dejó Miró en Sant Antoni",
@@ -63,6 +666,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Catalunya confina en sus domicilios por hantavirus a tres contactos del caso positivo aislado en Galicia",
+    "link": "https://www.elperiodico.com/es/sanidad/20260814/catalunya-confina-domicilio-hantavirus-tres-contactos-hantavirus-133352949",
+    "pubDate": "2026-08-14 10:35:15",
+    "category": "",
+    "description": "<h2 class=\"item\">En el resto de España se está haciendo seguimiento de cuatro contactos más en Galicia, Madrid y Castilla y León; todos son asintomáticos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260807/hantavirus-que-es-sintomas-como-se-contagia-115084566\" >Hantavirus: qué es, síntomas y cómo se puede contagiar entre personas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260507/contagia-hantavirus-grafico-explica-transmite-129966495\" >¿Cómo se contagia el hantavirus? Este gráfico explica cómo se transmite el virus</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Los afiliados extranjeros superan los 3,5 millones de cotizantes por primera vez en la historia",
     "link": "https://www.elperiodico.com/es/economia/20260814/afiliados-extranjeros-superan-3-5-133353236",
     "pubDate": "2026-08-14 10:34:30",
@@ -90,6 +702,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Болонья підписала гравця, який конкуруватиме з Довбиком",
+    "link": "https://ua.korrespondent.net/sport/football/4902828-bolonia-pidpysala-hravtsia-yakyi-konkuruvatyme-z-dovbykom",
+    "pubDate": "2026-08-14 10:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528276.jpg\">Цей трансфер додасть інтриги й бомбардирським перегонам у Серії А, де Пікколі стане одним із конкурентів Артема Довбика.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El histórico narcotraficante Laureano Oubiña se convierte en guía turístico: así será su ruta por el Narcotráfico gallego",
     "link": "https://www.elperiodico.com/es/gente/20260814/historico-narcotraficante-laureano-oubina-guia-turistico-ruta-narcotrafico-gallego-dv-133333195",
     "pubDate": "2026-08-14 10:25:25",
@@ -106,6 +727,15 @@
     "description": "<h2>El software del Taycan simula una caja PDK de ocho velocidades con saltos de aceleración y un cuentarrevoluciones virtual </h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Вчені відкрили незвичну поведінку дельфінів",
+    "link": "https://ua.korrespondent.net/tech/science/4902821-vcheni-vidkryly-nezvychnu-povedinku-delfiniv",
+    "pubDate": "2026-08-14 10:25:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528258.jpg\">Біологи підтвердили використання раковин індо-тихоокеанськими афалінами для вилову риби поблизу Квінсленду.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Alerta por contaminación en el Vallès y el Baix Llobregat: piden evitar el deporte al aire libre",
