@@ -1,8 +1,14 @@
-# News for 2026-08-14 17:30
+# News for 2026-08-14 18:30
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
+18:23 [У Лубнах чоловік відкрив стрілянину по поліцейських, є поранений](https://ua.korrespondent.net/ukraine/4902988-u-lubnakh-cholovik-vidkryv-strilianynu-po-politseiskykh-ye-poranenyi)<br>
+18:09 [Курс гривні завершив тиждень зниженням](https://ua.korrespondent.net/business/financial/4902984-kurs-hryvni-zavershyv-tyzhden-znyzhenniam)<br>
+18:07 [Баскетбольна команда Реала підписала українця Шульгу](https://ua.korrespondent.net/sport/basketball/4902982-basketbolna-komanda-reala-pidpysala-ukraintsia-shulhu)<br>
+17:34 [Двоє чоловіків підпалили відділення Нової пошти на Харківщині](https://ua.korrespondent.net/ukraine/4902974-dvoie-cholovikiv-pidpalyly-viddilennia-novoi-poshty-na-kharkivschyni)<br>
+16:56 [У чотирьох країнах Центральної Азії стався блекаут](https://ua.korrespondent.net/world/4902963-u-chotyrokh-krainakh-tsentralnoi-azii-stavsia-blekaut)<br>
+16:35 [Кідман зробила чесне зізнання про шлюб із Томом Крузом](https://ua.korrespondent.net/lifestyle/4902947-kidman-zrobyla-chesne-ziznannia-pro-shluib-iz-tomom-kruzom)<br>
 16:04 [Загибель трьох тонн риби на Київщині: фахівці з'ясували стан води](https://ua.korrespondent.net/ukraine/4902949-zahybel-trokh-tonn-ryby-na-kyivschyni-fakhivtsi-ziasuvaly-stan-vody)<br>
 15:32 [Російські погрози "заморозкою". Реакція українців](https://ua.korrespondent.net/ukraine/4902938-rosiiski-pohrozy-zamorozkoui-reaktsiia-ukraintsiv)<br>
 15:28 [У Києві екснардеп віддав шахраям понад $30 тисяч](https://ua.korrespondent.net/city/kiev/4902940-u-kyievi-eksnardep-viddav-shakhraiam-ponad-30-tysiach)<br>
@@ -44,11 +50,21 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:21 [Un helicóptero carga agua para combatir el incendio de Collserola](https://www.elperiodico.com/es/videos/sucesos/helicoptero-carga-agua-combatir-incendio/133369955.shtml)<br>
+18:19 [Pontegadea, del fundador de Inditex, desembarca en Australia: "Esta transacción representa un paso más en nuestra estrategia global de diversificación de inversiones"](https://www.elperiodico.com/es/economia/20260814/amancio-ortega-pontegadea-desembarca-australia-133369947)<br>
+18:05 [La espectacular escapada cerca de Lleida que combina historia, naturaleza y un conocido dulce](https://www.elperiodico.com/es/catalunya/20260814/pueblo-ideal-escapada-lleida-sant-llorenc-de-montgai-cerca-dv-loc-107283963)<br>
+18:02 [Récord de calor nocturno en Barcelona: se registran 45 noches tórridas, que por primera vez superan a las tropicales](https://www.elperiodico.com/es/sociedad/20260814/record-calor-noche-nocturno-barcelona-noches-torridas-mas-tropicales-133352340)<br>
+18:00 [David Robert Mitchell, el director de  los terrores y fantasías suburbiales, vuelve a los cines](https://www.elperiodico.com/es/ocio-y-cultura/20260814/david-robert-mitchell-director-terrores-133361126)<br>
+18:00 [La generación sísí crece en España: uno de cada tres jóvenes ocupados también estudia](https://www.elperiodico.com/es/sociedad/20260814/aumentan-espana-jovenes-trabajan-estudia-generacion-sisi-133354965)<br>
+17:55 [Julia, 10 años, corona el Mont Blanc junto a su padre y ya prepara su próximo reto: los 5.000 metros](https://www.elperiodico.com/es/videos/deportes/julia-10-anos-corona-mont/133368898.shtml)<br>
+17:46 [Rescate de una tortuga atrapada en una bolsa de plástico](https://www.elperiodico.com/es/videos/sociedad/rescate-tortuga-atrapada-bolsa-plastico/133368720.shtml)<br>
+17:32 [La ONG Sea-Watch rescata a seis migrantes que habían sido arrojados al mar Mediterráneo](https://www.elperiodico.com/es/videos/internacional/ong-sea-watch-rescata-seis/133368281.shtml)<br>
 17:20 [Medios aéreos trabajan en el incendio de Collserola](https://www.elperiodico.com/es/videos/sucesos/medios-aereos-incendio-collserola/133367868.shtml)<br>
 17:14 [Segundo accidente de tren en Reino Unido en las últimas 24 horas](https://www.elperiodico.com/es/internacional/20260814/segundo-accidente-tren-reino-unido-en-24-horas-133367733)<br>
 17:10 [El rincón de Sant Boi de Llobregat que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-boi/20260814/rincon-sant-boi-llobregat-historia-cine-dv-loc-110185207)<br>
 17:10 [La sorprendente carta de una niña hace 60 años en la que predice avances tecnológicos](https://www.elperiodico.com/es/educacion/20260814/avances-tecnologicos-carta-nina-60-anos-dv-et-132551752)<br>
 17:05 [La boda de dos científicos en Burgos durante el eclipse que ninguno de los 160 invitados olvidará: "Ayer me tiré todo el día llorando"](https://www.elperiodico.com/es/sociedad/20260814/boda-cientificos-burgos-durante-eclipse-133364530)<br>
+17:05 [Incendio forestal en el Parque Natural de Collserola](https://www.elperiodico.com/es/fotos/en-imagenes/incendio-forestal-parque-natural-collserola-133367384)<br>
 17:01 [Una borrega más](https://www.elperiodico.com/es/opinion/20260814/borrega-133366996)<br>
 17:00 [Fred Cavayé y Jesse Eisenberg competirán por la Concha de Oro en San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260814/cine-fred-cavaye-y-jesse-eisenberg-competiran-por-la-concha-de-oro-en-san-sebastian-133367097)<br>
 17:00 ["Mi hijo de 13 años quiere ir a la playa con sus amigos: ¿debo dejarle? ¿A partir de qué edad puede ir solo a nadar?"](https://www.elperiodico.com/es/sociedad/20260814/hijo-nadar-solo-amigos-expertos-playa-piscina-responden-132106410)<br>
