@@ -1,4 +1,4 @@
-# News for 2026-08-14 08:43
+# News for 2026-08-14 09:50
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
@@ -9,6 +9,15 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+09:46 [Viajeros a Colombia, las vacaciones de la incertidumbre](https://www.elperiodico.com/es/sociedad/20260814/viajeros-colombia-vacaciones-incertidumbre-133352053)<br>
+09:40 [El planeta se acerca a 1,7 ºC de calentamiento: 2027 podría romper todos los récords de temperatur](https://www.elperiodico.com/es/tendencias21/20260814/planeta-acerca-1-7-oc-133351749)<br>
+09:39 [Precio del petróleo hoy, 14 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260814/precio-petroleo-hoy-14-agosto-dv-133351548)<br>
+09:30 [Alba Aldehuela (25 años), propietaria de un piso, explica por qué evita alquilar a jubilados: "No me gusta porque quiero que sea un buen entorno"](https://www.elperiodico.com/es/economia/20260814/alba-propietaria-piso-evitar-alquilar-jubilados-dv-et-133179030)<br>
+09:15 [Patricia Alonso y Guillermo Goizueta, pareja y ambos entre los cinco mejores opositores para inspector de Hacienda: "La clave es la constancia... y descansar"](https://www.elperiodico.com/es/economia/20260814/patricia-alonso-guillermo-goizueta-pareja-133333048)<br>
+09:13 [El espectáculo natural de la erupción del Etna atrae a los visitantes](https://www.elperiodico.com/es/fotos/internacional/espectaculo-natural-erupcion-etna-atrae-visitantes-fotos-133351067)<br>
+09:01 [Los excursionistas, impresionados mientras el Etna expulsa lava](https://www.elperiodico.com/es/videos/sociedad/excursionistas-impresionados-etna-expulsa-lava-video/133350811.shtml)<br>
+08:51 [El Ibex 35 frena los máximos semanales pese al alivio por el IPC de EEUU](https://www.elperiodico.com/es/economia/20260814/ibex-35-hoy-14-agosto-133350696)<br>
+08:43 [‘Déu-n’hi-do’, ‘badar, ‘compte' y ‘biaix’, entre las palabras más consultadas en Diccionari.cat en el 2025](https://www.elperiodico.com/es/videos/sociedad/deu-n-hi-do-badar-compte-biaix-palabras-mas-consultadas-diccionari-cat-2025-video/133350560.shtml)<br>
 08:42 [Última hora del volcán Etna y Kilauea en erupción, en directo | Vuelos cancelados a Sicilia y alerta naranja en Hawai](https://www.elperiodico.com/es/internacional/20260814/volcan-etna-kilauea-erupcion-ultima-hora-directo-133350394)<br>
 08:34 [El Gobierno investiga la aparición de marcas de perdigones en la orca ibérica Toñi en aguas de Gibraltar](https://www.elperiodico.com/es/sociedad/20260814/gobierno-investiga-aparicion-marcas-perdigones-133350414)<br>
 08:20 [Rubén (44 años), 10 años viviendo del reciclaje y reformando una casa en la montaña en Barcelona por 0 euros: "Vivo mejor que alguien con un trabajo del sistema"](https://www.elperiodico.com/es/economia/20260814/reciclaje-casa-medio-montana-fecha-caducidad-agua-alimentacion-ruben-dv-et-133245006)<br>
