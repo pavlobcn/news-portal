@@ -1,5 +1,77 @@
 [
   {
+    "title": "Adelantar por la derecha no siempre está prohibido: cuándo puedes hacerlo y cuándo te multan",
+    "link": "https://www.elperiodico.com/es/motor/20260814/adelantar-derecha-prohibido-multas-133288327",
+    "pubDate": "2026-08-14 20:28:53",
+    "category": "",
+    "description": "<h2>Estas maniobras no son lo mismo y el Reglamento General de Circulación establece cuándo pueden acabar en una multa de 200 euros.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кривавий липень. Найбільша кількість жертв в Україні",
+    "link": "https://ua.korrespondent.net/ukraine/4903012-kryvavyi-lypen-naibilsha-kilkist-zhertv-v-ukraini",
+    "pubDate": "2026-08-14 20:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528778.jpg\">Через російські обстріли в липні загинули 437 цивільних громадян. І це лише підтверджені випадки.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un avión de Air India cae casi 90 metros en pleno vuelo, deja 24 heridos y el comandante da positivo por marihuana",
+    "link": "https://www.elperiodico.com/es/internacional/20260814/air-india-avion-cae-90-metros-24-heridos-piloto-positivo-marihuana-133372675",
+    "pubDate": "2026-08-14 20:18:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Airbus detecta fallos en el sistema hidráulico del A320 y la aerolínea someterá a pruebas de drogas a sus más de 5.000 pilotos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260209/error-embarque-pasajero-acaba-japon-vuelo-equivocado-united-airlines-126639013\">Un pasajero que viajaba a Nicaragua acaba en Japón por un error de embarque en su vuelo</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Amancio Ortega desembarca en Australia con Macquarie tras culminar la compra de Qube",
+    "link": "https://www.elperiodico.com/es/economia/20260814/amancio-ortega-133373215",
+    "pubDate": "2026-08-14 20:13:40",
+    "category": "",
+    "description": "<h2>El vehículo inversor del fundador de Inditex, a través de Pontegadea, se une a Macquarie y UniSuper para adquirir la compañía logística australiana por 7.166 millones de euros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Україна заблокувала російський південь",
+    "link": "https://ua.korrespondent.net/ukraine/4903010-zelenskyi-ukraina-zablokuvala-rosiiskyi-pivden",
+    "pubDate": "2026-08-14 20:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528754.png\">Глава держави анонсував нові пакети санкцій проти російського ВПК, фінансового сектору та посередників.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Del viaje a la colonización: el polo sur de la Luna, nueva meta de la carrera espacial",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/viaje-colonizacion-polo-sur-luna-meta-carrera-espacial-133372837",
+    "pubDate": "2026-08-14 19:57:49",
+    "category": "",
+    "description": "<h2>Esta codiciada región alberga cráteres en sombra permanente que probablemente conserven <strong>agua helada</strong>, un recurso fundamental para abastecer a los astronautas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Binance заблокує пов’язані з РФ криптосервіси",
+    "link": "https://ua.korrespondent.net/business/4903003-Binance-zablokuie-poviazani-z-rf-kryptoservisy",
+    "pubDate": "2026-08-14 19:49:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528740.jpg\">Рішення ухвалили після запровадження 21-го пакета санкцій ЄС проти Росії, який включає обмеження щодо криптосервісів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Найбільший нафтовий термінал Росії на Чорному морі припинив роботу - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4903005-naibilshyi-naftovyi-terminal-rosii-na-chornomu-mori-prypynyv-robotu-zmi",
+    "pubDate": "2026-08-14 19:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528742.jpg\">Туреччина призупинила закупівлі російської нафти через Чорне море після ударів дронів по портах.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Almaraz y la patada a seguir",
     "link": "https://www.elperiodico.com/es/opinion/20260814/almaraz-patada-seguir-133372143",
     "pubDate": "2026-08-14 19:27:32",
@@ -41,6 +113,24 @@
     "pubDate": "2026-08-14 19:13:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528717.jpg\">Серед затриманих із початку липня зокрема 183 неповнолітні. Пожежі у п’ятницю продовжують вирувати у кількох регіонах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Франції підозрюють сотні осіб у підпалах лісів",
+    "link": "https://ua.korrespondent.net/world/4902994-u-frantsii-pidozruiuit-sotni-osib-u-pidpalakh-lisiv",
+    "pubDate": "2026-08-14 19:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528717.jpg\">Серед затриманих із початку липня зокрема 183 неповнолітні. Пожежі у п’ятницю продовжують вирувати у кількох регіонах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España saca la apisonadora",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-saca-la-apisonadora-f202608-n/",
+    "pubDate": "2026-08-14 19:08:04",
+    "category": "Baloncesto",
+    "description": "La Sub-16 femenina inicia su asalto al trono continental con una contudente paliza frente a la República Checa. El 28-3 del primer cuarto, definitivo.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -331,6 +421,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528697.jpg\">Україна стала одним із головних джерел досвіду для НАТО у використанні ШІ на полі бою, де дедалі більшу роль відіграють безпілотні системи.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "НАТО готує щит із ШІ-дронів проти Росії",
+    "link": "https://ua.korrespondent.net/world/4902990-nato-hotuie-schyt-iz-shi-droniv-proty-rosii",
+    "pubDate": "2026-08-14 17:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528697.jpg\">Україна стала одним із головних джерел досвіду для НАТО у використанні ШІ на полі бою, де дедалі більшу роль відіграють безпілотні системи.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Двоє чоловіків підпалили відділення Нової пошти на Харківщині",
@@ -1492,6 +1591,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528383.jpg\">ЛНЗ показав одразу два комплекти форми - домашній та гостьовий, зберігши свої традиційні клубні кольори.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno reconoce que la prórroga de Almaraz contribuirá a contener el precio de la luz",
+    "link": "https://www.elperiodico.com/es/economia/20260814/gobierno-reconoce-prorroga-almaraz-contribuira-reducir-precio-luz-133356701",
+    "pubDate": "2026-08-14 12:13:43",
+    "category": "",
+    "description": "<h2>El Ministerio para la Transición Ecológica atribuye a la \"incertidumbre\" por la guerra en Oriente Medio la prórroga de la central cacereña</h2><h2><a href=\"https://www.elperiodico.com/es/videos/economia/gobierno-renueva-autorizacion-central-almaraz/133357867.shtml\" target=\"_blank\">Almaraz gana tres años: el Gobierno autoriza su continuidad hasta 2030</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "Denuncian a un vecino de Ciudad Real que asegura haber matado a 40 gatos",
