@@ -1,11 +1,19 @@
-# News for 2026-08-14 07:09
+# News for 2026-08-14 08:04
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
 03:50 [У Нідерландах в річці знайшли тіло українця](https://ua.korrespondent.net/world/4902768-u-niderlandakh-v-richtsi-znaishly-tilo-ukraintsia)<br>
 
+## as.com
+07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
+
 ## www.elperiodico.com
+08:00 [Incendios hoy, 14 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260814/incendios-hoy-14-agosto-ultima-hora-cataluna-espana-mapa-fuegos-activos-dv-133335950)<br>
+08:00 [Aurelio Rojas, cardiólogo, desvela la causa de infarto en jóvenes: "No se trata solo de cuidarte, sino también dónde hay que mirar"](https://www.elperiodico.com/es/salud/20260814/infarto-jovenes-causas-lipoproteina-colesterol-aurelio-rojas-cardiologo-dv-et-133291515)<br>
+07:51 [Un incendio forestal obliga a evacuar por mar a cientos de turistas en Grecia](https://www.elperiodico.com/es/internacional/20260814/incendio-forestal-obliga-evacuar-mar-133349367)<br>
+07:38 [Los vecinos de un pueblo de Huesca cercado por el fuego lo protegen sin descanso: "Para saber lo que es el infierno tienes que entrar aquí"](https://www.elperiodico.com/es/sociedad/20260814/vecinos-pueblo-huesca-cercado-fuego-133349264)<br>
+07:15 [Javier de Haro, psicólogo experto en educación: "Seis señales de alarma que tu hijo tiene que conocer para socializar con otros niños, y cuanto antes las aprenda mejor"](https://www.elperiodico.com/es/educacion/20260814/javier-haro-psicologo-educacion-red-flags-relacionarse-dv-et-133327508)<br>
 07:02 [Josep Maria Godoy, educador: "El 80% del trabajo de un maestro en el aula es motivar al alumno"](https://www.elperiodico.com/es/sociedad/20260814/josep-maria-godoy-educador-80-133225878)<br>
 07:00 [Terremoto en Colombia, en directo | Colombia suma 281 muertos tras el terremoto mientras la emergencia humanitaria persiste](https://www.elperiodico.com/es/internacional/20260814/terremoto-colombia-muertos-ultima-hora-directo-133239425)<br>
 06:15 [Alíver Barrera, corneólogo: así se ve la retina de una joven de 20 años después de ver un eclipse solar parcial sin protección](https://www.elperiodico.com/es/salud/20260814/retinopatia-solar-imagen-cicatriz-retina-eclipse-corneologo-aliver-barrera-dv-133321075)<br>
