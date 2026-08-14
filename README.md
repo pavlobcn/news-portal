@@ -1,4 +1,4 @@
-# News for 2026-08-14 08:04
+# News for 2026-08-14 08:43
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
@@ -9,6 +9,12 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+08:42 [Última hora del volcán Etna y Kilauea en erupción, en directo | Vuelos cancelados a Sicilia y alerta naranja en Hawai](https://www.elperiodico.com/es/internacional/20260814/volcan-etna-kilauea-erupcion-ultima-hora-directo-133350394)<br>
+08:34 [El Gobierno investiga la aparición de marcas de perdigones en la orca ibérica Toñi en aguas de Gibraltar](https://www.elperiodico.com/es/sociedad/20260814/gobierno-investiga-aparicion-marcas-perdigones-133350414)<br>
+08:20 [Rubén (44 años), 10 años viviendo del reciclaje y reformando una casa en la montaña en Barcelona por 0 euros: "Vivo mejor que alguien con un trabajo del sistema"](https://www.elperiodico.com/es/economia/20260814/reciclaje-casa-medio-montana-fecha-caducidad-agua-alimentacion-ruben-dv-et-133245006)<br>
+08:15 [Antonio se jubiló y dejó la ciudad para vivir en el Amazonas: "Por este estilo de vida empiezas a ser menos consumista. Tengo aire y agua muy puros y una tranquilidad total. Eso te hace descansar"](https://www.elperiodico.com/es/economia/20260814/selva-amazonica-jubilado-dejo-ciudad-tranquilidad-antonio-dv-et-133270479)<br>
+08:10 [Una turista española muere en un accidente náutico en el Caribe colombiano](https://www.elperiodico.com/es/internacional/20260814/turista-espanola-muere-accidente-nautico-133348949)<br>
+08:05 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260814/ultima-hora-incendios-espana-directo-132759066)<br>
 08:00 [Incendios hoy, 14 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260814/incendios-hoy-14-agosto-ultima-hora-cataluna-espana-mapa-fuegos-activos-dv-133335950)<br>
 08:00 [Aurelio Rojas, cardiólogo, desvela la causa de infarto en jóvenes: "No se trata solo de cuidarte, sino también dónde hay que mirar"](https://www.elperiodico.com/es/salud/20260814/infarto-jovenes-causas-lipoproteina-colesterol-aurelio-rojas-cardiologo-dv-et-133291515)<br>
 07:51 [Un incendio forestal obliga a evacuar por mar a cientos de turistas en Grecia](https://www.elperiodico.com/es/internacional/20260814/incendio-forestal-obliga-evacuar-mar-133349367)<br>
