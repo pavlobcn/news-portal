@@ -1,4 +1,4 @@
-# News for 2026-08-14 16:37
+# News for 2026-08-14 17:30
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
@@ -44,6 +44,19 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:20 [Medios aéreos trabajan en el incendio de Collserola](https://www.elperiodico.com/es/videos/sucesos/medios-aereos-incendio-collserola/133367868.shtml)<br>
+17:14 [Segundo accidente de tren en Reino Unido en las últimas 24 horas](https://www.elperiodico.com/es/internacional/20260814/segundo-accidente-tren-reino-unido-en-24-horas-133367733)<br>
+17:10 [El rincón de Sant Boi de Llobregat que está ya en la historia del cine](https://www.elperiodico.com/es/barcelona/sant-boi/20260814/rincon-sant-boi-llobregat-historia-cine-dv-loc-110185207)<br>
+17:10 [La sorprendente carta de una niña hace 60 años en la que predice avances tecnológicos](https://www.elperiodico.com/es/educacion/20260814/avances-tecnologicos-carta-nina-60-anos-dv-et-132551752)<br>
+17:05 [La boda de dos científicos en Burgos durante el eclipse que ninguno de los 160 invitados olvidará: "Ayer me tiré todo el día llorando"](https://www.elperiodico.com/es/sociedad/20260814/boda-cientificos-burgos-durante-eclipse-133364530)<br>
+17:01 [Una borrega más](https://www.elperiodico.com/es/opinion/20260814/borrega-133366996)<br>
+17:00 [Fred Cavayé y Jesse Eisenberg competirán por la Concha de Oro en San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260814/cine-fred-cavaye-y-jesse-eisenberg-competiran-por-la-concha-de-oro-en-san-sebastian-133367097)<br>
+17:00 ["Mi hijo de 13 años quiere ir a la playa con sus amigos: ¿debo dejarle? ¿A partir de qué edad puede ir solo a nadar?"](https://www.elperiodico.com/es/sociedad/20260814/hijo-nadar-solo-amigos-expertos-playa-piscina-responden-132106410)<br>
+16:57 [Los vecinos de Gràcia ultiman els guarnits "a contrarreloj" en una jornada de calor intenso: "Todo sea por las fiestas"](https://www.elperiodico.com/es/videos/barcelona/vecinos-gracia-ultiman-els-guarnits/133367054.shtml)<br>
+16:52 [Un incendio forestal se declara en el Parque Natural de Collserola](https://www.elperiodico.com/es/videos/sucesos/incendio-forestal-declara-parque-natural/133367012.shtml)<br>
+16:46 [Catalunya registra en dos días 643 urgencias por lesiones oculares debido al eclipse](https://www.elperiodico.com/es/sanidad/20260814/catalunya-registra-urgencias-lesiones-oculares-eclipse-12-y-13-agosto-133365245)<br>
+16:41 [Incendio forestal en el Parque Natural de Collserola, en la montaña de Sant Pere Màrtir](https://www.elperiodico.com/es/videos/sucesos/incendio-forestal-parque-natural-collserola/133366584.shtml)<br>
+16:41 [Barcelona contrata obras básicas en la antigua estación Sant Andreu Comtal para frenar su degradación](https://www.elperiodico.com/es/barcelona/20260814/obras-reparacion-basica-antigua-estacion-sant-andreu-comtal-gegants-133364954)<br>
 16:30 [María López-Escobar, abogada de herencias: "Si no hay testamento, los sobrinos pueden heredar de los tíos pero se aplica la sucesión intestada"](https://www.elperiodico.com/es/economia/20260814/maria-lopez-escobar-abogada-herencias-tios-sobrinos-dv-et-133365266)<br>
 16:18 [Declarado un incendio forestal en Collserola](https://www.elperiodico.com/es/barcelona/20260814/incendio-forestal-collserola-133365742)<br>
 16:15 [El refugio de Salva Reina y Kira Miró en Aragón: un precioso municipio con una fiesta popular única en toda España](https://www.elperiodico.com/es/gente/20260814/refugio-aragon-salva-reina-kira-miro-dv-et-133335213)<br>
