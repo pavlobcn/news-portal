@@ -1,8 +1,11 @@
-# News for 2026-08-14 20:30
+# News for 2026-08-14 21:34
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
+21:15 [Виробник комп'ютерної пам'яті CXMT став найдорожчою китайською компанією](https://ua.korrespondent.net/business/companies/4903026-vyrobnyk-kompuiternoi-pamiati-CXMT-stav-naidorozhchoui-kytaiskoui-kompaniieui)<br>
+20:48 [У Познані затримали двох жінок, які напали на українців](https://ua.korrespondent.net/world/4903021-u-poznani-zatrymaly-dvokh-zhinok-yaki-napaly-na-ukraintsiv)<br>
+20:40 [Apple офіційно визнала iPhone X застарілим пристроєм](https://ua.korrespondent.net/lifestyle/gadgets/4903019-Apple-ofitsiino-vyznala-iPhone-X-zastarilym-prystroiem)<br>
 19:13 [Франція затримала сотні підозрюваних через лісові пожежі](https://ua.korrespondent.net/world/4902994-frantsiia-zatrymala-sotni-pidozruivanykh-cherez-lisovi-pozhezhi)<br>
 19:13 [У Франції підозрюють сотні осіб у підпалах лісів](https://ua.korrespondent.net/world/4902994-u-frantsii-pidozruiuit-sotni-osib-u-pidpalakh-lisiv)<br>
 18:55 [Російський військовий-ґвалтівник отримав максимальне покарання](https://ua.korrespondent.net/ukraine/4902992-rosiiskyi-viiskovyi-gvaltivnyk-otrymav-maksymalne-pokarannia)<br>
@@ -54,6 +57,9 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:01 [Más de 12.000 viviendas destruidas y 74.000 dañadas: el drama de los que se quedaron sin nada tras el terremoto en Colombia](https://www.elperiodico.com/es/internacional/20260814/viviendas-destruidas-danadas-terremoto-colombia-drama-de-los-que-se-quedaron-sin-nada-133374158)<br>
+20:40 [Registrado un terremoto de 3,7 grados sentido en 67 municipios de Granada](https://www.elperiodico.com/es/sociedad/20260814/registrado-terremoto-3-7-grados-sentido-municipios-granada-133373674)<br>
+20:38 [Ingresa en prisión el detenido como presunto autor del incendio de Huesca](https://www.elperiodico.com/es/sociedad/20260814/ingresa-prision-detenido-presunto-autor-incendio-huesca-133373624)<br>
 20:13 [Amancio Ortega desembarca en Australia con Macquarie tras culminar la compra de Qube](https://www.elperiodico.com/es/economia/20260814/amancio-ortega-133373215)<br>
 19:57 [Del viaje a la colonización: el polo sur de la Luna, nueva meta de la carrera espacial](https://www.elperiodico.com/es/sociedad/20260814/viaje-colonizacion-polo-sur-luna-meta-carrera-espacial-133372837)<br>
 19:27 [Almaraz y la patada a seguir](https://www.elperiodico.com/es/opinion/20260814/almaraz-patada-seguir-133372143)<br>
