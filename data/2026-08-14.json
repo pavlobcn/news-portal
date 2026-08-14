@@ -1,5 +1,176 @@
 [
   {
+    "title": "El Gregorio Marañón, primer hospital del mundo en fabricar e implantar una prótesis ósea de metamaterial personalizada",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/gregorio-maranon-primer-hospital-pionero-protesis-osea-metamaterial-133361746",
+    "pubDate": "2026-08-14 13:58:54",
+    "category": "",
+    "description": "<h2>Un hombre de 38 años, afectado por un sarcoma óseo de alto grado, ha recuperado la movilidad en su pierna y ya puede caminar, en muchos casos sin necesidad de muletas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Porro vuelve al Tottenham como campeón del mundo: un pasillo de honor para el extremeño",
+    "link": "https://www.elperiodico.com/es/deportes/20260814/pedro-porro-vuelve-tottenham-campeon-133361502",
+    "pubDate": "2026-08-14 13:58:53",
+    "category": "",
+    "description": "<h2>El club inglés recibió de manera multitudinaria al futbolista de Don Benito, protagonista de un verano que también le dejó un baño de masas en su tierra, el posible interés del Barça y su compromiso matrimonial</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España roza el pleno en el Europeo de natación: casi todos los españoles pasan a semifinales",
+    "link": "https://www.elperiodico.com/es/deportes/20260814/espana-pleno-europeo-natacion-espanoles-133355435",
+    "pubDate": "2026-08-14 13:55:42",
+    "category": "",
+    "description": "<h2>El equipo español de natación asegura su pase a la final del relevo mixto 4x100 metros tras una ajustada clasificación frente a Alemania</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catarata de anuncios con Shulga y Sarr, el lío de Jones y el rumor de Quiñones",
+    "link": "https://as.com/baloncesto/acb/catarata-de-anuncios-con-shulga-y-sarr-el-lio-de-jones-y-el-rumor-de-quinones-f202608-n/",
+    "pubDate": "2026-08-14 13:53:23",
+    "category": "Baloncesto",
+    "description": "El Real Madrid retomará próximamente los anuncios de fichajes tras un par de semanas sin avanzar en ello. Shulga y Sarr, preparados; Jones, aún a esperar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rodri se reincorpora al City y Maresca habla sobre su salida al Barça: \"Puede pasar cualquier cosa\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260814/rodri-reincorpora-city-maresca-habla-133358493",
+    "pubDate": "2026-08-14 13:52:19",
+    "category": "",
+    "description": "<h2>El mediocampista español se encontró hoy con el entrenador italiano en las instalaciones del City, aunque sigue con su recuperación y no se entrenó con el grupo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Michael Bublé se declara admirador de Bertín Osborne y protagoniza un inesperado dueto: \"Mi héroe\"",
+    "link": "https://www.elperiodico.com/es/gente/20260814/michael-buble-declara-admirador-bertin-osborne-video-133361241",
+    "pubDate": "2026-08-14 13:51:27",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Frenkie de Jong denuncia una campaña en su contra, señala a periodistas y niega que tenga mala relación con Flick: \"No lo voy a dejar pasar más\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260814/frenkie-jong-denuncia-campana-senala-133359067",
+    "pubDate": "2026-08-14 13:48:14",
+    "category": "",
+    "description": "<h2>El centrocampista neerlandés arremete contra los periodistas en una entrevista a los medios oficiales del Barcelona en que asegura que su plan de recuperación está pactado con el club y niega que tenga mala relación con el técnico Hansi Flick</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gràcia ultima los preparativos de sus fiestas a contrarreloj",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/gracia-ultima-preparativos-fiestas-contrarreloj-video/133361095.shtml",
+    "pubDate": "2026-08-14 13:42:26",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Detenidos en Barcelona con un \"desayuno explosivo\": leche y una caja de cereales con cocaína",
+    "link": "https://www.elperiodico.com/es/sucesos/20260814/detenidos-barcelona-desayuno-explosivo-leche-133360924",
+    "pubDate": "2026-08-14 13:41:09",
+    "category": "",
+    "description": "<h2>La Guardia Urbana paró en Nou Barris a los sospechosos cuando iban en coche por \"un giro repentino\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de 8 de cada 10 municipios catalanes se hallan en peligro alto o muy alto de incendio ante un fin de semana de gran movilidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/muncipios-riesgo-incendios-catalunya-fin-de-semana-movilidad-133359073",
+    "pubDate": "2026-08-14 13:40:06",
+    "category": "",
+    "description": "<h2 class=\"item\">Protecció Civil ha activado la prealerta por riesgo de fuegos en un fin de semana de gran movilidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Cómo saber si mi vuelo a Sicilia se ha cancelado por la erupción del volcán Etna? Así puedes comprobarlo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260814/vuelo-cancelado-sicilia-erupcion-volcan-etna-dv-133353638",
+    "pubDate": "2026-08-14 13:36:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Unos 700 vuelos ya se vieron afectados entre el 8 y el 11 de agosto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260814/volcan-etna-kilauea-erupcion-ultima-hora-directo-133350394\" >Última hora del volcán Etna y Kilauea en erupción, en directo | Vuelos cancelados a Sicilia y alerta naranja en Hawai</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260812/actividad-eruptiva-etna-mantiene-cierre-aeropuerto-catania-sicilia-133298485\" >La actividad eruptiva del Etna mantiene cerrado el aeropuerto siciliano de Catania en plena temporada turística</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así vive Ceuta las últimas horas de la crisis migratoria",
+    "link": "https://www.elperiodico.com/es/videos/politica/asi-vive-ceuta-ultimas-horas-crisis-migratoria/133360844.shtml",
+    "pubDate": "2026-08-14 13:35:04",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El presidente de Ceuta reclama que se suspenda el derecho al asilo a los migrantes",
+    "link": "https://www.elperiodico.com/es/politica/20260814/presidente-ceuta-senado-reclaman-devolucion-133360584",
+    "pubDate": "2026-08-14 13:30:22",
+    "category": "",
+    "description": "<h2>El presidente del Senado apoya la devolución inmediata de los que permanecen en la ciudad autónoma y apuesta por una reforma para evitar otra avalancha</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así fue el traslado de los bienes del Monasterio de San Juan de la Peña por la amenaza del incendio de La Peña",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/traslado-bienes-monasterio-san-juan/133360474.shtml",
+    "pubDate": "2026-08-14 13:28:20",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La demorada piscina de la Sagrera abre al público este fin de semana",
+    "link": "https://www.elperiodico.com/es/barcelona/20260814/apertura-piscina-descubierta-la-sagrera-fin-de-setmana-133358732",
+    "pubDate": "2026-08-14 13:26:32",
+    "category": "",
+    "description": "<h2>Los vecinos esperan impacientes su estreno desde marzo de 2025, que era la fecha de finalización prevista inicialmente para las obras</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260731/piscina-descubierta-la-sagrera-vecinos-mediados-agosto-132983973\">La piscina descubierta más esperada de Barcelona: abrirá \"a mediados de agosto\" tras cuatro meses llena y acabada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ana Redondo: “Total empatía hacia las mujeres ceutíes, vamos a protegerlas”",
+    "link": "https://www.elperiodico.com/es/videos/politica/ana-redondo-total-empatia-mujeres-ceuties-protegerlas/133360319.shtml",
+    "pubDate": "2026-08-14 13:26:07",
+    "category": "",
+    "description": "La ministra de Igualdad espera que la situación en Ceuta “se normalice cuanto antes”",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "María Sánchez, ambientóloga, sobre dónde y cómo hay que tirar las gafas del eclipse solar: \"La clave está en las lentes\"",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260814/eclipse-solar-donde-tirar-gafas-reciclaje-maria-sanchez-ambientologa-dv-et-133354118",
+    "pubDate": "2026-08-14 13:16:47",
+    "category": "",
+    "description": "<h2 class=\"item\">Este objeto tiene una composición que hace que sea un residuo de carácter multicapa y multimaterial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260812/sintomas-lesion-ojos-retinopatia-solar-despues-eclipse-espana-dv-et-133289248\" >Estos son los principales síntomas de daños en los ojos después de ver el eclipse solar: \"Hay que distinguir entre el cansancio ocular y una lesión clínica grave\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260809/cataluna-objetivos-europeos-reciclaje-envases-133154763\" >Catalunya alcanza los objetivos europeos y supera el 76% de recogida separada de envases</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los afiliados extranjeros superan los 3,5 millones de cotizantes por primera vez en la historia",
+    "link": "https://www.elperiodico.com/es/videos/economia/afiliados-extranjeros-superan-3-5/133358971.shtml",
+    "pubDate": "2026-08-14 13:14:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La plataforma por la continuidad de Almaraz celebra la prórroga y pide ir más allá de 2030",
+    "link": "https://www.elperiodico.com/es/economia/20260814/plataforma-continuidad-almaraz-celebra-prorroga-central-nuclear-133359232",
+    "pubDate": "2026-08-14 13:12:40",
+    "category": "",
+    "description": "<h2>\"Sí a Almaraz, Sí al futuro\" considera que la decisión del Gobierno devuelve la tranquilidad al Campo Arañuelo, aunque mantiene su objetivo de prolongar la actividad de la central durante más años</h2><h2><a href=\"https://www.elperiodico.com/es/tarragona/20260814/asco-vandellos-catalunya-centrales-nucleares-energia-almaraz-133356046\" target=\"_blank\">Los municipios nucleares de Catalunya celebran la prórroga de Almaraz y esperan un \"efecto dominó\" que alargue su cierre definitivo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "La ampliación del Parlament arranca con las obras de la nueva pasarela y pendiente de la reubicación del párking",
     "link": "https://www.elperiodico.com/es/politica/20260814/ampliacion-parlament-cataluna-parque-ciutadella-retos-pasarela-parking-128744810",
     "pubDate": "2026-08-14 13:12:14",
