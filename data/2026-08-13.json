@@ -747,6 +747,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-08-13 18:26:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los hospitales y centros de salud de España reciben más de 600 visitas oftalmológicas en las primeras horas 'post-eclipse'",
     "link": "https://www.elperiodico.com/es/videos/sociedad/hospitales-centros-salud-espana-reciben/133338757.shtml",
     "pubDate": "2026-08-13 18:25:44",
@@ -909,6 +918,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-08-13 17:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Корупція на дронах: збитки зросли майже втричі",
     "link": "https://ua.korrespondent.net/ukraine/4902676-koruptsiia-na-dronakh-zbytky-zrosly-maizhe-vtrychi",
     "pubDate": "2026-08-13 17:33:00",
@@ -1033,6 +1051,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4527381.jpg\">Майлі Сайрус продемонструвала оригінальний музичний перехід, що об'єднав дві зовсім різні стилістичні епохи.",
     "topic": "виконавці поп музики",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-08-13 16:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Takaichi califica la visita de Putin a unas islas disputadas de \"absolutamente inaceptable\"",
