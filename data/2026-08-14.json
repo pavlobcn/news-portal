@@ -1,5 +1,77 @@
 [
   {
+    "title": "Росіяни відступили із Дніпропетровщини - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4903049-rosiiany-vidstupyly-iz-dnipropetrovschyny-zmi",
+    "pubDate": "2026-08-14 23:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528893.jpg\">Російські військові блогери повідомляють про відхід підрозділів РФ із Дніпропетровської області та звинувачують командування у провалі на цій ділянці фронту.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "España suma dos finalistas en la noche de Battocletti, Tamberi y Audrey Werro",
+    "link": "https://www.elperiodico.com/es/deportes/20260814/espana-suma-finalistas-noche-battocletti-tamberi-audrey-werro-133376453",
+    "pubDate": "2026-08-14 23:39:31",
+    "category": "",
+    "description": "<h2>La cuarta plaza de Idaira Prieto en 10.000 y la sexta del 'Flako' en 400 vallas, lo mejor de la tarde para España</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 15 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260814/portada-periodico-15-agosto-2026-133376394",
+    "pubDate": "2026-08-14 23:38:30",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump asegura que declarará el estrecho de Ormuz \"territorio de EEUU\" tras \"derrotar a Irán\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260814/trump-asegura-declarara-estrecho-ormuz-territorio-eeuu-derrotar-iran-133376353",
+    "pubDate": "2026-08-14 23:32:51",
+    "category": "",
+    "description": "<h2>El presidente estadounidense eleva el tono contra Teherán mientras sus negociaciones siguen estancadas y se acerca el vencimiento del alto el fuego pactado en junio</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Venezuela anuncia la excarcelación de 131 presos dos días después de terminar el diálogo entre el chavismo y la oposición",
+    "link": "https://www.elperiodico.com/es/internacional/20260814/venezuela-anuncia-excarcelacion-131-personas-dialogo-chavismo-oposicion-133376200",
+    "pubDate": "2026-08-14 23:17:20",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Майже 200 боїв за добу: де РФ атакувала найбільше",
+    "link": "https://ua.korrespondent.net/ukraine/4903044-maizhe-200-boiv-za-dobu-de-rf-atakuvala-naibilshe",
+    "pubDate": "2026-08-14 23:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528869.jpg\">Російські війська протягом доби здійснили понад 2 тисячі обстрілів, завдали 52 авіаударів і провели 194 атаки на різних ділянках фронту. Найгарячішим залишався Костянтинівський напрямок.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El nuevo cable submarino entre Canarias y Marruecos abre un frente diplomático en el Sáhara Occidental",
+    "link": "https://www.elperiodico.com/es/politica/20260814/nuevo-cable-submarino-canarias-marruecos-133375853",
+    "pubDate": "2026-08-14 22:50:13",
+    "category": "",
+    "description": "<h2>La ubicación del punto de conexión en Tarfaya genera interrogantes sobre la posibilidad de extender la infraestructura al territorio ocupado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Румунії вчетверте за добу виявили уламки дрона",
+    "link": "https://ua.korrespondent.net/world/4903041-u-rumunii-vchetverte-za-dobu-vyiavyly-ulamky-drona",
+    "pubDate": "2026-08-14 22:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528868.jpg\">Румунські військові повідомили про нове виявлення уламків безпілотника в прикордонному повіті Тулча, за два кілометри від українського кордону.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Ліверпуль планує змінити власника через продаж акцій клубу",
     "link": "https://ua.korrespondent.net/sport/football/4903040-liverpul-planuie-zminyty-vlasnyka-cherez-prodazh-aktsii-klubu",
     "pubDate": "2026-08-14 22:38:00",
@@ -23,6 +95,15 @@
     "pubDate": "2026-08-14 22:11:25",
     "category": "",
     "description": "<h2>Un operativo histórico con 900 efectivos y 33 medios aéreos hace frente a un fuego desbocado con rebrotes constantes y que llegó a rodear este viernes el Monasterio Nuevo de San Juan de la Peña sin dañar el edificio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Обміління Дунаю. Проблеми для всієї Європи",
+    "link": "https://ua.korrespondent.net/ukraine/4903046-obmilinnia-dunaui-problemy-dlia-vsiiei-yevropy",
+    "pubDate": "2026-08-14 22:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528880.jpg\">Історично низький рівень води у басейні Дунаю кліматологи пов'язують із поєднанням тривалої спеки, браку опадів у весняно-зимовий період і швидкого скорочення запасів снігу та льодовиків в Альпах.",
     "topic": "",
     "topic_match_probability": 0
   },
