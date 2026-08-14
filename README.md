@@ -1,6 +1,16 @@
-# News for 2026-08-14 05:15
+# News for 2026-08-14 06:31
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
 03:50 [У Нідерландах в річці знайшли тіло українця](https://ua.korrespondent.net/world/4902768-u-niderlandakh-v-richtsi-znaishly-tilo-ukraintsia)<br>
+
+## www.elperiodico.com
+06:15 [Alíver Barrera, corneólogo: así se ve la retina de una joven de 20 años después de ver un eclipse solar parcial sin protección](https://www.elperiodico.com/es/salud/20260814/retinopatia-solar-imagen-cicatriz-retina-eclipse-corneologo-aliver-barrera-dv-133321075)<br>
+06:00 [Escritores bloqueados y lectores enfurecidos: la maldición de las sagas de nunca acabar](https://www.elperiodico.com/es/ocio-y-cultura/20260814/escritores-bloqueados-lectores-enfurecidos-maldicion-133173276)<br>
+06:00 [El incendio del decorado de la calle Verdi fue provocado pero no se identificó a los autores](https://www.elperiodico.com/es/barcelona/20260814/investigacion-mossos-incendio-decorado-verdi-fiestas-de-gracia-provocado-sin-autores-133335225)<br>
+06:00 [Lina López: “La decoración de muchas calles de Gràcia ha sobrevivido gracias a gente que ha venido de otros países”](https://www.elperiodico.com/es/barcelona/20260814/lina-lopez-presidenta-saliente-fiestas-gracia-barcelona-133122306)<br>
+06:00 [Teresa Arnandis (Lady Science): “Si nuestro cuerpo nos mandara un WhatsApp después de un verano intenso, sería un SOS”](https://www.elperiodico.com/es/sociedad/20260814/teresa-arnandis-lady-science-cuerpo-calor-verano-133347634)<br>
+06:00 [El cine de 1976 (5): 'El desencanto', autopsia de la familia Panero](https://www.elperiodico.com/es/ocio-y-cultura/20260814/el-desencanto-cine-pelicula-1976-autopsia-familia-panero-133292386)<br>
+06:00 [Eduardo Vara, pediatra: "El problema es reducir a cada persona a etiquetas estereotipadas"](https://www.elperiodico.com/es/ser-feliz/20260814/eduardo-vara-pediatra-problema-reducir-132482083)<br>
+05:36 [Incendios forestales en Catalunya y resto España hoy, en directo: última hora de la situación de los fuegos activos](https://www.elperiodico.com/es/sociedad/20260814/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
