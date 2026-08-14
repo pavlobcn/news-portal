@@ -1,30 +1,11 @@
-# News for 2026-08-14 15:36
+# News for 2026-08-14 15:37
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
-15:32 [Російські погрози "заморозкою". Реакція українців](https://ua.korrespondent.net/ukraine/4902938-rosiiski-pohrozy-zamorozkoui-reaktsiia-ukraintsiv)<br>
-15:28 [У Києві екснардеп віддав шахраям понад $30 тисяч](https://ua.korrespondent.net/city/kiev/4902940-u-kyievi-eksnardep-viddav-shakhraiam-ponad-30-tysiach)<br>
-15:21 [Довбик поділився факапом переходу в іншу команду](https://ua.korrespondent.net/sport/football/4902936-dovbyk-podilyvsia-fakapom-perekhodu-v-inshu-komandu)<br>
-15:19 [Спецслужби Росії готували вбивство репера Київстонера у Польщі - ЗМІ](https://ua.korrespondent.net/world/4902934-spetssluzhby-rosii-hotuvaly-vbyvstvo-repera-kyivstonera-u-polschi-zmi)<br>
-15:17 [Донька Скрябіна розказала про іншу сторону батька](https://ua.korrespondent.net/lifestyle/4902926-donka-skriabina-rozkazala-pro-inshu-storonu-batka)<br>
-15:14 [Путін доручив спецслужбам розколоти НАТО і ЄС - NYT](https://ua.korrespondent.net/world/4902932-putin-doruchyv-spetssluzhbam-rozkoloty-nato-i-yes-NYT)<br>
-14:59 [Трамп дозволив бізнесу проводити кібератаки проти хакерів](https://ua.korrespondent.net/world/4902927-tramp-dozvolyv-biznesu-provodyty-kiberataky-proty-khakeriv)<br>
-14:51 [У Румунії розбився дрон за 5 кілометрів від кордону з Україною](https://ua.korrespondent.net/world/4902924-u-rumunii-rozbyvsia-dron-za-5-kilometriv-vid-kordonu-z-ukrainoui)<br>
-14:47 [Лавров відкинув можливість зупинки війни](https://ua.korrespondent.net/world/russia/4902920-lavrov-vidkynuv-mozhlyvist-zupynky-viiny)<br>
-14:46 [Новий посол Німеччини розпочав роботу у Києві](https://ua.korrespondent.net/ukraine/4902922-novyi-posol-nimechchyny-rozpochav-robotu-u-kyievi)<br>
 14:39 [Загадкова недуга в Кенії вбила 19 слонів](https://ua.korrespondent.net/tech/4902907-zahadkova-neduha-v-kenii-vbyla-19-sloniv)<br>
-14:36 [Християнський корпус ініціює законопроєкт про працевлаштування ветеранів](https://ua.korrespondent.net/ukraine/politics/4902918-khrystyianskyi-korpus-initsiuiie-zakonoproiekt-pro-pratsevlashtuvannia-veteraniv)<br>
 14:31 [У Харкові засудили матір хлопчика, який випав з вікна](https://ua.korrespondent.net/city/kharkov/4902916-u-kharkovi-zasudyly-matir-khlopchyka-yakyi-vypav-z-vikna)<br>
 14:14 [У Познані дві жінки напали на чоловіків з України](https://ua.korrespondent.net/world/4902912-u-poznani-dvi-zhinky-napaly-na-cholovikiv-z-ukrainy)<br>
-14:13 [Нова Зеландія допомагатиме Україні повертати депортованих РФ дітей](https://ua.korrespondent.net/world/4902910-nova-zelandiia-dopomahatyme-ukraini-povertaty-deportovanykh-rf-ditei)<br>
-14:05 [В Італії знайшли зниклі картини трьох видатних художників](https://ua.korrespondent.net/showbiz/culture/4902888-v-italii-znaishly-znykli-kartyny-trokh-vydatnykh-khudozhnykiv)<br>
-13:56 [Клуб УПЛ креативно представив нового гравця](https://ua.korrespondent.net/sport/football/4902897-klub-upl-kreatyvno-predstavyv-novoho-hravtsia)<br>
-13:51 [Уражено комплекс в Усть-Лузі - Генштаб](https://ua.korrespondent.net/ukraine/4902904-urazheno-kompleks-v-ust-luzi-henshtab)<br>
-13:49 [Ринок автобусів в Україні зріс на 4%](https://ua.korrespondent.net/business/auto/4902901-rynok-avtobusiv-v-ukraini-zris-na-4)<br>
-13:48 [В Україні заблокували 12 YouTube-каналів, що підтримували РФ](https://ua.korrespondent.net/ukraine/4902899-v-ukraini-zablokuvaly-12-YouTube-kanaliv-scho-pidtrymuvaly-rf)<br>
-13:23 [В Україні заблокували десять нових схем ухилянтів](https://ua.korrespondent.net/ukraine/4902887-v-ukraini-zablokuvaly-desiat-novykh-skhem-ukhyliantiv)<br>
-13:19 [ЗСУ відповіли на погрози Росії щодо зими](https://ua.korrespondent.net/ukraine/4902885-zsu-vidpovily-na-pohrozy-rosii-schodo-zymy)<br>
 12:59 [Ніколь Кідман здивувала зізнанням про своє життя](https://ua.korrespondent.net/lifestyle/4902867-nikol-kidman-zdyvuvala-ziznanniam-pro-svoie-zhyttia)<br>
 12:53 [Уражено п’ять пунктів управління дронів росіян](https://ua.korrespondent.net/ukraine/4902878-urazheno-piat-punktiv-upravlinnia-droniv-rosiian)<br>
 12:39 [SpaceX скасувала обмеження Starlink для Польщі](https://ua.korrespondent.net/world/4902874-SpaceX-skasuvala-obmezhennia-Starlink-dlia-polschi)<br>
@@ -44,15 +25,9 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 ## www.elperiodico.com
 15:30 [El ébola se extiende a una sexta provincia en la RD del Congo, según la Unión Africana](https://www.elperiodico.com/es/internacional/20260814/ebola-extiende-sexta-provincia-rd-congo-133364639)<br>
 15:23 [Irene Ferrero, escritora: "¿Hay que trabajar 40 horas a la semana durante 40 años?"](https://www.elperiodico.com/es/ocio-y-cultura/20260814/irene-ferrero-escritora-trabajar-40-horas-semana-40-anos-entrevista-133364319)<br>
-15:12 [Muere a los 33 años Prichard Colón, el boxeador que quedó en silla de ruedas por los golpes ilegales de su rival durante una pelea](https://www.elperiodico.com/es/deportes/20260814/muere-33-anos-prichard-colon-boxeador-lesion-golpes-ilegales-dv-133364010)<br>
 15:11 [Cataluña mantiene bajo vigilancia a tres contactos estrechos del turista con hantavirus](https://www.elperiodico.com/es/videos/sanidad/cataluna-mantiene-vigilancia-tres-contactos/133364187.shtml)<br>
 15:10 [Scalpers entra en el capital de la marca juvenil Yuxus para acelerar su expansión](https://www.elperiodico.com/es/economia/20260814/scalpers-entra-capital-firma-moda-yuxus-133363723)<br>
-15:00 [Gavi (22 años): "Mi madre ya no ve los partidos ni siquiera, la verdad que se asusta un montón. Siempre antes de ir al partido me dice: "Ten cuidado, no te metas en ninguna pelea""](https://www.elperiodico.com/es/deportes/20260814/pablo-gavi-madre-partidos-nervios-infancia-peligroso-peleas-dv-et-133327353)<br>
 14:59 [El Gregorio Marañón, primer hospital del mundo en fabricar e implantar una prótesis ósea de metamaterial personalizada](https://www.elperiodico.com/es/videos/politica/gregorio-maranon-primer-hospital-mundo-protesis-osea-metamaterial/133364012.shtml)<br>
-14:19 [La alcaldesa de Vandellòs i L'Hospitalet de l'Infant celebra la prórroga del Estado a la nuclear de Almaraz](https://www.elperiodico.com/es/videos/sociedad/alcaldesa-vandellos-lhospitalet-linfant-celebra-prorroga-estado-nuclear-almaraz-video/133362408.shtml)<br>
-14:16 [El presidente del Senado exige el retorno de los migrantes llegados ilegalmente a Ceuta y reclama una respuesta “absoluta” si se repite el asalto](https://www.elperiodico.com/es/videos/politica/presidente-senado-exige-retorno-migrantes/133362186.shtml)<br>
-14:13 [Ceuta reclama que se suspenda el derecho al asilo a los migrantes](https://www.elperiodico.com/es/videos/politica/ceuta-reclama-suspenda-derecho-asilo/133362180.shtml)<br>
-14:10 ["Madre de dragones": el lado más desconocido y personal de Silvia Intxaurrondo detrás de las cámaras](https://www.elperiodico.com/es/gente/20260814/silvia-intxaurrondo-periodista-vida-privada-madre-dragones-hijos-marido-libro-dv-et-133170783)<br>
 13:58 [El Gregorio Marañón, primer hospital del mundo en fabricar e implantar una prótesis ósea de metamaterial personalizada](https://www.elperiodico.com/es/sociedad/20260814/gregorio-maranon-primer-hospital-pionero-protesis-osea-metamaterial-133361746)<br>
 13:58 [El Gregorio Marañón, primer hospital del mundo en fabricar e implantar una prótesis ósea de metamaterial personalizada](https://www.elperiodico.com/es/sanidad/20260814/gregorio-maranon-primer-hospital-pionero-protesis-osea-metamaterial-133361746)<br>
 13:41 [Detenidos en Barcelona con un "desayuno explosivo": leche y una caja de cereales con cocaína](https://www.elperiodico.com/es/sucesos/20260814/detenidos-barcelona-desayuno-explosivo-leche-133360924)<br>
