@@ -1,8 +1,9 @@
-# News for 2026-08-14 23:43
+# News for 2026-08-15 00:37
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
+22:35 [Успіх українського контрнаступу. Що звільнили ЗСУ](https://ua.korrespondent.net/ukraine/4903051-uspikh-ukrainskoho-kontrnastupu-scho-zvilnyly-zsu)<br>
 22:10 [Обміління Дунаю. Проблеми для всієї Європи](https://ua.korrespondent.net/ukraine/4903046-obmilinnia-dunaui-problemy-dlia-vsiiei-yevropy)<br>
 21:55 [Банки Білорусі, Казахстану та Киргизстану ввели обмеження на прийом рублів](https://ua.korrespondent.net/business/financial/4903035-banky-bilorusi-kazakhstanu-ta-kyrhyzstanu-vvely-obmezhennia-na-pryiom-rubliv)<br>
 21:40 [Пляма як 40 тисяч футбольних полів: біля Ірану стався розлив нафти](https://ua.korrespondent.net/world/4903032-pliama-yak-40-tysiach-futbolnykh-poliv-bilia-iranu-stavsia-rozlyv-nafty)<br>
