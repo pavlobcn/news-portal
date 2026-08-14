@@ -1,8 +1,10 @@
-# News for 2026-08-14 21:34
+# News for 2026-08-14 22:09
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
+21:55 [Банки Білорусі, Казахстану та Киргизстану ввели обмеження на прийом рублів](https://ua.korrespondent.net/business/financial/4903035-banky-bilorusi-kazakhstanu-ta-kyrhyzstanu-vvely-obmezhennia-na-pryiom-rubliv)<br>
+21:40 [Пляма як 40 тисяч футбольних полів: біля Ірану стався розлив нафти](https://ua.korrespondent.net/world/4903032-pliama-yak-40-tysiach-futbolnykh-poliv-bilia-iranu-stavsia-rozlyv-nafty)<br>
 21:15 [Виробник комп'ютерної пам'яті CXMT став найдорожчою китайською компанією](https://ua.korrespondent.net/business/companies/4903026-vyrobnyk-kompuiternoi-pamiati-CXMT-stav-naidorozhchoui-kytaiskoui-kompaniieui)<br>
 20:48 [У Познані затримали двох жінок, які напали на українців](https://ua.korrespondent.net/world/4903021-u-poznani-zatrymaly-dvokh-zhinok-yaki-napaly-na-ukraintsiv)<br>
 20:40 [Apple офіційно визнала iPhone X застарілим пристроєм](https://ua.korrespondent.net/lifestyle/gadgets/4903019-Apple-ofitsiino-vyznala-iPhone-X-zastarilym-prystroiem)<br>
@@ -50,6 +52,7 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 03:50 [У Нідерландах в річці знайшли тіло українця](https://ua.korrespondent.net/world/4902768-u-niderlandakh-v-richtsi-znaishly-tilo-ukraintsia)<br>
 
 ## as.com
+21:36 [Sangre, sudor y, al final, lágrimas: España se queda sin final](https://as.com/baloncesto/mas_baloncesto/sangre-sudor-y-al-final-lagrimas-espana-se-queda-sin-final-f202608-n/)<br>
 19:08 [España saca la apisonadora](https://as.com/baloncesto/mas_baloncesto/espana-saca-la-apisonadora-f202608-n/)<br>
 15:59 [Oficial: el Real Madrid refuerza la línea exterior con Max Shulga](https://as.com/baloncesto/acb/oficial-el-real-madrid-refuerza-la-linea-exterior-con-max-shulga-f202608-n/)<br>
 14:39 [Simmons y Baugh tendrán pasaportes cotonou](https://as.com/baloncesto/simmons-y-baugh-tendran-pasaportes-cotonou-f202608-n/)<br>
