@@ -1,8 +1,9 @@
-# News for 2026-08-14 15:36
+# News for 2026-08-14 16:37
 
 Previous day: [2026-08-13](./data/2026-08-13.md)
 
 ## ua.korrespondent.net
+16:04 [Загибель трьох тонн риби на Київщині: фахівці з'ясували стан води](https://ua.korrespondent.net/ukraine/4902949-zahybel-trokh-tonn-ryby-na-kyivschyni-fakhivtsi-ziasuvaly-stan-vody)<br>
 15:32 [Російські погрози "заморозкою". Реакція українців](https://ua.korrespondent.net/ukraine/4902938-rosiiski-pohrozy-zamorozkoui-reaktsiia-ukraintsiv)<br>
 15:28 [У Києві екснардеп віддав шахраям понад $30 тисяч](https://ua.korrespondent.net/city/kiev/4902940-u-kyievi-eksnardep-viddav-shakhraiam-ponad-30-tysiach)<br>
 15:21 [Довбик поділився факапом переходу в іншу команду](https://ua.korrespondent.net/sport/football/4902936-dovbyk-podilyvsia-fakapom-perekhodu-v-inshu-komandu)<br>
@@ -37,11 +38,19 @@ Previous day: [2026-08-13](./data/2026-08-13.md)
 03:50 [У Нідерландах в річці знайшли тіло українця](https://ua.korrespondent.net/world/4902768-u-niderlandakh-v-richtsi-znaishly-tilo-ukraintsia)<br>
 
 ## as.com
+15:59 [Oficial: el Real Madrid refuerza la línea exterior con Max Shulga](https://as.com/baloncesto/acb/oficial-el-real-madrid-refuerza-la-linea-exterior-con-max-shulga-f202608-n/)<br>
 14:39 [Simmons y Baugh tendrán pasaportes cotonou](https://as.com/baloncesto/simmons-y-baugh-tendran-pasaportes-cotonou-f202608-n/)<br>
 13:53 [Catarata de anuncios con Shulga y Sarr, el lío de Jones y el rumor de Quiñones](https://as.com/baloncesto/acb/catarata-de-anuncios-con-shulga-y-sarr-el-lio-de-jones-y-el-rumor-de-quinones-f202608-n/)<br>
 07:07 [De padres a hijas](https://as.com/baloncesto/mas_baloncesto/de-padres-a-hijas-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:30 [María López-Escobar, abogada de herencias: "Si no hay testamento, los sobrinos pueden heredar de los tíos pero se aplica la sucesión intestada"](https://www.elperiodico.com/es/economia/20260814/maria-lopez-escobar-abogada-herencias-tios-sobrinos-dv-et-133365266)<br>
+16:18 [Declarado un incendio forestal en Collserola](https://www.elperiodico.com/es/barcelona/20260814/incendio-forestal-collserola-133365742)<br>
+16:15 [El refugio de Salva Reina y Kira Miró en Aragón: un precioso municipio con una fiesta popular única en toda España](https://www.elperiodico.com/es/gente/20260814/refugio-aragon-salva-reina-kira-miro-dv-et-133335213)<br>
+16:08 [Catalunya extiende el programa para detectar dificultades de aprendizaje a los alumnos de quinto de primaria](https://www.elperiodico.com/es/sociedad/20260814/catalunya-extiende-programa-detectar-dificultades-133365422)<br>
+16:04 [Al menos un muerto y una cuarentena de heridos en Croacia por un incendio en la costa](https://www.elperiodico.com/es/internacional/20260814/muerto-cuarentena-heridos-croacia-incendio-133365588)<br>
+16:00 [Sandra Gonfaus, especialista en gordofobia: “Cuando cuelgas una dieta en la nevera, le estás diciendo a una criatura que algo no está bien”](https://www.elperiodico.com/es/educacion/20260814/gordofobia-dieta-nevera-ninos-crianza-samanta-villar-131023029)<br>
+15:54 [Descubren un extraño objeto que parece una estrella, pero esconde un agujero negro](https://www.elperiodico.com/es/tendencias21/20260814/descubren-extrano-objeto-parece-estrella-133365331)<br>
 15:30 [El ébola se extiende a una sexta provincia en la RD del Congo, según la Unión Africana](https://www.elperiodico.com/es/internacional/20260814/ebola-extiende-sexta-provincia-rd-congo-133364639)<br>
 15:23 [Irene Ferrero, escritora: "¿Hay que trabajar 40 horas a la semana durante 40 años?"](https://www.elperiodico.com/es/ocio-y-cultura/20260814/irene-ferrero-escritora-trabajar-40-horas-semana-40-anos-entrevista-133364319)<br>
 15:12 [Muere a los 33 años Prichard Colón, el boxeador que quedó en silla de ruedas por los golpes ilegales de su rival durante una pelea](https://www.elperiodico.com/es/deportes/20260814/muere-33-anos-prichard-colon-boxeador-lesion-golpes-ilegales-dv-133364010)<br>
