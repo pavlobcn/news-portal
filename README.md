@@ -1,8 +1,9 @@
-# News for 2026-08-15 17:35
+# News for 2026-08-15 18:24
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+17:52 [На Одещині у морі знайшли тіло 14-річного підлітка](https://ua.korrespondent.net/ukraine/4903175-na-odeschyni-u-mori-znaishly-tilo-14-richnoho-pidlitka)<br>
 17:30 [У Львові вибух акумулятора пробив стіну між квартирами](https://ua.korrespondent.net/city/lvov/4903171-u-lvovi-vybukh-akumuliatora-probyv-stinu-mizh-kvartyramy)<br>
 16:37 [У Німеччині рівень води в Рейні оновив рекордний мінімум](https://ua.korrespondent.net/world/4903163-u-nimechchyni-riven-vody-v-reini-onovyv-rekordnyi-minimum)<br>
 15:48 [ПриватБанк відновив роботу сервісів після збою](https://ua.korrespondent.net/business/companies/4903159-pryvatbank-vidnovyv-robotu-servisiv-pislia-zboui)<br>
@@ -21,6 +22,8 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 01:29 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
 ## as.com
+17:52 [Alemania - España, en directo: amistoso de preparación para el Mundial de baloncesto femenino 2026 en vivo, hoy](https://as.com/baloncesto/mas_baloncesto/alemania-espana-en-directo-amistoso-de-preparacion-para-el-mundial-de-baloncesto-femenino-2026-en-vivo-hoy-f202608-d/)<br>
+17:42 [España firma una exhibición histórica ante Bulgaria](https://as.com/baloncesto/mas_baloncesto/espana-firma-una-exhibicion-historica-ante-bulgaria-f202608-n/)<br>
 11:51 [Oficial: el Real Madrid ficha a Olivier Sarr para reforzar su juego interior](https://as.com/baloncesto/acb/oficial-el-real-madrid-ficha-a-olivier-sarr-para-reforzar-su-juego-interior-f202608-n/)<br>
 08:37 [¿Quién es Max Shulga? La curiosa historia del nuevo fichaje del Real Madrid](https://as.com/baloncesto/acb/quien-es-max-shulga-la-curiosa-historia-del-nuevo-fichaje-del-real-madrid-f202608-n/)<br>
 07:58 [Maite Cazorla: “Soy una líder silenciosa, que lidera con el ejemplo”](https://as.com/baloncesto/mas_baloncesto/maite-cazorla-soy-una-lider-silenciosa-que-lidera-con-el-ejemplo-f202608-n/)<br>
@@ -30,6 +33,11 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:20 [José: "Tengo 83 años y entreno fuerza. La única gimnasia que había hecho en mi vida la hice en la mili"](https://www.elperiodico.com/es/vida-y-estilo/20260815/jose-83-anos-entreno-fuerza-gimnasia-dv-et-133197832)<br>
+18:16 [Un hombre resulta herido grave en un accidente de parapente en Arbolí (Baix Camp)](https://www.elperiodico.com/es/sucesos/20260815/herido-grave-accidente-parapente-arboli-baix-camp-133391669)<br>
+18:06 [Cuatro detenidos en Vizcaya acusados de agredir sexualmente a una menor de 14 años](https://www.elperiodico.com/es/sucesos/20260815/cuatro-detenidos-vizcaya-acusados-agredir-sexualmente-menor-133391543)<br>
+18:00 [¿Fiestas abstemias? El coto al alcohol gana terreno en las fiestas de Gràcia para frenar el jolgorio nocturno](https://www.elperiodico.com/es/barcelona/20260815/coto-alcohol-fiestas-gracia-barras-calles-bares-133339871)<br>
+17:53 [Los Mossos detienen a un hombre acusado de delitos de tráfico de drogas y explotación sexual cometidos en 2025](https://www.elperiodico.com/es/sociedad/20260815/mossos-detienen-hombre-acusado-delitos-trafico-drogas-explotacion-sexual-133391182)<br>
 17:18 [La tormenta deja granizo e inundaciones en Catalunya y amenaza con más afectaciones esta tarde](https://www.elperiodico.com/es/sociedad/20260815/tormenta-deja-granizo-inundaciones-catalunya-133389854)<br>
 17:07 [La otra cara del terremoto en Colombia: una comunidad aislada que clama la llegada del Estado](https://www.elperiodico.com/es/videos/internacional/cara-terremoto-colombia-comunidad-aislada/133390316.shtml)<br>
 16:20 [Pere Vallès, experto en viajes, sobre los cruceros: "Es una experiencia 'World Disney', estás metido en un sitio donde hay fiestas, comida 24 horas al día, la piscina..."](https://www.elperiodico.com/es/economia/20260815/cruceros-turismo-experiencia-disney-comida-fiesta-ciudades-experto-viajes-pere-valles-dv-et-133143300)<br>
