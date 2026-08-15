@@ -1,8 +1,10 @@
-# News for 2026-08-15 13:23
+# News for 2026-08-15 14:01
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+13:55 [Угорщина почала топити кораблі, щоб врятувати АЕС](https://ua.korrespondent.net/world/4903146-uhorschyna-pochala-topyty-korabli-schob-vriatuvaty-aes)<br>
+13:27 [В Ормузькій протоці атакували черговий танкер ОАЕ](https://ua.korrespondent.net/world/4903143-v-ormuzkii-prototsi-atakuvaly-cherhovyi-tanker-oae)<br>
 12:12 [Збій у ПриватБанк: українці масово не можуть оплатити покупки](https://ua.korrespondent.net/business/financial/4903133-zbii-u-pryvatbank-ukraintsi-masovo-ne-mozhut-oplatyty-pokupky)<br>
 11:52 [У центрі України стався землетрус](https://ua.korrespondent.net/ukraine/4903128-u-tsentri-ukrainy-stavsia-zemletrus)<br>
 11:05 [У Польщі знайшли моторошне поховання дівчини](https://ua.korrespondent.net/tech/science/4903117-u-polschi-znaishly-motoroshne-pokhovannia-divchyny)<br>
@@ -22,6 +24,10 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+14:00 [Virginia y Andrea huyeron de la ciudad para reformar la casa de sus antepasados: "El motor principal para venir aquí fue la despoblación y el no permitir que se pierda nuestro legado, tanto familiar como cultural y patrimonial"](https://www.elperiodico.com/es/economia/20260815/huyeron-ciudad-reformar-casa-antepasados-asturias-pareja-virginia-andrea-dv-et-133338216)<br>
+13:58 [Unos obreros encuentran lingotes y monedas de oro en una construcción en Bélgica: la policía pide a los cazadores de tesoros que se alejen](https://www.elperiodico.com/es/sociedad/20260815/obreros-encuentran-lingotes-oro-construccion-belgica-policia-cazadores-tesoros-133386127)<br>
+13:40 ["No es de extrañar que este pueblo pesquero haya servido durante mucho tiempo de fuente de inspiración para artistas como Dalí, Miró y Duchamp": así definen a uno de los lugares más bonitos de la Tierra cerca de Barcelona](https://www.elperiodico.com/es/catalunya/20260815/cadaques-pueblo-pescadores-dali-miro-arte-revista-viajes-dv-loc-133233624)<br>
+13:29 [Hallado muerto un exprofesor de Cambridge implicado en un escándalo de plagio](https://www.elperiodico.com/es/sociedad/20260815/hallado-muerto-exprofesor-cambridge-implicado-plagio-133385664)<br>
 13:15 [David y Rocío lo dejaron todo para mantener vivos los oficios: "No entiendo la vida sin el pueblo. Aquí se han criado mis padres, mis abuelos..."](https://www.elperiodico.com/es/economia/20260815/david-rocio-pueblo-cantabria-oficio-extincion-herrero-ganadera-dv-et-133167460)<br>
 13:01 [La cultura popular catalana desembarca en Estocolmo con más de 1.200 representantes](https://www.elperiodico.com/es/videos/ocio-y-cultura/cultura-popular-catalana-desembarca-estocolmo/133385373.shtml)<br>
 12:48 [Pedro Botero era de Sant Quintí](https://www.elperiodico.com/es/opinion/20260815/pedro-botero-sant-quinti-mediona-articulo-sergi-sol-133384503)<br>
