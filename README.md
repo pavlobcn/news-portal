@@ -1,8 +1,9 @@
-# News for 2026-08-15 11:20
+# News for 2026-08-15 12:02
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+11:52 [У центрі України стався землетрус](https://ua.korrespondent.net/ukraine/4903128-u-tsentri-ukrainy-stavsia-zemletrus)<br>
 11:05 [У Польщі знайшли моторошне поховання дівчини](https://ua.korrespondent.net/tech/science/4903117-u-polschi-znaishly-motoroshne-pokhovannia-divchyny)<br>
 07:45 [Індонезію струснув потужний землетрус](https://ua.korrespondent.net/world/4903089-indoneziui-strusnuv-potuzhnyi-zemletrus)<br>
 06:35 [Росіяни вдарили по Марганцю: загинув тримісячний хлопчик](https://ua.korrespondent.net/ukraine/4903080-rosiiany-vdaryly-po-marhantsui-zahynuv-trymisiachnyi-khlopchyk)<br>
@@ -11,6 +12,7 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 01:29 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
 ## as.com
+11:51 [Oficial: el Real Madrid ficha a Olivier Sarr para reforzar su juego interior](https://as.com/baloncesto/acb/oficial-el-real-madrid-ficha-a-olivier-sarr-para-reforzar-su-juego-interior-f202608-n/)<br>
 08:37 [¿Quién es Max Shulga? La curiosa historia del nuevo fichaje del Real Madrid](https://as.com/baloncesto/acb/quien-es-max-shulga-la-curiosa-historia-del-nuevo-fichaje-del-real-madrid-f202608-n/)<br>
 07:58 [Maite Cazorla: “Soy una líder silenciosa, que lidera con el ejemplo”](https://as.com/baloncesto/mas_baloncesto/maite-cazorla-soy-una-lider-silenciosa-que-lidera-con-el-ejemplo-f202608-n/)<br>
 07:51 [Así está la plantilla del Barça para la temporada 2026-27: una reconstrucción profunda](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-barca-para-la-temporada-2026-27-shengelia-la-gran-duda-f202607-n/)<br>
@@ -19,6 +21,13 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+12:00 [El AMB defiende a la incineradora de Sant Adrià ante su próximo juicio: “Tersa no contamina”](https://www.elperiodico.com/es/barcelona/20260815/incineradora-tersa-sant-adria-contaminacion-amb-defiende-133344449)<br>
+12:00 [El área de Barcelona se reta a que la basura que arde en la incineradora de Tersa se reduzca hasta un 75% en 2035](https://www.elperiodico.com/es/barcelona/20260815/incineradora-tersa-sant-adria-barcelona-futuro-basura-133322999)<br>
+11:55 [Catalunya activa la alerta por lluvias y tormentas este sábado: estas son las zonas más afectadas](https://www.elperiodico.com/es/sociedad/20260815/alerta-lluvias-tormentas-catalunya-sabado-133357915)<br>
+11:48 [Se hace camino al parar](https://www.elperiodico.com/es/opinion/20260815/camino-parar-133381166)<br>
+11:41 [La Alhambra abre al público después de inspeccionar el monumento tras el terremoto de Granada](https://www.elperiodico.com/es/sociedad/20260815/alhambra-abre-publico-terremoto-granada-133383533)<br>
+11:36 [España sitúa 30 universidades en la lista de Shanghái 2026, seis menos que el año pasado](https://www.elperiodico.com/es/sociedad/20260815/espana-situa-30-universidades-lista-133383495)<br>
+11:27 [La cultura popular catalana desembarca en Estocolmo con más de 1.200 representantes](https://www.elperiodico.com/es/ocio-y-cultura/20260815/cultura-popular-catalana-desembarca-estocolmo-133382250)<br>
 11:13 [Cuatro detenidos de un clan familiar por un tiroteo en Valencia](https://www.elperiodico.com/es/sucesos/20260815/cuatro-detenidos-clan-familiar-tiroteo-133383014)<br>
 11:01 [El tiempo en las Fiestas de Gràcia 2026: calor intenso y tormentas a la vista](https://www.elperiodico.com/es/barcelona/20260815/fiestas-gracia-2026-calor-tormentas-barcelona-133354736)<br>
 10:41 [Marruecos frustra el intento de alcanzar Ceuta de cientos de migrantes subsaharianos](https://www.elperiodico.com/es/sociedad/20260815/marruecos-frustra-alcanzar-ceuta-cientos-133382123)<br>
