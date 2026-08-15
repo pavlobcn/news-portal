@@ -1,4 +1,4 @@
-# News for 2026-08-15 18:24
+# News for 2026-08-15 18:56
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
@@ -33,6 +33,8 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+18:38 [Los bomberos de Madrid cumplen con la tradición al bajar el cuadro de la Virgen de la Paloma](https://www.elperiodico.com/es/videos/sociedad/bomberos-madrid-cumplen-tradicion-bajar/133392311.shtml)<br>
+18:38 [Una treintena de estaciones de Rodalies concentran diversas obras a cargo de Adif y Renfe](https://www.elperiodico.com/es/trafico-y-transportes/20260815/treintena-estaciones-rodalies-concentran-diversas-obras-cargo-adif-renfe-133392157)<br>
 18:20 [José: "Tengo 83 años y entreno fuerza. La única gimnasia que había hecho en mi vida la hice en la mili"](https://www.elperiodico.com/es/vida-y-estilo/20260815/jose-83-anos-entreno-fuerza-gimnasia-dv-et-133197832)<br>
 18:16 [Un hombre resulta herido grave en un accidente de parapente en Arbolí (Baix Camp)](https://www.elperiodico.com/es/sucesos/20260815/herido-grave-accidente-parapente-arboli-baix-camp-133391669)<br>
 18:06 [Cuatro detenidos en Vizcaya acusados de agredir sexualmente a una menor de 14 años](https://www.elperiodico.com/es/sucesos/20260815/cuatro-detenidos-vizcaya-acusados-agredir-sexualmente-menor-133391543)<br>
