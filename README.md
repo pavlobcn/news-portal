@@ -1,8 +1,9 @@
-# News for 2026-08-15 10:43
+# News for 2026-08-15 11:20
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+11:05 [У Польщі знайшли моторошне поховання дівчини](https://ua.korrespondent.net/tech/science/4903117-u-polschi-znaishly-motoroshne-pokhovannia-divchyny)<br>
 07:45 [Індонезію струснув потужний землетрус](https://ua.korrespondent.net/world/4903089-indoneziui-strusnuv-potuzhnyi-zemletrus)<br>
 06:35 [Росіяни вдарили по Марганцю: загинув тримісячний хлопчик](https://ua.korrespondent.net/ukraine/4903080-rosiiany-vdaryly-po-marhantsui-zahynuv-trymisiachnyi-khlopchyk)<br>
 03:59 [Аномальна спека: в Німеччині зафіксували рекордну смертність](https://ua.korrespondent.net/world/4903071-anomalna-speka-v-nimechchyni-zafiksuvaly-rekordnu-smertnist)<br>
@@ -18,6 +19,8 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+11:13 [Cuatro detenidos de un clan familiar por un tiroteo en Valencia](https://www.elperiodico.com/es/sucesos/20260815/cuatro-detenidos-clan-familiar-tiroteo-133383014)<br>
+11:01 [El tiempo en las Fiestas de Gràcia 2026: calor intenso y tormentas a la vista](https://www.elperiodico.com/es/barcelona/20260815/fiestas-gracia-2026-calor-tormentas-barcelona-133354736)<br>
 10:41 [Marruecos frustra el intento de alcanzar Ceuta de cientos de migrantes subsaharianos](https://www.elperiodico.com/es/sociedad/20260815/marruecos-frustra-alcanzar-ceuta-cientos-133382123)<br>
 10:39 [Última hora del volcán Etna y Kilauea en erupción, en directo](https://www.elperiodico.com/es/internacional/20260815/volcan-etna-kilauea-erupcion-ultima-hora-directo-133350394)<br>
 10:36 [Noche de tensión en Granada por el fuerte terremoto: desalojos y atención a los vecinos asustados por el seísmo](https://www.elperiodico.com/es/sociedad/20260815/noche-tension-granada-fuerte-terremoto-133381968)<br>
