@@ -1,8 +1,9 @@
-# News for 2026-08-15 16:12
+# News for 2026-08-15 16:44
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+15:48 [ПриватБанк відновив роботу сервісів після збою](https://ua.korrespondent.net/business/companies/4903159-pryvatbank-vidnovyv-robotu-servisiv-pislia-zboui)<br>
 15:27 [Землетрус в Індонезії: загинули десятки людей](https://ua.korrespondent.net/world/4903157-zemletrus-v-indonezii-zahynuly-desiatky-luidei)<br>
 15:05 [Nvidia придбала акції SpaceX на понад $20 млрд](https://ua.korrespondent.net/business/companies/4903155-Nvidia-prydbala-aktsii-SpaceX-na-ponad-20-mlrd)<br>
 14:22 [Поліція розслідує обставини побиття хлопчика на Київщині](https://ua.korrespondent.net/ukraine/4903151-politsiia-rozsliduie-obstavyny-pobyttia-khlopchyka-na-kyivschyni)<br>
@@ -27,6 +28,7 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+16:20 [Pere Vallès, experto en viajes, sobre los cruceros: "Es una experiencia 'World Disney', estás metido en un sitio donde hay fiestas, comida 24 horas al día, la piscina..."](https://www.elperiodico.com/es/economia/20260815/cruceros-turismo-experiencia-disney-comida-fiesta-ciudades-experto-viajes-pere-valles-dv-et-133143300)<br>
 16:02 [Lorca y los hombres de la Residencia: el búnker donde aprendió a camuflar su deseo bajo reglas masculinas](https://www.elperiodico.com/es/ocio-y-cultura/20260815/lorca-hombres-residencia-bunker-estudiantes-madrid-133335452)<br>
 16:00 [Las piscinas de Barcelona viven un verano de multitudes y 'sold-out' por las continuas olas de calor: "Es la única salvación"](https://www.elperiodico.com/es/sociedad/20260815/piscinas-barcelona-verano-multitudes-aforos-completos-olas-de-calor-133287940)<br>
 16:00 ["Siempre llegamos a primera hora": colas de hasta 45 minutos en la piscina más económica y familiar de Barcelona](https://www.elperiodico.com/es/barcelona/20260815/piscina-municipal-llac-de-la-creueta-del-coll-barrio-el-coll-colas-aforo-lleno-133260126)<br>
