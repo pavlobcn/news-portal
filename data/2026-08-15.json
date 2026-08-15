@@ -1,5 +1,68 @@
 [
   {
+    "title": "Un bombero de Aragón, desde el fuego de Huesca: \"El comportamiento del fuego lo hace imparable\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/bombero-aragon-incendio-huesca-imparable-133393353",
+    "pubDate": "2026-08-15 19:29:30",
+    "category": "",
+    "description": "<h2>Los efectivos luchan contra un incendio de gran virulencia que arrasa San Juan de la Peña desde el pasado lunes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump asegura que declarará el estrecho de Ormuz \"territorio de EEUU\" tras \"derrotar a Irán\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-asegura-declarara-estrecho-ormuz/133393248.shtml",
+    "pubDate": "2026-08-15 19:27:58",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un bronce que sabe a oro",
+    "link": "https://as.com/baloncesto/mas_baloncesto/un-bronce-que-sabe-a-oro-f202608-n/",
+    "pubDate": "2026-08-15 19:26:45",
+    "category": "Baloncesto",
+    "description": "La Sub-16 masculina se repone de la dura derrota frente a Letonia y supera a Lituania en un partido que controlaron primero, pero en el que sufrieron mucho al final. Otra medalla para las categorías.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Peña Oroel, Anzánigo y Centenero concentran medios en el incendio de Riglos (Huesca) con condiciones \"nada favorables\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/pena-oroel-anzanigo-centenero-concentran-medios-incendio-riglos-condiciones-133393147",
+    "pubDate": "2026-08-15 19:24:52",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260815/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" target=\"_blank\">Incendios forestales en Catalunya y resto de España, en directo: una semana del fuego de Niebla (Huelva)</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Дніпропетровщині 17 поранених через атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4903186-na-dnipropetrovschyni-17-poranenykh-cherez-ataky-rf",
+    "pubDate": "2026-08-15 19:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529570.jpg\">Найбільше постраждалих у Нікополі, де рашисти атакували підприємство, ринок і рейсовий автобус.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Manolo González presume de continuar en el Espanyol: \"Aquí los entrenadores duraban menos que un caramelo en la puerta de un colegio\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260815/manolo-gonzalez-presume-continuar-espanyol-133392008",
+    "pubDate": "2026-08-15 19:11:27",
+    "category": "",
+    "description": "<h2>El técnico blanquiazul afirma que el primer objetivo del equipo, que recibe al Levante (19  h.) en el estreno de la Liga, es \"conseguir la salvación lo más rápido posible\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Українські рятувальники повернулися з Франції",
+    "link": "https://ua.korrespondent.net/ukraine/4903182-ukrainski-riatuvalnyky-povernulysia-z-frantsii",
+    "pubDate": "2026-08-15 18:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529547.jpg\">Це була перша місія української команди з надання допомоги державі – члену ЄС в межах Механізму цивільного захисту Євросоюзу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los bomberos de Madrid cumplen con la tradición al bajar el cuadro de la Virgen de la Paloma",
     "link": "https://www.elperiodico.com/es/videos/sociedad/bomberos-madrid-cumplen-tradicion-bajar/133392311.shtml",
     "pubDate": "2026-08-15 18:38:26",
