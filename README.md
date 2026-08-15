@@ -1,7 +1,8 @@
-# News for 2026-08-15 03:45
+# News for 2026-08-15 04:20
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+03:59 [Аномальна спека: в Німеччині зафіксували рекордну смертність](https://ua.korrespondent.net/world/4903071-anomalna-speka-v-nimechchyni-zafiksuvaly-rekordnu-smertnist)<br>
 01:33 [Погода на вихідні: в Україні очікується повернення спеки до +35°](https://ua.korrespondent.net/ukraine/4903059-pohoda-na-vykhidni-v-ukraini-ochikuietsia-povernennia-speky-do-35)<br>
 01:29 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
