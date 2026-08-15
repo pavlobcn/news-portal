@@ -1,8 +1,9 @@
-# News for 2026-08-15 19:40
+# News for 2026-08-15 20:42
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+20:10 [У центрі Дніпра сталася стрілянина](https://ua.korrespondent.net/city/dnepr/4903192-u-tsentri-dnipra-stalasia-strilianyna)<br>
 18:56 [Українські рятувальники повернулися з Франції](https://ua.korrespondent.net/ukraine/4903182-ukrainski-riatuvalnyky-povernulysia-z-frantsii)<br>
 17:52 [На Одещині у морі знайшли тіло 14-річного підлітка](https://ua.korrespondent.net/ukraine/4903175-na-odeschyni-u-mori-znaishly-tilo-14-richnoho-pidlitka)<br>
 17:30 [У Львові вибух акумулятора пробив стіну між квартирами](https://ua.korrespondent.net/city/lvov/4903171-u-lvovi-vybukh-akumuliatora-probyv-stinu-mizh-kvartyramy)<br>
@@ -35,6 +36,9 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+20:34 [Muere una mujer que había sido rescatada tras 36 horas bajo los escombros en Colombia](https://www.elperiodico.com/es/internacional/20260815/muere-mujer-habia-sido-rescatada-horas-bajo-escombros-terremoto-colombia-133394177)<br>
+20:25 [Las tormentas se ceban con el interior de la Comunidad Valenciana: ramblas crecidas tras 186,2 l/m² en Bejís y rachas de 100 km/h en Torás](https://www.elperiodico.com/es/sociedad/20260815/tormentas-granizo-lluvias-torrenciales-castellon-133394100)<br>
+20:15 [La Ley de Propiedad Horizontal te protege: si te toca ser presidente de la comunidad y tienes más de 70 años puedes pedir que te releven](https://www.elperiodico.com/es/economia/20260815/ley-propiedad-horizontal-protege-tienes-mas-de-70-anos-relevo-presidente-dv-et-133216091)<br>
 19:29 [Un bombero de Aragón, desde el fuego de Huesca: "El comportamiento del fuego lo hace imparable"](https://www.elperiodico.com/es/sociedad/20260815/bombero-aragon-incendio-huesca-imparable-133393353)<br>
 19:24 [Peña Oroel, Anzánigo y Centenero concentran medios en el incendio de Riglos (Huesca) con condiciones "nada favorables"](https://www.elperiodico.com/es/sociedad/20260815/pena-oroel-anzanigo-centenero-concentran-medios-incendio-riglos-condiciones-133393147)<br>
 18:38 [Los bomberos de Madrid cumplen con la tradición al bajar el cuadro de la Virgen de la Paloma](https://www.elperiodico.com/es/videos/sociedad/bomberos-madrid-cumplen-tradicion-bajar/133392311.shtml)<br>
