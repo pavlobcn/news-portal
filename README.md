@@ -1,4 +1,4 @@
-# News for 2026-08-15 22:15
+# News for 2026-08-15 23:03
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
@@ -38,6 +38,8 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+22:38 [Artés (Barcelona), la localidad catalana con más lluvia este sábado](https://www.elperiodico.com/es/tiempo/20260815/artes-barcelona-localidad-catalana-lluvia-sabado-133396295)<br>
+22:19 [Vídeo: Bejís supera los 140 litros por metro cuadrado tras una tarde de fuertes tormentas](https://www.elperiodico.com/es/videos/sociedad/video-bejis-supera-140-litros-metro-cuadrado/133396073.shtml)<br>
 21:06 [Varias personas desaparecidas tras una riada en Ponferrada](https://www.elperiodico.com/es/sociedad/20260815/riada-manzanedo-valdueza-leon-desaparecidos-133394788)<br>
 20:34 [Muere una mujer que había sido rescatada tras 36 horas bajo los escombros en Colombia](https://www.elperiodico.com/es/internacional/20260815/muere-mujer-habia-sido-rescatada-horas-bajo-escombros-terremoto-colombia-133394177)<br>
 20:25 [Las tormentas se ceban con el interior de la Comunidad Valenciana: ramblas crecidas tras 186,2 l/m² en Bejís y rachas de 100 km/h en Torás](https://www.elperiodico.com/es/sociedad/20260815/tormentas-granizo-lluvias-torrenciales-castellon-133394100)<br>
