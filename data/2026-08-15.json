@@ -1,5 +1,122 @@
 [
   {
+    "title": "María Pérez, tras conquistar el oro: \"Es un orgullo llegar hasta aquí\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260815/maria-perez-conquistar-oro-orgullo-133382704",
+    "pubDate": "2026-08-15 11:16:55",
+    "category": "",
+    "description": "<h2>La granadina se colgó la medalla de oro en la media maratón de marcha de los Europeos de Birmingham</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un español sufre un accidente en China y alucina con lo que le pasa en el hospital: \"Estoy flipando\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/espanol-sufre-accidente-china-hospital-atencion-medica-dv-et-133354671",
+    "pubDate": "2026-08-15 11:15:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El creador de contenido describe cómo fue su experiencia con la atención médica en China</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Cuatro detenidos de un clan familiar por un tiroteo en Valencia",
+    "link": "https://www.elperiodico.com/es/sucesos/20260815/cuatro-detenidos-clan-familiar-tiroteo-133383014",
+    "pubDate": "2026-08-15 11:13:14",
+    "category": "",
+    "description": "<h2>Durante el registro del turismo, la Policía halló el material utilizado presuntamente en el tiroteo: dos escopetas, un fusil de largo alcance, un revólver y numerosa munición</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El mítico bar de Barcelona que ya está en la historia del cine",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260815/bar-barcelona-marsella-rodajes-cine-television-dv-loc-93722231",
+    "pubDate": "2026-08-15 11:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Hablamos con el encargado del Bar Marsella sobre los muchos rodajes de cine, televisión y publicidad que han tenido lugar en el local</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260410/buenos-restaurantes-barcelona-bistro-piropo-colmado-carpanta-superauto-128828711\">3 buenos restaurantes de Barcelona para el fin de semana: Bistró Piropo, Colmado Carpanta y Superauto</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240715/barcelona-5-mejores-restaurantes-tripadvisor-dv-loc-105546315\" >Los 5 mejores restaurantes de Barcelona, según Tripadvisor</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El pueblo de Estana regula el acceso de vehículos para los que suban a Prat de Cadí",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/estana-regula-acceso-vehiculos-prat-de-cadi-cerdanya-133382384",
+    "pubDate": "2026-08-15 11:05:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Estacionar en el aparcamiento del pueblo, con un aforo máximo de 80 vehículos, costará 5 euros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "У Польщі знайшли моторошне поховання дівчини",
+    "link": "https://ua.korrespondent.net/tech/science/4903117-u-polschi-znaishly-motoroshne-pokhovannia-divchyny",
+    "pubDate": "2026-08-15 11:05:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529269.jpg\">Археологічна загадка: нові дослідження довели, що давню могилу повторно розкрили всього за кілька днів після того, як провели первинний ритуал поховання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Де Йонг відреагував на розмови про свій можливий трансфер",
+    "link": "https://ua.korrespondent.net/sport/football/4903121-de-yonh-vidreahuvav-na-rozmovy-pro-svii-mozhlyvyi-transfer",
+    "pubDate": "2026-08-15 11:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529280.jpg\">Півзахисник Барселони Де Йонг заявив, що хибні чутки в пресі шкодять його репутації.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Marruecos frustra el intento de cientos de migrantes subsaharianos de alcanzar Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/marruecos-frustra-cientos-migrantes-subsaharianos/133382602.shtml",
+    "pubDate": "2026-08-15 11:01:51",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El tiempo en las Fiestas de Gràcia 2026: calor intenso y tormentas a la vista",
+    "link": "https://www.elperiodico.com/es/barcelona/20260815/fiestas-gracia-2026-calor-tormentas-barcelona-133354736",
+    "pubDate": "2026-08-15 11:01:00",
+    "category": "",
+    "description": "<h2>Barcelona afrontará unas fiestas marcadas por el bochorno, aunque la previsión apunta a posibles chubascos y tormentas</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260813/metro-barcelona-67-horas-festes-gracia-2026-133292488\" >Cambios en el transporte público por las Fiestas de Gràcia: horario del metro y autobús</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260813/fiestas-gracia-2026-cortes-calles-transporte-133336038\" >Afectaciones al tráfico y a la movilidad por las fiestas de Gràcia 2026: cortes de calles y fechas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Julio Iglesias pone a la venta su mansión de Galicia: su valor podría llegar a rondar los cuatro millones de euros",
+    "link": "https://www.elperiodico.com/es/gente/20260815/julio-iglesias-vende-mansion-galicia-ourense-dv-et-133363497",
+    "pubDate": "2026-08-15 11:00:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El cantante adquirió hace alrededor de un año esta propiedad de 16.000 metros cuadrados en Ourense, muy cerca del lugar donde nació su padre, pero finalmente nunca llegó a instalarse en ella</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260114/casita-terror-julio-iglesias-punta-125669526\">Julio Iglesias pone a la venta su mansión de Galicia: su valor podría llegar a rondar los cuatro millones de euros</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El rincón costero al que siempre regresa Silvia Intxaurrondo cuando se apagan los focos",
+    "link": "https://www.elperiodico.com/es/gente/20260815/silvia-intxaurrondo-montes-de-hierro-santurtzi-vacaciones-vizcaya-dv-133236533",
+    "pubDate": "2026-08-15 11:00:11",
+    "category": "",
+    "description": "<h2 class=\"item\">La periodista ha regresado a su lugar de trabajo tras varias semanas de descanso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/yotele/20260810/silvia-intxaurrondo-reaparece-tve-cargando-contra-atico-ayuso-todos-sabemos-respuesta-133230865\" >Silvia Intxaurrondo reaparece en TVE cargando contra el ático de Ayuso: “Todos sabemos la respuesta”</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260810/silvia-intxaurrondo-periodista-vida-privada-madre-dragones-hijos-marido-libro-dv-et-133170783\" >\"Madre de dragones\": el lado más personal y desconocido de Silvia Intxaurrondo tras las cámaras</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "ЗСУ вдарили по цілях у Росії на відстані до 900 км",
+    "link": "https://ua.korrespondent.net/ukraine/4903123-zsu-vdaryly-po-tsiliakh-u-rosii-na-vidstani-do-900-km",
+    "pubDate": "2026-08-15 10:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529281.png\">Зеленський повідомив про нові результати далекобійних ударів по військових та стратегічних об'єктах Росії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Мбаппе висловився про Моуріньо та амбітні плани Реала",
+    "link": "https://ua.korrespondent.net/sport/football/4903115-mbappe-vyslovyvsia-pro-mourino-ta-ambitni-plany-reala",
+    "pubDate": "2026-08-15 10:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529270.jpg\">Форвард Реала Мбаппе відзначив переможний менталітет Моурінью та анонсував успішний сезон.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Marruecos frustra el intento de alcanzar Ceuta de cientos de migrantes subsaharianos",
     "link": "https://www.elperiodico.com/es/sociedad/20260815/marruecos-frustra-alcanzar-ceuta-cientos-133382123",
     "pubDate": "2026-08-15 10:41:16",
@@ -7,6 +124,15 @@
     "description": "<h2>El incidente se registró en una zona montañosa, en las afueras de Castillejos y al suroeste de Ceuta</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "На Запоріжжі росіяни атакували комбайн у полі: є поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4903116-na-zaporizhzhi-rosiiany-atakuvaly-kombain-u-poli-ye-poraneni",
+    "pubDate": "2026-08-15 10:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529268.jpg\">Поранення  отримали  чоловіки  30 та 32 років. Їм  надається  уся необхідна медична допомога.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Última hora del volcán Etna y Kilauea en erupción, en directo",
@@ -34,6 +160,15 @@
     "description": "<h2>Los parques y el pabellón deportivo municipales se convierten en puntos de encuentro para los vecinos de Armilla por temor a réplicas</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Брала гроші за \"евакуацію\" зниклих воїнів: псевдоволонтерка отримала вирок",
+    "link": "https://ua.korrespondent.net/ukraine/4903113-brala-hroshi-za-evakuatsiui-znyklykh-voiniv-psevdovolonterka-otrymala-vyrok",
+    "pubDate": "2026-08-15 10:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529256.jpg\">Загалом 42-річна мешканка Чернівців виманила в рідних зниклих захисників понад 75 тисяч гривень.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
   },
   {
     "title": "\"Furious\" y la sombra de \"Killing Eve\"",
@@ -72,6 +207,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Прев'ю 1-го туру Ла Ліги-2026/27: Атлетіко зустріне Малагу, що повернулась",
+    "link": "https://ua.korrespondent.net/sport/4902986-prevui-1-ho-turu-la-lihy-202627-atletiko-zustrine-malahu-scho-povernulas",
+    "pubDate": "2026-08-15 10:15:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528683.jpg\">BETKING, ліцензований беттінг-партнер проєкту, , пропонує анонс матчів першого туру чемпіонату Іспанії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "María Pérez y Paul McGrath se exhiben para lograr dos oros en media maratón",
     "link": "https://www.elperiodico.com/es/deportes/20260815/paul-mcgrath-maria-perez-campeones-133381490",
     "pubDate": "2026-08-15 10:14:44",
@@ -88,6 +232,15 @@
     "description": "<h2 class=\"item\">El profesor de la Universidad de Barcelona se encuentra actualmente de vacaciones en Japón</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Воррен зробив різку заяву про скасування бою Ф’юрі - Джошуа",
+    "link": "https://ua.korrespondent.net/sport/boks/4903110-vorren-zrobyv-rizku-zaiavu-pro-skasuvannia-boui-fuiri-dzhoshua",
+    "pubDate": "2026-08-15 10:10:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529244.jpg\">Френк Воррен заявив про відсутність гарантій щодо проведення бою Ф’юрі - Джошуа 20 листопада в Нью-Йорку.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Terremoto de 7,7 en la isla indonesia de Flores",
@@ -196,6 +349,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529234.jpg\">Авіаносець Abraham Lincoln уже понад 240 днів не заходив у порт, що стало рекордним показником для ВМС США.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Барселона спростовувала переговори щодо гравця Спортинга",
+    "link": "https://ua.korrespondent.net/sport/football/4903107-barselona-sprostovuvala-perehovory-schodo-hravtsia-sportynha",
+    "pubDate": "2026-08-15 09:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529233.jpg\">Пріоритет незаперечний: Барселона спростувала чутки щодо Спортинга і продовжує роботу над трансфером Альвареса.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Los modelos más icónicos de Fiat, la marca que democratizó la automoción en Italia",
