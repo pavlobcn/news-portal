@@ -1,4 +1,4 @@
-# News for 2026-08-15 10:02
+# News for 2026-08-15 10:43
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
@@ -18,6 +18,13 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+10:41 [Marruecos frustra el intento de alcanzar Ceuta de cientos de migrantes subsaharianos](https://www.elperiodico.com/es/sociedad/20260815/marruecos-frustra-alcanzar-ceuta-cientos-133382123)<br>
+10:39 [Última hora del volcán Etna y Kilauea en erupción, en directo](https://www.elperiodico.com/es/internacional/20260815/volcan-etna-kilauea-erupcion-ultima-hora-directo-133350394)<br>
+10:36 [Noche de tensión en Granada por el fuerte terremoto: desalojos y atención a los vecinos asustados por el seísmo](https://www.elperiodico.com/es/sociedad/20260815/noche-tension-granada-fuerte-terremoto-133381968)<br>
+10:23 [Un bombero y vecino de Huesca, sobre el incendio: "Nos hemos salvado por los pelos"](https://www.elperiodico.com/es/sociedad/20260815/incendio-huesca-nos-hemos-salvado-por-los-pelos-133381346)<br>
+10:10 [Gonzalo Bernardos, economista: "Con la creación de puestos de trabajos ficticios es más fácil tener una tasa de desempleo muy reducida; algo impensable en España"](https://www.elperiodico.com/es/economia/20260815/gonzalo-bernardos-economista-creacion-puestos-trabajos-ficticios-desempleo-espana-dv-et-133215901)<br>
+10:08 [Terremoto de 7,7 en la isla indonesia de Flores](https://www.elperiodico.com/es/videos/internacional/terremoto-7-7-isla-indonesia/133381375.shtml)<br>
+10:05 [Cambios en las pensiones de jubilación en agosto: algunos podrán cobrar hasta un 25% más cada mes](https://www.elperiodico.com/es/economia/20260815/cambios-pensiones-jubilacion-flexible-agosto-dv-133352264)<br>
 10:01 [Activan fase de emergencia en situación 1 por el terremoto de 5 grados de Granada, España](https://www.elperiodico.com/es/videos/sucesos/activan-fase-emergencia-situacion-1/133381298.shtml)<br>
 10:00 ["¿De verdad va bien la economía?"](https://www.elperiodico.com/es/opinion/20260815/economia-crecimiento-inflacion-pib-coste-de-la-vida-133370031)<br>
 10:00 ["Hay que vigilar que el bebé orine": más de 200 niños menores de 4 años han sufrido un golpe de calor este verano en Catalunya](https://www.elperiodico.com/es/sanidad/20260815/hay-vigilar-bebe-orine-200-133356992)<br>
