@@ -1,5 +1,86 @@
 [
   {
+    "title": "Muere una mujer que había sido rescatada tras 36 horas bajo los escombros en Colombia",
+    "link": "https://www.elperiodico.com/es/internacional/20260815/muere-mujer-habia-sido-rescatada-horas-bajo-escombros-terremoto-colombia-133394177",
+    "pubDate": "2026-08-15 20:34:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras sufrir una parada cardíaca y una infección, la víctima de 32 años deja un hijo de 12 años y su cuerpo será trasladado a Caldas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260814/terremoto-colombia-muertos-ultima-hora-directo-133239425\" target=\"_blank\">Terremoto en Colombia, en directo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El alemán Johannes Liebmann pulveriza el récord del mundo de los 1.500 de natación",
+    "link": "https://www.elperiodico.com/es/deportes/20260815/aleman-johannes-liebmann-pulveriza-record-133394123",
+    "pubDate": "2026-08-15 20:29:58",
+    "category": "",
+    "description": "<h2>El nadador alemán rompió la marca del estadounidense Bobby Finke en los JJOO de París</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las tormentas se ceban con el interior de la Comunidad Valenciana: ramblas crecidas tras 186,2 l/m² en Bejís y rachas de 100 km/h en Torás",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/tormentas-granizo-lluvias-torrenciales-castellon-133394100",
+    "pubDate": "2026-08-15 20:25:16",
+    "category": "",
+    "description": "<h2>Las lluvias torrenciales dejan más de 140 litros por metro cuadrado en Torás y fuertes crecidas en ramblas y barrancos, mientras el calor dispara la sensación térmica hasta los 45 grados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Ley de Propiedad Horizontal te protege: si te toca ser presidente de la comunidad y tienes más de 70 años puedes pedir que te releven",
+    "link": "https://www.elperiodico.com/es/economia/20260815/ley-propiedad-horizontal-protege-tienes-mas-de-70-anos-relevo-presidente-dv-et-133216091",
+    "pubDate": "2026-08-15 20:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">No es un derecho que se cumpla de forma automática, pero sí que juega en tu favor</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260520/ley-propiedad-horizontal-confirma-mayores-70-anos-vecinos-escaleras-ascensor-dv-130233499\">Confirmado por la Ley de Propiedad Horizontal : no hay que votar para arreglar las escaleras o el ascensor si hay mayores de 70 años entre los vecinos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У центрі Дніпра сталася стрілянина",
+    "link": "https://ua.korrespondent.net/city/dnepr/4903192-u-tsentri-dnipra-stalasia-strilianyna",
+    "pubDate": "2026-08-15 20:10:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529583.jpg\">Працівники кримінальної поліції встановили особи учасників події та розшукали всіх причетних.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una marcha en 'topless' recorrerá este domingo las calles de Zaragoza en apoyo a las mujeres de Afganistán",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/zaragoza-marcha-topless-recorrera-calles-apoyo-mujeres-afganistan-133393632",
+    "pubDate": "2026-08-15 20:02:03",
+    "category": "",
+    "description": "<h2>La marcha movilizará a 25 personas con torsos pintados como reclmao de la liberación de las mujeres afganas ante la pasividad internacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Barça exhibe su identidad y empata ante el Manchester City (2-2) tras una gran primera parte",
+    "link": "https://www.elperiodico.com/es/deportes/20260815/barca-exhibe-identidad-empata-manchester-133393616",
+    "pubDate": "2026-08-15 19:59:30",
+    "category": "",
+    "description": "<h2>El equipo de Pere Romeu se marchó 0-2 al descanso, con goles de Graham y Vicky, en una primera parte muy buena antes de que el nuevo contexto del encuentro propiciara el empate local</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Ліхтенштейні дозволили жінкам успадковувати престол",
+    "link": "https://ua.korrespondent.net/world/4903189-u-likhtenshteini-dozvolyly-zhinkam-uspadkovuvaty-prestol",
+    "pubDate": "2026-08-15 19:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529579.jpg\">Нові правила були схвалені двома третинами членів князівської сім'ї, які мають право голосу в таких питаннях.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Alba Petisco y Aitana Pacheco, quinta y sexta en las finales por aparatos del Europeo de gimnasia artística de Zagreb",
+    "link": "https://www.elperiodico.com/es/deportes/20260815/alba-petisco-aitana-pacheco-quinta-133393456",
+    "pubDate": "2026-08-15 19:44:05",
+    "category": "",
+    "description": "<h2>Este domingo se disputan las finales continentales por equipos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Un bombero de Aragón, desde el fuego de Huesca: \"El comportamiento del fuego lo hace imparable\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260815/bombero-aragon-incendio-huesca-imparable-133393353",
     "pubDate": "2026-08-15 19:29:30",
@@ -54,6 +135,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Шахтар підписав новий контракт з основним воротарем",
+    "link": "https://ua.korrespondent.net/sport/football/4903183-shakhtar-pidpysav-novyi-kontrakt-z-osnovnym-vorotarem",
+    "pubDate": "2026-08-15 19:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529558.jpg\">Дмитро Різник уклав новий договір з \"гірниками\", розрахований на наступні п'ять років.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Українські рятувальники повернулися з Франції",
     "link": "https://ua.korrespondent.net/ukraine/4903182-ukrainski-riatuvalnyky-povernulysia-z-frantsii",
     "pubDate": "2026-08-15 18:56:00",
@@ -79,6 +169,15 @@
     "description": "<h2 class=\"item\">La Generalitat impulsa la modernización de la red ferroviaria con obras en estaciones clave para mejorar la experiencia del usuario</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260814/govern-asume-colapso-rodalies-ver-eclipse-plazas-suficientes-vuelta-133351920\" target=\"_blank\">El Govern asume el \"colapso\" de Rodalies para ir a ver el eclipse y admite que la comunicación con los usuarios fue \"inadecuada\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар продовжив контракт з талановитим бразильцем",
+    "link": "https://ua.korrespondent.net/sport/football/4903173-shakhtar-prodovzhyv-kontrakt-z-talanovytym-brazyltsem",
+    "pubDate": "2026-08-15 18:38:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529530.jpg\">19-річний бразильський півзахисник підписав нову угоду з \"гірниками\" на п'ять років.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "España se proclama campeona del mundo de gimnasia rítmica tras una histórica actuación",
