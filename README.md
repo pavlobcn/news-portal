@@ -1,4 +1,4 @@
-# News for 2026-08-15 09:24
+# News for 2026-08-15 10:02
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
@@ -18,6 +18,11 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+10:01 [Activan fase de emergencia en situación 1 por el terremoto de 5 grados de Granada, España](https://www.elperiodico.com/es/videos/sucesos/activan-fase-emergencia-situacion-1/133381298.shtml)<br>
+10:00 ["¿De verdad va bien la economía?"](https://www.elperiodico.com/es/opinion/20260815/economia-crecimiento-inflacion-pib-coste-de-la-vida-133370031)<br>
+10:00 ["Hay que vigilar que el bebé orine": más de 200 niños menores de 4 años han sufrido un golpe de calor este verano en Catalunya](https://www.elperiodico.com/es/sanidad/20260815/hay-vigilar-bebe-orine-200-133356992)<br>
+09:52 [Cambio de tiempo radical en España: este sábado llega una dana con fuertes tormentas y descenso de las temperaturas](https://www.elperiodico.com/es/tiempo/20260815/dana-cambio-tiempo-radical-espana-tormentas-temperaturas-dv-133380914)<br>
+09:36 [Incendios forestales en Catalunya y resto de España, en directo: una semana del fuego de Niebla (Huelva)](https://www.elperiodico.com/es/sociedad/20260815/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839)<br>
 09:15 [Las mejores imágenes y vídeos del terremoto de Granada](https://www.elperiodico.com/es/sociedad/20260815/mejores-imagenes-videos-terremoto-granada-dv-133380514)<br>
 09:15 [Esta es una de las mejores playa de toda Catalunya: reconocida por National Geographic](https://www.elperiodico.com/es/vida-y-estilo/20260815/mejor-playa-catalunya-national-geographic-dv-119608250)<br>
 09:00 [Queridísimo Federico](https://www.elperiodico.com/es/opinion/20260815/queridisimo-federico-federico-garcia-lorca-90-anos-muerte-fusilamiento-133368451)<br>

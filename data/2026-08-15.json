@@ -1,5 +1,113 @@
 [
   {
+    "title": "Activan fase de emergencia en situación 1 por el terremoto de 5 grados de Granada, España",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/activan-fase-emergencia-situacion-1/133381298.shtml",
+    "pubDate": "2026-08-15 10:01:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"¿De verdad va bien la economía?\"",
+    "link": "https://www.elperiodico.com/es/opinion/20260815/economia-crecimiento-inflacion-pib-coste-de-la-vida-133370031",
+    "pubDate": "2026-08-15 10:00:43",
+    "category": "",
+    "description": "<h2>Desde la salida de la pandemia, la economía crece, pero una parte de la ciudadanía no percibe esa mejora y si el crecimiento no llega a todos, el progreso económico es incompleto</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260716/cataluna-economia-evolucion-pib-2025-clase-media-salarios-132514495\" target=\"_blank\">Catalunya genera más riqueza, pero esta apenas llega a la clase media</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TV3 emite el último partido de pretemporada del Barça antes del Gamper",
+    "link": "https://www.elperiodico.com/es/tele/20260815/tv3-emite-tercer-partido-pretemporada-barca-133360009",
+    "pubDate": "2026-08-15 10:00:43",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Hay que vigilar que el bebé orine\": más de 200 niños menores de 4 años han sufrido un golpe de calor este verano en Catalunya",
+    "link": "https://www.elperiodico.com/es/sanidad/20260815/hay-vigilar-bebe-orine-200-133356992",
+    "pubDate": "2026-08-15 10:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Las consecuencias derivadas de las altas temperaturas los sufren las personas más frágiles, lo que incluye \"los dos extremos de la vida\": mayores y niños</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260722/cataluna-casos-golpe-calor-insolacion-inicio-verano-registros-salut-sivic-impacto-salud-132703651\" target=\"_blank\">Catalunya monitoriza el impacto del calor en la salud: 2.800 insolaciones atendidas este verano, la mayoría entre jóvenes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260701/catalunya-cifra-muertes-calor-record-junio-132010276\" >Catalunya registra la cifra más alta de muertes por calor en un mes de junio con 218 decesos prematuros atribuibles a las altas temperaturas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Partido Demócrata se divide entre el giro progresista y la vía moderada a las puertas de las elecciones legislativas de noviembre",
+    "link": "https://www.elperiodico.com/es/internacional/20260815/eeuu-partido-democrata-division-giro-progresista-vida-moderada-midterms-elecciones-medio-mandato-133381261",
+    "pubDate": "2026-08-15 10:00:42",
+    "category": "",
+    "description": "<h2>La brecha generacional y el coste de vida reordenan el voto demócrata mientras Gaza gana peso en la agenda electoral</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El aclamado restaurante de tapas de Santa Coloma: \"Uno de los mejores bares de Catalunya\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260815/bar-santa-coloma-pescado-frito-tapas-dv-loc-107578256",
+    "pubDate": "2026-08-15 10:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240830/5-mejores-restaurantes-santa-coloma-dv-loc-107543863\" >Estos son los 5 mejores restaurantes de Santa Coloma según Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20171019/bar-verat-restaurante-lluerna-santa-coloma-6351434\" >Bar Verat: tira a Víctor de la oreja</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Atlético de Madrid ficha al ‘Cuti’ Romero hasta 2031",
+    "link": "https://www.elperiodico.com/es/deportes/20260815/atletico-madrid-ficha-cuti-romero-133380810",
+    "pubDate": "2026-08-15 09:56:38",
+    "category": "",
+    "description": "<h2>Después del principio de acuerdo entre clubes, el central viajó el jueves a la capital de España para pasar el viernes el pertinente reconocimiento médico y formalizar su contrato con su nuevo equipo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cambio de tiempo radical en España: este sábado llega una dana con fuertes tormentas y descenso de las temperaturas",
+    "link": "https://www.elperiodico.com/es/tiempo/20260815/dana-cambio-tiempo-radical-espana-tormentas-temperaturas-dv-133380914",
+    "pubDate": "2026-08-15 09:52:00",
+    "category": "",
+    "description": "<h2 class=\"item\">15 comunidades autónomas están bajo aviso por lluvias y tormentas, que pueden venir acompañadas de granizo grande, rachas de viento muy fuertes e incluso reventones térmicos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260814/catalunya-cambio-brusco-tiempo-lluvias-calor-133355908\">Catalunya se prepara para un frente de lluvias y un descenso de temperaturas tras un viernes de calor extremo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Recuperados ocho grabados de Matisse que habían sido robados hace un año en São Paulo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260815/recuperados-ocho-grabados-matisse-robados-brasil-ladron-famoso-133380857",
+    "pubDate": "2026-08-15 09:51:51",
+    "category": "",
+    "description": "<h2>La policía local ha dado con las piezas tras analizar las conversaciones telefónicas de Laéssio Rodrigues, un famoso ladrón de arte al que han dedicado incluso un documental en Brasil</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп відкинув тривогу за моряків Abraham Lincoln",
+    "link": "https://ua.korrespondent.net/world/4903109-tramp-vidkynuv-tryvohu-za-moriakiv-Abraham-Lincoln",
+    "pubDate": "2026-08-15 09:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529234.jpg\">Авіаносець Abraham Lincoln уже понад 240 днів не заходив у порт, що стало рекордним показником для ВМС США.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los modelos más icónicos de Fiat, la marca que democratizó la automoción en Italia",
+    "link": "https://www.elperiodico.com/es/motor/20260815/modelos-iconicos-fiat-marca-democratizo-131839703",
+    "pubDate": "2026-08-15 09:41:54",
+    "category": "",
+    "description": "<h2>Mientras que otras marcas construyeron su legado en circuitos, Fiat fue una de las marcas que conquistó las calles de la ciudad.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo: una semana del fuego de Niebla (Huelva)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260815/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+    "pubDate": "2026-08-15 09:36:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260727/megaincendios-desata-emergencia-espana-esperabamos-bombas-nucleares-132857533\">La era de los megaincendios desata la emergencia en España: \"No esperábamos fuegos así de violentos hasta 2050 y aquí están\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260728/equipo-cientificos-csic-incendios-espana-132858331\">Un equipo de científicos se enrola por primera vez en las labores de extinción de los incendios: \"Alertamos a los bomberos de las zonas más peligrosas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "РФ планує стерти кордони з окупованими територіями України: у МЗС відповіли",
     "link": "https://ua.korrespondent.net/ukraine/4903105-rf-planuie-sterty-kordony-z-okupovanymy-terytoriiamy-ukrainy-u-mzs-vidpovily",
     "pubDate": "2026-08-15 09:21:00",
