@@ -1,8 +1,9 @@
-# News for 2026-08-15 08:51
+# News for 2026-08-15 09:24
 
 Previous day: [2026-08-14](./data/2026-08-14.md)
 
 ## ua.korrespondent.net
+07:45 [Індонезію струснув потужний землетрус](https://ua.korrespondent.net/world/4903089-indoneziui-strusnuv-potuzhnyi-zemletrus)<br>
 06:35 [Росіяни вдарили по Марганцю: загинув тримісячний хлопчик](https://ua.korrespondent.net/ukraine/4903080-rosiiany-vdaryly-po-marhantsui-zahynuv-trymisiachnyi-khlopchyk)<br>
 03:59 [Аномальна спека: в Німеччині зафіксували рекордну смертність](https://ua.korrespondent.net/world/4903071-anomalna-speka-v-nimechchyni-zafiksuvaly-rekordnu-smertnist)<br>
 01:33 [Погода на вихідні: в Україні очікується повернення спеки до +35°](https://ua.korrespondent.net/ukraine/4903059-pohoda-na-vykhidni-v-ukraini-ochikuietsia-povernennia-speky-do-35)<br>
@@ -17,10 +18,15 @@ Previous day: [2026-08-14](./data/2026-08-14.md)
 07:44 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
 
 ## www.elperiodico.com
+09:15 [Las mejores imágenes y vídeos del terremoto de Granada](https://www.elperiodico.com/es/sociedad/20260815/mejores-imagenes-videos-terremoto-granada-dv-133380514)<br>
+09:15 [Esta es una de las mejores playa de toda Catalunya: reconocida por National Geographic](https://www.elperiodico.com/es/vida-y-estilo/20260815/mejor-playa-catalunya-national-geographic-dv-119608250)<br>
+09:00 [Queridísimo Federico](https://www.elperiodico.com/es/opinion/20260815/queridisimo-federico-federico-garcia-lorca-90-anos-muerte-fusilamiento-133368451)<br>
+09:00 [El verano pone a prueba nuestra capacidad de poner límites: “¿Cómo le digo a mi amigo que no me apetece su plan sin que se enfade?”](https://www.elperiodico.com/es/sociedad/20260815/verano-pone-prueba-limites-amigo-no-plan-no-enfade-132786990)<br>
 08:30 [Maribel y Vicente llevan más de 5 años viviendo en 10 m² sin pagar facturas: "Hemos dado el 100% durante toda nuestra vida, tanto a nuestros padres como a los hijos. Ahora es nuestro momento"](https://www.elperiodico.com/es/economia/20260815/autocaravana-autosuficiente-viajes-europa-sin-facturas-matrimonio-maribel-vicente-dv-et-133242401)<br>
 08:21 [Ester, de trabajar en Google a montar una residencia para artistas en una masía catalana de 1806: "En una ciudad estás constantemente intentando batallar con muchos 'inputs, eso te quita mucho de lo que hay dentro de ti"](https://www.elperiodico.com/es/economia/20260815/trabajar-google-montar-residencia-artistica-masia-catalana-ester-dv-et-133336293)<br>
 08:12 [Terremotos hoy, 15 de agosto: consulta el epicentro y escala del seísmo en Granada e Indonesia en tiempo real](https://www.elperiodico.com/es/internacional/20260815/terremotos-hoy-15-agosto-consulta-granada-indonesia-dv-133379420)<br>
 08:10 [Un fuerte terremoto de 5 grados en Granada se siente en 10 provincias españolas, seis de ellas en Andalucía](https://www.elperiodico.com/es/sociedad/20260815/fuerte-terremoto-5-grados-granada-133379532)<br>
+08:05 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260815/ultima-hora-incendios-espana-directo-132759066)<br>
 07:38 [Al menos 20 muertos y evacuaciones masivas tras un terremoto de magnitud 7,7 en Indonesia](https://www.elperiodico.com/es/internacional/20260815/terremoto-indonesia-muertos-133378931)<br>
 06:56 [Terremoto hoy en Granada: última hora en directo](https://www.elperiodico.com/es/sociedad/20260815/terremoto-hoy-granada-ultima-hora-directo-133378645)<br>
 06:17 [Un potente terremoto en Granada causa daños materiales y alarma a la población](https://www.elperiodico.com/es/sociedad/20260815/potente-terremoto-granada-alhendin-danos-133378353)<br>
