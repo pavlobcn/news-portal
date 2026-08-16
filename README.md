@@ -1,8 +1,9 @@
-# News for 2026-08-16 17:55
+# News for 2026-08-16 18:31
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
 ## ua.korrespondent.net
+18:24 [Німеччина готується до екстремальної спеки](https://ua.korrespondent.net/world/4903359-nimechchyna-hotuietsia-do-ekstremalnoi-speky)<br>
 17:14 [Кінний екіпаж потрапив в аварію у Швейцарії, є жертва](https://ua.korrespondent.net/world/4903342-kinnyi-ekipazh-potrapyv-v-avariui-u-shveitsarii-ye-zhertva)<br>
 16:52 [Свята 17 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4903337-sviata-17-serpnia-2026-roku-istoriia-tradytsii)<br>
 15:18 [Землетрус в Індонезії: кількість жертв перевищила 50 людей](https://ua.korrespondent.net/world/4903323-zemletrus-v-indonezii-kilkist-zhertv-perevyschyla-50-luidei)<br>
@@ -11,9 +12,12 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
 
 ## as.com
+18:08 [Ronaldinho quiere comprar el Mónaco](https://as.com/baloncesto/eurocup/ronaldinho-quiere-comprar-el-monaco-f202608-n/)<br>
 17:25 [España avanza como primera de grupo con otra actuación impresionante](https://as.com/baloncesto/mas_baloncesto/espana-avanza-como-primera-de-grupo-con-otra-actuacion-impresionante-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:30 [Aurelio Rojas, cardiólogo, sobre el test del pulgar para el aneurisma de aorta: "Si tu pulgar, cuando lo doblas, llega aproximadamente a la mitad de la palma de la mano, se considera normal"](https://www.elperiodico.com/es/salud/20260816/aurelio-rojas-cardiologo-test-pulgar-aneurisma-de-aorta-dv-et-133145957)<br>
+18:00 [Dos heridos hospitalizados tras estrellarse una avioneta en Viana (Navarra)](https://www.elperiodico.com/es/videos/sucesos/heridos-hospitalizados-estrellarse-avioneta-viana/133409671.shtml)<br>
 17:35 [Maribel abandona Barcelona para crear una comunidad autosuficiente en plena naturaleza: "Es bueno compartir tu vida con otras personas"](https://www.elperiodico.com/es/economia/20260816/comunidad-autosuficiente-naturaleza-arbucies-cataluna-maribel-gonzalez-torres-dv-loc-et-133230714)<br>
 17:14 [Meritxell Colell logra un doble reconocimiento de la crítica en el Festival de Locarno con 'Lejos de los árboles'](https://www.elperiodico.com/es/ocio-y-cultura/20260816/meritxell-colell-logra-doble-reconocimiento-critica-festival-locarno-lejos-arboles-133408809)<br>
 17:00 [No todo son mansiones y lujo, estos famosos abandonaron la ciudad para emprender una vida de hortelano: "Hago autoabastecimiento de muchas cosas"](https://www.elperiodico.com/es/gente/20260816/famosos-vida-campo-abandonaron-ciudades-mansiones-lujo-dv-et-133333940)<br>
