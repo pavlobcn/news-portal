@@ -1,5 +1,68 @@
 [
   {
+    "title": "Una pelea multitudinaria en Lleida termina con cinco heridos y un detenido",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/pelea-multitudinaria-lleida-termina-cinco/133407277.shtml",
+    "pubDate": "2026-08-16 15:11:18",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un ataque ruso provoca un incendio en un mercado de libros en Kiev",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ataque-ruso-provoca-incendio-mercado/133407205.shtml",
+    "pubDate": "2026-08-16 15:08:21",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Jan Eskenazi, empresario que fabrica casas cápsula: \"Vivir en 15 m² por unos 70.000 euros lo veo bien. La cápsula es cómoda y creo que es superconfortable\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20260816/casa-capsula-alternativa-precio-vivienda-jan-eskenazi-dv-et-133239521",
+    "pubDate": "2026-08-16 15:00:31",
+    "category": "",
+    "description": "<h2>El empresario, especializado en estas construcciones, explica que \"esto en España no se puede fabricar porque los costos son altísimos\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260809/casa-contenedores-maritimos-construccion-youtube-precios-vivienda-matias-dv-et-133095298\">Matías quiere construir él solo una casa hecha a base de contenedores marítimos: \"La idea es hacer todo el proyecto solo con tutoriales de YouTube\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/vivienda/20260705/casa-prefabricada-contenedor-amazon-14000-euros-dv-128441749\">Una casa prefabricada por 13.000 euros: la alternativa que comienza a ganar terreno ante los altos precios de la vivienda tradicional</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muros y Blanca se disputan el pase a semifinales en el sexto episodio de 'El Grand Prix del Verano'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260816/muros-blanca-disputan-pase-semifinales-133357982",
+    "pubDate": "2026-08-16 15:00:30",
+    "category": "",
+    "description": "<h2>El programa de RTVE cierra su fase clasificatoria y sigue siendo líder del 'prime time' con un 12,2% de cuota</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Хакери атакували податкову Франції: витік даних 678 тисяч осіб",
+    "link": "https://ua.korrespondent.net/world/4903321-khakery-atakuvaly-podatkovu-frantsii-vytik-danykh-678-tysiach-osib",
+    "pubDate": "2026-08-16 14:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530326.jpg\">Кібератака на податкову службу Франції могла поставити під загрозу дані 678 тисяч користувачів. Паризька прокуратура вже розпочала розслідування.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La plaza de la Vila de Gràcia se rinde a los castells de la fiesta mayor a golpe de abanico",
+    "link": "https://www.elperiodico.com/es/barcelona/20260816/plaza-vila-gracia-rinde-castells-133406612",
+    "pubDate": "2026-08-16 14:48:02",
+    "category": "",
+    "description": "<h2>La diada de los Castellers de la Vila de Gràcia y los Xiquets de Reus reúne a vecinos y turistas en una mañana marcada por las altas temperaturas y el ambiente festivo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos heridos tras estrellarse una avioneta en Navarra",
+    "link": "https://www.elperiodico.com/es/sucesos/20260816/heridos-estrellarse-avioneta-navarra-133406856",
+    "pubDate": "2026-08-16 14:35:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Un varón ha sido trasladado al Hospital San Pedro de Logroño, donde está siendo atendido con pronóstico reservado</h2><h2 class=\"item\">El otro ha sido trasladado a otro centro sanitario en Navarra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Gobierno niega el \"colapso sanitario\" en Ceuta y fija como prioridad garantizar condiciones de salubridad a los migrantes",
     "link": "https://www.elperiodico.com/es/politica/20260816/gobierno-niega-colapso-sanitario-ceuta-133405542",
     "pubDate": "2026-08-16 14:26:22",
@@ -313,6 +376,15 @@
     "description": "<h2>Los efectivos logran contener el fuego y que no siga avanzando tras recorrer 38.000 hectáreas en nueve días</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "'La promesa', avance semanal: Ángela le hace una difícil petición a Máximo y Curro recibe una carta de la Casa Real",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260816/la-promesa-avance-semanal-angela-le-peticion-maximo-curro-casa-real-133404010",
+    "pubDate": "2026-08-16 12:26:03",
+    "category": "",
+    "description": "<h2>Manuel y Julieta engañan al Palacio para protagonizar una escapada romántica lejos de La Promesa</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
   },
   {
     "title": "Precio de la gasolina y diésel hoy, 16 de agosto en España: consulta el precio de los carburantes",

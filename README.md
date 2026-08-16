@@ -1,4 +1,4 @@
-# News for 2026-08-16 14:35
+# News for 2026-08-16 15:19
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
@@ -8,6 +8,10 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
 
 ## www.elperiodico.com
+15:11 [Una pelea multitudinaria en Lleida termina con cinco heridos y un detenido](https://www.elperiodico.com/es/videos/sucesos/pelea-multitudinaria-lleida-termina-cinco/133407277.shtml)<br>
+15:00 [Jan Eskenazi, empresario que fabrica casas cápsula: "Vivir en 15 m² por unos 70.000 euros lo veo bien. La cápsula es cómoda y creo que es superconfortable"](https://www.elperiodico.com/es/vivienda/20260816/casa-capsula-alternativa-precio-vivienda-jan-eskenazi-dv-et-133239521)<br>
+14:48 [La plaza de la Vila de Gràcia se rinde a los castells de la fiesta mayor a golpe de abanico](https://www.elperiodico.com/es/barcelona/20260816/plaza-vila-gracia-rinde-castells-133406612)<br>
+14:35 [Dos heridos tras estrellarse una avioneta en Navarra](https://www.elperiodico.com/es/sucesos/20260816/heridos-estrellarse-avioneta-navarra-133406856)<br>
 14:20 [Protecció Civil vuelve a activar la alerta Inuncat por lluvias intensas esta tarde en el nordeste de Catalunya](https://www.elperiodico.com/es/tiempo/20260816/catalunya-plan-inuncat-fuertes-lluvias-domingo-tiempo-meteocat-133401227)<br>
 14:05 [El piso de Karmele Marchante (79 años) en Madrid, un refugio de 40 metros cuadrados con mucho estilo: sábanas del siglo XVIII y un vestidor integrado](https://www.elperiodico.com/es/gente/20260816/piso-karmele-marchante-vallecas-refugio-dv-127549903)<br>
 13:59 [Aumentan a 53 los muertos por el seísmo de magnitud 7,7 en la isla indonesia de Flores](https://www.elperiodico.com/es/sociedad/20260816/indonesia-terremoto-aumentan-muertos-133406166)<br>
