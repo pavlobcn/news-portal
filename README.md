@@ -1,4 +1,4 @@
-# News for 2026-08-16 07:05
+# News for 2026-08-16 07:41
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
@@ -6,6 +6,7 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
 
 ## www.elperiodico.com
+07:39 [Terremoto en Granada, última hora en directo: nuevo seísmo con epicentro en Armilla](https://www.elperiodico.com/es/sociedad/20260816/terremoto-granada-hoy-ultima-hora-directo-133378645)<br>
 06:30 [De los diarios inéditos de su último amante a 'La bola negra' de los Javis: la memoria de Lorca resurge en el 90 aniversario de su asesinato](https://www.elperiodico.com/es/ocio-y-cultura/20260816/diarios-ineditos-amante-javis-bola-negra-lorca-resurge-muerte-asesinato-aniversario-133268253)<br>
 06:01 [Al frente de la revolución cuántica](https://www.elperiodico.com/es/opinion/20260816/barcelona-frente-revolucion-cuantica-editorial-133392216)<br>
 06:00 [Así va equipado un bombero forestal para hacer frente a la ola de incendios](https://www.elperiodico.com/es/sociedad/20260816/equipado-bombero-forestal-frente-ola-133274810)<br>
