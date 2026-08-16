@@ -1,4 +1,4 @@
-# News for 2026-08-16 11:46
+# News for 2026-08-16 12:36
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
@@ -8,6 +8,16 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
 
 ## www.elperiodico.com
+12:30 [Oswaldo Restrepo, médico experto en seguridad y salud en el trabajo: "Si notas que durante el día te cuesta trabajo hablar, esto no es un problema de almohada"](https://www.elperiodico.com/es/salud/20260816/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
+12:26 [El incendio de Huelva se frena por fin y tiene una evolución "muy favorable": 154 personas vuelven a sus viviendas](https://www.elperiodico.com/es/sociedad/20260816/incendio-huelva-frena-evolucion-favorable-133404261)<br>
+12:23 [Incendios hoy, 16 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260816/incendios-hoy-16-agosto-cataluna-espana-mapa-fuegos-activos-dv-133404108)<br>
+12:15 [Le pillan con un arsenal de drogas y evita la cárcel por toxicómano en Ibiza](https://www.elperiodico.com/es/sucesos/20260816/le-pillan-arsenal-drogas-evita-carcel-toxicomano-ibiza-133403929)<br>
+12:01 [Cambios de liderazgo en las principales instituciones empresariales y culturales de Barcelona: las mujeres toman el relevo](https://www.elperiodico.com/es/economia/nombramientos-empresas-cultura-barcelona-133298537-rm/index.html)<br>
+12:01 [Drones de guerra contra las llamas: Turquía da una segunda vida a sus famosos aviones no tripulados](https://www.elperiodico.com/es/internacional/20260816/drones-guerra-llamas-turquia-aviones-no-tripulados-ucrania-incendios-133403682)<br>
+12:01 [Una de cada tres víctimas del 17A sigue sin ser indemnizada nueve años después de los atentados](https://www.elperiodico.com/es/barcelona/20260816/barcelona-17a-atentados-victimas-terrorismo-indemnizaciones-aniversario-133377202)<br>
+12:01 [Cambios de liderazgo en las principales instituciones empresariales y culturales de Barcelona: las mujeres toman el relevo](https://www.elperiodico.com/es/economia/20260816/cambios-liderazgo-principales-instituciones-empresariales-133340179)<br>
+12:01 [Qilimanjaro sopesa abrir otra ronda de financiación de hasta 150 millones de euros mientras ata los 55 de la segunda](https://www.elperiodico.com/es/economia/20260816/qilimanjaro-sopesa-abrir-tercera-ronda-financiacion-150-millones-132521390)<br>
+11:50 [Lara Ferreiro, psicóloga, sobre las relaciones tóxicas: "Tu cerebro funciona exactamente igual que como si fueras un adicto a la cocaína"](https://www.elperiodico.com/es/ser-feliz/20260816/psicologa-relaciones-pareja-toxica-adiccion-drogas-lara-ferreiro-dv-119673831)<br>
 11:43 [La Guardia Civil interviene en el Sur de Tenerife trece toneladas de gas de la risa](https://www.elperiodico.com/es/sucesos/20260816/guardia-civil-interviene-sur-tenerife-133403102)<br>
 11:37 [Xtorm Next Gen 6 Power Bank: cargar varios dispositivos en minutos y sin enchufe](https://www.elperiodico.com/es/tecnologia/20260816/xtorm-next-gen-6-power-133402547)<br>
 11:32 [Carmen Balfagón desvela cómo está Rodolfo Sancho tras su falsa detención: "Está molesto"](https://www.elperiodico.com/es/videos/gente/carmen-balfagon-desvela-rodolfo-sancho/133402734.shtml)<br>
