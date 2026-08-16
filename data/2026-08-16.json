@@ -1,5 +1,41 @@
 [
   {
+    "title": "Онофрійчук повернула Україні золото після 13-річної паузи",
+    "link": "https://ua.korrespondent.net/sport/other/4903325-onofriichuk-povernula-ukraini-zoloto-pislia-13-richnoi-pauzy",
+    "pubDate": "2026-08-16 15:42:00",
+    "category": "Інші",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530368.jpg\">Історична перемога: Онуфрійчук виграла золото, перервавши 13-річну серію України без найвищих нагород.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія перебільшує успіхи на фронті - ISW",
+    "link": "https://ua.korrespondent.net/world/russia/4903327-rosiia-perebilshuie-uspikhy-na-fronti-ISW",
+    "pubDate": "2026-08-16 15:40:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530369.jpg\">Російські військові та провоєнні блогери продовжують створювати перебільшену картину ситуації на фронті. В ISW заявляють про ознаки системної інформаційної кампанії Кремля.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Muere un niño de 10 años tras ser atropellado por un tractor en Burgos",
+    "link": "https://www.elperiodico.com/es/sucesos/20260816/muere-nino-10-anos-atropellado-133407614",
+    "pubDate": "2026-08-16 15:37:16",
+    "category": "",
+    "description": "<h2>El atropello se produjo en torno a las diez y media de la noche</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Землетрус в Індонезії: кількість жертв перевищила 50 людей",
+    "link": "https://ua.korrespondent.net/world/4903323-zemletrus-v-indonezii-kilkist-zhertv-perevyschyla-50-luidei",
+    "pubDate": "2026-08-16 15:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530340.jpg\">Загинула щонайменше 51 людина, ще понад сотня отримала травми, тисячі мешканців були змушені залишити свої домівки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Una pelea multitudinaria en Lleida termina con cinco heridos y un detenido",
     "link": "https://www.elperiodico.com/es/videos/sucesos/pelea-multitudinaria-lleida-termina-cinco/133407277.shtml",
     "pubDate": "2026-08-16 15:11:18",
@@ -54,6 +90,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Довбик здатен змінити стиль атаки Болоньї - ЗМІ",
+    "link": "https://ua.korrespondent.net/sport/football/4903311-dovbyk-zdaten-zminyty-styl-ataky-boloni-zmi",
+    "pubDate": "2026-08-16 14:40:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530325.jpg\">Футбольні аналітики вірять у повернення високої результативності українця в італійському чемпіонаті.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрон РФ влучив у торговельний центр під Одесою",
+    "link": "https://ua.korrespondent.net/city/odessa/4903318-dron-rf-vluchyv-u-torhovelnyi-tsentr-pid-odesoui",
+    "pubDate": "2026-08-16 14:39:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530310.jpg\">Російські війська вдень 16 серпня атакували реактивним безпілотником поштове відділення у торговельному центрі в передмісті Одеси. Є двоє постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Dos heridos tras estrellarse una avioneta en Navarra",
     "link": "https://www.elperiodico.com/es/sucesos/20260816/heridos-estrellarse-avioneta-navarra-133406856",
     "pubDate": "2026-08-16 14:35:30",
@@ -61,6 +115,15 @@
     "description": "<h2 class=\"item\">Un varón ha sido trasladado al Hospital San Pedro de Logroño, donde está siendo atendido con pronóstico reservado</h2><h2 class=\"item\">El otro ha sido trasladado a otro centro sanitario en Navarra</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Вайт зробив жорстку заяву у відповідь на слова Гірна про бій",
+    "link": "https://ua.korrespondent.net/sport/boks/4903308-vait-zrobyv-zhorstku-zaiavu-u-vidpovid-na-slova-hirna-pro-bii",
+    "pubDate": "2026-08-16 14:35:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530309.jpg\">Бій Тайсона Ф’юрі проти Ентоні Джошуа орієнтовно відбудеться восени, але організація поєдинку залишається під питанням.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "El Gobierno niega el \"colapso sanitario\" en Ceuta y fija como prioridad garantizar condiciones de salubridad a los migrantes",
@@ -96,6 +159,15 @@
     "category": "",
     "description": "",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Лідер ПСЖ опинився за крок від переходу в Ліверпуль",
+    "link": "https://ua.korrespondent.net/sport/football/4903312-lider-pszh-opynyvsia-za-krok-vid-perekhodu-v-liverpul",
+    "pubDate": "2026-08-16 14:11:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530292.jpg\">Ліверпуль погоджує перехід ключового вінгера ПСЖ Бредлі Барколя за 125 млн євро.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
