@@ -1,5 +1,41 @@
 [
   {
+    "title": "La corona de María Pérez",
+    "link": "https://www.elperiodico.com/es/opinion/20260816/corona-maria-perez-133391129",
+    "pubDate": "2026-08-16 07:00:44",
+    "category": "",
+    "description": "<h2>La deportista española se alza con el título europeo en la marcha atlética, un logro que reivindica su trayectoria y la visibilidad del deporte femenino.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La trayectoria de Yolanda Díaz en el Gobierno marcada por la hiperfragmentación y la búsqueda de un legado personal",
+    "link": "https://www.elperiodico.com/es/opinion/20260816/trayectoria-yolanda-diaz-gobierno-marcada-133385547",
+    "pubDate": "2026-08-16 07:00:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Кривому Розі різко зросла кількість постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4903248-u-kryvomu-rozi-rizko-zrosla-kilkist-postrazhdalykh",
+    "pubDate": "2026-08-16 06:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529957.jpg\">Ворог здійснив на місто комбіновану атаку ракетами та дронами, ударивши по двох промислових підприємствах.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Нафта вже не рятує: бюджет РФ пішов у мінус",
+    "link": "https://ua.korrespondent.net/world/russia/4903246-nafta-vzhe-ne-riatuie-buidzhet-rf-pishov-u-minus",
+    "pubDate": "2026-08-16 06:42:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529944.jpg\">Дефіцит російського бюджету вже зріс до 6,46 трлн рублів на тлі збільшення видатків і скорочення нафтогазових доходів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "De los diarios inéditos de su último amante a 'La bola negra' de los Javis: la memoria de Lorca resurge en el 90 aniversario de su asesinato",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260816/diarios-ineditos-amante-javis-bola-negra-lorca-resurge-muerte-asesinato-aniversario-133268253",
     "pubDate": "2026-08-16 06:30:06",
@@ -7,6 +43,15 @@
     "description": "<h2 class=\"item\">Libros, ensayos, documentales y películas biográficas mantienen viva la llama de la 'lorcamanía' y ahondan en aspectos largamente silenciados como su sexualidad </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260406/lorca-inedito-zapatillas-dejadme-alas-128659994#comments\">Lorca, inédito y en zapatillas: \"Dejadme las alas en su sitio, que yo os respondo que volaré bien\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260815/lorca-hombres-residencia-bunker-estudiantes-madrid-133335452\">Lorca y los hombres de la Residencia: el búnker donde aprendió a camuflar su deseo bajo reglas masculinas</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві через атаку РФ постраждали двоє людей",
+    "link": "https://ua.korrespondent.net/city/kiev/4903243-u-kyievi-cherez-ataku-rf-postrazhdaly-dvoie-luidei",
+    "pubDate": "2026-08-16 06:21:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529932.jpg\">Російський обстріл столиці спричинив загоряння на території ринку та нежитлових об’єктів.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Генштаб озвучив втрати росіян на 16 серпня",
@@ -72,6 +117,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Así va equipado un bombero forestal para hacer frente a la ola de incendios",
+    "link": "https://www.elperiodico.com/es/sociedad/equipacion-bombero-graf-incendio-forestal-133274573-rm/index.html",
+    "pubDate": "2026-08-16 06:00:40",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Parlament ya tiene más partidos nacidos en el siglo XXI que en el XX",
     "link": "https://www.elperiodico.com/es/politica/20260816/parlament-partidos-politicos-nuevos-cambios-panorama-133235725",
     "pubDate": "2026-08-16 06:00:38",
@@ -95,6 +149,15 @@
     "pubDate": "2026-08-16 06:00:33",
     "category": "",
     "description": "<h2>Barcelona y su área metropolitana ocupan la posición número 36 en la clasificación mundial de una industria que ya mueve 1.000 millones de dólares a nivel mundial</h2><h2>La apuesta temprana por la transferencia tecnológica y un sistema caracterizado por la buena sintonía entre sus actores han impulsado a un ecosistema al que le falta más inversión y agilidad en el despliegue de proyectos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ganchillo, el bordado y el punto ya no son cosa de abuelas: \"Labores devaluadas son ahora válidas, legítimas y necesarias\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260816/ganchillo-crochet-bordado-punto-jovenes-aficiones-manuales-feminismo-133081233",
+    "pubDate": "2026-08-16 06:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">La vuelta a lo tradicional y lo hecho a mano coincide con la necesidad de las jóvenes de desconectar de las redes sociales y los trabajos de oficina</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
