@@ -1,5 +1,23 @@
 [
   {
+    "title": "РФ скинула КАБи на Ізюм: четверо поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4903400-rf-skynula-kaby-na-izuim-chetvero-poranenykh",
+    "pubDate": "2026-08-16 22:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530685.jpg\">Влучання зафіксовано неподалік від центральної та в північно-західній частині міста. Пошкоджені приватні будинки.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muere un parapentista al precipitarse al vacío en Cáceres",
+    "link": "https://www.elperiodico.com/es/sucesos/20260816/muere-parapentista-accidente-sierra-montanchez-caceres-133414271",
+    "pubDate": "2026-08-16 22:31:36",
+    "category": "",
+    "description": "<h2>Otro varón que participaba en la actividad ha resultado herido tras realizar un aterrizaje de emergencia en una zona de difícil acceso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Києві пройшла хода на підтримку Федорова",
     "link": "https://ua.korrespondent.net/ukraine/4903396-u-kyievi-proishla-khoda-na-pidtrymku-fedorova",
     "pubDate": "2026-08-16 22:23:00",
@@ -9,11 +27,29 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Снігур завершила свій виступ у Цинциннаті",
+    "link": "https://ua.korrespondent.net/sport/tenis/4903398-snihur-zavershyla-svii-vystup-u-tsyntsynnati",
+    "pubDate": "2026-08-16 22:19:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530674.jpg\">Поразка від Медісон Кіз зупинила Дар’ю Снігір на престижних змаганнях у Цинциннаті.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Bronce de España en el novedoso 4x100 mixto",
     "link": "https://www.elperiodico.com/es/deportes/20260816/bronce-espana-novedoso-4x100-mixto-europeos-atletismo-birmingham-133413864",
     "pubDate": "2026-08-16 22:16:35",
     "category": "",
     "description": "<h2>El cuarteto formado por Guillem Crespí, Maribel Pérez, Andoni Calbano y Jaël Bestué logró la tercera posición</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Барселона погодила перехід зіркового Родрі",
+    "link": "https://ua.korrespondent.net/sport/football/4903394-barselona-pohodyla-perekhid-zirkovoho-rodri",
+    "pubDate": "2026-08-16 22:15:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530661.jpg\">Каталонський клуб домовився про покупку Родрі, сума угоди становитиме 76 млн євро.",
     "topic": "спорт",
     "topic_match_probability": 100
   },
@@ -70,6 +106,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530620.jpg\">У Росії дедалі більше компаній відмовляються від офіційного працевлаштування. Причина - висока вартість штатних працівників і значно дешевша співпраця із самозайнятими.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Шеремет виграв чемпіонат Європи в запливі на 50 метрів",
+    "link": "https://ua.korrespondent.net/sport/other/4903385-sheremet-vyhrav-chempionat-yevropy-v-zaplyvi-na-50-metriv",
+    "pubDate": "2026-08-16 21:20:00",
+    "category": "Інші",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530621.jpg\">Український плавець Шеремет став чемпіоном Європи на 50-метрівці з національним рекордом.",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "На Сицилії з музею викрали чотири картини доби Ренесансу",
