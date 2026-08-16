@@ -1,5 +1,68 @@
 [
   {
+    "title": "Barcelona estrena bombones-suvenir de la mano del mejor chocolatero del mundo y la obra de Gaudí",
+    "link": "https://www.elperiodico.com/es/barcelona/20260816/barcelona-estrena-bombones-suvenir-gaudi-mejor-chocolatero-mundo-lluc-crusellas-133334148",
+    "pubDate": "2026-08-16 14:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Gaudeat, el recuerdo comestible de la ciudad, suma el talento y la calidad de Lluc Crusellas con la creatividad y tecnología de la empresa barcelonesa Makeat</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20221031/lluc-crusellas-campeon-del-mundo-chocolate-2022-77976324\">El catalán Lluc Crusellas, mejor chocolatero del mundo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20250410/plesh-chocolatina-saludable-flax-kale-disfrutar-pique-gasol-116056255\">Plesh, la chocolatina con esencia Flax&Kale y Disfrutar que han apadrinado Piqué, Gasol o los hermanos Boix (Noel)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El 'coche de las viudas' que marcó una época en las carreteras españolas",
+    "link": "https://www.elperiodico.com/es/motor/20260816/coche-viudas-marco-epoca-carreteras-espana-133290305",
+    "pubDate": "2026-08-16 14:00:14",
+    "category": "",
+    "description": "<h2>El Renault Dauphine fue uno de los modelos que ayudaron a motorizar España, pero su particular reparto de pesos le hizo ganarse un temido apodo</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aumentan a 53 los muertos por el seísmo de magnitud 7,7 en la isla indonesia de Flores",
+    "link": "https://www.elperiodico.com/es/sociedad/20260816/indonesia-terremoto-aumentan-muertos-133406166",
+    "pubDate": "2026-08-16 13:59:48",
+    "category": "",
+    "description": "<h2>El balance del terremoto, todavía provisional, incluye a 135 heridos y 5.000 personas evacuadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна уразила ключові об’єкти ВПК Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4903309-ukraina-urazyla-kluichovi-obiekty-vpk-rosii",
+    "pubDate": "2026-08-16 13:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530258.jpg\">Зокрема атакований Комбинат Каменский виробляв тверде ракетне паливо для РСЗВ Ураган, Смерч і Торнадо-С, а також для низки ракетних систем та авіаційних засобів ураження.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Juanma Moreno anuncia la estabilización del incendio de Niebla (Huelva)",
+    "link": "https://www.elperiodico.com/es/videos/politica/juanma-moreno-anuncia-estabilizacion-incendio/133405803.shtml",
+    "pubDate": "2026-08-16 13:36:05",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El PP pide la dimisión de la ministra de Sanidad por la \"crisis sanitaria\" en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/pp-pide-dimision-ministra-sanidad/133405767.shtml",
+    "pubDate": "2026-08-16 13:35:54",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Roban de un museo siciliano obras del maestro renancentista Antonello de Messina",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260816/roban-museo-siciliano-obras-maestro-renacentista-antonello-messina-133405544",
+    "pubDate": "2026-08-16 13:31:40",
+    "category": "",
+    "description": "<h2>Los ladrones se llevaron tres de los cinco paneles del famoso Políptico de San Gregorio y otra tablilla de doble cara que representa a la Virgen con el Niño y que fue sustraída directamente de una vitrina de seguridad blindada</h2><h2>A Antonello de Messina se le considera uno de los introductores de la pintura al óleo en Italia y sus cuadros son muy escasos, con apenas unos cuarenta conservados</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
     "title": "ЗСУ вивели з ладу сім найбільших хабів Wildberries",
     "link": "https://ua.korrespondent.net/world/4903306-zsu-vyvely-z-ladu-sim-naibilshykh-khabiv-Wildberries",
     "pubDate": "2026-08-16 13:23:00",
@@ -502,6 +565,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530125.jpg\">Сили оборони вдарили по району зосередження ракетного підрозділу РФ у Криму, залізничному мосту на Запоріжжі та складах боєприпасів на Донеччині.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Уражено ракетний підрозділ у Криму - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4903285-urazheno-raketnyi-pidrozdil-u-krymu-henshtab",
+    "pubDate": "2026-08-16 10:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530125.jpg\">Сили оборони вдарили по району зосередження ракетного підрозділу РФ у Криму, залізничному мосту на Запоріжжі та складах боєприпасів на Донеччині.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Una batalla campal en Lleida termina con cinco heridos.",
@@ -1042,6 +1114,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529944.jpg\">Дефіцит російського бюджету вже зріс до 6,46 трлн рублів на тлі збільшення видатків і скорочення нафтогазових доходів.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Нафта не рятує: бюджет РФ пішов у мінус",
+    "link": "https://ua.korrespondent.net/world/russia/4903246-nafta-ne-riatuie-buidzhet-rf-pishov-u-minus",
+    "pubDate": "2026-08-16 06:42:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529944.jpg\">Дефіцит російського бюджету вже зріс до 6,46 трлн рублів на тлі збільшення видатків і скорочення нафтогазових доходів.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "De los diarios inéditos de su último amante a 'La bola negra' de los Javis: la memoria de Lorca resurge en el 90 aniversario de su asesinato",
