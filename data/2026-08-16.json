@@ -1,5 +1,68 @@
 [
   {
+    "title": "У Києві пройшла хода на підтримку Федорова",
+    "link": "https://ua.korrespondent.net/ukraine/4903396-u-kyievi-proishla-khoda-na-pidtrymku-fedorova",
+    "pubDate": "2026-08-16 22:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530655.jpg\">Учасники протестної ходи створили паперову петицію до Зеленського з вимогою повернути колишнього міністра оборони. Протести відбулися й у інших містах.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Bronce de España en el novedoso 4x100 mixto",
+    "link": "https://www.elperiodico.com/es/deportes/20260816/bronce-espana-novedoso-4x100-mixto-europeos-atletismo-birmingham-133413864",
+    "pubDate": "2026-08-16 22:16:35",
+    "category": "",
+    "description": "<h2>El cuarteto formado por Guillem Crespí, Maribel Pérez, Andoni Calbano y Jaël Bestué logró la tercera posición</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Quique Álvarez, técnico del Girona: \"Tsygankov estaba convocado y no ha querido cambiarse\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260816/quique-alvarez-tecnico-girona-tsygankov-133413812",
+    "pubDate": "2026-08-16 22:12:45",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260816/abel-ruiz-rescata-girona-leganes-133413057\">Abel Ruiz rescata al Girona ante el Leganés en su regreso a Segunda</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez analizará por videoconferencia con varios ministros la situación en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260816/sanchez-videoconferencia-ministros-situacion-ceuta-crisis-migratoria-133413650",
+    "pubDate": "2026-08-16 22:02:08",
+    "category": "",
+    "description": "<h2>Participarán Cuerpo, Marlaska, Albares, Robles, Saiz, Torres y Rego</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ізраїль завдав масованих ударів по Лівану: 11 загиблих",
+    "link": "https://ua.korrespondent.net/world/4903389-izrail-zavdav-masovanykh-udariv-po-livanu-11-zahyblykh",
+    "pubDate": "2026-08-16 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530632.jpg\">Ізраїль завдав серії ударів по півдню Лівану. За даними ліванської влади, загинули щонайменше 11 людей, серед них троє дітей та дві жінки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Abel Ruiz rescata al Girona ante el Leganés en su regreso a Segunda",
+    "link": "https://www.elperiodico.com/es/deportes/20260816/abel-ruiz-rescata-girona-leganes-133413057",
+    "pubDate": "2026-08-16 21:45:19",
+    "category": "",
+    "description": "<h2>Un gol en el minuto 89 del ariete evita la derrota del equipo de Quique Álvarez</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни посилили штурми: 181 бій на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4903391-rosiiany-posylyly-shturmy-181-bii-na-fronti",
+    "pubDate": "2026-08-16 21:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530633.jpg\">На фронті за добу відбулося 181 бойове зіткнення. Найбільше атак ворог здійснив на Покровському напрямку, де українські військові відбили 21 штурм.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Російський бізнес відмовляється від штатних працівників - розвідка",
     "link": "https://ua.korrespondent.net/world/russia/4903386-rosiiskyi-biznes-vidmovliaietsia-vid-shtatnykh-pratsivnykiv-rozvidka",
     "pubDate": "2026-08-16 21:29:00",
