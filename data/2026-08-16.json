@@ -1,5 +1,50 @@
 [
   {
+    "title": "Terremoto en Granada, última hora en directo: nuevo seísmo con epicentro en Armilla",
+    "link": "https://www.elperiodico.com/es/sociedad/20260816/terremoto-granada-hoy-ultima-hora-directo-133378645",
+    "pubDate": "2026-08-16 07:39:00",
+    "category": "",
+    "description": "<h2>El epicentro del potente temblor de ayer, de magnitud 5, se localizó en el municipio de Alhendín</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака на Київ: кількість поранених зросла",
+    "link": "https://ua.korrespondent.net/city/kiev/4903253-ataka-na-kyiv-kilkist-poranenykh-zrosla",
+    "pubDate": "2026-08-16 07:37:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529987.jpg\">Російський обстріл столиці спричинив загоряння на території ринку та нежитлових об’єктів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Китайський НПЗ звинуватили у фінансуванні Ірану",
+    "link": "https://ua.korrespondent.net/world/4903251-kytaiskyi-npz-zvynuvatyly-u-finansuvanni-iranu",
+    "pubDate": "2026-08-16 07:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4529982.jpg\">Міністерство фінансів США звинуватило підрозділ Hengli Group у закупівлі іранської нафти на мільярди доларів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Más que Estados Unidos y China: la Unión Europea tiene mucho que decir en la batalla por el dominio de la computación cuántica",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260816/estados-unidos-china-batallan-dominio-computacion-cuantica-ordenadores-investigacion-tecnologia-europa-mapa-mundo-132764455",
+    "pubDate": "2026-08-16 07:19:21",
+    "category": "",
+    "description": "<h2>Hasta 33 países han lanzado planes estratégicos con inversiones globales que superan los 40.000 millones de dólares para el desarrollo cuántico, también vertebrado a través de empresas y academia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo: Rumania revela que un avión español ha derribado un dron sobre su espacio aéreo",
+    "link": "https://www.elperiodico.com/es/internacional/20260816/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-08-16 07:08:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La corona de María Pérez",
     "link": "https://www.elperiodico.com/es/opinion/20260816/corona-maria-perez-133391129",
     "pubDate": "2026-08-16 07:00:44",
