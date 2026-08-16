@@ -1,8 +1,9 @@
-# News for 2026-08-16 15:19
+# News for 2026-08-16 15:50
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
 ## ua.korrespondent.net
+15:18 [Землетрус в Індонезії: кількість жертв перевищила 50 людей](https://ua.korrespondent.net/world/4903323-zemletrus-v-indonezii-kilkist-zhertv-perevyschyla-50-luidei)<br>
 11:43 [Вогонь знищив тисячі гектарів заповідника у Бельгії](https://ua.korrespondent.net/world/4903294-vohon-znyschyv-tysiachi-hektariv-zapovidnyka-u-belhii)<br>
 10:58 [У Wildberries підтвердили "займання" під Москвою](https://ua.korrespondent.net/world/4903288-u-Wildberries-pidtverdyly-zaimannia-pid-moskvoui)<br>
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
