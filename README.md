@@ -1,4 +1,4 @@
-# News for 2026-08-16 12:36
+# News for 2026-08-16 13:25
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
@@ -8,6 +8,14 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
 
 ## www.elperiodico.com
+13:15 [Mario, agricultor español viviendo en Australia: "Gano 1.800 euros a la semana"](https://www.elperiodico.com/es/economia/20260816/trabajo-australia-agricultor-alto-sueldo-salario-semanal-ahorro-dv-125444238)<br>
+13:13 [Los Bombers desalojan un edificio en Berga tras los derrumbes parciales de tejados de tres casas deshabitadas](https://www.elperiodico.com/es/sucesos/20260816/bombers-desalojan-edificio-berga-derrumbes-tres-casas-deshabitadas-133405309)<br>
+13:08 [Un investigador español aplica la Inteligencia colectiva a la robótica](https://www.elperiodico.com/es/videos/sociedad/investigador-espanol-aplica-inteligencia-colectiva/133405106.shtml)<br>
+13:06 [Juan Carlos Ramos, sin movilidad "desde el pecho hacia abajo" tras una mala zambullida en una piscina en A Coruña: "Nunca hay que tirarse de cabeza"](https://www.elperiodico.com/es/sociedad/20260816/juan-carlos-ramos-paraplejia-mala-133405239)<br>
+13:04 [Girona es una de las provincias con más viviendas de lujo a la venta](https://www.elperiodico.com/es/vivienda/20260816/girona-provincias-viviendas-lujo-venta-dv-loc-133404941)<br>
+12:59 [Una catalana en el terremoto de Colombia: "No nos podíamos creer que aquello fuera real"](https://www.elperiodico.com/es/sociedad/20260816/catalana-terremoto-colombia-no-podiamos-creer-133404855)<br>
+12:57 [Barcelona estrena una pérgola solar con 80 placas fotovoltaicas en La Marina del Prat Vermell](https://www.elperiodico.com/es/barcelona/20260816/barcelona-pergola-solar-80-placas-fotovoltaicas-marina-prat-vermell-133404314)<br>
+12:36 [Así son los trabajos de extinción de la UME en el incendio de Las Peñas de Riglos (Huesca)](https://www.elperiodico.com/es/videos/sociedad/son-trabajos-extincion-ume-incendio/133404464.shtml)<br>
 12:30 [Oswaldo Restrepo, médico experto en seguridad y salud en el trabajo: "Si notas que durante el día te cuesta trabajo hablar, esto no es un problema de almohada"](https://www.elperiodico.com/es/salud/20260816/baba-dormir-problemas-respiracion-digestion-medico-oswaldo-restrepo-dv-et-132280209)<br>
 12:26 [El incendio de Huelva se frena por fin y tiene una evolución "muy favorable": 154 personas vuelven a sus viviendas](https://www.elperiodico.com/es/sociedad/20260816/incendio-huelva-frena-evolucion-favorable-133404261)<br>
 12:23 [Incendios hoy, 16 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260816/incendios-hoy-16-agosto-cataluna-espana-mapa-fuegos-activos-dv-133404108)<br>
