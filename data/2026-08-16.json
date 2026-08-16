@@ -1,5 +1,59 @@
 [
   {
+    "title": "Cristiano (41 años): \"Probablemente, este será mi último año en el fútbol\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260816/cristiano-41-anos-probablemente-sera-133409195",
+    "pubDate": "2026-08-16 17:39:02",
+    "category": "",
+    "description": "<h2>El delantero portugués concedió una entrevista a la revista Vogue</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Maribel abandona Barcelona para crear una comunidad autosuficiente en plena naturaleza: \"Es bueno compartir tu vida con otras personas\"",
+    "link": "https://www.elperiodico.com/es/economia/20260816/comunidad-autosuficiente-naturaleza-arbucies-cataluna-maribel-gonzalez-torres-dv-loc-et-133230714",
+    "pubDate": "2026-08-16 17:35:41",
+    "category": "",
+    "description": "<h2>La mujer construye un espacio en Arbúcies alejado del estilo de vida convencional</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260805/arnau-24-anos-vivir-campo-autosuficiencia-estilo-de-vida-dv-131445581\" >Arnau (24 años) abandona Barcelona para vivir en el campo: “Me siento el hombre más rico de la Tierra pudiendo vivir así”</a></h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/20260806/emili-vives-pueblo-abandonado-el-fonoll-nudista-dv-loc-et-132627074\" >Emili Vives (74 años) revive una aldea abandonada para crear una comunidad nudista: \"Fue un sueño y así me cambió la vida 180 grados\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa anuncia el envío de un nuevo equipo de los Bombers para reforzar la lucha contra el incendio de Aragón",
+    "link": "https://www.elperiodico.com/es/sociedad/20260816/illa-anuncia-envio-nuevo-equipo-bombers-de-la-generalitat-incendio-aragon-133408942",
+    "pubDate": "2026-08-16 17:34:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente de la Generalitat destaca la cooperación entre territorios y traslada su apoyo a los afectados y a los profesionales que trabajan en la extinción</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Récord mundial de velocidad: El JCB Hydromax de hidrógeno supera los 653 km/h",
+    "link": "https://www.elperiodico.com/es/motor/20260816/record-mundial-velocidad-jcb-hydromax-133322463",
+    "pubDate": "2026-08-16 17:30:31",
+    "category": "",
+    "description": "<h2>El vehículo británico supera holgadamente todas las marcas previas de combustión de hidrógeno, pilas de combustible y diésel empleando dos motores de producción en serie</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El último gran pantano de Catalunya, L'Albagés, supera el 50% del llenado pese a la falta de lluvias",
+    "link": "https://www.elperiodico.com/es/economia/20260816/embalse-lalbages-ultimo-gran-pantano-catalunya-mitad-llenado-133408060",
+    "pubDate": "2026-08-16 17:25:43",
+    "category": "",
+    "description": "<h2>El multimillonario proyecto del canal Segarra-Garrigues incorpora 3.000 nuevas hectáreas de regadío, más de 15 años después de ser inaugurado</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260211/generalitat-inicia-llenado-embalse-lalbages-126710770\" target=\"_blank\">La Generalitat inicia el llenado del embalse de L'Albagés, el último gran pantano construido en Catalunya</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España avanza como primera de grupo con otra actuación impresionante",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-avanza-como-primera-de-grupo-con-otra-actuacion-impresionante-f202608-n/",
+    "pubDate": "2026-08-16 17:25:18",
+    "category": "Baloncesto",
+    "description": "La Selección supera a Polonia por 111-37, cierra una fase de grupos impecable y se cita con Lituania en octavos el martes 18 de agosto.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Meritxell Colell logra un doble reconocimiento de la crítica en el Festival de Locarno con 'Lejos de los árboles'",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260816/meritxell-colell-logra-doble-reconocimiento-critica-festival-locarno-lejos-arboles-133408809",
     "pubDate": "2026-08-16 17:14:48",

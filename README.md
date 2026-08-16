@@ -1,4 +1,4 @@
-# News for 2026-08-16 17:23
+# News for 2026-08-16 17:55
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
@@ -10,7 +10,11 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 10:58 [У Wildberries підтвердили "займання" під Москвою](https://ua.korrespondent.net/world/4903288-u-Wildberries-pidtverdyly-zaimannia-pid-moskvoui)<br>
 03:56 [У Підмосков’ї вибухи і пожежі: куди "прилетіло"](https://ua.korrespondent.net/world/russia/4903232-u-pidmoskovi-vybukhy-i-pozhezhi-kudy-pryletilo)<br>
 
+## as.com
+17:25 [España avanza como primera de grupo con otra actuación impresionante](https://as.com/baloncesto/mas_baloncesto/espana-avanza-como-primera-de-grupo-con-otra-actuacion-impresionante-f202608-n/)<br>
+
 ## www.elperiodico.com
+17:35 [Maribel abandona Barcelona para crear una comunidad autosuficiente en plena naturaleza: "Es bueno compartir tu vida con otras personas"](https://www.elperiodico.com/es/economia/20260816/comunidad-autosuficiente-naturaleza-arbucies-cataluna-maribel-gonzalez-torres-dv-loc-et-133230714)<br>
 17:14 [Meritxell Colell logra un doble reconocimiento de la crítica en el Festival de Locarno con 'Lejos de los árboles'](https://www.elperiodico.com/es/ocio-y-cultura/20260816/meritxell-colell-logra-doble-reconocimiento-critica-festival-locarno-lejos-arboles-133408809)<br>
 17:00 [No todo son mansiones y lujo, estos famosos abandonaron la ciudad para emprender una vida de hortelano: "Hago autoabastecimiento de muchas cosas"](https://www.elperiodico.com/es/gente/20260816/famosos-vida-campo-abandonaron-ciudades-mansiones-lujo-dv-et-133333940)<br>
 16:28 [Seis comarcas de Girona, en alerta por tiempo violento este domingo por la tarde](https://www.elperiodico.com/es/sociedad/20260816/seis-comarcas-girona-alerta-tiempo-violento-granizo-fuerte-viento-133408001)<br>
