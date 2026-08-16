@@ -1,8 +1,9 @@
-# News for 2026-08-16 20:51
+# News for 2026-08-16 21:39
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
 ## ua.korrespondent.net
+21:29 [Російський бізнес відмовляється від штатних працівників - розвідка](https://ua.korrespondent.net/world/russia/4903386-rosiiskyi-biznes-vidmovliaietsia-vid-shtatnykh-pratsivnykiv-rozvidka)<br>
 18:24 [Німеччина готується до екстремальної спеки](https://ua.korrespondent.net/world/4903359-nimechchyna-hotuietsia-do-ekstremalnoi-speky)<br>
 17:14 [Кінний екіпаж потрапив в аварію у Швейцарії, є жертва](https://ua.korrespondent.net/world/4903342-kinnyi-ekipazh-potrapyv-v-avariui-u-shveitsarii-ye-zhertva)<br>
 16:52 [Свята 17 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4903337-sviata-17-serpnia-2026-roku-istoriia-tradytsii)<br>
