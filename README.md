@@ -1,4 +1,4 @@
-# News for 2026-08-16 23:44
+# News for 2026-08-17 00:18
 
 Previous day: [2026-08-15](./data/2026-08-15.md)
 
@@ -19,6 +19,7 @@ Previous day: [2026-08-15](./data/2026-08-15.md)
 17:25 [España avanza como primera de grupo con otra actuación impresionante](https://as.com/baloncesto/mas_baloncesto/espana-avanza-como-primera-de-grupo-con-otra-actuacion-impresionante-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:55 [Tres muertos, uno de ellos menor, en un tiroteo en Huelva](https://www.elperiodico.com/es/sucesos/20260816/muertos-tiroteo-isla-cristina-huelva-133415327)<br>
 22:31 [Muere un parapentista al precipitarse al vacío en Cáceres](https://www.elperiodico.com/es/sucesos/20260816/muere-parapentista-accidente-sierra-montanchez-caceres-133414271)<br>
 20:15 [Ada Klein Fortuny, escritora: "Cuando una mujer escribe un libro, aunque sea sobre extraterrestres, la pregunta es qué hay de ti en esta novela"](https://www.elperiodico.com/es/sociedad/20260816/ada-klein-fortuny-mujer-escribe-libro-dv-et-133291799)<br>
 20:09 [Muere un militar de la UME mientras trabajaba en el incendio de Huesca](https://www.elperiodico.com/es/sociedad/20260816/muere-militar-ume-incendio-huesca-133411906)<br>
