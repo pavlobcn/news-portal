@@ -1,8 +1,11 @@
-# News for 2026-08-17 14:47
+# News for 2026-08-17 15:30
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
 ## ua.korrespondent.net
+15:12 [В Україні чоловік отримав підозру щодо сексексплуатації 7-річної дитини](https://ua.korrespondent.net/ukraine/4903626-v-ukraini-cholovik-otrymav-pidozru-schodo-seksekspluatatsii-7-richnoi-dytyny)<br>
+14:57 [Вітчима підозрюють у сексуальній експлуатації 13-річної падчерки](https://ua.korrespondent.net/ukraine/4903616-vitchyma-pidozruiuit-u-seksualnii-ekspluatatsii-13-richnoi-padcherky)<br>
+14:48 [У Франції розбився військовий навчальний літак](https://ua.korrespondent.net/world/4903614-u-frantsii-rozbyvsia-viiskovyi-navchalnyi-litak)<br>
 13:30 [Новоросійськ відновив відвантаження нафти - ЗМІ](https://ua.korrespondent.net/business/economics/4903580-novorosiisk-vidnovyv-vidvantazhennia-nafty-zmi)<br>
 13:27 [Потужний землетрус в Індонезії: кількість жертв зросла](https://ua.korrespondent.net/world/4903577-potuzhnyi-zemletrus-v-indonezii-kilkist-zhertv-zrosla)<br>
 13:25 [Золоті туфлі для потойбіччя: у Казахстані знайшли давнє поховання](https://ua.korrespondent.net/tech/science/4903546-zoloti-tufli-dlia-potoibichchia-u-kazakhstani-znaishly-davnie-pokhovannia)<br>
@@ -29,9 +32,17 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 04:26 [Дві ракети за 40 хвилин: SpaceX побила власний рекорд](https://ua.korrespondent.net/tech/space/4903422-dvi-rakety-za-40-khvylyn-SpaceX-pobyla-vlasnyi-rekord)<br>
 
 ## as.com
+14:30 [Willy: “Vengo a Málaga con el casco, soy soldado de Txus”](https://as.com/baloncesto/willy-vengo-a-malaga-con-el-casco-soy-soldado-de-txus-f202608-n/)<br>
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:29 [Descubren un convento medieval perdido hace casi 800 años bajo un campo de fútbol en Dinamarca](https://www.elperiodico.com/es/tendencias21/20260817/descubren-convento-medieval-perdido-800-133431433)<br>
+15:24 [Willy Hernangómez, tras su mala experiencia en el Barça: "En el Unicaja quiero sentirme jugador"](https://www.elperiodico.com/es/deportes/20260817/willy-hernangomez-mala-experiencia-barca-133431010)<br>
+15:23 [Detenida una mujer tras la muerte de su pareja en una vivienda rural de Sevilla](https://www.elperiodico.com/es/sucesos/20260817/detenida-mujer-muerte-pareja-vivienda-133431233)<br>
+15:18 [Hallan en el Danubio una mina de 700 kilos de la Segunda Guerra Mundial](https://www.elperiodico.com/es/videos/internacional/hallan-danubio-mina-700-kilos-bomba/133431036.shtml)<br>
+15:15 [Derecho a la desconexión digital en vacaciones: si te llama tu jefe en agosto no tienes por qué coger el teléfono](https://www.elperiodico.com/es/economia/20260817/derecho-desconexion-digital-vacaciones-llamada-jefe-dv-133325280)<br>
+15:00 [Los fans de Harry Potter logran modificar un proyecto millonario para proteger la tumba del elfo Dobby](https://www.elperiodico.com/es/ocio-y-cultura/20260817/elfo-dobby-tumba-harry-potter-cable-gales-reino-unido-dv-133324668)<br>
+14:52 [Cómo mejorar la convivencia familiar en verano: por qué no conviene negociarlo todo con los hijos](https://www.elperiodico.com/es/sociedad/20260817/como-poner-normas-hijos-133429777)<br>
 14:32 [La supervivencia a la muerte súbita cardíaca es la mitad en mujeres que en hombres](https://www.elperiodico.com/es/sanidad/20260817/supervivencia-muerte-subita-cardiaca-mitad-mujeres-hombres-cataluna-salut-133429347)<br>
 14:31 [El incendio de Niebla (Huelva) arrasó 33.000 hectáreas: el segundo más grave en extensión y el "más difícil" de la historia en Andalucía](https://www.elperiodico.com/es/sociedad/20260817/incendio-niebla-huelva-arraso-33-133429678)<br>
 14:29 [Eli John Ndiaye (22 años) firma dos temporadas con el Real Madrid](https://www.elperiodico.com/es/deportes/20260817/eli-john-ndiaye-22-anos-133429553)<br>

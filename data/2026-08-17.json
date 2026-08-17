@@ -1,5 +1,131 @@
 [
   {
+    "title": "Descubren un convento medieval perdido hace casi 800 años bajo un campo de fútbol en Dinamarca",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260817/descubren-convento-medieval-perdido-800-133431433",
+    "pubDate": "2026-08-17 15:29:33",
+    "category": "",
+    "description": "<h2>Una prospección con radar ha revelado la planta del convento de Santa Clara, fundado en 1256 y posteriormente demolido</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Willy Hernangómez, tras su mala experiencia en el Barça: \"En el Unicaja quiero sentirme jugador\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/willy-hernangomez-mala-experiencia-barca-133431010",
+    "pubDate": "2026-08-17 15:24:37",
+    "category": "",
+    "description": "<h2>El pívot de 32 años, que estuvo tres temporadas en el club azulgrana, fue presentado con el equipo malagueño</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenida una mujer tras la muerte de su pareja en una vivienda rural de Sevilla",
+    "link": "https://www.elperiodico.com/es/sucesos/20260817/detenida-mujer-muerte-pareja-vivienda-133431233",
+    "pubDate": "2026-08-17 15:23:43",
+    "category": "",
+    "description": "<h2>Una mujer de 33 años ha sido detenida en Estepa (Sevilla) como presunta autora de un homicidio ocurrido este domingo, que se habría producido con arma blanca.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hallan en el Danubio una mina de 700 kilos de la Segunda Guerra Mundial",
+    "link": "https://www.elperiodico.com/es/videos/internacional/hallan-danubio-mina-700-kilos-bomba/133431036.shtml",
+    "pubDate": "2026-08-17 15:18:53",
+    "category": "",
+    "description": "Artificieros consiguen sacarla del río y detonarla de forma controlada",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cancelo llega por tercera vez al Barça: \"O venía aquí o estaba un año allí sin jugar\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/cancelo-llega-tercera-vez-barca-133430227",
+    "pubDate": "2026-08-17 15:15:51",
+    "category": "",
+    "description": "<h2>El carrilero portugués de 32 años aterriza en Barcelona para firmar un contrato hasta 2029 tras desvincularse del Al-Hilal saudí</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Derecho a la desconexión digital en vacaciones: si te llama tu jefe en agosto no tienes por qué coger el teléfono",
+    "link": "https://www.elperiodico.com/es/economia/20260817/derecho-desconexion-digital-vacaciones-llamada-jefe-dv-133325280",
+    "pubDate": "2026-08-17 15:15:00",
+    "category": "",
+    "description": "<h2>La ley protege el descanso, los permisos y las vacaciones: la empresa no puede exigir que respondas llamadas, WhatsApp o correos fuera de tu jornada salvo pactos de disponibilidad</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260810/padres-con-hijos-menores-12-anos-teletrabajo-sin-perder-sueldo-dv-133235198\">Confirmado: los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні чоловік отримав підозру щодо сексексплуатації 7-річної дитини",
+    "link": "https://ua.korrespondent.net/ukraine/4903626-v-ukraini-cholovik-otrymav-pidozru-schodo-seksekspluatatsii-7-richnoi-dytyny",
+    "pubDate": "2026-08-17 15:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531328.jpg\">Мати дівчинки також перебуває під вартою. Щодо неї розслідують факти торгівлі дітьми, сексуального насильства та виготовлення дитячої порнографії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тисячі справ: де найчастіше виявляють незаконне бронювання",
+    "link": "https://ua.korrespondent.net/ukraine/4903624-tysiachi-sprav-de-naichastishe-vyiavliauit-nezakonne-bronuivannia",
+    "pubDate": "2026-08-17 15:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531321.jpg\">Найчастіше можливі схеми незаконного бронювання виявляють на комунальних і критично важливих підприємствах. У поліції наголошують: відповідальність має визначатися окремо для кожного учасника.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Кабінет міністрів затвердив Програму дій",
+    "link": "https://ua.korrespondent.net/ukraine/4903621-kabinet-ministriv-zatverdyv-prohramu-dii",
+    "pubDate": "2026-08-17 15:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531320.jpg\">Основна мета програми уряду – вистояти та перемогти у війні за незалежність України, зазначив прем’єр-міністр.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los fans de Harry Potter logran modificar un proyecto millonario para proteger la tumba del elfo Dobby",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260817/elfo-dobby-tumba-harry-potter-cable-gales-reino-unido-dv-133324668",
+    "pubDate": "2026-08-17 15:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los responsables del proyecto no comprendían inicialmente el motivo de semejante reacción:  \"¿Dobby? ¿Quién es Dobby?\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260330/harry-potter-serie-racismo-hbo-128574965\" >Racismo en 'Harry Potter': Paapa Essiedu, el actor que interpreta a Severus en la serie, amenazado de muerte</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260325/serie-harry-potter-vez-cerca-128391845\" >La serie de Harry Potter, cada vez más cerca: todo lo que se sabe del nuevo formato de la saga</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ таврує іноземних найманців порядковими номерами - ГУР",
+    "link": "https://ua.korrespondent.net/ukraine/4903618-rf-tavruie-inozemnykh-naimantsiv-poriadkovymy-nomeramy-hur",
+    "pubDate": "2026-08-17 14:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531314.jpg\">Зафіксовано випадки, коли російська поліція зупиняла іноземців, зокрема студентів та трудових мігрантів, і перевіряла наявність номерів - так силовики РФ шукають дезертирів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Вітчима підозрюють у сексуальній експлуатації 13-річної падчерки",
+    "link": "https://ua.korrespondent.net/ukraine/4903616-vitchyma-pidozruiuit-u-seksualnii-ekspluatatsii-13-richnoi-padcherky",
+    "pubDate": "2026-08-17 14:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531312.jpg\">Вітчим завербував падчерку для сексуальної експлуатації. Він шантажував її інтимними відео, які зняв на власний телефон.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cómo mejorar la convivencia familiar en verano: por qué no conviene negociarlo todo con los hijos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/como-poner-normas-hijos-133429777",
+    "pubDate": "2026-08-17 14:52:28",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Una casa sin normas no es una casa con más libertad sino con caos\", aseguran los expertos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260705/crianza-como-potenciar-neurodesarrollo-hijo-ni-chino-ni-robotica-132079340\" target=\"_blank\">Ni chino ni robótica: lo que de verdad necesita tu bebé para desarrollar su cerebro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Франції розбився військовий навчальний літак",
+    "link": "https://ua.korrespondent.net/world/4903614-u-frantsii-rozbyvsia-viiskovyi-navchalnyi-litak",
+    "pubDate": "2026-08-17 14:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531307.jpg\">У Салон-де-Прованс під час навчального польоту зазнав аварії літак Cirrus SR-20. Двоє військових отримали легкі травми та встигли залишити борт до займання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Yael Trepy, delantero del Cagliari, en coma tras estar a punto de ahogarse en una piscina",
     "link": "https://www.elperiodico.com/es/deportes/20260817/yael-trepy-delantero-cagliari-coma-133429721",
     "pubDate": "2026-08-17 14:39:15",
@@ -41,6 +167,15 @@
     "pubDate": "2026-08-17 14:31:13",
     "category": "",
     "description": "<h2>Se califica como el más difícil afrontado por el Plan Infoca debido a sus condiciones extremas y virulencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Willy: “Vengo a Málaga con el casco, soy soldado de Txus”",
+    "link": "https://as.com/baloncesto/willy-vengo-a-malaga-con-el-casco-soy-soldado-de-txus-f202608-n/",
+    "pubDate": "2026-08-17 14:30:48",
+    "category": "Baloncesto",
+    "description": "“He venido aquí a trabajar, competir y demostrar”, dijo el pívot madrileño en su presentación. Agradecimiento al Barça y cariño hacia Xavi Pascual. Firma un año con el Unicaja.",
     "topic": "",
     "topic_match_probability": 0
   },
