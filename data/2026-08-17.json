@@ -1,5 +1,221 @@
 [
   {
+    "title": "La difícil vuelta a la normalidad en Gironda tras un verano de megaincendios: \"Es una pena. Mucha gente lo ha perdido todo\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260817/dificil-vuelta-normalidad-gironda-francia-megaincendios-133427462",
+    "pubDate": "2026-08-17 13:30:06",
+    "category": "",
+    "description": "<h2>La región intenta recomponerse gracias a las donaciones, que ascienden a 4,2 millones de euros, mientras en localidades como Le Porge, los voluntarios recogen siete toneladas de ayuda al día</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Новоросійськ відновив відвантаження нафти - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4903580-novorosiisk-vidnovyv-vidvantazhennia-nafty-zmi",
+    "pubDate": "2026-08-17 13:30:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531268.jpg\">Через Новоросійськ експортуються російські сорти нафти Urals та Siberian Light, а також казахстанський KEBCO.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Потужний землетрус в Індонезії: кількість жертв зросла",
+    "link": "https://ua.korrespondent.net/world/4903577-potuzhnyi-zemletrus-v-indonezii-kilkist-zhertv-zrosla",
+    "pubDate": "2026-08-17 13:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531267.jpg\">На сході країни продовжуються пошуково-рятувальні роботи. Кількість загиблих може збільшитися.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дизельні авто в Україні: названо найпопулярніші моделі липня",
+    "link": "https://ua.korrespondent.net/business/auto/4903576-dyzelni-avto-v-ukraini-nazvano-naipopuliarnishi-modeli-lypnia",
+    "pubDate": "2026-08-17 13:26:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531260.jpg\">Український автопарк поповнили понад 5,2 тисячі автомобілів із дизельними двигунами. Рейтинг нових авто очолив Volkswagen Touareg.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Золоті туфлі для потойбіччя: у Казахстані знайшли давнє поховання",
+    "link": "https://ua.korrespondent.net/tech/science/4903546-zoloti-tufli-dlia-potoibichchia-u-kazakhstani-znaishly-davnie-pokhovannia",
+    "pubDate": "2026-08-17 13:25:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531206.jpg\">Археологи знайшли на заході Казахстану 1500-річні \"золоті черевики\", які належали представниці місцевої еліти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "SteelSeries estrena los Arctis Nova 3 Wireless, unos auriculares gaming que prometen audio espacial 360° por 109,99 €",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260817/steelseries-estrena-arctis-nova-3-133426596",
+    "pubDate": "2026-08-17 13:20:55",
+    "category": "",
+    "description": "<h2>La marca danesa apuesta por el control del sonido desde el móvil y la compatibilidad total con Xbox, PlayStation, Switch y PC en un modelo de 260 gramos con carga rápida</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Oficial: Eli Ndiaye vuelve al Real Madrid",
+    "link": "https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/",
+    "pubDate": "2026-08-17 13:20:33",
+    "category": "Baloncesto",
+    "description": "El ala-pívot Eli John Ndiaye (22 años y 2,04 metros) senegalés-español regresa al conjunto blanco decidido a relanzar su carrera tras su paso por Estados Unidos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sergio Busquets vuelve al Barça como asistente del filial",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/sergio-busquets-vuelve-barca-asistente-133426536",
+    "pubDate": "2026-08-17 13:18:08",
+    "category": "",
+    "description": "<h2>La leyenda azulgrana se integra en el equipo de trabajo de Juliano Belletti mientras realiza el curso de entrenador</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ayuso: \"Mientras Sánchez está de vacaciones con sus chanclas en La Mareta, Ceuta está al borde del colapso\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/ayuso-sanchez-vacaciones-chanclas-mareta-ceuta/133427031.shtml",
+    "pubDate": "2026-08-17 13:16:54",
+    "category": "",
+    "description": "La presidenta madrileña tilda de \"desastre legislativo absoluto\" la gestión del Gobierno de Sánchez, que se encuentra \"desnortado y de vacaciones\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ayuso acusa a Sánchez de seguir \"de vacaciones con sus chanclas en La Mareta\" mientras Ceuta está \"al borde del colapso\"",
+    "link": "https://www.elperiodico.com/es/politica/20260817/ayuso-vacaciones-sanchez-ceuta-colapso-133426783",
+    "pubDate": "2026-08-17 13:12:50",
+    "category": "",
+    "description": "<h2>La presidenta madrileña tilda de \"desastre legislativo absoluto\" la gestión del Gobierno de Sánchez, que se encuentra \"desnortado y de vacaciones\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nuevas medidas antibullying en España: 5 días para recabar información y 48 horas para emitir dictamen",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/nuevo-protocolo-contra-bullying-133426007",
+    "pubDate": "2026-08-17 13:12:34",
+    "category": "",
+    "description": "<h2 class=\"item\">El Ministerio de Educación y FP publica una guía para orientar a las direcciones ecolares en la redacción de los protocolos antiacoso con plazos cortos y definidos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251022/ninos-psicopatas-bullying-autoestima-pablo-duchement-122121050\" target=\"_blank\">Pablo Duchement, perito judicial: “No todo el 'bullying' es una cuestión de autoestima, hay niños que son psicópatas”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "¿Servicio militar para los nacidos en 2008? El BOE aclara qué cambia realmente en España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/mili-espana-servicio-militar-ano-2008-boe-dv-133421243",
+    "pubDate": "2026-08-17 13:09:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La llamada 'mili' obligatoria quedó suspendida hace casi 25 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260526/vuelve-mili-boe-servicio-militar-voluntario-dv-130441138\" >Confirmado por el BOE: Servicio Militar voluntario para los jóvenes nacidos en 2007 y 2008</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260409/encuesta-espana-mili-obligatoria-servicio-militar-128907349\" >Encuesta: El 46% de los españoles apoyan reintroducir la mili obligatoria y el 54% lo rechaza</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El precio del euríbor hoy, 17 de agosto: inicio dulce de semana en el mercado de las hipotecas",
+    "link": "https://www.elperiodico.com/es/economia/20260817/precio-euribor-hoy-17-agosto-dv-133426428",
+    "pubDate": "2026-08-17 13:05:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El euríbor hoy: este es el índice en el que se sitúa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260803/euribor-vuelve-golpear-miles-hipotecados-712-euros-mas-ano-133060503\" >El euríbor vuelve a golpear a miles de hipotecados y podrían pagar hasta 712 euros más al año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vivas acudirá al Poder Judicial por la \"pasividad\" del Gobierno ante la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/vivas-acudira-judicial-pasividad-gobierno/133426294.shtml",
+    "pubDate": "2026-08-17 13:00:07",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"La calidad de todos productos que utilizan es de 10\": el restaurante de Vilanova i la Geltrú aclamado por sus vinos",
+    "link": "https://www.elperiodico.com/es/barcelona/vilanova-i-la-geltru/20260817/vilanova-geltru-restaurante-mejor-cal-purgat-maridaje-vinos-dv-loc-114800182",
+    "pubDate": "2026-08-17 13:00:00",
+    "category": "",
+    "description": "<h2>El matrimonio que lo regenta ha enamorado a los locales con su particular \"maridaje de vinos\" </h2><h2><a href=\"https://www.elperiodico.com/es/vilanova-i-la-geltru/20250214/parlament-propone-nueva-linea-rodalies-entre-vilanova-tarragona-y-reus-114296225\" >El Parlament propone una nueva línea de Rodalies entre Vilanova, Tarragona y Reus</a></h2><h2><a href=\"https://www.elperiodico.com/es/vilanova-i-la-geltru/20250208/250-pisos-proteccion-oficial-vilanova-dejaran-serlo-2025-114077097\" >Más de 250 pisos de protección oficial de Vilanova i la Geltrú dejarán de serlo este 2025</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Tribunal de Apelaciones de Phuket (Tailandia) asegura que ya está lista la sentencia sobre los recursos presentados por el caso de Daniel Sancho",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/tribunal-apelaciones-phuket-tailandia-asegura-lista-sentencia-recursos-caso-daniel-sancho-video/133426224.shtml",
+    "pubDate": "2026-08-17 12:59:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Жахлива ДТП в Ірландії: загинули п’ятеро підлітків",
+    "link": "https://ua.korrespondent.net/world/4903565-zhakhlyva-dtp-v-irlandii-zahynuly-piatero-pidlitkiv",
+    "pubDate": "2026-08-17 12:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531237.jpg\">П’ятеро підлітків загинули внаслідок лобового зіткнення на автомагістралі M9 в Ірландії. Ще четверо людей дістали серйозні травми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Молдова б'є на сполох: у Дністровському водосховищі рекордний мінімум води",
+    "link": "https://ua.korrespondent.net/world/4903568-moldova-bie-na-spolokh-u-dnistrovskomu-vodoskhovyschi-rekordnyi-minimum-vody",
+    "pubDate": "2026-08-17 12:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531239.png\">Міністерство   довкілля   Молдови   закликало   громадян  ощадливо  використовувати  воду.",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У ЦПД спростували чутки про зимові \"локдауни\"",
+    "link": "https://ua.korrespondent.net/ukraine/4903567-u-tspd-sprostuvaly-chutky-pro-zymovi-lokdauny",
+    "pubDate": "2026-08-17 12:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531238.jpg\">Українців закликали довіряти лише інформації від представників органів, які безпосередньо залучені до підготовки країни до зими.",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Irán asegura que está en una \"posición ofensiva\" ante el fin del plazo de 60 días para negociar un acuerdo con EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260817/iran-asegura-posicion-ofensiva-fin-plazo-60-dias-negociar-acuerdo-eeuu-133426109",
+    "pubDate": "2026-08-17 12:55:55",
+    "category": "",
+    "description": "<h2>El memorándum de entendimiento entre los dos países, firmado a mediados de junio y violado constantemente, fijaba un tiempo límite para llegar a un acuerdo definitivo de 60 días, que termina este lunes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "CHERY в Україні — 20 років руху вперед",
+    "link": "https://ua.korrespondent.net/business/auto/4902905-CHERY-v-ukraini-20-rokiv-rukhu-vpered",
+    "pubDate": "2026-08-17 12:55:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4528484.jpg\">\r\n\r\nДва десятиліття інновацій, довіри та спільного шляху",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У роздягальні Жирони сталася бійка за участю Циганкова - джерело",
+    "link": "https://ua.korrespondent.net/sport/football/4903558-u-rozdiahalni-zhyrony-stalasia-biika-za-uchastui-tsyhankova-dzherelo",
+    "pubDate": "2026-08-17 12:52:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531235.jpg\">За даними джерел, у роздягальні команди виникла бійка за участю українця після його демаршу та відмови виходити на заміну в матчі проти Леганеса.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Темпи наступу РФ уповільнилиcь удвічі - DeepState",
+    "link": "https://ua.korrespondent.net/ukraine/4903562-tempy-nastupu-rf-upovilnylyc-udvichi-DeepState",
+    "pubDate": "2026-08-17 12:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531236.jpg\">Найбільше ворог просунувся на Куп’янському напрямку в Харківській області, де довгий час не мав успіху взагалі.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Брудне повітря у Кропивницькому: що показали заміри",
+    "link": "https://ua.korrespondent.net/ukraine/4903560-brudne-povitria-u-kropyvnytskomu-scho-pokazaly-zamiry",
+    "pubDate": "2026-08-17 12:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531230.jpg\">У Кропивницькому вранці зафіксували перевищення допустимих норм за трьома показниками якості повітря. Водночас повторні заміри показали, що ситуація вже нормалізувалася.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Blink cámara de exterior: vigilancia inalámbrica con luz integrada",
     "link": "https://www.elperiodico.com/es/tecnologia/20260817/blink-camara-exterior-vigilancia-inalambrica-133424997",
     "pubDate": "2026-08-17 12:44:18",
