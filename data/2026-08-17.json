@@ -1,5 +1,50 @@
 [
   {
+    "title": "“Messi controla a Paredes, no lo quiero expulsar”",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/messi-controla-paredes-quiero-expulsar-133415131",
+    "pubDate": "2026-08-17 07:48:58",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere a los 36 años Hayden Panettiere, actriz de 'Héroes' y 'Nashville'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260817/muere-36-anos-actriz-hayden-panettiere-heroes-nashville-133417293",
+    "pubDate": "2026-08-17 07:43:35",
+    "category": "",
+    "description": "<h2>Panettiere, madre de una hija con el exboxeador Wladimir Klitschko, tuvo una vida personal marcada por etapas complicadas y relaciones mediáticas</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія завербувала майже 3000 африканців на війну проти України",
+    "link": "https://ua.korrespondent.net/ukraine/4903443-rosiia-zaverbuvala-maizhe-3000-afrykantsiv-na-viinu-proty-ukrainy",
+    "pubDate": "2026-08-17 07:41:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530995.jpg\">Найбільше завербованих на війну проти України походять із Кенії, Єгипту, Камеруну, Гани, Нігерії, Уганди, Алжиру та Малі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/ultima-hora-incendios-espana-directo-132759066",
+    "pubDate": "2026-08-17 07:23:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав кількість боїв на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4903440-henshtab-nazvav-kilkist-boiv-na-fronti",
+    "pubDate": "2026-08-17 07:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530972.jpg\">Найбільшу кількість штурмових дій зафіксовано на Покровському напрямку, де бійці ЗСУ зупинили 33 атаки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Los pisos con más de diez personas empadronadas se cronifican: 2.328 en Barcelona y 667 en L'Hospitalet",
     "link": "https://www.elperiodico.com/es/barcelona/20260817/pisos-decena-personas-empadronadas-cronifican-barcelona-lhospitalet-133231978",
     "pubDate": "2026-08-17 07:01:05",
@@ -27,6 +72,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Indonesia: un seísmo de 5,8 sacude Flores pocos días después de otro devastador",
+    "link": "https://www.elperiodico.com/es/internacional/20260817/terremoto-indonesia-magnitud-5-8-sacude-133417169",
+    "pubDate": "2026-08-17 06:56:11",
+    "category": "",
+    "description": "<h2>Los desplazados en la isla de Flores denuncian la falta de ayuda gubernamental tras el último seísmo, apenas días después de otro terremoto de gran magnitud</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Un terremoto de 5,7 sacude la isla indonesia de Flores tras el fuerte sismo con 53 muertos",
     "link": "https://www.elperiodico.com/es/internacional/20260817/terremoto-5-7-sacude-isla-133417141",
     "pubDate": "2026-08-17 06:55:20",
@@ -34,6 +88,15 @@
     "description": "<h2>La isla, donde viven 2 millones de personas, se encuentra en el llamado Anillo de Fuego del Pacífico, una zona de alta actividad sísmica</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "У мережі поширили фейкову заяву дружини Драпатого - ЦПД",
+    "link": "https://ua.korrespondent.net/ukraine/4903433-u-merezhi-poshyryly-feikovu-zaiavu-druzhyny-drapatoho-tspd",
+    "pubDate": "2026-08-17 06:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530949.jpg\">Жодних підтверджень автентичності цієї заяви чи її належності дружині головнокомандувача немає.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "Генштаб підрахував нові втрати армії Росії",
