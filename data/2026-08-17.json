@@ -1,5 +1,59 @@
 [
   {
+    "title": "Rodri, a su llegada a Barcelona: \"Jugar en el Barça es un sueño\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/rodri-llegada-barcelona-jugar-barca/133440799.shtml",
+    "pubDate": "2026-08-17 21:29:05",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни вдарили по Запоріжжю, спалахнула пожежа",
+    "link": "https://ua.korrespondent.net/ukraine/4903727-rosiiany-vdaryly-po-zaporizhzhui-spalakhnula-pozhezha",
+    "pubDate": "2026-08-17 21:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531528.jpg\">Росіяни ввечері атакували Запоріжжя безпілотником. Сталася пожежа на одному із садових товариств.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tres muertos al estrellarse el helicóptero en el que viajaban en la isla griega de Sifnos",
+    "link": "https://www.elperiodico.com/es/internacional/20260817/tres-muertos-estrellarse-helicoptero-viajaban-133440601",
+    "pubDate": "2026-08-17 21:18:47",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 17 de agosto de 2026, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/primitiva-hoy-resultados-comprobar-numeros-133438243",
+    "pubDate": "2026-08-17 21:17:00",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, martes 18 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260817/horoscopo-hoy-martes-18-agosto-dv-133327683",
+    "pubDate": "2026-08-17 21:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rodri aterriza en Barcelona para redefinir el juego del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/rodri-aterriza-barcelona-redefinir-juego-133433974",
+    "pubDate": "2026-08-17 21:00:47",
+    "category": "",
+    "description": "<h2>El mediocentro madrileño llega procedente de Manchester para pasar la revisión médica e incorporarse de inmediato a la plantilla</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La guerra de clanes de Huelva, con ecos en Gijón: dos de los fallecidos en Isla Cristina son la suegra y la hermana de \"El Baba\"",
     "link": "https://www.elperiodico.com/es/videos/sucesos/guerra-clanes-huelva-ecos-gijon/133440133.shtml",
     "pubDate": "2026-08-17 20:53:50",
@@ -16,6 +70,15 @@
     "description": "<h2>El mandatario estadounidense no detalla el contenido de las comunicaciones intercambiadas con el líder norcoreano</h2>",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Призначено першого заступника секретаря РНБО",
+    "link": "https://ua.korrespondent.net/ukraine/4903722-pryznacheno-pershoho-zastupnyka-sekretaria-rnbo",
+    "pubDate": "2026-08-17 20:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531481.png\">Сергій Науменко є полковником поліції, з вересня 2025 року був заступником міністра внутрішніх справ України. До цього він курував авіаційну безпеку МВС.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Las fiestas populares, en alerta frente al machismo y la homofobia",
@@ -60,6 +123,15 @@
     "category": "",
     "description": "<h2>Estas luces son un elemento esencial de seguridad por el que podrías ser multado en caso de no usarlos correctamente</h2>",
     "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Повідомлено про підозру окупанту, що залучив дівчину до збору даних",
+    "link": "https://ua.korrespondent.net/ukraine/4903719-povidomleno-pro-pidozru-okupantu-scho-zaluchyv-divchynu-do-zboru-danykh",
+    "pubDate": "2026-08-17 20:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531474.png\">Неповнолітня за його вказівками збирала інформацію про місця перебування працівників поліції та СБУ, військовослужбовців і техніки ЗСУ, а також місця зберігання зброї та боєприпасів.",
+    "topic": "політика",
     "topic_match_probability": 90
   },
   {
@@ -153,6 +225,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Призначено нового командувача Сил логістики",
+    "link": "https://ua.korrespondent.net/ukraine/4903707-pryznacheno-novoho-komanduvacha-syl-lohistyky",
+    "pubDate": "2026-08-17 19:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531458.png\">Юрій Погрібний був тимчасовим виконувачем обов'язків командувача Сил логістики Збройних Сил України.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El riesgo de incendios lleva a la cancelación de cientos de fuegos artificiales en localidades de toda España",
     "link": "https://www.elperiodico.com/es/videos/sociedad/riesgo-incendios-lleva-cancelacion-cientos/133438715.shtml",
     "pubDate": "2026-08-17 19:31:50",
@@ -169,6 +250,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531457.jpg\">Chevron планує оцінити можливість підключення відкриття до вже наявної поблизу інфраструктури.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині знято обмеження комендантської години для транзитного руху транспорту",
+    "link": "https://ua.korrespondent.net/ukraine/4903698-na-odeschyni-zniato-obmezhennia-komendantskoi-hodyny-dlia-tranzytnoho-rukhu-transportu",
+    "pubDate": "2026-08-17 19:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531451.jpeg\">Знято обмеження комендантської години для транзитного руху всіх видів транспорту в обох напрямках дорогами державного значення з київської траси по обʼїзній міста Одеси.",
+    "topic": "політика",
+    "topic_match_probability": 60
   },
   {
     "title": "Miles de voluntarios trabajan sin descanso en Bogotá para clasificar y enviar toneladas de suministros a las zonas devastadas por los seísmos",
@@ -198,6 +288,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Україна взяла участь у навчаннях НАТО у Латвії",
+    "link": "https://ua.korrespondent.net/ukraine/4903693-ukraina-vziala-uchast-u-navchanniakh-nato-u-latvii",
+    "pubDate": "2026-08-17 18:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531430.jpg\">У Латвії українські військові спільно з представниками 23 країн випробовували системи виявлення, управління та протидії безпілотним авіаційним системам у межах Baltic Trust 2026.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "La Fiscalía detecta en Murcia a maltratadores que usan a los animales como instrumento de violencia vicaria",
     "link": "https://www.elperiodico.com/es/sociedad/20260817/fiscalia-detecta-murcia-maltratadores-animales-violencia-vicaria-133437721",
     "pubDate": "2026-08-17 18:57:29",
@@ -223,6 +322,15 @@
     "description": "<h2>JLR quiere aumentar sus ventas en el mercado estadounidense y se propone fabricar localmente, un movimiento donde su acuerdo de entendimiento con Stellantis podría ser determinante.</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни понад 80 разів атакували Дніпропетровщину, є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4903691-rosiiany-ponad-80-raziv-atakuvaly-dnipropetrovschynu-ye-zahybli",
+    "pubDate": "2026-08-17 18:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531422.png\">На Дніпропетровщині внаслідок російських обстрілів двоє людей загинули, одна людина дістала пораненя.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Destrozos y daños en decorados de las fiestas de Gràcia: \"Se sientan sobre el Hobbit 'caganer'\"",

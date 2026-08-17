@@ -1,4 +1,4 @@
-# News for 2026-08-17 20:55
+# News for 2026-08-17 21:30
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
@@ -54,6 +54,7 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:18 [Tres muertos al estrellarse el helicóptero en el que viajaban en la isla griega de Sifnos](https://www.elperiodico.com/es/internacional/20260817/tres-muertos-estrellarse-helicoptero-viajaban-133440601)<br>
 20:53 [La guerra de clanes de Huelva, con ecos en Gijón: dos de los fallecidos en Isla Cristina son la suegra y la hermana de "El Baba"](https://www.elperiodico.com/es/videos/sucesos/guerra-clanes-huelva-ecos-gijon/133440133.shtml)<br>
 20:43 [Las fiestas populares, en alerta frente al machismo y la homofobia](https://www.elperiodico.com/es/videos/sociedad/fiestas-populares-alerta-frente-machismo/133439962.shtml)<br>
 20:30 [Noches que matan: cuando el calor no da tregua aunque caiga el sol](https://www.elperiodico.com/es/sociedad/20260817/noches-matan-calor-da-tregua-133435109)<br>
