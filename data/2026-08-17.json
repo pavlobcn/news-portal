@@ -1,5 +1,194 @@
 [
   {
+    "title": "En 2027, la jubilación anticipada voluntaria será a partir de los 63 años con más de 38,5 de cotización",
+    "link": "https://www.elperiodico.com/es/economia/20260817/2027-jubilacion-anticipada-voluntaria-sera-133418948",
+    "pubDate": "2026-08-17 08:51:24",
+    "category": "",
+    "description": "<h2>El Mecanismo de Equidad Intergeneracional (MEI) subirá hasta el 1% en 2027, buscando financiar las jubilaciones de la generación del 'baby boom'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ya está en internet el mapa completo de las 11.000 especies de aves del mundo",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260817/publican-internet-mapa-completo-11-126289965",
+    "pubDate": "2026-08-17 08:51:00",
+    "category": "",
+    "description": "<h2>Una nueva web permite a cualquier usuario establecer relaciones taxonómicas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кропивницький огорнуло димом: у районі тліють відстійники",
+    "link": "https://ua.korrespondent.net/ukraine/4903461-kropyvnytskyi-ohornulo-dymom-u-raioni-tliuit-vidstiinyky",
+    "pubDate": "2026-08-17 08:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531032.jpg\">У Кропивницькому зафіксували сильне задимлення через пожежу на території недіючих відстійників. Рятувальники вже працюють на місці, а містян закликають берегтися диму.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor y las tormentas con granizo afectan a diez comunidades autónomas y la dana se mantiene en el suroeste peninsular",
+    "link": "https://www.elperiodico.com/es/tiempo/20260817/calor-tormentas-granizo-afectan-diez-comunidades-dana-mantiene-suroeste-133418867",
+    "pubDate": "2026-08-17 08:49:01",
+    "category": "",
+    "description": "<h2>Toda Catalunya tiene activos avisos por calor, y Barcelona y Girona por tormentas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor extremo dispara las averías de vehículos hasta un 50% este verano",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260817/calor-extremo-dispara-averias-vehiculos-133418895",
+    "pubDate": "2026-08-17 08:47:47",
+    "category": "",
+    "description": "<h2>Los talleres registran un aumento del 35 % en reparaciones vinculadas al calor en julio y agosto, con alzas significativas en radiadores y sistemas de aire acondicionado</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El actual brote de ébola en el este de la RD del Congo ya es el segundo más letal de la historia",
+    "link": "https://www.elperiodico.com/es/internacional/20260817/actual-brote-ebola-rd-congo-segundo-mas-letal-historia-133418906",
+    "pubDate": "2026-08-17 08:46:27",
+    "category": "",
+    "description": "<h2>Las autoridades congoleñas registran 2.325 muertos y un total de 4.945 casos confirmados de ébola</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio ya extinguido en un edificio de Lleida obliga a desalojar otras 9 fincas cercanas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/incendio-extinguido-edificio-lleida-obliga-133418731",
+    "pubDate": "2026-08-17 08:44:07",
+    "category": "",
+    "description": "<h2>El fuego, que se inició en los bajos del inmueble, se propagó rápidamente y provocó el colapso de los forjados de las plantas superiores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rubén (44 años) reforma una casa abandonada en la montaña en Barcelona sin gastar nada: \"Voy a la ciudad y reciclo lo que desperdicia la gente\"",
+    "link": "https://www.elperiodico.com/es/economia/20260817/ruben-reforma-casa-barcelona-recoge-basura-dv-et-133291329",
+    "pubDate": "2026-08-17 08:42:00",
+    "category": "",
+    "description": "<h2>No compra ropa, vive del reciclaje y gana dinero vendiendo por internet lo que otros tiran a la basura</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260813/cabana-aislada-soledad-84-anos-ivan-moricz-dv-et-133177250\">Iván Moricz (84 años) vive aislado en una cabaña desde hace 40 años: \"Me motiva pensar que la soledad no existe. Me gusta estar conmigo y eso es suficiente para mí\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нафта подорожчала після падіння руху танкерів",
+    "link": "https://ua.korrespondent.net/business/economics/4903455-nafta-podorozhchala-pislia-padinnia-rukhu-tankeriv",
+    "pubDate": "2026-08-17 08:41:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531019.jpg\">Ціни на нафту зросли на тлі нових сумнівів у відновленні переговорів між США та Іраном. Додатковий тиск на ринок створило різке скорочення судноплавства через Ормузьку протоку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія пошкодила судно на Одещині: поранені четверо людей",
+    "link": "https://ua.korrespondent.net/ukraine/4903457-rosiia-poshkodyla-sudno-na-odeschyni-poraneni-chetvero-luidei",
+    "pubDate": "2026-08-17 08:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531020.jpg\">Пошкоджень зазнало цивільне судно під прапором Республіки Того. Внаслідок атаки виникли пожежі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mónica, tras empezar de cero en una casa abandonada en la montaña: \"Hay veces que vamos tan rápido que no escuchamos ni siquiera los pájaros que nos rodean\"",
+    "link": "https://www.elperiodico.com/es/economia/20260817/empezar-cero-casa-abandonada-montana-asturias-monica-dv-et-133268335",
+    "pubDate": "2026-08-17 08:30:00",
+    "category": "",
+    "description": "<h2>La mujer ha reformado la casa de los antepasados de su marido: \"Estuvo mucho tiempo cerrada, mucho tiempo abandonada y la encontramos en mal estado\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260807/bosque-animales-rescatados-pareja-aislada-sole-rudy-asturias-dv-et-132932539\">Sole y Rudy, aislados en el bosque y rodeados de animales rescatados: \"El peor momento era cuando estaba el tejado quitado y empezó a llover\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260805/vivir-paraiso-hijas-autosuficiente-ciudad-cancer-estres-dv-et-133000633\">Suleima renunció a todo para construir una nueva vida junto a sus hijas: \"Me fui para conocer lo que era la ciudad, pero dije 'Ya no más'\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Прем’єр Британії листувався з фейковою радницею Трампа",
+    "link": "https://ua.korrespondent.net/world/4903453-premier-brytanii-lystuvavsia-z-feikovoui-radnytseui-trampa",
+    "pubDate": "2026-08-17 08:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531009.jpg\">Прем’єр-міністр Великої Британії Енді Бернем міг листуватися з людиною, яка видавала себе за керівницю апарату Дональда Трампа Сьюзен Вайлз.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Зірка Спіймати Кайдаша вперше стала мамою",
+    "link": "https://ua.korrespondent.net/lifestyle/4903377-zirka-spiimaty-kaidasha-vpershe-stala-mamoui",
+    "pubDate": "2026-08-17 08:22:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530569.jpg\">Акторка популярного серіалу Спіймати Кайдаша Христина Корчинська вперше стала мамою - у неї народилася донечка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miles de personas continúan desplazadas tras el terremoto de 7,7 en la isla indonesia de Flores",
+    "link": "https://www.elperiodico.com/es/videos/internacional/miles-personas-continuan-desplazadas-terremoto-isla-indonesia-flores-video/133418564.shtml",
+    "pubDate": "2026-08-17 08:19:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlos Alcaraz entra en la semana clave para el US Open",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/carlos-alcaraz-entra-semana-clave-133418427",
+    "pubDate": "2026-08-17 08:15:20",
+    "category": "",
+    "description": "<h2>La presencia del murciano en Nueva York sigue en el aire a catorce días del inicio del torneo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Стали відомі деталі нічної атаки РФ на Україну",
+    "link": "https://ua.korrespondent.net/ukraine/4903451-staly-vidomi-detali-nichnoi-ataky-rf-na-ukrainu",
+    "pubDate": "2026-08-17 08:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531008.jpg\">Сили протиповітряної оборони знешкодили 106 зі 128 безпілотників, якими російські війська атакували Україну.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Pueden prohibirte tus vecinos que te duches por la noche? Esto dice la Ley de Propiedad Horizontal",
+    "link": "https://www.elperiodico.com/es/economia/20260817/vecino-ducha-noche-verano-molesta-ley-propiedad-horizontal-dv-et-133326246",
+    "pubDate": "2026-08-17 08:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Tomar un baño de madrugada durante las noches tórridas es la única manera de refrescarse para muchas personas </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20260611/precio-luz-ley-propiedad-horizontal-lavadora-noche-multa-dv-128824318\">Lo dice la ley: el ruido de la lavadora puede salirte muy caro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un Audi RS3 incautado por la policía pasa a ser un coche patrulla en Francia",
+    "link": "https://www.elperiodico.com/es/motor/20260817/audi-incautado-policia-pasa-coche-patrulla-133324663",
+    "pubDate": "2026-08-17 08:00:49",
+    "category": "",
+    "description": "<h2>El deportivo ha sido incorporado a una unidad de la Gendarmería Nacional tras una operación contra el narcotráfico en 2022. </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El peor verano de incendios en Aragón colma la paciencia de los bomberos forestales: \"Nuestros peores presagios se han cumplido\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260817/peor-verano-incendios-aragon-colma-paciencia-bomberos-forestales-133418107",
+    "pubDate": "2026-08-17 07:59:51",
+    "category": "",
+    "description": "<h2>Los bomberos forestales de Aragón inician una huelga indefinida para denunciar la precariedad laboral y la falta de medios ante la virulencia de los incendios. Una manifestación en Jaca reclamará mejoras en la gestión forestal para evitar que se repitan tragedias como la actual</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шалений камбек: Світоліна вийшла до третього кола турніру",
+    "link": "https://ua.korrespondent.net/sport/tenis/4903445-shalenyi-kambek-svitolina-vyishla-do-tretoho-kola-turniru",
+    "pubDate": "2026-08-17 07:59:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531007.jpg\">Програвши в першому сеті, Еліна повністю перехопила ініціативу і переламала хід гри, не залишивши суперниці жодного шансу.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Польщі напали на двох українських дітей через мову",
+    "link": "https://ua.korrespondent.net/world/4903446-u-polschi-napaly-na-dvokh-ukrainskykh-ditei-cherez-movu",
+    "pubDate": "2026-08-17 07:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530996.jpg\">Дівчина та її брат зазнали агресії з боку чоловіка та жінки. Причиною стало те, що вони розмовляли між собою українською мовою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "“Messi controla a Paredes, no lo quiero expulsar”",
     "link": "https://www.elperiodico.com/es/deportes/20260817/messi-controla-paredes-quiero-expulsar-133415131",
     "pubDate": "2026-08-17 07:48:58",
@@ -36,6 +225,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Костюк почала виступ у Цинциннаті з вольової перемоги",
+    "link": "https://ua.korrespondent.net/sport/tenis/4903439-kostuik-pochala-vystup-u-tsyntsynnati-z-volovoi-peremohy",
+    "pubDate": "2026-08-17 07:21:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530984.jpg\">Продемонструвавши характер і стійкість у вирішальні моменти гри, Марта виборола путівку до наступного раунду змагань.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Генштаб назвав кількість боїв на фронті",
     "link": "https://ua.korrespondent.net/ukraine/4903440-henshtab-nazvav-kilkist-boiv-na-fronti",
     "pubDate": "2026-08-17 07:14:00",
@@ -61,6 +259,15 @@
     "description": "<h2>Los coches con cambio manual han perdido terreno frente a las opciones electrificadas, sobre todo híbridas, que priorizan las cajas automáticas</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Екснаречена Кличка, акторка Гайден Панеттьєрі померла у 36 років",
+    "link": "https://ua.korrespondent.net/lifestyle/4903437-eksnarechena-klychka-aktorka-haiden-panettieri-pomerla-u-36-rokiv",
+    "pubDate": "2026-08-17 06:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530971.jpg\">Американська акторка, яка раніше була заручена з українським боксером Володимиром Кличком, померла у віці 36 років.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Un terremoto de magnitud 5,8 sacude la isla indonesia de Flores tras el seísmo que dejó 53 fallecidos",
@@ -90,6 +297,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Харлан показала зворушливе фото з донечкою",
+    "link": "https://ua.korrespondent.net/sport/other/4903376-kharlan-pokazala-zvorushlyve-foto-z-donechkoui",
+    "pubDate": "2026-08-17 06:45:00",
+    "category": "Інші",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530571.jpg\">Спортсменка розчулила шанувальників фото з прогулянки, на якому її новонароджена донечка відпочиває у візочку.",
+    "topic": "спорт",
+    "topic_match_probability": 60
+  },
+  {
     "title": "У мережі поширили фейкову заяву дружини Драпатого - ЦПД",
     "link": "https://ua.korrespondent.net/ukraine/4903433-u-merezhi-poshyryly-feikovu-zaiavu-druzhyny-drapatoho-tspd",
     "pubDate": "2026-08-17 06:34:00",
@@ -99,6 +315,15 @@
     "topic_match_probability": 75
   },
   {
+    "title": "Ланс створив сенсацію та вперше виграв Суперкубок Франції",
+    "link": "https://ua.korrespondent.net/sport/football/4903431-lans-stvoryv-sensatsiui-ta-vpershe-vyhrav-superkubok-frantsii",
+    "pubDate": "2026-08-17 06:26:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530947.jpg\">Попри вилучення у складі обох команд, Ланс втримав перевагу та здобув перший подібний трофей у своїй історії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Генштаб підрахував нові втрати армії Росії",
     "link": "https://ua.korrespondent.net/ukraine/4903429-henshtab-pidrakhuvav-novi-vtraty-armii-rosii",
     "pubDate": "2026-08-17 06:17:00",
@@ -106,6 +331,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530945.jpg\">Минулої доби ЗСУ ліквідували 1440 окупантів. Знищено два танки, чотири бронемашини, 93 артсистеми, три РСЗВ, два засоби ППО, 16 НРК і 2093 БпЛА.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Vogue показав перші кадри з весілля Роналду",
+    "link": "https://ua.korrespondent.net/sport/football/4903358-Vogue-pokazav-pershi-kadry-z-vesillia-ronaldu",
+    "pubDate": "2026-08-17 06:09:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4530485.jpg\">Vogue випустив ексклюзивну фотосесію із молодятами та присвятив їм нову диджитал-обкладинку, показавши деталі урочистості широкому загалу.",
+    "topic": "спорт",
+    "topic_match_probability": 75
   },
   {
     "title": "España se examina en el Mundial: dos selecciones, dos caminos hacia la élite del Hockey hierba",

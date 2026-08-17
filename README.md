@@ -1,11 +1,28 @@
-# News for 2026-08-17 07:55
+# News for 2026-08-17 08:54
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
 ## ua.korrespondent.net
+08:50 [Кропивницький огорнуло димом: у районі тліють відстійники](https://ua.korrespondent.net/ukraine/4903461-kropyvnytskyi-ohornulo-dymom-u-raioni-tliuit-vidstiinyky)<br>
+08:41 [Нафта подорожчала після падіння руху танкерів](https://ua.korrespondent.net/business/economics/4903455-nafta-podorozhchala-pislia-padinnia-rukhu-tankeriv)<br>
+08:32 [Росія пошкодила судно на Одещині: поранені четверо людей](https://ua.korrespondent.net/ukraine/4903457-rosiia-poshkodyla-sudno-na-odeschyni-poraneni-chetvero-luidei)<br>
+08:22 [Зірка Спіймати Кайдаша вперше стала мамою](https://ua.korrespondent.net/lifestyle/4903377-zirka-spiimaty-kaidasha-vpershe-stala-mamoui)<br>
+08:14 [Стали відомі деталі нічної атаки РФ на Україну](https://ua.korrespondent.net/ukraine/4903451-staly-vidomi-detali-nichnoi-ataky-rf-na-ukrainu)<br>
+07:55 [У Польщі напали на двох українських дітей через мову](https://ua.korrespondent.net/world/4903446-u-polschi-napaly-na-dvokh-ukrainskykh-ditei-cherez-movu)<br>
+06:59 [Екснаречена Кличка, акторка Гайден Панеттьєрі померла у 36 років](https://ua.korrespondent.net/lifestyle/4903437-eksnarechena-klychka-aktorka-haiden-panettieri-pomerla-u-36-rokiv)<br>
 04:26 [Дві ракети за 40 хвилин: SpaceX побила власний рекорд](https://ua.korrespondent.net/tech/space/4903422-dvi-rakety-za-40-khvylyn-SpaceX-pobyla-vlasnyi-rekord)<br>
 
 ## www.elperiodico.com
+08:51 [En 2027, la jubilación anticipada voluntaria será a partir de los 63 años con más de 38,5 de cotización](https://www.elperiodico.com/es/economia/20260817/2027-jubilacion-anticipada-voluntaria-sera-133418948)<br>
+08:51 [Ya está en internet el mapa completo de las 11.000 especies de aves del mundo](https://www.elperiodico.com/es/medio-ambiente/20260817/publican-internet-mapa-completo-11-126289965)<br>
+08:49 [El calor y las tormentas con granizo afectan a diez comunidades autónomas y la dana se mantiene en el suroeste peninsular](https://www.elperiodico.com/es/tiempo/20260817/calor-tormentas-granizo-afectan-diez-comunidades-dana-mantiene-suroeste-133418867)<br>
+08:46 [El actual brote de ébola en el este de la RD del Congo ya es el segundo más letal de la historia](https://www.elperiodico.com/es/internacional/20260817/actual-brote-ebola-rd-congo-segundo-mas-letal-historia-133418906)<br>
+08:44 [Un incendio ya extinguido en un edificio de Lleida obliga a desalojar otras 9 fincas cercanas](https://www.elperiodico.com/es/sociedad/20260817/incendio-extinguido-edificio-lleida-obliga-133418731)<br>
+08:42 [Rubén (44 años) reforma una casa abandonada en la montaña en Barcelona sin gastar nada: "Voy a la ciudad y reciclo lo que desperdicia la gente"](https://www.elperiodico.com/es/economia/20260817/ruben-reforma-casa-barcelona-recoge-basura-dv-et-133291329)<br>
+08:30 [Mónica, tras empezar de cero en una casa abandonada en la montaña: "Hay veces que vamos tan rápido que no escuchamos ni siquiera los pájaros que nos rodean"](https://www.elperiodico.com/es/economia/20260817/empezar-cero-casa-abandonada-montana-asturias-monica-dv-et-133268335)<br>
+08:19 [Miles de personas continúan desplazadas tras el terremoto de 7,7 en la isla indonesia de Flores](https://www.elperiodico.com/es/videos/internacional/miles-personas-continuan-desplazadas-terremoto-isla-indonesia-flores-video/133418564.shtml)<br>
+08:10 [¿Pueden prohibirte tus vecinos que te duches por la noche? Esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260817/vecino-ducha-noche-verano-molesta-ley-propiedad-horizontal-dv-et-133326246)<br>
+07:59 [El peor verano de incendios en Aragón colma la paciencia de los bomberos forestales: "Nuestros peores presagios se han cumplido"](https://www.elperiodico.com/es/sociedad/20260817/peor-verano-incendios-aragon-colma-paciencia-bomberos-forestales-133418107)<br>
 07:23 [Incendios forestales en Catalunya y resto de España, en directo | Última hora de los fuegos en Cáceres y Senet (Lleida)](https://www.elperiodico.com/es/sociedad/20260817/ultima-hora-incendios-espana-directo-132759066)<br>
 07:01 [Los pisos con más de diez personas empadronadas se cronifican: 2.328 en Barcelona y 667 en L'Hospitalet](https://www.elperiodico.com/es/barcelona/20260817/pisos-decena-personas-empadronadas-cronifican-barcelona-lhospitalet-133231978)<br>
 06:56 [Un terremoto de magnitud 5,8 sacude la isla indonesia de Flores tras el seísmo que dejó 53 fallecidos](https://www.elperiodico.com/es/internacional/20260817/terremoto-magnitud-5-8-sacude-133417169)<br>
