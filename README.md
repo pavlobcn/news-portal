@@ -1,8 +1,20 @@
-# News for 2026-08-17 15:30
+# News for 2026-08-17 18:41
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
 ## ua.korrespondent.net
+18:29 [Російська Бандероль залетіла до Молдови](https://ua.korrespondent.net/world/4903687-rosiiska-banderol-zaletila-do-moldovy)<br>
+18:01 [Росіяни вдарили по Одещині, палає будинок](https://ua.korrespondent.net/ukraine/4903684-rosiiany-vdaryly-po-odeschyni-palaie-budynok)<br>
+17:22 [Таємничий скарб із часів Сталіна виявили в арктичних водах](https://ua.korrespondent.net/tech/science/4903367-taiemnychyi-skarb-iz-chasiv-stalina-vyiavyly-v-arktychnykh-vodakh)<br>
+17:15 [На Донеччині 30 окупантів здалися в полон](https://ua.korrespondent.net/ukraine/4903673-na-donechchyni-30-okupantiv-zdalysia-v-polon)<br>
+16:56 [Долар упав до мінімуму з початку червня](https://ua.korrespondent.net/business/financial/4903662-dolar-upav-do-minimumu-z-pochatku-chervnia)<br>
+16:44 [У Китаї створили робота, який стрибає на два метри](https://ua.korrespondent.net/tech/technews/4903659-u-kytai-stvoryly-robota-yakyi-strybaie-na-dva-metry)<br>
+16:40 [Яндекс "сховав у лісі" ракетну батарею РФ](https://ua.korrespondent.net/world/russia/4903657-yandeks-skhovav-u-lisi-raketnu-batareui-rf)<br>
+16:15 [Мобілізований із Хмельниччини наводив удари РФ](https://ua.korrespondent.net/ukraine/4903647-mobilizovanyi-iz-khmelnychchyny-navodyv-udary-rf)<br>
+15:55 [На Закарпатті зафіксовано дві смерті від лептоспірозу](https://ua.korrespondent.net/ukraine/4903637-na-zakarpatti-zafiksovano-dvi-smerti-vid-leptospirozu)<br>
+15:42 [ЗСУ отримають безпілотник Довбуш Т40](https://ua.korrespondent.net/ukraine/4903635-zsu-otrymauit-bezpilotnyk-dovbush-t40)<br>
+15:37 [Російський FPV-дрон убив працівника Укренерго на Сумщині](https://ua.korrespondent.net/ukraine/4903633-rosiiskyi-FPV-dron-ubyv-pratsivnyka-ukrenerho-na-sumschyni)<br>
+15:36 [Катастрофа Су-24М: названо можливу причину](https://ua.korrespondent.net/ukraine/4903631-katastrofa-su-24m-nazvano-mozhlyvu-prychynu)<br>
 15:12 [В Україні чоловік отримав підозру щодо сексексплуатації 7-річної дитини](https://ua.korrespondent.net/ukraine/4903626-v-ukraini-cholovik-otrymav-pidozru-schodo-seksekspluatatsii-7-richnoi-dytyny)<br>
 14:57 [Вітчима підозрюють у сексуальній експлуатації 13-річної падчерки](https://ua.korrespondent.net/ukraine/4903616-vitchyma-pidozruiuit-u-seksualnii-ekspluatatsii-13-richnoi-padcherky)<br>
 14:48 [У Франції розбився військовий навчальний літак](https://ua.korrespondent.net/world/4903614-u-frantsii-rozbyvsia-viiskovyi-navchalnyi-litak)<br>
@@ -32,10 +44,36 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 04:26 [Дві ракети за 40 хвилин: SpaceX побила власний рекорд](https://ua.korrespondent.net/tech/space/4903422-dvi-rakety-za-40-khvylyn-SpaceX-pobyla-vlasnyi-rekord)<br>
 
 ## as.com
+18:20 [El nuevo Madrid de Pedro Martínez echa a andar](https://as.com/baloncesto/acb/el-nuevo-madrid-de-pedro-martinez-echa-a-andar-f202608-n/)<br>
+17:11 [Así está la plantilla del Madrid para la temporada 2026-27: en busca del ‘dos’](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/)<br>
+17:02 [Mercado de fichajes, 2026, Liga Endesa: todos los movimientos](https://as.com/baloncesto/acb/mercado-de-fichajes-2026-liga-endesa-todos-los-movimientos-f202607-n/)<br>
+15:52 [Simas Lukosius, cedido al Unicaja desde Dubái](https://as.com/baloncesto/simas-lukosius-cedido-al-unicaja-desde-dubai-f202608-n/)<br>
 14:30 [Willy: “Vengo a Málaga con el casco, soy soldado de Txus”](https://as.com/baloncesto/willy-vengo-a-malaga-con-el-casco-soy-soldado-de-txus-f202608-n/)<br>
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:33 [Destrozos y daños en decorados de las fiestas de Gràcia: "Se sientan sobre el Hobbit 'caganer'"](https://www.elperiodico.com/es/videos/barcelona/destrozos-danos-decorados-fiestas-gracia/133437046.shtml)<br>
+18:13 [Localizan el cuerpo de la madre de la joven catalana desaparecida en el terremoto de Colombia](https://www.elperiodico.com/es/internacional/20260817/localizan-cuerpo-madre-joven-catalana-133436190)<br>
+18:11 [Un incendio en el FNAC de la Rambla cierra accesos a la estación de metro Catalunya](https://www.elperiodico.com/es/barcelona/20260817/incendio-fnac-rambla-cierra-accesos-metro-plaza-catalunya-133436084)<br>
+18:11 [Un muerto y una herida al caerles encima una farola golpeada por un autobús en Mallorca](https://www.elperiodico.com/es/sucesos/20260817/muerto-herida-caerles-farola-golpeada-133436395)<br>
+18:09 [Puigcerdà pide sensatez a los conductores para prevenir el colapso en agosto: "Evitemos las dobles filas y las retenciones"](https://www.elperiodico.com/es/sociedad/20260817/puigcerda-sensatez-conductores-afluencia-visitantes-cerdanya-agosto-133436067)<br>
+18:00 [El riesgo de incendios lleva a la cancelación de cientos de fuegos artificiales en localidades de toda España](https://www.elperiodico.com/es/sociedad/20260817/fuegos-artificiales-cancelacion-espana-riesgo-incendios-133428243)<br>
+17:54 [Todas las claves de la gran fiesta privada que ha levantado la indignación en Ibiza](https://www.elperiodico.com/es/sucesos/20260817/claves-gran-fiesta-egipcia-ibiza-133435841)<br>
+17:42 [Marta Ortega, presidenta de Inditex, en Vogue: "No queremos ser una marca de lujo"](https://www.elperiodico.com/es/economia/20260817/marta-ortega-presidenta-inditex-vogue-133435574)<br>
+17:32 [La Rambla recién reformada acogerá el décimo aniversario del atentado del 17A en 2027](https://www.elperiodico.com/es/videos/sociedad/rambla-recien-reformada-acogera-decimo/133435216.shtml)<br>
+17:02 [BonÀrea invertirá dos millones en una granja de lechones en Épila](https://www.elperiodico.com/es/economia/20260817/bonarea-invertira-millones-granja-lechones-133434126)<br>
+17:02 [BBVA mantiene su apuesta por la transición energética y eleva a 560 millones de euros su inversión](https://www.elperiodico.com/es/economia/20260817/bbva-mantiene-apuesta-transicion-energetica-133434245)<br>
+17:00 [¿Sabes qué es la ERC, la enfermedad que afecta al 15 % de la población del país? Sigue estos diez consejos para evitarlo](https://www.elperiodico.com/es/salud/20260817/consejos-verano-enfermedad-renal-salud-133434163)<br>
+16:59 [Susto en el parque del Clot de Barcelona por un incendio en matorrales](https://www.elperiodico.com/es/barcelona/20260817/susto-parque-clot-barcelona-incendio-133433563)<br>
+16:58 [Incendio en el parque del Clot de Barcelona](https://www.elperiodico.com/es/videos/sucesos/incendio-parque-clot-barcelona/133434063.shtml)<br>
+16:35 [Destrozos y daños en decorados de las fiestas de Gràcia: "Se sientan sobre el Hobbit 'caganer'"](https://www.elperiodico.com/es/barcelona/20260817/destrozos-calles-decoradas-senos-de-los-anillos-tolkien-fiestas-de-gracia-2026-133429059)<br>
+16:30 [Muere a los 80 años Marcos Rodríguez Pantoja, el 'niño lobo' de Sierra Morena](https://www.elperiodico.com/es/sociedad/20260817/fallece-ourense-marcos-rodriguez-pantoja-133433398)<br>
+16:19 [El "dantesco" tiroteo de Huelva por un ajuste de cuentas entre clanes: el menor fallecido no tenía nada que ver con la familia](https://www.elperiodico.com/es/sucesos/20260817/dantesco-tiroteo-huelva-ajuste-cuentas-133433027)<br>
+16:11 [Una semana después del potente terremoto de magnitud 7,4  los equipos de emergencia siguen con sus laboresn de rescate](https://www.elperiodico.com/es/videos/internacional/semana-despues-potente-terremoto-magnitud/133432445.shtml)<br>
+16:00 [José Fraile, afectado por una enfermedad de la retina vinculada al estrés: "Me dijeron que me convendría volverme pasota"](https://www.elperiodico.com/es/sanidad/20260817/jose-fraile-enfermedad-retina-estres-cortisol-brotes-coriorretinopatia-serosa-central-133083389)<br>
+16:00 [Coriorretinopatía serosa central, la enigmática enfermedad de los ojos que afecta a hombres jóvenes y está relacionada con el estrés: "Hay muchos interrogantes"](https://www.elperiodico.com/es/sanidad/20260817/enfermedad-enigmatica-ojos-estres-hombres-jovenes-coriorretinopatia-serosa-central-132892847)<br>
+16:00 [Jordi Martínez, experto en educación financiera: “La paga a los hijos no es solo una transferencia de dinero, es una transferencia de responsabilidad”](https://www.elperiodico.com/es/economia/20260817/lisenda-pascual-paga-hijos-ahorro-jordi-martinez-experto-educacion-financiera-paga-hijos-ahorro-samanta-villar-crianza-131284719)<br>
+15:31 [Bélgica lucha para apagar uno de los incendios más graves de su historia en una reserva natural](https://www.elperiodico.com/es/internacional/20260817/belgica-lucha-apagar-incendios-graves-historia-parque-natural-133431533)<br>
 15:29 [Descubren un convento medieval perdido hace casi 800 años bajo un campo de fútbol en Dinamarca](https://www.elperiodico.com/es/tendencias21/20260817/descubren-convento-medieval-perdido-800-133431433)<br>
 15:24 [Willy Hernangómez, tras su mala experiencia en el Barça: "En el Unicaja quiero sentirme jugador"](https://www.elperiodico.com/es/deportes/20260817/willy-hernangomez-mala-experiencia-barca-133431010)<br>
 15:23 [Detenida una mujer tras la muerte de su pareja en una vivienda rural de Sevilla](https://www.elperiodico.com/es/sucesos/20260817/detenida-mujer-muerte-pareja-vivienda-133431233)<br>
@@ -59,6 +97,7 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 13:41 [La Rambla recién reformada acogerá el décimo aniversario del atentado del 17A en 2027](https://www.elperiodico.com/es/barcelona/20260817/rambla-recien-reformada-homenaje-17a-decimo-aniversario-2027-133424904)<br>
 13:30 [La difícil vuelta a la normalidad en Gironda tras un verano de megaincendios: "Es una pena. Mucha gente lo ha perdido todo"](https://www.elperiodico.com/es/internacional/20260817/dificil-vuelta-normalidad-gironda-francia-megaincendios-133427462)<br>
 13:20 [SteelSeries estrena los Arctis Nova 3 Wireless, unos auriculares gaming que prometen audio espacial 360° por 109,99 €](https://www.elperiodico.com/es/tecnologia/20260817/steelseries-estrena-arctis-nova-3-133426596)<br>
+13:06 [Los consejos de la experta para combatir los calambres, el agotamiento y golpes de calor ante las altas temperaturas](https://www.elperiodico.com/es/salud/20260817/consejos-golpes-calor-grupos-edades-133421800)<br>
 13:05 [El precio del euríbor hoy, 17 de agosto: inicio dulce de semana en el mercado de las hipotecas](https://www.elperiodico.com/es/economia/20260817/precio-euribor-hoy-17-agosto-dv-133426428)<br>
 12:59 [El Tribunal de Apelaciones de Phuket (Tailandia) asegura que ya está lista la sentencia sobre los recursos presentados por el caso de Daniel Sancho](https://www.elperiodico.com/es/videos/sociedad/tribunal-apelaciones-phuket-tailandia-asegura-lista-sentencia-recursos-caso-daniel-sancho-video/133426224.shtml)<br>
 12:44 [Blink cámara de exterior: vigilancia inalámbrica con luz integrada](https://www.elperiodico.com/es/tecnologia/20260817/blink-camara-exterior-vigilancia-inalambrica-133424997)<br>
