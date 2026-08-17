@@ -1,5 +1,77 @@
 [
   {
+    "title": "Duro Felguera da la vuelta a las pérdidas del pasado año y gana 241 millones en el primer semestre",
+    "link": "https://www.elperiodico.com/es/economia/20260817/duro-felguera-da-vuelta-perdidas-133441187",
+    "pubDate": "2026-08-17 22:02:36",
+    "category": "",
+    "description": "<h2>La compañía asturiana ha convocado junta extraordinaria de accionistas para el próximo 18 de septiembre para aprobar uno de los proyectos más importantes con el que esperan \"reconstruir cartera sobre una estructura mucho más sólida\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los 'whatsapp' entre Leire Díez y el exasesor de Sánchez tras el retiro de cinco días del presidente: \"A este hombre hay que ayudarle. Se lo merece\"",
+    "link": "https://www.elperiodico.com/es/politica/20260817/wasap-leire-asesor-pedro-sanchez-jornadas-reflexion-ayudarle-133288877",
+    "pubDate": "2026-08-17 22:00:20",
+    "category": "",
+    "description": "<h2 class=\"item\">La UCO vincula los mensajes con el origen de la trama presuntamente dirigida a obstaculizar causas judiciales que afectan al PSOE </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260801/psoe-plus-ultra-zapatero-pedro-sanchez-ultima-hora-directo-132839681\">Trama del PSOE, en directo: caso Plus Ultra, Zapatero, Leire Martínez y última hora de Pedro Sánchez</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп заявив, що Іран має \"підняти білий прапор\"",
+    "link": "https://ua.korrespondent.net/world/4903733-tramp-zaiavyv-scho-iran-maie-pidniaty-bilyi-prapor",
+    "pubDate": "2026-08-17 21:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531529.jpg\">Трамп зауважив, що після завершення 60-річного терміну, відведеного меморандумом між США та Іраном на переговори, не встановлює жодного дедлайну.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Ballet de Kiev regresa mañana a Barcelona con un nuevo 'El lago de los Cisnes'",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/ballet-kiev-regresa-manana-barcelona/133441050.shtml",
+    "pubDate": "2026-08-17 21:53:27",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ripoll rinde homenaje a las víctimas de los atentados del 17-A nueve años después.",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/ripoll-rinde-homenaje-victimas-atentados/133440890.shtml",
+    "pubDate": "2026-08-17 21:42:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mónica García y Elma Saiz comparecerán los días 27 y 28 en el Congreso por la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260817/monica-garcia-elma-saiz-compareceran-133440955",
+    "pubDate": "2026-08-17 21:41:12",
+    "category": "",
+    "description": "<h2>Ambas ministras ha registrado este lunes en la Cámara Baja sendas peticiones de comparecencia en la Comisión de Sanidad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Barça traspasa a Jofre Torrents al Ajax y a Tommy Marqués al Braga",
+    "link": "https://www.elperiodico.com/es/deportes/20260817/barca-traspasa-jofre-torrents-ajax-133440306",
+    "pubDate": "2026-08-17 21:33:58",
+    "category": "",
+    "description": "<h2>Los dos jóvenes del filial ocupan las demarcaciones de los recién fichados João Cancelo y Rodri</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los fallos en la foto del radar que te permiten anular una multa de la DGT",
+    "link": "https://www.elperiodico.com/es/motor/20260817/fallos-foto-radar-permiten-anular-sancion-133353807",
+    "pubDate": "2026-08-17 21:31:17",
+    "category": "",
+    "description": "<h2>Si la notificación de tráfico contiene defectos en las imágenes o la revisión técnica del radar no está en regla, la sanción carece de validez legal</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Rodri, a su llegada a Barcelona: \"Jugar en el Barça es un sueño\"",
     "link": "https://www.elperiodico.com/es/videos/deportes/rodri-llegada-barcelona-jugar-barca/133440799.shtml",
     "pubDate": "2026-08-17 21:29:05",
@@ -16,6 +88,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531528.jpg\">Росіяни ввечері атакували Запоріжжя безпілотником. Сталася пожежа на одному із садових товариств.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Росіяни вдарили по Запоріжжю, двоє загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4903727-rosiiany-vdaryly-po-zaporizhzhui-dvoie-zahyblykh",
+    "pubDate": "2026-08-17 21:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531528.jpg\">Росіяни ввечері атакували Запоріжжя безпілотником. Сталася пожежа на одному із садових товариств.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Tres muertos al estrellarse el helicóptero en el que viajaban en la isla griega de Sifnos",

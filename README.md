@@ -1,8 +1,9 @@
-# News for 2026-08-17 21:30
+# News for 2026-08-17 22:03
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
 ## ua.korrespondent.net
+21:19 [Росіяни вдарили по Запоріжжю, двоє загиблих](https://ua.korrespondent.net/ukraine/4903727-rosiiany-vdaryly-po-zaporizhzhui-dvoie-zahyblykh)<br>
 20:06 [У Хорватії затримали підозрюваних у серії підпалів](https://ua.korrespondent.net/world/4903711-u-khorvatii-zatrymaly-pidozruivanykh-u-serii-pidpaliv)<br>
 19:29 [Поблизу узбережжя Анголи виявили нові поклади нафти](https://ua.korrespondent.net/business/4903699-poblyzu-uzberezhzhia-anholy-vyiavyly-novi-poklady-nafty)<br>
 18:29 [Російська Бандероль залетіла до Молдови](https://ua.korrespondent.net/world/4903687-rosiiska-banderol-zaletila-do-moldovy)<br>
@@ -54,6 +55,8 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:02 [Duro Felguera da la vuelta a las pérdidas del pasado año y gana 241 millones en el primer semestre](https://www.elperiodico.com/es/economia/20260817/duro-felguera-da-vuelta-perdidas-133441187)<br>
+21:42 [Ripoll rinde homenaje a las víctimas de los atentados del 17-A nueve años después.](https://www.elperiodico.com/es/videos/sociedad/ripoll-rinde-homenaje-victimas-atentados/133440890.shtml)<br>
 21:18 [Tres muertos al estrellarse el helicóptero en el que viajaban en la isla griega de Sifnos](https://www.elperiodico.com/es/internacional/20260817/tres-muertos-estrellarse-helicoptero-viajaban-133440601)<br>
 20:53 [La guerra de clanes de Huelva, con ecos en Gijón: dos de los fallecidos en Isla Cristina son la suegra y la hermana de "El Baba"](https://www.elperiodico.com/es/videos/sucesos/guerra-clanes-huelva-ecos-gijon/133440133.shtml)<br>
 20:43 [Las fiestas populares, en alerta frente al machismo y la homofobia](https://www.elperiodico.com/es/videos/sociedad/fiestas-populares-alerta-frente-machismo/133439962.shtml)<br>
