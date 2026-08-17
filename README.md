@@ -1,4 +1,4 @@
-# News for 2026-08-17 14:15
+# News for 2026-08-17 14:47
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
@@ -32,6 +32,12 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:32 [La supervivencia a la muerte súbita cardíaca es la mitad en mujeres que en hombres](https://www.elperiodico.com/es/sanidad/20260817/supervivencia-muerte-subita-cardiaca-mitad-mujeres-hombres-cataluna-salut-133429347)<br>
+14:31 [El incendio de Niebla (Huelva) arrasó 33.000 hectáreas: el segundo más grave en extensión y el "más difícil" de la historia en Andalucía](https://www.elperiodico.com/es/sociedad/20260817/incendio-niebla-huelva-arraso-33-133429678)<br>
+14:29 [Eli John Ndiaye (22 años) firma dos temporadas con el Real Madrid](https://www.elperiodico.com/es/deportes/20260817/eli-john-ndiaye-22-anos-133429553)<br>
+14:25 [Cinco detenidos por una pelea multitudinaria entre grupos de menores y comerciantes en Lleida](https://www.elperiodico.com/es/sucesos/20260817/cinco-detenidos-pelea-multitudinaria-grupos-lleida-pelea-133429147)<br>
+14:25 [La Comunidad Valenciana sigue siendo la comunidad autónoma más cara para la vuelta al cole, con 487,38 euros por alumno](https://www.elperiodico.com/es/economia/ahorro/20260817/comunidad-valenciana-sigue-comunidad-autonoma-cara-vuelta-cole-133429350)<br>
+14:17 [La actriz Hayden Panettiere, famosa por 'Scream', 'Heroes' o 'Nashville', muere con 36 años](https://www.elperiodico.com/es/videos/ocio-y-cultura/actriz-hayden-panettiere-famosa-scream-heroes-nashville-muere-36-anos-video/133428924.shtml)<br>
 14:05 [Ángel (27 años), de pescadero a camionero ganando más de 2.000 euros: "El primer día fue el más duro para mí"](https://www.elperiodico.com/es/economia/20260817/angel-27-anos-de-pescadero-a-camionero-ganar-mas-2000-euros-dv-133422348)<br>
 14:04 [Barcelona registra un nuevo récord de calor: la 52ª noche tórrida](https://www.elperiodico.com/es/videos/sociedad/barcelona-registra-nuevo-record-calor-52-noche-torrida-video/133428689.shtml)<br>
 14:00 [Los expertos desmontan el mito del mes de vacaciones: mejor descansos cortos y repartidos](https://www.elperiodico.com/es/sociedad/20260817/expertos-desmontan-mito-vacaciones-mejor-descansos-cortos-dv-et-133362051)<br>
