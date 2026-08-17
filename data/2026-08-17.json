@@ -1,5 +1,32 @@
 [
   {
+    "title": "Кожен десятий чоловік у Ненецькому окрузі підписав контракт із армією РФ",
+    "link": "https://ua.korrespondent.net/world/4903746-kozhen-desiatyi-cholovik-u-nenetskomu-okruzi-pidpysav-kontrakt-iz-armiieui-rf",
+    "pubDate": "2026-08-17 23:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531586.jpg\">У Ненецькому автономному окрузі мешкає близько 41,9 тис. осіб, з них приблизно 20,5 тис. становлять чоловіки.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Іран погрожує прорвати блокаду в Ормузькій протоці",
+    "link": "https://ua.korrespondent.net/world/4903743-iran-pohrozhuie-prorvaty-blokadu-v-ormuzkii-prototsi",
+    "pubDate": "2026-08-17 23:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531580.jpg\">Іран заявив про зміну військової позиції після зупинки переговорів зі США щодо завершення конфлікту.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Провідний волейболіст збірної України пропустить Євро-2026 через операцію",
+    "link": "https://ua.korrespondent.net/sport/4903741-providnyi-voleibolist-zbirnoi-ukrainy-propustyt-yevro-2026-cherez-operatsiui",
+    "pubDate": "2026-08-17 23:24:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531574.jpg\">У складі національної збірної України на чемпіонаті Європи 2026 року не буде Іллі Ковальова.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Sube a 6.438 la cifra de muertos por el doble terremoto en Venezuela del 24 de junio",
     "link": "https://www.elperiodico.com/es/internacional/20260817/sube-6-438-cifra-muertos-133441963",
     "pubDate": "2026-08-17 23:15:25",
@@ -43,6 +70,15 @@
     "description": "<h2>Más de 200 personas recorren lugares emblemáticos de la vida del poeta en la capital con música, danza, poesía y \"performance\" en el acto \"Saca Nocturna\"</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Розвал НАТО і ЄС зсередини. План Путіна на 2026",
+    "link": "https://ua.korrespondent.net/world/4903752-rozval-nato-i-yes-zseredyny-plan-putina-na-2026",
+    "pubDate": "2026-08-17 22:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531599.jpg\">Путін усе ще розраховує захопити території на півдні України, щоб створити сухопутний коридор, який зв’яже Росію з Молдовою.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "ЗМІ: Росіяни навчилися збивати українські Фламінго",
@@ -97,6 +133,15 @@
     "description": "<h2>La compañía asturiana ha convocado junta extraordinaria de accionistas para el próximo 18 de septiembre para aprobar uno de los proyectos más importantes con el que esperan \"reconstruir cartera sobre una estructura mucho más sólida\"</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Наймасштабніші заходи. Нові санкції ЄС проти Росії",
+    "link": "https://ua.korrespondent.net/world/4903750-naimasshtabnishi-zakhody-novi-sanktsii-yes-proty-rosii",
+    "pubDate": "2026-08-17 22:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531593.jpg\">Левова частка підприємств та осіб, які потраплять під санкції, безпосередньо пов'язана з російським військово-промисловим комплексом.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Los 'whatsapp' entre Leire Díez y el exasesor de Sánchez tras el retiro de cinco días del presidente: \"A este hombre hay que ayudarle. Se lo merece\"",
