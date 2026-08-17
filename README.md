@@ -1,4 +1,4 @@
-# News for 2026-08-17 22:03
+# News for 2026-08-17 22:41
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
@@ -55,6 +55,8 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:30 ['La fiera': así es la trágica historia real de la pandilla de salto base de Darío Barrio que sufrió otra muerte durante el rodaje](https://www.elperiodico.com/es/sociedad/20260817/pelicula-lafiera-pandilla-salto-base-maldicion-cuatro-muertos-126244983)<br>
+22:19 [El único superviviente de la tribu del salto base de la película 'La fiera': "Lo que nos pasó fue como una maldición"](https://www.elperiodico.com/es/sociedad/20260817/armando-superviviente-pandilla-salto-base-dario-barrio-lafiera-126244371)<br>
 22:02 [Duro Felguera da la vuelta a las pérdidas del pasado año y gana 241 millones en el primer semestre](https://www.elperiodico.com/es/economia/20260817/duro-felguera-da-vuelta-perdidas-133441187)<br>
 21:42 [Ripoll rinde homenaje a las víctimas de los atentados del 17-A nueve años después.](https://www.elperiodico.com/es/videos/sociedad/ripoll-rinde-homenaje-victimas-atentados/133440890.shtml)<br>
 21:18 [Tres muertos al estrellarse el helicóptero en el que viajaban en la isla griega de Sifnos](https://www.elperiodico.com/es/internacional/20260817/tres-muertos-estrellarse-helicoptero-viajaban-133440601)<br>
