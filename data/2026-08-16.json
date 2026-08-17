@@ -180,6 +180,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-08-16 20:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "El Barça alcanza un principio de acuerdo con el City por Rodri",
     "link": "https://www.elperiodico.com/es/deportes/20260816/barca-alcanza-principio-acuerdo-city-133412295",
     "pubDate": "2026-08-16 20:56:07",
@@ -270,6 +279,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-08-16 19:53:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "З книги Папи Франциска в Росії прибрали згадки про ЛГБТ",
     "link": "https://ua.korrespondent.net/world/russia/4903370-z-knyhy-papy-frantsyska-v-rosii-prybraly-zghadky-pro-lhbt",
     "pubDate": "2026-08-16 19:45:00",
@@ -286,6 +304,15 @@
     "description": "<h2 class=\"item\">El culturista español explica que el crecimiento muscular depende de aplicar una sobrecarga progresiva, mantener una buena ejecución de los ejercicios y controlar cada repetición</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260415/paco-bautista-leyenda-culturismo-secreto-rutina-gimnasio-dv-128915179\">Paco Bautista, leyenda del culturismo, desvela el error más común de una rutina en el gimnasio: \"Cuantas menos repeticiones hagas, mejor\"</a></h2>",
     "topic": "спорт",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Mercado de fichajes, 2026, EuroLeague: todos los movimientos",
+    "link": "https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/",
+    "pubDate": "2026-08-16 19:40:22",
+    "category": "Mercado Euroliga",
+    "description": "Un repaso a todos los movimientos -altas, bajas, renovaciones, etc- que están aconteciendo en el mercado de la Euroliga este verano de 2026.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Кияни у складному матчі обіграли Колос",
@@ -438,6 +465,15 @@
     "category": "",
     "description": "<h2>El centrocampista español, pendiente de su fichaje por el Barcelona, no fue convocado</h2>",
     "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-08-16 18:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
     "topic_match_probability": 100
   },
   {
