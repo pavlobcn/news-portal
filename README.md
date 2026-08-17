@@ -1,8 +1,10 @@
-# News for 2026-08-17 18:41
+# News for 2026-08-17 20:55
 
 Previous day: [2026-08-16](./data/2026-08-16.md)
 
 ## ua.korrespondent.net
+20:06 [У Хорватії затримали підозрюваних у серії підпалів](https://ua.korrespondent.net/world/4903711-u-khorvatii-zatrymaly-pidozruivanykh-u-serii-pidpaliv)<br>
+19:29 [Поблизу узбережжя Анголи виявили нові поклади нафти](https://ua.korrespondent.net/business/4903699-poblyzu-uzberezhzhia-anholy-vyiavyly-novi-poklady-nafty)<br>
 18:29 [Російська Бандероль залетіла до Молдови](https://ua.korrespondent.net/world/4903687-rosiiska-banderol-zaletila-do-moldovy)<br>
 18:01 [Росіяни вдарили по Одещині, палає будинок](https://ua.korrespondent.net/ukraine/4903684-rosiiany-vdaryly-po-odeschyni-palaie-budynok)<br>
 17:22 [Таємничий скарб із часів Сталіна виявили в арктичних водах](https://ua.korrespondent.net/tech/science/4903367-taiemnychyi-skarb-iz-chasiv-stalina-vyiavyly-v-arktychnykh-vodakh)<br>
@@ -52,6 +54,18 @@ Previous day: [2026-08-16](./data/2026-08-16.md)
 13:20 [Oficial: Eli Ndiaye vuelve al Real Madrid](https://as.com/baloncesto/acb/oficial-eli-ndiaye-vuelve-al-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:53 [La guerra de clanes de Huelva, con ecos en Gijón: dos de los fallecidos en Isla Cristina son la suegra y la hermana de "El Baba"](https://www.elperiodico.com/es/videos/sucesos/guerra-clanes-huelva-ecos-gijon/133440133.shtml)<br>
+20:43 [Las fiestas populares, en alerta frente al machismo y la homofobia](https://www.elperiodico.com/es/videos/sociedad/fiestas-populares-alerta-frente-machismo/133439962.shtml)<br>
+20:30 [Noches que matan: cuando el calor no da tregua aunque caiga el sol](https://www.elperiodico.com/es/sociedad/20260817/noches-matan-calor-da-tregua-133435109)<br>
+20:22 [Más de un centenar de inmigrantes de la playa del Trampolín, en Ceuta, inician una huelga de hambre](https://www.elperiodico.com/es/videos/internacional/centenar-inmigrantes-playa-trampolin-ceuta/133439607.shtml)<br>
+20:20 [Piden a WhatsApp y Apple el emoji de la bandera de Andalucía: "Es el símbolo de uno de los pueblos con más riqueza histórica, social y cultural del planeta"](https://www.elperiodico.com/es/vida-y-estilo/20260817/piden-whatsapp-apple-emoji-bandera-andalucia-dv-133361054)<br>
+19:47 [Catalunya usará la inteligencia artificial para localizar pisos vacíos y sacarlos al mercado](https://www.elperiodico.com/es/videos/economia/catalunya-usara-inteligencia-artificial-localizar/133439027.shtml)<br>
+19:47 [Caducados para la vida](https://www.elperiodico.com/es/opinion/20260817/caducados-vida-133438513)<br>
+19:31 [El riesgo de incendios lleva a la cancelación de cientos de fuegos artificiales en localidades de toda España](https://www.elperiodico.com/es/videos/sociedad/riesgo-incendios-lleva-cancelacion-cientos/133438715.shtml)<br>
+19:20 [Miles de voluntarios trabajan sin descanso en Bogotá para clasificar y enviar toneladas de suministros a las zonas devastadas por los seísmos](https://www.elperiodico.com/es/videos/internacional/miles-voluntarios-descanso-bogota-clasificar/133438432.shtml)<br>
+19:19 [La guerra de clanes de Huelva, con ecos en Gijón: dos de los fallecidos en Isla Cristina son la suegra y la hermana de "El Baba", detenido en 2024](https://www.elperiodico.com/es/sucesos/20260817/guerra-clanes-huelva-ecos-gijon-133438486)<br>
+19:03 [Por qué todos leen a Milena Busquets](https://www.elperiodico.com/es/opinion/20260817/razones-leer-milena-busquets-133437798)<br>
+18:57 [La Fiscalía detecta en Murcia a maltratadores que usan a los animales como instrumento de violencia vicaria](https://www.elperiodico.com/es/sociedad/20260817/fiscalia-detecta-murcia-maltratadores-animales-violencia-vicaria-133437721)<br>
 18:33 [Destrozos y daños en decorados de las fiestas de Gràcia: "Se sientan sobre el Hobbit 'caganer'"](https://www.elperiodico.com/es/videos/barcelona/destrozos-danos-decorados-fiestas-gracia/133437046.shtml)<br>
 18:13 [Localizan el cuerpo de la madre de la joven catalana desaparecida en el terremoto de Colombia](https://www.elperiodico.com/es/internacional/20260817/localizan-cuerpo-madre-joven-catalana-133436190)<br>
 18:11 [Un incendio en el FNAC de la Rambla cierra accesos a la estación de metro Catalunya](https://www.elperiodico.com/es/barcelona/20260817/incendio-fnac-rambla-cierra-accesos-metro-plaza-catalunya-133436084)<br>
