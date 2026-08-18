@@ -1,8 +1,9 @@
-# News for 2026-08-18 20:06
+# News for 2026-08-18 20:55
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+20:03 ["Оператор ГТС України" отримав нового генерального директора](https://ua.korrespondent.net/business/companies/4904072-operator-hts-ukrainy-otrymav-novoho-heneralnoho-dyrektora)<br>
 18:55 [Командиру роти "кадирівців" повідомлено про підозру - СБУ](https://ua.korrespondent.net/ukraine/4904058-komandyru-roty-kadyrivtsiv-povidomleno-pro-pidozru-sbu)<br>
 18:39 [DeepState фіксує нове просування РФ на Запоріжжі](https://ua.korrespondent.net/ukraine/4904053-DeepState-fiksuie-nove-prosuvannia-rf-na-zaporizhzhi)<br>
 18:23 [Російського опозиціонера знайшли мертвим у квартирі у Варшаві](https://ua.korrespondent.net/world/4904050-rosiiskoho-opozytsionera-znaishly-mertvym-u-kvartyri-u-varshavi)<br>
@@ -70,6 +71,9 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:39 [Nueve terremotos en un día crítico en Granada y pueden ser más: "Es imposible de predecir"](https://www.elperiodico.com/es/sociedad/20260818/terremotos-granada-martes-cuando-acaban-prediccion-133468333)<br>
+20:27 [Margot Robbie protagonizará Piratas del Caribe 6 y el Jack Sparrow de Johnny Depp será un personaje secundario](https://www.elperiodico.com/es/ocio-y-cultura/20260818/margot-robbie-protagonizara-piratas-caribe-133468084)<br>
+20:08 [Comienza el juicio contra Meta por fomentar la adicción de menores a Instagram y Facebook](https://www.elperiodico.com/es/videos/internacional/comienza-juicio-meta-fomentar-adiccion/133467730.shtml)<br>
 19:45 [El mago Juan Tamariz fallece a los 83 años](https://www.elperiodico.com/es/videos/sucesos/mago-juan-tamariz-fallece-83/133466894.shtml)<br>
 19:21 [El mago Juan Tamariz fallece a los 83 años](https://www.elperiodico.com/es/ocio-y-cultura/20260818/mago-juan-tamariz-fallece-83-133466456)<br>
 19:20 [La Generalitat da el primer paso para acabar con el ruido en la Granvia de L'Hospitalet tras dos décadas de lucha vecinal](https://www.elperiodico.com/es/barcelona/20260818/generalitat-da-primer-paso-acabar-ruido-granvia-hospitalet-dos-decadas-lucha-vecinal-133465857)<br>

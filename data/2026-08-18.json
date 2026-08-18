@@ -1,5 +1,95 @@
 [
   {
+    "title": "Rodri será capitán, con o sin brazalete",
+    "link": "https://www.elperiodico.com/es/deportes/20260818/rodri-sera-capitan-o-brazalete-133468177",
+    "pubDate": "2026-08-18 20:50:57",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mourinho \"vuelve a casa\" después de trece años",
+    "link": "https://www.elperiodico.com/es/videos/deportes/mourinho-vuelve-casa-despues-trece/133468435.shtml",
+    "pubDate": "2026-08-18 20:47:30",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Латвійські морські дрони FOG і RAY перейшли у серійне виробництво",
+    "link": "https://ua.korrespondent.net/world/4904081-latviiski-morski-drony-FOG-i-RAY-pereishly-u-seriine-vyrobnytstvo",
+    "pubDate": "2026-08-18 20:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532316.jpg\">Проєкт під назвою \"Модернізація безпілотного надводного апарата (USV) та підготовка виробничого процесу\" співфінансувався ЄС через Європейський фонд регіонального розвитку.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Nueve terremotos en un día crítico en Granada y pueden ser más: \"Es imposible de predecir\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260818/terremotos-granada-martes-cuando-acaban-prediccion-133468333",
+    "pubDate": "2026-08-18 20:39:13",
+    "category": "",
+    "description": "<h2>Antonio Sanz, el consejero de Presidencia, Sanidad y Emergencias de Andalucía, ha explicado que durante este martes se han registrado nueve terremotos con una magnitud superior a 3 y pide autoprotección ante futuros temblores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El error al encender las luces largas por la noche que puede dejarte sin visibilidad",
+    "link": "https://www.elperiodico.com/es/motor/20260818/error-encender-luces-largas-noche-133424563",
+    "pubDate": "2026-08-18 20:30:11",
+    "category": "",
+    "description": "<h2>Muchos conductores cambian a luces cortas demasiado pronto al cruzarse con otro vehículo, creando un “vacío de luz” peligroso en carreteras oscuras que reduce la capacidad de reacción</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Margot Robbie protagonizará Piratas del Caribe 6 y el Jack Sparrow de Johnny Depp será un personaje secundario",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260818/margot-robbie-protagonizara-piratas-caribe-133468084",
+    "pubDate": "2026-08-18 20:27:50",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Madonna arrasa en las nominaciones de los VMA, seguida de Taylor Swift y Sabrina Carpenter",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260818/madonna-arrasa-nominaciones-vma-seguida-133468019",
+    "pubDate": "2026-08-18 20:24:54",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ППО знешкодила понад 70 дронів РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4904075-ppo-zneshkodyla-ponad-70-droniv-rf",
+    "pubDate": "2026-08-18 20:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532275.jpg\">Російські війська атакували Україну 76 реактивними безпілотниками типу Shahed. Основним напрямком удару була Київська область.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Comienza el juicio contra Meta por fomentar la adicción de menores a Instagram y Facebook",
+    "link": "https://www.elperiodico.com/es/videos/internacional/comienza-juicio-meta-fomentar-adiccion/133467730.shtml",
+    "pubDate": "2026-08-18 20:08:05",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Оператор ГТС України\" отримав нового генерального директора",
+    "link": "https://ua.korrespondent.net/business/companies/4904072-operator-hts-ukrainy-otrymav-novoho-heneralnoho-dyrektora",
+    "pubDate": "2026-08-18 20:03:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532274.jpg\">Наталія Бойко офіційно очолила \"Оператора ГТС України\". Її кандидатуру затвердили після відкритого конкурсу, у якому брали участь понад 20 претендентів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Rodri firma por el Barça: \"Era mi primera opción\"",
     "link": "https://www.elperiodico.com/es/videos/deportes/rodri-firma-barca-primera-opcion/133467565.shtml",
     "pubDate": "2026-08-18 20:02:24",
