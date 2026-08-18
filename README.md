@@ -1,4 +1,4 @@
-# News for 2026-08-18 06:53
+# News for 2026-08-18 07:24
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
@@ -14,6 +14,12 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 01:14 [Німеччина спростила обмін водійських прав для українців](https://ua.korrespondent.net/world/4903758-nimechchyna-sprostyla-obmin-vodiiskykh-prav-dlia-ukraintsiv)<br>
 
 ## www.elperiodico.com
+07:22 [Catalunya amanece con más calor: hasta 28 grados a las seis de la mañana en Barcelona](https://www.elperiodico.com/es/tiempo/20260818/catalunya-amanece-calor-28-grados-manana-barcelona-133444619)<br>
+07:12 [La guerra entre los Moriña y los Salazar deja tres muertos y desata la alarma por las armas de asalto en Huelva](https://www.elperiodico.com/es/sucesos/20260818/guerra-morina-salazar-deja-tres-muertos-alarma-armas-asalto-huelva-133444672)<br>
+07:02 [Pospuesto el juicio en Nueva York contra Luigi Mangione tras su recurso por doble enjuiciamiento](https://www.elperiodico.com/es/internacional/20260818/pospuesto-juicio-nueva-york-luigi-133444338)<br>
+07:01 ['El Lago de los Cisnes' regresa a Barcelona con una apuesta renovada de la mano del Ballet de Kiev](https://www.elperiodico.com/es/ocio-y-cultura/20260818/lago-cisnes-regresa-barcelona-ballet-de-kiev-133441164)<br>
+07:01 [Traca final de las Fiestas de Sant Magí 2026 en Tarragona, con la Arribada de l'Aigua, las verbenas y la diada castellera](https://www.elperiodico.com/es/tarragona/20260818/traca-final-fiestas-sant-magi-133433873)<br>
+06:58 [Mueren dos estudiantes en un tiroteo en un colegio católico de Filipinas](https://www.elperiodico.com/es/internacional/20260818/muere-estudiante-tiroteo-colegio-catolico-133444240)<br>
 06:45 [Un proyectil impacta contra un buque en Ormuz y deja al menos una víctima frente a las costas de Omán](https://www.elperiodico.com/es/internacional/20260818/proyectil-impacta-buque-ormuz-victima-costas-oman-133444186)<br>
 06:26 [Última hora del volcán Etna en erupción, en directo](https://www.elperiodico.com/es/internacional/20260818/volcan-etna-erupcion-ultima-hora-directo-133350394)<br>
 06:24 [Sentencia de Daniel Sancho, en directo | Última hora del veredicto del Tribunal de Phuket, en Tailandia, sobre los recursos presentados](https://www.elperiodico.com/es/sociedad/20260818/daniel-sancho-sentencia-ultima-hora-directo-133425232)<br>
