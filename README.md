@@ -1,9 +1,14 @@
-# News for 2026-08-18 12:00
+# News for 2026-08-18 12:39
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+12:30 [YouTube змінив методику підрахунку переглядів відео](https://ua.korrespondent.net/tech/technews/4903899-YouTube-zminyv-metodyku-pidrakhunku-perehliadiv-video)<br>
+12:15 [Соліст гурту Green Grey зробив зізнання про хворобу дружини](https://ua.korrespondent.net/lifestyle/4903850-solist-hurtu-Green-Grey-zrobyv-ziznannia-pro-khvorobu-druzhyny)<br>
+12:08 [В обмінниках триває зростання курсу євро](https://ua.korrespondent.net/business/financial/4903904-v-obminnykakh-tryvaie-zrostannia-kursu-yevro)<br>
+11:52 [Давніший курган знайшли під похованням корабля вікінгів](https://ua.korrespondent.net/tech/science/4903893-davnishyi-kurhan-znaishly-pid-pokhovanniam-korablia-vikinhiv)<br>
 11:37 [Без пояснень: у Москві скасували масштабний військовий фестиваль](https://ua.korrespondent.net/world/russia/4903890-bez-poiasnen-u-moskvi-skasuvaly-masshtabnyi-viiskovyi-festyval)<br>
+11:28 [Періс Гілтон не стримала емоцій, коментуючи смерть Гайден](https://ua.korrespondent.net/lifestyle/4903837-peris-hilton-ne-strymala-emotsii-komentuuichy-smert-haiden)<br>
 10:43 [В Україні вже намолотили майже 31 млн т зерна нового врожаю](https://ua.korrespondent.net/business/economics/4903862-v-ukraini-vzhe-namolotyly-maizhe-31-mln-t-zerna-novoho-vrozhaui)<br>
 10:25 [Джонні Депп знову може зіграти Джека Горобця](https://ua.korrespondent.net/showbiz/cinema/4903822-dzhonni-depp-znovu-mozhe-zihraty-dzheka-horobtsia)<br>
 10:16 [Землетруси у Венесуелі забрали життя понад 6400 людей](https://ua.korrespondent.net/world/4903851-zemletrusy-u-venesueli-zabraly-zhyttia-ponad-6400-luidei)<br>
@@ -37,6 +42,14 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:37 [Cómo escribir sobre tu ex sin odiarle demasiado: "El final de una relación es solo el principio de la historia"](https://www.elperiodico.com/es/ocio-y-cultura/20260818/escribir-ex-odiarle-final-relacion-jamison-132777260)<br>
+12:34 [Absueltos cuatro acusados de una violación múltiple en Alicante](https://www.elperiodico.com/es/sucesos/20260818/absueltos-cuatro-familiares-acusados-violacion-multiple-alicante-133453239)<br>
+12:31 [Denunciado por liberar de su jaula a jabalís capturados para controlar la PPA en Esparraguera](https://www.elperiodico.com/es/sucesos/20260818/denunciado-liberar-jaula-jabali-capturado-ppa-133452548)<br>
+12:30 ['Alicante Entiende' asegura que el "joven asesinado en la playa San Juan" fue agredido por "ser gay"](https://www.elperiodico.com/es/sucesos/20260818/alicante-entiende-pide-justicia-joven-133453060)<br>
+12:30 [El año de pausa antes de la universidad gana terreno en España para el desarrollo personal](https://www.elperiodico.com/es/sociedad/20260818/gap-year-ano-sabatico-gana-terreno-jovenes-espana-parar-antes-ir-universidad-133362237)<br>
+12:13 [Las mujeres alargan su vida laboral un año más que los hombres, pero aún trabajarán 3,4 años menos](https://www.elperiodico.com/es/sociedad/20260818/mujeres-alargan-vida-laboral-hombres-ultima-decada-datos-eurostat-union-europea-133448778)<br>
+12:04 [Un nuevo terremoto de 4,7 vuelve a sacudir Granada](https://www.elperiodico.com/es/videos/sociedad/nuevo-terremoto-4-7-vuelve-granada/133452147.shtml)<br>
+12:00 [Confirmado por el Estatuto de los Trabajadores: los padres con hijos menores de 12 años pueden pedir teletrabajo sin perder sueldo](https://www.elperiodico.com/es/economia/20260818/confirmado-estatuto-trabajadores-padres-hijos-menores-12-anos-teletrabajo-sueldo-dv-et-133408693)<br>
 11:51 [VÍDEO | Otro gran terremoto sacude Granada, el segundo en una semana](https://www.elperiodico.com/es/videos/sociedad/video-gran-terremoto-sacude-granada/133451593.shtml)<br>
 11:40 [Aurelio Rojas, cardiólogo, revela la causa de infarto en jóvenes: "No se trata solo de cuidarte, sino también dónde hay que mirar"](https://www.elperiodico.com/es/salud/20260818/infarto-jovenes-causas-lipoproteina-colesterol-aurelio-rojas-cardiologo-dv-et-133291515)<br>
 11:28 [Un atropello entre las estación de Vilanova i la Geltrú y Sitges interrumpe la circulación de trenes](https://www.elperiodico.com/es/trafico-y-transportes/20260818/atropello-estacion-vilanova-geltru-sitges-133449376)<br>
