@@ -1,9 +1,12 @@
-# News for 2026-08-18 10:52
+# News for 2026-08-18 11:25
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+10:43 [В Україні вже намолотили майже 31 млн т зерна нового врожаю](https://ua.korrespondent.net/business/economics/4903862-v-ukraini-vzhe-namolotyly-maizhe-31-mln-t-zerna-novoho-vrozhaui)<br>
+10:25 [Джонні Депп знову може зіграти Джека Горобця](https://ua.korrespondent.net/showbiz/cinema/4903822-dzhonni-depp-znovu-mozhe-zihraty-dzheka-horobtsia)<br>
 10:16 [Землетруси у Венесуелі забрали життя понад 6400 людей](https://ua.korrespondent.net/world/4903851-zemletrusy-u-venesueli-zabraly-zhyttia-ponad-6400-luidei)<br>
+10:05 [Кличко прокоментував смерть Гайден Панеттьєрі](https://ua.korrespondent.net/lifestyle/4903846-klychko-prokomentuvav-smert-haiden-panettieri)<br>
 09:20 [Свято в Південноукраїнську об'єднало атомників, будівельників та громаду](https://ua.korrespondent.net/business/press_release/4903572-sviato-v-pivdennoukrainsku-obiednalo-atomnykiv-budivelnykiv-ta-hromadu)<br>
 09:18 [Британія жорстко відповіла на нові погрози Москви щодо дронів](https://ua.korrespondent.net/world/4903825-brytaniia-zhorstko-vidpovila-na-novi-pohrozy-moskvy-schodo-droniv)<br>
 09:10 [Батько Скрябіна розказав про ДТП і дитинство сина](https://ua.korrespondent.net/lifestyle/4903732-batko-skriabina-rozkazav-pro-dtp-i-dytynstvo-syna)<br>
@@ -32,6 +35,10 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:23 [La Policía Nacional rescata a un bebé encerrado en un coche a 40 grados en Sevilla: los padres, detenidos, se fueron al supermercado](https://www.elperiodico.com/es/sucesos/20260818/policia-nacional-rescata-bebe-encerrado-coche-40-grados-sevilla-133450691)<br>
+10:58 [¿Fin del verano en Catalunya? Empieza la cuenta atrás para el descenso de las temperaturas](https://www.elperiodico.com/es/tiempo/20260818/tiempo-cataluna-temperaturas-lluvias-verano-meteocat-dv-loc-133446787)<br>
+10:56 [Un terremoto de magnitud 4,6 vuelve a sacudir Granada](https://www.elperiodico.com/es/sociedad/20260818/terremoto-magnitud-4-6-vuelve-sacudir-granada-133449590)<br>
+10:53 [Los restos de la dana y la llegada de un frente atlántico provocarán un cambio de tiempo a partir del miércoles y una bajada de las temperaturas](https://www.elperiodico.com/es/sociedad/20260818/llegada-frente-atlantico-cambio-tiempo-espana-temperaturas-miercoles-jueves-133448245)<br>
 10:47 [Noveno tiroteo en Catalunya en diez días: los Mossos investigan disparos en Badia del Vallès](https://www.elperiodico.com/es/sucesos/20260818/tiroteo-catalunya-diez-dias-mossos-investigan-badia-133448665)<br>
 10:40 [Multado un ciclista tras sufrir un accidente y dar positivo en alcohol y drogas](https://www.elperiodico.com/es/sociedad/20260818/multan-ciclista-accidente-monistrol-montserrat-alcohol-drogas-133446548)<br>
 10:31 [Dos niños de tres años llegan a Formentera después de tres días en altamar](https://www.elperiodico.com/es/sociedad/20260818/ninos-tres-anos-llegan-formentera-133448661)<br>
