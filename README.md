@@ -1,10 +1,15 @@
-# News for 2026-08-18 15:03
+# News for 2026-08-18 15:54
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+15:45 [Мешканці Одещини вражені вчинком лелек](https://ua.korrespondent.net/ukraine/4903958-meshkantsi-odeschyny-vrazheni-vchynkom-lelek)<br>
+15:42 [У МОЗ назвали частку зайвих госпіталізацій в українських лікарнях](https://ua.korrespondent.net/ukraine/4903990-u-moz-nazvaly-chastku-zaivykh-hospitalizatsii-v-ukrainskykh-likarniakh)<br>
+15:22 [Перший клас без сліз: неочікувані поради батькам, які працюють](https://ua.korrespondent.net/articles/4903981-pershyi-klas-bez-sliz-neochikuvani-porady-batkam-yaki-pratsuiuit)<br>
 14:59 [Естонія прийняла перших ув’язнених зі Швеції за мільйони євро](https://ua.korrespondent.net/world/4903972-estoniia-pryiniala-pershykh-uviaznenykh-zi-shvetsii-za-miliony-yevro)<br>
 14:53 [Саудівська Аравія відновила завантаження нафти в портах Ормузу](https://ua.korrespondent.net/world/4903971-saudivska-araviia-vidnovyla-zavantazhennia-nafty-v-portakh-ormuzu)<br>
+14:44 [Meta загрожує штраф у 1,4 трлн доларів](https://ua.korrespondent.net/business/companies/4903969-Meta-zahrozhuie-shtraf-u-14-trln-dolariv)<br>
+14:35 [Енн Гетевей здивувала реакцією на запитання фаната](https://ua.korrespondent.net/lifestyle/4903924-enn-hetevei-zdyvuvala-reaktsiieui-na-zapytannia-fanata)<br>
 14:26 [На Київщині у низці міст погіршилась якість повітря](https://ua.korrespondent.net/ukraine/4903963-na-kyivschyni-u-nyztsi-mist-pohirshylas-yakist-povitria)<br>
 14:11 [У Німеччині українця засудили за підготовку диверсій](https://ua.korrespondent.net/world/4903955-u-nimechchyni-ukraintsia-zasudyly-za-pidhotovku-dyversii)<br>
 13:58 [Казино у житлових будинках: БЕБ викрило гральний бізнес на Київщині](https://ua.korrespondent.net/ukraine/4903949-kazyno-u-zhytlovykh-budynkakh-beb-vykrylo-hralnyi-biznes-na-kyivschyni)<br>
@@ -50,6 +55,11 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:47 [Federico García Lorca: 90 años del fusilamiento del poeta cuyo cuerpo nunca apareció](https://www.elperiodico.com/es/videos/ocio-y-cultura/federico-garcia-lorca-90-anos-fusilamiento/133460146.shtml)<br>
+15:43 [Prueban un sistema para evitar las estelas de los aviones, que impactan sobre el clima](https://www.elperiodico.com/es/medio-ambiente/20260818/prueban-sistema-evitar-estelas-aviones-133460037)<br>
+15:37 [Los incendios forestales han destruido desde 2001 una superficie de bosque tropical equivalente al tamaño de Extremadura](https://www.elperiodico.com/es/tendencias21/20260818/incendios-forestales-han-destruido-2001-133459839)<br>
+15:34 [Así ha quedado el monasterio viejo de San Juan de la Peña tras el paso de las llamas](https://www.elperiodico.com/es/sociedad/20260818/quedado-monasterio-viejo-san-juan-133459779)<br>
+15:33 [Puente confirma que Renfe se prepara para operar la alta velocidad que unirá Vigo y Portugal](https://www.elperiodico.com/es/economia/20260818/puente-confirma-renfe-prepara-operar-133459645)<br>
 15:02 [El hotel de lujo Bless Barcelona de la cadena Palladium abre en la plaza de Catalunya](https://www.elperiodico.com/es/barcelona/20260818/hotel-lujo-bless-barcelona-cadena-palladium-abre-plaza-catalunya-133453744)<br>
 14:43 [La jueza ordena el ingreso en prisión provisional de la mujer acusada de matar a su pareja con un arma blanca en Sevilla](https://www.elperiodico.com/es/sucesos/20260818/jueza-ordena-ingreso-prision-provisional-mujer-acusada-matar-pareja-arma-blanca-sevilla-133458408)<br>
 14:42 [Iñaki Barredo, experto en testamentos, muestra "la clave para evitar problemas entre tus hijos" durante el reparto de una herencia](https://www.elperiodico.com/es/economia/20260818/inaki-barredo-experto-testamentos-muestra-clave-evitar-problemas-entre-hijos-dv-133455347)<br>

@@ -1,5 +1,185 @@
 [
   {
+    "title": "Los 8 fallos al volante que más estresan a los conductores españoles",
+    "link": "https://www.elperiodico.com/es/motor/20260818/8-fallos-volante-estresan-conductores-133451076",
+    "pubDate": "2026-08-18 15:51:48",
+    "category": "",
+    "description": "<h2>La falta de planificación, las prisas y la búsqueda de aparcamiento figuran entre los principales desencadenantes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Слуга народу поповнилася: Безугла повернулася, ще двоє склали присягу",
+    "link": "https://ua.korrespondent.net/ukraine/4903993-sluha-narodu-popovnylasia-bezuhla-povernulasia-sche-dvoie-sklaly-prysiahu",
+    "pubDate": "2026-08-18 15:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532093.jpg\">Богдан Моркляник і Вікторія Рєзнікова склали присягу народних депутатів. Одночасно до фракції Слуга народу повернулася Мар'яна Безугла.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Federico García Lorca: 90 años del fusilamiento del poeta cuyo cuerpo nunca apareció",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/federico-garcia-lorca-90-anos-fusilamiento/133460146.shtml",
+    "pubDate": "2026-08-18 15:47:47",
+    "category": "",
+    "description": "Libros, ensayos, documentales y películas biográficas mantienen viva la llama de la 'lorcamanía' y ahondan en aspectos largamente silenciados como su sexualidad",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona amplía las ayudas para prohibir pisos turísticos: hasta 2.500 euros por comunidad de vecinos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260818/barcelona-ayudas-prohibir-pisos-turisticos-2500-euros-133458875",
+    "pubDate": "2026-08-18 15:46:26",
+    "category": "",
+    "description": "<h2>El ayuntamiento destina más presupuesto a las subvenciones y prolonga el plazo para solicitarlas</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20240621/collboni-anuncia-pisos-turisticos-barcelona-extinguiran-2028-104099747\" target=\"_blank\">Barcelona extinguirá sus 10.000 pisos turísticos en 2028</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260818/barrios-mas-caros-espana-alquilar-habitacion-133451452\">Barcelona tiene los dos barrios más caros de España para alquilar una habitación, según un estudio</a></h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Real Madrid esconde a la prensa a Mourinho en su puesta de largo: \"Es más bonito que la primera vez que vine\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260818/real-madrid-esconde-prensa-mourinho-133459897",
+    "pubDate": "2026-08-18 15:46:20",
+    "category": "",
+    "description": "<h2>El técnico portugués es presentado por el Real Madrid junto al presidente Florentino Pérez en un acto privado</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мешканці Одещини вражені вчинком лелек",
+    "link": "https://ua.korrespondent.net/ukraine/4903958-meshkantsi-odeschyny-vrazheni-vchynkom-lelek",
+    "pubDate": "2026-08-18 15:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532029.jpg\">В Одеській області через потужну грозу зазнало руйнувань гніздо відомих лелек Грицика та Гапочки, за долею яких спостерігає чимало місцевих жителів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona empadronó el pasado 2025 a unos 13.000 vecinos vulnerables sin un domicilio fijo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/barcelona-empadrono-pasado-2025-13/133460070.shtml",
+    "pubDate": "2026-08-18 15:44:51",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Prueban un sistema para evitar las estelas de los aviones, que impactan sobre el clima",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260818/prueban-sistema-evitar-estelas-aviones-133460037",
+    "pubDate": "2026-08-18 15:43:03",
+    "category": "",
+    "description": "<h2>Un consorcio liderado por Google busca fórmulas para reducir estos rastros y otros sistemas para aliviar la huella climática de la aviación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У МОЗ назвали частку зайвих госпіталізацій в українських лікарнях",
+    "link": "https://ua.korrespondent.net/ukraine/4903990-u-moz-nazvaly-chastku-zaivykh-hospitalizatsii-v-ukrainskykh-likarniakh",
+    "pubDate": "2026-08-18 15:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532083.jpg\">В Україні близько 38% госпіталізацій можуть бути необґрунтованими. У деяких терапевтичних відділеннях частка надлишкових ліжко-днів сягає 65%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Раді запропонували призначити очільників МЗС і МО",
+    "link": "https://ua.korrespondent.net/ukraine/4903989-radi-zaproponuvaly-pryznachyty-ochilnykiv-mzs-i-mo",
+    "pubDate": "2026-08-18 15:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532092.jpg\">З 17:00 у Верховній Раді заплановані зустрічі парламентських фракцій з претендентами на посади.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los incendios forestales han destruido desde 2001 una superficie de bosque tropical equivalente al tamaño de Extremadura",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260818/incendios-forestales-han-destruido-2001-133459839",
+    "pubDate": "2026-08-18 15:37:34",
+    "category": "",
+    "description": "<h2>Un estudio internacional revela que más de cuatro millones de hectáreas de bosque tropical protegido han ardido en 24 años y que la pérdida se ha disparado desde 2016</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así ha quedado el monasterio viejo de San Juan de la Peña tras el paso de las llamas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260818/quedado-monasterio-viejo-san-juan-133459779",
+    "pubDate": "2026-08-18 15:34:40",
+    "category": "",
+    "description": "<h2>El monumento presenta algunas zonas de roca afectadas por el incendio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TV3 emitirá el partido del Trofeo Joan Gamper entre el Barça y el Al Ahly",
+    "link": "https://www.elperiodico.com/es/tele/20260818/tv3-emitira-partido-trofeo-joan-gamper-133459334",
+    "pubDate": "2026-08-18 15:34:18",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Puente confirma que Renfe se prepara para operar la alta velocidad que unirá Vigo y Portugal",
+    "link": "https://www.elperiodico.com/es/economia/20260818/puente-confirma-renfe-prepara-operar-133459645",
+    "pubDate": "2026-08-18 15:33:00",
+    "category": "",
+    "description": "<h2>La compañía pública inicia la homologación en el país vecino de sus trenes 106 y 107 mientras Transportes mantiene 2030 como horizonte para tener listas las conexiones transfronterizas españolas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Історик розкрив сутність міфу про \"українців, які викопали море\"",
+    "link": "https://ua.korrespondent.net/showbiz/culture/4903889-istoryk-rozkryv-sutnist-mifu-pro-ukraintsiv-yaki-vykopaly-more",
+    "pubDate": "2026-08-18 15:25:00",
+    "category": "Новини культури",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531915.png\">Український історик детально пояснив походження фейку про \"викопане українцями Чорне море\", розвінчавши черговий застарілий нарратив російської пропаганди.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Сирії двоюрідного брата Башара Асада засудили до смертної кари",
+    "link": "https://ua.korrespondent.net/world/4903985-u-syrii-dvouiridnoho-brata-bashara-asada-zasudyly-do-smertnoi-kary",
+    "pubDate": "2026-08-18 15:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532082.png\">Васіма Асада засуджено за численні вбивства і \"вбивство, що супроводжувалося тортурами та жорстокістю, які були кваліфіковані як злочини проти людяності та воєнні злочини\".",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Росії заявили про \"понад 1600\" збитих дронів за добу",
+    "link": "https://ua.korrespondent.net/world/russia/4903984-u-rosii-zaiavyly-pro-ponad-1600-zbytykh-droniv-za-dobu",
+    "pubDate": "2026-08-18 15:23:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532081.jpg\">Російська ППО нібито знешкодила 1671 дрон, десять керованих авіабомб і два реактивні снаряди HIMARS.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Перший клас без сліз: неочікувані поради батькам, які працюють",
+    "link": "https://ua.korrespondent.net/articles/4903981-pershyi-klas-bez-sliz-neochikuvani-porady-batkam-yaki-pratsuiuit",
+    "pubDate": "2026-08-18 15:22:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532080.jpg\">Перший похід до школи є важливою подією не лише для дитини, а й для всієї родини. Як підготувати майбутнього першокласника без зайвого тиску, про що часто нагадують психологи, педагоги та лікарі?",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Туск звернувся до нападників на українських дітей у Польщі",
+    "link": "https://ua.korrespondent.net/world/4903979-tusk-zvernuvsia-do-napadnykiv-na-ukrainskykh-ditei-u-polschi",
+    "pubDate": "2026-08-18 15:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532071.jpg\">Прем’єр Польщі Дональд Туск закликав двох людей, які напали на українських дітей у Бидгощі, самостійно звернутися до поліції. Він попередив: після затримання наслідки будуть значно серйознішими.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Провокував військових: \"правозахисник\" з Дрогобича отримав 5,5 років тюрми",
+    "link": "https://ua.korrespondent.net/ukraine/4903976-provokuvav-viiskovykh-pravozakhysnyk-z-drohobycha-otrymav-55-rokiv-tuirmy",
+    "pubDate": "2026-08-18 15:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532070.jpg\">Свої провокації чоловік знімав на мобільний телефон, а відео поширював у Facebook, Telegram та на власному YouTube-каналі.",
+    "topic": "блогери",
+    "topic_match_probability": 65
+  },
+  {
     "title": "El hotel de lujo Bless Barcelona de la cadena Palladium abre en la plaza de Catalunya",
     "link": "https://www.elperiodico.com/es/barcelona/20260818/hotel-lujo-bless-barcelona-cadena-palladium-abre-plaza-catalunya-133453744",
     "pubDate": "2026-08-18 15:02:08",
@@ -7,6 +187,15 @@
     "description": "<h2 class=\"item\">Uno de sus grandes reclamos es la terraza La Pajarera, con vistas a todo el centro de la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260610/bless-collection-hotels-palladium-inaugura-hotel-barcelona-131254973\">Bless Collection Hotels, la marca de lujo de la cadena Palladium, abrirá su primer establecimiento en Barcelona a mediados de verano</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260116/furor-liquidacion-lujoso-hotel-barcelona-llevado-todo-podido-125758370\">Furor por la liquidación de un lujoso hotel de Barcelona: “Me he llevado todo lo que he podido”</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп позначив на карті Ормуз як територію США",
+    "link": "https://ua.korrespondent.net/world/4903975-tramp-poznachyv-na-karti-ormuz-yak-terytoriui-ssha",
+    "pubDate": "2026-08-18 15:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532068.jpg\">Раніше Дональд Трамп заявляв про намір після завершення війни з Іраном оголосити Ормузьку протоку територією Сполучених Штатів.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Crítica de 'El patíbulo' (Filmin): Shane Meadows recuerda un fraude financiero del siglo XVIII con su conocida frescura",
@@ -45,6 +234,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Meta загрожує штраф у 1,4 трлн доларів",
+    "link": "https://ua.korrespondent.net/business/companies/4903969-Meta-zahrozhuie-shtraf-u-14-trln-dolariv",
+    "pubDate": "2026-08-18 14:44:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532051.jpg\">Обвинувачення стверджує, що Facebook і Instagram навмисно використовували функції, які змушують дітей і підлітків проводити на платформах якомога більше часу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La jueza ordena el ingreso en prisión provisional de la mujer acusada de matar a su pareja con un arma blanca en Sevilla",
     "link": "https://www.elperiodico.com/es/sucesos/20260818/jueza-ordena-ingreso-prision-provisional-mujer-acusada-matar-pareja-arma-blanca-sevilla-133458408",
     "pubDate": "2026-08-18 14:43:39",
@@ -72,6 +270,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Енн Гетевей здивувала реакцією на запитання фаната",
+    "link": "https://ua.korrespondent.net/lifestyle/4903924-enn-hetevei-zdyvuvala-reaktsiieui-na-zapytannia-fanata",
+    "pubDate": "2026-08-18 14:35:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4531981.jpg\">Акторська майстерність і чарівність роблять Енн Гетевей беззаперечною фавориткою кіноманів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Así es el primer centro provisional para los inmigrantes llegados a Ceuta",
     "link": "https://www.elperiodico.com/es/fotos/sociedad/primer-centro-provisional-inmigrantes-llegados-ceuta-fotos-133458009",
     "pubDate": "2026-08-18 14:29:42",
@@ -97,6 +304,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532040.png\">Фіксується підвищений рівень забруднення дрібнодисперсним пилом, який може спричиняти дискомфорт під час дихання.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні планують скасувати \"державну лотерею\"",
+    "link": "https://ua.korrespondent.net/business/financial/4903960-v-ukraini-planuuit-skasuvaty-derzhavnu-lotereui",
+    "pubDate": "2026-08-18 14:20:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532039.png\">Законопроєкт про реформу ринку планують подати до Верховної ради у вересні. Передбачається скасування терміну \"державна лотерея\".",
+    "topic": "лотереї",
+    "topic_match_probability": 100
   },
   {
     "title": "CMF Clip Pro: una apuesta abierta para una vida conectada",
@@ -153,6 +369,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Мілевський показав романтичні кадри з коханою",
+    "link": "https://ua.korrespondent.net/sport/football/4903945-milevskyi-pokazav-romantychni-kadry-z-kokhanoui",
+    "pubDate": "2026-08-18 14:07:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532000.jpg\">Екснападник поділився яскравими світлинами з коханою, а шанувальники миттєво відреагували на ефектний образ дівчини.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La expareja de Hayden Panettiere publica una carta tras la muerte de la actriz: \"Nada borrará los tiempos que compartimos o el lugar que tuvo en nuestras vidas\"",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260818/expareja-hayden-panettiere-publica-carta-133451398",
     "pubDate": "2026-08-18 14:05:34",
@@ -205,6 +430,15 @@
     "description": "<h2 class=\"item\">La experta analiza el gesto del futbolista hacia su pareja tras la victoria en el Mundial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260730/meteorico-ascenso-ines-garcia-novia-132670574\">El meteórico ascenso de Inés García, novia de Lamine Yamal, tras el Mundial: más de 4 millones de seguidores y campañas de lujo</a></h2>",
     "topic": "спорт",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Жирона готує покарання для Циганкова",
+    "link": "https://ua.korrespondent.net/sport/football/4903946-zhyrona-hotuie-pokarannia-dlia-tsyhankova",
+    "pubDate": "2026-08-18 14:01:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532027.jpg\">Каталонський клуб планує застосувати покарання до українського вінгера за непрофесійне поводження.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Calma tensa en Huelva: Guardia Civil y Policía Nacional mantienen un operativo de seguridad para evitar nuevos enfrentamientos entre clanes",
