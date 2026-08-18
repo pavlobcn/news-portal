@@ -1,8 +1,10 @@
-# News for 2026-08-18 18:41
+# News for 2026-08-18 19:21
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+18:55 [Командиру роти "кадирівців" повідомлено про підозру - СБУ](https://ua.korrespondent.net/ukraine/4904058-komandyru-roty-kadyrivtsiv-povidomleno-pro-pidozru-sbu)<br>
+18:39 [DeepState фіксує нове просування РФ на Запоріжжі](https://ua.korrespondent.net/ukraine/4904053-DeepState-fiksuie-nove-prosuvannia-rf-na-zaporizhzhi)<br>
 18:23 [Російського опозиціонера знайшли мертвим у квартирі у Варшаві](https://ua.korrespondent.net/world/4904050-rosiiskoho-opozytsionera-znaishly-mertvym-u-kvartyri-u-varshavi)<br>
 18:10 [Педпрацівники зможуть онлайн оформити відстрочку через Резерв+](https://ua.korrespondent.net/ukraine/4904043-pedpratsivnyky-zmozhut-onlain-oformyty-vidstrochku-cherez-rezerv)<br>
 18:07 [В Україні зросли офіційні курси долара і євро](https://ua.korrespondent.net/business/financial/4904044-v-ukraini-zrosly-ofitsiini-kursy-dolara-i-yevro)<br>
@@ -68,6 +70,12 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:19 [Un fallo en el aire acondicionado obliga a suspender un tren de Rodalies en El Prat y a desalojar a los pasajeros](https://www.elperiodico.com/es/sociedad/20260818/fallo-aire-acondicionado-obliga-suspender-tren-rodalies-el-prat-desalojar-pasajeros-133463616)<br>
+19:14 [La destilaría Diageo pone en marcha su reestructuración: elimina  casi 2.000 empleos en el último ejercicio](https://www.elperiodico.com/es/economia/20260818/destilaria-diageo-pone-marcha-reestructuracion-133466197)<br>
+19:14 [El incendio de Las Hurdes (Cáceres) obliga a evacuar cinco alquerías y la UME se suma al dispositivo de extinción](https://www.elperiodico.com/es/sociedad/20260818/incendio-hurdes-caceres-obliga-evacuar-133466191)<br>
+19:03 [Regiones abisales](https://www.elperiodico.com/es/opinion/20260818/regiones-abisales-133443289)<br>
+18:58 [Muere un menor de 14 años ahogado en Gran Canaria](https://www.elperiodico.com/es/sucesos/20260818/muere-menor-14-anos-ahogado-133465653)<br>
+18:56 [Un ataque con misiles rusos deja 10 muertos en la región de Járkov, Ucrania](https://www.elperiodico.com/es/videos/internacional/ataque-misiles-rusos-deja-10/133465545.shtml)<br>
 18:38 [Los centros de formación de adultos acreditarán competencias básicas para facilitar el acceso a la FP](https://www.elperiodico.com/es/sociedad/20260818/centros-formacion-adultos-acreditaran-competencias-basicas-facilitar-acceso-formacion-profesional-133465008)<br>
 18:33 [OpenAI lanza 'ChatGPT para adolescentes' con filtros de seguridad y controles parentales](https://www.elperiodico.com/es/internacional/20260818/openai-lanza-chatgpt-adolescentes-filtros-133465067)<br>
 18:25 [Lorenzo de Medici, el último de la estirpe, narra la historia de su influyente familia: "es una operación de márketing fantástica"](https://www.elperiodico.com/es/ocio-y-cultura/20260818/ultimo-medici-libro-historia-familia-operacion-marketing-118282845)<br>
