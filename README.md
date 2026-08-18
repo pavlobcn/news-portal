@@ -1,4 +1,4 @@
-# News for 2026-08-18 09:26
+# News for 2026-08-18 10:05
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
@@ -26,10 +26,20 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 01:14 [Німеччина спростила обмін водійських прав для українців](https://ua.korrespondent.net/world/4903758-nimechchyna-sprostyla-obmin-vodiiskykh-prav-dlia-ukraintsiv)<br>
 
 ## as.com
+09:48 [La Sub-16, el terror de Europa](https://as.com/baloncesto/mas_baloncesto/la-sub-16-el-terror-de-europa-f202608-n/)<br>
 08:58 [Tavares, el gran refuerzo del Madrid](https://as.com/baloncesto/acb/tavares-el-gran-refuerzo-del-madrid-f202608-n/)<br>
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:03 [Más de 200 desalojados por un incendio en un garaje comunitario de Tomares (Sevilla)](https://www.elperiodico.com/es/sucesos/20260818/200-desalojados-incendio-garaje-comunitario-tomares-sevilla-133447748)<br>
+10:00 [Así es el colegio madrileño donde estudió Ana Obregón: una institución privada, laica y sin ánimo de lucro](https://www.elperiodico.com/es/gente/20260818/colegio-madrileno-estudio-ana-obregon-institucion-laica-privada-sin-animo-de-lucro-madrid-dv-et-133408359)<br>
+09:53 [FiiO DM15 R2R: el renacimiento del CD portátil con alma analógica](https://www.elperiodico.com/es/tecnologia/20260818/fiio-dm15-r2r-renacimiento-cd-133446667)<br>
+09:52 [Un ciervo ataca a una persona que hacía pícnic en un parque de Londres y es sacrificado](https://www.elperiodico.com/es/internacional/20260818/ciervo-ataca-persona-picnic-parque-133447320)<br>
+09:48 [El nuevo escenario del fuego en España: menos incendios forestales, pero más devastadores](https://www.elperiodico.com/es/sucesos/20260818/nuevo-escenario-fuego-espana-incendios-forestales-mas-devastadores-133447372)<br>
+09:40 [Un dispositivo del tamaño de la palma de la mano puede hackear un Boeing 737 en solo un minuto](https://www.elperiodico.com/es/tendencias21/20260818/dispositivo-tamano-palma-mano-hackear-133447198)<br>
+09:33 [El Imserso retoma para la temporada 2026-2027 los viajes a 50 euros y con mascota](https://www.elperiodico.com/es/sociedad/20260818/imserso-retoma-temporada-2026-2027-viajes-50-euros-mascota-133446931)<br>
+09:31 [Incendios hoy, 18 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260818/incendios-hoy-18-agosto-cataluna-espana-mapa-fuegos-activos-dv-133446242)<br>
+09:30 [El Ibex 35 abre plano (+0,03%), en los 19.988 puntos, con el petróleo por encima de 91 dólares](https://www.elperiodico.com/es/economia/20260818/ibex-35-abre-plano-0-133446834)<br>
 09:18 [El Gobierno pide a la UE fondos para financiar la acogida temporal de los migrantes de Ceuta](https://www.elperiodico.com/es/politica/20260818/gobierno-pide-ue-fondos-financiar-migrantes-ceuta-133446542)<br>
 09:15 [Ana Ramos (25 años): "Tengo trabajo, cobro todos los meses y aún así tengo que volver a casa de mis padres"](https://www.elperiodico.com/es/vivienda/20260818/ana-ramos-joven-vuelto-casa-padres-vivienda-independizarse-trabajo-dv-et-133421557)<br>
 09:11 [China alerta de que un fuerte El Niño agravará las lluvias y los riesgos sobre sus mares](https://www.elperiodico.com/es/internacional/20260818/china-alerta-fuerte-nino-agravara-133446260)<br>
