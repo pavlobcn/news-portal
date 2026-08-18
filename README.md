@@ -1,4 +1,4 @@
-# News for 2026-08-18 22:56
+# News for 2026-08-18 23:28
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
@@ -79,6 +79,8 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:17 [Sentido un nuevo terremoto de magnitud 3,4 y epicentro en Ogíjares (Granada)](https://www.elperiodico.com/es/sociedad/20260818/sentido-nuevo-terremoto-magnitud-3-133470324)<br>
+23:08 [Prisión sin fianza para el detenido por apuñalar a un joven en la Feria de Málaga](https://www.elperiodico.com/es/sucesos/20260818/prision-fianza-detenido-apunalar-joven-133470202)<br>
 21:45 [Un inusual estudio científico sobre ronquidos desvela dónde se originan los más comunes y da pistas sobre cómo prevenirlos](https://www.elperiodico.com/es/videos/salud/inusual-estudio-cientifico-ronquidos-desvela/133469182.shtml)<br>
 21:20 [Hacienda te vigila si ingresas o sacas dinero del cajero de esta manera](https://www.elperiodico.com/es/videos/economia/hacienda-vigila-ingresas-o-sacas/133468952.shtml)<br>
 21:13 [La revolución cultural del Golfo](https://www.elperiodico.com/es/opinion/20260818/revolucion-cultural-golfo-133468458)<br>
