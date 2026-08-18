@@ -1,8 +1,13 @@
-# News for 2026-08-18 17:45
+# News for 2026-08-18 18:41
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+18:23 [Російського опозиціонера знайшли мертвим у квартирі у Варшаві](https://ua.korrespondent.net/world/4904050-rosiiskoho-opozytsionera-znaishly-mertvym-u-kvartyri-u-varshavi)<br>
+18:10 [Педпрацівники зможуть онлайн оформити відстрочку через Резерв+](https://ua.korrespondent.net/ukraine/4904043-pedpratsivnyky-zmozhut-onlain-oformyty-vidstrochku-cherez-rezerv)<br>
+18:07 [В Україні зросли офіційні курси долара і євро](https://ua.korrespondent.net/business/financial/4904044-v-ukraini-zrosly-ofitsiini-kursy-dolara-i-yevro)<br>
+17:49 [Розширено зону обов’язкової евакуації на Харківщині](https://ua.korrespondent.net/ukraine/4904037-rozshyreno-zonu-oboviazkovoi-evakuatsii-na-kharkivschyni)<br>
+17:22 [Збій у роботі ПриватБанку: які сервіси не працюють](https://ua.korrespondent.net/business/companies/4904028-zbii-u-roboti-pryvatbanku-yaki-servisy-ne-pratsuiuit)<br>
 17:19 [У Польщі затримали підозрюваних у нападі на українських дітей](https://ua.korrespondent.net/world/4904026-u-polschi-zatrymaly-pidozruivanykh-u-napadi-na-ukrainskykh-ditei)<br>
 17:06 [Кожен третій переселенець в Україні знайшов роботу у 2026 році](https://ua.korrespondent.net/ukraine/4904024-kozhen-tretii-pereselenets-v-ukraini-znaishov-robotu-u-2026-rotsi)<br>
 16:44 [Топмодель знялася у фотосесії в червоній білизні](https://ua.korrespondent.net/lifestyle/4903995-topmodel-znialasia-u-fotosesii-v-chervonii-bilyzni)<br>
@@ -63,6 +68,16 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:38 [Los centros de formación de adultos acreditarán competencias básicas para facilitar el acceso a la FP](https://www.elperiodico.com/es/sociedad/20260818/centros-formacion-adultos-acreditaran-competencias-basicas-facilitar-acceso-formacion-profesional-133465008)<br>
+18:33 [OpenAI lanza 'ChatGPT para adolescentes' con filtros de seguridad y controles parentales](https://www.elperiodico.com/es/internacional/20260818/openai-lanza-chatgpt-adolescentes-filtros-133465067)<br>
+18:25 [Lorenzo de Medici, el último de la estirpe, narra la historia de su influyente familia: "es una operación de márketing fantástica"](https://www.elperiodico.com/es/ocio-y-cultura/20260818/ultimo-medici-libro-historia-familia-operacion-marketing-118282845)<br>
+18:08 [Collserola: proteger el bosque, proteger Barcelona](https://www.elperiodico.com/es/opinion/20260818/collserola-proteger-bosque-proteger-barcelona-133463529)<br>
+18:06 [¿Por qué en Granada se producen tantos terremotos?](https://www.elperiodico.com/es/sociedad/20260818/porque-granada-se-producen-terremotos-dv-133383426)<br>
+18:05 [Así ha quedado el monasterio viejo de San Juan de la Peña tras el paso de las llamas](https://www.elperiodico.com/es/videos/sociedad/quedado-monasterio-viejo-san-juan/133464013.shtml)<br>
+18:00 [Obras maestras de Picasso, Da Vinci y Bacon se mudan al Golfo Pérsico](https://www.elperiodico.com/es/ocio-y-cultura/20260818/obras-maestras-picasso-da-vinci-133454997)<br>
+18:00 [Los petrodólares redibujan el mapa mundial del arte](https://www.elperiodico.com/es/ocio-y-cultura/20260818/petrodolares-redibujan-mapa-mundial-arte-133365410)<br>
+18:00 [El Guggenheim Abu Dabi, el museo de los mil millones de dólares](https://www.elperiodico.com/es/ocio-y-cultura/20260818/guggenheim-abu-dabi-museo-mil-133138701)<br>
+17:50 [De la Copa América de vela al Delta d’Or: la apuesta eléctrica de un pequeño astillero del Empordà](https://www.elperiodico.com/es/economia/20260818/astillero-emporda-copa-america-vela-delta-or-premio-diseno-zephyr-boats-133286041)<br>
 17:40 [¿Fin del verano en Catalunya? Empieza la cuenta atrás para el descenso de las temperaturas](https://www.elperiodico.com/es/videos/sociedad/verano-catalunya-empieza-cuenta-descenso/133463491.shtml)<br>
 17:30 [Javier Duque (28 años), de informático a agricultor: "Yo lo hago porque me gusta muchísimo pero el margen de beneficio cada vez es menor y es imposible comenzar desde cero"](https://www.elperiodico.com/es/economia/20260818/javier-duque-28-anos-informatico-agricultor-margen-beneficio-menor-dv-et-133355603)<br>
 17:26 [Un bombero de la Diputación de Zaragoza muere en un aparatoso incendio en un taller mecánico](https://www.elperiodico.com/es/sociedad/20260818/bombero-diputacion-zaragoza-muere-aparatoso-133463129)<br>
