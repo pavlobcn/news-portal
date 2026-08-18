@@ -1,4 +1,4 @@
-# News for 2026-08-18 07:56
+# News for 2026-08-18 08:44
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
@@ -14,7 +14,15 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 01:14 [Німеччина спростила обмін водійських прав українців](https://ua.korrespondent.net/world/4903758-nimechchyna-sprostyla-obmin-vodiiskykh-prav-ukraintsiv)<br>
 01:14 [Німеччина спростила обмін водійських прав для українців](https://ua.korrespondent.net/world/4903758-nimechchyna-sprostyla-obmin-vodiiskykh-prav-dlia-ukraintsiv)<br>
 
+## as.com
+08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
+
 ## www.elperiodico.com
+08:35 [Una incidencia en Cunit provoca retrasos en la R2 Sud, R13, R14, R15 y R16](https://www.elperiodico.com/es/trafico-y-transportes/20260818/trenes-incidencia-cunit-provoca-retrasos-rodalies-133445421)<br>
+08:30 [De camino a una despedida de soltero en Mallorca: Un piloto de Ryanair expulsa a unos pasajeros borrachos y la situación acaba descontrolándose](https://www.elperiodico.com/es/sociedad/20260818/camino-despedida-soltero-mallorca-piloto-133445793)<br>
+08:09 [Dolly Parton no asiste a una inauguración en Tennessee por problemas de salud](https://www.elperiodico.com/es/ocio-y-cultura/20260818/dolly-parton-asiste-inauguracion-tennessee-133445600)<br>
+08:02 [Sarna: qué es, cómo se contagia y principales síntomas](https://www.elperiodico.com/es/sanidad/20260818/sarna-que-es-como-se-contagia-sintomas-dv-6577386)<br>
+07:57 [La Peña Oroel, símbolo de Jaca "al que se le rinde pleitesía", sigue amenazada por el fuego: "La defenderemos con los dientes"](https://www.elperiodico.com/es/sociedad/20260818/pena-oroel-simbolo-jaca-le-133445489)<br>
 07:55 [Informe: 2025 registró máximos históricos en emisiones atmosféricas, subida del mar y calor oceánico](https://www.elperiodico.com/es/medio-ambiente/20260818/informe-2025-registro-maximos-historicos-133445417)<br>
 07:55 [Antonio se jubiló y dejó la ciudad para vivir en el Amazonas: "Tengo aire y agua muy puros y una tranquilidad total. Por este estilo de vida empiezas a ser menos consumista. Esto te hace descansar"](https://www.elperiodico.com/es/economia/20260818/selva-amazonica-jubilado-dejo-ciudad-tranquilidad-antonio-dv-et-133270479)<br>
 07:54 [Detectados una decena de casos de sarna entre los militares desplazados a Ceuta](https://www.elperiodico.com/es/sociedad/20260818/detectados-decena-casos-sarna-militares-desplazados-ceuta-133445265)<br>
