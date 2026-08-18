@@ -1,5 +1,32 @@
 [
   {
+    "title": "Греція розслідує авіакатастрофу, в якій загинули молодята з Британії",
+    "link": "https://ua.korrespondent.net/world/4904121-hretsiia-rozsliduie-aviakatastrofu-v-yakii-zahynuly-molodiata-z-brytanii",
+    "pubDate": "2026-08-18 23:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532473.jpg\">Повне розслідування інциденту здійснює Національна організація з розслідування авіаційних та залізничних аварій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere un ciclista en Ourense tras sufrir una caída",
+    "link": "https://www.elperiodico.com/es/sucesos/20260818/muere-ciclista-ourense-sufrir-caida-133470458",
+    "pubDate": "2026-08-18 23:39:31",
+    "category": "",
+    "description": "<h2>El suceso tuvo lugar sobre las 21.00 horas de este martes en el municipio de Xinzo de Limia </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США впровадили санкції проти голови МКС",
+    "link": "https://ua.korrespondent.net/world/4904115-ssha-vprovadyly-sanktsii-proty-holovy-mks",
+    "pubDate": "2026-08-18 23:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532455.jpg\">Санкції адміністрації Трампа спрямовані проти голови суду Томоко Акане та старшого адвоката Абдулає Сеє.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Sentido un nuevo terremoto de magnitud 3,4 y epicentro en Ogíjares (Granada)",
     "link": "https://www.elperiodico.com/es/sociedad/20260818/sentido-nuevo-terremoto-magnitud-3-133470324",
     "pubDate": "2026-08-18 23:17:22",
@@ -45,6 +72,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Напад РФ на НАТО. Захід і війна на два фронти",
+    "link": "https://ua.korrespondent.net/world/4904119-napad-rf-na-nato-zakhid-i-viina-na-dva-fronty",
+    "pubDate": "2026-08-18 22:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532472.jpg\">З погляду Москви та Пекіна, вікно можливостей для удару по Заходу, ймовірно, ще ніколи не виглядало настільки відкритим.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Гравець Баварії продовжує непритомніти на полі",
     "link": "https://ua.korrespondent.net/sport/football/4904108-hravets-bavarii-prodovzhuie-neprytomnity-na-poli",
     "pubDate": "2026-08-18 22:42:00",
@@ -70,6 +106,15 @@
     "description": "<h2>Los investigadores creen que fue un golpe profesional y que los ladrones estaban esperando en la rotonda al vehículo de una empresa que gestiona casinos, bingos y salas de apuestas </h2>",
     "topic": "пограбування, афера",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Новий контингент з КНДР. Загрози для України",
+    "link": "https://ua.korrespondent.net/ukraine/4904116-novyi-kontynhent-z-kndr-zahrozy-dlia-ukrainy",
+    "pubDate": "2026-08-18 22:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532456.jpg\">ГУР попереджає про підготовку до перекидання нового великого контингенту з КНДР, на території РФ може бути розгорнуто від 30 до 50 тис. північнокорейських солдатів.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Ф’юрі заінтригував новиною про бій",
