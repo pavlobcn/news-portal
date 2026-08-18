@@ -1,5 +1,95 @@
 [
   {
+    "title": "Stellantis відкликає майже мільйон автомобілів",
+    "link": "https://ua.korrespondent.net/business/auto/4904091-Stellantis-vidklykaie-maizhe-milion-avtomobiliv",
+    "pubDate": "2026-08-18 21:23:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532346.jpg\">Через проблему з програмним забезпеченням у водіїв може зникнути зображення з камери заднього виду під час руху заднім ходом.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hacienda te vigila si ingresas o sacas dinero del cajero de esta manera",
+    "link": "https://www.elperiodico.com/es/videos/economia/hacienda-vigila-ingresas-o-sacas/133468952.shtml",
+    "pubDate": "2026-08-18 21:20:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по багатоповерхівці у Запоріжжі, є поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4904089-rosiiany-vdaryly-po-bahatopoverkhivtsi-u-zaporizhzhi-ye-poranenyi",
+    "pubDate": "2026-08-18 21:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532345.jpg\">Внаслідок удару пошкоджений багатоквартирний будинок. Постраждав чоловік, йому надається необхідна меддопомога.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La revolución cultural del Golfo",
+    "link": "https://www.elperiodico.com/es/opinion/20260818/revolucion-cultural-golfo-133468458",
+    "pubDate": "2026-08-18 21:13:15",
+    "category": "",
+    "description": "<h2>Se ha pasado de compras millonarias por parte  de jeques al encargo de museos a prestigiosos arquitectos </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Барселона підписала Родрі",
+    "link": "https://ua.korrespondent.net/sport/football/4904085-barselona-pidpysala-rodri",
+    "pubDate": "2026-08-18 21:06:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532272.jpg\">Каталонці поповнили склад іспанським півзахисником Манчестер Сіті, визнаним кращим гравцем чемпіонату світу 2026 року.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Fiscalía de Bolivia investiga al exasesor de Milei por presunta \"tentativa de feminicidio\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260818/fiscalia-bolivia-investiga-exasesor-milei-133468732",
+    "pubDate": "2026-08-18 21:05:11",
+    "category": "",
+    "description": "<h2>Su mujer sufrió un ataque armado en la región oriental de Santa Cruz</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Apple reduce y simplifica las comisiones de App Store en Europa tras conversaciones con Bruselas",
+    "link": "https://www.elperiodico.com/es/economia/20260818/apple-133468719",
+    "pubDate": "2026-08-18 21:05:10",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Дніпровському районі Києва впали уламки дронів РФ",
+    "link": "https://ua.korrespondent.net/city/kiev/4904084-u-dniprovskomu-raioni-kyieva-vpaly-ulamky-droniv-rf",
+    "pubDate": "2026-08-18 21:05:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532331.jpg\">У Дніпровському районі в дворі пʼятиповерхового житлового будинку впали уламки ворожого БПЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, miércoles 19 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260818/horoscopo-hoy-miercoles-19-agosto-dv-133332861",
+    "pubDate": "2026-08-18 21:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dani Mérida pierde ante Fritz y se despide de Cincinnati",
+    "link": "https://www.elperiodico.com/es/deportes/20260818/dani-merida-pierde-fritz-despide-133468599",
+    "pubDate": "2026-08-18 20:59:03",
+    "category": "",
+    "description": "<h2>El tenista español cae ante Taylor Fritz (6-3 y 6-4)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Rodri será capitán, con o sin brazalete",
     "link": "https://www.elperiodico.com/es/deportes/20260818/rodri-sera-capitan-o-brazalete-133468177",
     "pubDate": "2026-08-18 20:50:57",
@@ -54,12 +144,30 @@
     "topic_match_probability": 0
   },
   {
+    "title": "OpenAI запустила ChatGPT для підлітків із додатковими обмеженнями безпеки",
+    "link": "https://ua.korrespondent.net/tech/technews/4904079-OpenAI-zapustyla-ChatGPT-dlia-pidlitkiv-iz-dodatkovymy-obmezhenniamy-bezpeky",
+    "pubDate": "2026-08-18 20:27:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532314.jpg\">Нова версія чатбота має батьківський контроль та спеціальні правила для користувачів до 18 років. Система обмежує доступ до потенційно небезпечного контенту та водночас пропонує інструменти для навчання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Madonna arrasa en las nominaciones de los VMA, seguida de Taylor Swift y Sabrina Carpenter",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260818/madonna-arrasa-nominaciones-vma-seguida-133468019",
     "pubDate": "2026-08-18 20:24:54",
     "category": "",
     "description": "",
     "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Китайський Freelander 8 помітили на дорожніх випробування в ОАЕ",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4904077-kytaiskyi-Freelander-8-pomityly-na-dorozhnikh-vyprobuvannia-v-oae",
+    "pubDate": "2026-08-18 20:18:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532289.jpg\">Великий кросовер спільного виробництва Jaguar Land Rover та китайської Chery вже проходить підготовку до міжнародного запуску ще до старту продажів у Китаї.",
+    "topic": "автомобілі",
     "topic_match_probability": 100
   },
   {
@@ -133,6 +241,15 @@
     "description": "",
     "topic": "пограбування, афера",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Skoda представила оновлений седан Slavia",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4904065-Skoda-predstavyla-onovlenyi-sedan-Slavia",
+    "pubDate": "2026-08-18 19:33:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532258.jpg\">Седан отримав оновлений дизайн, нову мультимедійну систему з ШІ, додаткові системи безпеки та низку перших для свого сегмента функцій.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
   },
   {
     "title": "Rodri firma por el Barça: \"Era mi primera opción\"",
@@ -216,6 +333,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Єгипет будує місто майбутнього зі штучним інтелектом",
+    "link": "https://ua.korrespondent.net/tech/technews/4904061-yehypet-buduie-misto-maibutnoho-zi-shtuchnym-intelektom",
+    "pubDate": "2026-08-18 19:06:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532224.jpg\">Єгипет схвалив масштабний проєкт The Spine у Новому Каїрі. На площі понад 2 млн кв. м планують звести 165 веж, а міською інфраструктурою значною мірою керуватиме штучний інтелект.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Regiones abisales",
     "link": "https://www.elperiodico.com/es/opinion/20260818/regiones-abisales-133443289",
     "pubDate": "2026-08-18 19:03:32",
@@ -270,6 +396,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Свята 19 серпня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4904034-sviata-19-serpnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-08-18 18:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532184.jpg\">Ключова порада на сьогодні: мудрість та поступливість допоможуть вберегти родинні стосунки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Científicos italianos denuncian el robo de instrumentos valorados en más de 50.000 euros tras un viaje a España para estudiar el eclipse",
     "link": "https://www.elperiodico.com/es/sociedad/20260818/cientificos-italianos-denuncian-robo-instrumentos-eclipse-espana-francia-perpinan-133462933",
     "pubDate": "2026-08-18 18:50:25",
@@ -286,6 +421,15 @@
     "description": "<h2>Los dirigentes del PP culpan de nuevo a Sánchez de una insuficiente respuesta a la crisis y recuerdan que la UE avala Marruecos como país \"seguro\"</h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Кривбас узяв в оренду легіонера з Болівії",
+    "link": "https://ua.korrespondent.net/sport/football/4904056-kryvbas-uziav-v-orendu-lehionera-z-bolivii",
+    "pubDate": "2026-08-18 18:41:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532210.jpg\">Криворізька команда поповнила склад 21-річним болівійським гравцем, здатним грати в півзахисті.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "DeepState фіксує нове просування РФ на Запоріжжі",
