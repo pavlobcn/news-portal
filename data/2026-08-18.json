@@ -1,5 +1,86 @@
 [
   {
+    "title": "Cuatro atracadores roban a punta de pistola en Mazarrón miles de euros de un vehículo que transportaba la recaudación de salones de juegos",
+    "link": "https://www.elperiodico.com/es/sucesos/20260818/cuatro-atracadores-roban-punta-pistola-133469803",
+    "pubDate": "2026-08-18 22:19:58",
+    "category": "",
+    "description": "<h2>Los investigadores creen que fue un golpe profesional y que los ladrones estaban esperando en la rotonda al vehículo de una empresa que gestiona casinos, bingos y salas de apuestas </h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ф’юрі заінтригував новиною про бій",
+    "link": "https://ua.korrespondent.net/sport/boks/4904103-fuiri-zaintryhuvav-novynoui-pro-bii",
+    "pubDate": "2026-08-18 21:59:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532363.jpg\">Британський боксер не втомлюється підігрівати інтерес до власної персони і боїв, у яких він збирається взяти участь.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб оновив дані про ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4904100-henshtab-onovyv-dani-pro-sytuatsiui-na-fronti",
+    "pubDate": "2026-08-18 21:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532362.jpg\">Шістнадцять атак здійснив ворог на Покровському напрямку. На Костянтинівському напрямку Сили оборони відбивали 12 ворожих штурмів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un inusual estudio científico sobre ronquidos desvela dónde se originan los más comunes y da pistas sobre cómo prevenirlos",
+    "link": "https://www.elperiodico.com/es/videos/salud/inusual-estudio-cientifico-ronquidos-desvela/133469182.shtml",
+    "pubDate": "2026-08-18 21:45:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España se pasea en octavos",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-se-pasea-en-octavos-f202608-n/",
+    "pubDate": "2026-08-18 21:36:34",
+    "category": "Baloncesto cantera",
+    "description": "La Selección femenina Sub-16 se impuso a Lituania por 91 puntos y se enfrentará a Serbia en cuartos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський прийняв вірчі грамоти від 4 послів",
+    "link": "https://ua.korrespondent.net/ukraine/4904097-zelenskyi-pryiniav-virchi-hramoty-vid-4-posliv",
+    "pubDate": "2026-08-18 21:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532361.png\">Зеленський обговорив з дипломатами спільні пріоритети: розвиток торговельно-економічних відносин та окремих сфер співпраці.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Китай відновив космічні запуски після вибуху ракети",
+    "link": "https://ua.korrespondent.net/tech/space/4904095-kytai-vidnovyv-kosmichni-zapusky-pislia-vybukhu-rakety",
+    "pubDate": "2026-08-18 21:31:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532347.jpg\">Менш ніж за добу країна успішно провела два космічні запуски, вивівши на орбіту 24 супутники зв’язку та космічний апарат Об’єднаних Арабських Еміратів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las matrículas españolas no son infinitas: ¿Qué pasará cuando se agoten?",
+    "link": "https://www.elperiodico.com/es/motor/20260818/matriculas-espanolas-no-son-infinitas-133424254",
+    "pubDate": "2026-08-18 21:30:11",
+    "category": "",
+    "description": "<h2>El formato de cuatro números y tres letras tiene un número limitado de combinaciones, aunque todavía quedan varias décadas antes de llegar a la última matrícula posible</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Світоліна припинила участь у турнірі WTA в Цинциннаті через травму",
+    "link": "https://ua.korrespondent.net/sport/tenis/4904093-svitolina-prypynyla-uchast-u-turniri-WTA-v-tsyntsynnati-cherez-travmu",
+    "pubDate": "2026-08-18 21:25:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532300.jpg\">Українська тенісистка, пройшовши до третього кола змагань, вимушена зачохлити ракетку через загострення травми, отриманої в Торонто.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Stellantis відкликає майже мільйон автомобілів",
     "link": "https://ua.korrespondent.net/business/auto/4904091-Stellantis-vidklykaie-maizhe-milion-avtomobiliv",
     "pubDate": "2026-08-18 21:23:00",
@@ -191,6 +272,15 @@
   {
     "title": "\"Оператор ГТС України\" отримав нового генерального директора",
     "link": "https://ua.korrespondent.net/business/companies/4904072-operator-hts-ukrainy-otrymav-novoho-heneralnoho-dyrektora",
+    "pubDate": "2026-08-18 20:03:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532274.jpg\">Наталія Бойко офіційно очолила \"Оператора ГТС України\". Її кандидатуру затвердили після відкритого конкурсу, у якому брали участь понад 20 претендентів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Оператор ГТС України отримав нового гендиректора",
+    "link": "https://ua.korrespondent.net/business/companies/4904072-operator-hts-ukrainy-otrymav-novoho-hendyrektora",
     "pubDate": "2026-08-18 20:03:00",
     "category": "Новини компаній",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532274.jpg\">Наталія Бойко офіційно очолила \"Оператора ГТС України\". Її кандидатуру затвердили після відкритого конкурсу, у якому брали участь понад 20 претендентів.",
