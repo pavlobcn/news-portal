@@ -1,5 +1,104 @@
 [
   {
+    "title": "Rodri firma por el Barça: \"Era mi primera opción\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/rodri-firma-barca-primera-opcion/133467565.shtml",
+    "pubDate": "2026-08-18 20:02:24",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нафта дала Путіну час: економіка РФ витримає ще рік війни",
+    "link": "https://ua.korrespondent.net/world/russia/4904070-nafta-dala-putinu-chas-ekonomika-rf-vytrymaie-sche-rik-viiny",
+    "pubDate": "2026-08-18 19:51:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532273.jpg\">Високі ціни на нафту дали Кремлю додаткові доходи й відклали гострі економічні проблеми. За оцінкою європейської розвідки, Росія може продовжувати війну щонайменше до весни.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Німеччина відкрила центр захисту від дронів",
+    "link": "https://ua.korrespondent.net/world/4904068-nimechchyna-vidkryla-tsentr-zakhystu-vid-droniv",
+    "pubDate": "2026-08-18 19:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532259.jpg\">Тема стала особливо актуальною після нещодавнього виявлення оснащеного вибухівкою дрону в аеропорту Лейпцигу.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El mago Juan Tamariz fallece a los 83 años",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/mago-juan-tamariz-fallece-83/133466894.shtml",
+    "pubDate": "2026-08-18 19:45:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zara de lujo, exportaciones y el timo del micropene",
+    "link": "https://www.elperiodico.com/es/opinion/20260818/zara-lujo-exportaciones-timo-micropene-133466801",
+    "pubDate": "2026-08-18 19:43:03",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Rodri firma por el Barça: \"Era mi primera opción\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260818/rodri-firma-barca-primera-opcion-133458573",
+    "pubDate": "2026-08-18 19:30:03",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Científicos italianos denuncian el robo de instrumentos valorados en más de 50.000 euros tras un viaje a España para estudiar el eclipse",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cientificos-italianos-denuncian-robo-instrumentos/133466600.shtml",
+    "pubDate": "2026-08-18 19:29:49",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Бельгія надасть Україні 10 мільйонів євро",
+    "link": "https://ua.korrespondent.net/ukraine/4904063-belhiia-nadast-ukraini-10-milioniv-yevro",
+    "pubDate": "2026-08-18 19:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532236.png\">Кошти надаються, аби допомогти Україні створити Національний центр передового досвіду з лікування тяжких опіків.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las autoridades portuguesas investigan la muerte del ciclista británico Finlay Tarling",
+    "link": "https://www.elperiodico.com/es/deportes/20260818/autoridades-portuguesas-investigan-muerte-ciclista-133464992",
+    "pubDate": "2026-08-18 19:23:38",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260814/tragedia-volta-portugal-muere-atropellado-britanico-finlay-tarling-133370392\">Muere atropellado el ciclista británico Finlay Tarling (19 años) en la Vuelta a Portugal</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El mago Juan Tamariz fallece a los 83 años",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260818/mago-juan-tamariz-fallece-83-133466456",
+    "pubDate": "2026-08-18 19:21:18",
+    "category": "",
+    "description": "<h2>\"Con inmensa tristeza, hoy me despido de mi padre\", ha comunicado la también ilusionista Ana Tamariz en redes sociales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Generalitat da el primer paso para acabar con el ruido en la Granvia de L'Hospitalet tras dos décadas de lucha vecinal",
+    "link": "https://www.elperiodico.com/es/barcelona/20260818/generalitat-da-primer-paso-acabar-ruido-granvia-hospitalet-dos-decadas-lucha-vecinal-133465857",
+    "pubDate": "2026-08-18 19:20:43",
+    "category": "",
+    "description": "<h2>La administración catalana licita el diseño del proyecto que debe culminar con el cubrimiento de la vía hospitalense</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/hospitalet/20220623/ruido-gran-via-hospitalet-trafico-13911798\" target=\"_blank\">Veinte años huyendo del ruido de la Gran Via de L'Hospitalet: \"Aquí no se puede vivir\"</a></h2><h2>RUIDO EN L'HOSPITALET | <a href=\"https://www.elperiodico.com/es/barcelona/hospitalet/20250102/vecinos-hospitalet-conviven-niveles-ruido-superiores-recomendados-oms-112950616\" target=\"_blank\">Más del 65% de los vecinos de L’Hospitalet conviven con niveles de ruido superiores a los recomendados por la OMS</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Un fallo en el aire acondicionado obliga a suspender un tren de Rodalies en El Prat y a desalojar a los pasajeros",
     "link": "https://www.elperiodico.com/es/sociedad/20260818/fallo-aire-acondicionado-obliga-suspender-tren-rodalies-el-prat-desalojar-pasajeros-133463616",
     "pubDate": "2026-08-18 19:19:53",

@@ -1,4 +1,4 @@
-# News for 2026-08-18 19:21
+# News for 2026-08-18 20:06
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
@@ -70,6 +70,9 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:45 [El mago Juan Tamariz fallece a los 83 años](https://www.elperiodico.com/es/videos/sucesos/mago-juan-tamariz-fallece-83/133466894.shtml)<br>
+19:21 [El mago Juan Tamariz fallece a los 83 años](https://www.elperiodico.com/es/ocio-y-cultura/20260818/mago-juan-tamariz-fallece-83-133466456)<br>
+19:20 [La Generalitat da el primer paso para acabar con el ruido en la Granvia de L'Hospitalet tras dos décadas de lucha vecinal](https://www.elperiodico.com/es/barcelona/20260818/generalitat-da-primer-paso-acabar-ruido-granvia-hospitalet-dos-decadas-lucha-vecinal-133465857)<br>
 19:19 [Un fallo en el aire acondicionado obliga a suspender un tren de Rodalies en El Prat y a desalojar a los pasajeros](https://www.elperiodico.com/es/sociedad/20260818/fallo-aire-acondicionado-obliga-suspender-tren-rodalies-el-prat-desalojar-pasajeros-133463616)<br>
 19:14 [La destilaría Diageo pone en marcha su reestructuración: elimina  casi 2.000 empleos en el último ejercicio](https://www.elperiodico.com/es/economia/20260818/destilaria-diageo-pone-marcha-reestructuracion-133466197)<br>
 19:14 [El incendio de Las Hurdes (Cáceres) obliga a evacuar cinco alquerías y la UME se suma al dispositivo de extinción](https://www.elperiodico.com/es/sociedad/20260818/incendio-hurdes-caceres-obliga-evacuar-133466191)<br>
