@@ -1,8 +1,9 @@
-# News for 2026-08-18 22:24
+# News for 2026-08-19 01:31
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+23:57 [Греція розслідує авіакатастрофу, в якій загинули молодята з Британії](https://ua.korrespondent.net/world/4904121-hretsiia-rozsliduie-aviakatastrofu-v-yakii-zahynuly-molodiata-z-brytanii)<br>
 21:31 [Китай відновив космічні запуски після вибуху ракети](https://ua.korrespondent.net/tech/space/4904095-kytai-vidnovyv-kosmichni-zapusky-pislia-vybukhu-rakety)<br>
 21:17 [Росіяни вдарили по багатоповерхівці у Запоріжжі, є поранений](https://ua.korrespondent.net/ukraine/4904089-rosiiany-vdaryly-po-bahatopoverkhivtsi-u-zaporizhzhi-ye-poranenyi)<br>
 21:05 [У Дніпровському районі Києва впали уламки дронів РФ](https://ua.korrespondent.net/city/kiev/4904084-u-dniprovskomu-raioni-kyieva-vpaly-ulamky-droniv-rf)<br>
@@ -79,6 +80,9 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 08:15 [Así es el nuevo cuerpo técnico del Real Madrid](https://as.com/baloncesto/acb/asi-es-el-nuevo-cuerpo-tecnico-del-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:39 [Muere un ciclista en Ourense tras sufrir una caída](https://www.elperiodico.com/es/sucesos/20260818/muere-ciclista-ourense-sufrir-caida-133470458)<br>
+23:17 [Sentido un nuevo terremoto de magnitud 3,4 y epicentro en Ogíjares (Granada)](https://www.elperiodico.com/es/sociedad/20260818/sentido-nuevo-terremoto-magnitud-3-133470324)<br>
+23:08 [Prisión sin fianza para el detenido por apuñalar a un joven en la Feria de Málaga](https://www.elperiodico.com/es/sucesos/20260818/prision-fianza-detenido-apunalar-joven-133470202)<br>
 21:45 [Un inusual estudio científico sobre ronquidos desvela dónde se originan los más comunes y da pistas sobre cómo prevenirlos](https://www.elperiodico.com/es/videos/salud/inusual-estudio-cientifico-ronquidos-desvela/133469182.shtml)<br>
 21:20 [Hacienda te vigila si ingresas o sacas dinero del cajero de esta manera](https://www.elperiodico.com/es/videos/economia/hacienda-vigila-ingresas-o-sacas/133468952.shtml)<br>
 21:13 [La revolución cultural del Golfo](https://www.elperiodico.com/es/opinion/20260818/revolucion-cultural-golfo-133468458)<br>

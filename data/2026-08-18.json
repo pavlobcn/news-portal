@@ -1,5 +1,104 @@
 [
   {
+    "title": "Греція розслідує авіакатастрофу, в якій загинули молодята з Британії",
+    "link": "https://ua.korrespondent.net/world/4904121-hretsiia-rozsliduie-aviakatastrofu-v-yakii-zahynuly-molodiata-z-brytanii",
+    "pubDate": "2026-08-18 23:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532473.jpg\">Повне розслідування інциденту здійснює Національна організація з розслідування авіаційних та залізничних аварій.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere un ciclista en Ourense tras sufrir una caída",
+    "link": "https://www.elperiodico.com/es/sucesos/20260818/muere-ciclista-ourense-sufrir-caida-133470458",
+    "pubDate": "2026-08-18 23:39:31",
+    "category": "",
+    "description": "<h2>El suceso tuvo lugar sobre las 21.00 horas de este martes en el municipio de Xinzo de Limia </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США впровадили санкції проти голови МКС",
+    "link": "https://ua.korrespondent.net/world/4904115-ssha-vprovadyly-sanktsii-proty-holovy-mks",
+    "pubDate": "2026-08-18 23:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532455.jpg\">Санкції адміністрації Трампа спрямовані проти голови суду Томоко Акане та старшого адвоката Абдулає Сеє.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Sentido un nuevo terremoto de magnitud 3,4 y epicentro en Ogíjares (Granada)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260818/sentido-nuevo-terremoto-magnitud-3-133470324",
+    "pubDate": "2026-08-18 23:17:22",
+    "category": "",
+    "description": "<h2>Se trata de un temblor de menor duración que el resto de alta intensidad de la jornada pero que ha sido sentido por la población en una veintena de municipios de la provincia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Prisión sin fianza para el detenido por apuñalar a un joven en la Feria de Málaga",
+    "link": "https://www.elperiodico.com/es/sucesos/20260818/prision-fianza-detenido-apunalar-joven-133470202",
+    "pubDate": "2026-08-18 23:08:17",
+    "category": "",
+    "description": "<h2>El arrestado, de 29 años, está investigado inicialmente por un delito de homicidio en grado de tentativa tras la agresión ocurrida en la zona de atracciones del Real de Cortijo de Torres</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 19 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260818/portada-periodico-19-agosto-2026-133470066",
+    "pubDate": "2026-08-18 23:02:26",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Cap Roig Festival cierra su 26ª edición con 46.165 espectadores y un 86% de ocupación",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260818/cap-roig-festival-espectadores-ocupacion-133466685",
+    "pubDate": "2026-08-18 23:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\"> El certamen, organizado por CaixaBank y el Grup Clipper’s, ha clausurado su programación con 'El último vals', el espectáculo de Miguel Ríos, que ha contado además con Manolo García como artista invitado</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Сирія залишать собі ядерний матеріал з таємного об'єкта Асада",
+    "link": "https://ua.korrespondent.net/world/4904111-syriia-zalyshat-sobi-yadernyi-material-z-taiemnoho-obiekta-asada",
+    "pubDate": "2026-08-18 22:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532424.jpg\">Дамаск має право використовувати ці матеріали в цивільних та мирних цілях, наголосили в сирійському МЗС.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Напад РФ на НАТО. Захід і війна на два фронти",
+    "link": "https://ua.korrespondent.net/world/4904119-napad-rf-na-nato-zakhid-i-viina-na-dva-fronty",
+    "pubDate": "2026-08-18 22:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532472.jpg\">З погляду Москви та Пекіна, вікно можливостей для удару по Заходу, ймовірно, ще ніколи не виглядало настільки відкритим.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Гравець Баварії продовжує непритомніти на полі",
+    "link": "https://ua.korrespondent.net/sport/football/4904108-hravets-bavarii-prodovzhuie-neprytomnity-na-poli",
+    "pubDate": "2026-08-18 22:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532391.jpg\">Джамал Мусіала не вперше непритомніє під час гри команди, що викликає серйозні побоювання щодо його здоров’я.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В РФ через вибух на ТЕЦ зникли світло та інтернет",
+    "link": "https://ua.korrespondent.net/world/russia/4904107-v-rf-cherez-vybukh-na-tets-znykly-svitlo-ta-internet",
+    "pubDate": "2026-08-18 22:30:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532409.jpg\">Скарги на проблеми з інтернетом найчастіше надходять від жителів Москви та Петербурга; столиця Росії частково знаструмлена.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Cuatro atracadores roban a punta de pistola en Mazarrón miles de euros de un vehículo que transportaba la recaudación de salones de juegos",
     "link": "https://www.elperiodico.com/es/sucesos/20260818/cuatro-atracadores-roban-punta-pistola-133469803",
     "pubDate": "2026-08-18 22:19:58",
@@ -7,6 +106,15 @@
     "description": "<h2>Los investigadores creen que fue un golpe profesional y que los ladrones estaban esperando en la rotonda al vehículo de una empresa que gestiona casinos, bingos y salas de apuestas </h2>",
     "topic": "пограбування, афера",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Новий контингент з КНДР. Загрози для України",
+    "link": "https://ua.korrespondent.net/ukraine/4904116-novyi-kontynhent-z-kndr-zahrozy-dlia-ukrainy",
+    "pubDate": "2026-08-18 22:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532456.jpg\">ГУР попереджає про підготовку до перекидання нового великого контингенту з КНДР, на території РФ може бути розгорнуто від 30 до 50 тис. північнокорейських солдатів.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Ф’юрі заінтригував новиною про бій",
