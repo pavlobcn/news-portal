@@ -1,5 +1,95 @@
 [
   {
+    "title": "У Росії понад 70% АЗС залишилися без бензину",
+    "link": "https://ua.korrespondent.net/world/russia/4904008-u-rosii-ponad-70-azs-zalyshylysia-bez-benzynu",
+    "pubDate": "2026-08-18 16:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532105.jpg\">Незабаром криза може загостритися, оскільки один із двох НПЗ у Білорусі, з якого йдуть постачання до Росії, піде на ремонт.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Дістане до Москви. Україна показала нову ракету",
+    "link": "https://ua.korrespondent.net/ukraine/4904002-distane-do-moskvy-ukraina-pokazala-novu-raketu",
+    "pubDate": "2026-08-18 16:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532127.jpg\">Українська компанія Fire Point презентувала на виставці в Данії нову балістичну ракету FP-9.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Розслідується перевищення повноважень під час мобілізації у Кропивницькому",
+    "link": "https://ua.korrespondent.net/ukraine/4904005-rozsliduietsia-perevyschennia-povnovazhen-pid-chas-mobilizatsii-u-kropyvnytskomu",
+    "pubDate": "2026-08-18 16:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532126.png\">За перевищення влади або службових повноважень працівником правоохоронного органу передбачається до восьми років позбавлення волі.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Esto es lo que debes hacer en el testamento cuando un hijo deja de hablarte",
+    "link": "https://www.elperiodico.com/es/videos/economia/debes-testamento-hijo-deja-hablarte/133460935.shtml",
+    "pubDate": "2026-08-18 16:21:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Іспанії за день сталися чотири землетруси",
+    "link": "https://ua.korrespondent.net/world/4904001-v-ispanii-za-den-stalysia-chotyry-zemletrusy",
+    "pubDate": "2026-08-18 16:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532110.jpg\">Рятувальники зафіксували десятки звернень. На вулицях є завали, повалені дерева та пошкоджені авто.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російського посла викликали до МЗС Азербайджану через погрози",
+    "link": "https://ua.korrespondent.net/world/4904000-rosiiskoho-posla-vyklykaly-do-mzs-azerbaidzhanu-cherez-pohrozy",
+    "pubDate": "2026-08-18 16:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532109.jpg\">Азербайджан викликав посла Росії Михаїла Євдокимова через різкі заяви, погрози та заклики до насильства, які останнім часом лунали в російському медійному просторі.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las redes sociales no salen gratis: más ansiedad y menos bienestar entre los adolescentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260818/juicio-meta-facebook-instagram-estados-unidos-redes-sociales-impacto-salud-mental-adolescentes-133450534",
+    "pubDate": "2026-08-18 16:02:07",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260818/meta-juicio-decisivo-supuesto-caracter-133459373\" target=\"_blank\">Meta se enfrenta a juicio en EEUU por los daños de las redes sociales a los jóvenes</a>, una tendencia constatada en decenas de investigacions académicas  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260702/gobierno-prohibicion-total-menores-redes-132041546\">El Gobierno vetará redes sociales con \"contenido dañino\" a menores de 16 años aunque tengan permiso de sus padres</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Flick designa a Raphinha como primer capitán del Barça para que hable en el Gamper",
+    "link": "https://www.elperiodico.com/es/deportes/20260818/flick-designa-raphinha-primer-capitan-133459271",
+    "pubDate": "2026-08-18 16:02:00",
+    "category": "",
+    "description": "<h2>De Jong era el designado por la jerarquía interna del equipo después de la marcha de Ter Stegen y Araujo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Eva Bach, maestra, pedagoga y escritora: “Las horas de conversación en una familia han bajado a cuatro horas a la semana”",
+    "link": "https://www.elperiodico.com/es/educacion/20260818/samanta-villar-eva-bach-educadora-horas-conversacion-familia-130356412",
+    "pubDate": "2026-08-18 16:00:00",
+    "category": "",
+    "description": "<h2>En el podcast ‘Sobrevivir a la crianza’ hablamos con Ana Forés, Jaume Funes y Eva Bach sobre sobreprotección, límites, frustración y miedo a traumatizar a nuestros hijos</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260517/jordi-grane-educacion-parque-tematico-crisis-130144832\">Jordi Grané, filósofo: “Hemos convertido la educación en un parque de atracciones”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Японії винищувач зазнав аварії, заблокувавши смугу аеропорту",
+    "link": "https://ua.korrespondent.net/world/4903996-u-yaponii-vynyschuvach-zaznav-avarii-zablokuvavshy-smuhu-aeroportu",
+    "pubDate": "2026-08-18 15:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532094.png\">Винищувач повернувся з термінового вильоту, після чого втратив ходову здатність. Внаслідок інциденту ніхто не постраждав.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los 8 fallos al volante que más estresan a los conductores españoles",
     "link": "https://www.elperiodico.com/es/motor/20260818/8-fallos-volante-estresan-conductores-133451076",
     "pubDate": "2026-08-18 15:51:48",
@@ -122,6 +212,15 @@
     "pubDate": "2026-08-18 15:33:00",
     "category": "",
     "description": "<h2>La compañía pública inicia la homologación en el país vecino de sus trenes 106 y 107 mientras Transportes mantiene 2030 como horizonte para tener listas las conexiones transfronterizas españolas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Meta, ante su juicio más decisivo por el carácter adictivo de Instagram y Facebook y su impacto en la salud mental de los menores",
+    "link": "https://www.elperiodico.com/es/internacional/20260818/meta-juicio-decisivo-supuesto-caracter-133459373",
+    "pubDate": "2026-08-18 15:26:41",
+    "category": "",
+    "description": "<h2>Una treintena de estados de EEUU exigen sanciones multimillonarias para la empresa de Mark Zuckerberg, a la que acusan de vulnerar varias leyes estatales y federales</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
