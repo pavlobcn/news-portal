@@ -1,8 +1,9 @@
-# News for 2026-08-18 07:24
+# News for 2026-08-18 07:56
 
 Previous day: [2026-08-17](./data/2026-08-17.md)
 
 ## ua.korrespondent.net
+07:37 [Свята 18 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4903681-sviata-18-serpnia-2026-roku-istoriia-tradytsii)<br>
 06:45 [З’явилися перші деталі нічної атаки на Підмосков’я](https://ua.korrespondent.net/world/russia/4903788-ziavylysia-pershi-detali-nichnoi-ataky-na-pidmoskovia)<br>
 06:28 [Росіяни знову вдарили по Ізюму: серед постраждалих є дитина](https://ua.korrespondent.net/ukraine/4903785-rosiiany-znovu-vdaryly-po-izuimu-sered-postrazhdalykh-ye-dytyna)<br>
 03:39 [У Підмосков'ї вигорів ущент склад Wildberries](https://ua.korrespondent.net/world/4903772-u-pidmoskovi-vyhoriv-uschent-sklad-Wildberries)<br>
@@ -14,6 +15,14 @@ Previous day: [2026-08-17](./data/2026-08-17.md)
 01:14 [Німеччина спростила обмін водійських прав для українців](https://ua.korrespondent.net/world/4903758-nimechchyna-sprostyla-obmin-vodiiskykh-prav-dlia-ukraintsiv)<br>
 
 ## www.elperiodico.com
+07:55 [Informe: 2025 registró máximos históricos en emisiones atmosféricas, subida del mar y calor oceánico](https://www.elperiodico.com/es/medio-ambiente/20260818/informe-2025-registro-maximos-historicos-133445417)<br>
+07:55 [Antonio se jubiló y dejó la ciudad para vivir en el Amazonas: "Tengo aire y agua muy puros y una tranquilidad total. Por este estilo de vida empiezas a ser menos consumista. Esto te hace descansar"](https://www.elperiodico.com/es/economia/20260818/selva-amazonica-jubilado-dejo-ciudad-tranquilidad-antonio-dv-et-133270479)<br>
+07:54 [Detectados una decena de casos de sarna entre los militares desplazados a Ceuta](https://www.elperiodico.com/es/sociedad/20260818/detectados-decena-casos-sarna-militares-desplazados-ceuta-133445265)<br>
+07:52 [Los bomberos de Francia cruzan los Pirineos para defender Aragón del fuego: "Venimos a ayudar a nuestros vecinos"](https://www.elperiodico.com/es/sociedad/20260818/bomberos-francia-cruzan-pirineos-defender-aragon-fuego-133445370)<br>
+07:51 [Vídeo | Bomberos franceses trabajan en las labores de extinción del incendio de Las Peñas de Riglos (Huesca)](https://www.elperiodico.com/es/videos/sociedad/video-bomberos-franceses-labores-extincion/133445321.shtml)<br>
+07:50 [Los podólogos coinciden: "Las chanclas no son para caminar durante horas"](https://www.elperiodico.com/es/salud/20260818/podologos-coinciden-chanclas-caminar-calzado-malo-durante-horas-dv-et-133299566)<br>
+07:45 [Aníbal quiere alquilar su vivienda en una aldea de 15 habitantes: "No es que alguien diga que quiere esta casa y se la doy sin más; primero vemos cuál es la intención de la persona"](https://www.elperiodico.com/es/economia/20260818/quiere-alquilar-vivienda-aldea-15-habitantes-asturias-anibal-dv-et-133362665)<br>
+07:40 [Las ingenieras se afianzan en la industria pero aún con un 'techo de cristal' que romper](https://www.elperiodico.com/es/economia/20260818/ingenieras-afianzan-industria-techo-cristal-133445151)<br>
 07:22 [Catalunya amanece con más calor: hasta 28 grados a las seis de la mañana en Barcelona](https://www.elperiodico.com/es/tiempo/20260818/catalunya-amanece-calor-28-grados-manana-barcelona-133444619)<br>
 07:12 [La guerra entre los Moriña y los Salazar deja tres muertos y desata la alarma por las armas de asalto en Huelva](https://www.elperiodico.com/es/sucesos/20260818/guerra-morina-salazar-deja-tres-muertos-alarma-armas-asalto-huelva-133444672)<br>
 07:02 [Pospuesto el juicio en Nueva York contra Luigi Mangione tras su recurso por doble enjuiciamiento](https://www.elperiodico.com/es/internacional/20260818/pospuesto-juicio-nueva-york-luigi-133444338)<br>
