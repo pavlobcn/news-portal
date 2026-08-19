@@ -1,5 +1,23 @@
 [
   {
+    "title": "В Туреччині безпілотник упав на поліцейський відділок",
+    "link": "https://ua.korrespondent.net/world/4904144-v-turechchyni-bezpilotnyk-upav-na-politseiskyi-viddilok",
+    "pubDate": "2026-08-19 05:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532718.jpg\">Місцеві правоохоронці оперативно відреагували на ситуацію та посилили контроль на об'єкті.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сеул скорочує спільні зі США військові навчання",
+    "link": "https://ua.korrespondent.net/world/4904142-seul-skorochuie-spilni-zi-ssha-viiskovi-navchannia",
+    "pubDate": "2026-08-19 04:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532702.jpg\">Представники двох країн домовилися скоротити на тиждень навчання Ulchi Freedom Shield, що мали тривати до 27 серпня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "В РФ учаснику війни проти України ухвалили вирок за держзраду",
     "link": "https://ua.korrespondent.net/world/russia/4904139-v-rf-uchasnyku-viiny-proty-ukrainy-ukhvalyly-vyrok-za-derzhzradu",
     "pubDate": "2026-08-19 04:22:00",
@@ -25,6 +43,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532623.jpg\">Кількість дронів перевищила 20 одиниць менш як за годину, стверджує московський міський голова Сергій Собянін.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "У Москві жаліються на атаку безпілотників",
+    "link": "https://ua.korrespondent.net/world/russia/4904133-u-moskvi-zhaliuitsia-na-ataku-bezpilotnykiv",
+    "pubDate": "2026-08-19 02:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532623.jpg\">Кількість дронів перевищила 20 одиниць менш як за годину, стверджує московський міський голова Сергій Собянін.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Суд в Канаді відмовив РФ у поверненні арештованого літака",

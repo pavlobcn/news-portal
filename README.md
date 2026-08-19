@@ -1,8 +1,11 @@
-# News for 2026-08-19 04:34
+# News for 2026-08-19 05:28
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+05:15 [В Туреччині безпілотник упав на поліцейський відділок](https://ua.korrespondent.net/world/4904144-v-turechchyni-bezpilotnyk-upav-na-politseiskyi-viddilok)<br>
+04:50 [Сеул скорочує спільні зі США військові навчання](https://ua.korrespondent.net/world/4904142-seul-skorochuie-spilni-zi-ssha-viiskovi-navchannia)<br>
+02:58 [У Москві жаліються на атаку безпілотників](https://ua.korrespondent.net/world/russia/4904133-u-moskvi-zhaliuitsia-na-ataku-bezpilotnykiv)<br>
 00:59 [В Норвегії покарали інститут за відмову найняти росіянина](https://ua.korrespondent.net/world/4904125-v-norvehii-pokaraly-instytut-za-vidmovu-nainiaty-rosiianyna)<br>
 
 ## www.elperiodico.com
