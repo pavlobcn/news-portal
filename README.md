@@ -1,9 +1,13 @@
-# News for 2026-08-20 00:00
+# News for 2026-08-20 00:35
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+23:54 [Експерти попередили НАТО про нову російську загрозу](https://ua.korrespondent.net/world/4904489-eksperty-poperedyly-nato-pro-novu-rosiisku-zahrozu)<br>
+23:34 [Атака на Київ: інформують про заблокованих людей в укритті](https://ua.korrespondent.net/city/kiev/4904487-ataka-na-kyiv-informuuit-pro-zablokovanykh-luidei-v-ukrytti)<br>
+23:11 [Київ під атакою балістики](https://ua.korrespondent.net/city/kiev/4904483-kyiv-pid-atakoui-balistyky)<br>
 22:19 [На Місяці з'явився кратер після падіння Falcon 9](https://ua.korrespondent.net/tech/space/4904475-na-misiatsi-ziavyvsia-krater-pislia-padinnia-Falcon-9)<br>
+22:08 [Удар по космосу. ЗСУ розбили завод в Самарі](https://ua.korrespondent.net/ukraine/4904485-udar-po-kosmosu-zsu-rozbyly-zavod-v-samari)<br>
 20:38 [Samsung Galaxy Tab S12 Ultra показали на першому фото](https://ua.korrespondent.net/lifestyle/gadgets/4904456-Samsung-Galaxy-Tab-S12-Ultra-pokazaly-na-pershomu-foto)<br>
 19:36 [100 запусків SpaceX за рік: Falcon 9 відправила в космос 24 Starlink](https://ua.korrespondent.net/tech/space/4904434-100-zapuskiv-SpaceX-za-rik-Falcon-9-vidpravyla-v-kosmos-24-Starlink)<br>
 19:36 [Вчені виявили раніше невідомий орган в черепі](https://ua.korrespondent.net/tech/science/4904436-vcheni-vyiavyly-ranishe-nevidomyi-orhan-v-cherepi)<br>

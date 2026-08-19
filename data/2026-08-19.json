@@ -1,5 +1,23 @@
 [
   {
+    "title": "Експерти попередили НАТО про нову російську загрозу",
+    "link": "https://ua.korrespondent.net/world/4904489-eksperty-poperedyly-nato-pro-novu-rosiisku-zahrozu",
+    "pubDate": "2026-08-19 23:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533846.jpg\">Головною проблемою для Альянсу може стати висока вартість перехоплення дронів порівняно з ціною самих апаратів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака на Київ: інформують про заблокованих людей в укритті",
+    "link": "https://ua.korrespondent.net/city/kiev/4904487-ataka-na-kyiv-informuuit-pro-zablokovanykh-luidei-v-ukrytti",
+    "pubDate": "2026-08-19 23:34:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533844.jpg\">У Солом’янському районі столиці пошкоджені приміщення дитячої лікарні та житловий будинок.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La portada de EL PERIÓDICO del 20 de agosto de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20260819/portada-periodico-20-agosto-2026-133499174",
     "pubDate": "2026-08-19 23:30:20",
@@ -7,6 +25,15 @@
     "description": "",
     "topic": "portada de EL PERIÓDICO",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Київ під атакою балістики",
+    "link": "https://ua.korrespondent.net/city/kiev/4904483-kyiv-pid-atakoui-balistyky",
+    "pubDate": "2026-08-19 23:11:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533824.png\">Всього за 15 хвилин по столиці вдарили до 20 ракет. Як зазначають моніторингові канали, одночасно бʼють три види балістики.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Kang In y Baena hacen olvidar al ausente Julián Álvarez",
@@ -34,6 +61,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533804.jpg\">Уряд Іспанії намагається знайти компроміс між національним законодавством, позицією Євросоюзу та опором окремих регіонів.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Арсенал вирішив посилити лінію захисту гравцем Астон Вілли",
+    "link": "https://ua.korrespondent.net/sport/football/4904477-arsenal-vyrishyv-posylyty-liniui-zakhystu-hravtsem-aston-villy",
+    "pubDate": "2026-08-19 22:41:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533764.jpg\">У рамках англійської Прем'єр-ліги було здійснено трансфер, вартість якого склала 50 млн фунтів стерлінгів.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "У КНДР заперечили відправлення військ до Росії",
@@ -79,6 +115,15 @@
     "description": "",
     "topic": "виконавці поп музики",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Удар по космосу. ЗСУ розбили завод в Самарі",
+    "link": "https://ua.korrespondent.net/ukraine/4904485-udar-po-kosmosu-zsu-rozbyly-zavod-v-samari",
+    "pubDate": "2026-08-19 22:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533845.jpeg\">ЗСУ в середині серпня атакували самарське підприємство РКЦ Прогрес, яке виготовляє ракети Союз.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El Barça gana un tórrido Gamper que acaba a guantazos en la grada",
