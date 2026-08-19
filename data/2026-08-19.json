@@ -1,5 +1,158 @@
 [
   {
+    "title": "Siete detenidos falsificar empadronamientos en Tortosa por 800 euros",
+    "link": "https://www.elperiodico.com/es/sucesos/20260819/siete-detenidos-falsificar-empadronamientos-tortosa-mossos-133475253",
+    "pubDate": "2026-08-19 09:37:07",
+    "category": "",
+    "description": "<h2>El ayuntamiento de la localidad denunció posibles irregularidades en diferentes altas del padrón municipal</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260818/barcelona-expulsa-padron-4-230-personas-ano-y-medio-detectar-fraudes-falsedad-documental-133271332\">Barcelona 'expulsa' de su padrón a 4.230 personas en un año y medio al detectar presuntos fraudes por falsedad documental</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Aemet emite avisos por calor en el noreste de España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/aemet-emite-avisos-calor-noreste-133475292",
+    "pubDate": "2026-08-19 09:37:04",
+    "category": "",
+    "description": "<h2>Bajo aviso naranja por peligro importante ante las estimaciones de calor intenso se encuentran Aragón, Andalucía, Castilla-La Mancha, la Región de Murcia y Cataluña</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Incendios hoy, 19 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/incendios-hoy-19-agosto-cataluna-espana-mapa-fuegos-activos-dv-133475110",
+    "pubDate": "2026-08-19 09:34:42",
+    "category": "",
+    "description": "<h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260712/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839\" >Incendios forestales en Catalunya y resto de España, última hora en directo: cifra de muertos, heridos y desaparecidos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estado de los embalses hoy, 19 de agosto en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/embalses-hoy-19-agosto-catalunya-dv-133475109",
+    "pubDate": "2026-08-19 09:34:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні запрацюють 50 нових камер автофіксації: повний список місць",
+    "link": "https://ua.korrespondent.net/ukraine/4904193-v-ukraini-zapratsuiuit-50-novykh-kamer-avtofiksatsii-povnyi-spysok-mists",
+    "pubDate": "2026-08-19 09:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532940.jpeg\">В Україні розширюють мережу автоматичної фіксації порушень правил дорожнього руху. З 20 серпня на дорогах запрацюють 50 нових комплексів.",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Pablo Urdangarín, pasión con Johanna Zott en su vuelta al trabajo sin el apoyo de nadie de su familia",
+    "link": "https://www.elperiodico.com/es/gente/20260819/pablo-urdangarin-pasion-johanna-zott-vuelta-trabajo-133475331",
+    "pubDate": "2026-08-19 09:31:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Летить швидко. Нова загроза для західних областей",
+    "link": "https://ua.korrespondent.net/ukraine/4904179-letyt-shvydko-nova-zahroza-dlia-zakhidnykh-oblastei",
+    "pubDate": "2026-08-19 09:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532941.jpg\">Напередодні російський реактивний дрон вперше долетів до Рівненщини, подолавши 900 км території України.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Дрон РФ атакував маршрутку в Херсоні, є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4904190-dron-rf-atakuvav-marshrutku-v-khersoni-ye-zahybli",
+    "pubDate": "2026-08-19 09:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532922.jpg\">До лікарів звернулись водій маршрутки і четверо жінок, які перебували у транспортному засобі в момент атаки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sentencia de Daniel Sancho, en directo | Última hora de la condena y el veredicto del Tribunal de Tailandia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/daniel-sancho-sentencia-ultima-hora-directo-133425232",
+    "pubDate": "2026-08-19 09:18:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ibex 35 abre con indiferencia ante el atasco en las negociaciones entre EEUU e Irán",
+    "link": "https://www.elperiodico.com/es/economia/20260819/ibex-35-abre-indiferencia-atasco-133475111",
+    "pubDate": "2026-08-19 09:17:19",
+    "category": "",
+    "description": "<h2>El petróleo se sitúa ya en los 91,7 dólares por barril, ante el recrudecimiento de las tensiones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Una mujer herida grave en Madrid tras ser apuñalada en un posible caso de violencia machista",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mujer-herida-grave-madrid-apunalada/133475072.shtml",
+    "pubDate": "2026-08-19 09:15:31",
+    "category": "",
+    "description": "La mujer de de 35 años ha recibido cuatro heridas \"importantes\" de arma blanca y ha sido trasladada al Hospital 12 de Octubre",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Вінниччині чоловік намагався зґвалтувати 7-річну дівчинку",
+    "link": "https://ua.korrespondent.net/ukraine/4904188-na-vinnychchyni-cholovik-namahavsia-zgvaltuvaty-7-richnu-divchynku",
+    "pubDate": "2026-08-19 09:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532918.jpg\">Крики дитини почула мешканка сусіднього будинку, яка вибігла на допомогу та змусила нападника втекти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Греція назвала умову для передачі Україні ракет С-300",
+    "link": "https://ua.korrespondent.net/world/4904186-hretsiia-nazvala-umovu-dlia-peredachi-ukraini-raket-s-300",
+    "pubDate": "2026-08-19 09:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532917.jpg\">Афіни можуть передати Україні ракети для С-300, але лише після отримання повноцінної заміни, оскільки побоюються послабити власну ППО через напружені відносини з Туреччиною.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Comunitat Valenciana se adentra en 24 horas de calor extremo: 44 grados de día y 30 ºC de noche",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/comunitat-valenciana-adentra-24-horas-133474812",
+    "pubDate": "2026-08-19 09:03:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El organismo avisa de una situación meteorológica \"muy adversa\" desde este miércoles en algunos puntos del territorio valenciano</h2><h2 class=\"item\">A partir del jueves entra un cambio de tiempo que ayudará a suavizar las temperaturas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una dama, un sacerdote y un crimen medieval: así resolvió Cambridge un asesinato 700 años después",
+    "link": "https://www.elperiodico.com/es/ciencia/20260819/manuscrito-medieval-resuelve-crimen-sacerdote-aristocrata-londres-118328264",
+    "pubDate": "2026-08-19 09:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un criminólogo de la universidad logra resolver el cruento asesinato en el que se entremezcla una historia de amor, traición y venganza</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20250611/nueva-tecnica-logra-devolver-vida-118502011\" >Una nueva técnica logra devolver la vida a obras de arte dañadas en tan solo 3,5 horas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pueblo costero a 40 minutos de Figueres que enamora por sus calles estrechas y playas paradisiacas",
+    "link": "https://www.elperiodico.com/es/catalunya/20260819/cadaques-pueblo-cuento-cerca-figueres-dv-loc-109953454",
+    "pubDate": "2026-08-19 09:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Situada en plena península del Cap de Creus, es una de las localidades más emblemáticas de la Costa Brava </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20241003/figueres-que-visitar-casco-antiguo-aparece-gran-produccion-cine-dv-loc-108847393\" >El rincón de Figueres que ya forma parte de la historia del cine</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20241014/figueres-mejor-restaurante-comer-salvador-dali-dv-109286182\" >Estos son los 5 mejores restaurantes de Figueres según Tripadvisor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así es la vida del actor Quim Gutiérrez (45 años) y su mujer viviendo en el campo: \"De alguna forma, ambos escuchábamos la llamada de los pájaros\"",
+    "link": "https://www.elperiodico.com/es/gente/20260819/actor-quim-gutierrez-vida-monte-lejos-fama-ciudad-dv-et-133121255",
+    "pubDate": "2026-08-19 09:00:00",
+    "category": "",
+    "description": "<h2>El actor catalán se fue a vivir al monte para alejarse de la fama: \"Preferiría ser anónimo\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260809/miguel-angel-silvestre-casa-bosque-castellon-dv-et-128826227\">Miguel Ángel Silvestre (44 años) cambia el ruido de la ciudad por el autoabastecimiento en una finca con servicios mínimos: \"Vivo en mitad del bosque\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/20260808/donde-esta-inigo-segurola-jardinero-television-bricomania-proyecto-dv-131157702\">Qué fue de Íñigo Segurola, el jardinero de Bricomanía: así es su proyecto 'Lur Garden'</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "ISW заявив про контратаки ЗСУ і провал наступу РФ",
     "link": "https://ua.korrespondent.net/ukraine/4904177-ISW-zaiavyv-pro-kontrataky-zsu-i-proval-nastupu-rf",
     "pubDate": "2026-08-19 08:49:00",
