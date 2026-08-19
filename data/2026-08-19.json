@@ -1,5 +1,77 @@
 [
   {
+    "title": "Incendio en Las Hurdes este miércoles",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-hurdes-miercoles/133496928.shtml",
+    "pubDate": "2026-08-19 21:04:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 20 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260819/horoscopo-hoy-jueves-20-agosto-dv-133334264",
+    "pubDate": "2026-08-19 21:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lío en el Olympiacos con Walkup",
+    "link": "https://as.com/baloncesto/euroliga/lio-en-el-olympiacos-con-walkup-f202608-n/",
+    "pubDate": "2026-08-19 20:55:33",
+    "category": "Baloncesto",
+    "description": "El base ha comunicado que rompe su contrato de forma unilateral, pero en el campeón de la Euroliga le esperan este jueves en el inicio de la pretemporada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El litoral catalán será una de las zonas de España donde más aumentarán los días de ola de calor",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/litoral-catalan-sera-zonas-espana/133496758.shtml",
+    "pubDate": "2026-08-19 20:53:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Varios miembros de la Fed consideran \"necesario\" un incremento de los tipos si la inflación no se modera",
+    "link": "https://www.elperiodico.com/es/economia/20260819/miembros-fed-consideran-necesario-incremento-133496654",
+    "pubDate": "2026-08-19 20:47:44",
+    "category": "",
+    "description": "<h2>Kevin Warsh mostró su preferencia por reducir a seis el número de reuniones anuales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Resolución agridulce: DAZN se hace con los derechos de Liga F a la baja",
+    "link": "https://www.elperiodico.com/es/deportes/20260819/resolucion-agridulce-dazn-derechos-liga-133449482",
+    "pubDate": "2026-08-19 20:46:27",
+    "category": "",
+    "description": "<h2 class=\"item\">En RTVE y TV3 se podrá ver parte de la jornada en abierto, con hasta 4 partidos cada fin de semana</h2><h2 class=\"item\">Los clubes han puesto por delante \"la visibilidad\" y así conseguir un acuerdo in extremis antes de que empiece la competición en una semana.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ ввечері вдарила по Слов'янську, є загиблий",
+    "link": "https://ua.korrespondent.net/ukraine/4904459-rf-vvecheri-vdaryla-po-sloviansku-ye-zahyblyi",
+    "pubDate": "2026-08-19 20:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533662.jpg\">Пошкоджено щонайменше 86 домогосподарств. Загинув чоловік 1970 року народження. Ще один чоловік та дві жінки зазнали поранень.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Muere el hombre de 37 años apuñalado por su compañero de piso en Estepona (Málaga)",
+    "link": "https://www.elperiodico.com/es/sucesos/20260819/muere-hombre-37-anos-apunalado-133496585",
+    "pubDate": "2026-08-19 20:40:37",
+    "category": "",
+    "description": "<h2>La víctima permanecía ingresada de gravedad tras sufrir heridas de arma blanca en el tórax; el presunto agresor, de 52 años, fue detenido</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У РФ заявили про десятки тисяч росіян на кордоні з Грузією",
     "link": "https://ua.korrespondent.net/world/russia/4904449-u-rf-zaiavyly-pro-desiatky-tysiach-rosiian-na-kordoni-z-hruziieui",
     "pubDate": "2026-08-19 20:20:00",
@@ -3022,6 +3094,15 @@
     "description": "",
     "topic": "телебачення",
     "topic_match_probability": 98
+  },
+  {
+    "title": "\"El miedo que recorre Europa\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/miedo-recorre-europa-carta-del-lector-victoriano-sanchez-133445797",
+    "pubDate": "2026-08-19 06:31:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Генштаб оприлюднив нові дані про втрати армії РФ",
