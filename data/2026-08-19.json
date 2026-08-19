@@ -1,5 +1,32 @@
 [
   {
+    "title": "Trump anuncia un aplazamiento de tres días de los aranceles de EEUU contra Canadá",
+    "link": "https://www.elperiodico.com/es/internacional/20260819/trump-anuncia-aplazamiento-tres-dias-aranceles-eeuu-contra-canada-133472779",
+    "pubDate": "2026-08-19 06:53:06",
+    "category": "",
+    "description": "<h2>Mark Carney confirma la prórroga, pero reconoce que \"queda mucho trabajo por hacer\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 92
+  },
+  {
+    "title": "La australiana que mató a tres familiares con setas venenosas apela la cadena perpetua",
+    "link": "https://www.elperiodico.com/es/sucesos/20260819/australiana-mato-tres-familiares-setas-venenosas-133472599",
+    "pubDate": "2026-08-19 06:47:57",
+    "category": "",
+    "description": "<h2>Patterson fue declarada culpable en julio de 2025 de matar a sus exsuegros y a una tía de su marido</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere a los 91 años Glória Menezes, la gran dama de la televisión brasileña",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260819/muere-91-anos-gloria-menezes-133472430",
+    "pubDate": "2026-08-19 06:36:47",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 98
+  },
+  {
     "title": "Adiós a Víctor Coyote, mucho más que una figura de la Movida",
     "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/adios-victor-coyote-figura-movida/133472104.shtml",
     "pubDate": "2026-08-19 06:10:01",
@@ -169,6 +196,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532734.jpg\">Громадяни Росії, які прямують транзитом через Литву, матимуть значно менше часу для перебування на території країни.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Adiós a la tensión de si cabe todo en la maleta: cuando el límite del equipaje es el tamaño de tu coche",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/adios-tension-maleta-limite-equipaje-bc-133447348",
+    "pubDate": "2026-08-19 05:30:00",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 88
   },
   {
     "title": "В Туреччині безпілотник упав на поліцейський відділок",
