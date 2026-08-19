@@ -1,9 +1,13 @@
-# News for 2026-08-19 09:39
+# News for 2026-08-19 10:18
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+10:05 [Екс-дружина Кличка присвятила пост пам'яті Гайден Панеттьєрі](https://ua.korrespondent.net/lifestyle/4904207-eks-druzhyna-klychka-prysviatyla-post-pamiati-haiden-panettieri)<br>
+09:55 [Сальма Хаєк розчулила шанувальників відео з онуком](https://ua.korrespondent.net/lifestyle/4904182-salma-khaiek-rozchulyla-shanuvalnykiv-video-z-onukom)<br>
+09:40 [Знеструмлення у восьми областях - Укренерго](https://ua.korrespondent.net/ukraine/4904198-znestrumlennia-u-vosmy-oblastiakh-ukrenerho)<br>
 09:14 [На Вінниччині чоловік намагався зґвалтувати 7-річну дівчинку](https://ua.korrespondent.net/ukraine/4904188-na-vinnychchyni-cholovik-namahavsia-zgvaltuvaty-7-richnu-divchynku)<br>
+09:09 [Українська молодь під час війни: Шон Пенн спродюсував документалку](https://ua.korrespondent.net/showbiz/cinema/4904172-ukrainska-molod-pid-chas-viiny-shon-penn-sproduisuvav-dokumentalku)<br>
 05:15 [В Туреччині безпілотник упав на поліцейський відділок](https://ua.korrespondent.net/world/4904144-v-turechchyni-bezpilotnyk-upav-na-politseiskyi-viddilok)<br>
 05:15 [В Туреччині на поліцейський відділок упав дрон](https://ua.korrespondent.net/world/4904144-v-turechchyni-na-politseiskyi-viddilok-upav-dron)<br>
 05:15 [В Туреччині дрон упав на поліцейський відділок](https://ua.korrespondent.net/world/4904144-v-turechchyni-dron-upav-na-politseiskyi-viddilok)<br>
@@ -16,6 +20,10 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:00 [Ignacio de la Calzada, abogado laboralista: "En España no se puede despedir a nadie por ser vago"](https://www.elperiodico.com/es/economia/20260819/ignacio-calzada-abogado-laboralista-espana-despedir-vago-dv-et-133462547)<br>
+10:00 [Pablo, camarero español que vive en una autocaravana en Suiza: "Lo primero que hago al levantarme es saludar a mi Bellota"](https://www.elperiodico.com/es/vida-y-estilo/20260819/pablo-ortiz-camarero-espanol-vive-autocaravana-suiza-dv-et-133356834)<br>
+09:56 [La Guardia Civil encuentra "las armas" utilizadas en el tiroteo de Huelva en un ajuste de cuentas entre clanes](https://www.elperiodico.com/es/sucesos/20260819/guardia-civil-encuentra-armas-utilizadas-tiroteo-huelva-ajuste-cuentas-clanes-133475976)<br>
+09:45 [Paula, colombiana (24 años): "Era auxiliar contable y ahora limpio pisos para poder sobrevivir"](https://www.elperiodico.com/es/economia/20260819/paula-colombiana-24-anos-auxiliar-contable-limpiadora-pisos-sobrevivir-dv-et-133462848)<br>
 09:37 [La Aemet emite avisos por calor en el noreste de España](https://www.elperiodico.com/es/sociedad/20260819/aemet-emite-avisos-calor-noreste-133475292)<br>
 09:34 [Incendios hoy, 19 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260819/incendios-hoy-19-agosto-cataluna-espana-mapa-fuegos-activos-dv-133475110)<br>
 09:31 [Pablo Urdangarín, pasión con Johanna Zott en su vuelta al trabajo sin el apoyo de nadie de su familia](https://www.elperiodico.com/es/gente/20260819/pablo-urdangarin-pasion-johanna-zott-vuelta-trabajo-133475331)<br>
