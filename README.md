@@ -1,4 +1,4 @@
-# News for 2026-08-19 20:02
+# News for 2026-08-19 20:36
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
@@ -50,6 +50,7 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:08 [Nuevo terremoto en Granada: un seísmo de magnitud 3 sacude el municipio de Churriana de la Vega](https://www.elperiodico.com/es/sociedad/20260819/nuevo-terremoto-granada-seismo-magnitud-133495957)<br>
 19:42 [Gràcia premia a la plaza Rovira i Trias por su homenaje a Antònia Font como la calle mejor decorada de las fiestas de 2026](https://www.elperiodico.com/es/barcelona/20260819/barcelona-fiestas-gracia-premios-calles-mejor-decoradas-133482947)<br>
 19:42 [Amancio Ortega acelera la rotación de su imperio: de casi no vender nada a desprenderse de activos en París, Seúl, Nueva York, España y Portugal](https://www.elperiodico.com/es/economia/20260819/amancio-ortega-acelera-rotacion-imperio-133495517)<br>
 19:39 [El viento complica el incendio de Las Hurdes (Cáceres), que salta a la provincia de Salamanca](https://www.elperiodico.com/es/sociedad/20260819/viento-complica-incendio-hurdes-caceres-133495439)<br>
