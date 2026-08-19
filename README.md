@@ -1,4 +1,4 @@
-# News for 2026-08-19 15:15
+# News for 2026-08-19 16:04
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
@@ -38,6 +38,15 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:01 [El cumpleaños más oscuro de Mette-Marit: problemas de salud, un hijo en prisión preventiva y una polémica relación con Jeffrey Epstein](https://www.elperiodico.com/es/gente/20260819/cumpleanos-oscuro-mette-marit-problemas-133477308)<br>
+16:00 [Alza el vuelo el mayor avión de pasajeros 100% eléctrico](https://www.elperiodico.com/es/medio-ambiente/20260819/alza-vuelo-mayor-avion-pasajeros-133489054)<br>
+16:00 [El rincón cerca de Barcelona considerado uno de los parajes más bonitos del mundo: "Ha servido durante mucho tiempo de fuente de inspiración para artistas como Dalí, Miró y Duchamp"](https://www.elperiodico.com/es/catalunya/20260819/cadaques-pueblo-pescadores-dali-miro-arte-revista-viajes-dv-loc-133233624)<br>
+15:55 ["El más eficaz": el suplemento más recomendado por los usuarios que buscan perder peso y acabar con la grasa localizada rápido](https://www.elperiodico.com/es/shopping/20260819/suplemento-perder-peso-grasa-localizada-rapido-lipostil-116014981)<br>
+15:50 [Investigan el hallazgo de una bolsa con posibles restos humanos en Valencia](https://www.elperiodico.com/es/sucesos/20260819/investigan-hallazgo-bolsa-posibles-restos-133488840)<br>
+15:44 [El paseo de Gràcia de Barcelona cuelga el 'lleno' con alquileres comerciales que superan los 340 euros el m2](https://www.elperiodico.com/es/barcelona/20260819/paseo-gracia-barcelona-cuelga-lleno-precios-alquiler-locales-comerciales-record-133485093)<br>
+15:38 [Inmigrantes desembarcan en una playa de Cartagena llena de bañistas: "Es una patera, tío, recoged las cosas"](https://www.elperiodico.com/es/sociedad/20260819/inmigrantes-desembarcan-playa-cartagena-llena-133488646)<br>
+15:36 [El desembarco de decenas de inmigrantes causa estupor en una playa de Los Belones](https://www.elperiodico.com/es/videos/sociedad/desembarco-decenas-inmigrantes-causa-estupor/133488595.shtml)<br>
+15:35 [Huchas para la colecta de la Sagrada Família](https://www.elperiodico.com/es/opinion/20260819/huchas-colecta-sagrada-familia-133488329)<br>
 15:05 [Maurizio, jubilado italiano viviendo en Fuerteventura: “La vida no se orienta únicamente al beneficio. Hay mayor equilibrio entre vida privada y trabajo”](https://www.elperiodico.com/es/economia/20260819/maurizio-jubilado-italiano-viviendo-fuerteventura-estilo-vida-clima-coste-dv-133487168)<br>
 15:05 [Unitree irrumpe con fuerza en Bolsa y se dispara un 600% al calor del boom de los robots humanoides en China](https://www.elperiodico.com/es/economia/20260819/unitree-irrumpe-fuerza-bolsa-dispara-133487340)<br>
 14:46 [Los Mossos investigan si el incendio en un bar de Barcelona esta madrugada ha sido provocado](https://www.elperiodico.com/es/barcelona/20260819/incendio-bar-clot-barcelona-mossos-investigan-133486124)<br>
