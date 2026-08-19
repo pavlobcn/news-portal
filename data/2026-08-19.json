@@ -1,5 +1,95 @@
 [
   {
+    "title": "Rodri, el más aclamado en la presentación del Barça",
+    "link": "https://www.elperiodico.com/es/videos/deportes/rodri-aclamado-presentacion-barca/133498077.shtml",
+    "pubDate": "2026-08-19 22:25:29",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Місяці з'явився кратер після падіння Falcon 9",
+    "link": "https://ua.korrespondent.net/tech/space/4904475-na-misiatsi-ziavyvsia-krater-pislia-padinnia-Falcon-9",
+    "pubDate": "2026-08-19 22:19:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533760.jpg\">За попередніми оцінками, падіння ступеня Falcon утворило кратер близько 18 метрів завширшки та менш як три метри завглибшки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuestionar Schengen",
+    "link": "https://www.elperiodico.com/es/opinion/20260819/cuestionar-schengen-133497747",
+    "pubDate": "2026-08-19 22:15:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Así es el homenaje a Antònia Font, la calle ganadora de las fiestas de Gràcia, tras la muerte de Joan Roca",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/homenaje-antonia-font-calle-ganadora/133497905.shtml",
+    "pubDate": "2026-08-19 22:14:43",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Barça gana un tórrido Gamper que acaba a guantazos en la grada",
+    "link": "https://www.elperiodico.com/es/deportes/20260819/barcelona-ahly-gamper-goles-resumen-cronica-133495311",
+    "pubDate": "2026-08-19 22:07:11",
+    "category": "",
+    "description": "<h2>El equipo azulgrana concluye su pretemporada ganando al Al-Ahly (2-1) en un partido en el que se registraron incidentes con la afición rival. Marcaron el joven ariete egipcio Hamza Abdelkarim y Raphinha, ya con el brazalete</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Костюк виступить у чвертьфіналі турніру WTA 1000 у Цинциннаті",
+    "link": "https://ua.korrespondent.net/sport/tenis/4904473-kostuik-vystupyt-u-chvertfinali-turniru-WTA-1000-u-tsyntsynnati",
+    "pubDate": "2026-08-19 22:04:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533738.jpg\">Українська тенісистка змогла перевернути перебіг поєдинку на свою користь, упевнено вигравши два з трьох зіграних сетів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Govern tratará de desactivar la huelga de docentes de inicio de curso anunciando más aulas de acogida",
+    "link": "https://www.elperiodico.com/es/politica/20260819/govern-huelga-educativa-desactivar-aulas-acogida-inicio-curso-escolar-133476890",
+    "pubDate": "2026-08-19 22:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La conselleria de Educació expondrá \"medidas adicionales\" en una comparecencia la semana previa a la vuelta a la escuela para mejorar las condiciones laborales de los profesores </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260818/vuelta-cole-huelga-primer-dia-curso-8-septiembre-cataluna-133447784\" target=\"_blank\">Vuelta al cole en Catalunya: se mantiene la huelga para el 8 de septiembre, primer día de clase</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260724/oposicion-sindicatos-critican-caos-incompetencia-gestion-govern-cataluna-pruebas-pisa-132783146\" target=\"_blank\">Sindicatos, entidades y oposición cargan contra el \"caos\" y la \"incompetencia\" del Govern en la gestión de las pruebas PISA en Catalunya</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зеленський анонсував нові обміни полоненими",
+    "link": "https://ua.korrespondent.net/ukraine/4904470-zelenskyi-anonsuvav-novi-obminy-polonenymy",
+    "pubDate": "2026-08-19 21:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533739.jpg\">Президент Володимир Зеленський заявив, що Україна готує наступний етап обмінів військовополоненими, а також низку санкцій.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España peleará por las medallas en el Eurobasket Sub-16",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-peleara-por-las-medallas-en-el-eurobasket-sub-16-f202608-n/",
+    "pubDate": "2026-08-19 21:52:56",
+    "category": "Baloncesto",
+    "description": "La Selección vence a Serbia por 41-88 y se cita con Letonia en semifinales el viernes 21 de agosto.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las mejores imágenes de la \"Festa del Gamper\" al Spotify Camp Nou",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/mejores-imagenes-festa-gamper-spotify-133497652",
+    "pubDate": "2026-08-19 21:48:17",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Карпати залучили до складу іспанського вінгера Епіцентра",
     "link": "https://ua.korrespondent.net/sport/football/4904466-karpaty-zaluchyly-do-skladu-ispanskoho-vinhera-epitsentra",
     "pubDate": "2026-08-19 21:31:00",
