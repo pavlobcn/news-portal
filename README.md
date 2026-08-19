@@ -1,8 +1,12 @@
-# News for 2026-08-19 14:15
+# News for 2026-08-19 15:15
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+15:05 [Річард Гір привітав Україну з ювілеєм Незалежності](https://ua.korrespondent.net/lifestyle/4904303-richard-hir-pryvitav-ukrainu-z-yuvileiem-nezalezhnosti)<br>
+14:50 [У Рівному посмертний донор врятував чотирьох людей](https://ua.korrespondent.net/ukraine/4904318-u-rivnomu-posmertnyi-donor-vriatuvav-chotyrokh-luidei)<br>
+14:35 [Кардашян засвітилася в обіймах із зіркою Формули-1](https://ua.korrespondent.net/lifestyle/4904282-kardashian-zasvitylasia-v-obiimakh-iz-zirkoui-formuly-1)<br>
+14:23 [На Закарпатті горів один із монастирів УПЦ МП](https://ua.korrespondent.net/ukraine/4904311-na-zakarpatti-horiv-odyn-iz-monastyriv-upts-mp)<br>
 13:46 [У Дніпрі медикиня пропонувала військовому операцію на здоровому хребті](https://ua.korrespondent.net/ukraine/4904293-u-dnipri-medykynia-proponuvala-viiskovomu-operatsiui-na-zdorovomu-khrebti)<br>
 13:41 [Паливна криза в Росії: у Москві обмежили продаж бензину](https://ua.korrespondent.net/world/russia/4904291-palyvna-kryza-v-rosii-u-moskvi-obmezhyly-prodazh-benzynu)<br>
 13:12 [Українські банки заробили 54 млрд грн: хто став лідером](https://ua.korrespondent.net/business/4904279-ukrainski-banky-zarobyly-54-mlrd-hrn-khto-stav-liderom)<br>
@@ -34,6 +38,10 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:05 [Maurizio, jubilado italiano viviendo en Fuerteventura: “La vida no se orienta únicamente al beneficio. Hay mayor equilibrio entre vida privada y trabajo”](https://www.elperiodico.com/es/economia/20260819/maurizio-jubilado-italiano-viviendo-fuerteventura-estilo-vida-clima-coste-dv-133487168)<br>
+15:05 [Unitree irrumpe con fuerza en Bolsa y se dispara un 600% al calor del boom de los robots humanoides en China](https://www.elperiodico.com/es/economia/20260819/unitree-irrumpe-fuerza-bolsa-dispara-133487340)<br>
+14:46 [Los Mossos investigan si el incendio en un bar de Barcelona esta madrugada ha sido provocado](https://www.elperiodico.com/es/barcelona/20260819/incendio-bar-clot-barcelona-mossos-investigan-133486124)<br>
+14:21 [Manos a la obra: los robots chinos pasan del espectáculo al trabajo](https://www.elperiodico.com/es/videos/economia/manos-obra-robots-chinos-pasan-espectaculo-trabajo-video/133486005.shtml)<br>
 14:12 [¿Por qué parece que hay tantos terremotos? ¿Podría haber uno en Barcelona?](https://www.elperiodico.com/es/sociedad/20260819/riesgo-terremotos-barcelona-cataluna-espana-granada-133479339)<br>
 14:05 [Detenido por secuestrar y agredir sexualmente a una joven en una vivienda de Ibiza](https://www.elperiodico.com/es/sucesos/20260819/detenido-secuestrar-agredir-sexualmente-ibiza-133485376)<br>
 14:00 [Virginia y Andrea huyeron de la ciudad para reformar la casa de sus antepasados: "Este pueblo, como muchas otras aldeas, se está perdiendo por la civilización"](https://www.elperiodico.com/es/economia/20260819/huyeron-ciudad-reformar-casa-antepasados-asturias-pareja-virginia-andrea-dv-et-133338216)<br>
