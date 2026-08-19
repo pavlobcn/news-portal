@@ -1,5 +1,194 @@
 [
   {
+    "title": "Las navieras toman precauciones y evitan el estrecho de Ormuz ante el temor a los ataques entre Irán y EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260819/navieras-empiezan-precauciones-evitan-estrecho-133490490",
+    "pubDate": "2026-08-19 16:45:32",
+    "category": "",
+    "description": "<h2>El tráfico marítimo en Ormuz cayó un 17% este martes y en el mar Rojo subió un 53% ante la incertidumbre</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Киргизстані закрили десятки компаній через санкційні ризики",
+    "link": "https://ua.korrespondent.net/business/4904371-u-kyrhyzstani-zakryly-desiatky-kompanii-cherez-sanktsiini-ryzyky",
+    "pubDate": "2026-08-19 16:39:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533391.jpeg\">Киргизстан почав масштабну перевірку компаній, які могли допомагати обходити санкції ЄС і США проти Росії. Влада вже примусово ліквідувала 19 таких юридичних осіб.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Названі кращий тренер і гравець третього туру УПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4904368-nazvani-kraschyi-trener-i-hravets-tretoho-turu-upl",
+    "pubDate": "2026-08-19 16:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533371.jpg\">Український спеціаліст і бразильський гравець визнані кращими за підсумками третього туру УПЛ.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Португалія забороняє носіння чадри",
+    "link": "https://ua.korrespondent.net/world/4904367-portuhaliia-zaboroniaie-nosinnia-chadry",
+    "pubDate": "2026-08-19 16:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533390.jpg\">Порушникам загрожують штрафи у розмірі від 150 до 3 000 євро. Винятки передбачені з таких причин, як медичні, професійні, художні або пов’язані з погодними умовами потреби.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Corte de digestión el la playa o piscina: ¿hay que esperar realmente dos horas para bañarnos? ¿es un riesgo?",
+    "link": "https://www.elperiodico.com/es/salud/20260819/corte-digestion-esperar-dos-horas-banarse-104934969",
+    "pubDate": "2026-08-19 16:30:00",
+    "category": "",
+    "description": "<h2>Los cambios repentinos de temperatura y la práctica de ejercicios bruscos después de comer suponen peligrosos riesgos y pueden provocar un coste de digestión en verano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un nuevo incendio forestal en Madrid obliga a desplegar a la UME y a confinar Aldea del Fresno y Villamantilla",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/nuevo-incendio-forestal-madrid-obliga/133489869.shtml",
+    "pubDate": "2026-08-19 16:28:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una nueva chapuza en vivienda",
+    "link": "https://www.elperiodico.com/es/opinion/20260819/nueva-chapuza-vivienda-133489343",
+    "pubDate": "2026-08-19 16:28:20",
+    "category": "",
+    "description": "<h2>El ideologismo de los Comuns y sus satélites es el principal culpable de que Catalunya y Barcelona se hayan convertido en un demencial laboratorio en cuanto a las políticas habitacionales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Полтаві готель оштрафували на 600 тис. грн за російські пісні",
+    "link": "https://ua.korrespondent.net/ukraine/4904365-u-poltavi-hotel-oshtrafuvaly-na-600-tys-hrn-za-rosiiski-pisni",
+    "pubDate": "2026-08-19 16:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533389.jpg\">У Полтаві готельний комплекс Щастя оштрафували на 600 тисяч гривень після журналістського розслідування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Minamitori, la isla donde Japón planea extraer tierras raras y almacenar su basura nuclear",
+    "link": "https://www.elperiodico.com/es/internacional/20260819/minamitori-isla-japon-planea-extraer-133489828",
+    "pubDate": "2026-08-19 16:24:50",
+    "category": "",
+    "description": "<h2>La pequeña isla del Pacífico se perfila como clave para la autosuficiencia nipona en materiales estratégicos y la gestión de residuos nucleares.</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un nuevo incendio forestal en Madrid obliga a desplegar a la UME y a confinar Aldea del Fresno y Villamantilla",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/nuevo-incendio-forestal-madrid-aldea-fresno-133489741",
+    "pubDate": "2026-08-19 16:20:28",
+    "category": "",
+    "description": "<h2>Veinte dotaciones terrestres y cinco medios aéreos trabajan contra las llamas de un incendio que alcanza el nivel 2 de alerta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Авто влетіло в зупинку в Києві: 23-річному водію повідомили про підозру",
+    "link": "https://ua.korrespondent.net/city/kiev/4904356-avto-vletilo-v-zupynku-v-kyievi-23-richnomu-vodiui-povidomyly-pro-pidozru",
+    "pubDate": "2026-08-19 16:20:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533369.jpg\">Правоохоронці повідомили про підозру водію Volkswagen, який на швидкості зіткнувся з маршруткою і вилетів на зупинку з людьми.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mueren al menos nueves personas por un ataque con dron contra la sede de la Policía en Gaza",
+    "link": "https://www.elperiodico.com/es/videos/internacional/mueren-nueves-personas-ataque-dron/133489645.shtml",
+    "pubDate": "2026-08-19 16:19:54",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Циганков матиме покарання за сваволю",
+    "link": "https://ua.korrespondent.net/sport/football/4904362-tsyhankov-matyme-pokarannia-za-svavolui",
+    "pubDate": "2026-08-19 16:19:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533353.jpg\">Жирона вживе заходів у стосунку до українського футболіста, який відмовився виконувати вимоги тренера.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Espanyol presenta al central Vanja Drkusić, la última apuesta de Monchi: \"Estoy más que preparado física y mentalmente\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260819/espanyol-presenta-central-vanja-drkusic-133489386",
+    "pubDate": "2026-08-19 16:17:17",
+    "category": "",
+    "description": "<h2>El central esloveno llega cedido por una temporada desde el Zenit de San Petersburgo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Oficial: Williams anuncia la renovación de Carlos Sainz",
+    "link": "https://www.elperiodico.com/es/deportes/20260819/williams-renovara-carlos-sainz-sueldo-133489595",
+    "pubDate": "2026-08-19 16:16:20",
+    "category": "",
+    "description": "<h2>Tras anunciar el lunes el acuerdo con Alex Albon, Williams ha confirmado hoy la renovación del Carlos Sainz, que tendrá suelo de estrella  </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росіяни атакували управління Нацполіції у Житомирі",
+    "link": "https://ua.korrespondent.net/ukraine/4904359-rosiiany-atakuvaly-upravlinnia-natspolitsii-u-zhytomyri",
+    "pubDate": "2026-08-19 16:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533374.jpg\"> реактивними дронами. Є влучання у будівлю Головного управління Національної поліції в Житомирській області.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Небезпечні створіння заполонили пляжі Європи",
+    "link": "https://ua.korrespondent.net/tech/science/4904349-nebezpechni-stvorinnia-zapolonyly-pliazhi-yevropy",
+    "pubDate": "2026-08-19 16:15:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533368.jpg\">У Біскайській затоці на узбережжях Франції та Іспанії зафіксовано масовий наплив португальських корабликів (фізалій) - небезпечних істот з довгими отруйними щупальцями.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нова модель оборони: як і чим ЗСУ б’ють по ракетному тилу РФ",
+    "link": "https://ua.korrespondent.net/articles/4904358-nova-model-oborony-yak-i-chym-zsu-buit-po-raketnomu-tylu-rf",
+    "pubDate": "2026-08-19 16:15:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533373.png\">Україна переносить боротьбу з російською ракетно-дроновою загрозою на територію держави-агресора, атакуючи виробництво, запаси та технологічні ланцюги. Така стратегія може стати ключових способів зменшення потенціалу Росії.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Barceloneta estrenará a inicios de 2027 la rehabilitación de su histórica cooperativa Segle XX",
+    "link": "https://www.elperiodico.com/es/barcelona/20260819/barceloneta-estrenara-inicios-2027-cooperativa-segle-xx-133487503",
+    "pubDate": "2026-08-19 16:10:04",
+    "category": "",
+    "description": "<h2>El alcalde Jaume Collboni presume de un plan de mejoras de 46 millones de euros en el barrio, ya ejecutado al 70%</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Цимбалюк і Світлицька вперше підтвердили свій роман",
+    "link": "https://ua.korrespondent.net/lifestyle/4904324-tsymbaluik-i-svitlytska-vpershe-pidtverdyly-svii-roman",
+    "pubDate": "2026-08-19 16:05:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533272.jpg\">Акторка Олена Світлицька більше не приховує почуттів і вперше офіційно підтвердила роман із Тарасом Цимбалюком, опублікувавши спільні фото з відпочинку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Vallès tendrá una estación de alta velocidad",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/valles-tendra-estacion-alta-velocidad/133489174.shtml",
+    "pubDate": "2026-08-19 16:04:30",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El cumpleaños más oscuro de Mette-Marit: problemas de salud, un hijo en prisión preventiva y una polémica relación con Jeffrey Epstein",
     "link": "https://www.elperiodico.com/es/gente/20260819/cumpleanos-oscuro-mette-marit-problemas-133477308",
     "pubDate": "2026-08-19 16:01:29",
@@ -27,6 +216,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "У Києві чоловік отримав 6 років тюрми за вбивство собаки",
+    "link": "https://ua.korrespondent.net/ukraine/4904354-u-kyievi-cholovik-otrymav-6-rokiv-tuirmy-za-vbyvstvo-sobaky",
+    "pubDate": "2026-08-19 15:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533370.png\">Киянину не сподобалося, що пес почав гавкати. Тому чоловік схопив тварину і з силою викинув у коридор, де пес ударився об підлогу і помер.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "\"El más eficaz\": el suplemento más recomendado por los usuarios que buscan perder peso y acabar con la grasa localizada rápido",
     "link": "https://www.elperiodico.com/es/shopping/20260819/suplemento-perder-peso-grasa-localizada-rapido-lipostil-116014981",
     "pubDate": "2026-08-19 15:55:00",
@@ -43,6 +241,33 @@
     "description": "<h2 class=\"item\">Una brigada municipal halló la bolsa en cuyo interior habían restos de huesos</h2><h2 class=\"item\">Realizaban tareas de mantenimiento y limpieza de los imbornales de la zona</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Путін висловився щодо наслідків атак України",
+    "link": "https://ua.korrespondent.net/world/russia/4904347-putin-vyslovyvsia-schodo-naslidkiv-atak-ukrainy",
+    "pubDate": "2026-08-19 15:50:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533351.jpg\">Глава Кремля доручив уряду відбудувати зруйновані логістичні та складські потужності \"за участю держави\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Виготовила вибухівку для теракту: агентка РФ отримала 15 років тюрми",
+    "link": "https://ua.korrespondent.net/ukraine/4904350-vyhotovyla-vybukhivku-dlia-teraktu-ahentka-rf-otrymala-15-rokiv-tuirmy",
+    "pubDate": "2026-08-19 15:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533352.jpg\">Внаслідок детонації вибухівки загинули 15-річний хлопець і військовослужбовець Національної гвардії України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Військовим дозволять будувати фортифікації на приватних землях",
+    "link": "https://ua.korrespondent.net/ukraine/4904343-viiskovym-dozvoliat-buduvaty-fortyfikatsii-na-pryvatnykh-zemliakh",
+    "pubDate": "2026-08-19 15:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533349.png\">Землю в аграріїв для будівництва фортифікацій не відчужуватимуть і платитимуть компенсацію за незібраний врожай.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "El paseo de Gràcia de Barcelona cuelga el 'lleno' con alquileres comerciales que superan los 340 euros el m2",
@@ -70,6 +295,15 @@
     "description": "",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Угорщина закрила справу проти інкасаторів Ощадбанку",
+    "link": "https://ua.korrespondent.net/world/4904344-uhorschyna-zakryla-spravu-proty-inkasatoriv-oschadbanku",
+    "pubDate": "2026-08-19 15:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533350.jpg\">Угорські слідчі припинили справу проти українських інкасаторів, яких підозрювали у відмиванні грошей. Походження готівки та золота вдалося документально підтвердити.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 65
   },
   {
     "title": "Cortada la AP7 en ambos sentidos a la altura de Gelida por el incendio de un camión que también interrumpe la circulación de Rodalies",
@@ -126,6 +360,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Актор театру Дах загинув на Донецькому напрямку",
+    "link": "https://ua.korrespondent.net/showbiz/culture/4904332-aktor-teatru-dakh-zahynuv-na-donetskomu-napriamku",
+    "pubDate": "2026-08-19 15:35:00",
+    "category": "Новини культури",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533334.jpg\">На Донецькому напрямку під час виконання бойового завдання загинув український актор і захисник Ігор Постолов.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Detenido en Croacia otro sospechoso del sabotaje a los gasoductos rusos Nord Stream",
     "link": "https://www.elperiodico.com/es/internacional/20260819/detenido-croacia-sospechoso-sabotaje-gasoductos-133488463",
     "pubDate": "2026-08-19 15:33:46",
@@ -142,6 +385,24 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251127/voz-hind-pelicula-pequena-5-124155252\" >'La voz de Hind', la película sobre la pequeña de 5 años acribillada en Gaza: \"Hemos normalizado las muertes de niños, y eso es abominable\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Забарний у пошуках ігрового часу може перейти в АПЛ",
+    "link": "https://ua.korrespondent.net/sport/football/4904340-zabarnyi-u-poshukakh-ihrovoho-chasu-mozhe-pereity-v-apl",
+    "pubDate": "2026-08-19 15:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533308.jpg\">Український центрбек ПСЖ прагне грати у футбол більше часу, ніж йому може запропонувати французька команда, тому розглядаються варіанти продовження кар'єри з клубами англійської Прем'єр-ліги.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Армія Швеції вперше отримає ударні дрони",
+    "link": "https://ua.korrespondent.net/world/4904337-armiia-shvetsii-vpershe-otrymaie-udarni-drony",
+    "pubDate": "2026-08-19 15:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533332.jpg\">Раніше на озброєнні шведської армії були безпілотники, здатні вести розвідку та спостереження. Тепер же вперше будуть закуплені ударні дрони з метою знищення ворожих цілей.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "El Síndic de Barcelona pide devolver dinero a un jubilado tras cobrarle de más por un curso de natación",

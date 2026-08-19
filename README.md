@@ -1,8 +1,14 @@
-# News for 2026-08-19 16:04
+# News for 2026-08-19 16:47
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+16:26 [У Полтаві готель оштрафували на 600 тис. грн за російські пісні](https://ua.korrespondent.net/ukraine/4904365-u-poltavi-hotel-oshtrafuvaly-na-600-tys-hrn-za-rosiiski-pisni)<br>
+16:20 [Авто влетіло в зупинку в Києві: 23-річному водію повідомили про підозру](https://ua.korrespondent.net/city/kiev/4904356-avto-vletilo-v-zupynku-v-kyievi-23-richnomu-vodiui-povidomyly-pro-pidozru)<br>
+16:15 [Небезпечні створіння заполонили пляжі Європи](https://ua.korrespondent.net/tech/science/4904349-nebezpechni-stvorinnia-zapolonyly-pliazhi-yevropy)<br>
+16:05 [Цимбалюк і Світлицька вперше підтвердили свій роман](https://ua.korrespondent.net/lifestyle/4904324-tsymbaluik-i-svitlytska-vpershe-pidtverdyly-svii-roman)<br>
+15:59 [У Києві чоловік отримав 6 років тюрми за вбивство собаки](https://ua.korrespondent.net/ukraine/4904354-u-kyievi-cholovik-otrymav-6-rokiv-tuirmy-za-vbyvstvo-sobaky)<br>
+15:35 [Актор театру Дах загинув на Донецькому напрямку](https://ua.korrespondent.net/showbiz/culture/4904332-aktor-teatru-dakh-zahynuv-na-donetskomu-napriamku)<br>
 15:05 [Річард Гір привітав Україну з ювілеєм Незалежності](https://ua.korrespondent.net/lifestyle/4904303-richard-hir-pryvitav-ukrainu-z-yuvileiem-nezalezhnosti)<br>
 14:50 [У Рівному посмертний донор врятував чотирьох людей](https://ua.korrespondent.net/ukraine/4904318-u-rivnomu-posmertnyi-donor-vriatuvav-chotyrokh-luidei)<br>
 14:35 [Кардашян засвітилася в обіймах із зіркою Формули-1](https://ua.korrespondent.net/lifestyle/4904282-kardashian-zasvitylasia-v-obiimakh-iz-zirkoui-formuly-1)<br>
@@ -38,6 +44,10 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:30 [Corte de digestión el la playa o piscina: ¿hay que esperar realmente dos horas para bañarnos? ¿es un riesgo?](https://www.elperiodico.com/es/salud/20260819/corte-digestion-esperar-dos-horas-banarse-104934969)<br>
+16:28 [Un nuevo incendio forestal en Madrid obliga a desplegar a la UME y a confinar Aldea del Fresno y Villamantilla](https://www.elperiodico.com/es/videos/sucesos/nuevo-incendio-forestal-madrid-obliga/133489869.shtml)<br>
+16:20 [Un nuevo incendio forestal en Madrid obliga a desplegar a la UME y a confinar Aldea del Fresno y Villamantilla](https://www.elperiodico.com/es/sociedad/20260819/nuevo-incendio-forestal-madrid-aldea-fresno-133489741)<br>
+16:04 [El Vallès tendrá una estación de alta velocidad](https://www.elperiodico.com/es/videos/barcelona/valles-tendra-estacion-alta-velocidad/133489174.shtml)<br>
 16:01 [El cumpleaños más oscuro de Mette-Marit: problemas de salud, un hijo en prisión preventiva y una polémica relación con Jeffrey Epstein](https://www.elperiodico.com/es/gente/20260819/cumpleanos-oscuro-mette-marit-problemas-133477308)<br>
 16:00 [Alza el vuelo el mayor avión de pasajeros 100% eléctrico](https://www.elperiodico.com/es/medio-ambiente/20260819/alza-vuelo-mayor-avion-pasajeros-133489054)<br>
 16:00 [El rincón cerca de Barcelona considerado uno de los parajes más bonitos del mundo: "Ha servido durante mucho tiempo de fuente de inspiración para artistas como Dalí, Miró y Duchamp"](https://www.elperiodico.com/es/catalunya/20260819/cadaques-pueblo-pescadores-dali-miro-arte-revista-viajes-dv-loc-133233624)<br>
