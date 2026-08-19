@@ -1,8 +1,10 @@
-# News for 2026-08-19 17:52
+# News for 2026-08-19 18:23
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+18:15 [В Україні впав потенціал експорту агропродукції - міністр](https://ua.korrespondent.net/business/economics/4904413-v-ukraini-vpav-potentsial-eksportu-ahroproduktsii-ministr)<br>
+18:00 [В Україні впав офіційний курс долара](https://ua.korrespondent.net/business/financial/4904409-v-ukraini-vpav-ofitsiinyi-kurs-dolara)<br>
 17:37 [Сенс Банк заявив про слідчі дії у головному офісі](https://ua.korrespondent.net/business/companies/4904400-sens-bank-zaiavyv-pro-slidchi-dii-u-holovnomu-ofisi)<br>
 17:33 [У Кенії розбився гелікоптер із туристами, є загиблі](https://ua.korrespondent.net/world/4904397-u-kenii-rozbyvsia-helikopter-iz-turystamy-ye-zahybli)<br>
 17:04 [Спека у Франції забрала понад 1200 життів за три тижні](https://ua.korrespondent.net/world/4904379-speka-u-frantsii-zabrala-ponad-1200-zhyttiv-za-try-tyzhni)<br>
@@ -47,6 +49,13 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:09 [¿De qué está hecho un pensamiento? La ciencia apunta más allá de las neuronas](https://www.elperiodico.com/es/tendencias21/20260819/hecho-pensamiento-ciencia-apunta-neuronas-133492870)<br>
+18:03 [Muere el productor Ricardo Pachón, artífice de los discos más influyentes del nuevo flamenco](https://www.elperiodico.com/es/ocio-y-cultura/20260819/muere-productor-ricardo-pachon-nuevo-flamenco-133492205)<br>
+18:02 [La Guardia Civil busca a un supuesto león avistado en Toledo](https://www.elperiodico.com/es/sucesos/20260819/guardia-civil-busca-supuesto-leon-133492630)<br>
+18:00 [El secreto de la eterna vitalidad de Amparo en su 103 aniversario](https://www.elperiodico.com/es/sociedad/20260819/secreto-eterna-vitalidad-amparo-aniversario-133492514)<br>
+18:00 [Oroso, localidad de centenarios: Herminia Costa celebra los cien años](https://www.elperiodico.com/es/sociedad/20260819/oroso-localidad-centenarios-herminia-costa-celebra-cien-anos-133492536)<br>
+18:00 [El gran castillo que defendía Catalunya de Francia y que se puede visitar: Su misión era proteger la frontera](https://www.elperiodico.com/es/catalunya/20260819/castillos-cataluna-francia-visitar-edad-media-entradas-pirineo-dv-loc-120531871)<br>
+17:59 [Amparo celebró este lunes su 103 cumpleaños rodeada de cinco generaciones en Vilar, Silleda](https://www.elperiodico.com/es/videos/sociedad/amparo-celebro-lunes-103-cumpleanos/133492448.shtml)<br>
 17:39 [Cultura avala la controvertida rehabilitación de la Capella dels Segadors de Barcelona](https://www.elperiodico.com/es/barcelona/20260819/cultura-avala-rehabilitacion-capella-dels-segadors-sant-andreu-133491415)<br>
 17:36 [Un estudio en fase 3 demuestra resultados prometedores en la vacuna contra el melanoma, el cáncer de piel más agresivo](https://www.elperiodico.com/es/videos/salud/estudio-fase-3-demuestra-resultados/133491818.shtml)<br>
 17:10 [El calendario laboral de Barcelona trae buenas noticias para los trabajadores: tres puentes en un mes tras las vacaciones](https://www.elperiodico.com/es/videos/sociedad/calendario-laboral-barcelona-trae-buenas/133491145.shtml)<br>
