@@ -1,8 +1,12 @@
-# News for 2026-08-19 13:44
+# News for 2026-08-19 14:15
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+13:46 [У Дніпрі медикиня пропонувала військовому операцію на здоровому хребті](https://ua.korrespondent.net/ukraine/4904293-u-dnipri-medykynia-proponuvala-viiskovomu-operatsiui-na-zdorovomu-khrebti)<br>
+13:41 [Паливна криза в Росії: у Москві обмежили продаж бензину](https://ua.korrespondent.net/world/russia/4904291-palyvna-kryza-v-rosii-u-moskvi-obmezhyly-prodazh-benzynu)<br>
+13:12 [Українські банки заробили 54 млрд грн: хто став лідером](https://ua.korrespondent.net/business/4904279-ukrainski-banky-zarobyly-54-mlrd-hrn-khto-stav-liderom)<br>
+12:28 [На Черкащині спалахнула масштабна лісова пожежа](https://ua.korrespondent.net/ukraine/4904266-na-cherkaschyni-spalakhnula-masshtabna-lisova-pozhezha)<br>
 11:05 [Курс гривні повернувся до зростання в обмінниках](https://ua.korrespondent.net/business/financial/4904233-kurs-hryvni-povernuvsia-do-zrostannia-v-obminnykakh)<br>
 10:58 [На Одещині підлітки кілька годин знущалися з 11-річного хлопчика](https://ua.korrespondent.net/ukraine/4904229-na-odeschyni-pidlitky-kilka-hodyn-znuschalysia-z-11-richnoho-khlopchyka)<br>
 10:55 [Російський дрон атакував авто у центрі Херсона: є жертва і поранений](https://ua.korrespondent.net/ukraine/4904227-rosiiskyi-dron-atakuvav-avto-u-tsentri-khersona-ye-zhertva-i-poranenyi)<br>
@@ -30,6 +34,12 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:12 [¿Por qué parece que hay tantos terremotos? ¿Podría haber uno en Barcelona?](https://www.elperiodico.com/es/sociedad/20260819/riesgo-terremotos-barcelona-cataluna-espana-granada-133479339)<br>
+14:05 [Detenido por secuestrar y agredir sexualmente a una joven en una vivienda de Ibiza](https://www.elperiodico.com/es/sucesos/20260819/detenido-secuestrar-agredir-sexualmente-ibiza-133485376)<br>
+14:00 [Virginia y Andrea huyeron de la ciudad para reformar la casa de sus antepasados: "Este pueblo, como muchas otras aldeas, se está perdiendo por la civilización"](https://www.elperiodico.com/es/economia/20260819/huyeron-ciudad-reformar-casa-antepasados-asturias-pareja-virginia-andrea-dv-et-133338216)<br>
+13:57 [Rodri, electricista: "A la gente no le importa gastar 4.000 euros en un sofá, pero le cuesta hacerlo en una instalación eléctrica porque no se ve"](https://www.elperiodico.com/es/economia/20260819/rodri-electricista-gente-gasta-4000-euros-sofa-instalacion-electrica-dv-et-133169633)<br>
+13:49 [Muere a los 92 años José Cusí, fiel amigo y compañero de regatas del rey Juan Carlos I](https://www.elperiodico.com/es/politica/20260819/fallece-92-anos-jose-cusi-amigo-rey-juan-carlos-i-133484599)<br>
+13:48 [Este es "el Brooklyn de Barcelona": el barrio que una guía de viajes ha elegido como el más 'cool' de la ciudad](https://www.elperiodico.com/es/barcelona/20260819/poblenou-brooklyn-barcelona-barrio-mas-cool-133480142)<br>
 13:39 [Más de 500 mujeres atendidas en 10 años por dolor pélvico crónico: "Cuando te duele la vulva, te callas"](https://www.elperiodico.com/es/videos/sociedad/500-mujeres-atendidas-10-anos/133484244.shtml)<br>
 13:37 [Un hombre se presenta en los juzgados de Mallorca y dice que lleva diez días buscando a su mujer para matarla](https://www.elperiodico.com/es/sucesos/20260819/hombre-presenta-juzgados-mallorca-dice-133484402)<br>
 13:37 [Condenado a 17 años de prisión por agredir sexualmente a dos gemelas menores en Castellón](https://www.elperiodico.com/es/sucesos/20260819/condenado-17-anos-prision-agredir-133484380)<br>
