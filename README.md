@@ -1,4 +1,4 @@
-# News for 2026-08-19 12:19
+# News for 2026-08-19 12:49
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
@@ -23,11 +23,20 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 00:59 [В Норвегії покарали інститут за відмову найняти росіянина](https://ua.korrespondent.net/world/4904125-v-norvehii-pokaraly-instytut-za-vidmovu-nainiaty-rosiianyna)<br>
 
 ## as.com
+12:23 [Aldama no irá convocado con España este verano](https://as.com/baloncesto/mas_baloncesto/aldama-no-ira-convocado-con-espana-este-verano-f202608-n/)<br>
 11:14 [La FIBA da pista libre a Shulga para jugar en el Madrid](https://as.com/baloncesto/acb/la-fiba-da-pista-libre-a-shulga-para-jugar-en-el-madrid-f202608-n/)<br>
 08:19 [Jabari Parker vuelve a sufrir](https://as.com/baloncesto/euroliga/jabari-parker-vuelve-a-sufrir-f202608-n/)<br>
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:47 [El inicio del curso en el Líbano, en el aire a causa de los daños en escuelas causados por las bombas israelíes](https://www.elperiodico.com/es/internacional/20260819/inicio-curso-libano-aire-danos-escuelas-bombas-israel-133482242)<br>
+12:42 [Qué hacer durante y después de un terremoto para protegerte](https://www.elperiodico.com/es/sociedad/20260819/que-hacer-durante-despues-terremoto-protegerte-133480935)<br>
+12:42 [Catalunya activa la alerta por calor intenso ante la continuidad del episodio de altas temperaturas](https://www.elperiodico.com/es/sociedad/20260819/proteccio-civil-alerta-calor-intensa-altas-temperaturas-cataluna-133481452)<br>
+12:39 [Cortadas la RL3 y la RL4 de Rodalies de Lleida por una incidencia en la infraestructura entre Bell-lloc d'Urgell y Cervera](https://www.elperiodico.com/es/sociedad/20260819/cortadas-rl3-rl4-rodalies-lleida-incidencia-infraestructura-urgell-cervera-133481080)<br>
+12:35 [Identifican dos proteínas que con la edad pasan a activar genes relacionados con la inflamación de la piel](https://www.elperiodico.com/es/sanidad/20260819/identifican-proteinas-edad-pasan-activar-genes-relacionados-inflamacion-piel-irb-133481224)<br>
+12:34 [La empresa china LandSpace logra aterrizar un propulsor de cohete con tecnología reutilizable](https://www.elperiodico.com/es/videos/internacional/empresa-china-landspace-logra-aterrizar/133481609.shtml)<br>
+12:27 [Catalunya activa avisos por lluvias torrenciales y tormentas ante la llegada de un frente que traerá un cambio de tiempo](https://www.elperiodico.com/es/videos/sociedad/catalunya-activa-avisos-lluvias-torrenciales-tormentas-llegada-frente-cambio-tiempo-video/133481221.shtml)<br>
+12:20 [Cocaína con estampita: llegan paquetes con droga a playas de Castellón, Badalona, Tarragona y Sitges](https://www.elperiodico.com/es/sucesos/20260819/cocaina-estampita-llegan-paquetes-droga-133480201)<br>
 12:18 [Meta afronta su juicio más decisivo por el carácter adictivo de Instagram y Facebook y su impacto en la salud mental de los menores](https://www.elperiodico.com/es/internacional/20260819/meta-juicio-decisivo-supuesto-caracter-133459373)<br>
 12:10 [La familia del menor muerto en el tiroteo de Huelva pide ayuda para esclarecer el crimen: "No tenía nada que ver, estaba cruzando la calle"](https://www.elperiodico.com/es/sucesos/20260819/familia-menor-muerto-tiroteo-huelva-ayuda-esclarecer-crimen-133480688)<br>
 12:07 [Se desprende una parte del icónico pilar de los acantilados de Moher en Irlanda](https://www.elperiodico.com/es/sociedad/20260819/acantilados-moher-irlanda-se-desprende-parte-iconico-pilar-an-branan-mor-133479701)<br>

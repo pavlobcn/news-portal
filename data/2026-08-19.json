@@ -1,5 +1,104 @@
 [
   {
+    "title": "El inicio del curso en el Líbano, en el aire a causa de los daños en escuelas causados por las bombas israelíes",
+    "link": "https://www.elperiodico.com/es/internacional/20260819/inicio-curso-libano-aire-danos-escuelas-bombas-israel-133482242",
+    "pubDate": "2026-08-19 12:47:25",
+    "category": "",
+    "description": "<h2>Unas 340 escuelas públicas, privadas y de formación técnica y profesional han resultado afectadas en la reciente campaña militar, lo que podría provocar que al menos 100.000 niños no puedan empezar las clases en septiembre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Entidades antirracistas convocan una manifestación en Barcelona contra el movimiento xenófobo en defensa de la Europa \"blanca\"",
+    "link": "https://www.elperiodico.com/es/politica/20260819/manifestacion-barcelona-contra-save-europe-act-antirracismo-entidades-133480926",
+    "pubDate": "2026-08-19 12:46:55",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260518/barcelona-activa-primer-plan-antirracista-2036-130366333\">Barcelona activa su primer Plan Antirracista con un centenar de medidas: \"La diversidad no garantiza por sí sola la igualdad\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/catalunya/parlament/20250715/parlament-fichara-experto-antirracismo-irrupcion-119472327\">El Parlament fichará a un experto en antirracismo ante la irrupción de Vox y Aliança Catalana</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Qué hacer durante y después de un terremoto para protegerte",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/que-hacer-durante-despues-terremoto-protegerte-133480935",
+    "pubDate": "2026-08-19 12:42:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos recomiendan agacharse, cubrirse y sujetarse como gesto clave de autoprotección</h2><h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260819/terremoto-granada-hoy-ultima-hora-directo-133378645\">Terremoto en Granada, en directo: última hora de las nuevas réplicas de seísmo esta madrugada</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260818/sentido-nuevo-terremoto-magnitud-3-133470324\">Seis nuevos terremotos en la Vega de Granada prolongan la actividad sísmica durante la noche</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya activa la alerta por calor intenso ante la continuidad del episodio de altas temperaturas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/proteccio-civil-alerta-calor-intensa-altas-temperaturas-cataluna-133481452",
+    "pubDate": "2026-08-19 12:42:23",
+    "category": "",
+    "description": "<h2 class=\"item\">En Lleida y en el interior de las Terres de l’Ebre se pueden superar los 40ºC</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260819/avisos-lluvias-torrenciales-miercoles-jueves-viernes-meteocat-cataluna-133479282\" target=\"_blank\">Catalunya activa avisos por lluvias torrenciales y tormentas ante la llegada de un frente que traerá un cambio de tiempo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cortadas la RL3 y la RL4 de Rodalies de Lleida por una incidencia en la infraestructura entre Bell-lloc d'Urgell y Cervera",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/cortadas-rl3-rl4-rodalies-lleida-incidencia-infraestructura-urgell-cervera-133481080",
+    "pubDate": "2026-08-19 12:39:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Renfe está gestionando un servicio alternativo por carretera entre Lleida y Manresa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260819/retrasos-r4-incidencia-infraestructura-castellbisbal-133474159\">Retrasos en la R4 por una incidencia en la infraestructura en Castellbisbal</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260818/trenes-incidencia-cunit-provoca-retrasos-rodalies-133445421\">Una incidencia en Cunit provoca retrasos en la R2 Sud, R13, R14, R15 y R16</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Cuándo es el sorteo de la fase liga de la Champions? Fechas, horarios y dónde ver",
+    "link": "https://www.elperiodico.com/es/deportes/20260819/sorteo-fase-liga-champions-uefa-133480637",
+    "pubDate": "2026-08-19 12:36:03",
+    "category": "",
+    "description": "<h2>La mejor competición de clubes arrancará el próximo 8 de septiembre, pero antes se determinarán los ocho rivales de cada equipo en el sorteo</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Identifican dos proteínas que con la edad pasan a activar genes relacionados con la inflamación de la piel",
+    "link": "https://www.elperiodico.com/es/sanidad/20260819/identifican-proteinas-edad-pasan-activar-genes-relacionados-inflamacion-piel-irb-133481224",
+    "pubDate": "2026-08-19 12:35:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio del IRB Barcelona realizado principalmente en ratones describe el mecanismo que explica el proceso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260801/manuel-castillo-experto-longevidad-pildora-magica-evite-envejecimiento-problemas-132926683\" target=\"_blank\">Manuel J. Castillo, experto en longevidad: \"No existe una píldora mágica que evite el envejecimiento y solucione todos los problemas\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260731/comer-proteina-recomendacion-reducir-poblacion-sedentaria-estudio-132959179\" target=\"_blank\">Comer más proteína no es siempre mejor: para la mayoría de la población, reducir su ingesta puede favorecer un \"envejecimiento más saludable\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La empresa china LandSpace logra aterrizar un propulsor de cohete con tecnología reutilizable",
+    "link": "https://www.elperiodico.com/es/videos/internacional/empresa-china-landspace-logra-aterrizar/133481609.shtml",
+    "pubDate": "2026-08-19 12:34:13",
+    "category": "",
+    "description": "China consigue con este logro ponerse al nivel de Estados Unidos en materia de cohetes",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya activa avisos por lluvias torrenciales y tormentas ante la llegada de un frente que traerá un cambio de tiempo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/catalunya-activa-avisos-lluvias-torrenciales-tormentas-llegada-frente-cambio-tiempo-video/133481221.shtml",
+    "pubDate": "2026-08-19 12:27:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aldama no irá convocado con España este verano",
+    "link": "https://as.com/baloncesto/mas_baloncesto/aldama-no-ira-convocado-con-espana-este-verano-f202608-n/",
+    "pubDate": "2026-08-19 12:23:00",
+    "category": "Baloncesto",
+    "description": "Una lesión aún no cerrada aleja a Santi Aldama de la Selección Española para no poner en peligro su año en la NBA. No será sustituido por la FEB.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cocaína con estampita: llegan paquetes con droga a playas de Castellón, Badalona, Tarragona y Sitges",
+    "link": "https://www.elperiodico.com/es/sucesos/20260819/cocaina-estampita-llegan-paquetes-droga-133480201",
+    "pubDate": "2026-08-19 12:20:32",
+    "category": "",
+    "description": "<h2>El peso de la droga recuperada en Catalunya hasta el momento supera los tres kilos</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20231111/aparecen-fardos-droga-mar-ciutadella-menorca-94486590\">Aparecen alrededor de unos 50 fardos de hachís flotando cerca del puerto de Ciutadella en Menorca</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Meta afronta su juicio más decisivo por el carácter adictivo de Instagram y Facebook y su impacto en la salud mental de los menores",
     "link": "https://www.elperiodico.com/es/internacional/20260819/meta-juicio-decisivo-supuesto-caracter-133459373",
     "pubDate": "2026-08-19 12:18:00",
@@ -178,6 +277,15 @@
     "description": "<h2 class=\"item\">La nueva ley exige condiciones más estrictas en cuanto al estado del producto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260814/ikea-chino-new-home-nueva-tienda-barcelona-antiguo-miro-133351157\" >El \"Ikea chino\" prepara una nueva tienda en el enorme local que dejó Miró en Sant Antoni</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260514/cancelacion-facil-compras-normativa-europea-derechos-consumidor-shein-temu-dv-130012270\" >Lo dice la nueva normativa europea: cancelar compras online en Shein o Temu deberá ser fácil e inmediato</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Стали відомі перші деталі обшуків у фігурантів операції Форест Гамп",
+    "link": "https://ua.korrespondent.net/ukraine/4904237-staly-vidomi-pershi-detali-obshukiv-u-fihurantiv-operatsii-forest-hamp",
+    "pubDate": "2026-08-19 11:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533056.jpg\">Детективи виявили документ з меседжами для реагування на роботу Тимчасової слідчої комісії у Раді.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Cae un clan familiar que tenía un laboratorio clandestino de medicamentos ilegales para aves en Terrassa",
