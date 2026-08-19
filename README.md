@@ -1,8 +1,10 @@
-# News for 2026-08-19 17:21
+# News for 2026-08-19 17:52
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+17:37 [Сенс Банк заявив про слідчі дії у головному офісі](https://ua.korrespondent.net/business/companies/4904400-sens-bank-zaiavyv-pro-slidchi-dii-u-holovnomu-ofisi)<br>
+17:33 [У Кенії розбився гелікоптер із туристами, є загиблі](https://ua.korrespondent.net/world/4904397-u-kenii-rozbyvsia-helikopter-iz-turystamy-ye-zahybli)<br>
 17:04 [Спека у Франції забрала понад 1200 життів за три тижні](https://ua.korrespondent.net/world/4904379-speka-u-frantsii-zabrala-ponad-1200-zhyttiv-za-try-tyzhni)<br>
 16:26 [У Полтаві готель оштрафували на 600 тис. грн за російські пісні](https://ua.korrespondent.net/ukraine/4904365-u-poltavi-hotel-oshtrafuvaly-na-600-tys-hrn-za-rosiiski-pisni)<br>
 16:20 [Авто влетіло в зупинку в Києві: 23-річному водію повідомили про підозру](https://ua.korrespondent.net/city/kiev/4904356-avto-vletilo-v-zupynku-v-kyievi-23-richnomu-vodiui-povidomyly-pro-pidozru)<br>
@@ -45,6 +47,8 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:39 [Cultura avala la controvertida rehabilitación de la Capella dels Segadors de Barcelona](https://www.elperiodico.com/es/barcelona/20260819/cultura-avala-rehabilitacion-capella-dels-segadors-sant-andreu-133491415)<br>
+17:36 [Un estudio en fase 3 demuestra resultados prometedores en la vacuna contra el melanoma, el cáncer de piel más agresivo](https://www.elperiodico.com/es/videos/salud/estudio-fase-3-demuestra-resultados/133491818.shtml)<br>
 17:10 [El calendario laboral de Barcelona trae buenas noticias para los trabajadores: tres puentes en un mes tras las vacaciones](https://www.elperiodico.com/es/videos/sociedad/calendario-laboral-barcelona-trae-buenas/133491145.shtml)<br>
 17:09 [Mataró invierte unos 650.000 euros en 190 contenedores a la espera de adjudicar el nuevo contrato de limpieza](https://www.elperiodico.com/es/barcelona/20260819/mataro-invierte-650000-euros-200-contenedores-espera-nuevo-contrato-limpieza-133463254)<br>
 17:02 [El mayor estudio sobre psicodélicos desmonta un mito: el cerebro no entra en caos, se reorganiza](https://www.elperiodico.com/es/sociedad/20260819/estudio-psicodelicos-reorganizar-cerebro-conexiones-neuronales-133489977)<br>
