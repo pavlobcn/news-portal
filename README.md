@@ -1,8 +1,9 @@
-# News for 2026-08-19 18:56
+# News for 2026-08-19 19:31
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+18:40 [Камери автофіксації цьогоріч зафіксували майже 3 млн порушень на дорогах](https://ua.korrespondent.net/ukraine/4904418-kamery-avtofiksatsii-tsohorich-zafiksuvaly-maizhe-3-mln-porushen-na-dorohakh)<br>
 18:15 [В Україні впав потенціал експорту агропродукції - міністр](https://ua.korrespondent.net/business/economics/4904413-v-ukraini-vpav-potentsial-eksportu-ahroproduktsii-ministr)<br>
 18:00 [В Україні впав офіційний курс долара](https://ua.korrespondent.net/business/financial/4904409-v-ukraini-vpav-ofitsiinyi-kurs-dolara)<br>
 17:37 [Сенс Банк заявив про слідчі дії у головному офісі](https://ua.korrespondent.net/business/companies/4904400-sens-bank-zaiavyv-pro-slidchi-dii-u-holovnomu-ofisi)<br>
@@ -49,6 +50,9 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:24 [Bomberos y 4 medios aéreos intentan controlar un incendio en el barranco del Carraixet, en València](https://www.elperiodico.com/es/videos/sociedad/bomberos-4-medios-aereos-controlar/133495082.shtml)<br>
+19:11 [El litoral catalán será una de las zonas de España donde más aumentarán los días de ola de calor](https://www.elperiodico.com/es/barcelona/20260819/litoral-catalan-sera-zonas-espana-mas-aumentaran-dias-ola-de-calor-133492891)<br>
+19:00 [Fran Rodríguez, pescadero: "Se trabaja de martes a sábado, por lo que tienes el sábado por la tarde libre, el domingo y el lunes"](https://www.elperiodico.com/es/economia/20260819/fran-rodriguez-pescadero-horario-claro-5-manana-dv-133151892)<br>
 18:09 [¿De qué está hecho un pensamiento? La ciencia apunta más allá de las neuronas](https://www.elperiodico.com/es/tendencias21/20260819/hecho-pensamiento-ciencia-apunta-neuronas-133492870)<br>
 18:03 [Muere el productor Ricardo Pachón, artífice de los discos más influyentes del nuevo flamenco](https://www.elperiodico.com/es/ocio-y-cultura/20260819/muere-productor-ricardo-pachon-nuevo-flamenco-133492205)<br>
 18:02 [La Guardia Civil busca a un supuesto león avistado en Toledo](https://www.elperiodico.com/es/sucesos/20260819/guardia-civil-busca-supuesto-leon-133492630)<br>
