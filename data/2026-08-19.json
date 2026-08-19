@@ -1,0 +1,65 @@
+[
+  {
+    "title": "У Москві жаліються на атаку БпЛА на Москву",
+    "link": "https://ua.korrespondent.net/world/russia/4904133-u-moskvi-zhaliuitsia-na-ataku-bpla-na-moskvu",
+    "pubDate": "2026-08-19 02:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532623.jpg\">Кількість дронів перевищила 20 одиниць менш як за годину, стверджує московський міський голова Сергій Собянін.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Суд в Канаді відмовив РФ у поверненні арештованого літака",
+    "link": "https://ua.korrespondent.net/world/4904131-sud-v-kanadi-vidmovyv-rf-u-povernenni-areshtovanoho-litaka",
+    "pubDate": "2026-08-19 02:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532607.jpg\">Рішення про арешт передає контроль над літаком федеральному міністру громадських робіт, хоч це ще не конфіскація.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Трамп прагне зустрічі з Кім Чен Ином - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4904129-tramp-prahne-zustrichi-z-kim-chen-ynom-zmi",
+    "pubDate": "2026-08-19 02:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532576.jpg\">Зустріч двох лідерів може відбутися в листопаді, коли світові лідери зберуться на саміті в китайському Шеньчжені.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Експорт нафти з Росії зазнав найбільшого падіння за час війни - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4904127-eksport-nafty-z-rosii-zaznav-naibilshoho-padinnia-za-chas-viiny-zmi",
+    "pubDate": "2026-08-19 01:48:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532575.jpg\">Вивезення сировини з російських портів падає п'ять тижнів поспіль, зазначає інформагентство Bloomberg.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "В Норвегії покарали інститут за відмову найняти росіянина",
+    "link": "https://ua.korrespondent.net/world/4904125-v-norvehii-pokaraly-instytut-za-vidmovu-nainiaty-rosiianyna",
+    "pubDate": "2026-08-19 00:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532529.jpg\">Комісія з питань дискримінації в країні визнала винним місцевий дослідницький інститут Norce.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una mujer herida grave en Madrid tras ser apuñalada en un posible caso de violencia machista",
+    "link": "https://www.elperiodico.com/es/sociedad/20260819/mujer-herida-grave-madrid-apunalada-133470740",
+    "pubDate": "2026-08-19 00:51:19",
+    "category": "",
+    "description": "<h2>La mujer de de 35 años ha recibido cuatro heridas \"importantes\" de arma blanca y ha sido trasladada al Hospital 12 de Octubre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрони РФ атакували Запоріжжя: є жертва й потерпілі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4904123-drony-rf-atakuvaly-zaporizhzhia-ye-zhertva-y-poterpili",
+    "pubDate": "2026-08-19 00:34:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4532512.jpg\">Атаки ворожих дронів призвела до пошкоджень житлових та нежитлових будівель в місті, зазначає місцева влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  }
+]
