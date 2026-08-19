@@ -1,4 +1,4 @@
-# News for 2026-08-19 06:54
+# News for 2026-08-19 07:26
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
@@ -11,6 +11,10 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 00:59 [В Норвегії покарали інститут за відмову найняти росіянина](https://ua.korrespondent.net/world/4904125-v-norvehii-pokaraly-instytut-za-vidmovu-nainiaty-rosiianyna)<br>
 
 ## www.elperiodico.com
+07:15 [Sonia Díaz, experta en gestión del enfado: "No es que no te entiendan, es que no lo estás diciendo"](https://www.elperiodico.com/es/vida-y-estilo/20260819/sonia-diaz-experta-gestion-enfado-pareja-dv-et-133425584)<br>
+07:06 [Nokia prepara su salida casi total de China, que llegó a ser su principal mercado](https://www.elperiodico.com/es/economia/20260819/nokia-prepara-salida-total-china-133472894)<br>
+07:01 [Cristina Gómez, experta en neuropsicología: "Acompañar no significa eliminar el dolor, sino evitar que se viva en soledad"](https://www.elperiodico.com/es/sociedad/20260819/experta-neuropsicologia-acompanar-duelo-verano-133472974)<br>
+07:01 [Superar el duelo en verano: consejos para vivir la estación de forma diferente](https://www.elperiodico.com/es/videos/sociedad/superar-duelo-verano-consejos-vivir/133472952.shtml)<br>
 06:47 [La australiana que mató a tres familiares con setas venenosas apela la cadena perpetua](https://www.elperiodico.com/es/sucesos/20260819/australiana-mato-tres-familiares-setas-venenosas-133472599)<br>
 06:00 [El Vallès tendrá una estación de alta velocidad](https://www.elperiodico.com/es/sociedad/20260819/valles-tendra-estacion-alta-velocidad-133460544)<br>
 06:00 [Abuelos al cuidado de nietos en vacaciones: ¿dónde está el límite entre consentir y malcriar?](https://www.elperiodico.com/es/sociedad/20260819/abuelos-cuidado-nietos-vacaciones-limite-dilemas-cotidianos-132788871)<br>
