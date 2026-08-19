@@ -1,8 +1,9 @@
-# News for 2026-08-19 10:18
+# News for 2026-08-19 11:01
 
 Previous day: [2026-08-18](./data/2026-08-18.md)
 
 ## ua.korrespondent.net
+10:06 [В Уфі спалахнув нафтозавод після атаки дронів](https://ua.korrespondent.net/world/russia/4904208-v-ufi-spalakhnuv-naftozavod-pislia-ataky-droniv)<br>
 10:05 [Екс-дружина Кличка присвятила пост пам'яті Гайден Панеттьєрі](https://ua.korrespondent.net/lifestyle/4904207-eks-druzhyna-klychka-prysviatyla-post-pamiati-haiden-panettieri)<br>
 09:55 [Сальма Хаєк розчулила шанувальників відео з онуком](https://ua.korrespondent.net/lifestyle/4904182-salma-khaiek-rozchulyla-shanuvalnykiv-video-z-onukom)<br>
 09:40 [Знеструмлення у восьми областях - Укренерго](https://ua.korrespondent.net/ukraine/4904198-znestrumlennia-u-vosmy-oblastiakh-ukrenerho)<br>
@@ -20,6 +21,11 @@ Previous day: [2026-08-18](./data/2026-08-18.md)
 08:02 [Arranca el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/arranca-el-movistar-estudiantes-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:49 [Los millonarios ya tienen su propia caja fuerte en los Alpes: Suiza excava 25 cavernas de lujo ultraseguras](https://www.elperiodico.com/es/economia/20260819/millonarios-propia-caja-fuerte-alpes-suiza-25-cavernas-ultraseguras-dv-133477159)<br>
+10:30 [Descubren que las emisiones de CO2 también están alterando la sangre humana](https://www.elperiodico.com/es/medio-ambiente/20260819/descubren-emisiones-co2-alterando-sangre-133477065)<br>
+10:28 [Vídeo | Unas 700 personas siguen evacuadas por el incendio de Pinofranqueado que ha arrasado 1.600 hectáreas](https://www.elperiodico.com/es/videos/sociedad/video-700-personas-siguen-evacuadas/133477025.shtml)<br>
+10:27 [Terremotos en Granada: qué revela la serie de Alhendín sobre el riesgo sísmico en el sur de España](https://www.elperiodico.com/es/tendencias21/20260819/terremotos-granada-revela-serie-alhendin-133476983)<br>
+10:21 [Unas 700 personas siguen evacuadas por el incendio de Pinofranqueado que ha arrasado 1.600 hectáreas](https://www.elperiodico.com/es/sociedad/20260819/200-efectivos-terrestres-26-medios-aereos-dispositivo-incendio-las-hurdes-caceres-133476775)<br>
 10:00 [Ignacio de la Calzada, abogado laboralista: "En España no se puede despedir a nadie por ser vago"](https://www.elperiodico.com/es/economia/20260819/ignacio-calzada-abogado-laboralista-espana-despedir-vago-dv-et-133462547)<br>
 10:00 [Pablo, camarero español que vive en una autocaravana en Suiza: "Lo primero que hago al levantarme es saludar a mi Bellota"](https://www.elperiodico.com/es/vida-y-estilo/20260819/pablo-ortiz-camarero-espanol-vive-autocaravana-suiza-dv-et-133356834)<br>
 09:56 [La Guardia Civil encuentra "las armas" utilizadas en el tiroteo de Huelva en un ajuste de cuentas entre clanes](https://www.elperiodico.com/es/sucesos/20260819/guardia-civil-encuentra-armas-utilizadas-tiroteo-huelva-ajuste-cuentas-clanes-133475976)<br>
