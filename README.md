@@ -1,8 +1,9 @@
-# News for 2026-08-20 19:35
+# News for 2026-08-20 20:55
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+19:46 [Операція Справедливість для бійців: проведено 46 обшуків](https://ua.korrespondent.net/ukraine/4904787-operatsiia-spravedlyvist-dlia-biitsiv-provedeno-46-obshukiv)<br>
 19:03 [Підпал оборонної компанії в Естонії: у Латвії взяли під варту трьох людей](https://ua.korrespondent.net/world/4904782-pidpal-oboronnoi-kompanii-v-estonii-u-latvii-vzialy-pid-vartu-trokh-luidei)<br>
 18:19 [Курс євро оновив історичний рекорд в Україні](https://ua.korrespondent.net/business/financial/4904774-kurs-yevro-onovyv-istorychnyi-rekord-v-ukraini)<br>
 18:04 [Huawei представила перший широкоформатний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4904766-Huawei-predstavyla-pershyi-shyrokoformatnyi-smartfon)<br>
@@ -40,6 +41,7 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 01:19 [Частина киян залишилася без світла](https://ua.korrespondent.net/city/kiev/4904500-chastyna-kyian-zalyshylasia-bez-svitla)<br>
 
 ## as.com
+19:52 [Ognjen Dobrić, excompañero de Campazzo: “Iba a 300 kilómetros por hora; nunca había visto algo así”](https://as.com/baloncesto/euroliga/ognjen-dobric-excompanero-de-campazzo-iba-a-300-kilometros-por-hora-nunca-habia-visto-algo-asi-f202608-n/)<br>
 12:28 [Así está la plantilla del Madrid para la temporada 2026-27: en busca del ‘dos’](https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/)<br>
 12:25 [Izan Almansa se va del Madrid](https://as.com/baloncesto/acb/izan-almansa-se-va-del-madrid-f202608-n/)<br>
 12:04 [Cameron Hunt: “El límite de este Unicaja es el cielo”](https://as.com/baloncesto/cameron-hunt-el-limite-de-este-unicaja-es-el-cielo-f202608-n/)<br>
@@ -47,6 +49,12 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:37 [Un terremoto de 7,2 grados sacude los Andes en Perú](https://www.elperiodico.com/es/internacional/20260820/terremoto-ayacucho-7-2-grados-133526615)<br>
+20:31 [Fallece una mujer en una playa de A Coruña tras haber tenido problemas para salir del agua](https://www.elperiodico.com/es/politica/20260820/fallece-mujer-playa-coruna-haber-133526487)<br>
+19:59 [Muere un bañista en la playa de Levante de Cunit con bandera roja](https://www.elperiodico.com/es/videos/sucesos/muere-banista-playa-levante-cunit/133525891.shtml)<br>
+19:53 [Se elevan a 14 los menores agredidos sexualmente por un hombre en San Sebastián](https://www.elperiodico.com/es/sucesos/20260820/elevan-14-menores-agredidos-sexualmente-133525766)<br>
+19:50 [Bitcóin y agitación en las criptos tras tiempos de capa caída](https://www.elperiodico.com/es/opinion/20260820/bitcoin-agitacion-criptos-tiempos-capa-caida-ley-clarity-momento-de-comprar-bitcoin-133525717)<br>
+19:44 [Vecinos de la barriada de El Príncipe (Ceuta) improvisan un campamento para menores y mujeres](https://www.elperiodico.com/es/videos/internacional/vecinos-barriada-principe-ceuta-improvisan/133525410.shtml)<br>
 19:30 [Maribel deja Barcelona para poner en marcha una comunidad autosuficiente en la naturaleza: "Hemos querido generar un espacio donde nosotros podamos ser"](https://www.elperiodico.com/es/economia/20260820/comunidad-autosuficiente-naturaleza-arbucies-cataluna-maribel-gonzalez-torres-dv-loc-et-133230714)<br>
 19:19 [Catalunya, en alerta por temporal de lluvia, viento y granizo hasta el sábado](https://www.elperiodico.com/es/sociedad/20260820/catalunya-alerta-temporal-lluvia-viento-granizo-133524612)<br>
 19:15 [No te confíes con las capturas de pantalla: podrían perjudicar tu memoria y hacer que olvides más información](https://www.elperiodico.com/es/tendencias21/20260820/confies-capturas-pantalla-perjudicar-memoria-133524772)<br>
