@@ -1,4 +1,4 @@
-# News for 2026-08-20 16:12
+# News for 2026-08-20 16:59
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
@@ -39,6 +39,15 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:55 [Una pedrada rompe la puerta de un bus de la D20 en Barcelona y obliga a evacuar a los pasajeros](https://www.elperiodico.com/es/barcelona/20260820/pedrada-bus-d20-paralel-barcelona-133519562)<br>
+16:54 [¿Es la berberina un ‘Ozempic natural’? Esto es lo que dice la ciencia sobre su efecto para adelgazar](https://www.elperiodico.com/es/videos/sociedad/berberina-ozempic-natural-dice-ciencia/133520324.shtml)<br>
+16:43 [Sin rastro del supuesto león: la Guardia Civil suspende el operativo en Toledo](https://www.elperiodico.com/es/sociedad/20260820/rastro-supuesto-leon-guardia-civil-133520022)<br>
+16:30 [Soy podólogo y esto es lo que tienes que hacer para eliminar las dolorosas durezas de los pies](https://www.elperiodico.com/es/salud/20260820/como-quitar-durezas-pies-108539275)<br>
+16:30 [Aurelio Rojas, cardiólogo, sobre el test del pulgar para el aneurisma de aorta: "Es un signo muy sencillo que puedes hacer tú mismo para incorporar a nuestras exploraciones médicas"](https://www.elperiodico.com/es/salud/20260820/aurelio-rojas-cardiologo-test-pulgar-aneurisma-de-aorta-dv-et-133145957)<br>
+16:27 [Un violento temporal de viento derriba el techo de la iglesia de Santa Catalina de Alzira y causa graves destrozos en la Ribera](https://www.elperiodico.com/es/tiempo/20260820/violento-temporal-viento-derriba-techo-133519469)<br>
+16:25 [La OMS mantiene la emergencia internacional por el brote de ébola en la RDC](https://www.elperiodico.com/es/videos/internacional/oms-mantiene-emergencia-internacional-brote/133519416.shtml)<br>
+16:16 [Una incidencia en la catenaria corta la R13 y la R14 entre Lleida y Les Borges Blanques](https://www.elperiodico.com/es/sociedad/20260820/cortadas-r13-r14-rodalies-lleida-borges-blanques-incidencia-infraestructura-catenaria-incidente-renfe-133518718)<br>
+16:12 [Granizo y fuertes lluvias en Parets de Vallés esta tarde.](https://www.elperiodico.com/es/videos/sucesos/granizo-fuertes-lluvias-parets-valles/133519111.shtml)<br>
 16:11 [Reventón húmedo en Valencia: "Volaban piedras por la carretera"](https://www.elperiodico.com/es/sociedad/20260820/reventon-humedo-valencia-volaban-piedras-133519094)<br>
 16:07 [Tormenta intensa en Alzira](https://www.elperiodico.com/es/videos/sociedad/tormenta-intensa-alzira/133519027.shtml)<br>
 16:05 [Jordi Pujadas, bajista y último 'trapero' vivo: "Lo que no le haya pasado a la Banda Trapera no le ha pasado a nadie"](https://www.elperiodico.com/es/ocio-y-cultura/20260820/jordi-pujadas-bajista-banda-trapera-del-rio-superviviente-133453757)<br>
