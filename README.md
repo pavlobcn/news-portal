@@ -1,4 +1,4 @@
-# News for 2026-08-20 07:25
+# News for 2026-08-20 07:58
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
@@ -13,6 +13,13 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+07:55 [¿Por qué persiste la pesca ilegal en el planeta? Radiografía de una plaga que se resiste a desaparecer](https://www.elperiodico.com/es/medio-ambiente/20260820/persiste-pesca-ilegal-planeta-radiografia-133502803)<br>
+07:54 [El refugio atlántico donde el verano todavía se vive sin multitudes](https://www.elperiodico.com/es/vida-y-estilo/20260820/refugio-atlantico-verano-todavia-vive-bc-133502776)<br>
+07:54 [Detenido tras matar a su tío de una cuchillada en el corazón en Valencia](https://www.elperiodico.com/es/sucesos/20260820/detenido-matar-tio-cuchillada-corazon-massanassa-valencia-bar-asesinato-crimen-133502753)<br>
+07:40 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260820/ultima-hora-incendios-espana-directo-132759066)<br>
+07:33 [El incendio de Huesca apunta a su estabilización este jueves tras el regreso de casi 600 vecinos desalojados](https://www.elperiodico.com/es/sociedad/20260820/incendio-huesca-apunta-estabilizacion-jueves-133502552)<br>
+07:31 [El "enjambre" de Granada, las causas de los terremotos y cuándo acabarán: "Puede haber centenares e igual se siente un 10%"](https://www.elperiodico.com/es/sociedad/20260820/granada-ejambre-sismico-terremotos-fallas-placas-133502489)<br>
+07:27 [El fundador del gigante inmobiliario chino Evergrande, condenado a cadena perpetua](https://www.elperiodico.com/es/economia/20260820/fundador-gigante-inmobiliario-chino-evergrande-condenado-cadena-perpetua-133502305)<br>
 07:16 [Sentencia de Daniel Sancho, en directo | Última hora de la condena y el próximo veredicto del Tribunal en Tailandia](https://www.elperiodico.com/es/sociedad/20260820/daniel-sancho-sentencia-ultima-hora-directo-133425232)<br>
 07:01 [Vivir cien años en un planeta que arde](https://www.elperiodico.com/es/opinion/20260820/vivir-cien-anos-planeta-arde-133492591)<br>
 07:01 [Torroella viaja al siglo XVII para vivir el caos y el color de un carnaval barroco](https://www.elperiodico.com/es/ocio-y-cultura/20260820/torroella-festival-carnaval-barroco-venecia-siglo-xvii-133484482)<br>
