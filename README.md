@@ -1,4 +1,4 @@
-# News for 2026-08-20 22:01
+# News for 2026-08-20 22:39
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
@@ -53,6 +53,7 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:26 [Faltan unicornios](https://www.elperiodico.com/es/opinion/20260820/faltan-unicornios-133527706)<br>
 21:42 [Juan Carlos I viaja a Barcelona para despedir a su amigo José Cusí](https://www.elperiodico.com/es/sociedad/20260820/juan-carlos-viaja-barcelona-despedir-133527464)<br>
 21:42 [Cierran varias piscinas de Caribe Aquatic Park en PortAventura por la presencia de excrementos en el agua](https://www.elperiodico.com/es/videos/sociedad/cierran-piscinas-caribe-aquatic-park/133527452.shtml)<br>
 21:24 [El temporal en Mallorca provoca que varias embarcaciones encallen en los acantilados](https://www.elperiodico.com/es/videos/sucesos/temporal-mallorca-provoca-embarcaciones-encallen/133527261.shtml)<br>
