@@ -1,5 +1,248 @@
 [
   {
+    "title": "Una jubilada de 70 años crea su propio pueblo de minicasas pensado para mujeres: cuestan 129.000 euros y 500 personas esperan para vivir allí",
+    "link": "https://www.elperiodico.com/es/economia/20260820/jubilada-70-anos-crea-propio-pueblo-minicasas-dv-et-133511056",
+    "pubDate": "2026-08-20 12:45:45",
+    "category": "",
+    "description": "<h2 class=\"item\">El proyecto busca formar una comunidad en la que sus residentes puedan vivir de forma independiente, pero acompañadas de otras mujeres en una situación similar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260807/jubilada-construye-cabana-bosque-girona-pension-800-euros-dv-et-133051071\">Yaya Bushcraft (71 años), la jubilada que se construyó una cabaña en el bosque y vive con una pensión de 800 euros en Girona: \"No me gustan los pisos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya eleva los avisos por lluvia ante los chubascos previstos desde este jueves por la tarde hasta el fin de semana",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/catalunya-eleva-avisos-lluvia-chubascos-jueves-fin-semana-video/133511322.shtml",
+    "pubDate": "2026-08-20 12:44:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Qué es la berberina? El suplemento conocido como el 'Ozempic natural'",
+    "link": "https://www.elperiodico.com/es/sanidad/20260820/berberina-suplemento-alimenticio-ozempic-natural-adelgazar-133506936",
+    "pubDate": "2026-08-20 12:38:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Ha ganado popularidad por su supuesto efecto adelgazante, pero la ciencia confirma un impacto mucho menor que los fármacos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260108/expertos-obesidad-efecto-rebote-dejar-tomar-ozempic-farmacos-potentes-solucion-final-125489903\">Los expertos en obesidad, sobre el efecto rebote tras dejar de tomar Ozempic: \"Son fármacos muy potentes, pero no son la solución final\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Covirán Granada lleva tres días sin entrenar por los terremotos",
+    "link": "https://www.elperiodico.com/es/deportes/20260820/coviran-granada-lleva-tres-dias-133510964",
+    "pubDate": "2026-08-20 12:36:11",
+    "category": "",
+    "description": "<h2>El enjambre sísmico de la zona ha imposibilitado que el equipo de baloncesto pueda ejercitarse con normalidad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Уражено НПЗ і нафтовий термінал в Росії - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4904650-urazheno-npz-i-naftovyi-terminal-v-rosii-henshtab",
+    "pubDate": "2026-08-20 12:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534674.jpg\">На території нафтопереробного заводу ТАНЕКО у Нижньокамську зафіксовано влучання з подальшою пожежею на території підприємства.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los precios del diésel y la gasolina siguen al alza todo el verano y no han dejado de subir desde el fin de la rebaja del IVA",
+    "link": "https://www.elperiodico.com/es/economia/20260820/gasolineras-subidas-precios-combustibles-diesel-gasolina-verano-133511100",
+    "pubDate": "2026-08-20 12:35:57",
+    "category": "",
+    "description": "<h2 class=\"item\">El gasóleo acumula un encarecimiento del 21,5% y la gasolina del 18,5% desde el principio de julio con la retirada del recorte fiscal y a pesar de los descuentos indirectos aprobados por el Gobierno</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260820/precio-gasolina-diesel-hoy-20-agosto-dv-133504081\">Consulta los precios de hoy de los combustibles</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Надя Дорофєєва показала себе у відвертому образі",
+    "link": "https://ua.korrespondent.net/lifestyle/4904626-nadia-dorofieieva-pokazala-sebe-u-vidvertomu-obrazi",
+    "pubDate": "2026-08-20 12:33:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534614.jpg\">Популярна українська співачка Надя Дорофєєва опублікувала серію сонячних кадрів у купальнику.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ масовано атакувала Слов’янськ і Краматорськ: щонайменше 10 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4904648-rf-masovano-atakuvala-sloviansk-i-kramatorsk-schonaimenshe-10-poranenykh",
+    "pubDate": "2026-08-20 12:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534662.jpg\">Росіяни вже дев’ять разів ударили по Краматорську, застосувавши авіабомби ФАБ-250 із модулями УМПК.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ масовано атакувала Слов’янськ і Краматорськ, 10 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4904648-rf-masovano-atakuvala-sloviansk-i-kramatorsk-10-poranenykh",
+    "pubDate": "2026-08-20 12:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534662.jpg\">Росіяни вже дев’ять разів ударили по Краматорську, застосувавши авіабомби ФАБ-250 із модулями УМПК.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Tremp pasa al ataque contra la avispa asiática: despliegan una red de trampas para proteger el municipio",
+    "link": "https://www.elperiodico.com/es/catalunya/20260820/avispa-asiatica-tremp-trampas-lleida-dv-loc-133504583",
+    "pubDate": "2026-08-20 12:31:24",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento lleva a cabo actuaciones preventivas y de control para limitar su expansión</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20251130/avispa-asiatica-devora-colmenas-amenaza-salud-123453536\" >La avispa asiática, fuera de control en España: devora colmenas, amenaza la saluda y altera la naturaleza</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251109/avispa-velutina-aumenta-presencia-espana-guia-controlar-expansion-123524408\" >La avispa velutina aumenta su presencia en España: esta es la guía para controlar su expansión</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los andenes sin climatizar, pesadilla de los usuarios del transporte público: \"Es la muerte\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260820/andenes-pesadilla-usuarios-transporte-publico-muerte-133505336",
+    "pubDate": "2026-08-20 12:30:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Las asociaciones de usuarios advierten de que las altas temperaturas desincentivan el uso del transporte colectivo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260802/media-hora-da-cuarta-ola-132912614\">\"Aquí estás media hora y te da algo\": la cuarta ola de calor pone a prueba a los pasajeros del metro de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así está la plantilla del Madrid para la temporada 2026-27: en busca del ‘dos’",
+    "link": "https://as.com/baloncesto/acb/asi-esta-la-plantilla-del-madrid-para-la-temporada-2026-27-f202606-n/",
+    "pubDate": "2026-08-20 12:28:54",
+    "category": "Baloncesto",
+    "description": "Sergio Llull jugará una temporada más con el club blanco, que iguala la oferta del Valencia por Ndiaye. El Real suma seis fichajes hasta la fecha.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нічний удар: як змінився російський обстріл",
+    "link": "https://ua.korrespondent.net/ukraine/4904645-nichnyi-udar-yak-zminyvsia-rosiiskyi-obstril",
+    "pubDate": "2026-08-20 12:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534663.jpg\">Щонайменше 15 людей загинули в Києві в результаті масованого обстрілу російської армії. Ще майже 40 постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Izan Almansa se va del Madrid",
+    "link": "https://as.com/baloncesto/acb/izan-almansa-se-va-del-madrid-f202608-n/",
+    "pubDate": "2026-08-20 12:25:45",
+    "category": "Baloncesto",
+    "description": "El pívot (21 años y 2,07 m) y el conjunto blanco han llegado a un acuerdo para dar por concluida su vinculación. El murciano apunta a la NCAA.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Derribo del antiguo club Cabaret de Manresa: fin del edificio en ruinas de la capital del Bages",
+    "link": "https://www.elperiodico.com/es/sociedad/20260820/derribo-antiguo-club-cabaret-manresa-dv-loc-133510041",
+    "pubDate": "2026-08-20 12:23:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Regió7 publicó el pasado 8 de agosto que, trece años después de su cierre, el antiguo prostíbulo se había convertido en un vertedero incontrolado</h2><h2 class=\"item\">La previsión es iniciar hoy, 20 de agosto, el cierre de los accesos y la limpieza</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Corea del Norte lanza 10 misiles balísticos hacia el mar de Japón",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/corea-norte-lanza-10-misiles-balisticos-mar-japon-133508862",
+    "pubDate": "2026-08-20 12:19:15",
+    "category": "",
+    "description": "<h2>El lanzamiento de los proyectos coincide con el anuncio de Trump de reunirse este año con el líder norcoreano, Kim Jong-un</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Атака РФ на Київ: уже 15 загиблих",
+    "link": "https://ua.korrespondent.net/city/kiev/4904642-ataka-rf-na-kyiv-uzhe-15-zahyblykh",
+    "pubDate": "2026-08-20 12:19:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534651.jpg\">У Києві зросла кількість загиблих внаслідок російської атаки в ніч на 20 серпня. Наразі відомо про 15 загиблих та 39 постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El niño de 'Baby Shark' debuta como artista de K-pop tras 10 años del éxito \"surrealista\"",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/nino-baby-shark-debuta-artista-kpop-video/133510114.shtml",
+    "pubDate": "2026-08-20 12:17:27",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Denunciados el dueño de una masía de Bescanó y una constructora por verter 64 toneladas de residuos en una balsa de riego",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/denunciados-dueno-masia-bescano-constructora/133510284.shtml",
+    "pubDate": "2026-08-20 12:16:51",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pívot español Izan Almansa deja el Real Madrid",
+    "link": "https://www.elperiodico.com/es/deportes/20260820/pivot-espanol-izan-almansa-deja-133510090",
+    "pubDate": "2026-08-20 12:16:13",
+    "category": "",
+    "description": "<h2>El jugador murciano deja el club blanco, pese a tener contrato hasta 2029</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Rey Carlos III condecora a Gabriel Escarrer como miembro de la Orden del Imperio Británico Honorario",
+    "link": "https://www.elperiodico.com/es/economia/20260820/rey-carlos-iii-condecora-gabriel-133510164",
+    "pubDate": "2026-08-20 12:14:09",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">“Recibir esta distinción es un enorme honor que acepto con profundo agradecimiento y humildad”, ha asegurado el presidente y CEO de Meliá Hotels International</h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Відомий тренер вказав на слабке місце Ітауми",
+    "link": "https://ua.korrespondent.net/sport/boks/4904635-vidomyi-trener-vkazav-na-slabke-mistse-itaumy",
+    "pubDate": "2026-08-20 12:13:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534649.jpg\">Фахівець проаналізував стиль британця і вказав на технічні помилки, які можуть призвести до його несподіваної поразки.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Georgina Rodríguez (32 años), mujer de Cristiano Ronaldo: \"Mi madre me dejó 100 euros para salir de mi pueblo\"",
+    "link": "https://www.elperiodico.com/es/gente/20260820/georgina-rodriguez-moda-entretenimiento-hijos-boda-cristiano-ronaldo-dv-et-133484800",
+    "pubDate": "2026-08-20 12:12:35",
+    "category": "",
+    "description": "<h2 class=\"item\">La 'influencer' cuenta cómo paso del anonimato a convertirse en una estrella internacional: \"Cuando entraba a una boutique de lujo, para mí era como entrar en un museo\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260820/georgina-rodriguez-cristiano-ronaldo-boda-gucci-portugal-133505116\">Georgina Rodríguez y Cristiano Ronaldo: ¿por qué vistieron de Gucci para su boda íntima en Portugal?</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Болгарія відкрила небо для російського Іл-76 попри санкції",
+    "link": "https://ua.korrespondent.net/world/4904639-bolhariia-vidkryla-nebo-dlia-rosiiskoho-il-76-popry-sanktsii",
+    "pubDate": "2026-08-20 12:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534650.jpg\">Російський літак МНС прямував до Сербії, яка попросила Москву про допомогу в гасінні лісових пожеж.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Intervienen casi 64.000 euros en efectivo a dos pasajeros en el aeropuerto de Palma",
+    "link": "https://www.elperiodico.com/es/sucesos/20260820/intervienen-64-000-euros-efectivo-aeropuerto-133509958",
+    "pubDate": "2026-08-20 12:09:43",
+    "category": "",
+    "description": "<h2>Los viajeros, procedentes de República Dominicana, fueron interceptados por agentes de Aduanas y Guardia Civil</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Cameron Hunt: “El límite de este Unicaja es el cielo”",
+    "link": "https://as.com/baloncesto/cameron-hunt-el-limite-de-este-unicaja-es-el-cielo-f202608-n/",
+    "pubDate": "2026-08-20 12:04:34",
+    "category": "Baloncesto",
+    "description": "El jugador americano, presentado: “El Unicaja es un club muy ambicioso, yo también lo soy, así que la comunión es perfecta”, decía. Firma por dos temporadas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ДБР і Генштаб проводять масштабну операцію",
+    "link": "https://ua.korrespondent.net/ukraine/4904636-dbr-i-henshtab-provodiat-masshtabnu-operatsiui",
+    "pubDate": "2026-08-20 12:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534640.jpeg\">Заплановано 72 обшуки у різних регіонах України. За їх результатами планується повідомити про підозру 22 особам.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Livakovic, el experimentado portero por el que negocia el Barça: grandes actuaciones en Mundiales y polémica con el Girona",
     "link": "https://www.elperiodico.com/es/deportes/20260820/livakovic-portero-barca-croacia-dinamo-zagreb-133505955",
     "pubDate": "2026-08-20 12:02:36",
@@ -7,6 +250,15 @@
     "description": "<h2>EL club azulgrana busca a un guardameta para ocupar el sitio de Szczesny tras la finalización de su contrato en 2027</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Обміління Дунаю: єдина АЕС Угорщини відновлює потужності",
+    "link": "https://ua.korrespondent.net/business/4904634-obmilinnia-dunaui-yedyna-aes-uhorschyny-vidnovluiie-potuzhnosti",
+    "pubDate": "2026-08-20 12:02:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534631.jpg\">В Угорщині почнуть поступово відновлювати потужності АЕС Пакш, які обмежили через низький рівень води в Дунаї. Повністю станція має запрацювати вже наступного тижня.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Un helicóptero, drones y la Guardia Civil buscan a un león supuestamente avistado en Toledo",
