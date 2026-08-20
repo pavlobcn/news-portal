@@ -1,0 +1,65 @@
+[
+  {
+    "title": "У Києві загинули п’ятеро осіб внаслідок атаки РФ",
+    "link": "https://ua.korrespondent.net/city/kiev/4904510-u-kyievi-zahynuly-piatero-osib-vnaslidok-ataky-rf",
+    "pubDate": "2026-08-20 02:44:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534036.jpg\">Наслідки масованого удару фіксуються на понад 12 локаціях у Дарницькому, Святошинському, Соломʼянському районах міста.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-08-20 01:43:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нічна атака РФ: на Київщині є загиблий і поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4904502-nichna-ataka-rf-na-kyivschyni-ye-zahyblyi-i-poranenyi",
+    "pubDate": "2026-08-20 01:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533971.jpg\">Внаслідок ворожої атаки загинув чоловік, ще одного постраждалого госпіталізували.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Обстріл Києва: кількість загиблих зросла",
+    "link": "https://ua.korrespondent.net/city/kiev/4904496-obstril-kyieva-kilkist-zahyblykh-zrosla",
+    "pubDate": "2026-08-20 00:34:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533908.jpg\">Дані про двох жертв внаслідок балістичного удару зафіксували станом на 01:15, повідомила столична влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Harry y Meghan Markle preparan su regreso al Reino Unido seis años después de romper con la familia real",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/harry-meghan-regreso-reino-unido-seis-anos-despues-133499335",
+    "pubDate": "2026-08-20 00:20:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La pareja prevé abandonar Estados Unidos antes de que termine agosto y sus dos hijos están matriculados en un colegio británico para septiembre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20200118/principe-enrique-y-meghan-dejan-de-pertenecer-a-la-familia-real-7812052\">El príncipe Enrique y Meghan dejan de pertenecer a la familia real</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві загинула жінка внаслідок удару РФ",
+    "link": "https://ua.korrespondent.net/city/kiev/4904494-u-kyievi-zahynula-zhinka-vnaslidok-udaru-rf",
+    "pubDate": "2026-08-20 00:17:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533887.jpg\">Дані про одну жертву внаслідок балістичного удару зафіксували станом на 0.55, повідомила столична влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "З'явилося відео запуску Калібрів з Новоросійська",
+    "link": "https://ua.korrespondent.net/ukraine/4904491-ziavylosia-video-zapusku-kalibriv-z-novorosiiska",
+    "pubDate": "2026-08-20 00:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533866.jpg\">На оприлюднених кадрах видно запуск російських крилатих ракет із порту Новоросійськ у напрямку України.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  }
+]
