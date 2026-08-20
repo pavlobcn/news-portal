@@ -1,8 +1,9 @@
-# News for 2026-08-20 18:15
+# News for 2026-08-20 18:56
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+18:19 [Курс євро оновив історичний рекорд в Україні](https://ua.korrespondent.net/business/financial/4904774-kurs-yevro-onovyv-istorychnyi-rekord-v-ukraini)<br>
 18:04 [Huawei представила перший широкоформатний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4904766-Huawei-predstavyla-pershyi-shyrokoformatnyi-smartfon)<br>
 17:59 [У Японії потяг на смерть збив чотирьох робітників](https://ua.korrespondent.net/world/4904763-u-yaponii-potiah-na-smert-zbyv-chotyrokh-robitnykiv)<br>
 17:44 [У Миколаєві розпочали масштабну реконструкцію очисних споруд](https://ua.korrespondent.net/ukraine/4904758-u-mykolaievi-rozpochaly-masshtabnu-rekonstruktsiui-ochysnykh-sporud)<br>
@@ -45,6 +46,11 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:31 [Los epidemiólogos piden entornos seguros para proteger de la violencia sexual a mujeres y niñas migrantes en Ceuta](https://www.elperiodico.com/es/sociedad/20260820/medicos-piden-proteger-mujeres-migrantes-ceuta-violencia-sexual-133513994)<br>
+18:30 [Adiós a las cucarachas: los remedios caseros que pueden evitar que entren en casa](https://www.elperiodico.com/es/vida-y-estilo/20260820/adios-cucarachas-remedios-caseros-casa-dv-133509622)<br>
+18:28 [Dos incidencias obligan a cortar los Rodalies de la R8 entre Rubí y Castellbisbal y la RL4 entre Calaf y Manresa](https://www.elperiodico.com/es/sociedad/20260820/incidencias-cortada-r8-rubi-castellbisbal-rl4-calaf-manresa-renfe-rodalies-133522527)<br>
+18:27 [Los Mossos detienen al 'ocupa' de un piso en la calle Muntaner que amenazaba a los vecinos](https://www.elperiodico.com/es/videos/sociedad/mossos-detienen-ocupa-piso-calle/133523485.shtml)<br>
+18:22 [Castelldefels, Vilanova y El Prat: las ciudades catalanas más castigadas por el aumento de días de olas de calor](https://www.elperiodico.com/es/barcelona/20260820/castelldefels-vilanova-prat-ciudades-catalanas-castigadas-aumento-dias-olas-calor-133522149)<br>
 17:59 [Caballero Bonald, el centenario del hombre apacible](https://www.elperiodico.com/es/opinion/20260820/caballero-bonald-centenario-hombre-apacible-133522238)<br>
 17:48 [Muere un bañista en la playa de Levante de Cunit con bandera roja](https://www.elperiodico.com/es/sucesos/20260820/muere-banista-playa-levante-cunit-bandera-roja-133522098)<br>
 17:47 [La ley de la selva](https://www.elperiodico.com/es/opinion/20260820/ley-selva-133521584)<br>
