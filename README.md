@@ -1,8 +1,11 @@
-# News for 2026-08-20 13:22
+# News for 2026-08-20 14:24
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+14:10 [Брудне повітря на Київщині: де зафіксували перевищення](https://ua.korrespondent.net/city/kiev/4904685-brudne-povitria-na-kyivschyni-de-zafiksuvaly-perevyschennia)<br>
+13:58 [Вперше за два місяці: біткойн перевищив $70 000](https://ua.korrespondent.net/business/financial/4904681-vpershe-za-dva-misiatsi-bitkoin-perevyschyv-70-000)<br>
+13:36 [60-річна акторка позувала в ефектному мереживному боді](https://ua.korrespondent.net/lifestyle/4904644-60-richna-aktorka-pozuvala-v-efektnomu-merezhyvnomu-bodi)<br>
 13:18 [СБУ розкрила нові способи ухилення від мобілізації](https://ua.korrespondent.net/ukraine/4904665-sbu-rozkryla-novi-sposoby-ukhylennia-vid-mobilizatsii)<br>
 13:16 [$3000 за виїзд з України: чоловік намагався підкупити прикордонницю](https://ua.korrespondent.net/ukraine/4904661-3000-za-vyizd-z-ukrainy-cholovik-namahavsia-pidkupyty-prykordonnytsui)<br>
 13:11 [Ціни на нафту оновили максимум серпня](https://ua.korrespondent.net/business/economics/4904662-tsiny-na-naftu-onovyly-maksymum-serpnia)<br>
@@ -34,6 +37,12 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:21 [¿Es legal recibir paquetes personales en tu puesto de trabajo? Un abogado laboralista revela cómo funciona la normativa en empresas](https://www.elperiodico.com/es/economia/20260820/recibir-paquetes-personales-puesto-trabajo-abogado-laboralista-revela-como-funciona-normativa-empresas-dv-133511874)<br>
+14:19 [Una nueva terapia reduce un 30% el riesgo de progresión o muerte en el cáncer de riñón más común](https://www.elperiodico.com/es/videos/sociedad/nueva-terapia-reduce-30-riesgo-progresion-muerte-cancer-rinon-mas-comun-video/133515593.shtml)<br>
+14:00 [Sean y Lainey, estadounidenses viviendo en Galicia desde 2023: "Estamos usando nuestro privilegio de haber podido ahorrar por tener sueldos de fuera"](https://www.elperiodico.com/es/sociedad/20260820/sean-lainey-estadounidenses-viviendo-galicia-dv-et-133512173)<br>
+13:46 [Hacer testamento antes de lo que piensas puede evitar muchos problemas: el momento clave según los expertos](https://www.elperiodico.com/es/sociedad/20260820/testamento-piensas-evitar-problemas-momento-clave-expertos-dv-et-133513927)<br>
+13:35 [El popular quiosco de Santa Coloma próximo al metro de la L1 echa el cierre por jubilación de su propietario](https://www.elperiodico.com/es/barcelona/20260820/popular-quiosco-santa-coloma-proximo-metro-l1-cierre-jubilacion-propietario-133512477)<br>
+13:22 [Llega el cambio de tiempo a Catalunya](https://www.elperiodico.com/es/videos/tiempo/llega-cambio-tiempo-catalunya/133513282.shtml)<br>
 13:20 [El incendio de Las Hurdes alcanza las 4.800 hectáreas y concentra los trabajos en tres zonas](https://www.elperiodico.com/es/sociedad/20260820/incendio-hurdes-alcanza-4-800-hectareas-133513420)<br>
 13:14 ['O Menino d'Olho d'Água' recibe el premio al mejor documental en el In-Edit Empordà 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260820/o-menino-dolho-dagua-recibe-133506408)<br>
 13:13 [El incendio de Niebla (Huelva) queda controlado tras casi 15 días y 33.000 hectáreas quemadas](https://www.elperiodico.com/es/sociedad/20260820/incendio-niebla-huelva-queda-controlado-133512880)<br>
