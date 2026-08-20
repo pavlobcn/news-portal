@@ -1,8 +1,13 @@
-# News for 2026-08-20 17:43
+# News for 2026-08-20 18:15
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+18:04 [Huawei представила перший широкоформатний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4904766-Huawei-predstavyla-pershyi-shyrokoformatnyi-smartfon)<br>
+17:59 [У Японії потяг на смерть збив чотирьох робітників](https://ua.korrespondent.net/world/4904763-u-yaponii-potiah-na-smert-zbyv-chotyrokh-robitnykiv)<br>
+17:44 [У Миколаєві розпочали масштабну реконструкцію очисних споруд](https://ua.korrespondent.net/ukraine/4904758-u-mykolaievi-rozpochaly-masshtabnu-rekonstruktsiui-ochysnykh-sporud)<br>
+16:55 [Біля Гренландії помітили рекордну кількість китів](https://ua.korrespondent.net/tech/science/4904740-bilia-hrenlandii-pomityly-rekordnu-kilkist-kytiv)<br>
+16:47 [Рятуй: на ОМКФ покажуть фільм про тварин із зон бойових дій](https://ua.korrespondent.net/showbiz/cinema/4904445-riatui-na-omkf-pokazhut-film-pro-tvaryn-iz-zon-boiovykh-dii)<br>
 16:10 [В Очакові затримано військового за підозрою у вбивстві колеги по службі](https://ua.korrespondent.net/ukraine/4904727-v-ochakovi-zatrymano-viiskovoho-za-pidozroui-u-vbyvstvi-kolehy-po-sluzhbi)<br>
 15:00 [У двох областях сталися аварійні відключення](https://ua.korrespondent.net/ukraine/4904701-u-dvokh-oblastiakh-stalysia-avariini-vidkluichennia)<br>
 14:26 [У Польщі затримали українця за підозрою у замаху на оборонника](https://ua.korrespondent.net/world/4904692-u-polschi-zatrymaly-ukraintsia-za-pidozroui-u-zamakhu-na-oboronnyka)<br>
@@ -40,11 +45,15 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:59 [Caballero Bonald, el centenario del hombre apacible](https://www.elperiodico.com/es/opinion/20260820/caballero-bonald-centenario-hombre-apacible-133522238)<br>
+17:48 [Muere un bañista en la playa de Levante de Cunit con bandera roja](https://www.elperiodico.com/es/sucesos/20260820/muere-banista-playa-levante-cunit-bandera-roja-133522098)<br>
+17:47 [La ley de la selva](https://www.elperiodico.com/es/opinion/20260820/ley-selva-133521584)<br>
 17:40 [Actuación de los bomberos tras el paso del temporal de viento y lluvia en Alzira (Valencia) esta tarde](https://www.elperiodico.com/es/videos/sucesos/actuacion-bomberos-paso-temporal-viento/133521984.shtml)<br>
 17:35 [Cierran varias piscinas de Caribe Aquatic Park en PortAventura por la presencia de excrementos en el agua](https://www.elperiodico.com/es/tarragona/20260820/cierran-piscinas-caribe-aquatic-park-133520858)<br>
 17:35 [Robótica y neurosis](https://www.elperiodico.com/es/opinion/20260820/robotica-neurosis-juan-jose-millas-133505867)<br>
 17:32 [Los Mossos detienen al 'ocupa' de un piso en la calle Muntaner que amenazaba a los vecinos](https://www.elperiodico.com/es/sucesos/20260820/mossos-detienen-ocupa-piso-calle-muntaner-amenazaba-vecinos-133521462)<br>
 17:26 [Google Pixel Watch 5: el reloj que no solo marca el tiempo, también cuida de él](https://www.elperiodico.com/es/tecnologia/20260820/google-pixel-watch-5-reloj-133519431)<br>
+17:24 [Nos vemos en 2049](https://www.elperiodico.com/es/opinion/20260820/vemos-2049-133520295)<br>
 17:05 [Catalunya supera su primera semana desde noviembre sin nuevos casos positivos de peste porcina](https://www.elperiodico.com/es/economia/20260820/primera-semana-cero-casos-peste-porcina-collserola-133520024)<br>
 16:55 [Una pedrada rompe la puerta de un bus de la D20 en Barcelona y obliga a evacuar a los pasajeros](https://www.elperiodico.com/es/barcelona/20260820/pedrada-bus-d20-paralel-barcelona-133519562)<br>
 16:54 [¿Es la berberina un ‘Ozempic natural’? Esto es lo que dice la ciencia sobre su efecto para adelgazar](https://www.elperiodico.com/es/videos/sociedad/berberina-ozempic-natural-dice-ciencia/133520324.shtml)<br>
