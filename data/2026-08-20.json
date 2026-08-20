@@ -1,5 +1,77 @@
 [
   {
+    "title": "El Porsche Macan GTS que lleva un médico de urgencias donde las ambulancias no llegan",
+    "link": "https://www.elperiodico.com/es/motor/20260820/porsche-macan-gts-lleva-medico-133505917",
+    "pubDate": "2026-08-20 21:30:07",
+    "category": "",
+    "description": "<h2>El doctor John Ferris utiliza un SUV especialmente adaptado para llevar cuidados intensivos a las zonas más remotas de la región inglesa Lake District</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Crece la influencia de Israel en América Latina al compás de los nuevos gobiernos derechistas",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/crece-influencia-israel-america-latina-nuevos-gobiernos-derecha-133527306",
+    "pubDate": "2026-08-20 21:30:06",
+    "category": "",
+    "description": "<h2>La llegada al poder de Abelardo de la Espriella en Colombia y la decisión de Venezuela de reestablecer relaciones diplomáticas con Tel Aviv son apenas las últimas novedades de cambios más profundos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El temporal en Mallorca provoca que varias embarcaciones encallen en los acantilados",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/temporal-mallorca-provoca-embarcaciones-encallen/133527261.shtml",
+    "pubDate": "2026-08-20 21:24:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El FBI arresta a una mujer por planear un ataque con bomba en el Capitolio de Nueva York",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/fbi-arresta-mujer-planear-ataque-133527245",
+    "pubDate": "2026-08-20 21:23:14",
+    "category": "",
+    "description": "<h2>Jessica Bowie, de 35 años y residente en Albany, la capital del estado, está acusada de intentar proporcionar apoyo material al grupo yihadista Estado Islámico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sense Bank продадуть, кошти підуть на потреби ЗСУ - Корецький",
+    "link": "https://ua.korrespondent.net/business/financial/4904806-Sense-Bank-prodadut-koshty-pidut-na-potreby-zsu-koretskyi",
+    "pubDate": "2026-08-20 21:21:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535010.jpg\">Кошти від продажу Sense Bank, за словами Корецького, підуть на фінансування потреб Сил оборони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Провідний форвард Челсі планує залишитися в Англії",
+    "link": "https://ua.korrespondent.net/sport/football/4904803-providnyi-forvard-chelsi-planuie-zalyshytysia-v-anhlii",
+    "pubDate": "2026-08-20 21:02:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534983.jpg\">23-річний гравець має намір продовжувати виступати в англійській Прем'єр-лізі і готовий розглянути пропозиції від англійських клубів.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, viernes 21 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260820/horoscopo-hoy-viernes-21-agosto-dv-133334600",
+    "pubDate": "2026-08-20 21:00:47",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sant Cugat eleva a más de 7.000 las bajas anuales en su padrón y registra un centenar de pisos con más de 10 personas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/sant-cugat-eleva-7-000/133526908.shtml",
+    "pubDate": "2026-08-20 20:56:48",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський запровадив нові санкцій проти РФ",
     "link": "https://ua.korrespondent.net/ukraine/4904801-zelenskyi-zaprovadyv-novi-sanktsii-proty-rf",
     "pubDate": "2026-08-20 20:45:00",
@@ -27,6 +99,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Китайська Geely випускатиме свої автомобілі на європейських заводах Volvo",
+    "link": "https://ua.korrespondent.net/business/auto/4904799-kytaiska-Geely-vypuskatyme-svoi-avtomobili-na-yevropeiskykh-zavodakh-Volvo",
+    "pubDate": "2026-08-20 20:36:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534989.jpg\">Китайський холдинг хоче використати надлишкові виробничі потужності Volvo для локальної збірки моделей своїх брендів. Запуск виробництва в Європі запланований на 2028 рік і має допомогти Geely уникати імпортних мит Євросоюзу.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Fallece una mujer en una playa de A Coruña tras haber tenido problemas para salir del agua",
     "link": "https://www.elperiodico.com/es/politica/20260820/fallece-mujer-playa-coruna-haber-133526487",
     "pubDate": "2026-08-20 20:31:34",
@@ -41,6 +122,15 @@
     "pubDate": "2026-08-20 20:30:12",
     "category": "",
     "description": "<h2>Se trata de una acción muy común por la que podrías llevarte un disgusto en forma de sanción</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Електричний BMW iX3 50L перевершив офіційний запас ходу у реальному тесті",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4904797-elektrychnyi-BMW-iX3-50L-perevershyv-ofitsiinyi-zapas-khodu-u-realnomu-testi",
+    "pubDate": "2026-08-20 20:29:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534985.jpg\">На маршруті в Китаї електричний кросовер подолав близько 1030 км і після завершення поїздки зберіг 5% заряду батареї. Результат перевищив навіть оптимістичний показник CLTC на 111 км.",
     "topic": "автомобілі",
     "topic_match_probability": 100
   },
@@ -63,6 +153,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Десятки українських військових втекли під час навчання у Німеччині - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4904795-desiatky-ukrainskykh-viiskovykh-vtekly-pid-chas-navchannia-u-nimechchyni-zmi",
+    "pubDate": "2026-08-20 20:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534984.png\">За даними ЗМІ, лише у землі Саксонія-Анхальт зареєстровано близько 80 випадків дезертирства. Загалом Німеччиною може йтися про сотні військовослужбовців.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ucrania recibe con escepticismo la propuesta del exministro Fédorov de celebrar elecciones en plena guerra",
     "link": "https://www.elperiodico.com/es/internacional/20260820/ucrania-recibe-escepticismo-propuesta-fedorov-elecciones-guerra-133526004",
     "pubDate": "2026-08-20 20:05:16",
@@ -77,6 +176,15 @@
     "pubDate": "2026-08-20 19:59:46",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Збитий біля Румунії дрон ніс вибухівку",
+    "link": "https://ua.korrespondent.net/world/4904792-zbytyi-bilia-rumunii-dron-nis-vybukhivku",
+    "pubDate": "2026-08-20 19:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534966.jpg\">Уламки морського дрона, який раніше знищив румунський F-16 біля Констанци, містили вибуховий заряд. У Міноборони Румунії заявили, що апарат також не мав українського походження.",
     "topic": "",
     "topic_match_probability": 0
   },
