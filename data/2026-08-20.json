@@ -1,5 +1,86 @@
 [
   {
+    "title": "Укрзалізниця змінила маршрути поїздів через пошкодження після атаки РФ",
+    "link": "https://ua.korrespondent.net/business/companies/4904527-ukrzaliznytsia-zminyla-marshruty-poizdiv-cherez-poshkodzhennia-pislia-ataky-rf",
+    "pubDate": "2026-08-20 06:35:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534273.jpg\">Частина рейсів курсуватиме лише до Бобрика, кілька поїздів скасували. В компанії попередили також про можливі затримки протягом дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump declara la mayor \"guerra económica\" contra Irán y amenaza a todo país que permita cualquier ayuda a Teherán",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/trump-declara-mayor-guerra-economica-iran-133501386",
+    "pubDate": "2026-08-20 06:34:35",
+    "category": "",
+    "description": "<h2>La Casa Blanca busca \"aislar y derrotar la amenaza iraní\" con medidas económicas históricas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "WBC схвалила ідею бою Ф’юрі - Джошуа за статус фінального елімінатора",
+    "link": "https://ua.korrespondent.net/sport/boks/4904493-WBC-skhvalyla-ideui-boui-fuiri-dzhoshua-za-status-finalnoho-eliminatora",
+    "pubDate": "2026-08-20 06:32:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534274.jpg\">Переможець грандіозного британського протистояння стане офіційним і обов’язковим претендентом на титул чемпіона світу за версією WBC.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Confirmado por el BOE: abiertas 44 convocatorias de oposiciones para puestos de funcionario de carrera",
+    "link": "https://www.elperiodico.com/es/economia/20260820/convocatorias-oposiciones-funcionarios-carrera-nueva-publicacion-boe-dv-133447645",
+    "pubDate": "2026-08-20 06:30:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Las administraciones ofrecen oportunidades de trabajo en sectores como la seguridad, la investigación y la construcción</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260817/mili-espana-servicio-militar-ano-2008-boe-dv-133421243\">¿Servicio militar para los nacidos en 2008? El BOE aclara qué cambia realmente en España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оприлюднив свіжі дані про втрати росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4904524-henshtab-opryluidnyv-svizhi-dani-pro-vtraty-rosiian",
+    "pubDate": "2026-08-20 06:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4534251.jpg\">Загальні втрати армії Російської Федерації протягом більш як чотирьох років війни склали 1 472 640 солдатів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Guerra de Irán, en directo: Trump anuncia una ofensiva económica \"sin precedentes\" para aislar a Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-08-20 06:15:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Берінчик влаштував незвичне тренування в Карпатах",
+    "link": "https://ua.korrespondent.net/sport/boks/4904446-berinchyk-vlashtuvav-nezvychne-trenuvannia-v-karpatakh",
+    "pubDate": "2026-08-20 06:11:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4533578.jpg\">Берінчик не боксував із лютого 2025-го, коли поступився Кішону Девісу та втратив пояс WBO.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mueren siete personas a bordo de un helicóptero tras estrellarse en Kenia, seis de ellas turistas",
+    "link": "https://www.elperiodico.com/es/internacional/20260820/mueren-siete-personas-bordo-helicoptero-estrellarse-kenia-133500899",
+    "pubDate": "2026-08-20 06:08:22",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ceuta y Melilla, hoy en directo | Últimas noticias de la crisis migratoria, situación de los menores y reacciones políticas",
+    "link": "https://www.elperiodico.com/es/politica/20260820/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-08-20 06:08:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260802/ceuta-muertos-crisis-migratoria-133033736\" target=\"_blank\">El Gobierno sitúan la cifra oficial de muertos a 72, aunque otras fuentes lo elevan a más de 100</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260802/menores-crisis-ceuta-han-llegado-133026689\">Los menores, en la crisis de Ceuta: \"Han llegado miles y nadie sabe cuántos”</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Del baño de masas de Rodri a los paripés del Real Madrid: ¿qué están firmando Bernardo Silva y Florentino?",
     "link": "https://www.elperiodico.com/es/deportes/20260820/bano-masas-rodri-paripes-real-133491768",
     "pubDate": "2026-08-20 06:02:54",
@@ -52,6 +133,15 @@
     "description": "<h2>Los ayuntamientos del entorno de la capital empadronan cada vez a más vecinos en inmuebles sin cédula de habitabilidad</h2><h2>Los barrios hospitalenses de Collblanc, La Torrassa y La Florida han experimentado un incremento de esta singular casuística</h2><h2>ENTREGA 3 | <a href=\"https://www.elperiodico.com/es/barcelona/20260818/barcelona-empadrono-2025-13000-vecinos-vulnerables-sin-domicilio-fijo-133331540\" target=\"_blank\">Barcelona empadronó el pasado 2025 a unos 13.000 vecinos vulnerables sin un domicilio fijo</a></h2><h2>ENTREGA 2 | <a href=\"https://www.elperiodico.com/es/barcelona/20260818/barcelona-empadrono-2025-13000-vecinos-vulnerables-sin-domicilio-fijo-133331540\" target=\"_blank\">Barcelona 'expulsa' de su padrón a 4.230 personas en un año y medio al detectar presuntos fraudes por falsedad documental</a></h2><h2>ENTREA 1 | <a href=\"https://www.elperiodico.com/es/barcelona/20260817/pisos-decena-personas-empadronadas-cronifican-barcelona-lhospitalet-133231978\" target=\"_blank\">Los pisos con más de diez personas empadronadas se cronifican: 2.328 en Barcelona y 667 en L'Hospitalet</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno enfría la gran rebaja de tasas a todas las nucleares que esperan las eléctricas tras la ampliación de Almaraz",
+    "link": "https://www.elperiodico.com/es/economia/20260820/gobierno-enfria-rebaja-tasas-nucleares-almaraz-133483011",
+    "pubDate": "2026-08-20 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La sociedad pública Enresa realizará un “análisis jurídico y económico detallado” para el Ejecutivo, pero anticipa que la prórroga de la central cacereña no altera de forma sustancial las previsiones actuales de ingresos y costes del plan de desmantelamiento </h2><h2 class=\"item\">Las compañías energéticas calculan que la prolongación del funcionamiento de Almaraz empuja a recortar un 9,5% la tasa que pagan las centrales en función de la electricidad producida para financiar la gestión de los residuos radiactivos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "BMW, Smart y Tesla, las marcas más fiables en vehículos 100% eléctricos, según la OCU",
