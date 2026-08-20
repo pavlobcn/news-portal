@@ -1,8 +1,12 @@
-# News for 2026-08-20 12:46
+# News for 2026-08-20 13:22
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+13:18 [СБУ розкрила нові способи ухилення від мобілізації](https://ua.korrespondent.net/ukraine/4904665-sbu-rozkryla-novi-sposoby-ukhylennia-vid-mobilizatsii)<br>
+13:16 [$3000 за виїзд з України: чоловік намагався підкупити прикордонницю](https://ua.korrespondent.net/ukraine/4904661-3000-za-vyizd-z-ukrainy-cholovik-namahavsia-pidkupyty-prykordonnytsui)<br>
+13:11 [Ціни на нафту оновили максимум серпня](https://ua.korrespondent.net/business/economics/4904662-tsiny-na-naftu-onovyly-maksymum-serpnia)<br>
+12:50 [Оцінка Сеула вища за дані Трампа: скільки ядерних боєголовок має КНДР](https://ua.korrespondent.net/world/4904657-otsinka-seula-vyscha-za-dani-trampa-skilky-yadernykh-boieholovok-maie-kndr)<br>
 12:02 [Обміління Дунаю: єдина АЕС Угорщини відновлює потужності](https://ua.korrespondent.net/business/4904634-obmilinnia-dunaui-yedyna-aes-uhorschyny-vidnovluiie-potuzhnosti)<br>
 11:57 [Фермер у Туреччині натрапив на руїни давньоримської вілли](https://ua.korrespondent.net/tech/science/4904609-fermer-u-turechchyni-natrapyv-na-ruiny-davnorymskoi-villy)<br>
 11:56 [Не 250, а 500 років: у Дніпрі змінили дату заснування міста](https://ua.korrespondent.net/city/dnepr/4904632-ne-250-a-500-rokiv-u-dnipri-zminyly-datu-zasnuvannia-mista)<br>
@@ -30,6 +34,20 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:20 [El incendio de Las Hurdes alcanza las 4.800 hectáreas y concentra los trabajos en tres zonas](https://www.elperiodico.com/es/sociedad/20260820/incendio-hurdes-alcanza-4-800-hectareas-133513420)<br>
+13:14 ['O Menino d'Olho d'Água' recibe el premio al mejor documental en el In-Edit Empordà 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260820/o-menino-dolho-dagua-recibe-133506408)<br>
+13:13 [El incendio de Niebla (Huelva) queda controlado tras casi 15 días y 33.000 hectáreas quemadas](https://www.elperiodico.com/es/sociedad/20260820/incendio-niebla-huelva-queda-controlado-133512880)<br>
+13:12 [Operarios trabajan en las obras de mejora de la L1 del metro de Barcelona entre las paradas de Mercat Nou y Santa Eulàlia](https://www.elperiodico.com/es/fotos/barcelona/operarios-obras-mejora-l1-metro-barcelona-mercat-nou-santa-eulalia-fotos-133512766)<br>
+13:10 [Los ganadores del concurso de decorados de las fiestas de Gràcia: “No nos lo creemos, las plazas lo tenemos más complicado”](https://www.elperiodico.com/es/videos/barcelona/ganadores-concurso-decorados-fiestas-gracia/133512492.shtml)<br>
+13:10 [Jordi Sargatal: "La energía fotovoltaica y la eólica nos hacen falta, pero con sentido común; no pondremos molinos de viento en Montserrat"](https://www.elperiodico.com/es/sociedad/20260820/jordi-sargatal-energia-fotovoltaica-eolica-133511006)<br>
+13:08 [Alsa se afianza como baluarte de Mobico tras la venta del negocio de buses locales de Reino Unido](https://www.elperiodico.com/es/economia/20260820/alsa-afianza-baluarte-mobico-venta-133512450)<br>
+13:07 [El precio del euríbor hoy, 20 de agosto: la llegada de buenas noticias se pospone un día más](https://www.elperiodico.com/es/economia/20260820/precio-euribor-hoy-20-agosto-dv-133511651)<br>
+13:05 [La japonesa Nipro invertirá 25 millones en una nueva planta en Lleida](https://www.elperiodico.com/es/economia/20260820/japonesa-nipro-invertira-25-millones-133511848)<br>
+13:02 [Una nueva terapia reduce un 30% el riesgo de progresión o muerte en el cáncer de riñón más común](https://www.elperiodico.com/es/sociedad/20260820/terapia-reduce-riesgo-muerte-cancer-rinon-133510796)<br>
+12:59 [Crítica de 'El motín': nueva e insustancial muestra de las habilidades de Jason Statham como estrella del cine de acción](https://www.elperiodico.com/es/ocio-y-cultura/20260820/critica-el-motin-jason-statham-heroe-accion-133493447)<br>
+12:56 [Una jubilada de 70 años crea su propio pueblo de minicasas pensado para mujeres: cuestan 129.000 euros y 500 personas esperan para vivir allí](https://www.elperiodico.com/es/economia/20260820/jubilada-70-anos-crea-propio-pueblo-minicasas-dv-et-133511924)<br>
+12:52 [Corea del Norte lanza 10 misiles balísticos hacia el mar de Japón](https://www.elperiodico.com/es/videos/internacional/corea-norte-lanza-10-misiles/133511739.shtml)<br>
+12:51 [El tramo en obras de la L1 del metro de Barcelona reabrirá el 29 de agosto tras la renovación de vías: "Se reducirán las incidencias y las vibraciones"](https://www.elperiodico.com/es/barcelona/20260820/tramo-obras-l1-metro-barcelona-reabrira-29-agosto-renovacion-vias-reduciran-incidencias-vibraciones-133510034)<br>
 12:45 [Una jubilada de 70 años crea su propio pueblo de minicasas pensado para mujeres: cuestan 129.000 euros y 500 personas esperan para vivir allí](https://www.elperiodico.com/es/economia/20260820/jubilada-70-anos-crea-propio-pueblo-minicasas-dv-et-133511056)<br>
 12:44 [Catalunya eleva los avisos por lluvia ante los chubascos previstos desde este jueves por la tarde hasta el fin de semana](https://www.elperiodico.com/es/videos/sociedad/catalunya-eleva-avisos-lluvia-chubascos-jueves-fin-semana-video/133511322.shtml)<br>
 12:38 [¿Qué es la berberina? El suplemento conocido como el 'Ozempic natural'](https://www.elperiodico.com/es/sanidad/20260820/berberina-suplemento-alimenticio-ozempic-natural-adelgazar-133506936)<br>
