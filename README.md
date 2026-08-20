@@ -1,8 +1,9 @@
-# News for 2026-08-20 18:56
+# News for 2026-08-20 19:35
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+19:03 [Підпал оборонної компанії в Естонії: у Латвії взяли під варту трьох людей](https://ua.korrespondent.net/world/4904782-pidpal-oboronnoi-kompanii-v-estonii-u-latvii-vzialy-pid-vartu-trokh-luidei)<br>
 18:19 [Курс євро оновив історичний рекорд в Україні](https://ua.korrespondent.net/business/financial/4904774-kurs-yevro-onovyv-istorychnyi-rekord-v-ukraini)<br>
 18:04 [Huawei представила перший широкоформатний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4904766-Huawei-predstavyla-pershyi-shyrokoformatnyi-smartfon)<br>
 17:59 [У Японії потяг на смерть збив чотирьох робітників](https://ua.korrespondent.net/world/4904763-u-yaponii-potiah-na-smert-zbyv-chotyrokh-robitnykiv)<br>
@@ -46,6 +47,11 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:30 [Maribel deja Barcelona para poner en marcha una comunidad autosuficiente en la naturaleza: "Hemos querido generar un espacio donde nosotros podamos ser"](https://www.elperiodico.com/es/economia/20260820/comunidad-autosuficiente-naturaleza-arbucies-cataluna-maribel-gonzalez-torres-dv-loc-et-133230714)<br>
+19:19 [Catalunya, en alerta por temporal de lluvia, viento y granizo hasta el sábado](https://www.elperiodico.com/es/sociedad/20260820/catalunya-alerta-temporal-lluvia-viento-granizo-133524612)<br>
+19:15 [No te confíes con las capturas de pantalla: podrían perjudicar tu memoria y hacer que olvides más información](https://www.elperiodico.com/es/tendencias21/20260820/confies-capturas-pantalla-perjudicar-memoria-133524772)<br>
+19:08 [Un niño, grave al caer de un tercer piso por el incendio en una vivienda en Navarra](https://www.elperiodico.com/es/sucesos/20260820/nino-grave-caer-tercer-piso-133524539)<br>
+18:57 [Una tormenta de alto riesgo azota la Comunidad Valenciana](https://www.elperiodico.com/es/videos/sucesos/tormenta-alto-riesgo-azota-comunidad-valenciana/133524244.shtml)<br>
 18:31 [Los epidemiólogos piden entornos seguros para proteger de la violencia sexual a mujeres y niñas migrantes en Ceuta](https://www.elperiodico.com/es/sociedad/20260820/medicos-piden-proteger-mujeres-migrantes-ceuta-violencia-sexual-133513994)<br>
 18:30 [Adiós a las cucarachas: los remedios caseros que pueden evitar que entren en casa](https://www.elperiodico.com/es/vida-y-estilo/20260820/adios-cucarachas-remedios-caseros-casa-dv-133509622)<br>
 18:28 [Dos incidencias obligan a cortar los Rodalies de la R8 entre Rubí y Castellbisbal y la RL4 entre Calaf y Manresa](https://www.elperiodico.com/es/sociedad/20260820/incidencias-cortada-r8-rubi-castellbisbal-rl4-calaf-manresa-renfe-rodalies-133522527)<br>
