@@ -1,8 +1,10 @@
-# News for 2026-08-20 22:39
+# News for 2026-08-20 23:40
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+22:59 [Україна впровадила санкції проти авторів мультсеріалу Маша і Ведмідь](https://ua.korrespondent.net/ukraine/4904824-ukraina-vprovadyla-sanktsii-proty-avtoriv-multserialu-masha-i-vedmid)<br>
+22:54 [Велике повернення. Гаррі і Меган їдуть в Британію](https://ua.korrespondent.net/world/4904817-velyke-povernennia-harri-i-mehan-yidut-v-brytaniui)<br>
 21:36 [Свята 21 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4904783-sviata-21-serpnia-2026-roku-istoriia-tradytsii)<br>
 21:21 [Sense Bank продадуть, кошти підуть на потреби ЗСУ - Корецький](https://ua.korrespondent.net/business/financial/4904806-Sense-Bank-prodadut-koshty-pidut-na-potreby-zsu-koretskyi)<br>
 20:20 [Десятки українських військових втекли під час навчання у Німеччині - ЗМІ](https://ua.korrespondent.net/world/4904795-desiatky-ukrainskykh-viiskovykh-vtekly-pid-chas-navchannia-u-nimechchyni-zmi)<br>
@@ -53,6 +55,7 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:44 [El terremoto de Perú se percibió "fuerte", pero no se reportan daños hasta el momento](https://www.elperiodico.com/es/videos/internacional/terremoto-peru-percibio-fuerte-reportan/133528075.shtml)<br>
 22:26 [Faltan unicornios](https://www.elperiodico.com/es/opinion/20260820/faltan-unicornios-133527706)<br>
 21:42 [Juan Carlos I viaja a Barcelona para despedir a su amigo José Cusí](https://www.elperiodico.com/es/sociedad/20260820/juan-carlos-viaja-barcelona-despedir-133527464)<br>
 21:42 [Cierran varias piscinas de Caribe Aquatic Park en PortAventura por la presencia de excrementos en el agua](https://www.elperiodico.com/es/videos/sociedad/cierran-piscinas-caribe-aquatic-park/133527452.shtml)<br>
