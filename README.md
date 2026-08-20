@@ -1,8 +1,11 @@
-# News for 2026-08-20 11:28
+# News for 2026-08-20 12:03
 
 Previous day: [2026-08-19](./data/2026-08-19.md)
 
 ## ua.korrespondent.net
+11:57 [Фермер у Туреччині натрапив на руїни давньоримської вілли](https://ua.korrespondent.net/tech/science/4904609-fermer-u-turechchyni-natrapyv-na-ruiny-davnorymskoi-villy)<br>
+11:56 [Не 250, а 500 років: у Дніпрі змінили дату заснування міста](https://ua.korrespondent.net/city/dnepr/4904632-ne-250-a-500-rokiv-u-dnipri-zminyly-datu-zasnuvannia-mista)<br>
+11:30 [Курс долара впав у обмінниках, євро зростає](https://ua.korrespondent.net/business/financial/4904622-kurs-dolara-vpav-u-obminnykakh-yevro-zrostaie)<br>
 11:15 [Новий Людина-павук принесе Голланду рекордні $100 млн](https://ua.korrespondent.net/showbiz/cinema/4904593-novyi-luidyna-pavuk-prynese-hollandu-rekordni-100-mln)<br>
 10:46 [Росіян зобов'язали маркувати курей і звітувати про поголів'я](https://ua.korrespondent.net/world/russia/4904604-rosiian-zoboviazaly-markuvaty-kurei-i-zvituvaty-pro-poholivia)<br>
 10:46 [Колумбія оголосила надзвичайний стан в економіці після потужного землетрусу](https://ua.korrespondent.net/world/4904605-kolumbiia-oholosyla-nadzvychainyi-stan-v-ekonomitsi-pislia-potuzhnoho-zemletrusu)<br>
@@ -23,6 +26,12 @@ Previous day: [2026-08-19](./data/2026-08-19.md)
 06:47 [Sara Okeke y el camino hacia USC](https://as.com/baloncesto/nba/para-papel-sara-okeke-y-el-laberinto-hacia-usc-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:01 [Un helicóptero, drones y la Guardia Civil buscan a un león supuestamente avistado en Toledo](https://www.elperiodico.com/es/videos/sociedad/helicoptero-drones-guardia-civil-buscan-leon-avistado-toledo-video/133509421.shtml)<br>
+12:00 [Lara Ferreiro, psicóloga, avisa: "Disfrutar del verano no significa estar feliz las 24 horas del día"](https://www.elperiodico.com/es/ser-feliz/20260820/verano-estacion-favorita-lara-ferreiro-psicologa-salud-menta-dv-et-133293022)<br>
+11:58 [Reus amplía cinco líneas de bus para mejorar el servicio a los institutos en el nuevo curso](https://www.elperiodico.com/es/tarragona/20260820/reus-amplia-cinco-lineas-bus-servicio-institutos-133508997)<br>
+11:47 [Catalunya eleva los avisos por lluvia ante los chubascos previstos desde este jueves por la tarde hasta el fin de semana](https://www.elperiodico.com/es/sociedad/20260820/cataluna-avisos-lluvia-chubascos-meteocat-jueves-fin-semana-133507312)<br>
+11:41 [Salou recuperará el 6 de septiembre los actos de las Nits Daurades 2026 suspendidos por la alerta roja del Inuncat](https://www.elperiodico.com/es/tarragona/20260820/salou-recuperara-proximo-septiembre-nits-daurades-133508343)<br>
+11:36 [Hijos que viven en la segunda residencia de sus padres: ¿donación o préstamo gratuito?](https://www.elperiodico.com/es/economia/20260820/hijos-viven-segunda-residencia-padres-donacion-prestamo-gratutito-dv-133506809)<br>
 11:27 [Barbie convierte a Marilyn Monroe en muñeca por su centenario: así es el homenaje a su 'look' más icónico](https://www.elperiodico.com/es/gente/20260820/barbie-marilyn-monroe-muneca-centenario-133507659)<br>
 11:24 [Crítica de 'El coro de Praga': drama sobre la rivalidad entre dos hermanas y los abusos de poder](https://www.elperiodico.com/es/ocio-y-cultura/20260820/critica-el-coro-de-praga-drama-checo-rivalidad-133494042)<br>
 11:11 [Spanair: La tragedia del JK5022, 18 años sin olvido](https://www.elperiodico.com/es/sociedad/20260820/spanair-tragedia-jk5022-18-anos-133507421)<br>
