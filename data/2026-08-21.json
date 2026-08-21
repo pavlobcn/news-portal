@@ -1,5 +1,149 @@
 [
   {
+    "title": "México documenta al menos 58 fosas clandestinas vinculadas con feminicidios",
+    "link": "https://www.elperiodico.com/es/videos/internacional/mexico-documenta-58-fosas-clandestinas/133544890.shtml",
+    "pubDate": "2026-08-21 14:02:45",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos controlarán el acto en Barcelona de Save Europe Act para evitar incitaciones \"al odio\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260821/mossos-controlaran-acto-barcelona-save-europe-mossos-fiscalia-odio-133544601",
+    "pubDate": "2026-08-21 14:02:12",
+    "category": "",
+    "description": "<h2>Los agentes podrían iniciar diligencias ante un posible delito y denunciarlo a la fiscalía si encuentran algún símbolo o pancarta que promueva ataques por razones de etnia, raza o nación</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260821/que-es-save-europe-act-campana-supremacistas-blancos-deportaciones-masivas-inmigrantes-133531591\">¿Qué es la Save Europe Act? 5 claves de la campaña liderada por supremacistas blancos que defiende las deportaciones masivas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Rescatados dos adultos y un bebé de una embarcación averiada frente la costa de Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260821/rescatados-adultos-bebe-embarcacion-averiada-costa-tarragona-133544198",
+    "pubDate": "2026-08-21 13:56:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Una embarcación recreativa quedó a la deriva a media milla del puierto de Sant Jordi d'Alfama, poniendo en riesgo a sus tres ocupantes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Otro revés en el juicio por la muerte de Maradona: confundieron sus estudios clínicos con los de su padre",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/reves-juicio-muerte-maradona-confundieron-133542909",
+    "pubDate": "2026-08-21 13:49:45",
+    "category": "",
+    "description": "<h2>La Junta Médica Interdisciplinaria, creada en 2021 para analizar el expediente del juicio, incluyó por error estudios clínicos de su padre, que se llamaba igual que su hijo y había fallecido en 2015</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "1.200 drones de colores formarán figuras de Harry Potter en el cielo de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260821/harry-potter-1200-drones-barcelona-133542816",
+    "pubDate": "2026-08-21 13:47:39",
+    "category": "",
+    "description": "<h2>El Parc del Fòrum acogerá en octubre un espectáculo al aire libre con música de las películas y un violinista eléctrico</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260821/bar-viral-barcelona-convent-sant-agusti-vuelta-133461716\" >Barcelona desencalla el encantador bar bajo las bóvedas de Sant Agustí Vell</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260821/calle-mas-cara-catalunya-barcelona-6-millones-vivienda-133540537\" >Esta es la calle más cara de Catalunya: comprar una vivienda cuesta casi 6 millones de media</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Nueve detenidos por vender más de 5.000 productos falsos en Salou y Lloret de Mar",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/nueve-detenidos-vender-productos-falsos-salou-lloret-video/133544200.shtml",
+    "pubDate": "2026-08-21 13:44:01",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El problemón de cubrir en Ibiza y Formentera las plazas de docentes de catalán",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/problema-profesores-catalan-ibiza-133544051",
+    "pubDate": "2026-08-21 13:39:27",
+    "category": "",
+    "description": "<h2>La falta de profesores se agrava por la insularidad y la dificultad de acceso a la vivienda, problemas que persisten desde hace 30 años, según los sindicatos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "México documenta al menos 58 fosas clandestinas vinculadas con feminicidios entre 2020 y 2024",
+    "link": "https://www.elperiodico.com/es/internacional/20260821/mexico-documenta-58-fosas-clandestinas-feminicidios-133544008",
+    "pubDate": "2026-08-21 13:37:36",
+    "category": "",
+    "description": "<h2>Un informe analiza la crisis de violencia contra las mujeres en el país norteamericano, que acumula más de 134.000 denuncias de personas desaparecidas y más de 83.000 restos humanos sin identificar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tragedia en el Pirineo oscense: mueren un estadounidense y un francés en la montaña",
+    "link": "https://www.elperiodico.com/es/sucesos/20260821/tragedia-pirineo-oscense-estadounidense-frances-montana-huesca-133543997",
+    "pubDate": "2026-08-21 13:37:06",
+    "category": "",
+    "description": "<h2>La Guardia Civil ha intervenido durante varios días consecutivos en numerosos accidentes de montaña registrados en zonas como Monte Perdido, Ordesa, Benasque, Panticosa, Bielsa o Canfranc. Dos de las actuaciones terminaron con el fallecimiento de sendos senderistas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aragonès reivindica el catalanismo \"inclusivo\" frente a los \"populismos excluyentes\"",
+    "link": "https://www.elperiodico.com/es/politica/20260821/aragones-reivindica-catalanismo-inclusivo-frente-populismos-excluyentes-133537507",
+    "pubDate": "2026-08-21 13:35:05",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260820/quim-torra-renovacion-lideres-independentismo-dirigentes-creibles-uce-133520192\" target=\"_blank\">Torra aboga por la renovación de líderes en el independentismo para que sus dirigentes vuelvan a ser \"creíbles\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260819/jordi-turull-junts-batallar-alianca-catalana-odio-vision-alejan-independencia-uce-133487378\" target=\"_blank\">Turull llama a \"batallar\" contra Aliança Catalana: \"El odio y la división nos alejan de la independencia\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La terapia hormonal con estrógenos reduce el riesgo de demencia, según un estudio",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/terapia-hormonal-reduce-riesgo-demencia-133540635",
+    "pubDate": "2026-08-21 13:33:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La investigación ha analizado datos de más de 21.000 mujeres que han tomado estrógenos si bien en pautas diferentes a los estándares actuales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260121/terapia-hormonas-menopausia-eeuu-retirada-advertencias-riesgo-cancer-125448142\" target=\"_blank\">La terapia hormonal en la menopausia toma impulso tras retirar EEUU el aviso sobre su vínculo con el cáncer</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En video | Así actúa la Guardia Civil durante un rescate",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-actua-guardia-civil-durante/133543859.shtml",
+    "pubDate": "2026-08-21 13:33:05",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Estamos asistiendo al principio de la caída de los 'influencers'?",
+    "link": "https://www.elperiodico.com/es/gente/20260821/caida-influencers-burbuja-desinfla-opiniones-controvertidas-133490329",
+    "pubDate": "2026-08-21 13:30:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Algunas polémicas recientes sobre inmigración, eclipses y críticas sociales avivan la llamada a un bloqueo masivo de creadores de contenido</h2><h2 class=\"item\">Un estudio confirma que el 69,8% de los seguidores de 'influencers' cree que existe un uso o abuso de la publicidad encubierta, el 61,9% considera que la mayoría de sus publicaciones son de carácter publicitario y el 45,7% considera que su credibilidad está disminuyendo</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La 'ciudad' de Shakira en Madrid para su residencia de doce conciertos empieza a tomar forma",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/ciudad-shakira-madrid-residencia-doce-conciertos-toma-forma-fotos-133543639",
+    "pubDate": "2026-08-21 13:30:10",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nueve detenidos por vender más de 5.000 productos falsos en Salou y Lloret de Mar",
+    "link": "https://www.elperiodico.com/es/sucesos/20260821/nueve-detenidos-vender-5-000-133543323",
+    "pubDate": "2026-08-21 13:27:22",
+    "category": "",
+    "description": "<h2>En su mayoría eran camisetas de fútbol, complementos y procutos téxtiles</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sánchez designa al ministro Ángel Víctor Torres como coordinador de la respuesta a la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260821/sanchez-designa-ministro-torres-coordinador-ceuta-133542418",
+    "pubDate": "2026-08-21 13:25:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El titular de Política Territorial recabará información de más de cinco ministerios y armonizará el trabajo de todos ellos</h2><h2 class=\"item\">Interior, Asuntos Exteriores, Defensa, Inclusión y Juventud e Infancia, entre otros, trabajan para que la ciudad vuelva a la normalidad </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260821/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\">Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260821/gobierno-congelo-plan-seguridad-ceuta-melilla-giro-relaciones-marruecos-133526180\">El Gobierno congeló el Plan de Seguridad para Ceuta y Melilla tras su giro con Marruecos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La presidenta del Poder Judicial anuncia su intención de reunirse con Vivas \"a la mayor brevedad posible\"",
     "link": "https://www.elperiodico.com/es/politica/20260821/presidenta-judicial-perello-vivas-ceuta-migracion-crisis-133543304",
     "pubDate": "2026-08-21 13:21:20",
@@ -14,6 +158,15 @@
     "pubDate": "2026-08-21 13:20:20",
     "category": "",
     "description": "<h2>El líder de ERC defiende una identitat catalana inclusiva que no ponga \"barreras ni límites\" ante los que predican \"odio y amenazas\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260820/quim-torra-renovacion-lideres-independentismo-dirigentes-creibles-uce-133520192\" target=\"_blank\">Torra aboga por la renovación de líderes en el independentismo para que sus dirigentes vuelvan a ser \"creíbles\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260819/jordi-turull-junts-batallar-alianca-catalana-odio-vision-alejan-independencia-uce-133487378\" target=\"_blank\">Turull llama a \"batallar\" contra Aliança Catalana: \"El odio y la división nos alejan de la independencia\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Junqueras considera que Catalunya no está preparada para tener \"muchos más habitantes\"",
+    "link": "https://www.elperiodico.com/es/politica/20260821/oriol-junqueras-catalunya-viable-10-millones-habitantes-extrema-derecha-uce-133541559",
+    "pubDate": "2026-08-21 13:20:20",
+    "category": "",
+    "description": "<h2>El líder de ERC defiende una identitat catalana inclusiva y la \"política útil\" ante el \"odio y amenazas\" de la extrema derecha</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260820/quim-torra-renovacion-lideres-independentismo-dirigentes-creibles-uce-133520192\" target=\"_blank\">Torra aboga por la renovación de líderes en el independentismo para que sus dirigentes vuelvan a ser \"creíbles\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260819/jordi-turull-junts-batallar-alianca-catalana-odio-vision-alejan-independencia-uce-133487378\" target=\"_blank\">Turull llama a \"batallar\" contra Aliança Catalana: \"El odio y la división nos alejan de la independencia\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 100
   },
