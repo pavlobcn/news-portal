@@ -1,5 +1,149 @@
 [
   {
+    "title": "Barcelona vive una noche 5 grados más 'fresca' que la anterior: de tórrida a tropical en gran parte de la ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20260821/barcelona-noche-calor-temperaturas-133533755",
+    "pubDate": "2026-08-21 08:31:46",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260821/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728\">DIRECTO | Siga la última hora del tiempo en Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Дніпропетровщині БПЛА спричинили пожежі в трьох районах",
+    "link": "https://ua.korrespondent.net/ukraine/4904876-na-dnipropetrovschyni-bpla-sprychynyly-pozhezhi-v-trokh-raionakh",
+    "pubDate": "2026-08-21 08:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535260.jpg\">На місцях влучань є пошкодження та пожежі, однак, за попередніми даними, обійшлося без постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Тоттенгем погодив перехід вінгера Манчестер Сіті",
+    "link": "https://ua.korrespondent.net/sport/football/4904874-tottenhem-pohodyv-perekhid-vinhera-manchester-siti",
+    "pubDate": "2026-08-21 08:28:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535259.jpg\">Клуби дійшли згоди щодо переходу 22-річного нападника, який найближчим часом приєднається до складу \"шпор\".",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мільйонний спадок Панеттьєрі: кому дістануться її статки",
+    "link": "https://ua.korrespondent.net/lifestyle/4904815-milionnyi-spadok-panettieri-komu-distanutsia-yii-statky",
+    "pubDate": "2026-08-21 08:26:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535027.jpg\">Експерти розкрили юридичні тонкощі розділу майна Гайден Панеттьєрі, єдиною прямою спадкоємицею якої є її 11-річна донька Кая-Євдокія від Володимира Кличка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрони атакували один з найбільших НПЗ Росії - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4904875-drony-atakuvaly-odyn-z-naibilshykh-npz-rosii-sotsmerezhi",
+    "pubDate": "2026-08-21 08:24:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535258.png\">Безпілотники атакували російську Перм, де знаходиться НПЗ Лукойл-Пермнафтооргсинтез. У районі підприємства було чути серію вибухів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El incendio de Las Hurdes afronta una jornada clave para consolidar el perímetro tras contener su avance",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/incendio-hurdes-fuego-extremadura-cecopi-perimetro-133534204",
+    "pubDate": "2026-08-21 08:19:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Los 163 efectivos desplegados durante la madrugada se han centrado en los puntos calientes de Horcajo, el río Malvellido y el sector de El Gasco próximo a Castilla y León</h2><h2 class=\"item\">La mejoría ha permitido el regreso a Aceitunilla, Erías y Cerezal, mientras la superficie afectada se ha revisadoa la baja hasta las 4.250 hectáreas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака РФ: ППО знищила більшість цілей, є влучання",
+    "link": "https://ua.korrespondent.net/ukraine/4904872-ataka-rf-ppo-znyschyla-bilshist-tsilei-ye-vluchannia",
+    "pubDate": "2026-08-21 08:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535249.jpg\">Росія атакувала Україну 135 ударними безпілотниками різних типів. Сили ППО знешкодили 107 ворожих БпЛА, однак зафіксовано влучання 27 дронів на 16 локаціях.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Flick tendrá en el Barça el nueve que pedía",
+    "link": "https://www.elperiodico.com/es/videos/deportes/flick-tendra-barca-nueve-pedia-video/133533949.shtml",
+    "pubDate": "2026-08-21 08:12:52",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El VII IBIZA WELLNESS WEEKEND 2026 reúne a grandes talentos del bienestar y la sostenibilidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/vii-ibiza-wellness-weekend-2026-bc-133533956",
+    "pubDate": "2026-08-21 08:12:13",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El IBIZA WELLNESS WEEKEND 2026, en su 7ª edición, se consolida como uno de los festivales wellness más grandes de España y del mediterráneo, que se celebra durante 3 días y espera reunir este año a más de 1.000 personas, con un programa lleno de actividades en torno al bienestar. Grandes talentos wellness, turismo activo en naturaleza, cultura, música, alta gastronomía km0 y sostenibilidad, son sus ingredientes principales.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unai, fontanero: \"Un buen oficial, ya sea fontanero, electricista o carpintero, que tenga su clientela propia, puede estar ganando de 3.000 a 10.000 euros al mes fácilmente\"",
+    "link": "https://www.elperiodico.com/es/economia/20260821/unai-fontanero-buen-oficial-carpintero-electricista-3000-10000-euros-mes-dv-et-133339268",
+    "pubDate": "2026-08-21 08:10:00",
+    "category": "",
+    "description": "<h2>El profesional asegura que \"una persona que sea buena en su oficio puede ganar más que un arquitecto, un ingeniero o un médico\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260819/rodri-electricista-gente-gasta-4000-euros-sofa-instalacion-electrica-dv-et-133169633\">Rodri, electricista: \"La gente se gasta 4.000 euros en un sofá, pero le cuesta hacerlo en una instalación eléctrica porque no se ve\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cinco nuevos terremotos marcan la madrugada en Granada",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/cinco-nuevos-terremotos-marcan-madrugada-granada-133533892",
+    "pubDate": "2026-08-21 08:06:33",
+    "category": "",
+    "description": "<h2>Dos de los temblores de 2,2 y 2,4 grados de magnitud y epicentro en Armilla y Ogíjares, han podido ser sentidos por la población</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "238 боєзіткнень: Генштаб оновив дані про фронт",
+    "link": "https://ua.korrespondent.net/ukraine/4904866-238-boiezitknen-henshtab-onovyv-dani-pro-front",
+    "pubDate": "2026-08-21 08:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535233.jpg\">Найбільше штурмів ворог здійснив на Покровському, Костянтинівському та Гуляйпільському напрямках.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "'Días de cine' analiza este sábado la obra del influyente Fritz Lang y homenajea a Mark Rydell",
+    "link": "https://www.elperiodico.com/es/tele/20260821/dias-cine-analiza-obra-fritz-lang-133519877",
+    "pubDate": "2026-08-21 08:00:58",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Maxus renueva la eDeliver 9: más autonomía, mejor equipamiento y mayor capacidad de remolque",
+    "link": "https://www.elperiodico.com/es/motor/20260821/maxus-edeliver-9-renovada-133509036",
+    "pubDate": "2026-08-21 08:00:58",
+    "category": "",
+    "description": "<h2>El comercial de cero emisiones optimiza su sistema de propulsión para alcanzar hasta 328 km de alcance WLTP, eleva su capacidad de arrastre a 2.000 kg y fija su precio de partida en los 36.624 euros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Українець забив четвертий гол за Андерлехт у ЛЄ",
+    "link": "https://ua.korrespondent.net/sport/football/4904870-ukrainets-zabyv-chetvertyi-hol-za-anderlekht-u-lie",
+    "pubDate": "2026-08-21 07:58:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535247.jpg\">Український форвард забив гол і допоміг своїй команді розгромити Кайрат у виїзному матчі з рахунком 3:0.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España pierde buena parte de su crecimiento del PIB a causa del calor extremo",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260821/espana-pierde-buena-parte-crecimiento-133533765",
+    "pubDate": "2026-08-21 07:55:45",
+    "category": "",
+    "description": "<h2>Un estudio económico señala que la UE perderá unos 180.000 millones de euros por este fenómeno</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Ulrich (68 años) vive en condiciones extremas sin luz, gas ni agua corriente: \"Las necesidades son artificiales; se crean intencionadamente para generar más consumo y mayor circulación de dinero\"",
     "link": "https://www.elperiodico.com/es/economia/20260821/vive-solo-condiciones-extremas-sin-agua-electricidad-dolomitas-italia-ulrich-dv-et-133462256",
     "pubDate": "2026-08-21 07:50:30",
