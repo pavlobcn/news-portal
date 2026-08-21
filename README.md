@@ -1,8 +1,10 @@
-# News for 2026-08-21 16:47
+# News for 2026-08-21 17:19
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+16:52 [Ебола поширюється в геометричній прогресії: в Конго вже понад 2500 жертв](https://ua.korrespondent.net/world/4905080-ebola-poshyruiietsia-v-heometrychnii-prohresii-v-konho-vzhe-ponad-2500-zhertv)<br>
+16:45 [Актер та його собака відвідали прем’єру Сузір’я великого пса](https://ua.korrespondent.net/showbiz/cinema/4905059-akter-ta-yoho-sobaka-vidvidaly-premieru-suziria-velykoho-psa)<br>
 16:24 [Під Києвом чоловік влаштував стрілянину в супермаркеті](https://ua.korrespondent.net/ukraine/4905062-pid-kyievom-cholovik-vlashtuvav-strilianynu-v-supermarketi)<br>
 15:55 [У нацпарку на Одещині виявили нові тіла дельфінів](https://ua.korrespondent.net/ukraine/4905055-u-natsparku-na-odeschyni-vyiavyly-novi-tila-delfiniv)<br>
 15:47 [Вчені розкрили моторошну таємницю піраміди Уака Пукльяна](https://ua.korrespondent.net/tech/science/4905031-vcheni-rozkryly-motoroshnu-taiemnytsui-piramidy-uaka-pukliana)<br>
@@ -40,6 +42,11 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:15 [Los expertos desmontan el mito del mes de vacaciones: "Entre 8 y 15 días es lo ideal"](https://www.elperiodico.com/es/sociedad/20260821/expertos-desmontan-mito-vacaciones-mejor-descansos-cortos-dv-et-133362051)<br>
+17:02 [La madre de Rodolfo Sancho, Noela Aguirre, rompe su silencio ante la inminente sentencia de su nieto Daniel Sancho](https://www.elperiodico.com/es/gente/20260821/madre-rodolfo-sancho-noela-aguirre-133549836)<br>
+17:00 [Una presunta agresión sexual a unas chicas empaña el tramo final de la Fiesta Mayor de Gràcia](https://www.elperiodico.com/es/barcelona/20260821/barcelona-agresion-sexual-fiestas-gracia-protestas-133549495)<br>
+16:58 [El eclipse impulsó las compras de extranjeros en las zonas de España en que el fenómeno fue total](https://www.elperiodico.com/es/economia/20260821/eclipse-impulso-compras-extranjeros-espana-bbva-research-133549767)<br>
+16:55 [Ridley Scott encierra a Jacob Elordi en un mundo arrasado que recuerda al covid: "Están pasando cosas, ¿la gente no ve las noticias?"](https://www.elperiodico.com/es/ocio-y-cultura/20260821/ridley-scott-encierra-jacob-elordi-mundo-arrasado-recuerda-covid-constelacion-perro-133548964)<br>
 16:43 [La Guardia Urbana detiene a un hombre por apuñalar a otro en la Rambla del Raval y busca a otro sospechoso](https://www.elperiodico.com/es/sucesos/20260821/guardia-urbana-detiene-hombre-apunalar-rambla-raval-herido-arma-blanca-133549182)<br>
 16:38 [Un estudio descubre las primeras pistas genéticas del trastorno límite de la personalidad](https://www.elperiodico.com/es/sociedad/20260821/trastorno-limite-personalidad-pistas-geneticas-133548329)<br>
 16:22 [La recomendación de la OCU a los afectados por los terremotos de Granada: "Comunícalo"](https://www.elperiodico.com/es/sociedad/20260821/recomendacion-ocu-afectados-terremotos-granada-dv-133548353)<br>
