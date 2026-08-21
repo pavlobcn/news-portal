@@ -1,4 +1,4 @@
-# News for 2026-08-21 21:03
+# News for 2026-08-21 21:36
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
@@ -47,6 +47,7 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:29 [El príncipe Enrique y otras celebridades deberán pagar 11 millones de euros a la editora de Daily Mail](https://www.elperiodico.com/es/internacional/20260821/principe-enrique-celebridades-deberan-pagar-133556389)<br>
 21:00 [No todo el oro brilla en Venezuela: afloran los interrogantes sobre el destino de 58 toneladas 'desaparecidas'](https://www.elperiodico.com/es/internacional/20260821/oro-venezuela-interrogantes-destino-toneladas-desaparecidas-133555997)<br>
 20:51 [Estabilizado el incendio forestal en Las Hurdes (Cáceres)](https://www.elperiodico.com/es/sociedad/20260821/estabilizado-incendio-forestal-hurdes-caceres-133555816)<br>
 20:40 [El humo y el cambio climático](https://www.elperiodico.com/es/opinion/20260821/humo-cambio-climatico-133555385)<br>
