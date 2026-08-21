@@ -1,5 +1,77 @@
 [
   {
+    "title": "La portada de EL PERIÓDICO del 22 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/portada-periodico-22-agosto-2026-133557909",
+    "pubDate": "2026-08-21 23:24:38",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Львові сталася стрілянина",
+    "link": "https://ua.korrespondent.net/city/lvov/4905172-u-lvovi-stalasia-strilianyna",
+    "pubDate": "2026-08-21 23:21:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535754.jpg\">Попередньо, працівники ТЦК перевіряли дані у чоловіка, після чого він ножем поранив одного з військовослухбовців.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un sólido Betis arranca la Liga con victoria ante una Real sin suerte",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/solido-betis-arranca-liga-victoria-133557829",
+    "pubDate": "2026-08-21 23:19:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El cuadro andaluz se llevó el triunfo con un tanto de Riquelme en un duelo atractivo y equilibrado.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Arsenal abre la Premier marcando territorio (3-0)",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/arsenal-abre-premier-marcando-territorio-133557618",
+    "pubDate": "2026-08-21 23:11:08",
+    "category": "",
+    "description": "<h2 class=\"item\">El campeón doblegó al Coventry, recién ascendido, en el primer encuentro del campeonato gracias a los goles de Havertz, Saka y Odegaard.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los triples impulsan a España",
+    "link": "https://as.com/baloncesto/mas_baloncesto/los-triples-impulsan-a-espana-f202608-n/",
+    "pubDate": "2026-08-21 23:02:30",
+    "category": "Baloncesto femenino",
+    "description": "La Selección, con un 15/27 desde la línea de 6,75, mejoró tras el descanso ante Nigeria (47-18). Iyana Martín, 15 puntos y Andrea Vilaró, 12 con 4/6 en triples.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Глава МВС Німеччини підтвердив виявлення схрону зі зброєю",
+    "link": "https://ua.korrespondent.net/world/4905170-hlava-mvs-nimechchyny-pidtverdyv-vyiavlennia-skhronu-zi-zbroieui",
+    "pubDate": "2026-08-21 23:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535736.jpg\">Схованку використовувала російська розвідка для проведення \"кінетичних операцій\", включаючи вбивства, вважають німецькі посадовці.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Supremo deja a Trump seguir construyendo el Salón de Baile de la Casa Blanca",
+    "link": "https://www.elperiodico.com/es/internacional/20260821/presidente-supremo-autoriza-continuen-obras-133557416",
+    "pubDate": "2026-08-21 22:41:09",
+    "category": "",
+    "description": "<h2>El magistrado ha suspendido una orden judicial de un tribunal inferior que paralizaba la mayor parte de la obra</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Попит в Індії підняв ціну на російську Urals",
+    "link": "https://ua.korrespondent.net/business/economics/4905166-popyt-v-indii-pidniav-tsinu-na-rosiisku-Urals",
+    "pubDate": "2026-08-21 22:37:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535726.jpg\">Обмежені поставки з Новоросійська та зростання попиту в Азії підтримали вартість російської сировини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Чоловік з мачете поранив кількох людей у ​​школі в Швеції",
     "link": "https://ua.korrespondent.net/world/4905162-cholovik-z-machete-poranyv-kilkokh-luidei-u-shkoli-v-shvetsii",
     "pubDate": "2026-08-21 22:27:00",
@@ -171,6 +243,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Tesla відкликає рекордні 3 млн авто у Китаї",
+    "link": "https://ua.korrespondent.net/business/auto/4905144-Tesla-vidklykaie-rekordni-3-mln-avto-u-kytai",
+    "pubDate": "2026-08-21 20:34:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535665.jpg\">Під масштабну кампанію потрапили 2,98 млн електромобілів, включно з Model 3 і Model Y китайського виробництва.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Ceuta inicia el entierro de los migrantes trasladados a la morgue provisional",
     "link": "https://www.elperiodico.com/es/videos/internacional/ceuta-inicia-entierro-migrantes-trasladados/133555405.shtml",
     "pubDate": "2026-08-21 20:32:36",
@@ -212,6 +293,15 @@
     "pubDate": "2026-08-21 20:29:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535666.png\">Внаслідок ворожого удару по маршрутці важко поранені троє людей. Медики надають постраждалим усю необхідну допомогу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Poco представив новий бюджетний смартфон",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4905140-Poco-predstavyv-novyi-buidzhetnyi-smartfon",
+    "pubDate": "2026-08-21 20:25:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535661.jpeg\">Модель також отримала 6,9-дюймовий екран із частотою 120 Гц та акумулятор на 7900 мАг.",
     "topic": "",
     "topic_match_probability": 0
   },

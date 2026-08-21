@@ -1,13 +1,16 @@
-# News for 2026-08-21 22:31
+# News for 2026-08-21 23:26
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+23:21 [У Львові сталася стрілянина](https://ua.korrespondent.net/city/lvov/4905172-u-lvovi-stalasia-strilianyna)<br>
+22:37 [Попит в Індії підняв ціну на російську Urals](https://ua.korrespondent.net/business/economics/4905166-popyt-v-indii-pidniav-tsinu-na-rosiisku-Urals)<br>
 22:27 [Чоловік з мачете поранив кількох людей у ​​школі в Швеції](https://ua.korrespondent.net/world/4905162-cholovik-z-machete-poranyv-kilkokh-luidei-u-shkoli-v-shvetsii)<br>
 22:11 [У Кривому Розі вже 15 загиблих через атаку РФ](https://ua.korrespondent.net/ukraine/4905158-u-kryvomu-rozi-vzhe-15-zahyblykh-cherez-ataku-rf)<br>
 21:48 [На Миколаївщині завтра оголошено день жалоби](https://ua.korrespondent.net/ukraine/4905153-na-mykolaivschyni-zavtra-oholosheno-den-zhaloby)<br>
 20:31 [Теракт у Кривому Розі. Удар по торговому центру](https://ua.korrespondent.net/ukraine/4905145-terakt-u-kryvomu-rozi-udar-po-torhovomu-tsentru)<br>
 20:29 [Дрон РФ вдарив по маршрутці у Запоріжжі, троє поранених](https://ua.korrespondent.net/ukraine/4905142-dron-rf-vdaryv-po-marshruttsi-u-zaporizhzhi-troie-poranenykh)<br>
+20:25 [Poco представив новий бюджетний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4905140-Poco-predstavyv-novyi-buidzhetnyi-smartfon)<br>
 19:57 [Біля Венесуели утворився затор з танкерів](https://ua.korrespondent.net/world/4905128-bilia-venesuely-utvoryvsia-zator-z-tankeriv)<br>
 19:33 [Bitcoin підскочив вище 77 тисяч доларів](https://ua.korrespondent.net/business/financial/4905124-Bitcoin-pidskochyv-vysche-77tysiach-dolariv)<br>
 18:00 [Курс євро встановив новий рекорд в Україні](https://ua.korrespondent.net/business/financial/4905097-kurs-yevro-vstanovyv-novyi-rekord-v-ukraini)<br>
@@ -46,6 +49,7 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 08:26 [Мільйонний спадок Панеттьєрі: кому дістануться її статки](https://ua.korrespondent.net/lifestyle/4904815-milionnyi-spadok-panettieri-komu-distanutsia-yii-statky)<br>
 
 ## as.com
+23:02 [Los triples impulsan a España](https://as.com/baloncesto/mas_baloncesto/los-triples-impulsan-a-espana-f202608-n/)<br>
 21:30 [¡Las cadetes pelearán por el oro!](https://as.com/baloncesto/mas_baloncesto/las-cadetes-pelearan-por-el-oro-f202608-n/)<br>
 12:52 [Marta García y la depresión: “Estuve tres meses sin salir a la calle”](https://as.com/baloncesto/mas_baloncesto/marta-garcia-y-la-depresion-estuve-tres-meses-sin-salir-a-la-calle-f202608-n/)<br>
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
