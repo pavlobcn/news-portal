@@ -1,5 +1,131 @@
 [
   {
+    "title": "El Barça acuerda el fichaje de Livakovic",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/barca-acuerda-fichaje-livakovic-133550803",
+    "pubDate": "2026-08-21 17:52:02",
+    "category": "",
+    "description": "<h2>PERFIL | <a href=\"https://www.elperiodico.com/es/deportes/20260820/livakovic-portero-barca-croacia-dinamo-zagreb-133505955\">Así es Livakovic, el futuro portero del Barça</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un clásico de la Liga, por Sergi Mas",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/clasico-liga-sergi-133551012",
+    "pubDate": "2026-08-21 17:49:32",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "УЄФА і КОНКАКАФ на порозі створення нового турніру",
+    "link": "https://ua.korrespondent.net/sport/football/4905092-uiefa-i-konkakaf-na-porozi-stvorennia-novoho-turniru",
+    "pubDate": "2026-08-21 17:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535516.jpg\">Організації планують залучити усіх своїх членів до участі у створюваному міжнародному турнірі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Espanyol presenta a su nuevo patrocinador: \"Arctempus es la mejor oferta»",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/espanyol-presenta-nuevo-patrocinador-arctempus-133550767",
+    "pubDate": "2026-08-21 17:40:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El CEO Mao Ye asegura que la empresa madrileña de gestión e inversión inmobiliaria fue la compañía que aportó la propuesta con más garantías.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Президент про Кривий Ріг: Абсолютно підлий удар РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4905091-prezydent-pro-kryvyi-rih-absoluitno-pidlyi-udar-rf",
+    "pubDate": "2026-08-21 17:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535547.jpg\">Через пів години після першого влучання і пожежі був повторний удар по рятувальниках. Станом на зараз відомо про шість загиблих.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Fallece Clara Parramon, una figura esencial para preservar la memoria de L'Hospitalet de Llobregat",
+    "link": "https://www.elperiodico.com/es/barcelona/20260821/fallece-clara-parramon-figura-esencial-preservar-memoria-hospitalet-llobregat-133550261",
+    "pubDate": "2026-08-21 17:38:36",
+    "category": "",
+    "description": "<h2>La académica, vinculada desde 1971 a L'Hospitalet, también fue militante del PSUC y colaboró activamente en la organización de movimientos asociativos</h2><h2>MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/hospitalet/hospitalet-llobregat-historia-ciudad-playa-sh/index.html\" target=\"_blank\">L'Hospitalet de Llobregat: del pueblo agrícola a la ciudad más densa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Se desinfla la burbuja 'influencer'?",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/desinfla-burbuja-influencer/133550834.shtml",
+    "pubDate": "2026-08-21 17:37:05",
+    "category": "",
+    "description": "",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El décimo de la Lotería de Navidad que coincide con el eclipse solar de 2026 casi se agota",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/decimo-loteria-navidad-coincide-eclipse-133550617",
+    "pubDate": "2026-08-21 17:33:42",
+    "category": "",
+    "description": "<h2>La administración de Loterías Pepito Herranz en San Lorenzo de El Escorial agota casi todos los décimos del número 12.826, coincidiendo con el eclipse solar de 2026</h2>",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un nuevo detenido entre los inmigrantes de Ceuta por agresión sexual",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/nuevo-detenido-inmigrantes-ceuta-agresion-133550765",
+    "pubDate": "2026-08-21 17:32:44",
+    "category": "",
+    "description": "<h2>Las pruebas médicas en el Hospital de Loma Colmena descartaron que la joven fuera víctima de una violación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El precio del cereal para piensos sube de golpe y activa las alertas ante un inminente encarecimiento de la carne de pollo y de cerdo",
+    "link": "https://www.elperiodico.com/es/economia/20260821/precio-cereal-golpe-coste-consumidor-carne-pollo-cerdo-133550642",
+    "pubDate": "2026-08-21 17:30:25",
+    "category": "",
+    "description": "<h2>El cierre de puertos rusos y ucranianos en el Mar Negro por el recrudecimiento de la guerra está impidiendo la salida de grano, lo que se une al aumento de costes energéticos que ya supuso el conflicto en Oriente Medio</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Вчиняв підпали в Україні: агент РФ отримав 15 років тюрми",
+    "link": "https://ua.korrespondent.net/ukraine/4905090-vchyniav-pidpaly-v-ukraini-ahent-rf-otrymav-15-rokiv-tuirmy",
+    "pubDate": "2026-08-21 17:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535532.jpg\">Фігуранта затримали агента \"по гарячих слідах\", у нього було вилучено смартфон із доказами виконання замовлень РФ.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una niña de cuatro años muere por sospecha de difteria en Italia: sus padres habían decidido no vacunarla",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/nina-muere-difteria-vacuna-italia-133549850",
+    "pubDate": "2026-08-21 17:27:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La fiscalía de Palermo ha abierto una investigación para determinar la causa exacta de la muerte y por qué la menor no estaba inmunizada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260212/salut-pone-foco-familias-antivacunas-aumento-sarampion-cataluna-126629236\" target=\"_blank\">Salut pone el foco en las familias antivacunas tras aumentar el sarampión el 135% en el último año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rafa Nadal (40 años): \"Por las mañanas desayuno pan tostado con aceite de oliva, que es fundamental, una parte inamovible de mi dieta y de mi manera de comer\"",
+    "link": "https://www.elperiodico.com/es/gente/20260821/rafa-nadal-desayuno-alimentacion-saludable-nutricion-aceite-de-oliva-jamon-pan-dv-et-133420146",
+    "pubDate": "2026-08-21 17:20:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El extenista revela su rutina alimentaria actual y dos expertas analizan por qué su desayuno funciona para él, pero no necesariamente para el resto de la población</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260809/ana-maria-madre-rafa-nadal-familia-apoyo-dv-et-133172028\" >Ana María, madre de Rafa Nadal: \"Para mí, Rafa nunca fue la superestrella mundial, es simplemente el hijo desordenado al que hay que recordarle que recoja los platos. Intento cambiarlo, pero no puedo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260816/rafa-nadal-40-anos-padre-dv-132409951\" >Rafa Nadal (40 años): \"Ver a mi padre levantar desde cero la mayor empresa de cristales de Baleares marcó mi forma de entender el esfuerzo\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Una presunta agresión sexual a unas chicas empaña el tramo final de la Fiesta Mayor de Gràcia",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/presunta-agresion-sexual-chicas-empana/133550271.shtml",
+    "pubDate": "2026-08-21 17:19:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Кривом Розі п'ять жертв і понад 50 поранених",
     "link": "https://ua.korrespondent.net/ukraine/4905088-u-kryvom-rozi-piat-zhertv-i-ponad-50-poranenykh",
     "pubDate": "2026-08-21 17:16:00",
@@ -7,6 +133,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535531.jpg\">Серед постраждалих шестеро дітей. У місті досі продовжується аварійно-рятувальна операція.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "У Кривому Розі п'ять жертв і понад 90 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4905088-u-kryvomu-rozi-piat-zhertv-i-ponad-90-poranenykh",
+    "pubDate": "2026-08-21 17:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535531.jpg\">Серед постраждалих шестеро дітей. У місті досі продовжується аварійно-рятувальна операція.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Sinner renuncia al Abierto de Estados Unidos por una lesión en la rodilla derecha",

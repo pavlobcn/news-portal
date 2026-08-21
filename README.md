@@ -1,4 +1,4 @@
-# News for 2026-08-21 17:19
+# News for 2026-08-21 17:55
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
@@ -42,6 +42,10 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:38 [Fallece Clara Parramon, una figura esencial para preservar la memoria de L'Hospitalet de Llobregat](https://www.elperiodico.com/es/barcelona/20260821/fallece-clara-parramon-figura-esencial-preservar-memoria-hospitalet-llobregat-133550261)<br>
+17:32 [Un nuevo detenido entre los inmigrantes de Ceuta por agresión sexual](https://www.elperiodico.com/es/sociedad/20260821/nuevo-detenido-inmigrantes-ceuta-agresion-133550765)<br>
+17:27 [Una niña de cuatro años muere por sospecha de difteria en Italia: sus padres habían decidido no vacunarla](https://www.elperiodico.com/es/sociedad/20260821/nina-muere-difteria-vacuna-italia-133549850)<br>
+17:19 [Una presunta agresión sexual a unas chicas empaña el tramo final de la Fiesta Mayor de Gràcia](https://www.elperiodico.com/es/videos/barcelona/presunta-agresion-sexual-chicas-empana/133550271.shtml)<br>
 17:15 [Los expertos desmontan el mito del mes de vacaciones: "Entre 8 y 15 días es lo ideal"](https://www.elperiodico.com/es/sociedad/20260821/expertos-desmontan-mito-vacaciones-mejor-descansos-cortos-dv-et-133362051)<br>
 17:02 [La madre de Rodolfo Sancho, Noela Aguirre, rompe su silencio ante la inminente sentencia de su nieto Daniel Sancho](https://www.elperiodico.com/es/gente/20260821/madre-rodolfo-sancho-noela-aguirre-133549836)<br>
 17:00 [Una presunta agresión sexual a unas chicas empaña el tramo final de la Fiesta Mayor de Gràcia](https://www.elperiodico.com/es/barcelona/20260821/barcelona-agresion-sexual-fiestas-gracia-protestas-133549495)<br>
