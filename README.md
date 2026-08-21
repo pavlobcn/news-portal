@@ -1,8 +1,10 @@
-# News for 2026-08-21 15:10
+# News for 2026-08-21 16:00
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+15:55 [У нацпарку на Одещині виявили нові тіла дельфінів](https://ua.korrespondent.net/ukraine/4905055-u-natsparku-na-odeschyni-vyiavyly-novi-tila-delfiniv)<br>
+15:47 [Вчені розкрили моторошну таємницю піраміди Уака Пукльяна](https://ua.korrespondent.net/tech/science/4905031-vcheni-rozkryly-motoroshnu-taiemnytsui-piramidy-uaka-pukliana)<br>
 15:05 [Голлівудський актор відвідав столицю України](https://ua.korrespondent.net/lifestyle/4905005-hollivudskyi-aktor-vidvidav-stolytsui-ukrainy)<br>
 15:01 [ЗСУ отримали перший реактивний дрон-перехоплювач](https://ua.korrespondent.net/ukraine/4905039-zsu-otrymaly-pershyi-reaktyvnyi-dron-perekhopluivach)<br>
 14:59 [У Києві затримали "вора в законі", який заїхав в Україну поза КПП](https://ua.korrespondent.net/ukraine/4905035-u-kyievi-zatrymaly-vora-v-zakoni-yakyi-zaikhav-v-ukrainu-poza-kpp)<br>
@@ -37,6 +39,14 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:47 [Barcelona dará hasta 800 euros para comprar una bicicleta eléctrica](https://www.elperiodico.com/es/barcelona/20260821/barcelona-ayudas-bicicleta-electrica-800-euros-133545909)<br>
+15:46 [La UME se activa como apoyo terrestre en el incendio de la Serra Calderona (Valencia) con el foco en zonas inaccesibles](https://www.elperiodico.com/es/sociedad/20260821/ume-activa-apoyo-terrestre-incendio-133547909)<br>
+15:42 [Es Alert en Gátova (Valencia): Confinan a los vecinos en sus casas por el humo del incendio en la Calderona](https://www.elperiodico.com/es/sociedad/20260821/alert-gatova-valencia-confinan-vecinos-133547567)<br>
+15:38 [Andalucía eleva a 51 los contagios por Virus del Nilo: dos casos más en Dos Hermanas y Los Palacios (Sevilla)](https://www.elperiodico.com/es/sociedad/20260821/andalucia-eleva-51-contagios-virus-133547451)<br>
+15:38 [Detectan los virus del Nilo Occidental y Usutu en mosquitos en los Aiguamolls del Empordà.](https://www.elperiodico.com/es/videos/sociedad/detectan-virus-nilo-occidental-usutu/133547326.shtml)<br>
+15:35 [Detectados los virus del Nilo Occidental y Usutu en mosquitos en los Aiguamolls de l’Empordà](https://www.elperiodico.com/es/sociedad/20260821/detectados-virus-nilo-usutu-aiguamolls-emporda-cataluna-133547126)<br>
+15:20 [La poza de aguas heladas y cristalinas escondida en Alicante: el mejor baño del verano](https://www.elperiodico.com/es/vida-y-estilo/20260821/poza-aguas-heladas-cristalinas-escondida-alicante-verano-dv-et-133336108)<br>
+15:19 [Unos 200 funcionarios de prisiones se concentran en Brians 2 para reclamar mayor seguridad](https://www.elperiodico.com/es/sociedad/20260821/200-funcionarios-prisiones-concentran-brians-agresion-funcionaria-seguridad-133546818)<br>
 14:49 [Jacob Elordi llega a la alfombra roja del preestreno mundial de 'La constelación del perro' en Londres](https://www.elperiodico.com/es/videos/ocio-y-cultura/jacob-elordi-llega-alfombra-roja-preestreno-mundial-constelacion-perro-londres-video/133546179.shtml)<br>
 14:26 [Francia detecta decenas de miles preservativos vendidos que incumplían las reglas](https://www.elperiodico.com/es/sociedad/20260821/francia-preservativos-detecta-decenas-miles-romperse-perforaciones-133545419)<br>
 14:24 [El Ayuntamiento de Tarragona activa el plan municipal en fase de alerta por riesgo de inundaciones](https://www.elperiodico.com/es/tarragona/20260821/catalunya-tarragona-activa-plan-municipal-alerta-riesgo-inundaciones-133545267)<br>
@@ -51,6 +61,7 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 13:33 [En video | Así actúa la Guardia Civil durante un rescate](https://www.elperiodico.com/es/videos/sociedad/video-actua-guardia-civil-durante/133543859.shtml)<br>
 13:11 [¿Cuánto puede durar un periodo de prueba? El Estatuto de los Trabajadores fija unos límites claros](https://www.elperiodico.com/es/economia/20260821/cuanto-puede-durar-periodo-prueba-estatuto-trabajadores-fija-limites-dv-133539791)<br>
 13:08 [¿Veneno o enfermedad? Una polémica envuelve la misteriosa muerte de 18 elefantes en Kenia](https://www.elperiodico.com/es/medio-ambiente/20260821/veneno-o-enfermedad-polemica-envuelve-133542787)<br>
+13:01 [El euríbor rompe la barrera del 3% y amenaza con nuevas subidas a las hipotecas](https://www.elperiodico.com/es/economia/20260821/euribor-rompe-barrera-3-amenaza-133542445)<br>
 13:00 [Barcelona ha encadenado más de 50 días de calor extremo en un verano en el que todas las jornadas han estado entre las más cálidas jamás registradas](https://www.elperiodico.com/es/sociedad/20260821/barcelona-dias-calor-extremo-verano-registros-record-133518682)<br>
 13:00 [El nuevo CAP Fort Pienc doblará las consultas del ambulatorio del paseo Sant Joan cuando lo sustituya en 2028](https://www.elperiodico.com/es/barcelona/20260821/barcelona-cap-fort-pienc-obras-doble-de-consultas-133480961)<br>
 12:54 [El precio del euríbor hoy, 21 de agosto: el índice tumba la barrera del 3% por primera vez en casi dos años](https://www.elperiodico.com/es/economia/20260821/precio-euribor-hoy-21-agosto-dv-133541804)<br>
