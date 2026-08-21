@@ -1,5 +1,77 @@
 [
   {
+    "title": "Чоловік з мачете поранив кількох людей у ​​школі в Швеції",
+    "link": "https://ua.korrespondent.net/world/4905162-cholovik-z-machete-poranyv-kilkokh-luidei-u-shkoli-v-shvetsii",
+    "pubDate": "2026-08-21 22:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535724.jpg\">Поранено щонайменше троє осіб. Двоє з них перебувають у тяжкому стані, стан ще одного постраждалого нині з'ясовують.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça se lleva el Gamper en el inicio de una nueva era",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/barca-lleva-gamper-inicio-nueva-133553095",
+    "pubDate": "2026-08-21 22:13:02",
+    "category": "",
+    "description": "<h2>Con los tantos de Brugts, Pina y Graham Hansen las azulgranas se llevaron el trofeo ante el cuadro inglés en el cierre de la pretemporada. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Кривому Розі вже 15 загиблих через атаку РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4905158-u-kryvomu-rozi-vzhe-15-zahyblykh-cherez-ataku-rf",
+    "pubDate": "2026-08-21 22:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535715.jpg\">До ліквідації наслідків обстрілу у місті залучили рятувальників із п’яти областей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos 15 muertos y 130 heridos en un ataque ruso contra la ciudad natal de Zelenski",
+    "link": "https://www.elperiodico.com/es/videos/internacional/15-muertos-130-heridos-ataque/133556980.shtml",
+    "pubDate": "2026-08-21 22:05:38",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Призначено 11 суддів Вищого антикорупційного суду",
+    "link": "https://ua.korrespondent.net/ukraine/4905155-pryznacheno-11-suddiv-vyschoho-antykoruptsiinoho-sudu",
+    "pubDate": "2026-08-21 21:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535696.jpg\">Указами президента призначено 11 суддів Вищого антикорупційного суду та п’ятьох суддів Апеляційної палати ВАКС.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "На Миколаївщині завтра оголошено день жалоби",
+    "link": "https://ua.korrespondent.net/ukraine/4905153-na-mykolaivschyni-zavtra-oholosheno-den-zhaloby",
+    "pubDate": "2026-08-21 21:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535705.jpg\">Внаслідок удару по селу на Миколаївщині загинули четверо людей. Серед жертв - двоє 11-річних хлопчиків, 13-річний хлопчик та 30-річний чоловік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тінь Трампа. Хто така Наталі Харп",
+    "link": "https://ua.korrespondent.net/world/4905148-tin-trampa-khto-taka-natali-kharp",
+    "pubDate": "2026-08-21 21:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535684.jpg\">Під час передвиборчої кампанії Харп постійно ходила за Трампом (навіть бігала за його гольф-каром) із портативним принтером, щоб оперативно роздруковувати йому позитивні новини.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "España doblega a Alemania para acercarse a las semifinales del Mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/espana-doblega-alemania-acercarse-semifinales-133556499",
+    "pubDate": "2026-08-21 21:40:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Los 'RedSticks' lograron un triunfo vital (2-1) en el inicio de la segunda fase del torneo que se disputa en Bélgica y Países Bajos.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El Barça inscribe Rodri, Gordon y Adeyemi en LaLiga",
     "link": "https://www.elperiodico.com/es/deportes/20260821/barca-inscribe-rodri-gordon-adeyemi-133556347",
     "pubDate": "2026-08-21 21:31:14",
@@ -7,6 +79,15 @@
     "description": "<h2 class=\"item\">Los tres fichajes del club azulgrana ya tienen toda la documentación en regla para el duelo del domingo en Elche, mientras se espera llegar a tiempo también para Cancelo.</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "¡Las cadetes pelearán por el oro!",
+    "link": "https://as.com/baloncesto/mas_baloncesto/las-cadetes-pelearan-por-el-oro-f202608-n/",
+    "pubDate": "2026-08-21 21:30:51",
+    "category": "Baloncesto cantera",
+    "description": "España se impuso a Letonia por 38 puntos y se enfrentará a Eslovenia en la final del sábado (19:30, Tdp).",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "¿Serías capaz de entender esta señal a la primera?: La DGT analiza su legalidad",
@@ -25,6 +106,15 @@
     "description": "<h2 class=\"item\">Entre los otros denunciantes se encuentra el cantante Elton John y las actrices Liz Hurley y Sadie Frost</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260820/harry-meghan-regreso-reino-unido-seis-anos-despues-133499335\">Harry y Meghan Markle preparan su regreso al Reino Unido seis años después de romper con la familia real</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Президент увів Хмару і Сибігу до складу РНБО",
+    "link": "https://ua.korrespondent.net/ukraine/4905151-prezydent-uviv-khmaru-i-sybihu-do-skladu-rnbo",
+    "pubDate": "2026-08-21 21:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535686.jpg\">Міністра закордонних справ Андрія Сибігу і міністра оборони Євгенія Хмару указом президента введено до складу СНБО.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "No todo el oro brilla en Venezuela: afloran los interrogantes sobre el destino de 58 toneladas 'desaparecidas'",
@@ -3204,6 +3294,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "\"El transporte público en agosto\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/transporte-publico-agosto-carta-del-lector-bea-prieto-cano-133507795",
+    "pubDate": "2026-08-21 06:15:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Agencia Europea de Control de la Pesca se apoya en satélites para descubrir \"buques oscuros\" que apagan o falsean su localizador",
     "link": "https://www.elperiodico.com/es/sociedad/20260821/agencia-europea-control-pesca-apoya-oscuros-133532163",
     "pubDate": "2026-08-21 06:10:03",
@@ -3274,6 +3373,15 @@
     "description": "<h2>Este vecino de 33 años fue dado de baja erróneamente por el Ayuntamiento, que ha asumido su confusión casi un año después</h2><h2>El municipio, bastión de Junts en Catalunya, ha marcado músculo en torno a las políticas de endurecimiento del padrón</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260820/sant-cugat-eleva-7-000-bajas-anuales-padron-registra-centenar-pisos-mas-10-personas-133489333\" target=\"_blank\">Sant Cugat eleva a más de 7.000 las bajas anuales en su padrón y registra un centenar de pisos con más de 10 personas</a></h2>",
     "topic": "політика",
     "topic_match_probability": 65
+  },
+  {
+    "title": "\"La presión urbanística sobre Collserola\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/presion-urbanistica-collserola-carta-del-lector-roger-diaz-salvador-133521980",
+    "pubDate": "2026-08-21 06:01:11",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "¿Qué es la Save Europe Act? 5 claves de la campaña liderada por supremacistas blancos que defiende las deportaciones masivas",

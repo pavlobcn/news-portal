@@ -1,8 +1,11 @@
-# News for 2026-08-21 21:36
+# News for 2026-08-21 22:31
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+22:27 [Чоловік з мачете поранив кількох людей у ​​школі в Швеції](https://ua.korrespondent.net/world/4905162-cholovik-z-machete-poranyv-kilkokh-luidei-u-shkoli-v-shvetsii)<br>
+22:11 [У Кривому Розі вже 15 загиблих через атаку РФ](https://ua.korrespondent.net/ukraine/4905158-u-kryvomu-rozi-vzhe-15-zahyblykh-cherez-ataku-rf)<br>
+21:48 [На Миколаївщині завтра оголошено день жалоби](https://ua.korrespondent.net/ukraine/4905153-na-mykolaivschyni-zavtra-oholosheno-den-zhaloby)<br>
 20:31 [Теракт у Кривому Розі. Удар по торговому центру](https://ua.korrespondent.net/ukraine/4905145-terakt-u-kryvomu-rozi-udar-po-torhovomu-tsentru)<br>
 20:29 [Дрон РФ вдарив по маршрутці у Запоріжжі, троє поранених](https://ua.korrespondent.net/ukraine/4905142-dron-rf-vdaryv-po-marshruttsi-u-zaporizhzhi-troie-poranenykh)<br>
 19:57 [Біля Венесуели утворився затор з танкерів](https://ua.korrespondent.net/world/4905128-bilia-venesuely-utvoryvsia-zator-z-tankeriv)<br>
@@ -43,10 +46,12 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 08:26 [Мільйонний спадок Панеттьєрі: кому дістануться її статки](https://ua.korrespondent.net/lifestyle/4904815-milionnyi-spadok-panettieri-komu-distanutsia-yii-statky)<br>
 
 ## as.com
+21:30 [¡Las cadetes pelearán por el oro!](https://as.com/baloncesto/mas_baloncesto/las-cadetes-pelearan-por-el-oro-f202608-n/)<br>
 12:52 [Marta García y la depresión: “Estuve tres meses sin salir a la calle”](https://as.com/baloncesto/mas_baloncesto/marta-garcia-y-la-depresion-estuve-tres-meses-sin-salir-a-la-calle-f202608-n/)<br>
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:05 [Al menos 15 muertos y 130 heridos en un ataque ruso contra la ciudad natal de Zelenski](https://www.elperiodico.com/es/videos/internacional/15-muertos-130-heridos-ataque/133556980.shtml)<br>
 21:29 [El príncipe Enrique y otras celebridades deberán pagar 11 millones de euros a la editora de Daily Mail](https://www.elperiodico.com/es/internacional/20260821/principe-enrique-celebridades-deberan-pagar-133556389)<br>
 21:00 [No todo el oro brilla en Venezuela: afloran los interrogantes sobre el destino de 58 toneladas 'desaparecidas'](https://www.elperiodico.com/es/internacional/20260821/oro-venezuela-interrogantes-destino-toneladas-desaparecidas-133555997)<br>
 20:51 [Estabilizado el incendio forestal en Las Hurdes (Cáceres)](https://www.elperiodico.com/es/sociedad/20260821/estabilizado-incendio-forestal-hurdes-caceres-133555816)<br>
@@ -173,10 +178,12 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 07:02 [Resurrección Antón, experta en seísmos: "Volverán los terremotos entre Málaga y Murcia, pero no sabemos en qué momento porque la predicción a día de hoy no existe"](https://www.elperiodico.com/es/sociedad/20260821/experta-seismos-volver-terremotos-133532991)<br>
 06:55 [Catalunya activa la alerta Inuncat por el temporal de lluvias intensas](https://www.elperiodico.com/es/sociedad/20260821/catalunya-alerta-temporal-lluvia-viento-granizo-133524612)<br>
 06:32 [El tiempo hoy en Catalunya, en directo: última hora del aviso de Aemet y Meteocat por lluvias intensas, granizo y reventones termicos](https://www.elperiodico.com/es/sociedad/20260821/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728)<br>
+06:15 ["El transporte público en agosto"](https://www.elperiodico.com/es/entre-todos/participacion/transporte-publico-agosto-carta-del-lector-bea-prieto-cano-133507795)<br>
 06:10 [La Agencia Europea de Control de la Pesca se apoya en satélites para descubrir "buques oscuros" que apagan o falsean su localizador](https://www.elperiodico.com/es/sociedad/20260821/agencia-europea-control-pesca-apoya-oscuros-133532163)<br>
 06:04 [Una biotecnológica de Mallorca logra que el 90% de los animales tratados sobreviva y se recupere de una dosis letal de radiación](https://www.elperiodico.com/es/sociedad/20260821/biotecnologica-mallorca-logra-90-animales-radiacion-letal-133532045)<br>
 06:01 [Las caras del auge de trasteros en Barcelona: "Me sale mucho más a cuenta que coger un piso más grande"](https://www.elperiodico.com/es/barcelona/20260821/historias-personales-auge-trasteros-mas-a-cuenta-que-un-piso-mas-grande-133504586)<br>
 06:01 [Cosas](https://www.elperiodico.com/es/opinion/20260821/cosas-133526408)<br>
+06:01 ["La presión urbanística sobre Collserola"](https://www.elperiodico.com/es/entre-todos/participacion/presion-urbanistica-collserola-carta-del-lector-roger-diaz-salvador-133521980)<br>
 06:00 [El encarecimiento de la vivienda propulsa los trasteros en Barcelona: 119 nuevos centros en seis años](https://www.elperiodico.com/es/barcelona/20260821/auge-trasteros-barcelona-119-autorizaciones-seis-anos-133450421)<br>
 06:00 [España tiene solo 7 ‘startups’ valoradas en más de 1.000 millones de dólares: son 930 en Estados Unidos y 300 en China](https://www.elperiodico.com/es/economia/20260821/espana-7-startups-valoradas-1000-millones-dolares-unicornios-930-estados-unidos-133483026)<br>
 06:00 [Hiperhidrosis, cuando sudar mucho no es solo culpa del calor veraniego: "En clase se me resbalaba el boli de las manos"](https://www.elperiodico.com/es/sanidad/20260821/sudoracion-excesiva-adolescentes-hiperhidrosis-cirugia-hospital-sant-joan-de-deu-cataluna-133457119)<br>
