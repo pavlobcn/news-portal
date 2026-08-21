@@ -1,8 +1,12 @@
-# News for 2026-08-21 06:36
+# News for 2026-08-21 07:16
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## www.elperiodico.com
+07:05 [Terremoto en Granada, en directo: última hora de las nuevas réplicas de seísmo esta madrugada](https://www.elperiodico.com/es/sociedad/20260821/terremoto-granada-hoy-ultima-hora-directo-133378645)<br>
+07:02 [Riply y Pernales, la banda de punk para niños, lanza su primer disco](https://www.elperiodico.com/es/ocio-y-cultura/20260821/riply-pernales-banda-punk-lanza-primer-disco-133533035)<br>
+07:02 [Resurrección Antón, experta en seísmos: "Volverán los terremotos entre Málaga y Murcia, pero no sabemos en qué momento porque la predicción a día de hoy no existe"](https://www.elperiodico.com/es/sociedad/20260821/experta-seismos-volver-terremotos-133532991)<br>
+06:55 [Catalunya activa la alerta Inuncat por el temporal de lluvias intensas](https://www.elperiodico.com/es/sociedad/20260821/catalunya-alerta-temporal-lluvia-viento-granizo-133524612)<br>
 06:32 [El tiempo hoy en Catalunya, en directo: última hora del aviso de Aemet y Meteocat por lluvias intensas, granizo y reventones termicos](https://www.elperiodico.com/es/sociedad/20260821/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728)<br>
 06:10 [La Agencia Europea de Control de la Pesca se apoya en satélites para descubrir "buques oscuros" que apagan o falsean su localizador](https://www.elperiodico.com/es/sociedad/20260821/agencia-europea-control-pesca-apoya-oscuros-133532163)<br>
 06:04 [Una biotecnológica de Mallorca logra que el 90% de los animales tratados sobreviva y se recupere de una dosis letal de radiación](https://www.elperiodico.com/es/sociedad/20260821/biotecnologica-mallorca-logra-90-animales-radiacion-letal-133532045)<br>
