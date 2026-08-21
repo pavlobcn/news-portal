@@ -1,4 +1,4 @@
-# News for 2026-08-21 19:06
+# News for 2026-08-21 19:44
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
@@ -43,6 +43,10 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:29 [Los expertos auguran que el fenómeno de El Niño será "el más intenso en más de un siglo"](https://www.elperiodico.com/es/sociedad/20260821/fenomeno-el-nino-previsiones-el-peor-desde-que-hay-registros-133553552)<br>
+19:15 [Interceptada una patera que se disponía a cruzar el canal de la Mancha](https://www.elperiodico.com/es/videos/internacional/interceptada-patera-disponia-cruzar-canal/133553448.shtml)<br>
+19:10 [Por qué los psicólogos recomiendan escribir la lista de la compra a mano: este es el beneficio para el cerebro](https://www.elperiodico.com/es/vida-y-estilo/20260821/psicologos-recomiendan-escribir-lista-compra-beneficio-cerebro-dv-133420144)<br>
+19:08 [El valor económico de los abuelos](https://www.elperiodico.com/es/opinion/20260821/economico-abuelos-133553100)<br>
 19:00 [Caracoles y un arquitecto litigante: la batalla urbanística en un pueblo de Irlanda por el otro salón de baile de Trump](https://www.elperiodico.com/es/internacional/20260821/salon-baile-trump-irlanda-caracoles-club-golf-133510801)<br>
 18:56 [Mujeres migrantes en Ceuta piden ayuda para construir un futuro en España](https://www.elperiodico.com/es/videos/internacional/mujeres-migrantes-ceuta-piden-ayuda/133553089.shtml)<br>
 18:44 [La madre de Rodolfo Sancho, Noela Aguirre, rompe su silencio ante la inminente sentencia de su nieto Daniel Sancho](https://www.elperiodico.com/es/videos/sucesos/madre-rodolfo-sancho-noela-aguirre/133552767.shtml)<br>
