@@ -1,8 +1,15 @@
-# News for 2026-08-21 07:16
+# News for 2026-08-21 07:53
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## www.elperiodico.com
+07:50 [Ulrich (68 años) vive en condiciones extremas sin luz, gas ni agua corriente: "Las necesidades son artificiales; se crean intencionadamente para generar más consumo y mayor circulación de dinero"](https://www.elperiodico.com/es/economia/20260821/vive-solo-condiciones-extremas-sin-agua-electricidad-dolomitas-italia-ulrich-dv-et-133462256)<br>
+07:40 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260821/ultima-hora-incendios-espana-directo-132759066)<br>
+07:39 [Sentencia de Daniel Sancho, en directo | Última hora de la condena y el próximo veredicto del Tribunal en Tailandia](https://www.elperiodico.com/es/sociedad/20260821/daniel-sancho-sentencia-ultima-hora-directo-133425232)<br>
+07:35 [Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: "En Catalunya hay muchísima gente y además creemos que es una de las comunidades autónomas con más impuestos de España"](https://www.elperiodico.com/es/economia/20260821/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142)<br>
+07:29 [Deborah García Bello, química y divulgadora científica: "Mi consejo es que nadie haga cremas en casa: no juguemos a ser químicos"](https://www.elperiodico.com/es/videos/sociedad/deborah-garcia-bello-quimica-divulgadora/133533572.shtml)<br>
+07:19 [Un tren de tormentas provoca reventones y rachas de viento de hasta 150 kilómetros en Valencia](https://www.elperiodico.com/es/sociedad/20260821/tiempo-en-valencia-tren-tormentas-provoca-reventones-rachas-viento-hasta-150-km-hora-valencia-133533465)<br>
+07:15 [Mónica, tras empezar de cero en una casa abandonada en la montaña: "Aquí venimos a conectar con lo que somos y sobre todo a escuchar el sonido de los árboles, de las hojas, del ganado y de los animales del bosque"](https://www.elperiodico.com/es/economia/20260821/empezar-cero-casa-abandonada-montana-asturias-monica-dv-et-133268335)<br>
 07:05 [Terremoto en Granada, en directo: última hora de las nuevas réplicas de seísmo esta madrugada](https://www.elperiodico.com/es/sociedad/20260821/terremoto-granada-hoy-ultima-hora-directo-133378645)<br>
 07:02 [Riply y Pernales, la banda de punk para niños, lanza su primer disco](https://www.elperiodico.com/es/ocio-y-cultura/20260821/riply-pernales-banda-punk-lanza-primer-disco-133533035)<br>
 07:02 [Resurrección Antón, experta en seísmos: "Volverán los terremotos entre Málaga y Murcia, pero no sabemos en qué momento porque la predicción a día de hoy no existe"](https://www.elperiodico.com/es/sociedad/20260821/experta-seismos-volver-terremotos-133532991)<br>
