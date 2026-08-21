@@ -1,8 +1,12 @@
-# News for 2026-08-21 20:15
+# News for 2026-08-21 21:03
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+20:31 [Теракт у Кривому Розі. Удар по торговому центру](https://ua.korrespondent.net/ukraine/4905145-terakt-u-kryvomu-rozi-udar-po-torhovomu-tsentru)<br>
+20:29 [Дрон РФ вдарив по маршрутці у Запоріжжі, троє поранених](https://ua.korrespondent.net/ukraine/4905142-dron-rf-vdaryv-po-marshruttsi-u-zaporizhzhi-troie-poranenykh)<br>
+19:57 [Біля Венесуели утворився затор з танкерів](https://ua.korrespondent.net/world/4905128-bilia-venesuely-utvoryvsia-zator-z-tankeriv)<br>
+19:33 [Bitcoin підскочив вище 77 тисяч доларів](https://ua.korrespondent.net/business/financial/4905124-Bitcoin-pidskochyv-vysche-77tysiach-dolariv)<br>
 18:00 [Курс євро встановив новий рекорд в Україні](https://ua.korrespondent.net/business/financial/4905097-kurs-yevro-vstanovyv-novyi-rekord-v-ukraini)<br>
 16:52 [Ебола поширюється в геометричній прогресії: в Конго вже понад 2500 жертв](https://ua.korrespondent.net/world/4905080-ebola-poshyruiietsia-v-heometrychnii-prohresii-v-konho-vzhe-ponad-2500-zhertv)<br>
 16:45 [Актер та його собака відвідали прем’єру Сузір’я великого пса](https://ua.korrespondent.net/showbiz/cinema/4905059-akter-ta-yoho-sobaka-vidvidaly-premieru-suziria-velykoho-psa)<br>
@@ -43,6 +47,12 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:00 [No todo el oro brilla en Venezuela: afloran los interrogantes sobre el destino de 58 toneladas 'desaparecidas'](https://www.elperiodico.com/es/internacional/20260821/oro-venezuela-interrogantes-destino-toneladas-desaparecidas-133555997)<br>
+20:51 [Estabilizado el incendio forestal en Las Hurdes (Cáceres)](https://www.elperiodico.com/es/sociedad/20260821/estabilizado-incendio-forestal-hurdes-caceres-133555816)<br>
+20:40 [El humo y el cambio climático](https://www.elperiodico.com/es/opinion/20260821/humo-cambio-climatico-133555385)<br>
+20:34 [Los migrantes vuelven a acampar en la playa de El Trampolín a la espera de ser realojados en los centros de acogida](https://www.elperiodico.com/es/videos/internacional/migrantes-vuelven-acampar-playa-trampolin/133555376.shtml)<br>
+20:32 [Ceuta inicia el entierro de los migrantes trasladados a la morgue provisional](https://www.elperiodico.com/es/videos/internacional/ceuta-inicia-entierro-migrantes-trasladados/133555405.shtml)<br>
+20:29 [Una persona herida por quemaduras en un incendio en un piso en Santa Coloma de Gramenet](https://www.elperiodico.com/es/barcelona/20260821/santa-coloma-incendio-piso-herido-quemaduras-133555271)<br>
 19:59 [El cielo de Ecuador se llena de globos aerostáticos en el festival de la Mitad del Mundo](https://www.elperiodico.com/es/videos/sociedad/cielo-ecuador-llena-globos-aerostaticos/133554759.shtml)<br>
 19:29 [Los expertos auguran que el fenómeno de El Niño será "el más intenso en más de un siglo"](https://www.elperiodico.com/es/sociedad/20260821/fenomeno-el-nino-previsiones-el-peor-desde-que-hay-registros-133553552)<br>
 19:15 [Interceptada una patera que se disponía a cruzar el canal de la Mancha](https://www.elperiodico.com/es/videos/internacional/interceptada-patera-disponia-cruzar-canal/133553448.shtml)<br>
