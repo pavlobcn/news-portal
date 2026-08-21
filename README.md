@@ -1,8 +1,17 @@
-# News for 2026-08-21 05:55
+# News for 2026-08-21 06:36
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## www.elperiodico.com
+06:32 [El tiempo hoy en Catalunya, en directo: última hora del aviso de Aemet y Meteocat por lluvias intensas, granizo y reventones termicos](https://www.elperiodico.com/es/sociedad/20260821/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728)<br>
+06:10 [La Agencia Europea de Control de la Pesca se apoya en satélites para descubrir "buques oscuros" que apagan o falsean su localizador](https://www.elperiodico.com/es/sociedad/20260821/agencia-europea-control-pesca-apoya-oscuros-133532163)<br>
+06:04 [Una biotecnológica de Mallorca logra que el 90% de los animales tratados sobreviva y se recupere de una dosis letal de radiación](https://www.elperiodico.com/es/sociedad/20260821/biotecnologica-mallorca-logra-90-animales-radiacion-letal-133532045)<br>
+06:01 [Las caras del auge de trasteros en Barcelona: "Me sale mucho más a cuenta que coger un piso más grande"](https://www.elperiodico.com/es/barcelona/20260821/historias-personales-auge-trasteros-mas-a-cuenta-que-un-piso-mas-grande-133504586)<br>
+06:01 [Cosas](https://www.elperiodico.com/es/opinion/20260821/cosas-133526408)<br>
+06:00 [El encarecimiento de la vivienda propulsa los trasteros en Barcelona: 119 nuevos centros en seis años](https://www.elperiodico.com/es/barcelona/20260821/auge-trasteros-barcelona-119-autorizaciones-seis-anos-133450421)<br>
+06:00 [España tiene solo 7 ‘startups’ valoradas en más de 1.000 millones de dólares: son 930 en Estados Unidos y 300 en China](https://www.elperiodico.com/es/economia/20260821/espana-7-startups-valoradas-1000-millones-dolares-unicornios-930-estados-unidos-133483026)<br>
+06:00 [Hiperhidrosis, cuando sudar mucho no es solo culpa del calor veraniego: "En clase se me resbalaba el boli de las manos"](https://www.elperiodico.com/es/sanidad/20260821/sudoracion-excesiva-adolescentes-hiperhidrosis-cirugia-hospital-sant-joan-de-deu-cataluna-133457119)<br>
+06:00 [Bótox y corrientes eléctricas, tratamientos para la sudoración excesiva de la hiperhidrosis](https://www.elperiodico.com/es/sanidad/20260821/sudoracion-excesiva-tratamientos-hiperhidrosis-toxina-botulinica-botox-corrientes-electricas-133461958)<br>
 05:00 [Doce años de prisión para un hombre por violar a su hija durante una década: "Un padre no hace eso, me destrozaste la vida"](https://www.elperiodico.com/es/sucesos/20260821/sentencia-agresion-sexual-padre-hija-menor-133531064)<br>
 03:00 [Tiempo en Catalunya hoy viernes 21 de agosto: el Meteocat alerta de lluvias muy intensas al final del día](https://www.elperiodico.com/es/tiempo/20260821/tiempo-catalunya-hoy-viernes-21-agosto-lluvias-tormentas-dv-loc-133520984)<br>
 00:38 [Los bomberos del Consorcio de Castellón trabajan en el incendio forestal de l'Alcúdia de Veo](https://www.elperiodico.com/es/videos/sociedad/bomberos-consorcio-castellon-incendio-forestal/133529335.shtml)<br>
