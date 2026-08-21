@@ -1,7 +1,8 @@
-# News for 2026-08-21 04:56
+# News for 2026-08-21 05:55
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## www.elperiodico.com
+05:00 [Doce años de prisión para un hombre por violar a su hija durante una década: "Un padre no hace eso, me destrozaste la vida"](https://www.elperiodico.com/es/sucesos/20260821/sentencia-agresion-sexual-padre-hija-menor-133531064)<br>
 03:00 [Tiempo en Catalunya hoy viernes 21 de agosto: el Meteocat alerta de lluvias muy intensas al final del día](https://www.elperiodico.com/es/tiempo/20260821/tiempo-catalunya-hoy-viernes-21-agosto-lluvias-tormentas-dv-loc-133520984)<br>
 00:38 [Los bomberos del Consorcio de Castellón trabajan en el incendio forestal de l'Alcúdia de Veo](https://www.elperiodico.com/es/videos/sociedad/bomberos-consorcio-castellon-incendio-forestal/133529335.shtml)<br>
