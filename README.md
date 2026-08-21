@@ -1,8 +1,17 @@
-# News for 2026-08-21 07:53
+# News for 2026-08-21 08:37
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
+## ua.korrespondent.net
+08:26 [Мільйонний спадок Панеттьєрі: кому дістануться її статки](https://ua.korrespondent.net/lifestyle/4904815-milionnyi-spadok-panettieri-komu-distanutsia-yii-statky)<br>
+
 ## www.elperiodico.com
+08:31 [Barcelona vive una noche 5 grados más 'fresca' que la anterior: de tórrida a tropical en gran parte de la ciudad](https://www.elperiodico.com/es/barcelona/20260821/barcelona-noche-calor-temperaturas-133533755)<br>
+08:19 [El incendio de Las Hurdes afronta una jornada clave para consolidar el perímetro tras contener su avance](https://www.elperiodico.com/es/sociedad/20260821/incendio-hurdes-fuego-extremadura-cecopi-perimetro-133534204)<br>
+08:12 [El VII IBIZA WELLNESS WEEKEND 2026 reúne a grandes talentos del bienestar y la sostenibilidad](https://www.elperiodico.com/es/sociedad/20260821/vii-ibiza-wellness-weekend-2026-bc-133533956)<br>
+08:10 [Unai, fontanero: "Un buen oficial, ya sea fontanero, electricista o carpintero, que tenga su clientela propia, puede estar ganando de 3.000 a 10.000 euros al mes fácilmente"](https://www.elperiodico.com/es/economia/20260821/unai-fontanero-buen-oficial-carpintero-electricista-3000-10000-euros-mes-dv-et-133339268)<br>
+08:06 [Cinco nuevos terremotos marcan la madrugada en Granada](https://www.elperiodico.com/es/sociedad/20260821/cinco-nuevos-terremotos-marcan-madrugada-granada-133533892)<br>
+07:55 [España pierde buena parte de su crecimiento del PIB a causa del calor extremo](https://www.elperiodico.com/es/medio-ambiente/20260821/espana-pierde-buena-parte-crecimiento-133533765)<br>
 07:50 [Ulrich (68 años) vive en condiciones extremas sin luz, gas ni agua corriente: "Las necesidades son artificiales; se crean intencionadamente para generar más consumo y mayor circulación de dinero"](https://www.elperiodico.com/es/economia/20260821/vive-solo-condiciones-extremas-sin-agua-electricidad-dolomitas-italia-ulrich-dv-et-133462256)<br>
 07:40 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260821/ultima-hora-incendios-espana-directo-132759066)<br>
 07:39 [Sentencia de Daniel Sancho, en directo | Última hora de la condena y el próximo veredicto del Tribunal en Tailandia](https://www.elperiodico.com/es/sociedad/20260821/daniel-sancho-sentencia-ultima-hora-directo-133425232)<br>
