@@ -1,8 +1,9 @@
-# News for 2026-08-21 16:00
+# News for 2026-08-21 16:47
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+16:24 [Під Києвом чоловік влаштував стрілянину в супермаркеті](https://ua.korrespondent.net/ukraine/4905062-pid-kyievom-cholovik-vlashtuvav-strilianynu-v-supermarketi)<br>
 15:55 [У нацпарку на Одещині виявили нові тіла дельфінів](https://ua.korrespondent.net/ukraine/4905055-u-natsparku-na-odeschyni-vyiavyly-novi-tila-delfiniv)<br>
 15:47 [Вчені розкрили моторошну таємницю піраміди Уака Пукльяна](https://ua.korrespondent.net/tech/science/4905031-vcheni-rozkryly-motoroshnu-taiemnytsui-piramidy-uaka-pukliana)<br>
 15:05 [Голлівудський актор відвідав столицю України](https://ua.korrespondent.net/lifestyle/4905005-hollivudskyi-aktor-vidvidav-stolytsui-ukrainy)<br>
@@ -39,6 +40,12 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:43 [La Guardia Urbana detiene a un hombre por apuñalar a otro en la Rambla del Raval y busca a otro sospechoso](https://www.elperiodico.com/es/sucesos/20260821/guardia-urbana-detiene-hombre-apunalar-rambla-raval-herido-arma-blanca-133549182)<br>
+16:38 [Un estudio descubre las primeras pistas genéticas del trastorno límite de la personalidad](https://www.elperiodico.com/es/sociedad/20260821/trastorno-limite-personalidad-pistas-geneticas-133548329)<br>
+16:22 [La recomendación de la OCU a los afectados por los terremotos de Granada: "Comunícalo"](https://www.elperiodico.com/es/sociedad/20260821/recomendacion-ocu-afectados-terremotos-granada-dv-133548353)<br>
+16:20 [Se desata la guerra entre los cuatro hijos del mago Juan Tamariz y su viuda, Consuelo Lorgia](https://www.elperiodico.com/es/videos/sociedad/desata-guerra-cuatro-hijos-mago/133548771.shtml)<br>
+16:04 [Varios heridos por un individuo con una espada en una escuela de Suecia](https://www.elperiodico.com/es/internacional/20260821/suecia-heridos-individuo-espada-escuela-133548182)<br>
+16:00 [Cunit, la ciudad de Tarragona donde más crecerán las olas de calor en los próximos 25 años](https://www.elperiodico.com/es/tarragona/20260821/cunit-vendrell-calafell-zonas-mas-aumentaran-dias-ola-de-calor-tarragona-133523023)<br>
 15:47 [Barcelona dará hasta 800 euros para comprar una bicicleta eléctrica](https://www.elperiodico.com/es/barcelona/20260821/barcelona-ayudas-bicicleta-electrica-800-euros-133545909)<br>
 15:46 [La UME se activa como apoyo terrestre en el incendio de la Serra Calderona (Valencia) con el foco en zonas inaccesibles](https://www.elperiodico.com/es/sociedad/20260821/ume-activa-apoyo-terrestre-incendio-133547909)<br>
 15:42 [Es Alert en Gátova (Valencia): Confinan a los vecinos en sus casas por el humo del incendio en la Calderona](https://www.elperiodico.com/es/sociedad/20260821/alert-gatova-valencia-confinan-vecinos-133547567)<br>
