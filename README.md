@@ -1,8 +1,9 @@
-# News for 2026-08-21 17:55
+# News for 2026-08-21 18:36
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+18:00 [Курс євро встановив новий рекорд в Україні](https://ua.korrespondent.net/business/financial/4905097-kurs-yevro-vstanovyv-novyi-rekord-v-ukraini)<br>
 16:52 [Ебола поширюється в геометричній прогресії: в Конго вже понад 2500 жертв](https://ua.korrespondent.net/world/4905080-ebola-poshyruiietsia-v-heometrychnii-prohresii-v-konho-vzhe-ponad-2500-zhertv)<br>
 16:45 [Актер та його собака відвідали прем’єру Сузір’я великого пса](https://ua.korrespondent.net/showbiz/cinema/4905059-akter-ta-yoho-sobaka-vidvidaly-premieru-suziria-velykoho-psa)<br>
 16:24 [Під Києвом чоловік влаштував стрілянину в супермаркеті](https://ua.korrespondent.net/ukraine/4905062-pid-kyievom-cholovik-vlashtuvav-strilianynu-v-supermarketi)<br>
@@ -42,6 +43,14 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:35 [Robots aprenden nuevas habilidades viendo un solo vídeo de 30 segundos](https://www.elperiodico.com/es/tendencias21/20260821/robots-aprenden-nuevas-habilidades-viendo-133552560)<br>
+18:30 [José Abellán, cardiólogo, sobre tomar una copa de vino al día: "El mito más grande que hay sobre el corazón"](https://www.elperiodico.com/es/salud/20260821/jose-abellan-cardiologo-copa-vino-dia-mito-dv-133365522)<br>
+18:29 [La vacuna del melanoma demuestra la utilidad de la tecnología ARN ante el cáncer](https://www.elperiodico.com/es/videos/salud/vacuna-melanoma-demuestra-utilidad-tecnologia/133552330.shtml)<br>
+18:20 [Los turistas extranjeros coparon el 90% de los 2,1 millones de pernoctaciones hoteleras de julio en Barcelona](https://www.elperiodico.com/es/barcelona/20260821/extranjeros-coparon-nueve-de-cada-diez-pernoctaciones-hoteleras-barcelona-julio-133545849)<br>
+18:14 [La vacuna contra el melanoma despierta esperanzas entre los expertos: “Volvería a dar un giro a la oncología”](https://www.elperiodico.com/es/sanidad/20260821/vacuna-melanoma-despierta-esperanzas-expertos-133551951)<br>
+18:03 [Avanza el incendio forestal originado por un rayo en Segorbe (Castellón)](https://www.elperiodico.com/es/videos/sucesos/avanza-incendio-forestal-originado-rayo-segorbe/133551608.shtml)<br>
+18:02 [La persona más anciana del mundo, Ethel Caterham, cumple 117 años: "Nunca discuto con nadie, pero luego hago lo que quiero"](https://www.elperiodico.com/es/sociedad/20260821/persona-anciana-mundo-ethel-caterham-117-anos-abuela-secreto-longevidad-133550787)<br>
+18:01 [Gran noticia para los trabajadores de L'Hospitalet de Llobregat: tres puentes casi seguidos a la vuelta de vacaciones](https://www.elperiodico.com/es/barcelona/20260821/festivos-hospitalet-de-llobregat-puentes-trabajadores-fiesta-merce-dv-133550299)<br>
 17:38 [Fallece Clara Parramon, una figura esencial para preservar la memoria de L'Hospitalet de Llobregat](https://www.elperiodico.com/es/barcelona/20260821/fallece-clara-parramon-figura-esencial-preservar-memoria-hospitalet-llobregat-133550261)<br>
 17:32 [Un nuevo detenido entre los inmigrantes de Ceuta por agresión sexual](https://www.elperiodico.com/es/sociedad/20260821/nuevo-detenido-inmigrantes-ceuta-agresion-133550765)<br>
 17:27 [Una niña de cuatro años muere por sospecha de difteria en Italia: sus padres habían decidido no vacunarla](https://www.elperiodico.com/es/sociedad/20260821/nina-muere-difteria-vacuna-italia-133549850)<br>
