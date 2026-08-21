@@ -1,5 +1,176 @@
 [
   {
+    "title": "La Policía desaloja la playa de El Trampolín de Ceuta para reanudar las labores de limpieza",
+    "link": "https://www.elperiodico.com/es/politica/20260821/policia-desaloja-playa-trampolin-ceuta-reanudar-labores-limpieza-133537910",
+    "pubDate": "2026-08-21 10:58:51",
+    "category": "",
+    "description": "<h2>Agentes de la Policía Nacional escoltan a un batallón de limpiadores que retoman las labores suspendidas ayer por el regreso de parte de las miles de personas migrantes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Las fuertes tormentas inundan el metro de Nueva York y colapsan varias estaciones",
+    "link": "https://www.elperiodico.com/es/videos/internacional/fuertes-tormentas-inundan-metro-nueva/133537671.shtml",
+    "pubDate": "2026-08-21 10:50:24",
+    "category": "",
+    "description": "Las inclemencias del tiempo también afectan a la ciudad estadounidense",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rusia realiza maniobras militares en el mar de Japón en pleno aumento de tensión",
+    "link": "https://www.elperiodico.com/es/internacional/20260821/rusia-realiza-maniobras-militares-mar-de-japon-133537531",
+    "pubDate": "2026-08-21 10:48:13",
+    "category": "",
+    "description": "<h2>El despliegue militar se produce en plena confrontación por las islas Kuriles</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Gobierno concretará a Ceuta su propuesta para trasladar a 500 niñas a la Península en las \"próximas semanas\"",
+    "link": "https://www.elperiodico.com/es/politica/20260821/gobierno-ceuta-propuesta-trasladar-menores-peninsula-133537398",
+    "pubDate": "2026-08-21 10:46:03",
+    "category": "",
+    "description": "<h2>Los populares denuncian que el Ejecutivo no se haya puesto en contacto con ellos para analizar la situación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "De 90 a 44 euros: Amazon rebaja a su precio mínimo esta cámara exterior con visión nocturna y detección de movimiento",
+    "link": "https://www.elperiodico.com/es/shopping/20260821/camara-seguridad-exterior-inteligente-rebajada-133485551",
+    "pubDate": "2026-08-21 10:44:04",
+    "category": "",
+    "description": "<h2>Esta cámara de seguridad inteligente está diseñada para exteriores y es una de las opciones más populares, sobre todo ahora con su precio rebajado</h2><h2><a href=\"https://www.elperiodico.com/es/shopping/20260812/amazon-ofertas-baja-precios-rebajas-bc-133295934\" target=\"_blank\">Amazon derrumba sus precios HOY: las mejores ofertas del día con descuentos de hasta el 70 %</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Geely arriba a Tarragona de la mà de Kymotor, el concessionari del grup Ponsmove",
+    "link": "https://www.elperiodico.com/es/videos/economia/geely-tarragona-ma-kymotor-concessionari/133537178.shtml",
+    "pubDate": "2026-08-21 10:41:36",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere un subteniente del Ejército del Aire que estaba desplegado en Santiago en la lucha contra los incendios",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/muere-subteniente-ejercito-aire-desplegado-santiago-lucha-incendios-forestales-133537210",
+    "pubDate": "2026-08-21 10:40:38",
+    "category": "",
+    "description": "<h2>El Ejército del Aire y del Espacio ha mostrado su \"profundo dolor\" por la pérdida de José Ángel Fernández y ha dado su pésame a su familia, amigos y compañeros.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eva Matsa, maestra, explica qué debe hacer un niño ante un ahogamiento: \"La única forma de salvar a ese niño es gritar todo lo que pueda, no tiene nunca que ayudar a salir a ese niño\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/ahogamientos-ninos-piscina-prevencion-maestra-eva-matsa-dv-et-133325515",
+    "pubDate": "2026-08-21 10:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La creadora de contenido tiene una conversación con su hija: \"La hemos tenido sin drama, sin hablar de muertes, sin la palabra 'ahogarse', porque yo no quiero que nadie tenga miedo a la piscina\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260803/estudio-forense-vincula-ahogamientos-menores-cataluna-desigualdades-sociales-mitad-extranjeros-133053554\">Un estudio forense vincula los ahogamientos de menores en Catalunya a desigualdades sociales: más de la mitad eran extranjeros</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El estreno de Mourinho: \"Rodri habría sido la guinda, pero no nos falta un mediocentro\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/mourinho-real-madrid-espanyol-133537133",
+    "pubDate": "2026-08-21 10:36:57",
+    "category": "",
+    "description": "<h2>El nuevo entrenador del Real Madrid ofrece su primera rueda de prensa, 71 días después de anunciarse su regreso al Bernabéu</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La sequía desvela el pasado sumergido del Danubio: desde embarcaciones de la II Guerra Mundial hasta un mamut de hace 10.000 años",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260821/sequia-desvela-pasado-sumergido-danubio-133536980",
+    "pubDate": "2026-08-21 10:30:40",
+    "category": "",
+    "description": "<h2>Salen a la superficie tesoros como los cimientos del mayor puente del Imperio romano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Bomberos atienden 135 avisos por las tormentas desde el mediodía del jueves en Catalunya, sin servicios destacados durante la noche",
+    "link": "https://www.elperiodico.com/es/sociedad/20260821/bomberos-atienden-135-avisos-tormentas-133536332",
+    "pubDate": "2026-08-21 10:27:47",
+    "category": "",
+    "description": "<h2 class=\"item\">La mayoría de los avisos atendidos se debieron a caídas de mobiliario urbano, cables y árboles afectados por las fuertes precipitaciones</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260821/catalunya-alerta-temporal-lluvia-viento-granizo-133524612\">Catalunya activa la alerta Inuncat por el temporal de lluvias intensas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los sindicatos acuden a la mediación con Airbus tras dos plantones en encuentros anteriores",
+    "link": "https://www.elperiodico.com/es/economia/20260821/sindicatos-acuden-mediacion-airbus-plantones-133536904",
+    "pubDate": "2026-08-21 10:27:34",
+    "category": "",
+    "description": "<h2>CGT, UGT y ÚTIL se sentarán hoy a negociar con el fabricante de aviación, después de que vinculación del incremento salarial al IPC se pusiera sobre la mesa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hiperhidrosis: cuando sudar mucho no es solo culpa del calor veraniego",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/hiperhidrosis-sudar-no-culpa-calor-veraniego-video/133536845.shtml",
+    "pubDate": "2026-08-21 10:26:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "'La Odisea' se convierte en la película para adultos más taquillera de la historia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260821/odisea-pelicula-adultos-taquillera-historia-133536661",
+    "pubDate": "2026-08-21 10:25:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La película de Christopher Nolan lleva recaudados en todo el mundo 1.156 millones de euros y ya ha superado la marca de 'Deadpool y Lobezno'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Condenado a diez meses de prisión el asesino de una mujer en Catalunya por amenazar con matar a su expareja en Mallorca y pedir a la jueza que le encarcelara",
+    "link": "https://www.elperiodico.com/es/sucesos/20260821/condenado-diez-meses-prision-asesino-mujer-catalunya-amenazar-matar-expareja-mallorca-133536399",
+    "pubDate": "2026-08-21 10:15:51",
+    "category": "",
+    "description": "<h2>El hombre se presentó el martes en los juzgados pidiendo que le dejaran ver a la jueza. Fue detenido y juzgado y condenado el miércoles en un juicio rápido</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Geely llega a Tarragona de la mano de Kymotor, el concesionario del grupo Ponsmove",
+    "link": "https://www.elperiodico.com/es/videos/economia/geely-llega-tarragona-mano-kymotor/133536174.shtml",
+    "pubDate": "2026-08-21 10:13:04",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Agencia Tributaria de Catalunya se refuerza con la contratación de 43 nuevos técnicos",
+    "link": "https://www.elperiodico.com/es/economia/20260821/agencia-tributaria-catalunya-refuerza-contratacion-133536084",
+    "pubDate": "2026-08-21 10:11:08",
+    "category": "",
+    "description": "<h2>El organismo abre un proceso para contratar a 25 inspectores tributarios</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260723/agencia-tributaria-catalunya-destapa-333-132733111\">La Agencia Tributaria de Catalunya destapa 333 millones de fraude fiscal en 2025, la segunda cifra más alta de la serie histórica</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260320/presupuestos-generalitat-govern-situa-refuerzo-agencia-tributaria-catalunya-linea-negociacion-erc-128200309\">El Govern sitúa el refuerzo de la Agència Tributaria de Catalunya como \"línea de negociación\" con ERC para los presupuestos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ana Iglesias, madre de 10 hijos, prepara la vuelta al cole: \"No os podéis imaginar la cantidad de dinero que me dejo cada año en libros\"",
+    "link": "https://www.elperiodico.com/es/economia/20260821/vuleta-colegio-precio-libros-madre-10-hijos-ana-iglesias-dv-et-133432530",
+    "pubDate": "2026-08-21 10:10:30",
+    "category": "",
+    "description": "<h2>La mujer debe empezar a organizar el regreso a las clases en julio: \"Es una locura; o empiezo ya o no me da tiempo. Tengo que ser muy organizada\"</h2><h2><a href=\"https://www.elperiodico.com/es/tele/20260331/precio-alimentos-supermercado-raquel-francisco-padres-12-hijos-television-dv-128122150\">Una familia con 12 hijos revela la cifra que paga al año en el supermercado: \"Hemos doblado los gastos\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/educacion/20260523/vales-escolares-cataluna-fechas-requisitos-novedades-dv-loc-130176495\">Ya es oficial: fechas, requisitos y novedades de los vales escolares de Catalunya</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sandra Bullock habla de la traumática muerte de su pareja",
+    "link": "https://www.elperiodico.com/es/videos/gente/sandra-bullock-habla-traumatica-muerte-pareja-ela/133536260.shtml",
+    "pubDate": "2026-08-21 10:09:47",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Científicos crean una herramienta gratuita para seguir en tiempo real los terremotos de Granada y su evolución",
     "link": "https://www.elperiodico.com/es/sociedad/20260821/cientificos-crean-herramienta-gratuita-seguir-tiempo-real-terremotos-granada-133536247",
     "pubDate": "2026-08-21 10:07:16",
@@ -43,6 +214,15 @@
     "description": "<h2 class=\"item\">El especialista explica qué productos pueden estar detrás de la inflamación y por qué reducir su consumo puede ayudar a mejorar la digestión y el bienestar diario</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260430/aurelio-rojas-cardiologo-alimentos-salud-cancer-dv-129187727\">El cardiólogo Aurelio Rojas: \"Hay dos alimentos de tu día a día que están destrozando tu salud sin que te des cuenta\"</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Cómo prevenir las arrugas del rostro con estos 10 poderosos alimentos antiedad, según el nutricionista",
+    "link": "https://www.elperiodico.com/es/salud/20260821/alimentacion-arrugas-piel-102027692",
+    "pubDate": "2026-08-21 10:00:00",
+    "category": "",
+    "description": "<h2>Los alimentos y los hábitos del día a día juegan un papel fundamental en la salud de la piel y las arrugas, que suelen aparecer a los 30 años de edad</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
   },
   {
     "title": "Las lluvias torrenciales obligan a evacuar a 250 personas en Isola di Fondra, Italia",
