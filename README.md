@@ -1,8 +1,17 @@
-# News for 2026-08-21 14:04
+# News for 2026-08-21 15:10
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+15:05 [Голлівудський актор відвідав столицю України](https://ua.korrespondent.net/lifestyle/4905005-hollivudskyi-aktor-vidvidav-stolytsui-ukrainy)<br>
+15:01 [ЗСУ отримали перший реактивний дрон-перехоплювач](https://ua.korrespondent.net/ukraine/4905039-zsu-otrymaly-pershyi-reaktyvnyi-dron-perekhopluivach)<br>
+14:59 [У Києві затримали "вора в законі", який заїхав в Україну поза КПП](https://ua.korrespondent.net/ukraine/4905035-u-kyievi-zatrymaly-vora-v-zakoni-yakyi-zaikhav-v-ukrainu-poza-kpp)<br>
+14:58 [У Латвії виявили тунель на кордоні з Білоруссю, затримано 28 мігрантів](https://ua.korrespondent.net/world/4905034-u-latvii-vyiavyly-tunel-na-kordoni-z-bilorussui-zatrymano-28-mihrantiv)<br>
+14:49 [Цигарки на 15 млн гривень: у Миколаєві викрили групу торговців](https://ua.korrespondent.net/business/4905032-tsyharky-na-15-mln-hryven-u-mykolaievi-vykryly-hrupu-torhovtsiv)<br>
+14:29 [Одіссея Нолана стала найкасовішим фільмом із рейтингом R](https://ua.korrespondent.net/showbiz/cinema/4904983-odisseia-nolana-stala-naikasovishym-filmom-iz-reitynhom-R)<br>
+14:13 [СБУ звернулась до громадян перед Днем Незалежності](https://ua.korrespondent.net/ukraine/4905012-sbu-zvernulas-do-hromadian-pered-dnem-nezalezhnosti)<br>
+14:10 [У Львові дві автівки збили 8-річну дівчинку і її батька](https://ua.korrespondent.net/city/lvov/4905010-u-lvovi-dvi-avtivky-zbyly-8-richnu-divchynku-i-yii-batka)<br>
+13:23 [На Волині військовий збував боєприпаси: вилучили понад 52 тисячі набоїв](https://ua.korrespondent.net/ukraine/4904993-na-volyni-viiskovyi-zbuvav-boieprypasy-vyluchyly-ponad-52-tysiachi-naboiv)<br>
 12:39 [У Варшаві грузин зупинив урядове авто й виліз на дах](https://ua.korrespondent.net/world/4904974-u-varshavi-hruzyn-zupynyv-uriadove-avto-y-vyliz-na-dakh)<br>
 12:30 [У Швейцарії в двох пожежах постраждали 19 людей](https://ua.korrespondent.net/world/4904975-u-shveitsarii-v-dvokh-pozhezhakh-postrazhdaly-19-luidei)<br>
 12:19 [Синоптики попереджають про дощі з грозами і спеку до +37°](https://ua.korrespondent.net/ukraine/4904969-synoptyky-poperedzhauit-pro-doschi-z-hrozamy-i-speku-do-37)<br>
@@ -28,6 +37,11 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:49 [Jacob Elordi llega a la alfombra roja del preestreno mundial de 'La constelación del perro' en Londres](https://www.elperiodico.com/es/videos/ocio-y-cultura/jacob-elordi-llega-alfombra-roja-preestreno-mundial-constelacion-perro-londres-video/133546179.shtml)<br>
+14:26 [Francia detecta decenas de miles preservativos vendidos que incumplían las reglas](https://www.elperiodico.com/es/sociedad/20260821/francia-preservativos-detecta-decenas-miles-romperse-perforaciones-133545419)<br>
+14:24 [El Ayuntamiento de Tarragona activa el plan municipal en fase de alerta por riesgo de inundaciones](https://www.elperiodico.com/es/tarragona/20260821/catalunya-tarragona-activa-plan-municipal-alerta-riesgo-inundaciones-133545267)<br>
+14:21 [Un tiroteo en un domicilio del barrio de Artigues de Badalona se salda con una mujer herida de bala](https://www.elperiodico.com/es/videos/sociedad/tiroteo-domicilio-barrio-artigues-badalona-mujer-herida-bala-video/133545416.shtml)<br>
+14:04 [Así se debe actuar si un heredero ocupa la vivienda, según al abogado Manuel Hernández: “Podemos realizar dos actuaciones de manera efectiva”](https://www.elperiodico.com/es/economia/20260821/manuel-hernandez-abogado-especialista-herencias-como-actuar-heredero-ocupa-vivienda-dv-131068903)<br>
 14:02 [México documenta al menos 58 fosas clandestinas vinculadas con feminicidios](https://www.elperiodico.com/es/videos/internacional/mexico-documenta-58-fosas-clandestinas/133544890.shtml)<br>
 13:56 [Rescatados dos adultos y un bebé de una embarcación averiada frente la costa de Tarragona](https://www.elperiodico.com/es/tarragona/20260821/rescatados-adultos-bebe-embarcacion-averiada-costa-tarragona-133544198)<br>
 13:39 [El problemón de cubrir en Ibiza y Formentera las plazas de docentes de catalán](https://www.elperiodico.com/es/sociedad/20260821/problema-profesores-catalan-ibiza-133544051)<br>
