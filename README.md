@@ -1,4 +1,4 @@
-# News for 2026-08-21 12:42
+# News for 2026-08-21 13:23
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
@@ -24,9 +24,15 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 08:26 [Мільйонний спадок Панеттьєрі: кому дістануться її статки](https://ua.korrespondent.net/lifestyle/4904815-milionnyi-spadok-panettieri-komu-distanutsia-yii-statky)<br>
 
 ## as.com
+12:52 [Marta García y la depresión: “Estuve tres meses sin salir a la calle”](https://as.com/baloncesto/mas_baloncesto/marta-garcia-y-la-depresion-estuve-tres-meses-sin-salir-a-la-calle-f202608-n/)<br>
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:11 [¿Cuánto puede durar un periodo de prueba? El Estatuto de los Trabajadores fija unos límites claros](https://www.elperiodico.com/es/economia/20260821/cuanto-puede-durar-periodo-prueba-estatuto-trabajadores-fija-limites-dv-133539791)<br>
+13:08 [¿Veneno o enfermedad? Una polémica envuelve la misteriosa muerte de 18 elefantes en Kenia](https://www.elperiodico.com/es/medio-ambiente/20260821/veneno-o-enfermedad-polemica-envuelve-133542787)<br>
+13:00 [Barcelona ha encadenado más de 50 días de calor extremo en un verano en el que todas las jornadas han estado entre las más cálidas jamás registradas](https://www.elperiodico.com/es/sociedad/20260821/barcelona-dias-calor-extremo-verano-registros-record-133518682)<br>
+13:00 [El nuevo CAP Fort Pienc doblará las consultas del ambulatorio del paseo Sant Joan cuando lo sustituya en 2028](https://www.elperiodico.com/es/barcelona/20260821/barcelona-cap-fort-pienc-obras-doble-de-consultas-133480961)<br>
+12:54 [El precio del euríbor hoy, 21 de agosto: el índice tumba la barrera del 3% por primera vez en casi dos años](https://www.elperiodico.com/es/economia/20260821/precio-euribor-hoy-21-agosto-dv-133541804)<br>
 12:39 [Nace en España el "BlaBlaCar" de las mercancías: "Queremos competir de tú a tú con las grandes empresas"](https://www.elperiodico.com/es/economia/20260821/nace-espana-blablacar-mercancias-queremos-133541715)<br>
 12:34 [Arena de playa: los riesgos de usarla como exfoliante natural](https://www.elperiodico.com/es/sociedad/20260821/exfoliar-piel-arena-playa-perjudicial-133540126)<br>
 12:25 [La lección de una jubilada de 85 años sobre la longevidad: "Tengo la misma talla que hace 50 años"](https://www.elperiodico.com/es/vida-y-estilo/20260821/leccion-jubilada-85-anos-longevidad-salud-dv-et-133540441)<br>
