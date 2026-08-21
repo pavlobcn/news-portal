@@ -1,5 +1,59 @@
 [
   {
+    "title": "Великобританія готує санкції проти Ізраїлю",
+    "link": "https://ua.korrespondent.net/world/4904852-velykobrytaniia-hotuie-sanktsii-proty-izrailui",
+    "pubDate": "2026-08-21 05:36:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535190.jpg\">Велика Британія засудила оголошення урядом Ізраїлю тендеру на проєкт поселення в самому серці Палестини.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Doce años de prisión para un hombre por violar a su hija durante una década: \"Un padre no hace eso, me destrozaste la vida\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260821/sentencia-agresion-sexual-padre-hija-menor-133531064",
+    "pubDate": "2026-08-21 05:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">La víctima tenía 8 años cuando su progenitor comenzó a \"abusar sexualmente de ella todas las semanas\", hasta que cumplió 18 años y se marchó de la casa familiar, en Madrid</h2><h2 class=\"item\">La grabación de una llamada telefónica entre padre e hija ha sido la prueba principal del juicio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ракетні навчання РФ спровокували напругу з Японією - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4904850-raketni-navchannia-rf-sprovokuvaly-napruhu-z-yaponiieui-zmi",
+    "pubDate": "2026-08-21 04:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535177.jpg\">Росія провела рідкісні ракетні навчання поблизу островів, на які претендує Японія; Токіо назвав їх неприйнятними.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Дрони атакували Крим: в частині міст зникло світло",
+    "link": "https://ua.korrespondent.net/ukraine/4904848-drony-atakuvaly-krym-v-chastyni-mist-znyklo-svitlo",
+    "pubDate": "2026-08-21 04:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535176.jpg\">Масові відключення світла фіксуються в таких містах Севастополь, Джанкой, Сімферополь та Керч.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Главу забудовника №1 в Китаї засудили до довічного ув'язнення",
+    "link": "https://ua.korrespondent.net/business/companies/4904846-hlavu-zabudovnyka-1-v-kytai-zasudyly-do-dovichnoho-uviaznennia",
+    "pubDate": "2026-08-21 03:58:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535157.jpg\">Суд у китайському місті Шеньчжень оголосив присуд для засновника девелоперської компанії Evergrande Хуей Ка Яня.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Удар Росії по Києву: ДСНС підбила підсумки",
+    "link": "https://ua.korrespondent.net/city/kiev/4904844-udar-rosii-po-kyievu-dsns-pidbyla-pidsumky",
+    "pubDate": "2026-08-21 03:45:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535141.jpg\">Рятувальники нині демонтували п'ять плит перекриття і розібрали та вивезли 62 куб. м зруйнованих будівельних конструкцій.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Tiempo en Catalunya hoy viernes 21 de agosto: el Meteocat alerta de lluvias muy intensas al final del día",
     "link": "https://www.elperiodico.com/es/tiempo/20260821/tiempo-catalunya-hoy-viernes-21-agosto-lluvias-tormentas-dv-loc-133520984",
     "pubDate": "2026-08-21 03:00:00",
@@ -7,6 +61,24 @@
     "description": "<h2>El Servei Meteorològic de Catalunya emite avisos por tiempo violento y por intensidad de lluvia</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Латвія публікуватиме перелік підприємств, що торгують з РФ та Білоруссю",
+    "link": "https://ua.korrespondent.net/business/companies/4904842-latviia-publikuvatyme-perelik-pidpryiemstv-scho-torhuuit-z-rf-ta-bilorussui",
+    "pubDate": "2026-08-21 02:53:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535128.jpg\">Перелік таких компаній планується оновлювати раз на місяць, зазначає латвійський мовник LSM.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Російські дрони атакували Суми: спалахнули пожежі",
+    "link": "https://ua.korrespondent.net/ukraine/4904838-rosiiski-drony-atakuvaly-sumy-spalakhnuly-pozhezhi",
+    "pubDate": "2026-08-21 01:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535108.jpg\">Загроза повторних російських ударів стримує роботу рятувальників, повідомили в Сумській МВА.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Небензя заперечив підготовку Росії до мобілізації після виборів",
@@ -25,5 +97,14 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленському пропонували атаки аеропортів РФ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4904832-zelenskomu-proponuvaly-ataky-aeroportiv-rf-zmi",
+    "pubDate": "2026-08-21 00:38:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535081.jpg\">Чиновник із Офісу президента у коментарі виданню The Atlantic заперечив існування такого плану.",
+    "topic": "політика",
+    "topic_match_probability": 90
   }
 ]
