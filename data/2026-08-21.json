@@ -1,5 +1,50 @@
 [
   {
+    "title": "La FIFA sanciona con diez partidos a Paredes por la pelea contra España tras la final del Mundial",
+    "link": "https://www.elperiodico.com/es/videos/deportes/fifa-sanciona-diez-partidos-paredes/133554910.shtml",
+    "pubDate": "2026-08-21 20:10:18",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ атаковала Миколаївщину: загинули троє дітей",
+    "link": "https://ua.korrespondent.net/ukraine/4905130-rf-atakovala-mykolaivschynu-zahynuly-troie-ditei",
+    "pubDate": "2026-08-21 20:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535645.jpg\">Російський Shahed влучив у будівлю в селі Токарівка на Миколаївщині, де працювали магазин, аптека та пошта. Загинули четверо людей, серед них троє дітей.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Кабмін припинив повноваження голови наглядової ради Sense Bank",
+    "link": "https://ua.korrespondent.net/ukraine/4905133-kabmin-prypynyv-povnovazhennia-holovy-nahliadovoi-rady-Sense-Bank",
+    "pubDate": "2026-08-21 20:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535651.jpg\">Також за пропозицією Міністерства фінансів призначено представника держави до складу наглядової ради банку, щоб прискорити формування кворуму в органах управління.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La profesora de Carlos Alcaraz recuerda cómo era de niño: \"No quería perder ni a las chapas, era muy competitivo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260821/profesora-carlos-alcaraz-recuerda-infancia-educacion-competitivo-dv-et-133360916",
+    "pubDate": "2026-08-21 20:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La infancia del tenista murciano estuvo marcada por una ambición precoz y un carácter competitivo que ya anticipaba la figura que hoy lidera el relevo del tenis español</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260703/refugio-carlos-alcaraz-23-anos-murcia-dv-131926396\">El refugio de Carlos Alcaraz (23 años) en Murcia, con senderos, vegetación mediterránea y buenas vistas: \"Está muy infravalorado\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El cielo de Ecuador se llena de globos aerostáticos en el festival de la Mitad del Mundo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/cielo-ecuador-llena-globos-aerostaticos/133554759.shtml",
+    "pubDate": "2026-08-21 19:59:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El ministro marroquí insiste en el \"derecho histórico\" sobre Ceuta y Melilla",
     "link": "https://www.elperiodico.com/es/internacional/20260821/ministro-marroqui-insiste-derecho-historico-133554079",
     "pubDate": "2026-08-21 19:30:37",
@@ -36,6 +81,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Удар Росії по ТРЦ у Кривому Розі: вже 14 загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4905120-udar-rosii-po-trts-u-kryvomu-rozi-vzhe-14-zahyblykh",
+    "pubDate": "2026-08-21 19:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535616.jpg\">Кількість загиблих через російську атаку на торговельний центр у Кривому Розі зросла до 14. У місті спалахнула масштабна пожежа, десятки людей постраждали.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Por qué los psicólogos recomiendan escribir la lista de la compra a mano: este es el beneficio para el cerebro",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260821/psicologos-recomiendan-escribir-lista-compra-beneficio-cerebro-dv-133420144",
     "pubDate": "2026-08-21 19:10:00",
@@ -61,6 +115,15 @@
     "description": "<h2>Este renovado Citroën 2CV se dará a conocer oficialmente en el próximo Salón de París y esto es lo que ya sabemos de él.</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "У Луцьку група людей напала на працівників ТЦК",
+    "link": "https://ua.korrespondent.net/ukraine/4905116-u-lutsku-hrupa-luidei-napala-na-pratsivnykiv-ttsk",
+    "pubDate": "2026-08-21 19:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535612.png\">Внаслідок інциденту двоє військовослужбовців ТЦК отримали численні синці та садна. Також суттєво пошкодили автомобіль ТЦК.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Caracoles y un arquitecto litigante: la batalla urbanística en un pueblo de Irlanda por el otro salón de baile de Trump",
