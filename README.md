@@ -1,11 +1,22 @@
-# News for 2026-08-21 08:37
+# News for 2026-08-21 09:29
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
 ## ua.korrespondent.net
+08:46 [У Києві на три дні частково перекриють рух мостом Метро](https://ua.korrespondent.net/city/kiev/4904883-u-kyievi-na-try-dni-chastkovo-perekryuit-rukh-mostom-metro)<br>
 08:26 [Мільйонний спадок Панеттьєрі: кому дістануться її статки](https://ua.korrespondent.net/lifestyle/4904815-milionnyi-spadok-panettieri-komu-distanutsia-yii-statky)<br>
 
+## as.com
+09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
+
 ## www.elperiodico.com
+09:23 [Precio del petróleo hoy, 21 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260821/precio-petroleo-hoy-21-agosto-dv-133535019)<br>
+09:22 [Incendios hoy, 21 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260821/incendios-hoy-21-agosto-cataluna-espana-mapa-fuegos-activos-dv-133535020)<br>
+09:16 [Tu móvil sabrá cuánta grasa tienes: la nueva inteligencia artificial de Google para escanear tu cuerpo](https://www.elperiodico.com/es/tecnologia/20260821/google-grasa-corporal-photoscan-ia-movil-dv-133505054)<br>
+09:12 [El Govern impulsa un plan para mejorar los accesos a pueblos de comarcas de montaña y Aran (Lleida)](https://www.elperiodico.com/es/sociedad/20260821/govern-impulsa-plan-mejorar-accesos-pueblos-comarcas-montana-133534672)<br>
+09:09 [Las nuevas imágenes de Val Kilmer 'resucitado' con IA desatan la polémica en Hollywood: ¿es ético que los actores muertos sigan trabajando?](https://www.elperiodico.com/es/gente/20260821/val-kilmer-inteligencia-artificial-resucitado-nuevas-imagenes-polemica-hollywood-133534367)<br>
+09:06 [Sandra Bullock habla de la traumática muerte de su pareja tras luchar contra la ELA](https://www.elperiodico.com/es/gente/20260821/sandra-bullock-habla-muerte-pareja-lucha-ela-133534468)<br>
+08:53 [Cortada la RL4 de Rodalies entre Calaf y Manresa por una incidencia técnica provocada por el tiempo](https://www.elperiodico.com/es/trafico-y-transportes/20260821/rodalies-queda-megafonia-monitores-informativos-incidencia-tecnica-133534230)<br>
 08:31 [Barcelona vive una noche 5 grados más 'fresca' que la anterior: de tórrida a tropical en gran parte de la ciudad](https://www.elperiodico.com/es/barcelona/20260821/barcelona-noche-calor-temperaturas-133533755)<br>
 08:19 [El incendio de Las Hurdes afronta una jornada clave para consolidar el perímetro tras contener su avance](https://www.elperiodico.com/es/sociedad/20260821/incendio-hurdes-fuego-extremadura-cecopi-perimetro-133534204)<br>
 08:12 [El VII IBIZA WELLNESS WEEKEND 2026 reúne a grandes talentos del bienestar y la sostenibilidad](https://www.elperiodico.com/es/sociedad/20260821/vii-ibiza-wellness-weekend-2026-bc-133533956)<br>
