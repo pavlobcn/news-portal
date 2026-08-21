@@ -1,4 +1,4 @@
-# News for 2026-08-21 19:44
+# News for 2026-08-21 20:15
 
 Previous day: [2026-08-20](./data/2026-08-20.md)
 
@@ -43,6 +43,7 @@ Previous day: [2026-08-20](./data/2026-08-20.md)
 09:09 [Kalinic se retira](https://as.com/baloncesto/euroliga/kalinic-se-retira-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:59 [El cielo de Ecuador se llena de globos aerostáticos en el festival de la Mitad del Mundo](https://www.elperiodico.com/es/videos/sociedad/cielo-ecuador-llena-globos-aerostaticos/133554759.shtml)<br>
 19:29 [Los expertos auguran que el fenómeno de El Niño será "el más intenso en más de un siglo"](https://www.elperiodico.com/es/sociedad/20260821/fenomeno-el-nino-previsiones-el-peor-desde-que-hay-registros-133553552)<br>
 19:15 [Interceptada una patera que se disponía a cruzar el canal de la Mancha](https://www.elperiodico.com/es/videos/internacional/interceptada-patera-disponia-cruzar-canal/133553448.shtml)<br>
 19:10 [Por qué los psicólogos recomiendan escribir la lista de la compra a mano: este es el beneficio para el cerebro](https://www.elperiodico.com/es/vida-y-estilo/20260821/psicologos-recomiendan-escribir-lista-compra-beneficio-cerebro-dv-133420144)<br>
