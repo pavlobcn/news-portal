@@ -1,5 +1,50 @@
 [
   {
+    "title": "Pekín inaugura sus segundos Juegos de robots humanoides con 25 equipos extranjeros",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/pekin-inaugura-segundos-juegos-robots/133574681.shtml",
+    "pubDate": "2026-08-22 20:54:18",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Харкові відкрився оперний фестиваль",
+    "link": "https://ua.korrespondent.net/city/kharkov/4905326-u-kharkovi-vidkryvsia-opernyi-festyval",
+    "pubDate": "2026-08-22 20:35:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536655.jpg\">Міський голова Ігор Терехов запевнив, що заходи фестивалю відбуватимуться тільки в безпечних локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De cuatro mandos a un cine sobre ruedas: así ha cambiado el interior del coche",
+    "link": "https://www.elperiodico.com/es/motor/20260822/como-ha-cambiado-habitaculo-coches-133325010",
+    "pubDate": "2026-08-22 20:30:33",
+    "category": "",
+    "description": "<h2>Más de un siglo de evolución ha transformado el habitáculo de los coches de un simple puesto de conducción a un espacio de tecnología, confort y entretenimiento.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Espanyol - Real Madrid, hoy en directo: última hora del partido de LaLiga",
+    "link": "https://www.elperiodico.com/es/deportes/20260822/rdc-espanyol-real-madrid-ultima-hora-directo-liga-133570891",
+    "pubDate": "2026-08-22 20:27:40",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Qué pasaría si hay un terremoto fuerte en Málaga?: el 28,84% de los edificios sufrirían daños altos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/pasaria-hay-terremoto-fuerte-malaga-133474457",
+    "pubDate": "2026-08-22 20:25:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La zona de mayor riesgo sísmico de la provincia se encuentra en el Valle del Guadalhorce</h2><h2 class=\"item\">La capital también es vulnerable por la existencia de edificaciones más antiguas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Trasladan al hospital de Toledo a una niña de 3 años hallada inconsciente en una piscina",
     "link": "https://www.elperiodico.com/es/sucesos/20260822/trasladan-hospital-toledo-nina-3-133574014",
     "pubDate": "2026-08-22 20:19:20",
@@ -61,6 +106,15 @@
     "description": "<h2 class=\"item\">El debate para decidir qué ciudad es mejor tiende a lo absurdo para algunas personas que prefieren quedarse con lo mejor de cada una</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20251102/martin-grinberg-barcelona-combina-tradicion-y-modernidad-123239450\">Martin Grinberg: \"Barcelona combina tradición y modernidad\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Amazon derrumba sus precios HOY: las mejores ofertas del día con descuentos de hasta el 70 %",
+    "link": "https://www.elperiodico.com/es/shopping/20260822/amazon-ofertas-baja-precios-rebajas-bc-133295934",
+    "pubDate": "2026-08-22 20:00:00",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">En las siguientes líneas, encontrarás algunas de las mejores ofertas del día en Amazon, las mismas que dejan a su precio mínimo aquellos productos que, desde hace tiempo, pueden ser tuyos a precio de ganga</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 95
   },
   {
     "title": "Los Mossos dividen la plaza Sant Jaume para evitar el contacto entre antifascistas y simpatizantes de Save Europe Act",
