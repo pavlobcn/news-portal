@@ -1,8 +1,9 @@
-# News for 2026-08-22 23:30
+# News for 2026-08-23 00:17
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+23:44 [У Львівському ТЦК спростував інформацію про смерть чоловіка](https://ua.korrespondent.net/city/lvov/4905356-u-lvivskomu-ttsk-sprostuvav-informatsiui-pro-smert-cholovika)<br>
 22:09 [Угорщина перезапускає один з реакторів своєї АЕС](https://ua.korrespondent.net/business/economics/4905340-uhorschyna-perezapuskaie-odyn-z-reaktoriv-svoiei-aes)<br>
 21:59 [Від початку доби відбулося 197 боєзіткнень](https://ua.korrespondent.net/ukraine/4905337-vid-pochatku-doby-vidbulosia-197-boiezitknen)<br>
 21:30 [Вінницький ТЦК спростував інформацію про переслідування чоловіка та ДТП](https://ua.korrespondent.net/ukraine/4905334-vinnytskyi-ttsk-sprostuvav-informatsiui-pro-peresliduvannia-cholovika-ta-dtp)<br>
