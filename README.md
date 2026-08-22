@@ -1,8 +1,9 @@
-# News for 2026-08-22 15:46
+# News for 2026-08-22 16:35
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+16:15 [Контракт гравця Клівленда побив фінансовий рекорд НБА](https://ua.korrespondent.net/sport/basketball/4905266-kontrakt-hravtsia-klivlenda-pobyv-finansovyi-rekord-nba)<br>
 14:40 [Сховаються не всі: скільки нових укриттів збудували у Києві з 2022 року](https://ua.korrespondent.net/kyiv/4905274-skhovauitsia-ne-vsi-skilky-novykh-ukryttiv-zbuduvaly-u-kyievi-z-2022-roku)<br>
 14:21 [РФ завдала сім ударів по Запорізькому району: троє загиблих, 15 поранених](https://ua.korrespondent.net/city/zaporozhye/4905272-rf-zavdala-sim-udariv-po-zaporizkomu-raionu-troie-zahyblykh-15-poranenykh)<br>
 14:00 [Інтервенції Нацбанку наблизились до рекорду](https://ua.korrespondent.net/business/financial/4905270-interventsii-natsbanku-nablyzylys-do-rekordu)<br>
@@ -29,6 +30,10 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:30 [La mujer más longeva de Catalunya cumple 112 años: "Cuando yo era pequeña, sólo había un señor en coche en Olot"](https://www.elperiodico.com/es/videos/sociedad/mujer-longeva-catalunya-cumple-112/133569375.shtml)<br>
+16:20 [Los podólogos coinciden: "Las chanclas no son para caminar durante horas"](https://www.elperiodico.com/es/salud/20260822/podologos-coinciden-chanclas-caminar-calzado-malo-durante-horas-dv-et-133299566)<br>
+16:10 [La advertencia de la NASA tras su último hallazgo: los microbios humanos de los astronautas pueden ‘contaminar’ la Luna](https://www.elperiodico.com/es/ciencia/20260822/advertencia-nasa-hallazgo-microbios-humanos-contaminar-luna-dv-133549999)<br>
+15:49 [Los Mossos atrapan en el Vendrell a un 'camello' con una orden de entrada en prisión](https://www.elperiodico.com/es/sucesos/20260822/mossos-atrapan-vendrell-camello-orden-entrada-prision-droga-133568862)<br>
 15:30 [Carlos (87 años) superó un problema de salud hace unos años y tomó la decisión de salir a viajar: "No puedo quedarme sentado en el comedor, esperando morirme"](https://www.elperiodico.com/es/economia/20260822/supero-problema-salud-camperizar-furgoneta-argentina-viajes-carlos-dv-et-133517441)<br>
 15:30 [Los jóvenes sevillanos que renuncian a las vacaciones para trabajar a 40 grados: "Necesito poder pagarme el piso si quiero seguir independizado"](https://www.elperiodico.com/es/sociedad/20260822/jovenes-sevillanos-renuncian-vacaciones-trabajar-133474456)<br>
 15:07 [Detenido por pegar fuego a dos motos de agua porque no le devolvieron la fianza en Mallorca](https://www.elperiodico.com/es/sucesos/20260822/detenido-pegar-fuego-motos-agua-fianza-mallorca-133568258)<br>
