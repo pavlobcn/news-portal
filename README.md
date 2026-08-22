@@ -1,8 +1,9 @@
-# News for 2026-08-22 09:07
+# News for 2026-08-22 09:44
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+09:11 [Росія атакувала залізничну інфраструктуру у Києві і на Одещині](https://ua.korrespondent.net/ukraine/4905234-rosiia-atakuvala-zaliznychnu-infrastrukturu-u-kyievi-i-na-odeschyni)<br>
 08:28 [У Києві на чотири дні обмежать рух транспорту](https://ua.korrespondent.net/city/kiev/4905227-u-kyievi-na-chotyry-dni-obmezhat-rukh-transportu)<br>
 07:05 [Нідерланди оштрафували Uber на 825 млн євро](https://ua.korrespondent.net/business/companies/4905216-niderlandy-oshtrafuvaly-Uber-na-825-mln-yevro)<br>
 06:44 [Генштаб назвав втрати Росії станом на 22 серпня](https://ua.korrespondent.net/ukraine/4905213-henshtab-nazvav-vtraty-rosii-stanom-na-22-serpnia)<br>
@@ -17,6 +18,14 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+09:40 [Estallido "exponencial" del ébola en el Congo: la ONU avisa de que se agotan los recursos](https://www.elperiodico.com/es/internacional/20260822/onu-alerta-expansion-exponencial-ebola-congo-epidemia-133561620)<br>
+09:39 [Las llamas devoran Aragón: el peor verano de fuegos en la comunidad quema más de 44.500 hectáreas](https://www.elperiodico.com/es/sociedad/20260822/llamas-devoran-aragon-peor-verano-incendios-133561941)<br>
+09:35 [Un herido crítico tras la caída de un muro en Roda de Berà](https://www.elperiodico.com/es/sociedad/20260822/herido-critico-caida-muro-roda-133561555)<br>
+09:35 [Incendios hoy, 22 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260822/incendios-hoy-22-agosto-catalunya-espana-mapa-incendios-activos-dv-133561839)<br>
+09:30 [Así han sido los primeros regresos tras el incendio de Las Peñas de Riglos](https://www.elperiodico.com/es/videos/sociedad/han-sido-primeros-regresos-incendio/133561810.shtml)<br>
+09:22 [La UME refuerza la defensa de la localidad valenciana de Gátova ante el avance de las llamas](https://www.elperiodico.com/es/sociedad/20260822/ume-refuerza-defensa-localidad-valenciana-gatova-avance-incendio-133561600)<br>
+09:15 [El último gran capricho de Mark Zuckerberg: se compra un espectacular castillo neogótico en Irlanda](https://www.elperiodico.com/es/gente/20260822/mark-zuckerberg-castillo-strancally-irlanda-waterford-dv-133537727)<br>
+09:10 [Andrés López, psiquiatra, sobre el ‘reto marrón’ que ha obligado al cierre de varias piscinas, incluidas las de PortAventura: "Puede haber algún problema emocional"](https://www.elperiodico.com/es/sociedad/20260822/andres-lopez-psiquiatra-reto-marron-cierre-piscinas-excrementos-dv-et-133547396)<br>
 09:05 [Ramon Vallès, piloto de avión: "Es muy improbable que un avión salga con el depósito lleno"](https://www.elperiodico.com/es/trafico-y-transportes/20260822/ramon-valles-piloto-iberia-instagram-improbable-avion-combustible-dv-120840556)<br>
 09:00 [Suiza, refugio climático](https://www.elperiodico.com/es/opinion/20260822/suiza-refugio-climatico-133551762)<br>
 09:00 [Anne Hathaway, del 'hathahate' a reinar en la cartelera veraniega](https://www.elperiodico.com/es/ocio-y-cultura/20260822/anne-hathaway-reina-cartelera-veraniega-133508981)<br>
