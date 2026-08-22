@@ -1,8 +1,9 @@
-# News for 2026-08-22 06:50
+# News for 2026-08-22 07:20
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+07:05 [Нідерланди оштрафували Uber на 825 млн євро](https://ua.korrespondent.net/business/companies/4905216-niderlandy-oshtrafuvaly-Uber-na-825-mln-yevro)<br>
 06:44 [Генштаб назвав втрати Росії станом на 22 серпня](https://ua.korrespondent.net/ukraine/4905213-henshtab-nazvav-vtraty-rosii-stanom-na-22-serpnia)<br>
 05:18 [В Естонії засудили агента ГРУ, який збирав дані про НАТО](https://ua.korrespondent.net/world/4905205-v-estonii-zasudyly-ahenta-hru-yakyi-zbyrav-dani-pro-nato)<br>
 03:39 [У Сеуті затримали мігранта за підозрою у сексуальному нападі](https://ua.korrespondent.net/world/4905199-u-seuti-zatrymaly-mihranta-za-pidozroui-u-seksualnomu-napadi)<br>
@@ -10,7 +11,12 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 01:57 [В Києві горіло складське приміщення](https://ua.korrespondent.net/city/kiev/4905191-v-kyievi-horilo-skladske-prymischennia)<br>
 01:01 [У Львові смертельно поранили військового ТЦК](https://ua.korrespondent.net/city/lvov/4905185-u-lvovi-smertelno-poranyly-viiskovoho-ttsk)<br>
 
+## as.com
+06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
+
 ## www.elperiodico.com
+07:16 [Sentencia de Daniel Sancho, en directo | Última hora de la condena y el próximo veredicto del Tribunal en Tailandia](https://www.elperiodico.com/es/sociedad/20260822/daniel-sancho-sentencia-ultima-hora-directo-133425232)<br>
+07:15 [David y Rocío lo dejaron todo para volver a los orígenes en una aldea: "Ver avanzar a la sociedad, por un lado me parece bien, pero por otro también me da pena ver que todo esto está desapareciendo"](https://www.elperiodico.com/es/economia/20260822/todo-dejaron-volver-origenes-aldea-asturias-ganaderia-forja-david-rocio-dv-et-133491092)<br>
 06:37 [Lluvia en Catalunya, hoy en directo: última hora del tiempo y las fuertes precipitaciones en el Baix Penedès y el litoral de Tarragona](https://www.elperiodico.com/es/sociedad/20260822/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728)<br>
 06:10 [La vida de Daniel Sancho en la prisión de Tailandia: posibles cartas de amor de admiradores](https://www.elperiodico.com/es/gente/20260822/vida-daniel-sancho-prision-tailandia-cartas-amor-dv-133544155)<br>
 06:01 [Ruta ártica de la seda](https://www.elperiodico.com/es/opinion/20260822/ruta-artica-seda-133554863)<br>
