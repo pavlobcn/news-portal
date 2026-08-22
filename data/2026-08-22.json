@@ -1,5 +1,77 @@
 [
   {
+    "title": "Marta Francés, la medallista paralímpica que volvió a aprender a caminar: \"Retirarme no fue rendirme, fue protegerme\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260822/marta-frances-medallista-paralimpica-aprender-caminar-entrevista-dv-et-133511257",
+    "pubDate": "2026-08-22 10:15:15",
+    "category": "",
+    "description": "<h2>La triatleta paralímpica relata cómo el deporte fue su refugio y salvavidas tras sufrir bullying y un tumor cerebral, permitiéndole reconstruir su vida</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Se ven menos medusas este año... y no influye que el mar esté más caliente",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/cae-avistamiento-medusas-mar-caliente-133561980",
+    "pubDate": "2026-08-22 10:04:16",
+    "category": "",
+    "description": "<h2>El avistamiento de esos animales cae un 20%, según un experto del Laboratorio Marino de la Universidad de Alicante</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La aclamada serie italiana 'La amiga estupenda' llega este domingo a La 2",
+    "link": "https://www.elperiodico.com/es/tele/20260822/aclamada-serie-italiana-amiga-estupenda-133521407",
+    "pubDate": "2026-08-22 10:00:36",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Porsche resucita la leyenda de Moby Dick con el exclusivo 911 Flachbau RS",
+    "link": "https://www.elperiodico.com/es/motor/20260822/porsche-resucita-leyenda-moby-dick-133455429",
+    "pubDate": "2026-08-22 10:00:34",
+    "category": "",
+    "description": "<h2>El departamento Sonderwunsch transforma un 911 GT2 RS en una pieza única de colección homologada para calle, recortando 31,6 kilos y adoptando el icónico frontal plano</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El nuevo 'dream team' de la narrativa en español",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260822/nuevo-dream-team-narrativa-espanol-133512489",
+    "pubDate": "2026-08-22 10:00:33",
+    "category": "",
+    "description": "<h2 class=\"item\">La Feria del Libro de Guadalajara selecciona a los 26 autores menores de 40 años, entre ellos Lucía Solla Sobral, Munir Hachemi y Marta Jiménez Serrano, que están ampliando el mapa de la literatura en lengua española</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260125/nuevos-fenomenos-literarios-pratsobrerroca-corujo-solla-sobral-125961956\">Superventas por sorpresa: así son los jóvenes fenómenos literarios que compiten con Dan Brown y Freida McFadden</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Por qué estos auriculares con cancelación de ruido de 67 € (antes 100) son de lo mejor que puedes comprar ahora",
+    "link": "https://www.elperiodico.com/es/shopping/20260822/auriculares-cancelacion-ruido-jbl-oferta-109286695",
+    "pubDate": "2026-08-22 09:55:00",
+    "category": "",
+    "description": "<h2>Si bien los AirPods son uno de los artículos más buscados, estos auriculares JBL tienen todo para convertirse en uno de los grandes favoritos de quienes buscan calidad de sonido, cancelación de ruido y una batería que aguante todo el día. Y ahora, además, están rebajados</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Жертв в Україні могло б не бути - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4905239-zhertv-v-ukraini-mohlo-b-ne-buty-zelenskyi",
+    "pubDate": "2026-08-22 09:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536074.jpg\">У Кривому Розі ліквідовано пожежу на площі 9 тисяч кв. м. Фахівці ДСНС розбирають завали й продовжують пошуки людей.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ácaros depredadores liberados por un dron combatirán la plaga de araña roja del maíz",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/acaros-depredadores-liberados-dron-combatiran-133561865",
+    "pubDate": "2026-08-22 09:51:02",
+    "category": "",
+    "description": "<h2>Cooperativas de agricultores pretenden proteger de este modo sus cultivos</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/terrasa/20250725/una-plaga-de-escarabajos-obliga-a-terrassa-a-pulverizar-unas-50-zonas-de-la-ciudad-120066013\">Una plaga de escarabajos obliga a Terrassa a pulverizar unas 50 zonas de la ciudad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Estallido \"exponencial\" del ébola en el Congo: la ONU avisa de que se agotan los recursos",
     "link": "https://www.elperiodico.com/es/internacional/20260822/onu-alerta-expansion-exponencial-ebola-congo-epidemia-133561620",
     "pubDate": "2026-08-22 09:40:49",
