@@ -1,4 +1,4 @@
-# News for 2026-08-22 17:24
+# News for 2026-08-22 17:55
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
@@ -35,6 +35,9 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:36 [Ileso un conductor tras caer 6 metros desde un puente a las vías del tren en Madrid](https://www.elperiodico.com/es/sociedad/20260822/ileso-conductor-puente-tren-cercanias-accidente-madrid-133570366)<br>
+17:29 [Los seísmos de Granada provocan 35 millones en daños y 12.500 peticiones de indemnización](https://www.elperiodico.com/es/sociedad/20260822/seismos-granada-35-millones-danos-133570333)<br>
+17:25 [El tren turístico de Toledo atropella a un hombre tras ponerse en movimiento estando vacío](https://www.elperiodico.com/es/sucesos/20260822/tren-turistico-toledo-atropella-hombre-133570214)<br>
 17:15 [Ricardo Abellán, electricista: "Tenemos un problema y gordo con los oficios. Hay más gente formada que nunca pero electricistas, albañiles, fontaneros... no hay"](https://www.elperiodico.com/es/economia/20260822/ricardo-abellan-electricista-problema-gordo-oficios-electricistas-albaniles-fontaneros-dv-133302048)<br>
 16:45 [David Jiménez, abogado experto en herencias: "Si tu hermano no quiere pagar los gastos de una casa heredada pero sí cobrar los beneficios puedes hacer estas dos cosas"](https://www.elperiodico.com/es/economia/20260822/david-jimenez-abogado-experto-herencias-hermano-pagar-gastos-casa-herdada-dv-et-133447685)<br>
 16:36 [Un bebé muere y otros dos resultan heridos tras el incendio en un hospital en la India](https://www.elperiodico.com/es/internacional/20260822/bebe-muere-resultan-heridos-incendio-133569482)<br>
