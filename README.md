@@ -1,12 +1,14 @@
-# News for 2026-08-22 04:40
+# News for 2026-08-22 05:27
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+05:18 [В Естонії засудили агента ГРУ, який збирав дані про НАТО](https://ua.korrespondent.net/world/4905205-v-estonii-zasudyly-ahenta-hru-yakyi-zbyrav-dani-pro-nato)<br>
 03:39 [У Сеуті затримали мігранта за підозрою у сексуальному нападі](https://ua.korrespondent.net/world/4905199-u-seuti-zatrymaly-mihranta-za-pidozroui-u-seksualnomu-napadi)<br>
 03:13 [Apple скорочує команди Siri і Vision Pro](https://ua.korrespondent.net/business/companies/4905197-Apple-skorochuie-komandy-Siri-i-Vision-Pro)<br>
 01:57 [В Києві горіло складське приміщення](https://ua.korrespondent.net/city/kiev/4905191-v-kyievi-horilo-skladske-prymischennia)<br>
 01:01 [У Львові смертельно поранили військового ТЦК](https://ua.korrespondent.net/city/lvov/4905185-u-lvovi-smertelno-poranyly-viiskovoho-ttsk)<br>
 
 ## www.elperiodico.com
+04:50 [¿Sarpullido con este calor? Descubre qué es la miliaria y cómo evitarla rápidamente](https://www.elperiodico.com/es/salud/20260822/miliaria-evita-sarpullido-tipico-verano-14337932)<br>
 01:00 [Tiempo en Catalunya hoy sábado: amenaza de lluvias torrenciales en Tarragona y el Ebro mientras las temperaturas bajan](https://www.elperiodico.com/es/tiempo/20260822/tiempo-cataluna-hoy-sabado-22-agosto-lluvias-torrenciales-dv-loc-133551099)<br>
