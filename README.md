@@ -1,8 +1,9 @@
-# News for 2026-08-22 06:08
+# News for 2026-08-22 06:50
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+06:44 [Генштаб назвав втрати Росії станом на 22 серпня](https://ua.korrespondent.net/ukraine/4905213-henshtab-nazvav-vtraty-rosii-stanom-na-22-serpnia)<br>
 05:18 [В Естонії засудили агента ГРУ, який збирав дані про НАТО](https://ua.korrespondent.net/world/4905205-v-estonii-zasudyly-ahenta-hru-yakyi-zbyrav-dani-pro-nato)<br>
 03:39 [У Сеуті затримали мігранта за підозрою у сексуальному нападі](https://ua.korrespondent.net/world/4905199-u-seuti-zatrymaly-mihranta-za-pidozroui-u-seksualnomu-napadi)<br>
 03:13 [Apple скорочує команди Siri і Vision Pro](https://ua.korrespondent.net/business/companies/4905197-Apple-skorochuie-komandy-Siri-i-Vision-Pro)<br>
@@ -10,6 +11,8 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 01:01 [У Львові смертельно поранили військового ТЦК](https://ua.korrespondent.net/city/lvov/4905185-u-lvovi-smertelno-poranyly-viiskovoho-ttsk)<br>
 
 ## www.elperiodico.com
+06:37 [Lluvia en Catalunya, hoy en directo: última hora del tiempo y las fuertes precipitaciones en el Baix Penedès y el litoral de Tarragona](https://www.elperiodico.com/es/sociedad/20260822/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728)<br>
+06:10 [La vida de Daniel Sancho en la prisión de Tailandia: posibles cartas de amor de admiradores](https://www.elperiodico.com/es/gente/20260822/vida-daniel-sancho-prision-tailandia-cartas-amor-dv-133544155)<br>
 06:01 [Ruta ártica de la seda](https://www.elperiodico.com/es/opinion/20260822/ruta-artica-seda-133554863)<br>
 06:00 [Los riesgos e incertidumbres de la ruta ártica: meteorología voluble, navegación por satélite poco fiable y sin recursos para averías o vertidos](https://www.elperiodico.com/es/internacional/20260822/riesgos-incertidumbres-ruta-artica-meteorologia-navegacion-averias-vertidos-petroleo-133559577)<br>
 06:00 [China inaugura la primera ruta regular en el Ártico de la mano de Rusia: así funciona la nueva vía para el transporte de mercancías](https://www.elperiodico.com/es/internacional/20260822/china-inaugura-primera-ruta-regular-133525977)<br>

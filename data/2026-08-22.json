@@ -1,5 +1,50 @@
 [
   {
+    "title": "Генштаб назвав втрати Росії станом на 22 серпня",
+    "link": "https://ua.korrespondent.net/ukraine/4905213-henshtab-nazvav-vtraty-rosii-stanom-na-22-serpnia",
+    "pubDate": "2026-08-22 06:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535947.jpg\">Українські військові знищили понад 2300 одиниць російської техніки, серед якої 64 гармати, дві РСЗВ і три засоби ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шахтар отримав дозвіл на проведення матчів Ліги чемпіонів у Лондоні",
+    "link": "https://ua.korrespondent.net/sport/football/4905122-shakhtar-otrymav-dozvil-na-provedennia-matchiv-lihy-chempioniv-u-londoni",
+    "pubDate": "2026-08-22 06:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535613.jpg\">Донецька команда у Лізі чемпіонів проводитиме домашні матчі на лондонському Стемфорд Бридж.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lluvia en Catalunya, hoy en directo: última hora del tiempo y las fuertes precipitaciones en el Baix Penedès y el litoral de Tarragona",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728",
+    "pubDate": "2026-08-22 06:37:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260820/cataluna-avisos-lluvia-chubascos-meteocat-jueves-fin-semana-133507312\" target=\"_blank\">Catalunya eleva los avisos por lluvia ante los chubascos previstos desde este jueves por la tarde hasta el fin de semana</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260821/tiempo-catalunya-hoy-viernes-21-agosto-lluvias-tormentas-dv-loc-133520984\" >Tiempo en Catalunya hoy viernes 21 de agosto: el Meteocat alerta de lluvias muy intensas al final del día</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Президент Бразилії обговорив із Трампом війну в Україні",
+    "link": "https://ua.korrespondent.net/world/4905211-prezydent-brazylii-obhovoryv-iz-trampom-viinu-v-ukraini",
+    "pubDate": "2026-08-22 06:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535946.jpg\">Великими лідерами є не ті, хто розпочинає війни, а ті, хто припиняє конфлікти, наголосив бразильський лідер.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La vida de Daniel Sancho en la prisión de Tailandia: posibles cartas de amor de admiradores",
+    "link": "https://www.elperiodico.com/es/gente/20260822/vida-daniel-sancho-prision-tailandia-cartas-amor-dv-133544155",
+    "pubDate": "2026-08-22 06:10:31",
+    "category": "",
+    "description": "<h2>Sancho estaría recibiendo cartas de desconocidos, hombres y mujeres, que le aseguran estar enamorados de él </h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260808/daniel-sancho-ataca-madre-silvia-bronchalo-maltrato-dv-et-133178003\">Daniel Sancho ataca con dureza a su madre Silvia Bronchalo: \"Jamás la maltrató\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las Fuerzas de Seguridad vigilan la actividad de once líderes de los migrantes en Ceuta",
     "link": "https://www.elperiodico.com/es/politica/20260822/fuerzas-seguridad-vigilan-actividad-once-lideres-migrantes-ceuta-133555077",
     "pubDate": "2026-08-22 06:01:11",
@@ -142,6 +187,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 21.08: Атака на Кривий Ріг й війська КНДР",
+    "link": "https://ua.korrespondent.net/ukraine/4905207-pidsumky-2108-ataka-na-kryvyi-rih-y-viiska-kndr",
+    "pubDate": "2026-08-22 05:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535801.jpg\">Російські війська атакували найбільший торговий центр Кривого Рогу, відомо про 16 загиблих; Північна Корея відправила до Росії ще 8 500 військових, зокрема операторів БпЛА. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
   },
   {
     "title": "В Естонії засудили агента ГРУ, який збирав дані про НАТО",
