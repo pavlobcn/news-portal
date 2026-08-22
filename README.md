@@ -1,8 +1,10 @@
-# News for 2026-08-22 19:31
+# News for 2026-08-22 20:23
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+20:10 [Конго отримала понад 16 тисяч доз вакцини від Еболи](https://ua.korrespondent.net/world/4905322-konho-otrymala-ponad-16-tysiach-doz-vaktsyny-vid-eboly)<br>
+19:45 [Пожежа на заводі Іскра у Львові: зросла кількість загиблих](https://ua.korrespondent.net/city/lvov/4905319-pozhezha-na-zavodi-iskra-u-lvovi-zrosla-kilkist-zahyblykh)<br>
 18:05 [Масована атака на Одещину: серед постраждалих - 16-річна дівчина](https://ua.korrespondent.net/city/odessa/4905304-masovana-ataka-na-odeschynu-sered-postrazhdalykh-16-richna-divchyna)<br>
 16:50 [У Львові горів склад аерозольних балончиків, є загиблі](https://ua.korrespondent.net/city/lvov/4905293-u-lvovi-horiv-sklad-aerozolnykh-balonchykiv-ye-zahybli)<br>
 16:15 [Контракт гравця Клівленда побив фінансовий рекорд НБА](https://ua.korrespondent.net/sport/basketball/4905266-kontrakt-hravtsia-klivlenda-pobyv-finansovyi-rekord-nba)<br>
@@ -37,6 +39,10 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:19 [Trasladan al hospital de Toledo a una niña de 3 años hallada inconsciente en una piscina](https://www.elperiodico.com/es/sucesos/20260822/trasladan-hospital-toledo-nina-3-133574014)<br>
+20:06 [Los bomberos contienen el incendio del parque natural de Serra Calderona pero los vecinos no podrán volver aún a Gátova (Valencia)](https://www.elperiodico.com/es/sociedad/20260822/bomberos-contienen-incendio-parque-natural-133573815)<br>
+20:05 [Así es el colegio donde estudió Ana Obregón: una institución privada, laica y sin ánimo de lucro](https://www.elperiodico.com/es/gente/20260822/colegio-estudio-ana-obregon-privada-madrid-dv-et-133408359)<br>
+20:00 [Un argentino viviendo en España pone fin al debate entre Barcelona y Madrid: "En una se toman las decisiones y en la otra hay gran parte del sistema emprendedor y startup"](https://www.elperiodico.com/es/sociedad/20260822/argentino-viviendo-espana-pone-debate-barcelona-madrid-dv-et-133543887)<br>
 19:13 [Matan a tiros a un hombre en una reyerta en Murcia](https://www.elperiodico.com/es/sucesos/20260822/matan-tiros-hombre-reyerta-murcia-133572372)<br>
 19:03 [El lobo mata dos ovejas de un rebaño del Solsonès que ya fue atacado hace un año](https://www.elperiodico.com/es/sucesos/20260822/solsones-lobo-mata-ovejas-rebano-133571989)<br>
 19:00 [Barcelona se posiciona como la ciudad española mejor adaptada a la IA: “Es la apuesta para que destaque a nivel mundial”](https://www.elperiodico.com/es/economia/20260822/barcelona-ciudad-espanola-mejor-adaptada-ia-133479403)<br>
