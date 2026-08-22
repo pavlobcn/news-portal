@@ -1,5 +1,68 @@
 [
   {
+    "title": "Зеленський пропонує зміни у ветеранській політиці",
+    "link": "https://ua.korrespondent.net/ukraine/4905313-zelenskyi-proponuie-zminy-u-veteranskii-politytsi",
+    "pubDate": "2026-08-22 19:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536566.jpeg\">Досвід і відповідальність ветеранів є основою для безпеки конкретної громади й усього суспільства. Вони мають бути активними учасниками життя своїх громад і всієї країни, заявив президент.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Coque Malla canta para los médicos que cuidaron a su hijo en el hospital",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/coque-malla-canta-medicos-cuidaron/133572558.shtml",
+    "pubDate": "2026-08-22 19:19:46",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Matan a tiros a un hombre en una reyerta en Murcia",
+    "link": "https://www.elperiodico.com/es/sucesos/20260822/matan-tiros-hombre-reyerta-murcia-133572372",
+    "pubDate": "2026-08-22 19:13:22",
+    "category": "",
+    "description": "<h2>Al lugar se movilizaron patrullas de la Guardia Civil, que una vez en el lugar solicitaron asistencia sanitaria urgente para atender a dos heridos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ni tortilla ni paella: la inesperada comida favorita de Rodri Hernández que rompe con la estricta dieta de un futbolista",
+    "link": "https://www.elperiodico.com/es/gente/20260822/rodri-barca-comida-favorita-sushi-dv-et-133447448",
+    "pubDate": "2026-08-22 19:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La llegada del centrocampista al FC Barcelona ha puesto el foco en todos los aspectos de su carrera, pero también en su lado más personal</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260817/rodri-aterriza-barcelona-redefinir-juego-133433974\" >Rodri aterriza en Barcelona para redefinir el juego del Barça</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260817/rodri-real-madrid-fichaje-barcelona-133424394\" >Todo lo que pierde el Real Madrid con el fichaje de Rodri por el Barça</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El lobo mata dos ovejas de un rebaño del Solsonès que ya fue atacado hace un año",
+    "link": "https://www.elperiodico.com/es/sucesos/20260822/solsones-lobo-mata-ovejas-rebano-133571989",
+    "pubDate": "2026-08-22 19:03:53",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Nos habían advertido de que se había detectado la presencia del depredador, pero estábamos tranquilos con los dos mastines\", asegura el ganadero Jaume Puigpelat</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona se posiciona como la ciudad española mejor adaptada a la IA: “Es la apuesta para que destaque a nivel mundial”",
+    "link": "https://www.elperiodico.com/es/economia/20260822/barcelona-ciudad-espanola-mejor-adaptada-ia-133479403",
+    "pubDate": "2026-08-22 19:00:09",
+    "category": "",
+    "description": "<h2>La capital catalana lidera el ranking español, elaborado por Adobe, en empleo tecnológico e interés de los usuarios en estas herramientas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aurelio Rojas, cardiólogo: \"Si tienes palpitaciones o taquicardia, tienes que tomar estos tres alimentos\"",
+    "link": "https://www.elperiodico.com/es/salud/20260822/aurelio-rojas-cardiologo-tienes-palpitaciones-taquicardia-tres-alimentos-dv-et-133490478",
+    "pubDate": "2026-08-22 19:00:08",
+    "category": "",
+    "description": "<h2 class=\"item\">El especialista señala tres alimentos ricos en nutrientes como el magnesio y el potasio y destaca su papel dentro de una alimentación equilibrada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260515/aurelio-rojas-cardiologo-maniobras-ayuda-palpitaciones-corazon-salud-cardiovascular-dv-130010133\">Aurelio Rojas, cardiólogo, explica dos maniobras sencillas para controlar palpitaciones y algunas taquicardias</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Sandra Alonso estrena el medallero de España en los Juegos Mediterráneos con una plata en contrarreloj",
     "link": "https://www.elperiodico.com/es/deportes/20260822/sandra-alonso-estrena-medallero-espana-133571929",
     "pubDate": "2026-08-22 18:58:52",
@@ -439,6 +502,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536378.jpg\">Зеленський подякував міністру за візит до України, зокрема для участі в IX Міжнародному ветеранському форумі, та майбутню поїздку до регіонів України, де складна ситуація через російські обстріли.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Fuertes lluvias en Tarragona cortan carreteras y líneas de Rodalies por inundaciones",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/fuertes-lluvias-tarragona-cortan-carreteras-133568577",
+    "pubDate": "2026-08-22 15:32:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Carlos (87 años) superó un problema de salud hace unos años y tomó la decisión de salir a viajar: \"No puedo quedarme sentado en el comedor, esperando morirme\"",
