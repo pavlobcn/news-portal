@@ -1,4 +1,4 @@
-# News for 2026-08-22 10:51
+# News for 2026-08-22 11:23
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
@@ -20,7 +20,9 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:57 [Pere Virgili, alcalde de Roda de Berà: "En 62 años no había visto nunca bajar el agua con tanta fuerza y durante tantas horas"](https://www.elperiodico.com/es/sociedad/20260822/pere-virgili-alcalde-roda-bera-agua-fuerza-temporal-lluvia-tarragona-133563144)<br>
 10:48 [Detenidos por atacar a tiros a una patrullera de la Guardia Civil](https://www.elperiodico.com/es/sociedad/20260822/detenidos-atacar-tiros-patrullera-guardia-civil-133563220)<br>
+10:48 [Detenidos por atacar a tiros a una patrullera de la Guardia Civil en Huelva](https://www.elperiodico.com/es/sucesos/20260822/detenidos-atacar-tiros-patrullera-guardia-civil-133563220)<br>
 10:39 [El Barça ficha al pívot francés Yoan Makoundou y continúa con su renovación sin fin](https://www.elperiodico.com/es/deportes/20260822/barca-ficha-pivot-frances-yoan-133562218)<br>
 10:30 [¿Por qué hay tantos avispones orientales en Andalucía este verano?](https://www.elperiodico.com/es/medio-ambiente/20260822/hay-avispones-orientales-andalucia-verano-133562867)<br>
 10:30 [Qué hacer si el aire acondicionado de tu vecino gotea y te moja la ropa tendida: esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260822/aire-acondicionado-vecino-gotea-moja-terraza-dv-et-133549583)<br>
