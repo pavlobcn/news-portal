@@ -1,8 +1,10 @@
-# News for 2026-08-22 21:41
+# News for 2026-08-22 22:35
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+22:09 [Угорщина перезапускає один з реакторів своєї АЕС](https://ua.korrespondent.net/business/economics/4905340-uhorschyna-perezapuskaie-odyn-z-reaktoriv-svoiei-aes)<br>
+21:59 [Від початку доби відбулося 197 боєзіткнень](https://ua.korrespondent.net/ukraine/4905337-vid-pochatku-doby-vidbulosia-197-boiezitknen)<br>
 21:30 [Вінницький ТЦК спростував інформацію про переслідування чоловіка та ДТП](https://ua.korrespondent.net/ukraine/4905334-vinnytskyi-ttsk-sprostuvav-informatsiui-pro-peresliduvannia-cholovika-ta-dtp)<br>
 21:00 [Трагедія в Кривому Розі: поліція оголосила підозру директору супермаркету](https://ua.korrespondent.net/ukraine/4905330-trahediia-v-kryvomu-rozi-politsiia-oholosyla-pidozru-dyrektoru-supermarketu)<br>
 20:35 [У Харкові відкрився оперний фестиваль](https://ua.korrespondent.net/city/kharkov/4905326-u-kharkovi-vidkryvsia-opernyi-festyval)<br>
@@ -32,6 +34,7 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 01:01 [У Львові смертельно поранили військового ТЦК](https://ua.korrespondent.net/city/lvov/4905185-u-lvovi-smertelno-poranyly-viiskovoho-ttsk)<br>
 
 ## as.com
+21:29 [El oro más merecido](https://as.com/baloncesto/mas_baloncesto/el-oro-mas-merecido-f202608-n/)<br>
 18:36 [Eslovenia - España, en directo: final EuroBasket sub-16 hoy en vivo](https://as.com/baloncesto/mas_baloncesto/eslovenia-espana-en-directo-final-eurobasket-sub-16-hoy-en-vivo-f202608-d/)<br>
 17:00 [El Olympiacos, a la guerra contra el Dubai](https://as.com/baloncesto/euroliga/el-olympiacos-a-la-guerra-contra-el-dubai-f202608-n/)<br>
 16:52 [Mercado de fichajes, 2026, EuroLeague: todos los movimientos](https://as.com/baloncesto/euroliga/mercado-de-fichajes-2026-euroleague-todos-los-movimientos-f202607-n/)<br>
