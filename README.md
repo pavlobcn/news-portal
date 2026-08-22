@@ -1,8 +1,10 @@
-# News for 2026-08-22 20:57
+# News for 2026-08-22 21:41
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+21:30 [Вінницький ТЦК спростував інформацію про переслідування чоловіка та ДТП](https://ua.korrespondent.net/ukraine/4905334-vinnytskyi-ttsk-sprostuvav-informatsiui-pro-peresliduvannia-cholovika-ta-dtp)<br>
+21:00 [Трагедія в Кривому Розі: поліція оголосила підозру директору супермаркету](https://ua.korrespondent.net/ukraine/4905330-trahediia-v-kryvomu-rozi-politsiia-oholosyla-pidozru-dyrektoru-supermarketu)<br>
 20:35 [У Харкові відкрився оперний фестиваль](https://ua.korrespondent.net/city/kharkov/4905326-u-kharkovi-vidkryvsia-opernyi-festyval)<br>
 20:10 [Конго отримала понад 16 тисяч доз вакцини від Еболи](https://ua.korrespondent.net/world/4905322-konho-otrymala-ponad-16-tysiach-doz-vaktsyny-vid-eboly)<br>
 19:45 [Пожежа на заводі Іскра у Львові: зросла кількість загиблих](https://ua.korrespondent.net/city/lvov/4905319-pozhezha-na-zavodi-iskra-u-lvovi-zrosla-kilkist-zahyblykh)<br>
@@ -40,6 +42,9 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:12 [Un buque de carga con bandera panameña se hunde en la costa oriental de la India](https://www.elperiodico.com/es/sucesos/20260822/buque-carga-bandera-panamena-hunde-133575157)<br>
+21:01 [Pekín inaugura los segundos Juegos de robots humanoides con un 100 metros más rápido que el de Usain Bolt](https://www.elperiodico.com/es/politica/20260822/pekin-segundos-juegos-robots-record-usain-bolt-133574638)<br>
+20:57 [Nueva operación policial contra el narcotráfico en Galicia con 1.500 kilos incautados](https://www.elperiodico.com/es/sucesos/20260822/nueva-operacion-policial-narcotrafico-galicia-133574800)<br>
 20:54 [Pekín inaugura sus segundos Juegos de robots humanoides con 25 equipos extranjeros](https://www.elperiodico.com/es/videos/sociedad/pekin-inaugura-segundos-juegos-robots/133574681.shtml)<br>
 20:25 [¿Qué pasaría si hay un terremoto fuerte en Málaga?: el 28,84% de los edificios sufrirían daños altos](https://www.elperiodico.com/es/sociedad/20260822/pasaria-hay-terremoto-fuerte-malaga-133474457)<br>
 20:19 [Trasladan al hospital de Toledo a una niña de 3 años hallada inconsciente en una piscina](https://www.elperiodico.com/es/sucesos/20260822/trasladan-hospital-toledo-nina-3-133574014)<br>
