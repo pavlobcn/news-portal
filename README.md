@@ -1,4 +1,4 @@
-# News for 2026-08-22 12:38
+# News for 2026-08-22 13:30
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
@@ -24,6 +24,12 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:25 [Terremoto en Granada, en directo: última hora de las nuevas réplicas de seísmo esta madrugada](https://www.elperiodico.com/es/sociedad/20260822/terremoto-granada-hoy-ultima-hora-directo-133378645)<br>
+13:20 [El emotivo mensaje del padre de Diana Quer en el décimo aniversario del asesinato de su hija: "Su legado salvará vidas"](https://www.elperiodico.com/es/sucesos/20260822/emotivo-mensaje-padre-diana-quer-decimo-aniversario-asesinato-hija-133566405)<br>
+13:00 ["Una familia de cuatro no puede pagar dos habitaciones de hotel": Juan Cardona, sobre la pérdida de turismo familiar en Ibiza](https://www.elperiodico.com/es/sociedad/20260822/turismo-ibiza-familia-imposible-pagar-hotel-dv-et-133545256)<br>
+12:46 [Una potente borrasca se acerca a España y entra en el radar del Centro Nacional de Huracanes](https://www.elperiodico.com/es/sociedad/20260822/borrasca-espana-centro-nacional-huracanes-lluvias-viento-agosto-133564786)<br>
+12:45 [Gritar no es sinónimo de poder: Esto es lo que realmente revela la psicología sobre quienes elevan el tono de voz](https://www.elperiodico.com/es/salud/20260822/psicologos-levantar-voz-dominante-discusion-seguridad-dv-131066028)<br>
+12:40 [Georgina Rodríguez adopta legalmente a los tres hijos mayores de Cristiano Ronaldo](https://www.elperiodico.com/es/gente/20260822/georgina-rodriguez-adopta-legalmente-hijos-mayores-cristiano-ronaldo-133564900)<br>
 12:06 [Sandra y José, padres de 4 hijos en medio del bosque: "Nuestros hijos no van a la escuela, los educamos en casa. En tema de alimentación, sí que vamos a buscar el mejor producto"](https://www.elperiodico.com/es/economia/20260822/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687)<br>
 12:05 [Marcos López, premiado como mejor instalador joven: "Quiero ser electricista porque hay mucho futuro, tener una carrera ya no te asegura nada"](https://www.elperiodico.com/es/sociedad/20260822/marcos-lopez-mejor-instalador-joven-electricista-futuro-carrera-dv-130958485)<br>
 12:00 [Granada recupera la normalidad tras la reducción de los terremotos sentidos por la población](https://www.elperiodico.com/es/sociedad/20260822/granada-recupera-normalidad-reduccion-terremotos-133564695)<br>
