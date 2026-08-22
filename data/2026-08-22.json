@@ -1,5 +1,131 @@
 [
   {
+    "title": "Ramon Vallès, piloto de avión: \"Es muy improbable que un avión salga con el depósito lleno\"",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260822/ramon-valles-piloto-iberia-instagram-improbable-avion-combustible-dv-120840556",
+    "pubDate": "2026-08-22 09:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El comandante de Iberia subraya que \"hay que buscar el equilibrio entre la seguridad, que está por encima de todo, y hacer un vuelo económico\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260820/huelga-medicos-manifestaciones-horario-laboral-trabajo-piloto-ramon-valles-dv-et-133435194\">Ramón Vallés, piloto de avión: \"Cuando una persona lleva 20 horas trabajando no puede dar la calidad que da en la primera hora\" </a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20250815/auxiliar-vuelo-error-pasajeros-avion-dv-120524829\" >Una auxiliar de vuelo desvela qué error cometen \"casi todos los pasajeros\" al embarcar</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El dilema de Junts ante el auge de Aliança Catalana: ¿combatirla o ignorarla?",
+    "link": "https://www.elperiodico.com/es/politica/20260822/junts-alianca-catalana-encuestas-133065654",
+    "pubDate": "2026-08-22 09:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260731/encuesta-periodico-elecciones-catalunya-datos-internos-gesop-132925681\">La encuesta de EL PERIÓDICO sobre las elecciones en Catalunya, al completo: tablas, cruces y microdatos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260808/entrevista-monica-sales-junts-salvador-illa-cataluna-govern-parlament-133152681\">Mònica Sales (Junts): \"Cuando hay problemas, Illa practica el silencio y esto perjudica la convivencia\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Suiza, refugio climático",
+    "link": "https://www.elperiodico.com/es/opinion/20260822/suiza-refugio-climatico-133551762",
+    "pubDate": "2026-08-22 09:00:38",
+    "category": "",
+    "description": "<h2>Después de tres o cuatro años de calores extremos, en el centro de Europa la gente ha cambiado el desconcierto por la indignación. Quizás ahora tomarán conciencia de que se debe actuar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anne Hathaway, del 'hathahate' a reinar en la cartelera veraniega",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260822/anne-hathaway-reina-cartelera-veraniega-133508981",
+    "pubDate": "2026-08-22 09:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Con cuatro películas en los cines y una quinta a punto de ser estrenada, la actriz, de 43 años, vive su mejor momento después de haber sido objeto de una campaña de descrédito en las redes sociales y la prensa </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alfonso Muñoz, funcionario de la Seguridad Social: \"¿Es justo que a una persona que ha cotizado durante 40 años se le despache en 15 minutos?\"",
+    "link": "https://www.elperiodico.com/es/economia/20260822/alfonso-munoz-funcionario-seguridad-social-tiempo-cita-presencial-dv-133482513",
+    "pubDate": "2026-08-22 09:00:37",
+    "category": "",
+    "description": "<h2>La limitación de 15 minutos por cita en la Seguridad Social dificulta la resolución de casos complejos y puede obligar a los ciudadanos a buscar asesoramiento privado</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260817/alfonso-munoz-seguridad-social-despedido-no-significa-puedas-jubilarte-anticipadamente-dv-133420428\" target=\"_blank\">Alfonso Muñoz, funcionario de la Seguridad Social: “Que te hayan despedido no significa que puedas jubilarte anticipadamente”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tertulias centradas en las víctimas",
+    "link": "https://www.elperiodico.com/es/opinion/20260822/tertulias-centradas-victimas-133550359",
+    "pubDate": "2026-08-22 09:00:37",
+    "category": "",
+    "description": "<h2>Ante el problema de Ceuta, con más de 140 muertos y mujeres violadas, la televisión debe mostrar más altura mediática y ética</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Летіли ракети і сотні дронів: як спрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4905230-letily-rakety-i-sotni-droniv-yak-spratsuivala-ppo",
+    "pubDate": "2026-08-22 08:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536026.jpg\">Зафіксовано влучання ракет і дронів на 41 локації, а також падіння уламків ще у 12 місцях.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ліверпуль звернувся до Брайтона вдруге і знову отримав відмову щодо Мінте",
+    "link": "https://ua.korrespondent.net/sport/football/4905147-liverpul-zvernuvsia-do-braitona-vdruhe-i-znovu-otrymav-vidmovu-schodo-minte",
+    "pubDate": "2026-08-22 08:51:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4535649.jpg\">Брайтон категорично не погоджується на ціну, яку пропонують мерсісайдці за гамбійського нападника.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora y actualidad sobre los incendios en España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/ultima-hora-incendios-espana-directo-132759066",
+    "pubDate": "2026-08-22 08:46:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carme Noguera, la mujer más longeva de Catalunya cumple 112 años: \"Cuando yo era pequeña, solo había un señor con coche en Olot\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/carme-noguera-mujer-mas-longeva-catalunya-cumple-112-anos-133560892",
+    "pubDate": "2026-08-22 08:43:04",
+    "category": "",
+    "description": "<h2> Noguera ejerció de enfermera durante la Guerra Civil y estudiaba idiomas hasta los 105 años </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EEUU y Canadá no alcanzan un acuerdo comercial y entran en vigor los aranceles del 50%",
+    "link": "https://www.elperiodico.com/es/internacional/20260822/eeuu-canada-alcanzan-acuerdo-comercial-entran-vigor-aranceles-50-133560884",
+    "pubDate": "2026-08-22 08:30:41",
+    "category": "",
+    "description": "<h2>Los aranceles afectan a importaciones procedentes de Canadá por unos 20.000 millones de dólares y abarcan productos como palos de hockey, materiales de construcción, bebidas alcohólicas y ropa</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Tere vive con su madre en una aldea sin vecinos: \"Hay gente que me dice que no merece la pena sembrar patatas. ¿Tiene que valer 20 euros el kilo para que la gente empiece a sembrarlas?\"",
+    "link": "https://www.elperiodico.com/es/economia/20260822/aldea-sin-vecinos-cultivar-alimentos-fabada-madre-tere-dv-et-133437318",
+    "pubDate": "2026-08-22 08:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La mujer cree que todo el mundo debería sembrar sus alimentos: \"¿Tiene que valer 20 euros el kilo de patata para que la gente empiece a sembrarlas?\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260809/padre-hijo-sobreviven-aldea-sin-comunicacion-compra-supermercado-dv-et-133123536\">Fran y Adisu, padre e hijo, sobreviven en una aldea sin comunicación: \"El supermercado grande más cercano está a 50 minutos. No puedes olvidarte de nada para preparar una comida o una cena\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260821/empezar-cero-casa-abandonada-montana-asturias-monica-dv-et-133268335\">Mónica, tras empezar de cero en una casa abandonada en la montaña: \"Hay veces que vamos tan rápido que no escuchamos ni siquiera los pájaros que nos rodean\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "У Києві на чотири дні обмежать рух транспорту",
+    "link": "https://ua.korrespondent.net/city/kiev/4905227-u-kyievi-na-chotyry-dni-obmezhat-rukh-transportu",
+    "pubDate": "2026-08-22 08:28:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536001.jpg\">Обмеження будуть діяти в центральній частині столиці, а також на деяких ділянках Печерського, Подільського, Солом'янського та Шевченківського районів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las lluvias intensas dejan hasta 200 litros en algunos puntos del Baix Penedès y el litoral de Tarragona",
+    "link": "https://www.elperiodico.com/es/tiempo/20260822/lluvias-intensas-200-litros-baix-penedes-litoral-tarragona-tiempo-meteocat-dv-133560765",
+    "pubDate": "2026-08-22 08:24:12",
+    "category": "",
+    "description": "<h2>Los aguaceros han provocado inundaciones en El Vendrell y otras zonas cercanas</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260822/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728\">DIRECTO | Lluvia en Catalunya, hoy en directo: última hora del tiempo y las fuertes precipitaciones en el Baix Penedès y el litoral de Tarragona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Дрони почали нищити склади Ozon в Росії",
     "link": "https://ua.korrespondent.net/world/russia/4905225-drony-pochaly-nyschyty-sklady-Ozon-v-rosii",
     "pubDate": "2026-08-22 08:09:00",
@@ -342,6 +468,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Mourinho regresa a la Liga en son de paz... de momento: \"No siento presión\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260822/mourinho-espanyol-real-madrid-debut-liga-133550037",
+    "pubDate": "2026-08-22 06:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo entrenador del Real Madrid estrena su segunda etapa de blanco visitando al Espanyol</h2><h2 class=\"item\">Más calmado, lanza sus primeros avisos a sus jugadores: todos a correr y nada de filtraciones</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los cines de arte y ensayo, semilla del actual 'boom' de películas en versión original en Barcelona",
     "link": "https://www.elperiodico.com/es/barcelona/20260822/cines-arte-ensayo-semilla-actual-boom-vose-barcelona-133549046",
     "pubDate": "2026-08-22 06:00:52",
@@ -403,6 +538,15 @@
     "description": "<h2>La OTAN advierte del peligro de que Pekín y Moscú conviertan a la Ruta Marítima del Norte en \"instrumento de presión\" y el corredor marítimo acabe impulsando la militarización del océano Ártico </h2><h2>Las regulaciones del Kremlin para el tránsito contradicen \"en ciertos casos\" la ley internacional y dificultan que la ruta se convierta en alternativa a los corredores marítimos tradicionales</h2>",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Al menos uno de cada tres refugios climatizados contra el calor de Barcelona cierra en agosto",
+    "link": "https://www.elperiodico.com/es/barcelona/20260822/tres-refugios-climatizados-calor-barcelona-133537000",
+    "pubDate": "2026-08-22 06:00:46",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El período vacacional en los equipamientos municipales hace que se reduzcan los espacios públicos aclimatados durante los picos de calor en la capital catalana</h2><h2 style=\"text-align: justify;\">MULTIMEDIA | <a href=\"https://www.elperiodico.com/es/barcelona/refugios-climaticos-estrategia-anticalor-barcelona-sh/index.html\" target=\"_blank\">Refugios climáticos: luces y sobras de la estrategia anticalor de Barcelona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El verano dispara las disputas entre las parejas separadas con hijos: ¿cómo repartir los días sin peleas?",
