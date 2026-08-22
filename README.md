@@ -1,4 +1,4 @@
-# News for 2026-08-22 11:23
+# News for 2026-08-22 12:05
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
@@ -16,10 +16,18 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 01:01 [У Львові смертельно поранили військового ТЦК](https://ua.korrespondent.net/city/lvov/4905185-u-lvovi-smertelno-poranyly-viiskovoho-ttsk)<br>
 
 ## as.com
+11:35 [Makoundou ya es jugador del Barcelona](https://as.com/baloncesto/acb/makoundou-ya-es-jugador-del-barcelona-f202608-n/)<br>
 07:26 [Madrid y Barça: revolución ¿sin acabar?](https://as.com/baloncesto/euroliga/madrid-y-barca-revolucion-sin-acabar-f202608-n/)<br>
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:00 [Granada recupera la normalidad tras la reducción de los terremotos sentidos por la población](https://www.elperiodico.com/es/sociedad/20260822/granada-recupera-normalidad-reduccion-terremotos-133564695)<br>
+12:00 [Una "clínica de reproducción asistida" para tiburones del Mediterráneo busca en València cómo salvarlos de la extinción](https://www.elperiodico.com/es/sociedad/20260822/tiburones-mediterraneo-peligro-extincion-clinica-reproduccion-asistida-oceanografico-valencia-133494047)<br>
+12:00 [El nudo de Castellbisbal se enquista como punto negro de Rodalies: "Siempre que pasa algo es aquí"](https://www.elperiodico.com/es/sociedad/20260822/castellbisbal-punto-negro-rodalies-133511343)<br>
+12:00 [Sara Carbonero (42 años), exmujer de Iker Casillas: "El padre de mis hijos es de una aldea de 100 habitantes. Y a mis hijos les gusta mucho"](https://www.elperiodico.com/es/gente/20260822/sara-carbonero-42-anos-exmujer-iker-casillas-pueblo-dv-131797537)<br>
+11:49 [Así han sido los trabajos nocturnos para contener el incendio de Segorbe](https://www.elperiodico.com/es/videos/sociedad/han-sido-trabajos-nocturnos-contener/133564363.shtml)<br>
+11:32 [Detenido un joven que hirió a dos personas con un arma durante los altercados en Lleida](https://www.elperiodico.com/es/sucesos/20260822/detenido-joven-hirio-dos-personas-arma-altercados-lleida-parc-vies-133563991)<br>
+11:25 [Ana Ramos (25 años): "Tengo trabajo, cobro todos los meses y aún así tengo que volver a casa de mis padres. Nadie te prepara para meter tu independencia en bolsas de basura"](https://www.elperiodico.com/es/vivienda/20260822/ana-ramos-joven-vuelto-casa-padres-vivienda-independizarse-trabajo-dv-et-133421557)<br>
 10:57 [Pere Virgili, alcalde de Roda de Berà: "En 62 años no había visto nunca bajar el agua con tanta fuerza y durante tantas horas"](https://www.elperiodico.com/es/sociedad/20260822/pere-virgili-alcalde-roda-bera-agua-fuerza-temporal-lluvia-tarragona-133563144)<br>
 10:48 [Detenidos por atacar a tiros a una patrullera de la Guardia Civil](https://www.elperiodico.com/es/sociedad/20260822/detenidos-atacar-tiros-patrullera-guardia-civil-133563220)<br>
 10:48 [Detenidos por atacar a tiros a una patrullera de la Guardia Civil en Huelva](https://www.elperiodico.com/es/sucesos/20260822/detenidos-atacar-tiros-patrullera-guardia-civil-133563220)<br>
