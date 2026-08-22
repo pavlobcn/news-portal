@@ -1,8 +1,10 @@
-# News for 2026-08-22 10:16
+# News for 2026-08-22 10:51
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+10:42 [Генштаб підтвердив ураження Новокуйбишевського НПЗ](https://ua.korrespondent.net/ukraine/4905245-henshtab-pidtverdyv-urazhennia-novokuibyshevskoho-npz)<br>
+10:20 [Рівень води в Рейні почав підвищуватись](https://ua.korrespondent.net/world/4905242-riven-vody-v-reini-pochav-pidvyschuvatys)<br>
 09:11 [Росія атакувала залізничну інфраструктуру у Києві і на Одещині](https://ua.korrespondent.net/ukraine/4905234-rosiia-atakuvala-zaliznychnu-infrastrukturu-u-kyievi-i-na-odeschyni)<br>
 08:28 [У Києві на чотири дні обмежать рух транспорту](https://ua.korrespondent.net/city/kiev/4905227-u-kyievi-na-chotyry-dni-obmezhat-rukh-transportu)<br>
 07:05 [Нідерланди оштрафували Uber на 825 млн євро](https://ua.korrespondent.net/business/companies/4905216-niderlandy-oshtrafuvaly-Uber-na-825-mln-yevro)<br>
@@ -18,6 +20,13 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:48 [Detenidos por atacar a tiros a una patrullera de la Guardia Civil](https://www.elperiodico.com/es/sociedad/20260822/detenidos-atacar-tiros-patrullera-guardia-civil-133563220)<br>
+10:39 [El Barça ficha al pívot francés Yoan Makoundou y continúa con su renovación sin fin](https://www.elperiodico.com/es/deportes/20260822/barca-ficha-pivot-frances-yoan-133562218)<br>
+10:30 [¿Por qué hay tantos avispones orientales en Andalucía este verano?](https://www.elperiodico.com/es/medio-ambiente/20260822/hay-avispones-orientales-andalucia-verano-133562867)<br>
+10:30 [Qué hacer si el aire acondicionado de tu vecino gotea y te moja la ropa tendida: esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260822/aire-acondicionado-vecino-gotea-moja-terraza-dv-et-133549583)<br>
+10:30 [Javier Duque (28 años), de informático a agricultor: "El margen de beneficio cada vez es menor y es imposible comenzar desde cero, yo lo hago porque me gusta muchísimo"](https://www.elperiodico.com/es/economia/20260822/javier-duque-28-anos-informatico-agricultor-margen-beneficio-menor-dv-et-133355603)<br>
+10:26 [Detenidos por atacar a tiros una patrullera de la Guardia Civil](https://www.elperiodico.com/es/videos/sociedad/detenidos-atacar-tiros-patrullera-guardia/133562766.shtml)<br>
+10:22 [El regreso a casa deja alivio y heridas entre los vecinos de Las Hurdes: "El paisaje ha quedado arrasado"](https://www.elperiodico.com/es/sociedad/20260822/regreso-casa-deja-alivio-heridas-vecinos-las-hurdes-133562616)<br>
 10:04 [Se ven menos medusas este año... y no influye que el mar esté más caliente](https://www.elperiodico.com/es/sociedad/20260822/cae-avistamiento-medusas-mar-caliente-133561980)<br>
 10:00 [El nuevo 'dream team' de la narrativa en español](https://www.elperiodico.com/es/ocio-y-cultura/20260822/nuevo-dream-team-narrativa-espanol-133512489)<br>
 09:51 [Ácaros depredadores liberados por un dron combatirán la plaga de araña roja del maíz](https://www.elperiodico.com/es/sociedad/20260822/acaros-depredadores-liberados-dron-combatiran-133561865)<br>
