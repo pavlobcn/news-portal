@@ -1,8 +1,9 @@
-# News for 2026-08-22 17:55
+# News for 2026-08-22 18:26
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+18:05 [Масована атака на Одещину: серед постраждалих - 16-річна дівчина](https://ua.korrespondent.net/city/odessa/4905304-masovana-ataka-na-odeschynu-sered-postrazhdalykh-16-richna-divchyna)<br>
 16:50 [У Львові горів склад аерозольних балончиків, є загиблі](https://ua.korrespondent.net/city/lvov/4905293-u-lvovi-horiv-sklad-aerozolnykh-balonchykiv-ye-zahybli)<br>
 16:15 [Контракт гравця Клівленда побив фінансовий рекорд НБА](https://ua.korrespondent.net/sport/basketball/4905266-kontrakt-hravtsia-klivlenda-pobyv-finansovyi-rekord-nba)<br>
 14:40 [Сховаються не всі: скільки нових укриттів збудували у Києві з 2022 року](https://ua.korrespondent.net/kyiv/4905274-skhovauitsia-ne-vsi-skilky-novykh-ukryttiv-zbuduvaly-u-kyievi-z-2022-roku)<br>
@@ -35,6 +36,8 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:12 [Dos lanchas con decenas de migrantes a bordo llegan a las costas de Cartagena](https://www.elperiodico.com/es/sociedad/20260822/lanchas-decenas-migrantes-bordo-llegan-133571296)<br>
+18:00 [La sorpresa del calendario laboral: Lleida tendrá tres puentes casi seguidos tras el verano](https://www.elperiodico.com/es/catalunya/20260822/festivos-lleida-puentes-trabajadores-fiesta-sant-miquel-dv-loc-133552201)<br>
 17:36 [Ileso un conductor tras caer 6 metros desde un puente a las vías del tren en Madrid](https://www.elperiodico.com/es/sociedad/20260822/ileso-conductor-puente-tren-cercanias-accidente-madrid-133570366)<br>
 17:29 [Los seísmos de Granada provocan 35 millones en daños y 12.500 peticiones de indemnización](https://www.elperiodico.com/es/sociedad/20260822/seismos-granada-35-millones-danos-133570333)<br>
 17:25 [El tren turístico de Toledo atropella a un hombre tras ponerse en movimiento estando vacío](https://www.elperiodico.com/es/sucesos/20260822/tren-turistico-toledo-atropella-hombre-133570214)<br>

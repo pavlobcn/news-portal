@@ -1,5 +1,68 @@
 [
   {
+    "title": "El momento en el que un coche cae desde un puente a las vías del tren en Fuenlabrada",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/momento-coche-cae-puente-vias/133571548.shtml",
+    "pubDate": "2026-08-22 18:24:15",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dos lanchas con decenas de migrantes a bordo llegan a las costas de Cartagena",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/lanchas-decenas-migrantes-bordo-llegan-133571296",
+    "pubDate": "2026-08-22 18:12:11",
+    "category": "",
+    "description": "<h2>Una patera-taxi desembarca sobre las once de la mañana a sus pasajeros en Punta Negra y otra sobre las cuatro menos cuatro de la tarde en Cala de Huncos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Масована атака на Одещину: серед постраждалих - 16-річна дівчина",
+    "link": "https://ua.korrespondent.net/city/odessa/4905304-masovana-ataka-na-odeschynu-sered-postrazhdalykh-16-richna-divchyna",
+    "pubDate": "2026-08-22 18:05:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536513.jpg\"> Вдень 22 серпня росія здійснила тривалий комбінований удар по цивільній інфраструктурі регіону, троє людей дістали поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Meghan Markle negocia su regreso a la televisión con 'The Gentlemen', la serie de Guy Ritchie para Netflix",
+    "link": "https://www.elperiodico.com/es/gente/20260822/meghan-markle-regreso-television-the-gentlemen-netflix-133570802",
+    "pubDate": "2026-08-22 18:00:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La duquesa de Sussex podría incorporarse a la tercera temporada de la ficción mientras ella, el príncipe Enrique y sus hijos preparan su regreso al Reino Unido después de seis años en California</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260820/harry-meghan-regreso-reino-unido-seis-anos-despues-133499335\">Harry y Meghan Markle preparan su regreso al Reino Unido seis años después de romper con la familia real</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La sorpresa del calendario laboral: Lleida tendrá tres puentes casi seguidos tras el verano",
+    "link": "https://www.elperiodico.com/es/catalunya/20260822/festivos-lleida-puentes-trabajadores-fiesta-sant-miquel-dv-loc-133552201",
+    "pubDate": "2026-08-22 18:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">El siguiente festivo tras el mes de agosto está más cerca de lo que parece</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260619/estos-son-festivos-caen-sabado-compensados-dia-libre-audiencia-nacional-dv-130490427\">La Audiencia Nacional cambia los festivos que caen en sábado: tendrán que compensarse con otro día libre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260427/calendario-laboral-lleida-2026-festivos-124350582\">Calendario laboral de Lleida de 2026 (con todos los festivos)</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lula reduce su ventaja en las encuestas por un caso de tráfico de influencias que salpica a su hijo",
+    "link": "https://www.elperiodico.com/es/internacional/20260822/lula-reduce-ventaja-encuestas-caso-trafico-influencias-involucra-hijo-elecciones-brasil-133571070",
+    "pubDate": "2026-08-22 18:00:54",
+    "category": "",
+    "description": "<h2>Flávio Bolsonaro, el hijo del expresidente preso por golpista, intenta aprovechar el impacto mediático del 'caso Lulinha'</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Gobierno vaciará y limpiará los colegios de Ceuta para preparar el inicio del curso escolar",
+    "link": "https://www.elperiodico.com/es/politica/20260822/gobierno-vaciara-limpiara-colegios-ceuta-curso-133571028",
+    "pubDate": "2026-08-22 17:59:10",
+    "category": "",
+    "description": "<h2>El Ejecutivo descarta tener que postergar la vuelta al colegio y mantiene el 8 de septiembre como primer día</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Más de 160 identificados con 130 antecedentes en un dispositivo contra la multirreincidencia en Puigcerdà",
     "link": "https://www.elperiodico.com/es/sucesos/20260822/160-identificados-130-antecedentes-dispositivo-puigcerda-mossos-133570763",
     "pubDate": "2026-08-22 17:52:04",
@@ -389,6 +452,15 @@
   {
     "title": "Мудрик проводить тренування в Челсі в окремо визначеній групі",
     "link": "https://ua.korrespondent.net/sport/football/4905278-mudryk-provodyt-trenuvannia-v-chelsi-v-okremo-vyznachenii-hrupi",
+    "pubDate": "2026-08-22 14:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536333.jpg\">Головний тренер лондонської команди виокремив кількох гравців, зокрема українця, в окрему групу для проведення тренувань.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мудрик проводить тренування в Челсі в окремішній групі",
+    "link": "https://ua.korrespondent.net/sport/football/4905278-mudryk-provodyt-trenuvannia-v-chelsi-v-okremishnii-hrupi",
     "pubDate": "2026-08-22 14:59:00",
     "category": "Новини футболу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536333.jpg\">Головний тренер лондонської команди виокремив кількох гравців, зокрема українця, в окрему групу для проведення тренувань.",
