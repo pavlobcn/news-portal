@@ -1,8 +1,11 @@
-# News for 2026-08-22 12:05
+# News for 2026-08-22 12:38
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+12:24 [Росіяни атакували Бориспільський район, є жертви](https://ua.korrespondent.net/ukraine/4905258-rosiiany-atakuvaly-boryspilskyi-raion-ye-zhertvy)<br>
+11:59 [Слов’янськ визнано зоною активних бойових дій](https://ua.korrespondent.net/ukraine/4905255-sloviansk-vyznano-zonoui-aktyvnykh-boiovykh-dii)<br>
+11:32 [У Криму знищено літак Су-24М - Зеленський](https://ua.korrespondent.net/ukraine/4905251-u-krymu-znyscheno-litak-su-24m-zelenskyi)<br>
 10:42 [Генштаб підтвердив ураження Новокуйбишевського НПЗ](https://ua.korrespondent.net/ukraine/4905245-henshtab-pidtverdyv-urazhennia-novokuibyshevskoho-npz)<br>
 10:20 [Рівень води в Рейні почав підвищуватись](https://ua.korrespondent.net/world/4905242-riven-vody-v-reini-pochav-pidvyschuvatys)<br>
 09:11 [Росія атакувала залізничну інфраструктуру у Києві і на Одещині](https://ua.korrespondent.net/ukraine/4905234-rosiia-atakuvala-zaliznychnu-infrastrukturu-u-kyievi-i-na-odeschyni)<br>
@@ -21,6 +24,8 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:06 [Sandra y José, padres de 4 hijos en medio del bosque: "Nuestros hijos no van a la escuela, los educamos en casa. En tema de alimentación, sí que vamos a buscar el mejor producto"](https://www.elperiodico.com/es/economia/20260822/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687)<br>
+12:05 [Marcos López, premiado como mejor instalador joven: "Quiero ser electricista porque hay mucho futuro, tener una carrera ya no te asegura nada"](https://www.elperiodico.com/es/sociedad/20260822/marcos-lopez-mejor-instalador-joven-electricista-futuro-carrera-dv-130958485)<br>
 12:00 [Granada recupera la normalidad tras la reducción de los terremotos sentidos por la población](https://www.elperiodico.com/es/sociedad/20260822/granada-recupera-normalidad-reduccion-terremotos-133564695)<br>
 12:00 [Una "clínica de reproducción asistida" para tiburones del Mediterráneo busca en València cómo salvarlos de la extinción](https://www.elperiodico.com/es/sociedad/20260822/tiburones-mediterraneo-peligro-extincion-clinica-reproduccion-asistida-oceanografico-valencia-133494047)<br>
 12:00 [El nudo de Castellbisbal se enquista como punto negro de Rodalies: "Siempre que pasa algo es aquí"](https://www.elperiodico.com/es/sociedad/20260822/castellbisbal-punto-negro-rodalies-133511343)<br>
