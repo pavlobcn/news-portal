@@ -1,8 +1,9 @@
-# News for 2026-08-22 20:23
+# News for 2026-08-22 20:57
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
 ## ua.korrespondent.net
+20:35 [У Харкові відкрився оперний фестиваль](https://ua.korrespondent.net/city/kharkov/4905326-u-kharkovi-vidkryvsia-opernyi-festyval)<br>
 20:10 [Конго отримала понад 16 тисяч доз вакцини від Еболи](https://ua.korrespondent.net/world/4905322-konho-otrymala-ponad-16-tysiach-doz-vaktsyny-vid-eboly)<br>
 19:45 [Пожежа на заводі Іскра у Львові: зросла кількість загиблих](https://ua.korrespondent.net/city/lvov/4905319-pozhezha-na-zavodi-iskra-u-lvovi-zrosla-kilkist-zahyblykh)<br>
 18:05 [Масована атака на Одещину: серед постраждалих - 16-річна дівчина](https://ua.korrespondent.net/city/odessa/4905304-masovana-ataka-na-odeschynu-sered-postrazhdalykh-16-richna-divchyna)<br>
@@ -39,6 +40,8 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:54 [Pekín inaugura sus segundos Juegos de robots humanoides con 25 equipos extranjeros](https://www.elperiodico.com/es/videos/sociedad/pekin-inaugura-segundos-juegos-robots/133574681.shtml)<br>
+20:25 [¿Qué pasaría si hay un terremoto fuerte en Málaga?: el 28,84% de los edificios sufrirían daños altos](https://www.elperiodico.com/es/sociedad/20260822/pasaria-hay-terremoto-fuerte-malaga-133474457)<br>
 20:19 [Trasladan al hospital de Toledo a una niña de 3 años hallada inconsciente en una piscina](https://www.elperiodico.com/es/sucesos/20260822/trasladan-hospital-toledo-nina-3-133574014)<br>
 20:06 [Los bomberos contienen el incendio del parque natural de Serra Calderona pero los vecinos no podrán volver aún a Gátova (Valencia)](https://www.elperiodico.com/es/sociedad/20260822/bomberos-contienen-incendio-parque-natural-133573815)<br>
 20:05 [Así es el colegio donde estudió Ana Obregón: una institución privada, laica y sin ánimo de lucro](https://www.elperiodico.com/es/gente/20260822/colegio-estudio-ana-obregon-privada-madrid-dv-et-133408359)<br>
