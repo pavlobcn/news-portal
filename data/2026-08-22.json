@@ -1,5 +1,113 @@
 [
   {
+    "title": "Trasladan al hospital de Toledo a una niña de 3 años hallada inconsciente en una piscina",
+    "link": "https://www.elperiodico.com/es/sucesos/20260822/trasladan-hospital-toledo-nina-3-133574014",
+    "pubDate": "2026-08-22 20:19:20",
+    "category": "",
+    "description": "<h2>La pequeña ha sido atendida en El Casar de Escalona por un médico de urgencias y una UVI</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Save Europe Act reúne a un centenar de manifestantes en Sant Jaume frente a 400 antifascistas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260822/save-europe-act-reune-centenar-ultras-antifascistas-plaza-sant-jaume-barcelona-133573655",
+    "pubDate": "2026-08-22 20:18:21",
+    "category": "",
+    "description": "<h2>Los Mossos blindan la plaza para evitar incidentes entre los dos bandos antagónicos</h2><h2>El Ayuntamiento de Barcelona traslada a la Fiscalía cánticos de la ultraderecha contra la inmigración</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260821/mossos-controlaran-acto-barcelona-save-europe-mossos-fiscalia-odio-133544601\">El Govern denunciará a la Fiscalía las proclamas de odio de la protesta ultra antiinmigración en Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Конго отримала понад 16 тисяч доз вакцини від Еболи",
+    "link": "https://ua.korrespondent.net/world/4905322-konho-otrymala-ponad-16-tysiach-doz-vaktsyny-vid-eboly",
+    "pubDate": "2026-08-22 20:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536620.jpg\">Загалом ВООЗ та її партнери планують передати країні 70 тисяч доз. Нові поставки очікуються вже на початку наступного тижня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Leonor, una heredera bajo una Constitución que todavía prefiere al varón",
+    "link": "https://www.elperiodico.com/es/politica/20260822/reina-leonor-heredera-constitucion-prevalencia-orden-sucesorio-varon-133482832",
+    "pubDate": "2026-08-22 20:08:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Ningún presidente ha impulsado un cambio en la Carta Magna por temor a que se abra el debate sobre si España debería ser una república </h2><h2 class=\"item\">Dos diputadas socialistas abandonaron el hemiciclo en 1978 antes de la votación del artículo 57.1 en protesta por la discriminación  </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los bomberos contienen el incendio del parque natural de Serra Calderona pero los vecinos no podrán volver aún a Gátova (Valencia)",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/bomberos-contienen-incendio-parque-natural-133573815",
+    "pubDate": "2026-08-22 20:06:19",
+    "category": "",
+    "description": "<h2>Los equipos de extinción confían en aprovechar el aumento de la humedad y la bajada de las temperaturas por la noche para dar por controlado el incendio.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así es el colegio donde estudió Ana Obregón: una institución privada, laica y sin ánimo de lucro",
+    "link": "https://www.elperiodico.com/es/gente/20260822/colegio-estudio-ana-obregon-privada-madrid-dv-et-133408359",
+    "pubDate": "2026-08-22 20:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El proyecto pedagógico cuenta con dos centros educativos en Madrid, en Valdemarín y en Conde Orgaz</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260321/lista-forbes-colegio-santa-maria-rosales-rey-felipe-vi-princesa-leonor-infanta-sofia-dv-127911366\">Así es el Colegio de Santa María de los Rosales, la escuela del rey Felipe VI</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un argentino viviendo en España pone fin al debate entre Barcelona y Madrid: \"En una se toman las decisiones y en la otra hay gran parte del sistema emprendedor y startup\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260822/argentino-viviendo-espana-pone-debate-barcelona-madrid-dv-et-133543887",
+    "pubDate": "2026-08-22 20:00:27",
+    "category": "",
+    "description": "<h2 class=\"item\">El debate para decidir qué ciudad es mejor tiende a lo absurdo para algunas personas que prefieren quedarse con lo mejor de cada una</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20251102/martin-grinberg-barcelona-combina-tradicion-y-modernidad-123239450\">Martin Grinberg: \"Barcelona combina tradición y modernidad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos dividen la plaza Sant Jaume para evitar el contacto entre antifascistas y simpatizantes de Save Europe Act",
+    "link": "https://www.elperiodico.com/es/videos/politica/mossos-dividen-plaza-sant-jaume/133573425.shtml",
+    "pubDate": "2026-08-22 19:53:10",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Український гімнаст завоював золото на чемпіонаті Європи",
+    "link": "https://ua.korrespondent.net/sport/4905308-ukrainskyi-himnast-zavouivav-zoloto-na-chempionati-yevropy",
+    "pubDate": "2026-08-22 19:50:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536621.jpg\">Українець Назар Чепурний став чемпіоном континентальної першості, що проходить у Загребі, в опорному стрибку.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пожежа на заводі Іскра у Львові: зросла кількість загиблих",
+    "link": "https://ua.korrespondent.net/city/lvov/4905319-pozhezha-na-zavodi-iskra-u-lvovi-zrosla-kilkist-zahyblykh",
+    "pubDate": "2026-08-22 19:45:00",
+    "category": "Львів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536619.jpg\">Раніше повідомлялося про двох загиблих і п’ятьох постраждалих, тепер з'явилася інформація про третього загиблого.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pogacar ya gana la primera etapa de la Vuelta",
+    "link": "https://www.elperiodico.com/es/deportes/20260822/pogacar-gana-primera-etapa-vuelta-133570821",
+    "pubDate": "2026-08-22 19:32:36",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Desmontado el bulo sobre Gavi: no ha destinado 1,3 millones para construir 150 apartamentos para personas sin hogar en Los Palacios",
+    "link": "https://www.elperiodico.com/es/deportes/20260822/bulo-gavi-futbolista-los-palacios-133572754",
+    "pubDate": "2026-08-22 19:31:19",
+    "category": "",
+    "description": "<h2>El Ayuntamiento de la localidad sevillana confirma que se trata de una noticia falsa</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Зеленський пропонує зміни у ветеранській політиці",
     "link": "https://ua.korrespondent.net/ukraine/4905313-zelenskyi-proponuie-zminy-u-veteranskii-politytsi",
     "pubDate": "2026-08-22 19:20:00",
