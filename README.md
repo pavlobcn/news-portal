@@ -1,4 +1,4 @@
-# News for 2026-08-22 13:30
+# News for 2026-08-22 14:26
 
 Previous day: [2026-08-21](./data/2026-08-21.md)
 
@@ -24,6 +24,11 @@ Previous day: [2026-08-21](./data/2026-08-21.md)
 06:51 [Mario Hezonja superstar](https://as.com/baloncesto/mas_baloncesto/mario-hezonja-superstar-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:21 [Desperfectos e inundaciones: así han quedado las playas de Tarragona tras las lluvias torrenciales](https://www.elperiodico.com/es/sociedad/20260822/desperfectos-inundaciones-playas-tarragona-lluvias-torrenciales-133567391)<br>
+14:01 [Maiki, trotamundos: "Allá donde vayas, siempre habrá un catalán. ¡Stop!"](https://www.elperiodico.com/es/catalunya/20260822/maiki-encuentro-catalanes-viajes-turismo-extranjero-dv-et-133488917)<br>
+14:01 [El casero de Borja Thyssen: el hijo de la baronesa vive con su familia en la lujosa urbanización de La Finca](https://www.elperiodico.com/es/gente/20260822/casero-borja-thyssen-hijo-baronesa-lujosa-urbanizacion-dv-et-133548830)<br>
+13:38 [Siete heridos y centenares de desalojados por las lluvias torrenciales en Tarragona](https://www.elperiodico.com/es/videos/sucesos/siete-heridos-centenares-desalojados-lluvias/133566733.shtml)<br>
+13:37 [El Govern explica por qué no envió una ES-Alert en Tarragona: "No estaba justificado con la información de la que disponíamos"](https://www.elperiodico.com/es/sociedad/20260822/govern-alerta-moviles-prevision-esalert-informacion-servei-metereologic-catalunya-133566170)<br>
 13:25 [Terremoto en Granada, en directo: última hora de las nuevas réplicas de seísmo esta madrugada](https://www.elperiodico.com/es/sociedad/20260822/terremoto-granada-hoy-ultima-hora-directo-133378645)<br>
 13:20 [El emotivo mensaje del padre de Diana Quer en el décimo aniversario del asesinato de su hija: "Su legado salvará vidas"](https://www.elperiodico.com/es/sucesos/20260822/emotivo-mensaje-padre-diana-quer-decimo-aniversario-asesinato-hija-133566405)<br>
 13:00 ["Una familia de cuatro no puede pagar dos habitaciones de hotel": Juan Cardona, sobre la pérdida de turismo familiar en Ibiza](https://www.elperiodico.com/es/sociedad/20260822/turismo-ibiza-familia-imposible-pagar-hotel-dv-et-133545256)<br>
