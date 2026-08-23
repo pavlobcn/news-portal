@@ -1,5 +1,68 @@
 [
   {
+    "title": "Стубб привіз до Києва оборонні компанії: укладено нові угоди",
+    "link": "https://ua.korrespondent.net/ukraine/4905461-stubb-pryviz-do-kyieva-oboronni-kompanii-ukladeno-novi-uhody",
+    "pubDate": "2026-08-23 16:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537698.jpg\">У межах співпраці Patria планує розпочати виробництво українських безпілотників у Фінляндії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una mujer extranjera se queda sin nacionalidad española tras 22 años viviendo y trabajando en España: las razones que determina la Justicia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/mujer-extranjera-queda-sin-nacionalidad-espanola-dv-et-133544713",
+    "pubDate": "2026-08-23 16:00:23",
+    "category": "",
+    "description": "<h2 class=\"item\">La Audiencia Nacional recuerda que el tiempo de residencia y el hecho de haber trabajado en el país no son, por sí solos, suficientes para conseguir la nacionalidad por residencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Contaminación lumínica, residuos y choques espaciales amenazan el cielo: \"No deberíamos permitir taparlo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/amenazas-satelites-contaminacion-luminica-basura-espacial-133488384",
+    "pubDate": "2026-08-23 16:00:21",
+    "category": "",
+    "description": "<h2 class=\"item\">El crecimiento exponencial de satélites presenta nuevos riesgos no solo para la astronomía sino también para el medio ambiente y para la población</h2><h2 class=\"item\">Algunos artículos del Tratado del Espacio Exterior, de 1969, podrían permitir limitar el lanzamiento de dispositivos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260819/satelites-elon-musk-alteracion-cielo-observacion-telescopios-deteccion-asteroides-peligrosos-carrera-espacial-133487091\" target=\"_blank\">La carrera por llenar el cielo de satélites complica la detección de asteroides peligrosos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mourinho pasa de acusar a Vinícius de \"hacer el tonto\" a denunciar \"bullying\" contra él",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/mourinho-pasa-acusar-vinicius-tonto-bullying-real-madrid-133589203",
+    "pubDate": "2026-08-23 15:54:01",
+    "category": "",
+    "description": "<h2>El entrenador del Real Madrid cargó contra el que ahora es su futbolista después de los presuntos insultos racistas de Prestianni</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Qué está más en decadencia, el rock o la MTV?",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260823/decadencia-rock-o-mtv-133587637",
+    "pubDate": "2026-08-23 15:53:26",
+    "category": "",
+    "description": "<h2 class=\"item\">La eliminación de la categoría rock en los Video Music Awards nos recuerda que el género se aleja de la corriente principal, pero tampoco esta cadena de televisión es lo que era, y los premios MTV tienen hoy mucho más impacto social que la propia MTV</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los Mossos neutralizan una granada de la Guerra Civil en una zona de pastoreo en Tavèrnoles",
+    "link": "https://www.elperiodico.com/es/sucesos/20260823/mossos-neutralizan-granada-guerra-civil-osona-tavernoles-133588875",
+    "pubDate": "2026-08-23 15:49:48",
+    "category": "",
+    "description": "<h2>Se trata de una de las armas más usadas en la Guerra Civil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по поїзду на Харківщині, є загибла",
+    "link": "https://ua.korrespondent.net/ukraine/4905458-rosiiany-vdaryly-po-poizdu-na-kharkivschyni-ye-zahybla",
+    "pubDate": "2026-08-23 15:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537676.jpg\">Удруге окупанти атакували цей електропоїзд під час роботи рятувальників. Сьогодні ворог вже пʼять разів вдарив по залізниці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Así es el sorprendente cambio de look de Erling Haaland: adiós a su icónica melena",
     "link": "https://www.elperiodico.com/es/gente/20260823/erling-haaland-cambio-look-sorprendente-dv-133588073",
     "pubDate": "2026-08-23 15:30:13",
