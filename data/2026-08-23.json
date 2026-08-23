@@ -1,5 +1,68 @@
 [
   {
+    "title": "El horóscopo de mañana, lunes 24 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260823/horoscopo-hoy-lunes-24-agosto-dv-133479929",
+    "pubDate": "2026-08-23 21:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Al menos seis desaparecidos y decenas de viviendas afectadas en Venezuela por las lluvias",
+    "link": "https://www.elperiodico.com/es/internacional/20260823/desaparecidos-viviendas-afectadas-venezuela-lluvias-133595983",
+    "pubDate": "2026-08-23 20:55:04",
+    "category": "",
+    "description": "<h2>Equipo de rescates buscan a una pareja que se encontraban con su hija en un vehículo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хмара: Україна розраховує на США",
+    "link": "https://ua.korrespondent.net/ukraine/4905506-khmara-ukraina-rozrakhovuie-na-ssha",
+    "pubDate": "2026-08-23 20:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537970.jpg\">Міністр оборони України під час зустрічі із американським сенатором Річардом Блюменталем заявив, що США можуть допомогти зупинити війну на умовах України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Vecinos de El Vendrell reclaman revisar el funcionamiento de los sistemas de drenaje después de las inundaciones",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/vecinos-vendrell-reclaman-revisar-funcionamiento-133595820",
+    "pubDate": "2026-08-23 20:51:20",
+    "category": "",
+    "description": "<h2 class=\"item\">La Xarxa Vendrellenca también pide revisar el protocolo de activación del ES-Alert</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere el piloto Jesús López tras un accidente en la Subida a Taboadela en Ourense",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/muere-piloto-jesus-lopez-accidente-133595788",
+    "pubDate": "2026-08-23 20:45:04",
+    "category": "",
+    "description": "<h2> El accidente dejó también dos heridos, un piloto con lesiones de consideración y un espectador, sin gravedad.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Israel mata a un niño de 4 años con un bombardeo en un campo de refugiados en Gaza",
+    "link": "https://www.elperiodico.com/es/videos/internacional/israel-mata-nino-4-anos/133595721.shtml",
+    "pubDate": "2026-08-23 20:43:24",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los robots de los Juegos de Pekín corren más, saltan más... y tienen que aprender a frenar",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/robots-juegos-pekin-corren-saltan/133595766.shtml",
+    "pubDate": "2026-08-23 20:42:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Los robots de los Juegos de Pekín corren más, saltan más... y tienen que aprender a frenar",
     "link": "https://www.elperiodico.com/es/sociedad/20260823/robots-juegos-pekin-corren-saltan-133595417",
     "pubDate": "2026-08-23 20:29:07",
@@ -7,6 +70,15 @@
     "description": "<h2 class=\"item\">Algunos humanoides afrontan ahora una lección mucho más elemental: saber cuándo parar</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вербує злодіїв для диверсій на заводах ЄС - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4905501-rf-verbuie-zlodiiv-dlia-dyversii-na-zavodakh-yes-zmi",
+    "pubDate": "2026-08-23 20:27:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537947.jpeg\">Росія розпочала нову хвилю диверсій проти європейських оборонних підприємств, використовуючи місцевих виконавців, щоб приховати можливу причетність Кремля.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Rescatados con síntomas de ahogamiento dos jóvenes en la balsa de La Morea (Navarra)",
@@ -61,6 +133,15 @@
     "description": "<h2>La ofensiva política ordenada por Feijóo se completa con un plan de reconstrucción económica para la ciudad autónoma</h2>",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні розпочав роботу новий тимчасовий повірений США",
+    "link": "https://ua.korrespondent.net/ukraine/4905495-v-ukraini-rozpochav-robotu-novyi-tymchasovyi-povirenyi-ssha",
+    "pubDate": "2026-08-23 19:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537928.jpg\">Американський дипломат Пол Г’юстон змінив на посаді Сандру Аудкірк, яка обіймала її трохи більше місяця.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Así ha sido la monumental pitada a Julián Álvarez en el Metropolitano",
