@@ -1,4 +1,4 @@
-# News for 2026-08-23 12:38
+# News for 2026-08-23 13:30
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
@@ -21,6 +21,8 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:27 [El incendio de Las Hurdes encara el domingo con los efectivos del Infoex en labores de remate y otra protesta ciudadana](https://www.elperiodico.com/es/sociedad/20260823/incendio-pinofranqueado-encara-domingo-efectivos-infoex-labores-remate-protesta-ciudadana-133586243)<br>
+13:16 [Abren la convocatoria de ayudas para impulsar cursos de catalán e iniciativas para fomentar la lengua en el ámbito local](https://www.elperiodico.com/es/sociedad/20260823/abren-convocatoria-ayudas-impulsar-cursos-catalan-133585755)<br>
 12:28 [Frenar la erosión ante las tormentas: las claves de los expertos para recuperar el suelo quemado tras los incendios](https://www.elperiodico.com/es/sociedad/20260823/frenar-erosion-tormentas-claves-expertos-recuperar-suelo-quemado-incendios-133584906)<br>
 12:06 [Roda de Berà y El Vendrell reclaman medidas "estructurales" contra las inundaciones y hacer "más permeable" la vía del tren](https://www.elperiodico.com/es/sociedad/20260823/roda-bera-vendrell-reclaman-medidas-estructurales-inundaciones-tren-133584202)<br>
 12:02 [Más de 2.000 robots participan en los Juegos Mundiales de Robots Humanoides de Pekín](https://www.elperiodico.com/es/videos/internacional/2-000-robots-participan-juegos/133584226.shtml)<br>

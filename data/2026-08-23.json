@@ -1,5 +1,104 @@
 [
   {
+    "title": "Manifestación en Jaca para exigir responsabilidades políticas por el incendio de Las Peñas de Riglos.",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/manifestacion-jaca-exigir-responsabilidades-politicas/133586350.shtml",
+    "pubDate": "2026-08-23 13:28:56",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El incendio de Las Hurdes encara el domingo con los efectivos del Infoex en labores de remate y otra protesta ciudadana",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/incendio-pinofranqueado-encara-domingo-efectivos-infoex-labores-remate-protesta-ciudadana-133586243",
+    "pubDate": "2026-08-23 13:27:19",
+    "category": "",
+    "description": "<h2>El fuego permanece sin frentes activos que lo hagan avanzar y continúa en extinción con cuatro unidades de bomberos forestales, cuatro agentes del Medio Natural, un técnico y dos equipos de maquinaria pesada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Abren la convocatoria de ayudas para impulsar cursos de catalán e iniciativas para fomentar la lengua en el ámbito local",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/abren-convocatoria-ayudas-impulsar-cursos-catalan-133585755",
+    "pubDate": "2026-08-23 13:16:16",
+    "category": "",
+    "description": "<h2 class=\"item\">El plazo para presentar las solicitudes finaliza el 29 de octubre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ повторно вдарила по пасажирському потягу на Одещині",
+    "link": "https://ua.korrespondent.net/ukraine/4905442-rf-povtorno-vdaryla-po-pasazhyrskomu-potiahu-na-odeschyni",
+    "pubDate": "2026-08-23 13:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537528.jpg\">Ворог поцілив у пасажирський потяг, а після першого удару, коли на місці вже працювали рятувальники та екстрені служби, завдав повторного удару.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una manifestación denuncia en Jaca (Huesca) la gestión del incendio de Las Peñas de Riglos: \"Más cuadrillas, menos telesillas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/manifestacion-denuncia-jaca-huesca-gestion-incendios-penas-riglos-133585654",
+    "pubDate": "2026-08-23 13:02:35",
+    "category": "",
+    "description": "<h2>Vecinos, asociaciones y bomberos forestales en huelga se movilizan para exigir responsabilidades políticas por el peor fuego de la historia de Aragón y reclamar el cuidado de los montes, en los que \"hay vida y futuro\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Баварія виграла Суперкубок Німеччини, обігравши дортмундську Боруссію",
+    "link": "https://ua.korrespondent.net/sport/football/4905360-bavariia-vyhrala-superkubok-nimechchyny-obihravshy-dortmundsku-borussiui",
+    "pubDate": "2026-08-23 13:00:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536778.jpg\">Німецькі команди зійшлися у протистоянні на футбольному полі з метою виграти трофей у Суперкубку країни.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський розповів про план закінчення війни",
+    "link": "https://ua.korrespondent.net/ukraine/4905439-zelenskyi-rozpoviv-pro-plan-zakinchennia-viiny",
+    "pubDate": "2026-08-23 12:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537507.jpg\">План припинення війни передбачає припинення вогню, вільну економічну зону і відведення військ.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Tres detenidos tras agredir e intentar robar a un guardia civil fuera de servicio en Ceuta",
+    "link": "https://www.elperiodico.com/es/sucesos/20260823/tres-detenidos-agredir-robar-guardia-civil-fuera-servicio-ceuta-133585370",
+    "pubDate": "2026-08-23 12:47:56",
+    "category": "",
+    "description": "<h2>Los agresores exigieron dinero al agente y, ante su negativa, comenzaron a golpearle reiteradamente con puñetazos en la cara y patadas antes de emprender la huida en dirección a la zona del puerto</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mourinho denuncia el \"bullying\" a Vinícius de los jugadores y aficionados del Espanyol",
+    "link": "https://www.elperiodico.com/es/videos/deportes/mourinho-denuncia-bullying-vinicius-jugadores/133585325.shtml",
+    "pubDate": "2026-08-23 12:43:11",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Comuns exigen a la Generalitat que sancione a los ultras de Save Europe Act",
+    "link": "https://www.elperiodico.com/es/politica/20260823/comuns-denuncia-generalitat-sancion-save-europe-act-manifestacion-extrema-derecha-133584203",
+    "pubDate": "2026-08-23 12:40:19",
+    "category": "",
+    "description": "<h2>Presentan una denuncia a la Oficina d'Igualtat de Tracte i No-discriminació para que imponga una multa de entre 40.000 y 500.000 euros a los manifestantes de extrema derecha</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260822/save-europe-act-reune-centenar-ultras-antifascistas-plaza-sant-jaume-barcelona-133573655\" target=\"_blank\">Save Europe Act reúne a un centenar de manifestantes en Sant Jaume frente a 400 antifascistas</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260821/que-es-save-europe-act-campana-supremacistas-blancos-deportaciones-masivas-inmigrantes-133531591\" target=\"_blank\">¿Qué es la Save Europe Act? 5 claves de la campaña liderada por supremacistas blancos que defiende las deportaciones masivas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Данія запевнила у підтримці України",
+    "link": "https://ua.korrespondent.net/ukraine/4905436-daniia-zapevnyla-u-pidtrymtsi-ukrainy",
+    "pubDate": "2026-08-23 12:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537486.png\">Фредеріксен нагадала, що Данія та інші країни спільно взяли на себе зобов’язання швидко розробити нову ракетну систему, щоб захистити українські міста та посилити оборону Європи.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Frenar la erosión ante las tormentas: las claves de los expertos para recuperar el suelo quemado tras los incendios",
     "link": "https://www.elperiodico.com/es/sociedad/20260823/frenar-erosion-tormentas-claves-expertos-recuperar-suelo-quemado-incendios-133584906",
     "pubDate": "2026-08-23 12:28:02",
@@ -9,12 +108,30 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Alfonso Arús \"le roba\" a TVE una reportera de 'Directo al grano' en el regreso de 'Aruseros' a laSexta",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260823/alfonso-arus-le-roba-tve-reportera-directo-al-grano-133583851",
+    "pubDate": "2026-08-23 12:27:39",
+    "category": "",
+    "description": "<h2>El presentador regresa a laSexta con su novena temporada y su segunda en las mañanas de los fines de semana</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Dcoop y Deoleo, dos modelos diferentes para controlar el mercado del aceite de oliva",
     "link": "https://www.elperiodico.com/es/economia/20260823/cooperativa-o-empresa-cotizada-dcoop-deoleo-133584536",
     "pubDate": "2026-08-23 12:12:32",
     "category": "",
     "description": "<h2>La compra de Deoleo por parte de la cooperativa andaluza daría lugar a un gigante agroalimentario especializado en la venta de aceite con más de 2.200 millones de facturación</h2>",
     "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський анонсував отримання нових радарів до ППО та системи SAMP/T",
+    "link": "https://ua.korrespondent.net/ukraine/4905432-zelenskyi-anonsuvav-otrymannia-novykh-radariv-do-ppo-ta-systemy-SAMPT",
+    "pubDate": "2026-08-23 12:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537447.jpg\">Президент висловив сподівання, що цього року вдасться отримати ліцензії від Франції на виробництво трьох видів зброї в Україні.",
+    "topic": "політика",
     "topic_match_probability": 85
   },
   {
@@ -97,6 +214,15 @@
     "description": "<h2>El número de arrestos cayó en 2025 con respecto al año anterior según el informe sobre drogas del CITCO</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Чемпіони Італії виграли свій перший матч нового сезону з рахунком 4:1",
+    "link": "https://ua.korrespondent.net/sport/football/4905352-chempiony-italii-vyhraly-svii-pershyi-match-novoho-sezonu-z-rakhunkom-41",
+    "pubDate": "2026-08-23 11:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4536725.jpg\">У рамках італійської Серії А в першому турі чинним чемпіонам Італії протистояла Монца.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Генштаб повідомив про уражені цілі в Криму",
