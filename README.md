@@ -1,8 +1,10 @@
-# News for 2026-08-23 16:29
+# News for 2026-08-23 17:01
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+16:56 [Зеленський висловився про вибори під час війни](https://ua.korrespondent.net/ukraine/4905465-zelenskyi-vyslovyvsia-pro-vybory-pid-chas-viiny)<br>
+16:37 [РФ двічі атакувала енергооб’єкт на Миколаївщині: частина району без світла](https://ua.korrespondent.net/ukraine/4905463-rf-dvichi-atakuvala-enerhoobiekt-na-mykolaivschyni-chastyna-raionu-bez-svitla)<br>
 15:46 [Росіяни вдарили по поїзду на Харківщині, є загибла](https://ua.korrespondent.net/ukraine/4905458-rosiiany-vdaryly-po-poizdu-na-kharkivschyni-ye-zahybla)<br>
 14:21 [Потужний шторм накрив Польщу та країни Балтії: є загиблі й постраждалі](https://ua.korrespondent.net/world/4905450-potuzhnyi-shtorm-nakryv-polschu-ta-krainy-baltii-ye-zahybli-y-postrazhdali)<br>
 10:57 [РФ має до 630 балістичних ракет - Зеленський](https://ua.korrespondent.net/ukraine/4905425-rf-maie-do-630-balistychnykh-raket-zelenskyi)<br>
@@ -23,6 +25,9 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:00 [¿Te pueden despedir en agosto mientras estás de vacaciones? Esto es lo que dice la ley](https://www.elperiodico.com/es/economia/20260823/despedir-agosto-vacaciones-verano-ley-dv-et-133549289)<br>
+16:39 [Hallan el cuerpo sin vida de un vecino de Gátova (Valencia) en su vivienda en el realojo del municipio tras el incendio](https://www.elperiodico.com/es/sucesos/20260823/hallan-cuerpo-vida-vecino-gatova-133589803)<br>
+16:32 [Zoolander, la icónica película que inventó el fenómeno viral de 'farmear aura'](https://www.elperiodico.com/es/vida-y-estilo/20260823/zoolander-pelicula-batallas-de-aura-farmear-david-bowie-generacion-z-dv-133588739)<br>
 16:00 [Una mujer extranjera se queda sin nacionalidad española tras 22 años viviendo y trabajando en España: las razones que determina la Justicia](https://www.elperiodico.com/es/sociedad/20260823/mujer-extranjera-queda-sin-nacionalidad-espanola-dv-et-133544713)<br>
 16:00 [Contaminación lumínica, residuos y choques espaciales amenazan el cielo: "No deberíamos permitir taparlo"](https://www.elperiodico.com/es/sociedad/20260823/amenazas-satelites-contaminacion-luminica-basura-espacial-133488384)<br>
 15:49 [Los Mossos neutralizan una granada de la Guerra Civil en una zona de pastoreo en Tavèrnoles](https://www.elperiodico.com/es/sucesos/20260823/mossos-neutralizan-granada-guerra-civil-osona-tavernoles-133588875)<br>
