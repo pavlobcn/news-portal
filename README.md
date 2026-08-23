@@ -1,8 +1,9 @@
-# News for 2026-08-23 18:54
+# News for 2026-08-23 19:40
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+19:32 [Росія вдарила по американському заводу на Сумщині](https://ua.korrespondent.net/ukraine/4905491-rosiia-vdaryla-po-amerykanskomu-zavodu-na-sumschyni)<br>
 18:00 [Свята 24 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4905478-sviata-24-serpnia-2026-roku-istoriia-tradytsii)<br>
 17:18 [Друга пожежа за добу: під Москвою палає склад](https://ua.korrespondent.net/world/russia/4905468-druha-pozhezha-za-dobu-pid-moskvoui-palaie-sklad)<br>
 16:56 [Зеленський висловився про вибори під час війни](https://ua.korrespondent.net/ukraine/4905465-zelenskyi-vyslovyvsia-pro-vybory-pid-chas-viiny)<br>
@@ -27,6 +28,8 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:00 [Si tienes Alexa en casa, atento al volver de vacaciones: Amazon está activando su nueva IA y cambia por completo](https://www.elperiodico.com/es/tecnologia/20260823/alexa-plus-actualizacion-amazon-inteligencia-artifical-dv-133537137)<br>
+18:56 [Muere un niño de 4 años en un bombardeo de Israel contra el centro de Gaza](https://www.elperiodico.com/es/videos/internacional/muere-nino-4-anos-bombardeo/133593792.shtml)<br>
 18:30 [El avión eléctrico más grande del mundo: gasta menos de 5 euros en electricidad en su primer vuelo](https://www.elperiodico.com/es/trafico-y-transportes/20260823/avion-electrico-mas-grande-mundo-5-euros-vuelo-heart-aerospace-dv-133477565)<br>
 18:30 [Sílvia Abril (55 años), sobre su época estudiantil: "Yo acabé haciendo Derecho por seguir a mis amigas... Hice hasta cuarto de carrera"](https://www.elperiodico.com/es/gente/20260823/silvia-abril-estudios-derecho-pelicula-todos-los-colores-entrevista-dv-et-133357459)<br>
 18:24 [Cuba reporta la caída de un supuesto meteorito en la provincia oriental Granma](https://www.elperiodico.com/es/internacional/20260823/cuba-reporta-caida-supuesto-meteorito-133592946)<br>

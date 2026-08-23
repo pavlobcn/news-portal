@@ -1,5 +1,68 @@
 [
   {
+    "title": "La ultraderecha alemana aboga por terminar el Acuerdo de Schengen para evitar situaciones como la de Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260823/lider-afd-aboga-terminar-acuerdo-schengen-ceuta-133594523",
+    "pubDate": "2026-08-23 19:32:24",
+    "category": "",
+    "description": "<h2>La líder del partido Alternativa para Alemania (AfD), Alice Weidel,  denuncia que \"hay fronteras abiertas\" y que \"cualquiera puede entrar\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія вдарила по американському заводу на Сумщині",
+    "link": "https://ua.korrespondent.net/ukraine/4905491-rosiia-vdaryla-po-amerykanskomu-zavodu-na-sumschyni",
+    "pubDate": "2026-08-23 19:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537895.jpg\">Російські війська атакували завод американської корпорації Mondelez International у Тростянці. Унаслідок удару постраждали п’ятеро працівників підприємства.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La afición del Atlético sentencia a Julián Álvarez y corea \"puta Barça y puta Catalunya\": \"Que se vaya\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/atletico-madrid-villarreal-julian-alvarez-pitada-133594201",
+    "pubDate": "2026-08-23 19:13:48",
+    "category": "",
+    "description": "<h2>El Metropolitano recibe con varias pitadas monumentales a su delantero, que corresponde al desplante evitando aplaudir a la grada tras el empate (2-2) contra el Villarreal</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський сказав, скільки грошей потрібно Україні",
+    "link": "https://ua.korrespondent.net/ukraine/4905488-zelenskyi-skazav-skilky-hroshei-potribno-ukraini",
+    "pubDate": "2026-08-23 19:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537874.jpg\">Україні вже зараз потрібно знайти $8-10 млрд, щоб забезпечити ЗСУ необхідним озброєнням і захистити населення засобами ППО. Одним із можливих джерел фінансування можуть стати заморожені активи РФ.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "A Fernando Alonso le cambia la cara: \"Queremos más\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/fernando-alonso-le-cambia-cara-133593641",
+    "pubDate": "2026-08-23 19:03:13",
+    "category": "",
+    "description": "<h2>Alonso celebra su noveno puesto en Zandvoort y la recuperación de Aston Martin y Honda: \"Esto sirve para que las dos fábricas estén cada día a las 8 fichando\".</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Si tienes Alexa en casa, atento al volver de vacaciones: Amazon está activando su nueva IA y cambia por completo",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260823/alexa-plus-actualizacion-amazon-inteligencia-artifical-dv-133537137",
+    "pubDate": "2026-08-23 19:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Con la naturalidad en las conversaciones como gran avance, esta actualización del dispositivo también integra funciones de IA generativa que permiten desde resumir correos hasta planificar viajes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260427/alexa-llega-ambicion-asistente-total-129590329\" >Alexa+ llega con ambición de asistente total: Amazon quiere que hablar con la casa sea más natural, más útil y más local</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20250226/amazon-lanza-nuevo-asistente-alexa-inteligencia-artificial-alexa-114714909\" >Amazon lanza Alexa Plus, su nuevo asistente con IA que te permitirá comprar entradas, pedir comida y crear tu calendario</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere un niño de 4 años en un bombardeo de Israel contra el centro de Gaza",
+    "link": "https://www.elperiodico.com/es/videos/internacional/muere-nino-4-anos-bombardeo/133593792.shtml",
+    "pubDate": "2026-08-23 18:56:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Feijóo, sobre la polémica por el ático, asegura que el Gobierno de Ayuso le comentó en abril que buscaba sede por obras en Sol",
     "link": "https://www.elperiodico.com/es/politica/20260823/feijoo-polemica-compra-atico-gobierno-ayuso-sede-sol-133593544",
     "pubDate": "2026-08-23 18:47:20",
