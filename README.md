@@ -1,8 +1,9 @@
-# News for 2026-08-23 13:30
+# News for 2026-08-23 14:25
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+14:21 [Потужний шторм накрив Польщу та країни Балтії: є загиблі й постраждалі](https://ua.korrespondent.net/world/4905450-potuzhnyi-shtorm-nakryv-polschu-ta-krainy-baltii-ye-zahybli-y-postrazhdali)<br>
 10:57 [РФ має до 630 балістичних ракет - Зеленський](https://ua.korrespondent.net/ukraine/4905425-rf-maie-do-630-balistychnykh-raket-zelenskyi)<br>
 10:32 [У Львові стався вибух в аптеці, є загиблий](https://ua.korrespondent.net/city/lvov/4905421-u-lvovi-stavsia-vybukh-v-aptetsi-ye-zahyblyi)<br>
 10:17 [ЗСУ уразили російську пускову установку Іскандер - Зеленський](https://ua.korrespondent.net/ukraine/4905419-zsu-urazyly-rosiisku-puskovu-ustanovku-iskander-zelenskyi)<br>
@@ -21,6 +22,12 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+14:01 [Laur, camionero desde los 12 años: "Quiero que esto sirva para concienciar a la gente de que, en el transporte, todavía hay buenas empresas donde se puede ganar un buen dinero"](https://www.elperiodico.com/es/economia/20260823/salario-camionero-sector-transportes-dietas-laur-dv-et-133522284)<br>
+14:00 [Viviana vive en una casa abandonada del siglo XIX sobre la que circulan extraños rumores: "Veo un animal que ha encontrado un refugio y me llena de alegría, la naturaleza hizo lo mismo conmigo"](https://www.elperiodico.com/es/economia/20260823/vive-casa-abandonada-rumores-extranos-hierbas-medicinales-refugio-naturaleza-viviana-dv-et-133464268)<br>
+13:46 [La renuncia de Sony al videojuego físico pone las tiendas especializadas de los Encants y Sant Antoni a un paso del 'vintage'](https://www.elperiodico.com/es/barcelona/eixample/20260823/renuncia-sony-videojuego-fisico-tiendas-encants-sant-antoni-vintage-132341377)<br>
+13:41 [La fin de los discos físicos de PlayStation en 2028 provoca una huelga de consumo y genera "tristeza y preocupación" entre usuarios, tiendas y expertos](https://www.elperiodico.com/es/economia/20260823/fin-discos-fisicos-playstation-2028-huelga-consumo-tristeza-preocupacion-133586258)<br>
+13:39 [Investiga la muerte de dos hombres de 57 y 59 años en la vía pública en en Veguellina de Órbigo (León)](https://www.elperiodico.com/es/sucesos/20260823/investiga-muerte-hombres-57-59-anos-via-publica-veguellina-orbigo-leon-133586609)<br>
+13:30 [Efectivos de la UME abandonan Segorbe (Castellón) tras dar por estabilizado el incendio forestal](https://www.elperiodico.com/es/videos/sociedad/efectivos-ume-abandonan-segorbe-castellon/133586376.shtml)<br>
 13:27 [El incendio de Las Hurdes encara el domingo con los efectivos del Infoex en labores de remate y otra protesta ciudadana](https://www.elperiodico.com/es/sociedad/20260823/incendio-pinofranqueado-encara-domingo-efectivos-infoex-labores-remate-protesta-ciudadana-133586243)<br>
 13:16 [Abren la convocatoria de ayudas para impulsar cursos de catalán e iniciativas para fomentar la lengua en el ámbito local](https://www.elperiodico.com/es/sociedad/20260823/abren-convocatoria-ayudas-impulsar-cursos-catalan-133585755)<br>
 12:28 [Frenar la erosión ante las tormentas: las claves de los expertos para recuperar el suelo quemado tras los incendios](https://www.elperiodico.com/es/sociedad/20260823/frenar-erosion-tormentas-claves-expertos-recuperar-suelo-quemado-incendios-133584906)<br>
