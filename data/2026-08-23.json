@@ -1,5 +1,41 @@
 [
   {
+    "title": "Manita del Barça con susto terrible de Gavi: \"Es la rodilla, tenemos que esperar\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/manita-barca-susto-terrible-gavi-133597791",
+    "pubDate": "2026-08-23 23:49:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El centrocampista andaluz fue sustituido por Pedri al filo del descanso tras sufrir un golpe en su rodilla derecha, la misma que se lesionó de gravedad en 2023. </h2><h2 class=\"item\">\"Parece que está mejor de lo que él creía después de la jugada. Haremos una resonancia y veremos\", aseguró Flick. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El equipo se encuentra, por Juan Cruz",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/equipo-encuentra-juan-cruz-133597895",
+    "pubDate": "2026-08-23 23:46:17",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Естонську делегацію звозили на столичну Лук’янівку",
+    "link": "https://ua.korrespondent.net/city/kiev/4905528-estonsku-delehatsiui-zvozyly-na-stolychnu-lukianivku",
+    "pubDate": "2026-08-23 23:46:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538092.png\">Під час візиту до Києва естонська делегація ознайомилася з наслідками російських ударів по цивільній інфраструктурі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Barça se estrena en la Liga con una exhibición de Raphinha y más goles que arietes",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/elche-barcelona-resultado-goles-resumen-cronica-133596022",
+    "pubDate": "2026-08-23 23:33:38",
+    "category": "",
+    "description": "<h2>El brasileño, con dos tantos y una asistencia, lidera al equipo azulgrana en el triunfo ante el Elche. Fermín fue también bigoleador y Gordon se estrenó con dos asistencias</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Grecia traslada a Creta misiles antiaéreos Patriots ante el riesgo de un ataque de Irán",
     "link": "https://www.elperiodico.com/es/internacional/20260823/grecia-traslada-creta-misiles-antiaereos-133590016",
     "pubDate": "2026-08-23 23:28:27",
@@ -7,6 +43,15 @@
     "description": "<h2>La batería será desplegada cerca de la base militar de Suda, en el noroeste de la isla</h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Захід може надати Україні більше Patriot - прем'єр Данії",
+    "link": "https://ua.korrespondent.net/world/4905526-zakhid-mozhe-nadaty-ukraini-bilshe-Patriot-premier-danii",
+    "pubDate": "2026-08-23 23:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538078.jpg\">Країни Заходу мають можливість спорядити Києву більше засобів протиповітряної оборони, вважає Фредеріксен.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Senegal y Mauritania interceptan a más de 750 migrantes que intentaban llegar a Canarias",
