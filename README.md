@@ -1,8 +1,9 @@
-# News for 2026-08-23 14:25
+# News for 2026-08-23 15:11
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+14:48 [Су-33, МіГ-29 і С-400: Бровді назвав уражені цілі РФ](https://ua.korrespondent.net/world/russia/4905452-su-33-mih-29-i-s-400-brovdi-nazvav-urazheni-tsili-rf)<br>
 14:21 [Потужний шторм накрив Польщу та країни Балтії: є загиблі й постраждалі](https://ua.korrespondent.net/world/4905450-potuzhnyi-shtorm-nakryv-polschu-ta-krainy-baltii-ye-zahybli-y-postrazhdali)<br>
 10:57 [РФ має до 630 балістичних ракет - Зеленський](https://ua.korrespondent.net/ukraine/4905425-rf-maie-do-630-balistychnykh-raket-zelenskyi)<br>
 10:32 [У Львові стався вибух в аптеці, є загиблий](https://ua.korrespondent.net/city/lvov/4905421-u-lvovi-stavsia-vybukh-v-aptetsi-ye-zahyblyi)<br>
@@ -22,6 +23,12 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:00 [La sequía y los recortes de la ayuda internacional ponen a Somalia al borde de una nueva catástrofe humanitaria: "El riesgo de hambruna es serio"](https://www.elperiodico.com/es/internacional/20260823/sequia-recortes-ayuda-internacional-somalia-hambruna-133588153)<br>
+14:58 [Una empresa catalana de drones recibe la primera autorización en España para transportar sangre y medicinas en zonas pobladas](https://www.elperiodico.com/es/sociedad/20260823/empresa-catalana-drones-primera-autorizacion-transporte-medicamentos-sangre-espana-terres-ebre-cataluna-133529111)<br>
+14:55 [La carrera por llenar el cielo de satélites complica a los telescopios la detección de asteroides peligrosos](https://www.elperiodico.com/es/sociedad/20260823/satelites-elon-musk-alteracion-cielo-observacion-telescopios-deteccion-asteroides-peligrosos-carrera-espacial-133487091)<br>
+14:31 [Londres, la ciudad fetiche de Amancio Ortega: una quincena de edificios y más de 4.200 millones invertidos](https://www.elperiodico.com/es/economia/20260823/londres-amancio-ortega-inversiones-compras-pontegadea-133587826)<br>
+14:27 [Incendios hoy, 23 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260823/incendios-hoy-23-agosto-catalunya-espana-mapa-incendios-activos-dv-133587542)<br>
+14:23 [Detienen en Benidorm por maltrato a su novia a un condenado por agresión machista que cambió de sexo a mujer en prisión](https://www.elperiodico.com/es/sucesos/20260823/detienen-benidorm-maltrato-novia-condenado-agresion-machista-cambio-sexo-mujer-prision-133587601)<br>
 14:01 [Laur, camionero desde los 12 años: "Quiero que esto sirva para concienciar a la gente de que, en el transporte, todavía hay buenas empresas donde se puede ganar un buen dinero"](https://www.elperiodico.com/es/economia/20260823/salario-camionero-sector-transportes-dietas-laur-dv-et-133522284)<br>
 14:00 [Viviana vive en una casa abandonada del siglo XIX sobre la que circulan extraños rumores: "Veo un animal que ha encontrado un refugio y me llena de alegría, la naturaleza hizo lo mismo conmigo"](https://www.elperiodico.com/es/economia/20260823/vive-casa-abandonada-rumores-extranos-hierbas-medicinales-refugio-naturaleza-viviana-dv-et-133464268)<br>
 13:46 [La renuncia de Sony al videojuego físico pone las tiendas especializadas de los Encants y Sant Antoni a un paso del 'vintage'](https://www.elperiodico.com/es/barcelona/eixample/20260823/renuncia-sony-videojuego-fisico-tiendas-encants-sant-antoni-vintage-132341377)<br>
