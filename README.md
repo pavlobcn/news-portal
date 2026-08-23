@@ -1,4 +1,4 @@
-# News for 2026-08-23 08:44
+# News for 2026-08-23 09:22
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
@@ -13,6 +13,11 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 00:19 [У столиці Болгарії виявили потужний глушник GPS-сигналів](https://ua.korrespondent.net/world/4905362-u-stolytsi-bolharii-vyiavyly-potuzhnyi-hlushnyk-GPS-syhnaliv)<br>
 
 ## www.elperiodico.com
+09:29 [Medida sencilla y barata contra el calor: entoldar las calles en verano](https://www.elperiodico.com/es/medio-ambiente/20260823/medida-sencilla-barata-calor-entoldar-130886984)<br>
+09:14 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260823/ultima-hora-incendios-espana-directo-132759066)<br>
+09:03 [Cadaqués se queda sin 300 plazas de aparcamiento y los coches ocupan los olivares: "Cada vez se degrada más el paisaje"](https://www.elperiodico.com/es/sociedad/20260823/cadaques-queda-sin-300-plazas-aparcamiento-olivares-coches-133580942)<br>
+09:00 [Mi hijo adolescente no me cuenta nada y solo habla con sus amigos, ¿me preocupo?](https://www.elperiodico.com/es/sociedad/20260823/hijos-adolescentes-solo-hablan-amigos-que-hacer-familias-133545871)<br>
+08:55 [Con 82 años, Gabrielle Dargaud camina 10 km diarios para cuidar a los gatos de Cadaqués: "Es una lucha sin fin"](https://www.elperiodico.com/es/sociedad/20260823/82-anos-gabrielle-dargaud-camina-10-km-diarios-cuidar-gatos-cadaques-133580904)<br>
 08:41 [El incendio de Segorbe (Comunidad Valenciana) se estabiliza tras tres días de lucha contra las llamas](https://www.elperiodico.com/es/sociedad/20260823/incendio-segorbe-comunidad-valenciana-estabiliza-133580828)<br>
 08:35 [Paula, colombiana en España (24 años): "Era auxiliar contable, aquí ahora limpio pisos para poder sobrevivir"](https://www.elperiodico.com/es/economia/20260823/paula-colombiana-24-anos-auxiliar-contable-limpiadora-pisos-sobrevivir-dv-et-133462848)<br>
 08:30 [Dos festivos y un superpuente: la gran noticia para Tarragona tras las vacaciones](https://www.elperiodico.com/es/catalunya/20260823/tarragona-festivos-superpuente-santa-tecla-diada-cataluna-dv-loc-133553316)<br>
