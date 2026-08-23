@@ -1,8 +1,9 @@
-# News for 2026-08-23 17:01
+# News for 2026-08-23 17:33
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+17:18 [Друга пожежа за добу: під Москвою палає склад](https://ua.korrespondent.net/world/russia/4905468-druha-pozhezha-za-dobu-pid-moskvoui-palaie-sklad)<br>
 16:56 [Зеленський висловився про вибори під час війни](https://ua.korrespondent.net/ukraine/4905465-zelenskyi-vyslovyvsia-pro-vybory-pid-chas-viiny)<br>
 16:37 [РФ двічі атакувала енергооб’єкт на Миколаївщині: частина району без світла](https://ua.korrespondent.net/ukraine/4905463-rf-dvichi-atakuvala-enerhoobiekt-na-mykolaivschyni-chastyna-raionu-bez-svitla)<br>
 15:46 [Росіяни вдарили по поїзду на Харківщині, є загибла](https://ua.korrespondent.net/ukraine/4905458-rosiiany-vdaryly-po-poizdu-na-kharkivschyni-ye-zahybla)<br>
@@ -25,6 +26,10 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:30 [Instagram cambia su logotipo por primera vez en 10 años: así es el nuevo diseño](https://www.elperiodico.com/es/sociedad/20260823/instagram-cambia-logo-nuevo-diseno-dv-et-133552210)<br>
+17:15 [Ana Molina, dermatóloga: "El verdadero motivo por el que te pican los mosquitos se debe a la regla del C-O-M-O"](https://www.elperiodico.com/es/vida-y-estilo/20260823/mosquitos-picaduras-motivo-ana-molina-dermatologa-dv-et-133448855)<br>
+17:03 [Los Mossos investigan la muerte de un hombre apuñalado en la Ràpita](https://www.elperiodico.com/es/sucesos/20260823/mossos-investigan-muerte-hombre-apunalado-rapita-133589876)<br>
+17:01 [Fallece un buceador mientras realizaba una inmersión en Almería](https://www.elperiodico.com/es/sucesos/20260823/fallece-buceador-realizaba-inmersion-almeria-133590207)<br>
 17:00 [¿Te pueden despedir en agosto mientras estás de vacaciones? Esto es lo que dice la ley](https://www.elperiodico.com/es/economia/20260823/despedir-agosto-vacaciones-verano-ley-dv-et-133549289)<br>
 16:39 [Hallan el cuerpo sin vida de un vecino de Gátova (Valencia) en su vivienda en el realojo del municipio tras el incendio](https://www.elperiodico.com/es/sucesos/20260823/hallan-cuerpo-vida-vecino-gatova-133589803)<br>
 16:32 [Zoolander, la icónica película que inventó el fenómeno viral de 'farmear aura'](https://www.elperiodico.com/es/vida-y-estilo/20260823/zoolander-pelicula-batallas-de-aura-farmear-david-bowie-generacion-z-dv-133588739)<br>
