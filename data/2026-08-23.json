@@ -1,5 +1,122 @@
 [
   {
+    "title": "España y Marruecos: una relación económica de 23.000 millones de euros",
+    "link": "https://www.elperiodico.com/es/economia/20260823/espana-marruecos-relacion-economica-23-000-millones-euros-133582540",
+    "pubDate": "2026-08-23 10:36:16",
+    "category": "",
+    "description": "<h2>Los vínculos entre ambos países también compuesto de factores logísticos, migratorios y de seguridad convierten crisis como la de Ceuta en un asunto de alcance estratégico</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Trump carga contra Canadá tras romperse las negociaciones arancelarias",
+    "link": "https://www.elperiodico.com/es/internacional/20260823/trump-carga-canada-romperse-negociaciones-133582134",
+    "pubDate": "2026-08-23 10:36:07",
+    "category": "",
+    "description": "<h2>El presidente de Estados Unidos acusa al país vecino de querer \"disfrutar de los beneficios de ser un estado más\" de su país \"sin serlo\"</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260822/eeuu-canada-alcanzan-acuerdo-comercial-entran-vigor-aranceles-50-133560884\">EEUU y Canadá no alcanzan un acuerdo comercial y entran en vigor los aranceles del 50%</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260723/trump-impone-aranceles-12-5-132753818\">Trump reconstruye su guerra comercial: impone nuevos aranceles de entre el 10% y 12% a 60 países</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El último verano en París",
+    "link": "https://www.elperiodico.com/es/opinion/20260823/ultimo-verano-paris-carlos-perez-porta-133582375",
+    "pubDate": "2026-08-23 10:32:00",
+    "category": "",
+    "description": "<h2>Conocí a Guille el último día de julio, en el número 24 de la Rue des Lombards en pleno barrio de Le Marais</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Farmear aura: ¿en qué consiste el nuevo fenómeno viral que está llegando a España?",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/farmear-aura-que-es-fenomeno-viral-dv-133581661",
+    "pubDate": "2026-08-23 10:26:00",
+    "category": "",
+    "description": "<h2>Las batallas de 'farmear aura' están empezando a llegar a España y buscan medir la presencia y el carisma de los jóvenes a través de pasos de baile y poses populares en internetet</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un robot chino supera el legendario récord de Usain Bolt de 100 metros",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/robot-chino-supera-legendario-record-133582045",
+    "pubDate": "2026-08-23 10:24:53",
+    "category": "",
+    "description": "<h2>La máquina completó la distancia en 9,39 segundos durante los Juegos Mundiales de Robots Humanoides de Pekín</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Si ves esto en la cafetera de un bar, piénsatelo antes de pedir un cortado: puede ser peligroso",
+    "link": "https://www.elperiodico.com/es/salud/20260823/cafetera-bar-pedir-cortado-peligroso-dv-et-133476741",
+    "pubDate": "2026-08-23 10:20:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Los restos de leche pegados a la lanza de vapor pueden ser una señal de una higiene deficiente y favorecer la proliferación de microorganismos si no se limpia correctamente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/consumo/20260305/cafe-salud-bebida-cortisol-manana-dv-127301388\">El café \"justo al levantarse\" es la trampa: el gesto que hace (casi) todo el mundo y que puede salirte caro</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗСУ уразили російську пускову установку Іскандер - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4905419-zsu-urazyly-rosiisku-puskovu-ustanovku-iskander-zelenskyi",
+    "pubDate": "2026-08-23 10:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537366.jpg\">Військові уразили російську пускову установку Іскандер поблизу українських кордонів. Зеленський подякував ЗСУ за знищення ворожої цілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España cae con Argentina y no depende de sí misma en el Mundial femenino de hockey hierba",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/espana-cae-argentina-depende-mundial-133581808",
+    "pubDate": "2026-08-23 10:11:55",
+    "category": "",
+    "description": "<h2>Las españolas tendrán que golear este lunes a Alemania y que las argentinas venzan a Bélgica para acceder a semifinales</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Messi marca, pero no evita otra derrota del Inter Miami",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/messi-marca-evita-derrota-inter-133581807",
+    "pubDate": "2026-08-23 10:06:22",
+    "category": "",
+    "description": "<h2>El equipo del astro argentino acumula ya cuatro encuentros sin ganar</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sonia Díaz, experta en gestión del enfado: \"Muchas veces hablamos pero no decimos nada, damos rodeos, dejamos cosas a medias y esperamos que el otro lo entienda todo y no funciona así\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260823/sonia-diaz-experta-gestion-enfado-pareja-dv-et-133425584",
+    "pubDate": "2026-08-23 10:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La especialista destaca la necesidad de comunicar los sentimientos durante los conflictos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260718/rosa-rabbani-psicologa-quieres-buena-132229001\" >Rosa Rabbani, psicóloga: \"Si quieres hacer una buena elección de pareja, más vale que busques un buen carácter y que te curres el tuyo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260815/diez-criterios-buena-amistad-psicologia-dv-133328293\" >10 criterios para saber si tienes una buena amistad con alguien, según la psicología</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salen a subhasta el piano y el micrófono de Freddy Mercury",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260823/salen-subhasta-piano-microfono-freddy-133581753",
+    "pubDate": "2026-08-23 10:03:25",
+    "category": "",
+    "description": "<h2>Los artículos forman parte de la colección del productor musical alemán Reinhold Mack</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20240920/homenaje-queen-museo-rock-guitar-legends-hall-barcelona-108352158\">Homenaje a Queen en el primer museo de la guitarra eléctrica de Europa (con 'masterclass' incluida)</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20230507/dia-freddie-mercury-reino-vallecas-118217345\">El día que Freddie Mercury reinó en Vallecas</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "De viajar 11 meses al año a refugiarse en una cabaña en el monte: el nuevo proyecto de Fito y Zarpas",
+    "link": "https://www.elperiodico.com/es/economia/20260823/cabana-fito-zarpas-vida-monte-dv-et-133483729",
+    "pubDate": "2026-08-23 10:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La pareja ha decidido asumir el reto pese al estado en el que se encuentra actualmente la propiedad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260819/huyeron-ciudad-reformar-casa-antepasados-asturias-pareja-virginia-andrea-dv-et-133338216\" >Virginia y Andrea huyeron de la ciudad para reformar la casa de sus antepasados: \"Este pueblo, como muchas otras aldeas, se está perdiendo por la civilización\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260807/bosque-animales-rescatados-pareja-aislada-sole-rudy-asturias-dv-et-132932539\" >Sole y Rudy, aislados en el bosque y rodeados de animales rescatados: \"El peor momento era cuando estaba el tejado quitado y empezó a llover\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Volvo Trucks celebra su centenario con la edición especial Volvo 100 Aniversario para sus modelos FH y FH16",
+    "link": "https://www.elperiodico.com/es/motor/20260823/volvo-trucks-celebra-centenario-edicion-especial-133479736",
+    "pubDate": "2026-08-23 10:00:52",
+    "category": "",
+    "description": "<h2>Anticipándose a los 100 años de la compañía en 2027, la marca dota a sus buques insignia de un equipamiento exclusivo enfocado en el confort, la iluminación y el diseño</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los Mossos aumentarán efectivos e investigaciones para frenar las armas de fuego",
     "link": "https://www.elperiodico.com/es/sociedad/20260823/mossos-reforzaran-efectivos-frenar-armas-fuego-133581631",
     "pubDate": "2026-08-23 09:51:53",
@@ -14,6 +131,15 @@
     "pubDate": "2026-08-23 09:45:00",
     "category": "",
     "description": "<h2 class=\"item\">Los expertos recomiendan no bajar el mando de golpe y mantener el aire a estos grados para conservar el confort sin disparar la factura</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260802/aire-acondicionado-consumo-noche-electricista-carlos-llull-dv-131815013\" >Carlos Llull, experto en aire acondicionado: \"El problema es cuánto calor entra en la vivienda...\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260802/manuel-amate-experto-ahorro-energetico-error-aire-acondicionado-dv-131845264\" >Manuel Amate, experto en ahorro energético, avisa del error que cometemos con el aire acondicionado: \"Así la máquina no sufre tanto\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сили ППО знешкодили 97 дронів РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4905416-syly-ppo-zneshkodyly-97-droniv-rf",
+    "pubDate": "2026-08-23 09:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537330.jpg\">Зафіксовані влучання 27 ударних БПЛА на 22 локаціях, а також падіння збитих (уламки) на трьох.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -41,6 +167,15 @@
     "pubDate": "2026-08-23 09:24:58",
     "category": "",
     "description": "<h2>El Ejecutivo del país confirmó este viernes 297 casos de esta enfermedad en su territorio</h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20260522/director-agencia-salut-publica-barcelona-alerta-posible-mutacion-letal-gripe-aviar-130523069\">Una posible mutación de la gripe aviar podría causar una pandemia, pero el mundo está \"más preparado\" que en 1918: \"Hay vacunas\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20250725/gripe-aviar-dispara-mamiferos-50-120059703\">La gripe aviar se dispara entre los mamíferos: un 50% más de especies infectadas en el último año</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині дрон РФ поцілив у локомотив пасажирського поїзда",
+    "link": "https://ua.korrespondent.net/ukraine/4905413-na-odeschyni-dron-rf-potsilyv-u-lokomotyv-pasazhyrskoho-poizda",
+    "pubDate": "2026-08-23 09:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537311.jpg\">Минулося без постраждалих. Загалом у потягу перебували 593 пасажири, серед яких 15 дітей. Наразі організовується довезення пасажирів до Одеси.",
     "topic": "",
     "topic_match_probability": 0
   },
