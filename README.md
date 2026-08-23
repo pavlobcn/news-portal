@@ -1,4 +1,4 @@
-# News for 2026-08-23 22:14
+# News for 2026-08-23 22:57
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
@@ -29,6 +29,7 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:44 [Empeora el estado de salud del rey Harald de Noruega, que permanece estable con una infección](https://www.elperiodico.com/es/politica/20260823/empeora-salud-rey-harald-noruega-133597086)<br>
 21:37 [Los Mossos investigan el origen de un proyectil en el interior de una vivienda del barrio de Sants](https://www.elperiodico.com/es/sucesos/20260823/mossos-investigan-origen-proyectil-interior-133596297)<br>
 20:55 [Al menos seis desaparecidos y decenas de viviendas afectadas en Venezuela por las lluvias](https://www.elperiodico.com/es/internacional/20260823/desaparecidos-viviendas-afectadas-venezuela-lluvias-133595983)<br>
 20:51 [Vecinos de El Vendrell reclaman revisar el funcionamiento de los sistemas de drenaje después de las inundaciones](https://www.elperiodico.com/es/sociedad/20260823/vecinos-vendrell-reclaman-revisar-funcionamiento-133595820)<br>
