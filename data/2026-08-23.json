@@ -1,5 +1,59 @@
 [
   {
+    "title": "Feijóo, sobre la polémica por el ático, asegura que el Gobierno de Ayuso le comentó en abril que buscaba sede por obras en Sol",
+    "link": "https://www.elperiodico.com/es/politica/20260823/feijoo-polemica-compra-atico-gobierno-ayuso-sede-sol-133593544",
+    "pubDate": "2026-08-23 18:47:20",
+    "category": "",
+    "description": "<h2>El líder del PP cree que es Patrimonio de la Comunidad de Madrid quien deberá explicar \"por qué compró un local que no se puede destinar a oficina\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Боєць ЗСУ збив ворожий FPV-\"ждун\" у момент атаки",
+    "link": "https://ua.korrespondent.net/ukraine/4905484-boiets-zsu-zbyv-vorozhyi-FPV-zhdun-u-moment-ataky",
+    "pubDate": "2026-08-23 18:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537823.jpg\">Боєць Сил оборони зі стрілецької зброї збив російський FPV-дрон, який чатував на український пікап із військовими.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Duplantis, sin récord del mundo en el recital de Battocletti y Marileidy Paulino",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/duplantis-record-mundo-recital-battocletti-133592918",
+    "pubDate": "2026-08-23 18:33:06",
+    "category": "",
+    "description": "<h2>El pertiguista sueco gana en Polonia, en el marco de la Liga Diamante, pero no puede batir su récord del mundo de 6,32</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El avión eléctrico más grande del mundo: gasta menos de 5 euros en electricidad en su primer vuelo",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260823/avion-electrico-mas-grande-mundo-5-euros-vuelo-heart-aerospace-dv-133477565",
+    "pubDate": "2026-08-23 18:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La aeronave podría reducir los costes operativos en más de un 40 % respecto a los aviones regionales convencionales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260811/vuelo-largo-directo-sidney-londres-avion-vega-airbus-qantas-dv-133090640\" >Así es el Airbus A350-1000ULR: podrá unir Londres y Sídney sin escalas en el vuelo más largo de la historia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/motor/20260712/taxis-aereos-cada-vez-mas-cerca-toyota-joby-aviation-132248927\" >Los taxis aéreos están cada vez más cerca: Toyota y Joby Aviation se unen para fabricar estos vehículos a gran escala</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sílvia Abril (55 años), sobre su época estudiantil: \"Yo acabé haciendo Derecho por seguir a mis amigas... Hice hasta cuarto de carrera\"",
+    "link": "https://www.elperiodico.com/es/gente/20260823/silvia-abril-estudios-derecho-pelicula-todos-los-colores-entrevista-dv-et-133357459",
+    "pubDate": "2026-08-23 18:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La intérprete habla sobre la película 'Todos los colores': \"Creo que es la primera comedia con la que los adolescentes se van a sentir realmente identificados\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260721/berto-buenafuente-otro-mundo-serie-movistar-silvia-abril-132430384\">Berto ficha a Sílvia Abril para hacer de hija de Buenafuente en su serie 'El otro mundo': \"Nunca lo vi venir\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuba reporta la caída de un supuesto meteorito en la provincia oriental Granma",
+    "link": "https://www.elperiodico.com/es/internacional/20260823/cuba-reporta-caida-supuesto-meteorito-133592946",
+    "pubDate": "2026-08-23 18:24:47",
+    "category": "",
+    "description": "<h2>Un experto en geología apunta a que podría tratarse de \"basura tecnológica\" que estuviera en el espacio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Kane, elegido futbolista de la temporada 25-26 en Alemania por delante de Olise",
     "link": "https://www.elperiodico.com/es/deportes/20260823/kane-elegido-futbolista-temporada-25-133592520",
     "pubDate": "2026-08-23 18:22:17",
@@ -77,6 +131,15 @@
     "pubDate": "2026-08-23 17:42:11",
     "category": "",
     "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pogacar se niega a entregar el jersey rojo de la Vuelta",
+    "link": "https://www.elperiodico.com/es/deportes/20260823/segunda-etapa-vuelta-espana-pogacar-niega-entregar-jersey-rojo-133589712",
+    "pubDate": "2026-08-23 17:42:11",
+    "category": "",
+    "description": "<h2 class=\"item\">El corredor esloveno se cuela en el esprint final de la segunda etapa, bonifica en tercera posición y se mantiene al frente de la tabla ante las dos etapas en los Pirineos.</h2><h2 class=\"item\"><a href=\"https://www.tissottiming.com/2026/vue/stage-2/rankings\">Todas las clasificaciones.</a></h2>",
     "topic": "спорт",
     "topic_match_probability": 100
   },
