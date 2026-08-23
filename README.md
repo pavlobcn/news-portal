@@ -1,8 +1,9 @@
-# News for 2026-08-23 21:12
+# News for 2026-08-23 21:41
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+20:38 [В Києві пройшов дитячий фестиваль Jumpalooza](https://ua.korrespondent.net/kyiv/4905503-v-kyievi-proishov-dytiachyi-festyval-Jumpalooza)<br>
 19:32 [Росія вдарила по американському заводу на Сумщині](https://ua.korrespondent.net/ukraine/4905491-rosiia-vdaryla-po-amerykanskomu-zavodu-na-sumschyni)<br>
 18:00 [Свята 24 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4905478-sviata-24-serpnia-2026-roku-istoriia-tradytsii)<br>
 17:18 [Друга пожежа за добу: під Москвою палає склад](https://ua.korrespondent.net/world/russia/4905468-druha-pozhezha-za-dobu-pid-moskvoui-palaie-sklad)<br>
@@ -28,6 +29,7 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:37 [Los Mossos investigan el origen de un proyectil en el interior de una vivienda del barrio de Sants](https://www.elperiodico.com/es/sucesos/20260823/mossos-investigan-origen-proyectil-interior-133596297)<br>
 20:55 [Al menos seis desaparecidos y decenas de viviendas afectadas en Venezuela por las lluvias](https://www.elperiodico.com/es/internacional/20260823/desaparecidos-viviendas-afectadas-venezuela-lluvias-133595983)<br>
 20:51 [Vecinos de El Vendrell reclaman revisar el funcionamiento de los sistemas de drenaje después de las inundaciones](https://www.elperiodico.com/es/sociedad/20260823/vecinos-vendrell-reclaman-revisar-funcionamiento-133595820)<br>
 20:42 [Los robots de los Juegos de Pekín corren más, saltan más... y tienen que aprender a frenar](https://www.elperiodico.com/es/videos/sociedad/robots-juegos-pekin-corren-saltan/133595766.shtml)<br>
