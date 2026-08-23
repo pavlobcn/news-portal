@@ -1,10 +1,73 @@
 [
   {
+    "title": "Grecia traslada a Creta misiles antiaéreos Patriots ante el riesgo de un ataque de Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260823/grecia-traslada-creta-misiles-antiaereos-133590016",
+    "pubDate": "2026-08-23 23:28:27",
+    "category": "",
+    "description": "<h2>La batería será desplegada cerca de la base militar de Suda, en el noroeste de la isla</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Senegal y Mauritania interceptan a más de 750 migrantes que intentaban llegar a Canarias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/senegal-mauritania-interceptan-750-migrantes-133597687",
+    "pubDate": "2026-08-23 23:21:46",
+    "category": "",
+    "description": "<h2>Estos países son punto de partida habitual de los migrantes que pretenden llegar a las islas en una peligrosa travesía de unos 1.500 kilómetros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Полтавщині зафіксували землетрус",
+    "link": "https://ua.korrespondent.net/ukraine/4905524-na-poltavschyni-zafiksuvaly-zemletrus",
+    "pubDate": "2026-08-23 23:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538065.jpg\">Епіцентр підземних поштовхів був розташований в Полтавській області - на глибині 5 км.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Infoex da por controlado el incendio de Las Hurdes (Cáceres) y rebaja a cero su peligrosidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260823/infoex-da-controlado-incendio-hurdes-133597585",
+    "pubDate": "2026-08-23 23:08:23",
+    "category": "",
+    "description": "<h2>El fuego, estabilizado desde el viernes, entra en una nueva fase tras seis días de trabajos de extinción y deja unas 3.765 hectáreas afectadas, según la última estimación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У DeepState заявили про нові просування росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4905522-u-DeepState-zaiavyly-pro-novi-prosuvannia-rosiian",
+    "pubDate": "2026-08-23 22:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538039.jpg\">Згідно з оновленою мапою бойових дій, російська армія має просування поблизу Костянтинівки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Revancha en Tenerife",
+    "link": "https://as.com/baloncesto/mas_baloncesto/revancha-en-tenerife-f202608-n/",
+    "pubDate": "2026-08-23 22:48:15",
+    "category": "Baloncesto femenino",
+    "description": "La Selección arrolló a Bélgica 14 meses después de la final del Eurobasket. Pueyo e Iyana, 15 puntos cada una.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Empeora el estado de salud del rey Harald de Noruega, que permanece estable con una infección",
     "link": "https://www.elperiodico.com/es/politica/20260823/empeora-salud-rey-harald-noruega-133597086",
     "pubDate": "2026-08-23 22:44:04",
     "category": "",
     "description": "<h2>El monarca permanecerá en un hospital de Oslo y, de momento, sigue de baja</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ватикан зведе власну сонячну електростанцію",
+    "link": "https://ua.korrespondent.net/business/financial/4905520-vatykan-zvede-vlasnu-soniachnu-elektrostantsiui",
+    "pubDate": "2026-08-23 22:34:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538038.jpg\">Агровольтаїчна станція потужністю до 90 МВт, котра має забезпечити електроенергією Ватикан, планують звести на території маєтку Санта-Марія-ді-Галерія.",
     "topic": "",
     "topic_match_probability": 0
   },

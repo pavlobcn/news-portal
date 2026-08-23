@@ -1,8 +1,10 @@
-# News for 2026-08-23 22:57
+# News for 2026-08-23 23:28
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
 ## ua.korrespondent.net
+23:11 [На Полтавщині зафіксували землетрус](https://ua.korrespondent.net/ukraine/4905524-na-poltavschyni-zafiksuvaly-zemletrus)<br>
+22:34 [Ватикан зведе власну сонячну електростанцію](https://ua.korrespondent.net/business/financial/4905520-vatykan-zvede-vlasnu-soniachnu-elektrostantsiui)<br>
 20:38 [В Києві пройшов дитячий фестиваль Jumpalooza](https://ua.korrespondent.net/kyiv/4905503-v-kyievi-proishov-dytiachyi-festyval-Jumpalooza)<br>
 19:32 [Росія вдарила по американському заводу на Сумщині](https://ua.korrespondent.net/ukraine/4905491-rosiia-vdaryla-po-amerykanskomu-zavodu-na-sumschyni)<br>
 18:00 [Свята 24 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4905478-sviata-24-serpnia-2026-roku-istoriia-tradytsii)<br>
@@ -26,9 +28,12 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 00:19 [У столиці Болгарії виявили потужний глушник GPS-сигналів](https://ua.korrespondent.net/world/4905362-u-stolytsi-bolharii-vyiavyly-potuzhnyi-hlushnyk-GPS-syhnaliv)<br>
 
 ## as.com
+22:48 [Revancha en Tenerife](https://as.com/baloncesto/mas_baloncesto/revancha-en-tenerife-f202608-n/)<br>
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:21 [Senegal y Mauritania interceptan a más de 750 migrantes que intentaban llegar a Canarias](https://www.elperiodico.com/es/sociedad/20260823/senegal-mauritania-interceptan-750-migrantes-133597687)<br>
+23:08 [El Infoex da por controlado el incendio de Las Hurdes (Cáceres) y rebaja a cero su peligrosidad](https://www.elperiodico.com/es/sociedad/20260823/infoex-da-controlado-incendio-hurdes-133597585)<br>
 22:44 [Empeora el estado de salud del rey Harald de Noruega, que permanece estable con una infección](https://www.elperiodico.com/es/politica/20260823/empeora-salud-rey-harald-noruega-133597086)<br>
 21:37 [Los Mossos investigan el origen de un proyectil en el interior de una vivienda del barrio de Sants](https://www.elperiodico.com/es/sucesos/20260823/mossos-investigan-origen-proyectil-interior-133596297)<br>
 20:55 [Al menos seis desaparecidos y decenas de viviendas afectadas en Venezuela por las lluvias](https://www.elperiodico.com/es/internacional/20260823/desaparecidos-viviendas-afectadas-venezuela-lluvias-133595983)<br>
