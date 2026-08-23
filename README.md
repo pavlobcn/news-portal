@@ -1,4 +1,4 @@
-# News for 2026-08-23 11:46
+# News for 2026-08-23 12:38
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
@@ -17,7 +17,15 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 00:54 [В Японії стався землетрус магнітудою 5,9](https://ua.korrespondent.net/world/4905367-v-yaponii-stavsia-zemletrus-mahnitudoui-59)<br>
 00:19 [У столиці Болгарії виявили потужний глушник GPS-сигналів](https://ua.korrespondent.net/world/4905362-u-stolytsi-bolharii-vyiavyly-potuzhnyi-hlushnyk-GPS-syhnaliv)<br>
 
+## as.com
+11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
+
 ## www.elperiodico.com
+12:28 [Frenar la erosión ante las tormentas: las claves de los expertos para recuperar el suelo quemado tras los incendios](https://www.elperiodico.com/es/sociedad/20260823/frenar-erosion-tormentas-claves-expertos-recuperar-suelo-quemado-incendios-133584906)<br>
+12:06 [Roda de Berà y El Vendrell reclaman medidas "estructurales" contra las inundaciones y hacer "más permeable" la vía del tren](https://www.elperiodico.com/es/sociedad/20260823/roda-bera-vendrell-reclaman-medidas-estructurales-inundaciones-tren-133584202)<br>
+12:02 [Más de 2.000 robots participan en los Juegos Mundiales de Robots Humanoides de Pekín](https://www.elperiodico.com/es/videos/internacional/2-000-robots-participan-juegos/133584226.shtml)<br>
+12:00 [Aitana Sánchez-Gijón (57 años): "Cada día me levanto a las 5 de la mañana, desayuno dos kiwis y hago ayuno de 16 horas"](https://www.elperiodico.com/es/gente/20260823/aitana-sanchez-gijon-57-anos-rutina-diaria-ayuno-intermitente-dv-et-133543265)<br>
+11:51 [Andalucía lidera el número de detenidos por tráfico de drogas en España: el 65% de los arrestos fueron en Málaga, Sevilla y Cádiz](https://www.elperiodico.com/es/sociedad/20260823/andalucia-lidera-numero-detenidos-trafico-133583939)<br>
 11:42 [Zelenski cree que unas elecciones en el contexto actual supondrían el colapso de Ucrania](https://www.elperiodico.com/es/internacional/20260823/zelenski-cree-elecciones-contexto-actual-supondrian-colpaso-ucrania-133583702)<br>
 11:40 [Chuwi UniBook, la prueba de que un portátil avanzado no tiene que costar cuatro cifras](https://www.elperiodico.com/es/tecnologia/20260823/chuwi-unibook-prueba-portatil-avanzado-133582955)<br>
 11:15 [Descubren una nueva grieta activa que puede partir África en dos](https://www.elperiodico.com/es/medio-ambiente/20260823/descubren-nueva-grieta-activa-partir-130480122)<br>
