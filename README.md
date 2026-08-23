@@ -1,4 +1,4 @@
-# News for 2026-08-23 19:40
+# News for 2026-08-23 20:39
 
 Previous day: [2026-08-22](./data/2026-08-22.md)
 
@@ -28,6 +28,9 @@ Previous day: [2026-08-22](./data/2026-08-22.md)
 11:59 [Macedonia del Norte, epítome del pasaporte](https://as.com/baloncesto/mas_baloncesto/macedonia-del-norte-epitome-del-pasaporte-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:29 [Los robots de los Juegos de Pekín corren más, saltan más... y tienen que aprender a frenar](https://www.elperiodico.com/es/sociedad/20260823/robots-juegos-pekin-corren-saltan-133595417)<br>
+20:25 [Rescatados con síntomas de ahogamiento dos jóvenes en la balsa de La Morea (Navarra)](https://www.elperiodico.com/es/sucesos/20260823/rescatados-sintomas-ahogamiento-jovenes-balsa-133595528)<br>
+20:03 [Nuevo terremoto en Andalucía: un seísmo de 2,5 sacude el Golfo de Cádiz](https://www.elperiodico.com/es/sociedad/20260823/nuevo-terremoto-andalucia-seismo-2-133595036)<br>
 19:00 [Si tienes Alexa en casa, atento al volver de vacaciones: Amazon está activando su nueva IA y cambia por completo](https://www.elperiodico.com/es/tecnologia/20260823/alexa-plus-actualizacion-amazon-inteligencia-artifical-dv-133537137)<br>
 18:56 [Muere un niño de 4 años en un bombardeo de Israel contra el centro de Gaza](https://www.elperiodico.com/es/videos/internacional/muere-nino-4-anos-bombardeo/133593792.shtml)<br>
 18:30 [El avión eléctrico más grande del mundo: gasta menos de 5 euros en electricidad en su primer vuelo](https://www.elperiodico.com/es/trafico-y-transportes/20260823/avion-electrico-mas-grande-mundo-5-euros-vuelo-heart-aerospace-dv-133477565)<br>
