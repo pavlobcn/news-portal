@@ -1,8 +1,10 @@
-# News for 2026-08-24 15:27
+# News for 2026-08-24 16:14
 
 Previous day: [2026-08-23](./data/2026-08-23.md)
 
 ## ua.korrespondent.net
+15:55 [У Норвегії є місто, де сонце не заходить за обрій](https://ua.korrespondent.net/lifestyle/travel/4905698-u-norvehii-ye-misto-de-sontse-ne-zakhodyt-za-obrii)<br>
+15:32 [За українську заявку на Оскар боротимуться п’ять фільмів](https://ua.korrespondent.net/showbiz/cinema/4905712-za-ukrainsku-zaiavku-na-oskar-borotymutsia-piat-filmiv)<br>
 15:14 [Понад 100 тисяч завдань: роботи масово працюють на фронті](https://ua.korrespondent.net/ukraine/4905715-ponad-100-tysiach-zavdan-roboty-masovo-pratsuiuit-na-fronti)<br>
 15:03 [Курс іранської валюти впав до історичного мінімуму](https://ua.korrespondent.net/business/financial/4905713-kurs-iranskoi-valuity-vpav-do-istorychnoho-minimumu)<br>
 14:54 [В Ірані оголосили нагороду $10 млн за вбивство сина Трампа](https://ua.korrespondent.net/world/4905710-v-irani-oholosyly-nahorodu-10-mln-za-vbyvstvo-syna-trampa)<br>
@@ -42,6 +44,11 @@ Previous day: [2026-08-23](./data/2026-08-23.md)
 06:47 [Los secretos de la imparable Sub-16: magia, chispa y hambre](https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:00 [Dos startups catalanas llevan la tecnología del videojuego más allá del entretenimiento](https://www.elperiodico.com/es/tecnologia/20260824/startups-catalanas-tecnologia-videojuego-salud-133616059)<br>
+16:00 [Millones de personas en España sufren apnea del sueño sin saberlo: cómo detectarla a tiempo](https://www.elperiodico.com/es/salud/20260824/apnea-sueno-no-diagnosticada-espana-120397196)<br>
+15:59 [Un gimnasio 'low cost' aterriza en el Edificio Estel de Barcelona bajo el lema de "no juzgar" a los clientes](https://www.elperiodico.com/es/barcelona/20260824/gimnasio-low-cost-aterriza-edificio-estel-barcelona-no-juzgar-clientes-133612119)<br>
+15:54 [La fórmula de Rodrigo Sorogoyen e Isabel Peña para encadenar pelotazos: "Esto es casi una relación de pareja, no hay derecho de veto"](https://www.elperiodico.com/es/ocio-y-cultura/20260824/formula-rodrigo-sorogoyen-isabel-pena-encadenar-pelotazos-cine-espanol-ser-querido-estreno-133616248)<br>
+15:48 [El Barça de baloncesto cumple 100 años de historia entre la memoria y la ilusión](https://www.elperiodico.com/es/deportes/20260824/barca-baloncesto-cumple-100-anos-133611658)<br>
 15:20 [Lagarde se muestra dispuesta a dirigir el Foro de Davos entre las dudas sobre su continuidad al frente del BCE](https://www.elperiodico.com/es/economia/20260824/lagarde-muestra-dispuesta-dirigir-foro-133615407)<br>
 15:16 [Confucio, sobre lo que las personas inteligentes evitan: "Sé la persona que evite el agravio, la violencia y la arrogancia"](https://www.elperiodico.com/es/vida-y-estilo/20260824/confucio-filosofo-pensamiento-personas-inteligentes-anacletas-dv-133511952)<br>
 15:01 [El Gobierno y las autonomías acuerdan enviar 25.000 vacunas a Ceuta para prevenir enfermedades](https://www.elperiodico.com/es/sociedad/20260824/envio-vacunas-ceuta-enfermedades-inmigracion-133614410)<br>
