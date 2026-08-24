@@ -1,11 +1,56 @@
 [
   {
+    "title": "El incendio de Almería se complica: declarado el nivel 1 de emergencia y se activa una veintena de desalojos y confinamientos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/incendio-almeria-complica-declarado-nivel-133626347",
+    "pubDate": "2026-08-24 22:37:11",
+    "category": "",
+    "description": "<h2>Las fuertes rachas de viento y la gran cantidad de pasto dificultan las labores de extinción del incendio forestal declarado en el paraje de Doña María</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під Києвом вирує масштабна лісова пожежа",
+    "link": "https://ua.korrespondent.net/ukraine/4905822-pid-kyievom-vyruie-masshtabna-lisova-pozhezha",
+    "pubDate": "2026-08-24 22:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539068.jpeg\">Пожежа охопила значну територію, а її фронт простягається на кілька кілометрів, зазначають представники ДСНС.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Imágenes de la lluvia en el cámping Las Palmeres esta tarde en Tarragona",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/imagenes-lluvia-camping-palmeres-tarde/133625995.shtml",
+    "pubDate": "2026-08-24 22:04:33",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран намагався вбити одного з моїх синів - Нетаньягу",
+    "link": "https://ua.korrespondent.net/world/4905819-iran-namahavsia-vbyty-odnoho-z-moikh-syniv-netaniahu",
+    "pubDate": "2026-08-24 21:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539038.jpg\">Ізраїльський прем'єр не повідомив, про якого саме сина йдеться, а також не розповів, коли могла відбутися спроба вбивства.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Interior y Defensa mantienen antes de ir al Congreso el pulso en torno a si hubo alerta previa sobre Ceuta",
     "link": "https://www.elperiodico.com/es/videos/politica/interior-defensa-mantienen-congreso-pulso/133625875.shtml",
     "pubDate": "2026-08-24 21:52:30",
     "category": "",
     "description": "",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ноттінгем посилить склад форвардом Челсі - інсайдер",
+    "link": "https://ua.korrespondent.net/sport/football/4905817-nottinhem-posylyt-sklad-forvardom-chelsi-insaider",
+    "pubDate": "2026-08-24 21:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539019.jpg\">У команду Ноттінгем Форест майже відбувся перехід нападника лондонського клубу.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -27,6 +72,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Довбик зіграв за Болонью свій перший матч і з незабитим голом",
+    "link": "https://ua.korrespondent.net/sport/football/4905813-dovbyk-zihrav-za-bolonui-svii-pershyi-match-i-z-nezabytym-holom",
+    "pubDate": "2026-08-24 21:21:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538992.jpg\">Український футболіст вийшов на поле на заміну і навіть міг забити гол, однак на заваді його діям став захисник команди суперника.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Volkswagen показала новий Amarok",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4905810-Volkswagen-pokazala-novyi-Amarok",
+    "pubDate": "2026-08-24 21:14:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539003.jpg\">Нове покоління пікапа Volkswagen Amarok дебютує у 2027 році та стане найпотужнішою версією моделі за всю її історію, а згодом на його базі може з’явитися семимісний позашляховик.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La calle Valladolid gana de nuevo el concurso al mejor decorado de las Fiestas de Sants recreando la Ruta de la Seda",
     "link": "https://www.elperiodico.com/es/fotos/barcelona/calle-valladolid-gana-nuevo-concurso-133625424",
     "pubDate": "2026-08-24 21:13:42",
@@ -45,6 +108,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Новий Людина-павук витіснить Титанік із п’ятірки найкасовіших фільмів",
+    "link": "https://ua.korrespondent.net/showbiz/cinema/4905807-novyi-luidyna-pavuk-vytisnyt-tytanik-iz-piatirky-naikasovishykh-filmiv",
+    "pubDate": "2026-08-24 21:05:00",
+    "category": "Кіно новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538993.jpg\">\"Людина-павук: Абсолютно новий день\" продовжує демонструвати високі результати в прокаті та вже зібрав $2,22 млрд у всьому світі. До п’ятого місця в рейтингу найкасовіших фільмів усіх часів стрічці залишилося лише $44 млн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El horóscopo de mañana, martes 25 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260824/horoscopo-hoy-martes-25-agosto-dv-133480351",
     "pubDate": "2026-08-24 21:00:17",
@@ -61,6 +133,15 @@
     "description": "<h2><a href=\"https://rc-pro.prensaiberica.es/politica/2026/08/24/interior-defensa-mantienen-congreso-pulso-relato-alerta-crisis-ceuta-133620727.html\" target=\"_blank\"><a href=\"https://www.elperiodico.com/es/politica/20260824/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" >Interior y Defensa mantienen antes de ir al Congreso el pulso en torno a si hubo alerta previa sobre Ceuta</a></a></h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Манчестер Юнайтед потрібен фланговий гравець Барселони",
+    "link": "https://ua.korrespondent.net/sport/football/4905803-manchester-yunaited-potriben-flanhovyi-hravets-barselony",
+    "pubDate": "2026-08-24 20:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538973.jpg\">Англійська команда вирішила орендувати лівого захисника у Барселони і вже звернулася із цим питанням до каталонців.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Удар РФ по ТЦ у Кривому: трьох людей вважають зниклими безвісти",
