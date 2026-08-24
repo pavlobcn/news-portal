@@ -1,4 +1,4 @@
-# News for 2026-08-24 20:18
+# News for 2026-08-24 20:53
 
 Previous day: [2026-08-23](./data/2026-08-23.md)
 
@@ -56,6 +56,8 @@ Previous day: [2026-08-23](./data/2026-08-23.md)
 06:47 [Los secretos de la imparable Sub-16: magia, chispa y hambre](https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:37 [Un tornado sorprende al sur de Francia y arranca tejados en un pueblo cercano a Carcassone](https://www.elperiodico.com/es/sociedad/20260824/tornado-sur-francia-pomas-carcassone-aude-133624764)<br>
+20:25 [Sean y Lainey, estadounidenses afincados en Galicia desde 2023: "Estamos usando nuestro privilegio de haber podido ahorrar por tener sueldos de fuera"](https://www.elperiodico.com/es/sociedad/20260824/sean-lainey-estadounidenses-viviendo-galicia-dv-et-133512173)<br>
 20:14 [Francia y Arabia Saudí anuncian un proyecto de ocio de 6.000 millones de euros en París](https://www.elperiodico.com/es/internacional/20260824/francia-arabia-saudi-anuncian-proyecto-ocio-paris-133624347)<br>
 20:09 [Fuerte granizada en Sant Llorenç de Morunys](https://www.elperiodico.com/es/videos/sociedad/fuerte-granizada-sant-llorenc-morunys/133624201.shtml)<br>
 20:00 [Las urgencias ambulatorias de Barcelona acumulan más de 208.000 asistencias en medio año y una espera media de 28 minutos](https://www.elperiodico.com/es/sanidad/20260824/urgencias-cuap-barcelona-tiempo-espera-atencion-salut-cataluna-133483944)<br>
