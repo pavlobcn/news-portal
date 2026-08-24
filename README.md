@@ -1,4 +1,4 @@
-# News for 2026-08-24 18:28
+# News for 2026-08-24 19:09
 
 Previous day: [2026-08-23](./data/2026-08-23.md)
 
@@ -52,6 +52,12 @@ Previous day: [2026-08-23](./data/2026-08-23.md)
 06:47 [Los secretos de la imparable Sub-16: magia, chispa y hambre](https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:00 ['Mujeres de hierro', el libro con el que Boticaria García desmonta los mitos de la menopausia](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260824/mujeres-hierro-libro-boticaria-garcia-desmonta-mitos-menopausia-133606271)<br>
+18:58 [Grecia afronta ola de calor con sensación térmica de 48 grados y gran riesgo de incendios](https://www.elperiodico.com/es/internacional/20260824/grecia-afronta-ola-calor-sensacion-133622043)<br>
+18:51 [Singapur entregará 47.000 euros por cada hijo para fomentar la natalidad](https://www.elperiodico.com/es/internacional/20260824/singapur-entregara-47-000-euros-133621833)<br>
+18:49 [Una intensa tormenta azota el Camp de Tarragona y el Penedès con fuertes rachas de viento y granizo](https://www.elperiodico.com/es/tarragona/20260824/intensa-tormenta-azota-camp-tarragona-133621503)<br>
+18:45 [Muere Noël Godin, belga célebre por sus tartazos a famosos como Bill Gates](https://www.elperiodico.com/es/sociedad/20260824/muere-noel-godin-belga-celebre-133621772)<br>
+18:42 [Cortada la R15 entre Reus y Móra La Nova por las fuertes lluvias](https://www.elperiodico.com/es/sociedad/20260824/cortada-r15-reus-mora-nova-fuertes-lluvias-133621363)<br>
 18:14 [Cortada de nuevo la RL4 de Rodalies entre Calaf y Manresa por la caída de un árbol a las vías](https://www.elperiodico.com/es/sociedad/20260824/cortada-nuevo-rl4-rodalies-calaf-manresa-caida-arbol-vias-133620259)<br>
 18:11 [La depresión detiene la formación de nuevas neuronas en el cerebro](https://www.elperiodico.com/es/tendencias21/20260824/depresion-detiene-formacion-nuevas-neuronas-133620613)<br>
 18:05 [Reolink amplía la serie OMVI y presenta nuevas innovaciones de IA en IFA 2026](https://www.elperiodico.com/es/tecnologia/20260824/reolink-amplia-serie-omvi-ifa-133619964)<br>
