@@ -1,8 +1,12 @@
-# News for 2026-08-24 14:49
+# News for 2026-08-24 15:27
 
 Previous day: [2026-08-23](./data/2026-08-23.md)
 
 ## ua.korrespondent.net
+15:14 [Понад 100 тисяч завдань: роботи масово працюють на фронті](https://ua.korrespondent.net/ukraine/4905715-ponad-100-tysiach-zavdan-roboty-masovo-pratsuiuit-na-fronti)<br>
+15:03 [Курс іранської валюти впав до історичного мінімуму](https://ua.korrespondent.net/business/financial/4905713-kurs-iranskoi-valuity-vpav-do-istorychnoho-minimumu)<br>
+14:54 [В Ірані оголосили нагороду $10 млн за вбивство сина Трампа](https://ua.korrespondent.net/world/4905710-v-irani-oholosyly-nahorodu-10-mln-za-vbyvstvo-syna-trampa)<br>
+14:44 [Біля Саудівської Аравії обстріляли танкер](https://ua.korrespondent.net/world/4905708-bilia-saudivskoi-aravii-obstrilialy-tanker)<br>
 14:34 [Удар по Чернігову: постраждали 20 людей](https://ua.korrespondent.net/ukraine/4905704-udar-po-chernihovu-postrazhdaly-20-luidei)<br>
 14:32 [Труїли гризунів, а загинула жінка: на Тернопільщині сталося масове отруєння](https://ua.korrespondent.net/ukraine/4905702-truily-hryzuniv-a-zahynula-zhinka-na-ternopilschyni-stalosia-masove-otruiennia)<br>
 14:25 [Атаки дронів обвалили акції Ozon до мінімуму за три роки](https://ua.korrespondent.net/business/companies/4905700-ataky-droniv-obvalyly-aktsii-Ozon-do-minimumu-za-try-roky)<br>
@@ -38,6 +42,10 @@ Previous day: [2026-08-23](./data/2026-08-23.md)
 06:47 [Los secretos de la imparable Sub-16: magia, chispa y hambre](https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:20 [Lagarde se muestra dispuesta a dirigir el Foro de Davos entre las dudas sobre su continuidad al frente del BCE](https://www.elperiodico.com/es/economia/20260824/lagarde-muestra-dispuesta-dirigir-foro-133615407)<br>
+15:16 [Confucio, sobre lo que las personas inteligentes evitan: "Sé la persona que evite el agravio, la violencia y la arrogancia"](https://www.elperiodico.com/es/vida-y-estilo/20260824/confucio-filosofo-pensamiento-personas-inteligentes-anacletas-dv-133511952)<br>
+15:01 [El Gobierno y las autonomías acuerdan enviar 25.000 vacunas a Ceuta para prevenir enfermedades](https://www.elperiodico.com/es/sociedad/20260824/envio-vacunas-ceuta-enfermedades-inmigracion-133614410)<br>
+14:55 [Jacques Moretti, el principal imputado por el incendio mortal del bar de Crans-Montana, encarcelado por violencia conyugal](https://www.elperiodico.com/es/videos/sociedad/jacques-moretti-principal-imputado-incendio-video/133613887.shtml)<br>
 14:37 [Ustec da por "casi inevitable" la huelga educativa del primer día de clase ante la falta de negociación con el Govern](https://www.elperiodico.com/es/sociedad/20260824/ustec-da-inevitable-huelga-educativa-133603994)<br>
 14:32 [Cinco libros de temática 'boys' love' que no pueden faltar en tu estantería](https://www.elperiodico.com/es/ocio-y-cultura/20260824/cinco-libros-tematica-boys-love-132069780)<br>
 14:31 [El fenómeno 'boys' love' convierte los romances entre hombres en un éxito editorial](https://www.elperiodico.com/es/ocio-y-cultura/20260824/fenomeno-boys-love-convierte-romances-entre-hombres-exito-editorial-132028379)<br>
