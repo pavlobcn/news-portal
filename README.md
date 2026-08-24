@@ -1,8 +1,11 @@
-# News for 2026-08-24 11:06
+# News for 2026-08-24 12:01
 
 Previous day: [2026-08-23](./data/2026-08-23.md)
 
 ## ua.korrespondent.net
+11:50 [Винищувач Gripen розбився в Угорщині](https://ua.korrespondent.net/world/4905644-vynyschuvach-Gripen-rozbyvsia-v-uhorschyni)<br>
+11:26 [У день ювілею акторка розкрила своє ставлення до віку](https://ua.korrespondent.net/lifestyle/4905611-u-den-yuvileui-aktorka-rozkryla-svoie-stavlennia-do-viku)<br>
+10:59 [Археологи виявили в Китаї гробницю, якій близько 4300 років](https://ua.korrespondent.net/tech/science/4905602-arkheolohy-vyiavyly-v-kytai-hrobnytsui-yakii-blyzko-4300-rokiv)<br>
 09:59 [Зірка Голлівуду відвідала Київ і зробила важливе звернення](https://ua.korrespondent.net/lifestyle/4905519-zirka-hollivudu-vidvidala-kyiv-i-zrobyla-vazhlyve-zvernennia)<br>
 09:40 [Стало відомо, скільки цілей сили ППО знищили вночі](https://ua.korrespondent.net/ukraine/4905598-stalo-vidomo-skilky-tsilei-syly-ppo-znyschyly-vnochi)<br>
 09:24 [Дрони атакували чотири великі склади Ozon на півдні РФ](https://ua.korrespondent.net/world/russia/4905594-drony-atakuvaly-chotyry-velyki-sklady-Ozon-na-pivdni-rf)<br>
@@ -24,6 +27,13 @@ Previous day: [2026-08-23](./data/2026-08-23.md)
 06:47 [Los secretos de la imparable Sub-16: magia, chispa y hambre](https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:00 [Ni volver de vacaciones ni desplazarte: así puedes otorgar un poder notarial para una firma concreta de forma online](https://www.elperiodico.com/es/economia/20260824/otorgar-poder-notarial-firmar-escritura-online-dv-et-133584206)<br>
+12:00 [Ramón Vallés piloto de avión con 60 años: "Yo no acabo de entender cómo es posible que en el siglo XXI estemos así"](https://www.elperiodico.com/es/economia/20260824/huelga-medicos-manifestaciones-horario-laboral-trabajo-piloto-ramon-valles-dv-et-133435194)<br>
+11:48 [El cambio climático acaba con toneladas de ostras y mejillones en Japón y en Galicia](https://www.elperiodico.com/es/economia/20260824/cambio-climatico-acaba-toneladas-ostras-133607082)<br>
+11:31 [Así se puede vivir el ciclón subtropical que apunta a Barcelona, según el Centro Nacional de Huracanes](https://www.elperiodico.com/es/tiempo/20260824/ciclon-subtropical-barcelona-borrasca-hibrida-cataluna-lluvias-granizo-meteocat-dv-loc-133603382)<br>
+11:18 ['El Niño' devora Indonesia con su peor ola de incendios en años](https://www.elperiodico.com/es/internacional/20260824/indonesia-nino-devora-incendio-fenomeno-meteorologico-133603681)<br>
+11:07 [Las lluvias torrenciales provocan graves inundaciones en Taiwán](https://www.elperiodico.com/es/videos/internacional/lluvias-torrenciales-provocan-graves-inundaciones-taiwan/133605835.shtml)<br>
+11:07 [CaixaBank moviliza 2.500 millones para hoteles y alojamientos turísticos en seis meses](https://www.elperiodico.com/es/economia/20260824/caixabank-moviliza-2-500-millones-133603511)<br>
 11:00 [La Ley de Propiedad Horizontal avisa: permite limitar el uso de piscinas a vecinos morosos](https://www.elperiodico.com/es/economia/20260824/ley-propiedad-horizontal-avisa-limite-uso-piscinas-espana-dv-et-133569816)<br>
 10:49 [Al menos 30 muertos y 22 heridos por un deslizamiento en un vertedero de Guinea-Conakri](https://www.elperiodico.com/es/internacional/20260824/muertos-deslizamiento-vertedero-guinea-conakri-133605309)<br>
 10:46 [Menos esperas para volver de noche: el cambio del Nitbus entre Barcelona y el Baix Llobregat](https://www.elperiodico.com/es/barcelona/hospitalet/20260824/nitbus-barcelona-baix-llobregat-menos-esperas-116813702)<br>
