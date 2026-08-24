@@ -1,5 +1,140 @@
 [
   {
+    "title": "Italia estudia castigar con multas a los peatones que crucen la calle mirando el móvil",
+    "link": "https://www.elperiodico.com/es/internacional/20260824/italia-estudia-castigar-multas-peatones-crucen-calle-mirando-movil-133619828",
+    "pubDate": "2026-08-24 17:49:13",
+    "category": "",
+    "description": "<h2>El Gobierno de Giorgia Meloni se plantea una reforma del Código de Circulación que incluye sanciones de unos 75 euros por este nuevo delito</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Коригували удари по Донеччині: двоє зрадників отримали по 15 років тюрми",
+    "link": "https://ua.korrespondent.net/ukraine/4905757-koryhuvaly-udary-po-donechchyni-dvoie-zradnykiv-otrymaly-po-15-rokiv-tuirmy",
+    "pubDate": "2026-08-24 17:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538857.jpg\">Під час обшуків в обох вилучили смартфони із доказами виконання агентурних завдань в інтересах Росії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Real Madrid presenta a Marc Cucurella",
+    "link": "https://www.elperiodico.com/es/videos/deportes/real-madrid-presenta-marc-cucurella/133619506.shtml",
+    "pubDate": "2026-08-24 17:42:00",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La plantilla de Airbus da luz verde a la huelga indefinida en las primeras votaciones",
+    "link": "https://www.elperiodico.com/es/economia/20260824/plantilla-airbus-da-luz-verde-133619561",
+    "pubDate": "2026-08-24 17:41:23",
+    "category": "",
+    "description": "<h2>Los trabajadores del turno de mañana de la compañía votan mayoritariamente a favor del paro indefinido a pesar de las propuestas de la empresa sobre salarios y teletrabajo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cancelada la etapa de la Vuelta por una tremenda granizada",
+    "link": "https://www.elperiodico.com/es/deportes/20260824/tercera-etapa-vuelta-neutralizada-133616920",
+    "pubDate": "2026-08-24 17:35:28",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La vuelta al cole también llega al hogar: Dreame rebaja hasta 1.000 euros varios productos",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260824/vuelta-cole-hogar-dreame-ofertas-133618229",
+    "pubDate": "2026-08-24 17:34:01",
+    "category": "",
+    "description": "<h2>La campaña, activa hasta el 6 de septiembre, incluye robots aspiradores y un robot cortacésped </h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Efecto bumerán contra Meloni tras la crisis por Ceuta: 7 países europeos ya estudian el traslado de solicitantes de asilo a Italia",
+    "link": "https://www.elperiodico.com/es/internacional/20260824/efecto-bumeran-meloni-crisis-ceuta-7-paises-europeos-traslado-solicitantes-asilo-italia-133619063",
+    "pubDate": "2026-08-24 17:30:23",
+    "category": "",
+    "description": "<h2>La crisis entre Italia y España coincide con una cascada de anuncios de otros Estados en virtud de la regla que establece que el país de primera entrada en la UE es el responsable de examinar la solicitud</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Тотальної блокади у морі немає - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4905755-totalnoi-blokady-u-mori-nemaie-zelenskyi",
+    "pubDate": "2026-08-24 17:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538847.jpg\">Трьом-чотирьом кораблям щодоби вдається виходити і заходити до портів Великої Одеси, запевнив глава держави.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Detenido por incendiar 127 contenedores en Barcelona: los daños rondan los 115.000 euros",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/detenido-incendiar-127-contenedores-barcelona/133618717.shtml",
+    "pubDate": "2026-08-24 17:23:14",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno propone a Ceuta ampliar de forma inmediata el plan de desarrollo socioeconómico de 2022",
+    "link": "https://www.elperiodico.com/es/economia/20260824/gobierno-propone-ceuta-ampliar-forma-133618645",
+    "pubDate": "2026-08-24 17:18:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La medida extraordinaria se diseñará junto a la ciudad autónoma, agentes sociales y empresas para reforzar la seguridad, atender la crisis migratoria y reactivar la economía ceutí</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los políticos no tienen derecho a vacaciones",
+    "link": "https://www.elperiodico.com/es/opinion/20260824/politicos-derecho-vacaciones-pedro-sanchez-dana-ceuta-articulo-joan-lopez-alegre-133618223",
+    "pubDate": "2026-08-24 17:16:04",
+    "category": "",
+    "description": "<h2>La presencia de un responsable público en un lugar de conflicto o desastre natural no resuelve los problemas, pero es una muestra de interés mínima y exigible</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260824/pedro-sanchez-abandona-lanzarote-vacaciones-criticas-crisis-migratoria-ceuta-133607466\">Pedro Sánchez abandona Lanzarote tras sus vacaciones en medio de las críticas por la crisis migratoria en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Óscar Puente: \"Pedro Sánchez es el mejor líder que puede tener el PSOE\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/puente-sanchez-mejor-lider-psoe/133618413.shtml",
+    "pubDate": "2026-08-24 17:12:47",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La lesión de Gavi se queda en un susto",
+    "link": "https://www.elperiodico.com/es/videos/deportes/lesion-gavi-queda-susto/133618201.shtml",
+    "pubDate": "2026-08-24 17:11:45",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Державна іпотечна установа залишилась без ліцензії НБУ",
+    "link": "https://ua.korrespondent.net/business/companies/4905749-derzhavna-ipotechna-ustanova-zalyshylas-bez-litsenzii-nbu",
+    "pubDate": "2026-08-24 17:10:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538826.jpg\">Національний банк відкликав ліцензію Державної іпотечної установи за її власною заявою. Водночас ДІУ зможе й надалі працювати в межах державних і місцевих програм.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno y las autonomías acuerdan enviar 45.000 vacunas a Ceuta para prevenir enfermedades",
+    "link": "https://www.elperiodico.com/es/videos/internacional/gobierno-autonomias-acuerdan-enviar-45/133618287.shtml",
+    "pubDate": "2026-08-24 17:09:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Aramis Fuster confiesa su atracción por Ortega Cano: \"Es un hombre que me ha gustado siempre\"",
     "link": "https://www.elperiodico.com/es/gente/20260824/aramis-fuster-confiesa-atraccion-ortega-133618019",
     "pubDate": "2026-08-24 17:04:44",
