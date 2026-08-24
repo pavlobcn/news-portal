@@ -1,5 +1,104 @@
 [
   {
+    "title": "El tifón Narra deja 16.000 evacuados y mantiene en alerta máxima por inundaciones a China",
+    "link": "https://www.elperiodico.com/es/internacional/20260824/tifon-narra-miles-evacuados-alerta-maxima-inundaciones-china-133600964",
+    "pubDate": "2026-08-24 07:04:36",
+    "category": "",
+    "description": "<h2>Este lunes, 17 estaciones de 12 ríos seguían por encima del umbral de aviso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Falta de respeto a las mujeres periodistas y a Pogacar",
+    "link": "https://www.elperiodico.com/es/deportes/20260824/falta-respeto-mujeres-periodistas-tambien-pogacar-tourmalet-sergi-lopez-egea-133594847",
+    "pubDate": "2026-08-24 07:01:04",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cómo aparcar tu moto legalmente en la calle sin que puedan multarte",
+    "link": "https://www.elperiodico.com/es/motor/20260824/como-aparcar-moto-legalmente-calle-sin-que-te-multen-133479211",
+    "pubDate": "2026-08-24 07:00:52",
+    "category": "",
+    "description": "<h2>Muchos motoristas desconocen las normas, excepciones y trucos para estacionar de forma legal y segura</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Дружина гравця Шахтаря підкорила ефектними фото",
+    "link": "https://ua.korrespondent.net/sport/football/4905514-druzhyna-hravtsia-shakhtaria-pidkoryla-efektnymy-foto",
+    "pubDate": "2026-08-24 06:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538010.jpg\">Дівчина опублікувала в соцмережах ефектні кадри, виконані у фірмових помаранчево-чорних кольорах донецького клубу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати росіян за добу",
+    "link": "https://ua.korrespondent.net/ukraine/4905568-henshtab-nazvav-vtraty-rosiian-za-dobu",
+    "pubDate": "2026-08-24 06:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538378.jpg\">Загальні бойові втрати російської армії з 24.02.22 по 24.08.26 склали близько 1 478 070 (+1 490) осіб.",
+    "topic": "підсумки",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los secretos de la imparable Sub-16: magia, chispa y hambre",
+    "link": "https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/",
+    "pubDate": "2026-08-24 06:47:53",
+    "category": "Baloncesto",
+    "description": "La seleccionadora Madelén Urieta atiende a AS tras la conquista del oro por España en el Eurobasket de la categoría este sábado.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lluvia en Catalunya, en directo: última hora del aviso del Meteocat por lluvias intensas en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/el-tiempo-hoy-cataluna-lluvia-ultima-hora-directo-133518728",
+    "pubDate": "2026-08-24 06:42:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260822/lluvias-intensas-200-litros-baix-penedes-litoral-tarragona-tiempo-meteocat-dv-133560765\">Las lluvias intensas dejan hasta 200 litros en algunos puntos del Baix Penedès y el litoral de Tarragona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260822/herido-critico-caida-muro-roda-133561555\" >Un herido crítico tras la caída de un muro en Roda de Berà</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: Irán dice que considerará como enemigo a países que se unan a la guerra económica de EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260824/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-08-24 06:39:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dos muertos y cinco heridos al caer una estatua de casi siete metros en Bombay",
+    "link": "https://www.elperiodico.com/es/internacional/20260824/muertos-heridos-estatua-cae-bombay-india-fiesta-religiosa-133600553",
+    "pubDate": "2026-08-24 06:31:06",
+    "category": "",
+    "description": "<h2>Según han informado las autoridades locales, algunas tuercas y tornillos de su estructura estaban sueltos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Imperios romanos (1): Películas de gladiadores, pulsiones totalitarias y la pregunta del millón de Monty Python",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260824/imperios-romanos-1-peliculas-gladiadores-133480028",
+    "pubDate": "2026-08-24 06:30:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Iniciamos con el Imperio Romano mismo, el que originó el debate y la discusión, el repaso selectivo a cinco hitos clave de la historia y la cultura en los que hombres y mujeres no pueden dejar de pensar </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шість країн об'єдналися проти президента ФІФА",
+    "link": "https://ua.korrespondent.net/sport/football/4905566-shist-krain-obiednalysia-proty-prezydenta-fifa",
+    "pubDate": "2026-08-24 06:30:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538353.jpg\">Спільний демарш очолили північноєвропейські футбольні асоціації, виступивши проти нинішнього курсу розвитку організації.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "РФ вдарила по Конотопу, більша частина міста без газу",
     "link": "https://ua.korrespondent.net/ukraine/4905564-rf-vdaryla-po-konotopu-bilsha-chastyna-mista-bez-hazu",
     "pubDate": "2026-08-24 06:23:00",
@@ -15,6 +114,15 @@
     "category": "",
     "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260802/ceuta-muertos-crisis-migratoria-133033736\" target=\"_blank\">El Gobierno sitúan la cifra oficial de muertos a 72, aunque otras fuentes lo elevan a más de 100</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260802/menores-crisis-ceuta-han-llegado-133026689\">Los menores, en la crisis de Ceuta: \"Han llegado miles y nadie sabe cuántos”</a></h2>",
     "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Трагедія на ралі в Іспанії: під час змагань загинув пілот",
+    "link": "https://ua.korrespondent.net/sport/other/4905511-trahediia-na-rali-v-ispanii-pid-chas-zmahan-zahynuv-pilot",
+    "pubDate": "2026-08-24 06:11:00",
+    "category": "Інші",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4537983.jpeg\">Внаслідок аварії загинув 48-річний гонщик, а ще двоє людей у важкому стані були доправлені до лікарні.",
+    "topic": "спорт",
     "topic_match_probability": 90
   },
   {
@@ -150,6 +258,15 @@
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538079.jpg\">Київ та Осло посилюють стратегічну співпрацю в оборонній сфері; Українські дрони атакували російську військову інфраструктуру одразу в кількох регіонах. Кореспондент.net виділяє головні події вчорашнього дня.",
     "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Фанати Атлетіко влаштували нападнику жорсткий прийом",
+    "link": "https://ua.korrespondent.net/sport/football/4905561-fanaty-atletiko-vlashtuvaly-napadnyku-zhorstkyi-pryiom",
+    "pubDate": "2026-08-24 05:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538339.jpg\">Уболівальники мадридського клубу зустріли аргентинця гучним свистом із трибун, демонструючи своє невдоволення.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
