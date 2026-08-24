@@ -1,5 +1,248 @@
 [
   {
+    "title": "El Gobierno convoca este martes un Consejo de Seguridad Nacional de carácter extraordinario para analizar la crisis en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260824/gobierno-convoca-consejo-seguridad-ceuta-133614344",
+    "pubDate": "2026-08-24 14:43:13",
+    "category": "",
+    "description": "<h2 class=\"item\">Tras ello se celebrará el primer Consejo de Ministros tras el parón estival con la perspectiva de poner sobre la mesa un plan de apoyo y relanzamiento económico para la ciudada autónoma</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260824/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "David Sánchez pide eliminar de su sentencia cómo se creó su plaza en la Diputación pacense",
+    "link": "https://www.elperiodico.com/es/politica/20260824/david-sanchez-pide-eliminar-sentencia-133614152",
+    "pubDate": "2026-08-24 14:38:18",
+    "category": "",
+    "description": "<h2>La defensa del hermano del presidente del Gobierno solicita la eliminación de un párrafo de la sentencia que le acusa de conocer la creación del puesto para él</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ustec da por \"casi inevitable\" la huelga educativa del primer día de clase ante la falta de negociación con el Govern",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/ustec-da-inevitable-huelga-educativa-133603994",
+    "pubDate": "2026-08-24 14:37:15",
+    "category": "",
+    "description": "<h2 class=\"item\">La portavoz del sindicato mayoritario en la escuela pública, Iolanda Segura, apunta que lo que sí podría evitarse es \"lo que pueda venir después\", si el Departament se sienta a negociar</h2><h2 class=\"item\">En dos semanas empieza el curso 26-27, con 1.348 centros educativos públicos adheridos a la campaña para no hacer salidas y colonias, sin que este tema esté en ninguna mesa de diálogo </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250722/familias-expertos-acortar-vacaciones-verano-horarios-calendario-escolar-espana-119785912\">Familias y expertos piden acortar la vacaciones de verano y \"racionalizar\" los horarios escolares en España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Чернігову: постраждали 20 людей",
+    "link": "https://ua.korrespondent.net/ukraine/4905704-udar-po-chernihovu-postrazhdaly-20-luidei",
+    "pubDate": "2026-08-24 14:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538731.jpg\">Рятувальники загасили пожежу, яка виникла внаслідок удару російським дроном по багатоповерхівці. Будівля суттєво пошкоджена.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cinco libros de temática 'boys' love' que no pueden faltar en tu estantería",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260824/cinco-libros-tematica-boys-love-132069780",
+    "pubDate": "2026-08-24 14:32:28",
+    "category": "",
+    "description": "<h2><a>El fenómeno 'boys' love' convierte los romances entre hombres en un éxito editorial</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Труїли гризунів, а загинула жінка: на Тернопільщині сталося масове отруєння",
+    "link": "https://ua.korrespondent.net/ukraine/4905702-truily-hryzuniv-a-zahynula-zhinka-na-ternopilschyni-stalosia-masove-otruiennia",
+    "pubDate": "2026-08-24 14:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538718.jpg\">До лікарні госпіталізували шістьох членів однієї родини віком від 30 до 80 років. Одна з постраждалих - 32-річна жінка - померла.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fenómeno 'boys' love' convierte los romances entre hombres en un éxito editorial",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260824/fenomeno-boys-love-convierte-romances-entre-hombres-exito-editorial-132028379",
+    "pubDate": "2026-08-24 14:31:56",
+    "category": "",
+    "description": "<h2>Las lectoras, factor clave en su popularidad, buscan en estas historias un amor no tóxico, igualitario y sin machismo</h2><h2>Cinco libros de temática 'boys love' que no pueden faltar en tu estantería</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La familia pide ayuda a Interior en la búsqueda del empresario español desaparecido en el mar en Italia: \"Que no dejen de buscar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/familia-pide-ayuda-interior-busqueda-133613770",
+    "pubDate": "2026-08-24 14:31:14",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260824/buscan-empresario-espanol-cayo-barco-133613702\" >Buscan a un empresario español que cayó de su barco en aguas de Italia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya destinará 7 millones de euros en ayudas para financiar productos para la autonomía de las personas con discapacidad",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/catalunya-destinara-7-millones-euros-ayudas-autonomia-personas-discapacidad-133611104",
+    "pubDate": "2026-08-24 14:30:38",
+    "category": "",
+    "description": "<h2 class=\"item\">El plazo para solicitar esta nueva prestación, recuperada por el Departament de Drets Socials tres años después, se abre este martes y cerrará el 2 de agosto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260723/entrevista-raul-moreno-conseller-drets-socials-politicas-sociales-extrema-derecha-132691843\">Raúl Moreno, conseller de Drets Socials: \"Fortalecer las políticas sociales es la vía fundamental para combatir a la extrema derecha\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260601/ventanilla-unica-ayudas-sociales-generalitat-cataluna-130873452\">Catalunya da el primer paso para concentrar en una ventanilla única las 50 ayudas sociales de siete conselleries</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Атаки дронів обвалили акції Ozon до мінімуму за три роки",
+    "link": "https://ua.korrespondent.net/business/companies/4905700-ataky-droniv-obvalyly-aktsii-Ozon-do-minimumu-za-try-roky",
+    "pubDate": "2026-08-24 14:25:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538716.jpg\">Акції російського маркетплейсу Ozon різко впали після серії ударів БПЛА по його складах. За лічені хвилини компанія втратила 185 млрд рублів капіталізації.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Buscan a un empresario español que cayó de su barco en aguas de Italia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/buscan-empresario-espanol-cayo-barco-133613702",
+    "pubDate": "2026-08-24 14:24:43",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20260824/familia-pide-ayuda-interior-busqueda-133613770\" >La familia pide ayuda a Interior en la búsqueda del empresario español desaparecido en el mar en Italia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bellvitge realiza ocho cirugías cardíacas de urgencia en una semana: cuatro trasplantes y cuatro implantes de corazones artificiales",
+    "link": "https://www.elperiodico.com/es/sanidad/20260824/bellvitge-realiza-ocho-cirugias-cardiacas-una-semana-133613376",
+    "pubDate": "2026-08-24 14:21:31",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20250605/documental-trasplante-corazon-elperiodico-hospital-clinic-118247397\" target=\"_blank\">DOCUMENTAL | Un corazón contra reloj. Cuando Montse revivió con los latidos de un donante</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260521/medio-siglo-primer-trasplante-medula-osea-espana-hermana-gemela-sant-pau-130461450\" target=\"_blank\">Medio siglo del primer trasplante de médula ósea en España: \"Mi gemela tuvo leucemia y yo fui su donante: no sentí miedo, solo quería salvarla\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El alcalde de El Vendrell pide \"una reflexión de país\" para mejorar la protección ante inundaciones: \"Hay que tomar decisiones valientes\"",
+    "link": "https://www.elperiodico.com/es/tarragona/20260824/alcalde-vendrell-pide-reflexion-pais-infraestructuras-inundaciones-133612511",
+    "pubDate": "2026-08-24 14:20:07",
+    "category": "",
+    "description": "<h2>El consistorio de El Vendrell gestionó 108 llamadas de emergencia y realizó 60 servicios en nueve horas a causa de las intensas lluvias, 5 de ellas \"de riesgo inminente\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La muerte de Panettiere solivianta a sus compañeras: \"No es una coincidencia que tantas antiguas estrellas infantiles tengan finales prematuros\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260824/muerte-panettiere-solivianta-companeras-coincidencia-133604976",
+    "pubDate": "2026-08-24 14:18:30",
+    "category": "",
+    "description": "<h2>Anna Paquin, Christy Carlson Romano y Melissa Gilbert denuncian la inacción de la industria frente al fallecimiento de antiguas estrellas infantiles y la madre de Panettiere acusa a la expareja de la actriz de estar implicado en su muerte</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Modernismo gratis, jardines y chiringuito: este es el rincón ideal para presumir de Terrassa en Instagram",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260824/rincon-ideal-presumir-terrassa-instagram-106721019",
+    "pubDate": "2026-08-24 14:16:00",
+    "category": "",
+    "description": "<h2>Desde una masía inspirada en Gaudí hasta una fuente coronada por una foquita. El sitio perfecto para llenar el carrete del móvil</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260824/mundo-today-bacelona-cierra-club-cannabico-ningun-cliente-recuerda-donde-esta-133608916\" target=\"_blank\">Cierra un club cannábico de Barcelona porque ningún cliente recuerda dónde está</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Подкопаєва з’явилася в Києві та звернулася до українців",
+    "link": "https://ua.korrespondent.net/lifestyle/4905663-podkopaieva-ziavylasia-v-kyievi-ta-zvernulasia-do-ukraintsiv",
+    "pubDate": "2026-08-24 14:15:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538605.jpg\">Легендарна гімнастка Лілія Подкопаєва, яка щойно відзначила 48-й день народження, відвідала українську столицю.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El mejor restaurante de Terrassa según TripAdvisor desata pasiones: \"Una explosión de sabores\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260824/mejor-restaurante-terrassa-tripadvisor-dv-loc-107493200",
+    "pubDate": "2026-08-24 14:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240913/restaurantes-terrassa-guia-michelin-dv-loc-107059229\" >Los 4 restaurantes de Terrassa que aparecen en la Guía Michelin</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20240705/restaurantes-barcelona-provincia-comer-barato-104813831\" >Dónde comer en Barcelona y provincia a muy buen precio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240829/tarragona-mejores-restaurantes-mejor-valorados-tripadvisor-dv-loc-107445392\" >Estos son los 5 mejores restaurantes de Tarragona según TripAdvisor</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así se puede vivir el ciclón subtropical que apunta a Barcelona, según el Centro Nacional de Huracanes",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/vivir-ciclon-subtropical-apunta-barcelona-video/133611754.shtml",
+    "pubDate": "2026-08-24 14:12:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La vuelta al cole cuesta 500 euros solo de entrada: \"Salía más barato el iPad, pero prefiero pagar libros\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260824/vuelta-al-cole-gasto-familias-libros-material-escolar-espana-133606242",
+    "pubDate": "2026-08-24 14:09:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La OCU cifra el desembolso medio anual en 2.390 euros por alumno entre libros, material escolar e informático y comedor </h2><h2 class=\"item\">Lee en EL PERIÓDICO todas las <a href=\"https://www.elperiodico.com/es/temas/vuelta-cole-10850\" target=\"_blank\">informaciones relacionadas con el inicio de las clases</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по Павлограду: є загиблий та поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4905696-rosiiany-vdaryly-po-pavlohradu-ye-zahyblyi-ta-poraneni",
+    "pubDate": "2026-08-24 14:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538708.jpg\">Внаслідок російської атаки зайнялися кілька автівок та були пошкоджені вікна у багатоповерхівці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Фанат МЮ продовжує челендж, що триває вже 687 днів",
+    "link": "https://ua.korrespondent.net/sport/football/4905596-fanat-mui-prodovzhuie-chelendzh-scho-tryvaie-vzhe-687-dniv",
+    "pubDate": "2026-08-24 14:02:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538503.jpg\">Через нестабільні результати \"червоних дияволів\" обіцянка затягнулася майже на два роки, а зачіска вболівальника продовжує рости.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El cardiólogo Aurelio Rojas revela el tipo de aceite de oliva más beneficioso para el corazón y el cerebro",
+    "link": "https://www.elperiodico.com/es/salud/20260824/aurelio-rojas-cardiologo-consumir-aceite-de-oliva-virgen-extra-dv-et-133152822",
+    "pubDate": "2026-08-24 14:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El especialista recomienda consumir aceite de oliva virgen extra y destaca sus beneficios </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260510/aurelio-rojas-cardiologo-dieta-mediterranea-longevidad-dv-129839772\">Aurelio Rojas, cardiólogo: \"La dieta mediterránea es una de las que más beneficios aporta a la salud para la longevidad\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El PP denuncia que el Gobierno ha gestionado \"en chanclas y bañador\" la crisis en Ceuta e insiste en el confinamiento ante el \"riesgo sanitario\"",
+    "link": "https://www.elperiodico.com/es/politica/20260824/pp-denuncia-gobierno-gestionado-chanclas-133612929",
+    "pubDate": "2026-08-24 13:59:07",
+    "category": "",
+    "description": "<h2>\"El riesgo sanitario existe, es real\", insiste el portavoz del PP y reta a la ministra de Sanidad a tomar medidas ante las \"enfermedades transmisibles\". El PP trabaja en una \"batería de preguntas sanitarias\" por si existe \"riesgo de transmisión comunitaria\" e insiste en el confinamiento: \"la obligación de cualquier gobierno responsable es actuar\"</h2><h2>\"Lo urgente, llegados a este punto, es el retorno y la repatriación de mayores y menores marroquíes que han entrado en España\", sostuvo Sémper</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260824/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Crisis en Ceuta, en directo: Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пол Веслі привітав українців зі святом та побажав миру Україні",
+    "link": "https://ua.korrespondent.net/lifestyle/4905656-pol-vesli-pryvitav-ukraintsiv-zi-sviatom-ta-pobazhav-myru-ukraini",
+    "pubDate": "2026-08-24 13:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538593.jpg\">Зірка серіалу Щоденники вампіра Пол Веслі звернувся до українців і привітав із Днем Незалежності, висловивши свою підтримку та захоплення стійкістю нашої нації.",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Україна повернула з полону 10 військових",
+    "link": "https://ua.korrespondent.net/ukraine/4905692-ukraina-povernula-z-polonu-10-viiskovykh",
+    "pubDate": "2026-08-24 13:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538701.jpg\">Особливістю цього обміну є те, що всі врятовані військовослужбовці обліковувались як безвісти зниклі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Vuelta toma medidas y no permitirá a Erola Jons tener acceso a los ciclistas",
+    "link": "https://www.elperiodico.com/es/deportes/20260824/vuelta-toma-medidas-permitira-erola-133612430",
+    "pubDate": "2026-08-24 13:55:33",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/gente/20260824/erola-jons-la-vuelta-polemica-influencer-pogacar-dv-133606299\">¿Quién es Erola Jons, la 'influencer' que ha desatado la polémica en La Vuelta con su comentario sobre Pogacar?</a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260824/carlos-andres-estalla-tve-polemica-erola-jones-vuelta-nadie-deberia-ser-tratado-objeto-mujeres-hombres-133603829\">Carlos de Andrés estalla en TVE contra la polémica de Erola Jons en La Vuelta: “Nadie debería ser tratado como un objeto, ni mujeres ni hombres”</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Кремль прибрав пропагандиста Кисельова з програми на телеканалі Росія",
+    "link": "https://ua.korrespondent.net/world/russia/4905691-kreml-prybrav-propahandysta-kyselova-z-prohramy-na-telekanali-rosiia",
+    "pubDate": "2026-08-24 13:55:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538690.jpg\">Кремль незадоволений пропагандистом, і до нього накопичилося багато претензій. Одна з них - падіння інтересу аудиторії до Вестей тижня.",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Los robots humanoides aprenden a jugar al fútbol solo con la visión",
     "link": "https://www.elperiodico.com/es/tendencias21/20260824/robots-humanoides-aprenden-jugar-futbol-133612608",
     "pubDate": "2026-08-24 13:49:58",
@@ -27,6 +270,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Мальдера привітав українців з Днем Незалежності",
+    "link": "https://ua.korrespondent.net/sport/football/4905687-maldera-pryvitav-ukraintsiv-z-dnem-nezalezhnosti",
+    "pubDate": "2026-08-24 13:48:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538689.jpg\">Італійський головний тренер національної збірної України з футболу Андреа Мальдера звернувся до українців з офіційним привітанням.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Британія першою отримала нову відзнаку від Зеленського",
     "link": "https://ua.korrespondent.net/ukraine/4905688-brytaniia-pershoui-otrymala-novu-vidznaku-vid-zelenskoho",
     "pubDate": "2026-08-24 13:45:00",
@@ -52,6 +304,15 @@
     "description": "<h2>La radiotelevisión pública de Países Bajos critica la falta de reglas claras de la UER para países en conflicto</h2>",
     "topic": "телебачення",
     "topic_match_probability": 95
+  },
+  {
+    "title": "На полігоні Дніпрі закопували тисячі тонн небезпечних відходів",
+    "link": "https://ua.korrespondent.net/city/dnepr/4905684-na-polihoni-dnipri-zakopuvaly-tysiachi-tonn-nebezpechnykh-vidkhodiv",
+    "pubDate": "2026-08-24 13:36:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538666.jpeg\">У Дніпрі підприємство могло незаконно закопувати небезпечні промислові відходи просто на території полігону. Паралельно там без дозволів видобували та продавали суглинок.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Fondos e inversores vuelven a pujar por los edificios de oficinas de Madrid y Barcelona y disparan su inversión un 56% hasta junio",
@@ -90,6 +351,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "М’яч з історичного матчу Марадони пішов з молотка",
+    "link": "https://ua.korrespondent.net/sport/football/4905571-miach-z-istorychnoho-matchu-maradony-pishov-z-molotka",
+    "pubDate": "2026-08-24 13:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538379.jpeg\">Історичний артефакт, що протягом десятиліть належав туніському арбітру Алі Бен Нассеру, викликав чималий ажіотаж серед колекціонерів з усього світу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El 'cortafuegos' alemán contra la ultraderecha se enfrenta a su gran reválida",
     "link": "https://www.elperiodico.com/es/internacional/20260824/cortafuegos-aleman-ultraderecha-enfrenta-gran-revalida-elecciones-este-133607237",
     "pubDate": "2026-08-24 13:30:29",
@@ -115,6 +385,15 @@
     "description": "<h2>El centrocampista fue sustituido en el minuto 44 del Elche-Barça, justo antes del descanso, por Pedri tras un golpe en la rodilla</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Пашинян заявив, що буде радий виключенню Вірменії з ОДКБ",
+    "link": "https://ua.korrespondent.net/world/4905683-pashynian-zaiavyv-scho-bude-radyi-vykluichennui-virmenii-z-odkb",
+    "pubDate": "2026-08-24 13:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538680.jpg\">Водночас Нікол Пашинян анонсував підготовку подачі заявки Вірменії на вступ до Євросоюзу. Це може статися \"найближчим часом\".",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Tener hijos con menos de 30 años aumenta la probabilidad de pobreza",
@@ -241,6 +520,24 @@
     "description": "<h2>Las tres ciudades barcelonesas encabezan el ranking de idealista del segundo trimestre de 2026</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260818/barrios-mas-caros-espana-alquilar-habitacion-133451452\" >Barcelona tiene los dos barrios más caros de España para alquilar una habitación, según un estudio</a></h2><h2><a href=\"https://www.elperiodico.com/es/vivienda/20260616/crisis-vivienda-sale-madrid-barcelona-precios-disparan-ciudades-dormitorio-dv-131438632\" >La crisis de la vivienda sale de Madrid y Barcelona: los precios ya se disparan en las ciudades dormitorio</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Софія Ротару у вишиванці показала нове фото із сином",
+    "link": "https://ua.korrespondent.net/lifestyle/4905632-sofiia-rotaru-u-vyshyvantsi-pokazala-nove-foto-iz-synom",
+    "pubDate": "2026-08-24 13:05:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538562.jpg\">Артистка вийшла на зв'язок у соціальних мережах, поділившись теплими словами та емоційними кадрами.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Клуб АПЛ готує покращену пропозицію щодо Мудрика",
+    "link": "https://ua.korrespondent.net/sport/football/4905669-klub-apl-hotuie-pokraschenu-propozytsiui-schodo-mudryka",
+    "pubDate": "2026-08-24 13:04:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538649.jpg\">За інформацією джерел, \"павичі\" прагнуть досягти угоди про трансфер або оренду 25-річного футболіста вже найближчим часом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Carlos de Andrés estalla en TVE contra la polémica de Erola Jons en La Vuelta: “Nadie debería ser tratado como un objeto, ni mujeres ni hombres”",
