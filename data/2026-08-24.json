@@ -1,5 +1,14 @@
 [
   {
+    "title": "Прем'єр Канади назвав умову тривалого миру в Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4905827-premier-kanady-nazvav-umovu-tryvaloho-myru-v-ukraini",
+    "pubDate": "2026-08-24 22:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539079.jpg\">Справедливий та тривалий мир для України може настати тільки через силу, заявив Марк Карні з нагоди Дня незалежності України.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El incendio de Almería se complica: declarado el nivel 1 de emergencia y se activa una veintena de desalojos y confinamientos",
     "link": "https://www.elperiodico.com/es/sociedad/20260824/incendio-almeria-complica-declarado-nivel-133626347",
     "pubDate": "2026-08-24 22:37:11",
@@ -16,6 +25,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539068.jpeg\">Пожежа охопила значну територію, а її фронт простягається на кілька кілометрів, зазначають представники ДСНС.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "У Ньюкасла виникла потреба в кращому бомбардирі Лілля",
+    "link": "https://ua.korrespondent.net/sport/football/4905821-u-nuikasla-vynykla-potreba-v-kraschomu-bombardyri-lillia",
+    "pubDate": "2026-08-24 22:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539048.jpg\">Англійський клуб має намір підписати 21-річного нападника Лілля, який у Лізі 1 став кращим поміж гравців, які забивали голи протягом сезону.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Storm Shadow для України. Лондон ділиться схемами",
+    "link": "https://ua.korrespondent.net/ukraine/4905823-Storm-Shadow-dlia-ukrainy-london-dilytsia-skhemamy",
+    "pubDate": "2026-08-24 22:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539069.jpg\">Прем’єр-міністр Великої Британії Енді Бернем, який перебуває із візитом у Києві, заявив, що Лондон схвалив рішення поділитися технологією виробництва Storm Shadow з Україною.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Imágenes de la lluvia en el cámping Las Palmeres esta tarde en Tarragona",
