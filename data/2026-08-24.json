@@ -1,5 +1,50 @@
 [
   {
+    "title": "Interior y Defensa mantienen antes de ir al Congreso el pulso en torno a si hubo alerta previa sobre Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/interior-defensa-mantienen-congreso-pulso/133625875.shtml",
+    "pubDate": "2026-08-24 21:52:30",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Lexus RX 2027 actualiza su oferta con dos sistemas híbridos y cinco acabados",
+    "link": "https://www.elperiodico.com/es/motor/20260824/lexus-rx-2027-actualiza-oferta-gama-espana-precio-133611962",
+    "pubDate": "2026-08-24 21:33:50",
+    "category": "",
+    "description": "<h2>En España la gama mantiene el RX 450h+ híbrido enchufable de 292 CV y el RX 500h híbrido turbo de 371 CV, con precios entre 83.900 y 111.300 euros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Херсоні через удар РФ знищені гуманітарні запаси на майже 28 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4905815-u-khersoni-cherez-udar-rf-znyscheni-humanitarni-zapasy-na-maizhe-28-mln",
+    "pubDate": "2026-08-24 21:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539020.jpg\">Серед співробітників і волонтерів  Українського  Червоного  Хреста  постраждалих  немає.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La calle Valladolid gana de nuevo el concurso al mejor decorado de las Fiestas de Sants recreando la Ruta de la Seda",
+    "link": "https://www.elperiodico.com/es/fotos/barcelona/calle-valladolid-gana-nuevo-concurso-133625424",
+    "pubDate": "2026-08-24 21:13:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна та Британія підписали історичну угоду",
+    "link": "https://ua.korrespondent.net/ukraine/4905809-ukraina-ta-brytaniia-pidpysaly-istorychnu-uhodu",
+    "pubDate": "2026-08-24 21:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539009.jpg\">Україна та Британія домовилися спільно розвивати військові технології на основі штучного інтелекту.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El horóscopo de mañana, martes 25 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260824/horoscopo-hoy-martes-25-agosto-dv-133480351",
     "pubDate": "2026-08-24 21:00:17",
@@ -16,6 +61,15 @@
     "description": "<h2><a href=\"https://rc-pro.prensaiberica.es/politica/2026/08/24/interior-defensa-mantienen-congreso-pulso-relato-alerta-crisis-ceuta-133620727.html\" target=\"_blank\"><a href=\"https://www.elperiodico.com/es/politica/20260824/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" >Interior y Defensa mantienen antes de ir al Congreso el pulso en torno a si hubo alerta previa sobre Ceuta</a></a></h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Удар РФ по ТЦ у Кривому: трьох людей вважають зниклими безвісти",
+    "link": "https://ua.korrespondent.net/ukraine/4905804-udar-rf-po-tts-u-kryvomu-trokh-luidei-vvazhauit-znyklymy-bezvisty",
+    "pubDate": "2026-08-24 20:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4538974.jpg\">Внаслідок російської атаки 21 серпня загинули 16 людей, ще 136 отримали поранення, з них 26 дітей.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Pogacar cancela la tercera etapa de la Vuelta",

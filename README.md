@@ -1,8 +1,10 @@
-# News for 2026-08-24 21:26
+# News for 2026-08-24 21:57
 
 Previous day: [2026-08-23](./data/2026-08-23.md)
 
 ## ua.korrespondent.net
+21:33 [У Херсоні через удар РФ знищені гуманітарні запаси на майже 28 млн](https://ua.korrespondent.net/ukraine/4905815-u-khersoni-cherez-udar-rf-znyscheni-humanitarni-zapasy-na-maizhe-28-mln)<br>
+20:48 [Удар РФ по ТЦ у Кривому: трьох людей вважають зниклими безвісти](https://ua.korrespondent.net/ukraine/4905804-udar-rf-po-tts-u-kryvomu-trokh-luidei-vvazhauit-znyklymy-bezvisty)<br>
 19:59 [Росія почала купувати бензин у Туреччини після Індії та Марокко](https://ua.korrespondent.net/world/russia/4905794-rosiia-pochala-kupuvaty-benzyn-u-turechchyny-pislia-indii-ta-marokko)<br>
 19:48 [Вчені знайшли у пустелі Єгипту доісторичне кладовище акул](https://ua.korrespondent.net/tech/science/4905792-vcheni-znaishly-u-pusteli-yehyptu-doistorychne-kladovysche-akul)<br>
 19:30 [Зняли на відео: чоловіка засудили за сексуальне насильство щодо хлопчиків](https://ua.korrespondent.net/ukraine/4905786-znialy-na-video-cholovika-zasudyly-za-seksualne-nasylstvo-schodo-khlopchykiv)<br>
@@ -56,6 +58,7 @@ Previous day: [2026-08-23](./data/2026-08-23.md)
 06:47 [Los secretos de la imparable Sub-16: magia, chispa y hambre](https://as.com/baloncesto/mas_baloncesto/los-secretos-de-la-imparable-sub-16-magia-chispa-y-hambre-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:13 [La calle Valladolid gana de nuevo el concurso al mejor decorado de las Fiestas de Sants recreando la Ruta de la Seda](https://www.elperiodico.com/es/fotos/barcelona/calle-valladolid-gana-nuevo-concurso-133625424)<br>
 20:37 [Un tornado sorprende al sur de Francia y arranca tejados en un pueblo cercano a Carcassone](https://www.elperiodico.com/es/sociedad/20260824/tornado-sur-francia-pomas-carcassone-aude-133624764)<br>
 20:25 [Sean y Lainey, estadounidenses afincados en Galicia desde 2023: "Estamos usando nuestro privilegio de haber podido ahorrar por tener sueldos de fuera"](https://www.elperiodico.com/es/sociedad/20260824/sean-lainey-estadounidenses-viviendo-galicia-dv-et-133512173)<br>
 20:14 [Francia y Arabia Saudí anuncian un proyecto de ocio de 6.000 millones de euros en París](https://www.elperiodico.com/es/internacional/20260824/francia-arabia-saudi-anuncian-proyecto-ocio-paris-133624347)<br>
