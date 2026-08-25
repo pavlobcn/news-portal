@@ -1,8 +1,9 @@
-# News for 2026-08-25 13:00
+# News for 2026-08-25 13:38
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+13:30 [Через 35 років зірки Термінатора 2 знову разом](https://ua.korrespondent.net/showbiz/cinema/4905956-cherez-35-rokiv-zirky-terminatora-2-znovu-razom)<br>
 12:32 [У Росії пожежа на великому газохімічному комплексі](https://ua.korrespondent.net/world/russia/4905954-u-rosii-pozhezha-na-velykomu-hazokhimichnomu-kompleksi)<br>
 12:28 [Біткойн різко подорожчав: криптовалюта оновила максимум за 3 місяці](https://ua.korrespondent.net/business/financial/4905952-bitkoin-rizko-podorozhchav-kryptovaluita-onovyla-maksymum-za-3-misiatsi)<br>
 11:56 [Готівкові курси долара і євро знижуються](https://ua.korrespondent.net/business/financial/4905940-hotivkovi-kursy-dolara-i-yevro-znyzhuuitsia)<br>
@@ -24,6 +25,12 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:35 [Renfe busca trabajadores con Bachillerato: publica 175 nuevas plazas para este puesto](https://www.elperiodico.com/es/economia/20260825/renfe-convocatoria-bachillerato-175-plazas-operadores-dv-133635511)<br>
+13:32 ["¡Qué barbaridad!": Las reacciones y los vídeos virales del temporal de viento y granizo que ha inundado el Camp de Tarragona](https://www.elperiodico.com/es/tarragona/20260825/barbaridad-reacciones-imagenes-videos-virales-temporal-tarragona-133637968)<br>
+13:10 [El precio del euríbor hoy, 25 de agosto: el índice vuelve a sonreír a los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20260825/precio-euribor-hoy-25-agosto-dv-133638656)<br>
+13:06 [Un joven muere y otro resulta herido al derrumbarse un muro en un colegio de Perú](https://www.elperiodico.com/es/videos/internacional/joven-muere-resulta-herido-derrumbarse/133638785.shtml)<br>
+13:01 [Urgencias ambulatorias en Barcelona: estos son los CUAP con menos tiempo de espera](https://www.elperiodico.com/es/sanidad/20260825/urgencias-ambulatorias-cuaps-barcelona-tiempo-espera-atencion-barcelona-graficos-133620047)<br>
+13:00 [Los príncipes de Noruega celebran sus bodas de plata mientras crece la preocupación por el rey](https://www.elperiodico.com/es/videos/gente/principes-noruega-celebran-bodas-plata-video/133638406.shtml)<br>
 12:55 [Hallado un segundo dron y explosivos cerca del aeropuerto de Leipzig, ligados al intento de atentado](https://www.elperiodico.com/es/internacional/20260825/hallado-dron-cerca-aeropuerto-alemania-leipzig-sajonia-merz-alerta-rusia-ucrania-133635801)<br>
 12:52 [La promoción más exclusiva de Glòries en Barcelona ya ha vendido más de la mitad de sus 94 pisos quedan desde 900.000 euros](https://www.elperiodico.com/es/videos/barcelona/promocion-exclusiva-glories-barcelona-vendido-video/133638142.shtml)<br>
 12:41 [El biólogo Josep Canadell recibe el Premio Ramon Margalef por sus investigaciones sobre el cambio climático](https://www.elperiodico.com/es/politica/20260825/biologo-josep-canadell-premio-ramon-margalef-cambio-climatico-133631750)<br>
