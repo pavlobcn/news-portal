@@ -1,5 +1,50 @@
 [
   {
+    "title": "Азербайджанський Сабах уперше у своїй історії зіграє в Лізі чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/football/4906114-azerbaidzhanskyi-sabakh-upershe-u-svoii-istorii-zihraie-v-lizi-chempioniv",
+    "pubDate": "2026-08-25 22:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539821.jpg\">Це стало можливим після розгромної перемоги над Хапоелем у домашньому матчі кваліфікації турніру.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Тернополі група людей напала на військових ТЦК",
+    "link": "https://ua.korrespondent.net/ukraine/4906113-u-ternopoli-hrupa-luidei-napala-na-viiskovykh-ttsk",
+    "pubDate": "2026-08-25 22:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539830.png\">Поліцейські встановлюють тепер усі обставини події, фігурантів, які брали участь у конфлікті та завдані збитки.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "У Тернополі група людей побилася з військовими ТЦК",
+    "link": "https://ua.korrespondent.net/ukraine/4906113-u-ternopoli-hrupa-luidei-pobylasia-z-viiskovymy-ttsk",
+    "pubDate": "2026-08-25 22:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539830.png\">Поліцейські встановлюють тепер усі обставини події, фігурантів, які брали участь у конфлікті та завдані збитки.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El director de la CIA viaja por sorpresa a Moscú",
+    "link": "https://www.elperiodico.com/es/internacional/20260825/director-cia-visita-sorpresa-moscu-133655533",
+    "pubDate": "2026-08-25 22:05:51",
+    "category": "",
+    "description": "<h2>El viaje, del que no han trascendido detalles, podría estar relacionado con una advertencia de Washington a Putin para frenar una escalada o con un intercambio de prisioneros, según especula la prensa   </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Візит директора ЦРУ до Росії: ЗМІ назвали причину",
+    "link": "https://ua.korrespondent.net/world/4906111-vizyt-dyrektora-tsru-do-rosii-zmi-nazvaly-prychynu",
+    "pubDate": "2026-08-25 21:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539814.jpg\">США отримали розвіддані, які свідчать про підготовку Росії до мобілізації та можливого конфлікту з НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El Gobierno contempla usar polideportivos para albergar a los migrantes llegados a Ceuta",
     "link": "https://www.elperiodico.com/es/politica/20260825/gobierno-contempla-polideportivos-albergar-migrantes-133655369",
     "pubDate": "2026-08-25 21:47:31",
@@ -25,6 +70,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539807.png\">Представник Ватикану Пол Галлахер вперше за п'ять років зустрівся з главою МЗС РФ Сергієм Лавровим.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Збірна України з волейболу програла третій матч, однак не без шансів",
+    "link": "https://ua.korrespondent.net/sport/4906108-zbirna-ukrainy-z-voleibolu-prohrala-tretii-match-odnak-ne-bez-shansiv",
+    "pubDate": "2026-08-25 21:32:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539800.jpg\">Третя поразка українських волейболісток на чемпіонаті Європи не позбавляє їх шансу вийти до плейофу.",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "Así debes circular en una rotonda, según la Policía",
