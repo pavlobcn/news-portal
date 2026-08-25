@@ -1,11 +1,20 @@
-# News for 2026-08-25 07:45
+# News for 2026-08-25 08:21
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
+
+## ua.korrespondent.net
+08:14 [РФ вдосвіта вдарила по Запоріжжю: двоє загиблих, є руйнування](https://ua.korrespondent.net/city/zaporozhye/4905875-rf-vdosvita-vdaryla-po-zaporizhzhui-dvoie-zahyblykh-ye-ruinuvannia)<br>
+08:09 [Армія РФ посилила штурми на Донеччині - Генштаб](https://ua.korrespondent.net/ukraine/4905871-armiia-rf-posylyla-shturmy-na-donechchyni-henshtab)<br>
+07:47 [Рятувальники Києва показали наслідки нічної атаки](https://ua.korrespondent.net/city/kiev/4905869-riatuvalnyky-kyieva-pokazaly-naslidky-nichnoi-ataky)<br>
 
 ## as.com
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+08:11 [Gabriel dejó la medicina por amor a los animales: "Para mí la felicidad es servir a estos animalitos, tratarles con respeto y con cariño. Quiero que puedan seguir viviendo como siempre han vivido"](https://www.elperiodico.com/es/economia/20260825/medicina-dejo-amor-animales-naturaleza-vida-campo-gabriel-dv-et-133520243)<br>
+08:05 [Ulrich (68 años) vive en condiciones extremas sin luz, gas ni agua corriente: "Las necesidades son artificiales; esta sociedad está orientada hacia el mal, las guerras, las manipulaciones y la corrupción basada en el dinero"](https://www.elperiodico.com/es/economia/20260825/vive-solo-condiciones-extremas-sin-agua-electricidad-dolomitas-italia-ulrich-dv-et-133462256)<br>
+08:00 [Carlos Llull, técnico en climatización, avisa del error de poner el aire acondicionado a 18 grados: "No enfría más deprisa"](https://www.elperiodico.com/es/sociedad/20260825/aire-acondicionado-error-enfriar-carlos-lull-dv-et-133569629)<br>
+07:55 [El mosquito tigre avanza imparable en Europa: ya está en 16 países, el doble que hace doce años](https://www.elperiodico.com/es/medio-ambiente/20260825/mosquito-tigre-avanza-imparable-europa-133630034)<br>
 07:30 [Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: "A nosotros nos gusta el ambiente rural y tranquilo, pero en Catalunya hay muchísima gente"](https://www.elperiodico.com/es/economia/20260825/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142)<br>
 07:04 [Las lluvias dejan inundaciones y afectaciones al tráfico en Tarragona: la A-7 cortada en Vila-seca y retrasos en Rodalies](https://www.elperiodico.com/es/tiempo/20260825/retrasos-rodalies-tarragona-carretera-cortada-vilaseca-lluvias-lunes-133629295)<br>
 07:00 [La física cuántica revela la posibilidad de viajar al futuro en planetas con gravedad extrema](https://www.elperiodico.com/es/ciencia/20260825/fisica-cuantica-revela-posibilidad-viajar-133608242)<br>
@@ -18,6 +27,7 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 06:01 [Los pisos de una sola habitación se abren paso en Barcelona: una de cada tres promociones de obra nueva ya los incluyen](https://www.elperiodico.com/es/barcelona/20260825/pisos-una-habitacion-abren-paso-promociones-obra-nueva-barcelona-133363323)<br>
 06:00 [La ampliación de Can Ruti en Badalona contempla una posible "tarifa simbólica" para el aparcamiento de los empleados](https://www.elperiodico.com/es/barcelona/20260825/ampliacion-can-ruti-badalona-tarifa-simbolica-futuro-parking-trabajadores-can-ruti-133135726)<br>
 06:00 [Unas 200 habitaciones de hotel y de residencia de estudiantes reforzarán el campus de Can Ruti en Badalona](https://www.elperiodico.com/es/barcelona/20260825/200-habitaciones-hoteleras-residencia-estudiantes-reforzaran-campus-can-ruti-badalona-133135705)<br>
+06:00 [El Mediterráneo se queda sin tiburones: por qué su desaparición puede convertir el fondo marino en un desierto](https://www.elperiodico.com/es/medio-ambiente/20260825/experto-tiburones-ibiza-mediterraneo-desaparicion-133628662)<br>
 06:00 [Maria del Pino Alonso, psiquiatra: "Sabremos lo bastante sobre las enfermedades mentales cómo para prevenirlas"](https://www.elperiodico.com/es/ser-feliz/20260825/maria-pino-alonso-psiquiatra-sabremos-132841600)<br>
 05:30 [Prevención de incendios en Catalunya: así se adapta la red eléctrica para proteger los bosques en verano](https://www.elperiodico.com/es/sociedad/20260825/red-electrica-endesa-plan-alfa-incendios-catalunya-bc-133480172)<br>
 03:00 [Tiempo en Catalunya hoy martes: el calor vuelve a apretar con temperaturas máximas de hasta 36 grados en el litoral y prelitoral](https://www.elperiodico.com/es/tiempo/20260825/tiempo-cataluna-hoy-martes-25-agosto-calor-temperaturas-dv-loc-133617222)<br>
