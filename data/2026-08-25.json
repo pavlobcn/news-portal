@@ -1,5 +1,68 @@
 [
   {
+    "title": "Канада відповіла Трампу на ідею перейменувати озеро Онтаріо",
+    "link": "https://ua.korrespondent.net/world/4906099-kanada-vidpovila-trampu-na-ideui-pereimenuvaty-ozero-ontario",
+    "pubDate": "2026-08-25 20:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539791.jpg\">Поки тривають ці \"витівки\" - Канада буде \"діяти стратегічно і дасть відсіч\", заявила міністр промисловості.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Словаччині запобігли підпалу заводу з виробництва дронів",
+    "link": "https://ua.korrespondent.net/world/4906094-u-slovachchyni-zapobihly-pidpalu-zavodu-z-vyrobnytstva-droniv",
+    "pubDate": "2026-08-25 20:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539778.jpg\">Двох підозрюваних правоохоронці затримали на території Словаччини, ще одного - у Німеччині.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Muere Dolly Parton a los 80 años, la voz que llevó el country al mundo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260825/muere-dolly-parton-80-anos-leyenda-musica-country-133653475",
+    "pubDate": "2026-08-25 20:10:24",
+    "category": "",
+    "description": "<h2 class=\"item\">La familia de la cantante ha confirmado su fallecimiento apenas unos días después de que la artista asegurara que seguía trabajando mientras se recuperaba de varios problemas de salud</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20220218/dolly-parton-retrato-estrella-country-pagara-estudios-miles-empleados-13251861\">Dolly Parton: 6 cosas que no sabías de la reina del country y la filantropía</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20231005/dolly-parton-biografia-retrato-americano-beatriz-navarro-92809709\">Santa Dolly Parton de América, retrato de un icono global, de la A a Z</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Centenares de ceutíes marchan contra la gestión del Gobierno de la crisis migratoria",
+    "link": "https://www.elperiodico.com/es/sociedad/20260825/centenares-ceuties-marchan-gestion-gobierno-133653559",
+    "pubDate": "2026-08-25 20:09:29",
+    "category": "",
+    "description": "<h2>La movilización ha continuado hasta las inmediaciones del Hotel Ulises, donde los organizadores aseguraban que se encontraba el ministro de Política Territorial y coordinador del 'mando único' anunciado para Ceuta, Ángel Víctor Torres; sin embargo, este no se encontraba aún en la ciudad autónoma</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Muere una cazadora que recibió un disparo accidental en Palencia",
+    "link": "https://www.elperiodico.com/es/sucesos/20260825/muere-cazadora-recibio-disparo-accidental-133653441",
+    "pubDate": "2026-08-25 20:02:45",
+    "category": "",
+    "description": "<h2>La víctima resultó mortalmente herida tras recibir un disparo en un punto próximo al kilómetro 5 de la carretera P-114</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamborghini rescata el apellido Tricolore quince años después con el Temerario",
+    "link": "https://www.elperiodico.com/es/motor/20260825/lamborghini-temerario-rescata-apellido-tricolore-quince-anos-despues-133646072",
+    "pubDate": "2026-08-25 20:01:14",
+    "category": "",
+    "description": "<h2>La configuración presentada durante la Monterey Car Week combina una carrocería bicolor, detalles con la bandera italiana y un habitáculo específico</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP, convencido de poder acorralar a Marlaska tras la nueva contradicción con Robles",
+    "link": "https://www.elperiodico.com/es/politica/20260825/pp-convencido-acorralar-marlaska-viernes-133649753",
+    "pubDate": "2026-08-25 20:00:05",
+    "category": "",
+    "description": "<h2>El PP ironiza con un careo entre Margarita Robles y Fernando Grande-Marlaska para aclarar quién miente sobre la crisis migratoria de Ceuta</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260825/robles-acude-congreso-explicar-crisis-133630678\" target=\"_blank\">Choque entre Defensa e Interior por Ceuta: Robles asegura que el CNI alertó y Marlaska niega que hubiera \"ningún informe\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Поблизу міста Самар через вибух евакуюють людей",
     "link": "https://ua.korrespondent.net/ukraine/4906090-poblyzu-mista-samar-cherez-vybukh-evakuuiuit-luidei",
     "pubDate": "2026-08-25 19:49:00",
