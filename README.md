@@ -1,8 +1,9 @@
-# News for 2026-08-25 15:11
+# News for 2026-08-25 16:06
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+15:21 [Дрони з вибухівкою у Лейпцигу: Мерц пригрозив винним у атаках](https://ua.korrespondent.net/world/4906013-drony-z-vybukhivkoui-u-leiptsyhu-merts-pryhrozyv-vynnym-u-atakakh)<br>
 14:57 [РФ атакувала Запоріжжя: троє людей поранені](https://ua.korrespondent.net/city/zaporozhye/4906006-rf-atakuvala-zaporizhzhia-troie-luidei-poraneni)<br>
 14:54 [Удар по Краматорську: число поранених подвоїлося](https://ua.korrespondent.net/ukraine/4906005-udar-po-kramatorsku-chyslo-poranenykh-podvoilosia)<br>
 14:43 [У командира військової частини на Київщині знайшли арсенал](https://ua.korrespondent.net/ukraine/4906003-u-komandyra-viiskovoi-chastyny-na-kyivschyni-znaishly-arsenal)<br>
@@ -33,6 +34,9 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:01 [Declarado un incendio forestal en Collserola a la altura de Les Roquetes](https://www.elperiodico.com/es/barcelona/20260825/incendio-forestal-collserola-les-roquetes-barcelona-133645495)<br>
+15:40 [Los cables de fibra óptica enterrados miden terremotos: una tormenta en el cielo puede ayudarnos a ver bajo tierra](https://www.elperiodico.com/es/tendencias21/20260825/cables-fibra-optica-enterrados-miden-133645205)<br>
+15:21 [La sequía durante el embarazo aumenta el riesgo de parto prematuro y alteración fetal](https://www.elperiodico.com/es/sanidad/20260825/sequia-durante-embarazo-aumenta-riesgo-parto-prematuro-alteraciones-fetales-sant-pau-133644036)<br>
 14:46 [Nuevo método para 'pasar' cocaína en Barcelona: esconderla en un folleto publicitario](https://www.elperiodico.com/es/sucesos/20260825/nuevo-metodo-pasar-cocaina-barcelona-folleto-publicitario-133643724)<br>
 14:43 [La Guardia Urbana descubre un nuevo método de 'pasar' cocaína: esconder la droga en un folleto publicitario](https://www.elperiodico.com/es/videos/sociedad/guardia-urbana-descubre-nuevo-metodo-pasar-cocaina-esconder-droga-folleto-publicidad-video/133643785.shtml)<br>
 14:38 [Una residencia de Barcelona 'saca del armario' a sus mayores LGTBI+: "Ha hecho falta mucha pedagogía"](https://www.elperiodico.com/es/sociedad/20260825/residencia-gracia-barcelona-respeto-derechos-mayores-lgtbi-salir-del-armario-vejez-133631495)<br>
