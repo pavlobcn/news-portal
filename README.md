@@ -1,9 +1,12 @@
-# News for 2026-08-25 12:22
+# News for 2026-08-25 13:00
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+12:32 [У Росії пожежа на великому газохімічному комплексі](https://ua.korrespondent.net/world/russia/4905954-u-rosii-pozhezha-na-velykomu-hazokhimichnomu-kompleksi)<br>
+12:28 [Біткойн різко подорожчав: криптовалюта оновила максимум за 3 місяці](https://ua.korrespondent.net/business/financial/4905952-bitkoin-rizko-podorozhchav-kryptovaluita-onovyla-maksymum-za-3-misiatsi)<br>
 11:56 [Готівкові курси долара і євро знижуються](https://ua.korrespondent.net/business/financial/4905940-hotivkovi-kursy-dolara-i-yevro-znyzhuuitsia)<br>
+11:32 [Стан короля Норвегії Гаральда V погіршився](https://ua.korrespondent.net/lifestyle/4905917-stan-korolia-norvehii-haralda-V-pohirshyvsia)<br>
 11:24 [Плачуть вікна: чому з’являється конденсат і як його позбутися](https://ua.korrespondent.net/articles/4905930-plachut-vikna-chomu-ziavliaietsia-kondensat-i-yak-yoho-pozbutysia)<br>
 11:00 [Завдано ударів по НПЗ і ГПЗ в Росії - Генштаб](https://ua.korrespondent.net/ukraine/4905922-zavdano-udariv-po-npz-i-hpz-v-rosii-henshtab)<br>
 10:50 [ШІ і російська пропаганда: ЦПД спростував фейк про могилу Коновальця](https://ua.korrespondent.net/ukraine/4905919-shi-i-rosiiska-propahanda-tspd-sprostuvav-feik-pro-mohylu-konovaltsia)<br>
@@ -17,9 +20,16 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:47 [Рятувальники Києва показали наслідки нічної атаки](https://ua.korrespondent.net/city/kiev/4905869-riatuvalnyky-kyieva-pokazaly-naslidky-nichnoi-ataky)<br>
 
 ## as.com
+12:11 [El Baskonia anuncia el fichaje de Kenneth Faried](https://as.com/baloncesto/el-baskonia-anuncia-el-fichaje-de-kenneth-faried-f202608-n/)<br>
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:55 [Hallado un segundo dron y explosivos cerca del aeropuerto de Leipzig, ligados al intento de atentado](https://www.elperiodico.com/es/internacional/20260825/hallado-dron-cerca-aeropuerto-alemania-leipzig-sajonia-merz-alerta-rusia-ucrania-133635801)<br>
+12:52 [La promoción más exclusiva de Glòries en Barcelona ya ha vendido más de la mitad de sus 94 pisos quedan desde 900.000 euros](https://www.elperiodico.com/es/videos/barcelona/promocion-exclusiva-glories-barcelona-vendido-video/133638142.shtml)<br>
+12:41 [El biólogo Josep Canadell recibe el Premio Ramon Margalef por sus investigaciones sobre el cambio climático](https://www.elperiodico.com/es/politica/20260825/biologo-josep-canadell-premio-ramon-margalef-cambio-climatico-133631750)<br>
+12:39 [Polémica en Tarragona por las goteras en el museo de elementos festivos tras el violento temporal](https://www.elperiodico.com/es/tarragona/20260825/polemica-tarragona-recurrentes-goteras-casa-festa-santa-tecla-133635762)<br>
+12:38 [Tres pensiones de distintos países dejan a una jubilada belga con una importante deuda fiscal: "Nadie puede decirme de antemano el importe total de mis impuestos"](https://www.elperiodico.com/es/economia/20260825/tres-pensiones-distintos-paises-dejan-jubilada-belga-deuda-fiscal-dv-133634796)<br>
+12:28 [Haakon y Mette-Marit celebran sus bodas de plata con una foto inédita y en la intimidad](https://www.elperiodico.com/es/gente/20260825/haakon-mette-marit-bodas-plata-foto-inedita-skaugum-133635745)<br>
 12:16 [Sebastián La Rosa, especialista en longevidad, advierte que hasta el 90% del envejecimiento facial se debe a la radiación solar](https://www.elperiodico.com/es/vida-y-estilo/20260825/especialista-longevidad-sebastian-rosa-advierte-90-envejecimiento-facial-radiacion-solar-dv-133636342)<br>
 12:12 [Las seis estaciones del metro de Barcelona que llevan más de 100 años en servicio](https://www.elperiodico.com/es/barcelona/20260825/estaciones-metro-mas-antiguas-barcelona-133634713)<br>
 12:12 [El ex NBA y campeón del mundo Kenneth Faried ficha por el Baskonia](https://www.elperiodico.com/es/deportes/20260825/ex-nba-campeon-mundo-kenneth-133636130)<br>
