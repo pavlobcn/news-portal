@@ -1,9 +1,16 @@
-# News for 2026-08-25 16:06
+# News for 2026-08-25 17:03
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+16:46 [Слідом за Росією: в Ірані почалась бензинова криза](https://ua.korrespondent.net/world/4906038-slidom-za-rosiieui-v-irani-pochalas-benzynova-kryza)<br>
+16:36 [ГУР розкрило деталі російських морських дронів](https://ua.korrespondent.net/ukraine/4906035-hur-rozkrylo-detali-rosiiskykh-morskykh-droniv)<br>
+16:29 [Під виглядом роботи в Азії українок вербували для сексуальної експлуатації](https://ua.korrespondent.net/ukraine/4906030-pid-vyhliadom-roboty-v-azii-ukrainok-verbuvaly-dlia-seksualnoi-ekspluatatsii)<br>
+15:50 [ЗСУ взяли під контроль лісовий масив на Куп'янщині](https://ua.korrespondent.net/ukraine/4906022-zsu-vzialy-pid-kontrol-lisovyi-masyv-na-kupianschyni)<br>
+15:41 [Вклади українців у банки сягнули нового рекорду](https://ua.korrespondent.net/business/financial/4906020-vklady-ukraintsiv-u-banky-siahnuly-novoho-rekordu)<br>
+15:30 [Наводили удари РФ по Донеччині: троє зрадників отримали вироки](https://ua.korrespondent.net/ukraine/4906017-navodyly-udary-rf-po-donechchyni-troie-zradnykiv-otrymaly-vyroky)<br>
 15:21 [Дрони з вибухівкою у Лейпцигу: Мерц пригрозив винним у атаках](https://ua.korrespondent.net/world/4906013-drony-z-vybukhivkoui-u-leiptsyhu-merts-pryhrozyv-vynnym-u-atakakh)<br>
+15:14 [Спрацювали системи безпеки: Ощадбанк обмежив роботу сервісів](https://ua.korrespondent.net/business/financial/4906011-spratsuivaly-systemy-bezpeky-oschadbank-obmezhyv-robotu-servisiv)<br>
 14:57 [РФ атакувала Запоріжжя: троє людей поранені](https://ua.korrespondent.net/city/zaporozhye/4906006-rf-atakuvala-zaporizhzhia-troie-luidei-poraneni)<br>
 14:54 [Удар по Краматорську: число поранених подвоїлося](https://ua.korrespondent.net/ukraine/4906005-udar-po-kramatorsku-chyslo-poranenykh-podvoilosia)<br>
 14:43 [У командира військової частини на Київщині знайшли арсенал](https://ua.korrespondent.net/ukraine/4906003-u-komandyra-viiskovoi-chastyny-na-kyivschyni-znaishly-arsenal)<br>
@@ -12,6 +19,7 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 14:08 [Наймолодший син Віктора Ющенка повернувся до Києва](https://ua.korrespondent.net/lifestyle/4905973-naimolodshyi-syn-viktora-yuschenka-povernuvsia-do-kyieva)<br>
 14:06 [Україна почала отримувати ракети для Patriot](https://ua.korrespondent.net/ukraine/4905987-ukraina-pochala-otrymuvaty-rakety-dlia-Patriot)<br>
 14:02 [У Казахстані спалахнула пожежа на великому НПЗ](https://ua.korrespondent.net/world/4905985-u-kazakhstani-spalakhnula-pozhezha-na-velykomu-npz)<br>
+13:32 [У Криму інфляція майже втричі вища за російську: бензин подорожчав на 211%](https://ua.korrespondent.net/ukraine/4905975-u-krymu-infliatsiia-maizhe-vtrychi-vyscha-za-rosiisku-benzyn-podorozhchav-na-211)<br>
 13:30 [Через 35 років зірки Термінатора 2 знову разом](https://ua.korrespondent.net/showbiz/cinema/4905956-cherez-35-rokiv-zirky-terminatora-2-znovu-razom)<br>
 12:32 [У Росії пожежа на великому газохімічному комплексі](https://ua.korrespondent.net/world/russia/4905954-u-rosii-pozhezha-na-velykomu-hazokhimichnomu-kompleksi)<br>
 12:28 [Біткойн різко подорожчав: криптовалюта оновила максимум за 3 місяці](https://ua.korrespondent.net/business/financial/4905952-bitkoin-rizko-podorozhchav-kryptovaluita-onovyla-maksymum-za-3-misiatsi)<br>
@@ -34,6 +42,19 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:00 [El eclipse lunar del 28 de agosto será visible desde toda España, pero las provincias más al oeste lo verán más completo](https://www.elperiodico.com/es/sociedad/20260825/eclipse-lunar-viernes-28-agosto-2026-visible-espana-133631381)<br>
+16:56 [Bagatelas veraniegas](https://www.elperiodico.com/es/opinion/20260825/bagatelas-veraniegas-articulo-josep-maria-fonalleras-133646931)<br>
+16:51 [Victoria Luengo: "Vivimos en una sociedad que sigue señalando a las víctimas por encima de sus acosadores"](https://www.elperiodico.com/es/ocio-y-cultura/20260825/victoria-luengo-ser-querido-vivimos-sociedad-senala-victimas-encima-acosadores-133647166)<br>
+16:46 [Así se encuentra Tarragona tras el temporal](https://www.elperiodico.com/es/videos/sociedad/encuentra-tarragona-temporal-video/133646553.shtml)<br>
+16:45 [Descubre cómo restablecer tus hábitos de sueño después del verano con estos 10 consejos prácticos](https://www.elperiodico.com/es/salud/20260825/como-restablecer-habitos-sueno-despues-vacaciones-verano-121129753)<br>
+16:40 [Sanidad prevé contratar más profesionales en Ceuta pero niega que haya colapso o una emergencia sanitaria](https://www.elperiodico.com/es/sociedad/20260825/sanidad-ceuta-profesionales-sanitarios-vacunas-133645602)<br>
+16:36 [La residencia Gran Gràcia de Barcelona, primer distintivo de la Generalitat de inclusión LGTBI](https://www.elperiodico.com/es/videos/sociedad/residencia-gran-gracia-barcelona-primer-video/133646416.shtml)<br>
+16:36 [Imma, la conductora de bus que 'salvó' a pasajeros del temporal en Tarragona: "Solo pensé cómo me gustaría que ayudaran a mis hijos"](https://www.elperiodico.com/es/tarragona/20260825/imma-conductora-bus-salvo-pasajeros-temporal-tarragona-133643446)<br>
+16:32 [En estado crítico las dos mujeres sobre las que cayó un muro el sábado en Roda de Berà (Tarragona) por las lluvias](https://www.elperiodico.com/es/tarragona/20260825/mueren-mujeres-cayo-muro-sabado-133646505)<br>
+16:19 [La Schubertíada de Vilabertran inicia la recta final con la música prohibida por el nazismo de Erwin Schulolff](https://www.elperiodico.com/es/ocio-y-cultura/20260825/schubertiada-vilabertran-inicia-recta-final-133645135)<br>
+16:17 [El nuevo Teatre Balmes suma 490 butacas al 'boom' de la cultura en directo en Barcelona, con énfasis en el humor](https://www.elperiodico.com/es/ocio-y-cultura/20260825/nuevo-teatre-balmes-barcelona-humor-133643685)<br>
+16:17 [Hombres bajo sospecha](https://www.elperiodico.com/es/opinion/20260825/hombres-sospecha-masculinidad-articulo-ana-bernal-trivino-133645778)<br>
+16:10 [Un incendio recorre la sierra de Collserola](https://www.elperiodico.com/es/videos/barcelona/incendio-recorre-sierra-collserola-video/133645845.shtml)<br>
 16:01 [Declarado un incendio forestal en Collserola a la altura de Les Roquetes](https://www.elperiodico.com/es/barcelona/20260825/incendio-forestal-collserola-les-roquetes-barcelona-133645495)<br>
 15:40 [Los cables de fibra óptica enterrados miden terremotos: una tormenta en el cielo puede ayudarnos a ver bajo tierra](https://www.elperiodico.com/es/tendencias21/20260825/cables-fibra-optica-enterrados-miden-133645205)<br>
 15:21 [La sequía durante el embarazo aumenta el riesgo de parto prematuro y alteración fetal](https://www.elperiodico.com/es/sanidad/20260825/sequia-durante-embarazo-aumenta-riesgo-parto-prematuro-alteraciones-fetales-sant-pau-133644036)<br>
