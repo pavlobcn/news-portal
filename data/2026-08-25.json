@@ -1,5 +1,50 @@
 [
   {
+    "title": "Спроба підпалу заводу в Словаччині: ЗМІ дізналися, що той належить Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4906127-sproba-pidpalu-zavodu-v-slovachchyni-zmi-diznalysia-scho-toi-nalezhyt-ukraini",
+    "pubDate": "2026-08-25 23:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539866.jpg\">Поліція вилучила в зловмисників запальну суміш бензину та полістиролу - саморобний аналог напалму - а також інструменти.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Estados Unidos revocará los visados de corta duración a cientos de miles de extranjeros",
+    "link": "https://www.elperiodico.com/es/internacional/20260825/estados-unidos-revocara-visados-corta-133656921",
+    "pubDate": "2026-08-25 23:46:47",
+    "category": "",
+    "description": "<h2>Unas 200.000 personas podrían estar afectadas por la medida</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 26 de agosto de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260825/portada-periodico-26-agosto-2026-133656758",
+    "pubDate": "2026-08-25 23:34:07",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Париж прагне обмежити для Києва закупівлю зброї за межами Європи - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4906125-paryzh-prahne-obmezhyty-dlia-kyieva-zakupivlui-zbroi-za-mezhamy-yevropy-zmi",
+    "pubDate": "2026-08-25 23:34:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539859.jpg\">Україна раніше домоглася винятків на закупівлю військового обладнання за межами Європи в межах кредиту ЄС на 90 млрд євро.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Canarias, dos décadas de la ruta migratoria más mortífera del mundo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260825/canarias-decadas-ruta-migratoria-mortifera-133656730",
+    "pubDate": "2026-08-25 23:30:16",
+    "category": "",
+    "description": "<h2>La llegada de embarcaciones en 2006 sitúa la ruta atlántica en el centro del mapa europeo y marca las bases de una gestión basada en la externalización </h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "В АПЛ обрали кращого гравця року: нагорода від PFA",
     "link": "https://ua.korrespondent.net/sport/football/4906118-v-apl-obraly-kraschoho-hravtsia-roku-nahoroda-vid-PFA",
     "pubDate": "2026-08-25 23:05:00",
@@ -32,6 +77,15 @@
     "pubDate": "2026-08-25 22:59:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539844.jpg\">Директору Дипакадемії ім. Геннадія Удовенка при МЗС заразом присвоєно ранг надзвичайного і повноважного посланника другого класу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Повністю автономний. Новий ШІ-дрон РФ в Запоріжжі",
+    "link": "https://ua.korrespondent.net/ukraine/4906123-povnistui-avtonomnyi-novyi-shi-dron-rf-v-zaporizhzhi",
+    "pubDate": "2026-08-25 22:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539858.jpg\">На відміну від систем автозахоплення, де оператор-людина обирає ціль і лише потім передає керування комп'ютеру, нові дрони діють інакше.",
     "topic": "політика",
     "topic_match_probability": 90
   },
