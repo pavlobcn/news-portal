@@ -1,10 +1,14 @@
-# News for 2026-08-25 10:56
+# News for 2026-08-25 11:38
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+11:24 [Плачуть вікна: чому з’являється конденсат і як його позбутися](https://ua.korrespondent.net/articles/4905930-plachut-vikna-chomu-ziavliaietsia-kondensat-i-yak-yoho-pozbutysia)<br>
+11:00 [Завдано ударів по НПЗ і ГПЗ в Росії - Генштаб](https://ua.korrespondent.net/ukraine/4905922-zavdano-udariv-po-npz-i-hpz-v-rosii-henshtab)<br>
 10:50 [ШІ і російська пропаганда: ЦПД спростував фейк про могилу Коновальця](https://ua.korrespondent.net/ukraine/4905919-shi-i-rosiiska-propahanda-tspd-sprostuvav-feik-pro-mohylu-konovaltsia)<br>
+10:30 [У Сербії розкопали 6500-річний кулон, створений із людського зуба](https://ua.korrespondent.net/lifestyle/4905896-u-serbii-rozkopaly-6500-richnyi-kulon-stvorenyi-iz-luidskoho-zuba)<br>
 10:29 [Російський дрон поцілив у поїзд на Миколаївщині](https://ua.korrespondent.net/ukraine/4905912-rosiiskyi-dron-potsilyv-u-poizd-na-mykolaivschyni)<br>
+10:13 [У Львові малювали на стінах графіті з пропозиціями співпраці з РФ](https://ua.korrespondent.net/city/lvov/4905909-u-lvovi-maluivaly-na-stinakh-hrafiti-z-propozytsiiamy-spivpratsi-z-rf)<br>
 09:29 [Мати Панеттьєрі розкрила неприємну правду про її хлопця](https://ua.korrespondent.net/lifestyle/4905884-maty-panettieri-rozkryla-nepryiemnu-pravdu-pro-yii-khloptsia)<br>
 08:47 [Температура Світового океану в серпні встановила історичний рекорд](https://ua.korrespondent.net/tech/science/4905877-temperatura-svitovoho-okeanu-v-serpni-vstanovyla-istorychnyi-rekord)<br>
 08:14 [РФ вдосвіта вдарила по Запоріжжю: двоє загиблих, є руйнування](https://ua.korrespondent.net/city/zaporozhye/4905875-rf-vdosvita-vdaryla-po-zaporizhzhui-dvoie-zahyblykh-ye-ruinuvannia)<br>
@@ -15,6 +19,12 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:31 [Casi 9.600 mensajes de odio detectados en las redes durante la entrada masiva en Ceuta](https://www.elperiodico.com/es/sociedad/20260825/mensajes-odio-redes-inmigracion-entrada-ceuta-133634575)<br>
+11:21 [Natalia, asesora financiera, sobre la amortización anticipada en una hipoteca: "Amortizar 100 euros extra al mes no resta 100 euros de deuda, resta muchísimo más"](https://www.elperiodico.com/es/economia/20260825/natalia-asesora-financiera-amortizacion-anticipada-hipoteca-dv-133613279)<br>
+11:20 [Toshin vive aislado en una casa de barro: "Es una casa superbioclimática. Tiene un 'techo vivo', que hace que haya entre 5 y 7 grados menos que en el exterior"](https://www.elperiodico.com/es/economia/20260825/vive-aislado-casa-barro-aldea-200-habitantes-argentina-toshin-dv-et-133363990)<br>
+11:10 [Isabel Obreo dejó su trabajo de ingeniera para ser ebanista: "Me ha costado muchísimo tiempo sacar el presupuesto y valorar mi trabajo"](https://www.elperiodico.com/es/economia/20260825/isabel-obreo-ingeniera-dejar-trabajo-ebanista-dv-et-133489751)<br>
+11:07 [La ampliación de Can Ruti en Badalona contempla una posible "tarifa simbólica" para el aparcamiento de los empleados](https://www.elperiodico.com/es/videos/sociedad/ampliacion-can-ruti-badalona-contempla-tarifa-simbolica-aparcamiento-empleados-video/133633973.shtml)<br>
+11:00 [Laura Guerrero, experta en limpieza y orden: "Son pequeños gestos de higiene que no cuestan nada"](https://www.elperiodico.com/es/vida-y-estilo/20260825/laura-guerrero-experta-limpieza-hotel-habitaciones-consejos-higiene-orden-dv-et-133423390)<br>
 10:42 [Nueva sentencia que permite el 100% de teletrabajo a un empleado para cuidar a su madre con Alzheimer](https://www.elperiodico.com/es/economia/20260825/teletrabajo-nueva-sentencia-cuidar-madre-enferma-tsj-navarra-133633433)<br>
 10:40 [¿Tu hijo pasa horas frente a la consola? Cómo detectar si es adicción a los videojuegos](https://www.elperiodico.com/es/salud/20260825/mi-hijo-es-adicto-videojuegos-psicologo-adiccion-107483294)<br>
 10:22 [Un tornado sorprende Pomas una localidad del sur de Francia](https://www.elperiodico.com/es/videos/sociedad/tornado-sorprende-pomas-localidad-sur/133632855.shtml)<br>
