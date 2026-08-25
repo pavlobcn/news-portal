@@ -1,8 +1,9 @@
-# News for 2026-08-25 17:03
+# News for 2026-08-25 17:58
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+17:26 [Пожежа на газохімічному гіганті РФ: є загиблі, понад 130 людей поранені](https://ua.korrespondent.net/world/russia/4906051-pozhezha-na-hazokhimichnomu-hihanti-rf-ye-zahybli-ponad-130-luidei-poraneni)<br>
 16:46 [Слідом за Росією: в Ірані почалась бензинова криза](https://ua.korrespondent.net/world/4906038-slidom-za-rosiieui-v-irani-pochalas-benzynova-kryza)<br>
 16:36 [ГУР розкрило деталі російських морських дронів](https://ua.korrespondent.net/ukraine/4906035-hur-rozkrylo-detali-rosiiskykh-morskykh-droniv)<br>
 16:29 [Під виглядом роботи в Азії українок вербували для сексуальної експлуатації](https://ua.korrespondent.net/ukraine/4906030-pid-vyhliadom-roboty-v-azii-ukrainok-verbuvaly-dlia-seksualnoi-ekspluatatsii)<br>
@@ -38,10 +39,22 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:47 [Рятувальники Києва показали наслідки нічної атаки](https://ua.korrespondent.net/city/kiev/4905869-riatuvalnyky-kyieva-pokazaly-naslidky-nichnoi-ataky)<br>
 
 ## as.com
+17:33 [Aday Mara: “Muy feliz de debutar con la Selección”](https://as.com/baloncesto/mas_baloncesto/aday-mara-muy-feliz-de-debutar-con-la-seleccion-f202608-n/)<br>
 12:11 [El Baskonia anuncia el fichaje de Kenneth Faried](https://as.com/baloncesto/el-baskonia-anuncia-el-fichaje-de-kenneth-faried-f202608-n/)<br>
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+17:57 [Imágenes del incendio de Collserola visto desde Horta](https://www.elperiodico.com/es/videos/sucesos/imagenes-incendio-collserola-visto-horta/133649354.shtml)<br>
+17:53 [Buñol se prepara para teñirse de rojo con 150.000 kilos de tomate y 22.000 participantes](https://www.elperiodico.com/es/sociedad/20260825/bunol-prepara-tenirse-rojo-150-133649205)<br>
+17:42 [La 'mili' podrá computar para la jubilación tribunales abren la puerta a revisar pensiones y sumar hasta un año de cotización](https://www.elperiodico.com/es/videos/economia/mili-podra-computar-jubilacion-tribunales/133648317.shtml)<br>
+17:38 [Los bomberos tratan de extinguir el incendio en Collserola](https://www.elperiodico.com/es/videos/sociedad/bomberos-tratan-extinguir-incendio-collserola-video/133648373.shtml)<br>
+17:32 [El juicio contra una madre acusada de matar a sus tres hijos reabre la discusión sobre la psicosis posparto en EEUU](https://www.elperiodico.com/es/sociedad/20260825/juicio-madre-psicosis-posparto-asesinato-133646989)<br>
+17:30 [Ana Iglesias, madre de 10 hijos, prepara la vuelta al cole: "Es una locura; o empiezo ya o no me da tiempo. Tengo que ser muy organizada"](https://www.elperiodico.com/es/economia/20260825/vuleta-colegio-precio-libros-madre-10-hijos-ana-iglesias-dv-et-133432530)<br>
+17:28 [El supuesto "asesinato literario" de Natalie Portman en una novela de Rachel Cusk desata la polémica del verano](https://www.elperiodico.com/es/ocio-y-cultura/20260825/supuesto-asesinato-literario-natalie-portman-133646350)<br>
+17:26 [Un escritor se propone hacer el Camino de Santiago con una armadura romana de 25 kilos: "Lo más difícil no es cargar el peso, sino hacerlo en sandalias"](https://www.elperiodico.com/es/vida-y-estilo/20260825/escritor-propone-camino-santiago-armadura-133648167)<br>
+17:24 [Rodolfo Valentino, el actor que inventó el 'star system'](https://www.elperiodico.com/es/ocio-y-cultura/20260825/rodolfo-valentino-actor-invento-star-133648120)<br>
+17:16 [Grupo Freixenet pasa a llamarse Freixenet Iberia para su negocio en España](https://www.elperiodico.com/es/economia/20260825/grupo-freixenet-pasa-llamarse-freixenet-iberia-133647877)<br>
+17:15 [Un 'sin techo' se degüella en la plaza Tetuán de Barcelona](https://www.elperiodico.com/es/barcelona/20260825/techo-deguella-plaza-tetuan-barcelona-133647680)<br>
 17:00 [El eclipse lunar del 28 de agosto será visible desde toda España, pero las provincias más al oeste lo verán más completo](https://www.elperiodico.com/es/sociedad/20260825/eclipse-lunar-viernes-28-agosto-2026-visible-espana-133631381)<br>
 16:56 [Bagatelas veraniegas](https://www.elperiodico.com/es/opinion/20260825/bagatelas-veraniegas-articulo-josep-maria-fonalleras-133646931)<br>
 16:51 [Victoria Luengo: "Vivimos en una sociedad que sigue señalando a las víctimas por encima de sus acosadores"](https://www.elperiodico.com/es/ocio-y-cultura/20260825/victoria-luengo-ser-querido-vivimos-sociedad-senala-victimas-encima-acosadores-133647166)<br>
@@ -51,6 +64,7 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 16:36 [La residencia Gran Gràcia de Barcelona, primer distintivo de la Generalitat de inclusión LGTBI](https://www.elperiodico.com/es/videos/sociedad/residencia-gran-gracia-barcelona-primer-video/133646416.shtml)<br>
 16:36 [Imma, la conductora de bus que 'salvó' a pasajeros del temporal en Tarragona: "Solo pensé cómo me gustaría que ayudaran a mis hijos"](https://www.elperiodico.com/es/tarragona/20260825/imma-conductora-bus-salvo-pasajeros-temporal-tarragona-133643446)<br>
 16:32 [En estado crítico las dos mujeres sobre las que cayó un muro el sábado en Roda de Berà (Tarragona) por las lluvias](https://www.elperiodico.com/es/tarragona/20260825/mueren-mujeres-cayo-muro-sabado-133646505)<br>
+16:32 [En estado crítico las dos mujeres sobre las que cayó un muro el sábado en Roda de Berà (Tarragona) por las lluvias](https://www.elperiodico.com/es/tarragona/20260825/estado-critico-mujeres-muro-sabado-roda-bera-tarragona-133646505)<br>
 16:19 [La Schubertíada de Vilabertran inicia la recta final con la música prohibida por el nazismo de Erwin Schulolff](https://www.elperiodico.com/es/ocio-y-cultura/20260825/schubertiada-vilabertran-inicia-recta-final-133645135)<br>
 16:17 [El nuevo Teatre Balmes suma 490 butacas al 'boom' de la cultura en directo en Barcelona, con énfasis en el humor](https://www.elperiodico.com/es/ocio-y-cultura/20260825/nuevo-teatre-balmes-barcelona-humor-133643685)<br>
 16:17 [Hombres bajo sospecha](https://www.elperiodico.com/es/opinion/20260825/hombres-sospecha-masculinidad-articulo-ana-bernal-trivino-133645778)<br>
