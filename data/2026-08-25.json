@@ -1,5 +1,59 @@
 [
   {
+    "title": "El Gobierno contempla usar polideportivos para albergar a los migrantes llegados a Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260825/gobierno-contempla-polideportivos-albergar-migrantes-133655369",
+    "pubDate": "2026-08-25 21:47:31",
+    "category": "",
+    "description": "<h2 class=\"item\">Torres y Vivas acuerdan ubicar a los migrantes en espacios designados \"desde el consenso\" en Ceuta</h2><h2 class=\"item\">El ministro ha anunciado que mañana presidirá la primera reunión del Comité de Situación para la gestión de la crisis en la ciudad autónoma</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Vecinos de Ceuta protestan ante la Delegación del Gobierno por el alojamiento de migrantes",
+    "link": "https://www.elperiodico.com/es/videos/internacional/vecinos-ceuta-protestan-delegacion-gobierno/133655130.shtml",
+    "pubDate": "2026-08-25 21:36:52",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Глава дипломатії Ватикану в Москві закликав завершити війну в Україні",
+    "link": "https://ua.korrespondent.net/world/4906107-hlava-dyplomatii-vatykanu-v-moskvi-zaklykav-zavershyty-viinu-v-ukraini",
+    "pubDate": "2026-08-25 21:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539807.png\">Представник Ватикану Пол Галлахер вперше за п'ять років зустрівся з главою МЗС РФ Сергієм Лавровим.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Así debes circular en una rotonda, según la Policía",
+    "link": "https://www.elperiodico.com/es/motor/20260825/asi-debes-circular-rotonda-segun-policia-133612870",
+    "pubDate": "2026-08-25 21:30:10",
+    "category": "",
+    "description": "<h2>Los accidentes de tráfico en las glorietas son muy frecuentes y podrías estar cometiendo un error que provoque una colisión</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Centenares de ceutíes marchan contra la gestión del Gobierno de la crisis migratoria",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/centenares-ceuties-marchan-gestion-gobierno/133655075.shtml",
+    "pubDate": "2026-08-25 21:26:22",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Dolly Parton, legendaria estrella de la música country, muere a los 80 años",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/dolly-parton-legendaria-estrella-musica/133654977.shtml",
+    "pubDate": "2026-08-25 21:22:38",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
     "title": "У Путіна вигадали нову причину, чому РФ напала на Україну",
     "link": "https://ua.korrespondent.net/world/russia/4906104-u-putina-vyhadaly-novu-prychynu-chomu-rf-napala-na-ukrainu",
     "pubDate": "2026-08-25 21:14:00",
