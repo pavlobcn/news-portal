@@ -1,4 +1,4 @@
-# News for 2026-08-25 19:57
+# News for 2026-08-25 20:46
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
@@ -50,6 +50,8 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:10 [Muere Dolly Parton a los 80 años, la voz que llevó el country al mundo](https://www.elperiodico.com/es/ocio-y-cultura/20260825/muere-dolly-parton-80-anos-leyenda-musica-country-133653475)<br>
+20:02 [Muere una cazadora que recibió un disparo accidental en Palencia](https://www.elperiodico.com/es/sucesos/20260825/muere-cazadora-recibio-disparo-accidental-133653441)<br>
 19:41 [El Mago Pop visita el Johnson Space Center de la NASA, en Houston, con vistas a su cósmico nuevo espectáculo](https://www.elperiodico.com/es/ocio-y-cultura/20260825/mago-pop-nasa-nuevo-espectaculo-133652721)<br>
 19:32 [El incendio de Collserola obliga a los trenes de la R4 de Rodalies a no parar en la estación de Torre Baró](https://www.elperiodico.com/es/sociedad/20260825/incendio-collserola-obliga-trenes-r4-rodalies-no-paran-torre-baro-133652567)<br>
 19:30 [Crítica de 'El ser querido': Javier Bardem y Victoria Luengo, precisos ambos, interpretan a un padre director y una hija actriz en un drama con el cine como acicate](https://www.elperiodico.com/es/ocio-y-cultura/20260825/critica-el-ser-querido-rodrigo-sorogoyen-javier-bardem-133651617)<br>
