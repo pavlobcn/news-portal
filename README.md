@@ -1,8 +1,10 @@
-# News for 2026-08-25 09:16
+# News for 2026-08-25 10:03
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+09:29 [Мати Панеттьєрі розкрила неприємну правду про її хлопця](https://ua.korrespondent.net/lifestyle/4905884-maty-panettieri-rozkryla-nepryiemnu-pravdu-pro-yii-khloptsia)<br>
+08:47 [Температура Світового океану в серпні встановила історичний рекорд](https://ua.korrespondent.net/tech/science/4905877-temperatura-svitovoho-okeanu-v-serpni-vstanovyla-istorychnyi-rekord)<br>
 08:14 [РФ вдосвіта вдарила по Запоріжжю: двоє загиблих, є руйнування](https://ua.korrespondent.net/city/zaporozhye/4905875-rf-vdosvita-vdaryla-po-zaporizhzhui-dvoie-zahyblykh-ye-ruinuvannia)<br>
 08:09 [Армія РФ посилила штурми на Донеччині - Генштаб](https://ua.korrespondent.net/ukraine/4905871-armiia-rf-posylyla-shturmy-na-donechchyni-henshtab)<br>
 07:47 [Рятувальники Києва показали наслідки нічної атаки](https://ua.korrespondent.net/city/kiev/4905869-riatuvalnyky-kyieva-pokazaly-naslidky-nichnoi-ataky)<br>
@@ -11,6 +13,10 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+10:00 [Tarragona se recupera progresivamente del fuerte temporal, que ha dejado árboles caídos, cortes de trenes y calles inundadas](https://www.elperiodico.com/es/tarragona/20260825/camp-tarragona-recupera-progresivamente-fuerte-temporal-inundaciones-133631642)<br>
+09:51 [Un entrenador, detenido por violar y dejar embarazada a una menor en Palma](https://www.elperiodico.com/es/sucesos/20260825/entrenador-detenido-violar-embarazada-menor-133631987)<br>
+09:40 [Un centro de datos utiliza 16 millones de neuronas humanas vivas para procesar información](https://www.elperiodico.com/es/tendencias21/20260825/centro-datos-utiliza-16-millones-133631721)<br>
+09:29 [Los pisos de una sola habitación se abren paso en Barcelona: una de cada tres promociones de obra nueva ya los incluyen](https://www.elperiodico.com/es/videos/barcelona/pisos-sola-habitacion-abren-paso-barcelona-video/133631372.shtml)<br>
 09:11 [Precio del petróleo hoy, 25 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260825/precio-petroleo-hoy-25-agosto-dv-133630962)<br>
 09:11 [Una brutal granizada golpea Tarragona y deja imágenes impactantes](https://www.elperiodico.com/es/videos/sociedad/brutal-granizada-golpea-tarragona-temporal/133631074.shtml)<br>
 09:10 [La lección de Ramona Gorraiz, jubilada de 85 años, sobre la longevidad: "Tengo la misma talla que hace 50 años"](https://www.elperiodico.com/es/vida-y-estilo/20260825/leccion-jubilada-85-anos-longevidad-salud-dv-et-133540441)<br>
