@@ -1,5 +1,50 @@
 [
   {
+    "title": "В АПЛ обрали кращого гравця року: нагорода від PFA",
+    "link": "https://ua.korrespondent.net/sport/football/4906118-v-apl-obraly-kraschoho-hravtsia-roku-nahoroda-vid-PFA",
+    "pubDate": "2026-08-25 23:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539837.jpg\">Кращим в англійській Прем'єр-лізі за підсумками сезону визнали гравця, який зміг установити новий рекорд чемпіонату.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barça y la RFEF estudian suspender el acto de homenaje a los campeones del mundo tras las cargas policiales en Elche",
+    "link": "https://www.elperiodico.com/es/deportes/20260825/barca-rfef-estudian-suspender-acto-133656012",
+    "pubDate": "2026-08-25 23:04:31",
+    "category": "",
+    "description": "<h2>Los futbolistas que fueron campeones del mundo en Estados Unidos debían ser homenajeados antes del Barça-Athletic de este miércoles (21.00 h.)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno lanza una criba masiva de centros de datos imponiendo más exigencias verdes y de seguridad digital",
+    "link": "https://www.elperiodico.com/es/economia/20260825/centros-de-datos-gobierno-criba-masiva-renovables-ciberseguridad-133654417",
+    "pubDate": "2026-08-25 23:00:08",
+    "category": "",
+    "description": "<h2 class=\"item\">Prepara un real decreto para obligar a que el 80% del consumo eléctrico de las nuevas instalaciones digitales sea de renovables, a que reduzcan el gasto de luz y de agua, y a blindar la soberanía de los datos que manejan frente a terceros países</h2><h2 class=\"item\">El Ejecutivo da por hecho que en la avalancha de peticiones para nuevos ‘data centers’ hay proyectos fantasma o meramente especulativos y busca poner orden para liberar capacidad para enchufar otras industrias a la red eléctrica</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Зеленський присвоїв Стефанчуку ранг надзвичайного і повноважного посла",
+    "link": "https://ua.korrespondent.net/ukraine/4906117-zelenskyi-prysvoiv-stefanchuku-ranh-nadzvychainoho-i-povnovazhnoho-posla",
+    "pubDate": "2026-08-25 22:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539844.jpg\">Директору Дипакадемії ім. Геннадія Удовенка при МЗС заразом присвоєно ранг надзвичайного і повноважного посланника другого класу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Alcaraz y Serena Williams triunfan en su estreno como pareja en EEUU: \"Yo solo hago lo que me dice ella\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260825/alcaraz-serena-williams-triunfan-estreno-133655818",
+    "pubDate": "2026-08-25 22:39:08",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro murciano, que volvía tras cuatro meses de lesión, y la leyenda americana, de 44 años, ganaron en los octavos del dobles mixto del US Open a dos especialistas.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
     "title": "Азербайджанський Сабах уперше у своїй історії зіграє в Лізі чемпіонів",
     "link": "https://ua.korrespondent.net/sport/football/4906114-azerbaidzhanskyi-sabakh-upershe-u-svoii-istorii-zihraie-v-lizi-chempioniv",
     "pubDate": "2026-08-25 22:29:00",
@@ -34,6 +79,15 @@
     "description": "<h2>El viaje, del que no han trascendido detalles, podría estar relacionado con una advertencia de Washington a Putin para frenar una escalada o con un intercambio de prisioneros, según especula la prensa   </h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Перший візит за час війни. Голова ЦРУ в Москві",
+    "link": "https://ua.korrespondent.net/world/4906121-pershyi-vizyt-za-chas-viiny-holova-tsru-v-moskvi",
+    "pubDate": "2026-08-25 22:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539851.jpg\">Вдень на вулицях Москви помітили кортеж з американськими дипломатичними номерами, заради якого тимчасово перекривали рух.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Візит директора ЦРУ до Росії: ЗМІ назвали причину",
