@@ -1,4 +1,4 @@
-# News for 2026-08-25 18:49
+# News for 2026-08-25 19:24
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
@@ -43,11 +43,13 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:47 [Рятувальники Києва показали наслідки нічної атаки](https://ua.korrespondent.net/city/kiev/4905869-riatuvalnyky-kyieva-pokazaly-naslidky-nichnoi-ataky)<br>
 
 ## as.com
+18:57 [La puja por las nuevas franquicias alcanza los 700 millones](https://as.com/baloncesto/euroliga/la-puja-por-las-nuevas-franquicias-alcanza-los-700-millones-f202608-n/)<br>
 17:33 [Aday Mara: “Muy feliz de debutar con la Selección”](https://as.com/baloncesto/mas_baloncesto/aday-mara-muy-feliz-de-debutar-con-la-seleccion-f202608-n/)<br>
 12:11 [El Baskonia anuncia el fichaje de Kenneth Faried](https://as.com/baloncesto/el-baskonia-anuncia-el-fichaje-de-kenneth-faried-f202608-n/)<br>
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:56 [Un ‘meteotsunami’ sorprende a la costa valenciana: el mar varió 70 centímetros en solo cinco minutos](https://www.elperiodico.com/es/sociedad/20260825/meteotsunami-playas-comunidad-valenciana-gandia-cullera-xabia-nivel-del-mar-133650881)<br>
 18:34 [Un gran miércoles de bolsa a la vista](https://www.elperiodico.com/es/opinion/20260825/gran-miercoles-bolsa-vista-nvidia-bonos-inflacion-133650866)<br>
 18:26 [Inquietud entre los vecinos confinados por el fuego de Collserola: “Nunca habíamos vivido un incendio como este”](https://www.elperiodico.com/es/barcelona/20260825/incendio-collserola-barcelona-confinamiento-torre-baro-ciutat-meridiana-vecinos-133650210)<br>
 18:23 [La madre de Daniel Sancho revela que ha cortado la comunicación con su hijo por no estar de acuerdo con su línea de defensa](https://www.elperiodico.com/es/videos/sociedad/madre-daniel-sancho-revela-cortado/133650234.shtml)<br>

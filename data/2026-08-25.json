@@ -1,5 +1,68 @@
 [
   {
+    "title": "Президент Фінляндії попередив Україну про складну зиму",
+    "link": "https://ua.korrespondent.net/ukraine/4906079-prezydent-finliandii-poperedyv-ukrainu-pro-skladnu-zymu",
+    "pubDate": "2026-08-25 19:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539751.jpg\">Президент Фінляндії Александр Стубб вважає, що Україні варто готуватися до найскладнішого розвитку подій узимку. Гельсінкі тим часом допомагає посилити енергетичну стійкість країни.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuando acabar detrás de Pogacar se convierte en una gesta",
+    "link": "https://www.elperiodico.com/es/deportes/20260825/acabar-detras-pogacar-convierte-gesta-133651307",
+    "pubDate": "2026-08-25 19:02:48",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Margarita Robles pide perdón a los ceutíes: \"Mis disculpas\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/margarita-robles-pide-perdon-ceuties/133651686.shtml",
+    "pubDate": "2026-08-25 19:02:23",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп хоче перейменувати озеро Онтаріо",
+    "link": "https://ua.korrespondent.net/world/4906075-tramp-khoche-pereimenuvaty-ozero-ontario",
+    "pubDate": "2026-08-25 19:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539745.jpg\">Дональд Трамп запропонував перейменувати озеро Онтаріо на \"озеро Америка\". Нова заява президента США пролунала на тлі загострення торговельної суперечки між Вашингтоном і Оттавою.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La puja por las nuevas franquicias alcanza los 700 millones",
+    "link": "https://as.com/baloncesto/euroliga/la-puja-por-las-nuevas-franquicias-alcanza-los-700-millones-f202608-n/",
+    "pubDate": "2026-08-25 18:57:07",
+    "category": "Baloncesto",
+    "description": "La Euroliga avanza en su expansión a 24 equipos y selecciona 11 candidaturas de las que se elegirán ocho a finales de septiembre.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un ‘meteotsunami’ sorprende a la costa valenciana: el mar varió 70 centímetros en solo cinco minutos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260825/meteotsunami-playas-comunidad-valenciana-gandia-cullera-xabia-nivel-del-mar-133650881",
+    "pubDate": "2026-08-25 18:56:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Aemet explica el fenómeno registrado en Gandia, Cullera y Xàbia: \"No es nuevo\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260825/eclipse-lunar-viernes-28-agosto-2026-visible-espana-133631381\" target=\"_blank\">El eclipse lunar del 28 de agosto será visible desde toda España, pero las provincias más al oeste lo verán más completo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Путін скасував заходи через візит глави ЦРУ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4906077-putin-skasuvav-zakhody-cherez-vizyt-hlavy-tsru-zmi",
+    "pubDate": "2026-08-25 18:50:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539744.jpg\">Кремль скасував масштабний захід за участю російського диктатора, який мав відбутися 25 серпня.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
     "title": "На Житомирщині автобус зіткнувся з авто: семеро постраждалих",
     "link": "https://ua.korrespondent.net/ukraine/4906069-na-zhytomyrschyni-avtobus-zitknuvsia-z-avto-semero-postrazhdalykh",
     "pubDate": "2026-08-25 18:39:00",
@@ -284,6 +347,15 @@
     "pubDate": "2026-08-25 17:33:05",
     "category": "",
     "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un Pogacar supersónico entra en la leyenda de la Vuelta",
+    "link": "https://www.elperiodico.com/es/deportes/20260825/victoria-andorra-pogacar-supersonico-vuelta-espana-2026-133645026",
+    "pubDate": "2026-08-25 17:33:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Majestuosa victoria del astro esloveno en solitario después de un ataque a 50 kilómetros de la meta de Andorra la Vella.</h2><h2 class=\"item\"><a href=\"https://www.tissottiming.com/2026/vue/stage-4/rankings\">Todas las clasificaciones.</a></h2>",
     "topic": "спорт",
     "topic_match_probability": 100
   },
@@ -2718,6 +2790,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"Y el presidente, de vacaciones\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/presidente-vacaciones-carta-miguel-rabadan-133561554",
+    "pubDate": "2026-08-25 06:30:43",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Костюк показала свої будні поза тенісним кортом",
     "link": "https://ua.korrespondent.net/sport/tenis/4905798-kostuik-pokazala-svoi-budni-poza-tenisnym-kortom",
     "pubDate": "2026-08-25 06:30:00",
@@ -2734,6 +2815,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539294.jpg\">Загальні втрати армії РФ протягом більш як чотирьох років війни склали 1 479 300 солдатів.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "\"La política convertida en extorsión\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/trump-politica-convertida-extorsion-carta-miguel-fernandez-palacios-gordon-133602851",
+    "pubDate": "2026-08-25 06:15:13",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Поліція влаштувала розбірки з фанатами Барселони",
