@@ -1,8 +1,12 @@
-# News for 2026-08-25 07:06
+# News for 2026-08-25 07:45
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
+## as.com
+07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
+
 ## www.elperiodico.com
+07:30 [Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: "A nosotros nos gusta el ambiente rural y tranquilo, pero en Catalunya hay muchísima gente"](https://www.elperiodico.com/es/economia/20260825/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142)<br>
 07:04 [Las lluvias dejan inundaciones y afectaciones al tráfico en Tarragona: la A-7 cortada en Vila-seca y retrasos en Rodalies](https://www.elperiodico.com/es/tiempo/20260825/retrasos-rodalies-tarragona-carretera-cortada-vilaseca-lluvias-lunes-133629295)<br>
 07:00 [La física cuántica revela la posibilidad de viajar al futuro en planetas con gravedad extrema](https://www.elperiodico.com/es/ciencia/20260825/fisica-cuantica-revela-posibilidad-viajar-133608242)<br>
 07:00 [Barcelona se consolida como uno de los grandes polos de Europa en moda de segunda mano](https://www.elperiodico.com/es/gente/20260825/barcelona-consolida-grandes-polos-europa-133613910)<br>

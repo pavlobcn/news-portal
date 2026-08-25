@@ -1,5 +1,59 @@
 [
   {
+    "title": "Muere un conductor al caer por un terraplén de la C-58 en Sant Quirze del Vallès",
+    "link": "https://www.elperiodico.com/es/sucesos/20260825/muere-conductor-turismo-terraplen-c58-sant-quirze-133629867",
+    "pubDate": "2026-08-25 07:38:22",
+    "category": "",
+    "description": "<h2>El turismo se ha salido de la vía y ha fallecido el único ocupante del vehículo</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jorge y Alba abandonaron Catalunya con su bebé para empezar de cero en el bosque de Galicia: \"A nosotros nos gusta el ambiente rural y tranquilo, pero en Catalunya hay muchísima gente\"",
+    "link": "https://www.elperiodico.com/es/economia/20260825/abandonaron-catalunya-bebe-galicia-reformar-pajar-jorge-alba-dv-et-133487142",
+    "pubDate": "2026-08-25 07:30:00",
+    "category": "",
+    "description": "<h2>La pareja explica que la masificación también condicionó su decisión: \"Cada día encontrábamos caravana de ida y de vuelta del trabajo\" </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260822/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687\">Sandra y José, padres de 4 hijos, revelan cómo es su día a día viviendo en el bosque: \"Teníamos muchas discusiones, las dinámicas familiares no funcionaban\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260809/permacultura-anos-sin-facturas-bioconstruccion-familia-boris-rosa-dv-et-133069169\">Boris y Rosa, más de 16 años sin pagar facturas: \"Siempre hay que depender de algo, pero hay que ser un poquito más libre\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала міжнародний пункт пропуску з Молдовою",
+    "link": "https://ua.korrespondent.net/ukraine/4905865-rf-atakuvala-mizhnarodnyi-punkt-propusku-z-moldovoui",
+    "pubDate": "2026-08-25 07:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539328.jpg\">Через нічну атаку російських дронів на прикордонну інфраструктуру Одещини міжнародний пункт пропуску Виноградівка на кордоні з Молдовою тимчасово припинив роботу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Челсі вирвав перемогу у Фулгема в драматичній кінцівці",
+    "link": "https://ua.korrespondent.net/sport/football/4905867-chelsi-vyrvav-peremohu-u-fulhema-v-dramatychnii-kintsivtsi",
+    "pubDate": "2026-08-25 07:22:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539329.jpg\">Фулгем створив достатньо моментів і сподівався щонайменше на нічию, але підвела реалізація моментів.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid",
+    "link": "https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/",
+    "pubDate": "2026-08-25 07:20:16",
+    "category": "Baloncesto",
+    "description": "Las conexiones cruzadas entre los hermanos Sarr, los Cavaliers, el Real Madrid y Mario Hezonja han dejado un curioso mapa durante este verano en el mercado de fichajes.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала Дніпропетровщину дронами, артилерією та КАБами: є поранені",
+    "link": "https://ua.korrespondent.net/city/dnepr/4905861-rf-atakuvala-dnipropetrovschynu-dronamy-artyleriieui-ta-kabamy-ye-poraneni",
+    "pubDate": "2026-08-25 07:08:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4539325.jpg\">П’ять районів Дніпропетровської області опинилися під російськими ударами від вечора. Ворог здійснив понад 20 атак, унаслідок яких постраждали троє людей.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Las lluvias dejan inundaciones y afectaciones al tráfico en Tarragona: la A-7 cortada en Vila-seca y retrasos en Rodalies",
     "link": "https://www.elperiodico.com/es/tiempo/20260825/retrasos-rodalies-tarragona-carretera-cortada-vilaseca-lluvias-lunes-133629295",
     "pubDate": "2026-08-25 07:04:20",
