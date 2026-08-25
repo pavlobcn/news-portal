@@ -1,8 +1,9 @@
-# News for 2026-08-25 11:38
+# News for 2026-08-25 12:22
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+11:56 [Готівкові курси долара і євро знижуються](https://ua.korrespondent.net/business/financial/4905940-hotivkovi-kursy-dolara-i-yevro-znyzhuuitsia)<br>
 11:24 [Плачуть вікна: чому з’являється конденсат і як його позбутися](https://ua.korrespondent.net/articles/4905930-plachut-vikna-chomu-ziavliaietsia-kondensat-i-yak-yoho-pozbutysia)<br>
 11:00 [Завдано ударів по НПЗ і ГПЗ в Росії - Генштаб](https://ua.korrespondent.net/ukraine/4905922-zavdano-udariv-po-npz-i-hpz-v-rosii-henshtab)<br>
 10:50 [ШІ і російська пропаганда: ЦПД спростував фейк про могилу Коновальця](https://ua.korrespondent.net/ukraine/4905919-shi-i-rosiiska-propahanda-tspd-sprostuvav-feik-pro-mohylu-konovaltsia)<br>
@@ -19,6 +20,12 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:16 [Sebastián La Rosa, especialista en longevidad, advierte que hasta el 90% del envejecimiento facial se debe a la radiación solar](https://www.elperiodico.com/es/vida-y-estilo/20260825/especialista-longevidad-sebastian-rosa-advierte-90-envejecimiento-facial-radiacion-solar-dv-133636342)<br>
+12:12 [Las seis estaciones del metro de Barcelona que llevan más de 100 años en servicio](https://www.elperiodico.com/es/barcelona/20260825/estaciones-metro-mas-antiguas-barcelona-133634713)<br>
+12:12 [El ex NBA y campeón del mundo Kenneth Faried ficha por el Baskonia](https://www.elperiodico.com/es/deportes/20260825/ex-nba-campeon-mundo-kenneth-133636130)<br>
+12:06 [Cristian, albañil: "A día de hoy, un buen profesional debería estar cobrando 2.800 euros al mes"](https://www.elperiodico.com/es/economia/20260825/cristian-albanil-buen-profesional-cobrando-2800-euros-dv-et-133636118)<br>
+12:03 [Un entrenador, detenido por violar y dejar embarazada a una menor en Palma](https://www.elperiodico.com/es/videos/sociedad/entrenador-detenido-violar-dejar-embarazada-menor-palma-video/133635949.shtml)<br>
+11:45 [Tu móvil sabrá cuánta grasa tienes: así es la nueva inteligencia artificial de Google para escanear tu cuerpo](https://www.elperiodico.com/es/tecnologia/20260825/google-grasa-corporal-photoscan-ia-movil-dv-133505054)<br>
 11:31 [Casi 9.600 mensajes de odio detectados en las redes durante la entrada masiva en Ceuta](https://www.elperiodico.com/es/sociedad/20260825/mensajes-odio-redes-inmigracion-entrada-ceuta-133634575)<br>
 11:21 [Natalia, asesora financiera, sobre la amortización anticipada en una hipoteca: "Amortizar 100 euros extra al mes no resta 100 euros de deuda, resta muchísimo más"](https://www.elperiodico.com/es/economia/20260825/natalia-asesora-financiera-amortizacion-anticipada-hipoteca-dv-133613279)<br>
 11:20 [Toshin vive aislado en una casa de barro: "Es una casa superbioclimática. Tiene un 'techo vivo', que hace que haya entre 5 y 7 grados menos que en el exterior"](https://www.elperiodico.com/es/economia/20260825/vive-aislado-casa-barro-aldea-200-habitantes-argentina-toshin-dv-et-133363990)<br>
