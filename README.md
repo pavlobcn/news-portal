@@ -1,8 +1,9 @@
-# News for 2026-08-25 19:24
+# News for 2026-08-25 19:57
 
 Previous day: [2026-08-24](./data/2026-08-24.md)
 
 ## ua.korrespondent.net
+19:49 [Поблизу міста Самар через вибух евакуюють людей](https://ua.korrespondent.net/ukraine/4906090-poblyzu-mista-samar-cherez-vybukh-evakuuiuit-luidei)<br>
 18:30 [Свята 26 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4906070-sviata-26-serpnia-2026-roku-istoriia-tradytsii)<br>
 17:58 [DeepState зафіксував просування ЗСУ на Харківщині](https://ua.korrespondent.net/ukraine/4906061-DeepState-zafiksuvav-prosuvannia-zsu-na-kharkivschyni)<br>
 17:37 [Ціни на нафту пішли вниз на ознаках деескалації](https://ua.korrespondent.net/business/economics/4906053-tsiny-na-naftu-pishly-vnyz-na-oznakakh-deeskalatsii)<br>
@@ -49,7 +50,14 @@ Previous day: [2026-08-24](./data/2026-08-24.md)
 07:20 [Los Sarr y los Cavs construyen un puente aéreo con el Real Madrid](https://as.com/baloncesto/acb/los-sarr-y-los-cavs-construyen-un-puente-aereo-con-el-real-madrid-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:41 [El Mago Pop visita el Johnson Space Center de la NASA, en Houston, con vistas a su cósmico nuevo espectáculo](https://www.elperiodico.com/es/ocio-y-cultura/20260825/mago-pop-nasa-nuevo-espectaculo-133652721)<br>
+19:32 [El incendio de Collserola obliga a los trenes de la R4 de Rodalies a no parar en la estación de Torre Baró](https://www.elperiodico.com/es/sociedad/20260825/incendio-collserola-obliga-trenes-r4-rodalies-no-paran-torre-baro-133652567)<br>
+19:30 [Crítica de 'El ser querido': Javier Bardem y Victoria Luengo, precisos ambos, interpretan a un padre director y una hija actriz en un drama con el cine como acicate](https://www.elperiodico.com/es/ocio-y-cultura/20260825/critica-el-ser-querido-rodrigo-sorogoyen-javier-bardem-133651617)<br>
+19:26 [Robert Eggers, director de 'The Witch' y 'Nosferatu', recibirá el Premio Máquina del Tiempo en el Festival de Cine de Sitges](https://www.elperiodico.com/es/ocio-y-cultura/20260825/robert-eggers-director-the-witch-133652696)<br>
+19:25 [El Mago Pop invitado por la Nasa](https://www.elperiodico.com/es/videos/ocio-y-cultura/mago-pop-invitado-nasa/133652716.shtml)<br>
+19:22 [El heavy metal ayuda a las personas con enfermedades crónicas a soportar mejor el dolor](https://www.elperiodico.com/es/tendencias21/20260825/heavy-metal-ayuda-personas-enfermedades-133652683)<br>
 18:56 [Un ‘meteotsunami’ sorprende a la costa valenciana: el mar varió 70 centímetros en solo cinco minutos](https://www.elperiodico.com/es/sociedad/20260825/meteotsunami-playas-comunidad-valenciana-gandia-cullera-xabia-nivel-del-mar-133650881)<br>
+18:43 [Imágenes del Incendio que recorre la sierra de Collserola](https://www.elperiodico.com/es/fotos/sucesos/imagenes-incendio-recorre-sierra-collserola-133651118)<br>
 18:34 [Un gran miércoles de bolsa a la vista](https://www.elperiodico.com/es/opinion/20260825/gran-miercoles-bolsa-vista-nvidia-bonos-inflacion-133650866)<br>
 18:26 [Inquietud entre los vecinos confinados por el fuego de Collserola: “Nunca habíamos vivido un incendio como este”](https://www.elperiodico.com/es/barcelona/20260825/incendio-collserola-barcelona-confinamiento-torre-baro-ciutat-meridiana-vecinos-133650210)<br>
 18:23 [La madre de Daniel Sancho revela que ha cortado la comunicación con su hijo por no estar de acuerdo con su línea de defensa](https://www.elperiodico.com/es/videos/sociedad/madre-daniel-sancho-revela-cortado/133650234.shtml)<br>
