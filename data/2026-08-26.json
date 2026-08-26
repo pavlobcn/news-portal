@@ -1,5 +1,68 @@
 [
   {
+    "title": "Así ha sido la riada mortal de Nepal en la frontera con China",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/sido-riada-mortal-nepal-frontera-133677211",
+    "pubDate": "2026-08-26 16:01:51",
+    "category": "",
+    "description": "<h2>La crecida arrasó asentamientos en Rasuwa y golpeó también el paso fronterizo de Gyirong, donde China informó de numerosas víctimas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Santa Coloma precinta un obrador por \"deficiencias muy graves\" de salubridad e higiene",
+    "link": "https://www.elperiodico.com/es/barcelona/20260826/santa-coloma-precinta-obrador-deficiencias-muy-graves-salubridad-higiene-133676395",
+    "pubDate": "2026-08-26 15:58:32",
+    "category": "",
+    "description": "<h2>El ayuntamiento ha cerrado el local, que no podrá reabrir hasta que se corrijan las irregularidades</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260521/precintado-carniceria-santa-coloma-infringir-normas-basicas-higiene-130482548\">Precintado un establecimiento de Santa Coloma por infringir las normas básicas de higiene y conservación de alimentos</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Мадяр офіційно визнав Росію загрозою для Угорщини",
+    "link": "https://ua.korrespondent.net/world/4906343-madiar-ofitsiino-vyznav-rosiui-zahrozoui-dlia-uhorschyny",
+    "pubDate": "2026-08-26 15:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540399.jpg\">Дії Росії створюють серйозні ризики для угорської меншини, яка проживає на Закарпатті, заявив Мадяр.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Руйнівна повінь на кордоні Непалу й Тибету: десятки жертв, сотні зниклих",
+    "link": "https://ua.korrespondent.net/world/4906344-ruinivna-povin-na-kordoni-nepalu-y-tybetu-desiatky-zhertv-sotni-znyklykh",
+    "pubDate": "2026-08-26 15:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540393.jpg\">Відомо щонайменше про 19 загиблих, водночас 384 людини, серед яких майже 300 іноземних туристів, досі не вийшли на зв'язок.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Renfe busca trabajadores con Bachillerato: publica 175 nuevas plazas para este puesto",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/renfe-busca-trabajadores-bachillerato-publica/133677303.shtml",
+    "pubDate": "2026-08-26 15:50:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Más de cuarenta heridos al explotar material pirotécnico en unas fiestas en Navarra",
+    "link": "https://www.elperiodico.com/es/sucesos/20260826/cuarenta-heridos-explotar-material-pirotecnico-133677261",
+    "pubDate": "2026-08-26 15:49:09",
+    "category": "",
+    "description": "<h2>El incidente ocurrió durante el lanzamiento del cohete que anunciaba el inicio de unas fiestas patronales, provocando 47 atenciones leves y tres traslados al hospital</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "María Cristina Clemente, notaria, advierte sobre los préstamos entre familiares: \"Cuando Hacienda pregunta ya suele ser tarde\"",
+    "link": "https://www.elperiodico.com/es/economia/20260826/notaria-maria-cristina-clemente-prestamos-familiares-dv-et-128175308",
+    "pubDate": "2026-08-26 15:47:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La experta alerta de que ya no basta con un contrato privado y que Hacienda exigirá justificar el origen del dinero</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260305/atencion-aviso-notaria-maria-cristina-hacienda-dv-127418963\">María Cristina Clemente, notaria, avisa: \"Aquí Hacienda suele ver una donación encubierta\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Audiencia Nacional autoriza la expulsión de un marroquí que alegó que corría “peligro inminente de muerte”",
     "link": "https://www.elperiodico.com/es/politica/20260826/audiencia-nacional-autoriza-expulsion-marroqui-133673738",
     "pubDate": "2026-08-26 15:45:00",
@@ -9,6 +72,114 @@
     "topic_match_probability": 85
   },
   {
+    "title": "У Литві знали про таємний візит глави ЦРУ до Москви",
+    "link": "https://ua.korrespondent.net/world/4906341-u-lytvi-znaly-pro-taiemnyi-vizyt-hlavy-tsru-do-moskvy",
+    "pubDate": "2026-08-26 15:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540385.jpg\">Президент Литви Гітанас Науседа заявив, що союзники заздалегідь поінформували його про візит глави ЦРУ Джона Реткліффа до Москви.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El momento en el que una riada arrasa con todo a su pasa por Nepal",
+    "link": "https://www.elperiodico.com/es/videos/internacional/momento-riada-arrasa-pasa-nepal/133677021.shtml",
+    "pubDate": "2026-08-26 15:39:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El primer \"aeropuerto\" en la Luna podría estar operativo entre 2030 y 2040",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260826/primer-aeropuerto-luna-operativo-2030-133677011",
+    "pubDate": "2026-08-26 15:39:40",
+    "category": "",
+    "description": "<h2>Gateway será una estación espacial en órbita lunar que coordinará el tráfico de naves, astronautas y suministros</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vista aérea de la devastación provocada por una crecida torrencial del río Bhote Koshi en Nepal",
+    "link": "https://www.elperiodico.com/es/videos/internacional/vista-aerea-devastacion-provocada-crecida/133676845.shtml",
+    "pubDate": "2026-08-26 15:38:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La extrema derecha francesa afronta sus meses más decisivos",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/extrema-derecha-francesa-afronta-meses-decisivos-ola-ultra-conservadora-avance-133652682",
+    "pubDate": "2026-08-26 15:30:55",
+    "category": "",
+    "description": "<h2>La estrategia de normalización impulsada por Marine Le Pen, el desgaste del macronismo y la crisis de los partidos tradicionales convierten a Agrupación Nacional en favorita para las próximas presidenciales</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260823/avance-ultraderecha-mundo-elecciones-eeuu-francia-alemania-israel-133003889\" target=\"_blank\">Así progresa la ola ultra: arranca un curso clave con elecciones en Alemania, EEUU, Israel, Francia, Italia y España</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трагедія на шахті у Кривому Розі: загинули троє гірників",
+    "link": "https://ua.korrespondent.net/ukraine/4906337-trahediia-na-shakhti-u-kryvomu-rozi-zahynuly-troie-hirnykiv",
+    "pubDate": "2026-08-26 15:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540381.jpg\">Вранці 26 серпня на шахті Криворізька у Кривому Розі сталася трагедія: під час спуску та підйому працівників обірвалася баддя. Попередньо загинули троє гірників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tomatina vuelve a teñir Buñol de Rojo",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/tomatina-vuelve-tenir-bunol-rojo-fotos-133676357",
+    "pubDate": "2026-08-26 15:24:04",
+    "category": "",
+    "description": "<h2>Más de 22.000 personas y 150 toneladas de tomate llenan la localidad en la que es su fiesta más internacional</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las cámaras de seguridad han captado el momento en el que el paso fronterizo entre Nepal y China queda literalmente sepultado por un devastador corrimiento de tierras.",
+    "link": "https://www.elperiodico.com/es/videos/internacional/camaras-seguridad-han-captado-momento/133676426.shtml",
+    "pubDate": "2026-08-26 15:23:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El regalo de un padre catalán a su hijo: una web gratis y accesible a todo el mundo para colorear 1.380 'gegants' de Catalunya",
+    "link": "https://www.elperiodico.com/es/catalunya/20260826/gegants-colorear-web-regalo-ingeniero-hijo-ilustraciones-catalunya-carles-nunez-dv-loc-133663077",
+    "pubDate": "2026-08-26 15:23:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El ingeniero ha desarrollado un portal de ilustraciones con la ayuda de la inteligencia artificial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/oci-i-cultura/20260810/catalunya-cultura-estudia-impulsar-compania-nacional-teatro-133229202\">Catalunya estudia impulsar una compañía nacional de teatro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Білорусь почала раптову перевірку армії після візиту глави ЦРУ до Москви",
+    "link": "https://ua.korrespondent.net/world/4906334-bilorus-pochala-raptovu-perevirku-armii-pislia-vizytu-hlavy-tsru-do-moskvy",
+    "pubDate": "2026-08-26 15:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540372.jpg\">Одна з бригад має залишити місце постійної дислокації та виконати низку завдань, деталі яких у Мінську поки не розкривають.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський вирішив, як посилити позиції на Донбасі",
+    "link": "https://ua.korrespondent.net/ukraine/4906332-zelenskyi-vyrishyv-yak-posylyty-pozytsii-na-donbasi",
+    "pubDate": "2026-08-26 15:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540371.jpeg\">Україні потрібен мир і зараз ведеться робота, щоб були хороші кроки на його підтримку, зазначив президент.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Пожежа у Пакистані: в лікарні загинули 14 немовлят",
+    "link": "https://ua.korrespondent.net/world/4906331-pozhezha-u-pakystani-v-likarni-zahynuly-14-nemovliat",
+    "pubDate": "2026-08-26 15:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540362.jpg\">У відділенні на момент займання перебували 15 новонароджених, одного з них вдалося врятувати.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Maiki, youtuber trotamundos: \"Allá donde vayas, siempre habrá un catalán. ¡Stop!\"",
     "link": "https://www.elperiodico.com/es/catalunya/20260826/maiki-encuentro-catalanes-viajes-turismo-extranjero-dv-et-133488917",
     "pubDate": "2026-08-26 15:05:00",
@@ -16,6 +187,15 @@
     "description": "<h2>Según el Instituto de Estadística de Catalunya, el 1 de enero de 2026, había 128.833 personas nacidas en Catalunya que residían en el extranjero</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260516/catalan-mario-lara-opinion-catalanes-cataluna-dv-129997950\">Mario Lara, actor mexicano, se hace viral por su opinión sobre Catalunya: \"Me habían engañado sobre cómo son los catalanes\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260811/choque-cultural-cataluna-andalucia-amigos-dv-loc-et-133164678\">Una joven regresa a Catalunya tras unos años viviendo en Andalucía y relata su experiencia: los catalanes no lo hacen \"por maldad\"</a></h2>",
     "topic": "блогери",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Гарячка Західного Нілу: у Нідерландах зафіксували смерть від вірусу",
+    "link": "https://ua.korrespondent.net/world/4906328-hariachka-zakhidnoho-nilu-u-niderlandakh-zafiksuvaly-smert-vid-virusu",
+    "pubDate": "2026-08-26 15:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540354.jpg\">У Нідерландах зафіксували першу з 2020 року смерть людини, хворої на гарячку Західного Нілу. Влада повідомляє про три випадки зараження, ймовірно, всередині країни.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Alejandro Hamlyn, el empresario fugado cuya grabación destapó el caso Leire",
@@ -153,6 +333,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "У США чоловік на сімейній вечері застрелив вісім родичів",
+    "link": "https://ua.korrespondent.net/world/4906320-u-ssha-cholovik-na-simeinii-vecheri-zastrelyv-visim-rodychiv",
+    "pubDate": "2026-08-26 14:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540332.jpg\">У Біллінгсі, штат Монтана, сімейний конфлікт завершився масовим вбивством. 44-річний чоловік застрелив вісьмох родичів, підпалив будинок і наклав на себе руки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Sindica de Greuges reclama que la gente mayor pueda delegar la gestión de 'La Meva Salut' a otras personas fácilmente",
     "link": "https://www.elperiodico.com/es/sociedad/20260826/sindica-greuges-reclama-gente-mayor-delegar-gestion-la-meva-salut-facil-133674298",
     "pubDate": "2026-08-26 14:39:03",
@@ -176,6 +365,15 @@
     "pubDate": "2026-08-26 14:32:57",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В аеропорту Франкфурта стався спалах малярії: один співробітник помер",
+    "link": "https://ua.korrespondent.net/world/4906318-v-aeroportu-frankfurta-stavsia-spalakh-maliarii-odyn-spivrobitnyk-pomer",
+    "pubDate": "2026-08-26 14:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540331.jpg\">Передбачається, що співробітників аеропорту могли вкусити заражені комарі, які потрапили до Німеччини у вантажному відсіку літака.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -2016,6 +2214,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"Culpables de todo y dueños de nada\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/sentimos-o-culpables-duenos-carta-juan-carlos-solari-133571242",
+    "pubDate": "2026-08-26 06:45:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Роналду здійснив дитячу мрію новачка Реала",
     "link": "https://ua.korrespondent.net/sport/football/4906103-ronaldu-zdiisnyv-dytiachu-mriui-novachka-reala",
     "pubDate": "2026-08-26 06:42:00",
@@ -2034,11 +2241,29 @@
     "topic_match_probability": 65
   },
   {
+    "title": "\"Pesimismo en la sociedad\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/pesimismo-sociedad-carta-victoriano-sanchez-133605535",
+    "pubDate": "2026-08-26 06:30:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Росіяни вдарили по підприємству у Запоріжжі, виникла пожежа",
     "link": "https://ua.korrespondent.net/ukraine/4906152/",
     "pubDate": "2026-08-26 06:23:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540004.png\">Вибух пролунав близько 20:00 в Космічному районі міста. Ворог зпоцілив по території одного з підприємств.Також є влучання в автомобіль.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Impulsar les renovables\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/impulsar-definitivament-les-renovables-carta-antonio-yus-piazuelo-133605371",
+    "pubDate": "2026-08-26 06:15:51",
+    "category": "",
+    "description": "",
     "topic": "",
     "topic_match_probability": 0
   },
