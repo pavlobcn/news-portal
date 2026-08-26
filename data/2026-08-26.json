@@ -1,5 +1,221 @@
 [
   {
+    "title": "Una embarcación con unas 50 personas a bordo llega a Cala de los Dentoles, en Cartagena",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/embarcacion-50-personas-bordo-llega/133666228.shtml",
+    "pubDate": "2026-08-26 11:31:25",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una embarcación con unas 50 personas a bordo llega a Cala de los Dentoles, en Cartagena",
+    "link": "https://www.elperiodico.com/es/sociedad/20260826/embarcacion-50-personas-llega-cala-133666258",
+    "pubDate": "2026-08-26 11:31:24",
+    "category": "",
+    "description": "<h2>El desembarco se ha producido a primera hora de la mañana en el Parque Regional de Calblanque</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Julián Álvarez no se presenta al entrenamiento del Atlético por indisposición mientras el Barça solo piensa en él",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/julian-alvarez-presenta-entrenamiento-atletico-133664923",
+    "pubDate": "2026-08-26 11:30:07",
+    "category": "",
+    "description": "<h2>El delantero argentino, único aspiración azulgrana para reforzar su ataque, no acude a entrenar a seis días de que se cierre el mercado</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Juanma Lorente, abogado laboralista: \"No tienes que avisar a nadie de que estás grabando, puede ser secreto\"",
+    "link": "https://www.elperiodico.com/es/economia/20260826/juanma-lorente-abogado-laboralista-grabar-jefe-derechos-laborales-dv-132436283",
+    "pubDate": "2026-08-26 11:27:35",
+    "category": "",
+    "description": "<h2>Las grabaciones realizadas por el empleador o el empleado durante la jornada laboral pueden servir como prueba en un despido o en un proceso judicial</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/permiso-ausencia-laboral-4-dias-fuerza-mayor-dv-131144628\" target=\"_blank\">Ya puedes pedirlo: cómo funciona el nuevo permiso laboral de 4 días totalmente pagado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хакери атакують посадовців ЄС: у Брюсселі назвали головну загрозу",
+    "link": "https://ua.korrespondent.net/world/4906241-khakery-atakuuit-posadovtsiv-yes-u-bruisseli-nazvaly-holovnu-zahrozu",
+    "pubDate": "2026-08-26 11:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540166.jpg\">У Євросоюзі вперше офіційно визнали, що високопосадовці стали мішенями кібератак, які можуть бути пов’язані з іноземними урядами. Хакери намагалися отримати доступ до їхніх акаунтів у месенджерах.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las dos nuevas señales de tráfico que muchos conductores todavía desconocen",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/dos-nuevas-senales-trafico-conductores-todavia-desconocen-video/133665922.shtml",
+    "pubDate": "2026-08-26 11:26:40",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La investigación a Fernando Cerimedo, el exconsultor de Milei detenido por ordenar el asesinato de su novia, desvela su papel en el impulso de la ultraderecha en América Latina",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/investigacion-fernando-cerimedo-exconsultor-milei-detenido-plan-asesinar-novia-desvela-papel-impulso-ultraderecha-america-latina-133665968",
+    "pubDate": "2026-08-26 11:26:11",
+    "category": "",
+    "description": "<h2>El asesor político, que inició su trayectoria en 2018 de la mano de Jair Bolsonaro, ha dejado su huella en Brasil, Argentina, Perú, Chile, Bolivia y Honduras</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб підтвердив ураження НПЗ в Кстово",
+    "link": "https://ua.korrespondent.net/ukraine/4906240-henshtab-pidtverdyv-urazhennia-npz-v-kstovo",
+    "pubDate": "2026-08-26 11:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540167.jpg\">ТОВ Лукойл-Нижегороднефтеоргсинтез – одне з найбільших нафтопереробних підприємств РФ, що входить до групи Лукойл.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Egyptair, nuevo patrocinador del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/egyptair-nuevo-patrocinador-barca-133665147",
+    "pubDate": "2026-08-26 11:24:09",
+    "category": "",
+    "description": "<h2> Ambas entidades han firmado un acuerdo por 3 temporadas que tendrá efecto en el primer equipo de fútbol masculino, del equipo de baloncesto y del de balonmano </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Тепер утричі швидші: ЗМІ розповіли про роль Китаю у модернізації Шахедів",
+    "link": "https://ua.korrespondent.net/world/russia/4906237-teper-utrychi-shvydshi-zmi-rozpovily-pro-rol-kytaui-u-modernizatsii-shakhediv",
+    "pubDate": "2026-08-26 11:22:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540163.jpg\">Китайські компанії протягом тривалого часу постачають компоненти для іранських і російських \"шахедів\", а тепер їхні деталі використовують і в нових реактивних дронах РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La península ártica esconde la corteza terrestre más gruesa de Europa: 65 kilómetros",
+    "link": "https://www.elperiodico.com/es/tendencias21/20260826/peninsula-artica-esconde-corteza-terrestre-133665678",
+    "pubDate": "2026-08-26 11:17:45",
+    "category": "",
+    "description": "<h2>Un equipo internacional ha descubierto bajo el extremo norte de Noruega una corteza continental excepcionalmente gruesa sin las grandes montañas que normalmente delatan esa profundidad geológica </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Javier Bardem: \"Marruecos se siente más envalentonado que nunca para ejercer presión migratoria gracias al apoyo de Estados Unidos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260826/javier-bardem-marruecos-siente-envalentonado-presion-migratoria-ceuta-apoyo-estados-unidos-133665411",
+    "pubDate": "2026-08-26 11:12:53",
+    "category": "",
+    "description": "<h2>El actor reflexiona sobre la crisis humanitaria que atraviesa Ceuta y recupera la cuestión del Sáhara Occidental a propósito de 'El ser querido', la nueva película de Rodrigo Sorogoyen</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La saga 'Zodiac Academy' llega a España tras conquistar BookTok y vender 12 millones de ejemplares",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260826/saga-zodiac-academy-llega-espana-133650395",
+    "pubDate": "2026-08-26 11:11:58",
+    "category": "",
+    "description": "<h2 class=\"item\">La saga de las hermanas Caroline Peckham y Susanne Valenti aterrizan en el mercado nacional en uno de los lanzamientos más ambiciosos del año </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260824/fenomeno-boys-love-convierte-romances-entre-hombres-exito-editorial-132028379\" >El fenómeno 'boys' love' convierte los romances entre hombres en un éxito editorial</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido en Zaragoza por agredir sexualmente a su hija de dos años y compartir imágenes en Internet",
+    "link": "https://www.elperiodico.com/es/sucesos/20260826/detenido-zaragoza-agredir-sexualmente-hija-133665234",
+    "pubDate": "2026-08-26 11:10:40",
+    "category": "",
+    "description": "<h2>La operación se activó tras una alerta internacional sobre archivos alojados en la nube y permitió detener al presunto agresor, proteger a la menor e intervenir dispositivos con material de explotación sexual infantil en menos de 24 horas.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cómo un catering escolar se convirtió en un restaurante con estrella Michelín en el Pirineo aragonés",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260826/catering-escolar-convirtio-restaurante-estrella-133664925",
+    "pubDate": "2026-08-26 11:08:24",
+    "category": "",
+    "description": "<h2>El filme dirigido por Manuel García Gil sigue al chef Toño Rodríguez en su búsqueda de la excelencia en el mundo rural hasta llegar a la cima se estrena este miércoles</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un error de la Generalitat libra a Cabify y otras VTC de una multa de más de 500.000 euros",
+    "link": "https://www.elperiodico.com/es/videos/economia/error-generalitat-libra-cabify-vtc-multa-video/133664972.shtml",
+    "pubDate": "2026-08-26 11:05:38",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenido el presunto autor de la quema de unos contenedores de basura en Nou Barris",
+    "link": "https://www.elperiodico.com/es/barcelona/20260826/barcelona-quema-contenedores-prosperitat-detenido-133664733",
+    "pubDate": "2026-08-26 11:04:37",
+    "category": "",
+    "description": "<h2 class=\"item\">La Guardia Urbana lo ha arrestado tras incendiar dos contenedores en la calle Palamós, en cuyo entorno han ardido varios depósitos de residuos en los últimos días</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260824/detenido-incendios-127-contenedores-sarria-sant-gervasi-133616954\">Detenido por incendiar 127 contenedores en Barcelona: los daños rondan los 115.000 euros</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El día que Whitney Houston se rindió a los pies de Dolly Parton en los Grammy por su mayor éxito 'I will always love you': \"Esto es un verdadero honor\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260826/dolly-parton-whitney-houston-premios-grammy-dedicatoria-i-will-always-love-you-dv-133662686",
+    "pubDate": "2026-08-26 11:02:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La admiración de Houston por Parton se remonta a antes de aquel episodio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260825/muere-dolly-parton-80-anos-leyenda-musica-country-133653475\" >Muere Dolly Parton, la voz que llevó el country al mundo, a los 80 años</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260826/dolly-parton-de-que-murio-cancer-133660307\" >¿De qué ha muerto Dolly Parton? La reina del country llevaba meses arrastrando problemas de salud</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Норвегії урядове агентство третій день потерпає від кібератаки",
+    "link": "https://ua.korrespondent.net/world/4906232-u-norvehii-uriadove-ahentstvo-tretii-den-poterpaie-vid-kiberataky",
+    "pubDate": "2026-08-26 11:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540152.jpg\">Через цю атаку користувачі мають проблеми з входом в десятки урядових сервісів, такі як ID-porten, MinID, Altinn та E-innsyn.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Інсайди візиту глави ЦРУ в Москву: перші деталі",
+    "link": "https://ua.korrespondent.net/world/4906221-insaidy-vizytu-hlavy-tsru-v-moskvu-pershi-detali",
+    "pubDate": "2026-08-26 11:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540143.jpg\">Очільник ЦРУ здійснив рідкісний неоголошений візит до Москви. Джон Реткліфф має репутацію прихильника жорсткої лінії щодо Росії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Edin Terzic, el sustituto de Valverde que consultó a Flick para fichar por el Athletic",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/edin-terzic-sustituto-valverde-consulto-133652197",
+    "pubDate": "2026-08-26 11:00:45",
+    "category": "",
+    "description": "<h2>El entrenador alemán, de orígenes bosnios y croatas, ha asumido las riendas del club bilbaíno, rival del Barça este miércoles, sin más fichajes que la recuperación de varios cedidos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miguel Indurain (61 años), leyenda del ciclismo: \"Antes nos alimentábamos con bocadillos y pasteles durante las carreras\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/miguel-indurain-leyenda-ciclismo-bocadillos-pasteles-carreras-dv-et-133585356",
+    "pubDate": "2026-08-26 11:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">La dieta de los años noventa, las 'pájaras' y el control médico: el exciclista recuerda cómo se preparaba para ganar cinco Tours de Francia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260801/alberto-contador-exciclista-desayunos-competiciones-dv-132101227\">El exciclista Alberto Contador (43 años), habla de sus desayunos: “Tenía que salir con los depósitos a reventar. Me obligaba a comer”</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Долар і євро знову подешевшали в обмінниках",
+    "link": "https://ua.korrespondent.net/business/financial/4906229-dolar-i-yevro-znovu-podeshevshaly-v-obminnykakh",
+    "pubDate": "2026-08-26 11:00:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540142.jpg\">Середній курс продажу долара знизився до рівня 44,85 гривні, а курс продажу євро впав до 52,25 гривень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "$3000 за навчання і відстрочку: на Волині викрили доцента вишу",
+    "link": "https://ua.korrespondent.net/ukraine/4906225-3000-za-navchannia-i-vidstrochku-na-volyni-vykryly-dotsenta-vyshu",
+    "pubDate": "2026-08-26 10:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540139.jpg\">Викладач університету піймався на отриманні 3000 доларів, які вимагав за сприяння у вступі двох військовозобов’язаних на денну форму.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La checa Marketa Vondrousova recurre su sanción de cuatro años por dopaje después de sentirse \"asustada\"",
     "link": "https://www.elperiodico.com/es/deportes/20260826/checa-marketa-vondrousova-recurre-sancion-133664342",
     "pubDate": "2026-08-26 10:53:03",
@@ -7,6 +223,15 @@
     "description": "<h2>La campeón de Wimbledon en 2023 ha acudido al TAS después de no someterse a un control</h2>",
     "topic": "спорт",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Адам Кадиров отримав нову медаль",
+    "link": "https://ua.korrespondent.net/world/4906224-adam-kadyrov-otrymav-novu-medal",
+    "pubDate": "2026-08-26 10:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540138.png\">Медаль вручили за підсумками чемпіонату із тактичної стрільби серед силових підрозділів. Захід пройшов на базі Російського університету спецназу у Гудермесі.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Última hora de la muerte de Dolly Parton, en directo | Reacciones al fallecimiento de la cantante, funeral y homenaje de sus fans",
