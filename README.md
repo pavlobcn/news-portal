@@ -1,4 +1,4 @@
-# News for 2026-08-26 18:56
+# News for 2026-08-26 20:17
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
@@ -56,6 +56,10 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:02 [Mejorar la selección del profesorado](https://www.elperiodico.com/es/opinion/20260826/mejorar-seleccion-profesorado-educacion-editorial-133684761)<br>
+19:30 [Cuando doblar una camisa cuesta más que vencer a Usain Bolt: los retos de los robots humanoides](https://www.elperiodico.com/es/internacional/20260826/olimpiadas-robots-china-doblar-camisa-cuesta-mas-vencer-usain-bolt-retos-robots-humanoides-133684391)<br>
+19:16 [El retroceso de los glaciares podría facilitar la propagación de enfermedades entre las abejas](https://www.elperiodico.com/es/tendencias21/20260826/retroceso-glaciares-facilitar-propagacion-enfermedades-133684140)<br>
+19:13 [La grave enfermedad que cambió la vida de Tim Curry y marcó sus últimos años antes de morir a los 80](https://www.elperiodico.com/es/ocio-y-cultura/20260826/grave-enfermedad-tim-curry-ictus-derrame-cerebral-ultimos-anos-muerte-80-133681857)<br>
 18:51 [Adiós a Tim Curry, el ‘mad doctor’ queer de ‘The Rocky horror picture show’ y el payaso de ‘It’](https://www.elperiodico.com/es/ocio-y-cultura/20260826/adios-tim-curry-mad-doctor-133683216)<br>
 18:39 [Cesc Gay regresa a '53 domingos': "Entre hermanos he visto batallas campales que no me podía creer"](https://www.elperiodico.com/es/ocio-y-cultura/20260826/53-domingos-obra-cesc-gay-teatre-condal-133675127)<br>
 18:11 [La economía de Estados Unidos sortea el golpe de la guerra de Irán y crece un 1,5% en el segundo trimestre](https://www.elperiodico.com/es/economia/20260826/economia-estados-unidos-sortea-golpe-133682264)<br>
