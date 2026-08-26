@@ -1,8 +1,13 @@
-# News for 2026-08-26 10:54
+# News for 2026-08-26 11:34
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
 ## ua.korrespondent.net
+11:26 [Генштаб підтвердив ураження НПЗ в Кстово](https://ua.korrespondent.net/ukraine/4906240-henshtab-pidtverdyv-urazhennia-npz-v-kstovo)<br>
+11:22 [Тепер утричі швидші: ЗМІ розповіли про роль Китаю у модернізації Шахедів](https://ua.korrespondent.net/world/russia/4906237-teper-utrychi-shvydshi-zmi-rozpovily-pro-rol-kytaui-u-modernizatsii-shakhediv)<br>
+11:01 [У Норвегії урядове агентство третій день потерпає від кібератаки](https://ua.korrespondent.net/world/4906232-u-norvehii-uriadove-ahentstvo-tretii-den-poterpaie-vid-kiberataky)<br>
+11:00 [Долар і євро знову подешевшали в обмінниках](https://ua.korrespondent.net/business/financial/4906229-dolar-i-yevro-znovu-podeshevshaly-v-obminnykakh)<br>
+10:53 [Адам Кадиров отримав нову медаль](https://ua.korrespondent.net/world/4906224-adam-kadyrov-otrymav-novu-medal)<br>
 10:35 [Гігантський космодром SpaceX за $100 млрд з’явиться в Луїзіані](https://ua.korrespondent.net/tech/space/4906203-hihantskyi-kosmodrom-SpaceX-za-100-mlrd-ziavytsia-v-luiziani)<br>
 10:09 [Гілларі Клінтон уже "планує" похорон 80-річного Білла](https://ua.korrespondent.net/lifestyle/4906197-hillari-klinton-uzhe-planuie-pokhoron-80-richnoho-billa)<br>
 09:58 ["Аналог Starlink" Путіна дає збій: ще два супутники почали падати](https://ua.korrespondent.net/world/russia/4906205-analoh-Starlink-putina-daie-zbii-sche-dva-suputnyky-pochaly-padaty)<br>
@@ -24,6 +29,14 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+11:31 [Una embarcación con unas 50 personas a bordo llega a Cala de los Dentoles, en Cartagena](https://www.elperiodico.com/es/videos/sociedad/embarcacion-50-personas-bordo-llega/133666228.shtml)<br>
+11:31 [Una embarcación con unas 50 personas a bordo llega a Cala de los Dentoles, en Cartagena](https://www.elperiodico.com/es/sociedad/20260826/embarcacion-50-personas-llega-cala-133666258)<br>
+11:27 [Juanma Lorente, abogado laboralista: "No tienes que avisar a nadie de que estás grabando, puede ser secreto"](https://www.elperiodico.com/es/economia/20260826/juanma-lorente-abogado-laboralista-grabar-jefe-derechos-laborales-dv-132436283)<br>
+11:17 [La península ártica esconde la corteza terrestre más gruesa de Europa: 65 kilómetros](https://www.elperiodico.com/es/tendencias21/20260826/peninsula-artica-esconde-corteza-terrestre-133665678)<br>
+11:11 [La saga 'Zodiac Academy' llega a España tras conquistar BookTok y vender 12 millones de ejemplares](https://www.elperiodico.com/es/ocio-y-cultura/20260826/saga-zodiac-academy-llega-espana-133650395)<br>
+11:10 [Detenido en Zaragoza por agredir sexualmente a su hija de dos años y compartir imágenes en Internet](https://www.elperiodico.com/es/sucesos/20260826/detenido-zaragoza-agredir-sexualmente-hija-133665234)<br>
+11:05 [Un error de la Generalitat libra a Cabify y otras VTC de una multa de más de 500.000 euros](https://www.elperiodico.com/es/videos/economia/error-generalitat-libra-cabify-vtc-multa-video/133664972.shtml)<br>
+11:04 [Detenido el presunto autor de la quema de unos contenedores de basura en Nou Barris](https://www.elperiodico.com/es/barcelona/20260826/barcelona-quema-contenedores-prosperitat-detenido-133664733)<br>
 10:42 [¿Qué es un meteotsunami? Así se desata el extraño fenómeno que ha sorprendido a Xàbia, Santa Pola y otros puntos de la costa valenciana](https://www.elperiodico.com/es/tiempo/20260826/meteotsunami-que-es-dv-13451415)<br>
 10:34 [Récord de muertes por calor extremo en España: 5.000 fallecidos hasta el 24 de agosto](https://www.elperiodico.com/es/medio-ambiente/20260826/record-muertes-calor-extremo-espana-133664078)<br>
 10:11 [Al menos 15 bebés mueren en un incendio en un hospital de Pakistán](https://www.elperiodico.com/es/videos/internacional/15-bebes-mueren-incendio-hospital-pakistan/133663193.shtml)<br>
