@@ -1,4 +1,4 @@
-# News for 2026-08-26 18:00
+# News for 2026-08-26 18:56
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
@@ -56,6 +56,12 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:51 [Adiós a Tim Curry, el ‘mad doctor’ queer de ‘The Rocky horror picture show’ y el payaso de ‘It’](https://www.elperiodico.com/es/ocio-y-cultura/20260826/adios-tim-curry-mad-doctor-133683216)<br>
+18:39 [Cesc Gay regresa a '53 domingos': "Entre hermanos he visto batallas campales que no me podía creer"](https://www.elperiodico.com/es/ocio-y-cultura/20260826/53-domingos-obra-cesc-gay-teatre-condal-133675127)<br>
+18:11 [La economía de Estados Unidos sortea el golpe de la guerra de Irán y crece un 1,5% en el segundo trimestre](https://www.elperiodico.com/es/economia/20260826/economia-estados-unidos-sortea-golpe-133682264)<br>
+18:10 [La zona afectada por la riada mortal de Nepal, un paso clave de peregrinos hacia santuarios a más de 4.000 metros](https://www.elperiodico.com/es/internacional/20260826/zona-afecta-riada-nepal-rasuwa-paso-clave-peregrinos-santuarios-4000-metros-altura-133682211)<br>
+18:10 [El último gran capricho de Mark Zuckerberg: un espectacular castillo neogótico en Irlanda](https://www.elperiodico.com/es/gente/20260826/mark-zuckerberg-castillo-strancally-irlanda-waterford-dv-133537727)<br>
+18:09 [Muere a los 80 años Tim Curry, protagonista de 'It' y ''The Rocky Horror Picture Show'](https://www.elperiodico.com/es/ocio-y-cultura/20260826/muere-80-anos-tim-curry-133681888)<br>
 17:40 [Las inundaciones en Nepal dejan casi un centenar de fallecidos y cientos de desaparecidos](https://www.elperiodico.com/es/videos/internacional/inundaciones-nepal-dejan-centenar-fallecidos/133680929.shtml)<br>
 17:33 [El Museo del Transporte de Barcelona se estanca tras un nuevo recurso de los promotores contra su ubicación](https://www.elperiodico.com/es/barcelona/20260826/museo-transporte-barcelona-estanca-recurso-promotores-ubicacion-133662312)<br>
 17:30 [La advertencia de la NASA tras su último hallazgo: los microbios humanos de los astronautas pueden "contaminar" la Luna](https://www.elperiodico.com/es/ciencia/20260826/advertencia-nasa-hallazgo-microbios-humanos-contaminar-luna-dv-133549999)<br>
