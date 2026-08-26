@@ -1,11 +1,128 @@
 [
   {
+    "title": "Аталанта продасть Челсі талановитого захисника",
+    "link": "https://ua.korrespondent.net/sport/football/4906438-atalanta-prodast-chelsi-talanovytoho-zakhysnyka",
+    "pubDate": "2026-08-26 21:06:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540602.jpg\">Лондонський клуб має намір придбати італійського захисника за орієнтовну суму 40 млн євро.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні стався землетрус",
+    "link": "https://ua.korrespondent.net/ukraine/4906436-v-ukraini-stavsia-zemletrus",
+    "pubDate": "2026-08-26 21:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540620.jpg\">На Закарпатті зареєстрували землетрус магнітудою 1,7 на глибині 7 км. Його класифікували як невідчутний.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 27 de agosto: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260826/horoscopo-hoy-jueves-27-agosto-dv-133481306",
+    "pubDate": "2026-08-26 21:00:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez lanza a los ministros contra Robles por su versión sobre la alerta del CNI en Ceuta: \"Nadie la entiende\"",
+    "link": "https://www.elperiodico.com/es/politica/20260826/sanchez-ministros-robles-cni-ceuta-133682681",
+    "pubDate": "2026-08-26 21:00:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Moncloa contradice a la titular de Defensa y niega que haya habido informes de inteligencia “ni escritos ni verbales” anticipando la entrada masiva de inmigrantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260826/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "LaLiga EA Sports: Real Madrid - Real Sociedad, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/laliga-ea-sports-real-madrid-133685955",
+    "pubDate": "2026-08-26 20:55:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una treintena de personas guarda un minuto de silencio por las dos víctimas de Roda de Berà.",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/treintena-personas-guarda-minuto-silencio/133686183.shtml",
+    "pubDate": "2026-08-26 20:48:39",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Останній НПЗ Лукойлу зупинив переробку нафти - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4906432-ostannii-npz-lukoilu-zupynyv-pererobku-nafty-zmi",
+    "pubDate": "2026-08-26 20:46:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540603.jpg\">NORSI є четвертим за величиною нафтопереробним заводом РФ і другим за обсягами виробництва бензину.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "13 прильотів. Потужний ракетний удар по Донецьку",
+    "link": "https://ua.korrespondent.net/ukraine/4906430-13-prylotiv-potuzhnyi-raketnyi-udar-po-donetsku",
+    "pubDate": "2026-08-26 20:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540604.jpg\">У тимчасово окупованому Донецьку фіксують ракетні удари в декількох районах міста. Найбільше прильотів було в будівлю на проспекті Ілліча.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Wawrinka recibe a sus 41 años una invitación para jugar el Open USA",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/wawrinka-recibe-41-anos-invitacion-133685850",
+    "pubDate": "2026-08-26 20:35:49",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Así es el robot humanoide de Toyota que juega al baloncesto",
+    "link": "https://www.elperiodico.com/es/motor/20260826/nuevo-robot-humanoide-toyota-juega-baloncesto-133662681",
+    "pubDate": "2026-08-26 20:30:19",
+    "category": "",
+    "description": "<h2>La séptima generación del proyecto CUE sorprende en la pista con desplazamientos fluidos y bote de balón, gracias al desarrollo de nuevas tecnologías de inteligencia artificial</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Форвард Челсі перестрахувався двома контрактами",
+    "link": "https://ua.korrespondent.net/sport/football/4906428-forvard-chelsi-perestrakhuvavsia-dvoma-kontraktamy",
+    "pubDate": "2026-08-26 20:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540560.jpg\">Сенегальський нападник погодив два особисті контракти з двома клубами, передбачаючи свій відхід із лондонської команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Канаді літак протаранив машини під час аварійної посадки на шосе",
+    "link": "https://ua.korrespondent.net/world/4906426-u-kanadi-litak-protaranyv-mashyny-pid-chas-avariinoi-posadky-na-shose",
+    "pubDate": "2026-08-26 20:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540585.png\">Під час посадки двомоторний літак зіткнувся з чотирма автомобілями. Внаслідок інциденту загинула жінка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Sánchez presidirá este viernes la reunión extraordinaria del Comité de Seguimiento sobre la crisis migratoria en Ceuta",
     "link": "https://www.elperiodico.com/es/politica/20260826/sanchez-presidira-viernes-reunion-extraordinaria-133685611",
     "pubDate": "2026-08-26 20:14:43",
     "category": "",
     "description": "<h2>Torres ha señalado que durante la reunión se ha compartido un objetivo común: lograr que \"retornen todas las personas que se quedaron en Ceuta a partir del día 31\"</h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Renault оновила електричний 5 E-Tech",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4906423-Renault-onovyla-elektrychnyi-5-E-Tech",
+    "pubDate": "2026-08-26 20:13:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540573.jpg\">Компактний електромобіль Renault 5 E-Tech отримав технічне оновлення. Запас ходу окремих модифікацій зріс до 430 км, а найдоступніший варіант тепер отримав 110-сильний мотор і швидку зарядку постійним струмом потужністю 80 кВт.",
+    "topic": "автомобілі",
     "topic_match_probability": 100
   },
   {
@@ -18,11 +135,29 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Новачок АПЛ планує посилення двома найсильнішими гравцями",
+    "link": "https://ua.korrespondent.net/sport/football/4906421-novachok-apl-planuie-posylennia-dvoma-naisylnishymy-hravtsiamy",
+    "pubDate": "2026-08-26 20:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540526.jpg\">На прицілі у \"чорних котів\" фланговий атакувальний хавбек із Манчестер Сіті і нападник із Марселя.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Mejorar la selección del profesorado",
     "link": "https://www.elperiodico.com/es/opinion/20260826/mejorar-seleccion-profesorado-educacion-editorial-133684761",
     "pubDate": "2026-08-26 20:02:28",
     "category": "",
     "description": "<h2> No basta con dominar una materia si después hay que enseñarla en aulas diversas, evaluar competencias y atender distintas necesidades de aprendizaje</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Apple назвала дату презентації iPhone 18",
+    "link": "https://ua.korrespondent.net/tech/technews/4906419-Apple-nazvala-datu-prezentatsii-iPhone-18",
+    "pubDate": "2026-08-26 20:01:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540571.jpg\">Захід Apple відбудеться 9 вересня. Очікується, що будуть представлені iPhone 18 Pro та iPhone 18 Pro Max, нові Apple Watch, пристрої для розумного дому, а головною новинкою має стати довгоочікуваний складний iPhone.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -34,6 +169,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540562.jpg\">Москва розглядає можливість активізації ударів балістичними ракетами по Києву, а також по інфраструктурних об'єктах в інших містах.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Очільниця МКС пообіцяла протистояти тиску США після санкцій",
+    "link": "https://ua.korrespondent.net/world/4906415-ochilnytsia-mks-poobitsiala-protystoiaty-tysku-ssha-pislia-sanktsii",
+    "pubDate": "2026-08-26 19:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540561.jpg\">Голова Міжнародного кримінального суду Томоко Акане заявила, що не має наміру піддаватися тиску Вашингтона після запровадження проти неї американських санкцій.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Esta es la mesa extensible de IKEA que se ha convertido en un básico para los pisos pequeños",
@@ -52,6 +196,15 @@
     "description": "<h2 style=\"text-align: justify;\">Se extiende un negocio de paso de dinero físico por la frontera desde Marruecos para los extranjeros instalados en la ciudad</h2>",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Удар по економіці: Україна переглядає прогноз зростання ВВП",
+    "link": "https://ua.korrespondent.net/business/economics/4906413-udar-po-ekonomitsi-ukraina-perehliadaie-prohnoz-zrostannia-vvp",
+    "pubDate": "2026-08-26 19:40:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540552.jpg\">Через російські обстріли, пошкодження енергетики та проблеми з експортом економічні перспективи України погіршилися. У Мінекономіки очікують значно слабшого зростання ВВП у 2026 році.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Carlos Latre y Yolanda Marcos se separan tras 22 años de matrimonio, una hija en común y un éxito profesional compartido",
@@ -99,6 +252,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "У США біля Капітолія затримали чоловіка з гільйотиною",
+    "link": "https://ua.korrespondent.net/world/4906409-u-ssha-bilia-kapitoliia-zatrymaly-cholovika-z-hiliotynoui",
+    "pubDate": "2026-08-26 19:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540542.jpg\">Біля Капітолія та Верховного суду США поліція затримала 35-річного чоловіка, який привіз у кузові пікапа гільйотину реального розміру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los hijos del matrimonio de Valencia estaban en la planta superior cuando sus padres fallecieron",
+    "link": "https://www.elperiodico.com/es/sucesos/20260826/hijos-matrimonio-valencia-estaban-planta-133683666",
+    "pubDate": "2026-08-26 19:01:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Al echarlos en falta los buscaron por toda la casa y al final los encontraron en la planta baja junto al jacuzzi</h2><h2 class=\"item\">Los cuerpos del matrimonio, de 45 y 50 años, no presentaban signos externos de violencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "\"Nos vemos en la carretera\": así ha anunciado Xiaomi que traerá sus coches eléctricos a Europa en 2027",
     "link": "https://www.elperiodico.com/es/motor/20260826/confirmado-xiaomi-traera-coches-electricos-europa-133681456",
     "pubDate": "2026-08-26 18:58:36",
@@ -106,6 +277,24 @@
     "description": "<h2>El anuncio ha llegado a través de un sencillo mensaje en Twitter/X, que también ha compartido el CEO y fundador de la marca Lei Jun.</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Смертельна повінь у Непалі: МЗС розшукує українців",
+    "link": "https://ua.korrespondent.net/world/4906407-smertelna-povin-u-nepali-mzs-rozshukuie-ukraintsiv",
+    "pubDate": "2026-08-26 18:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540527.jpg\">Офіційно підтвердженої інформації про загибель громадян України немає. Водночас до МЗС надійшли два звернення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Помер британський актор Тім Каррі",
+    "link": "https://ua.korrespondent.net/lifestyle/4906393-pomer-brytanskyi-aktor-tim-karri",
+    "pubDate": "2026-08-26 18:57:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540501.jpg\">Його ім'я назавжди залишилося в історії завдяки винятковій харизмі і оксамитовому голосу.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Adiós a Tim Curry, el ‘mad doctor’ queer de ‘The Rocky horror picture show’ y el payaso de ‘It’",
@@ -151,6 +340,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540508.jpg\">Естонська Wolfram Europa інвестує €200 млн у будівництво оборонного заводу біля Єкабпілса. Підприємство планують запустити вже у 2027 році.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "ПСЖ серйозно налаштований утримати Дембеле в складі команди якнайдовше",
+    "link": "https://ua.korrespondent.net/sport/football/4906402-pszh-seriozno-nalashtovanyi-utrymaty-dembele-v-skladi-komandy-yaknaidovshe",
+    "pubDate": "2026-08-26 18:36:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540482.jpg\">Французький клуб і французький гравець знайшли спільні точки дотику у питанні співпраці.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "El Barça no organizará como club ningún acto político o institucional de \"exaltación\" de la estelada en el Camp Nou",
