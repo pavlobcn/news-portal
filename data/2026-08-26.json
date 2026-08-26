@@ -1,5 +1,212 @@
 [
   {
+    "title": "У DeepState оцінили поточну ситуацію на Донеччині",
+    "link": "https://ua.korrespondent.net/ukraine/4906391-u-DeepState-otsinyly-potochnu-sytuatsiui-na-donechchyni",
+    "pubDate": "2026-08-26 17:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540472.jpg\">Ворог готує підгрунтя для розвитку наступальних дій на Слов’янськ і Краматорськ – йде знищення міст та агломерації постійними обстрілами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський провів безпекову нараду на Запоріжжі",
+    "link": "https://ua.korrespondent.net/ukraine/4906389-zelenskyi-proviv-bezpekovu-naradu-na-zaporizhzhi",
+    "pubDate": "2026-08-26 17:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540473.jpeg\">Глава держави доручив посилити захист Запоріжжя і області, а також тих напрямків, від яких залежать і інші міста й громади.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los centros de datos, en alerta por la criba del Gobierno: temen la ‘huida’ de inversiones millonarias ya planeadas por las nuevas exigencias verdes",
+    "link": "https://www.elperiodico.com/es/economia/20260826/centros-datos-criba-gobierno-huida-inversiones-espana-133681434",
+    "pubDate": "2026-08-26 17:44:47",
+    "category": "",
+    "description": "<h2 class=\"item\">“España tiene una oportunidad extraordinaria para consolidarse como uno de los grandes polos digitales de Europa y cualquier nuevo marco regulatorio debe contribuir a aprovecharla, no ponerla en riesgo”, destaca la patronal tecnológica Spain DC</h2><h2 class=\"item\">El Ejecutivo prepara un decreto para obligar a que el 80% del consumo eléctrico de las los nuevos centros sea renovable, reducir el gasto de luz y de agua, y blindar la soberanía de los datos que manejan frente a terceros países</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Ліверпуль переслідують невдачі на трансферному ринку вінгерів",
+    "link": "https://ua.korrespondent.net/sport/football/4906387-liverpul-peresliduuit-nevdachi-na-transfernomu-rynku-vinheriv",
+    "pubDate": "2026-08-26 17:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540462.jpg\">Спроба ливерпульського клубу придбати вінгера знову завершилася невдачею, навіть 50 млн фунтів, запропоновані за вподобаного кандидата, не допомогли.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las inundaciones en Nepal dejan casi un centenar de fallecidos y cientos de desaparecidos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/inundaciones-nepal-dejan-centenar-fallecidos/133680929.shtml",
+    "pubDate": "2026-08-26 17:40:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pepe Blanco, Alfonso Alonso o Cristóbal Montoro: los políticos que saltaron al 'lobbying'",
+    "link": "https://www.elperiodico.com/es/economia/20260826/pepe-blanco-alfonso-alonso-o-133681217",
+    "pubDate": "2026-08-26 17:39:59",
+    "category": "",
+    "description": "<h2>Tras la nueva ley de 'lobbies' aprobada por el Gobierno, que prohíbe a los ex altos cargos públicos realizar estas actividades hasta dos años después de haber sido cesados, la lista de ex ministros y altos cargos que siguieron su carrera en los Asuntos Públicos vuelve a la actualidad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні знизились офіційні курси долара і євро",
+    "link": "https://ua.korrespondent.net/business/financial/4906385-v-ukraini-znyzylys-ofitsiini-kursy-dolara-i-yevro",
+    "pubDate": "2026-08-26 17:37:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540471.jpg\">На міжбанку американська валюта знизилась і завершила торги на рівні 44,57-44,60 грн/долар купівля-продаж.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гороскоп на 27 серпня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4906364-horoskop-na-27-serpnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-08-26 17:35:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540436.jpg\">Цього дня будуть чимало випадковостей та доленосних рішень. А ще слід знаходити час на відпочинок чи хобі, які вас можуть надихнути на нові справи.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Museo del Transporte de Barcelona se estanca tras un nuevo recurso de los promotores contra su ubicación",
+    "link": "https://www.elperiodico.com/es/barcelona/20260826/museo-transporte-barcelona-estanca-recurso-promotores-ubicacion-133662312",
+    "pubDate": "2026-08-26 17:33:11",
+    "category": "",
+    "description": "<h2>La asociación que lo promueve ha alegado para que se revise la concesión de lugar que pedía, el recinto ferial de Montjuïc</h2><h2>Mientras el consistorio propone instalarlo en la Vall d'Hebron, los promotores insisten en el emplazamiento de Fira de Barcelona</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260123/propuesta-museo-transporte-vall-hebron-irrita-promotores-no-convence-oposicion-barcelona-125974833\" target=\"_blank\">La propuesta de Museo del Transporte en Vall d’Hebron que irrita a sus promotores no convence a la oposición de Barcelona</a></h2><h2>CARPETAZO | <a href=\"https://www.elperiodico.com/es/barcelona/20260517/barcelona-descarta-museo-transporte-fira-pese-aprobarlo-pleno-130257599\" >Barcelona da carpetazo al Museo del Transporte en la Fira pese a aprobarlo en el pleno por unanimidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Українські експерти консультують НАТО щодо протидії дронам",
+    "link": "https://ua.korrespondent.net/ukraine/4906383-ukrainski-eksperty-konsultuuit-nato-schodo-protydii-dronam",
+    "pubDate": "2026-08-26 17:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540461.png\">Українські фахівці JATEC консультували навчання НАТО в Латвії з відбиття атак безпілотників.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Michael Rubin: los estrechos vínculos con Marruecos del 'neocon' que ha pedido a Rabat una \"Marcha Verde\" sobre Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/michael-rubin-quien-es-middle-east-forum-vinculos-marruecos-ideologo-guerra-irak-relacion-israel-133680862",
+    "pubDate": "2026-08-26 17:30:40",
+    "category": "",
+    "description": "<h2>El analista estadounidense del Middle East Forum fue también uno de los ideólogos de la guerra de Irak y está muy ligado al ecosistema proisraelí en Washington</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La advertencia de la NASA tras su último hallazgo: los microbios humanos de los astronautas pueden \"contaminar\" la Luna",
+    "link": "https://www.elperiodico.com/es/ciencia/20260826/advertencia-nasa-hallazgo-microbios-humanos-contaminar-luna-dv-133549999",
+    "pubDate": "2026-08-26 17:30:00",
+    "category": "",
+    "description": "<h2>El estudio señala que bacterias transportados involuntariamente por los astronautas podrían permanecer vivos en algunas zonas del Polo Sur lunar</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El británico Brennan se lleva a lo grande la etapa catalana de la Vuelta",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/britanico-brennan-lleva-grande-etapa-133677356",
+    "pubDate": "2026-08-26 17:26:17",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Quién heredará la fortuna de Dolly Parton? El misterio de los 450 millones que la artista llevaba años preparando?",
+    "link": "https://www.elperiodico.com/es/videos/internacional/heredara-fortuna-dolly-parton-misterio/133680697.shtml",
+    "pubDate": "2026-08-26 17:26:06",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Y Hungría se quedó sin periódicos de papel",
+    "link": "https://www.elperiodico.com/es/opinion/20260826/hungria-quedo-periodicos-papel-articulo-adam-casals-133680238",
+    "pubDate": "2026-08-26 17:25:46",
+    "category": "",
+    "description": "<h2>A pesar de Hungría, hay futuro para la gran prensa europea, con letras y contenidos que fomentan el debate, y que merece la pena leer</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Apple lanza el Mac mini con chips M6 y M5 Pro: hasta cuatro veces más rápido en tareas de inteligencia artificial",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260826/apple-lanza-mac-mini-precio-133679892",
+    "pubDate": "2026-08-26 17:24:50",
+    "category": "",
+    "description": "<h2>El nuevo ordenador de sobremesa ultracompacto llega con Wi‑Fi 7, Bluetooth 6, Ethernet de 2,5 Gb y macOS 27 con Siri AI; ya se puede reservar y llegará a las tiendas el 22 de septiembre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Tomatina tiñe Buñol de rojo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/tomatina-tine-bunol-rojo/133680592.shtml",
+    "pubDate": "2026-08-26 17:20:43",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Trump afirma que Mojtaba Jamenei está vivo, pero herido de gravedad",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/trump-afirma-mojtaba-jamenei-vivo-133680324",
+    "pubDate": "2026-08-26 17:14:48",
+    "category": "",
+    "description": "<h2>El presidente estadounidense asegura que \"la parte izquierda de su cuerpo --el brazo, la pierna, todo ese lado-- está gravemente herida, pero no creo que haya muerto, y si lo está, disimulan de maravilla\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Tiempo en Catalunya mañana jueves: una borrasca aumenta la inestabilidad con más nubes en la costa y activa avisos por fuerte viento",
+    "link": "https://www.elperiodico.com/es/tiempo/20260826/tiempo-cataluna-jueves-27-agosto-borrasca-viento-dv-loc-133677725",
+    "pubDate": "2026-08-26 17:12:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Las temperaturas máximas subirán hasta alcanzar los 32 grados en el litoral y entre 34 y 36 grados en el interior</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп прокоментував візит директора ЦРУ до Москви",
+    "link": "https://ua.korrespondent.net/world/4906379-tramp-prokomentuvav-vizyt-dyrektora-tsru-do-moskvy",
+    "pubDate": "2026-08-26 17:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540456.jpg\">США \"дуже наполегливо працюють\" над припиненням війни в Україні, запевнив американський лідер.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "En la barra del Nick Havanna",
+    "link": "https://www.elperiodico.com/es/opinion/20260826/barra-nick-havanna-articulo-alex-salmon-133679618",
+    "pubDate": "2026-08-26 17:07:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "VÍDEO | Así son los espectaculares derribos para la remodelación de la Fira de Montjuïc",
+    "link": "https://www.elperiodico.com/es/barcelona/20260826/video-son-espectaculares-derribos-remodelacion-fira-montjuic-133678405",
+    "pubDate": "2026-08-26 17:05:06",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20251229/barcelona-montjuic-obras-fira-pabellones-calles-viviendas-125198764\" target=\"_blank\">Montjuïc afronta el inicio de su gran transformación en 2026 con cuatro proyectos de obras</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ двічі вдарила по бізнес-центру у Лозовій: 10 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4906377-rf-dvichi-vdaryla-po-biznes-tsentru-u-lozovii-10-poranenykh",
+    "pubDate": "2026-08-26 17:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540447.jpg\">Росіяни вдарили у робочий час і по місцю, де розташовані магазини, медичні та соціальні заклади.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Келлог розповів, чому Путін перестав \"боятися\" його візитів в Україну",
     "link": "https://ua.korrespondent.net/ukraine/4906373-kelloh-rozpoviv-chomu-putin-perestav-boiatysia-yoho-vizytiv-v-ukrainu",
     "pubDate": "2026-08-26 16:57:00",
@@ -7,6 +214,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540445.jpg\">Кіта Келлога в Україні жартома називали \"ППО\", адже під час його попередніх візитів РФ зазвичай не завдавала ударів. Однак цього разу Росія продовжила атаки.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Челсі вирішує питання щодо придбання голкіпера Астон Вілли",
+    "link": "https://ua.korrespondent.net/sport/football/4906374-chelsi-vyrishuie-pytannia-schodo-prydbannia-holkipera-aston-villy",
+    "pubDate": "2026-08-26 16:56:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540424.jpg\">Лондонський клуб розглядає пропозицію, отриману від агентів гравця, щодо прийняття футболіста до складу команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Meta виплатить до $16,68 млрд через позов про залежність від соцмереж",
@@ -392,6 +608,15 @@
     "pubDate": "2026-08-26 15:23:19",
     "category": "",
     "description": "<h2 class=\"item\">El ingeniero ha desarrollado un portal de ilustraciones con la ayuda de la inteligencia artificial</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/oci-i-cultura/20260810/catalunya-cultura-estudia-impulsar-compania-nacional-teatro-133229202\">Catalunya estudia impulsar una compañía nacional de teatro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vucevic: “Siempre me ha fascinado el Madrid”",
+    "link": "https://as.com/baloncesto/euroliga/vucevic-siempre-me-ha-fascinado-el-madrid-f202608-n/",
+    "pubDate": "2026-08-26 15:20:52",
+    "category": "Baloncesto",
+    "description": "El pívot (35 años y 2,06 m) concedió una entrevista a Sport Klub en el que reveló los tres equipos que habría elegido si no hubiera jugado en la NBA.",
     "topic": "",
     "topic_match_probability": 0
   },
