@@ -1,8 +1,9 @@
-# News for 2026-08-26 07:27
+# News for 2026-08-26 08:02
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
 ## ua.korrespondent.net
+07:45 [Сили ППО знешкодили 134 зі 160 дронів РФ](https://ua.korrespondent.net/ukraine/4906160-syly-ppo-zneshkodyly-134-zi-160-droniv-rf)<br>
 07:16 [РФ атакувала Чернігів, загинули жінка та 4-річна дитина](https://ua.korrespondent.net/ukraine/4906154-rf-atakuvala-chernihiv-zahynuly-zhinka-ta-4-richna-dytyna)<br>
 06:50 [Генштаб підрахував нові втрати РФ у війні](https://ua.korrespondent.net/ukraine/4906156-henshtab-pidrakhuvav-novi-vtraty-rf-u-viini)<br>
 06:23 [Росіяни вдарили по підприємству у Запоріжжі, виникла пожежа](https://ua.korrespondent.net/ukraine/4906152/)<br>
@@ -11,7 +12,13 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 02:42 [Дрони повторно атакували ключовий хаб Wildberries](https://ua.korrespondent.net/world/russia/4906135-drony-povtorno-atakuvaly-kluichovyi-khab-Wildberries)<br>
 00:31 [Дрон РФ ударив по Харкову: спалахнула пожежа](https://ua.korrespondent.net/city/kharkov/4906129-dron-rf-udaryv-po-kharkovu-spalakhnula-pozhezha)<br>
 
+## as.com
+07:37 [De una Supercopa a otra](https://as.com/baloncesto/euroliga/de-una-supercopa-a-otra-f202608-n/)<br>
+07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
+
 ## www.elperiodico.com
+07:59 [¿De qué ha muerto Dolly Parton? La reina del country llevaba meses arrastrando problemas de salud](https://www.elperiodico.com/es/gente/20260826/dolly-parton-de-que-murio-cancer-133660307)<br>
+07:30 [Emilio (28 años) vive solo en un contenedor perdido en la montaña: "Es la trampa que nos han hecho hoy en día: parece que necesites un montón de dinero, pero no es así. Yo estoy viviendo por 10 o 20 euros al mes"](https://www.elperiodico.com/es/economia/20260826/emilio-vive-contenedor-reformado-montana-ahorro-luz-agua-dv-et-133458689)<br>
 07:01 [La editorial Pre-Textos celebra medio siglo de vida desafiando la dictadura y el centralismo madrileño](https://www.elperiodico.com/es/ocio-y-cultura/20260826/editorial-pre-textos-celebra-medio-133610017)<br>
 06:50 [El incendio en Collserola, en directo: última hora del incendio que mantiene confinados a dos barrios de Barcelona](https://www.elperiodico.com/es/barcelona/20260826/incendio-collserola-directo-ultima-hora-fuego-barcelona-133659752)<br>
 06:01 [Reforzar la lucha contra el narcotráfico](https://www.elperiodico.com/es/opinion/20260826/reforzar-lucha-narcotrafico-editorial-133653038)<br>
