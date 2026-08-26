@@ -1,8 +1,15 @@
-# News for 2026-08-26 20:17
+# News for 2026-08-26 21:08
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
 ## ua.korrespondent.net
+21:01 [В Україні стався землетрус](https://ua.korrespondent.net/ukraine/4906436-v-ukraini-stavsia-zemletrus)<br>
+20:46 [Останній НПЗ Лукойлу зупинив переробку нафти - ЗМІ](https://ua.korrespondent.net/world/russia/4906432-ostannii-npz-lukoilu-zupynyv-pererobku-nafty-zmi)<br>
+20:25 [У Канаді літак протаранив машини під час аварійної посадки на шосе](https://ua.korrespondent.net/world/4906426-u-kanadi-litak-protaranyv-mashyny-pid-chas-avariinoi-posadky-na-shose)<br>
+20:01 [Apple назвала дату презентації iPhone 18](https://ua.korrespondent.net/tech/technews/4906419-Apple-nazvala-datu-prezentatsii-iPhone-18)<br>
+19:12 [У США біля Капітолія затримали чоловіка з гільйотиною](https://ua.korrespondent.net/world/4906409-u-ssha-bilia-kapitoliia-zatrymaly-cholovika-z-hiliotynoui)<br>
+18:58 [Смертельна повінь у Непалі: МЗС розшукує українців](https://ua.korrespondent.net/world/4906407-smertelna-povin-u-nepali-mzs-rozshukuie-ukraintsiv)<br>
+18:57 [Помер британський актор Тім Каррі](https://ua.korrespondent.net/lifestyle/4906393-pomer-brytanskyi-aktor-tim-karri)<br>
 17:59 [У DeepState оцінили поточну ситуацію на Донеччині](https://ua.korrespondent.net/ukraine/4906391-u-DeepState-otsinyly-potochnu-sytuatsiui-na-donechchyni)<br>
 17:37 [В Україні знизились офіційні курси долара і євро](https://ua.korrespondent.net/business/financial/4906385-v-ukraini-znyzylys-ofitsiini-kursy-dolara-i-yevro)<br>
 17:33 [Українські експерти консультують НАТО щодо протидії дронам](https://ua.korrespondent.net/ukraine/4906383-ukrainski-eksperty-konsultuuit-nato-schodo-protydii-dronam)<br>
@@ -56,10 +63,13 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:48 [Una treintena de personas guarda un minuto de silencio por las dos víctimas de Roda de Berà.](https://www.elperiodico.com/es/videos/sucesos/treintena-personas-guarda-minuto-silencio/133686183.shtml)<br>
+20:30 [Así es el robot humanoide de Toyota que juega al baloncesto](https://www.elperiodico.com/es/motor/20260826/nuevo-robot-humanoide-toyota-juega-baloncesto-133662681)<br>
 20:02 [Mejorar la selección del profesorado](https://www.elperiodico.com/es/opinion/20260826/mejorar-seleccion-profesorado-educacion-editorial-133684761)<br>
 19:30 [Cuando doblar una camisa cuesta más que vencer a Usain Bolt: los retos de los robots humanoides](https://www.elperiodico.com/es/internacional/20260826/olimpiadas-robots-china-doblar-camisa-cuesta-mas-vencer-usain-bolt-retos-robots-humanoides-133684391)<br>
 19:16 [El retroceso de los glaciares podría facilitar la propagación de enfermedades entre las abejas](https://www.elperiodico.com/es/tendencias21/20260826/retroceso-glaciares-facilitar-propagacion-enfermedades-133684140)<br>
 19:13 [La grave enfermedad que cambió la vida de Tim Curry y marcó sus últimos años antes de morir a los 80](https://www.elperiodico.com/es/ocio-y-cultura/20260826/grave-enfermedad-tim-curry-ictus-derrame-cerebral-ultimos-anos-muerte-80-133681857)<br>
+19:01 [Los hijos del matrimonio de Valencia estaban en la planta superior cuando sus padres fallecieron](https://www.elperiodico.com/es/sucesos/20260826/hijos-matrimonio-valencia-estaban-planta-133683666)<br>
 18:51 [Adiós a Tim Curry, el ‘mad doctor’ queer de ‘The Rocky horror picture show’ y el payaso de ‘It’](https://www.elperiodico.com/es/ocio-y-cultura/20260826/adios-tim-curry-mad-doctor-133683216)<br>
 18:39 [Cesc Gay regresa a '53 domingos': "Entre hermanos he visto batallas campales que no me podía creer"](https://www.elperiodico.com/es/ocio-y-cultura/20260826/53-domingos-obra-cesc-gay-teatre-condal-133675127)<br>
 18:11 [La economía de Estados Unidos sortea el golpe de la guerra de Irán y crece un 1,5% en el segundo trimestre](https://www.elperiodico.com/es/economia/20260826/economia-estados-unidos-sortea-golpe-133682264)<br>
