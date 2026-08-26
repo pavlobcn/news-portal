@@ -1,4 +1,4 @@
-# News for 2026-08-26 14:20
+# News for 2026-08-26 15:12
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
@@ -38,6 +38,20 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:00 [Una riada inunda varias localidades de Nepal](https://www.elperiodico.com/es/fotos/en-imagenes/riada-inunda-localidades-nepal-fotos-133675524)<br>
+15:00 [¿Quién heredará la fortuna de Dolly Parton? El misterio de los 450 millones que la artista llevaba años preparando](https://www.elperiodico.com/es/gente/20260826/herencia-dolly-parton-fortuna-herederos-testamento-133667332)<br>
+14:59 [La ‘eclipsemanía’ continúa: observatorios de toda España abrirán de madrugada para ver el eclipse lunar del 28 de agosto](https://www.elperiodico.com/es/sociedad/20260826/eclipse-luna-28-agosto-2026-espana-actividades-observacion-espana-133666271)<br>
+14:59 [Enrique Gato, creador de 'Tadeo Jones': "Cuando aparece un niño en tu vida, todo se pone patas arriba"](https://www.elperiodico.com/es/ocio-y-cultura/20260826/enrique-gato-creador-tadeo-jones-133662902)<br>
+14:55 [La AESAN pide a su comité científico la revisión de un informe sobre menopausia que incluye datos obtenidos de hombres](https://www.elperiodico.com/es/sociedad/20260826/aesan-rectifica-estudio-menopausia-datos-hombres-133670558)<br>
+14:54 [Una riada en Nepal deja al menos 16 muertos cerca de la frontera con China](https://www.elperiodico.com/es/videos/internacional/riada-nepal-deja-16-muertos-video/133675302.shtml)<br>
+14:50 [Andalucía suma 54 casos de virus del Nilo tras detectarse dos nuevos positivos en localidades de Sevilla](https://www.elperiodico.com/es/sociedad/20260826/andalucia-suma-54-casos-virus-133675257)<br>
+14:41 [Así será el examen MIR 2027: 200 preguntas, cuatro horas y media y Barcelona como una única sede de Catalunya](https://www.elperiodico.com/es/sanidad/20260826/examen-mir-2027-cataluna-133672495)<br>
+14:41 [Enrique y Meghan ya están en suelo inglés: han aterrizado en Birmingham](https://www.elperiodico.com/es/gente/20260826/enrique-meghan-suelo-ingles-han-133674733)<br>
+14:41 [Cientos de desaparecidos en unas inundaciones en el Nepal](https://www.elperiodico.com/es/videos/internacional/cientos-desaparecidos-inundaciones-nepal/133674921.shtml)<br>
+14:39 [La Sindica de Greuges reclama que la gente mayor pueda delegar la gestión de 'La Meva Salut' a otras personas fácilmente](https://www.elperiodico.com/es/sociedad/20260826/sindica-greuges-reclama-gente-mayor-delegar-gestion-la-meva-salut-facil-133674298)<br>
+14:36 [Juanma Lorente, abogado especializado en derecho laboral: "Si llegas tarde a tu trabajo, te pueden pagar menos en tu nómina"](https://www.elperiodico.com/es/economia/20260826/juanma-lorente-abogado-especializado-derecho-laboral-salario-retrasos-dv-131998636)<br>
+14:32 [Inundaciones en Tíbet y Nepal, en directo: última hora de la fuerte riada que deja centenares de desaparecidos, entre ellos turistas](https://www.elperiodico.com/es/internacional/20260826/inundaciones-tibet-nepal-muertos-desaparecidos-directo-133674437)<br>
+14:27 [Al menos 16 muertos y 400 sin contacto en Nepal tras una riada en la frontera con China](https://www.elperiodico.com/es/videos/internacional/inundaciones-tibet-nepal-muertos-400/133674400.shtml)<br>
 14:10 [L'Hospitalet y el Baix Llobregat alcanzan su máximo histórico de empleo con casi 500.000 afiliados](https://www.elperiodico.com/es/barcelona/20260826/lhospitalet-baix-llobregat-alcanzan-maximo-historico-empleo-casi-500000-afiliados-133672574)<br>
 14:03 [Una treintena de heridos al explotar material pirotécnico en el inicio de fiestas de Noáin (Navarra)](https://www.elperiodico.com/es/sucesos/20260826/treintena-heridos-explotar-material-pirotecnico-133672975)<br>
 13:57 [Explota una planta de gas en Rusia](https://www.elperiodico.com/es/videos/internacional/explota-planta-gas-rusia/133673101.shtml)<br>
@@ -47,6 +61,7 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 13:24 [Detenido en Tarragona el 'Maestro de las Fugas', un peligroso delincuente que se escapó de cuatro cárceles de Italia y Bélgica](https://www.elperiodico.com/es/tarragona/20260826/detenido-tarragona-maestro-fugas-peligroso-delincuente-fugado-italia-belgica-133669020)<br>
 13:21 [Adiós a las correas negras de la persiana: así debes limpiarla para eliminar toda la mugre](https://www.elperiodico.com/es/vida-y-estilo/20260826/adios-correas-negras-persiana-debes-limpiar-eliminar-mugre-dv-et-133671109)<br>
 13:10 [Carlos (87 años) superó un problema de salud y tomó la decisión de salir a viajar:  "El viaje lo vinculo con el disfrute, con vivir en paz. Yo no tengo otra aspiración en la vida, solo quiero vivir tranquilo, con cero conflicto con nadie"](https://www.elperiodico.com/es/economia/20260826/supero-problema-salud-camperizar-furgoneta-argentina-viajes-carlos-dv-et-133517441)<br>
+13:01 [Tennessee rinde homenaje a Dolly Parton](https://www.elperiodico.com/es/fotos/ocio-y-cultura/tennessee-rinde-homenaje-dolly-parton-fotos-133670028)<br>
 12:59 [Los Mossos investigan la muerte de un hombre mientras practicaba en una galería de tiro de L'Hospitalet](https://www.elperiodico.com/es/barcelona/20260826/mossos-investigan-muerte-hombre-practicaba-galeria-tiro-hospitalet-133669801)<br>
 12:39 [La insólita caída de un robot humanoide tras 'embobarse' con unas animadoras humanoides | Vídeo](https://www.elperiodico.com/es/tecnologia/20260826/robot-humanoide-caida-animadoras-juegos-mundiales-pekin-dv-133664519)<br>
 12:35 [Joan Pascual, fontanero: "La profesora de naturales me llamó desecho social porque quería ser fontanero, ahora todos quieren ser como yo"](https://www.elperiodico.com/es/economia/20260826/joan-pascual-fontanero-oficio-profesora-naturales-desecho-social-dv-133482089)<br>
