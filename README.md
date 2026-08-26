@@ -1,4 +1,4 @@
-# News for 2026-08-26 09:06
+# News for 2026-08-26 09:58
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
@@ -19,6 +19,13 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+09:40 [Un hacker puede saltarse la seguridad de Windows 11 sin tocar el ordenador](https://www.elperiodico.com/es/tendencias21/20260826/hacker-saltarse-seguridad-windows-11-133662461)<br>
+09:36 [Precio de la gasolina y diésel hoy, 26 de agosto en España: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20260826/precio-gasolina-diesel-hoy-26-agosto-dv-133661767)<br>
+09:34 [Precio del petróleo hoy, 26 de agosto por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260826/precio-petroleo-hoy-26-agosto-dv-133661765)<br>
+09:23 [Mueren las dos mujeres, madre e hija, sobre las que cayó un muro en Roda de Berà (Tarragona) por las lluvias torrenciales](https://www.elperiodico.com/es/tarragona/20260826/mueren-mujeres-madre-hija-cayo-muro-roda-bera-tarragona-133661973)<br>
+09:20 [Los psicólogos coinciden: cambiar de forma frecuente tu foto de perfil en las redes sociales puede ser señal de que buscas validación externa](https://www.elperiodico.com/es/vida-y-estilo/20260826/cambiar-foto-perfil-whatsapp-redes-sociales-teorias-psicologia-sociologia-dv-133541050)<br>
+09:19 [El Ibex 35 recupera los 20.100 puntos con el petróleo a la baja y el mercado pendiente de Nvidia](https://www.elperiodico.com/es/economia/20260826/ibex-35-recupera-20-100-133661990)<br>
+09:11 [Incendios hoy, 26 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260826/incendios-hoy-26-agosto-cataluna-espana-mapa-fuegos-activos-dv-133661641)<br>
 09:00 [David y Rocío renunciaron a todo para volver a sus orígenes en una aldea: "Cuando todos los demás están por ahí, unas semanas de vacaciones, sabes que tú no, estás aquí todo el día metido y es muy sacrificado"](https://www.elperiodico.com/es/economia/20260826/todo-dejaron-volver-origenes-aldea-asturias-ganaderia-forja-david-rocio-dv-et-133491092)<br>
 08:52 [La Guardia Civil investiga la muerte de un matrimonio irlandés en Valencia](https://www.elperiodico.com/es/sucesos/20260826/guardia-civil-investiga-muerte-matrimonio-133661238)<br>
 08:50 [Guillermo (29 años) deja Barcelona y se muda al campo para vivir de forma autosuficiente: "Quiero un perrito para que me haga compañía, porque si no se me va a ir la cabeza"](https://www.elperiodico.com/es/economia/20260826/deja-barcelona-compra-finca-autosuficiente-perro-mascota-compania-guillermo-dv-et-133616890)<br>
