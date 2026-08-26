@@ -1,5 +1,95 @@
 [
   {
+    "title": "Archivada la querella presentada por Errejón contra Mouliáa por calumnias",
+    "link": "https://www.elperiodico.com/es/politica/20260826/archivada-querella-presentada-errejon-mouliaa-133688985",
+    "pubDate": "2026-08-26 23:31:39",
+    "category": "",
+    "description": "<h2>La querella estaba motivada por haber dicho que él había extorsionado a testigos en la causa en la que el político está acusado de agredirla sexualmente</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Повінь у Непалі забрала життя щонайменше 157 осіб",
+    "link": "https://ua.korrespondent.net/world/4906455-povin-u-nepali-zabrala-zhyttia-schonaimenshe-157-osib",
+    "pubDate": "2026-08-26 23:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540667.jpg\">Стихія зруйнувала мости, дороги та населені пункти в гірському прикордонному регіоні, сотні людей залишаються зниклими безвісти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран прагне криміналізувати контакти з іноземними ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4906453-iran-prahne-kryminalizuvaty-kontakty-z-inozemnymy-zmi",
+    "pubDate": "2026-08-26 23:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540659.jpg\">Законопроєкт передбачає до двох років ув’язнення за інтерв’ю, передачу фото та іншу взаємодію з іноземними медіа без попереднього повідомлення влади.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Un joven, en estado crítico tras caer de un balcón del Raval cuando intentaba huir de los Mossos",
+    "link": "https://www.elperiodico.com/es/sucesos/20260826/joven-estado-critico-cae-balcon-raval-huir-mossos-barcelona-133688731",
+    "pubDate": "2026-08-26 23:09:33",
+    "category": "",
+    "description": "<h2>El herido tenía una orden de alejamiento respecto a su madre y se había presentado en el domicilio familiar con actitud violenta</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La pegada de Mbappé y el hambre de Bellingham estilizan al Real Madrid",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/real-madrid-real-sociedad-resultado-goles-resumen-133688569",
+    "pubDate": "2026-08-26 22:58:47",
+    "category": "",
+    "description": "<h2>Mourinho redebuta en el Bernabéu con una clara victoria frente a una Real Sociedad pálida, en la que el francés anotó su primer 'hat-trick' del curso</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nvidia gana 59.688 millones de dólares en el segundo trimestre de su ejercicio, un 126% más",
+    "link": "https://www.elperiodico.com/es/economia/20260826/nvidia-gana-59-688-millones-133688406",
+    "pubDate": "2026-08-26 22:52:04",
+    "category": "",
+    "description": "<h2>La empresa tuvo una facturación trimestral de 96.221 millones de dólares, un 106% más respecto al mismo tramo del año anterior</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Катастрофічна повінь у Непалі: зникли 53 українці",
+    "link": "https://ua.korrespondent.net/world/4906440-katastrofichna-povin-u-nepali-znykly-53-ukraintsi",
+    "pubDate": "2026-08-26 21:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540622.jpg\">На зв'язок не виходить туристична група з 46 українців. Загалом зниклими безвісти вважаються 53 громадянина України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Educación reforzará la seguridad para garantizar el inicio del curso escolar en Ceuta",
+    "link": "https://www.elperiodico.com/es/sociedad/20260826/educacion-reforzara-seguridad-garantizar-inicio-133686971",
+    "pubDate": "2026-08-26 21:34:32",
+    "category": "",
+    "description": "<h2>El presidente de la Ciudad Autónoma de Ceuta avanzó que se contempla la puesta en marcha \"con carácter de urgencia\" de algunas obras de infraestructura que vengan a \"fortalecer esa seguridad de la frontera ceutí\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "¿Y si en Ceuta los jueces y tribunales hubiesen cumplido la Constitución?",
+    "link": "https://www.elperiodico.com/es/politica/20260826/ceuta-migrantes-jueces-tribunales-cumplir-constitucion-133686627",
+    "pubDate": "2026-08-26 21:31:11",
+    "category": "",
+    "description": "<h2>Una sentencia del 29 de junio de 2026 de la Sala Tercera del Tribunal Supremo, al revisar la doctrina del Tribunal Constitucional sobre las devoluciones en caliente de inmigrantes que llegaban por mar, facilitó, exactamente un mes después, la avalancha de 80.000 inmigrantes del 30 de julio. El Gobierno y sus servicios de inteligencia no la vieron venir, pese a que la Abogacía del Estado intentó disuadir a la Sala Tercera.</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Audi estrena el Nuvolari en Estados Unidos",
+    "link": "https://www.elperiodico.com/es/motor/20260826/audi-estrena-nuvolari-estados-unidos-133661890",
+    "pubDate": "2026-08-26 21:30:01",
+    "category": "",
+    "description": "<h2>La firma de los cuatro aros exhibe en California el coche de producción más rápido y potente de su historia, una edición limitada a 499 unidades</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Аталанта продасть Челсі талановитого захисника",
     "link": "https://ua.korrespondent.net/sport/football/4906438-atalanta-prodast-chelsi-talanovytoho-zakhysnyka",
     "pubDate": "2026-08-26 21:06:00",

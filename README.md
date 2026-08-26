@@ -1,8 +1,10 @@
-# News for 2026-08-26 21:08
+# News for 2026-08-26 23:51
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
 ## ua.korrespondent.net
+23:27 [Повінь у Непалі забрала життя щонайменше 157 осіб](https://ua.korrespondent.net/world/4906455-povin-u-nepali-zabrala-zhyttia-schonaimenshe-157-osib)<br>
+21:48 [Катастрофічна повінь у Непалі: зникли 53 українці](https://ua.korrespondent.net/world/4906440-katastrofichna-povin-u-nepali-znykly-53-ukraintsi)<br>
 21:01 [В Україні стався землетрус](https://ua.korrespondent.net/ukraine/4906436-v-ukraini-stavsia-zemletrus)<br>
 20:46 [Останній НПЗ Лукойлу зупинив переробку нафти - ЗМІ](https://ua.korrespondent.net/world/russia/4906432-ostannii-npz-lukoilu-zupynyv-pererobku-nafty-zmi)<br>
 20:25 [У Канаді літак протаранив машини під час аварійної посадки на шосе](https://ua.korrespondent.net/world/4906426-u-kanadi-litak-protaranyv-mashyny-pid-chas-avariinoi-posadky-na-shose)<br>
@@ -63,6 +65,8 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 07:27 [Verano inolvidable para el baloncesto español](https://as.com/baloncesto/mas_baloncesto/verano-inolvidable-para-el-baloncesto-espanol-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:09 [Un joven, en estado crítico tras caer de un balcón del Raval cuando intentaba huir de los Mossos](https://www.elperiodico.com/es/sucesos/20260826/joven-estado-critico-cae-balcon-raval-huir-mossos-barcelona-133688731)<br>
+22:52 [Nvidia gana 59.688 millones de dólares en el segundo trimestre de su ejercicio, un 126% más](https://www.elperiodico.com/es/economia/20260826/nvidia-gana-59-688-millones-133688406)<br>
 20:48 [Una treintena de personas guarda un minuto de silencio por las dos víctimas de Roda de Berà.](https://www.elperiodico.com/es/videos/sucesos/treintena-personas-guarda-minuto-silencio/133686183.shtml)<br>
 20:30 [Así es el robot humanoide de Toyota que juega al baloncesto](https://www.elperiodico.com/es/motor/20260826/nuevo-robot-humanoide-toyota-juega-baloncesto-133662681)<br>
 20:02 [Mejorar la selección del profesorado](https://www.elperiodico.com/es/opinion/20260826/mejorar-seleccion-profesorado-educacion-editorial-133684761)<br>
