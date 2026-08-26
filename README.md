@@ -1,11 +1,24 @@
-# News for 2026-08-26 06:01
+# News for 2026-08-26 06:52
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
 ## ua.korrespondent.net
+06:50 [Генштаб підрахував нові втрати РФ у війні](https://ua.korrespondent.net/ukraine/4906156-henshtab-pidrakhuvav-novi-vtraty-rf-u-viini)<br>
+06:23 [Росіяни вдарили по підприємству у Запоріжжі, виникла пожежа](https://ua.korrespondent.net/ukraine/4906152/)<br>
+05:41 [В Сенаті США вражені українськими дронами - ЗМІ](https://ua.korrespondent.net/world/worldabus/4906149-v-senati-ssha-vrazheni-ukrainskymy-dronamy-zmi)<br>
 03:58 [В РФ після атаки дронів спалахнув НПЗ - соцмережі](https://ua.korrespondent.net/world/russia/4906143-v-rf-pislia-ataky-droniv-spalakhnuv-npz-sotsmerezhi)<br>
 02:42 [Дрони повторно атакували ключовий хаб Wildberries](https://ua.korrespondent.net/world/russia/4906135-drony-povtorno-atakuvaly-kluichovyi-khab-Wildberries)<br>
 00:31 [Дрон РФ ударив по Харкову: спалахнула пожежа](https://ua.korrespondent.net/city/kharkov/4906129-dron-rf-udaryv-po-kharkovu-spalakhnula-pozhezha)<br>
 
 ## www.elperiodico.com
+06:50 [El incendio en Collserola, en directo: última hora del incendio que mantiene confinados a dos barrios de Barcelona](https://www.elperiodico.com/es/barcelona/20260826/incendio-collserola-directo-ultima-hora-fuego-barcelona-133659752)<br>
+06:01 [Reforzar la lucha contra el narcotráfico](https://www.elperiodico.com/es/opinion/20260826/reforzar-lucha-narcotrafico-editorial-133653038)<br>
+06:01 [Vacaciones con mi hijo adolescente: ¿cómo lograr que se implique en las actividades de familia?](https://www.elperiodico.com/es/sociedad/20260826/vacaciones-familia-hijo-adolescente-133458967)<br>
+06:01 [SOS de la Audiencia Nacional ante el colapso por el "enorme incremento" de causas de tráfico de drogas](https://www.elperiodico.com/es/sociedad/20260826/audiencia-nacional-colapso-causas-trafico-drogas-espana-133453930)<br>
+06:00 [Un error de la Generalitat libra a Cabify y otras VTC de una multa de más de 500.000 euros](https://www.elperiodico.com/es/economia/20260826/cabify-error-generalitat-cataluna-libra-vtc-multa-133621826)<br>
+06:00 ["Para Bilbao tenemos más comodidad": los mensajes cifrados que ayudaron a destapar una trama de dos toneladas de cocaína](https://www.elperiodico.com/es/sociedad/20260826/aplicacion-sky-mensajes-encriptados-trama-trafico-cocaina-bilbao-algeciras-sentencia-audiencia-nacional-133499263)<br>
+06:00 [Los resultados de Nvidia pueden mover en Bolsa el equivalente a la economía griega](https://www.elperiodico.com/es/economia/20260826/resultados-nvidia-mover-bolsa-equivalente-133659122)<br>
+06:00 [Chaysavanh Manichanh, experta en microbiota: "En un futuro, la dieta se usará como terapia para tratar la enfermedad de Crohn o la colitis ulcerosa"](https://www.elperiodico.com/es/sanidad/20260826/chaysavanh-manichanh-experta-microbiota-dietas-alimentos-enfermedades-enfermedad-crohn-colitis-ulcerosa-133605403)<br>
+06:00 [Miguel Perlado, psicólogo: "Contra los gurús de bolsillo, escuchar la propia voz"](https://www.elperiodico.com/es/ser-feliz/20260826/miguel-perlado-psicologo-gurus-bolsillo-132417068)<br>
+06:00 [Déficit de vitamina D: síntomas, consecuencias y cómo prevenirlo](https://www.elperiodico.com/es/salud/20260826/deficit-vitamina-d-sintomas-consecuencias-prevencion-tomar-el-sol-133658870)<br>
 02:00 [Crítica de 'La constelación del perro': Ridley Scott plantea un relato postapocalíptico, algo convencional, en el que la humanidad sobrevive entre esperanzas y barbarie](https://www.elperiodico.com/es/ocio-y-cultura/20260826/critica-la-constelacion-del-perro-ridley-scott-133648186)<br>
