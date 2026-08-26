@@ -171,6 +171,15 @@
     "topic_match_probability": 75
   },
   {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-08-25 21:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Глава дипломатії Ватикану в Москві закликав завершити війну в Україні",
     "link": "https://ua.korrespondent.net/world/4906107-hlava-dyplomatii-vatykanu-v-moskvi-zaklykav-zavershyty-viinu-v-ukraini",
     "pubDate": "2026-08-25 21:32:00",
@@ -268,6 +277,15 @@
     "description": "<h2>El sistema sienta las bases para un futuro pago por uso que ajustará el coste del transporte a la demanda real de cada viajero y eliminará las diferencias zonales</h2><h2>TARJETA | <a>Barcelona ultima el pago directo con tarjeta de crédito para su red de metro y bus durante el 2027</a></h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20220212/historia-del-fracaso-de-la-tmobilitat-transporte-publico-13223378\" target=\"_blank\">La T-Mobilitat, una historia público-privada sobre querer y no poder</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-08-25 21:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Погрози Ірану на адресу сина Трампа: США відповіли",
@@ -664,6 +682,15 @@
     "description": "<h2 class=\"item\">United Airlines operará a partir del 2 de junio de 2027 la ruta entre Newark y Manises con tres frecuencias semanales</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-08-25 18:12:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Україна залучила понад 6 млрд грн через продаж військових ОВДП",
