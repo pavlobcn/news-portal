@@ -1,5 +1,86 @@
 [
   {
+    "title": "Santa Dolly Parton de América, retrato de un icono global, de la A a Z",
+    "link": "https://www.elperiodico.com/es/gente/20260826/dolly-parton-biografia-retrato-americano-beatriz-navarro-92809709",
+    "pubDate": "2026-08-26 07:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20220218/dolly-parton-retrato-estrella-country-pagara-estudios-miles-empleados-13251861\" >Parton, artista 'non stop'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20230510/dolly-parton-pasa-rock-87137299\" >'Rockstar', el nuevo disco de la reina del country</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ атакувала Чернігів, загинули жінка та 4-річна дитина",
+    "link": "https://ua.korrespondent.net/ukraine/4906154-rf-atakuvala-chernihiv-zahynuly-zhinka-ta-4-richna-dytyna",
+    "pubDate": "2026-08-26 07:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540012.jpg\">На момент удару в будинку перебували троє людей. 14-річну дівчинку госпіталізовано до лікарні. Під час проведення пошукових робіт виявлено тіла 49-річної жінки та 4-річної дівчинки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo | Ucrania recibirá sistemas antiaéreos Crotale y más misiles interceptores, según Zelenski",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-08-26 07:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260826/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-08-26 07:04:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260824/rabat-intensifico-campana-influencia-washington-meses-antes-crisis-ceuta-133589199\" target=\"_blank\">Marruecos intensificó su campaña de influencia en EEUU cuatro meses antes de la crisis de Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260821/gobierno-congelo-plan-seguridad-ceuta-melilla-giro-relaciones-marruecos-133526180\" target=\"_blank\">El Gobierno congeló el Plan de Seguridad para Ceuta y Melilla tras su giro con Marruecos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los 6 muebles para pisos pequeños que ofrecen más almacenamiento sin ocupar de más",
+    "link": "https://www.elperiodico.com/es/shopping/20260826/muebles-compactos-espacio-extra-casa-ordenada-132664868",
+    "pubDate": "2026-08-26 07:01:04",
+    "category": "",
+    "description": "<h2>Este tipo de muebles son una gran ayuda en pisos o casas pequeñas donde se echa en falta un espacio extra para organizar tus pertenencias</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El cambio que prepara Tráfico con el alcohol: tomar una cerveza puede dar positivo",
+    "link": "https://www.elperiodico.com/es/motor/20260826/cambio-prepara-trafico-alcohol-cerveza-133633324",
+    "pubDate": "2026-08-26 07:01:02",
+    "category": "",
+    "description": "<h2>Actualmente se está negociando una nueva propuesta para reducir el límite permitido </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las claves de por qué el Movistar no anuncia el fichaje de Paula Blasi",
+    "link": "https://www.elperiodico.com/es/deportes/20260826/claves-movistar-anuncia-fichaje-paula-blasi-tourmalet-sergi-lopez-egea-133637591",
+    "pubDate": "2026-08-26 07:01:01",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La editorial Pre-Textos celebra medio siglo de vida desafiando la dictadura y el centralismo madrileño",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260826/editorial-pre-textos-celebra-medio-133610017",
+    "pubDate": "2026-08-26 07:01:01",
+    "category": "",
+    "description": "<h2>El sello valenciano, fundado por Manuel Borrás, Manuel Ramírez y Silvia Pratdesaba en 1976, llega a los 50 años sin haber perdido nunca su ADN, con la memoria republicana, los autores americanos y la traducción de escritores europeos como marca</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: Trump afirma que Ormuz está libre de minas y advierte a Irán de ataques si vuelve a colocarlas",
+    "link": "https://www.elperiodico.com/es/internacional/20260826/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-08-26 07:01:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El incendio en Collserola, en directo: última hora del incendio que mantiene confinados a dos barrios de Barcelona",
     "link": "https://www.elperiodico.com/es/barcelona/20260826/incendio-collserola-directo-ultima-hora-fuego-barcelona-133659752",
     "pubDate": "2026-08-26 06:50:10",
