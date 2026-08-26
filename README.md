@@ -1,8 +1,9 @@
-# News for 2026-08-26 06:52
+# News for 2026-08-26 07:27
 
 Previous day: [2026-08-25](./data/2026-08-25.md)
 
 ## ua.korrespondent.net
+07:16 [РФ атакувала Чернігів, загинули жінка та 4-річна дитина](https://ua.korrespondent.net/ukraine/4906154-rf-atakuvala-chernihiv-zahynuly-zhinka-ta-4-richna-dytyna)<br>
 06:50 [Генштаб підрахував нові втрати РФ у війні](https://ua.korrespondent.net/ukraine/4906156-henshtab-pidrakhuvav-novi-vtraty-rf-u-viini)<br>
 06:23 [Росіяни вдарили по підприємству у Запоріжжі, виникла пожежа](https://ua.korrespondent.net/ukraine/4906152/)<br>
 05:41 [В Сенаті США вражені українськими дронами - ЗМІ](https://ua.korrespondent.net/world/worldabus/4906149-v-senati-ssha-vrazheni-ukrainskymy-dronamy-zmi)<br>
@@ -11,6 +12,7 @@ Previous day: [2026-08-25](./data/2026-08-25.md)
 00:31 [Дрон РФ ударив по Харкову: спалахнула пожежа](https://ua.korrespondent.net/city/kharkov/4906129-dron-rf-udaryv-po-kharkovu-spalakhnula-pozhezha)<br>
 
 ## www.elperiodico.com
+07:01 [La editorial Pre-Textos celebra medio siglo de vida desafiando la dictadura y el centralismo madrileño](https://www.elperiodico.com/es/ocio-y-cultura/20260826/editorial-pre-textos-celebra-medio-133610017)<br>
 06:50 [El incendio en Collserola, en directo: última hora del incendio que mantiene confinados a dos barrios de Barcelona](https://www.elperiodico.com/es/barcelona/20260826/incendio-collserola-directo-ultima-hora-fuego-barcelona-133659752)<br>
 06:01 [Reforzar la lucha contra el narcotráfico](https://www.elperiodico.com/es/opinion/20260826/reforzar-lucha-narcotrafico-editorial-133653038)<br>
 06:01 [Vacaciones con mi hijo adolescente: ¿cómo lograr que se implique en las actividades de familia?](https://www.elperiodico.com/es/sociedad/20260826/vacaciones-familia-hijo-adolescente-133458967)<br>
