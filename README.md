@@ -1,11 +1,36 @@
-# News for 2026-08-27 15:00
+# News for 2026-08-27 18:31
 
 Previous day: [2026-08-26](./data/2026-08-26.md)
 
 ## ua.korrespondent.net
+18:18 [Невідомий снаряд уразив танкер в Ормузькій протоці](https://ua.korrespondent.net/world/4906750-nevidomyi-snariad-urazyv-tanker-v-ormuzkii-prototsi)<br>
+18:04 [Свята 28 серпня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4906700-sviata-28-serpnia-2026-roku-istoriia-tradytsii)<br>
+18:02 [Офіційний курс гривні знову зміцнився](https://ua.korrespondent.net/business/financial/4906744-ofitsiinyi-kurs-hryvni-znovu-zmitsnyvsia)<br>
+17:50 [Двоє підлітків зняли 152 шеврони з інсталяції у Гостомелі](https://ua.korrespondent.net/ukraine/4906740-dvoie-pidlitkiv-znialy-152-shevrony-z-instaliatsii-u-hostomeli)<br>
+17:27 [Три аеропорти Британії зазнали кібератаки](https://ua.korrespondent.net/world/4906733-try-aeroporty-brytanii-zaznaly-kiberataky)<br>
+16:59 [Потужна магнітна буря наближається до Землі](https://ua.korrespondent.net/tech/science/4906720-potuzhna-mahnitna-buria-nablyzhaietsia-do-zemli)<br>
+16:58 [У Німеччині стався напад у школі: двоє загиблих, підозрюваного затримали](https://ua.korrespondent.net/world/4906724-u-nimechchyni-stavsia-napad-u-shkoli-dvoie-zahyblykh-pidozruivanoho-zatrymaly)<br>
+16:58 [У наглядову раду Сенс Банку призначили нового члена](https://ua.korrespondent.net/business/financial/4906722-u-nahliadovu-radu-sens-banku-pryznachyly-novoho-chlena)<br>
+16:55 [Папа Римський у Nike: Лев XIV опинився серед наймодніших людей року](https://ua.korrespondent.net/lifestyle/4906715-papa-rymskyi-u-Nike-lev-XIV-opynyvsia-sered-naimodnishykh-luidei-roku)<br>
+16:37 [Засуджений за геноцид у Сребрениці Ратко Младич помер у в’язниці ООН - ЗМІ](https://ua.korrespondent.net/world/4906716-zasudzhenyi-za-henotsyd-u-srebrenytsi-ratko-mladych-pomer-u-viaznytsi-oon-zmi)<br>
+16:36 [Швеція дасть Україні ще $27 млн: кошти спрямують на ППО](https://ua.korrespondent.net/ukraine/4906713-shvetsiia-dast-ukraini-sche-27-mln-koshty-spriamuuit-na-ppo)<br>
+16:23 [Польща готова виробляти Patriot з Україною](https://ua.korrespondent.net/world/4906710-polscha-hotova-vyrobliaty-Patriot-z-ukrainoui)<br>
+16:18 [США звинуватили китайських хакерів в атаках на NASA і ФРС: Пекін заперечує](https://ua.korrespondent.net/world/4906705-ssha-zvynuvatyly-kytaiskykh-khakeriv-v-atakakh-na-NASA-i-frs-pekin-zaperechuie)<br>
+16:05 [Наводив ракети на Миколаїв: агент РФ отримав 15 років тюрми](https://ua.korrespondent.net/ukraine/4906698-navodyv-rakety-na-mykolaiv-ahent-rf-otrymav-15-rokiv-tuirmy)<br>
+16:00 [Денний терор Київщини. Куди бʼє Росія](https://ua.korrespondent.net/ukraine/4906692-dennyi-teror-kyivschyny-kudy-bie-rosiia)<br>
+15:50 [Apple заблокувала піратський спосіб встановлення застосунків у РФ](https://ua.korrespondent.net/business/companies/4906687-Apple-zablokuvala-piratskyi-sposib-vstanovlennia-zastosunkiv-u-rf)<br>
+15:22 [У Росії обвалилося виробництво бензину](https://ua.korrespondent.net/world/russia/4906678-u-rosii-obvalylosia-vyrobnytstvo-benzynu)<br>
+15:01 [Повені та зсуви в Японії: понад 380 тисяч людей мають евакуюватися](https://ua.korrespondent.net/world/4906673-poveni-ta-zsuvy-v-yaponii-ponad-380-tysiach-luidei-mauit-evakuuivatysia)<br>
+14:58 [У Гамбурзі в партії рису виявили 1,5 тонни метамфетаміну](https://ua.korrespondent.net/world/4906664-u-hamburzi-v-partii-rysu-vyiavyly-15-tonny-metamfetaminu)<br>
+14:42 [Грецька система ППО збила дрони над Саудівською Аравією](https://ua.korrespondent.net/world/4906661-hretska-systema-ppo-zbyla-drony-nad-saudivskoui-araviieui)<br>
+14:27 [Повінь у Непалі: загинули понад 350 людей](https://ua.korrespondent.net/world/4906655-povin-u-nepali-zahynuly-ponad-350-luidei)<br>
 14:18 [На пляжі в окупованому Криму винесло згустки пальмової олії](https://ua.korrespondent.net/ukraine/4906652-na-pliazhi-v-okupovanomu-krymu-vyneslo-zghustky-palmovoi-olii)<br>
 14:00 [Вибух на заводі в Росії: загинули 15 людей](https://ua.korrespondent.net/world/russia/4906645-vybukh-na-zavodi-v-rosii-zahynuly-15-luidei)<br>
+13:20 [Новий удар по аграріях: Україна може залишитися без 5-7 млн га посівів](https://ua.korrespondent.net/business/4906628-novyi-udar-po-ahrariiakh-ukraina-mozhe-zalyshytysia-bez-5-7-mln-ha-posiviv)<br>
+12:10 [Майже 60 суден очікують входу до українських портів на Дунаї](https://ua.korrespondent.net/business/4906598-maizhe-60-suden-ochikuuit-vkhodu-do-ukrainskykh-portiv-na-dunai)<br>
+11:22 [Київ знову під атакою дронів: є постраждалий](https://ua.korrespondent.net/kyiv/4906576-kyiv-znovu-pid-atakoui-droniv-ye-postrazhdalyi)<br>
 11:02 [На Одещині затримали військового, який стріляв з автомата](https://ua.korrespondent.net/ukraine/4906569-na-odeschyni-zatrymaly-viiskovoho-yakyi-striliav-z-avtomata)<br>
+10:58 [В обмінних пунктах триває зміцнення гривні](https://ua.korrespondent.net/business/financial/4906565-v-obminnykh-punktakh-tryvaie-zmitsnennia-hryvni)<br>
 06:55 [Генштаб назвав кількість знищених окупантів](https://ua.korrespondent.net/ukraine/4906499-henshtab-nazvav-kilkist-znyschenykh-okupantiv)<br>
 06:23 [У Запоріжжі через обстріл поранено троє людей](https://ua.korrespondent.net/ukraine/4906496-u-zaporizhzhi-cherez-obstril-poraneno-troie-luidei)<br>
 05:34 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
@@ -21,6 +46,29 @@ Previous day: [2026-08-26](./data/2026-08-26.md)
 06:31 [Jaime Pradilla: “Es un orgullo jugar con la Selección en mi tierra”](https://as.com/baloncesto/mas_baloncesto/jaime-pradilla-es-un-orgullo-jugar-con-la-seleccion-en-mi-tierra-f202608-n/)<br>
 
 ## www.elperiodico.com
+18:12 [El Supremo avanza en el derecho al olvido con el caso de un guardia civil frente a Google: "Lo lícito puede con el tiempo dejar de serlo"](https://www.elperiodico.com/es/politica/20260827/supremo-avanza-derecho-olvido-133363425)<br>
+18:10 [El gasóleo agrícola vuelve a dispararse y ya cuesta un 25% más que antes de la guerra de Irán](https://www.elperiodico.com/es/economia/20260827/gasoleo-agricola-dispara-precio-agricultores-reclaman-iva-reducido-133712443)<br>
+18:09 [Mónica García niega un colapso sanitario en Ceuta: "No se ha suspendido ni un quirófano"](https://www.elperiodico.com/es/videos/politica/monica-garcia-niega-colapso-sanitario-ceuta/133712360.shtml)<br>
+18:04 [Los vecinos del Saler desalojados: “Es lo peor que podía pasar. Nos dicen que el fuego va hacia el bosque"](https://www.elperiodico.com/es/sociedad/20260827/vecinos-saler-desalojados-incendio-valencia-133712062)<br>
+18:00 [Una pareja española explica cuánto se gana trabajando en el algodón en Australia: "De media cobramos 10.000 dólares al mes cada uno"](https://www.elperiodico.com/es/economia/20260827/pareja-espanola-explica-gana-trabajando-algodon-australia-dv-et-133699936)<br>
+17:59 [Dos muertos y un detenido en Alemania en una agresión en una escuela de secundaria](https://www.elperiodico.com/es/internacional/20260827/muertos-detenido-alemania-agresion-escuela-secundaria-berlin-133711987)<br>
+17:59 [Así funciona a nivel molecular la nueva terapia contra el melanoma](https://www.elperiodico.com/es/sanidad/20260827/funciona-nivel-molecular-nueva-terapia-133711755)<br>
+17:23 [La Generalitat mantendrá otra semana las restricciones en Collserola, tras 15 días sin nuevos casos de peste porcina](https://www.elperiodico.com/es/economia/20260827/acceso-restringido-collserola-cero-casos-peste-porcina-133709866)<br>
+17:13 [Las llamas obligan a evacuar el pueblo valenciano del Saler y sus campings](https://www.elperiodico.com/es/sociedad/20260827/llamas-obligan-evacuar-pueblo-valenciano-133710308)<br>
+17:10 [El fuego llega al pueblo de El Saler](https://www.elperiodico.com/es/videos/sociedad/fuego-llega-pueblo-saler/133710126.shtml)<br>
+17:00 [Tiempo en Catalunya mañana viernes: la alerta por calor nocturno precede a un día más soleado y con temperaturas máximas a la baja](https://www.elperiodico.com/es/tiempo/20260827/tiempo-cataluna-viernes-28-agosto-alerta-calor-nocturno-dv-loc-133708701)<br>
+16:51 [Barcelona Activa ofrece un nuevo programa de formación y empleo para jóvenes de 16 a 25 años](https://www.elperiodico.com/es/barcelona/20260827/programa-barcelona-jovenes-16-25-formacion-encontrar-trabajo-133634759)<br>
+16:51 [Hallado muerto en Martorell el pederasta Miguel Ángel Flores, que plantó a la Audiencia de Barcelona en el juicio por violar a su hija](https://www.elperiodico.com/es/sucesos/20260827/encontrado-muerto-martorell-depredador-sexual-banco-hija-agresion-sexual-133709245)<br>
+16:46 [L’Hospitalet moviliza 10,5 millones de euros para dar continuidad a su modelo de escuela municipal de música](https://www.elperiodico.com/es/barcelona/20260827/l-hospitalet-moviliza-10-millones-euros-continuidad-modelo-escuela-municipal-musica-133708551)<br>
+16:40 [Muere Ratko Mladic, el "carnicero de Bosnia", cumplía cadena perpetua por crímenes de guerra](https://www.elperiodico.com/es/videos/internacional/muere-ratko-mladic-carnicero-bosnia/133709386.shtml)<br>
+16:22 [Temporada Alta se regala una 35 edición de primer nivel internacional](https://www.elperiodico.com/es/ocio-y-cultura/20260827/temporada-alta-regala-35-edicion-133708321)<br>
+16:19 [La app que conecta a los barceloneses con el comercio local ya supera los 300 negocios](https://www.elperiodico.com/es/barcelona/20260827/comercios-de-proximidad-barceloneses-crecimiento-plataforma-vuelvete-local-133701728)<br>
+15:59 [Nvidia recupera la magia: suma 355.000 millones de valor bursátil tras volver a batir las previsiones](https://www.elperiodico.com/es/economia/20260827/nvidia-recupera-magia-suma-355-133708331)<br>
+15:56 [Últimas tardes con Juan Marsé](https://www.elperiodico.com/es/opinion/20260827/ultimas-tardes-juan-marse-articulo-juan-cruz-ruiz-133708061)<br>
+15:50 [La L1 del metro de Barcelona reabre el tramo Florida-Plaça de Sants este sábado](https://www.elperiodico.com/es/barcelona/20260827/l1-metro-barcelona-reabrira-tramo-florida-placa-sants-sabado-133703583)<br>
+15:27 [El Oceanográfic de Valencia rescata a dos belugas y cuatro delfines que iban a ser sacrificados en Canadá](https://www.elperiodico.com/es/videos/sociedad/oceanografic-valencia-rescata-belugas-cuatro/133707525.shtml)<br>
+15:20 [La Fiscalía registra 16 agresiones sexuales en Ceuta durante la crisis migratoria](https://www.elperiodico.com/es/politica/20260827/fiscalia-registra-16-agresiones-sexuales-133707241)<br>
+15:05 [Muere Ratko Mladic, el "carnicero de Bosnia", en la prisión de La Haya donde cumplía cadena perpetua por crímenes de guerra](https://www.elperiodico.com/es/internacional/20260827/muere-ratko-mladic-exjefe-militar-bosnia-133706621)<br>
 14:55 [La mujer irlandesa fallecida en Cullera pudo caerse al salir del jacuzzi y su marido, al intentar salvarla](https://www.elperiodico.com/es/videos/sociedad/mujer-irlandesa-fallecida-cullera-pudo-caerse-salir-jacuzzi-video/133706253.shtml)<br>
 14:37 [Montse Cespedosa, experta en hipotecas: "Si vas a vender tu vivienda habitual para comprar otra, el importe de la venta que te sobre está exento"](https://www.elperiodico.com/es/economia/20260827/montse-cespedosa-experta-hipotecas-vender-vivienda-comprar-otra-impuestos-reinversion-dv-133703970)<br>
 14:34 [Hyundai prepara más de 100 lanzamientos hasta 2030](https://www.elperiodico.com/es/motor/20260827/hyundai-prepara-100-lanzamientos-2030-estrategia-mercado-133702205)<br>
@@ -51,6 +99,9 @@ Previous day: [2026-08-26](./data/2026-08-26.md)
 07:02 [Muere a los 97 años Yayoi Kusama, figura clave de la psicodelia y una de las grandes artistas del siglo XX](https://www.elperiodico.com/es/ocio-y-cultura/20260827/muere-artista-japonesa-yayoi-kusama-figura-psicodelia-lunares-133691304)<br>
 07:00 [La realidad, sin inteligencia artificial](https://www.elperiodico.com/es/opinion/20260827/realidad-inteligencia-artificial-133680518)<br>
 06:46 [Inundaciones en Tíbet y Nepal, en directo: última hora de la riada que deja decenas de muertos y centenares de desaparecidos, la mayoría turistas](https://www.elperiodico.com/es/internacional/20260827/inundaciones-tibet-nepal-muertos-desaparecidos-directo-133674437)<br>
+06:45 ["Los chinos de Barcelona"](https://www.elperiodico.com/es/entre-todos/participacion/chinos-barcelona-carta-jordi-querol-133603766)<br>
+06:30 ["Cerrado por vacaciones"](https://www.elperiodico.com/es/entre-todos/participacion/cerrado-vacaciones-ceuta-carta-guillermo-moya-torres-133633795)<br>
+06:15 ["¿Chao 'pescao'?"](https://www.elperiodico.com/es/entre-todos/participacion/chao-pescao-economia-estupida-carta-luis-fernando-crespo-zorita-133631400)<br>
 06:15 [Muere un bañista francés en la cala de Es Codolar de Tossa de Mar](https://www.elperiodico.com/es/sucesos/20260827/muere-frances-cala-tossa-mar-133690726)<br>
 06:01 [La vivienda supera en un 12% los precios de la burbuja, pero solo siete comunidades han roto máximos](https://www.elperiodico.com/es/economia/20260827/vivienda-supera-12-precios-burbuja-133683864)<br>
 06:01 [La vivienda supera en un 12% los precios de la burbuja, pero solo siete comunidades han roto máximos](https://www.elperiodico.com/es/economia/20260827/programada-vivienda-supera-12-precios-133683864)<br>
