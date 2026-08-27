@@ -1,5 +1,14 @@
 [
   {
+    "title": "ЗМІ: Італія готує для України пакет ППО на €3 млрд",
+    "link": "https://ua.korrespondent.net/world/4906457-zmi-italiia-hotuie-dlia-ukrainy-paket-ppo-na-3-mlrd",
+    "pubDate": "2026-08-26 23:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540669.jpg\">Новий пакет військової допомоги включатиме комплекси SAMP/T NG, ракети-перехоплювачі Aster 30 та радари великої дальності.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Archivada la querella presentada por Errejón contra Mouliáa por calumnias",
     "link": "https://www.elperiodico.com/es/politica/20260826/archivada-querella-presentada-errejon-mouliaa-133688985",
     "pubDate": "2026-08-26 23:31:39",
@@ -43,6 +52,15 @@
     "description": "<h2>Mourinho redebuta en el Bernabéu con una clara victoria frente a una Real Sociedad pálida, en la que el francés anotó su primer 'hat-trick' del curso</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Страшна повінь в Непалі. Зникли українці",
+    "link": "https://ua.korrespondent.net/world/4906465-strashna-povin-v-nepali-znykly-ukraintsi",
+    "pubDate": "2026-08-26 22:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540686.jpg\">Непал і Китай координують рятувальні зусилля, до прикордонних районів Тибету відправлено понад 500 китайських рятувальників, однак доступ до зони лиха заблокований через глибокі шари мулу та бруду.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Nvidia gana 59.688 millones de dólares en el segundo trimestre de su ejercicio, un 126% más",
@@ -2140,6 +2158,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4540125.jpg\">Американський мільярдер проведе ніч за ґратами за рішенням суду, що спричинило хвилю обурення в спортивному світі.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Hustak, otra torre checa en Bilbao",
+    "link": "https://as.com/baloncesto/hustak-otra-torre-checa-en-bilbao-f202608-n/",
+    "pubDate": "2026-08-26 11:37:10",
+    "category": "Bilbao basket",
+    "description": "Tras el paso de Balvin, llega a Miribilla un nuevo Ondrej con ganas de demostrar “que en Bilbao hay sitio para mí”.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Відомий актор зізнався, що хотів би знову створити сім'ю",
