@@ -1,5 +1,14 @@
 [
   {
+    "title": "Трамп посилює тиск на Мексику через мігрантів",
+    "link": "https://ua.korrespondent.net/world/4906826-tramp-posyluiie-tysk-na-meksyku-cherez-mihrantiv",
+    "pubDate": "2026-08-27 23:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541572.jpg\">Вашингтон вимагає від Мехіко не допустити перетину кордону власними громадянами, що створює юридичні труднощі для уряду Шейнбаум.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Raphinha y todos los demás",
     "link": "https://www.elperiodico.com/es/deportes/20260827/raphinha-133720404",
     "pubDate": "2026-08-27 23:29:07",
@@ -16,6 +25,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541556.jpg\">Розслідувачі простежили ланцюжок фінансування угоди через кілька компаній.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Співвласником Ozon виявився \"гаманець\" Путіна",
+    "link": "https://ua.korrespondent.net/business/companies/4906822-spivvlasnykom-Ozon-vyiavyvsia-hamanets-putina",
+    "pubDate": "2026-08-27 23:29:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541556.jpg\">Розслідувачі простежили ланцюжок фінансування угоди через кілька компаній.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
   },
   {
     "title": "Debut y ovación para Rodri en el Camp Nou: \"Estoy donde quería estar\"",
@@ -72,6 +90,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Трамп відкинув меморандум з Іраном",
+    "link": "https://ua.korrespondent.net/world/4906810-tramp-vidkynuv-memorandum-z-iranom",
+    "pubDate": "2026-08-27 22:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541507.jpg\">Американський президент готовий почекати і подивитися, чи принесе плоди економічний тиск на Тегеран.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Temporada Alta celebra los 35 años con los estrenos absolutos de Peeping Tom y Needcompany",
     "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/temporada-alta-celebra-35-anos/133719006.shtml",
     "pubDate": "2026-08-27 22:03:14",
@@ -79,6 +106,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "\"На черзі океани\": Трамп перейменував озеро в Канаді",
+    "link": "https://ua.korrespondent.net/world/4906805-na-cherzi-okeany-tramp-pereimenuvav-ozero-v-kanadi",
+    "pubDate": "2026-08-27 21:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541479.jpg\">Американський президент перейменував озеро Онтаріо на Америку та анонсував нові назви океанів.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "El pueblo y los cámpins de El Saler, en Valencia, evacuados ante el avance del incendio forestal",
@@ -162,6 +198,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Санду вручила Зеленському орден",
+    "link": "https://ua.korrespondent.net/ukraine/4906787-sandu-vruchyla-zelenskomu-orden",
+    "pubDate": "2026-08-27 20:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541418.jpeg\">Відзнакою українського лідера нагородили за його внесок у захист миру та свободи на європейському континенті.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Los mapas y gráficos para entender la magnitud de la riada mortal de Nepal",
     "link": "https://www.elperiodico.com/es/internacional/20260827/mapas-graficos-entender-magnitud-riada-133714333",
     "pubDate": "2026-08-27 20:38:16",
@@ -196,6 +241,15 @@
     "description": "<h2>El crecimiento basado en alianzas cruzadas con competidores entraña riesgos</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Китай витісняє Росію із ринку озброєнь Центральної Азії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4906779-kytai-vytisniaie-rosiui-iz-rynku-ozbroien-tsentralnoi-azii-zmi",
+    "pubDate": "2026-08-27 20:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541404.jpg\">Китай швидко завойовує оборонний ринок Центральної Азії. Пекін продає дрони, літаки, бронетехніку та системи ППО.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Los primeros test del circuito de F1 en Madrid desatan la alarma vecinal por el ruido",
@@ -270,6 +324,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Литва й Естонія не готові послаблювати санкції проти Білорусі",
+    "link": "https://ua.korrespondent.net/world/4906769-lytva-y-estoniia-ne-hotovi-poslabluivaty-sanktsii-proty-bilorusi",
+    "pubDate": "2026-08-27 19:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541374.jpg\">Литва та Естонія не бачать підстав переглядати санкційну політику щодо Білорусі. У Вільнюсі та Таллінні наголошують: Мінськ не змінив поведінку і продовжує підтримувати Росію.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Ciudadanos ceutíes impiden el paso a los vehículos Cruz Roja con alimentos para los migrantes",
     "link": "https://www.elperiodico.com/es/videos/internacional/ciudadanos-ceuties-impiden-paso-vehiculos/133715366.shtml",
     "pubDate": "2026-08-27 19:41:47",
@@ -286,6 +349,15 @@
     "description": "",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Спроба підпалу заводу в Словаччині: ЗМІ дізналися деталі про затриманих",
+    "link": "https://ua.korrespondent.net/world/4906765-sproba-pidpalu-zavodu-v-slovachchyni-zmi-diznalysia-detali-pro-zatrymanykh",
+    "pubDate": "2026-08-27 19:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541372.jpg\">У Німеччині затримали 26-річного громадянина Латвії. А у Словаччині двох його спільників - латвійця та українця.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Las llamas obligan a evacuar el pueblo valenciano del Saler y sus campings",
@@ -315,6 +387,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Зеленський у Молдові: про що домовилися із Санду",
+    "link": "https://ua.korrespondent.net/world/4906761-zelenskyi-u-moldovi-pro-scho-domovylysia-iz-sandu",
+    "pubDate": "2026-08-27 19:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541359.jpg\">Президент Володимир Зеленський зустрівся у Кишиневі з президенткою Молдови Маєю Санду. Сторони обговорили безпекову, енергетичну та інфраструктурну співпрацю.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "España, Suecia, Polonia y Países Bajos piden usar los activos congelados rusos para financiar a Ucrania",
     "link": "https://www.elperiodico.com/es/internacional/20260827/espana-suecia-polonia-paises-bajos-piden-usar-activos-congelados-rusia-financiar-ucrania-133713885",
     "pubDate": "2026-08-27 19:02:45",
@@ -340,6 +421,15 @@
     "description": "<h2>La ministra no efectuó ninguna mención a la responsabilidad evidente de Marruecos, país de donde procedían los «asaltantes», por no hablar de que la inmensa mayoría certifican dicha nacionalidad</h2>",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни захопили нові квартали Часового Яру - DeepState",
+    "link": "https://ua.korrespondent.net/ukraine/4906752-rosiiany-zakhopyly-novi-kvartaly-chasovoho-yaru-DeepState",
+    "pubDate": "2026-08-27 18:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541343.jpg\">Російські війська розширили зону окупації в Часовому Яру на Донеччині. За даними DeepState, за добу ворог просунувся на 3,47 кв. км.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "РФ шукає найманців в Індонезії: нові дані української розвідки",
