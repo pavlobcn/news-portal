@@ -1,8 +1,13 @@
-# News for 2026-08-29 11:10
+# News for 2026-08-29 12:56
 
 Previous day: [2026-08-28](./data/2026-08-28.md)
 
 ## ua.korrespondent.net
+12:24 [У Києві на Оболоні через удар БПЛА загинула дворічна дитина](https://ua.korrespondent.net/city/kiev/4907245-u-kyievi-na-oboloni-cherez-udar-bpla-zahynula-dvorichna-dytyna)<br>
+11:58 [Генштаб заявив про ураження у Донецьку і Криму](https://ua.korrespondent.net/ukraine/4907243-henshtab-zaiavyv-pro-urazhennia-u-donetsku-i-krymu)<br>
+11:39 [У Бориспільському районі внаслідок удару РФ загинула 14-річна дівчинка](https://ua.korrespondent.net/ukraine/4907240-u-boryspilskomu-raioni-vnaslidok-udaru-rf-zahynula-14-richna-divchynka)<br>
+11:20 [Повінь у Непалі: кількість зниклих безвісти українців через зросла до 64](https://ua.korrespondent.net/ukraine/4907239-povin-u-nepali-kilkist-znyklykh-bezvisty-ukraintsiv-cherez-zrosla-do-64)<br>
+11:06 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 10:57 [Удар по Бучанському району: загинули 27 людей](https://ua.korrespondent.net/ukraine/4907237-udar-po-buchanskomu-raionu-zahynuly-27-luidei)<br>
 10:49 [На Миколаївщині через обстріл без світла 300 тисяч абонентів](https://ua.korrespondent.net/ukraine/4907235-na-mykolaivschyni-cherez-obstril-bez-svitla-300-tysiach-abonentiv)<br>
 10:18 [Внаслідок удару по Київщині загинув голова Дмитрівської громади](https://ua.korrespondent.net/ukraine/4907232-vnaslidok-udaru-po-kyivschyni-zahynuv-holova-dmytrivskoi-hromady)<br>
@@ -24,6 +29,18 @@ Previous day: [2026-08-28](./data/2026-08-28.md)
 00:08 [Mateo: “Nos faltan horas de vuelo”](https://as.com/baloncesto/mas_baloncesto/mateo-nos-faltan-horas-de-vuelo-f202608-n/)<br>
 
 ## www.elperiodico.com
+12:51 [Los noruegos siguen acercándose al Palacio Real para rendir homenaje al rey Harald](https://www.elperiodico.com/es/videos/internacional/noruegos-siguen-acercandose-palacio-real-harald-video/133758831.shtml)<br>
+12:23 [La labor del Centro de Coordinación de Emergencias de la UE en las guerras de Ucrania y Gaza](https://www.elperiodico.com/es/videos/internacional/labor-centro-coordinacion-emergenias-ue/133758478.shtml)<br>
+12:19 [Así es el Centro de Coordinación de Emergencias de la UE](https://www.elperiodico.com/es/videos/internacional/centro-coordinacion-emergencias-ue/133758333.shtml)<br>
+12:18 [El matrimonio muerto en Cullera quedó atrapado por succión en el sistema de absorción del spa](https://www.elperiodico.com/es/videos/sucesos/matrimonio-muerto-cullera-quedo-atrapado-spa/133758409.shtml)<br>
+12:18 [Turtle Beach presenta el teclado mecánico Vulcan II XP de tamaño completo](https://www.elperiodico.com/es/tecnologia/20260829/turtle-beach-teclado-vulcan-ii-xp-precio-133758071)<br>
+12:17 [El mirador más especial de Barcelona baja de precio: así puedes visitar las azoteas de Santa Maria del Mar para la Diada y la Mercè](https://www.elperiodico.com/es/barcelona/20260829/barcelona-catedral-santa-maria-del-mar-mirador-diada-merce-dv-loc-133757092)<br>
+12:12 [Desembarca una nueva embarcación en Cartagena con medio centenar de inmigrantes](https://www.elperiodico.com/es/sociedad/20260829/desembarca-nueva-embarcacion-calblanque-medio-133758249)<br>
+12:00 [Visita al Centro Europeo de Emergencias, el lugar desde el que la UE responde a las catástrofes: "Son cada vez más largas y frecuentes"](https://www.elperiodico.com/es/internacional/20260829/visita-centro-europeo-emergencias-lugar-133757817)<br>
+11:43 [José Elías, empresario: "Me gasto entre 250.000 y 300.000 euros en montar cada supermercado de La Sirena, de cada uno solo me queda un beneficio de 30.000 euros al año"](https://www.elperiodico.com/es/economia/20260829/jose-elias-empresario-gasto-euros-montar-supermercado-sirena-beneficio-dv-et-133757407)<br>
+11:41 [Salvador Ibáñez, neuropediatra: "Cualquier escolarización temprana no es beneficiosa, ni escolarizar antes produce un cerebro más estimulado"](https://www.elperiodico.com/es/sociedad/20260829/bebes-educacion-escolarizacion-temprana-neuropedriatra-133756917)<br>
+11:19 [Hallado con vida otro español desaparecido en Nepal tras la riada](https://www.elperiodico.com/es/internacional/20260829/localizados-espanoles-desaparecidos-nepal-133756960)<br>
+11:19 [Nepalíes colocan fotografías afuera de la morgue para lograr identificar a los muertos por la riada](https://www.elperiodico.com/es/videos/internacional/nepalies-colocan-fotografias-afuera-morgue-video/133756846.shtml)<br>
 11:06 [Incendios hoy, 29 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260829/incendios-hoy-29-agosto-cataluna-espana-mapa-fuegos-activos-dv-133756659)<br>
 11:06 [TCL lleva a IFA 2026 su visión del hogar del futuro con IA, pantallas y electrodomésticos conectados](https://www.elperiodico.com/es/tecnologia/20260829/tcl-lleva-ifa-2026-novedades-133756499)<br>
 11:05 [Cristian, albañil: "A día de hoy un buen profesional debería estar cobrando 2.800 euros al mes"](https://www.elperiodico.com/es/economia/20260829/cristian-albanil-buen-profesional-cobrando-2800-euros-dv-et-133636118)<br>

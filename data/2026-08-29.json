@@ -1,5 +1,230 @@
 [
   {
+    "title": "Rego pide formalmente a Hacienda incluir en los presupuestos del Estado una ayuda de 200 euros mensuales por hijo hasta los 18 años",
+    "link": "https://www.elperiodico.com/es/sociedad/20260829/rego-pide-formalmente-hacienda-presupuestos-200-euros-hijo-133758693",
+    "pubDate": "2026-08-29 12:54:22",
+    "category": "",
+    "description": "<h2>La ministra de Juventud e Infancia considera que \"quizá hace falta un impulso mayor\" a las políticas públicas contra la desigualdad y la pobreza infantil</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los noruegos siguen acercándose al Palacio Real para rendir homenaje al rey Harald",
+    "link": "https://www.elperiodico.com/es/videos/internacional/noruegos-siguen-acercandose-palacio-real-harald-video/133758831.shtml",
+    "pubDate": "2026-08-29 12:51:13",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lotería Nacional hoy: resultados y comprobar números premiados en el sorteo de este sábado 29 de agosto",
+    "link": "https://www.elperiodico.com/es/sociedad/20260829/loteria-nacional-hoy-sabado-resultados-comprobar-premiados-133758761",
+    "pubDate": "2026-08-29 12:48:00",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Манчестер Сіті в гостях у Крістал Пелес здобув перемогу з рахунком 4:1",
+    "link": "https://ua.korrespondent.net/sport/football/4907186-manchester-siti-v-hostiakh-u-kristal-peles-zdobuv-peremohu-z-rakhunkom-41",
+    "pubDate": "2026-08-29 12:46:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542811.jpg\">Чотири голи у виконанні Ман Сіті забили на двох Голанн і Шеркі, на що господарі поля змогли відповісти лише одним забитим м’ячем.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mourinho pide el Balón de Oro para Mbappé, sin mencionarle: \"No puedes darlo por ganar la Champions o el Mundial\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260829/mourinho-real-madrid-balon-de-oro-mbappe-133758746",
+    "pubDate": "2026-08-29 12:39:52",
+    "category": "",
+    "description": "<h2>El entrenador portugués defiende el reconocimiento a Luis Enrique y Luis de la Fuente, \"pero el mejor jugador del mundo es otra cosa\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Illa defiende el plan para implantar renovables cuestionado por más de 12.000 alegaciones: \"Es un salto de nivel muy importante\"",
+    "link": "https://www.elperiodico.com/es/politica/20260829/catalunya-energias-renovables-plater-generalitat-illa-133756602",
+    "pubDate": "2026-08-29 12:26:26",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente de la Generalitat promete diálogo y consenso para implantar el Plater, que planifica las zonas para ubicar instalaciones de energía, pero agrega que la Generalitat \"tomará las decisiones que deba tomar\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260803/lluvia-quejas-atasca-polemico-plan-renovables-plater-132984880\">Cientos de alegaciones atascan el polémico plan para implantar las renovables en Catalunya</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві на Оболоні через удар БПЛА загинула дворічна дитина",
+    "link": "https://ua.korrespondent.net/city/kiev/4907245-u-kyievi-na-oboloni-cherez-udar-bpla-zahynula-dvorichna-dytyna",
+    "pubDate": "2026-08-29 12:24:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543332.png\">В Оболонському районі безпілотник упав на відкритій території. Пошкоджено розташоване поруч приміщення кафе.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La labor del Centro de Coordinación de Emergencias de la UE en las guerras de Ucrania y Gaza",
+    "link": "https://www.elperiodico.com/es/videos/internacional/labor-centro-coordinacion-emergenias-ue/133758478.shtml",
+    "pubDate": "2026-08-29 12:23:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así es el Centro de Coordinación de Emergencias de la UE",
+    "link": "https://www.elperiodico.com/es/videos/internacional/centro-coordinacion-emergencias-ue/133758333.shtml",
+    "pubDate": "2026-08-29 12:19:28",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El matrimonio muerto en Cullera quedó atrapado por succión en el sistema de absorción del spa",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/matrimonio-muerto-cullera-quedo-atrapado-spa/133758409.shtml",
+    "pubDate": "2026-08-29 12:18:18",
+    "category": "",
+    "description": "La hipótesis más probable, a falta de los exámenes complementarios, es que murieran por un incidente cardiopulmonar por el esfuerzo extremo del marido de liberarse y de su mujer, de ayudarle",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Turtle Beach presenta el teclado mecánico Vulcan II XP de tamaño completo",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260829/turtle-beach-teclado-vulcan-ii-xp-precio-133758071",
+    "pubDate": "2026-08-29 12:18:05",
+    "category": "",
+    "description": "<h2>El nuevo dispositivo combina interruptores intercambiables en caliente, construcción premium y personalización RGB para jugadores de PC</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El mirador más especial de Barcelona baja de precio: así puedes visitar las azoteas de Santa Maria del Mar para la Diada y la Mercè",
+    "link": "https://www.elperiodico.com/es/barcelona/20260829/barcelona-catedral-santa-maria-del-mar-mirador-diada-merce-dv-loc-133757092",
+    "pubDate": "2026-08-29 12:17:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Del 23 al 27 de setiembre las calles de la capital catalana se llenan de actividades, conciertos y actos religiosos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260825/monasterio-avellanes-lleida-govern-hotel-dv-loc-133623616\">Así es el Monestir de les Avellanes en Lleida, el lugar dónde Illa reunirá al Govern para empezar el curso político</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260824/barcelona-restaurantes-cataluna-comer-vic-dieta-mediterranea-dv-loc-119717366\">Los mejores restaurantes de Barcelona para comer bien, según National Geographic</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Desembarca una nueva embarcación en Cartagena con medio centenar de inmigrantes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260829/desembarca-nueva-embarcacion-calblanque-medio-133758249",
+    "pubDate": "2026-08-29 12:12:37",
+    "category": "",
+    "description": "<h2>Con este nuevo episodio, la nueva cifra de migrantes llegados en las últimas semanas podría elevarse a los dos centenares</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El departamento francés de los Pirineos Orientales rechaza cambiar de nombre para llamarse Pirineos Catalanes",
+    "link": "https://www.elperiodico.com/es/internacional/20260829/francia-pirineos-orientales-catalanes-consulta-133757669",
+    "pubDate": "2026-08-29 12:10:29",
+    "category": "",
+    "description": "<h2 class=\"item\">La votación, celebrada en las últimas semanas con solo un 10,4% de participación, ha resuelto conservar la denominación por un escaso margen</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260819/castillos-cataluna-francia-visitar-edad-media-entradas-pirineo-dv-loc-120531871\">El gran castillo que defendía Catalunya de Francia y que se puede visitar: Su misión era proteger la frontera</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Visita al Centro Europeo de Emergencias, el lugar desde el que la UE responde a las catástrofes: \"Son cada vez más largas y frecuentes\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260829/visita-centro-europeo-emergencias-lugar-133757817",
+    "pubDate": "2026-08-29 12:00:46",
+    "category": "",
+    "description": "<h2>Desde los incendios forestales en España hasta los terremotos en Colombia y Venezuela, la Unión Europea coordina los envíos de ayuda a todo el mundo desde Bruselas </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Y eso que lo petan",
+    "link": "https://www.elperiodico.com/es/opinion/20260829/petan-musica-catalan-articulo-sergi-sol-133747445",
+    "pubDate": "2026-08-29 12:00:45",
+    "category": "",
+    "description": "<h2>Nadie hoy puede seguir con la cantinela maliciosa contra una expresión musical porque se expresa en catalán, como si cantar en catalán fuera algo artificioso</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20251109/oques-grasses-anuncia-retirada-concierto-estadi-123543443\">Oques Grasses anuncia su retirada con un gran concierto en el Estadi Olímpic</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Генштаб заявив про ураження у Донецьку і Криму",
+    "link": "https://ua.korrespondent.net/ukraine/4907243-henshtab-zaiavyv-pro-urazhennia-u-donetsku-i-krymu",
+    "pubDate": "2026-08-29 11:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543318.jpg\">ЗСУ 28 серпня та в ніч на 29 серпня Сили оборони України завдали ураження по низці військових цілей РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Баварія почала сезон розгромною перемогою над Штутгартом",
+    "link": "https://ua.korrespondent.net/sport/football/4907180-bavariia-pochala-sezon-rozghromnoui-peremohoui-nad-shtuthartom",
+    "pubDate": "2026-08-29 11:54:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542797.jpg\">У рамках Бундесліги відбувся матч першого туру змагань, у якому на полі змагалися мюнхенці і шваби.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los 5 mejores restaurantes de Badalona, según Tripadvisor",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260829/mejores-restaurantes-badalona-tripadvisor-dv-loc-107056903",
+    "pubDate": "2026-08-29 11:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240920/bar-badalona-playa-desayunos-origen-beach-dv-loc-107380273\" >El bar de Badalona a pie de playa que triunfa con sus desayunos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230501/buenos-restaurantes-badalona-84300825\" >6 buenos restaurantes para acercarse a Badalona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20230511/5-buenos-restaurantes-breve-escapada-84311016\" >Los mejores restaurantes para una breve escapada al Maresme</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "José Elías, empresario: \"Me gasto entre 250.000 y 300.000 euros en montar cada supermercado de La Sirena, de cada uno solo me queda un beneficio de 30.000 euros al año\"",
+    "link": "https://www.elperiodico.com/es/economia/20260829/jose-elias-empresario-gasto-euros-montar-supermercado-sirena-beneficio-dv-et-133757407",
+    "pubDate": "2026-08-29 11:43:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El empresario advierte que una de cada diez tiendas de La Sirena acaba cerrando</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20251007/jose-elias-multimillonario-empresarios-sin-escrupulos-buscan-dinero-dv-122343769\">José Elías, multimillonario: \"A los empresarios se nos pinta como gente sin escrúpulos que solo busca el dinero... pero la gran mayoría no somos así\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salvador Ibáñez, neuropediatra: \"Cualquier escolarización temprana no es beneficiosa, ni escolarizar antes produce un cerebro más estimulado\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260829/bebes-educacion-escolarizacion-temprana-neuropedriatra-133756917",
+    "pubDate": "2026-08-29 11:41:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El portavoz de la Sociedad Española de Neurología Pediátrica sostiene que la posibilidad de que los bebés \"permanezcan con padres o abuelos puede ser una opción excelente, sobre todo durante los dos primeros años\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260615/ninos-anos-atencion-temprana-deberia-llegar-derecho-privilegio-comunidades-131405567\">Solo el 6% de los niños de 0 a 6 años accede a la Atención Temprana, que debería llegar al 10%: \"No es un privilegio, es un derecho\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Бориспільському районі внаслідок удару РФ загинула 14-річна дівчинка",
+    "link": "https://ua.korrespondent.net/ukraine/4907240-u-boryspilskomu-raioni-vnaslidok-udaru-rf-zahynula-14-richna-divchynka",
+    "pubDate": "2026-08-29 11:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543331.jpg\">Росіяни атакували Бориспільський район Київщини. Є постраждалі та пошкоджені цивільні об’єкти. Загинула 14-річна дівчинка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Повінь у Непалі: кількість зниклих безвісти українців через зросла до 64",
+    "link": "https://ua.korrespondent.net/ukraine/4907239-povin-u-nepali-kilkist-znyklykh-bezvisty-ukraintsiv-cherez-zrosla-do-64",
+    "pubDate": "2026-08-29 11:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543293.jpg\">Пошуково-рятувальні операції проводяться щоденно з раннього ранку. Використання авіації ускладнене через туман і можливе лише протягом першої половини дня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hallado con vida otro español desaparecido en Nepal tras la riada",
+    "link": "https://www.elperiodico.com/es/internacional/20260829/localizados-espanoles-desaparecidos-nepal-133756960",
+    "pubDate": "2026-08-29 11:19:59",
+    "category": "",
+    "description": "<h2>Las autoridades nepalíes señalaron que se han rescatado 184 turistas mientras que 420 siguen en paradero desconocido, en una tragedia que ha causado por el momento cerca de 600 fallecidos  </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nepalíes colocan fotografías afuera de la morgue para lograr identificar a los muertos por la riada",
+    "link": "https://www.elperiodico.com/es/videos/internacional/nepalies-colocan-fotografias-afuera-morgue-video/133756846.shtml",
+    "pubDate": "2026-08-29 11:19:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Italia decidirá este lunes si mantiene o liquida los controles fronterizos con España",
     "link": "https://www.elperiodico.com/es/internacional/20260829/italia-decidir-controles-frontera-crisis-ceuta-31agosto-133756756",
     "pubDate": "2026-08-29 11:06:26",
@@ -27,6 +252,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-08-29 11:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Cristian, albañil: \"A día de hoy un buen profesional debería estar cobrando 2.800 euros al mes\"",
     "link": "https://www.elperiodico.com/es/economia/20260829/cristian-albanil-buen-profesional-cobrando-2800-euros-dv-et-133636118",
     "pubDate": "2026-08-29 11:05:00",
@@ -42,6 +276,15 @@
     "category": "",
     "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
     "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Шахтар - Полісся: які прогнози на поєдинок",
+    "link": "https://ua.korrespondent.net/sport/4907125-shakhtar-polissia-yaki-prohnozy-na-poiedynok",
+    "pubDate": "2026-08-29 11:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542607.jpg\">\r\nСпільно з BETKING, ліцензованим партнером проєкту у сфері ставок, пропонуємо розглянути варіанти ставок на матч чемпіонату України.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -87,6 +330,15 @@
     "category": "Новини політики",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Манчестер Сіті спробує повернути ексгравця",
+    "link": "https://ua.korrespondent.net/sport/football/4907172-manchester-siti-sprobuie-povernuty-ekshravtsia",
+    "pubDate": "2026-08-29 10:24:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542771.jpg\">Футболіст, щодо якого спрямовані такі дії, навряд чи погодиться через небажання двічі входити в одну річку.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -180,6 +432,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Арсенал побачив у Реала придатного гравця",
+    "link": "https://ua.korrespondent.net/sport/football/4907170-arsenal-pobachyv-u-reala-prydatnoho-hravtsia",
+    "pubDate": "2026-08-29 09:38:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542745.jpg\">Лондонську команду зацікавив бразильський нападник, якого не хоче відпускати головний тренер.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los primeros 27 minutos de GTA VI",
     "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/primeros-27-minutos-gta-vi/133755212.shtml",
     "pubDate": "2026-08-29 09:31:21",
@@ -187,6 +448,15 @@
     "description": "",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "В Ісландії проходить референдум щодо перспектив членства в ЄС",
+    "link": "https://ua.korrespondent.net/world/4907227-v-islandii-prokhodyt-referendum-schodo-perspektyv-chlenstva-v-yes",
+    "pubDate": "2026-08-29 09:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543215.jpg\">Виборчі дільниці відкриті до 22:00 за місцевим часом. Виборці вирішують, чи повернутися до переговорів про членство, чи навіть відмовитися від обговорення того, як виглядатиме угода.",
+    "topic": "вибори",
+    "topic_match_probability": 100
   },
   {
     "title": "El matrimonio muerto en Valencia sufrió un atrapamiento por succión al taponarse el sistema de absorción del spa",
@@ -234,6 +504,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Шахтар — Полісся: прев'юматчу четвертого туру УПЛ",
+    "link": "https://ua.korrespondent.net/sport/4907127-shakhtar-polissia-prevuimatchu-chetvertoho-turu-upl",
+    "pubDate": "2026-08-29 09:00:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542610.jpg\">\r\nBETKING, ліцензований партнер проекту у сфері ставок, пропонує анонс поєдинку чемпіонату України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Trump negocia ceder parte de un espacio natural protegido de Estados Unidos a un promotor inmobiliario",
     "link": "https://www.elperiodico.com/es/internacional/20260829/trump-estados-unidos-parque-nacional-yosemite-133754451",
     "pubDate": "2026-08-29 08:55:11",
@@ -259,6 +538,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543169.jpg\">Зафіксовані влучання на 15 локаціях, а також падіння збитих цілей (уламків) на чотирьох локаціях.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "УЄФА почав розслідування дій уболівальників Црвени Звезди в Лізі Європи",
+    "link": "https://ua.korrespondent.net/sport/football/4907158-uiefa-pochav-rozsliduvannia-dii-ubolivalnykiv-tsrveny-zvezdy-v-lizi-yevropy",
+    "pubDate": "2026-08-29 08:24:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4542691.jpg\">Фанати Црвени Звезди демонстрували своє прихильне ставлення до нещодавно померлого військового злочинця Ратка Младича, засудженого Гаазьким трибуналом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Unas cámaras con IA vigilan cuatro playas y una piscina en Catalunya para evitar ahogamientos",
@@ -396,6 +684,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Entrevista con Ona Baradad, jugadora del RCD Espanyol: \"Yo era la única chica del club en mi pueblo, ahora alucino al ver todo lo que hacen las mujeres\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260829/entrevista-ona-baradad-jugadora-rcd-133671203",
+    "pubDate": "2026-08-29 07:01:20",
+    "category": "",
+    "description": "<h2 class=\"item\">ENTREVISTA | <a href=\"https://www.elperiodico.com/es/deportes/20260828/marc-ballester-entrenador-badalona-women-133708218\" target=\"_blank\">Marc Ballester, entrenador del Badalona Women:</a> \"Si las jugadoras se marchan de la Liga F es por algo; tienen motivos para hacerlo\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La Liga F pierde terreno: las claves del estancamiento de un campeonato que vive un éxodo de estrellas",
     "link": "https://www.elperiodico.com/es/deportes/20260829/liga-f-pierde-terreno-claves-133671320",
     "pubDate": "2026-08-29 07:01:11",
@@ -468,6 +765,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Abascal busca revalidar a Vox como un referente de la extrema derecha mundial en el año de la gran oportunidad de Le Pen",
+    "link": "https://www.elperiodico.com/es/politica/20260829/abascal-busca-revalidar-vox-referente-133746533",
+    "pubDate": "2026-08-29 06:01:15",
+    "category": "",
+    "description": "<h2>El escenario político de 2026-2027 podría ver a Marine Le Pen y Santiago Abascal como líderes de peso en Francia y España, respectivamente, consolidando el avance de la extrema derecha</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La ONU pide movilizar 202 millones de dólares para paliar los efectos de El Niño en \"países de alto riesgo\" de inundaciones y sequías",
     "link": "https://www.elperiodico.com/es/sociedad/20260829/onu-pide-202-millones-dolares-efectos-el-nino-paises-alto-riesgo-133523841",
     "pubDate": "2026-08-29 06:01:08",
@@ -538,6 +844,15 @@
     "description": "<h2>El actual responsable del órgano creado por CUNEF Universidad y el Centro de Análisis y Estudios se incorporó como asesor al Instituto de Estudios Económicos de la Provincia de Alicante (INECA) </h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Historias de las Cortes (V): Cuando Cuba y Puerto Rico casi se convierten en estados de la I República",
+    "link": "https://www.elperiodico.com/es/politica/20260829/cuba-puerto-rico-estado-espana-133522976",
+    "pubDate": "2026-08-29 06:00:54",
+    "category": "",
+    "description": "<h2>Cada sábado de agosto rebuscamos en los archivos de las Cortes Generales para recuperar curiosidades y detalles</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260801/historias-cortes-plan-volar-bandera-marruecos-133001333\">Historias de las Cortes (I): El plan del Congreso para \"volar\" un territorio español antes de que Marruecos pusiera su bandera</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260808/historias-cortes-calaveras-tuneles-congreso-133152933\">Historias de las Cortes (II): Calaveras, túneles secretos y una cámara acorazada, los subsuelos del Congreso</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260815/historias-cortes-golpe-estado-23f-juerga-133154402\">Historias de las Cortes (III): El golpe de Estado del 23-F o cómo correrse una juerga de 200.000 pesetas</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260822/historias-cortes-acusado-colaborar-eta-fugado-133155574\">Historias de las Cortes (IV): El acusado de colaborar con ETA que aprovechó ser diputado para fugarse 13 años</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Reabre la L1 del metro de Barcelona tras seis semanas de obras en el tramo Florida-Plaça de Sants",
