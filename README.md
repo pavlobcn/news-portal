@@ -1,8 +1,13 @@
-# News for 2026-08-29 17:31
+# News for 2026-08-29 20:50
 
 Previous day: [2026-08-28](./data/2026-08-28.md)
 
 ## ua.korrespondent.net
+19:54 [Загинула головна редакторка видання Фокус](https://ua.korrespondent.net/ukraine/4907310-zahynula-holovna-redaktorka-vydannia-fokus)<br>
+18:50 [У Непалі поховали сотні невпізнаних тіл](https://ua.korrespondent.net/world/4907299-u-nepali-pokhovaly-sotni-nevpiznanykh-til)<br>
+18:25 [В одній з областей України запровадили графіки відключень](https://ua.korrespondent.net/ukraine/4907294-v-odnii-z-oblastei-ukrainy-zaprovadyly-hrafiky-vidkluichen)<br>
+18:00 [ППО стримує атаки сотень дронів РФ протягом дня](https://ua.korrespondent.net/ukraine/4907290-ppo-strymuie-ataky-soten-droniv-rf-protiahom-dnia)<br>
+17:33 [У Києві повторні влучання "шахедів", зростає число поранених](https://ua.korrespondent.net/city/kiev/4907288-u-kyievi-povtorni-vluchannia-shakhediv-zrostaie-chyslo-poranenykh)<br>
 16:02 [Повінь у Непалі: підтверджено загибель 675 людей](https://ua.korrespondent.net/world/4907269-povin-u-nepali-pidtverdzheno-zahybel-675-luidei)<br>
 15:43 [Збірна України з баскетболу серед найкращих із можливістю пройти у фінал ЧС](https://ua.korrespondent.net/sport/basketball/4907266-zbirna-ukrainy-z-basketbolu-sered-naikraschykh-iz-mozhlyvistui-proity-u-final-chs)<br>
 15:41 [Росія продовжила заборону експорту дизпалива](https://ua.korrespondent.net/business/economics/4907265-rosiia-prodovzhyla-zaboronu-eksportu-dyzpalyva)<br>
@@ -33,12 +38,22 @@ Previous day: [2026-08-28](./data/2026-08-28.md)
 00:50 [Шведський винищувач Gripen F здійснив перший політ](https://ua.korrespondent.net/world/4907192-shvedskyi-vynyschuvach-Gripen-F-zdiisnyv-pershyi-polit)<br>
 
 ## as.com
+20:42 [Río Breogán - Real Madrid, en directo: Amistoso de pretemporada en vivo hoy](https://as.com/baloncesto/acb/rio-breogan-real-madrid-en-directo-amistoso-de-pretemporada-en-vivo-hoy-f202608-d/)<br>
+18:20 [Stanley Umude del Barça: “Puedo aportar versatilidad y energía”](https://as.com/baloncesto/acb/stanley-umude-del-barca-puedo-aportar-versatilidad-y-energia-f202608-n/)<br>
 13:16 [España y sus puntos a mejorar](https://as.com/baloncesto/mas_baloncesto/espana-y-sus-puntos-a-mejorar-f202608-n/)<br>
 08:18 [Arranca el Madrid de Pedro Martínez](https://as.com/baloncesto/acb/arranca-el-madrid-de-pedro-martinez-f202608-n/)<br>
 02:18 [¿Cómo está el camino de España al Mundial tras la derrota?](https://as.com/baloncesto/mas_baloncesto/como-esta-el-camino-de-espana-al-mundial-tras-la-derrota-f202608-n/)<br>
 00:08 [Mateo: “Nos faltan horas de vuelo”](https://as.com/baloncesto/mas_baloncesto/mateo-nos-faltan-horas-de-vuelo-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:00 [Muere Carlos Espinosa de los Monteros, ex presidente de Iberia y primer Alto Comisionado para la Marca de España](https://www.elperiodico.com/es/economia/20260829/muere-carlos-espinosa-monteros-ex-133766739)<br>
+20:00 [Casi la mitad de billetes sencillos del transporte público del área de Barcelona se validarán con tarjeta de crédito](https://www.elperiodico.com/es/barcelona/20260829/mitad-billetes-sencillos-transporte-publico-area-barcelona-validaran-tarjeta-credito-133740210)<br>
+19:17 [Rescatan con vida a una niña de seis años tras pasar 60 horas atrapada en Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-nina-seis-anos-nepal/133766041.shtml)<br>
+19:11 [Tiempo en Catalunya mañana domingo: El sol se impone y las temperaturas remontan](https://www.elperiodico.com/es/tiempo/20260829/tiempo-cataluna-domingo-sol-temperaturas-lluvias-dv-loc-133765695)<br>
+19:00 [Queja al Síndic de Greuges por la actuación policial contra una vecina de Port de la Selva que hacía nudismo](https://www.elperiodico.com/es/sociedad/20260829/queja-sindic-greuges-actuacion-policial-nudismo-port-selva-133765550)<br>
+18:57 [Un hombre muere tras prenderse fuego ante la Ciudad de la Justicia de Córdoba](https://www.elperiodico.com/es/videos/sucesos/hombre-muere-prenderse-fuego-ciudad/133765605.shtml)<br>
+18:15 [Sebastián La Rosa, especialista en longevidad, alerta: hasta el 90% del envejecimiento facial se debe a la radiación solar](https://www.elperiodico.com/es/vida-y-estilo/20260829/especialista-longevidad-sebastian-rosa-advierte-90-envejecimiento-facial-radiacion-solar-dv-133636342)<br>
+17:45 [Un hombre, herido grave tras un accidente en una atracción del parque Warner de Madrid](https://www.elperiodico.com/es/sucesos/20260829/hombre-herido-grave-parque-warner-madrid-accidente-atraccion-133764002)<br>
 17:30 [El milenario castillo Godmar de Badalona sale a la venta por 12,5 millones de euros](https://www.elperiodico.com/es/sociedad/20260829/castillo-godmar-badalona-en-venta-133763243)<br>
 17:25 [La alternativa barata a los 'smartwatches': este clásico de los relojes ahora tiene Bluetooth y contador de pasos](https://www.elperiodico.com/es/tecnologia/20260829/reloj-smartwatch-barato-bluetooth-contador-pasos-casio-fb100w-dv-133673089)<br>
 17:12 [Hasta un 20% de la población tiene misofonía](https://www.elperiodico.com/es/videos/sociedad/20-poblacion-misofonia/133763393.shtml)<br>
