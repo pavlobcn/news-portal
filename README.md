@@ -1,8 +1,11 @@
-# News for 2026-08-29 20:50
+# News for 2026-08-29 22:22
 
 Previous day: [2026-08-28](./data/2026-08-28.md)
 
 ## ua.korrespondent.net
+21:56 [У Києві палає будинок після влучання "шахеда"](https://ua.korrespondent.net/city/kiev/4907329-u-kyievi-palaie-budynok-pislia-vluchannia-shakheda)<br>
+21:34 [У Донецьку підірвали авто заступника начальника Оленівської колонії - ЗМІ](https://ua.korrespondent.net/ukraine/4907326-u-donetsku-pidirvaly-avto-zastupnyka-nachalnyka-olenivskoi-kolonii-zmi)<br>
+20:51 [На Одещині вбили 15-річну дівчину](https://ua.korrespondent.net/ukraine/4907317-na-odeschyni-vbyly-15-richnu-divchynu)<br>
 19:54 [Загинула головна редакторка видання Фокус](https://ua.korrespondent.net/ukraine/4907310-zahynula-holovna-redaktorka-vydannia-fokus)<br>
 18:50 [У Непалі поховали сотні невпізнаних тіл](https://ua.korrespondent.net/world/4907299-u-nepali-pokhovaly-sotni-nevpiznanykh-til)<br>
 18:25 [В одній з областей України запровадили графіки відключень](https://ua.korrespondent.net/ukraine/4907294-v-odnii-z-oblastei-ukrainy-zaprovadyly-hrafiky-vidkluichen)<br>
@@ -38,6 +41,7 @@ Previous day: [2026-08-28](./data/2026-08-28.md)
 00:50 [Шведський винищувач Gripen F здійснив перший політ](https://ua.korrespondent.net/world/4907192-shvedskyi-vynyschuvach-Gripen-F-zdiisnyv-pershyi-polit)<br>
 
 ## as.com
+21:48 [España da miedo antes del Mundial](https://as.com/baloncesto/mas_baloncesto/espana-da-miedo-antes-del-mundial-f202608-n/)<br>
 20:42 [Río Breogán - Real Madrid, en directo: Amistoso de pretemporada en vivo hoy](https://as.com/baloncesto/acb/rio-breogan-real-madrid-en-directo-amistoso-de-pretemporada-en-vivo-hoy-f202608-d/)<br>
 18:20 [Stanley Umude del Barça: “Puedo aportar versatilidad y energía”](https://as.com/baloncesto/acb/stanley-umude-del-barca-puedo-aportar-versatilidad-y-energia-f202608-n/)<br>
 13:16 [España y sus puntos a mejorar](https://as.com/baloncesto/mas_baloncesto/espana-y-sus-puntos-a-mejorar-f202608-n/)<br>
@@ -46,6 +50,7 @@ Previous day: [2026-08-28](./data/2026-08-28.md)
 00:08 [Mateo: “Nos faltan horas de vuelo”](https://as.com/baloncesto/mas_baloncesto/mateo-nos-faltan-horas-de-vuelo-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:01 [Una arrolladora España se luce ante Mali (97-58)](https://www.elperiodico.com/es/deportes/20260829/arrolladora-espana-luce-mali-97-133768912)<br>
 20:00 [Muere Carlos Espinosa de los Monteros, ex presidente de Iberia y primer Alto Comisionado para la Marca de España](https://www.elperiodico.com/es/economia/20260829/muere-carlos-espinosa-monteros-ex-133766739)<br>
 20:00 [Casi la mitad de billetes sencillos del transporte público del área de Barcelona se validarán con tarjeta de crédito](https://www.elperiodico.com/es/barcelona/20260829/mitad-billetes-sencillos-transporte-publico-area-barcelona-validaran-tarjeta-credito-133740210)<br>
 19:17 [Rescatan con vida a una niña de seis años tras pasar 60 horas atrapada en Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-nina-seis-anos-nepal/133766041.shtml)<br>
