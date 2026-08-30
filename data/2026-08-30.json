@@ -1,5 +1,176 @@
 [
   {
+    "title": "El fin de una era en WhatsApp: este es el emoji que ha destronado al número uno hasta ahora",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/whatsapp-emojis-comunicacion-digital-google-dv-et-133680139",
+    "pubDate": "2026-08-30 15:00:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La cara llorando a gritos, se convierte en el emoji más utilizado del mundo en 2025 y adelanta a las tradicionales caras de la risa, según datos de Google analizados por el diario 'The New York Times'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260102/nuevos-emoticonos-whatsapp-podras-utilizarlos-dv-125215003\">Nuevos emoticonos en WhatsApp: solo podrás utilizarlos si tienes un móvil con estas características</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Después del terremoto en Colombia: \"Si reconstruimos igual que antes, se repetirá el desastre\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/terremoto-colombia-cali-tareas-recuperacion-133780590",
+    "pubDate": "2026-08-30 15:00:13",
+    "category": "",
+    "description": "<h2>Un equipo de ingenieros de la ciudad de Cali cuenta a EL PERIÓDICO cómo están evaluando el daño en edificios de viviendas e infraestructuras esenciales, en colaboración con las autoridades colombianas</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260820/reconstruccion-eje-cafetero-colombia-terremoto-tradicion-autoconstruccion-sin-seguridad-133518370\">La ardua tarea de reconstruir las comunidades del Eje Cafetero: \"Aquí prima la tradición de la autoconstrucción de casas sin criterios de seguridad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mercenarios rusos ayudaron a la Junta Militar de Níger a sofocar el golpe de Estado",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/rusia-antiguos-milicianos-wagner-salvan-junta-niger-133780531",
+    "pubDate": "2026-08-30 14:56:18",
+    "category": "",
+    "description": "<h2>Los<strong> </strong>sucesos de Niamey exponen el modelo de implantación del Kremlin en el África subsahariana, basado en dar seguridad a los gobiernos autocráticos a cambio de acceso sin límites a los recursos mineros</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Barça acuerda el fichaje de Gabriel Jesús con el Arsenal por 10 millones de euros más incentivos",
+    "link": "https://www.elperiodico.com/es/deportes/20260830/barca-acuerda-fichaje-gabriel-jesus-133780478",
+    "pubDate": "2026-08-30 14:55:20",
+    "category": "",
+    "description": "<h2>El delantero brasileño de 29 años llega para completar la posición de 'nueve' en un club azulgrana que dice no olvidar a Julián Álvarez para el futuro</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрони СБС знищили ППО на двох аеродромах Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4907431-drony-sbs-znyschyly-ppo-na-dvokh-aerodromakh-rosii",
+    "pubDate": "2026-08-30 14:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544530.png\">Сили безпілотних систем знищили п'ять елементів ППО на російських аеродромах Єйськ і Міллерово.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rescatan a los pasajeros de un ferry naufragado en Chipre",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescatan-pasajeros-ferry-naufragado-chipre/133780447.shtml",
+    "pubDate": "2026-08-30 14:47:36",
+    "category": "",
+    "description": "Las autoridades locales califican la situación de \"extremadamente grave\" e inician una operación de rescate",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos seis muertos en un naufragio de un ferry con 270 personas a bordo cerca de Chipre",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/chipre-naufraga-ferry-270-personas-bordo-133780194",
+    "pubDate": "2026-08-30 14:33:17",
+    "category": "",
+    "description": "<h2>Las autoridades locales califican la situación de \"extremadamente grave\" e inician una operación de rescate</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El rescate de los pasajeros del crucero que ha zozobrado en Chipre",
+    "link": "https://www.elperiodico.com/es/videos/internacional/rescate-pasajeros-crucero-zozobro-chipre-video/133780154.shtml",
+    "pubDate": "2026-08-30 14:27:46",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Julián Alvarez se recupera de su indisposición y retoma los entrenamientos con el grupo en el Atlético",
+    "link": "https://www.elperiodico.com/es/deportes/20260830/julian-alvarez-recupera-indisposicion-retoma-133780086",
+    "pubDate": "2026-08-30 14:23:28",
+    "category": "",
+    "description": "<h2>El delantero argentino, tras su frustrado fichaje por el Barça, vuelve a la actividad con el Atlético</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Вступ до ЄС: відомо, як проголосували ісландці на референдумі",
+    "link": "https://ua.korrespondent.net/world/4907429-vstup-do-yes-vidomo-yak-proholosuvaly-islandtsi-na-referendumi",
+    "pubDate": "2026-08-30 14:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544497.jpg\">Жителі Ісландії на референдумі виступили проти поновлення переговорів щодо вступу до Євросоюзу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "María Dolores de la Puerta, doctora experta en microbiota: \"No desayunes nada más levantarte, intenta tomar algo líquido, agua no muy caliente con limón. Mínimo una hora después, haces un desayuno\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260830/doctora-puerta-experta-microbiota-desayuno-dv-et-133671364",
+    "pubDate": "2026-08-30 14:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La especialista en microbiota intestinal ha explicado cómo debes hacer la primera comida del día</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260504/miguel-angel-peinado-entrenador-personal-recomendaciones-desayuno-perfecto-dv-129669667\">Miguel Ángel Peinado, entrenador personal: \"Si a las dos horas de desayunar ya tienes hambre es que no sacia\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Українець врятував Остін голом в останні секунди",
+    "link": "https://ua.korrespondent.net/sport/football/4907427-ukrainets-vriatuvav-ostin-holom-v-ostanni-sekundy",
+    "pubDate": "2026-08-30 14:14:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544480.jpg\">Сваток став справжнім героєм поєдинку, влучно зігравши на добиванні на останніх секундах компенсованого часу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El aeropuerto de El Prat se llena de viajeros que vuelven de unas vacaciones ahora \"más caras\": \"Es cuestión de organizarse\"",
+    "link": "https://www.elperiodico.com/es/economia/20260830/aeropuerto-prat-lleno-viajeros-vuelven-vacaciones-operacion-retorno-133779598",
+    "pubDate": "2026-08-30 14:04:01",
+    "category": "",
+    "description": "<h2>El aeropuerto afronta la operación retorno de finales de agosto con 4.421 vuelos comerciales programados entre este viernes y el lunes, un 2,2% más que el año pasado</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260830/barcelona-girona-ave-trenes-alta-velocidad-incidencia-133774432\">Una avería deja sin alta velocidad entre Barcelona, Girona y Francia en plena operación retorno: \"Hemos tenido que esperar un bus durante tres horas\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260830/operacion-retorno-agosto-2026-trafico-carreteras-accidentes-ultima-hora-directo-133253906\">DIRECTO | Operación retorno de agosto 2026, en directo | Última hora del tráfico, retenciones y estado de las carreteras en Catalunya y resto de España</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La ‘doble’ de la princesa Leonor recrea uno de sus looks",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/influencer-conocida-parecerse-princesa-leonor/133779772.shtml",
+    "pubDate": "2026-08-30 14:02:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Seis de cada diez coches de segunda mano vendidos en España superan los 15 años de antigüedad",
+    "link": "https://www.elperiodico.com/es/motor/20260830/seis-de-cada-diez-coches-segunda-mano-superan-15-anos-antiguedad-133711657",
+    "pubDate": "2026-08-30 14:01:07",
+    "category": "",
+    "description": "<h2>Un informe revela que los modelos de ocasión más demandados acumulan una media de 16,3 años, 189.000 kilómetros y un mayor índice de incidencias que la media nacional</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mariano Martínez, veterinario, sobre qué puede comer tu perro (y qué no): \"Darle fruta a tu mascota puede parecer muy sano, pero hay algunas que son muy peligrosas\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260830/perro-frutas-toxicas-saludables-mariano-martinez-veterinario-dv-et-133701086",
+    "pubDate": "2026-08-30 14:01:06",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto también señala qué frutas son saludables para el animal y cómo actuar ante una intoxicación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260606/manuel-manzano-veterinario-desvela-mejores-alimentos-perros-dv-130798669\" >Manuel Manzano, veterinario, desvela los mejores alimentos para perros y destaca un \"superalimento\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260503/perder-peso-alimentacion-frutas-aurelio-rojas-cardiologo-dv-129609772\" >Las cuatro frutas que recomienda un cardiólogo para perder peso sin disparar el azúcar</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Хмара розповів, як боротися із реактивними дронами",
+    "link": "https://ua.korrespondent.net/ukraine/4907423-khmara-rozpoviv-yak-borotysia-iz-reaktyvnymy-dronamy",
+    "pubDate": "2026-08-30 13:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544461.jpg\">Україна має чотири потенційних перехоплювачі реактивних \"шахедів\", вони вже пройшли польові випробування, каже міністр.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Despega Roman, el telescopio de la NASA que no quería Trump y con un campo de visión 100 veces mayor que el histórico Hubble",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/telescopio-roman-despega-exito-nasa-133779546",
+    "pubDate": "2026-08-30 13:52:29",
+    "category": "",
+    "description": "<h2>La agencia estadounidense informe que el lanzamiento se produce con éxito desde Florida</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хрговіч вразив відвертістю після шокуючого нокауту",
+    "link": "https://ua.korrespondent.net/sport/boks/4907425-khrhovich-vrazyv-vidvertistui-pislia-shokuuichoho-nokautu",
+    "pubDate": "2026-08-30 13:47:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544478.jpg\">Хрговіч емоційно відреагував на свою сенсаційну перемогу, зазначивши, що джерелом його дивовижного перелому у поєдинку була вища підтримка.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Jason Isaacs, conocido actor de 'Harry Potter' y 'The White Lotus', visita el Museu d’Història dels Jueus de Girona y deja un mensaje: \"Gracias por mantener vivos estos recuerdos\"\"",
     "link": "https://www.elperiodico.com/es/gente/20260830/jason-isaacs-actor-harry-potter-visita-museu-historia-jueus-girona-comunidad-judios-133779237",
     "pubDate": "2026-08-30 13:44:02",
@@ -77,6 +248,15 @@
     "pubDate": "2026-08-30 13:18:59",
     "category": "",
     "description": "<h2>El tribunal le rebaja el tiempo en el que tendrá prohibido tener animales, al considerar que el delito de maltrato engloba el de abandono</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Денний обстріл Києва: що відомо про наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4907419-dennyi-obstril-kyieva-scho-vidomo-pro-naslidky",
+    "pubDate": "2026-08-30 13:15:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544426.jpg\">Внаслідок російської атаки на столицю виникла пожежа в нежитловій будівлі, повідомив Віталій Кличко.",
     "topic": "",
     "topic_match_probability": 0
   },

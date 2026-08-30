@@ -1,9 +1,12 @@
-# News for 2026-08-30 13:52
+# News for 2026-08-30 15:08
 
 Previous day: [2026-08-29](./data/2026-08-29.md)
 
 ## ua.korrespondent.net
+14:52 [Дрони СБС знищили ППО на двох аеродромах Росії](https://ua.korrespondent.net/ukraine/4907431-drony-sbs-znyschyly-ppo-na-dvokh-aerodromakh-rosii)<br>
+13:58 [Хмара розповів, як боротися із реактивними дронами](https://ua.korrespondent.net/ukraine/4907423-khmara-rozpoviv-yak-borotysia-iz-reaktyvnymy-dronamy)<br>
 13:35 ["Фантомні патрулі" повертаються на дороги України](https://ua.korrespondent.net/ukraine/4907421-fantomni-patruli-povertauitsia-na-dorohy-ukrainy)<br>
+13:15 [Денний обстріл Києва: що відомо про наслідки](https://ua.korrespondent.net/city/kiev/4907419-dennyi-obstril-kyieva-scho-vidomo-pro-naslidky)<br>
 12:51 [Ворог вдарив по складу Sandora – ЗМІ](https://ua.korrespondent.net/ukraine/4907417-voroh-vdaryv-po-skladu-Sandora-zmi)<br>
 12:30 [Росія вдарила балістикою по забігу](https://ua.korrespondent.net/ukraine/4907415-rosiia-vdaryla-balistykoui-po-zabihu)<br>
 12:16 [Кількість загиблих у Непалі сягнула 750 осіб](https://ua.korrespondent.net/world/4907413-kilkist-zahyblykh-u-nepali-siahnula-750-osib)<br>
@@ -37,6 +40,13 @@ Previous day: [2026-08-29](./data/2026-08-29.md)
 11:48 [Justin Minaya, a un paso del Barcelona](https://as.com/baloncesto/acb/justin-minaya-a-un-paso-del-barcelona-f202608-n/)<br>
 
 ## www.elperiodico.com
+15:00 [El fin de una era en WhatsApp: este es el emoji que ha destronado al número uno hasta ahora](https://www.elperiodico.com/es/sociedad/20260830/whatsapp-emojis-comunicacion-digital-google-dv-et-133680139)<br>
+15:00 [Después del terremoto en Colombia: "Si reconstruimos igual que antes, se repetirá el desastre"](https://www.elperiodico.com/es/internacional/20260830/terremoto-colombia-cali-tareas-recuperacion-133780590)<br>
+14:47 [Rescatan a los pasajeros de un ferry naufragado en Chipre](https://www.elperiodico.com/es/videos/internacional/rescatan-pasajeros-ferry-naufragado-chipre/133780447.shtml)<br>
+14:33 [Al menos seis muertos en un naufragio de un ferry con 270 personas a bordo cerca de Chipre](https://www.elperiodico.com/es/internacional/20260830/chipre-naufraga-ferry-270-personas-bordo-133780194)<br>
+14:27 [El rescate de los pasajeros del crucero que ha zozobrado en Chipre](https://www.elperiodico.com/es/videos/internacional/rescate-pasajeros-crucero-zozobro-chipre-video/133780154.shtml)<br>
+14:02 [La ‘doble’ de la princesa Leonor recrea uno de sus looks](https://www.elperiodico.com/es/videos/ocio-y-cultura/influencer-conocida-parecerse-princesa-leonor/133779772.shtml)<br>
+13:52 [Despega Roman, el telescopio de la NASA que no quería Trump y con un campo de visión 100 veces mayor que el histórico Hubble](https://www.elperiodico.com/es/sociedad/20260830/telescopio-roman-despega-exito-nasa-133779546)<br>
 13:23 [El padre de uno de los jóvenes muertos en Ceuta reprocha a Rabat su silencio y falta de acción](https://www.elperiodico.com/es/videos/sociedad/padre-jovenes-muertos-ceuta-reprocha-video/133778889.shtml)<br>
 13:23 [Hallan a dos turistas alemanas inconscientes por intoxicación de monóxido de carbono en su habitación de un hotel de Mallorca](https://www.elperiodico.com/es/sucesos/20260830/hallan-turistas-alemanas-inconscientes-intoxicacion-habitacion-hotel-mallorca-133778923)<br>
 13:18 [La Audiencia de Baleares ratifica una condena a seis meses de cárcel a un hombre que arrojó a su perra enferma a un contenedor](https://www.elperiodico.com/es/sociedad/20260830/audiencia-baleares-ratifica-condena-abandono-perro-enfermo-133778182)<br>
