@@ -1,5 +1,86 @@
 [
   {
+    "title": "Una mujer de 32 años y su hija de 9 mueren en el incendio de un bar de Teruel",
+    "link": "https://www.elperiodico.com/es/sucesos/20260830/mujer-32-anos-hija-9-133787578",
+    "pubDate": "2026-08-30 20:50:03",
+    "category": "",
+    "description": "<h2>Se desconocen las causas que ocasionaron el fuego, que afectó a un establecimiento de la localidad de Cedrillas y a una vivienda situada sobre el mismo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un incendio calcina en Madrid el plató de 'Maestros de la Costura' y amenaza el de Masterchef, que salvaron 'in extremis' los bomberos",
+    "link": "https://www.elperiodico.com/es/sucesos/20260830/incendio-calcina-plato-maestros-costura-amenaza-masterchef-bomberos-133787436",
+    "pubDate": "2026-08-30 20:41:31",
+    "category": "",
+    "description": "<h2>El fuego, que se declaró este sábado, ha calcinado parte de las instalaciones de NonStop Studios en la localidad de Fuente el Saz de Jarama, afectando principalmente a uno de sus platós</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Circulación lenta y retenciones en la operación retorno en Barcelona, Madrid y Valencia tras las vacaciones de verano",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260830/circulacion-lenta-retenciones-operacion-retorno-accidentes-grandes-ciudades-133786912",
+    "pubDate": "2026-08-30 20:17:52",
+    "category": "",
+    "description": "<h2>La Dirección General de Tráfico cree que el grueso de desplazamientos será el lunes</h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260830/operacion-retorno-agosto-2026-trafico-carreteras-accidentes-ultima-hora-directo-133253906\">Operación retorno de agosto 2026, en directo | Última hora del tráfico, retenciones y estado de las carreteras en Catalunya y resto de España</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La alta velocidad entre Barcelona, Girona y Francia se restablece tras estar más de 10 horas interrumpida",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/alta-velocidad-barcelona-girona-francia-video/133787019.shtml",
+    "pubDate": "2026-08-30 20:12:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар РФ пошкодив виробництво PepsiCo на Миколаївщині",
+    "link": "https://ua.korrespondent.net/business/companies/4907484-udar-rf-poshkodyv-vyrobnytstvo-PepsiCo-na-mykolaivschyni",
+    "pubDate": "2026-08-30 20:11:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544813.jpg\">Компанія оцінює повний масштаб наслідків та вживає заходів для відновлення постачання продукції клієнтам.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Eduardo, entrenador: \"Una lata de Coca-Cola Zero es una herramienta útil si quieres añadir algo dulce a tu dieta, tiene 0 kcal y 0 gramos de azúcar\"",
+    "link": "https://www.elperiodico.com/es/salud/20260830/eduardo-entrenador-lata-coca-cola-dulce-dieta-dv-et-133669913",
+    "pubDate": "2026-08-30 20:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un entrenador personal te explica por qué la Coca-Cola Zero es tan recomendable</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20250823/boticaria-garcia-desvela-sano-coca-cola-zero-cerveza-0-0-dv-120491423\">¿Coca-Cola Zero o cerveza 0,0? La opción más sana, según Boticaria García</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Qué hacer si tus vecinos discuten a gritos por la noche: esto dice la Ley de Propiedad Horizontal",
+    "link": "https://www.elperiodico.com/es/economia/20260830/vecinos-discuten-gritos-noche-ley-propiedad-horizontal-dv-et-133743377",
+    "pubDate": "2026-08-30 20:00:28",
+    "category": "",
+    "description": "<h2 class=\"item\">Las peleas dentro de una vivienda pueden convertirse en un problema para la comunidad si son reiteradas, afectan al descanso y generan una actividad molesta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260427/vecinos-podran-hacer-reparaciones-vivienda-ley-propiedad-horizontal-dv-129389874\">La Ley de Propiedad Horizontal lo confirma: así pueden tomar \"acciones judiciales\" tus vecinos por hacer obras en tu piso</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El español que alcanza la cima en la Universidad de Oxford con 39 años: \"Es una pena que en España no se esté aprendiendo de los éxitos de otros países\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/espanol-alcanza-cima-universidad-oxford-133713001",
+    "pubDate": "2026-08-30 19:59:22",
+    "category": "",
+    "description": "<h2>El ingeniero conquista el máximo escalafón de la carrera académica en la prestigiosa institución académica inglesa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тристороння зустріч лідерів: Кремль назвав умову",
+    "link": "https://ua.korrespondent.net/world/russia/4907476-trystoronnia-zustrich-lideriv-kreml-nazvav-umovu",
+    "pubDate": "2026-08-30 19:43:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544792.jpg\">Останніми днями у ЗМІ почала з'являтись інформація про можливий тристоронній саміт за участі лідерів України, США та Росії.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Гороскоп на 31 серпня 2026 року для всіх знаків зодіаку",
     "link": "https://ua.korrespondent.net/lifestyle/4907468-horoskop-na-31-serpnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
     "pubDate": "2026-08-30 19:25:00",
@@ -1645,6 +1726,15 @@
     "description": "<h2>\"Quienes más predican la solidaridad en Ceuta son quienes menos la practican\", espeta el jefe del Govern, tras asegurar que el Gobierno ha estado \"a la altura\" de la crisis migratoria</h2><h2><a>\"El país tiene recursos para abordar un replanteamiento del ámbito educativo\"</a></h2><h2><a>\"La Diada de Catalunya este año también se celebrará en Extremadura\"</a></h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Del récord de empleo al reto de la productividad: las claves del nuevo curso",
+    "link": "https://www.elperiodico.com/es/economia/20260830/record-empleo-reto-productividad-claves-nuevo-curso-133772400",
+    "pubDate": "2026-08-30 06:01:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La falta de Presupuestos, la crisis de la vivienda, la inflación y el fin de los fondos europeos condicionarán la economía española</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Josep Bou: \"Pablo Casado me hizo promesas si me afiliaba al PP y le dije que conmigo se equivocaba\"",

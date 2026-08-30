@@ -1,4 +1,4 @@
-# News for 2026-08-30 19:29
+# News for 2026-08-30 20:56
 
 Previous day: [2026-08-29](./data/2026-08-29.md)
 
@@ -47,6 +47,10 @@ Previous day: [2026-08-29](./data/2026-08-29.md)
 11:48 [Justin Minaya, a un paso del Barcelona](https://as.com/baloncesto/acb/justin-minaya-a-un-paso-del-barcelona-f202608-n/)<br>
 
 ## www.elperiodico.com
+20:50 [Una mujer de 32 años y su hija de 9 mueren en el incendio de un bar de Teruel](https://www.elperiodico.com/es/sucesos/20260830/mujer-32-anos-hija-9-133787578)<br>
+20:12 [La alta velocidad entre Barcelona, Girona y Francia se restablece tras estar más de 10 horas interrumpida](https://www.elperiodico.com/es/videos/barcelona/alta-velocidad-barcelona-girona-francia-video/133787019.shtml)<br>
+20:00 [Qué hacer si tus vecinos discuten a gritos por la noche: esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260830/vecinos-discuten-gritos-noche-ley-propiedad-horizontal-dv-et-133743377)<br>
+19:59 [El español que alcanza la cima en la Universidad de Oxford con 39 años: "Es una pena que en España no se esté aprendiendo de los éxitos de otros países"](https://www.elperiodico.com/es/sociedad/20260830/espanol-alcanza-cima-universidad-oxford-133713001)<br>
 19:15 [La falta de servicio del AVE entre Girona y Barcelona colapsa Rodalies](https://www.elperiodico.com/es/barcelona/20260830/falta-servicio-ave-girona-barcelona-133784813)<br>
 18:46 [Muere una mujer alemana de 73 años en la playa de la Rubina de Castelló d'Empúries cuando ondeaba bandera amarilla](https://www.elperiodico.com/es/sucesos/20260830/muere-alemana-73-anos-mujer-castello-empuries-bandera-amarilla-133784760)<br>
 18:30 [Estíbaliz Barrasa, psicóloga, sobre el síndrome postvacacional: "Volver a la rutina después de las vacaciones puede remover más de lo que parece"](https://www.elperiodico.com/es/ser-feliz/20260830/sindrome-postvacaional-vuelta-trabajo-psicologa-estibaliz-barrasa-instagram-dv-et-133633764)<br>
@@ -103,5 +107,6 @@ Previous day: [2026-08-29](./data/2026-08-29.md)
 07:00 [Un titanic hundido y un correfoc: El diseño valenciano incendia el festival Burning Man de Nevada](https://www.elperiodico.com/es/ocio-y-cultura/20260830/titanic-hundido-correfoc-diseno-valenciano-133701114)<br>
 06:01 [Matemáticas A y B y adiós a los 'ámbitos' en 4º de la ESO y fusión de ciencias en Bachillerato: novedades del curso en las aulas catalanas](https://www.elperiodico.com/es/sociedad/20260830/matematicas-diferenciadas-4oeso-ciencias-fusionadas-novedades-academicas-curso-26-27-cataluna-133632266)<br>
 06:01 [Ignasi Fernández, profesor y dirigente de Professors de Secundària: "Los padres deberían ocuparse más de lo que ocurre en casa y no meterse continuamente en el aula"](https://www.elperiodico.com/es/sociedad/20260830/ignasi-fernandez-secretario-general-professors-secundaria-aspepc-entrevista-vuelta-cole-cataluna-133706733)<br>
+06:01 [Del récord de empleo al reto de la productividad: las claves del nuevo curso](https://www.elperiodico.com/es/economia/20260830/record-empleo-reto-productividad-claves-nuevo-curso-133772400)<br>
 06:01 [Crecer más y mejor para 50 millones de españoles](https://www.elperiodico.com/es/economia/20260830/crecer-mejor-50-millones-espanoles-133772361)<br>
 05:30 [Pla de Barris: diez años transformando los barrios de Barcelona](https://www.elperiodico.com/es/mas-barcelona/20260830/pla-barris-diez-anos-transformando-bc-133697185)<br>
