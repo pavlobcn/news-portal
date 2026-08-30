@@ -1,5 +1,131 @@
 [
   {
+    "title": "Así es el gigantesco depósito de agua dulce descubierto bajo el Atlántico",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260830/gigantesco-deposito-agua-dulce-descubierto-128816254",
+    "pubDate": "2026-08-30 09:29:00",
+    "category": "",
+    "description": "<h2>Su volumen podría abastecer a la ciudad de Nueva York durante siglos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Geekom presenta en IFA 2026 una solución de IA local distribuida y nueva generación de portátiles y mini PC",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260830/geekom-ifa-2026-novedades-minipc-ordenadores-133774274",
+    "pubDate": "2026-08-30 09:20:58",
+    "category": "",
+    "description": "<h2>La compañía taiwanesa apuesta por la privacidad y la escalabilidad en inteligencia artificial sin servidores tradicionales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenidos los trenes de alta velocidad entre Barcelona y Girona por una caída de la tensión eléctrica",
+    "link": "https://www.elperiodico.com/es/barcelona/20260830/barcelona-girona-ave-trenes-alta-velocidad-incidencia-133774432",
+    "pubDate": "2026-08-30 09:20:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Dos convoyes del AVE han quedado detenidos en torno a las 09:00 horas a causa de esta incidencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Естонії назвали терміни можливого нападу Росії",
+    "link": "https://ua.korrespondent.net/world/4907394-u-estonii-nazvaly-terminy-mozhlyvoho-napadu-rosii",
+    "pubDate": "2026-08-30 09:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544237.jpg\">Президент країни наголосив, що Естонія вже має підготовлений військовий резерв та союз оборони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Riada en Nepal y Tíbet, en directo: Última hora de las inundaciones, muertos, heridos y desaparecidos tras la avalancha",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/inundaciones-tibet-nepal-muertos-desaparecidos-directo-133674437",
+    "pubDate": "2026-08-30 09:13:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Postales de verano",
+    "link": "https://www.elperiodico.com/es/opinion/20260830/postales-verano-articulo-carles-francino-133744628",
+    "pubDate": "2026-08-30 09:00:35",
+    "category": "",
+    "description": "<h2>Es posible que la estación sea un estado de ánimo, escorado hacia el bienestar. Pero no funciona como vacuna ni remedio de nuestras contradicciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eusebi Ayensa: \"Grecia no es una potencia económica ni lo será nunca, pero sí continúa siendo un país culturalmente importante\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260830/eusebi-ayensa-grecia-no-es-potencia-economica-importancia-cultural-133774157",
+    "pubDate": "2026-08-30 08:59:39",
+    "category": "",
+    "description": "<h2>El helenista figuerense Eusebi Ayensa publica el ensayo Per què Grècia, avui?, premio Mancomunitat de la Ribera Alta, con el que defiende, con ejemplos, que la Grecia moderna ha sido y continúa siendo una potencia cultural de primer orden</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ готує наступ на одному із напрямків - ISW",
+    "link": "https://ua.korrespondent.net/ukraine/4907391-rf-hotuie-nastup-na-odnomu-iz-napriamkiv-ISW",
+    "pubDate": "2026-08-30 08:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544207.jpg\">Російська армія накопичує людей та техніку біля Лимана та намагається послабити українську логістику.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pulso entre el \"sí\" y el \"no\" mantiene en vilo a Islandia, con ligera ventaja para el rechazo al ingreso en la UE",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/pulso-mantiene-vilo-islandia-ligera-133774116",
+    "pubDate": "2026-08-30 08:53:41",
+    "category": "",
+    "description": "<h2>Escrutado el 80 % de los votos, la balanza se inclina hacia la negativa a retomar las negociaciones de ingreso con Bruselas</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Incendios hoy, 30 de agosto, en Catalunya y España: consulta el mapa con los principales fuegos activos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/incendios-hoy-30-agosto-catalunya-espana-mapa-fuegos-activos-dv-133774096",
+    "pubDate": "2026-08-30 08:49:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260826/incendio-collserola-directo-ultima-hora-fuego-barcelona-133659752\" >Incendio en Collserola, hoy en directo: última hora de la extinción del fuego en Barcelona, focos activos, causas y afectaciones al transporte</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pulso entre el \"sí\" y el \"no\" mantiene en vilo a Islandia, con ligera ventaja para el rechazo al ingreso en la UE",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/pulso-mantiene-vilo-islandia-ligera-ventaja-rechazo-ingreso-ue-133774005",
+    "pubDate": "2026-08-30 08:48:43",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 30 de agosto en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20260830/precio-gasolina-diesel-hoy-30-agosto-dv-133774054",
+    "pubDate": "2026-08-30 08:42:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Estado de los embalses hoy, 30 de agosto en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/embalses-hoy-30-agosto-catalunya-dv-133773987",
+    "pubDate": "2026-08-30 08:33:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Вибухи під Києвом: з’явилися нові відео",
+    "link": "https://ua.korrespondent.net/ukraine/4907387-vybukhy-pid-kyievom-ziavylysia-novi-video",
+    "pubDate": "2026-08-30 08:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544191.jpg\">Російський дрон влучив у територію підприємства в селі Мила Бучанського району Київської області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Barcelona que mira China",
     "link": "https://www.elperiodico.com/es/opinion/20260830/barcelona-mira-china-133762786",
     "pubDate": "2026-08-30 08:00:34",
@@ -79,6 +205,15 @@
     "description": "<h2>La campaña, que ha entrado ya en su recta final, antes de dar paso a sepias, pulpos y calamares, ha sido este verano muy buena, tras superar ciertas dificultades iniciales</h2><h2><a href=\"https://www.elperiodico.com/es/economia/consumo/20250831/alimentos-temporada-higos-septiembre-2025-120736978\" target=\"_blank\">Alimentos de temporada: Los higos llegan con todo su sabor en el inicio del otoño</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/alimentos-temporada-septiembre-frutos-secos-sh/index.html\" target=\"_blank\">MULTIMEDIA | Pequeña guía de alimentos de temporada: los frutos secos piden paso</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 100
+  },
+  {
+    "title": "У Генштабі розповіли про ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4907385-u-henshtabi-rozpovily-pro-sytuatsiui-na-fronti",
+    "pubDate": "2026-08-30 07:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544176.jpg\">За добу на фронті сталось 221 бойове зіткнення, 79 авіаударів і понад 11 тисяч атак дронів-камікадзе за добу.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Ivan Kovach, sobre su vida en las montañas de Ucrania: \"Me mudé a vivir a la antigua casa de mi abuelo, adaptándome a la vida sin civilización\"",
@@ -250,6 +385,15 @@
     "description": "<h2>Europa concentra el rechazo al actual dirigente, que encuentra sus principales apoyos en África y en países musulmanes de Asia</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "No hay paz en Ucrania",
+    "link": "https://www.elperiodico.com/es/opinion/20260830/no-hay-paz-ucrania-articulo-opinion-rafael-vilasanjuan-133757775",
+    "pubDate": "2026-08-30 06:01:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Ucrania resiste el avance ruso mientras Putin intensifica la presión militar y aleja, por ahora, cualquier acuerdo de paz</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Moncloa baraja noviembre de este año, febrero, mayo o julio de 2027 como posibles fechas para las elecciones generales",
