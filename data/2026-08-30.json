@@ -1,5 +1,23 @@
 [
   {
+    "title": "Європі слід відновити діалог з Росією - Стубб",
+    "link": "https://ua.korrespondent.net/world/4907362-yevropi-slid-vidnovyty-dialoh-z-rosiieui-stubb",
+    "pubDate": "2026-08-30 03:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543977.jpg\">Президент Фінляндії побоюється \"ілюзій\", що можуть виникнути в Москві, якщо не підтримувати з нею контакт.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Атаки дронів РФ на Київ: троє потерпілих",
+    "link": "https://ua.korrespondent.net/city/kiev/4907360-ataky-droniv-rf-na-kyiv-troie-poterpilykh",
+    "pubDate": "2026-08-30 02:58:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543948.jpg\">Влучання БпЛА в Оболонському районі міста призвело до загоряння з другого по п’ятий поверх 12-поверхового житлового будинку.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Стубб: Україна нашою є гарантією безпеки щодо РФ",
     "link": "https://ua.korrespondent.net/world/worldabus/4907358-stubb-ukraina-nashoui-ye-harantiieui-bezpeky-schodo-rf",
     "pubDate": "2026-08-30 02:27:00",
@@ -7,6 +25,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543923.jpg\">Україна перебуває в сильнішому та кращому становищі, ніж будь-коли раніше, переконаний президент Фінляндії.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "В Європі з'явилися небезпечні таблетки у формі голови Трампа",
+    "link": "https://ua.korrespondent.net/world/4907356-v-yevropi-ziavylysia-nebezpechni-tabletky-u-formi-holovy-trampa",
+    "pubDate": "2026-08-30 01:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543908.png\">Таблетки екстазі у формі голови президента США мають велика кількість параметоксиметамфетаміну, або PMMA.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Стубб оцінив готовність РФ до нападу на Європу",
@@ -25,6 +52,15 @@
     "description": "",
     "topic": "portada de EL PERIÓDICO",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Російський дрон поцілив у нежитлову будівлю в Києві",
+    "link": "https://ua.korrespondent.net/city/kiev/4907350-rosiiskyi-dron-potsilyv-u-nezhytlovu-budivlui-v-kyievi",
+    "pubDate": "2026-08-30 00:51:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543849.jpg\">Російський дрон влучив у нежитлову будівлю у Голосіївському районі вночі 30 серпня, повідомила місцева влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Соцмережі: БпЛА атакували Брянськ, гримлять вибухи",
