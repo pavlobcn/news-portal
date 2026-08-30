@@ -1,8 +1,10 @@
-# News for 2026-08-30 22:00
+# News for 2026-08-30 23:52
 
 Previous day: [2026-08-29](./data/2026-08-29.md)
 
 ## ua.korrespondent.net
+23:11 [Росіяни вдарили КАБами по Ізюму](https://ua.korrespondent.net/ukraine/4907509-rosiiany-vdaryly-kabamy-po-izuimu)<br>
+22:56 [Генштаб озвучив ситуацію на фронті](https://ua.korrespondent.net/ukraine/4907507-henshtab-ozvuchyv-sytuatsiui-na-fronti)<br>
 18:23 [Детонація боєприпасів на Київщині: пошкоджено близько 300 об'єктів](https://ua.korrespondent.net/ukraine/4907462-detonatsiia-boieprypasiv-na-kyivschyni-poshkodzheno-blyzko-300-obiektiv)<br>
 17:35 [На Волині перепоховали останки 55 жертв Волинської трагедії](https://ua.korrespondent.net/ukraine/4907457-na-volyni-perepokhovaly-ostanky-55-zhertv-volynskoi-trahedii)<br>
 17:12 [РФ заявила про захоплення двох сіл на Сумщині: ЗСУ відповіли](https://ua.korrespondent.net/ukraine/4907453-rf-zaiavyla-pro-zakhoplennia-dvokh-sil-na-sumschyni-zsu-vidpovily)<br>
@@ -42,11 +44,17 @@ Previous day: [2026-08-29](./data/2026-08-29.md)
 00:23 [Соцмережі: БпЛА атакували Брянськ, гримлять вибухи](https://ua.korrespondent.net/world/russia/4907348-sotsmerezhi-bpla-atakuvaly-briansk-hrymliat-vybukhy)<br>
 
 ## as.com
+23:23 [Ginzo salva a España en el último amistoso antes del Mundial de Berlín](https://as.com/baloncesto/mas_baloncesto/ginzo-salva-a-espana-en-el-ultimo-amistoso-antes-del-mundial-de-berlin-f202608-n/)<br>
 17:43 [Mateo: “No hay que dramatizar con las derrotas”](https://as.com/baloncesto/mas_baloncesto/mateo-no-hay-que-dramatizar-con-las-derrotas-f202608-n/)<br>
 13:22 [El Mónaco se rinde definitivamente](https://as.com/baloncesto/euroliga/el-monaco-se-rinde-definitivamente-f202608-n/)<br>
 11:48 [Justin Minaya, a un paso del Barcelona](https://as.com/baloncesto/acb/justin-minaya-a-un-paso-del-barcelona-f202608-n/)<br>
 
 ## www.elperiodico.com
+23:32 [Irán denuncia ataques de EEUU contra la isla de Larak y asegura que la "agresión" será "castigada"](https://www.elperiodico.com/es/internacional/20260830/iran-denuncia-ataques-estadounidenses-isla-133789418)<br>
+22:57 [El hombre detenido por el asesinato de su pareja en Isla Cristina queda en libertad al descartarse su implicación](https://www.elperiodico.com/es/sucesos/20260830/hombre-detenido-asesinato-pareja-isla-133788993)<br>
+22:47 [Detenidos tres marroquíes en Ceuta por un ataque con líquido corrosivo contra militares](https://www.elperiodico.com/es/politica/20260830/detenidos-tres-marroquies-ceuta-ataque-133788864)<br>
+22:13 [Una pierna, un diente de oro y cientos de cuerpos a la espera de ser reconocidos en Nepal](https://www.elperiodico.com/es/internacional/20260830/pierna-diente-oro-cientos-cuerpos-riada-nepal-133788417)<br>
+22:02 [Nepal cuelga fotos de partes de cuerpos a la espera de ser reconocidos por familiares fuera de la morgue](https://www.elperiodico.com/es/videos/internacional/nepal-cuelga-fotos-partes-cuerpos-video/133788392.shtml)<br>
 21:09 [La 'era Ozempic' no mata las dietas septiembre dispara hasta un 40% las consultas para perder peso](https://www.elperiodico.com/es/videos/sociedad/ozempic-mata-dietas-septiembre-dispara-video/133787809.shtml)<br>
 21:00 [Catalunya suma 500 aulas de acogida y amplía el programa de detección de necesidades educativas a 5º de primaria](https://www.elperiodico.com/es/sociedad/20260830/vuelta-al-cole-cataluna-novedades-curso-2026-2027-mas-aulas-de-acogida-plazas-educacion-especial-apoyo-profesorado-deteccion-necesidades-educativas-133732935)<br>
 20:50 [Una mujer de 32 años y su hija de 9 mueren en el incendio de un bar de Teruel](https://www.elperiodico.com/es/sucesos/20260830/mujer-32-anos-hija-9-133787578)<br>
