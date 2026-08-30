@@ -1,7 +1,421 @@
 [
   {
+    "title": "La Barcelona que mira China",
+    "link": "https://www.elperiodico.com/es/opinion/20260830/barcelona-mira-china-133762786",
+    "pubDate": "2026-08-30 08:00:34",
+    "category": "",
+    "description": "<h2>La ciudad aspira a ser una puerta de entrada clave para el capital y el turismo asiático, revalorizando su oferta cultural y urbana</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La deuda pública se convierte en el nuevo foco de tensión de los mercados: por qué escala a máximos de la Gran Recesión",
+    "link": "https://www.elperiodico.com/es/economia/20260830/deuda-publica-convierte-nuevo-foco-133758531",
+    "pubDate": "2026-08-30 08:00:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El mayor gasto público, la amenaza de nuevas subidas de tipos y la energía encarecen la deuda en ambos lados del Atlántico </h2><h2 class=\"item\">La rentabilidad del bono estadounidense a 30 años alcanza máximos de casi dos dos décadas y lastra a Francia e Italia </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP encuentra en Ceuta la gran baza final contra Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20260830/pp-encuentra-ceuta-gran-baza-133741263",
+    "pubDate": "2026-08-30 08:00:32",
+    "category": "",
+    "description": "<h2>Alberto Núñez Feijóo confrontará con Pedro Sánchez en el Congreso tras una mes de crisis en la ciudad autónoma </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La fantasía de irse a dormir rodeado por 150.000 libros",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260830/fantasia-irse-dormir-rodeado-150-133650648",
+    "pubDate": "2026-08-30 08:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">La Gladstone’s Library, en el norte de Gales, encabeza un inventario de destinos bibliómanos entre los que también destacan la librería parisina Shakespeare and Company o el hotel japonés Book And Bed</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260828/the-open-book-airbnb-turistas-133635673\">The Open Book: el Airbnb donde los turistas pagan por regentar una librería</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260828/pagar-leer-auge-retiros-compran-133609662\">¿Pagar por leer? El auge de los retiros que compran tiempo y silencio para escapar del móvil</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Pagar por leer? El auge de los retiros que compran tiempo y silencio para escapar del móvil",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260830/pagar-leer-auge-retiros-compran-133609662",
+    "pubDate": "2026-08-30 08:00:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Iniciativas como Remanso, que reúne durante un fin de semana a una veintena de lectores y a un autor alrededor de un libro, abogan por descansar del de la vorágine diaria \"que difícilmente nos deja tiempo para leer\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260828/the-open-book-airbnb-turistas-133635673\">The Open Book: el Airbnb donde los turistas pagan por regentar una librería</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260828/fantasia-irse-dormir-rodeado-150-133650648\">La fantasía de irse a dormir rodeado por 150.000 libros</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Silvia Llopis, activista: \"Tuve que volver a aprender a vivir\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260830/silvia-llopis-activista-tuve-volver-132678732",
+    "pubDate": "2026-08-30 08:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Podemos dejar que el dolor nos defina o transformarlo en sensibilidad, empatía, fortaleza y esperanza\"</h2><h2 class=\"item\">\"La salud mental no es la ausencia de dolor. Es la capacidad de convivir con él sin dejar que decida quién eres\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crónica desde Gallipoli: Viaje submarino a la Primera Guerra Mundial",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/viaje-submarino-primera-guerra-mundial-gallipoli-turquia-museo-subacuatico-132876380",
+    "pubDate": "2026-08-30 08:00:29",
+    "category": "",
+    "description": "<h2>En Turquía, un nuevo museo subacuático permite las inmersiones a decenas de barcos hundidos durante la batalla de Gallipoli, en la que el Imperio Otomano repelió a sangre y fuego el intento de invasión de el Reino Unido, Australia y Francia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Supremo pide una reunión con Bolaños y que suba el sueldo a sus funcionarios",
+    "link": "https://www.elperiodico.com/es/politica/20260830/supremo-pide-reunion-bolanos-suba-sueldo-funcionarios-133735843",
+    "pubDate": "2026-08-30 08:00:29",
+    "category": "",
+    "description": "<h2>El magistrado Pablo Lucas se despide del Alto Tribunal con un informe en el que propone que sus trabajadores cobren lo mismo que los de los tribunales madrileños</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Alimentos de temporada: Septiembre trae el mejor bonito del norte cargado de proteínas y omega-3",
+    "link": "https://www.elperiodico.com/es/economia/20260830/alimentos-temporada-bonito-norte-septiembre-2026-133480275",
+    "pubDate": "2026-08-30 08:00:29",
+    "category": "",
+    "description": "<h2>La campaña, que ha entrado ya en su recta final, antes de dar paso a sepias, pulpos y calamares, ha sido este verano muy buena, tras superar ciertas dificultades iniciales</h2><h2><a href=\"https://www.elperiodico.com/es/economia/consumo/20250831/alimentos-temporada-higos-septiembre-2025-120736978\" target=\"_blank\">Alimentos de temporada: Los higos llegan con todo su sabor en el inicio del otoño</a></h2><h2><a href=\"https://www.elperiodico.com/es/cata-mayor/alimentos-temporada-septiembre-frutos-secos-sh/index.html\" target=\"_blank\">MULTIMEDIA | Pequeña guía de alimentos de temporada: los frutos secos piden paso</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ivan Kovach, sobre su vida en las montañas de Ucrania: \"Me mudé a vivir a la antigua casa de mi abuelo, adaptándome a la vida sin civilización\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260830/vida-montana-entornos-rurales-transcarpatia-ivan-kovach-youtube-dv-133506751",
+    "pubDate": "2026-08-30 07:55:13",
+    "category": "",
+    "description": "<h2>El 'youtuber' explica cómo sobrevive en los bosques de Transcarpatia, en Ucrania: \"No hay Internet aquí, pero hay silencio, montañas y un deseo de<strong> </strong>trabajar en lo que amas\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260731/giussepina-aislada-montana-animales-trabajo-granja-vida-siglo-pasado-dv-et-132675643\">Giussepina vive en la montaña como hace un siglo: sin luz, móvil ni frigorífico: \"No hace falta tener nevera, ya que fuera hace tanto frío que todo funciona como una\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "\"Las mentes grandes hablan de ideas\": el verdadero origen de la frase atribuida a Sócrates",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260830/socrates-famosa-frase-estoicismo-eleanor-roosevelt-charles-stewart-mito-mentes-grandes-medianas-pequenas-dv-133607982",
+    "pubDate": "2026-08-30 07:55:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Esta cita también ha sido atribuida a otras personalidades históricas como la primera dama estadounidense, Eleanor Roosevelt</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260715/javier-quintero-medico-65-conversaciones-personas-no-presentes-dv-132452587\" >Javier Quintero, médico: \"El 65% de nuestras conversaciones son sobre personas que no están presentes. Y no, no es cotilleo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260430/emilio-lledo-filosofo-ignorante-poder-catastrofico-sociedad-dv-129476659\" >El filósofo Emilio Lledó: \"Un ignorante con poder es catastrófico para la sociedad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un tiroteo durante una rave en Aarau, en Suiza, deja varias víctimas",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/tiroteo-durante-rave-aarau-suiza-victimas-mortales-133773322",
+    "pubDate": "2026-08-30 07:30:39",
+    "category": "",
+    "description": "<h2>La policía ha abierto una investigación pero no ha facilitado más detalles</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Партизани вдарили по логістиці ворога на Куп'янському напрямку",
+    "link": "https://ua.korrespondent.net/ukraine/4907383-partyzany-vdaryly-po-lohistytsi-voroha-na-kupianskomu-napriamku",
+    "pubDate": "2026-08-30 07:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544161.jpg\">АТЕШ повідомив про пошкодження двох релейних шаф у Бєлгородській області. Рух заявив про затримку ешелону для військ під Куп’янськом.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora de la muerte del rey Harald de Noruega, en directo: reacciones, capilla ardiente y sucesión al trono del príncipe Haakon y Mette-Marit",
+    "link": "https://www.elperiodico.com/es/gente/20260830/rey-harald-noruega-muere-ultima-hora-directo-133699041",
+    "pubDate": "2026-08-30 07:22:00",
+    "category": "",
+    "description": "<h2 class=\"item\">OBITUARIO | <a href=\"https://www.elperiodico.com/es/gente/20260828/muere-harald-noruega-rey-amor-sonja-modernizo-corona-legado-haakon-133602678\" target=\"_blank\">Muere Harald de Noruega, el rey inclusivo que eligió el amor y modernizó la corona</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260830/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-08-30 07:18:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260824/rabat-intensifico-campana-influencia-washington-meses-antes-crisis-ceuta-133589199\" target=\"_blank\">Marruecos intensificó su campaña de influencia en EEUU cuatro meses antes de la crisis de Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260821/gobierno-congelo-plan-seguridad-ceuta-melilla-giro-relaciones-marruecos-133526180\" target=\"_blank\">El Gobierno congeló el Plan de Seguridad para Ceuta y Melilla tras su giro con Marruecos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guerra de Irán, en directo: EEUU impone restricciones a un banco egipcio para presionar a Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-08-30 07:17:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juan José Ebenezer, mecánico: \"Una cosa que todos hacéis mal es montar en el coche, poner el aire acondicionado y cerrar las puertas\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260830/aire-acondicionado-coche-verano-consejos-mecanico-juan-jose-ebenezer-dv-133639386",
+    "pubDate": "2026-08-30 07:15:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto explica que esta práctica puede poner en riesgo tu salud </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/motor/20260819/mitos-control-alcoholemia-133260262\">El gran error que cometen muchos conductores para evitar dar positivo en un control de alcoholemia</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-08-30 07:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pogacar no era de ningún planeta raro",
+    "link": "https://www.elperiodico.com/es/deportes/20260830/pogacar-humano-tourmalet-sergi-lopez-egea-133762384",
+    "pubDate": "2026-08-30 07:00:35",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Javier Mayoral: \"Vivimos en un mundo de fogonazos constantes y el amor requiere paciencia y distancia\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260830/javier-mayoral-vivimos-mundo-fogonazos-133701202",
+    "pubDate": "2026-08-30 07:00:31",
+    "category": "",
+    "description": "<h2>El periodista y escritor publica 'No el amor', un poemario que parte de una experiencia íntima para explorar las relaciones contemporáneas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un titanic hundido y un correfoc: El diseño valenciano incendia el festival Burning Man de Nevada",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260830/titanic-hundido-correfoc-diseno-valenciano-133701114",
+    "pubDate": "2026-08-30 07:00:30",
+    "category": "",
+    "description": "<h2>El arquitecto Miguel Arraiz participa en dos instalaciones monumentales, el 'Titanic' y el 'Correfoc', este último con el diseñador Dani Nebot. Las dos estructuras arderán la próxima semana como parte de la ciudad efímera que se levanta en el desierto estadounidense</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб підрахував нові втрати Росії у війні",
+    "link": "https://ua.korrespondent.net/world/russia/4907378-henshtab-pidrakhuvav-novi-vtraty-rosii-u-viini",
+    "pubDate": "2026-08-30 06:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544132.jpg\">За добу російські війська втратили близько 1400 військових і 1963 безпілотники. Загальні втрати особового складу сягнули 1 486 600 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Delcy Rodríguez defiende el acuerdo con Trump e insiste en que el petróleo seguirá siendo propiedad de Venezuela",
+    "link": "https://www.elperiodico.com/es/internacional/20260830/delcy-rodriguez-defiende-acuerdo-petrolero-133772987",
+    "pubDate": "2026-08-30 06:49:58",
+    "category": "",
+    "description": "<h2>\"De nada sirve tener nuestras reservas petroleras bajo tierra\", dijo la \"presidenta encargada\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ зводить антидроновий захист навколо заводів в Алабузі",
+    "link": "https://ua.korrespondent.net/world/russia/4907376-rf-zvodyt-antydronovyi-zakhyst-navkolo-zavodiv-v-alabuzi",
+    "pubDate": "2026-08-30 06:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544116.jpg\">Оборонна система складається з двох поясів: внутрішнього периметра з нижчими вежами та зовнішнього периметра з вищими вежами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Києві через російський обстріл виникла пожежа",
+    "link": "https://ua.korrespondent.net/city/kiev/4907372-v-kyievi-cherez-rosiiskyi-obstril-vynykla-pozhezha",
+    "pubDate": "2026-08-30 06:15:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544097.jpg\">Ранок у столиці починається з чергових наслідків ворожих атак. Видно чорний дим на правому березі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El estrangulamiento a Infantino desata una guerra civil en el fútbol mundial",
+    "link": "https://www.elperiodico.com/es/deportes/20260830/estrangulamiento-infantino-desata-guerra-civil-futbol-133728762",
+    "pubDate": "2026-08-30 06:01:33",
+    "category": "",
+    "description": "<h2>La UEFA lidera, en la vía federativa y en la penal, el intento por derrocar al presidente de la FIFA tras una década de hiperpersonalismo y servilismo al poder, coronada con su proyecto fallido de privatizar el negocio de los Mundiales</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Toni Soldevilla, excapitán del Espanyol: «Tenía un problema de adicción y lo voy a tener el resto de mi vida»",
+    "link": "https://www.elperiodico.com/es/deportes/20260830/toni-soldevilla-excapitan-espanyol-tenia-133761033",
+    "pubDate": "2026-08-30 06:01:33",
+    "category": "",
+    "description": "<h2>\"Después de lo que he vivido, estar aquí me hace sentir orgulloso de la persona que soy\", reflexiona para EL PERIÓDICO quien fuera estandarte del equipo blanquiazul</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Quién apoya y quién rechaza a Infantino? La situación de la FIFA, federación por federación",
+    "link": "https://www.elperiodico.com/es/deportes/20260830/apoya-rechaza-infantino-situacion-fifa-133734164",
+    "pubDate": "2026-08-30 06:01:32",
+    "category": "",
+    "description": "<h2>Europa concentra el rechazo al actual dirigente, que encuentra sus principales apoyos en África y en países musulmanes de Asia</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Moncloa baraja noviembre de este año, febrero, mayo o julio de 2027 como posibles fechas para las elecciones generales",
+    "link": "https://www.elperiodico.com/es/opinion/20260830/moncloa-baraja-noviembre-ano-febrero-133754290",
+    "pubDate": "2026-08-30 06:01:22",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo-Ayuso, un modelo de 'paz por territorios' para evitar otra guerra Génova-Sol",
+    "link": "https://www.elperiodico.com/es/politica/20260830/feijoo-ayuso-modelo-paz-territorios-133748624",
+    "pubDate": "2026-08-30 06:01:22",
+    "category": "",
+    "description": "<h2>El presidente del PP, Alberto Núñez Feijóo, señala que la Comunidad de Madrid deberá explicar la compra del local</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España no activó respuesta digital para disuadir a los migrantes de entrar en Ceuta, pese a advertencias europeas y de Seguridad Nacional",
+    "link": "https://www.elperiodico.com/es/politica/20260830/espana-no-activo-respuesta-digital-disuadir-migrantes-ceuta-133746264",
+    "pubDate": "2026-08-30 06:01:18",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Documentos de seguridad europeos y españoles avisan desde hace seis años del uso de redes sociales para lanzar avalanchas de migrantes como parte de la guerra híbrida</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Matemáticas A y B y adiós a los 'ámbitos' en 4º de la ESO y fusión de ciencias en Bachillerato: novedades del curso en las aulas catalanas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/matematicas-diferenciadas-4oeso-ciencias-fusionadas-novedades-academicas-curso-26-27-cataluna-133632266",
+    "pubDate": "2026-08-30 06:01:18",
+    "category": "",
+    "description": "<h2 class=\"item\">El Treball de Recerca (TR), hasta ahora el 10% de la nota del Bachillerato, pasa a tener el mismo valor y peso que cualquier otra asignatura en la calificación final de la etapa</h2><h2 class=\"item\">La nota media del Bachillerato pasa a ser estrictamente la media aritmética de todas las materias cursadas, debiendo incluirse obligatoriamente la calificación de Religión, si el alumno la ha cursado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260717/catalunya-contratara-160-profesores-matematicas-cumplir-sentencias-matematicas-desdobladas-4-eso-132520996\">Catalunya contrata a 160 profesores para desdoblar Matemáticas de 4º de ESO en generales y avanzadas por orden judicial</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260828/ignasi-fernandez-secretario-general-professors-secundaria-aspepc-entrevista-vuelta-cole-cataluna-133706733\" target=\"_blank\">Ignasi Fernández, profesor y dirigente de Professors de Secundària: \"Los padres deberían ocuparse más de lo que ocurre en casa y no meterse continuamente en el aula\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ignasi Fernández, profesor y dirigente de Professors de Secundària: \"Los padres deberían ocuparse más de lo que ocurre en casa y no meterse continuamente en el aula\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260830/ignasi-fernandez-secretario-general-professors-secundaria-aspepc-entrevista-vuelta-cole-cataluna-133706733",
+    "pubDate": "2026-08-30 06:01:18",
+    "category": "",
+    "description": "<h2 class=\"item\">Secretario general y abogado del sindicato Professors de Secundària-Aspepc, impulsó la demanda que logró en los tribunales el desdoblamiento de Matemáticas y la eliminación de los ámbitos en 4º de ESO</h2><h2 class=\"item\">El segundo sindicato en la educación pública catalana firmó en mayo el acuerdo con la Conselleria d'Educació y se ha desmarcado del nuevo ciclo de huelgas que empieza este 8 de septiembre, primer día de curso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260828/matematicas-diferenciadas-4oeso-ciencias-fusionadas-novedades-academicas-curso-26-27-cataluna-133632266\" target=\"_blank\">Matemáticas A y B y adiós a los 'ambitos' en 4º de la ESO y fusión de ciencias en Bachillerato: novedades del curso en las aulas catalanas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Salvador Illa: \"El país tiene recursos para abordar un replanteamiento del ámbito educativo\"",
+    "link": "https://www.elperiodico.com/es/politica/20260830/salvador-illa-entrevista-cataluna-govern-educacion-profesores-huelgas-vivienda-seguridad-133708205",
+    "pubDate": "2026-08-30 06:01:10",
+    "category": "",
+    "description": "<h2>\"Reclamar la titularidad de la AP-7 es una opción\", asegura el jefe del Govern, y anuncia que ha creado un grupo de trabajo para analizar la viabilidad del sistema de pago por viñeta</h2><h2><a>\"Es mucho más pertinente plantearse un debate sobre la sucesión de Feijóo que de Sánchez\"</a></h2><h2><a>\"La Diada de Catalunya este año también se celebrará en Extremadura\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Josep Bou: \"Pablo Casado me hizo promesas si me afiliaba al PP y le dije que conmigo se equivocaba\"",
+    "link": "https://www.elperiodico.com/es/politica/20260830/pp-josep-bou-pablo-casado-politica-se-sale-129379379",
+    "pubDate": "2026-08-30 06:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">EL PERIÓDICO entrevista a políticos que han dejado la primera línea para descubrir a qué se dedican y cómo se han reinventado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/segunda-vida-politica-125494092-rm/index.html\" target=\"_blank\">RECOPILATORIO: Accede a las entrevistas con los más de 20 políticos que han participado ya en la sección 'De la política, ¿se sale?'</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Crecer más y mejor para 50 millones de españoles",
+    "link": "https://www.elperiodico.com/es/economia/20260830/crecer-mejor-50-millones-espanoles-133772361",
+    "pubDate": "2026-08-30 06:01:05",
+    "category": "",
+    "description": "<h2>A unos números macroeconómicos casi impecables se le une la sensación de vivir sobre arenas movedizas. España se enfrenta a un nuevo curso con más exigencias </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 29.8: вибухи під Києвом і заява Путіна",
+    "link": "https://ua.korrespondent.net/ukraine/4907352-pidsumky-298-vybukhy-pid-kyievom-i-zaiava-putina",
+    "pubDate": "2026-08-30 05:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543878.jpg\">Удар по Київщині: число загиблих різко зросло. Вибухи під Києвом: Зеленський зробив нову заяву. Путін вигадав нове виправдання війни з Україною. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Salvador Illa: \"Reclamar la titularidad de la AP-7 es una opción\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/salvador-illa-reclamar-titularidad-ap-7-video/133759142.shtml",
+    "pubDate": "2026-08-30 05:55:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Salvador Illa: \"Es mucho más pertinente plantearse un debate sobre la sucesión de Feijóo que de Sánchez\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/salvador-illa-pertinente-plantearse-debate-feijoo-video/133760238.shtml",
+    "pubDate": "2026-08-30 05:55:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Salvador Illa: \"La Diada de Catalunya este año también se celebrará en Extremadura\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/salvador-illa-diada-catalunya-extremadura/133759944.shtml",
+    "pubDate": "2026-08-30 05:55:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "В РФ під ударом дронів опинився аеродром Єйська",
+    "link": "https://ua.korrespondent.net/world/russia/4907370-v-rf-pid-udarom-droniv-opynyvsia-aerodrom-yeiska",
+    "pubDate": "2026-08-30 05:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544068.jpg\">Місцеві жителі скаржилися на тривалу повторну детонацію після серії вибухів; імовірно, було атаковано склад з боєприпасами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pla de Barris: diez años transformando los barrios de Barcelona",
+    "link": "https://www.elperiodico.com/es/mas-barcelona/20260830/pla-barris-diez-anos-transformando-bc-133697185",
+    "pubDate": "2026-08-30 05:30:46",
+    "category": "",
+    "description": "<h2>Con hasta 300 millones de inversión en 27 barrios, el programa del Ajuntament reafirma su vigencia para reducir las desigualdades territoriales y generar más oportunidades.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ дізналися, що глава ЦРУ запропонував Кремлю",
+    "link": "https://ua.korrespondent.net/world/worldabus/4907368-zmi-diznalysia-scho-hlava-tsru-zaproponuvav-kremlui",
+    "pubDate": "2026-08-30 04:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544036.jpg\">Джон Реткліфф мав з'ясувати можливість відновлення переговорів між Росією й Україною щодо припинення війни.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сина Нетаньягу евакуювали зі США в Ізраїль - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4907366-syna-netaniahu-evakuuivaly-zi-ssha-v-izrail-zmi",
+    "pubDate": "2026-08-30 04:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544021.jpg\">Серйозна загроза заподіяння шкоди Яїру Нетаньягу дійсно існувала, заявили джерела The Jerusalem Post.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В РФ фіксують \"приліт\" на один з найбільших НПЗ",
+    "link": "https://ua.korrespondent.net/ukraine/4907364-v-rf-fiksuuit-prylit-na-odyn-z-naibilshykh-npz",
+    "pubDate": "2026-08-30 03:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543992.jpeg\">Місцева влада підтвердила наліт дронів на регіон, а також стверджує про \"збиття\" кількох десятків БпЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Європі слід відновити діалог з Росією - Стубб",
     "link": "https://ua.korrespondent.net/world/4907362-yevropi-slid-vidnovyty-dialoh-z-rosiieui-stubb",
+    "pubDate": "2026-08-30 03:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543977.jpg\">Президент Фінляндії побоюється \"ілюзій\", що можуть виникнути в Москві, якщо не підтримувати з нею контакт.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Європі слід відновити діалог з Росією - президент Фінляндії",
+    "link": "https://ua.korrespondent.net/world/4907362-yevropi-slid-vidnovyty-dialoh-z-rosiieui-prezydent-finliandii",
     "pubDate": "2026-08-30 03:29:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543977.jpg\">Президент Фінляндії побоюється \"ілюзій\", що можуть виникнути в Москві, якщо не підтримувати з нею контакт.",
@@ -27,8 +441,26 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Україна є нашою гарантією безпеки щодо РФ - Стубб",
+    "link": "https://ua.korrespondent.net/world/worldabus/4907358-ukraina-ye-nashoui-harantiieui-bezpeky-schodo-rf-stubb",
+    "pubDate": "2026-08-30 02:27:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543923.jpg\">Україна перебуває в сильнішому та кращому становищі, ніж будь-коли раніше, переконаний президент Фінляндії.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "В Європі з'явилися небезпечні таблетки у формі голови Трампа",
     "link": "https://ua.korrespondent.net/world/4907356-v-yevropi-ziavylysia-nebezpechni-tabletky-u-formi-holovy-trampa",
+    "pubDate": "2026-08-30 01:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543908.png\">Таблетки екстазі у формі голови президента США мають велика кількість параметоксиметамфетаміну, або PMMA.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Європі з'явилися небезпечні наркотики у формі голови Трампа",
+    "link": "https://ua.korrespondent.net/world/4907356-v-yevropi-ziavylysia-nebezpechni-narkotyky-u-formi-holovy-trampa",
     "pubDate": "2026-08-30 01:59:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4543908.png\">Таблетки екстазі у формі голови президента США мають велика кількість параметоксиметамфетаміну, або PMMA.",
