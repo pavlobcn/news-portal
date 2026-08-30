@@ -1,8 +1,9 @@
-# News for 2026-08-30 17:50
+# News for 2026-08-30 19:29
 
 Previous day: [2026-08-29](./data/2026-08-29.md)
 
 ## ua.korrespondent.net
+18:23 [Детонація боєприпасів на Київщині: пошкоджено близько 300 об'єктів](https://ua.korrespondent.net/ukraine/4907462-detonatsiia-boieprypasiv-na-kyivschyni-poshkodzheno-blyzko-300-obiektiv)<br>
 17:35 [На Волині перепоховали останки 55 жертв Волинської трагедії](https://ua.korrespondent.net/ukraine/4907457-na-volyni-perepokhovaly-ostanky-55-zhertv-volynskoi-trahedii)<br>
 17:12 [РФ заявила про захоплення двох сіл на Сумщині: ЗСУ відповіли](https://ua.korrespondent.net/ukraine/4907453-rf-zaiavyla-pro-zakhoplennia-dvokh-sil-na-sumschyni-zsu-vidpovily)<br>
 16:57 [Кількість жертв повені в Непалі зросла](https://ua.korrespondent.net/world/4907450-kilkist-zhertv-poveni-v-nepali-zrosla)<br>
@@ -41,10 +42,15 @@ Previous day: [2026-08-29](./data/2026-08-29.md)
 00:23 [Соцмережі: БпЛА атакували Брянськ, гримлять вибухи](https://ua.korrespondent.net/world/russia/4907348-sotsmerezhi-bpla-atakuvaly-briansk-hrymliat-vybukhy)<br>
 
 ## as.com
+17:43 [Mateo: “No hay que dramatizar con las derrotas”](https://as.com/baloncesto/mas_baloncesto/mateo-no-hay-que-dramatizar-con-las-derrotas-f202608-n/)<br>
 13:22 [El Mónaco se rinde definitivamente](https://as.com/baloncesto/euroliga/el-monaco-se-rinde-definitivamente-f202608-n/)<br>
 11:48 [Justin Minaya, a un paso del Barcelona](https://as.com/baloncesto/acb/justin-minaya-a-un-paso-del-barcelona-f202608-n/)<br>
 
 ## www.elperiodico.com
+19:15 [La falta de servicio del AVE entre Girona y Barcelona colapsa Rodalies](https://www.elperiodico.com/es/barcelona/20260830/falta-servicio-ave-girona-barcelona-133784813)<br>
+18:46 [Muere una mujer alemana de 73 años en la playa de la Rubina de Castelló d'Empúries cuando ondeaba bandera amarilla](https://www.elperiodico.com/es/sucesos/20260830/muere-alemana-73-anos-mujer-castello-empuries-bandera-amarilla-133784760)<br>
+18:30 [Estíbaliz Barrasa, psicóloga, sobre el síndrome postvacacional: "Volver a la rutina después de las vacaciones puede remover más de lo que parece"](https://www.elperiodico.com/es/ser-feliz/20260830/sindrome-postvacaional-vuelta-trabajo-psicologa-estibaliz-barrasa-instagram-dv-et-133633764)<br>
+18:29 [Tiempo en Catalunya mañana lunes: bajan las temperaturas y vuelven las tormentas a estas zonas](https://www.elperiodico.com/es/tiempo/20260830/tiempo-catalunya-manana-lunes-bajan-133782973)<br>
 17:30 [Emilio (28 años), viviendo solo en un contenedor perdido en la montaña: "Es la trampa que nos han hecho hoy en día: parece que necesites un montón de dinero, pero no es así. Yo estoy viviendo por 10 o 20 euros al mes"](https://www.elperiodico.com/es/economia/20260830/emilio-vive-contenedor-reformado-montana-ahorro-luz-agua-dv-et-133458689)<br>
 17:21 [Castellers de Vilafranca hacen historia con un 4 de 10 amb folre y manilles](https://www.elperiodico.com/es/fotos/en-imagenes/castellers-vilafranca-historia-4-10-fotos-133782903)<br>
 17:18 [Nepal eleva a 804 los muertos por la riada y busca a 900 trabajadores sepultados bajo el lodo](https://www.elperiodico.com/es/internacional/20260830/nepal-eleva-804-muertos-riada-133782919)<br>
