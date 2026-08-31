@@ -1,4 +1,4 @@
-# News for 2026-08-31 22:18
+# News for 2026-09-01 00:59
 
 Previous day: [2026-08-30](./data/2026-08-30.md)
 
@@ -60,6 +60,8 @@ Previous day: [2026-08-30](./data/2026-08-30.md)
 00:13 [Peñarroya descarta a Jabari Parker](https://as.com/baloncesto/euroliga/penarroya-descarta-a-jabari-parker-f202608-n/)<br>
 
 ## www.elperiodico.com
+22:50 [Los Bombers de Barcelona dan por extinguido el incendio forestal de Collserola](https://www.elperiodico.com/es/barcelona/20260831/bombers-barcelona-extinguido-incendio-forestal-collserola-133821076)<br>
+22:40 [Un joven de 20 años resulta herido grave tras ser apuñalado en Madrid](https://www.elperiodico.com/es/sociedad/20260831/joven-20-anos-resulta-herido-133821002)<br>
 21:19 [El verano de 2026 es el más cálido en la España peninsular desde 1961](https://www.elperiodico.com/es/sociedad/20260831/verano-2026-calido-espana-peninsular-1961-133819611)<br>
 21:14 [Inveready destituye a Ernest Pérez-Mas de la presidencia de Parlem](https://www.elperiodico.com/es/economia/20260831/inveready-destituye-ernest-perez-presidencia-133818328)<br>
 20:54 [Salvamento Marítimo traslada a El Hierro un cayuco con unos 97 ocupantes](https://www.elperiodico.com/es/sociedad/20260831/salvamento-maritimo-traslada-hierro-cayuco-133818817)<br>
