@@ -1,8 +1,10 @@
-# News for 2026-08-31 20:22
+# News for 2026-08-31 22:18
 
 Previous day: [2026-08-30](./data/2026-08-30.md)
 
 ## ua.korrespondent.net
+21:57 [Атака РФ: на Київщині зросло число постраждалих](https://ua.korrespondent.net/ukraine/4907818-ataka-rf-na-kyivschyni-zroslo-chyslo-postrazhdalykh)<br>
+21:51 [Тім Кук написав прощального листа співробітникам Apple](https://ua.korrespondent.net/business/companies/4907816-tim-kuk-napysav-proschalnoho-lysta-spivrobitnykam-Apple)<br>
 19:59 [Свята 1 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4907784-sviata-1-veresnia-2026-roku-istoriia-tradytsii)<br>
 19:51 [Інсайдер опубліковав рендери майбутньої серії Samsung Galaxy S27](https://ua.korrespondent.net/lifestyle/gadgets/4907792-insaider-opublikovav-rendery-maibutnoi-serii-Samsung-Galaxy-S27)<br>
 19:47 [У Києві пролунали вибухи: у двох районах загоряння](https://ua.korrespondent.net/city/kiev/4907790-u-kyievi-prolunaly-vybukhy-u-dvokh-raionakh-zahoriannia)<br>
@@ -41,6 +43,10 @@ Previous day: [2026-08-30](./data/2026-08-30.md)
 00:13 [Російський дрон поцілив у багатоповерхку у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4907515-rosiiskyi-dron-potsilyv-u-bahatopoverkhku-u-zaporizhzhi)<br>
 
 ## as.com
+21:46 [“El arbitraje fue malo con alevosía. No tuvieron profesionalidad”](https://as.com/baloncesto/mas_baloncesto/el-arbitraje-fue-malo-con-alevosia-no-tuvieron-profesionalidad-f202608-n/)<br>
+21:45 [Chus Mateo: “Estoy convencido de que va a salir bien”](https://as.com/baloncesto/mas_baloncesto/chus-mateo-estoy-convencido-de-que-va-a-salir-bien-f202608-n/)<br>
+20:47 [Dorsey ahoga a España](https://as.com/baloncesto/mas_baloncesto/dorsey-ahoga-a-espana-f202608-n/)<br>
+20:38 [Indignación absoluta en España con esta falta no señalada: era para ganar el partido](https://as.com/baloncesto/videos/indignacion-absoluta-en-espana-con-esta-falta-no-senalada-era-para-ganar-el-partido-f202608-v/)<br>
 20:13 [Grecia – España, en directo: Ventanas FIBA en vivo hoy](https://as.com/baloncesto/mas_baloncesto/grecia-espana-en-directo-ventanas-fiba-en-vivo-hoy-f202608-d/)<br>
 16:10 [Jasiel Rivero será taronja por un mes](https://as.com/baloncesto/acb/jasiel-rivero-sera-taronja-por-un-mes-f202608-n/)<br>
 15:39 [Eslovenia se agarra sin Doncic](https://as.com/baloncesto/mas_baloncesto/eslovenia-se-agarra-sin-doncic-f202608-n/)<br>
@@ -54,6 +60,12 @@ Previous day: [2026-08-30](./data/2026-08-30.md)
 00:13 [Peñarroya descarta a Jabari Parker](https://as.com/baloncesto/euroliga/penarroya-descarta-a-jabari-parker-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:19 [El verano de 2026 es el más cálido en la España peninsular desde 1961](https://www.elperiodico.com/es/sociedad/20260831/verano-2026-calido-espana-peninsular-1961-133819611)<br>
+21:14 [Inveready destituye a Ernest Pérez-Mas de la presidencia de Parlem](https://www.elperiodico.com/es/economia/20260831/inveready-destituye-ernest-perez-presidencia-133818328)<br>
+20:54 [Salvamento Marítimo traslada a El Hierro un cayuco con unos 97 ocupantes](https://www.elperiodico.com/es/sociedad/20260831/salvamento-maritimo-traslada-hierro-cayuco-133818817)<br>
+20:48 [La renovación del DNI se atasca en Catalunya: sin fecha en las comisarías hasta octubre y citas lejos de casa](https://www.elperiodico.com/es/videos/barcelona/renovacion-dni-atasca-catalunya-fecha/133818608.shtml)<br>
+20:28 [Muere el actor Francesc Garrido a los 56 años](https://www.elperiodico.com/es/videos/sucesos/muere-actor-francesc-garrido-56/133818172.shtml)<br>
+20:25 [Vídeo | Así ha sido la operación policial en Talavera la Real (Badajoz)](https://www.elperiodico.com/es/videos/sucesos/video-sido-operacion-policial-talavera/133818112.shtml)<br>
 20:07 [Nepal busca a cientos de trabajadores en los túneles de las centrales hidroeléctricas arrasadas por la riada](https://www.elperiodico.com/es/internacional/20260831/nepal-busca-cientos-trabajadores-tuneles-133817669)<br>
 19:41 [Un "Google" para el ARN podría revelar secretos de las células hasta ahora inaccesibles](https://www.elperiodico.com/es/tendencias21/20260831/google-arn-revelar-secretos-celulas-133817116)<br>
 19:31 [Polonia intercepta de nuevo un avión espía ruso sobre el Báltico](https://www.elperiodico.com/es/internacional/20260831/polonia-intercepta-nuevo-avion-espia-ruso-baltico-133816911)<br>
@@ -72,6 +84,7 @@ Previous day: [2026-08-30](./data/2026-08-30.md)
 17:17 [Un documental sigue durante cinco años a los lobos de la Península: "Donde hay lobos y ganado habrá conflicto, hay que aprender a convivir"](https://www.elperiodico.com/es/sociedad/20260831/durmiendo-con-lobos-documental-retrata-lobos-peninsula-iberica-andoni-canela-133796275)<br>
 17:11 [Badalona adjudica por unos tres millones de euros la construcción de la sexta guardería municipal](https://www.elperiodico.com/es/barcelona/20260831/badalona-adjudica-tres-millones-euros-construccion-sexta-guarderia-municipal-133805408)<br>
 16:58 [La Generalitat invertirá 6,3 millones en la nueva sede del Institut Català de Arqueologia Clàssica en la Tabacalera de Tarragona](https://www.elperiodico.com/es/tarragona/20260831/generalitat-invertira-6-3-millones-nueva-sede-institut-catala-arqueologia-tabacalera-tarragona-133810303)<br>
+16:56 [El repunte del euríbor hasta cerca del 3% pone a prueba la demanda de vivienda y las hipotecas](https://www.elperiodico.com/es/economia/20260831/euribor-3-demanda-vivienda-133811827)<br>
 16:34 [Marius Borg, condenado por violación, asistirá al funeral del rey Harald V](https://www.elperiodico.com/es/gente/20260831/marius-borg-condenado-violacion-asistira-133810520)<br>
 16:29 [Reabre la estación Verdaguer de la L4 del metro de Barcelona y su enlace con la L5](https://www.elperiodico.com/es/fotos/barcelona/reabre-estacion-verdaguer-l4-metro-133810952)<br>
 16:20 [Del FOMO al JOMO, del estrés por no salir al placer de quedarte en casa: "Podría interpretarse como una expresión saludable"](https://www.elperiodico.com/es/ser-feliz/20260831/jomo-placer-casa-fomo-estres-salir-redes-sociales-dv-133606577)<br>
