@@ -1,5 +1,32 @@
 [
   {
+    "title": "Ракети атакували склади Ozon у Бєлгороді",
+    "link": "https://ua.korrespondent.net/world/4907527-rakety-atakuvaly-sklady-Ozon-u-bielhorodi",
+    "pubDate": "2026-08-31 02:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545112.jpg\">Унаслідок вибухів у російському Бєлгороді виникли пожежі на кількох об’єктах, зокрема на ТЕЦ і складі маркетплейсу Ozon.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Франція прокоментувала результати референдуму в Ісландії",
+    "link": "https://ua.korrespondent.net/world/4907525-frantsiia-prokomentuvala-rezultaty-referendumu-v-islandii",
+    "pubDate": "2026-08-31 02:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545096.jpg\">Попри відмову від відновлення переговорів про вступ до ЄС, Ісландія залишається інтегрованою в європейський ринок і Шенгенську зону.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Нафта дорожчає через загострення довкола Ірану",
+    "link": "https://ua.korrespondent.net/business/economics/4907523-nafta-dorozhchaie-cherez-zahostrennia-dovkola-iranu",
+    "pubDate": "2026-08-31 01:43:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545095.jpg\">Brent піднявся до $89,75 за барель після атаки США на іранські пускові установки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Бессент обмежив доступ ЗМІ до зустрічі G20",
     "link": "https://ua.korrespondent.net/world/4907521-bessent-obmezhyv-dostup-zmi-do-zustrichi-G20",
     "pubDate": "2026-08-31 01:22:00",
@@ -50,6 +77,15 @@
     "pubDate": "2026-08-31 00:13:51",
     "category": "Baloncesto",
     "description": "El entrenador español ha dejado claro, en la prensa serbia, que no quiere en el equipo al ala-pívot de Chicago, al que ya dirigió en su etapa en el Barcelona.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російський дрон поцілив у багатоповерхку у Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4907515-rosiiskyi-dron-potsilyv-u-bahatopoverkhku-u-zaporizhzhi",
+    "pubDate": "2026-08-31 00:13:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545016.jpg\">Ворожий fpv-дрон атакував багатоповерхівку. Серед постраждалих зокрема підліток.",
     "topic": "",
     "topic_match_probability": 0
   },
