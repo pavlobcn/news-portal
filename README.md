@@ -1,17 +1,59 @@
-# News for 2026-08-31 07:29
+# News for 2026-08-31 13:50
 
 Previous day: [2026-08-30](./data/2026-08-30.md)
 
 ## ua.korrespondent.net
+13:32 [В Умані введуть особливий режим через Рош га-Шана: що зміниться](https://ua.korrespondent.net/ukraine/4907658-v-umani-vvedut-osoblyvyi-rezhym-cherez-rosh-ha-shana-scho-zminytsia)<br>
+13:18 [Anthropic опинилася під позовом Sony та Warner через авторські права](https://ua.korrespondent.net/showbiz/music/4907639-Anthropic-opynylasia-pid-pozovom-Sony-ta-Warner-cherez-avtorski-prava)<br>
+12:45 [Гроші для дорослих дітей: допомагати чи відпускати](https://ua.korrespondent.net/articles/4907642-hroshi-dlia-doroslykh-ditei-dopomahaty-chy-vidpuskaty)<br>
+12:20 [На Волині чоловік жорстоко вбив ексдружину та її матір на очах у дітей](https://ua.korrespondent.net/ukraine/4907632-na-volyni-cholovik-zhorstoko-vbyv-eksdruzhynu-ta-yii-matir-na-ochakh-u-ditei)<br>
+12:05 [Денисенко звинуватили у плагіаті дизайну тіари](https://ua.korrespondent.net/lifestyle/4907619-denysenko-zvynuvatyly-u-plahiati-dyzainu-tiary)<br>
+11:18 [Обмінники оновили курси валют в останній день літа](https://ua.korrespondent.net/business/financial/4907616-obminnyky-onovyly-kursy-valuit-v-ostannii-den-lita)<br>
+11:12 [У Польщі затримали двох чоловіків за напад на 15-річного українця](https://ua.korrespondent.net/world/4907611-u-polschi-zatrymaly-dvokh-cholovikiv-za-napad-na-15-richnoho-ukraintsia)<br>
+08:38 [Повінь у Непалі: кількість загиблих перевищила 900](https://ua.korrespondent.net/world/4907568-povin-u-nepali-kilkist-zahyblykh-perevyschyla-900)<br>
 05:23 [Понад 20 осіб зникли безвісти після повені у Гранд-Каньйоні](https://ua.korrespondent.net/world/4907539-ponad-20-osib-znykly-bezvisty-pislia-poveni-u-hrand-kanioni)<br>
 02:44 [Ракети атакували склади Ozon у Бєлгороді](https://ua.korrespondent.net/world/4907527-rakety-atakuvaly-sklady-Ozon-u-bielhorodi)<br>
 01:43 [Нафта дорожчає через загострення довкола Ірану](https://ua.korrespondent.net/business/economics/4907523-nafta-dorozhchaie-cherez-zahostrennia-dovkola-iranu)<br>
 00:13 [Російський дрон поцілив у багатоповерхку у Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4907515-rosiiskyi-dron-potsilyv-u-bahatopoverkhku-u-zaporizhzhi)<br>
 
 ## as.com
+11:33 [Cabo Verde claudica sin Walter Tavares](https://as.com/baloncesto/mas_baloncesto/cabo-verde-claudica-sin-walter-tavares-f202608-n/)<br>
+09:09 [Lista definitiva de España para el Mundial: las 12 convocadas por Méndez](https://as.com/baloncesto/mas_baloncesto/lista-definitiva-de-espana-para-el-mundial-las-12-convocadas-por-mendez-f202608-n/)<br>
+07:30 [Mara: “Mi camino no ha sido de rosas”](https://as.com/baloncesto/mas_baloncesto/mara-mi-camino-no-ha-sido-de-rosas-f202608-n/)<br>
+07:30 [En la guarida del lobo herido](https://as.com/baloncesto/mas_baloncesto/en-la-guarida-del-lobo-herido-f202608-n/)<br>
 00:13 [Peñarroya descarta a Jabari Parker](https://as.com/baloncesto/euroliga/penarroya-descarta-a-jabari-parker-f202608-n/)<br>
 
 ## www.elperiodico.com
+13:21 [El recibo de la luz se desboca y registra el agosto más caro en cuatro años](https://www.elperiodico.com/es/economia/20260831/precio-luz-agosto-recibo-luz-subida-133804651)<br>
+13:19 [Estos son los nombres de las borrascas y danas de la temporada 2026-2027 que empiezan este martes](https://www.elperiodico.com/es/sociedad/20260831/danas-borrascas-nombres-temporada-2026-2027-meteorologia-133802322)<br>
+13:19 [Alfonso Muñoz, funcionario de la Seguridad Social: "Mucha gente cree que es suficiente con restar dos o cuatros años a la edad de jubilación, y eso no funciona así"](https://www.elperiodico.com/es/economia/20260831/alfonso-munoz-funcionario-seguridad-social-calcular-edad-jubilacion-anticipada-dv-133800655)<br>
+13:05 [Idoia y Alex, dos españoles que descubrieron uno de los mayores santuarios de fauna salvaje del mundo en África: "Nos encanta descubrir cosas nuevas y aborrecemos la monotonía"](https://www.elperiodico.com/es/economia/20260831/espanoles-vuelta-africa-namibia-santuario-fauna-idoia-alex-dv-et-133524241)<br>
+13:02 [¿Qué es la congelación de óvulos?, ¿lo cubre la sanidad pública?, ¿cuánto cuesta?: preguntas y respuestas sobre una de las técnicas más demandadas](https://www.elperiodico.com/es/sanidad/20260831/congelacion-ovulos-que-es-acuerdo-federacion-espanola-futbol-seleccion-femenina-133800003)<br>
+12:59 [Sergio Ramos (40 años), sobre sus estudios: "Matemáticas se me daba muy bien; historia también me gustaba porque es una asignatura que forma parte de la vida"](https://www.elperiodico.com/es/gente/20260831/sergio-ramos-estudios-infancia-colegio-asignaturas-matematicas-historia-dv-et-133803286)<br>
+12:59 [José Flores Flores (119 años), el hombre más anciano del mundo: "El secreto de la longevidad es trabajar mucho, encomendarse a Dios y comer sano"](https://www.elperiodico.com/es/sociedad/20260831/jose-flores-119-anos-hombre-anciano-mundo-secreto-longevidad-trabajar-dios-comer-sano-dv-et-133803410)<br>
+12:54 [Carme Noguera (112 años): "He ido haciendo, comiendo, durmiendo y trabajando como todo el mundo"](https://www.elperiodico.com/es/sociedad/20260831/carme-noguera-alimentacion-deporte-superacion-medico-dv-et-133803280)<br>
+12:49 [El precio del euríbor hoy, 31 de agosto: cierre de mes amargo para el que tiene una hipoteca](https://www.elperiodico.com/es/economia/20260831/precio-euribor-hoy-31-agosto-dv-133802025)<br>
+12:28 [Naomi Watts, segundo Premio Donostia del 74 Festival de San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260831/naomi-watts-segundo-premio-donostia-133802214)<br>
+12:28 [La Universitat de Barcelona investiga el alcance de un ciberataque y refuerza sus sistemas](https://www.elperiodico.com/es/sociedad/20260831/universitat-barcelona-investiga-incidente-seguridad-informatica-refuerza-sistemas-133800918)<br>
+12:15 [¿Por qué se hundió el barco en Chipre? Exceso de velocidad y fallos de seguridad, las claves del naufragio del ferry](https://www.elperiodico.com/es/internacional/20260831/barco-chipre-naufragio-ferry-que-ha-pasado-ferri-133799626)<br>
+12:15 [Los controles de patinetes eléctricos en L'Hospitalet elevan a 502 los vehículos requisados en 2026](https://www.elperiodico.com/es/barcelona/20260831/controles-patinetes-electricos-lhospitalet-elevan-502-vehiculos-requisados-2026-133799651)<br>
+11:38 [Charlie Pee y el sexo nuestro de cada día](https://www.elperiodico.com/es/ocio-y-cultura/20260831/charlie-pee-sexo-monologo-manresa-pare-nostre-133799912)<br>
+11:37 [La mayor batalla de 'street dance' del año llega a Barcelona: solo uno pasará a la gran final mundial](https://www.elperiodico.com/es/barcelona/20260831/batalla-street-dance-barcelona-gran-final-mundial-133798890)<br>
+11:30 [El Mundo Today | Tras pasar las vacaciones en sus países, los turistas ya han vuelto a Barcelona](https://www.elperiodico.com/es/que-hacer/20260831/mundo-today-barcelona-vacaciones-turistas-han-vuelto-133799132)<br>
+11:15 [Anabel Fernández, dietista nutricionista, alerta de lo que puede ocurrirle a un bebé con calor: "Si vemos que no están mojando el pañal, están llorando sin lágrimas o tienen ojeras un poquito hundidas, quiere decir que quizá se están deshidratando"](https://www.elperiodico.com/es/salud/20260831/bebe-nino-deshidratacion-calor-anabel-fernandez-dietista-nutricionista-bebidas-isotonicas-alcoholicas-dv-et-133544389)<br>
+11:08 [Ubisoft elimina el teletrabajo en sus oficinas de Barcelona y los empleados responden con una huelga](https://www.elperiodico.com/es/economia/20260831/ubisoft-elimina-teletrabajo-oficinas-barcelona-cgt-huelga-133798765)<br>
+11:04 [El euríbor cierra agosto en su nivel más alto en casi dos años: “El tipo fijo resulta más atractivo para muchos compradores”](https://www.elperiodico.com/es/economia/20260831/euribor-agosto-nivel-mas-alto-dos-anos-encarece-hipotecas-133798007)<br>
+11:00 [Netflix dispara la carrera hacia el Oscar de 'La bola negra' de los Javis](https://www.elperiodico.com/es/ocio-y-cultura/20260831/netflix-dispara-carrera-oscar-la-bola-negra-131945081)<br>
+10:58 [Vecinos de Girona denuncian lanzamientos de canicas en la calle Costabona: "Una me pasó rozando la cabeza"](https://www.elperiodico.com/es/sociedad/20260831/vecinos-girona-denuncian-lanzamientos-canicas-133797752)<br>
+10:45 [Una persona muere tras las inundaciones repentinas en el Gran Cañón del Colorado](https://www.elperiodico.com/es/videos/internacional/inundaciones-repentinas-gran-canon-colorado/133798387.shtml)<br>
+10:09 [Javier Ruiz, despedido de la SER de manera fulminante e inesperada tras su aterrizaje en La Séptima](https://www.elperiodico.com/es/tele/yotele/20260831/javier-ruiz-despedido-manera-fulminante-inesperada-aterrizaje-la-septima-133797049)<br>
+10:00 [El postparto, una etapa tan bonita como intensa: la importancia de la información y el acompañamiento](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/mujer-y-embarazo/postparto-etapa-bonita-intensa-importancia/121581403.shtml)<br>
+09:20 [Las muertes por calor alcanzan máximos históricos con 5.232 este año, 2.147 en agosto](https://www.elperiodico.com/es/sociedad/20260831/muertes-calor-alcanzan-maximos-historicos-133796084)<br>
+08:45 [La crema coreana de 16 € que todas quieren: adiós manchas, arrugas y sin dejar de protegerte del sol](https://www.elperiodico.com/es/shopping/20260831/crema-coreana-solar-arrugas-117689774)<br>
+08:31 [Ricardo Gómez ('Toda la verdad de mis mentiras'): “Las historias de Elísabet Benavent apelan a algo por lo que todos hemos pasado”](https://www.elperiodico.com/es/tele/20260831/ricardo-gomez-verdad-mentiras-serie-netflix-elisabet-benavent-132660986)<br>
+08:22 [Nace el 'Atles de Varietats de Vinya de Catalunya', la cartografía más exhaustiva del viñedo catalán](https://www.elperiodico.com/es/gastronomia/vinos/20260831/atlas-vinas-catalunya-incavi-132929959)<br>
+08:05 [Christian González (46 años), agricultor: "Me han llegado a ofrecer 700.000 euros por la finca y les he dicho que no, lo que hago es para dejar un legado a mi familia y a la humanidad"](https://www.elperiodico.com/es/economia/20260831/christian-agricultor-oferta-700000-euros-finca-legado-dv-et-133676064)<br>
+08:00 [Lady Di, 29 años después: la batalla por explicar a la princesa Diana de Gales a una generación que nunca la conoció](https://www.elperiodico.com/es/gente/20260831/lady-di-29-anos-muerte-legado-harry-william-charles-spencer-133737022)<br>
 07:25 [Aldana (49 años) y Martín (45 años) viven en plena montaña sin sueldos fijos: "Nunca me voy a olvidar de lo que nos dijo un amigo: 'Chicos, con un poquito de tierra y unas gallinitas, ustedes nunca tendrían que pasar hambre'"](https://www.elperiodico.com/es/economia/20260831/ecoconstruccion-barro-abono-argentina-sin-sueldo-montana-familia-martin-aldana-dv-et-133546436)<br>
 06:01 [Catalunya pisa el freno digital: los libros en papel ganan peso y el primer ordenador se retrasa hasta 6º de Primaria](https://www.elperiodico.com/es/sociedad/20260831/catalunya-freno-digital-libros-texto-fisicos-retraso-entrega-primer-portatil-vuelta-al-cole-133697847)<br>
 06:00 [Familias que se resistían a dar el primer móvil a sus hijos acaban cediendo al llegar a 1º de la ESO: "Me lo he comido con patatas"](https://www.elperiodico.com/es/sociedad/20260831/primer-telefono-movil-hijos-familias-ceden-prohibidos-institutos-normalizados-casa-133694058)<br>
