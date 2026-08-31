@@ -1,5 +1,221 @@
 [
   {
+    "title": "Estados Unidos demanda a Amazon por aplicar costes ocultos a sus anunciantes",
+    "link": "https://www.elperiodico.com/es/economia/20260831/estados-unidos-demanda-amazon-aplicar-133820650",
+    "pubDate": "2026-08-31 22:14:06",
+    "category": "",
+    "description": "<h2>La demanda alega que Amazon infló artificialmente los costes de publicidad para millones de empresas, sumando millones en sobrecostes</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Alcaraz regresa a lo campeón con una paliza en el US Open",
+    "link": "https://www.elperiodico.com/es/deportes/20260831/alcaraz-regresa-campeon-paliza-us-133820601",
+    "pubDate": "2026-08-31 22:11:30",
+    "category": "",
+    "description": "<h2>El tenista murciano supera sin problemas la primera ronda del Grand Slam ante el ruso Roman Safiullin con una versión que no hizo ver su larga inactividad.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "'El Hormiguero' y 'La revuelta' anuncian cuándo retoman su batalla en audiencias, pero se guardan los nombres de sus primeros invitados",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260831/hormiguero-revuelta-anuncian-retoman-batalla-guardan-primeros-invitados-133819817",
+    "pubDate": "2026-08-31 21:59:42",
+    "category": "",
+    "description": "<h2>Pablo Motos y David Broncano vuelven a su particular duelo en el access prime time, pero evitan desvelar sus armas de momento</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Атака РФ: на Київщині зросло число постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4907818-ataka-rf-na-kyivschyni-zroslo-chyslo-postrazhdalykh",
+    "pubDate": "2026-08-31 21:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4546135.jpg\">Російські удари по області не припиняються. Кількість постраждалих зросла до дев’яти, у Бучанському районі пошкоджено два приватні будинки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тім Кук написав прощального листа співробітникам Apple",
+    "link": "https://ua.korrespondent.net/business/companies/4907816-tim-kuk-napysav-proschalnoho-lysta-spivrobitnykam-Apple",
+    "pubDate": "2026-08-31 21:51:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4546132.jpg\">Тім Кук 31 серпня завершив роботу на посаді генерального директора Apple, яку обіймав із 2011 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“El arbitraje fue malo con alevosía. No tuvieron profesionalidad”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-arbitraje-fue-malo-con-alevosia-no-tuvieron-profesionalidad-f202608-n/",
+    "pubDate": "2026-08-31 21:46:05",
+    "category": "Baloncesto",
+    "description": "Brizuela carga contra el arbitraje y señala a la Federación Internacional: “No es culpa nuestra ni de Grecia, el que lo tiene que mirar es la FIBA”.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Chus Mateo: “Estoy convencido de que va a salir bien”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/chus-mateo-estoy-convencido-de-que-va-a-salir-bien-f202608-n/",
+    "pubDate": "2026-08-31 21:45:29",
+    "category": "Baloncesto",
+    "description": "El seleccionador nacional compareció en rueda de prensa tras la derrota en la prórroga contra Grecia (108-106). Aday Mara también habló ante los medios.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hot Wheels lanza una colección exclusiva de coches junto a Maluma, Lewandowski y Supercar Blondie",
+    "link": "https://www.elperiodico.com/es/motor/20260831/hot-wheels-lanza-coleccion-exclusiva-133798429",
+    "pubDate": "2026-08-31 21:30:20",
+    "category": "",
+    "description": "<h2>La marca se alía con estas tres estrellas globales para diseñar tres vehículos de edición limitada bajo la campaña inspiracional Challenge Accepted</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Felipe VI se reúne con Sánchez en su primer encuentro tras las vacaciones de verano",
+    "link": "https://www.elperiodico.com/es/politica/20260831/felipe-vi-reune-sanchez-primer-encuentro-vacaciones-verano-133819759",
+    "pubDate": "2026-08-31 21:28:47",
+    "category": "",
+    "description": "<h2>La reunión, que estaba agendado desde antes del verano, ha transcurrido con la normalidad habitual</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El verano de 2026 es el más cálido en la España peninsular desde 1961",
+    "link": "https://www.elperiodico.com/es/sociedad/20260831/verano-2026-calido-espana-peninsular-1961-133819611",
+    "pubDate": "2026-08-31 21:19:09",
+    "category": "",
+    "description": "<h2>La temperatura media ha superado en 2,5ºC la normal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США і РФ проводять зустріч на G20: про що говорять",
+    "link": "https://ua.korrespondent.net/world/4907808-ssha-i-rf-provodiat-zustrich-na-G20-pro-scho-hovoriat",
+    "pubDate": "2026-08-31 21:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4546108.jpg\">На полях саміту G20 відбулася зустріч міністрів фінансів США та Росії Скотта Бессента й Антона Сілуанова. Сторони, зокрема, обговорюють американський план щодо завершення війни в Україні.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Inveready destituye a Ernest Pérez-Mas de la presidencia de Parlem",
+    "link": "https://www.elperiodico.com/es/economia/20260831/inveready-destituye-ernest-perez-presidencia-133818328",
+    "pubDate": "2026-08-31 21:14:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Silvia Martínez asume la presidencia no ejecutiva tras la destitución del fundador de la compañía</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260831/fundador-parlem-medita-adios-teleco-133462785\">El fundador de Parlem medita su adiós a la 'teleco' del Procés</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260807/perez-da-luz-verde-plan-133171406\">Pérez-Mas da luz verde al plan de Inveready y Mayoral y cede el control de Parlem tras meses de guerra</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jóvenes que huyeron de Putin para evitar la guerra: \"En Rusia te pueden parar por la calle, obligarte a firmar un contrato y enviarte al frente\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260831/rusia-parar-calle-obligarte-firmar-133819028",
+    "pubDate": "2026-08-31 21:01:46",
+    "category": "",
+    "description": "<h2>Tres jóvenes rusos que, o bien desertaron, o bien huyeron del país para evitar ir a la guerra de Ucrania, explican sus experiencias a EL PERIÓDICO   </h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Pogacar, operado con éxito en Barcelona de la clavícula izquierda",
+    "link": "https://www.elperiodico.com/es/deportes/20260831/pogacar-operado-exito-barcelona-clavicula-133818840",
+    "pubDate": "2026-08-31 21:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">\"El procedimiento salió bien y permanecerá en el hospital para el seguimiento postoperatorio durante unos días\", apuntó el doctor Adrian Rotunno, director médico del UAE.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes 31 de agosto, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260831/primitiva-hoy-resultados-lunes-31-agosto-comprobar-numeros-133817196",
+    "pubDate": "2026-08-31 21:00:37",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, martes 1 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260831/horoscopo-hoy-martes-1-septiembre-dv-133675933",
+    "pubDate": "2026-08-31 21:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЄС шукає ракети для Patriot в Іспанії, Греції та Азії",
+    "link": "https://ua.korrespondent.net/world/4907805-yes-shukaie-rakety-dlia-Patriot-v-ispanii-hretsii-ta-azii",
+    "pubDate": "2026-08-31 20:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4546096.jpg\">Європейська комісія намагається переконати Іспанію та Грецію передати Україні додаткові ракети для Patriot. Паралельно ЄС веде переговори про такі боєприпаси з Японією та Південною Кореєю.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Salvamento Marítimo traslada a El Hierro un cayuco con unos 97 ocupantes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260831/salvamento-maritimo-traslada-hierro-cayuco-133818817",
+    "pubDate": "2026-08-31 20:54:20",
+    "category": "",
+    "description": "<h2>La embarcación fue avistada por un helicóptero del organismo a 54,7 kilómetros de la isla</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La renovación del DNI se atasca en Catalunya: sin fecha en las comisarías hasta octubre y citas lejos de casa",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/renovacion-dni-atasca-catalunya-fecha/133818608.shtml",
+    "pubDate": "2026-08-31 20:48:18",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dorsey ahoga a España",
+    "link": "https://as.com/baloncesto/mas_baloncesto/dorsey-ahoga-a-espana-f202608-n/",
+    "pubDate": "2026-08-31 20:47:19",
+    "category": "Baloncesto",
+    "description": "El escolta nacionalizado hizo 22 de sus 29 puntos en la segunda parte para derrotar a la Selección, que suma su tercera derrota consecutiva.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Indignación absoluta en España con esta falta no señalada: era para ganar el partido",
+    "link": "https://as.com/baloncesto/videos/indignacion-absoluta-en-espana-con-esta-falta-no-senalada-era-para-ganar-el-partido-f202608-v/",
+    "pubDate": "2026-08-31 20:38:39",
+    "category": "Selección Española Baloncesto",
+    "description": "El colegiado del Grecia-España no señaló falta de Calathes sobre Saint-Supery cuando el español lanzaba para ganar el partido.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere el actor Francesc Garrido a los 56 años",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/muere-actor-francesc-garrido-56/133818172.shtml",
+    "pubDate": "2026-08-31 20:28:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vídeo | Así ha sido la operación policial en Talavera la Real (Badajoz)",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/video-sido-operacion-policial-talavera/133818112.shtml",
+    "pubDate": "2026-08-31 20:25:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "FC Barcelona – Rayo Vallecano, en directo: última hora y resultados del partido de LaLiga",
+    "link": "https://www.elperiodico.com/es/deportes/20260831/fc-barcelona-rayo-vallecano-partido-liga-ultima-hora-directo-133803870",
+    "pubDate": "2026-08-31 20:24:49",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260830/real-madrid-malaga-goles-resultado-resumen-133785900\">El Real Madrid masacra a un ternísimo Málaga en 11 minutos</a></h2><h2>Hansi Flick contará con los mismos 22 jugadores que convocó para el último partido de LaLiga EA Sports ante el Athletic Club.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Grecia – España, en directo: Ventanas FIBA en vivo hoy",
     "link": "https://as.com/baloncesto/mas_baloncesto/grecia-espana-en-directo-ventanas-fiba-en-vivo-hoy-f202608-d/",
     "pubDate": "2026-08-31 20:13:52",
@@ -617,6 +833,15 @@
     "pubDate": "2026-08-31 16:58:02",
     "category": "",
     "description": "<h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/tarragona/20260515/tabacalera-tarragona-modifica-nivel-proteccion-130270316\" target=\"_blank\">La Tabacalera de Tarragona modifica su nivel de protección patrimonial para facilitar proyectos e inversiones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El repunte del euríbor hasta cerca del 3% pone a prueba la demanda de vivienda y las hipotecas",
+    "link": "https://www.elperiodico.com/es/economia/20260831/euribor-3-demanda-vivienda-133811827",
+    "pubDate": "2026-08-31 16:56:58",
+    "category": "",
+    "description": "<h2>El encarecimiento de la financiación todavía no ha provocado una retirada generalizada de compradores, pero ha aumentado la prudencia, ha tensionado los ratios de endeudamiento y ha elevado las barreras de acceso para los hogares con menos ahorro</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -1645,6 +1870,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545630.jpg\">У Брянської області РФ уражено командно-штабну машину зі складу зенітного ракетного комплексу С-400 Тріумф.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Italia prorroga 15 días los controles con España e informa de que ha devuelto a 31 personas en un mes",
+    "link": "https://www.elperiodico.com/es/internacional/20260831/italia-prorroga-15-dias-controles-frontera-espana-133800771",
+    "pubDate": "2026-08-31 11:54:22",
+    "category": "",
+    "description": "<h2>Fuentes del Ministerio del Interior italiano han confirmado a EL PERIÓDICO que, durante este pasado mes de agosto, se revisaron los listados de embarque de casi 500.000 pasajeros y se exigió la identificación pie a pie a más de 180.000 viajeros procedentes de España a su llegada a Italia.</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Sira Rego confirma que casi 1.500 menores no acompañados permanecen en Ceuta",
