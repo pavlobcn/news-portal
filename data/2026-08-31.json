@@ -1,5 +1,365 @@
 [
   {
+    "title": "Aldana (49 años) y Martín (45 años) viven en plena montaña sin sueldos fijos: \"Nunca me voy a olvidar de lo que nos dijo un amigo: 'Chicos, con un poquito de tierra y unas gallinitas, ustedes nunca tendrían que pasar hambre'\"",
+    "link": "https://www.elperiodico.com/es/economia/20260831/ecoconstruccion-barro-abono-argentina-sin-sueldo-montana-familia-martin-aldana-dv-et-133546436",
+    "pubDate": "2026-08-31 07:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La familia explica su forma de afrontar los cambios: \"Algo que practicamos desde hace muchos años es el desapego. Esto no es más que una casa\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260805/renuncia-vida-ciudad-terreno-campo-contruccion-casa-agua-luz-mauricio-dv-et-132707450\">Mauricio (37 años), viviendo en plena naturaleza tras dejar Buenos Aires: \"¿Por qué querer 15 días de vacaciones si puedes vivir todo el año desconectado?\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260822/vida-autosuficiente-monte-sandra-jose-padres-cuatro-hijos-dv-et-132485687\">Sandra y José, padres de 4 hijos, revelan cómo es su día a día viviendo en el bosque: \"Teníamos muchas discusiones, las dinámicas familiares no funcionaban\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mientras el Rey León este vivo, que esperen todos los Simba",
+    "link": "https://www.elperiodico.com/es/deportes/20260831/rey-leon-vivo-esperen-simba-133790496",
+    "pubDate": "2026-08-31 07:15:38",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Márquez: \"Ahora disfruto cada victoria porque no sé si será la última\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260831/marquez-ahora-disfruto-victoria-sera-133790538",
+    "pubDate": "2026-08-31 07:14:49",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб ЗСУ оцінив ситуацію на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4907554-henshtab-zsu-otsinyv-sytuatsiui-na-fronti",
+    "pubDate": "2026-08-31 07:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545354.jpg\">Найбільше російських атак за добу відбулося - на Костянтинівському та Покровському напрямках.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cuando Induráin se retiró, la vida continuó",
+    "link": "https://www.elperiodico.com/es/deportes/20260831/indurain-retiro-vida-continuo-vuelta-tourmalet-sergi-lopez-egea-133780831",
+    "pubDate": "2026-08-31 07:00:24",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Exlantix llega para competir en la alta gama: quién fabrica sus coches y qué modelos venderá en España",
+    "link": "https://www.elperiodico.com/es/motor/20260831/exlantix-llega-competir-alta-gama-que-modelos-vendera-en-espana-133633066",
+    "pubDate": "2026-08-31 07:00:21",
+    "category": "",
+    "description": "<h2>La división premium del grupo Chery desembarcará en el mercado español en 2027 con arquitecturas de 800 V, carga ultrarrápida y una gama inicial centrada en las berlinas y los SUV de representación</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран атакував американські бази в Йорданії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4907551-iran-atakuvav-amerykanski-bazy-v-yordanii-zmi",
+    "pubDate": "2026-08-31 06:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545322.jpg\">Тегеран розпочав атаку після того, як США завдали удару по іранських ракетних установках на острові Ларак.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Мадуро показав фото з американської в'язниці",
+    "link": "https://ua.korrespondent.net/world/4907549-maduro-pokazav-foto-z-amerykanskoi-viaznytsi",
+    "pubDate": "2026-08-31 06:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545319.png\">Експрезидент Венесуели опублікував дві фотографії, на яких він зображений у сірому спортивному костюмі, показуючи руками знак миру.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 31 серпня",
+    "link": "https://ua.korrespondent.net/ukraine/4907545-henshtab-nazvav-vtraty-rosii-stanom-na-31-serpnia",
+    "pubDate": "2026-08-31 06:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545285.jpg\">Минулої доби ЗСУ ліквідували 1600 окупантів. Знищено п'ять танків, сім бронемашин, 50 артсистем, сім РСЗВ, три засоби ППО, сім НРК і 2055 дронів.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260831/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-08-31 06:04:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260831/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-08-31 06:03:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260824/rabat-intensifico-campana-influencia-washington-meses-antes-crisis-ceuta-133589199\" target=\"_blank\">Marruecos intensificó su campaña de influencia en EEUU cuatro meses antes de la crisis de Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260821/gobierno-congelo-plan-seguridad-ceuta-melilla-giro-relaciones-marruecos-133526180\" target=\"_blank\">El Gobierno congeló el Plan de Seguridad para Ceuta y Melilla tras su giro con Marruecos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Diversificar la vivienda, garantizar el acceso",
+    "link": "https://www.elperiodico.com/es/opinion/20260831/diversificar-vivienda-garantizar-acceso-133784114",
+    "pubDate": "2026-08-31 06:01:13",
+    "category": "",
+    "description": "<h2>Corresponde al sector público garantizar un equilibrio entre fórmulas alternativas como el 'cohousing' y el acceso a la vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Feliz año nuevo",
+    "link": "https://www.elperiodico.com/es/tele/20260831/feliz-ano-nuevo-antena-3-sergi-mas-television-y-mas-133780084",
+    "pubDate": "2026-08-31 06:01:10",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Del veto inicial a la nueva oferta de Alstom: la historia del megacontrato del metro de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260831/veto-inicial-nueva-oferta-alstom-historia-gran-contrato-35-trenes-metro-barcelona-133268254",
+    "pubDate": "2026-08-31 06:01:02",
+    "category": "",
+    "description": "<h2>La multinacional, que se postuló inicialmente, quedó vetada por figurar en una base de datos de la ONU sobre asentamientos en Palestina</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260828/alstom-prepara-oferta-economica-mayor-contrato-decada-metro-barcelona-133669532\" target=\"_blank\">Alstom prepara una oferta económica para el gran contrato de 35 trenes del metro de Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Catalunya pisa el freno digital: los libros en papel ganan peso y el primer ordenador se retrasa hasta 6º de Primaria",
+    "link": "https://www.elperiodico.com/es/sociedad/20260831/catalunya-freno-digital-libros-texto-fisicos-retraso-entrega-primer-portatil-vuelta-al-cole-133697847",
+    "pubDate": "2026-08-31 06:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Cada vez más escuelas vuelven a apostar por los libros de texto físicos y reservan las licencias digitales para temas muy concretos y algunos centros han decidido que los alumnos no podrán llevarse el portátil a casa hasta 1º de la ESO</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260828/primer-telefono-movil-hijos-familias-ceden-prohibidos-institutos-normalizados-casa-133694058\" target=\"_blank\">Familias que se resistían a dar el primer móvil acaban cediendo: \"Me lo he comido con patatas, pero no me voy a flagelar más\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251001/miquel-carceller-profesor-instituto-trabajos-chatgpt-apuntes-educacion-121887404\">Miquel Carceller, profesor: \"Pedir trabajos ya no sirve, Chatgpt hace la reflexión y el alumnado pierde el tiempo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250104/maria-marcos-federacio-moviments-renovacio-pedagogica-educacion-cataluna-lectura-aprendizaje-competencias-112929637\">Maria Marcos: \"No tiene ningún sentido que una maestra de infantil ponga un cuento en Youtube en vez de explicarlo ella\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra de Irán, en directo: EEUU impone restricciones a un banco egipcio para presionar a Irán",
+    "link": "https://www.elperiodico.com/es/internacional/20260831/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-08-31 06:01:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Familias que se resistían a dar el primer móvil a sus hijos acaban cediendo al llegar a 1º de la ESO: \"Me lo he comido con patatas\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260831/primer-telefono-movil-hijos-familias-ceden-prohibidos-institutos-normalizados-casa-133694058",
+    "pubDate": "2026-08-31 06:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Prohibidos en los institutos, pero normalizados en casa: la entrega del primer teléfono sigue haciéndose antes de 1º de la ESO </h2><h2 class=\"item\">El miedo a que los niños queden excluidos de la clase y la necesidad de localizarlos cuando empiezan a moverse solos sigue empujando a muchas familias a darles el primer teléfono a los 12 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251111/padres-desbordados-uso-moviles-hijos-informe-unicef-123589341\">Uno de cada diez menores se considera adicto al móvil y, pese al veto en la escuela, el 44% lo lleva y uno de cada tres lo mira en clase</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260828/catalunya-freno-digital-libros-texto-fisicos-retraso-entrega-primer-portatil-vuelta-al-cole-133697847\" target=\"_blank\">Catalunya pisa el freno digital: los libros en papel ganan peso y el primer ordenador se retrasa hasta 6º de Primaria</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los trabajadores de baja ya no recibirán cartas de la Seguridad Social y los avisos llegarán por 'mail'",
+    "link": "https://www.elperiodico.com/es/economia/20260831/trabajadores-baja-recibiran-cartas-seguridad-133736392",
+    "pubDate": "2026-08-31 06:00:58",
+    "category": "",
+    "description": "<h2>La Tesorería General de la Seguridad Social ahora enviará exclusivamente por medios telemáticos las altas, bajas o denegaciones de incapacidades, entre otros trámites  </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El fundador de Parlem medita su adiós a la 'teleco' del Procés",
+    "link": "https://www.elperiodico.com/es/economia/20260831/fundador-parlem-medita-adios-teleco-133462785",
+    "pubDate": "2026-08-31 06:00:58",
+    "category": "",
+    "description": "<h2>La operadora afronta este lunes un decisivo consejo de administración con la nueva propiedad al frente que puede suponer la despedida de Ernest Pérez-Mas </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260807/perez-da-luz-verde-plan-133171406\">Pérez-Mas da luz verde al plan de Inveready y Mayoral y cede el control de Parlem tras meses de guerra</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "El Gobierno negocia el último paquete de transferencias de competencias a Euskadi en la legislatura",
+    "link": "https://www.elperiodico.com/es/politica/20260831/gobierno-transferencias-competencias-euskadi-legislatura-133738798",
+    "pubDate": "2026-08-31 06:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">La crisis en Ceuta obliga a dejar sin fecha la próxima reunión entre Sánchez y Pradales, pero el gobierno mantiene su pretensión de cerrar un acuerdo para atar a los nacionalistas vascos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gobierno sigue preparando el desmantelamiento de la central nuclear de Almaraz pese a aprobar su prórroga hasta 2030",
+    "link": "https://www.elperiodico.com/es/economia/20260831/almaraz-centrales-nucleares-gobierno-desmantelamiento-prorroga-2030-133740157",
+    "pubDate": "2026-08-31 06:00:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La sociedad pública Enresa adjudicó hace unos meses un contrato por 27 millones para diseñar el desmontaje de la planta y ve “plenamente justificado” continuar sin cambios con los trabajos por la corta duración de la ampliación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Del flex living al senior living: Por qué ya no solo se vive en un piso normal",
+    "link": "https://www.elperiodico.com/es/economia/20260831/flex-living-senior-living-vive-133736533",
+    "pubDate": "2026-08-31 06:00:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Controles fronterizos tras la crisis en Ceuta: la jugada política de Meloni que \"ayudó a Vox\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260831/controles-fronterizos-crisis-ceuta-jugada-politica-meloni-vox-abascal-sanchez-133791235",
+    "pubDate": "2026-08-31 06:00:55",
+    "category": "",
+    "description": "<h2>Analistas y observadores italianos y europeos consideran que la decisión de Roma responde a dinámicas internas y a un intento de debilitar al Ejecutivo de Sánchez</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Reabre la estación Verdaguer de la L4 del metro de Barcelona y su enlace con la L5",
+    "link": "https://www.elperiodico.com/es/barcelona/20260831/reabre-estacion-verdaguer-barcelona-l4-metro-y-enlace-l5-133729582",
+    "pubDate": "2026-08-31 06:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Las obras han mejorado andenes, escaleras y el forjado del vestíbulo, además de adaptar el trasbordo entre líneas para personas con movilidad reducida</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260829/l1-metro-barcelona-reabrira-tramo-florida-placa-sants-sabado-133703583\" target=\"_blank\">La L1 del metro de Barcelona reabre el tramo Florida-Plaça de Sants este sábado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20260831/gasolineras-mas-baratas-hoy-lunes-31-agosto-2026-133728036",
+    "pubDate": "2026-08-31 06:00:55",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Josep Tristany, Pla Director de Salut Mental: \"Corremos el riesgo de psicologizar la vida cotidiana\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260831/josep-tristany-pla-director-salut-132917189",
+    "pubDate": "2026-08-31 06:00:50",
+    "category": "",
+    "description": "<h2 class=\"item\">El reto es evitar que toda experiencia de malestar vital se convierta automáticamente en un problema sanitario</h2><h2 class=\"item\">Necesitamos una sociedad más cohesionada, inclusiva y corresponsable. Los servicios sanitarios, por sí solos, no pueden generar bienestar emocional</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los famosos que nos han dejado el verano de 2026: de Dolly Parton, Bonnie Tyler y Sam Neill a Juan Tamariz y el rey Harald",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260831/famosos-muertos-verano-2026-actores-musicos-cantantes-artistas-fallecidos-133575395",
+    "pubDate": "2026-08-31 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260630/muertos-fallecidos-famosos-2026-actores-musicos-escritores-artistas-131183429\" target=\"_blank\">De Robert Duvall, Valentino y Chuck Norris hasta Catherine O'Hara, Fernando Esteso y Eric Dane... los artistas que también han fallecido este año</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Encuestas de las elecciones generales en España: así están los sondeos",
+    "link": "https://www.elperiodico.com/es/politica/20260831/encuestas-elecciones-generales-espana-sondeos-12274406",
+    "pubDate": "2026-08-31 06:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260803/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Así están las encuestas de las elecciones en Catalunya</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260606/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 30.8: Захист від дронів й умови Кремля",
+    "link": "https://ua.korrespondent.net/ukraine/4907541-pidsumky-308-zakhyst-vid-droniv-y-umovy-kremlia",
+    "pubDate": "2026-08-31 05:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4544998.jpg\">Україна має чотири потенційних перехоплювачі реактивних \"шахедів\"; У Кремлі допустили зустріч Зеленського, Трампа та Путіна для \"фіксації домовленостей\". Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los famosos que nos han dejado el verano de 2026",
+    "link": "https://www.elperiodico.com/es/videos/gente/famosos-han-dejado-verano-2026-video/133729804.shtml",
+    "pubDate": "2026-08-31 05:55:29",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "TVyMAS | Feliz año nuevo",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-feliz-ano-nuevo-video/133779447.shtml",
+    "pubDate": "2026-08-31 05:55:29",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El terremoto que cambia la radio esta temporada: Alsina se aparta de la política, Bretos asciende y Sastre hereda 'Hora 25'",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260831/terremoto-cambia-radio-temporada-alsina-aparta-politica-bretos-asciene-sastre-hereda-hora-25-133706043",
+    "pubDate": "2026-08-31 05:30:43",
+    "category": "",
+    "description": "<h2>La SER y Onda Cero renuevan sus principales franjas, COPE protege a sus grandes comunicadores y RNE reorganiza sus mañanas, el mediodía y la noche.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Понад 20 осіб зникли безвісти після повені у Гранд-Каньйоні",
+    "link": "https://ua.korrespondent.net/world/4907539-ponad-20-osib-znykly-bezvisty-pislia-poveni-u-hrand-kanioni",
+    "pubDate": "2026-08-31 05:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545208.jpg\">Після раптової повені у Національному парку Гранд-Каньйон евакуювали 62 людей, пошуки решти нині тривають.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мерц застеріг від наслідків перемоги AfD на виборах",
+    "link": "https://ua.korrespondent.net/world/4907537-merts-zasterih-vid-naslidkiv-peremohy-AfD-na-vyborakh",
+    "pubDate": "2026-08-31 04:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545192.jpg\">Потенційна перемога AfD може відлякати міжнародних інвесторів і створити серйозні проблеми для Саксонії-Ангальт.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США готують щотижневі санкції проти Ірану",
+    "link": "https://ua.korrespondent.net/world/4907535-ssha-hotuuit-schotyzhnevi-sanktsii-proty-iranu",
+    "pubDate": "2026-08-31 04:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545176.jpg\">Вашингтон попереджає міжнародні фінансові установи про наслідки співпраці з Тегераном.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Кім Чен Ин змінив міністра оборони КНДР",
+    "link": "https://ua.korrespondent.net/world/4907533-kim-chen-yn-zminyv-ministra-oborony-kndr",
+    "pubDate": "2026-08-31 04:01:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545175.jpg\">Новим очільником відомства став Кім Сон Гі, який раніше очолював політичне бюро армії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Кремль програв битву за Кавказ",
+    "link": "https://ua.korrespondent.net/world/4907531-kreml-prohrav-bytvu-za-kavkaz",
+    "pubDate": "2026-08-31 03:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545159.jpg\">Після чергової проваленої спецоперації \"втручання у вірменські вибори\" РФ остаточно втрачає вплив у регіоні.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Гегсета попередили про ризики затяжної війни з Іраном",
+    "link": "https://ua.korrespondent.net/world/4907529-hehseta-poperedyly-pro-ryzyky-zatiazhnoi-viiny-z-iranom",
+    "pubDate": "2026-08-31 03:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4545128.jpg\">У секретній оцінці для міністра оборони військові попередили про нестачу ресурсів, скорочення резервів флоту та ризики для інших регіонів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Tiempo en Catalunya hoy lunes: bajan las temperaturas y vuelven las tormentas a estas zonas",
+    "link": "https://www.elperiodico.com/es/tiempo/20260831/tiempo-catalunya-manana-lunes-bajan-133782973",
+    "pubDate": "2026-08-31 03:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El sol seguirá predominando en gran parte del territorio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260830/subida-temperaturas-fin-verano-mas-calido-tiempo-133775513\">Una subida de temperaturas pone fin al verano más cálido de la serie histórica</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20260826/meteotsunami-que-es-dv-13451415\">¿Qué es un meteotsunami? Así se desata el extraño fenómeno que ha sorprendido a Xàbia, Santa Pola y otros puntos de la costa valenciana</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-08-31 02:49:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Ракети атакували склади Ozon у Бєлгороді",
     "link": "https://ua.korrespondent.net/world/4907527-rakety-atakuvaly-sklady-Ozon-u-bielhorodi",
     "pubDate": "2026-08-31 02:44:00",
