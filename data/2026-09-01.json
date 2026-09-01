@@ -1,5 +1,41 @@
 [
   {
+    "title": "Este es el vídeo que aparece en el sumario de Las Peñas de Riglos y que originó el devastador incendio",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/video-aparece-sumario-penas-riglos-dv/133855725.shtml",
+    "pubDate": "2026-09-01 22:23:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В ЄС планують відійти від принципу одностайності",
+    "link": "https://ua.korrespondent.net/world/4908119-v-yes-planuuit-vidiity-vid-pryntsypu-odnostainosti",
+    "pubDate": "2026-09-01 22:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547139.jpg\">Дискусія про зміну правил ЄС активізувалася після багаторічних суперечок довкола блокування рішень окремими країнами, зокрема за прем’єрства Віктора Орбана.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ в ООН висунула нову умову для миру в Україні",
+    "link": "https://ua.korrespondent.net/world/russia/4908106-rf-v-oon-vysunula-novu-umovu-dlia-myru-v-ukraini",
+    "pubDate": "2026-09-01 21:57:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547076.jpg\">Росія не бачить можливості для мирного врегулювання війни без згоди Києва на її вимоги, заявив Василь Небензя. Москва готова продовжувати бойові дії.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los alumnos de Casa Árabe reivindican las Escuelas Aguirre como espacio de convivencia: \"La cultura no se vende, se defiende\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260901/alumnos-casa-arabe-movilizan-desalojo-cultura-vende-defiende-133855386",
+    "pubDate": "2026-09-01 21:47:38",
+    "category": "",
+    "description": "<h2>La concentración coincide con el vencimiento del ultimátum municipal; los convocantes aseguran que el nuevo curso cuenta ya con \"150 matriculados\" y anuncian que mantendrán las movilizaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "EEUU lanza nuevos ataques sobre objetivos de la Guardia Revolucionaria en Irán",
     "link": "https://www.elperiodico.com/es/videos/internacional/eeuu-lanza-nuevos-ataques-objetivos/133855103.shtml",
     "pubDate": "2026-09-01 21:42:49",
@@ -7,6 +43,24 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "РФ атакувала Київ і область: є поранені та пожежі",
+    "link": "https://ua.korrespondent.net/city/kiev/4908113-rf-atakuvala-kyiv-i-oblast-ye-poraneni-ta-pozhezhi",
+    "pubDate": "2026-09-01 21:36:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547107.jpg\">Від початку доби 1 вересня до столичних медиків звернулися 13 постраждалих від атак ворога. Ще одна постраждала у Броварському районі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Durísimo comunicado de Steisy y Pablo Pisa por la trágica pérdida de su segundo bebé: \"Llevaba dos o tres semanas sin latido\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260901/durisimo-comunicado-steisy-pablo-pisa-perdida-segundo-bebe-133854803",
+    "pubDate": "2026-09-01 21:33:47",
+    "category": "",
+    "description": "<h2>La pareja, que ya atravesó un duro golpe al perder a uno de los mellizos en julio, ha anunciado con un desgarrador mensaje que el segundo embrión tampoco ha podido salir adelante</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
   },
   {
     "title": "В Індонезії прокинувся вулкан Синабунг",
@@ -104,6 +158,15 @@
     "pubDate": "2026-09-01 20:42:18",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вирва на шкільному стадіоні: РФ атакувала Дніпро",
+    "link": "https://ua.korrespondent.net/city/dnepr/4908094-vyrva-na-shkilnomu-stadioni-rf-atakuvala-dnipro",
+    "pubDate": "2026-09-01 20:39:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547056.jpg\">Діти, які залишалися в школі на подовженому дні, під час удару перебували в укритті. Також є руйнування у приватному секторі.",
     "topic": "",
     "topic_match_probability": 0
   },
