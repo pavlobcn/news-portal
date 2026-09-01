@@ -1,14 +1,18 @@
-# News for 2026-09-01 14:31
+# News for 2026-09-01 16:19
 
 Previous day: [2026-08-31](./data/2026-08-31.md)
 
 ## ua.korrespondent.net
+15:48 [Багатскіс коментує перемогу української команди і плани на майбутнє](https://ua.korrespondent.net/sport/basketball/4908008-bahatskis-komentuie-peremohu-ukrainskoi-komandy-i-plany-na-maibutnie)<br>
+15:34 ["Гола" сукня Ніколь Кідман стала головною сенсацією прем’єри](https://ua.korrespondent.net/lifestyle/4907992-hola-suknia-nikol-kidman-stala-holovnoui-sensatsiieui-premiery)<br>
 14:23 [У ПС назвали число реактивних "шахедів" за серпень](https://ua.korrespondent.net/ukraine/4907989-u-ps-nazvaly-chyslo-reaktyvnykh-shakhediv-za-serpen)<br>
 14:15 [Українець у 106 років встановив віковий рекорд в Ірландії](https://ua.korrespondent.net/world/4907977-ukrainets-u-106-rokiv-vstanovyv-vikovyi-rekord-v-irlandii)<br>
 14:00 [Росіяни вбили двох чоловіків і поранили двох дітей в Херсоні](https://ua.korrespondent.net/ukraine/4907984-rosiiany-vbyly-dvokh-cholovikiv-i-poranyly-dvokh-ditei-v-khersoni)<br>
 13:54 [СБУ затримала агента РФ, який наводив авіабомби та Смерчі на Слов'янськ](https://ua.korrespondent.net/ukraine/4907981-sbu-zatrymala-ahenta-rf-yakyi-navodyv-aviabomby-ta-smerchi-na-sloviansk)<br>
+13:46 [Льодовик Судного дня може танути швидше - вчені](https://ua.korrespondent.net/tech/science/4907955-lodovyk-sudnoho-dnia-mozhe-tanuty-shvydshe-vcheni)<br>
 13:24 [Росіянам ускладнили наступ на Куп'янськ - Трегубов](https://ua.korrespondent.net/ukraine/4907974-rosiianam-uskladnyly-nastup-na-kupiansk-trehubov)<br>
 12:55 [Українські дрони залетіли в Естонію](https://ua.korrespondent.net/world/4907965-ukrainski-drony-zaletily-v-estoniui)<br>
+12:20 [Гривня зміцніла у обмінниках на початку вересня](https://ua.korrespondent.net/business/financial/4907956-hryvnia-zmitsnila-u-obminnykakh-na-pochatku-veresnia)<br>
 12:07 [У Хмельницькому директора мовного центру засудили за дитячу порнографію](https://ua.korrespondent.net/ukraine/4907951-u-khmelnytskomu-dyrektora-movnoho-tsentru-zasudyly-za-dytiachu-pornohrafiui)<br>
 11:41 [Росіяни вбили одну і поранили дев'ять людей на Донеччині](https://ua.korrespondent.net/ukraine/4907944-rosiiany-vbyly-odnu-i-poranyly-deviat-luidei-na-donechchyni)<br>
 11:26 [ДБР назвало ймовірну причину вибух у Рівному](https://ua.korrespondent.net/ukraine/4907942-dbr-nazvalo-ymovirnu-prychynu-vybukh-u-rivnomu)<br>
@@ -34,6 +38,12 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 01:10 [La Selección necesita a todos (y dos victorias) para ir al Mundial](https://as.com/baloncesto/mas_baloncesto/la-seleccion-necesita-a-todos-y-dos-victorias-para-ir-al-mundial-f202608-n/)<br>
 
 ## www.elperiodico.com
+16:03 [Cientos de noruegos comienzan a desfilar por la capilla ardiente del rey Harald V](https://www.elperiodico.com/es/internacional/20260901/cientos-noruegos-comienzan-desfilar-capilla-133844565)<br>
+15:50 [Detenido en la frontera de Melilla con Marruecos un ciudadano reclamado por Francia por secuestro y agresión sexual](https://www.elperiodico.com/es/sociedad/20260901/detenido-frontera-melilla-marruecos-ciudadano-133843950)<br>
+15:35 [Mel Gibson pide disculpas tras haber sido acusado de reírse de una intérprete de signos](https://www.elperiodico.com/es/gente/20260901/mel-gibson-pide-disculpas-haber-133832222)<br>
+15:33 [El Espai Texas estrena 'Bona nit, poncelles', una comedia negra de Víctor Borràs que consolida su apuesta por la dramaturgia catalana](https://www.elperiodico.com/es/ocio-y-cultura/20260901/espai-texas-estrena-bona-nit-puncelles-133832031)<br>
+15:03 [Franco (77 años), el hombre que vive aislado a 1.800 metros: "Hoy la comodidad parece algo garantizado, algo natural que nos corresponde, pero no es así. La naturaleza es increíblemente cruel"](https://www.elperiodico.com/es/economia/20260901/hombre-italiano-vive-aislado-montana-1-800-metros-comodidades-muerte-antepasados-franco-dv-et-133741098)<br>
+14:40 [Mette-Marit no asistirá hoy al juramento de Haakon VIII tras sufrir nuevas complicaciones por su trasplante pulmonar](https://www.elperiodico.com/es/videos/gente/mette-marit-no-asiste-juramento-haakon-rey-noruega-video/133841652.shtml)<br>
 14:27 [Xavi Espart me agota, por Lluís Carrasco](https://www.elperiodico.com/es/deportes/20260901/xavi-espart-agota-lluis-carrasco-133840896)<br>
 14:21 [Los 85.000 docentes catalanes se incorporan hoy a los centros educativos con la mirada puesta en la huelga del día 8](https://www.elperiodico.com/es/sociedad/20260901/docentes-catalanes-incorporan-trabajo-huelga-primer-dia-clase-reunion-sindicatos-133829757)<br>
 14:13 [¿Por qué dormimos peor al volver de vacaciones? Un experto señala al sistema nervioso](https://www.elperiodico.com/es/salud/20260901/por-que-dormimos-peor-volver-vacaciones-experto-133840333)<br>
@@ -52,6 +62,7 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 13:16 [El precio del euríbor hoy, 1 de septiembre: el mes empieza como terminó agosto](https://www.elperiodico.com/es/economia/20260901/precio-euribor-hoy-1-septiembre-dv-133836436)<br>
 13:04 [La deuda pública mundial estrena septiembre con las rentabilidades en máximos desde la Gran Recesión](https://www.elperiodico.com/es/economia/20260901/deuda-publica-mundial-estrena-septiembre-133835951)<br>
 13:00 [Detienen en Málaga al narcotraficante más buscado de Alemania tras cinco años prófugo](https://www.elperiodico.com/es/videos/sucesos/detienen-malaga-narcotraficante-buscado-alemania/133835801.shtml)<br>
+13:00 [La vida de Javi (23 años) aislado en la naturaleza tras perder a su madre: "Decidí venir aquí para encontrarme a mí mismo"](https://www.elperiodico.com/es/economia/20260901/dejo-ciudad-vivir-aislado-bosque-muerte-madre-traumas-javi-dv-et-133681678)<br>
 12:49 [El Hospital 12 de Octubre de Madrid fabrica mascarillas nasales en 3D para la respiración de bebés prematuros](https://www.elperiodico.com/es/sanidad/20260901/hospital-octubre-madrid-mascarillas-nasales-respiracion-bebes-prematuros-133833981)<br>
 12:46 ["Seguimos con la huelga indefinida": los trabajadores de las bibliotecas de Barcelona retoman las protestas y reclaman mejores condiciones](https://www.elperiodico.com/es/barcelona/20260901/seguimos-huelga-indefinida-trabajadores-bibliotecas-barcelona-retoman-protestas-reclaman-mejores-condiciones-133834053)<br>
 12:26 [Cinco años sin peajes tensionan la AP-7: un 33% más de muertes y un 40% más de averías](https://www.elperiodico.com/es/sociedad/20260901/cinco-anos-sin-peajes-autopistas-cataluna-ap7-mas-trafico-accidentes-averias-133830458)<br>
@@ -84,6 +95,7 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 09:44 [Las inundaciones masivas en Nepal dejan cerca de un millar de muertos y miles de desaparecidos](https://www.elperiodico.com/es/videos/internacional/inundaciones-masivas-nepal-dejan-mil-muertos-video/133827846.shtml)<br>
 09:32 [Los locales de Badalona usados como viviendas se duplican en tres años: en 292 de ellos hay vecinos empadronados](https://www.elperiodico.com/es/videos/sociedad/locales-badalona-usados-viviendas-duplican-tres-anos-video/133827549.shtml)<br>
 09:10 [Los verdaderos motivos de Galliano para cancelar su retrospectiva en el Met: semanas de acoso al museo, críticas de la comunidad judía y amenazas de los donantes](https://www.elperiodico.com/es/gente/20260901/john-galliano-cancela-retrospectiva-met-motivos-133826299)<br>
+09:00 [De marca familiar de medias a referente internacional de moda y tecnología](https://www.elperiodico.com/es/vida-y-estilo/20260901/marca-familiar-medias-referente-internacional-bc-133844862)<br>
 08:45 [Imagin: liderando las mejores cuentas bancarias en España con control y cero comisiones](https://www.elperiodico.com/es/shopping/20260901/imagin-cuentas-bancarias-mejores-liderando-133448293)<br>
 08:40 [De la luna nueva a la luna llena: así evoluciona el cielo nocturno en septiembre 2026](https://www.elperiodico.com/es/ciencia/20260901/luna-septiembre-2026-fases-cuarto-menguante-nueva-creciente-llena-dv-132724581)<br>
 08:07 [Mueren los dos jóvenes que fueron rescatados con síntomas de ahogamiento en una balsa en Navarra](https://www.elperiodico.com/es/sucesos/20260901/mueren-jovenes-rescatados-sintomas-ahogamiento-133826142)<br>
@@ -91,6 +103,9 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 08:00 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260901/ultima-hora-incendios-espana-directo-132759066)<br>
 07:53 [La Policía de Nueva York abate a una mujer tras matar a una persona y herir a otra en Times Square](https://www.elperiodico.com/es/internacional/20260901/times-square-nueva-york-muere-persona-resulta-herida-apunaladas-133825908)<br>
 07:49 [Veredicto histórico 30 años después: declaran culpable al exlíder pandillero 'Keffe D', asesino del mítico rapero Tupac Shakur](https://www.elperiodico.com/es/internacional/20260901/tupac-shakur-keffe-d-declarado-culpable-asesinato-133825855)<br>
+06:45 ["Barcelona y el azar"](https://www.elperiodico.com/es/entre-todos/participacion/barcelona-azar-carta-jordi-querol-133765070)<br>
+06:30 ["Ponerse en la piel de los ceutíes"](https://www.elperiodico.com/es/entre-todos/participacion/hay-ponerse-piel-ceuties-carta-guillermo-moya-torres-133760925)<br>
+06:16 ["Parar para sobrevivir"](https://www.elperiodico.com/es/entre-todos/participacion/parar-sobrevivir-carta-iulen-lizaso-133757278)<br>
 06:01 [Graban un impresionante banco de peces frente al hotel Vela de Barcelona: "La gente los recogía con bolsas del Mercadona”](https://www.elperiodico.com/es/que-hacer/planes/20260901/graban-impresionante-banco-peces-frente-hotel-vela-barcelona-video-viral-133818318)<br>
 06:01 [Diez años vendiendo cremas para financiar su investigación contra el cáncer](https://www.elperiodico.com/es/economia/20260901/endor-diez-anos-vendiendo-cremas-pagar-investigacion-cancer-132663813)<br>
 06:00 [La terapia psicológica mejora la recuperación física y mental tras una cirugía de espalda, según un estudio](https://www.elperiodico.com/es/ser-feliz/20260901/terapia-psicologica-mejora-recuperacion-fisica-132770274)<br>
