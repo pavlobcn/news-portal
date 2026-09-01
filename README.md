@@ -1,8 +1,9 @@
-# News for 2026-09-01 06:14
+# News for 2026-09-01 08:56
 
 Previous day: [2026-08-31](./data/2026-08-31.md)
 
 ## ua.korrespondent.net
+07:41 [У Росії семикласниця напала на вчительку з ножем](https://ua.korrespondent.net/world/russia/4907880-u-rosii-semyklasnytsia-napala-na-vchytelku-z-nozhem)<br>
 05:27 [Росіянин убив трьох людей у стрілецькому клубі Чорногорії](https://ua.korrespondent.net/world/4907864-rosiianyn-ubyv-trokh-luidei-u-striletskomu-klubi-chornohorii)<br>
 03:29 [Наслідки атаки на Бориспіль: є жертва й потерпілі](https://ua.korrespondent.net/ukraine/4907856-naslidky-ataky-na-boryspil-ye-zhertva-y-poterpili)<br>
 02:58 [Дрони РФ атакували підприємство в Новгороді-Сіверському](https://ua.korrespondent.net/ukraine/4907854-drony-rf-atakuvaly-pidpryiemstvo-v-novhorodi-siverskomu)<br>
@@ -10,9 +11,18 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 01:48 [Росія атакувала Київ балістикою](https://ua.korrespondent.net/city/kiev/4907848-rosiia-atakuvala-kyiv-balistykoui)<br>
 
 ## as.com
+07:23 [Campazzo sufre a Dort y Deck se lesiona](https://as.com/baloncesto/mas_baloncesto/andres-feliz-llegara-al-madrid-lanzado-f202609-n/)<br>
+06:15 [Los tres errores arbitrales que enfadaron a España](https://as.com/baloncesto/mas_baloncesto/los-tres-errores-arbitrales-que-enfadaron-a-espana-f202609-n/)<br>
+06:15 [Lo mejor y lo peor de España en esta Ventana](https://as.com/baloncesto/mas_baloncesto/lo-mejor-y-lo-peor-de-espana-en-esta-ventana-f202609-n/)<br>
+06:14 [¿Cuándo empieza el Mundial de baloncesto femenino 2026? Fechas, horarios, TV y dónde ver en directo online](https://as.com/baloncesto/mas_baloncesto/cuando-empieza-el-mundial-de-baloncesto-femenino-2026-fechas-horarios-tv-y-donde-ver-en-directo-online-f202609-n/)<br>
 01:10 [La Selección necesita a todos (y dos victorias) para ir al Mundial](https://as.com/baloncesto/mas_baloncesto/la-seleccion-necesita-a-todos-y-dos-victorias-para-ir-al-mundial-f202608-n/)<br>
 
 ## www.elperiodico.com
+08:45 [Imagin: liderando las mejores cuentas bancarias en España con control y cero comisiones](https://www.elperiodico.com/es/shopping/20260901/imagin-cuentas-bancarias-mejores-liderando-133448293)<br>
+08:40 [De la luna nueva a la luna llena: así evoluciona el cielo nocturno en septiembre 2026](https://www.elperiodico.com/es/ciencia/20260901/luna-septiembre-2026-fases-cuarto-menguante-nueva-creciente-llena-dv-132724581)<br>
+08:07 [Mueren los dos jóvenes que fueron rescatados con síntomas de ahogamiento en una balsa en Navarra](https://www.elperiodico.com/es/sucesos/20260901/mueren-jovenes-rescatados-sintomas-ahogamiento-133826142)<br>
+08:01 [Lluís Homar vuelve al cine con 'Forastera': "Ya me tocaba hacer de abuelo"](https://www.elperiodico.com/es/ocio-y-cultura/20260901/lluis-homar-vuelve-cine-forastera-133813452)<br>
+08:00 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260901/ultima-hora-incendios-espana-directo-132759066)<br>
 06:01 [Graban un impresionante banco de peces frente al hotel Vela de Barcelona: "La gente los recogía con bolsas del Mercadona”](https://www.elperiodico.com/es/que-hacer/planes/20260901/graban-impresionante-banco-peces-frente-hotel-vela-barcelona-video-viral-133818318)<br>
 06:01 [Diez años vendiendo cremas para financiar su investigación contra el cáncer](https://www.elperiodico.com/es/economia/20260901/endor-diez-anos-vendiendo-cremas-pagar-investigacion-cancer-132663813)<br>
 06:00 [La terapia psicológica mejora la recuperación física y mental tras una cirugía de espalda, según un estudio](https://www.elperiodico.com/es/ser-feliz/20260901/terapia-psicologica-mejora-recuperacion-fisica-132770274)<br>
