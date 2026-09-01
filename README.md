@@ -1,8 +1,9 @@
-# News for 2026-09-01 19:54
+# News for 2026-09-01 21:46
 
 Previous day: [2026-08-31](./data/2026-08-31.md)
 
 ## ua.korrespondent.net
+21:32 [В Індонезії прокинувся вулкан Синабунг](https://ua.korrespondent.net/world/4908111-v-indonezii-prokynuvsia-vulkan-synabunh)<br>
 19:35 [Ігнат пояснив, чому ППО не звітує про всю російську балістику](https://ua.korrespondent.net/ukraine/4908076-ihnat-poiasnyv-chomu-ppo-ne-zvituie-pro-vsui-rosiisku-balistyku)<br>
 18:28 [Німеччина звинуватила РФ в атаці з дроном у Лейпцигу й оголосила відповідь](https://ua.korrespondent.net/world/4908058-nimechchyna-zvynuvatyla-rf-v-atatsi-z-dronom-u-leiptsyhu-y-oholosyla-vidpovid)<br>
 18:13 [В небі була сотня "шахедів": як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4908054-v-nebi-bula-sotnia-shakhediv-yak-vidpratsuivala-ppo)<br>
@@ -42,6 +43,7 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 01:48 [Росія атакувала Київ балістикою](https://ua.korrespondent.net/city/kiev/4907848-rosiia-atakuvala-kyiv-balistykoui)<br>
 
 ## as.com
+20:16 [Obradovic pierde por lesión a Hayes-Davies](https://as.com/baloncesto/euroliga/obradovic-pierde-por-lesion-a-hayes-davies-f202609-n/)<br>
 16:55 [La Selección, con la camiseta oficial y “cargada de sueños”](https://as.com/baloncesto/mas_baloncesto/la-seleccion-con-la-camiseta-oficial-y-cargada-de-suenos-f202609-n/)<br>
 12:14 [Minaya, el undécimo en el nuevo Barça](https://as.com/baloncesto/acb/minaya-el-undecimo-en-el-nuevo-barca-f202609-n/)<br>
 07:23 [Campazzo sufre a Dort y Deck se lesiona](https://as.com/baloncesto/mas_baloncesto/andres-feliz-llegara-al-madrid-lanzado-f202609-n/)<br>
@@ -51,6 +53,11 @@ Previous day: [2026-08-31](./data/2026-08-31.md)
 01:10 [La Selección necesita a todos (y dos victorias) para ir al Mundial](https://as.com/baloncesto/mas_baloncesto/la-seleccion-necesita-a-todos-y-dos-victorias-para-ir-al-mundial-f202608-n/)<br>
 
 ## www.elperiodico.com
+21:29 [Muere un hombre por un disparo con arma de fuego en Azpeitia (Guipúzcoa)](https://www.elperiodico.com/es/sucesos/20260901/muere-hombre-disparo-arma-fuego-azpeitia-guipuzcoa-133854931)<br>
+21:09 [Wewi dejará de usar la marca Finetwork en favor de Vodafone a partir de octubre](https://www.elperiodico.com/es/economia/20260901/wewi-dejara-marca-finetwork-favor-133852427)<br>
+21:00 [El cardiólogo José Abellán, informa: "Estos tiempos en los que el infartado tenía que hacer reposo se han acabado"](https://www.elperiodico.com/es/salud/20260901/infarto-alimentacion-pastillas-ejercicio-jose-abellan-cardiologo-dv-130451792)<br>
+20:42 [Detienen en Manresa a dos menores por el asesinato de Carles Vilajosana](https://www.elperiodico.com/es/videos/sucesos/detienen-manresa-menores-asesinato-carles/133853960.shtml)<br>
+20:25 [Dos terremotos en cuatro minutos se sienten en Granada y el área metropolitana](https://www.elperiodico.com/es/sociedad/20260901/terremotos-cuatro-minutos-sienten-granada-133853605)<br>
 19:51 [Nace en Italia la decimoquinta cría de la hipopótama más longeva de Europa](https://www.elperiodico.com/es/videos/sociedad/nace-decimoquinta-cria-hipopotama-mas-longeva-europa/133852843.shtml)<br>
 19:31 [Desigual desata la polémica con un anuncio que ironiza sobre la masificación turística de Barcelona: "Amamos a nuestras palomas"](https://www.elperiodico.com/es/gente/20260901/desigual-desata-polemica-anuncio-ironiza-133848934)<br>
 19:22 [El juez pide al jurado del caso Lindsay Clancy que siga deliberando tras no alcanzar un veredicto unánime](https://www.elperiodico.com/es/internacional/20260901/juez-pide-jurado-caso-lindsay-clancy-siga-deliberando-veredicto-unanime-133852316)<br>
