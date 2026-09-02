@@ -1,8 +1,13 @@
-# News for 2026-09-02 11:09
+# News for 2026-09-02 15:40
 
 Previous day: [2026-09-01](./data/2026-09-01.md)
 
 ## ua.korrespondent.net
+15:14 [На Сахаліні Мі-8 жорстко сів на трасу: що сталося](https://ua.korrespondent.net/world/russia/4908332-na-sakhalini-mi-8-zhorstko-siv-na-trasu-scho-stalosia)<br>
+14:39 [У Росії за два дні сталося три напади з ножами у школах](https://ua.korrespondent.net/world/russia/4908325-u-rosii-za-dva-dni-stalosia-try-napady-z-nozhamy-u-shkolakh)<br>
+13:55 [На Одещині пошкодили могили військових](https://ua.korrespondent.net/ukraine/4908309-na-odeschyni-poshkodyly-mohyly-viiskovykh)<br>
+12:05 [Обстріли Слов’янська та авіаудар по Краматорську: є поранені](https://ua.korrespondent.net/ukraine/4908274-obstrily-slovianska-ta-aviaudar-po-kramatorsku-ye-poraneni)<br>
+10:55 [У Німеччині стався вибух на вокзалі: є постраждалі](https://ua.korrespondent.net/world/4908245-u-nimechchyni-stavsia-vybukh-na-vokzali-ye-postrazhdali)<br>
 10:32 [Кіану Рівз закохався у жінку, яка не приховує ранню сивину](https://ua.korrespondent.net/lifestyle/4908227-kianu-rivz-zakokhavsia-u-zhinku-yaka-ne-prykhovuie-rannui-syvynu)<br>
 10:32 [Після стрілянини в Києві перекрили цілу вулицю](https://ua.korrespondent.net/city/kiev/4908236-pislia-strilianyny-v-kyievi-perekryly-tsilu-vulytsui)<br>
 10:14 [На Львівщині 13-річна дівчина побила 11-річного хлопця](https://ua.korrespondent.net/ukraine/4908231-na-lvivschyni-13-richna-divchyna-pobyla-11-richnoho-khloptsia)<br>
@@ -12,10 +17,29 @@ Previous day: [2026-09-01](./data/2026-09-01.md)
 01:42 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
 ## as.com
+14:14 [La Liga Endesa se verá también en abierto en TVG, Aragón TV y EITB](https://as.com/baloncesto/acb/la-liga-endesa-se-vera-tambien-en-abierto-en-tvg-aragon-tv-y-eitb-f202609-n/)<br>
+14:04 [Almansa, en blanco y a la espera](https://as.com/baloncesto/mas_baloncesto/almansa-en-blanco-y-a-la-espera-f202609-n/)<br>
 10:54 [Wilson y Plum no estarán en el Mundial con EE.UU.](https://as.com/baloncesto/mas_baloncesto/wilson-y-plum-no-estaran-en-el-mundial-con-eeuu-f202609-n/)<br>
 07:17 [James: “Maledon es muy bueno y sabe jugar, pero… fue horrible”](https://as.com/baloncesto/acb/james-maledon-es-muy-bueno-y-sabe-jugar-pero-fue-horrible-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:30 [Detienen a una pareja en Valencia por el homicidio de su hijo de 18 meses](https://www.elperiodico.com/es/sucesos/20260902/detienen-pareja-valencia-homicidio-hijo-133876984)<br>
+15:23 [Marius Borg, condenado y con tobillera, reaparecerá con la familia real en el funeral de Harald](https://www.elperiodico.com/es/videos/internacional/marius-borg-condenado-tobillera-reaparecera-harald/133876624.shtml)<br>
+15:09 [George Clooney llega a Venecia para arrancar el festival de cine](https://www.elperiodico.com/es/videos/sociedad/george-clooney-llega-venecia-arrancar-festival-cine/133876146.shtml)<br>
+15:00 [Qué hacer si tu vecino siempre da portazos al irse de casa: esto dice la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/economia/20260902/vecino-portazos-ruidos-molestias-ley-propiedad-horizontal-dv-et-133872508)<br>
+14:54 [Localizado el cadáver de un bebé dentro de una bolsa en un bloque de La Mina](https://www.elperiodico.com/es/barcelona/20260902/sucesos-mina-cadaver-bebe-abandonado-mossos-133875437)<br>
+14:52 [Telefónica cierra la venta de su histórica sede de Gran Vía al empresario murciano Tomás Olivo por más de 200 millones de euros](https://www.elperiodico.com/es/economia/20260902/telefonica-cierra-venta-historica-sede-133875572)<br>
+14:30 [Las lluvias extremas azotan Filipinas hace un mes y dejan históricas imágenes](https://www.elperiodico.com/es/fotos/en-imagenes/lluvias-extremas-filipinas-dejan-historicas-fotos-133874070)<br>
+14:19 [Un poema de Octavio Paz y un texto sobre el lenguaje sexista dan inicio a la repesca de las PAU, las últimas en septiembre](https://www.elperiodico.com/es/sociedad/20260902/selectividad-pau-examen-notas-catalunya-convocatoria-septiembre-133866809)<br>
+13:47 [Capturan en Tarragona a 'Pirry', el líder de una banda colombiana que masacró a siete personas en 2024](https://www.elperiodico.com/es/tarragona/20260902/capturan-tarragona-lider-banda-colombiana-pirry-133872155)<br>
+13:46 [La Confederación Española de Alzheimer alerta del "abandono" de los pacientes que no acceden a los nuevos fármacos: "No es aceptable"](https://www.elperiodico.com/es/sanidad/20260902/confederacion-espanola-alzheimer-alerta-abandono-pacientes-acceder-nuevos-farmacos-no-aceptable-133870022)<br>
+13:29 [Los 600 años del fuego y la pirotecnia en Tarragona, protagonistas de una Santa Tecla 2026 con más de medio millar de actos](https://www.elperiodico.com/es/tarragona/20260902/600-anos-fuego-pirotecnia-tarragona-133869772)<br>
+13:27 [Cirsa descarta recortes de plantilla y conservará Barcelona como segunda sede tras la absorción por la italiana Lottomatica](https://www.elperiodico.com/es/economia/20260902/cirsa-descarta-recortes-plantilla-conservara-133871607)<br>
+13:07 [Josep Soler (EFPA): “Cada vez vemos más cerca no solo una subida de tipos, sino probablemente dos”](https://www.elperiodico.com/es/economia/20260902/josep-soler-efpa-subida-tipos-interes-133869327)<br>
+12:02 [Ni Derecho ni ADE: estas son las carreras con más empleo en España cuatro años después de graduarse](https://www.elperiodico.com/es/sociedad/20260902/carreras-universidad-mejores-empleos-131227904)<br>
+12:00 [Sanidad retira varios adelgazantes por contener sibutramina, un supresor del apetito no autorizado por sus efectos adversos graves](https://www.elperiodico.com/es/sanidad/20260902/sanidad-retira-adelgazantes-contener-sibutramina-133865767)<br>
+12:00 [Aurelio Rojas, cardiólogo: "Algunas personas toleran mejor la falta de sueño durante solo algunos días. O eso creen"](https://www.elperiodico.com/es/salud/20260902/aurelio-rojas-cardiologo-dormir-poco-o-dormir-mucho-salud-dv-et-133741739)<br>
+11:56 [La subida de las temperaturas dejará valores "muy intensos" para septiembre pero sin llegar a ola de calor](https://www.elperiodico.com/es/sociedad/20260902/subida-temperaturas-ola-de-calor-verano-jueves-septiembre-133865264)<br>
 11:00 [Lo confirma el Meteocat: agosto se ha posicionado como el mes más cálido registrado en Catalunya](https://www.elperiodico.com/es/tiempo/20260902/tiempo-cataluna-meteocat-agosto-calor-dv-loc-133850967)<br>
 11:00 [Panta, el hombre de 75 años que lleva 20 años viviendo aislado en una cueva: "Aquí estoy mejor. No tienes que pagar la luz, no tienes que pagar el agua, no tienes que pagar nada. Y después está la libertad"](https://www.elperiodico.com/es/economia/20260902/anciano-cueva-serbia-aislado-ciudad-alimentacion-trabajo-barco-panta-dv-et-133712608)<br>
 10:46 [La Ruta Costera de la Calzada en Irlanda del Norte, en el número de septiembre de VIAJAR](https://www.elperiodico.com/es/ocio-y-cultura/20260902/ruta-costera-calzada-irlanda-norte-133864519)<br>
@@ -23,11 +47,13 @@ Previous day: [2026-09-01](./data/2026-09-01.md)
 10:32 [Las comunidades islámicas de Manresa condenan el crimen del martes y apelan a la responsabilidad de todos para preservar la paz social](https://www.elperiodico.com/es/sociedad/20260902/comunidades-islamicas-manresa-condenan-crimen-133864003)<br>
 10:09 ['Efecto septiembre': los podólogos alertan del aumento de lesiones infantiles por la vuelta al colegio y el deporte](https://www.elperiodico.com/es/salud/20260902/lesiones-vuelta-al-cole-ninos-podologos-133863170)<br>
 10:00 [Paula Nuévalos (27 años), la ingeniera mecánica que renunció a su empleo para rescatar el negocio familiar: "Tenía un buen puesto y un buen salario"](https://www.elperiodico.com/es/economia/20260902/paula-nuevalos-27-anos-dejo-ingenieria-explotacion-familiar-padres-agricultura-dv-et-133706493)<br>
+09:58 [Las dos principales hipótesis de la policía sobre el crimen de Carles Vilajosana](https://www.elperiodico.com/es/sociedad/20260902/principales-hipotesis-policia-crimen-carles-133862626)<br>
 09:17 [Dos detenidos tras un tiroteo de madrugada en L'Hospitalet](https://www.elperiodico.com/es/barcelona/hospitalet/20260902/dos-detenidos-tiroteo-madrugada-hospitalet-mossos-133861211)<br>
 09:15 [Martina (28 años) dejó la ciudad para vivir en un caserío del siglo XVIII tras sufrir una depresión: "Si haces las cosas por una necesidad del alma y no para satisfacer el ego, entonces el universo te responde"](https://www.elperiodico.com/es/economia/20260902/dejo-ciudad-caserio-xviii-depresion-ansiedad-estetica-hipoteca-martina-dv-et-133710518)<br>
 09:00 [El equipo del investigador Carlos Simón ata una ronda de 15 millones para llevar su prueba diagnóstica de la preeclampsia a hospitales](https://www.elperiodico.com/es/economia/20260902/ipremom-equipo-investigador-carlos-simon-ata-ronda-diagnostico-preeclampsia-133859909)<br>
 07:35 [Los estudios científicos coinciden: reducir el consumo de proteínas podría favorecer tu longevidad](https://www.elperiodico.com/es/vida-y-estilo/20260902/envejecimiento-humano-estudio-cientifico-longevidad-consumo-proteinas-dv-133671808)<br>
 06:38 [Riada en Nepal y Tíbet, en directo: Última hora de las inundaciones, muertos, heridos y desaparecidos tras la avalancha](https://www.elperiodico.com/es/internacional/20260902/inundaciones-tibet-nepal-muertos-desaparecidos-directo-133674437)<br>
+06:30 ["Liberados de petróleo"](https://www.elperiodico.com/es/entre-todos/participacion/liberados-petroleo-carta-sergio-gomez-133780511)<br>
 06:00 [Una startup de Barcelona planta cara a ChatGPT con una IA especializada en abogados](https://www.elperiodico.com/es/barcelona/20260902/startup-barcelona-planta-cara-chatgpt-ia-facturacion-abogados-jurisprudencia-132862608)<br>
 06:00 [Alicia Giménez Bartlett: "Sigo enfadada con el mundo porque leo las noticias y veo hacia dónde vamos"](https://www.elperiodico.com/es/ocio-y-cultura/20260902/alicia-gimenez-bartlett-sigo-enfadada-133850858)<br>
 06:00 [Catalunya cierra el verano más cálido de su historia: 3 grados por encima de la media en gran parte del territorio](https://www.elperiodico.com/es/sociedad/20260902/verano-2026-calido-historia-cataluna-meteocat-133846421)<br>
@@ -35,4 +61,5 @@ Previous day: [2026-09-01](./data/2026-09-01.md)
 06:00 [David Sanahuja, de Tarragona, vive con una epilepsia que no responde a los fármacos: "Tengo crisis a diario, no puedo conducir ni ir en bici"](https://www.elperiodico.com/es/sanidad/20260902/epilepsia-resistente-farmacos-testimonio-david-sanahuja-tarragona-133677105)<br>
 06:00 [El Miliciano fotografiado por Robert Capa y Gerda Taro cumple 90 años](https://www.elperiodico.com/es/ocio-y-cultura/20260902/miliciano-fotografiado-robert-capa-gerda-133858062)<br>
 06:00 [Khalil Dabdoub, psicólogo: "No podemos acoger a personas refugiadas y detenernos ahí: hay que ir más allá"](https://www.elperiodico.com/es/ser-feliz/20260902/khalil-dabdoub-psicologo-acoger-personas-133826244)<br>
+06:00 ["El metro y la cesión de los asientos"](https://www.elperiodico.com/es/entre-todos/participacion/metro-cesion-asientos-carta-noemi-m-133770973)<br>
 05:00 [La preocupante desaparición de Sara: su moto fue encontrada junto a sus sandalias en una zona montañosa de Badalona](https://www.elperiodico.com/es/sucesos/20260902/desaparecida-badalona-cataluna-moto-esquizofrenia-133857564)<br>
