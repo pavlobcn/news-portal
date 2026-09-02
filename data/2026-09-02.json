@@ -1,5 +1,122 @@
 [
   {
+    "title": "Así funciona la hipoteca inversa: información para decidir",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/funciona-hipoteca-inversa-informacion-decidir-bc-133894974",
+    "pubDate": "2026-09-02 23:59:55",
+    "category": "",
+    "description": "<h2>La vivienda puede convertirse en una fuente de ingresos adicional que ayude a complementar el ahorro y mejorar la capacidad económica durante la jubilación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Єгипті десятки людей загинули в ДТП",
+    "link": "https://ua.korrespondent.net/world/4908483-u-yehypti-desiatky-luidei-zahynuly-v-dtp",
+    "pubDate": "2026-09-02 23:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548817.jpg\">У пасажирського автобуса лопнуло колесо, після чого він перекинувся. Відомо про 22 загиблих і 28 травмованих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo, Ayuso y Abascal unidos en apoyo a Ceuta en la Plaza de Cibeles (Madrid)",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-ayuso-abascal-unidos-apoyo/133894809.shtml",
+    "pubDate": "2026-09-02 23:49:32",
+    "category": "",
+    "description": "La movilización por el Día de Ceuta reúne a las derechas en Madrid y se convierte en un gran acto de confrontación contra el Gobierno",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Multitudinaria manifestación en Ceuta en su día grande exigiendo recuperar la normalidad",
+    "link": "https://www.elperiodico.com/es/videos/politica/multitudinaria-manifestacion-ceuta-dia-grande/133894749.shtml",
+    "pubDate": "2026-09-02 23:46:48",
+    "category": "",
+    "description": "Sus ciudadanos se sienten apoyados por el resto de España",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un Rafa Jódar irreconocible se despide en primera ronda del Abierto de EEUU",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/jodar-irreconocible-despide-abierto-de-eeuu-primera-ronda-133894457",
+    "pubDate": "2026-09-02 23:22:44",
+    "category": "",
+    "description": "<h2>El madrileño cayó con estrepito ante el chino Bu (6-2, 6-1, 6-1)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Sabadell se proclama campeón de la Copa Catalunya al batir al Barça Atlètic y Jesse Bisiwu se lesiona",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/sabadell-proclama-campeon-copa-catalunya-barca-atletic-133894053",
+    "pubDate": "2026-09-02 23:10:58",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cuatro personas detenidas y cuatro policías heridos en la concentración por Ceuta frente al Congreso",
+    "link": "https://www.elperiodico.com/es/politica/20260902/cuatro-detenidos-cuatro-policias-heridos-133893883",
+    "pubDate": "2026-09-02 22:56:13",
+    "category": "",
+    "description": "<h2>La movilización estaba convocada bajo el lema 'Ceuta nos une' por ciudadanos ceutíes residentes en Madrid, pero a ella se han unido, entre otros, miembros de la organización de extrema derecha Núcleo Nacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Брудні гроші для влади. Крах криптобіржі в Польщі",
+    "link": "https://ua.korrespondent.net/world/4908478-brudni-hroshi-dlia-vlady-krakh-kryptobirzhi-v-polschi",
+    "pubDate": "2026-09-02 22:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548796.jpg\">Уряд Дональда Туска протягом останнього року двічі намагався прийняти закон, що регулює обіг криптовалют.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Трамп запропонував Путіну і Зеленському \"припинити цю дурну війну\"",
+    "link": "https://ua.korrespondent.net/world/4908471-tramp-zaproponuvav-putinu-i-zelenskomu-prypynyty-tsui-durnu-viinu",
+    "pubDate": "2026-09-02 22:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548754.jpg\">Глава Білого дому видав свій стандартний набір заяв про нібито фальсифікацію виборів у США, вісім війн, які він закінчив, та ворожнечу між Путіним та Зеленським.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así intervino la Guardia Civil la patera interceptada en Cabo Cope (Murcia)",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/intervino-guardia-civil-patera-interceptada/133893432.shtml",
+    "pubDate": "2026-09-02 22:41:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miles de personas se movilizan en toda España en solidaridad con Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/miles-personas-movilizan-espana-solidaridad-ceuta/133892998.shtml",
+    "pubDate": "2026-09-02 22:16:45",
+    "category": "",
+    "description": "Más de 260 concentraciones exigen depurar responsabilidades",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Oviedo muestra su apoyo a Ceuta con una multitudinaria concentración que colapsó el entorno del Ayuntamiento",
+    "link": "https://www.elperiodico.com/es/videos/politica/oviedo-muestra-apoyo-ceuta-multitudinaria/133892780.shtml",
+    "pubDate": "2026-09-02 22:09:32",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Атака в Лейпцигу. Німеччина звинуватила РФ",
+    "link": "https://ua.korrespondent.net/world/4908476-ataka-v-leiptsyhu-nimechchyna-zvynuvatyla-rf",
+    "pubDate": "2026-09-02 22:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548775.jpg\">18 вересня буде закрито генеральне консульство Росії в Бонні. Вважають, що у Бонні було найбільше російських агентів під дипломатичним прикриттям. Тепер посольство у Берліні залишиться єдиною російською дипмісією у Німеччині.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Multitudinaria manifestación en Ceuta en su día grande exigiendo recuperar la normalidad",
     "link": "https://www.elperiodico.com/es/videos/sociedad/multitudinaria-manifestacion-ceuta-dia-grande/133892430.shtml",
     "pubDate": "2026-09-02 22:00:03",
