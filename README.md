@@ -1,12 +1,32 @@
-# News for 2026-09-02 06:45
+# News for 2026-09-02 11:09
 
 Previous day: [2026-09-01](./data/2026-09-01.md)
 
 ## ua.korrespondent.net
+10:32 [Кіану Рівз закохався у жінку, яка не приховує ранню сивину](https://ua.korrespondent.net/lifestyle/4908227-kianu-rivz-zakokhavsia-u-zhinku-yaka-ne-prykhovuie-rannui-syvynu)<br>
+10:32 [Після стрілянини в Києві перекрили цілу вулицю](https://ua.korrespondent.net/city/kiev/4908236-pislia-strilianyny-v-kyievi-perekryly-tsilu-vulytsui)<br>
+10:14 [На Львівщині 13-річна дівчина побила 11-річного хлопця](https://ua.korrespondent.net/ukraine/4908231-na-lvivschyni-13-richna-divchyna-pobyla-11-richnoho-khloptsia)<br>
+09:52 [Могила Діда Панаса вразила своїм виглядом](https://ua.korrespondent.net/showbiz/culture/4908217-mohyla-dida-panasa-vrazyla-svoim-vyhliadom)<br>
+09:29 [Сінді Кроуфорд вразила фігурою під час заняття](https://ua.korrespondent.net/lifestyle/4908213-sindi-krouford-vrazyla-fihuroui-pid-chas-zaniattia)<br>
 02:17 [У Чехії відкрили власний Стоунхендж](https://ua.korrespondent.net/world/4908166-u-chekhii-vidkryly-vlasnyi-stounkhendzh)<br>
 01:42 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
+## as.com
+10:54 [Wilson y Plum no estarán en el Mundial con EE.UU.](https://as.com/baloncesto/mas_baloncesto/wilson-y-plum-no-estaran-en-el-mundial-con-eeuu-f202609-n/)<br>
+07:17 [James: “Maledon es muy bueno y sabe jugar, pero… fue horrible”](https://as.com/baloncesto/acb/james-maledon-es-muy-bueno-y-sabe-jugar-pero-fue-horrible-f202609-n/)<br>
+
 ## www.elperiodico.com
+11:00 [Lo confirma el Meteocat: agosto se ha posicionado como el mes más cálido registrado en Catalunya](https://www.elperiodico.com/es/tiempo/20260902/tiempo-cataluna-meteocat-agosto-calor-dv-loc-133850967)<br>
+11:00 [Panta, el hombre de 75 años que lleva 20 años viviendo aislado en una cueva: "Aquí estoy mejor. No tienes que pagar la luz, no tienes que pagar el agua, no tienes que pagar nada. Y después está la libertad"](https://www.elperiodico.com/es/economia/20260902/anciano-cueva-serbia-aislado-ciudad-alimentacion-trabajo-barco-panta-dv-et-133712608)<br>
+10:46 [La Ruta Costera de la Calzada en Irlanda del Norte, en el número de septiembre de VIAJAR](https://www.elperiodico.com/es/ocio-y-cultura/20260902/ruta-costera-calzada-irlanda-norte-133864519)<br>
+10:43 [Los neurólogos denuncian el "limitado" acceso de los pacientes españoles a los nuevos (y mejores) fármacos para la migraña: "Aumenta el sufrimiento"](https://www.elperiodico.com/es/sanidad/20260902/neurologos-denuncian-limitado-acceso-pacientes-espanoles-farmacos-nuevos-migrana-sufrimiento-133862182)<br>
+10:32 [Las comunidades islámicas de Manresa condenan el crimen del martes y apelan a la responsabilidad de todos para preservar la paz social](https://www.elperiodico.com/es/sociedad/20260902/comunidades-islamicas-manresa-condenan-crimen-133864003)<br>
+10:09 ['Efecto septiembre': los podólogos alertan del aumento de lesiones infantiles por la vuelta al colegio y el deporte](https://www.elperiodico.com/es/salud/20260902/lesiones-vuelta-al-cole-ninos-podologos-133863170)<br>
+10:00 [Paula Nuévalos (27 años), la ingeniera mecánica que renunció a su empleo para rescatar el negocio familiar: "Tenía un buen puesto y un buen salario"](https://www.elperiodico.com/es/economia/20260902/paula-nuevalos-27-anos-dejo-ingenieria-explotacion-familiar-padres-agricultura-dv-et-133706493)<br>
+09:17 [Dos detenidos tras un tiroteo de madrugada en L'Hospitalet](https://www.elperiodico.com/es/barcelona/hospitalet/20260902/dos-detenidos-tiroteo-madrugada-hospitalet-mossos-133861211)<br>
+09:15 [Martina (28 años) dejó la ciudad para vivir en un caserío del siglo XVIII tras sufrir una depresión: "Si haces las cosas por una necesidad del alma y no para satisfacer el ego, entonces el universo te responde"](https://www.elperiodico.com/es/economia/20260902/dejo-ciudad-caserio-xviii-depresion-ansiedad-estetica-hipoteca-martina-dv-et-133710518)<br>
+09:00 [El equipo del investigador Carlos Simón ata una ronda de 15 millones para llevar su prueba diagnóstica de la preeclampsia a hospitales](https://www.elperiodico.com/es/economia/20260902/ipremom-equipo-investigador-carlos-simon-ata-ronda-diagnostico-preeclampsia-133859909)<br>
+07:35 [Los estudios científicos coinciden: reducir el consumo de proteínas podría favorecer tu longevidad](https://www.elperiodico.com/es/vida-y-estilo/20260902/envejecimiento-humano-estudio-cientifico-longevidad-consumo-proteinas-dv-133671808)<br>
 06:38 [Riada en Nepal y Tíbet, en directo: Última hora de las inundaciones, muertos, heridos y desaparecidos tras la avalancha](https://www.elperiodico.com/es/internacional/20260902/inundaciones-tibet-nepal-muertos-desaparecidos-directo-133674437)<br>
 06:00 [Una startup de Barcelona planta cara a ChatGPT con una IA especializada en abogados](https://www.elperiodico.com/es/barcelona/20260902/startup-barcelona-planta-cara-chatgpt-ia-facturacion-abogados-jurisprudencia-132862608)<br>
 06:00 [Alicia Giménez Bartlett: "Sigo enfadada con el mundo porque leo las noticias y veo hacia dónde vamos"](https://www.elperiodico.com/es/ocio-y-cultura/20260902/alicia-gimenez-bartlett-sigo-enfadada-133850858)<br>
