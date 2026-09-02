@@ -1,11 +1,13 @@
-# News for 2026-09-02 15:40
+# News for 2026-09-02 19:26
 
 Previous day: [2026-09-01](./data/2026-09-01.md)
 
 ## ua.korrespondent.net
+18:12 [Нацбанк підняв курси долара і євро](https://ua.korrespondent.net/business/financial/4908398-natsbank-pidniav-kursy-dolara-i-yevro)<br>
 15:14 [На Сахаліні Мі-8 жорстко сів на трасу: що сталося](https://ua.korrespondent.net/world/russia/4908332-na-sakhalini-mi-8-zhorstko-siv-na-trasu-scho-stalosia)<br>
 14:39 [У Росії за два дні сталося три напади з ножами у школах](https://ua.korrespondent.net/world/russia/4908325-u-rosii-za-dva-dni-stalosia-try-napady-z-nozhamy-u-shkolakh)<br>
 13:55 [На Одещині пошкодили могили військових](https://ua.korrespondent.net/ukraine/4908309-na-odeschyni-poshkodyly-mohyly-viiskovykh)<br>
+12:49 [Експорт агропродукції обвалився на 41,5% - УКАБ](https://ua.korrespondent.net/business/economics/4908286-eksport-ahroproduktsii-obvalyvsia-na-415-ukab)<br>
 12:05 [Обстріли Слов’янська та авіаудар по Краматорську: є поранені](https://ua.korrespondent.net/ukraine/4908274-obstrily-slovianska-ta-aviaudar-po-kramatorsku-ye-poraneni)<br>
 10:55 [У Німеччині стався вибух на вокзалі: є постраждалі](https://ua.korrespondent.net/world/4908245-u-nimechchyni-stavsia-vybukh-na-vokzali-ye-postrazhdali)<br>
 10:32 [Кіану Рівз закохався у жінку, яка не приховує ранню сивину](https://ua.korrespondent.net/lifestyle/4908227-kianu-rivz-zakokhavsia-u-zhinku-yaka-ne-prykhovuie-rannui-syvynu)<br>
@@ -23,6 +25,27 @@ Previous day: [2026-09-01](./data/2026-09-01.md)
 07:17 [James: “Maledon es muy bueno y sabe jugar, pero… fue horrible”](https://as.com/baloncesto/acb/james-maledon-es-muy-bueno-y-sabe-jugar-pero-fue-horrible-f202609-n/)<br>
 
 ## www.elperiodico.com
+19:19 [Los Mossos creen que el autor de la puñalada mortal en Manresa sabía lo que hacía](https://www.elperiodico.com/es/sociedad/20260902/crimen-manresa-mossos-intencion-autor-punalada-mortal-carles-vilajosana-investigacion-menores-133885575)<br>
+19:00 [La nueva Facultad de Farmacia de la Universitat de Barcelona se instalará en Esplugues en 2032](https://www.elperiodico.com/es/barcelona/20260902/nueva-facultad-farmacia-universitat-barcelona-instalara-esplugues-2032-133874836)<br>
+19:00 [El truco de la cuchara en la ventana: el sencillo método para acabar con las humedades en casa](https://www.elperiodico.com/es/vida-y-estilo/20260902/truco-cuchara-ventana-metodo-contra-humedades-casa-dv-133632319)<br>
+18:56 [Muere un turista de 70 años mientras se bañaba en Lanzarote](https://www.elperiodico.com/es/sucesos/20260902/muere-turista-70-anos-banaba-133885646)<br>
+18:39 [Un certificado de discapacidad que llegó dos años tarde deja a Leo sin plaza en el instituto junto a su casa, en Sant Cugat](https://www.elperiodico.com/es/sociedad/20260902/leo-adolescente-enfermedad-rara-sant-cugat-dos-anos-esperando-certificado-discapacidad-sin-plaza-instituto-cerca-de-casa-burocracia-preinscripcion-escolar-cataluna-133743827)<br>
+18:28 [Detienen a una pareja en Valencia por el homicidio de su hijo de 18 meses](https://www.elperiodico.com/es/videos/sucesos/detienen-pareja-valencia-homicidio-hijo/133884704.shtml)<br>
+18:27 [Incendio en las obras del nuevo hotel en la Antigua Fábrica de Tabaco de Los Remedios](https://www.elperiodico.com/es/videos/sucesos/incendio-obras-nuevo-hotel-antigua/133884631.shtml)<br>
+18:20 [Entidades ecologistas se oponen a la ampliación de Tracjusa para producir biometano](https://www.elperiodico.com/es/sociedad/20260902/entidades-ecologistas-oponen-ampliacion-tracjusa-vertedero-purines-133884039)<br>
+18:16 [Las colles castelleres de Tarragona y Barcelona serán las primeras en probar el nuevo casco de seguridad en las diades de la Mercè](https://www.elperiodico.com/es/tarragona/20260902/colles-castelleres-tarragona-barcelona-seran-133882792)<br>
+18:15 [Interceptado en Canarias un remolcador con más de 3.300 kilos de cocaína](https://www.elperiodico.com/es/videos/sucesos/interceptado-canarias-remolcador-3300-kilos-cocaina/133884087.shtml)<br>
+18:08 [La Mostra de Venecia despliega su alfombra roja: fotos del primer día](https://www.elperiodico.com/es/ocio-y-cultura/20260902/mostra-venecia-despliega-alfombra-roja-133882921)<br>
+18:00 [La Meva Salut funcionará como Netflix: el usuario podrá elegir la sesión en la que entrar y gestionar desde su móvil las citas médicas de sus familiares](https://www.elperiodico.com/es/sanidad/20260902/la-meva-salut-acceso-como-netflix-datos-usuario-diferentes-perfiles-familia-gestion-citas-medicas-cataluna-133868889)<br>
+18:00 [Lara Ferreiro, psicóloga, desvela las 5 señales de que tu relación está en decadencia: "Si solo estás sobreviviendo, quizá ha llegado el momento de preguntarte qué necesitas para volver a sentirte vivo dentro de ella"](https://www.elperiodico.com/es/ser-feliz/20260902/lara-ferreiro-senales-relacion-sobrevive-feliz-psicologia-dv-et-133634762)<br>
+17:59 [Imar Muro, psicóloga: "No recomendaría a un adolescente responder a mensajes de odio; es más protector poner distancia"](https://www.elperiodico.com/es/educacion/20260902/odio-redes-hijos-131758481)<br>
+17:35 [Tiempo en Catalunya mañana jueves: el calor aprieta con temperaturas de más de 30 grados en Barcelona y hasta 38 en puntos de Lleida](https://www.elperiodico.com/es/tiempo/20260902/tiempo-cataluna-jueves-3-septiembre-calor-temperaturas-dv-loc-133880175)<br>
+17:24 [Uber despedirá a 3.300 empleados en todo el mundo, el 10% de su plantilla, para simplificar su organización](https://www.elperiodico.com/es/economia/20260902/uber-despedira-3-300-empleados-133881825)<br>
+17:23 [El Observatori Fabra de Barcelona alcanza el récord histórico de temperatura más alta un mes de septiembre](https://www.elperiodico.com/es/barcelona/20260902/observatori-fabra-barcelona-alcanza-record-historico-temperatura-133880403)<br>
+17:00 [Detenida en Valencia una pareja por el presunto homicidio del bebé desaparecido en Santa Bàrbara (Tarragona)](https://www.elperiodico.com/es/tarragona/20260902/detenida-pareja-valencia-presunto-homicidio-bebe-desaparecido-tarragona-133875636)<br>
+16:38 [Decepción y alivio](https://www.elperiodico.com/es/opinion/20260902/decepcion-alivio-articulo-juan-jose-millas-133824768)<br>
+16:25 [Catalunya recibirá más ejemplares de ibis guiados por un ultraligero para reforzar el proyecto de reintroducción](https://www.elperiodico.com/es/sociedad/20260902/cataluna-ejemplares-ibis-eremita-guiados-ultraligero-emporda-133872948)<br>
+15:59 [Las 5 claves del paro de agosto: El 20% de los migrantes regularizados que encuentran trabajo lo hacen en Catalunya](https://www.elperiodico.com/es/economia/20260902/regularizacion-inmigrantes-cuantos-tienen-trabajo-empleo-paro-133869483)<br>
 15:30 [Detienen a una pareja en Valencia por el homicidio de su hijo de 18 meses](https://www.elperiodico.com/es/sucesos/20260902/detienen-pareja-valencia-homicidio-hijo-133876984)<br>
 15:23 [Marius Borg, condenado y con tobillera, reaparecerá con la familia real en el funeral de Harald](https://www.elperiodico.com/es/videos/internacional/marius-borg-condenado-tobillera-reaparecera-harald/133876624.shtml)<br>
 15:09 [George Clooney llega a Venecia para arrancar el festival de cine](https://www.elperiodico.com/es/videos/sociedad/george-clooney-llega-venecia-arrancar-festival-cine/133876146.shtml)<br>
@@ -37,6 +60,7 @@ Previous day: [2026-09-01](./data/2026-09-01.md)
 13:27 [Cirsa descarta recortes de plantilla y conservará Barcelona como segunda sede tras la absorción por la italiana Lottomatica](https://www.elperiodico.com/es/economia/20260902/cirsa-descarta-recortes-plantilla-conservara-133871607)<br>
 13:07 [Josep Soler (EFPA): “Cada vez vemos más cerca no solo una subida de tipos, sino probablemente dos”](https://www.elperiodico.com/es/economia/20260902/josep-soler-efpa-subida-tipos-interes-133869327)<br>
 12:02 [Ni Derecho ni ADE: estas son las carreras con más empleo en España cuatro años después de graduarse](https://www.elperiodico.com/es/sociedad/20260902/carreras-universidad-mejores-empleos-131227904)<br>
+12:01 [Alonso Caballero, jefe de la Policía Local de la Jonquera, denunciará a la Seguridad Social después de denegarle la jubilación](https://www.elperiodico.com/es/sociedad/20260902/jefe-policia-local-jonquera-denunciara-seguridad-social-jubilacion-alonso-caballero-133867252)<br>
 12:00 [Sanidad retira varios adelgazantes por contener sibutramina, un supresor del apetito no autorizado por sus efectos adversos graves](https://www.elperiodico.com/es/sanidad/20260902/sanidad-retira-adelgazantes-contener-sibutramina-133865767)<br>
 12:00 [Aurelio Rojas, cardiólogo: "Algunas personas toleran mejor la falta de sueño durante solo algunos días. O eso creen"](https://www.elperiodico.com/es/salud/20260902/aurelio-rojas-cardiologo-dormir-poco-o-dormir-mucho-salud-dv-et-133741739)<br>
 11:56 [La subida de las temperaturas dejará valores "muy intensos" para septiembre pero sin llegar a ola de calor](https://www.elperiodico.com/es/sociedad/20260902/subida-temperaturas-ola-de-calor-verano-jueves-septiembre-133865264)<br>
