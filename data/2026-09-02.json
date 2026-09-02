@@ -1,5 +1,833 @@
 [
   {
+    "title": "Київ попередив ICAO про небезпеку російського неба для цивільної авіації",
+    "link": "https://ua.korrespondent.net/ukraine/4908338-kyiv-poperedyv-ICAO-pro-nebezpeku-rosiiskoho-neba-dlia-tsyvilnoi-aviatsii",
+    "pubDate": "2026-09-02 15:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548244.png\">Україна закликала авіакомпанії та уряди уникати повітряного простору Росії, який, за оцінкою Києва, стає дедалі небезпечнішим через посилення військової активності.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "George Clooney, sobre Estados Unidos: es un país \"gobernado por la gente menos cualificada\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/george-clooney-estados-unidos-pais-133876546",
+    "pubDate": "2026-09-02 15:31:01",
+    "category": "",
+    "description": "<h2>El actor estadounidense critica la situación política de su país en la Mostra de Venecia, donde recibirá un León de Oro por su trayectoria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Detienen a una pareja en Valencia por el homicidio de su hijo de 18 meses",
+    "link": "https://www.elperiodico.com/es/sucesos/20260902/detienen-pareja-valencia-homicidio-hijo-133876984",
+    "pubDate": "2026-09-02 15:30:23",
+    "category": "",
+    "description": "<h2 class=\"item\">El abuelo paterno acudió a la policía tras saber, por su nuera, que el bebé habría sido enterrado en una caja de cartón en una vivienda de Tarragona</h2><h2 class=\"item\">De momento, el cuerpo no ha sido encontrado en el domicilio, pero sí 27 perros, alguno de ellos en estado agónico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué los clubs de la Premier pueden gastar más de 100 millones por cualquier jugador?",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/clubs-premier-gastar-100-millones-133875749",
+    "pubDate": "2026-09-02 15:29:06",
+    "category": "",
+    "description": "<h2>Enzo Fernández, Morgan Rogers y Elliot Anderson lideran los traspasos más caros del mercado de verano en la liga inglesa, que ha gastado más de 4.000 millones, cinco veces más que la Liga</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп схвалив нову тактику: США б’ють по танкерах Ірану",
+    "link": "https://ua.korrespondent.net/world/4908335-tramp-skhvalyv-novu-taktyku-ssha-buit-po-tankerakh-iranu",
+    "pubDate": "2026-09-02 15:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548224.jpg\">США вперше атакували іранські танкери у відповідь на удари по торгових суднах в Ормузькій протоці. Нову тактику «танкер за танкер» схвалив Дональд Трамп.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Duran Duran volverá a Madrid 21 años después",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/duran-duran-volvera-madrid-21-133876469",
+    "pubDate": "2026-09-02 15:23:38",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Marius Borg, condenado y con tobillera, reaparecerá con la familia real en el funeral de Harald",
+    "link": "https://www.elperiodico.com/es/videos/internacional/marius-borg-condenado-tobillera-reaparecera-harald/133876624.shtml",
+    "pubDate": "2026-09-02 15:23:16",
+    "category": "",
+    "description": "El hijo de Mette-Marit tiene autorización para abandonar Skaugum y asistir el 9 de septiembre al funeral de Harald V. Condenado en primera instancia a cuatro años de cárcel y actualmente en prisión preventiva con control electrónico, sus permisos han causado sorpresa internacional y malestar entre los reos del país",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona encara la recta final como Capital Mundial de la Arquitectura con Sarrià-Sant Gervasi como protagonista",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/barcelona-encara-recta-final-capital-133876124",
+    "pubDate": "2026-09-02 15:17:39",
+    "category": "",
+    "description": "<h2>La programación recupera impulso en septiembre con Sarrià-Sant Gervasi como distrito protagonista y más de tres meses de actividades por delante</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "На Сахаліні Мі-8 жорстко сів на трасу: що сталося",
+    "link": "https://ua.korrespondent.net/world/russia/4908332-na-sakhalini-mi-8-zhorstko-siv-na-trasu-scho-stalosia",
+    "pubDate": "2026-09-02 15:14:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548223.jpg\">Причиною аварійної посадки вертольота є самовимкнення обох двигунів через повне вироблення палива, вказує військовий експерт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС отримав від України запит на ракети PAC-3",
+    "link": "https://ua.korrespondent.net/world/4908331-yes-otrymav-vid-ukrainy-zapyt-na-rakety-PAC-3",
+    "pubDate": "2026-09-02 15:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548222.jpg\">Новий платіжний запит Києва коштує кілька мільярдів євро і покриє українську протиповітряну оборону, включаючи високосучасні системи ППО",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "George Clooney llega a Venecia para arrancar el festival de cine",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/george-clooney-llega-venecia-arrancar-festival-cine/133876146.shtml",
+    "pubDate": "2026-09-02 15:09:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sabadell y Terrassa refuerzan la videovigilancia: alcanzan las 150 cámaras por ciudad",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/sabadell-terrassa-disponen-150-camaras-videovigilancia-seguridad-133875546",
+    "pubDate": "2026-09-02 15:09:10",
+    "category": "",
+    "description": "<h2>Las dos cocapitales del Vallès Occidental refuerzan sus redes de videovigilancia: Sabadell prevé alcanzar próximamente unos 150 dispositivos, una cifra que Terrassa ya supera si se contabiliza el conjunto de cámaras de seguridad, movilidad y gestión urbana</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260515/sabadell-tendra-150-camaras-vigilancia-policia-municipal-130270506\">Sabadell tendrá casi 150 cámaras de vigilancia y una unidad policial contra el incivismo nocturno</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "¿Qué es el CENIF? La unidad policial que señala a Marruecos en la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/cenif-unidad-policial-senala-marruecos/133875985.shtml",
+    "pubDate": "2026-09-02 15:05:17",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Qué hacer si tu vecino siempre da portazos al irse de casa: esto dice la Ley de Propiedad Horizontal",
+    "link": "https://www.elperiodico.com/es/economia/20260902/vecino-portazos-ruidos-molestias-ley-propiedad-horizontal-dv-et-133872508",
+    "pubDate": "2026-09-02 15:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">Un portazo aislado puede ser una molestia normal de convivencia, pero si se repite cada día, altera el descanso y genera ruidos de impacto, la comunidad puede intervenir</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260817/vecino-ducha-noche-verano-molesta-ley-propiedad-horizontal-dv-et-133326246\">¿Pueden prohibirte tus vecinos que te duches por la noche? Esto dice la Ley de Propiedad Horizontal</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La golfista de Girona que se marcha becada a Estados Unidos",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/golfista-girona-marcha-becada-estados-unidos-dv-et-133779602",
+    "pubDate": "2026-09-02 15:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Clara Martínez, de Palafrugell, estudiará Ciencias del Deporte en la Park University mientras continúa con su trayectoria deportiva: la deportista, triple campeona de Catalunya, empezó en el pitch&putt de Gualta acompañando a su padre, Josep, y hasta ahora ha competido en el Empordà Golf Club</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260319/abril-azabal-becada-amancio-ortega-estudiar-estados-unidos-homologacion-titulo-cataluna-128156103\">Abril Azabal, alumna becada por Amancio Ortega para estudiar en EEUU, se topa con trabas para hacer la selectividad en Catalunya: \"Te esfuerzas y te tratan así\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las azoteas de Santa Maria del Mar bajan de precio por la Diada y la Mercè: cómo visitar el mirador de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/barcelona-catedral-santa-maria-del-mar-mirador-diada-merce-dv-loc-133757092",
+    "pubDate": "2026-09-02 15:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Del 23 al 27 de setiembre las calles de la capital catalana se llenan de actividades, conciertos y actos religiosos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260825/monasterio-avellanes-lleida-govern-hotel-dv-loc-133623616\">Así es el Monestir de les Avellanes en Lleida, el lugar dónde Illa reunirá al Govern para empezar el curso político</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260824/barcelona-restaurantes-cataluna-comer-vic-dieta-mediterranea-dv-loc-119717366\">Los mejores restaurantes de Barcelona para comer bien, según National Geographic</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Localizado el cadáver de un bebé dentro de una bolsa en un bloque de La Mina",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/sucesos-mina-cadaver-bebe-abandonado-mossos-133875437",
+    "pubDate": "2026-09-02 14:54:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Los Mossos d'Esquadra han hallado el cuerpo sin vida en el interior de un envoltorio ensangrentado en el rellano de un bloque del barrio situado en Sant Adrià de Besòs</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260902/mossos-desquadra-buscan-bebe-desaparecido-santa-barbara-montsia-tarragona-133875636\">Los Mossos d'Esquadra buscan a un bebé desaparecido en Santa Bàrbara, en el Montsià</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Telefónica cierra la venta de su histórica sede de Gran Vía al empresario murciano Tomás Olivo por más de 200 millones de euros",
+    "link": "https://www.elperiodico.com/es/economia/20260902/telefonica-cierra-venta-historica-sede-133875572",
+    "pubDate": "2026-09-02 14:52:08",
+    "category": "",
+    "description": "<h2>La 'teleco' y el empresario cartagenero llegaron a un acuerdo por el precio durante el pasado mes de mayo, y cuatro meses después concluyen la operación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зерно дешевше ринку: директор держгосподарства отримав підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4908327-zerno-deshevshe-rynku-dyrektor-derzhhospodarstva-otrymav-pidozru",
+    "pubDate": "2026-09-02 14:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548203.jpg\">На Полтавщині директора державного дослідного господарства підозрюють у продажу зернових та олійних культур за заниженими цінами. Підприємство, за даними слідства, втратило 2,7 млн грн.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Росії за два дні сталося три напади з ножами у школах",
+    "link": "https://ua.korrespondent.net/world/russia/4908325-u-rosii-za-dva-dni-stalosia-try-napady-z-nozhamy-u-shkolakh",
+    "pubDate": "2026-09-02 14:39:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548184.jpg\">У Росії за 1 - 2 вересня зафіксували три напади у школах: учні атакували вчителів та однокласників у Москві, Башкортостані та Красноярському краї.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vivienda premia a Cataluña y País Vasco con 90 millones por 'topar' el precio del alquiler y deja sin fondos a las comunidades del PP",
+    "link": "https://www.elperiodico.com/es/economia/20260902/vivienda-subvenciones-alquiler-zona-tensionada-133874915",
+    "pubDate": "2026-09-02 14:37:34",
+    "category": "",
+    "description": "<h2>El Gobierno reserva 90 millones en subvenciones para las cinco autonomías que han declarado zonas de mercado tensionado. Cataluña se llevará casi 60 millones, mientras Galicia será la única comunidad gobernada por el PP que accederá al fondo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Más de 180 figuras de Hollywood apoyan a Mark Ruffalo tras las acusaciones de antisemitismo de Paramount",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/180-figuras-hollywood-apoyan-mark-133874661",
+    "pubDate": "2026-09-02 14:37:10",
+    "category": "",
+    "description": "<h2>Actores y directores judíos denuncian la \"instrumentalización falsa y peligrosa\" de las acusaciones de antisemitismo para silenciar a quienes critican la intervención de Israel en Palestina</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Este será el setlist de los conciertos de Aitana en Barcelona",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/sera-setlist-conciertos-aitana-barcelona-133869840",
+    "pubDate": "2026-09-02 14:35:46",
+    "category": "",
+    "description": "<h2>La cantante se encuentra de viaje con su gira 'Cuarto Azul World Tour', que pasará por la ciudad para hacer cuatro conciertos</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las lluvias extremas azotan Filipinas hace un mes y dejan históricas imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/lluvias-extremas-filipinas-dejan-historicas-fotos-133874070",
+    "pubDate": "2026-09-02 14:30:18",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cristina Pardo estrena 'La Mesa' en Antena 3: \"El ambiente está muy crispado y hay mucha polarización\"",
+    "link": "https://www.elperiodico.com/es/tele/20260902/cristina-pardo-estrena-mesa-antena-133844169",
+    "pubDate": "2026-09-02 14:29:15",
+    "category": "",
+    "description": "<h2 class=\"item\">La primera mesa del programa estará dedicada a la actualidad, la segunda incorpora cada noche como invitado a un personaje reconocido, la tercera apuesta por los asuntos que colocan al espectador dentro de la conversación y la cuarta se centra en el humor y las curiosidades</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Madrid reclama el 'papel decisivo' que tuvo Marruecos en la 'invasión organizada' de Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/madrid-reclama-papel-decisivo-tuvo-marruecos/133874500.shtml",
+    "pubDate": "2026-09-02 14:28:30",
+    "category": "",
+    "description": "El Gobierno de Ayuso reclama explicaciones al Ejecutivo central tras un informe que atribuiría a las fuerzas marroquíes responsabilidad en la crisis de Ceuta",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los estrenos de septiembre: 'La bola', la reconciliación de Oasis y Nicole Kidman y Sandra Bullock juntas, 30 años después",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/estrenos-septiembre-bola-reconciliacion-oasis-133873649",
+    "pubDate": "2026-09-02 14:24:13",
+    "category": "",
+    "description": "<h2>El mes de septiembre es la antesala para los estrenos fuertes del otoño. Casi un mes de probaturas con documentales sobre estrellas del ‘britpop’ (Oasis), animaciones de vértigo (con Coyote y Correcaminos), duelos de altura (Nicole Kidman y Sandra Bullock), la esperada película de Los Javis y el retorno de Brad Pitt al cine de acción.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Стабілізація фронту і менше бюрократії: Драпатий назвав пріоритети для ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4908321-stabilizatsiia-frontu-i-menshe-buirokratii-drapatyi-nazvav-priorytety-dlia-zsu",
+    "pubDate": "2026-09-02 14:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548158.jpg\">Серед головних принципів управління військом також - розвиток людського капіталу, впровадження інновацій і трансформація ЗСУ.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Un poema de Octavio Paz y un texto sobre el lenguaje sexista dan inicio a la repesca de las PAU, las últimas en septiembre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/selectividad-pau-examen-notas-catalunya-convocatoria-septiembre-133866809",
+    "pubDate": "2026-09-02 14:19:13",
+    "category": "",
+    "description": "<h2 class=\"item\">Un total de 9.004 estudiantes afrontan desde este miércoles y hasta el viernes la convocatoria extraordinaria de Selectividad en Catalunya, 770 más que en 2025</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260902/notas-corte-2026-cataluna-buscador-lista-carreras-132303130\">Notas de corte 2026 en Catalunya: buscador y lista por carreras</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El libro en catalán se reivindica en su semana grande: \"Somos un sector de primera división y nos lo tenemos que empezar a creer\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/libro-catalan-reivindica-semana-grande-133870434",
+    "pubDate": "2026-09-02 14:18:50",
+    "category": "",
+    "description": "<h2 class=\"item\">La Setmana del Llibre en Català desembarca en el Passeig Lluís Companys entre el 18 y el 27 de septiembre con 229 sellos editoriales y más de 200 autores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260707/ramon-solsona-marius-serra-premios-132203164\">Ramon Solsona y Màrius Serra, premios Trajectòria y Difusió de la Setmana del Llibre en Català</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Ana Peleteiro cuestiona el plan de la RFEF para congelar óvulos: \"No lo vendan como una medida feminista\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/ana-peleteiro-cuestiona-plan-rfef-congelacion-ovulos-133869609",
+    "pubDate": "2026-09-02 14:17:18",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260831/claves-acuerdo-historico-federacion-espanola-133815087\" >Las claves del acuerdo histórico de la Federación Española para la congelación de óvulos de las futbolistas de la selección</a></h2><h2>La atleta gallega pone el foco en la conciliación y advierte del riesgo de que una herramienta de reproducción asistida termine convirtiéndose en una presión para las deportistas</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La izquierda independentista llama a movilizarse en la Diada para no \"regalar la catalanidad\" a la extrema derecha",
+    "link": "https://www.elperiodico.com/es/politica/20260902/izquierda-independentista-movilizarse-diada-catalanidad-regalar-extrema-derecha-133871478",
+    "pubDate": "2026-09-02 14:16:55",
+    "category": "",
+    "description": "<h2>El colectivo convoca movilizaciones en Barcelona, Girona, Lleida y Reus al margen de la manifestación organizada por ANC y Òmnium</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260901/govern-diada-espiritu-sant-boi-1976-unidad-diversidad-catalunya-133841413\" target=\"_blank\">El Govern invoca el \"espíritu de Sant Boi\" de 1976 para celebrar una Diada de Catalunya de \"unidad\" en la diversidad</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260830/salvador-illa-govern-entrevista-diada-cataluna-extremadura-madrid-133708284\" target=\"_blank\">Salvador Illa: \"La Diada de Catalunya este año también se celebrará en Extremadura\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La UE estudia nuevas sanciones contra Rusia tras los ataques con dron en Leipzig",
+    "link": "https://www.elperiodico.com/es/internacional/20260902/ue-estudia-nuevas-sanciones-rusia-133873918",
+    "pubDate": "2026-09-02 14:16:06",
+    "category": "",
+    "description": "<h2>Bruselas convoca al encargado de negocios de Rusia, el máximo representante diplomático del país, después de que Alemania atribuyera los incidentes al Kremlin</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Buscas un escúter? Estas son los 10 más vendidos en agosto de 2026 en España",
+    "link": "https://www.elperiodico.com/es/motor/20260902/10-escuter-mas-vendidos-agosto-2026-133831758",
+    "pubDate": "2026-09-02 14:15:33",
+    "category": "",
+    "description": "<h2>Te detallamos cuáles fueron las 10 motocicletas favoritas de los conductores españoles en el octavo mes del año</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Liga Endesa se verá también en abierto en TVG, Aragón TV y EITB",
+    "link": "https://as.com/baloncesto/acb/la-liga-endesa-se-vera-tambien-en-abierto-en-tvg-aragon-tv-y-eitb-f202609-n/",
+    "pubDate": "2026-09-02 14:14:39",
+    "category": "Baloncesto",
+    "description": "Estos canales autonómicos se unen de esta manera a TV3/3Cat con una cita habitual en abierto os domingos por la mañana.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У ЄК пояснили, чому Київ ризикує втратити частину допомоги",
+    "link": "https://ua.korrespondent.net/business/financial/4908317-u-yek-poiasnyly-chomu-kyiv-ryzykuie-vtratyty-chastynu-dopomohy",
+    "pubDate": "2026-09-02 14:13:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548154.jpg\">У Єврокомісії заявили, що ухвалення заблокованих Верховною Радою законів є необхідною умовою для продовження макрофінансової допомоги Україні.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Estos son los alcaldes del PSOE que se sumarán a las manifestaciones por Ceuta pese al rechazo de la dirección",
+    "link": "https://www.elperiodico.com/es/politica/20260902/alcaldes-psoe-manifestaciones-ceuta-133872421",
+    "pubDate": "2026-09-02 14:07:07",
+    "category": "",
+    "description": "<h2><atarget=\"_blank\">DIRECTO | Ceuta, en directo: última hora del informe de la policía y las manifestaciones de hoy, 2 de septiembre, Día de Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський анонсував нові пакети ППО з Німеччини",
+    "link": "https://ua.korrespondent.net/ukraine/4908316-zelenskyi-anonsuvav-novi-pakety-ppo-z-nimechchyny",
+    "pubDate": "2026-09-02 14:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548135.jpg\">Також команди фіналізують текст Drone Deal, що додасть можливостей для захисту і Німеччині, і Україні.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Almansa, en blanco y a la espera",
+    "link": "https://as.com/baloncesto/mas_baloncesto/almansa-en-blanco-y-a-la-espera-f202609-n/",
+    "pubDate": "2026-09-02 14:04:00",
+    "category": "Baloncesto",
+    "description": "Izan Almansa se quedó sin jugar con la Selección Española en un momento en el que también se halla sin equipo. A la espera de una llamada desde EE.UU. que desbloquee su situación.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vivas reclama que Ceuta está “en peligro” por la entrada de más de 80.000 personas",
+    "link": "https://www.elperiodico.com/es/videos/politica/vivas-reclama-ceuta-peligro-entrada-video/133873024.shtml",
+    "pubDate": "2026-09-02 14:02:23",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Crítica de 'Creednos' (Movistar Plus): el doble terror de sufrir una agresión sexual y que las instituciones te fallen",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/critica-creednos-serie-movistar-plus-133866173",
+    "pubDate": "2026-09-02 14:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">Paul Pope, guionista nominado al Oscar por 'Philomena', explora el calvario de las víctimas del 'violador del taxi negro' en un drama criminal que puede caer en dudosos efectismos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/series/20190914/creedme-serie-netflix-violacion-caso-real-7634332\" target=\"_blank\">'Creedme', la serie que retrata la indefensión de una víctima de agresión sexual</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/series/20240526/el-caso-del-sambre-movistar-serie-true-crime-entrevista-director-102840463\" target=\"_blank\">'El caso del Sambre', en Movistar Plus+: un magistral 'true crime' con el foco puesto en las víctimas</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "На Одещині пошкодили могили військових",
+    "link": "https://ua.korrespondent.net/ukraine/4908309-na-odeschyni-poshkodyly-mohyly-viiskovykh",
+    "pubDate": "2026-09-02 13:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548109.jpg\">На трьох могилах військовослужбовців пошкоджені елементи огорож - відламані ковані елементи у вигляді тризуба.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЄС на два роки скасує мита для більшості товарів з Вірменії",
+    "link": "https://ua.korrespondent.net/world/4908311-yes-na-dva-roky-skasuie-myta-dlia-bilshosti-tovariv-z-virmenii",
+    "pubDate": "2026-09-02 13:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548133.jpg\">Рада ЄС погодила тимчасове скасування частини мит на вірменські товари. У Брюсселі хочуть підтримати Єреван на тлі торгових обмежень Росії та поглибити економічні зв’язки.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Capturan en Tarragona a 'Pirry', el líder de una banda colombiana que masacró a siete personas en 2024",
+    "link": "https://www.elperiodico.com/es/tarragona/20260902/capturan-tarragona-lider-banda-colombiana-pirry-133872155",
+    "pubDate": "2026-09-02 13:47:37",
+    "category": "",
+    "description": "<h2>Las autoridades colombianas y la Policía española coordinaron la detención de Castrillón Arango, buscado por Interpol</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Confederación Española de Alzheimer alerta del \"abandono\" de los pacientes que no acceden a los nuevos fármacos: \"No es aceptable\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260902/confederacion-espanola-alzheimer-alerta-abandono-pacientes-acceder-nuevos-farmacos-no-aceptable-133870022",
+    "pubDate": "2026-09-02 13:46:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La entidad denuncia \"la apatía y la pasividad\" mostrada por las administraciones ante la llegada de tratamientos innovadores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260902/neurologos-denuncian-limitado-acceso-pacientes-espanoles-farmacos-nuevos-migrana-sufrimiento-133862182\">Los neurólogos denuncian el \"limitado\" acceso de los pacientes españoles a los nuevos (y mejores) fármacos para la migraña: \"Aumenta el sufrimiento\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260716/sanidad-rechazo-financiar-medicamento-alzheimer-132522780\">Sanidad y las comunidades rechazan financiar, de nuevo, los dos fármacos que ralentizan el alzhéimer</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський призначив командувача Сухопутних військ",
+    "link": "https://ua.korrespondent.net/ukraine/4908307-zelenskyi-pryznachyv-komanduvacha-sukhoputnykh-viisk",
+    "pubDate": "2026-09-02 13:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548114.jpg\">Святослав Заїць був начальником штабу – заступником командира 8-го корпусу Десантно-штурмових військ ЗСУ. У квітні став командувачем 20-го армійського корпусу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Qué es el CENIF? la unidad policial que señala a Marruecos en la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260902/cenif-unidad-policial-senala-marruecos-133872151",
+    "pubDate": "2026-09-02 13:38:33",
+    "category": "",
+    "description": "<h2>La unidad policial que ha hecho el informe sobre Ceuta \"asume la elaboración de los informes especializados solicitados por órganos nacionales e internacionales en materia de extranjería y fronteras, así como la coordinación estratégica y su impacto operativo\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260902/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Ceuta, en directo | Última hora del informe de la policía y las manifestaciones de hoy, 2 de septiembre, Día de Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Німеччині на електростанції пролунали вибухи: підозрюють диверсію",
+    "link": "https://ua.korrespondent.net/world/4908303-u-nimechchyni-na-elektrostantsii-prolunaly-vybukhy-pidozruiuit-dyversiui",
+    "pubDate": "2026-09-02 13:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548107.jpg\">Поблизу Кельна на електропідстанції сталися вибухи, після яких з ладу вийшли кілька енергоблоків. Поліція Німеччини не виключає, що причиною могла бути навмисна атака.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "DIRECTO | Feijóo asiste al acto institucional con motivo del Día de Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-feijoo-asiste-acto-institucional/133871883.shtml",
+    "pubDate": "2026-09-02 13:32:23",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Vivas asegura que Ceuta está \"en peligro\", pero sigue \"en pie\" por un pueblo que ni se vende ni se rinde",
+    "link": "https://www.elperiodico.com/es/politica/20260902/vivas-asegura-ceuta-peligro-sigue-133871713",
+    "pubDate": "2026-09-02 13:30:11",
+    "category": "",
+    "description": "<h2>El presidente ceutí se ha expresado en el acto institucional del Día de Ceuta que se ha celebrado en el Teatro del Revellín y al que asiste, entre otros, el presidente del PP, Alberto Núñez Feijóo</h2><h2>Los ministros Torres y Saiz han aguanto críticas directas a la gestión de la crisis por parte del Gobierno: \"nos han abandonado\" ante la \"invasión\", expresó uno de los premiados </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "6 вересня відбудеться перший Ukrainian Padel Expo: захід об’єднає конференцію, виставкову зону, чемпіонат України з паделу та корт під відкритим небом",
+    "link": "https://ua.korrespondent.net/business/4906646-6-veresnia-vidbudetsia-pershyi-Ukrainian-Padel-Expo-zakhid-obiednaie-konferentsiui-vystavkovu-zonu-chempionat-ukrainy-z-padelu-ta-kort-pid-vidkrytym-nebom",
+    "pubDate": "2026-09-02 13:30:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4541168.jpg\">\r\n6 вересня в київському інноваційному парку UNIT.City (вул. Дорогожицька, 3, корпус В12) відбудеться перша всеукраїнська конференція Ukrainian Padel Expo.",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los 600 años del fuego y la pirotecnia en Tarragona, protagonistas de una Santa Tecla 2026 con más de medio millar de actos",
+    "link": "https://www.elperiodico.com/es/tarragona/20260902/600-anos-fuego-pirotecnia-tarragona-133869772",
+    "pubDate": "2026-09-02 13:29:59",
+    "category": "",
+    "description": "<h2 class=\"item\">La fiesta mayor contará con actuaciones extraordinarias de los <strong>Diables</strong> y el <strong>Drac de Sant Roc</strong>, además de las citas más emblemáticas y tradicionales del calendario.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260827/tarragona-reconoce-portants-gegants-moros-negritos-perpetuadors-santa-tecla-133702447\" >Tarragona reconoce a los portadores de los Gegants Moros y los Negritos como Perpetuadors de Santa Tecla 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260825/polemica-tarragona-recurrentes-goteras-casa-festa-santa-tecla-133635762\" >Polémica en Tarragona por las goteras en la Casa de la Festa después del violento temporal</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cirsa descarta recortes de plantilla y conservará Barcelona como segunda sede tras la absorción por la italiana Lottomatica",
+    "link": "https://www.elperiodico.com/es/economia/20260902/cirsa-descarta-recortes-plantilla-conservara-133871607",
+    "pubDate": "2026-09-02 13:27:12",
+    "category": "",
+    "description": "<h2>La compañía asegura que mantendrá independencia tras integrarse en el grupo italiano de juego </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El mensaje de Sánchez a los ceutíes: \"Ceuta saldrá reforzada de esta situación\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/mensaje-sanchez-ceuties-ceuta-saldra/133871361.shtml",
+    "pubDate": "2026-09-02 13:23:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Productos Km 0 y artesanales en Barcelona: así es el mercadillo que triunfa los sábados en las Tres Xemeneies",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/productos-km-0-barcelona-mercadillo-triunfa-sabados-tres-xemeneies-133867857",
+    "pubDate": "2026-09-02 13:21:16",
+    "category": "",
+    "description": "<h2>El Mercat de la Terra reúne a productores locales que venden directamente sus productos, de 9 a 15 h</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/mas-barcelona/20260604/barcelona-dibuja-futuro-comercio-proximidad-bc-130919313\">Barcelona dibuja el futuro de su comercio de proximidad</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗСУ спростували заяви росіян про \"захоплення\" Козачої Лопані",
+    "link": "https://ua.korrespondent.net/ukraine/4908297-zsu-sprostuvaly-zaiavy-rosiian-pro-zakhoplennia-kozachoi-lopani",
+    "pubDate": "2026-09-02 13:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548088.jpg\">Обстановка в районі населеного пункту залишається напруженою та характеризується активними бойовими діями.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Marc Casadó y su amarga salida del Barça: \"Ya he hablado con el club y todos tenemos cosas que mejorar\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/marc-casado-salida-barcelona-depor-133870300",
+    "pubDate": "2026-09-02 13:20:37",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Dejar de jugar en el Barça siempre es complicado, pero el Dépor me ha propuesto un proyecto muy guapo\", afirma el centrocampista catalán antes de su partida como cedido hacia A Coruña</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260901/casado-cedido-deportivo-manchester-city-enzo-fichajes-mercado-133855185\">Casadó se marcha cedido al Deportivo y el Manchester City revienta la banca por Enzo Fernández</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Співробітник СБУ продавав дані про телефонні номери за 50 тисяч",
+    "link": "https://ua.korrespondent.net/ukraine/4908296-spivrobitnyk-sbu-prodavav-dani-pro-telefonni-nomery-za-50-tysiach",
+    "pubDate": "2026-09-02 13:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548084.jpeg\">На Житомирщині працівник СБУ за 50 тисяч гривень передавав стороннім дані про власників телефонних номерів, дзвінки та місцезнаходження абонентів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Interior no descarta ceses tras el informe de la Policía que señala a Marruecos por la entrada masiva en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260902/interior-ceses-aventuran-informe-policial-ceuta-marruecos-133870789",
+    "pubDate": "2026-09-02 13:14:44",
+    "category": "",
+    "description": "<h2>Conmoción en la cadena de mando de la Policía, a la que el director general, Francisco Pardo, pide explicaciones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El fútbol nórdico reclama implicación a la Unión Europea frente a la FIFA de Infantino",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/futbol-nordico-reclama-implicacion-union-133870772",
+    "pubDate": "2026-09-02 13:14:13",
+    "category": "",
+    "description": "<h2>Las federaciones de Finlandia, Dinamarca y Suecia solicitan por carta una reunión con el comisario Micallef por \"las deficiencias en materia de gobernanza, transparencia y toma de decisiones dentro de la FIFA\"</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Heridos graves dos motoristas tras sendos accidentes en la C-32 en Mataró y en la AP-7 en Mollet del Vallès",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/catalunya-heridos-graves-motoristas-c32-mataro-ap7-mollet-del-valles-133870011",
+    "pubDate": "2026-09-02 13:08:11",
+    "category": "",
+    "description": "<h2>Los dos siniestros han obligado a cortar carriles y han provocado retenciones este miércoles por la mañana</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Josep Soler (EFPA): “Cada vez vemos más cerca no solo una subida de tipos, sino probablemente dos”",
+    "link": "https://www.elperiodico.com/es/economia/20260902/josep-soler-efpa-subida-tipos-interes-133869327",
+    "pubDate": "2026-09-02 13:07:20",
+    "category": "",
+    "description": "<h2>El experto vincula el euríbor cerca del 3% al repunte de la inflación y a la política del BCE</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260902/precio-euribor-hoy-2-septiembre-dv-133869633\" target=\"_blank\">El precio del euríbor hoy, 2 de septiembre: la subida imparable del índice se prolonga un día más</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Бюджет-2027: на підтримку ветеранів планують 18,5 млрд грн",
+    "link": "https://ua.korrespondent.net/business/financial/4908290-buidzhet-2027-na-pidtrymku-veteraniv-planuuit-185-mlrd-hrn",
+    "pubDate": "2026-09-02 13:01:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548062.jpg\">У державному бюджеті України на 2027 рік планують передбачити близько 18,5 млрд грн на підтримку ветеранів. Йдеться про понад 1,5 млн людей.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Турецькі авіакомпанії скасовують рейси до Москви після заяви Зеленського",
+    "link": "https://ua.korrespondent.net/world/4908287-turetski-aviakompanii-skasovuuit-reisy-do-moskvy-pislia-zaiavy-zelenskoho",
+    "pubDate": "2026-09-02 12:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548059.png\">Скасовано і кілька десятків зворотних авіарейсів з Москви, Санкт-Петербурга та Самари до Туреччини.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЗСУ отримають 5 000 нових пікапів: перші авто вже передали війську",
+    "link": "https://ua.korrespondent.net/business/financial/4908284-zsu-otrymauit-5-000-novykh-pikapiv-pershi-avto-vzhe-peredaly-viisku",
+    "pubDate": "2026-09-02 12:43:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548057.jpg\">Україна завершила найбільшу централізовану закупівлю пікапів для війська. 5 000 нових повнопривідних авто вже почали надходити до військових частин, а тендер дозволив заощадити понад 2 млрд грн.",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Decisión pionera sobre multirreincidencia: Barcelona logra la prisión provisional para un ladrón que acumula 34 condenas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/decision-pionera-multirreincidencia-barcelona-logra-prision-provisional-ladron-acumula-34-condenas-133868555",
+    "pubDate": "2026-09-02 12:36:09",
+    "category": "",
+    "description": "<h2>Es la primera resolución en que se acuerda una medida cautelar pedida por el Ayuntamiento a partir de la nueva Ley de Multirreincidencia</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/politica/20260410/ley-multirreincidencia-en-vigor-carcel-robo-moviles-128940315\" target=\"_blank\">Entra en vigor la ley de multirreincidencia, que castiga con cárcel el robo de móviles</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Unión Europea suspende las importaciones de carne de Brasil por razones sanitarias",
+    "link": "https://www.elperiodico.com/es/economia/20260902/union-europea-suspende-importaciones-carne-brasil-razones-sanitarias-mercosur-133868997",
+    "pubDate": "2026-09-02 12:33:56",
+    "category": "",
+    "description": "<h2>El sindicato agrario Unión de Uniones califica de \"irresponsable\" a Bruselas por poner en marcha hace cuatro meses el acuerdo con Mercosur sin todas las garantías</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260206/tractores-centro-barcelona-protesta-mercosur-alimentos-proximidad-126524068\" target=\"_blank\">Los tractores toman el centro de Barcelona: \"Teníamos que estar aquí, el consumidor debe saber qué come\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260117/aranceles-contratos-publicos-materias-primas-claves-acuerdo-mercosur-125534466\" target=\"_blank\">Aranceles, contratos públicos, materias primas... : las claves del acuerdo entre la UE y los países del Mercosur</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los Peugeot 208 y 2008 Envy ofrecen más equipamiento por solo 400 euros extra",
+    "link": "https://www.elperiodico.com/es/motor/20260902/peugeot-208-2008-edicion-especial-envy-equipamiento-precio-133865457",
+    "pubDate": "2026-09-02 12:33:47",
+    "category": "",
+    "description": "<h2>La nueva serie especial toma como base el acabado Allure, pero suma elementos de equipamiento y diseño procedentes del GT </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lío con los nuevos descuentos en diésel y gasolina: los gasolineros defienden que ya los aplican y explican por qué no se nota del todo en el precio",
+    "link": "https://www.elperiodico.com/es/economia/20260902/precio-combustibles-descuentos-gasolina-diesel-gasoleo-gasolineras-133868978",
+    "pubDate": "2026-09-02 12:33:36",
+    "category": "",
+    "description": "<h2 class=\"item\">La patronal CEEES responde a las denuncias de los transportistas y avisa de que las nuevas rebajas en el impuesto especial de los hidrocarburos se aplican a los combustibles comprados por las gasolineras desde el 1 de septiembre y no a los que ya tenían almacenados</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Зеленський відреагував на \"шахедний\" терор Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4908281-zelenskyi-vidreahuvav-na-shakhednyi-teror-rosii",
+    "pubDate": "2026-09-02 12:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548038.jpg\">На жаль, замало реагування світу та найвпливовіших лідерів на чергову російську ескалацію ударів, констатував президент.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Полк Скеля перейшов у підпорядкування корпусу Азов",
+    "link": "https://ua.korrespondent.net/ukraine/4908279-polk-skelia-pereishov-u-pidporiadkuvannia-korpusu-azov",
+    "pubDate": "2026-09-02 12:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548017.png\">Упродовж серпня кілька батальйонів Скелі разом з управлінням полку перемістили в смугу відповідальності корпусу Азов.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Andalucía endurece el castigo por acoso escolar: serán los agresores los que \"con carácter general\" cambiarán de centro",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/andalucia-endurece-castigo-acoso-escolar-bullying-decreto-agresor-cambia-centro-133867420",
+    "pubDate": "2026-09-02 12:16:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo decreto de la Junta de Andalucía, que entra en vigor este martes, establece que la expulsión deberá tomarse como referencia cuando se determine que ha existido bullying</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20221126/victimas-bullying-protocolo-cambio-escuelas-institutos-79086786\" target=\"_blank\">\"Y tú, ¿cuántas escuelas llevas?\": las víctimas de 'bullying' exigen no ser ellas quienes cambian de centro</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Експрем'єра Словенії можуть судити через реформу поліції",
+    "link": "https://ua.korrespondent.net/world/4908276-ekspremiera-slovenii-mozhut-sudyty-cherez-reformu-politsii",
+    "pubDate": "2026-09-02 12:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4548018.jpg\">Парламент Словенії відкрив шлях до кримінального розслідування щодо колишнього прем'єр-міністра Роберта Голоба. Його підозрюють у втручанні в реформу поліції та можливих корупційних домовленостях.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El futuro Hospital Clínic creará un polo biomédico entre Barcelona, L'Hospitalet y Esplugues con hasta 1.100 nuevas viviendas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/futuro-hospital-clinic-creara-polo-biomedico-barcelona-hospitalet-esplugues-hasta-1100-nuevas-viviendas-133866300",
+    "pubDate": "2026-09-02 12:15:45",
+    "category": "",
+    "description": "<h2>El futuro centro hospitalario y sus equipamientos complementarios mantienen el 2035 como horizonte para entrar en funcionamiento</h2><h2><atarget=\"_blank\">El futuro Hospital Clínic acelera este 2026 con consorcio rector, terrenos y concurso arquitectónico</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "4.000 millones frente a 750 en fichajes: así se agranda la distancia económica entre la Premier y LaLiga un año más",
+    "link": "https://www.elperiodico.com/es/economia/20260902/4000-millones-frente-750-fichajes-distancia-economica-premier-laliga-133866272",
+    "pubDate": "2026-09-02 12:15:34",
+    "category": "",
+    "description": "<h2>Los clubes ingleses han multiplicado por más de cinco la inversión de los españoles durante el mercado de verano, según las cifras estimadas de Transfermarkt</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo apunta a la responsabilidad judicial de Sánchez: \"Esto no puede quedar impune y el PP va a encargarse de ello\"",
+    "link": "https://www.elperiodico.com/es/politica/20260902/pp-acusa-gobierno-espana-proteger-133867767",
+    "pubDate": "2026-09-02 12:08:07",
+    "category": "",
+    "description": "<h2>La portavoz popular Ester Muñoz denuncia que el Gobierno sabía de la crisis en Ceuta y decidió \"no hacer nada\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260902/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" >Ceuta, en directo | Última hora del informe de la policía y las manifestaciones de hoy, 2 de septiembre, Día de Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Netflix recordará a Matthew Perry con una docuserie sobre su lado más íntimo en el aniversario de la muerte de la estrella de 'Friends'",
+    "link": "https://www.elperiodico.com/es/tele/20260902/matthew-perry-netflix-documental-aniversario-muerte-133866528",
+    "pubDate": "2026-09-02 12:07:58",
+    "category": "",
+    "description": "<h2>La hermana del actor, Mia Perry, será la voz principal de 'The One About Matthew Perry', que constará de tres episodios que mostrarán fotos y vídeos inéditos del archivo familiar</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Обстріли Слов’янська та авіаудар по Краматорську: є поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4908274-obstrily-slovianska-ta-aviaudar-po-kramatorsku-ye-poraneni",
+    "pubDate": "2026-09-02 12:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547987.jpg\">Слов’янська громада на Донеччині протягом дня зазнавала російських обстрілів. Четверо людей дістали поранення, пошкоджені житлові будинки та виникли пожежі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tarifa regulada de la luz sufre por el caos del mercado eléctrico: pierde 2,5 millones de clientes con las crisis energéticas",
+    "link": "https://www.elperiodico.com/es/economia/20260902/precio-luz-tarifa-regulada-luz-caos-mercado-electrico-perdida-clientes-133845371",
+    "pubDate": "2026-09-02 12:02:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Por primera vez cae por debajo de los ocho millones los hogares que tienen contratado el PVPC, tras la fuga de uno de cada cuatro clientes en los últimos cinco años. Las tarifas del mercado libre han ganado casi 4,5 millones de usuarios en el mismo tiempo</h2><h2 class=\"item\">La Comisión Europea insiste en pedir a España una hoja de ruta para eliminarla y reservar las tarifas intervenidas solo para hogares vulnerables, pero el Gobierno da larga y defiende mantenerla para todos los pequeños consumidores que quieran</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Ni Derecho ni ADE: estas son las carreras con más empleo en España cuatro años después de graduarse",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/carreras-universidad-mejores-empleos-131227904",
+    "pubDate": "2026-09-02 12:02:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Podología, Veterinaria, Fisioterapia, Logopedia y Biomedicina consiguen buenas posiciones en la nueva edición del U-Ranking de la Fundación BBVA y el Ivie, liderado por Medicina</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260508/grados-universidad-mejores-salidas-laborales-129303603\" target=\"_blank\">Los expertos avisan: la carrera no debe elegirse solo por el sueldo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260603/cinco-carreras-nota-corte-5-130886754\" target=\"_blank\">Las cinco carreras con nota de corte de 5 y alta empleabilidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sanidad retira varios adelgazantes por contener sibutramina, un supresor del apetito no autorizado por sus efectos adversos graves",
+    "link": "https://www.elperiodico.com/es/sanidad/20260902/sanidad-retira-adelgazantes-contener-sibutramina-133865767",
+    "pubDate": "2026-09-02 12:00:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Proporciona una sensación de saciedad y, además, produce un aumento de la frecuencia cardíaca y la presión sanguínea</h2><h2 class=\"item\">Los productos se presentan como naturales y ocultan su verdadera composición, advierte la Agencia Española de Medicamentos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260125/suplementos-online-fraude-salud-complementos-adelgazar-ganar-musculo-antiedad-125930442\">Seis de cada diez suplementos vendidos 'on line' incumplen la normativa: la mayoría son para adelgazar o ganar músculo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aurelio Rojas, cardiólogo: \"Algunas personas toleran mejor la falta de sueño durante solo algunos días. O eso creen\"",
+    "link": "https://www.elperiodico.com/es/salud/20260902/aurelio-rojas-cardiologo-dormir-poco-o-dormir-mucho-salud-dv-et-133741739",
+    "pubDate": "2026-09-02 12:00:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El especialista explica los tres factores que determinan cómo responde cada organismo a las horas de descanso</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260326/sueno-habitos-saludables-psicologa-experta-nuria-roure-alarma-despertador-dv-127962089\">Nuria Roure, psicóloga experta en sueño, sobre por qué no posponer la alarma del despertador: \"Estás engañando al cerebro\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La subida de las temperaturas dejará valores \"muy intensos\" para septiembre pero sin llegar a ola de calor",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/subida-temperaturas-ola-de-calor-verano-jueves-septiembre-133865264",
+    "pubDate": "2026-09-02 11:56:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Aemet activa avisos amarillos y naranjas ante el aumento de las temperaturas y la llegada de polvo en suspensión</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260901/aemet-avisa-llegada-danas-lluvias-133805316\" target=\"_blank\">Un otoño más lluvioso y con riesgo de danas: \"La temperatura del agua es un ingrediente que complica aún más las cosas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стрілянина у Києві: СБУ повідомила подробиці",
+    "link": "https://ua.korrespondent.net/ukraine/4908268-strilianyna-u-kyievi-sbu-povidomyla-podrobytsi",
+    "pubDate": "2026-09-02 11:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547986.jpg\">Порушено кримінальну справу за фактом нападу на співробітників СБУ, які проводили спецоперацію із запобігання теракту.",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "El Síndic de Greuges de Barcelona reclama alternativas residenciales antes de desalojar el asentamiento de La Sagrera",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/sindic-greuges-barcelona-reclama-alternativas-residenciales-desalojar-asentamiento-la-sagrera-133864929",
+    "pubDate": "2026-09-02 11:51:25",
+    "category": "",
+    "description": "<h2>En la ocupación viven menores, mujeres, personas con problemas de salud y personas en situación administrativa irregular</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/sociedad/20260412/barcelona-prepara-desalojo-ultimo-asentamiento-128661455\">Barcelona prepara el desalojo del último asentamiento de la Sagrera: \"Llevo 15 años aquí, no sé que voy a hacer\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЄС готує відповідь Росії після атаки дрона в аеропорту Лейпцига",
+    "link": "https://ua.korrespondent.net/world/4908262-yes-hotuie-vidpovid-rosii-pislia-ataky-drona-v-aeroportu-leiptsyha",
+    "pubDate": "2026-09-02 11:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547964.jpg\">Кая Каллас заявила, що спроба атаки дрона в аеропорту Лейпцига має ознаки державного тероризму. ЄС обговорить можливу відповідь і посилення захисту критичної інфраструктури.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cómo acceder a La Meva Salut con el idCAT Mòbil: así funciona el nuevo sistema de entrada a la 'app'",
+    "link": "https://www.elperiodico.com/es/sanidad/20260902/idcat-la-meva-salut-como-acceder-asi-funciona-instalar-movil-133865796",
+    "pubDate": "2026-09-02 11:41:12",
+    "category": "",
+    "description": "<h2 class=\"item\">El inicio de sesión de la aplicación cambiará en los próximos meses para cumplir con la normativa europea</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260901/quejas-nueva-formula-acceso-app-movil-meva-salut-cero-empatia-personas-mayores-133847732\" >Catalunya cambia el acceso a La Meva Salut: ya no será con contraseña, sino con idCAT móvil: \"Muestra cero sensibilidad con las personas mayores\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260826/sindica-greuges-reclama-gente-mayor-delegar-gestion-la-meva-salut-facil-133674298\" >La Sindica de Greuges reclama que la gente mayor pueda delegar la gestión de 'La Meva Salut' a otras personas fácilmente</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "ВМС знищили російський катер біля Зміїного",
+    "link": "https://ua.korrespondent.net/ukraine/4908257-vms-znyschyly-rosiiskyi-kater-bilia-zmiinoho",
+    "pubDate": "2026-09-02 11:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547962.jpg\">Українські військові знищили російський морський безекіпажний катер поблизу острова Зміїний. Операцію провели ВМС ЗСУ спільно зі спецпідрозділом СБУ.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "У Севастополі підірвали авто, у якому міг перебувати офіцер РФ - росЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4908254-u-sevastopoli-pidirvaly-avto-u-yakomu-mih-perebuvaty-ofitser-rf-roszmi",
+    "pubDate": "2026-09-02 11:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547940.jpg\">Вибухи за участю російських військових у тимчасово окупованому Севастополі вже фіксувалися раніше.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Encuesta: El 58% de los españoles aprueban la actuación de Felipe VI como rey y el 35% la suspende",
+    "link": "https://www.elperiodico.com/es/politica/20260902/encuesta-rey-felipe-vi-espana-133862050",
+    "pubDate": "2026-09-02 11:17:57",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260831/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260901/encuestas-elecciones-sajonia-anhalt-alemania-sondeos-133821077\" target=\"_blank\">Encuestas de las elecciones en Sajonia-Anhalt (Alemania): así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260606/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Польща дозволила Україні шукати останки загиблих українців 1944 року",
+    "link": "https://ua.korrespondent.net/world/4908251-polscha-dozvolyla-ukraini-shukaty-ostanky-zahyblykh-ukraintsiv-1944-roku",
+    "pubDate": "2026-09-02 11:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547942.jpg\">Польща надала Україні дозвіл на пошукові роботи у Ласкуві на Холмщині. Там можуть бути поховані цивільні українці, убиті у березні 1944 року.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "В Івано-Франківську депутата затримали на хабарі",
+    "link": "https://ua.korrespondent.net/ukraine/4908248-v-ivano-frankivsku-deputata-zatrymaly-na-khabari",
+    "pubDate": "2026-09-02 11:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547919.jpg\">Йдеться про депутата Івано-Франківської міської ради від ВО Свобода Василя Скиданчука, стверджують місцеві ЗМІ.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
     "title": "La Fiscalía Europea informa al juez de la implicación de Aldama en una trama que blanqueó 27,9 millones en Portugal",
     "link": "https://www.elperiodico.com/es/politica/20260902/fiscalia-europea-informa-juez-implicacion-133865051",
     "pubDate": "2026-09-02 11:00:36",
@@ -32,6 +860,15 @@
     "pubDate": "2026-09-02 11:00:00",
     "category": "",
     "description": "<h2>El hombre expone que encontrar un hogar lejos de la ciudad le ha salvado: \"Esto me ha alargado la vida. Si me hubiera quedado allí, no habría llegado a mi edad\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260801/vivir-cavernicolas-tribu-filipinas-ruben-holgado-dv-et-132966537\">Sobreviviendo 25 horas con los últimos cavernícolas del mundo: \"Estábamos realmente asustados... fue una de las situaciones más tensas de mi vida\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260825/vive-solo-condiciones-extremas-sin-agua-electricidad-dolomitas-italia-ulrich-dv-et-133462256\">Ulrich (68 años) vive en condiciones extremas sin luz, gas ni agua corriente: \"Las necesidades son artificiales; esta sociedad está orientada hacia el mal, las guerras, las manipulaciones y la corrupción basada en el dinero\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Німеччині стався вибух на вокзалі: є постраждалі",
+    "link": "https://ua.korrespondent.net/world/4908245-u-nimechchyni-stavsia-vybukh-na-vokzali-ye-postrazhdali",
+    "pubDate": "2026-09-02 10:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547911.jpg\">Рух поїздів було тимчасово призупинено. Проведена евакуація, на місці працюють правоохоронці.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -212,6 +1049,15 @@
     "pubDate": "2026-09-02 10:00:00",
     "category": "",
     "description": "<h2 class=\"item\">La joven decidió tomar las riendas de la finca vinícola familiar tras el fallecimiento de su padre </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260901/paula-nuevalos-27-anos-agricultora-pueblo-verano-vacaciones-dv-et-133701906\">Paula Nuévalos (27 años), agricultora: \"A ti no te gusta el pueblo, lo que te gusta es venir en verano y estar de vacaciones\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260831/christian-agricultor-oferta-700000-euros-finca-legado-dv-et-133676064\">Christian (46 años), agricultor: \"Me han llegado a ofrecer 700.000 euros por la finca y les he dicho que no, lo que hago es para dejar un legado a mi familia y a la humanidad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las dos principales hipótesis de la policía sobre el crimen de Carles Vilajosana",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/principales-hipotesis-policia-crimen-carles-133862626",
+    "pubDate": "2026-09-02 09:58:42",
+    "category": "",
+    "description": "<h2>Los Mossos d'Esquadra, que atribuyen a uno de los dos menores detenidos la autoría material del ataque mortal, acumulan pruebas para entender cómo y por qué se produjo el apuñalamiento</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -576,6 +1422,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "\"La crisis ceutí\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/crisis-ceuti-carta-marius-pla-carrera-133785340",
+    "pubDate": "2026-09-02 06:45:07",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La Séptima apuesta por Noor Ben Yessef, rostro emergente de Antena 3 Noticias, para presentar un magacín diario por la noche",
     "link": "https://www.elperiodico.com/es/tele/yotele/20260902/noor-ben-yessef-presentadora-magacin-noches-septima-rostro-emergente-antena-3-noticias-apuesta-contreras-133857704",
     "pubDate": "2026-09-02 06:42:56",
@@ -610,6 +1465,15 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260901/sanchez-marruecos-choque-italia-ceuta-133815373\" target=\"_blank\">Sánchez se ata a Marruecos mientras escala el choque diplomático con Italia y señala a Rusia e Israel tras la crisis en Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260901/preocupacion-genova-escalada-tono-sanchez-133817908\" target=\"_blank\">Preocupación en el PP por la escalada “de tono” de Sánchez con el Rey</a></h2>",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "\"Liberados de petróleo\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/liberados-petroleo-carta-sergio-gomez-133780511",
+    "pubDate": "2026-09-02 06:30:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Julián Álvarez: lo que no puede ser no puede ser y, además, es imposible (2… y continuará)",
@@ -781,6 +1645,15 @@
     "description": "<h2>Con esta visita a Kiev de dos días, especialmente delicada en términos de seguridad, será el primer presidente autonómico en desplazarse al país, que lleva cuatro años y medio en guerra con Rusia</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260830/barcelona-collboni-viaje-ucrania-kiev-sarajevo-varsovia-133775365\" target=\"_blank\">Collboni inicia un viaje por el este de Europa que culminará en Ucrania</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260822/viajes-extranjero-salvador-illa-generalitat-delegaciones-embajadas-133300628\" target=\"_blank\">Illa se abona a la proyección exterior: 15 viajes y 117.000 kilómetros en dos años</a></h2>",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "\"El metro y la cesión de los asientos\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/metro-cesion-asientos-carta-noemi-m-133770973",
+    "pubDate": "2026-09-02 06:00:01",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Підсумки 1.09: Контратака ФРН та нові умови Кремля",
