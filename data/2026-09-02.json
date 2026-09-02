@@ -1,5 +1,257 @@
 [
   {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260902/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-02 06:41:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Riada en Nepal y Tíbet, en directo: Última hora de las inundaciones, muertos, heridos y desaparecidos tras la avalancha",
+    "link": "https://www.elperiodico.com/es/internacional/20260902/inundaciones-tibet-nepal-muertos-desaparecidos-directo-133674437",
+    "pubDate": "2026-09-02 06:38:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260902/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-09-02 06:34:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260901/sanchez-marruecos-choque-italia-ceuta-133815373\" target=\"_blank\">Sánchez se ata a Marruecos mientras escala el choque diplomático con Italia y señala a Rusia e Israel tras la crisis en Ceuta</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260901/preocupacion-genova-escalada-tono-sanchez-133817908\" target=\"_blank\">Preocupación en el PP por la escalada “de tono” de Sánchez con el Rey</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Julián Álvarez: lo que no puede ser no puede ser y, además, es imposible (2… y continuará)",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/julian-alvarez-ademas-imposible-2-133852948",
+    "pubDate": "2026-09-02 06:15:16",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra de Irán, en directo: Nuevos ataques cruzados y amenazas endurecen el conflicto",
+    "link": "https://www.elperiodico.com/es/internacional/20260902/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-09-02 06:04:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La inteligencia militar rusa describe lo ocurrido en Ceuta como “invasión” y la argelina como “arma migratoria”",
+    "link": "https://www.elperiodico.com/es/politica/20260902/inteligencia-militar-rusa-describe-ceuta-invasion-argelia-arma-133856989",
+    "pubDate": "2026-09-02 06:00:51",
+    "category": "",
+    "description": "<h2>Analistas de Defensa han monitoreado cómo se vio en Moscú la \"operación Ceuta\" como un \"asalto\" a la ciudad, y cómo en Argel se anticipó que Marruecos retomaría su presión con migrantes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Diada sale de Madrid",
+    "link": "https://www.elperiodico.com/es/opinion/20260902/diada-sale-madrid-extremadura-133856794",
+    "pubDate": "2026-09-02 06:00:49",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Una startup de Barcelona planta cara a ChatGPT con una IA especializada en abogados",
+    "link": "https://www.elperiodico.com/es/barcelona/20260902/startup-barcelona-planta-cara-chatgpt-ia-facturacion-abogados-jurisprudencia-132862608",
+    "pubDate": "2026-09-02 06:00:40",
+    "category": "",
+    "description": "<h2>Prudencia.ai suma 15.000 usuarios, prevé cerrar 2026 con 1.200 clientes de pago y aspira a alcanzar 1,5 millones de euros de ingresos recurrentes anualizados</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260727/sabadell-crea-nueva-area-dedicada-132845658\">El Sabadell crea una nueva área dedicada a la inteligencia artificial</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zarzuela guarda silencio mientras Gobierno y PP se azuzan a cuenta de la visita del Rey a Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260902/zarzuela-guarda-silencio-gobierno-pp-133853993",
+    "pubDate": "2026-09-02 06:00:36",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260901/pp-llama-participar-manana-concentraciones-133828072\" target=\"_blank\">PP y Vox llaman a participar en las concentraciones del Día de Ceuta pero discrepan de su motivación </a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260901/gobierno-crisis-ceuta-ataques-algoritmos-133850314\" target=\"_blank\">El Gobierno acota la crisis en Ceuta a “ataques híbridos” por la manipulación de algoritmos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260901/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alicia Giménez Bartlett: \"Sigo enfadada con el mundo porque leo las noticias y veo hacia dónde vamos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/alicia-gimenez-bartlett-sigo-enfadada-133850858",
+    "pubDate": "2026-09-02 06:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">La escritora retoma la serie de Petra Delicado con 'Bajo el cielo infernal', novela en la que la protagonista lidia con el duelo por la muerte de su marido mientras investiga el asesinato de un jesuita en La Mina </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260830/oligarcas-rusos-mafia-calabresa-futuros-133677223\">Oligarcas rusos, mafia calabresa y futuros distópicos: los mejores libros para la 'rentrée' de 2026</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Verde que te quiero verde, Van Aert",
+    "link": "https://www.elperiodico.com/es/deportes/20260902/verde-quiero-verde-van-aert-tourmalet-sergi-lopez-egea-133851926",
+    "pubDate": "2026-09-02 06:00:29",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El aceite de oliva reconquista al consumidor español: las compras aumentaron un 20% el año pasado, la mayor alza desde 2010",
+    "link": "https://www.elperiodico.com/es/economia/20260902/aceite-oliva-aumento-consumo-bajada-precios-2025-133850218",
+    "pubDate": "2026-09-02 06:00:20",
+    "category": "",
+    "description": "<h2>La subida se explica por la bajada del 40% en el precio del producto, con lo que, pese al incremento de consumo, el gasto de los hogares fue de 580 millones de euros menos</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260228/bajara-precio-aceite-oliva-compramos-ipc-127342252\" target=\"_blank\">Por qué ya no bajará más el precio del aceite de oliva que compramos en el supermercado</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Feijóo y Abascal abanderan concentraciones en apoyo a Ceuta como preludio de las explicaciones de Sánchez",
+    "link": "https://www.elperiodico.com/es/politica/20260902/feijoo-abascal-abanderan-concentraciones-apoyo-133850100",
+    "pubDate": "2026-09-02 06:00:19",
+    "category": "",
+    "description": "<h2>Los líderes del PP y Vox participan juntos en un acto en Madrid previo al debate monográfico en el Congreso sobre la crisis migratoria en la ciudad autónoma</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260901/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Ceuta y Melilla, en directo | Última hora de la crisis migratoria en Ceuta</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Y a todo esto, TV3…",
+    "link": "https://www.elperiodico.com/es/tele/20260902/tv3-133848736",
+    "pubDate": "2026-09-02 06:00:16",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya cierra el verano más cálido de su historia: 3 grados por encima de la media en gran parte del territorio",
+    "link": "https://www.elperiodico.com/es/sociedad/20260902/verano-2026-calido-historia-cataluna-meteocat-133846421",
+    "pubDate": "2026-09-02 06:00:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Los meses de junio, julio y agosto baten todos los récords y dejan 59 noches tórridas en Barcelona</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260901/aemet-avisa-llegada-danas-lluvias-133805316\" target=\"_blank\">Un otoño más lluvioso y con riesgo de danas: \"La temperatura del agua es un ingrediente que complica aún más las cosas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vall d'Hebron y Bellvitge ensayarán un 'código crisis' para tratar los casos urgentes de epilepsia en solo dos horas frente a las 16 actuales",
+    "link": "https://www.elperiodico.com/es/sanidad/20260902/epilepsia-prueba-piloto-tratamiento-rapido-hospitales-vall-dhebron-bellvitge-viladecans-mollet-cataluna-133642092",
+    "pubDate": "2026-09-02 06:00:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La prueba piloto incluirá también a dos hospitales más pequeños: el de Viladecans y el de Mollet. </h2><h2 class=\"item\">El programa se ensayará durante seis meses con el objetivo de extenderlo después a todos los hospitales </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260901/epilepsia-resistente-farmacos-testimonio-david-sanahuja-tarragona-133677105\" target=\"_blank\">David Sanahuja, de Tarragona, vive con una epilepsia que no responde a los fármacos: \"Tengo crisis a diario, no puedo conducir ni ir en bici\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260727/terapia-pionera-espana-cura-crisis-epilepticas-genetico-recien-nacida-avances-extraordinarios-132844721\" >Una terapia pionera en España cura las crisis epilépticas de origen genético en una recién nacida: \"Son avances extraordinarios\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "David Sanahuja, de Tarragona, vive con una epilepsia que no responde a los fármacos: \"Tengo crisis a diario, no puedo conducir ni ir en bici\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260902/epilepsia-resistente-farmacos-testimonio-david-sanahuja-tarragona-133677105",
+    "pubDate": "2026-09-02 06:00:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Este tarragonés de 55 años tuvo que abandonar su empleo como jefe de márketing en una multinacional debido a la enfermedad; ahora tiene la incapacidad absoluta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260901/epilepsia-prueba-piloto-tratamiento-rapido-hospitales-vall-dhebron-bellvitge-viladecans-mollet-cataluna-133642092\" target=\"_blank\">Vall d'Hebron y Bellvitge arrancan una prueba piloto para tratar la epilepsia grave en dos horas, frente a las 16 de media actuales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260727/terapia-pionera-espana-cura-crisis-epilepticas-genetico-recien-nacida-avances-extraordinarios-132844721\" >Una terapia pionera en España cura las crisis epilépticas de origen genético en una recién nacida: \"Son avances extraordinarios\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Fallos graves en el uso de sillitas infantiles ponen en peligro la vida de cientos de menores en la carretera",
+    "link": "https://www.elperiodico.com/es/motor/20260902/fallos-graves-sillitas-infantiles-133727791",
+    "pubDate": "2026-09-02 06:00:04",
+    "category": "",
+    "description": "<h2>La DGT y la AESVi alertan de que más de la mitad de las sillitas de coche en España se utilizan de manera incorrecta o directamente no se emplean</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Miliciano fotografiado por Robert Capa y Gerda Taro cumple 90 años",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260902/miliciano-fotografiado-robert-capa-gerda-133858062",
+    "pubDate": "2026-09-02 06:00:02",
+    "category": "",
+    "description": "<h2>El trabajo de Robert Capa y Gerda Taro es mucho más que la icónica fotografía del 'Miliciano caído'. Su nueva forma de mirar la Guerra Civil española sentó las bases del fotoperiodismo moderno, donde la cercanía física y la empatía con los que sufren la tragedia de la guerra fue su gran aportación a la fotografía</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Khalil Dabdoub, psicólogo: \"No podemos acoger a personas refugiadas y detenernos ahí: hay que ir más allá\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260902/khalil-dabdoub-psicologo-acoger-personas-133826244",
+    "pubDate": "2026-09-02 06:00:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio analiza la salud mental de poblaciones desplazadas por conflictos y alerta del peso de la pobreza, la separación familiar o la incertidumbre administrativa</h2><h2 class=\"item\">El trabajo defiende una atención accesible y culturalmente adaptada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa viaja a Ucrania para reforzar alianzas políticas e impulsar la cooperación",
+    "link": "https://www.elperiodico.com/es/politica/20260902/salvador-illa-ucrania-viaje-reforzar-alianzas-politicas-cooperacion-catalunya-133826290",
+    "pubDate": "2026-09-02 06:00:01",
+    "category": "",
+    "description": "<h2>Con esta visita a Kiev de dos días, especialmente delicada en términos de seguridad, será el primer presidente autonómico en desplazarse al país, que lleva cuatro años y medio en guerra con Rusia</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260830/barcelona-collboni-viaje-ucrania-kiev-sarajevo-varsovia-133775365\" target=\"_blank\">Collboni inicia un viaje por el este de Europa que culminará en Ucrania</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260822/viajes-extranjero-salvador-illa-generalitat-delegaciones-embajadas-133300628\" target=\"_blank\">Illa se abona a la proyección exterior: 15 viajes y 117.000 kilómetros en dos años</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія знизила прогноз видобутку нафти до мінімуму за 17 років",
+    "link": "https://ua.korrespondent.net/world/russia/4908178-rosiia-znyzyla-prohnoz-vydobutku-nafty-do-minimumu-za-17-rokiv",
+    "pubDate": "2026-09-02 05:08:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547452.jpg\">У базовому сценарії російський уряд очікує, що видобуток нафти скоротиться на 17,2 млн тонн.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La preocupante desaparición de Sara: su moto fue encontrada junto a sus sandalias en una zona montañosa de Badalona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260902/desaparecida-badalona-cataluna-moto-esquizofrenia-133857564",
+    "pubDate": "2026-09-02 05:00:08",
+    "category": "",
+    "description": "<h2 class=\"item\">Tres meses antes de que se le perdiera la pista el pasado 8 de julio, vendió su piso en Pineda del Mar (Barcelona) y se mudó con una \"conocida\" a otra localidad, lo que resultó \"inesperado\" para su padre y sus amigas</h2><h2 class=\"item\">Las mujer, de 55 años, padece esquizofrenia y un trastorno bipolar y necesita seguir un tratamiento diario</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Parlamento de Venezuela aprueba el acuerdo energético con Estados Unidos",
+    "link": "https://www.elperiodico.com/es/internacional/20260902/parlamento-venezolano-aprueba-acuerdo-energetico-133857510",
+    "pubDate": "2026-09-02 04:39:42",
+    "category": "",
+    "description": "<h2>La mayoría de los diputados de la Asamblea Nacional votaron a favor de un entendimiento calificado de \"histórico\" por Donald Trump</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Кремлі \"здивовані\" позицією Японії",
+    "link": "https://ua.korrespondent.net/world/4908176-u-kremli-zdyvovani-pozytsiieui-yaponii",
+    "pubDate": "2026-09-02 04:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547430.jpg\">Заява пролунала після того, як прем’єр-міністерка Японії Санае Такаїчі завила протест через поїздку Путіна на Ітуруп.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Йорданія заявила про перехоплення десяти з 13 ракет з Ірану",
+    "link": "https://ua.korrespondent.net/world/4908174-yordaniia-zaiavyla-pro-perekhoplennia-desiaty-z-13-raket-z-iranu",
+    "pubDate": "2026-09-02 04:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547410.jpg\">ППО перехопила та знищила десять ракет, тоді як три впали у віддалених районах подалі від населених пунктів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Пашинян і Путін обговорили майбутнє Вірменії",
+    "link": "https://ua.korrespondent.net/world/4908168-pashynian-i-putin-obhovoryly-maibutnie-virmenii",
+    "pubDate": "2026-09-02 03:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547387.jpg\">Глава Кремля знову заявив прем'єр-міністру, що Єреван має швидше визначитися з питанням вступу до ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Чехії відкрили власний Стоунхендж",
+    "link": "https://ua.korrespondent.net/world/4908166-u-chekhii-vidkryly-vlasnyi-stounkhendzh",
+    "pubDate": "2026-09-02 02:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4547367.jpg\">Археологи виявили круглу споруду діаметром близько 230 метрів, яка могла бути пов’язана зі спостереженнями за Сонцем і Місяцем.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "На Вінниччині керівника кар’єру підозрюють у несплаті16 млн ренти",
     "link": "https://ua.korrespondent.net/ukraine/4908164-na-vinnychchyni-kerivnyka-karieru-pidozruiuit-u-nesplati16-mln-renty",
     "pubDate": "2026-09-02 01:56:00",
