@@ -1,4 +1,4 @@
-# News for 2026-09-03 19:38
+# News for 2026-09-03 22:09
 
 Previous day: [2026-09-02](./data/2026-09-02.md)
 
@@ -54,7 +54,9 @@ Previous day: [2026-09-02](./data/2026-09-02.md)
 05:27 [Літак з міністром внутрішньої безпеки США здійснив аварійну посадку](https://ua.korrespondent.net/world/4908505-litak-z-ministrom-vnutrishnoi-bezpeky-ssha-zdiisnyv-avariinu-posadku)<br>
 
 ## as.com
+19:31 [Un Leyma Coruña con seis fichajes y “más hambre”](https://as.com/baloncesto/acb/un-leyma-coruna-con-seis-fichajes-y-mas-hambre-f202609-n/)<br>
 17:31 [Un pasaporte perdido deja a China sin su máxima estrella](https://as.com/baloncesto/mas_baloncesto/un-pasaporte-perdido-deja-a-china-sin-su-maxima-estrella-f202609-n/)<br>
+16:44 [AJ. Lawson: “Vais a ver algunos mates espectaculares”](https://as.com/futbol/aj-lawson-vais-a-ver-algunos-mates-espectaculares-f202609-n/)<br>
 13:44 [¿Un mate de tres puntos? ¿Y un tiro que valga cuatro puntos?](https://as.com/baloncesto/mas_baloncesto/un-mate-de-tres-puntos-y-un-tiro-que-valga-cuatro-puntos-f202609-n/)<br>
 12:06 [El Barça cambia al final del mercado](https://as.com/baloncesto/acb/el-barca-cambia-al-final-del-mercado-f202609-n/)<br>
 09:59 [Crisis en el baloncesto lituano](https://as.com/baloncesto/mas_baloncesto/crisis-en-el-baloncesto-lituano-f202609-n/)<br>
@@ -65,7 +67,14 @@ Previous day: [2026-09-02](./data/2026-09-02.md)
 07:07 [20 años de Saitama: “El oro de 2006 nos hizo creer que todo era posible”](https://as.com/baloncesto/mundial_baloncesto/el-oro-de-2006-nos-hizo-creer-que-todo-era-posible-f202609-n/)<br>
 
 ## www.elperiodico.com
+21:04 [La Policía Científica de los Mossos d'Esquadra esta tarde en la vivienda donde han encontrado a Nizan](https://www.elperiodico.com/es/videos/sucesos/policia-cientifica-mossos-desquadra-tarde/133928931.shtml)<br>
+21:00 [La venta de equipos para cruzar a nado a Ceuta revive en Marruecos animada por migrantes que cuentan su éxito en redes sociales](https://www.elperiodico.com/es/politica/20260903/venta-equipos-cruzar-nado-ceuta-revive-crisis-migratoria-133928854)<br>
+20:58 [Los guardias civiles heridos en Murcia tras la embestida de una narcolancha se recuperan](https://www.elperiodico.com/es/sucesos/20260903/guardias-civiles-heridos-murcia-embestida-narcolancha-recuperan-133928835)<br>
+20:56 [Vídeos que se han hecho virales en Marruecos de nadadores en la travesía a Ceuta.](https://www.elperiodico.com/es/videos/politica/videos-han-hecho-virales-marruecos/133928742.shtml)<br>
+19:51 ['El ser querido', 'La bola negra' y 'Los domingos', candidatas para representar a España en los Óscar](https://www.elperiodico.com/es/videos/ocio-y-cultura/ser-querido-bola-negra-domingos-candidatas-espana-oscar/133927208.shtml)<br>
+19:44 [Enric Auquer, protagonista de 'Cronos', sobre los atentados del 17A: "En los Mossos hay agentes que creen en una policía ética y saben hacer su trabajo"](https://www.elperiodico.com/es/ocio-y-cultura/20260903/estreno-cronos-pelicula-atentados-yihadistas-la-rambla-17-agosto-2017-enric-auquer-133912092)<br>
 19:34 ['Farmear' aura](https://www.elperiodico.com/es/opinion/20260903/farmear-aura-articulo-joan-canete-bayle-133926441)<br>
+19:30 [John Malkovich presenta en Venecia su candidatura al Oscar en lo nuevo de Martin McDonagh](https://www.elperiodico.com/es/ocio-y-cultura/20260903/john-malkovich-presenta-venecia-candidatura-133922802)<br>
 19:24 ["Farmear aura": la nueva forma de construir la identidad de la Generación Z](https://www.elperiodico.com/es/sociedad/20260903/farmear-aura-nueva-forma-construir-133926509)<br>
 19:15 [Roborock presenta en IFA 2026 nuevos robots aspiradores y su primer limpiafondos para piscinas](https://www.elperiodico.com/es/tecnologia/roborock-ifa-2026-nuevos-productos-hogar-133925692)<br>
 18:42 [La Generalitat multa con 300.000 euros a la empresa del operario que provocó el incendio de las Gavarres](https://www.elperiodico.com/es/sociedad/20260903/generalitat-multa-300-000-euros-empresa-operario-incendio-gavarres-133924756)<br>
