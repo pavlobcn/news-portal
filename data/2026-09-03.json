@@ -1,5 +1,563 @@
 [
   {
+    "title": "Detenida una mujer en Ceuta por el homicidio de un joven marroquí en su vivienda",
+    "link": "https://www.elperiodico.com/es/sucesos/20260903/detenida-mujer-ceuta-homicidio-joven-133906463",
+    "pubDate": "2026-09-03 11:40:27",
+    "category": "",
+    "description": "<h2>La mujer usó presuntamente un arma blanca contra la víctima</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lucía Menéndez, abogada: \"Grabar una conversación puede ayudarte como prueba, pero también puede meterte en un problema\"",
+    "link": "https://www.elperiodico.com/es/economia/20260903/lucia-menendez-abogada-grabar-conversacion-privada-prueba-legal-dv-133902068",
+    "pubDate": "2026-09-03 11:34:52",
+    "category": "",
+    "description": "<h2>Expertos legales advierten sobre las consecuencias de grabar conversaciones ajenas, diferenciando entre la participación y la grabación externa</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260831/lucia-menendez-abogada-donacion-padres-hijos-efectos-futura-herencia-dv-133798230\" target=\"_blank\">Lucía Menéndez, abogada: \"Muchas personas piensan que si sus padres les dieron dinero, ese regalo ya no tiene nada que ver con la futura herencia\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alcaraz pone fecha a su próximo parón: \"Me tomaré pausas de uno o dos meses, voy a faltar a algunos torneos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260903/alcaraz-pone-fecha-proximo-paron-133905606",
+    "pubDate": "2026-09-03 11:33:05",
+    "category": "",
+    "description": "<h2>Carlos Alcaraz reconoce la imposibilidad de disputar todas las citas del circuito y anuncia su intención de ausentarse de algunos torneos para salvaguardar su físico</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Govern conmemorará la Diada en 20 países y se centrará en homenajear a Pau Casals",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260903/govern-conmemorara-diada-20-paises-133902121",
+    "pubDate": "2026-09-03 11:32:39",
+    "category": "",
+    "description": "<h2>Esta fecha coincide con efemérides como el aniversario de Josep Irla y el centenario de la muerte de Antoni Gaudí</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Salma Hayek cumple 60 años: tres idiomas en casa, defensa de lo latino y una vida de lujo",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260903/salma-hayek-cumple-60-anos-133903273",
+    "pubDate": "2026-09-03 11:32:19",
+    "category": "",
+    "description": "<h2>La actriz, que habla tres idiomas en casa, celebra su cumpleaños con una defensa de la identidad latina</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aina Vidal: \"Mientras Vox habla de cazar a personas, en Ceuta había seres humanos durmiendo sobre la arena. Niños y niñas sin comer. ¿Y usted hablan de invasión? Hay que ser desgraciado\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/aina-vidal-vox-habla-cazar-inmigrantes/133906145.shtml",
+    "pubDate": "2026-09-03 11:31:36",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'Les arts en marxa' lleva el teatro profesional a 11 pueblos de Catalunya sin espacios escénicos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260903/les-arts-marxa-lleva-teatro-133902798",
+    "pubDate": "2026-09-03 11:31:13",
+    "category": "",
+    "description": "<h2>La iniciativa, dirigida para municipios de menos de 5.000 habitantes, tendrá lugar del 5 de septiembre al 25 de octubre, y llevará un escenario desplegable y autosuficiente por las demarcaciones catalanas</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La prensa de Marruecos minimiza las manifestaciones por Ceuta en España y subraya que el Gobierno de Sánchez exculpa a Rabat del asalto",
+    "link": "https://www.elperiodico.com/es/internacional/20260903/prensa-marruecos-manifestaciones-ceuta-gobierno-sanchez-133901614",
+    "pubDate": "2026-09-03 11:29:18",
+    "category": "",
+    "description": "<h2>Los principales medios del país vecino denuncian una campaña de desinformación orientada a desgastar al Gobierno de Pedro Sánchez y dinamitar la cooperación bilateral tras el desmentido explícito de la Policía Nacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Estrasburgo declara que España vulneró el derecho de reunión de los condenados por el asedio al Parlament de 2011",
+    "link": "https://www.elperiodico.com/es/politica/20260903/estrasburgo-espana-vulnero-derecho-reunion-asedio-parlament-133905795",
+    "pubDate": "2026-09-03 11:24:15",
+    "category": "",
+    "description": "<h2>El Tribunal Europeo de Derechos Humanos rechaza indemnizar a los cuatro condenados que pidieron su amparo al no llegar a cumplir los 3 años de pena que les impuso el Supremo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Болгарія погодила винятки із санкцій проти РФ",
+    "link": "https://ua.korrespondent.net/world/4908598-bolhariia-pohodyla-vyniatky-iz-sanktsii-proty-rf",
+    "pubDate": "2026-09-03 11:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549553.jpg\">Рішення обумовлене тим, що значна частина систем та обладнання на АЕС має російське походження.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Rubén Gómez, trabajando en Suiza: \"Estoy trabajando en la cocina de un restaurante y en cuatro meses he ahorrado más de 10.000 euros\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260903/ruben-gomez-trabaja-cocina-restaurante-suiza-ahorro-miles-de-euros-dv-et-133776009",
+    "pubDate": "2026-09-03 11:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Su experiencia en Suiza muestra por qué cada vez más jóvenes buscan fuera las oportunidades que no encuentran en España</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260317/espanol-suiza-salario-euros-sin-filtros-dv-127842512\">Un español que vive en Suiza habla sin filtros sobre su salario: \"Cobro más de 1.300 euros a la semana\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un accidente causa una retención kilométrica en la Ronda Litoral",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/accidente-causa-retencion-kilometrica-ronda-video/133903101.shtml",
+    "pubDate": "2026-09-03 11:11:28",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Угорщина не підтримує прискорене розширення ЄС - Мадяр",
+    "link": "https://ua.korrespondent.net/world/4908595-uhorschyna-ne-pidtrymuie-pryskorene-rozshyrennia-yes-madiar",
+    "pubDate": "2026-09-03 11:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549555.jpg\">Будапешт виступає проти будь-яких прискорених процедур вступу країн-кандидатів до ЄС. Про це заявив прем’єр-міністр Угорщини Петер Мадяр після зустрічі з Антоніу Коштою.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Rupert Murdoch, \"muy contento\" con que Guy Pearce lo interprete en 'Ink', la nueva película de Danny Boyle",
+    "link": "https://www.elperiodico.com/es/gente/20260903/rupert-murdoch-contento-guy-pearce-133903851",
+    "pubDate": "2026-09-03 11:09:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Este es el detalle de George Clooney con los fotógrafos en el Festival de Cine de Venecia",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/detalle-george-clooney-fotografos-festival/133904276.shtml",
+    "pubDate": "2026-09-03 11:07:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "A 20 km de Barcelona: el pueblo de la cantante Aitana rodeado de montañas donde la cereza se convirtió en todo un símbolo",
+    "link": "https://www.elperiodico.com/es/catalunya/20260903/aitana-ocana-cataluna-barcelona-sant-climent-de-llobregat-dv-loc-113558667",
+    "pubDate": "2026-09-03 11:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20241203/ursula-corbero-cataluna-barcelona-pueblo-sant-pere-vilamajor-dv-loc-112292245\" >Este es el pueblo a menos de una hora de Barcelona donde nació Úrsula Corberó</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Feijóo culpa a Marruecos de la \"invasión\" y advierte a Sánchez que \"pagará ante la Justicia\"",
+    "link": "https://www.elperiodico.com/es/politica/20260903/feijoo-culpa-marruecos-invasion-advierte-133903669",
+    "pubDate": "2026-09-03 10:52:58",
+    "category": "",
+    "description": "<h2>Alberto Núñez Feijóo exige a Pedro Sánchez que no priorice su miedo personal sobre el interés nacional ante el presunto chantaje marroquí</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cobrar hasta 12.000 euros o ganar un 4% más de pensión: los informes que cuestionan los incentivos de la Seguridad Social por retrasar la jubilación",
+    "link": "https://www.elperiodico.com/es/economia/20260903/cobrar-12000-euros-vs-ganar-4-por-ciento-mas-de-pension-incentivos-seguridad-social-dv-133902795",
+    "pubDate": "2026-09-03 10:45:53",
+    "category": "",
+    "description": "<h2>FEDEA concluye que el aumento permanente de la pensión resulta más ventajoso en casi ocho de cada diez casos, aunque la elección depende de cada trabajador</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Rodrigo Sorogoyen, Los Javis y Alauda Ruiz de Azúa se juegan el billete español a los Oscar: las tres películas preseleccionadas por la Academia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260903/sorogoyen-javis-alauda-ruiz-azua-peliculas-espanolas-preseleccionadas-oscar-133903405",
+    "pubDate": "2026-09-03 10:45:33",
+    "category": "",
+    "description": "<h2>'El ser querido', 'La bola negra' y 'Los domingos' son las cintas que pelearán por el pasaporte a Hollywood: el veredicto se conocerá el 16 de septiembre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Desalojado un tren de Rodalies averiado entre Arc de Triomf y Plaça Catalunya: retrasos de 20 minutos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260903/demoras-trenes-plaza-catalunya-arco-triunfo-133902508",
+    "pubDate": "2026-09-03 10:45:17",
+    "category": "",
+    "description": "<h2 class=\"item\">Los convoyes circulan con demoras después de que un tren de la línea R4 haya quedado averiado </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mourinho: \"¿Raúl Asencio? No estoy feliz. Errores cometemos todos, pero acumulados es una cosa diferente\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260903/mourinho-raul-asencio-errores-real-madrid-133903295",
+    "pubDate": "2026-09-03 10:43:07",
+    "category": "",
+    "description": "<h2>El técnico blanco se pronunció sobre la condena del central por casi cuadriplicar la tasa de alcohol permitida</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Feijóo, a Sánchez: \"Si esta es la verdad, dimita por incompetente. Y si es falso, dimita por cómplice\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-sanchez-dimita-incompetente-falso/133903117.shtml",
+    "pubDate": "2026-09-03 10:38:36",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos detienen en Barcelona a un fugitivo de Turquía acusado de 2 asesinatos en Estambul",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mossos-detienen-barcelona-fugitivo-turquia-video/133902107.shtml",
+    "pubDate": "2026-09-03 10:36:13",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Varón, 38 años y con problemas de juego: el perfil del adulto que acude al Centro de Adicciones Comportamentales del Hospital Gregorio Marañón de Madrid",
+    "link": "https://www.elperiodico.com/es/sanidad/20260903/varon-anos-problemas-juego-apuestas-perfil-adulto-acude-centro-adicciones-comportamentales-hospital-madrid-133901287",
+    "pubDate": "2026-09-03 10:34:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre los menores, el 65% ha acudido al cribado por problemas relacionados con los videojuegos y un 51% por las redes sociales</h2><h2 class=\"item\">En sus cuatro años de vida, el centro ha atendido a 2.324 pacientes: 1.908 adultos y 416 menores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260818/juicio-meta-facebook-instagram-estados-unidos-redes-sociales-impacto-salud-mental-adolescentes-133450534\">Las redes sociales no salen gratis: más ansiedad y menos bienestar entre los adolescentes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вбивство журналістки на Мальті: суд виправдав підозрюваного",
+    "link": "https://ua.korrespondent.net/world/4908582-vbyvstvo-zhurnalistky-na-malti-sud-vypravdav-pidozruivanoho",
+    "pubDate": "2026-09-03 10:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549486.jpg\">Мальтійський суд виправдав бізнесмена Йоргена Фенека, якого звинувачували в замовленні вбивства журналістки Дафне Каруани Галіції. Родина загиблої назвала рішення \"цілковитим розчаруванням\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Vuelta al cole sin comedor: 1,2 millones de niños en riesgo de pobreza en España se quedan sin beca",
+    "link": "https://www.elperiodico.com/es/sociedad/20260903/vuelta-cole-sin-becas-comedor-escolar-133878783",
+    "pubDate": "2026-09-03 10:31:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Educo calcula que el comedor universal y gratuito en la escuela pública, como parte del derecho a la educación, implicaría un coste de 6.166 millones de euros por curso, el 0,37% del PIB</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260824/padres-jovenes-mayor-riesgo-pobreza-infantil-133610646\" target=\"_blank\">Tener hijos con menos de 30 años aumenta la probabilidad de pobreza</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Polestar desvela el 4 SUV: más versatilidad y espacio con hasta 630 km de autonomía",
+    "link": "https://www.elperiodico.com/es/motor/20260903/polestar-desvela-4-suv-versatilidad-133864857",
+    "pubDate": "2026-09-03 10:27:47",
+    "category": "",
+    "description": "<h2>La marca sueca amplía la gama de su modelo con una carrocería de perfil optimizado, integración de Google Gemini y un precio de partida de 54.390 euros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Comparecencia de Pedro Sánchez en el Congreso, en directo | Última hora de la crisis migratoria de Ceuta y del informe policial",
+    "link": "https://www.elperiodico.com/es/politica/20260903/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-09-03 10:16:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260903/villarino-jefe-casa-rey-felipe-vi-visita-ceuta-bolanos-133887504\" target=\"_blank\">El jefe de la Casa del Rey, experto en Marruecos, preparará con Bolaños el viaje de Felipe VI a Ceuta y Melilla</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260902/informe-policial-marruecos-sacude-sanchez-133882693\" target=\"_blank\">El informe policial sobre el papel de Rabat en el asalto a Ceuta sacude a Sánchez antes de ir al Congreso</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez desvela que se convocó a la embajadora de Marruecos por las declaraciones de sus ministros sobre Ceuta",
+    "link": "https://www.elperiodico.com/es/internacional/20260903/sanchez-desvela-convoco-embajadora-marruecos-133902232",
+    "pubDate": "2026-09-03 10:15:13",
+    "category": "",
+    "description": "<h2>En este caso, al contrario de lo que viene siendo habitual en las convocatorias de embajadores extranjeros cuando hay choques diplomáticos, el Ministerio de Exteriores no informó</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez deja sin aclarar las causas de la crisis, niega alertas previas y eleva el tono con Rabat por “declaraciones inaceptables” sobre Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260903/sanchez-deja-aclarar-causas-crisis-133902208",
+    "pubDate": "2026-09-03 10:14:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El jefe del Ejecutivo tilda las alertas previas de los servicios de inteligencia como \"avisos rutinarios\" y reconoce que la repatriación de los migrantes que todavía permanecen en Ceuta \"lleva su tiempo\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260903/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Comparecencia de Pedro Sánchez en el Congreso, en directo | Última hora de la crisis migratoria de Ceuta y del informe policial</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una defunción en Manresa desencadena en las redes y Whatsapp una avalancha de rumores y mentiras sobre un falso crimen",
+    "link": "https://www.elperiodico.com/es/sociedad/20260903/defuncion-manresa-desencadena-redes-whatsapp-133902182",
+    "pubDate": "2026-09-03 10:13:09",
+    "category": "",
+    "description": "<h2>Un vídeo sobre los hechos, en el centro histórico de la ciudad, propicia que se extiendan acusaciones que, según las autoridades, no tienen ninguna base ni fundamento</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ готує диверсії в Данії: контррозвідка назвала можливі цілі",
+    "link": "https://ua.korrespondent.net/world/4908574-rf-hotuie-dyversii-v-danii-kontrrozvidka-nazvala-mozhlyvi-tsili",
+    "pubDate": "2026-09-03 10:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549463.jpg\">Данська контррозвідка попереджає про конкретну загрозу з боку Росії. Серед можливих цілей - підприємства оборонної промисловості, які допомагають Україні.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Sánchez: \"El Gobierno no tiene nada que ocultar. He dado la orden de publicar un dossier con todos los informes\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/sanchez-gobierno-ocultar-publicar-dossier/133902035.shtml",
+    "pubDate": "2026-09-03 10:07:59",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lluís Masana, experto en metabolismo: “El colesterol LDL no es un factor de riesgo más, es la causa de la arteriosclerosis”",
+    "link": "https://www.elperiodico.com/es/salud/20260903/lluis-masana-experto-metabolismo-colesterol-factor-riesgo-arteriosclerosis-133902008",
+    "pubDate": "2026-09-03 10:06:07",
+    "category": "",
+    "description": "<h2>La terapia reduce el colesterol LDL en un 24,9% en el primer año, con beneficios independientemente del estado glucémico del paciente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Дрони атакували порт у Сочі - соцмережі",
+    "link": "https://ua.korrespondent.net/world/russia/4908572-drony-atakuvaly-port-u-sochi-sotsmerezhi",
+    "pubDate": "2026-09-03 10:03:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549462.jpg\">Ймовірною ціллю було судно постачання, призначене для забезпечення морських нафтогазових операцій.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Вибух на вокзалі в Німеччині: постраждали українці",
+    "link": "https://ua.korrespondent.net/world/4908570-vybukh-na-vokzali-v-nimechchyni-postrazhdaly-ukraintsi",
+    "pubDate": "2026-09-03 10:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549442.jpg\">Постраждалі були перехожими й випадково опинилися на місці події. Це 17-річна дівчина та 18-річний юнак.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crisis en el baloncesto lituano",
+    "link": "https://as.com/baloncesto/mas_baloncesto/crisis-en-el-baloncesto-lituano-f202609-n/",
+    "pubDate": "2026-09-03 09:59:00",
+    "category": "Jonas Valančiūnas",
+    "description": "La selección lituana se hunde en las Ventanas FIBA mientras Jonas Valanciunas, su capitán, denuncia caos interno y falta de rumbo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La pasajera de una motocicleta muere en un choque contra un coche en la A-27 en Valls",
+    "link": "https://www.elperiodico.com/es/tarragona/20260903/pasajera-motocicleta-muere-choque-valls-tarragona-133901390",
+    "pubDate": "2026-09-03 09:52:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La víctima mortal, de 51 años, residía en Perafort (Tarragonès)</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія розганяє фейк про \"нульову допомогу\" Естонії Україні - ЦПД",
+    "link": "https://ua.korrespondent.net/world/4908568-rosiia-rozghaniaie-feik-pro-nulovu-dopomohu-estonii-ukraini-tspd",
+    "pubDate": "2026-09-03 09:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549439.jpg\">Російська пропаганда замовчує, що загальна допомога Естонії у 2022-2027 роках сягає 1,41 млрд євро.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп не допустив шатдауну: уряд США отримав тимчасове фінансування",
+    "link": "https://ua.korrespondent.net/world/4908564-tramp-ne-dopustyv-shatdaunu-uriad-ssha-otrymav-tymchasove-finansuvannia",
+    "pubDate": "2026-09-03 09:41:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549438.jpg\">Президент США Дональд Трамп підписав закон про тимчасове фінансування федерального уряду. Документ дозволить уникнути нового шатдауну щонайменше до 11 грудня.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La comparecencia de Pedro Sánchez sobre el asalto masivo a Ceuta, en frases clave",
+    "link": "https://www.elperiodico.com/es/politica/20260903/pedro-sanchez-ceuta-frases-comparecencia-congreso-133899760",
+    "pubDate": "2026-09-03 09:37:46",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260903/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">DIRECTO | Comparecencia de Pedro Sánchez en el Congreso, en directo: última hora de la crisis migratoria de Ceuta y del informe policial</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedro Sánchez: \"Nuestros agentes eligieron defender la vida humana e hicieron lo correcto\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/pedro-sanchez-agentes-eligieron-defender-vida-humana/133901081.shtml",
+    "pubDate": "2026-09-03 09:36:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Más de 80 muertos, entre ellos una bebé, en un cayuco a la deriva al sur de Canarias tras 26 días en el mar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260903/rescatado-cayuco-cinco-migrantes-fallecidos-sur-gran-canaria-133900383",
+    "pubDate": "2026-09-03 09:34:22",
+    "category": "",
+    "description": "<h2>La embarcación, con 128 ocupantes iniciales, fue localizada a 120 kilómetros de Gran Canaria con 45 supervivientes y cinco cadáveres a bordo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "\"Наступні шість місяців критичні\": Європу попередили про загрозу РФ",
+    "link": "https://ua.korrespondent.net/world/4908558-nastupni-shist-misiatsiv-krytychni-yevropu-poperedyly-pro-zahrozu-rf",
+    "pubDate": "2026-09-03 09:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549416.jpg\">Голова Варшавського безпекового форуму Катаржина Пісарська закликала Європу усвідомити критичність нинішнього етапу війни. За її словами, Росія вже веде проти Європи гібридну агресію.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Caos de tráfico en Barcelona: cortada la Ronda Litoral por un accidente y retenciones en la AP-7 en Cerdanyola",
+    "link": "https://www.elperiodico.com/es/barcelona/20260903/caos-barcelona-ronda-litoral-cortada-ap7-retenciones-133899695",
+    "pubDate": "2026-09-03 09:09:03",
+    "category": "",
+    "description": "<h2>La B-10 está totalmente cortada en sentido Llobregat a la altura del Morrot, con colas que llegan hasta Sant Adrià de Besòs </h2><h2><a href=\"https://www.elperiodico.com/es/tarragona/20260903/pasajera-motocicleta-muere-choque-valls-tarragona-133901390\" target=\"_blank\">La pasajera de una motocicleta muere en un choque contra un coche en la A-27 en Valls</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрон в аэропорту Лейпцига: РФ оголосила відповідь на дії Німеччини",
+    "link": "https://ua.korrespondent.net/world/4908548-dron-v-aeroportu-leiptsyha-rf-oholosyla-vidpovid-na-dii-nimechchyny",
+    "pubDate": "2026-09-03 08:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549381.jpg\">Росія закриє культурні центри німецького Інституту Гете після рішення Німеччини припинити роботу Русского дома в Берліні.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "“20 años del día que cambió nuestras vidas”",
+    "link": "https://as.com/baloncesto/videos/20-anos-del-dia-que-cambio-nuestras-vidas-f202609-v/",
+    "pubDate": "2026-09-03 08:43:47",
+    "category": "Minuto 116",
+    "description": "Hace 20 años de la gesta de la selección española de baloncesto en Japón. La ÑBA conquistó el primer Mundial de la historia de España tras un torneo impecable y una actuación dominante en la final ante Grecia. Pepu Hérnandez, seleccionador en 2006, y Ricardo González, periodista de AS que vivió en primera persona el torneo, rememoran la hazaña dos décadas después.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США заявили про небезпечні плани Росії",
+    "link": "https://ua.korrespondent.net/world/4908539-ssha-zaiavyly-pro-nebezpechni-plany-rosii",
+    "pubDate": "2026-09-03 08:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549344.jpg\">РФ може бути непередбачуваною і готовою вжити заходів проти країни-члена НАТО, заявив представник США при Альянсі.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muere a los 33 años Carla Jeffery, estrella de Disney Channel con 'Zombies'",
+    "link": "https://www.elperiodico.com/es/gente/20260903/muere-carla-jeffery-actriz-disney-zombies-33-anos-133898897",
+    "pubDate": "2026-09-03 08:19:09",
+    "category": "",
+    "description": "<h2>La intérprete estadounidense se hizo famosa por dar vida a Bree en la popular saga juvenil</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Fernando y Ana, la pareja que dejó atrás la hipoteca y se mudó a una autocaravana de 7 m²: \"Es como si fuera una casa, pero nos da la libertad de tener un jardín diferente todos los días\"",
+    "link": "https://www.elperiodico.com/es/economia/20260903/pareja-jubilados-dejo-hipoteca-autocaravana-7-m2-gastos-fernando-ana-dv-et-133738230",
+    "pubDate": "2026-09-03 08:11:02",
+    "category": "",
+    "description": "<h2>La pareja expone cómo calcular sus gastos mensuales: \"Coge una casa de 2 personas y quita el gasto de luz, de agua, de comunidad, el garaje, internet, los teléfonos...\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260827/camion-funcionario-no-paga-luz-agua-hipoteca-jose-antonio-dv-et-133493968\">José Antonio, funcionario: \"Vivo en 12 m² dentro de este camión. No pago hipoteca, agua ni luz\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260831/dejaron-barcelona-vivir-furgoneta-3-metros-cuadrados-islas-canarias-toni-sara-dv-et-133620927\">Toni y Sara dejaron Barcelona para vivir en una furgoneta de 3 m² y recorrer las Islas Canarias: \"Nos gastamos, tirando a la alta, unos 150 euros a la semana entre los dos\"</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Kike Urdiales, albañil: \"Menuda generación de blanditos que viene. Ponemos anuncios, vienen a trabajar con toda la ilusión y nos dicen que la obra es muy dura y duran dos días\"",
+    "link": "https://www.elperiodico.com/es/economia/20260903/kike-urdiales-albanil-generacion-blanditos-sector-construccion-obra-dv-et-133869646",
+    "pubDate": "2026-09-03 08:05:35",
+    "category": "",
+    "description": "<h2>\"Y no te estoy hablando de pagar salarios mínimos, estoy hablando de ganar dinero\", expresa el profesional dedicado a la construcción de piscinas</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260829/cristian-albanil-buen-profesional-cobrando-2800-euros-dv-et-133636118\">Cristian, albañil: \"A día de hoy un buen profesional debería estar cobrando 2.800 euros al mes\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Vas a comprar un coche eléctrico? Estos son los 5 más vendidos en agosto de 2026",
+    "link": "https://www.elperiodico.com/es/motor/20260903/5-coches-electricos-mas-vendidos-agosto-2026-133831969",
+    "pubDate": "2026-09-03 08:00:11",
+    "category": "",
+    "description": "<h2>Te detallamos cuáles fueron los 5 vehículos eléctricos favoritos de los conductores españoles en el octavo mes del año</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Desayuna con alpacas y abraza burros en miniatura: planes virales con animales en Catalunya",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260903/planes-virales-animales-barcelona-desayuna-con-alpacas-abraza-burros-miniatura-133892205",
+    "pubDate": "2026-09-03 08:00:10",
+    "category": "",
+    "description": "<h2>Se te escapará un “wow”, o un “guau”, más bien. Barcelona (y alrededores) está llena de actividades para los amantes de los animales</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260901/graban-impresionante-banco-peces-frente-hotel-vela-barcelona-video-viral-133818318\" target=\"_blank\">Graban un impresionante banco de peces frente al hotel Vela de Barcelona: \"La gente los recogía con bolsas del Mercadona\"</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sacred Slice Pizza: Barcelona ya tiene la pizzería estilo Nueva York que le faltaba (gracias a una herencia)",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260903/sacred-slice-pizza-barcelona-estilo-nueva-york-132982142",
+    "pubDate": "2026-09-03 07:59:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Una familia estadounidense abre un establecimiento que sirve elaboraciones como las que se pueden probar en la ciudad de los rascacielos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240426/barcelona-mejores-pizzas-mundo-101488332\" target=\"_blank\">¿Por qué Barcelona es una de las capitales mundiales de la pizza?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250210/pizzeria-mama-barcelona-michele-martino-114043749\" target=\"_blank\">Pizzería Mama: el peluquero que se convirtió en uno de los mejores 'pizzaioli' de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "3 restaurantes de Horta para comer muy bien a buen precio",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260903/mejores-restaurantes-horta-barcelona-132914979",
+    "pubDate": "2026-09-03 07:58:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Este tranquilo barrio de Barcelona cuenta con establecimientos que te harán disfrutar de lo lindo sin que te gastes una fortuna</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260602/mejores-restaurantes-gracia-barcelona-81106586\">Los restaurantes del barrio de Gràcia que no deberías perder de vista</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20241007/mejores-restaurantes-sant-gervasi-galvany-barcelona-106399281\">Los mejores restaurantes de Sant Gervasi-Galvany para dejarse caer por la zona alta (1)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La estrategia de Telecinco para el estreno de ‘Rueda la letra' y sobrevivir a 'Pasapalabra'",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260903/telecinco-rueda-letra-estrategia-lanzamiento-sobrevivir-pasapalabra-133890095",
+    "pubDate": "2026-09-03 07:57:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260831/antena-3-estrena-proximo-domingo-el-secreto-una-nueva-vida-133818895\" target=\"_blank\"><strong>Antena 3 estrena 'El secreto' este domingo como telonera de la recta final de 'Una nueva vida': así queda su programación</strong></a></h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260902/de-lunes-a-viernes-bea-archidona-lanza-pulla-conocerse-cancelacion-133888455\" target=\"_blank\"><strong>Bea Archidona lanza una pulla tras conocerse la cancelación de '¡De lunes a viernes!': \"¡A saber dónde estamos ese día!\"</strong></a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España presume de WNBA: las 5 jugadoras de la Selección que juegan en la mejor liga del mundo",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-presume-de-wnba-las-5-jugadoras-de-la-seleccion-que-juegan-en-la-mejor-liga-del-mundo-f202609-n/",
+    "pubDate": "2026-09-03 07:17:00",
+    "category": "Baloncesto",
+    "description": "Cinco españolas compiten en Estados Unidos y llegan al Mundial tras un verano marcado por la adaptación a la liga y al calendario.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Quién es Awa Fam, la perla del baloncesto español femenino elegida la número 3 del Draft 2026 de la WNBA",
+    "link": "https://as.com/baloncesto/mas_baloncesto/quien-es-awa-fam-la-perla-del-baloncesto-espanol-femenino-elegida-la-numero-3-del-draft-2026-de-la-wnba-f202609-n/",
+    "pubDate": "2026-09-03 07:17:00",
+    "category": "Awa Fam",
+    "description": "La pívot internacional creció en Santa Pola (Alicante) y se curtió en l’Alqueria del Basket en Valencia, desde los 12 años.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран розширив \"чорний список\" суден-порушників в Ормузькій протоці",
+    "link": "https://ua.korrespondent.net/world/4908519-iran-rozshyryv-chornyi-spysok-suden-porushnykiv-v-ormuzkii-prototsi",
+    "pubDate": "2026-09-03 07:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4549257.jpg\">До переліку потрапили великі нафтові танкери, судна для перевезення скрапленого природного та нафтового газу, а також нафтопродуктів.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un banquillo en femenino",
+    "link": "https://as.com/baloncesto/mas_baloncesto/un-banquillo-en-femenino-f202609-n/",
+    "pubDate": "2026-09-03 07:07:43",
+    "category": "Baloncesto",
+    "description": "Cristina Cantero, Raquel Romo y Anna Montañana son las ayudantes de Miguel Méndez en el Mundial de Berlín. “Las hemos elegido por sus habilidades y por lo que necesita el equipo en este momento”, dice el gallego.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "20 años de Saitama: “El oro de 2006 nos hizo creer que todo era posible”",
+    "link": "https://as.com/baloncesto/mundial_baloncesto/el-oro-de-2006-nos-hizo-creer-que-todo-era-posible-f202609-n/",
+    "pubDate": "2026-09-03 07:07:00",
+    "category": "Selección Española Baloncesto",
+    "description": "Alberto Díaz, Darío Brizuela y Willy Hernangómez recuerdan para AS qué significó para ellos, siendo unos niños, el Mundial de Japón del que se cumplen hoy 20 años.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estos son los mejores restaurantes del paseo de Gràcia",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260903/mejores-restaurantes-paseo-gracia-barcelona-114979114",
+    "pubDate": "2026-09-03 07:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Varios establecimientos gastronómicos salpican esta avenida tan glamurosa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250325/mejores-restaurantes-cerca-paseo-gracia-barcelona-115040920\">Los mejores restaurantes a una calle (o menos) del paseo de Gràcia (1)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250326/mejores-restaurantes-cerca-paseo-gracia-barcelona-una-calle-115052762\">Los mejores restaurantes a una calle (o menos) del paseo de Gràcia (y 2)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Pasa de las máquinas: gimnasios de Barcelona a los que sí querrás ir",
     "link": "https://www.elperiodico.com/es/que-hacer/planes/20260903/gimnasios-barcelona-querras-ir-deportes-moda-133882313",
     "pubDate": "2026-09-03 07:00:26",
@@ -52,6 +610,15 @@
     "description": "<h2>Santiago Cifuentes recupera en un libro los vanguardistas escaparates que transformaron el paisaje comercial de la capital y se perdieron a causa de la Guerra Civil</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Sabores del mundo para redescubrir en Madrid a la vuelta de las vacaciones",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260903/nuevos-restaurantes-comida-extranjera-madrid-133658384",
+    "pubDate": "2026-09-03 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Cocina japonesa, helados argentinos, recetas de 'abuela' china... el regreso a la capital tras el verano trae deberes en forma de nuevos espacios gastronómicos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260901/mejores-menus-ejecutivos-restaurantes-madrid-133104577\">Los mejores menús ejecutivos de Madrid: 7 propuestas para disfrutar a lo grande a mediodía</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
   },
   {
     "title": "Легендарний номер Мессі отримав нового володаря",
@@ -200,6 +767,15 @@
   {
     "title": "El gran negocio de vender canteranos: el Real Madrid lo exprime y el Barça lo empieza a explorar",
     "link": "https://www.elperiodico.com/es/deportes/20260903/gran-negocio-vender-canteranos-real-133885548",
+    "pubDate": "2026-09-03 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El club blanco ha ingresado 210 millones de euros por futbolistas formados en Valdebebas, muchos de ellos conservando parte de sus derechos y con opciones de recompra</h2><h2 class=\"item\">Los azulgranas también han comenzado a trabajar en ese formato, recaudando 40 millones por jugadores de La Masia con los que Flick no contaba a corto plazo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El gran negocio de vender canteranos: el Real Madrid lo exprime y el Barça lo empieza a explorar",
+    "link": "https://www.elperiodico.com/es/deportes/20260903/gran-negocio-vender-canteranos-real-madrid-barcelona-133885548",
     "pubDate": "2026-09-03 06:00:49",
     "category": "",
     "description": "<h2 class=\"item\">El club blanco ha ingresado 210 millones de euros por futbolistas formados en Valdebebas, muchos de ellos conservando parte de sus derechos y con opciones de recompra</h2><h2 class=\"item\">Los azulgranas también han comenzado a trabajar en ese formato, recaudando 40 millones por jugadores de La Masia con los que Flick no contaba a corto plazo</h2>",
