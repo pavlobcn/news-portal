@@ -1,13 +1,44 @@
-# News for 2026-09-03 11:45
+# News for 2026-09-03 15:57
 
 Previous day: [2026-09-02](./data/2026-09-02.md)
 
 ## ua.korrespondent.net
+15:55 [Масована атака дронів паралізувала роботу московських аеропортів](https://ua.korrespondent.net/world/russia/4908718-masovana-ataka-droniv-paralizuvala-robotu-moskovskykh-aeroportiv)<br>
+15:39 [Киянка отримала 15 років за спробу підпалити авто військового](https://ua.korrespondent.net/city/kiev/4908713-kyianka-otrymala-15-rokiv-za-sprobu-pidpalyty-avto-viiskovoho)<br>
+15:05 [ЗСУ уразили російську РЛС Каста за $60 млн на Запоріжжі](https://ua.korrespondent.net/ukraine/4908701-zsu-urazyly-rosiisku-rls-kasta-za-60-mln-na-zaporizhzhi)<br>
+14:58 [У Німеччині почали виробляти дрони для України](https://ua.korrespondent.net/world/4908699-u-nimechchyni-pochaly-vyrobliaty-drony-dlia-ukrainy)<br>
+14:49 [РФ знищила великий склад фармпродукції під Києвом](https://ua.korrespondent.net/city/kiev/4908697-rf-znyschyla-velykyi-sklad-farmproduktsii-pid-kyievom)<br>
+14:43 [Ель-Ніньйо триватиме до лютого](https://ua.korrespondent.net/world/4908694-el-ninio-tryvatyme-do-luitoho)<br>
+14:40 [Інцидент у Лейпцигу: Лондон викликав дипломата РФ](https://ua.korrespondent.net/world/4908691-intsydent-u-leiptsyhu-london-vyklykav-dyplomata-rf)<br>
+14:33 [У справі директора мовного центру в Хмельницькому вже дев’ять потерпілих](https://ua.korrespondent.net/ukraine/4908689-u-spravi-dyrektora-movnoho-tsentru-v-khmelnytskomu-vzhe-deviat-poterpilykh)<br>
+14:32 [Польські винищувачі перехопили розвідувальний літак РФ](https://ua.korrespondent.net/world/4908687-polski-vynyschuvachi-perekhopyly-rozviduvalnyi-litak-rf)<br>
+13:55 ["Шахед" із FPV-дронами долетів до Київщини - соцмережі](https://ua.korrespondent.net/ukraine/4908670-shakhed-iz-FPV-dronamy-doletiv-do-kyivschyny-sotsmerezhi)<br>
+13:48 [Пентагон готується до затяжного конфлікту з Іраном](https://ua.korrespondent.net/world/4908669-pentahon-hotuietsia-do-zatiazhnoho-konfliktu-z-iranom)<br>
+13:37 [Медіа та блогерів можуть залучати до дискредитації ГУР - розвідка](https://ua.korrespondent.net/ukraine/4908663-media-ta-bloheriv-mozhut-zaluchaty-do-dyskredytatsii-hur-rozvidka)<br>
+13:23 [Понад 1500 нових зразків техніки та зброї допустили до постачання ЗСУ](https://ua.korrespondent.net/ukraine/4908657-ponad-1500-novykh-zrazkiv-tekhniky-ta-zbroi-dopustyly-do-postachannia-zsu)<br>
+13:04 [РФ б’є по складах: найбільше постраждали Київщина і Дніпропетровщина](https://ua.korrespondent.net/ukraine/4908653-rf-bie-po-skladakh-naibilshe-postrazhdaly-kyivschyna-i-dnipropetrovschyna)<br>
+12:56 [У Криму уразили десантний катер і комплекс РЕБ](https://ua.korrespondent.net/ukraine/4908650-u-krymu-urazyly-desantnyi-kater-i-kompleks-reb)<br>
+12:36 [В Україні стартувало розлучення через Дію](https://ua.korrespondent.net/ukraine/4908639-v-ukraini-startuvalo-rozluchennia-cherez-diui)<br>
+12:24 [На Вінниччині підтвердили випадок віспи мавп](https://ua.korrespondent.net/ukraine/4908633-na-vinnychchyni-pidtverdyly-vypadok-vispy-mavp)<br>
+12:18 [В Енгельсі скоєно замах на генерала - соцмережі](https://ua.korrespondent.net/world/russia/4908632-v-enhelsi-skoieno-zamakh-na-henerala-sotsmerezhi)<br>
+12:05 [У Чорному морі Туреччина знищила кілька підозрілих об’єктів](https://ua.korrespondent.net/world/4908624-u-chornomu-mori-turechchyna-znyschyla-kilka-pidozrilykh-obiektiv)<br>
+11:53 [У Мюнхені намагалися підпалити будмайданчик оборонної компанії](https://ua.korrespondent.net/world/4908616-u-muinkheni-namahalysia-pidpalyty-budmaidanchyk-oboronnoi-kompanii)<br>
+11:50 [Росіяни вдарили по Дніпру: є жетва та поранені](https://ua.korrespondent.net/city/dnepr/4908618-rosiiany-vdaryly-po-dnipru-ye-zhetva-ta-poraneni)<br>
+11:42 [Долар і євро повернулись до зростання в обмінниках](https://ua.korrespondent.net/business/financial/4908614-dolar-i-yevro-povernulys-do-zrostannia-v-obminnykakh)<br>
+11:38 [Київщина отримала понад 33 тонни енергообладнання](https://ua.korrespondent.net/ukraine/4908611-kyivschyna-otrymala-ponad-33-tonny-enerhoobladnannia)<br>
+11:25 [Харківщина зазнала ракетного удару, 10 поранених](https://ua.korrespondent.net/ukraine/4908601-kharkivschyna-zaznala-raketnoho-udaru-10-poranenykh)<br>
+10:58 [Заступник командира РДК готував замах: СБУ розкрила деталі стрілянини з ГУР](https://ua.korrespondent.net/ukraine/4908593-zastupnyk-komandyra-rdk-hotuvav-zamakh-sbu-rozkryla-detali-strilianyny-z-hur)<br>
+10:46 [У Києві сталася стрілянина, триває спецоперація](https://ua.korrespondent.net/city/kiev/4908586-u-kyievi-stalasia-strilianyna-tryvaie-spetsoperatsiia)<br>
 10:34 [Вбивство журналістки на Мальті: суд виправдав підозрюваного](https://ua.korrespondent.net/world/4908582-vbyvstvo-zhurnalistky-na-malti-sud-vypravdav-pidozruivanoho)<br>
 10:00 [Вибух на вокзалі в Німеччині: постраждали українці](https://ua.korrespondent.net/world/4908570-vybukh-na-vokzali-v-nimechchyni-postrazhdaly-ukraintsi)<br>
+09:34 [Відключення світла у п'яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4908562-vidkluichennia-svitla-u-piaty-oblastiakh-ukrenerho)<br>
+08:20 [Нафта дешевшає: ринок стежить за ситуацією між США та Іраном](https://ua.korrespondent.net/business/financial/4908532-nafta-deshevshaie-rynok-stezhyt-za-sytuatsiieui-mizh-ssha-ta-iranom)<br>
+07:40 [Нічна атака дронів: відомо, як спрацювала ППО](https://ua.korrespondent.net/ukraine/4908522-nichna-ataka-droniv-vidomo-yak-spratsuivala-ppo)<br>
 05:27 [Літак з міністром внутрішньої безпеки США здійснив аварійну посадку](https://ua.korrespondent.net/world/4908505-litak-z-ministrom-vnutrishnoi-bezpeky-ssha-zdiisnyv-avariinu-posadku)<br>
 
 ## as.com
+13:44 [¿Un mate de tres puntos? ¿Y un tiro que valga cuatro puntos?](https://as.com/baloncesto/mas_baloncesto/un-mate-de-tres-puntos-y-un-tiro-que-valga-cuatro-puntos-f202609-n/)<br>
+12:06 [El Barça cambia al final del mercado](https://as.com/baloncesto/acb/el-barca-cambia-al-final-del-mercado-f202609-n/)<br>
 09:59 [Crisis en el baloncesto lituano](https://as.com/baloncesto/mas_baloncesto/crisis-en-el-baloncesto-lituano-f202609-n/)<br>
 08:43 [“20 años del día que cambió nuestras vidas”](https://as.com/baloncesto/videos/20-anos-del-dia-que-cambio-nuestras-vidas-f202609-v/)<br>
 07:17 [España presume de WNBA: las 5 jugadoras de la Selección que juegan en la mejor liga del mundo](https://as.com/baloncesto/mas_baloncesto/espana-presume-de-wnba-las-5-jugadoras-de-la-seleccion-que-juegan-en-la-mejor-liga-del-mundo-f202609-n/)<br>
@@ -16,6 +47,28 @@ Previous day: [2026-09-02](./data/2026-09-02.md)
 07:07 [20 años de Saitama: “El oro de 2006 nos hizo creer que todo era posible”](https://as.com/baloncesto/mundial_baloncesto/el-oro-de-2006-nos-hizo-creer-que-todo-era-posible-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:42 [Nvidia cierra la compra de la start-up Hugging Face por 13.000 millones y dispara el frenesí inversor en IA](https://www.elperiodico.com/es/tecnologia/20260903/nvidia-cierra-compra-startup-hugging-face-ia-inversion-millones-openai-133917164)<br>
+15:39 [Xiaomi estrena en IFA 2026 su mayor stand internacional y apuesta por el ecosistema Human × Car × Home](https://www.elperiodico.com/es/tecnologia/20260903/xiaomi-estrena-ifa-2026-productos-ia-133917027)<br>
+15:29 [Las políticas de conservación más ambiciosas no lograrán frenar el declive de aves y mariposas en Europa](https://www.elperiodico.com/es/sociedad/20260903/politicas-conservacion-ambiciosas-frenar-perdida-aves-mariposas-biodiversidad-133887777)<br>
+15:00 [El espectacular pueblo de cuento a tan solo 20 minutos de Lloret de Mar](https://www.elperiodico.com/es/catalunya/20260903/pueblo-cuento-palafolls-lloret-cataluna-dv-loc-133805192)<br>
+15:00 [El método de Sebastián para vivir con 300 euros al mes en el campo y ahorrar más de 1.000 euros : "Si me apetece algo, me lo compro, pero con conocimiento"](https://www.elperiodico.com/es/economia/20260903/sebastian-torre-vive-campo-300-euros-dv-et-133699165)<br>
+14:47 [España desembarca en el Mundial femenino de basket en busca de una medalla](https://www.elperiodico.com/es/deportes/20260903/espana-desembarca-mundial-femenino-basket-133915378)<br>
+14:47 ["Es histórico": Badia del Vallès se conjura con tres empresas para la gran retirada de amianto pionera en Europa](https://www.elperiodico.com/es/barcelona/20260903/historico-badia-reune-tres-empresas-amianto-reitrada-lucha-133913942)<br>
+14:40 [Rusia responde a Alemania y cierra todas las filiales del Instituto Goethe](https://www.elperiodico.com/es/videos/internacional/rusia-responde-alemania-cierra-instituto-goethe/133914818.shtml)<br>
+14:13 [Peter Jackson, Danny DeVito y Amy Irving recogerán el Gran Premi Honorífic del festival de Sitges](https://www.elperiodico.com/es/ocio-y-cultura/20260903/sitges-2026-programacion-homenajes-peter-jackson-133911576)<br>
+14:11 [La aceitera italiana que quiere quedarse con Deoleo negocia con UniCredit los 500 millones de la compra](https://www.elperiodico.com/es/economia/20260903/aceitera-italiana-coricelli-negocia-unicredit-500-millones-comprar-deoleo-133913399)<br>
+14:08 [Comienza el ensayo en humanos de terapia génica nacida en España frente al alzhéimer: mejora la memoria y la neuroinflamación](https://www.elperiodico.com/es/sociedad/20260903/ensayo-humanos-terapia-genica-alzheimer-133909680)<br>
+13:45 [Un vídeo muestra el ataque de uno de los detenidos por el crimen de Manresa a otra víctima](https://www.elperiodico.com/es/sociedad/20260903/video-muestra-ataque-detenidos-crimen-133912182)<br>
+13:41 [La terminal Hutchison Ports BEST eleva a 15 sus grúas portacontenedores y el Port de Barcelona gana capacidad logística: "Son las más grandes del mundo"](https://www.elperiodico.com/es/economia/20260903/port-barcelona-nuevas-gruas-contenedores-133910675)<br>
+13:15 [Dos mossos, a un paso de ir a juicio por abatir a tiros al 'pistolero de Tarragona' que hirió a cuatro personas en 2021](https://www.elperiodico.com/es/tarragona/20260903/mossos-paso-juicio-abatir-tiros-pistolero-tarragona-133909470)<br>
+12:48 [Terminan sin acuerdo las reuniones entre los sindicatos de la huelga y Educació: el paro del primer día de clase en Catalunya sigue en pie](https://www.elperiodico.com/es/sociedad/20260903/sin-termina-acuerdo-reunion-sindicatos-conselleria-huelga-primer-dia-clase-catalunya-8-septiembre-133908415)<br>
+12:39 [Empiezan las obras de la sede operativa de Mossos en la Barcelona metropolitana de cara al 2029](https://www.elperiodico.com/es/barcelona/20260903/empiezan-obras-sede-operativa-mossos-barcelona-metropolitana-2029-133908402)<br>
+12:10 [Los Mossos investigan indicios de criminalidad en la muerte del bebé abandonado en un portal de La Mina](https://www.elperiodico.com/es/barcelona/20260903/bebe-muerto-mina-investigacion-mossos-crimen-133907315)<br>
+12:09 [Los Verdi inauguran sus dos nuevas salas este sábado con Rodrigo Sorogoyen y Victoria Luengo](https://www.elperiodico.com/es/ocio-y-cultura/20260903/verdi-inauguran-nuevas-salas-sabado-133904097)<br>
+12:03 [Muere la feminista más famosa del mundo, Gloria Steinem](https://www.elperiodico.com/es/ocio-y-cultura/20260903/muere-feminista-famosa-mundo-gloria-133906440)<br>
+12:01 [Unicef alerta que hasta 20 millones de niños sufrieron violencia sexual en Internet en un solo año](https://www.elperiodico.com/es/tecnologia/20260903/unicef-alerta-20-millones-ninos-sufrieron-abuso-violencia-sexual-internet-redes-sociales-acoso-133906006)<br>
+12:00 [Santiago Roncagliolo, tras los pasos de León XIV: "No he visto la luz, pero he entendido que no puedes vivir sin creer"](https://www.elperiodico.com/es/ocio-y-cultura/20260903/santiago-roncagliolo-pasos-leon-xiv-133885226)<br>
+11:50 [Eléctricas y tecnológicas hacen frente común contra la gran criba de centros de datos que prepara el Gobierno](https://www.elperiodico.com/es/economia/20260903/centros-de-datos-electricas-tecnologicas-criticas-reforma-gobierno-renovables-133906934)<br>
 11:40 [Detenida una mujer en Ceuta por el homicidio de un joven marroquí en su vivienda](https://www.elperiodico.com/es/sucesos/20260903/detenida-mujer-ceuta-homicidio-joven-133906463)<br>
 11:34 [Lucía Menéndez, abogada: "Grabar una conversación puede ayudarte como prueba, pero también puede meterte en un problema"](https://www.elperiodico.com/es/economia/20260903/lucia-menendez-abogada-grabar-conversacion-privada-prueba-legal-dv-133902068)<br>
 11:32 [Salma Hayek cumple 60 años: tres idiomas en casa, defensa de lo latino y una vida de lujo](https://www.elperiodico.com/es/ocio-y-cultura/20260903/salma-hayek-cumple-60-anos-133903273)<br>
@@ -28,9 +81,12 @@ Previous day: [2026-09-02](./data/2026-09-02.md)
 10:34 [Varón, 38 años y con problemas de juego: el perfil del adulto que acude al Centro de Adicciones Comportamentales del Hospital Gregorio Marañón de Madrid](https://www.elperiodico.com/es/sanidad/20260903/varon-anos-problemas-juego-apuestas-perfil-adulto-acude-centro-adicciones-comportamentales-hospital-madrid-133901287)<br>
 10:13 [Una defunción en Manresa desencadena en las redes y Whatsapp una avalancha de rumores y mentiras sobre un falso crimen](https://www.elperiodico.com/es/sociedad/20260903/defuncion-manresa-desencadena-redes-whatsapp-133902182)<br>
 10:06 [Lluís Masana, experto en metabolismo: “El colesterol LDL no es un factor de riesgo más, es la causa de la arteriosclerosis”](https://www.elperiodico.com/es/salud/20260903/lluis-masana-experto-metabolismo-colesterol-factor-riesgo-arteriosclerosis-133902008)<br>
+09:48 [La misión de la ESA a Mercurio inicia una crucial maniobra para aproximarse al planeta tras ocho años orbitando](https://www.elperiodico.com/es/sociedad/20260903/sonda-bepicolombo-mercurio-mision-crucial-esa-133900348)<br>
 09:34 [Más de 80 muertos, entre ellos una bebé, en un cayuco a la deriva al sur de Canarias tras 26 días en el mar](https://www.elperiodico.com/es/sociedad/20260903/rescatado-cayuco-cinco-migrantes-fallecidos-sur-gran-canaria-133900383)<br>
 08:05 [Kike Urdiales, albañil: "Menuda generación de blanditos que viene. Ponemos anuncios, vienen a trabajar con toda la ilusión y nos dicen que la obra es muy dura y duran dos días"](https://www.elperiodico.com/es/economia/20260903/kike-urdiales-albanil-generacion-blanditos-sector-construccion-obra-dv-et-133869646)<br>
 07:00 [Alba Torrens, capitana de la selección española, antes del Mundial: “El baloncesto te enseña a exigirte, pero también a perdonarte”](https://www.elperiodico.com/es/deportes/20260903/alba-torrens-capitana-seleccion-femenina-mundial-entrevista-133828874)<br>
 07:00 [Madrid fue moderno antes de saberlo: los espectaculares escaparates de los años 20 que la ciudad dejó desaparecer](https://www.elperiodico.com/es/ocio-y-cultura/20260903/madrid-moderno-saberlo-espectaculares-escaparates-anos-20-ciudad-dejo-desaparecer-133797993)<br>
+06:30 ["España vaciada… de trenes"](https://www.elperiodico.com/es/entre-todos/participacion/espana-vaciada-trenes-carta-joaquin-ortega-vicente-133816067)<br>
+06:15 ["L'autoritat del mestre"](https://www.elperiodico.com/es/entre-todos/participacion/lautoritat-mestre-les-nostres-escoles-carta-sebastian-romero-133800582)<br>
 06:01 [José Sacristán rinde tributo a Fernán-Gómez en 'El hijo de cómica', "un homenaje a un tiempo y una manera de sobrevivir"](https://www.elperiodico.com/es/ocio-y-cultura/20260903/jose-sacristan-rinde-tributo-fernan-133878863)<br>
 05:08 [La misteriosa y silenciosa desaparición de Rocío Martínez de Onda Cero: no volverá a presentar 'Radioestadio Noche' y esta es la explicación](https://www.elperiodico.com/es/tele/yotele/20260903/misteriosa-silenciosa-desaparicion-rocio-martinez-onda-cero-presentadora-radioestadio-noche-explicacion-133896307)<br>
