@@ -1,8 +1,13 @@
-# News for 2026-09-04 15:40
+# News for 2026-09-04 19:07
 
 Previous day: [2026-09-03](./data/2026-09-03.md)
 
 ## ua.korrespondent.net
+16:51 [На Харківщині розслідують багаторічне ґвалтування дитини](https://ua.korrespondent.net/ukraine/4909091-na-kharkivschyni-rozsliduuit-bahatorichne-gvaltuvannia-dytyny)<br>
+16:32 [Світові ціни на зерно зросли до максимуму з 2024-го - ФАО](https://ua.korrespondent.net/business/financial/4909082-svitovi-tsiny-na-zerno-zrosly-do-maksymumu-z-2024-ho-fao)<br>
+16:10 [Російські видавці попросили державної підтримки після ударів по складах](https://ua.korrespondent.net/world/russia/4909075-rosiiski-vydavtsi-poprosyly-derzhavnoi-pidtrymky-pislia-udariv-po-skladakh)<br>
+16:05 [На Закарпатті однолітки жорстоко побили 16-річну дівчину](https://ua.korrespondent.net/ukraine/4909069-na-zakarpatti-odnolitky-zhorstoko-pobyly-16-richnu-divchynu)<br>
+15:57 [У країнах Балтії почали страхувати житло від дронів](https://ua.korrespondent.net/world/4909071-u-krainakh-baltii-pochaly-strakhuvaty-zhytlo-vid-droniv)<br>
 15:35 [Пацієнт встановив рекорд, проживши 9 місяців із ниркою свині](https://ua.korrespondent.net/tech/4909040-patsiient-vstanovyv-rekord-prozhyvshy-9-misiatsiv-iz-nyrkoui-svyni)<br>
 15:25 [Армія РФ повторно вдарила по складу АТБ на Одещині](https://ua.korrespondent.net/city/odessa/4909058-armiia-rf-povtorno-vdaryla-po-skladu-atb-na-odeschyni)<br>
 14:47 [Одесита викрили на створенні дитячої порнографії](https://ua.korrespondent.net/city/odessa/4909037-odesyta-vykryly-na-stvorenni-dytiachoi-pornohrafii)<br>
@@ -26,6 +31,10 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 02:23 [У Брюсселі на головному вокзалі затримали чоловіка з автоматом](https://ua.korrespondent.net/world/4908844-u-bruisseli-na-holovnomu-vokzali-zatrymaly-cholovika-z-avtomatom)<br>
 
 ## as.com
+18:57 [España – Alemania, en directo: Mundial femenino en vivo hoy](https://as.com/baloncesto/mas_baloncesto/espana-alemania-en-directo-mundial-femenino-en-vivo-hoy-f202609-d/)<br>
+17:14 [La jugadora de 2,23 y más alta de la historia vs Estados Unidos en baloncesto: vean el resultado final...](https://as.com/baloncesto/videos/imperdible-asi-ha-sido-la-batalla-entre-la-mas-alta-de-la-historia-y-la-mejor-seleccion-del-mundo-en-todo-un-mundial-f202609-v/)<br>
+15:57 [La gigante fue Estados Unidos](https://as.com/baloncesto/mas_baloncesto/la-gigante-fue-estados-unidos-f202609-n/)<br>
+15:51 [El camino de España en el Mundial si se cumpliera el ‘ranking’ de la FIBA](https://as.com/baloncesto/mas_baloncesto/el-camino-de-espana-en-el-mundial-si-se-cumpliera-el-ranking-fiba-f202609-n/)<br>
 15:15 [Japón y Hayashi baten los récords de triples en un Mundial](https://as.com/baloncesto/mas_baloncesto/japon-bate-el-record-de-triples-en-un-mundial-f202609-n/)<br>
 14:21 [¿Puede España ganar a Caitlin Clark y su “Dream Team”?](https://as.com/baloncesto/videos/puede-espana-ganar-a-caitlin-clark-y-su-dream-team-f202609-v/)<br>
 14:08 [Curiosidades ocultas del Mundial femenino](https://as.com/baloncesto/mas_baloncesto/curiosidades-ocultas-del-mundial-femenino-f202609-n/)<br>
@@ -41,6 +50,16 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 
 ## www.elperiodico.com
 23:59 [Última hora del asesinato en Manresa, en directo: detenidos por la muerte de Carles Vilajosana, investigación del crimen y funeral de la víctima](https://www.elperiodico.com/es/sociedad/20260904/asesinato-manresa-carles-vilajosana-ultima-hora-directo-133941923)<br>
+18:47 [Tiempo en Catalunya mañana sábado: avisos por calor en Barcelona y el resto de la comunidad autónoma](https://www.elperiodico.com/es/tiempo/20260904/tiempo-cataluna-barcelona-sabado-5-de-septiembre-dv-loc-133961876)<br>
+18:30 [Aurelio Rojas, cardiólogo, revela los tres errores más comunes que pueden hacer que el Omega 3 pierda efectividad o incluso provoque efectos adversos](https://www.elperiodico.com/es/salud/20260904/aurelio-rojas-cardiologo-tres-errores-comunes-omega-3-pierde-efectividad-dv-et-133713232)<br>
+18:03 [Activada la alerta por calor intenso en Catalunya, que se alargará todo el fin de semana](https://www.elperiodico.com/es/tiempo/20260904/activada-alerta-calor-intenso-cataluna-temperaturas-meteocat-133961152)<br>
+17:48 [El juez declara nulo el juicio contra Lindsay Clancy tras el bloqueo del jurado](https://www.elperiodico.com/es/sociedad/20260904/juez-planea-declarar-nulo-juicio-lindsay-clancy-bloqueo-jurado-133961000)<br>
+17:38 [Ulises contra los Murdokus](https://www.elperiodico.com/es/opinion/20260904/ulises-murdokus-libros-verano-articulo-jordi-punti-133960679)<br>
+17:29 [Construyen un teleférico improvisado en Nepal para moverse tras la riada](https://www.elperiodico.com/es/videos/internacional/teleferico-improvisado-nepal-moverse-territorio-riada/133960583.shtml)<br>
+17:05 [Los científicos coinciden: pasar más de 2,5 horas al día en las redes sociales puede provocar este serio problema de salud](https://www.elperiodico.com/es/ser-feliz/20260904/redes-sociales-problemas-salud-mental-depresion-sueno-horas-movil-internet-ciencia-dv-133726512)<br>
+16:50 [Así es el Tesoro de Villena](https://www.elperiodico.com/es/videos/sociedad/tesoro-villena/133958266.shtml)<br>
+16:45 [Barcelona registra nuevo récord de temperatura máxima en septiembre: 34 grados según el Observatori Fabra](https://www.elperiodico.com/es/barcelona/20260904/barcelona-registra-nuevo-record-temperatura-133957632)<br>
+16:12 [Felipe VI, Letizia y la reina Sofía asistirán al funeral de Estado de Harald V al que no acudirá Juan Carlos I](https://www.elperiodico.com/es/politica/20260904/felipe-letizia-reina-sofia-funeral-estado-harald-133956723)<br>
 15:34 [Construyen en China dos ascensores bautizados como 'autobús escolar del cielo'](https://www.elperiodico.com/es/videos/internacional/china-ascensores-bautizados-autobus-escolar-cielo/133955720.shtml)<br>
 15:34 [Adrián de la Cruz, experto en supervivencia, muestra cómo transformar una lata de sardinas en un hornillo: "Mucha gente lleva mil cosas en el equipo, pero yo solo esto"](https://www.elperiodico.com/es/vida-y-estilo/20260904/adrian-experto-supervivencia-lata-sardinas-diferencia-dv-et-131251260)<br>
 15:29 [Marco Bermúdez, CEO a los 14 años: "No he dejado de hacer las cosas de un chaval de mi edad, pero yo, viniendo a estos eventos y emprendiendo, me lo paso muy bien"](https://www.elperiodico.com/es/economia/20260904/marco-bermudez-emprendedor-14-anos-creatividad-dv-et-131256297)<br>
