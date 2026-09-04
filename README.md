@@ -1,3 +1,21 @@
-# News for 2026-09-04 02:26
+# News for 2026-09-04 06:55
 
 Previous day: [2026-09-03](./data/2026-09-03.md)
+
+## ua.korrespondent.net
+05:29 [ЗМІ дізналися загальне число диверсій в Німеччині](https://ua.korrespondent.net/world/4908856-zmi-diznalysia-zahalne-chyslo-dyversii-v-nimechchyni)<br>
+03:38 [Українці рекордно наростили інвестиції в ОВДП](https://ua.korrespondent.net/ukraine/4908848-ukraintsi-rekordno-narostyly-investytsii-v-ovdp)<br>
+02:23 [У Брюсселі на головному вокзалі затримали чоловіка з автоматом](https://ua.korrespondent.net/world/4908844-u-bruisseli-na-holovnomu-vokzali-zatrymaly-cholovika-z-avtomatom)<br>
+
+## www.elperiodico.com
+06:00 [Manresa, crimen y mentira](https://www.elperiodico.com/es/opinion/20260904/crimen-manresa-mentira-articulo-gemma-martinez-133930659)<br>
+06:00 [La Carlos III pide a los profesores de Leonor "normalidad" en el trato y recuerda que no se pueden usar móviles en clase](https://www.elperiodico.com/es/politica/20260904/universidad-carlos-iii-profesores-leonor-normalidad-trato-133928675)<br>
+06:00 [Mundo de Hamacas, el santuario de artesanía latinoamericana creado por dos excooperantes en Barcelona](https://www.elperiodico.com/es/barcelona/20260904/mundo-hamacas-santuario-artesania-latinoamericana-excooperantes-133507914)<br>
+06:00 [La comunidad ceutí de Barcelona se vuelca con el Día de Ceuta en plena crisis migratoria](https://www.elperiodico.com/es/barcelona/20260904/ceuties-celebran-dia-ceuta-crisis-migratoria-133503884)<br>
+06:00 [Elisa, psicóloga clínica, sobre las falsas bajas por salud mental: "El paciente ha de cumplir con sus obligaciones"](https://www.elperiodico.com/es/ser-feliz/20260904/elisa-psicologa-clinica-falsas-bajas-133880399)<br>
+06:00 [Los vertidos de escombros persisten en Collserola pese a hundirse la afluencia por la peste porcina](https://www.elperiodico.com/es/barcelona/20260904/barcelona-collserola-peste-porcina-visitas-incendios-basura-133905374)<br>
+06:00 [Collserola se plantea cortar árboles y matorrales en tramos de Barcelona tras el peor incendio en 32 años](https://www.elperiodico.com/es/barcelona/20260904/barcelona-collserola-incendios-tala-arboles-matorrales-133886486)<br>
+06:00 [Así es la primera biografía sobre Leonor, con testimonios de Arturo Pérez Reverte, Josep Borrell y José Manuel García Margallo](https://www.elperiodico.com/es/vida-y-estilo/20260904/primera-biografia-leonor-testimonios-arturo-133914048)<br>
+06:00 [El regreso de la autora del fenómeno 'Panza de burro': "El diccionario de Canarismos es mi Biblia"](https://www.elperiodico.com/es/ocio-y-cultura/20260904/regreso-autora-fenomeno-panza-burro-133914357)<br>
+06:00 [Marc Miravitlles, neumólogo: "Nadie se atrevería a beber agua sucia, sin embargo cada día respiramos aire sucio"](https://www.elperiodico.com/es/sanidad/20260904/marc-miravitlles-neumologo-efectos-respirar-aire-sucio-enfermedades-respiratorias-congreso-medico-barcelona-133877931)<br>
+06:00 [Chatbots descontrolados, miedo y muchas exageraciones: ¿puede la IA realmente rebelarse contra los humanos?](https://www.elperiodico.com/es/tecnologia/20260904/chatbots-descontrolados-miedo-exageraciones-ia-ciberataque-openai-agentes-chatgpt-rebelion-inteligencia-artificial-133879846)<br>
