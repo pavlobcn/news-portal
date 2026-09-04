@@ -1,8 +1,11 @@
-# News for 2026-09-04 19:07
+# News for 2026-09-04 21:34
 
 Previous day: [2026-09-03](./data/2026-09-03.md)
 
 ## ua.korrespondent.net
+21:28 [У Вінниці група людей заблокувала авто ТЦК та напала на військового](https://ua.korrespondent.net/ukraine/4909150-u-vinnytsi-hrupa-luidei-zablokuvala-avto-ttsk-ta-napala-na-viiskovoho)<br>
+20:33 [У Києві зросла кількість поранених після атаки РФ](https://ua.korrespondent.net/city/kiev/4909140-u-kyievi-zrosla-kilkist-poranenykh-pislia-ataky-rf)<br>
+20:13 [На Полтавщині через атаку дронів постраждала трирічна дитина](https://ua.korrespondent.net/ukraine/4909136-na-poltavschyni-cherez-ataku-droniv-postrazhdala-tryrichna-dytyna)<br>
 16:51 [На Харківщині розслідують багаторічне ґвалтування дитини](https://ua.korrespondent.net/ukraine/4909091-na-kharkivschyni-rozsliduuit-bahatorichne-gvaltuvannia-dytyny)<br>
 16:32 [Світові ціни на зерно зросли до максимуму з 2024-го - ФАО](https://ua.korrespondent.net/business/financial/4909082-svitovi-tsiny-na-zerno-zrosly-do-maksymumu-z-2024-ho-fao)<br>
 16:10 [Російські видавці попросили державної підтримки після ударів по складах](https://ua.korrespondent.net/world/russia/4909075-rosiiski-vydavtsi-poprosyly-derzhavnoi-pidtrymky-pislia-udariv-po-skladakh)<br>
@@ -31,6 +34,9 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 02:23 [У Брюсселі на головному вокзалі затримали чоловіка з автоматом](https://ua.korrespondent.net/world/4908844-u-bruisseli-na-holovnomu-vokzali-zatrymaly-cholovika-z-avtomatom)<br>
 
 ## as.com
+20:08 [Miguel Méndez: “A Awa le viene todo de fábrica”](https://as.com/baloncesto/mas_baloncesto/miguel-mendez-a-awa-le-viene-todo-de-fabrica-f202609-n/)<br>
+20:02 [Evbuomwan empieza lesionado](https://as.com/baloncesto/mas_baloncesto/evbuomwan-empieza-lesionado-f202609-n/)<br>
+19:32 [Un estreno ilusionante](https://as.com/baloncesto/mas_baloncesto/un-estreno-ilusionante-f202609-n/)<br>
 18:57 [España – Alemania, en directo: Mundial femenino en vivo hoy](https://as.com/baloncesto/mas_baloncesto/espana-alemania-en-directo-mundial-femenino-en-vivo-hoy-f202609-d/)<br>
 17:14 [La jugadora de 2,23 y más alta de la historia vs Estados Unidos en baloncesto: vean el resultado final...](https://as.com/baloncesto/videos/imperdible-asi-ha-sido-la-batalla-entre-la-mas-alta-de-la-historia-y-la-mejor-seleccion-del-mundo-en-todo-un-mundial-f202609-v/)<br>
 15:57 [La gigante fue Estados Unidos](https://as.com/baloncesto/mas_baloncesto/la-gigante-fue-estados-unidos-f202609-n/)<br>
@@ -50,6 +56,13 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 
 ## www.elperiodico.com
 23:59 [Última hora del asesinato en Manresa, en directo: detenidos por la muerte de Carles Vilajosana, investigación del crimen y funeral de la víctima](https://www.elperiodico.com/es/sociedad/20260904/asesinato-manresa-carles-vilajosana-ultima-hora-directo-133941923)<br>
+21:12 [A prisión el hombre que clavó un arpón de pesca a un desconocido y lo ató a una barandilla en Granada](https://www.elperiodico.com/es/sucesos/20260904/prision-hombre-clavo-arpon-pesca-133967698)<br>
+21:04 [Prisión sin fianza para los padres del bebé encontrado muerto en Santa Bàrbara (Tarragona)](https://www.elperiodico.com/es/sociedad/20260904/prision-padres-bebe-encontrado-muerto-santa-barbara-133967529)<br>
+20:57 [Un hombre de 39 años muere en Igualada al caer de un tejado mientras realizaba trabajos de mantenimiento](https://www.elperiodico.com/es/sucesos/20260904/hombre-39-anos-muere-caer-tejado-mantenimiento-igualada-133967442)<br>
+20:56 [La ONU adopta una nueva cartografía mundial acorde con el tamaño real de los continentes](https://www.elperiodico.com/es/internacional/20260904/onu-adopta-nueva-cartografia-mundial-133967476)<br>
+20:46 [Los Mossos registran el domicilio de uno de los dos menores detenidos por la muerte de Carles Vilajosana, en Manresa](https://www.elperiodico.com/es/sociedad/20260904/mossos-registran-domicilio-menores-detenidos-muerte-manresa-133967139)<br>
+20:44 [España arranca arrasando a Alemania y confirmando su candidatura a las medallas](https://www.elperiodico.com/es/deportes/20260904/espana-alemania-mundial-133967174)<br>
+20:05 [Los expertos coinciden sobre las personas más inteligentes: son autocríticas, poco ordenadas, prefieren la soledad y disfrutan de los desafíos](https://www.elperiodico.com/es/ser-feliz/20260904/coeficiente-intelectual-alto-seis-habitos-signos-dv-131547106)<br>
 18:47 [Tiempo en Catalunya mañana sábado: avisos por calor en Barcelona y el resto de la comunidad autónoma](https://www.elperiodico.com/es/tiempo/20260904/tiempo-cataluna-barcelona-sabado-5-de-septiembre-dv-loc-133961876)<br>
 18:30 [Aurelio Rojas, cardiólogo, revela los tres errores más comunes que pueden hacer que el Omega 3 pierda efectividad o incluso provoque efectos adversos](https://www.elperiodico.com/es/salud/20260904/aurelio-rojas-cardiologo-tres-errores-comunes-omega-3-pierde-efectividad-dv-et-133713232)<br>
 18:03 [Activada la alerta por calor intenso en Catalunya, que se alargará todo el fin de semana](https://www.elperiodico.com/es/tiempo/20260904/activada-alerta-calor-intenso-cataluna-temperaturas-meteocat-133961152)<br>
@@ -94,6 +107,7 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 10:09 [Rescatan con vida a dos trabajadores de un túnel diez días después de la riada en Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-trabajadores-tunel-diez/133936851.shtml)<br>
 09:30 [Rescatan con vida a dos trabajadores diez días después de la gran riada de Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-trabajadores-diez-dias-nepal/133936915.shtml)<br>
 09:25 [Juan Trejo, en el videopódcast  del suplemento ABRIL: "Contar historias siempre va a ser político"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260904/juan-trejo-videopodcast-suplemento-abril-133826479)<br>
+08:00 [Nepal mantiene la búsqueda de desaparecidos tras rescatar a dos trabajadores con vida: “Mientras quede aliento, hay esperanza”](https://www.elperiodico.com/es/internacional/20260904/rescatan-trabajadores-tunel-nepal-aseguran-133935037)<br>
 08:00 [Cuatro excursiones por Catalunya donde remojarse](https://www.elperiodico.com/es/que-hacer/planes/20260904/cuatro-excursiones-catalunya-remojarse-barcelona-senderismo-133917274)<br>
 07:39 [OpenAI lanza Astra, un polémico modelo de IA que puede lanzar ciberataques "de todos los niveles de gravedad"](https://www.elperiodico.com/es/tecnologia/20260904/openai-lanza-astra-modelo-chatgpt-potente-autonomia-total-133930592)<br>
 07:30 [El Tinder de los juegos de mesa: para tirar ficha y hacer nuevos amigos](https://www.elperiodico.com/es/que-hacer/planes/20260904/tinder-juegos-mesa-rock-and-reroll-ligar-nuevos-amigos-133888372)<br>
