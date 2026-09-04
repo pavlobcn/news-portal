@@ -1,4 +1,4 @@
-# News for 2026-09-04 19:07
+# News for 2026-09-04 23:47
 
 Previous day: [2026-09-03](./data/2026-09-03.md)
 
@@ -31,6 +31,11 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 02:23 [У Брюсселі на головному вокзалі затримали чоловіка з автоматом](https://ua.korrespondent.net/world/4908844-u-bruisseli-na-holovnomu-vokzali-zatrymaly-cholovika-z-avtomatom)<br>
 
 ## as.com
+22:47 [María Conde: “Hay que darle una vuelta a los calendarios”](https://as.com/baloncesto/mas_baloncesto/maria-conde-hay-que-darle-una-vuelta-a-los-calendarios-f202609-n/)<br>
+22:34 [España vuelve más fuerte](https://as.com/opinion/espana-vuelve-mas-fuerte-f202609-n/)<br>
+20:08 [Miguel Méndez: “A Awa le viene todo de fábrica”](https://as.com/baloncesto/mas_baloncesto/miguel-mendez-a-awa-le-viene-todo-de-fabrica-f202609-n/)<br>
+20:02 [Evbuomwan empieza lesionado](https://as.com/baloncesto/mas_baloncesto/evbuomwan-empieza-lesionado-f202609-n/)<br>
+19:32 [Un estreno ilusionante](https://as.com/baloncesto/mas_baloncesto/un-estreno-ilusionante-f202609-n/)<br>
 18:57 [España – Alemania, en directo: Mundial femenino en vivo hoy](https://as.com/baloncesto/mas_baloncesto/espana-alemania-en-directo-mundial-femenino-en-vivo-hoy-f202609-d/)<br>
 17:14 [La jugadora de 2,23 y más alta de la historia vs Estados Unidos en baloncesto: vean el resultado final...](https://as.com/baloncesto/videos/imperdible-asi-ha-sido-la-batalla-entre-la-mas-alta-de-la-historia-y-la-mejor-seleccion-del-mundo-en-todo-un-mundial-f202609-v/)<br>
 15:57 [La gigante fue Estados Unidos](https://as.com/baloncesto/mas_baloncesto/la-gigante-fue-estados-unidos-f202609-n/)<br>
@@ -50,6 +55,15 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 
 ## www.elperiodico.com
 23:59 [Última hora del asesinato en Manresa, en directo: detenidos por la muerte de Carles Vilajosana, investigación del crimen y funeral de la víctima](https://www.elperiodico.com/es/sociedad/20260904/asesinato-manresa-carles-vilajosana-ultima-hora-directo-133941923)<br>
+22:46 [Catalunya pulveriza el récord de calor en septiembre: Vinebre registra 42,5 grados en la enésima jornada de temperaturas extremas](https://www.elperiodico.com/es/sociedad/20260904/catalunya-bate-record-historico-calor-vinebre-lleida-barcelona-133968006)<br>
+22:08 [La Guardia Civil apunta a una llama directa en el incendio de Las Peñas de Riglos y la Fiscalía descarta la imprudencia](https://www.elperiodico.com/es/sociedad/20260904/guardia-civil-apunta-llama-directa-incendio-penas-riglos-133969289)<br>
+21:45 [La culpa, el perdón y la redención de un criminal sexual, según Paul Schrader: "Hasta los vídeos de gatos son cine"](https://www.elperiodico.com/es/ocio-y-cultura/20260904/culpa-perdon-redencion-criminal-sexual-133961775)<br>
+21:12 [A prisión el hombre que clavó un arpón de pesca a un desconocido y lo ató a una barandilla en Granada](https://www.elperiodico.com/es/sucesos/20260904/prision-hombre-clavo-arpon-pesca-133967698)<br>
+21:04 [Prisión sin fianza para los padres del bebé encontrado muerto en Santa Bàrbara (Tarragona)](https://www.elperiodico.com/es/sociedad/20260904/prision-padres-bebe-encontrado-muerto-santa-barbara-133967529)<br>
+20:57 [Un hombre de 39 años muere en Igualada al caer de un tejado mientras realizaba trabajos de mantenimiento](https://www.elperiodico.com/es/sucesos/20260904/hombre-39-anos-muere-caer-tejado-mantenimiento-igualada-133967442)<br>
+20:56 [La ONU adopta una nueva cartografía mundial acorde con el tamaño real de los continentes](https://www.elperiodico.com/es/internacional/20260904/onu-adopta-nueva-cartografia-mundial-133967476)<br>
+20:44 [España arranca arrasando a Alemania y confirmando su candidatura a las medallas](https://www.elperiodico.com/es/deportes/20260904/espana-alemania-mundial-133967174)<br>
+20:05 [Los expertos coinciden sobre las personas más inteligentes: son autocríticas, poco ordenadas, prefieren la soledad y disfrutan de los desafíos](https://www.elperiodico.com/es/ser-feliz/20260904/coeficiente-intelectual-alto-seis-habitos-signos-dv-131547106)<br>
 18:47 [Tiempo en Catalunya mañana sábado: avisos por calor en Barcelona y el resto de la comunidad autónoma](https://www.elperiodico.com/es/tiempo/20260904/tiempo-cataluna-barcelona-sabado-5-de-septiembre-dv-loc-133961876)<br>
 18:30 [Aurelio Rojas, cardiólogo, revela los tres errores más comunes que pueden hacer que el Omega 3 pierda efectividad o incluso provoque efectos adversos](https://www.elperiodico.com/es/salud/20260904/aurelio-rojas-cardiologo-tres-errores-comunes-omega-3-pierde-efectividad-dv-et-133713232)<br>
 18:03 [Activada la alerta por calor intenso en Catalunya, que se alargará todo el fin de semana](https://www.elperiodico.com/es/tiempo/20260904/activada-alerta-calor-intenso-cataluna-temperaturas-meteocat-133961152)<br>
@@ -94,6 +108,7 @@ Previous day: [2026-09-03](./data/2026-09-03.md)
 10:09 [Rescatan con vida a dos trabajadores de un túnel diez días después de la riada en Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-trabajadores-tunel-diez/133936851.shtml)<br>
 09:30 [Rescatan con vida a dos trabajadores diez días después de la gran riada de Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vida-trabajadores-diez-dias-nepal/133936915.shtml)<br>
 09:25 [Juan Trejo, en el videopódcast  del suplemento ABRIL: "Contar historias siempre va a ser político"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260904/juan-trejo-videopodcast-suplemento-abril-133826479)<br>
+08:00 [Nepal mantiene la búsqueda de desaparecidos tras rescatar a dos trabajadores con vida: “Mientras quede aliento, hay esperanza”](https://www.elperiodico.com/es/internacional/20260904/rescatan-trabajadores-tunel-nepal-aseguran-133935037)<br>
 08:00 [Cuatro excursiones por Catalunya donde remojarse](https://www.elperiodico.com/es/que-hacer/planes/20260904/cuatro-excursiones-catalunya-remojarse-barcelona-senderismo-133917274)<br>
 07:39 [OpenAI lanza Astra, un polémico modelo de IA que puede lanzar ciberataques "de todos los niveles de gravedad"](https://www.elperiodico.com/es/tecnologia/20260904/openai-lanza-astra-modelo-chatgpt-potente-autonomia-total-133930592)<br>
 07:30 [El Tinder de los juegos de mesa: para tirar ficha y hacer nuevos amigos](https://www.elperiodico.com/es/que-hacer/planes/20260904/tinder-juegos-mesa-rock-and-reroll-ligar-nuevos-amigos-133888372)<br>
