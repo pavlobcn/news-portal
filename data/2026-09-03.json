@@ -1,5 +1,41 @@
 [
   {
+    "title": "Вечірня атака РФ на Київ: число потерпілих зросло",
+    "link": "https://ua.korrespondent.net/city/kiev/4908833-vechirnia-ataka-rf-na-kyiv-chyslo-poterpilykh-zroslo",
+    "pubDate": "2026-09-03 23:53:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550408.jpg\">Шість потерпілих, зокрема й одна дитина, нині перебувають в стаціонарах міських лікарень, повідомила київська влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Уряд анонсував застосунок про рух шахедів і ракет",
+    "link": "https://ua.korrespondent.net/ukraine/4908830-uriad-anonsuvav-zastosunok-pro-rukh-shakhediv-i-raket",
+    "pubDate": "2026-09-03 23:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550390.jpg\">Новий застосунок стане окремим продуктом на базі вже наявної Дії, повідомив прем'єр-міністр України Сергій Корецький.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Трамп вимагатиме в ЄС кошти за допомогу Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4908824-tramp-vymahatyme-v-yes-koshty-za-dopomohu-ukraini",
+    "pubDate": "2026-09-03 22:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550367.jpg\">Адміністрація Байдена нібито безплатно передала Києву багато боєприпасів, стверджує американський лідер.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Арешт судна в Норвегії. Як Нафтогаз наздоганяє РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4908832-aresht-sudna-v-norvehii-yak-naftohaz-nazdohaniaie-rf",
+    "pubDate": "2026-09-03 22:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550426.jpg\">Нафтогаз із 2016 року веде судову тяганину з Росією, домагаючись компенсації за експропріацію своєї власності в Криму.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Mueren dos personas al estrellarse una avioneta en Florida",
     "link": "https://www.elperiodico.com/es/internacional/20260903/mueren-personas-estrellarse-avioneta-florida-133930284",
     "pubDate": "2026-09-03 22:46:55",
@@ -36,6 +72,24 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Міністри оборони України й Італії провели першу відеозустріч",
+    "link": "https://ua.korrespondent.net/world/worldabus/4908820-ministry-oborony-ukrainy-y-italii-provely-pershu-videozustrich",
+    "pubDate": "2026-09-03 22:36:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550348.jpg\">Сторони \"докладно й ґрунтовно обговорили основні питання та останні події на місцях\", запевнили в Міноборони Італії.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Повені і спека. Нові стихійні лиха в світі",
+    "link": "https://ua.korrespondent.net/world/4908825-poveni-i-speka-novi-stykhiini-lykha-v-sviti",
+    "pubDate": "2026-09-03 22:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550386.jpg\">Ель-Ніньйо — циклічне природне явище, пов'язане зі зміною напрямку вітру в Тихому океані, що веде до підвищення температури повітря в усьому світі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Resultados de la Primitiva del jueves 3 de septiembre de 2026",
     "link": "https://www.elperiodico.com/es/sociedad/20260903/resultados-primitiva-jueves-3-septiembre-133929732",
     "pubDate": "2026-09-03 22:03:09",
@@ -43,6 +97,15 @@
     "description": "<h2>Consulta la combinación ganadora, el número complementario y el reintegro, así como el Joker</h2>",
     "topic": "лотереї",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-03 21:59:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Кабмін затвердив нові правила під час атак РФ",
@@ -196,6 +259,15 @@
     "description": "<h2>La asesora del Gobierno polaco valora, en una entrevista con EL PERIÓDICO, las últimas agresiones híbridas del Kremlin contra Europa y advierte de la posibilidad de \"graves provocaciones\" que pongan a prueba la solidaridad de los aliados</h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Вечірня атака РФ на Київ: що відомо про наслідки",
+    "link": "https://ua.korrespondent.net/kyiv/4908799-vechirnia-ataka-rf-na-kyiv-scho-vidomo-pro-naslidky",
+    "pubDate": "2026-09-03 20:51:00",
+    "category": "Київ новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4550228.jpg\">Атака на Київ не припиняється. Наразі повідомлялося про одинадцятьох постраждалих людей у столиці.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "El Gobierno de Ceuta se personará como acusación particular en la causa de la Audiencia Nacional sobre la entrada masiva de migrantes",
@@ -747,6 +819,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-03 16:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Los ciclos de la vida",
     "link": "https://www.elperiodico.com/es/opinion/20260903/ciclos-vida-articulo-juan-tallon-133919700",
     "pubDate": "2026-09-03 16:51:09",
@@ -754,6 +835,15 @@
     "description": "<h2>La misión de la nostalgia es reasignar interés a las cosas que carecen de él</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-09-03 16:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "13 líneas catalanas de bus interurbano mejoran frecuencias: el trayecto Barcelona-Cerdanyola ganará 60 viajes a partir de septiembre",
