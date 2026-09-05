@@ -1,3 +1,21 @@
-# News for 2026-09-05 03:19
+# News for 2026-09-05 07:54
 
 Previous day: [2026-09-04](./data/2026-09-04.md)
+
+## ua.korrespondent.net
+07:24 [Сезон ураганів в Атлантиці став "найтихішим" за 85 років](https://ua.korrespondent.net/world/4909202-sezon-urahaniv-v-atlantytsi-stav-naitykhishym-za-85-rokiv)<br>
+01:19 [У Києві чоловік на вулиці підірвав боєприпас](https://ua.korrespondent.net/city/kiev/4909174-u-kyievi-cholovik-na-vulytsi-pidirvav-boieprypas)<br>
+
+## as.com
+06:48 [El Madrid estrena a sus fichajes](https://as.com/baloncesto/acb/el-madrid-estrena-a-sus-fichajes-f202609-n/)<br>
+
+## www.elperiodico.com
+07:50 [Flaminio, el hombre que fue expulsado de casa y lleva 47 años aislado en la montaña: "No sé nada. No sé cómo va el mundo ni cómo deja de ir"](https://www.elperiodico.com/es/economia/20260905/hombre-expulsado-casa-aislado-montana-soledad-ovejas-vida-primitiva-flaminio-dv-et-133743989)<br>
+07:01 [La violencia de los adolescentes](https://www.elperiodico.com/es/opinion/20260905/violencia-adolescentes-133966865)<br>
+07:00 [El aura, antes de ‘farmearse’, en el cine](https://www.elperiodico.com/es/ocio-y-cultura/20260905/aura-farmearse-cine-133945236)<br>
+06:59 [Esther Amaro, óptica: "Vamos hacia un mundo más miope"](https://www.elperiodico.com/es/sociedad/20260905/esther-amaro-optica-mundo-miope-133868324)<br>
+06:00 [La Marina de Empresas de Juan Roig crece con 25 millones de inversión](https://www.elperiodico.com/es/economia/20260905/marina-empresas-juan-roig-crece-133972854)<br>
+04:50 [Gustavo Faverón, el hacedor de historias](https://www.elperiodico.com/es/ocio-y-cultura/20260905/gustavo-faveron-hacedor-historias-133816623)<br>
+04:50 [Julia Navarro, escritora: "El pensamiento uniforme es una forma de censura"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260905/julia-navarro-nuevo-libro-entrevista-133730912)<br>
+04:50 [Digamos más veces que la IA es artificial](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260905/digamos-veces-ia-artificial-133867378)<br>
+04:50 [Ser hipocondriaco en tiempos de ChatGPT: "Se parece tanto a una consulta médica que resulta muy peligroso"](https://www.elperiodico.com/es/salud/20260905/hipocondriaco-tiempos-chatgpt-parece-consulta-medica-133972421)<br>
