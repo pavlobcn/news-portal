@@ -1,5 +1,104 @@
 [
   {
+    "title": "Muere un joven tras caer de una valla en el Día de los Gansos de Lekeitio (Bizkaia)",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/muere-joven-caer-valla-dia/133993964.shtml",
+    "pubDate": "2026-09-05 23:44:08",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія атакувала Запоріжжя протягом всього дня",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4909333-rosiia-atakuvala-zaporizhzhia-protiahom-vsoho-dnia",
+    "pubDate": "2026-09-05 23:35:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4552501.jpg\">Червоний рівень небезпеки по безпілотниках безперервно тривав у місті понад дві години, повідомила влада регіону.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 6 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260905/portada-periodico-6-septiembre-2026-133993787",
+    "pubDate": "2026-09-05 23:30:20",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'La ruleta de la suerte' vuelve al prime time con Jorge Fernández y Laura Moure: fecha de estreno confirmada",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260905/la-ruleta-de-suerte-noche-estreno-vuelve-prime-time-jorge-fernandez-laura-moure-antena-3-133993512",
+    "pubDate": "2026-09-05 23:22:44",
+    "category": "",
+    "description": "<h2>El concurso de Antena 3 regresa este sábado a la parrilla nocturna con una tercera temporada cargada de botes más altos y nuevos alicientes para los concursantes. </h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260905/laura-moure-presentadora-la-ruleta-suerte-da-luz-primera-hija-133984888\" target=\"_blank\"><strong>Laura Moure, presentadora de 'La ruleta de la suerte', da a luz a Zoe, su primera hija. </strong></a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aubameyang dispara al Deportivo en el debut de Casadó",
+    "link": "https://www.elperiodico.com/es/deportes/20260905/aubameyang-dispara-deportivo-debut-casado-133993514",
+    "pubDate": "2026-09-05 23:20:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El exazulgrana, de 37 años, marcó el tanto del triunfo gallego en el minuto 88 y suma cuatro goles en cuatro jornadas. El Villarreal sigue sin ganar.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 96
+  },
+  {
+    "title": "ЗМІ: Посланці Трампа говорили з Путіним три години",
+    "link": "https://ua.korrespondent.net/world/russia/4909329-zmi-poslantsi-trampa-hovoryly-z-putinym-try-hodyny",
+    "pubDate": "2026-09-05 22:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4552474.jpg\">Кортеж з американськими представниками покинув територію Кремля після 23:05, пишуть російські ЗМІ.",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Un avión que partió de Paraguay con destino a Madrid aterriza en Brasil por \"un problema técnico\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260905/avion-partio-paraguay-destino-madrid-133993084",
+    "pubDate": "2026-09-05 22:56:20",
+    "category": "",
+    "description": "<h2>Versiones periodísticas refirieron quejas de pasajeros por la supuesta presencia de garrapatas a bordo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça muestra su superioridad y golea al Sevilla (0-4)",
+    "link": "https://www.elperiodico.com/es/deportes/20260905/barca-muestra-superioridad-golea-sevilla-133993018",
+    "pubDate": "2026-09-05 22:55:33",
+    "category": "",
+    "description": "<h2 class=\"item\">El cuadro azulgrana sumó el segundo triunfo del campeonato con goles de Brugts, Claudia Pina, Torrejón y Vicky. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Barça agranda su hegemonía en la Supercopa Ibérica (39-34)",
+    "link": "https://www.elperiodico.com/es/deportes/20260905/barca-agranda-hegemonia-supercopa-iberica-133992798",
+    "pubDate": "2026-09-05 22:41:19",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo azulgrana, liderado por Dika Mem (8 goles), tumbó en la final al Sporting de Portugal en Vigo.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "El fiscal pide 32 años de prisión al acusado de matar a la mujer embarazada después de múltiples maltratos en Manresa",
+    "link": "https://www.elperiodico.com/es/sociedad/20260905/fiscal-pide-32-anos-prision-acusado-matar-mujer-embarazada-133992782",
+    "pubDate": "2026-09-05 22:40:06",
+    "category": "",
+    "description": "<h2>El imputado por el crimen machista presuntamente asfixió a la víctima, a quien había encerrado en una habitación durante dos días</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rego admite parte de responsabilidad del Gobierno en la situación de \"desborde\" de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260905/rego-admite-parte-responsabilidad-gobierno-133992862",
+    "pubDate": "2026-09-05 22:39:25",
+    "category": "",
+    "description": "<h2>Asegura que hay que hacer \"todo lo posible por reparar, por resolver y por atender a los ciudadanos y ciudadanas de Ceuta, y a las personas que están en una situación de vulnerabilidad y que en términos humanitarios requieren esa atención\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 92
+  },
+  {
     "title": "El Madrid hace una declaración de intenciones",
     "link": "https://as.com/baloncesto/acb/el-madrid-hace-una-declaracion-de-intenciones-f202609-n/",
     "pubDate": "2026-09-05 22:13:42",
@@ -135,6 +234,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Росіяни вдарили по центру Чугуєва, є загиблі",
+    "link": "https://ua.korrespondent.net/ukraine/4909304-rosiiany-vdaryly-po-tsentru-chuhuieva-ye-zahybli",
+    "pubDate": "2026-09-05 20:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4552357.jpg\">За уточненою інформацією, серед загиблих 19-річна дівчина, 11-річний хлопчик та 45-річний чоловік.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El Girona asalta al Sporting en Gijón (0-2)",
     "link": "https://www.elperiodico.com/es/deportes/20260905/girona-asalta-sporting-gijon-0-133989614",
     "pubDate": "2026-09-05 20:14:28",
@@ -160,6 +268,15 @@
     "description": "<h2>Unas 15.000 personas según los organizadores y unas 10.000 según la Policía, se dieron cita en un gesto multitudinario de defensa de la democracia, la diversidad y la solidaridad</h2>",
     "topic": "вибори",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Agotado en horas: así es el cepillo de dientes de Dyson que todos quieren (y sabemos cómo conseguirlo)",
+    "link": "https://www.elperiodico.com/es/shopping/20260905/dyson-cepillo-dientes-electrico-agotado-como-conseguirlo-133902587",
+    "pubDate": "2026-09-05 20:02:00",
+    "category": "",
+    "description": "<h2>El cepillo de dientes eléctrico de Dyson es el primero en el mundo con cámara e irrigador integrados y sus unidades han volado en muy poco tiempo</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 82
   },
   {
     "title": "El parón estival pasa factura a la competencia matemática de los alumnos: el 'efecto olvido' equivale a un mes de clase",
