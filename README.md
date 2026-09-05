@@ -1,8 +1,9 @@
-# News for 2026-09-05 20:15
+# News for 2026-09-05 22:30
 
 Previous day: [2026-09-04](./data/2026-09-04.md)
 
 ## ua.korrespondent.net
+21:58 [Франція змінить карту світу на реальніші пропорції](https://ua.korrespondent.net/world/4909319-frantsiia-zminyt-kartu-svitu-na-realnishi-proportsii)<br>
 19:59 [Пасажира American Airlines примотали скотчем до крісла після бійки на борту](https://ua.korrespondent.net/world/4909300-pasazhyra-American-Airlines-prymotaly-skotchem-do-krisla-pislia-biiky-na-bortu)<br>
 19:07 [ОВА показала наслідки обстрілу Хмельниччини](https://ua.korrespondent.net/ukraine/4909292-ova-pokazala-naslidky-obstrilu-khmelnychchyny)<br>
 18:24 [Росіяни вбили двох цивільних на Київщині](https://ua.korrespondent.net/ukraine/4909286-rosiiany-vbyly-dvokh-tsyvilnykh-na-kyivschyni)<br>
@@ -13,6 +14,7 @@ Previous day: [2026-09-04](./data/2026-09-04.md)
 01:19 [У Києві чоловік на вулиці підірвав боєприпас](https://ua.korrespondent.net/city/kiev/4909174-u-kyievi-cholovik-na-vulytsi-pidirvav-boieprypas)<br>
 
 ## as.com
+22:13 [El Madrid hace una declaración de intenciones](https://as.com/baloncesto/acb/el-madrid-hace-una-declaracion-de-intenciones-f202609-n/)<br>
 20:13 [Real Madrid – Baskonia, en directo: Amistoso de pretemporada en vivo hoy](https://as.com/baloncesto/acb/real-madrid-baskonia-en-directo-amistoso-de-pretemporada-en-vivo-hoy-f202609-d/)<br>
 19:51 [Alemania le complica las cuentas a España](https://as.com/baloncesto/mas_baloncesto/alemania-le-complica-las-cuentas-a-espana-f202609-n/)<br>
 14:19 [Iyana Martín: “Es un palo, pero volveremos más fuertes”](https://as.com/baloncesto/mas_baloncesto/iyana-martin-es-un-palo-pero-volveremos-mas-fuertes-f202609-n/)<br>
@@ -24,6 +26,10 @@ Previous day: [2026-09-04](./data/2026-09-04.md)
 06:48 [El Madrid estrena a sus fichajes](https://as.com/baloncesto/acb/el-madrid-estrena-a-sus-fichajes-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:10 [Jornada negra en las playas de Catalunya: tres personas ahogadas en las últimas 24 horas](https://www.elperiodico.com/es/sociedad/20260905/jornada-negra-playas-catalunya-tres-133992099)<br>
+21:43 [Un hombre de unos 40 años muere ahogado tras saltar de un ferry entre Cambrils y Salou](https://www.elperiodico.com/es/sociedad/20260905/hombre-40-anos-muere-ahogado-133991508)<br>
+21:14 [Zhang Ziyu, la 'Yao Ming' femenina de 2,23 metros que asombra en el Mundial de baloncesto](https://www.elperiodico.com/es/deportes/20260905/zhang-ziyu-yao-ming-femenina-133990137)<br>
+20:56 [Guía de balnearios del Imserso para la nueva temporada: lista de destinos y centros disponibles](https://www.elperiodico.com/es/economia/20260905/balnearios-imserso-guia-nueva-temporada-cataluna-dv-133990173)<br>
 20:00 [El parón estival pasa factura a la competencia matemática de los alumnos: el 'efecto olvido' equivale a un mes de clase](https://www.elperiodico.com/es/sociedad/20260905/largas-vacaciones-verano-afecta-competencia-matematica-133949780)<br>
 19:48 [Muere un joven tras caer de una valla en el Día de los Gansos de la localidad vizcaína de Lekeitio](https://www.elperiodico.com/es/sucesos/20260905/muere-joven-caer-valla-dia-133989694)<br>
 19:29 [Muere un hombre de 78 años mientras se bañaba en la playa de Lloret de Mar](https://www.elperiodico.com/es/sucesos/20260905/muere-banista-frances-lloret-de-mar-playa-78-anos-133988904)<br>
