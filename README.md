@@ -1,18 +1,34 @@
-# News for 2026-09-05 12:45
+# News for 2026-09-05 15:10
 
 Previous day: [2026-09-04](./data/2026-09-04.md)
 
 ## ua.korrespondent.net
+14:22 [У Німеччині біля підстанцій знайшли вибухівку](https://ua.korrespondent.net/world/4909241-u-nimechchyni-bilia-pidstantsii-znaishly-vybukhivku)<br>
 07:24 [Сезон ураганів в Атлантиці став "найтихішим" за 85 років](https://ua.korrespondent.net/world/4909202-sezon-urahaniv-v-atlantytsi-stav-naitykhishym-za-85-rokiv)<br>
 01:19 [У Києві чоловік на вулиці підірвав боєприпас](https://ua.korrespondent.net/city/kiev/4909174-u-kyievi-cholovik-na-vulytsi-pidirvav-boieprypas)<br>
 
 ## as.com
+14:19 [Iyana Martín: “Es un palo, pero volveremos más fuertes”](https://as.com/baloncesto/mas_baloncesto/iyana-martin-es-un-palo-pero-volveremos-mas-fuertes-f202609-n/)<br>
+13:41 [España, al límite: ¿qué tiene que hacer para quedar primera de grupo?](https://as.com/baloncesto/mas_baloncesto/espana-al-limite-que-tiene-que-hacer-para-quedar-primera-de-grupo-f202609-n/)<br>
+13:12 [España paga el cansancio](https://as.com/baloncesto/mas_baloncesto/espana-paga-el-cansancio-f202609-n/)<br>
 11:53 [La Selección toma Callao](https://as.com/baloncesto/mas_baloncesto/la-seleccion-toma-callao-f202609-n/)<br>
 11:42 [Mali - España, en directo: Mundial 2026, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/mali-espana-en-directo-mundial-femenino-2026-hoy-en-vivo-f202609-d/)<br>
 07:59 [Sika Koné, la MVP española juega en Mali](https://as.com/baloncesto/mas_baloncesto/sika-kone-la-mvp-espanola-juega-en-mali-f202609-n/)<br>
 06:48 [El Madrid estrena a sus fichajes](https://as.com/baloncesto/acb/el-madrid-estrena-a-sus-fichajes-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:00 [Nico, un joven que trabaja como barman en Dinamarca: "Con mi salario puedo vivir, ahorrar y viajar por el mundo"](https://www.elperiodico.com/es/economia/20260905/nico-joven-trabaja-barman-dinamarca-dinero-dv-et-133959690)<br>
+14:44 [Unió de Pagesos alerta de que las olas de calor han hecho bajar la producción de cítricos](https://www.elperiodico.com/es/economia/20260905/unio-pagesos-alerta-olas-calor-baja-produccion-citricos-133982868)<br>
+14:39 [Timekettle estrena en la IFA 2026 los auriculares traductores W4 Plus, con IA y captación por conducción ósea](https://www.elperiodico.com/es/tecnologia/20260905/timekettle-ifa-2026-auriculares-traduccion-133982700)<br>
+14:32 [La maestra del Bages que enseñó a leer a su abuelo (antes de entrar el Govern)](https://www.elperiodico.com/es/educacion/20260905/maestra-bages-enseno-leer-abuelo-133981891)<br>
+14:25 [Julia Navarro, escritora: "El pensamiento uniforme es una forma de censura"](https://www.elperiodico.com/es/videos/ocio-y-cultura/julia-navarro-escritora-pensamiento-uniforme/133982677.shtml)<br>
+14:04 [La jungla de preescolar: las infecciones que acechan en las aulas](https://www.elperiodico.com/es/videos/sociedad/jungla-preescolar-infecciones-acechan-aulas/133982022.shtml)<br>
+13:48 [La jungla de preescolar: las infecciones que acechan en las aulas](https://www.elperiodico.com/es/cuidamos-tu-salud/familia-e-infancia/20260905/jungla-preescolar-infecciones-acechan-aulas-133980581)<br>
+13:37 [El expiloto de MotoGP Toni Elías llora la muerte de Carles Vilajosana, la víctima del homicidio de Manresa: "Deja un vacío imposible de llenar"](https://www.elperiodico.com/es/gente/20260905/expiloto-motogp-toni-elias-llora-muerte-carles-vilajosana-crimen-manresa-133981366)<br>
+13:31 [«Qué fácil es deshumanizar la vida de alguien y tratarla con frivolidad»](https://www.elperiodico.com/es/sociedad/20260905/facil-deshumanizar-vida-alguien-tratarla-frivolidad-principios-basicos-periodismo-dv-et-133952599)<br>
+13:16 [Batacazo de España ante Mali que complica el camino hacia las medallas](https://www.elperiodico.com/es/deportes/20260905/espana-mali-mundial-baloncesto-femenino-133981040)<br>
+13:14 [Incendios hoy, 5 de septiembre, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260905/incendios-hoy-5-septiembre-cataluna-espana-mapa-fuegos-activos-dv-133980885)<br>
+13:03 [Bruce Campbell (68 años), actor de 'Spider-Man' y ‘Evil Dead’, revela que podrían quedarle 5 años de vida por un cáncer: "He decidido vivir con ello, no morir a causa de ello"](https://www.elperiodico.com/es/gente/20260905/bruce-campbell-actor-ash-williams-evil-dead-cancer-cinco-anos-vida-dv-et-133980166)<br>
 12:41 [El cerebro no va a la oscuridad al morir: un estudio redefine el proceso y abre nuevas vías médicas](https://www.elperiodico.com/es/tendencias21/20260905/cerebro-oscuridad-morir-estudio-redefine-125217363)<br>
 12:40 [Un incendio en Tordera ya estabilizado obliga a confinar dos urbanizaciones y a evacuar algunas casas](https://www.elperiodico.com/es/sociedad/20260905/incendio-tordera-estabilizado-obliga-confinar-urbanizaciones-133980006)<br>
 12:39 [Rescatan vivas a dos personas 11 días después de la riada en Nepal](https://www.elperiodico.com/es/videos/internacional/rescatan-vivas-personas-11-dias-riada-nepal/133980183.shtml)<br>
