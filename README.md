@@ -1,18 +1,24 @@
-# News for 2026-09-06 19:43
+# News for 2026-09-06 21:35
 
 Previous day: [2026-09-05](./data/2026-09-05.md)
 
 ## ua.korrespondent.net
+20:33 [Втрата роботи через війну: українці можуть подати на компенсацію](https://ua.korrespondent.net/ukraine/4909458-vtrata-roboty-cherez-viinu-ukraintsi-mozhut-podaty-na-kompensatsiui)<br>
+18:26 [Дніпропетровщина під вогнем: є загиблий та шестеро поранених](https://ua.korrespondent.net/city/dnepr/4909436-dnipropetrovschyna-pid-vohnem-ye-zahyblyi-ta-shestero-poranenykh)<br>
 17:48 [Повінь у Непалі: під завалами через 10 днів знайшли живою жінку](https://ua.korrespondent.net/world/4909432-povin-u-nepali-pid-zavalamy-cherez-10-dniv-znaishly-zhyvoui-zhinku)<br>
+16:55 [Свята 7 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4909424-sviata-7-veresnia-2026-roku-istoriia-tradytsii)<br>
 01:58 [У передмісті Харкова прогримів вибух - ЗМІ](https://ua.korrespondent.net/world/4909343-u-peredmisti-kharkova-prohrymiv-vybukh-zmi)<br>
 
 ## as.com
+20:55 [Miguel Méndez: “Las jóvenes tienen que aprender a bregar con todo”](https://as.com/baloncesto/mas_baloncesto/miguel-mendez-las-jovenes-tienen-que-aprender-a-bregar-con-todo-f202609-n/)<br>
 17:02 [Beverley: “Hay súper estrellas en la NBA que no lo serían en Europa”](https://as.com/baloncesto/euroliga/beverley-hay-super-estrellas-en-la-nba-que-no-lo-serian-en-europa-f202609-n/)<br>
 15:01 [El nuevo Barça pide cita con el sufrimiento](https://as.com/baloncesto/acb/el-nuevo-barca-pide-cita-con-el-sufrimiento-f202609-n/)<br>
 09:58 [Alarma en el Mundial: las jugadoras, desalojadas del hotel en plena noche](https://as.com/baloncesto/mas_baloncesto/alarma-en-el-mundial-las-jugadoras-desalojadas-del-hotel-en-plena-noche-f202609-n/)<br>
 09:38 [La nueva era del viejo Obradovic](https://as.com/baloncesto/euroliga/la-nueva-era-del-viejo-obradovic-f202609-n/)<br>
 
 ## www.elperiodico.com
+21:26 [Al menos 10 personas mueren por un accidente con pirotecnia en México](https://www.elperiodico.com/es/videos/internacional/10-personas-mueren-accidente-pirotecnia/134014113.shtml)<br>
+20:30 [Las mafias de la ruta argelina vuelven a recurrir a los taxis patera para desembarcar migrantes en Mallorca](https://www.elperiodico.com/es/sociedad/20260906/mafias-ruta-argelia-taxis-patera-vuelven-desembarcar-migrantes-mallorca-134013141)<br>
 19:40 [5 faltas de educación que también necesitan aprender los hijos, según la psicología](https://www.elperiodico.com/es/educacion/20260906/faltas-educacion-respeto-hijos-psicologia-javier-haro-dv-et-133872055)<br>
 19:35 [Hospitalizan a la reina Margarita de Dinamarca por una indisposición](https://www.elperiodico.com/es/internacional/20260906/hospitalizan-reina-margarita-dinamarca-indisposicion-134011680)<br>
 19:27 [Una montañera española de 72 años fallece tras sufrir una caída durante una ruta en los Pirineos franceses](https://www.elperiodico.com/es/sucesos/20260906/montanera-espanola-72-anos-fallece-134011547)<br>
