@@ -2160,6 +2160,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Catalunya refuerza la atención a la educación especial",
+    "link": "https://www.elperiodico.com/es/educacion/20260905/catalunya-refuerza-atencion-educacion-especial-bc-133916457",
+    "pubDate": "2026-09-05 05:30:19",
+    "category": "",
+    "description": "<h2>La Generalitat apuesta por un modelo más inclusivo con la incorporación de nuevos docentes, el aumento de plazas para estos alumnos, la limitación de las ratios y la ampliación del programa APPA</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Se impulsa un plan para aliviar la carga administrativa docente",
+    "link": "https://www.elperiodico.com/es/sociedad/20260905/impulsa-plan-aliviar-carga-administrativa-docente-bc-133917345",
+    "pubDate": "2026-09-05 05:30:19",
+    "category": "",
+    "description": "<h2>Con un presupuesto de 18 millones de euros, la Generalitat ha elaborado el Pla de Desburocratització con el objetivo de simplificar los procesos e incorporar nuevas tecnologías </h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Más recursos para el bienestar de los alumnos y el profesorado en este nuevo curso",
     "link": "https://www.elperiodico.com/es/educacion/20260905/recursos-bienestar-alumnos-profesorado-nuevo-bc-133917499",
     "pubDate": "2026-09-05 05:30:17",
@@ -2185,6 +2203,15 @@
     "description": "<h2>Este año, miles de estudiantes comenzarán el curso en centros nuevos, ampliados o reformados y la Generalitat mantiene el esfuerzo inversor para continuar con la mejora de la red pública</h2>",
     "topic": "політика",
     "topic_match_probability": 62
+  },
+  {
+    "title": "La mitad de los centros educativos contarán este curso con personal sanitario",
+    "link": "https://www.elperiodico.com/es/educacion/20260905/mitad-centros-educativos-contaran-curso-bc-133940628",
+    "pubDate": "2026-09-05 05:30:16",
+    "category": "",
+    "description": "<h2>Tras una prueba piloto, la Generalitat comenzará a desplegar la atención de profesionales de enfermería y cuidados auxiliares en las escuelas catalanas, hasta alcanzar su totalidad en el 2027/28</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
   },
   {
     "title": "У Кремлі не вірять в прогрес у мирних переговорах - ЗМІ",
