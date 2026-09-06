@@ -1,5 +1,122 @@
 [
   {
+    "title": "Marcos salva al Espanyol en un duelo con más polémica que fútbol",
+    "link": "https://www.elperiodico.com/es/deportes/20260906/marcos-salva-espanyol-duelo-polemica-134015897",
+    "pubDate": "2026-09-06 23:24:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Un gol afortunado del ariete en el minuto 98 evita la derrota del equipo perico, que jugó con uno más ante el Sevilla desde el minuto 55.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Лідер ультраправих Франції хоче, щооб Україна платила за допомогу Європи",
+    "link": "https://ua.korrespondent.net/world/4909477-lider-ultrapravykh-frantsii-khoche-schoob-ukraina-platyla-za-dopomohu-yevropy",
+    "pubDate": "2026-09-06 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4553498.jpg\">Жордан Барделла, якого вважають імовірним прем'єр-міністром у разі перемоги Марін Ле Пен на президентських виборах, заявив, що \"безвідповідально брати на себе видаткові зобов'язання та обіцяти фінансову підтримку іншій країні\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Антонеллі здобув перемогу на домашньому Гран-прі вперше за 60 років",
+    "link": "https://ua.korrespondent.net/sport/formula/4909449-antonelli-zdobuv-peremohu-na-domashnomu-hran-pri-vpershe-za-60-rokiv",
+    "pubDate": "2026-09-06 23:04:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4553356.jpg\">20-річний Андреа Кімі Антонеллі здійснив справжній подвиг на трасі, стартувавши аж із 19-ї позиції.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ультраправа AfD перемагає на виборах у Німеччині",
+    "link": "https://ua.korrespondent.net/world/4909475-ultraprava-AfD-peremahaie-na-vyborakh-u-nimechchyni",
+    "pubDate": "2026-09-06 22:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4553484.jpg\">Для партії Альтернатива для Німеччини цей результат став найкращим з моменту її заснування у 2013 році.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 7 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260906/portada-periodico-7-septiembre-2026-134015485",
+    "pubDate": "2026-09-06 22:45:05",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Italia, a solo un pasito de la proeza",
+    "link": "https://as.com/baloncesto/mas_baloncesto/italia-a-solo-un-pasito-de-la-proeza-f202609-n/",
+    "pubDate": "2026-09-06 22:43:01",
+    "category": "Baloncesto",
+    "description": "La selección trasalpina remontó 15 puntos y, en una actuación fabulosa, llegó por delante al minuto 35 y tuvo un triple para forzar la prórroga. Aviso muy serio para EE UU.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alcaraz activa el modo campeón para arrasar a Paul y plantarse en los cuartos del US Open",
+    "link": "https://www.elperiodico.com/es/deportes/20260906/alcaraz-activa-campeon-arrasar-paul-us-open-134015430",
+    "pubDate": "2026-09-06 22:41:34",
+    "category": "",
+    "description": "<h2>El murciano supera sin problemas al estadounidense con una exhibición de juego que lo hace ser ya el gran favorito al título (6-4, 6-3, 6-4)</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський озвучив плани \"А\" і \"Б\" для України",
+    "link": "https://ua.korrespondent.net/ukraine/4909473-zelenskyi-ozvuchyv-plany-a-i-b-dlia-ukrainy",
+    "pubDate": "2026-09-06 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4553483.jpeg\">Глава держави анонсував прогрес у питанні захисту від російських балістичних ударів, водночас основна надія покладається на дипломатію.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere el 'influencer' Igho Ubiribo tras someterse a una cirugía de alargamiento de pene en Tailandia",
+    "link": "https://www.elperiodico.com/es/gente/20260906/muere-influencer-igho-ubiribo-someterse-cirugia-pene-134014701",
+    "pubDate": "2026-09-06 22:23:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Las imágenes del fallecimiento han causado un gran impacto entre sus seguidores</h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Mostra revive el espíritu de Bertolucci y la carrera de Susan Sarandon",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260906/mostra-revive-espiritu-bertolucci-carrera-134009167",
+    "pubDate": "2026-09-06 22:15:11",
+    "category": "",
+    "description": "<h2 class=\"item\">La intérprete estadounidense se pone a las órdenes de Andrea Pallaoro en 'The Echo Chamber' </h2><h2 class=\"item\">El coreano Lee Chang-Dong rompe ocho años de silencio con 'Possible Love',  obra de complejidad y sofisticación excepcionales sobre los deseos prohibidos y los sueños perdidos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260906/susan-sarandon-denuncia-venecia-exclusion-134004897\">Susan Sarandon denuncia en Venecia su exclusión de proyectos por sus críticas a Israel</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Розвідка України попередила Європу про нові плани Росії проти НАТО",
+    "link": "https://ua.korrespondent.net/ukraine/4909471-rozvidka-ukrainy-poperedyla-yevropu-pro-novi-plany-rosii-proty-nato",
+    "pubDate": "2026-09-06 21:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4553456.jpg\">Українська розвідка попередила європейських партнерів про підготовку Росією нових провокацій проти країн НАТО та нарощування виробництва балістичних ракет.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ вдарила по цивільній інфраструктурі Сум",
+    "link": "https://ua.korrespondent.net/ukraine/4909469-rf-vdaryla-po-tsyvilnii-infrastrukturi-sum",
+    "pubDate": "2026-09-06 21:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4553434.jpg\">Російські війська ввечері 6 вересня атакували об’єкт цивільної інфраструктури у Сумах. Після удару спалахнула пожежа, яку рятувальники вже ліквідували.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un avión de carga de Amazon se estrella en el aeropuerto de Miami",
+    "link": "https://www.elperiodico.com/es/internacional/20260906/avion-carga-amazon-estrella-aeropuerto-134014362",
+    "pubDate": "2026-09-06 21:42:56",
+    "category": "",
+    "description": "<h2>El avión involucrado era un Boeing 767-300 que había despegado del Aeropuerto Internacional Luis Muñoz Marín de San Juan, en Puerto Rico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Las claves de un triunfo electoral de la ultraderecha más tóxica que humilla al centro de Merz",
     "link": "https://www.elperiodico.com/es/internacional/20260906/claves-triunfo-electoral-ultraderecha-toxica-alemania-134014179",
     "pubDate": "2026-09-06 21:34:13",
