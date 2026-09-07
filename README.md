@@ -1,8 +1,10 @@
-# News for 2026-09-07 19:51
+# News for 2026-09-07 22:51
 
 Previous day: [2026-09-06](./data/2026-09-06.md)
 
 ## ua.korrespondent.net
+20:05 [Україна знайшла дешевший спосіб знищувати російські Бандеролі](https://ua.korrespondent.net/ukraine/4909770-ukraina-znaishla-deshevshyi-sposib-znyschuvaty-rosiiski-banderoli)<br>
+19:54 [Росія атакувала склади і підприємство на Київщині](https://ua.korrespondent.net/ukraine/4909768-rosiia-atakuvala-sklady-i-pidpryiemstvo-na-kyivschyni)<br>
 19:34 [Десять людей загинули через вибух піротехніки на фестивалі в Мексиці](https://ua.korrespondent.net/world/4909763-desiat-luidei-zahynuly-cherez-vybukh-pirotekhniky-na-festyvali-v-meksytsi)<br>
 19:09 [Два Су-35С зіткнулися в небі над Курською областю - росЗМІ](https://ua.korrespondent.net/world/russia/4909752-dva-su-35s-zitknulysia-v-nebi-nad-kurskoui-oblastui-roszmi)<br>
 19:04 [Міжнародні резерви України впали на 5%](https://ua.korrespondent.net/business/economics/4909749-mizhnarodni-rezervy-ukrainy-vpaly-na-5)<br>
@@ -58,6 +60,8 @@ Previous day: [2026-09-06](./data/2026-09-06.md)
 02:51 [Трамп два дні поспіль змінив колір волосся](https://ua.korrespondent.net/world/4909486-tramp-dva-dni-pospil-zminyv-kolir-volossia)<br>
 
 ## as.com
+21:28 [Resumen del Japón - España, fase de grupos del Mundial de Baloncesto femenino](https://as.com/baloncesto/videos/resumen-del-japon-espana-fase-de-grupos-del-mundial-de-baloncesto-femenino-f202609-v/)<br>
+20:38 [Miguel Méndez: “Iyana y Awa son dos personas especiales”](https://as.com/baloncesto/mas_baloncesto/miguel-mendez-iyana-y-awa-son-dos-personas-especiales-f202609-n/)<br>
 19:44 [Japón - España, en directo: Mundial 2026, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/japon-espana-en-directo-mundial-femenino-2026-hoy-en-vivo-f202609-d/)<br>
 19:39 [España suda el primer puesto](https://as.com/baloncesto/mas_baloncesto/espana-suda-el-primer-puesto-f202609-n/)<br>
 14:35 [Thomas Walkup se sale con la suya](https://as.com/baloncesto/euroliga/thomas-walkup-se-sale-con-la-suya-f202609-n/)<br>
@@ -72,6 +76,12 @@ Previous day: [2026-09-06](./data/2026-09-06.md)
 07:27 [Sekulic deja atrás el ‘plan Doncic’](https://as.com/baloncesto/acb/sekulic-deja-atras-el-plan-doncic-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:21 [Catalunya activa la alerta del plan Inuncat por lluvias intensas el martes por la noche y el miércoles](https://www.elperiodico.com/es/tiempo/20260907/catalunya-activa-alerta-plan-inuncat-lluvia-tormenta-martes-miercoles-barcelona-134049228)<br>
+21:20 [El ensayo clínico de la vacuna gallega contra la tuberculosis marca un nuevo hito mundial al completar la vacunación de 7.100 niños en África](https://www.elperiodico.com/es/sociedad/20260907/ensayo-clinico-vacuna-gallega-tuberculosis-biofabri-134048398)<br>
+20:53 [BCE, subida de tipos o aguantar el tipo](https://www.elperiodico.com/es/opinion/20260907/bce-subida-tipos-o-aguantar-134047725)<br>
+20:50 [Aumentan a 14 los muertos tras el hundimiento del ferry frente a las costas de Chipre](https://www.elperiodico.com/es/internacional/20260907/aumentan-14-muertos-hundimiento-ferry-133941380)<br>
+20:29 [Francesc Cano asume la dirección de RAC1 en sustitución de Eulàlia Carbonell](https://www.elperiodico.com/es/tele/20260907/francesc-cano-asume-direccion-rac1-134046702)<br>
+20:03 [La factura de la electricidad registra precios negativos por primera vez en la historia](https://www.elperiodico.com/es/economia/20260907/factura-electricidad-registra-precios-negativos-primera-vez-historia-134046688)<br>
 19:43 [España gana a Japón, pasa líder y Estados Unidos se asoma en semifinales](https://www.elperiodico.com/es/deportes/20260907/espana-japon-mundial-2026-basket-femenino-134046065)<br>
 19:40 [Los Bombers trabajan en una fuga de hidrógeno de un camión en El Prat](https://www.elperiodico.com/es/barcelona/20260907/bombers-fuga-camion-bombonas-hidrogeno-prat-llobregat-barcelona-134045790)<br>
 19:39 [Los Mossos investigan el hallazgo de un cadáver en una acequia del canal de Amposta](https://www.elperiodico.com/es/sucesos/20260907/mossos-investigan-hallazgo-cadaver-acequia-amposta-134045810)<br>
