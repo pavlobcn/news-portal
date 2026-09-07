@@ -1,8 +1,12 @@
-# News for 2026-09-07 22:51
+# News for 2026-09-07 23:28
 
 Previous day: [2026-09-06](./data/2026-09-06.md)
 
 ## ua.korrespondent.net
+23:16 [У Харкові БПЛА влучив у багатоповерхівку](https://ua.korrespondent.net/city/kharkov/4909817-u-kharkovi-bpla-vluchyv-u-bahatopoverkhivku)<br>
+22:45 [Транспортний колапс у Києві: прем'єр дав доручення](https://ua.korrespondent.net/city/kiev/4909805-transportnyi-kolaps-u-kyievi-premier-dav-doruchennia)<br>
+21:11 [SpaceX вивела на орбіту ще 27 супутників Starlink](https://ua.korrespondent.net/tech/space/4909788-SpaceX-vyvela-na-orbitu-sche-27-suputnykiv-Starlink)<br>
+20:42 [Xiaomi представила широкий складаний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4909783-Xiaomi-predstavyla-shyrokyi-skladanyi-smartfon)<br>
 20:05 [Україна знайшла дешевший спосіб знищувати російські Бандеролі](https://ua.korrespondent.net/ukraine/4909770-ukraina-znaishla-deshevshyi-sposib-znyschuvaty-rosiiski-banderoli)<br>
 19:54 [Росія атакувала склади і підприємство на Київщині](https://ua.korrespondent.net/ukraine/4909768-rosiia-atakuvala-sklady-i-pidpryiemstvo-na-kyivschyni)<br>
 19:34 [Десять людей загинули через вибух піротехніки на фестивалі в Мексиці](https://ua.korrespondent.net/world/4909763-desiat-luidei-zahynuly-cherez-vybukh-pirotekhniky-na-festyvali-v-meksytsi)<br>
@@ -76,6 +80,7 @@ Previous day: [2026-09-06](./data/2026-09-06.md)
 07:27 [Sekulic deja atrás el ‘plan Doncic’](https://as.com/baloncesto/acb/sekulic-deja-atras-el-plan-doncic-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:03 [Detenidos los siete ocupantes de una patera interceptada en Murcia](https://www.elperiodico.com/es/sociedad/20260907/detenidos-siete-ocupantes-patera-interceptada-134049854)<br>
 22:21 [Catalunya activa la alerta del plan Inuncat por lluvias intensas el martes por la noche y el miércoles](https://www.elperiodico.com/es/tiempo/20260907/catalunya-activa-alerta-plan-inuncat-lluvia-tormenta-martes-miercoles-barcelona-134049228)<br>
 21:20 [El ensayo clínico de la vacuna gallega contra la tuberculosis marca un nuevo hito mundial al completar la vacunación de 7.100 niños en África](https://www.elperiodico.com/es/sociedad/20260907/ensayo-clinico-vacuna-gallega-tuberculosis-biofabri-134048398)<br>
 20:53 [BCE, subida de tipos o aguantar el tipo](https://www.elperiodico.com/es/opinion/20260907/bce-subida-tipos-o-aguantar-134047725)<br>

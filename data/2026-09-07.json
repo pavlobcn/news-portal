@@ -1,5 +1,41 @@
 [
   {
+    "title": "У Харкові БПЛА влучив у багатоповерхівку",
+    "link": "https://ua.korrespondent.net/city/kharkov/4909817-u-kharkovi-bpla-vluchyv-u-bahatopoverkhivku",
+    "pubDate": "2026-09-07 23:16:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554923.jpg\">Влучання сталося на рівні шостого поверху. Наразі відомо про одного постраждалого та пошкоджено скління вікон.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Detenidos los siete ocupantes de una patera interceptada en Murcia",
+    "link": "https://www.elperiodico.com/es/sociedad/20260907/detenidos-siete-ocupantes-patera-interceptada-134049854",
+    "pubDate": "2026-09-07 23:03:57",
+    "category": "",
+    "description": "<h2>La Guardia Civil localizó a los seis hombres y una mujer en la playa de Calabardina tras detectar una embarcación sospechosa frente al litoral aguileño</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "SailGP Valencia 2026: tecnología, velocidad y sostenibilidad con DS Automobiles como protagonista",
+    "link": "https://www.elperiodico.com/es/motor/20260907/sailgp-valencia-2026-tecnologia-velocidad-134049430",
+    "pubDate": "2026-09-07 23:03:57",
+    "category": "",
+    "description": "<h2>El circuito de vela más avanzado del mundo lleva a Valencia una competición en la que los datos, la innovación y la precisión de las tripulaciones resultan tan determinantes como el viento</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Транспортний колапс у Києві: прем'єр дав доручення",
+    "link": "https://ua.korrespondent.net/city/kiev/4909805-transportnyi-kolaps-u-kyievi-premier-dav-doruchennia",
+    "pubDate": "2026-09-07 22:45:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554861.jpg\">Сергій Корецький доручив негайно забезпечити належну роботу метрополітену. Він наголосив, що транспортна ситуація у Києві потребує швидкої реакції.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Catalunya activa la alerta del plan Inuncat por lluvias intensas el martes por la noche y el miércoles",
     "link": "https://www.elperiodico.com/es/tiempo/20260907/catalunya-activa-alerta-plan-inuncat-lluvia-tormenta-martes-miercoles-barcelona-134049228",
     "pubDate": "2026-09-07 22:21:50",
@@ -7,6 +43,15 @@
     "description": "<h2>Los chubascos pueden ir acompañados de tormentas, granizo y fuertes rachas de viento</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260907/cambio-tiempo-cataluna-bajan-temperaturas-aviso-lluvias-chubascos-134028491\" target=\"_blank\">Cambio de tiempo en Catalunya: caerán las temperaturas y se activan avisos por chubascos ante una \"perturbación repentina\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Дюбуа вирішив прискоритися у другому бою з Вордлі",
+    "link": "https://ua.korrespondent.net/sport/boks/4909809-duibua-vyrishyv-pryskorytysia-u-druhomu-boui-z-vordli",
+    "pubDate": "2026-09-07 22:20:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554860.jpg\">Володар титулу WBO у надважкій вазі Денієл Дюбуа вибудовує стратегію прискорення на реванш із Фабіо Вордлі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Генпрокурор Кравченко подав у відставку",
@@ -18,6 +63,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Фінляндія звела 200 км загороджень на кордоні з Росією",
+    "link": "https://ua.korrespondent.net/world/4909802-finliandiia-zvela-200-km-zahorodzhen-na-kordoni-z-rosiieui",
+    "pubDate": "2026-09-07 21:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554822.jpg\">Фінляндія завершила будівництво близько 200 км загороджень на кордоні з Росією. Проєкт вартістю €356 млн має посилити контроль за незаконними перетинами та міграційними ризиками.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Аномальна спека: у Франції очікують обвал виробництва вина",
     "link": "https://ua.korrespondent.net/business/4909798-anomalna-speka-u-frantsii-ochikuuit-obval-vyrobnytstva-vyna",
     "pubDate": "2026-09-07 21:44:00",
@@ -25,6 +79,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554818.jpg\">Сильна спека та посуха завдали серйозної шкоди виноградникам Франції. Якщо прогноз уряду справдиться, країна отримає найменший урожай вина з 1957 року.",
     "topic": "ресторани, їжа",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Трамп обговорив з Бернемом війну в Україні",
+    "link": "https://ua.korrespondent.net/world/4909794-tramp-obhovoryv-z-bernemom-viinu-v-ukraini",
+    "pubDate": "2026-09-07 21:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554797.jpg\">Президент США Дональд Трамп і прем’єр Британії Енді Бернем провели телефонну розмову. Однією з головних тем стало припинення війни Росії проти України.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Resumen del Japón - España, fase de grupos del Mundial de Baloncesto femenino",
@@ -43,6 +106,24 @@
     "description": "<h2 class=\"item\">Esteban Rodriguez, CEO de Biofabri, resalta: \"En 2008, los proyectos para desarrollar la vacuna de la tuberculosis eran 700 en el mundo. Hoy en día solo quedamos nosotros\"</h2><h2 class=\"item\">El ensayo clínico de fase 3 ha finalizado</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "SpaceX вивела на орбіту ще 27 супутників Starlink",
+    "link": "https://ua.korrespondent.net/tech/space/4909788-SpaceX-vyvela-na-orbitu-sche-27-suputnykiv-Starlink",
+    "pubDate": "2026-09-07 21:11:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554795.jpg\">SpaceX успішно запустила ракету Falcon 9 із 27 супутниками Starlink. Перший ступінь ракети здійснив уже 19-й політ і після запуску повернувся на безпілотну платформу в Тихому океані.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Довбик оцінив свій перший гол за команду Болоньї",
+    "link": "https://ua.korrespondent.net/sport/football/4909792-dovbyk-otsinyv-svii-pershyi-hol-za-komandu-boloni",
+    "pubDate": "2026-09-07 21:01:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554770.jpg\">Український нападник, який виступає за Болонью, забив свій перший гол за нову команду і розповів про свої відчуття.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 7 de septiembre",
@@ -99,6 +180,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Polestar показала концепт-кар, який визначить майбутній дизайн марки",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4909786-Polestar-pokazala-kontsept-kar-yakyi-vyznachyt-maibutnii-dyzain-marky",
+    "pubDate": "2026-09-07 20:52:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554796.jpg\">Новий концепт Formula 2030 шведського виробника електромобілів демонструє майбутню стилістику бренду та має передати спортивний характер наступних моделей.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Став відомий календар матчів збірної України з хокею на ЧС-2027",
+    "link": "https://ua.korrespondent.net/sport/hokey/4909787-stav-vidomyi-kalendar-matchiv-zbirnoi-ukrainy-z-khokeui-na-chs-2027",
+    "pubDate": "2026-09-07 20:51:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554719.jpg\">Національна команда України проведе свої матчі в елітному дивізіоні і почне свої виступи на турнірі 14 травня матчем зі збірною Швеції.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Aumentan a 14 los muertos tras el hundimiento del ferry frente a las costas de Chipre",
     "link": "https://www.elperiodico.com/es/internacional/20260907/aumentan-14-muertos-hundimiento-ferry-133941380",
     "pubDate": "2026-09-07 20:50:00",
@@ -108,6 +207,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Латвія готує 300% мита на зерно з РФ та Білорусі",
+    "link": "https://ua.korrespondent.net/business/economics/4909780-latviia-hotuie-300-myta-na-zerno-z-rf-ta-bilorusi",
+    "pubDate": "2026-09-07 20:50:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554765.jpg\">Латвія планує різко обмежити транзит зерна з Росії та Білорусі. Рига також хоче навчитися виявляти продукцію, яку Росія могла вивезти з окупованих територій України.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "La NFL en el Bernabéu acaba en los tribunales: vecinos demandan al Ayuntamiento por elevar los límites de ruido",
     "link": "https://www.elperiodico.com/es/deportes/20260907/nfl-bernabeu-acaba-tribunales-vecinos-demandan-ayuntamiento-limites-ruido-134047537",
     "pubDate": "2026-09-07 20:47:32",
@@ -115,6 +223,15 @@
     "description": "<h2>Una asociación vecinal lleva a los tribunales la autorización por el ruido, mientras Almeida defiende que el Ayuntamiento actuó correctamente</h2>",
     "topic": "спорт",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Xiaomi представила широкий складаний смартфон",
+    "link": "https://ua.korrespondent.net/lifestyle/gadgets/4909783-Xiaomi-predstavyla-shyrokyi-skladanyi-smartfon",
+    "pubDate": "2026-09-07 20:42:00",
+    "category": "Гаджети",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554768.jpg\">Нова розкладачка отримала широкий складаний екран, батарею на 6000 мА·год, камеру на 200 Мп і новий шарнір, який мінімізує складку.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Miguel Méndez: “Iyana y Awa son dos personas especiales”",
@@ -144,6 +261,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "У Фіорентіну прийде керувати колишній керманич команди",
+    "link": "https://ua.korrespondent.net/sport/football/4909773-u-fiorentinu-pryide-keruvaty-kolyshnii-kermanych-komandy",
+    "pubDate": "2026-09-07 20:18:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554715.jpg\">З огляду на непоказові виступи у флорентійському клубі вирішили змінити головного тренера.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Україна знайшла дешевший спосіб знищувати російські Бандеролі",
     "link": "https://ua.korrespondent.net/ukraine/4909770-ukraina-znaishla-deshevshyi-sposib-znyschuvaty-rosiiski-banderoli",
     "pubDate": "2026-09-07 20:05:00",
@@ -169,6 +295,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554717.jpg\">Унаслідок чергової атаки РФ на Київщину пошкоджена цивільна інфраструктура у двох районах області.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Гірн пояснив позицію Джошуа щодо бою у Великій Британії",
+    "link": "https://ua.korrespondent.net/sport/boks/4909766-hirn-poiasnyv-pozytsiui-dzhoshua-schodo-boui-u-velykii-brytanii",
+    "pubDate": "2026-09-07 19:47:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554694.jpg\">Британський промоутер передусім акцентує на тому, що будь-які прописані домовленості потребують виконання, у цьому разі це стосується домовленості про бій із Тайсоном Ф’юрі саме у Великій Британії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "La victoria de AfD en Sajonia pone en duda los cordones sanitarios a la ultraderecha: evita gobiernos pero aumenta el voto",
