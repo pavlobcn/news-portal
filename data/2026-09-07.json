@@ -1,5 +1,176 @@
 [
   {
+    "title": "Catalunya activa la alerta del plan Inuncat por lluvias intensas el martes por la noche y el miércoles",
+    "link": "https://www.elperiodico.com/es/tiempo/20260907/catalunya-activa-alerta-plan-inuncat-lluvia-tormenta-martes-miercoles-barcelona-134049228",
+    "pubDate": "2026-09-07 22:21:50",
+    "category": "",
+    "description": "<h2>Los chubascos pueden ir acompañados de tormentas, granizo y fuertes rachas de viento</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260907/cambio-tiempo-cataluna-bajan-temperaturas-aviso-lluvias-chubascos-134028491\" target=\"_blank\">Cambio de tiempo en Catalunya: caerán las temperaturas y se activan avisos por chubascos ante una \"perturbación repentina\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генпрокурор Кравченко подав у відставку",
+    "link": "https://ua.korrespondent.net/ukraine/4909810-henprokuror-kravchenko-podav-u-vidstavku",
+    "pubDate": "2026-09-07 22:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554882.jpg\">На тлі масштабного корупційного скандалу Руслан Кравченко написав заяву про відставку. При цьому він заявив, що його позиція щодо звинувачень залишається незмінною.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Аномальна спека: у Франції очікують обвал виробництва вина",
+    "link": "https://ua.korrespondent.net/business/4909798-anomalna-speka-u-frantsii-ochikuuit-obval-vyrobnytstva-vyna",
+    "pubDate": "2026-09-07 21:44:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554818.jpg\">Сильна спека та посуха завдали серйозної шкоди виноградникам Франції. Якщо прогноз уряду справдиться, країна отримає найменший урожай вина з 1957 року.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Resumen del Japón - España, fase de grupos del Mundial de Baloncesto femenino",
+    "link": "https://as.com/baloncesto/videos/resumen-del-japon-espana-fase-de-grupos-del-mundial-de-baloncesto-femenino-f202609-v/",
+    "pubDate": "2026-09-07 21:28:50",
+    "category": "España",
+    "description": "España vence a Japón y acaba líder de grupo. En cuartos, Australia o el perdedor del China-Italia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ensayo clínico de la vacuna gallega contra la tuberculosis marca un nuevo hito mundial al completar la vacunación de 7.100 niños en África",
+    "link": "https://www.elperiodico.com/es/sociedad/20260907/ensayo-clinico-vacuna-gallega-tuberculosis-biofabri-134048398",
+    "pubDate": "2026-09-07 21:20:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Esteban Rodriguez, CEO de Biofabri, resalta: \"En 2008, los proyectos para desarrollar la vacuna de la tuberculosis eran 700 en el mundo. Hoy en día solo quedamos nosotros\"</h2><h2 class=\"item\">El ensayo clínico de fase 3 ha finalizado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del lunes, 7 de septiembre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260907/primitiva-hoy-resultados-comprobar-numeros-7-septiembre-134047098",
+    "pubDate": "2026-09-07 21:00:45",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Putin frustra la negociación con Ucrania con su inmovilismo porque cree que está ganando la guerra",
+    "link": "https://www.elperiodico.com/es/internacional/20260907/putin-frustra-negociacion-ucrania-inmovilismo-134047875",
+    "pubDate": "2026-09-07 21:00:44",
+    "category": "",
+    "description": "<h2>Putin, convencido de que está ganando la guerra, reitera a los enviados especiales del presidente sus objetivos iniciales para negociar un alto el fuego, que Kiev y la UE equiparan a una rendición </h2><h2>Los analistas se preguntan por la veracidad y la fiabilidad de la información que le proporcionan los militares rusos, que le hacen tener una visión engañosa de la situación en el campo de batalla  </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, martes 8 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260907/horoscopo-hoy-martes-8-septiembre-dv-133870687",
+    "pubDate": "2026-09-07 21:00:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los seis errores más habituales al convertir el coche en una oficina móvil",
+    "link": "https://www.elperiodico.com/es/motor/20260907/seis-errores-habituales-convertir-coche-en-oficina-movil-134033901",
+    "pubDate": "2026-09-07 21:00:42",
+    "category": "",
+    "description": "<h2>Alquiber analiza los fallos de ergonomía, conectividad y energía que restan eficiencia al trabajar desde el vehículo y ofrece soluciones para evitarlos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España abre el Mundial sub-20 femenino con victoria ante Nigeria (2-0)",
+    "link": "https://www.elperiodico.com/es/deportes/20260907/espana-abre-mundial-sub-20-134047678",
+    "pubDate": "2026-09-07 20:56:15",
+    "category": "",
+    "description": "<h2 class=\"item\">Marisa y Alba Cerrato marcaron los tantos del combinado de David Aznar en su estreno en el torneo de Polonia. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "BCE, subida de tipos o aguantar el tipo",
+    "link": "https://www.elperiodico.com/es/opinion/20260907/bce-subida-tipos-o-aguantar-134047725",
+    "pubDate": "2026-09-07 20:53:02",
+    "category": "",
+    "description": "<h2>Los analistas prevén que los tipos de interés suban en Europa este jueves en 25 puntos básicos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Aumentan a 14 los muertos tras el hundimiento del ferry frente a las costas de Chipre",
+    "link": "https://www.elperiodico.com/es/internacional/20260907/aumentan-14-muertos-hundimiento-ferry-133941380",
+    "pubDate": "2026-09-07 20:50:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Ocho miembros de la tripulación, incluido el capitán del buque, fueron detenidos</h2><h2 class=\"item\">Otras 14 personas siguen desaparecidas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La NFL en el Bernabéu acaba en los tribunales: vecinos demandan al Ayuntamiento por elevar los límites de ruido",
+    "link": "https://www.elperiodico.com/es/deportes/20260907/nfl-bernabeu-acaba-tribunales-vecinos-demandan-ayuntamiento-limites-ruido-134047537",
+    "pubDate": "2026-09-07 20:47:32",
+    "category": "",
+    "description": "<h2>Una asociación vecinal lleva a los tribunales la autorización por el ruido, mientras Almeida defiende que el Ayuntamiento actuó correctamente</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Miguel Méndez: “Iyana y Awa son dos personas especiales”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/miguel-mendez-iyana-y-awa-son-dos-personas-especiales-f202609-n/",
+    "pubDate": "2026-09-07 20:38:02",
+    "category": "Baloncesto femenino",
+    "description": "El seleccionador cree que con esta victoria el equipo no da un paso al frente sino dos. “El equipo será mejor cada año que pase”.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Francesc Cano asume la dirección de RAC1 en sustitución de Eulàlia Carbonell",
+    "link": "https://www.elperiodico.com/es/tele/20260907/francesc-cano-asume-direccion-rac1-134046702",
+    "pubDate": "2026-09-07 20:29:37",
+    "category": "",
+    "description": "<h2 class=\"item\">La salida de Carbonell se produce apenas dos meses después de que los trabajadores de RAC1 y RAC105 llegaran a convocar una huelga que finalmente fue desconvocada en el último momento tras alcanzarse un acuerdo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна готує нові зустрічі щодо програми Freyja",
+    "link": "https://ua.korrespondent.net/ukraine/4909774-ukraina-hotuie-novi-zustrichi-schodo-prohramy-Freyja",
+    "pubDate": "2026-09-07 20:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554739.jpg\">Україна готує переговори з державами та компаніями, залученими до спільної антибалістичної програми Freyja. Паралельно Київ розвиває власні далекобійні спроможності.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Україна знайшла дешевший спосіб знищувати російські Бандеролі",
+    "link": "https://ua.korrespondent.net/ukraine/4909770-ukraina-znaishla-deshevshyi-sposib-znyschuvaty-rosiiski-banderoli",
+    "pubDate": "2026-09-07 20:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554718.jpg\">Українські військові вже використовують нові вітчизняні розробки для боротьби з російськими ракетами-дронами \"Бандероль\". Вартість їх застосування значно нижча за ціну ворожої зброї.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La factura de la electricidad registra precios negativos por primera vez en la historia",
+    "link": "https://www.elperiodico.com/es/economia/20260907/factura-electricidad-registra-precios-negativos-primera-vez-historia-134046688",
+    "pubDate": "2026-09-07 20:03:50",
+    "category": "",
+    "description": "<h2>El coste de la luz para ocho millones de consumidores fue inferior a cero euros durante nueve horas este fin de semana</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія атакувала склади і підприємство на Київщині",
+    "link": "https://ua.korrespondent.net/ukraine/4909768-rosiia-atakuvala-sklady-i-pidpryiemstvo-na-kyivschyni",
+    "pubDate": "2026-09-07 19:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554717.jpg\">Унаслідок чергової атаки РФ на Київщину пошкоджена цивільна інфраструктура у двох районах області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La victoria de AfD en Sajonia pone en duda los cordones sanitarios a la ultraderecha: evita gobiernos pero aumenta el voto",
     "link": "https://www.elperiodico.com/es/internacional/20260907/victoria-afd-sajonia-duda-cordon-sanitario-134046079",
     "pubDate": "2026-09-07 19:45:04",
