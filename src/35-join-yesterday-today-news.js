@@ -25,7 +25,7 @@ function readJsonArray(filePath) {
 }
 
 function getPubDateValue(item) {
-  const pubDate = item?.item?.pubDate;
+  const pubDate = item?.pubDate;
   return typeof pubDate === 'string' ? pubDate.trim() : '';
 }
 
