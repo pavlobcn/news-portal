@@ -1,4 +1,4 @@
-# News for 2026-09-08 08:02
+# News for 2026-09-08 08:31
 
 Previous day: [2026-09-07](./data/2026-09-07.md)
 
@@ -10,6 +10,12 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 07:04 [Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”](https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/)<br>
 
 ## www.elperiodico.com
+08:30 [Aurelio Rojas (36 años), cardiólogo: "Veo a muchos deportistas hablar de la vitamina I y eso, como médico, me preocupa"](https://www.elperiodico.com/es/salud/20260908/aurelio-rojas-cardiologo-advierte-ibuprofeno-antes-entreno-consecuencias-graves-dv-et-133911038)<br>
+08:17 [Los Mossos investigan un presunto secuestro a tiros en Gavà](https://www.elperiodico.com/es/sucesos/20260908/mossos-investigan-presunto-secuestro-tiros-gava-sabadell-134054271)<br>
+08:10 [Una española de 27 años lo deja todo para vivir en el campo junto a sus animales: "Este proyecto está destinado a ser lo más autosuficiente posible"](https://www.elperiodico.com/es/economia/20260908/espanola-27-anos-vivir-campo-animales-cosecha-huerto-autosuficiencia-dv-et-133848743)<br>
+08:10 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260908/ultima-hora-incendios-espana-directo-132759066)<br>
+08:07 [Prisión para un detenido en Benidorm por violar y asfixiar a su pareja mientras lo grababa](https://www.elperiodico.com/es/sucesos/20260908/prision-detenido-benidorm-violar-asfixiar-pareja-grababa-134054210)<br>
+08:00 [Luigi Mangione también ha tentado a Marc Jacobs, el rey de la moda de banquillo: el poder de seducción de los asesinos guapos](https://www.elperiodico.com/es/gente/20260908/marc-jacobs-luigi-mangione-moda-juicio-133798640)<br>
 07:55 [El barco que ha viajado desde Finlandia a España usando solo placas solares](https://www.elperiodico.com/es/medio-ambiente/20260908/barco-viajado-finlandia-espana-usando-134054041)<br>
 07:45 [Vuelta al cole, en directo: última hora de la huelga de profesores, regreso de los alumnos y próximos resultados PISA](https://www.elperiodico.com/es/sociedad/20260908/vuelta-colegio-profesores-ultima-hora-directo-133908416)<br>
 07:41 [Haakon VIII, 'Frozen' para adultos](https://www.elperiodico.com/es/opinion/20260908/haakon-viii-frozen-adultos-134052287)<br>
