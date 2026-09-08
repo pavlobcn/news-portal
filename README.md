@@ -1,14 +1,32 @@
-# News for 2026-09-08 17:09
+# News for 2026-09-08 20:41
 
 Previous day: [2026-09-07](./data/2026-09-07.md)
 
 ## ua.korrespondent.net
+20:37 [ПАР спростила отримання візи для українців: що змінилося](https://ua.korrespondent.net/world/4910134-par-sprostyla-otrymannia-vizy-dlia-ukraintsiv-scho-zminylosia)<br>
+20:18 [Страйк у Каталонії зірвав навчання для понад 1,6 млн школярів](https://ua.korrespondent.net/world/4910132-straik-u-katalonii-zirvav-navchannia-dlia-ponad-16-mln-shkoliariv)<br>
+19:59 [У Миколаєві та Херсоні стався масштабний блекаут: причини з’ясовують](https://ua.korrespondent.net/ukraine/4910129-u-mykolaievi-ta-khersoni-stavsia-masshtabnyi-blekaut-prychyny-ziasovuuit)<br>
+19:44 [РФ готує нову балістику дальністю до 800 км - ГУР](https://ua.korrespondent.net/ukraine/4910126-rf-hotuie-novu-balistyku-dalnistui-do-800-km-hur)<br>
+19:39 [Samsung представила новий бюджетний смартфон](https://ua.korrespondent.net/lifestyle/gadgets/4910122-Samsung-predstavyla-novyi-buidzhetnyi-smartfon)<br>
+19:26 [DeepState зафіксував просування РФ на Донеччині](https://ua.korrespondent.net/ukraine/4910115-DeepState-zafiksuvav-prosuvannia-rf-na-donechchyni)<br>
+19:11 [Атака РФ на Київщину: є загиблі та поранені](https://ua.korrespondent.net/ukraine/4910112-ataka-rf-na-kyivschynu-ye-zahybli-ta-poraneni)<br>
+19:00 [Киргизстан посилює міграційний контроль на тлі чуток про мобілізацію в РФ](https://ua.korrespondent.net/world/4910109-kyrhyzstan-posyluiie-mihratsiinyi-kontrol-na-tli-chutok-pro-mobilizatsiui-v-rf)<br>
+18:41 [Свята 9 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4910080-sviata-9-veresnia-2026-roku-istoriia-tradytsii)<br>
+18:41 [Після масованої атаки РФ у Києві виявили небезпечні уламки ракет](https://ua.korrespondent.net/kyiv/4910103-pislia-masovanoi-ataky-rf-u-kyievi-vyiavyly-nebezpechni-ulamky-raket)<br>
+18:38 [Союзники не зупиняють потік зброї для України - Рютте](https://ua.korrespondent.net/ukraine/4910100-souiznyky-ne-zupyniauit-potik-zbroi-dlia-ukrainy-ruitte)<br>
+18:27 [Замах на директора медцентру: військовому оголосили підозру](https://ua.korrespondent.net/city/kiev/4910098-zamakh-na-dyrektora-medtsentru-viiskovomu-oholosyly-pidozru)<br>
+17:51 [Ціни на "борщовий набір" у РФ злетіли на 20-40%](https://ua.korrespondent.net/world/russia/4910087-tsiny-na-borschovyi-nabir-u-rf-zletily-na-20-40)<br>
+17:39 [Офіційний курс долара завмер, євро дешевшає](https://ua.korrespondent.net/business/financial/4910085-ofitsiinyi-kurs-dolara-zavmer-yevro-deshevshaie)<br>
+17:11 [Україна закупить у ФРН кілька тисяч ракет IRIS-T](https://ua.korrespondent.net/ukraine/4910077-ukraina-zakupyt-u-frn-kilka-tysiach-raket-IRIS-T)<br>
 16:59 [ЄС змусив Google змінити пошук: що тепер побачать користувачі](https://ua.korrespondent.net/business/web/4910073-yes-zmusyv-Google-zminyty-poshuk-scho-teper-pobachat-korystuvachi)<br>
 16:35 [Корал проти балістики: Україна показала нову ракету ППО](https://ua.korrespondent.net/ukraine/4910062-koral-proty-balistyky-ukraina-pokazala-novu-raketu-ppo)<br>
 16:28 [Результати PISA-2025: відомо, чи погіршився рівень знань учнів в Україні](https://ua.korrespondent.net/ukraine/4910061-rezultaty-PISA-2025-vidomo-chy-pohirshyvsia-riven-znan-uchniv-v-ukraini)<br>
+16:24 [Атака РФ: у Києві фіксують нові влучання і жертви](https://ua.korrespondent.net/city/kiev/4910059-ataka-rf-u-kyievi-fiksuuit-novi-vluchannia-i-zhertvy)<br>
+16:00 [Німеччина терміново надасть Україні ракети PAC-2](https://ua.korrespondent.net/world/4910050-nimechchyna-terminovo-nadast-ukraini-rakety-PAC-2)<br>
 15:58 [У США розпочався суд над Huawei за звинуваченнями у шпигунстві](https://ua.korrespondent.net/business/companies/4910048-u-ssha-rozpochavsia-sud-nad-Huawei-za-zvynuvachenniamy-u-shpyhunstvi)<br>
 15:45 [Отримав 10 років тюрми: студент шпигував за аеродромами ЗСУ](https://ua.korrespondent.net/ukraine/4910037-otrymav-10-rokiv-tuirmy-student-shpyhuvav-za-aerodromamy-zsu)<br>
 15:36 [Конфіскований актив Дерипаски продадуть через аукціон](https://ua.korrespondent.net/ukraine/4910040-konfiskovanyi-aktyv-derypasky-prodadut-cherez-auktsion)<br>
+15:33 [ЄС схвалив €3,2 млрд для України на ракети Patriot](https://ua.korrespondent.net/world/4910039-yes-skhvalyv-32-mlrd-dlia-ukrainy-na-rakety-Patriot)<br>
 14:50 [У столичному університеті проводили масовий захід під час тривоги](https://ua.korrespondent.net/ukraine/4910022-u-stolychnomu-universyteti-provodyly-masovyi-zakhid-pid-chas-tryvohy)<br>
 14:41 [Дронова атака на Херсон: загинув чоловік, є поранені](https://ua.korrespondent.net/ukraine/4910016-dronova-ataka-na-kherson-zahynuv-cholovik-ye-poraneni)<br>
 14:23 [У Дніпрі подружжя обвинувачують у катуванні шістьох прийомних дітей](https://ua.korrespondent.net/ukraine/4910010-u-dnipri-podruzhzhia-obvynuvachuuit-u-katuvanni-shistokh-pryiomnykh-ditei)<br>
@@ -41,10 +59,31 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 04:15 [Соціологи з'ясували, скільки українців почуваються щасливими](https://ua.korrespondent.net/ukraine/4909836-sotsiolohy-ziasuvaly-skilky-ukraintsiv-pochuvauitsia-schaslyvymy)<br>
 
 ## as.com
+19:20 [Llull avisa antes del debut en la Supercopa: “Vamos a intentar ganarla”](https://as.com/baloncesto/euroliga/llull-avisa-antes-del-debut-en-la-supercopa-vamos-a-intentar-ganarla-f202609-n/)<br>
+18:04 [El Barça presenta a sus 11 fichajes: “Atletas con ganas de crecer”](https://as.com/baloncesto/acb/el-barca-presenta-a-sus-11-fichajes-atletas-con-ganas-de-crecer-f202609-n/)<br>
+12:34 [Vautier, tradición francesa en Bilbao](https://as.com/baloncesto/vautier-tradicion-francesa-en-bilbao-f202609-n/)<br>
 09:24 [Iyana y Awa aceleran el relevo de la Selección](https://as.com/baloncesto/mas_baloncesto/iyana-y-awa-aceleran-el-relevo-de-la-seleccion-f202609-n/)<br>
 07:04 [Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”](https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/)<br>
 
 ## www.elperiodico.com
+19:59 [Ana Ercoreca, inspectora de trabajo: "El trabajador tiene derecho a cobrar el tiempo que atiende a su empresa si está de vacaciones"](https://www.elperiodico.com/es/economia/20260908/ana-ercoreca-inspectora-trabajo-trabajador-derecho-cobrar-tiempo-atiende-empresa-vacaciones-dv-134082478)<br>
+19:48 [Investigan el apuñalamiento de una mujer encontrada por la noche en una partida rural de Valencia](https://www.elperiodico.com/es/sucesos/20260908/investigan-apunalamiento-mujer-encontrada-noche-134083502)<br>
+19:13 [Andrés Millán, abogado y asesor fiscal: "Un plan de pensiones es lo peor que puede heredar tu hijo después de una deuda"](https://www.elperiodico.com/es/economia/20260908/andres-millan-abogado-asesor-fiscal-plan-pensiones-heredar-hijo-impuestos-dv-134078438)<br>
+19:09 [Dos heridos graves en una explosión en una joyería de Cerdanyola del Vallès](https://www.elperiodico.com/es/barcelona/20260908/heridos-graves-explosion-joyeria-cerdanyola-valles-134082220)<br>
+19:00 [Javier Bardem y Penélope Cruz logran salir airosos de ‘Búnker’](https://www.elperiodico.com/es/ocio-y-cultura/20260908/javier-bardem-penelope-cruz-bunker-venecia-134079855)<br>
+19:00 [Javi, tras mudarse solo al campo: "Sé que lo que tengo aquí es paz, es tranquilidad y es un hogar"](https://www.elperiodico.com/es/sociedad/20260908/javi-23-anos-joven-vive-cabana-aislada-dv-et-133120119)<br>
+18:38 [Los Mossos detienen a dos menores más presuntamente relacionados con la muerte violenta de Carles Vilajosana](https://www.elperiodico.com/es/sociedad/20260908/detenidos-menores-16-anos-crimen-hombre-manresa-134080536)<br>
+18:30 [Más de 400 vuelos cancelados en Reino Unido por un fallo técnico en el control de tráfico aéreo](https://www.elperiodico.com/es/internacional/20260908/400-vuelos-cancelados-reino-unido-134080327)<br>
+18:22 [Tiempo en Catalunya mañana miércoles: avisos por lluvia intensa y clases canceladas en Barcelona](https://www.elperiodico.com/es/tiempo/20260908/tiempo-cataluna-manana-miercoles-9-de-septiembre-lluvia-barcelona-clases-canceladas-dv-loc-134076318)<br>
+17:56 [Tormenta perfecta en educación](https://www.elperiodico.com/es/opinion/20260908/tormenta-perfecta-educacion-pisa-editorial-134077840)<br>
+17:44 [Todos los gráficos que explican la debacle de PISA 2025](https://www.elperiodico.com/es/sociedad/20260908/resultados-informe-pisa-2025-134075669)<br>
+17:31 [Anish Kapoor, Umberto Eco y Dziga Vertov tomarán el Círculo de Bellas Artes para explicarnos el presente: una temporada contra el piloto automático](https://www.elperiodico.com/es/ocio-y-cultura/20260908/anish-kapoor-umberto-eco-dziga-vertov-circulo-bellas-artes-programacion-temporada-134076657)<br>
+17:24 [El refugio de Arturo Pérez-Reverte en Aragón: un pueblo deshabitado que le sirvió de inspiración en sus novelas](https://www.elperiodico.com/es/gente/20260908/refugio-arturo-perez-reverte-aragon-dv-134076359)<br>
+17:14 [A PIE DE CALLE | LA VUELA AL COLE](https://www.elperiodico.com/es/videos/sociedad/pie-calle-vuela-cole/134075659.shtml)<br>
+17:10 ["Septiembre siempre es duro": así viven las familias de Barcelona una vuelta al cole marcada por la huelga](https://www.elperiodico.com/es/sociedad/20260908/septiembre-duro-viven-familias-barcelona-vuelta-al-cole-huelga-134074269)<br>
+17:10 [La terapeuta de los Andic estudia acciones legales por el daño a su imagen](https://www.elperiodico.com/es/sociedad/20260908/terapeuta-isak-jonathan-andic-estudia-acciones-legales-dano-imagen-134064384)<br>
+17:09 [Javier Bardem y Penélope Cruz llegan para competir juntos con 'Búnker' en el festival de Cine de Venecia](https://www.elperiodico.com/es/videos/ocio-y-cultura/javier-bardem-penelope-cruz-competir-juntos-festival-cine-venecia/134075746.shtml)<br>
+17:07 [Creatina: qué es y cómo se toma el suplemento de moda para ganar fuerza y masa muscular](https://www.elperiodico.com/es/salud/20260908/creatina-suplemento-ganar-masa-muscular-121412139)<br>
 17:02 [Última hora de la alerta por lluvias y la cancelación de clases, en directo | Previsión del Meteocat y comarcas afectadas por el Inuncat](https://www.elperiodico.com/es/tiempo/20260908/alerta-lluvias-meteocat-cataluna-ultima-hora-directo-134075102)<br>
 17:01 [El relincho del centauro](https://www.elperiodico.com/es/opinion/20260908/relincho-centauro-arte-intolerancia-articulo-emma-riverola-134075168)<br>
 16:44 [Tarragona activará esta madrugada de miércoles la fase de alerta del plan por riesgo de inundaciones](https://www.elperiodico.com/es/tarragona/20260908/tarragona-activa-fase-alerta-riesgo-inundaciones-134074546)<br>
@@ -93,6 +132,7 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 10:19 [Los primeros grandes parques de baterías antiapagones de Catalunya serán una realidad en 2027](https://www.elperiodico.com/es/sociedad/20260908/primeros-grandes-parques-baterias-antiapagones-cataluna-134038616)<br>
 10:16 [Badalona exige a Rodalies reubicar un tren en pruebas por las "molestias" que causa a los vecinos](https://www.elperiodico.com/es/barcelona/20260908/badalona-exige-rodalies-reubicar-tren-pruebas-molestias-ruido-vecinos-134056426)<br>
 09:56 [Marius irá al funeral de Harald V con tobillera telemática: el tribunal prorroga el arresto domiciliario cuatro semanas más](https://www.elperiodico.com/es/gente/20260908/marius-borg-arresto-domiciliario-funeral-harald-v-tobillera-134055868)<br>
+09:51 [Trampantojos](https://www.elperiodico.com/es/opinion/20260908/trampantojos-134056585)<br>
 09:30 [La OCDE advierte en el informe PISA de un problema mundial de comprensión lectora: "Los estudiantes tienen problemas con textos de más de 400 palabras"](https://www.elperiodico.com/es/sociedad/20260908/pisa-alumnos-problemas-lectura-textos-complejos-134046076)<br>
 09:30 [España se hunde en el informe PISA: los alumnos pierden un curso lectivo en competencia lectora y casi otro en matemáticas](https://www.elperiodico.com/es/sociedad/20260908/pisa-desplome-rendimiento-estudiantes-espana-134043509)<br>
 09:30 [Tarragona acoge la 47ª Lliga Catalana ACB con seis equipos y la reciente ampliación del Palau d'Esports Catalunya](https://www.elperiodico.com/es/tarragona/20260908/tarragona-acoge-lliga-catalana-acb-basquet-palau-esports-134067604)<br>
