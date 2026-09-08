@@ -1,8 +1,21 @@
-# News for 2026-09-08 13:44
+# News for 2026-09-08 17:09
 
 Previous day: [2026-09-07](./data/2026-09-07.md)
 
 ## ua.korrespondent.net
+16:59 [ЄС змусив Google змінити пошук: що тепер побачать користувачі](https://ua.korrespondent.net/business/web/4910073-yes-zmusyv-Google-zminyty-poshuk-scho-teper-pobachat-korystuvachi)<br>
+16:35 [Корал проти балістики: Україна показала нову ракету ППО](https://ua.korrespondent.net/ukraine/4910062-koral-proty-balistyky-ukraina-pokazala-novu-raketu-ppo)<br>
+16:28 [Результати PISA-2025: відомо, чи погіршився рівень знань учнів в Україні](https://ua.korrespondent.net/ukraine/4910061-rezultaty-PISA-2025-vidomo-chy-pohirshyvsia-riven-znan-uchniv-v-ukraini)<br>
+15:58 [У США розпочався суд над Huawei за звинуваченнями у шпигунстві](https://ua.korrespondent.net/business/companies/4910048-u-ssha-rozpochavsia-sud-nad-Huawei-za-zvynuvachenniamy-u-shpyhunstvi)<br>
+15:45 [Отримав 10 років тюрми: студент шпигував за аеродромами ЗСУ](https://ua.korrespondent.net/ukraine/4910037-otrymav-10-rokiv-tuirmy-student-shpyhuvav-za-aerodromamy-zsu)<br>
+15:36 [Конфіскований актив Дерипаски продадуть через аукціон](https://ua.korrespondent.net/ukraine/4910040-konfiskovanyi-aktyv-derypasky-prodadut-cherez-auktsion)<br>
+14:50 [У столичному університеті проводили масовий захід під час тривоги](https://ua.korrespondent.net/ukraine/4910022-u-stolychnomu-universyteti-provodyly-masovyi-zakhid-pid-chas-tryvohy)<br>
+14:41 [Дронова атака на Херсон: загинув чоловік, є поранені](https://ua.korrespondent.net/ukraine/4910016-dronova-ataka-na-kherson-zahynuv-cholovik-ye-poraneni)<br>
+14:23 [У Дніпрі подружжя обвинувачують у катуванні шістьох прийомних дітей](https://ua.korrespondent.net/ukraine/4910010-u-dnipri-podruzhzhia-obvynuvachuuit-u-katuvanni-shistokh-pryiomnykh-ditei)<br>
+14:17 [Через удар Росії загинула провідниця потяга Дніпро-Запоріжжя](https://ua.korrespondent.net/ukraine/4910008-cherez-udar-rosii-zahynula-providnytsia-potiaha-dnipro-zaporizhzhia)<br>
+14:05 [Російські спецназівці загинули на Кавказі - соцмережі](https://ua.korrespondent.net/world/russia/4910002-rosiiski-spetsnazivtsi-zahynuly-na-kavkazi-sotsmerezhi)<br>
+13:59 [Реєстр збитків поповнили чотирма новими категоріями заяв](https://ua.korrespondent.net/ukraine/4909994-reiestr-zbytkiv-popovnyly-chotyrma-novymy-katehoriiamy-zaiav)<br>
+13:49 [Викрито контрабанду спирту на 97 млн](https://ua.korrespondent.net/ukraine/4909988-vykryto-kontrabandu-spyrtu-na-97-mln)<br>
 13:34 [У ДШВ заявили про зміну планів військ РФ на Олександрівському напрямку](https://ua.korrespondent.net/ukraine/4909984-u-dshv-zaiavyly-pro-zminu-planiv-viisk-rf-na-oleksandrivskomu-napriamku)<br>
 12:51 [Сили оборони уразили ціль в районі Донецька](https://ua.korrespondent.net/ukraine/4909964-syly-oborony-urazyly-tsil-v-raioni-donetska)<br>
 12:27 [В обмінних пунктах триває зростання курсу гривні](https://ua.korrespondent.net/business/financial/4909958-v-obminnykh-punktakh-tryvaie-zrostannia-kursu-hryvni)<br>
@@ -32,6 +45,25 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 07:04 [Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”](https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:02 [Última hora de la alerta por lluvias y la cancelación de clases, en directo | Previsión del Meteocat y comarcas afectadas por el Inuncat](https://www.elperiodico.com/es/tiempo/20260908/alerta-lluvias-meteocat-cataluna-ultima-hora-directo-134075102)<br>
+17:01 [El relincho del centauro](https://www.elperiodico.com/es/opinion/20260908/relincho-centauro-arte-intolerancia-articulo-emma-riverola-134075168)<br>
+16:44 [Tarragona activará esta madrugada de miércoles la fase de alerta del plan por riesgo de inundaciones](https://www.elperiodico.com/es/tarragona/20260908/tarragona-activa-fase-alerta-riesgo-inundaciones-134074546)<br>
+16:35 [La transformación de los envases](https://www.elperiodico.com/es/opinion/20260908/transformacion-envases-medio-ambiente-articulo-ester-oliveras-134073584)<br>
+16:33 [Un joven de 23 años mata a su padrastro con una mancuerna en Valencia](https://www.elperiodico.com/es/sucesos/20260908/joven-mata-padrastro-mancuerna-valencia-134074358)<br>
+16:29 [Muere la exjugadora de balonmano Silvia Ederra a los 43 años](https://www.elperiodico.com/es/deportes/20260908/muere-exjugadora-balonmano-silvia-ederra-134073778)<br>
+16:20 [Terapia con perros frente a la soledad: "Los ancianos necesitamos actividades porque estamos mucho tiempo encerrados"](https://www.elperiodico.com/es/sociedad/20260908/terapia-perros-soledad-no-deseada-residencias-134058217)<br>
+15:46 [Barcelona cede 30 pisos a entidades sociales para destinarlos a colectivos vulnerables](https://www.elperiodico.com/es/barcelona/20260908/barcelona-cede-30-pisos-entidades-134066121)<br>
+15:42 [Lamine sobre el Balón de Oro: "No creo que necesite hacer campaña. Estoy orgulloso de lo que he hecho"](https://www.elperiodico.com/es/videos/deportes/lamine-yamal-balon-oro/134072745.shtml)<br>
+15:21 [Guerra de Irán, en directo: Crece la inestabilidad en Oriente Medio](https://www.elperiodico.com/es/internacional/20260908/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
+15:17 [Así ha arrancado la vuelta al cole en Ceuta: policías y militares vigilan los centros](https://www.elperiodico.com/es/videos/politica/arrancado-vuelta-cole-ceuta-policias-militares-vigilan-centros/134072037.shtml)<br>
+15:08 [Javier Bardem y Penélope Cruz llegan a la Mostra con 'Búnker' y su crisis de pareja, el 'Eyes Wide Shut' de Florian Zeller](https://www.elperiodico.com/es/ocio-y-cultura/20260908/javier-bardem-penelope-cruz-llegan-134071362)<br>
+15:05 [Roger Casals, CEO de Wattium: "Sin baterías, será difícil que las renovables sean rentables"](https://www.elperiodico.com/es/sociedad/20260908/roger-casals-ceo-wattium-baterias-energias-renovables-rentables-134058297)<br>
+15:00 [La verdad sobre el vídeo del robot que patea a un cliente: ni IA fuera de control ni rebelión de las máquinas](https://www.elperiodico.com/es/tecnologia/20260908/robot-ataca-patadas-cliente-apagado-emergencia-rusia-dv-133941032)<br>
+14:32 [Paneque espera llegar a un acuerdo con los afectados del socavón del Putxet "para evitar que llegue al ámbito judicial"](https://www.elperiodico.com/es/barcelona/20260908/paneque-espera-llegar-acuerdo-afectados-socavon-putxet-evitar-ambito-judicial-134067108)<br>
+14:28 [Venecia estrena un documental de 4 horas sobre Elon Musk: "Necesitamos tener una legión de hijos antes de la Guerra Civil"](https://www.elperiodico.com/es/ocio-y-cultura/20260908/venecia-estrena-documental-4-horas-134069213)<br>
+14:19 [El rey Carlos III aclara en una carta el papel de Enrique y Meghan tras su regreso al Reino Unido](https://www.elperiodico.com/es/gente/20260908/carlos-iii-carta-enrique-meghan-papel-seguridad-reino-unido-134066721)<br>
+14:19 [La Síndica rechaza suspender salidas y colonias escolares: "No podemos reducir las oportunidades del alumnado"](https://www.elperiodico.com/es/sociedad/20260908/sindica-rechaza-suspender-salidas-colonias-escolares-catalunya-medida-protesta-134068296)<br>
+13:44 [Jessica Goicoechea sorprende con una nueva faceta artística en Ibiza: debuta como acróbata en Lío](https://www.elperiodico.com/es/gente/20260908/jessica-goicoechea-debuta-lio-ibiza-134067068)<br>
 13:41 [Los médicos barajan ir al paro indefinido a mediados de octubre: "No vamos a parar, estemos el tiempo que estemos"](https://www.elperiodico.com/es/sanidad/20260908/medicos-barajan-paro-indefinido-mediados-octubre-tiempo-estemos-134056179)<br>
 13:40 [Esta es la danza nupcial de los flamencos de la Puna (Argentina)](https://www.elperiodico.com/es/videos/sociedad/danza-nupcial-flamencos-puna-argentina/134067074.shtml)<br>
 13:40 [A la memoria de Tanit, un alma libre de Ibiza, por Pino Sagliocco](https://www.elperiodico.com/es/ocio-y-cultura/20260908/memoria-tanit-alma-libre-ibiza-134066962)<br>
@@ -62,6 +94,8 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 10:16 [Badalona exige a Rodalies reubicar un tren en pruebas por las "molestias" que causa a los vecinos](https://www.elperiodico.com/es/barcelona/20260908/badalona-exige-rodalies-reubicar-tren-pruebas-molestias-ruido-vecinos-134056426)<br>
 09:56 [Marius irá al funeral de Harald V con tobillera telemática: el tribunal prorroga el arresto domiciliario cuatro semanas más](https://www.elperiodico.com/es/gente/20260908/marius-borg-arresto-domiciliario-funeral-harald-v-tobillera-134055868)<br>
 09:30 [La OCDE advierte en el informe PISA de un problema mundial de comprensión lectora: "Los estudiantes tienen problemas con textos de más de 400 palabras"](https://www.elperiodico.com/es/sociedad/20260908/pisa-alumnos-problemas-lectura-textos-complejos-134046076)<br>
+09:30 [España se hunde en el informe PISA: los alumnos pierden un curso lectivo en competencia lectora y casi otro en matemáticas](https://www.elperiodico.com/es/sociedad/20260908/pisa-desplome-rendimiento-estudiantes-espana-134043509)<br>
+09:30 [Tarragona acoge la 47ª Lliga Catalana ACB con seis equipos y la reciente ampliación del Palau d'Esports Catalunya](https://www.elperiodico.com/es/tarragona/20260908/tarragona-acoge-lliga-catalana-acb-basquet-palau-esports-134067604)<br>
 09:00 [La española Bit2Me crea junto a un exmiembro de la UCO una empresa para ayudar a Policía y jueces a incautar criptomonedas](https://www.elperiodico.com/es/economia/20260908/bit2me-con-exmiembro-uco-empresa-ayudar-policia-jueces-incautar-criptomonedas-134033772)<br>
 09:00 [Carlos Jaramillo, médico: "Si yo como e inmediatamente salgo a caminar, mis células me van a pedir glucosa"](https://www.elperiodico.com/es/salud/20260908/carlos-jaramillo-medico-mas-eficiente-caminar-15-minutos-despues-comida-dv-et-133885408)<br>
 08:30 [Aurelio Rojas (36 años), cardiólogo: "Veo a muchos deportistas hablar de la vitamina I y eso, como médico, me preocupa"](https://www.elperiodico.com/es/salud/20260908/aurelio-rojas-cardiologo-advierte-ibuprofeno-antes-entreno-consecuencias-graves-dv-et-133911038)<br>
