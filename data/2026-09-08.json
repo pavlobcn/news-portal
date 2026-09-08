@@ -1,5 +1,437 @@
 [
   {
+    "title": "Crisis de Ceuta, última hora en directo: Albares viaja a Bruselas para verse con el comisario de Interior el mismo día que Vivas",
+    "link": "https://www.elperiodico.com/es/politica/20260908/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-09-08 07:58:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El barco que ha viajado desde Finlandia a España usando solo placas solares",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260908/barco-viajado-finlandia-espana-usando-134054041",
+    "pubDate": "2026-09-08 07:55:30",
+    "category": "",
+    "description": "<h2>El Helios 11 puede cubrir 72,4 kilómetros al día, lo que demuestra su viabilidad para determinados segmentos de embarcaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo: cortes de tráfico por la huelga de profesores y maestros",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260908/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-09-08 07:53:09",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vuelta al cole, en directo: última hora de la huelga de profesores, regreso de los alumnos y próximos resultados PISA",
+    "link": "https://www.elperiodico.com/es/sociedad/20260908/vuelta-colegio-profesores-ultima-hora-directo-133908416",
+    "pubDate": "2026-09-08 07:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260904/servicios-minimos-huelga-educativa-8-septiembre-133950696\" target=\"_blank\">Estos son los servicios mínimos para la huelga de docentes del 8 de septiembre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260906/cambios-sociales-desbordan-sistema-educativo-cataluna-cambio-paradigma-133864609\" target=\"_blank\">Los cambios sociales desbordan el sistema educativo: \"La escuela funciona con el imaginario de una sociedad que ya no existe\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Haakon VIII, 'Frozen' para adultos",
+    "link": "https://www.elperiodico.com/es/opinion/20260908/haakon-viii-frozen-adultos-134052287",
+    "pubDate": "2026-09-08 07:41:59",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Названо найактивніший напрямок фронту",
+    "link": "https://ua.korrespondent.net/ukraine/4909857-nazvano-naiaktyvnishyi-napriamok-frontu",
+    "pubDate": "2026-09-08 07:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555441.jpg\">Найбільш активним залишається Покровський напрямок. Там українські оборонці відбили 39 атак за добу.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Польща підняла бойову авіацію через атаку РФ",
+    "link": "https://ua.korrespondent.net/world/4909854-polscha-pidniala-boiovu-aviatsiui-cherez-ataku-rf",
+    "pubDate": "2026-09-08 07:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555422.jpg\">За два роки винищувачі НАТО піднімали по тривозі 700 разів через дії Росії, заявив голова Військового комітету Альянсу.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”",
+    "link": "https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/",
+    "pubDate": "2026-09-08 07:04:25",
+    "category": "Baloncesto",
+    "description": "El técnico vitoriano afronta una temporada muy ilusionante con un Efes totalmente renovado que quiere volver a ser uno de los importantes en la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya calcula ahorrar hasta 36 millones de euros al año con la nueva compra centralizada de productos y servicios",
+    "link": "https://www.elperiodico.com/es/economia/20260908/cataluna-ahorro-dinero-publico-compra-centralizada-productos-generalitat-134044904",
+    "pubDate": "2026-09-08 07:01:01",
+    "category": "",
+    "description": "<h2>La conselleria de Economia impulsa una reforma del reglamento de licitaciones para adquirir vehículos corporativos, material de oficina o contratos de reformas</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260728/ley-generalitat-directivos-publicos-meritocracia-reforma-administracion-132843196\">Catalunya impulsa una ley para que los directivos públicos se elijan por meritocracia y no por afinidad política</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Burgos existe (en la Vuelta)",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/burgos-existe-vuelta-tourmalet-sergi-lopez-egea-134044572",
+    "pubDate": "2026-09-08 07:01:00",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El secreto de Netflix",
+    "link": "https://www.elperiodico.com/es/tele/20260908/secreto-netflix-134041351",
+    "pubDate": "2026-09-08 07:00:56",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dentro de la casa culer de Anthony Gordon en Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260908/casa-culer-anthony-gordon-barcelona-casa-pin-bar-mitico-camp-nou-133986665",
+    "pubDate": "2026-09-08 07:00:56",
+    "category": "",
+    "description": "<h2>Enseguida se viralizó: “Antoni Gros és català”, prometía una pancarta en la puerta de Casa Pin. Anthony Gordon se ha convertido en el héroe de este mítico bar con solera en primera línea de Camp Nou</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260904/caballitos-mar-pelicula-frente-hotel-vela-barcelona-documental-133918079\" target=\"_blank\">Caballitos de mar de película frente al hotel Vela de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cambio de hora en España: el BOE confirma cuándo será el cambio al horario de invierno",
+    "link": "https://www.elperiodico.com/es/sociedad/20260908/cambio-hora-boe-confirma-fecha-invierno-espana-dv-134022324",
+    "pubDate": "2026-09-08 07:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La Unión Europea discute desde hace años la posibilidad de eliminar esta medida, pero todavía no existe un acuerdo definitivo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260420/encuesta-cis-cambio-de-hora-espana-129309089\">Encuesta CIS: El 65% de los españoles son partidarios de eliminar el cambio de hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alfonso Muñoz, funcionario de la Seguridad Social: “Sí creo que habrá pensiones públicas en 2040, 2050 y 2060”",
+    "link": "https://www.elperiodico.com/es/economia/20260908/alfonso-munoz-seguridad-social-habra-pensiones-publicas-2040-2050-2060-134029331",
+    "pubDate": "2026-09-08 07:00:52",
+    "category": "",
+    "description": "<h2>El divulgador analiza para EL PERIÓDICO el futuro de las pensiones y los errores más frecuentes al planificar la jubilación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lamborghini lleva su ADN al mundo de los bebés con un exclusivo cochecito de edición limitada",
+    "link": "https://www.elperiodico.com/es/motor/20260908/lamborghini-lleva-adn-mundo-bebes-133906870",
+    "pubDate": "2026-09-08 07:00:52",
+    "category": "",
+    "description": "<h2>Automobili Lamborghini y Silver Cross presentan Reef AL Giallo, un cochecito inspirado en el diseño y las prestaciones de los superdeportivos de la marca italiana, limitado a 500 unidades en todo el mundo</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Атака на Київ: відомо про двох загиблих",
+    "link": "https://ua.korrespondent.net/city/kiev/4909851-ataka-na-kyiv-vidomo-pro-dvokh-zahyblykh",
+    "pubDate": "2026-09-08 06:49:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555402.jpg\">Попередньо, відомо про руйнування та пожежі щонайменше у п'яти районах. Кількість поранених також зросла.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Última hora del tráfico y el transporte público en Catalunya, en directo: AP-7, rondas de Barcelona, Rodalies y metro",
+    "link": "https://www.elperiodico.com/es/barcelona/20260908/ultima-hora-trafico-transporte-publico-133938712",
+    "pubDate": "2026-09-08 06:40:00",
+    "category": "",
+    "description": "<h2>Sigue la situación de la movilidad en Barcelona y Catalunya, con el estado de las principales carreteras y del transporte público</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez busca contrarrestar la versión del PP sobre el papel de Rabat en Ceuta con la desclasificación de documentos",
+    "link": "https://www.elperiodico.com/es/politica/20260908/sanchez-contrarrestar-pp-ceuta-marruecos-134041352",
+    "pubDate": "2026-09-08 06:39:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El jefe del Ejecutivo sitúa como prioridad “esclarecer” las causas de la entrada masiva de migrantes y trata de demostrar que no hubo alertas previas de los servicios de inteligencia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генштаб підрахував втрати росіян на 8 вересня",
+    "link": "https://ua.korrespondent.net/ukraine/4909846-henshtab-pidrakhuvav-vtraty-rosiian-na-8-veresnia",
+    "pubDate": "2026-09-08 06:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555369.jpg\">Загальні втрати Російської Федерації протягом більш як чотирьох років війни склали 1 499 390 солдатів армії РФ.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Mourinho mete el dedo en el ojo a los árbitros, pero ¿tendrá respuesta?",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/mourinho-mete-dedo-ojo-arbitros-134049510",
+    "pubDate": "2026-09-08 06:17:22",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Nuevo Dacia Spring: ahora sí (y por un precio de derribo)",
+    "link": "https://www.elperiodico.com/es/motor/20260908/nuevo-dacia-spring-precio-gama-133925387",
+    "pubDate": "2026-09-08 06:05:46",
+    "category": "",
+    "description": "<h2>El primer y único eléctrico de la marca rumana gana mucha más presencia y tecnología en su segunda generación.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Leonor y los dos mundos paralelos de la universidad Carlos III: \"Dentro te olvidabas de todo\"",
+    "link": "https://www.elperiodico.com/es/politica/20260908/princesa-leonor-mundos-paralelos-universidad-carlos-olvidabas-todo-134051049",
+    "pubDate": "2026-09-08 06:01:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Lluís Orriols, que pasó la mañana trabajando en el mismo edificio que la Princesa de Asturias, relata el contraste entre el despliegue mediático exterior y la rutina de las aulas</h2><h2 class=\"item\">Otro profesor asegura que se logró el \"equilibrio entre la atención mediática lógica que genera\" la joven y que las clases funcionaran \"como siempre\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Champions llega con Mbappé de uñas y Mourinho susceptible",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/champions-llega-mbappe-mourinho-real-madrid-inter-134047220",
+    "pubDate": "2026-09-08 06:01:25",
+    "category": "",
+    "description": "<h2>Los blancos se estrenan ante el Inter en el Bernabéu mientras el técnico habla de árbitros y Kylian se revuelve ante la prensa: \"¿Solo yo y Vinícius tenemos que mejorar en defensa?\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ciutat Vella escala posiciones en el ránquing de los barrios más ricos de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/ciutat-vella-ranquing-barrios-ricos-134040812-rm/index.html",
+    "pubDate": "2026-09-08 06:01:24",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ciutat Vella escala posiciones en el ránquing de los barrios más ricos de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260908/ciutat-vella-escala-posiciones-ranquing-134047417",
+    "pubDate": "2026-09-08 06:01:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La jueza que investiga la entrada masiva en Ceuta admite como acusación a una asociación \"dirigida\" por cuatro perros y un gato",
+    "link": "https://www.elperiodico.com/es/politica/20260908/jueza-investigara-ceuta-acusacion-asociacion-perros-gatos-134046390",
+    "pubDate": "2026-09-08 06:01:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre las organizaciones y partidos que ejercerán la acción popular en la causa figura Zeolandia, cuya página web asegura que su junta directiva está formada por Chispito, Chocolatina, Ladri, Bimbi y Oruga</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260908/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Crisis de Ceuta, última hora en directo: Ceuta afronta \"con preocupación\" la vuelta a las aulas de más de 12.800 alumnos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La compra de Commerzbank deja a UniCredit una herencia rusa de pleitos, condenas y activos atrapados en Moscú",
+    "link": "https://www.elperiodico.com/es/economia/20260908/compra-commerzbank-deja-unicredit-herencia-134052296",
+    "pubDate": "2026-09-08 06:01:12",
+    "category": "",
+    "description": "<h2>La entidad italiana, que intenta reducir su propia presencia en Rusia, podría asumir una condena de 95 millones de euros y un edificio embargado por los tribunales rusos </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Red Eléctrica se agarra a las paradas de fábricas como ‘escudo’ de seguridad: ordena en dos meses tantas desconexiones como en los cuatro años anteriores",
+    "link": "https://www.elperiodico.com/es/economia/20260908/red-electrica-agarra-paradas-fabricas-escudo-seguridad-134043082",
+    "pubDate": "2026-09-08 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">El operador del sistema exprime al máximo el mecanismo que desconecta factorías de la gran industria para evitar desajustes por caídas imprevistas de producción. Desde mediados de julio lo ha activado en seis ocasiones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maica García, sobre la maternidad en el deporte de élite: \"Quien quiera ser madre debe poder serlo libremente cuando realmente crea que es su momento\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/maica-garcia-maternidad-deporte-elite-134041935",
+    "pubDate": "2026-09-08 06:01:05",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260907/maica-garcia-campeona-olimpica-sabadell-134026761\">ENTREVISTA COMPLETA | Maica García, la campeona olímpica a la que el Sabadell ha descartado tras ser madre: \"Es muy doloroso. Con mi embarazo, mi contrato debía prorrogarse. La ley hay que cumplirla\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260907/ley-cumplido-caso-waterpolista-maica-134030759\">¿Cuál es la ley que no se ha cumplido en el caso de la waterpolista Maica García?</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los ingresos por viviendas e inversiones agrandan las diferencias de rentas entre barrios de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260908/barcelona-renta-barrios-diferencias-viviendas-alquiler-inversiones-134000334",
+    "pubDate": "2026-09-08 06:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento atribuye el aumento de la desigualdad en la ciudad al incremento de los beneficios procedentes de alquileres, acciones y negocios tras la pandemia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Benedikt Amann, psiquiatra: \"Una minoría busca alargar la baja laboral\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260908/benedikt-amann-psiquiatra-minoria-busca-134039327",
+    "pubDate": "2026-09-08 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Hay pacientes que no pueden trabajar pero pese a ello no consiguen que el ICAM les conceda la incapacitación y eso les provoca un trauma\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ‘boom’ de las residencias de estudiantes se queda sin proyectos pese a la demanda récord",
+    "link": "https://www.elperiodico.com/es/economia/20260908/boom-residencias-estudiantes-134037190",
+    "pubDate": "2026-09-08 06:00:52",
+    "category": "",
+    "description": "<h2>España alcanza los 677.000 universitarios desplazados, de los cuales solo uno de cada 5,5 estudiantes tiene plaza en una residencia o colegio mayor</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gio van Bronckhorst, 'el talismán' del Barça que dirige al Feyenoord",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/gio-bronckhorst-talisman-barca-dirige-134025446",
+    "pubDate": "2026-09-08 06:00:52",
+    "category": "",
+    "description": "<h2>El exjugador azulgrana fue el único miembro de la plantilla que disputó los 13 partidos de la Champions conquistada en 2006</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya arranca el curso 2026-2027 con 1,6 millones de alumnos y 85.000 profesores llamados a la huelga",
+    "link": "https://www.elperiodico.com/es/sociedad/20260908/vuelta-al-cole-huelga-profesores-cataluna-primer-dia-curso-2026-27-134021665",
+    "pubDate": "2026-09-08 06:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">El paro convocado en el primer día de clase por Ustec y CGT no cerrará las escuelas, que abrirán con los servicios mínimos garantizados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260907/vuelta-colegio-profesores-ultima-hora-directo-133908416\" target=\"_blank\">Vuelta al cole, en directo: última hora de la huelga de profesores, regreso de los alumnos y próximos resultados PISA</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260904/servicios-minimos-huelga-educativa-8-septiembre-133950696\" target=\"_blank\">Estos son los servicios mínimos para la huelga educativa del 8 de septiembre</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mette-Marit y su incómodo reencuentro con los grandes duques de Luxemburgo tras burlarse con Epstein de su \"mortalmente aburrida\" boda",
+    "link": "https://www.elperiodico.com/es/gente/20260908/mette-marit-grandes-duques-luxemburgo-reencuentro-funeral-harald-v-134026407",
+    "pubDate": "2026-09-08 06:00:46",
+    "category": "",
+    "description": "<h2>La reina de Noruega coincidirá en el funeral de Harald V con Guillermo y Stéphanie, por primera vez desde que salieron a la luz los correos en los que criticó por su boda ante el pederasta Jeffrey Epstein</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260907/funeral-harald-v-invitados-reales-ausencias-oslo-felipe-letizia-sofia-juan-carlos-carlos-camila-134019859\" target=\"_blank\">El funeral de Harald V reunirá a casi toda la realeza europea: qué 'royals' estarán en Oslo el próximo miércoles y quiénes no</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260902/marius-borg-condenado-tobillera-permiso-funeral-harald-133860742\" target=\"_blank\">Marius Borg, el hijo incómodo que Haakon no aparta: condenado y con tobillera, volverá a ser uno más de la familia en el funeral de Harald</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 07.09: Ресурси РФ і прогрес Віткоффа",
+    "link": "https://ua.korrespondent.net/ukraine/4909782-pidsumky-0709-resursy-rf-i-prohres-vitkoffa",
+    "pubDate": "2026-09-08 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554769.jpg\">У ГУР оцінили ресурси Росії для ведення війни; Віткофф заявив про \"суттєвий прогрес\" на переговорах в Києві і Москві. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pipiolas: la madurez artística y la ‘reconquista’ del escenario indie",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260908/pipiolas-madurez-artistica-reconquista-escenario-134031603",
+    "pubDate": "2026-09-08 05:45:13",
+    "category": "",
+    "description": "<h2>El grupo que lideran la grancanaria Adriana Ubani y la madrileña Paula Reyes cuenta ya con su segundo disco, con el que quiere ganarse la presencia en salas y festivales que merece su propuesta</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Noel y Liam Gallagher firman la paz en el conciliador documental ‘Oasis: Don’t look back in anger’",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260908/noel-liam-gallagher-firman-paz-134043632",
+    "pubDate": "2026-09-08 05:45:12",
+    "category": "",
+    "description": "<h2>El filme, que se estrena el 11 de septiembre en las salas, plasma el reencuentro entre Noel y Liam Gallagher, tras 16 años de distanciamiento, y su redoblada conexión con el público británico e internacional en la gira de reunión de la banda, en 2025</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo |  Pocas expectativas de paz y falta de concesiones por parte de Rusia",
+    "link": "https://www.elperiodico.com/es/internacional/20260908/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-08 05:39:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У РФ фіксують рекордний відтік капіталу",
+    "link": "https://ua.korrespondent.net/world/russia/4909796-u-rf-fiksuuit-rekordnyi-vidtik-kapitalu",
+    "pubDate": "2026-09-08 05:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554798.jpg\">Гроші з Росії в останні місяці активно виводили найбагатші бізнесмени, зокрема близькі до Володимира Путіна.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Тернопільщині знову не знайшли масового поховання поляків",
+    "link": "https://ua.korrespondent.net/ukraine/4909822-na-ternopilschyni-znovu-ne-znaishly-masovoho-pokhovannia-poliakiv",
+    "pubDate": "2026-09-08 05:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4554964.jpeg\">Спільна група українських і польських науковців шукала поховання жителів колишнього села Пужники, які загинули за часів радянської влади.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "A Lilit se le escapa un \"Pasapalabra\" en 'Rueda la letra' y Telecinco trata de ocultarlo con un insólito doblaje que queda al descubierto en este video",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260908/lilit-escapa-pasapalabra-rueda-letra-telecinco-decide-ocultarlo-insolito-doblaje-descubierto-video-134051611",
+    "pubDate": "2026-09-08 05:03:26",
+    "category": "",
+    "description": "<h2>La concursante cometió un desliz más que comprensible, que la cadena decidió tapar instándole a que volviera a grabar la respuesta sin mencionar a la competencia.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Crimen de Francisca Cadenas: denuncian a la cárcel y piden suspender la reconstrucción del asesinato",
+    "link": "https://www.elperiodico.com/es/sucesos/20260908/francisca-asesinos-cadenas-denuncian-carcel-reconstruccion-134051786",
+    "pubDate": "2026-09-08 05:01:05",
+    "category": "",
+    "description": "<h2>El abogado de Julián González, el asesino confeso, ha denunciado al Jefe de Servicios de la prisión Sevilla II por no permitirle reunirse con su cliente para preparar la reconstrucción</h2><h2>Pide al juez que \"suspenda\" la diligencia, programada para el próximo lunes, porque no ha podido entrevistar al acusado. El centro penitenciario esgrime que acudió a la cárcel un día distinto al previsto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ: В Європі готують SAMP/T і Patriot для України",
+    "link": "https://ua.korrespondent.net/ukraine/4909834-zmi-v-yevropi-hotuuit-SAMPT-i-Patriot-dlia-ukrainy",
+    "pubDate": "2026-09-08 04:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555110.jpg\">Питання щодо передачі систем SAMP/T і ракет Aster вже вирішене. Щодо Patriot розглядають кілька варіантів.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Соціологи з'ясували, скільки українців почуваються щасливими",
+    "link": "https://ua.korrespondent.net/ukraine/4909836-sotsiolohy-ziasuvaly-skilky-ukraintsiv-pochuvauitsia-schaslyvymy",
+    "pubDate": "2026-09-08 04:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555130.jpg\">Порівнюючи з даними грудня 2025 року, відсоток щасливих людей в Україні майже не змінився, але значно зріс порівняно з груднем 2024 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака на Київ: пожежі і заблоковані у будинку люди",
+    "link": "https://ua.korrespondent.net/city/kiev/4909840-ataka-na-kyiv-pozhezhi-i-zablokovani-u-budynku-luidy",
+    "pubDate": "2026-09-08 03:56:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555227.jpg\">За даними моніторингових каналів, росіяни цієї ночі запустили понад 20 балістичних ракет по столиці.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У Києві після удару балістики спалахнули пожежі",
+    "link": "https://ua.korrespondent.net/city/kiev/4909838-u-kyievi-pislia-udaru-balistyky-spalakhnuly-pozhezhi",
+    "pubDate": "2026-09-08 03:16:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4555188.jpg\">Моніторингові канали пишуть про щонайменше вісім балістичних ракет, які ворог запустив по столиці. Також росіяни цієї ночі запустили ракети зі стратегічних бомбардувальників ТУ-95мс.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Matías Prats Jr. se une a 'El Chiringuito' de Pedrerol y se convierte en el primer fichaje de la era Mediaset",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260908/el-chiringuito-matias-prats-jr-une-pedrerol-primer-fichaje-mediaset-134051273",
+    "pubDate": "2026-09-08 02:31:52",
+    "category": "",
+    "description": "<h2>El popular periodista deportivo da el salto de 'El Desmarque' al programa de Pedrerol, que ha arrancado con gran éxito su etapa en Mediaset</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Паліса розповів про нові дедлайни РФ щодо Донбасу",
     "link": "https://ua.korrespondent.net/ukraine/4909830-palisa-rozpoviv-pro-novi-dedlainy-rf-schodo-donbasu",
     "pubDate": "2026-09-08 01:53:00",

@@ -1,6 +1,29 @@
-# News for 2026-09-08 03:11
+# News for 2026-09-08 08:02
 
 Previous day: [2026-09-07](./data/2026-09-07.md)
 
+## ua.korrespondent.net
+05:37 [У РФ фіксують рекордний відтік капіталу](https://ua.korrespondent.net/world/russia/4909796-u-rf-fiksuuit-rekordnyi-vidtik-kapitalu)<br>
+04:15 [Соціологи з'ясували, скільки українців почуваються щасливими](https://ua.korrespondent.net/ukraine/4909836-sotsiolohy-ziasuvaly-skilky-ukraintsiv-pochuvauitsia-schaslyvymy)<br>
+
+## as.com
+07:04 [Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”](https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/)<br>
+
 ## www.elperiodico.com
+07:55 [El barco que ha viajado desde Finlandia a España usando solo placas solares](https://www.elperiodico.com/es/medio-ambiente/20260908/barco-viajado-finlandia-espana-usando-134054041)<br>
+07:45 [Vuelta al cole, en directo: última hora de la huelga de profesores, regreso de los alumnos y próximos resultados PISA](https://www.elperiodico.com/es/sociedad/20260908/vuelta-colegio-profesores-ultima-hora-directo-133908416)<br>
+07:41 [Haakon VIII, 'Frozen' para adultos](https://www.elperiodico.com/es/opinion/20260908/haakon-viii-frozen-adultos-134052287)<br>
+07:00 [Cambio de hora en España: el BOE confirma cuándo será el cambio al horario de invierno](https://www.elperiodico.com/es/sociedad/20260908/cambio-hora-boe-confirma-fecha-invierno-espana-dv-134022324)<br>
+07:00 [Alfonso Muñoz, funcionario de la Seguridad Social: “Sí creo que habrá pensiones públicas en 2040, 2050 y 2060”](https://www.elperiodico.com/es/economia/20260908/alfonso-munoz-seguridad-social-habra-pensiones-publicas-2040-2050-2060-134029331)<br>
+06:01 [Leonor y los dos mundos paralelos de la universidad Carlos III: "Dentro te olvidabas de todo"](https://www.elperiodico.com/es/politica/20260908/princesa-leonor-mundos-paralelos-universidad-carlos-olvidabas-todo-134051049)<br>
+06:01 [Ciutat Vella escala posiciones en el ránquing de los barrios más ricos de Barcelona](https://www.elperiodico.com/es/barcelona/ciutat-vella-ranquing-barrios-ricos-134040812-rm/index.html)<br>
+06:01 [Ciutat Vella escala posiciones en el ránquing de los barrios más ricos de Barcelona](https://www.elperiodico.com/es/barcelona/20260908/ciutat-vella-escala-posiciones-ranquing-134047417)<br>
+06:01 [La compra de Commerzbank deja a UniCredit una herencia rusa de pleitos, condenas y activos atrapados en Moscú](https://www.elperiodico.com/es/economia/20260908/compra-commerzbank-deja-unicredit-herencia-134052296)<br>
+06:01 [Red Eléctrica se agarra a las paradas de fábricas como ‘escudo’ de seguridad: ordena en dos meses tantas desconexiones como en los cuatro años anteriores](https://www.elperiodico.com/es/economia/20260908/red-electrica-agarra-paradas-fabricas-escudo-seguridad-134043082)<br>
+06:01 [Los ingresos por viviendas e inversiones agrandan las diferencias de rentas entre barrios de Barcelona](https://www.elperiodico.com/es/barcelona/20260908/barcelona-renta-barrios-diferencias-viviendas-alquiler-inversiones-134000334)<br>
+06:00 [Benedikt Amann, psiquiatra: "Una minoría busca alargar la baja laboral"](https://www.elperiodico.com/es/ser-feliz/20260908/benedikt-amann-psiquiatra-minoria-busca-134039327)<br>
+06:00 [El ‘boom’ de las residencias de estudiantes se queda sin proyectos pese a la demanda récord](https://www.elperiodico.com/es/economia/20260908/boom-residencias-estudiantes-134037190)<br>
+06:00 [Catalunya arranca el curso 2026-2027 con 1,6 millones de alumnos y 85.000 profesores llamados a la huelga](https://www.elperiodico.com/es/sociedad/20260908/vuelta-al-cole-huelga-profesores-cataluna-primer-dia-curso-2026-27-134021665)<br>
+06:00 [Mette-Marit y su incómodo reencuentro con los grandes duques de Luxemburgo tras burlarse con Epstein de su "mortalmente aburrida" boda](https://www.elperiodico.com/es/gente/20260908/mette-marit-grandes-duques-luxemburgo-reencuentro-funeral-harald-v-134026407)<br>
+05:01 [Crimen de Francisca Cadenas: denuncian a la cárcel y piden suspender la reconstrucción del asesinato](https://www.elperiodico.com/es/sucesos/20260908/francisca-asesinos-cadenas-denuncian-carcel-reconstruccion-134051786)<br>
 00:02 [Veolia acelera la digitalización del ciclo del agua con 17 proyectos en España](https://www.elperiodico.com/es/sociedad/20260908/veolia-acelera-digitalizacion-ciclo-agua-bc-134050487)<br>
