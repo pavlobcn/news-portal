@@ -1,4 +1,4 @@
-# News for 2026-09-08 23:28
+# News for 2026-09-09 01:36
 
 Previous day: [2026-09-07](./data/2026-09-07.md)
 
@@ -68,6 +68,7 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 07:04 [Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”](https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Desaparecido Canarias](https://www.elperiodico.com/es/sucesos/20260908/desaparecido-canarias-134088186)<br>
 22:37 [La Audiencia de Barcelona tumba la inadmisión a trámite de la querella de Acció Cassandra por el caso DGAIA](https://www.elperiodico.com/es/sociedad/20260908/audiencia-barcelona-tumba-inadmision-tramite-accio-cassandra-caso-dgaia-134087259)<br>
 21:42 [Controlado el incendio en el monte de la Tortuga (Ceuta), donde los migrantes realizan fogatas](https://www.elperiodico.com/es/sociedad/20260908/incendio-afecta-monte-tortuga-ceuta-134086369)<br>
 21:07 [Denuncian una agresión policial a un joven durante la Fiesta Mayor de Sabadell](https://www.elperiodico.com/es/barcelona/20260908/denuncian-agresion-policial-joven-durante-fiesta-mayor-134085084)<br>

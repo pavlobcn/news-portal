@@ -1,5 +1,50 @@
 [
   {
+    "title": "Desaparecido Canarias",
+    "link": "https://www.elperiodico.com/es/sucesos/20260908/desaparecido-canarias-134088186",
+    "pubDate": "2026-09-08 23:59:25",
+    "category": "",
+    "description": "<h2>fff</h2><h2>fff</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Haaland se alía con Enzo Fernández en el triunfo del City ante el Oporto (0-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/haaland-alia-enzo-fernandez-triunfo-134087856",
+    "pubDate": "2026-09-08 23:37:03",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Путін посилить атаки на Україну взимку - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4910172-putin-posylyt-ataky-na-ukrainu-vzymku-zmi",
+    "pubDate": "2026-09-08 23:34:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556572.jpg\">Лідер Кремля надіється наступної весни вийти з ситуації з сильнішими позиціями, утримуючи на плаву економіку Росії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Betis regresa a la Champions por la puerta grande y remontando al Lille (2-3)",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/betis-regresa-champions-puerta-grande-134087853",
+    "pubDate": "2026-09-08 23:31:46",
+    "category": "",
+    "description": "<h2>Los verdiblancos se imponen en Lille tras remontar el duelo con un doblete de Bartra y otro tanto de Parrot</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cinco minutos condenan al Villarreal en Dortmund (3-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260908/cinco-minutos-condenan-villarreal-dortmund-134087843",
+    "pubDate": "2026-09-08 23:27:20",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Muere a los 80 años Josep Grau, exconsejero de Agricultura y exalcalde de Mollerussa",
     "link": "https://www.elperiodico.com/es/politica/20260908/muere-exconsejero-agricultura-exalcalde-mollerussa-josep-grau-134087825",
     "pubDate": "2026-09-08 23:22:47",
@@ -7,6 +52,15 @@
     "description": "<h2>También fue presidente de la Diputación de Lleida, presidente de la ACM y diputado en el Congreso</h2>",
     "topic": "політика",
     "topic_match_probability": 60
+  },
+  {
+    "title": "Pasaportes falsos: condena leve para Panko y Slaugther no se persona",
+    "link": "https://as.com/baloncesto/acb/pasaportes-falsos-condenas-leves-para-panko-y-nguema-f202609-n/",
+    "pubDate": "2026-09-08 23:09:39",
+    "category": "Baloncesto",
+    "description": "El exjugador Nguema también recibe sentencia y el entrenador Hugo López queda absuelto de los delitos que se le imputaban.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
   },
   {
     "title": "Courtois y Mbappé son suficientes ante un Inter naif",
