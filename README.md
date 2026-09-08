@@ -1,12 +1,14 @@
-# News for 2026-09-08 13:10
+# News for 2026-09-08 13:44
 
 Previous day: [2026-09-07](./data/2026-09-07.md)
 
 ## ua.korrespondent.net
+13:34 [У ДШВ заявили про зміну планів військ РФ на Олександрівському напрямку](https://ua.korrespondent.net/ukraine/4909984-u-dshv-zaiavyly-pro-zminu-planiv-viisk-rf-na-oleksandrivskomu-napriamku)<br>
 12:51 [Сили оборони уразили ціль в районі Донецька](https://ua.korrespondent.net/ukraine/4909964-syly-oborony-urazyly-tsil-v-raioni-donetska)<br>
 12:27 [В обмінних пунктах триває зростання курсу гривні](https://ua.korrespondent.net/business/financial/4909958-v-obminnykh-punktakh-tryvaie-zrostannia-kursu-hryvni)<br>
 12:22 [У Києві зросла кількість жертв нічної атаки РФ](https://ua.korrespondent.net/city/kiev/4909953-u-kyievi-zrosla-kilkist-zhertv-nichnoi-ataky-rf)<br>
 12:20 [На Дніпропетровщині чоловік вистрілив у 13-річного хлопця через шум мопеда](https://ua.korrespondent.net/ukraine/4909952-na-dnipropetrovschyni-cholovik-vystrilyv-u-13-richnoho-khloptsia-cherez-shum-mopeda)<br>
+12:15 [Сальма Гаєк купалася голою в морі в день свого 60-річчя](https://ua.korrespondent.net/lifestyle/4909934-salma-haiek-kupalasia-holoui-v-mori-v-den-svoho-60-richchia)<br>
 12:01 [Сальма Гаєк оголеною позувала в океані на честь ювілею](https://ua.korrespondent.net/lifestyle/4909934-salma-haiek-oholenoui-pozuvala-v-okeani-na-chest-yuvileui)<br>
 11:55 [Саудівська Аравія повідомила про атаку на її енергетичну інфраструктуру](https://ua.korrespondent.net/world/4909944-saudivska-araviia-povidomyla-pro-ataku-na-yii-enerhetychnu-infrastrukturu)<br>
 11:51 [Київ атакують дрони: вирують пожежі, є постраждалі](https://ua.korrespondent.net/city/kiev/4909943-kyiv-atakuuit-drony-vyruuit-pozhezhi-ye-postrazhdali)<br>
@@ -16,6 +18,7 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 10:59 [Росіяни вдарили по двох пасажирських поїздах](https://ua.korrespondent.net/ukraine/4909921-rosiiany-vdaryly-po-dvokh-pasazhyrskykh-poizdakh)<br>
 10:57 [Росіяни вдарили по Епіцентру в Прилуках](https://ua.korrespondent.net/ukraine/4909919-rosiiany-vdaryly-po-epitsentru-v-prylukakh)<br>
 10:40 [ГУР оприлюднило дані виробників російської балістики та РЕБ](https://ua.korrespondent.net/ukraine/4909916-hur-opryluidnylo-dani-vyrobnykiv-rosiiskoi-balistyky-ta-reb)<br>
+10:38 [Атака на Київ: стало відомо про масштаби руйнувань](https://ua.korrespondent.net/city/kiev/4909915-ataka-na-kyiv-stalo-vidomo-pro-masshtaby-ruinuvan)<br>
 09:59 [Єврокомісія зреагувала на вихід ШІ-агентів з-під контролю](https://ua.korrespondent.net/world/4909898-yevrokomisiia-zreahuvala-na-vykhid-shi-ahentiv-z-pid-kontrolui)<br>
 09:27 [Відключення в Києві і п'яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4909892-vidkluichennia-v-kyievi-i-piaty-oblastiakh-ukrenerho)<br>
 09:23 [Росіяни вбили двох цивільних на Донеччині](https://ua.korrespondent.net/ukraine/4909889-rosiiany-vbyly-dvokh-tsyvilnykh-na-donechchyni)<br>
@@ -29,6 +32,12 @@ Previous day: [2026-09-07](./data/2026-09-07.md)
 07:04 [Pablo Laso: “No puedo pedir tiempo y después perder 25 partidos seguidos”](https://as.com/baloncesto/euroliga/pablo-laso-no-puedo-pedir-tiempo-y-despues-perder-25-partidos-seguidos-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:41 [Los médicos barajan ir al paro indefinido a mediados de octubre: "No vamos a parar, estemos el tiempo que estemos"](https://www.elperiodico.com/es/sanidad/20260908/medicos-barajan-paro-indefinido-mediados-octubre-tiempo-estemos-134056179)<br>
+13:40 [Esta es la danza nupcial de los flamencos de la Puna (Argentina)](https://www.elperiodico.com/es/videos/sociedad/danza-nupcial-flamencos-puna-argentina/134067074.shtml)<br>
+13:40 [A la memoria de Tanit, un alma libre de Ibiza, por Pino Sagliocco](https://www.elperiodico.com/es/ocio-y-cultura/20260908/memoria-tanit-alma-libre-ibiza-134066962)<br>
+13:29 [Pepa y Morenés venden una participación mayoritaria en Stoneshield a la estadounidense Franklin Templeton](https://www.elperiodico.com/es/economia/20260908/pepa-morenes-venden-stoneshield-franklin-templeton-134066285)<br>
+13:28 [El precio del euríbor hoy, 8 de septiembre: martes negro para los titulares de una hipoteca](https://www.elperiodico.com/es/economia/20260908/precio-euribor-hoy-8-septiembre-dv-134065932)<br>
+13:25 [Christine Lagarde publicará sus memorias en enero, 'Lady First': "Quiero que conozcan la cruda verdad de una niña rebelde de origen humilde y clase media"](https://www.elperiodico.com/es/ocio-y-cultura/20260908/christine-lagarde-publicara-memorias-enero-134065550)<br>
 13:00 [Juliett Suárez (Adigital): “La responsabilidad no se puede delegar a un algoritmo”](https://www.elperiodico.com/es/economia/20260908/juliett-suarez-adigital-responsabilidad-no-se-puede-delegar-a-un-algoritmo-134055330)<br>
 13:00 [Un nuevo método permite predecir dónde se producirán grandes terremotos](https://www.elperiodico.com/es/tendencias21/20260908/nuevo-metodo-permite-predecir-produciran-134064518)<br>
 12:53 [El Ayuntamiento de Tarragona rescinde el contrato con la empresa de patinetes eléctricos por "reiterados incumplimientos"](https://www.elperiodico.com/es/tarragona/20260908/tarragona-rescinde-contrato-empresa-patinetes-electricos-servicio-134063640)<br>
