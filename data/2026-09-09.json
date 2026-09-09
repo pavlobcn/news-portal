@@ -1,0 +1,65 @@
+[
+  {
+    "title": "De Montmeló a MADRING: el paso de la Fórmula 1 por España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260909/montmelo-madring-paso-formula-1-bc-134025565",
+    "pubDate": "2026-09-09 02:59:55",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Лідер АдН: Слід зупинити постачання зброї Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4910189-lider-adn-slid-zupynyty-postachannia-zbroi-ukraini",
+    "pubDate": "2026-09-09 02:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556767.jpg\">Постачання зброї Києву варто припинити, а Орбан правильно зробив, що прив'язав енергетику Угорщини до РФ, заявив Тіно Хрупалла.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Туреччина планує розширити свій Сталевий купол",
+    "link": "https://ua.korrespondent.net/world/4910187-turechchyna-planuie-rozshyryty-svii-stalevyi-kupol",
+    "pubDate": "2026-09-09 02:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556749.jpg\">Розвиток багаторівневої системи ППО Сталевий купол - окремий напрям у межах Середньострокової програми на 2027–2029 роки.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Дрон РФ поцілив у багатоповерхівку в Харкові",
+    "link": "https://ua.korrespondent.net/ukraine/4910183-dron-rf-potsilyv-u-bahatopoverkhivku-v-kharkovi",
+    "pubDate": "2026-09-09 01:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556696.jpg\">Влучання в складську будівлю також фіксувалося в Холодногірському районі міста; там спалахнула пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США завдали ударів по іранських нафтових танкерах - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4910181-ssha-zavdaly-udariv-po-iranskykh-naftovykh-tankerakh-zmi",
+    "pubDate": "2026-09-09 01:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556678.jpg\">Сполучені Штати атакували танкери поблизу острова Харк та портового міста Джаск на південному узбережжі Ірану.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський провів перемови з прем'єром Норвегії",
+    "link": "https://ua.korrespondent.net/ukraine/4910179-zelenskyi-proviv-peremovy-z-premierom-norvehii",
+    "pubDate": "2026-09-09 00:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556643.jpg\">Головним питанням переговорів став захист українського неба в умовах постійних російських повітряних атак.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Новоросійську горить порт після атаки дронів",
+    "link": "https://ua.korrespondent.net/world/russia/4910177-u-novorosiisku-horyt-port-pislia-ataky-droniv",
+    "pubDate": "2026-09-09 00:38:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4556625.jpeg\">Українські сили оборони атакували об'єкти на території порту; уражено щонайменше один резервуар мазутного термінала.",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
