@@ -1,8 +1,22 @@
-# News for 2026-09-09 08:39
+# News for 2026-09-09 13:54
 
 Previous day: [2026-09-08](./data/2026-09-08.md)
 
 ## ua.korrespondent.net
+13:33 [ЗСУ уразили місце запуску БпЛА РФ і катер Мангуст](https://ua.korrespondent.net/ukraine/4910340-zsu-urazyly-mistse-zapusku-bpla-rf-i-kater-manhust)<br>
+12:59 [Google зробить найбільшу інвестицію в Європі](https://ua.korrespondent.net/business/4910330-Google-zrobyt-naibilshu-investytsiui-v-yevropi)<br>
+12:42 [Немовля випало з шостого поверху у Борисполі](https://ua.korrespondent.net/ukraine/4910324-nemovlia-vypalo-z-shostoho-poverkhu-u-boryspoli)<br>
+12:21 [Драпатий скасував понад 30 застарілих наказів ГШ](https://ua.korrespondent.net/ukraine/4910318-drapatyi-skasuvav-ponad-30-zastarilykh-nakaziv-hsh)<br>
+12:03 [РФ атакувала Херсон і передмістя: двоє загиблих, є поранений](https://ua.korrespondent.net/ukraine/4910310-rf-atakuvala-kherson-i-peredmistia-dvoie-zahyblykh-ye-poranenyi)<br>
+11:48 [Генштаб підтвердив ураження бази Новороссийск](https://ua.korrespondent.net/ukraine/4910300-henshtab-pidtverdyv-urazhennia-bazy-novorossyisk)<br>
+11:42 [ЗСУ уразили військові кораблі-носії Калібрів - Зеленський](https://ua.korrespondent.net/ukraine/4910298-zsu-urazyly-viiskovi-korabli-nosii-kalibriv-zelenskyi)<br>
+10:53 [Поляк ударив українця по голові у центрі Варшави](https://ua.korrespondent.net/world/4910279-poliak-udaryv-ukraintsia-po-holovi-u-tsentri-varshavy)<br>
+10:53 [Росіяни атакували потяг на Харківщині: є поранені](https://ua.korrespondent.net/ukraine/4910280-rosiiany-atakuvaly-potiah-na-kharkivschyni-ye-poraneni)<br>
+10:29 [Удар РФ по КПП: Молдова заявила про загрозу своїй безпеці](https://ua.korrespondent.net/world/4910269-udar-rf-po-kpp-moldova-zaiavyla-pro-zahrozu-svoii-bezpetsi)<br>
+09:54 [Відключення світла у п'яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4910258-vidkluichennia-svitla-u-piaty-oblastiakh-ukrenerho)<br>
+09:25 ["Мадяр" заявив про ураження військових кораблів РФ](https://ua.korrespondent.net/ukraine/4910248-madiar-zaiavyv-pro-urazhennia-viiskovykh-korabliv-rf)<br>
+09:10 [СБУ затримала у Кропивницькому коригувальника ФСБ](https://ua.korrespondent.net/ukraine/4910244-sbu-zatrymala-u-kropyvnytskomu-koryhuvalnyka-fsb)<br>
+09:01 [Кремль не змінює вимог попри втрати переваги на фронті - ISW](https://ua.korrespondent.net/ukraine/4910239-kreml-ne-zminuiie-vymoh-popry-vtraty-perevahy-na-fronti-ISW)<br>
 08:22 [196 дронів і балістика: ПС розкрили деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4910224-196-droniv-i-balistyka-ps-rozkryly-detali-nichnoi-ataky-rf)<br>
 08:04 [Генштаб оновив дані про фронт](https://ua.korrespondent.net/ukraine/4910219-henshtab-onovyv-dani-pro-front)<br>
 07:38 [Дрон РФ влучив у багатоповерхівку в Києві](https://ua.korrespondent.net/city/kiev/4910217-dron-rf-vluchyv-u-bahatopoverkhivku-v-kyievi)<br>
@@ -18,11 +32,34 @@ Previous day: [2026-09-08](./data/2026-09-08.md)
 00:38 [У Новоросійську горить порт після атаки дронів](https://ua.korrespondent.net/world/russia/4910177-u-novorosiisku-horyt-port-pislia-ataky-droniv)<br>
 
 ## as.com
+13:26 [La NBA podría comprar la Euroliga](https://as.com/baloncesto/euroliga/la-nba-podria-comprar-la-euroliga-f202609-n/)<br>
 07:38 [“Awa llegará donde ella quiera”](https://as.com/baloncesto/mas_baloncesto/awa-llegara-donde-ella-quiera-f202609-n/)<br>
 07:38 [España, en cuartos... y sin rival](https://as.com/baloncesto/mas_baloncesto/espana-en-cuartos-y-sin-rival-f202609-n/)<br>
 07:37 [España cae un puesto en el Power Ranking de la FIBA](https://as.com/baloncesto/mas_baloncesto/espana-cae-un-puesto-en-el-power-ranking-de-la-fiba-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:52 [La Guardia Civil de Murcia investiga a dos jóvenes por difundir vídeos sexuales, algunos grabados cuando la víctima era menor](https://www.elperiodico.com/es/sucesos/20260909/guardia-civil-murcia-investiga-jovenes-134107722)<br>
+13:44 [La 080 Barcelona Fashion desvela su cartel: Custo, Dominnico y 23 firmas más desfilarán en octubre](https://www.elperiodico.com/es/gente/20260909/080-barcelona-fashion-2026-firmas-calendario-desfiles-134104791)<br>
+13:30 [Las pymes españolas generan 42.841 euros anuales por trabajador, un 17% menos que la media europea y muy por debajo de Alemania o Francia](https://www.elperiodico.com/es/economia/20260909/pymes-espanolas-generan-42-841-134106554)<br>
+13:27 [Montse Cespedosa, experta en hipotecas: “Aunque el tope son los 75 años, a muchas entidades financieras no les gusta que te hipoteques a partir de los 50”](https://www.elperiodico.com/es/economia/20260909/montse-cespedosa-experta-hipotecas-tope-edad-dv-134105261)<br>
+13:26 [Interior abre expediente por falta grave a los policías que golpearon a un seguidor del Barça en Elche](https://www.elperiodico.com/es/deportes/20260909/interior-abre-expediente-falta-grave-134106237)<br>
+13:15 [El precio del euríbor hoy, 9 de septiembre: nuevo día de subidas en el índice de referencia para quienes tienen una hipoteca](https://www.elperiodico.com/es/economia/20260909/precio-euribor-hoy-9-septiembre-dv-134105489)<br>
+13:05 [Las lluvias no alcanzan la intensidad prevista y abren dudas sobre las restricciones impuestas](https://www.elperiodico.com/es/sociedad/20260909/lluvias-intensidad-prevista-dudas-restricciones-alertas-cataluna-134101682)<br>
+13:00 [Ana Iglesias, madre de 10 hijos, sobre la vuelta de vacaciones con una familia numerosa: "¿Cuál es la peor parte? Pues yo creo que está claro: la vuelta"](https://www.elperiodico.com/es/economia/20260909/madre-10-hijos-vuelta-quitar-ganas-vacaciones-organizacion-bolsas-ana-dv-et-133881607)<br>
+12:19 [Los reyes de España salen del hotel para dirigirse al funeral del rey Harald V en Oslo](https://www.elperiodico.com/es/videos/sociedad/reyes-espana-salen-hotel-dirigirse/134102429.shtml)<br>
+12:18 [El iPhone 18 y un nuevo móvil plegable: sigue en directo la presentación de novedades de Apple](https://www.elperiodico.com/es/tecnologia/20260909/iphone-18-nuevo-movil-plegable-apple-presentacion-movil-directo-macbook-134100996)<br>
+11:44 [Escribano explora su salida a Bolsa tras el naufragio de la fusión con Indra](https://www.elperiodico.com/es/economia/20260909/escribano-explora-salida-bolsa-naufragio-134100842)<br>
+11:43 [EEUU destruye cinco petroleros iraníes a la vuelta de los ataques cruzados](https://www.elperiodico.com/es/videos/internacional/estados-unidos-destruye-cinco-petroleros-iranies/134100797.shtml)<br>
+11:36 [La Seguridad Social puede pagar una pensión del 20% de la base reguladora a los familiares de un fallecido](https://www.elperiodico.com/es/economia/20260909/seguridad-social-pagar-pension-20-base-reguladora-familiares-fallecido-dv-134100067)<br>
+11:21 [La fiscalía de menores pide internamiento en régimen cerrado para los dos menores detenidos ayer por el crimen de Manresa](https://www.elperiodico.com/es/sociedad/20260909/fiscalia-menores-pide-internamiento-regimen-134099847)<br>
+11:13 [Barcelona situará en un mapa los 'puntos calientes' de suicidios en las calles: "Hay que romper el tabú"](https://www.elperiodico.com/es/barcelona/20260909/barcelona-tendra-mapa-puntos-calientes-espacio-publico-relacionado-suicidios-134095060)<br>
+10:55 [Sanidad deberá indemnizar con 100.000 euros a la joven de Cardona Marta Pérez, que quedó en coma tras tomar un batido](https://www.elperiodico.com/es/sucesos/20260909/sanidad-indemnizar-100000-euros-marta-perez-coma-tomar-batido-134097943)<br>
+10:49 [L’Hospitalet arranca el ciclo educativo con la matrícula viva más baja de los últimos años](https://www.elperiodico.com/es/barcelona/20260909/lhospitalet-arranca-el-ciclo-educativo-con-la-matricula-viva-mas-baja-de-los-ultimos-anos-134061794)<br>
+10:00 [Ismaray, médica cubana que ejerce como camarera en España: "No se permite estar sentado en el horario laboral"](https://www.elperiodico.com/es/economia/20260909/ismaray-medica-cubana-camarera-espana-sueldo-dv-et-133941645)<br>
+09:49 [Los médicos inspectores de la Seguridad Social denuncian retrasos de 770 días en las bajas: "Son las cifras mayores de la historia"](https://www.elperiodico.com/es/sanidad/20260909/medicos-inspectores-seguridad-social-denuncian-retrasos-bajas-cifras-mayores-historia-134093394)<br>
+09:42 [Sílvia Catà, jefa de los Mossos d'Esquadra en Girona, nueva comisaria en jefe de la policía catalana](https://www.elperiodico.com/es/sociedad/20260909/silvia-cata-jefa-mossos-d-134094510)<br>
+09:25 [Mette-Marit y el morbo por su reencuentro con los grandes duques de Luxemburgo tras burlarse con Epstein de su "aburrida" boda](https://www.elperiodico.com/es/gente/20260909/mette-marit-grandes-duques-luxemburgo-reencuentro-funeral-harald-v-134026407)<br>
+08:50 [El funeral de Harald V de Noruega reúne a casi toda la realeza europea: qué 'royals' asisten al sepelio en Oslo y quiénes no](https://www.elperiodico.com/es/gente/20260909/funeral-harald-v-invitados-reales-ausencias-oslo-felipe-letizia-sofia-juan-carlos-carlos-camila-134019859)<br>
 08:39 [Última hora del funeral del rey Harald de Noruega, en directo: todos los detalles de la ceremonia, el dispositivo de seguridad y la comitiva real hasta la catedral de Oslo](https://www.elperiodico.com/es/gente/20260909/rey-harald-noruega-muere-ultima-hora-directo-133699041)<br>
 08:30 [Los noruegos y la familia real se preparan para el último adiós a Harald V](https://www.elperiodico.com/es/videos/internacional/noruegos-familia-real-preparan-ultimo/134092898.shtml)<br>
 08:30 [José Navarro, fontanero: "Ser autónomo no es fácil, pero a mí me encanta"](https://www.elperiodico.com/es/economia/20260909/jose-navarro-fontanero-sueldos-trabajo-asalariado-dv-et-133909497)<br>
