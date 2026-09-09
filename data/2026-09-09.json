@@ -1,5 +1,284 @@
 [
   {
+    "title": "Merz, ¿el hombre equivocado?",
+    "link": "https://www.elperiodico.com/es/opinion/20260909/merz-hombre-equivocado-alemania-sajonia-anhalt-articulo-joan-tapia-134123447",
+    "pubDate": "2026-09-09 20:52:04",
+    "category": "",
+    "description": "<h2>La extrema derecha \"ha trinchado\" al centro-derecha en Sajonia-Anhalt (44% a 17%). Y lo peor es que le lleva una clara ventaja en las encuestas para toda Alemania</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260906/claves-triunfo-electoral-ultraderecha-toxica-alemania-134014179\">¿Por qué ha arrasado la ultraderecha en Sajonia-Anhalt? ¿Qué puede pasar con Merz? Las claves de la victoria de AfD que sacude Alemania</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Illa llama desde Sant Boi a una Diada de unidad de los demócratas frente al avance del \"autoritarismo\"",
+    "link": "https://www.elperiodico.com/es/politica/20260909/salvador-illa-diada-acto-sant-boi-unidad-democratas-avance-autoritarismos-catalunya-134119200",
+    "pubDate": "2026-09-09 20:51:07",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260901/govern-diada-espiritu-sant-boi-1976-unidad-diversidad-catalunya-133841413\" target=\"_blank\">El Govern invoca el \"espíritu de Sant Boi\" de 1976 para celebrar una Diada de Catalunya de \"unidad\" en la diversidad</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260909/diada-cataluna-2026-guia-actos-actividades-121195423\" target=\"_blank\">Así será la Diada de Catalunya 2026: guía de actos y actividades</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Más de un millar de personas se concentran en el centro de Manresa en protesta por la muerte de Carles Vilajosana",
+    "link": "https://www.elperiodico.com/es/sociedad/20260909/millar-personas-concentran-centro-manresa-muerte-carles-vilajosana-134123074",
+    "pubDate": "2026-09-09 20:48:07",
+    "category": "",
+    "description": "<h2>La concentración, convocada por \"Manresa diu prou\", reclama más seguridad y que las autoridades escuchen el malestar ciudadano</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260909/libertad-vigilada-tratamiento-terapeutico-menores-detenidos-asesinato-manresa-134117980\" target=\"_blank\">Libertad vigilada con tratamiento terapéutico para los otros dos menores detenidos por el apuñalamiento mortal de Manresa</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Raphinha canaliza la rabia del Balón de Oro con otro doblete",
+    "link": "https://www.elperiodico.com/es/deportes/20260909/raphinha-canaliza-rabia-balon-oro-134122846",
+    "pubDate": "2026-09-09 20:42:11",
+    "category": "",
+    "description": "<h2>Quinto en la último edición y ausente en la lista de este año, el brasileño presenta su candidatura para 2027 con ocho goles en cinco partidos</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mazón volverá a declarar en la comisión de la dana del Congreso el 21 de septiembre",
+    "link": "https://www.elperiodico.com/es/politica/20260909/mazon-volvera-declarar-comision-dana-134123564",
+    "pubDate": "2026-09-09 20:41:28",
+    "category": "",
+    "description": "<h2 class=\"item\">El expresidente tendrá que acudir para aclarar sus tesis sobre el retraso del ES Alert así como los 'whatsapps' del grupo del Consejo aquel 29 de octubre</h2><h2 class=\"item\">La mesa ha citado también al exsecretario autonómico de Emergencias, Emilio Argüeso</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un Barça en estado de gracia ilumina Europa",
+    "link": "https://www.elperiodico.com/es/deportes/20260909/barcelona-feyenoord-champions-goles-resumen-cronica-134119251",
+    "pubDate": "2026-09-09 20:39:04",
+    "category": "",
+    "description": "<h2>El equipo de Flick deslumbra en su estreno en la Champions abrumando al Feyenoord. Raphinha marcó dos goles más, Lamine celebró como capitán el primer tanto de falta de su carrera, y Adeyemi y Gabriel Jesús dieron valor al mercado.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La hermana de Carles Vilajosana reclama justicia en una plaza Neus Català i Pallejà llena",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/hermana-carles-vilajosana-reclama-justicia/134123427.shtml",
+    "pubDate": "2026-09-09 20:38:43",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Concentración en Manresa por el crimen de Carles Vilajosana este miércoles",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/concentracion-manresa-crimen-carles-vilajosana/134123439.shtml",
+    "pubDate": "2026-09-09 20:38:36",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España arranca el Mundial de baloncesto en silla de ruedas con autoridad",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-arranca-el-mundial-de-baloncesto-en-silla-de-ruedas-con-autoridad-f202609-n/",
+    "pubDate": "2026-09-09 20:32:56",
+    "category": "Baloncesto",
+    "description": "La Selección masculina debuta con una victoria contundente ante Colombia y la femenina debutará esta noche contra la anfitriona",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Румунія спростувала чутки про відправлення військових в Україну",
+    "link": "https://ua.korrespondent.net/world/4910456-rumuniia-sprostuvala-chutky-pro-vidpravlennia-viiskovykh-v-ukrainu",
+    "pubDate": "2026-09-09 20:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557910.jpg\">В адміністрації президента Румунії спростували інформацію про нібито плани відправити своїх військових в Україну для участі в бойових діях. У Бухаресті назвали такі повідомлення маніпуляцією.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "iPhone 18 Pro y Pro Max: más control en cámara, más potencia y más batería",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260909/iphone-18-pro-precio-caracteristicas-134122534",
+    "pubDate": "2026-09-09 20:18:09",
+    "category": "",
+    "description": "<h2>Apple estrena apertura variable en su cámara principal, incorpora el chip A20 Pro y reserva para el modelo Max la mayor mejora de batería de la historia de la gama Pro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una bicicleta de carbono inspirada en el 911 GT3 RS",
+    "link": "https://www.elperiodico.com/es/motor/20260909/porsche-911-gt3-bicicleta-carretera-carbono-inspirada-coche-134117435",
+    "pubDate": "2026-09-09 20:08:49",
+    "category": "",
+    "description": "<h2>Leon Baldinger ha trasladado a una bicicleta de carretera el Olive Black, la fibra de carbono y los detalles amarillos de su ‘nueveonce’</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Rimas, rumba y crítica social por Santa Tecla: Tarragona reivindica la herencia gitana con la recuperación de los garrotines",
+    "link": "https://www.elperiodico.com/es/tarragona/20260909/rimas-rumba-critica-social-santa-134106333",
+    "pubDate": "2026-09-09 20:00:23",
+    "category": "",
+    "description": "<h2 class=\"item\">La 4ª Garrotinada, el 20 de septiembre, reunirá garrotines, jotas del Ebro y corrandes del Pirineo en una muestra dedicada al verso improvisado catalán</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260827/tarragona-reconoce-portants-gegants-moros-negritos-perpetuadors-santa-tecla-133702447\">Tarragona reconoce a los portants de los Gegants Moros y los Negritos como Perpetuadors de Santa Tecla 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/tarragona/20260908/chartreuse-dedica-ampolla-commemorativa-santa-tecla-gegants-moros-tarragona-134064372\">Chartreuse dedica la botella conmemorativa de Santa Tecla 2026 a los 175 años de los Gegants Moros de Tarragona</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "У Києві зросла кількість поранених до 16 осіб",
+    "link": "https://ua.korrespondent.net/world/4910449-u-kyievi-zrosla-kilkist-poranenykh-do-16-osib",
+    "pubDate": "2026-09-09 19:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557867.jpg\">Внаслідок агресії РФ пошкоджені шість багатоповерхівок, дитячий садок, 35 автомобілів, складські приміщення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cultura destina 31,6 millones de euros a las artes escénicas hasta 2029, la mayor inversión de su historia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260909/cultura-destina-31-6-millones-134122190",
+    "pubDate": "2026-09-09 19:49:05",
+    "category": "",
+    "description": "<h2>La nueva convocatoria de ayudas plurianuales para teatro, danza y circo aumenta un 66% respecto al periodo anterior y permitirá apoyar a 103 empresas y 282 producciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El abogado de la familia de Edwin Arrieta y colaborador de Ana Rosa deja la abogacía para ser embajador de Colombia en Europa",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260909/abogado-familia-edwin-arrieta-colaborador-ana-rosa-embajador-colombia-europa-134121451",
+    "pubDate": "2026-09-09 19:45:18",
+    "category": "",
+    "description": "<h2>El conocido penalista cuelga temporalmente la toga tras convertirse en uno de los rostros más habituales de los platós de televisión españoles, un escaparate mediático que catapultó su carrera a raíz del 'caso Daniel Sancho'. </h2><h2><a href=\"https://www.elperiodico.com/es/tele/yotele/20260908/rodolfo-corta-sonsoles-onega-pregunta-hijo-daniel-sancho-estalla-acoso-mediatico-demencial-134084667\" target=\"_blank\"><strong>Rodolfo Sancho corta a Sonsoles por una pregunta sobre su hijo Daniel Sancho y estalla contra el acoso mediático sufrido: \"Demencial\"</strong></a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія атакувала ТРЦ у Сумах: троє загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4910444-rosiia-atakuvala-trts-u-sumakh-troie-zahyblykh",
+    "pubDate": "2026-09-09 19:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557843.jpg\">Російський ударний БпЛА влучив у торгово-розважальний центр у Сумах. Внаслідок атаки загинули щонайменше троє людей, ще 14 отримали поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Feroe Festival vuelve con un triplete de perlas con acentos soul en el Poble Espanyol",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260909/feroe-festival-vuelve-triplete-perlas-134118774",
+    "pubDate": "2026-09-09 19:33:50",
+    "category": "",
+    "description": "<h2>La muestra se celebrará el 13 de noviembre con un cartel integrado por Beth Orton, St. Paul & The Broken Bones y Tiwayo, y brindará antes, el 20 de octubre, un concierto de calentamiento de The Autumn Defense en la Antiga Fàbrica Estrella Damm</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Єгипет, Греція та Кіпр підтримали план постачання кіпрського газу до Європи",
+    "link": "https://ua.korrespondent.net/world/4910442-yehypet-hretsiia-ta-kipr-pidtrymaly-plan-postachannia-kiprskoho-hazu-do-yevropy",
+    "pubDate": "2026-09-09 19:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557816.jpg\">Очікується, що кіпрський газ Cronos досягне європейських ринків через Єгипет з 2028 року.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Balnearios del Imserso para la nueva temporada: la lista de destinos y centros autorizados",
+    "link": "https://www.elperiodico.com/es/economia/20260909/balnearios-imserso-guia-nueva-temporada-cataluna-dv-133990173",
+    "pubDate": "2026-09-09 19:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Pasar unos días en un spa es una de las alternativas más completas para sentirse bien con uno mismo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260905/imserso-2026-2027-novedades-cambios-viajes-133984808\">Imserso 2026-2027: todas las novedades, cambios y claves de la nueva temporada de viajes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260909/tres-tipos-viajes-imserso-precio-destinos-dv-133983526\">Descubre los tres tipos de viajes del Imserso que fija el Gobierno: destinos, precios y fechas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De ser promesa electoral de Illa a su dimisión como director general de los Mossos: ¿Qué ha pasado con Trapero?",
+    "link": "https://www.elperiodico.com/es/politica/20260909/dimision-trapero-promesa-electoral-salvador-illa-mossos-interior-nuria-parlon-134096891",
+    "pubDate": "2026-09-09 19:25:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Los cambios de Parlon en la cúpula policial se han sumado a una tensión creciente durante dos años entre la consellera y el 'mayor' sobre el modelo del cuerpo de seguridad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260909/dimision-trapero-consellera-parlon-mossos-134100178\" target=\"_blank\">Trapero comunicó en agosto a la consellera Parlon su dimisión: \"Queríamos que continuara\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260909/dimite-josep-lluis-trapero-mossos-esquadra-cataluna-134088858\" target=\"_blank\">Dimite Josep Lluís Trapero, director general de los Mossos: le sustituye Ferrán López y Silvia Catà será la jefa del cuerpo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El temporal deja 119 incidentes en Baleares, la mayoría en Mallorca por caídas de árboles e inundaciones",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/temporal-deja-119-incidentes-baleares/134121497.shtml",
+    "pubDate": "2026-09-09 19:22:49",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Небувала спека в Іспанії: країна встановила історичний рекорд",
+    "link": "https://ua.korrespondent.net/world/4910440-nebuvala-speka-v-ispanii-kraina-vstanovyla-istorychnyi-rekord",
+    "pubDate": "2026-09-09 19:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557808.jpg\">Іспанія пережила найспекотніше літо за всю історію метеоспостережень. Спекотна погода трималася 61 день, а середня температура стала рекордною.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Foment juntará a los alcaldes de Barcelona, Madrid, Lisboa y Oporto para mejorar la cooperación entre ciudades",
+    "link": "https://www.elperiodico.com/es/economia/20260909/foment-del-treball-josep-sanchez-llibre-reunion-alcalde-lisboa-134119946",
+    "pubDate": "2026-09-09 19:07:07",
+    "category": "",
+    "description": "<h2>El presidente de la patronal, Josep Sánchez Llibre, ata la participación de Carlos Moedas, primer edil lisboeta</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260908/foment-del-treball-propone-ministro-economia-portugal-corredor-tecnologico-barcelona-lisboa-134079374\">Foment propone al gobierno de Portugal un corredor tecnológico Barcelona-Lisboa</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Сейм Литви підтримав розміщення ядерної зброї",
+    "link": "https://ua.korrespondent.net/world/4910434-seim-lytvy-pidtrymav-rozmischennia-yadernoi-zbroi",
+    "pubDate": "2026-09-09 18:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557754.jpg\">Скасування конституційної заборони на розміщення ядерного озброєння посилило б стримування Росії та позиції Литви в НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Guardia Civil valoró la \"connivencia de las autoridades marroquís\" en la entrada masiva en Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260909/guardia-civil-valoro-participacion-marroqui-entrada-ceuta-134119733",
+    "pubDate": "2026-09-09 18:50:49",
+    "category": "",
+    "description": "<h2>En una nota de las 21.21 horas del mismo 30 de julio se informa al Estado Mayor de las cinco hipótesis que barajan para explicar la \"incapacidad\" del país vecino para frenar la llegada de más de 72.000 inmigrantes </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Qué hacer en Barcelona: los mejores planes de esta semana",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260909/barcelona-planes-agenda-feria-medieval-besalu-pueblo-medieval-102304377",
+    "pubDate": "2026-09-09 18:50:00",
+    "category": "",
+    "description": "<h2>Los mejores planes de ocio para esta semana </h2><h2> <a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260828/abre-bar-queer-catalan-barcelona-sant-antoni-lgtbi-133173501\" target=\"_blank\">Abre un bar ‘queer’ catalán en Sant Antoni: “¿Cómo puede ser que no hubiera un bar LGTBI sobre cultura catalana en Barcelona?”</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260615/mundo-today-barcelona-marcha-papa-catalanes-preguntan-pueden-volver-ateos-131411692\">La actualidad del mañana en Barcelona de El Mundo Today</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así imagina Pedro Martínez el nuevo Madrid",
+    "link": "https://as.com/baloncesto/asi-imagina-pedro-martinez-el-nuevo-madrid-f202609-n/",
+    "pubDate": "2026-09-09 18:44:49",
+    "category": "Baloncesto",
+    "description": "El técnico merengue, que ya cuenta con Deck, quiere “una defensa proactiva, un juego rápido y que se comparta el balón”. Este viernes, tercer amistoso.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Реткліфф може очолити переговори США щодо України",
+    "link": "https://ua.korrespondent.net/world/4910436-retkliff-mozhe-ocholyty-perehovory-ssha-schodo-ukrainy",
+    "pubDate": "2026-09-09 18:42:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557790.jpg\">Директор ЦРУ Джон Реткліфф може отримати провідну роль у дипломатичних зусиллях США щодо завершення війни РФ проти України. У Білому домі обговорюють зміни у складі переговорної команди.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Путін обговорив оборонні зв'язки з президентом В'єтнаму",
+    "link": "https://ua.korrespondent.net/world/4910428-putin-obhovoryv-oboronni-zviazky-z-prezydentom-vietnamu",
+    "pubDate": "2026-09-09 18:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4557751.jpg\">Після переговорів у Москві То Лам вирушить до Франції на переговори з Емманюелем Макроном.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "\"Vuelvo en 5 minutos\", el surrealista mensaje en el mostrador informativo del colapsado aeropuerto de Palma",
+    "link": "https://www.elperiodico.com/es/sociedad/20260909/vuelvo-5-minutos-reza-mostrador-134117327",
+    "pubDate": "2026-09-09 18:21:45",
+    "category": "",
+    "description": "<h2 class=\"item\">El diluvio. Amenaza (casi) de tsunami. Lluvias de verano, miles de litros por metro cuadrado. Se teme lo peor. Y, sí, llueve, llueve mucho en toda Europa. Y solo estamos a 9 de septiembre, la gente, pese a que todos estamos en crisis, sigue viajando a todos los rincones del mundo. Y el caos continúa sin tener arreglo, de verdad. Y es 2026. Increíble.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Свята 10 вересня 2026 року: історія, традиції",
     "link": "https://ua.korrespondent.net/lifestyle/4910414-sviata-10-veresnia-2026-roku-istoriia-tradytsii",
     "pubDate": "2026-09-09 18:17:00",
