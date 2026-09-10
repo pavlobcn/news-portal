@@ -1,17 +1,21 @@
-# News for 2026-09-10 17:45
+# News for 2026-09-10 20:30
 
 Previous day: [2026-09-09](./data/2026-09-09.md)
 
 ## ua.korrespondent.net
+18:03 [Дефіциту ліків в Україні немає: як аптеки працюють після атак](https://ua.korrespondent.net/business/4910745-defitsytu-likiv-v-ukraini-nemaie-yak-apteky-pratsuiuit-pislia-atak)<br>
 17:10 [Гетфілд із Metallica створив знаменитий хіт](https://ua.korrespondent.net/showbiz/music/4910471-hetfild-iz-Metallica-stvoryv-znamenytyi-khit)<br>
 16:57 [Швейцарія планує змінити статус для розлучених](https://ua.korrespondent.net/world/4910733-shveitsariia-planuie-zminyty-status-dlia-rozluchenykh)<br>
 16:47 [Росія вдарила по Павлограду: є загиблі й поранені](https://ua.korrespondent.net/ukraine/4910730-rosiia-vdaryla-po-pavlohradu-ye-zahybli-y-poraneni)<br>
 15:23 [Блокада Ормузу підвищила попит на вугілля](https://ua.korrespondent.net/world/4910701-blokada-ormuzu-pidvyschyla-popyt-na-vuhillia)<br>
 15:01 [На пляжі в Румунії знайшли уламки дрона](https://ua.korrespondent.net/world/4910691-na-pliazhi-v-rumunii-znaishly-ulamky-drona)<br>
+14:59 [Хто очолить Нафтогаз: наглядова рада запускає відкритий конкурс](https://ua.korrespondent.net/business/companies/4910688-khto-ocholyt-naftohaz-nahliadova-rada-zapuskaie-vidkrytyi-konkurs)<br>
 14:38 [В Росії обвалилося виробництво червоної ікри](https://ua.korrespondent.net/world/russia/4910683-v-rosii-obvalylosia-vyrobnytstvo-chervonoi-ikry)<br>
 14:32 [Рязанський НПЗ зупинився  після удару дронів - Reuters](https://ua.korrespondent.net/world/russia/4910681-riazanskyi-npz-zupynyvsia-pislia-udaru-droniv-Reuters)<br>
+14:25 [Валерій Дубіль, Віта Присяжнюк і фонд "Надія" передали підрозділам ГУР понад 2500 одиниць техніки](https://ua.korrespondent.net/business/4910679-valerii-dubil-vita-prysiazhnuik-i-fond-nadiia-peredaly-pidrozdilam-hur-ponad-2500-odynyts-tekhniky)<br>
 14:07 [Нідерланди купують літак, здатний виявляти дрони й ракети](https://ua.korrespondent.net/world/4910669-niderlandy-kupuuit-litak-zdatnyi-vyiavliaty-drony-y-rakety)<br>
 13:55 [Тривоги зривають уроки: омбудсмен закликав змінити навчання у школах](https://ua.korrespondent.net/ukraine/4910664-tryvohy-zryvauit-uroky-ombudsmen-zaklykav-zminyty-navchannia-u-shkolakh)<br>
+13:53 [Бізнес в Україні зможе подати нові заяви про збитки через "Дію"](https://ua.korrespondent.net/business/4910661-biznes-v-ukraini-zmozhe-podaty-novi-zaiavy-pro-zbytky-cherez-diui)<br>
 13:47 [Чохол-книжечка. Мережа глузує з нових iPhone 18](https://ua.korrespondent.net/ukraine/4910658-chokhol-knyzhechka-merezha-hluzuie-z-novykh-iPhone-18)<br>
 13:19 [Сили оборони уразили пункт запуску Гераней](https://ua.korrespondent.net/ukraine/4910649-syly-oborony-urazyly-punkt-zapusku-heranei)<br>
 13:14 [РФ атакувала судно у Чорному морі: є жертви](https://ua.korrespondent.net/world/4910646-rf-atakuvala-sudno-u-chornomu-mori-ye-zhertvy)<br>
@@ -53,6 +57,8 @@ Previous day: [2026-09-09](./data/2026-09-09.md)
 00:57 [Кривий Ріг під масованою атакою російських дронів](https://ua.korrespondent.net/ukraine/4910495-kryvyi-rih-pid-masovanoui-atakoui-rosiiskykh-droniv)<br>
 
 ## as.com
+20:18 [Australia - España, en directo: cuartos de final del Mundial de baloncesto femenino 2026 en vivo hoy](https://as.com/baloncesto/mas_baloncesto/australia-espana-en-directo-cuartos-de-final-del-mundial-de-baloncesto-femenino-2026-en-vivo-hoy-f202609-d/)<br>
+19:52 [Así están las semifinales del Mundial... a expensas de España](https://as.com/baloncesto/mas_baloncesto/asi-estan-las-semifinales-del-mundial-a-expensas-de-espana-f202609-n/)<br>
 14:34 [El Partizán de Fuenlabrada es, más que nunca, una realidad](https://as.com/baloncesto/mas_baloncesto/el-partizan-de-fuenlabrada-es-mas-que-nunca-una-realidad-f202609-n/)<br>
 13:10 [EE UU mete miedo y espera a España](https://as.com/baloncesto/mas_baloncesto/ee-uu-mete-miedo-y-espera-a-espana-f202609-n/)<br>
 08:44 [Australia - España: horario, TV, cómo y dónde ver el Mundial femenino 2026](https://as.com/baloncesto/mas_baloncesto/australia-espana-horario-tv-como-y-donde-ver-el-mundial-femenino-2026-f202609-n/)<br>
@@ -61,6 +67,20 @@ Previous day: [2026-09-09](./data/2026-09-09.md)
 07:23 [Parker: “Ojalá hablen de nosotros algún día como del Madrid o el Barça”](https://as.com/baloncesto/euroliga/parker-ojala-hablen-de-nosotros-algun-dia-como-del-madrid-o-el-barca-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:27 [Las Torres Gemelas vuelven al skyline de Nueva York en el 25 aniversario del atentado](https://www.elperiodico.com/es/videos/internacional/torres-gemelas-vuelven-skyline-nueva-york-aniversario-atentado/134164358.shtml)<br>
+20:25 [‘NAZA’: la “máquina de matar” de Israel apisona la Mostra de Venecia](https://www.elperiodico.com/es/ocio-y-cultura/20260910/naza-maquina-matar-israel-mostra-venecia-134163701)<br>
+20:09 ["¡Me han pinchado, me han pinchado!", el grito de Carles Vilajosana después de sufrir la puñalada mortal en Manresa](https://www.elperiodico.com/es/sociedad/20260910/pinchado-grito-carles-vilajosana-punalada-mortal-crimen-manresa-134163382)<br>
+20:01 [La comunidad saharaui celebra la ley de nacionalidad pero reclama una reparación mayor](https://www.elperiodico.com/es/sociedad/20260910/comunidad-saharaui-celebra-ley-nacionalidad-134163404)<br>
+19:30 [Gritar no es sinónimo de poder: Esto es lo que realmente revela la psicología sobre quienes elevan el tono](https://www.elperiodico.com/es/salud/20260910/psicologos-levantar-voz-dominante-discusion-seguridad-dv-131066028)<br>
+19:24 [Emotiva llegada a Santiago de 15 enfermos de ELA tras culminar su peregrinación](https://www.elperiodico.com/es/videos/sociedad/emotiva-llegada-santiago-15-enfermos-ela-peregrinacion/134162199.shtml)<br>
+18:30 [VÍDEO | Detenidos tres hombres por su implicación en el tiroteo de Isla Cristina por un ajuste de cuentas entre clanes](https://www.elperiodico.com/es/videos/sucesos/video-detenidos-tres-hombres-implicacion/134159423.shtml)<br>
+18:16 [Crítica de ‘Mother’s baby (La semilla)’, una película de perturbación psicológica](https://www.elperiodico.com/es/ocio-y-cultura/20260910/critica-mother-baby-semilla-perturbacion-134158526)<br>
+18:09 [Crítica de ‘Forastera’, un ‘coming of age’ mezclado con una obsesión que tiene algo de fantasmática](https://www.elperiodico.com/es/ocio-y-cultura/20260910/critica-forastera-coming-age-obsesion-134158216)<br>
+17:58 [Detectados dos nuevos casos de peste porcina en Collserola que elevan a 386 los jabalíes muertos por el virus](https://www.elperiodico.com/es/economia/20260910/detectados-nuevos-casos-peste-porcina-collserola-134155940)<br>
+17:50 [Cómo el 11-S cambió la seguridad de los aeropuertos en todo el mundo](https://www.elperiodico.com/es/videos/internacional/11s-cambio-seguridad-aeropuertos-eeuu/134157275.shtml)<br>
+17:47 [Muere Cristóbal Colón, fundador de La Fageda, la cooperativa que hace yogures para empoderar a los más vulnerables](https://www.elperiodico.com/es/economia/20260910/muere-cristobal-colon-la-fageda-134156960)<br>
+17:45 [Verdades y mentiras tras el 'miliciano caído' de Robert Capa, la fotografía más famosa de la Guerra Civil](https://www.elperiodico.com/es/ocio-y-cultura/20260910/muerte-miliciano-robert-capa-foto-preparada-122333660)<br>
+17:45 [Javier Duque (28 años), de informático a agricultor: "Hay personas que tienen una idea muy equivocada del trabajo en el campo, como si todavía fuésemos en burro, y es todo lo contrario. Aquí utilizamos tecnología puntera"](https://www.elperiodico.com/es/economia/20260910/javier-duque-28-anos-informatico-agricultor-margen-beneficio-menor-dv-et-133355603)<br>
 17:37 [La prevención cardiovascular debe empezar en los colegios: “Los buenos hábitos se adquieren desde la infancia”](https://www.elperiodico.com/es/salud/20260910/prevencion-cardiovascular-debe-empezar-colegios-134156415)<br>
 17:33 [L'Hospitalet culminará la construcción del millar de pisos de Cosme Toda tras tumbar la Justicia el último recurso contra el plan](https://www.elperiodico.com/es/barcelona/20260910/justicia-tumba-ultima-bala-tratar-frenar-urbanizacion-cosme-toda-hospitalet-134152514)<br>
 17:17 [Los Premios Empresa del Año Banco Sabadell reconocerán “a los que hacen”](https://www.elperiodico.com/es/sociedad/20260910/premios-empresa-ano-banco-sabadell-bc-134154418)<br>
