@@ -1,8 +1,34 @@
-# News for 2026-09-10 08:23
+# News for 2026-09-10 13:36
 
 Previous day: [2026-09-09](./data/2026-09-09.md)
 
 ## ua.korrespondent.net
+13:19 [Сили оборони уразили пункт запуску Гераней](https://ua.korrespondent.net/ukraine/4910649-syly-oborony-urazyly-punkt-zapusku-heranei)<br>
+13:14 [РФ атакувала судно у Чорному морі: є жертви](https://ua.korrespondent.net/world/4910646-rf-atakuvala-sudno-u-chornomu-mori-ye-zhertvy)<br>
+13:07 [Нові цілі для ударів: що варто знати киянам](https://ua.korrespondent.net/kyiv/4910638-novi-tsili-dlia-udariv-scho-varto-znaty-kyianam)<br>
+13:03 [Це Олейна: мер Дніпра закликав розповісти про атаку РФ світу](https://ua.korrespondent.net/city/dnepr/4910642-tse-oleina-mer-dnipra-zaklykav-rozpovisty-pro-ataku-rf-svitu)<br>
+12:59 [Volvo створить у Швеції один із найбільших енергопарків](https://ua.korrespondent.net/business/companies/4910639-Volvo-stvoryt-u-shvetsii-odyn-iz-naibilshykh-enerhoparkiv)<br>
+12:40 [ФСБ готувала вбивство відомого активіста на Київщині - СБУ](https://ua.korrespondent.net/ukraine/4910631-fsb-hotuvala-vbyvstvo-vidomoho-aktyvista-na-kyivschyni-sbu)<br>
+12:31 [Нью-Йорк розкриє секретні документи про "токсичну хмару" після 11 вересня](https://ua.korrespondent.net/world/4910629-nui-york-rozkryie-sekretni-dokumenty-pro-toksychnu-khmaru-pislia-11-veresnia)<br>
+12:11 [У мережі з’явився трейлер фільму про творця ChatGPT](https://ua.korrespondent.net/showbiz/cinema/4910609-u-merezhi-ziavyvsia-treiler-filmu-pro-tvortsia-ChatGPT)<br>
+12:02 [Сили оборони уразили три кораблі у Новоросійську](https://ua.korrespondent.net/ukraine/4910621-syly-oborony-urazyly-try-korabli-u-novorosiisku)<br>
+11:41 [Серпень став найспекотнішим за всю історію спостережень](https://ua.korrespondent.net/world/4910613-serpen-stav-naispekotnishym-za-vsui-istoriui-sposterezhen)<br>
+11:29 [США та Еквадор посилять боротьбу з наркокартелями](https://ua.korrespondent.net/world/4910607-ssha-ta-ekvador-posyliat-borotbu-z-narkokarteliamy)<br>
+11:22 [Ранкова атака на Київщину: є жертва та поранені](https://ua.korrespondent.net/ukraine/4910605-rankova-ataka-na-kyivschynu-ye-zhertva-ta-poraneni)<br>
+11:17 [РФ двічі атакувала підприємство у Дніпрі: є жертви](https://ua.korrespondent.net/city/dnepr/4910603-rf-dvichi-atakuvala-pidpryiemstvo-u-dnipri-ye-zhertvy)<br>
+11:14 [Німеччина більше не головний напрямок для шукачів притулку в Європі](https://ua.korrespondent.net/world/4910600-nimechchyna-bilshe-ne-holovnyi-napriamok-dlia-shukachiv-prytulku-v-yevropi)<br>
+10:57 [У Росії визнають проблеми армії під Лиманом - ISW](https://ua.korrespondent.net/world/russia/4910594-u-rosii-vyznauit-problemy-armii-pid-lymanom-ISW)<br>
+10:47 [Через обстріли є знеструмлення у трьох областях](https://ua.korrespondent.net/ukraine/4910591-cherez-obstrily-ye-znestrumlennia-u-trokh-oblastiakh)<br>
+10:35 [У серпні із СЗЧ повернулося більше військових, ніж залишили частини](https://ua.korrespondent.net/ukraine/4910589-u-serpni-iz-szch-povernulosia-bilshe-viiskovykh-nizh-zalyshyly-chastyny)<br>
+10:31 [РФ понівечила будівлю Суспільного у Кривому Розі](https://ua.korrespondent.net/ukraine/4910587-rf-ponivechyla-budivlui-suspilnoho-u-kryvomu-rozi)<br>
+10:11 [Атака БПЛА на Київ: виникла пожежа, є постраждалі](https://ua.korrespondent.net/city/kiev/4910578-ataka-bpla-na-kyiv-vynykla-pozhezha-ye-postrazhdali)<br>
+09:44 [Зеленський підтвердив ураження восьми об’єктів РФ](https://ua.korrespondent.net/ukraine/4910567-zelenskyi-pidtverdyv-urazhennia-vosmy-obiektiv-rf)<br>
+09:38 [РФ вдарила по навчальному закладу на Чернігівщині: є постраждалий](https://ua.korrespondent.net/ukraine/4910566-rf-vdaryla-po-navchalnomu-zakladu-na-chernihivschyni-ye-postrazhdalyi)<br>
+09:24 [Детонація в Милі після удару РФ: посадовцю СБУ повідомили про підозру](https://ua.korrespondent.net/ukraine/4910563-detonatsiia-v-myli-pislia-udaru-rf-posadovtsui-sbu-povidomyly-pro-pidozru)<br>
+09:21 [Під виглядом риболовлі збирав дані про ЗСУ: затримано інформатора РФ](https://ua.korrespondent.net/ukraine/4910561-pid-vyhliadom-rybolovli-zbyrav-dani-pro-zsu-zatrymano-informatora-rf)<br>
+08:58 [ГУР розкрило дані про новий російський балістичний "франкенштейн"](https://ua.korrespondent.net/ukraine/4910551-hur-rozkrylo-dani-pro-novyi-rosiiskyi-balistychnyi-frankenshtein)<br>
+08:45 [Кримський рубильник off: СБС назвали нові ураження](https://ua.korrespondent.net/ukraine/4910548-krymskyi-rubylnyk-off-sbs-nazvaly-novi-urazhennia)<br>
+08:25 [У Молдові розповіли, де був літак Зеленського під час появи дрона](https://ua.korrespondent.net/world/4910541-u-moldovi-rozpovily-de-buv-litak-zelenskoho-pid-chas-poiavy-drona)<br>
 08:19 [Понад 10 тисяч дронів і 331 КАБ: РФ масовано атакувала українські позиції](https://ua.korrespondent.net/ukraine/4910539-ponad-10-tysiach-droniv-i-331-kab-rf-masovano-atakuvala-ukrainski-pozytsii)<br>
 08:09 [РФ вночі запустила 149 дронів: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4910533-rf-vnochi-zapustyla-149-droniv-yak-vidpratsuivala-ppo)<br>
 07:59 [Атаки РФ на Київщину: троє постраждалих, пошкоджено 32 об’єкти](https://ua.korrespondent.net/ukraine/4910537-ataky-rf-na-kyivschynu-troie-postrazhdalykh-poshkodzheno-32-obiekty)<br>
@@ -17,11 +43,41 @@ Previous day: [2026-09-09](./data/2026-09-09.md)
 00:57 [Кривий Ріг під масованою атакою російських дронів](https://ua.korrespondent.net/ukraine/4910495-kryvyi-rih-pid-masovanoui-atakoui-rosiiskykh-droniv)<br>
 
 ## as.com
+13:10 [EE UU mete miedo y espera a España](https://as.com/baloncesto/mas_baloncesto/ee-uu-mete-miedo-y-espera-a-espana-f202609-n/)<br>
+08:44 [Australia - España: horario, TV, cómo y dónde ver el Mundial femenino 2026](https://as.com/baloncesto/mas_baloncesto/australia-espana-horario-tv-como-y-donde-ver-el-mundial-femenino-2026-f202609-n/)<br>
 07:30 [El futuro es ya presente](https://as.com/baloncesto/mas_baloncesto/el-futuro-es-ya-presente-f202609-n/)<br>
 07:30 [Buenavida: “Para nosotras significa más la palabra amistad que todo lo demás”](https://as.com/baloncesto/mas_baloncesto/buenavida-para-nosotras-significa-mas-la-palabra-amistad-que-todo-lo-demas-f202609-n/)<br>
 07:23 [Parker: “Ojalá hablen de nosotros algún día como del Madrid o el Barça”](https://as.com/baloncesto/euroliga/parker-ojala-hablen-de-nosotros-algun-dia-como-del-madrid-o-el-barca-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:19 [Confirmado por el BOE: el viernes 11 de septiembre es festivo en una comunidad y muchos municipios de otras regiones de España](https://www.elperiodico.com/es/economia/20260910/festivos-locales-viernes-11-septiembre-comunidades-autonomas-espana-dv-134133814)<br>
+13:19 [Informe PISA 2025: las facultades científicas catalanas exigen reformas educativas para que los alumnos no lleguen a la universidad con graves carencias](https://www.elperiodico.com/es/sociedad/20260910/informe-pisa-universidades-piden-reformas-evitar-alumnos-carencias-academicas-134141522)<br>
+13:19 [Un incendio en Montjuïc provoca una gran columna de humo visible desde distintos puntos de Barcelona](https://www.elperiodico.com/es/videos/sucesos/incendio-montjuic-provoca-gran-columna/134142645.shtml)<br>
+13:16 [La Fiscalía alerta del aumento de los delitos cometidos por menores de 14 años](https://www.elperiodico.com/es/sociedad/20260910/delitos-cometidos-por-menores-agresion-sexual-homicidios-acoso-escolar-memoria-fiscalia-general-134115475)<br>
+13:11 [Uno de cada tres incendios de 2025, el año con más superficie quemada de este siglo, fue intencionado](https://www.elperiodico.com/es/sociedad/20260910/aumentan-incendios-intencionados-espana-2025-134137460)<br>
+13:10 [Los delitos de odio y discriminación por racismo y orientación sexual se disparan un 15,3% en un año](https://www.elperiodico.com/es/sociedad/20260910/delitos-odio-discriminacion-racismo-orientacion-sedisparan-134134564)<br>
+13:09 [Uno de cada cinco delitos en España ya está relacionado con la ciberdelincuencia, según la Fiscalía](https://www.elperiodico.com/es/sociedad/20260910/delitos-ciberdelincuencia-aumentan-memoria-fiscalia-134133486)<br>
+13:05 [5 faltas de educación que también necesitan aprender los hijos, según los psicólogos](https://www.elperiodico.com/es/educacion/20260910/faltas-educacion-respeto-hijos-psicologia-javier-haro-dv-et-133872055)<br>
+13:02 [Un incendio en Montjuïc provoca una gran columna de humo visible desde distintos puntos de Barcelona](https://www.elperiodico.com/es/barcelona/20260910/incendio-montjuic-humo-trafico-barcelona-134141238)<br>
+13:02 [El mar cerca la mansión de 10,5 millones de Nicolas Cage en Malibú: un socavón engulle su entrada](https://www.elperiodico.com/es/gente/20260910/nicolas-cage-mansion-10-millones-malibu-socavon-134139801)<br>
+12:59 [La mansión de Nicolas Cage en Malibú ha estado a punto de ser engullida por el mar](https://www.elperiodico.com/es/videos/sociedad/mansion-nicolas-cage-malibu-punto/134141387.shtml)<br>
+12:54 [Un neurólogo explica el error que nunca debes cometer con una persona con alzhéimer: "Generamos más agresividad"](https://www.elperiodico.com/es/salud/20260910/alzheimer-errores-agresividad-reconocimiento-delirios-neurologo-david-perez-dv-et-134134929)<br>
+12:37 [José Antonio (29 años), funcionario y viviendo en una furgoneta: "Era vivir en la furgo o meterte en una hipoteca de 45 años"](https://www.elperiodico.com/es/vivienda/20260910/furgoneta-camperizada-hipoteca-jose-antonio-dv-et-134133698)<br>
+12:31 [Los trabajadores españoles ya pierden poder adquisitivo por la crisis de Oriente Medio](https://www.elperiodico.com/es/economia/20260910/salarios-trabajadores-espanoles-empiezan-perder-adquisitivo-guerra-iran-134139971)<br>
+12:24 [Las muertes por suicidio, 3.808 en 2025, suman el tercer descenso anual consecutivo](https://www.elperiodico.com/es/sanidad/20260910/muertes-suicidio-suman-tercer-descenso-anual-consecutivo-134135780)<br>
+12:18 [El informe PISA alerta del aumento del alumnado al que le resulta aburrido aprender](https://www.elperiodico.com/es/sociedad/20260910/resultados-informe-pisa-alumnos-aburridos-aprender-134137491)<br>
+12:18 [Las primeras veces, por Jordi Puntí](https://www.elperiodico.com/es/deportes/20260910/primeras-veces-jordi-punti-barcelona-flick-134138694)<br>
+12:00 [La Policía reveló que "a diferencia de Ceuta" los agentes marroquíes realizaron en el entorno de Melilla "intensas actividades operativas"](https://www.elperiodico.com/es/politica/20260910/policia-revelo-diferencia-ceuta-agentes-134124813)<br>
+11:45 [La jueza del caso Andic ordena rastrear el uso que Jonathan hizo de su iPhone en Ecuador](https://www.elperiodico.com/es/videos/sociedad/jueza-caso-andic-ordena-rastrear/134137555.shtml)<br>
+11:37 [El 50% de las personas con migraña se automedica y un 12% usa opioides para paliar el dolor](https://www.elperiodico.com/es/sanidad/20260910/personas-migrana-automedica-usa-opioides-farmacos-134133493)<br>
+11:25 [Anthropic permite a la UE acceder con retraso a Mythos, su IA más potente](https://www.elperiodico.com/es/tecnologia/20260910/anthropic-permite-ue-acceder-mythos-ia-ciberseguridad-union-europea-ciberataque-openai-134135874)<br>
+11:20 [Valentín Fuster: "El corazón nos habla de cuánto podemos vivir; el cerebro, de cómo viviremos esos años"](https://www.elperiodico.com/es/sociedad/20260910/valentin-fuster-corazon-habla-vivir-mas-anos-cerebro-calidad-vida-134135132)<br>
+10:55 [La jueza del caso Andic ordena rastrear el uso que Jonathan hizo de su iPhone en Ecuador](https://www.elperiodico.com/es/sociedad/20260910/caso-andic-mango-jueza-rastreo-telefono-movil-johnatan-andic-viaje-ecuador-134134985)<br>
+10:00 [Las hipotecas afrontan nuevas subidas al calor de los tipos tras dispararse el Euríbor un 147% desde 2022](https://www.elperiodico.com/es/economia/20260910/hipotecas-afrontan-nuevas-subidas-calor-134133735)<br>
+09:50 [Del ES-Alert a levantar las restricciones: ¿qué falló en la previsión de las lluvias en Catalunya?](https://www.elperiodico.com/es/sociedad/20260910/alerta-lluvias-catalunya-restricciones-prevision-134132106)<br>
+09:48 [La cuestión rusa agita la Mostra con 'DAU', el 'Oppenheimer' soviético](https://www.elperiodico.com/es/ocio-y-cultura/20260910/cuestion-rusa-agita-mostra-dau-134132867)<br>
+09:41 [El iPhone Duo devuelve el protagonismo al móvil plegable: ¿Puede Apple convertirlo en un éxito?](https://www.elperiodico.com/es/tecnologia/20260910/iphone-duo-movil-smartphone-plegable-vuelta-apple-samsung-telefonos-huawei-xiaomi-134039811)<br>
+09:10 [José Abellán (40 años), cardiólogo: "No son 10.000 pasos al día, son muchos menos e importa mucho como los des"](https://www.elperiodico.com/es/salud/20260910/jose-abellan-cardiologo-pasos-salud-ejercicio-fisico-dv-et-133914646)<br>
 08:20 [Alarma en el asentamiento de la Fórmula 1 en Valencia por una falsa orden de desalojo](https://www.elperiodico.com/es/sociedad/20260910/alarma-asentamiento-formula-1-valencia-falsa-orden-desalojo-134131249)<br>
 08:10 [Alberto Toro, profesor en la España rural formado en Harvard: "He llegado a tener solo dos alumnos en clase y niños de 2 a 14 años en la misma aula"](https://www.elperiodico.com/es/sociedad/20260910/alberto-toro-profesor-espana-rural-harvard-solo-dos-alumnos-aula-dv-et-134097791)<br>
 08:08 [La Bienal de flamenco enciende el duende en Sevilla durante cinco semanas](https://www.elperiodico.com/es/ocio-y-cultura/20260910/bienal-flamenco-enciende-duende-sevilla-134130918)<br>
