@@ -1,8 +1,9 @@
-# News for 2026-09-10 17:10
+# News for 2026-09-10 17:45
 
 Previous day: [2026-09-09](./data/2026-09-09.md)
 
 ## ua.korrespondent.net
+17:10 [Гетфілд із Metallica створив знаменитий хіт](https://ua.korrespondent.net/showbiz/music/4910471-hetfild-iz-Metallica-stvoryv-znamenytyi-khit)<br>
 16:57 [Швейцарія планує змінити статус для розлучених](https://ua.korrespondent.net/world/4910733-shveitsariia-planuie-zminyty-status-dlia-rozluchenykh)<br>
 16:47 [Росія вдарила по Павлограду: є загиблі й поранені](https://ua.korrespondent.net/ukraine/4910730-rosiia-vdaryla-po-pavlohradu-ye-zahybli-y-poraneni)<br>
 15:23 [Блокада Ормузу підвищила попит на вугілля](https://ua.korrespondent.net/world/4910701-blokada-ormuzu-pidvyschyla-popyt-na-vuhillia)<br>
@@ -60,6 +61,9 @@ Previous day: [2026-09-09](./data/2026-09-09.md)
 07:23 [Parker: “Ojalá hablen de nosotros algún día como del Madrid o el Barça”](https://as.com/baloncesto/euroliga/parker-ojala-hablen-de-nosotros-algun-dia-como-del-madrid-o-el-barca-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:37 [La prevención cardiovascular debe empezar en los colegios: “Los buenos hábitos se adquieren desde la infancia”](https://www.elperiodico.com/es/salud/20260910/prevencion-cardiovascular-debe-empezar-colegios-134156415)<br>
+17:33 [L'Hospitalet culminará la construcción del millar de pisos de Cosme Toda tras tumbar la Justicia el último recurso contra el plan](https://www.elperiodico.com/es/barcelona/20260910/justicia-tumba-ultima-bala-tratar-frenar-urbanizacion-cosme-toda-hospitalet-134152514)<br>
+17:17 [Los Premios Empresa del Año Banco Sabadell reconocerán “a los que hacen”](https://www.elperiodico.com/es/sociedad/20260910/premios-empresa-ano-banco-sabadell-bc-134154418)<br>
 17:01 [Tiempo en Catalunya mañana viernes: Diada soleada y ligera subida de temperaturas en Barcelona y buena parte del territorio](https://www.elperiodico.com/es/tiempo/20260910/tiempo-hoy-diada-catalunya-11-septiembre-viernes-dv-loc-134148442)<br>
 17:00 [Apple presenta el Apple Watch Ultra 4 con nuevas funciones de salud y hasta 45 horas de autonomía](https://www.elperiodico.com/es/tecnologia/20260910/apple-presenta-apple-watch-ultra-134152905)<br>
 16:55 [Los expertos detectan un nuevo patrón de violencia juvenil: más temprana, más impulsiva y con más armas blancas](https://www.elperiodico.com/es/sociedad/20260910/delitos-menores-edad-violencia-normalizada-mas-temprana-armas-blancas-134146243)<br>
