@@ -1,9 +1,11 @@
-# News for 2026-09-10 23:10
+# News for 2026-09-11 01:12
 
 Previous day: [2026-09-09](./data/2026-09-09.md)
 
 ## ua.korrespondent.net
+21:15 [Вчені відкрили нову форму льоду, яка існує за температури понад 2000°C](https://ua.korrespondent.net/tech/science/4910791-vcheni-vidkryly-novu-formu-lodu-yaka-isnuie-za-temperatury-ponad-2000C)<br>
 20:58 [Поліція оточила консульство України в Дюссельдорфі](https://ua.korrespondent.net/world/4910785-politsiia-otochyla-konsulstvo-ukrainy-v-duisseldorfi)<br>
+20:39 [МВФ попередив про високі ризики для світової економіки у 2026 році](https://ua.korrespondent.net/business/economics/4910777-mvf-poperedyv-pro-vysoki-ryzyky-dlia-svitovoi-ekonomiky-u-2026-rotsi)<br>
 18:03 [Дефіциту ліків в Україні немає: як аптеки працюють після атак](https://ua.korrespondent.net/business/4910745-defitsytu-likiv-v-ukraini-nemaie-yak-apteky-pratsuiuit-pislia-atak)<br>
 17:10 [Гетфілд із Metallica створив знаменитий хіт](https://ua.korrespondent.net/showbiz/music/4910471-hetfild-iz-Metallica-stvoryv-znamenytyi-khit)<br>
 16:57 [Швейцарія планує змінити статус для розлучених](https://ua.korrespondent.net/world/4910733-shveitsariia-planuie-zminyty-status-dlia-rozluchenykh)<br>
@@ -58,6 +60,7 @@ Previous day: [2026-09-09](./data/2026-09-09.md)
 00:57 [Кривий Ріг під масованою атакою російських дронів](https://ua.korrespondent.net/ukraine/4910495-kryvyi-rih-pid-masovanoui-atakoui-rosiiskykh-droniv)<br>
 
 ## as.com
+23:17 [Miguel Méndez:  “Mis jugadoras no me dejarían que pensara en el partido del bronce”.](https://as.com/baloncesto/mas_baloncesto/miguel-mendez-mis-jugadoras-no-me-dejarian-que-pensara-en-el-partido-del-bronce-f202609-n/)<br>
 22:44 [Bea Zudaire impulsa a España](https://as.com/baloncesto/mas_baloncesto/bea-zudaire-impulsa-a-espana-f202609-n/)<br>
 22:39 [Un Willy estelar](https://as.com/baloncesto/un-willy-estelar-f202609-n/)<br>
 22:37 [El Baskonia, cerca de fichar al ucraniano Alex Len](https://as.com/baloncesto/el-baskonia-cerca-de-fichar-al-ucraniano-alex-len-f202609-n/)<br>
@@ -75,6 +78,7 @@ Previous day: [2026-09-09](./data/2026-09-09.md)
 07:23 [Parker: “Ojalá hablen de nosotros algún día como del Madrid o el Barça”](https://as.com/baloncesto/euroliga/parker-ojala-hablen-de-nosotros-algun-dia-como-del-madrid-o-el-barca-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:28 [Brizuela mantuvo a flote a un Barça con dos caras](https://www.elperiodico.com/es/deportes/20260910/barca-andorra-brizuela-flote-caras-134168020)<br>
 22:23 [España arrasa a Australia y se cruzará con Estados Unidos en la lucha por las medallas](https://www.elperiodico.com/es/deportes/20260910/espana-australia-baloncesto-femenino-mundial-resultado-resumen-134167183)<br>
 22:08 [El Ilerna Lleida remonta al FIATC Girona (88-98) y se mete en la final de la Liga Catalana](https://www.elperiodico.com/es/deportes/20260910/ilerna-lleida-remonta-fiatc-girona-134166609)<br>
 21:29 [Anthropic asegura haber desarticulado complots que usaban su IA para desarrollar armas biológicas](https://www.elperiodico.com/es/sociedad/20260910/anthropic-asegura-haber-desarticulado-complots-134165930)<br>

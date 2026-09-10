@@ -1,5 +1,59 @@
 [
   {
+    "title": "Un homenaje a la ‘nova cançó’ con sentimiento e inventiva en ‘50 Diades’ en el Altaveu",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260910/homenaje-nova-canco-sentimiento-inventiva-50-diades-articulo-jordi-bianciotto-134168130",
+    "pubDate": "2026-09-10 23:57:24",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El festival de Sant Boi de Llobregat evocó los tiempos en que la ciudad acogió el primer 11-S tras la muerte de Franco, en 1976, en un concierto colectivo que contó con voces como Lluís Gavaldà, Mushkaa, Ismael Serrano, Els Amics de les Arts o Maria Hein</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зеленський сказав, коли чекати результати переговорів",
+    "link": "https://ua.korrespondent.net/ukraine/4910811-zelenskyi-skazav-koly-chekaty-rezultaty-perehovoriv",
+    "pubDate": "2026-09-10 23:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559391.jpg\">Українська і американська команди зараз обговорюють можливу тристоронню зустріч, а сам Зеленський розраховує наприкінці місяця зустрітися з Трампом.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bayern y Como deslumbran en la Champions",
+    "link": "https://www.elperiodico.com/es/deportes/20260910/bayern-deslumbran-champions-134168094",
+    "pubDate": "2026-09-10 23:45:29",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Brizuela mantuvo a flote a un Barça con dos caras",
+    "link": "https://www.elperiodico.com/es/deportes/20260910/barca-andorra-brizuela-flote-caras-134168020",
+    "pubDate": "2026-09-10 23:28:13",
+    "category": "",
+    "description": "<h2 class=\"item\">La 'Mamba' brilló con 19 puntos en un cuadro azulgrana que impuso su ley en la primera parte y sufrió tras el descanso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miguel Méndez:  “Mis jugadoras no me dejarían que pensara en el partido del bronce”.",
+    "link": "https://as.com/baloncesto/mas_baloncesto/miguel-mendez-mis-jugadoras-no-me-dejarian-que-pensara-en-el-partido-del-bronce-f202609-n/",
+    "pubDate": "2026-09-10 23:17:35",
+    "category": "Selección baloncesto Australia",
+    "description": "El seleccionador resaltó que son “un equipo” y que van a por todas ante Estados Unidos. “Es bueno que sea tan difícil elegir a la MVP del partido”.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Поліцейська операція в консульстві України в Дюссельдорфі: що сталося",
+    "link": "https://ua.korrespondent.net/ukraine/4910807-politseiska-operatsiia-v-konsulstvi-ukrainy-v-duisseldorfi-scho-stalosia",
+    "pubDate": "2026-09-10 23:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559363.jpg\">Генеральноге консульство України в Дюссельдорфі отримало анонімну погрозу про замінування.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Bea Zudaire impulsa a España",
     "link": "https://as.com/baloncesto/mas_baloncesto/bea-zudaire-impulsa-a-espana-f202609-n/",
     "pubDate": "2026-09-10 22:44:05",
@@ -34,6 +88,24 @@
     "description": "El año pasado llegó a jugar 44 partidos con el Real Madrid pero ahora está sin equipo y libre de contrato",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Арсенал готує Артеті найбільшу зарплату у світі",
+    "link": "https://ua.korrespondent.net/sport/football/4910803-arsenal-hotuie-arteti-naibilshu-zarplatu-u-sviti",
+    "pubDate": "2026-09-10 22:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559321.jpg\">Іспанський фахівець може продовжити очолювати команду на нових для себе вартісних орієнтирах.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "5 тисяч доларів кожному. Плани Трампа на вибори",
+    "link": "https://ua.korrespondent.net/world/4910810-5-tysiach-dolariv-kozhnomu-plany-trampa-na-vybory",
+    "pubDate": "2026-09-10 22:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559390.jpg\">У 2025 році доросле населення США становило близько 267 млн осіб. Якби кожен громадянин отримав виплату, загальна сума сягнула б колосальних 1,34 трильйона доларів.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "España arrasa a Australia y se cruzará con Estados Unidos en la lucha por las medallas",
@@ -108,6 +180,15 @@
     "topic_match_probability": 75
   },
   {
+    "title": "Шахтар не довів матч з ПСВ до перемоги",
+    "link": "https://ua.korrespondent.net/sport/football/4910797-shakhtar-ne-doviv-match-z-psv-do-peremohy",
+    "pubDate": "2026-09-10 21:44:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559291.jpg\">Донецька команда програла матч нідерландським суперникам на футбольному полі Ейндговена в першому турі Ліги чемпіонів.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Туск попередив про можливі атаки РФ на кордоні з Україною",
     "link": "https://ua.korrespondent.net/world/4910795-tusk-poperedyv-pro-mozhlyvi-ataky-rf-na-kordoni-z-ukrainoui",
     "pubDate": "2026-09-10 21:39:00",
@@ -144,6 +225,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Збірна України на Євро-2026 з волейболу в першій грі перемогла Ізраїль",
+    "link": "https://ua.korrespondent.net/sport/4910793-zbirna-ukrainy-na-yevro-2026-z-voleibolu-v-pershii-hri-peremohla-izrail",
+    "pubDate": "2026-09-10 21:24:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559277.jpg\">Для перемоги в матчі українським волейболістам довелося зіграти чотири партії з першим суперником на турнірі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Al menos cinco muertos y más de 80 desaparecidos en el incendio de un ferry en Filipinas",
     "link": "https://www.elperiodico.com/es/videos/internacional/cinco-muertos-80-desaparecidos-incendio-ferry-filipinas/134165736.shtml",
     "pubDate": "2026-09-10 21:23:09",
@@ -171,6 +261,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Вчені відкрили нову форму льоду, яка існує за температури понад 2000°C",
+    "link": "https://ua.korrespondent.net/tech/science/4910791-vcheni-vidkryly-novu-formu-lodu-yaka-isnuie-za-temperatury-ponad-2000C",
+    "pubDate": "2026-09-10 21:15:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559275.jpg\">Дослідники вперше однозначно зафіксували гексагональну форму суперйонного льоду за тиску до 2,3 мільйона атмосфер і температури 2357 °C.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Macías, el último de Filipinas en la amnistía, guerra cuyo final conoce por el juez Llarena",
     "link": "https://www.elperiodico.com/es/politica/20260910/macias-ultimo-filipinas-amnistia-guerra-134164810",
     "pubDate": "2026-09-10 21:10:51",
@@ -195,6 +294,15 @@
     "category": "",
     "description": "<h2>El president de la Generalitat reivindica que \"nadie es más catalán que nadie\" y reclama \"sentido de país\" para superar retos como el de la nueva financiación y la crisis educativa</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260910/diada-catalunya-11-septiembre-manifestacion-actos-ultima-hora-directo-134138335\" target=\"_blank\">DIRECTO | Última hora de los actos del día 11 de septiembre</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260909/salvador-illa-diada-acto-sant-boi-unidad-democratas-avance-autoritarismos-catalunya-134119200\" target=\"_blank\">Illa llama desde Sant Boi a una Diada de unidad de los demócratas frente al avance del \"autoritarismo\"</a></h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мендоса вперше забиває за Шахтар у Лізі чемпіонів",
+    "link": "https://ua.korrespondent.net/sport/football/4910787-mendosa-vpershe-zabyvaie-za-shakhtar-u-lizi-chempioniv",
+    "pubDate": "2026-09-10 21:01:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559260.jpg\">Дебютний гол венесуельського півзахисника відбувся в матчі донецької команди з нідерландськими суперниками в рамках першого туру загального етапу проведення Ліги чемпіонів сезону-2006/27.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -261,6 +369,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Французи відмовилися підтримувати приватні міжнародні ініціативи Інфантіно",
+    "link": "https://ua.korrespondent.net/sport/football/4910782-frantsuzy-vidmovylysia-pidtrymuvaty-pryvatni-mizhnarodni-initsiatyvy-infantino",
+    "pubDate": "2026-09-10 20:42:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559259.jpg\">Глава ФІФА більше не може розраховувати на підтримку Французької футбольної федерації, яка висловила незгоду з намірами функціонера щодо прав на Мундіаль.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "МВФ попередив про високі ризики для світової економіки у 2026 році",
+    "link": "https://ua.korrespondent.net/business/economics/4910777-mvf-poperedyv-pro-vysoki-ryzyky-dlia-svitovoi-ekonomiky-u-2026-rotsi",
+    "pubDate": "2026-09-10 20:39:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559240.jpg\">Світова економіка виявилася стійкішою до енергетичного шоку від конфлікту на Близькому Сході, ніж очікував МВФ. Водночас фонд попереджає: ризики залишаються високими.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Magdalena Perelló, cardióloga: \"No solo necesitas una dieta sana para proteger tu corazón. Necesitas vínculos sanos\"",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260910/magdalena-perello-cardiologa-dieta-vinculos-sanos-dv-et-134152998",
     "pubDate": "2026-09-10 20:30:50",
@@ -277,6 +403,15 @@
     "description": "<h2 class=\"item\">La Cámara reúne a la plana mayor de la política catalana durante la vispera del Onze de Setembre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260910/diada-catalunya-11-septiembre-manifestacion-actos-ultima-hora-directo-134138335\">Diada de Catalunya 2026, hoy en directo | Última hora de las manifestaciones en el Fossar de les Moreres y de los actos del día 11 de septiembre</a></h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Lexus оновила флагманський седан LS",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4910780-Lexus-onovyla-flahmanskyi-sedan-LS",
+    "pubDate": "2026-09-10 20:28:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559241.jpg\">Модель 2027 модельного року отримала модернізовану підвіску, переналаштовані системи керування та посилений центральний тунель, але зберегла звичний дизайн.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
   },
   {
     "title": "Las Torres Gemelas vuelven al skyline de Nueva York en el 25 aniversario del atentado",
