@@ -1,5 +1,275 @@
 [
   {
+    "title": "Bea Zudaire impulsa a España",
+    "link": "https://as.com/baloncesto/mas_baloncesto/bea-zudaire-impulsa-a-espana-f202609-n/",
+    "pubDate": "2026-09-10 22:44:05",
+    "category": "Baloncesto",
+    "description": "La Selección logra su segunda victoria en el Mundial en silla de ruedas de Ottawa. Zudaire, magistral con 29 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Бучанському районі палає склад",
+    "link": "https://ua.korrespondent.net/ukraine/4910805-u-buchanskomu-raioni-palaie-sklad",
+    "pubDate": "2026-09-10 22:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559349.jpg\">Майже весь день Київщина жила під сигналами повітряної тривоги через атаки ударних дронів. У Бучанському, Фастівському та Обухівському районах пошкоджено 17 об’єктів, є загиблий.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un Willy estelar",
+    "link": "https://as.com/baloncesto/un-willy-estelar-f202609-n/",
+    "pubDate": "2026-09-10 22:39:56",
+    "category": "Baloncesto",
+    "description": "Partidazo del pívot (16 puntos, 11 rebotes y 32 de valoración) para abrir con victoria ante Tenerife el Costa del Sol, con el madrileño también decisivo en los últimos minutos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Baskonia, cerca de fichar al ucraniano Alex Len",
+    "link": "https://as.com/baloncesto/el-baskonia-cerca-de-fichar-al-ucraniano-alex-len-f202609-n/",
+    "pubDate": "2026-09-10 22:37:07",
+    "category": "Baskonia",
+    "description": "El año pasado llegó a jugar 44 partidos con el Real Madrid pero ahora está sin equipo y libre de contrato",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España arrasa a Australia y se cruzará con Estados Unidos en la lucha por las medallas",
+    "link": "https://www.elperiodico.com/es/deportes/20260910/espana-australia-baloncesto-femenino-mundial-resultado-resumen-134167183",
+    "pubDate": "2026-09-10 22:23:57",
+    "category": "",
+    "description": "<h2>Las de Méndez completaron su mejor actuación en el cuarto de final ante Australia (66-89). Jugarán la semifinal con las ‘yankees’ este sábado (20:00)</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Втретє за добу: РФ вдарила по ТРЦ у Сумах",
+    "link": "https://ua.korrespondent.net/ukraine/4910801-vtretie-za-dobu-rf-vdaryla-po-trts-u-sumakh",
+    "pubDate": "2026-09-10 22:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559335.jpg\">Через повторні російські удари в Сумах виникли пожежі в торгівельно-розважальному центрі та промисловій зоні.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "España recupera su lugar",
+    "link": "https://as.com/baloncesto/mas_baloncesto/espana-recupera-su-lugar-f202609-n/",
+    "pubDate": "2026-09-10 22:19:18",
+    "category": "Baloncesto femenino",
+    "description": "La Selección vuelve a las semifinales de un Mundial y se enfrentará a Estados Unidos. Al descanso, arrollaba a Australia por 37-58.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carlota Ciganda y la 'rookie' Julia López buscan ayudar a Europa a recuperar la Solheim Cup",
+    "link": "https://www.elperiodico.com/es/deportes/20260910/carlota-ciganda-rookie-julia-lopez-134166743",
+    "pubDate": "2026-09-10 22:14:38",
+    "category": "",
+    "description": "<h2>Los Países Bajos acogen la competición por equipos que enfrenta a Europa contra Estados Unidos desde este viernes hasta el domingo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 11 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260910/portada-periodico-11-septiembre-2026-134166734",
+    "pubDate": "2026-09-10 22:12:56",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Ilerna Lleida remonta al FIATC Girona (88-98) y se mete en la final de la Liga Catalana",
+    "link": "https://www.elperiodico.com/es/deportes/20260910/ilerna-lleida-remonta-fiatc-girona-134166609",
+    "pubDate": "2026-09-10 22:08:13",
+    "category": "",
+    "description": "<h2>El equipo ilerdense sumó su segundo triunfo en dos jornadas y disputará la final el domingo (12.00 h.)</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tebas: \"Si se cambian los temas de gobernanza de FIFA creo que la final será en España\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/tebas-cambian-gobernanza-fifa-final-mundial-espana/134166701.shtml",
+    "pubDate": "2026-09-10 22:06:56",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Нацгвардії буде новий центр для рекрутингу іноземців",
+    "link": "https://ua.korrespondent.net/ukraine/4910799-u-natshvardii-bude-novyi-tsentr-dlia-rekrutynhu-inozemtsiv",
+    "pubDate": "2026-09-10 21:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559306.jpg\">У Національній гвардії України планують створити окремий центр для рекрутингу іноземців та осіб без громадянства. У МВС очікують, що це пришвидшить набір бійців до бойових підрозділів.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Туск попередив про можливі атаки РФ на кордоні з Україною",
+    "link": "https://ua.korrespondent.net/world/4910795-tusk-poperedyv-pro-mozhlyvi-ataky-rf-na-kordoni-z-ukrainoui",
+    "pubDate": "2026-09-10 21:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559305.jpg\">Польща очікує, що Росія може спробувати атакувати прикордонні переходи з Україною. Дональд Туск закликав Європу готуватися до різних сценаріїв на східному фланзі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Trump rompe con la tradición de las celebraciones del 11-S: no acudirá a Nueva York porque no le dejan dar discurso",
+    "link": "https://www.elperiodico.com/es/internacional/20260910/trump-25-aniversario-11s-nueva-york-pentagono-134165987",
+    "pubDate": "2026-09-10 21:31:01",
+    "category": "",
+    "description": "<h2>\"Prometió al pueblo estadounidense que evitaría las guerras en Oriente Próximo y ahora se encuentra atrapado con Irán\", dice Gregory Aftandilian</h2><h2>\"Trump explotó ese rechazo y me atrevería a decir que no habría tenido el mismo éxito político sin ese desencanto\", asegura Nathan Citino</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Lleida remonta al Girona y se mete en la final de la Lliga Catalana",
+    "link": "https://as.com/baloncesto/acb/el-lleida-remonta-al-girona-y-se-mete-en-la-final-de-la-lliga-catalana-f202609-n/",
+    "pubDate": "2026-09-10 21:30:09",
+    "category": "Baloncesto",
+    "description": "Después de vencer 24 horas antes al Joventut, los ilerdenses también se imponen en la segunda jornada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anthropic asegura haber desarticulado complots que usaban su IA para desarrollar armas biológicas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260910/anthropic-asegura-haber-desarticulado-complots-134165930",
+    "pubDate": "2026-09-10 21:29:18",
+    "category": "",
+    "description": "<h2>La empresa tecnológica dice haber desarrollado sistemas de detección para identificar y bloquear los usos que puedan suponer un riesgo en sus modelos de inteligencia artificial</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Al menos cinco muertos y más de 80 desaparecidos en el incendio de un ferry en Filipinas",
+    "link": "https://www.elperiodico.com/es/videos/internacional/cinco-muertos-80-desaparecidos-incendio-ferry-filipinas/134165736.shtml",
+    "pubDate": "2026-09-10 21:23:09",
+    "category": "",
+    "description": "43 personas han sido rescatadas con vida en la últimas horas",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Kamchàtka abre FiraTàrrega con 'Incontinuo', una pieza sobre migrantes",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260910/kamchatka-abre-firatarrega-incontinuo-pieza-migraciones-133987597",
+    "pubDate": "2026-09-10 21:17:10",
+    "category": "",
+    "description": "<h2>Este año hay 57 espectáculos programados hasta el domingo,  más propuestas gratuitas y entradas a precios más bajos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Канада допоможе енергетиці України перед зимою",
+    "link": "https://ua.korrespondent.net/ukraine/4910788-kanada-dopomozhe-enerhetytsi-ukrainy-pered-zymoui",
+    "pubDate": "2026-09-10 21:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559276.jpg\">Канада оголосила новий пакет підтримки для України напередодні зими. Йдеться про сотні мільйонів доларів на енергобезпеку, відновлення критичної інфраструктури та розвиток енергетики.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Macías, el último de Filipinas en la amnistía, guerra cuyo final conoce por el juez Llarena",
+    "link": "https://www.elperiodico.com/es/politica/20260910/macias-ultimo-filipinas-amnistia-guerra-134164810",
+    "pubDate": "2026-09-10 21:10:51",
+    "category": "",
+    "description": "<h2>El exabogado estrella de Cuatrecasas y actual magistrado del Tribunal Constitucional, José María Macías Castaño, propondrá el 22 de septiembre desestimar el recurso de amparo de Jordi Turull, que exige aplicar la amnistía al delito de malversación. Pero Macías, amigo personal del juez instructor del procés, Pablo Llarena, sabe que la guerra del Supremo contra la amnistía ha terminado, a diferencia de los soldados españoles que siguieron combatiendo contra EEUU en Baler, en la isla filipina de Luzón, sin saber que la contienda había terminado hacía un año</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mensaje del President de la Generalitat Salvador Illa con motivo de la diada de Catalunya",
+    "link": "https://www.elperiodico.com/es/videos/politica/mensaje-president-generalitat-salvador-illa/134163246.shtml",
+    "pubDate": "2026-09-10 21:08:17",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Illa pide combatir el \"odio\" en el discurso de la Diada: \"No podemos permitir que nada ni nadie ponga en peligro la convivencia\"",
+    "link": "https://www.elperiodico.com/es/politica/20260910/diada-catalunya-salvador-illa-combatir-odio-discurso-convivencia-peligro-extrema-derecha-134158137",
+    "pubDate": "2026-09-10 21:05:56",
+    "category": "",
+    "description": "<h2>El president de la Generalitat reivindica que \"nadie es más catalán que nadie\" y reclama \"sentido de país\" para superar retos como el de la nueva financiación y la crisis educativa</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260910/diada-catalunya-11-septiembre-manifestacion-actos-ultima-hora-directo-134138335\" target=\"_blank\">DIRECTO | Última hora de los actos del día 11 de septiembre</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260909/salvador-illa-diada-acto-sant-boi-unidad-democratas-avance-autoritarismos-catalunya-134119200\" target=\"_blank\">Illa llama desde Sant Boi a una Diada de unidad de los demócratas frente al avance del \"autoritarismo\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Primitiva hoy: resultados y comprobar números premiados en el sorteo del jueves, 10 de septiembre, en directo",
+    "link": "https://www.elperiodico.com/es/sociedad/20260910/primitiva-resultados-comprobar-numeros-sorteo-hoy-10-septiembre-134164329",
+    "pubDate": "2026-09-10 21:00:37",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, viernes 11 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260910/horoscopo-hoy-viernes-11-septiembre-dv-133884747",
+    "pubDate": "2026-09-10 21:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jensen vuelve a rodar medio siglo después con un V8 de 960 CV",
+    "link": "https://www.elperiodico.com/es/motor/20260910/jensen-interceptor-gtx-medio-siglo-despues-134113264",
+    "pubDate": "2026-09-10 21:00:36",
+    "category": "",
+    "description": "<h2>Jensen resucita uno de sus nombres más emblemáticos con un deportivo completamente nuevo que apuesta por el V8, la tracción trasera y una conducción analógica.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Поліція оточила консульство України в Дюссельдорфі",
+    "link": "https://ua.korrespondent.net/world/4910785-politsiia-otochyla-konsulstvo-ukrainy-v-duisseldorfi",
+    "pubDate": "2026-09-10 20:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559274.jpeg\">У генеральному консульстві України в Дюссельдорфі ввечері 10 вересня почалася масштабна поліцейська операція. Причиною стала \"неясна загроза\".",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un hombre de 78 años muere ahogado en la playa de la Punta de Roses",
+    "link": "https://www.elperiodico.com/es/sucesos/20260910/hombre-78-anos-muere-ahogado-playa-roses-134164923",
+    "pubDate": "2026-09-10 20:57:16",
+    "category": "",
+    "description": "<h2>Con esta ya son una decena las personas que han perdido la vida en las playas del litoral de Girona durante la temporada de baño de este año</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jennifer Lawrence llega a Instagram tras años rechazando las redes: “Si alguien dice algo negativo, me voy”",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/jennifer-lawrence-llega-instagram-anos-rechazando-redes/134165097.shtml",
+    "pubDate": "2026-09-10 20:54:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos frenan con cargas el choque entre Aliança Catalana y los manifestantes antifascistas en el Fossar de les Moreres",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mossos-frenan-cargas-choque-alianca/134164576.shtml",
+    "pubDate": "2026-09-10 20:49:10",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Magdalena Perelló, cardióloga: \"No solo necesitas una dieta sana para proteger tu corazón. Necesitas vínculos sanos\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260910/magdalena-perello-cardiologa-dieta-vinculos-sanos-dv-et-134152998",
+    "pubDate": "2026-09-10 20:30:50",
+    "category": "",
+    "description": "<h2>La investigadora menciona en su libro la conclusión de un estudio de Harvard sobre la longevidad</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 65
+  },
+  {
     "title": "El Parlament abre los actos de su milenario con la izada de la 'senyera' por la Diada",
     "link": "https://www.elperiodico.com/es/politica/20260910/parlament-actos-milenario-izada-senyera-diada-134143780",
     "pubDate": "2026-09-10 20:28:35",
@@ -25,6 +295,15 @@
     "description": "<h2 class=\"item\">Los cineastas Yuval Abraham y Rachel Szor dejan en evidencia la eficiencia de los sistemas empleados por el servicio de inteligencia para identificar a posibles agentes del grupo terrorista Hamás y después eliminarlos en sus hogares, independientemente de que exista la posibilidad de que niños y otros familiares también mueran en el ataque</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Україна і Канада підписали декларацію на 100 років",
+    "link": "https://ua.korrespondent.net/ukraine/4910774-ukraina-i-kanada-pidpysaly-deklaratsiui-na-100-rokiv",
+    "pubDate": "2026-09-10 20:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559238.jpg\">Україна та Канада домовилися перевести двосторонні відносини на рівень всеосяжного стратегічного партнерства. У центрі домовленостей - оборона, економіка, відновлення та безпека.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Javier Tebas, presidente de LaLiga: \"Si se cambia la gobernanza de la FIFA, creo que la final del Mundial 2030 será en España\"",
@@ -225,6 +504,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Київ запровадив спецрежим біля кордону з РФ і Білоруссю",
+    "link": "https://ua.korrespondent.net/ukraine/4910752-kyiv-zaprovadyv-spetsrezhym-bilia-kordonu-z-rf-i-bilorussui",
+    "pubDate": "2026-09-10 18:42:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559161.jpeg\">В Україні запровадили спеціальний прикордонний режим у кілометровій смузі вздовж кордону з Росією та Білоруссю. Обмеження діятимуть до завершення воєнного стану",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "Entre el rearme y la paz, la estrategia",
     "link": "https://www.elperiodico.com/es/opinion/20260910/rearme-paz-estrategia-articulo-sonia-andolz-134159097",
     "pubDate": "2026-09-10 18:39:47",
@@ -333,6 +621,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Удар РФ по Павлограду: зросла кількість жертв",
+    "link": "https://ua.korrespondent.net/ukraine/4910748-udar-rf-po-pavlohradu-zrosla-kilkist-zhertv",
+    "pubDate": "2026-09-10 18:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559139.jpg\">Внаслідок російського удару по Павлограду Дніпропетровської області загинули чотири людини. Понад 60 людей отримали поранення, серед них троє дітей.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Crítica de ‘Forastera’, un ‘coming of age’ mezclado con una obsesión que tiene algo de fantasmática",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260910/critica-forastera-coming-age-obsesion-134158216",
     "pubDate": "2026-09-10 18:09:52",
@@ -403,6 +700,15 @@
     "description": "<h2>El psicólogo, afincado desde hace más de 40 años en Olot y Creu de Sant Jordi en 2009, dirigió la compañía hasta 2024</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20251011/interes-mundial-yogures-fageda-consumia-maria-branyas-117-anos-122510806\" target=\"_blank\">Interés mundial por los yogures de La Fageda que consumía diariamente Maria Branyas, fallecida a los 117 años</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни атакували житлову забудову Краматорська",
+    "link": "https://ua.korrespondent.net/ukraine/4910742-rosiiany-atakuvaly-zhytlovu-zabudovu-kramatorska",
+    "pubDate": "2026-09-10 17:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559124.jpg\">Внаслідок масованого авіаудару поранено 22 людини, серед них зокрема немовля.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Verdades y mentiras tras el 'miliciano caído' de Robert Capa, la fotografía más famosa de la Guerra Civil",
@@ -1017,6 +1323,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Somogy: “Mi fuego interior por competir en la ACB arde más que nunca”",
+    "link": "https://as.com/baloncesto/acb/somogy-un-base-a-la-vieja-usanza-f202609-n/",
+    "pubDate": "2026-09-10 14:59:51",
+    "category": "Bilbao basket",
+    "description": "Un base a la vieja usanza de los que ahora tanto escasean. Campaña para fomentar el reciclaje de residuos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Хто очолить Нафтогаз: наглядова рада запускає відкритий конкурс",
     "link": "https://ua.korrespondent.net/business/companies/4910688-khto-ocholyt-naftohaz-nahliadova-rada-zapuskaie-vidkrytyi-konkurs",
     "pubDate": "2026-09-10 14:59:00",
@@ -1564,6 +1879,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558830.jpg\">Оборонець нідерландського клубу Кіліанн Сільділья вибув зі складу до кінця року через серйозне ушкодження.",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Damion Baugh: “Me gusta más asistir que anotar”",
+    "link": "https://as.com/baloncesto/damion-baugh-me-gusta-mas-asistir-que-anotar-f202609-n/",
+    "pubDate": "2026-09-10 12:44:05",
+    "category": "Baskonia",
+    "description": "Presentación de un nuevo jugador del Baskonia en plena pretemporada. Mañana, amistoso con el Alba de Berlín",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Así es el dispositivo de seguridad de la Policía Nacional para el Gran Premio de España de Fórmula Uno",
