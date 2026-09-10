@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Путін прагне укласти мирну угоду - Трамп",
+    "link": "https://ua.korrespondent.net/ukraine/4910503-putin-prahne-uklasty-myrnu-uhodu-tramp",
+    "pubDate": "2026-09-10 02:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558269.jpg\">Взаємна ненависть між російським диктатором і президентом України нібито стоїть на заваді цій угоді, запевняє лідер США.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп заробив мільйони доларів на тлі війни з Іраном - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/financial/4910501-tramp-zarobyv-miliony-dolariv-na-tli-viiny-z-iranom-zmi",
+    "pubDate": "2026-09-10 02:41:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558251.jpg\">Зростання вартості цих акцій за шість місяців війни принесло американському президенту мільйони доларів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Хмельницькому сталася повторна детонація",
+    "link": "https://ua.korrespondent.net/ukraine/4910499-u-khmelnytskomu-stalasia-povtorna-detonatsiia",
+    "pubDate": "2026-09-10 01:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558225.jpg\">Пожежа на території одного з ринків виникла після атаки вороги, пізніше відбулася повторна детонація, зазначив очільник ОВА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США влаштують \"змагання\" недорогих перехоплювачів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4910497-ssha-vlashtuuit-zmahannia-nedorohykh-perekhopluivachiv-zmi",
+    "pubDate": "2026-09-10 01:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558189.jpg\">Американська армія шукає способи боротьби з дешевшими боєприпасами, що застосовуються Іраном і Росією.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Кривий Ріг під масованою атакою російських дронів",
+    "link": "https://ua.korrespondent.net/ukraine/4910495-kryvyi-rih-pid-masovanoui-atakoui-rosiiskykh-droniv",
+    "pubDate": "2026-09-10 00:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558154.jpg\">Ворог атакував місто ударними БПЛА на п'яти локаціях у Центрально-Міському та Саксаганському районах.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las muertes por calor en España se han duplicado desde 2000, según un informe internacional",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260910/muertes-calor-espana-han-duplicado-134127544",
+    "pubDate": "2026-09-10 00:55:51",
+    "category": "",
+    "description": "<h2>Un estudio de ‘The Lancet’ sobre salud y ciudades reclama un aumento del arbolado y más transporte urbano</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "США продовжать \"душити\" Тегеран економічно - Рубіо",
+    "link": "https://ua.korrespondent.net/world/4910493-ssha-prodovzhat-dushyty-teheran-ekonomichno-rubio",
+    "pubDate": "2026-09-10 00:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4558136.jpg\">Тегеран за свої обстріли американських кораблів платить своїми танкерами, запевнив державний секретар США.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 10 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260910/portada-periodico-10-septiembre-2026-134127029",
+    "pubDate": "2026-09-10 00:05:58",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya reduce el número de muertes por suicidio por tercer año consecutivo",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260910/catalunya-reduce-numero-muertes-suicidio-134109475",
+    "pubDate": "2026-09-10 00:01:22",
+    "category": "",
+    "description": "<h2 class=\"item\">La tasa baja muy ligeramente respecto al 2024, pero consolida una mejora</h2><h2 class=\"item\">El Govern actualizará el Plan preventivo para consolidar la incidencia social</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  }
+]
