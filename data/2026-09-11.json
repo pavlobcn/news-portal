@@ -9,6 +9,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Посли ЄС знову провалили продовження санкцій проти РФ",
+    "link": "https://ua.korrespondent.net/world/4911103-posly-yes-znovu-provalyly-prodovzhennia-sanktsii-proty-rf",
+    "pubDate": "2026-09-11 23:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560375.jpg\">Заперечення щодо рішення висунули Словаччина та Франція. Строк дії чинних санкцій сплине вже у вівторок.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El Barça, a la final de la Lliga Catalana",
     "link": "https://as.com/baloncesto/acb/el-barca-a-la-final-de-la-lliga-catalana-f202609-n/",
     "pubDate": "2026-09-11 23:43:31",
@@ -113,6 +122,15 @@
     "pubDate": "2026-09-11 22:06:44",
     "category": "",
     "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Директор ЦРУ на перемовинах про війну. Ставка США",
+    "link": "https://ua.korrespondent.net/world/4911101-dyrektor-tsru-na-peremovynakh-pro-viinu-stavka-ssha",
+    "pubDate": "2026-09-11 22:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560364.jpg\">Європейські та американські посадовці змирилися з тим, що війна Росії в Україні триватиме й наступного року, визнаючи, що остання американська мирна ініціатива не дала жодних результатів.",
     "topic": "політика",
     "topic_match_probability": 90
   },
