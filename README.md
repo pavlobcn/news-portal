@@ -1,8 +1,14 @@
-# News for 2026-09-11 13:11
+# News for 2026-09-11 15:48
 
 Previous day: [2026-09-10](./data/2026-09-10.md)
 
 ## ua.korrespondent.net
+15:39 [Справа Болдвіна отримала екранізацію: трейлер](https://ua.korrespondent.net/showbiz/cinema/4911015-sprava-boldvina-otrymala-ekranizatsiui-treiler)<br>
+15:28 [Київ готує лікарні до блекаутів: коли мережа стане автономною](https://ua.korrespondent.net/city/kiev/4911018-kyiv-hotuie-likarni-do-blekautiv-koly-merezha-stane-avtonomnoui)<br>
+15:17 [Apple змінює правила гри: що нового отримав iPhone у 2026](https://ua.korrespondent.net/articles/4911009-Apple-zminuiie-pravyla-hry-scho-novoho-otrymav-iPhone-u-2026)<br>
+14:45 [На Київщині 13-річна дівчинка завагітніла від вітчима](https://ua.korrespondent.net/ukraine/4910998-na-kyivschyni-13-richna-divchynka-zavahitnila-vid-vitchyma)<br>
+14:31 [Популяція горобців у Берліні скоротилася на 70% за п’ять років](https://ua.korrespondent.net/world/4910996-populiatsiia-horobtsiv-u-berlini-skorotylasia-na-70-za-piat-rokiv)<br>
+13:23 [Сильні дощі: у дев’яти областях України оголошено жовтий рівень небезпеки](https://ua.korrespondent.net/ukraine/4910967-sylni-doschi-u-deviaty-oblastiakh-ukrainy-oholosheno-zhovtyi-riven-nebezpeky)<br>
 13:03 [На Кіровоградщині дрон атакував ферму: є поранені](https://ua.korrespondent.net/ukraine/4910959-na-kirovohradschyni-dron-atakuvav-fermu-ye-poraneni)<br>
 12:56 [Генштаб підтвердив ураження Саратовського НПЗ](https://ua.korrespondent.net/ukraine/4910955-henshtab-pidtverdyv-urazhennia-saratovskoho-npz)<br>
 12:45 [Напис на давньому персні розкрив нову таємницю Понтія Пілата](https://ua.korrespondent.net/tech/science/4910937-napys-na-davnomu-persni-rozkryv-novu-taiemnytsui-pontiia-pilata)<br>
@@ -39,10 +45,19 @@ Previous day: [2026-09-10](./data/2026-09-10.md)
 03:24 [Удари БПЛА обвалили видобуток нафти у РФ](https://ua.korrespondent.net/world/russia/4910826-udary-bpla-obvalyly-vydobutok-nafty-u-rf)<br>
 
 ## as.com
+13:30 [Oficial: el Real Madrid apuesta finalmente por ceder a Eli Ndiaye](https://as.com/baloncesto/acb/oficial-el-real-madrid-cede-finalmente-a-eli-ndiaye-f202609-n/)<br>
 06:46 [Un poquito menos que un milagro](https://as.com/baloncesto/mas_baloncesto/un-poquito-menos-que-un-milagro-f202609-n/)<br>
 
 ## www.elperiodico.com
 17:10 [El BOE lo confirma: mañana 11 de septiembre es festivo oficial en una comunidad y muchos municipios de otras regiones de España](https://www.elperiodico.com/es/economia/20260911/festivos-locales-viernes-11-septiembre-comunidades-autonomas-espana-dv-134133814)<br>
+15:30 [Vamos para lerdos](https://www.elperiodico.com/es/opinion/20260911/lerdos-informe-pisa-articulo-carles-sans-134124858)<br>
+15:27 [Muere la princesa Astrid de Noruega con 94 años, dos días después de funeral de su hermano](https://www.elperiodico.com/es/internacional/20260911/muere-princesa-astrid-noruega-94-134191418)<br>
+13:43 [La justicia francesa condena a 6 meses de prisión a un padre por amenazar a una profesora: "Te voy a cortar la cabeza"](https://www.elperiodico.com/es/internacional/20260911/justicia-francesa-condena-6-meses-prision-padre-amenazar-profesora-cortar-cabeza-134186541)<br>
+13:39 [Javier Bardem confiesa que su primera cita con Penélope Cruz fue en Londres: "El sábado vimos a los Rolling Stones y el domingo a Prince"](https://www.elperiodico.com/es/gente/20260911/javier-bardem-confiesa-primera-cita-134186193)<br>
+13:36 [Ester Expósito evita pronunciarse sobre la trama criminal que quería secuestrar a Mbappé](https://www.elperiodico.com/es/gente/20260911/ester-exposito-evita-pronunciarse-trama-134186062)<br>
+13:24 [David Jiménez, abogado, sobre las casas heredadas: "Si un hermano quiere vender y el otro no, la solución es la extinción del condominio"](https://www.elperiodico.com/es/economia/20260911/heredar-piso-ponerse-acuerdo-hermanos-solucion-legal-abogado-david-jimenez-dv-et-124321619)<br>
+13:24 [David Jiménez, abogado, sobre las casas heredadas: "Si un hermano quiere vender y el otro no, la solución es la extinción del condominio"](https://www.elperiodico.com/es/economia/20260911/heredar-piso-ponerse-acuerdo-hermanos-solucion-legal-abogado-david-jimenez-dv-et-134188437)<br>
+13:19 [Oscar Pierre y Sacha Michaud estudian recomprar Glovo](https://www.elperiodico.com/es/economia/20260911/oscar-pierre-sacha-michaud-estudian-134164376)<br>
 13:06 [¿A por el segundo Oscar? El año rutilante de Penélope Cruz](https://www.elperiodico.com/es/ocio-y-cultura/20260911/segundo-oscar-ano-rutilante-penelope-134183171)<br>
 13:05 [GTA 6: Rockstar explica por qué evita apoyarse demasiado en sucesos del mundo real](https://www.elperiodico.com/es/videojuegos/20260911/gta-6-rockstar-explica-evita-134184494)<br>
 13:02 [El faro de Cíes al descubierto: sus 'secretos' más íntimos a la luz](https://www.elperiodico.com/es/sociedad/20260911/faro-cies-descubierto-secretos-intimos-134184234)<br>
@@ -58,12 +73,14 @@ Previous day: [2026-09-10](./data/2026-09-10.md)
 12:15 [Cascadas capilares y vistas panorámicas: los masajes más originales de Barcelona](https://www.elperiodico.com/es/que-hacer/planes/20260911/masajes-originales-barcelona-viral-cascadas-capilares-vistas-134117012)<br>
 12:10 [Leonor, sin trato especial: Zarzuela rechazó el programa propuesto por la Carlos III](https://www.elperiodico.com/es/videos/sociedad/leonor-trato-especial-zarzuela-rechazo/134181777.shtml)<br>
 12:03 [Los médicos convocan huelga indefinida nacional a partir del día 28 de octubre](https://www.elperiodico.com/es/sanidad/20260911/medicos-convocan-huelga-indefinida-partir-octubre-estatuto-marco-134141039)<br>
+11:55 [Muere una joven de 27 años en un accidente con tres vehículos implicados en Altafulla](https://www.elperiodico.com/es/tarragona/20260911/mujer-muere-accidente-tres-vehiculos-n-340-altafulla-tarragona-134180953)<br>
 11:52 [Felipe VI conmemora con EEUU en la base militar de Rota el 25º aniversario de los atentados del 11-S](https://www.elperiodico.com/es/politica/20260911/felipe-conmemora-eeuu-base-militar-rota-atentados-11s-134181008)<br>
 11:34 [Así fue la investigación del crimen de Yesa (Zaragoza)](https://www.elperiodico.com/es/videos/sucesos/investigacion-crimen-yesa-zaragoza/134179983.shtml)<br>
 11:16 [Crimen de Manresa: la víctima y los amigos evitaron la pelea hasta el último momento](https://www.elperiodico.com/es/sociedad/20260911/crimen-manresa-victima-amigos-evitaron-134179303)<br>
 10:30 [Miren Idoia, 53 años, opositora: "Tenía que aprobar sí o sí. Si con 48 años miraban mi currículum, con 53 pensé '¿Qué me van a hacer?'"](https://www.elperiodico.com/es/sociedad/20260911/oposiciones-estudio-paro-desempleo-miren-idoia-dv-et-134021798)<br>
 10:15 [La Diada Nacional en Valls mantiene la Gamma Extra con dos pilars de 8 de la Vella y la Joves](https://www.elperiodico.com/es/tarragona/20260911/diada-nacional-valls-mantiene-gamma-134174832)<br>
 10:15 [Casi la mitad de las aves migratorias del mundo están en declive: "Las rutas marinas son las más afectadas"](https://www.elperiodico.com/es/sociedad/20260911/mitad-aves-migratorias-mundo-declive-extincion-134144600)<br>
+09:59 [Ángeles González-Sinde, en el videopódcast del suplemento ABRIL: "En un guion tienes mucha menos libertad que en una novela"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260911/angeles-gonzalez-sinde-videopodcast-suplemento-abril-134073158)<br>
 09:47 [Detenido en Girona como un fugitivo buscado por EEUU por extorsión y secuestro: la defensa dice que es el hombre equivocado](https://www.elperiodico.com/es/sucesos/20260911/detenido-girona-fugitivo-buscado-eeuu-extorsion-secuestro-hombre-equivocado-134175727)<br>
 09:46 [El famoso vestido negro de la venganza de Lady Di vuelve a subasta: ¿300.000 dólares o más de un millón?](https://www.elperiodico.com/es/gente/20260911/vestido-venganza-lady-di-subasta-sothebys-precio-134173737)<br>
 08:33 [11 de septiembre: ¿Dónde es festivo hoy en España? Una comunidad y muchos municipios de otras regiones han elegido el día como no laborable](https://www.elperiodico.com/es/economia/20260911/11-septiembre-festivo-cataluna-espana-dv-dv-134133814)<br>
@@ -74,6 +91,7 @@ Previous day: [2026-09-10](./data/2026-09-10.md)
 07:45 [Alan deja Barcelona para vivir en una casa cueva en Granada: "Es mucho mejor que cualquier piso o casa"](https://www.elperiodico.com/es/economia/20260911/alan-deja-barcelona-vivir-casa-cueva-granada-dv-et-134115067)<br>
 07:37 [Varios muertos al volcar un autobús turístico con casi 50 pasajeros en el este de Suiza](https://www.elperiodico.com/es/internacional/20260911/muertos-volcar-autobus-turistico-50-pasajeros-suiza-134173030)<br>
 07:30 [Álvaro (39 años) dejó la ciudad para salvar el pueblo de su padre: "Todavía hay algún alumno, que son gente mayor, que me ve y me dice que venía a la escuela aquí, al pueblo de mi abuela"](https://www.elperiodico.com/es/economia/20260911/alvaro-salvar-pueblo-padre-asturias-dv-et-132097624)<br>
+07:00 ["Escolarització pública i conciliació: un dret o un privilegi de pocs?"](https://www.elperiodico.com/es/entre-todos/participacion/escolaritzacio-publica-conciliacio-dret-carta-lector-andrea-moral-134072858)<br>
 07:00 [El nuevo iPhone, ¿y los zurdos?](https://www.elperiodico.com/es/tele/20260911/nuevo-iphone-zurdos-134150222)<br>
 06:01 [La CNMC da una ‘amnistía’ a miles de empresas para seguir mandando SMS comerciales con sus alias sin la autorización oficial](https://www.elperiodico.com/es/economia/20260911/cnmc-alias-registro-amnistia-empresas-mensajes-134152385)<br>
 06:01 [Toni Esteban, testigo del ataque a las Torres Gemelas de Nueva York: "La gente al principio estaba muy abatida y sorprendida, nadie se esperaba que atacarían a EEUU desde dentro"](https://www.elperiodico.com/es/internacional/20260911/toni-esteban-testigo-ataque-torres-gemelas-nueva-york-11-s-atentado-25-anos-134171342)<br>
