@@ -1,4 +1,4 @@
-# News for 2026-09-11 17:03
+# News for 2026-09-11 19:20
 
 Previous day: [2026-09-10](./data/2026-09-10.md)
 
@@ -45,11 +45,18 @@ Previous day: [2026-09-10](./data/2026-09-10.md)
 03:24 [Удари БПЛА обвалили видобуток нафти у РФ](https://ua.korrespondent.net/world/russia/4910826-udary-bpla-obvalyly-vydobutok-nafty-u-rf)<br>
 
 ## as.com
+17:29 [Makoundou, seis semanas de baja](https://as.com/baloncesto/acb/makoundou-seis-semanas-de-baja-en-el-barca-f202609-n/)<br>
 13:30 [Oficial: el Real Madrid apuesta finalmente por ceder a Eli Ndiaye](https://as.com/baloncesto/acb/oficial-el-real-madrid-cede-finalmente-a-eli-ndiaye-f202609-n/)<br>
 06:46 [Un poquito menos que un milagro](https://as.com/baloncesto/mas_baloncesto/un-poquito-menos-que-un-milagro-f202609-n/)<br>
 
 ## www.elperiodico.com
+18:46 [El juez archiva la investigación de los pozos de la Casa de Alba en el entorno de Doñana](https://www.elperiodico.com/es/sucesos/20260911/juez-archiva-investigacion-pozos-casa-134198801)<br>
+18:37 [La segunda cría de panda gigante nacida en Corea del Sur cumple 100 días y estrena nombre](https://www.elperiodico.com/es/videos/sociedad/cria-panda-gigante-nacida-corea-estrena-nombre/134198398.shtml)<br>
+17:41 [El nombre de niña que se multiplica en Catalunya: su significado en catalán es muy diferente al que tiene en castellano](https://www.elperiodico.com/es/catalunya/20260911/cataluna-nombres-nina-catalanes-significado-vega-dv-loc-122191695)<br>
+17:21 [Miguel Benito Barrionuevo, abogado laboralista: "Las personas inteligentes no pagan impuestos en su indemnización por despido"](https://www.elperiodico.com/es/economia/20260911/miguel-benito-barrionuevo-abogado-personas-inteligentes-impuestos-despido-dv-et-134195030)<br>
+17:19 [Muere la princesa Astrid de Noruega con 94 años, dos días después del funeral de su hermano Harald](https://www.elperiodico.com/es/videos/internacional/muere-princesa-astrid-noruega-despues-funeral-hermano-harald/134195139.shtml)<br>
 17:10 [El BOE lo confirma: mañana 11 de septiembre es festivo oficial en una comunidad y muchos municipios de otras regiones de España](https://www.elperiodico.com/es/economia/20260911/festivos-locales-viernes-11-septiembre-comunidades-autonomas-espana-dv-134133814)<br>
+17:07 [Àlex Torío, exprofesor de Matemáticas: "Están tapando la bajada de nivel, hay alumnos de 18 años que no saben las tablas de multiplicar"](https://www.elperiodico.com/es/sociedad/20260911/alex-torio-profesor-matematicas-politicos-bajada-nivel-alumnos-dv-et-121744674)<br>
 17:01 [Tiempo en Catalunya mañana sábado: jornada con algunos chubascos en Barcelona y parte del litoral y prelitoral](https://www.elperiodico.com/es/tiempo/20260911/tiempo-catalunya-hoy-sabado-lluvias-tiempo-barcelona-dv-loc-134189273)<br>
 16:34 [La innovación, qué es y qué no es](https://www.elperiodico.com/es/opinion/20260911/innovacion-desarrollo-empresas-articulo-miquel-barcelo-roca-134192850)<br>
 16:00 [Fahrenheit 451 en nuestras aulas](https://www.elperiodico.com/es/opinion/20260911/fahrenheit-451-aulas-educacion-informe-pisa-articulo-ernest-folch-134192119)<br>
@@ -69,6 +76,7 @@ Previous day: [2026-09-10](./data/2026-09-10.md)
 12:58 [Botín y otros diez grandes banqueros europeos reclaman dos leyes a Bruselas en 2027 para simplificar regulación y favorecer integraciones](https://www.elperiodico.com/es/economia/20260911/botin-diez-banqueros-europeos-reclaman-134184213)<br>
 12:58 [Sant Jeroni de la Murtra y otras 4 joyas al lado de Barcelona para alegrar el final del verano](https://www.elperiodico.com/es/barcelona/20260911/cinco-joyas-lado-barcelona-barceloneses-dv-105103098)<br>
 12:51 [Los empresarios de las mascarillas cargan contra Aldama, que ofreció el negocio en la calle y a las puertas de Ministerio de Transportes](https://www.elperiodico.com/es/politica/20260911/declaraciones-responsables-mascarillas-audiencia-nacional-134183934)<br>
+12:50 [La historia que esconde un mantón de Manila: cómo un tejido cruzó medio mundo hasta convertirse en símbolo español](https://www.elperiodico.com/es/ocio-y-cultura/20260911/historia-esconde-manton-manila-tejido-cruzo-medio-mundo-convertirse-simbolo-espanol-134177537)<br>
 12:49 [El precio del euríbor hoy, 11 de septiembre: nuevo día de subidas en el índice de referencia para quienes tienen una hipoteca](https://www.elperiodico.com/es/economia/20260911/precio-euribor-hoy-11-septiembre-dv-134182329)<br>
 12:37 [Los gigantes de los centros de datos amenazan con reclamar a España indemnizaciones milmillonarias por las exigencias “imposibles de cumplir”](https://www.elperiodico.com/es/economia/20260911/gigantes-centros-datos-amenazan-reclamar-134183408)<br>
 12:18 [José Luis Rebordinos se despide del Festival de San Sebastián con la espinita de no haber traído a Julianne Moore](https://www.elperiodico.com/es/ocio-y-cultura/20260911/jose-luis-rebordinos-despide-festival-134178140)<br>
@@ -85,6 +93,7 @@ Previous day: [2026-09-10](./data/2026-09-10.md)
 10:15 [La Diada Nacional en Valls mantiene la Gamma Extra con dos pilars de 8 de la Vella y la Joves](https://www.elperiodico.com/es/tarragona/20260911/diada-nacional-valls-mantiene-gamma-134174832)<br>
 10:15 [Casi la mitad de las aves migratorias del mundo están en declive: "Las rutas marinas son las más afectadas"](https://www.elperiodico.com/es/sociedad/20260911/mitad-aves-migratorias-mundo-declive-extincion-134144600)<br>
 09:59 [Ángeles González-Sinde, en el videopódcast del suplemento ABRIL: "En un guion tienes mucha menos libertad que en una novela"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260911/angeles-gonzalez-sinde-videopodcast-suplemento-abril-134073158)<br>
+09:49 [El Ibex 35 rebota un 0,87%, pero despide la semana por debajo de los 20.000 puntos](https://www.elperiodico.com/es/economia/20260911/ibex-bolsa-cronica-viernes-11-septiembre-2026-134175935)<br>
 09:47 [Detenido en Girona como un fugitivo buscado por EEUU por extorsión y secuestro: la defensa dice que es el hombre equivocado](https://www.elperiodico.com/es/sucesos/20260911/detenido-girona-fugitivo-buscado-eeuu-extorsion-secuestro-hombre-equivocado-134175727)<br>
 09:46 [El famoso vestido negro de la venganza de Lady Di vuelve a subasta: ¿300.000 dólares o más de un millón?](https://www.elperiodico.com/es/gente/20260911/vestido-venganza-lady-di-subasta-sothebys-precio-134173737)<br>
 08:33 [11 de septiembre: ¿Dónde es festivo hoy en España? Una comunidad y muchos municipios de otras regiones han elegido el día como no laborable](https://www.elperiodico.com/es/economia/20260911/11-septiembre-festivo-cataluna-espana-dv-dv-134133814)<br>
