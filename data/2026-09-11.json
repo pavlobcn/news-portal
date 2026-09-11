@@ -1,5 +1,77 @@
 [
   {
+    "title": "Пекельні санкції: Конгрес США розгляне документ",
+    "link": "https://ua.korrespondent.net/world/4911091-pekelni-sanktsii-konhres-ssha-rozghliane-dokument",
+    "pubDate": "2026-09-11 22:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560330.jpg\">У Палаті представників чимало противників законопроєкту серед демократів. Вони побоюються, що закон, в разі ухвалення, надасть Трампу надмірні повноваження у сфері митної політики.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Luwawu-Cabarrot exhibe talento",
+    "link": "https://as.com/baloncesto/luwawu-cabarrot-exhibe-talento-f202609-n/",
+    "pubDate": "2026-09-11 22:40:21",
+    "category": "Baloncesto",
+    "description": "El alero francés lidera la victoria del Real Madrid en su tercer amistoso de pretemporada con 26 puntos en 20 minutos. Este sábado, la final contra el Unicaja.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Diada cierra sus celebraciones con un acto en el TNC que evoca la unidad civil de 1976",
+    "link": "https://www.elperiodico.com/es/politica/20260911/diada-cierra-celebraciones-acto-tnc-134204057",
+    "pubDate": "2026-09-11 22:36:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El acto también ha servido para conmemorar el centenario de la muerte de Antoni Gaudí</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Абсолютний ЧС: Кохан став бронзовим призером",
+    "link": "https://ua.korrespondent.net/sport/4911096-absoluitnyi-chs-kokhan-stav-bronzovym-pryzerom",
+    "pubDate": "2026-09-11 22:29:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560331.jpg\">Український метальник молота ввійшов до вісімки кращих спортсменів, які отримали можливість узяти участь у першому в історії Абсолютному чемпіонаті світу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Харкові \"приліт\" БПЛА: є жертва і постраждалі",
+    "link": "https://ua.korrespondent.net/city/kharkov/4911088-u-kharkovi-prylit-bpla-ye-zhertva-i-postrazhdali",
+    "pubDate": "2026-09-11 22:19:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560320.jpg\">Невдовзі після першого удару поруч був зафіксований \"приліт\" другого безпілотника. Одна людина загинула.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Стали відомі висловлювання керманича Тоттенгема щодо травмування Мудрика",
+    "link": "https://ua.korrespondent.net/sport/football/4911090-staly-vidomi-vyslovluivannia-kermanycha-tottenhema-schodo-travmuvannia-mudryka",
+    "pubDate": "2026-09-11 22:08:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560319.jpg\">У Тоттенгемі не перестають сподіватися, що український гравець відновиться якнайшвидше і повний сил приєднається до команди для подальших звершень.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Diada recupera el 'Catalunya, un sol poble' y reivindica la convivencia frente al auge de la extrema derecha",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/diada-recupera-catalunya-sol-poble/134203640.shtml",
+    "pubDate": "2026-09-11 22:06:44",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зеленський попередив РФ про відповідь на удари",
+    "link": "https://ua.korrespondent.net/ukraine/4911086-zelenskyi-poperedyv-rf-pro-vidpovid-na-udary",
+    "pubDate": "2026-09-11 21:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560309.jpg\">Україна готова відповідати на російські удари по енергетичній системі. Водночас Київ пропонує захистити енергетику обох країн у межах можливого перемир’я.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Dos bólidos y un extraño espectro rojo dejan imágenes sorprendentes en España",
     "link": "https://www.elperiodico.com/es/videos/sociedad/bolidos-extrano-espectro-rojo-imagenes-sorprendentes-espana/134203412.shtml",
     "pubDate": "2026-09-11 21:44:15",
