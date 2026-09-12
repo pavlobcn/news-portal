@@ -1,4 +1,4 @@
-# News for 2026-09-12 20:42
+# News for 2026-09-12 21:43
 
 Previous day: [2026-09-11](./data/2026-09-11.md)
 
@@ -15,6 +15,7 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 03:47 [РФ атакувала балістикою Кривий Ріг і Запоріжжя](https://ua.korrespondent.net/ukraine/ukraine_30/4911126-rf-atakuvala-balistykoui-kryvyi-rih-i-zaporizhzhia)<br>
 
 ## as.com
+21:02 [El Madrid ficha y lanza un aviso](https://as.com/baloncesto/acb/el-madrid-ficha-y-lanza-un-aviso-f202609-n/)<br>
 19:43 [Unicaja – Real Madrid, en directo: Amistoso de pretemporada en vivo hoy](https://as.com/baloncesto/acb/unicaja-real-madrid-en-directo-amistoso-de-pretemporada-en-vivo-hoy-f202609-d/)<br>
 19:41 [España - Estados Unidos, en directo: Mundial femenino Baloncesto 2026, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/espana-estados-unidos-en-directo-mundial-femenino-baloncesto-2026-hoy-en-vivo-f202609-d/)<br>
 18:18 [Francia peleará por el oro](https://as.com/baloncesto/mas_baloncesto/francia-peleara-por-el-oro-f202609-n/)<br>
@@ -30,6 +31,9 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 06:23 [“Voy a disfrutar este partido como si fuera el último”](https://as.com/baloncesto/mundial_baloncesto/voy-a-disfrutar-este-partido-como-si-fuera-el-ultimo-f202609-n/)<br>
 
 ## www.elperiodico.com
+21:30 [La escapada perfecta a 30 minutos de Viladecans: un pueblo rodeado de naturaleza](https://www.elperiodico.com/es/barcelona/viladecans/20260912/barcelona-torrelles-de-llobregat-pueblo-30-minutos-viladecans-cataluna-en-miniatura-dv-loc-116643725)<br>
+21:25 [Los docentes valencianos vuelven a salir a las calles de València tras el inicio de curso](https://www.elperiodico.com/es/videos/sociedad/docentes-valencianos-vuelven-salir-calles/134225012.shtml)<br>
+21:20 [La danesa May el-Toukhy conquista el León de Oro del Festival de Venecia con 'Woman Unknown'](https://www.elperiodico.com/es/ocio-y-cultura/20260912/danesa-may-toukhy-conquista-leon-festival-venecia-woman-unknown-134224825)<br>
 20:32 [Las empresas pierden el interés en los pluses de asistencia como freno a las bajas tras el veto de los tribunales](https://www.elperiodico.com/es/economia/20260912/baja-laboral-empresas-pierden-interes-pluses-asistencia-contra-absentismo-134223580)<br>
 20:30 [Un español alucina con la sanidad de Japón tras ir al médico: "¡Wow, esto es increíble!"](https://www.elperiodico.com/es/vida-y-estilo/20260912/espanol-alucina-sanidad-japon-medico-dv-et-134153317)<br>
 20:13 [Miles de docentes valencianos vuelven a la calle para exigir una Educación Pública digna](https://www.elperiodico.com/es/sociedad/20260912/miles-docentes-valencianos-vuelven-calle-exigir-educacion-publica-digna-134223225)<br>
