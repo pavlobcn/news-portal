@@ -1,4 +1,9 @@
 http://k.img.com.ua/rss/ua/all_news2.0.xml
+http://k.img.com.ua/rss/ua/mainbyday.xml
+http://k.img.com.ua/rss/ua/business.xml
+http://k.img.com.ua/rss/ua/ukraine.xml
+http://k.img.com.ua/rss/ua/world.xml
+http://k.img.com.ua/rss/ua/russia.xml
 https://www.elperiodico.com/es/cds/rss/?id=board.xml
 https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/acb/
 https://feeds.as.com/mrss-s/pages/as/site/as.com/section/baloncesto/subsection/euroliga/
