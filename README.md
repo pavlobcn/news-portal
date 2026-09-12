@@ -1,4 +1,4 @@
-# News for 2026-09-12 23:01
+# News for 2026-09-12 23:42
 
 Previous day: [2026-09-11](./data/2026-09-11.md)
 
@@ -39,6 +39,7 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 06:23 [“Voy a disfrutar este partido como si fuera el último”](https://as.com/baloncesto/mundial_baloncesto/voy-a-disfrutar-este-partido-como-si-fuera-el-ultimo-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:41 [Altman afirma que "sería poco aconsejable" sacar OpenAI a bolsa ante los riesgos de la IA](https://www.elperiodico.com/es/economia/20260912/altman-afirma-seria-aconsejable-sacar-134228179)<br>
 22:54 [Sanitarios atienden dentro de la ambulancia a una persona que se intentó quemar a lo bonzo frente a los jugzados de Cartagena](https://www.elperiodico.com/es/videos/sucesos/sanitarios-atienden-ambulancia-persona-quemar/134227467.shtml)<br>
 22:16 [España se ahogó en la orilla ante Estados Unidos y peleará por el bronce](https://www.elperiodico.com/es/deportes/20260912/espana-estados-unidos-baloncesto-134226835)<br>
 21:49 [Bandera roja en las playas de Altafulla y Tamarit por la presencia de dragones azules](https://www.elperiodico.com/es/sociedad/20260912/dragon-azul-bandera-roja-playas-altafulla-tamarit-tarragona-134224887)<br>

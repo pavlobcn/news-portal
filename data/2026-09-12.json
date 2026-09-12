@@ -1,5 +1,41 @@
 [
   {
+    "title": "Altman afirma que \"sería poco aconsejable\" sacar OpenAI a bolsa ante los riesgos de la IA",
+    "link": "https://www.elperiodico.com/es/economia/20260912/altman-afirma-seria-aconsejable-sacar-134228179",
+    "pubDate": "2026-09-12 23:41:12",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260912/director-ejecutivo-anthropic-pide-desaceleracion-inteligencia-artificial-134220679\" target=\"_blank\">El director ejecutivo de Anthropic pide una desaceleración inmediata en el desarrollo de la IA</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві прогриміли вибухи: в місті працює ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4911255-u-kyievi-prohrymily-vybukhy-v-misti-pratsuiie-ppo",
+    "pubDate": "2026-09-12 23:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4561265.jpg\">Повітряні сили ЗСУ перед цим зафіксували ударний БпЛА курсом повз Бровари в напрямку центру Києва.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 13 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260912/portada-periodico-13-septiembre-2026-134224420",
+    "pubDate": "2026-09-12 23:25:13",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Циганков відзначився першим асистом за Аякс",
+    "link": "https://ua.korrespondent.net/sport/football/4911253-tsyhankov-vidznachyvsia-pershym-asystom-za-aiaks",
+    "pubDate": "2026-09-12 23:24:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4561221.jpg\">Український вінгер своєю першою результативною дією в матчі за нову команду допоміг Аяксу в рамках чемпіонату Нідерландів розгромити команду суперника на виїзді.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Real Madrid golea, se relaja y vuelve a escuchar pitos del Bernabéu",
     "link": "https://www.elperiodico.com/es/deportes/20260912/real-madrid-rayo-goles-resultado-resumen-134227643",
     "pubDate": "2026-09-12 22:59:30",
@@ -7,6 +43,15 @@
     "description": "<h2 class=\"item\">Dos errores flagrantes de Lejeune en el primer cuarto de hora allanan la victoria blanca contra el Rayo</h2><h2 class=\"item\">Una desatención de Vinícius reavivó a los vallecanos, provocando el enfado del público madridista</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "ФРН закриє \"дірку\" в оборонному бюджеті України",
+    "link": "https://ua.korrespondent.net/world/worldabus/4911251-frn-zakryie-dirku-v-oboronnomu-buidzheti-ukrainy",
+    "pubDate": "2026-09-12 22:59:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4561236.jpg\">Підтримка України є абсолютно життєво важливою складовою, наголосив радник канцлера Гюнтер Зауттер.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Iyana Martín: “Han sentido el miedo de jugar contra España”",
