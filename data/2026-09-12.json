@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Атака на Запоріжжя: двоє загиблих",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4911119-ataka-na-zaporizhzhia-dvoie-zahyblykh",
+    "pubDate": "2026-09-12 02:07:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560454.jpg\">Жертвами російської атаки на приватний сектор стали 64-річна жінки та 37-річний чоловік. Поранень дістала 59-річна жінка.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Дніпрі після атаки РФ палає підприємство",
+    "link": "https://ua.korrespondent.net/city/dnepr/4911117-u-dnipri-pislia-ataky-rf-palaie-pidpryiemstvo",
+    "pubDate": "2026-09-12 01:41:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560443.jpg\">Росіяни атакували місто реактивним бепілотником. Удар прийшовся по промисловому підприємству.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський попередив світ про ризик \"агро Ормузу\"",
+    "link": "https://ua.korrespondent.net/ukraine/4911107-zelenskyi-poperedyv-svit-pro-ryzyk-ahro-ormuzu",
+    "pubDate": "2026-09-12 01:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560387.jpg\">Українці не залишаться без їжі, хоча для експортерів ситуація буде жахлива. Однак у країнах, які залежать від постачання продовольства, може настати голод.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "США запросили представника РФ на зустріч G20 з питань енергетики",
+    "link": "https://ua.korrespondent.net/world/4911109-ssha-zaprosyly-predstavnyka-rf-na-zustrich-G20-z-pytan-enerhetyky",
+    "pubDate": "2026-09-12 00:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560398.jpg\">Це буде вже друга зустріч такого рівня за участю росіян на території Штатів після візита російського міністр фінансів минулого місяця.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Запоріжжі шукають людей під завалами після атаки",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4911111-u-zaporizhzhi-shukauit-luidei-pid-zavalamy-pislia-ataky",
+    "pubDate": "2026-09-12 00:24:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560410.jpg\">Російський безпілотник вночі ударив по приватному сектору. Внаслідок удару виникли пожежі, є руйнування.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  }
+]
