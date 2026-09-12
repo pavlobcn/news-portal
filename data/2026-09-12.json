@@ -1,5 +1,68 @@
 [
   {
+    "title": "Ayuso y Almeida comparten en redes sociales su experiencia recorriendo el Madring",
+    "link": "https://www.elperiodico.com/es/videos/politica/ayuso-almeida-comparten-redes-sociales/134220122.shtml",
+    "pubDate": "2026-09-12 18:29:39",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Francia peleará por el oro",
+    "link": "https://as.com/baloncesto/mas_baloncesto/francia-peleara-por-el-oro-f202609-n/",
+    "pubDate": "2026-09-12 18:18:47",
+    "category": "Baloncesto femenino",
+    "description": "Alemania intentó plantar cara a la subcampeona olímpica, que fue muy superior con una gran Gabby Williams (22 puntos), candidata a ser la MVP en Berlín.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "EL PERIÓDICO estrena 'El cas de l'Avi Pistoler': cómo un jubilado pacífico se convirtió en atracador de bancos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260912/abuelo-pistolero-el-periodico-estrena-documental-el-cas-del-avi-pistoler-jubilado-atracador-barcelona-134183634",
+    "pubDate": "2026-09-12 18:16:44",
+    "category": "",
+    "description": "<h2 class=\"item\">A través del testimonio en exclusiva de Jesús Montroig, y de conversaciones con vecinos, víctimas y policías, la película construye una radiografía completa del personaje </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20180317/justicia-sin-matices-para-el-abuelo-pistolero-6697602\" target=\"_blank\">Condena de 16 años de cárcel para el 'abuelo pistolero'</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bar Oliva y sus migas, una embajada gastronómica extremeña en Sant Andreu",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260912/bar-oliva-restaurante-extremeno-barcelona-134159897",
+    "pubDate": "2026-09-12 18:13:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Este sobrio establecimiento familiar sirve este plato de alto octanaje y personalidad desde hace décadas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20220321/receta-migas-extremenas-desayuno-restaurante-atrio-117864888\">Los mejores desayunos: así se hacen las migas extremeñas del restaurante Atrio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240723/mejores-restaurantes-sant-andreu-barcelona-105680217\">Los restaurantes con la mejor relación calidad-precio de Sant Andreu</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Молдові тимчасово закривали частину авіапростору через БПЛА",
+    "link": "https://ua.korrespondent.net/world/4911208-u-moldovi-tymchasovo-zakryvaly-chastynu-aviaprostoru-cherez-bpla",
+    "pubDate": "2026-09-12 18:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4561015.jpg\">Міноборони Молдови повідомило, що радари зафіксували об'єкт, який несанкціоновано увійшов у повітряний простір країни з боку України.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Real Madrid va a por Nick Smith",
+    "link": "https://as.com/baloncesto/acb/el-real-madrid-va-a-por-nick-smith-f202609-n/",
+    "pubDate": "2026-09-12 17:57:00",
+    "category": "NBA",
+    "description": "Nick Smith es el favorito para ocupar el último puesto en la plantilla del Real Madrid. Es el elegido para el puesto de base-escolta que se buscaba en el mercado de fichajes.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Укренерго не прогнозує знеструмлень на неділю",
+    "link": "https://ua.korrespondent.net/ukraine/4911203-ukrenerho-ne-prohnozuie-znestrumlen-na-nedilui",
+    "pubDate": "2026-09-12 17:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560986.jpg\">В Укренерго закликають перенести користування потужними електричними приладами на період із 11:00 до 15:00.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Півзахисник Кривбаса знову тренується у загальній групі команди",
     "link": "https://ua.korrespondent.net/sport/football/4911206-pivzakhysnyk-kryvbasa-znovu-trenuietsia-u-zahalnii-hrupi-komandy",
     "pubDate": "2026-09-12 17:26:00",

@@ -1,8 +1,9 @@
-# News for 2026-09-12 17:42
+# News for 2026-09-12 18:30
 
 Previous day: [2026-09-11](./data/2026-09-11.md)
 
 ## ua.korrespondent.net
+17:40 [Укренерго не прогнозує знеструмлень на неділю](https://ua.korrespondent.net/ukraine/4911203-ukrenerho-ne-prohnozuie-znestrumlen-na-nedilui)<br>
 13:18 [У Франції з рейок зійшов пасажирський поїзд, 44 постраждалих](https://ua.korrespondent.net/world/4911169-u-frantsii-z-reiok-ziishov-pasazhyrskyi-poizd-44-postrazhdalykh)<br>
 12:15 [На Майорці затримали чоловіка зі 109 капсулами кокаїну в шлунку](https://ua.korrespondent.net/world/4911165-na-maiortsi-zatrymaly-cholovika-zi-109-kapsulamy-kokainu-v-shlunku)<br>
 09:16 [У Празі відкрили Центр єдності українців](https://ua.korrespondent.net/world/4911146-u-prazi-vidkryly-tsentr-yednosti-ukraintsiv)<br>
@@ -10,6 +11,8 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 03:47 [РФ атакувала балістикою Кривий Ріг і Запоріжжя](https://ua.korrespondent.net/ukraine/ukraine_30/4911126-rf-atakuvala-balistykoui-kryvyi-rih-i-zaporizhzhia)<br>
 
 ## as.com
+18:18 [Francia peleará por el oro](https://as.com/baloncesto/mas_baloncesto/francia-peleara-por-el-oro-f202609-n/)<br>
+17:57 [El Real Madrid va a por Nick Smith](https://as.com/baloncesto/acb/el-real-madrid-va-a-por-nick-smith-f202609-n/)<br>
 14:28 [Pascual: “He hablado con Guardiola sobre las segundas oportunidades en el Barça”](https://as.com/baloncesto/euroliga/pascual-he-hablado-con-guardiola-sobre-las-segundas-oportunidades-en-el-barca-f202609-n/)<br>
 11:56 [Poirier se recupera en Valdebebas y aprovecha para ofrecerse al Madrid](https://as.com/baloncesto/acb/poirier-se-recupera-en-valdebebas-y-aprovecha-para-ofrecerse-al-madrid-f202609-n/)<br>
 06:28 [Los cuatro extremos del Mundial femenino](https://as.com/baloncesto/mas_baloncesto/los-cuatro-extremos-del-mundial-femenino-f202609-n/)<br>
