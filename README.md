@@ -1,4 +1,4 @@
-# News for 2026-09-12 21:43
+# News for 2026-09-12 23:01
 
 Previous day: [2026-09-11](./data/2026-09-11.md)
 
@@ -15,6 +15,14 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 03:47 [РФ атакувала балістикою Кривий Ріг і Запоріжжя](https://ua.korrespondent.net/ukraine/ukraine_30/4911126-rf-atakuvala-balistykoui-kryvyi-rih-i-zaporizhzhia)<br>
 
 ## as.com
+22:57 [Iyana Martín: “Han sentido el miedo de jugar contra España”](https://as.com/baloncesto/mas_baloncesto/iyana-martin-han-sentido-el-miedo-de-jugar-contra-espana-f202609-n/)<br>
+22:36 [Méndez: “Sé algo de baloncesto, pero de arbitraje no tengo ni idea”](https://as.com/baloncesto/mas_baloncesto/mendez-se-algo-de-baloncesto-pero-de-arbitraje-no-tengo-ni-idea-f202609-n/)<br>
+22:20 [Resumen del Unicaja vs Real Madrid, pretemporada de la Liga Endesa](https://as.com/videos/acb/resumen-del-unicaja-vs-real-madrid-pretemporada-de-la-liga-endesa-f202609-v/)<br>
+22:14 [España tutea a Estados Unidos](https://as.com/opinion/espana-tutea-a-estados-unidos-f202609-n/)<br>
+22:13 [España - Alemania: partido por el bronce, horario, TV, cómo y dónde ver el Mundial 2026](https://as.com/baloncesto/mas_baloncesto/espana-alemania-horario-tv-como-y-donde-ver-el-mundial-femenino-2026-f202609-n-2/)<br>
+21:57 [A por la cuarta medalla mundial](https://as.com/baloncesto/mas_baloncesto/a-por-la-cuarta-medalla-mundial-f202609-n/)<br>
+21:51 [Más cerca que nunca](https://as.com/baloncesto/mas_baloncesto/mas-cerca-que-nunca-f202609-n/)<br>
+21:47 [España y una ficción de las buenas](https://as.com/baloncesto/mas_baloncesto/espana-y-una-ficcion-de-las-buenas-f202609-n/)<br>
 21:02 [El Madrid ficha y lanza un aviso](https://as.com/baloncesto/acb/el-madrid-ficha-y-lanza-un-aviso-f202609-n/)<br>
 19:43 [Unicaja – Real Madrid, en directo: Amistoso de pretemporada en vivo hoy](https://as.com/baloncesto/acb/unicaja-real-madrid-en-directo-amistoso-de-pretemporada-en-vivo-hoy-f202609-d/)<br>
 19:41 [España - Estados Unidos, en directo: Mundial femenino Baloncesto 2026, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/espana-estados-unidos-en-directo-mundial-femenino-baloncesto-2026-hoy-en-vivo-f202609-d/)<br>
@@ -31,6 +39,9 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 06:23 [“Voy a disfrutar este partido como si fuera el último”](https://as.com/baloncesto/mundial_baloncesto/voy-a-disfrutar-este-partido-como-si-fuera-el-ultimo-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:54 [Sanitarios atienden dentro de la ambulancia a una persona que se intentó quemar a lo bonzo frente a los jugzados de Cartagena](https://www.elperiodico.com/es/videos/sucesos/sanitarios-atienden-ambulancia-persona-quemar/134227467.shtml)<br>
+22:16 [España se ahogó en la orilla ante Estados Unidos y peleará por el bronce](https://www.elperiodico.com/es/deportes/20260912/espana-estados-unidos-baloncesto-134226835)<br>
+21:49 [Bandera roja en las playas de Altafulla y Tamarit por la presencia de dragones azules](https://www.elperiodico.com/es/sociedad/20260912/dragon-azul-bandera-roja-playas-altafulla-tamarit-tarragona-134224887)<br>
 21:30 [La escapada perfecta a 30 minutos de Viladecans: un pueblo rodeado de naturaleza](https://www.elperiodico.com/es/barcelona/viladecans/20260912/barcelona-torrelles-de-llobregat-pueblo-30-minutos-viladecans-cataluna-en-miniatura-dv-loc-116643725)<br>
 21:25 [Los docentes valencianos vuelven a salir a las calles de València tras el inicio de curso](https://www.elperiodico.com/es/videos/sociedad/docentes-valencianos-vuelven-salir-calles/134225012.shtml)<br>
 21:20 [La danesa May el-Toukhy conquista el León de Oro del Festival de Venecia con 'Woman Unknown'](https://www.elperiodico.com/es/ocio-y-cultura/20260912/danesa-may-toukhy-conquista-leon-festival-venecia-woman-unknown-134224825)<br>
