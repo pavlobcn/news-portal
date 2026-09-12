@@ -1,5 +1,59 @@
 [
   {
+    "title": "Lotería Nacional hoy: resultados y comprobar números premiados en el sorteo de este sábado 12 de septiembre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260912/loteria-nacional-hoy-resultados-comprobar-premiados-134213116",
+    "pubDate": "2026-09-12 12:44:00",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sumar pedirá al Defensor del Pueblo que investigue a las comunidades que no acojan menores",
+    "link": "https://www.elperiodico.com/es/politica/20260912/sumar-pedira-defensor-pueblo-investigue-134212910",
+    "pubDate": "2026-09-12 12:35:21",
+    "category": "",
+    "description": "<h2>Martínez Barbero ha dicho que el Partido Popular tendrá que dar explicaciones al pueblo español y también a los ceutíes, ya que la solidaridad \"no es envolverse en una bandera ni pegar palizas\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Hansi Flick pide prudencia ante la euforia: \"Estamos en un buen momento, pero es un viaje muy largo hasta final de temporada\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260912/hansi-flick-pide-prudencia-euforia-134211650",
+    "pubDate": "2026-09-12 12:31:47",
+    "category": "",
+    "description": "<h2>El técnico azulgrana elogia a Raphinha y lo declara “uno de los mejores jugadores del mundo”.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo resalta la necesidad de reformar el sistema educativo tras el \"suspenso\" de PISA",
+    "link": "https://www.elperiodico.com/es/politica/20260912/feijoo-resalta-necesidad-reformar-sistema-134212819",
+    "pubDate": "2026-09-12 12:30:33",
+    "category": "",
+    "description": "<h2>\"El primer balance del impacto real de la reforma educativa impulsada por el Gobierno de Pedro Sánchez y es la consecuencia de la mala gestión del sanchismo\", afirma el presidente del PP</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La socialdemócrata Andersson afronta el desafío de recuperar el poder en Suecia frente al ímpetu ultra",
+    "link": "https://www.elperiodico.com/es/internacional/20260912/socialdemocrata-andersson-desafio-recuperar-suecia-134212671",
+    "pubDate": "2026-09-12 12:21:55",
+    "category": "",
+    "description": "<h2>Los sondeos sitúan al centroizquierda opositor con una ventaja menguante frente al bloque conservador, reforzado por la extrema derecha</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Майорці затримали чоловіка зі 109 капсулами кокаїну в шлунку",
+    "link": "https://ua.korrespondent.net/world/4911165-na-maiortsi-zatrymaly-cholovika-zi-109-kapsulamy-kokainu-v-shlunku",
+    "pubDate": "2026-09-12 12:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560804.jpg\">Розрив хоча б однієї капсули з кокаїном міг призвести до смертельного передозування чоловіка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Barcelona elegirá a cuatro niños y adolescentes de cada barrio para participar en decisiones políticas",
     "link": "https://www.elperiodico.com/es/barcelona/20260912/barcelona-4-ninos-cada-barrio-participacion-134211554",
     "pubDate": "2026-09-12 12:07:23",
@@ -88,6 +142,15 @@
     "description": "<h2 class=\"item\">El colaborador de 'El Chiringuito' ha sufrido un fuerte golpe en el rostro mientras practicaba rafting</h2>",
     "topic": "телебачення",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Poirier se recupera en Valdebebas y aprovecha para ofrecerse al Madrid",
+    "link": "https://as.com/baloncesto/acb/poirier-se-recupera-en-valdebebas-y-aprovecha-para-ofrecerse-al-madrid-f202609-n/",
+    "pubDate": "2026-09-12 11:56:59",
+    "category": "Baloncesto",
+    "description": "Vincent Poirier se recupera de una dura lesión en el Aquiles en las instalaciones del Real Madrid, lugar al que le apetecería volver. Estará sano en 2027.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Cuatro jóvenes heridos en un accidente de tráfico en Pinto (Madrid)",

@@ -1,13 +1,15 @@
-# News for 2026-09-12 12:13
+# News for 2026-09-12 12:48
 
 Previous day: [2026-09-11](./data/2026-09-11.md)
 
 ## ua.korrespondent.net
+12:15 [На Майорці затримали чоловіка зі 109 капсулами кокаїну в шлунку](https://ua.korrespondent.net/world/4911165-na-maiortsi-zatrymaly-cholovika-zi-109-kapsulamy-kokainu-v-shlunku)<br>
 09:16 [У Празі відкрили Центр єдності українців](https://ua.korrespondent.net/world/4911146-u-prazi-vidkryly-tsentr-yednosti-ukraintsiv)<br>
 04:54 [Ірак збільшить експорт нафти через Сирію і Туреччину](https://ua.korrespondent.net/world/4911121-irak-zbilshyt-eksport-nafty-cherez-syriui-i-turechchynu)<br>
 03:47 [РФ атакувала балістикою Кривий Ріг і Запоріжжя](https://ua.korrespondent.net/ukraine/ukraine_30/4911126-rf-atakuvala-balistykoui-kryvyi-rih-i-zaporizhzhia)<br>
 
 ## as.com
+11:56 [Poirier se recupera en Valdebebas y aprovecha para ofrecerse al Madrid](https://as.com/baloncesto/acb/poirier-se-recupera-en-valdebebas-y-aprovecha-para-ofrecerse-al-madrid-f202609-n/)<br>
 06:28 [Los cuatro extremos del Mundial femenino](https://as.com/baloncesto/mas_baloncesto/los-cuatro-extremos-del-mundial-femenino-f202609-n/)<br>
 06:26 [Carla Leite: “Zaragoza fue horrible, perdí las ganas de jugar al baloncesto”](https://as.com/baloncesto/mas_baloncesto/carla-leite-zaragoza-fue-horrible-perdi-las-ganas-de-jugar-al-baloncesto-f202609-n/)<br>
 06:26 [Francia, el verdadero rival a batir](https://as.com/baloncesto/mas_baloncesto/francia-el-verdadero-rival-a-batir-f202609-n/)<br>
