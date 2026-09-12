@@ -693,6 +693,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "La crisis de Ceuta se cuela en el arranque de la campaña electoral de Marruecos",
+    "link": "https://www.elperiodico.com/es/internacional/20260911/crisis-ceuta-cuela-arranque-campana-electoral-marruecos-134195530",
+    "pubDate": "2026-09-11 17:30:40",
+    "category": "",
+    "description": "<h2>Varios partidos han reivindicado el \"derecho histórico\" de su país sobre las ciudades autónomas</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Makoundou, seis semanas de baja",
     "link": "https://as.com/baloncesto/acb/makoundou-seis-semanas-de-baja-en-el-barca-f202609-n/",
     "pubDate": "2026-09-11 17:29:12",
@@ -2221,6 +2230,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4559872.jpg\">У Вишгородському районі пошкоджені приватні будинки, загинула жінка. В Обухівському районі пошкоджено ангарне приміщення.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Trump reivindica su guerra contra Irán y hace jurar a los republicanos que saldrán a votar: \"Si no, iréis al infierno\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260911/trump-afirma-volveria-hacer-mismo-guerra-iran-elecciones-eeuu-vance-134176204",
+    "pubDate": "2026-09-11 09:54:26",
+    "category": "",
+    "description": "<h2>El presidente estadounidense cierra la Convención Nacional Republicana con un discurso personalista en el que tacha a los demócratas de \"canallas\" e insinúa que no ha invadido Irán \"por los comicios\" de medio mandato del noviembre, cruciales para su final de mandato</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Глава МЗС Польщі знову в Києві: що відомо",
