@@ -1,8 +1,12 @@
-# News for 2026-09-12 18:30
+# News for 2026-09-12 19:53
 
 Previous day: [2026-09-11](./data/2026-09-11.md)
 
 ## ua.korrespondent.net
+19:45 [На АЗС тестуватимуть додаткові заходи безпеки](https://ua.korrespondent.net/ukraine/4911223-na-azs-testuvatymut-dodatkovi-zakhody-bezpeky)<br>
+19:20 [На Волині під час масованої російської атаки постраждали п'ятеро людей](https://ua.korrespondent.net/ukraine/4911219-na-volyni-pid-chas-masovanoi-rosiiskoi-ataky-postrazhdaly-piatero-luidei)<br>
+18:55 [Частина міста на Рівненщині - без світла через російську атаку](https://ua.korrespondent.net/ukraine/4911213-chastyna-mista-na-rivnenschyni-bez-svitla-cherez-rosiisku-ataku)<br>
+18:30 [В Умані хасиди святкують Рош га-Шана](https://ua.korrespondent.net/ukraine/4911211-v-umani-khasydy-sviatkuuit-rosh-ha-shana)<br>
 17:40 [Укренерго не прогнозує знеструмлень на неділю](https://ua.korrespondent.net/ukraine/4911203-ukrenerho-ne-prohnozuie-znestrumlen-na-nedilui)<br>
 13:18 [У Франції з рейок зійшов пасажирський поїзд, 44 постраждалих](https://ua.korrespondent.net/world/4911169-u-frantsii-z-reiok-ziishov-pasazhyrskyi-poizd-44-postrazhdalykh)<br>
 12:15 [На Майорці затримали чоловіка зі 109 капсулами кокаїну в шлунку](https://ua.korrespondent.net/world/4911165-na-maiortsi-zatrymaly-cholovika-zi-109-kapsulamy-kokainu-v-shlunku)<br>
@@ -11,6 +15,8 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 03:47 [РФ атакувала балістикою Кривий Ріг і Запоріжжя](https://ua.korrespondent.net/ukraine/ukraine_30/4911126-rf-atakuvala-balistykoui-kryvyi-rih-i-zaporizhzhia)<br>
 
 ## as.com
+19:43 [Unicaja – Real Madrid, en directo: Amistoso de pretemporada en vivo hoy](https://as.com/baloncesto/acb/unicaja-real-madrid-en-directo-amistoso-de-pretemporada-en-vivo-hoy-f202609-d/)<br>
+19:41 [España - Estados Unidos, en directo: Mundial femenino Baloncesto 2026, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/espana-estados-unidos-en-directo-mundial-femenino-baloncesto-2026-hoy-en-vivo-f202609-d/)<br>
 18:18 [Francia peleará por el oro](https://as.com/baloncesto/mas_baloncesto/francia-peleara-por-el-oro-f202609-n/)<br>
 17:57 [El Real Madrid va a por Nick Smith](https://as.com/baloncesto/acb/el-real-madrid-va-a-por-nick-smith-f202609-n/)<br>
 14:28 [Pascual: “He hablado con Guardiola sobre las segundas oportunidades en el Barça”](https://as.com/baloncesto/euroliga/pascual-he-hablado-con-guardiola-sobre-las-segundas-oportunidades-en-el-barca-f202609-n/)<br>
@@ -24,6 +30,10 @@ Previous day: [2026-09-11](./data/2026-09-11.md)
 06:23 [“Voy a disfrutar este partido como si fuera el último”](https://as.com/baloncesto/mundial_baloncesto/voy-a-disfrutar-este-partido-como-si-fuera-el-ultimo-f202609-n/)<br>
 
 ## www.elperiodico.com
+19:48 [Tiempo en Catalunya mañana domingo: las temperaturas vuelven a subir y el bochorno regresa a Barcelona](https://www.elperiodico.com/es/tiempo/20260912/tiempo-cataluna-domingo-13-septiembre-temperaturas-calor-dv-loc-134221238)<br>
+19:41 [Courteney Cox lleva al TIFF el disparatado crimen del 'pizza bomber' en 'Evil Genius'](https://www.elperiodico.com/es/ocio-y-cultura/20260912/courteney-cox-lleva-cine-disparatado-crimen-pizza-bomber-evil-genius-134221689)<br>
+19:26 [Varias personas muertas tras el colapso de un edificio en construcción en São Paulo](https://www.elperiodico.com/es/videos/internacional/personas-muertas-colapso-edificio-construccion/134222088.shtml)<br>
+18:47 [El director ejecutivo de Anthropic pide una desaceleración inmediata en el desarrollo de la IA](https://www.elperiodico.com/es/internacional/20260912/director-ejecutivo-anthropic-pide-desaceleracion-inteligencia-artificial-134220679)<br>
 16:00 [Una constelación familiar alejó a Rosa de su padre hasta su muerte: "Tengo ansiedad y aún no me he recuperado"](https://www.elperiodico.com/es/sanidad/20260912/victima-pseudoterapias-constelaciones-familiares-intrusismo-psicologia-133906677)<br>
 16:00 [El auge de terapeutas y ‘coaches’ sin titulación pone en alerta a los psicólogos: "Los pacientes llegan a terapia mucho peor"](https://www.elperiodico.com/es/sanidad/20260912/auge-terapeutas-coach-sin-titulacion-alerta-psicologos-peligro-para-pacientes-salud-mental-intrusismo-133880138)<br>
 16:00 [Elena Crespo, abogada experta en divorcios: "Si tienes hijos, es importante visualizar que tu pareja va a ser un buen ex"](https://www.elperiodico.com/es/sociedad/20260912/divorcio-hijos-expareja-casados-elena-crespo-dv-et-134060962)<br>
