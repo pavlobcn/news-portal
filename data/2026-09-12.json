@@ -1,5 +1,239 @@
 [
   {
+    "title": "Barcelona elegirá a cuatro niños y adolescentes de cada barrio para participar en decisiones políticas",
+    "link": "https://www.elperiodico.com/es/barcelona/20260912/barcelona-4-ninos-cada-barrio-participacion-134211554",
+    "pubDate": "2026-09-12 12:07:23",
+    "category": "",
+    "description": "<h2>En total, habrá 292 representantes de entre 8 y 17 años para los 73 barrios de la ciudad</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260205/pobreza-infantil-sigue-aumentando-catalunya-126480572\" target=\"_blank\">Casi 500.000 niños catalanes viven en riesgo de exclusión social: la tasa de pobreza infantil escala ya al 36%</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260909/informe-pisa-2025-resultados-debate-impacto-pantallas-educacion-134106946\" target=\"_blank\">Los malos resultados en PISA reabren el debate sobre el uso de pantallas en clase</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "DIRECTO | Paz, casa, trabajo: acto de Podemos en Madrid",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-paz-casa-trabajo-acto/134212298.shtml",
+    "pubDate": "2026-09-12 12:05:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La lucha de María Milagro, nacida a las 23 semanas con 475 gramos: \"Tienes que vivirlo para creerlo\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260912/bebes-prematuros-lucha-maria-milagro-verlo-para-creerlo-133917511",
+    "pubDate": "2026-09-12 12:00:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Maleni Águila e Idobe Méndez llegan cada día al Hospital 12 de Octubre de Madrid para acompañar a su hija, cada vez más fuerte</h2><h2 class=\"item\">\"Son niños que, a lo mejor, hace 20 o 30 años, tenían mínimas oportunidades pero hay que confiar en el equipo médico\", dice Carlos, padre de Ana, una prematura que hoy tiene 12 años</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260911/bebes-prematuros-espana-supervivencia-investigacion-tratamientos-medicina-133950648\" target=\"_blank\">La supervivencia de los bebés prematuros mejora, pero la investigación se estanca: \"En 40 años solo se ha desarrollado un medicamento\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rusia festejó con júbilo la crisis de Ceuta mientras sus redes en internet instrumentalizaban el caos",
+    "link": "https://www.elperiodico.com/es/internacional/20260912/moscu-festejo-jubilo-crisis-ceuta-redes-internet-instrumentalizaron-caos-134212203",
+    "pubDate": "2026-09-12 12:00:44",
+    "category": "",
+    "description": "<h2>La portavoz de Exteriores se burló de los dirigentes europeos con sarcasmo, asegurando que acertaron en la invasión pero erraron en el escenario de la misma, al tiempo que cuentas de internet vinculadas al Kremlin azuzaban narrativas antiinmigración que favorecían a la ultraderecha prorrusa en la UE</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "De pronto, otra vez el mal de Hitler",
+    "link": "https://www.elperiodico.com/es/opinion/20260912/pronto-vez-mal-hitler-sajonia-anhalt-extrema-derecha-articulo-juan-cruz-ruiz-134200099",
+    "pubDate": "2026-09-12 12:00:44",
+    "category": "",
+    "description": "<h2>No parece que ahora importe mucho que la democracia se rompa por las puntas. Qué más da, si ya no es la democracia sino el grito el que nos hace hablar por las calles</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260906/claves-triunfo-electoral-ultraderecha-toxica-alemania-134014179\">¿Por qué ha arrasado la ultraderecha en Sajonia-Anhalt? ¿Qué puede pasar con Merz? Las claves de la victoria de AfD que sacude Alemania</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sánchez tensiona al PSOE entre la gestión de la crisis en Ceuta y las dudas sobre si adelantar las generales a las municipales",
+    "link": "https://www.elperiodico.com/es/politica/20260912/sanchez-psoe-crisis-ceuta-elecciones-134193883",
+    "pubDate": "2026-09-12 12:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">En Ferraz se replica que un adelanto para marzo tiene “pros y contras”, además de que antes de convocar deberán despejarse las crisis abiertas y analizar la “coyuntura”</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260911/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312\" target=\"_blank\">Crisis de Ceuta, última hora en directo: situación con Marruecos y todas las reacciones a la desclasificación de los informes del CNI</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La supervivencia de los bebés prematuros mejora, pero la investigación se estanca: \"En 40 años solo se ha desarrollado un medicamento\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260912/bebes-prematuros-espana-supervivencia-investigacion-tratamientos-medicina-133950648",
+    "pubDate": "2026-09-12 12:00:43",
+    "category": "",
+    "description": "<h2 class=\"item\">Los neonatólogos denuncian la falta de tratamientos específicos: \"Tenemos las mismas cuatro cosas que teníamos en 1984\" y aún se usan fármacos desarrollados para adultos o niños mayores</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260911/bebes-prematuros-lucha-maria-milagro-verlo-para-creerlo-133917511\" target=\"_blank\">La lucha de María Milagro, nacida a las 23 semanas con 475 gramos: \"Tienes que vivirlo para creerlo\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260901/hospital-octubre-madrid-mascarillas-nasales-respiracion-bebes-prematuros-133833981\">El Hospital 12 de Octubre de Madrid fabrica mascarillas nasales en 3D para la respiración de bebés prematuros</a> </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Honda quiere que sus clientes no se limiten a comprar una moto",
+    "link": "https://www.elperiodico.com/es/motor/20260912/honda-quiere-clientes-no-se-limiten-comprar-134179391",
+    "pubDate": "2026-09-12 12:00:43",
+    "category": "",
+    "description": "<h2>La marca japonesa estrena el Honda Adventure Camp, un encuentro que combinará conducción, formación, tecnología y alojamiento en plena naturaleza para usuarios de motos trail</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Marruecos y la Rusia de Putin: relaciones cada vez más estrechas",
+    "link": "https://www.elperiodico.com/es/internacional/20260912/marruecos-rusia-putin-relaciones-mas-intensas-crisis-ceuta-134212182",
+    "pubDate": "2026-09-12 12:00:42",
+    "category": "",
+    "description": "<h2>Rabat, en principio alineado con EEUU y Occidente, está potenciando de forma paralela sus vínculos con Moscú en un intento de diversificar sus opciones diplomáticas y asegurarse apoyos en la ONU en la cuestión del Sáhara Occidental     </h2><h2>Investigaciones periodísticas han revelado que el puerto de Tanger-Med ha funcionado como 'hub' para evadir sanciones sobre los hidrocarburos rusos, mientras que en la actualidad el reino alauí ayuda al país eslavo a paliar la carestía de combustible</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cristobal Soria sufre un accidente de rafting en Costa Rica mientras grababa 'Planeta Calleja'",
+    "link": "https://www.elperiodico.com/es/gente/20260912/cristobal-soria-sufre-accidente-rafting-costa-rica-planeta-calleja-dv-134211831",
+    "pubDate": "2026-09-12 11:57:43",
+    "category": "",
+    "description": "<h2 class=\"item\">El colaborador de 'El Chiringuito' ha sufrido un fuerte golpe en el rostro mientras practicaba rafting</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuatro jóvenes heridos en un accidente de tráfico en Pinto (Madrid)",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/cuatro-jovenes-heridos-accidente-trafico/134212060.shtml",
+    "pubDate": "2026-09-12 11:56:53",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dulceida y Alba Paul se vuelven a dar el 'sí, quiero' 10 años después",
+    "link": "https://www.elperiodico.com/es/videos/gente/dulceida-alba-paul-vuelven-dar/134211913.shtml",
+    "pubDate": "2026-09-12 11:55:24",
+    "category": "",
+    "description": "",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "EL CSD apruebas nuevas medidas de protección a la maternidad por valor de 700.000 euros: \"La maternidad no puede convertirse en un obstáculo\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260912/csd-apruebas-nuevas-medidas-proteccion-134211739",
+    "pubDate": "2026-09-12 11:51:31",
+    "category": "",
+    "description": "<h2>El ente refleja por primera vez una línea específica de gestación segura y reincorporación progresiva al entrenamiento y la competición</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Азов і Керченська протока стоять наглухо - \"Мадяр\"",
+    "link": "https://ua.korrespondent.net/ukraine/4911161-azov-i-kerchenska-protoka-stoiat-nahlukho-madiar",
+    "pubDate": "2026-09-12 11:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560791.jpg\">За десять тижнів було уражено 285 плавзасобів тіньового флоту РФ у Азовському та Чорному морях.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Directo | Irene Montero oficializa este sábado su candidatura para liderar las izquierdas en las generales",
+    "link": "https://www.elperiodico.com/es/politica/20260912/irene-montero-oficializa-sabado-candidatura-liderar-izquierdas-generales-134187984",
+    "pubDate": "2026-09-12 11:46:00",
+    "category": "",
+    "description": "<h2>La número dos de Podemos presenta los ejes de su programa, con la vivienda como una de las grandes prioridades</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La ANC asegura que la quema de una bandera española en el acto de la Diada no estaba \"planificada\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/anc-asegura-quema-bandera-espanola/134211651.shtml",
+    "pubDate": "2026-09-12 11:37:40",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Piden 4 años de cárcel por asaltar a un anciano en su casa tras hacerse pasar por el nieto de su vecina",
+    "link": "https://www.elperiodico.com/es/sucesos/20260912/piden-4-anos-carcel-asaltar-anciano-hacerse-pasar-nieto-vecina-134211587",
+    "pubDate": "2026-09-12 11:34:13",
+    "category": "",
+    "description": "<h2 class=\"item\">El acusado se coló en el domicilio de la víctima, en Palma, le pidió dinero para medicamentos y acabó rodeándole el cuello con el brazo</h2><h2 class=\"item\">La víctima, de 88 años, le entregó 50 euros y el delincuente se dio a la fuga, aunque la Policía lo detuvo días después</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cae un grupo criminal relacionado con 72 robos de material informático en empresas de Catalunya, Aragón y Valencia",
+    "link": "https://www.elperiodico.com/es/sucesos/20260912/grupo-criminal-detenidos-72-robos-material-informatico-catalunya-aragon-valencia-134211405",
+    "pubDate": "2026-09-12 11:26:38",
+    "category": "",
+    "description": "<h2>Los presuntos autores habrían sustraído material informático de las compañías por valor de cerca de 700.000 euros</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав уражену ціль в Тольятті",
+    "link": "https://ua.korrespondent.net/ukraine/4911158-henshtab-nazvav-urazhenu-tsil-v-toliatti",
+    "pubDate": "2026-09-12 11:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560769.jpg\">Комбінат Тольяттикаучук спеціалізується на виробництві синтетичних каучуків, які використовуються у виготовленні твердого ракетного палива для тактичних і балістичних ракет.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Barça - Arsenal de fase de grupos de la Champions femenina, en el Camp Nou",
+    "link": "https://www.elperiodico.com/es/deportes/20260912/barca-arsenal-fase-grupos-champions-134210876",
+    "pubDate": "2026-09-12 11:00:40",
+    "category": "",
+    "description": "<h2>A falta del anuncio oficial, la UEFA ya marca el feudo azulgrana como sede del partido contra las 'gunners'.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un nuevo robo de cable en la estación de França de Barcelona causa retrasos en la R2 Sud y Regionals Sud de Rodalies",
+    "link": "https://www.elperiodico.com/es/sociedad/20260912/nuevo-robo-cable-estacio-franca-r2-sud-rodalies-134210961",
+    "pubDate": "2026-09-12 11:00:21",
+    "category": "",
+    "description": "<h2>Ayer viernes ya hubo un robo de cable entre la estación de França y Passeig de Gràcia que afectó a la circulación de trenes en la R2 Sud</h2><h2>Circulación con una frecuencia de dos trenes por hora y sentido entre Sant Vicenç de Calders y paseo de Gràcia</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ocho detenidos en Ceuta esta noche por robos, lesiones y amenazas a cuatro menores migrantes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260912/ocho-detenidos-ceuta-noche-robos-134211062",
+    "pubDate": "2026-09-12 11:00:19",
+    "category": "",
+    "description": "<h2>Durante la intervención, los agentes incautaron a los arrestados un machete y una navaja.</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ciutat Vella concentra cinco de cada diez cámaras de videovigilancia instaladas en Barcelona los últimos seis años",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/ciutat-vella-concentra-cinco-diez/134210976.shtml",
+    "pubDate": "2026-09-12 10:56:46",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кривбас – Харків: які прогнози на матч",
+    "link": "https://ua.korrespondent.net/sport/4911141-kryvbas-kharkiv-yaki-prohnozy-na-match",
+    "pubDate": "2026-09-12 10:56:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560671.jpg\">\r\nРазом із BETKING, ліцензованим партнером проєкту у сфері ставок, пропонуємо розглянути варіанти ставок на матч чемпіонату України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Quiénes son Antoni y Meritxell Falgueras, los pregoneros de La Mercè 2026",
+    "link": "https://www.elperiodico.com/es/barcelona/20260912/quienes-son-antoni-meritxell-falgueras-pregoneros-merce-2026-134209831",
+    "pubDate": "2026-09-12 10:52:48",
+    "category": "",
+    "description": "<h2>Padre e hija representan la cuarta y quinta generación de un comercio histórico de Sants, con más de 130 años de trayectoria</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260909/piromusical-merce-2026-cuando-donde-134100835\" >¿Cuándo y dónde será el Piromusical de La Mercè 2026? Día, hora y nueva ubicación</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260908/merce-2026-glories-port-olimpic-circo-danza-teatro-134063244\" >La Mercè 2026 llevará espectáculos gratuitos de circo a Glòries, el Fòrum y el Port Olímpic</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Армія РФ вбила чотирьох жителів Донеччини",
+    "link": "https://ua.korrespondent.net/ukraine/4911156-armiia-rf-vbyla-chotyrokh-zhyteliv-donechchyny",
+    "pubDate": "2026-09-12 10:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4560758.jpg\">Від початку повномасштабного вторгнення росіяни вбили на Донеччині 4296 цивільних, ще 10 422 людини дістали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "La ANC asegura que la quema de una bandera española en el acto de la Diada no estaba \"planificada\"",
     "link": "https://www.elperiodico.com/es/politica/20260912/anc-quema-bandera-espanola-acto-diada-134210626",
     "pubDate": "2026-09-12 10:40:53",
