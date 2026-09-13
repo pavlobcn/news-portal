@@ -1,5 +1,95 @@
 [
   {
+    "title": "La princesa Leonor y la infanta Sofía, protagonistas en el Gran Premio de España de Fórmula 1 en Madring",
+    "link": "https://www.elperiodico.com/es/sociedad/20260913/princesa-leonor-infanta-sofia-protagonistas-madring-formula-1-felipe-vi-134242435",
+    "pubDate": "2026-09-13 18:02:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La jornada supone una nueva aparición pública juntas en un escenario marcado por el deporte y la presencia de numerosas personalidades</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260913/pedro-sanchez-ministros-dan-planton-formula-1-134235687\">Pedro Sánchez y sus ministros dan plantón a la Fórmula 1 y a los Reyes</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Німеччині розгорівся скандал через участь слона у стримі блогерів",
+    "link": "https://ua.korrespondent.net/world/4911350-u-nimechchyni-rozghorivsia-skandal-cherez-uchast-slona-u-strymi-bloheriv",
+    "pubDate": "2026-09-13 17:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562107.jpg\">Відео з ферми Elefantenhof викликало обурення зоозахисників через умови зйомки та поведінку блогерів.",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ERC dedica la mitad de sus preguntas a Illa en el Parlament a la exigencia de que cumpla sus acuerdos",
+    "link": "https://www.elperiodico.com/es/politica/20260913/erc-dedica-mitad-preguntas-illa-pactos-investidura-acuerdos-133677160",
+    "pubDate": "2026-09-13 17:56:50",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260827/inmigracion-preguntas-oposicion-illa-sesion-control-educacion-133548665\" target=\"_blank\">La inmigración capitaliza las preguntas de la oposición a Illa aunque la educación gana peso</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/preguntas-oposicion-govern-generalitat-temas-preocupacion-catalanes-sh/index.html\" target=\"_blank\">¿Las preocupaciones de los catalanes coinciden con las de la oposición al Govern de llla?</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere un motorista en Mataró en un accidente sin más vehículos implicados",
+    "link": "https://www.elperiodico.com/es/sociedad/20260913/muere-motorista-mataro-accidente-vehiculos-134242573",
+    "pubDate": "2026-09-13 17:49:08",
+    "category": "",
+    "description": "<h2 class=\"item\">DIRECTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260913/trafico-cataluna-barcelona-ultima-hora-directo-ap7-rondas-diada-133938712\" target=\"_blank\">Última hora del tráfico y transporte público en Catalunya: las carreteras hacia Barcelona afrontan esta tarde las horas más complicadas</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El encuentro de Felipe VI y sus hijas con Fernando Alonso y Carlos Sainz en Madring",
+    "link": "https://www.elperiodico.com/es/videos/deportes/encuentro-felipe-vi-hijas-fernando/134242394.shtml",
+    "pubDate": "2026-09-13 17:37:37",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Кремлі обурилися новою заявою Зеленського",
+    "link": "https://ua.korrespondent.net/world/4911346-u-kremli-oburylysia-novoui-zaiavoui-zelenskoho",
+    "pubDate": "2026-09-13 17:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562077.jpg\">Заяви президента України щодо ударів по російській енергетиці у Кремлі назвали \"черговим кроком до ескалації\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Crimen en Pontevedra: detenido un hombre por presuntamente matar a su madre octogenaria",
+    "link": "https://www.elperiodico.com/es/sucesos/20260913/crimen-pontevedra-detenido-hombre-presuntamente-134242261",
+    "pubDate": "2026-09-13 17:32:37",
+    "category": "",
+    "description": "<h2 class=\"item\">Ocurrió este domingo en la céntrica rúa dos Carballos y hasta el punto se ha trasladado la Guardia Civil y la comisión judicial</h2><h2 class=\"item\">El varón, con antecedentes por problemas psiquiátricos, acudió al Hospital Álvaro Cunqueiro de Vigo tras el homicidio y allí confesó los hechos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tiempo en Catalunya mañana lunes: últimos días de calor en Barcelona antes de la llegada de una nueva borrasca",
+    "link": "https://www.elperiodico.com/es/tiempo/20260913/tiempo-cataluna-manana-lunes-14-septiembre-temperaturas-lluvia-dv-loc-134240167",
+    "pubDate": "2026-09-13 17:32:36",
+    "category": "",
+    "description": "<h2 class=\"item\"> El miércoles llegará un nuevo frente activo procedente del norte de Europa que traerá precipitaciones a todo el territorio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El insólito rincón de Badajoz considerado la rotonda más grande de Europa",
+    "link": "https://www.elperiodico.com/es/motor/20260913/insolito-rincon-badajoz-considerado-rotonda-mas-grande-134184550",
+    "pubDate": "2026-09-13 17:30:40",
+    "category": "",
+    "description": "<h2>Ubicado en plena comarca de La Siberia, este accidente geográfico declarado Monumento Natural forma un círculo casi perfecto y se ha convertido en una de las carreteras más curiosas de España</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "П’ятий матч поспіль із голом: українець встановив унікальне досягнення",
+    "link": "https://ua.korrespondent.net/sport/football/4911348-piatyi-match-pospil-iz-holom-ukrainets-vstanovyv-unikalne-dosiahnennia",
+    "pubDate": "2026-09-13 17:25:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562092.jpg\">Нападник відзначився забитим м'ячем уже в п'ятому поєдинку поспіль, встановивши унікальне досягнення в першості.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los Bombers trabajan en un incendio de \"baja intensidad\" cerca del castillo de Tagamanent",
     "link": "https://www.elperiodico.com/es/sociedad/20260913/bombers-incendio-baja-intensidad-cerca-castillo-tagamanent-134241875",
     "pubDate": "2026-09-13 17:22:36",

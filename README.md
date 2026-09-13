@@ -1,4 +1,4 @@
-# News for 2026-09-13 17:25
+# News for 2026-09-13 18:10
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
@@ -21,6 +21,8 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:32 [Crimen en Pontevedra: detenido un hombre por presuntamente matar a su madre octogenaria](https://www.elperiodico.com/es/sucesos/20260913/crimen-pontevedra-detenido-hombre-presuntamente-134242261)<br>
+17:32 [Tiempo en Catalunya mañana lunes: últimos días de calor en Barcelona antes de la llegada de una nueva borrasca](https://www.elperiodico.com/es/tiempo/20260913/tiempo-cataluna-manana-lunes-14-septiembre-temperaturas-lluvia-dv-loc-134240167)<br>
 17:22 [Los Bombers trabajan en un incendio de "baja intensidad" cerca del castillo de Tagamanent](https://www.elperiodico.com/es/sociedad/20260913/bombers-incendio-baja-intensidad-cerca-castillo-tagamanent-134241875)<br>
 17:00 [Alba Roca, psiquiatra: “El momento del parto es el momento en que una mujer tiene más riesgo de desarrollar un trastorno psicótico en toda su vida”](https://www.elperiodico.com/es/sociedad/20260913/alba-roca-psiquiatra-momento-parto-134180287)<br>
 16:19 [Confinan Benahavís (Málaga) por un complicado incendio forestal: 15 medios aéreos y 60 bomberos luchan contra las llamas](https://www.elperiodico.com/es/sociedad/20260913/confinan-benahavis-malaga-complicado-incendio-134240425)<br>
