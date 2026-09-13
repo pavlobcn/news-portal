@@ -1,4 +1,4 @@
-# News for 2026-09-13 20:17
+# News for 2026-09-13 20:48
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
@@ -30,6 +30,7 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:31 [Investigan el posible asesinato machista de una mujer en Madrid](https://www.elperiodico.com/es/sucesos/20260913/investigan-posible-asesinato-machista-mujer-madrid-134248783)<br>
 20:13 [Herido por arma blanca un hombre el sábado por la noche en el distrito de Nou Barris de Barcelona](https://www.elperiodico.com/es/sucesos/20260913/barcelona-apunalamiento-herido-arma-blanca-hombre-sabado-134248284)<br>
 19:49 [Qué es el multicomponente, el mejor ejercicio para la salud de los jubilados](https://www.elperiodico.com/es/vida-y-estilo/20260913/ejercicio-jubilados-salud-multicomponente-deporte-dv-134244806)<br>
 19:30 [Andrés Millán, abogado laboralista: "Esto es lo peor que puedes dejarle a tu hijo como herencia"](https://www.elperiodico.com/es/economia/20260913/andres-millan-abogado-laboralista-peor-herencia-hijos-dv-et-134179447)<br>
