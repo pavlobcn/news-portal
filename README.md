@@ -1,4 +1,4 @@
-# News for 2026-09-13 13:37
+# News for 2026-09-13 16:41
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
@@ -14,9 +14,19 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 02:51 [Росія вдруге за добу поцілила в будинок в Одесі](https://ua.korrespondent.net/city/odessa/4911270-rosiia-vdruhe-za-dobu-potsilyla-v-budynok-v-odesi)<br>
 
 ## as.com
+16:27 [España - Alemania, en directo: Mundial femenino Baloncesto 2026, hoy en vivo](https://as.com/baloncesto/mas_baloncesto/espana-alemania-en-directo-mundial-femenino-baloncesto-2026-hoy-en-vivo-f202609-n/)<br>
+14:16 [Desolación para el Barça: Brizuela, tercera lesión antes de que empiece la temporada](https://as.com/baloncesto/acb/desolacion-para-el-barca-brizuela-tercera-lesion-antes-de-que-empiece-la-temporada-f202609-n/)<br>
 10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:19 [Confinan Benahavís (Málaga) por un complicado incendio forestal: 15 medios aéreos y 60 bomberos luchan contra las llamas](https://www.elperiodico.com/es/sociedad/20260913/confinan-benahavis-malaga-complicado-incendio-134240425)<br>
+16:12 [Un incendio forestal obliga a confinar Benahavís (Málaga) y diseminados cercanos](https://www.elperiodico.com/es/videos/sociedad/incendio-forestal-obliga-confinar-benahavis/134240289.shtml)<br>
+16:08 [Cuando para escuchar música había que pagarla](https://www.elperiodico.com/es/ocio-y-cultura/20260913/escuchar-musica-habia-pagarla-134239513)<br>
+15:52 [OpenAI anuncia que no saldrá a bolsa este año por los riesgos de la IA: "Sería poco aconsejable"](https://www.elperiodico.com/es/economia/20260913/openai-anuncia-saldra-bolsa-ano-134239919)<br>
+15:49 [Récord de alumnos de FP en Catalunya: el curso arranca este lunes con 176.335 estudiantes, 15.475 más que el curso pasado](https://www.elperiodico.com/es/sociedad/20260913/formacion-profesional-record-alumnos-catalunya-curso-2026-2027-nuevos-grados-medio-superior-134104738)<br>
+15:10 [El bonito pueblo medieval con cava y buenas vistas a unos 40 minutos de Sant Boi](https://www.elperiodico.com/es/barcelona/sant-boi/20260913/impresionante-escapada-medieval-cava-paisaje-dv-loc-110920666)<br>
+14:48 [El Barça de Sekulic gana su primer título con la Lliga Catalana y pierde a Brizuela por lesión](https://www.elperiodico.com/es/deportes/20260913/barca-sekulic-gana-primer-titulo-134238825)<br>
+14:27 [Tú eres mi creador, pero yo soy tu amo](https://www.elperiodico.com/es/opinion/20260913/creador-amo-inteligencia-artificial-articulo-nuria-oliver-134238669)<br>
 13:30 [Dos menores heridos por arma blanca esta madrugada en un segundo apuñalamiento en una noche en Barcelona](https://www.elperiodico.com/es/sucesos/20260913/menores-dos-heridos-arma-blanca-segundo-apunalamiento-noche-barcelona-134236920)<br>
 13:30 [El rincón de Rubí que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/rubi/20260913/rincon-rubi-historia-cine-dv-loc-111402057)<br>
 12:25 [Más de 860 migrantes de Ceuta son ubicados en una nueva instalación temporal acondicionada](https://www.elperiodico.com/es/videos/sociedad/860-migrantes-ceuta-son-ubicados/134235976.shtml)<br>
