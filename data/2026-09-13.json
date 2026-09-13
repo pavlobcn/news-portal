@@ -1,5 +1,77 @@
 [
   {
+    "title": "Herido por arma blanca un hombre el sábado por la noche en el distrito de Nou Barris de Barcelona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260913/barcelona-apunalamiento-herido-arma-blanca-hombre-sabado-134248284",
+    "pubDate": "2026-09-13 20:13:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Los hechos tuvieron lugar en el carrer Beret</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los líderes de Escocia, Gales e Irlanda del Norte preparan una estrategia común hacia la independencia",
+    "link": "https://www.elperiodico.com/es/internacional/20260913/lideres-escocia-gales-irlanda-norte-estrategia-independencia-134247820",
+    "pubDate": "2026-09-13 19:54:44",
+    "category": "",
+    "description": "<h2>El escocés Swinney afirma que Andy Burnham \"pasará a la historia como el último primer ministro de Reino Unido\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Критичне обміління Рейну загрожує економіці Німеччини",
+    "link": "https://ua.korrespondent.net/world/4911371-krytychne-obmilinnia-reinu-zahrozhuie-ekonomitsi-nimechchyny",
+    "pubDate": "2026-09-13 19:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562202.jpg\">На Рейні вантажні перевезення фактично обвалилися: судна вже не можуть працювати або змушені ходити без вантажу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Céline Dion regresa triunfal y emocionada al escenario en París: \"Había prometido no llorar, no cumplo mis promesas\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260913/celine-dion-regresa-triunfal-emocionada-paris-video-concierto-primer-134247520",
+    "pubDate": "2026-09-13 19:51:18",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Qué es el multicomponente, el mejor ejercicio para la salud de los jubilados",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260913/ejercicio-jubilados-salud-multicomponente-deporte-dv-134244806",
+    "pubDate": "2026-09-13 19:49:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Hacer deporte evita accidentes como caídas, reduce el riesgo de infartos y previene el deterioro cognitivo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260716/ejercicio-tai-chi-caminar-65-anos-estudio-harvard-dv-126407805\">Caminar no es suficiente después de los 65: El ejercicio clave para frenar el envejecimiento, según Harvard</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno defiende que España \"está gobernando\" a la IA: \"La innovación es compatible con la regulación\"",
+    "link": "https://www.elperiodico.com/es/politica/20260913/gobierno-defiende-espana-gobernando-ia-134247612",
+    "pubDate": "2026-09-13 19:44:31",
+    "category": "",
+    "description": "<h2>El ministro Óscar López defiende que la innovación tecnológica es compatible con la regulación tras el debate sobre los riesgos de seguridad planteado por los líderes del sector</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Enric Mas gana la Vuelta y devuelve la ilusión al ciclismo español",
+    "link": "https://www.elperiodico.com/es/deportes/20260913/enric-gana-vuelta-devuelve-ilusion-ciclismo-espanol-134243840",
+    "pubDate": "2026-09-13 19:42:29",
+    "category": "",
+    "description": "<h2 class=\"item\">El Movistar se impone en una carrera de tres semanas a los siete años de la victoria de Carapaz en el Giro con el deseo de que el triunfo sirva de trampolín al corredor mallorquín para regresar al Tour.</h2><h2 class=\"item\"> El noruego Tobias Johannessen se impone en Granada.</h2><h2 class=\"item\">La clasificación final de la Vuelta.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Буковина та Зоря розписали напружену нічию",
+    "link": "https://ua.korrespondent.net/sport/football/4911369-bukovyna-ta-zoria-rozpysaly-napruzhenu-nichyui",
+    "pubDate": "2026-09-13 19:39:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562201.jpg\">Напружений поєдинок у Чернівцях не виявив переможця та завершився результативною нічиєю з рахунком 1:1.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Andrés Millán, abogado laboralista: \"Esto es lo peor que puedes dejarle a tu hijo como herencia\"",
     "link": "https://www.elperiodico.com/es/economia/20260913/andres-millan-abogado-laboralista-peor-herencia-hijos-dv-et-134179447",
     "pubDate": "2026-09-13 19:30:51",

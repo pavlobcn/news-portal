@@ -1,8 +1,9 @@
-# News for 2026-09-13 19:43
+# News for 2026-09-13 20:17
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
 ## ua.korrespondent.net
+19:54 [Критичне обміління Рейну загрожує економіці Німеччини](https://ua.korrespondent.net/world/4911371-krytychne-obmilinnia-reinu-zahrozhuie-ekonomitsi-nimechchyny)<br>
 19:28 [ППО знешкодила 310 російських дронів протягом дня](https://ua.korrespondent.net/ukraine/4911366-ppo-zneshkodyla-310-rosiiskykh-droniv-protiahom-dnia)<br>
 19:21 [Свята 14 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4911358-sviata-14-veresnia-2026-roku-istoriia-tradytsii)<br>
 18:27 [В Укрзалізниці прокоментували удар по поїзду у прикордонні](https://ua.korrespondent.net/ukraine/4911355-v-ukrzaliznytsi-prokomentuvaly-udar-po-poizdu-u-prykordonni)<br>
@@ -29,6 +30,8 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:13 [Herido por arma blanca un hombre el sábado por la noche en el distrito de Nou Barris de Barcelona](https://www.elperiodico.com/es/sucesos/20260913/barcelona-apunalamiento-herido-arma-blanca-hombre-sabado-134248284)<br>
+19:49 [Qué es el multicomponente, el mejor ejercicio para la salud de los jubilados](https://www.elperiodico.com/es/vida-y-estilo/20260913/ejercicio-jubilados-salud-multicomponente-deporte-dv-134244806)<br>
 19:30 [Andrés Millán, abogado laboralista: "Esto es lo peor que puedes dejarle a tu hijo como herencia"](https://www.elperiodico.com/es/economia/20260913/andres-millan-abogado-laboralista-peor-herencia-hijos-dv-et-134179447)<br>
 19:24 [El naufragio de un barco en Indonesia deja al menos seis muertos y 130 desaparecidos](https://www.elperiodico.com/es/videos/internacional/naufragio-barco-indonesia-deja-seis/134246884.shtml)<br>
 19:22 [Un hombre mata presuntamente a su madre octogenaria en Pontevedra](https://www.elperiodico.com/es/videos/sucesos/hombre-mata-presuntamente-madre-octogenaria/134246861.shtml)<br>
