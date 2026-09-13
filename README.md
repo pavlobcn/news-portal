@@ -1,8 +1,9 @@
-# News for 2026-09-13 12:33
+# News for 2026-09-13 13:37
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
 ## ua.korrespondent.net
+08:16 [В Одесі завершили рятувальні роботи у 25-поверхівці: двоє загиблих](https://ua.korrespondent.net/city/odessa/4911294-v-odesi-zavershyly-riatuvalni-roboty-u-25-poverkhivtsi-dvoie-zahyblykh)<br>
 07:36 [Повітряні сили розповіли деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4911290-povitriani-syly-rozpovily-detali-nichnoi-ataky-rf)<br>
 06:52 [Атака на Хмельниччину: уламки дрона впали на підприємство](https://ua.korrespondent.net/ukraine/4911286-ataka-na-khmelnychchynu-ulamky-drona-vpaly-na-pidpryiemstvo)<br>
 06:23 [Генштаб назвав втрати Росії станом на 13 вересня](https://ua.korrespondent.net/ukraine/4911284-henshtab-nazvav-vtraty-rosii-stanom-na-13-veresnia)<br>
@@ -16,6 +17,8 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:30 [Dos menores heridos por arma blanca esta madrugada en un segundo apuñalamiento en una noche en Barcelona](https://www.elperiodico.com/es/sucesos/20260913/menores-dos-heridos-arma-blanca-segundo-apunalamiento-noche-barcelona-134236920)<br>
+13:30 [El rincón de Rubí que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/rubi/20260913/rincon-rubi-historia-cine-dv-loc-111402057)<br>
 12:25 [Más de 860 migrantes de Ceuta son ubicados en una nueva instalación temporal acondicionada](https://www.elperiodico.com/es/videos/sociedad/860-migrantes-ceuta-son-ubicados/134235976.shtml)<br>
 12:01 [Lamine e Inés acogen a dos cachorros](https://www.elperiodico.com/es/videos/gente/lamine-ines-acogen-cachorros/134235401.shtml)<br>
 12:00 [Sunseeker presenta sus modelos LiDAR 2027, su ecosistema de jardines inteligentes y el primer mapa semántico 3D del sector](https://www.elperiodico.com/es/tecnologia/20260913/sunseeker-presenta-modelos-lidar-2027-134234487)<br>
