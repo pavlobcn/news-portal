@@ -1,8 +1,9 @@
-# News for 2026-09-13 07:28
+# News for 2026-09-13 07:57
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
 ## ua.korrespondent.net
+07:36 [Повітряні сили розповіли деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4911290-povitriani-syly-rozpovily-detali-nichnoi-ataky-rf)<br>
 06:52 [Атака на Хмельниччину: уламки дрона впали на підприємство](https://ua.korrespondent.net/ukraine/4911286-ataka-na-khmelnychchynu-ulamky-drona-vpaly-na-pidpryiemstvo)<br>
 06:23 [Генштаб назвав втрати Росії станом на 13 вересня](https://ua.korrespondent.net/ukraine/4911284-henshtab-nazvav-vtraty-rosii-stanom-na-13-veresnia)<br>
 06:12 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
@@ -16,6 +17,7 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 07:00 [Entornar los ojos, guiñar o acercarse mucho al texto: estas son las señales que pueden indicar que un niño no ve bien](https://www.elperiodico.com/es/sociedad/20260913/senales-problemas-vision-ninos-vuelta-cole-134231219)<br>
 07:00 [Luis Posado, oncólogo: "Cada vez hay más casos de cáncer de pulmón en mujeres jóvenes"](https://www.elperiodico.com/es/sociedad/20260913/luis-posado-oncologo-vez-hay-134231229)<br>
 07:00 [Bego, La Ordenatriz, sobre la carga mental y aprender a ponerse una misma primero: "Me ha costado 50 años ponerlo en práctica"](https://www.elperiodico.com/es/gente/20260913/bego-la-ordenatriz-carga-mental-aprendi-ponerme-primero-50-anos-orden-limpieza-134060500)<br>
+06:02 [Ibiza tiene el único gran aeropuerto de España sin conexión a la red pública de agua](https://www.elperiodico.com/es/economia/20260913/ibiza-aeropuerto-espana-agua-publica-134230223)<br>
 06:01 [ES-Alert en Catalunya, proteger a la población sin paralizarla](https://www.elperiodico.com/es/opinion/20260913/es-alert-temporal-lluvias-debate-134224628)<br>
 06:01 [Roberto Verino: "Apostar por una prenda de calidad es una inversión, no un gasto"](https://www.elperiodico.com/es/vida-y-estilo/20260913/roberto-verino-apostar-prenda-calidad-inversion-gasto-134230135)<br>
 06:01 [Debacle en PISA ¿Y si acabamos con las ocurrencias de PISA?](https://www.elperiodico.com/es/opinion/20260913/debacle-pisa-acabamos-ocurrencias-pisa-134208196)<br>
