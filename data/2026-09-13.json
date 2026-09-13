@@ -1,5 +1,104 @@
 [
   {
+    "title": "Los Bombers trabajan en un incendio de \"baja intensidad\" cerca del castillo de Tagamanent",
+    "link": "https://www.elperiodico.com/es/sociedad/20260913/bombers-incendio-baja-intensidad-cerca-castillo-tagamanent-134241875",
+    "pubDate": "2026-09-13 17:22:36",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260910/sindicatura-comptes-falta-seguimiento-prevencion-incendios-134144806\" target=\"_blank\">La Sindicatura de Comptes alerta de falta de seguimiento y control económico en las políticas de prevención de incendios</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paula Echevarría (49 años): \"Intento todos los días de mi vida hacer deporte. No soy una psicópata del entrenamiento, pero para mí es importante\"",
+    "link": "https://www.elperiodico.com/es/gente/20260913/paula-echevarria-49-anos-deporte-todos-dias-dv-et-134178577",
+    "pubDate": "2026-09-13 17:20:10",
+    "category": "",
+    "description": "<h2>La actriz y modelo española estuvo presente en la última emisión de 'El Hormiguero', espacio presentado por Pablo Motos</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Україну накриють дощі: погода на початок тижня",
+    "link": "https://ua.korrespondent.net/ukraine/4911344-ukrainu-nakryuit-doschi-pohoda-na-pochatok-tyzhnia",
+    "pubDate": "2026-09-13 17:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562076.jpg\">У південних, більшості центральних, а також у східних, місцями Сумській областях дощі, подекуди грози..",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Monumental enfado de Alonso con Sainz tras su toque en Madrid:  \"¡Me ha arrinconado contra el muro!\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260913/monumental-enfado-alonso-sainz-toque-madrid-gp-espana-f1-134241260",
+    "pubDate": "2026-09-13 17:04:56",
+    "category": "",
+    "description": "<h2>El incidente entre el asturiano y el madrileño durante el Gran Premio de España provocó daños en el alerón delantero del Aston Martin y una sanción de cinco segundos para el madrileño</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Gran Premio de España de Fórmula 1, en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/gran-premio-espana-formula-1-134239765",
+    "pubDate": "2026-09-13 17:03:44",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Antonelli, primer ganador en el Madring, con desastre de los españoles",
+    "link": "https://www.elperiodico.com/es/deportes/20260913/antonelli-primer-ganador-madring-134241450",
+    "pubDate": "2026-09-13 17:03:40",
+    "category": "",
+    "description": "<h2>El italiano Kimi Antonelli prolonga su racha y suma su octava victoria de la temporada , por delante de Max Verstappen y Lando Norris en un vibrante primer GP de España en el Madring</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alba Roca, psiquiatra: “El momento del parto es el momento en que una mujer tiene más riesgo de desarrollar un trastorno psicótico en toda su vida”",
+    "link": "https://www.elperiodico.com/es/sociedad/20260913/alba-roca-psiquiatra-momento-parto-134180287",
+    "pubDate": "2026-09-13 17:00:18",
+    "category": "",
+    "description": "<h2>Hablamos con la psiquiatra Alba Roca, la editora Mar García Puig y la abogada Carla Vall sobre las crisis de salud mental tras dar a luz, los pensamientos intrusivos, la psicosis posparto y la falta de seguimiento de las madres.</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260901/carlota-pages-neurocientifica-musica-gimnasio-132300612\">Miqui Puig, cantante y productor: \"Educar el gusto musical de los hijos es un error\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pronto terminará la hibernación independentista",
+    "link": "https://www.elperiodico.com/es/opinion/20260913/pronto-terminara-hibernacion-independentista-134237596",
+    "pubDate": "2026-09-13 17:00:18",
+    "category": "",
+    "description": "<h2>Si sabe jugar bien sus cartas, Sílvia Orriols puede consolidarse como el gran polo de atracción para los independentistas</h2><h2><a href=\"https://www.elperiodico.com/es/opinion/20260819/nueva-chapuza-vivienda-133489343\" target=\"_blank\">Una nueva chapuza en vivienda</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Beatriz Navarro: \"Miramos mucho a las marcas chinas, sobre todo cómo son capaces de lanzar coches en dos años\"",
+    "link": "https://www.elperiodico.com/es/economia/20260913/beatriz-navarro-miramos-marcas-chinas-134241357",
+    "pubDate": "2026-09-13 16:55:35",
+    "category": "",
+    "description": "<h2>Presidenta de la Asociación de Márketing de España (AMKT), cuyos premios nacionales acaban de cumplir 18 años, y directora de Márketing (CMO) de Renault. Reivindica la importancia de que los comités de dirección de las empresas cuenten con la presencia de los CMO («los departamentos de márketing son una palanca transformadora de negocio», afirma) y alerta sobre el impacto de los coches chinos en el mercado: «Hay más de 27 marcas chinas en España y ya tienen el 20% de la cuota de mercado</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У КНДР почався будівельний бум завдяки коштам РФ - економіст",
+    "link": "https://ua.korrespondent.net/world/4911342-u-kndr-pochavsia-budivelnyi-bum-zavdiaky-koshtam-rf-ekonomist",
+    "pubDate": "2026-09-13 16:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562061.jpg\">Економіка Північної Кореї демонструє зростання третій рік поспіль.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así ha sonado el himno de España en Madring ante Felipe VI, sus hijas y Ayuso",
+    "link": "https://www.elperiodico.com/es/videos/politica/sonado-himno-espana-madring-felipe/134241049.shtml",
+    "pubDate": "2026-09-13 16:41:51",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Toboganes espectaculares: los parques infantiles de Barcelona en los que alucinarán tus hijos",
     "link": "https://www.elperiodico.com/es/que-hacer/20260913/mejores-parques-infantiles-barcelona-dv-loc-107285600",
     "pubDate": "2026-09-13 16:30:00",
