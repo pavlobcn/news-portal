@@ -1,4 +1,4 @@
-# News for 2026-09-13 07:57
+# News for 2026-09-13 12:33
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
@@ -12,7 +12,27 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 03:57 [ДПСУ розповіла про роботу пунктів пропуску](https://ua.korrespondent.net/ukraine/4911276-dpsu-rozpovila-pro-robotu-punktiv-propusku)<br>
 02:51 [Росія вдруге за добу поцілила в будинок в Одесі](https://ua.korrespondent.net/city/odessa/4911270-rosiia-vdruhe-za-dobu-potsilyla-v-budynok-v-odesi)<br>
 
+## as.com
+10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
+
 ## www.elperiodico.com
+12:25 [Más de 860 migrantes de Ceuta son ubicados en una nueva instalación temporal acondicionada](https://www.elperiodico.com/es/videos/sociedad/860-migrantes-ceuta-son-ubicados/134235976.shtml)<br>
+12:01 [Lamine e Inés acogen a dos cachorros](https://www.elperiodico.com/es/videos/gente/lamine-ines-acogen-cachorros/134235401.shtml)<br>
+12:00 [Sunseeker presenta sus modelos LiDAR 2027, su ecosistema de jardines inteligentes y el primer mapa semántico 3D del sector](https://www.elperiodico.com/es/tecnologia/20260913/sunseeker-presenta-modelos-lidar-2027-134234487)<br>
+12:00 [Estudiar sin pisar el colegio: más de 4.000 menores hacen ‘homeschooling’ en España](https://www.elperiodico.com/es/sociedad/20260913/homeschooling-estudiar-en-casa-cifras-espana-sin-regulacion-133962946)<br>
+12:00 [Familias que educan a sus hijos en casa: "En dos horas aprenden más que en todo un día en la escuela"](https://www.elperiodico.com/es/sociedad/20260913/educar-en-casa-homeschooling-familias-explican-como-lo-hacen-133944252)<br>
+11:20 [El espectacular pueblo costero a tan solo 20 minutos de Cornellà](https://www.elperiodico.com/es/barcelona/cornella/20260913/espectacular-pueblo-costero-20-minutos-cornella-dv-loc-111723941)<br>
+11:15 [La familia crece: Lamine e Inés acogen a dos cachorros](https://www.elperiodico.com/es/barca/20260913/lamine-yamal-ines-familia-perros-recogen-134217419)<br>
+11:15 [Los psicólogos coinciden: estas son las señales de que alguien es emocionalmente inmaduro](https://www.elperiodico.com/es/ser-feliz/20260913/senales-inmadurez-emocional-psicologa-lara-ferreiro-instagram-dv-et-134030854)<br>
+11:08 [La sepsis provoca entre 15.000 y 20.000 muertes al año en España: así se combate en la uci un síndrome causado por una infección](https://www.elperiodico.com/es/videos/sanidad/sepsis-provoca-15-000-20/134234295.shtml)<br>
+10:37 [Elon Musk coincide con sus rivales Anthropic y OpenAI en la necesidad de desacelerar la IA](https://www.elperiodico.com/es/videos/tecnologia/elon-musk-coincide-rivales-anthropic/134233659.shtml)<br>
+09:53 [Palabra y silencio](https://www.elperiodico.com/es/opinion/20260913/palabra-silencio-articulo-emma-riverola-134232888)<br>
+09:00 [Animales irracionales](https://www.elperiodico.com/es/opinion/20260913/animales-irracionales-siglo-xxi-ia-articulo-carles-francino-134200510)<br>
+08:59 [Sobre (vivir) a la crianza - Salud mental y crianza](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-salud-mental-crianza/134140304.shtml)<br>
+08:16 [Elon Musk coincide con sus rivales Anthropic y OpenAI en la necesidad de desacelerar la IA](https://www.elperiodico.com/es/tecnologia/20260913/elon-musk-coincide-rivales-desacelerar-inteligencia-artificial-anthropic-openai-134231824)<br>
+08:01 [La sepsis provoca entre 15.000 y 20.000 muertes al año en España: así se combate en la uci un síndrome causado por una infección](https://www.elperiodico.com/es/sanidad/20260913/sepsis-infecciones-muertes-espana-134177831)<br>
+08:01 [Carl Cederström y André Spicer: "Cuanto más tratamos de disfrutar, más difícil se vuelve"](https://www.elperiodico.com/es/ser-feliz/20260913/carl-cederstrom-andre-spicer-tratamos-133920685)<br>
+08:01 [Crónica desde París: La Torre Montparnasse, el edificio "más feo" de la capital de Francia que busca una segunda vida](https://www.elperiodico.com/es/internacional/20260913/cronica-paris-torre-montparnasse-edificio-mas-feo-capital-francia-segunda-vida-134231776)<br>
 07:07 [Indonesia pierde el contacto con un barco de pasajeros con 240 personas a bordo](https://www.elperiodico.com/es/internacional/20260913/indonesia-pierde-contacto-barco-pasajeros-134230994)<br>
 07:00 [Entornar los ojos, guiñar o acercarse mucho al texto: estas son las señales que pueden indicar que un niño no ve bien](https://www.elperiodico.com/es/sociedad/20260913/senales-problemas-vision-ninos-vuelta-cole-134231219)<br>
 07:00 [Luis Posado, oncólogo: "Cada vez hay más casos de cáncer de pulmón en mujeres jóvenes"](https://www.elperiodico.com/es/sociedad/20260913/luis-posado-oncologo-vez-hay-134231229)<br>

@@ -90,6 +90,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Concierto de Ronnie Wood en la Sala Razzmatazz",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/concierto-ronnie-wood-sala-razzmatazz-134227328",
+    "pubDate": "2026-09-12 22:45:12",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Méndez: “Sé algo de baloncesto, pero de arbitraje no tengo ni idea”",
     "link": "https://as.com/baloncesto/mas_baloncesto/mendez-se-algo-de-baloncesto-pero-de-arbitraje-no-tengo-ni-idea-f202609-n/",
     "pubDate": "2026-09-12 22:36:00",
@@ -133,6 +142,15 @@
     "description": "Con el recuerdo de la final del Mundial Sub-19, y con la arenga de Gasol aún en los oídos, la Selección femenina de baloncesto creyó en la victoria ante las mejores... Y no anduvo lejos de conseguirla.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "LaLiga: Real Madrid - Rayo Vallecano, en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/laliga-real-madrid-rayo-vallecano-imagenes-134226701",
+    "pubDate": "2026-09-12 22:13:05",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "España - Alemania: partido por el bronce, horario, TV, cómo y dónde ver el Mundial 2026",
@@ -223,6 +241,15 @@
     "description": "<h2>\"Si les molesta el arco iris, vamos a llenar la ciudad, vamos a llenar Asturias de arco iris, porque estamos claros de que somos más. Lo están demostrando las sociedades asturianas ahora mismo, aquí atrás, somos más\" ha declarado el exconcejal de Somos Oviedo</h2>",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "La semifinal del Mundial femenino de Baloncesto: España-Estados Unidos, en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/semifinal-mundial-femenino-baloncesto-espana-estados-unidos-imagenes-134225531",
+    "pubDate": "2026-09-12 21:34:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Прем'єр - про підготовку до зими: Є плани А, В і С",
