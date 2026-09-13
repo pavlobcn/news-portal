@@ -153,6 +153,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-12 22:00:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "З початку доби відбулося 206 боєзіткнень",
     "link": "https://ua.korrespondent.net/ukraine/4911243-z-pochatku-doby-vidbulosia-206-boiezitknen",
     "pubDate": "2026-09-12 21:59:00",
@@ -1357,6 +1366,15 @@
     "description": "<h2>Rabat, en principio alineado con EEUU y Occidente, está potenciando de forma paralela sus vínculos con Moscú en un intento de diversificar sus opciones diplomáticas y asegurarse apoyos en la ONU en la cuestión del Sáhara Occidental     </h2><h2>Investigaciones periodísticas han revelado que el puerto de Tanger-Med ha funcionado como 'hub' para evadir sanciones sobre los hidrocarburos rusos, mientras que en la actualidad el reino alauí ayuda al país eslavo a paliar la carestía de combustible</h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-12 11:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Cristobal Soria sufre un accidente de rafting en Costa Rica mientras grababa 'Planeta Calleja'",
