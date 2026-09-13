@@ -1,4 +1,4 @@
-# News for 2026-09-13 22:54
+# News for 2026-09-14 00:00
 
 Previous day: [2026-09-12](./data/2026-09-12.md)
 
@@ -32,6 +32,9 @@ Previous day: [2026-09-12](./data/2026-09-12.md)
 10:48 [Y otra vez, Alemania](https://as.com/baloncesto/mas_baloncesto/y-otra-vez-alemania-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Volver al colegio cuando llegar a fin de mes ya es una asignatura difícil](https://www.elperiodico.com/es/sociedad/20260913/volver-colegio-llegar-mes-asignatura-bc-134252399)<br>
+23:23 [Cinco detenidos y varios heridos al embestir una narcolancha a una patrullera de la Guardia Civil en Almería](https://www.elperiodico.com/es/sucesos/20260913/cinco-detenidos-heridos-embestir-narcolancha-patrullera-guardia-civil-almeria-134252133)<br>
+22:58 [Detenido un hombre por matar a puñaladas a cuatro personas en una serie de ataques en el sur de EEUU](https://www.elperiodico.com/es/internacional/20260913/detenido-hombre-matar-punaladas-cuatro-personas-serie-ataques-sur-eeuu-134251772)<br>
 22:31 [La 'invencible' Estados Unidos no cede el trono del Mundial y conquista el oro ante Francia](https://www.elperiodico.com/es/deportes/20260913/invencible-estados-unidos-cede-trono-134250891)<br>
 20:31 [Investigan el posible asesinato machista de una mujer en Madrid](https://www.elperiodico.com/es/sucesos/20260913/investigan-posible-asesinato-machista-mujer-madrid-134248783)<br>
 20:13 [Herido por arma blanca un hombre el sábado por la noche en el distrito de Nou Barris de Barcelona](https://www.elperiodico.com/es/sucesos/20260913/barcelona-apunalamiento-herido-arma-blanca-hombre-sabado-134248284)<br>
