@@ -1,9 +1,12 @@
-# News for 2026-09-14 22:24
+# News for 2026-09-14 23:50
 
 Previous day: [2026-09-13](./data/2026-09-13.md)
 
 ## ua.korrespondent.net
+20:34 [На одному із пунктів пропуску на понад рік зупинять рух автобусів](https://ua.korrespondent.net/ukraine/4911699-na-odnomu-iz-punktiv-propusku-na-ponad-rik-zupyniat-rukh-avtobusiv)<br>
+20:05 [У Києві помер лікар, в якого нападник випустив понад 20 куль](https://ua.korrespondent.net/city/kiev/4911692-u-kyievi-pomer-likar-v-yakoho-napadnyk-vypustyv-ponad-20-kul)<br>
 19:02 [Масштабна ДТП у Південній Африці: загинула 21 людина](https://ua.korrespondent.net/world/4911677-masshtabna-dtp-u-pivdennii-afrytsi-zahynula-21-luidyna)<br>
+18:45 [Україна і Молдова не домовилися про скидання води з Дністра](https://ua.korrespondent.net/ukraine/4911674-ukraina-i-moldova-ne-domovylysia-pro-skydannia-vody-z-dnistra)<br>
 18:15 [Працювали на РФ: в Україні викрито трьох колаборантів](https://ua.korrespondent.net/ukraine/4911668-pratsuivaly-na-rf-v-ukraini-vykryto-trokh-kolaborantiv)<br>
 17:19 [Трагедія в Умані: у лісосмузі виявили тіло іноземця](https://ua.korrespondent.net/ukraine/4911655-trahediia-v-umani-u-lisosmuzi-vyiavyly-tilo-inozemtsia)<br>
 17:05 [Латвійські перевізники оголосили страйк: що буде з рейсами](https://ua.korrespondent.net/world/4911649-latviiski-pereviznyky-oholosyly-straik-scho-bude-z-reisamy)<br>
