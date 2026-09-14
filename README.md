@@ -1,6 +1,19 @@
-# News for 2026-09-14 03:02
+# News for 2026-09-14 06:50
 
 Previous day: [2026-09-13](./data/2026-09-13.md)
 
 ## ua.korrespondent.net
 00:36 [У Києві авто впало з мосту: водій загинув](https://ua.korrespondent.net/city/kiev/4911404-u-kyievi-avto-vpalo-z-mostu-vodii-zahynuv)<br>
+
+## www.elperiodico.com
+06:00 [El número de presos aumenta cada año en Catalunya y ya roza los 10.000](https://www.elperiodico.com/es/sociedad/20260914/aumento-presos-carceles-cataluna-134155785)<br>
+06:00 [Revolut supera los 7 millones de clientes en España y se acerca a los grandes bancos en el 'top 4' del país](https://www.elperiodico.com/es/economia/20260914/revolut-supera-7-millones-clientes-134254020)<br>
+06:00 ['Sonrisas y lágrimas' y 'Mamma Mia!' inauguran la temporada de musicales en Barcelona](https://www.elperiodico.com/es/ocio-y-cultura/20260914/sonrisas-lagrimas-mamma-inauguran-temporada-134122141)<br>
+06:00 [Juan Velayos: "Tenemos que estar preparados para vivir un ciclo inmobiliario menos positivo"](https://www.elperiodico.com/es/economia/20260914/juan-velayos-the-district-134191957)<br>
+06:00 [La gran industria alerta de un parón de actividad en sus fábricas en España si se recrudece la escalada de precios de la luz y el gas](https://www.elperiodico.com/es/economia/20260914/gran-industria-alerta-paron-actividad-134194597)<br>
+06:00 [Cirsa y Lottomatica se enfrentan en los tribunales con un pleito de 3,5 millones en Italia a las puertas de su unión](https://www.elperiodico.com/es/economia/20260914/cirsa-lottomatica-enfrentan-tribunales-pleito-134254018)<br>
+06:00 [Los padres temen que las emociones de sus hijos se diagnostiquen como problemas mentales, según un estudio inglés](https://www.elperiodico.com/es/ser-feliz/20260914/padres-temen-emociones-hijos-diagnostiquen-134019442)<br>
+06:00 [Guillermo Casar, CEO de TIWI: "La calma mental también forma parte del trabajo"](https://www.elperiodico.com/es/economia/20260914/guillermo-casar-ceo-tiwi-calma-134138823)<br>
+06:00 [Luce,  la joyería que brilla en la sonrisa](https://www.elperiodico.com/es/economia/20260914/luce-joyeria-brilla-sonrisa-134147679)<br>
+05:59 [El núcleo fuerte del Ibex prepara una lluvia de alrededor de 10.000 millones en dividendos para el otoño](https://www.elperiodico.com/es/economia/20260914/nucleo-fuerte-ibex-prepara-lluvia-134253904)<br>
+05:41 [Asesinada en México una universitaria española que estaba de intercambio](https://www.elperiodico.com/es/internacional/20260914/universitaria-espanola-asesinada-mexico-estudiante-morelos-134253683)<br>

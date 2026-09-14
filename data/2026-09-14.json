@@ -1,5 +1,311 @@
 [
   {
+    "title": "Los archivos secretos del NO-DO",
+    "link": "https://www.elperiodico.com/es/tele/20260914/archivos-secretos-nodo-rtve-television-y-mas-sergi-mas-134245407",
+    "pubDate": "2026-09-14 06:01:12",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo abre este domingo el nuevo curso político del PP catalán con un acto en Barcelona",
+    "link": "https://www.elperiodico.com/es/politica/20260914/feijoo-acto-barcelona-nuevo-curso-politico-pp-catalan-134221276",
+    "pubDate": "2026-09-14 06:01:09",
+    "category": "",
+    "description": "<h2 class=\"item\">La cita del líder popular coincidirá con la Festa de la Rosa en Gavà, el gran encuentro anual del PSC, al que está invitado Pedro Sánchez</h2><h2 class=\"item\">Santiago Abascal también ha programado un \"gran acto público\" el viernes en la capital catalana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260112/feijoo-cataluna-apuesta-ganar-elecciones-mayorias-aznar-rajoy-123320244\" target=\"_blank\">Feijóo redobla su presencia en Catalunya para llegar a la Moncloa inspirado por las mayorías de Aznar y Rajoy</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las cosechas de fruta dulce son cada vez más tempranas: el cambio climático adelanta casi un mes la recogida de manzanas, higos y uvas",
+    "link": "https://www.elperiodico.com/es/economia/20260914/verificat-cosechas-fruta-dulce-tempranas-cambio-climatico-134045281",
+    "pubDate": "2026-09-14 06:01:08",
+    "category": "",
+    "description": "<h2>Los ritmos de árboles y plantas se modifican en todo el mundo, adelantando la floración y la maduración de los frutos</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250826/crisis-climatica-pasa-factura-campo-perdidas-espana-550-millones-ano-120960425\" target=\"_blank\">La crisis climática ya pasa factura al campo español, que cada año pierde unos 550 millones de euros</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los productores de calçots empiezan ya la campaña apretados por la fuerte demanda y el cambio climático",
+    "link": "https://www.elperiodico.com/es/economia/20260914/calcot-demanda-cambio-climatico-anticipan-plantacion-cosecha-134028936",
+    "pubDate": "2026-09-14 06:01:07",
+    "category": "",
+    "description": "<h2>El consumo de esta variedad de cebolla se ha disparado un 230% en una década y ha conquistado nuevos mercados fuera de Catalunya</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El cálculo electoral de Sánchez",
+    "link": "https://www.elperiodico.com/es/opinion/20260914/calculo-electoral-sanchez-134236547",
+    "pubDate": "2026-09-14 06:01:03",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El CIS publica su primera encuesta con estimación de voto tras la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260914/encuesta-cis-septiembre-2026-ceuta-134210641",
+    "pubDate": "2026-09-14 06:01:01",
+    "category": "",
+    "description": "<h2>El sondeo de julio volvió a situar al PSOE en cabeza y al alza, con 8 puntos de ventaja sobre un PP a la baja</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El número de presos aumenta cada año en Catalunya y ya roza los 10.000",
+    "link": "https://www.elperiodico.com/es/sociedad/20260914/aumento-presos-carceles-cataluna-134155785",
+    "pubDate": "2026-09-14 06:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">La Generalitat negocia con la concesionaria de la cárcel Mas d'Enric, en Tarragona, la instalación de dos módulos y estudia la posibilidad de construir dos más en otros centros penitenciarios</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250909/cataluna-sistema-antidrones-carceles-brians-1-2-evitar-entrada-droga-121380007\">Catalunya inicia en Brians la implantación de un sistema antidrones para evitar la entrada de droga que se extenderá a todas las cárceles</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Revolut supera los 7 millones de clientes en España y se acerca a los grandes bancos en el 'top 4' del país",
+    "link": "https://www.elperiodico.com/es/economia/20260914/revolut-supera-7-millones-clientes-134254020",
+    "pubDate": "2026-09-14 06:00:59",
+    "category": "",
+    "description": "<h2>El neobanco británico, que ha sumado un millón de clientes desde enero, se coloca por detrás de CaixaBank, Santander y BBVA</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Audiencia de Tarragona analiza si el juez que investiga a Montoro pierde el caso en favor de Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20260914/audiencia-tarragona-analiza-juez-cede-caso-montoro-juzgado-madrid-134196246",
+    "pubDate": "2026-09-14 06:00:57",
+    "category": "",
+    "description": "<h2>Fiscalía advierte de trabas en el acceso a cuentas por parte de los bancos mientras perjudicados como Tebas insisten en poder acusar al exministro</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "'Sonrisas y lágrimas' y 'Mamma Mia!' inauguran la temporada de musicales en Barcelona",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260914/sonrisas-lagrimas-mamma-inauguran-temporada-134122141",
+    "pubDate": "2026-09-14 06:00:57",
+    "category": "",
+    "description": "<h2>Cuatro producciones estrenadas en Madrid recalan en Barcelona. 'Mamma Mia!' en el Tívoli y 'Sonrisas y lágrimas' y 'Los chicos del coro' en el Apolo. 'Cabaret' transformará el Coliseum en el Kit Kat Club en un montaje que difumina la frontera entre escenario y público</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Juan Velayos: \"Tenemos que estar preparados para vivir un ciclo inmobiliario menos positivo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260914/juan-velayos-the-district-134191957",
+    "pubDate": "2026-09-14 06:00:56",
+    "category": "",
+    "description": "<h2>El presidente de The District analiza el impacto de la subida de los tipos de interés y los costes de construcción. Velayos defiende que España seguirá atrayendo capital y anticipa más operaciones en <em>flex living</em>, hoteles, centros de datos y plataformas inmobiliarias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno presiona a los socios para desbloquear el decreto de vivienda y recuperar iniciativa tras la crisis de Ceuta",
+    "link": "https://www.elperiodico.com/es/politica/20260914/gobierno-socios-desbloquear-decreto-vivienda-134193656",
+    "pubDate": "2026-09-14 06:00:56",
+    "category": "",
+    "description": "<h2>Los socialistas sitúan en Junts el principal “escollo” para su aprobación, aunque otros grupos acusan a los socialistas de frenar sus propuestas para poder garantizar su apoyo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La gran industria alerta de un parón de actividad en sus fábricas en España si se recrudece la escalada de precios de la luz y el gas",
+    "link": "https://www.elperiodico.com/es/economia/20260914/gran-industria-alerta-paron-actividad-134194597",
+    "pubDate": "2026-09-14 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Los grupos industriales con altos consumos de electricidad y de gas reclaman al Gobierno y la UE medidas para controlar el impacto de la subida de la energía. </h2><h2 class=\"item\">Las compañías temen sufrir “más pronto que tarde” una destrucción de demanda por el encarecimiento de sus productos y nuevos recortes de producción por no poder trasladar el sobrecoste energético</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa define el rumbo para relanzar el Govern hasta el final de la legislatura",
+    "link": "https://www.elperiodico.com/es/politica/prioridades-govern-generalitat-illa-134122765-rm/index.html",
+    "pubDate": "2026-09-14 06:00:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Illa define el rumbo para relanzar el Govern hasta el final de la legislatura",
+    "link": "https://www.elperiodico.com/es/politica/20260914/illa-define-rumbo-relanzar-govern-134122815",
+    "pubDate": "2026-09-14 06:00:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cirsa y Lottomatica se enfrentan en los tribunales con un pleito de 3,5 millones en Italia a las puertas de su unión",
+    "link": "https://www.elperiodico.com/es/economia/20260914/cirsa-lottomatica-enfrentan-tribunales-pleito-134254018",
+    "pubDate": "2026-09-14 06:00:53",
+    "category": "",
+    "description": "<h2>La multinacional catalana demandó a una de las filiales de su nuevo socio en 2025, con la primera audiencia prevista el próximo jueves </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los padres temen que las emociones de sus hijos se diagnostiquen como problemas mentales, según un estudio inglés",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260914/padres-temen-emociones-hijos-diagnostiquen-134019442",
+    "pubDate": "2026-09-14 06:00:51",
+    "category": "",
+    "description": "<h2 class=\"item\">Una investigación británica alerta de que sentimientos comunes como en enfado o la tristeza se etiquetan como ansiedad</h2><h2 class=\"item\">\"Tengo la sensación de que se está exagerando\", indica la padre de un niño de seis años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20260914/gasolineras-mas-baratas-hoy-lunes-14-septiembre-2026-134178170",
+    "pubDate": "2026-09-14 06:00:50",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Grison: \"Me veo claramente  como un showman, es lo que más feliz me hace\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260914/grison-revuelta-veo-claramente-showman-feliz-vida-134254021",
+    "pubDate": "2026-09-14 06:00:49",
+    "category": "",
+    "description": "<h2>Pese a ser uno de los rostros de moda como figura indispensable en ‘La Revuelta’, Grison deja claro que con su salto a la fama ha perdido \"15 kilos y el pelo\", pero \"sigo teniendo conciencia de clase\". La música, el beatbox y la improvisación cómica se mezclan en su espectáculo ‘No es fácil ser Grison’, un show que realiza \"con el mayor cariño\" y con el que reconoce que \"muero tres minutos\" con cada función</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Guillermo Casar, CEO de TIWI: \"La calma mental también forma parte del trabajo\"",
+    "link": "https://www.elperiodico.com/es/economia/20260914/guillermo-casar-ceo-tiwi-calma-134138823",
+    "pubDate": "2026-09-14 06:00:46",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Luce,  la joyería que brilla en la sonrisa",
+    "link": "https://www.elperiodico.com/es/economia/20260914/luce-joyeria-brilla-sonrisa-134147679",
+    "pubDate": "2026-09-14 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La odontóloga Mariana Trincado y su pareja, Jordi Iserte, llevan dos años al frente de un proyecto para convertir las joyas dentales en un accesorio de moda, más con total  garantía de seguridad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El núcleo fuerte del Ibex prepara una lluvia de alrededor de 10.000 millones en dividendos para el otoño",
+    "link": "https://www.elperiodico.com/es/economia/20260914/nucleo-fuerte-ibex-prepara-lluvia-134253904",
+    "pubDate": "2026-09-14 05:59:40",
+    "category": "",
+    "description": "<h2>Inditex, el Santander y CaixaBank se preparan para retribuir al accionista tras obtener beneficios récords en el primer semestre  </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 13.9: обурення Кремля й атака на поїзд",
+    "link": "https://ua.korrespondent.net/ukraine/4911416-pidsumky-139-oburennia-kremlia-y-ataka-na-poizd",
+    "pubDate": "2026-09-14 05:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562595.jpg\">РФ назвала \"прийнятний\" майданчик для переговорів. Росіяни атакували поїзд на кордоні з Польщею. У Кремлі обурилися новою заявою Зеленського. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los productores de calçots empiezan ya la campaña apretados por la fuerte demanda y el cambio climático",
+    "link": "https://www.elperiodico.com/es/videos/economia/productores-calcots-empiezan-campana-apretados-video/134197639.shtml",
+    "pubDate": "2026-09-14 05:55:31",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los archivos secretos del NO-DO",
+    "link": "https://www.elperiodico.com/es/videos/tele/archivos-secretos-do/134245096.shtml",
+    "pubDate": "2026-09-14 05:55:31",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260914/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-14 05:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Asesinada en México una universitaria española que estaba de intercambio",
+    "link": "https://www.elperiodico.com/es/internacional/20260914/universitaria-espanola-asesinada-mexico-estudiante-morelos-134253683",
+    "pubDate": "2026-09-14 05:41:43",
+    "category": "",
+    "description": "<h2>La Fiscalía investiga el crimen como un feminicidio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Соцмережі: Південь Росії під масованою атакою БпЛА",
+    "link": "https://ua.korrespondent.net/world/russia/4911424-sotsmerezhi-pivden-rosii-pid-masovanoui-atakoui-bpla",
+    "pubDate": "2026-09-14 05:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562655.jpeg\">Вибухи продовжуються по всьому Краснодарському краю, зокрема в місті Сочі, пишуть моніторингові Telegram-канали.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Decathlon aterriza hoy en Sants y suma su 20ª tienda en la provincia de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260914/decathlon-aterriza-hoy-sants-suma-bc-134150787",
+    "pubDate": "2026-09-14 05:30:57",
+    "category": "",
+    "description": "<h2>El nuevo establecimiento cuenta con más de 500 metros cuadrados de superficie dedicados a disciplinas deportivas como la natación, los deportes de montaña, el 'running', el 'fitness', el pádel y el fútbol, además de la nutrición deportiva</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Guerra de Irán, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260914/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-09-14 05:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Партія Мерца лідирує на комунальних виборах у Нижній Саксонії",
+    "link": "https://ua.korrespondent.net/world/4911422-partiia-mertsa-lidyruie-na-komunalnykh-vyborakh-u-nyzhnii-saksonii",
+    "pubDate": "2026-09-14 04:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562640.jpg\">Ультраправа партія Альтернатива для Німеччини, своєю чергою, посіла третє місце маючи 16,5% голосів виборців.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Márquez: \"Si pasa, pasa; y si no pasa, que nos quiten lo 'bailao'\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260914/marquez-pasa-pasa-pasa-quiten-134252953",
+    "pubDate": "2026-09-14 04:36:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Siete primeros meses de susto, de dolor, de desconcierto, de caídas, de derrotas y siete últimos meses de gloria, de triunfos, de remontadas semanales, casi diarias. Marc Márquez Alentá ha pasado de estar a 102 puntos del líder del Mundial de MotoGP a liderarlo tras sumar el doble de puntos que el segundo. Solo 'ET' es capaz de eso.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Шотландія, Вельс і Північна Ірландія вимагатимуть незалежності - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4911418-shotlandiia-vels-i-pivnichna-irlandiia-vymahatymut-nezalezhnosti-zmi",
+    "pubDate": "2026-09-14 03:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562610.jpg\">Саміт відбудеться через два дні після того, як президент США Дональд Трамп заявив, що він \"хотів би\" бачити об'єднану Ірландію.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Китай занепокоєний відносинами між Росією та КНДР - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4911414-kytai-zanepokoienyi-vidnosynamy-mizh-rosiieui-ta-kndr-zmi",
+    "pubDate": "2026-09-14 03:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4562566.jpg\">Пекін не зацікавлений у створенні тісного тристороннього військового союзу за участю Китаю, Північної Кореї та Росії.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Канада готова фінансувати €90 кредиту для України",
     "link": "https://ua.korrespondent.net/world/worldabus/4911412-kanada-hotova-finansuvaty-90-kredytu-dlia-ukrainy",
     "pubDate": "2026-09-14 02:46:00",
