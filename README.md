@@ -1,8 +1,23 @@
-# News for 2026-09-14 14:40
+# News for 2026-09-14 18:24
 
 Previous day: [2026-09-13](./data/2026-09-13.md)
 
 ## ua.korrespondent.net
+18:15 [Працювали на РФ: в Україні викрито трьох колаборантів](https://ua.korrespondent.net/ukraine/4911668-pratsuivaly-na-rf-v-ukraini-vykryto-trokh-kolaborantiv)<br>
+17:19 [Трагедія в Умані: у лісосмузі виявили тіло іноземця](https://ua.korrespondent.net/ukraine/4911655-trahediia-v-umani-u-lisosmuzi-vyiavyly-tilo-inozemtsia)<br>
+17:05 [Латвійські перевізники оголосили страйк: що буде з рейсами](https://ua.korrespondent.net/world/4911649-latviiski-pereviznyky-oholosyly-straik-scho-bude-z-reisamy)<br>
+16:47 [В Україні загинув британський військовий](https://ua.korrespondent.net/ukraine/4911645-v-ukraini-zahynuv-brytanskyi-viiskovyi)<br>
+16:30 [Під час атак РФ пункти пропуску на кордоні України не працюватимуть](https://ua.korrespondent.net/ukraine/4911631-pid-chas-atak-rf-punkty-propusku-na-kordoni-ukrainy-ne-pratsuivatymut)<br>
+16:28 [Детонація складів у Милі: підозрюваний посадовець СБУ вийшов під заставу](https://ua.korrespondent.net/ukraine/4911634-detonatsiia-skladiv-u-myli-pidozruivanyi-posadovets-sbu-vyishov-pid-zastavu)<br>
+15:56 [Рютте назвав удар РФ по потягу проявом відчаю Путіна](https://ua.korrespondent.net/world/4911614-ruitte-nazvav-udar-rf-po-potiahu-proiavom-vidchaui-putina)<br>
+15:53 [В Україні розробляють нове покоління перехоплювачів реактивних "шахедів"](https://ua.korrespondent.net/ukraine/4911618-v-ukraini-rozrobliauit-nove-pokolinnia-perekhopluivachiv-reaktyvnykh-shakhediv)<br>
+15:47 [Український Sargan-3000 потопив російський морський дрон - ВМС](https://ua.korrespondent.net/ukraine/4911610-ukrainskyi-Sargan-3000-potopyv-rosiiskyi-morskyi-dron-vms)<br>
+15:37 [Польща ледь не збила український МіГ-29](https://ua.korrespondent.net/world/4911607-polscha-led-ne-zbyla-ukrainskyi-mih-29)<br>
+15:16 [РФ атакувала Оскіл п’ятьма КАБами: постраждало подружжя, знищено школу](https://ua.korrespondent.net/ukraine/4911599-rf-atakuvala-oskil-piatma-kabamy-postrazhdalo-podruzhzhia-znyscheno-shkolu)<br>
+14:52 [Вулкан Етна зупинив роботу аеропорту на Сицилії](https://ua.korrespondent.net/world/4911581-vulkan-etna-zupynyv-robotu-aeroportu-na-sytsylii)<br>
+14:51 [ДПСУ: Удари РФ по Рівненщині, Волині і Львівщині забезпечувалися з Білорусі](https://ua.korrespondent.net/ukraine/4911585-dpsu-udary-rf-po-rivnenschyni-volyni-i-lvivschyni-zabezpechuvalysia-z-bilorusi)<br>
+14:50 [Удар по потягу на кордоні з Польщею: Росія зробила заяву](https://ua.korrespondent.net/world/russia/4911583-udar-po-potiahu-na-kordoni-z-polscheui-rosiia-zrobyla-zaiavu)<br>
+14:22 [ЗСУ ліквідували генерала РФ у Донецьку - Атеш](https://ua.korrespondent.net/world/russia/4911575-zsu-likviduvaly-henerala-rf-u-donetsku-atesh)<br>
 12:20 [Зірка збірної України змінив Реал на клуб Євроліги](https://ua.korrespondent.net/sport/basketball/4911516-zirka-zbirnoi-ukrainy-zminyv-real-na-klub-yevrolihy)<br>
 12:17 [У селищі, проклятому Ісусом, знайшли знахідку віком 1500 років](https://ua.korrespondent.net/tech/science/4911513-u-selyschi-prokliatomu-isusom-znaishly-znakhidku-vikom-1500-rokiv)<br>
 12:05 [РФ розширює виробництво "шахедів" в Алабузі - OSINT](https://ua.korrespondent.net/world/russia/4911526-rf-rozshyruiie-vyrobnytstvo-shakhediv-v-alabuzi-OSINT)<br>
@@ -27,6 +42,7 @@ Previous day: [2026-09-13](./data/2026-09-13.md)
 00:36 [У Києві авто впало з мосту: водій загинув](https://ua.korrespondent.net/city/kiev/4911404-u-kyievi-avto-vpalo-z-mostu-vodii-zahynuv)<br>
 
 ## as.com
+16:11 [Brizuela se libra del peor escenario](https://as.com/baloncesto/acb/brizuela-se-libra-del-peor-escenario-f202609-n/)<br>
 13:20 [La selección española femenina 3x3, subcampeona de Europa](https://as.com/baloncesto/mas_baloncesto/la-seleccion-espanola-femenina-3x3-subcampeona-de-europa-f202609-n/)<br>
 10:52 [Alex Len jugará en el Baskonia](https://as.com/baloncesto/acb/alex-len-jugara-en-el-baskonia-f202609-n/)<br>
 10:42 [“Ella es el baloncesto estadounidense”](https://as.com/baloncesto/mas_baloncesto/ella-es-el-baloncesto-estadounidense-f202609-n/)<br>
@@ -34,6 +50,28 @@ Previous day: [2026-09-13](./data/2026-09-13.md)
 07:50 [Una nueva forma de ser el Real Madrid](https://as.com/baloncesto/acb/una-nueva-forma-de-ser-el-real-madrid-f202609-n/)<br>
 
 ## www.elperiodico.com
+18:09 [Detenida una mujer tras la muerte por arma de fuego de un hombre en Málaga](https://www.elperiodico.com/es/sucesos/20260914/detenida-mujer-muerte-arma-fuego-134281357)<br>
+18:04 [Puig se queda con el 100% de Isdin tras comprar su mitad a la farmacéutica Esteve por 1.200 millones](https://www.elperiodico.com/es/economia/20260914/puig-queda-100-isdin-comprar-mitad-esteve-1200-millones-134281060)<br>
+18:03 [Asesinada en México Claudia Tacoronte, la estudiante grancanaria que realizaba un intercambio universitario](https://www.elperiodico.com/es/internacional/20260914/asesinada-mexico-claudia-tacoronte-estudiante-134280375)<br>
+18:00 [Catalunya se une a una alianza internacional para reducir las emisiones de metano de granjas y vertederos](https://www.elperiodico.com/es/sociedad/20260914/metano-catalunya-alianza-internacional-reducir-emisiones-agricultura-residuos-efecto-invernadero-134263140)<br>
+17:53 [El minuto de silencio por el asesinato de Claudia Tacoronte en la sede institucional de la Universidad de Las Palmas de Gran Canaria](https://www.elperiodico.com/es/videos/sociedad/minuto-silencio-asesinato-claudia-tacoronte/134280523.shtml)<br>
+17:46 [Alerta con la falta de vitamina D: estos síntomas pueden indicar que tu cuerpo no tiene suficiente](https://www.elperiodico.com/es/vida-y-estilo/20260914/sintomas-falta-vitamina-d-alerta-expertos-medicos-dv-134280069)<br>
+17:36 [La Justicia archiva la querella de David Hatchwell contra Antonio Maestre por presuntas calumnias y delito de odio](https://www.elperiodico.com/es/internacional/20260914/juez-inadmite-querella-acom-david-hatchwell-antonio-maestre-134279916)<br>
+17:31 [Peter Mitchell, arqueólogo, revela cómo los humanos han cambiado a los perros](https://www.elperiodico.com/es/vida-y-estilo/20260914/historia-perros-peter-mitchell-arqueologo-revela-humanos-dv-134277932)<br>
+17:30 [La falta de monitores amenaza la salud de los 'caus' y 'esplais' de Barcelona: "Ser voluntario es un privilegio"](https://www.elperiodico.com/es/barcelona/20260914/la-falta-de-monitores-amenaza-la-salud-de-los-caus-y-esplais-de-barcelona-ser-voluntario-es-un-privilegio-134112581)<br>
+17:24 [La Generalitat y el Área Metropolitana de Tarragona acuerdan avanzar en el marco jurídico del futuro organismo](https://www.elperiodico.com/es/tarragona/20260914/generalitat-area-metropolitana-tarragona-acuerdan-marco-juridico-134277899)<br>
+17:05 [Antes de volver a reformar la educación, evaluemos las reformas](https://www.elperiodico.com/es/opinion/20260914/volver-reformar-educacion-evaluemos-reformas-articulo-carlos-cami-134277902)<br>
+17:00 [Barcelona 'vuelve al cole' con una carencia de ocio educativo infantil en el 30% de los barrios de la ciudad](https://www.elperiodico.com/es/barcelona/20260914/23-barrios-barcelona-quedan-caus-ocio-educativo-desigualdad-134069209)<br>
+16:43 [El nuevo rumbo de la Formación Profesional](https://www.elperiodico.com/es/opinion/20260914/nuevo-rumbo-formacion-profesional-articulo-jordi-gine-134276544)<br>
+16:32 [Woody Allen rodará en Madrid y Aranjuez con Alexi Wasserm, Jemima Kirke y Peter Vives](https://www.elperiodico.com/es/ocio-y-cultura/20260914/woody-allen-rodara-madrid-aranjuez-134276655)<br>
+16:30 [Los psicólogos explican por qué las personas que lloran con frecuencia conectan mejor con los demás](https://www.elperiodico.com/es/ser-feliz/20260914/psicologos-llora-mucho-conectar-mejor-dv-et-133838520)<br>
+15:59 [Nvidia lidera la caída de las tecnológicas en Wall Street por la oleada de temor sobre la IA](https://www.elperiodico.com/es/economia/20260914/nvidia-lidera-caida-tecnologicas-wall-134275484)<br>
+15:31 [El plan de Rodalies alcanza 3.000 millones de ejecución de los 8.000 previstos hasta 2030](https://www.elperiodico.com/es/economia/20260914/plan-rodalies-alcanza-3000-millones-ejecutados-hasta-primer-semestre-2026-ministerio-transportes-134269864)<br>
+15:30 [Shirin Neshat trae su 'Aida' pacifista al Liceu: "Las mujeres han ganado la batalla del velo en Irán"](https://www.elperiodico.com/es/ocio-y-cultura/20260914/shirin-neshat-trae-aida-pacifista-134196287)<br>
+15:00 [La fabricante de satélites Open Cosmos recibe 300 millones de euros para ampliar su capacidad de producción](https://www.elperiodico.com/es/economia/20260914/fabricante-satelites-open-cosmos-ronda-300-millones-ampliar-produccion-134266946)<br>
+14:51 [Espectacular rescate en helicóptero de un caballo atrapado en un estanque de Cullera](https://www.elperiodico.com/es/videos/sociedad/espectacular-rescate-helicoptero-caballo-atrapado-estanque-cullera/134273011.shtml)<br>
+14:49 [Tres huevos gigantes de Salvador Dalí toman el paseo de Gràcia de Barcelona](https://www.elperiodico.com/es/videos/barcelona/tres-huevos-gigantes-salvador-dali-toman-paseo-gracia-barcelona-video/134272825.shtml)<br>
+14:43 [La Universitat CEU Abat Oliba estrena su Grado en Medicina en el Campus Esplugues](https://www.elperiodico.com/es/sociedad/20260914/universitat-ceu-abat-oliba-estrena-grado-medicina-campus-esplugues-134268558)<br>
 14:28 [La renovada Facultad de Educación y Psicología de la URV de Tarragona recibe a sus primeros 500 estudiantes](https://www.elperiodico.com/es/tarragona/20260914/renovada-facultad-educacion-psicologia-urv-tarragona-primeros-estudiantes-134271258)<br>
 14:02 [Sale a la venta un emblemático castillo de Cantabria con mirador astronómico y piscina de agua de mar por 6,5 millones de euros](https://www.elperiodico.com/es/sociedad/20260914/sale-venta-emblematico-castillo-cantabria-134269327)<br>
 13:56 [La FP gana terreno en Catalunya: más mujeres en los ciclos superiores tecnológicos y casi 1.000 nuevas plazas en Barcelona](https://www.elperiodico.com/es/sociedad/20260914/fp-gana-terreno-catalunya-mujeres-tecnologia-barcelona-nuevas-estudios-fp-ferroviarios-134258459)<br>
