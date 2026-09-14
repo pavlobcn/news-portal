@@ -1,4 +1,4 @@
-# News for 2026-09-14 12:47
+# News for 2026-09-14 14:40
 
 Previous day: [2026-09-13](./data/2026-09-13.md)
 
@@ -27,12 +27,24 @@ Previous day: [2026-09-13](./data/2026-09-13.md)
 00:36 [У Києві авто впало з мосту: водій загинув](https://ua.korrespondent.net/city/kiev/4911404-u-kyievi-avto-vpalo-z-mostu-vodii-zahynuv)<br>
 
 ## as.com
+13:20 [La selección española femenina 3x3, subcampeona de Europa](https://as.com/baloncesto/mas_baloncesto/la-seleccion-espanola-femenina-3x3-subcampeona-de-europa-f202609-n/)<br>
 10:52 [Alex Len jugará en el Baskonia](https://as.com/baloncesto/acb/alex-len-jugara-en-el-baskonia-f202609-n/)<br>
 10:42 [“Ella es el baloncesto estadounidense”](https://as.com/baloncesto/mas_baloncesto/ella-es-el-baloncesto-estadounidense-f202609-n/)<br>
 08:45 [La larga espera de Nikola Mirotic](https://as.com/baloncesto/euroliga/la-larga-espera-de-nikola-mirotic-f202609-n/)<br>
 07:50 [Una nueva forma de ser el Real Madrid](https://as.com/baloncesto/acb/una-nueva-forma-de-ser-el-real-madrid-f202609-n/)<br>
 
 ## www.elperiodico.com
+14:28 [La renovada Facultad de Educación y Psicología de la URV de Tarragona recibe a sus primeros 500 estudiantes](https://www.elperiodico.com/es/tarragona/20260914/renovada-facultad-educacion-psicologia-urv-tarragona-primeros-estudiantes-134271258)<br>
+14:02 [Sale a la venta un emblemático castillo de Cantabria con mirador astronómico y piscina de agua de mar por 6,5 millones de euros](https://www.elperiodico.com/es/sociedad/20260914/sale-venta-emblematico-castillo-cantabria-134269327)<br>
+13:56 [La FP gana terreno en Catalunya: más mujeres en los ciclos superiores tecnológicos y casi 1.000 nuevas plazas en Barcelona](https://www.elperiodico.com/es/sociedad/20260914/fp-gana-terreno-catalunya-mujeres-tecnologia-barcelona-nuevas-estudios-fp-ferroviarios-134258459)<br>
+13:43 [Asesinan en México a Claudia Tacoronte, estudiante canaria de 21 años procedente de Santa Brígida](https://www.elperiodico.com/es/videos/internacional/asesinan-mexico-claudia-tacoronte-estudiante/134269546.shtml)<br>
+13:30 [Una mujer de 71 años decide vivir sola en una montaña de Girona en una cabaña hecha por ella misma "sin tener ni puñetera idea de nada, partiendo de cero, tragándome vídeos de Youtube como una loca"](https://www.elperiodico.com/es/vivienda/20260914/mujer-montana-girona-casa-construida-yaya-bushcraft-dv-et-134142820)<br>
+13:30 [Jesús, vive en una furgoneta con 5 animales rescatados de la calle: "Para mi sorpresa, este perro también era muy bueno y solo quería estar encima de mí y darme cariño"](https://www.elperiodico.com/es/economia/20260914/dejo-todo-vivir-furgoneta-camper-5-animales-perros-gatos-convivencia-jesus-dv-et-133813186)<br>
+13:21 [El Mundo Today | Miles de turistas vienen a Barcelona a sacarse fotos sujetando el informe PISA](https://www.elperiodico.com/es/que-hacer/20260914/mundo-today-barcelona-turistas-fotos-informe-pisa-134267638)<br>
+13:18 [La sanidad privada ya administra donanemab, el fármaco que ralentiza el avance del alzhéimer: "El beneficio continúa con el paso del tiempo"](https://www.elperiodico.com/es/sanidad/20260914/sanidad-privada-administra-donamebab-farmaco-ralentiza-progresion-alzheimer-134266193)<br>
+13:00 [Han creado una nave para viajar dentro de tu cuerpo: Madrid abre la primera expedición del mundo a tus neuronas y órganos](https://www.elperiodico.com/es/ocio-y-cultura/20260914/han-creado-nave-viajar-cuerpo-madrid-primera-expedicion-mundo-neuronas-organos-134267317)<br>
+12:58 [Kevin Bacon y Kyra Sedgwick visitarán el festival de Sitges en familia](https://www.elperiodico.com/es/ocio-y-cultura/20260914/kevin-bacon-invitados-festival-sitges-titulos-134263448)<br>
+12:46 [Vídeo | Solo uno de los hermanos está participando en la reconstrucción del crimen de Francisca Cadenas](https://www.elperiodico.com/es/videos/sucesos/video-hermanos-participando-reconstruccion-crimen/134268661.shtml)<br>
 12:40 [BBVA crea una vía para constituir una empresa sin desplazamientos y con todos los trámites guiados: “Queremos que deje de ser un proceso complejo”](https://www.elperiodico.com/es/economia/20260914/bbva-crea-via-constituir-empresa-sin-desplazamientos-134266265)<br>
 12:36 [Sant Feliu de Guíxols licita por 9,1 millones el futuro Museo Thyssen con el objetivo de que abra en 2028](https://www.elperiodico.com/es/ocio-y-cultura/20260914/sant-feliu-guixols-licita-9-134265692)<br>
 12:36 [Isabel Pérez, superviviente de leucemia infantil: "Es igual de importante curar a un paciente, que curarlo bien"](https://www.elperiodico.com/es/sanidad/20260914/isabel-perez-superviviente-leucemia-infantil-importante-curar-bien-hospital-cancer-134257133)<br>
