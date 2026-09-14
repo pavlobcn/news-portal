@@ -1,4 +1,4 @@
-# News for 2026-09-14 18:24
+# News for 2026-09-14 20:12
 
 Previous day: [2026-09-13](./data/2026-09-13.md)
 
@@ -50,6 +50,14 @@ Previous day: [2026-09-13](./data/2026-09-13.md)
 07:50 [Una nueva forma de ser el Real Madrid](https://as.com/baloncesto/acb/una-nueva-forma-de-ser-el-real-madrid-f202609-n/)<br>
 
 ## www.elperiodico.com
+19:45 [Arnau vive aislado en la montaña con 25 años: "Ha llovido bastante estos días, ha hecho también mucha calor y mucho sol, por lo que seguramente tengamos bastantes cosas que cosechar"](https://www.elperiodico.com/es/economia/20260914/vive-aislado-montana-problemas-vida-autosuficiente-animales-huerto-arnau-dv-et-133810245)<br>
+19:35 [De Talamanca a Cardona: la ruta para descubrir las huellas de la Guerra de Sucesión en Catalunya](https://www.elperiodico.com/es/catalunya/20260914/talamanca-cardona-guerra-sucesion-cataluna-ruta-pueblos-dv-loc-134283773)<br>
+19:35 [Los feminicidios, una lacra que México no consigue erradicar](https://www.elperiodico.com/es/internacional/20260914/feminicidios-lacra-mexico-no-logra-erradicar-muerte-estudiante-intercambio-espanola-134284504)<br>
+19:30 [Fiestas de Santa Tecla 2026 en Tarragona: guía de todos los actos que no te puedes perder](https://www.elperiodico.com/es/tarragona/20260914/fiestas-santa-tecla-2026-tarragona-guia-actos-imperdibles-134279768)<br>
+19:21 [Red Eléctrica cifra en 783 millones la 'operación reforzada' tras el apagón y revela que se ha empezado a reducir](https://www.elperiodico.com/es/economia/20260914/red-electrica-cifra-783-millones-operacion-reforzada-apagon-reducir-134283902)<br>
+19:16 [Detenido un hombre en Sevilla por apuñalar presuntamente a una mujer](https://www.elperiodico.com/es/sucesos/20260914/detenido-hombre-sevilla-apunalar-mujer-134283702)<br>
+19:00 [Javier de Haro, psicólogo experto en infancia: "Enseñar educación a nuestros hijos es un regalo para quienes tienen a su alrededor, pero sobre todo para ellos mismos"](https://www.elperiodico.com/es/educacion/20260914/faltas-educacion-respeto-hijos-psicologia-javier-haro-dv-et-133872055)<br>
+18:58 [Barcelona y TMB constituyen el grupo impulsor del Museo del Transporte Público](https://www.elperiodico.com/es/barcelona/20260914/barcelona-tmb-constituyen-grupo-impulsor-museo-transporte-publico-134282148)<br>
 18:09 [Detenida una mujer tras la muerte por arma de fuego de un hombre en Málaga](https://www.elperiodico.com/es/sucesos/20260914/detenida-mujer-muerte-arma-fuego-134281357)<br>
 18:04 [Puig se queda con el 100% de Isdin tras comprar su mitad a la farmacéutica Esteve por 1.200 millones](https://www.elperiodico.com/es/economia/20260914/puig-queda-100-isdin-comprar-mitad-esteve-1200-millones-134281060)<br>
 18:03 [Asesinada en México Claudia Tacoronte, la estudiante grancanaria que realizaba un intercambio universitario](https://www.elperiodico.com/es/internacional/20260914/asesinada-mexico-claudia-tacoronte-estudiante-134280375)<br>
