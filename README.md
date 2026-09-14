@@ -1,8 +1,9 @@
-# News for 2026-09-14 20:12
+# News for 2026-09-14 22:24
 
 Previous day: [2026-09-13](./data/2026-09-13.md)
 
 ## ua.korrespondent.net
+19:02 [Масштабна ДТП у Південній Африці: загинула 21 людина](https://ua.korrespondent.net/world/4911677-masshtabna-dtp-u-pivdennii-afrytsi-zahynula-21-luidyna)<br>
 18:15 [Працювали на РФ: в Україні викрито трьох колаборантів](https://ua.korrespondent.net/ukraine/4911668-pratsuivaly-na-rf-v-ukraini-vykryto-trokh-kolaborantiv)<br>
 17:19 [Трагедія в Умані: у лісосмузі виявили тіло іноземця](https://ua.korrespondent.net/ukraine/4911655-trahediia-v-umani-u-lisosmuzi-vyiavyly-tilo-inozemtsia)<br>
 17:05 [Латвійські перевізники оголосили страйк: що буде з рейсами](https://ua.korrespondent.net/world/4911649-latviiski-pereviznyky-oholosyly-straik-scho-bude-z-reisamy)<br>
@@ -42,6 +43,7 @@ Previous day: [2026-09-13](./data/2026-09-13.md)
 00:36 [У Києві авто впало з мосту: водій загинув](https://ua.korrespondent.net/city/kiev/4911404-u-kyievi-avto-vpalo-z-mostu-vodii-zahynuv)<br>
 
 ## as.com
+20:41 [El Breogán vence al Rilski Sportist y espera rival en la segunda eliminatoria](https://as.com/baloncesto/mas_baloncesto/el-breogan-vence-al-rilski-sportist-y-espera-rival-en-la-segunda-eliminatoria-f202609-n/)<br>
 16:11 [Brizuela se libra del peor escenario](https://as.com/baloncesto/acb/brizuela-se-libra-del-peor-escenario-f202609-n/)<br>
 13:20 [La selección española femenina 3x3, subcampeona de Europa](https://as.com/baloncesto/mas_baloncesto/la-seleccion-espanola-femenina-3x3-subcampeona-de-europa-f202609-n/)<br>
 10:52 [Alex Len jugará en el Baskonia](https://as.com/baloncesto/acb/alex-len-jugara-en-el-baskonia-f202609-n/)<br>
@@ -50,6 +52,9 @@ Previous day: [2026-09-13](./data/2026-09-13.md)
 07:50 [Una nueva forma de ser el Real Madrid](https://as.com/baloncesto/acb/una-nueva-forma-de-ser-el-real-madrid-f202609-n/)<br>
 
 ## www.elperiodico.com
+21:15 [Martina (28 años) se fue a vivir a una aldea del siglo XVIII tras sufrir una depresión: "Hay muchas identidades aquí. Está mi esencia, la esencia de la casa y la esencia de mi abuela"](https://www.elperiodico.com/es/economia/20260914/dejo-ciudad-caserio-xviii-depresion-ansiedad-estetica-hipoteca-martina-dv-et-133710518)<br>
+21:00 [Adrià Argemí (Pangea Propulsion) gana el premio al empresario joven del año](https://www.elperiodico.com/es/economia/20260914/adria-argemi-pangea-propulsion-gana-134283793)<br>
+20:19 [Encuentro  conmemorativo del 65 aniversario del laboratorio Menarini España](https://www.elperiodico.com/es/videos/sociedad/encuentro-conmemorativo-65-aniversario-laboratorio/134285636.shtml)<br>
 19:45 [Arnau vive aislado en la montaña con 25 años: "Ha llovido bastante estos días, ha hecho también mucha calor y mucho sol, por lo que seguramente tengamos bastantes cosas que cosechar"](https://www.elperiodico.com/es/economia/20260914/vive-aislado-montana-problemas-vida-autosuficiente-animales-huerto-arnau-dv-et-133810245)<br>
 19:35 [De Talamanca a Cardona: la ruta para descubrir las huellas de la Guerra de Sucesión en Catalunya](https://www.elperiodico.com/es/catalunya/20260914/talamanca-cardona-guerra-sucesion-cataluna-ruta-pueblos-dv-loc-134283773)<br>
 19:35 [Los feminicidios, una lacra que México no consigue erradicar](https://www.elperiodico.com/es/internacional/20260914/feminicidios-lacra-mexico-no-logra-erradicar-muerte-estudiante-intercambio-espanola-134284504)<br>
