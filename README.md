@@ -1,8 +1,12 @@
-# News for 2026-09-15 14:06
+# News for 2026-09-15 16:29
 
 Previous day: [2026-09-14](./data/2026-09-14.md)
 
 ## ua.korrespondent.net
+16:07 [Чому бідність не відступає: 7 звичок, що крадуть статки](https://ua.korrespondent.net/articles/4911944-chomu-bidnist-ne-vidstupaie-7-zvychok-scho-kradut-statky)<br>
+15:47 [У Непалі зниклими безвісти залишаються понад 5000 осіб](https://ua.korrespondent.net/world/4911939-u-nepali-znyklymy-bezvisty-zalyshauitsia-ponad-5000-osib)<br>
+15:20 [Подорожчали квитки на приміські поїзди Укрзалізниці](https://ua.korrespondent.net/business/economics/4911928-podorozhchaly-kvytky-na-prymiski-poizdy-ukrzaliznytsi)<br>
+14:57 [Акції Nvidia та Intel впали на тлі побоювань щодо ШІ](https://ua.korrespondent.net/business/4911922-aktsii-Nvidia-ta-Intel-vpaly-na-tli-pobouivan-schodo-shi)<br>
 13:57 [На Київщині погіршилося повітря: де зафіксували забруднення](https://ua.korrespondent.net/ukraine/4911895-na-kyivschyni-pohirshylosia-povitria-de-zafiksuvaly-zabrudnennia)<br>
 13:52 [В Метінвесті відзвітували про 9 млрд грн збитків за перше півріччя](https://ua.korrespondent.net/business/companies/4911898-v-metinvesti-vidzvituvaly-pro-9-mlrd-hrn-zbytkiv-za-pershe-pivrichchia)<br>
 13:30 [На Львівщині викрили збут кокаїну](https://ua.korrespondent.net/ukraine/4911886-na-lvivschyni-vykryly-zbut-kokainu)<br>
@@ -21,12 +25,22 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 00:01 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
 ## as.com
+14:33 [Pedro Martínez: “Va a venir un último jugador, pero no esperamos que nadie meta 35 puntos”](https://as.com/baloncesto/euroliga/pedro-martinez-va-a-venir-un-ultimo-jugador-pero-no-esperamos-que-nadie-meta-35-puntos-f202609-n/)<br>
+14:24 [Pau Gasol reivindica el impulso del baloncesto femenino y los Juegos Olímpicos](https://as.com/baloncesto/mas_baloncesto/pau-gasol-reivindica-el-impulso-del-baloncesto-femenino-y-los-juegos-olimpicos-f202609-n/)<br>
 09:51 [Mirotic jugará en Valencia](https://as.com/baloncesto/euroliga/mirotic-jugara-en-valencia-f202609-n/)<br>
 09:26 [Hugo González: “Necesito jugar mucho mejor con la Selección”](https://as.com/baloncesto/nba/hugo-gonzalez-necesito-jugar-mucho-mejor-con-la-seleccion-f202609-n/)<br>
 07:52 [Lorenzo Brown exige su liberación](https://as.com/baloncesto/euroliga/lorenzo-brown-exige-su-liberacion-f202609-n/)<br>
 07:12 [El nuevo reto de la Selección](https://as.com/baloncesto/mas_baloncesto/el-nuevo-reto-de-la-seleccion-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:55 [Extinguido un incendio en los laboratorios de una empresa de productos veterinarios en Reus](https://www.elperiodico.com/es/tarragona/20260915/extinguido-incendio-laboratorios-cenavisa-reus-134313411)<br>
+15:54 [El humo de los incendios forestales hace desaparecer hasta el 3 % de las especies de aves la primavera siguiente](https://www.elperiodico.com/es/tendencias21/20260915/humo-incendios-forestales-desaparecer-3-134313969)<br>
+15:50 [Una leopardo de las nieves sorprende junto a sus tres cachorros en China](https://www.elperiodico.com/es/videos/sociedad/leopardo-nieves-sorprende-tres-cachorros-china/134313765.shtml)<br>
+15:30 [Javier de Haro, psicólogo infantil: "No eres peor persona por sentir envidia, pero sí que eres mejor si eres capaz de utilizarla para mejorar"](https://www.elperiodico.com/es/vida-y-estilo/20260915/envidia-mejor-persona-hijo-javier-haro-psicologo-educacion-dv-et-133909464)<br>
+14:55 [Barcelona recupera las palmeras de la plaza de Trilla con una especie insólita en la ciudad](https://www.elperiodico.com/es/barcelona/20260915/recupera-palmeras-plaza-trilla-especie-nunca-plantada-ciudad-134263212)<br>
+14:46 [Los problemas de suministro de Lenzetto, un fármaco para la menopausia, afectan ya a sus alternativas](https://www.elperiodico.com/es/sanidad/20260915/desabastecimiento-lenzetto-terapias-hormonales-utilizadas-escasez-farmacos-alternativas-mujeres-menopausia-134300553)<br>
+14:22 [Suspenden el 30% de los alumnos catalanes presentados a las PAU en septiembre](https://www.elperiodico.com/es/sociedad/20260915/30-alumnos-suspende-pau-septiembre-selectividad-134301345)<br>
+14:07 [El área de Barcelona registra un 24% más de incendios que hace un año: "Debemos recuperar cultura de bosque"](https://www.elperiodico.com/es/sociedad/20260915/area-barcelona-registra-incendios-cultura-bosque-134305485)<br>
 14:02 [Uno de cada cuatro cánceres que se diagnostican en España es de origen digestivo: a los médicos les inquieta el aumento de casos en jóvenes](https://www.elperiodico.com/es/sanidad/20260915/cuatro-canceres-diagnostican-espana-origen-digestivo-medicos-inquieta-aumento-jovenes-134305006)<br>
 14:01 [La hermana de Claudia, la estudiante asesinada en México, rompe su silencio: “¿Por qué nadie hace nada?”](https://www.elperiodico.com/es/videos/sociedad/hermana-claudia-estudiante-asesinada-mexico-rompe-silencio/134308129.shtml)<br>
 14:00 [Miren Idoia, 53 años, opositora: "Yo sabía que no iba a aprobar porque había estudiado, pero tampoco estaba ni mentalizada ni estaba motivada"](https://www.elperiodico.com/es/sociedad/20260915/oposiciones-estudio-paro-desempleo-miren-idoia-dv-et-134021798)<br>
@@ -74,5 +88,6 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 06:01 [Cada aumento del 10% en el petróleo y el gas podría repercutir un 0,27% en la inflación, según un informe](https://www.elperiodico.com/es/economia/20260915/aumento-10-petroleo-gas-repercutir-134291094)<br>
 06:01 [Menarini España, el laboratorio que creó el famoso analgésico Enantyum en Badalona, cumple 65 años: "Estamos orgullosos por muchos motivos"](https://www.elperiodico.com/es/sanidad/20260915/menarini-espana-laboratorio-enantyum-badalona-65aniversario-134275815)<br>
 06:00 [Mercè Conangla y Jaume Soler, psicólogos: "No es la IA la que gana conciencia, sino nosotros quienes la podemos perder"](https://www.elperiodico.com/es/ser-feliz/20260915/merce-conangla-jaume-soler-psicologos-134060242)<br>
+06:00 ["¿Quién educa a la inteligencia artificial?"](https://www.elperiodico.com/es/entre-todos/participacion/educa-inteligencia-artificial-ia-amenaza-peligro-carta-lector-cesar-carulla-134234122)<br>
 05:00 ['Kisko' desapareció al salir del hospital: horas antes tuvo que ser rescatado tras caer al río Guadalquivir](https://www.elperiodico.com/es/sucesos/20260915/desaparecido-sevilla-guadalquivir-hospital-134290585)<br>
 05:00 [La bombona de butano sube un 5% y llega a los 18,84 euros: “La regulación no elimina los ajustes”](https://www.elperiodico.com/es/economia/20260915/precio-bombona-butano-sube-18-84-euros-134285429)<br>
