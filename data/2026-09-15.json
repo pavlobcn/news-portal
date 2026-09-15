@@ -1,5 +1,32 @@
 [
   {
+    "title": "De Chris Sharma a María Laborda: los referentes que llegan a GRAVITEO A Coruña Xacobeo",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/chris-sharma-maria-laborda-referentes-bc-134329120",
+    "pubDate": "2026-09-15 23:59:42",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El festival reunirá del 18 al 20 de septiembre a figuras internacionales de la escalada, ganadores de la Copa de España de velocidad y algunos de los principales nombres del parkour español</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Пентагон визнав дефіцит боєприпасів через війну з Іраном",
+    "link": "https://ua.korrespondent.net/world/4912036-pentahon-vyznav-defitsyt-boieprypasiv-cherez-viinu-z-iranom",
+    "pubDate": "2026-09-15 23:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564935.jpg\">У звіті оборонного відомства зазначається, що витрати на боєприпаси призвели до дефіциту стратегічних запасів та виявили вузькі місця промислової бази для поповнення запасів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "LaLiga: Elche - Real Madrid, en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/deportes/laliga-elche-real-madrid-imagenes-134327357",
+    "pubDate": "2026-09-15 23:38:13",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Real Madrid holgazanea en Elche y rescata el triunfo en el descuento",
     "link": "https://www.elperiodico.com/es/deportes/20260915/elche-real-madrid-resumen-resultado-futbol-134328727",
     "pubDate": "2026-09-15 23:32:52",
@@ -43,6 +70,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564891.jpg\">Росіяни масово знищують склади в Україні, зокрема й з гуманітарною допомогою. В ООН шукають можливості її захисту.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Зондерштаб Україна. Стартап для купівлі зброї ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4912042-zondershtab-ukraina-startap-dlia-kupivli-zbroi-zsu",
+    "pubDate": "2026-09-15 22:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564952.jpg\">За останній рік підрозділ перетворився на вузловий центр обміну досвідом та технологіями між військовими відомствами і оборонними підприємствами ФРН та України.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "За рахунок РФ. Хто заплатив за весілля сина Трампа",
+    "link": "https://ua.korrespondent.net/world/4912038-za-rakhunok-rf-khto-zaplatyv-za-vesillia-syna-trampa",
+    "pubDate": "2026-09-15 22:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564950.jpg\">Сам президент Дональд Трамп заявив, що “уявлення не має, хто такий Умар”, і підкреслив, що росіянин оплачував не весілля сина, а окрему вечірку на честь молодят.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Barcelona calcula que restaurar el monumento de Colón costará más de 6,3 millones de euros",
