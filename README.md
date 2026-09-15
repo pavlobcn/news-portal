@@ -1,8 +1,18 @@
-# News for 2026-09-15 12:19
+# News for 2026-09-15 14:06
 
 Previous day: [2026-09-14](./data/2026-09-14.md)
 
 ## ua.korrespondent.net
+13:57 [На Київщині погіршилося повітря: де зафіксували забруднення](https://ua.korrespondent.net/ukraine/4911895-na-kyivschyni-pohirshylosia-povitria-de-zafiksuvaly-zabrudnennia)<br>
+13:52 [В Метінвесті відзвітували про 9 млрд грн збитків за перше півріччя](https://ua.korrespondent.net/business/companies/4911898-v-metinvesti-vidzvituvaly-pro-9-mlrd-hrn-zbytkiv-za-pershe-pivrichchia)<br>
+13:30 [На Львівщині викрили збут кокаїну](https://ua.korrespondent.net/ukraine/4911886-na-lvivschyni-vykryly-zbut-kokainu)<br>
+13:29 [Віктор Ющенко розчулив привітанням брата з ювілеєм](https://ua.korrespondent.net/lifestyle/4911883-viktor-yuschenko-rozchulyv-pryvitanniam-brata-z-yuvileiem)<br>
+13:09 [В Ормузькій протоці виявили п’ять нафтових плям](https://ua.korrespondent.net/world/4911879-v-ormuzkii-prototsi-vyiavyly-piat-naftovykh-pliam)<br>
+12:59 [Пророцтво Нострадамуса через 500 років знову налякало світ](https://ua.korrespondent.net/tech/science/4911867-prorotstvo-nostradamusa-cherez-500-rokiv-znovu-naliakalo-svit)<br>
+12:52 [У Туреччині знайшли 350 кг кокаїну в корпусі судна](https://ua.korrespondent.net/world/4911875-u-turechchyni-znaishly-350-kh-kokainu-v-korpusi-sudna)<br>
+12:44 [Ціни на нафту відновили зростання](https://ua.korrespondent.net/business/economics/4911870-tsiny-na-naftu-vidnovyly-zrostannia)<br>
+12:35 [Денисенко замилувала кадрами із сімейного відпочинку](https://ua.korrespondent.net/lifestyle/4911857-denysenko-zamyluvala-kadramy-iz-simeinoho-vidpochynku)<br>
+12:28 [Маск відкликав позов проти Apple](https://ua.korrespondent.net/business/4911864-mask-vidklykav-pozov-proty-Apple)<br>
 12:11 [У Києві іноземця засудили до 4 років за зґвалтування](https://ua.korrespondent.net/city/kiev/4911859-u-kyievi-inozemtsia-zasudyly-do-4-rokiv-za-zgvaltuvannia)<br>
 11:55 [У Хорватії виявили скелет римської епохи, похований обличчям донизу](https://ua.korrespondent.net/tech/science/4911845-u-khorvatii-vyiavyly-skelet-rymskoi-epokhy-pokhovanyi-oblychchiam-donyzu)<br>
 11:39 [Вільнюський аеропорт зупиняв роботу: назвали причину](https://ua.korrespondent.net/world/4911839-vilnuiskyi-aeroport-zupyniav-robotu-nazvaly-prychynu)<br>
@@ -17,6 +27,18 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 07:12 [El nuevo reto de la Selección](https://as.com/baloncesto/mas_baloncesto/el-nuevo-reto-de-la-seleccion-f202609-n/)<br>
 
 ## www.elperiodico.com
+14:02 [Uno de cada cuatro cánceres que se diagnostican en España es de origen digestivo: a los médicos les inquieta el aumento de casos en jóvenes](https://www.elperiodico.com/es/sanidad/20260915/cuatro-canceres-diagnostican-espana-origen-digestivo-medicos-inquieta-aumento-jovenes-134305006)<br>
+14:01 [La hermana de Claudia, la estudiante asesinada en México, rompe su silencio: “¿Por qué nadie hace nada?”](https://www.elperiodico.com/es/videos/sociedad/hermana-claudia-estudiante-asesinada-mexico-rompe-silencio/134308129.shtml)<br>
+14:00 [Miren Idoia, 53 años, opositora: "Yo sabía que no iba a aprobar porque había estudiado, pero tampoco estaba ni mentalizada ni estaba motivada"](https://www.elperiodico.com/es/sociedad/20260915/oposiciones-estudio-paro-desempleo-miren-idoia-dv-et-134021798)<br>
+13:57 [El aeropuerto de Barcelona-El Prat recibirá 1.760 millones del DORA III, con la ampliación de la tercera pista prevista para más adelante](https://www.elperiodico.com/es/economia/20260915/aeropuerto-barcelona-prat-recibira-1760-millones-dora-iii-ampliacion-pista-mas-tarde-134306086)<br>
+13:20 [Las obras del eje cívico de la calle Astorga de Reus se encuentran al 40 % y avanzan con el inicio de la segunda fase](https://www.elperiodico.com/es/tarragona/20260915/obras-eje-civico-calle-astorga-134304855)<br>
+13:10 [Marian Rojas, psiquiatra: "Las redes sociales nos han entrenado para pasar rápidamente a lo siguiente cuando algo nos incomoda"](https://www.elperiodico.com/es/sociedad/20260915/psiquiatras-coinciden-redes-sociales-entrenado-pasar-rapidamente-siguiente-incomoda-dv-et-134106310)<br>
+13:01 [El precio del euríbor hoy, 15 de septiembre: continúa la mala racha de los hipotecados](https://www.elperiodico.com/es/economia/20260915/precio-euribor-hoy-15-septiembre-dv-134259301)<br>
+12:56 [La madre de Elon Musk habla del acoso escolar de su hijo en sus memorias: "En una ocasión lo golpearon con tanta brutalidad que tuvo que ir al hospital"](https://www.elperiodico.com/es/gente/20260915/madre-elon-musk-habla-acoso-134303844)<br>
+12:53 [Catalunya lidera el empleo cualificado industrial con 275.779 ocupados, según Randstad](https://www.elperiodico.com/es/economia/20260915/catalunya-lidera-empleo-cualificado-industrial-segun-randstad-134303056)<br>
+12:52 [Catalunya prevé invertir 126 millones hasta 2031 para impulsar cuatro terminales ferroviarias de mercancías](https://www.elperiodico.com/es/economia/20260915/catalunya-preve-invertir-126-millones-terminales-ferroviarias-estrategia-134300567)<br>
+12:49 [La Diputació de Tarragona invertirá 97.000 euros en mejorar dos pabellones de antiguo preventorio de la Savinosa](https://www.elperiodico.com/es/tarragona/20260915/diputacio-tarragona-invertira-euros-mejorar-pabellones-preventorio-savinosa-134303437)<br>
+12:48 [¿Qué es un 'medicane' y cómo puede afectar este fenómeno meteorológico a los países del Mediterráneo?](https://www.elperiodico.com/es/sociedad/20260915/medicane-meteorologia-tiempo-mediterraneo-causas-clima-134298778)<br>
 12:08 [Paseo con un oso negro, el inesperado acompañante de un hombre en Canadá](https://www.elperiodico.com/es/videos/sociedad/paseo-oso-negro-inesperado-acompanante/134301901.shtml)<br>
 12:01 [El realme 16 Pro Harry Potter Edition incorpora un diseño inspirado en Hogwarts](https://www.elperiodico.com/es/tecnologia/20260915/realme-16-pro-harry-potter-134301277)<br>
 12:00 [Los Mossos buscan a un joven que violó a una chica que salió a correr en Vidreres](https://www.elperiodico.com/es/videos/sociedad/mossos-buscan-joven-violo-chica/134301516.shtml)<br>
@@ -46,6 +68,8 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 08:33 ["Estaba empezando a vivir": el recuerdo de Claudia Tacoronte, la estudiante canaria asesinada en México](https://www.elperiodico.com/es/sociedad/20260915/empezando-vivir-recuerdo-claudia-tacoronte-134294317)<br>
 08:20 [La adaptación de Ivan en una antigua casa rural en los Montes Cárpatos: "Siempre hay mucho trabajo en la tierra, pero es agradable ver cómo todo cobra vida poco a poco"](https://www.elperiodico.com/es/economia/20260915/adaptacion-antigua-casa-rural-ucrania-lavadora-agua-huerto-ivan-dv-et-133739556)<br>
 07:40 [Alan dejó Barcelona para vivir en una casa cueva en Granada: "Es mucho mejor que cualquier piso o casa"](https://www.elperiodico.com/es/economia/20260915/alan-deja-barcelona-vivir-casa-cueva-granada-dv-et-134115067)<br>
+07:01 ["Rigidez administrativa en la universidad pública"](https://www.elperiodico.com/es/entre-todos/participacion/rigidez-administrativa-universidad-publica-carta-lector-sara-rodriguez-134285170)<br>
+06:45 ["Al colegio se va educado y se vuelve a casa enseñado"](https://www.elperiodico.com/es/entre-todos/participacion/educar-ensenar-educacion-carta-lector-francisco-portales-134209693)<br>
 06:01 [Teatre Akademia penetra en la camorra con 'Cor pur', basado en un cuento de Saviano](https://www.elperiodico.com/es/ocio-y-cultura/20260915/teatre-akademia-penetra-camorra-cor-134282173)<br>
 06:01 [Cada aumento del 10% en el petróleo y el gas podría repercutir un 0,27% en la inflación, según un informe](https://www.elperiodico.com/es/economia/20260915/aumento-10-petroleo-gas-repercutir-134291094)<br>
 06:01 [Menarini España, el laboratorio que creó el famoso analgésico Enantyum en Badalona, cumple 65 años: "Estamos orgullosos por muchos motivos"](https://www.elperiodico.com/es/sanidad/20260915/menarini-espana-laboratorio-enantyum-badalona-65aniversario-134275815)<br>
