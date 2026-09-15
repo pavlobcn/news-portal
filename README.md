@@ -1,4 +1,4 @@
-# News for 2026-09-15 08:45
+# News for 2026-09-15 11:38
 
 Previous day: [2026-09-14](./data/2026-09-14.md)
 
@@ -7,10 +7,30 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 00:01 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
 ## as.com
+09:51 [Mirotic jugará en Valencia](https://as.com/baloncesto/euroliga/mirotic-jugara-en-valencia-f202609-n/)<br>
+09:26 [Hugo González: “Necesito jugar mucho mejor con la Selección”](https://as.com/baloncesto/nba/hugo-gonzalez-necesito-jugar-mucho-mejor-con-la-seleccion-f202609-n/)<br>
 07:52 [Lorenzo Brown exige su liberación](https://as.com/baloncesto/euroliga/lorenzo-brown-exige-su-liberacion-f202609-n/)<br>
 07:12 [El nuevo reto de la Selección](https://as.com/baloncesto/mas_baloncesto/el-nuevo-reto-de-la-seleccion-f202609-n/)<br>
 
 ## www.elperiodico.com
+11:35 [El brote de ébola en la República Democrática del Congo supera los 3.500 fallecidos](https://www.elperiodico.com/es/internacional/20260915/brote-ebola-rdc-deja-7-134261084)<br>
+11:30 [Raquel López, electricista autónoma y madre de tres hijos: "La electricidad no es solo un mundo para hombres. Es un espacio lleno de oportunidades para cualquier persona apasionada por aprender y mejorar"](https://www.elperiodico.com/es/economia/20260915/raquel-lopez-electricista-autonoma-madre-tres-hijos-dv-et-134156367)<br>
+11:25 [Matan a un hombre de un tiro en la cabeza en su casa de Águilas](https://www.elperiodico.com/es/sucesos/20260915/investigan-muerte-hombre-tiro-cabeza-aguilas-134300056)<br>
+11:23 [Tom Holland se convierte en el actor más taquillero de la historia del cine mundial](https://www.elperiodico.com/es/gente/20260915/tom-holland-convierte-actor-taquillero-134299600)<br>
+11:21 [Crimen en Palma: "Le dio un cabezazo y en un segundo le clavó el cuchillo recto en el pecho"](https://www.elperiodico.com/es/sucesos/20260915/crimen-palma-le-dio-cabezazo-134299899)<br>
+11:18 [México apunta a "avances significativos" en la investigación del asesinato de la estudiante española Claudia Tacoronte](https://www.elperiodico.com/es/internacional/20260915/gobernadora-morelos-apunta-avances-significativos-asesinato-claudia-tacoronte-estudiante-espanola-intercambio-mexico-134297874)<br>
+11:18 [Una reyerta en la playa del Trampolín deja tres migrantes heridos](https://www.elperiodico.com/es/videos/sucesos/reyerta-playa-trampolin-deja-tres-migrantes-heridos/134299666.shtml)<br>
+11:11 [El príncipe Enrique y Meghan Markle cambian de colegio a Archie y Lilibet tras solo dos días por problemas de seguridad](https://www.elperiodico.com/es/gente/20260915/harry-meghan-archie-lilibet-cambio-colegio-seguridad-134298747)<br>
+11:05 [Ya puedes conseguir el iPhone 18 Pro, pero esta alternativa de Apple no tiene nada que envidiarle](https://www.elperiodico.com/es/shopping/20260915/iphone-18-pro-max-apple-comprar-precio-134177778)<br>
+10:58 [Condenadas dos enfermeras de un hospital por acceder sin permiso al historial clínico de una compañera con una "grave enfermedad"](https://www.elperiodico.com/es/sucesos/20260915/condenadas-enfermeras-hospital-universitario-badajoz-consultar-historial-clinico-enfermedad-dv-134298275)<br>
+10:52 [El calor extremo en Barcelona causa casi 1.400 atenciones médicas y 46 ingresos desde mayo](https://www.elperiodico.com/es/barcelona/20260915/barcelona-calor-salud-ingresos-muertes-atenciones-sanitarias-134297814)<br>
+10:51 [Lilly Wachowski carga contra J. K. Rowling y los fans de Harry Potter: "Estáis apoyando el genocidio trans"](https://www.elperiodico.com/es/gente/20260915/lilly-wachowski-carga-j-k-134298552)<br>
+10:39 [El 'bíceps de Popeye' tiene una explicación médica: así se produce esta síndrome](https://www.elperiodico.com/es/salud/20260915/sindrome-popeye-biceps-explicacion-medica-produce-lesion-134298262)<br>
+10:10 [El aeropuerto de Barcelona-El Prat conecta por primera vez con El Salvador](https://www.elperiodico.com/es/economia/20260915/aeropuerto-barcelona-el-prat-nueva-conexion-el-salvador-ruta-semanal-iberojet-134295983)<br>
+10:09 [Los Mossos buscan a un joven que violó a una chica que salió a correr en Vidreres](https://www.elperiodico.com/es/sociedad/20260915/mossos-buscan-violador-vidreres-correr-134296503)<br>
+09:30 [Precio de la gasolina y diésel hoy, 15 de septiembre en España: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20260915/precio-gasolina-diesel-hoy-15-septiembre-dv-134295675)<br>
+09:01 [El Ibex 35 prolonga las caídas ante el temor a un frenazo de la IA y el petróleo supera los 107 dólares](https://www.elperiodico.com/es/economia/20260915/ibex-35-prolonga-caidas-temor-134294801)<br>
+09:01 [Los carburantes suben un 21% y disparan el IPC de agosto hasta el 4,3%, la tasa más alta en tres años](https://www.elperiodico.com/es/economia/20260915/ipc-inflacion-agosto-2026-alimentos-carburantes-134294759)<br>
 08:37 [Dos años de prisión por obligar a su pareja a llevar el hiyab en Mallorca: “Tienes suerte de estar en España, si estuviéramos en Marruecos ya te hubiera matado”](https://www.elperiodico.com/es/sucesos/20260915/anos-prision-obligar-pareja-llevar-134294435)<br>
 08:33 ["Estaba empezando a vivir": el recuerdo de Claudia Tacoronte, la estudiante canaria asesinada en México](https://www.elperiodico.com/es/sociedad/20260915/empezando-vivir-recuerdo-claudia-tacoronte-134294317)<br>
 08:20 [La adaptación de Ivan en una antigua casa rural en los Montes Cárpatos: "Siempre hay mucho trabajo en la tierra, pero es agradable ver cómo todo cobra vida poco a poco"](https://www.elperiodico.com/es/economia/20260915/adaptacion-antigua-casa-rural-ucrania-lavadora-agua-huerto-ivan-dv-et-133739556)<br>

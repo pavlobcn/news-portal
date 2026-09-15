@@ -1,5 +1,563 @@
 [
   {
+    "title": "El brote de ébola en la República Democrática del Congo supera los 3.500 fallecidos",
+    "link": "https://www.elperiodico.com/es/internacional/20260915/brote-ebola-rdc-deja-7-134261084",
+    "pubDate": "2026-09-15 11:35:00",
+    "category": "",
+    "description": "<h2>El Ministerio de Comunicación de la República Democrática del Congo subraya la urgencia de fortalecer los centros de tratamiento ante una epidemia que ya supera el histórico brote de 2018</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La UEFA designa al Spotify Camp Nou como sede de la final de la Champions de 2029",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/uefa-designa-spotify-camp-nou-champions-2029-134300112",
+    "pubDate": "2026-09-15 11:33:26",
+    "category": "",
+    "description": "<h2>La final europea será el primer gran acontecimiento que albergará el Estadi totalmente completado</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los que pagaron la reserva del nuevo Tesla Roadster pueden empezar a respirar: ya hay fecha para su presentación",
+    "link": "https://www.elperiodico.com/es/motor/20260915/nuevo-tesla-roadster-presentacion-octubre-134296399",
+    "pubDate": "2026-09-15 11:31:22",
+    "category": "",
+    "description": "<h2>La marca de eléctricos ha anunciado en su redes sociales la cuenta atrás para la presentación de tan esperado modelo, que será el próximo 1 de octubre.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Raquel López, electricista autónoma y madre de tres hijos: \"La electricidad no es solo un mundo para hombres. Es un espacio lleno de oportunidades para cualquier persona apasionada por aprender y mejorar\"",
+    "link": "https://www.elperiodico.com/es/economia/20260915/raquel-lopez-electricista-autonoma-madre-tres-hijos-dv-et-134156367",
+    "pubDate": "2026-09-15 11:30:00",
+    "category": "",
+    "description": "<h2>La profesional, que cuando inició sus estudios era la única chica en una clase de 35, lamenta que \"la conciliación laboral no existe hoy en día en España\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260907/kike-urdiales-albanil-generacion-blanditos-sector-construccion-obra-dv-et-133869646\">Kike Urdiales, albañil, sobre las nuevas generaciones: \"Vienen y te duran un día, literal. Y si una caja de azulejos pesa mucho y hay que subirla por la escalera, se te van y al día siguiente no vuelven\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ovechkin, leyenda de la NHL de hockey, aparece en un vídeo electoral de Putin",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/ovechkin-leyenda-nhl-hockey-aparece-134299513",
+    "pubDate": "2026-09-15 11:29:11",
+    "category": "",
+    "description": "<h2>El jugador ruso de los Washington Capitals interviene en la campaña de Rusia Unida</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський підписав закон про нові соцвиплати",
+    "link": "https://ua.korrespondent.net/ukraine/4911834-zelenskyi-pidpysav-zakon-pro-novi-sotsvyplaty",
+    "pubDate": "2026-09-15 11:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564255.jpg\">В Україні з 1 січня 2027 року підвищать виплати дітям та особам з інвалідністю з дитинства.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Matan a un hombre de un tiro en la cabeza en su casa de Águilas",
+    "link": "https://www.elperiodico.com/es/sucesos/20260915/investigan-muerte-hombre-tiro-cabeza-aguilas-134300056",
+    "pubDate": "2026-09-15 11:25:51",
+    "category": "",
+    "description": "<h2>El hijo del afectado, un vecino de 49 años que continuaba con un hilo de vida al llegar los sanitarios, da la voz de alarma y la Guardia Civil se hace cargo del caso</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts se queda sin concejales en Sabadell tras pasar sus dos representantes a ser no adscritos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260915/junts-queda-concejales-sabadell-pasar-134299572",
+    "pubDate": "2026-09-15 11:24:48",
+    "category": "",
+    "description": "<h2>Lluís Matas y Katia Botta fueron expulsados del partido en julio después de negarse a entregar sus actas de concejal</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260702/junts-per-sabadell-expulsa-concejales-actas-elecciones-municipales-132043257\">Junts per Sabadell expulsa a dos concejales por negarse a dejar sus cargos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Німеччина примусово направить військових до Литви - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4911832-nimechchyna-prymusovo-napravyt-viiskovykh-do-lytvy-zmi",
+    "pubDate": "2026-09-15 11:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564253.jpg\">Добровольцями вдалося укомплектувати лише близько 60% місць. Перші примусові призначення можуть розпочатися восени.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Tom Holland se convierte en el actor más taquillero de la historia del cine mundial",
+    "link": "https://www.elperiodico.com/es/gente/20260915/tom-holland-convierte-actor-taquillero-134299600",
+    "pubDate": "2026-09-15 11:23:26",
+    "category": "",
+    "description": "<h2>'Brand New Day' ya suma más de 2.450 millones de dólares en todo el mundo. A finales de agosto, escaló hasta el tercer puesto del ránking de las películas más taquilleras de la historia tras superar a 'Avatar: El sentido del agua'.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crimen en Palma: \"Le dio un cabezazo y en un segundo le clavó el cuchillo recto en el pecho\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260915/crimen-palma-le-dio-cabezazo-134299899",
+    "pubDate": "2026-09-15 11:21:20",
+    "category": "",
+    "description": "<h2>Varios jóvenes que conocían a los dos implicados dicen que la víctima no se metía con nadie: \"Hodaifa era muy tranquilo\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "México apunta a \"avances significativos\" en la investigación del asesinato de la estudiante española Claudia Tacoronte",
+    "link": "https://www.elperiodico.com/es/internacional/20260915/gobernadora-morelos-apunta-avances-significativos-asesinato-claudia-tacoronte-estudiante-espanola-intercambio-mexico-134297874",
+    "pubDate": "2026-09-15 11:18:38",
+    "category": "",
+    "description": "<h2>La gobernadora de Morelos, Margarita González Saravia, informa que hasta ahora no se han producido detenciones, pero se mantienen las esperanzas para \"hacer justicia para Claudia\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una reyerta en la playa del Trampolín deja tres migrantes heridos",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/reyerta-playa-trampolin-deja-tres-migrantes-heridos/134299666.shtml",
+    "pubDate": "2026-09-15 11:18:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Нідерландах підозрюють диверсію на залізниці",
+    "link": "https://ua.korrespondent.net/world/4911826-u-niderlandakh-pidozruiuit-dyversiui-na-zaliznytsi",
+    "pubDate": "2026-09-15 11:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564237.jpg\">На кількох ділянках колії знайшли навмисно залишені там труби. Порушено рух поїздів у центральній та північній частинах країни.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "De Barcelona a Knebworth: estas son las 11 ciudades que Oasis ha escogido para la gira 2027",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260915/lista-ciudades-actuara-oasis-barcelona-134299168",
+    "pubDate": "2026-09-15 11:15:28",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260914/concierto-oasis-barcelona-entradas-registro-134279966\" target=\"_blank\">Concierto de Oasis en Barcelona: cómo conseguir entradas, registro y precios</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El príncipe Enrique y Meghan Markle cambian de colegio a Archie y Lilibet tras solo dos días por problemas de seguridad",
+    "link": "https://www.elperiodico.com/es/gente/20260915/harry-meghan-archie-lilibet-cambio-colegio-seguridad-134298747",
+    "pubDate": "2026-09-15 11:11:17",
+    "category": "",
+    "description": "<h2>El equipo de protección de los Sussex alertó de que el tráfico y la distancia complicaban el trayecto escolar; los niños ya se han incorporado a otro centro cuya identidad se mantiene en secreto</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ має потужні втрати від початку року - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4911829-rf-maie-potuzhni-vtraty-vid-pochatku-roku-henshtab",
+    "pubDate": "2026-09-15 11:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564238.jpg\">Понад 300 тисяч ліквідованих окупантів - чисельність, співмірна з особовим складом майже 150 мотострілецьких полків за умовної чисельності одного полку близько двох тисяч військових.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ya puedes conseguir el iPhone 18 Pro, pero esta alternativa de Apple no tiene nada que envidiarle",
+    "link": "https://www.elperiodico.com/es/shopping/20260915/iphone-18-pro-max-apple-comprar-precio-134177778",
+    "pubDate": "2026-09-15 11:05:28",
+    "category": "",
+    "description": "<h2>El iPhone 18 Pro y el Pro Max llegan este mes de septiembre a España con grandes novedades para ser los móviles más potentes del mercado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alberto Rosati excava una cueva en un terreno que compró por 5.000 euros: \"Con el pico y pala, sabes que poder se puede, pero lo ideal sería uno de esos taladros eléctricos\"",
+    "link": "https://www.elperiodico.com/es/economia/20260915/terreno-cueva-influencer-alberto-rosati-vida-rural-dv-et-134065614",
+    "pubDate": "2026-09-15 11:02:30",
+    "category": "",
+    "description": "<h2>El 'youtuber' se autoabastece gracias a su huerto: \"Todos los días estoy llenando cajitas de fruta y verdura, y no tengo que comprar desde hace ya meses\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260914/hermano-urbanita-visita-aldea-montana-asturias-100-euros-alquiler-ibon-berasategui-dv-et-133844119\">Ibon Berasategui (32 años) muestra a su hermano urbanita la vida en la montaña por un alquiler de 100 euros al mes: \"Es cierto que le gusta un poco el mundo rural, pero no tanto como a mí\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Condenadas dos enfermeras de un hospital por acceder sin permiso al historial clínico de una compañera con una \"grave enfermedad\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260915/condenadas-enfermeras-hospital-universitario-badajoz-consultar-historial-clinico-enfermedad-dv-134298275",
+    "pubDate": "2026-09-15 10:58:32",
+    "category": "",
+    "description": "<h2>La Audiencia impone a las dos trabajadoras del Hospital Universitario de Badajoz 15 y 19 meses de prisión, respectivamente, y las inhabilita 3 años para ejercer su profesión. El tribunal considera probado que consultaron el historial para \"cotillear\", pero no con otra intención</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calor extremo en Barcelona causa casi 1.400 atenciones médicas y 46 ingresos desde mayo",
+    "link": "https://www.elperiodico.com/es/barcelona/20260915/barcelona-calor-salud-ingresos-muertes-atenciones-sanitarias-134297814",
+    "pubDate": "2026-09-15 10:52:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento defiende que ha ampliado los refugios climáticos este verano, mientras la oposición le reprocha que cerraran cuatro de cada 10 en agosto y le exige ampliar las medidas frente a las altas temperaturas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260821/barcelona-dias-calor-extremo-verano-registros-record-133518682\">Barcelona ha encadenado más de 50 días de calor extremo en un verano en el que todas las jornadas han estado entre las más cálidas jamás registradas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lilly Wachowski carga contra J. K. Rowling y los fans de Harry Potter: \"Estáis apoyando el genocidio trans\"",
+    "link": "https://www.elperiodico.com/es/gente/20260915/lilly-wachowski-carga-j-k-134298552",
+    "pubDate": "2026-09-15 10:51:32",
+    "category": "",
+    "description": "<h2>La creadora de Matrix, Lilly Wachowski, pide boicotear el universo de Harry Potter por considerar que J. K. Rowling utiliza sus beneficios económicos para limitar los derechos de las personas transgénero</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ексчиновник ДСНС готував замах на активіста",
+    "link": "https://ua.korrespondent.net/ukraine/4911819-ekschynovnyk-dsns-hotuvav-zamakh-na-aktyvista",
+    "pubDate": "2026-09-15 10:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564204.jpg\">СБУ заявила, що викрила групу, яка планувала вибухи, підпали та напад на громадського активіста. Серед фігурантів - колишній заступник голови ДСНС і керівник політсили на Чернігівщині.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El 'bíceps de Popeye' tiene una explicación médica: así se produce esta síndrome",
+    "link": "https://www.elperiodico.com/es/salud/20260915/sindrome-popeye-biceps-explicacion-medica-produce-lesion-134298262",
+    "pubDate": "2026-09-15 10:39:05",
+    "category": "",
+    "description": "<h2>El doctor Gonzalo Hernández, especialista del centro Vithas, advierte que esta lesión se produce habitualmente por el desgaste progresivo del tendón en personas mayores de 50 años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cazas de la OTAN derriban un dron sobre el espacio aéreo de Lituania",
+    "link": "https://www.elperiodico.com/es/internacional/20260915/cazas-otan-derriban-dron-espacio-aereo-lituania-134298175",
+    "pubDate": "2026-09-15 10:38:04",
+    "category": "",
+    "description": "<h2>Las autoridades del país báltico apuntan a Bielorrusia como origen más probable del aparato no tripulado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El coche eléctrico aviva las disputas en los garajes comunitarios: cargadores sin permiso y preinstalaciones de hasta 20.000 euros",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/coche-electrico-aviva-disputas-garajes-comunitarios-video/134297675.shtml",
+    "pubDate": "2026-09-15 10:34:46",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump interrumpe al jefe de Nvidia para decir que el temor a una IA descontrolada es un \"bulo\" que favorece a China",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260915/trump-interrumpe-publico-jefe-nvidia-temor-ia-descontrolada-bulo-china-anthropic-openai-musk-134296540",
+    "pubDate": "2026-09-15 10:34:40",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente de EEUU llama a Jensen Huang en medio de un acto público para desestimar el llamado a la desaceleración de la carrera tecnolígica y las predicciones apocalípticas de Anthropic, OpenAI y Elon Musk</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260914/freno-gigantes-ia-choca-carrera-eeuu-china-anthropic-matar-openai-trump-regulacion-134285247\" target=\"_blank\">El plan para frenar la IA indigna a Trump y choca con la carrera por su dominio entre EEUU y China</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Muere Bob Mackie, el legendario diseñador de Cher que también vistió a Miley Cyrus, Zendaya, Taylor Swift y Sabrina Carpenter",
+    "link": "https://www.elperiodico.com/es/gente/20260915/muere-bob-mackie-disenador-cher-87-anos-134296903",
+    "pubDate": "2026-09-15 10:33:22",
+    "category": "",
+    "description": "<h2>El llamado 'sultán de las lentejuelas' creó algunos de los 'looks' más icónicos de varias generaciones de cantantes. Pionero de las transparencias y del exceso glamuroso, su estética sigue marcando hoy las alfombras rojas</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "РФ виробляє зброю без санкцій: розвідка назвала компанії",
+    "link": "https://ua.korrespondent.net/world/4911814-rf-vyrobliaie-zbroui-bez-sanktsii-rozvidka-nazvala-kompanii",
+    "pubDate": "2026-09-15 10:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564188.jpg\">ГУР оприлюднило дані 54 російських підприємств концерну КРЕТ, які працюють на оборонну промисловість РФ. 19 із них досі не перебувають під санкціями країн коаліції.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las empresas tienen hasta el 5 de octubre para adaptar sus contratos y detallar salario base, pluses y jornada diaria",
+    "link": "https://www.elperiodico.com/es/economia/20260915/empresas-5-octubre-adaptar-contratos-trabajo-nueva-directiva-condiciones-laborales-transparentes-134065927",
+    "pubDate": "2026-09-15 10:25:00",
+    "category": "",
+    "description": "<h2>El Gobierno da luz verde en su Consejo de Ministros a la transposición de la directiva de condiciones laborales transparentes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Porsche le dice adiós a Bugatti: ¿quién es quién en esta despedida?",
+    "link": "https://www.elperiodico.com/es/motor/20260915/porsche-le-dice-adios-bugatti-134260045",
+    "pubDate": "2026-09-15 10:21:29",
+    "category": "",
+    "description": "<h2>Porsche AG ha vendido su paquete de acciones en Bugatti Rimac a un consorcio liderado por HOF Capital, una firma de inversión estadounidense.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Donald Trump Jr. reconoce que un magnate ruso vinculado al Kremlin financió el ostentoso festejo posterior a su enlace",
+    "link": "https://www.elperiodico.com/es/internacional/20260915/trump-hijo-boda-rusia-financia-empresario-bahamas-134295926",
+    "pubDate": "2026-09-15 10:17:39",
+    "category": "",
+    "description": "<h2>El empresario Umar Kremlev desembolsó cientos de miles de dólares para costear una fiesta y fuegos artificiales en una isla privada de las Bahamas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Polémica en los Emmy por la ausencia de Chuck Norris y otros famosos actores fallecidos en el 'In memoriam'",
+    "link": "https://www.elperiodico.com/es/tele/20260915/polemica-emmy-2026-chuck-norris-memoriam-134294629",
+    "pubDate": "2026-09-15 10:17:06",
+    "category": "",
+    "description": "<h2 class=\"item\">La gala de entrega de los premios de la televisión estadounidense ha rendido homenaje a Rob Reiner y Dolly Parton </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260915/premios-emmy-2026-mejores-looks-alfombra-roja-zendaya-selena-gomez-134293935\">Premios Emmy 2026: los mejores 'looks' de la alfombra roja, de Zendaya vestida de joya al oro líquido de Selena Gomez</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260915/maldicion-widows-bay-arrasa-emmy-134293574\">'La maldición de Widow's Bay' arrasa en unos Emmy que honran la partida de estrellas y 'The Pitt' revalida el galardón a mejor drama</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Російський дрон влучив у тепловоз УЗ на Волині",
+    "link": "https://ua.korrespondent.net/ukraine/4911811-rosiiskyi-dron-vluchyv-u-teplovoz-uz-na-volyni",
+    "pubDate": "2026-09-15 10:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564183.jpg\">Залізничники та пасажири не постраждали. Це вже третій удар РФ по залізничній інфраструктурі Волині за останні дні.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los Mossos concluyen que el gran incendio de agosto en Collserola fue provocado y siguen buscando a su autor",
+    "link": "https://www.elperiodico.com/es/barcelona/20260915/incendio-collserola-causas-detenido-investigacion-mossos-134283041",
+    "pubDate": "2026-09-15 10:14:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La policía descarta que el fuego que quemó 56,9 hectáreas prendiera de forma fortuita e indaga para determinar si las llamas se originaron con intencionalidad o por una negligencia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260904/barcelona-collserola-incendios-tala-arboles-matorrales-133886486\">Collserola se plantea cortar árboles y matorrales en tramos de Barcelona tras el peor incendio en 32 años</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "La Seguridad Social permite cobrar la pensión de viudedad aunque tengas un sueldo alto, pese a las advertencias de los expertos",
+    "link": "https://www.elperiodico.com/es/economia/20260915/seguridad-social-permite-cobrar-pension-viudedad-aunque-sueldo-alto-advertencias-expertos-dv-134296298",
+    "pubDate": "2026-09-15 10:11:41",
+    "category": "",
+    "description": "<h2>La ley permite compatibilizar esta prestación con cualquier renta laboral, mientras algunos expertos plantean cambiar las reglas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El aeropuerto de Barcelona-El Prat conecta por primera vez con El Salvador",
+    "link": "https://www.elperiodico.com/es/economia/20260915/aeropuerto-barcelona-el-prat-nueva-conexion-el-salvador-ruta-semanal-iberojet-134295983",
+    "pubDate": "2026-09-15 10:10:28",
+    "category": "",
+    "description": "<h2>La aerolínea Iberojet estrena una ruta directa semanal con San Salvador que responde a una demanda que creció un 44% entre 2024 y 2025</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260601/comite-rutas-aereas-aeropuerto-barcelona-el-prat-rutas-intercontinentales-130897827\" target=\"_blank\">El comité de rutas aéreas del aeropuerto de Barcelona-El Prat detecta una demanda de 5,3 millones de pasajeros de vuelos intercontinentales sin servir</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos buscan a un joven que violó a una chica que salió a correr en Vidreres",
+    "link": "https://www.elperiodico.com/es/sociedad/20260915/mossos-buscan-violador-vidreres-correr-134296503",
+    "pubDate": "2026-09-15 10:09:35",
+    "category": "",
+    "description": "<h2 class=\"item\">El agresor no conocía a la víctima y llevaba una hoz en la mano cuando se encontró con ella en una zona forestal de la Urbanización Aiguaviva Parc</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260910/delitos-menores-edad-violencia-normalizada-mas-temprana-armas-blancas-134146243\" target=\"_blank\">Los expertos detectan un nuevo patrón de violencia juvenil: más temprana, más impulsiva y con más armas blancas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Окупанти 32 рази обстріляли Донеччину: є загиблі та поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4911808-okupanty-32-razy-obstrilialy-donechchynu-ye-zahybli-ta-poraneni",
+    "pubDate": "2026-09-15 10:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564155.jpg\">За добу російські війська 32 рази обстріляли населені пункти Донеччини. Загинули троє людей, ще 11 дістали поранення, серед них дитина.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Moeve Fútbol Zone 2x03: Lamine, Mbappé y la carrera por ser el mejor del mundo",
+    "link": "https://www.elperiodico.com/es/videos/deportes/moeve-futbol-zone-2x03-lamine/134296675.shtml",
+    "pubDate": "2026-09-15 10:04:48",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Real Madrid viaja a Elche con la cabeza puesta en el derbi del Metropolitano",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/real-madrid-viaja-elche-134285537",
+    "pubDate": "2026-09-15 10:00:14",
+    "category": "",
+    "description": "<h2>Los blancos necesitan un triunfo consistente tras el fiasco en La Cartuja para elevar la moral del vestuario y la ilusión de un madridismo escéptico</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗСУ звільнили село і відкинули росіян на Донеччині",
+    "link": "https://ua.korrespondent.net/ukraine/4911806-zsu-zvilnyly-selo-i-vidkynuly-rosiian-na-donechchyni",
+    "pubDate": "2026-09-15 09:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564154.jpg\">Третій армійський корпус повідомив про перші результати операції \"Вівальді\". Українські військові заявили про зачистку понад 70 кв. км від інфільтрованих російських груп і звільнення Середнього та його околиць.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Junts avisa al Govern de que no es posible llegar al 6% del PIB en educación sin un concierto económico",
+    "link": "https://www.elperiodico.com/es/politica/20260915/junts-govern-educacion-catalunya-pacto-huelga-134295609",
+    "pubDate": "2026-09-15 09:51:31",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260914/salvador-illa-educacion-6-pib-crisis-docentes-unidad-auge-extrema-derecha-134278213\">Illa promete el 6% del PIB en educación para atajar la crisis y pide unidad para frenar el auge ultra</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/prioridades-govern-generalitat-illa-134122765-rm/index.html\">MULTIMEDIA | Las prioridades del Govern de Illa a mitad de mandato</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mirotic jugará en Valencia",
+    "link": "https://as.com/baloncesto/euroliga/mirotic-jugara-en-valencia-f202609-n/",
+    "pubDate": "2026-09-15 09:51:31",
+    "category": "Valencia Basket Club",
+    "description": "El ala-pivot se encontraba sin equipo y llega para reforzar una plantilla que ilusiona.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ford nombra a Jeff Jones presidente de la futura 'joint venture' en Valencia",
+    "link": "https://www.elperiodico.com/es/motor/20260915/ford-nombra-jeff-jones-presidente-joint-venture-geely-134295605",
+    "pubDate": "2026-09-15 09:47:24",
+    "category": "",
+    "description": "<h2>La empresa conjunta con la china Geely comenzará sus operaciones en el primer semestre de 2027, con la salida de los primeros vehículos nuevos de la línea de montaje prevista para 2028.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У восьми областях України немає світла",
+    "link": "https://ua.korrespondent.net/ukraine/4911802-u-vosmy-oblastiakh-ukrainy-nemaie-svitla",
+    "pubDate": "2026-09-15 09:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564139.jpg\">Через обстріли енергетики та негоду частина споживачів у восьми областях України залишається без електрики. Водночас планових обмежень споживання сьогодні не очікують.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Cómo llegar al festival GRAVITEO y aprovechar el fin de semana en la ciudad",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/llegar-festival-graviteo-aprovechar-semana-bc-134295951",
+    "pubDate": "2026-09-15 09:38:24",
+    "category": "",
+    "description": "<h2>Aparcamientos, autocaravanas, alojamientos, transporte y algunas pistas para organizar la visita al festival, que se celebrará del 18 al 20 de septiembre en La Marina y O Parrote</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "'La maldición de Widow's Bay' arrasa en unos Emmy que honran la memorias de grandes estrellas",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/maldicion-widows-bay-arrasa-emmy-video/134295833.shtml",
+    "pubDate": "2026-09-15 09:38:20",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio del petróleo hoy, 15 de septiembre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20260915/precio-petroleo-hoy-15-septiembre-dv-134295682",
+    "pubDate": "2026-09-15 09:32:32",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 15 de septiembre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20260915/precio-gasolina-diesel-hoy-15-septiembre-dv-134295675",
+    "pubDate": "2026-09-15 09:30:44",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала сотнями дронів: у ПС назвали наслідки",
+    "link": "https://ua.korrespondent.net/ukraine/4911797-rf-atakuvala-sotniamy-droniv-u-ps-nazvaly-naslidky",
+    "pubDate": "2026-09-15 09:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564136.jpg\">Росія атакувала Україну 200 ударними безпілотниками, силам ППО вдалося знешкодити 187 дронів, однак є влучання у семи локаціях.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Hugo González: “Necesito jugar mucho mejor con la Selección”",
+    "link": "https://as.com/baloncesto/nba/hugo-gonzalez-necesito-jugar-mucho-mejor-con-la-seleccion-f202609-n/",
+    "pubDate": "2026-09-15 09:26:49",
+    "category": "Baloncesto",
+    "description": "El jugador español repasa su verano, las derrotas contra Portugal y Grecia, la química del vestuario y las expectativas para la próxima temporada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Румунія підняла F-16 через дрони біля кордону з Україною",
+    "link": "https://ua.korrespondent.net/world/4911795-rumuniia-pidniala-F-16-cherez-drony-bilia-kordonu-z-ukrainoui",
+    "pubDate": "2026-09-15 09:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564121.jpg\">Вночі біля кордону Румунії з Україною зафіксували кілька повітряних цілей. Для контролю ситуації Бухарест підняв у небо два винищувачі F-16.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Фрегат РФ обстріляв данський гелікоптер - МО Данії",
+    "link": "https://ua.korrespondent.net/world/4911789-frehat-rf-obstriliav-danskyi-helikopter-mo-danii",
+    "pubDate": "2026-09-15 09:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564113.jpg\">Одна з випущених ракет пролетіла на невеликій відстані від вертольота. У Міноборони Данії назвали інцидент серйозним.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Toni Clapés anuncia que quiere dejar 'Versió RAC1' este año: \"Creo que será el último\"",
+    "link": "https://www.elperiodico.com/es/tele/20260915/toni-clapes-radio-dejar-versio-rac1-134294721",
+    "pubDate": "2026-09-15 09:09:30",
+    "category": "",
+    "description": "<h2 class=\"item\">El programa de radio, que va a cumplir 30 años en antena, es líder de las tardes en Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260113/toni-clapes-tve-programa-humor-la2cat-125633546\">Toni Clapés vuelve a TVE con un programa semanal de humor en La 2Cat</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Audiencias TV ayer | 'El Hormiguero' arrasa con la visita del presidente de Ceuta y 'El Intermedio' se dispara con Pedro Sánchez",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260915/audiencias-tv-ayer-hormiguero-arrasa-visita-presidente-ceuta-intermedio-dispara-pedro-sanchez-134294699",
+    "pubDate": "2026-09-15 09:03:07",
+    "category": "",
+    "description": "<h2>El programa de Antena 3 lidera con un 16,7% y supera ampliamente a 'La Revuelta', mientras la entrevista al presidente impulsa a laSexta hasta uno de sus mejores datos del año.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Ibex 35 prolonga las caídas ante el temor a un frenazo de la IA y el petróleo supera los 107 dólares",
+    "link": "https://www.elperiodico.com/es/economia/20260915/ibex-35-prolonga-caidas-temor-134294801",
+    "pubDate": "2026-09-15 09:01:09",
+    "category": "",
+    "description": "<h2>El índice madrileño retrocede por segunda sesión consecutiva ante la preocupación por la inflación y ante la próxima reunión de la Reserva Federal </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los carburantes suben un 21% y disparan el IPC de agosto hasta el 4,3%, la tasa más alta en tres años",
+    "link": "https://www.elperiodico.com/es/economia/20260915/ipc-inflacion-agosto-2026-alimentos-carburantes-134294759",
+    "pubDate": "2026-09-15 09:01:06",
+    "category": "",
+    "description": "<h2>Es la tasa más alta de los últimos tres años y medio, siete décimas superior a la de julio, aunque la subyacente baja una décima, hasta el 2,9%</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260828/ipc-adelantado-agosto-2026-subida-carburantes-133725260\" target=\"_blank\">La inflación se dispara en agosto hasta el 4,3%, la más alta de los últimos tres años y medio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни обстріляли Херсонщину: є загиблий та 11 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4911784-rosiiany-obstrilialy-khersonschynu-ye-zahyblyi-ta-11-poranenykh",
+    "pubDate": "2026-09-15 08:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564086.jpg\">Російські війська минулої доби знову атакували Херсонщину з повітря та артилерією. Внаслідок ударів загинула людина, ще 11 жителів області отримали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Telefónica pagará 1.650 millones a Dazn por tener toda LaLiga en Movistar Plus hasta 2032",
+    "link": "https://www.elperiodico.com/es/economia/20260915/telefonica-alcanza-acuerdo-dazn-emision-134294654",
+    "pubDate": "2026-09-15 08:54:09",
+    "category": "",
+    "description": "<h2 class=\"item\">La teleco blinda por completo su oferta total de fútbol en televisión con un contrato a razón de 330 millones por cada temporada, un 18% más que los 280 millones por año del anterior acuerdo</h2><h2 class=\"item\">El contrato no es recíproco (Telefónica emitirá los cinco partidos por jornada que se adjudicó Dazn, pero no al revés) y no es exclusivo (Dazn puede revender los derechos a otras operadores, como Orange)</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los 10 momentos clave de unos Emmy marcados por 'La maldición de Widow's Bay'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260915/mejores-momentos-gala-premios-emmy-2026-marcados-maldicion-widows-bay-134289890",
+    "pubDate": "2026-09-15 08:52:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Repasamos la gala en el Peacock Theater y los grandes triunfadores de la noche a través de un puñado de momentos para recordar </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260108/noah-wyle-segunda-temporada-the-pitt-hbo-max-125473044\" target=\"_blank\">Noah Wyle, de vuelta en 'The Pitt': \"Hicimos la serie para los sanitarios que están en primera línea\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260428/maldicion-widows-bay-apple-tv-129613702\" target=\"_blank\">'La maldición de Widow's Bay' (Apple TV): esta comedia de terror con Matthew Rhys no es ninguna broma</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260915/premios-emmy-2026-mejores-looks-alfombra-roja-zendaya-selena-gomez-134293935\" target=\"_blank\">Premios Emmy 2026: los mejores 'looks' de la alfombra roja, de Zendaya vestida de joya al oro líquido de Selena Gomez</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Premios Emmy 2026: los mejores 'looks' de la alfombra roja, de Zendaya vestida de joya al oro líquido de Selena Gomez",
+    "link": "https://www.elperiodico.com/es/gente/20260915/premios-emmy-2026-mejores-looks-alfombra-roja-zendaya-selena-gomez-134293935",
+    "pubDate": "2026-09-15 08:42:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Cristales, metalizados, colores sorbete y un negro llevado a su mínima expresión marcaron una alfombra donde el viejo Hollywood se hizo más sensual y la sastrería masculina perdió rigidez</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260915/mejores-momentos-gala-premios-emmy-2026-marcados-maldicion-widows-bay-134289890\" target=\"_blank\">Los 10 momentos clave de unos Emmy marcados por 'La maldición de Widow's Bay'</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Dos años de prisión por obligar a su pareja a llevar el hiyab en Mallorca: “Tienes suerte de estar en España, si estuviéramos en Marruecos ya te hubiera matado”",
     "link": "https://www.elperiodico.com/es/sucesos/20260915/anos-prision-obligar-pareja-llevar-134294435",
     "pubDate": "2026-09-15 08:37:38",
