@@ -1,8 +1,12 @@
-# News for 2026-09-15 11:38
+# News for 2026-09-15 12:19
 
 Previous day: [2026-09-14](./data/2026-09-14.md)
 
 ## ua.korrespondent.net
+12:11 [У Києві іноземця засудили до 4 років за зґвалтування](https://ua.korrespondent.net/city/kiev/4911859-u-kyievi-inozemtsia-zasudyly-do-4-rokiv-za-zgvaltuvannia)<br>
+11:55 [У Хорватії виявили скелет римської епохи, похований обличчям донизу](https://ua.korrespondent.net/tech/science/4911845-u-khorvatii-vyiavyly-skelet-rymskoi-epokhy-pokhovanyi-oblychchiam-donyzu)<br>
+11:39 [Вільнюський аеропорт зупиняв роботу: назвали причину](https://ua.korrespondent.net/world/4911839-vilnuiskyi-aeroport-zupyniav-robotu-nazvaly-prychynu)<br>
+10:57 [Померла легендарна народна артистка України](https://ua.korrespondent.net/lifestyle/4911816-pomerla-lehendarna-narodna-artystka-ukrainy)<br>
 08:20 [Німеччина дасть Україні ще мільйон євро на безпеку АЕС](https://ua.korrespondent.net/business/financial/4911775-nimechchyna-dast-ukraini-sche-milion-yevro-na-bezpeku-aes)<br>
 00:01 [Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги](https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy)<br>
 
@@ -13,6 +17,13 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 07:12 [El nuevo reto de la Selección](https://as.com/baloncesto/mas_baloncesto/el-nuevo-reto-de-la-seleccion-f202609-n/)<br>
 
 ## www.elperiodico.com
+12:08 [Paseo con un oso negro, el inesperado acompañante de un hombre en Canadá](https://www.elperiodico.com/es/videos/sociedad/paseo-oso-negro-inesperado-acompanante/134301901.shtml)<br>
+12:01 [El realme 16 Pro Harry Potter Edition incorpora un diseño inspirado en Hogwarts](https://www.elperiodico.com/es/tecnologia/20260915/realme-16-pro-harry-potter-134301277)<br>
+12:00 [Los Mossos buscan a un joven que violó a una chica que salió a correr en Vidreres](https://www.elperiodico.com/es/videos/sociedad/mossos-buscan-joven-violo-chica/134301516.shtml)<br>
+11:57 [Barcelona amplía la oferta de extraescolares de Tardes educativas hasta más de 2.000](https://www.elperiodico.com/es/barcelona/20260915/barcelona-amplia-oferta-extraescolares-tardes-educativas-134301007)<br>
+11:50 [Los Mossos detienen a un profesor de Badalona por acosar sexualmente a dos adolescentes](https://www.elperiodico.com/es/sociedad/20260915/mossos-detienen-profesor-badalona-acosar-sexualmente-adolescentes-134300893)<br>
+11:50 [Francesc Augé, ingresado tras un intento de suicidio después de 768 días con la eutanasia bloqueada en el juzgado](https://www.elperiodico.com/es/sociedad/20260915/francesc-auge-ingresado-suicidio-despues-denegacion-eutanasia-134300652)<br>
+11:41 [Un espectacular tornado sacude Hainan, en China](https://www.elperiodico.com/es/videos/internacional/espectacular-tornado-sacude-hainan-china/134300686.shtml)<br>
 11:35 [El brote de ébola en la República Democrática del Congo supera los 3.500 fallecidos](https://www.elperiodico.com/es/internacional/20260915/brote-ebola-rdc-deja-7-134261084)<br>
 11:30 [Raquel López, electricista autónoma y madre de tres hijos: "La electricidad no es solo un mundo para hombres. Es un espacio lleno de oportunidades para cualquier persona apasionada por aprender y mejorar"](https://www.elperiodico.com/es/economia/20260915/raquel-lopez-electricista-autonoma-madre-tres-hijos-dv-et-134156367)<br>
 11:25 [Matan a un hombre de un tiro en la cabeza en su casa de Águilas](https://www.elperiodico.com/es/sucesos/20260915/investigan-muerte-hombre-tiro-cabeza-aguilas-134300056)<br>
