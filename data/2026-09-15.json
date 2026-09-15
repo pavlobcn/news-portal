@@ -1,5 +1,113 @@
 [
   {
+    "title": "El Real Madrid holgazanea en Elche y rescata el triunfo en el descuento",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/elche-real-madrid-resumen-resultado-futbol-134328727",
+    "pubDate": "2026-09-15 23:32:52",
+    "category": "",
+    "description": "<h2>Después de irse al descanso (0-2) y con ocasiones para marcar más, en la segunda salió de paseo y los ilicitanos igualaron un partido que terminó decidiendo Espí en el añadido</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У ФРН дрон розбився біля військової авіабази: триває масштабна операція",
+    "link": "https://ua.korrespondent.net/world/4912034-u-frn-dron-rozbyvsia-bilia-viiskovoi-aviabazy-tryvaie-masshtabna-operatsiia",
+    "pubDate": "2026-09-15 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564920.jpg\">Безпілотник впав за кілометр від авіабази Бундесверу у Вунсторфі. Поліція має намір зібрати інші частини БпЛА, а потім провести їхній аналіз.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Messi tendrá su 'último tango' con Argentina en un amistoso contra Benín en Buenos Aires",
+    "link": "https://www.elperiodico.com/es/deportes/futbol/20260915/messi-tendra-ultimo-tango-argentina-134328016",
+    "pubDate": "2026-09-15 23:08:00",
+    "category": "",
+    "description": "<h2>El astro de la albiceleste será convocado por Lionel Scaloni, tal como confirmó el presidente 'Chiqui' Tapia, para ese encuentro del 6 de octubre en el Monumental.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Збірна України не змогла обіграти Польщу в останньому матчі групи на Євро",
+    "link": "https://ua.korrespondent.net/sport/4912032-zbirna-ukrainy-ne-zmohla-obihraty-polschu-v-ostannomu-matchi-hrupy-na-yevro",
+    "pubDate": "2026-09-15 23:07:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564890.jpg\">Українські волейболісти зазнали поразки від Польщі в останньому поєдинку групового етапу чемпіонату Європи-2026.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ООН збирається свої склади в Україні перенести під землю",
+    "link": "https://ua.korrespondent.net/ukraine/4912029-oon-zbyraietsia-svoi-sklady-v-ukraini-perenesty-pid-zemlui",
+    "pubDate": "2026-09-15 22:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564891.jpg\">Росіяни масово знищують склади в Україні, зокрема й з гуманітарною допомогою. В ООН шукають можливості її захисту.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Barcelona calcula que restaurar el monumento de Colón costará más de 6,3 millones de euros",
+    "link": "https://www.elperiodico.com/es/barcelona/20260915/barcelona-monumento-colon-restauracion-coste-134327279",
+    "pubDate": "2026-09-15 22:31:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El ayuntamiento prevé que la rehabilitación se lleve a cabo en el mandato que empezará en 2027 y rechaza el ruego de Vox para reformar el emblema de inmediato</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260508/barcelona-esculturas-ildefons-cerda-montserrat-caballe-freddie-mercury-129991313\">Barcelona encargará seis nuevas esculturas y las instalará en la calle en 2027: Cerdà, Mercury y Caballé, entre las primeras</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El Valencia resucita sin Corberán y toma aire en Vitoria",
+    "link": "https://www.elperiodico.com/es/deportes/20260915/valencia-resucita-corberan-toma-aire-134327202",
+    "pubDate": "2026-09-15 22:24:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El conjunto levantino, dirigido por el interino Óscar Sánchez, suma el primer triunfo de la temporada gracias a un gol de Rioja.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський закликав Раду ухвалити сім законів",
+    "link": "https://ua.korrespondent.net/ukraine/4912025-zelenskyi-zaklykav-radu-ukhvalyty-sim-zakoniv",
+    "pubDate": "2026-09-15 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564875.jpg\">Голосування за ці законопроєкти означає для України десятки мільярдів доларів міжнародного фінансування.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 16 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260915/portada-periodico-16-septiembre-2026-134327242",
+    "pubDate": "2026-09-15 22:23:42",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Циганков забив дебютний гол у складі Аякса",
+    "link": "https://ua.korrespondent.net/sport/football/4912027-tsyhankov-zabyv-debuitnyi-hol-u-skladi-aiaksa",
+    "pubDate": "2026-09-15 22:19:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564860.jpg\">Український вінгер успішно зіграв за представника нідерландського чемпіонату, забивши свій перший гол у складі нової для себе команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rechazada la propuesta de Vox para que el Ejército proteja Ceuta y Melilla contra la \"inmigración ilegal\"",
+    "link": "https://www.elperiodico.com/es/politica/20260915/rechazada-propuesta-vox-ejercito-proteja-134326724",
+    "pubDate": "2026-09-15 22:07:57",
+    "category": "",
+    "description": "<h2>La iniciativa, apoyada por el PP, no ha salido adelante tras sumar por 168 votos a favor y 178 en contra</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кабмін вніс до Ради проєкт держбюджету на 2027 рік",
+    "link": "https://ua.korrespondent.net/business/economics/4912021-kabmin-vnis-do-rady-proiekt-derzhbuidzhetu-na-2027-rik",
+    "pubDate": "2026-09-15 21:57:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564859.jpg\">Пріоритетом державного бюджету, як і в попередні роки, є фінансування сектору безпеки та оборони.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El Congreso, con la abstención del PSOE, tumba la ley de Sumar para prohibir que los fondos compren viviendas",
     "link": "https://www.elperiodico.com/es/economia/20260915/congreso-ley-sumar-empresas-compra-vivienda-134326545",
     "pubDate": "2026-09-15 21:56:21",
@@ -7,6 +115,33 @@
     "description": "<h2>PP, Vox, Junts y UPN han votado en contra de un texto que ya fue rechazado en noviembre del año pasado</h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Ndiaye: “Concluimos que irme un año cedido era lo mejor”",
+    "link": "https://as.com/baloncesto/acb/ndiaye-concluimos-que-irme-un-ano-cedido-era-lo-mejor-f202609-n/",
+    "pubDate": "2026-09-15 21:44:11",
+    "category": "Baloncesto",
+    "description": "El ala-pívot (22 años y 2,04 m) llega cedido al Joventut desde el Real Madrid, que lo recuperó tras igualar en el derecho de tanteo la oferta del Valencia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un trabajador muere al inhalar sustancias tóxicas en una fosa séptica del Mercado Central de Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260915/trabajadores-heridos-sustancias-toxicas-tarragona-134326303",
+    "pubDate": "2026-09-15 21:43:22",
+    "category": "",
+    "description": "<h2>Otros trabajador ha resultado herido crítico y trasladado al Hospital Joan XXIII</h2><h2>El suceso ha tenido lugar cuando tres operarios reparaban un desagüe en el que se había acumulado monóxido de carbono</h2><h2>Los Bombers aseguran que \"no ha habido ningún riesgo para la población\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Провідний півзахисник збірної Колумбії завершив міжнародну кар'єру",
+    "link": "https://ua.korrespondent.net/sport/football/4912020-providnyi-pivzakhysnyk-zbirnoi-kolumbii-zavershyv-mizhnarodnu-karieru",
+    "pubDate": "2026-09-15 21:39:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564843.jpg\">З національної збірної Колумбії пішов гравець, який присвятив 15 років своєї кар'єри виступам за національну команду на міжнародному рівні.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Solo seis comunidades autónomas igualan los derechos sucesorios de las parejas de hecho al matrimonio: en el resto de España puedes perder la herencia de tu pareja",
@@ -115,6 +250,15 @@
     "description": "<h2>El municipio pacense, elegido por Salvador Illa para reivindicar los lazos entre ambas comunidades, perdió cerca de un tercio de su población entre los años 60 y 80</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "У Кабміні спрогнозували курс долара на кінець 2027 року",
+    "link": "https://ua.korrespondent.net/business/financial/4912016-u-kabmini-sprohnozuvaly-kurs-dolara-na-kinets-2027-roku",
+    "pubDate": "2026-09-15 20:55:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564814.jpg\">Йдеться саме про розрахунковий прогнозний показник, а не про гарантований курс гривні до долара.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "Vídeo | La Zarza, símbolo de la emigración extremeña a Catalunya: \"Para mí son mis dos pueblos\"",
