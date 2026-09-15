@@ -1,5 +1,32 @@
 [
   {
+    "title": "США запровадили санкції проти російського ВТБ",
+    "link": "https://ua.korrespondent.net/world/russia/4911721-ssha-zaprovadyly-sanktsii-proty-rosiiskoho-vtb",
+    "pubDate": "2026-09-15 03:24:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4563628.jpg\">Банк ВТБ, який є другим найбільшим кредитором Росії, звинувачується у допомозі Ірану в обході санкцій.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У РФ палає НПЗ і авіазавод – OSINT",
+    "link": "https://ua.korrespondent.net/world/russia/4911743-u-rf-palaie-npz-i-aviazavod-OSINT",
+    "pubDate": "2026-09-15 02:51:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4563803.jpg\">Дрони влаштували пожежу на Сизранському НПЗ, а у Таганрозі зафіксували пожежу в районі авіаційного науково-технічного комплексу.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "США заявили про розгортання космічної зброї",
+    "link": "https://ua.korrespondent.net/world/4911733-ssha-zaiavyly-pro-rozghortannia-kosmichnoi-zbroi",
+    "pubDate": "2026-09-15 02:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4563696.jpg\">Ця заява стала прозорим натяком Росії та Китаю після років попереджень про те, що ці дві країни відпрацьовують використання лазерів або глушіння, що наражають на небезпеку американські супутники.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La democracia en el mundo, en retroceso tras la llegada de Trump a la Casa Blanca: \"Lo que pasa en EEUU tiene implicaciones globales\"",
     "link": "https://www.elperiodico.com/es/internacional/20260915/democracia-mundo-retroceso-trump-134289948",
     "pubDate": "2026-09-15 02:01:31",
