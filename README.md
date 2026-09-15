@@ -1,4 +1,4 @@
-# News for 2026-09-15 17:07
+# News for 2026-09-15 18:53
 
 Previous day: [2026-09-14](./data/2026-09-14.md)
 
@@ -33,6 +33,19 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 07:12 [El nuevo reto de la Selección](https://as.com/baloncesto/mas_baloncesto/el-nuevo-reto-de-la-seleccion-f202609-n/)<br>
 
 ## www.elperiodico.com
+18:40 [Construir credibilidad](https://www.elperiodico.com/es/opinion/20260915/construir-credibilidad-inteligencia-artificial-134319475)<br>
+18:39 [El Santander gana un pleito de 800 millones contra la aseguradora AXA en el Reino Unido](https://www.elperiodico.com/es/economia/20260915/santander-gana-pleito-800-millones-axa-reino-unido-134321028)<br>
+18:35 [Planeta pone en marcha una editorial en Francia, Éditions Planeta](https://www.elperiodico.com/es/ocio-y-cultura/20260915/planeta-pone-marcha-editorial-francia-134320601)<br>
+18:33 [Confinan un núcleo de Alfarràs de 240 habitantes y granjas cerca de la N-230 por un incendio](https://www.elperiodico.com/es/sociedad/20260915/incendio-confinan-nucleo-alfarras-240-habitantes-lleida-134320671)<br>
+18:30 [Estas son las reformas en casa que puedes hacer sin licencia, según la Ley de Propiedad Horizontal](https://www.elperiodico.com/es/vivienda/20260915/ley-propiedad-horizontal-permisos-licencias-obras-vivienda-dv-133862659)<br>
+18:15 [Adetca anima a apoyar el teatro familiar el próximo 22 de noviembre con 'Porta'm al teatre'](https://www.elperiodico.com/es/ocio-y-cultura/20260915/adetca-anima-apoyar-teatro-familiar-134313198)<br>
+18:08 [El aeropuerto de Barcelona-El Prat supera los 40 millones de pasajeros hasta agosto, un 4,6% más](https://www.elperiodico.com/es/economia/20260915/aeropuerto-barcelona-prat-supera-40-millones-pasajeros-agosto-2026-134316671)<br>
+18:06 [La gigafactoría de IA de Móra la Nova seguirá adelante con o sin dinero de Bruselas: "Lo importante es ser soberanos"](https://www.elperiodico.com/es/economia/20260915/gigafactoria-ia-mora-nova-seguira-134315363)<br>
+18:02 [El tiempo en Catalunya mañana miércoles: llegan las lluvias y Barcelona activa el aviso naranja por tormentas](https://www.elperiodico.com/es/tiempo/20260915/tiempo-cataluna-manana-miercoles-16-de-septiembre-lluvia-temperaturas-dv-loc-134316812)<br>
+18:00 [Miguel Dalmau, Premio de Novela Café Gijón 202: "Está muy bien ganar un Grand Slam"](https://www.elperiodico.com/es/ocio-y-cultura/20260915/miguel-dalmau-premio-novela-cafe-134318771)<br>
+17:50 [Las telecos se lanzan a la gran revolución cuántica](https://www.elperiodico.com/es/videos/economia/telecos-lanzan-gran-revolucion-cuantica/134318445.shtml)<br>
+17:30 [Un abogado laboralista aclara cuándo puedes decirle "no" a tu jefe: "No tienes que obedecer absolutamente todo"](https://www.elperiodico.com/es/economia/20260915/abogado-laboralista-decir-no-jefe-legal-dv-134179319)<br>
+17:30 [Estrella adquirió tres casas abandonadas por 34.000 euros en un pueblo deshabitado: "Una vieja pieza puede convertirse en un mueble; unos ladrillos, en una barbacoa; unas piedras, en una jardinera..."](https://www.elperiodico.com/es/economia/20260915/despoblacion-mujer-restauro-casas-pueblo-abandonado-asturias-cancer-estrella-dv-et-133875760)<br>
 17:01 [Barbara Sunshine, de dormir en su coche a hablar en Esade: "Fue abrumador pero me sentí como si cambiara un poco"](https://www.elperiodico.com/es/sociedad/20260915/barbara-sunshine-vivir-en-el-coche-esade-proyecto-negocio-homeless-entrepreneur-133744321)<br>
 16:50 [Torredembarra abrirá el 30º Concurs de Castells de Tarragona con la esperanza de volver a ver los castells de 8](https://www.elperiodico.com/es/tarragona/20260915/torredembarra-abrira-30-edicion-concurs-castells-tarragona-esperanza-8-pisos-134314929)<br>
 16:48 [La visión futurista y visionaria de Dalí se instala de manera permanente en la Casa Amatller](https://www.elperiodico.com/es/ocio-y-cultura/20260915/vision-futurista-visionaria-dali-instala-134314755)<br>
@@ -80,6 +93,7 @@ Previous day: [2026-09-14](./data/2026-09-14.md)
 10:39 [El 'bíceps de Popeye' tiene una explicación médica: así se produce esta síndrome](https://www.elperiodico.com/es/salud/20260915/sindrome-popeye-biceps-explicacion-medica-produce-lesion-134298262)<br>
 10:10 [El aeropuerto de Barcelona-El Prat conecta por primera vez con El Salvador](https://www.elperiodico.com/es/economia/20260915/aeropuerto-barcelona-el-prat-nueva-conexion-el-salvador-ruta-semanal-iberojet-134295983)<br>
 10:09 [Los Mossos buscan a un joven que violó a una chica que salió a correr en Vidreres](https://www.elperiodico.com/es/sociedad/20260915/mossos-buscan-violador-vidreres-correr-134296503)<br>
+09:31 [Administrar el silencio](https://www.elperiodico.com/es/opinion/20260915/administrar-silencio-134295576)<br>
 09:30 [Precio de la gasolina y diésel hoy, 15 de septiembre en España: consulta el precio de los carburantes](https://www.elperiodico.com/es/economia/20260915/precio-gasolina-diesel-hoy-15-septiembre-dv-134295675)<br>
 09:01 [El Ibex 35 prolonga las caídas ante el temor a un frenazo de la IA y el petróleo supera los 107 dólares](https://www.elperiodico.com/es/economia/20260915/ibex-35-prolonga-caidas-temor-134294801)<br>
 09:01 [Los carburantes suben un 21% y disparan el IPC de agosto hasta el 4,3%, la tasa más alta en tres años](https://www.elperiodico.com/es/economia/20260915/ipc-inflacion-agosto-2026-alimentos-carburantes-134294759)<br>
