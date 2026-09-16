@@ -1,5 +1,86 @@
 [
   {
+    "title": "Одне з міст України залишилося без світла",
+    "link": "https://ua.korrespondent.net/ukraine/4912336-odne-z-mist-ukrainy-zalyshylosia-bez-svitla",
+    "pubDate": "2026-09-16 20:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565897.jpg\">Аварія на підстанції залишила  без  електропостачання понад  56 тисяч  абонентів у Кривому Розі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вчені зафіксували безпрецедентні зміни у Середземному морі",
+    "link": "https://ua.korrespondent.net/world/4912335-vcheni-zafiksuvaly-bezpretsedentni-zminy-u-seredzemnomu-mori",
+    "pubDate": "2026-09-16 20:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565893.jpg\">З 2000 року поверхневі води Середземного моря нагрівалися у 2-3 рази швидше за поверхню світового океану.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни атакували Київ дронами: є влучання",
+    "link": "https://ua.korrespondent.net/city/kiev/4912331-rosiiany-atakuvaly-kyiv-dronamy-ye-vluchannia",
+    "pubDate": "2026-09-16 19:55:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565894.jpg\">Дрон влучив у нежитлову будівлю в Голосіївському районі. Перед цим у столиці працювала ППО.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Польща готує пакет військової допомоги України на €50 млн",
+    "link": "https://ua.korrespondent.net/world/4912323-polscha-hotuie-paket-viiskovoi-dopomohy-ukrainy-na-50-mln",
+    "pubDate": "2026-09-16 19:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565868.jpg\">До нового збройового пакета увійдуть, зокрема, боєприпаси для винищувачів F-16, заявили у Міноборони Польщі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "ЄС профінансує випробування оборонних проєктів в Україні",
+    "link": "https://ua.korrespondent.net/world/4912328-yes-profinansuie-vyprobuvannia-oboronnykh-proiektiv-v-ukraini",
+    "pubDate": "2026-09-16 19:31:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565881.jpg\"> Витрати, пов'язані з проведенням випробувань в Україні як країні-кандидаті, підлягатимуть фінансуванню з Європейського оборонного фонду.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Фон дер Ляєн запропонувала нову структуру безпеки ЄС",
+    "link": "https://ua.korrespondent.net/world/4912317-fon-der-liaien-zaproponuvala-novu-strukturu-bezpeky-yes",
+    "pubDate": "2026-09-16 19:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565846.jpg\">Ініціатива передбачає протокол надзвичайних заходів для спільної відповіді країн ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генсек ООН зробив заяву про війну в Україні",
+    "link": "https://ua.korrespondent.net/world/4912319-hensek-oon-zrobyv-zaiavu-pro-viinu-v-ukraini",
+    "pubDate": "2026-09-16 18:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565849.jpg\">Генеральний секретар ООН Антоніу Гутерреш закликав Україну та Росію негайно припинити вогонь.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ блокує евакуацію з Олешок, люди виходять замінованими полями - Лубінець",
+    "link": "https://ua.korrespondent.net/ukraine/4912314-rf-blokuie-evakuatsiui-z-oleshok-luidy-vykhodiat-zaminovanymy-poliamy-lubinets",
+    "pubDate": "2026-09-16 18:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565833.jpg\">В окупованому місті у смертельній пастці можуть залишатися понад 6000 людей, серед них близько 200 дітей.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росія вдарила по центру Кропивницького, є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4912311-rosiia-vdaryla-po-tsentru-kropyvnytskoho-ye-postrazhdali",
+    "pubDate": "2026-09-16 18:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565821.png\">Внаслідок російського удару пошкоджені кілька приватних будинків, дитячий садочок та автомобілі.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "ЄС скерує Україні до €20 млрд із програми SAFE",
     "link": "https://ua.korrespondent.net/business/financial/4912309-yes-skeruie-ukraini-do-20-mlrd-iz-prohramy-SAFE",
     "pubDate": "2026-09-16 17:59:00",
