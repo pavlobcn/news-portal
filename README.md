@@ -1,8 +1,20 @@
-# News for 2026-09-16 08:48
+# News for 2026-09-16 11:53
 
 Previous day: [2026-09-15](./data/2026-09-15.md)
 
 ## ua.korrespondent.net
+11:44 [На Донеччині дітей примусово евакуюють ще з трьох громад](https://ua.korrespondent.net/ukraine/4912164-na-donechchyni-ditei-prymusovo-evakuuiuit-sche-z-trokh-hromad)<br>
+11:41 [Анджеліна Джолі розповіла про реалії життя українців](https://ua.korrespondent.net/lifestyle/4912156-andzhelina-dzholi-rozpovila-pro-realii-zhyttia-ukraintsiv)<br>
+11:32 [ЗСУ уразили російський Су-24 в окупованому Криму](https://ua.korrespondent.net/ukraine/4912158-zsu-urazyly-rosiiskyi-su-24-v-okupovanomu-krymu)<br>
+11:26 [Російського генерала Груніса ліквідували "птахи" СБС - Мадяр](https://ua.korrespondent.net/ukraine/4912154-rosiiskoho-henerala-hrunisa-likviduvaly-ptakhy-sbs-madiar)<br>
+11:26 [Пастки повсякденних переплат та невидиме марнотратство](https://ua.korrespondent.net/articles/4912150-pastky-povsiakdennykh-pereplat-ta-nevydyme-marnotratstvo)<br>
+11:25 [Сумська розповіла, як колишній чоловік спіймав її на зраді](https://ua.korrespondent.net/lifestyle/4912138-sumska-rozpovila-yak-kolyshnii-cholovik-spiimav-yii-na-zradi)<br>
+11:20 [Росія вдарила по електровозу в Ковелі](https://ua.korrespondent.net/ukraine/4912148-rosiia-vdaryla-po-elektrovozu-v-koveli)<br>
+11:05 [SpaceX готує перший шестикратний обліт Землі для Starship](https://ua.korrespondent.net/tech/space/4912144-SpaceX-hotuie-pershyi-shestykratnyi-oblit-zemli-dlia-Starship)<br>
+10:16 [Окупанти повторно вдарили по потягу "Київ - Миколаїв"](https://ua.korrespondent.net/ukraine/4912128-okupanty-povtorno-vdaryly-po-potiahu-kyiv-mykolaiv)<br>
+09:52 [У Донецьку ліквідували офіцера штабу 25-ї армії РФ](https://ua.korrespondent.net/world/russia/4912120-u-donetsku-likviduvaly-ofitsera-shtabu-25-yi-armii-rf)<br>
+09:37 [Умань отримала рекордну суму туристичного збору під час Рош га-Шана](https://ua.korrespondent.net/ukraine/4912116-uman-otrymala-rekordnu-sumu-turystychnoho-zboru-pid-chas-rosh-ha-shana)<br>
+08:51 [Росія вдарила по промисловому та енергетичному об’єктах на Полтавщині](https://ua.korrespondent.net/ukraine/4912101-rosiia-vdaryla-po-promyslovomu-ta-enerhetychnomu-obiektakh-na-poltavschyni)<br>
 06:57 [Клуб Роналду розгромно поступився у першому турі азійської ЛЧ](https://ua.korrespondent.net/sport/football/4912077-klub-ronaldu-rozghromno-postupyvsia-u-pershomu-turi-aziiskoi-lch)<br>
 06:53 [Втрати РФ за добу: нові дані Генштабу](https://ua.korrespondent.net/ukraine/4912073-vtraty-rf-za-dobu-novi-dani-henshtabu)<br>
 06:34 [Рейтинг партії Мерца впав до історичного мінімуму](https://ua.korrespondent.net/world/4912069-reitynh-partii-mertsa-vpav-do-istorychnoho-minimumu)<br>
@@ -17,12 +29,22 @@ Previous day: [2026-09-15](./data/2026-09-15.md)
 03:23 [Зеленський про енергоперемир’я: Для нас і Путіна це про різне](https://ua.korrespondent.net/ukraine/4912054-zelenskyi-pro-enerhoperemyria-dlia-nas-i-putina-tse-pro-rizne)<br>
 
 ## as.com
+09:27 [Oficial: Nick Smith, el último del Madrid](https://as.com/baloncesto/acb/oficial-nick-smith-es-el-ultimo-del-real-madrid-f202609-n/)<br>
+09:25 [Novatadas de pesadilla: escándalo y violencia en el baloncesto francés](https://as.com/baloncesto/mas_baloncesto/novatadas-de-pesadilla-escandalo-y-violencia-en-el-baloncesto-frances-f202609-n/)<br>
 07:44 [La carrera por la Euroliga: Pao, Olympiacos, Fenerbahçe, Madrid... el Barça, 12º](https://as.com/baloncesto/euroliga/la-carrera-por-la-euroliga-pao-olympiacos-fenerbahce-madrid-el-barca-12-f202609-n/)<br>
 
 ## www.elperiodico.com
+11:26 [Salvamento Marítimo llega a Arrecife (Lanzarote) tras el rescate de 82 migrantes de una neumática con tres fallecidos](https://www.elperiodico.com/es/videos/sociedad/salvamento-maritimo-llega-arrecife-lanzarote/134340784.shtml)<br>
+10:41 [Los Javis llevarán a Lorca a Hollywood: 'La bola negra' representará a España en los Oscar](https://www.elperiodico.com/es/ocio-y-cultura/20260916/bola-negra-representara-espana-oscar-javis-llevaran-lorca-hollywood-134338205)<br>
+10:30 [Bernat (40 años) vive solo en medio del bosque en una cabaña reciclada: "Yo nunca he estudiado ninguna carrera universitaria, pero con estudiar en la vida ya me va bastante bien"](https://www.elperiodico.com/es/economia/20260916/vive-aislado-cabana-bosque-narcotrafico-supermercado-gasolinera-bernat-dv-et-133808630)<br>
+10:23 [Los hepatólogos piden realizar test de consumo de alcohol a los pacientes con hígado graso: "Tenemos que grabarnos a fuego esa evaluación"](https://www.elperiodico.com/es/sanidad/20260916/hepatologos-piden-test-consumo-alcohol-pacientes-higado-graso-134334947)<br>
+10:12 [Anuncio de la película que representa a España en los Oscar](https://www.elperiodico.com/es/videos/ocio-y-cultura/anuncio-pelicula-representa-espana-oscar/134336023.shtml)<br>
+09:58 [La otra cara de los fármacos para adelgazar: "Siento la misma hambre que antes, estoy muy decepcionada"](https://www.elperiodico.com/es/sociedad/20260916/farmacos-obesidad-pacientes-no-responden-inyecciones-adelgazar-perder-peso-wegoby-testimonios-134267926)<br>
+09:07 [Las ejecuciones hipotecarias se disparan un 27,5% y marcan máximos desde 2017](https://www.elperiodico.com/es/economia/20260916/ejecuciones-hipotecarias-golpean-hogares-repunten-134334251)<br>
 08:40 [El Ibex 35 busca la estabilidad ante la Fed con el petróleo y los bonos en máximos](https://www.elperiodico.com/es/economia/20260916/ibex-35-busca-estabilidad-fed-134333612)<br>
 08:35 [La pobreza acelera en el circuito de Fórmula 1 de València: "Vivimos en una pocilga"](https://www.elperiodico.com/es/sociedad/20260916/pobreza-acelera-circuito-formula-1-valencia-134232205)<br>
 08:25 [La comunidad universitaria de Morelos exige justicia tras el asesinato de la estudiante española Claudia Tacoronte](https://www.elperiodico.com/es/sociedad/20260916/comunidad-universitaria-morelos-exige-justicia-134333350)<br>
+08:15 [Barcelona alza la mirada](https://www.elperiodico.com/es/opinion/20260916/barcelona-alza-mirada-premio-barceloni-barcelonina-any-bestraten-camps-134333066)<br>
 08:10 [Dos hermanos se enfrentan en los juzgados por las cenizas de su madre](https://www.elperiodico.com/es/sucesos/20260916/dos-hermanos-enfrentan-juzgados-cenizas-madre-dv-134232170)<br>
 08:00 [Un estudio estima que la ampliación del aeropuerto implicará un aumento del 20% de las emisiones](https://www.elperiodico.com/es/sociedad/20260916/estudio-estima-ampliacion-aeropuerto-implicara-134305584)<br>
 08:00 [Fernando G. Molina, director de 'Cronos': "Se dejó de hablar del atentado de las Ramblas porque llegó el Referéndum y el 'Procés'"](https://www.elperiodico.com/es/ocio-y-cultura/20260916/fernando-g-molina-director-cronos-134333040)<br>
