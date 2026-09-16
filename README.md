@@ -1,8 +1,16 @@
-# News for 2026-09-16 13:26
+# News for 2026-09-16 14:13
 
 Previous day: [2026-09-15](./data/2026-09-15.md)
 
 ## ua.korrespondent.net
+13:58 [Успіх ЗСУ біля Лимана змінив план наступу РФ - ISW](https://ua.korrespondent.net/ukraine/4912215-uspikh-zsu-bilia-lymana-zminyv-plan-nastupu-rf-ISW)<br>
+13:54 [У Данії біля будинку міністра оборони знайшли дрон](https://ua.korrespondent.net/world/4912213-u-danii-bilia-budynku-ministra-oborony-znaishly-dron)<br>
+13:46 [На кордоні Польщі з Україною з’явиться нова система захисту](https://ua.korrespondent.net/world/4912210-na-kordoni-polschi-z-ukrainoui-ziavytsia-nova-systema-zakhystu)<br>
+13:37 [Санкції проти РФ спричинили економічний бум у Киргизстані - ЗМІ](https://ua.korrespondent.net/world/russia/4912209-sanktsii-proty-rf-sprychynyly-ekonomichnyi-bum-u-kyrhyzstani-zmi)<br>
+13:26 [ЄС готує механізм екстреного захисту від напливу мігрантів](https://ua.korrespondent.net/world/4912207-yes-hotuie-mekhanizm-ekstrenoho-zakhystu-vid-naplyvu-mihrantiv)<br>
+13:07 [У Києві є постраждалий внаслідок ранкового удару](https://ua.korrespondent.net/city/kiev/4912196-u-kyievi-ye-postrazhdalyi-vnaslidok-rankovoho-udaru)<br>
+13:05 [Серія REDMI Note 17 в Україні: до трьох днів автономності, якість REDMI Titan і перший Pro Max](https://ua.korrespondent.net/lifestyle/gadgets/4911837-seriia-REDMI-Note-17-v-ukraini-do-trokh-dniv-avtonomnosti-yakist-REDMI-Titan-i-pershyi-Pro-Max)<br>
+12:43 [Старший син Джолі та Пітта відмовився від прізвища батька](https://ua.korrespondent.net/lifestyle/4912180-starshyi-syn-dzholi-ta-pitta-vidmovyvsia-vid-prizvyscha-batka)<br>
 11:44 [На Донеччині дітей примусово евакуюють ще з трьох громад](https://ua.korrespondent.net/ukraine/4912164-na-donechchyni-ditei-prymusovo-evakuuiuit-sche-z-trokh-hromad)<br>
 11:41 [Анджеліна Джолі розповіла про реалії життя українців](https://ua.korrespondent.net/lifestyle/4912156-andzhelina-dzholi-rozpovila-pro-realii-zhyttia-ukraintsiv)<br>
 11:32 [ЗСУ уразили російський Су-24 в окупованому Криму](https://ua.korrespondent.net/ukraine/4912158-zsu-urazyly-rosiiskyi-su-24-v-okupovanomu-krymu)<br>
@@ -34,6 +42,13 @@ Previous day: [2026-09-15](./data/2026-09-15.md)
 07:44 [La carrera por la Euroliga: Pao, Olympiacos, Fenerbahçe, Madrid... el Barça, 12º](https://as.com/baloncesto/euroliga/la-carrera-por-la-euroliga-pao-olympiacos-fenerbahce-madrid-el-barca-12-f202609-n/)<br>
 
 ## www.elperiodico.com
+14:09 [Investigan a un vecino de Castellón por la muerte de su perro](https://www.elperiodico.com/es/sociedad/20260916/investigan-vecino-castellon-muerte-perro-134350289)<br>
+14:03 [Cecot exige a Hacienda que confirme el calendario del Verifactu](https://www.elperiodico.com/es/economia/20260916/cecot-exige-hacienda-confirme-calendario-134349201)<br>
+13:51 [Barcelona acelera la colocación de 'esponjas' urbanas contra las inundaciones](https://www.elperiodico.com/es/barcelona/20260916/barcelona-cuadruplica-dinero-esponjas-inundaciones-134341467)<br>
+13:49 [Las duras imágenes de un niño atrapado bajo los escombros tras derrumbarse un edificio en Gaza](https://www.elperiodico.com/es/videos/internacional/duras-imagenes-nino-atrapado-escombros-derrumbe-edificio-gaza/134349229.shtml)<br>
+13:36 [El Gobierno da hasta 100 euros para las gafas y lentillas de los menores de 16 años: claves para pedir la ayuda](https://www.elperiodico.com/es/economia/20260916/gobierno-100-euros-gafas-lentillas-menores-16-anos-dv-134347640)<br>
+13:31 [El Port de Barcelona expone en Corea su estrategia para descarbonizar los muelles](https://www.elperiodico.com/es/economia/20260916/puerto-barcelona-expone-estrategia-descarbonizacion-muelles-plan-nexigen-corea-134345612)<br>
+13:30 [Laura Fuentes (40 años), se compra una vivienda sola en Barcelona: "Sentía una ansiedad terrible por el miedo atroz de que me echasen del piso de alquiler"](https://www.elperiodico.com/es/economia/20260916/piso-sola-barcelona-laura-fuentes-trabajos-ahorrando-dv-et-134058258)<br>
 13:24 [Así quedan los precios de Xbox Game Pass en España tras la reordenación de planes](https://www.elperiodico.com/es/videojuegos/20260916/precios-xbox-game-pass-planes-122185226)<br>
 13:24 [Xbox Game Pass rompe la baraja con hasta 14 juegos, entre ellos Gears of War: E-Day y muchos más](https://www.elperiodico.com/es/videojuegos/20260916/xbox-game-pass-rompe-baraja-134346220)<br>
 13:23 [Más que un ratón: el MX Master 4 acelera el flujo de trabajo con háptica y accesos directos](https://www.elperiodico.com/es/tecnologia/20260916/raton-mx-master-4-review-134345550)<br>
@@ -78,6 +93,7 @@ Previous day: [2026-09-15](./data/2026-09-15.md)
 06:00 [El mercado espera que Warsh desafíe a Trump y suba los tipos de interés en EEUU por primera vez en tres años](https://www.elperiodico.com/es/economia/20260916/mercado-espera-warsh-desafie-trump-134330898)<br>
 06:00 [Sandra Bestraten y Esteve Camps protagonizan la tercera gala de los premios Barcelonina y Barceloní de l'Any](https://www.elperiodico.com/es/barcelona/20260916/sandra-bestraten-esteve-camps-gala-premios-barcelonina-barceloni-any-134311989)<br>
 06:00 [El éxito teatral que agotó todas las localidades el año pasado vuelve al Teatro Español: un cara a cara feroz dirigido por Israel Elejalde](https://www.elperiodico.com/es/ocio-y-cultura/20260916/fenomeno-teatral-agoto-localidades-ano-pasado-teatro-espanol-nudo-gordiano-vuelve-134267593)<br>
+06:00 ["Microplásticos en el Ártico y el Mediterráneo"](https://www.elperiodico.com/es/entre-todos/participacion/microplasticos-artico-mediterraneo-carta-lector-sofia-nogues-134275530)<br>
 06:00 [La obra que llega de otra galaxia para hablar de nosotros: María Velasco firma una joya teatral que te obligará a replantearte la vida](https://www.elperiodico.com/es/ocio-y-cultura/20260916/vendran-alienigenas-sacaran-ojos-matadero-resena-maria-velasco-joya-teatral-134267723)<br>
 06:00 [Qué fue de Brays Efe, el actor canario que saltó a la fama gracias a la icónica serie ‘Paquita Salas’](https://www.elperiodico.com/es/ocio-y-cultura/20260916/brays-efe-que-fue-actor-canario-salto-fama-paquita-salas-serie-134267669)<br>
 06:00 [De experimentar con la IA a transformar el negocio: el nuevo reto de las pymes](https://www.elperiodico.com/es/economia/20260916/como-ia-transforma-sector-pymes-bc-132655920)<br>
