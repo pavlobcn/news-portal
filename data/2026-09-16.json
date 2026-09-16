@@ -1,5 +1,59 @@
 [
   {
+    "title": "Удари КАБів по Сумах: в лікарні помер поранений",
+    "link": "https://ua.korrespondent.net/ukraine/4912305-udary-kabiv-po-sumakh-v-likarni-pomer-poranenyi",
+    "pubDate": "2026-09-16 17:26:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565794.jpg\">Чоловік отримав численні уламкові поранення і був госпіталізований до лікарні. Врятувати його не вдалось.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Суд у Москві звільнив далекобійників у справі Павутини",
+    "link": "https://ua.korrespondent.net/world/russia/4912301-sud-u-moskvi-zvilnyv-dalekobiinykiv-u-spravi-pavutyny",
+    "pubDate": "2026-09-16 17:13:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565780.jpg\">Далекобійники стверджували, що не знали про українські безпілотники, заховані у вантажівках.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Росії нагородили командира корабля, який стріляв у бік гелікоптера Данії",
+    "link": "https://ua.korrespondent.net/world/russia/4912293-u-rosii-nahorodyly-komandyra-korablia-yakyi-striliav-u-bik-helikoptera-danii",
+    "pubDate": "2026-09-16 16:55:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565766.jpg\">Командир корвета Сообразительный отримав нагороду за \"вмілі та рішучі дії під час запобігання провокації з боку вертольота ВПС Данії\".",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Що відбувається після повернення із СЗЧ: пояснення Міноборони",
+    "link": "https://ua.korrespondent.net/ukraine/4912295-scho-vidbuvaietsia-pislia-povernennia-iz-szch-poiasnennia-minoborony",
+    "pubDate": "2026-09-16 16:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565764.jpg\">Військовослужбовця, який повернувся після СЗЧ, не можна одразу залучати до службових чи бойових завдань, якщо його службу було призупинено. Спочатку командир має видати наказ про її продовження.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни зменшили кількість штурмів на Гуляйпільському напрямку",
+    "link": "https://ua.korrespondent.net/ukraine/4912291-rosiiany-zmenshyly-kilkist-shturmiv-na-huliaipilskomu-napriamku",
+    "pubDate": "2026-09-16 16:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565736.jpg\">Ворог відмовився від наступальних дій широким фронтом і застосовує малі штурмові групи",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Закарпатті син зґвалтував 68-річну матір",
+    "link": "https://ua.korrespondent.net/ukraine/4912281-na-zakarpatti-syn-zgvaltuvav-68-richnu-matir",
+    "pubDate": "2026-09-16 16:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565731.jpg\">Нещодавно чоловіка виписали з психіатричного закладу, після чого він почав спільно проживати з матір'ю.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
     "title": "В ЄС розглядають нову стратегію санкцій проти РФ",
     "link": "https://ua.korrespondent.net/world/4912277-v-yes-rozghliadauit-novu-stratehiui-sanktsii-proty-rf",
     "pubDate": "2026-09-16 16:18:00",
@@ -9,6 +63,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Ціновий шок для українців. Старт паливної кризи",
+    "link": "https://ua.korrespondent.net/business/economics/4912276-tsinovyi-shok-dlia-ukraintsiv-start-palyvnoi-kryzy",
+    "pubDate": "2026-09-16 16:16:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565734.jpg\">Ціна на дизель в Україні скоро перетне позначку в 100 грн/л, а бензин вже подолав 90 грн/л, кажуть експерти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Словаччині сталася пожежа на підприємстві, що виробляє боєприпаси",
     "link": "https://ua.korrespondent.net/world/4912274-u-slovachchyni-stalasia-pozhezha-na-pidpryiemstvi-scho-vyrobliaie-boieprypasy",
     "pubDate": "2026-09-16 16:08:00",
@@ -16,6 +79,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565732.jpg\">На підприємстві ZVS Holding спалахнула пожежа під час ремонтних робіт на даху будівлі. Виробництво на об'єкті тимчасово призупинили, повідомили в компанії.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Росія вербує українців для розвідки об'єктів Укрзалізниці",
+    "link": "https://ua.korrespondent.net/ukraine/4912269-rosiia-verbuie-ukraintsiv-dlia-rozvidky-obiektiv-ukrzaliznytsi",
+    "pubDate": "2026-09-16 16:00:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565717.jpg\">Крім збору інформації, українців можуть схиляти до пошкодження майна залізниці або інших дій проти її об'єктів.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Глава Єврокомісії закликала уповільнити розвиток ШІ",
@@ -43,6 +115,33 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565710.jpg\">Мекка є одним із найважливіших священних міст ісламу та центром щорічного паломництва хадж.",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "РФ вдарила по Сумах КАБами: серед поранених дитина",
+    "link": "https://ua.korrespondent.net/ukraine/4912254-rf-vdaryla-po-sumakh-kabamy-sered-poranenykh-dytyna",
+    "pubDate": "2026-09-16 15:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565686.jpg\">Попередньо, шестеро людей дістали поранення, під завалами зруйнованих будинків можуть перебувати люди.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Військового ДПСУ підозрюють в організації \"лікування\" в Європі",
+    "link": "https://ua.korrespondent.net/ukraine/4912251-viiskovoho-dpsu-pidozruiuit-v-orhanizatsii-likuvannia-v-yevropi",
+    "pubDate": "2026-09-16 15:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565684.jpg\">Військовослужбовець обіцяв створити формальні підстави для лікування в Європі з метою уникнення мобілізації.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Тернополі 13-річний хлопчик помер після падіння з електросамоката",
+    "link": "https://ua.korrespondent.net/ukraine/4912248-u-ternopoli-13-richnyi-khlopchyk-pomer-pislia-padinnia-z-elektrosamokata",
+    "pubDate": "2026-09-16 15:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565679.jpg\">Під час руху підліток не впорався з керуванням і впав. Медики надавали йому допомогу, проте дорогою до лікарні він помер.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
   },
   {
     "title": "Науседа прокоментував перше збиття дрона в Литві",
@@ -81,6 +180,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "РФ атакувала Одесу: пошкоджено будинок, є постраждалий",
+    "link": "https://ua.korrespondent.net/ukraine/4912230-rf-atakuvala-odesu-poshkodzheno-budynok-ye-postrazhdalyi",
+    "pubDate": "2026-09-16 14:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565651.jpg\">Через російський удар пошкоджені дах приватного будинку, фасад і вікна складської будівлі, є постраждалий.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Ліквідація російських генералів: що відомо",
     "link": "https://ua.korrespondent.net/world/russia/4912224-likvidatsiia-rosiiskykh-heneraliv-scho-vidomo",
     "pubDate": "2026-09-16 14:26:00",
@@ -97,6 +205,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565637.jpg\">Тегеран вважає Ісламабадський меморандум чинним і закликає Вашингтон повернутися до виконання взятих на себе зобов'язань.",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "На Полтавщині горить об’єкт інфраструктури після атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4912222-na-poltavschyni-horyt-obiekt-infrastruktury-pislia-ataky-rf",
+    "pubDate": "2026-09-16 14:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565638.jpg\">Через займання в прилеглих районах можливе тимчасове забруднення повітря продуктами горіння, попередила влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Investigan a un vecino de Castellón por la muerte de su perro",
