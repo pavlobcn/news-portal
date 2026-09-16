@@ -1,8 +1,8 @@
-name: Trigger Codex Cloud Task to refresh data
+name: Trigger Codex Cloud Task to refresh data - 02
 
 on:
   schedule:
-    - cron: '*/7 * * * *'
+    - cron: '*/9 * * * *'
   workflow_dispatch:
 defaults:
   run:

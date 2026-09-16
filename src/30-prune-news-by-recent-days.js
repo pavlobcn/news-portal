@@ -29,7 +29,7 @@ function readJsonArray(filePath, required = true) {
 }
 
 function getLink(item) {
-  const link = item?.item?.link;
+  const link = item?.link;
   return typeof link === 'string' ? link.trim() : '';
 }
 
