@@ -1,5 +1,41 @@
 [
   {
+    "title": "ЗМІ: Нардеп з України погрожував урядовцям Естонії",
+    "link": "https://ua.korrespondent.net/world/worldabus/4912375-zmi-nardep-z-ukrainy-pohrozhuvav-uriadovtsiam-estonii",
+    "pubDate": "2026-09-16 23:37:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566051.jpg\">Народний обранець домагався спрямування коштів на конкретні проєкти, зокрема в Житомирській області, заявили джерела.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Президент зробив заяву про Антибалістичну коаліцію",
+    "link": "https://ua.korrespondent.net/ukraine/4912366-prezydent-zrobyv-zaiavu-pro-antybalistychnu-koalitsiui",
+    "pubDate": "2026-09-16 22:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566014.jpg\">Завдання незмінне: цього року підготувати результат, який можна випробувати, заявив Володимир Зеленський.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Бюджет 2027. Діра в обороні і нові податки",
+    "link": "https://ua.korrespondent.net/ukraine/4912371-buidzhet-2027-dira-v-oboroni-i-novi-podatky",
+    "pubDate": "2026-09-16 22:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566050.jpg\">Війна залишається найбільшою статтею витрат, загалом на сектор безпеки та оборони планують виділити 4,885 трлн грн (або 43,8% ВВП).",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Боротьба з корупцією: Зеленський анонсував заходи",
+    "link": "https://ua.korrespondent.net/ukraine/4912356-borotba-z-koruptsiieui-zelenskyi-anonsuvav-zakhody",
+    "pubDate": "2026-09-16 21:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565946.jpeg\">В Україні повернуть декларування для силовиків у тилу та розпочнуть масові перевірки керівників центральних органів влади.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Центробанк США підвищив процентну ставку вперше з 2023 року",
     "link": "https://ua.korrespondent.net/world/4912350-tsentrobank-ssha-pidvyschyv-protsentnu-stavku-vpershe-z-2023-roku",
     "pubDate": "2026-09-16 20:58:00",
