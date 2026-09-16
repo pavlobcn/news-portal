@@ -1,5 +1,176 @@
 [
   {
+    "title": "Misano se convirtió en un 'outlet' gigante en el que se vendían, a mitad de precio, los productos de Bagnaia",
+    "link": "https://www.elperiodico.com/es/deportes/20260916/misano-convirtio-outlet-gigante-vendian-134329151",
+    "pubDate": "2026-09-16 08:02:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Cierto, es solo deporte. Cierto, muchísimos deportistas de élite han tenido momentos de crisis y los han superado, pero la situación del tricampeón italiano Francesco 'Pecco' Bagnaia empieza a ser preocupante, no solo por los pésimos resultados de este año, sino por los comentarios que emite, fruto de la frustración y desesperación.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un estudio estima que la ampliación del aeropuerto implicará un aumento del 20% de las emisiones",
+    "link": "https://www.elperiodico.com/es/sociedad/20260916/estudio-estima-ampliacion-aeropuerto-implicara-134305584",
+    "pubDate": "2026-09-16 08:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260915/aeropuerto-barcelona-prat-recibira-1760-millones-dora-iii-ampliacion-pista-mas-tarde-134306086\" target=\"_blank\">El aeropuerto de Barcelona-El Prat recibirá 1.760 millones del DORA III, con la ampliación de la tercera pista prevista para más adelante</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Arnau París, a punto de coger las riendas de 'Joc de cartes': \"Hay restaurantes del programa a los que tengo claro que no volveré nunca\"",
+    "link": "https://www.elperiodico.com/es/tele/20260916/arnau-paris-joc-cartes-tv3-3cat-134273044",
+    "pubDate": "2026-09-16 08:00:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El ganador de 'Masterchef' cogerá el testigo de Marc Ribas en la nueva temporada del concurso gastronómico de TV3 </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260309/marc-ribas-deja-joc-cartes-arnau-paris-127723590\">Arnau París cogerá el relevo de Marc Ribas en el 'Joc de cartes' de TV3</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260908/tv3-3cat-temporada-2026-ramon-pellicer-marc-ribas-134056830\">El regreso de Ramon Pellicer, 'La travessa VIP' y el adiós de Marc Ribas, las novedades de la temporada de 3Cat</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Fernando G. Molina, director de 'Cronos': \"Se dejó de hablar del atentado de las Ramblas porque llegó el Referéndum y el 'Procés'\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260916/fernando-g-molina-director-cronos-134333040",
+    "pubDate": "2026-09-16 08:00:41",
+    "category": "",
+    "description": "<h2>El director de cine, creador de películas como 'Palmeras en la Nieve' o 'A tres metros sobre el cielo', estrena 'Cronos', un largometraje que repasa las 124 horas que duró la operación con el mismo nombre para localizar a los terroristas que acabaron con la vida de 16 personas en el centro de Barcelona el 17 de agosto de 2017. <a href=\"https://cineslys.com/calendario/lista/?tribe-bar-search=Cine+Club+Lys\" target=\"_blank\">La presentará este lunes en los Cines Lys de València</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Crisis de Ceuta, última hora en directo: situación con Marruecos, noticias sobre los migrantes y todas las reacciones en vivo",
+    "link": "https://www.elperiodico.com/es/politica/20260916/ceuta-melilla-marruecos-ultimas-noticias-directo-132960312",
+    "pubDate": "2026-09-16 08:00:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez y Feijóo protagonizarán un cara a cara con Ceuta y la justicia como telón de fondo",
+    "link": "https://www.elperiodico.com/es/politica/20260916/sanchez-feijoo-protagonizaran-cara-cara-134332889",
+    "pubDate": "2026-09-16 07:56:54",
+    "category": "",
+    "description": "<h2>El Congreso votará esta semana el real decreto con las ayudas para Ceuta y la ley de lobbies </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ríos secos no son ríos sin vida: un proyecto estudia su funcionamiento en España",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20260916/rios-secos-son-rios-vida-134332838",
+    "pubDate": "2026-09-16 07:55:22",
+    "category": "",
+    "description": "<h2>Gran parte de los cauces fluviales del mediterráneo español permanecen sin agua durante casi todo el año</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вдарила по поїзду \"Київ - Миколаїв\"",
+    "link": "https://ua.korrespondent.net/ukraine/4912084-rf-vdaryla-po-poizdu-kyiv-mykolaiv",
+    "pubDate": "2026-09-16 07:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565298.jpg\">Російські війська атакували пасажирський поїзд №122 \"Київ - Миколаїв\". Завдяки завчасному попередженню людей встигли евакуювати.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La carrera por la Euroliga: Pao, Olympiacos, Fenerbahçe, Madrid... el Barça, 12º",
+    "link": "https://as.com/baloncesto/euroliga/la-carrera-por-la-euroliga-pao-olympiacos-fenerbahce-madrid-el-barca-12-f202609-n/",
+    "pubDate": "2026-09-16 07:44:51",
+    "category": "Baloncesto",
+    "description": "Este viernes arranca la Supercopa y el siguiente jueves la fase regular. Analizamos todos los equipos y cuál es su puesto de salida. Así están las 20 plantillas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El tráfico y el transporte público, en directo: alteraciones en el R2 Sud de Rodalies por un robo de cable en la estación de França",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260916/trafico-transporte-publico-directo-cortes-134053870",
+    "pubDate": "2026-09-16 07:44:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora del tráfico y transporte público en Barcelona, en directo: retenciones en la vuelta al trabajo en septiembre",
+    "link": "https://www.elperiodico.com/es/barcelona/20260916/trafico-cataluna-barcelona-ultima-hora-directo-ap7-rondas-diada-133938712",
+    "pubDate": "2026-09-16 07:40:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un helicóptero se estrella en Los Ángeles y deja tres muertos",
+    "link": "https://www.elperiodico.com/es/internacional/20260916/helicoptero-estrella-angeles-deja-tres-134332641",
+    "pubDate": "2026-09-16 07:38:00",
+    "category": "",
+    "description": "<h2>Los equipos de emergencia trabajan en el barrio de Chatsworth tras el desplome de una aeronave </h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "746 ударів за добу: РФ масовано атакувала Запорізьку область",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4912079-746-udariv-za-dobu-rf-masovano-atakuvala-zaporizku-oblast",
+    "pubDate": "2026-09-16 07:31:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565267.jpg\">Російські війська протягом доби завдали 746 ударів по 52 населених пунктах Запорізької області. Внаслідок атак загинула людина, ще семеро отримали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Футбольний матч у Мексиці переріс у стрілянину: є жертви",
+    "link": "https://ua.korrespondent.net/sport/football/4912081-futbolnyi-match-u-meksytsi-pereris-u-strilianynu-ye-zhertvy",
+    "pubDate": "2026-09-16 07:24:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565283.jpg\">Місцева поліція розслідує обставини стрілянини, яка забрала життя однієї людини та травмувала ще шістьох.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Incendios hoy, 16 de septiembre, en Catalunya y España: consulta el mapa con los principales fuegos activos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260916/incendios-hoy-16-septiembre-cataluna-espana-mapa-fuegos-activos-dv-134295974",
+    "pubDate": "2026-09-16 07:15:13",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260826/incendio-collserola-directo-ultima-hora-fuego-barcelona-133659752\" >Incendio en Collserola, hoy en directo: última hora de la extinción del fuego en Barcelona, focos activos, causas y afectaciones al transporte</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп планує продати Ізраїлю 40 тисяч потужних бомб",
+    "link": "https://ua.korrespondent.net/world/4912075-tramp-planuie-prodaty-izrailui-40-tysiach-potuzhnykh-bomb",
+    "pubDate": "2026-09-16 07:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565251.jpg\">Адміністрація Дональда Трампа планує продати Ізраїлю масштабний пакет військової техніки на $2,8 млрд. До нього можуть увійти 40 тисяч авіабомб.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "España quiere acabar con uno de los mayores problemas del coche eléctrico: encontrar un cargador cuando se necesite",
+    "link": "https://www.elperiodico.com/es/motor/20260916/mayores-problemas-coches-electricos-marco-accion-nacional-134300470",
+    "pubDate": "2026-09-16 07:08:04",
+    "category": "",
+    "description": "<h2>El Gobierno ha abierto a consulta pública y enviado a la Comisión Europea el Marco de Acción Nacional para desarrollar la red de recarga. Esto es lo significa.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Гороскоп на 16 вересня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4911971-horoskop-na-16-veresnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-09-16 07:05:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4564617.jpg\">Для одних знаків день відкриє можливість повернутися до відкладеного питання, для інших головною темою стануть гроші, особисті домовленості або рішення, яке вже не варто переносити.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La gran cagada de Ayuso",
+    "link": "https://www.elperiodico.com/es/tele/20260916/gran-cagada-ayuso-134312861",
+    "pubDate": "2026-09-16 07:00:15",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Клуб Роналду розгромно поступився у першому турі азійської ЛЧ",
     "link": "https://ua.korrespondent.net/sport/football/4912077-klub-ronaldu-rozghromno-postupyvsia-u-pershomu-turi-aziiskoi-lch",
     "pubDate": "2026-09-16 06:57:00",

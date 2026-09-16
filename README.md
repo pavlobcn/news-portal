@@ -1,4 +1,4 @@
-# News for 2026-09-16 07:00
+# News for 2026-09-16 08:05
 
 Previous day: [2026-09-15](./data/2026-09-15.md)
 
@@ -16,7 +16,14 @@ Previous day: [2026-09-15](./data/2026-09-15.md)
 03:50 [Конгрес США підтримав "пекельні санкції" для РФ](https://ua.korrespondent.net/world/4912056-konhres-ssha-pidtrymav-pekelni-sanktsii-dlia-rf)<br>
 03:23 [Зеленський про енергоперемир’я: Для нас і Путіна це про різне](https://ua.korrespondent.net/ukraine/4912054-zelenskyi-pro-enerhoperemyria-dlia-nas-i-putina-tse-pro-rizne)<br>
 
+## as.com
+07:44 [La carrera por la Euroliga: Pao, Olympiacos, Fenerbahçe, Madrid... el Barça, 12º](https://as.com/baloncesto/euroliga/la-carrera-por-la-euroliga-pao-olympiacos-fenerbahce-madrid-el-barca-12-f202609-n/)<br>
+
 ## www.elperiodico.com
+08:00 [Un estudio estima que la ampliación del aeropuerto implicará un aumento del 20% de las emisiones](https://www.elperiodico.com/es/sociedad/20260916/estudio-estima-ampliacion-aeropuerto-implicara-134305584)<br>
+08:00 [Fernando G. Molina, director de 'Cronos': "Se dejó de hablar del atentado de las Ramblas porque llegó el Referéndum y el 'Procés'"](https://www.elperiodico.com/es/ocio-y-cultura/20260916/fernando-g-molina-director-cronos-134333040)<br>
+07:55 [Ríos secos no son ríos sin vida: un proyecto estudia su funcionamiento en España](https://www.elperiodico.com/es/medio-ambiente/20260916/rios-secos-son-rios-vida-134332838)<br>
+07:15 [Incendios hoy, 16 de septiembre, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260916/incendios-hoy-16-septiembre-cataluna-espana-mapa-fuegos-activos-dv-134295974)<br>
 06:00 [Seat y el Estado, un matrimonio inconveniente](https://www.elperiodico.com/es/opinion/20260916/estado-matrimonio-inconveniente-marca-seat-futuro-134327866)<br>
 06:00 [Pa Artesà del Vallès: medio siglo, 30 tiendas y un premio al mejor ‘xuixo’ del mundo](https://www.elperiodico.com/es/barcelona/20260916/pa-artesa-valles-medio-siglo-mejor-xuixo-mundo-santa-perpetua-barcelona-132969914)<br>
 06:00 ['Tot fent 'La bella Helena'' resucita la genuina pasión por el teatro de los orígenes del Teatre Lliure](https://www.elperiodico.com/es/ocio-y-cultura/20260916/tot-fent-bella-helena-resucita-134319815)<br>
