@@ -1,5 +1,77 @@
 [
   {
+    "title": "Удари РФ по Україні: Польща не зафіксувала порушень повітряного простору",
+    "link": "https://ua.korrespondent.net/world/worldabus/4912703-udary-rf-po-ukraini-polscha-ne-zafiksuvala-porushen-povitrianoho-prostoru",
+    "pubDate": "2026-09-17 23:39:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567089.jpg\">Наземні системи ППО та радіолокаційної розвідки повернулися до стандартного режиму роботи, заявили польські військові.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Euroliga, ante una fecha clave: “Aún no hay oferta de la NBA”",
+    "link": "https://as.com/baloncesto/euroliga/la-euroliga-ante-una-fecha-clave-aun-no-hay-oferta-de-la-nba-f202609-n/",
+    "pubDate": "2026-09-17 23:20:05",
+    "category": "Baloncesto",
+    "description": "“Tenemos un plan, estamos bien”, dice Chus Bueno, CEO de la competición, mientras avanzan en el modelo de franquicias. El 6 de octubre en Italia se reúnen todos los propietarios.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вдарили по торговому центру в Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4912697-rosiiany-vdaryly-po-torhovomu-tsentru-v-zaporizhzhi",
+    "pubDate": "2026-09-17 22:59:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567060.jpg\">Ворог завдав удару по супермаркету на правобережжі - там вирує масштабна пожежа, повідомила місцева влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Танцюрист і Вікінг. США викрила диверсантів Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4912701-tantsuiryst-i-vikinh-ssha-vykryla-dyversantiv-rosii",
+    "pubDate": "2026-09-17 22:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567079.jpg\">Усім п'ятьом фігурантам висунуто звинувачення у змові з метою фінансування тероризму - до 20 років позбавлення волі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Dos Supercopas, ¿mejor que una?",
+    "link": "https://as.com/opinion/dos-supercopas-mejor-que-una-f202609-n/",
+    "pubDate": "2026-09-17 22:47:21",
+    "category": "Baloncesto",
+    "description": "La Euroliga estrena torneo este viernes con el Madrid entre los cuatro participantes, mientras que la española arranca este sábado en Badalona.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "НПЗ в Ярославлі призупинив роботі після атаки дронів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4912695-npz-v-yaroslavli-pryzupynyv-roboti-pislia-ataky-droniv-zmi",
+    "pubDate": "2026-09-17 22:36:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567050.jpeg\">Паливо, вироблене цим НПЗ, 17 вересня не виставлялося на продаж на внутрішній товарній біржі, пише Reuters.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Пекельні санкції проти РФ. Черга за Трампом",
+    "link": "https://ua.korrespondent.net/ukraine/4912698-pekelni-sanktsii-proty-rf-cherha-za-trampom",
+    "pubDate": "2026-09-17 22:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567069.jpg\">Президент Володимир Зеленський відзначив символізм того, що закон Ліндсі Грема пройшов остаточне голосування в ніч, коли РФ здійснила чергову ракетну атаку на українські міста.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Лассіна Траоре із Шахтаря поїде грати за збірну Буркіна-Фасо",
+    "link": "https://ua.korrespondent.net/sport/football/4912693-lassina-traore-iz-shakhtaria-poide-hraty-za-zbirnu-burkina-faso",
+    "pubDate": "2026-09-17 21:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567008.jpg\">Гравець донецького Шахтаря отримав виклик на вересневі матчі національної збірної Буркіна-Фасо.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "В Україні змінили правила роботи залізниці та вокзалів під час тривог",
     "link": "https://ua.korrespondent.net/ukraine/4912690-v-ukraini-zminyly-pravyla-roboty-zaliznytsi-ta-vokzaliv-pid-chas-tryvoh",
     "pubDate": "2026-09-17 21:55:00",

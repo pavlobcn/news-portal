@@ -1,4 +1,4 @@
-# News for 2026-09-17 22:30
+# News for 2026-09-17 23:57
 
 Previous day: [2026-09-16](./data/2026-09-16.md)
 
@@ -58,6 +58,8 @@ Previous day: [2026-09-16](./data/2026-09-16.md)
 03:58 [Бельгійський суд ухвалив постанову щодо активів РФ](https://ua.korrespondent.net/world/4912397-belhiiskyi-sud-ukhvalyv-postanovu-schodo-aktyviv-rf)<br>
 
 ## as.com
+23:20 [La Euroliga, ante una fecha clave: “Aún no hay oferta de la NBA”](https://as.com/baloncesto/euroliga/la-euroliga-ante-una-fecha-clave-aun-no-hay-oferta-de-la-nba-f202609-n/)<br>
+22:47 [Dos Supercopas, ¿mejor que una?](https://as.com/opinion/dos-supercopas-mejor-que-una-f202609-n/)<br>
 20:23 [Xavi Pascual: “Veo al Madrid muy bien, la verdad”](https://as.com/baloncesto/euroliga/xavi-pascual-veo-al-madrid-muy-bien-la-verdad-f202609-n/)<br>
 19:36 [DJ. Stewart: “Espero alcanzar el siguiente nivel”](https://as.com/baloncesto/dj-stewart-espero-alcanzar-el-siguiente-nivel-f202609-n/)<br>
 19:17 [Shulga: “Ves a Campazzo entrenar y te parece increíble”](https://as.com/baloncesto/euroliga/shulga-ves-a-campazzo-entrenar-y-te-parece-increible-f202609-n/)<br>
