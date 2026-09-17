@@ -46,6 +46,8 @@ async function main() {
         '--silent',
         '--show-error',
         '--location',
+        '--user-agent',
+        'pavlobcn',
         '--max-time',
         '300',
         url,
