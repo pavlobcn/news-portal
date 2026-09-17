@@ -1,8 +1,9 @@
-# News for 2026-09-17 18:56
+# News for 2026-09-17 20:55
 
 Previous day: [2026-09-16](./data/2026-09-16.md)
 
 ## ua.korrespondent.net
+18:59 [Свята 17 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4912623-sviata-17-veresnia-2026-roku-istoriia-tradytsii)<br>
 17:11 [На Алясці зафіксували землетрус магнітудою 6,5](https://ua.korrespondent.net/world/4912626-na-aliastsi-zafiksuvaly-zemletrus-mahnitudoui-65)<br>
 14:47 [ЗСУ знищили понад 150 тисяч одиниць автотехніки РФ](https://ua.korrespondent.net/ukraine/4912569-zsu-znyschyly-ponad-150-tysiach-odynyts-avtotekhniky-rf)<br>
 14:23 [Укрзалізниця 111 разів зупиняла поїзди через дронову загрозу за ніч](https://ua.korrespondent.net/business/companies/4912561-ukrzaliznytsia-111-raziv-zupyniala-poizdy-cherez-dronovu-zahrozu-za-nich)<br>
@@ -57,6 +58,9 @@ Previous day: [2026-09-16](./data/2026-09-16.md)
 03:58 [Бельгійський суд ухвалив постанову щодо активів РФ](https://ua.korrespondent.net/world/4912397-belhiiskyi-sud-ukhvalyv-postanovu-schodo-aktyviv-rf)<br>
 
 ## as.com
+20:23 [Xavi Pascual: “Veo al Madrid muy bien, la verdad”](https://as.com/baloncesto/euroliga/xavi-pascual-veo-al-madrid-muy-bien-la-verdad-f202609-n/)<br>
+19:36 [DJ. Stewart: “Espero alcanzar el siguiente nivel”](https://as.com/baloncesto/dj-stewart-espero-alcanzar-el-siguiente-nivel-f202609-n/)<br>
+19:17 [Shulga: “Ves a Campazzo entrenar y te parece increíble”](https://as.com/baloncesto/euroliga/shulga-ves-a-campazzo-entrenar-y-te-parece-increible-f202609-n/)<br>
 15:15 [La Selección jugará en Santiago de Compostela frente a Grecia](https://as.com/baloncesto/mas_baloncesto/la-seleccion-jugara-en-santiago-de-compostela-frente-a-grecia-f202609-n/)<br>
 08:19 [El Madrid, ante un doblete dubaití](https://as.com/baloncesto/euroliga/el-madrid-ante-un-doblete-dubaiti-f202609-n/)<br>
 07:47 [Juventud, explosividad y experiencia con LeBron: así es Nick Smith Jr.](https://as.com/baloncesto/euroliga/juventud-explosividad-y-experiencia-con-lebron-asi-es-nick-smith-jr-f202609-n/)<br>
