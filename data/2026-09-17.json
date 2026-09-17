@@ -1,5 +1,77 @@
 [
   {
+    "title": "Місце зустрічі змінити не можна: померла зірка радянського кіно",
+    "link": "https://ua.korrespondent.net/showbiz/cinema/4912447-mistse-zustrichi-zminyty-ne-mozhna-pomerla-zirka-radianskoho-kino",
+    "pubDate": "2026-09-17 09:32:00",
+    "category": "Кіно новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566422.jpg\">Зірка кіно, яка в останні роки перетворилася на відлюдницю та мало знімалася, пішла з життя у 70 років.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Харкові зафіксували удар РФ по торговельному центру",
+    "link": "https://ua.korrespondent.net/city/kharkov/4912449-u-kharkovi-zafiksuvaly-udar-rf-po-torhovelnomu-tsentru",
+    "pubDate": "2026-09-17 09:26:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566438.jpg\">Харків зазнав атаки російських безпілотників. Влучання у торговельний центр зафіксували у Слобідському та Основ'янському районах, повідомили обласна та міська влада.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Нафта дешевшає після новин про поставки Саудівської Аравії",
+    "link": "https://ua.korrespondent.net/business/economics/4912444-nafta-deshevshaie-pislia-novyn-pro-postavky-saudivskoi-aravii",
+    "pubDate": "2026-09-17 09:18:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566423.jpg\">Ціни на нафту продовжили знижуватися після того, як Саудівська Аравія запропонувала додаткові обсяги для азійських покупців. Це послабило побоювання щодо дефіциту через ситуацію на Близькому Сході.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мессі забив 100-й гол і привів команду до трофея",
+    "link": "https://ua.korrespondent.net/sport/football/4912440-messi-zabyv-100-y-hol-i-pryviv-komandu-do-trofeia",
+    "pubDate": "2026-09-17 09:07:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566418.jpg\">Аргентинський форвард відзначився 100-м забитим м'ячем за американський клуб і здобув свій 49-й кар'єрний трофей.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський привітав ухвалення законопроєкту Грема",
+    "link": "https://ua.korrespondent.net/ukraine/4912439-zelenskyi-pryvitav-ukhvalennia-zakonoproiektu-hrema",
+    "pubDate": "2026-09-17 09:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566419.jpg\">Лідер України назвав санкційний законопроєкт \"сильним інструментом\", який може створити умови для завершення війни. Палата представників США підтримала документ 262 голосами проти 159.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Народний артист України розповів про тиск росіян",
+    "link": "https://ua.korrespondent.net/lifestyle/4912363-narodnyi-artyst-ukrainy-rozpoviv-pro-tysk-rosiian",
+    "pubDate": "2026-09-17 08:55:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4565959.jpg\">Богдан Бенюк, народний артист України, розкрив деталі того, яким чином росіяни намагалися тиснути на його свідомість і громадянську позицію.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Вибух понівечив вокзал на Харківщині: що відомо про атаку",
+    "link": "https://ua.korrespondent.net/ukraine/4912437-vybukh-ponivechyv-vokzal-na-kharkivschyni-scho-vidomo-pro-ataku",
+    "pubDate": "2026-09-17 08:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566404.jpg\">Вночі російські війська атакували залізничну інфраструктуру на Харківщині. Під ударом опинилася станція Берестин - вибух пошкодив будівлю вокзалу.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Потяг Одеса - Дніпро потрапив під удар РФ - ЗМІ",
+    "link": "https://ua.korrespondent.net/ukraine/4912435-potiah-odesa-dnipro-potrapyv-pid-udar-rf-zmi",
+    "pubDate": "2026-09-17 08:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566405.jpg\">На залізничній ділянці виникла пожежа, пасажирів вивезли із зони небезпеки. Рух поїздів довелося організовувати з урахуванням безпекової ситуації.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Удар КАБами по Сумщині: загинув чоловік",
     "link": "https://ua.korrespondent.net/ukraine/4912431-udar-kabamy-po-sumschyni-zahynuv-cholovik",
     "pubDate": "2026-09-17 08:36:00",
