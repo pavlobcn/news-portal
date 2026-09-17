@@ -1,5 +1,59 @@
 [
   {
+    "title": "Литва виявила 12 тунелів на кордоні з Білоруссю",
+    "link": "https://ua.korrespondent.net/world/4912653-lytva-vyiavyla-12-tuneliv-na-kordoni-z-bilorussui",
+    "pubDate": "2026-09-17 18:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566913.jpg\">Влада країни посилює охорону кордону та співпрацює з Frontex після виявлення тунелів.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "У Франції відбувся енергетичний Рамштайн",
+    "link": "https://ua.korrespondent.net/world/4912648-u-frantsii-vidbuvsia-enerhetychnyi-ramshtain",
+    "pubDate": "2026-09-17 18:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566911.jpg\">Партнери України отримали інформацію про плани Росії щодо обстрілів енергетичної інфраструктури.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "В Японії з'явиться посадовець, відповідальний за боротьбу з ведмедями",
+    "link": "https://ua.korrespondent.net/world/4912643-v-yaponii-ziavytsia-posadovets-vidpovidalnyi-za-borotbu-z-vedmediamy",
+    "pubDate": "2026-09-17 18:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566883.jpg\">Влада пов'язує зростання кількості нападів із занедбаними фермами та скороченням кількості мисливців.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "У Росії половина АЗС залишилася без бензину",
+    "link": "https://ua.korrespondent.net/world/russia/4912634-u-rosii-polovyna-azs-zalyshylasia-bez-benzynu",
+    "pubDate": "2026-09-17 17:44:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566846.jpg\">Найгірша ситуація склалася у Санкт-Петербурзі та Ленінградській області, де черги на АЗС простоюють понад дві години.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Зближення з ЄС: прем'єр Канади відповів на погрози Трампа",
+    "link": "https://ua.korrespondent.net/world/4912628-zblyzhennia-z-yes-premier-kanady-vidpoviv-na-pohrozy-trampa",
+    "pubDate": "2026-09-17 17:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566845.jpg\">Американський президент пригрозив ввести \"серйозні мита\" проти ЄС, якщо Канада стане асоційованим членом.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Алясці зафіксували землетрус магнітудою 6,5",
+    "link": "https://ua.korrespondent.net/world/4912626-na-aliastsi-zafiksuvaly-zemletrus-mahnitudoui-65",
+    "pubDate": "2026-09-17 17:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566835.jpg\">Епіцентр був розташований за 166 км на захід від селища Нікольські.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Зеленський: Є успішне збиття реактивного \"шахеда\"",
     "link": "https://ua.korrespondent.net/ukraine/4912621-zelenskyi-ye-uspishne-zbyttia-reaktyvnoho-shakheda",
     "pubDate": "2026-09-17 16:51:00",
@@ -18,6 +72,24 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Прем'єр-міністр Швеції подав у відставку",
+    "link": "https://ua.korrespondent.net/world/4912607-premier-ministr-shvetsii-podav-u-vidstavku",
+    "pubDate": "2026-09-17 16:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566804.jpg\">Прем'єр та інші міністри уряду звільняються зі своїх посад, але продовжують виконувати обов'язки до складення присяги новим урядом.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Естонія готова негайно закрити кордон із РФ у разі мобілізації - уряд",
+    "link": "https://ua.korrespondent.net/world/4912605-estoniia-hotova-nehaino-zakryty-kordon-iz-rf-u-razi-mobilizatsii-uriad",
+    "pubDate": "2026-09-17 16:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566794.jpg\">Естонія готується до різних сценаріїв у разі оголошення Росією загальної мобілізації, зокрема швидкого закриття кордону.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Прокурор із тінню корупції. Хто очолив ГПУ",
     "link": "https://ua.korrespondent.net/ukraine/4912596-prokuror-iz-tinnui-koruptsii-khto-ocholyv-hpu",
     "pubDate": "2026-09-17 15:53:00",
@@ -25,6 +97,33 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566793.jpg\">Після звільнення Руслана Кравченка Офіс генерального прокурора тимчасово очолить Антон Ковальський.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Туск анонсував візит в Україну",
+    "link": "https://ua.korrespondent.net/world/4912593-tusk-anonsuvav-vizyt-v-ukrainu",
+    "pubDate": "2026-09-17 15:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566778.jpg\">Польський прем’єр розкритикував позиції Франції та Словаччини щодо нового пакета антиросійських санкцій ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Угорщина просить Трампа зробити виняток із нових мит за енергоносії РФ",
+    "link": "https://ua.korrespondent.net/world/4912591-uhorschyna-prosyt-trampa-zrobyty-vyniatok-iz-novykh-myt-za-enerhonosii-rf",
+    "pubDate": "2026-09-17 15:35:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566777.jpg\">Угорський депутат Мартон Гайду попросив США зробити для Угорщини виняток із нових митних заходів щодо країн, які купують російські енергоносії. Він також заявив про необхідність диверсифікації енергопостачання країни.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран вийшов на прямий зв'язок із США - Трамп",
+    "link": "https://ua.korrespondent.net/world/4912588-iran-vyishov-na-priamyi-zviazok-iz-ssha-tramp",
+    "pubDate": "2026-09-17 15:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566766.jpg\">Президент США не надав подробиць, а офіційні особи Ірану публічно не підтверджували факт такого контакту.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "La Selección jugará en Santiago de Compostela frente a Grecia",
@@ -52,6 +151,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566746.jpg\">Викрито голову лікарсько-консультативної комісії районної лікарні, трьох членів ЛКК та двох посередників.",
     "topic": "пограбування, афера",
     "topic_match_probability": 92
+  },
+  {
+    "title": "Київ включили до переліку територій підвищеного ризику",
+    "link": "https://ua.korrespondent.net/business/4912580-kyiv-vkluichyly-do-pereliku-terytorii-pidvyschenoho-ryzyku",
+    "pubDate": "2026-09-17 15:09:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566763.jpg\">Київ та область отримали статус територій підвищеного ризику в межах програми страхування воєнних ризиків.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Росія вчетверте за місяць атакувала Запоріжсталь",
+    "link": "https://ua.korrespondent.net/business/4912618-rosiia-vchetverte-za-misiats-atakuvala-zaporizhstal",
+    "pubDate": "2026-09-17 14:55:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566818.jpg\">Металургійний комбінат не працює після атаки 11 серпня, коли були пошкоджені виробничі потужності, інфраструктура та енергосистема підприємства.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Суддю судитимуть за незаконне збагачення на понад 21 млн",
@@ -88,6 +205,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566696.jpg\">Два рейси - Одеса - Харків та Дніпро - Одеса - прямуватимуть резервним маршрутом, що додасть близько шести годин до часу в дорозі.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Пашинян назвав \"непотрібною\" російську військову базу у Вірменії",
+    "link": "https://ua.korrespondent.net/world/4912560-pashynian-nazvav-nepotribnoui-rosiisku-viiskovu-bazu-u-virmenii",
+    "pubDate": "2026-09-17 14:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566694.jpg\">Єреван не заперечуватиме, якщо російське керівництво вирішить вивести 102-гу військову базу з країни.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Китай отримав найгіршу оцінку: рейтинг ставлення українців",
