@@ -1,8 +1,9 @@
-# News for 2026-09-18 19:14
+# News for 2026-09-18 20:22
 
 Previous day: [2026-09-17](./data/2026-09-17.md)
 
 ## ua.korrespondent.net
+19:54 [Популяція дельфінів у Чорному морі відновлюватиметься до 50 років - еколог](https://ua.korrespondent.net/ukraine/4912991-populiatsiia-delfiniv-u-chornomu-mori-vidnovluivatymetsia-do-50-rokiv-ekoloh)<br>
 18:23 [Синоптики попередили про небезпеку: негода накриє вісім областей](https://ua.korrespondent.net/ukraine/4912965-synoptyky-poperedyly-pro-nebezpeku-nehoda-nakryie-visim-oblastei)<br>
 16:57 [В Україні після вихідних очікують різку зміну погоди](https://ua.korrespondent.net/ukraine/4912946-v-ukraini-pislia-vykhidnykh-ochikuuit-rizku-zminu-pohody)<br>
 16:13 [Подкопаєва замилувала фото доньки на честь її 7-річчя](https://ua.korrespondent.net/lifestyle/4912919-podkopaieva-zamyluvala-foto-donky-na-chest-yii-7-richchia)<br>
@@ -33,6 +34,7 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 01:35 [ЗМІ дізналися, скільки РФ втратила від ударів по Wildberries та OZON](https://ua.korrespondent.net/business/economics/4912711-zmi-diznalysia-skilky-rf-vtratyla-vid-udariv-po-Wildberries-ta-OZON)<br>
 
 ## as.com
+19:11 [Resumen del Olympiacos vs Fenerbahce, semifinales de la Supercopa de la Euroliga](https://as.com/videos/euroliga/resumen-del-olympiacos-vs-fenerbahce-semifinales-de-la-supercopa-de-la-euroliga-f202609-v/)<br>
 18:27 [Dubái Basketball - Real Madrid, en directo: Supercopa de la Euroliga 2026 en vivo hoy](https://as.com/baloncesto/euroliga/dubai-basketball-real-madrid-en-directo-supercopa-de-la-euroliga-2026-en-vivo-hoy-f202609-d/)<br>
 18:23 [El campeón se levanta a tiempo](https://as.com/baloncesto/euroliga/el-campeon-se-levanta-a-tiempo-f202609-n/)<br>
 18:06 [Resultados de la Supercopa de la Euroliga: horarios, TV, partidos y eliminatorias](https://as.com/baloncesto/euroliga/resultados-de-la-supercopa-de-la-euroliga-horarios-tv-partidos-y-eliminatorias-f202609-n/)<br>
@@ -48,6 +50,10 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 04:57 [La nueva Supercopa, una Final Four en septiembre](https://as.com/baloncesto/euroliga/la-nueva-supercopa-una-final-four-en-septiembre-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:17 [La mayoría de las bibliotecas cierra en Barcelona en una nueva protesta de la huelga indefinida](https://www.elperiodico.com/es/barcelona/20260918/barcelona-bibliotecas-cerradas-huelga-indefinida-134445135)<br>
+20:00 [Àngels Geis, doctora en Pedagogía: "El tiempo fuera de clase también es vital para la educación"](https://www.elperiodico.com/es/sociedad/20260918/angels-geis-importancia-extraescolares-134398339)<br>
+20:00 [Un pueblo de Teruel ofrece piso de alquiler por 230 euros para atraer a médicos y enfermeras](https://www.elperiodico.com/es/sociedad/20260918/utrillas-teruel-vivienda-alquiler-230-euros-medicos-enfermeras-134373082)<br>
+19:52 [Festival de San Sebastián: Fatih Akin  se rinde al ‘kitsch’ en ‘Ghost Song’](https://www.elperiodico.com/es/ocio-y-cultura/20260918/festival-san-sebastian-fatih-akin-134444622)<br>
 19:13 [Confirmado por la Generalitat: el 24 de septiembre es festivo en cuatro ciudades y media docena de pueblos de Catalunya](https://www.elperiodico.com/es/catalunya/20260918/la-merce-festivo-generalitat-24-septiembre-municipios-barcelona-dv-loc-134441544)<br>
 19:07 [Renfe reemplaza los trenes del servicio Avant entre Lleida y Barcelona por unos con menos plazas](https://www.elperiodico.com/es/sociedad/20260918/renfe-reemplaza-trenes-servicio-avant-lleida-barcelona-menos-plazas-134442980)<br>
 18:59 [Echo & The Bunnymen desafían la ley de la gravedad, 12 años después, con el consistente 'Apples for Isaac'](https://www.elperiodico.com/es/ocio-y-cultura/20260918/echo-the-bunnymen-nuevo-disco-critica-134433548)<br>
