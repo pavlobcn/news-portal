@@ -1,4 +1,4 @@
-# News for 2026-09-18 11:10
+# News for 2026-09-18 11:50
 
 Previous day: [2026-09-17](./data/2026-09-17.md)
 
@@ -25,12 +25,17 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 04:57 [La nueva Supercopa, una Final Four en septiembre](https://as.com/baloncesto/euroliga/la-nueva-supercopa-una-final-four-en-septiembre-f202609-n/)<br>
 
 ## www.elperiodico.com
+11:44 [¿Cuándo viene Brad Pitt a San Sebastián?](https://www.elperiodico.com/es/ocio-y-cultura/20260918/viene-brad-pitt-san-sebastian-134419903)<br>
+11:39 [Empleados de OpenAI y Microsoft temen el impacto de la IA en el periodismo: "El mayor robo de trabajo de la historia de la humanidad"](https://www.elperiodico.com/es/internacional/20260918/empleados-openai-microsoft-aseguran-ia-amenaza-existencial-articulos-editores-prensa-robo-humanidad-134421594)<br>
+11:14 [Uno de cada tres inversores catalanes invierten en criptomonedas y el 47% lo hace de forma regular](https://www.elperiodico.com/es/economia/20260918/inversion-catalunya-criptomonedas-fondos-ahorro-barometro-mintos-2026-134418935)<br>
 11:01 [Masificación náutica en Baleares: hasta 300 embarcaciones fondeadas en un día saturan la bahía de Pollença](https://www.elperiodico.com/es/sociedad/20260918/masificacion-nautica-baleares-300-embarcaciones-134417829)<br>
 11:00 [Una combinación de fármacos mejora el tratamiento del cáncer de endometrio de alto riesgo](https://www.elperiodico.com/es/sociedad/20260918/combinacion-farmacos-mejora-tratamiento-cancer-endometrio-alto-riesgo-134417678)<br>
 10:47 [Un dolmen de 5.000 años sobrevive entre chalés, en Pau](https://www.elperiodico.com/es/sociedad/20260918/dolmen-5-000-anos-sobrevive-134419176)<br>
+10:37 [Fallaci y el mundo de hoy](https://www.elperiodico.com/es/opinion/20260918/oriana-fallaci-mundo-hoy-134358076)<br>
 10:23 [¿Qué Luna hay hoy? Así evoluciona el cielo nocturno en septiembre 2026](https://www.elperiodico.com/es/ciencia/20260918/luna-septiembre-2026-fases-cuarto-menguante-nueva-creciente-llena-dv-132724581)<br>
 10:15 [Nueve de cada diez ictus se podrían prevenir: los fisioterapeutas ponen el foco en el ejercicio terapéutico](https://www.elperiodico.com/es/sociedad/20260918/nueve-diez-ictus-prevenir-fisioterapeutas-ejercicio-134417667)<br>
 10:14 [Lady Di dijo que Carlos estaba "enamorado de su ayuda de cámara", según revela su hermano, Charles Spencer, en su explosivo libro](https://www.elperiodico.com/es/gente/20260918/lady-di-carlos-enamorado-ayuda-camara-libro-charles-spencer-134417133)<br>
+09:59 [Santiago Roncagliolo, en el videopódcast del suplemento ABRIL: "Nunca había ocurrido que alguien pasara de una ciudad del norte de Perú a Papa en dos años"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260918/santiago-roncagliolo-videopodcast-suplemento-abril-134314743)<br>
 09:53 [Nódulo tiroideo: dificultad para tragar, presión en el cuello y cambios en la voz que conviene vigilar](https://www.elperiodico.com/es/salud/20260918/nodulo-tiroideo-dificultad-tragar-presion-cuello-134417256)<br>
 09:33 [Precio del petróleo hoy, 18 de septiembre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260918/precio-petroleo-hoy-18-septiembre-dv-134378101)<br>
 09:05 [Ramon Bassa, pedagogo: "Se debe descargar a los maestros de la burocracia, es una injusticia"](https://www.elperiodico.com/es/sociedad/20260918/ramon-bassa-pedagogo-burocracia-maestros-injusticia-dv-134394165)<br>
@@ -50,5 +55,6 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 06:00 [El movimiento silencioso del fondo soberano de Singapur en España: riega con cientos de millones al 'big four' inmobiliario](https://www.elperiodico.com/es/economia/20260918/programado-movimiento-silencioso-fondo-soberano-134400838)<br>
 06:00 [PIMEC y el Hospital del Mar ultiman la primera escala científica para evaluar el burnout de empresarios y autónomos](https://www.elperiodico.com/es/ser-feliz/20260918/pimec-hospital-mar-ultiman-primera-134390800)<br>
 06:00 [He entrado en 'La Odisea' de Homero: dioses, cíclopes y héroes en el viaje inmersivo que revive el mito de Ulises](https://www.elperiodico.com/es/ocio-y-cultura/20260918/he-entrado-odisea-homero-exposicion-matadero-inmersiva-viaje-itaca-mito-ulises-134317582)<br>
+04:50 [La épica de lo cotidiano](https://www.elperiodico.com/es/opinion/20260918/epica-cotidiano-ines-martin-rodrigo-articulo-134362829)<br>
 01:59 [Bàrbara Glaenzel, cofundadora y CEO de Urbanauta: «No queremos competir solo en precio, sino en criterio y coherencia»](https://www.elperiodico.com/es/sociedad/20260918/barbara-glaenzel-cofundadora-ceo-urbanauta-bc-133938186)<br>
 00:00 [Jaume Collboni, un trueno y tres estrellas en los Premios Barcelonina y el Barceloní de l’Any](https://www.elperiodico.com/es/opinion/20260918/jaume-collboni-trueno-tres-estrellas-barceloni-barcelonina-any-opinion-joan-vehils-134410002)<br>
