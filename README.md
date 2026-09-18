@@ -1,4 +1,4 @@
-# News for 2026-09-18 23:42
+# News for 2026-09-19 01:18
 
 Previous day: [2026-09-17](./data/2026-09-17.md)
 
@@ -56,6 +56,7 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 04:57 [La nueva Supercopa, una Final Four en septiembre](https://as.com/baloncesto/euroliga/la-nueva-supercopa-una-final-four-en-septiembre-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Bienvenidos a la Universidad de la Calle](https://www.elperiodico.com/es/sociedad/20260918/bienvenidos-universidad-calle-bc-134449912)<br>
 22:04 [El Real Madrid de Pedro Martínez deja al Dubai de Xavi Pascual sin su primera final en 'casa'](https://www.elperiodico.com/es/deportes/20260918/real-madrid-pedro-martinez-deja-134448371)<br>
 21:59 [Cesc Gay hace reír a los lectores de Prensa Ibérica con la obra de teatro ‘53 domingos’](https://www.elperiodico.com/es/ocio-y-cultura/20260918/cesc-gay-reir-lectores-prensa-134448172)<br>
 21:49 [El Dubai de Xavi Pascual cae ante el Madrid en la nueva SuperCup (95-98)](https://www.elperiodico.com/es/deportes/20260918/real-madrid-sufre-dubai-xavi-pascual-134447842)<br>

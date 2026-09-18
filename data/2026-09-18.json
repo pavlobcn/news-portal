@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bienvenidos a la Universidad de la Calle",
+    "link": "https://www.elperiodico.com/es/sociedad/20260918/bienvenidos-universidad-calle-bc-134449912",
+    "pubDate": "2026-09-18 23:59:49",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump anuncia un \"acuerdo\" con Dinamarca y Groenlandia para el \"control\" de la seguridad de la isla",
+    "link": "https://www.elperiodico.com/es/internacional/20260918/trump-anuncia-acuerdo-dinamarca-groenlandia-134449770",
+    "pubDate": "2026-09-18 23:42:47",
+    "category": "",
+    "description": "<h2>El inquilino de la Casa Blanca ha asegurado que este acuerdo no conllevará \"ningún coste\" para su administración</h2>",
+    "topic": "політика",
+    "topic_match_probability": 97
+  },
+  {
     "title": "Buen sabor de boca con Pradilla y Luwawu-Cabarrot",
     "link": "https://as.com/baloncesto/euroliga/buen-sabor-de-boca-con-pradilla-y-luwawu-cabarrot-f202609-n/",
     "pubDate": "2026-09-18 23:23:04",
@@ -52,6 +70,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567973.jpg\">Увесь департамент, який очолював підозрюваний у справі антикорупційних органів Сергій Кропива реорганізували.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Пряник для Путіна. Трамп хоче задобрити диктатора?",
+    "link": "https://ua.korrespondent.net/world/4913021-prianyk-dlia-putina-tramp-khoche-zadobryty-dyktatora",
+    "pubDate": "2026-09-18 22:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568035.jpeg\">У Білому домі нібито розглядають можливість підписання з Росією певних бізнес-угод ще до того, як РФ припинить війну проти України – щоб \"підтвердити свої добрі наміри\".",
+    "topic": "політика",
+    "topic_match_probability": 98
   },
   {
     "title": "Pedro Martínez: “Demostramos personalidad”",
