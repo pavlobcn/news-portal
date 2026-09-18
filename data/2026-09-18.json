@@ -1,5 +1,32 @@
 [
   {
+    "title": "Buen sabor de boca con Pradilla y Luwawu-Cabarrot",
+    "link": "https://as.com/baloncesto/euroliga/buen-sabor-de-boca-con-pradilla-y-luwawu-cabarrot-f202609-n/",
+    "pubDate": "2026-09-18 23:23:04",
+    "category": "Baloncesto",
+    "description": "El internacional español lució mano desde fuera y fuerza en el rebote, y el francés fue decisivo en la recta final para doblegar al Dubái en la semifinal.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп: РФ вже п'ять років атакує союзників України",
+    "link": "https://ua.korrespondent.net/world/4913013-tramp-rf-vzhe-piat-rokiv-atakuie-souiznykiv-ukrainy",
+    "pubDate": "2026-09-18 23:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567982.jpg\">Глава Білого дому заявив про російські атаки на європейські країни як про загальновідомий факт.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una Mushkaa renovada y los destellos funk de Stereo Madness brillan en el Festival •B",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260918/mushkaa-renovada-destellos-funk-stereo-madness-festival-b-barcelona-134449413",
+    "pubDate": "2026-09-18 23:19:39",
+    "category": "",
+    "description": "<h2>La catalana sorprende dando una vuelta a su repertorio consciente de que su condición de cabeza de cartel lo merecía</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Un Espanyol penoso sufre un revolcón en casa ante un Elche con 10",
     "link": "https://www.elperiodico.com/es/deportes/20260918/espanyol-penoso-sufre-revolcon-casa-134449142",
     "pubDate": "2026-09-18 23:05:26",
@@ -18,6 +45,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "В Офісі генпркурора ліквідували посаду фігуранта операції \"Карфаген\"",
+    "link": "https://ua.korrespondent.net/ukraine/4913011-v-ofisi-henprkurora-likviduvaly-posadu-fihuranta-operatsii-karfahen",
+    "pubDate": "2026-09-18 22:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567973.jpg\">Увесь департамент, який очолював підозрюваний у справі антикорупційних органів Сергій Кропива реорганізували.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Pedro Martínez: “Demostramos personalidad”",
     "link": "https://as.com/baloncesto/euroliga/pedro-martinez-demostramos-personalidad-f202609-n/",
     "pubDate": "2026-09-18 22:26:16",
@@ -25,6 +61,15 @@
     "description": "El nuevo técnico madridista se estrenó en partido oficial con un triunfo agónico en la prórroga. Este sábado, primera final. “Debimos tirar más triples”, dijo.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський розповів про наслідки удару по Сумах",
+    "link": "https://ua.korrespondent.net/ukraine/4913009-zelenskyi-rozpoviv-pro-naslidky-udaru-po-sumakh",
+    "pubDate": "2026-09-18 22:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567964.jpg\">Було пряме влучання авіабомби між третім і четвертим поверхом житлового будинку. Під завалами шукають людей.",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Así fue la detención de 'El Trompas' autor confeso del asesinato de Claudia Tacoronte en México",
@@ -61,6 +106,15 @@
     "description": "<h2>La función, que trata las complejidades de las relaciones entre hermanos, fue muy bien recibida en el Teatre Condal en una sala llena de suscriptores del grupo </h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Ярмолюк відзначився в АПЛ сотою грою",
+    "link": "https://ua.korrespondent.net/sport/football/4913007-yarmoluik-vidznachyvsia-v-apl-sotoui-hroui",
+    "pubDate": "2026-09-18 21:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567943.jpg\">Український хавбек Єгор Ярмолюк в англійській Прем'єр-лізі досяг значущого показника у вигляді участі у сотій грі Брентфорда.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Путін знайшов \"винного\" у зриві мирних переговорів",
