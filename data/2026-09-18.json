@@ -1,5 +1,104 @@
 [
   {
+    "title": "\"Ворота пекла\": Бабіш зробив заяву про війну в Україні",
+    "link": "https://ua.korrespondent.net/world/4912731-vorota-pekla-babish-zrobyv-zaiavu-pro-viinu-v-ukraini",
+    "pubDate": "2026-09-18 06:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567285.jpg\">Прем’єр Чехії Андрей Бабіш заявив, що війна Росії проти України перетворилася на виснажливе протистояння, а нинішній курс світу може призвести до глобальної війни.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Підпали залізниці на користь РФ: у Латвії винесли вироки",
+    "link": "https://ua.korrespondent.net/world/4912733-pidpaly-zaliznytsi-na-koryst-rf-u-latvii-vynesly-vyroky",
+    "pubDate": "2026-09-18 06:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567295.jpg\">У Латвії двоє чоловіків отримали тривалі тюремні строки за підпали залізничних об’єктів. Суд також зобов’язав їх відшкодувати понад 56 тисяч євро збитків.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Підсумки 17.9: успіх України і попередження Польщі",
+    "link": "https://ua.korrespondent.net/ukraine/4912719-pidsumky-179-uspikh-ukrainy-i-poperedzhennia-polschi",
+    "pubDate": "2026-09-18 05:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567210.jpg\">У Кремлі заявили про наслідки нових санкцій США. Зеленський: Є успішне збиття реактивного \"шахеда\". Туск: Росія може атакувати країни НАТО. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Фіцо відмовився захищати НАТО в разі нападу Росії",
+    "link": "https://ua.korrespondent.net/world/4912729-fitso-vidmovyvsia-zakhyschaty-nato-v-razi-napadu-rosii",
+    "pubDate": "2026-09-18 05:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567284.jpg\">Прем'єр Словаччини також відмовився визнати Росію як країну-агресора і звинуватив європейських колег \"у войовничій риториці\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗМІ повідомили, як почалися вибори в Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4912727-zmi-povidomyly-yak-pochalysia-vybory-v-rosii",
+    "pubDate": "2026-09-18 05:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567274.jpg\">Численні порушення та залякування незалежних спостерігачів і представників опозиції почалися ще до виборів в РФ.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dubái - Real Madrid: horario, TV y dónde ver la Supercopa de la Euroliga 2025-26",
+    "link": "https://as.com/baloncesto/euroliga/viernes-dubai-real-madrid-horario-tv-y-donde-ver-la-supercopa-de-la-euroliga-2025-26-f202609-n/",
+    "pubDate": "2026-09-18 04:59:27",
+    "category": "Euroliga",
+    "description": "Conoce el horario y cómo ver el partido de la segunda semifinal de la Supercopa de la Euroliga 2026 entre Dubái Basketball y Real Madrid. Este viernes, 18 de septiembre, a las 19:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Olympiacos - Fenerbahçe: horario, TV y dónde ver la Supercopa de la Euroliga 2025-26",
+    "link": "https://as.com/baloncesto/mas_baloncesto/viernes-olympiacos-fenerbahce-horario-tv-y-donde-ver-la-supercopa-de-la-euroliga-2025-26-f202609-n/",
+    "pubDate": "2026-09-18 04:59:07",
+    "category": "Baloncesto",
+    "description": "Conoce el horario y cómo ver el partido de la segunda semifinal de la Supercopa de la Euroliga 2026 entre Olympiacos y Fenerbahçe. Este viernes, 18 de septiembre, a las 16:00 horas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jasikevicius: “El encaje de Jantunen con Pedro Martínez es muy bueno”",
+    "link": "https://as.com/baloncesto/euroliga/jasikevicius-el-encaje-de-jantunen-con-pedro-martinez-es-muy-bueno-f202609-n/",
+    "pubDate": "2026-09-18 04:58:36",
+    "category": "Baloncesto",
+    "description": "El entrenador lituano afronta su cuarta temporada en el Fenerbahçe y aspira a disputar su séptima Final Four consecutiva. Antes, la Supercopa.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Nocioni por Mirotic a TLC por Hezonja: no son cromos",
+    "link": "https://as.com/baloncesto/euroliga/de-nocioni-por-mirotic-a-tlc-por-hezonja-no-son-cromos-f202609-n/",
+    "pubDate": "2026-09-18 04:58:01",
+    "category": "Baloncesto",
+    "description": "Timothe Luwawu-Cabarrot ha sido una de las sensaciones de la pretemporada del Madrid (18 puntos en 19 minutos) y ahora ocupa el puesto de Supermario. Hace 12 años hubo otro cambio sonado.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Конгрес перевіряє зв'язки сина Трампа з Кремлем - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4912725-konhres-pereviriaie-zviazky-syna-trampa-z-kremlem-zmi",
+    "pubDate": "2026-09-18 04:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567255.jpg\">Демократи в Палаті представників паралельно вивчають питання збагачення родини президента під час його перебування при владі.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La nueva Supercopa, una Final Four en septiembre",
+    "link": "https://as.com/baloncesto/euroliga/la-nueva-supercopa-una-final-four-en-septiembre-f202609-n/",
+    "pubDate": "2026-09-18 04:57:35",
+    "category": "Baloncesto",
+    "description": "Olympiacos-Fenerbahçe y Dubái-Madrid, protagonistas de la primera edición del torneo europeo. Son cuatro de los claros favoritos al ‘título grande’, el que se decidirá en mayo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Дрони РФ масовано атакували Конотоп",
     "link": "https://ua.korrespondent.net/ukraine/4912723-drony-rf-masovano-atakuvaly-konotop",
     "pubDate": "2026-09-18 04:30:00",
