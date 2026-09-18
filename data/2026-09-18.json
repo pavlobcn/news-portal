@@ -1,11 +1,92 @@
 [
   {
+    "title": "Ранкова атака дронів на Київщину: є постраждалі, серед них діти",
+    "link": "https://ua.korrespondent.net/ukraine/4912750-rankova-ataka-droniv-na-kyivschynu-ye-postrazhdali-sered-nykh-dity",
+    "pubDate": "2026-09-18 07:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567341.jpg\">У Фастівському районі Київщини під час ранкової атаки російських безпілотників постраждали п’ятеро людей, серед них троє дітей. Є руйнування та пошкоджені авто.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Трамп запропонує Путіну угоду до кінця війни в Україні - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4912746-tramp-zaproponuie-putinu-uhodu-do-kintsia-viiny-v-ukraini-zmi",
+    "pubDate": "2026-09-18 07:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567321.jpg\">Білий дім розглядає можливість укладення економічних угод із Росією ще до завершення війни проти України. У Вашингтоні вважають, що це може стати додатковим стимулом для Кремля погодитися на мир.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Срна згадав найскладніший період своєї кар’єри",
+    "link": "https://ua.korrespondent.net/sport/football/4912748-srna-zghadav-naiskladnishyi-period-svoiei-kariery",
+    "pubDate": "2026-09-18 07:28:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567331.jpg\">Легендарний екскапітан \"гірників\" розповів, як пережив найважчий період у своїй ігровій кар'єрі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Понад тисячу ударів за добу: РФ атакувала Запорізьку область",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4912738-ponad-tysiachu-udariv-za-dobu-rf-atakuvala-zaporizku-oblast",
+    "pubDate": "2026-09-18 07:14:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567307.jpg\">Російські війська за добу 1031 раз ударили по 50 населених пунктах Запорізької області. Внаслідок атак загинула людина, ще 14 жителів дістали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Українська тенісистка працюватиме на розвиток тенісу поза кортом",
+    "link": "https://ua.korrespondent.net/sport/tenis/4912744-ukrainska-tenisystka-pratsuivatyme-na-rozvytok-tenisu-poza-kortom",
+    "pubDate": "2026-09-18 06:59:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567320.jpg\">Представниця першої сотні рейтингу WTA розвиватиме регіональний теніс на волонтерських засадах.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генштаб оновив дані про втрати армії РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4912742-henshtab-onovyv-dani-pro-vtraty-armii-rf",
+    "pubDate": "2026-09-18 06:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567309.jpg\">За минулу добу російська армія зазнала значних втрат на фронті. Сили оборони України знищили 1 420 окупантів, десятки артсистем і бронемашин, а також понад 1,8 тисячі дронів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Яскравий старт ЛЄ: розгром від Ювентуса й історична перемога Борнмута",
+    "link": "https://ua.korrespondent.net/sport/football/4912740-yaskravyi-start-lie-rozghrom-vid-yuventusa-y-istorychna-peremoha-bornmuta",
+    "pubDate": "2026-09-18 06:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567308.jpg\">Ювентус не залишив шансів супернику з Нідерландів, а Борнмут здобув першу в історії перемогу в єврокубках.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Манчестер Сіті феєрично розібрався з Норвічем",
+    "link": "https://ua.korrespondent.net/sport/football/4912736-manchester-siti-feierychno-rozibravsia-z-norvichem",
+    "pubDate": "2026-09-18 06:25:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567296.jpg\">\"Містяни\" здобули впевнену перемогу та спокійно оформили путівку до наступного раунду турніру.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "\"Ворота пекла\": Бабіш зробив заяву про війну в Україні",
     "link": "https://ua.korrespondent.net/world/4912731-vorota-pekla-babish-zrobyv-zaiavu-pro-viinu-v-ukraini",
     "pubDate": "2026-09-18 06:19:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4567285.jpg\">Прем’єр Чехії Андрей Бабіш заявив, що війна Росії проти України перетворилася на виснажливе протистояння, а нинішній курс світу може призвести до глобальної війни.",
     "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Легендарний хокеїст помер на 99-му році життя",
+    "link": "https://ua.korrespondent.net/sport/hokey/4912673-lehendarnyi-khokeist-pomer-na-99-mu-rotsi-zhyttia",
+    "pubDate": "2026-09-18 06:14:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4566949.jpg\">Видатний спортсмен, який ставав чемпіоном Швеції як у хокеї, так і у футболі, пішов із життя у віці 98 років.",
+    "topic": "спорт",
     "topic_match_probability": 95
   },
   {
