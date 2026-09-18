@@ -1,4 +1,4 @@
-# News for 2026-09-18 21:42
+# News for 2026-09-18 23:07
 
 Previous day: [2026-09-17](./data/2026-09-17.md)
 
@@ -35,6 +35,9 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 01:35 [ЗМІ дізналися, скільки РФ втратила від ударів по Wildberries та OZON](https://ua.korrespondent.net/business/economics/4912711-zmi-diznalysia-skilky-rf-vtratyla-vid-udariv-po-Wildberries-ta-OZON)<br>
 
 ## as.com
+22:26 [Pedro Martínez: “Demostramos personalidad”](https://as.com/baloncesto/euroliga/pedro-martinez-demostramos-personalidad-f202609-n/)<br>
+22:05 [Resumen del Dubai BC vs. Real Madrid, semifinales de la Supercopa de Euroliga](https://as.com/videos/euroliga/resumen-del-dubai-bc-vs-real-madrid-semifinales-de-la-supercopa-de-euroliga-f202609-v/)<br>
+21:39 [El Madrid se levanta, sufre, gana y jugará otra final europea](https://as.com/baloncesto/euroliga/el-madrid-se-levanta-sufre-gana-y-jugara-otra-final-europea-f202609-n/)<br>
 20:51 [Supercopa Endesa 2026: cómo funciona, fechas, TV, partidos, horarios y participantes](https://as.com/baloncesto/euroliga/supercopa-endesa-2026-como-funciona-fechas-tv-partidos-horarios-y-participantes-f202609-n/)<br>
 19:11 [Resumen del Olympiacos vs Fenerbahce, semifinales de la Supercopa de la Euroliga](https://as.com/videos/euroliga/resumen-del-olympiacos-vs-fenerbahce-semifinales-de-la-supercopa-de-la-euroliga-f202609-v/)<br>
 18:27 [Dubái Basketball - Real Madrid, en directo: Supercopa de la Euroliga 2026 en vivo hoy](https://as.com/baloncesto/euroliga/dubai-basketball-real-madrid-en-directo-supercopa-de-la-euroliga-2026-en-vivo-hoy-f202609-d/)<br>
@@ -52,6 +55,9 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 04:57 [La nueva Supercopa, una Final Four en septiembre](https://as.com/baloncesto/euroliga/la-nueva-supercopa-una-final-four-en-septiembre-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:04 [El Real Madrid de Pedro Martínez deja al Dubai de Xavi Pascual sin su primera final en 'casa'](https://www.elperiodico.com/es/deportes/20260918/real-madrid-pedro-martinez-deja-134448371)<br>
+21:59 [Cesc Gay hace reír a los lectores de Prensa Ibérica con la obra de teatro ‘53 domingos’](https://www.elperiodico.com/es/ocio-y-cultura/20260918/cesc-gay-reir-lectores-prensa-134448172)<br>
+21:49 [El Dubai de Xavi Pascual cae ante el Madrid en la nueva SuperCup (95-98)](https://www.elperiodico.com/es/deportes/20260918/real-madrid-sufre-dubai-xavi-pascual-134447842)<br>
 20:17 [La mayoría de las bibliotecas cierra en Barcelona en una nueva protesta de la huelga indefinida](https://www.elperiodico.com/es/barcelona/20260918/barcelona-bibliotecas-cerradas-huelga-indefinida-134445135)<br>
 20:00 [Àngels Geis, doctora en Pedagogía: "El tiempo fuera de clase también es vital para la educación"](https://www.elperiodico.com/es/sociedad/20260918/angels-geis-importancia-extraescolares-134398339)<br>
 20:00 [Un pueblo de Teruel ofrece piso de alquiler por 230 euros para atraer a médicos y enfermeras](https://www.elperiodico.com/es/sociedad/20260918/utrillas-teruel-vivienda-alquiler-230-euros-medicos-enfermeras-134373082)<br>
