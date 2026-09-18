@@ -1,8 +1,13 @@
-# News for 2026-09-18 14:23
+# News for 2026-09-18 15:37
 
 Previous day: [2026-09-17](./data/2026-09-17.md)
 
 ## ua.korrespondent.net
+15:29 [Toyota планує залучити 400 000 людиноподібних роботів до виробництва](https://ua.korrespondent.net/business/companies/4912910-Toyota-planuie-zaluchyty-400-000-luidynopodibnykh-robotiv-do-vyrobnytstva)<br>
+15:24 [Поява Джима Керрі викликала реакцію в мережі](https://ua.korrespondent.net/lifestyle/4912904-poiava-dzhyma-kerri-vyklykala-reaktsiui-v-merezhi)<br>
+15:01 [Баффетт залишив посаду голови Berkshire Hathaway](https://ua.korrespondent.net/business/companies/4912908-baffett-zalyshyv-posadu-holovy-Berkshire-Hathaway)<br>
+14:55 [Ціна на російську нафту вперше з квітня перевищила $120](https://ua.korrespondent.net/world/4912902-tsina-na-rosiisku-naftu-vpershe-z-kvitnia-perevyschyla-120)<br>
+14:31 [В Китаї знайшли 3000-річну зброю, виготовлену з металу не з цієї землі](https://ua.korrespondent.net/tech/science/4912894-v-kytai-znaishly-3000-richnu-zbroui-vyhotovlenu-z-metalu-ne-z-tsiiei-zemli)<br>
 14:09 [Україна відкриває новий КПП на кордоні з Румунією](https://ua.korrespondent.net/ukraine/4912890-ukraina-vidkryvaie-novyi-kpp-na-kordoni-z-rumuniieui)<br>
 12:47 [Бенюк розповів, де та як служить його син](https://ua.korrespondent.net/lifestyle/4912840-benuik-rozpoviv-de-ta-yak-sluzhyt-yoho-syn)<br>
 12:17 [Майка легендарного Джордана може стати найдорожчою в історії](https://ua.korrespondent.net/sport/basketball/4912849-maika-lehendarnoho-dzhordana-mozhe-staty-naidorozhchoui-v-istorii)<br>
@@ -36,6 +41,15 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 04:57 [La nueva Supercopa, una Final Four en septiembre](https://as.com/baloncesto/euroliga/la-nueva-supercopa-una-final-four-en-septiembre-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:36 [Una masía catalana del siglo XV con 28 hectáreas y vistas al mar, en venta a 40 minutos de Barcelona](https://www.elperiodico.com/es/vivienda/20260918/masia-venta-siglo-xv-arenys-de-munt-maresme-barcelona-dv-loc-134422028)<br>
+15:32 [Así es el ‘gato tilcayo’, la nueva especie de felino descubierta en Bolivia](https://www.elperiodico.com/es/videos/sociedad/gato-tilcayo-nueva-especie-felino-descubierta-bolivia/134434308.shtml)<br>
+15:31 [Dreo prepara el invierno con dos calefactores inteligentes y un purificador de aire](https://www.elperiodico.com/es/tecnologia/20260918/dreo-prepara-invierno-calefactores-inteligentes-134433298)<br>
+15:25 [Franco se fue del campo a los 16 años para trabajar en una fábrica pero volvió: "Nos han impuesto la idea de que para sentirnos bien tenemos que poseer cosas, pero no es verdad"](https://www.elperiodico.com/es/economia/20260918/vida-autosuficiente-campo-bienes-materiales-cultivos-felicidad-libertad-italia-franco-dv-et-134401948)<br>
+15:20 [La verdad... y la verdad de las mentiras](https://www.elperiodico.com/es/opinion/20260918/mentiras-verdad-periodismo-articulo-juan-cruz-ruiz-134433579)<br>
+15:07 [Cuando lleguen los androides caseros](https://www.elperiodico.com/es/opinion/20260918/lleguen-androides-caseros-inteligencia-artificial-articulo-marti-saballs-pons-134419593)<br>
+14:41 [La descarbonización de la industria catalana no será rentable hasta el 2041](https://www.elperiodico.com/es/economia/20260918/descarbonizacion-industria-catalana-sera-rentable-134428869)<br>
+14:36 [Renfe inicia las obras de mejora de la estación de Fabra i Puig de Barcelona](https://www.elperiodico.com/es/barcelona/20260918/renfe-inicia-obras-mejora-estacion-fabra-i-puig-barcelona-134431762)<br>
+14:24 [Iker Regidor (22 años), abandonó la ciudad y vive de manera autosuficiente: "Me di cuenta de que todo estaba hecho para que seas dependiente, prácticamente un esclavo"](https://www.elperiodico.com/es/economia/20260918/vivir-naturaleza-autosuficiente-gran-apagon-iker-regidor-dv-et-134068096)<br>
 13:58 [En 2027 se diagnosticarán cerca de 28.700 nuevos casos de cáncer de la sangre en España](https://www.elperiodico.com/es/sanidad/20260918/diagnosticaran-cerca-nuevos-casos-cancer-sangre-espana-134424668)<br>
 13:57 [Mercadona le para los pies a su imitadora turca y limita el registro de su marca en Europa](https://www.elperiodico.com/es/economia/20260918/mercadona-le-pies-imitadora-turca-134429767)<br>
 13:10 [Se buscan voluntarios para vivir en la Patagonia chilena: 30 horas de trabajo semanales a cambio de alojamiento y tres comidas diarias](https://www.elperiodico.com/es/economia/20260918/vivir-trabajar-patagonia-chile-voluntarios-geoparque-kutralkura-dv-134261712)<br>
@@ -74,6 +88,8 @@ Previous day: [2026-09-17](./data/2026-09-17.md)
 08:15 [Una mujer de 71 años decide vivir sola en una cabaña en plena montaña de Girona "sin tener ni puñetera idea de nada, partiendo de cero, tragándome vídeos de Youtube como una loca"](https://www.elperiodico.com/es/vivienda/20260918/mujer-montana-girona-casa-construida-yaya-bushcraft-dv-et-134142820)<br>
 07:50 [Fero (78 años), el hombre que vive en el bosque recolectando plantas y apenas tiene dinero: "Tengo poco tiempo y quiero dedicarlo a mí mismo"](https://www.elperiodico.com/es/economia/20260918/hombre-vive-bosque-plantas-sin-dinero-libertad-ahorro-italia-fero-dv-et-134362892)<br>
 07:30 [Canta en una furgoneta: así es el primer karaoke móvil de Catalunya (que este finde podrás probar gratis)](https://www.elperiodico.com/es/que-hacer/planes/20260918/canta-gratis-furgoneta-primer-karaoke-movil-catalunya-134389245)<br>
+06:45 ["La crianza y la educación de los hijos es tarea ardua y duradera"](https://www.elperiodico.com/es/entre-todos/participacion/crianza-educacion-hijos-tarea-ardua-familia-carta-lector-victor-calvo-134355066)<br>
+06:30 ["No es admisible el cierre de camas de un hospital los meses de verano"](https://www.elperiodico.com/es/entre-todos/participacion/admisible-cierre-camas-verano-hospital-joan-xxiii-carta-lector-david-rabada-134354497)<br>
 06:01 [El icónico hotel Claris de Barcelona renueva sus habitaciones y celebra la 30ª fiesta anual de su terraza-mirador](https://www.elperiodico.com/es/barcelona/20260918/joaquim-clos-balance-economico-derby-hotels-reforma-fiesta-terraza-claris-hotel-spa-barcelona-134386581)<br>
 06:00 [El movimiento silencioso del fondo soberano de Singapur en España: riega con cientos de millones al 'big four' inmobiliario](https://www.elperiodico.com/es/economia/20260918/programado-movimiento-silencioso-fondo-soberano-134400838)<br>
 06:00 [PIMEC y el Hospital del Mar ultiman la primera escala científica para evaluar el burnout de empresarios y autónomos](https://www.elperiodico.com/es/ser-feliz/20260918/pimec-hospital-mar-ultiman-primera-134390800)<br>
