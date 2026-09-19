@@ -1,4 +1,4 @@
-# News for 2026-09-19 16:43
+# News for 2026-09-19 18:02
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
@@ -14,6 +14,8 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 02:57 [Вибух біля ТЦК на Львівщині: затримано двох чоловіків](https://ua.korrespondent.net/ukraine/4913030-vybukh-bilia-ttsk-na-lvivschyni-zatrymano-dvokh-cholovikiv)<br>
 
 ## as.com
+17:49 [Joventut – Baskonia, en directo: Supercopa de España 2026 en vivo hoy](https://as.com/baloncesto/joventut-baskonia-en-directo-supercopa-de-espana-2026-en-vivo-hoy-f202609-d/)<br>
+17:32 [Olympiacos - Real Madrid hoy, en directo: sigue la Supercopa de la Euroliga 2026, en vivo](https://as.com/baloncesto/euroliga/olympiacos-real-madrid-hoy-en-directo-sigue-la-supercopa-de-la-euroliga-2026-en-vivo-f202609-d/)<br>
 11:59 [Mike James: “Era jugador del Barça”](https://as.com/baloncesto/euroliga/mike-james-era-jugador-del-barca-f202609-n/)<br>
 11:27 [Bale reaparece en Dubái en un partido del Madrid con un ‘look’ que las redes no han tardado en ensalzar](https://as.com/baloncesto/videos/bale-reaparece-en-dubai-en-un-partido-del-madrid-con-un-look-que-las-redes-no-han-tardado-en-ensalzar-f202609-v/)<br>
 07:12 [El kilómetro cero](https://as.com/baloncesto/acb/el-kilometro-cero-f202609-n/)<br>
@@ -23,6 +25,8 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 01:53 [Olympiacos-Madrid, final eterna](https://as.com/baloncesto/euroliga/olympiacos-madrid-final-eterna-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:41 [Detectado un caso de sarna en una escuela infantil de Sabadell](https://www.elperiodico.com/es/sociedad/20260919/sabadell-sarna-detectado-caso-escuela-infantil-134467203)<br>
+17:30 [Tiempo en Catalunya mañana domingo: suben las temperaturas y vuelve el calor a Barcelona](https://www.elperiodico.com/es/tiempo/20260919/tiempo-cataluna-manana-domingo-20-septiembre-temperaturas-calor-lluvia-dv-loc-134466048)<br>
 16:34 [Los profesores anuncian nuevas huelgas y movilizaciones de cara al otoño, sin concretar el calendario](https://www.elperiodico.com/es/videos/sociedad/profesores-anuncian-nuevas-huelgas-movilizaciones/134465770.shtml)<br>
 16:12 [¿Por qué hay umbrales de alerta por lluvia más altos en el Mediterráneo que en Madrid? La Aemet lo aclara](https://www.elperiodico.com/es/tiempo/20260919/alerta-lluvia-umbrales-avisos-aemet-madrid-barcelona-esalert-dv-134464175)<br>
 16:08 [Jaume Collboni, un trueno y tres estrellas en los premios Barcelonina i Barceloní de l'Any 2026](https://www.elperiodico.com/es/barcelona/20260919/barceloneando-joan-vehils-collboni-trueno-tres-estrellas-premios-barceloni-de-lany-134438669)<br>
