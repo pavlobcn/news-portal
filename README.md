@@ -1,4 +1,4 @@
-# News for 2026-09-19 12:55
+# News for 2026-09-19 13:29
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
@@ -20,6 +20,8 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 01:53 [Olympiacos-Madrid, final eterna](https://as.com/baloncesto/euroliga/olympiacos-madrid-final-eterna-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:13 [Benidorm deja de liderar la oferta hotelera del Imserso en favor de Lloret de Mar, Puerto de la Cruz (Tenerife) y Salou](https://www.elperiodico.com/es/videos/economia/benidorm-deja-liderar-oferta-hotelera/134459671.shtml)<br>
+13:07 [El cubito de hielo que detecta drogas en las bebidas](https://www.elperiodico.com/es/economia/20260919/cubito-hielo-detecta-drogas-bebidas-134459290)<br>
 12:33 [Jonathan Andic viajó a Ecuador por un libro que debía escribir la terapeuta y que había impulsado su padre](https://www.elperiodico.com/es/videos/sucesos/jonathan-andic-viajo-ecuador-libro/134458682.shtml)<br>
 10:57 [Barcelona empieza a repavimentar la plaza de la Palmera tras renovar el área de juegos](https://www.elperiodico.com/es/barcelona/20260919/barcelona-obras-plaza-palmera-verneda-pau-134456238)<br>
 10:35 [Laura Cuesta, profesora, sobre el uso del móvil por los niños: "Establece unos espacios libres de pantallas en casa"](https://www.elperiodico.com/es/sociedad/20260919/laura-cuesta-profesora-pantallas-moviles-casa-dv-121677727)<br>
@@ -27,6 +29,7 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 09:30 [Una familia canta](https://www.elperiodico.com/es/opinion/20260919/una-familia-canta-cano-articulo-agnes-marques-134454507)<br>
 09:15 [Un dolmen de 5.000 años sobrevive entre chalets en el Empordà](https://www.elperiodico.com/es/sociedad/20260919/dolmen-5000-anos-sobrevive-chalets-emporda-pau-134434733)<br>
 09:14 [La presencia de drones obliga a interrumpir brevemente el tráfico en el aeropuerto de Luxemburgo](https://www.elperiodico.com/es/internacional/20260919/trafico-aeropuerto-luxemburgo-presencia-drones-obliga-interrumpir-brevemente-134454197)<br>
+09:00 [¿Dónde estás mamá?](https://www.elperiodico.com/es/opinion/20260919/mama-gestacion-subrogada-articulo-ana-bernal-trivino-134436180)<br>
 08:20 [Última hora de la Inteligencia Artificial: seguridad, ciberataques, reacciones y opiniones de expertos, en directo](https://www.elperiodico.com/es/tecnologia/20260919/inteligencia-artificial-seguridad-ciberataques-ultima-hora-directo-134453362)<br>
 08:15 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260919/ultima-hora-incendios-espana-directo-132759066)<br>
 08:00 [Ocho de cada 10 mujeres sénior y solteras no buscan pareja: "No es que renuncie al amor, pero ya no quiero cuidar de nadie"](https://www.elperiodico.com/es/sociedad/20260919/mujeres-mayores-solteras-no-buscan-pareja-amor-no-quiero-cuidar-134400130)<br>
