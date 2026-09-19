@@ -1,4 +1,4 @@
-# News for 2026-09-19 21:27
+# News for 2026-09-19 23:00
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
@@ -18,6 +18,12 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 02:57 [Вибух біля ТЦК на Львівщині: затримано двох чоловіків](https://ua.korrespondent.net/ukraine/4913030-vybukh-bilia-ttsk-na-lvivschyni-zatrymano-dvokh-cholovikiv)<br>
 
 ## as.com
+22:51 [Pedro Martínez: “Lo que veo me gusta más que la victoria”](https://as.com/baloncesto/euroliga/pedro-martinez-lo-que-veo-me-gusta-mas-que-la-victoria-f202609-n/)<br>
+22:28 [Luces y sombras de los fichajes del Madrid](https://as.com/baloncesto/euroliga/luces-y-sombras-de-los-fichajes-del-madrid-f202609-n/)<br>
+22:28 [Resumen del Olympiacos vs. Real Madrid, final de la Supercopa de Euroliga](https://as.com/videos/euroliga/resumen-del-olympiacos-vs-real-madrid-final-de-la-supercopa-de-euroliga-f202609-v/)<br>
+22:01 [El supercampeón es el Madrid](https://as.com/opinion/el-supercampeon-es-el-madrid-f202609-n/)<br>
+21:49 [El Madrid otra vez campeón en Europa: van 18](https://as.com/baloncesto/euroliga/el-madrid-otra-vez-campeon-en-europa-van-18-f202609-n/)<br>
+21:44 [El Madrid, supercampeón de Europa ante su verdugo en mayo](https://as.com/baloncesto/euroliga/el-madrid-supercampeon-de-europa-ante-su-verdugo-en-mayo-f202609-n/)<br>
 20:48 [Laprovittola: “Estoy en el lugar que quiero estar”](https://as.com/baloncesto/acb/laprovittola-estoy-en-el-lugar-que-quiero-estar-f202609-n/)<br>
 20:39 [Resumen del Asisa Joventut vs  Kosner Baskonia, semifinales de la Supercopa Endesa](https://as.com/videos/acb/resumen-del-asisa-joventut-vs-kosner-baskonia-semifinales-de-la-supercopa-endesa-f202609-v/)<br>
 20:25 [La gran noche de Laprovittola pone a la Penya en la final](https://as.com/baloncesto/acb/la-gran-noche-de-laprovittola-pone-a-la-penya-en-la-final-f202609-n/)<br>
@@ -36,6 +42,7 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 01:53 [Olympiacos-Madrid, final eterna](https://as.com/baloncesto/euroliga/olympiacos-madrid-final-eterna-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:25 [Hallan muerta a una mujer con signos de violencia en su casa de Madrid](https://www.elperiodico.com/es/sucesos/20260919/hallan-muerta-mujer-signos-violencia-134475096)<br>
 21:16 [El Real Madrid de Pedro Martínez conquista su primer título al coronarse súpercampeón de Eurocopa](https://www.elperiodico.com/es/deportes/20260919/supercopa-eurocopa-baloncesto-real-madrid-olympiacos-134473726)<br>
 20:20 [Un imperial Laprovittola guía a ASISA Joventut hacia una final histórica](https://www.elperiodico.com/es/deportes/20260919/imperial-laprovittola-guia-asisa-joventut-134472029)<br>
 20:17 [‘5 minutos más’, el divertimento narrativo que Berto Romero escribió "de forma compulsiva" y "sin poder parar"](https://www.elperiodico.com/es/ocio-y-cultura/20260919/5-minutos-divertimento-narrativo-berto-134470911)<br>
