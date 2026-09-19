@@ -1,4 +1,4 @@
-# News for 2026-09-19 23:35
+# News for 2026-09-20 00:54
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
@@ -19,6 +19,8 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 02:57 [Вибух біля ТЦК на Львівщині: затримано двох чоловіків](https://ua.korrespondent.net/ukraine/4913030-vybukh-bilia-ttsk-na-lvivschyni-zatrymano-dvokh-cholovikiv)<br>
 
 ## as.com
+23:47 [Resumen del Valencia vs Barça, semifinal de la Supercopa Endesa](https://as.com/videos/acb/resumen-del-valencia-vs-barca-semifinal-de-la-supercopa-endesa-f202609-v/)<br>
+23:47 [El Barça inicia su reconstrucción](https://as.com/baloncesto/acb/el-barca-inicia-su-reconstruccion-f202609-n/)<br>
 23:23 [Joventut - Barcelona: horario, TV y dónde ver la final de la Supercopa Endesa 2026](https://as.com/baloncesto/acb/joventut-barcelona-horario-tv-y-donde-ver-la-final-de-la-supercopa-endesa-2026-f202609-n/)<br>
 22:51 [Pedro Martínez: “Lo que veo me gusta más que la victoria”](https://as.com/baloncesto/euroliga/pedro-martinez-lo-que-veo-me-gusta-mas-que-la-victoria-f202609-n/)<br>
 22:28 [Luces y sombras de los fichajes del Madrid](https://as.com/baloncesto/euroliga/luces-y-sombras-de-los-fichajes-del-madrid-f202609-n/)<br>
@@ -44,6 +46,9 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 01:53 [Olympiacos-Madrid, final eterna](https://as.com/baloncesto/euroliga/olympiacos-madrid-final-eterna-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:55 [Fallece una persona y siete resultan heridas en el incendio en una residencia de Pamplona](https://www.elperiodico.com/es/sucesos/20260919/fallece-persona-siete-resultan-heridas-134476882)<br>
+23:42 [Naomi Watts recoge el Premio Donostia y reivindica el "cambio de relato": "Necesitamos vernos reflejadas"](https://www.elperiodico.com/es/ocio-y-cultura/20260919/naomi-watts-recoge-premio-donostia-134476712)<br>
+23:35 [El Barça de Sekulic sobrevive a las desconexiones y habrá final catalana en la Supercopa](https://www.elperiodico.com/es/deportes/20260919/barca-sekulic-sobrevive-desconexiones-habra-134476651)<br>
 22:25 [Hallan muerta a una mujer con signos de violencia en su casa de Madrid](https://www.elperiodico.com/es/sucesos/20260919/hallan-muerta-mujer-signos-violencia-134475096)<br>
 21:16 [El Real Madrid de Pedro Martínez conquista su primer título al coronarse súpercampeón de Eurocopa](https://www.elperiodico.com/es/deportes/20260919/supercopa-eurocopa-baloncesto-real-madrid-olympiacos-134473726)<br>
 20:20 [Un imperial Laprovittola guía a ASISA Joventut hacia una final histórica](https://www.elperiodico.com/es/deportes/20260919/imperial-laprovittola-guia-asisa-joventut-134472029)<br>
