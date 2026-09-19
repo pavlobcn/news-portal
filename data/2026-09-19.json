@@ -1,5 +1,41 @@
 [
   {
+    "title": "Dinamarca y Groenlandia confirman el acuerdo con Trump pero hablan de \"seguridad compartida\" sobre la isla",
+    "link": "https://www.elperiodico.com/es/internacional/20260919/dinamarca-groenlandia-confirman-acuerdo-trump-134453753",
+    "pubDate": "2026-09-19 08:31:54",
+    "category": "",
+    "description": "<h2>La primera ministra danesa, Mette Frederiksen, asegura que el pacto garantiza la soberanía de su país y el derecho a la autodeterminación del pueblo groenlandés ante el acuerdo con Estados Unidos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora de la Inteligencia Artificial: seguridad, ciberataques, reacciones y opiniones de expertos, en directo",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260919/inteligencia-artificial-seguridad-ciberataques-ultima-hora-directo-134453362",
+    "pubDate": "2026-09-19 08:20:58",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora y actualidad sobre los incendios en España",
+    "link": "https://www.elperiodico.com/es/sociedad/20260919/ultima-hora-incendios-espana-directo-132759066",
+    "pubDate": "2026-09-19 08:15:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "КНДР відкинула резолюцію МАГАТЕ щодо своєї ядерної програми",
+    "link": "https://ua.korrespondent.net/world/4913053-kndr-vidkynula-rezoluitsiui-mahate-schodo-svoiei-yadernoi-prohramy",
+    "pubDate": "2026-09-19 08:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568221.jpg\">Північна Корея заявила, що не збирається відмовлятися від ядерного статусу. У Пхеньяні назвали резолюцію МАГАТЕ \"безглуздою та неефективною\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "De Ormuz a Ceuta: otoño convulso",
     "link": "https://www.elperiodico.com/es/opinion/20260919/ormuz-ceuta-otono-convulso-articulo-joan-tapia-134446655",
     "pubDate": "2026-09-19 08:00:59",
@@ -97,6 +133,15 @@
     "description": "<h2>Los coches PHEV consiguen un 25% de las ayudas por su motorización y otro 25% más si se quedan por debajo de ese umbral de precio.</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora del temporal en el Mediterráneo, en directo | Las lluvias dan una tregua este viernes, pero cinco comunidades mantienen avisos por tormentas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260919/ultima-hora-temporal-mediterraneo-directo-134384369",
+    "pubDate": "2026-09-19 08:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Baleares: la comunidad autónoma da por cerrado el episodio de mal tiempo tras registrar 70 incidentes en 48 horas</h2><h2 class=\"item\">Murcia: aviso amarillo por lluvias y tormentas durante la mañana, con nuevos avisos por la tarde en varias zonas</h2><h2 class=\"item\">Cataluña: alerta amarilla hasta primera hora de la tarde en los litorales de Barcelona y Tarragona</h2><h2 class=\"item\">Andalucía: avisos amarillos por lluvias durante la tarde en varias zonas de Almería y Granada</h2><h2 class=\"item\">Comunidad Valenciana: el litoral sur de Alicante estará en amarillo por lluvias de hasta 20 l/m² en una hora</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Двоє загиблих і п’ятеро поранених: РФ вдарила по Херсонщині",
