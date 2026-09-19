@@ -1,5 +1,104 @@
 [
   {
+    "title": "Collboni anuncia una red de comercios asequibles para facilitar la compra de productos frescos en Nueva York",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/collboni-anuncia-red-comercios-asequibles-134473141",
+    "pubDate": "2026-09-19 21:21:59",
+    "category": "",
+    "description": "<h2 class=\"item\">El alcalde de Barcelona anuncia que el proyecto arrancará con una prueba piloto en la Marina tras una reunión con el de Nueva York, Zohran Mamdani en la cumbre de alcaldes de ciudades Urban20</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Атака РФ на Кривий Ріг: горять продуктові склади",
+    "link": "https://ua.korrespondent.net/ukraine/4913171-ataka-rf-na-kryvyi-rih-horiat-produktovi-sklady",
+    "pubDate": "2026-09-19 21:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568806.jpg\">Російський реактивний \"шахед\" влучив в об'єкт торговельної інфраструктури. Загорілися продуктові склади.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Real Madrid de Pedro Martínez conquista su primer título al coronarse súpercampeón de Eurocopa",
+    "link": "https://www.elperiodico.com/es/deportes/20260919/supercopa-eurocopa-baloncesto-real-madrid-olympiacos-134473726",
+    "pubDate": "2026-09-19 21:16:44",
+    "category": "",
+    "description": "<h2>La resiliencia de los blancos les da una victoria de carácter pese a que el juego todavía no fluye en la cancha como en la pizarra del nuevo entrenador madridisra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "GRAVITEO se salta las leyes de la física en una multitudinaria jornada en A Coruña",
+    "link": "https://www.elperiodico.com/es/deportes/20260919/graviteo-salta-leyes-fisica-multitudinaria-134473306",
+    "pubDate": "2026-09-19 21:04:04",
+    "category": "",
+    "description": "<h2>Miles de personas disfrutaron a lo largo del sábado del festival de deportes urbanos organizado por LA OPINIÓN y Prensa Ibérica, aunque el Psicobloc Master Series fue la prueba que más público congregó en O Parrote</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El horóscopo de mañana,  domingo 20 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260919/horoscopo-manana-domingo-20-septiembre-dv-134204731",
+    "pubDate": "2026-09-19 21:01:08",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bachelet anuncia que no continuará con su candidatura para liderar la ONU",
+    "link": "https://www.elperiodico.com/es/internacional/20260919/bachelet-anuncia-continuara-candidatura-liderar-134473015",
+    "pubDate": "2026-09-19 20:58:09",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "A Coruña se llena de gente en el festival GRAVITEO",
+    "link": "https://www.elperiodico.com/es/videos/deportes/coruna-llena-gente-festival-graviteo/134472939.shtml",
+    "pubDate": "2026-09-19 20:56:58",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Данія передає Україні позачерговий пакет допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4913160-daniia-peredaie-ukraini-pozacherhovyi-paket-dopomohy",
+    "pubDate": "2026-09-19 20:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568722.jpg\">Україна отримає від Данії 31-й пакет військової допомоги на $275 млн. Основний напрямок підтримки - посилення спроможностей ППО.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Laprovittola: “Estoy en el lugar que quiero estar”",
+    "link": "https://as.com/baloncesto/acb/laprovittola-estoy-en-el-lugar-que-quiero-estar-f202609-n/",
+    "pubDate": "2026-09-19 20:48:54",
+    "category": "Baloncesto",
+    "description": "El base argentino tuvo un regreso sobresaliente con la camiseta del Joventut: 27 puntos y 10 asistencias en la victoria ante el Baskonia en la Supecopa.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así fueron las finales femenina y masculina de Escalada de Velocidad en el Open Internacional de GRAVITEO A Coruña Xacobeo",
+    "link": "https://www.elperiodico.com/es/videos/deportes/finales-femenina-masculina-escalada-velocidad/134472654.shtml",
+    "pubDate": "2026-09-19 20:42:37",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Resumen del Asisa Joventut vs  Kosner Baskonia, semifinales de la Supercopa Endesa",
+    "link": "https://as.com/videos/acb/resumen-del-asisa-joventut-vs-kosner-baskonia-semifinales-de-la-supercopa-endesa-f202609-v/",
+    "pubDate": "2026-09-19 20:39:18",
+    "category": "Deportes",
+    "description": "El Asisa Joventut, primer finalista de la Supercopa Endesa tras un gran tercer período del conjunto verdinegro y Laprovittola.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Sevilla - Barcelona, en directo el partido de Liga en el Pizjuán",
     "link": "https://www.elperiodico.com/es/deportes/20260919/sevilla-barcelona-directo-partido-liga-134468482",
     "pubDate": "2026-09-19 20:30:36",
@@ -1454,6 +1553,15 @@
     "pubDate": "2026-09-19 10:00:23",
     "category": "",
     "description": "<h2>Por exigencias del guion, Pedro Sánchez asó a la vicepresidenta María Jesús Montero y ahora tiene ensartado al ministro del Interior, el juez Marlaska</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260918/gobierno-calcula-quedan-ceuta-10-134426685\">El Gobierno reconoce que al menos 3.000 migrantes siguen en las calles de Ceuta tras la tensión en el traslado al puerto</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP reactiva la ofensiva por Ceuta en el Senado y vuelve a citar a Marlaska, Robles y Albares",
+    "link": "https://www.elperiodico.com/es/politica/20260919/pp-ofensiva-ceuta-senado-marlaska-robles-134425566",
+    "pubDate": "2026-09-19 10:00:23",
+    "category": "",
+    "description": "<h2>Los tres ministros plantaron a la Cámara Alta en el mes de agosto, cuando se solicitó su comparecencia, y los populares lo han denunciado ante el Supremo y el Constitucional</h2>",
     "topic": "політика",
     "topic_match_probability": 100
   },
