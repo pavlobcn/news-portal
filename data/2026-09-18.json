@@ -243,6 +243,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-18 21:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "El horóscopo de mañana,  sábado 19 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
     "link": "https://www.elperiodico.com/es/vida-y-estilo/20260918/horoscopo-manana-sabado-19-septiembre-dv-134204580",
     "pubDate": "2026-09-18 21:00:57",
@@ -423,11 +432,29 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-18 19:53:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Festival de San Sebastián: Fatih Akin  se rinde al ‘kitsch’ en ‘Ghost Song’",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260918/festival-san-sebastian-fatih-akin-134444622",
     "pubDate": "2026-09-18 19:52:14",
     "category": "",
     "description": "<h2>El cineasta Fatih Akin inaugura el Festival de San Sebastián con 'Ghost Song', una cinta que toma como referencia el estilo visual de Wim Wenders para narrar un romance imposible inspirada en la muerte de su padre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-09-18 19:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
     "topic": "",
     "topic_match_probability": 0
   },
