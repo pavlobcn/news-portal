@@ -1,8 +1,9 @@
-# News for 2026-09-19 16:12
+# News for 2026-09-19 16:43
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
 ## ua.korrespondent.net
+16:27 [Росіяни атакували два райони Київщини: є поранена](https://ua.korrespondent.net/ukraine/4913122-rosiiany-atakuvaly-dva-raiony-kyivschyny-ye-poranena)<br>
 15:39 [Лень може залишитися без нового клубу](https://ua.korrespondent.net/sport/basketball/4913115-len-mozhe-zalyshytysia-bez-novoho-klubu)<br>
 13:54 [Майже як планета: відкрито дивні космічні об’єкти](https://ua.korrespondent.net/tech/space/4913099-maizhe-yak-planeta-vidkryto-dyvni-kosmichni-obiekty)<br>
 12:37 [В Україні зупинили першу контрабанду IPhone 18 Pro Max](https://ua.korrespondent.net/ukraine/4913090-v-ukraini-zupynyly-pershu-kontrabandu-IPhone-18-Pro-Max)<br>
@@ -22,6 +23,8 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 01:53 [Olympiacos-Madrid, final eterna](https://as.com/baloncesto/euroliga/olympiacos-madrid-final-eterna-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:34 [Los profesores anuncian nuevas huelgas y movilizaciones de cara al otoño, sin concretar el calendario](https://www.elperiodico.com/es/videos/sociedad/profesores-anuncian-nuevas-huelgas-movilizaciones/134465770.shtml)<br>
+16:12 [¿Por qué hay umbrales de alerta por lluvia más altos en el Mediterráneo que en Madrid? La Aemet lo aclara](https://www.elperiodico.com/es/tiempo/20260919/alerta-lluvia-umbrales-avisos-aemet-madrid-barcelona-esalert-dv-134464175)<br>
 16:08 [Jaume Collboni, un trueno y tres estrellas en los premios Barcelonina i Barceloní de l'Any 2026](https://www.elperiodico.com/es/barcelona/20260919/barceloneando-joan-vehils-collboni-trueno-tres-estrellas-premios-barceloni-de-lany-134438669)<br>
 16:00 [Júlia Baena, bibliotecaria escolar: "Una cosa es que un niño sea capaz de leer un texto y otra que lo entienda"](https://www.elperiodico.com/es/sociedad/20260919/julia-baena-bibliotecaria-escolar-comprension-lectora-libros-educacion-informe-pisa-134271814)<br>
 16:00 [¿Cómo mejorar la comprensión lectora? Las lecturas obligatorias no bastan; los expertos piden enseñar mejor a leer desde Infantil](https://www.elperiodico.com/es/sociedad/20260919/lecturas-obligatorias-escuela-comprension-lectora-ensenar-mejor-leer-profesores-resultados-pisa-134378150)<br>

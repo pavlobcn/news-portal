@@ -1,5 +1,41 @@
 [
   {
+    "title": "Los profesores anuncian nuevas huelgas y movilizaciones de cara al otoño, sin concretar el calendario",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/profesores-anuncian-nuevas-huelgas-movilizaciones/134465770.shtml",
+    "pubDate": "2026-09-19 16:34:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere un trabajador logístico de 35 años atropellado por un camión",
+    "link": "https://www.elperiodico.com/es/sociedad/20260919/muere-trabajador-logistico-35-anos-toledo-atropellado-camion-134464351",
+    "pubDate": "2026-09-19 16:27:40",
+    "category": "",
+    "description": "<h2>Los sindicatos han exigido a la Inspección de Trabajo que aclare lo ocurrido y depure responsabilidades</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260807/accidentes-laborales-causaron-358-fallecidos-133164787\" target=\"_blank\">Los accidentes laborales causaron 358 fallecidos en el primer semestre, 5 menos que hace un año</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росіяни атакували два райони Київщини: є поранена",
+    "link": "https://ua.korrespondent.net/ukraine/4913122-rosiiany-atakuvaly-dva-raiony-kyivschyny-ye-poranena",
+    "pubDate": "2026-09-19 16:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568545.jpg\">Унаслідок російської атаки на Київщину поранена жінка. Також пошкоджено приватний будинок в Обухівському районі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué hay umbrales de alerta por lluvia más altos en el Mediterráneo que en Madrid? La Aemet lo aclara",
+    "link": "https://www.elperiodico.com/es/tiempo/20260919/alerta-lluvia-umbrales-avisos-aemet-madrid-barcelona-esalert-dv-134464175",
+    "pubDate": "2026-09-19 16:12:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La institución ha hecho hincapié en la importancia de respetar estos avisos, especialmente cuando son de nivel naranja o rojo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Jaume Collboni, un trueno y tres estrellas en los premios Barcelonina i Barceloní de l'Any 2026",
     "link": "https://www.elperiodico.com/es/barcelona/20260919/barceloneando-joan-vehils-collboni-trueno-tres-estrellas-premios-barceloni-de-lany-134438669",
     "pubDate": "2026-09-19 16:08:38",
@@ -25,6 +61,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568529.jpg\">В Україні готують зміни в управлінні Медичними силами ЗСУ, оновлення підходів до служби іноземних добровольців і нові далекобійні операції.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Зеленський: Будуть зміни в Медсилах і нові удари",
+    "link": "https://ua.korrespondent.net/ukraine/4913120-zelenskyi-budut-zminy-v-medsylakh-i-novi-udary",
+    "pubDate": "2026-09-19 16:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568529.jpg\">В Україні готують зміни в управлінні Медичними силами ЗСУ, оновлення підходів до служби іноземних добровольців і нові далекобійні операції.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Uriarte, el más listo de la clase, se hace con la pole",
