@@ -1,8 +1,9 @@
-# News for 2026-09-19 14:29
+# News for 2026-09-19 16:12
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
 ## ua.korrespondent.net
+15:39 [Лень може залишитися без нового клубу](https://ua.korrespondent.net/sport/basketball/4913115-len-mozhe-zalyshytysia-bez-novoho-klubu)<br>
 13:54 [Майже як планета: відкрито дивні космічні об’єкти](https://ua.korrespondent.net/tech/space/4913099-maizhe-yak-planeta-vidkryto-dyvni-kosmichni-obiekty)<br>
 12:37 [В Україні зупинили першу контрабанду IPhone 18 Pro Max](https://ua.korrespondent.net/ukraine/4913090-v-ukraini-zupynyly-pershu-kontrabandu-IPhone-18-Pro-Max)<br>
 11:02 [Куба знову без електрики: що сталося з енергосистемою острова](https://ua.korrespondent.net/world/4913078-kuba-znovu-bez-elektryky-scho-stalosia-z-enerhosystemoui-ostrova)<br>
@@ -21,8 +22,13 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 01:53 [Olympiacos-Madrid, final eterna](https://as.com/baloncesto/euroliga/olympiacos-madrid-final-eterna-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:08 [Jaume Collboni, un trueno y tres estrellas en los premios Barcelonina i Barceloní de l'Any 2026](https://www.elperiodico.com/es/barcelona/20260919/barceloneando-joan-vehils-collboni-trueno-tres-estrellas-premios-barceloni-de-lany-134438669)<br>
+16:00 [Júlia Baena, bibliotecaria escolar: "Una cosa es que un niño sea capaz de leer un texto y otra que lo entienda"](https://www.elperiodico.com/es/sociedad/20260919/julia-baena-bibliotecaria-escolar-comprension-lectora-libros-educacion-informe-pisa-134271814)<br>
+16:00 [¿Cómo mejorar la comprensión lectora? Las lecturas obligatorias no bastan; los expertos piden enseñar mejor a leer desde Infantil](https://www.elperiodico.com/es/sociedad/20260919/lecturas-obligatorias-escuela-comprension-lectora-ensenar-mejor-leer-profesores-resultados-pisa-134378150)<br>
+15:07 [Ocho de cada 10 mujeres sénior y solteras no buscan pareja: "No es que renuncie al amor, pero ya no quiero cuidar de nadie"](https://www.elperiodico.com/es/videos/sociedad/ocho-10-mujeres-senior-solteras/134464015.shtml)<br>
 14:20 [Detenido un hombre por la muerte violenta de una mujer de 47 años en Madrid](https://www.elperiodico.com/es/videos/sucesos/detenido-hombre-muerte-violenta-mujer/134461677.shtml)<br>
 14:16 [Naomi Watts presenta el largometraje 'The Housewife' en el Festival Internacional de Cine de San Sebastián](https://www.elperiodico.com/es/fotos/ocio-y-cultura/naomi-watts-presenta-largometraje-the-134461450)<br>
+14:10 [Recuperación del cementerio de Las Manchas](https://www.elperiodico.com/es/videos/sociedad/recuperacion-cementerio-manchas/134464494.shtml)<br>
 14:00 [Juanito (71 años), el pastor que vive aislado a 4.000 metros de altura con sus nietos: "Aquí ni siquiera llegan las enfermedades. Somos felices con la tranquilidad"](https://www.elperiodico.com/es/economia/20260919/juanito-71-anos-pastor-4000-metros-altura-enfermedades-felices-dv-et-134428910)<br>
 13:52 [La actriz Carmen Machi recibe el Premio Nacional de Cinematografía 2026](https://www.elperiodico.com/es/fotos/ocio-y-cultura/actriz-carmen-machi-recibe-premio-134460912)<br>
 13:13 [Benidorm deja de liderar la oferta hotelera del Imserso en favor de Lloret de Mar, Puerto de la Cruz (Tenerife) y Salou](https://www.elperiodico.com/es/videos/economia/benidorm-deja-liderar-oferta-hotelera/134459671.shtml)<br>
