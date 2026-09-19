@@ -1,5 +1,428 @@
 [
   {
+    "title": "Algoritmos para leer el destino: la IA entra en el esoterismo tradicional de Corea del Sur",
+    "link": "https://www.elperiodico.com/es/videos/internacional/algoritmos-leer-destino-ia-entra/134459178.shtml",
+    "pubDate": "2026-09-19 12:51:27",
+    "category": "",
+    "description": "",
+    "topic": "гороскопи",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Surcoreanos protestan contra el cambio climático en Seúl",
+    "link": "https://www.elperiodico.com/es/videos/internacional/surcoreanos-protestan-cambio-climatico-seul/134458907.shtml",
+    "pubDate": "2026-09-19 12:42:46",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "El padre de la estudiante canaria Claudia Tacoronte acude al lugar del crimen en México",
+    "link": "https://www.elperiodico.com/es/videos/internacional/padre-estudiante-canaria-claudia-tacoronte/134458942.shtml",
+    "pubDate": "2026-09-19 12:42:10",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Lotería Nacional hoy: resultados y comprobar números premiados en el sorteo de este sábado 19 de septiembre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260919/loteria-nacional-sabado-hoy-resultados-comprobar-premiados-134458911",
+    "pubDate": "2026-09-19 12:42:00",
+    "category": "",
+    "description": "",
+    "topic": "лотереї",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Fiscalía pedirá 70 años de prisión para 'El Trompas', presunto asesino de la estudiante Claudia Tacoronte en México",
+    "link": "https://www.elperiodico.com/es/internacional/20260919/fiscalia-pedira-70-anos-prision-el-trompas-asesinato-claudia-tacoronte-134458194",
+    "pubDate": "2026-09-19 12:38:11",
+    "category": "",
+    "description": "<h2>Una jueza determina que existen elementos para empezar un proceso penal con el acusado, así que ordena la prisión preventiva </h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260918/albares-confirma-presunto-asesino-claudia-134440393\" target=\"_blank\">Albares confirma que 'El Trompas' habría confesado el asesinato de la española Claudia Tacoronte</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "В Україні зупинили першу контрабанду IPhone 18 Pro Max",
+    "link": "https://ua.korrespondent.net/ukraine/4913090-v-ukraini-zupynyly-pershu-kontrabandu-IPhone-18-Pro-Max",
+    "pubDate": "2026-09-19 12:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568366.jpg\">Львівські митники зафіксували перші спроби незаконного ввезення в Україну смартфонів iPhone 18 Pro Max. Два нові гаджети намагалися провезти без декларування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ed Sheeran regresa a los escenarios este sábado en medio de la polémica por Palestina y tras la renuncia de su banda",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260919/ed-sheeran-regresa-escenarios-sabado-polemica-palestina-renuncia-banda-134458470",
+    "pubDate": "2026-09-19 12:34:01",
+    "category": "",
+    "description": "<h2>La banda que debía acompañar al artista británico y el telonero Finneas renunciaron al tour en solidaridad con el el rapero Macklemore y se desconoce cómo Sheeran planea llevar adelante su espectáculo</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260916/peligro-gira-ed-sheeran-abandono-134342578\">En peligro la gira de Ed Sheeran tras el abandono de los teloneros por la polémica de los comentarios pro Palestina</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260917/polemica-gira-ed-sheeran-convierte-134384847\">La polémica de la gira de Ed Sheeran se convierte en una batalla de donaciones para \"la crisis humanitaria\" en Gaza</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jonathan Andic viajó a Ecuador por un libro que debía escribir la terapeuta y que había impulsado su padre",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/jonathan-andic-viajo-ecuador-libro/134458682.shtml",
+    "pubDate": "2026-09-19 12:33:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts emprende la precampaña de las elecciones municipales en Barcelona confrontando con Collboni: “Hay partido”",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/barcelona-elecciones-municipales-junts-jordi-marti-precampana-134457874",
+    "pubDate": "2026-09-19 12:33:08",
+    "category": "",
+    "description": "<h2 class=\"item\">Jordi Martí defiende que \"no hay nada decidido\" a ocho meses de la cita electoral y se postula como alternativa al gobierno \"débil\" del PSC</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260919/laure-vega-cup-candidata-elecciones-municipales-barcelona-pactos-psc-collboni-134434962\">Laure Vega: \"La CUP tiene claro que puede llegar a acuerdos con el PSC si es para mejorar la vida de la gente”</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Guardia Civil investiga el hallazgo de dos cadáveres con trajes de neopreno en la costa de Málaga",
+    "link": "https://www.elperiodico.com/es/sucesos/20260919/guardia-civil-investiga-hallazgo-cadaveres-134458636",
+    "pubDate": "2026-09-19 12:30:15",
+    "category": "",
+    "description": "<h2>Los cuerpos fueron localizados en dos puntos diferentes de la provincia con apenas 24 horas de diferencia y los agentes trabajan para identificar a los fallecidos</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Qué son las zonas naranjas y por qué proliferan en los polígonos del Baix Llobregat",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260919/zona-naranja-poligonos-baix-llobregat-mas-blau-aeropuerto-dv-loc-134311448",
+    "pubDate": "2026-09-19 12:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El elevado volumen de movilidad satura las principales arterias de la comarca</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260917/area-metropolitana-flexibiliza-exigencias-aparcamiento-134391814\">El Área Metropolitana flexibiliza las exigencias de aparcamiento para facilitar la vivienda asequible</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Shakira convierte Madrid en una pista de baile latino en el estreno de su residencia",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/shakira-convierte-madrid-pista-baile/134458364.shtml",
+    "pubDate": "2026-09-19 12:21:51",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб повідомив про удари по об’єктах РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4913087-henshtab-povidomyv-pro-udary-po-obiektakh-rf",
+    "pubDate": "2026-09-19 12:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568342.jpg\">Від початку повномасштабної війни українські військові знищили понад 50 тисяч артилерійських систем російської армії. У Генштабі назвали це результатом щоденної роботи Сил оборони.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Зоря – Динамо: які прогнози на матч",
+    "link": "https://ua.korrespondent.net/sport/4913073-zoria-dynamo-yaki-prohnozy-na-match",
+    "pubDate": "2026-09-19 12:15:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568285.jpg\">\r\nРазом із BETKING, стратегічним партнером УПЛ, пропонуємо розглянути варіанти ставок на матч чемпіонату України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Fin a una excepción histórica: los taxistas estarán obligados a abrocharse el cinturón a partir del 1 de octubre",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/excepcion-historica-taxistas-estaran-obligados/134458123.shtml",
+    "pubDate": "2026-09-19 12:13:17",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Toni Falgueras: \"Dije que no sería pregonero de la Mercè ni harto de vino pero que con mi hija Meritxell me atrevería\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/toni-falgueras-meritxell-celler-gelida-pregoneros-fiestas-merce-2026-barcelona-134338213",
+    "pubDate": "2026-09-19 12:01:04",
+    "category": "",
+    "description": "<h2>El bodeguero y su hija, sumiller y comunicadora, que pronunciarán el pregón de la fiestas de la Mercè el próximo 23 de septiembre, advierten de que el sector del vino catalán lo está pasando mal</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260722/pregonero-fiestas-merce-2026-barcelona-cartel-ciudad-invitada-132665106\">El bodeguero Antoni Falgueras será el pregonero de las fiestas de la Mercè 2026 de Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260912/quienes-son-antoni-meritxell-falgueras-pregoneros-merce-2026-134209831\">Quiénes son Antoni y Meritxell Falgueras, los pregoneros de La Mercè 2026</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Merz, ante unas elecciones cruciales en las que se juega su futuro político",
+    "link": "https://www.elperiodico.com/es/internacional/20260919/alemania-friedrich-merz-elecciones-cruciales-juega-futuro-politico-134458000",
+    "pubDate": "2026-09-19 12:01:04",
+    "category": "",
+    "description": "<h2>Las elecciones regionales en Mecklemburgo-Antepomerania y la ciudad-estado de Berlín se producen en un momento de máxima debilidad para el canciller</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gama Opel GSE, los eléctricos de Opel concebidos para los amantes de la conducción deportiva y el alto rendimiento",
+    "link": "https://www.elperiodico.com/es/motor/20260919/gama-opel-gse-electricos-opel-134417354",
+    "pubDate": "2026-09-19 12:01:04",
+    "category": "",
+    "description": "<h2>El Corsa GSE y el Mokka GSE se identifican por un diseño específico con detalles destacados tanto en el exterior como en el interior</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Entrevista con Toni y Meritxell Falgueras, pregoneros de la Mercè 2026",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/entrevista-toni-meritxell-falgueras-pregoneros-merce-2026-video/134308429.shtml",
+    "pubDate": "2026-09-19 11:59:57",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Mike James: “Era jugador del Barça”",
+    "link": "https://as.com/baloncesto/euroliga/mike-james-era-jugador-del-barca-f202609-n/",
+    "pubDate": "2026-09-19 11:59:30",
+    "category": "Baloncesto",
+    "description": "El escolta reconoce que lo tuvo totalmente hecho con el club azulgrana, aunque todo se rompió y acabó firmando con el Efes que entrena Pablo Laso.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Японії стартують XX Азійські ігри: що відомо про змагання",
+    "link": "https://ua.korrespondent.net/sport/4913085-u-yaponii-startuuit-XX-aziiski-ihry-scho-vidomo-pro-zmahannia",
+    "pubDate": "2026-09-19 11:59:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568330.jpg\">В японській Нагої офіційно відкривають XX Азійські ігри. У змаганнях візьмуть участь спортсмени з 45 країн і територій Азії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mercabarna volverá a abrir sus instalaciones a 2.000 corredores en una carrera por dentro del mercado mayorista de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/mercabarna-barcelona-carrera-mercados-134457122",
+    "pubDate": "2026-09-19 11:43:48",
+    "category": "",
+    "description": "<h2 class=\"item\">La competición se celebrará el 18 de octubre, contará con un gran almuerzo popular y habrá puestos abiertos para que el público descubra el día a día del espacio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260602/mercabarna-beneficio-neto-2025-10-6-millones-euros-ventas-productos-130950205\">Mercabarna cerró 2025 con un beneficio neto de 10,6 millones de euros, un 9,3% menos</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Молдові зафіксували дрони біля кордону з Україною",
+    "link": "https://ua.korrespondent.net/world/4913083-u-moldovi-zafiksuvaly-drony-bilia-kordonu-z-ukrainoui",
+    "pubDate": "2026-09-19 11:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568329.jpg\">Вранці 19 вересня кілька невідомих дронів залетіли в повітряний простір Молдови поблизу Одеської області. Один із них, імовірно, впав уже на території України.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Un hombre que hizo de chófer de Jonathan Andic en Quito avala la versión del móvil robado",
+    "link": "https://www.elperiodico.com/es/sucesos/20260919/hombre-chofer-jonathan-andic-quito-avala-version-movil-robado-134457157",
+    "pubDate": "2026-09-19 11:32:46",
+    "category": "",
+    "description": "<h2>El hijo del fundador de Mango cambió de terminal cuatro veces desde el 2021</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260919/jonathan-andic-viajo-ecuador-libro-terapeuta-impulso-padre-antes-morir-134445326\">Jonathan Andic viajó a Ecuador por un libro que debía escribir la terapeuta y que había impulsado su padre</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Laure Vega: \"La CUP tiene claro que puede llegar a acuerdos con el PSC si es para mejorar la vida de la gente”",
+    "link": "https://www.elperiodico.com/es/politica/20260919/laure-vega-cup-candidata-elecciones-municipales-barcelona-pactos-psc-collboni-134434962",
+    "pubDate": "2026-09-19 11:30:46",
+    "category": "",
+    "description": "<h2 class=\"item\">La candidata a las elecciones municipales se muestra crítica con el alcalde Jaume Collboni, a quien considera un \"vasallo de los que se creen amos\" de la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260623/barcelona-elecciones-municipales-2027-candidatos-partidos-131464483\">Barcelona completa el mosaico de candidatos a las elecciones municipales con la incógnita de Vox</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bale reaparece en Dubái en un partido del Madrid con un ‘look’ que las redes no han tardado en ensalzar",
+    "link": "https://as.com/baloncesto/videos/bale-reaparece-en-dubai-en-un-partido-del-madrid-con-un-look-que-las-redes-no-han-tardado-en-ensalzar-f202609-v/",
+    "pubDate": "2026-09-19 11:27:03",
+    "category": "Bale",
+    "description": "El galés fue captado por las cámaras durante el encuentro del Real Madrid en la Supercopa del Euroliga. Estuvo con Marcelo, su ex compañero, y lució un semblante que destacó en redes.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un bar de Barcelona ofrecerá gildas a 1 euro durante La Mercé",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/merce-barcelona-gildas-euro-bar-barbaritat-spritz-dv-loc-134380384",
+    "pubDate": "2026-09-19 11:25:23",
+    "category": "",
+    "description": "<h2>Una spritzería del Eixample organizará el Gildas Fest durante la fiesta mayor</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260917/buscador-conciertos-merce-2026-fecha-134359002\" >Buscador de los conciertos de la Mercè 2026 por fecha, horario y escenario</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260915/guia-merce-2026-barcelona-conciertos-actividades-programa-134308641\" >Guía de La Mercè 2026 en Barcelona: conciertos, actividades y programa</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Fin a una excepción histórica: los taxistas estarán obligados a abrocharse el cinturón a partir del 1 de octubre",
+    "link": "https://www.elperiodico.com/es/sociedad/20260919/taxis-cinturon-obligatorio-taxistas-barcelona-134456670",
+    "pubDate": "2026-09-19 11:24:06",
+    "category": "",
+    "description": "<h2 class=\"item\">El sector del taxi se divide entre quienes juzgan el cambio contraproducente en caso de tener que reaccionar frente a agresiones y robos y quienes priman la seguridad en caso de accidente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260919/barcelona-riders-trafico-infracciones-velocidad-casco-chaleco-auditoria-racc-134441578\">La mayoría de los ‘riders’ circula en Barcelona con vehículos modificados y sin casco ni chaleco reflectante</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Roban en Alicante un tráiler repleto de ropa de Zara tras parar el vehículo haciéndose pasar por policías",
+    "link": "https://www.elperiodico.com/es/sucesos/20260919/asaltan-camion-cargado-ropa-zara-policias-alicante-134456998",
+    "pubDate": "2026-09-19 11:22:41",
+    "category": "",
+    "description": "<h2 class=\"item\">Los atracadores encañonaron al camionero y lo bajaron a la fuerza de la cabina, tras lo cual se llevaron el vehículo con las prendas, valoradas en casi un millón de euros</h2><h2 class=\"item\">La víctima fue asaltada cuando estaba entrando en el polígono El Espartal, a la entrada de Alicante por la autovía de Madrid</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Бернем попросить Трампа передати Україні Patriot",
+    "link": "https://ua.korrespondent.net/world/4913080-bernem-poprosyt-trampa-peredaty-ukraini-Patriot",
+    "pubDate": "2026-09-19 11:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568317.jpg\">Прем’єр Британії Енді Бернем планує зустрітися з Дональдом Трампом у Нью-Йорку. Одне з головних питань - передача Україні додаткових ракет-перехоплювачів Patriot перед зимою.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ERC resucita el derecho a decidir y reivindica el desafío de Escocia, Gales e Irlanda del Norte al Reino Unido",
+    "link": "https://www.elperiodico.com/es/politica/20260919/erc-diana-riba-derecho-decidir-cardiff-escocia-gales-irlanda-134401588",
+    "pubDate": "2026-09-19 11:20:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Los republicanos abogan por imitar el pacto de Cardiff con una alianza con EH Bildu y el BNG</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260914/lideres-escocia-gales-irlanda-independencia-134273497\" target=\"_blank\">Los líderes de Escocia, Gales e Irlanda del Norte desafían a Londres y aceleran sus planes para la independencia</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260916/oriol-junqueras-arnaldo-otegi-alianza-erc-bildu-extrema-derecha-134348710\" target=\"_blank\">Junqueras y Otegi renuevan su alianza con el foco puesto en la lucha contra la extrema derecha</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260915/gabriel-rufian-erc-frente-izquierdas-descarta-candidato-catalunya-134317615\" target=\"_blank\">Rufián se descarta para liderar una lista estatal de izquierdas y limita su papel a candidato en Catalunya</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido por estafar más de 350.000 euros a más de 40 personas mayores o con discapacidad en Granada",
+    "link": "https://www.elperiodico.com/es/sucesos/20260919/detenido-estafar-350000-euros-40-personas-mayores-discapacidad-granada-134456671",
+    "pubDate": "2026-09-19 11:06:44",
+    "category": "",
+    "description": "<h2>El detenido se presentaba ante las víctimas como comercial de distintas empresas, con apariencia educada, correcta y bien vestida, lo que le permitía generar confianza y acceder a los domicilios sin dificultad.</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Куба знову без електрики: що сталося з енергосистемою острова",
+    "link": "https://ua.korrespondent.net/world/4913078-kuba-znovu-bez-elektryky-scho-stalosia-z-enerhosystemoui-ostrova",
+    "pubDate": "2026-09-19 11:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568296.jpg\">На Кубі стався масштабний колапс енергосистеми - мільйони людей залишилися без електрики. Влада почала відновлення мережі, але повністю повернути світло поки не вдалося.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sesenta años de Albert Om",
+    "link": "https://www.elperiodico.com/es/opinion/20260919/sesenta-anos-albert-om-articulo-jordi-punti-134440647",
+    "pubDate": "2026-09-19 11:00:34",
+    "category": "",
+    "description": "<h2>No conozco a muchas personas de perfil público que, como él, hayan medido tan bien cada paso de su carrera, ya sea como periodista en la radio, en la tele o escribiendo artículos y libros de matiz más personal</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Laura Alzamora releva a Manuel Domínguez como candidata de los Comuns de L'Hospitalet a las municipales de 2027",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/laura-alzamora-releva-manuel-dominguez-candidata-comuns-lhospitalet-municipales-2027-134442489",
+    "pubDate": "2026-09-19 11:00:33",
+    "category": "",
+    "description": "<h2>La formación En Comú Podem inicia el proceso para configurar su lista electoral mientras mantiene conversaciones con Podem para concurrir juntos</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/hospitalet/20230217/manuel-dominguez-propuesto-liderar-candidatura-hospitalent-en-comu-podem-elecciones-municipales-2023-83160189\" target=\"_blank\">Manuel Domínguez, propuesto para liderar la candidatura de L'Hospitalet En Comú Podem en las municipales</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona empieza a repavimentar la plaza de la Palmera tras renovar el área de juegos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/barcelona-obras-plaza-palmera-verneda-pau-134456238",
+    "pubDate": "2026-09-19 10:57:42",
+    "category": "",
+    "description": "<h2 class=\"item\">La segunda fase de la obra cuesta un millón de euros e incluye cambios en bancos y pivotes del espacio, situado en el distrito de Sant Martí</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260913/83-pisos-publicos-mayores-salut-5-millones-134235657\">Barcelona retoma las obras de los pisos públicos para mayores de la Salut tras dos años de parón y eleva el presupuesto en 5 millones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laporta pide a los compromisarios que autoricen un mayor endeudamiento del Barça: \"Tenemos que acabar el Estadi\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260919/laporta-pide-compromisarios-autoricen-mayor-134455587",
+    "pubDate": "2026-09-19 10:53:42",
+    "category": "",
+    "description": "<h2>El presidente expone que se necesitan 300 millones más para acabar las obras, sin el Palau Blaugrana, y 210 millones para tener liquidez</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зоря – Динамо: прев’ю матчу сьомого туру УПЛ",
+    "link": "https://ua.korrespondent.net/sport/4913069-zoria-dynamo-prevui-matchu-somoho-turu-upl",
+    "pubDate": "2026-09-19 10:51:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568283.jpg\">\r\nBETKING, стратегічни1 партнер УПЛ, пропонує анонс поєдинку чемпіонату України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Google виявила небезпечний збій Gemini під час тесту",
+    "link": "https://ua.korrespondent.net/business/web/4913075-Google-vyiavyla-nebezpechnyi-zbii-Gemini-pid-chas-testu",
+    "pubDate": "2026-09-19 10:43:00",
+    "category": "Інтернет та IT",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568295.jpg\">Під час тестування Gemini отримала несанкціонований доступ до трьох зовнішніх комп’ютерних систем. У Google кажуть, що ШІ помилково сприйняла їх за частину контрольованого тестового середовища.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las claves del acuerdo de Trump sobre Groenlandia: control \"permanente\" de EEUU y veto a China y Rusia en la isla",
+    "link": "https://www.elperiodico.com/es/internacional/20260919/claves-acuerdo-trump-groenlandia-presencia-permanente-eeuu-veto-china-rusia-134456131",
+    "pubDate": "2026-09-19 10:38:33",
+    "category": "",
+    "description": "<h2>Washington tendrá capacidad para \"hacer lo necesario\" para garantizar la seguridad de este territorio estratégico, según aseguran fuentes conocedoras del pacto, cuyo texto íntegro no se ha divulgado</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Laura Cuesta, profesora, sobre el uso del móvil por los niños: \"Establece unos espacios libres de pantallas en casa\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260919/laura-cuesta-profesora-pantallas-moviles-casa-dv-121677727",
+    "pubDate": "2026-09-19 10:35:00",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Los menores aprenden por imitación y, por ello, debemos ser los primeros referentes\", enfatiza Laura Cuesta</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250906/maribel-tarres-directora-instituto-prohibicion-moviles-vuelta-al-cole-terrassa-121274410\" >Maribel Tarrès, directora de instituto: \"Me gustaría que Educació retirara la prohibición total de los móviles\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Атака РФ: в Одесі без світла 178 тисяч споживачів",
+    "link": "https://ua.korrespondent.net/city/odessa/4913071-ataka-rf-v-odesi-bez-svitla-178-tysiach-spozhyvachiv",
+    "pubDate": "2026-09-19 10:24:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568281.jpg\">Російські війська вночі знову масовано атакували Одещину. Пошкоджено житлові будинки, адмінбудівлю та освітній заклад, а в Одесі через удари виникли масштабні перебої з електропостачанням.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El primer concierto de Shakira en Madrid en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/primer-concierto-shakira-madrid-imagenes-134455655",
+    "pubDate": "2026-09-19 10:19:23",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Detenido en Barcelona un fugitivo buscado por Suiza por tráfico de drogas a gran escala",
+    "link": "https://www.elperiodico.com/es/barcelona/20260919/detenido-barcelona-fugitivo-buscado-suiza-134455295",
+    "pubDate": "2026-09-19 10:11:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El arrestado, que tiene pendiente cumplir una pena de 20 años de prisión, forma parte presuntamente de una organización dedicada a la distribución de grandes cantidades de cannabis que facturó más de dos millones de francos suizos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260913/detenidas-seis-personas-badia-valles-tiroteo-plantacion-marihuana-134232900\">Detenidas seis personas en Badia del Vallès implicadas con un tiroteo y tráfico de drogas</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дрони зупинили роботу аеропорту Люксембурга",
+    "link": "https://ua.korrespondent.net/world/4913067-drony-zupynyly-robotu-aeroportu-luiksemburha",
+    "pubDate": "2026-09-19 10:05:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568270.jpg\">Аеропорт Люксембурга у п’ятницю ввечері тимчасово призупинив польоти після появи невідомих дронів поблизу летовища та над ним. Вранці роботу відновили.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ministros 'a l'ast'",
+    "link": "https://www.elperiodico.com/es/opinion/20260919/ministros-last-pedro-sanchez-marlaska-articulo-valenti-puig-134440092",
+    "pubDate": "2026-09-19 10:00:23",
+    "category": "",
+    "description": "<h2>Por exigencias del guion, Pedro Sánchez asó a la vicepresidenta María Jesús Montero y ahora tiene ensartado al ministro del Interior, el juez Marlaska</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260918/gobierno-calcula-quedan-ceuta-10-134426685\">El Gobierno reconoce que al menos 3.000 migrantes siguen en las calles de Ceuta tras la tensión en el traslado al puerto</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere a los 83 años Sandro Mazzola, legendario futbolista del Inter y verdugo del Madrid de Di Stéfano y Puskas en la Copa de Europa",
+    "link": "https://www.elperiodico.com/es/deportes/20260919/muere-83-anos-sandro-mazzola-134455043",
+    "pubDate": "2026-09-19 10:00:11",
+    "category": "",
+    "description": "<h2>El extraordinario exfutbolista italiano falleció la noche del viernes</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Cortadas la R11 y RG1 de Rodalies entre Figueres y Vilamalla (Girona) por un atropello",
     "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260919/cortadas-r11-rg1-rodalies-figueres-vilamalla-girona-134455075",
     "pubDate": "2026-09-19 09:56:03",
@@ -16,6 +439,15 @@
     "description": "<h2 class=\"item\">La Generalitat decreta servicios mínimos ante la convocatoria del comité de empresa de los autobuses de TMB por las desavenencias en las negociaciones por un nuevo convenio laboral</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260917/barcelona-autobuses-tmb-huelga-22-septiembre-134399833\">Convocada una huelga de siete horas en los autobuses de Barcelona el 22 de septiembre</a></h2>",
     "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Вірус Західного Нілу в Європі: в Італії понад 650 випадків",
+    "link": "https://ua.korrespondent.net/world/4913065-virus-zakhidnoho-nilu-v-yevropi-v-italii-ponad-650-vypadkiv",
+    "pubDate": "2026-09-19 09:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568260.jpg\">В Італії у 2026 році виявили понад 650 випадків зараження вірусом Західного Нілу. Це близько половини всіх випадків, зафіксованих у Європі.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Arrecian las críticas por las maternidades subrogadas de famosas feministas: de Lady Gaga a Lena Dunham, Lily Collins y Rebel Wilson",
@@ -52,6 +484,15 @@
     "description": "<h2 class=\"item\">El 'paddock' del Mundial de MotoGP sigue elogiando, no solo la manera de pilotar, de correr, de ganar, de remontar, de sobrevivir de Marc Márquez (Ducati), también observa con sumo detalle su comportamiento y decisiones fuera de la pista donde, a menudo, es más elogiado que cuando corre.</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп не планує зустріч із Зеленським у Нью-Йорку",
+    "link": "https://ua.korrespondent.net/world/4913063-tramp-ne-planuie-zustrich-iz-zelenskym-u-nui-yorku",
+    "pubDate": "2026-09-19 09:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568259.jpg\">Зустріч Дональда Трампа та Володимира Зеленського наразі не зазначена у графіку двосторонніх переговорів президента США під час його візиту до Нью-Йорка.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Un dolmen de 5.000 años sobrevive entre chalets en el Empordà",
@@ -117,6 +558,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Атака РФ по Харківщині: пятеро загиблих, 15 поранених",
+    "link": "https://ua.korrespondent.net/city/kharkov/4913057-ataka-rf-po-kharkivschyni-piatero-zahyblykh-15-poranenykh",
+    "pubDate": "2026-09-19 08:49:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568239.jpg\">За минулу добу російські війська атакували 15 населених пунктів Харківщини. Загинули п’ятеро людей, ще 15 отримали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Precio de la gasolina y diésel hoy, 19 de septiembre en España: consulta el precio de los carburantes",
     "link": "https://www.elperiodico.com/es/economia/20260919/precio-gasolina-diesel-hoy-19-septiembre-dv-134453832",
     "pubDate": "2026-09-19 08:48:00",
@@ -151,6 +601,15 @@
     "description": "<h2>La primera ministra danesa, Mette Frederiksen, asegura que el pacto garantiza la soberanía de su país y el derecho a la autodeterminación del pueblo groenlandés ante el acuerdo con Estados Unidos</h2>",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Лавров і Рубіо обговорять Україну в ООН",
+    "link": "https://ua.korrespondent.net/world/4913055-lavrov-i-rubio-obhovoriat-ukrainu-v-oon",
+    "pubDate": "2026-09-19 08:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568230.jpg\">Сергій Лавров і Марко Рубіо можуть провести зустріч у Нью-Йорку під час Генасамблеї ООН. У Москві вже назвали Україну однією з ключових тем.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Última hora de la Inteligencia Artificial: seguridad, ciberataques, reacciones y opiniones de expertos, en directo",
@@ -513,6 +972,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "Golden Owl, la tecnológica que sacó a la luz la trastienda del asalto a Ceuta",
+    "link": "https://www.elperiodico.com/es/economia/20260919/golden-owl-tecnologica-saco-luz-134451197",
+    "pubDate": "2026-09-19 06:00:43",
+    "category": "",
+    "description": "<h2>La ‘startup’ alicantina demuestra que la información «abierta» es clave para las estrategias de defensa y empresa</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Melody celebra un cuarto de siglo en la música con el recuerdo amargo de Eurovisión: \"No reniego de 'Esa Diva' y estará dentro del 'setlist' de mis conciertos de por vida\"",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260919/melody-celebra-cuarto-siglo-musica-134394402",
     "pubDate": "2026-09-19 06:00:41",
@@ -574,6 +1042,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568131.jpg\">Військові США збиралися висадитися на китайське судно, яке нібито перевозило компоненти ядерної зброї. Як з'ясувалося, ШІ неправильно визначив характер вантажу.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Eduard Sola, guionista y escritor: \"Hemos de luchar para que el sexo salga de la zona oscura\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260919/eduard-sola-libro-nido-entrevista-134336721",
+    "pubDate": "2026-09-19 04:50:32",
+    "category": "",
+    "description": "<h2>Tras ganar un Goya por 'Casa en llamas', dos Gaudí y dos Feroz y coescribir la serie 'Querer' con Alauda Ruiz de Azúa, publica su primera novela, 'El nido'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Україна не має контрактів на купівлю ракет Patriot",
