@@ -1,8 +1,9 @@
-# News for 2026-09-19 23:00
+# News for 2026-09-19 23:35
 
 Previous day: [2026-09-18](./data/2026-09-18.md)
 
 ## ua.korrespondent.net
+23:20 [У будинку екскомбрига 155 ОМБР сталися вибухи і пожежа - ЗМІ](https://ua.korrespondent.net/ukraine/4913189-u-budynku-ekskombryha-155-ombr-stalysia-vybukhy-i-pozhezha-zmi)<br>
 20:28 [Удар РФ по ТЦ у Дніпрі: зросло число постраждалих](https://ua.korrespondent.net/city/dnepr/4913164-udar-rf-po-tts-u-dnipri-zroslo-chyslo-postrazhdalykh)<br>
 19:39 [НБУ десятий тиждень поспіль продає понад мільярд доларів](https://ua.korrespondent.net/ukraine/4913156-nbu-desiatyi-tyzhden-pospil-prodaie-ponad-miliard-dolariv)<br>
 19:16 [СБУ знищила Герань-5 новим дроном-перехоплювачем](https://ua.korrespondent.net/ukraine/4913152-sbu-znyschyla-heran-5-novym-dronom-perekhopluivachem)<br>
@@ -18,6 +19,7 @@ Previous day: [2026-09-18](./data/2026-09-18.md)
 02:57 [Вибух біля ТЦК на Львівщині: затримано двох чоловіків](https://ua.korrespondent.net/ukraine/4913030-vybukh-bilia-ttsk-na-lvivschyni-zatrymano-dvokh-cholovikiv)<br>
 
 ## as.com
+23:23 [Joventut - Barcelona: horario, TV y dónde ver la final de la Supercopa Endesa 2026](https://as.com/baloncesto/acb/joventut-barcelona-horario-tv-y-donde-ver-la-final-de-la-supercopa-endesa-2026-f202609-n/)<br>
 22:51 [Pedro Martínez: “Lo que veo me gusta más que la victoria”](https://as.com/baloncesto/euroliga/pedro-martinez-lo-que-veo-me-gusta-mas-que-la-victoria-f202609-n/)<br>
 22:28 [Luces y sombras de los fichajes del Madrid](https://as.com/baloncesto/euroliga/luces-y-sombras-de-los-fichajes-del-madrid-f202609-n/)<br>
 22:28 [Resumen del Olympiacos vs. Real Madrid, final de la Supercopa de Euroliga](https://as.com/videos/euroliga/resumen-del-olympiacos-vs-real-madrid-final-de-la-supercopa-de-euroliga-f202609-v/)<br>
