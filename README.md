@@ -1,4 +1,4 @@
-# News for 2026-09-20 14:19
+# News for 2026-09-20 16:09
 
 Previous day: [2026-09-19](./data/2026-09-19.md)
 
@@ -12,6 +12,10 @@ Previous day: [2026-09-19](./data/2026-09-19.md)
 09:03 [Derbi ochentero para dirimir el campeón](https://as.com/baloncesto/acb/derbi-ochentero-para-dirimir-el-campeon-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:37 [Arqueólogos hallan nuevas pruebas que podrían confirmar la ubicación del sarcófago de Nefertiti cerca de la tumba de Tutankamón](https://www.elperiodico.com/es/sociedad/20260920/nefertiti-antiguo-egipto-tutankamon-arqueologos-nuevas-pruebas-dv-134474054)<br>
+15:15 [¿Cuándo es la próxima Luna llena? Día y hora para ver la Luna de la cosecha](https://www.elperiodico.com/es/ciencia/20260920/luna-llena-septiembre-2026-cuando-dia-hora-cosecha-dv-134381596)<br>
+15:11 [La estadounidense Lo Colby gana el mayor certamen de belleza para mujeres transgénero](https://www.elperiodico.com/es/gente/20260920/estadounidense-lo-colby-gana-mayor-certamen-belleza-mujeres-transgenero-134489460)<br>
+14:20 [Purificación, madre de 7 hijos, cambia una habitación en Madrid por una casa en un pueblo extremeño: "Estábamos como sardinas en lata"](https://www.elperiodico.com/es/economia/20260920/madre-hijos-habitacion-madrid-casa-pueblo-ayuda-fundacion-purificacion-dv-et-134276966)<br>
 13:06 [Abren cuatro unidades de memoria en Gràcia para personas derivadas del CAP](https://www.elperiodico.com/es/barcelona/20260920/abren-cuatro-unidades-memoria-gracia-cap-alzheimer-134486408)<br>
 12:48 [Andrea Suárez, actor porno: "En diez años puedo comprarme dos o tres pisos"](https://www.elperiodico.com/es/gente/20260920/andrea-suarez-actor-porno-diez-anos-puedo-comprarme-dos-tres-pisos-134486166)<br>
 12:01 [Un paciente con una malformación vascular en la lengua: "A veces se hincha y sangra; es como un súper dolor de muelas"](https://www.elperiodico.com/es/sanidad/20260920/paciente-malformacion-vascular-lengua-veces-hincha-sangra-can-ruti-134334312)<br>

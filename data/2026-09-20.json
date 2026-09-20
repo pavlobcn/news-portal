@@ -1,5 +1,221 @@
 [
   {
+    "title": "Más de mil personas se manifiestan en Ceuta hasta el Tarajal para exigir la protección de su territorio fronterizo",
+    "link": "https://www.elperiodico.com/es/videos/internacional/mil-personas-manifiestan-ceuta-tarajal/134490462.shtml",
+    "pubDate": "2026-09-20 15:54:16",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Más de mil personas se manifiestan en Ceuta para exigir la protección de su territorio fronterizo",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/mil-personas-manifiestan-ceuta-exigir/134490532.shtml",
+    "pubDate": "2026-09-20 15:53:14",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Придністров’я провело голосування до держдуми РФ попри протест Молдови",
+    "link": "https://ua.korrespondent.net/world/4913268-prydnistrovia-provelo-holosuvannia-do-derzhdumy-rf-popry-protest-moldovy",
+    "pubDate": "2026-09-20 15:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569705.jpg\">Російські виборчі дільниці відкрили в невизнаному регіоні без погодження з конституційною владою Молдови.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "LaLiga: Atlético de Madrid - Real Madrid, en directo",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/laliga-atletico-madrid-real-madrid-134490157",
+    "pubDate": "2026-09-20 15:45:12",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Más de 200 entidades se manifiestan en Barcelona contra la ampliación del aeropuerto de El Prat",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/200-entidades-manifiestan-barcelona-ampliacion/134490023.shtml",
+    "pubDate": "2026-09-20 15:43:11",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Arqueólogos hallan nuevas pruebas que podrían confirmar la ubicación del sarcófago de Nefertiti cerca de la tumba de Tutankamón",
+    "link": "https://www.elperiodico.com/es/sociedad/20260920/nefertiti-antiguo-egipto-tutankamon-arqueologos-nuevas-pruebas-dv-134474054",
+    "pubDate": "2026-09-20 15:37:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Aunque fue una de las mujeres más famosas del antiguo Egipto, su cuerpo nunca ha sido hallado y el tesoro con el que supuestamente fue enterrada también es un gran misterio aún por descubrir</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Військових із російським корінням не допустили до бригади НАТО у Литві",
+    "link": "https://ua.korrespondent.net/world/4913265-viiskovykh-iz-rosiiskym-korinniam-ne-dopustyly-do-bryhady-nato-u-lytvi",
+    "pubDate": "2026-09-20 15:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569688.jpg\">Кілька військовослужбовців не пройшли перевірку безпеки через зв’язки з Росією та Білоруссю.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Acosta se corona en casa de KTM con una victoria incontestable",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/acosta-corona-casa-ktm-victoria-134489357",
+    "pubDate": "2026-09-20 15:27:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Ya no falta nadie. Todos los campeones están en el firmamento de MotoGP. Solo faltaba el niño murciano, eso, no podía ser más que murciano como tantos otros campeones de allí. Pedro Acosta ha ganado, por fin, su primer gran premio de MotoGP y lo ha hecho, hoy, a lo grande, a lo bestia, en casa de KTM con una KTM.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Queman una estelada colgada de la Torre des Baluard de Cadaqués, edificio protegido del siglo XII",
+    "link": "https://www.elperiodico.com/es/sociedad/20260920/queman-estelada-torre-baluard-cadaques-edificio-protegido-134489747",
+    "pubDate": "2026-09-20 15:25:16",
+    "category": "",
+    "description": "<h2>El Ayuntamiento ha condenado los hechos y ha señalado que es \"una falta de respeto muy grave hacia Cadaqués y hacia todos sus vecinos\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Barça confirma la lesión de Christensen, que estará \"las próximas semanas\" de baja",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/barca-confirma-lesion-christensen-estara-134489342",
+    "pubDate": "2026-09-20 15:24:35",
+    "category": "",
+    "description": "<h2>El central danés estará entre cuatro y seis semanas fuera del equipo tras lesionarse la noche del sábado en el Pizjuán</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Alguien va solo a un concierto de Shakira?",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260920/alguien-va-solo-concierto-shakira-jordi-bianciotto-134486983",
+    "pubDate": "2026-09-20 15:19:27",
+    "category": "",
+    "description": "<h2>Ir a un concierto sin compañía, porque el artista te gusta y a tus amigos y allegados les deja indiferentes, es un acto poco comprendido que choca con la actual concepción de la música en vivo como gran experiencia colectiva</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Cuándo es la próxima Luna llena? Día y hora para ver la Luna de la cosecha",
+    "link": "https://www.elperiodico.com/es/ciencia/20260920/luna-llena-septiembre-2026-cuando-dia-hora-cosecha-dv-134381596",
+    "pubDate": "2026-09-20 15:15:27",
+    "category": "",
+    "description": "<h2>El plenilunio de este mes llega al atardecer bajo el signo de Aires</h2><h2><a href=\"https://www.elperiodico.com/es/ciencia/20260918/luna-septiembre-2026-fases-cuarto-menguante-nueva-creciente-llena-dv-132724581\" >¿Qué Luna hay hoy? Así evoluciona el cielo nocturno en septiembre 2026</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Краматорськ потрапив під артилерійський удар РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4913263-kramatorsk-potrapyv-pid-artyleriiskyi-udar-rf",
+    "pubDate": "2026-09-20 15:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569672.jpg\">Унаслідок обстрілу загинула жінка 1956 року народження, ще один чоловік зазнав поранень.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sánchez promete \"todos los recursos\" para Ceuta y censura la \"oposición destructiva\" de Feijóo y Abascal",
+    "link": "https://www.elperiodico.com/es/videos/politica/sanchez-promete-recursos-ceuta-censura/134489579.shtml",
+    "pubDate": "2026-09-20 15:11:36",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La estadounidense Lo Colby gana el mayor certamen de belleza para mujeres transgénero",
+    "link": "https://www.elperiodico.com/es/gente/20260920/estadounidense-lo-colby-gana-mayor-certamen-belleza-mujeres-transgenero-134489460",
+    "pubDate": "2026-09-20 15:11:08",
+    "category": "",
+    "description": "<h2>\"Ahora mismo, en todo el mundo, las personas trans están bajo ataque\", sostuvo la ganadora, que considera importante mostrar sus historias</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El desafío independentista en el Reino Unido: más presión sobre Londres pero pocas perspectivas de éxito",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/desafio-independentista-reino-unido-mas-presion-londres-pocas-perspectivas-exito-134489372",
+    "pubDate": "2026-09-20 15:00:29",
+    "category": "",
+    "description": "<h2>La reunión de esta semana de los líderes de Escocia, Gales e Irlanda del Norte, ha lanzado un importante mensaje de advertencia a Londres y ha intensificado el debate sobre la celebración de referéndums de autodeterminación en un futuro no muy lejano</h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "У Голосіївському районі Києва упав дрон",
+    "link": "https://ua.korrespondent.net/city/kiev/4913261-u-holosiivskomu-raioni-kyieva-upav-dron",
+    "pubDate": "2026-09-20 14:59:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569653.jpg\">Попередньо, російський безпілотник упав в районі нежитлової забудови. Наслідки з'ясовують.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Illa renueva su apoyo incondicional a Sánchez: \"¡No estás solo, claro que no!\"",
+    "link": "https://www.elperiodico.com/es/politica/20260920/pedro-sanchez-salvador-illa-festa-rosa-no-estas-solo-134401821",
+    "pubDate": "2026-09-20 14:54:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El president se pone en modo electoral y reta al PP y a Vox: \"Os vamos a derrotar en cada elección\" </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260920/pedro-sanchez-salvador-illa-festa-rosa-feijoo-134401757\" target=\"_blank\">Sánchez promete \"todos los recursos\" para Ceuta y censura la \"oposición destructiva\" de Feijóo y Abascal</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260919/govern-dos-anos-mandato-conseller-dalmau-financiacion-catalunya-134460327\" target=\"_blank\">El Govern reivindica su dos primeros años y pide una nueva financiación para seguir \"transformando\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260920/lluisa-moret-psc-estado-animo-dar-batalla-ataque-sistematico-pedro-sanchez-134354000\">Lluïsa Moret: \"El estado de ánimo del PSC es el de dar batalla ante el ataque sistemático a Sánchez\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Саудівська Аравія отримає військову підтримку Туреччини",
+    "link": "https://ua.korrespondent.net/world/4913259-saudivska-araviia-otrymaie-viiskovu-pidtrymku-turechchyny",
+    "pubDate": "2026-09-20 14:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569652.jpg\">Анкара розглядає можливість приєднання до багатонаціональних військово-морських сил під керівництвом Саудівської Аравії для протидії загрозам судноплавству.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Netanyahu anuncia cierres y un despliegue militar en Cisjordania tras la muerte de un colono israelí en un tiroteo",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/netanyahu-anuncia-cierres-despliegue-militar-muerte-colono-israeli-tiroteo-134488516",
+    "pubDate": "2026-09-20 14:45:31",
+    "category": "",
+    "description": "<h2>Un palestino habría disparado desde un vehículo en marcha al grupo de personas entre los que se encontraba el fallecido</h2><h2>Tras varias horas fugado, el atacante fue arrestado</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260914/organizacion-israeli-btselem-denuncia-proyecto-eliminacion-palestinos-cisjordania-ocupada-134270142\" target=\"_blank\">Una organización israelí denuncia el \"proyecto de eliminación\" de los palestinos en la Cisjordania ocupada</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Feijóo reclama \"recuperar la protección de las fronteras y el prestigio del pasaporte español\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-reclama-recuperar-proteccion-fronteras/134488797.shtml",
+    "pubDate": "2026-09-20 14:36:06",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez afea a PP y Vox su oposición \"destructiva\" y que actúen con \"deslealtad\" con Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/sanchez-afea-pp-vox-oposicion/134488505.shtml",
+    "pubDate": "2026-09-20 14:29:03",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "КНДР запустила балістичну ракету в бік Японського моря",
+    "link": "https://ua.korrespondent.net/world/4913257-kndr-zapustyla-balistychnu-raketu-v-bik-yaponskoho-moria",
+    "pubDate": "2026-09-20 14:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569621.jpg\">Запуск відбувся після того, як Пхеньян відкинув резолюцію МАГАТЕ щодо своєї ядерної програми.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Purificación, madre de 7 hijos, cambia una habitación en Madrid por una casa en un pueblo extremeño: \"Estábamos como sardinas en lata\"",
+    "link": "https://www.elperiodico.com/es/economia/20260920/madre-hijos-habitacion-madrid-casa-pueblo-ayuda-fundacion-purificacion-dv-et-134276966",
+    "pubDate": "2026-09-20 14:20:57",
+    "category": "",
+    "description": "<h2>La mujer explica cómo ha sido la acogida de los habitantes del municipio: \"Todos me saludan, todos me ayudan. Estoy viviendo un sueño\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260902/anciano-cueva-serbia-aislado-ciudad-alimentacion-trabajo-barco-panta-dv-et-133712608\" >Panta, el hombre de 75 años que lleva 20 años viviendo aislado en una cueva: \"Aquí estoy mejor. No tienes que pagar la luz, no tienes que pagar el agua, no tienes que pagar nada. Y después está la libertad\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260729/manuel-tunel-comodidades-tele-dvd-adiccion-drogas-carcel-dv-et-132417752\" >Manuel vive en un túnel oculto desde hace meses: \"Lo primero, me aseguro de que no haya nadie dentro...\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Росіяни атакували евакуаційний пункт у Краматорську",
     "link": "https://ua.korrespondent.net/ukraine/4913255-rosiiany-atakuvaly-evakuatsiinyi-punkt-u-kramatorsku",
     "pubDate": "2026-09-20 14:11:00",
