@@ -1,5 +1,23 @@
 [
   {
+    "title": "В РФ оголосили попередні результати \"виборів\"",
+    "link": "https://ua.korrespondent.net/world/russia/4913338-v-rf-oholosyly-poperedni-rezultaty-vyboriv",
+    "pubDate": "2026-09-20 23:59:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570146.jpg\">Партія влади Єдина Росія передбачувано лідирує з 57% голосів на так званих \"виборах\" до Держдуми РФ.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "МЮ вирвав нічию з Фулгемом на останніх хвилинах",
+    "link": "https://ua.korrespondent.net/sport/football/4913311-mui-vyrvav-nichyui-z-fulhemom-na-ostannikh-khvylynakh",
+    "pubDate": "2026-09-20 23:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570014.jpg\">Манчестер Юнайтед зумів уникнути поразки в матчі проти Фулгема, вирвавши нічию на останніх хвилинах поєдинку.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Частина країн ЄС чекає посилення провокацій Росії",
     "link": "https://ua.korrespondent.net/world/4913336-chastyna-krain-yes-chekaie-posylennia-provokatsii-rosii",
     "pubDate": "2026-09-20 23:42:00",
@@ -18,6 +36,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Червона картка вирішила долю дербі: Атлетіко дотиснув Реал",
+    "link": "https://ua.korrespondent.net/sport/football/4913299-chervona-kartka-vyrishyla-dolui-derbi-atletiko-dotysnuv-real",
+    "pubDate": "2026-09-20 23:04:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569979.jpg\">Атлетіко скористався чисельною перевагою у другому таймі і завдав поразки Реалу в принциповому мадридському дербі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "ЗМІ дізналися, про що Трамп просив Зеленського",
     "link": "https://ua.korrespondent.net/world/worldabus/4913333-zmi-diznalysia-pro-scho-tramp-prosyv-zelenskoho",
     "pubDate": "2026-09-20 22:58:00",
@@ -25,6 +52,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570096.jpg\">Трамп \"неодноразово просив\" Зеленського припинити атаки на російські нафтопереробні заводи, заявило джерело Axios.",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Wildberries і Ozon мають нову проблему через атаки ЗСУ - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4913328-Wildberries-i-Ozon-mauit-novu-problemu-cherez-ataky-zsu-zmi",
+    "pubDate": "2026-09-20 22:35:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570080.jpg\">Російські маркетплейси зазнали цілого шквалу позовів з боку продавців; загалом через атаки постраждали понад 400 тисяч селлерів.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Laprovittola: “Sin duda que estuve hipermotivado por ser contra el Barça”",
