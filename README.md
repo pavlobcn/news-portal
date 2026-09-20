@@ -1,4 +1,4 @@
-# News for 2026-09-20 12:01
+# News for 2026-09-20 13:48
 
 Previous day: [2026-09-19](./data/2026-09-19.md)
 
@@ -7,10 +7,15 @@ Previous day: [2026-09-19](./data/2026-09-19.md)
 01:13 [У Вінниці жінка керувала авто під дією п'яти видів наркотиків](https://ua.korrespondent.net/ukraine/4913200-u-vinnytsi-zhinka-keruvala-avto-pid-diieui-piaty-vydiv-narkotykiv)<br>
 
 ## as.com
+12:01 [Sergio Llull se pone a 30](https://as.com/baloncesto/euroliga/sergio-llull-se-pone-a-30-f202609-n/)<br>
 09:03 [El Madrid, de concentración ‘forzosa’ en Abu Dabi](https://as.com/baloncesto/euroliga/el-madrid-de-concentracion-forzosa-en-abu-dabi-f202609-n/)<br>
 09:03 [Derbi ochentero para dirimir el campeón](https://as.com/baloncesto/acb/derbi-ochentero-para-dirimir-el-campeon-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:06 [Abren cuatro unidades de memoria en Gràcia para personas derivadas del CAP](https://www.elperiodico.com/es/barcelona/20260920/abren-cuatro-unidades-memoria-gracia-cap-alzheimer-134486408)<br>
+12:48 [Andrea Suárez, actor porno: "En diez años puedo comprarme dos o tres pisos"](https://www.elperiodico.com/es/gente/20260920/andrea-suarez-actor-porno-diez-anos-puedo-comprarme-dos-tres-pisos-134486166)<br>
+12:01 [Un paciente con una malformación vascular en la lengua: "A veces se hincha y sangra; es como un súper dolor de muelas"](https://www.elperiodico.com/es/sanidad/20260920/paciente-malformacion-vascular-lengua-veces-hincha-sangra-can-ruti-134334312)<br>
+12:01 [Andrea Carsetti, 30 años, fundador y CEO de Élite Strategic Consulting y de Syneris Advisory: "Barcelona, el lugar ideal para construir y quedarse"](https://www.elperiodico.com/es/barcelona/20260920/barcelona-entrevista-barcelona-global-andrea-carsetti-134441021)<br>
 11:39 [Una cirugía innovadora reduce un 80% las malformaciones vasculares más dolorosas: "No es solo una cuestión estética"](https://www.elperiodico.com/es/sanidad/20260920/cirugia-innovadora-tratar-malformaciones-vasculares-dolor-no-solo-cuestion-estetica-can-ruti-134274993)<br>
 10:30 [Laura Lobo, abogada, aclara qué pasa si un padre deja el seguro de vida a un solo hijo: "No tiene que repartirlo"](https://www.elperiodico.com/es/economia/20260920/seguro-vida-beneficiario-hijo-reparto-herencia-dv-134395144)<br>
 10:26 [Avance editorial del nuevo libro de Charles Spencer, 'El canto del cisne. Diana, mi hermana': "Había crecido con un claro objetivo en mente: casarse por amor"](https://www.elperiodico.com/es/gente/20260920/avance-editorial-nuevo-libro-charles-spencer-canto-cisne-diana-mi-hermana-134480959)<br>
