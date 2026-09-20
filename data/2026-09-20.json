@@ -1,5 +1,50 @@
 [
   {
+    "title": "Marc Casadó se retira con una lesión en el hombro en el Deportivo-Betis: \"Se me ha roto\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/marc-casado-retira-lesion-hombro-134498781",
+    "pubDate": "2026-09-20 19:58:01",
+    "category": "",
+    "description": "<h2 class=\"item\">El centrocampista cedido por el Barça al cuadro gallego tuvo que ser sustituido en el minuto 33 tras sufrir una mala caída. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран пригрозив США відповісти на нову атаку",
+    "link": "https://ua.korrespondent.net/world/4913308-iran-pryhrozyv-ssha-vidpovisty-na-novu-ataku",
+    "pubDate": "2026-09-20 19:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569941.jpg\">Дональд Трамп попередив, що Іран має укласти угоду зі Вашингтоном, інакше керівництво країни може бути знищене.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los Javis, en Donostia con 'La bola negra': \"Tenemos una necesidad de validación profunda\"",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/javis-donostia-bola-negra-necesidad/134498614.shtml",
+    "pubDate": "2026-09-20 19:38:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Con o sin Netanyahu, la suerte está echada",
+    "link": "https://www.elperiodico.com/es/opinion/20260920/con-o-sin-netanyahu-suerte-echada-articulo-sergi-sol-134498367",
+    "pubDate": "2026-09-20 19:35:26",
+    "category": "",
+    "description": "<h2>A finales de octubre, en las próximas elecciones en Israel, tal vez sepamos si Benjamin Netanyahu sigue al frente del Gobierno israelí o cede su trono</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп погодив військове використання тріумфальної арки",
+    "link": "https://ua.korrespondent.net/world/4913302-tramp-pohodyv-viiskove-vykorystannia-triumfalnoi-arky",
+    "pubDate": "2026-09-20 19:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569903.jpg\">У споруді заввишки близько 76 метрів планують розмістити засоби для застосування дронів і снайперських боєприпасів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Rajada de Mourinho: \"No quiero decir que esto estaba preparado, quiero creer que se equivocan\"",
     "link": "https://www.elperiodico.com/es/deportes/20260920/rajada-mourinho-real-madrid-atletico-134498412",
     "pubDate": "2026-09-20 19:29:13",
