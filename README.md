@@ -1,8 +1,9 @@
-# News for 2026-09-20 16:09
+# News for 2026-09-20 16:54
 
 Previous day: [2026-09-19](./data/2026-09-19.md)
 
 ## ua.korrespondent.net
+16:09 [Бундесвер отримав перший F-35 нового покоління](https://ua.korrespondent.net/world/4913271-bundesver-otrymav-pershyi-F-35-novoho-pokolinnia)<br>
 02:51 ["Флеш" оцінив новий перехоплювач реактивних БПЛА](https://ua.korrespondent.net/ukraine/4913204-flesh-otsinyv-novyi-perekhopluivach-reaktyvnykh-bpla)<br>
 01:13 [У Вінниці жінка керувала авто під дією п'яти видів наркотиків](https://ua.korrespondent.net/ukraine/4913200-u-vinnytsi-zhinka-keruvala-avto-pid-diieui-piaty-vydiv-narkotykiv)<br>
 
@@ -12,6 +13,7 @@ Previous day: [2026-09-19](./data/2026-09-19.md)
 09:03 [Derbi ochentero para dirimir el campeón](https://as.com/baloncesto/acb/derbi-ochentero-para-dirimir-el-campeon-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:34 [Tiempo en Catalunya mañana lunes: las temperaturas continúan subiendo y tocarán techo en Tarragona](https://www.elperiodico.com/es/tiempo/20260920/tiempo-cataluna-manana-lunes-21-septiembre-temperaturas-calor-dv-loc-134490447)<br>
 15:37 [Arqueólogos hallan nuevas pruebas que podrían confirmar la ubicación del sarcófago de Nefertiti cerca de la tumba de Tutankamón](https://www.elperiodico.com/es/sociedad/20260920/nefertiti-antiguo-egipto-tutankamon-arqueologos-nuevas-pruebas-dv-134474054)<br>
 15:15 [¿Cuándo es la próxima Luna llena? Día y hora para ver la Luna de la cosecha](https://www.elperiodico.com/es/ciencia/20260920/luna-llena-septiembre-2026-cuando-dia-hora-cosecha-dv-134381596)<br>
 15:11 [La estadounidense Lo Colby gana el mayor certamen de belleza para mujeres transgénero](https://www.elperiodico.com/es/gente/20260920/estadounidense-lo-colby-gana-mayor-certamen-belleza-mujeres-transgenero-134489460)<br>
