@@ -1,0 +1,47 @@
+[
+  {
+    "title": "У РФ скаржаться на масовану атаку БПЛА",
+    "link": "https://ua.korrespondent.net/world/russia/4913202-u-rf-skarzhatsia-na-masovanu-ataku-bpla",
+    "pubDate": "2026-09-20 02:23:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569016.jpg\">Одна з наймасовіших атак БПЛА тривала у суботу зранку і до вечора, а вночі поновилася. У ці дні в Росії відбуваються вибори до Держдуми.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЄС шукає для України додаткове фінансування",
+    "link": "https://ua.korrespondent.net/ukraine/4913196-yes-shukaie-dlia-ukrainy-dodatkove-finansuvannia",
+    "pubDate": "2026-09-20 01:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568953.png\">Європейські посадовці розраховують домогтися нових фінансових зобов'язань від держав за межами Євросоюзу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Вінниці жінка керувала авто під дією п'яти видів наркотиків",
+    "link": "https://ua.korrespondent.net/ukraine/4913200-u-vinnytsi-zhinka-keruvala-avto-pid-diieui-piaty-vydiv-narkotykiv",
+    "pubDate": "2026-09-20 01:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568985.jpg\">Інспектори зупинили автомобіль Renault Megane який виїхав на зустрічну смугу. Як виявилося, водійка була під дією п'яти видів наркотиків, а у салоні виявили ще один наркотик.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На Київщині через атаку РФ палає підприємство",
+    "link": "https://ua.korrespondent.net/ukraine/4913198-na-kyivschyni-cherez-ataku-rf-palaie-pidpryiemstvo",
+    "pubDate": "2026-09-20 00:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568969.jpg\">Інформація щодо постраждалих наразі не надходила. Наслідки ворожого удару ліквідовують рятувальники.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Обрано нового голову Військового комітету НАТО",
+    "link": "https://ua.korrespondent.net/world/4913186-obrano-novoho-holovu-viiskovoho-komitetu-nato",
+    "pubDate": "2026-09-20 00:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568888.jpg\">Генеральний інспектор Бундесверу Карстен Броєр очолить Військовий комітет НАТО в липні 2027 року. Він координуватиме позиції начальників генеральних штабів країн-членів НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  }
+]

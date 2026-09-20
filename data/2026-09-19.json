@@ -243,6 +243,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Коли мовчить зв'язок -  мовчить уся бригада. Зв'язківці просять допомоги",
+    "link": "https://ua.korrespondent.net/ukraine/4899843-koly-movchyt-zviazok-movchyt-usia-bryhada-zviazkivtsi-prosiat-dopomohy",
+    "pubDate": "2026-09-19 21:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4518135.jpg\">Бійцям взводу зв'язку батальйону управління 68 окремої єгерської бригади імені Олекси Довбуша терміново потрібен позашляховик для швидкого реагування.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-19 21:23:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Collboni anuncia una red de comercios asequibles para facilitar la compra de productos frescos en Nueva York",
     "link": "https://www.elperiodico.com/es/barcelona/20260919/collboni-anuncia-red-comercios-asequibles-134473141",
     "pubDate": "2026-09-19 21:21:59",
@@ -275,6 +293,15 @@
     "pubDate": "2026-09-19 21:16:44",
     "category": "",
     "description": "<h2>La resiliencia de los blancos les da una victoria de carácter pese a que el juego todavía no fluye en la cancha como en la pizarra del nuevo entrenador madridisra</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resultados de la Supercopa de la Euroliga: horarios, TV, partidos y eliminatorias",
+    "link": "https://as.com/baloncesto/euroliga/resultados-de-la-supercopa-de-la-euroliga-horarios-tv-partidos-y-eliminatorias-f202609-n/",
+    "pubDate": "2026-09-19 21:13:18",
+    "category": "Baloncesto",
+    "description": "El nuevo trofeo de la máxima competición continental se estrenó este viernes 18 de septiembre en el Eithad Arena de Abu Dabi.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -439,6 +466,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568738.jpg\">Російська влада заявила про проблеми в роботі системи онлайн-голосування в Москві. У Мосвиборчкомі пов'язали їх із \"атаками противника\".",
     "topic": "вибори (але не президента України чи США)",
     "topic_match_probability": 92
+  },
+  {
+    "title": "Supercopa Endesa 2026: cómo funciona, fechas, TV, partidos, horarios y participantes",
+    "link": "https://as.com/baloncesto/euroliga/supercopa-endesa-2026-como-funciona-fechas-tv-partidos-horarios-y-participantes-f202609-n/",
+    "pubDate": "2026-09-19 20:06:49",
+    "category": "Baloncesto",
+    "description": "El Valencia, el Barça, el Baskonia y el Joventut disputan este fin de semana en Badalona el primer título de la temporada en la ACB.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Sebastián La Rosa, experto en longevidad: \"Dormirte en dos minutos no es una buena señal; eso no habla de un descanso perfecto, sino de una deuda de sueño que tu cuerpo está intentando compensar\"",
