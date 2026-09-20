@@ -1,5 +1,230 @@
 [
   {
+    "title": "Rajada de Mourinho: \"No quiero decir que esto estaba preparado, quiero creer que se equivocan\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/rajada-mourinho-real-madrid-atletico-134498412",
+    "pubDate": "2026-09-20 19:29:13",
+    "category": "",
+    "description": "<h2>El portugués apareció en sala de prensa con un papel en el que se veían las imágenes de las dos rojas que reclama el Real Madrid a Romero y Kang Inn Lee</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ninja estrena en nuestro mercado la freidora de aire de cristal con doble cesta",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260920/ninja-estrena-freidora-aire-cristal-134498008",
+    "pubDate": "2026-09-20 19:25:32",
+    "category": "",
+    "description": "<h2>La nueva Crispi DualZone combina dos recipientes independientes de vidrio, funciones sincronizadas y ocho programas de cocción en un electrodoméstico de 7,6 litros</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Luis Merlo (60 años), sobre por qué lleva el apellido de su madre: “Viví toda mi adolescencia con mi abuelo Ismael Merlo. Fue idea suya\"",
+    "link": "https://www.elperiodico.com/es/gente/20260920/luis-merlo-vida-personal-apellido-materno-abuelo-ismael-dv-et-134304311",
+    "pubDate": "2026-09-20 19:20:44",
+    "category": "",
+    "description": "<h2>El actor de 'Aquí no hay quien viva' desgrana su vida personal en el plató de 'Cocina abierta de Joseba Arguiñano'</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20240830/luis-merlo-actor-entrevista-118227024\">Luis Merlo, actor: \"Me trato fatal. Soy poco condescendiente conmigo mismo\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Collboni reclama en Nueva York una alianza internacional para impulsar la vivienda asequible",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/collboni-reclama-nueva-york-alianza-134497526",
+    "pubDate": "2026-09-20 19:19:49",
+    "category": "",
+    "description": "<h2 class=\"item\">El alcalde de Barcelona propone extender la experiencia de la alianza europea 'Mayors for Housing' a otras grandes ciudades del mundo para hacer frente al encarecimiento de la vivienda y al desplazamiento de los vecinos de sus barrios</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Волейбол: Україна завершила виступ на Євро-2026",
+    "link": "https://ua.korrespondent.net/sport/other/4913285-voleibol-ukraina-zavershyla-vystup-na-yevro-2026",
+    "pubDate": "2026-09-20 19:16:00",
+    "category": "Інші",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569899.jpg\">У матчі 1/8 фіналу \"синьо-жовті\" не змогли нав’язати свою гру збірній Румунії і поступилися в трьох партіях.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La pastelería de Granollers con mejores reseñas en Google: \"Los mejores cruasanes de chocolate que jamás he probado\"",
+    "link": "https://www.elperiodico.com/es/barcelona/granollers/20260920/granollers-pasteles-pasteleria-el-raco-dv-loc-116166196",
+    "pubDate": "2026-09-20 19:14:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Una de las mejores panaderías de la capital del Vallès Oriental se encuentra en el corazón de la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/granollers/20250329/mejor-restaurante-granollers-tripadvisor-resenas-dv-loc-115640448\" >\"Es un festín de sabores\": los elogios al mejor restaurante de Granollers, según Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/granollers/20250321/bar-restaurante-granollers-tapas-ricas-dv-loc-115505051\" >\"Tapas variadas y muy ricas\": el bar de Granollers aclamado por sus tapas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alicia García, campeona de España de ‘freestyle’ en GRAVITEO A Coruña Xacobeo: «El ‘parkour’ es un 80% miedo y un 20% de técnica, lo importante es atreverse»",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/alicia-garcia-campeona-espana-freestyle-134497918",
+    "pubDate": "2026-09-20 19:09:58",
+    "category": "",
+    "description": "<h2>«Ha sido muy chulo competir con los mejores del país durante todo el fin de semana, la energía ha sido muy positiva»</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ядерні випробування КНДР роками провокували землетруси",
+    "link": "https://ua.korrespondent.net/world/4913296-yaderni-vyprobuvannia-kndr-rokamy-provokuvaly-zemletrusy",
+    "pubDate": "2026-09-20 19:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569878.jpg\">Дослідники проаналізували сейсмічні дані за 2008-2025 роки та виявили 1399 підземних поштовхів у районі гори Мантап.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Teufel estrena la Cinebar 22: sonido 5.1 con Dolby Atmos para salones de hasta 35 m²",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260920/teufel-estrena-cinebar-22-precios-134497535",
+    "pubDate": "2026-09-20 19:00:06",
+    "category": "",
+    "description": "<h2>La barra de sonido de Teufel llega al mercado con configuración 5.1 nativa, tecnología Dolby Atmos y la posibilidad de ampliarse a 7.1 mediante altavoces traseros opcionales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sobre (vivir) a la crianza - La debacle PISA",
+    "link": "https://www.elperiodico.com/es/videos/podcast/vivir-crianza-debacle-pisa/134420225.shtml",
+    "pubDate": "2026-09-20 19:00:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España da un repaso histórico a Chile: paliza en dobles y a las Finales de la Copa Davis",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/espana-da-repaso-historico-chile-134497459",
+    "pubDate": "2026-09-20 18:59:13",
+    "category": "",
+    "description": "<h2>Jaume Munar y Pedro Martínez cerraron la serie con una humillación en el dobles</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Карпати не втримали переможний рахунок проти Вереса",
+    "link": "https://ua.korrespondent.net/sport/football/4913297-karpaty-ne-vtrymaly-peremozhnyi-rakhunok-proty-veresa",
+    "pubDate": "2026-09-20 18:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569879.jpg\">Львівський клуб у меншості не зміг утримати переможний результат проти Вереса та задовольнився лише нічиєю.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así ha sido el recibimiento a Brad Pitt en su llegada a San Sebastián",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/sido-recibimiento-brad-pitt-llegada/134497204.shtml",
+    "pubDate": "2026-09-20 18:42:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія готує лікарні для поранених поблизу країн Балтії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4913292-rosiia-hotuie-likarni-dlia-poranenykh-poblyzu-krain-baltii-zmi",
+    "pubDate": "2026-09-20 18:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569858.jpg\">Експерти допускають, що підготовка місць може бути пов’язана не лише з війною проти України, а й із потенційною ескалацією Росії проти країн НАТО.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Herido un hombre por arma blanca en una pelea multitudinaria a la salida de una discoteca de Barcelona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260920/herido-hombre-arma-blanca-pelea-multitudinaria-salida-discoteca-barcelona-134496671",
+    "pubDate": "2026-09-20 18:36:09",
+    "category": "",
+    "description": "<h2>Un hombre de unos cuarenta años fue trasladado herido a un centro hospitalario tras la pelea pasadas las cuatro de la madrugada en la avenida de la Meridiana </h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Es bueno desayunar un plátano cada día? Esto es lo que le ocurre a tu cuerpo",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260920/desayunar-platano-cada-dia-bueno-dv-120566327",
+    "pubDate": "2026-09-20 18:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El plátano es un alimento saludable que supone un aporte de energía inmediato, si bien hay personas para las que puede resultar menos conveniente </h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ouigo pone fin a los billetes de 9 euros entre Barcelona y Madrid: viajar en tren costará más del doble de precio",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260920/ouigo-subida-billetes-tren-alta-velocidad-barcelona-madrid-dv-134334989",
+    "pubDate": "2026-09-20 18:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La compañía cambia su estrategia en la línea de alta velocidad más disputada de España</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260819/govern-entrada-trenes-ave-madrid-sagrera-barcelona-eix-transversal-ferroviari-133450803\" >El Govern plantea que los AVE de Madrid entren a Barcelona por la Sagrera</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260910/ferrocarril-acumula-caida-13-4-134134177\" >El uso del ferrocarril acumula una caída del 13,4 % hasta julio por la alta velocidad</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Колос у напруженому поєдинку здолав Кудрівку",
+    "link": "https://ua.korrespondent.net/sport/football/4913294-kolos-u-napruzhenomu-poiedynku-zdolav-kudrivku",
+    "pubDate": "2026-09-20 18:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569877.jpg\">У номінально виїзному поєдинку, що відбувся в Рівному, ковалівці у видовищній перестрілці здолали Кудрівку з рахунком 3:2.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Èric Besora, piloto de avión: \"Si el avión pesa mucho, podríamos no llegar a la velocidad que necesitamos para elevarlo\"",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260920/piloto-avion-peso-velocidad-despegue-eric-besora-dv-et-134338726",
+    "pubDate": "2026-09-20 18:26:33",
+    "category": "",
+    "description": "<h2>El comandante aéreo explica qué sucede cuando la aeronave supera el peso máximo en el momento de despegar</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260824/huelga-medicos-manifestaciones-horario-laboral-trabajo-piloto-ramon-valles-dv-et-133435194\" >Ramón Vallés piloto de avión con 60 años: \"Yo no acabo de entender cómo es posible que en el siglo XXI estemos así\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260822/ramon-valles-piloto-iberia-instagram-improbable-avion-combustible-dv-120840556\" >Ramon Vallès, piloto de avión: \"Es muy improbable que un avión salga con el depósito lleno\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las urnas hunden a la CDU de Merz, que encaja otra victoria de la ultraderecha y pierde la alcaldía de Berlín a favor de la Izquierda",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/ultraderecha-gana-elecciones-noreste-aleman-134496381",
+    "pubDate": "2026-09-20 18:22:37",
+    "category": "",
+    "description": "<h2>La Unión Cristianodemócrata del canciller queda en la cuerda floja del 5 % en Mecklemburgo-Antepomerania, donde la formación Alternativa para Alemania se ha alzado como primera fuerza</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'La bola negra', de Los Javis, gana el premio del público de TIFF 2026",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260920/bola-negra-javis-gana-premio-134496173",
+    "pubDate": "2026-09-20 18:22:28",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Sabrías qué hacer si tu compañero de ruta sufre un accidente?",
+    "link": "https://www.elperiodico.com/es/motor/20260920/sabrias-que-hacer-si-companero-ruta-sufre-accidente-134421984",
+    "pubDate": "2026-09-20 18:21:05",
+    "category": "",
+    "description": "<h2>Una formación de primeros auxilios para motoristas demuestra que unos conocimientos básicos y un pequeño botiquín adecuado pueden ser decisivos durante los minutos que transcurren hasta la llegada de los servicios de emergencia</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "НАТО проводить навчання у Балтійському морі",
+    "link": "https://ua.korrespondent.net/world/4913290-nato-provodyt-navchannia-u-baltiiskomu-mori",
+    "pubDate": "2026-09-20 18:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569839.jpg\">Під час навчань Silver Wotan військові Німеччини та Швеції відпрацьовують дії на суші, морі та у повітрі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Festival B concluye con más de 35.000 asistentes y un 85% de público local",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260920/festival-b-concluye-35-000-134495639",
+    "pubDate": "2026-09-20 18:18:55",
+    "category": "",
+    "description": "<h2 class=\"item\">La 12.ª edición del festival se ha celebrado durante tres días en el Parc del Fòrum de Barcelona, con una cuarentena de artistas como Guitarricadelafuente, Rusowsky, Yung Beef y Mushka</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mourinho tampoco era la solución",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/atletico-real-madrid-laliga-resumen-resultado-134496132",
+    "pubDate": "2026-09-20 18:18:46",
+    "category": "",
+    "description": "<h2>La victoria del Atlético con goles de Grimaldo y Jonathan David confirma que el problema del Real Madrid trasciende a los banquillos y escala a los despachos </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "A 18 minutos de Vilanova: el pueblo con un castillo medieval, rutas y gran tradición vinícola",
     "link": "https://www.elperiodico.com/es/catalunya/20260920/canyelles-pueblo-garraf-cataluna-vilanova-i-la-geltru-dv-loc-128060026",
     "pubDate": "2026-09-20 18:15:00",
@@ -1690,6 +1915,15 @@
     "description": "<h2>La viceprimera secretaria de los socialistas catalanes asegura que presentarán más candidaturas en las municipales de 2027 y que no hay preocupación en el partido por cuándo serán las elecciones generales </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260918/catalunya-500-jueces-salvador-illa-felix-bolanos-50-becas-magistrados-catalanes-134418829\">Catalunya acogerá la formación de 500 nuevos jueces y convocará 50 becas para que haya más magistrados catalanes</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260915/govern-salvador-illa-6-pib-educacion-aprobacion-financiacion-crecimiento-economico-calendario-progresiva-134302655\">El Govern prevé que el 6% del PIB en educación se alcance de forma \"progresiva\" pero no concreta calendario</a></h2>",
     "topic": "політика",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Anna Tarrés: \"Me siento más pez en el agua en la piscina que haciendo política\"",
+    "link": "https://www.elperiodico.com/es/politica/20260920/anna-tarres-natacion-sincronizada-diputada-junts-per-catalunya-seleccion-espanola-juegos-olimpicos-china-130229856",
+    "pubDate": "2026-09-20 06:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/segunda-vida-politica-125494092-rm/index.html\">EL PERIÓDICO entrevista a políticos que han dejado la primera línea para descubrir a qué se dedican y cómo se han reinventado</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "EL PERIÓDICO amplía su liderazgo en Catalunya",

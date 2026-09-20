@@ -1,8 +1,9 @@
-# News for 2026-09-20 18:20
+# News for 2026-09-20 19:30
 
 Previous day: [2026-09-19](./data/2026-09-19.md)
 
 ## ua.korrespondent.net
+19:02 [Ядерні випробування КНДР роками провокували землетруси](https://ua.korrespondent.net/world/4913296-yaderni-vyprobuvannia-kndr-rokamy-provokuvaly-zemletrusy)<br>
 17:59 [Свята 21 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4913273-sviata-21-veresnia-2026-roku-istoriia-tradytsii)<br>
 17:59 [Росіяни вдарили по маршрутці у Херсоні](https://ua.korrespondent.net/ukraine/4913287-rosiiany-vdaryly-po-marshruttsi-u-khersoni)<br>
 17:24 [У Святошинському районі Києва постраждала жінка через атаку БпЛА](https://ua.korrespondent.net/city/kiev/4913282-u-sviatoshynskomu-raioni-kyieva-postrazhdala-zhinka-cherez-ataku-bpla)<br>
@@ -18,6 +19,12 @@ Previous day: [2026-09-19](./data/2026-09-19.md)
 09:03 [Derbi ochentero para dirimir el campeón](https://as.com/baloncesto/acb/derbi-ochentero-para-dirimir-el-campeon-f202609-n/)<br>
 
 ## www.elperiodico.com
+19:00 [Teufel estrena la Cinebar 22: sonido 5.1 con Dolby Atmos para salones de hasta 35 m²](https://www.elperiodico.com/es/tecnologia/20260920/teufel-estrena-cinebar-22-precios-134497535)<br>
+19:00 [Sobre (vivir) a la crianza - La debacle PISA](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-debacle-pisa/134420225.shtml)<br>
+18:42 [Así ha sido el recibimiento a Brad Pitt en su llegada a San Sebastián](https://www.elperiodico.com/es/videos/ocio-y-cultura/sido-recibimiento-brad-pitt-llegada/134497204.shtml)<br>
+18:30 [Ouigo pone fin a los billetes de 9 euros entre Barcelona y Madrid: viajar en tren costará más del doble de precio](https://www.elperiodico.com/es/trafico-y-transportes/20260920/ouigo-subida-billetes-tren-alta-velocidad-barcelona-madrid-dv-134334989)<br>
+18:26 [Èric Besora, piloto de avión: "Si el avión pesa mucho, podríamos no llegar a la velocidad que necesitamos para elevarlo"](https://www.elperiodico.com/es/trafico-y-transportes/20260920/piloto-avion-peso-velocidad-despegue-eric-besora-dv-et-134338726)<br>
+18:22 ['La bola negra', de Los Javis, gana el premio del público de TIFF 2026](https://www.elperiodico.com/es/ocio-y-cultura/20260920/bola-negra-javis-gana-premio-134496173)<br>
 18:15 [A 18 minutos de Vilanova: el pueblo con un castillo medieval, rutas y gran tradición vinícola](https://www.elperiodico.com/es/catalunya/20260920/canyelles-pueblo-garraf-cataluna-vilanova-i-la-geltru-dv-loc-128060026)<br>
 17:48 [Brad Pitt desata la locura en San Sebastián con media hora de saludos y fotos con sus fans](https://www.elperiodico.com/es/ocio-y-cultura/20260920/brad-pitt-desata-locura-san-sebastian-134495012)<br>
 17:34 [Los Javis, en Donostia con 'La bola negra': "Tenemos una necesidad de validación profunda"](https://www.elperiodico.com/es/ocio-y-cultura/20260920/javis-donostia-bola-negra-necesidad-134494683)<br>
