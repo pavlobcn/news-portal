@@ -1,5 +1,383 @@
 [
   {
+    "title": "Pacientes con alzhéimer reclaman a Sanidad que financie los nuevos fármacos",
+    "link": "https://www.elperiodico.com/es/videos/sanidad/pacientes-alzheimer-reclaman-sanidad-financie/134431364.shtml",
+    "pubDate": "2026-09-20 07:13:23",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los fármacos que frenan el alzhéimer chocan con el muro de la financiación pública: \"Las familias no podemos pagar los 50.000 euros que cuestan\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260920/farmacos-alzheimer-sin-financiacion-publica-lecanemab-donanemab-espana-134338579",
+    "pubDate": "2026-09-20 07:11:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Un máximo de 100.000 españoles son candidatos a recibir los primeros tratamientos de la historia que han demostrado eficacia, pero solo se administran en la sanidad privada </h2><h2 class=\"item\">Sanidad rechazó incluir el lecanemab y el donanemab en el sistema público, mientras pacientes, médicos y entidades exigen los mismos recursos que hay para el cáncer</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260917/alzheimer-mas-alla-genetica-celulas-sistema-inmune-papel-importante-demencia-134397126\" target=\"_blank\"><a href=\"https://www.elperiodico.com/es/sanidad/20260914/sanidad-privada-administra-donamebab-farmaco-ralentiza-progresion-alzheimer-134266193\" >El alzhéimer más allá de la genética: \"Hay células del sistema inmune que juegan un papel importante en esta demencia\"</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260914/sanidad-privada-administra-donamebab-farmaco-ralentiza-progresion-alzheimer-134266193\" >La sanidad privada ya administra donanemab, el fármaco que ralentiza el alzhéimer: \"El beneficio continúa con el paso del tiempo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Afectaciones al tráfico y recorrido de la Cursa de La Mercè 2026: cortes y desvíos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/cursa-merce-2026-fecha-recorrido-134302304",
+    "pubDate": "2026-09-20 07:10:00",
+    "category": "",
+    "description": "<h2>La organización aspira a reunir a 17.200 participantes, mientras que ya se han agotado los dorsales para la prueba de 10 kilómetros</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260906/running-clubs-disparan-popularidad-barcelona-cada-dia-nace-uno-nuevo-133949941\" target=\"_blank\">Los ‘running clubs’ disparan su popularidad en Barcelona: \"Cada día nace uno nuevo\"</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Загибель матері та двох дітей на Київщині: відомі подробиці удару Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4913217-zahybel-materi-ta-dvokh-ditei-na-kyivschyni-vidomi-podrobytsi-udaru-rosii",
+    "pubDate": "2026-09-20 07:04:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569269.jpg\">Жінка завела двох дітей до будинку, щоб укласти їх спати - саме в цей момент пролунав вибух.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Entrevista con campesinos de Collserola: \"Volver a vivir del campo ya es una realidad\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/entrevista-campesinos-collserola-volver-vivir/134402136.shtml",
+    "pubDate": "2026-09-20 07:00:33",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Nos sentimos jardineros del bosque\": 25 payeses sostienen el futuro de Collserola",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/sentimos-jardineros-bosque-25-payeses-collserola-fuego-134392844",
+    "pubDate": "2026-09-20 07:00:32",
+    "category": "",
+    "description": "<h2>Con apenas 25 fincas activas en todo el parque, los agricultores reclaman más apoyo para frenar el avance del bosque y de su urbanización, como mejor defensa frente al fuego</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260920/collserola-prepara-propio-sello-fet-134403730\">Collserola prepara su propio sello 'Fet al Parc' para salvar su identidad a través del tomate mandó</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260915/incendio-collserola-causas-detenido-investigacion-mossos-134283041\">Los Mossos concluyen que el gran incendio de agosto en Collserola fue provocado y siguen buscando a su autor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Collserola prepara su propio sello 'Fet al Parc' para salvar su identidad a través del tomate mandó",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/collserola-prepara-propio-sello-fet-134403730",
+    "pubDate": "2026-09-20 07:00:32",
+    "category": "",
+    "description": "<h2>El Consorci del Parc trabaja en un distintivo propio para sus productos agrícolas mientras los payeses reclaman más ayudas para frenar el abandono del campo</h2><h2>\"Nos sentimos jardineros del bosque\": 25 payeses sostienen el futuro de Collserola</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260902/productos-km-0-barcelona-mercadillo-triunfa-sabados-tres-xemeneies-133867857\">Productos Km 0 y artesanales en Barcelona: así es el mercadillo que triunfa los sábados en las Tres Xemeneies</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De paseo por el Victoria Museum de Barcelona: más de mil piezas entre vestidos imposibles, corsés y objetos dignos de 'La edad dorada'",
+    "link": "https://www.elperiodico.com/es/gente/20260920/victoria-museum-barcelona-vestidos-epoca-victoriana-corses-boudoir-raval-134272759",
+    "pubDate": "2026-09-20 07:00:31",
+    "category": "",
+    "description": "<h2 class=\"item\">El museo del Raval cumple un año y estrena un espacio dedicado al 'boudoir', la estancia privada donde las mujeres se vestían y arreglaban. Su directora, Victoria Lysenko, nos guía por una colección de lo más romántica</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-20 07:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Атака на Москву та Підмосков'я: горять склади, НПЗ",
+    "link": "https://ua.korrespondent.net/world/russia/4913215-ataka-na-moskvu-ta-pidmoskovia-horiat-sklady-npz",
+    "pubDate": "2026-09-20 06:47:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569253.jpg\">Безпілотники  масовано  атакували Москву та область. Пожежі  спалахнула на  НПЗ і  складах.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los socios del Barça son los dueños del Barça, esa es la gran mentira",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/socios-barca-son-duenos-barca-134475902",
+    "pubDate": "2026-09-20 06:40:17",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб назвав втрати Росії станом на 20 вересня",
+    "link": "https://ua.korrespondent.net/ukraine/4913213-henshtab-nazvav-vtraty-rosii-stanom-na-20-veresnia",
+    "pubDate": "2026-09-20 06:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569235.jpg\">Минулої доби ЗСУ ліквідували 1560 окупантів. Знищено чотири танки, чотири бронемашини, 56 артсистем, три РСЗВ, два засоби ППО, 23 НРК і 1833 дронів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Jacinto Elá: \"No tengo tan claro que a Lamine le haga bien ganar el Balón de Oro con 19 años\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/jacinto-ela-lamine-yamal-balon-de-oro-futbol-134474266",
+    "pubDate": "2026-09-20 06:01:23",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mourinho celebra sus 100 días en el Real Madrid en un derbi con mucho peligro",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/mourinho-celebra-100-dias-real-134474037",
+    "pubDate": "2026-09-20 06:01:23",
+    "category": "",
+    "description": "<h2>El técnico quiso quitar importancia a un partido que si no gana disparará el recelo de un madridismo que ha pitado al equipo varias veces en este inicio de temporada </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La cruda lección de Groenlandia: las amenazas de Trump dan frutos",
+    "link": "https://www.elperiodico.com/es/opinion/20260920/cruda-leccion-groenlandia-acuerdo-estados-unidos-dinamarca-134472913",
+    "pubDate": "2026-09-20 06:01:21",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La batería más grande de Europa está en España y puede generar electricidad durante 16 horas seguidas",
+    "link": "https://www.elperiodico.com/es/economia/20260920/mayor-bateria-europa-espana-generar-electricidad-16-horas-134468950",
+    "pubDate": "2026-09-20 06:01:13",
+    "category": "",
+    "description": "<h2>La central de bombeo de Cortes-La Muela, en Valencia, aprovecha las horas de luz barata para almacenar energía y genera electricidad cuando el consumo se dispara</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20230701/gobierno-embalses-almacen-energia-89315144\">El Gobierno planea dar un segundo uso a los embalses como almacenes de energía</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "VÍDEO | Ferran Adrià, ante el estreno de la serie ‘Gènesi’: “El Bulli ganó mucho dinero para ser un restaurante, pero no era Messi”",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260920/enrevista-ferran-adria-genesi-netflix-tv3-134360440",
+    "pubDate": "2026-09-20 06:01:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Quince años después del cierre de El Bulli, transformado en el museo El Bulli 1846, el cocinero recuerda el enfretamiento con Santi Santamaria y la enfermedad de su socio, Juli Soler</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20220616/mesa-para-dos-historias-chefs-cataluna-entrevistas-video-13852617\">Estreno de la serie 'Mesa para dos': historias de superación de 4 chefs y 1 enóloga</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20220717/jordi-roca-distonia-olvidar-hablar-entrevista-mesa-para-dos-14007570\">Jordi Roca: \"Es como si hubiera olvidado hablar\" | VÍDEO Mesa para dos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20220626/jordi-cruz-te-quiero-padre-dos-horas-antes-morir-entrevista-mesa-para-dos-13903018\">Jordi Cruz: \"Le dije por primera vez 'te quiero' a mi padre dos horas antes de que muriese\" | VÍDEO Mesa para dos</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Golden Owl, la tecnológica que sacó a la luz la trastienda del \"asalto\" a Ceuta",
+    "link": "https://www.elperiodico.com/es/economia/20260920/golden-owl-tecnologica-saco-luz-134478403",
+    "pubDate": "2026-09-20 06:01:00",
+    "category": "",
+    "description": "<h2>La startup alicantina ha demostrado que la información \"abierta\" es clave para las estrategias de defensa y  empresa</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "¿Por qué no invitan a Max Weber a Estrasburgo?",
+    "link": "https://www.elperiodico.com/es/opinion/20260920/invitan-max-weber-estrasburgo-134453925",
+    "pubDate": "2026-09-20 06:00:59",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Perspectivas ante el alzhéimer",
+    "link": "https://www.elperiodico.com/es/opinion/20260920/alzheimer-perspectivas-tratamiento-medicina-134444758",
+    "pubDate": "2026-09-20 06:00:58",
+    "category": "",
+    "description": "<h2>La ciencia ha conseguido avanzar en el diagnóstico a través de biomarcadores plasmáticos en la sangre y el líquido cefalorraquídeo y a través de técnicas de imagen</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las pesquisas sobre un oficial español y su novia rusa de Tinder, a la espera por una baja médica",
+    "link": "https://www.elperiodico.com/es/politica/20260920/pesquisas-oficial-espanol-otan-novia-rusa-baja-medica-134442811",
+    "pubDate": "2026-09-20 06:00:55",
+    "category": "",
+    "description": "<h2>El caso del militar expulsado del Mando Marítimo de la OTAN pasó por el Cuartel General Aliado de Contrainteligencia, el Centro de Inteligencia de las Fuerzas Armadas, la división de Seguridad Naval de la Armada y la Oficina Nacional de Seguridad del CNI, que lleva la investigación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "VIDEO EXPLAINER | La estrecha relación de Illa y Sánchez",
+    "link": "https://www.elperiodico.com/es/videos/politica/video-explainer-estrecha-relacion-illa/134441427.shtml",
+    "pubDate": "2026-09-20 06:00:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "China apuesta por la regulación preventiva de la IA para evitar inestabilidad social y prepara una ley pionera sobre seguridad",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/china-apuesta-regulacion-preventiva-ia-134478412",
+    "pubDate": "2026-09-20 06:00:53",
+    "category": "",
+    "description": "<h2>Pekín teme que \"fuerzas hostiles e individuos maliciosos\" se sirvan de esta tecnología para atacar al Gobierno o \"librar una guerra en la opinión pública\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un \"abatido\" PSOE andaluz desoye a María Jesús Montero de cara a las municipales: \"Lo que nos preguntamos es cuánto aguantará\"",
+    "link": "https://www.elperiodico.com/es/politica/20260920/psoe-andaluz-desoye-montero-abatido-134439532",
+    "pubDate": "2026-09-20 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La federación socialista ha pospuesto la crisis hasta después de las elecciones de 2027 tras obtener el peor resultado de su historia en mayo</h2><h2 class=\"item\">Nueve municipios celebrarán primarias en septiembre, incluidas tres capitales, en contra de las directrices de la exvicepresidenta</h2><h2 class=\"item\">\"Las direcciones provinciales y los candidatos municipales están en el \"Sálvese quien pueda\"\"</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La factura europea de un frenazo de la IA: 440.000 millones de ahorro familiar expuestos en la eurozona y 32.000 millones en fondos españoles",
+    "link": "https://www.elperiodico.com/es/economia/20260920/factura-europea-frenazo-ia-440-134478361",
+    "pubDate": "2026-09-20 06:00:53",
+    "category": "",
+    "description": "<h2>Los expertos consultados admiten que es imposible cifrar el impacto económico de una corrección de la IA, pero advierten de que alcanzaría a fondos, pensiones y pequeños inversores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la euforia al miedo: por qué las empresas de Silicon Valley quieren frenar la carrera de la IA y desatan el temor en Bolsa",
+    "link": "https://www.elperiodico.com/es/economia/20260920/euforia-miedo-empresas-silicon-valley-134478360",
+    "pubDate": "2026-09-20 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Los mercados financieros globales calibran una posible caída de inversión como consecuencia a la creciente inquietud por los riesgos existenciales que plantean los sistemas de IA más avanzados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260913/openai-anuncia-saldra-bolsa-ano-134239919\">OpenAI aplaza su salida a Bolsa hasta 2027: \"Sería poco aconsejable\" </a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Entrevista con David Quirós, alcalde de L'Hospitalet.",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/entrevista-david-quiros-alcalde-hospitalet-video/134418467.shtml",
+    "pubDate": "2026-09-20 06:00:52",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "David Quirós: “L’Hospitalet no puede crecer más y, allí donde crezca, tiene que hacerlo con coherencia”",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/david-quiros-alcalde-lhospitalet-planteamos-educir-techo-actividad-economica-biocluster-destinarlo-vivienda-protegida-134418423",
+    "pubDate": "2026-09-20 06:00:51",
+    "category": "",
+    "description": "<h2>El edil reclama una mayor colaboración política para avanzar en proyectos estratégicos mientras prepara su candidatura para las elecciones municipales de 2027</h2><h2><atarget=\"_blank\">L’Hospitalet reduce los delitos un 13,5% con la entrada en prisión de 30 \"multirreincidentes habituales\" </a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El eterno 'déjà vu' de la hoja de ruta de la UE",
+    "link": "https://www.elperiodico.com/es/economia/20260920/eterno-deja-vu-hoja-ruta-134478299",
+    "pubDate": "2026-09-20 06:00:43",
+    "category": "",
+    "description": "<h2>El discurso sobre el estado de la Unión de Ursula von der Leyen volvió a ser una retahíla de buenas voluntades y apelaciones a seguir avanzando en la unificación </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las telecos se lanzan a la gran revolución cuántica",
+    "link": "https://www.elperiodico.com/es/economia/telecomunicaciones-revolucion-cuantica-134318446-rm/index.html",
+    "pubDate": "2026-09-20 06:00:41",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lluïsa Moret: \"El estado de ánimo del PSC es el de dar batalla ante el ataque sistemático a Sánchez\"",
+    "link": "https://www.elperiodico.com/es/politica/20260920/lluisa-moret-psc-estado-animo-dar-batalla-ataque-sistematico-pedro-sanchez-134354000",
+    "pubDate": "2026-09-20 06:00:36",
+    "category": "",
+    "description": "<h2>La viceprimera secretaria de los socialistas catalanes asegura que presentarán más candidaturas en las municipales de 2027 y que no hay preocupación en el partido por cuándo serán las elecciones generales </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260918/catalunya-500-jueces-salvador-illa-felix-bolanos-50-becas-magistrados-catalanes-134418829\">Catalunya acogerá la formación de 500 nuevos jueces y convocará 50 becas para que haya más magistrados catalanes</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260915/govern-salvador-illa-6-pib-educacion-aprobacion-financiacion-crecimiento-economico-calendario-progresiva-134302655\">El Govern prevé que el 6% del PIB en educación se alcance de forma \"progresiva\" pero no concreta calendario</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "EL PERIÓDICO amplía su liderazgo en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20260920/ranking-audiencia-gfk-el-periodico-lider-catalunya-agosto-134397212",
+    "pubDate": "2026-09-20 06:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El medio editado por Prensa Ibérica es también el diario de información general que ha ganado más audiencia en el conjunto de España en el último año</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260523/configura-google-seguir-periodico-129736197\">Configura Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 19.9: Перехоплювач і санкції за дітей",
+    "link": "https://ua.korrespondent.net/ukraine/4913127-pidsumky-199-perekhopluivach-i-sanktsii-za-ditei",
+    "pubDate": "2026-09-20 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569099.jpg\">Новий перехоплювач реактивних БПЛА наполював перші шахеди; Трамп підписав закон, який розширює санкції за депортацію українських дітей; Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Entrevista a Lluïsa Moret, Viceprimera Secretaria del PSC",
+    "link": "https://www.elperiodico.com/es/videos/politica/entrevista-lluisa-moret-viceprimera-secretaria/134435954.shtml",
+    "pubDate": "2026-09-20 05:55:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mémora inaugura un nuevo tanatorio en Sant Andreu, concebido para acompañar a las familias en un entorno sereno y acogedor",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/memora-inaugura-nuevo-tanatorio-sant-andreu-bc-132425011",
+    "pubDate": "2026-09-20 05:30:00",
+    "category": "",
+    "description": "<h2>El equipamiento se ha diseñado con criterios de sostenibilidad y con una visión de proximidad con las familias  </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Канада хоче долучитися до кредиту ЄС на €90 млдр для України",
+    "link": "https://ua.korrespondent.net/world/4913210-kanada-khoche-doluchytysia-do-kredytu-yes-na-90-mldr-dlia-ukrainy",
+    "pubDate": "2026-09-20 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569083.jpg\">Якщо переговори завершаться успішно, Україна зможе замовляти зброю та боєприпаси в канадських оборонних компаній.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Se puede regular la IA?: la automejora de los modelos más avanzados plantea nuevos retos para los legisladores",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/regular-ia-auto-mejora-modelos-openai-anthropic-chatgpt-ue-china-eeuu-134467708",
+    "pubDate": "2026-09-20 05:00:16",
+    "category": "",
+    "description": "<h2>Países y directivos del sector tecnológico debaten sobre la necesidad de establecer una gobernanza global con controles ante el temor de que la inteligencia artificial alcance una capacidad de perfeccionamiento que pueda escapar al control humano</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Хусити атакували аеропорт і нафтовий порт у Саудівській Аравії",
+    "link": "https://ua.korrespondent.net/world/4913208-khusyty-atakuvaly-aeroport-i-naftovyi-port-u-saudivskii-aravii",
+    "pubDate": "2026-09-20 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569067.jpg\">ЗМІ пишуть про великий стовп чорного диму та полум'я, яке, схоже, здіймалось із паливних резервуарів біля терміналу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "\"¿Dónde están las llaves?\": cómo saber si la pérdida de memoria es normal o un síntoma de alzhéimer",
+    "link": "https://www.elperiodico.com/es/salud/20260920/problemas-memoria-alzheimer-preocupante-acudir-medico-81053055",
+    "pubDate": "2026-09-20 04:50:00",
+    "category": "",
+    "description": "<h2>Uno de los aspectos más complicados de esta enfermedad es que no tiene tratamiento curativo. Sin embargo, los expertos insisten en que puede prevenirse con un estilo de vida saludable</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ переносить виробництво шахідів під землю - Osint",
+    "link": "https://ua.korrespondent.net/world/russia/4913206-rf-perenosyt-vyrobnytstvo-shakhidiv-pid-zemlui-Osint",
+    "pubDate": "2026-09-20 04:25:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569051.jpg\">На території особливої економічної зони Алабуга зафіксували будівництво щонайменше десяти нових цехів та десятків складських об’єктів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Україна зможе разом з європейцями знімати серіали",
+    "link": "https://ua.korrespondent.net/ukraine/4913194-ukraina-zmozhe-razom-z-yevropeitsiamy-znimaty-serialy",
+    "pubDate": "2026-09-20 03:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568937.jpg\">Мінкульт підписав Конвенцію Ради Європи про спільне виробництво аудіовізуальних творів у формі серіалів.",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Китай розкритикував \"пекельні санкції\" проти РФ",
+    "link": "https://ua.korrespondent.net/world/4913183-kytai-rozkrytykuvav-pekelni-sanktsii-proty-rf",
+    "pubDate": "2026-09-20 03:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568871.jpg\">У Пекіні заявили, що не підтримує обмежень, що не мають санкцій Організації Об'єднаних Націй або підстав у міжнародному праві.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Miles de personas se movilizan en Argentina contra la política de Javier Milei",
     "link": "https://www.elperiodico.com/es/internacional/20260920/miles-personas-movilizan-argentina-politica-134477896",
     "pubDate": "2026-09-20 02:54:58",
@@ -32,6 +410,15 @@
     "pubDate": "2026-09-20 01:48:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568953.png\">Європейські посадовці розраховують домогтися нових фінансових зобов'язань від держав за межами Євросоюзу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-20 01:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
     "topic": "політика",
     "topic_match_probability": 90
   },
