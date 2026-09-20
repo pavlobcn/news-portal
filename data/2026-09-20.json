@@ -1,5 +1,86 @@
 [
   {
+    "title": "Росіяни атакували евакуаційний пункт у Краматорську",
+    "link": "https://ua.korrespondent.net/ukraine/4913255-rosiiany-atakuvaly-evakuatsiinyi-punkt-u-kramatorsku",
+    "pubDate": "2026-09-20 14:11:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569620.jpg\">По евакуаційному пункту відбулося пряме влучання російської авіабомби. Нині наслідки атаки з'ясовують.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Feijóo reclama \"recuperar el prestigio\" del pasaporte y revisar su concesión y retirada",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-reclama-recuperar-prestigio-pasaporte/134488073.shtml",
+    "pubDate": "2026-09-20 14:08:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Louzán anuncia que el España-México sub-20 no se jugará en Ceuta",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/louzan-anuncia-espana-mexico-sub-134487933",
+    "pubDate": "2026-09-20 14:08:22",
+    "category": "",
+    "description": "<h2>El encuentro amistoso, programado para el 30 de septiembre, podría disputarse en Madrid</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Maíllo urge a Sánchez a replantearse sus relaciones con Marruecos y le afea que \"le haga la campaña\" a PP y Vox",
+    "link": "https://www.elperiodico.com/es/videos/politica/maillo-urge-sanchez-replantearse-relaciones/134488129.shtml",
+    "pubDate": "2026-09-20 14:04:05",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nasser al-Khelaïfi, presidente del PSG, investigado por la justicia por colisión de intereses televisivos",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/nasser-khelaifi-presidente-psg-investigado-134487947",
+    "pubDate": "2026-09-20 14:01:59",
+    "category": "",
+    "description": "<h2>Los derechos de retransmisión de la liga francesa en el verano de 2024, en el epicentro del escándalo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los asientos de una conocida marca de coches que habrían provocado quemaduras a dos propietarios",
+    "link": "https://www.elperiodico.com/es/motor/20260920/asientos-mercedes-amg-habrian-provocado-quemaduras-133448277",
+    "pubDate": "2026-09-20 14:00:19",
+    "category": "",
+    "description": "<h2>Dos conductores estadounidenses han demandado a la marca después de sufrir presuntamente quemaduras al entrar en sus coches y entrar en contacto con el emblema metálico situado en los asientos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Флеш попередив про нову загрозу через супутники РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4913253-flesh-poperedyv-pro-novu-zahrozu-cherez-suputnyky-rf",
+    "pubDate": "2026-09-20 13:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569604.jpg\">Бескрестнов попередив, що росіяни можуть отримати можливість керувати \"шахедами\" та ракетами онлайн.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La manifestación contra la ampliación del Aeropuerto de Barcelona en imágenes",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/manifestacion-ampliacion-aeropuerto-barcelona-imagenes-134487755",
+    "pubDate": "2026-09-20 13:47:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Rusia anuncia una reunión con Estados Unidos en las próximas semanas para tratar diferencias",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/rusia-anuncia-reunion-estados-unidos-proximas-semanas-diferencias-134487518",
+    "pubDate": "2026-09-20 13:47:23",
+    "category": "",
+    "description": "<h2>Las reuniones entre ambos países, que se han vuelto habituales, están dando avances \"menores de lo deseado y de lo esperado\", ha señalado el viceministro ruso de Exteriores, Serguéi Riabkov</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260919/guerra-ucrania-rusia-medvedev-disuasion-militar-estados-134460027\">Medvédev defiende la \"disuasión militar\" contra Estados Unidos tras las últimas sanciones a Rusia</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Más de 200 entidades se manifiestan en Barcelona contra la ampliación del aeropuerto de El Prat",
     "link": "https://www.elperiodico.com/es/economia/20260920/aeropuerto-prat-barcelona-ampliacion-manifestacion-protesta-134487221",
     "pubDate": "2026-09-20 13:41:35",
@@ -63,6 +144,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Imágenes de la Fiesta de la Rosa organizada por el PSC En Gavà",
+    "link": "https://www.elperiodico.com/es/fotos/politica/imagenes-fiesta-rosa-organiza-psc-134486880",
+    "pubDate": "2026-09-20 13:08:34",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Abren cuatro unidades de memoria en Gràcia para personas derivadas del CAP",
     "link": "https://www.elperiodico.com/es/barcelona/20260920/abren-cuatro-unidades-memoria-gracia-cap-alzheimer-134486408",
     "pubDate": "2026-09-20 13:06:09",
@@ -97,6 +187,15 @@
     "description": "<h2>El precio antes de impuestos ha pasado de los 0,82 a los 1,3 euros por litro entre febrero y agosto, lo que ha llevado a la industria del transporte a pedir nuevas ayudas una vez caiga el actual escudo</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260915/escalada-come-rebaja-fiscal-gasolina-diesel-gasolineras-134301068\" target=\"_blank\">La escalada del diésel se come la rebaja fiscal del Gobierno y mantiene la presión sobre los precios</a></h2>",
     "topic": "автомобілі",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Alberto Núñez Feijóo y Alejandro Fernández clausuran un acto en Badalona",
+    "link": "https://www.elperiodico.com/es/fotos/politica/alberto-nunez-feijoo-alejandro-fernandez-134486464",
+    "pubDate": "2026-09-20 12:55:23",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 96
   },
   {
     "title": "Ситуація на Сумщині: росіяни зайняли смугу до 4 км",
