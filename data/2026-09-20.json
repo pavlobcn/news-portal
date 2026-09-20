@@ -1,5 +1,50 @@
 [
   {
+    "title": "Moleiro desarma al Levante y confirma la recuperación del Villarreal",
+    "link": "https://www.elperiodico.com/es/deportes/20260920/moleiro-desarma-levante-confirma-recuperacion-134499875",
+    "pubDate": "2026-09-20 20:49:04",
+    "category": "",
+    "description": "<h2>El conjunto de Íñigo Pérez supera al Levante en la séptima jornada de la Liga EA Sports tras aprovechar los errores defensivos del equipo valenciano en la salida de balón</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los Mossos buscan a cinco hombres vestidos de policías por llevarse a un individuo de un coche en la AP-7 en el Vallès",
+    "link": "https://www.elperiodico.com/es/sucesos/20260920/ap7-secuestro-barcelona-mossos-buscan-cinco-hombres-134499732",
+    "pubDate": "2026-09-20 20:41:51",
+    "category": "",
+    "description": "<h2 class=\"item\">La víctima fue liberada sana pocas horas después</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Мерц назвав \"катастрофою\" результат ХДС на виборах",
+    "link": "https://ua.korrespondent.net/world/4913312-merts-nazvav-katastrofoui-rezultat-khds-na-vyborakh",
+    "pubDate": "2026-09-20 20:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569961.png\">Глава німецького уряду запевнив, що продовжуватиме реформи на посту канцлера Німеччини.",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rafa Guerrero, psicólogo: \"Los niños nacidos en diciembre tienen un 39% más de probabilidades de ser diagnosticados de TDAH\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260920/tdah-nacidos-diciembre-psicologo-rafa-guerrero-dv-et-134320637",
+    "pubDate": "2026-09-20 20:20:50",
+    "category": "",
+    "description": "<h2>Según el experto, el mes de nacimiento es muy determinante respecto al desarrollo del cerebro de los niños</h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20251228/inteligencia-bebe-hijo-nacido-meses-octubre-noviembre-diciembre-dv-122145688\" >La ciencia lo confirma: si has nacido en uno de estos tres meses podrías tener mayor capacidad intelectual</a></h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260603/autoestima-jovenes-padres-rafa-guerrero-psicologo-dv-130720183\">El psicólogo Rafa Guerrero: \"Hoy en día tener una baja autoestima es algo normal desgraciadamente\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los hoteles de lujo de Barcelona abren sus bares al público durante una semana: cócteles por 12 euros",
+    "link": "https://www.elperiodico.com/es/barcelona/20260920/barcelona-hotel-bar-week-hoteles-bares-lujo-dv-loc-134497886",
+    "pubDate": "2026-09-20 20:03:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El evento incluye clases magistrales de mixología, maridajes gastronómicos y fiestas en algunos de los mejores 'rooftops' de la ciudad</h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Marc Casadó se retira con una lesión en el hombro en el Deportivo-Betis: \"Se me ha roto\"",
     "link": "https://www.elperiodico.com/es/deportes/20260920/marc-casado-retira-lesion-hombro-134498781",
     "pubDate": "2026-09-20 19:58:01",
@@ -16,6 +61,24 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569941.jpg\">Дональд Трамп попередив, що Іран має укласти угоду зі Вашингтоном, інакше керівництво країни може бути знищене.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Іран пригрозив відповісти на нову атаку США",
+    "link": "https://ua.korrespondent.net/world/4913308-iran-pryhrozyv-vidpovisty-na-novu-ataku-ssha",
+    "pubDate": "2026-09-20 19:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569941.jpg\">Дональд Трамп попередив, що Іран має укласти угоду зі Вашингтоном, інакше керівництво країни може бути знищене.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Шахтар скористався більшістю і розгромив ЛНЗ",
+    "link": "https://ua.korrespondent.net/sport/football/4913305-shakhtar-skorystavsia-bilshistui-i-rozghromyv-lnz",
+    "pubDate": "2026-09-20 19:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569940.jpg\">Шахтар скористався раннім вилученням у складі ЛНЗ і дотиснув суперника у другій половині зустрічі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Los Javis, en Donostia con 'La bola negra': \"Tenemos una necesidad de validación profunda\"",
@@ -1006,6 +1069,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569524.png\">Московський нафтопереробний завод повністю зупинив роботу після удару україських дронів FP-1.",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Canadá como síntoma del estado de la Unión",
+    "link": "https://www.elperiodico.com/es/opinion/20260920/canada-sintoma-estado-union-europea-articulo-astrid-barrio-134485199",
+    "pubDate": "2026-09-20 12:08:45",
+    "category": "",
+    "description": "<h2>Europa necesita reforzar su integración allí donde la parcelación limita su capacidad, pero también establecer relaciones con países que pueden aportar recursos y capacidades que no puede generar por sí sola</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260918/canada-miembro-asociado-ue-carney-negociaciones-estrechar-relaciones-134291096\">¿Puede convertirse Canadá en un nuevo miembro de la Unión Europea? No exactamente</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "DIRECTO | Pedro Sánchez y Salvador Illa en la Fiesta de la Rosa en Gavá",
