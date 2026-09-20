@@ -1,5 +1,23 @@
 [
   {
+    "title": "Miles de personas se movilizan en Argentina contra la política de Javier Milei",
+    "link": "https://www.elperiodico.com/es/internacional/20260920/miles-personas-movilizan-argentina-politica-134477896",
+    "pubDate": "2026-09-20 02:54:58",
+    "category": "",
+    "description": "<h2>La \"Marcha de la bronca\", convocada por fuerzas de izquierda, llamó a crear una alternativa electoral para derrotar en 2027 al anarco capitalista</h2>",
+    "topic": "політика",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "\"Флеш\" оцінив новий перехоплювач реактивних БПЛА",
+    "link": "https://ua.korrespondent.net/ukraine/4913204-flesh-otsinyv-novyi-perekhopluivach-reaktyvnykh-bpla",
+    "pubDate": "2026-09-20 02:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4569035.jpg\">Український реактивний перехоплювач показав свою ефективність. Тим часом запасів реактивних шахедів у Росії немає. Вона атакує безпілотниками, які щойно зійшли з конвеєру.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У РФ скаржаться на масовану атаку БПЛА",
     "link": "https://ua.korrespondent.net/world/russia/4913202-u-rf-skarzhatsia-na-masovanu-ataku-bpla",
     "pubDate": "2026-09-20 02:23:00",
@@ -43,5 +61,14 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4568888.jpg\">Генеральний інспектор Бундесверу Карстен Броєр очолить Військовий комітет НАТО в липні 2027 року. Він координуватиме позиції начальників генеральних штабів країн-членів НАТО.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Antonio Rodríguez Hernández: \"Todoque es el paradigma del dolor generado por el volcán Tajogaite\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260920/antonio-rodriguez-hernandez-todoque-paradigma-134477248",
+    "pubDate": "2026-09-20 00:15:25",
+    "category": "",
+    "description": "<h2>«La cicatriz que dejaron las coladas es una herida emocional en el alma de un pueblo... Eso no es algo que se cura en un día; hace falta tiempo para sanar», afirma el profesor de Psicología Evolutiva y de la Educación de la ULL, que hace repaso en esta entrevista de cómo viven los palmeros cinco años después de la erupción</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   }
 ]
