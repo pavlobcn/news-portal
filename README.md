@@ -1,4 +1,4 @@
-# News for 2026-09-21 22:37
+# News for 2026-09-22 00:26
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
@@ -35,6 +35,7 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Un autobús acerca la detección precoz de la enfermedad renal crónica a la Extremadura rural](https://www.elperiodico.com/es/salud/20260921/autobus-acerca-deteccion-precoz-enfermedad-bc-134527062)<br>
 21:36 [¿Qué pasa cuando llegas al límite de los 545 días de la baja laboral? Una experta legal lo aclara](https://www.elperiodico.com/es/economia/20260921/que-pasa-llegas-limite-545-dias-baja-laboral-opciones-trabajador-dv-134535770)<br>
 20:39 [Juanma Lorente, abogado experto en derecho laboral: "No te pueden despedir por estos tres motivos"](https://www.elperiodico.com/es/economia/20260921/juanma-lorente-abogado-experto-derecho-laboral-despidos-improcedentes-nulos-dv-134534690)<br>
 20:28 [Badalona celebra la Supercopa del Joventut con una gran fiesta en la Plaza de la Vila: "Estuvimos a puntos de desaparecer, ahora no se nos puede ir la cabeza"](https://www.elperiodico.com/es/deportes/20260921/badalona-celebra-supercopa-joventut-gran-134534843)<br>

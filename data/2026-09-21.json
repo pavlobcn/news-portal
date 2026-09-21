@@ -1,5 +1,77 @@
 [
   {
+    "title": "Un autobús acerca la detección precoz de la enfermedad renal crónica a la Extremadura rural",
+    "link": "https://www.elperiodico.com/es/salud/20260921/autobus-acerca-deteccion-precoz-enfermedad-bc-134527062",
+    "pubDate": "2026-09-21 23:59:06",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Una unidad móvil del proyecto RADAR recorre 14 municipios rurales de Extremadura para para ofrecer pruebas gratuitas de cribado y ayudar a detectar una enfermedad que puede avanzar durante años sin dar síntomas<sup>1</sup>.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zapatero tienes tres días para justificar el origen de las joyas encontradas en su despacho",
+    "link": "https://www.elperiodico.com/es/videos/politica/zapatero-tienes-tres-dias-justificar/134538486.shtml",
+    "pubDate": "2026-09-21 23:57:46",
+    "category": "",
+    "description": "El juez pide otro peritaje de las piezas",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЄС не зміг продовжити \"санкції проти Путіна\" - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4913688-yes-ne-zmih-prodovzhyty-sanktsii-proty-putina-zmi",
+    "pubDate": "2026-09-21 23:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4571343.jpg\">Результати письмового голосування надіслали не всі держави, повідомив один зі співрозмовників медіа.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський зустрівся з головою ЦРУ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4913684-zelenskyi-zustrivsia-z-holovoui-tsru-zmi",
+    "pubDate": "2026-09-21 23:23:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4571319.jpg\">Український лідер зустрівся з головою американської розвідки Джоном Реткліффом в аеропорту Шеннон в Ірландії.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Альтернатива перемагає. Загрози для України в ФРН",
+    "link": "https://ua.korrespondent.net/world/4913686-alternatyva-peremahaie-zahrozy-dlia-ukrainy-v-frn",
+    "pubDate": "2026-09-21 22:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4571331.jpg\">Канцлер Мерц відкрито назвав ці результати катастрофою та визнав власну відповідальність за те, що довіра до державних інститутів падає.",
+    "topic": "вибори",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "Сибіга відреагував на недружні заяви Мадяра",
+    "link": "https://ua.korrespondent.net/ukraine/4913680-sybiha-vidreahuvav-na-nedruzhni-zaiavy-madiara",
+    "pubDate": "2026-09-21 22:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4571306.jpg\">Останні заяви з Будапешта свідчать, що дух Орбана все ще присутній в угорській політиці, вважає голова МЗС України.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El rapero Morad, detenido en Barcelona en un nuevo altercado con la policía",
+    "link": "https://www.elperiodico.com/es/sucesos/20260921/morad-detenido-barcelona-altercado-policia-134537650",
+    "pubDate": "2026-09-21 22:53:18",
+    "category": "",
+    "description": "<h2>La Guardia Urbana estaba identificando a dos personas por circular en patinete sin casco y el cantante grabó e increpó a los agentes</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дніпро-Арена підлягає продажу за рішенням Приватбанку",
+    "link": "https://ua.korrespondent.net/sport/football/4913678-dnipro-arena-pidliahaie-prodazhu-za-rishenniam-pryvatbanku",
+    "pubDate": "2026-09-21 22:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4571294.jpg\">У системі Prozorro.Продажі розмістили інформацію про продаж права власності на футбольний стадіон Дніпро-Арена і навчально-тренувальну базу у Дніпрі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Мадяра обурила ідея нафтосховищ України в Угорщині",
     "link": "https://ua.korrespondent.net/world/worldabus/4913676-madiara-oburyla-ideia-naftoskhovysch-ukrainy-v-uhorschyni",
     "pubDate": "2026-09-21 22:30:00",
@@ -25,6 +97,15 @@
     "description": "",
     "topic": "portada de EL PERIÓDICO",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Операція Вівальді. Успіх ЗСУ на Донбасі",
+    "link": "https://ua.korrespondent.net/ukraine/4913682-operatsiia-vivaldi-uspikh-zsu-na-donbasi",
+    "pubDate": "2026-09-21 22:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4571318.jpg\">Ключовою особливістю операції Вівальді стало безпрецедентне використання безпілотних систем.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Аномальний Ель-Ніньо побив температурний рекорд за кілька місяців до піку",
