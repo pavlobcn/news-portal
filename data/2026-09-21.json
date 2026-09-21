@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Eslovenia, el país  donde todo queda cerca",
+    "link": "https://www.elperiodico.com/es/sociedad/20260921/eslovenia-pais-queda-cerca-bc-134421309",
+    "pubDate": "2026-09-21 02:00:02",
+    "category": "",
+    "description": "<h2>¿Mar o montaña, cultura o naturaleza, aventura o descanso? Eslovenia propone un viaje de los Alpes a las aguas termales, de una galería de arte a un bosque habitado por osos o una copa de vino junto al Adriático. Vueling conecta Barcelona con Eslovenia, un país pequeño en el mapa y grande al recorrerlo.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ двічі вдарила по Сумах: є жертва й потерпілий",
+    "link": "https://ua.korrespondent.net/ukraine/4913346-rf-dvichi-vdaryla-po-sumakh-ye-zhertva-y-poterpilyi",
+    "pubDate": "2026-09-21 01:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570230.jpg\">Два російські дрони вдарили поблизу багатоквартирного житлового будинку у Сумах, повідомила місцева влада.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "‘La bola negra’ arrolla a su paso por la alfombra roja de San Sebastián",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260921/bola-negra-arrolla-alfombra-roja-san-sebastian-134500018",
+    "pubDate": "2026-09-21 01:22:09",
+    "category": "",
+    "description": "<h2 class=\"item\">La película es considerada por publicaciones especializadas en la industria de Hollywood como una de las que llegarán con más nominaciones a la próxima gala de los Oscars</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Хусити пообіцяли не атакувати кораблі США",
+    "link": "https://ua.korrespondent.net/world/4913342-khusyty-poobitsialy-ne-atakuvaty-korabli-ssha",
+    "pubDate": "2026-09-21 00:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570196.jpg\">Угруповання не прагне перекрити ключову для мореплавства Баб-ель-Мандебську протоку, додав представник хуситів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Катар закликав країни Перської затоки спільно врегулювати конфлікт з Іраном",
+    "link": "https://ua.korrespondent.net/world/4913340-katar-zaklykav-krainy-perskoi-zatoky-spilno-vrehuluivaty-konflikt-z-iranom",
+    "pubDate": "2026-09-21 00:32:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570163.jpg\">Катар, що теж зазнавав ракетних ударів з боку Ірану, нині є одним з головних посередників у цьому протистоянні.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  }
+]
