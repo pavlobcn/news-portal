@@ -1,4 +1,4 @@
-# News for 2026-09-21 16:14
+# News for 2026-09-21 17:10
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
@@ -23,6 +23,15 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:02 [Anna Dot, autora de una biografía sobre el Ter: "Hemos querido dominar el agua y nos hemos desconectado de los ríos"](https://www.elperiodico.com/es/sociedad/20260921/anna-dot-autora-biografia-ter-hemos-querido-dominar-agua-134524527)<br>
+17:01 [El histórico Palacio de Almazán, del siglo XV, sufre un nuevo derrumbe 20 días después del primero](https://www.elperiodico.com/es/sociedad/20260921/historico-palacio-almazan-nuevo-derrumbe-134527004)<br>
+17:00 [Juristas catalanes proponen que los ríos de Catalunya sean considerados personas jurídicas, como el Mar Menor](https://www.elperiodico.com/es/sociedad/20260921/estudio-rios-cataluna-personas-juridicas-como-mar-menor-134442311)<br>
+16:53 [Italia da por segura la NBA Europa incluso sin acuerdo con la Euroliga](https://www.elperiodico.com/es/deportes/20260921/italia-da-segura-nba-europa-134527382)<br>
+16:42 [Más de 1,9 millones de personas bajo orden de evacuación en Japón por el tifón Dujuan](https://www.elperiodico.com/es/fotos/internacional/1-9-millones-personas-orden-134527201)<br>
+16:30 [Un joven que trabaja como cocinero en Australia, sentencia: “He llegado a trabajar 60 y 75 horas semanales en dos empleos”](https://www.elperiodico.com/es/economia/20260921/joven-cocinero-australia-horario-sueldo-dv-134395295)<br>
+16:30 [Así es el entrenamiento multicomponente, el ejercicio más completo para proteger la salud en la vejez](https://www.elperiodico.com/es/vida-y-estilo/20260921/ejercicio-jubilados-salud-multicomponente-deporte-dv-134244806)<br>
+16:20 [Irene Márquez, Premio Nacional de Cómic 2026 por 'La muerte de Irene Márquez'](https://www.elperiodico.com/es/ocio-y-cultura/20260921/irene-marquez-premio-nacional-comic-2026-134526221)<br>
+16:18 [L’Hospitalet llora el suicidio de Olga tras ser desahuciada de su vivienda](https://www.elperiodico.com/es/videos/sucesos/l-hospitalet-llora-suicidio-olga/134526413.shtml)<br>
 16:07 [Las personas con pérdida auditiva tienen un 32% más de riesgo de desarrollar demencia: los otorrinos piden un programa de cribado a partir de los 60 años](https://www.elperiodico.com/es/sanidad/20260921/personas-perdida-auditiva-presentan-riesgo-desarrollar-demencia-otorrinos-cribado-134510701)<br>
 15:59 [Zadie Smith: "No admiro a los escritores, no comprendo de qué va eso. Para mí, escribir es simplemente una patología que tienen algunas personas"](https://www.elperiodico.com/es/ocio-y-cultura/20260921/zadie-smith-admiro-escritores-comprendo-134525133)<br>
 15:55 [Ferrocarrils abre las inscripciones para visitar sus espacios expositivos de patrimonio histórico](https://www.elperiodico.com/es/barcelona/20260921/ferrocarrils-abre-inscripciones-visitar-espacios-expositivos-patrimonio-historico-134511712)<br>
@@ -36,6 +45,7 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 14:30 [Nuria Roure, experta en sueño: "Puedes pasar 8, 9 o incluso 10 horas en la cama y, aun así, levantarte cansada"](https://www.elperiodico.com/es/salud/20260921/nuria-roure-experta-sueno-dormir-ansiedad-dv-et-134435989)<br>
 14:15 [La Aemet augura un otoño cálido y alerta que "veranos extremos" como el de 2026 "se esperaban para mediados de siglo"](https://www.elperiodico.com/es/sociedad/20260921/aemet-veranos-calidos-viviendo-esperaban-mitad-siglo-134521235)<br>
 14:03 [El precio del euríbor hoy, 21 de septiembre: mal comienzo de semana para los hipotecados](https://www.elperiodico.com/es/economia/20260921/precio-euribor-hoy-21-septiembre-dv-134508025)<br>
+14:01 [Toni Alonso, director de escuela: "A un médico nadie le dice cómo operar, pero sobre educación opina todo el mundo"](https://www.elperiodico.com/es/sociedad/20260921/toni-alonso-director-escuela-problemas-sistema-educativo-cataluna-134475110)<br>
 14:00 [María José Gómez y Verdú, experta en protocolo, explica cómo sentarse correctamente: "Posición libro, con una rodilla besando a la otra y los pies paralelos al suelo"](https://www.elperiodico.com/es/vida-y-estilo/20260921/forma-sentarse-silla-experta-protocolo-maria-jose-gomez-y-verdu-dv-et-134137762)<br>
 13:54 [Gerard López, exentrenador del Barça, sobre el suicidio de su hermano mayor: "No se puede superar. Siempre tienes la sensación de que se podría haber hecho más"](https://www.elperiodico.com/es/gente/20260921/gerard-lopez-muerte-suicidio-hermano-sergi-futbolista-dv-et-134508167)<br>
 13:40 [Un policía revela el gesto que puede salvarte la vida en una emergencia: así puedes llamar al 112 sin marcar](https://www.elperiodico.com/es/tecnologia/20260921/llamar-emergencias-112-sin-marcar-movil-policia-dv-et-134510883)<br>
@@ -57,6 +67,7 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 12:06 [Presley Gerber, el hijo fallecido de Cindy Crawford, reconoció problemas de adicción](https://www.elperiodico.com/es/ocio-y-cultura/20260921/cindy-crawford-muere-hijo-presley-gerber-adicciones-134512884)<br>
 11:38 [Barcelona supera las 1.500 startups y despunta como trampolín de emprendedores en Europa](https://www.elperiodico.com/es/barcelona/20260921/barcelona-supera-mil-quinientas-startups-trampolin-europeo-emprendedores-134315180)<br>
 11:37 [Relojes de teleasistencia y fotoprotectores sostenibles: dos startups de éxito incubadas en Barcelona](https://www.elperiodico.com/es/barcelona/20260921/relojes-teleasistencia-fotoprotectores-sostenibles-casos-startup-lab-barcelona-emprendedores-134420436)<br>
+11:32 [¿Cuándo empieza el otoño 2026 en España? Día y hora exacta del equinoccio](https://www.elperiodico.com/es/sociedad/20260921/otono-2026-espana-dia-cambio-hora-dv-134508282)<br>
 10:17 [El prolapso genital: síntomas, causas y tratamientos para corregirlo](https://www.elperiodico.com/es/cuidamos-tu-salud/20260921/prolapso-genital-sintomas-causas-tratamientos-cuidamos-salud-134508700)<br>
 10:06 [Dreame lanza en nuestro mercado el robot aspirador Aqua20 Pro Ultra Roller X Complete](https://www.elperiodico.com/es/tecnologia/20260921/dreame-lanza-mercado-robot-aspirador-134508048)<br>
 10:01 [EEUU pisa el acelerador en España: su inversión se dispara un 84% y el capital extranjero crece hasta los 12.400 millones](https://www.elperiodico.com/es/economia/20260921/eeuu-pisa-acelerador-espana-inversion-134508181)<br>
