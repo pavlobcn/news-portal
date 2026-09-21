@@ -1,9 +1,10 @@
-# News for 2026-09-21 15:26
+# News for 2026-09-21 16:14
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
 ## ua.korrespondent.net
 14:14 [У Британії стався збій у системі авіаруху: рейси затримують](https://ua.korrespondent.net/world/4913530-u-brytanii-stavsia-zbii-u-systemi-aviarukhu-reisy-zatrymuuit)<br>
+13:54 [Україну накриють дощі: синоптики попередили про похолодання](https://ua.korrespondent.net/ukraine/4913527-ukrainu-nakryuit-doschi-synoptyky-poperedyly-pro-pokholodannia)<br>
 13:28 [На кордоні Південної Кореї з КНДР стався вибух](https://ua.korrespondent.net/world/4913514-na-kordoni-pivdennoi-korei-z-kndr-stavsia-vybukh)<br>
 13:07 [Україна знову нарощує обсяг експорту агропродукції](https://ua.korrespondent.net/business/economics/4913503-ukraina-znovu-naroschuie-obsiah-eksportu-ahroproduktsii)<br>
 12:26 [Курс гривні змінився в обмінниках на початку тижня](https://ua.korrespondent.net/business/financial/4913490-kurs-hryvni-zminyvsia-v-obminnykakh-na-pochatku-tyzhnia)<br>
@@ -15,12 +16,18 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 02:32 [Росія атакувала в Запоріжжі багатоповерхівки й ТЦ](https://ua.korrespondent.net/city/zaporozhye/4913348-rosiia-atakuvala-v-zaporizhzhi-bahatopoverkhivky-y-tts)<br>
 
 ## as.com
+15:41 [“Somos el Movistar Estudiantes, no un equipo cualquiera”](https://as.com/baloncesto/mas_baloncesto/somos-el-movistar-estudiantes-no-un-equipo-cualquiera-f202609-n/)<br>
 10:43 [El Madrid se lleva un buen ‘pellizco’ de Abu Dabi](https://as.com/baloncesto/euroliga/el-madrid-se-lleva-un-buen-pellizco-de-abu-dabi-f202609-n/)<br>
 09:38 [Las nuevas reglas de la FIBA convierten lo simple en difícil](https://as.com/baloncesto/mas_baloncesto/las-nuevas-reglas-de-la-fiba-convierten-lo-simple-en-dificil-f202609-n/)<br>
 09:12 [El Mundial desde dentro y desde fuera: voces de un bronce histórico](https://as.com/baloncesto/mas_baloncesto/el-mundial-desde-dentro-y-desde-fuera-voces-de-un-bronce-historico-f202609-n/)<br>
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:07 [Las personas con pérdida auditiva tienen un 32% más de riesgo de desarrollar demencia: los otorrinos piden un programa de cribado a partir de los 60 años](https://www.elperiodico.com/es/sanidad/20260921/personas-perdida-auditiva-presentan-riesgo-desarrollar-demencia-otorrinos-cribado-134510701)<br>
+15:59 [Zadie Smith: "No admiro a los escritores, no comprendo de qué va eso. Para mí, escribir es simplemente una patología que tienen algunas personas"](https://www.elperiodico.com/es/ocio-y-cultura/20260921/zadie-smith-admiro-escritores-comprendo-134525133)<br>
+15:55 [Ferrocarrils abre las inscripciones para visitar sus espacios expositivos de patrimonio histórico](https://www.elperiodico.com/es/barcelona/20260921/ferrocarrils-abre-inscripciones-visitar-espacios-expositivos-patrimonio-historico-134511712)<br>
+15:46 [La Aemet explica que "los veranos tan cálidos que estamos viviendo se esperaban para mediados de siglo"](https://www.elperiodico.com/es/videos/sociedad/aemet-explica-veranos-calidos-viviendo/134525447.shtml)<br>
+15:33 [Un total de 34 estudiantes españoles de FP compiten en Shanghái en WorldSkills 2026](https://www.elperiodico.com/es/sociedad/20260921/olimpiadas-fp-china-134524716)<br>
 15:10 [Una incapacidad permanente no siempre acaba con el contrato: “Actualmente existen dos reservas de puesto diferentes”](https://www.elperiodico.com/es/economia/20260921/incapacidad-permanente-no-siempre-acaba-contrato-reservas-puesto-dv-134523955)<br>
 15:10 [Más covid y menos gripe en las primeras semanas de  septiembre: las comunidades arrancan la vacunación en plena ola de calor](https://www.elperiodico.com/es/sanidad/20260921/covid-gripe-primeras-semanas-septiembre-comunidades-vacunacion-ola-de-calor-134520803)<br>
 15:07 [Antoni Bulbena, psiquiatra que visitó a los Andic: "No parece que una terapia de choque estuviera indicada en este caso"](https://www.elperiodico.com/es/sociedad/20260921/antoni-bulbena-psiquiatra-visito-isak-jonathan-andic-terapia-choque-confrontacion-precipicio-no-indicada-134521034)<br>
