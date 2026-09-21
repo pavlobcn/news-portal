@@ -1,15 +1,27 @@
-# News for 2026-09-21 08:46
+# News for 2026-09-21 10:14
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
 ## ua.korrespondent.net
+09:46 [Помер 27-річний син відомої моделі Сінді Кроуфорд](https://ua.korrespondent.net/lifestyle/4913408-pomer-27-richnyi-syn-vidomoi-modeli-sindi-krouford)<br>
 02:34 [Кубок Девіса: перемога над Кіпром вивела Україну до плейоф](https://ua.korrespondent.net/sport/tenis/4913330-kubok-devisa-peremoha-nad-kiprom-vyvela-ukrainu-do-pleiof)<br>
 02:32 [Росія атакувала в Запоріжжі багатоповерхівки й ТЦ](https://ua.korrespondent.net/city/zaporozhye/4913348-rosiia-atakuvala-v-zaporizhzhi-bahatopoverkhivky-y-tts)<br>
 
 ## as.com
+09:38 [Las nuevas reglas de la FIBA convierten lo simple en difícil](https://as.com/baloncesto/mas_baloncesto/las-nuevas-reglas-de-la-fiba-convierten-lo-simple-en-dificil-f202609-n/)<br>
+09:12 [El Mundial desde dentro y desde fuera: voces de un bronce histórico](https://as.com/baloncesto/mas_baloncesto/el-mundial-desde-dentro-y-desde-fuera-voces-de-un-bronce-historico-f202609-n/)<br>
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+10:06 [Dreame lanza en nuestro mercado el robot aspirador Aqua20 Pro Ultra Roller X Complete](https://www.elperiodico.com/es/tecnologia/20260921/dreame-lanza-mercado-robot-aspirador-134508048)<br>
+10:01 [EEUU pisa el acelerador en España: su inversión se dispara un 84% y el capital extranjero crece hasta los 12.400 millones](https://www.elperiodico.com/es/economia/20260921/eeuu-pisa-acelerador-espana-inversion-134508181)<br>
+09:59 ['EA Sports FC 27' pone el balón en juego mientras 'Silent Hill: Townfall' desata su pesadilla junto al mar](https://www.elperiodico.com/es/videojuegos/20260921/ea-sports-fc-27-silent-hill-townfall-134507900)<br>
+09:47 [Del cerebro a la médula ósea: la nueva pista que investiga el papel del sistema inmune en el alzhéimer](https://www.elperiodico.com/es/sanidad/20260921/alzheimer-sistema-inmune-investigacion-celulas-cerebro-genetica-134397126)<br>
+09:45 [Incendios hoy, 21 de septiembre, en Catalunya y España: consulta el mapa con los principales fuegos activos](https://www.elperiodico.com/es/sociedad/20260921/incendios-hoy-21-septiembre-catalunya-espana-mapa-fuegos-activos-dv-134507821)<br>
+09:40 [A la venta una masía catalana del siglo XV con 28 hectáreas y vistas al mar: a 40 minutos de Barcelona](https://www.elperiodico.com/es/vivienda/20260921/masia-venta-siglo-xv-arenys-de-munt-maresme-barcelona-dv-loc-134422028)<br>
+09:27 [Precio del petróleo hoy, 21 de septiembre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20260921/precio-petroleo-hoy-21-septiembre-dv-134507503)<br>
+09:16 [Construir en zona de 'peligro de dana': así se levanta un edificio con licencia de antes de la riada en pleno cauce de riesgo](https://www.elperiodico.com/es/sociedad/20260921/construir-zona-peligro-dana-levanta-134506265)<br>
+08:51 [El Ibex 35 avanza al calor del abaratamiento del petróleo y el diálogo entre Washington y Pekín](https://www.elperiodico.com/es/economia/20260921/ibex-35-avanza-calor-abaratamiento-134506796)<br>
 08:38 [EL PERIÓDICO avanza dos capítulos del libro de Charles Spencer, 'El canto del cisne': "Los fotógrafos se abalanzaron sobre ella como hienas cercando a una gacela"](https://www.elperiodico.com/es/gente/20260921/charles-spencer-lady-di-acoso-prensa-principe-carlos-avance-capitulos-libro-el-canto-del-cisne-diana-mi-hermana-134505573)<br>
 08:20 [Última hora de la Inteligencia Artificial: seguridad, ciberataques, reacciones y opiniones de expertos, en directo](https://www.elperiodico.com/es/tecnologia/20260921/inteligencia-artificial-seguridad-ciberataques-ultima-hora-directo-134453362)<br>
 08:15 [Murcia es el territorio europeo más expuesto a la desertificación](https://www.elperiodico.com/es/sociedad/20260921/murcia-territorio-europeo-expuesto-desertificacion-134506244)<br>
@@ -24,5 +36,6 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 06:00 [El pequeño ahorrador ante la incertidumbre y la volatilidad: los expertos aconsejan mantenerse en el mercado y no intentar anticipar las subidas y bajadas](https://www.elperiodico.com/es/economia/20260921/pequeno-ahorrador-incertidumbre-volatilidad-expertos-134276622)<br>
 06:00 [La inteligencia artificial y la inflación, los grandes factores que condicionarán el mercado a futuro](https://www.elperiodico.com/es/economia/20260921/inteligencia-artificial-inflacion-grandes-factores-mercado-futuro-2026-2027-134316450)<br>
 02:59 [Abordaje integral de las demencias: Ballesol refuerza sus Unidades de Alzhéimer en Catalunya](https://www.elperiodico.com/es/sociedad/20260921/abordaje-integral-demencias-ballesol-refuerza-bc-134144058)<br>
+02:59 [Una última escapada para prolongar el verano en el Caribe mexicano](https://www.elperiodico.com/es/vida-y-estilo/20260921/ultima-escapada-prolongar-verano-caribe-bc-134334603)<br>
 02:00 [Eslovenia, el país  donde todo queda cerca](https://www.elperiodico.com/es/sociedad/20260921/eslovenia-pais-queda-cerca-bc-134421309)<br>
 01:22 [‘La bola negra’ arrolla a su paso por la alfombra roja de San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260921/bola-negra-arrolla-alfombra-roja-san-sebastian-134500018)<br>
