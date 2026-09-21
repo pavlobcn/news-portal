@@ -1,12 +1,14 @@
-# News for 2026-09-21 18:41
+# News for 2026-09-21 20:54
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
 ## ua.korrespondent.net
+19:43 [Ринок землі у серпні показав найбільше падіння від початку року](https://ua.korrespondent.net/ukraine/4913634-rynok-zemli-u-serpni-pokazav-naibilshe-padinnia-vid-pochatku-roku)<br>
 18:23 [Україна домовилася про $100 млн на закупівлю локомотивів](https://ua.korrespondent.net/business/financial/4913615-ukraina-domovylasia-pro-100-mln-na-zakupivlui-lokomotyviv)<br>
 17:45 [Ціна нафти Brent впала нижче психологічного рівня](https://ua.korrespondent.net/business/economics/4913604-tsina-nafty-Brent-vpala-nyzhche-psykholohichnoho-rivnia)<br>
 16:59 [Україна наростила експорт кукурудзи](https://ua.korrespondent.net/business/economics/4913595-ukraina-narostyla-eksport-kukurudzy)<br>
 16:45 [Запоріжжя отримає 150 млн грн на відновлення 11 будинків](https://ua.korrespondent.net/city/zaporozhye/4913585-zaporizhzhia-otrymaie-150-mln-hrn-na-vidnovlennia-11-budynkiv)<br>
+15:58 [Bitcoin оновив максимум із січня, піднявшись вище $85000](https://ua.korrespondent.net/business/financial/4913571-Bitcoin-onovyv-maksymum-iz-sichnia-pidniavshys-vysche-85000)<br>
 14:14 [У Британії стався збій у системі авіаруху: рейси затримують](https://ua.korrespondent.net/world/4913530-u-brytanii-stavsia-zbii-u-systemi-aviarukhu-reisy-zatrymuuit)<br>
 13:54 [Україну накриють дощі: синоптики попередили про похолодання](https://ua.korrespondent.net/ukraine/4913527-ukrainu-nakryuit-doschi-synoptyky-poperedyly-pro-pokholodannia)<br>
 13:28 [На кордоні Південної Кореї з КНДР стався вибух](https://ua.korrespondent.net/world/4913514-na-kordoni-pivdennoi-korei-z-kndr-stavsia-vybukh)<br>
@@ -29,6 +31,12 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:39 [Juanma Lorente, abogado experto en derecho laboral: "No te pueden despedir por estos tres motivos"](https://www.elperiodico.com/es/economia/20260921/juanma-lorente-abogado-experto-derecho-laboral-despidos-improcedentes-nulos-dv-134534690)<br>
+20:28 [Badalona celebra la Supercopa del Joventut con una gran fiesta en la Plaza de la Vila: "Estuvimos a puntos de desaparecer, ahora no se nos puede ir la cabeza"](https://www.elperiodico.com/es/deportes/20260921/badalona-celebra-supercopa-joventut-gran-134534843)<br>
+20:25 [Muere un vigilante del centro de menores L’Alzina tras la contención de un joven interno](https://www.elperiodico.com/es/barcelona/20260921/muere-vigilante-centro-menores-barcelona-contencion-interno-134535409)<br>
+20:20 [BDO Abogados integra Moragas Legal y refuerza su actividad en litigación, seguros y responsabilidad civil](https://www.elperiodico.com/es/economia/20260921/bdo-abogados-integra-moragas-legal-134535280)<br>
+18:57 [Se disparan los casos de COVID](https://www.elperiodico.com/es/videos/sociedad/disparan-casos-covid/134532812.shtml)<br>
+18:45 [Barcelona supera nueve veces desde principios de mes la temperatura más alta registrada hasta ahora en septiembre](https://www.elperiodico.com/es/barcelona/20260921/barcelona-calor-temperaturas-septiembre-record-observatori-fabra-134531839)<br>
 18:31 [Rafaela (67 años), jubilada: "Cobro una pensión de 1.250 euros. Al final, me quedan unos 150 euros para vivir. No podemos ahorrar, imposible"](https://www.elperiodico.com/es/economia/20260921/rafaela-67-anos-jubilada-pension-jubilacion-subida-precios-alquiler-vivienda-dv-134528738)<br>
 18:25 [El Ibex 35 repunta más de un 1% y recupera los 19.700 puntos, con el crudo al borde de los 100 dólares](https://www.elperiodico.com/es/economia/20260921/ibex-35-repunta-1-recupera-134531601)<br>
 18:22 [El aficionado del Sevilla acusado de llamar "mono" a Vinícius será juzgado este martes](https://www.elperiodico.com/es/deportes/20260921/aficionado-sevilla-acusado-llamar-mono-134531244)<br>
