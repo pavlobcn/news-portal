@@ -1,8 +1,11 @@
-# News for 2026-09-21 12:54
+# News for 2026-09-21 15:26
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
 ## ua.korrespondent.net
+14:14 [У Британії стався збій у системі авіаруху: рейси затримують](https://ua.korrespondent.net/world/4913530-u-brytanii-stavsia-zbii-u-systemi-aviarukhu-reisy-zatrymuuit)<br>
+13:28 [На кордоні Південної Кореї з КНДР стався вибух](https://ua.korrespondent.net/world/4913514-na-kordoni-pivdennoi-korei-z-kndr-stavsia-vybukh)<br>
+13:07 [Україна знову нарощує обсяг експорту агропродукції](https://ua.korrespondent.net/business/economics/4913503-ukraina-znovu-naroschuie-obsiah-eksportu-ahroproduktsii)<br>
 12:26 [Курс гривні змінився в обмінниках на початку тижня](https://ua.korrespondent.net/business/financial/4913490-kurs-hryvni-zminyvsia-v-obminnykakh-na-pochatku-tyzhnia)<br>
 11:50 [ЗМІ показали кадри прощання з Гайден Пенеттьєрі](https://ua.korrespondent.net/lifestyle/4913459-zmi-pokazaly-kadry-proschannia-z-haiden-penettieri)<br>
 11:32 [На Закарпатті другий день палає ліс](https://ua.korrespondent.net/ukraine/4913465-na-zakarpatti-druhyi-den-palaie-lis)<br>
@@ -18,6 +21,22 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:10 [Una incapacidad permanente no siempre acaba con el contrato: “Actualmente existen dos reservas de puesto diferentes”](https://www.elperiodico.com/es/economia/20260921/incapacidad-permanente-no-siempre-acaba-contrato-reservas-puesto-dv-134523955)<br>
+15:10 [Más covid y menos gripe en las primeras semanas de  septiembre: las comunidades arrancan la vacunación en plena ola de calor](https://www.elperiodico.com/es/sanidad/20260921/covid-gripe-primeras-semanas-septiembre-comunidades-vacunacion-ola-de-calor-134520803)<br>
+15:07 [Antoni Bulbena, psiquiatra que visitó a los Andic: "No parece que una terapia de choque estuviera indicada en este caso"](https://www.elperiodico.com/es/sociedad/20260921/antoni-bulbena-psiquiatra-visito-isak-jonathan-andic-terapia-choque-confrontacion-precipicio-no-indicada-134521034)<br>
+14:52 [Un menor marroquí viajó desde Ceuta hasta la Península escondido en los bajos del autobús del Real Valladolid](https://www.elperiodico.com/es/sociedad/20260921/menor-marroqui-viajo-ceuta-peninsula-134523281)<br>
+14:32 [Barcelona se estancará en 60 millones de pasajeros hasta 2031 y Madrid crecerá hasta los 77 millones](https://www.elperiodico.com/es/economia/20260921/aeropuertos-barcelona-madrid-previsiones-trafico-aereo-2031-gobierno-dora-134522075)<br>
+14:30 [Nuria Roure, experta en sueño: "Puedes pasar 8, 9 o incluso 10 horas en la cama y, aun así, levantarte cansada"](https://www.elperiodico.com/es/salud/20260921/nuria-roure-experta-sueno-dormir-ansiedad-dv-et-134435989)<br>
+14:15 [La Aemet augura un otoño cálido y alerta que "veranos extremos" como el de 2026 "se esperaban para mediados de siglo"](https://www.elperiodico.com/es/sociedad/20260921/aemet-veranos-calidos-viviendo-esperaban-mitad-siglo-134521235)<br>
+14:03 [El precio del euríbor hoy, 21 de septiembre: mal comienzo de semana para los hipotecados](https://www.elperiodico.com/es/economia/20260921/precio-euribor-hoy-21-septiembre-dv-134508025)<br>
+14:00 [María José Gómez y Verdú, experta en protocolo, explica cómo sentarse correctamente: "Posición libro, con una rodilla besando a la otra y los pies paralelos al suelo"](https://www.elperiodico.com/es/vida-y-estilo/20260921/forma-sentarse-silla-experta-protocolo-maria-jose-gomez-y-verdu-dv-et-134137762)<br>
+13:54 [Gerard López, exentrenador del Barça, sobre el suicidio de su hermano mayor: "No se puede superar. Siempre tienes la sensación de que se podría haber hecho más"](https://www.elperiodico.com/es/gente/20260921/gerard-lopez-muerte-suicidio-hermano-sergi-futbolista-dv-et-134508167)<br>
+13:40 [Un policía revela el gesto que puede salvarte la vida en una emergencia: así puedes llamar al 112 sin marcar](https://www.elperiodico.com/es/tecnologia/20260921/llamar-emergencias-112-sin-marcar-movil-policia-dv-et-134510883)<br>
+13:31 [Así funcionan las pensiones en Islandia, Dinamarca y Noruega: cuánto paga el trabajador y cómo se financian](https://www.elperiodico.com/es/economia/20260921/pensiones-islandia-dinamarca-noruega-diferencias-espana-dv-134517558)<br>
+13:27 ['Melela', el cuento solidario que enseña a los niños que el amor es la mejor medicina frente al alzhéimer](https://www.elperiodico.com/es/sociedad/20260921/cuento-solidario-alzheimer-melela-134515749)<br>
+13:01 [Presley Gerber, el hijo de Cindy Crawford, muere a los 27 años](https://www.elperiodico.com/es/videos/ocio-y-cultura/presley-gerber-hijo-cindy-crawford/134516543.shtml)<br>
+12:59 ["Esta debe ser la última muerte": L’Hospitalet llora el suicidio de Olga tras ser desahuciada de su vivienda](https://www.elperiodico.com/es/barcelona/20260921/debe-ultima-muerte-hospitalet-llora-suicidio-olga-tras-desahuciada-vivienda-134514253)<br>
+12:53 [El bus exprés X1 amplía su recorrido en Barcelona y suma ocho nuevas paradas en Diagonal](https://www.elperiodico.com/es/barcelona/20260921/linea-bus-expres-x1-estrena-prolongacion-zona-universitaria-134513655)<br>
 12:51 [Alba (25 años), propietaria de un piso, explica por qué evita alquilar a jubilados: "Buscas gente más o menos con el mismo rol"](https://www.elperiodico.com/es/vivienda/20260921/alba-25-anos-propietaria-piso-jubilados-dv-et-134515879)<br>
 12:48 [Belén Sánchez, neuropsicóloga: "La depresión hace que el alzhéimer evolucione más rápido"](https://www.elperiodico.com/es/ser-feliz/20260921/belen-sanchez-neuropsicologa-depresion-alzheimer-134511569)<br>
 12:46 [La intrahistoria de Physint: Sony abandonó el proyecto durante una videollamada](https://www.elperiodico.com/es/videojuegos/20260921/intrahistoria-physint-sony-abandono-proyecto-134515631)<br>
@@ -47,6 +66,8 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 08:15 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260921/ultima-hora-incendios-espana-directo-132759066)<br>
 07:28 [Presley Gerber, el hijo de Cindy Crawford, muere a los 27 años](https://www.elperiodico.com/es/gente/20260921/presley-gerber-muere-hijo-cindy-crawford-27-anos-134505204)<br>
 07:10 [Miguel (52 años) crio a sus tres hijos sin luz ni carretera en un deshabitado pueblo de Asturias: "Todos mis hijos han estudiado una carrera; no han salido al padre para nada"](https://www.elperiodico.com/es/economia/20260921/unico-vecino-pueblo-asturias-despoblacion-hijos-luz-carretera-burro-miguel-dv-et-134358346)<br>
+07:00 ["Cuidar las bibliotecas es cuidar a la ciudad y a sus ciudadanos"](https://www.elperiodico.com/es/entre-todos/participacion/bibliotecas-cuidar-huelga-carta-lector-edurne-zabaleta-134444984)<br>
+06:15 ["La dificultad para digerir la difícil etapa de la preadolescencia"](https://www.elperiodico.com/es/entre-todos/participacion/esperar-adolescencia-preadolescencia-carta-lector-jesus-sanchez-134419919)<br>
 06:00 [La profecía del 'hype': cuando el alarmismo se convierte en negocio](https://www.elperiodico.com/es/opinion/20260921/profecia-hype-alarmismo-convierte-negocio-articulo-andreu-belsunces-134448178)<br>
 06:00 [Un momento extraordinario en la historia del alzhéimer: de una actitud pasiva a una nueva etapa de diagnóstico y tratamiento](https://www.elperiodico.com/es/opinion/20260921/momento-extraordinario-historia-alzheimer-actitud-articulo-xavier-montalban-134447658)<br>
 06:00 [PongoTodo, el estudio barcelonés que convierte las lámparas en una experiencia culinaria: "No solamente es el diseño lo que hace que un producto sea bueno"](https://www.elperiodico.com/es/ocio-y-cultura/20260921/pongotodo-estudio-barcelones-lamparas-experiencia-134276781)<br>
