@@ -1,5 +1,401 @@
 [
   {
+    "title": "Генштаб назвав кількість боїв на фронті",
+    "link": "https://ua.korrespondent.net/ukraine/4913374-henshtab-nazvav-kilkist-boiv-na-fronti",
+    "pubDate": "2026-09-21 07:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570520.jpg\">Найбільше штурмів відбулося на Костянтинівському напрямку - 24 за добу, на Покровському - 19.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Промоутер розкрив плани Ітауми після першої поразки в кар'єрі",
+    "link": "https://ua.korrespondent.net/sport/boks/4913289-promouter-rozkryv-plany-itaumy-pislia-pershoi-porazky-v-karieri",
+    "pubDate": "2026-09-21 07:10:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570519.jpg\">За словами промоутера, боксер уже зробив висновки з невдачі і готується повернутися на ринг найближчим часом.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miguel (52 años) crio a sus tres hijos sin luz ni carretera en un deshabitado pueblo de Asturias: \"Todos mis hijos han estudiado una carrera; no han salido al padre para nada\"",
+    "link": "https://www.elperiodico.com/es/economia/20260921/unico-vecino-pueblo-asturias-despoblacion-hijos-luz-carretera-burro-miguel-dv-et-134358346",
+    "pubDate": "2026-09-21 07:10:00",
+    "category": "",
+    "description": "<h2>El hombre, que no cambiaría su vida \"por nada en el mundo\", tenía que llevar a los niños a coger el bus escolar \"con un burro y con un caballo\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260805/vivir-paraiso-hijas-autosuficiente-ciudad-cancer-estres-dv-et-133000633\">Suleima renunció a todo para construir una nueva vida junto a sus hijas: \"Me fui para conocer lo que era la ciudad, pero dije 'Ya no más'\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260809/padre-hijo-sobreviven-aldea-sin-comunicacion-compra-supermercado-dv-et-133123536\">Fran y Adisu, padre e hijo, sobreviven en una aldea sin comunicación: \"El supermercado grande más cercano está a 50 minutos. No puedes olvidarte de nada para preparar una comida o una cena\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TVyMAS Lunes 21",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-21/134494135.shtml",
+    "pubDate": "2026-09-21 07:00:57",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "O lo retiras, o te pongo una demanda",
+    "link": "https://www.elperiodico.com/es/tele/20260921/retiras-o-pongo-demanda-134494094",
+    "pubDate": "2026-09-21 07:00:56",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Así cambiarán los semáforos a partir del próximo 1 de octubre",
+    "link": "https://www.elperiodico.com/es/motor/20260921/cambiaran-semaforos-partir-proximo-1-octubre-133609163",
+    "pubDate": "2026-09-21 07:00:49",
+    "category": "",
+    "description": "<h2>La nueva norma obligará a los conductores a detenerse mientras los peatones puedan cruzar</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Атака на Київщину: постраждали два райони",
+    "link": "https://ua.korrespondent.net/ukraine/4913372-ataka-na-kyivschynu-postrazhdaly-dva-raiony",
+    "pubDate": "2026-09-21 06:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570501.jpg\">У Бучанському районі виникла пожежа на станції технічного обслуговування. У Фастівському районі - в будівлі пилорами.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Масована атака на Запоріжжя: стали відомі наслідки",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4913369-masovana-ataka-na-zaporizhzhia-staly-vidomi-naslidky",
+    "pubDate": "2026-09-21 06:46:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570494.jpg\">Внаслідок обстрілу травмовано п'ятьох людей, ще п'ятьох осіб надзвичайники врятували та 14 - евакуювали.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Madrid de Pedro Martínez: más anotador y solidario",
+    "link": "https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/",
+    "pubDate": "2026-09-21 06:40:28",
+    "category": "Baloncesto",
+    "description": "El equipo blanco cerró la primera etapa de la temporada con cinco victorias, una derrota y el título de la Supercopa de la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Мілан впевнено розібрався з Лечче",
+    "link": "https://ua.korrespondent.net/sport/football/4913335-milan-vpevneno-rozibravsia-z-lechche",
+    "pubDate": "2026-09-21 06:38:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570480.jpg\">У домашньому матчі Серії А \"россонері\" продемонстрували якісну та результативну гру, завдавши Лечче беззаперечної поразки.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Збірна України посилила склад вінгером Полісся",
+    "link": "https://ua.korrespondent.net/sport/football/4913274-zbirna-ukrainy-posylyla-sklad-vinherom-polissia",
+    "pubDate": "2026-09-21 06:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570479.jpg\">Гравець житомирського клубу покликаний компенсувати втрату нападника Артема Степанова, який отримав травму і не зможе допомогти \"синьо-жовтим\".",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб підрахував втрати РФ станом на 21 вересня",
+    "link": "https://ua.korrespondent.net/ukraine/4913365-henshtab-pidrakhuvav-vtraty-rf-stanom-na-21-veresnia",
+    "pubDate": "2026-09-21 06:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570461.jpg\">Минулої доби ЗСУ ліквідували 1660 окупантів. Знищено п'ять танків, чотири бронемашини, 75 артсистем, три РСЗВ, три засоби ППО, 17 НРК і 1728 дронів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Реал залишився без основного півзахисника через травму",
+    "link": "https://ua.korrespondent.net/sport/football/4913319-real-zalyshyvsia-bez-osnovnoho-pivzakhysnyka-cherez-travmu",
+    "pubDate": "2026-09-21 06:11:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570463.jpg\">Серйозна травма уругвайця створює чимало проблем тренерському штабу мадридців перед наступними поєдинками.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Acosta: \"Esta victoria se la dedico a los que han soportado al Pedro más desagradable\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260921/acosta-victoria-dedico-han-soportado-134501342",
+    "pubDate": "2026-09-21 06:02:54",
+    "category": "",
+    "description": "<h2 class=\"item\">El murciano Pedro Acosta (KTM) protagonizó ayer, en Spielberg (Austria), un triunfo maravilloso y, sobre todo, absolutamente merecido, ganado a pulso a lo largo de casi tres años, 56 grandes premios y 15 podios. El 'tiburón de Mazarrón', de 22 años, ganó ayer su primer GP de MotoGP de forma brillantísima.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Madrid intentó lavarle la cara a Mourinho, pero aquí está el ‘Mou’ del dedo en el ojo",
+    "link": "https://www.elperiodico.com/es/deportes/20260921/madrid-lavarle-cara-mourinho-mou-134503840",
+    "pubDate": "2026-09-21 06:02:11",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El problema de Florentino: los socios del Real Madrid pitan al césped, pero señalan al palco",
+    "link": "https://www.elperiodico.com/es/deportes/20260921/programada-problema-florentino-socios-real-134503407",
+    "pubDate": "2026-09-21 06:01:22",
+    "category": "",
+    "description": "<h2>Mourinho y los jugadores son blancos de las críticas, pero el presidente está muy cuestionado por su deficiente planificación deportiva</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "En defensa de Mbappé y Vinícius",
+    "link": "https://www.elperiodico.com/es/opinion/20260921/defensa-mbappe-vinicius-134499005",
+    "pubDate": "2026-09-21 06:01:13",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya, esencial para PP y PSOE",
+    "link": "https://www.elperiodico.com/es/opinion/20260921/cataluna-esencial-pp-psoe-elecciones-municipales-financiacion-134495583",
+    "pubDate": "2026-09-21 06:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo modelo aprobado por el Consejo de Política Fiscal y Financiera prevé 20.975 millones adicionales para las comunidades autónomas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Quiénes son los 'caseros' de la Generalitat? Del dinero de las pensiones alemanas a la familia Balañá",
+    "link": "https://www.elperiodico.com/es/economia/20260921/propietarios-edificios-alquiler-generalitat-cataluna-quienes-son-134398360",
+    "pubDate": "2026-09-21 06:00:59",
+    "category": "",
+    "description": "<h2>La administración catalana vendió en 2012 una treintena de edificios históricos para ganar liquidez y se pasó al alquiler. Parte de ese parque inmobiliario ha cambiado de manos durante esta última década</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La Generalitat paga 46 millones de euros al año en alquilar edificios que se vendió en 2012",
+    "link": "https://www.elperiodico.com/es/economia/20260921/alquiler-generalitat-cataluna-paga-edificios-vendidos-2012-134397375",
+    "pubDate": "2026-09-21 06:00:58",
+    "category": "",
+    "description": "<h2>La administración catalana inicia un plan de recompra de inmuebles para ahorrar dinero y que obligará a reubicar a 12.000 empleados públicos, progresivamente hasta 2038</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Promociones, tarjetas de cliente y marcas blancas: estas son las claves del crecimiento de Consum, Dia y Lidl este año",
+    "link": "https://www.elperiodico.com/es/economia/20260921/promociones-bajadas-precio-tarjetas-fidelizacion-crecimiento-aldi-dia-lidl-134504015",
+    "pubDate": "2026-09-21 06:00:57",
+    "category": "",
+    "description": "<h2>El consumidor se ha puesto en 'modo control' y realiza más visitas a las tiendas, de las que sale con cestas más fragmentadas para así ahorrar, constata un estudio de Worldpanel</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Competencia arma un sistema integral de vigilancia de todas las energéticas en plena escalada de precios",
+    "link": "https://www.elperiodico.com/es/economia/20260921/competencia-sistema-vigilancia-energeticas-precio-combustible-luz-gas-134457659",
+    "pubDate": "2026-09-21 06:00:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La CNMC prepara un nuevo mecanismo de control permanente de las petroleras y sus gasolineras, refuerza el cruce de sus datos con los de los reguladores europeos para supervisar los mercados de electricidad y gas, y amplía la monitorización de la venta de tarifas de luz y gas con ‘falsos clientes-espía’</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La profecía del 'hype': cuando el alarmismo se convierte en negocio",
+    "link": "https://www.elperiodico.com/es/opinion/20260921/profecia-hype-alarmismo-convierte-negocio-articulo-andreu-belsunces-134448178",
+    "pubDate": "2026-09-21 06:00:56",
+    "category": "",
+    "description": "<h2>Alimentar el miedo hacia la IA ya forma parte del extraño márketing tecnológico contemporáneo</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260912/director-ejecutivo-anthropic-pide-desaceleracion-inteligencia-artificial-134220679\">El director ejecutivo de Anthropic pide una desaceleración inmediata en el desarrollo de la IA</a></h2><h2><a href=\"https://www.elperiodico.com/es/tecnologia/20260909/jacob-coxon-ingeniero-anthropic-dimite-ia-matarnos-todos-riesgo-existencial-openai-chatgpt-134107555\">Un ingeniero de Anthropic dimite al creer que la IA \"podría matarnos a todos\": ¿Qué hay de cierto en su advertencia?</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un momento extraordinario en la historia del alzhéimer: de una actitud pasiva a una nueva etapa de diagnóstico y tratamiento",
+    "link": "https://www.elperiodico.com/es/opinion/20260921/momento-extraordinario-historia-alzheimer-actitud-articulo-xavier-montalban-134447658",
+    "pubDate": "2026-09-21 06:00:56",
+    "category": "",
+    "description": "<h2>Ahora podemos aspirar a identificar la enfermedad con mayor precisión y en fases más iniciales</h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20260914/sanidad-privada-administra-donamebab-farmaco-ralentiza-progresion-alzheimer-134266193\">La sanidad privada ya administra donanemab, el fármaco que ralentiza el alzhéimer: \"El beneficio continúa con el paso del tiempo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya aprueba un plan de igualdad para incluir la perspectiva de género en la salud y para revertir los sesgos de la IA",
+    "link": "https://www.elperiodico.com/es/politica/20260921/catalunya-aprueba-plan-igualdad-incluir-134434113",
+    "pubDate": "2026-09-21 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">El Govern aprueba este martes el documento \"transversal\" que también propone sacar adelante una ley para \"dar respuesta\" a las víctimas de explotación sexual </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20250421/prostitucion-partidos-cataluna-que-opinan-116265067\" target=\"_blank\">Regular o abolir la prostitución: ¿qué opinan los partidos en Catalunya?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/parlament/20241231/parlament-trabaja-nuevo-plan-igualdad-contra-racismo-112762116\" target=\"_blank\">El Parlament trabaja en un nuevo plan de igualdad que incluirá la lucha contra el racismo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "PongoTodo, el estudio barcelonés que convierte las lámparas en una experiencia culinaria: \"No solamente es el diseño lo que hace que un producto sea bueno\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260921/pongotodo-estudio-barcelones-lamparas-experiencia-134276781",
+    "pubDate": "2026-09-21 06:00:52",
+    "category": "",
+    "description": "<h2 class=\"item\">Los diseñadores de la marca, reconocida en los premios Delta, fabrican sus piezas en Barcelona mediante impresión 3D y fusionan la estética de la pastelería francesa con la iluminación</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cristina Vallejo, decana de los abogados de Barcelona: \"Abogacía, ciudadanía y empresas pueden encontrar soluciones a la vivienda\"",
+    "link": "https://www.elperiodico.com/es/economia/20260921/cristina-vallejo-decana-abogados-barcelona-134435098",
+    "pubDate": "2026-09-21 06:00:50",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20260914/guillermo-casar-ceo-tiwi-calma-134138823\">Guillermo Casar, CEO de TIWI: \"La calma mental también forma parte del trabajo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Catalunya abre una delegación en Nueva Delhi para elevar hasta 1.300 millones sus exportaciones a India",
+    "link": "https://www.elperiodico.com/es/economia/20260921/generalitat-cataluna-abre-delegacion-comercial-nueva-delhi-india-134425562",
+    "pubDate": "2026-09-21 06:00:46",
+    "category": "",
+    "description": "<h2>El conseller de Empresa, Miquel Sàmper, se desplaza hasta al país asiático para acelerar el desembarco de empresas catalanas, aumentar sus ventas y diversificar la balanza comercial para no depender tanto de EEUU</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260403/reto-censo-india-pais-poblado-128723929\">El reto de hacer un censo en India, el país más poblado del mundo: tres millones de funcionarios y un año de trabajo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Mònica Cunill, psicóloga experta en duelo: \"Tras la muerte, una parte de la persona sigue entre nosotros\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260921/monica-cunill-psicologa-experta-duelo-132991772",
+    "pubDate": "2026-09-21 06:00:46",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Cuando desencarnamos, el cuerpo muere y entramos en el plano astral: acabamos de soltar apegos, antes de llegar al plano espiritual\"</h2><h2 class=\"item\">\"Cuando te abres a seguir conectado desde otro lugar y de otra manera, eso tiene un beneficio muy importante en el proceso de duelo\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El recurso de Turull ante el TC da el pistoletazo de salida a la aplicación de la amnistía a Puigdemont",
+    "link": "https://www.elperiodico.com/es/politica/20260921/recurso-turull-tc-pistoletazo-salida-amnistia-puigdemont-134425556",
+    "pubDate": "2026-09-21 06:00:45",
+    "category": "",
+    "description": "<h2>El Constitucional estudiará esta semana la propuesta de Macías de rechazar la medida de gracia, aunque no prosperará y tendrá que rehacerse en sentido contrario para el primer pleno de octubre</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El pequeño ahorrador ante la incertidumbre y la volatilidad: los expertos aconsejan mantenerse en el mercado y no intentar anticipar las subidas y bajadas",
+    "link": "https://www.elperiodico.com/es/economia/20260921/pequeno-ahorrador-incertidumbre-volatilidad-expertos-134276622",
+    "pubDate": "2026-09-21 06:00:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Los expertos financieros coinciden en destacar el largo plazo como el principal generador de rentabilidad y la importancia de mantenerse en el mercado </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260921/inteligencia-artificial-inflacion-grandes-factores-mercado-futuro-2026-2027-134316450\">La inteligencia artificial y la inflación, los grandes factores que condicionarán el mercado a futuro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La inteligencia artificial y la inflación, los grandes factores que condicionarán el mercado a futuro",
+    "link": "https://www.elperiodico.com/es/economia/20260921/inteligencia-artificial-inflacion-grandes-factores-mercado-futuro-2026-2027-134316450",
+    "pubDate": "2026-09-21 06:00:44",
+    "category": "",
+    "description": "<h2>La gran duda a resolver será si los beneficios de la inteligencia artificial podrán sostener las altas valoraciones que le da el mercado </h2><h2>El pequeño ahorrador ante la incertidumbre y la volatilidad: los expertos aconsejan mantenerse en el mercado y no intentar anticipar las subidas y bajadas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20260921/gasolineras-mas-baratas-hoy-lunes-21-septiembre-2026-134418127",
+    "pubDate": "2026-09-21 06:00:44",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Food for Joe y la historia de Albane y Jade: así ha cambiado la forma de alimentar a nuestros amigos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260921/food-for-joe-bc-134340020",
+    "pubDate": "2026-09-21 05:56:15",
+    "category": "",
+    "description": "<h2>Cuando Albane Sabatier adoptó a Jade, incorporar una preciosa perrita a su vida significaba mucho más que hacerle un hueco en casa. La historia entre las dos es de puro amor: Albane acudió a la perrera y la conexión con Jade fue inmediata. Había que entender sus rutinas, aprender a leer sus necesidades, organizar los paseos, integrarla con el resto de la familia, ocuparse de sus revisiones y tomar una decisión aparentemente sencilla: ¿qué le doy de comer?</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Підсумки 20.9: удари по Москві й успіхи \"Вівальді\"",
+    "link": "https://ua.korrespondent.net/ukraine/4913344-pidsumky-209-udary-po-moskvi-y-uspikhy-vivaldi",
+    "pubDate": "2026-09-21 05:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570229.jpg\">Атака на Москву та Підмосков'я: горять склади, НПЗ. Удари по Москві: Зеленський розкрив деталі. Операція Вівальді: звільнено нові населені пункти. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна визначилася з оновленою заявкою на Кубок Біллі Джин Кінг",
+    "link": "https://ua.korrespondent.net/sport/tenis/4913332-ukraina-vyznachylasia-z-onovlenoui-zaiavkoui-na-kubok-billi-dzhyn-kinh",
+    "pubDate": "2026-09-21 05:52:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570459.jpg\">Тренерський штаб оприлюднив остаточний склад на майбутній чвертьфінал Кубка Біллі Джин Кінг, у якому команда зіграє проти Бельгії.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У США екстрадували 18 підозрюваних у вбивстві президента Гаїті",
+    "link": "https://ua.korrespondent.net/world/4913362-u-ssha-ekstraduvaly-18-pidozruivanykh-u-vbyvstvi-prezydenta-haiti",
+    "pubDate": "2026-09-21 05:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570426.jpg\">Мін'юст Гаїті передав підозрюваних Америці, щоб довести судовий процес до кінця, адже в самій країні він тривалий час буксував.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Легенда мюнхенської Баварії помер у віці 74 років",
+    "link": "https://ua.korrespondent.net/sport/football/4913322-lehenda-muinkhenskoi-bavarii-pomer-u-vitsi-74-rokiv",
+    "pubDate": "2026-09-21 05:33:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570031.jpg\">Мюнхенський клуб повідомив про смерть легендарного асистента головного тренера Петера Германна, який пішов з життя після важкої хвороби.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260921/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-21 05:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Guerra de Irán, en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260921/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-09-21 05:25:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260309/lista-paises-exteriores-recomienda-no-viajar-127652876\" >Países a los que Exteriores recomienda no viajar en Oriente Próximo y países árabes</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Las elecciones se juegan en Ceuta o en Catalunya?",
+    "link": "https://www.elperiodico.com/es/opinion/20260921/elecciones-juegan-ceuta-o-catalunya-134503731",
+    "pubDate": "2026-09-21 05:21:39",
+    "category": "",
+    "description": "",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Травма Степанова ставить під сумнів його участь у матчах збірної",
+    "link": "https://ua.korrespondent.net/sport/football/4913326-travma-stepanova-stavyt-pid-sumniv-yoho-uchast-u-matchakh-zbirnoi",
+    "pubDate": "2026-09-21 05:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570048.jpg\">Форвард не зміг дограти зустріч і залишив поле достроково, через що його виклик та участь у найближчих іграх національної команди опинилися під загрозою.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війна з Іраном призвела до дефіциту нафтових танкерів - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4913360-viina-z-iranom-pryzvela-do-defitsytu-naftovykh-tankeriv-zmi",
+    "pubDate": "2026-09-21 04:59:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570409.jpg\">Раптовий дефіцит великотоннажних танкерів для перевезення сирої нафти підняв вартість транспортування до історичних показників.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ЗМІ:Умєров оцінив роботу Віткоффа щодо переговорів",
+    "link": "https://ua.korrespondent.net/world/worldabus/4913358-zmiumierov-otsinyv-robotu-vitkoffa-schodo-perehovoriv",
+    "pubDate": "2026-09-21 04:38:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4570376.jpg\">Голова СЗР спростував недавню статтю ЗМІ про те, що український уряд розчаровується дипломатичною роботою Віткоффа.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Вибори в Німеччині: ХДС уперше може не пройти в земельний парламент",
     "link": "https://ua.korrespondent.net/world/4913356-vybory-v-nimechchyni-khds-upershe-mozhe-ne-proity-v-zemelnyi-parlament",
     "pubDate": "2026-09-21 03:59:00",
