@@ -1,4 +1,4 @@
-# News for 2026-09-21 07:23
+# News for 2026-09-21 08:46
 
 Previous day: [2026-09-20](./data/2026-09-20.md)
 
@@ -10,6 +10,11 @@ Previous day: [2026-09-20](./data/2026-09-20.md)
 06:40 [El Madrid de Pedro Martínez: más anotador y solidario](https://as.com/baloncesto/acb/el-madrid-de-pedro-martinez-mas-anotador-y-solidario-f202609-n/)<br>
 
 ## www.elperiodico.com
+08:38 [EL PERIÓDICO avanza dos capítulos del libro de Charles Spencer, 'El canto del cisne': "Los fotógrafos se abalanzaron sobre ella como hienas cercando a una gacela"](https://www.elperiodico.com/es/gente/20260921/charles-spencer-lady-di-acoso-prensa-principe-carlos-avance-capitulos-libro-el-canto-del-cisne-diana-mi-hermana-134505573)<br>
+08:20 [Última hora de la Inteligencia Artificial: seguridad, ciberataques, reacciones y opiniones de expertos, en directo](https://www.elperiodico.com/es/tecnologia/20260921/inteligencia-artificial-seguridad-ciberataques-ultima-hora-directo-134453362)<br>
+08:15 [Murcia es el territorio europeo más expuesto a la desertificación](https://www.elperiodico.com/es/sociedad/20260921/murcia-territorio-europeo-expuesto-desertificacion-134506244)<br>
+08:15 [Última hora y actualidad sobre los incendios en España](https://www.elperiodico.com/es/sociedad/20260921/ultima-hora-incendios-espana-directo-132759066)<br>
+07:28 [Presley Gerber, el hijo de Cindy Crawford, muere a los 27 años](https://www.elperiodico.com/es/gente/20260921/presley-gerber-muere-hijo-cindy-crawford-27-anos-134505204)<br>
 07:10 [Miguel (52 años) crio a sus tres hijos sin luz ni carretera en un deshabitado pueblo de Asturias: "Todos mis hijos han estudiado una carrera; no han salido al padre para nada"](https://www.elperiodico.com/es/economia/20260921/unico-vecino-pueblo-asturias-despoblacion-hijos-luz-carretera-burro-miguel-dv-et-134358346)<br>
 06:00 [La profecía del 'hype': cuando el alarmismo se convierte en negocio](https://www.elperiodico.com/es/opinion/20260921/profecia-hype-alarmismo-convierte-negocio-articulo-andreu-belsunces-134448178)<br>
 06:00 [Un momento extraordinario en la historia del alzhéimer: de una actitud pasiva a una nueva etapa de diagnóstico y tratamiento](https://www.elperiodico.com/es/opinion/20260921/momento-extraordinario-historia-alzheimer-actitud-articulo-xavier-montalban-134447658)<br>
