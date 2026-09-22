@@ -1,6 +1,13 @@
-# News for 2026-09-22 08:12
+# News for 2026-09-22 08:49
 
 Previous day: [2026-09-21](./data/2026-09-21.md)
+
+## ua.korrespondent.net
+08:46 [На півдні Алеппо стався вибух на складі боєприпасів](https://ua.korrespondent.net/world/4913746-na-pivdni-aleppo-stavsia-vybukh-na-skladi-boieprypasiv)<br>
+08:26 [Ціни на нафту зросли вперше за п’ять сесій](https://ua.korrespondent.net/business/economics/4913737-tsiny-na-naftu-zrosly-vpershe-za-piat-sesii)<br>
+08:17 [Атака на Київщину: за добу пошкоджено 34 об'єкти](https://ua.korrespondent.net/ukraine/4913736-ataka-na-kyivschynu-za-dobu-poshkodzheno-34-obiekty)<br>
+07:53 [У Дніпрі зросла кількість загиблих внаслідок нічного удару РФ](https://ua.korrespondent.net/city/dnepr/4913732-u-dnipri-zrosla-kilkist-zahyblykh-vnaslidok-nichnoho-udaru-rf)<br>
+06:35 [Удар по Дніпру: двоє загиблих, шестеро поранених](https://ua.korrespondent.net/city/dnepr/4913719-udar-po-dnipru-dvoie-zahyblykh-shestero-poranenykh)<br>
 
 ## as.com
 07:04 [El Barça: 1.190 días sin títulos... y sumando](https://as.com/baloncesto/acb/el-barca-1190-dias-sin-titulos-y-sumando-f202609-n/)<br>
@@ -8,6 +15,14 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 
 ## www.elperiodico.com
 09:25 [Nuria Roure, psicóloga experta en sueño: "Las apneas del sueño provocan cansancio constante y dolores de cabeza"](https://www.elperiodico.com/es/salud/20260922/apnea-sueno-roncar-nuria-roure-psicologa-dv-129876487)<br>
+08:47 [El Ibex 35 abre sin signo de dispar a la espera de la cumbre entre Xi y Trump](https://www.elperiodico.com/es/economia/20260922/ibex-35-abre-signo-dispar-134543585)<br>
+08:46 [¿Por qué volarán helicópteros en la cima de la Mola? Retiran amianto, buscan una necrópolis y renuevan las placas solares](https://www.elperiodico.com/es/sociedad/20260922/helicopteros-mola-amianto-placas-solares-134543327)<br>
+08:37 [La Aemet defiende que los umbrales del aviso rojo se consensúan con Emergencias y que la Generalitat valenciana no ha pedido revisarlos](https://www.elperiodico.com/es/sociedad/20260922/aemet-defiende-umbrales-aviso-rojo-134542853)<br>
+08:37 [Aemet: “El Mediterráneo está suficientemente cálido para tener lluvias extremas si hay inestabilidad atmosférica"](https://www.elperiodico.com/es/sociedad/20260922/aemet-mediterraneo-suficientemente-calido-lluvias-134542849)<br>
+08:20 [Cinco muertos y seis desaparecidos por el azote del tifón Dujuan en Japón](https://www.elperiodico.com/es/internacional/20260922/muertos-desaparecidos-tifon-dujuan-japon-134542935)<br>
+08:15 [Guerra Ucrania - Rusia, última hora en directo](https://www.elperiodico.com/es/internacional/20260922/guerra-ucrania-rusia-ultima-hora-126605559)<br>
+08:15 [Guerra de Irán, en directo](https://www.elperiodico.com/es/internacional/20260922/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713)<br>
+08:15 [Iker Regidor (22 años) abandonó la ciudad y vive de manera autosuficiente: "Me di cuenta de que todo eso te lleva a una vida enferma, está hecho para que seas dependiente, prácticamente un esclavo"](https://www.elperiodico.com/es/economia/20260922/vivir-naturaleza-autosuficiente-gran-apagon-iker-regidor-dv-et-134068096)<br>
 08:10 [Qué es la ibogaína, el polémico tratamiento psicodélico contra las adicciones que Presley Gerber probó meses antes de morir](https://www.elperiodico.com/es/gente/20260922/que-es-ibogaina-psicodelico-adicciones-presley-gerber-muerte-134528967)<br>
 08:02 [Ester Expósito, la nieta que Florentino no querría tener](https://www.elperiodico.com/es/opinion/20260922/ester-exposito-nieta-florentino-querria-134540153)<br>
 08:00 [Más de la mitad de los alumnos de primaria de Catalunya tienen teléfono móvil](https://www.elperiodico.com/es/sociedad/20260922/mitad-alumnos-primaria-catalunya-tiene-movil-134533268)<br>
