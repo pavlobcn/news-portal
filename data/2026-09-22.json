@@ -1,5 +1,86 @@
 [
   {
+    "title": "Zelenski pide ayuda a Trump para acabar la guerra \"antes del invierno\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260922/zelenski-pide-ayuda-trump-acabar-guerra-invierno-134573650",
+    "pubDate": "2026-09-22 21:54:59",
+    "category": "",
+    "description": "<h2>El magnate neoyorquino pide a su homólogo ucraniano una moratoria en los bombardeos contra la infraestructura energética de ambos países   </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський розповів, про що домовився з Трампом",
+    "link": "https://ua.korrespondent.net/ukraine/4914018-zelenskyi-rozpoviv-pro-scho-domovyvsia-z-trampom",
+    "pubDate": "2026-09-22 21:54:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572128.jpg\">Володимир Зеленський після зустрічі з Дональдом Трампом заявив, що Україна та США продовжують роботу над запуском виробництва ракет для Patriot в Україні. Сторони також обговорили посилення української ППО перед зимою.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez pide en la ONU regular la IA y carga contra los “tecnoligarcas”: “Por encima de su negocio están nuestros hijos”",
+    "link": "https://www.elperiodico.com/es/politica/20260922/sanchez-pide-onu-regular-ia-134573588",
+    "pubDate": "2026-09-22 21:52:08",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El juez del caso Zapatero interroga este viernes al financiero detenido en Alemania acusado de blanquear el rescate de Plus Ultra",
+    "link": "https://www.elperiodico.com/es/politica/20260922/juez-caso-zapatero-interroga-viernes-134573506",
+    "pubDate": "2026-09-22 21:46:00",
+    "category": "",
+    "description": "<h2>Verhoeven, detenido en agosto, accedió a ser entregado a España lo que ha agilizado su puesta a disposición de la Audiencia Nacional</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tiroteo en un colegio de Turquía: once heridos, dos de ellos graves",
+    "link": "https://www.elperiodico.com/es/videos/internacional/tiroteo-colegio-turquia-once-heridos/134573438.shtml",
+    "pubDate": "2026-09-22 21:40:04",
+    "category": "",
+    "description": "El agresor, un alumno del centro, ya ha sido detenido por la Policía",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "BOW: Una nueva era logística",
+    "link": "https://www.elperiodico.com/es/motor/20260922/bow-nueva-logistica-134544996",
+    "pubDate": "2026-09-22 21:30:39",
+    "category": "",
+    "description": "<h2>Stellantis presenta Box on Wheels, un concepto para el transporte de última milla</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Війна не закінчиться військовою перемогою - Рубіо",
+    "link": "https://ua.korrespondent.net/ukraine/4914013-viina-ne-zakinchytsia-viiskovoui-peremohoui-rubio",
+    "pubDate": "2026-09-22 21:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572121.jpg\">Глава Держдепартаменту США заявив, що завершення війни в Україні має відбутися шляхом домовленостей, а не \"нищівної військової перемоги\" однієї зі сторін.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Superinteligencia, coyuntura internacional y mercados",
+    "link": "https://www.elperiodico.com/es/opinion/20260922/superinteligencia-coyuntura-internacional-mercados-134573039",
+    "pubDate": "2026-09-22 21:18:41",
+    "category": "",
+    "description": "<h2>El contexto mundial influye más que nunca en la evolución de la renta variable y los sentimientos inversores</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Congreso aprueba tramitar la ley para prejubilarse sin penalización con 40 años cotizados",
+    "link": "https://www.elperiodico.com/es/economia/20260922/congreso-aprueba-tramitar-ley-prejubilarse-penalizacion-40-anos-cotizados-134573017",
+    "pubDate": "2026-09-22 21:18:38",
+    "category": "",
+    "description": "<h2>La Cámara Baja respalda una iniciativa de Podemos para eliminar las penalizaciones en las pensiones de jubilación anticipada, aunque diversos grupos parlamentarios cuestionan que la medida llegue a convertirse en ley</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "El español Benjamín Noval se proclama campeón del mundo júnior de contrarreloj en Montreal: \"Sabía que era posible, pero aún no me lo creo\"",
     "link": "https://www.elperiodico.com/es/deportes/20260922/espanol-benjamin-noval-proclama-campeon-134572652",
     "pubDate": "2026-09-22 21:10:59",
@@ -106,6 +187,15 @@
     "description": "<h2 class=\"item\">El club blanco considera que la comparación \"constituye un ejercicio extremadamente grave que traspasa todos los límites\". </h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Tres heridos al caer un falso techo en la estación de Fabra i Puig de Barcelona",
+    "link": "https://www.elperiodico.com/es/fotos/sucesos/tres-heridos-caer-falso-techo-134571829",
+    "pubDate": "2026-09-22 20:24:39",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
   },
   {
     "title": "Salvador Alemany hace balance de sus 10 años en el Liceu: \"Nos hemos contenido, no se puede asustar al público más clásico\"",

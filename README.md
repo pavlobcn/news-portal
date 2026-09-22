@@ -1,4 +1,4 @@
-# News for 2026-09-22 21:17
+# News for 2026-09-22 21:58
 
 Previous day: [2026-09-21](./data/2026-09-21.md)
 
@@ -42,6 +42,7 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 07:04 [Sekulic, con AS: “Laporta quería saber qué tipo de persona era”](https://as.com/baloncesto/euroliga/sekulic-con-as-laporta-queria-saber-que-tipo-de-persona-era-f202609-n/)<br>
 
 ## www.elperiodico.com
+21:18 [Superinteligencia, coyuntura internacional y mercados](https://www.elperiodico.com/es/opinion/20260922/superinteligencia-coyuntura-internacional-mercados-134573039)<br>
 20:22 [Salvador Alemany hace balance de sus 10 años en el Liceu: "Nos hemos contenido, no se puede asustar al público más clásico"](https://www.elperiodico.com/es/ocio-y-cultura/20260922/salvador-alemany-balance-10-anos-entrevista-liceu-asustar-publico-clasico-134561886)<br>
 20:05 [El refugio de Kira Miró (46 años) en Canarias es un precioso pueblo de Gran Canaria entre volcanes y viñedos: el rincón donde siempre quiere volver](https://www.elperiodico.com/es/gente/20260922/refugio-kira-miro-canarias-dv-134564236)<br>
 19:52 [El juez ve indicios de delito en la gestión del consejero delegado de Glovo](https://www.elperiodico.com/es/economia/20260922/glovo-oscar-pierre-consejero-delegado-juicio-delito-riders-134569641)<br>
