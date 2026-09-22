@@ -1,18 +1,22 @@
-# News for 2026-09-22 17:48
+# News for 2026-09-22 18:56
 
 Previous day: [2026-09-21](./data/2026-09-21.md)
 
 ## ua.korrespondent.net
+18:33 [Свята 23 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4913956-sviata-23-veresnia-2026-roku-istoriia-tradytsii)<br>
 17:26 [F-16 розбився біля авіабази США в Німеччині](https://ua.korrespondent.net/world/4913958-F-16-rozbyvsia-bilia-aviabazy-ssha-v-nimechchyni)<br>
 17:00 [Біля Полтави сталися землетруси](https://ua.korrespondent.net/ukraine/4913951-bilia-poltavy-stalysia-zemletrusy)<br>
 16:22 [Обміління Дністра оголило незвичайну знахідку](https://ua.korrespondent.net/tech/science/4913642-obmilinnia-dnistra-oholylo-nezvychainu-znakhidku)<br>
 13:51 [Росія заявила про 400 супутників на орбіті](https://ua.korrespondent.net/world/russia/4913881-rosiia-zaiavyla-pro-400-suputnykiv-na-orbiti)<br>
+13:45 [Повторний шлюб після втрати чоловіка чи дружини: що змінилося](https://ua.korrespondent.net/ukraine/4913877-povtornyi-shluib-pislia-vtraty-cholovika-chy-druzhyny-scho-zminylosia)<br>
 13:38 [Україна намолотила 33 млн тонн зерна: які культури вже зібрали](https://ua.korrespondent.net/business/economics/4913873-ukraina-namolotyla-33-mln-tonn-zerna-yaki-kultury-vzhe-zibraly)<br>
 13:30 [Сили оборони знищили понад 350 тисяч дронв з початку року](https://ua.korrespondent.net/ukraine/4913869-syly-oborony-znyschyly-ponad-350-tysiach-dronv-z-pochatku-roku)<br>
 13:27 [Україна отримала $841 млн від Світового банку](https://ua.korrespondent.net/business/financial/4913871-ukraina-otrymala-841-mln-vid-svitovoho-banku)<br>
 13:00 [Витончений дизайн та Copilot+ PC: огляд ASUS Zenbook 14, який почали продавати в Україні](https://ua.korrespondent.net/lifestyle/gadgets/4912483-vytonchenyi-dyzain-ta-Copilot-PC-ohliad-ASUS-Zenbook-14-yakyi-pochaly-prodavaty-v-ukraini)<br>
 12:17 [Японію накрив потужний тайфун: четверо людей загинули](https://ua.korrespondent.net/world/4913843-yaponiui-nakryv-potuzhnyi-taifun-chetvero-luidei-zahynuly)<br>
 11:53 [Росіяни знищили балістикою об’єкт Нафтогазу](https://ua.korrespondent.net/ukraine/4913831-rosiiany-znyschyly-balistykoui-obiekt-naftohazu)<br>
+11:43 [Енергоатом отримав нового в.о. голови правліня](https://ua.korrespondent.net/business/companies/4913826-enerhoatom-otrymav-novoho-vo-holovy-pravlinia)<br>
+11:28 [Китай імпортував рекордні 1000 тонн золота](https://ua.korrespondent.net/business/financial/4913816-kytai-importuvav-rekordni-1000-tonn-zolota)<br>
 11:27 [Уражено склади з ударними дронами РФ - Генштаб](https://ua.korrespondent.net/ukraine/4913819-urazheno-sklady-z-udarnymy-dronamy-rf-henshtab)<br>
 11:00 [Курс долара зростає, євро стабілізувався](https://ua.korrespondent.net/business/financial/4913808-kurs-dolara-zrostaie-yevro-stabilizuvavsia)<br>
 10:56 [Обстріли Херсона та середмістя: поранені троє жінок](https://ua.korrespondent.net/ukraine/4913806-obstrily-khersona-ta-seredmistia-poraneni-troie-zhinok)<br>
@@ -36,6 +40,14 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 07:04 [Sekulic, con AS: “Laporta quería saber qué tipo de persona era”](https://as.com/baloncesto/euroliga/sekulic-con-as-laporta-queria-saber-que-tipo-de-persona-era-f202609-n/)<br>
 
 ## www.elperiodico.com
+18:44 [Tiempo en Catalunya mañana miércoles: el otoño arranca con un repunte de las temperaturas en Barcelona](https://www.elperiodico.com/es/tiempo/20260922/tiempo-cataluna-manana-miercoles-23-de-septiembre-otono-calor-temperaturas-dv-loc-134565959)<br>
+18:35 [El refugio en Asturias de Emilio Aragón: un pueblo del interior de poco más de 400 habitantes y una impresionante finca con vistas a las montañas](https://www.elperiodico.com/es/gente/20260922/refugio-asturias-emilio-aragon-dv-134562545)<br>
+18:33 [Arañar tiempo](https://www.elperiodico.com/es/opinion/20260922/aranar-tiempo-alzheimer-articulo-josep-maria-fonalleras-134568065)<br>
+18:30 [Los bancos vuelven a pagar más por tus ahorros: estos depósitos llegan hasta el 3,25% TAE](https://www.elperiodico.com/es/economia/20260922/bancos-pagar-ahorros-depositos-tae-remuneracion-134548068)<br>
+18:30 [La Seguridad Social le quita la incapacidad permanente a un cocinero con depresión severa y la recupera con una pensión de 2.300 euros mensuales](https://www.elperiodico.com/es/economia/20260922/seguridad-social-quita-incapacidad-permanente-cocinero-depresion-pension-dv-134434239)<br>
+18:24 [El MNACTEC de Terrassa reabre tras 11 meses de obras y estrena tres nuevas exposiciones](https://www.elperiodico.com/es/ocio-y-cultura/20260922/mnactec-terrassa-reabre-11-meses-134567489)<br>
+18:01 [El AI Summit supera los 10.000 asistentes en Barcelona y obliga a la organización a buscar nuevas ubicaciones en la ciudad](https://www.elperiodico.com/es/economia/20260922/ai-summit-supera-10-000-134565016)<br>
+17:55 [Valentín Roma toma el mando del Macba 11 años después de ser despedido: "El público es claramente insuficiente"](https://www.elperiodico.com/es/ocio-y-cultura/20260922/valentin-roma-toma-mando-macba-134558211)<br>
 17:16 [Indra estrecha su relación con la asociación AeroS](https://www.elperiodico.com/es/economia/20260922/indra-estrecha-relacion-asociacion-aeros-134564290)<br>
 17:05 [Los arquitectos, sobre los riesgos de quitar el gotelé: puede dañar la estructura de la vivienda y "causar enfermedades graves y la muerte a trabajadores y a otras personas expuestas"](https://www.elperiodico.com/es/vivienda/20260922/quitar-gotele-paredes-arquitecto-damian-gil-interiorista-angel-camacho-dv-et-133169986)<br>
 16:44 [Dos jubilados, al borde del desahucio en Badalona tras avalar a su hijo: "Querer hacer un bien nos ha acabado haciendo daño"](https://www.elperiodico.com/es/sociedad/20260922/jubilados-desahucio-piso-aval-hipoteca-hijo-badalona-134547549)<br>
