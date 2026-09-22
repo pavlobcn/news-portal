@@ -1,5 +1,194 @@
 [
   {
+    "title": "La RAP es, ante todo, corresponsabilidad real",
+    "link": "https://www.elperiodico.com/es/sociedad/20260922/rap-corresponsabilidad-real-bc-134565519",
+    "pubDate": "2026-09-22 23:59:28",
+    "category": "",
+    "description": "<h2><strong>Rosa Trigo</strong>, consejera delegada de Ecoembes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump se reúne con sus socios en Oriente Próximo y sus enviados mantienen un encuentro de tres horas con la delegación iraní",
+    "link": "https://www.elperiodico.com/es/internacional/20260922/trump-reune-socios-oriente-proximo-134575350",
+    "pubDate": "2026-09-22 23:48:42",
+    "category": "",
+    "description": "<h2>En la cumbre han participado los líderes del Consejo de Cooperación del Golfo y otros países regionales, como el Líbano, Irak, Jordania, Egipto o Siria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Desalojadas una decena de personas en una residencia en l'Ametlla del Vallès por un incendio",
+    "link": "https://www.elperiodico.com/es/sociedad/20260922/desalojadas-personas-incendio-residencia-ametlla-del-valles-ametlla-del-valles-inhalacion-humo-134575199",
+    "pubDate": "2026-09-22 23:46:18",
+    "category": "",
+    "description": "<h2>Los afectados, por inhalación de humo, están siendo reubicados en una \"zona segura y libre de humo\" del mismo centro</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ скинула на Ізюм 12 КАБів",
+    "link": "https://ua.korrespondent.net/ukraine/4914029-rf-skynula-na-izuim-12-kabiv",
+    "pubDate": "2026-09-22 23:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572151.jpg\">Внаслідок атаки пошкоджено приватні й багатоквартирні будинки, сполахнуо пожежі. Щонайменше семеро людей постраждали.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Un Real Madrid combativo se estrena en la Champions femenina con un empate ante el PSG",
+    "link": "https://www.elperiodico.com/es/deportes/20260922/real-madrid-combativo-estrena-champions-134575174",
+    "pubDate": "2026-09-22 23:41:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Schröder adelantó al equipo blanco a los 98 segundos, pero las francesas evitaron la derrota al transformar un penalti a un cuarto de hora del final.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Тутєров видав гол і асист у матчі Сандерленда U-21",
+    "link": "https://ua.korrespondent.net/sport/football/4914032-tutierov-vydav-hol-i-asyst-u-matchi-sanderlenda-U-21",
+    "pubDate": "2026-09-22 23:24:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572149.jpg\">Український форвард англійського клубу Тімур Тутєров дивовижно відзначився у переможному матчі команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Raytheon готова виготовляти Patriot для України",
+    "link": "https://ua.korrespondent.net/ukraine/4914025-Raytheon-hotova-vyhotovliaty-Patriot-dlia-ukrainy",
+    "pubDate": "2026-09-22 23:20:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572148.jpg\">Радник Зеленського Павло Паліса мав розмову з представниками Raytheon. Компанія підтвердила свою готовність. Рішення за Трампом.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mueren en un accidente de helicóptero el cantante Geraldo Antônio de Carvalho y el empresario Bruno Avelar, socio de Neymar",
+    "link": "https://www.elperiodico.com/es/sucesos/20260922/mueren-accidente-helicoptero-cantante-geraldo-antonio-de-carvalho-bruno-avelar-socio-de-neymar-134574656",
+    "pubDate": "2026-09-22 23:03:04",
+    "category": "",
+    "description": "<h2>La aeronave, que cayó a tierra por razones aún desconocidas, fue declarada como desaparecida en la tarde del lunes</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Порятунок олігархів. Санкції ЄС проти росіян",
+    "link": "https://ua.korrespondent.net/world/4914031-poriatunok-oliharkhiv-sanktsii-yes-proty-rosiian",
+    "pubDate": "2026-09-22 22:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572158.jpg\">Виключення російських мільярдерів стало результатом жорсткого політичного шантажу всередині Євросоюзу.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський: Трамп не просив про одностороннє припинення ударів",
+    "link": "https://ua.korrespondent.net/ukraine/4914023-zelenskyi-tramp-ne-prosyv-pro-odnostoronnie-prypynennia-udariv",
+    "pubDate": "2026-09-22 22:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572144.jpg\">Україна готова припинити удари по енергетичній інфраструктурі РФ у разі, якщо Росія також припинить такі атаки.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los detenidos por matar a tiros a un joven en Málaga podrían haberse confundido de persona: \"Mi hijo Nacho era un chico bueno\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260922/detenidos-matar-tiros-joven-malaga-134574517",
+    "pubDate": "2026-09-22 22:41:23",
+    "category": "",
+    "description": "<h2>La madre de Nacho asegura que su hijo era un \"chico bueno, trabajador\" y ajeno a cualquier actividad delictiva, tras confirmarse que carecía de antecedentes penales y que no estaba vinculado con ninguna organización criminal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 23 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260922/portada-periodico-23-septiembre-2026-134574343",
+    "pubDate": "2026-09-22 22:34:11",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una escritora se ofrece a pagar el alquiler de Maricarmen, la mujer de 87 años al borde del desahucio en Madrid",
+    "link": "https://www.elperiodico.com/es/sociedad/20260922/escritora-ofrece-pagar-alquiler-maricarmen-mujer-desahucio-madrid-134574305",
+    "pubDate": "2026-09-22 22:27:28",
+    "category": "",
+    "description": "<h2>“Me quieren echar por el puto dinero. He vivido aquí 71 años. No me quiero ir\", ha afirmado Maricarmen en un acto de apoyo convocado frente a la vivienda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Запоріжжі після атаки РФ палає ТЦ",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4914020-u-zaporizhzhi-pislia-ataky-rf-palaie-tts",
+    "pubDate": "2026-09-22 22:23:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572140.jpg\">Після російського удару палає дах торговельного центру Амстор у Південному мікрорайоні. Обійшлося без поранених.",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Bad Gyal protagoniza junto a su novio, el modelo Noah Brown, la nueva campaña de Dsquared2",
+    "link": "https://www.elperiodico.com/es/gente/20260922/bad-gyal-protagoniza-novio-modelo-134573604",
+    "pubDate": "2026-09-22 22:20:46",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TVE recupera la próxima semana 'Al cielo con ella' con Henar Álvarez, que evita el duelo directo con Marc Giró",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260922/tve-estrena-proxima-semana-al-cielo-con-ella-henar-alvarez-evita-duelo-directo-marc-giro-134573906",
+    "pubDate": "2026-09-22 22:19:10",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Війна до зими. Зустріч Зеленського з Трампом",
+    "link": "https://ua.korrespondent.net/ukraine/4914027-viina-do-zymy-zustrich-zelenskoho-z-trampom",
+    "pubDate": "2026-09-22 22:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572150.jpg\">Президент України висловив сумнів у реальній готовності Кремля до миру, зауваживши, що Москва намагається виправдовувати свої нічні атаки нібито діями України під час проведення виборів.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así rescataron a dos escaladores en los Picos de Europa",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/rescataron-escaladores-picos-europa/134573864.shtml",
+    "pubDate": "2026-09-22 22:03:33",
+    "category": "",
+    "description": "Los accidentados fueron dos varones de 35 años, uno de nacionalidad húngara y otro de Países Bajos",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amenazas a Irán, bases en Groenlandia y \"superinteligencia\": las 10 claves del discurso de Trump ante la ONU",
+    "link": "https://www.elperiodico.com/es/internacional/20260922/amenazas-iran-bases-groenlandia-superinteligencia-134573802",
+    "pubDate": "2026-09-22 22:00:42",
+    "category": "",
+    "description": "<h2>El presidente augura un acuerdo con el régimen de los ayatolás tras las elecciones \"midterm\" de noviembre en Estados Unidos</h2><h2>Ha anunciado dos nuevas bases militares de Estados Unidos en Groenlandia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Motorola Signature 27 se presenta en el Snapdragon Summit con el Snapdragon 8 Elite Extreme Gen 6",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260922/motorola-signature-27-presenta-snapdragon-134547908",
+    "pubDate": "2026-09-22 22:00:42",
+    "category": "",
+    "description": "<h2>El nuevo flagship de Motorola incorpora IA con Google Gemini, cámara de 50MP Sony LYTIA 910 y audio by B&O</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La mayoría del Constitucional se asegura con la sentencia de Conde-Pumpido sobre Bassa instar a Llarena el 6 de octubre a aplicar de inmediato la amnistía",
+    "link": "https://www.elperiodico.com/es/politica/20260922/mayoria-tribunal-constitucional-asegura-sentencia-aplicar-de-inmediato-la-amnistia-puigdemont-134573375",
+    "pubDate": "2026-09-22 21:58:33",
+    "category": "",
+    "description": "<h2>Tumbada su ponencia sobre Turull, el magistrado Macías presentará una nueva ponencia en el Pleno de octubre con la posición progresista de amnistiarle, pero, si la misma no es aceptada, ya habrá una sentencia alternativa sobre la malversación de Dolors Bassa</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Zelenski pide ayuda a Trump para acabar la guerra \"antes del invierno\"",
     "link": "https://www.elperiodico.com/es/internacional/20260922/zelenski-pide-ayuda-trump-acabar-guerra-invierno-134573650",
     "pubDate": "2026-09-22 21:54:59",
@@ -60,6 +249,15 @@
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572121.jpg\">Глава Держдепартаменту США заявив, що завершення війни в Україні має відбутися шляхом домовленостей, а не \"нищівної військової перемоги\" однієї зі сторін.",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трубін може стати основним у Бенфіці",
+    "link": "https://ua.korrespondent.net/sport/football/4914015-trubin-mozhe-staty-osnovnym-u-benfitsi",
+    "pubDate": "2026-09-22 21:26:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572116.jpg\">Після успішно проведеного матчу з Міланом український воротар Анатолій Трубін може стати незамінним для португальської Бенфіки.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {

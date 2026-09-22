@@ -1,4 +1,4 @@
-# News for 2026-09-22 21:58
+# News for 2026-09-23 00:13
 
 Previous day: [2026-09-21](./data/2026-09-21.md)
 
@@ -42,6 +42,12 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 07:04 [Sekulic, con AS: “Laporta quería saber qué tipo de persona era”](https://as.com/baloncesto/euroliga/sekulic-con-as-laporta-queria-saber-que-tipo-de-persona-era-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:59 [La RAP es, ante todo, corresponsabilidad real](https://www.elperiodico.com/es/sociedad/20260922/rap-corresponsabilidad-real-bc-134565519)<br>
+23:46 [Desalojadas una decena de personas en una residencia en l'Ametlla del Vallès por un incendio](https://www.elperiodico.com/es/sociedad/20260922/desalojadas-personas-incendio-residencia-ametlla-del-valles-ametlla-del-valles-inhalacion-humo-134575199)<br>
+22:41 [Los detenidos por matar a tiros a un joven en Málaga podrían haberse confundido de persona: "Mi hijo Nacho era un chico bueno"](https://www.elperiodico.com/es/sucesos/20260922/detenidos-matar-tiros-joven-malaga-134574517)<br>
+22:27 [Una escritora se ofrece a pagar el alquiler de Maricarmen, la mujer de 87 años al borde del desahucio en Madrid](https://www.elperiodico.com/es/sociedad/20260922/escritora-ofrece-pagar-alquiler-maricarmen-mujer-desahucio-madrid-134574305)<br>
+22:03 [Así rescataron a dos escaladores en los Picos de Europa](https://www.elperiodico.com/es/videos/sucesos/rescataron-escaladores-picos-europa/134573864.shtml)<br>
+22:00 [El Motorola Signature 27 se presenta en el Snapdragon Summit con el Snapdragon 8 Elite Extreme Gen 6](https://www.elperiodico.com/es/tecnologia/20260922/motorola-signature-27-presenta-snapdragon-134547908)<br>
 21:18 [Superinteligencia, coyuntura internacional y mercados](https://www.elperiodico.com/es/opinion/20260922/superinteligencia-coyuntura-internacional-mercados-134573039)<br>
 20:22 [Salvador Alemany hace balance de sus 10 años en el Liceu: "Nos hemos contenido, no se puede asustar al público más clásico"](https://www.elperiodico.com/es/ocio-y-cultura/20260922/salvador-alemany-balance-10-anos-entrevista-liceu-asustar-publico-clasico-134561886)<br>
 20:05 [El refugio de Kira Miró (46 años) en Canarias es un precioso pueblo de Gran Canaria entre volcanes y viñedos: el rincón donde siempre quiere volver](https://www.elperiodico.com/es/gente/20260922/refugio-kira-miro-canarias-dv-134564236)<br>
