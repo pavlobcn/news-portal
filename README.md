@@ -1,8 +1,9 @@
-# News for 2026-09-22 18:56
+# News for 2026-09-22 21:17
 
 Previous day: [2026-09-21](./data/2026-09-21.md)
 
 ## ua.korrespondent.net
+19:59 [У Чернівцях обмежать водопостачання через посуху](https://ua.korrespondent.net/ukraine/4913998-u-chernivtsiakh-obmezhat-vodopostachannia-cherez-posukhu)<br>
 18:33 [Свята 23 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4913956-sviata-23-veresnia-2026-roku-istoriia-tradytsii)<br>
 17:26 [F-16 розбився біля авіабази США в Німеччині](https://ua.korrespondent.net/world/4913958-F-16-rozbyvsia-bilia-aviabazy-ssha-v-nimechchyni)<br>
 17:00 [Біля Полтави сталися землетруси](https://ua.korrespondent.net/ukraine/4913951-bilia-poltavy-stalysia-zemletrusy)<br>
@@ -32,6 +33,7 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 06:35 [Удар по Дніпру: двоє загиблих, шестеро поранених](https://ua.korrespondent.net/city/dnepr/4913719-udar-po-dnipru-dvoie-zahyblykh-shestero-poranenykh)<br>
 
 ## as.com
+18:48 [El Baskonia podría cortar a Alex Len en las próximas horas](https://as.com/baloncesto/el-baskonia-podria-cortar-el-contrato-de-alex-len-en-las-proximas-horas-f202609-n/)<br>
 16:28 [‘Mandarinas’, la historia más personal de Sergio Llull](https://as.com/baloncesto/acb/mandarinas-la-historia-mas-personal-de-sergio-llull-f202609-n/)<br>
 14:59 [Causeur abre el debate: ¿Hay que retirar dorsales en el Real Madrid?](https://as.com/baloncesto/acb/causeur-abre-el-debate-hay-que-retirar-dorsales-en-el-real-madrid-f202609-n/)<br>
 14:16 [Willy: “Soy madridista y siempre les apoyaré”](https://as.com/baloncesto/willy-soy-madridista-y-siempre-apoyare-al-real-madrid-f202609-n/)<br>
@@ -40,6 +42,11 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 07:04 [Sekulic, con AS: “Laporta quería saber qué tipo de persona era”](https://as.com/baloncesto/euroliga/sekulic-con-as-laporta-queria-saber-que-tipo-de-persona-era-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:22 [Salvador Alemany hace balance de sus 10 años en el Liceu: "Nos hemos contenido, no se puede asustar al público más clásico"](https://www.elperiodico.com/es/ocio-y-cultura/20260922/salvador-alemany-balance-10-anos-entrevista-liceu-asustar-publico-clasico-134561886)<br>
+20:05 [El refugio de Kira Miró (46 años) en Canarias es un precioso pueblo de Gran Canaria entre volcanes y viñedos: el rincón donde siempre quiere volver](https://www.elperiodico.com/es/gente/20260922/refugio-kira-miro-canarias-dv-134564236)<br>
+19:52 [El juez ve indicios de delito en la gestión del consejero delegado de Glovo](https://www.elperiodico.com/es/economia/20260922/glovo-oscar-pierre-consejero-delegado-juicio-delito-riders-134569641)<br>
+19:34 [Eduard Fernández se convierte  en el peor padre del mundo en San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260922/eduard-fernandez-convierte-peor-padre-134569903)<br>
+19:04 [El nuevo Palau Blaugrana: años de promesas incumplidas hasta la confesión final de que no hay dinero para su construcción](https://www.elperiodico.com/es/deportes/20260922/nuevo-palau-blaugrana-promesas-incumplidas-sin-financiacion-134555570)<br>
 18:44 [Tiempo en Catalunya mañana miércoles: el otoño arranca con un repunte de las temperaturas en Barcelona](https://www.elperiodico.com/es/tiempo/20260922/tiempo-cataluna-manana-miercoles-23-de-septiembre-otono-calor-temperaturas-dv-loc-134565959)<br>
 18:35 [El refugio en Asturias de Emilio Aragón: un pueblo del interior de poco más de 400 habitantes y una impresionante finca con vistas a las montañas](https://www.elperiodico.com/es/gente/20260922/refugio-asturias-emilio-aragon-dv-134562545)<br>
 18:33 [Arañar tiempo](https://www.elperiodico.com/es/opinion/20260922/aranar-tiempo-alzheimer-articulo-josep-maria-fonalleras-134568065)<br>
@@ -50,6 +57,8 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 17:55 [Valentín Roma toma el mando del Macba 11 años después de ser despedido: "El público es claramente insuficiente"](https://www.elperiodico.com/es/ocio-y-cultura/20260922/valentin-roma-toma-mando-macba-134558211)<br>
 17:16 [Indra estrecha su relación con la asociación AeroS](https://www.elperiodico.com/es/economia/20260922/indra-estrecha-relacion-asociacion-aeros-134564290)<br>
 17:05 [Los arquitectos, sobre los riesgos de quitar el gotelé: puede dañar la estructura de la vivienda y "causar enfermedades graves y la muerte a trabajadores y a otras personas expuestas"](https://www.elperiodico.com/es/vivienda/20260922/quitar-gotele-paredes-arquitecto-damian-gil-interiorista-angel-camacho-dv-et-133169986)<br>
+17:00 [La creciente preocupación por el ruido convierte el silencio en una experiencia cada vez más demandada](https://www.elperiodico.com/es/sociedad/20260922/demanda-espacios-libres-ruido-silencio-134442238)<br>
+17:00 [Cada vez hablamos menos: la conversación cotidiana pierde 300 palabras al año](https://www.elperiodico.com/es/sociedad/20260922/cada-vez-hablamos-menos-perdida-300-palabras-anuales-conversacion-cotidiana-134420860)<br>
 16:44 [Dos jubilados, al borde del desahucio en Badalona tras avalar a su hijo: "Querer hacer un bien nos ha acabado haciendo daño"](https://www.elperiodico.com/es/sociedad/20260922/jubilados-desahucio-piso-aval-hipoteca-hijo-badalona-134547549)<br>
 16:41 [Alberto participó en un grupo de duelo tras perder a su mujer por un cáncer: "Lloramos juntos, pero fue una herramienta fenomenal para seguir adelante"](https://www.elperiodico.com/es/sociedad/20260922/talleres-grupales-duelo-asociacion-espanola-contra-el-cancer-dv-et-134562772)<br>
 16:40 [Cuatro hoteles de Barcelona consiguen una Llave Michelin en 2026](https://www.elperiodico.com/es/barcelona/20260922/cuatro-hoteles-barcelona-suman-llave-michelin-calidad-134559991)<br>
