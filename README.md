@@ -1,8 +1,12 @@
-# News for 2026-09-22 13:42
+# News for 2026-09-22 17:48
 
 Previous day: [2026-09-21](./data/2026-09-21.md)
 
 ## ua.korrespondent.net
+17:26 [F-16 розбився біля авіабази США в Німеччині](https://ua.korrespondent.net/world/4913958-F-16-rozbyvsia-bilia-aviabazy-ssha-v-nimechchyni)<br>
+17:00 [Біля Полтави сталися землетруси](https://ua.korrespondent.net/ukraine/4913951-bilia-poltavy-stalysia-zemletrusy)<br>
+16:22 [Обміління Дністра оголило незвичайну знахідку](https://ua.korrespondent.net/tech/science/4913642-obmilinnia-dnistra-oholylo-nezvychainu-znakhidku)<br>
+13:51 [Росія заявила про 400 супутників на орбіті](https://ua.korrespondent.net/world/russia/4913881-rosiia-zaiavyla-pro-400-suputnykiv-na-orbiti)<br>
 13:38 [Україна намолотила 33 млн тонн зерна: які культури вже зібрали](https://ua.korrespondent.net/business/economics/4913873-ukraina-namolotyla-33-mln-tonn-zerna-yaki-kultury-vzhe-zibraly)<br>
 13:30 [Сили оборони знищили понад 350 тисяч дронв з початку року](https://ua.korrespondent.net/ukraine/4913869-syly-oborony-znyschyly-ponad-350-tysiach-dronv-z-pochatku-roku)<br>
 13:27 [Україна отримала $841 млн від Світового банку](https://ua.korrespondent.net/business/financial/4913871-ukraina-otrymala-841-mln-vid-svitovoho-banku)<br>
@@ -24,11 +28,25 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 06:35 [Удар по Дніпру: двоє загиблих, шестеро поранених](https://ua.korrespondent.net/city/dnepr/4913719-udar-po-dnipru-dvoie-zahyblykh-shestero-poranenykh)<br>
 
 ## as.com
+16:28 [‘Mandarinas’, la historia más personal de Sergio Llull](https://as.com/baloncesto/acb/mandarinas-la-historia-mas-personal-de-sergio-llull-f202609-n/)<br>
+14:59 [Causeur abre el debate: ¿Hay que retirar dorsales en el Real Madrid?](https://as.com/baloncesto/acb/causeur-abre-el-debate-hay-que-retirar-dorsales-en-el-real-madrid-f202609-n/)<br>
+14:16 [Willy: “Soy madridista y siempre les apoyaré”](https://as.com/baloncesto/willy-soy-madridista-y-siempre-apoyare-al-real-madrid-f202609-n/)<br>
 09:32 [El nuevo salto de la NBA a la Euroliga](https://as.com/baloncesto/euroliga/el-nuevo-salto-de-la-nba-a-la-euroliga-f202609-n/)<br>
 07:04 [El Barça: 1.190 días sin títulos... y sumando](https://as.com/baloncesto/acb/el-barca-1190-dias-sin-titulos-y-sumando-f202609-n/)<br>
 07:04 [Sekulic, con AS: “Laporta quería saber qué tipo de persona era”](https://as.com/baloncesto/euroliga/sekulic-con-as-laporta-queria-saber-que-tipo-de-persona-era-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:16 [Indra estrecha su relación con la asociación AeroS](https://www.elperiodico.com/es/economia/20260922/indra-estrecha-relacion-asociacion-aeros-134564290)<br>
+17:05 [Los arquitectos, sobre los riesgos de quitar el gotelé: puede dañar la estructura de la vivienda y "causar enfermedades graves y la muerte a trabajadores y a otras personas expuestas"](https://www.elperiodico.com/es/vivienda/20260922/quitar-gotele-paredes-arquitecto-damian-gil-interiorista-angel-camacho-dv-et-133169986)<br>
+16:44 [Dos jubilados, al borde del desahucio en Badalona tras avalar a su hijo: "Querer hacer un bien nos ha acabado haciendo daño"](https://www.elperiodico.com/es/sociedad/20260922/jubilados-desahucio-piso-aval-hipoteca-hijo-badalona-134547549)<br>
+16:41 [Alberto participó en un grupo de duelo tras perder a su mujer por un cáncer: "Lloramos juntos, pero fue una herramienta fenomenal para seguir adelante"](https://www.elperiodico.com/es/sociedad/20260922/talleres-grupales-duelo-asociacion-espanola-contra-el-cancer-dv-et-134562772)<br>
+16:40 [Cuatro hoteles de Barcelona consiguen una Llave Michelin en 2026](https://www.elperiodico.com/es/barcelona/20260922/cuatro-hoteles-barcelona-suman-llave-michelin-calidad-134559991)<br>
+16:17 [Barcelona estrena la Central Bogatell, una planta de climatización que amplía un 33% la red de frío y calor de la ciudad](https://www.elperiodico.com/es/barcelona/20260922/central-bogatell-amplia-red-climatizacion-134562304)<br>
+16:03 [Rosa Calafat, profesora de Filología Catalana: "El catalán no debería depender solo de sus hablantes"](https://www.elperiodico.com/es/sociedad/20260922/rosa-calafat-profesora-filologia-catalan-dv-et-134562170)<br>
+16:00 [Ayuntamientos y cooperativas han de favorecer el acceso a la vivienda a personas con problemas de salud mental](https://www.elperiodico.com/es/ser-feliz/20260922/ayuntamientos-cooperativas-han-favorecer-acceso-134337179)<br>
+15:48 [Carlos González, pediatra: "Lleva un riesgo muy alto de muerte súbita dormir con tu hijo en un sofá o en un sillón"](https://www.elperiodico.com/es/salud/20260922/muerte-subita-bebes-dormir-riesgos-prevencion-carlos-gonzalez-pediatra-dv-et-134549641)<br>
+15:43 [No es necesario caminar 10.000 pasos al día, con muchos menos se reduce el riesgo de muerte por cualquier causa](https://www.elperiodico.com/es/salud/20260922/pasos-diarios-caminar-salud-necesario-dv-et-134554457)<br>
+14:29 [Catalunya eleva a 37 las denuncias por saltarse las restricciones de la peste porcina en Collserola](https://www.elperiodico.com/es/barcelona/20260922/catalunya-eleva-37-denuncias-saltarse-peste-porcina-collserola-sanciones-134557162)<br>
 13:39 [La Generalitat Valenciana convoca el Premi de les Lletres para 2026 tras el vacío sin explicaciones del pasado ejercicio](https://www.elperiodico.com/es/ocio-y-cultura/20260922/generalitat-valenciana-convoca-premi-les-134555328)<br>
 13:34 [Cada día se diagnostican en España más de 120 casos de cáncer de colon con "un repunte preocupante" en menores de 50 años](https://www.elperiodico.com/es/sanidad/20260922/dia-diagnostican-espana-casos-cancer-colon-repunte-preocupante-jovenes-134543905)<br>
 13:30 [Claves sobre la ibogaína, el psicodélico que usaba el hijo de Cindy Crawford para su adicción](https://www.elperiodico.com/es/ser-feliz/20260922/claves-ibogaina-psicodelico-usaba-hijo-134550590)<br>
@@ -65,10 +83,12 @@ Previous day: [2026-09-21](./data/2026-09-21.md)
 07:05 [Marc lleva 4 años viviendo de forma autosuficiente en una finca abandonada de Catalunya: "Me gustaría crear una asociación para poder ayudarnos en el tema de trueques de servicios"](https://www.elperiodico.com/es/economia/20260922/vivir-finca-abandonada-cataluna-autosuficiente-agua-luz-molino-papel-proyectos-marc-dv-et-134398321)<br>
 07:00 [Se le llama sinergias](https://www.elperiodico.com/es/tele/20260922/llama-sinergias-134528304)<br>
 06:31 [Cuando el sabio señala la Luna, el necio mira el dedo](https://www.elperiodico.com/es/deportes/20260922/sabio-senala-luna-necio-mira-134531886)<br>
+06:30 ["Está entrando el lobo, ¿hasta dónde le dejaremos pasar?"](https://www.elperiodico.com/es/entre-todos/participacion/entrando-lobo-ultraderecha-extrema-derecha-auge-carta-lector-miguel-rabadan-134484350)<br>
 06:00 [La IA austríaca para hospitales Health Force se traslada a Barcelona como puerta de expansión por Europa](https://www.elperiodico.com/es/economia/20260922/ia-hospitales-health-force-traslada-sede-central-barcelona-crecer-europa-134467364)<br>
 06:00 [Las IV Jornadas Empresariales de S'Agaró analizarán el 25 de septiembre los nuevos desafíos de la economía catalana](https://www.elperiodico.com/es/economia/20260922/iv-jornadas-empresariales-sagaro-analizaran-134527939)<br>
 06:00 [El centro tecnológico i2CAT crea un comité externo de innovación con miembros de la ESA, Esade, Tech Barcelona o Foment](https://www.elperiodico.com/es/economia/20260922/centro-tecnologico-i2cat-crea-comite-externo-innovacion-134487870)<br>
 06:00 ['De "la olvidaremos muy pronto" al amante secreto de Isabel II: los 10 dardos más venenosos del libro de Charles Spencer, 'El canto del cisne. Diana, mi hermana'](https://www.elperiodico.com/es/gente/20260922/charles-spencer-libro-diana-10-revelaciones-carlos-isabel-ii-canto-cisne-134524376)<br>
+06:00 ["Donde cabía un local, ahora cabe un hogar"](https://www.elperiodico.com/es/entre-todos/participacion/hogar-marina-dor-apartamentos-vacaciones-carta-lector-gemma-rodriguez-turismo-134476474)<br>
 05:30 [Néstor Gutiérrez, CEO de ATLAS Energía: "El mayor error es tratar el ahorro energético como una inversión y no como una cobertura"](https://www.elperiodico.com/es/economia/20260922/entrevista-nestor-gutierrez-ceo-atlas-energia-bc-132657629)<br>
 05:30 [”Puedes tener capacidad de pagar el alquiler y aún así quedarte sin piso”: la competición invisible que convierte a muchos candidatos en ‘no inquilinos’](https://www.elperiodico.com/es/economia/20260922/puedes-capacidad-pagar-alquiler-quedarte-bc-134428296)<br>
 00:30 [El 45,1% de la población en edad de trabajar en España usa herramientas de IA](https://www.elperiodico.com/es/economia/20260922/45-1-poblacion-edad-trabajar-espana-usa-herramientas-ia-134538879)<br>
