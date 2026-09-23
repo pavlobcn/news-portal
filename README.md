@@ -1,8 +1,11 @@
-# News for 2026-09-23 11:57
+# News for 2026-09-23 13:32
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## ua.korrespondent.net
+13:03 [Зірка Тіней забутих предків зізналася, що пережила аборти](https://ua.korrespondent.net/lifestyle/4914172-zirka-tinei-zabutykh-predkiv-ziznalasia-scho-perezhyla-aborty)<br>
+12:33 [Круз особисто привітав Вільяма та Кейт на прем’єрі](https://ua.korrespondent.net/lifestyle/4914151-kruz-osobysto-pryvitav-viliama-ta-keit-na-premieri)<br>
+12:00 [Binance припиняє підтримку гривні: що буде з коштами українців](https://ua.korrespondent.net/business/companies/4914161-Binance-prypyniaie-pidtrymku-hryvni-scho-bude-z-koshtamy-ukraintsiv)<br>
 11:20 [На Волині державі повернули сто гектарів оборонних земель](https://ua.korrespondent.net/ukraine/4914141-na-volyni-derzhavi-povernuly-sto-hektariv-oboronnykh-zemel)<br>
 11:19 [Завдано удару по російському Рубікону - Генштаб](https://ua.korrespondent.net/ukraine/4914139-zavdano-udaru-po-rosiiskomu-rubikonu-henshtab)<br>
 10:55 [Долар дорожчає в обмінниках, євро падає](https://ua.korrespondent.net/business/financial/4914129-dolar-dorozhchaie-v-obminnykakh-yevro-padaie)<br>
@@ -15,11 +18,23 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 08:20 [Удар по підприємству на Житомирщині: постраждали двоє людей](https://ua.korrespondent.net/ukraine/4914077-udar-po-pidpryiemstvu-na-zhytomyrschyni-postrazhdaly-dvoie-luidei)<br>
 
 ## as.com
+12:40 [El Mónaco, a un paso de la desaparición](https://as.com/baloncesto/euroliga/el-monaco-a-un-paso-de-la-desaparicion-f202609-n/)<br>
 07:03 [La NBA retuerce los planes del Madrid](https://as.com/baloncesto/euroliga/la-nba-retuerce-los-planes-del-madrid-f202609-n/)<br>
 07:01 [“Tengo mucha pasión, a veces es beneficioso y otras me trae problemas”](https://as.com/baloncesto/mas_baloncesto/tengo-mucha-pasion-a-veces-es-beneficioso-y-otras-me-trae-problemas-f202609-n/)<br>
 07:00 [“Nuestra hambre supera a la presión”](https://as.com/baloncesto/mas_baloncesto/nuestra-hambre-supera-a-la-presion-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:28 [Brad Pitt presenta 'El corazón de la bestia' en San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260923/brad-pitt-presenta-corazon-bestia-134592763)<br>
+13:23 [La COVID-19 toma la delantera a la gripe en el repunte de virus respiratorios: "No hay que alarmarse, debemos estar atentos"](https://www.elperiodico.com/es/salud/20260923/covid-19-toma-delantera-gripe-134593354)<br>
+13:18 [Crean baterías "comestibles" que alimentan a los dispositivos médicos dentro del cuerpo](https://www.elperiodico.com/es/tendencias21/20260923/crean-baterias-comestibles-alimentan-dispositivos-134593079)<br>
+13:16 [Cada vez más españoles intercambian su casa para viajar](https://www.elperiodico.com/es/videos/comunicacion-empresarial/espanoles-intercambian-casa-viajar/134592921.shtml)<br>
+13:00 [Roser Gort, psicóloga, habla de los problemas de comunicación en las parejas: "No depende solo de cómo lo dices, depende de como está el otro cuando lo escucha"](https://www.elperiodico.com/es/vida-y-estilo/20260923/parejas-relaciones-roser-gort-psicologa-problemas-comunicacion-dv-134463949)<br>
+12:44 [El ecommerce a la cabeza en España](https://www.elperiodico.com/es/videos/comunicacion-empresarial/ecommerce-cabeza-espana/134590919.shtml)<br>
+12:42 [Los autónomos catalanes retrasan su jubilación y la mayoría se retira pasados los 66 años](https://www.elperiodico.com/es/economia/20260923/autonomos-catalanes-retrasan-edad-jubilacion-134589757)<br>
+12:36 [Gloria Camila, sobre la entrevista más desgarradora de Rocío Flores: "Se tiene que cuidar"](https://www.elperiodico.com/es/gente/20260923/gloria-camila-entrevista-desgarradora-rocio-134588377)<br>
+12:23 [La OCU avisa sobre los billetes de 200 y 500 euros: “No pueden rechazarlos porque sí”](https://www.elperiodico.com/es/economia/20260923/ocu-billetes-200-500-euros-dinero-efectivo-curso-legal-dv-134588622)<br>
+12:12 [Philip Hoare se sumerge en el genio revolucionario de William Blake, el "Willy Wonka del arte"](https://www.elperiodico.com/es/ocio-y-cultura/20260923/philip-hoare-sumerge-genio-revolucionario-134399410)<br>
+12:08 [Daniella Bustamante y su primer photocall en solitario, junto a Inés García o Victoria Federica](https://www.elperiodico.com/es/gente/20260923/daniella-bustamante-primer-photocall-solitario-134586715)<br>
 11:44 [Así es la Querola de Ordino, el lujoso complejo diseñado por Jean Nouvel que se ha quemado en Andorra](https://www.elperiodico.com/es/vivienda/20260923/incendio-querola-ordino-andorra-jean-nouvel-arquitecto-premio-dv-134584405)<br>
 11:37 [Comunitat Valenciana: las hectáreas quemadas se multiplican por 15 en un verano lleno de olas de calor](https://www.elperiodico.com/es/sociedad/20260923/incendios-verano-comunitat-valenciana-multiplica-15-hectareas-134584185)<br>
 11:37 [El otoño arranca con temperaturas hasta 10 grados por encima de lo normal y máximas que incluso podrían rozar los 40 grados en España](https://www.elperiodico.com/es/sociedad/20260923/otono-temperaturas-calor-espana-registros-climaticos-134584839)<br>
