@@ -1,8 +1,12 @@
-# News for 2026-09-23 21:14
+# News for 2026-09-23 23:46
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## ua.korrespondent.net
+23:20 [OpenAI надасть Україні інструменти кіберзахисту на базі ШІ](https://ua.korrespondent.net/tech/technews/4914369-OpenAI-nadast-ukraini-instrumenty-kiberzakhystu-na-bazi-shi)<br>
+22:24 [Аеропорт у Берліні зупиняв роботу через невідомий БПЛА](https://ua.korrespondent.net/world/4914361-aeroport-u-berlini-zupyniav-robotu-cherez-nevidomyi-bpla)<br>
+22:16 [Травмований Лень покидає клуб Басконія](https://ua.korrespondent.net/sport/basketball/4914363-travmovanyi-len-pokydaie-klub-baskoniia)<br>
+21:12 [Помер російський музичний критик Сергій Сосєдов](https://ua.korrespondent.net/lifestyle/4914349-pomer-rosiiskyi-muzychnyi-krytyk-serhii-sosiedov)<br>
 20:06 [Росія готує балістичний обстріл України - ЦПД](https://ua.korrespondent.net/ukraine/4914335-rosiia-hotuie-balistychnyi-obstril-ukrainy-tspd)<br>
 19:45 [Кількість жертв авіаудару по Олександрівці зросла, під завалами є люди](https://ua.korrespondent.net/ukraine/4914330-kilkist-zhertv-aviaudaru-po-oleksandrivtsi-zrosla-pid-zavalamy-ye-luidy)<br>
 19:06 [Нафта помітно дорожчає попри зростання запасів США](https://ua.korrespondent.net/business/economics/4914318-nafta-pomitno-dorozhchaie-popry-zrostannia-zapasiv-ssha)<br>
@@ -52,6 +56,12 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 07:00 [“Nuestra hambre supera a la presión”](https://as.com/baloncesto/mas_baloncesto/nuestra-hambre-supera-a-la-presion-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:16 [Hallan parte del cadáver de un hombre en el interior de su casa en Cabrera d'Anoia](https://www.elperiodico.com/es/sucesos/20260923/hallan-parte-cadaver-hombre-interior-casa-cabrera-anoia-134616473)<br>
+22:45 [Amelia Tiganus, superviviente de explotación sexual y activista abolicionista: "Los prostíbulos son campos de concentración para mujeres empobrecidas"](https://www.elperiodico.com/es/sociedad/20260923/amelia-tiganus-superviviente-explotacion-prostibulos-campos-concentracion-mujeres-empobrecidas-134616251)<br>
+22:44 [Los 70 años de Maricarmen en su casa de Retiro: del contrato de 1956 al desahucio de 2026](https://www.elperiodico.com/es/sociedad/20260923/70-anos-maricarmen-casa-retiro-contrato-desahucio-134616223)<br>
+21:55 [La Audiencia Nacional impone 17 años de cárcel a Sito Miñanco por introducir casi 4 toneladas de cocaína y absuelve al abogado Boye](https://www.elperiodico.com/es/sucesos/20260923/an-impone-17-anos-carcel-sito-minanco-cocaina-134615365)<br>
+21:52 [Capturan en Alicante a un fugitivo buscado por tráfico de drogas entre Bélgica y varios países europeos](https://www.elperiodico.com/es/sucesos/20260923/capturan-alicante-fugitivo-buscado-trafico-134615239)<br>
+21:50 [Salen de la UCI tres de los heridos en el accidente de buceo en el centro de la Armada de Cartagena](https://www.elperiodico.com/es/sucesos/20260923/salen-uci-tres-heridos-accidente-buceo-armada-cartagena-134615130)<br>
 20:36 [La Fiscalía rebaja a 2 años y seis meses por "imperativo legal" la petición de pena para cada uno de los 11 activistas de Greenpeace](https://www.elperiodico.com/es/sociedad/20260923/juicio-activistas-greenpeace-sagunto-134613043)<br>
 20:30 [Damm recibe el Premio de Oro de la Cámara de Comercio de España tras una inversión de 80 millones en el Reino Unido](https://www.elperiodico.com/es/economia/20260923/damm-recibe-premio-oro-camara-134612730)<br>
 20:20 [Colonial entra en las residencias de estudiantes a través de una 'joint venture' con Vita Group](https://www.elperiodico.com/es/economia/20260923/colonial-entra-residencias-estudiantes-traves-134612541)<br>
