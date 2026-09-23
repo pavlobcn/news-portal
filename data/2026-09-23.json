@@ -1,5 +1,77 @@
 [
   {
+    "title": "La vuelta de Puigdemont",
+    "link": "https://www.elperiodico.com/es/opinion/20260923/vuelta-puigdemont-articulo-joan-tapia-134613214",
+    "pubDate": "2026-09-23 21:08:11",
+    "category": "",
+    "description": "<h2>Su primer reto será que Junts tenga un buen resultado en las municipales de mayo de 2027. Deberá aumentar su peso político en Catalunya y no perder el poder de sus actuales siete escaños en Madrid</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260922/junts-tribunal-supremo-constitucional-amnistia-jordi-turull-carles-puigdemont-134561660\">Junts exige al Supremo que levante ya la orden de detención contra Puigdemont tras el aval del TC a la amnistía</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 24 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260923/horoscopo-manana-jueves-24-septiembre-dv-134324182",
+    "pubDate": "2026-09-23 21:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "DIRECTO | Pedro Sánchez comparece ante los medios en la Representación Permanente de España ante la ONU",
+    "link": "https://www.elperiodico.com/es/videos/politica/directo-pedro-sanchez-comparece-medios/134613337.shtml",
+    "pubDate": "2026-09-23 20:55:49",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La ACB presenta “Mandarinas”: la historia de la leyenda de Sergio Llull",
+    "link": "https://as.com/baloncesto/videos/la-acb-presenta-mandarinas-la-historia-de-la-leyenda-de-sergio-llull-f202609-v/",
+    "pubDate": "2026-09-23 20:55:11",
+    "category": "Real Madrid baloncesto",
+    "description": "Esta es la historia de Sergio Llull, una leyenda de la acb y el jugador con más títulos nacionales conquistados. ‘Mandarinas’ es un documental producido por ACB que muestra la cara menos visible del jugador.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Лавров скаржився Рубіо на \"деструктивні дії Києва\"",
+    "link": "https://ua.korrespondent.net/world/russia/4914345-lavrov-skarzhyvsia-rubio-na-destruktyvni-dii-kyieva",
+    "pubDate": "2026-09-23 20:53:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572618.jpg\">Сергій Лавров заявив Марко Рубіо, що Росія залишається відданою цілям війни проти України. Також глава російського МЗС поскаржився на українські удари по об’єктах у РФ.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barça - París FC, en directo la Champions femenina",
+    "link": "https://www.elperiodico.com/es/deportes/20260923/barca-paris-fc-directo-champions-134610746",
+    "pubDate": "2026-09-23 20:45:36",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Govern plantea una \"desescalada\" de las restricciones por la peste porcina africana hacia finales de año",
+    "link": "https://www.elperiodico.com/es/barcelona/20260923/govern-plantea-desescalada-restricciones-peste-porcina-134612789",
+    "pubDate": "2026-09-23 20:37:03",
+    "category": "",
+    "description": "<h2>El Departamento de Agricultura confirma 5 nuevos casos positivos dentro de la zona de alto riesgo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La Fiscalía rebaja a 2 años y seis meses por \"imperativo legal\" la petición de pena para cada uno de los 11 activistas de Greenpeace",
+    "link": "https://www.elperiodico.com/es/sociedad/20260923/juicio-activistas-greenpeace-sagunto-134613043",
+    "pubDate": "2026-09-23 20:36:28",
+    "category": "",
+    "description": "<h2 class=\"item\">La Guardia Civil admite que los activistas de Greenpeace fueron \"pacíficos\" pero las empresas portuarias destacan que hubo \"un riesgo en la acción\"</h2><h2 class=\"item\">Sólo Noatum reclama los gastos por el atraque fallido ya que Saggas reconoce que se pudo abastecer finalmente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "El Gobierno da el primer paso para la eliminación de coeficientes reductores en jubilaciones anticipadas",
     "link": "https://www.elperiodico.com/es/economia/20260923/gobierno-da-primer-paso-eliminacion-coeficientes-reductores-jubilaciones-anticipadas-dv-134610707",
     "pubDate": "2026-09-23 20:34:25",
@@ -176,6 +248,15 @@
     "pubDate": "2026-09-23 19:39:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572567.jpg\">З часу повалення режиму Асада, Дамаск прийняв понад 60 дипломатичних місій, зазначив президент країни аш-Шараа.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cerca de 10.000 personas protestan frente al \"ático de Ayuso\" contra el desahucio de Maricarmen en Madrid",
+    "link": "https://www.elperiodico.com/es/politica/20260923/cientos-personas-protestan-frente-atico-ayuso-desahucio-maricarmen-madrid-134611180",
+    "pubDate": "2026-09-23 19:36:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Activistas también han llevado alzado la voz en Barcelona por el desahucio de de la mujer de 87 años: \"No estás sola\"</h2>",
     "topic": "політика",
     "topic_match_probability": 90
   },
