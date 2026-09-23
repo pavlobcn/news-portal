@@ -1,8 +1,12 @@
-# News for 2026-09-23 16:35
+# News for 2026-09-23 17:07
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## ua.korrespondent.net
+16:55 [Атака РФ на Київ та область призвела до масових проблем з інтернетом](https://ua.korrespondent.net/city/kiev/4914290-ataka-rf-na-kyiv-ta-oblast-pryzvela-do-masovykh-problem-z-internetom)<br>
+16:47 [В Ормузькій протоці вдарили по вантажному судну](https://ua.korrespondent.net/world/4914286-v-ormuzkii-prototsi-vdaryly-po-vantazhnomu-sudnu)<br>
+16:36 [Зв’язку із Землею не буде: ШІ вирушить у космос самостійно](https://ua.korrespondent.net/tech/space/4914275-zviazku-iz-zemleui-ne-bude-shi-vyrushyt-u-kosmos-samostiino)<br>
+16:33 [У Києві понад 40 поранених, атака дронів триває](https://ua.korrespondent.net/city/kiev/4914281-u-kyievi-ponad-40-poranenykh-ataka-droniv-tryvaie)<br>
 16:30 [Холодна спальня без опалення: як не допустити появи плісняви](https://ua.korrespondent.net/articles/4914272-kholodna-spalnia-bez-opalennia-yak-ne-dopustyty-poiavy-plisniavy)<br>
 16:13 [Подвійного агента Росії та Білорусі ув'язнили на 15 років](https://ua.korrespondent.net/ukraine/4914268-podviinoho-ahenta-rosii-ta-bilorusi-uviaznyly-na-15-rokiv)<br>
 16:05 [РФ вивчила об’єкти для ударів: які потенційні цілі](https://ua.korrespondent.net/ukraine/4914256-rf-vyvchyla-obiekty-dlia-udariv-yaki-potentsiini-tsili)<br>
@@ -14,6 +18,7 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 15:10 [Долар дорожчає: трейдери оцінюють шанси нового підвищення ставки ФРС](https://ua.korrespondent.net/business/financial/4914240-dolar-dorozhchaie-treidery-otsinuiuit-shansy-novoho-pidvyschennia-stavky-frs)<br>
 14:51 [Російський Мі-8 порушив повітряний простір Польщі](https://ua.korrespondent.net/world/4914237-rosiiskyi-mi-8-porushyv-povitrianyi-prostir-polschi)<br>
 14:36 [Українська молодь планує майбутнє за кордоном: що показало дослідження](https://ua.korrespondent.net/ukraine/4914229-ukrainska-molod-planuie-maibutnie-za-kordonom-scho-pokazalo-doslidzhennia)<br>
+14:29 [Денний обстріл Києва: наслідки атаки](https://ua.korrespondent.net/kyiv/4914219-dennyi-obstril-kyieva-naslidky-ataky)<br>
 14:15 [Бетонні блоки на коліях: у Польщі пошкоджено два вантажні потяги](https://ua.korrespondent.net/world/4914221-betonni-bloky-na-koliiakh-u-polschi-poshkodzheno-dva-vantazhni-potiahy)<br>
 14:08 [Росія вбила бомбами чотирьох цивільних на Донбасі](https://ua.korrespondent.net/ukraine/4914215-rosiia-vbyla-bombamy-chotyrokh-tsyvilnykh-na-donbasi)<br>
 13:58 [У Якутії після пожежі зупинилася одна з найбільших теплоелектростанцій](https://ua.korrespondent.net/world/russia/4914211-u-yakutii-pislia-pozhezhi-zupynylasia-odna-z-naibilshykh-teploelektrostantsii)<br>
@@ -39,6 +44,14 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 07:00 [“Nuestra hambre supera a la presión”](https://as.com/baloncesto/mas_baloncesto/nuestra-hambre-supera-a-la-presion-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:02 [Tiempo en Catalunya mañana jueves: una masa de aire cálido subirá las temperaturas hasta los 30 grados](https://www.elperiodico.com/es/tiempo/20260923/tiempo-catalunya-hoy-jueves-calor-barcelona-30-grados-dv-loc-134600275)<br>
+17:00 [Un informe de Deutsche Bank pone cifra al futuro del dinero digital: hasta 140 billones de dólares en transacciones en 2030](https://www.elperiodico.com/es/economia/20260923/deutsche-bank-dinero-digital-140-billones-dolares-2030-134595286)<br>
+17:00 [Casa gratis para universitarios que conviven con mayores solos: "Ella me ayuda con la tecnología y yo le enseño catalán"](https://www.elperiodico.com/es/sociedad/20260923/casa-gratis-universitarios-personas-mayores-viven-solos-compania-tecnologia-catalan-134545779)<br>
+17:00 [Estudiantes y mayores conviven contra la soledad y el precio de la vivienda](https://www.elperiodico.com/es/videos/sociedad/estudiantes-mayores-conviven-soledad-precio/134570153.shtml)<br>
+16:56 [El precio del euríbor hoy, 23 de septiembre: un ligero alivio para los hipotecados](https://www.elperiodico.com/es/economia/20260923/precio-euribor-hoy-23-septiembre-dv-134552058)<br>
+16:55 [Desalojado un campamento de personas sin hogar en la plaza del Cobi de la Vila Olímpica](https://www.elperiodico.com/es/barcelona/20260923/desalojado-campamento-plaza-cobi-vila-olimpica-barcelona-134602373)<br>
+16:53 [Dos jubilados, al borde del desahucio en Badalona tras avalar a su hijo: "Querer hacer un bien nos ha acabado haciendo daño"](https://www.elperiodico.com/es/videos/sociedad/jubilados-borde-desahucio-badalona-avalar/134602853.shtml)<br>
+16:36 [El Ministerio de Cultura inicia la restauración de las pinturas murales de Josep Maria Sert en la Catedral de Sant Pere de Vic](https://www.elperiodico.com/es/ocio-y-cultura/20260923/ministerio-cultura-inicia-restauracion-pinturas-134602105)<br>
 16:30 [Qué pasa si tienes migrañas más de 15 días al mes: una abogada explica cómo poder optar a la incapacidad permanente](https://www.elperiodico.com/es/economia/20260923/incapacidad-permanente-migranas-cronicas-dv-et-134429455)<br>
 16:30 [Eysa compra Joinup y refuerza su posición como operador integral de movilidad](https://www.elperiodico.com/es/economia/20260923/eysa-compra-joinup-refuerza-posicion-134601926)<br>
 16:25 [El Banco de España prevé que el déficit acumulado de viviendas alcance el millón en 2028](https://www.elperiodico.com/es/economia/20260923/banco-espana-preve-deficit-acumulado-134601799)<br>
