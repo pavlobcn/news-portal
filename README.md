@@ -1,8 +1,22 @@
-# News for 2026-09-23 13:32
+# News for 2026-09-23 16:35
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## ua.korrespondent.net
+16:30 [Холодна спальня без опалення: як не допустити появи плісняви](https://ua.korrespondent.net/articles/4914272-kholodna-spalnia-bez-opalennia-yak-ne-dopustyty-poiavy-plisniavy)<br>
+16:13 [Подвійного агента Росії та Білорусі ув'язнили на 15 років](https://ua.korrespondent.net/ukraine/4914268-podviinoho-ahenta-rosii-ta-bilorusi-uviaznyly-na-15-rokiv)<br>
+16:05 [РФ вивчила об’єкти для ударів: які потенційні цілі](https://ua.korrespondent.net/ukraine/4914256-rf-vyvchyla-obiekty-dlia-udariv-yaki-potentsiini-tsili)<br>
+15:49 [Росія не може домовитися з Талібаном про робітників](https://ua.korrespondent.net/world/4914261-rosiia-ne-mozhe-domovytysia-z-talibanom-pro-robitnykiv)<br>
+15:45 [Росія вдарила КАБами по Сумах: є поранені та руйнування](https://ua.korrespondent.net/ukraine/4914259-rosiia-vdaryla-kabamy-po-sumakh-ye-poraneni-ta-ruinuvannia)<br>
+15:37 [Світова економіка зростатиме швидше: новий прогноз Fitch](https://ua.korrespondent.net/business/economics/4914253-svitova-ekonomika-zrostatyme-shvydshe-novyi-prohnoz-Fitch)<br>
+15:23 [Росія знизила прогноз видобутку газу - ЗМІ](https://ua.korrespondent.net/business/economics/4914245-rosiia-znyzyla-prohnoz-vydobutku-hazu-zmi)<br>
+15:16 [США відновлять ротацію військ в Естонії у листопаді](https://ua.korrespondent.net/world/4914243-ssha-vidnovliat-rotatsiui-viisk-v-estonii-u-lystopadi)<br>
+15:10 [Долар дорожчає: трейдери оцінюють шанси нового підвищення ставки ФРС](https://ua.korrespondent.net/business/financial/4914240-dolar-dorozhchaie-treidery-otsinuiuit-shansy-novoho-pidvyschennia-stavky-frs)<br>
+14:51 [Російський Мі-8 порушив повітряний простір Польщі](https://ua.korrespondent.net/world/4914237-rosiiskyi-mi-8-porushyv-povitrianyi-prostir-polschi)<br>
+14:36 [Українська молодь планує майбутнє за кордоном: що показало дослідження](https://ua.korrespondent.net/ukraine/4914229-ukrainska-molod-planuie-maibutnie-za-kordonom-scho-pokazalo-doslidzhennia)<br>
+14:15 [Бетонні блоки на коліях: у Польщі пошкоджено два вантажні потяги](https://ua.korrespondent.net/world/4914221-betonni-bloky-na-koliiakh-u-polschi-poshkodzheno-dva-vantazhni-potiahy)<br>
+14:08 [Росія вбила бомбами чотирьох цивільних на Донбасі](https://ua.korrespondent.net/ukraine/4914215-rosiia-vbyla-bombamy-chotyrokh-tsyvilnykh-na-donbasi)<br>
+13:58 [У Якутії після пожежі зупинилася одна з найбільших теплоелектростанцій](https://ua.korrespondent.net/world/russia/4914211-u-yakutii-pislia-pozhezhi-zupynylasia-odna-z-naibilshykh-teploelektrostantsii)<br>
 13:03 [Зірка Тіней забутих предків зізналася, що пережила аборти](https://ua.korrespondent.net/lifestyle/4914172-zirka-tinei-zabutykh-predkiv-ziznalasia-scho-perezhyla-aborty)<br>
 12:33 [Круз особисто привітав Вільяма та Кейт на прем’єрі](https://ua.korrespondent.net/lifestyle/4914151-kruz-osobysto-pryvitav-viliama-ta-keit-na-premieri)<br>
 12:00 [Binance припиняє підтримку гривні: що буде з коштами українців](https://ua.korrespondent.net/business/companies/4914161-Binance-prypyniaie-pidtrymku-hryvni-scho-bude-z-koshtamy-ukraintsiv)<br>
@@ -18,12 +32,27 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 08:20 [Удар по підприємству на Житомирщині: постраждали двоє людей](https://ua.korrespondent.net/ukraine/4914077-udar-po-pidpryiemstvu-na-zhytomyrschyni-postrazhdaly-dvoie-luidei)<br>
 
 ## as.com
+13:28 [“Los agentes no movemos a los jugadores como nos da la gana”](https://as.com/baloncesto/euroliga/los-agentes-no-movemos-a-los-jugadores-como-nos-da-la-gana-f202609-n/)<br>
 12:40 [El Mónaco, a un paso de la desaparición](https://as.com/baloncesto/euroliga/el-monaco-a-un-paso-de-la-desaparicion-f202609-n/)<br>
 07:03 [La NBA retuerce los planes del Madrid](https://as.com/baloncesto/euroliga/la-nba-retuerce-los-planes-del-madrid-f202609-n/)<br>
 07:01 [“Tengo mucha pasión, a veces es beneficioso y otras me trae problemas”](https://as.com/baloncesto/mas_baloncesto/tengo-mucha-pasion-a-veces-es-beneficioso-y-otras-me-trae-problemas-f202609-n/)<br>
 07:00 [“Nuestra hambre supera a la presión”](https://as.com/baloncesto/mas_baloncesto/nuestra-hambre-supera-a-la-presion-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:30 [Qué pasa si tienes migrañas más de 15 días al mes: una abogada explica cómo poder optar a la incapacidad permanente](https://www.elperiodico.com/es/economia/20260923/incapacidad-permanente-migranas-cronicas-dv-et-134429455)<br>
+16:30 [Eysa compra Joinup y refuerza su posición como operador integral de movilidad](https://www.elperiodico.com/es/economia/20260923/eysa-compra-joinup-refuerza-posicion-134601926)<br>
+16:25 [El Banco de España prevé que el déficit acumulado de viviendas alcance el millón en 2028](https://www.elperiodico.com/es/economia/20260923/banco-espana-preve-deficit-acumulado-134601799)<br>
+16:18 [Brad Pitt, "totalmente abierto" al cine español y repetir con Bardem y Penélope: "Cualquier cosa con ellos"](https://www.elperiodico.com/es/ocio-y-cultura/20260923/brad-pitt-totalmente-abierto-cine-134601505)<br>
+16:15 [Del libro sobre Lady Di a las últimas informaciones sobre la muerte de Josep Juanpere](https://www.elperiodico.com/es/videos/podcast/libro-lady-di-ultimas-informaciones/134601237.shtml)<br>
+16:05 [Oriol Pla, Premio Nacional de Teatro 2026 por 'Gula', su oda a un payaso con espíritu de resistencia](https://www.elperiodico.com/es/ocio-y-cultura/20260923/oriol-pla-premio-nacional-teatro-134599894)<br>
+16:02 [Luz verde a la eliminación de los coeficientes reductores en jubilaciones anticipadas: “No se eliminan automáticamente”](https://www.elperiodico.com/es/videos/economia/luz-verde-eliminacion-coeficientes-reductores/134600703.shtml)<br>
+16:00 [De enfermedad mortal a una vida casi normal: así ha cambiado el destino de los pacientes con leucemia mieloide crónica](https://www.elperiodico.com/es/salud/20260923/mieloide-leucemia-cronica-enfermedad-mortal-vida-normal-134600726)<br>
+15:48 [El Ministerio de Cultura concede el Premio Nacional de Teatro 2026 al actor Oriol Pla](https://www.elperiodico.com/es/ocio-y-cultura/20260923/ministerio-cultura-concede-premio-nacional-134600283)<br>
+15:23 [La reina Letizia pide más recursos para avanzar rápido contra el cáncer: "La investigación no tiene el lujo del tiempo"](https://www.elperiodico.com/es/politica/20260923/reina-letizia-avanzar-rapido-cancer-investigacion-lujo-tiempo-134599525)<br>
+14:14 [Renfe apunta a las lluvias y las vibraciones de las obras como causa de la caída del techo de Fabra i Puig](https://www.elperiodico.com/es/sociedad/20260923/renfe-apunta-lluvias-vibraciones-obras-causa-caida-techo-fabra-i-puig-134595922)<br>
+14:04 [El entorno de Presley Gerber, el hijo de Cindy Crawford, señala a su médico por recetarle ketamina pese a sus adicciones](https://www.elperiodico.com/es/gente/20260923/presley-gerber-ketamina-medico-cindy-crawford-134594758)<br>
+13:56 [Más de 350 personalidades de la cultura firman un manifiesto contra cancelación de Ariana Harwicz](https://www.elperiodico.com/es/ocio-y-cultura/20260923/350-personalidades-cultura-firman-manifiesto-134594737)<br>
+13:53 [El Pleno de L'Hospitalet dedica un minuto de silencio a Olga, la vecina de la ciudad que se suicidó tras ser desahuciada](https://www.elperiodico.com/es/barcelona/20260923/pleno-lhospitalet-realiza-minuto-silencio-olga-mujer-suicido-meses-despues-desahuciada-134591935)<br>
 13:28 [Brad Pitt presenta 'El corazón de la bestia' en San Sebastián](https://www.elperiodico.com/es/ocio-y-cultura/20260923/brad-pitt-presenta-corazon-bestia-134592763)<br>
 13:23 [La COVID-19 toma la delantera a la gripe en el repunte de virus respiratorios: "No hay que alarmarse, debemos estar atentos"](https://www.elperiodico.com/es/salud/20260923/covid-19-toma-delantera-gripe-134593354)<br>
 13:18 [Crean baterías "comestibles" que alimentan a los dispositivos médicos dentro del cuerpo](https://www.elperiodico.com/es/tendencias21/20260923/crean-baterias-comestibles-alimentan-dispositivos-134593079)<br>

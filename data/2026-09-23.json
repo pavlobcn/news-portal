@@ -1,5 +1,599 @@
 [
   {
+    "title": "Este es el Nissan Pixo, un eléctrico urbano de 3,8 metros y 259 km de autonomía",
+    "link": "https://www.elperiodico.com/es/motor/20260923/nissan-pixo-urbano-bev-coche-electrico-134600217",
+    "pubDate": "2026-09-23 16:32:51",
+    "category": "",
+    "description": "<h2>El nuevo eléctrico de segmento A tiene cuatro plazas, asientos traseros deslizantes y un maletero de 356 litros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Qué pasa si tienes migrañas más de 15 días al mes: una abogada explica cómo poder optar a la incapacidad permanente",
+    "link": "https://www.elperiodico.com/es/economia/20260923/incapacidad-permanente-migranas-cronicas-dv-et-134429455",
+    "pubDate": "2026-09-23 16:30:44",
+    "category": "",
+    "description": "<h2>La letrada afirma que el INSS normalmente deniega la prestación por este tipo de dolencia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Eysa compra Joinup y refuerza su posición como operador integral de movilidad",
+    "link": "https://www.elperiodico.com/es/economia/20260923/eysa-compra-joinup-refuerza-posicion-134601926",
+    "pubDate": "2026-09-23 16:30:18",
+    "category": "",
+    "description": "<h2>La operación permite a Eysa potenciar su capacidad operativa mediante la tecnología de Joinup, que gestiona servicios de taxi, parking y recarga eléctrica para más de 1.000 clientes activos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un asesor del PP reconoce que manipuló el espray pimienta en un baño del Congreso: \"Ana Vázquez me pidió que lo limpiara\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/asesor-pp-reconoce-manipulo-espray-pimienta-bano-congreso/134601939.shtml",
+    "pubDate": "2026-09-23 16:30:18",
+    "category": "",
+    "description": "Doce personas han sido atendidas por los servicios médicos del Congreso debido al gas pimienta",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Холодна спальня без опалення: як не допустити появи плісняви",
+    "link": "https://ua.korrespondent.net/articles/4914272-kholodna-spalnia-bez-opalennia-yak-ne-dopustyty-poiavy-plisniavy",
+    "pubDate": "2026-09-23 16:30:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572498.png\">Пліснява у спальні - не просто косметична проблема на стіні чи біля вікна. Розбираємося, звідки вона береться, чим може загрожувати здоров’ю та як зупинити її появу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Попри заборону Трампа: Меланія допустила CNN і Politico на свій захід",
+    "link": "https://ua.korrespondent.net/world/4914278-popry-zaboronu-trampa-melaniia-dopustyla-CNN-i-Politico-na-svii-zakhid",
+    "pubDate": "2026-09-23 16:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572504.jpg\">Перша леді знала про обмеження, а рішення щодо допуску журналістів на її захід ухвалював безпосередньо її офіс, зазначають журналісти.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Javier Bardem sorprende al hablar de su fortuna en 'La Revuelta': \"Tengo más dinero del que hubiese nunca imaginado\"",
+    "link": "https://www.elperiodico.com/es/videos/tele/yotele/javier-bardem-sorprende-hablar-fortuna/134601747.shtml",
+    "pubDate": "2026-09-23 16:26:25",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Banco de España prevé que el déficit acumulado de viviendas alcance el millón en 2028",
+    "link": "https://www.elperiodico.com/es/economia/20260923/banco-espana-preve-deficit-acumulado-134601799",
+    "pubDate": "2026-09-23 16:25:28",
+    "category": "",
+    "description": "<h2>La subgobernadora del organismo, Soledad Núñez, ha indicado además que aún no se vislumbran efectos de segunda ronda provocados por la crisis energética</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Brad Pitt, \"totalmente abierto\" al cine español y repetir con Bardem y Penélope: \"Cualquier cosa con ellos\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260923/brad-pitt-totalmente-abierto-cine-134601505",
+    "pubDate": "2026-09-23 16:18:30",
+    "category": "",
+    "description": "<h2>La estrella de Hollywood ha aprovechado su visita al Festival de San Sebastián para elogiar el talento internacional y confirmar sus planes de expansión a través de su productora</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ірина Білик показала кардинально новий імідж",
+    "link": "https://ua.korrespondent.net/lifestyle/4914242-iryna-bilyk-pokazala-kardynalno-novyi-imidzh",
+    "pubDate": "2026-09-23 16:18:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572444.jpg\">Ірина Білик здивувала фанатів яскравим оновленням: народна артистка змінила імідж і постала перед прихильниками з абсолютно новою зачіскою.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Del libro sobre Lady Di a las últimas informaciones sobre la muerte de Josep Juanpere",
+    "link": "https://www.elperiodico.com/es/videos/podcast/libro-lady-di-ultimas-informaciones/134601237.shtml",
+    "pubDate": "2026-09-23 16:15:57",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Подвійного агента Росії та Білорусі ув'язнили на 15 років",
+    "link": "https://ua.korrespondent.net/ukraine/4914268-podviinoho-ahenta-rosii-ta-bilorusi-uviaznyly-na-15-rokiv",
+    "pubDate": "2026-09-23 16:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572497.jpg\">Зрадник стежив за ЗСУ та коригував удари по енергетичній інфраструктурі Києва, а після готувався втекти до РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У РФ після виборів знову обговорюють плату за закордонний інтернет-трафік",
+    "link": "https://ua.korrespondent.net/world/russia/4914269-u-rf-pislia-vyboriv-znovu-obhovoruiuit-platu-za-zakordonnyi-internet-trafik",
+    "pubDate": "2026-09-23 16:12:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572496.jpg\">Йдеться про ліміт у 50 ГБ у мережах 5G, а однією з цілей ініціативи є боротьба з VPN-сервісами.",
+    "topic": "вибори",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Oriol Pla, Premio Nacional de Teatro 2026 por 'Gula', su oda a un payaso con espíritu de resistencia",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260923/oriol-pla-premio-nacional-teatro-134599894",
+    "pubDate": "2026-09-23 16:05:01",
+    "category": "",
+    "description": "<h2>El Ministerio de Cultura premia la excelencia de Oriol Pla en una obra donde explora la figura del payaso con ternura y carisma acrobático</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ вивчила об’єкти для ударів: які потенційні цілі",
+    "link": "https://ua.korrespondent.net/ukraine/4914256-rf-vyvchyla-obiekty-dlia-udariv-yaki-potentsiini-tsili",
+    "pubDate": "2026-09-23 16:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572489.jpg\">Ворог активно веде розвідку Києва та Київської області для планування майбутніх обстрілів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez reivindica un movimiento internacional de fuerzas progresistas junto a Mamdani: \"Los poderosos nos temen\"",
+    "link": "https://www.elperiodico.com/es/politica/20260923/sanchez-reivindica-politicas-progresistas-mamdani-134600886",
+    "pubDate": "2026-09-23 16:04:22",
+    "category": "",
+    "description": "<h2>El jefe del Ejecutivo pone en valor el modelo económico del Gobierno \"para la mayoría\" junto al alcalde de Nueva York, perteneciente al ala más izquierdista del Partido Demócrata y antítesis de Trump</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Luz verde a la eliminación de los coeficientes reductores en jubilaciones anticipadas: “No se eliminan automáticamente”",
+    "link": "https://www.elperiodico.com/es/videos/economia/luz-verde-eliminacion-coeficientes-reductores/134600703.shtml",
+    "pubDate": "2026-09-23 16:02:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De enfermedad mortal a una vida casi normal: así ha cambiado el destino de los pacientes con leucemia mieloide crónica",
+    "link": "https://www.elperiodico.com/es/salud/20260923/mieloide-leucemia-cronica-enfermedad-mortal-vida-normal-134600726",
+    "pubDate": "2026-09-23 16:00:28",
+    "category": "",
+    "description": "<h2>La Leucemia Mieloide Crónica se diagnostica frecuentemente a través de analíticas rutinarias debido a su evolución lenta en las fases iniciales, lo que facilita un comienzo temprano del tratamiento médico</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рубіо зустрівся з Лавровим у Нью-Йорку",
+    "link": "https://ua.korrespondent.net/world/4914266-rubio-zustrivsia-z-lavrovym-u-nui-yorku",
+    "pubDate": "2026-09-23 15:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572493.jpg\">Глава МЗС РФ планує під час зустрічі з держсекретарем США обговорити бачення Вашингтоном ситуації щодо України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "$1 млн за дрони: НАБУ розкрило новий епізод у справі посадовця ДПСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4914264-1-mln-za-drony-nabu-rozkrylo-novyi-epizod-u-spravi-posadovtsia-dpsu",
+    "pubDate": "2026-09-23 15:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572492.jpg\">У справі про вимагання $1 млн за постачання дронів НАБУ встановило новий епізод передачі хабаря та легалізацію незаконних доходів через криптовалюту.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія не може домовитися з Талібаном про робітників",
+    "link": "https://ua.korrespondent.net/world/4914261-rosiia-ne-mozhe-domovytysia-z-talibanom-pro-robitnykiv",
+    "pubDate": "2026-09-23 15:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572488.jpg\">Трудових мігрантів Москва мала намір задіяти у сільському господарстві та відновленні інфраструктури.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ministerio de Cultura concede el Premio Nacional de Teatro 2026 al actor Oriol Pla",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260923/ministerio-cultura-concede-premio-nacional-134600283",
+    "pubDate": "2026-09-23 15:48:46",
+    "category": "",
+    "description": "<h2>El galardonado Oriol Pla recibe el reconocimiento oficial por su extraordinario dominio de diversas disciplinas escénicas demostrado en un montaje que el jurado califica como un éxito contundente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія вдарила КАБами по Сумах: є поранені та руйнування",
+    "link": "https://ua.korrespondent.net/ukraine/4914259-rosiia-vdaryla-kabamy-po-sumakh-ye-poraneni-ta-ruinuvannia",
+    "pubDate": "2026-09-23 15:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572487.jpg\">Російські війська атакували Суми керованими авіабомбами. Унаслідок ударів постраждали четверо людей, пошкоджені житлові будинки, інфраструктура та автомобілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Rambla de Barcelona recupera la circulación en sentido descendente el próximo martes",
+    "link": "https://www.elperiodico.com/es/barcelona/20260923/rambla-barcelona-recupera-circulacion-sentido-134594523",
+    "pubDate": "2026-09-23 15:44:21",
+    "category": "",
+    "description": "<h2 class=\"item\">La apertura del tráfico local en el lado del Raval facilitará la movilidad en el distrito y permitirá eliminar los pasos transversales provisionales instalados en la parte central del paseo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260602/gran-fiesta-ciudadana-13-y-14-febrero-2027-celebrara-final-reforma-integral-rambla-barcelona-130916898\" >Una gran fiesta el 13 y 14 de febrero de 2027 culminará cuatro años de reforma integral de la Rambla de Barcelona</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Achraf Hakimi será juzgado por violación tras confirmarlo el Tribunal Supremo francés",
+    "link": "https://www.elperiodico.com/es/deportes/20260923/achraf-hakimi-sera-juzgado-violacion-134599941",
+    "pubDate": "2026-09-23 15:42:48",
+    "category": "",
+    "description": "<h2>La más alta instancia de la justicia francesa rechaza el recurso del futbolista</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Світова економіка зростатиме швидше: новий прогноз Fitch",
+    "link": "https://ua.korrespondent.net/business/economics/4914253-svitova-ekonomika-zrostatyme-shvydshe-novyi-prohnoz-Fitch",
+    "pubDate": "2026-09-23 15:37:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572483.jpg\">Fitch Ratings підвищило прогноз зростання світової економіки у 2026 році до 2,6%. Водночас агентство попереджає про жорсткішу політику центробанків і вплив високих цін на енергоносії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кум Каменських пояснив, звідки взялися розмови про кисту",
+    "link": "https://ua.korrespondent.net/lifestyle/4914232-kum-kamenskykh-poiasnyv-zvidky-vzialysia-rozmovy-pro-kystu",
+    "pubDate": "2026-09-23 15:32:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572420.jpg\">На думку автора, дивна поведінка артистки може бути вигідна її чоловікові Потапу, який прагне нагадати про себе російськомовній аудиторії задля заробітку на старих піснях.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Валенсія обрала нового керманича для команди",
+    "link": "https://ua.korrespondent.net/sport/football/4914251-valensiia-obrala-novoho-kermanycha-dlia-komandy",
+    "pubDate": "2026-09-23 15:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572472.jpg\">Іспанська команда відтепер виступатиме під керівництвом 67-річного мексиканського тренера Хав’єра Агірре.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп встановив антирекорд за підтримкою зовнішньої політики - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4914249-tramp-vstanovyv-antyrekord-za-pidtrymkoui-zovnishnoi-polityky-zmi",
+    "pubDate": "2026-09-23 15:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572479.jpg\">Зовнішню політику президента США схвалюють лише 29% американців. Водночас 64% опитаних вважають, що США не перемагають у війні з Іраном, а 78% кажуть, що Трамп робить недостатньо для її завершення.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Nuevo curso judicial: el procurador como antídoto contra el atasco de la justicia",
+    "link": "https://www.elperiodico.com/es/opinion/20260923/nuevo-curso-judicial-procurador-antidoto-articulo-javier-segura-zariquiey-134599054",
+    "pubDate": "2026-09-23 15:27:43",
+    "category": "",
+    "description": "<h2>Ganar un pleito no puede significar únicamente obtener una sentencia favorable sobre el papel. Una Justicia efectiva exige que lo reconocido por un tribunal pueda cumplirse</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260910/rey-abre-nuevo-ano-judicial-corrupcion-confrontacion-gobierno-134115694\">El Rey abre un nuevo año judicial marcado por causas de corrupción y la confrontación entre jueces y Gobierno</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Arden siete contenedores en dos calles del Guinardó en una nueva madrugada de incendios",
+    "link": "https://www.elperiodico.com/es/barcelona/20260923/arden-siete-contenedores-calles-guinardo-incendios-134598661",
+    "pubDate": "2026-09-23 15:26:47",
+    "category": "",
+    "description": "<h2>Cinco contenedores ardieron en la calle de Padilla y otros dos en la rambla del Volart, donde las llamas también alcanzaron a dos motocicletas estacionadas</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20241020/contenedores-quemados-barcelona-area-metropolitana-bomberos-109869554\" target=\"_blank\">Cada día arden de media tres contenedores en Barcelona y cinco en el resto del área metropolitana</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La reina Letizia pide más recursos para avanzar rápido contra el cáncer: \"La investigación no tiene el lujo del tiempo\"",
+    "link": "https://www.elperiodico.com/es/politica/20260923/reina-letizia-avanzar-rapido-cancer-investigacion-lujo-tiempo-134599525",
+    "pubDate": "2026-09-23 15:23:51",
+    "category": "",
+    "description": "<h2 class=\"item\"> Viaja a Bruselas para participar en el 10º aniversario del foro impulsado por la Asociación Española contra el Cáncer (AECC) con motivo del Día Mundial de la investigación de esta enfermedad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія знизила прогноз видобутку газу - ЗМІ",
+    "link": "https://ua.korrespondent.net/business/economics/4914245-rosiia-znyzyla-prohnoz-vydobutku-hazu-zmi",
+    "pubDate": "2026-09-23 15:23:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572473.jpg\">Коригування пов'язане зі скороченням енергетичних зв'язків із Заходом та планами ЄС відмовитися від російських постачань.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський у США: оголошено програму другого дня",
+    "link": "https://ua.korrespondent.net/ukraine/4914247-zelenskyi-u-ssha-oholosheno-prohramu-druhoho-dnia",
+    "pubDate": "2026-09-23 15:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572478.jpg\">Глава держави проведе низку двосторонніх переговорів і зустрінеться з українською громадою.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США відновлять ротацію військ в Естонії у листопаді",
+    "link": "https://ua.korrespondent.net/world/4914243-ssha-vidnovliat-rotatsiui-viisk-v-estonii-u-lystopadi",
+    "pubDate": "2026-09-23 15:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572477.jpg\">Новий підрозділ американських військ прибуде до Естонії у листопаді. У Міноборони країни заявили, що ротація не пов’язана з переглядом військової присутності США в Європі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Audiencia Nacional absuelve a Gonzalo Boye, abogado de Puigdemont, del delito de blanqueo por el que fue juzgado",
+    "link": "https://www.elperiodico.com/es/politica/20260923/audiencia-nacional-absuelve-abogado-puigdemont-134599062",
+    "pubDate": "2026-09-23 15:12:04",
+    "category": "",
+    "description": "<h2>El tribunal condena a 17 años al narcotraficante gallego Sito Miñanco, que también fue su cliente, por introducir cuatro toneladas de cocaína en Europa en 2017</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Долар дорожчає: трейдери оцінюють шанси нового підвищення ставки ФРС",
+    "link": "https://ua.korrespondent.net/business/financial/4914240-dolar-dorozhchaie-treidery-otsinuiuit-shansy-novoho-pidvyschennia-stavky-frs",
+    "pubDate": "2026-09-23 15:10:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572476.jpg\">Американський долар зростає до основних світових валют, а індекс DXY піднявся до рівня, близького до восьмитижневого максимуму.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El apunte de Ignasi Fortuny | Todo lo que debes saber para comprar entradas para Oasis",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/apunte-ignasi-fortuny-debes-comprar/134593726.shtml",
+    "pubDate": "2026-09-23 15:03:46",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Литва готує власні санкції проти Усманова та Фрідмана",
+    "link": "https://ua.korrespondent.net/world/4914234-lytva-hotuie-vlasni-sanktsii-proty-usmanova-ta-fridmana",
+    "pubDate": "2026-09-23 14:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572470.jpg\">Країна розпочинає процес підготовки власних обмежувальних заходів щодо Усманова та Фрідмана після їхнього виключення із санкційного списку ЄС.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "DIRECTO | Asamblea General de la ONU",
+    "link": "https://www.elperiodico.com/es/videos/internacional/directo-asamblea-general-onu/134598094.shtml",
+    "pubDate": "2026-09-23 14:52:19",
+    "category": "",
+    "description": "Sigue al minuto las últimas noticias sobre el debate en la sede de Naciones Unidas y sus repercusiones",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Російський Мі-8 порушив повітряний простір Польщі",
+    "link": "https://ua.korrespondent.net/world/4914237-rosiiskyi-mi-8-porushyv-povitrianyi-prostir-polschi",
+    "pubDate": "2026-09-23 14:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572467.jpg\">Польща зафіксувала короткочасне порушення свого повітряного простору російським військовим Мі-8. Через інцидент у повітря підняли винищувачі, а наземні сили привели в готовність.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський відреагував на російський терор Києва",
+    "link": "https://ua.korrespondent.net/ukraine/4914235-zelenskyi-vidreahuvav-na-rosiiskyi-teror-kyieva",
+    "pubDate": "2026-09-23 14:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572469.jpg\">Росія продовжує перетворювати на мішені цивільну й критичну інфраструктуру, зазначив глава держави.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "До 10 років за ґратами: кого каратимуть за шахрайські кол-центри",
+    "link": "https://ua.korrespondent.net/ukraine/4914227-do-10-rokiv-za-gratamy-koho-karatymut-za-shakhraiski-kol-tsentry",
+    "pubDate": "2026-09-23 14:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572452.jpg\">В Україні набули чинності нові правила відповідальності за діяльність шахрайських кол-центрів. Покарання передбачене не лише для організаторів, а й для тих, хто свідомо допомагає їм працювати.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У справі екскомбата Маґури оголосили нову підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4914225-u-spravi-ekskombata-magury-oholosyly-novu-pidozru",
+    "pubDate": "2026-09-23 14:39:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572448.png\">За даними слідства, чоловік забезпечив спільникам доступ до автомобіля військового, щоб вони могли підкинути наркотики.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Українська молодь планує майбутнє за кордоном: що показало дослідження",
+    "link": "https://ua.korrespondent.net/ukraine/4914229-ukrainska-molod-planuie-maibutnie-za-kordonom-scho-pokazalo-doslidzhennia",
+    "pubDate": "2026-09-23 14:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572453.jpg\">19% учнів 8 - 11 класів планують професійне життя за кордоном, тоді як лише 18% бачать реальні можливості для роботи у власній громаді.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Sánchez mantiene un encuentro con el alcalde de Nueva York, Zohran Mamdani",
+    "link": "https://www.elperiodico.com/es/videos/internacional/directo-sanchez-mantiene-encuentro-alcalde-nueva-york-mamdani/134597134.shtml",
+    "pubDate": "2026-09-23 14:35:55",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Toyota amplía la gama Corolla GR SPORT y estrena una versión 60 Aniversario",
+    "link": "https://www.elperiodico.com/es/motor/20260923/toyota-amplia-gama-corolla-60-aniversario-gr-sport-134590863",
+    "pubDate": "2026-09-23 14:34:34",
+    "category": "",
+    "description": "<h2>La actualización recupera el acabado Style para el cinco puertas, refuerza el equipamiento de seguridad de los GR Sport y estrena una serie especial con color propio y techo panorámico</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ERC pide al Congreso que se cambie la denominación de \"Lérida\" por \"Lleida\" en todas las carreteras que la mantienen",
+    "link": "https://www.elperiodico.com/es/sociedad/20260923/erc-pide-congreso-cambie-denominacion-lleida-carteles-carreteras-134589308",
+    "pubDate": "2026-09-23 14:23:51",
+    "category": "",
+    "description": "<h2>Registra una Proposición No de Ley  para retirar de la señalización pública la denominación \"Lérida\" recordando que fue en 1992 cuando se cambió la denominación oficial</h2><h2>\"Lo que aparece en la señalización oficial no sólo orienta los desplazamientos, también expresa respeto institucional por el territorio y por su lengua propia\", precisa la formación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Країни Балтії просять €500 млн на захист від дронів - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4914217-krainy-baltii-prosiat-500-mln-na-zakhyst-vid-droniv-zmi",
+    "pubDate": "2026-09-23 14:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572430.jpg\">Міністри оборони Естонії, Латвії та Литви надіслали до Єврокомісії спільного листа з проханням про додаткове фінансування.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Бетонні блоки на коліях: у Польщі пошкоджено два вантажні потяги",
+    "link": "https://ua.korrespondent.net/world/4914221-betonni-bloky-na-koliiakh-u-polschi-poshkodzheno-dva-vantazhni-potiahy",
+    "pubDate": "2026-09-23 14:15:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572441.jpg\">Під час попереднього огляду вибухових речовин не виявили. Провадження розпочато за створення небезпеки транспортної катастрофи, що передбачає до 10 років ув'язнення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Renfe apunta a las lluvias y las vibraciones de las obras como causa de la caída del techo de Fabra i Puig",
+    "link": "https://www.elperiodico.com/es/sociedad/20260923/renfe-apunta-lluvias-vibraciones-obras-causa-caida-techo-fabra-i-puig-134595922",
+    "pubDate": "2026-09-23 14:14:03",
+    "category": "",
+    "description": "<h2 class=\"item\">La operadora ferroviaria retirará toda la cubierta del vestíbulo y aún no hay fecha para reabrrir la estación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260922/cae-falso-techo-fabra-i-puig-rodalies-134570678\">Tres heridos leves al caer un falso techo en la estación de Fabra i Puig de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260923/rodalies-directo-incidencias-retrasos-fabra-puig-134572310\">Incidencias en Rodalies hoy, en directo: nuevas afectaciones en la R3 mientras Fabra i Puig sigue cerrada</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росія вбила бомбами чотирьох цивільних на Донбасі",
+    "link": "https://ua.korrespondent.net/ukraine/4914215-rosiia-vbyla-bombamy-chotyrokh-tsyvilnykh-na-donbasi",
+    "pubDate": "2026-09-23 14:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572434.jpg\">Під завалами можуть залишатися ще вісім людей, серед них двоє дітей 2024 та 2025 років народження.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Oasis anuncia nuevos conciertos para su gira debido a la \"fenomenal\" demanda",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260923/oasis-nuevos-conciertos-gira-fechas-134593201",
+    "pubDate": "2026-09-23 14:05:54",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El entorno de Presley Gerber, el hijo de Cindy Crawford, señala a su médico por recetarle ketamina pese a sus adicciones",
+    "link": "https://www.elperiodico.com/es/gente/20260923/presley-gerber-ketamina-medico-cindy-crawford-134594758",
+    "pubDate": "2026-09-23 14:04:41",
+    "category": "",
+    "description": "<h2>Consideran que el facultativo debería responder ante la justicia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260921/presley-gerber-muere-hijo-cindy-crawford-27-anos-134505204\" target=\"_blank\">Presley Gerber, el hijo de Cindy Crawford, muere a los 27 años</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260922/que-es-ibogaina-psicodelico-adicciones-presley-gerber-muerte-134528967\" target=\"_blank\">Qué es la ibogaína, el polémico tratamiento psicodélico contra las adicciones que Presley Gerber probó meses antes de morir</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paddy Noarbe (30 años), mujer de Marcos Llorente, revela sus hábitos de salud: \"Amo quedarme un sábado por la mañana en la cama remoloneando\"",
+    "link": "https://www.elperiodico.com/es/gente/20260923/paddy-mujer-marcos-llorente-influencer-rutinas-saludables-dv-et-134301826",
+    "pubDate": "2026-09-23 14:00:00",
+    "category": "",
+    "description": "<h2>La 'influencer' combina moda con bienestar y comodidad: \"Yo llevo la ropa, la ropa no me lleva a mí\"</h2><h2><a href=\"https://www.elperiodico.com/es/gente/20260702/marcos-llorente-colegio-sin-pantallas-hija-dv-131804735\">Así sería el colegio ideal que Marcos Llorente planea construir: \"Que no haya pantallas, iPads... juguetes de los de entonces\"</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Якутії після пожежі зупинилася одна з найбільших теплоелектростанцій",
+    "link": "https://ua.korrespondent.net/world/russia/4914211-u-yakutii-pislia-pozhezhi-zupynylasia-odna-z-naibilshykh-teploelektrostantsii",
+    "pubDate": "2026-09-23 13:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572432.png\">Російська сторона стверджує, що пожежа на Нерюнгринській ДРЕС виникла без зовнішнього впливу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sánchez carga contra el discurso \"muy ideológico\" de Trump en una entrevista con el comediante Jon Stewart",
+    "link": "https://www.elperiodico.com/es/internacional/20260923/sanchez-ideologico-trump-entrevista-jon-stewart-nueva-york-onu-134595262",
+    "pubDate": "2026-09-23 13:56:32",
+    "category": "",
+    "description": "<h2>También se ha mofado de los viajes a Marte de Elon Musk en una conversación de una hora en Nueva York con Stewart, conocido por sus programas de sátira política</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Más de 350 personalidades de la cultura firman un manifiesto contra cancelación de Ariana Harwicz",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260923/350-personalidades-cultura-firman-manifiesto-134594737",
+    "pubDate": "2026-09-23 13:56:18",
+    "category": "",
+    "description": "<h2 class=\"item\"> La presidenta madrileña, Isabel Díaz Ayuso, le ha dicho este miércoles a la escritora judía argentina Ariana Harwicz que en Madrid tiene \"las puertas abiertas\"</h2><h2 class=\"item\">Fernando Savater, Piedad Bonnett, Óscar Tusquets, Andrés Trapiello, Cayetana Álvarez de Toledo y María Negroni, han suscrito un manifiesto contra las cancelaciones tras la exclusión de la escritora argentina Ariana Harwicz del Festival Internacional de Arte, Literatura y Humanidades Cultur-Alh que se celebra en Granada.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Pleno de L'Hospitalet dedica un minuto de silencio a Olga, la vecina de la ciudad que se suicidó tras ser desahuciada",
+    "link": "https://www.elperiodico.com/es/barcelona/20260923/pleno-lhospitalet-realiza-minuto-silencio-olga-mujer-suicido-meses-despues-desahuciada-134591935",
+    "pubDate": "2026-09-23 13:53:03",
+    "category": "",
+    "description": "<h2>La afectada había advertido ante una comisión del Parlament sobre su desesperación tras perder su empleo y enfrentar el desalojo del que fue su hogar durante más de 20 años</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260921/debe-ultima-muerte-hospitalet-llora-suicidio-olga-tras-desahuciada-vivienda-134514253\" target=\"_blank\">\"Esta debe ser la última muerte\": L’Hospitalet llora el suicidio de Olga tras ser desahuciada de su vivienda</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Melania Trump se desmarca del veto a la prensa de su marido y acepta a la CNN y Politico en sus actos",
+    "link": "https://www.elperiodico.com/es/internacional/20260923/melania-trump-desmarca-veto-prensa-cnn-politico-134587148",
+    "pubDate": "2026-09-23 13:49:17",
+    "category": "",
+    "description": "<h2>La primera dama aprueba las credenciales de ambos medios para una presentación sobre su iniciativa para promover el bienestar infantil </h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "На Кіровоградщині викрили земельну схему на 6 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4914202-na-kirovohradschyni-vykryly-zemelnu-skhemu-na-6-mln",
+    "pubDate": "2026-09-23 13:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572425.jpg\">Серед підозрюваних - ексголова РДА, колишня керівниця відділу РДА та двоє державних реєстраторів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Govern acuerda con los ayuntamientos crear 1.000 nuevos puestos de trabajo en Servicios Sociales",
+    "link": "https://www.elperiodico.com/es/sociedad/20260923/govern-acuerda-ayuntamientos-creacion-mil-nuevos-134587293",
+    "pubDate": "2026-09-23 13:46:10",
+    "category": "",
+    "description": "<h2 class=\"item\">El president de la Generalitat, Salvador Illa, firma el nuevo acuerdo de financiación con el mundo local hasta 2030, que aumenta un 66,4% el presupuesto, hasta los 2.318 millones de euros</h2><h2 class=\"item\">La tarifa de los cuidadores de dependientes subirá de 24 a 30 euros la hora en 2030 y se impulsará la creación de 1.100 plazas residenciales para personas sin hogar</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260128/plan-choque-sinhogarismo-generalitat-pasa-financiar-ayuntamientos-atender-5-000-personas-sin-hogar-126180224\">El plan de choque contra el sinhogarismo de la Generalitat pasa por financiar más a los ayuntamientos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260504/catalunya-destina-55-millones-euros-extra-para-servicios-sociales-municipales-comarcales-129841050\">Catalunya destinará 55 millones de euros extra este año para los Servicios Sociales municipales y comarcales</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Els Amics de les Arts y los Marrecs de Salt, unidos por la caída que se ha hecho canción",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260923/els-amics-les-arts-marrecs-134590172",
+    "pubDate": "2026-09-23 13:45:24",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Encara som aquí\", inspirada en la caída y la posterior reanudación del pilar durante las Fires del año pasado, será también la canción del 30º Concurs de Castells de Tarragona</h2><h2 class=\"item\">La 'colla' ha recibido con \"emoción\" el regalo y Joan Enric Barceló, uno de los miembros del grupo musical, destaca que \"es una historia pequeña y concreta que puede caber en todas partes\"</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Львівщині двоє дітей на електросамокатах потрапили в ДТП",
+    "link": "https://ua.korrespondent.net/ukraine/4914196-na-lvivschyni-dvoie-ditei-na-elektrosamokatakh-potrapyly-v-dtp",
+    "pubDate": "2026-09-23 13:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572410.jpeg\">На Львівщині двоє дітей постраждали під час аварії з електросамокатами. Водій вантажівки, намагаючись уникнути зіткнення з 12-річною дівчинкою, з'їхав у кювет.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Путіна не побачили виходу на \"мирний трек\"",
+    "link": "https://ua.korrespondent.net/world/russia/4914197-u-putina-ne-pobachyly-vykhodu-na-myrnyi-trek",
+    "pubDate": "2026-09-23 13:35:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572415.jpg\">Дмитро Пєсков вкотре цинічно покликав президента України на переговори до Москви, обіцяючи \"необхідні гарантії безпеки\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Zapatero asegura que las joyas son un regalo del rey saudí, pero pide ayuda al juez para acreditarlo",
+    "link": "https://www.elperiodico.com/es/politica/20260923/zapatero-asegura-joyas-son-regalo-134593825",
+    "pubDate": "2026-09-23 13:33:39",
+    "category": "",
+    "description": "<h2>El expresidente afirma que se trató \"de una atención estrictamente personal, aceptada por deferencia\", y que guardó las piezas \"junto a las de origen familiar y sin conciencia de su valor material\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "La DGT prepara un nuevo límite de velocidad en Catalunya: así cambiará la AP-7 a partir del 1 de octubre",
     "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260923/dgt-nuevo-limite-velocidad-ap7-octubre-dv-134586973",
     "pubDate": "2026-09-23 13:30:23",
@@ -7,6 +601,15 @@
     "description": "<h2>El sistema permitirá reducir temporalmente la velocidad máxima en función del tráfico, la visibilidad, la meteorología u otras situaciones de riesgo</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 85
+  },
+  {
+    "title": "“Los agentes no movemos a los jugadores como nos da la gana”",
+    "link": "https://as.com/baloncesto/euroliga/los-agentes-no-movemos-a-los-jugadores-como-nos-da-la-gana-f202609-n/",
+    "pubDate": "2026-09-23 13:28:20",
+    "category": "Baloncesto",
+    "description": "David Carro, director de Octagon Basketball Europe y CEO de Hoops FairPlay, repasa con AS el ‘caso Walkup’ y la nueva realidad del mercado del baloncesto europeo.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Brad Pitt presenta 'El corazón de la bestia' en San Sebastián",
@@ -185,6 +788,15 @@
     "pubDate": "2026-09-23 12:47:17",
     "category": "",
     "description": "<h2>La Comisión Europea ha propuesto este miércoles levantar las medidas contra Budapest por violar el Estado de derecho</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Aznar advierte a Vox que hay que \"acabar con el sanchismo, pero no hacer un sanchismo al revés\"",
+    "link": "https://www.elperiodico.com/es/politica/20260923/aznar-advierte-vox-hay-acabar-134591118",
+    "pubDate": "2026-09-23 12:47:09",
+    "category": "",
+    "description": "<h2>El expresidente inaugura el Campus de FAES alertando de la emergencia de Aliança Catalana, \"la versión más xenófoba del independentismo\"</h2>",
     "topic": "політика",
     "topic_match_probability": 100
   },
