@@ -1,5 +1,14 @@
 [
   {
+    "title": "Українців попередили про можливі перебої зі зв'язком",
+    "link": "https://ua.korrespondent.net/ukraine/4914371-ukraintsiv-poperedyly-pro-mozhlyvi-pereboi-zi-zviazkom",
+    "pubDate": "2026-09-23 23:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572691.jpg\">Телекомунікаційна інфраструктура також зазнає пошкоджень через постійні російські атаки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "OpenAI надасть Україні інструменти кіберзахисту на базі ШІ",
     "link": "https://ua.korrespondent.net/tech/technews/4914369-OpenAI-nadast-ukraini-instrumenty-kiberzakhystu-na-bazi-shi",
     "pubDate": "2026-09-23 23:20:00",
@@ -14,6 +23,15 @@
     "pubDate": "2026-09-23 23:16:51",
     "category": "",
     "description": "<h2>La persona encontrada en la vivienda habría fallecido durante los últimos meses de la pandemia de Covid y su familia, su pareja y su hija, habrían convivido con los restos desde entonces hasta ahora</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "OpenAI допоможе Україні. Кібербезпека від ШІ",
+    "link": "https://ua.korrespondent.net/tech/technews/4914380-OpenAI-dopomozhe-ukraini-kiberbezpeka-vid-shi",
+    "pubDate": "2026-09-23 22:51:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572728.jpg\">У вересні компанія Anthropic повідомила, що російські розробники, обходячи географічні блокування через VPN, ймовірно використовували платформу Claude для створення програмного забезпечення до роїв дронів-камікадзе.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -160,6 +178,15 @@
     "description": "<h2>Los pacientes ingresados en el Santa Lucía han mejorado y pasado a planta, mientras que el oficial trasladado al Virgen de la Arrixaca sigue grave</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Зустріч Трампа і Сі. Очікування світу",
+    "link": "https://ua.korrespondent.net/world/4914376-zustrich-trampa-i-si-ochikuvannia-svitu",
+    "pubDate": "2026-09-23 21:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572715.jpg\">На тлі провалу оголошеної Трампом на початку його другого терміну митної війни китайська делегація демонструє безпрецедентну впевненість.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Sánchez ve una \"tragedia social\" el desahucio de Maricarmen y responsabiliza a Ayuso y Almeida",

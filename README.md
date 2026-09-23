@@ -1,9 +1,11 @@
-# News for 2026-09-23 23:46
+# News for 2026-09-24 00:18
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## ua.korrespondent.net
+23:48 [Українців попередили про можливі перебої зі зв'язком](https://ua.korrespondent.net/ukraine/4914371-ukraintsiv-poperedyly-pro-mozhlyvi-pereboi-zi-zviazkom)<br>
 23:20 [OpenAI надасть Україні інструменти кіберзахисту на базі ШІ](https://ua.korrespondent.net/tech/technews/4914369-OpenAI-nadast-ukraini-instrumenty-kiberzakhystu-na-bazi-shi)<br>
+22:51 [OpenAI допоможе Україні. Кібербезпека від ШІ](https://ua.korrespondent.net/tech/technews/4914380-OpenAI-dopomozhe-ukraini-kiberbezpeka-vid-shi)<br>
 22:24 [Аеропорт у Берліні зупиняв роботу через невідомий БПЛА](https://ua.korrespondent.net/world/4914361-aeroport-u-berlini-zupyniav-robotu-cherez-nevidomyi-bpla)<br>
 22:16 [Травмований Лень покидає клуб Басконія](https://ua.korrespondent.net/sport/basketball/4914363-travmovanyi-len-pokydaie-klub-baskoniia)<br>
 21:12 [Помер російський музичний критик Сергій Сосєдов](https://ua.korrespondent.net/lifestyle/4914349-pomer-rosiiskyi-muzychnyi-krytyk-serhii-sosiedov)<br>
