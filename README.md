@@ -1,8 +1,12 @@
-# News for 2026-09-23 03:17
+# News for 2026-09-23 07:09
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## www.elperiodico.com
+06:45 [Incidencias en Rodalies Renfe hoy, en directo | Última hora de la caída del techo en Fabra i Puig: heridos e interrupciones al tráfico](https://www.elperiodico.com/es/barcelona/20260923/incidencias-rodalies-renfe-hoy-directo-134572310)<br>
+05:39 [Un estudio desmonta la bajada de rendimiento de los alumnos de hogares acomodados que reflejó PISA](https://www.elperiodico.com/es/sociedad/20260923/innovamat-esade-desmontan-bajada-rendimiento-alumnos-ricos-pisa-134571108)<br>
+05:25 [Barcelona apuesta por desencallar la fachada de la Glòria de la Sagrada Família en 2026 con “la menor afectación posible”](https://www.elperiodico.com/es/barcelona/20260923/barcelona-desencallar-fachada-gloria-menor-afectacion-pisos-134571151)<br>
+05:00 [La Policía busca a 12 yihadistas que se esconden entre los inmigrantes de Ceuta](https://www.elperiodico.com/es/sucesos/20260923/ceuta-policia-busca-yihadistas-esconden-134576227)<br>
 02:59 [Grupo Castilla incorpora BeUp, la consultora liderada por Pilar Jericó y Marta Romo](https://www.elperiodico.com/es/economia/20260923/grupo-castilla-incorpora-beup-consultora-bc-134508321)<br>
 02:59 [La energía que impulsa la transición energética también está en las personas](https://www.elperiodico.com/es/sociedad/20260923/energia-impulsa-transicion-energetica-personas-bc-134576047)<br>
 01:59 [Emprender con respaldo: una oportunidad real para un desarrollo laboral con futuro](https://www.elperiodico.com/es/sociedad/20260923/emprender-respaldo-oportunidad-real-desarrollo-bc-134575943)<br>
