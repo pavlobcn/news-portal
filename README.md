@@ -1,8 +1,13 @@
-# News for 2026-09-23 17:07
+# News for 2026-09-23 20:38
 
 Previous day: [2026-09-22](./data/2026-09-22.md)
 
 ## ua.korrespondent.net
+20:06 [Росія готує балістичний обстріл України - ЦПД](https://ua.korrespondent.net/ukraine/4914335-rosiia-hotuie-balistychnyi-obstril-ukrainy-tspd)<br>
+19:45 [Кількість жертв авіаудару по Олександрівці зросла, під завалами є люди](https://ua.korrespondent.net/ukraine/4914330-kilkist-zhertv-aviaudaru-po-oleksandrivtsi-zrosla-pid-zavalamy-ye-luidy)<br>
+19:06 [Нафта помітно дорожчає попри зростання запасів США](https://ua.korrespondent.net/business/economics/4914318-nafta-pomitno-dorozhchaie-popry-zrostannia-zapasiv-ssha)<br>
+18:44 [На Донеччині загинув гуманітарний працівник, ще один поранений - ООН](https://ua.korrespondent.net/ukraine/4914313-na-donechchyni-zahynuv-humanitarnyi-pratsivnyk-sche-odyn-poranenyi-oon)<br>
+17:45 [Україна передала Малаві понад 1,5 тисячі тонн продовольства](https://ua.korrespondent.net/world/4914300-ukraina-peredala-malavi-ponad-15-tysiachi-tonn-prodovolstva)<br>
 16:55 [Атака РФ на Київ та область призвела до масових проблем з інтернетом](https://ua.korrespondent.net/city/kiev/4914290-ataka-rf-na-kyiv-ta-oblast-pryzvela-do-masovykh-problem-z-internetom)<br>
 16:47 [В Ормузькій протоці вдарили по вантажному судну](https://ua.korrespondent.net/world/4914286-v-ormuzkii-prototsi-vdaryly-po-vantazhnomu-sudnu)<br>
 16:36 [Зв’язку із Землею не буде: ШІ вирушить у космос самостійно](https://ua.korrespondent.net/tech/space/4914275-zviazku-iz-zemleui-ne-bude-shi-vyrushyt-u-kosmos-samostiino)<br>
@@ -37,6 +42,8 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 08:20 [Удар по підприємству на Житомирщині: постраждали двоє людей](https://ua.korrespondent.net/ukraine/4914077-udar-po-pidpryiemstvu-na-zhytomyrschyni-postrazhdaly-dvoie-luidei)<br>
 
 ## as.com
+19:49 [Alex Len se marcha del Baskonia sin debutar](https://as.com/baloncesto/euroliga/alex-len-se-marcha-del-baskonia-sin-debutar-f202609-n/)<br>
+17:35 [La Liga U se consolida: 134 ‘repetidores’ con una media de 17,8 años](https://as.com/baloncesto/mas_baloncesto/la-liga-u-se-consolida-134-repetidores-con-una-media-de-178-anos-f202609-n/)<br>
 13:28 [“Los agentes no movemos a los jugadores como nos da la gana”](https://as.com/baloncesto/euroliga/los-agentes-no-movemos-a-los-jugadores-como-nos-da-la-gana-f202609-n/)<br>
 12:40 [El Mónaco, a un paso de la desaparición](https://as.com/baloncesto/euroliga/el-monaco-a-un-paso-de-la-desaparicion-f202609-n/)<br>
 07:03 [La NBA retuerce los planes del Madrid](https://as.com/baloncesto/euroliga/la-nba-retuerce-los-planes-del-madrid-f202609-n/)<br>
@@ -44,6 +51,21 @@ Previous day: [2026-09-22](./data/2026-09-22.md)
 07:00 [“Nuestra hambre supera a la presión”](https://as.com/baloncesto/mas_baloncesto/nuestra-hambre-supera-a-la-presion-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:30 [Damm recibe el Premio de Oro de la Cámara de Comercio de España tras una inversión de 80 millones en el Reino Unido](https://www.elperiodico.com/es/economia/20260923/damm-recibe-premio-oro-camara-134612730)<br>
+20:20 [Colonial entra en las residencias de estudiantes a través de una 'joint venture' con Vita Group](https://www.elperiodico.com/es/economia/20260923/colonial-entra-residencias-estudiantes-traves-134612541)<br>
+20:17 [El Rey Felipe VI preside el estreno de la temporada del Teatro Real con la ópera 'Manon Lescaut'](https://www.elperiodico.com/es/ocio-y-cultura/20260923/rey-felipe-vi-preside-estreno-134612423)<br>
+20:00 [Toni y Meritxell Falgueras convierten el pregón de la Mercè en un canto al comercio tradicional y a los barceloneses que lo frecuentan](https://www.elperiodico.com/es/barcelona/20260923/toni-meritxell-falgueras-convierten-pregon-merce-barcelona-homenaje-comercio-historico-134606036)<br>
+19:44 [Pregón de la Mercè a cargo de Antoni y Meritxell Falgueras](https://www.elperiodico.com/es/fotos/barcelona/pregon-merce-cargo-bodeguero-antoni-134611312)<br>
+19:24 [Roser Gort, psicóloga experta en sueño: "La hora a la que te despiertas cada día de la semana debería ser la misma"](https://www.elperiodico.com/es/salud/20260923/psicologa-experta-sueno-despertar-misma-hora-fin-de-semana-horario-regular-roser-gort-dv-et-134396239)<br>
+18:37 [Botella, 16: una década de trámites y obras para sacar de la ruina un bloque de viviendas del Raval](https://www.elperiodico.com/es/barcelona/20260923/rehabilitacion-edificio-raval-decada-tramites-obras-134603739)<br>
+18:35 [Brad Pitt, carisma inane en San Sebastián: "Deberíamos centrarnos más en las cosas que nos unen"](https://www.elperiodico.com/es/ocio-y-cultura/20260923/brad-pitt-carisma-san-sebastian-festival-pelicula-en-el-corazon-de-la-bestia-134607595)<br>
+18:30 [Ester Expósito (26 años), sobre su infancia: “Yo empecé a hablar antes que a andar, hablaba por los codos”](https://www.elperiodico.com/es/gente/20260923/ester-exposito-actriz-infancia-abuela-nina-dv-et-134296408)<br>
+18:20 [El dolmen de 5.000 años que sobrevive entre chalets en el Empordà](https://www.elperiodico.com/es/sociedad/20260923/dolmen-sobrevive-entre-chalets-emporda-5000-anos-dv-134607830)<br>
+18:00 [La herencia que espera al sucesor de Omella en el arzobispado de Barcelona: poder, patrimonio y desafíos](https://www.elperiodico.com/es/sociedad/20260923/relevo-juan-jose-omella-arzobispado-barcelona-retos-nuevo-obispo-134600396)<br>
+18:00 [Relevo inmminente: el cardenal Omella oficiará este jueves su última misa de la Mercè como arzobispo de Barcelona](https://www.elperiodico.com/es/sociedad/20260923/cardenal-juan-jose-omella-ultima-misa-merce-arzobispo-barcelona-sucesion-relevo-vaticano-134552181)<br>
+17:42 [La terapeuta de los Andic denuncia su "linchamiento": "No sabía nada de la excursión a Montserrat"](https://www.elperiodico.com/es/sociedad/20260923/terapeuta-andic-denuncia-linchamiento-sabia-134605231)<br>
+17:09 [La farmacéutica catalana Salvat trasladará su producción industrial de Esplugues a Madrid](https://www.elperiodico.com/es/economia/20260923/farmaceutica-salvat-trasladara-produccion-industrial-madrid-134601650)<br>
+17:08 [Iberia reconoce "tensión" en el sector aéreo por la subida de precio del queroseno, pero reafirma su plan inversor a 2030](https://www.elperiodico.com/es/economia/20260923/iberia-reconoce-sector-aereo-tension-subida-precio-queroseno-plan-inversor-2030-134603583)<br>
 17:02 [Tiempo en Catalunya mañana jueves: una masa de aire cálido subirá las temperaturas hasta los 30 grados](https://www.elperiodico.com/es/tiempo/20260923/tiempo-catalunya-hoy-jueves-calor-barcelona-30-grados-dv-loc-134600275)<br>
 17:00 [Un informe de Deutsche Bank pone cifra al futuro del dinero digital: hasta 140 billones de dólares en transacciones en 2030](https://www.elperiodico.com/es/economia/20260923/deutsche-bank-dinero-digital-140-billones-dolares-2030-134595286)<br>
 17:00 [Casa gratis para universitarios que conviven con mayores solos: "Ella me ayuda con la tecnología y yo le enseño catalán"](https://www.elperiodico.com/es/sociedad/20260923/casa-gratis-universitarios-personas-mayores-viven-solos-compania-tecnologia-catalan-134545779)<br>
