@@ -1,5 +1,311 @@
 [
   {
+    "title": "Una última escapada para prolongar el verano en el Caribe mexicano",
+    "link": "https://www.elperiodico.com/es/sociedad/20260924/ultima-escapada-prolongar-verano-caribe-bc-134629744",
+    "pubDate": "2026-09-24 12:01:27",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Por qué cada vez más niños tienen miopía y cómo se puede frenar su progresión?",
+    "link": "https://www.elperiodico.com/es/salud/20260924/vez-ninos-miopia-frenar-progresion-134629705",
+    "pubDate": "2026-09-24 12:01:00",
+    "category": "",
+    "description": "<h2>El uso diario durante al menos 12 horas de lentes específicas permite controlar el crecimiento excesivo del ojo, según los resultados obtenidos en estudios internacionales sobre salud visual infantil</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hernán Mora, albañil que llegó a tener 19 trabajadores: \"No tenemos profesionales para dar lo que nosotros exigimos\"",
+    "link": "https://www.elperiodico.com/es/economia/20260924/hernan-mora-albanil-19-trabajadores-no-hay-profesionales-dv-et-134421999",
+    "pubDate": "2026-09-24 12:00:00",
+    "category": "",
+    "description": "<h2>El profesional, que se dedica a las reformas integrales, lamenta no poder asumir una lista de espera de clientes por falta de trabajadores adecuados</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260822/ricardo-abellan-electricista-problema-gordo-oficios-electricistas-albaniles-fontaneros-dv-133302048\">Ricardo Abellán, electricista: \"Tenemos un problema y gordo con los oficios. Hay más gente formada que nunca pero electricistas, albañiles, fontaneros... no hay\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У полоні перебувають іноземці з 55 країн, які воювали за Росію",
+    "link": "https://ua.korrespondent.net/ukraine/4914509-u-poloni-perebuvauit-inozemtsi-z-55-krain-yaki-vouivaly-za-rosiui",
+    "pubDate": "2026-09-24 11:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573197.jpg\">За перші дев'ять місяців 2026 року в український полон потрапило більше іноземців, ніж за весь 2025 рік.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сирському призначили нового заступника",
+    "link": "https://ua.korrespondent.net/ukraine/4914514-syrskomu-pryznachyly-novoho-zastupnyka",
+    "pubDate": "2026-09-24 11:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573199.jpg\">На новій посаді полковник Мартиненко, зокрема, відповідатиме за напрям цифровізації Збройних сил України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La paradoja de las residencias: la mitad autorizan las mascotas, pero solo el 78% permite la presencia física de las familias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260924/residencias-convivencia-mascotas-familias-mayores-discapacidad-134625907",
+    "pubDate": "2026-09-24 11:54:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El Imserso cuantifica solo 268 viviendas para mayores en toda España, la mayoría de titularidad pública; mientras seis de cada diez geriátricos están en manos de empresas privadas </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260908/terapia-perros-soledad-no-deseada-residencias-134058217\" target=\"_blank\">Terapia con perros frente a la soledad de los mayores: \"Ellos te entienden, te dan afecto y el día se pasa volando\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Armengol (Sabadell) defiende en la City la fortaleza del banco y de la economía española",
+    "link": "https://www.elperiodico.com/es/economia/20260924/armengol-sabadell-defiende-city-fortaleza-134622966",
+    "pubDate": "2026-09-24 11:53:30",
+    "category": "",
+    "description": "<h2>El consejero delegado del banco catalán se muestra optimista respecto al reto de alcanzar una rentabilidad del 16% en 2027</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260724/sabadell-olvida-opa-ingresos-tiro-132767821\">El Sabadell se olvida de la opa: \"Los ingresos van como un tiro\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251211/banc-sabadell-reto-dia-despues-124674876\">Banc Sabadell y el reto del día después</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El PP culpa a Sánchez del desahucio de Maricarmen",
+    "link": "https://www.elperiodico.com/es/politica/20260924/pp-culpa-sanchez-desahucio-maricarmen-134629272",
+    "pubDate": "2026-09-24 11:51:59",
+    "category": "",
+    "description": "<h2>Cuca Gamarra atribuye el desahucio de Maricarmen a un fracaso generalizado en la gestión de la vivienda de Pedro Sánchez, que afecta tanto a personas mayores como a los jóvenes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Dos cazas F-18 españoles despegan en Rumanía por una alerta de drones rusos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/cazas-f-18-espanoles-despegan/134629157.shtml",
+    "pubDate": "2026-09-24 11:49:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La rocambolesca historia de amor de Gregg Popovich (77 años): se casa con la exmujer del asistente con el que conquistó cinco anillos de la NBA",
+    "link": "https://www.elperiodico.com/es/deportes/20260924/rocambolesca-historia-amor-gregg-popovich-134627525",
+    "pubDate": "2026-09-24 11:47:48",
+    "category": "",
+    "description": "<h2>El legendario entrenador contrae matrimonio con la exesposa de Mike Budenholzer, el ayudante con el que ganó cinco anillos de la NBA</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dulceida presentará el Piromusical de La Mercè en TV3",
+    "link": "https://www.elperiodico.com/es/tele/20260924/dulceida-piromusical-merce-2026-tv3-134627371",
+    "pubDate": "2026-09-24 11:46:23",
+    "category": "",
+    "description": "<h2 class=\"item\">El espectáculo que aúna música y fuegos artificiales cerrará las fiestas de Barcelona </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260909/piromusical-merce-2026-cuando-donde-134100835\">¿Cuándo y dónde será el Piromusical de La Mercè 2026? Día, hora y nueva ubicación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260914/bbc-studios-dulceida-la-gran-cita-134267651\">BBC Studios adaptará internacionalmente el 'dating show' de Dulceida en 3Cat, 'La gran cita'</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Teràpia de Shock culmina su gira de reunión en la Mercè sin planes de continuar: \"La industria de la música es Vietnam\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260924/terapia-shock-culmina-gira-reunion-134626818",
+    "pubDate": "2026-09-24 11:45:51",
+    "category": "",
+    "description": "<h2>El grupo de la Garrotxa, que desató un fenómeno fan en la pasada década con el impacto de la balada ‘Sense tu’, de la serie ‘Polseres vermelles’, actúa este viernes en la avenida de Maria Cristina y cerrará su gira de regreso el 19 de octubre en Girona</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El reloj de Lamine Yamal en su vuelta a la selección española: de oro rosa, diseño extraplano y 240.000 euros",
+    "link": "https://www.elperiodico.com/es/gente/20260924/lamine-yamal-reloj-richard-millie-oro-rosa-seleccion-espanola-dv-134624131",
+    "pubDate": "2026-09-24 11:45:45",
+    "category": "",
+    "description": "<h2 class=\"item\">El nuevo complemento llega en el inicio de una nueva etapa para la selección española</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260922/locura-rozas-ver-seleccion-espanola-134572433\" >Locura en Las Rozas para ver a la selección española en su estreno como bicampeona mundial</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260719/lamine-yamal-collar-rueda-prensa-seleccion-espana-mundial-2026-dv-et-132469647\" >Los expertos coinciden sobre el collar de Lamine Yamal que se ha autorregalado: \"Es una pieza diseñada para captar todas las miradas\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Другий півфінал поспіль: Україна вибила Бельгію з Кубка Біллі Джин Кінг",
+    "link": "https://ua.korrespondent.net/sport/tenis/4914508-druhyi-pivfinal-pospil-ukraina-vybyla-belhiui-z-kubka-billi-dzhyn-kinh",
+    "pubDate": "2026-09-24 11:45:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573185.jpg\">Черговий успіх українського тенісу: здолавши Бельгію у напруженому чвертьфінальному протистоянні, збірна України вдруге поспіль пройшла до півфіналу Кубка Біллі Джин Кінг.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Влада Києва зреагувала на скандал довкола Теремків",
+    "link": "https://ua.korrespondent.net/city/kiev/4914506-vlada-kyieva-zreahuvala-na-skandal-dovkola-teremkiv",
+    "pubDate": "2026-09-24 11:41:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573186.jpg\">Кличко просить правоохоронців надати правову оцінку подіям, що сталися 22 вересня на Теремках.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Vuelve 'Compañeros': Atresmedia prepara el regreso de la mítica serie 25 años después con Quimi y Valle como adultos",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20260924/vuelve-companeros-atresmedia-prepara-regreso-mitica-serie-25-anos-quimi-valle-134628138",
+    "pubDate": "2026-09-24 11:36:18",
+    "category": "",
+    "description": "<h2>Antonio Hortelano y Eva Santolaria volverán a interpretar a la icónica pareja en una nueva etapa producida por Globomedia, Filmax y Atresmedia, bajo la dirección de Pau Freixas</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El apunte de José Rico | Analizamos los datos de la última encuesta del GESOP y cómo quedaría el mapa político de la ciudad.",
+    "link": "https://www.elperiodico.com/es/videos/politica/apunte-jose-rico-analizamos-datos/134627958.shtml",
+    "pubDate": "2026-09-24 11:27:43",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Прикордонник організовував втечу до Румунії за $7000-13000",
+    "link": "https://ua.korrespondent.net/ukraine/4914496-prykordonnyk-orhanizovuvav-vtechu-do-rumunii-za-7000-13000",
+    "pubDate": "2026-09-24 11:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573165.jpeg\">Прикордонник представлявся \"консультантом із виїзду з України\", а свій номер поширював через знайомих.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Долар сягнув психологічної межі в обмінних пунктах",
+    "link": "https://ua.korrespondent.net/business/financial/4914502-dolar-siahnuv-psykholohichnoi-mezhi-v-obminnykh-punktakh",
+    "pubDate": "2026-09-24 11:24:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573171.jpg\">Середній курс продажу долара сягнув 45,00 гривень, а курс продажу євро впав до рівня 51,80 гривні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Omella subraya en su última Mercè que la \"grandeza\" de Barcelona no se mide por su \"prestigio\" sino por el trato a sus habitantes",
+    "link": "https://www.elperiodico.com/es/barcelona/20260924/omella-subraya-ultima-merce-grandeza-134622499",
+    "pubDate": "2026-09-24 11:23:28",
+    "category": "",
+    "description": "<h2>El cardenal, obispo desde hace 30 años y dos días, está cerca de ser relevado por el Vaticano al frente de la archidiócesis</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260923/cardenal-juan-jose-omella-ultima-misa-merce-arzobispo-barcelona-sucesion-relevo-vaticano-134552181\">Relevo inmminente: el cardenal Omella oficiará este jueves su última misa de la Mercè como arzobispo de Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260923/relevo-juan-jose-omella-arzobispado-barcelona-retos-nuevo-obispo-134600396\">La herencia que espera al sucesor de Omella en el arzobispado de Barcelona: poder, patrimonio y desafíos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЦРУ закликало Польщу готуватися до атак на кабелі",
+    "link": "https://ua.korrespondent.net/world/4914498-tsru-zaklykalo-polschu-hotuvatysia-do-atak-na-kabeli",
+    "pubDate": "2026-09-24 11:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573170.jpg\">Передусім мова про трансатлантичні з’єднання, а також кабелі на дні Балтійського моря.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі горіла станція Starlink, що обслуговує Україну",
+    "link": "https://ua.korrespondent.net/world/4914497-u-polschi-horila-stantsiia-Starlink-scho-obsluhovuie-ukrainu",
+    "pubDate": "2026-09-24 11:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573169.jpg\">На наземній станції Starlink у Польщі сталася пожежа. Влада розглядає версію навмисного підпалу, оскільки об’єкт забезпечує інтернет-зв’язок, зокрема для України.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "¿Viajar es solo una actividad económica?",
+    "link": "https://www.elperiodico.com/es/opinion/20260924/viajar-actividad-economica-134627061",
+    "pubDate": "2026-09-24 11:17:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ayuso sobre el desahucio de Maricarmen: \"Se está cumpliendo una ley que este Gobierno ha tenido ocho años para modificar\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/ayuso-desahucio-maricarmen-cumpliendo-ley-gobierno/134627624.shtml",
+    "pubDate": "2026-09-24 11:16:40",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Illa tacha de \"clasista e inhumano\" el desahucio de Maricarmen y pide a PP, Vox y Junts que apoyen el decreto de vivienda",
+    "link": "https://www.elperiodico.com/es/barcelona/20260924/illa-tacha-clasista-inhumano-desahucio-maricarmen-decreto-vivienda-pp-vox-junts-salvador-illa-134627098",
+    "pubDate": "2026-09-24 11:14:13",
+    "category": "",
+    "description": "<h2>El presidente de la Generalitat de Catalunya acusa a quienes rechazaron el decreto de mantener una visión \"clasista e inhumana\" y reclama que la norma contra los desahucios se apruebe cuando el Congreso retome su actividad</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260924/desahucio-maricarmen-reactiva-choque-gobierno-madrid-otono-caliente-134620978\">El desahucio de Maricarmen reactiva el choque entre el Gobierno y Ayuso y anticipa un 'otoño caliente' en Madrid</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Сеітаблаєв уперше показав свою нову кохану",
+    "link": "https://ua.korrespondent.net/lifestyle/4914486-seitablaiev-upershe-pokazav-svoui-novu-kokhanu",
+    "pubDate": "2026-09-24 11:11:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573123.jpg\">Вони познайомилися на кіномайданчику, проте наразі вважають за краще тримати подробиці свого особистого життя в секреті.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві викрили схему поборів з лікарів",
+    "link": "https://ua.korrespondent.net/city/kiev/4914493-u-kyievi-vykryly-skhemu-poboriv-z-likariv",
+    "pubDate": "2026-09-24 11:09:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573166.jpg\">За кожну операцію лікарі мали щотижня платити по 1000 грн, тоді як за відмову їм погрожували позбавленням можливості оперувати та скасуванням броні.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya da marcha atrás y recuperará las lecturas obligatorias en Bachillerato el curso que viene",
+    "link": "https://www.elperiodico.com/es/sociedad/20260924/catalunya-da-marcha-recuperara-lecturas-134624332",
+    "pubDate": "2026-09-24 11:02:22",
+    "category": "",
+    "description": "<h2 class=\"item\">La conselleria de Educació publica una guía de refuerzo de los aprendizajes en la que recomienda a los centros \"garantizar\" la selección y lectura obligatoria de algunos \"libros clave\" propuestos por los equipos docentes en 5º y 6º de Primaria y a lo largo de la ESO </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260921/illa-reune-pozo-iniciar-proceso-futuro-educacion-catalunya-debate-134507833\">Catalunya activa un gran debate social para que la educación recupere niveles de excelencia: en abril tendrá las conclusiones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Карпатах зимова погода: випав сніг і вдарив мороз",
+    "link": "https://ua.korrespondent.net/ukraine/4914491-u-karpatakh-zymova-pohoda-vypav-snih-i-vdaryv-moroz",
+    "pubDate": "2026-09-24 11:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573152.jpg\">Попри осінню пору, у високогір'ї вже зимові умови. На горі Піп Іван температура повітря опустилася до 3°С морозу",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Джошуа більше не тренуватиметься у таборі Усика",
+    "link": "https://ua.korrespondent.net/sport/boks/4914488-dzhoshua-bilshe-ne-trenuvatymetsia-u-tabori-usyka",
+    "pubDate": "2026-09-24 11:01:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573148.jpg\">Британський суперважковаговик змінив підхід до підготовки до майбутніх поєдинків, відновивши співпрацю з Беном Девісоном.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Desencallado el cuartel vacío de la Guardia Civil de Sabadell: acogerá consultas externas del Parc Taulí",
+    "link": "https://www.elperiodico.com/es/barcelona/20260924/antigua-caserna-guardia-civil-sabadell-cuartel-salvador-illa-134625598",
+    "pubDate": "2026-09-24 10:56:09",
+    "category": "",
+    "description": "<h2>Interior devuelve el inmueble al Ayuntamiento de Sabadell tras décadas sin uso y un largo conflicto entre administraciones</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260619/govern-estudia-conversion-cuartel-guardia-civil-sabadell-dependencias-tauli-4-000-personas-131547277\">El Govern trabaja en la conversión del cuartel de la Guardia Civil de Sabadell en dependencias del Hospital Parc Taulí para 4.000 personas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Вода була секретом будівництва піраміди Джоссера",
+    "link": "https://ua.korrespondent.net/tech/science/4914463-voda-bula-sekretom-budivnytstva-piramidy-dzhossera",
+    "pubDate": "2026-09-24 10:53:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573071.jpg\">Вчені знайшли докази того, що тисячі років тому в Єгипті існувала складна гідравлічна система, придумана місцевими будівельниками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб назвав чотири уражені цілі росіян на ТОТ",
+    "link": "https://ua.korrespondent.net/ukraine/4914483-henshtab-nazvav-chotyry-urazheni-tsili-rosiian-na-tot",
+    "pubDate": "2026-09-24 10:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573150.jpg\">Під удари потрапили російські радіолокаційні станції 35Н6 Каста та П-18 в Запорізької області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Російські НПЗ скорочують виробництво третій місяць поспіль",
+    "link": "https://ua.korrespondent.net/world/russia/4914480-rosiiski-npz-skorochuuit-vyrobnytstvo-tretii-misiats-pospil",
+    "pubDate": "2026-09-24 10:49:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573147.jpg\">Росія не змогла відновити нафтопереробні потужності, пошкоджені українськими дронами. За вісім місяців виробництво нафтопродуктів скоротилося на 10,3%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La Mercè 2026, en directo: última hora de las fiestas de Barcelona",
     "link": "https://www.elperiodico.com/es/barcelona/20260924/merce-2026-directo-ultima-hora-134622214",
     "pubDate": "2026-09-24 10:43:00",
@@ -160,6 +466,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573121.jpg\">Обговорювались потреби України в ППО і як можна забезпечити зимовий пакет підтримки, зазначив глава держави.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "La persona que encontraron muerta en Cabrera d'Anoia era un conocido médico homeópata y profesor universitario",
+    "link": "https://www.elperiodico.com/es/sociedad/20260924/persona-encontraron-muerta-cabrera-d-134624934",
+    "pubDate": "2026-09-24 10:14:23",
+    "category": "",
+    "description": "<h2>La policía investiga los restos, en principio sin signos de violencia, de un cuerpo que llevaba unos dos años muerto y que la familia tenía en casa</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 55
   },
   {
     "title": "David, un español que vive en Noruega desata la polémica: \"Aquí puedes ver a niños de 5 y 6 años yendo solos al colegio\"",
@@ -432,6 +747,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Комбінована атака на Київщину: стало відомо про наслідки",
+    "link": "https://ua.korrespondent.net/ukraine/4914438-kombinovana-ataka-na-kyivschynu-stalo-vidomo-pro-naslidky",
+    "pubDate": "2026-09-24 08:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573055.jpg\">Росіяни атакували Київську область ударними дронами та балістикою. Пошкоджені вісім об'єктів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "¿Qué centros comerciales están abiertos hoy 24 de septiembre, día de la Mercè, en Barcelona y Catalunya?",
     "link": "https://www.elperiodico.com/es/economia/20260924/barcelona-cataluna-centros-comerciales-24-septiembre-la-merce-dv-loc-134523223",
     "pubDate": "2026-09-24 08:38:00",
@@ -504,6 +828,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "Вісім загиблих і 19 поранених: наслідки ударів РФ по Донеччині",
+    "link": "https://ua.korrespondent.net/ukraine/4914421-visim-zahyblykh-i-19-poranenykh-naslidky-udariv-rf-po-donechchyni",
+    "pubDate": "2026-09-24 08:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573010.jpg\">Російські війська 23 вересня атакували населені пункти Донецької області. Внаслідок обстрілів загинули восьмеро людей, ще 19 жителів дістали поранення.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Cápsulas del tiempo: bares y restaurantes de Barcelona que viven en otra época",
     "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20260924/bares-restaurantes-barcelona-viven-otra-epoca-santuarios-vintage-134602281",
     "pubDate": "2026-09-24 08:00:31",
@@ -540,6 +873,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Дрон влучив у багатоповерхівку у Хмельницькому",
+    "link": "https://ua.korrespondent.net/ukraine/4914423-dron-vluchyv-u-bahatopoverkhivku-u-khmelnytskomu",
+    "pubDate": "2026-09-24 07:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573009.jpg\">Внаслідок російської атаки відомо про влучання у житловий багатоповерховий будинок в обласному центрі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "11 panaderos de Catalunya, entre los 50 mejores de España",
     "link": "https://www.elperiodico.com/es/gastronomia/20260924/11-panaderos-catalunya-50-mejores-espana-134605110",
     "pubDate": "2026-09-24 07:57:17",
@@ -558,6 +900,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "El odio y la desinformación ponen a las ONG en el punto de mira en Ceuta: \"Nos hemos convertido en objetivo por hacer nuestro trabajo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260924/ong-ceuta-odio-ataques-desinformacion-134621108",
+    "pubDate": "2026-09-24 07:54:44",
+    "category": "",
+    "description": "<h2>La Coordinadora Valenciana de ONGD condena la agresión al coche de una diputada tras ser confundida con activistas humanitarios y alerta del clima de violencia que sufren los defensores de derechos humanos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Дрони над Україною: Румунія підняла F-18, Польща - авіацію",
     "link": "https://ua.korrespondent.net/world/4914417-drony-nad-ukrainoui-rumuniia-pidniala-F-18-polscha-aviatsiui",
     "pubDate": "2026-09-24 07:52:00",
@@ -572,6 +923,24 @@
     "pubDate": "2026-09-24 07:45:00",
     "category": "",
     "description": "<h2>Reducir la flacidez, frenar la aparición de arrugas, proteger la masa muscular y rendir mejor en el día a día... es lo que logra el suplemento que se ha convertido en la gran recomendación del año y que amenaza con colgar el cartel de agotado en tiempo récord</h2><h2><a href=\"https://www.elperiodico.com/es/shopping/\" target=\"_blank\">Con descuentos del 70%: estas son las mejores ofertas del día</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський назвав Трампу людину, яка може вплинути на Путіна",
+    "link": "https://ua.korrespondent.net/ukraine/4914418-zelenskyi-nazvav-trampu-luidynu-yaka-mozhe-vplynuty-na-putina",
+    "pubDate": "2026-09-24 07:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573007.jpg\">Український президент очікує, що Трамп залучить Сі Цзіньпіна до мирних переговорів щодо припинення війни.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Херсонщину накрили дрони та артилерія: є поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4914414-khersonschynu-nakryly-drony-ta-artyleriia-ye-poraneni",
+    "pubDate": "2026-09-24 07:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572995.jpg\">Російські війська протягом доби атакували Херсонщину авіацією, дронами та артилерією. Унаслідок ударів двоє людей дістали поранення.",
     "topic": "",
     "topic_match_probability": 0
   },
