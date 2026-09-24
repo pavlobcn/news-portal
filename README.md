@@ -1,8 +1,14 @@
-# News for 2026-09-24 12:03
+# News for 2026-09-24 15:50
 
 Previous day: [2026-09-23](./data/2026-09-23.md)
 
 ## ua.korrespondent.net
+15:40 [Світоліна оцінила свою гру у чвертьфіналі Кубка Біллі Джин Кінг](https://ua.korrespondent.net/sport/tenis/4914610-svitolina-otsinyla-svoui-hru-u-chvertfinali-kubka-billi-dzhyn-kinh)<br>
+15:20 [Батьки Панеттьєрі не можуть поділити прикраси доньки](https://ua.korrespondent.net/lifestyle/4914590-batky-panettieri-ne-mozhut-podilyty-prykrasy-donky)<br>
+14:37 [Денисенко розповіла про приліт ракети біля свого будинку](https://ua.korrespondent.net/lifestyle/4914577-denysenko-rozpovila-pro-prylit-rakety-bilia-svoho-budynku)<br>
+13:18 [Українські аграрії втрачають мільярди через проблеми з логістикою](https://ua.korrespondent.net/business/financial/4914549-ukrainski-ahrarii-vtrachauit-miliardy-cherez-problemy-z-lohistykoui)<br>
+12:51 [У Казахстані дев'ять військових загинули під час навчань на Каспії](https://ua.korrespondent.net/world/4914541-u-kazakhstani-deviat-viiskovykh-zahynuly-pid-chas-navchan-na-kaspii)<br>
+12:28 [Названо обсяг агроекспорту України у вересні](https://ua.korrespondent.net/business/economics/4914531-nazvano-obsiah-ahroeksportu-ukrainy-u-veresni)<br>
 11:57 [У полоні перебувають іноземці з 55 країн, які воювали за Росію](https://ua.korrespondent.net/ukraine/4914509-u-poloni-perebuvauit-inozemtsi-z-55-krain-yaki-vouivaly-za-rosiui)<br>
 11:57 [Сирському призначили нового заступника](https://ua.korrespondent.net/ukraine/4914514-syrskomu-pryznachyly-novoho-zastupnyka)<br>
 11:24 [Долар сягнув психологічної межі в обмінних пунктах](https://ua.korrespondent.net/business/financial/4914502-dolar-siahnuv-psykholohichnoi-mezhi-v-obminnykh-punktakh)<br>
@@ -44,6 +50,17 @@ Previous day: [2026-09-23](./data/2026-09-23.md)
 07:06 [El Madrid debuta con título y sin Nick Smith](https://as.com/baloncesto/euroliga/el-madrid-debuta-con-titulo-y-sin-nick-smith-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:32 [K. O. técnico](https://www.elperiodico.com/es/opinion/20260924/k-o-tecnico-libros-articulo-juan-tallon-134640594)<br>
+15:30 [La Seguridad Social deniega la incapacidad permanente a un profesor de autoescuela que perdió casi toda la visión de un ojo pero gana en los tribunales: "No era suficiente"](https://www.elperiodico.com/es/economia/20260924/seguridad-social-deniega-incapacidad-permanente-profesor-autoescuela-perdio-vision-ojo-dv-134604884)<br>
+15:30 [Denegada la incapacidad permanente a una auxiliar de enfermería de 37 años con esclerosis múltiple, depresión y migrañas: la justicia le da la razón](https://www.elperiodico.com/es/sucesos/20260924/denegada-incapacidad-permanente-auxiliar-enfermeria-esclerosis-multiple-dv-134639603)<br>
+15:20 [Él está ahí](https://www.elperiodico.com/es/opinion/20260924/escritores-marcos-ordonez-articulo-josep-maria-fonalleras-134600513)<br>
+15:12 [La persona que encontraron muerta en Cabrera d'Anoia era un conocido médico homeópata y profesor universitario](https://www.elperiodico.com/es/videos/sociedad/persona-encontraron-muerta-cabrera-danoia-video/134639839.shtml)<br>
+15:00 [Con el aumento de casos de COVID, ¿a qué velocidad y distancia viajan las gotas de un estornudo?](https://www.elperiodico.com/es/salud/20260924/aumento-casos-covid-velocidad-distancia-gotas-estornudo-134639459)<br>
+14:59 [Catalunya vive un repunte de covid: los contagios crecen un 52% la última semana](https://www.elperiodico.com/es/videos/sociedad/catalunya-vive-repunte-covid-contagios-crecen-52-ultima-semana-video/134639307.shtml)<br>
+14:18 [Uno de los pueblos más bonitos de España ofrece casa y comida gratis a cambio de trabajar solo tres horas al día](https://www.elperiodico.com/es/economia/20260924/vivir-comer-gratis-pueblo-bonito-espana-trabajo-jardin-naturaleza-intercambio-cultural-dv-et-134624667)<br>
+13:41 [El corazón de un paciente con cáncer puede necesitar vigilancia hasta 20 años después de superar la enfermedad: "El grupo más sensible son niños y adolescentes"](https://www.elperiodico.com/es/sanidad/20260924/corazon-paciente-cancer-necesitar-vigilancia-anos-despues-enfermedad-ninos-adolescentes-134632854)<br>
+12:42 [Catalunya vive un repunte de covid: los contagios crecen el 167% desde principios de septiembre](https://www.elperiodico.com/es/sanidad/20260924/cataluna-repunte-covid-casos-gripe-134627759)<br>
+12:35 [Arrancan las obras de una antigua fábrica de Sabadell para convertirla en un nuevo campus de la UAB en 2028](https://www.elperiodico.com/es/barcelona/20260924/arrancan-obras-antigua-fabrica-sabadell-campus-uab-medicina-enfermeria-134630779)<br>
 12:01 [Una última escapada para prolongar el verano en el Caribe mexicano](https://www.elperiodico.com/es/sociedad/20260924/ultima-escapada-prolongar-verano-caribe-bc-134629744)<br>
 12:01 [¿Por qué cada vez más niños tienen miopía y cómo se puede frenar su progresión?](https://www.elperiodico.com/es/salud/20260924/vez-ninos-miopia-frenar-progresion-134629705)<br>
 12:00 [Hernán Mora, albañil que llegó a tener 19 trabajadores: "No tenemos profesionales para dar lo que nosotros exigimos"](https://www.elperiodico.com/es/economia/20260924/hernan-mora-albanil-19-trabajadores-no-hay-profesionales-dv-et-134421999)<br>
@@ -53,6 +70,7 @@ Previous day: [2026-09-23](./data/2026-09-23.md)
 11:47 [La rocambolesca historia de amor de Gregg Popovich (77 años): se casa con la exmujer del asistente con el que conquistó cinco anillos de la NBA](https://www.elperiodico.com/es/deportes/20260924/rocambolesca-historia-amor-gregg-popovich-134627525)<br>
 11:23 [Omella subraya en su última Mercè que la "grandeza" de Barcelona no se mide por su "prestigio" sino por el trato a sus habitantes](https://www.elperiodico.com/es/barcelona/20260924/omella-subraya-ultima-merce-grandeza-134622499)<br>
 11:17 [¿Viajar es solo una actividad económica?](https://www.elperiodico.com/es/opinion/20260924/viajar-actividad-economica-134627061)<br>
+11:10 [Los médicos denuncian que "muchos pacientes" no son derivados a rehabilitación cardíaca tras un infarto "pese a ser clave" para recuperarse](https://www.elperiodico.com/es/sanidad/20260924/medicos-denuncian-pacientes-son-derivados-rehabilitacion-infarto-clave-134624354)<br>
 11:02 [Catalunya da marcha atrás y recuperará las lecturas obligatorias en Bachillerato el curso que viene](https://www.elperiodico.com/es/sociedad/20260924/catalunya-da-marcha-recuperara-lecturas-134624332)<br>
 10:40 [¿Estamos alcanzando el poder de crear materia?](https://www.elperiodico.com/es/tendencias21/20260924/alcanzando-crear-materia-134626103)<br>
 10:39 [Toshiba Canvio Basics: el disco duro que pone orden al nuevo curso](https://www.elperiodico.com/es/tecnologia/20260924/toshiba-canvio-basics-disco-duro-134624895)<br>
@@ -67,8 +85,10 @@ Previous day: [2026-09-23](./data/2026-09-23.md)
 07:09 [Begoña (62 años) fue desahuciada y vive en una caravana de 6 metros cuadrados sin ducha: "Yo este estilo de vida no lo he escogido ni lo quiero"](https://www.elperiodico.com/es/economia/20260924/precio-vivienda-vivir-caravana-sin-ducha-desahucio-islas-baleares-begona-dv-et-134565145)<br>
 07:05 [Manuel Vilas: "No hay tanto una crisis del sistema educativo como de no querer saber por qué somos mortales"](https://www.elperiodico.com/es/ocio-y-cultura/20260924/manuel-vilas-zeta-reedicion-primeros-relatos-134619903)<br>
 07:01 [La mejor campaña de márqueting](https://www.elperiodico.com/es/tele/20260924/mejor-campana-marqueting-134608663)<br>
+06:45 ["Lo único que conecta a mi madre con el exterior es la tele"](https://www.elperiodico.com/es/entre-todos/participacion/conecta-madre-exterior-tele-personas-mayores-carta-lector-esther-jornet-134567788)<br>
 06:10 [El 69% de los consumidores españoles apuesta por mantener la supervisión humana en el uso de agentes de IA](https://www.elperiodico.com/es/comunicacion-empresarial/20260924/69-consumidores-espanoles-apuesta-mantener-bc-134618923)<br>
 06:01 [Entidades, Govern y usuarios ponen Girona como ejemplo de trabajo compartido en salud mental](https://www.elperiodico.com/es/ser-feliz/20260924/entidades-govern-usuarios-ponen-girona-134588449)<br>
 06:01 [El viejo Palau cruza otra vez los dedos por el baloncesto: más presupuesto y un equipo por estructurar después de tres años de sequía](https://www.elperiodico.com/es/deportes/20260924/viejo-palau-cruza-vez-dedos-134607478)<br>
+06:00 ["Todo son quejas y nadie hace nada"](https://www.elperiodico.com/es/entre-todos/participacion/quejas-nadie-hace-nada-carta-lector-ricard-llerins-134561146)<br>
 05:00 [Conjuros finlandeses para embrujar Madrid: un viaje al lado más salvaje y poético del arte nórdico](https://www.elperiodico.com/es/ocio-y-cultura/20260924/conjuros-finlandeses-embrujar-madrid-viaje-lado-salvaje-poetico-arte-nordico-134617970)<br>
 04:50 [Los 'mochufas'](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260924/mochufas-134264279)<br>
