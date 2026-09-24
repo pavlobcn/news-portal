@@ -1,7 +1,15 @@
-# News for 2026-09-24 05:35
+# News for 2026-09-24 07:13
 
 Previous day: [2026-09-23](./data/2026-09-23.md)
 
+## ua.korrespondent.net
+06:17 [Генштаб оцінив втрати Росії станом на 24 вересня](https://ua.korrespondent.net/ukraine/4914402-henshtab-otsinyv-vtraty-rosii-stanom-na-24-veresnia)<br>
+
 ## www.elperiodico.com
+07:09 [Begoña (62 años) fue desahuciada y vive en una caravana de 6 metros cuadrados sin ducha: "Yo este estilo de vida no lo he escogido ni lo quiero"](https://www.elperiodico.com/es/economia/20260924/precio-vivienda-vivir-caravana-sin-ducha-desahucio-islas-baleares-begona-dv-et-134565145)<br>
+07:05 [Manuel Vilas: "No hay tanto una crisis del sistema educativo como de no querer saber por qué somos mortales"](https://www.elperiodico.com/es/ocio-y-cultura/20260924/manuel-vilas-zeta-reedicion-primeros-relatos-134619903)<br>
+07:01 [La mejor campaña de márqueting](https://www.elperiodico.com/es/tele/20260924/mejor-campana-marqueting-134608663)<br>
+06:01 [Entidades, Govern y usuarios ponen Girona como ejemplo de trabajo compartido en salud mental](https://www.elperiodico.com/es/ser-feliz/20260924/entidades-govern-usuarios-ponen-girona-134588449)<br>
+06:01 [El viejo Palau cruza otra vez los dedos por el baloncesto: más presupuesto y un equipo por estructurar después de tres años de sequía](https://www.elperiodico.com/es/deportes/20260924/viejo-palau-cruza-vez-dedos-134607478)<br>
 05:00 [Conjuros finlandeses para embrujar Madrid: un viaje al lado más salvaje y poético del arte nórdico](https://www.elperiodico.com/es/ocio-y-cultura/20260924/conjuros-finlandeses-embrujar-madrid-viaje-lado-salvaje-poetico-arte-nordico-134617970)<br>
 04:50 [Los 'mochufas'](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260924/mochufas-134264279)<br>
