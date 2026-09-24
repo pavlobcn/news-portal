@@ -1,8 +1,11 @@
-# News for 2026-09-24 15:50
+# News for 2026-09-24 16:59
 
 Previous day: [2026-09-23](./data/2026-09-23.md)
 
 ## ua.korrespondent.net
+16:48 [Хакери могли розкрити агентів ФБР, які займаються Китаєм і Росією](https://ua.korrespondent.net/world/4914633-khakery-mohly-rozkryty-ahentiv-fbr-yaki-zaimauitsia-kytaiem-i-rosiieui)<br>
+16:46 [В Україні уповільнилась промислова інфляція](https://ua.korrespondent.net/business/economics/4914638-v-ukraini-upovilnylas-promyslova-infliatsiia)<br>
+16:28 [Рекордне Ель-Ніньйо загрожує життям сотень тисяч людей](https://ua.korrespondent.net/tech/science/4914619-rekordne-el-ninio-zahrozhuie-zhyttiam-soten-tysiach-luidei)<br>
 15:40 [Світоліна оцінила свою гру у чвертьфіналі Кубка Біллі Джин Кінг](https://ua.korrespondent.net/sport/tenis/4914610-svitolina-otsinyla-svoui-hru-u-chvertfinali-kubka-billi-dzhyn-kinh)<br>
 15:20 [Батьки Панеттьєрі не можуть поділити прикраси доньки](https://ua.korrespondent.net/lifestyle/4914590-batky-panettieri-ne-mozhut-podilyty-prykrasy-donky)<br>
 14:37 [Денисенко розповіла про приліт ракети біля свого будинку](https://ua.korrespondent.net/lifestyle/4914577-denysenko-rozpovila-pro-prylit-rakety-bilia-svoho-budynku)<br>
@@ -50,6 +53,11 @@ Previous day: [2026-09-23](./data/2026-09-23.md)
 07:06 [El Madrid debuta con título y sin Nick Smith](https://as.com/baloncesto/euroliga/el-madrid-debuta-con-titulo-y-sin-nick-smith-f202609-n/)<br>
 
 ## www.elperiodico.com
+16:55 [Marion Cotillard en San Sebastián: "Me da miedo emocionarme con un actor hecho con IA, de momento parecen patatas"](https://www.elperiodico.com/es/ocio-y-cultura/20260924/marion-cotillard-san-sebastian-da-134643806)<br>
+16:22 [En imágenes | La Diada Castellera de la Mercè 2026 en la Plaça Sant Jaume](https://www.elperiodico.com/es/fotos/barcelona/imagenes-diada-castellera-merce-2026-134643066)<br>
+16:00 [Hallan nuevas pruebas que podrían confirmar la ubicación de la tumba de Nefertiti cerca del sarcófago de Tutankamón](https://www.elperiodico.com/es/sociedad/20260924/nefertiti-antiguo-egipto-tutankamon-arqueologos-nuevas-pruebas-dv-134474054)<br>
+15:51 [Schnabel se irá al FMI y deja otro puesto libre en la pugna por la cúpula del BCE](https://www.elperiodico.com/es/economia/20260924/schnabel-cambiara-bce-fmi-suma-134641568)<br>
+15:50 ["Es un auténtico acontecimiento para las salas": 'La bola negra' llega a los cines convertida ya en un fenómeno con preventas récord y sesiones ampliadas](https://www.elperiodico.com/es/ocio-y-cultura/20260924/bola-negra-javis-salas-estreno-entradas-cines-fenomeno-134605818)<br>
 15:32 [K. O. técnico](https://www.elperiodico.com/es/opinion/20260924/k-o-tecnico-libros-articulo-juan-tallon-134640594)<br>
 15:30 [La Seguridad Social deniega la incapacidad permanente a un profesor de autoescuela que perdió casi toda la visión de un ojo pero gana en los tribunales: "No era suficiente"](https://www.elperiodico.com/es/economia/20260924/seguridad-social-deniega-incapacidad-permanente-profesor-autoescuela-perdio-vision-ojo-dv-134604884)<br>
 15:30 [Denegada la incapacidad permanente a una auxiliar de enfermería de 37 años con esclerosis múltiple, depresión y migrañas: la justicia le da la razón](https://www.elperiodico.com/es/sucesos/20260924/denegada-incapacidad-permanente-auxiliar-enfermeria-esclerosis-multiple-dv-134639603)<br>
@@ -59,6 +67,7 @@ Previous day: [2026-09-23](./data/2026-09-23.md)
 14:59 [Catalunya vive un repunte de covid: los contagios crecen un 52% la última semana](https://www.elperiodico.com/es/videos/sociedad/catalunya-vive-repunte-covid-contagios-crecen-52-ultima-semana-video/134639307.shtml)<br>
 14:18 [Uno de los pueblos más bonitos de España ofrece casa y comida gratis a cambio de trabajar solo tres horas al día](https://www.elperiodico.com/es/economia/20260924/vivir-comer-gratis-pueblo-bonito-espana-trabajo-jardin-naturaleza-intercambio-cultural-dv-et-134624667)<br>
 13:41 [El corazón de un paciente con cáncer puede necesitar vigilancia hasta 20 años después de superar la enfermedad: "El grupo más sensible son niños y adolescentes"](https://www.elperiodico.com/es/sanidad/20260924/corazon-paciente-cancer-necesitar-vigilancia-anos-despues-enfermedad-ninos-adolescentes-134632854)<br>
+13:19 [Woody Allen ya prepara su rodaje en Madrid: el Barrio de las Letras, primera parada para su nueva película](https://www.elperiodico.com/es/ocio-y-cultura/20260924/woody-allen-nueva-pelicula-madrid-barrio-letras-134633453)<br>
 12:42 [Catalunya vive un repunte de covid: los contagios crecen el 167% desde principios de septiembre](https://www.elperiodico.com/es/sanidad/20260924/cataluna-repunte-covid-casos-gripe-134627759)<br>
 12:35 [Arrancan las obras de una antigua fábrica de Sabadell para convertirla en un nuevo campus de la UAB en 2028](https://www.elperiodico.com/es/barcelona/20260924/arrancan-obras-antigua-fabrica-sabadell-campus-uab-medicina-enfermeria-134630779)<br>
 12:01 [Una última escapada para prolongar el verano en el Caribe mexicano](https://www.elperiodico.com/es/sociedad/20260924/ultima-escapada-prolongar-verano-caribe-bc-134629744)<br>

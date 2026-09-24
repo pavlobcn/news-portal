@@ -1,5 +1,284 @@
 [
   {
+    "title": "Marion Cotillard en San Sebastián: \"Me da miedo emocionarme con un actor hecho con IA, de momento parecen patatas\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260924/marion-cotillard-san-sebastian-da-134643806",
+    "pubDate": "2026-09-24 16:55:00",
+    "category": "",
+    "description": "<h2>La actriz francesa Marion Cotillard presenta su nueva película, dirigida por Nicole Garcia, sobre la violencia de grupos armados de la izquierda anticapitalista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Формула-1: перший день Гран-прі Азербайджану",
+    "link": "https://ua.korrespondent.net/sport/formula/4914543-formula-1-pershyi-den-hran-pri-azerbaidzhanu",
+    "pubDate": "2026-09-24 16:54:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573449.jpg\">На першій практиці в Баку Джордж Расселл з Mercedes показав найкращий час, випередивши водія Red Bull Макса Ферстаппена на 0,4 секунди. На другій практиці обидва найшвидші водії були з команди Mercedes.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Києві виявили нездетоновану балістичну ракету",
+    "link": "https://ua.korrespondent.net/city/kiev/4914641-u-kyievi-vyiavyly-nezdetonovanu-balistychnu-raketu",
+    "pubDate": "2026-09-24 16:53:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573453.jpeg\">Вибухотехніки поліції Києва перевели у безпечний стан нездетоновану бойову частину балістичної ракети, що впала у Дарницькому районі під час нічної атаки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los Mossos investigan la muerte violenta de un hombre en Terrassa",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/mossos-investigan-muerte-violenta-hombre/134644010.shtml",
+    "pubDate": "2026-09-24 16:50:55",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Хакери могли розкрити агентів ФБР, які займаються Китаєм і Росією",
+    "link": "https://ua.korrespondent.net/world/4914633-khakery-mohly-rozkryty-ahentiv-fbr-yaki-zaimauitsia-kytaiem-i-rosiieui",
+    "pubDate": "2026-09-24 16:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573432.jpg\">Хакерська група ShinyHunters могла отримати не лише персональні дані співробітників ФБР, а й інформацію про їхні службові завдання, зокрема роботу проти Китаю, Росії та Ірану.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні уповільнилась промислова інфляція",
+    "link": "https://ua.korrespondent.net/business/economics/4914638-v-ukraini-upovilnylas-promyslova-infliatsiia",
+    "pubDate": "2026-09-24 16:46:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573452.jpg\">В серпні зростання цін передусім було зумовлене подорожчанням продукції у сфері постачання електроенергії, газу, пари та кондиційованого повітря.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Urtasun llama a Ayuso “psicópata social”: “Tiene un desprecio absoluto por la gente mayor”",
+    "link": "https://www.elperiodico.com/es/videos/politica/urtasun-llama-ayuso-psicopata-desahucio-maricarmen/134643677.shtml",
+    "pubDate": "2026-09-24 16:38:39",
+    "category": "",
+    "description": "El ministro de Cultura afirma que la presidenta madrileña “es la principal responsable” del desahucio de Maricarmen",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Бухгалтерка заводу на Луганщині перерахувала РФ понад 1,5 млн грн - СБУ",
+    "link": "https://ua.korrespondent.net/ukraine/4914636-bukhhalterka-zavodu-na-luhanschyni-pererakhuvala-rf-ponad-15-mln-hrn-sbu",
+    "pubDate": "2026-09-24 16:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573433.jpg\">СБУ затримала жінку, яку з 2023 року розшукували за підозрою у фінансуванні дій, спрямованих на зміну меж території України.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У МКС визначили, хто виконуватиме обов’язки прокурора після відставки Хана",
+    "link": "https://ua.korrespondent.net/world/4914631-u-mks-vyznachyly-khto-vykonuvatyme-oboviazky-prokurora-pislia-vidstavky-khana",
+    "pubDate": "2026-09-24 16:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573431.jpg\">Маме Мандіай Ньянг та Назхат Шамім Хан змінюватимуть один одного на посаді кожні шість місяців.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Рекордне Ель-Ніньйо загрожує життям сотень тисяч людей",
+    "link": "https://ua.korrespondent.net/tech/science/4914619-rekordne-el-ninio-zahrozhuie-zhyttiam-soten-tysiach-luidei",
+    "pubDate": "2026-09-24 16:28:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573416.jpg\">Феномен Ель-Ніньйо спровокує рекордну спеку, яка впродовж пів року призведе до смерті понад 450 тисяч людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La reina Sofía asume el protagonismo por los 250 años de EEUU mientras sigue sin llegar la gran cita de Trump y Felipe VI",
+    "link": "https://www.elperiodico.com/es/videos/internacional/reina-sofia-asume-protagonismo-250/134642781.shtml",
+    "pubDate": "2026-09-24 16:22:49",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "En imágenes | La Diada Castellera de la Mercè 2026 en la Plaça Sant Jaume",
+    "link": "https://www.elperiodico.com/es/fotos/barcelona/imagenes-diada-castellera-merce-2026-134643066",
+    "pubDate": "2026-09-24 16:22:44",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un Fiat Grande Panda para cada conducor, de eléctrico a gasolina, a partir de 18.000 euros",
+    "link": "https://www.elperiodico.com/es/motor/20260924/fiat-grande-panda-electrico-hibrido-gasolina-134603471",
+    "pubDate": "2026-09-24 16:22:00",
+    "category": "",
+    "description": "<h2>El SUV del segmento B de la marca italiana añade una tercera opción con etiqueta C que completa los dos motores con etiqueta Cero y Eco ya presentes desde su presentación.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Після помилування француза Париж заговорив про нормалізацію з Баку",
+    "link": "https://ua.korrespondent.net/world/4914627-pislia-pomyluvannia-frantsuza-paryzh-zahovoryv-pro-normalizatsiui-z-baku",
+    "pubDate": "2026-09-24 16:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573430.jpg\">Після помилування Азербайджаном французького громадянина Мартіна Раяна Париж заявив про початок «нормалізації» відносин із Баку.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Zapatero rechaza que la joyería Yanes pueda tasar las joyas encontradas en su despacho por \"aparente falta de imparcialidad\"",
+    "link": "https://www.elperiodico.com/es/politica/20260924/zapatero-rechaza-joyeria-yanes-imparcial-tasacion-joyas-134642755",
+    "pubDate": "2026-09-24 16:18:18",
+    "category": "",
+    "description": "<h2>El juez Calama encargó una nueva pericial a esta firma, \"de<strong> </strong>larga tradición en la alta joyería española\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Russell y Mercedes mandan en Bakú, con nuevo drama de Alonso",
+    "link": "https://www.elperiodico.com/es/deportes/20260924/russell-mercedes-mandan-baku-nuevo-134641057",
+    "pubDate": "2026-09-24 16:11:37",
+    "category": "",
+    "description": "<h2>George Russell cierra la primera jornada del GP de Azerbaiyán como el más rápido, a medio segundo de su compañero y líder Kimi Antonelli. Alonso penalizará en parrilla tras cambiar motor y no ha podido completar los Libres 2 en Bakú por una fuga de aceite en su Aston Martin. Carlos Sainz, 17º con Williams</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Інцидент із двома потягами в Польщі: поліція встановила винуватця",
+    "link": "https://ua.korrespondent.net/world/4914622-intsydent-iz-dvoma-potiahamy-v-polschi-politsiia-vstanovyla-vynuvattsia",
+    "pubDate": "2026-09-24 16:10:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573417.jpg\">12-річний хлопчик зіштовхнув із насипу бетонні елементи на залізничні колії в польській Єдланці, після чого на них наїхали і зазнали пошкоджень два вантажні потяги.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Смерть Сосєдова: Фагот зробив лаконічну заяву",
+    "link": "https://ua.korrespondent.net/lifestyle/4914608-smert-sosiedova-fahot-zrobyv-lakonichnu-zaiavu",
+    "pubDate": "2026-09-24 16:09:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573393.jpg\">Фагот дав жорстку трислівну оцінку смерті путініста Сергія Сосєдова, який збагатився в Україні.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Ф’юрі і Джошуа вийдуть на ринг у встановлену дату",
+    "link": "https://ua.korrespondent.net/sport/boks/4914620-fuiri-i-dzhoshua-vyidut-na-rynh-u-vstanovlenu-datu",
+    "pubDate": "2026-09-24 16:07:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573394.jpg\">Стала відома дата проведення поєдинку британських боксерів, які віддавна прагнули зустрітися на рингу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Llegar a fin de mes",
+    "link": "https://www.elperiodico.com/es/opinion/20260924/llegar-mes-comercio-articulo-jaume-collboni-134641570",
+    "pubDate": "2026-09-24 16:05:38",
+    "category": "",
+    "description": "<h2>La red de comercios asequibles debe poder contar también con los comerciantes que ya trabajan en los barrios</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260919/collboni-anuncia-red-comercios-asequibles-134473141\">Barcelona prepara una red de comercios asequibles inspirada en los supermercados públicos de Nueva York</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "ЄС висунув умову Україні для продовження виплат",
+    "link": "https://ua.korrespondent.net/world/4914617-yes-vysunuv-umovu-ukraini-dlia-prodovzhennia-vyplat",
+    "pubDate": "2026-09-24 16:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573415.jpg\">Україна повинна продовжити необхідні реформи, незважаючи на російську агресію, вважають в Єврокомісії.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El reloj de Lamine Yamal en su vuelta a la selección española: de oro rosa, diseño extraplano y 240.000 euros",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/reloj-lamine-yamal-vuelta-seleccion/134641922.shtml",
+    "pubDate": "2026-09-24 16:01:35",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Усманов і Фрідман без санкцій: на кого Україна пропонує їх \"обміняти\"",
+    "link": "https://ua.korrespondent.net/articles/4914621-usmanov-i-fridman-bez-sanktsii-na-koho-ukraina-proponuie-yikh-obminiaty",
+    "pubDate": "2026-09-24 16:00:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573418.png\">ЄС тримає санкційний фронт проти РФ, зробивши виняток для Усманова й Фрідмана. Для України це небезпечний сигнал перед можливими переговорами: Москва отримує аргумент, що санкції можна послабити без згортання війни.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Hallan nuevas pruebas que podrían confirmar la ubicación de la tumba de Nefertiti cerca del sarcófago de Tutankamón",
+    "link": "https://www.elperiodico.com/es/sociedad/20260924/nefertiti-antiguo-egipto-tutankamon-arqueologos-nuevas-pruebas-dv-134474054",
+    "pubDate": "2026-09-24 16:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Aunque fue una de las mujeres más famosas del antiguo Egipto, su cuerpo nunca ha sido hallado y el tesoro con el que supuestamente fue enterrada también es un gran misterio aún por descubrir</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El sondeo de EL PERIÓDICO marca la Mercè: Collboni se ve como único líder posible y la oposición subraya que su gestión suspende",
+    "link": "https://www.elperiodico.com/es/barcelona/20260924/sondeo-periodico-marca-merce-collboni-134640740",
+    "pubDate": "2026-09-24 15:58:02",
+    "category": "",
+    "description": "<h2>El PSC achaca el suspenso al “pesimismo internacional”, los Comuns vislumbran una “mayoría progresista” y Alamany augura un gran resultado de ERC por su gestión</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260924/encuesta-elecciones-municipales-barcelona-sondeo-134593579\">Encuesta elecciones Barcelona: El PSC ganaría las municipales ante una oposición fragmentada</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260924/sondeo-barcelona-gestion-ayuntamiento-gobierno-collboni-134550471\">Sondeo GESOP: Los barceloneses suspenden la gestión del ayuntamiento y el 42% cree que Barcelona irá a peor</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260924/omella-subraya-ultima-merce-grandeza-134622499\">Omella subraya en su última Mercè que la \"grandeza\" de Barcelona no se mide por su \"prestigio\" sino por el trato a sus habitantes</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Бельгія переглядає відносини зі США через політику Трампа - FT",
+    "link": "https://ua.korrespondent.net/world/4914615-belhiia-perehliadaie-vidnosyny-zi-ssha-cherez-polityku-trampa-FT",
+    "pubDate": "2026-09-24 15:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573414.jpg\">У бельгійському МЗС вважають, що зміни політики США можуть поставити під загрозу низку важливих інтересів Бельгії та Євросоюзу.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump ignora al juez y mantiene el veto a CNN y Político en la Casa Blanca",
+    "link": "https://www.elperiodico.com/es/internacional/20260924/trump-ignora-juez-mantiene-veto-cnn-politico-casa-blanca-134641699",
+    "pubDate": "2026-09-24 15:55:10",
+    "category": "",
+    "description": "<h2>\"Un agente del servicio secreto indicó que el periodista no contaba con la autorización necesaria para entrar\", denuncian los afectados</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Одесі затримали підозрюваного у вбивстві 16-річного хлопця",
+    "link": "https://ua.korrespondent.net/city/odessa/4914613-v-odesi-zatrymaly-pidozruivanoho-u-vbyvstvi-16-richnoho-khloptsia",
+    "pubDate": "2026-09-24 15:53:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573406.jpg\">У Пересипському районі Одеси розслідують вбивство 16-річного підлітка. Поліція менш ніж за добу встановила та затримала 19-річного чоловіка, якому вже повідомили про підозру.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Schnabel se irá al FMI y deja otro puesto libre en la pugna por la cúpula del BCE",
+    "link": "https://www.elperiodico.com/es/economia/20260924/schnabel-cambiara-bce-fmi-suma-134641568",
+    "pubDate": "2026-09-24 15:51:02",
+    "category": "",
+    "description": "<h2>La salida de la alemana, que se producirá el 4 enero, se suma a la de Philip Lane en mayo de 2027 y Lagarde, en principio, en octubre del año que viene</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Донька Курта Кобейна знову з’явилася на червоній доріжці",
+    "link": "https://ua.korrespondent.net/lifestyle/4914601-donka-kurta-kobeina-znovu-ziavylasia-na-chervonii-dorizhtsi",
+    "pubDate": "2026-09-24 15:51:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573360.jpg\">Після тривалої перерви тривалістю у вісім років Френсіс Бін Кобейн, спадкоємиця Курта Кобейна та Кортні Лав, знову позувала фотографам на червоній доріжці.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "\"Es un auténtico acontecimiento para las salas\": 'La bola negra' llega a los cines convertida ya en un fenómeno con preventas récord y sesiones ampliadas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260924/bola-negra-javis-salas-estreno-entradas-cines-fenomeno-134605818",
+    "pubDate": "2026-09-24 15:50:36",
+    "category": "",
+    "description": "<h2 class=\"item\">La expectación por el filme de los Javis, que empezó a ser latente después de su gran ovación en Cannes en mayo, se ha desbordado tras ser señalada como una firme candidata en los Oscar y la demanda de entradas alcanza máximos históricos en toda España</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260922/bola-negra-javier-calvo-javier-134563312\">Crítica de ‘La bola negra’, de Javier Calvo y Javier Ambrossi: osada en sus pretensiones e inapelable en sus logros</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La DGT multará con 200 euros a los motoristas que vayan en chanclas y a los usuarios de patinete sin casco desde el 1 de octubre",
     "link": "https://www.elperiodico.com/es/videos/sociedad/dgt-multara-200-euros-motoristas/134641414.shtml",
     "pubDate": "2026-09-24 15:49:17",
@@ -511,6 +790,15 @@
     "description": "<h2 class=\"item\">El precio medio de los carburantes en toda España roza los 2 euros por litro y se acercan a los 2,1 que se alcanzó en el verano de 2022</h2><h2 class=\"item\">Repsol y Moeve avivan la guerra de descuentos en gasolineras en plena escalada de los combustibles mientras Moncloa estudia prorrogar o ampliar medidas contra el impacto de las subidas</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 80
+  },
+  {
+    "title": "Woody Allen ya prepara su rodaje en Madrid: el Barrio de las Letras, primera parada para su nueva película",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260924/woody-allen-nueva-pelicula-madrid-barrio-letras-134633453",
+    "pubDate": "2026-09-24 13:19:08",
+    "category": "",
+    "description": "<h2>El cineasta estadounidense se encuentra en la capital visitando posibles localizaciones de su próximo filme, que comenzará a grabar el próximo 5 de octubre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El Gobierno negocia con Junts sacar adelante el decreto de vivienda tras el desahucio de Maricarmen",
