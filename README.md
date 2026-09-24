@@ -1,14 +1,49 @@
-# News for 2026-09-24 07:13
+# News for 2026-09-24 10:46
 
 Previous day: [2026-09-23](./data/2026-09-23.md)
 
 ## ua.korrespondent.net
+10:37 [Звільнення з військової служби: Генштаб упорядкував процедуру](https://ua.korrespondent.net/ukraine/4914475-zvilnennia-z-viiskovoi-sluzhby-henshtab-uporiadkuvav-protseduru)<br>
+10:17 [Зелені санітари: кімнатні рослини, що реально фільтрують повітря в оселі](https://ua.korrespondent.net/articles/4914466-zeleni-sanitary-kimnatni-roslyny-scho-realno-filtruuit-povitria-v-oseli)<br>
+10:07 [Нова потужна магнітна буря атакує Землю](https://ua.korrespondent.net/tech/medicine/4914453-nova-potuzhna-mahnitna-buria-atakuie-zemlui)<br>
+10:06 [Безпілотники атакували дві нафтобази в Росії - ЗМІ](https://ua.korrespondent.net/world/russia/4914468-bezpilotnyky-atakuvaly-dvi-naftobazy-v-rosii-zmi)<br>
+09:57 [Російський "кріт" готував ракетний удар по підрозділу ЗСУ](https://ua.korrespondent.net/ukraine/4914462-rosiiskyi-krit-hotuvav-raketnyi-udar-po-pidrozdilu-zsu)<br>
+09:53 [Армія США показала мобільний лазер для боротьби з дронами](https://ua.korrespondent.net/world/4914460-armiia-ssha-pokazala-mobilnyi-lazer-dlia-borotby-z-dronamy)<br>
+09:44 [Штучний інтелект уперше самостійно зламав урядові системи](https://ua.korrespondent.net/world/4914458-shtuchnyi-intelekt-upershe-samostiino-zlamav-uriadovi-systemy)<br>
+09:33 [Відключення світла охопили 11 областей України](https://ua.korrespondent.net/ukraine/4914452-vidkluichennia-svitla-okhopyly-11-oblastei-ukrainy)<br>
+09:32 [Сеітаблаєв розкрив, якою Ада Роговцева є за лаштунками](https://ua.korrespondent.net/lifestyle/4914444-seitablaiev-rozkryv-yakoui-ada-rohovtseva-ye-za-lashtunkamy)<br>
+09:08 [Атака на Україну: дрони РФ кілька разів залітали у Молдову](https://ua.korrespondent.net/world/4914445-ataka-na-ukrainu-drony-rf-kilka-raziv-zalitaly-u-moldovu)<br>
+08:56 [У Румунії біля кордону з Україною впав дрон](https://ua.korrespondent.net/world/4914440-u-rumunii-bilia-kordonu-z-ukrainoui-vpav-dron)<br>
+07:52 [Дрони над Україною: Румунія підняла F-18, Польща - авіацію](https://ua.korrespondent.net/world/4914417-drony-nad-ukrainoui-rumuniia-pidniala-F-18-polscha-aviatsiui)<br>
+07:23 [Повітряні сили розповіли деталі нічної атаки РФ](https://ua.korrespondent.net/ukraine/4914410-povitriani-syly-rozpovily-detali-nichnoi-ataky-rf)<br>
 06:17 [Генштаб оцінив втрати Росії станом на 24 вересня](https://ua.korrespondent.net/ukraine/4914402-henshtab-otsinyv-vtraty-rosii-stanom-na-24-veresnia)<br>
 
+## as.com
+09:46 [Diez fichajes sonados de la Euroliga este verano](https://as.com/baloncesto/euroliga/diez-fichajes-sonados-de-la-euroliga-este-verano-f202609-n/)<br>
+07:28 [Tres amenazas para un Real Madrid muy diferente](https://as.com/baloncesto/videos/tres-amenazas-para-un-real-madrid-muy-diferente-f202609-v/)<br>
+07:15 [El ASVEL, del cielo a la tierra](https://as.com/baloncesto/euroliga/el-asvel-del-cielo-a-la-tierra-f202609-n/)<br>
+07:14 [Pablo Laso y un viejo enemigo](https://as.com/baloncesto/euroliga/pablo-laso-y-un-viejo-enemigo-f202609-n/)<br>
+07:13 [Barcelona - Efes: horario, TV, cómo y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/barcelona-efes-horario-tv-como-y-donde-ver-la-euroliga-2026-27-f202609-n/)<br>
+07:12 [Dubái - Real Madrid: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/dubai-real-madrid-horario-tv-y-donde-ver-la-euroliga-2026-27-f202609-n/)<br>
+07:10 [El Baskonia recibe al campeón ya sin Alex Len](https://as.com/baloncesto/euroliga/el-baskonia-recibe-al-campeon-ya-sin-alex-len-f202609-n/)<br>
+07:09 [Una Euroliga desatada](https://as.com/baloncesto/euroliga/una-euroliga-desatada-f202609-n/)<br>
+07:08 [“Nunca esperé que Pedro Martínez fuera al Madrid, en Valencia era un dios”](https://as.com/baloncesto/euroliga/nunca-espere-que-fuera-al-madrid-en-valencia-era-un-dios-f202609-n/)<br>
+07:06 [El Madrid debuta con título y sin Nick Smith](https://as.com/baloncesto/euroliga/el-madrid-debuta-con-titulo-y-sin-nick-smith-f202609-n/)<br>
+
 ## www.elperiodico.com
+10:40 [¿Estamos alcanzando el poder de crear materia?](https://www.elperiodico.com/es/tendencias21/20260924/alcanzando-crear-materia-134626103)<br>
+10:39 [Toshiba Canvio Basics: el disco duro que pone orden al nuevo curso](https://www.elperiodico.com/es/tecnologia/20260924/toshiba-canvio-basics-disco-duro-134624895)<br>
+10:31 [El periodista Piers Morgan anuncia que demandará al hermano de Diana y a la editorial de su libro por un pasaje "falso y difamatorio"](https://www.elperiodico.com/es/gente/20260924/piers-morgan-demanda-charles-spencer-libro-diana-canto-cisne-134624834)<br>
+10:10 [David, un español que vive en Noruega desata la polémica: "Aquí puedes ver a niños de 5 y 6 años yendo solos al colegio"](https://www.elperiodico.com/es/vida-y-estilo/20260924/david-espanol-noruega-ninos-solos-calle-colegio-dv-134604587)<br>
+09:39 [Trailer oficial de 'La bola negra' de los Javis](https://www.elperiodico.com/es/videos/ocio-y-cultura/trailer-oficial-bola-negra-javis/134623846.shtml)<br>
+08:55 [El castigo al mercado de bonos enfría a las Bolsas: el Ibex 35 cede los 19.600 puntos](https://www.elperiodico.com/es/economia/20260924/ventas-deuda-presionan-bolsas-ibex-134622455)<br>
+08:50 [La inesperada guerra por la herencia de Dolly Parton: su sobrino, su mánager y una orden de alejamiento](https://www.elperiodico.com/es/gente/20260924/guerra-herencia-dolly-parton-sobrino-manager-orden-alejamiento-134621638)<br>
+08:27 [Confirmado por la Generalitat: hoy 24 de septiembre es festivo oficial en cinco ciudades y media docena de pueblos de Catalunya](https://www.elperiodico.com/es/catalunya/20260924/24-septiembre-festivo-generalitat-la-merce-municipios-barcelona-dv-loc-134441544)<br>
+07:45 [Ni magnesio ni colágeno: este es el suplemento que retrasa el envejecimiento y acaba con la flacidez](https://www.elperiodico.com/es/shopping/20260924/nad-mejor-suplemento-efecto-antiedad-reafirmante-energia-cansacio-124934598)<br>
 07:09 [Begoña (62 años) fue desahuciada y vive en una caravana de 6 metros cuadrados sin ducha: "Yo este estilo de vida no lo he escogido ni lo quiero"](https://www.elperiodico.com/es/economia/20260924/precio-vivienda-vivir-caravana-sin-ducha-desahucio-islas-baleares-begona-dv-et-134565145)<br>
 07:05 [Manuel Vilas: "No hay tanto una crisis del sistema educativo como de no querer saber por qué somos mortales"](https://www.elperiodico.com/es/ocio-y-cultura/20260924/manuel-vilas-zeta-reedicion-primeros-relatos-134619903)<br>
 07:01 [La mejor campaña de márqueting](https://www.elperiodico.com/es/tele/20260924/mejor-campana-marqueting-134608663)<br>
+06:10 [El 69% de los consumidores españoles apuesta por mantener la supervisión humana en el uso de agentes de IA](https://www.elperiodico.com/es/comunicacion-empresarial/20260924/69-consumidores-espanoles-apuesta-mantener-bc-134618923)<br>
 06:01 [Entidades, Govern y usuarios ponen Girona como ejemplo de trabajo compartido en salud mental](https://www.elperiodico.com/es/ser-feliz/20260924/entidades-govern-usuarios-ponen-girona-134588449)<br>
 06:01 [El viejo Palau cruza otra vez los dedos por el baloncesto: más presupuesto y un equipo por estructurar después de tres años de sequía](https://www.elperiodico.com/es/deportes/20260924/viejo-palau-cruza-vez-dedos-134607478)<br>
 05:00 [Conjuros finlandeses para embrujar Madrid: un viaje al lado más salvaje y poético del arte nórdico](https://www.elperiodico.com/es/ocio-y-cultura/20260924/conjuros-finlandeses-embrujar-madrid-viaje-lado-salvaje-poetico-arte-nordico-134617970)<br>
