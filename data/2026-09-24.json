@@ -1,0 +1,56 @@
+[
+  {
+    "title": "РФ атакувала Одесу: що відомо",
+    "link": "https://ua.korrespondent.net/city/odessa/4914390-rf-atakuvala-odesu-scho-vidomo",
+    "pubDate": "2026-09-24 01:45:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572788.jpg\">У місцевих пабліках поширюють кадри месштабної пожежі. Місцева влада повідомляє про пошкодження житлових будинків.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Атака на Київ: перші наслідки",
+    "link": "https://ua.korrespondent.net/city/kiev/4914388-ataka-na-kyiv-pershi-naslidky",
+    "pubDate": "2026-09-24 01:19:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572776.jpg\">Вже відомо про першу жертву та двох постраждалих. Під завалами у у Дніпровському районі можуть бути люди.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La abstención en las elecciones legislativas de Marruecos roza el 62%, un récord en 20 años",
+    "link": "https://www.elperiodico.com/es/internacional/20260924/abstencion-elecciones-legislativas-marruecos-roza-134617400",
+    "pubDate": "2026-09-24 00:59:51",
+    "category": "",
+    "description": "<h2>La jornada electoral ha transcurrido bajo un estricto despliegue de seguridad en las fronteras con Ceuta y Melilla ante el temor a nuevos intentos de cruces irregulares por parte de migrantes</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві після удару балістики зникає вода",
+    "link": "https://ua.korrespondent.net/city/kiev/4914384-u-kyievi-pislia-udaru-balistyky-znykaie-voda",
+    "pubDate": "2026-09-24 00:33:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572741.jpg\">У Києві чули численні вибухи, після чого у соцмережах повідомляли про велику пожежу. Атака триває.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Путін відправляє до США свого посланця - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4914374-putin-vidpravliaie-do-ssha-svoho-poslantsia-zmi",
+    "pubDate": "2026-09-24 00:21:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4572703.jpg\">Кирило Дмитрієв має говорити про економічне співробітництво, енергетику та мирне врегулювання війни в Україні.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Xi Jinping llega a Washington para reunirse con Trump su primera visita de Estado en más de una década",
+    "link": "https://www.elperiodico.com/es/internacional/20260924/xi-jinping-llega-washington-reunirse-trump-primera-visita-estado-decada-134616963",
+    "pubDate": "2026-09-24 00:05:01",
+    "category": "",
+    "description": "<h2>Ambos mandatarios se reúnen con la intención de aliviar las crecientes tensiones entre las dos principales potencias mundiales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  }
+]
