@@ -1,8 +1,10 @@
-# News for 2026-09-25 07:43
+# News for 2026-09-25 10:11
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
 ## ua.korrespondent.net
+09:28 [Вілл Сміт показав кардинально новий образ](https://ua.korrespondent.net/lifestyle/4914777-vill-smit-pokazav-kardynalno-novyi-obraz)<br>
+08:28 [Біля Нотр-Дама знайшли стародавню стіну - вчені](https://ua.korrespondent.net/tech/science/4914691-bilia-notr-dama-znaishly-starodavnui-stinu-vcheni)<br>
 06:20 [Генштаб назвав втрати Росії станом на 25 вересня](https://ua.korrespondent.net/ukraine/4914739-henshtab-nazvav-vtraty-rosii-stanom-na-25-veresnia)<br>
 05:38 [Дрони атакували Ульяновськ і Пермь: є "прильоти"](https://ua.korrespondent.net/world/russia/4914737-drony-atakuvaly-ulianovsk-i-perm-ye-pryloty)<br>
 01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
@@ -12,6 +14,9 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+10:04 [La aproximación de una borrasca podría provocar un cambio de tiempo a partir del lunes con una bajada general de los termómetros y lluvias](https://www.elperiodico.com/es/sociedad/20260925/prevision-tiempo-borrasca-lluvias-bajada-temperaturas-espana-aemet-134664267)<br>
+10:00 [Buen país, para los viejos](https://www.elperiodico.com/es/opinion/20260925/buen-pais-viejos-dependencia-imserso-articulo-albert-soler-134650951)<br>
+09:35 [El librero Xavier Vidal, en el videopódcast del suplemento ABRIL: "Prohibamos leer en la educación secundaria obligatoria"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260925/xavier-vidal-videopodcast-suplemento-abril-134556987)<br>
 07:10 [Las perchas de 18 € que todos están buscando: son ultrafinas, resistentes y hacen ganar espacio en el armario](https://www.elperiodico.com/es/shopping/20260925/perchas-ultrafinas-resistentes-ganar-espacio-armario-134384318)<br>
 07:08 [Rakel Sanes, catalana y con más de 20 años de vida rural: "El campo me ofreció el espacio físico y mental que necesitaba. Es algo que se siente en el cuerpo"](https://www.elperiodico.com/es/economia/20260925/vida-rural-catalana-20-anos-ciudad-libertad-paz-rakel-sanes-dv-et-134433719)<br>
 06:00 [Telefónica blinda las comunicaciones de los ‘ojos’ que investigan el universo desde Canarias](https://www.elperiodico.com/es/economia/20260925/telefonica-blinda-comunicaciones-ojos-investigan-134644674)<br>

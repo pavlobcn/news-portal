@@ -1,5 +1,482 @@
 [
   {
+    "title": "La respuesta de Sánchez a un estudiante de Harvard que le preguntó por la corrupción en su partido y el caso Pegasus",
+    "link": "https://www.elperiodico.com/es/videos/politica/respuesta-sanchez-estudiante-harvard-pregunta-corrupcion-caso-pegasus/134665239.shtml",
+    "pubDate": "2026-09-25 10:08:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Викрадене в Україні зерно: Латвія посилила контроль",
+    "link": "https://ua.korrespondent.net/business/4914798-vykradene-v-ukraini-zerno-latviia-posylyla-kontrol",
+    "pubDate": "2026-09-25 10:05:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574210.jpg\">Латвія посилила контроль за зерновими вантажами з третіх країн. Рішення пов’язане з ризиком транзиту зерна, незаконно вивезеного з окупованих територій України.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La aproximación de una borrasca podría provocar un cambio de tiempo a partir del lunes con una bajada general de los termómetros y lluvias",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/prevision-tiempo-borrasca-lluvias-bajada-temperaturas-espana-aemet-134664267",
+    "pubDate": "2026-09-25 10:04:25",
+    "category": "",
+    "description": "<h2 class=\"item\">Los modelos aún se muestran inciertos sobre cómo y cuándo se aproximará este frente pero, por ahora, todo apunta a que a partir del lunes se producirá una bajada generalizada de los termómetros y aumentará el riesgo de precipitaciones en todo el país</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260923/otono-temperaturas-calor-espana-registros-climaticos-134584839\">El otoño arranca con temperaturas hasta 10 grados por encima de lo normal y máximas que incluso podrían rozar los 40 grados en España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Delegación del Gobierno investigará la actuación de la Policía en el desahucio de Maricarmen",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/delegacion-gobierno-investigara-actuacion-policia-desahucio-maricarmen-134665082",
+    "pubDate": "2026-09-25 10:03:53",
+    "category": "",
+    "description": "<h2>\"La totalidad de lo que sucedió por la mañana, como lo que sucedió por la tarde, se desarrolló con normalidad y con respeto\", afirma Francisco Martín</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Ф’юрі - Джошуа: стало відомо, який титул буде на кону",
+    "link": "https://ua.korrespondent.net/sport/boks/4914791-fuiri-dzhoshua-stalo-vidomo-yakyi-tytul-bude-na-konu",
+    "pubDate": "2026-09-25 10:01:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574206.jpg\">Тайсон Ф’юрі та Ентоні Джошуа розіграють у своєму поєдинку повноцінний титул WBA Super. Водночас Гассієву дісталося лише другорядне звання регулярного чемпіона організації.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Buen país, para los viejos",
+    "link": "https://www.elperiodico.com/es/opinion/20260925/buen-pais-viejos-dependencia-imserso-articulo-albert-soler-134650951",
+    "pubDate": "2026-09-25 10:00:10",
+    "category": "",
+    "description": "<h2>De lo que se trata es de que pasen a mejor vida sin llegar a disfrutar ni de la ayuda que les corresponde por ley ni del bufet libre con el que llevan soñando todo el año</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260919/benidorm-deja-liderar-oferta-hotelera-viajes-imserso-134439135\">Benidorm deja de liderar la oferta hotelera del Imserso en favor de Lloret de Mar, Puerto de la Cruz (Tenerife) y Salou</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sillas, vino y pipas junto a la Giralda para protestar por la polémica cena de Escaparate: \"Por lo visto está prohibido sentarse aquí, pero depende de quién seas\"",
+    "link": "https://www.elperiodico.com/es/politica/20260925/sillas-protesta-escaparate-giralda-sevilla-134663703",
+    "pubDate": "2026-09-25 10:00:09",
+    "category": "",
+    "description": "<h2>Más de 200 personas se han sentado este jueves por la tarde en la plaza Virgen de los Reyes para protestar por un evento privado sufragado con 36.000 euros de Ayuntamiento y Junta</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Віднесло в море: у Казахстані зросла кількість загиблих військових",
+    "link": "https://ua.korrespondent.net/world/4914797-vidneslo-v-more-u-kazakhstani-zrosla-kilkist-zahyblykh-viiskovykh",
+    "pubDate": "2026-09-25 09:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574187.jpg\">Причиною інциденту стало  раптове  погіршення  метеорологічних  умов  та посиленням вітру.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Зірка Термінатора 2 записав відеозвернення на підтримку України",
+    "link": "https://ua.korrespondent.net/lifestyle/4914788-zirka-terminatora-2-zapysav-videozvernennia-na-pidtrymku-ukrainy",
+    "pubDate": "2026-09-25 09:57:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574185.jpg\">Зірка Термінатора 2 Роберт Патрік, чий персонаж T-1000 колись переслідував Джона Коннора на мопеді, тепер сам з'явився на двоколісному транспорті - аби записати відео на підтримку України.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Агента ФСБ викрили на виробництві дронів",
+    "link": "https://ua.korrespondent.net/ukraine/4914795-ahenta-fsb-vykryly-na-vyrobnytstvi-droniv",
+    "pubDate": "2026-09-25 09:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574207.jpg\">Мешканець Львівщини був завербований російською спецслужбою через Телеграм-канал з пошуку \"легких\" заробітків.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Pago con cartas 'Pokémon': el curioso método de un traficante de drogas condenado en Reino Unido",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/pago-cartas-pokemon-drogas-reino-unido-134662878",
+    "pubDate": "2026-09-25 09:53:31",
+    "category": "",
+    "description": "<h2>El culpable, de 26 años, fue sentenciado a tres años y cuatro meses de prisión tras declarse culpable de delitos de tráfico de cocaína, cannabis y posesión de bienes ilícitos</h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Adiós al histórico restaurante Pic Nic de Sitges: cierra tras más de 70 años por esta ley",
+    "link": "https://www.elperiodico.com/es/catalunya/20260925/cierre-restaurante-picnic-sitges-ley-costas-dv-loc-134625906",
+    "pubDate": "2026-09-25 09:50:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Otros dos locales próximos también han bajado la persiana por la misma normativa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260729/cierre-chiringuito-caleta-suspendido-restaurante-sant-vicenc-montalt-maresme-dv-loc-et-132910965\" >El chiringuito La Caleta no cierra: seguirá abierto mientras la justicia decide</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251011/clubes-nauticos-cataluna-riesgo-demolicion-recursos-ley-costas-proposicion-congreso-122366506\" >Decenas de clubs náuticos catalanes buscan resquicios legales para esquivar la ley de Costas y evitar su cierre</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Italia prohíbe el velo integral en las escuelas y limita al 30% los alumnos que no dominan el italiano por aula",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/italia-prohibe-velo-escuelas-limite-alumnos-extranjeros-134664557",
+    "pubDate": "2026-09-25 09:49:12",
+    "category": "",
+    "description": "<h2>Meloni saca adelante algunas medidas sobre el sistema educativo italiano con un decreto-ley, que luego tendrá que ratificar el Parlamento </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dos entidades piden ayuda a la ciudadanía para parar el desahucio de una familia con dos menores en Vitoria",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/desahucio-familia-menores-vitoria-134664524",
+    "pubDate": "2026-09-25 09:47:09",
+    "category": "",
+    "description": "<h2>Agentes de la Ertzaintza han cortado la calle tras el llamamiento de las asociaciones Auzoan Bizi Etxebizitza Sindikatua y Gasteiz Txiki</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "La muerte de Ana Buza se convierte en un puzle sin encaje: seis forenses debaten casi 10 horas si fue suicidio o atropello",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/muerte-ana-buza-convierte-puzle-134663706",
+    "pubDate": "2026-09-25 09:45:27",
+    "category": "",
+    "description": "<h2>El único punto de encuentro de cinco de ellos es que Ana se desnucó por la fuerza tras un choque con los muslos contra el quitamiedos</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El Gobierno de Yemen exige la intervención de la comunidad internacional en el conflicto con los hutíes: \"Su ausencia beneficia a los terroristas\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/yemen-exige-intervencion-comunidad-conflicto-huties-134664400",
+    "pubDate": "2026-09-25 09:45:03",
+    "category": "",
+    "description": "<h2>El vicepresidente del Gobierno yemení, Abdalá Abdulkader Al Alimi-Bawzer, ha hecho un llamado para que apoye a un pueblo \"que lleva 12 años conviviendo con el miedo, el hambre y las armas\" y ha denunciado la defensa de una \"agenda iraní\" de los rebeldes</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран заперечує контроль над хуситами",
+    "link": "https://ua.korrespondent.net/world/4914792-iran-zaperechuie-kontrol-nad-khusytamy",
+    "pubDate": "2026-09-25 09:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574181.jpg\">Президент Ірану Масуд Пезешкіан заявив, що Тегеран не дає вказівок єменським хуситам і не відповідає за їхні дії. За його словами, контакти між сторонами не мають систематичного характеру.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El librero Xavier Vidal, en el videopódcast del suplemento ABRIL: \"Prohibamos leer en la educación secundaria obligatoria\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260925/xavier-vidal-videopodcast-suplemento-abril-134556987",
+    "pubDate": "2026-09-25 09:35:32",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El responsable de la librería Nollegiu, con sedes en Barcelona y Palafrugell, protagoniza esta semana el episodio de 'Libros y Cosas'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Нові знеструмлення у восьми областях - Укренерго",
+    "link": "https://ua.korrespondent.net/ukraine/4914787-novi-znestrumlennia-u-vosmy-oblastiakh-ukrenerho",
+    "pubDate": "2026-09-25 09:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574184.jpg\">Енергетики роблять усе можливе, щоб якнайшвидше повернути в роботу пошкоджене обладнання і заживити всіх споживачів.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Усики розчулили мережу кадрами до річниці шлюбу",
+    "link": "https://ua.korrespondent.net/sport/boks/4914785-usyky-rozchulyly-merezhu-kadramy-do-richnytsi-shluibu",
+    "pubDate": "2026-09-25 09:30:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574164.jpg\">Зіркове подружжя Усиків захопило шанувальників ніжним фотосетом на честь чергової річниці шлюбу.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Вілл Сміт показав кардинально новий образ",
+    "link": "https://ua.korrespondent.net/lifestyle/4914777-vill-smit-pokazav-kardynalno-novyi-obraz",
+    "pubDate": "2026-09-25 09:28:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574163.jpg\">Свій 58-й день народження 25 вересня зустрічає відомий голлівудський актор та володар Оскара Вілл Сміт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Партизани знищили склад безпілотників на Уралі",
+    "link": "https://ua.korrespondent.net/ukraine/4914782-partyzany-znyschyly-sklad-bezpilotnykiv-na-urali",
+    "pubDate": "2026-09-25 09:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574180.jpg\">Партизанам вдалося спалити склад із безпілотниками, які росіяни готували для відправки на фронт.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tráfico en Barcelona y Catalunya, en directo: retenciones, accidentes y última hora de las carreteras",
+    "link": "https://www.elperiodico.com/es/barcelona/20260925/trafico-barcelona-catalunya-directo-merce-2026-133938712",
+    "pubDate": "2026-09-25 09:21:00",
+    "category": "",
+    "description": "<h2>La Mercè en BCN | <a href=\"https://www.elperiodico.com/es/barcelona/20260924/merce-2026-directo-ultima-hora-134622214\" target=\"_blank\">Última hora, programa, conciertos y todo lo que pasa hoy en Barcelona</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Вибух у центрі Афін: обвалилася будівля, є постраждалий",
+    "link": "https://ua.korrespondent.net/world/4914780-vybukh-u-tsentri-afin-obvalylasia-budivlia-ye-postrazhdalyi",
+    "pubDate": "2026-09-25 09:20:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574165.jpg\">У туристичному районі Плака в центрі Афін стався вибух, після якого частково обвалилася двоповерхова будівля. Постраждав перехожий.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Bolaños denuncia ante el CGPJ \"impunidad\" y \"corporativismo nocivo\" con Peinado: \"Perjudica la imagen de la Justicia\"",
+    "link": "https://www.elperiodico.com/es/politica/20260925/denuncia-cgpj-impunidad-corporativismo-bolanos-juez-peinado-134663525",
+    "pubDate": "2026-09-25 09:18:53",
+    "category": "",
+    "description": "<h2>Presenta un nuevo recurso ante la negativa del órgano de gobierno de los jueces de entregarle el expediente completo de sus quejas contra el instructor del caso Begoña</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La Mercè 2026, en directo: última hora, programa, conciertos y todo lo que pasa hoy en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260925/merce-2026-directo-ultima-hora-134622214",
+    "pubDate": "2026-09-25 09:18:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260923/toni-meritxell-falgueras-convierten-pregon-merce-barcelona-homenaje-comercio-historico-134606036\" >Toni y Meritxell Falgueras convierten el pregón de la Mercè en un canto al comercio tradicional</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 25 de septiembre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20260925/precio-gasolina-diesel-hoy-25-septiembre-dv-134623303",
+    "pubDate": "2026-09-25 09:17:02",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "¿Por qué el Piromusical ya no se hace en la Font Màgica de Montjuïc? Esta es la nueva ubicación",
+    "link": "https://www.elperiodico.com/es/barcelona/20260925/piromusical-merce-2026-barcelona-playa-bogatell-obras-fira-montjuic-dv-loc-134511784",
+    "pubDate": "2026-09-25 09:15:00",
+    "category": "",
+    "description": "<h2>El gran espectáculo de fuegos y música abandona Montjuïc y se traslada a un espacio más amplio</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260909/piromusical-merce-2026-cuando-donde-134100835\" >¿Cuándo y dónde será el Piromusical de La Mercè 2026? Día, hora y nueva ubicación</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260912/piromusical-merce-2026-mejores-sitios-ver-134100964\" >El Piromusical de La Mercè cambia de sitio: estos son los mejores lugares para verlo en Barcelona</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Precio del petróleo hoy, 25 de septiembre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20260925/precio-petroleo-hoy-25-septiembre-dv-134623269",
+    "pubDate": "2026-09-25 09:14:51",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El folletín de la boda de Gomesende: intereses contrapuestos de los novios, audios reveladores y camareros en apuros con sus parejas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/boda-gomesende-ourense-novios-audios-camareros-dv-134662687",
+    "pubDate": "2026-09-25 09:13:59",
+    "category": "",
+    "description": "<h2 class=\"item\">Los amigos del novio le recuerdan varios intentos de boda similares que se vieron frustrados por las extrañas circunstancias de las relaciones, según el diario local 'La Región'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260924/boda-gallega-ourense-pelea-desahogo-carnal-dv-134624884\">Mi gran boda gallega: batalla campal entre familias, aviso a la Guardia Civil y \"rápido desahogo carnal\" de la novia con un empleado en Ourense</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Sumar se abre a aceptar propuestas de Junts para lograr un decreto de vivienda que \"represente\" a todo el mundo",
+    "link": "https://www.elperiodico.com/es/politica/20260925/sumar-propuestas-junts-decreto-vivienda-134663281",
+    "pubDate": "2026-09-25 09:11:14",
+    "category": "",
+    "description": "<h2>El ministro Urtasun señala \"dos carriles\" distintos, la expropiación del piso de Maricarmen y medidas globales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ціни на нафту пішли вниз після різкого стрибка",
+    "link": "https://ua.korrespondent.net/business/economics/4914774-tsiny-na-naftu-pishly-vnyz-pislia-rizkoho-strybka",
+    "pubDate": "2026-09-25 09:11:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574149.jpg\">Ціни на нафту в п’ятницю знизилися після різкого зростання днем раніше. Інвестори оцінюють перспективи можливого перемир’я між США та Іраном і його вплив на ринок.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Росія атакувала транспортну інфраструктуру на Житомирщині та Полтавщині",
+    "link": "https://ua.korrespondent.net/ukraine/4914776-rosiia-atakuvala-transportnu-infrastrukturu-na-zhytomyrschyni-ta-poltavschyni",
+    "pubDate": "2026-09-25 09:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574150.jpg\">На Житомирщині є влучання по об'єктах транспортної інфраструктури, на Полтавщині - об'єкту залізниці.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "España crece un 2,6% interanual pese a la guerra en Irán y acelera en el segundo trimestre",
+    "link": "https://www.elperiodico.com/es/economia/20260925/espana-crece-2-6-interanual-134662980",
+    "pubDate": "2026-09-25 09:00:49",
+    "category": "",
+    "description": "<h2>La economía española mantiene la tendencia positiva con un incremento del 0,7%, apoyado en el crecimiento del 1,2% en el consumo de las familias </h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Confirmado: Cadena perpetua para Daniel Sancho por el asesinato de Edwin Arrieta",
+    "link": "https://www.elperiodico.com/es/videos/internacional/cadena-perpetua-daniel-sancho-edwin-arrieta/134662936.shtml",
+    "pubDate": "2026-09-25 08:59:51",
+    "category": "",
+    "description": "El español está acusado de asesinato premeditado del colombiano Edwin Arrieta",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Угорщина – Україна: анонс матчу збірної в Лізі націй",
+    "link": "https://ua.korrespondent.net/sport/4914649-uhorschyna-ukraina-anons-matchu-zbirnoi-v-lizi-natsii",
+    "pubDate": "2026-09-25 08:55:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573485.jpg\">\r\nКореспондент розповідає все найцікавіше, що потрібно знати перед поєдинком національної команди України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Агресія проти українців у Польщі зростає: 180 випадків за пів року",
+    "link": "https://ua.korrespondent.net/world/4914769-ahresiia-proty-ukraintsiv-u-polschi-zrostaie-180-vypadkiv-za-piv-roku",
+    "pubDate": "2026-09-25 08:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574147.jpg\">Кількість нападів на українців у Польщі зростає: за перше півріччя 2026 року вже зафіксували 180 випадків. Посол України пояснив, що впливає на статистику.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Битва за фінал Кубка Біллі Джин Кінг: українки дізналися суперниць",
+    "link": "https://ua.korrespondent.net/sport/tenis/4914767-bytva-za-final-kubka-billi-dzhyn-kinh-ukrainky-diznalysia-supernyts",
+    "pubDate": "2026-09-25 08:51:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574148.jpg\">У півфінальному протистоянні Кубка Біллі Джин Кінг наша команда знову зустрінеться на корті з чинними чемпіонками турніру.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Макрон запропонував \"подвійний мораторій\" між Україною та РФ",
+    "link": "https://ua.korrespondent.net/world/4914768-makron-zaproponuvav-podviinyi-moratorii-mizh-ukrainoui-ta-rf",
+    "pubDate": "2026-09-25 08:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574133.jpg\">Лідер Франції пропонує сторонам війни взаємно обмежити удари - припинити атаки на енергетику та атаки в Чорному морі.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві російська атака забрала життя хлопця",
+    "link": "https://ua.korrespondent.net/city/kiev/4914765-u-kyievi-rosiiska-ataka-zabrala-zhyttia-khloptsia",
+    "pubDate": "2026-09-25 08:34:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574127.jpg\">Російський безпілотник влучив у багатоповерхівку в Печерському районі Києва. Загинув 14-річний хлопець, щонайменше семеро людей отримали поранення.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Біля Нотр-Дама знайшли стародавню стіну - вчені",
+    "link": "https://ua.korrespondent.net/tech/science/4914691-bilia-notr-dama-znaishly-starodavnui-stinu-vcheni",
+    "pubDate": "2026-09-25 08:28:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573623.jpg\">Протягом століть історичні дискусії довкола справжнього розташування давньої Лютеції не вщухали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "40 ударів по Сумщині за добу: росіяни атакували 17 населених пунктів",
+    "link": "https://ua.korrespondent.net/ukraine/4914761-40-udariv-po-sumschyni-za-dobu-rosiiany-atakuvaly-17-naselenykh-punktiv",
+    "pubDate": "2026-09-25 08:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574114.jpg\">Російські війська за добу 40 разів атакували Сумщину. Під ударами опинилися 17 населених пунктів, є постраждалі та значні руйнування.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Veneno: la taquería que nació en una cocina particular se instala en un local de Les Corts",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260925/veneno-barcelona-restaurante-taqueria-cocina-mexicana-132914606",
+    "pubDate": "2026-09-25 08:22:01",
+    "category": "",
+    "description": "<h2 class=\"item\">Dos diseñadores mexicanos que llegaron a Barcelona para estudiar un máster debieron cambiar sus planes por la pandemia y hoy sirven algunos de los tacos más auténticos de la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260323/mejores-restaurantes-mexicanos-barcelona-tacos-13456437\">Más que tacos: los mejores restaurantes mexicanos de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20230529/recetas-mexicanas-desconocidas-87930193\">3 recetas mexicanas que no conoces (y están muy ricas)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "3 buenos restaurantes de Barcelona para el fin de semana: Compartir, Bar La Unió del Poblenou y Bar Oliva",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260925/buenos-restaurantes-barcelona-compartir-bar-unio-poblenou-bar-oliva-134513720",
+    "pubDate": "2026-09-25 08:21:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Si todavía no has decidido a dónde ir a comer o a cenar, aquí tienes tres direcciones donde disfrutarás de una gran mesa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260918/buenos-restaurantes-barcelona-taberna-bitxo-cal-santi-bar-charly-134265440\">3 buenos restaurantes de Barcelona para el fin de semana: Taberna Bitxo, Cal Santi y Bar Charly</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260911/buenos-restaurantes-barcelona-imprevisto-sacred-slice-pizza-arze-134034776\">3 buenos restaurantes de Barcelona para el fin de semana: Imprevisto, Sacred Slice Pizza y Arze</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La ruta de la 'samfaina' toma el Baix Llobregat: estos restaurantes la bordan",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260925/ruta-temps-samfaina-baix-llobregat-restaurantes-134639109",
+    "pubDate": "2026-09-25 08:19:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Hasta el 18 de octubre, 32 establecimientos de la comarca cocinan esta elaboración con verduras del Parc Agrari del Baix Llobregat</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260408/mejores-restaurantes-baix-llobregat-85841704\">Los mejores restaurantes del Baix Llobregat que merecen una visita</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20210202/receta-mollete-pollo-samfaina-jordi-artal-chef-cinc-sentits-11492217\">Cómo hacer un mollete de pollo con 'samfaina' de estrella Michelin</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una ruta de cócteles por hoteles de Barcelona (y otros buenos planes gastro para este finde)",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260925/barcelona-hotel-bar-week-2026-134592267",
+    "pubDate": "2026-09-25 08:18:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí tienes unas propuestas suculentas que ningún gurmet debería perderse</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20221018/restaurantes-hotel-barcelona-75238627\">Los mejores restaurantes de hotel donde comerás de fábula</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260629/restaurantes-cocteleria-barcelona-75110719\">Los mejores restaurantes donde maridar buenos platos con buenos cócteles</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удар по Одесі: загинула людина, горять будинки",
+    "link": "https://ua.korrespondent.net/ukraine/4914760-udar-po-odesi-zahynula-luidyna-horiat-budynky",
+    "pubDate": "2026-09-25 08:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574110.jpg\">У приватному житловому секторі Одеси вирують пожежі внаслідок російських ударів вранці 25 вересня.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tailandia desestima los recursos y mantiene la cadena perpetua a Daniel Sancho",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/tailandia-desestima-recursos-mantiene-cadena-134662132",
+    "pubDate": "2026-09-25 08:01:46",
+    "category": "",
+    "description": "<h2>El español está acusado de asesinato premeditado del colombiano Edwin Arrieta</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Fiscalía francesa indaga en una operación de venta de más de 31 millones de oro por el financiero acusado de blanquear el rescate de Plus Ultra",
+    "link": "https://www.elperiodico.com/es/politica/20260925/fiscalia-francesa-indaga-operacion-venta-134650796",
+    "pubDate": "2026-09-25 08:00:14",
+    "category": "",
+    "description": "<h2>Simon Verhoeven, arrestado en agosto en Alemania, comparece este viernes ante el juez Calama de la Audiencia Nacional</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Maribel Verdú ('El problema final'): \"A mí la opinión de Pérez-Reverte me importaba mucho porque no se corta\"",
+    "link": "https://www.elperiodico.com/es/tele/20260925/maribel-verdu-problema-final-serie-netflix-martino-rivas-134560257",
+    "pubDate": "2026-09-25 08:00:14",
+    "category": "",
+    "description": "<h2 class=\"item\">La actriz y Martiño Rivas son dos de los actores de la serie de misterio de Netflix protagonizada por Jose Coronado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260924/netflix-problema-final-serie-jose-coronado-perez-reverte-134545540\">Jose Coronado juega a ser Sherlock Holmes en 'El problema final', el homenaje de Netflix a los clásicos del misterio</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cuélate en casa del vecino y llévate hasta los muebles: así son los mercadillos en casas privadas",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260925/mercadillos-casas-privadas-barcelona-home-market-prat-llobregat-tesoros-vintage-134611978",
+    "pubDate": "2026-09-25 08:00:14",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Pásate por los Home Market, jornadas de puertas abiertas en viviendas particulares. Oportunidades únicas para hacerte con tesoros 'vintage'. Este fin de semana hay uno en el Prat del Llobregat</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Adelantar con línea continua está permitido y así debes hacerlo según la DGT",
+    "link": "https://www.elperiodico.com/es/motor/20260925/como-adelantar-con-linea-continua-segun-dgt-134631420",
+    "pubDate": "2026-09-25 08:00:13",
+    "category": "",
+    "description": "<h2>En determinadas ocasiones, la Dirección General de Tráfico permite sobrepasar a otro vehículo cuando hay línea continua</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ атакувала Київщину: пошкоджені будинки, склад і підприємство",
+    "link": "https://ua.korrespondent.net/ukraine/4914756-rf-atakuvala-kyivschynu-poshkodzheni-budynky-sklad-i-pidpryiemstvo",
+    "pubDate": "2026-09-25 07:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574090.jpg\">На місцях ударів працюють екстрені служби. За попередньою інформацією, обійшлося без постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "У Києві дрон влучив у багатоповерхівку",
     "link": "https://ua.korrespondent.net/city/kiev/4914753-u-kyievi-dron-vluchyv-u-bahatopoverkhivku",
     "pubDate": "2026-09-25 07:35:00",
