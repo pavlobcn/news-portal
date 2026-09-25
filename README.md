@@ -1,8 +1,12 @@
-# News for 2026-09-25 11:53
+# News for 2026-09-25 12:37
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
 ## ua.korrespondent.net
+12:17 [Генштаб підтвердив ураження двох НПЗ в Росії](https://ua.korrespondent.net/ukraine/4914853-henshtab-pidtverdyv-urazhennia-dvokh-npz-v-rosii)<br>
+12:11 [На Буковині обмежили водопостачання через маловоддя](https://ua.korrespondent.net/ukraine/4914848-na-bukovyni-obmezhyly-vodopostachannia-cherez-malovoddia)<br>
+11:59 [З окупації вдалося повернути 21 українця](https://ua.korrespondent.net/ukraine/4914845-z-okupatsii-vdalosia-povernuty-21-ukraintsia)<br>
+11:58 [Російський комбат використав полонених і жінок як "живий щит" для відступу](https://ua.korrespondent.net/ukraine/4914844-rosiiskyi-kombat-vykorystav-polonenykh-i-zhinok-yak-zhyvyi-schyt-dlia-vidstupu)<br>
 11:32 [У Непалі зниклими безвісти досі залишаються 56 українців - МЗС](https://ua.korrespondent.net/ukraine/4914835-u-nepali-znyklymy-bezvisty-dosi-zalyshauitsia-56-ukraintsiv-mzs)<br>
 10:53 [Мор риби на Харківщині: у Берестовій виявили загиблу рибу](https://ua.korrespondent.net/city/kharkov/4914815-mor-ryby-na-kharkivschyni-u-berestovii-vyiavyly-zahyblu-rybu)<br>
 10:33 [Зета-Джонс ніжно привітала чоловіка з 82-річчям](https://ua.korrespondent.net/lifestyle/4914806-zeta-dzhons-nizhno-pryvitala-cholovika-z-82-richchiam)<br>
@@ -13,10 +17,17 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
 
 ## as.com
+12:27 [Amazon, DAZN y Movistar: así se verá el baloncesto 2026-27](https://as.com/baloncesto/acb/amazon-dazn-y-movistar-asi-se-vera-el-baloncesto-2026-27-f202609-n/)<br>
+12:19 [Carles Marco: “El Leyma es la Cenicienta, pero intentaremos dar la sorpresa”](https://as.com/baloncesto/acb/carles-marco-el-leyma-es-la-cenicienta-pero-intentaremos-dar-la-sorpresa-f202609-n/)<br>
 07:09 [El ‘nuevo’ Valencia vuelve a la Euroliga ante un debutante, el Besiktas](https://as.com/futbol/el-nuevo-valencia-vuelve-a-la-euroliga-ante-un-debutante-el-besiktas-f202609-n/)<br>
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+12:30 [Nuria Roure, psicóloga experta en sueño: "Puedes pasar 8, 9 o incluso 10 horas en la cama y, aun así, levantarte cansada"](https://www.elperiodico.com/es/salud/20260925/nuria-roure-experta-sueno-dormir-ansiedad-dv-et-134435989)<br>
+12:29 [Lorca y el cine: de la adaptación acartonada al experimento poético](https://www.elperiodico.com/es/ocio-y-cultura/20260925/lorca-cine-la-bola-negra-adaptacion-experimento-134603082)<br>
+12:17 [El sector de la salud ve en el Campus de Girona una oportunidad para crecer: «Los actores los tenemos, pero están desconectados»](https://www.elperiodico.com/es/economia/20260925/sector-salud-ve-campus-girona-134671660)<br>
+12:06 [El mensaje de Maricarmen, la mujer de 87 años desahuciada de su casa, desde el hospital: "No he logrado defender mi casa, pero he luchado para que los demás aprendan a luchar por la suya"](https://www.elperiodico.com/es/videos/sociedad/maricarmen-mensaje-desahuciada-luchad-casa/134670907.shtml)<br>
+12:05 [Lo que falló en el desahucio de Maricarmen y tres cambios para que no se repita](https://www.elperiodico.com/es/sociedad/20260925/fallo-desahucio-maricarmen-tres-cambios-no-se-repita-134670773)<br>
 11:51 [Antonio Romero (CECA) ve una economía española "robusta" pese a la inflación](https://www.elperiodico.com/es/economia/20260925/antonio-romero-ceca-ve-economia-134665126)<br>
 11:45 [Grupo Barceló nombra a Marta Barceló Fontirroig vicepresidenta de Europa, Oriente Medio y África](https://www.elperiodico.com/es/economia/20260925/grupo-barcelo-nombra-marta-barcelo-134663663)<br>
 11:38 [Una trabajadora pierde el derecho a la pensión contributiva de jubilación al no cumplir el requisito de carencia específica](https://www.elperiodico.com/es/economia/20260925/trabajadora-pierde-derecho-pension-contributiva-jubilacion-no-cumplir-requisito-carencia-especifica-dv-134666441)<br>
