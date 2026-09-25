@@ -1,9 +1,12 @@
-# News for 2026-09-25 17:34
+# News for 2026-09-25 20:07
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
 ## ua.korrespondent.net
+18:06 [Нацбанк зміцнив курс гривні на понеділок](https://ua.korrespondent.net/business/financial/4914995-natsbank-zmitsnyv-kurs-hryvni-na-ponedilok)<br>
+17:55 [AI для бізнес-задач: Lytvyn Foundation провів онлайн-марафон для підлітків](https://ua.korrespondent.net/business/4914969-AI-dlia-biznes-zadach-Lytvyn-Foundation-proviv-onlain-marafon-dlia-pidlitkiv)<br>
 16:53 [Росії готується до рекордного падіння інвестицій](https://ua.korrespondent.net/world/russia/4914977-rosii-hotuietsia-do-rekordnoho-padinnia-investytsii)<br>
+16:53 [Росія готується до рекордного падіння інвестицій](https://ua.korrespondent.net/world/russia/4914977-rosiia-hotuietsia-do-rekordnoho-padinnia-investytsii)<br>
 16:47 [Прокляття фараона: які смерті пов’язують із гробницею Тутанхамона](https://ua.korrespondent.net/tech/science/4914692-prokliattia-faraona-yaki-smerti-poviazuuit-iz-hrobnytseui-tutankhamona)<br>
 16:23 [Дрон РФ влетів у квартиру в Києві: загинув 14-річний громадянин Ізраїлю](https://ua.korrespondent.net/city/kiev/4914964-dron-rf-vletiv-u-kvartyru-v-kyievi-zahynuv-14-richnyi-hromadianyn-izrailui)<br>
 16:17 [Перша дружина Тома Круза змінилася до невпізнання](https://ua.korrespondent.net/lifestyle/4914949-persha-druzhyna-toma-kruza-zminylasia-do-nevpiznannia)<br>
@@ -40,6 +43,7 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
 
 ## as.com
+19:30 [Lorenzo Brown se va a Israel y fuera de la Euroliga](https://as.com/baloncesto/euroliga/lorenzo-brown-se-va-a-israel-y-fuera-de-la-euroliga-f202609-n/)<br>
 17:02 [En directo, Burgos Grupo de Santiago vs. Barça Atlètic de Liga U22](https://as.com/baloncesto/en-directo-burgos-grupo-de-santiago-vs-barca-atletic-de-liga-u22-f202609-v/)<br>
 12:27 [Amazon, DAZN y Movistar: así se verá el baloncesto 2026-27](https://as.com/baloncesto/acb/amazon-dazn-y-movistar-asi-se-vera-el-baloncesto-2026-27-f202609-n/)<br>
 12:19 [Carles Marco: “El Leyma es la Cenicienta, pero intentaremos dar la sorpresa”](https://as.com/baloncesto/acb/carles-marco-el-leyma-es-la-cenicienta-pero-intentaremos-dar-la-sorpresa-f202609-n/)<br>
@@ -47,6 +51,14 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+19:33 [El campo magnético terrestre podría influir en la producción de energía celular y en el proceso de envejecimiento](https://www.elperiodico.com/es/tendencias21/20260925/campo-magnetico-terrestre-influir-produccion-134692552)<br>
+19:25 [Tiempo en Catalunya mañana sábado: Comienza el descenso de las temperaturas en Barcelona antes de la llegada de una borrasca](https://www.elperiodico.com/es/tiempo/20260925/tiempo-cataluna-manana-sabado-26-de-septiembre-temperaturas-calor-dv-loc-134690460)<br>
+19:20 [¿Qué Luna hay hoy? Así evoluciona el cielo nocturno en septiembre 2026](https://www.elperiodico.com/es/ciencia/20260925/luna-septiembre-2026-fases-llena-cuarto-menguante-nueva-creciente-dv-132724581)<br>
+19:09 [La autopsia confirma la muerte por causas naturales del médico de Cabrera d'Anoia](https://www.elperiodico.com/es/sociedad/20260925/autopsia-confirma-muerte-causas-naturales-medico-cabrera-anoia-134691512)<br>
+18:15 [¿Cuándo hay Luna llena? Día y hora para ver la Luna de la cosecha](https://www.elperiodico.com/es/ciencia/20260925/luna-llena-septiembre-2026-cuando-dia-hora-cosecha-dv-134381596)<br>
+18:00 ["Me siento más segura entre jabalíes que entre hombres": Amal, la mujer sin hogar de Barcelona que pernocta en un bosque de Sarrià](https://www.elperiodico.com/es/barcelona/20260925/siento-segura-jabalies-hombres-amal-sintecho-sarria-collserola-barcelona-134648996)<br>
+18:00 [El sinhogarismo femenino crece en Barcelona: “Vivir en la calle acumula muchos traumas, especialmente para las mujeres”](https://www.elperiodico.com/es/barcelona/20260925/vivir-calle-acumula-traumas-especialmente-mujeres-entidades-sociales-barcelona-trauma-arrels-134677756)<br>
+17:55 [Amal, la mujer sin hogar de Barcelona que pernocta en un bosque de Sarrià](https://www.elperiodico.com/es/videos/barcelona/amal-mujer-hogar-barcelona-pernocta-collserola-video/134684720.shtml)<br>
 17:31 [Nuria Ocaña, abogada de familia: "Si alguien fallece sin testamento no puedes aceptar la herencia directamente, tienes que hacer una declaración de herederos abintestato"](https://www.elperiodico.com/es/economia/20260925/nuria-ocana-abogada-familia-testamento-herencia-declaracion-abintestato-dv-134605474)<br>
 17:30 [Emili Vizuete, economista, sobre el "suicidio financiero" de septiembre: "Ser una hormiguita ayuda a vivir más..."](https://www.elperiodico.com/es/economia/20260925/cuesta-septiembre-planificacion-financiera-vuelta-al-cole-educacion-financiera-costes-precios-dv-123317966)<br>
 17:27 [Descubre las mejores cimas de Catalunya para iniciarse en el senderismo durante este otoño](https://www.elperiodico.com/es/catalunya/20260925/senderismo-cataluna-mejores-cimas-pic-de-la-dona-taga-puigsacalm-dv-loc-134674670)<br>
@@ -79,6 +91,7 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 13:25 [El espectacular pueblo de cuento a menos de una hora de Mollet del Vallès](https://www.elperiodico.com/es/catalunya/20260925/pueblo-cuento-mura-mollet-cataluna-dv-loc-134556274)<br>
 13:17 [Los Javis y otras parejas creativas antes, durante y después de la relación](https://www.elperiodico.com/es/ocio-y-cultura/20260925/javis-parejas-creativas-durante-despues-134672331)<br>
 13:09 [El sector turístico considera que la Costa Brava es un «modelo de éxito» dentro del sector desde los años 60](https://www.elperiodico.com/es/economia/20260925/sector-turistico-considera-costa-brava-134674503)<br>
+13:09 [El turismo considera que la Costa Brava es un "modelo de éxito" desde los años 60](https://www.elperiodico.com/es/economia/20260925/turismo-considera-costa-brava-modelo-134674503)<br>
 12:46 [Deslizamiento de tierra masivo obliga a evacuar una aldea en la India](https://www.elperiodico.com/es/videos/internacional/deslizamiento-tierra-masivo-obliga-evacuar-aldea-india/134673068.shtml)<br>
 12:39 [Accenture contratará a 100 personas para acelerar el despliegue de agentes de IA en Barcelona](https://www.elperiodico.com/es/tecnologia/20260925/generalitat-tiende-mano-accenture-acelerar-trabajo-ia-agentes-barcelona-inteligencia-artificial-134669505)<br>
 12:30 [Nuria Roure, psicóloga experta en sueño: "Puedes pasar 8, 9 o incluso 10 horas en la cama y, aun así, levantarte cansada"](https://www.elperiodico.com/es/salud/20260925/nuria-roure-experta-sueno-dormir-ansiedad-dv-et-134435989)<br>
