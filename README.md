@@ -1,4 +1,4 @@
-# News for 2026-09-25 06:50
+# News for 2026-09-25 07:43
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
@@ -8,10 +8,14 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
 
 ## as.com
+07:09 [El ‘nuevo’ Valencia vuelve a la Euroliga ante un debutante, el Besiktas](https://as.com/futbol/el-nuevo-valencia-vuelve-a-la-euroliga-ante-un-debutante-el-besiktas-f202609-n/)<br>
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+07:10 [Las perchas de 18 € que todos están buscando: son ultrafinas, resistentes y hacen ganar espacio en el armario](https://www.elperiodico.com/es/shopping/20260925/perchas-ultrafinas-resistentes-ganar-espacio-armario-134384318)<br>
+07:08 [Rakel Sanes, catalana y con más de 20 años de vida rural: "El campo me ofreció el espacio físico y mental que necesitaba. Es algo que se siente en el cuerpo"](https://www.elperiodico.com/es/economia/20260925/vida-rural-catalana-20-anos-ciudad-libertad-paz-rakel-sanes-dv-et-134433719)<br>
 06:00 [Telefónica blinda las comunicaciones de los ‘ojos’ que investigan el universo desde Canarias](https://www.elperiodico.com/es/economia/20260925/telefonica-blinda-comunicaciones-ojos-investigan-134644674)<br>
+06:00 [Telefónica blinda las comunicaciones de los ‘ojos’ que investigan el universo desde Canarias](https://www.elperiodico.com/es/economia/20260925/telefonica-blinda-comunicaciones-investigan-universo-canarias-134644674)<br>
 06:00 [5 claves para prevenir, afrontar y superar el mobbing](https://www.elperiodico.com/es/ser-feliz/20260925/5-claves-prevenir-afrontar-superar-134519077)<br>
 06:00 [Maite Fenollosa, maestra: "Los niños necesitan escribir, ensuciarse las manos, leer y entender"](https://www.elperiodico.com/es/sociedad/20260925/maite-fenollosa-maestra-escribir-leer-entender-catalan-lengua-extranjera-lengua-vehicular-integracion-inclusiva-escuela-cataluna-134339037)<br>
 06:00 [Entrevista a Maite Fenollosa "La escuela tiene que oler a papel, a goma y a sacapuntas, los niños necesitan escribir, ensuciarse las manos, leer, entender y escuchar a otros leer en voz alta"](https://www.elperiodico.com/es/videos/barcelona/entrevista-maite-fenollosa-escuela-oler/134388161.shtml)<br>
