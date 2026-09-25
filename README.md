@@ -1,10 +1,20 @@
-# News for 2026-09-25 04:34
+# News for 2026-09-25 06:50
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
+
+## ua.korrespondent.net
+06:20 [Генштаб назвав втрати Росії станом на 25 вересня](https://ua.korrespondent.net/ukraine/4914739-henshtab-nazvav-vtraty-rosii-stanom-na-25-veresnia)<br>
+05:38 [Дрони атакували Ульяновськ і Пермь: є "прильоти"](https://ua.korrespondent.net/world/russia/4914737-drony-atakuvaly-ulianovsk-i-perm-ye-pryloty)<br>
+01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
 
 ## as.com
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+06:00 [Telefónica blinda las comunicaciones de los ‘ojos’ que investigan el universo desde Canarias](https://www.elperiodico.com/es/economia/20260925/telefonica-blinda-comunicaciones-ojos-investigan-134644674)<br>
+06:00 [5 claves para prevenir, afrontar y superar el mobbing](https://www.elperiodico.com/es/ser-feliz/20260925/5-claves-prevenir-afrontar-superar-134519077)<br>
+06:00 [Maite Fenollosa, maestra: "Los niños necesitan escribir, ensuciarse las manos, leer y entender"](https://www.elperiodico.com/es/sociedad/20260925/maite-fenollosa-maestra-escribir-leer-entender-catalan-lengua-extranjera-lengua-vehicular-integracion-inclusiva-escuela-cataluna-134339037)<br>
+06:00 [Entrevista a Maite Fenollosa "La escuela tiene que oler a papel, a goma y a sacapuntas, los niños necesitan escribir, ensuciarse las manos, leer, entender y escuchar a otros leer en voz alta"](https://www.elperiodico.com/es/videos/barcelona/entrevista-maite-fenollosa-escuela-oler/134388161.shtml)<br>
+05:30 [300 plazas para ser bombero o bombera: una nueva oportunidad para formar parte del cuerpo de emergencias de la Generalitat](https://www.elperiodico.com/es/sociedad/20260925/nueva-convocatoria-bombers-generalitat-300-plazas-bc-134549573)<br>
 01:59 [Magnon convierte los restos agrícolas y forestales en una alternativa al gas](https://www.elperiodico.com/es/medio-ambiente/20260925/magnon-convierte-restos-agricolas-forestales-bc-134658380)<br>
 00:13 [A PIE DE CALLE | Así ha sido la noche en los diferentes escenarios de la Mercè](https://www.elperiodico.com/es/videos/barcelona/pie-calle-sido-noche-diferentes/134657579.shtml)<br>
