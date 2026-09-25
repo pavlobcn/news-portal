@@ -1,5 +1,113 @@
 [
   {
+    "title": "Путін вказав, що змінило плани РФ щодо переговорів",
+    "link": "https://ua.korrespondent.net/world/russia/4915031-putin-vkazav-scho-zminylo-plany-rf-schodo-perehovoriv",
+    "pubDate": "2026-09-25 20:52:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574774.jpg\">Кремль нібито був готовий повернутися до переговорів із Києвом після виборів у РФ, та Україна масовано атакувала Москву і виборчі дільниці, заявив Путін.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Renfe y Adif sufren un ciberataque que expone nombres y correos de clientes",
+    "link": "https://www.elperiodico.com/es/economia/20260925/renfe-adif-sufren-ciberataque-expone-nombres-correos-clientes-134694645",
+    "pubDate": "2026-09-25 20:48:22",
+    "category": "",
+    "description": "<h2>La investigación técnica descarta por el momento que los atacantes hayan accedido a información bancaria o documentos de identidad sensibles tras la intrusión en los sistemas</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "León XIV irrumpe en la Francia de Macron: \"Libertad, igualdad y fraternidad no son meras palabras\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/visita-leon-xiv-paris-libertad-igualdad-fraternidad-134694475",
+    "pubDate": "2026-09-25 20:42:27",
+    "category": "",
+    "description": "<h2>El pontífice reivindica ante el presidente galo el diálogo entre Iglesia y Estado, y alerta sobre los riesgos de la inteligencia artificial, la eutanasia y la gestación subrogada </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Detenido un hombre en Girona tras huir de un control policial con una moto robada y herir a dos agentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/detenido-hombre-girona-huir-control-policia-134693957",
+    "pubDate": "2026-09-25 20:32:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El arrestado está acusado de atentado contra los agentes de la autoridad, daños, hurto de uso de vehículo y conducción temeraria</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La baliza V16 seguirá siendo obligatoria en octubre: la DGT desmiente los bulos sobre el nuevo reglamento",
+    "link": "https://www.elperiodico.com/es/motor/20260925/baliza-v16-seguira-siendo-obligatoria-a-partir-octubre-segun-dgt-134670129",
+    "pubDate": "2026-09-25 20:30:26",
+    "category": "",
+    "description": "<h2>Tráfico aclara que la reforma del Reglamento General de Circulación no modifica la exigencia de las luces conectadas para señalizar averías o accidentes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "РФ запустила 162 дрони за день, 76 з них реактивні",
+    "link": "https://ua.korrespondent.net/ukraine/4915029-rf-zapustyla-162-drony-za-den-76-z-nykh-reaktyvni",
+    "pubDate": "2026-09-25 20:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574761.jpg\">За попередніми даними, сили ППО знешкодили 127 ворожих дронів, зокрема 44 реактивні.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los 'techbros' eligen Uruguay para construir su utopía: una \"nación digital\" en la que experimentar sin límites con la IA y la biotecnología",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/techbros-eligen-uruguay-construir-utopia-praxis-ciudad-ia-tecnologia-thiel-altman-134694012",
+    "pubDate": "2026-09-25 20:27:17",
+    "category": "",
+    "description": "<h2>La controvertida start-up estadounidense Praxis, regada con el dinero de magnates como Peter Thiel o Sam Altman, planea edificar una ciudad tecnolibertaria ajena a las reglas democráticas de la mano de un ex asesor de Javier Milei en Argentina</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "En directo, Casademont Zaragoza vs. CB Canarias de Liga U22",
+    "link": "https://as.com/baloncesto/videos/en-directo-casademont-zaragoza-vs-cb-canarias-de-liga-u22-f202609-v/",
+    "pubDate": "2026-09-25 20:23:31",
+    "category": "Basket Zaragoza",
+    "description": "Sigue en directo el partido entre Casademont Zaragoza y Fundación Canarias, correspondiente al Grupo A de la Liga U22 2026-27.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Héctor Álvarez prolonga la fiesta de España en el Mundial con una plata en la prueba de ruta sub-23",
+    "link": "https://www.elperiodico.com/es/deportes/20260925/hector-alvarez-prolonga-fiesta-espana-134693273",
+    "pubDate": "2026-09-25 20:16:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El ciclista alicantino acabó segundo, por detrás de Ashlin Barrin, un campeón nacido en Girona y criado en Toronto. El equipo español suma ya cuatro metales en Montreal. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Enric Serrano, policía experto en seguridad, sobre dejarte el cargador del móvil enchufado antes de salir de casa: \"Puede sobrecalentarse o sufrir un fallo eléctrico en cualquier momento\"",
+    "link": "https://www.elperiodico.com/es/economia/20260925/experto-seguridad-cargador-movil-enchufado-incendio-accidente-enric-serrano-dv-et-134281503",
+    "pubDate": "2026-09-25 20:15:00",
+    "category": "",
+    "description": "<h2>El agente alerta de que \"son solo cinco segundos que pueden evitarte un problema muy grave\"</h2><h2><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260821/consejos-casa-vacaciones-laura-guerrero-experta-hogar-truco-moneda-dv-133260203\">Laura Guerrero, experta en hogar, sobre cómo detectar cortes de luz: \"Antes de irte de vacaciones, congela un cuenco con agua y pon una moneda encima\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260917/enric-serrano-experto-seguridad-error-accidente-trafico-dv-et-134180229\">Enric Serrano, experto en seguridad: \"Cometer este error tras un accidente en la carretera puede costarte la vida. El coche se puede reparar, tu vida no\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Encélado, luna de Saturno, podría acercarnos a la vida extraterrestre: sus columnas esconden pistas que podrían delatarla",
+    "link": "https://www.elperiodico.com/es/sociedad/20260925/encelado-luna-saturno-acercarnos-vida-134693586",
+    "pubDate": "2026-09-25 20:13:01",
+    "category": "",
+    "description": "<h2>Los estudios publicados en Science Advances revelan que Encélado mantiene un entorno geoquímico capaz de sustentar sistemas metabólicos antiguos, lo que refuerza su potencial como hábitat para la vida extraterrestre</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dejar de depender de Puigdemont",
+    "link": "https://www.elperiodico.com/es/opinion/20260925/depender-puigdemont-amnistia-editorial-134693123",
+    "pubDate": "2026-09-25 20:07:25",
+    "category": "",
+    "description": "<h2>Junts podrá abordar su renovación sin que las circunstancias de quien protagonizó el 'procés' sigan determinando sus decisiones</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260925/puigdemont-regreso-catalunya-escenario-planes-junts-parlament-candidato-generalitat-134548369\">¿Qué hará Puigdemont cuando pueda volver a Catalunya? Tres escenarios con ventajas e inconvenientes</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Los Mossos creen que el comportamiento de la pareja del arquitecto Josep Juanpere fue decisivo en su muerte",
     "link": "https://www.elperiodico.com/es/sociedad/20260925/mossos-comportamiento-pareja-arquitecto-juanpere-decisivo-muerte-homicidio-134692927",
     "pubDate": "2026-09-25 20:06:14",
@@ -16,6 +124,15 @@
     "description": "<h2 class=\"item\">El entierro se llevará a cabo el domingo 27 de septiembre a las 11:00h en la Iglesia de Santa Maria de Cambrils</h2>",
     "topic": "спорт",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Степанов зріс у ціні в Ередивізі",
+    "link": "https://ua.korrespondent.net/sport/football/4915026-stepanov-zris-u-tsini-v-eredyvizi",
+    "pubDate": "2026-09-25 20:02:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574733.jpg\">Згідно з вартісною оцінкою порталу Transfermarkt, послуги українського форварда Утрехта подорожчали вдвічі.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Атака на Київ: 57 постраждалих і семеро загиблих",
@@ -484,6 +601,15 @@
     "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260924/bola-negra-javis-salas-estreno-entradas-cines-fenomeno-134605818\" target=\"_blank\">'La bola negra' llega a los cines convertida ya en un fenómeno con preventas récord y sesiones ampliadas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260922/bola-negra-javier-calvo-javier-134563312\" target=\"_blank\">Crítica de 'La bola negra': osada en sus pretensiones e inapelable en sus logros</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Удари РФ: у Києві знайшли тіла нових жертв",
+    "link": "https://ua.korrespondent.net/city/kiev/4914983-udary-rf-u-kyievi-znaishly-tila-novykh-zhertv",
+    "pubDate": "2026-09-25 17:10:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574624.jpg\">Постраждали наразі 46 мешканців столиці. Більше половини з них перебувають у стаціонарах лікарень.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "En directo, Burgos Grupo de Santiago vs. Barça Atlètic de Liga U22",

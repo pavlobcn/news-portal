@@ -1,4 +1,4 @@
-# News for 2026-09-25 20:07
+# News for 2026-09-25 20:59
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
@@ -43,6 +43,7 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
 
 ## as.com
+20:23 [En directo, Casademont Zaragoza vs. CB Canarias de Liga U22](https://as.com/baloncesto/videos/en-directo-casademont-zaragoza-vs-cb-canarias-de-liga-u22-f202609-v/)<br>
 19:30 [Lorenzo Brown se va a Israel y fuera de la Euroliga](https://as.com/baloncesto/euroliga/lorenzo-brown-se-va-a-israel-y-fuera-de-la-euroliga-f202609-n/)<br>
 17:02 [En directo, Burgos Grupo de Santiago vs. Barça Atlètic de Liga U22](https://as.com/baloncesto/en-directo-burgos-grupo-de-santiago-vs-barca-atletic-de-liga-u22-f202609-v/)<br>
 12:27 [Amazon, DAZN y Movistar: así se verá el baloncesto 2026-27](https://as.com/baloncesto/acb/amazon-dazn-y-movistar-asi-se-vera-el-baloncesto-2026-27-f202609-n/)<br>
@@ -51,6 +52,8 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+20:15 [Enric Serrano, policía experto en seguridad, sobre dejarte el cargador del móvil enchufado antes de salir de casa: "Puede sobrecalentarse o sufrir un fallo eléctrico en cualquier momento"](https://www.elperiodico.com/es/economia/20260925/experto-seguridad-cargador-movil-enchufado-incendio-accidente-enric-serrano-dv-et-134281503)<br>
+20:13 [Encélado, luna de Saturno, podría acercarnos a la vida extraterrestre: sus columnas esconden pistas que podrían delatarla](https://www.elperiodico.com/es/sociedad/20260925/encelado-luna-saturno-acercarnos-vida-134693586)<br>
 19:33 [El campo magnético terrestre podría influir en la producción de energía celular y en el proceso de envejecimiento](https://www.elperiodico.com/es/tendencias21/20260925/campo-magnetico-terrestre-influir-produccion-134692552)<br>
 19:25 [Tiempo en Catalunya mañana sábado: Comienza el descenso de las temperaturas en Barcelona antes de la llegada de una borrasca](https://www.elperiodico.com/es/tiempo/20260925/tiempo-cataluna-manana-sabado-26-de-septiembre-temperaturas-calor-dv-loc-134690460)<br>
 19:20 [¿Qué Luna hay hoy? Así evoluciona el cielo nocturno en septiembre 2026](https://www.elperiodico.com/es/ciencia/20260925/luna-septiembre-2026-fases-llena-cuarto-menguante-nueva-creciente-dv-132724581)<br>
