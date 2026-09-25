@@ -1,8 +1,11 @@
-# News for 2026-09-25 10:11
+# News for 2026-09-25 11:53
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
 ## ua.korrespondent.net
+11:32 [У Непалі зниклими безвісти досі залишаються 56 українців - МЗС](https://ua.korrespondent.net/ukraine/4914835-u-nepali-znyklymy-bezvisty-dosi-zalyshauitsia-56-ukraintsiv-mzs)<br>
+10:53 [Мор риби на Харківщині: у Берестовій виявили загиблу рибу](https://ua.korrespondent.net/city/kharkov/4914815-mor-ryby-na-kharkivschyni-u-berestovii-vyiavyly-zahyblu-rybu)<br>
+10:33 [Зета-Джонс ніжно привітала чоловіка з 82-річчям](https://ua.korrespondent.net/lifestyle/4914806-zeta-dzhons-nizhno-pryvitala-cholovika-z-82-richchiam)<br>
 09:28 [Вілл Сміт показав кардинально новий образ](https://ua.korrespondent.net/lifestyle/4914777-vill-smit-pokazav-kardynalno-novyi-obraz)<br>
 08:28 [Біля Нотр-Дама знайшли стародавню стіну - вчені](https://ua.korrespondent.net/tech/science/4914691-bilia-notr-dama-znaishly-starodavnui-stinu-vcheni)<br>
 06:20 [Генштаб назвав втрати Росії станом на 25 вересня](https://ua.korrespondent.net/ukraine/4914739-henshtab-nazvav-vtraty-rosii-stanom-na-25-veresnia)<br>
@@ -14,6 +17,17 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+11:51 [Antonio Romero (CECA) ve una economía española "robusta" pese a la inflación](https://www.elperiodico.com/es/economia/20260925/antonio-romero-ceca-ve-economia-134665126)<br>
+11:45 [Grupo Barceló nombra a Marta Barceló Fontirroig vicepresidenta de Europa, Oriente Medio y África](https://www.elperiodico.com/es/economia/20260925/grupo-barcelo-nombra-marta-barcelo-134663663)<br>
+11:38 [Una trabajadora pierde el derecho a la pensión contributiva de jubilación al no cumplir el requisito de carencia específica](https://www.elperiodico.com/es/economia/20260925/trabajadora-pierde-derecho-pension-contributiva-jubilacion-no-cumplir-requisito-carencia-especifica-dv-134666441)<br>
+11:34 [Los Benetton se adentran en el mercado industrial español con la compra de la vasca Celesa](https://www.elperiodico.com/es/economia/20260925/benetton-adentran-mercado-industrial-espanol-134669132)<br>
+11:31 [Fran y Kiko Rivera se reconcilian a golpe de animal muerto](https://www.elperiodico.com/es/gente/20260925/fran-kiko-rivera-reconcilian-golpe-134666211)<br>
+11:30 [Un policía desvela el gesto que puede salvarte la vida en una emergencia: así puedes llamar al 112 sin marcar](https://www.elperiodico.com/es/tecnologia/20260925/llamar-emergencias-112-sin-marcar-movil-policia-dv-et-134510883)<br>
+11:04 [La OCDE insiste en que PISA 2025 sigue siendo válido: los estudiantes de hogares con mayor renta son los que más caen](https://www.elperiodico.com/es/sociedad/20260925/ocde-insiste-pisa-2025-sigue-134666969)<br>
+11:00 [Adif duplicó hace un año el presupuesto para rehabilitar Fabra i Puig tras detectar nuevas necesidades en la estación](https://www.elperiodico.com/es/sociedad/20260925/adif-duplico-ano-presupuesto-rehabilitar-fabra-i-puig-nuevas-necesidades-estacion-134631440)<br>
+10:48 [Montserrat Fusté, psiquiatra: "Nos falta la unidad de hospitalización madre bebé para casos de psiquiatría perinatal"](https://www.elperiodico.com/es/ser-feliz/20260925/montserrat-fuste-psiquiatra-falta-unidad-134643860)<br>
+10:43 [Terrassa pone nombre y apellido a las 189 víctimas mortales de la Riada del 1962, 64 años después de la tragedia](https://www.elperiodico.com/es/barcelona/20260925/terrassa-pone-nombre-apellido-189-riada-nombres-i-apellidos-desaparecidos-134665675)<br>
+10:33 [La pareja del médico fallecido de Cabrera d'Anoia era abogada y su hija tuvo problemas de escolarización](https://www.elperiodico.com/es/sociedad/20260925/pareja-medico-fallecido-cabrera-d-134666388)<br>
 10:04 [La aproximación de una borrasca podría provocar un cambio de tiempo a partir del lunes con una bajada general de los termómetros y lluvias](https://www.elperiodico.com/es/sociedad/20260925/prevision-tiempo-borrasca-lluvias-bajada-temperaturas-espana-aemet-134664267)<br>
 10:00 [Buen país, para los viejos](https://www.elperiodico.com/es/opinion/20260925/buen-pais-viejos-dependencia-imserso-articulo-albert-soler-134650951)<br>
 09:35 [El librero Xavier Vidal, en el videopódcast del suplemento ABRIL: "Prohibamos leer en la educación secundaria obligatoria"](https://www.elperiodico.com/es/ocio-y-cultura/libros/20260925/xavier-vidal-videopodcast-suplemento-abril-134556987)<br>
@@ -25,5 +39,6 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 06:00 [Maite Fenollosa, maestra: "Los niños necesitan escribir, ensuciarse las manos, leer y entender"](https://www.elperiodico.com/es/sociedad/20260925/maite-fenollosa-maestra-escribir-leer-entender-catalan-lengua-extranjera-lengua-vehicular-integracion-inclusiva-escuela-cataluna-134339037)<br>
 06:00 [Entrevista a Maite Fenollosa "La escuela tiene que oler a papel, a goma y a sacapuntas, los niños necesitan escribir, ensuciarse las manos, leer, entender y escuchar a otros leer en voz alta"](https://www.elperiodico.com/es/videos/barcelona/entrevista-maite-fenollosa-escuela-oler/134388161.shtml)<br>
 05:30 [300 plazas para ser bombero o bombera: una nueva oportunidad para formar parte del cuerpo de emergencias de la Generalitat](https://www.elperiodico.com/es/sociedad/20260925/nueva-convocatoria-bombers-generalitat-300-plazas-bc-134549573)<br>
+04:50 [Te va a brotar, de pronto, la vida](https://www.elperiodico.com/es/opinion/20260925/desahucio-maricarmen-ines-martin-rodrigo-articulo-134626378)<br>
 01:59 [Magnon convierte los restos agrícolas y forestales en una alternativa al gas](https://www.elperiodico.com/es/medio-ambiente/20260925/magnon-convierte-restos-agricolas-forestales-bc-134658380)<br>
 00:13 [A PIE DE CALLE | Así ha sido la noche en los diferentes escenarios de la Mercè](https://www.elperiodico.com/es/videos/barcelona/pie-calle-sido-noche-diferentes/134657579.shtml)<br>
