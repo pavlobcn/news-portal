@@ -1,4 +1,4 @@
-# News for 2026-09-25 21:32
+# News for 2026-09-25 23:32
 
 Previous day: [2026-09-24](./data/2026-09-24.md)
 
@@ -43,6 +43,9 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 01:58 [Флеш: РФ не зможе залишити Україну без Інтернету](https://ua.korrespondent.net/ukraine/4914721-flesh-rf-ne-zmozhe-zalyshyty-ukrainu-bez-internetu)<br>
 
 ## as.com
+22:50 [Daimiel, Drafteados y Sergio Rodríguez, protagonistas del X FID Ciudad de León Abanca](https://as.com/baloncesto/mas_baloncesto/daimiel-drafteados-y-sergio-rodriguez-protagonistas-del-x-fid-ciudad-de-leon-abanca-f202609-n/)<br>
+22:28 [Resumen del Besiktas vs. Valencia Basket de Euroliga](https://as.com/videos/euroliga/resumen-del-besiktas-vs-valencia-basket-de-euroliga-f202609-v/)<br>
+22:00 [Fantic y Kutluay estrenan al campeón](https://as.com/baloncesto/mas_baloncesto/fantic-y-kutluay-estrenan-al-campeon-f202609-n/)<br>
 21:18 [Locura absoluta en Turquía con un final de dibujos animados: último segundo de partido, disfruten](https://as.com/baloncesto/videos/locura-absoluta-en-turquia-con-un-final-de-dibujos-animados-ultimo-segundo-de-partido-disfruten-f202609-v/)<br>
 21:16 [TJ Shorts marca el camino del Valencia Basket ante el Besiktas](https://as.com/baloncesto/euroliga/tj-shorts-marca-el-camino-de-valencia-basket-ante-besiktas-f202609-n/)<br>
 20:23 [En directo, Casademont Zaragoza vs. CB Canarias de Liga U22](https://as.com/baloncesto/videos/en-directo-casademont-zaragoza-vs-cb-canarias-de-liga-u22-f202609-v/)<br>
@@ -54,6 +57,9 @@ Previous day: [2026-09-24](./data/2026-09-24.md)
 00:06 [Resumen del Barcelona vs. Anadolu Efes de Euroliga](https://as.com/videos/euroliga/resumen-del-barcelona-vs-anadolu-efes-de-euroliga-f202609-v/)<br>
 
 ## www.elperiodico.com
+23:28 [Anna Netrebko se impone en la ‘Aida’ pacifista de Shirin Neshat](https://www.elperiodico.com/es/ocio-y-cultura/20260925/anna-netrebko-impone-aida-pacifista-shirin-neshat-liceu-134697780)<br>
+22:50 [La Javimanía desborda los cines en el estreno de ‘La bola negra’: "Van a ganar el Oscar"](https://www.elperiodico.com/es/ocio-y-cultura/20260925/javimania-desborda-cines-estreno-bola-negra-134684302)<br>
+22:00 [El Liceu abre temporada y nueva etapa con Helena Guardans](https://www.elperiodico.com/es/ocio-y-cultura/20260925/liceu-abre-temporada-nueva-etapa-134680746)<br>
 21:03 [Renfe sufre un ciberataque que compromete nombres y correos de usuarios, aunque matiza que el servicio se mantiene operativo](https://www.elperiodico.com/es/economia/20260925/renfe-sufre-ciberataque-compromete-nombres-134694901)<br>
 21:00 [Inés Bárcenas, psicóloga, sobre los jóvenes: "Cuando nuestros padres encontraron una pareja, ya probablemente pensaban que sería la pareja de su vida"](https://www.elperiodico.com/es/ser-feliz/20260925/psicologa-jovenes-soledad-estres-ansiedad-sociedad-cambiante-podcast-ines-barcenas-dv-et-134279987)<br>
 20:15 [Enric Serrano, policía experto en seguridad, sobre dejarte el cargador del móvil enchufado antes de salir de casa: "Puede sobrecalentarse o sufrir un fallo eléctrico en cualquier momento"](https://www.elperiodico.com/es/economia/20260925/experto-seguridad-cargador-movil-enchufado-incendio-accidente-enric-serrano-dv-et-134281503)<br>
