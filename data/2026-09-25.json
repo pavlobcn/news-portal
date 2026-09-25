@@ -1,5 +1,41 @@
 [
   {
+    "title": "Російські дрони атакували Київ: є потерпілий",
+    "link": "https://ua.korrespondent.net/city/kiev/4914731-rosiiski-drony-atakuvaly-kyiv-ye-poterpilyi",
+    "pubDate": "2026-09-25 04:22:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573932.jpeg\">Уламки БпЛА впали на 25-поверховий житловий будинок, а також було пошкоджено нежитлову будівлю в столиці.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Трамп назвав \"чудовими\" переговори з Сі",
+    "link": "https://ua.korrespondent.net/world/4914729-tramp-nazvav-chudovymy-perehovory-z-si",
+    "pubDate": "2026-09-25 03:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573907.jpg\">Лідери США і Китаю провели переговори у розширеному форматі за участю урядових делегацій двох країн.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Прем'єр Нідерландів пообіцяв захистити МКС",
+    "link": "https://ua.korrespondent.net/world/4914727-premier-niderlandiv-poobitsiav-zakhystyty-mks",
+    "pubDate": "2026-09-25 03:34:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573894.jpg\">Нідерланди будуть захищати його як ключову інституцію світового правопорядку, наголосив очільник уряду країни.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Ле Пен виступила проти фінансової допомоги Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4914725-le-pen-vystupyla-proty-finansovoi-dopomohy-ukraini",
+    "pubDate": "2026-09-25 02:52:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4573881.jpg\">Франція може надавати Києву військову допомогу, але не фінансову, заявила глава партії Національне об'єднання.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Magnon convierte los restos agrícolas y forestales en una alternativa al gas",
     "link": "https://www.elperiodico.com/es/medio-ambiente/20260925/magnon-convierte-restos-agricolas-forestales-bc-134658380",
     "pubDate": "2026-09-25 01:59:14",
