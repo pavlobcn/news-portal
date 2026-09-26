@@ -1,5 +1,59 @@
 [
   {
+    "title": "InfoJobs y Davante impulsan el acceso al empleo público y la formación profesional",
+    "link": "https://www.elperiodico.com/es/economia/20260925/infojobs-davante-impulsan-acceso-empleo-bc-134666578",
+    "pubDate": "2026-09-25 23:59:36",
+    "category": "",
+    "description": "<h2>La plataforma incorpora un nuevo espacio de empleo público que reúne ofertas y convocatorias de distintas Administraciones, junto con una sección de formación con más de 600 cursos de Davante para mejorar competencias.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mbappé, Kane o Ferrán: los futbolistas que han firmado por marcas emergentes de botas de fútbol",
+    "link": "https://www.elperiodico.com/es/economia/20260925/mbappe-kane-o-ferran-futbolistas-134698206",
+    "pubDate": "2026-09-25 23:59:35",
+    "category": "",
+    "description": "<h2>Harry Kane, Kylian Mbappé, Yan Diomandé o Ferrán Torres, todos han renegado de Nike y Adidas para pasarse a marcas menos conocidas, buscando un producto personalizado</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Латвії під час навчань НАТО стався \"дружній вогонь\": є поранені",
+    "link": "https://ua.korrespondent.net/world/4915052-u-latvii-pid-chas-navchan-nato-stavsia-druzhnii-vohon-ye-poraneni",
+    "pubDate": "2026-09-25 23:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574907.jpg\">Черга з кулемета була випадково випущена по машині, що їхала попереду з відкритим заднім бортом.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У новому пакеті США Києву нема ракет Patriot - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4915048-u-novomu-paketi-ssha-kyievu-nema-raket-Patriot-zmi",
+    "pubDate": "2026-09-25 23:45:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4574894.jpg\">Уряд Трампа взяв на себе зобов'язання витратити всі 400 млн дол., які Конгрес схвалив у 2025 році на військову допомогу Києву.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Lula prohíbe las apuestas deportivas y los casinos en línea a nueve días de las elecciones en Brasil",
+    "link": "https://www.elperiodico.com/es/internacional/20260925/lula-prohibe-apuestas-deportivas-casinos-linea-nueve-dias-elecciones-brasil-134697919",
+    "pubDate": "2026-09-25 23:35:42",
+    "category": "",
+    "description": "<h2>La medida adoptada por el Ejecutivo afectará a 85 empresas legales y provocará una notable pérdida de ingresos en los clubes de fútbol</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alejandra Neira se proclama campeona del mundo en categoría júnior",
+    "link": "https://www.elperiodico.com/es/deportes/20260925/alejandra-neira-proclama-campeona-mundo-junior-ciclismo-134697819",
+    "pubDate": "2026-09-25 23:31:47",
+    "category": "",
+    "description": "<h2 class=\"item\">La ciclista gallega, que corre en el Movistar, suma el segundo oro tras el de Benjamín Noval y proclama a la delegación española como la dominadora en categoría juvenil.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Anna Netrebko se impone en la ‘Aida’ pacifista de Shirin Neshat",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260925/anna-netrebko-impone-aida-pacifista-shirin-neshat-liceu-134697780",
     "pubDate": "2026-09-25 23:28:37",
@@ -144,6 +198,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-25 21:54:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "У Києві дрон РФ упав на дитсадок, зайнялася пожежа",
     "link": "https://ua.korrespondent.net/city/kiev/4915039-u-kyievi-dron-rf-upav-na-dytsadok-zainialasia-pozhezha",
     "pubDate": "2026-09-25 21:52:00",
@@ -178,6 +241,15 @@
     "description": "<h2>Las versiones Max y Studio del buque insignia de la marca alcanzan los 1.705 kilómetros de autonomía combinada</h2>",
     "topic": "автомобілі",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Resultados Euroliga, jornada 1: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-1-horarios-tv-partidos-y-clasificacion-f202609-n/",
+    "pubDate": "2026-09-25 21:27:41",
+    "category": "Baloncesto",
+    "description": "Euroliga 2025-26: resultados de los partidos y clasificación de la temporada en su jornada 1. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Enmanuel Reyes Pla agranda su palmarés con una plata en el Europeo",
@@ -898,6 +970,15 @@
     "description": "<h2>El retorno del equipo franjirrojo a su campo se prevé para el 10 de octubre tras los partidos que ha tenido que jugar en Butarque.</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-25 16:57:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "El Manchester City quebrantó 114 veces las reglas económicas de la Premier: podría descender y perder títulos",
