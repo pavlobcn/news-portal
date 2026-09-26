@@ -1,5 +1,194 @@
 [
   {
+    "title": "Генштаб назвав втрати Росії станом на 26 вересня",
+    "link": "https://ua.korrespondent.net/ukraine/4915080-henshtab-nazvav-vtraty-rosii-stanom-na-26-veresnia",
+    "pubDate": "2026-09-26 06:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575151.jpg\">Українські військові знищили понад 2100 одиниць російської техніки, серед якої 96 гармат, три РСЗВ та чотири засоби ППО.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни вбили двох жінок у Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4915078-rosiiany-vbyly-dvokh-zhinok-u-zaporizhzhi",
+    "pubDate": "2026-09-26 06:27:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575150.jpg\">Ворожий БпЛА ударив по приватному будинку в одному з районів міста. Від влучання спалахнула пожежа, частина конструкцій обвалилася.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España estrena en Wembley su segunda estrella: \"No hemos tocado techo, tenemos mucho margen de mejora\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/espana-estrena-wembley-segunda-estrella-134695482",
+    "pubDate": "2026-09-26 06:01:07",
+    "category": "",
+    "description": "<h2>La selección de Luis de la Fuente retoma la competición tras el Mundial jugando contra Inglaterra en la Nations League</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP pone distancia con Vox con la ayuda de Aznar ante el auge de los de Abascal en las encuestas",
+    "link": "https://www.elperiodico.com/es/politica/20260926/pp-pone-distancia-vox-ayuda-134693048",
+    "pubDate": "2026-09-26 06:01:01",
+    "category": "",
+    "description": "<h2>La estrategia de Génova combina la gestión de coaliciones regionales con una clara distancia política hacia Vox para evitar la fuga de votos y asegurar el liderazgo de Alberto Núñez Feijóo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ERC propone un plan piloto de refuerzo escolar gratuito en el próximo curso de 25 millones de euros",
+    "link": "https://www.elperiodico.com/es/politica/20260926/educacion-catalunya-pisa-pruebas-erc-refuerzo-escolar-debate-parlament-134689149",
+    "pubDate": "2026-09-26 06:00:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Los republicanos presentarán una propuesta de resolución para que el Parlament fuerce al Govern de Illa a impulsarlo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260922/barcelona-dedicara-parte-recargo-turistico-134525736\" target=\"_blank\">Barcelona dedicará parte del recargo turístico a cruceros a ofrecer actividades gratuitas de refuerzo escolar</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260914/oriol-junqueras-educacion-crisis-ronda-contactos-acuerdo-pais-134263623\" target=\"_blank\">Junqueras abre una ronda de contactos para buscar un \"gran pacto de país\" sobre la educación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260925/educacion-govern-oposicion-libros-calculo-mental-escuela-cumbre-partidos-escuela-inclusiva-134664230\" target=\"_blank\">El Govern y la oposición acuerdan revisar la escuela inclusiva y fomentar los libros y el cálculo mental en las aulas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los Comuns exigen al Govern que active la unidad antidesahucios y compre 400 pisos de Blackstone",
+    "link": "https://www.elperiodico.com/es/politica/20260926/comuns-exigen-govern-active-unidad-134688893",
+    "pubDate": "2026-09-26 06:00:48",
+    "category": "",
+    "description": "<h2>El grupo de Jéssica Albiach propondrá también en el debate de política general que se impulsen leyes en el Congreso para gravar fiscalmente \"las compras especulativas\" y prohibir a las personas jurídicas adquirir pisos</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260925/junts-sostiene-rebajas-fiscales-propietarios-apoyar-decerto-vivienda-gobierno-134664493\" target=\"_blank\">Junts sostiene que sin rebajas fiscales a los propietarios no aprobará el decreto de vivienda tras el desahucio de Maricarmen</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260925/ada-colau-concurrir-elecciones-generales-frente-realmente-amplio-134681025\" target=\"_blank\">Ada Colau, dispuesta a concurrir a las elecciones generales si se construye un \"frente realmente amplio\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Sánchez borra de la legislatura el debate del estado de la nación y aparca la Conferencia de Presidentes",
+    "link": "https://www.elperiodico.com/es/politica/20260926/sanchez-borra-legislatura-debate-nacion-134688974",
+    "pubDate": "2026-09-26 06:00:48",
+    "category": "",
+    "description": "<h2>El jefe del Ejecutivo se aleja de los grandes foros institucionales en plena confrontación con el PP</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La dirección del PSOE tensiona al partido para tenerlo listo cuando Pedro Sánchez apriete el botón de las elecciones",
+    "link": "https://www.elperiodico.com/es/politica/20260926/direccion-psoe-tensiona-partido-tenerlo-listo-elecciones-134688553",
+    "pubDate": "2026-09-26 06:00:47",
+    "category": "",
+    "description": "<h2 class=\"item\">La secretaria de Organización inicia nueva ronda por todas las federaciones para rearmar a la formación: \"Vamos a dar la batalla\"</h2><h2 class=\"item\">Los socialistas siguen celebrando este fin de semana primarias en toda España para tener pronto a todos sus candidatos elegidos</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Por qué cada escuela enseña de una manera? Catalunya plantea revisar los límites de la autonomía de centro",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/escuelas-cataluna-limite-autonomia-centro-debate-pedagogico-mismo-curriculum-mismo-objetivo-134638093",
+    "pubDate": "2026-09-26 06:00:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El Govern abre el debate sobre la pluralidad de métodos escolares y sienta las bases para impulsar unas prácticas educativas mínimas comunes a todas las escuelas, evaluables y basadas en la evidencia científica</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260924/catalunya-da-marcha-recuperara-lecturas-134624332\">Catalunya da marcha atrás y recuperará las lecturas obligatorias en Bachillerato el curso que viene</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260925/educacion-govern-oposicion-libros-calculo-mental-escuela-cumbre-partidos-escuela-inclusiva-134664230\" target=\"_blank\">El Govern y la oposición acuerdan revisar la escuela inclusiva y fomentar los libros y el cálculo mental en las aulas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Entrevista a Daniela Guillén, Campeona del mundo de Motocross",
+    "link": "https://www.elperiodico.com/es/videos/deportes/entrevista-daniela-guillen-campeona-mundo/134653990.shtml",
+    "pubDate": "2026-09-26 06:00:40",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Daniela Guillén, la primera española campeona del mundo de motocross: \"Me estoy jugando la vida y no puedo vivir de ello; es duro\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/daniela-guillen-primera-espanola-campeona-134646806",
+    "pubDate": "2026-09-26 06:00:39",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Qué votarían tus vecinos de Barcelona? La encuesta de las elecciones municipales, por distritos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260926/encuesta-elecciones-barcelona-distritos-voto-sondeo-134643783",
+    "pubDate": "2026-09-26 06:00:23",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260924/encuesta-elecciones-municipales-barcelona-sondeo-134593579\" target=\"_blank\">Encuesta elecciones Barcelona: El PSC ganaría las municipales ante una oposición fragmentada</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260924/sondeo-barcelona-lideres-candidatos-alcalde-elecciones-134584633\" target=\"_blank\">Sondeo GESOP: Collboni es el preferido como alcalde de Barcelona y el único candidato que aprueba</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260924/sondeo-barcelona-gestion-ayuntamiento-gobierno-collboni-134550471\" target=\"_blank\">Sondeo GESOP: Los barceloneses suspenden la gestión del ayuntamiento y el 42% cree que Barcelona irá a peor</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260923/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260922/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales en España: así están los sondeos</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підсумки 25.09: удари по Києву та новий глава ДПС",
+    "link": "https://ua.korrespondent.net/ukraine/4915066-pidsumky-2509-udary-po-kyievu-ta-novyi-hlava-dps",
+    "pubDate": "2026-09-26 05:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575046.jpg\">У Києві атаковано офісну будівлю, є загиблі. Путін вказав, що змінило плани РФ щодо переговорів. Призначено нового керівника Податкової служби. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Técnicas eficaces para aprender",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/tecnicas-eficaces-aprender/134635885.shtml",
+    "pubDate": "2026-09-26 05:55:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Білий дім заборонив CNN літати на борту з Трампом - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4915076-bilyi-dim-zaboronyv-CNN-litaty-na-bortu-z-trampom-zmi",
+    "pubDate": "2026-09-26 05:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575125.jpg\">Представники телеканалу мали летіти разом з Трампом у Теннесі, але їх не виключили до списку представників телевізійного пулу.",
+    "topic": "телебачення",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Трамп заговорив про поновлення ударів по Ірану - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4915074-tramp-zahovoryv-pro-ponovlennia-udariv-po-iranu-zmi",
+    "pubDate": "2026-09-26 04:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575100.jpg\">Американський лідер вважає поновлення бомбардувань вельми ймовірним сценарієм, пише The Wall Street Journal.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Бельгія замовила для України спеціалізовані катери й дрони - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4915072-belhiia-zamovyla-dlia-ukrainy-spetsializovani-katery-y-drony-zmi",
+    "pubDate": "2026-09-26 04:46:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575075.jpg\">Закупівлю здійснили за переговорною процедурою без попереднього проведення конкурсу, пише Мілітарний.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Іран віддав США план поновлення навігації в Ормузі",
+    "link": "https://ua.korrespondent.net/world/4915070-iran-viddav-ssha-plan-ponovlennia-navihatsii-v-ormuzi",
+    "pubDate": "2026-09-26 04:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575072.jpg\">Семиденний період відновлення судноплавства \"почнеться з моменту, коли Вашингтон схвалить план Тегерана\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Росія атакувала Київ дронами: спалахнули пожежі",
+    "link": "https://ua.korrespondent.net/city/kiev/4915068-rosiia-atakuvala-kyiv-dronamy-spalakhnuly-pozhezhi",
+    "pubDate": "2026-09-26 03:49:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575059.jpg\">Наслідки ворожої атаки зафіксовані у двох районах столиці - Солом'янському та Оболонському.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Дрони РФ атакували Харків: четверо потерпілих",
+    "link": "https://ua.korrespondent.net/city/kharkov/4915064-drony-rf-atakuvaly-kharkiv-chetvero-poterpilykh",
+    "pubDate": "2026-09-26 02:58:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575021.jpg\">Влучання російських БпЛА зафіксовано в Салтівському районі поблизу нежитлових будівель, повідоми міський голова.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Сенаті закликали Трампа скасувати запрошення Путіна на саміт G20 - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4915062-u-senati-zaklykaly-trampa-skasuvaty-zaproshennia-putina-na-samit-G20-zmi",
+    "pubDate": "2026-09-26 02:47:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575008.jpg\">Ініціаторами звернення до президента США виступили республіканець Роджер Вікер та демократ Джин Шахін.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "У Брянську та Краснодарі є \"прильоти\" - соцмережі",
     "link": "https://ua.korrespondent.net/world/russia/4915060-u-briansku-ta-krasnodari-ye-pryloty-sotsmerezhi",
     "pubDate": "2026-09-26 02:08:00",
