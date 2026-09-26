@@ -1,5 +1,347 @@
 [
   {
+    "title": "Luis Guil: “En el Madrid, cuando no ganas, no hay más”",
+    "link": "https://as.com/baloncesto/acb/luis-guil-en-el-madrid-cuando-no-ganas-no-hay-mas-f202609-n/",
+    "pubDate": "2026-09-26 11:28:57",
+    "category": "Baloncesto",
+    "description": "El exasistente de Sergio Scariolo en el equipo blanco habla con OK Diario sobre su paso por el club y su nueva etapa como seleccionador de Jordania.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marihuana en contenedores marítimos enterrados: la Guardia Civil descubre una nueva forma de cultivo de los narcos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/marihuana-contenedores-maritimos-enterrados-guardia-civil-narcos-134704332",
+    "pubDate": "2026-09-26 11:25:05",
+    "category": "",
+    "description": "<h2>Cuatro detenidos y más de 1.000 plantas requisadas</h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Barcelona culmina las obras de renovación del césped de los campos de la Teixonera y la Foixarda",
+    "link": "https://www.elperiodico.com/es/barcelona/20260926/barcelona-culmina-obras-renovacion-campos-teixonera-foixarda-134704123",
+    "pubDate": "2026-09-26 11:23:17",
+    "category": "",
+    "description": "<h2>Las dos actuaciones, con una inversión de 1,75 millones de euros, forman parte del plan de choque para la mejora y el mantenimiento de las instalaciones deportivas de la ciudad</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Operación Garnata de la Guardia Civil contra el cultivo de marihuana",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/operacion-garnata-guardia-civil-cultivo/134704235.shtml",
+    "pubDate": "2026-09-26 11:18:32",
+    "category": "",
+    "description": "",
+    "topic": "марихуана",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Originales y sabrosísimas\": El bar de Barcelona venerado por sus patatas bravas",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260926/patatas-bravas-bar-le-petit-eixample-barcelona-dv-loc-105751364",
+    "pubDate": "2026-09-26 11:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20241025/buenos-restaurantes-barcelona-ii-milione-26kg-la-esquinica-109950790\" >3 buenos restaurantes de Barcelona para el fin de semana: Il Milione, 26KG y La Esquinica</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20241012/mejor-pizza-barcelona-restaurante-off-street-guinardo-tripadvisor-dv-loc-105660533\" >\"La mejor pizza que he comido\": Los elogios a uno de los mejores restaurantes de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/restaurantes/20240912/pijama-postre-restaurantes-barcelona-106233167\" >Estos restaurantes de Barcelona mantienen vivo el pijama</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere José Costas Peón, 'Peón Kurtz', miembro fundador de Def Con Dos",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/muere-jose-costas-peon-peon-134704032",
+    "pubDate": "2026-09-26 11:10:06",
+    "category": "",
+    "description": "<h2>La trayectoria de José Costas Peón, figura clave en la fundación de Def Con Dos, estuvo marcada por su pertenencia a una familia de gran relevancia musical en Vigo</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Guerra de Irán, en directo | Teherán presenta a EEUU \"ideas\" que \"podrían propiciar\" la reapertura de Ormuz",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-09-26 11:07:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Alcaraz y sus consejos en pista: \"A veces parece que hablo mucho\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/alcaraz-consejos-pista-veces-parece-134703818",
+    "pubDate": "2026-09-26 11:05:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro murciano jugará este sábado contra Fritz (20.00 horas) en el partido estrella de la jornada en Londres.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Іран може допустити на свої ядерні об’єкти інспекторів МАГАТЕ",
+    "link": "https://ua.korrespondent.net/world/4915109-iran-mozhe-dopustyty-na-svoi-yaderni-obiekty-inspektoriv-mahate",
+    "pubDate": "2026-09-26 11:02:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575336.jpg\">Іран нібито не має намірів створити власну ядерну зброю, бо це \"харам\", переконує Масуд Пезешкіан.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La cadena CNN es excluida de la cobertura de un viaje de Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/cadena-cnn-excluida-cobertura-viaje-trump-134703825",
+    "pubDate": "2026-09-26 10:59:59",
+    "category": "",
+    "description": "<h2>El presidente de Estados Unidos ya vetó la presencia en la Casa Blanca de este medio y de MS NOW y Político</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ahora sí tiene razones el Real Madrid para preocuparse, no antes",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/ahora-razones-real-madrid-preocuparse-134703601",
+    "pubDate": "2026-09-26 10:56:32",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rescatada en Pakistán una mujer víctima de un matrimonio forzado y detenidos dos hombres en Barcelona",
+    "link": "https://www.elperiodico.com/es/sucesos/20260926/rescatada-pakistan-mujer-victima-matrimonio-forzado-detenidos-dos-hombres-barcelona-134703243",
+    "pubDate": "2026-09-26 10:42:09",
+    "category": "",
+    "description": "<h2>La víctima viajó a Pakistán engañada por su entorno familiar y, una vez en el país, le retiraron el pasaporte, restringieron sus movimientos y le impusieron un matrimonio con un primo</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Arnau París, cocinero, sobre sus hijos gemelos: \"No me imaginaba, para nada del mundo, que ser padre sería esto\"",
+    "link": "https://www.elperiodico.com/es/gente/20260926/arnau-paris-joc-cartes-cocinero-padre-gemelos-dv-et-134629945",
+    "pubDate": "2026-09-26 10:35:49",
+    "category": "",
+    "description": "<h2>El próximo presentador de Joc de Cartes explica cómo ha cambiado su vida desde que ha sido padre de gemelos </h2><h2><a href=\"https://www.elperiodico.com/es/tele/20260916/arnau-paris-joc-cartes-tv3-3cat-134273044\">Arnau París, a punto de coger las riendas de 'Joc de cartes': \"Hay restaurantes del programa a los que tengo claro que no volveré nunca\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни атакували вантажівки на Одещині",
+    "link": "https://ua.korrespondent.net/ukraine/4915106-rosiiany-atakuvaly-vantazhivky-na-odeschyni",
+    "pubDate": "2026-09-26 10:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575310.jpg\">Було пошкоджено три вантажні автомобілі, один з яких зайнявся. Вогонь також поширився на суху траву поруч.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump rechaza  el plan de Irán para reabrir el estrecho de Ormuz",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/trump-rechaza-plan-iran-reabrir-ormuz-134703224",
+    "pubDate": "2026-09-26 10:26:15",
+    "category": "",
+    "description": "<h2>Teherán culpa a la Unión Europea de participar en la guerra de EEUU e Israel por facilitar bases al ejército estadounidense</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Partizán de Fuenlabrada, nueva temporada, nueva era",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-partizan-de-fuenlabrada-nueva-temporada-nueva-era-f202609-n/",
+    "pubDate": "2026-09-26 10:15:47",
+    "category": "Baloncesto",
+    "description": "El equipo madrileño debuta este sábado en Primera FEB en Alicante (19:00 horas. BalONcesto TV). El proyecto 2026-27 cuenta con seis caras nuevas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El bar de Badalona a pie de playa aclamado por sus desayunos: \"Como en casa no, ¡mejor!\"",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260926/bar-badalona-playa-desayunos-origen-beach-dv-loc-107380273",
+    "pubDate": "2026-09-26 10:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/badalona/20240825/mejores-sitios-restaurantes-comer-badalona-tripadvisor-106758911\" >Los mejores sitios para comer en Badalona, según Tripadvisor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20240823/5-mejores-restaurantes-badalona-tripadvisor-dv-loc-107056903\" >Estos son los 5 mejores restaurantes de Badalona según Tripadvisor</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Краснодарському краї уражено НПЗ - Генштаб",
+    "link": "https://ua.korrespondent.net/ukraine/4915103-u-krasnodarskomu-krai-urazheno-npz-henshtab",
+    "pubDate": "2026-09-26 10:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575294.jpg\">По стратегічному заводу відпрацювали оператори 1-го окремого центру СБС та 414-ї окремої бригади Птахи Мадяра разом з іншими складовими Сил оборони.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Javier Iriondo, emprendedor: \"Hoy hay una epidemia de ensimismamiento. Nadie te ve, todos están atrapados en sus pensamientos o en el móvil\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260926/crisis-personal-mentalidad-confianza-preocupacion-futuro-dv-123978997",
+    "pubDate": "2026-09-26 10:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El exdeportista de élite señala que el síndrome del impostor es algo que \"tiene todo el mundo\" y añade que \"no estás aquí para demostrar nada a nadie”</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260107/habitos-salud-mental-equilibrio-emocional-psiquiatra-dv-123648946\">El psiquiatra José Miguel Gaona, sobre el cansancio: cuando el cuerpo está agotado, “el cerebro interpreta todo...”</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20251119/mitad-espanoles-descuida-salud-cerebro-123908769\">Más de la mitad de los españoles descuida su salud cerebral: ni lee, ni hace ejercicio ni duerme bien</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Un vecino de Badalona reclama 15.000 euros a Albiol y que retire un vídeo en que lo acusa de haber venido a España a delinquir",
+    "link": "https://www.elperiodico.com/es/barcelona/20260926/badalona-albiol-demanda-vecino-video-okupas-134607872",
+    "pubDate": "2026-09-26 10:01:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El residente, de origen extranjero, replica que dispone de domicilio y permiso de residencia, trabaja y no tiene antecedentes penales tras aparecer discutiendo delante de un local ocupado con el alcalde, que responde que no piensa borrar la grabación ni abonar la indemnización</h2><h2 class=\"item\">CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260820/albiol-encara-grupo-ocupas-generan-conflictos-constantes-local-comercial-la-salut-badalona-133517679\">Albiol se encara con un grupo de \"ocupas que generan conflictos constantes\" en un local comercial de Badalona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El Lamborghini Miura SV cumple 55 años y deja paso a una nueva generación",
+    "link": "https://www.elperiodico.com/es/motor/20260926/lamborghini-miura-sv-cumple-55-134631452",
+    "pubDate": "2026-09-26 10:01:03",
+    "category": "",
+    "description": "<h2>La saga de versiones más radicales de los V12 italianos llega hasta el Revuelto SV, que combina 1.065 CV con tecnología híbrida y una producción limitada a 1.963 unidades</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Palabras que digan algo",
+    "link": "https://www.elperiodico.com/es/opinion/20260926/palabras-que-digan-algo-articulo-agnes-marques-134702709",
+    "pubDate": "2026-09-26 10:00:50",
+    "category": "",
+    "description": "<h2>Precisamente ahora, necesitamos muchas palabras para explicar bien lo que nos pasa.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У двох районах Києва падіння БпЛА, є поранені",
+    "link": "https://ua.korrespondent.net/city/kiev/4915101-u-dvokh-raionakh-kyieva-padinnia-bpla-ye-poraneni",
+    "pubDate": "2026-09-26 09:51:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575280.jpg\">В столиці постраждали п'ятеро цивільних через ворожі атаки. Медики надали їм допомогу амбулаторно та на місці.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Así son los nuevos jugadores del Movistar Estudiantes",
+    "link": "https://as.com/baloncesto/mas_baloncesto/asi-son-los-nuevos-jugadores-del-movistar-estudiantes-f202609-n/",
+    "pubDate": "2026-09-26 09:32:14",
+    "category": "Baloncesto",
+    "description": "El conjunto colegial comienza este sábado su sexta temporada en Primera FEB ante el Insolac Caja 87 en el Movistar Arena (12:00 horas, BalONcesto TV).",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп ініціює переговори між США, Росією та Китаєм",
+    "link": "https://ua.korrespondent.net/world/4915098-tramp-initsiuiie-perehovory-mizh-ssha-rosiieui-ta-kytaiem",
+    "pubDate": "2026-09-26 09:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575267.jpg\">Лідери США та Китаю обговорили актуальні глобальні проблеми, зокрема ситуацію навколо Росії, Північної Кореї та Ірану.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Mercè 2026, en directo: última hora, programa, conciertos y todo lo que pasa hoy en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260926/merce-2026-directo-ultima-hora-134622214",
+    "pubDate": "2026-09-26 09:10:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260923/toni-meritxell-falgueras-convierten-pregon-merce-barcelona-homenaje-comercio-historico-134606036\" >Toni y Meritxell Falgueras convierten el pregón de la Mercè en un canto al comercio tradicional</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія запланувала рекордні знижки на нафту",
+    "link": "https://ua.korrespondent.net/business/economics/4915095-rosiia-zaplanuvala-rekordni-znyzhky-na-naftu",
+    "pubDate": "2026-09-26 09:03:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575254.jpg\">Експорт сирої нафти, по якому незабаром можуть вдарити \"пекельні санкції\" США, також помітно знизиться.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un desahucio, unas joyas y gas pimienta: tres pruebas de un país en tensión",
+    "link": "https://www.elperiodico.com/es/politica/20260926/desahucio-maricarmen-joyas-zapatero-gas-pimienta-ceuta-134649315",
+    "pubDate": "2026-09-26 09:00:59",
+    "category": "",
+    "description": "<h2 class=\"item\">A menos de un año de las urnas, la política española acelera la búsqueda de culpables mientras se acumulan los problemas sin resolver</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Niño cobra fuerza y ya se perfila como el más intenso desde 1950: medio mundo en riesgo de inundaciones, y el otro, de sequías",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/nino-intensidad-previsiones-sequias-lluvias-torrenciales-inundaciones-134684053",
+    "pubDate": "2026-09-26 09:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">La Organización Meteorológica Mundial avanza que este fenómeno seguirá creciendo con una intensidad \"muy fuerte\" hasta como mínimo febrero de 2027</h2><h2 class=\"item\"> En España, los pronósticos apuntan a una mayor probabilidad de un otoño y un invierno de lluvias torrenciales y riesgo de inundaciones </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260613/nino-espana-efectos-calor-lluvias-verano-otono-131349972\">¿Qué efectos tendrá El Niño en España? Los expertos estudian el riesgo de veranos de calor (aún más) extremo y otoños de lluvias torrenciales</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260829/fenomeno-el-nino-clima-extremo-aumento-precios-inflacion-materias-primeras-alimentos-efectos-economia-133523191\">El Niño amenaza con encarecer hasta un 15% las materias primas alimentarias y agravar los extremos climáticos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La huella de Franco en las mujeres",
+    "link": "https://www.elperiodico.com/es/opinion/20260926/huella-franco-mujeres-machismo-articulo-ana-bernal-trivino-134692197",
+    "pubDate": "2026-09-26 09:00:58",
+    "category": "",
+    "description": "<h2>Cuando no han sido leyes franquistas, han sido las dinámicas y prácticas de aquel pasado machista en plena democracia</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260923/70-anos-maricarmen-casa-retiro-contrato-desahucio-134616223\">Los 70 años de Maricarmen en su casa de Retiro: del contrato de 1956 al desahucio de 2026</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Jose Coronado: \"Los lectores de Pérez-Reverte no se van a sentir defraudados con 'El problema final' de Netflix\"",
+    "link": "https://www.elperiodico.com/es/tele/20260926/jose-coronado-problema-final-serie-netflix-maria-valverde-perez-reverte-134550295",
+    "pubDate": "2026-09-26 09:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El actor protagoniza, junto a María Valverde, la serie de misterio que rinde homenaje al cine clásico</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260924/netflix-problema-final-serie-jose-coronado-perez-reverte-134545540\">Jose Coronado juega a ser Sherlock Holmes en 'El problema final', el homenaje de Netflix a los clásicos del misterio</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260925/maribel-verdu-problema-final-serie-netflix-martino-rivas-134560257\">Maribel Verdú ('El problema final'): \"A mí la opinión de Pérez-Reverte me importaba mucho porque no se corta\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El desahucio de ida ¿y vuelta? de Maricarmen: la semana que conmocionó a Madrid y puso el problema de la vivienda aún más en el foco",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/desahucio-ida-vuelta-maricarmen-semana-conmociono-madrid-problema-vivienda-alquiler-fondo-134701895",
+    "pubDate": "2026-09-26 08:57:51",
+    "category": "",
+    "description": "<h2>La indignación social por el desalojo de la vecina de 87 ha agitado el escenario político y ha abierto la puerta a un regreso: el Ayuntamiento ha descartado la primera propuesta del Urbagestión para su vuelta a casa, aunque mediará entre el fondo y la la desahuciada </h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "María Dueñas: \"Suelo tener mujeres protagonistas conscientemente porque la literatura nos ha dado muy poco reconocimiento\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/maria-duenas-suelo-mujeres-protagonistas-134701823",
+    "pubDate": "2026-09-26 08:55:41",
+    "category": "",
+    "description": "<h2>La escritora, que se dio a conocer en 2009 con ‘El tiempo entre costuras’, rinde tributo en sus novelas a mujeres “que fueron valientes, que fueron trabajadoras, que tuvieron coraje, que cayeron y se levantaron, y casi siempre calladas y en situaciones complejas”</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adiós a Peinado: el juez del caso Begoña se jubila tras una instrucción cuestionada por la calle y reconducida desde la Audiencia Provincial",
+    "link": "https://www.elperiodico.com/es/politica/20260926/adios-peinado-juez-caso-begona-134688319",
+    "pubDate": "2026-09-26 08:46:08",
+    "category": "",
+    "description": "<h2>Este viernes fue el último día de Juan Carlos Peinado en la plaza número 41 de Instrucción de Madrid, que abandona al llegar a la edad tope de 72 años para ser juez y tras sentar en el banquillo a la esposa de Pedro Sánchez</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rocket Lab вивела на орбіту японський супутник",
+    "link": "https://ua.korrespondent.net/tech/space/4915092-Rocket-Lab-vyvela-na-orbitu-yaponskyi-suputnyk",
+    "pubDate": "2026-09-26 08:44:00",
+    "category": "Космос",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575229.jpg\">Супутник StriX японської компанії Synspective масою 100 кг, оснащений радаром із синтезованою апертурою (SAR), призначений для зйомки поверхні Землі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "СБУ викрила канал контрабанди старовинних артефактів",
+    "link": "https://ua.korrespondent.net/ukraine/4915090-sbu-vykryla-kanal-kontrabandy-starovynnykh-artefaktiv",
+    "pubDate": "2026-09-26 08:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575216.jpg\">Житель Тернопільського району налагодив системний збут іноземцям різноманітних артефактів на одному із міжнародних інтернет-аукціонів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo | Aumentan a al menos siete los muertos y a 46 los heridos por varios ataques rusos sobre Kiev",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-26 08:17:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "OpenAI intentó acceder sin autorización a webs de agencias del Gobierno de EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/openai-intento-acceder-sin-autorizacion-webs-gobierno-eeuu-134701246",
+    "pubDate": "2026-09-26 08:13:15",
+    "category": "",
+    "description": "<h2>La compañía también reconoció que sus herramientas de inteligencia artificial publicaron en internet 53 imágenes enviadas a ChatGPT por internautas, un incidente que involucra los datos de sus propios usuarios</h2><h2><a href=\"https://www.elperiodico.com/es/tendencias21/20260925/agente-inteligencia-artificial-openai-hackea-134664258\">Un agente de inteligencia artificial de OpenAI hackea un portal de Medicare en Australia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La señal de alerta del 4%",
     "link": "https://www.elperiodico.com/es/opinion/20260926/senal-alerta-4-ipc-deuda-articulo-joan-tapia-134694117",
     "pubDate": "2026-09-26 08:00:14",
@@ -207,6 +549,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "España estrena en Wembley su segunda estrella: \"No hemos tocado techo, tenemos mucho margen de mejora\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/inglaterra-espana-nations-league-wembley-134695482",
+    "pubDate": "2026-09-26 06:01:07",
+    "category": "",
+    "description": "<h2>La selección de Luis de la Fuente retoma la competición tras el Mundial jugando contra Inglaterra en la Nations League</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El PP pone distancia con Vox con la ayuda de Aznar ante el auge de los de Abascal en las encuestas",
     "link": "https://www.elperiodico.com/es/politica/20260926/pp-pone-distancia-vox-ayuda-134693048",
     "pubDate": "2026-09-26 06:01:01",
@@ -340,6 +691,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575100.jpg\">Американський лідер вважає поновлення бомбардувань вельми ймовірним сценарієм, пише The Wall Street Journal.",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "El canon Formentor que nos invade",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260926/canon-formentor-libro-premio-134601553",
+    "pubDate": "2026-09-26 04:50:42",
+    "category": "",
+    "description": "<h2>El premio del mismo nombre se ha convertido en una acción prescriptora para el jurado del Nobel</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Бельгія замовила для України спеціалізовані катери й дрони - ЗМІ",
