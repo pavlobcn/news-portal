@@ -1,4 +1,4 @@
-# News for 2026-09-26 19:31
+# News for 2026-09-26 20:33
 
 Previous day: [2026-09-25](./data/2026-09-25.md)
 
@@ -26,6 +26,9 @@ Previous day: [2026-09-25](./data/2026-09-25.md)
 02:08 [У Брянську та Краснодарі є "прильоти" - соцмережі](https://ua.korrespondent.net/world/russia/4915060-u-briansku-ta-krasnodari-ye-pryloty-sotsmerezhi)<br>
 
 ## as.com
+20:18 [El Bilbao descorcha la ACB por todo lo alto](https://as.com/baloncesto/el-bilbao-descorcha-la-acb-por-todo-lo-alto-f202609-n/)<br>
+19:53 [El Unicaja ficha a Matt Thomas](https://as.com/baloncesto/el-unicaja-ficha-a-matt-thomas-f202609-n/)<br>
+19:47 [El Valencia Basket vuelve a la final de la Supercopa](https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-vuelve-a-la-final-de-la-supercopa-f202609-n/)<br>
 11:28 [Luis Guil: “En el Madrid, cuando no ganas, no hay más”](https://as.com/baloncesto/acb/luis-guil-en-el-madrid-cuando-no-ganas-no-hay-mas-f202609-n/)<br>
 10:15 [El Partizán de Fuenlabrada, nueva temporada, nueva era](https://as.com/baloncesto/mas_baloncesto/el-partizan-de-fuenlabrada-nueva-temporada-nueva-era-f202609-n/)<br>
 09:32 [Así son los nuevos jugadores del Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/asi-son-los-nuevos-jugadores-del-movistar-estudiantes-f202609-n/)<br>
@@ -36,6 +39,8 @@ Previous day: [2026-09-25](./data/2026-09-25.md)
 07:04 [La Supercopa Femenina Endesa inaugura la temporada 2026/27](https://as.com/baloncesto/mas_baloncesto/la-supercopa-femenina-endesa-inaugura-la-temporada-202627-f202609-n/)<br>
 
 ## www.elperiodico.com
+20:30 [Industria y comercio son los sectores que más dinero destinan a formar a sus trabajadores: más de 240 millones de euros](https://www.elperiodico.com/es/economia/20260926/industria-comercio-sectores-mas-dinero-destinan-formar-trabajadores-240-millones-fundae-134707357)<br>
+19:45 [Maricarmen, desde el hospital, pide a la gente que luche contra los desahucios](https://www.elperiodico.com/es/videos/sociedad/maricarmen-hospital-pide-gente-luche/134715666.shtml)<br>
 19:04 [El baño de masas del papa León XIV a su paso por los Campos Elíseos parisinos](https://www.elperiodico.com/es/videos/internacional/bano-masas-papa-leon-xiv/134714663.shtml)<br>
 18:04 [Multitudinaria misa de León XIV en París: el Papa pide a 700.000 fieles no guardarse la fe "solo para ellos mismos"](https://www.elperiodico.com/es/sociedad/20260926/multitudinaria-misa-papa-leon-xiv-paris-viaje-francia-134713333)<br>
 18:00 [Irene Merchante, madre de un niño con autismo: "Si él puede adaptarse, yo también puedo"](https://www.elperiodico.com/es/sociedad/20260926/irene-merchante-madre-nino-autismo-dv-et-134672030)<br>

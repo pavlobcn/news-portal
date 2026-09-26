@@ -1,5 +1,86 @@
 [
   {
+    "title": "La Nations League, en directo: Inglaterra - España",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/nations-league-directo-inglaterra-espana-134716413",
+    "pubDate": "2026-09-26 20:32:11",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Industria y comercio son los sectores que más dinero destinan a formar a sus trabajadores: más de 240 millones de euros",
+    "link": "https://www.elperiodico.com/es/economia/20260926/industria-comercio-sectores-mas-dinero-destinan-formar-trabajadores-240-millones-fundae-134707357",
+    "pubDate": "2026-09-26 20:30:05",
+    "category": "",
+    "description": "<h2>Estos sectores encabezan el ranking de Fundae, mientras que finanzas ofrece más horas de formación por empleado formado</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Bilbao descorcha la ACB por todo lo alto",
+    "link": "https://as.com/baloncesto/el-bilbao-descorcha-la-acb-por-todo-lo-alto-f202609-n/",
+    "pubDate": "2026-09-26 20:18:33",
+    "category": "Baloncesto",
+    "description": "Un Hilliard estelar y un segundo tiempo con 63 destrozan al Manresa en el inicio de la temporada.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Росіяни не готуються до зупинки війни",
+    "link": "https://ua.korrespondent.net/ukraine/4915181-zelenskyi-rosiiany-ne-hotuuitsia-do-zupynky-viiny",
+    "pubDate": "2026-09-26 20:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575807.jpg\">Президент України підкреслив, що в Путіна завжди є якийсь привід, щоб не проводити зустрічі й переговори і не зупиняти вбивства.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los jugadores de Irlanda votan por jugar el partido contra Israel después de horas de deliberación",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/jugadores-irlanda-votan-jugar-contra-israel-nations-league-134715107",
+    "pubDate": "2026-09-26 19:53:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Uno de los futbolistas irlandeses ha abandonado la concentración al estar en desacuerdo con la decisión colectiva</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260925/republica-irlanda-israel-partido-irlandeses-detestan-jugar-nations-league-134644089\">Irlanda contra Israel, el duelo que los irlandeses desean boicotear: \"Deberían retirarse\"</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Unicaja ficha a Matt Thomas",
+    "link": "https://as.com/baloncesto/el-unicaja-ficha-a-matt-thomas-f202609-n/",
+    "pubDate": "2026-09-26 19:53:14",
+    "category": "Baloncesto",
+    "description": "El escolta estadounidense firma por dos meses, con opción hasta final de temporada, para cubrir la ausencia de Tyler Kalinoski.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Німеччині через крадіжку кабелів - перебої з рухом 300 поїздів",
+    "link": "https://ua.korrespondent.net/world/4915176-u-nimechchyni-cherez-kradizhku-kabeliv-pereboi-z-rukhom-300-poizdiv",
+    "pubDate": "2026-09-26 19:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575788.jpeg\">Поліція розглядає крадіжку кабелів як причину пошкодження залізничної інфраструктури в районі Гельзенкірхен-Юкендорф і не вважає інцидент диверсією.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Valencia Basket vuelve a la final de la Supercopa",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-valencia-basket-vuelve-a-la-final-de-la-supercopa-f202609-n/",
+    "pubDate": "2026-09-26 19:47:42",
+    "category": "Baloncesto femenino",
+    "description": "El conjunto taronja supera al vigente campeón por 73-84 en Torrejón, en un duelo marcado por la remontada fallida del Casademont Zaragoza.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Maricarmen, desde el hospital, pide a la gente que luche contra los desahucios",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/maricarmen-hospital-pide-gente-luche/134715666.shtml",
+    "pubDate": "2026-09-26 19:45:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Martín, hijo de Iker Casillas y Sara Carbonero: \"Mi padre siempre me dice que la humildad es lo más importante, que salga con energía y no me quede a medio camino\"",
     "link": "https://www.elperiodico.com/es/gente/20260926/martin-hijo-iker-casillas-sara-carbonero-134715065",
     "pubDate": "2026-09-26 19:26:06",
@@ -187,6 +268,15 @@
     "description": "<h2 class=\"item\">La corredora catalana ya había sufrido un primer percance en una carrera en la que tomó la salida afectada por un virus.</h2>",
     "topic": "спорт",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Vollering se cubre de oro en un Mundial sin Blasi, que abandonó por caída",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/vollering-campeona-mundo-montreal-caida-blasi-134712434",
+    "pubDate": "2026-09-26 17:45:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La ciclista neerlandesa, que atacó a 38 kilómetros, fue capturada, pero luego se impuso a la polaca Niewiadoma en el esprint. </h2><h2 class=\"item\">La catalana se fue al suelo a 94 kilómetros de la meta sin heridas graves.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Україна залучила $51,5 млн на охорону здоров'я",
