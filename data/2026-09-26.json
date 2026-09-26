@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ebroacero adquiere FTR y refuerza su capacidad de fundición de hierro y acero inoxidable",
+    "link": "https://www.elperiodico.com/es/economia/20260926/ebroacero-adquiere-ftr-refuerza-capacidad-bc-134666361",
+    "pubDate": "2026-09-26 23:59:54",
+    "category": "",
+    "description": "<h2>La incorporación de la empresa de Torrijos (Toledo) amplía la gama de materiales del grupo zaragozano y prepara el desarrollo de una nueva línea de acero inoxidable para atender más proyectos industriales</h2>"
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 27 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/portada-periodico-27-septiembre-2026-134721298",
+    "pubDate": "2026-09-26 23:56:11",
+    "category": "",
+    "description": ""
+  },
+  {
+    "title": "РФ планує розширити війну - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4915203-rf-planuie-rozshyryty-viinu-zelenskyi",
+    "pubDate": "2026-09-26 23:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575994.jpeg\">Не лише європейські країни можуть опинитися під тиском Росії або її союзників. Тому Україна пропонує свій досвід іншим державам у форматі Drone Deal."
+  },
+  {
+    "title": "Luis de la Fuente: \"Lo de Eric García no parece nada serio\"",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/luis-fuente-eric-garcia-parece-134721007",
+    "pubDate": "2026-09-26 23:49:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El azulgrana sintió unas molestias en la rodilla el calentamiento cuando iba a ser titular. </h2><h2 class=\"item\">El seleccionador apuntó que este domingo se le harán pruebas para determinar si sigue o no en la concentración. </h2>"
+  },
+  {
+    "title": "Sekulic: “Hay que mejorar en defensa”",
+    "link": "https://as.com/baloncesto/acb/sekulic-hay-que-mejorar-en-defensa-f202609-n/",
+    "pubDate": "2026-09-26 23:44:45",
+    "category": "Baloncesto",
+    "description": "El entrenador del Barça se muestra animado después del estreno de su equipo en ACB ante el Coruña, pero sabe que todavía queda trabajo por delante."
+  },
+  {
+    "title": "'La Bola Negra' recauda 1,3 millones en su día de estreno",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/bola-negra-recauda-millones-dia-estreno-134720845",
+    "pubDate": "2026-09-26 23:33:33",
+    "category": "",
+    "description": "<h2>Según datos de Rentrak, la película de Javier Calvo y Javier Ambrossi ha reunido a 175.000 espectadores en 414 salas de toda España</h2>"
+  },
+  {
     "title": "La verbena ‘turbo’ de La Pegatina y el pop punzante de Al·lèrgiques al Pol·len encienden la playa de Bogatell en la Mercè",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/concierto-la-pegatina-alergiques-polen-bogatell-merce-barcelona-134720599",
     "pubDate": "2026-09-26 23:29:09",
@@ -7,6 +49,13 @@
     "description": "<h2 style=\"text-align: justify;\">Los ritmos mestizos del grupo de Montcada i Reixac y las invectivas guitarreras de las barcelonesas agitaron la noche ante un público multitudinario</h2>",
     "topic": "виконавці поп музики",
     "topic_match_probability": 95
+  },
+  {
+    "title": "В Україні почав зникати сигнал телеканалів",
+    "link": "https://ua.korrespondent.net/ukraine/4915205-v-ukraini-pochav-znykaty-syhnal-telekanaliv",
+    "pubDate": "2026-09-26 23:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575995.jpg\">Проблеми з телеканалами виникли через російські атаки на українські дата-центри. Перебої спостерігаються й у абонентів деяких кабельних операторів."
   },
   {
     "title": "El Barça de Sekulic tiene puntos para dar y regalar",
@@ -45,6 +94,13 @@
     "topic_match_probability": 100
   },
   {
+    "title": "У двох районах Києва сталися прильоти",
+    "link": "https://ua.korrespondent.net/city/kiev/4915199-u-dvokh-raionakh-kyieva-stalysia-pryloty",
+    "pubDate": "2026-09-26 22:49:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575945.jpg\">У Солом'янському була пошкоджена житлова п'ятиповерхівка, а у Шевченківському районі увечері сталася пожежа у нежитловому будинку."
+  },
+  {
     "title": "Una España insaciable sobrevive a todo en Wembley para alargar su estado de gracia",
     "link": "https://www.elperiodico.com/es/deportes/20260926/inglaterra-espana-nations-league-resultado-goles-resumen-134719887",
     "pubDate": "2026-09-26 22:46:14",
@@ -52,6 +108,20 @@
     "description": "<h2>La campeona del mundo empezó ganando a Inglaterra, encajó dos goles en cuatro minutos, vio a Kane fallar un penalti y terminó conquistando el triunfo desde el banquillo</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "El Obradoiro regresa por la puerta grande",
+    "link": "https://as.com/baloncesto/acb/el-obradoiro-regresa-por-la-puerta-grande-f202609-n/",
+    "pubDate": "2026-09-26 22:45:48",
+    "category": "Obradoiro CAB",
+    "description": "El equipo gallego, que ascendió a la Liga Endesa, tumbó al MoraBanc a domicilio con remontada final."
+  },
+  {
+    "title": "Збірна України U-21 зіграла зі збірною Туреччини 2:2 у відборі Євро-2027",
+    "link": "https://ua.korrespondent.net/sport/football/4915201-zbirna-ukrainy-U-21-zihrala-zi-zbirnoui-turechchyny-22-u-vidbori-yevro-2027",
+    "pubDate": "2026-09-26 22:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575926.jpg\">Молодіжна національна команда України з футболу провела результативний матч зі збірною Туреччини, зігравши внічию у кваліфікації чемпіонату Європи-2027."
   },
   {
     "title": "Palmarés del Festival de San Sebastián 2026: lista completa de ganadores y películas premiadas",
@@ -72,6 +142,13 @@
     "topic_match_probability": 100
   },
   {
+    "title": "РФ атакувала Одесу та область, є поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4915197-rf-atakuvala-odesu-ta-oblast-ye-poraneni",
+    "pubDate": "2026-09-26 22:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575925.jpg\">В Одеській області пошкоджені приватні житлові будинки, виробничий цех, складські приміщення та вантажні автомобілі."
+  },
+  {
     "title": "Concierto de La Pegatina durante la Mercè",
     "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/concierto-pegatina-durante-merce/134719353.shtml",
     "pubDate": "2026-09-26 22:16:41",
@@ -88,6 +165,13 @@
     "description": "El conjunto madrileño supera al Hozono Global Jairis por 69-50 tras un inicio arrollador y una actuación descomunal de Sangaré.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Збірна Ірландії ухвалила рішення щодо матчу зі збірною Ізраїлю",
+    "link": "https://ua.korrespondent.net/sport/football/4915195-zbirna-irlandii-ukhvalyla-rishennia-schodo-matchu-zi-zbirnoui-izrailui",
+    "pubDate": "2026-09-26 22:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575868.jpg\">Гравці збірної Ірландії вирішили провести голосування, щоб остаточно визначити, чи вийдуть вони на матч зі збірною Ізраїлю, оскільки наближається початок матчу, проведення якого заплановано на цю неділю."
   },
   {
     "title": "На фронті відбулося 175 бойових зіткнень",
