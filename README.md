@@ -1,4 +1,4 @@
-# News for 2026-09-26 22:06
+# News for 2026-09-26 23:31
 
 Previous day: [2026-09-25](./data/2026-09-25.md)
 
@@ -26,6 +26,8 @@ Previous day: [2026-09-25](./data/2026-09-25.md)
 02:08 [У Брянську та Краснодарі є "прильоти" - соцмережі](https://ua.korrespondent.net/world/russia/4915060-u-briansku-ta-krasnodari-ye-pryloty-sotsmerezhi)<br>
 
 ## as.com
+23:02 [El Barça rezuma ilusión](https://as.com/baloncesto/acb/el-barca-rezuma-ilusion-f202609-n/)<br>
+22:12 [El Leganés se gana su sitio en la final](https://as.com/baloncesto/mas_baloncesto/el-leganes-se-gana-su-sitio-en-la-final-f202609-n/)<br>
 21:53 [Barcelona - Leyma Coruña, en directo: Liga ACB de baloncesto 2026 en vivo hoy](https://as.com/baloncesto/acb/barcelona-leyma-coruna-en-directo-liga-acb-de-baloncesto-2026-en-vivo-hoy-f202609-d/)<br>
 20:18 [El Bilbao descorcha la ACB por todo lo alto](https://as.com/baloncesto/el-bilbao-descorcha-la-acb-por-todo-lo-alto-f202609-n/)<br>
 19:53 [El Unicaja ficha a Matt Thomas](https://as.com/baloncesto/el-unicaja-ficha-a-matt-thomas-f202609-n/)<br>
@@ -40,6 +42,8 @@ Previous day: [2026-09-25](./data/2026-09-25.md)
 07:04 [La Supercopa Femenina Endesa inaugura la temporada 2026/27](https://as.com/baloncesto/mas_baloncesto/la-supercopa-femenina-endesa-inaugura-la-temporada-202627-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:05 [El Barça de Sekulic tiene puntos para dar y regalar](https://www.elperiodico.com/es/deportes/20260926/barca-sekulic-puntos-dar-regalar-134716780)<br>
+22:34 [Palmarés del Festival de San Sebastián 2026: lista completa de ganadores y películas premiadas](https://www.elperiodico.com/es/ocio-y-cultura/20260926/palmares-festival-san-sebastian-2026-134719531)<br>
 21:50 [Concha de Oro para Mike Leigh: San Sebastián se rinde al maestro del cine social](https://www.elperiodico.com/es/ocio-y-cultura/20260926/concha-oro-mike-leigh-festival-san-sebastian-cine-134716708)<br>
 21:38 ["Es espectacular": el ‘correfoc’ estrena su nueva Porta de l’Infern entre fuego y pólvora](https://www.elperiodico.com/es/barcelona/20260926/espectacular-correfoc-estrena-nueva-porta-merce-fiestas-barcelona-134717987)<br>
 21:10 [Manuel Martínez, líder de Medina Azahara, despide a Eduardo Rodríguez Rodway, fundador de Triana: "Es una gran pérdida para la música"](https://www.elperiodico.com/es/ocio-y-cultura/20260926/medina-azahara-eduardo-rodriguez-rodway-134717123)<br>

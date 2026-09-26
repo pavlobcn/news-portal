@@ -1,5 +1,95 @@
 [
   {
+    "title": "La verbena ‘turbo’ de La Pegatina y el pop punzante de Al·lèrgiques al Pol·len encienden la playa de Bogatell en la Mercè",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/concierto-la-pegatina-alergiques-polen-bogatell-merce-barcelona-134720599",
+    "pubDate": "2026-09-26 23:29:09",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Los ritmos mestizos del grupo de Montcada i Reixac y las invectivas guitarreras de las barcelonesas agitaron la noche ante un público multitudinario</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Barça de Sekulic tiene puntos para dar y regalar",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/barca-sekulic-puntos-dar-regalar-134716780",
+    "pubDate": "2026-09-26 23:05:53",
+    "category": "",
+    "description": "<h2>Balcerowski (21 puntos sin fallo, 30 de valoración) es el pilar que sustenta el triunfo azulgrana ante un recién ascendido que también disfrutó</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Barça rezuma ilusión",
+    "link": "https://as.com/baloncesto/acb/el-barca-rezuma-ilusion-f202609-n/",
+    "pubDate": "2026-09-26 23:02:18",
+    "category": "Baloncesto",
+    "description": "Victoria del equipo azulgrana en su debut en la ACB. Un bravo Coruña pereció en un último cuarto de dominio local. Balcerowski, el mejor. Parra y Martin cogen impulso. Y el equipo genera un optimismo incontestable.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Modric amarga el debut de Santi Denia al frente de la República Checa (1-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/modric-amarga-debut-santi-denia-134719989",
+    "pubDate": "2026-09-26 22:58:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El jugador del Milan, de 41 años, marcó el primer tanto de Croacia en un intenso duelo en Praga.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lamine y Kane, dos potenciales Balón de Oro que hablan en el campo, sobre todo el jugador del Barça",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/lamine-kane-potenciales-balon-oro-134717975",
+    "pubDate": "2026-09-26 22:57:36",
+    "category": "",
+    "description": "<h2 class=\"item\">En la última aparición de ambos antes del cierre de la votación por el galardón a mejor jugador, el extremo del Barça ofreció una versión muy sólida de sí mismo en el enfrentamiento de Wembley</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260926/inglaterra-espana-nations-league-resultado-goles-resumen-134719887\">Una España insaciable sobrevive a todo en Wembley para alargar su estado de gracia (2-3)</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una España insaciable sobrevive a todo en Wembley para alargar su estado de gracia",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/inglaterra-espana-nations-league-resultado-goles-resumen-134719887",
+    "pubDate": "2026-09-26 22:46:14",
+    "category": "",
+    "description": "<h2>La campeona del mundo empezó ganando a Inglaterra, encajó dos goles en cuatro minutos, vio a Kane fallar un penalti y terminó conquistando el triunfo desde el banquillo</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Palmarés del Festival de San Sebastián 2026: lista completa de ganadores y películas premiadas",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/palmares-festival-san-sebastian-2026-134719531",
+    "pubDate": "2026-09-26 22:34:49",
+    "category": "",
+    "description": "<h2 class=\"item\">'Tender Loving Care' se ha llevado la Concha de Oro a la mejor película y el premio al mejor guion</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260926/concha-oro-mike-leigh-festival-san-sebastian-cine-134716708\">Concha de Oro para Mike Leigh: San Sebastián se rinde al maestro del cine social</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alcaraz se echa a Europa a la espalda para igualar la Laver Cup",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/alcaraz-echa-europa-espalda-igualar-134719607",
+    "pubDate": "2026-09-26 22:29:48",
+    "category": "",
+    "description": "<h2 class=\"item\">El astro murciano tumbó este sábado al estadounidense Taylor Fritz tras salvar dos bolas de partido en una dura batalla (6-3, 4-6 y 13-11).</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Concierto de La Pegatina durante la Mercè",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/concierto-pegatina-durante-merce/134719353.shtml",
+    "pubDate": "2026-09-26 22:16:41",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Leganés se gana su sitio en la final",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-leganes-se-gana-su-sitio-en-la-final-f202609-n/",
+    "pubDate": "2026-09-26 22:12:28",
+    "category": "Baloncesto",
+    "description": "El conjunto madrileño supera al Hozono Global Jairis por 69-50 tras un inicio arrollador y una actuación descomunal de Sangaré.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "На фронті відбулося 175 бойових зіткнень",
     "link": "https://ua.korrespondent.net/ukraine/4915193-na-fronti-vidbulosia-175-boiovykh-zitknen",
     "pubDate": "2026-09-26 21:58:00",
