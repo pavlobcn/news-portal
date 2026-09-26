@@ -1,9 +1,10 @@
-# News for 2026-09-26 15:52
+# News for 2026-09-26 17:02
 
 Previous day: [2026-09-25](./data/2026-09-25.md)
 
 ## ua.korrespondent.net
 14:50 [У Росії майже перестали відкривати нові продуктові магазини - ЗМІ](https://ua.korrespondent.net/world/russia/4915133-u-rosii-maizhe-perestaly-vidkryvaty-novi-produktovi-mahazyny-zmi)<br>
+13:22 [Ракети Нептун уразили стратегічний завод у Азові](https://ua.korrespondent.net/ukraine/4915123-rakety-neptun-urazyly-stratehichnyi-zavod-u-azovi)<br>
 12:57 [Суми зазнали бомбового удару, є загиблі](https://ua.korrespondent.net/ukraine/4915120-sumy-zaznaly-bombovoho-udaru-ye-zahybli)<br>
 12:33 [У Києві знайшли бойову частину російського дрона](https://ua.korrespondent.net/city/kiev/4915117-u-kyievi-znaishly-boiovu-chastynu-rosiiskoho-drona)<br>
 10:35 [Росіяни атакували вантажівки на Одещині](https://ua.korrespondent.net/ukraine/4915106-rosiiany-atakuvaly-vantazhivky-na-odeschyni)<br>
@@ -30,6 +31,14 @@ Previous day: [2026-09-25](./data/2026-09-25.md)
 07:04 [La Supercopa Femenina Endesa inaugura la temporada 2026/27](https://as.com/baloncesto/mas_baloncesto/la-supercopa-femenina-endesa-inaugura-la-temporada-202627-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:01 [Las webs de Adif vuelve a funcionar este sábado tras estar suspendida más de 24 horas por un ciberataque](https://www.elperiodico.com/es/economia/20260926/web-adif-vuelve-funcionar-sabado-suspendida-ciberataque-134711659)<br>
+16:44 [Tres heridos al derrumbarse el techo de una vivienda en Canovelles](https://www.elperiodico.com/es/sociedad/20260926/tres-heridos-derrumbarse-techo-vivienda-canovelles-barcelona-134711549)<br>
+16:34 [Adiós a Eduardo Rodríguez Rodway, guitarra de Triana, la cola del viento](https://www.elperiodico.com/es/ocio-y-cultura/20260926/adios-eduardo-rodriguez-rodway-guitarra-134711495)<br>
+16:20 [Tiempo en Catalunya mañana domingo: Bajada de temperaturas y primeros chubascos en Girona](https://www.elperiodico.com/es/tiempo/20260926/tiempo-cataluna-manana-domingo-27-de-septiembre-lluvia-temperaturas-dv-loc-134709977)<br>
+16:15 [No es necesario caminar 10.000 pasos al día: con muchos menos se reduce el riesgo de muerte por cualquier causa](https://www.elperiodico.com/es/salud/20260926/pasos-diarios-caminar-salud-necesario-dv-et-134554457)<br>
+16:01 [Los cardiólogos alertan del corazón de los niños: el 35% tiene ya dos o más factores de riesgo cardiovascular: "Son datos descorazonadores"](https://www.elperiodico.com/es/sanidad/20260926/cardiologos-alertan-riesgo-infantil-problemas-cardiovasculares-enfermedades-corazon-134381098)<br>
+16:01 [El cardenal Omella se queda sin plomos, pero derrocha humor en la Mercè](https://www.elperiodico.com/es/barcelona/20260926/cardenal-omella-humor-merce-134676691)<br>
+15:56 [La Casa de Murcia en Barcelona celebra su gran fiesta](https://www.elperiodico.com/es/barcelona/20260926/casa-murcia-barcelona-celebra-gran-134709227)<br>
 15:00 [Luz asombrada](https://www.elperiodico.com/es/opinion/20260926/luz-asombrada-septiembre-134695899)<br>
 14:48 [La Administración Metropolitana de Bangkok declara el estado de desastre por inundaciones](https://www.elperiodico.com/es/videos/internacional/administracion-metropolitana-bangkok-declara-desastre/134709043.shtml)<br>
 14:38 [Bangkok declara el estado de desastre por inundaciones tras un temporal de fuertes lluvias](https://www.elperiodico.com/es/internacional/20260926/bangkok-declara-desastre-inundaciones-temporal-134708835)<br>
