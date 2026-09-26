@@ -1,5 +1,284 @@
 [
   {
+    "title": "Martín, hijo de Iker Casillas y Sara Carbonero: \"Mi padre siempre me dice que la humildad es lo más importante, que salga con energía y no me quede a medio camino\"",
+    "link": "https://www.elperiodico.com/es/gente/20260926/martin-hijo-iker-casillas-sara-carbonero-134715065",
+    "pubDate": "2026-09-26 19:26:06",
+    "category": "",
+    "description": "<h2>El joven portero juega en las categorías inferiores del Real Madrid</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "На Харківщині російський дрон атакував автомобіль, водій загинув",
+    "link": "https://ua.korrespondent.net/ukraine/4915174-na-kharkivschyni-rosiiskyi-dron-atakuvav-avtomobil-vodii-zahynuv",
+    "pubDate": "2026-09-26 19:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575752.jpg\">26 вересня близько 12:00 на автодорозі неподалік повороту до села Питомник Харківського району, російські військові атакували FPV-дроном цивільний автомобіль.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El baño de masas del papa León XIV a su paso por los Campos Elíseos parisinos",
+    "link": "https://www.elperiodico.com/es/videos/internacional/bano-masas-papa-leon-xiv/134714663.shtml",
+    "pubDate": "2026-09-26 19:04:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuestión de Estado: Maricarmen",
+    "link": "https://www.elperiodico.com/es/politica/20260926/cuestion-maricarmen-134639159",
+    "pubDate": "2026-09-26 19:01:10",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las empresas dejan sin gastar al menos 627 millones de euros al año en formación subvencionada para trabajadores",
+    "link": "https://www.elperiodico.com/es/economia/20260926/empresas-dejan-gastar-627-millones-134714612",
+    "pubDate": "2026-09-26 19:01:09",
+    "category": "",
+    "description": "<h2>El Ministerio de Trabajo sostiene que el año pasado se ejecutaron el 72,3% de los fondos disponibles</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Напад у монастирі в Польщі: українця взяли під варту",
+    "link": "https://ua.korrespondent.net/world/4915170-napad-u-monastyri-v-polschi-ukraintsia-vzialy-pid-vartu",
+    "pubDate": "2026-09-26 19:00:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575717.jpg\">Підозрюваного не доставляли на судове засідання через стан його здоров'я. Крім того, за рішенням суду, фігурант перебуватиме під вартою в умовах лікарні з посиленим режимом безпеки.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una multitudinaria marcha en protesta por el desahucio de Maricarmen recorre el centro de Madrid",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/multitudinaria-marcha-protesta-desahucio-maricarmen-madrid-134714213",
+    "pubDate": "2026-09-26 18:49:24",
+    "category": "",
+    "description": "<h2>Los organizadores quieren que el Gobierno incluya en el decreto de vivienda la obligación para los arrendadores de acreditar una causa justificada para no renovar el contrato</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Збірна Грузії на матч з Україною вийде з новим тренером",
+    "link": "https://ua.korrespondent.net/sport/football/4915172-zbirna-hruzii-na-match-z-ukrainoui-vyide-z-novym-trenerom",
+    "pubDate": "2026-09-26 18:43:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575716.jpg\">Змінився керманич грузинської команди, яка вже 28 вересня проведе поєдинок у рамках Ліги націй зі збірною України.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lavrov advierte ante la ONU que \"se cumplirán\" los objetivos que Rusia se planteó al invadir Ucrania hace casi cinco años",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/lavrov-advierte-onu-cumpliran-objetivos-invasion-ucrania-134714055",
+    "pubDate": "2026-09-26 18:40:59",
+    "category": "",
+    "description": "<h2>Ante la Asamblea General del organismo multilateral, el ministro de Exteriores ruso carga contra Europa y la acusa de sabotear la paz por continuar enviando armas al Gobierno de Kiev para resistir el ataque de Rusia </h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дата-центр Cosmonova припинив роботу",
+    "link": "https://ua.korrespondent.net/kyiv/4915160-data-tsentr-Cosmonova-prypynyv-robotu",
+    "pubDate": "2026-09-26 18:35:00",
+    "category": "Київ новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575661.jpg\">Зараз доступ до ДЦ частково обмежений відповідними службами навіть для фахівців DC|COSMONOVA, повідомляють у компанії.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Victoria con récord individual del Barça ante el Logroño United (0-2)",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/victoria-record-individual-barca-logrono-134711781",
+    "pubDate": "2026-09-26 18:33:22",
+    "category": "",
+    "description": "<h2>La azulgrana Mayssa Baha, con 15 años, 8 meses y 10 días, es la jugadora más joven de la historia en marcar un gol en la Liga F</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Глава Zuffa Boxing зреагував на звинувачення у зриві бою Ф’юрі-Джошуа",
+    "link": "https://ua.korrespondent.net/sport/boks/4915168-hlava-Zuffa-Boxing-zreahuvav-na-zvynuvachennia-u-zryvi-boui-fuiri-dzhoshua",
+    "pubDate": "2026-09-26 18:18:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575698.jpg\">Дейна Вайт не вважає свою участь в організації поєдинку британських боксерів чимось надзвичайним.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mbappé se lesionó la rodilla en su primer partido con sus nuevas botas On: estará unas dos semanas de baja",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/mbappe-lesiono-primer-partido-nuevas-botas-on-134712630",
+    "pubDate": "2026-09-26 18:11:27",
+    "category": "",
+    "description": "<h2>El Turquía-Francia fue la primera vez en que el delantero francés no calzó zapatillas Nike, la marca a la que estaba asociado desde niño</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Київщині погасили масштабну пожежу, яка спалахнула після атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4915156-na-kyivschyni-pohasyly-masshtabnu-pozhezhu-yaka-spalakhnula-pislia-ataky-rf",
+    "pubDate": "2026-09-26 18:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575652.jpg\">У ніч на 25 вересня ворог уже намагався атакувати цю складську будівлю. Тоді об’єкт зазнав пошкоджень, однак пожежі не виникло. Вже після денної атаки тут спалахнула масштабна пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Multitudinaria misa de León XIV en París: el Papa pide a 700.000 fieles no guardarse la fe \"solo para ellos mismos\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/multitudinaria-misa-papa-leon-xiv-paris-viaje-francia-134713333",
+    "pubDate": "2026-09-26 18:04:59",
+    "category": "",
+    "description": "<h2>El Santo Padre ha instado a los congregados a \"llevar la esperanza allí donde reinan el desaliento y la aridez espiritual\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump dice que habló con Delcy Rodríguez sobre elecciones y asegura que fue \"fantástica\"",
+    "link": "https://www.elperiodico.com/es/videos/internacional/trump-dice-hablo-delcy-rodriguez/134713273.shtml",
+    "pubDate": "2026-09-26 18:03:32",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Entrará en vigor: Catalunya prohibirá una maniobra a las motos que sí se permitirá en el resto de España",
+    "link": "https://www.elperiodico.com/es/catalunya/20260926/motos-arcen-cataluna-normativa-siniestros-dv-loc-131924756",
+    "pubDate": "2026-09-26 18:02:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La decisión llega en un momento de especial preocupación por los 21 motoristas fallecidos hasta inicios de este mes de junio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/motor/20260625/guantes-calzado-cerrado-multas-200-nueva-normativa-motoristas-131756200\">Guantes, calzado cerrado y multas de 200 euros: así cambia la normativa para motoristas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sucesos/20260614/mossos-aumentan-controles-motos-semana-accidentes-siniestralidad-viaria-131389917\">Los Mossos aumentan los controles en fin de semana para reducir el número de motoristas muertos en carretera</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Irene Merchante, madre de un niño con autismo: \"Si él puede adaptarse, yo también puedo\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/irene-merchante-madre-nino-autismo-dv-et-134672030",
+    "pubDate": "2026-09-26 18:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La transición progresiva hacia la escuela Jeroni de Moragas ha facilitado que Sergi, un niño de ocho años con autismo, se adapte a las nuevas rutinas y mejore su comunicación</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260511/judit-arguera-maestra-diagnosticada-autismo-129832696\">Judit Argüera, maestra diagnosticada con autismo: \"Los niños están preparados. ¿Lo está la comunidad educativa?, ¿lo están los padres?\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tragedia en el rally de Llanes: muere una copiloto de 20 años en un aparatoso accidente",
+    "link": "https://www.elperiodico.com/es/sucesos/20260926/tragedia-rally-llanes-asturias-muere-joven-copilota-134712959",
+    "pubDate": "2026-09-26 17:53:44",
+    "category": "",
+    "description": "<h2>El piloto resultó herido aunque pudo escapar del vehículo y fue trasladado al hospital</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ф’юрі обурився до межі можливим скасуванням бою з Джошуа",
+    "link": "https://ua.korrespondent.net/sport/boks/4915166-fuiri-oburyvsia-do-mezhi-mozhlyvym-skasuvanniam-boui-z-dzhoshua",
+    "pubDate": "2026-09-26 17:48:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575680.jpg\">Тайсон Ф’юрі побачив у можливому скасуванні бою витівки егоїстичного, на його думку, Едді Гірна, якому усе не так.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Paula Blasi se cae y abandona en el Mundial de Montreal",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/paula-blasi-cae-abandona-mundial-montreal-134712434",
+    "pubDate": "2026-09-26 17:45:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La corredora catalana ya había sufrido un primer percance en una carrera en la que tomó la salida afectada por un virus.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна залучила $51,5 млн на охорону здоров'я",
+    "link": "https://ua.korrespondent.net/ukraine/4915164-ukraina-zaluchyla-515-mln-na-okhoronu-zdorovia",
+    "pubDate": "2026-09-26 17:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575679.jpg\">Ці кошти отримані від уряду Японії в межах проєкту Світового банку THRIVE на розвиток системи охорони здоров’я.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "China critica la política estadounidense en Cuba e Irán tras la cumbre de Xi y Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/china-critica-politica-estadounidense-cuba-cumbre-onu-xi-trump-134712714",
+    "pubDate": "2026-09-26 17:44:36",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Trump cree que habrá un acuerdo con Cuba y no será \"necesaria\" una intervención militar",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/trump-cree-habra-acuerdo-cuba-134712524",
+    "pubDate": "2026-09-26 17:33:14",
+    "category": "",
+    "description": "<h2>El mandatario estadounidense ha hecho estas declaraciones después de que CBS News publicase que las Fuerzas Armadas están preparando para una acción militar en la isla</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un ataque ruso con 173 drones deja al menos dos mujeres muertas en Zaporiyia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/ataque-ruso-173-drones-deja/134712376.shtml",
+    "pubDate": "2026-09-26 17:32:02",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Тренер збірної Угорщини прокоментував поразку від України",
+    "link": "https://ua.korrespondent.net/sport/football/4915161-trener-zbirnoi-uhorschyny-prokomentuvav-porazku-vid-ukrainy",
+    "pubDate": "2026-09-26 17:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575660.jpg\">Перший матч у рамках Ліги націй між збірними Угорщини та України став переможним для української національної команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "De Siurana a Miravet: las escapadas de otoño más espectaculares por Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260926/cataluna-tarragona-mejores-pueblos-encanto-otono-viajes-escapadas-dv-loc-122066721",
+    "pubDate": "2026-09-26 17:26:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Las localidades se convierten en refugios ideales con vistas dignas de película</h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/tarragona/20250903/reus-alquiler-tarragona-vivienda-precio-barcelona-sueldo-dv-loc-120946076\" >El precio del alquiler en Reus: este es el dinero que necesitas para pagar un piso</a></u></h2><h2 class=\"item\"><u><a href=\"https://www.elperiodico.com/es/catalunya/20250824/costa-brava-pueblos-desaparecido-playas-girona-emporda-peratallada-dv-loc-120816241\" >Estos son los pueblos de la Costa Brava que han desaparecido</a></u></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На найбільшому вугільному родовищі Росії стався вибух, є загиблі",
+    "link": "https://ua.korrespondent.net/world/russia/4915152-na-naibilshomu-vuhilnomu-rodovyschi-rosii-stavsia-vybukh-ye-zahybli",
+    "pubDate": "2026-09-26 17:20:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575598.jpg\">Ельгинське родовище розташоване на південному сході Якутії та вважається найбільшим у Росії й одним із найбільших у світі родовищ коксівного вугілля.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ф’юрі і Джошуа можуть опинитися поза рингом через невідповідність промоушна",
+    "link": "https://ua.korrespondent.net/sport/boks/4915158-fuiri-i-dzhoshua-mozhut-opynytysia-poza-rynhom-cherez-nevidpovidnist-promoushna",
+    "pubDate": "2026-09-26 17:15:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575634.jpg\">Британські боксери, за даними джерела, знову можуть залишитися без організованого бою.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Carlos González, pediatra: \"Dormir con tu hijo en un sofá o en un sillón conlleva un riesgo muy alto de muerte súbita\"",
+    "link": "https://www.elperiodico.com/es/salud/20260926/muerte-subita-bebes-dormir-riesgos-prevencion-carlos-gonzalez-pediatra-dv-et-134549641",
+    "pubDate": "2026-09-26 17:10:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto recoge varias recomendaciones para evitar este tipo de casos u otros como la asfixia</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260831/psicologia-ninos-duermen-padres-crecimiento-independencia-dv-et-133631949\" >Los psicólogos, sobre que los niños duerman con sus padres: \"Lejos de protegerlos del miedo y la inseguridad, interfieren en su crecimiento e independencia\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260331/colecho-ninos-mayores-duermen-misma-cama-padres-problema-125687571\" >La moda de la crianza positiva alarga el colecho: “Si tu hijo termina la primaria y sigue en tu cama, hay un problema”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La justicia frena a la DGT: una sentencia aclara cuándo no te pueden multar por tener la ITV caducada",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260926/multa-itv-caducada-justicia-dgt-dv-132542170",
+    "pubDate": "2026-09-26 17:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260706/itv-conducir-caducada-cita-previa-dv-113953137\" >¿Tienes caducada la ITV pero ya has cogido cita? Esto es lo que puede pasar si te para la Guardia Civil</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/motor/20260710/ojo-multa-poner-llevar-pegatinas-coche-132286555\" >¡Ojo! La multa que te pueden poner por llevar estas pegatinas este verano</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Las webs de Adif vuelve a funcionar este sábado tras estar suspendida más de 24 horas por un ciberataque",
     "link": "https://www.elperiodico.com/es/economia/20260926/web-adif-vuelve-funcionar-sabado-suspendida-ciberataque-134711659",
     "pubDate": "2026-09-26 17:01:34",
@@ -7,6 +286,15 @@
     "description": "<h2 class=\"item\">La empresa ferroviaria asegura que está \"garantizada\" la seguridad de sus dos portales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260925/renfe-sufre-ciberataque-compromete-nombres-134694901\">Renfe sufre un ciberataque que compromete nombres y correos de usuarios, aunque matiza que el servicio se mantiene operativo</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Збірна України перемагає збірну Угорщини в Лізі націй: підсумки матчу",
+    "link": "https://ua.korrespondent.net/sport/football/4915154-zbirna-ukrainy-peremahaie-zbirnu-uhorschyny-v-lizi-natsii-pidsumky-matchu",
+    "pubDate": "2026-09-26 16:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575616.jpg\">Українська національна команда здолала суперника за мінімальної результативності в рамках першого туру Ліги націй.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "ЦПД заявив про інфокампанію Росії із закликами до протестів в Україні",
@@ -34,6 +322,15 @@
     "description": "<h2>Nacido en Sevilla en 1945, fue exmiembro de Los Payos y guitarra del emblemático grupo Triana, pionero del rock andaluz</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "На Одещині поранили ножем військовослужбовця ТЦК",
+    "link": "https://ua.korrespondent.net/city/odessa/4915142-na-odeschyni-poranyly-nozhem-viiskovosluzhbovtsia-ttsk",
+    "pubDate": "2026-09-26 16:30:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575540.jpg\">У ТЦК повідомили, що постраждалий - ветеран бойових дій, має поранення, отримане під час захисту України на фронті.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
   },
   {
     "title": "Eludir el bloqueo de Ormuz gota a gota: el petróleo circula en miles de camiones",
@@ -72,6 +369,15 @@
     "topic_match_probability": 75
   },
   {
+    "title": "Переможець Гран-Прі Азербайджану фінішував з відривом лише у 0,196 секунди",
+    "link": "https://ua.korrespondent.net/sport/formula/4915141-peremozhets-hran-pri-azerbaidzhanu-finishuvav-z-vidryvom-lyshe-u-0196-sekundy",
+    "pubDate": "2026-09-26 16:12:00",
+    "category": "Новини Формули-1",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575576.jpg\">Пілот Mercedes Джордж Расселл здобув третю перемогу сезону та вперше у кар'єрі отримав \"Великий шлем\", а Хаджар з Red Bull піднявся на подіум у першій гонці після повернення до перегонів.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Las familias toman La Mercè este sábado entre circo, acrobacias y espectáculos internacionales",
     "link": "https://www.elperiodico.com/es/barcelona/20260926/familias-festes-de-la-merce-2026-sabado-circo-acrobacias-espectaculos-internacionales-barcelona-134710795",
     "pubDate": "2026-09-26 16:07:32",
@@ -79,6 +385,15 @@
     "description": "<h2 class=\"item\">El Port Olímpic y el Parc del Fòrum concentran durante la jornada a centenares de personas, muchas de ellas familias con niños, en una programación marcada por el circo, las acrobacias y el encuentro cultural con Shanghái</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260915/guia-merce-2026-barcelona-conciertos-actividades-programa-134308641\">Guía de La Mercè 2026 en Barcelona: conciertos, actividades y programa</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260926/buscador-conciertos-merce-2026-fecha-134359002\">Buscador de los conciertos de la Mercè 2026 por fecha, horario y escenario</a></h2>",
     "topic": "qué hacer esta semana en Barcelona",
     "topic_match_probability": 85
+  },
+  {
+    "title": "На Дніпропетровщині росіяни вбили жінку і неповнолітню дівчину",
+    "link": "https://ua.korrespondent.net/city/dnepr/4915146-na-dnipropetrovschyni-rosiiany-vbyly-zhinku-i-nepovnolitnui-divchynu",
+    "pubDate": "2026-09-26 16:05:00",
+    "category": "Дніпро",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575575.jpg\">17-річна дівчина та 59-річна жінка загинули внаслідок ворожого авіаудару по Синельниківщині. Ще двоє людей дістали поранення.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Los cardiólogos alertan del corazón de los niños: el 35% tiene ya dos o más factores de riesgo cardiovascular: \"Son datos descorazonadores\"",
@@ -150,6 +465,15 @@
     "category": "",
     "description": "<h2 class=\"item\">La Patrona ha insistido en que no quiere mantener ninguna guerra ni con María José ni con Juls </h2>",
     "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Новий керманич збірної України оцінив першу гру команди з ним на чолі",
+    "link": "https://ua.korrespondent.net/sport/football/4915144-novyi-kermanych-zbirnoi-ukrainy-otsinyv-pershu-hru-komandy-z-nym-na-choli",
+    "pubDate": "2026-09-26 15:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575448.jpg\">Українська команда виграла свій перший матч під керівництвом італійського спеціаліста Андреа Мальдери.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
