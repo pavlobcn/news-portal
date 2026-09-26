@@ -1,5 +1,212 @@
 [
   {
+    "title": "La ley que prohibiría las redes sociales a menores de 16 años avanza esta semana en el Congreso",
+    "link": "https://www.elperiodico.com/es/politica/20260926/ley-prohibe-redes-sociales-menores-congreso-134710679",
+    "pubDate": "2026-09-26 15:50:58",
+    "category": "",
+    "description": "<h2>PSOE y Sumar acordaron antes de verano vetar las redes sociales con \"contenido dañino\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Невідомий об'єкт порушив повітряний простір Молдови",
+    "link": "https://ua.korrespondent.net/world/4915138-nevidomyi-obiekt-porushyv-povitrianyi-prostir-moldovy",
+    "pubDate": "2026-09-26 15:40:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575521.jpg\"> Об'єкт перетнув державний кордон у напрямку населеного пункту Новокотовськ на придністровській ділянці Молдови.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Belén Esteban señala a Jesulín tras su regreso a televisión: \"El odio que me tiene lo paga con ella\"",
+    "link": "https://www.elperiodico.com/es/gente/20260926/belen-esteban-senala-regreso-jesulin-de-ubrique-hija-relacion-dv-134710025",
+    "pubDate": "2026-09-26 15:39:04",
+    "category": "",
+    "description": "<h2 class=\"item\">La Patrona ha insistido en que no quiere mantener ninguna guerra ni con María José ni con Juls </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Russell gana por la mínima ante Verstappen en Bakú con caos final, Sainz en los puntos y fiasco de Alonso",
+    "link": "https://www.elperiodico.com/es/deportes/20260926/russell-gana-minima-verstappen-baku-134709181",
+    "pubDate": "2026-09-26 15:22:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Solo una décima de segundo ha separado a Russell y Verstappen en el GP de Azerbaiyán. Antonelli, quinto, ha minimizado daños y sigue líder con 66 puntos sobre su compañero. </h2><h2 class=\"item\">Aston Martin ha cerrado la pesadilla de Bakú con doble abandono de Stroll y Alonso; Carlos Sainz ha finalizado décimo.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El consejero de presidencia de Murcia lanza un \"¡Viva Murcia!\" y un \"Visca Catalunya!\" durante La Mercè",
+    "link": "https://www.elperiodico.com/es/videos/politica/consejero-presidencia-murcia-lanza-viva-video/134709852.shtml",
+    "pubDate": "2026-09-26 15:22:09",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Asamblea General de la ONU, en directo | China, Rusia y Cuba intervienen en la Asamblea General de la ONU",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/asamblea-onu-cumbre-trump-sanchez-ultima-hora-directo-134545027",
+    "pubDate": "2026-09-26 15:20:00",
+    "category": "",
+    "description": "<h2>Sigue, al minuto, las últimas noticias sobre el debate en la sede de Naciones Unidas y sus repercusiones</h2><h2><a href=\"https://www.rtve.es/play/videos/rtve-noticias-video/discurso-completo-pedro-sanchez-asamblea-general-onu/17237883/?fbclid=IwY2xjawUjboxleHRuA2FlbQIxMQBwZG9mAXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4hkpsikT97FInY4dJ8tSS3U4ni1qbnFNEY6SI_oyDBp-FgXayRCIKRkdyu_A_aem_BMfUMdeehSNUU_Y_EMgbXA\" target=\"_blank\">Aquí, el discurso completo de Pedro Sánchez en la ONU.</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260922/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713?mrfhud=true\" target=\"_blank\">Directo Irán</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260922/guerra-ucrania-rusia-ultima-hora-126605559?mrfhud=true\" target=\"_blank\">Directo Ucrania</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "DIRECTO | Asamblea General de la ONU",
+    "link": "https://www.elperiodico.com/es/videos/internacional/directo-asamblea-general-onu/134709294.shtml",
+    "pubDate": "2026-09-26 15:04:17",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Luz asombrada",
+    "link": "https://www.elperiodico.com/es/opinion/20260926/luz-asombrada-septiembre-134695899",
+    "pubDate": "2026-09-26 15:00:52",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Росії майже перестали відкривати нові продуктові магазини - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/russia/4915133-u-rosii-maizhe-perestaly-vidkryvaty-novi-produktovi-mahazyny-zmi",
+    "pubDate": "2026-09-26 14:50:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575519.jpg\">Приріст торгових площ найбільших мереж впав на 46,2% і виявився мінімальним з 2011 року, повідомляють російські пабліки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Administración Metropolitana de Bangkok declara el estado de desastre por inundaciones",
+    "link": "https://www.elperiodico.com/es/videos/internacional/administracion-metropolitana-bangkok-declara-desastre/134709043.shtml",
+    "pubDate": "2026-09-26 14:48:05",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Bangkok declara el estado de desastre por inundaciones tras un temporal de fuertes lluvias",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/bangkok-declara-desastre-inundaciones-temporal-134708835",
+    "pubDate": "2026-09-26 14:38:49",
+    "category": "",
+    "description": "<h2>El Departamento de Meteorología explicó que \"es probable que se registren más lluvias de fuertes a muy fuertes\" en toda Tailandia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Adiós a Peón Kurtz, reconocida voz de la historia musical viguesa",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/adios-peon-kurtz-reconocida-voz-134708441",
+    "pubDate": "2026-09-26 14:22:13",
+    "category": "",
+    "description": "<h2 class=\"item\">Vigo despide a Peón Kurtz, una figura vinculada a la escena musical de la ciudad y a la Movida viguesa</h2><h2 class=\"item\">El artista deja atrás una carrera profesional marcada por ser el fundador del grupo Def Con Dos</h2><h2 class=\"item\">Sus personas cercanas rememoran recuerdos con el cantante y cuentan a FARO anécdotas curiosas de su vida</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Miguel Tellado: \"Hay que echar al Gobierno y a los invasores\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/miguel-tellado-hay-echar-gobierno/134707938.shtml",
+    "pubDate": "2026-09-26 14:02:06",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Arrestan a un constructor por quedarse 23.000 euros de una reforma en Mallorca",
+    "link": "https://www.elperiodico.com/es/sucesos/20260926/arrestan-constructor-quedarse-23000-euros-reforma-mallorca-134707790",
+    "pubDate": "2026-09-26 14:01:25",
+    "category": "",
+    "description": "<h2>El individuo cobró el adelanto pero luego fue dando largas a la cliente, que descubrió que ni siquiera había pedido el permiso de obras</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Royal Enfield entra en la movilidad eléctrica con la nueva Flying Flea C6",
+    "link": "https://www.elperiodico.com/es/motor/20260926/royal-enfield-entra-movilidad-electrica-134590840",
+    "pubDate": "2026-09-26 14:00:17",
+    "category": "",
+    "description": "<h2>La Flying Flea C6 abre la era eléctrica de Royal Enfield como una moto urbana que combina el legado de la marca con tecnología propia y 104 kilómetros de autonomía</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Angela Fernández, psicóloga, sobre el perfil del salvador en una relación: \"Mientras intentas rescatar a otro, no tienes que enfrentarte a tus propias heridas\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20260926/angela-fernandez-psicologa-perfil-salvador-relacion-amor-dv-et-134665464",
+    "pubDate": "2026-09-26 14:00:17",
+    "category": "",
+    "description": "<h2>Según explica la especialista, este comportamiento puede tener su origen en experiencias vividas durante los primeros años</h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20260326/angela-fernandez-psicologa-no-todo-es-trauma-heridas-emocionales-falta-madurez-egoismo-dv-128215108\">Ángela Fernández, psicóloga: \"No todo son heridas emocionales, a veces es falta de madurez y egoísmo\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20260319/angela-fernandez-psicologa-tres-rasgos-ansiedad-dv-123188139\" >Ángela Fernández, psicóloga: \"Estos son los tres rasgos que comparten las personas con ansiedad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ya es oficial: el nuevo reglamento de la DGT hace ir a los ciclistas por el centro del carril en vías urbanas \"para mejorar su seguridad\"",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20260926/oficial-nuevo-reglamento-dgt-ciclistas-centro-carril-seguridad-dv-134680971",
+    "pubDate": "2026-09-26 14:00:17",
+    "category": "",
+    "description": "<h2>No cumplir con estas modificaciones del reglamento se considerará una infracción grave con una sanción económica de 200 euros</h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20260926/dgt-multas-patinetes-1-octubre-nuevas-normas-dv-134644900\">En vigor desde el 1 de octubre: la DGT multará a los usuarios de patinetes que incumplan las nuevas normas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lidia Solís, camionera (32 años): \"Gasto 7.000 euros al mes en gasolina, salgo de casa un lunes y no vuelvo hasta el sábado\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/lidia-solis-camionera-32-anos-gasto-7000-euros-mes-gasolina-dv-129775787",
+    "pubDate": "2026-09-26 14:00:00",
+    "category": "",
+    "description": "<h2>La asturiana, que viaja por toda España con un tráiler de 16 metros, decidió cambiar su trabajo como administrativa por el de transportista, siguiendo los pasos de su padre y su hermano: \"No se me hace duro; lo que más me gusta es que estoy todo el día viajando, conociendo nuevos lugares\"</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "У США власника коня змусили змінити йому ім'я через асоціації з Гітлером",
+    "link": "https://ua.korrespondent.net/world/4915126-u-ssha-vlasnyka-konia-zmusyly-zminyty-yomu-imia-cherez-asotsiatsii-z-hitlerom",
+    "pubDate": "2026-09-26 13:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575449.jpg\">Перша скарга на коня на ім'я Austrian Painter (Австрійський художник) надійшла після його перемоги у дебютному заїзді на іподромі Horseshoe Indianapolis.",
+    "topic": "спорт",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Bangkok declara el estado de desastre por las inundaciones",
+    "link": "https://www.elperiodico.com/es/videos/internacional/bangkok-declara-desastre-inundaciones-video/134707189.shtml",
+    "pubDate": "2026-09-26 13:41:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Buscador de los conciertos de la Mercè 2026 por fecha, horario y escenario",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260926/buscador-conciertos-merce-2026-fecha-134359002",
+    "pubDate": "2026-09-26 13:33:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260915/guia-merce-2026-barcelona-conciertos-actividades-programa-134308641\" target=\"_blank\">Guía de La Mercè 2026 en Barcelona: conciertos, actividades y programa</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Abascal: \"Nadie puede confiar en que este Gobierno vaya a hacer nada\" por la crisis en Ceuta",
+    "link": "https://www.elperiodico.com/es/videos/politica/abascal-nadie-confiar-gobierno-crisis/134707395.shtml",
+    "pubDate": "2026-09-26 13:29:31",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Activados cazas españoles la pasada noche durante un bombardeo en la frontera de Rumanía con Ucrania",
+    "link": "https://www.elperiodico.com/es/internacional/20260926/activados-noche-cazas-espanoles-frontera-rumania-ucrania-134707281",
+    "pubDate": "2026-09-26 13:22:34",
+    "category": "",
+    "description": "<h2>Es la activación urgente número 21 de los aviones de combate enviados por España para la defensa del espacio aéreo rumano</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Una nueva erupción del Etna obliga a cerrar el aeropuerto de Catania hasta el domingo",
     "link": "https://www.elperiodico.com/es/internacional/20260926/nueva-erupcion-etna-obliga-cerrar-aeropuerto-catania-nube-ceniza-134706498",
     "pubDate": "2026-09-26 13:07:39",
@@ -180,6 +387,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Un boxeador se enfrenta a 4 años de cárcel por golpear a un hombre que murió mas tarde",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/boxeador-enfrenta-carcel-hombre-muerto-134704794",
+    "pubDate": "2026-09-26 11:51:20",
+    "category": "",
+    "description": "<h2>El acusado arremetió presuntamente contra la víctima sin haber sido agredido ni constar provocación</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Récord de afiliaciones a la Seguridad Social en Catalunya en ganadería, agricultura y pesca",
     "link": "https://www.elperiodico.com/es/economia/20260926/record-afiliaciones-seguridad-social-catalunya-134704452",
     "pubDate": "2026-09-26 11:48:53",
@@ -312,6 +528,15 @@
     "category": "",
     "description": "",
     "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miles de personas exigen en Madrid la convocatoria inmediata de elecciones y juzgar a Sánchez por traición",
+    "link": "https://www.elperiodico.com/es/politica/20260926/manifestacion-madrid-dimision-sanchez-juzgar-traicion-ceuta-134703683",
+    "pubDate": "2026-09-26 10:49:15",
+    "category": "",
+    "description": "<h2>PP y Vox se suman a la movilización contra el presidente del Gobierno, pero chocan a la hora de activar los mecanismos para llegar ante la Justicia </h2>",
+    "topic": "вибори",
     "topic_match_probability": 100
   },
   {
@@ -869,6 +1094,15 @@
     "pubDate": "2026-09-26 06:00:35",
     "category": "",
     "description": "<h2 class=\"item\">Expertos en neuroeducación insisten en que la constancia cuenta más que el talento para consolidar conocimientos y recomiendan a los alumnos hábitos para evitar el bucle de la desmotivación</h2><h2 class=\"item\">Recomiendan a los docentes que entreguen lo antes posible a los estudiantes los exámenes corregidos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260906/cambios-sociales-desbordan-sistema-educativo-cataluna-cambio-paradigma-133864609\" target=\"_blank\">Los cambios sociales desbordan el sistema educativo: \"La escuela funciona con el imaginario de una sociedad que ya no existe\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gustavo Deco, neurocientífico: \"PISA fue un desastre, pero la reacción no puede ser volver al maestro con el puntero y a estudiar de memoria\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260926/gustavo-deco-neurocientifico-resultados-informe-pisa-desastre-metodos-educacion-cerebro-aprendizaje-134593672",
+    "pubDate": "2026-09-26 06:00:29",
+    "category": "",
+    "description": "<h2 class=\"item\">Acaba de publicar 'Trayectorias escolares y desarrollo de la dinámica cerebral: un estudio comparativo de la educación Montessori y tradicional', trabajo que analiza cómo los distintos entornos de aprendizaje influyen en el desarrollo cognitivo y en la dinámica cerebral de los niños</h2><h2 class=\"item\">El informe, publicado por la UPF, constata que la educación basada en la exploración autónoma, en comparación con la educación tradicional suiza, favorece un cerebro más organizado y con una dinámica \"más flexible y adaptativa\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260906/cambios-sociales-desbordan-sistema-educativo-cataluna-cambio-paradigma-133864609\" target=\"_blank\">Los cambios sociales desbordan el sistema educativo: \"La escuela funciona con el imaginario de una sociedad que ya no existe\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
