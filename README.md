@@ -1,12 +1,17 @@
-# News for 2026-09-27 17:51
+# News for 2026-09-27 19:03
 
 Previous day: [2026-09-26](./data/2026-09-26.md)
 
 ## ua.korrespondent.net
+18:21 [Рейн рекордно обмілів у вересні](https://ua.korrespondent.net/world/4915318-rein-rekordno-obmiliv-u-veresni)<br>
+17:23 [Свята 28 вересня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4915307-sviata-28-veresnia-2026-roku-istoriia-tradytsii)<br>
+16:17 [ШІ-агенти атакують сайти уряду США](https://ua.korrespondent.net/tech/technews/4915304-shi-ahenty-atakuuit-saity-uriadu-ssha)<br>
 15:27 [Аналітики оцінили вплив Ель-Ніньйо на ринок СПГ](https://ua.korrespondent.net/business/economics/4915299-analityky-otsinyly-vplyv-el-ninio-na-rynok-sph)<br>
 04:23 [Папа Лев XIV відслужив у Парижі месу для 700 тисяч людей](https://ua.korrespondent.net/world/4915215-papa-lev-XIV-vidsluzhyv-u-paryzhi-mesu-dlia-700-tysiach-luidei)<br>
 
 ## as.com
+18:53 [Real Madrid - Unicaja, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo](https://as.com/baloncesto/acb/real-madrid-unicaja-en-directo-acb-liga-endesa-202627-hoy-en-vivo-f202609-d/)<br>
+17:46 [Un canastón de Jaworski da la victoria al  Zaragoza](https://as.com/baloncesto/acb/un-canaston-de-jaworski-da-la-victoria-al-zaragoza-f202609-n/)<br>
 16:06 [Resumen del La Laguna Tenerife vs. Basket Zaragoza, jornada 1 de la Liga Endesa](https://as.com/videos/acb/resumen-del-la-laguna-tenerife-vs-basket-zaragoza-jornada-1-de-la-liga-endesa-f202609-v/)<br>
 14:54 [El Breogán tumba al supercampeón](https://as.com/baloncesto/acb/el-breogan-tumba-al-supercampeon-f202609-n/)<br>
 14:37 [El Baskonia remonta un partido complicado](https://as.com/baloncesto/el-baskonia-f202609-n/)<br>
@@ -16,6 +21,9 @@ Previous day: [2026-09-26](./data/2026-09-26.md)
 05:36 [Melwin Pantzar: “Sales del Madrid y parece que tienes que romperla sí o sí”](https://as.com/baloncesto/melwin-pantzar-sales-del-madrid-y-parece-que-tienes-que-romperla-si-o-si-f202609-n/)<br>
 
 ## www.elperiodico.com
+19:00 [El cribado neonatal de Catalunya detecta al primer bebé con adrenoleucodistrofia, una grave enfermedad neurológica](https://www.elperiodico.com/es/sanidad/20260927/cribado-neonatal-cataluna-primer-bebe-adrenoleucodistrofia-enfermedad-neurologica-grave-134671186)<br>
+18:25 [Rescatan a un ejemplar de murciélago rabudo atrapado en la bañera de una vivienda](https://www.elperiodico.com/es/medio-ambiente/20260927/murcielago-rabudo-vivienda-rescatan-atrapado-banera-dv-134736006)<br>
+17:57 [La tormenta en el noreste de EEUU deja un muerto y miles de cortes de luz](https://www.elperiodico.com/es/internacional/20260927/tormenta-noreste-eeuu-deja-muerto-cortes-de-luz-134736154)<br>
 17:32 [Oppo Reno16 Pro 5G, el móvil que convierte la cámara en una herramienta creativa](https://www.elperiodico.com/es/tecnologia/20260927/oppo-reno16-pro-precio-oferta-134735144)<br>
 17:00 [Abi Sisquella, psicóloga infantil: “Hay que entender por qué un niño quiere dejar una extraescolar antes de tomar una decisión"](https://www.elperiodico.com/es/sociedad/20260927/abi-sisquella-psicologa-infantil-hay-134561144)<br>
 16:47 [Ciudad de México será la ciudad invitada a las fiestas de la Mercè de 2027](https://www.elperiodico.com/es/barcelona/20260927/ciudad-mexico-sera-ciudad-invitada-fiestas-merce-mexic-134734800)<br>
