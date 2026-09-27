@@ -1,5 +1,50 @@
 [
   {
+    "title": "Президент Сербії Вучич подав у відставку",
+    "link": "https://ua.korrespondent.net/world/4915343-prezydent-serbii-vuchych-podav-u-vidstavku",
+    "pubDate": "2026-09-27 21:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577347.jpg\">Він не може балотуватися на третій президентський термін, однак, йде на парламентські вибори кандидатом у прем’єри від правлячої партії.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un avión de Delta aterriza de emergencia en Oporto tras detectarse humo en la cabina",
+    "link": "https://www.elperiodico.com/es/sociedad/20260927/avion-delta-aterriza-emergencia-oporto-humo-cabina-134741044",
+    "pubDate": "2026-09-27 21:07:46",
+    "category": "",
+    "description": "<h2>Un total de 296 personas viajaban a bordo del avión que tuvo que parar en Portugal tras detectarse una anomalía técnica durante su ruta</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "El horóscopo de mañana, lunes 28 de septiembre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260927/horoscopo-hoy-lunes-28-septiembre-dv-134631715",
+    "pubDate": "2026-09-27 21:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "España no deja de ganar y conquista el Mundial sub-20 en los penaltis",
+    "link": "https://www.elperiodico.com/es/deportes/20260927/espana-corea-norte-mundial-sub20-femenino-134740782",
+    "pubDate": "2026-09-27 20:52:18",
+    "category": "",
+    "description": "<h2>La madridista Laia López detuvo dos lanzamientos en la tanda, tras una final sin goles en la que la portera de Corea del Norte mantuvo con vida a su selección</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія запустила по Україні 277 дронів: кожен другий - реактивний",
+    "link": "https://ua.korrespondent.net/ukraine/4915341-rosiia-zapustyla-po-ukraini-277-droniv-kozhen-druhyi-reaktyvnyi",
+    "pubDate": "2026-09-27 20:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577329.jpg\">Лише у Києві російські дрони \"перемогли\" два дитячі садочки й дві школи, житловий будинок, СТО, кілька складських приміщень і об’єктів зв’язку, заявив Зеленський.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Rafael Santandreu, psicólogo: \"La idea de que todos necesitamos dormir 8 horas no es una regla universal\"",
     "link": "https://www.elperiodico.com/es/ser-feliz/20260927/dormir-ocho-horas-calidad-sueno-psicologo-rafael-santandreu-dv-et-134595763",
     "pubDate": "2026-09-27 20:29:21",
