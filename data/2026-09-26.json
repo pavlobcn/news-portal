@@ -174,6 +174,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575868.jpg\">Гравці збірної Ірландії вирішили провести голосування, щоб остаточно визначити, чи вийдуть вони на матч зі збірною Ізраїлю, оскільки наближається початок матчу, проведення якого заплановано на цю неділю."
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-26 22:00:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "На фронті відбулося 175 бойових зіткнень",
     "link": "https://ua.korrespondent.net/ukraine/4915193-na-fronti-vidbulosia-175-boiovykh-zitknen",
     "pubDate": "2026-09-26 21:58:00",
@@ -523,6 +532,15 @@
     "description": "<h2>La azulgrana Mayssa Baha, con 15 años, 8 meses y 10 días, es la jugadora más joven de la historia en marcar un gol en la Liga F</h2>",
     "topic": "спорт",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Amazon, DAZN y Movistar: así se verá el baloncesto 2026-27",
+    "link": "https://as.com/baloncesto/acb/amazon-dazn-y-movistar-asi-se-vera-el-baloncesto-2026-27-f202609-n/",
+    "pubDate": "2026-09-26 18:18:05",
+    "category": "Baloncesto",
+    "description": "Los tres operadores serán los encargados de retransmitir todas las competiciones de una temporada que comenzó el viernes con la Supercopa de la Euroliga. El playoff de la WNBA, por Teledeporte.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Глава Zuffa Boxing зреагував на звинувачення у зриві бою Ф’юрі-Джошуа",
@@ -1074,6 +1092,15 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-26 13:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "У США власника коня змусили змінити йому ім'я через асоціації з Гітлером",
     "link": "https://ua.korrespondent.net/world/4915126-u-ssha-vlasnyka-konia-zmusyly-zminyty-yomu-imia-cherez-asotsiatsii-z-hitlerom",
     "pubDate": "2026-09-26 13:45:00",
@@ -1484,6 +1511,15 @@
     "pubDate": "2026-09-26 10:35:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4575310.jpg\">Було пошкоджено три вантажні автомобілі, один з яких зайнявся. Вогонь також поширився на суху траву поруч.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resultados Euroliga, jornada 1: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-1-horarios-tv-partidos-y-clasificacion-f202609-n/",
+    "pubDate": "2026-09-26 10:26:35",
+    "category": "Baloncesto",
+    "description": "Euroliga 2025-26: resultados de los partidos y clasificación de la temporada en su jornada 1. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
     "topic": "",
     "topic_match_probability": 0
   },
