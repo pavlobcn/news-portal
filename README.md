@@ -1,4 +1,4 @@
-# News for 2026-09-27 11:14
+# News for 2026-09-27 13:43
 
 Previous day: [2026-09-26](./data/2026-09-26.md)
 
@@ -6,10 +6,15 @@ Previous day: [2026-09-26](./data/2026-09-26.md)
 04:23 [Папа Лев XIV відслужив у Парижі месу для 700 тисяч людей](https://ua.korrespondent.net/world/4915215-papa-lev-XIV-vidsluzhyv-u-paryzhi-mesu-dlia-700-tysiach-luidei)<br>
 
 ## as.com
+13:12 [Marc Gasol (41 años), sobre su relación con el baloncesto tras su retirada: “No sé jugar para pasármelo bien”](https://as.com/baloncesto/nba/marc-gasol-41-anos-sobre-su-relacion-con-el-baloncesto-tras-su-retirada-no-se-jugar-para-pasarmelo-bien-f202609-n/)<br>
 05:37 [Real Madrid - Unicaja: horario, TV y dónde ver la ACB 2026-27](https://as.com/baloncesto/acb/real-madrid-unicaja-horario-tv-y-donde-ver-la-acb-2026-27-f202609-n/)<br>
 05:36 [Melwin Pantzar: “Sales del Madrid y parece que tienes que romperla sí o sí”](https://as.com/baloncesto/melwin-pantzar-sales-del-madrid-y-parece-que-tienes-que-romperla-si-o-si-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:05 [Mueren 19 personas por consumo de alcohol adulterado en un estado de la India con 'ley seca'](https://www.elperiodico.com/es/internacional/20260927/mueren-19-personas-consumo-alcohol-134730134)<br>
+13:05 [¿Tu perro es diestro o zurdo? Este es el simple test para descubrirlo y por qué es importante saberlo](https://www.elperiodico.com/es/vida-y-estilo/20260927/perros-diestro-o-zurdo-animales-mascotas-dv-122732676)<br>
+12:53 [La Setmana del Llibre en Català cierra con más de 130.000 visitantes y cerca de un millón de euros de facturación, un 12% más](https://www.elperiodico.com/es/ocio-y-cultura/20260927/setmana-llibre-catala-cierra-mas-130000-visitantes-millon-euros-facturacion-134729689)<br>
+11:30 [El psiquiatra Enrique Rojas, sobre qué define a una persona feliz: "Aquella que ha sabido diseñar un proyecto de vida coherente y realista”](https://www.elperiodico.com/es/ser-feliz/20260927/felicidad-salud-mental-seguridad-confianza-voluntad-animo-dv-123820421)<br>
 11:00 [Inteligencia, algoritmos y el fin del mundo](https://www.elperiodico.com/es/opinion/20260927/inteligencia-algoritmos-fin-del-mundo-salvador-macip-134716217)<br>
 10:53 [Una mujer muere en un hospital de València tras ser operada de una hernia de hiato](https://www.elperiodico.com/es/sucesos/20260927/mujer-muere-hospital-valencia-operada-hernia-hiato-negligencia-medica-134726936)<br>
 09:52 [Ernest Abadal, catedrático de Documentación y vicerector de la UB: "Con la IA tenemos una criatura que se nos puede ir de las manos"](https://www.elperiodico.com/es/sociedad/20260927/ernest-abadal-inteligencia-artificial-catedratico-documentacion-vicerector-ub-134725669)<br>
