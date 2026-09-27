@@ -1,5 +1,32 @@
 [
   {
+    "title": "El primer Piromusical en la playa de la Nova Icària",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/primer-piromusical-playa-nova-icaria/134743253.shtml",
+    "pubDate": "2026-09-27 23:55:22",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 28 de septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260927/portada-periodico-28-septiembre-2026-134743237",
+    "pubDate": "2026-09-27 23:51:39",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЄК закликала країни скоротити споживання газу і електрики через високі ціни",
+    "link": "https://ua.korrespondent.net/world/4915367-yek-zaklykala-krainy-skorotyty-spozhyvannia-hazu-i-elektryky-cherez-vysoki-tsiny",
+    "pubDate": "2026-09-27 23:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577460.jpeg\">Європейські газові сховища заповнені дише на 68%. Їх планують заповнити на 90% до початку листопада.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Un Piromusical épico y trepidante como clímax de la Mercè: 48 canciones en 30 minutos con el sello de Oques Grasses",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260927/piromusical-epico-trepidante-climax-merce-canciones-oques-grasses-134742404",
     "pubDate": "2026-09-27 23:20:59",
