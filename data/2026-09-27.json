@@ -1,5 +1,68 @@
 [
   {
+    "title": "Армія США готує військове захоплення Куби - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4915353-armiia-ssha-hotuie-viiskove-zakhoplennia-kuby-zmi",
+    "pubDate": "2026-09-27 21:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577383.jpg\">Резерв армії США розглядає підпорядкування Південному командуванню додаткових підрозділів для можливої операції в районі Куби.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "McNulty, gregario de Pogacar, se proclama campeón del mundo",
+    "link": "https://www.elperiodico.com/es/deportes/20260927/mcnulty-gregario-pogacar-proclama-campeon-mundo-134741602",
+    "pubDate": "2026-09-27 21:54:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Sorprendente triunfo de un corredor estadounidense con el que nadie contaba en un Mundial sin brillo español donde el australiano Mattews logró la plata y el combativo Van der Poel, el bronce.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Batemon y McGhee lideran el triunfo del Lleida en Valencia (100-105)",
+    "link": "https://www.elperiodico.com/es/deportes/20260927/batemon-mcghee-lideran-triunfo-lleida-134741446",
+    "pubDate": "2026-09-27 21:45:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El conjunto catalán asaltó la pista del campeón con un fantástico partido. </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un Madrid gris se sobrepone al mejor Willy",
+    "link": "https://as.com/baloncesto/acb/un-madrid-gris-se-sobrepone-al-mejor-willy-f202609-n/",
+    "pubDate": "2026-09-27 21:40:43",
+    "category": "Baloncesto",
+    "description": "El Unicaja vencía por ocho a menos de seis minutos del final. Triple clave de Luwawu-Cabarrot. El mayor de los Hernangómez suma 20 puntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Чорногорії затримали росіян зі шпигунським обладнанням",
+    "link": "https://ua.korrespondent.net/world/4915348-u-chornohorii-zatrymaly-rosiian-zi-shpyhunskym-obladnanniam",
+    "pubDate": "2026-09-27 21:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577382.jpg\">Під час обшуків правоохоронці виявили близько 1 млн євро готівкою та обладнання, котре могло використовуватися для стеження.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El presidente de Serbia dimite para presentarse a las elecciones legislativas",
+    "link": "https://www.elperiodico.com/es/internacional/20260927/presidente-serbia-dimite-presentarse-elecciones-legislativas-134741412",
+    "pubDate": "2026-09-27 21:33:58",
+    "category": "",
+    "description": "<h2>La celebración de elecciones anticipadas era una reivindicación clave<strong> </strong>de un movimiento estudiantil surgido tras el derrumbe, en noviembre de 2024, de una marquesina en la estación de tren de Novi Sad</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los jugadores de Irlanda niegan el saludo a los israelís y bajan la cabeza ante el himno hebreo en el polémico partido de la Liga de Naciones",
+    "link": "https://www.elperiodico.com/es/deportes/20260927/jugadores-irlanda-niegan-saludo-israel-nations-league-134740850",
+    "pubDate": "2026-09-27 21:22:46",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Ha sido una de las semanas más difíciles para mí como entrenador y supongo que lo mismo ocurre con la mayoría de los jugadores\", ha señalado antes del partido el seleccionador de Irlanda Heimir Hallgrimsson</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260926/jugadores-irlanda-votan-jugar-contra-israel-nations-league-134715107\">Los jugadores de Irlanda votan por jugar el partido contra Israel después de horas de deliberación</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Президент Сербії Вучич подав у відставку",
     "link": "https://ua.korrespondent.net/world/4915343-prezydent-serbii-vuchych-podav-u-vidstavku",
     "pubDate": "2026-09-27 21:11:00",
@@ -106,6 +169,15 @@
     "pubDate": "2026-09-27 19:26:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577235.jpg\">У Кремлі зреагували на повідомлення про готовність Маска дозволити Україні використовувати Starlink для далекобійних ударів."
+  },
+  {
+    "title": "Крок до трофею: Україна програла Чехії фінал Кубка Біллі Джин Кінг",
+    "link": "https://ua.korrespondent.net/sport/tenis/4915298-krok-do-trofeui-ukraina-prohrala-chekhii-final-kubka-billi-dzhyn-kinh",
+    "pubDate": "2026-09-27 19:17:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577234.jpg\">Еліна Світоліна програла Лінді Носковій, дозволивши суперницям завершити протистояння у другому матчі.",
+    "topic": "спорт",
+    "topic_match_probability": 95
   },
   {
     "title": "El Valencia Basket levanta su cuarta Supercopa",
