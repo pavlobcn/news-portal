@@ -1,4 +1,4 @@
-# News for 2026-09-27 13:43
+# News for 2026-09-27 14:16
 
 Previous day: [2026-09-26](./data/2026-09-26.md)
 
@@ -6,11 +6,14 @@ Previous day: [2026-09-26](./data/2026-09-26.md)
 04:23 [Папа Лев XIV відслужив у Парижі месу для 700 тисяч людей](https://ua.korrespondent.net/world/4915215-papa-lev-XIV-vidsluzhyv-u-paryzhi-mesu-dlia-700-tysiach-luidei)<br>
 
 ## as.com
+14:04 [Estreno feliz para el Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/estreno-feliz-para-el-movistar-estudiantes-f202609-n/)<br>
 13:12 [Marc Gasol (41 años), sobre su relación con el baloncesto tras su retirada: “No sé jugar para pasármelo bien”](https://as.com/baloncesto/nba/marc-gasol-41-anos-sobre-su-relacion-con-el-baloncesto-tras-su-retirada-no-se-jugar-para-pasarmelo-bien-f202609-n/)<br>
 05:37 [Real Madrid - Unicaja: horario, TV y dónde ver la ACB 2026-27](https://as.com/baloncesto/acb/real-madrid-unicaja-horario-tv-y-donde-ver-la-acb-2026-27-f202609-n/)<br>
 05:36 [Melwin Pantzar: “Sales del Madrid y parece que tienes que romperla sí o sí”](https://as.com/baloncesto/melwin-pantzar-sales-del-madrid-y-parece-que-tienes-que-romperla-si-o-si-f202609-n/)<br>
 
 ## www.elperiodico.com
+14:10 [Loris dejó la moda tras 40 años para vivir aislado en medio de las montañas de Italia: "Con 200 euros al mes me las arreglo. Y muy bien"](https://www.elperiodico.com/es/economia/20260927/vida-aislado-montana-sin-facturas-moda-libertad-italia-loris-dv-et-134440034)<br>
+14:01 [Estos son los destinos del Imserso preferidos por los jubilados gerundenses](https://www.elperiodico.com/es/sociedad/20260927/destinos-imserso-preferidos-jubilados-imserso-dv-134672934)<br>
 13:05 [Mueren 19 personas por consumo de alcohol adulterado en un estado de la India con 'ley seca'](https://www.elperiodico.com/es/internacional/20260927/mueren-19-personas-consumo-alcohol-134730134)<br>
 13:05 [¿Tu perro es diestro o zurdo? Este es el simple test para descubrirlo y por qué es importante saberlo](https://www.elperiodico.com/es/vida-y-estilo/20260927/perros-diestro-o-zurdo-animales-mascotas-dv-122732676)<br>
 12:53 [La Setmana del Llibre en Català cierra con más de 130.000 visitantes y cerca de un millón de euros de facturación, un 12% más](https://www.elperiodico.com/es/ocio-y-cultura/20260927/setmana-llibre-catala-cierra-mas-130000-visitantes-millon-euros-facturacion-134729689)<br>
