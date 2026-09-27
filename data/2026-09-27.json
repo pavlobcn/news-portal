@@ -1,5 +1,86 @@
 [
   {
+    "title": "Detenidos varios hombres por un \"incidente grave\" con explosivos cerca de una base con presencia estadounidense en Reino Unido",
+    "link": "https://www.elperiodico.com/es/internacional/20260927/detenidos-hombres-incidente-grave-explosivos-134727358",
+    "pubDate": "2026-09-27 11:12:23",
+    "category": "",
+    "description": "<h2>Expertos del Ejército británico especializados en la desactivación de artefactos explosivos examinan varios vehículos, al tiempo que agentes armados participan en el dispositivo de seguridad</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Rafa Márquez debuta como seleccionador de México con un empate contra Colombia (1-1)",
+    "link": "https://www.elperiodico.com/es/deportes/20260927/rafa-marquez-debuta-seleccionador-mexico-134727192",
+    "pubDate": "2026-09-27 11:09:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Luis Suárez adelantó a los cafeteros y Gilberto Mora puso las tablas en el amistoso de Baltimore.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Activados de nuevo los cazas españoles en Rumanía por intrusión de un dron en el espacio aéreo OTAN",
+    "link": "https://www.elperiodico.com/es/politica/20260927/activados-nuevo-cazas-espanoles-rumania-otan-rusia-134727301",
+    "pubDate": "2026-09-27 11:09:34",
+    "category": "",
+    "description": "<h2>La frontera del Danubio entre Ucrania y Rumanía es el escenario de la mayoría de las alertas en las que ha tenido que actuar la escuadrilla de aviones de combate enviada por el Ejército del Aire</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "España pide ser sede de la fase final de la Nations League en Valladolid y el Bernabéu",
+    "link": "https://www.elperiodico.com/es/deportes/20260927/espana-pide-sede-fase-final-134726955",
+    "pubDate": "2026-09-27 11:01:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Las semifinales y la final, que acogería el estadio del Real Madrid, se disputarán del 9 al 13 de junio de 2027. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un hombre mata a su pareja en Sevilla y se atrinchera en una casa",
+    "link": "https://www.elperiodico.com/es/sucesos/20260927/hombre-mata-pareja-sevilla-atrinchera-134727168",
+    "pubDate": "2026-09-27 11:01:15",
+    "category": "",
+    "description": "<h2>Un hombre de 56 años ha matado a puñaladas a su pareja, de 47</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Mossos y Guardia Civil, ante los nuevos retos de seguridad",
+    "link": "https://www.elperiodico.com/es/opinion/20260927/mossos-guardia-civil-nuevos-retos-articulo-josep-ramon-bosch-134695264",
+    "pubDate": "2026-09-27 11:00:39",
+    "category": "",
+    "description": "<h2>Conviene recuperar para el cuerpo un mayor arraigo social en Catalunya: facilitar la integración de las familias, favorecer el uso del catalán y convivir con naturalidad con Mossos y policías locales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Inteligencia, algoritmos y el fin del mundo",
+    "link": "https://www.elperiodico.com/es/opinion/20260927/inteligencia-algoritmos-fin-del-mundo-salvador-macip-134716217",
+    "pubDate": "2026-09-27 11:00:37",
+    "category": "",
+    "description": "<h2>No sé si la IA nos matará a todos, como algunos expertos han proclamado estos días, pero todo indica que nos hará colectivamente más estúpidos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Міністра оборони Казахстану звільнили після загибелі 14 солдат",
+    "link": "https://ua.korrespondent.net/world/4915261-ministra-oborony-kazakhstanu-zvilnyly-pislia-zahybeli-14-soldat",
+    "pubDate": "2026-09-27 10:55:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4576653.jpg\">Президент Казахстану змінив міністра оборони після загибелі 14 військовослужбовців під час навчань.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Una mujer muere en un hospital de València tras ser operada de una hernia de hiato",
+    "link": "https://www.elperiodico.com/es/sucesos/20260927/mujer-muere-hospital-valencia-operada-hernia-hiato-negligencia-medica-134726936",
+    "pubDate": "2026-09-27 10:53:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Inmaculada Gómez salió de la operación y casi una hora después la subieron a planta totalmente cianótica</h2><h2 class=\"item\">La familia denuncia que ni quienes la atendieron ni el propio hospital hacen caso a los requerimientos judiciales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "La acampada en Sol tras el desahucio de Maricarmen, en directo: última hora de las protestas por los alquileres y el decreto de la vivienda",
     "link": "https://www.elperiodico.com/es/politica/20260927/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-134724337",
     "pubDate": "2026-09-27 10:35:00",
@@ -178,6 +259,15 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260923/toni-meritxell-falgueras-convierten-pregon-merce-barcelona-homenaje-comercio-historico-134606036\" >Toni y Meritxell Falgueras convierten el pregón de la Mercè en un canto al comercio tradicional</a></h2>",
     "topic": "qué hacer esta semana en Barcelona",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Мадьяра намагалися закидати яйцями",
+    "link": "https://ua.korrespondent.net/world/4915244-madiara-namahalysia-zakydaty-yaitsiamy",
+    "pubDate": "2026-09-27 08:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4576526.jpg\">Лише тиждень тому главу угорського уряду Петера Мадьяра облили вином під час свята врожаю у Сексарді.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Guerra de Irán, en directo | Teherán presenta a EEUU \"ideas\" que \"podrían propiciar\" la reapertura de Ormuz",

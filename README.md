@@ -1,4 +1,4 @@
-# News for 2026-09-27 10:37
+# News for 2026-09-27 11:14
 
 Previous day: [2026-09-26](./data/2026-09-26.md)
 
@@ -10,6 +10,8 @@ Previous day: [2026-09-26](./data/2026-09-26.md)
 05:36 [Melwin Pantzar: “Sales del Madrid y parece que tienes que romperla sí o sí”](https://as.com/baloncesto/melwin-pantzar-sales-del-madrid-y-parece-que-tienes-que-romperla-si-o-si-f202609-n/)<br>
 
 ## www.elperiodico.com
+11:00 [Inteligencia, algoritmos y el fin del mundo](https://www.elperiodico.com/es/opinion/20260927/inteligencia-algoritmos-fin-del-mundo-salvador-macip-134716217)<br>
+10:53 [Una mujer muere en un hospital de València tras ser operada de una hernia de hiato](https://www.elperiodico.com/es/sucesos/20260927/mujer-muere-hospital-valencia-operada-hernia-hiato-negligencia-medica-134726936)<br>
 09:52 [Ernest Abadal, catedrático de Documentación y vicerector de la UB: "Con la IA tenemos una criatura que se nos puede ir de las manos"](https://www.elperiodico.com/es/sociedad/20260927/ernest-abadal-inteligencia-artificial-catedratico-documentacion-vicerector-ub-134725669)<br>
 09:40 [El municipio de Catalunya que se parte en dos: una grieta de 240 metros no deja de crecer](https://www.elperiodico.com/es/catalunya/20260927/pueblo-catalunya-grieta-240-metros-dv-134671869)<br>
 09:20 [Sylvester Stallone (80 años): "Llegó un momento en el que me volví bulímico. Es la primera vez que lo cuento"](https://www.elperiodico.com/es/ocio-y-cultura/20260927/sylvester-stallone-80-anos-me-volvi-bulimico-entrevista-dv-134724870)<br>
