@@ -1,5 +1,32 @@
 [
   {
+    "title": "Україна одержала сотні розвідувальних БпЛА Penguin",
+    "link": "https://ua.korrespondent.net/world/worldabus/4915664-ukraina-oderzhala-sotni-rozviduvalnykh-bpla-Penguin",
+    "pubDate": "2026-09-28 23:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578513.jpg\">Penguin від американської компанії Redwire проектується, виробляється та проходить льотні випробування в Латвії.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Голова Центру протидії дезінформації РНБО вийшов у відставку",
+    "link": "https://ua.korrespondent.net/ukraine/4915660-holova-tsentru-protydii-dezinformatsii-rnbo-vyishov-u-vidstavku",
+    "pubDate": "2026-09-28 23:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578504.jpg\">Колишній керівник ЦПД у своїй заяві в соцмережі висловив вдячність \"за можливість принести користь державі\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Sindicat de Llogateres corta la Diagonal de Barcelona",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/sindicat-llogateres-corta-diagonal-barcelona-134781149",
+    "pubDate": "2026-09-28 23:24:29",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
     "title": "El Papa ante el desahucio de Maricarmen: \"Tenemos que exigir a los líderes políticos que busquen soluciones\"",
     "link": "https://www.elperiodico.com/es/sociedad/20260928/papa-desahucio-maricarmen-exigir-lideres-134781010",
     "pubDate": "2026-09-28 23:15:36",
@@ -43,6 +70,24 @@
     "description": "<h2>Después de sus tres recientes intentos de retornar al país, la premio Nobel no se resigna a tener un papel de reparto en la transición venezolana</h2>",
     "topic": "політика",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Запрошення Путіна на G20: Лондон відмовляється від прямих контактів з РФ",
+    "link": "https://ua.korrespondent.net/world/4915655-zaproshennia-putina-na-G20-london-vidmovliaietsia-vid-priamykh-kontaktiv-z-rf",
+    "pubDate": "2026-09-28 22:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578488.jpg\">США мають \"самостійно приймати рішення\" щодо запрошення російського диктатора, наголосили в британському уряді.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Відставка Вучича. План збереження влади в Сербії",
+    "link": "https://ua.korrespondent.net/world/4915662-vidstavka-vuchycha-plan-zberezhennia-vlady-v-serbii",
+    "pubDate": "2026-09-28 22:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578505.jpg\">За прогнозами аналітиків, після переходу Вучича в прем'єрське крісло, на посаду президента буде висунуто максимально лояльного до нього політика.",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "Furnells (Oesía) respalda que Europa ponga en marcha una agencia de tecnología avanzada para mejorar la industria de defensa",
@@ -97,6 +142,15 @@
     "description": "<h2>El aviso afecta a La Selva, Maresme, Vallès Occidental, Vallès Oriental, Barcelonès, Baix Llobregat, Garraf, Alt Penedès, Conca de Barberà, Baix Camp, Alt Camp, Baix Penedès i Tarragonès.</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260928/catalunya-lluvias-martes-prevision-inundaciones-avisos-134770527\">Catalunya activa sus protocolos frente a inundaciones ante las lluvias torrenciales previstas para este martes</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Сотні полонених. Новий етап операції Вівальді",
+    "link": "https://ua.korrespondent.net/ukraine/4915658-sotni-polonenykh-novyi-etap-operatsii-vivaldi",
+    "pubDate": "2026-09-28 22:12:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578496.jpg\">Операція Вівальді, яка з кінця весни 2026 року проходила в умовах суворої секретності, має на меті усунення загрози для Слов'янсько-Краматорської агломерації.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Кабмін змінив пріоритети витрат через брак коштів",
