@@ -1,4 +1,4 @@
-# News for 2026-09-28 06:55
+# News for 2026-09-28 08:08
 
 Previous day: [2026-09-27](./data/2026-09-27.md)
 
@@ -6,6 +6,10 @@ Previous day: [2026-09-27](./data/2026-09-27.md)
 01:51 [Підготовка теракту: поблизу авіабази у Британії затримали п'ятьох людей](https://ua.korrespondent.net/world/4915375-pidhotovka-teraktu-poblyzu-aviabazy-u-brytanii-zatrymaly-piatokh-luidei)<br>
 
 ## www.elperiodico.com
+08:00 [Todos a una](https://www.elperiodico.com/es/sociedad/20260928/todos-a-una-134746557)<br>
+07:55 [Descubren que las mamás elefante dan medicamentos a sus bebés](https://www.elperiodico.com/es/medio-ambiente/20260928/descubren-mamas-elefante-dan-medicamentos-134746511)<br>
+07:02 [El entorno social, clave para la prevención del suicidio según las entidades](https://www.elperiodico.com/es/ser-feliz/20260928/entorno-social-clave-prevencion-sucidio-134102684)<br>
+07:00 [Ingeniero, futbolista, socialista y amante de Lorca: 'La bola negra' reflota la memoria de Rafael Rodríguez Rapún](https://www.elperiodico.com/es/ocio-y-cultura/20260928/rafael-rodriguez-rapun-la-bola-negra-amante-lorca-134641426)<br>
 06:15 [Una década de calvario hacia el desahucio de Daniel: "Me van a echar a la fuerza, me están quitando la dignidad"](https://www.elperiodico.com/es/sociedad/20260928/decada-calvario-desahucio-daniel-valencia-134745040)<br>
 06:04 [O2 busca piso: la convivencia universitaria se convierte en campaña](https://www.elperiodico.com/es/ocio-y-cultura/20260928/o2-busca-piso-convivencia-universitaria-bc-134744775)<br>
 06:01 [Catalunya activa avisos por lluvia en todo el litoral ante la llegada de chubascos que podrían descargar de forma torrencial](https://www.elperiodico.com/es/sociedad/20260928/catalunya-avisos-lluvia-litoral-lunes-prevision-134741827)<br>
@@ -24,3 +28,4 @@ Previous day: [2026-09-27](./data/2026-09-27.md)
 02:59 [Bankinter, el banco que se implica y acompaña a tu empresa a dar el siguiente salto](https://www.elperiodico.com/es/economia/20260928/bankinter-banco-implica-acompana-empresa-bc-134743675)<br>
 02:59 [+Escuela: reforzar la educación allí donde más se necesita](https://www.elperiodico.com/es/sociedad/20260928/escuela-reforzar-educacion-necesita-bc-134743650)<br>
 00:01 [Telefónica lanza un plan de expansión en Alemania y exprimirá la IA para impulsar nuevos negocios y reducir costes](https://www.elperiodico.com/es/economia/20260928/telefonica-lanza-plan-expansion-alemania-134687381)<br>
+00:01 [Telefónica lanza un plan de expansión en Alemania y exprimirá la IA para impulsar nuevos negocios y reducir costes](https://www.elperiodico.com/es/economia/20260928/telefonica-alemania-plan-expansion-ia-134687381)<br>
