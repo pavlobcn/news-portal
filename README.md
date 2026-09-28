@@ -1,14 +1,51 @@
-# News for 2026-09-28 09:22
+# News for 2026-09-28 13:28
 
 Previous day: [2026-09-27](./data/2026-09-27.md)
 
 ## ua.korrespondent.net
+13:13 [Експорт нафти через Ормузьку протоку відновлюється](https://ua.korrespondent.net/business/economics/4915511-eksport-nafty-cherez-ormuzku-protoku-vidnovluiietsia)<br>
+12:48 [У РФ "засвітили" невідомий ПЗРК, схожий на китайський](https://ua.korrespondent.net/world/russia/4915504-u-rf-zasvityly-nevidomyi-pzrk-skhozhyi-na-kytaiskyi)<br>
+12:34 [Удар по Дніпру: стало відомо про загиблих](https://ua.korrespondent.net/city/dnepr/4915494-udar-po-dnipru-stalo-vidomo-pro-zahyblykh)<br>
+12:27 [У Британії попередили про вечірній енергодефіцит](https://ua.korrespondent.net/world/4915492-u-brytanii-poperedyly-pro-vechirnii-enerhodefitsyt)<br>
+12:07 [Уражено оборонні заводи і чотири нафтобази у РФ](https://ua.korrespondent.net/ukraine/4915481-urazheno-oboronni-zavody-i-chotyry-naftobazy-u-rf)<br>
+11:57 [На Вінниччині порушник перетнув кордон із Молдовою на мотопараплані](https://ua.korrespondent.net/ukraine/4915477-na-vinnychchyni-porushnyk-peretnuv-kordon-iz-moldovoui-na-motoparaplani)<br>
+11:54 [МОН шукає ректорів для трьох університетів у Києві та Одесі](https://ua.korrespondent.net/ukraine/4915475-mon-shukaie-rektoriv-dlia-trokh-universytetiv-u-kyievi-ta-odesi)<br>
+11:41 [Документи в Дії тимчасово недоступні через технічні роботи](https://ua.korrespondent.net/ukraine/4915471-dokumenty-v-dii-tymchasovo-nedostupni-cherez-tekhnichni-roboty)<br>
+11:30 [Гривня зміцнюється в обмінниках на початку тижня](https://ua.korrespondent.net/business/financial/4915468-hryvnia-zmitsnuiietsia-v-obminnykakh-na-pochatku-tyzhnia)<br>
+11:27 [Удар РФ по Фактор-Друку: судитимуть чотирьох російських командирів](https://ua.korrespondent.net/ukraine/4915465-udar-rf-po-faktor-druku-sudytymut-chotyrokh-rosiiskykh-komandyriv)<br>
+11:17 [У Білій Церкві відкрили унікальний Фонтан Сковороди](https://ua.korrespondent.net/ukraine/4915462-u-bilii-tserkvi-vidkryly-unikalnyi-fontan-skovorody)<br>
+11:03 [Уражено Панцирь та місця запуску дронів - Генштаб](https://ua.korrespondent.net/ukraine/4915453-urazheno-pantsyr-ta-mistsia-zapusku-droniv-henshtab)<br>
+11:03 [Окупанти прикриваються цивільними, відступаючи з Харківщини - Хартія](https://ua.korrespondent.net/ukraine/4915455-okupanty-prykryvauitsia-tsyvilnymy-vidstupauichy-z-kharkivschyny-khartiia)<br>
+10:37 [Обстріли РФ "спалюють" два млрд грн економіки за годину - Мінекономіки](https://ua.korrespondent.net/ukraine/4915443-obstrily-rf-spaluiuit-dva-mlrd-hrn-ekonomiky-za-hodynu-minekonomiky)<br>
+10:18 [РФ атаковала критичну інфраструктуру - Зеленський](https://ua.korrespondent.net/ukraine/4915439-rf-atakovala-krytychnu-infrastrukturu-zelenskyi)<br>
+10:12 [У Росії через атаку обвалився міст, з рейок зійшли вагони](https://ua.korrespondent.net/world/russia/4915437-u-rosii-cherez-ataku-obvalyvsia-mist-z-reiok-ziishly-vahony)<br>
+09:59 [Влада показала наслідки ударів РФ по Чернігівщині](https://ua.korrespondent.net/ukraine/4915429-vlada-pokazala-naslidky-udariv-rf-po-chernihivschyni)<br>
+09:55 [Операція Вівальді: на Донбасі звільнено 176 кв. км](https://ua.korrespondent.net/ukraine/4915430-operatsiia-vivaldi-na-donbasi-zvilneno-176-kv-km)<br>
+09:26 [Відключення світла у дев’яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4915421-vidkluichennia-svitla-u-deviaty-oblastiakh-ukrenerho)<br>
+06:36 [Атака на Харків: кількість постраждалих зросла](https://ua.korrespondent.net/city/kharkov/4915396-ataka-na-kharkiv-kilkist-postrazhdalykh-zrosla)<br>
 01:51 [Підготовка теракту: поблизу авіабази у Британії затримали п'ятьох людей](https://ua.korrespondent.net/world/4915375-pidhotovka-teraktu-poblyzu-aviabazy-u-brytanii-zatrymaly-piatokh-luidei)<br>
 
 ## as.com
 08:47 [La Euroliga ya tiene oferta de la NBA](https://as.com/baloncesto/euroliga/la-euroliga-ya-tiene-oferta-de-la-nba-f202609-n/)<br>
 
 ## www.elperiodico.com
+13:06 [Renfe estrenará su nueva web y app el próximo 28 de octubre para comprar billetes posteriores al 25 de enero](https://www.elperiodico.com/es/economia/20260928/renfe-estrenara-nueva-web-app-134757711)<br>
+13:00 [El 64% de los centros de datos de España está ubicado en zonas con estrés hídrico](https://www.elperiodico.com/es/medio-ambiente/20260928/64-centros-datos-espana-ubicado-134757435)<br>
+13:00 [Últimos días para renovar la ayuda al alquiler de la Generalitat para personas en emergencia residencial: vence el 30 de septiembre](https://www.elperiodico.com/es/economia/20260928/generalitat-ayuda-alquiler-personas-emergencia-residencial-dv-134756627)<br>
+12:56 [La Fageda, un proyecto social para integrar a los más vulnerables que vende 100 millones de yogures al año](https://www.elperiodico.com/es/economia/20260928/fageda-proyecto-social-integrar-vulnerables-yogures-134517620)<br>
+12:53 [Barcelona reúne a Nueva York, París y Ámsterdam para debatir el futuro de la vida nocturna](https://www.elperiodico.com/es/barcelona/20260928/barcelona-foro-internacional-vida-nocturna-nueva-york-paris-amsterdam-134756308)<br>
+12:43 [La economía catalana crece un 11,5% desde 2019, pero siete comarcas siguen por debajo](https://www.elperiodico.com/es/economia/20260928/economia-catalana-crece-11-5-134753810)<br>
+12:38 [TMB prevé un ahorro de 66,5 millones de euros con la electrificación de toda su flota de autobuses](https://www.elperiodico.com/es/barcelona/20260928/tmb-preve-ahorro-66-millones-flota-autobuses-barcelona-134742651)<br>
+12:30 [Microbiota, el gran sistema que influye en nuestra salud: "Toda enfermedad comienza en el intestino"](https://www.elperiodico.com/es/salud/20260928/microbiota-gran-sistema-influye-salud-enfermedad-comienza-intestino-134755957)<br>
+12:05 [Trabajar solo tres horas al día a cambio de casa y comida gratis en uno de los pueblos más bonitos de España](https://www.elperiodico.com/es/economia/20260928/vivir-comer-gratis-pueblo-bonito-espana-trabajo-jardin-naturaleza-intercambio-cultural-dv-et-134624667)<br>
+11:41 [Wallapop integra Bizum para pagar las compras de segunda mano, tanto en persona como con envío](https://www.elperiodico.com/es/economia/20260928/wallapop-bizum-pagar-compras-persona-online-134753220)<br>
+11:38 [Estados Unidos y Rusia debilitaron un acuerdo internacional para limitar el uso armamentístico de la IA](https://www.elperiodico.com/es/internacional/20260928/estados-unidos-rusia-debilitaron-uso-inteligencia-artificial-armas-matar-acuerdo-ia-trump-134753127)<br>
+10:28 [Vídeo: El joven de Vila-real Eric Ballester, en WorldSkills de Shanghái (China)](https://www.elperiodico.com/es/videos/sociedad/video-joven-vila-real-eric/134749886.shtml)<br>
+10:25 [Una investigadora de Banyoles lidera en Harvard un estudio que abre una nueva vía contra el cáncer](https://www.elperiodico.com/es/sociedad/20260928/investigadora-banyoles-lidera-harvard-estudio-134749934)<br>
+10:04 [El mensaje de Maricarmen desde el hospital a todos los que están en acampados en Sol: "Seguid acampados hasta que vuestro cuerpo aguante"](https://www.elperiodico.com/es/videos/politica/mensaje-maricarmen-hospital-acampados-sol/134749361.shtml)<br>
+10:01 [¿Qué es "la higiene del sueño infantil" y por qué es tan importante?](https://www.elperiodico.com/es/videos/cuidamos-tu-salud/higiene-sueno-infantil-importante/134749292.shtml)<br>
+09:56 [Detenido en Benidorm por matar a su pareja y trasladar el cadáver con ayuda de dos conocidos](https://www.elperiodico.com/es/sucesos/20260928/asesinada-mujer-benidorm-caso-investiga-134749167)<br>
+09:30 [Los Castellers d'Esparreguera ganan 'in extremis' la primera jornada del Concurs de Castells 2026 de Tarragona](https://www.elperiodico.com/es/tarragona/20260928/castellers-esparreguera-ganan-in-extremis-concurs-castells-tarragona-134753141)<br>
 09:03 [Gigantes de la IA investigan decenas de miles de incidentes de seguridad](https://www.elperiodico.com/es/sociedad/20260928/gigantes-ia-investigan-decenas-miles-incidentes-seguridad-134747755)<br>
 08:22 [Qué fue de Ricardo Bofill, el arquitecto que acaparó titulares por su matrimonio con Chábeli Iglesias y sus adicciones](https://www.elperiodico.com/es/gente/20260928/ricardo-bofill-que-fue-arquitecto-acaparo-titulares-matrimonio-chabeli-iglesias-adicciones-134746971)<br>
 08:00 [Todos a una](https://www.elperiodico.com/es/sociedad/20260928/todos-a-una-134746557)<br>
