@@ -1,4 +1,4 @@
-# News for 2026-09-28 22:17
+# News for 2026-09-28 23:24
 
 Previous day: [2026-09-27](./data/2026-09-27.md)
 
@@ -31,6 +31,7 @@ Previous day: [2026-09-27](./data/2026-09-27.md)
 01:51 [Підготовка теракту: поблизу авіабази у Британії затримали п'ятьох людей](https://ua.korrespondent.net/world/4915375-pidhotovka-teraktu-poblyzu-aviabazy-u-brytanii-zatrymaly-piatokh-luidei)<br>
 
 ## as.com
+22:48 [Sánchez: “¿La NBA en Europa? Ojalá, cuanto antes, mejor”](https://as.com/baloncesto/euroliga/sanchez-la-nba-en-europa-ojala-cuanto-antes-mejor-f202609-n/)<br>
 19:56 [Alberto Díaz, entre seis y ocho semanas de baja por lesión](https://as.com/baloncesto/alberto-diaz-entre-seis-y-ocho-semanas-de-baja-por-lesion-f202609-n/)<br>
 18:19 [El Madrid inscribe a Nick Smith](https://as.com/baloncesto/euroliga/nick-smith-jr-esta-listo-f202609-n/)<br>
 17:54 [Aminata Sangaré: la reina sin corona que hizo historia en la Supercopa](https://as.com/baloncesto/aminata-sangare-la-reina-sin-corona-que-hizo-historia-en-la-supercopa-f202609-n/)<br>
@@ -39,6 +40,8 @@ Previous day: [2026-09-27](./data/2026-09-27.md)
 08:47 [La Euroliga ya tiene oferta de la NBA](https://as.com/baloncesto/euroliga/la-euroliga-ya-tiene-oferta-de-la-nba-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:18 [Así ha sido el primer vuelo orbital de la nave Starship de SpaceX](https://www.elperiodico.com/es/videos/internacional/primer-vuelo-orbital-nave-starship-spacex/134780176.shtml)<br>
+22:17 [Protecció Civil envía una alerta a 13 comarcas por las lluvias intensas previstas este martes en Catalunya](https://www.elperiodico.com/es/tiempo/20260928/proteccio-civil-envia-alerta-lluvias-intesas-134780019)<br>
 21:45 [Maricarmen vuelve a casa](https://www.elperiodico.com/es/sociedad/20260928/acuerdo-vista-representantes-maricarmen-urbagestion-134779605)<br>
 21:43 [La espectacular bandera de España que recorre Torrox en apoyo a Ceuta](https://www.elperiodico.com/es/videos/sociedad/espectacular-bandera-espana-recorre-torrox-malaga/134779504.shtml)<br>
 21:26 [Rosa Jorba, primera cirujana española nombrada miembro de honor del 'American College of Surgeons'](https://www.elperiodico.com/es/sociedad/empoderadas/20260928/rosa-jorba-primera-cirujana-espanola-miembro-de-honor-american-college-of-surgeons-134778834)<br>

@@ -1,5 +1,104 @@
 [
   {
+    "title": "El Papa ante el desahucio de Maricarmen: \"Tenemos que exigir a los líderes políticos que busquen soluciones\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260928/papa-desahucio-maricarmen-exigir-lideres-134781010",
+    "pubDate": "2026-09-28 23:15:36",
+    "category": "",
+    "description": "<h2>El líder de la Iglesia Católica reflexiona sobre el fallo del sistema que permite el desahucio de personas con discapacidad y pide un compromiso firme a los gobiernos nacionales</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Olise desatasca a la Francia de Zidane en Bélgica (0-1)",
+    "link": "https://www.elperiodico.com/es/deportes/20260928/olise-desatasca-francia-zidane-belgica-134780882",
+    "pubDate": "2026-09-28 23:13:24",
+    "category": "",
+    "description": "<h2 class=\"item\">Un gol del astro del Bayern en el minuto 88 aupó a los 'bleus', que comandan su grupo con dos victorias por la mínima en dos partidos. </h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El dron Drizzle, última aportación española para la guerra de drones",
+    "link": "https://www.elperiodico.com/es/videos/politica/dron-drizzle-ultima-aportacion-espanola/134780947.shtml",
+    "pubDate": "2026-09-28 23:11:14",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Italia se reencuentra con el fútbol con una goleada a Turquía (1-4)",
+    "link": "https://www.elperiodico.com/es/deportes/20260928/italia-reencuentra-futbol-turquia-nations-134780716",
+    "pubDate": "2026-09-28 23:02:30",
+    "category": "",
+    "description": "<h2 class=\"item\">Mancini suma su primer triunfo en su nueva etapa con la 'azzurra' después del fiasco del debut contra Bélgica.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El dilema de Machado: esperar su momento de volver a Venezuela o desafiar a Trump",
+    "link": "https://www.elperiodico.com/es/internacional/20260928/dilema-machado-esperar-momento-volver-venezuela-desafiar-trump-134780822",
+    "pubDate": "2026-09-28 22:59:46",
+    "category": "",
+    "description": "<h2>Después de sus tres recientes intentos de retornar al país, la premio Nobel no se resigna a tener un papel de reparto en la transición venezolana</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Furnells (Oesía) respalda que Europa ponga en marcha una agencia de tecnología avanzada para mejorar la industria de defensa",
+    "link": "https://www.elperiodico.com/es/economia/20260928/furnells-oesia-respalda-europa-ponga-134780681",
+    "pubDate": "2026-09-28 22:51:09",
+    "category": "",
+    "description": "<h2>La industria de defensa en España factura más de 16.000 millones de euros, consolidándose como un sector clave para vertebrar el territorio y fomentar la innovación tecnológica a nivel europeo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Sánchez: “¿La NBA en Europa? Ojalá, cuanto antes, mejor”",
+    "link": "https://as.com/baloncesto/euroliga/sanchez-la-nba-en-europa-ojala-cuanto-antes-mejor-f202609-n/",
+    "pubDate": "2026-09-28 22:48:56",
+    "category": "Baloncesto",
+    "description": "El director del baloncesto del Real Madrid habla en la televisión del club del fichaje de Pedro Martínez, del equipo y del futuro de la Euroliga. Apuesta por la NBA.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere un hombre en Guipúzcoa tras recibir un disparo de un policía municipal",
+    "link": "https://www.elperiodico.com/es/sucesos/20260928/muere-hombre-guipuzcoa-recibir-disparo-134780500",
+    "pubDate": "2026-09-28 22:40:40",
+    "category": "",
+    "description": "<h2>El fallecido es un varón de 46 años que intentó agredir con un arma blanca a una agente de la Ertzaintza</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Удар по НАН: зросла кількість загиблих",
+    "link": "https://ua.korrespondent.net/city/kiev/4915653-udar-po-nan-zrosla-kilkist-zahyblykh",
+    "pubDate": "2026-09-28 22:38:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578467.jpg\">Унаслідок ворожого удару по будівлі НАН України загинуло дві людини, повідомив київський міського голова Віталій Кличко.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Así ha sido el primer vuelo orbital de la nave Starship de SpaceX",
+    "link": "https://www.elperiodico.com/es/videos/internacional/primer-vuelo-orbital-nave-starship-spacex/134780176.shtml",
+    "pubDate": "2026-09-28 22:18:30",
+    "category": "",
+    "description": "La compañía de Elon Musk finaliza antes de lo previsto el decimocuarto vuelo de prueba del vehículo espacial más potente que han construido hasta ahora con el que aspira a protagonizar viajes tripulados a la Luna y Marte",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Protecció Civil envía una alerta a 13 comarcas por las lluvias intensas previstas este martes en Catalunya",
+    "link": "https://www.elperiodico.com/es/tiempo/20260928/proteccio-civil-envia-alerta-lluvias-intesas-134780019",
+    "pubDate": "2026-09-28 22:17:16",
+    "category": "",
+    "description": "<h2>El aviso afecta a La Selva, Maresme, Vallès Occidental, Vallès Oriental, Barcelonès, Baix Llobregat, Garraf, Alt Penedès, Conca de Barberà, Baix Camp, Alt Camp, Baix Penedès i Tarragonès.</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260928/catalunya-lluvias-martes-prevision-inundaciones-avisos-134770527\">Catalunya activa sus protocolos frente a inundaciones ante las lluvias torrenciales previstas para este martes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Кабмін змінив пріоритети витрат через брак коштів",
     "link": "https://ua.korrespondent.net/business/financial/4915638-kabmin-zminyv-priorytety-vytrat-cherez-brak-koshtiv",
     "pubDate": "2026-09-28 22:05:00",
