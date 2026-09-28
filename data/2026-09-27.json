@@ -1,5 +1,14 @@
 [
   {
+    "title": "Toyota Yaris Cross 2027: preparado para ir más lejos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260927/toyota-yaris-cross-2027-preparado-bc-134747063",
+    "pubDate": "2026-09-27 23:59:00",
+    "category": "",
+    "description": "",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El primer Piromusical en la playa de la Nova Icària",
     "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/primer-piromusical-playa-nova-icaria/134743253.shtml",
     "pubDate": "2026-09-27 23:55:22",
@@ -52,6 +61,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577446.jpg\">Кошти критично необхідні для забезпечення Сил оборони дронами, ракетами, технікою та іншими засобами.",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Україні не вистачає на оборону $27 млрд - Корецький",
+    "link": "https://ua.korrespondent.net/ukraine/4915365-ukraini-ne-vystachaie-na-oboronu-27-mlrd-koretskyi",
+    "pubDate": "2026-09-27 23:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577446.jpg\">Кошти критично необхідні для забезпечення Сил оборони дронами, ракетами, технікою та іншими засобами.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Trump continúa su cruzada contra los medios: dice que sustituirá la sala de prensa de la Casa Blanca por una piscina",
