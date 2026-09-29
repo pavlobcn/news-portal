@@ -1,5 +1,176 @@
 [
   {
+    "title": "Sumar mantiene el choque con el PSOE en el alquiler indefinido: \"No vamos a avalar un decreto que se quede a medias\"",
+    "link": "https://www.elperiodico.com/es/politica/20260929/sumar-choque-psoe-alquiler-decreto-vivienda-134785402",
+    "pubDate": "2026-09-29 08:50:40",
+    "category": "",
+    "description": "<h2>El socio minoritario del Ejecutivo mantiene su amenaza de plantarse ante la reunión del Consejo de Ministros si no se incluyen sus medidas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora del tráfico y transporte público en Barcelona y Catalunya, en directo: suspendida la alta velocidad y los trenes regionales por las lluvias",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/trafico-barcelona-hoy-directo-carreteras-lluvias-133938712",
+    "pubDate": "2026-09-29 08:50:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un informe policial alertó hace dos años de los riesgos para la seguridad del Tesoro de Villena: \"Un edificio muy bonito que no es un museo\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20260929/informe-policial-alertaba-riesgos-proteger-tesoro-villena-edificio-bonito-museo-134785391",
+    "pubDate": "2026-09-29 08:49:38",
+    "category": "",
+    "description": "<h2>La Policía Autonómica avisó en julio de 2024 de las carencias del Muvi y de sus ventanales, mientras el Ayuntamiento alega que pidió el informe para mejorar la seguridad tras abrir el recinto y que son recomendaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Muere Dennis Haskins, el mítico director de 'Salvados por la campana', a los 75 años",
+    "link": "https://www.elperiodico.com/es/gente/20260929/muere-dennis-haskins-director-belding-salvados-por-la-campana-134785131",
+    "pubDate": "2026-09-29 08:49:33",
+    "category": "",
+    "description": "<h2>El actor estadounidense convirtió al señor Belding, responsable del instituto Bayside y eterno perseguidor de Zack Morris y compañía, en uno de los personajes más reconocibles de la televisión juvenil de los años 90</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "РФ атакувала залізничну інфраструктуру на Вінниччині, є знеструмлення",
+    "link": "https://ua.korrespondent.net/ukraine/4915717-rf-atakuvala-zaliznychnu-infrastrukturu-na-vinnychchyni-ye-znestrumlennia",
+    "pubDate": "2026-09-29 08:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578724.jpg\">Через пошкодження без електроенергії залишилися понад 15 тисяч споживачів. Минулося без постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Uganda, el gran viaje de otoño a la Perla de África, en el número de octubre de VIAJAR",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260929/uganda-gran-viaje-otono-perla-octubre-viajar-134785233",
+    "pubDate": "2026-09-29 08:40:36",
+    "category": "",
+    "description": "<h2>Uganda, Finlandia y Honduras son algunos de los países que protagonizan nuestro número de octubre, un ejemplar que viene cargado también de propuestas nacionales (desde Burgos hasta Cantabria) para que tengas opciones más cercanas y más lejanas para seguir viajando este otoño </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20260929/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-09-29 08:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Guerra de Irán, en directo | Irán niega que vaya a retomar las negociaciones con EEUU",
+    "link": "https://www.elperiodico.com/es/internacional/20260929/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-09-29 08:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Наслідки ранкової атаки РФ на Київ показала ДСНС",
+    "link": "https://ua.korrespondent.net/city/kiev/4915713-naslidky-rankovoi-ataky-rf-na-kyiv-pokazala-dsns",
+    "pubDate": "2026-09-29 08:34:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578715.jpg\">Під час ранкової атаки РФ на Київ у Голосіївському районі зафіксували влучання у 6-поверхівку, одна людина постраждала. У Солом’янському районі пошкоджені два приватні будинки.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Вчені дізналися, як далеко насправді гуляють домашні коти",
+    "link": "https://ua.korrespondent.net/tech/science/4915340-vcheni-diznalysia-yak-daleko-naspravdi-huliauit-domashni-koty",
+    "pubDate": "2026-09-29 08:29:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4577213.jpg\">Екологів та науковців серйозно турбує той факт, що коти, яких тримають удома, здатні завдати шкоди локальним екосистемам.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Олімпійська чемпіонка вирішила завершити кар’єру у 33 роки",
+    "link": "https://ua.korrespondent.net/sport/4915712-olimpiiska-chempionka-vyrishyla-zavershyty-karieru-u-33-roky",
+    "pubDate": "2026-09-29 08:25:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578705.jpg\">Британка розповів про рішення піти з треку та подякувала команді й уболівальникам за роки підтримки.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Циркон, Іскандери і БПЛА: ППО знешкодила 109 цілей",
+    "link": "https://ua.korrespondent.net/ukraine/4915708-tsyrkon-iskandery-i-bpla-ppo-zneshkodyla-109-tsilei",
+    "pubDate": "2026-09-29 08:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578697.jpg\">Росія вночі запустила по Україні 152 ударні дрони, одну протикорабельну та дві балістичні ракети. ППО знищила або подавила 106 безпілотників і три ракети.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La intrahistoria del fichaje de Nick Smith: “20 días insistiendo a los agentes, a su novia…”",
+    "link": "https://as.com/baloncesto/acb/la-intrahistoria-del-fichaje-de-nick-smith-20-dias-insistiendo-a-los-agentes-a-su-novia-f202609-n/",
+    "pubDate": "2026-09-29 08:08:00",
+    "category": "Baloncesto",
+    "description": "El director del baloncesto del Real Madrid dice que Luka Doncic echó una mano al club para incorporar al escolta: “Es el jugador que más nos ha costado”.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Felipe VI y Letizia reciben a Macron en su primera visita de Estado con una Europa bajo presión como telón de fondo",
+    "link": "https://www.elperiodico.com/es/politica/20260929/reyes-macron-visita-estado-europa-presion-ceuta-134777064",
+    "pubDate": "2026-09-29 08:00:04",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente francés llega a España tras respaldar al Gobierno durante la crisis migratoria de Ceuta y defender una respuesta europea común</h2><h2 class=\"item\">Ni Leonor ni la infanta Sofía, que este curso estudia en el campus de su universidad en París, participarán en los actos programados</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Chiquito de la Calzada contra Lucas Grijander, la amarga guerra judicial que marcó al humorista: \"Se vino abajo y lo sufrió bastante\"",
+    "link": "https://www.elperiodico.com/es/tele/20260929/chiquito-calzada-juicio-florentino-documental-movistar-134638624",
+    "pubDate": "2026-09-29 08:00:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Movistar Plus recuerda el juicio del cómico contra Pepe Navarro y Telecinco en el documental 'El otro Chiquito'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260921/movistar-series-carles-porta-buenafuente-angel-martin-134505558\">Nuevas series de Carles Porta y Buenafuente y el regreso de Ángel Martín, entre los nuevos proyectos de Movistar Plus</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rassmia: el restaurante donde 'toca' el único 'chef orquesta' de Zaragoza",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260929/rassmia-restaurante-zaragoza-134040483",
+    "pubDate": "2026-09-29 08:00:03",
+    "category": "",
+    "description": "<h2 class=\"item\">El chef Alejandro López Zaurín lo hace todo: elabora y sirve su cocina \"de autor y mediterránea\" con toques internacionales en una barra para siete comensales</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231024/buenos-restaurantes-barcelona-trabaja-una-sola-persona-93435831\">Superhéroes de la restauración: 4 buenos restaurantes donde solo trabaja 1 persona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260902/mejores-restaurantes-pan-artesano-2026-133827269\">Cocineros de toma pan y moja: estos chefs sirven menús gastronómicos y amasan hogazas al mismo tiempo</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Este neumático tiene un 43% de materiales reciclados y ya apunta al futuro del coche eléctrico",
+    "link": "https://www.elperiodico.com/es/motor/20260929/neumatico-43-materiales-reciclados-apunta-134674303",
+    "pubDate": "2026-09-29 08:00:03",
+    "category": "",
+    "description": "<h2>El proyecto europeo ZEvRA busca demostrar que es posible aumentar la circularidad de los vehículos eléctricos sin renunciar a la seguridad ni al rendimiento de sus neumáticos</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "50 Best se convierte en la plataforma The 50 (y otras noticias gastro)",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260929/50-best-plataforma-134646149",
+    "pubDate": "2026-09-29 07:58:58",
+    "category": "",
+    "description": "<h2 class=\"item\">Te contamos lo que pasa en el mundillo gastro en estos 'flashes'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250619/maido-mejor-restaurante-mundo-world-50-best-restaurants-2025-asador-extebarri-diverxo-118772475\">Asador Etxebarri y Diverxo repiten como segundo y cuarto mejor restaurante del mundo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20250619/precio-maido-mejor-restaurante-mundo-2025-118789570\">Esto es lo que cuesta comer en el mejor restaurante del mundo, según la lista 50 Best</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Кравченка вивели зі складу РНБО - указ Зеленського",
+    "link": "https://ua.korrespondent.net/ukraine/4915710-kravchenka-vyvely-zi-skladu-rnbo-ukaz-zelenskoho",
+    "pubDate": "2026-09-29 07:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578706.jpg\">Руслан Кравченко більше не входить до складу РНБО. Володимир Зеленський підписав указ про його виключення.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Placas solares bajo el agua: prueban con éxito paneles sumergidos a 10 metros de profundidad",
     "link": "https://www.elperiodico.com/es/medio-ambiente/20260929/placas-solares-agua-prueban-exito-134784444",
     "pubDate": "2026-09-29 07:55:48",

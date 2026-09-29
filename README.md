@@ -1,13 +1,19 @@
-# News for 2026-09-29 07:58
+# News for 2026-09-29 08:51
 
 Previous day: [2026-09-28](./data/2026-09-28.md)
 
+## ua.korrespondent.net
+08:29 [Вчені дізналися, як далеко насправді гуляють домашні коти](https://ua.korrespondent.net/tech/science/4915340-vcheni-diznalysia-yak-daleko-naspravdi-huliauit-domashni-koty)<br>
+
 ## as.com
+08:08 [La intrahistoria del fichaje de Nick Smith: “20 días insistiendo a los agentes, a su novia…”](https://as.com/baloncesto/acb/la-intrahistoria-del-fichaje-de-nick-smith-20-dias-insistiendo-a-los-agentes-a-su-novia-f202609-n/)<br>
 07:30 [Valencia-Baskonia, primer duelo español en Euroliga](https://as.com/baloncesto/euroliga/valencia-baskonia-primer-duelo-espanol-en-euroliga-f202609-n/)<br>
 07:30 [Reencuentro en Dubái](https://as.com/baloncesto/euroliga/reencuentro-en-dubai-f202609-n/)<br>
 07:30 [El Girona se juega su billete a la Euroliga](https://as.com/baloncesto/mas_baloncesto/el-girona-se-juega-su-billete-a-la-euroliga-f202609-n/)<br>
 
 ## www.elperiodico.com
+08:49 [Un informe policial alertó hace dos años de los riesgos para la seguridad del Tesoro de Villena: "Un edificio muy bonito que no es un museo"](https://www.elperiodico.com/es/sucesos/20260929/informe-policial-alertaba-riesgos-proteger-tesoro-villena-edificio-bonito-museo-134785391)<br>
+08:40 [Uganda, el gran viaje de otoño a la Perla de África, en el número de octubre de VIAJAR](https://www.elperiodico.com/es/ocio-y-cultura/20260929/uganda-gran-viaje-otono-perla-octubre-viajar-134785233)<br>
 07:55 [Placas solares bajo el agua: prueban con éxito paneles sumergidos a 10 metros de profundidad](https://www.elperiodico.com/es/medio-ambiente/20260929/placas-solares-agua-prueban-exito-134784444)<br>
 07:30 [Última hora de la alerta por lluvias torrenciales en Catalunya, en directo: previsión del tiempo y zonas afectadas](https://www.elperiodico.com/es/sociedad/20260929/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025)<br>
 07:25 [Jordi Clotet, experto inmobiliario, sobre la orientación de vivienda más demandada en Barcelona: "Compensa en precio. Estás comprando un piso con más metros cuadrados, o en una mejor zona..."](https://www.elperiodico.com/es/economia/20260929/orientacion-piso-precio-cambio-climatico-temperaturas-sol-inmobiliario-jordi-clotet-dv-et-134527783)<br>
