@@ -1,5 +1,653 @@
 [
   {
+    "title": "La Seguridad Social permite cobrar el 100% de la pensión y seguir trabajando a quienes demoren cinco años la jubilación",
+    "link": "https://www.elperiodico.com/es/economia/20260929/seguridad-social-cobrar-100-por-ciento-pension-seguir-trabajando-demorar-cinco-anos-jubilacion-dv-134798759",
+    "pubDate": "2026-09-29 13:55:03",
+    "category": "",
+    "description": "<h2>La jubilación activa permite compatibilizar el empleo con el cobro de la pensión, cuyo porcentaje aumenta progresivamente según los años de demora</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп анонсував мегазавод сталі в США за $15 млрд",
+    "link": "https://ua.korrespondent.net/world/4915833-tramp-anonsuvav-mehazavod-stali-v-ssha-za-15-mlrd",
+    "pubDate": "2026-09-29 13:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578923.jpg\">У США планують побудувати новий сталеливарний завод, який стане одним із найбільших в історії країни. Компанія Mesabi Metallics розраховує розпочати виробництво в Айові у 2030 році.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Німеччина посилила нагляд за посольством РФ",
+    "link": "https://ua.korrespondent.net/world/4915832-nimechchyna-posylyla-nahliad-za-posolstvom-rf",
+    "pubDate": "2026-09-29 13:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578922.jpg\">Влада ФРН також планує ретельніше перевіряти пов’язаних із Кремлем бізнесменів та їхні родини.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El excap de colla de los Xiquets del Serrallo se enfrenta a 19 años de prisión por presuntos abusos a una menor en Tarragona",
+    "link": "https://www.elperiodico.com/es/tarragona/20260929/excap-colla-xiquets-serrallo-enfrenta-prision-presuntos-abusos-menor-tarragona-134798627",
+    "pubDate": "2026-09-29 13:52:54",
+    "category": "",
+    "description": "<h2>La Audiencia de Tarragona juzga al ex miembro de la colla castellera por unos hechos que se prolongaron hasta el verano de 2022 en su domicilio y vehículo</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El PP desmonta en el Senado la ley para dar la nacionalidad a los saharauis y les obliga a vivir dos años en España",
+    "link": "https://www.elperiodico.com/es/politica/20260929/pp-ley-nacioalidad-saharauis-vivir-espana-134799021",
+    "pubDate": "2026-09-29 13:52:42",
+    "category": "",
+    "description": "<h2>Junts, que se abstuvo en la votación del Congreso, tendrá en su mano recuperar el texto original </h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Àngels Barceló (63 años), sobre su vuelta a Barcelona: \"Me he vuelto a empadronar en Catalunya. Madrid no era la ciudad donde quería envejecer porque es muy hostil\"",
+    "link": "https://www.elperiodico.com/es/catalunya/20260929/angels-barcelo-cataluna-barcelona-madrid-cadena-ser-dv-et-134795820",
+    "pubDate": "2026-09-29 13:51:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El pasado mes de junio la periodista dejó su trabajo como locutora en Cadena Ser tras más de dos décadas en la radio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260617/refugio-angels-barcelo-pueblo-mediterraneo-playas-dv-131508487\">El refugio de Àngels Barceló (63 años) es un precioso pueblo de esencia mediterránea: tiene playas de aguas cristalinas, una iglesia del siglo XVIII y solo 7.000 habitantes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ubisoft está preparando un proyecto de IA capaz de crear sus propios juegos",
+    "link": "https://www.elperiodico.com/es/videojuegos/20260929/ubisoft-preparando-proyecto-ia-capaz-134798607",
+    "pubDate": "2026-09-29 13:50:55",
+    "category": "",
+    "description": "<h2>El sistema agrupa distintos trabajos y funciones alrededor de la IA generativa, entre ellos la creación de videojuegos, contenido interactivo y conversaciones</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Raphinha tiene que ser sustituido con Brasil por molestias en su muslo derecho",
+    "link": "https://www.elperiodico.com/es/deportes/20260929/raphinha-sustituido-brasil-molestias-muslo-134798336",
+    "pubDate": "2026-09-29 13:49:24",
+    "category": "",
+    "description": "<h2>El delantero del Barça ya no salió en el segundo tiempo en el amistoso frente a Australia en Brisbane</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський направив петицію щодо Потапа до уряду та СБУ",
+    "link": "https://ua.korrespondent.net/lifestyle/4915808-zelenskyi-napravyv-petytsiui-schodo-potapa-do-uriadu-ta-sbu",
+    "pubDate": "2026-09-29 13:48:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578860.jpg\">Глава держави дав доручення Кабміну та СБУ вивчити петицію щодо позбавлення репера Олексія Потапенка звання заслуженого артиста.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Гауляйтер Донецька отримав підозру",
+    "link": "https://ua.korrespondent.net/ukraine/4915829-hauliaiter-donetska-otrymav-pidozru",
+    "pubDate": "2026-09-29 13:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578921.jpeg\">Олексій Кулемзін та його підлегла Олена Вербовська депортували 31 українську дитину до РФ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Inundación en el acceso a las rondas por la C-31 en Badalona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/inundacion-acceso-rondas-c31-badalona-video/134798467.shtml",
+    "pubDate": "2026-09-29 13:45:26",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мільйон підроблених смартфонів Samsung: у 19 країнах провели обшуки",
+    "link": "https://ua.korrespondent.net/business/4915827-milion-pidroblenykh-smartfoniv-Samsung-u-19-krainakh-provely-obshuky",
+    "pubDate": "2026-09-29 13:44:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578920.jpg\">У 19 країнах Європи провели близько 160 обшуків у справі про продаж підроблених смартфонів Samsung. За даними слідства, через інтернет могли продати близько мільйона пристроїв.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El PSC propone al exministro Francisco Caamaño como magistrado del Tribunal Constitucional",
+    "link": "https://www.elperiodico.com/es/politica/20260929/psc-propone-parlament-exministro-francisco-caamano-magistrado-tribunal-constitucional-134795471",
+    "pubDate": "2026-09-29 13:39:10",
+    "category": "",
+    "description": "<h2 class=\"item\">La Cámara catalana puede presentar candidatos para las cuatro plazas del TC cuya designación corresponde al Senado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260928/pumpido-tc-acusa-supremo-interpretacion-134766840\" target=\"_blank\">El presidente del TC defiende aplicar la amnistía al delito de malversación en el 'procés' y carga contra el Supremo</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vuelos cancelados en el aeropuerto del Prat",
+    "link": "https://www.elperiodico.com/es/videos/tiempo/vuelos-cancelados-aeropuerto-prat/134798040.shtml",
+    "pubDate": "2026-09-29 13:37:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шалене святкування гола Зіданом підірвало мережу",
+    "link": "https://ua.korrespondent.net/sport/football/4915813-shalene-sviatkuvannia-hola-zidanom-pidirvalo-merezhu",
+    "pubDate": "2026-09-29 13:37:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578884.jpg\">Тренер збірної Франції дав волю почуттям, емоційно та яскраво відсвяткувавши гол Майкла Олісе у ворота бельгійців.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pau Gasol (46 años) transmite el legado de Kobe Bryant a sus hijos: \"Lo consideren su tío. Saben lo que ha pasado y tengo una relación muy cercana con Vanessa Bryant y sus hijas\"",
+    "link": "https://www.elperiodico.com/es/gente/20260929/pau-gasol-vida-familia-kobe-bryant-baloncesto-dv-et-134754036",
+    "pubDate": "2026-09-29 13:35:02",
+    "category": "",
+    "description": "<h2>Tras una carrera marcada por éxitos, lesiones y su paso por la NBA, el exjugador de baloncesto afronta una nueva etapa centrada en la familia</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260618/pau-gasol-futuro-deporte-debe-131569931\">Pau Gasol: \"El futuro del deporte debe construirse con los atletas, no solo para los atletas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "АРМА продає пошкоджені атаками Росії судна",
+    "link": "https://ua.korrespondent.net/business/4915823-arma-prodaie-poshkodzheni-atakamy-rosii-sudna",
+    "pubDate": "2026-09-29 13:35:00",
+    "category": "Новини бізнесу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578908.jpg\">АРМА виставило на електронні торги дев’ять арештованих суден, що перебувають у порту Ізмаїл. Стартова вартість лота - 151,6 млн грн.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El AMB deja encarrilada la adjudicación a Veolia de su gran contrato de agua de 1.000 millones",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/amb-encarrilada-adjudicacion-veolia-contrato-agua-1000-millones-134792730",
+    "pubDate": "2026-09-29 13:34:30",
+    "category": "",
+    "description": "<h2>El Consell Metropolità aprueba el último trámite con la negativa del alcalde de Sant Cugat, de Junts, una de las ciudades implicadas en la contrata</h2><h2>CONTEXTO | <a href=\"https://www.elperiodico.com/es/barcelona/20260721/veolia-gana-posiciones-llevarse-contrato-agua-1000-millones-area-de-barcelona-132653313\" target=\"_blank\">Veolia gana posiciones para adjudicarse el contrato de agua de 1.000 millones del área de Barcelona</a></h2><h2>GRUPOS | <a href=\"https://www.elperiodico.com/es/barcelona/20260330/seis-grupos-empresariales-disputan-gran-contrato-agua-ocho-ciudades-area-barcelona-128591471\" target=\"_blank\">Seis grupos empresariales se disputan el gran contrato de agua para ocho ciudades del área de Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Раціон після 30-ти: продукти, про які всі часто забувають",
+    "link": "https://ua.korrespondent.net/articles/4915816-ratsion-pislia-30-ty-produkty-pro-yaki-vsi-chasto-zabuvauit",
+    "pubDate": "2026-09-29 13:30:00",
+    "category": "Статті",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578896.png\">Організм не старіє одразу після 30 років, але потреба у збалансованому харчуванні нікуди не зникає. Розповідаємо, які продукти офіційні рекомендації радять включати до раціону регулярно.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Путін різко знизив ліміт на вивезення грошей з Росії",
+    "link": "https://ua.korrespondent.net/world/russia/4915821-putin-rizko-znyzyv-limit-na-vyvezennia-hroshei-z-rosii",
+    "pubDate": "2026-09-29 13:28:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578906.jpg\">Росія більш ніж у вісім разів знизила граничну суму готівкових рублів, яку фізособи можуть вивозити до низки сусідніх країн. Новий ліміт становить 1 млн рублів. У разі порушення надлишок готівки вилучатимуть.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Leah Isadora Behn, la hija de Marta Luisa de Noruega, debuta en televisión arropada por toda su familia",
+    "link": "https://www.elperiodico.com/es/gente/20260929/marta-luisa-noruega-leah-isadora-behn-debut-television-134796586",
+    "pubDate": "2026-09-29 13:26:30",
+    "category": "",
+    "description": "<h2>La joven, de 21 años, se estrenó en 'Skal vi danse', la versión noruega de 'Bailando con las estrellas', acompañada por su emocionada madre, Durek Verrett y sus hermanas, un mes después de la muerte de su abuelo, el rey Harald V</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Localizada sana y salva Elena, una menor de 13 años desaparecida en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/localizada-sana-salva-elena-menor-13-anos-barcelona-134796325",
+    "pubDate": "2026-09-29 13:23:07",
+    "category": "",
+    "description": "<h2>Los Mossos d'Esquadra han agradecido la colaboración ciudadana tras la difusión de la alerta de búsqueda</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Український робот-амфібія подолав понад 40 км у межах місії",
+    "link": "https://ua.korrespondent.net/ukraine/4915819-ukrainskyi-robot-amfibiia-podolav-ponad-40-km-u-mezhakh-misii",
+    "pubDate": "2026-09-29 13:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578905.png\">Роботизований комплекс подолав маршрут суходолом і водою, доставивши провізію та боєкомплект на позиції.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La lluvia obliga a cortar tramos de la Ronda de Dalt en ambos sentidos",
+    "link": "https://www.elperiodico.com/es/videos/tiempo/lluvia-obliga-cortar-tramos-ronda/134797042.shtml",
+    "pubDate": "2026-09-29 13:18:50",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Fernando Alonso renueva con Aston Martin",
+    "link": "https://www.elperiodico.com/es/deportes/20260929/fernando-alonso-renueva-aston-martin-134796929",
+    "pubDate": "2026-09-29 13:17:54",
+    "category": "",
+    "description": "<h2>La escudería de Silverstone ha emitido un comunicado en el que anuncia la continuidad del asturiano en 2027 y también de Lance Stroll</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "DIRECTO | Los Reyes reciben al presidente de la República Francesa, Emmanuel Macron, con motivo de su visita de Estado a España, en el Palacio Real de Madrid",
+    "link": "https://www.elperiodico.com/es/videos/internacional/directo-reyes-reciben-presidente-republica/134796989.shtml",
+    "pubDate": "2026-09-29 13:16:54",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Solo el 28% de las ‘startups’ consigue beneficios, pero casi tres de cada cuatro prevén lograrlos en 2026",
+    "link": "https://www.elperiodico.com/es/economia/20260929/solo-28-por-ciento-startups-consigue-beneficios-134796833",
+    "pubDate": "2026-09-29 13:15:20",
+    "category": "",
+    "description": "<h2>Un estudio de CaixaBank DayOne y Afi constata las dificultades de rentabilidad de las empresas emergentes, pese a sus expectativas de crecimiento</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Govern prevé que la unidad antidesahucios esté en marcha a principios de 2027",
+    "link": "https://www.elperiodico.com/es/politica/20260929/govern-vivienda-unidad-antidesahucios-2027-debate-politica-general-catalunya-134792616",
+    "pubDate": "2026-09-29 13:13:43",
+    "category": "",
+    "description": "<h2>La consellera Sílvia Paneque subraya que se han comprado 5.000 pisos en dos años a fondos de inversión por la vía del tanteo y retracto</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260929/salvador-illa-vivienda-debate-politica-general-parlament-extrema-derecha-134739001\" target=\"_blank\">Illa sitúa la vivienda en el centro de su batalla contra el auge de la extrema derecha</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260926/comuns-exigen-govern-active-unidad-134688893\" target=\"_blank\">Los Comuns exigen al Govern que active la unidad antidesahucios y compre 400 pisos de Blackstone</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У Києві масштабна аварія на водопроводі: затопило вулицю",
+    "link": "https://ua.korrespondent.net/city/kiev/4915814-u-kyievi-masshtabna-avariia-na-vodoprovodi-zatopylo-vulytsui",
+    "pubDate": "2026-09-29 13:09:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578895.jpg\">Аварійний витік стався із водопроводу діаметром 300 мм. Через пошкодження затопило проїжджу частину, а два заклади освіти відключили від водопостачання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El cáncer se dispara en mujeres jóvenes",
+    "link": "https://www.elperiodico.com/es/videos/sanidad/cancer-dispara-mujeres-jovenes/134796188.shtml",
+    "pubDate": "2026-09-29 13:08:06",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carretera inundada en el barrio de Bellvitge",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/carretera-inundada-barrio-bellvitge-video/134796254.shtml",
+    "pubDate": "2026-09-29 13:08:05",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya ya tiene listo un ES-Alert por lluvias \"más suave\" y que se podrá desactivar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260929/cataluna-es-alert-suave-lluvias-prealerta-proteccio-civil-134791716",
+    "pubDate": "2026-09-29 13:07:22",
+    "category": "",
+    "description": "<h2 class=\"item\">Protecció Civil, que llevaba tiempo pendiente de una actualización, empezará a hacer pruebas y prevé realizar los primeros envíos en las próximas semanas para alertar de situaciones que no sean de peligro inminente</h2><h2 class=\"item\"> <a href=\"https://www.elperiodico.com/es/barcelona/20260917/trafico-cataluna-barcelona-ultima-hora-directo-ap7-rondas-diada-133938712\" target=\"_blank\">Última hora del tráfico y transporte público en Barcelona, en directo: afectaciones por las lluvias y retenciones en las rondas de Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El actor Javier Gutiérrez, sobre la vivienda y la gentrificación de Madrid: \"Vivo en una finca de 90 vecinos y más de la mitad ya son apartamentos vacacionales. Puede que en cinco años quedemos cuatro o cinco propietarios\"",
+    "link": "https://www.elperiodico.com/es/vivienda/20260929/vivienda-gentrificacion-actor-javier-gutierrez-madrid-dv-et-134786934",
+    "pubDate": "2026-09-29 13:05:43",
+    "category": "",
+    "description": "<h2>El actor confiesa que vivir en la capital \"ya es insostenible\" y \"se está convirtiendo en algo hostil\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260723/mapa-consulta-calle-calle-riesgo-gentrificacion-climatica-ciudades-area-barcelona-132697362\" >MAPA | Consulta calle a calle el riesgo de gentrificación climática de las ciudades del área metropolitana de Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20251215/gentrificacion-madrid-barcelona-expansion-ciudades-medianas-124795064\" >La gentrificación arraiga en Barcelona y Madrid y se extiende a ciudades medianas de toda España</a></h2>",
+    "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Israel decreta un \"cierre general\" de la Cisjordania ocupada y los colonos aumentan su violencia contra los palestinos",
+    "link": "https://www.elperiodico.com/es/internacional/20260929/israel-declara-cierre-general-cisjordania-colonos-aumentan-violencia-contra-palestinos-134795996",
+    "pubDate": "2026-09-29 13:01:04",
+    "category": "",
+    "description": "<h2>Este lunes por la noche al menos un centenar de ellos se han amotinado en la aldea norteña de Jalud cuando las fuerzas israelíes trataban de facilitar el retorno de una familia palestina expulsada de su hogar precisamente por la violencia de esta comunidad</h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260829/tres-semanas-asedio-aldea-palestina-qusra-soldados-prohibieron-pasear-mi-patio-133754675\" target=\"_blank\">Tres semanas de asedio contra una aldea palestina: \"Los soldados me prohibieron pasear por mi patio mientras los colonos caminan por él libremente\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Yung Lean шокував глядачів на MTV VMA: репер розбив свою статуетку",
+    "link": "https://ua.korrespondent.net/showbiz/music/4915795-Yung-Lean-shokuvav-hliadachiv-na-MTV-VMA-reper-rozbyv-svoui-statuetku",
+    "pubDate": "2026-09-29 13:01:00",
+    "category": "Музика",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578842.jpg\">Шведський виконавець Yung Lean яскраво дебютував на цьогорічній премії MTV Video Music Awards, залишивши у глядачів незабутні враження.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Manel del Río deja de ser el director general del FC Barcelona",
+    "link": "https://www.elperiodico.com/es/deportes/20260929/manel-del-rio-director-general-fc-barcelona-dimision-134793981",
+    "pubDate": "2026-09-29 13:00:52",
+    "category": "",
+    "description": "<h2>Sergio Serrano, que procede del Banco Sabadell, pasa a ostentar la mayor parte de sus funciones</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "25 años de 'Alias', la gran aventura televisiva que propulsó a J. J. Abrams",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260929/alias-aniversario-25-anos-jj-abrams-historia-134791655",
+    "pubDate": "2026-09-29 13:00:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre 2001 y 2006, la odisea de espionaje con Jennifer Garner redefinió semana tras semana los límites argumentales y formales de las series </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/series/20240921/perdidos-aniversario-historia-influencia-108352119\" target=\"_blank\">20 años del fenómeno 'Perdidos', una serie infinita que no se ha logrado duplicar</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20151217/trabajo-clave-abrams-cine-television-4758691\">5 creaciones clave de J.J. Abrams</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Південному Бузі знайшли тіло зниклого хлопчика",
+    "link": "https://ua.korrespondent.net/ukraine/4915811-u-pivdennomu-buzi-znaishly-tilo-znykloho-khlopchyka",
+    "pubDate": "2026-09-29 12:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578885.jpg\">До пошукової операції на Миколаївщині залучали рятувальників, поліцейських, військових і місцевих жителів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El juez Calama desoye a Zapatero y confirma que Yanes valorará sus joyas",
+    "link": "https://www.elperiodico.com/es/politica/20260929/juez-calama-desoye-zapatero-confirma-tasacion-joyas-134795499",
+    "pubDate": "2026-09-29 12:54:15",
+    "category": "",
+    "description": "<h2>El expresidente trató de evitar que el joyero hiciera una nueva tasación con el argumento de que ya lo había hecho en televisión por lo que tenía interés en la causa y había perdido imparcialidad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Гарсія запропонував заміну довгоочікуваному бою Ф'юрі - Джошуа",
+    "link": "https://ua.korrespondent.net/sport/boks/4915797-harsiia-zaproponuvav-zaminu-dovhoochikuvanomu-boui-fuiri-dzhoshua",
+    "pubDate": "2026-09-29 12:53:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578871.jpg\">Гарсія готовий очолити вечір боксу 11 грудня поєдинком проти Пак'яо у разі скасування чи перенесення дуелі британських суперважковаговиків.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Acampada frente al Ayuntamiento de Murcia tras la manifestación por la vivienda",
+    "link": "https://www.elperiodico.com/es/videos/politica/acampada-frente-ayuntamiento-murcia-manifestacion/134795310.shtml",
+    "pubDate": "2026-09-29 12:50:20",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Клірика УПЦ МП викрили на фінансуванні російської армії",
+    "link": "https://ua.korrespondent.net/ukraine/4915807-kliryka-upts-mp-vykryly-na-finansuvanni-rosiiskoi-armii",
+    "pubDate": "2026-09-29 12:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578874.jpg\">Протоієрей РПЦ фінансує вбивства українців та забезпечує російську армію зброєю і БпЛА.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Словаччині учень напав на вчителів та школярів: загинула вчителька",
+    "link": "https://ua.korrespondent.net/world/4915805-u-slovachchyni-uchen-napav-na-vchyteliv-ta-shkoliariv-zahynula-vchytelka",
+    "pubDate": "2026-09-29 12:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578883.jpg\">Одна дитина перебуває в критичному стані, 44-річна жінка отримала ножове поранення грудної клітки, а ще одна 61-річна жінка померла від отриманих травм.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Nuria Roure, psicóloga experta en sueño: \"Hay personas que duermen 8 o 9 horas y siguen sintiendo que no han descansado...\"",
+    "link": "https://www.elperiodico.com/es/salud/20260929/nuria-roure-experta-sueno-dormir-ansiedad-dv-et-134435989",
+    "pubDate": "2026-09-29 12:45:00",
+    "category": "",
+    "description": "<h2>La psicóloga señala que \"el problema está en cómo estás durmiendo esas horas\"</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20260918/nuria-roure-psicologa-sueno-dormir-ansiedad-dv-127168328\">Nuria Roure, experta en medicina del sueño: \"Cuando empezamos a dormir mal ya estamos creando una interpretación\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una acusada acepta dos años de cárcel por cortar las cuerdas a un operario que trabajaba a trece pisos de altura en su edificio en Benidorm",
+    "link": "https://www.elperiodico.com/es/sucesos/20260929/acusada-acepta-anos-carcel-cortar-cuerdas-operario-trabajaba-fachada-edificio-benidorm-134794844",
+    "pubDate": "2026-09-29 12:40:22",
+    "category": "",
+    "description": "<h2>Un tribunal concluye que la procesada sufría una alteración psíquica que afectaba a sus capacidades y deberá seguir durante dos años un tratamiento</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЄБРР знову погіршив прогноз ВВП для України",
+    "link": "https://ua.korrespondent.net/business/economics/4915803-yebrr-znovu-pohirshyv-prohnoz-vvp-dlia-ukrainy",
+    "pubDate": "2026-09-29 12:34:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578873.jpg\">Причиною такого рішення стало посилення російських атак, які негативно позначаються на експорті та економічній активності України.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Comunidad de Madrid da 48 horas al Gobierno para desmantelar la acampada de Sol o irán a los tribunales",
+    "link": "https://www.elperiodico.com/es/politica/20260929/comunidad-madrid-da-48-horas-134794417",
+    "pubDate": "2026-09-29 12:31:35",
+    "category": "",
+    "description": "<h2>\"La impunidad, la ilegalidad y el desorden no pueden seguir campando a sus anchas\", ha dicho Miguel Ángel García, portavoz del Ejecutivo autonómico</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Вчені знайшли фрагмент найдавнішої мирної угоди у світі",
+    "link": "https://ua.korrespondent.net/tech/science/4915778-vcheni-znaishly-frahment-naidavnishoi-myrnoi-uhody-u-sviti",
+    "pubDate": "2026-09-29 12:29:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578723.jpg\">Науковці досліджували напис на артефакті впродовж цілого року, перш ніж оприлюднити свої висновки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La religión entra de lleno en el último tramo de la campaña de las elecciones presidenciales en Brasil",
+    "link": "https://www.elperiodico.com/es/internacional/20260929/religion-entra-lleno-ultimo-tramo-campana-elecciones-presidenciales-brasil-134794201",
+    "pubDate": "2026-09-29 12:28:51",
+    "category": "",
+    "description": "<h2>Lula tiene mayor aceptación entre los católicos y Bolsonaro es preferido por los evangélicos, pero ese voto es fuertemente disputado estos días en medio de fuertes roces políticos</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Укрнафта отримає кредит Deutsche Bank на енергообладнання",
+    "link": "https://ua.korrespondent.net/business/companies/4915799-ukrnafta-otrymaie-kredyt-Deutsche-Bank-na-enerhoobladnannia",
+    "pubDate": "2026-09-29 12:28:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578862.jpg\">Кошти спрямують на встановлення газопоршневих електростанцій загальною потужністю близько 60 МВт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Шевченку - 50: легендарні клуби привітали українця",
+    "link": "https://ua.korrespondent.net/sport/football/4915789-shevchenku-50-lehendarni-kluby-pryvitaly-ukraintsia",
+    "pubDate": "2026-09-29 12:26:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578858.jpg\">Провідні європейські клуби публічно привітали легендарного українського нападника Андрія Шевченка з днем народження, опублікувавши теплі слова та архівні кадри його виступів.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Generalitat licita por 14 millones las dos estructuras que completarán la implantación del TramCamp en Vila-seca",
+    "link": "https://www.elperiodico.com/es/tarragona/20260929/generalitat-estructuras-completaran-aplicacion-tramcamp-tranvia-tarragona-vila-seca-134792201",
+    "pubDate": "2026-09-29 12:24:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Las obras incluyen un viaducto sobre las vías de Adif y un paso inferior para conectar la futura parada de Vila-seca Estació con la red ferroviaria y la trama urbana</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20260717/tramcamp-lleva-partida-principal-presupuesto-132560835\">El TramCamp se lleva la partida principal del presupuesto de Territori en el Camp de Tarragona con 89,3 millones</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Єврокомісія відмовила Україні у €220 млн для аграріїв",
+    "link": "https://ua.korrespondent.net/business/economics/4915796-yevrokomisiia-vidmovyla-ukraini-u-220-mln-dlia-ahrariiv",
+    "pubDate": "2026-09-29 12:23:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578872.jpg\">С/г галузь розраховує на $250 млн фінансування Світового банку, завдяки чому протримається до кінця року. Але питання підтримки навесні залишається відкритим.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Honda SH Mode 125, más conectada",
+    "link": "https://www.elperiodico.com/es/motor/20260929/honda-sh-mode-125-conectada-134750916",
+    "pubDate": "2026-09-29 12:21:39",
+    "category": "",
+    "description": "<h2>Honda renueva su rueda alta más accesible con nueva imagen, pantalla TFT, conectividad y más tecnología para moverse por la ciudad</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Британія запропонувала Фінляндії ядерний \"щит\"",
+    "link": "https://ua.korrespondent.net/world/4915793-brytaniia-zaproponuvala-finliandii-yadernyi-schyt",
+    "pubDate": "2026-09-29 12:14:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578861.jpg\">Використання цих сил не потребуватиме активації 5-ї статті договору НАТО про колективну оборону, яка застосовується у разі нападу на одну з країн Альянсу.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los 500 pisos sociales junto a la Fira en Barcelona estrenarán un diseño piloto para que convivan vecinos y actividad nocturna",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/alcaldesa-de-la-noche-anuncia-pisos-sociales-fira-montjuic-barcelona-diseno-piloto-convivencia-vecinos-actividad-nocturna-eventos-134787621",
+    "pubDate": "2026-09-29 12:07:44",
+    "category": "",
+    "description": "<h2 class=\"item\">La alcaldesa de la noche anuncia que se implantarán medidas arquitectónicas que permitan conciliar descanso, ocio y eventos. El modelo podría extenderse a otras promociones públicas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20260711/carmen-zapata-alcaldesa-noche-barcelona-132329605\">Carmen Zapata, 'alcaldesa' de la Noche: \"Barcelona cada vez tendrá más actividad nocturna, pero ahora no necesita más discotecas\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20251204/barcelona-nuevos-pisos-publicos-fira-montjuic-equipamientos-124440750\">Barcelona da luz verde a levantar 548 pisos públicos en la Fira y una constelación de equipamientos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno separa la prórroga indefinida de los contratos que reclama Sumar en un decreto y mete en otro la prohibición de los desahucios y las compras de los fondos buitres",
+    "link": "https://www.elperiodico.com/es/economia/20260929/gobierno-deja-segundo-decreto-prorroga-134793052",
+    "pubDate": "2026-09-29 12:07:43",
+    "category": "",
+    "description": "<h2>El Ejecutivo quiere convalidar ambos textos este viernes en el Congreso. El primer texto contendrá la protección frente a los desahucios, la regulación de alquiler de temporada y habitaciones, la prohibición de la compra de fondos buitre y la prórroga de dos años de los contratos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "15 років замінили на довічне: чоловіка засудили за зґвалтування дитини",
+    "link": "https://ua.korrespondent.net/ukraine/4915791-15-rokiv-zaminyly-na-dovichne-cholovika-zasudyly-za-zgvaltuvannia-dytyny",
+    "pubDate": "2026-09-29 12:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578859.jpg\">Полтавський апеляційний суд призначив довічне позбавлення волі чоловіку за сексуальне насильство та неодноразове зґвалтування 13-річної дівчини. Апеляцію подала прокуратура, яка вважала покарання у 15 років недостатнім.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "В Україні стартував епідемічний сезон грипу",
+    "link": "https://ua.korrespondent.net/ukraine/4915788-v-ukraini-startuvav-epidemichnyi-sezon-hrypu",
+    "pubDate": "2026-09-29 12:02:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578857.jpg\">З 28 вересня до 23 травня фахівці здійснюватимуть епідеміологічний нагляд, щоб вчасно відстежити поширення інфекцій та підготувати систему охорони здоров'я до можливого зростання кількості хворих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Foment reclama poder despedir a los trabajadores si encadenan varias bajas o una larga",
+    "link": "https://www.elperiodico.com/es/economia/20260929/baja-laboral-foment-del-treball-reclama-despedir-trabajadores-varias-ausencias-134791382",
+    "pubDate": "2026-09-29 12:01:02",
+    "category": "",
+    "description": "<h2>La patronal catalana propone a Feijóo imponga un recorte salarial a todo empleado de baja y que la Seguridad Social multe a aquellos empleados que finjan dolencias para no ir a trabajar</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260907/baja-laboral-empresas-ofensiva-recortar-salario-trabajadores-enfermos-133924458\">Las empresas inician una ofensiva para recortar o limitar el salario de los trabajadores de baja</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De Vilafranca, a Torrelavit, Gavà, Bellvitge o Sants: las mejores imágenes de las lluvias torrenciales en Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20260929/imagenes-lluvia-tormenta-catalunya-barcelona-134791078",
+    "pubDate": "2026-09-29 11:49:02",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260929/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" target=\"_blank\">Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo: envío del ES-Alert y previsión del tiempo del Meteocat</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260929/lluvias-cataluna-zonas-afectadas-aviso-rojo-martes-134785987\" target=\"_blank\">Las lluvias torrenciales sacuden el litoral de Tarragona y Barcelona y obligan a activar avisos por riesgo de inundaciones en Alt Penedès y Anoia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Норвегія спрямовує €2,3 млн на дітей і українських полонених",
+    "link": "https://ua.korrespondent.net/world/4915783-norvehiia-spriamovuie-23-mln-na-ditei-i-ukrainskykh-polonenykh",
+    "pubDate": "2026-09-29 11:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578843.jpg\">Осло збільшує гуманітарну підтримку України, виділяючи 15 млн крон ЮНІСЕФ і 10 млн крон Центральному агентству з розшуку МКЧХ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Британії викрили масштабне організоване злочинне угруповання",
+    "link": "https://ua.korrespondent.net/world/4915780-u-brytanii-vykryly-masshtabne-orhanizovane-zlochynne-uhrupovannia",
+    "pubDate": "2026-09-29 11:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578841.jpg\">Понад 800 правоохоронців провели обшуки у 24 об’єктах. Наразі затримано 17 осіб.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El cardiólogo Aurelio Rojas explica con un refrán la mejor hora para cenar: \"De buenas cenas están las sepulturas llenas\"",
+    "link": "https://www.elperiodico.com/es/salud/20260929/hora-cena-riesgos-dieta-saludable-aurelio-rojas-cardiologo-dv-et-134757338",
+    "pubDate": "2026-09-29 11:43:05",
+    "category": "",
+    "description": "<h2 class=\"item\">El médico señala que la ciencia recomienda dejar entre 13 y 16 horas de ayuno nocturno: \"Aunque comas saludable, cenar tarde puede estar dañando gravemente tu salud\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ciencia/20260928/musica-corazon-latidos-frecuencia-cardiaca-experimento-arde-bogota-jose-abellan-cardiologo-dv-et-134749591\" >El experimento de José Abellán, cardiólogo, con el grupo musical Arde Bogotá: \"Tus latidos se sincronizan con el ritmo de la canción\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260329/comemos-tarde-insana-costumbre-decimononica-128415327\" >¿Por qué comemos tan tarde? La (insana) costumbre decimonónica que se restauró durante el franquismo</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Гривня знову почала дешевшати в обмінниках",
+    "link": "https://ua.korrespondent.net/business/financial/4915777-hryvnia-znovu-pochala-deshevshaty-v-obminnykakh",
+    "pubDate": "2026-09-29 11:41:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578840.jpg\">Середній курс продажу долара зріс до рівня 45,00 гривень, а курс продажу євро впав до рівня 51,60 гривні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі водій врізався у групу людей і залишив місце ДТП",
+    "link": "https://ua.korrespondent.net/world/4915775-u-polschi-vodii-vrizavsia-u-hrupu-luidei-i-zalyshyv-mistse-dtp",
+    "pubDate": "2026-09-29 11:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578831.jpg\">Спершу інцидент розглядали як ДТП, однак правоохоронці нині припускають кримінальний характер інциденту.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Росія запланувала рекордні витрати на оборону",
+    "link": "https://ua.korrespondent.net/world/russia/4915772-rosiia-zaplanuvala-rekordni-vytraty-na-oboronu",
+    "pubDate": "2026-09-29 11:29:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578820.jpg\">Показник оборонних витрат Кремля стане найвищим від початку повномасштабної війни проти України у 2022 році.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Країни ЄС готують механізм видворення мігрантів за межі блоку",
+    "link": "https://ua.korrespondent.net/world/4915770-krainy-yes-hotuuit-mekhanizm-vydvorennia-mihrantiv-za-mezhi-bloku",
+    "pubDate": "2026-09-29 11:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578830.jpg\">Пілотну програму з висиланням нелегальних мігрантів планують запустити у першій половині 2027 року.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Feijóo: \"El único objetivo del 'decreto Maricarmen' es alargar una legislatura estéril\"",
+    "link": "https://www.elperiodico.com/es/economia/20260929/feijoo-unico-objetivo-decreto-maricarmen-134786370",
+    "pubDate": "2026-09-29 11:14:32",
+    "category": "",
+    "description": "<h2>El presidente del PP se reúne con Cecot y critica duramente la política del Gobierno en materia económica y de vivienda </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260602/presidente-feijoo-convence-empresariado-catalan-130920854\">El 'presidente' Feijóo no convence al empresariado catalán</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "OpenAI відмовилася від жовтневого релізу GPT-6.1 Astra",
+    "link": "https://ua.korrespondent.net/business/companies/4915765-OpenAI-vidmovylasia-vid-zhovtnevoho-relizu-GPT-61-Astra",
+    "pubDate": "2026-09-29 11:13:00",
+    "category": "Новини компаній",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578819.jpg\">Тести показали вищу схильність моделі до обману порівняно з попередньою версією.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ferran Adrià (64 años) confiesa cómo ha aprendido a mejorar su dicción: \"Como tienes que hablar muy claramente para que ChatGPT te entienda, tienes que vocalizar. Es fantástico\"",
+    "link": "https://www.elperiodico.com/es/gente/20260929/ferran-adria-serie-genesi-actor-miquel-fernandez-logopeda-habla-el-bulli-dv-et-134786628",
+    "pubDate": "2026-09-29 11:10:02",
+    "category": "",
+    "description": "<h2 class=\"item\">El cocinero cuenta que su mujer le confundió con el actor que le interpreta en 'Gènesi': \"Ella estaba a diez metros y me dice: \"¿Qué dices?\". Y estaba hablando Miquel Fernández\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260920/genesi-serie-ferran-adria-tv3-3cat-miquel-fernandez-carlos-cuevas-126342511\" >'Gènesi', la serie de TV3 que destapa el camino al éxito de Ferran Adrià, con sus luces y sombras</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20260901/govern-medalla-oro-generalitat-ferran-adria-caterina-biscari-133829176\" >El Govern concede la Medalla de Oro de la Generalitat al chef Ferran Adrià y a la doctora Caterina Biscari</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Естонія звинуватила РФ у підпалі Milrem Robotics",
+    "link": "https://ua.korrespondent.net/world/4915763-estoniia-zvynuvatyla-rf-u-pidpali-Milrem-Robotics",
+    "pubDate": "2026-09-29 11:09:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578818.jpg\">За словами глави МЗС Маргуса Цахкни, Естонія викличе тимчасового повіреного у справах РФ.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Gotion confirma su entrada en la gigafactoría de Sagunt con una inversión de 1.094 millones",
     "link": "https://www.elperiodico.com/es/motor/20260929/gotion-confirma-entrada-gigafactoria-sagunt-134788808",
     "pubDate": "2026-09-29 11:07:04",
@@ -970,6 +1618,15 @@
     "description": "<h2>NTT DATA alerta de la caída del precio de las redes corporativas comprometidas y del auge de un mercado que facilita los ataques informáticos</h2>",
     "topic": "пограбування, афера",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Núria Malats, investigadora del CNIO: \"Hay que evitar retrasos diagnósticos por pensar que alguien es demasiado joven para tener cáncer\"",
+    "link": "https://www.elperiodico.com/es/sanidad/20260929/nuria-malats-cnio-cancer-retrasos-diagnostico-jovenes-134628053",
+    "pubDate": "2026-09-29 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">La experta, que lidera la investigación internacional en factores genéticos y ambientales, advierte de que el sistema debe mejorar los registros poblacionales por edad</h2><h2 class=\"item\">Considera clave estudiar las exposiciones desde la gestación y la infancia e integrar en las investigaciones en epidemiología, genética, exposoma, microbioma y biología tumoral</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260915/cuatro-canceres-diagnostican-espana-origen-digestivo-medicos-inquieta-aumento-jovenes-134305006\">Uno de cada cuatro cánceres que se diagnostican en España es de origen digestivo: a los médicos les inquieta el aumento de casos en jóvenes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "El cáncer se dispara en mujeres jóvenes: hasta un 21% más de casos de colon al año entre los 20 y 29 años",
