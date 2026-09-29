@@ -1,5 +1,32 @@
 [
   {
+    "title": "Дрони РФ вдарили по Харкову, постраждала дитина",
+    "link": "https://ua.korrespondent.net/city/kharkov/4915971-drony-rf-vdaryly-po-kharkovu-postrazhdala-dytyna",
+    "pubDate": "2026-09-29 23:57:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579290.jpg\">Міська влада спочатку повідомила про удар по Салтівському району, а потім - про удар по Київському району.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Trump dice que él es casi \"la única persona del mundo\" que le cae bien a Kim Jong-un",
+    "link": "https://www.elperiodico.com/es/internacional/20260929/trump-dice-unica-persona-mundo-134821571",
+    "pubDate": "2026-09-29 23:53:37",
+    "category": "",
+    "description": "<h2>El presidente Donald Trump afirma que el arsenal nuclear norcoreano podría haberse evitado si los anteriores inquilinos de la Casa Blanca hubieran adoptado medidas similares a las suyas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Токаєв закликав Путіна заморозити війну в Україні",
+    "link": "https://ua.korrespondent.net/world/worldabus/4915967-tokaiev-zaklykav-putina-zamorozyty-viinu-v-ukraini",
+    "pubDate": "2026-09-29 23:35:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579280.jpg\">Президент Казахстану разом з таким закликом також похвалив російського диктатора, назвавши його \"видатним державним діячем\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Lamine Yamal apunta a la prensa: \"Hace un mes decíais que estaba mal y en cualquier momento diréis lo mismo\"",
     "link": "https://www.elperiodico.com/es/deportes/20260929/lamine-yamal-apunta-prensa-mes-134821147",
     "pubDate": "2026-09-29 23:25:03",
@@ -9,6 +36,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Resumen del Anadolu Efes vs. Real Madrid, jornada 2 de Euroliga",
+    "link": "https://as.com/videos/euroliga/resumen-del-anadolu-efes-vs-real-madrid-jornada-2-de-euroliga-f202609-v/",
+    "pubDate": "2026-09-29 23:24:59",
+    "category": "Baloncesto",
+    "description": "Un segundo cuarto desastroso decanta el partido para el Efes. Segunda derrota consecutiva de los blancos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Викинула з балкона: в Борисполі жінку підозрюють у вбивстві немовляти",
     "link": "https://ua.korrespondent.net/ukraine/4915965-vykynula-z-balkona-v-boryspoli-zhinku-pidozruiuit-u-vbyvstvi-nemovliaty",
     "pubDate": "2026-09-29 22:59:00",
@@ -16,6 +52,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579263.jpg\">Правоохоронці підозрюють 29-річну жінку у вбивстві своєї новонародженої дочки: вона скинула дитину з шостого поверху.",
     "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Гібридна ескалація. РФ і східний фланг НАТО",
+    "link": "https://ua.korrespondent.net/world/4915973-hibrydna-eskalatsiia-rf-i-skhidnyi-flanh-nato",
+    "pubDate": "2026-09-29 22:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579299.jpg\">Поліція Латвії превентивно призупинила використання програмного забезпечення, розробленого компанією з російськими зв'язками, мінімізуючи ризики кібервразливостей.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "El Efes de Pablo Laso resiste y deja al Madrid en blanco en la Euroliga (94-84)",
@@ -43,6 +88,15 @@
     "description": "Los de Xavi Albert, que llegaron a ir ganando por 29 puntos, se ponen 2-0 en la mayor anotación histórica del equipo en la Euroliga.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Інциндент на авіабазі. Зрив теракта в Британії",
+    "link": "https://ua.korrespondent.net/world/4915969-intsyndent-na-aviabazi-zryv-terakta-v-brytanii",
+    "pubDate": "2026-09-29 22:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579289.jpg\">Американські бомбардувальники на базі Фейрфорд припарковані на відкритих бетонних майданчиках без захисних валів чи ангарів, що робить їх вкрай вразливими для атак безпілотників.",
+    "topic": "політика",
+    "topic_match_probability": 75
   },
   {
     "title": "У ЄС пропонують реформу, що зачепить Україну - ЗМІ",

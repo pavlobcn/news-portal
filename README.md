@@ -1,4 +1,4 @@
-# News for 2026-09-29 23:27
+# News for 2026-09-30 00:43
 
 Previous day: [2026-09-28](./data/2026-09-28.md)
 
@@ -34,6 +34,7 @@ Previous day: [2026-09-28](./data/2026-09-28.md)
 08:29 [Вчені дізналися, як далеко насправді гуляють домашні коти](https://ua.korrespondent.net/tech/science/4915340-vcheni-diznalysia-yak-daleko-naspravdi-huliauit-domashni-koty)<br>
 
 ## as.com
+23:24 [Resumen del Anadolu Efes vs. Real Madrid, jornada 2 de Euroliga](https://as.com/videos/euroliga/resumen-del-anadolu-efes-vs-real-madrid-jornada-2-de-euroliga-f202609-v/)<br>
 22:40 [El Valencia aplasta a un endeble Baskonia](https://as.com/baloncesto/euroliga/el-valencia-aplasta-a-un-endeble-baskonia-f202609-n/)<br>
 22:23 [Prometedor debut de Nick Smith Jr.](https://as.com/baloncesto/euroliga/debut-solido-de-nick-smith-jr-f202609-n/)<br>
 22:02 [Pedro Martínez: “Las pérdidas al final nos mataron”](https://as.com/baloncesto/euroliga/pedro-martinez-las-perdidas-al-final-nos-mataron-f202609-n/)<br>
