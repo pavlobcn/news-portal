@@ -1,5 +1,275 @@
 [
   {
+    "title": "Temporal en Barcelona",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/temporal-barcelona-fotos-134803882",
+    "pubDate": "2026-09-29 15:24:47",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "David de la Encina, el bombero caballa que manda Pedro Sánchez para apagar el incendio de Ceuta: \"Tiene el talante y la experiencia necesarios\"",
+    "link": "https://www.elperiodico.com/es/politica/20260929/david-encina-bombero-caballa-manda-134804015",
+    "pubDate": "2026-09-29 15:23:33",
+    "category": "",
+    "description": "<h2>El ex alcalde de El Puerto de Santa María (2015-2019) tiene \"el talante necesario\" para encauzar la solución en la ciudad autónoma, en la que siguen más de diez mil personas desde la entrada masiva de finales de julio</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Una pelea acaba a tiros en una plaza de Sabadell sin causar heridos",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/pelea-acaba-tiros-plaza-sabadell-no-heridos-134802511",
+    "pubDate": "2026-09-29 15:21:47",
+    "category": "",
+    "description": "<h2>Los Mossos investigan los hechos y a un hombre por su posible relación con el tiroteo</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260929/sabadell-investiga-concejal-vox-simular-pleno-municipal-disparo-nuca-134802160\">Sabadell investiga a un concejal de Vox por simular un disparo en la nuca durante el pleno municipal</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Підготовка теракту на авіабазі у Британії: Рубіо зробив заяву",
+    "link": "https://ua.korrespondent.net/world/4915863-pidhotovka-teraktu-na-aviabazi-u-brytanii-rubio-zrobyv-zaiavu",
+    "pubDate": "2026-09-29 15:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578971.jpg\">Держсекретар США не розкрив деталей розслідування, але назвав ситуацію \"дуже серйозною\".",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Елітні авто принесли місцевим бюджетам 237,5 млн грн податків",
+    "link": "https://ua.korrespondent.net/business/financial/4915861-elitni-avto-prynesly-mistsevym-buidzhetam-2375-mln-hrn-podatkiv",
+    "pubDate": "2026-09-29 15:12:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578970.jpg\">За вісім місяців 2026 року власники дорогих автомобілів сплатили до місцевих бюджетів 237,5 млн грн транспортного податку. Це на 87,9 млн грн більше, ніж торік.",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Dana Lixenberg, 'La señora de las fotos', muestra en Barcelona sus 'American Images'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260929/dana-lixenberg-la-senora-de-las-fotos-exposicion-kbr-mapfre-barcelona-american-images-134803231",
+    "pubDate": "2026-09-29 15:10:18",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Gobierno asegura que la playa Benítez de Ceuta ya está \"limpia\" tras el último realojo y eleva a 213 los menores reubicados en la península",
+    "link": "https://www.elperiodico.com/es/politica/20260929/gobierno-asegura-playa-benitez-ceuta-limpia-134803364",
+    "pubDate": "2026-09-29 15:10:01",
+    "category": "",
+    "description": "<h2 class=\"item\">El Consejo de Ministros aprueba un nuevo emplazamiento para otras 1.200 personas de acuerdo con el Gobierno de Ceuta</h2><h2 class=\"item\">Más de 8.240 migrantes irregulares han vuelto a Marruecos desde el 10 de agosto, 1.134 en la última semana</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Сумська показала фото дочки, яка живе в РФ",
+    "link": "https://ua.korrespondent.net/lifestyle/4915847-sumska-pokazala-foto-dochky-yaka-zhyve-v-rf",
+    "pubDate": "2026-09-29 15:03:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578817.jpg\">Зірка зізналася, якими були її емоції в момент, коли молодша донька вирушила в самостійне доросле плавання.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рютте: НАТО може відповідати РФ не за принципом \"око за око\"",
+    "link": "https://ua.korrespondent.net/world/4915858-ruitte-nato-mozhe-vidpovidaty-rf-ne-za-pryntsypom-oko-za-oko",
+    "pubDate": "2026-09-29 14:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578961.jpg\">Генсек НАТО Марк Рютте заявив, що Альянс має різні варіанти відповіді на гібридні атаки Росії. Частина таких дій може залишатися непублічною та не бути симетричною.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Supremo rechaza la demanda de Julio Iglesias contra Yolanda Díaz por falta de competencia",
+    "link": "https://www.elperiodico.com/es/politica/20260929/supremo-rechaza-demanda-julio-iglesias-yolanda-diaz-134802879",
+    "pubDate": "2026-09-29 14:57:52",
+    "category": "",
+    "description": "<h2>La Sala Civil del alto tribunal argumenta que la demanda contra la vicepresidenta debe ser tramitada por los tribunales de instancia al no ser competente para el caso</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Madrid da 48 horas al Gobierno para desmantelar la acampada de Sol o irán a los tribunales",
+    "link": "https://www.elperiodico.com/es/videos/politica/madrid-da-48-horas-gobierno-desmantelar-acampada-sol/134802875.shtml",
+    "pubDate": "2026-09-29 14:57:50",
+    "category": "",
+    "description": "\"La impunidad, la ilegalidad y el desorden no pueden seguir campando a sus anchas\", ha dicho Miguel Ángel García, portavoz del Ejecutivo autonómico",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Isabel Rodríguez, ministra de Vivienda: \"Urbagestión tal vez no sea un fondo, pero sí una pyme buitre muy carroñera\"",
+    "link": "https://www.elperiodico.com/es/economia/20260929/isabel-rodriguez-ministra-vivienda-urbagestion-134802745",
+    "pubDate": "2026-09-29 14:54:34",
+    "category": "",
+    "description": "<h2>La ministra asegura que el nuevo decreto definirá con \"mucho rigor\" qué entidades realizan compras especulativas y excluirá de las restricciones a quienes destinen capital a vivienda pública o asequible.</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Anthropic advierte a sus inversores de que la IA supone \"riesgos existenciales para la humanidad\": ¿De dónde nace esa obsesión?",
+    "link": "https://www.elperiodico.com/es/tecnologia/20260929/anthropic-advierte-inversores-ia-riesgo-existencia-humanidad-muerte-bolsa-openai-inteligencia-artificial-134790222",
+    "pubDate": "2026-09-29 14:52:42",
+    "category": "",
+    "description": "<h2>El folleto elaborado por la start-up para su esperada salida al mercado subraya peligros asociados a que las IA tengan comportamientos indeseados y otras hipotéticas amenazas a la supervivencia de la especie, algo que obsesiona a su directiva desde hace más de una década</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Стали відомі наслідки атаки РФ на Рівненщину",
+    "link": "https://ua.korrespondent.net/ukraine/4915855-staly-vidomi-naslidky-ataky-rf-na-rivnenschynu",
+    "pubDate": "2026-09-29 14:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578960.jpg\">В області протягом доби неодноразово оголошували повітряну тривогу через небезпеку обстрілу.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Sabadell investiga a un concejal de Vox por simular un disparo en la nuca durante el pleno municipal",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/sabadell-investiga-concejal-vox-simular-pleno-municipal-disparo-nuca-134802160",
+    "pubDate": "2026-09-29 14:46:14",
+    "category": "",
+    "description": "<h2>Los Comuns estudian emprender acciones legales al considerar que el gesto iba dirigido a una asesora del partido</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260928/juzgado-cita-declarar-concejal-vox-134688672\">Un juzgado cita a declarar a un concejal de Vox en Santa Coloma tras admitir una querella por presuntos mensajes racistas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "USTEC reclama a la oposición que presionen al Govern en el debate de política general",
+    "link": "https://www.elperiodico.com/es/sociedad/20260929/ustec-presiona-govern-acuerdos-educacion-134801948",
+    "pubDate": "2026-09-29 14:44:44",
+    "category": "",
+    "description": "<h2 class=\"item\">El sindicato inicia un calendario de reuniones con los grupos parlamentarios y reivindica la mesa de negociación como el principal espacio para alcanzar compromisos educativos y blindar la escuela pública</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260925/ustec-insiste-cumbre-politica-debate-134673679\" target=\"_blank\">Ustec insiste en que \"ninguna cumbre política ni social\" puede reemplazar la negociación sindical pendiente</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "F-16 працюють з обмеженим боєкомплектом - ПС",
+    "link": "https://ua.korrespondent.net/ukraine/4915853-F-16-pratsuiuit-z-obmezhenym-boiekomplektom-ps",
+    "pubDate": "2026-09-29 14:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578950.jpg\">Нараз обговорюється перспектива переходу авіації Повітряних сил на новітню модифікацію літаків – F-16 Block 70/72.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Carles Puyol reflexiona sobre su retirada como jugador profesional",
+    "link": "https://www.elperiodico.com/es/videos/deportes/carles-puyol-reflexiona-retirada-jugador-profesional-video/134802240.shtml",
+    "pubDate": "2026-09-29 14:41:41",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El BYD Dolphin Surf estrena versiones de cinco plazas",
+    "link": "https://www.elperiodico.com/es/motor/20260929/byd-dolphin-surf-2026-cinco-plazas-asientos-134793053",
+    "pubDate": "2026-09-29 14:33:34",
+    "category": "",
+    "description": "<h2>En las versiones Boost y Comfort se suma una tercera plaza trasera, además de mayor equipamiento de serie</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sumar llama a la movilización ciudadana para elevar la presión y lograr la convalidación de los decretos de vivienda el viernes",
+    "link": "https://www.elperiodico.com/es/politica/20260929/sumar-movilizacion-presion-aprobar-decretos-vivienda-134801502",
+    "pubDate": "2026-09-29 14:28:13",
+    "category": "",
+    "description": "<h2>El socio minoritario considera que se ha dado un \"paso decisivo\" con medidas \"efectivas para proteger, reforzar y dar tranquilidad a millones de familias\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зірка реслінгу раптово помер через добу після бою",
+    "link": "https://ua.korrespondent.net/sport/4915831-zirka-reslinhu-raptovo-pomer-cherez-dobu-pislia-boui",
+    "pubDate": "2026-09-29 14:28:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578907.jpg\">Трагедія сталася лише через 24 години після того, як спортсмен провів свій останній поєдинок на рингу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Естонія зберегла рекордні оборонні витрати на 2027 рік",
+    "link": "https://ua.korrespondent.net/world/4915850-estoniia-zberehla-rekordni-oboronni-vytraty-na-2027-rik",
+    "pubDate": "2026-09-29 14:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578944.jpg\">Уряд країни визначив безпеку, економічне зростання та технології серед ключових пріоритетів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Донька Сінді Кроуфорд впала в депресію після смерті брата",
+    "link": "https://ua.korrespondent.net/lifestyle/4915826-donka-sindi-krouford-vpala-v-depresiui-pislia-smerti-brata",
+    "pubDate": "2026-09-29 14:25:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578763.jpg\">Важку втрату Преслі Гербера важко переносять і батьки, і його сестра - 25-річна Кайя Гербер.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El precio del euríbor hoy, 29 de septiembre: una nueva subida que complica el final de mes a los hipotecados",
+    "link": "https://www.elperiodico.com/es/economia/20260929/precio-euribor-hoy-29-septiembre-dv-134759340",
+    "pubDate": "2026-09-29 14:23:22",
+    "category": "",
+    "description": "<h2 class=\"item\">El euríbor hoy: este es el índice en el que se sitúa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260910/bce-contempla-euribor-3-2028-134153285\" >El BCE contempla un euríbor del 3% hasta 2028 y una inflación de hasta el 5,4% si se agrava la guerra</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260831/euribor-3-demanda-vivienda-133811827\" >El repunte del euríbor hasta cerca del 3% pone a prueba la demanda de vivienda y las hipotecas</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна зібрала понад 34 млн тонн зерна: що вже намолотили",
+    "link": "https://ua.korrespondent.net/business/economics/4915849-ukraina-zibrala-ponad-34-mln-tonn-zerna-scho-vzhe-namolotyly",
+    "pubDate": "2026-09-29 14:21:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578935.jpg\">Станом на 29 вересня українські аграрії зібрали 34,3 млн тонн зернових та зернобобових культур. Середня врожайність становить 48,2 ц/га.",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Bruselas estudia cómo reforzar su seguridad tras la crisis de Ceuta: \"Europa necesita los medios para proteger sus fronteras en todo momento\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260929/bruselas-estudia-reforzar-seguridad-crisis-ceuta-fronteras-ue-134800722",
+    "pubDate": "2026-09-29 14:20:13",
+    "category": "",
+    "description": "<h2>El comisario de Migración, Magnus Brunner, presenta la propuesta del Ejecutivo comunitario para reforzar las fronteras europeas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЄС готує новий план щодо міграції: що зміниться на кордонах",
+    "link": "https://ua.korrespondent.net/world/4915842-yes-hotuie-novyi-plan-schodo-mihratsii-scho-zminytsia-na-kordonakh",
+    "pubDate": "2026-09-29 14:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578932.jpg\">Єврокомісія підготувала п’ять кроків для посилення контролю на зовнішніх кордонах ЄС, боротьби з перевізниками мігрантів та пришвидшення їхнього повернення.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Помер ексгравець Ман Сіті, раніше засуджений за смертельну ДТП",
+    "link": "https://ua.korrespondent.net/sport/football/4915841-pomer-ekshravets-man-siti-ranishe-zasudzhenyi-za-smertelnu-dtp",
+    "pubDate": "2026-09-29 14:05:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578934.jpg\">У 32-річному віці помер колишній вихованець Манчестер Сіті, скандально відомий тюремним терміном за фатальну аварію.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Calles inundadas en Santa Coloma",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/calles-inundadas-santa-coloma-video/134799704.shtml",
+    "pubDate": "2026-09-29 14:03:48",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "В Раді заявили про уповільнення детінізації економки після реформи БЕБ",
+    "link": "https://ua.korrespondent.net/business/economics/4915839-v-radi-zaiavyly-pro-upovilnennia-detinizatsii-ekonomky-pislia-reformy-beb",
+    "pubDate": "2026-09-29 14:00:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578933.jpg\">Закон про перезавантаження БЕБ ухвалювали в умовах сильного спротиву, проте очікуваного результату це не дало, вважає Данило Гетманцев.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "La Seguridad Social permite cobrar el 100% de la pensión y seguir trabajando a quienes demoren cinco años la jubilación",
     "link": "https://www.elperiodico.com/es/economia/20260929/seguridad-social-cobrar-100-por-ciento-pension-seguir-trabajando-demorar-cinco-anos-jubilacion-dv-134798759",
     "pubDate": "2026-09-29 13:55:03",
@@ -7,6 +277,15 @@
     "description": "<h2>La jubilación activa permite compatibilizar el empleo con el cobro de la pensión, cuyo porcentaje aumenta progresivamente según los años de demora</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп анонсував мегазавод сталі в США за $15 млрд",
+    "link": "https://ua.korrespondent.net/business/economics/4915833-tramp-anonsuvav-mehazavod-stali-v-ssha-za-15-mlrd",
+    "pubDate": "2026-09-29 13:55:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4578923.jpg\">У США планують побудувати новий сталеливарний завод, який стане одним із найбільших в історії країни. Компанія Mesabi Metallics розраховує розпочати виробництво в Айові у 2030 році.",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "Трамп анонсував мегазавод сталі в США за $15 млрд",
@@ -294,6 +573,15 @@
     "category": "",
     "description": "<h2>El actor confiesa que vivir en la capital \"ya es insostenible\" y \"se está convirtiendo en algo hostil\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260723/mapa-consulta-calle-calle-riesgo-gentrificacion-climatica-ciudades-area-barcelona-132697362\" >MAPA | Consulta calle a calle el riesgo de gentrificación climática de las ciudades del área metropolitana de Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20251215/gentrificacion-madrid-barcelona-expansion-ciudades-medianas-124795064\" >La gentrificación arraiga en Barcelona y Madrid y se extiende a ciudades medianas de toda España</a></h2>",
     "topic": "туристичні квартири",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La lluvia obliga a cortar tramos de la Ronda de Dalt en ambos sentidos y cerrar estaciones de metro en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20260929/lluvia-ronda-dalt-metro-corte-cierre-movilidad-134795334",
+    "pubDate": "2026-09-29 13:04:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Las acumulaciones de agua dificultan la circulación, imponen desvíos y anulan paradas del transporte público</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260929/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 100
   },
   {
@@ -963,6 +1251,15 @@
     "topic_match_probability": 90
   },
   {
+    "title": "El temporal deja ya calles inundadas y más de 1.435 llamadas a emergencias mientras sigue avanzando hacia el norte",
+    "link": "https://www.elperiodico.com/es/sociedad/20260929/lluvias-cataluna-zonas-afectadas-aviso-rojo-martes-134785987",
+    "pubDate": "2026-09-29 09:45:29",
+    "category": "",
+    "description": "<h2 class=\"item\">En tan solo unas horas, los chubascos han anegado calles, cortado carretas, interrumpido servicios de transporte y registrado múltiples retrasos</h2><h2 class=\"item\">L'Agència Catalana de l'Aigua activa avisos hidrológicos en múltiples puntos del territorio ante el riesgo de crecidas súbitas de ríos y torrentes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260929/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo: envío del ES-Alert y previsión del tiempo del Meteocat</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Путін знову збільшив чисельність армії Росії",
     "link": "https://ua.korrespondent.net/world/russia/4915733-putin-znovu-zbilshyv-chyselnist-armii-rosii",
     "pubDate": "2026-09-29 09:45:00",
@@ -1404,6 +1701,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"Ojalá Maricarmen sea la última\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/ojala-maricarmen-sea-ultima-desahucio-madrid-carta-lector-miguel-rabadan-134705152",
+    "pubDate": "2026-09-29 07:00:40",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Las asistencias en carretera a vehículos eléctricos crecieron un 75% durante el verano",
     "link": "https://www.elperiodico.com/es/motor/20260929/asistencias-carretera-vehiculos-electricos-crecieron-durante-verano-134632551",
     "pubDate": "2026-09-29 07:00:39",
@@ -1438,6 +1744,15 @@
     "description": "<h2>Este rizador de pelo automático de Philips es una herramienta que protege tu melena, mientras le da un aspecto suave y brillante de anuncio</h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "\"Diversitat i segregació són conceptes ben diferents\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/diversitat-segregacio-conceptes-diferents-educacio-carta-lector-joan-alsina-134713584",
+    "pubDate": "2026-09-29 06:45:36",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 45
   },
   {
     "title": "Нічия Північної Ірландії та Угорщини зберегла інтригу в групі України",
@@ -1636,6 +1951,15 @@
     "description": "<h2 class=\"item\">Este 2026 se diagnosticarán más de 8.000 tumores en personas de entre 20 y 39 años: 3.400 en hombres y 4.800, en mujeres</h2><h2 class=\"item\">Los especialistas hablan de \"señal epidemiológica\" y apuntan a factores como las exposiciones ambientales, las infecciones y el impacto en la microbiota del consumo reiterado de antibióticos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260915/cuatro-canceres-diagnostican-espana-origen-digestivo-medicos-inquieta-aumento-jovenes-134305006\">Uno de cada cuatro cánceres que se diagnostican en España es de origen digestivo: a los médicos les inquieta el aumento de casos en jóvenes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260922/dia-diagnostican-espana-casos-cancer-colon-repunte-preocupante-jovenes-134543905\">Cada día se diagnostican en España más de 120 casos de cáncer de colon con \"un repunte preocupante\" en menores de 50 años</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "\"¿Cómo hemos podido llegar hasta aquí?\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/desahucio-maricarmen-acampada-madrid-15-m-vivienda-carta-lector-inaki-jimenez-134709268",
+    "pubDate": "2026-09-29 06:00:43",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
   },
   {
     "title": "El Govern sitúa en 38.000 las viviendas en marcha de las 50.000 prometidas en 2024",
