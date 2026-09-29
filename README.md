@@ -1,8 +1,10 @@
-# News for 2026-09-29 15:29
+# News for 2026-09-29 17:50
 
 Previous day: [2026-09-28](./data/2026-09-28.md)
 
 ## ua.korrespondent.net
+15:54 [Україна не виплавила жодної тонни сталі за тиждень - Метінвест](https://ua.korrespondent.net/business/companies/4915871-ukraina-ne-vyplavyla-zhodnoi-tonny-stali-za-tyzhden-metinvest)<br>
+15:47 [До +20° та без опадів: якою буде погода на початку жовтня](https://ua.korrespondent.net/ukraine/4915867-do-20-ta-bez-opadiv-yakoui-bude-pohoda-na-pochatku-zhovtnia)<br>
 15:03 [Сумська показала фото дочки, яка живе в РФ](https://ua.korrespondent.net/lifestyle/4915847-sumska-pokazala-foto-dochky-yaka-zhyve-v-rf)<br>
 14:25 [Донька Сінді Кроуфорд впала в депресію після смерті брата](https://ua.korrespondent.net/lifestyle/4915826-donka-sindi-krouford-vpala-v-depresiui-pislia-smerti-brata)<br>
 13:48 [Гауляйтер Донецька отримав підозру](https://ua.korrespondent.net/ukraine/4915829-hauliaiter-donetska-otrymav-pidozru)<br>
@@ -27,14 +29,29 @@ Previous day: [2026-09-28](./data/2026-09-28.md)
 08:29 [Вчені дізналися, як далеко насправді гуляють домашні коти](https://ua.korrespondent.net/tech/science/4915340-vcheni-diznalysia-yak-daleko-naspravdi-huliauit-domashni-koty)<br>
 
 ## as.com
+17:23 [Dubái - Barça, en directo: Euroliga 2026-27 en vivo hoy](https://as.com/baloncesto/euroliga/dubai-barca-en-directo-euroliga-2026-27-en-vivo-hoy-f202609-d/)<br>
+10:34 [El Baskonia ficha al interior Márcio Santos](https://as.com/baloncesto/el-baskonia-ficha-al-interior-marcio-santos-f202609-n/)<br>
 08:08 [La intrahistoria del fichaje de Nick Smith: “20 días insistiendo a los agentes, a su novia…”](https://as.com/baloncesto/acb/la-intrahistoria-del-fichaje-de-nick-smith-20-dias-insistiendo-a-los-agentes-a-su-novia-f202609-n/)<br>
 07:30 [Valencia-Baskonia, primer duelo español en Euroliga](https://as.com/baloncesto/euroliga/valencia-baskonia-primer-duelo-espanol-en-euroliga-f202609-n/)<br>
 07:30 [Reencuentro en Dubái](https://as.com/baloncesto/euroliga/reencuentro-en-dubai-f202609-n/)<br>
 07:30 [El Girona se juega su billete a la Euroliga](https://as.com/baloncesto/mas_baloncesto/el-girona-se-juega-su-billete-a-la-euroliga-f202609-n/)<br>
 
 ## www.elperiodico.com
+17:47 [Así funciona la valoración telemática de la dependencia de la Generalitat](https://www.elperiodico.com/es/videos/sociedad/valoracion-telematica-dependencia-video/134809515.shtml)<br>
+17:41 [¿Se está acelerando la Tierra? La inminente revolución digital que cambiará cómo medimos el tiempo](https://www.elperiodico.com/es/tendencias21/20260929/acelerando-tierra-inminente-revolucion-digital-134787455)<br>
+17:30 [El 88% de los trabajadores ha tenido que recortar gastos para afrontar el encarecimiento de la vida, según un estudio](https://www.elperiodico.com/es/economia/20260929/88-por-ciento-trabajadores-recortar-gastos-para-afrontar-encarecimiento-vida-134799705)<br>
+17:04 [Muere el cineasta Gonzalo Suárez a los 92 años](https://www.elperiodico.com/es/ocio-y-cultura/20260929/muere-cineasta-gonzalo-suarez-134808390)<br>
+16:59 [¿Notas que se te cae demasiado el pelo en otoño? Esta es la razón y cuando deberías realmente preocuparte](https://www.elperiodico.com/es/salud/20260929/caida-pelo-otono-cuando-es-normal-134808216)<br>
+16:58 [Entrvista a Sehar Iman, embarazada de 32 semanas y al borde de un desahucio](https://www.elperiodico.com/es/videos/sociedad/entrvista-sehar-iman-embarazada-32/134807801.shtml)<br>
+16:56 [La inflación vuelve a poner el foco en las cuentas remuneradas y los depósitos como alternativas para ahorrar](https://www.elperiodico.com/es/economia/20260929/inflacion-vuelve-poner-foco-cuentas-remuneradas-depositos-ahorrar-dv-134805364)<br>
+16:54 [El Banc Sabadell tendrá un nuevo centro de proyectos en su sede de Sant Cugat](https://www.elperiodico.com/es/economia/20260929/banc-sabadell-tendra-nuevo-centro-134806617)<br>
+16:38 ["Llegar a los 80 con la salud de los 20" o "es posible dejar de envejecer": Un tercio de los contenidos en las redes sobre longevidad son bulos](https://www.elperiodico.com/es/sanidad/20260929/bulos-envejecimiento-longevidad-redes-134800601)<br>
+16:16 [Maricarmen acepta el acuerdo con Urbagestión y podrá volver a casa en cuanto reciba el alta](https://www.elperiodico.com/es/sociedad/20260929/maricarmen-acepta-acuerdo-urbagestion-volver-piso-madrid-134806084)<br>
+16:00 [Ignacio de la Calzada, abogado, sobre el despido por bajo rendimiento: "Seguramente será improcedente"](https://www.elperiodico.com/es/economia/20260929/despido-bajo-rendimiento-improcedente-abogado-laboralista-dv-et-134679145)<br>
+16:00 [Así funciona la llamada de emergencia oculta en el móvil que te conecta con el 112 en segundos](https://www.elperiodico.com/es/tecnologia/20260929/llamar-emergencias-112-sin-marcar-movil-policia-dv-et-134510883)<br>
 14:52 [Anthropic advierte a sus inversores de que la IA supone "riesgos existenciales para la humanidad": ¿De dónde nace esa obsesión?](https://www.elperiodico.com/es/tecnologia/20260929/anthropic-advierte-inversores-ia-riesgo-existencia-humanidad-muerte-bolsa-openai-inteligencia-artificial-134790222)<br>
 14:23 [El precio del euríbor hoy, 29 de septiembre: una nueva subida que complica el final de mes a los hipotecados](https://www.elperiodico.com/es/economia/20260929/precio-euribor-hoy-29-septiembre-dv-134759340)<br>
+14:20 [Javier Albares, médico experto en sueño: "Hemos normalizado dormir mal y tomarse la pastilla para descansar"](https://www.elperiodico.com/es/sanidad/20260929/javier-albares-medico-experto-sueno-normalizado-dormir-mal-pastilla-descansar-134789308)<br>
 13:55 [La Seguridad Social permite cobrar el 100% de la pensión y seguir trabajando a quienes demoren cinco años la jubilación](https://www.elperiodico.com/es/economia/20260929/seguridad-social-cobrar-100-por-ciento-pension-seguir-trabajando-demorar-cinco-anos-jubilacion-dv-134798759)<br>
 13:51 [Àngels Barceló (63 años), sobre su vuelta a Barcelona: "Me he vuelto a empadronar en Catalunya. Madrid no era la ciudad donde quería envejecer porque es muy hostil"](https://www.elperiodico.com/es/catalunya/20260929/angels-barcelo-cataluna-barcelona-madrid-cadena-ser-dv-et-134795820)<br>
 13:50 [Ubisoft está preparando un proyecto de IA capaz de crear sus propios juegos](https://www.elperiodico.com/es/videojuegos/20260929/ubisoft-preparando-proyecto-ia-capaz-134798607)<br>
@@ -44,8 +61,10 @@ Previous day: [2026-09-28](./data/2026-09-28.md)
 13:16 [DIRECTO | Los Reyes reciben al presidente de la República Francesa, Emmanuel Macron, con motivo de su visita de Estado a España, en el Palacio Real de Madrid](https://www.elperiodico.com/es/videos/internacional/directo-reyes-reciben-presidente-republica/134796989.shtml)<br>
 13:15 [Solo el 28% de las ‘startups’ consigue beneficios, pero casi tres de cada cuatro prevén lograrlos en 2026](https://www.elperiodico.com/es/economia/20260929/solo-28-por-ciento-startups-consigue-beneficios-134796833)<br>
 13:08 [El cáncer se dispara en mujeres jóvenes](https://www.elperiodico.com/es/videos/sanidad/cancer-dispara-mujeres-jovenes/134796188.shtml)<br>
+13:04 [El coste del insomnio en España: 207.722 millones de euros al año, el equivalente al 12% del PIB](https://www.elperiodico.com/es/sanidad/20260929/coste-insomnio-espana-euros-ano-equivalente-pib-mujeres-134785747)<br>
 12:45 [Nuria Roure, psicóloga experta en sueño: "Hay personas que duermen 8 o 9 horas y siguen sintiendo que no han descansado..."](https://www.elperiodico.com/es/salud/20260929/nuria-roure-experta-sueno-dormir-ansiedad-dv-et-134435989)<br>
 12:24 [La Generalitat licita por 14 millones las dos estructuras que completarán la implantación del TramCamp en Vila-seca](https://www.elperiodico.com/es/tarragona/20260929/generalitat-estructuras-completaran-aplicacion-tramcamp-tranvia-tarragona-vila-seca-134792201)<br>
+12:22 [Una de cada seis mujeres en España no quiere tener hijos: el rechazo aumenta un 127% entre las 'millennials'](https://www.elperiodico.com/es/sociedad/20260929/aumenta-rechazo-maternidad-hijos-ine-134791585)<br>
 12:07 [Los 500 pisos sociales junto a la Fira en Barcelona estrenarán un diseño piloto para que convivan vecinos y actividad nocturna](https://www.elperiodico.com/es/barcelona/20260929/alcaldesa-de-la-noche-anuncia-pisos-sociales-fira-montjuic-barcelona-diseno-piloto-convivencia-vecinos-actividad-nocturna-eventos-134787621)<br>
 12:01 [Foment reclama poder despedir a los trabajadores si encadenan varias bajas o una larga](https://www.elperiodico.com/es/economia/20260929/baja-laboral-foment-del-treball-reclama-despedir-trabajadores-varias-ausencias-134791382)<br>
 11:49 [De Vilafranca, a Torrelavit, Gavà, Bellvitge o Sants: las mejores imágenes de las lluvias torrenciales en Catalunya](https://www.elperiodico.com/es/sociedad/20260929/imagenes-lluvia-tormenta-catalunya-barcelona-134791078)<br>
