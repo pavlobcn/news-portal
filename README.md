@@ -1,4 +1,4 @@
-# News for 2026-09-30 13:19
+# News for 2026-09-30 16:01
 
 Previous day: [2026-09-29](./data/2026-09-29.md)
 
@@ -31,11 +31,31 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 01:37 [РФ підвищує податки, щоб "перекрити" рекордні витрати на війну - ЗМІ](https://ua.korrespondent.net/business/economics/4915980-rf-pidvyschuie-podatky-schob-perekryty-rekordni-vytraty-na-viinu-zmi)<br>
 
 ## as.com
+14:40 [La NBA aprieta en Europa con el fútbol](https://as.com/baloncesto/nba/la-nba-aprieta-en-europa-con-el-futbol-f202609-n/)<br>
+14:38 [El exilio de D’Angelo Russell](https://as.com/baloncesto/nba/el-exilio-de-dangelo-russell-f202609-n/)<br>
 12:43 [Westermann refuerza al Movistar Estudiantes](https://as.com/baloncesto/mas_baloncesto/westermann-refuerza-al-movistar-estudiantes-f202609-n/)<br>
 10:33 [El trauma del visitante del Madrid](https://as.com/baloncesto/euroliga/el-trauma-del-visitante-del-madrid-f202609-n/)<br>
 07:32 [Mariona Ortiz se va del Casademont Zaragoza](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-se-va-del-casademont-zaragoza-f202609-n/)<br>
 
 ## www.elperiodico.com
+15:57 [Tarragona, lista para el mayor espectáculo mundial de castells](https://www.elperiodico.com/es/tarragona/20260930/tarragona-lista-mayor-espectaculo-mundial-134809135)<br>
+15:56 [El mundo del cine se despide de Gonzalo Suárez: "Uno de los mejores directores de España"](https://www.elperiodico.com/es/ocio-y-cultura/20260930/mundo-cine-despide-gonzalo-suarez-134847572)<br>
+15:49 [Una mirada dadaísta y surrealista a la artista envejecida que inaugura Temporada Alta](https://www.elperiodico.com/es/ocio-y-cultura/20260930/mirada-dadaista-surrealista-artista-envejecida-134840886)<br>
+15:42 [La AIReF eleva la presión sobre Hacienda por la regla de gasto y la falta de una estrategia fiscal clara](https://www.elperiodico.com/es/economia/20260930/airef-eleva-presion-hacienda-regla-gasto-falta-estrategia-fiscal-clara-134847130)<br>
+15:39 [Catalunya activa una nueva tanda de avisos por lluvias torrenciales este jueves](https://www.elperiodico.com/es/videos/sociedad/catalunya-activa-nueva-tanda-avisos/134846961.shtml)<br>
+15:37 [Catalunya alerta a los médicos sobre los trabajadores que suman más de seis bajas al año: los califica de "hiperfrecuentadores"](https://www.elperiodico.com/es/videos/sociedad/catalunya-alerta-medicos-trabajadores-suman/134846874.shtml)<br>
+15:33 [Un taxista de 64 años consigue una pensión vitalicia de 2.152 euros tras recurrir la incapacidad que le reconoció el INSS](https://www.elperiodico.com/es/economia/20260930/taxista-64-anos-pension-vitalicia-2152-euros-tras-recurrir-incapacidad-inss-dv-134845735)<br>
+15:30 [Los expertos en aviación coinciden sobre las turbulencias: "Molesta, pero no significa que el avión esté fallando"](https://www.elperiodico.com/es/trafico-y-transportes/20260930/avion-turbulencias-seguras-expertos-aviacion-peligro-dv-et-134545902)<br>
+15:29 [Los corazones trasplantados rejuvenecen en jóvenes y envejecen en personas mayores](https://www.elperiodico.com/es/tendencias21/20260930/corazones-trasplantados-rejuvenecen-jovenes-envejecen-134846630)<br>
+15:26 [El Port de Barcelona adjudica a Boluda la terminal multipropósito del Moll Príncep d’Espanya](https://www.elperiodico.com/es/economia/20260930/puerto-barcelona-adjudica-boluda-terminal-multiproposito-moll-princep-espanya-134844853)<br>
+15:16 [Los Mossos denuncian a un conductor por circular a 190 km/h por la C-14 en el Alt Urgell](https://www.elperiodico.com/es/sucesos/20260930/mossos-denuncian-conductor-circular-190-km-h-alt-urgell-134844611)<br>
+14:59 [Muere Fiona Lowe, hija de Chad Lowe y Kim Painter, a los 13 años](https://www.elperiodico.com/es/videos/ocio-y-cultura/muere-fiona-hija-chad-lowe/134844428.shtml)<br>
+14:53 [Miguel Bernardeau, enamorado de nuevo casi cuatro años después de su ruptura con Aitana](https://www.elperiodico.com/es/tele/yotele/20260930/miguel-bernardeau-enamorado-nuevo-cuatro-anos-despues-ruptura-aitana-134839773)<br>
+14:31 [La 080 Barcelona Fashion estrenará nueva pasarela en la Marina seca del Port Vell y un festival de las artes de la moda](https://www.elperiodico.com/es/gente/20260930/080-barcelona-fashion-2026-marina-seca-plec-reborn-desfiles-134839947)<br>
+13:49 [Del ‘doctor Google’ al ‘doctor ChatGPT’: casi la mitad de los españoles ya consulta a la IA sobre su salud](https://www.elperiodico.com/es/salud/20260930/doctor-google-doctor-chatgpt-mitad-espanoles-usan-ia-medico-134840032)<br>
+13:44 [Claudia Rodríguez, pareja de Marc Cucurella: "Lo que más voy a echar de menos es la vida que he conseguido construir durante estos años"](https://www.elperiodico.com/es/gente/20260930/claudia-pareja-cucurella-madrid-londres-dv-et-134839461)<br>
+13:39 [Fallece a los 84 años Verónica Luján, actriz en 'Carola de día, Carola de noche'](https://www.elperiodico.com/es/gente/20260930/fallece-84-anos-veronica-lujan-134839198)<br>
+13:23 [Muere Fiona Lowe, hija de Chad Lowe y Kim Painter, a los 13 años](https://www.elperiodico.com/es/ocio-y-cultura/20260930/muere-fiona-lowe-hija-chad-13-anos-134837695)<br>
 13:15 [Catalunya activa una nueva tanda de avisos amarillos y naranjas en todo el territorio ante la llegada de más chubascos de cara al jueves](https://www.elperiodico.com/es/sociedad/20260930/cataluna-avisos-lluvias-jueves-meteocat-prevision-134836561)<br>
 13:12 [El BNEW 2026 incorporará por primera vez la industria del videojuego: "Es la economía cultural más grande del mundo"](https://www.elperiodico.com/es/economia/20260930/bnew-2026-incorpora-videojuegos-agrotecnologia-134834716)<br>
 13:07 [Más de un 20% de los pacientes con cáncer de mama, colon, endometrio, ovario y riñón tienen obesidad](https://www.elperiodico.com/es/sanidad/20260930/pacientes-cancer-mama-colon-endometrio-ovario-obesidad-134834810)<br>
@@ -61,6 +81,8 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 08:00 [El calentamiento del océano alcanza un nuevo récord mientras la subida del nivel del mar se acelera: "Son señales inequívocas del cambio climático"](https://www.elperiodico.com/es/sociedad/20260930/calentamiento-oceano-alcanza-nuevo-record-134812594)<br>
 07:17 [Sonia (22 años), de ser administrativa en Barcelona a trabajar como agricultora en un pueblo de 330 habitantes: "Son los valores que me gustaría inculcarles a mis hijos y por eso yo me quedo aquí"](https://www.elperiodico.com/es/economia/20260930/barcelona-pueblo-ciudad-real-agricultura-vida-rural-tranquilidad-sonia-pareja-dv-et-134560532)<br>
 07:07 [Adrián Granella, odontólogo: "Si después de comer te lavas los dientes es como pasar ácido con algo que va a raspar"](https://www.elperiodico.com/es/salud/20260930/lavar-dientes-cepillar-despues-comer-dano-esmalte-acido-odontologo-adrian-granella-dv-et-esmalt-134555536)<br>
+06:30 ["Hem d'acceptar ser més pobres?"](https://www.elperiodico.com/es/entre-todos/participacion/acceptar-ser-pobres-economia-pobresa-riquesa-carta-lector-joan-soldevila-134785187)<br>
+06:15 ["El peligro quizá no esté en la IA sino en quién la controla y para qué"](https://www.elperiodico.com/es/entre-todos/participacion/peligro-ia-controla-inteligencia-artificial-carta-lector-carlos-monje-134781728)<br>
 06:10 [Arielle Beck, nuevo fenómeno del piano, debuta en el Palau: "Estoy en ebullición constante"](https://www.elperiodico.com/es/ocio-y-cultura/20260930/arielle-beck-nuevo-fenomeno-piano-134630110)<br>
 06:02 [El lenguaje de los videojuegos y la ópera se unen en 'La jove Aïda': "El reto era lograr algo futurista pero a la vez con raíces en la 'Aida' de hace 150 años"](https://www.elperiodico.com/es/ocio-y-cultura/20260930/lenguaje-videojuegos-opera-unen-jove-134797923)<br>
 06:02 [Kenneth Barish, psicólogo clínico: "Los abuelos que pasan tiempo con los nietos son más felices y disfrutan de una mayor longevidad"](https://www.elperiodico.com/es/ser-feliz/20260930/kenneth-barish-psicologo-clinico-abuelos-132501973)<br>
