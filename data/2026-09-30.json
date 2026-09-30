@@ -1,5 +1,50 @@
 [
   {
+    "title": "Економіка РФ на межі великої кризи - розвідка",
+    "link": "https://ua.korrespondent.net/world/russia/4916293-ekonomika-rf-na-mezhi-velykoi-kryzy-rozvidka",
+    "pubDate": "2026-09-30 23:48:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580290.jpg\">Кремль йде на дедалі більший ризик у війні, зазнаючи великих людських втрат за мізерні здобутки, тим часом економічна ситуація у країні стрімко погіршується.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Manresa se queda sin gasolina en el infierno griego de Salónica",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/manresa-queda-gasolina-infierno-griego-134863017",
+    "pubDate": "2026-09-30 23:47:17",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo del Bages se vino abajo ante el PAOK en el último cuarto en Grecia (93-78)</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España brinda a Ceuta el triunfo ante México (2-0)",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/espana-brinda-ceuta-triunfo-mexico-134862918",
+    "pubDate": "2026-09-30 23:32:42",
+    "category": "",
+    "description": "<h2 class=\"item\">Los goles de Thiago Pitarch y José Antonio Morante dieron el triunfo al equipo de Paco Gallardo en la ciudad deportiva del Atlético.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 98
+  },
+  {
+    "title": "El ultimátum para desalojar Sol: qué dice la ley y quién tiene competencias para actuar",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/motivos-legales-desalojo-acampada-sool-134862963",
+    "pubDate": "2026-09-30 23:23:41",
+    "category": "",
+    "description": "<h2 class=\"item\">Comunidad y Ayuntamiento exigen el desalojo por la ocupación del espacio público y los riesgos de seguridad, mientras la Delegación rechaza intervenir aludiendo al derecho de reunión</h2><h2 class=\"item\">Juristas explican qué margen tienen las administraciones y qué condiciones justificarían una intervención para levantar el campamento</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Росіяни вдарили по Одесі, у місті пожежа",
+    "link": "https://ua.korrespondent.net/city/odessa/4916291-rosiiany-vdaryly-po-odesi-u-misti-pozhezha",
+    "pubDate": "2026-09-30 23:19:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580272.jpg\">Внаслідок ворожої атаки у бізнес-центрі сталася пожежа. Інформація про постраждалих наразі не надходила.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "El director de Gabinete de Sánchez habló 10 minutos con Vivas en tres llamadas a finales de julio",
     "link": "https://www.elperiodico.com/es/politica/20260930/director-gabinete-sanchez-hablo-10-134862761",
     "pubDate": "2026-09-30 23:09:54",
@@ -124,6 +169,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580169.jpg\">Головний тренер збірної Португалії залишив провідного гравця команди поза матчами Ліги націй, що спричинило різку реакцію з боку зірки португальського футболу.",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Болісний тупик. Чому не закінчується війна",
+    "link": "https://ua.korrespondent.net/ukraine/4916296-bolisnyi-tupyk-chomu-ne-zakinchuietsia-viina",
+    "pubDate": "2026-09-30 21:51:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580309.jpg\">Єдиним реальним бенефіціаром затяжної війни аналітики називають Китай, оскільки конфлікт відволікає ресурси Заходу, підтримує напругу між Москвою і Вашингтоном та живить ультраправі рухи в Європі.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Напад в монастирі у Польщі: психіатри повторно обстежать українця",

@@ -1,4 +1,4 @@
-# News for 2026-09-30 23:12
+# News for 2026-10-01 00:43
 
 Previous day: [2026-09-29](./data/2026-09-29.md)
 
@@ -53,6 +53,7 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 07:32 [Mariona Ortiz se va del Casademont Zaragoza](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-se-va-del-casademont-zaragoza-f202609-n/)<br>
 
 ## www.elperiodico.com
+23:47 [El Manresa se queda sin gasolina en el infierno griego de Salónica](https://www.elperiodico.com/es/deportes/20260930/manresa-queda-gasolina-infierno-griego-134863017)<br>
 22:22 [Protecció Civil alerta de un nuevo episodio de fuertes lluvias a partir de este jueves por la mañana](https://www.elperiodico.com/es/tiempo/20260930/proteccio-civil-alerta-nuevo-episodio-lluvias-intesas-jueves-por-la-manana-134861507)<br>
 21:45 [Las firmas de moda reactualizan su legado en los desfiles de París](https://www.elperiodico.com/es/ocio-y-cultura/20260930/firmas-moda-reactualizan-legado-desfiles-134860906)<br>
 21:44 [Un taxista de 64 años consigue una pensión vitalicia de 2.152 euros tras recurrir la incapacidad](https://www.elperiodico.com/es/videos/economia/taxista-64-anos-pension-vitalicia/134860816.shtml)<br>
