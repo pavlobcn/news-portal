@@ -1,6 +1,12 @@
-# News for 2026-09-30 02:39
+# News for 2026-09-30 03:38
 
 Previous day: [2026-09-29](./data/2026-09-29.md)
+
+## ua.korrespondent.net
+02:59 [США та Британія потопили американський фрегат коло берегів Шотландії](https://ua.korrespondent.net/world/4915987-ssha-ta-brytaniia-potopyly-amerykanskyi-frehat-kolo-berehiv-shotlandii)<br>
+02:48 [Удари балістики РФ по Києву: стали відомі наслідки](https://ua.korrespondent.net/city/kiev/4915985-udary-balistyky-rf-po-kyievu-staly-vidomi-naslidky)<br>
+01:58 [Росіяни вдарили по Києву балістичними ракетами](https://ua.korrespondent.net/city/kiev/4915982-rosiiany-vdaryly-po-kyievu-balistychnymy-raketamy)<br>
+01:37 [РФ підвищує податки, щоб "перекрити" рекордні витрати на війну - ЗМІ](https://ua.korrespondent.net/business/economics/4915980-rf-pidvyschuie-podatky-schob-perekryty-rekordni-vytraty-na-viinu-zmi)<br>
 
 ## www.elperiodico.com
 01:59 [La creación de hogares, eje central del V Congreso Nacional de la Vivienda](https://www.elperiodico.com/es/economia/20260930/creacion-hogares-eje-central-v-bc-134791161)<br>
