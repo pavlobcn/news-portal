@@ -1,8 +1,10 @@
-# News for 2026-09-30 22:26
+# News for 2026-09-30 23:12
 
 Previous day: [2026-09-29](./data/2026-09-29.md)
 
 ## ua.korrespondent.net
+22:15 [У Харкові БПЛА влучив у багатоповерхівку](https://ua.korrespondent.net/city/kharkov/4916277-u-kharkovi-bpla-vluchyv-u-bahatopoverkhivku)<br>
+21:59 [Фішинг став головною кіберзагрозою для працівників у ЄС](https://ua.korrespondent.net/tech/technews/4916272-fishynh-stav-holovnoui-kiberzahrozoui-dlia-pratsivnykiv-u-yes)<br>
 20:48 [Робот DYNA на відео самостійно годину працював у пральні](https://ua.korrespondent.net/tech/technews/4916258-robot-DYNA-na-video-samostiino-hodynu-pratsuivav-u-pralni)<br>
 20:36 [Хакери зламали PlayStation 5](https://ua.korrespondent.net/tech/technews/4916256-khakery-zlamaly-PlayStation-5)<br>
 20:33 [Внесок металургії у ВВП України може впасти майже до нуля - ЗМІ](https://ua.korrespondent.net/business/economics/4916251-vnesok-metalurhii-u-vvp-ukrainy-mozhe-vpasty-maizhe-do-nulia-zmi)<br>
@@ -41,6 +43,8 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 01:37 [РФ підвищує податки, щоб "перекрити" рекордні витрати на війну - ЗМІ](https://ua.korrespondent.net/business/economics/4915980-rf-pidvyschuie-podatky-schob-perekryty-rekordni-vytraty-na-viinu-zmi)<br>
 
 ## as.com
+22:47 [El Girona se queda sin Euroliga](https://as.com/baloncesto/mas_baloncesto/el-girona-se-queda-sin-euroliga-f202609-n/)<br>
+22:18 [El síndrome del visitante](https://as.com/opinion/el-sindrome-del-visitante-f202609-n/)<br>
 19:30 [La Euroliga y los árbitros renuevan su convenio colectivo](https://as.com/baloncesto/la-euroliga-y-los-arbitros-renuevan-su-convenio-colectivo-f202609-n/)<br>
 14:40 [La NBA aprieta en Europa con el fútbol](https://as.com/baloncesto/nba/la-nba-aprieta-en-europa-con-el-futbol-f202609-n/)<br>
 14:38 [El exilio de D’Angelo Russell](https://as.com/baloncesto/nba/el-exilio-de-dangelo-russell-f202609-n/)<br>

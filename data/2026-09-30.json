@@ -1,5 +1,59 @@
 [
   {
+    "title": "El director de Gabinete de Sánchez habló 10 minutos con Vivas en tres llamadas a finales de julio",
+    "link": "https://www.elperiodico.com/es/politica/20260930/director-gabinete-sanchez-hablo-10-134862761",
+    "pubDate": "2026-09-30 23:09:54",
+    "category": "",
+    "description": "<h2>El presidente de Ceuta le telefoneó en diez ocasiones pero solo consiguió hablar en tres</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Роналду робить відчайдушний крок, залишаючи збірну, і коментує ситуацію",
+    "link": "https://ua.korrespondent.net/sport/football/4916288-ronaldu-robyt-vidchaidushnyi-krok-zalyshauichy-zbirnu-i-komentuie-sytuatsiui",
+    "pubDate": "2026-09-30 23:03:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580252.jpg\">Зірковий нападник збірної Португалії підтвердив наявність конфлікту між ним і тренером і висловився про те, чому він покинув розташування збірної.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 1 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/portada-periodico-1-octubre-2026-134862611",
+    "pubDate": "2026-09-30 23:00:50",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Британія вважає Іран причетним до підготовки теракту на авіабазі",
+    "link": "https://ua.korrespondent.net/world/4916286-brytaniia-vvazhaie-iran-prychetnym-do-pidhotovky-teraktu-na-aviabazi",
+    "pubDate": "2026-09-30 22:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580253.jpg\">Таку заяву в уряді зробили після того, як  з’ясувалось, що один з п’яти чоловіків сам зателефонував за екстреним номером ще до затримання групи.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Girona se queda sin Euroliga",
+    "link": "https://as.com/baloncesto/mas_baloncesto/el-girona-se-queda-sin-euroliga-f202609-n/",
+    "pubDate": "2026-09-30 22:47:19",
+    "category": "Baloncesto",
+    "description": "El Emlak Konut turco, que ya tumbó al Panathinaikos a domicilio en la ronda previa, manda a las catalanas a la Eurocup.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ф’юрі і Джошуа провели першу дуель поглядів",
+    "link": "https://ua.korrespondent.net/sport/boks/4916284-fuiri-i-dzhoshua-provely-pershu-duel-pohliadiv",
+    "pubDate": "2026-09-30 22:39:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580210.jpg\">Британські боксери помірялися стійкістю поглядів після першої спільної пресконференції в Лондоні.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Protecció Civil alerta de un nuevo episodio de fuertes lluvias a partir de este jueves por la mañana",
     "link": "https://www.elperiodico.com/es/tiempo/20260930/proteccio-civil-alerta-nuevo-episodio-lluvias-intesas-jueves-por-la-manana-134861507",
     "pubDate": "2026-09-30 22:22:25",
@@ -18,6 +72,24 @@
     "topic_match_probability": 80
   },
   {
+    "title": "El síndrome del visitante",
+    "link": "https://as.com/opinion/el-sindrome-del-visitante-f202609-n/",
+    "pubDate": "2026-09-30 22:18:58",
+    "category": "Real Madrid baloncesto",
+    "description": "El Real Madrid ha perdido sus dos primeros partidos fuera de casa en la Euroliga, lo que alarga una dinámica que se remolca de las dos últimas temporadas.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Харкові БПЛА влучив у багатоповерхівку",
+    "link": "https://ua.korrespondent.net/city/kharkov/4916277-u-kharkovi-bpla-vluchyv-u-bahatopoverkhivku",
+    "pubDate": "2026-09-30 22:15:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580209.jpg\">Російський безпілотник влучив у дах житлової багатоповерхівки. На місці обстрілу працюють екстрені служби.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Trump sobre la retirada de Irak: \"Este día representa una victoria para Estados Unidos\"",
     "link": "https://www.elperiodico.com/es/internacional/20260930/trump-retirada-irak-dia-representa-134861633",
     "pubDate": "2026-09-30 22:14:38",
@@ -34,6 +106,33 @@
     "description": "Entre las prácticas degradantes citan insultos, amenazas constantes para que abandonen la ciudad y vejaciones como hacer que se arrodillen para besar una cruz cristiana",
     "topic": "політика",
     "topic_match_probability": 75
+  },
+  {
+    "title": "Фішинг став головною кіберзагрозою для працівників у ЄС",
+    "link": "https://ua.korrespondent.net/tech/technews/4916272-fishynh-stav-holovnoui-kiberzahrozoui-dlia-pratsivnykiv-u-yes",
+    "pubDate": "2026-09-30 21:59:00",
+    "category": "Технології",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580173.jpg\">Більшість працівників у ЄС хоча б раз стикалися на роботі з підозрілими листами, повідомленнями чи посиланнями. Водночас далеко не всі готові розпізнати сучасні кіберзагрози.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Роналду залишає розташування збірної після зверхнього ставлення тренера",
+    "link": "https://ua.korrespondent.net/sport/football/4916276-ronaldu-zalyshaie-roztashuvannia-zbirnoi-pislia-zverkhnoho-stavlennia-trenera",
+    "pubDate": "2026-09-30 21:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580169.jpg\">Головний тренер збірної Португалії залишив провідного гравця команди поза матчами Ліги націй, що спричинило різку реакцію з боку зірки португальського футболу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Напад в монастирі у Польщі: психіатри повторно обстежать українця",
+    "link": "https://ua.korrespondent.net/world/4916269-napad-v-monastyri-u-polschi-psykhiatry-povtorno-obstezhat-ukraintsia",
+    "pubDate": "2026-09-30 21:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580152.jpg\">У Польщі двоє судових психіатрів повторно оцінять психічний стан 31-річного українця, якого підозрюють у нападі на п’ятьох людей у монастирі в Ярославі.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
   },
   {
     "title": "Las firmas de moda reactualizan su legado en los desfiles de París",
@@ -79,6 +178,15 @@
     "description": "<h2>La medida se prolongará nuevamente durante otros 15 días adicionales, según ha informado el Gobierno de Meloni, sin dar nuevas explicaciones</h2>",
     "topic": "політика",
     "topic_match_probability": 80
+  },
+  {
+    "title": "У НАТО пояснили, навіщо Росія посилює гібридні атаки на Альянс",
+    "link": "https://ua.korrespondent.net/world/4916266-u-nato-poiasnyly-navischo-rosiia-posyluiie-hibrydni-ataky-na-alians",
+    "pubDate": "2026-09-30 21:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580151.jpg\">Посол США при НАТО Метью Вітакер заявив, що Росія використовує гібридні дії, аби змусити союзників зменшити підтримку України. За його словами, відповіддю має стати посилення допомоги Києву.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Arbeloa, acusado por la FA de poner en duda la integridad de un árbitro",
@@ -133,6 +241,15 @@
     "description": "<h2>Los Premios Convive de la eléctrica premian a las iniciativas de Bayer España, el Ayuntamiento de Lucena y Unicef </h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Сербія й Росія продовжили угоду про газ",
+    "link": "https://ua.korrespondent.net/business/economics/4916260-serbiia-y-rosiia-prodovzhyly-uhodu-pro-haz",
+    "pubDate": "2026-09-30 21:03:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580132.jpg\">Сербія та Росія продовжили дію угоди про постачання природного газу ще на три місяці. Белград до кінця року купуватиме російський газ на \"вигідних умовах\".",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "El Gobierno presiona a Junts y Podemos con el \"coste político\" de tumbar los decretos de vivienda",
