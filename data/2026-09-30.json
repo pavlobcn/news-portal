@@ -1,5 +1,329 @@
 [
   {
+    "title": "Розвідка розкрила виробників ракет для російських Панцирів",
+    "link": "https://ua.korrespondent.net/ukraine/4916036-rozvidka-rozkryla-vyrobnykiv-raket-dlia-rosiiskykh-pantsyriv",
+    "pubDate": "2026-09-30 09:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579574.jpg\">Близько третини підприємств із нового переліку не перебувають під санкціями жодної з країн санкційної коаліції.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "El estigma de los audífonos: casi la mitad de quienes los necesitan renuncia a ellos por vergüenza",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/estigma-audifonos-mitad-necesitan-renuncia-bc-134826953",
+    "pubDate": "2026-09-30 09:18:41",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El miedo al qué dirán hace que el 47% de las personas con pérdida auditiva renuncie a oír mejor, a pesar de que, si no se trata, este problema se relaciona con una peor calidad de vida, mayor riesgo de depresión y aislamiento social. Para normalizar el uso de audífonos, los Centros Auditivos Multiópticas ofrecen revisiones y asesoramiento gratuitos.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zara lanza este jueves la esperadísima colección con John Galliano: estas son las siluetas que ya se han desvelado",
+    "link": "https://www.elperiodico.com/es/gente/20260930/zara-john-galliano-reform-prendas-coleccion-134826278",
+    "pubDate": "2026-09-30 09:17:55",
+    "category": "",
+    "description": "<h2>'Re{form}' llega mañana a las 10 horas después de un mes muy convulso para el diseñador, marcado por la cancelación de la retrospectiva que iba a convertir su obra en protagonista del Costume Institute del Met</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260901/john-galliano-cancela-retrospectiva-met-motivos-133826299\" target=\"_blank\">Los verdaderos motivos de Galliano para cancelar su retrospectiva en el Met: semanas de acoso al museo, críticas de la comunidad judía y amenazas de los donantes</a></h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Precio del petróleo hoy, 30 de septiembre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20260930/precio-petroleo-hoy-30-septiembre-dv-134785989",
+    "pubDate": "2026-09-30 09:14:53",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Tráfico y transporte público en Barcelona hoy, en directo: retenciones, Rodalies y todas las incidencias",
+    "link": "https://www.elperiodico.com/es/barcelona/20260930/trafico-barcelona-hoy-transporte-directo-133938712",
+    "pubDate": "2026-09-30 09:13:00",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дружина Шевченка присвятила йому зворушливі слова з нагоди ювілею",
+    "link": "https://ua.korrespondent.net/sport/football/4916034-druzhyna-shevchenka-prysviatyla-yomu-zvorushlyvi-slova-z-nahody-yuvileui",
+    "pubDate": "2026-09-30 09:09:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579564.jpg\">Крістен Пазік опублікувала ніжне привітання для Андрія Шевченка, подякувавши чоловікові за турботу та назвавши його головною опорою родини.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Acampada de activistas provivienda en la plaza de Catalunya de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/acampada-activistas-provivienda-plaza-catalunya-barcelona-video/134826507.shtml",
+    "pubDate": "2026-09-30 09:04:50",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Київщині після удару БпЛА загорівся супермаркет",
+    "link": "https://ua.korrespondent.net/ukraine/4916030-na-kyivschyni-pislia-udaru-bpla-zahorivsia-supermarket",
+    "pubDate": "2026-09-30 09:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579563.jpg\">Російський безпілотник пошкодив будівлю супермаркету в Обухівському районі. На місці виникла пожежа, працюють екстрені служби. Можуть бути потерпілі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La tercera gradería del Spotify Camp Nou permanecerá cerrada al público toda la temporada",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/tercera-graderia-spotify-camp-nou-cerrada-toda-temporada-26-27-134796922",
+    "pubDate": "2026-09-30 09:00:15",
+    "category": "",
+    "description": "<h2>El club ha optado por esperar a tener la cubierta instalada para ahorrar en gastos y esfuerzos operativos y cumplir con la licencia única que pide el ayuntamiento en la parte más alta del estadio, que imposibilita abrir por zonas</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Відомий ведучий зізнався у коханні популярній зірці",
+    "link": "https://ua.korrespondent.net/lifestyle/4916026-vidomyi-veduchyi-ziznavsia-u-kokhanni-populiarnii-zirtsi",
+    "pubDate": "2026-09-30 08:57:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579536.jpg\">Даніель Салем, який зараз служить у лавах ЗСУ, а також працює ведучим і актором, скористався нагодою, щоб публічно зізнатися своїй другій половинці в коханні.",
+    "topic": "телебачення",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Київ затягло смогом: у ДСНС пояснили причину",
+    "link": "https://ua.korrespondent.net/city/kiev/4916028-kyiv-zatiahlo-smohom-u-dsns-poiasnyly-prychynu",
+    "pubDate": "2026-09-30 08:52:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579547.png\">Густий дим спостерігається в Києві після нічної атаки РФ. Жителям радять не провітрювати приміщення та за можливості використовувати очищувачі повітря.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Junts lleva a votación la reprobación de Illa como president de Catalunya: \"Es el peor\"",
+    "link": "https://www.elperiodico.com/es/politica/20260930/cataluna-salvador-illa-parlament-debate-politica-general-partidos-oposicion-134826159",
+    "pubDate": "2026-09-30 08:49:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260929/oposicion-critica-propaganda-triunfalismo-illa-soluciones-realistas-debate-politica-general-134806579\">La oposición critica la \"propaganda\" y el \"triunfalismo\" de Illa: \"No ofrece soluciones realistas\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260929/illa-parlament-cataluna-govern-crisis-debate-politica-general-134796276\">De la 'compra compartida' de vivienda a la autoridad de los profesores: las claves de los 6 anuncios de Illa en el Parlament</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Javier Tebas, futbolero y poco espartano",
+    "link": "https://www.elperiodico.com/es/opinion/20260930/javier-tebas-futbolero-espartano-134822900",
+    "pubDate": "2026-09-30 08:42:59",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Una camiseta de Michael Jordan usada en las Finales de 1998 ganadas por los Chicago Bulls se vende por 12,26 millones",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/camiseta-michael-jordan-usada-finales-1998-chicago-bulls-vende-12-millones-134825381",
+    "pubDate": "2026-09-30 08:42:54",
+    "category": "",
+    "description": "<h2>La prenda, utilizada por el '23' utilizada durante 'The Last Dance' ha sido adquirida por un coleccionista a través de la plataforma Joopiter tras una puja histórica</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ястремська пробилася до другого раунду змагань у Китаї",
+    "link": "https://ua.korrespondent.net/sport/tenis/4916024-yastremska-probylasia-do-druhoho-raundu-zmahan-u-kytai",
+    "pubDate": "2026-09-30 08:40:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579538.jpg\">Українська тенісистка перервала невдалу серію з чотирьох поразок поспіль, здобувши перемогу на старті престижного турніру WTA.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Última hora de Ceuta y la crisis migratoria, en directo",
+    "link": "https://www.elperiodico.com/es/politica/20260930/ultima-hora-de-ceuta-y-la-crisis-migratoria-en-directo-elecciones-en-marruecos-noticias-sobre-los-migrantes-y-todas-las-reacciones-en-vivo-132960312",
+    "pubDate": "2026-09-30 08:36:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Понад 220 боїв за добу: де РФ штурмує найбільше",
+    "link": "https://ua.korrespondent.net/ukraine/4916022-ponad-220-boiv-za-dobu-de-rf-shturmuie-naibilshe",
+    "pubDate": "2026-09-30 08:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579535.jpg\">Найбільше боєзіткнень відбулося на Костянтинівському та Покровському напрямках: відповідно 28 і 17 спроб окупантів прорвати оборону ЗСУ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El pueblo medieval a menos de 30 minutos de Blanes ideal para una escapada de fin de semana",
+    "link": "https://www.elperiodico.com/es/catalunya/20260930/pueblo-cuento-hostalric-medieval-castillo-blanes-girona-dv-loc-134670122",
+    "pubDate": "2026-09-30 08:30:00",
+    "category": "",
+    "description": "<h2>La localidad está declarada Bien cultural de interés nacional en la categoría de Monumento histórico</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/20260925/paseo-murallas-134656623\" >Un paseo entre murallas</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260215/tienda-brujeria-bruixa-verda-hostalric-retiros-bosques-rituales-fuego-126730446\" >Así es la nueva tienda de brujería que organiza retiros en bosques, rituales paganos y hasta danza con fuego</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Restaurante Piedra: la reina de las milanesas vive aquí",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260930/restaurante-piedra-barcelona-134670486",
+    "pubDate": "2026-09-30 08:27:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Sole Lema y Gonzalo San Martín se conocieron en un colegio de Buenos Aires con 12 años, son pareja desde los 18 y socios de un restaurante desde mayo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20241007/mejores-restaurantes-sant-gervasi-galvany-barcelona-106399281\">Los mejores restaurantes de Sant Gervasi-Galvany para dejarse caer por la zona alta </a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240711/restaurantes-barcelona-buenos-vinos-103989242\">Buenos restaurantes con buenos vinos: aquí miman cada bocado y cada trago</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ni vino natural ni kombucha, la bebida de moda es el agua con gas",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20260930/agua-con-gas-bebida-moda-aumento-consumo-134785346",
+    "pubDate": "2026-09-30 08:26:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Su consumo no ha dejado de subir en los últimos años: preguntamos a chefs y sumilleres por la tendencia más sorprendente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/bebidas/20260729/recetas-bebidas-sin-alcohol-verano-132872092\">Frescos y sin alcohol: cócteles clásicos en versión 'sin' para preparar en casa y plantar cara al calor</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/bebidas/20260429/bebidas-nolo-sin-alcohol-koji-kefir-membrillo-129425651\">El salto de las bebidas sin alcohol: de hongo de arroz o de kéfir de membrillo</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Відома співачка розкрила стать майбутнього малюка",
+    "link": "https://ua.korrespondent.net/lifestyle/4915923-vidoma-spivachka-rozkryla-stat-maibutnoho-maluika",
+    "pubDate": "2026-09-30 08:23:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579126.jpg\">Співачка Ірина Федишин поділилася радісною звісткою: разом із чоловіком Віталієм Човником вони невдовзі втретє стануть батьками.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Las Bravas Colorás del Real Club Valderrama, las mejores del mundo (y otras noticias gastro)",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260930/bravas-coloras-real-club-valderrama-mejores-mundo-2026-134786924",
+    "pubDate": "2026-09-30 08:23:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Te contamos lo que pasa en el mundillo gastro en estos 'flashes'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20190711/receta-patatas-bravas-picantes-marc-gascons-7548005\">Marc Gascons: la receta de unas bravas únicas (y picantes)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20251010/mejores-patatas-bravas-barcelona-campeonato-122420995\">Si quieres triunfar con unas bravas de campeonato este finde en BCN, toma nota de estos 3 restaurantes</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Gremi de Pastisseria de Barcelona celebra 125 años entregando 8 reconocimientos especiales",
+    "link": "https://www.elperiodico.com/es/gastronomia/20260930/gremi-pastisseria-barcelona-125-anos-premios-especiales-134795582",
+    "pubDate": "2026-09-30 08:21:05",
+    "category": "",
+    "description": "<h2 class=\"item\">La fiesta ha reunido a los principales pasteleros y chocolateros de Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260126/mejores-pastelerias-catalunya-2026-126091031\">Estas son las mejores pastelerías de Catalunya de 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20231107/nuevas-mujeres-pasteleras-94306088\">El futuro de la pastelería es de ellas: jóvenes maestras de lo dulce</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 30 de septiembre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20260930/precio-gasolina-diesel-hoy-30-septiembre-dv-134785975",
+    "pubDate": "2026-09-30 08:17:50",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Подарунок зірки Італії довів фаната до сліз",
+    "link": "https://ua.korrespondent.net/sport/football/4915957-podarunok-zirky-italii-doviv-fanata-do-sliz",
+    "pubDate": "2026-09-30 08:17:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579216.jpg\">Непідробні емоції юного вболівальника миттєво стали вірусними й зібрали мільйони переглядів.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Directo | El Congreso examina a la ministra Isabel Rodríguez tras los nuevos decretos y las protestas por la vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20260930/congreso-examina-hoy-ministra-isabel-rodriguez-nuevos-decretos-protestas-vivienda-134825979",
+    "pubDate": "2026-09-30 08:16:26",
+    "category": "",
+    "description": "<h2>Diversos grupos parlamentarios como el PP, ERC, PNV y Junts cuestionarán a la ministra de Vivienda sobre su gestión y la eficacia de las medidas aprobadas frente a la crisis habitacional</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Embalses hoy, 30 de septiembre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/embalses-hoy-30-septiembre-catalunya-dv-134785900",
+    "pubDate": "2026-09-30 08:08:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Rhode llega a España: los productos imprescindibles de Hailey Bieber para conseguir una piel hidratada y luminosa",
+    "link": "https://www.elperiodico.com/es/shopping/20260930/rhode-espana-hailey-productos-bieber-imprescindibles-134797531",
+    "pubDate": "2026-09-30 08:06:04",
+    "category": "",
+    "description": "<h2>Rhode, la marca de Hailey Bieber, ya está en España desde hoy y los productos más virales para una piel con \"glow\" prometen agotarse en cuestión de horas</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Партизани влаштували окупантам диверсію на залізниці",
+    "link": "https://ua.korrespondent.net/ukraine/4916019-partyzany-vlashtuvaly-okupantam-dyversiui-na-zaliznytsi",
+    "pubDate": "2026-09-30 08:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579526.jpg\">Агенти вивели з ладу три залізничні шафи на напрямку Донецьк - Мелітополь У русі стверджують, що це порушило роботу сигналізації, стрілок і зв’язку.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Raphinha vuelve a Barcelona por precaución y no jugará en la India",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/raphinha-vuelve-barcelona-precaucion-jugara-134825364",
+    "pubDate": "2026-09-30 08:04:03",
+    "category": "",
+    "description": "<h2>El delantero tiene un edema en el muslo derecho y Carlo Ancelotti lo libera de jugar este sábado en Calcuta</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Armada y el Ejército del Aire recuperan la memoria de Barcelona como cuna de la aeronáutica naval",
+    "link": "https://www.elperiodico.com/es/politica/20260930/armada-ejercito-aire-recuperan-memoria-plus-ultra-aeronautica-naval-134822213",
+    "pubDate": "2026-09-30 08:00:40",
+    "category": "",
+    "description": "<h2>Convocado un acto de homenaje al teniente de navío Durán, pionero de la aviación militar y tripulante del Plus Ultra, fallecido hace 100 años en la capital catalana</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El calentamiento del océano alcanza un nuevo récord mientras la subida del nivel del mar se acelera: \"Son señales inequívocas del cambio climático\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/calentamiento-oceano-alcanza-nuevo-record-134812594",
+    "pubDate": "2026-09-30 08:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Un nuevo informe Copernicus alerta del riesgo al que está expuestas las costas españolas debido a extremos climáticos como \"el impacto de las mareas de tempestad y los fenómenos de fuerte oleaje\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260926/nino-intensidad-previsiones-sequias-lluvias-torrenciales-inundaciones-134684053\">El Niño cobra fuerza y ya se perfila como el más intenso desde 1950: medio mundo en riesgo de inundaciones, y el otro, de sequías</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El proceso participativo por el nombre del barrio de Navas empezará en noviembre, acabará en enero y constará de tres debates",
+    "link": "https://www.elperiodico.com/es/barcelona/20260930/proceso-participativo-nombre-barrio-navas-inicio-noviembre-final-enero-barcelona-134816593",
+    "pubDate": "2026-09-30 08:00:39",
+    "category": "",
+    "description": "<h2>El calendario no es definitivo y si hay votación la gestionará el próximo gobierno local, porque no puede celebrarse una consulta en el semestre previo a las municipales</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260719/proceso-participativo-cambio-nombre-navas-torrent-de-la-guineu-sant-andreu-barcelona-132550384\">El proceso participativo sobre el cambio de nombre de Navas a Torrent de la Guineu empezará en otoño y acabará en acuerdo o consulta</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250305/sant-andreu-aprueba-navas-se-llame-torrent-guineu-a-falta-barcelona-consulta-114978100\">Sant Andreu aprueba que el barrio de Navas se llame Torrent de la Guineu a falta de que Barcelona y una consulta lo refrenden</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20250802/promotores-consulta-nombre-barrio-navas-entregan-firmas-ayuntamiento-barcelona-120249759\">El barrio de Navas, a un paso de una consulta sobre su nombre: los vecinos entregan 2.500 firmas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las 12 series que no te puedes perder este octubre",
+    "link": "https://www.elperiodico.com/es/tele/20260930/series-estrenos-octubre-2026-netflix-disney-hb-prime-video-movistar-filmin-3cat-apple-skyshowtime-134581324",
+    "pubDate": "2026-09-30 08:00:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Entre los estrenos de Netflix, HBO, Disney+, Prime, Movistar Plus, Filmin, 3Cat, Apple TV y SkyShowtime destacan 'Carrie', 'Aquel', 'Lupin' y 'Furia'</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20251118/in-vitro-serie-david-verdaguer-123801637\">'In vitro', la serie de David Verdaguer y Bruna Cusí que rompe el tabú de la reproducción asistida</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260926/jose-coronado-problema-final-serie-netflix-maria-valverde-perez-reverte-134550295\">Jose Coronado: \"Los lectores de Pérez-Reverte no se van a sentir defraudados con 'El problema final' de Netflix\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Saliendo de la zona de confort: probamos los nuevos tractores 6R de John Deere",
+    "link": "https://www.elperiodico.com/es/motor/20260930/probamos-nuevos-john-deere-134786374",
+    "pubDate": "2026-09-30 08:00:39",
+    "category": "",
+    "description": "<h2>La icónica marca norteamericana renueva su gama de bastidor grande y extragrande con unos tractores en los que sorprende el elevado grado de tecnología y de confort.</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Estos son los museos que puedes visitar gratis este primer domingo de mes en Barcelona",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20260930/museos-gratis-barcelona-primer-domingo-mes-septiembre-2026-122139263",
+    "pubDate": "2026-09-30 08:00:00",
+    "category": "",
+    "description": "<h2>Culturízate por encima de tus posibilidades. Este domingo toca ir de museos por tu cara bonita: es primer domingo de mes</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260929/pueblo-medieval-bonitos-catalunya-festival-galletas-barcelona-fin-semana-134777583\" target=\"_blank\">Este pueblo medieval “de los más bonitos de Catalunya” acogerá este fin de semana un festival de galletas</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260424/hoy-barcelona-agenda-actividades-planes-semana-102304377\" target=\"_blank\">Qué hacer esta semana en Barcelona: estos son los mejores planes</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Estados Unidos legaliza la muerte de especies amenazadas y protegidas",
     "link": "https://www.elperiodico.com/es/medio-ambiente/20260930/estados-unidos-legaliza-muerte-especies-134825461",
     "pubDate": "2026-09-30 07:55:22",
@@ -18,6 +342,33 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Свята 30 вересня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4915881-sviata-30-veresnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-09-30 07:45:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579021.jpg\">Не рекомендується сумувати і піддаватися тузі - поганий настрій може затриматися в домі надовго, тому день краще провести в позитивному ключі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ атакувала балістикою і БПЛА: як справилася ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4916016-rf-atakuvala-balistykoui-i-bpla-yak-spravylasia-ppo",
+    "pubDate": "2026-09-30 07:43:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579516.jpg\">П’ять балістичних ракет і 155 безпілотників знешкодили Сили протиповітряної оборони під час нічної атаки РФ на Україну. Загалом російські війська запустили 188 дронів та кілька типів ракет.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Паризька казка: родина Коноплі показала ніжні фото",
+    "link": "https://ua.korrespondent.net/sport/football/4915942-paryzka-kazka-rodyna-konopli-pokazala-nizhni-foto",
+    "pubDate": "2026-09-30 07:34:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579175.jpg\">Дружина захисника виклала серію атмосферних кадрів із чоловіком та донькою, зроблених просто серед вулиць Франції.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
     "title": "Mariona Ortiz se va del Casademont Zaragoza",
     "link": "https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-se-va-del-casademont-zaragoza-f202609-n/",
     "pubDate": "2026-09-30 07:32:31",
@@ -34,6 +385,15 @@
     "description": "<h2>El tenista pone freno a años de ataques públicos por parte de la que fuera su mujer durante 11 meses. </h2>",
     "topic": "телебачення",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Сумщина під атакою РФ: двоє загиблих, 13 поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4916013-sumschyna-pid-atakoui-rf-dvoie-zahyblykh-13-poranenykh",
+    "pubDate": "2026-09-30 07:21:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579497.jpg\">Двоє людей загинули та 13 постраждали внаслідок російських ударів по громадах Сумської області. Серед травмованих - однорічна та шестирічна дівчинки.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Sonia (22 años), de ser administrativa en Barcelona a trabajar como agricultora en un pueblo de 330 habitantes: \"Son los valores que me gustaría inculcarles a mis hijos y por eso yo me quedo aquí\"",
@@ -63,6 +423,15 @@
     "topic_match_probability": 75
   },
   {
+    "title": "Ман Сіті визнали винним у фінансових махінаціях на понад $1 млрд",
+    "link": "https://ua.korrespondent.net/sport/football/4916011-man-siti-vyznaly-vynnym-u-finansovykh-makhinatsiiakh-na-ponad-1-mlrd",
+    "pubDate": "2026-09-30 07:10:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579487.jpg\">Керівництво АПЛ довело вину Манчестер Сіті, розсекретивши масштабні схеми з фіктивними спонсорськими та контрактними угодами.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Adrián Granella, odontólogo: \"Si después de comer te lavas los dientes es como pasar ácido con algo que va a raspar\"",
     "link": "https://www.elperiodico.com/es/salud/20260930/lavar-dientes-cepillar-despues-comer-dano-esmalte-acido-odontologo-adrian-granella-dv-et-esmalt-134555536",
     "pubDate": "2026-09-30 07:07:39",
@@ -70,6 +439,15 @@
     "description": "<h2 class=\"item\">Los expertos aseguran que incluso es mejor cepillarse antes de ingerir cualquier bebida o alimento</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/salud/20260506/odontologa-beber-pajita-dana-dientes-caries-arrugas-dv-129631486\" >Una odontóloga avisa: beber con pajita puede dañar tus dientes y provocar arrugas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20260221/cambiar-cepillo-dientes-david-callejo-medico-divulgador-cientifico-catarro-gastroenteritis-dv-126936509\" >David Callejo, médico, alerta: \"Tras un catarro o una gastroenteritis, debes cambiar tu cepillo de dientes\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Гороскоп на 30 вересня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4915872-horoskop-na-30-veresnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-09-30 07:04:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579001.jpg\">Якщо виникне нова ідея, її варто записати й оцінити практично. Найкращими будуть не найгучніші задуми, а ті, які мають реальний механізм реалізації.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
   },
   {
     "title": "El GLP resiste por debajo del euro en más de 200 estaciones de servicio",
@@ -97,6 +475,42 @@
     "description": "<h2>The Strokes, The Lemon Twigs, Yard Act y Jungle, entre las citas musicales destacadas de este mes en la ciudad </h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260929/pueblo-medieval-bonitos-catalunya-festival-galletas-barcelona-fin-semana-134777583\" target=\"_blank\">Este pueblo medieval “de los más bonitos de Catalunya” acogerá este fin de semana un festival de galletas</a></h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260929/horrorland-barcelona-mejor-parque-terror-europa-halloween-2026-134781877\" target=\"_blank\">Así será Horrorland: vuelve a Barcelona el mejor parque de terror de Europa</a></h2>",
     "topic": "qué hacer esta semana en Barcelona",
     "topic_match_probability": 100
+  },
+  {
+    "title": "У Німеччині спрогнозували переговори про припинення війни в Україні",
+    "link": "https://ua.korrespondent.net/world/4916009-u-nimechchyni-sprohnozuvaly-perehovory-pro-prypynennia-viiny-v-ukraini",
+    "pubDate": "2026-09-30 06:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579488.jpg\">Переговори можуть розпочатися незабаром. Європа має брати участь у переговорах, а будь-які домовленості передусім має схвалити Україна, заявив Йоганн Вадефуль.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Російський тенісист травмувався у нападі агресії",
+    "link": "https://ua.korrespondent.net/sport/tenis/4915937-rosiiskyi-tenisyst-travmuvavsia-u-napadi-ahresii",
+    "pubDate": "2026-09-30 06:46:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579155.jpg\">Не в змозі приборкати гнів після невдалого розіграшу, спортсмен завдав собі самопошкодження та розбив руку до крові.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Нічний обстріл Києва: є загиблі, поранені і пожежі",
+    "link": "https://ua.korrespondent.net/city/kiev/4916004-nichnyi-obstril-kyieva-ye-zahybli-poraneni-i-pozhezhi",
+    "pubDate": "2026-09-30 06:34:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579461.jpg\">Російська атака на Київ спричинила пожежі та руйнування у чотирьох районах міста. Загинули дві людини, ще четверо постраждали.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Генштаб оприлюднив нові втрати росіян у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4916002-henshtab-opryluidnyv-novi-vtraty-rosiian-u-viini",
+    "pubDate": "2026-09-30 06:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579459.jpg\">Загальні втрати країни-агрессора Росії з початку повномасштабного вторгнення орієнтовно складають 1 533 970 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Arielle Beck, nuevo fenómeno del piano, debuta en el Palau: \"Estoy en ebullición constante\"",
@@ -252,6 +666,24 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Підсумки 29.09: аварія Ту-95 і збільшення армії РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4915984-pidsumky-2909-avariia-tu-95-i-zbilshennia-armii-rf",
+    "pubDate": "2026-09-30 05:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579412.jpg\">У Росії розбився бомбардувальник Ту-95. Путін знову збільшив чисельність армії Росії. Росіяни вдарили по Києву балістичними ракетами. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Трамп підписав угоду щодо ШІ з головами техкомпаній",
+    "link": "https://ua.korrespondent.net/world/4915998-tramp-pidpysav-uhodu-schodo-shi-z-holovamy-tekhkompanii",
+    "pubDate": "2026-09-30 05:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579440.jpg\">Документ підписали Трамп та керівники компаній Google, Anthropic, Meta, OpenAI, соціальної мережі X та NVIDIA.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Guerra de Irán, en directo | Irán alerta de problemas de suministro de gas este invierno",
     "link": "https://www.elperiodico.com/es/internacional/20260930/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
     "pubDate": "2026-09-30 05:34:00",
@@ -275,6 +707,15 @@
     "pubDate": "2026-09-30 05:30:56",
     "category": "",
     "description": "<h2>Desde hace más de 25 años, VAHO transforma lonas publicitarias, banderolas urbanas, cámaras de aire o cinturones de seguridad en bolsos, mochilas y accesorios únicos. Una apuesta por el upcycling, el diseño y la producción local que demuestra que otra forma de fabricar y consumir es posible</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удари Росії по Київщині: загинула дитина",
+    "link": "https://ua.korrespondent.net/ukraine/4915994-udary-rosii-po-kyivschyni-zahynula-dytyna",
+    "pubDate": "2026-09-30 04:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579421.jpg\">Наслідки російської атаки на об'єктах інфраструктури в Бучанському, Вишгородському та Обухівському районах",
     "topic": "",
     "topic_match_probability": 0
   },
