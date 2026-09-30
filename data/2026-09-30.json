@@ -1,5 +1,32 @@
 [
   {
+    "title": "Leonor, a por más protagonismo en los premios \"Princesa de Asturias\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/leonor-protagonismo-premios-princesa-asturias-134822538",
+    "pubDate": "2026-09-30 04:01:01",
+    "category": "",
+    "description": "<h2>A punto de cumplir 21 años, la heredera de la Corona se enfrentará a una ceremonia en Oviedo, en menos de un mes, con su papel institucional más remarcado que nunca</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "США й Іран можуть поновити бойові дії - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4915991-ssha-y-iran-mozhut-ponovyty-boiovi-dii-zmi",
+    "pubDate": "2026-09-30 03:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579403.jpg\">Патова ситуація підкріплює переконання обох сторін у тому, що ймовірність поновлення військового конфлікту зростає.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Севастополі оголосили критичний графік відключень світла",
+    "link": "https://ua.korrespondent.net/ukraine/4915989-u-sevastopoli-oholosyly-krytychnyi-hrafik-vidkluichen-svitla",
+    "pubDate": "2026-09-30 03:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579394.jpg\">Російські окупанти оголосили графік відключень світла \"2 через 6\" в місті, який почав діяти з 29 вересня.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "США та Британія потопили американський фрегат коло берегів Шотландії",
     "link": "https://ua.korrespondent.net/world/4915987-ssha-ta-brytaniia-potopyly-amerykanskyi-frehat-kolo-berehiv-shotlandii",
     "pubDate": "2026-09-30 02:59:00",
