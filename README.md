@@ -1,4 +1,4 @@
-# News for 2026-09-30 20:55
+# News for 2026-09-30 22:26
 
 Previous day: [2026-09-29](./data/2026-09-29.md)
 
@@ -49,6 +49,10 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 07:32 [Mariona Ortiz se va del Casademont Zaragoza](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-se-va-del-casademont-zaragoza-f202609-n/)<br>
 
 ## www.elperiodico.com
+22:22 [Protecció Civil alerta de un nuevo episodio de fuertes lluvias a partir de este jueves por la mañana](https://www.elperiodico.com/es/tiempo/20260930/proteccio-civil-alerta-nuevo-episodio-lluvias-intesas-jueves-por-la-manana-134861507)<br>
+21:45 [Las firmas de moda reactualizan su legado en los desfiles de París](https://www.elperiodico.com/es/ocio-y-cultura/20260930/firmas-moda-reactualizan-legado-desfiles-134860906)<br>
+21:44 [Un taxista de 64 años consigue una pensión vitalicia de 2.152 euros tras recurrir la incapacidad](https://www.elperiodico.com/es/videos/economia/taxista-64-anos-pension-vitalicia/134860816.shtml)<br>
+21:04 [Iberdrola premia diez proyectos que llevan la electrificación y la industria al medio rural](https://www.elperiodico.com/es/economia/20260930/iberdrola-premia-diez-proyectos-llevan-134859892)<br>
 20:34 [Morlot inicia su quinta temporada al frente de una OBC con un 25% más de entradas vendidas](https://www.elperiodico.com/es/ocio-y-cultura/20260930/morlot-inicia-quinta-temporada-frente-134849643)<br>
 20:18 [Djokovic eleva su balance de victorias en China pero sufre para liquidar su partido en el debut](https://www.elperiodico.com/es/deportes/20260930/djokovic-eleva-balance-victorias-china-134852821)<br>
 20:09 [Muere un voluntario del Banco de Alimentos de Zaragoza por una caída en el almacén de la organización: "Era un compañero encantador"](https://www.elperiodico.com/es/sucesos/20260930/muere-voluntario-banco-alimentos-zaragoza-caida-almacen-134858504)<br>

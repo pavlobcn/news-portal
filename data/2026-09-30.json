@@ -1,5 +1,167 @@
 [
   {
+    "title": "Protecció Civil alerta de un nuevo episodio de fuertes lluvias a partir de este jueves por la mañana",
+    "link": "https://www.elperiodico.com/es/tiempo/20260930/proteccio-civil-alerta-nuevo-episodio-lluvias-intesas-jueves-por-la-manana-134861507",
+    "pubDate": "2026-09-30 22:22:25",
+    "category": "",
+    "description": "<h2>En el litoral y prelitoral de Barcelona y Tarragona se pueden superar los 40 l/m2 en 30 minutos </h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260930/cataluna-avisos-lluvias-jueves-meteocat-prevision-134836561\">Catalunya activa una nueva tanda de avisos amarillos y naranjas en todo el territorio ante la llegada de más chubascos de cara al jueves</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lagarde valora dejar el BCE unos meses antes de que expire su mandato, pero rechaza aspirar a presidir Francia",
+    "link": "https://www.elperiodico.com/es/economia/20260930/lagarde-valora-bce-meses-expire-134861876",
+    "pubDate": "2026-09-30 22:21:05",
+    "category": "",
+    "description": "<h2>La máxima responsable del Banco Central Europeo califica de inviable la hoja de ruta económica de La Francia Insumisa al vulnerar los Tratados de la Unión Europea</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Trump sobre la retirada de Irak: \"Este día representa una victoria para Estados Unidos\"",
+    "link": "https://www.elperiodico.com/es/internacional/20260930/trump-retirada-irak-dia-representa-134861633",
+    "pubDate": "2026-09-30 22:14:38",
+    "category": "",
+    "description": "<h2>El primer ministro Ali al-Zaidi anuncia el fin de la coalición internacional liderada por Estados Unidos que permaneció desplegada en el territorio iraquí durante la última década</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Amnistía denuncia torturas a migrantes en Ceuta: “Me dieron con la porra estando esposado y sin ropa”",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/amnistia-denuncia-torturas-migrantes-ceuta/134861435.shtml",
+    "pubDate": "2026-09-30 22:00:11",
+    "category": "",
+    "description": "Entre las prácticas degradantes citan insultos, amenazas constantes para que abandonen la ciudad y vejaciones como hacer que se arrodillen para besar una cruz cristiana",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las firmas de moda reactualizan su legado en los desfiles de París",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20260930/firmas-moda-reactualizan-legado-desfiles-134860906",
+    "pubDate": "2026-09-30 21:45:48",
+    "category": "",
+    "description": "<h2>La diseñadora Stella McCartney reafirma su compromiso con la sostenibilidad en la pasarela de París mediante una propuesta para la primavera-verano de 2027 centrada en la sastrería y los hombros pronunciados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El juez investiga si hubo terceras personas en casa del arquitecto Josep Juanpere a través de las señales telefónicas",
+    "link": "https://www.elperiodico.com/es/sociedad/20260930/juez-investiga-arquitecto-juanpere-terceras-personas-senales-moviles-134859911",
+    "pubDate": "2026-09-30 21:45:12",
+    "category": "",
+    "description": "<h2 class=\"item\">La sospechosa del homicidio del arquitecto tuvo nueve meses el teléfono pinchado</h2><h2 class=\"item\">El titular del juzgado ha solicitado un vaciado de los móviles de la víctima y la acusada</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260929/arquitecto-josep-juanpera-investigacion-homicidio-134818367\">El juez ve sospechosas las \"heridas en el cuello\" del arquitecto Juanpere y que su pareja se encerrara en casa con llave</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Saiz, a los empresarios: \"Una baja médica no es absentismo y no se puede equiparar con fraude\"",
+    "link": "https://www.elperiodico.com/es/economia/20260930/baja-laboral-elma-saiz-baja-medica-no-es-absentismo-fraude-134851073",
+    "pubDate": "2026-09-30 21:44:48",
+    "category": "",
+    "description": "<h2>El presidente de Pimec rechaza renovaciones indefinidas de alquileres y Junts afirma que \"no tiene miedo de quemarse\" en la votación del viernes en el Congreso para \"proteger a las familias catalanas\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Un taxista de 64 años consigue una pensión vitalicia de 2.152 euros tras recurrir la incapacidad",
+    "link": "https://www.elperiodico.com/es/videos/economia/taxista-64-anos-pension-vitalicia/134860816.shtml",
+    "pubDate": "2026-09-30 21:44:03",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Italia extiende por tercera vez los controles fronterizos a viajeros procedentes de España",
+    "link": "https://www.elperiodico.com/es/internacional/20260930/italia-extiende-tercera-vez-controles-fronteras-viajeros-espana-134860819",
+    "pubDate": "2026-09-30 21:42:58",
+    "category": "",
+    "description": "<h2>La medida se prolongará nuevamente durante otros 15 días adicionales, según ha informado el Gobierno de Meloni, sin dar nuevas explicaciones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Arbeloa, acusado por la FA de poner en duda la integridad de un árbitro",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/arbeloa-acusado-fa-poner-duda-134860550",
+    "pubDate": "2026-09-30 21:31:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El técnico del Fulham se expone a una multa económica y a una sanción deportiva que puede incluir partidos de suspensión. </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Cuánto tiempo están dispuestos a emplear los conductores españoles en la recarga de un coche eléctrico?",
+    "link": "https://www.elperiodico.com/es/motor/20260930/tiempo-dispuestos-conductores-espanoles-recarga-134633106",
+    "pubDate": "2026-09-30 21:30:33",
+    "category": "",
+    "description": "<h2>Casi la mitad prefiere cargar durante la noche en casa y solo el 28% recurre habitualmente a los cargadores rápidos durante los viajes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mireia Belmonte ingresa en el Salón Internacional de la Fama de la Natación de EEUU",
+    "link": "https://www.elperiodico.com/es/deportes/20260930/mireia-belmonte-ingresa-salon-internacional-134860314",
+    "pubDate": "2026-09-30 21:24:57",
+    "category": "",
+    "description": "<h2 class=\"item\">La nadadora de Badalona, de 36 años, cuenta con un impresionante palmarés en el que destacan las cuatro medallas olímpicas en los Juegos de Londres 2012 y Río 2016.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Укренерго запроваджує відключення через атаки РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4916264-ukrenerho-zaprovadzhuie-vidkluichennia-cherez-ataky-rf",
+    "pubDate": "2026-09-30 21:15:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580134.jpg\">У четвер, 1 жовтня, в окремих регіонах України обмежать споживання електроенергії. Причиною стали наслідки російських атак на енергетичні об’єкти.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Vandalizan la famosa estatua del Oso y el Madroño en Sol, Madrid",
+    "link": "https://www.elperiodico.com/es/videos/politica/vandalizan-famosa-estatua-oso-madrono-sol-madrid/134860173.shtml",
+    "pubDate": "2026-09-30 21:14:29",
+    "category": "",
+    "description": "En la base, hay varias pintadas, una de ellas es un mensaje dirigido a la presidenta madrileña en el que pone \"Ayuso, ten cuidado\"",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Iberdrola premia diez proyectos que llevan la electrificación y la industria al medio rural",
+    "link": "https://www.elperiodico.com/es/economia/20260930/iberdrola-premia-diez-proyectos-llevan-134859892",
+    "pubDate": "2026-09-30 21:04:14",
+    "category": "",
+    "description": "<h2>Los Premios Convive de la eléctrica premian a las iniciativas de Bayer España, el Ayuntamiento de Lucena y Unicef </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno presiona a Junts y Podemos con el \"coste político\" de tumbar los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20260930/gobierno-podemos-junts-coste-politico-decretos-vivienda-134853376",
+    "pubDate": "2026-09-30 21:00:14",
+    "category": "",
+    "description": "<h2>En Moncloa avisan de que tumbar los decretos sería \"un punto terrible de inflexión\" en el actual contexto de movilizaciones sociales</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260930/sanchez-muestra-razonablemente-optimista-votacion-134843393\" target=\"_blank\">Sánchez se muestra “razonablemente optimista” ante la votación de los decretos de vivienda este viernes</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Policía desvela que “bolsas” de inmigrantes se desplazaron 900 kilómetros hasta Ceuta mientras Marruecos asegura que restringió los viajes",
+    "link": "https://www.elperiodico.com/es/politica/20260930/policia-desvela-bolsas-inmigrantes-desplazaron-134855078",
+    "pubDate": "2026-09-30 21:00:14",
+    "category": "",
+    "description": "<h2>Un organismo marroquí vinculado a la monarquía alauí asegura que el 29 de julio, un día antes de la entrada masiva, creó un Comité de Vigilancia por la existencia de \"cruces masivos para reunir y transportar ciudadanos\" hacia la frontera con Ceuta</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El horóscopo de mañana, jueves 1 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20260930/horoscopo-hoy-jueves-1-octubre-dv-134633832",
+    "pubDate": "2026-09-30 21:00:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Вбивство військового в Одесі: підозрюваного затримали",
     "link": "https://ua.korrespondent.net/city/odessa/4916254-vbyvstvo-viiskovoho-v-odesi-pidozruivanoho-zatrymaly",
     "pubDate": "2026-09-30 20:48:00",
@@ -25,6 +187,15 @@
     "description": "<h2>La <a href=\"https://www.elperiodico.com/es/economia/20260929/inflacion-ipc-adelantado-septiembre-2026-carburantes-desbocados-134785712\" target=\"_blank\">subida de la inflación </a>complica la situación económica </h2><h2>La política está en manos de si Puigdemont permite <a href=\"https://www.elperiodico.com/es/politica/20260929/socios-gobierno-dejan-vilo-decretos-texto-134813325\" target=\"_blank\">que el gobierno apruebe en el Congreso su primer decreto sobre vivienda</a></h2>",
     "topic": "політика",
     "topic_match_probability": 90
+  },
+  {
+    "title": "Maricarmen y el IPC al 4,9%",
+    "link": "https://www.elperiodico.com/es/opinion/20260930/maricarmen-ipc-articulo-de-joan-tapia-134858986",
+    "pubDate": "2026-09-30 20:40:22",
+    "category": "",
+    "description": "<h2>La <a href=\"https://www.elperiodico.com/es/economia/20260929/inflacion-ipc-adelantado-septiembre-2026-carburantes-desbocados-134785712\" target=\"_blank\">subida de la inflación </a>complica la situación económica </h2><h2>La política está en manos de si Puigdemont permite <a href=\"https://www.elperiodico.com/es/politica/20260929/socios-gobierno-dejan-vilo-decretos-texto-134813325\" target=\"_blank\">que el gobierno apruebe en el Congreso su primer decreto sobre vivienda</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
   },
   {
     "title": "Carragher, leyenda del Liverpool, pide que se retiren los títulos al City y se eche a los dueños: \"Esto no va de medallas, va de sentimientos y el City ha robado eso\"",
@@ -477,6 +648,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "ППО вперше збила понад 80% реактивних шахедів",
+    "link": "https://ua.korrespondent.net/ukraine/4916224-ppo-vpershe-zbyla-ponad-80-reaktyvnykh-shakhediv",
+    "pubDate": "2026-09-30 18:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4579996.jpg\">ППО знешкодила більшу частину з 285 ударних БпЛА, якими РФ атакувала Україну. Серед запущених дронів були 174 реактивних.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Sánchez sobre la convalidación de los decretos de vivienda: “Soy razonablemente optimista\"",
     "link": "https://www.elperiodico.com/es/videos/politica/sanchez-convalidacion-decretos-vivienda-optimista/134853969.shtml",
     "pubDate": "2026-09-30 18:17:17",
@@ -835,6 +1015,15 @@
     "description": "<h2>Demandan una \"valoración individualizada de las necesidades\" del menor con autismo y una \"alternativa habitacional\" para la familia, formada por menores, su madre y su hermano, un hombre con un 87% de discapacidad</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260929/desahucian-persona-87-discapacidad-familia-barrio-cerdanyola-mataro-134789178\">Desahucian a una persona con un 87% de discapacidad y a su familia en Mataró</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "La lacra de los 'desindignados' de la vivienda",
+    "link": "https://www.elperiodico.com/es/opinion/20260930/lacra-desindignados-vivienda-desahucios-maricarmen-134849176",
+    "pubDate": "2026-09-30 16:52:17",
+    "category": "",
+    "description": "<h2>Gente que <a href=\"https://amp.elperiodico.com/es/politica/20260928/veteranos-15m-vuelven-sol-crisis-vivienda-podemos-ser-maricarmen-cualquier-momento-134758247\" target=\"_blank\">acampaba en el 15M</a> con 25 años, quince años después, a los 40, se mofa de los que ahora lo hacen</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Los sindicatos critican que Salut señale a los trabajadores que encadenan bajas: \"Le ha comprado el discurso a la patronal\"",
