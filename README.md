@@ -1,8 +1,17 @@
-# News for 2026-09-30 09:26
+# News for 2026-09-30 11:01
 
 Previous day: [2026-09-29](./data/2026-09-29.md)
 
 ## ua.korrespondent.net
+10:48 [Зеленський назвав основну ціль удару Росії](https://ua.korrespondent.net/ukraine/4916065-zelenskyi-nazvav-osnovnu-tsil-udaru-rosii)<br>
+10:40 [У Молдові дрон вибухнув біля антени зв’язку](https://ua.korrespondent.net/world/4916062-u-moldovi-dron-vybukhnuv-bilia-anteny-zviazku)<br>
+10:28 [У бригаді СБС викрили російського "крота"](https://ua.korrespondent.net/ukraine/4916058-u-bryhadi-sbs-vykryly-rosiiskoho-krota)<br>
+10:24 [Удари по енергетиці. Новий задум росіян](https://ua.korrespondent.net/ukraine/4916052-udary-po-enerhetytsi-novyi-zadum-rosiian)<br>
+10:01 [Десятиліття в очікуванні страти: чоловік у США отримав свободу](https://ua.korrespondent.net/world/4915928-desiatylittia-v-ochikuvanni-straty-cholovik-u-ssha-otrymav-svobodu)<br>
+09:43 [Атака на Київ: кількість загиблих зросла](https://ua.korrespondent.net/city/kiev/4916043-ataka-na-kyiv-kilkist-zahyblykh-zrosla)<br>
+09:40 [У Борзні російський удар знищив 200 тонн зерна](https://ua.korrespondent.net/ukraine/4916041-u-borzni-rosiiskyi-udar-znyschyv-200-tonn-zerna)<br>
+09:31 [Відома акторка розкрила, чому не показує свого обранця](https://ua.korrespondent.net/lifestyle/4915949-vidoma-aktorka-rozkryla-chomu-ne-pokazuie-svoho-obrantsia)<br>
+09:25 [Відключення у Києві і п'яти областях - Укренерго](https://ua.korrespondent.net/ukraine/4916037-vidkluichennia-u-kyievi-i-piaty-oblastiakh-ukrenerho)<br>
 09:01 [На Київщині після удару БпЛА загорівся супермаркет](https://ua.korrespondent.net/ukraine/4916030-na-kyivschyni-pislia-udaru-bpla-zahorivsia-supermarket)<br>
 08:52 [Київ затягло смогом: у ДСНС пояснили причину](https://ua.korrespondent.net/city/kiev/4916028-kyiv-zatiahlo-smohom-u-dsns-poiasnyly-prychynu)<br>
 08:31 [Понад 220 боїв за добу: де РФ штурмує найбільше](https://ua.korrespondent.net/ukraine/4916022-ponad-220-boiv-za-dobu-de-rf-shturmuie-naibilshe)<br>
@@ -12,6 +21,7 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 07:21 [Сумщина під атакою РФ: двоє загиблих, 13 поранених](https://ua.korrespondent.net/ukraine/4916013-sumschyna-pid-atakoui-rf-dvoie-zahyblykh-13-poranenykh)<br>
 06:34 [Нічний обстріл Києва: є загиблі, поранені і пожежі](https://ua.korrespondent.net/city/kiev/4916004-nichnyi-obstril-kyieva-ye-zahybli-poraneni-i-pozhezhi)<br>
 06:17 [Генштаб оприлюднив нові втрати росіян у війні](https://ua.korrespondent.net/ukraine/4916002-henshtab-opryluidnyv-novi-vtraty-rosiian-u-viini)<br>
+04:58 [Армія Росії забирає в жителів Олешок продукти, передані ЗСУ - МВА](https://ua.korrespondent.net/ukraine/4915996-armiia-rosii-zabyraie-v-zhyteliv-oleshok-produkty-peredani-zsu-mva)<br>
 04:44 [Удари Росії по Київщині: загинула дитина](https://ua.korrespondent.net/ukraine/4915994-udary-rosii-po-kyivschyni-zahynula-dytyna)<br>
 03:45 [У Севастополі оголосили критичний графік відключень світла](https://ua.korrespondent.net/ukraine/4915989-u-sevastopoli-oholosyly-krytychnyi-hrafik-vidkluichen-svitla)<br>
 02:59 [США та Британія потопили американський фрегат коло берегів Шотландії](https://ua.korrespondent.net/world/4915987-ssha-ta-brytaniia-potopyly-amerykanskyi-frehat-kolo-berehiv-shotlandii)<br>
@@ -20,9 +30,19 @@ Previous day: [2026-09-29](./data/2026-09-29.md)
 01:37 [РФ підвищує податки, щоб "перекрити" рекордні витрати на війну - ЗМІ](https://ua.korrespondent.net/business/economics/4915980-rf-pidvyschuie-podatky-schob-perekryty-rekordni-vytraty-na-viinu-zmi)<br>
 
 ## as.com
+10:33 [El trauma del visitante del Madrid](https://as.com/baloncesto/euroliga/el-trauma-del-visitante-del-madrid-f202609-n/)<br>
 07:32 [Mariona Ortiz se va del Casademont Zaragoza](https://as.com/baloncesto/mas_baloncesto/mariona-ortiz-se-va-del-casademont-zaragoza-f202609-n/)<br>
 
 ## www.elperiodico.com
+10:44 [Pacientes con cáncer denuncian que los nuevos fármacos aprobados en Europa tardan hasta 3 años en llegar a España: "Son plazos inaceptables"](https://www.elperiodico.com/es/sanidad/20260930/pacientes-cancer-denuncian-nuevos-farmacos-aprobados-europa-tardan-llegar-espana-plazos-inaceptables-134827164)<br>
+10:35 [Indra compra el 30% de la compañía de ciberseguridad TRC, con la opción de alcanzar el 100%](https://www.elperiodico.com/es/economia/20260930/indra-compra-30-compania-ciberseguridad-134829288)<br>
+10:34 [Logitech presenta los auriculares Zone Vibe Pro para combinar trabajo y ocio](https://www.elperiodico.com/es/tecnologia/20260930/logitech-presenta-auriculares-zone-vibe-precio-134828893)<br>
+10:30 [Un millón de animales muertos cada año en balsas de riego: denuncian la paralización del decreto que lo evitaría](https://www.elperiodico.com/es/medio-ambiente/20260930/millon-animales-muertos-ano-balsas-134829125)<br>
+10:29 [La tasa de ahorro de los hogares baja hasta el 11% en el segundo trimestre de 2026](https://www.elperiodico.com/es/economia/20260930/tasa-ahorro-hogares-baja-11-134829002)<br>
+09:55 [El Hospital HM Nou Delfos contará con la primera unidad especializada en trastornos neurológicos funcionales de Cataluña](https://www.elperiodico.com/es/sociedad/20260930/hospital-hm-nou-delfos-contara-bc-134793836)<br>
+09:54 [La Aemet advierte de la llegada de más chubascos durante esta semana y de posibles episodios de lluvias torrenciales en el Mediterráneo](https://www.elperiodico.com/es/sociedad/20260930/aemet-lluvias-semana-prevision-134827157)<br>
+09:40 [Pablo, de artista de circo a funcionario en un año: "Me he gastado los ahorros, he dejado mi trabajo... Me he jugado todo a esto"](https://www.elperiodico.com/es/economia/20260930/cambio-vida-artista-circo-oposiciones-funcionario-historia-superacion-pablo-dv-et-134562740)<br>
+09:30 [Iker, el joven de 23 años que cambió la ciudad por el campo para ser autosuficiente: "Tengo nuevos animales, nuevos proyectos y siempre mejorando"](https://www.elperiodico.com/es/economia/20260930/ciudad-vida-rural-finca-autosuficiente-libertad-granja-placas-solares-pozo-iker-dv-et-134531297)<br>
 09:18 [El estigma de los audífonos: casi la mitad de quienes los necesitan renuncia a ellos por vergüenza](https://www.elperiodico.com/es/sociedad/20260930/estigma-audifonos-mitad-necesitan-renuncia-bc-134826953)<br>
 08:42 [Una camiseta de Michael Jordan usada en las Finales de 1998 ganadas por los Chicago Bulls se vende por 12,26 millones](https://www.elperiodico.com/es/deportes/20260930/camiseta-michael-jordan-usada-finales-1998-chicago-bulls-vende-12-millones-134825381)<br>
 08:00 [La Armada y el Ejército del Aire recuperan la memoria de Barcelona como cuna de la aeronáutica naval](https://www.elperiodico.com/es/politica/20260930/armada-ejercito-aire-recuperan-memoria-plus-ultra-aeronautica-naval-134822213)<br>
