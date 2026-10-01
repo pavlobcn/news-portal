@@ -603,6 +603,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-09-30 19:33:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "La Euroliga y los árbitros renuevan su convenio colectivo",
     "link": "https://as.com/baloncesto/la-euroliga-y-los-arbitros-renuevan-su-convenio-colectivo-f202609-n/",
     "pubDate": "2026-09-30 19:30:01",
@@ -889,6 +898,15 @@
     "description": "<h2 class=\"item\">El profesional expone que pese a ganar 480 euros con un trabajo de dos horas, el beneficio bruto tras impuestos y gastos es muy distinto</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260905/unai-fontanero-buen-oficial-carpintero-electricista-3000-10000-euros-mes-dv-et-133339268\">Unai, fontanero: \"Un buen oficial, ya sea fontanero, carpintero o electricista, que tenga su clientela propia, puede estar ganando de 3.000 a 10.000 euros al mes fácilmente\"</a></h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-09-30 17:59:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "\"Флеш\": РФ вперше використала дрони з боєзарядом по ЛЕП",
@@ -2151,6 +2169,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "Shaquille O’Neal se rinde a un exjugador del Real Madrid: “Era el mejor jugador del mundo”",
+    "link": "https://as.com/baloncesto/euroliga/shaquille-oneal-se-rinde-a-un-exjugador-del-real-madrid-era-el-mejor-jugador-del-mundo-f202609-n/",
+    "pubDate": "2026-09-30 12:24:30",
+    "category": "Baloncesto",
+    "description": "El que fuera el mejor pívot de la NBA en su tiempo recuerda a Arvydas Sabonis como su “jugador favorito”.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Україна ризикує залишитися без літаків F-16 - ЗМІ",
     "link": "https://ua.korrespondent.net/world/4916101-ukraina-ryzykuie-zalyshytysia-bez-litakiv-F-16-zmi",
     "pubDate": "2026-09-30 12:22:00",
@@ -2977,6 +3004,15 @@
     "description": "<h2 class=\"item\">La fiesta ha reunido a los principales pasteleros y chocolateros de Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260126/mejores-pastelerias-catalunya-2026-126091031\">Estas son las mejores pastelerías de Catalunya de 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20231107/nuevas-mujeres-pasteleras-94306088\">El futuro de la pastelería es de ellas: jóvenes maestras de lo dulce</a></h2>",
     "topic": "ресторани, їжа",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Prometedor debut de Nick Smith Jr.",
+    "link": "https://as.com/baloncesto/euroliga/debut-solido-de-nick-smith-jr-f202609-n/",
+    "pubDate": "2026-09-30 08:20:06",
+    "category": "Baloncesto",
+    "description": "La última incorporación del Real Madrid debuta en Estambul dejando varias muestras de lo mucho que puede aportar al equipo.",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Precio de la gasolina y diésel hoy, 30 de septiembre en España: consulta el precio de los carburantes",
