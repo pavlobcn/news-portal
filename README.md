@@ -1,8 +1,11 @@
-# News for 2026-10-01 07:48
+# News for 2026-10-01 08:33
 
 Previous day: [2026-09-30](./data/2026-09-30.md)
 
 ## ua.korrespondent.net
+08:18 [Нічний вибух у Криму: у двох районах знеструмлення](https://ua.korrespondent.net/world/russia/4916339-nichnyi-vybukh-u-krymu-u-dvokh-raionakh-znestrumlennia)<br>
+08:01 [БПЛА з шести напрямків: ППО знищила десятки дронів](https://ua.korrespondent.net/ukraine/4916335-bpla-z-shesty-napriamkiv-ppo-znyschyla-desiatky-droniv)<br>
+07:53 [Свята 1 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4916191-sviata-1-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 07:37 [Росія атакувала Дніпропетровщину дронами, є загиблий](https://ua.korrespondent.net/ukraine/4916332-rosiia-atakuvala-dnipropetrovschynu-dronamy-ye-zahyblyi)<br>
 06:59 [Удар по Одесі: пошкоджено бізнес-центр, є поранений](https://ua.korrespondent.net/city/odessa/4916327-udar-po-odesi-poshkodzheno-biznes-tsentr-ye-poranenyi)<br>
 06:37 [Наслідки атаки РФ на Київ: є постраждалий і пожежі](https://ua.korrespondent.net/city/kiev/4916323-naslidky-ataky-rf-na-kyiv-ye-postrazhdalyi-i-pozhezhi)<br>
@@ -11,10 +14,15 @@ Previous day: [2026-09-30](./data/2026-09-30.md)
 03:53 [Путін хоче паралізувати Київ до зими - ЗМІ](https://ua.korrespondent.net/ukraine/4916312-putin-khoche-paralizuvaty-kyiv-do-zymy-zmi)<br>
 
 ## as.com
+07:44 [La realidad de los fanáticos del Panathinaikos: “Están realmente locos”](https://as.com/baloncesto/euroliga/la-realidad-de-los-fanaticos-del-panathinaikos-estan-realmente-locos-f202610-n/)<br>
 07:39 [Hapoel - Real Madrid: horario, TV y dónde ver la Euroliga 2026-27](https://as.com/baloncesto/euroliga/jueves-hapoel-real-madrid-horario-tv-y-donde-ver-la-euroliga-2026-27-f202610-n/)<br>
 07:03 [Xavi Pascual inspira terror en Europa](https://as.com/baloncesto/euroliga/xavi-pascual-inspira-terror-en-europa-f202610-n/)<br>
 
 ## www.elperiodico.com
+08:25 [Retiro espera el regreso de Maricarmen entre el alivio, el reproche y la preocupación por su salud: "Hay un deterioro progresivo"](https://www.elperiodico.com/es/sociedad/20261001/retiro-espera-regreso-maricarmen-alivio-reproche-preocupacion-134867693)<br>
+07:59 [La historia oculta de las plumas que movieron imperios: Madrid rescata el arte milenario que convirtió a las aves en poder](https://www.elperiodico.com/es/ocio-y-cultura/20261001/historia-oculta-plumas-movieron-imperios-madrid-arte-milenario-museo-134750283)<br>
+07:54 [Antoni Trilla se jubila como decano de Medicina, pero seguirá impartiendo clases en la UB](https://www.elperiodico.com/es/sociedad/20261001/antoni-trilla-jubila-decano-universidad-medicina-impartiendo-clases-ub-134867090)<br>
+07:54 [Zara lanza hoy la esperadísima colección con John Galliano: siluetas de archivo del gigante textil convertidas en alta costura](https://www.elperiodico.com/es/gente/20261001/zara-john-galliano-reform-prendas-coleccion-134826278)<br>
 07:39 [La Comunidad Valenciana se blinda ante 24 horas de lluvias torrenciales](https://www.elperiodico.com/es/sociedad/20261001/comunidad-valenciana-blinda-24-horas-134867164)<br>
 07:35 [Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo: envío del ES-Alert y previsión del tiempo del Meteocat](https://www.elperiodico.com/es/sociedad/20261001/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025)<br>
 07:21 [Virgilio, el hombre que lleva 6 años reconstruyendo una cabaña en las montañas de Asturias: "Yo no tenía ni idea de construcción. No había hecho una mezcla de cemento en mi vida cuando empecé con esto"](https://www.elperiodico.com/es/economia/20261001/reforma-cabana-montana-asturias-despoblacion-construccion-hogar-virgilio-dv-et-134605432)<br>
@@ -24,6 +32,10 @@ Previous day: [2026-09-30](./data/2026-09-30.md)
 06:01 [Por qué hay convocada otra concentración vecinal sobre seguridad en L'Hospitalet tras el precedente del año pasado](https://www.elperiodico.com/es/barcelona/20261001/hay-convocada-concentracion-vecinal-seguridad-hospitalet-tras-precedente-2025-134853682)<br>
 06:01 [La histórica Pasta Sanmartí moderniza su maquinaria sin renunciar a más de tres siglos de trabajo artesano](https://www.elperiodico.com/es/barcelona/20261001/historica-pasta-sanmarti-moderniza-maquinaria-133528541)<br>
 06:01 [Rosa Rabbani, psicóloga: "No es que eches de menos a tu ex sino que añoras lo que representa tener pareja"](https://www.elperiodico.com/es/ser-feliz/20261001/rosa-rabbani-psicologa-eches-ex-134798882)<br>
+06:00 [Envejecer con discapacidad: “Esta etapa merece ser vivida con ilusión y dignidad”](https://www.elperiodico.com/es/sociedad/20261001/envejecer-discapacidad-etapa-merece-vivida-ilusion-dignidad-134864944)<br>
+06:00 [España avanza estratégicamente hacia la nueva longevidad, pero aún con déficits en dependencia, vivienda y cuidados](https://www.elperiodico.com/es/sociedad/20261001/espana-avanza-estrategicamente-nueva-longevidad-deficits-dependencia-vivienda-cuidados-134864825)<br>
+06:00 [De la soledad a las ganas de vivir: “Si aquí todo el mundo vive, yo también viviré”](https://www.elperiodico.com/es/sociedad/20261001/soledad-ganas-vivir-mundo-vive-134864871)<br>
+06:00 [Cuidar y acompañar al paciente, pero también a los familiares](https://www.elperiodico.com/es/sociedad/20261001/cuidar-acompanar-paciente-familiares-134864915)<br>
 06:00 [Mentores sénior en las empresas: "No nos podemos ir sin más, hay que transmitir lo que sabemos"](https://www.elperiodico.com/es/sociedad/20261001/mentores-senior-empresas-veteranos-mayores-134796079)<br>
 06:00 [El rincón del Pirineo que han elegido David Broncano y Silvia Alonso para una escapada romántica: un circo natural con una cascada de más de 400 metros](https://www.elperiodico.com/es/gente/20261001/rincon-pirineo-han-elegido-david-broncano-dv-134770543)<br>
 05:38 [Guerra Ucrania - Rusia, última hora en directo](https://www.elperiodico.com/es/internacional/20261001/guerra-ucrania-rusia-ultima-hora-126605559)<br>
