@@ -1,5 +1,185 @@
 [
   {
+    "title": "El Parlament rechaza el plan de Illa para la 'compra conjunta' de vivienda entre la Generalitat y particulares",
+    "link": "https://www.elperiodico.com/es/politica/20261001/cataluna-compra-compartida-vivienda-illa-generalitat-rechazo-parlament-134887876",
+    "pubDate": "2026-10-01 16:48:17",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260929/illa-parlament-cataluna-govern-crisis-debate-politica-general-134796276\">De la 'compra compartida' de vivienda a la autoridad de los profesores: las claves de los 6 anuncios de Illa en el Parlament</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260929/salvador-illa-vivienda-compra-conjunta-pisos-generalitat-particulares-mayores-40-anos-debate-de-politica-general-134805131\">Catalunya pone en marcha la 'compra conjunta' de pisos entre la Generalitat y particulares de más de 40 años</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Cuenta Financia Europa permite ahorrar impuestos al invertir y tiene una ventaja de hasta 10.000 euros, según la OCU",
+    "link": "https://www.elperiodico.com/es/economia/20261001/cuenta-financia-europa-permite-ahorrar-impuestos-invertir-ventajas-hasta-10000-euros-ocu-dv-134890902",
+    "pubDate": "2026-10-01 16:43:15",
+    "category": "",
+    "description": "<h2>El nuevo vehículo permite diferir el pago de impuestos y exime parte de las ganancias si la inversión supera los cinco años</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Andrea Ropero e Iñaki López estallan contra Iker Jiménez por cuestionar en 'Horizonte' el reportaje de laSexta sobre el desahucio de Maricarmen: \"Ven fantasmas donde no hay\"",
+    "link": "https://www.elperiodico.com/es/videos/tele/andrea-ropero-inaki-lopez-estallan/134891870.shtml",
+    "pubDate": "2026-10-01 16:41:54",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El nuevo mobiliario de las terrazas de la Rambla ya puede verse, es de color crema e incorporará jardineras",
+    "link": "https://www.elperiodico.com/es/videos/barcelona/nuevo-mobiliario-terrazas-rambla-verse/134891827.shtml",
+    "pubDate": "2026-10-01 16:41:48",
+    "category": "",
+    "description": "",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "На фронті загинув пілот з бригади Привид Києва",
+    "link": "https://ua.korrespondent.net/ukraine/4916521-na-fronti-zahynuv-pilot-z-bryhady-pryvyd-kyieva",
+    "pubDate": "2026-10-01 16:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581397.jpg\">Капітан Марат Мамбетов на МіГ-29 завдавав ударів по російських окупантах. Літак підбито ворожою ракетою.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los policías acusados de lesionar a Roger Español aducen que estaban en \"peligro extremo\"",
+    "link": "https://www.elperiodico.com/es/politica/20261001/policias-acusados-lesionar-roger-espanol-134891155",
+    "pubDate": "2026-10-01 16:31:13",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260930/juicio-audiencia-de-barcelona-pelota-de-goma-roger-espanol-mossos-guardia-civil-134847384\">Los Mossos rechazan que un escopetero de la policía nacional acusado disparara directamente al activista Roger Español</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20260916/juicio-roger-espanol-pelotas-de-goma-policia-nacional-1-o-134335562\">Roger Español, el activista herido por la policía con una pelota de goma el 1-O: \"No había una situación de riesgo. Creía que eran salvas\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "На Житомирщині військового засудили на 13 років за теракт",
+    "link": "https://ua.korrespondent.net/ukraine/4916515-na-zhytomyrschyni-viiskovoho-zasudyly-na-13-rokiv-za-terakt",
+    "pubDate": "2026-10-01 16:30:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581395.jpeg\">Військовослужбовця, який за гроші погодився виконувати завдання представника РФ і виготовив вибухівку, засудили до 13 років ув’язнення. Внаслідок підриву загинув інший військовий.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos recuperan en Francia dos remolques con 95 motos robadas en un aparcamiento de Masquefa",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/mossos-recuperan-francia-remolques-95/134891123.shtml",
+    "pubDate": "2026-10-01 16:26:55",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Є домовленість з ЄК щодо фінансування - Зеленський",
+    "link": "https://ua.korrespondent.net/ukraine/4916511-ye-domovlenist-z-yek-schodo-finansuvannia-zelenskyi",
+    "pubDate": "2026-10-01 16:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581392.jpeg\">Україна та Єврокомісія визначили формат і строки покриття фінансових та оборонних потреб на 2026-27 рр. – Зеленський",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "David Canyadó, alcalde de Castellnou de Bages: «La familia de Carles Vilajosana y muchos ciudadanos creen que hay que endurecer la ley del menor»",
+    "link": "https://www.elperiodico.com/es/sociedad/20261001/david-canyado-alcalde-castellnou-bages-134890728",
+    "pubDate": "2026-10-01 16:15:31",
+    "category": "",
+    "description": "<h2>Junto con Sílvia Orriols, el alcalde del municipio del hombre muerto en la Fiesta Mayor de Manresa reivindica el endurecimiento del Código Penal</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La hermana de Carles Vilajosana, la víctima del homicidio de Manresa, se reúne con la Mesa del Parlament",
+    "link": "https://www.elperiodico.com/es/sociedad/20261001/hermana-carles-vilajosana-victima-homicidio-134890630",
+    "pubDate": "2026-10-01 16:14:03",
+    "category": "",
+    "description": "<h2>El presidente de la cámara, Josep Rull, y el resto de miembros de la mesa han recibido en audiencia privada a Yolanda Vilajosana para expresarle el pésame institucional por la muerte de su hermano</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El hombre que se suicidó en una zapatería de L'Hospitalet iba a perder su negocio el 5 de octubre",
+    "link": "https://www.elperiodico.com/es/barcelona/20261001/hombre-suicido-zapataria-lhospitalet-iba-perder-negocio-octubre-134886996",
+    "pubDate": "2026-10-01 16:08:53",
+    "category": "",
+    "description": "<h2>El TSJC confirma que Javier tenía fijado el desalojo de su negocio tras acumular impagos durante más de dos años</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/vecino-lhospitalet-llobregat-suicida-local-134854561\" target=\"_blank\">Un vecino de L'Hospitalet de Llobregat se suicida en un local que usaba como vivienda de forma ocasional</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estudiantes de secundaria protestan en Saint Denis cerca de París",
+    "link": "https://www.elperiodico.com/es/fotos/en-imagenes/estudiantes-secundaria-protestan-saint-denis-134890109",
+    "pubDate": "2026-10-01 16:08:31",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Vive gratis en una cabaña al lado de las Cataratas de Iguazú (Argentina) a cambio de unas pocas horas de trabajo al día",
+    "link": "https://www.elperiodico.com/es/economia/20261001/vivir-gratis-cabana-cataratas-iguazu-argentina-voluntarios-trabajo-construccion-animales-dv-134875845",
+    "pubDate": "2026-10-01 16:07:15",
+    "category": "",
+    "description": "<h2>Las tareas son variadas e incluyen construcción, limpieza, jardinería y cuidado de animales</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260918/vivir-trabajar-patagonia-chile-voluntarios-geoparque-kutralkura-dv-134261712\" >Se buscan voluntarios para vivir en la Patagonia chilena: 30 horas de trabajo semanales a cambio de alojamiento y tres comidas diarias</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260928/vivir-comer-gratis-pueblo-bonito-espana-trabajo-jardin-naturaleza-intercambio-cultural-dv-et-134624667\">Trabajar solo tres horas al día a cambio de casa y comida gratis en uno de los pueblos más bonitos de España</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lidia Santos, camarera de 'First dates', sorprende con su nueva pareja: un ganador de 'Supervivientes'",
+    "link": "https://www.elperiodico.com/es/videos/tele/yotele/lidia-santos-camarera-first-dates/134890282.shtml",
+    "pubDate": "2026-10-01 16:06:38",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Hablar durante 20 segundos: la IA abre una nueva vía para detectar la diabetes tipo 2",
+    "link": "https://www.elperiodico.com/es/salud/20261001/diabetes-tipo-2-deteccion-temprana-habla-ia-dv-134793327",
+    "pubDate": "2026-10-01 16:00:54",
+    "category": "",
+    "description": "<h2 class=\"item\">La investigación, presentada en la reunión de la Asociación Europea para el Estudio de la Diabetes, muestra un modelo que analiza grabaciones de voz de forma rápida y no invasiva</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250917/inteligencia-artificial-predice-riesgo-enfermedades-decadas-antelacion-121683998\" >Un modelo de IA predice el riesgo de enfermedades de una persona con décadas de antelación</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260825/google-grasa-corporal-photoscan-ia-movil-dv-133505054\" >Tu móvil sabrá cuánta grasa tienes: así es la nueva inteligencia artificial de Google para escanear tu cuerpo</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Àngels Barceló dice; \"Nos fuimos de Barcelona porque buscábamos un piso asequible, pero ahora está todo igual\"",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/angels-barcelo-dice-barcelona-buscabamos/134890003.shtml",
+    "pubDate": "2026-10-01 16:00:21",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Paula (24 años), colombiana en España: \"Era auxiliar contable, ahora aquí limpio pisos para poder sobrevivir\"",
+    "link": "https://www.elperiodico.com/es/economia/20261001/paula-24-anos-colombiana-espana-contable-limpio-pisos-sobrevivir-dv-et-134888505",
+    "pubDate": "2026-10-01 16:00:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Paula cuenta la realidad a la que ha tenido que adaptarse al llegar a España</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vivienda/20260818/ana-ramos-joven-vuelto-casa-padres-vivienda-independizarse-trabajo-dv-et-133421557\" >Ana Ramos (25 años): \"Tengo trabajo, cobro todos los meses y aún así tengo que volver a casa de mis padres\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Ministerio de Transportes prevé que la situación de Rodalies mejore en 2027",
+    "link": "https://www.elperiodico.com/es/economia/20261001/ministerio-transportes-preve-situacion-rodalies-mejore-2027-jose-antonio-santano-cercle-deconomia-134886294",
+    "pubDate": "2026-10-01 15:56:41",
+    "category": "",
+    "description": "<h2>El secretario de Estado, José Antonio Santano, sostiene que la finalización de obras y la llegada de los nuevos trenes de Alstom, pospuesta ahora hasta la primavera, aliviarán la red</h2><h2>Sitúa la culminación del tramo del corredor mediterráneo entre Barcelona y València para el año que viene</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260914/plan-rodalies-alcanza-3000-millones-ejecutados-hasta-primer-semestre-2026-ministerio-transportes-134269864\" target=\"_blank\">El plan de Rodalies alcanza 3.000 millones de ejecución de los 8.000 previstos hasta 2030</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп пояснив, чому США не дали Україні певні боєприпаси",
+    "link": "https://ua.korrespondent.net/world/4916501-tramp-poiasnyv-chomu-ssha-ne-daly-ukraini-pevni-boieprypasy",
+    "pubDate": "2026-10-01 15:53:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581352.jpg\">Дональд Трамп заявив, що США не погодили постачання Україні певного виду боєприпасів. За його словами, Київ нібито не має необхідної техніки для їхнього застосування.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
     "title": "La seguridad es el gran desafío de los robots humanoides, advierte un experto de Caltech",
     "link": "https://www.elperiodico.com/es/tendencias21/20261001/seguridad-gran-desafio-robots-humanoides-134889605",
     "pubDate": "2026-10-01 15:49:31",
@@ -266,6 +446,15 @@
     "pubDate": "2026-10-01 14:31:58",
     "category": "",
     "description": "Las protestas de la acampada en Sol por el derecho a la vivienda se trasladarán este viernes a las inmediaciones del Congreso",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El PP vaticina enfrentamientos jurídicos entre caseros e inquilinos si se aprueban los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261001/pp-vaticina-enfrentamientos-juridicos-caseros-134885044",
+    "pubDate": "2026-10-01 14:28:59",
+    "category": "",
+    "description": "<h2>El Partido Popular se opone a las medidas impulsadas por el Ejecutivo mientras el futuro de estas normativas queda supeditado a los siete diputados de Junts en el Congreso</h2>",
     "topic": "політика",
     "topic_match_probability": 95
   },

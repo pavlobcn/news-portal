@@ -1,8 +1,10 @@
-# News for 2026-10-01 15:52
+# News for 2026-10-01 16:50
 
 Previous day: [2026-09-30](./data/2026-09-30.md)
 
 ## ua.korrespondent.net
+16:37 [На фронті загинув пілот з бригади Привид Києва](https://ua.korrespondent.net/ukraine/4916521-na-fronti-zahynuv-pilot-z-bryhady-pryvyd-kyieva)<br>
+16:30 [На Житомирщині військового засудили на 13 років за теракт](https://ua.korrespondent.net/ukraine/4916515-na-zhytomyrschyni-viiskovoho-zasudyly-na-13-rokiv-za-terakt)<br>
 15:26 [Під Ужгородом спалахнуло найбільше сміттєзвалище Закарпаття](https://ua.korrespondent.net/ukraine/4916490-pid-uzhhorodom-spalakhnulo-naibilshe-smittiezvalysche-zakarpattia)<br>
 15:13 [Російський бізнес втрачає прибутки: кожна третя компанія збиткова](https://ua.korrespondent.net/world/russia/4916488-rosiiskyi-biznes-vtrachaie-prybutky-kozhna-tretia-kompaniia-zbytkova)<br>
 14:13 [Флеш пояснив принцип роботи "вусатої" Герані](https://ua.korrespondent.net/ukraine/4916468-flesh-poiasnyv-pryntsyp-roboty-vusatoi-herani)<br>
@@ -58,6 +60,13 @@ Previous day: [2026-09-30](./data/2026-09-30.md)
 07:03 [Xavi Pascual inspira terror en Europa](https://as.com/baloncesto/euroliga/xavi-pascual-inspira-terror-en-europa-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:43 [La Cuenta Financia Europa permite ahorrar impuestos al invertir y tiene una ventaja de hasta 10.000 euros, según la OCU](https://www.elperiodico.com/es/economia/20261001/cuenta-financia-europa-permite-ahorrar-impuestos-invertir-ventajas-hasta-10000-euros-ocu-dv-134890902)<br>
+16:08 [El hombre que se suicidó en una zapatería de L'Hospitalet iba a perder su negocio el 5 de octubre](https://www.elperiodico.com/es/barcelona/20261001/hombre-suicido-zapataria-lhospitalet-iba-perder-negocio-octubre-134886996)<br>
+16:07 [Vive gratis en una cabaña al lado de las Cataratas de Iguazú (Argentina) a cambio de unas pocas horas de trabajo al día](https://www.elperiodico.com/es/economia/20261001/vivir-gratis-cabana-cataratas-iguazu-argentina-voluntarios-trabajo-construccion-animales-dv-134875845)<br>
+16:00 [Hablar durante 20 segundos: la IA abre una nueva vía para detectar la diabetes tipo 2](https://www.elperiodico.com/es/salud/20261001/diabetes-tipo-2-deteccion-temprana-habla-ia-dv-134793327)<br>
+16:00 [Àngels Barceló dice; "Nos fuimos de Barcelona porque buscábamos un piso asequible, pero ahora está todo igual"](https://www.elperiodico.com/es/videos/sociedad/angels-barcelo-dice-barcelona-buscabamos/134890003.shtml)<br>
+16:00 [Paula (24 años), colombiana en España: "Era auxiliar contable, ahora aquí limpio pisos para poder sobrevivir"](https://www.elperiodico.com/es/economia/20261001/paula-24-anos-colombiana-espana-contable-limpio-pisos-sobrevivir-dv-et-134888505)<br>
+15:56 [El Ministerio de Transportes prevé que la situación de Rodalies mejore en 2027](https://www.elperiodico.com/es/economia/20261001/ministerio-transportes-preve-situacion-rodalies-mejore-2027-jose-antonio-santano-cercle-deconomia-134886294)<br>
 15:49 [La seguridad es el gran desafío de los robots humanoides, advierte un experto de Caltech](https://www.elperiodico.com/es/tendencias21/20261001/seguridad-gran-desafio-robots-humanoides-134889605)<br>
 15:42 [El precio del euríbor hoy, 1 de octubre: el mes empieza dando un respiro a hipotecados](https://www.elperiodico.com/es/economia/20261001/precio-euribor-hoy-1-octubre-dv-134805506)<br>
 15:41 [La Aemet alerta del cóctel explosivo de "inestabilidad atmosférica" que amenaza con convertir las tormentas de este jueves en un peligro](https://www.elperiodico.com/es/videos/sociedad/aemet-alerta-coctel-explosivo-inestabilidad/134888756.shtml)<br>
