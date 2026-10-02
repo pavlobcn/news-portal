@@ -1,8 +1,22 @@
-# News for 2026-10-02 16:09
+# News for 2026-10-02 21:18
 
 Previous day: [2026-10-01](./data/2026-10-01.md)
 
 ## ua.korrespondent.net
+20:20 [Спалах чуми в Росії: після смерті жінки госпіталізували сотні людей](https://ua.korrespondent.net/world/russia/4916873-spalakh-chumy-v-rosii-pislia-smerti-zhinky-hospitalizuvaly-sotni-luidei)<br>
+20:02 [Ворожа атака на Київщину: горять склади, двоє поранених](https://ua.korrespondent.net/ukraine/4916871-vorozha-ataka-na-kyivschynu-horiat-sklady-dvoie-poranenykh)<br>
+19:37 [Герої поруч: історія захисника, працівника ПАЕС Максима Ганжі](https://ua.korrespondent.net/business/press_release/4916735-heroi-poruch-istoriia-zakhysnyka-pratsivnyka-paes-maksyma-hanzhi)<br>
+19:30 [Росіяни вдарили по багатоповерхівці у Дніпрі](https://ua.korrespondent.net/city/dnepr/4916865-rosiiany-vdaryly-po-bahatopoverkhivtsi-u-dnipri)<br>
+18:47 [Росіяни окупували село на Запоріжжі - DeepState](https://ua.korrespondent.net/ukraine/4916852-rosiiany-okupuvaly-selo-na-zaporizhzhi-DeepState)<br>
+18:18 [Саудівська Аравія відновила 80% потужності ключового нафтопроводу](https://ua.korrespondent.net/business/economics/4916847-saudivska-araviia-vidnovyla-80-potuzhnosti-kluichovoho-naftoprovodu)<br>
+18:04 [У Києві змінили режим роботи мостів](https://ua.korrespondent.net/city/kiev/4916846-u-kyievi-zminyly-rezhym-roboty-mostiv)<br>
+17:59 [Франція почала готувати українських пілотів до польотів на Rafale](https://ua.korrespondent.net/world/4916844-frantsiia-pochala-hotuvaty-ukrainskykh-pilotiv-do-polotiv-na-Rafale)<br>
+17:39 [Загибель британського військового в Україні: що встановило слідство](https://ua.korrespondent.net/world/4916839-zahybel-brytanskoho-viiskovoho-v-ukraini-scho-vstanovylo-slidstvo)<br>
+17:11 [До 1000 ударів: що відомо про план Росії на зиму](https://ua.korrespondent.net/ukraine/4916823-do-1000-udariv-scho-vidomo-pro-plan-rosii-na-zymu)<br>
+17:08 [У Києві знову влучання в Південний міст](https://ua.korrespondent.net/city/kiev/4916832-u-kyievi-znovu-vluchannia-v-pivdennyi-mist)<br>
+16:37 [Встановлено ще одного ката українських полонених в "ЛНР"](https://ua.korrespondent.net/ukraine/4916818-vstanovleno-sche-odnoho-kata-ukrainskykh-polonenykh-v-lnr)<br>
+16:11 [ЄБРР готує проєкт масштабного будівництва доріг в Україні](https://ua.korrespondent.net/business/financial/4916811-yebrr-hotuie-proiekt-masshtabnoho-budivnytstva-dorih-v-ukraini)<br>
+16:00 [Швейцарія виділила $170 млн на відновлення України](https://ua.korrespondent.net/business/financial/4916808-shveitsariia-vydilyla-170-mln-na-vidnovlennia-ukrainy)<br>
 15:56 [Ситуація з мостами Києва: мережа вибухнула мемами](https://ua.korrespondent.net/kyiv/4916803-sytuatsiia-z-mostamy-kyieva-merezha-vybukhnula-memamy)<br>
 15:40 [Український дрон уразив ціль у Донецьку](https://ua.korrespondent.net/ukraine/4916800-ukrainskyi-dron-urazyv-tsil-u-donetsku)<br>
 15:34 [На Криті знайшли череп носорога віком 8 млн років](https://ua.korrespondent.net/tech/science/4916789-na-kryti-znaishly-cherep-nosoroha-vikom-8-mln-rokiv)<br>
@@ -44,6 +58,10 @@ Previous day: [2026-10-01](./data/2026-10-01.md)
 00:21 [У РФ розбився військовий вертоліт - ЗМІ](https://ua.korrespondent.net/world/russia/4916607-u-rf-rozbyvsia-viiskovyi-vertolit-zmi)<br>
 
 ## as.com
+21:13 [Baskonia-Olimpia Milano, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-olimpia-milano-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
+21:09 [Besiktas – Barcelona, Euroliga 26/27 resumen y resultado (82-95)](https://as.com/baloncesto/euroliga/besiktas-barcelona-en-directo-euroliga-en-vivo-hoy-f202610-d/)<br>
+20:02 [Desolación para Pablo Laso: Mike James tiene roto el tendón de Aquiles](https://as.com/baloncesto/euroliga/desolacion-para-pablo-laso-mike-james-tiene-roto-el-tendon-de-aquiles-f202610-n/)<br>
+20:00 [En directo, CB Canarias vs Real Madrid de la Liga U 2026-27](https://as.com/baloncesto/videos/en-directo-cb-canarias-vs-real-madrid-de-la-liga-u-2026-27-f202610-v/)<br>
 14:19 [El árbitro de la final de Atenas defiende la polémica falta pitada a Campazzo](https://as.com/baloncesto/euroliga/el-arbitro-de-la-final-defiende-la-polemica-falta-pitada-a-campazzo-f202610-n/)<br>
 13:14 [¡Ya puedes jugar al Basket Americano en Biwenger Fantasy y unirte a la liga oficial con grandes premios!](https://as.com/baloncesto/mas_baloncesto/ya-puedes-jugar-al-basket-americano-en-biwenger-fantasy-y-unirte-a-la-liga-oficial-con-grandes-premios-f202610-n/)<br>
 13:13 [El inicio en blanco del Madrid](https://as.com/baloncesto/euroliga/razones-para-el-peor-inicio-de-la-historia-del-madrid-f202610-n/)<br>
@@ -53,6 +71,26 @@ Previous day: [2026-10-01](./data/2026-10-01.md)
 07:10 [Un agujero en el juego interior](https://as.com/baloncesto/euroliga/un-agujero-en-el-juego-interior-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:10 [El temporal anega varios tramos de la autovía Murcia-Cartagena](https://www.elperiodico.com/es/videos/sociedad/temporal-anega-tramos-autovia-murcia/134945285.shtml)<br>
+20:49 [Nadal se pone a punto para la exhibición de este sábado en su academia de Manacor](https://www.elperiodico.com/es/deportes/20261002/nadal-pone-punto-exhibicion-sabado-134944575)<br>
+20:30 [El aviso de los bomberos: este es el motivo por el que nunca debes dejar la llave puesta por la noche](https://www.elperiodico.com/es/sociedad/20261002/llave-puesta-noche-bomberos-emergencia-dv-et-132726550)<br>
+19:49 [Calles inundadas por la lluvia en la pedanía murciana de San José de La Montaña](https://www.elperiodico.com/es/videos/sociedad/calles-inundadas-lluvia-pedania-murciana/134943272.shtml)<br>
+19:44 [Macron anuncia que los países del G7 liberarán "100 millones de barriles" de petróleo y de diésel de sus reservas para reducir los precios](https://www.elperiodico.com/es/economia/20261002/macron-anuncia-paises-g7-liberaran-134943163)<br>
+19:35 [Aviso rojo en las comarcas de Barcelona, Vallès, Maresme y la Selva ante una nueva tanda de lluvias torrenciales prevista para este domingo](https://www.elperiodico.com/es/sociedad/20261002/aviso-rojo-barcelona-valles-maresme-selva-domingo-meteocat-134942781)<br>
+19:16 [Tiempo en Catalunya mañana sábado: El Meteocat extiende los avisos por lluvias a todo el litoral](https://www.elperiodico.com/es/tiempo/20261002/tiempo-cataluna-hoy-sabado-3-de-octubre-lluvias-meteocat-temperaturas-dv-loc-134941193)<br>
+19:14 [Telefónica vende la mayoría de sus antiguas instalaciones en Barcelona que se previeron convertir en equipamientos](https://www.elperiodico.com/es/barcelona/20261002/barcelona-telefonica-edificios-venta-centrales-equipamientos-134891454)<br>
+19:00 [La nueva ley del amianto afectará la compraventa de vivienda: "¿Tendré que quitarlo yo?"](https://www.elperiodico.com/es/barcelona/20261002/ley-amianto-compraventa-alquiler-viviendas-certificado-cataluna-134849631)<br>
+19:00 [Catalunya tardará más de seis años en retirar todo el amianto pese a la entrada en vigor de la nueva ley](https://www.elperiodico.com/es/sociedad/20261002/ley-amianto-en-vigor-retirada-compleja-reglamento-certificados-cataluna-134853577)<br>
+19:00 ["Ni me planteé que hubiera amianto": la nueva ley destapa un riesgo que muchos vecinos desconocían](https://www.elperiodico.com/es/videos/sociedad/plantee-hubiera-amianto-nueva-ley/134897236.shtml)<br>
+18:11 [Aina Clotet (44 años), sobre su vida en Barcelona: "El olor a orina es horroroso, me pone muy triste"](https://www.elperiodico.com/es/videos/ocio-y-cultura/aina-clotet-44-anos-vida/134940263.shtml)<br>
+18:09 [Las 5 claves del paro de septiembre: Catalunya es la comunidad con más ocupados fruto de la regularización](https://www.elperiodico.com/es/economia/20261002/regularizacion-inmigrantes-cataluna-empleo-paro-134927995)<br>
+18:07 [Los desahucios también golpean a EEUU: 1 de cada 13 hogares de alquiler recibieron una demanda de desahucio en 2025](https://www.elperiodico.com/es/internacional/20261002/desahucios-golpean-eeuu-1-13-espana-maricarmen-134855165)<br>
+17:33 [Seis de cada 10 inquilinos no acaban sus contratos de alquiler en Barcelona por decisión propia, según un informe](https://www.elperiodico.com/es/barcelona/20261002/seis-10-inquilinos-acaban-contratos-alquiler-antes-de-tiempo-decision-propia-informe-cafbl-134924656)<br>
+17:30 [Héctor Álvarez, campeón de Europa de ciclismo sub-23](https://www.elperiodico.com/es/deportes/20261002/hector-alvarez-campeon-europa-ciclismo-134938258)<br>
+17:03 [La inflación se dispara y los bancos vuelven a pagar más por los ahorros: cuentas y depósitos que superan el 3% TAE](https://www.elperiodico.com/es/economia/20261002/inflacion-vuelve-poner-foco-cuentas-remuneradas-depositos-ahorrar-dv-134805364)<br>
+16:46 [Fuerza, coraje y una deidad con aspecto de mono: así evitó el piloto indio la tragedia el vuelo Dubái-Tel Aviv](https://www.elperiodico.com/es/internacional/20261002/piloto-indio-evito-tragedia-vuelo-dubai-tel-aviv-fuerza-coraje-deidad-aspecto-mono-134936400)<br>
+16:20 [Rins: "Cuando Jack tumbó la moto conmigo detrás, como si estuviese corriendo, ¡me cagué encima!"](https://www.elperiodico.com/es/deportes/20261002/rins-jack-tumbo-moto-detras-134934000)<br>
+16:08 [La crisis climática no da tregua en Terres de l’Ebre: "No nos hemos recuperado de un episodio y ya sufrimos otro"](https://www.elperiodico.com/es/tarragona/20261002/llueve-mojado-ebro-hemos-terminado-recuperar-episodio-lluvias-134929824)<br>
 16:01 [Tu voz puede revelar cómo envejeces, según un estudio con inteligencia artificial](https://www.elperiodico.com/es/tendencias21/20261002/voz-revelar-envejeces-estudio-inteligencia-134934215)<br>
 15:32 [La quimio-inmunoterapia con nivolumab mejora "de forma significativa" la supervivencia a 5 años de un tipo de cáncer de pulmón](https://www.elperiodico.com/es/sanidad/20261002/quimio-inmunoterapia-nivolumab-mejora-forma-significativa-supervivencia-pacientes-cancer-pulmon-134927411)<br>
 15:15 [Foment alerta de que el crecimiento económico catalán tiene "pies de barro"](https://www.elperiodico.com/es/economia/20261002/foment-alerta-crecimiento-economico-catalan-134930467)<br>
