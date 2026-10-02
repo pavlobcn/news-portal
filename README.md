@@ -1,4 +1,4 @@
-# News for 2026-10-02 21:58
+# News for 2026-10-03 01:07
 
 Previous day: [2026-10-01](./data/2026-10-01.md)
 
@@ -58,6 +58,12 @@ Previous day: [2026-10-01](./data/2026-10-01.md)
 00:21 [У РФ розбився військовий вертоліт - ЗМІ](https://ua.korrespondent.net/world/russia/4916607-u-rf-rozbyvsia-viiskovyi-vertolit-zmi)<br>
 
 ## as.com
+23:01 [Resumen del Besiktas vs. Barcelona de Euroliga](https://as.com/videos/euroliga/resumen-del-besiktas-vs-barcelona-de-euroliga-f202610-v/)<br>
+22:27 [Épica remontada taronja para el pleno en Euroliga](https://as.com/baloncesto/euroliga/epica-remontada-taronja-para-el-pleno-en-euroliga-f202610-n/)<br>
+22:25 [Primera victoria baskonista en la presente Euroliga](https://as.com/baloncesto/primera-victoria-baskonista-en-la-presente-euroliga-f202610-n/)<br>
+22:14 [Lío tremendo en la Euroliga: el Panathinaikos carga contra Bartzokas](https://as.com/baloncesto/euroliga/lio-tremendo-en-la-euroliga-el-panathinaikos-carga-contra-bartzokas-f202610-n/)<br>
+22:08 [El Madrid también sabe sufrir](https://as.com/baloncesto/mas_baloncesto/el-madrid-tambien-sabe-sufrir-f202610-n/)<br>
+21:52 [Sekulic: “No fue fácil jugar este partido”](https://as.com/baloncesto/euroliga/sekulic-no-fue-facil-jugar-este-partido-f202610-n/)<br>
 21:13 [Baskonia-Olimpia Milano, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-olimpia-milano-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
 21:09 [Besiktas – Barcelona, Euroliga 26/27 resumen y resultado (82-95)](https://as.com/baloncesto/euroliga/besiktas-barcelona-en-directo-euroliga-en-vivo-hoy-f202610-d/)<br>
 21:08 [Gibson y Punter dan alas a un Barça extraordinario](https://as.com/baloncesto/euroliga/gibson-y-punter-dan-alas-a-un-barca-extraordinario-f202610-n/)<br>
@@ -72,6 +78,8 @@ Previous day: [2026-10-01](./data/2026-10-01.md)
 07:10 [Un agujero en el juego interior](https://as.com/baloncesto/euroliga/un-agujero-en-el-juego-interior-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:26 [La OBC inaugura el curso con un Beethoven ovacionado](https://www.elperiodico.com/es/ocio-y-cultura/20261002/obc-inaugura-curso-beethoven-ovacionado-134946820)<br>
+22:00 [Sara Baras: "Para vivir intensamente es clave estar psíquicamente bien"](https://www.elperiodico.com/es/ocio-y-cultura/20261002/sara-baras-vivir-intensamente-clave-134931725)<br>
 21:10 [El temporal anega varios tramos de la autovía Murcia-Cartagena](https://www.elperiodico.com/es/videos/sociedad/temporal-anega-tramos-autovia-murcia/134945285.shtml)<br>
 20:49 [Nadal se pone a punto para la exhibición de este sábado en su academia de Manacor](https://www.elperiodico.com/es/deportes/20261002/nadal-pone-punto-exhibicion-sabado-134944575)<br>
 20:30 [El aviso de los bomberos: este es el motivo por el que nunca debes dejar la llave puesta por la noche](https://www.elperiodico.com/es/sociedad/20261002/llave-puesta-noche-bomberos-emergencia-dv-et-132726550)<br>
