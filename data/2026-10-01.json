@@ -36,6 +36,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "РФ атакувала два райони Харкова",
+    "link": "https://ua.korrespondent.net/city/kharkov/4916600-rf-atakuvala-dva-raiony-kharkova",
+    "pubDate": "2026-10-01 23:20:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581821.jpg\">В Основ'янському районі пошкоджені скління вікон, а у Київському - магазин та дах адмінбудівлі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Portugal se luce en Dinamarca sin Cristiano Ronaldo (2-4) y Klopp se alivia ante Serbia (2-0)",
     "link": "https://www.elperiodico.com/es/deportes/20261001/portugal-luce-dinamarca-cristiano-ronaldo-134905009",
     "pubDate": "2026-10-01 23:19:03",
@@ -2770,6 +2779,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4580817.jpg\">Російські війська атакували, зокрема, на Лиманському, Костянтинівському та Покровському напрямках.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Vermujito, la bebida que ha conquistado las terrazas este verano",
+    "link": "https://www.elperiodico.com/es/sociedad/20261001/vermujito-bebida-conquistado-terrazas-verano-bc-133938337",
+    "pubDate": "2026-10-01 09:00:00",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Vermut, lima, menta y burbuja: la combinación que ofrece el cóctel de Bodegas Bellod y La Vermood, una fusión entre el clásico vermut y el mojito veraniego</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
   },
   {
     "title": "Alicante se prepara para liderar la salida de The Ocean Race 2027",

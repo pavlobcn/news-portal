@@ -1,5 +1,608 @@
 [
   {
+    "title": "Ace Alzheimer Center recauda en su noche solidaria 66.000 euros para apoyar a las personas cuidadoras",
+    "link": "https://www.elperiodico.com/es/sanidad/20261002/ace-alzheimer-center-recauda-66-000-euros-noche-solidaria-134900579",
+    "pubDate": "2026-10-02 09:30:33",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260925/ace-alzheimer-center-nit-alzheimer-2026-134680389\" >Ace Alzheimer Center celebrará la 11ª edición de su noche solidaria el jueves 1 de octubre</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260306/entrevista-merce-boada-mayoria-mujeres-alzheimer-nuevos-diagnosticos-127605322\" >Mercè Boada, neuróloga: \"El 60% de los nuevos diagnósticos de alzhéimer son mujeres\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Moisés Iborra, panadero: \"Hoy en día no hace falta trabajar de noche en la panadería\"",
+    "link": "https://www.elperiodico.com/es/economia/20261002/panaderia-trabajar-noche-horno-negocio-inversion-moises-iborra-dv-et-134674948",
+    "pubDate": "2026-10-02 09:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto asegura que faltan jóvenes que quieran continuar con el oficio</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260915/panadero-solitario-pueblo-91-habitantes-montanas-italianas-trabajo-davide-dv-et-133678010\" >La historia de Davide (57 años), panadero en un pequeño pueblo de 91 habitantes: \"Es un trabajo que requiere pasión, porque tienes que estar aquí al menos desde las 5 de la mañana\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260731/panaderia-horario-encargo-horno-santa-maria-de-bellvis-lleida-dv-loc-131142976\" >Así funciona el horno Santa Maria de Bellvís: el local que solo abre dos tardes al público</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Congreso vota este viernes los decretos de vivienda, que previsiblemente no saldrán adelante con el rechazo de PP, UPN, Vox y Junts",
+    "link": "https://www.elperiodico.com/es/politica/20261002/congreso-vota-decretos-vivienda-previsiblemente-no-saldran-adelante-rechazo-pp-upn-vox-junts-134912911",
+    "pubDate": "2026-10-02 09:28:37",
+    "category": "",
+    "description": "<h2>La ministra de Vivienda, Isabel Rodríguez, defiende ante la Cámara Baja un decreto transversal que incluye la limitación de precios y la protección ante desahucios hasta el año 2030</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Interrumpida la línea R16 de Rodalies entre Tarragona y Tortosa por las lluvias",
+    "link": "https://www.elperiodico.com/es/tarragona/20261002/interrumpida-linea-r16-rodalies-tarragona-tortosa-134912817",
+    "pubDate": "2026-10-02 09:28:06",
+    "category": "",
+    "description": "<h2>Renfe mantiene suspendidos otros servicios ferroviarios debido a las condiciones meteorológicas adversas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві обмежили рух на мостах",
+    "link": "https://ua.korrespondent.net/city/kiev/4916666-u-kyievi-obmezhyly-rukh-na-mostakh",
+    "pubDate": "2026-10-02 09:26:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582424.jpg\">Південний міст і міст Патона наразі перекриті в обох напрямках. Рух автобусів організований через Дарницький міст.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261002/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-02 09:25:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "DIRECTO | Illa, Pradales y Rueda analizan el futuro de la industria y la cohesión social en el Foro La Toja",
+    "link": "https://www.elperiodico.com/es/politica/20261002/illa-pradales-rueda-foro-la-toja-directo-134912780",
+    "pubDate": "2026-10-02 09:23:15",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Una disputa por dinero llevó a la pareja detenida a propinar media docena de puñaladas a su casera de Oviedo",
+    "link": "https://www.elperiodico.com/es/sucesos/20261002/disputa-dinero-llevo-pareja-detenida-punalada-casera-oviedo-134912693",
+    "pubDate": "2026-10-02 09:19:00",
+    "category": "",
+    "description": "<h2>La Policía analiza las huellas del cuchillo hallado en una papelera cerca de la vivienda de Pumarín y  una mancha de sangre en una camiseta</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tráfico y transporte público en Catalunya hoy, en directo: inundaciones y cortes de carreteras en Tarragona y afectaciones en Rodalies",
+    "link": "https://www.elperiodico.com/es/barcelona/20261002/trafico-cataluna-directo-carreteras-cortes-retenciones-133938712",
+    "pubDate": "2026-10-02 09:17:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Tres ladrones detenidos por herir a dos guardias civiles en un tiroteo en Terrassa",
+    "link": "https://www.elperiodico.com/es/sucesos/20261002/tres-ladrones-detenidos-herir-guardias-civiles-tiroteos-terrassa-134912315",
+    "pubDate": "2026-10-02 09:10:56",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/sociedad/20261001/detenido-barcelona-miembro-banda-proxenetas-noruega-fugitivo-134868629\">Detenido un miembro de una banda de proxenetas noruega que se escondía en hoteles de Barcelona</a></h2><h2>Los agentes están ingresados con heridas de gravedad pero no se teme por su vida</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Сумах росіяни пошкодили три багатоповерхівки",
+    "link": "https://ua.korrespondent.net/ukraine/4916663-u-sumakh-rosiiany-poshkodyly-try-bahatopoverkhivky",
+    "pubDate": "2026-10-02 09:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582397.jpg\">Російські війська протягом доби завдали понад 40 ударів по Сумщині. Унаслідок нічної атаки на Суми пошкоджено три багатоповерхівки, а загалом в області постраждали двоє людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El primer autobús del Imserso sale de Girona hacia Oropesa del Mar: \"El destino no nos dice nada, pero lo importante era salir de casa\"",
+    "link": "https://www.elperiodico.com/es/economia/20261002/primer-autobus-imserso-girona-oropesa-mar-jubilados-134912260",
+    "pubDate": "2026-10-02 09:08:59",
+    "category": "",
+    "description": "<h2>Dos semanas después de las largas colas en las agencias para reservar plaza, una cuarentena de jubilados gerundenses han estrenado la temporada con ocho días de pensión completa en la costa de Castellón</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260927/destinos-imserso-preferidos-jubilados-imserso-dv-134672934\">Estos son los destinos del Imserso preferidos por los jubilados gerundenses</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Embalses hoy, 2 de octubre en Catalunya: consulta el estado de Sau, Foix, Susqueda y el resto de pantanos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/embalses-hoy-2-octubre-cataluna-dv-134868756",
+    "pubDate": "2026-10-02 09:07:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Consulta el nivel de los pantanos catalanes, según los últimos datos de la Agència Catalana de l'Aigua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/medio-ambiente/20260129/embalse-riudecanyes-libera-agua-primera-vez-desde-2020-126224648\">VÍDEO | El embalse de Riudecanyes libera agua por primera vez desde 2020</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20250922/noticias-google-discover-el-periodico-121841727\">Configura las noticias de Google para no perderte nada de EL PERIÓDICO</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El doloroso giro que agrava el duelo de Chad Lowe y su familia: el forense confirma la causa de la muerte de su hija Fiona, de 13 años",
+    "link": "https://www.elperiodico.com/es/gente/20261002/chad-chad-lowe-fiona-hija-causa-muerte-forense-suicidio-134912028",
+    "pubDate": "2026-10-02 09:06:58",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260930/muere-fiona-lowe-hija-chad-13-anos-134837695\" target=\"_blank\">Muere Fiona Lowe, hija de Chad Lowe y Kim Painter, a los 13 años</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Junts entregará al Gobierno una \"propuesta de mínimos\" para renegociar los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261002/junts-decretos-vivienda-gobierno-propuesta-psoe-gobierno-congreso-134911990",
+    "pubDate": "2026-10-02 09:04:58",
+    "category": "",
+    "description": "<h2>DIRECTO | <a href=\"https://www.elperiodico.com/es/politica/20261001/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337\">Decreto de vivienda y acampadas en Sol y plaza Catalunya: última hora de las medidas del Gobierno y las protestas</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261001/junts-voto-decretos-vivienda-gobierno-desahucios-alquiler-134887439\">Junts tumbará los decretos de vivienda que frenan los desahucios si el Gobierno no los retira y los vuelve a negociar</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Catalunya recupera los 4 millones de ocupados tras el mejor septiembre desde 2007",
+    "link": "https://www.elperiodico.com/es/economia/20261002/cataluna-paro-datos-septiembre-2026-evolucion-empleo-134911967",
+    "pubDate": "2026-10-02 09:00:04",
+    "category": "",
+    "description": "<h2>El paro registra un leve repunte de 604 personas, hasta un total de 330.000 desempleados </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "España suma más ocupados de la regularización y vive su mejor inicio de curso desde el año 2000",
+    "link": "https://www.elperiodico.com/es/economia/20261002/paro-datos-septiembre-2026-empleo-regularizacion-134912085",
+    "pubDate": "2026-10-02 08:59:59",
+    "category": "",
+    "description": "<h2>Los nacidos en el extranjero impulsan el empleo, pero también se registra un leve repunte del paro, de 23.000 personas más que en agosto, hasta un total de 2,3 millones de desempleados </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Румунія повідомила про новий інцидент із падінням дрона",
+    "link": "https://ua.korrespondent.net/world/4916658-rumuniia-povidomyla-pro-novyi-intsydent-iz-padinniam-drona",
+    "pubDate": "2026-10-02 08:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582378.jpg\">Поблизу населеного пункту Плауру в повіті Тулча після падіння ймовірного безпілотника виникла пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Roberto Mariño, jubilado que vive solo en un barco de 14 metros: \"Es mucho más peligroso vivir en tierra que en el mar\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/roberto-marino-gallego-vive-barco-14-metros-dv-et-133136616",
+    "pubDate": "2026-10-02 08:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260805/permacultura-anos-sin-facturas-bioconstruccion-familia-boris-rosa-dv-et-133069169?mrfhud=true\" >Boris y Rosa llevan más de 16 años sin pagar facturas: \"Siempre hay que depender de algo, pero hay que ser un poquito más libre\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260805/cabana-autosuficiente-reforma-prision-bernat-drogas-dv-et-132963687?mrfhud=true\" >Bernat (40 años), después de estar en prisión, construyó una cabaña autosuficiente por cero euros: \"Yo vivo de la recolecta de setas, de plantas medicinales y de todo el material que reciclo\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Victoria Luengo y Hovik Keuchkerian ('Reina Roja'): \"Los lectores nos liberaron de cierta sensación de que vas a defraudar\"",
+    "link": "https://www.elperiodico.com/es/tele/20261002/victoria-luengo-hovik-keuchkerian-reina-roja-serie-loba-negra-134910764",
+    "pubDate": "2026-10-02 08:44:44",
+    "category": "",
+    "description": "<h2 class=\"item\">Los actores protagonizan 'Loba Negra', la segunda tan de episodios de la serie basada en la saga literaria de Juan Gómez-Jurado</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20260930/series-estrenos-octubre-2026-netflix-disney-hb-prime-video-movistar-filmin-3cat-apple-skyshowtime-134581324\">Las 12 series que no te puedes perder este octubre</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "‘Running disco’: corre por Barcelona escuchando sesiones techno exclusivas de DJs",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261002/running-disco-barcelona-techno-dj-juxta-gratis-fiestas-runner-134904324",
+    "pubDate": "2026-10-02 08:42:41",
+    "category": "",
+    "description": "<h2>Aquí se suda con vaivén techno. Son carreras urbanas de 5 km con cascos inalámbricos y 'mixes' exclusivos. Fiestas ‘runner’. Acabas bailando en mallas en una discoteca bebiendo 'mocktails' con DJ en vivo. Todo gratis. Las organiza Juxta Club, “el primer club de fitness de música electrónica”</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261001/paripe-tardeos-masas-barcelona-fiestas-beach-club-castelldefels-134860846\" target=\"_blank\">El Paripé, los reyes de los tardeos de masas: \"En un año movemos a 300.000 personas\"</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "‘Running disco’: corre por Barcelona escuchando sesiones techno exclusivas de DJs",
+    "link": "https://www.elperiodico.com/es/videos/que-hacer/planes/running-disco-corre-barcelona-escuchando-techno-dj-video/134911841.shtml",
+    "pubDate": "2026-10-02 08:41:51",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Ситуація на фронті: 284 КАБи і майже 9 тис дронів",
+    "link": "https://ua.korrespondent.net/ukraine/4916653-sytuatsiia-na-fronti-284-kaby-i-maizhe-9-tys-droniv",
+    "pubDate": "2026-10-02 08:34:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582357.jpg\">Найбільше російські війська штурмували позиції Сил оборони на Костянтинівському та Покровському напрямках - там зафіксували 27 і 30 атак відповідно.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El temporal descarga con fuerza durante la noche y ya deja inundaciones en Terres de l’Ebre y Castellón con vistas a seguir avanzando hasta el mediodía",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/temporal-lluvia-afectaciones-cataluna-castellon-134910815",
+    "pubDate": "2026-10-02 08:28:49",
+    "category": "",
+    "description": "<h2 class=\"item\">Los avisos de nivel rojo en la costa de Tarragona y Castellón se prolongan hasta el mediodía tras detectar que la tormenta sigue teniendo un potencial para causar situaciones \"muy adversas\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261002/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias en Catalunya y Valencia, en directo | Avisos de la Aemet y el Meteocat en Tarragona, Barcelona y Castellón</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261002/temporal-deja-imagenes-impactantes-tortosa-terres-ebre-lluvia-134909242\">El temporal deja imágenes impactantes en Tortosa y otros municipios de las Terres de l'Ebre</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa ve \"irresponsable\" que Junts rechace los decretos en vivienda y les insta a rectificar",
+    "link": "https://www.elperiodico.com/es/politica/20261002/illa-ve-irresponsable-junts-rechace-decreto-vivienda-insta-rectificar-134911136",
+    "pubDate": "2026-10-02 08:18:03",
+    "category": "",
+    "description": "<h2 class=\"item\"> \"No se puede decir que se defiende a Catalunya mientras se bloquean medidas para garantizar el derecho a la vivienda\", dice el presidente de la Generalitat</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261001/junts-voto-decretos-vivienda-gobierno-desahucios-alquiler-134887439\">Junts tumbará los decretos de vivienda que frenan los desahucios si el Gobierno no los retira y los vuelve a negociar</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Одна з країн ЄС скорочує центри для біженців: що чекає на українців",
+    "link": "https://ua.korrespondent.net/world/4916648-odna-z-krain-yes-skorochuie-tsentry-dlia-bizhentsiv-scho-chekaie-na-ukraintsiv",
+    "pubDate": "2026-10-02 08:13:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582338.jpg\">У Фінляндії скорочують мережу центрів для біженців через зменшення кількості людей, які користуються їхніми послугами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Lluvia en Santa Bàrbara",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/lluvia-santa-barbara-video/134911183.shtml",
+    "pubDate": "2026-10-02 08:10:35",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno airea el adelanto electoral si decaen los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261002/sanchez-situa-pp-vox-junts-134911133",
+    "pubDate": "2026-10-02 08:08:23",
+    "category": "",
+    "description": "<h2>Sánchez sitúa a PP, Vox y Junts ante \"la hora de la verdad\": \"deben elegir si están con la mayoría social o con los especuladores\"</h2><h2>El <a href=\"https://rc-pro.prensaiberica.es/nacional/2026/10/01/junts-voto-decretos-vivienda-gobierno-desahucios-alquiler-134888717.html\" target=\"_blank\">rechazo de Junts molestó en el Gobierno</a>: \"se equivocan\" porque la vivienda, en este momento, \"no permite postureos políticos\"</h2><h2>Desde el PP, responden: \"Ni con decretos ni sin decretos se puede seguir así. Elecciones ya\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261001/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337\" target=\"_blank\">DIRECTO | Decreto de vivienda y acampadas en Sol y plaza Catalunya: última hora de las medidas del Gobierno y las protestas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El cambio que ya afecta a quienes compren un coche sin tener carné",
+    "link": "https://www.elperiodico.com/es/motor/20261002/cambio-afecta-compren-coche-sin-carne-134755497",
+    "pubDate": "2026-10-02 08:00:33",
+    "category": "",
+    "description": "<h2>Desde el 1 de octubre, quien matricule un vehículo sin disponer de permiso de conducir tendrá que identificar obligatoriamente a la persona que lo utilizará de forma habitual</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "2006, el año prodigioso: 4 restaurantes que cambiaron Barcelona y siguen en pie 20 años después",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261002/2006-ano-prodigioso-restaurantes-barcelona-134562507",
+    "pubDate": "2026-10-02 07:56:24",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240713/mesa-il-milione-restaurante-lasarte-barcelona-por-pau-arenos-105412812\">Lasarte</a>, <a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20210512/restaurante-gresca-barcelona-11705683\">Gresca</a>, <a href=\"https://www.elperiodico.com/es/cata-mayor/20181210/mejor-ensaladilla-rusa-espana-tapas-24-cata-mayor-7181648\">Tapas 24</a> y <a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260416/taverna-clinic-restaurante-barcelona-20-anos-128967345\">La Taverna del Clínic</a>, que nacieron el mismo año con propuestas distintas, siguen siendo referentes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260618/mejores-restaurantes-abiertos-barcelona-ano-2026-130815563\">Los mejores restaurantes abiertos en Barcelona en lo que llevamos de 2026</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240418/restaurantes-historicos-renacidos-barcelona-100992437\">Cuando la experiencia es un grado: estos restaurantes históricos de Barcelona siguen en plena forma</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra de Irán y el incidente del avión de Flydubai rumbo a Israel, en directo | Última hora del vuelo y reacciones",
+    "link": "https://www.elperiodico.com/es/internacional/20261002/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-02 07:56:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "3 buenos restaurantes de Barcelona para el fin de semana: Records, Kind Kitchen y El Veneno",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261002/buenos-restaurantes-barcelona-records-kind-kitchen-veneno-134749467",
+    "pubDate": "2026-10-02 07:54:33",
+    "category": "",
+    "description": "<h2 class=\"item\">Si todavía no has decidido a dónde ir a comer o a cenar, aquí tienes tres direcciones donde disfrutarás de una gran mesa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260925/buenos-restaurantes-barcelona-compartir-bar-unio-poblenou-bar-oliva-134513720\">3 buenos restaurantes de Barcelona para el fin de semana: Compartir, Bar La Unió del Poblenou y Bar Oliva</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260918/buenos-restaurantes-barcelona-taberna-bitxo-cal-santi-bar-charly-134265440\">3 buenos restaurantes de Barcelona para el fin de semana: Taberna Bitxo, Cal Santi y Bar Charly</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Para un finde de placer tembloroso, aquí tienes los flanes de estos restaurantes de Barcelona",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261002/mejores-flanes-restaurantes-barcelona-133912844",
+    "pubDate": "2026-10-02 07:53:06",
+    "category": "",
+    "description": "<h2 class=\"item\">En estos establecimientos gozarás a cucharadas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20250401/flan-turron-jordi-roca-sobrinos-marc-marti-la-nevera-medio-llena-115458600\">Así hacen un flan de turrón Jordi Roca y sus sobrinos Marc y Martí</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20210312/trucos-para-hacer-un-flan-perfecto-11559467\">Los errores que debes evitar para hacer un flan perfecto</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Рівненщина знову під ударом РФ: пошкоджено підприємство, людей евакуювали",
+    "link": "https://ua.korrespondent.net/ukraine/4916646-rivnenschyna-znovu-pid-udarom-rf-poshkodzheno-pidpryiemstvo-luidei-evakuuivaly",
+    "pubDate": "2026-10-02 07:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582317.jpg\">Російська атака вночі спричинила пожежу на цивільному підприємстві у Рівненській області. Мешканців прилеглих будинків евакуювали, за попередніми даними, обійшлося без постраждалих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un festival de bravas en el Poble Espanyol (y otro buen plan gastro para este finde)",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261002/bravas-fest-poble-espanyol-barcelona-2026-134833996",
+    "pubDate": "2026-10-02 07:51:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Aquí tienes unas propuestas suculentas que ningún gurmet debería perderse</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20251010/mejores-patatas-bravas-barcelona-campeonato-122420995\">Si quieres triunfar con unas bravas de campeonato este finde en BCN, toma nota de estos 3 restaurantes</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260930/bravas-coloras-real-club-valderrama-mejores-mundo-2026-134786924\">Las Bravas Colorás del Real Club Valderrama, las mejores del mundo (y otras noticias gastro)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Última hora de la alerta por lluvias en Catalunya y Valencia, en directo | Avisos de la Aemet y el Meteocat en Tarragona, Barcelona y Castellón",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
+    "pubDate": "2026-10-02 07:45:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260926/nino-intensidad-previsiones-sequias-lluvias-torrenciales-inundaciones-134684053\" target=\"_blank\">El Niño cobra fuerza y ya se perfila como el más intenso desde 1950: medio mundo en riesgo de inundaciones, y el otro, de sequías</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las tormentas descargan con fuerza torrencial en Almassora",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/tormentas-descargan-fuerza-torrencial-almassora/134910680.shtml",
+    "pubDate": "2026-10-02 07:42:29",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ запустила понад сотню дронів: як спрацювала ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4916642-rf-zapustyla-ponad-sotnui-droniv-yak-spratsuivala-ppo",
+    "pubDate": "2026-10-02 07:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582296.jpg\">Росіяни запустили 108 безпілотників. ППО знешкодила 88 із них, однак зафіксовано влучання на 11 локаціях і падіння уламків на ще п'яти.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Una cuestión de jornadas dobles",
+    "link": "https://as.com/baloncesto/euroliga/una-cuestion-de-jornadas-dobles-f202610-n/",
+    "pubDate": "2026-10-02 07:20:00",
+    "category": "Baloncesto",
+    "description": "El Barça visita al Besiktas para cerrar su primera semana de doble jornada europea. Habrá diez en total, un calendario apretadísimo que los azulgranas afrontan con, de momento, bajas inoportunas. Y la obligación de sumar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Rosa, barcelonesa que vive en un frío pueblo sin comercios y con solo 35 habitantes en invierno: \"La calidad de vida no se puede comparar\"",
+    "link": "https://www.elperiodico.com/es/economia/20261002/pueblo-salamanca-malpartida-habitantes-invierno-sin-comercios-rosa-barcelonesa-dv-et-134684351",
+    "pubDate": "2026-10-02 07:11:44",
+    "category": "",
+    "description": "<h2>La mujer se quedó en el municipio salmantino tras enviudar hace más de 7 años: \"Me podía haber ido a Barcelona, pero aquí me he quedado\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260813/despoblacion-problema-unico-habitante-pueblo-abandonado-espana-vaciada-fernando-dv-et-133097547\">Fernando (39 años), único habitante de una aldea abandonada: \"Nos juntamos 80 personas para evitar que el pueblo se derrumbe o caiga en el olvido\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260928/vivir-comer-gratis-pueblo-bonito-espana-trabajo-jardin-naturaleza-intercambio-cultural-dv-et-134624667\">Uno de los pueblos más bonitos de España ofrece casa y comida gratis a cambio de trabajar solo tres horas al día</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Valencia Basket busca el tres de tres en la Euroliga",
+    "link": "https://as.com/baloncesto/euroliga/el-valencia-basket-busca-el-tres-de-tres-en-la-euroliga-f202610-n/",
+    "pubDate": "2026-10-02 07:10:45",
+    "category": "Valencia Basket Club",
+    "description": "Los de Xavi Albert visitan a Asvel Villeurbaunne para confirmar la mejora que se vio ante Baskonia.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un agujero en el juego interior",
+    "link": "https://as.com/baloncesto/euroliga/un-agujero-en-el-juego-interior-f202610-n/",
+    "pubDate": "2026-10-02 07:10:41",
+    "category": "Baloncesto",
+    "description": "El Baskonia recibe al Olimpia de Milán con solo un ‘cinco’ disponible. Márcio Santos ya está en Vitoria, pero no debutará todavía.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вибухи, пожежі і робота ППО: що відомо про нічну атаку на РФ",
+    "link": "https://ua.korrespondent.net/world/russia/4916639-vybukhy-pozhezhi-i-robota-ppo-scho-vidomo-pro-nichnu-ataku-na-rf",
+    "pubDate": "2026-10-02 07:09:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582277.jpg\">Вибухи та пожежі зафіксували вночі у Волгограді й Самарі. У Волгоградській області заявили про масовану атаку безпілотників і роботу ППО, а в Самарі повідомили про влучання у важливий нафтовий об'єкт.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Escala el Everest sin salir de Barcelona: así es la nueva aventura inmersiva de las Arenas",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261002/escala-everest-barcelona-nueva-aventura-inmersiva-arenas-134901524",
+    "pubDate": "2026-10-02 07:00:50",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Después de viajar en el tiempo al Coliseo romano y al Titanic, Eclipso ahora estrena un ‘flashback’ con realidad virtual a la primera ascensión al Everest, en 1953</h2><h2 style=\"text-align: justify;\"><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20260929/horrorland-barcelona-mejor-parque-terror-europa-halloween-2026-134781877\" target=\"_blank\">Así será Horrorland: vuelve a Barcelona el mejor parque de terror de Europa</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La moto crece en septiembre y cambia de manos",
+    "link": "https://www.elperiodico.com/es/motor/20261002/moto-crece-septiembre-cambia-manos-134904274",
+    "pubDate": "2026-10-02 07:00:50",
+    "category": "",
+    "description": "<h2>Los escúteres sostienen el mercado, las marcas chinas ganan terreno y la nueva normativa incorpora más protección para los usuarios</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los espías rusos que vigilaban a Kasparov le siguieron hasta Barcelona en 2014 y 2016",
+    "link": "https://www.elperiodico.com/es/deportes/20261002/espias-rusos-vigilaban-kasparov-barcelona-134895264",
+    "pubDate": "2026-10-02 07:00:42",
+    "category": "",
+    "description": "<h2>Es la Unidad de la Inteligencia rusa (GRU) que fue investigada por la Audiencia Nacional por utilizar Catalunya para desestabilizar España en 2017 durante los altercados por el procés</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TVyMAS Viernes 2",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-viernes-2/134893474.shtml",
+    "pubDate": "2026-10-02 07:00:41",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sale Gol; entra Replay",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261002/sale-gol-entra-replay-134889878",
+    "pubDate": "2026-10-02 07:00:40",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "У Києві РФ влучила у 25-поверхівку, є загибла",
+    "link": "https://ua.korrespondent.net/city/kiev/4916635-u-kyievi-rf-vluchyla-u-25-poverkhivku-ye-zahybla",
+    "pubDate": "2026-10-02 06:39:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582257.jpg\">У Дарницькому районі пошкоджено 25-поверховий житловий будинок, одна людина загинула, відомо про двох постраждалих.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Viñales: “Me bajé los pantalones al fichar por KTM para que ahora me echen”",
+    "link": "https://www.elperiodico.com/es/deportes/20261002/vinales-baje-pantalones-fichar-ktm-134904939",
+    "pubDate": "2026-10-02 06:30:38",
+    "category": "",
+    "description": "<h2 class=\"item\">Su hombro izquierdo no está bien, pero KTM le ha pedido que compita y él acepta el reto, pese a que ya le han dicho que no tiene sitio en sus equipos el año que viene. Maverick Viñales está indignado más que molesto con la marca austriaca, pero quiere acabar la temporada sobre la moto.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Генштаб ЗСУ оновив дані про втрати росіян у війні",
+    "link": "https://ua.korrespondent.net/ukraine/4916630-henshtab-zsu-onovyv-dani-pro-vtraty-rosiian-u-viini",
+    "pubDate": "2026-10-02 06:19:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582217.jpg\">Загальні втрати країни-агресорки Росії з початку повномасштабного вторгнення орієнтовно складають 1 537 390 осіб.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estos son los mejores tardeos de Barcelona: multitudinarios, con petardeo o para ‘boomers’",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261002/mejores-tardeos-barcelona-boomers-petardeo-multitudinarios-134838903",
+    "pubDate": "2026-10-02 06:01:46",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Sal de fiesta y estate en casa a la hora de cenar. Barcelona cuenta con una agenda muy nutrida de planes. Desde fiestas con pizza hasta eventos indie</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261001/paripe-tardeos-masas-barcelona-fiestas-beach-club-castelldefels-134860846\" target=\"_blank\">El Paripé, los reyes de los tardeos de masas: \"En un año movemos a 300.000 personas\"</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Comienza la era de los robots de guerra: el Ejército planea una incorporación masiva de máquinas para reforzar a las tropas",
+    "link": "https://www.elperiodico.com/es/politica/20261002/comienza-robots-guerra-ejercito-pide-masa-maquinas-baratas-134901644",
+    "pubDate": "2026-10-02 06:01:42",
+    "category": "",
+    "description": "<h2>Un análisis de la última batalla exitosa de Ucrania contra Rusia, la Operación Vivaldi, sirve en España de \"manual\" para maniobrar en el nuevo campo de batalla</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los trabajadores de Salvat en Esplugues preparan protestas ante la deslocalización de la fábrica a Madrid",
+    "link": "https://www.elperiodico.com/es/economia/20261002/salvat-esplugues-trabajadores-preparan-protestas-cierra-fabrica-134896179",
+    "pubDate": "2026-10-02 06:01:33",
+    "category": "",
+    "description": "<h2>La farmacéutica y UGT inician las negociaciones para tratar de acordar ayudas para aquellos empleados que quieran mudarse e indemnizaciones para quienes acaben despedidos </h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260923/farmaceutica-salvat-trasladara-produccion-industrial-madrid-134601650\">La farmacéutica catalana Salvat trasladará su producción industrial de Esplugues a Madrid</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Belén López declaró ante los Mossos que no se percató de que Josep Juanpere había muerto",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/belen-lopez-mossos-percato-arquitecto-juanpere-muerto-134898915",
+    "pubDate": "2026-10-02 06:01:32",
+    "category": "",
+    "description": "<h2 class=\"item\">La sospechosa fue citada en la comisaría de Vielha cuatro días después del fallecimiento del arquitecto</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 45
+  },
+  {
+    "title": "Nueve de cada diez atropellos mortales en pasos de peatones fueron culpa del conductor: las cifras detrás del cambio en los semáforos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/semaforos-atropellos-mortales-pasos-peatones-espana-134892403",
+    "pubDate": "2026-10-02 06:01:32",
+    "category": "",
+    "description": "<h2 class=\"item\">En 2024, se contabilizaron un total 320 peatones fallecidos en España en siniestros de tráfico, de los que 207 murieron en vías urbanas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261001/semaforos-cambian-ambar-intermitente-vehiculos-verde-peatones-reglamento-trafico-dgt-134868192\" target=\"_blank\">Los semáforos cambian: el ámbar intermitente ya no podrá coincidir con el verde peatonal</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Llamadas automáticas al 112 para salvar motoristas en caso de accidente: así refuerza la seguridad en carretera el internet de las cosas",
+    "link": "https://www.elperiodico.com/es/economia/20261002/seguridad-vial-motoristas-vodafone-internet-de-las-cosas-llamadas-automaticas-112-134900265",
+    "pubDate": "2026-10-02 06:01:32",
+    "category": "",
+    "description": "<h2 class=\"item\">Vodafone España y Livelink Motor se unen para reimpulsar una solución tecnológica que detecta caídas del motorista y activa alertas a los servicios de emergencia. Más de 70.000 motos ya están conectadas a este servicio en Europa</h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las promesas de vivienda de Sánchez, a examen: qué ha cumplido y qué sigue pendiente",
+    "link": "https://www.elperiodico.com/es/economia/20261002/promesas-vivienda-sanchez-examen-134897686",
+    "pubDate": "2026-10-02 06:01:28",
+    "category": "",
+    "description": "<h2>El Gobierno ha aprobado buena parte de las medidas anunciadas desde 2023, como Casa 47, aunque otras, como las 184.000 viviendas asequibles o el impuesto a compradores extracomunitarios, continúan sin completarse</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Chequeo a las terapias para la menopausia: ¿en qué casos están indicadas las hormonas y en cuáles no?",
+    "link": "https://www.elperiodico.com/es/sanidad/20261002/chequeo-terapias-hormonas-mujeres-menopausia-que-casos-tomar-134869116",
+    "pubDate": "2026-10-02 06:01:17",
+    "category": "",
+    "description": "<h2 class=\"item\">La Asociación Española para el Estudio de la Menopausia (AEEM) también contempla alternativas farmacológicas no hormonales para los sofocos y sudores nocturnos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261001/menos-miedo-mas-concienciacion-mas-calor-uso-terapias-hormonales-mujeres-menopausia-aumenta-espana-134839618\" target=\"_blank\"><a href=\"https://www.elperiodico.com/es/sanidad/20260930/farmacias-catalanas-autorizacion-elaborar-terapias-hormonales-menopausia-formula-magistral-lenzetto-falta-farmacos-134797248\" >Menos miedo, mejor concienciación... y más calor: el uso de terapias hormonales para la menopausia en España aumentó un 3,7% el año pasado</a></a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260930/farmacias-catalanas-autorizacion-elaborar-terapias-hormonales-menopausia-formula-magistral-lenzetto-falta-farmacos-134797248\" >Salut autorizará a las farmacias a elaborar terapias hormonales para la menopausia si en un mes sigue el desabastecimiento</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Carl Cederström, profesor universitario: \"La melancolía y la tristeza deben existir y corremos el riesgo de tratar de erradicarlas\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261002/carl-cederstrom-profesor-universitario-melancolia-134668051",
+    "pubDate": "2026-10-02 06:01:15",
+    "category": "",
+    "description": "<h2 class=\"item\">\"En la actualidad, es casi un crimen no buscar la felicidad\"</h2><h2 class=\"item\">\"Se demoniza a las personas fuera de las normas: de decir que fumar es malo se pasa a decir que los fumadores son malos\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marco Romeo, cirujano plástico: \"Shakira ejemplifica cómo rejuvenecer sin dejar de parecer una misma\"",
+    "link": "https://www.elperiodico.com/es/gente/20261002/rostro-shakira-49-anos-rejuvenecimiento-marco-romeo-cirujano-plastico-entrevista-134801966",
+    "pubDate": "2026-10-02 06:01:06",
+    "category": "",
+    "description": "<h2>A pocos meses de cumplir 50 años y coincidiendo con su residencia de conciertos en Madrid, el experto analiza qué cambios se aprecian en su rostro y cómo han evolucionado las técnicas para preservar la naturalidad, la expresión y la identidad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260918/loba-hambre-shakira-devora-madrid-134449191\" target=\"_blank\">La loba tiene hambre: Shakira devora Madrid en su delirante Disneyland latino</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El examen de conducir que nueve de cada diez españoles suspenderían hoy",
+    "link": "https://www.elperiodico.com/es/motor/20261002/examen-conducir-nueve-diez-espanoles-suspende-134384329",
+    "pubDate": "2026-10-02 06:01:05",
+    "category": "",
+    "description": "<h2>El paso de los años, los cambios en las normas y la falta de formación posterior al permiso ponen a prueba los conocimientos de los conductores</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Підсумки 01.10: Перша балістика і удари по мосту",
+    "link": "https://ua.korrespondent.net/ukraine/4916510-pidsumky-0110-persha-balistyka-i-udary-po-mostu",
+    "pubDate": "2026-10-02 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582197.jpg\">Україна вперше застосувала власну балістику; Росіяни чотири рази вдарили по Південному мосту у Києві. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Україна закликає США запровадити санкції проти російського аналога Starlink",
+    "link": "https://ua.korrespondent.net/ukraine/4916623-ukraina-zaklykaie-ssha-zaprovadyty-sanktsii-proty-rosiiskoho-analoha-Starlink",
+    "pubDate": "2026-10-02 05:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582103.jpg\">Якщо росіяни запустять свою проограму Рассвет до кінця 2026 або на початку 2027 року, то зможуть уражати цілі на території України в режимі реального часу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nuevo punto de información sobre la Unión Europea en Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261002/nuevo-punto-informacion-union-europea-bc-134889569",
+    "pubDate": "2026-10-02 05:00:59",
+    "category": "",
+    "description": "<h2>Europe Direct ofrece asesoramiento gratuito sobre programas y políticas de la UE, con especial atención a las necesidades de los jóvenes</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Sonia desapareció buscando a su \"llama gemela\": sus padres piden al juez que geolocalice su teléfono",
+    "link": "https://www.elperiodico.com/es/sucesos/20261002/sonia-desaparicion-llama-gemela-134908288",
+    "pubDate": "2026-10-02 05:00:58",
+    "category": "",
+    "description": "<h2>La familia de la psicóloga madrileña, desaparecida el pasado 16 de abril, asegura que había cambiado desde que seguía la doctrina de un grupo new age que invita a sus seguidores a encontrar a su \"alma gemela\" </h2><h2>La mujer había contado a su entorno que pensaba casarse con un chico al que acababa de conocer. Un día antes de que se perdiera su rastro, escribió en su cuaderno: \"Boda: 3.000 euros. Joyas y complementos: 30.000 euros...\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Києві БПЛА вчетверте влучив у Південний міст",
+    "link": "https://ua.korrespondent.net/city/kiev/4916625-u-kyievi-bpla-vchetverte-vluchyv-u-pivdennyi-mist",
+    "pubDate": "2026-10-02 04:17:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582123.jpeg\">У четвер російські безпілотники тричі били у Південний міст, через що рух метро та наземного транспорту зупинялося.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У РФ на проєкт з продовження життя Путіну витратять $216 млн",
     "link": "https://ua.korrespondent.net/world/russia/4916621-u-rf-na-proiekt-z-prodovzhennia-zhyttia-putinu-vytratiat-216-mln",
     "pubDate": "2026-10-02 03:50:00",
