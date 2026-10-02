@@ -1,5 +1,23 @@
 [
   {
+    "title": "Las olas de protestas estudiantiles queman las calles de Francia",
+    "link": "https://www.elperiodico.com/es/videos/internacional/olas-protestas-estudiantiles-queman-calles-francia/134945814.shtml",
+    "pubDate": "2026-10-02 21:38:27",
+    "category": "",
+    "description": "Los adolescentes están siendo detenidos con gases lacrimógenos y arrestos por parte de la policía nacional",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Cómo instalar un cargador para tu coche eléctrico en casa",
+    "link": "https://www.elperiodico.com/es/motor/20261002/como-instalar-cargador-coche-electrico-casa-134833400",
+    "pubDate": "2026-10-02 21:30:43",
+    "category": "",
+    "description": "<h2>La compra de vehículos eléctricos aumenta y con ello la instalación de sus cargadores, que pueden llegar a costar entre 600 y 1.000 euros</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "На кордоні Польщі затримали українця, якого розшукує Інтерпол",
     "link": "https://ua.korrespondent.net/world/4916889-na-kordoni-polschi-zatrymaly-ukraintsia-yakoho-rozshukuie-interpol",
     "pubDate": "2026-10-02 21:17:00",
@@ -41,6 +59,15 @@
     "pubDate": "2026-10-02 21:09:18",
     "category": "Baloncesto",
     "description": "El Barça logró una valiosa victoria en territorio turco al imponerse al Besiktas en un ambiente de máxima presión.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Gibson y Punter dan alas a un Barça extraordinario",
+    "link": "https://as.com/baloncesto/euroliga/gibson-y-punter-dan-alas-a-un-barca-extraordinario-f202610-n/",
+    "pubDate": "2026-10-02 21:08:12",
+    "category": "Baloncesto",
+    "description": "Los azulgranas dominan de principio a fin su partido frente al Besiktas, conquistando Estambul con autoridad. Gibson y Punter, los mejores de un juego coral maravilloso. Sekulic apuntala a un equipo al alza.",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -239,6 +266,15 @@
     "pubDate": "2026-10-02 20:02:00",
     "category": "Новини України",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583207.jpg\">Внаслідок ворожої атаки у Бучанському районі Київщини пошкоджено складські та виробничі приміщення. У Гостомелі поранено двох людей, серед них 8-річна дівчинка.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Miriam Marco, doctora en Psicología Social: \"Hay que acercar la salud mental al colectivo de 60 a 75 años\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/miriam-marco-salud-mental-mayores-134913307",
+    "pubDate": "2026-10-02 20:01:00",
+    "category": "",
+    "description": "<h2 class=\"item\">Un estudio en el que participa la investigadora señala que esta generación percibe ciertas dificultades para acceder a los recursos psicólogicos disponibles: \"Se necesitan estrategias para que los conozcan y sepan cómo acceder a ellos\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260515/sabine-henning-experta-onu-envejecimiento-130210466\" target=\"_blank\">Sabine Henning, experta de la ONU: “El envejecimiento de la población no es una crisis, es algo a celebrar”</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },

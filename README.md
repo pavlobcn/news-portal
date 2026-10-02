@@ -1,4 +1,4 @@
-# News for 2026-10-02 21:18
+# News for 2026-10-02 21:58
 
 Previous day: [2026-10-01](./data/2026-10-01.md)
 
@@ -60,6 +60,7 @@ Previous day: [2026-10-01](./data/2026-10-01.md)
 ## as.com
 21:13 [Baskonia-Olimpia Milano, en directo: Euroliga, hoy en vivo](https://as.com/baloncesto/euroliga/baskonia-olimpia-milano-en-directo-euroliga-hoy-en-vivo-f202610-n/)<br>
 21:09 [Besiktas – Barcelona, Euroliga 26/27 resumen y resultado (82-95)](https://as.com/baloncesto/euroliga/besiktas-barcelona-en-directo-euroliga-en-vivo-hoy-f202610-d/)<br>
+21:08 [Gibson y Punter dan alas a un Barça extraordinario](https://as.com/baloncesto/euroliga/gibson-y-punter-dan-alas-a-un-barca-extraordinario-f202610-n/)<br>
 20:02 [Desolación para Pablo Laso: Mike James tiene roto el tendón de Aquiles](https://as.com/baloncesto/euroliga/desolacion-para-pablo-laso-mike-james-tiene-roto-el-tendon-de-aquiles-f202610-n/)<br>
 20:00 [En directo, CB Canarias vs Real Madrid de la Liga U 2026-27](https://as.com/baloncesto/videos/en-directo-cb-canarias-vs-real-madrid-de-la-liga-u-2026-27-f202610-v/)<br>
 14:19 [El árbitro de la final de Atenas defiende la polémica falta pitada a Campazzo](https://as.com/baloncesto/euroliga/el-arbitro-de-la-final-defiende-la-polemica-falta-pitada-a-campazzo-f202610-n/)<br>
@@ -74,6 +75,7 @@ Previous day: [2026-10-01](./data/2026-10-01.md)
 21:10 [El temporal anega varios tramos de la autovía Murcia-Cartagena](https://www.elperiodico.com/es/videos/sociedad/temporal-anega-tramos-autovia-murcia/134945285.shtml)<br>
 20:49 [Nadal se pone a punto para la exhibición de este sábado en su academia de Manacor](https://www.elperiodico.com/es/deportes/20261002/nadal-pone-punto-exhibicion-sabado-134944575)<br>
 20:30 [El aviso de los bomberos: este es el motivo por el que nunca debes dejar la llave puesta por la noche](https://www.elperiodico.com/es/sociedad/20261002/llave-puesta-noche-bomberos-emergencia-dv-et-132726550)<br>
+20:01 [Miriam Marco, doctora en Psicología Social: "Hay que acercar la salud mental al colectivo de 60 a 75 años"](https://www.elperiodico.com/es/sociedad/20261002/miriam-marco-salud-mental-mayores-134913307)<br>
 19:49 [Calles inundadas por la lluvia en la pedanía murciana de San José de La Montaña](https://www.elperiodico.com/es/videos/sociedad/calles-inundadas-lluvia-pedania-murciana/134943272.shtml)<br>
 19:44 [Macron anuncia que los países del G7 liberarán "100 millones de barriles" de petróleo y de diésel de sus reservas para reducir los precios](https://www.elperiodico.com/es/economia/20261002/macron-anuncia-paises-g7-liberaran-134943163)<br>
 19:35 [Aviso rojo en las comarcas de Barcelona, Vallès, Maresme y la Selva ante una nueva tanda de lluvias torrenciales prevista para este domingo](https://www.elperiodico.com/es/sociedad/20261002/aviso-rojo-barcelona-valles-maresme-selva-domingo-meteocat-134942781)<br>
