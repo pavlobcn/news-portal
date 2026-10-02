@@ -1,5 +1,212 @@
 [
   {
+    "title": "La policía blinda el Congreso ante la llegada de los acampados de Sol por la votación de los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/videos/politica/policia-blinda-congreso-llegada-acampados/134915109.shtml",
+    "pubDate": "2026-10-02 10:26:34",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Будинок Усиків постраждав від російської атаки",
+    "link": "https://ua.korrespondent.net/sport/boks/4916686-budynok-usykiv-postrazhdav-vid-rosiiskoi-ataky",
+    "pubDate": "2026-10-02 10:21:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582454.jpg\">Майно родини Олександра Усика зазнало пошкоджень внаслідок чергового російського обстрілу.",
+    "topic": "спорт",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El gag del 'Polònia' sobre los decretos de vivienda: \"Maricarmen, Maricarmen... la Rosa Parks del Manzanares\"",
+    "link": "https://www.elperiodico.com/es/tele/20261002/gag-polonia-tv3-decretos-vivienda-maricarmen-pedro-sanchez-dv-134913115",
+    "pubDate": "2026-10-02 10:18:11",
+    "category": "",
+    "description": "<h2>\"Si no sale el decreto yo también voy a la calle\", canta el imitador de Pedro Sánchez en un gag en el que aparecen todos los políticos, de Abascal a Ada Colau</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261001/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337\" >DIRECTO | Decreto de vivienda y acampadas en Sol y plaza Catalunya: última hora de las medidas del Gobierno y las protestas</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ГУР розкрило маршрут африканського найманця РФ до загибелі на Донеччині",
+    "link": "https://ua.korrespondent.net/ukraine/4916684-hur-rozkrylo-marshrut-afrykanskoho-naimantsia-rf-do-zahybeli-na-donechchyni",
+    "pubDate": "2026-10-02 10:14:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582492.jpg\">Громадянин Сьєрра-Леоне Камара Аладжі прилетів до Москви через Дубай, де підписав контракт із російською окупаційною армією. Менш ніж за три місяці після відправлення на фронт він загинув на Донеччині.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Un mosso sitúa una novela negra en una ficticia Vall de Núria y en un Ripoll dominado por la ultraderecha",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261002/mosso-convierte-trasunto-vall-nuria-ripoll-ultraderecha-novela-negra-134815234",
+    "pubDate": "2026-10-02 10:11:00",
+    "category": "",
+    "description": "<h2>En su nuevo libro, Xus González se aleja de Barcelona y de las investigaciones por robos para abordar casos de desapariciones de mujeres en mitad del Pirineo</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20241030/agente-mossos-novela-esconde-robo-118228788\">Un agente de Mossos novela lo que esconde un robo entre 'narcos': \"Son los parásitos de los traficantes\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Вилучено готівку на 630 млн гривень - ОГП",
+    "link": "https://ua.korrespondent.net/ukraine/4916681-vylucheno-hotivku-na-630-mln-hryven-ohp",
+    "pubDate": "2026-10-02 10:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582486.jpg\">Для роботи тіньової фінансової мережі використовувались приміщення неліцензованих пунктів обміну валют під відомою торговою маркою.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Ibex 35 sube un 0,2% y retiene los 19.000 puntos, con el petróleo cayendo a 101 dólares",
+    "link": "https://www.elperiodico.com/es/economia/20261002/ibex-35-sube-0-2-134914213",
+    "pubDate": "2026-10-02 10:07:39",
+    "category": "",
+    "description": "<h2>Las empresas ACS, Indra y Ferrovial lideran las subidas en el selectivo madrileño durante los primeros compases de una sesión que refleja una apertura positiva en las principales plazas europeas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Сміливий вихід зіркової тенісистки підкорив Париж",
+    "link": "https://ua.korrespondent.net/sport/tenis/4916565-smilyvyi-vykhid-zirkovoi-tenisystky-pidkoryv-paryzh",
+    "pubDate": "2026-10-02 10:06:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581620.jpeg\">Поява української спортсменки на світському заході викликала чималий фурор завдяки її ефектному вбранню.",
+    "topic": "спорт",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Turistas y comercios, sobre la acampada frente a la Puerta del Sol: \"Lo que hacen es bueno para España pero no sé si es el lugar más adecuado para ello\"",
+    "link": "https://www.elperiodico.com/es/politica/20261002/turistas-comercios-acampada-frente-puerta-sol-reacciones-134914064",
+    "pubDate": "2026-10-02 10:02:46",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Cientos de personas continúan durmiendo junto a la Real Casa de Correos a la espera de la votación este viernes en el Congreso sobre los decretos de vivienda aprobados por el Gobierno</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La inteligencia artificial sigue sin llegar a las pymes industriales: solo el 4,1% la utiliza",
+    "link": "https://www.elperiodico.com/es/economia/20261002/inteligencia-artificial-poco-uso-pymes-espanolas-indesia-134913947",
+    "pubDate": "2026-10-02 10:02:02",
+    "category": "",
+    "description": "<h2>El Barómetro IndesIA 2026 revela una adopción muy desigual según el tamaño de las empresas y el territorio</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De pintar basura fluorescente a retratar un planeta en peligro: la jungla pop de Kenny Scharf, heredero del Nueva York de Warhol",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261002/pintar-basura-fluorescente-retratar-planeta-peligro-kenny-scharf-thyssen-heredero-warhol-134786950",
+    "pubDate": "2026-10-02 09:59:16",
+    "category": "",
+    "description": "<h2>El Thyssen reúne 25 obras que descubren la vertiente ecologista del artista estadounidense, marcada por los incendios de California y una mirada crítica al consumismo: podrán verse hasta el 17 de enero</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Гребенщиков розкрив, що Віктор Цой думав про війну",
+    "link": "https://ua.korrespondent.net/lifestyle/4916585-hrebenschykov-rozkryv-scho-viktor-tsoi-dumav-pro-viinu",
+    "pubDate": "2026-10-02 09:57:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581712.jpg\">Борис Гребенщиков - засновник Акваріума, який виступає проти путінського режиму з 2014 року та нещодавно позбувся російського громадянства, - розкрив, як Віктор Цой ставився б до війни.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Última hora de la votación de los decretos de vivienda y el posible adelanto electoral, en directo | Resultado y reacciones",
+    "link": "https://www.elperiodico.com/es/politica/20261002/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-02 09:55:00",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Мадяр відреагував на законопроєкт ВР щодо нацменшин",
+    "link": "https://ua.korrespondent.net/ukraine/4916676-madiar-vidreahuvav-na-zakonoproiekt-vr-schodo-natsmenshyn",
+    "pubDate": "2026-10-02 09:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582451.jpg\">Прем’єр-міністр Угорщини привітав внесення до Верховної Ради законопроєкту про освітні права національних меншин. За його словами, кожен має право здобувати освіту рідною мовою.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Названо шість областей України з відключеннями",
+    "link": "https://ua.korrespondent.net/ukraine/4916672-nazvano-shist-oblastei-ukrainy-z-vidkluichenniamy",
+    "pubDate": "2026-10-02 09:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582452.jpg\">Енергетики роблять усе можливе, щоб якнайшвидше повернути в роботу пошкоджене обладнання та заживити усіх знеструмлених споживачів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Halle Berry, demandada por su exmarido, Olivier Martinez, por presunto maltrato a su hijo de 12 años: la acusa de intentar asfixiarlo y pide la custodia completa",
+    "link": "https://www.elperiodico.com/es/gente/20261002/halle-berry-olivier-martinez-maltrato-hijo-custodia-orden-alejamiento-134912938",
+    "pubDate": "2026-10-02 09:47:11",
+    "category": "",
+    "description": "<h2>La actriz ganadora del Oscar niega las acusaciones, que su defensa considera \"completamente carentes de fundamento y deliberadamente engañosas\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Precio de la gasolina y diésel hoy, 2 de octubre en España: consulta el precio de los carburantes",
+    "link": "https://www.elperiodico.com/es/economia/20261002/precio-gasolina-diesel-hoy-2-octubre-dv-134869774",
+    "pubDate": "2026-10-02 09:43:29",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Dos guardias civiles, tiroteados en Terrassa",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/dos-guardias-civiles-tiroteados-terrassa-video/134913430.shtml",
+    "pubDate": "2026-10-02 09:42:48",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La acampada por la vivienda en Barcelona se cuadruplica y llega a 200 tiendas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261002/acampada-vivienda-plaza-catalunya-200-tiendas-134912935",
+    "pubDate": "2026-10-02 09:41:34",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20261001/decreto-maricarmen-protestas-acampada-barcelona-vivienda-134895624\" target=\"_blank\">800 personas exigen en BCN que Junts acepte el ‘decreto Maricarmen’ y claman por la huelga general</a></h2><h2>DIRECTO | <a href=\"https://www.elperiodico.com/es/politica/20261001/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337\" >Última hora sobre el decreto de vivienda y las acampadas en Sol y plaza Catalunya</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Toda una vida con el Espanyol: el club rinde homenaje a los socios que cumplen 50 años de fidelidad",
+    "link": "https://www.elperiodico.com/es/deportes/20261002/vida-espanyol-club-rinde-homenaje-134912879",
+    "pubDate": "2026-10-02 09:40:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La entidad también reconoció en el RCDE Stadium a Francisco Perelló \"por sus 75 años de lealtad\".</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260917/roberto-pichichi-espanyol-pistolero-punteria-134396899\" target=\"_blank\">Roberto, el pichichi del Espanyol y el pistolero con más puntería de la Liga.</a></h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Precio del petróleo hoy, 2 de octubre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20261002/precio-petroleo-hoy-2-octubre-dv-134869582",
+    "pubDate": "2026-10-02 09:37:08",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Семеро гравців збірної України не увійшли до заявки на Північну Ірландію",
+    "link": "https://ua.korrespondent.net/sport/football/4916670-semero-hravtsiv-zbirnoi-ukrainy-ne-uviishly-do-zaiavky-na-pivnichnu-irlandiui",
+    "pubDate": "2026-10-02 09:33:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582400.jpg\">За рішенням тренерів, семеро виконавців не потрапили до заявки на нинішню зустріч Ліги націй.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Криму заявили про нову атаку на енергооб’єкти",
+    "link": "https://ua.korrespondent.net/world/russia/4916668-u-krymu-zaiavyly-pro-novu-ataku-na-enerhoobiekty",
+    "pubDate": "2026-10-02 09:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582427.jpg\">Після вибухів у Красноперекопську, Сімферополі та Сакському районі виникли перебої з електропостачанням, а окупаційна влада заявила про пошкодження енергооб’єктів.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
     "title": "Ace Alzheimer Center recauda en su noche solidaria 66.000 euros para apoyar a las personas cuidadoras",
     "link": "https://www.elperiodico.com/es/sanidad/20261002/ace-alzheimer-center-recauda-66-000-euros-noche-solidaria-134900579",
     "pubDate": "2026-10-02 09:30:33",
@@ -135,6 +342,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "Давня таємниця була захована в 300-метрових тунелях усередині гори",
+    "link": "https://ua.korrespondent.net/tech/science/4916500-davnia-taiemnytsia-bula-zakhovana-v-300-metrovykh-tuneliakh-useredyni-hory",
+    "pubDate": "2026-10-02 09:04:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581009.jpg\">Завдяки цій знахідці ми отримуємо додаткові відомості про один із найважливіших і найстаріших промислових центрів Європи.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Catalunya recupera los 4 millones de ocupados tras el mejor septiembre desde 2007",
     "link": "https://www.elperiodico.com/es/economia/20261002/cataluna-paro-datos-septiembre-2026-evolucion-empleo-134911967",
     "pubDate": "2026-10-02 09:00:04",
@@ -144,6 +360,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Encuestas de las elecciones generales en España: así están los sondeos",
+    "link": "https://www.elperiodico.com/es/politica/20261002/encuestas-elecciones-generales-espana-sondeos-12274406",
+    "pubDate": "2026-10-02 09:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20260923/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Así están las encuestas de las elecciones en Catalunya</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20260921/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "España suma más ocupados de la regularización y vive su mejor inicio de curso desde el año 2000",
     "link": "https://www.elperiodico.com/es/economia/20261002/paro-datos-septiembre-2026-empleo-regularizacion-134912085",
     "pubDate": "2026-10-02 08:59:59",
@@ -151,6 +376,15 @@
     "description": "<h2>Los nacidos en el extranjero impulsan el empleo, pero también se registra un leve repunte del paro, de 23.000 personas más que en agosto, hasta un total de 2,3 millones de desempleados </h2>",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Ястремська влаштувала розгром фіналістці Ролан Гаррос",
+    "link": "https://ua.korrespondent.net/sport/tenis/4916661-yastremska-vlashtuvala-rozghrom-finalisttsi-rolan-harros",
+    "pubDate": "2026-10-02 08:58:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582377.jpg\">У матчі другого раунду українська тенісистка розгромила зіркову суперницю, завоювавши путівку до наступної стадії змагань.",
+    "topic": "спорт",
+    "topic_match_probability": 100
   },
   {
     "title": "Румунія повідомила про новий інцидент із падінням дрона",
@@ -207,6 +441,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Відомий артист, чиї хіти слухали мільйони, підтримує Україну",
+    "link": "https://ua.korrespondent.net/showbiz/music/4916568-vidomyi-artyst-chyi-khity-slukhaly-miliony-pidtrymuie-ukrainu",
+    "pubDate": "2026-10-02 08:32:00",
+    "category": "Музика",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4581644.jpg\">У Мережі активно обговорюють шведського репера Yung Lean, якому вдалося запустити популярний вірусний тренд.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Вплив демаршу Роналду: тренер розповів про атмосферу в збірній",
+    "link": "https://ua.korrespondent.net/sport/football/4916652-vplyv-demarshu-ronaldu-trener-rozpoviv-pro-atmosferu-v-zbirnii",
+    "pubDate": "2026-10-02 08:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582318.jpg\">Фахівець переконаний, що скандальний від'їзд зіркового форварда з розташування збірної Португалії не зіпсував відносини всередині колективу.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El temporal descarga con fuerza durante la noche y ya deja inundaciones en Terres de l’Ebre y Castellón con vistas a seguir avanzando hasta el mediodía",
     "link": "https://www.elperiodico.com/es/sociedad/20261002/temporal-lluvia-afectaciones-cataluna-castellon-134910815",
     "pubDate": "2026-10-02 08:28:49",
@@ -249,6 +501,15 @@
     "category": "",
     "description": "<h2>Sánchez sitúa a PP, Vox y Junts ante \"la hora de la verdad\": \"deben elegir si están con la mayoría social o con los especuladores\"</h2><h2>El <a href=\"https://rc-pro.prensaiberica.es/nacional/2026/10/01/junts-voto-decretos-vivienda-gobierno-desahucios-alquiler-134888717.html\" target=\"_blank\">rechazo de Junts molestó en el Gobierno</a>: \"se equivocan\" porque la vivienda, en este momento, \"no permite postureos políticos\"</h2><h2>Desde el PP, responden: \"Ni con decretos ni sin decretos se puede seguir así. Elecciones ya\"</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261001/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337\" target=\"_blank\">DIRECTO | Decreto de vivienda y acampadas en Sol y plaza Catalunya: última hora de las medidas del Gobierno y las protestas</a></h2>",
     "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ліга націй: Португалія впоралася без Роналду, Греція втратила перемогу",
+    "link": "https://ua.korrespondent.net/sport/football/4916649-liha-natsii-portuhaliia-vporalasia-bez-ronaldu-hretsiia-vtratyla-peremohu",
+    "pubDate": "2026-10-02 08:04:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4582337.jpg\">Португалія без Роналду взяла гору над Данією, Уельс завдав поразки норвежцям, а Греція зіграла у драматичну нічию, упустивши перемогу.",
+    "topic": "спорт",
     "topic_match_probability": 100
   },
   {
@@ -432,6 +693,15 @@
     "topic_match_probability": 85
   },
   {
+    "title": "El temporal deja imágenes impactantes en Tortosa y otros municipios de las Terres de l'Ebre",
+    "link": "https://www.elperiodico.com/es/sociedad/20261002/temporal-deja-imagenes-impactantes-tortosa-terres-ebre-lluvia-134909242",
+    "pubDate": "2026-10-02 06:52:34",
+    "category": "",
+    "description": "<h2 class=\"item\">Calles convertidas en ríos, carreteras cortadas y municipios inundados llenan las redes sociales de vídeos impresionantes</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261002/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias en Catalunya y Valencia, en directo | Avisos de la Aemet y el Meteocat en Tarragona, Barcelona y Castellón</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tarragona/20261002/interrumpida-linea-r16-rodalies-tarragona-tortosa-134912817\">Interrumpida la línea R16 de Rodalies entre Tarragona y Tortosa por las lluvias</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "У Києві РФ влучила у 25-поверхівку, є загибла",
     "link": "https://ua.korrespondent.net/city/kiev/4916635-u-kyievi-rf-vluchyla-u-25-poverkhivku-ye-zahybla",
     "pubDate": "2026-10-02 06:39:00",
@@ -536,6 +806,15 @@
     "pubDate": "2026-10-02 06:01:15",
     "category": "",
     "description": "<h2 class=\"item\">\"En la actualidad, es casi un crimen no buscar la felicidad\"</h2><h2 class=\"item\">\"Se demoniza a las personas fuera de las normas: de decir que fumar es malo se pasa a decir que los fumadores son malos\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Menos miedo, más conciencia y mucho calor: el uso de terapias hormonales para la menopausia se triplica en España",
+    "link": "https://www.elperiodico.com/es/sanidad/20261002/menopausia-menos-miedo-mas-conciencia-mas-calor-uso-terapias-hormonales-triplica-espana-134839618",
+    "pubDate": "2026-10-02 06:01:14",
+    "category": "",
+    "description": "<h2 class=\"item\">El consumo de estos tratamientos ha tomado impulso después de que la Agencia del Medicamento de EEUU dejara de considerarlos de riesgo</h2><h2 class=\"item\">Las especialistas también vinculan el incremento a una mayor información y al fuerte impacto de los veranos largos y extremos en el climaterio  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260930/farmacias-catalanas-autorizacion-elaborar-terapias-hormonales-menopausia-formula-magistral-lenzetto-falta-farmacos-134797248\" >Salut autorizará a las farmacias a elaborar terapias hormonales para la menopausia si en un mes sigue el desabastecimiento</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260915/desabastecimiento-lenzetto-terapias-hormonales-utilizadas-escasez-farmacos-alternativas-mujeres-menopausia-134300553\" >Los problemas de suministro de Lenzetto, un fármaco para la menopausia, afectan ya a sus alternativas</a></h2>",
     "topic": "",
     "topic_match_probability": 0
   },
