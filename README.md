@@ -1,4 +1,4 @@
-# News for 2026-10-03 15:33
+# News for 2026-10-03 18:49
 
 Previous day: [2026-10-02](./data/2026-10-02.md)
 
@@ -19,12 +19,24 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 03:58 [Чорноморський флот РФ готується до ударів - АТЕШ](https://ua.korrespondent.net/world/russia/4916928-chornomorskyi-flot-rf-hotuietsia-do-udariv-atesh)<br>
 
 ## as.com
+17:01 [Aplazado el Joventut-Andorra de este sábado por el temporal](https://as.com/baloncesto/acb/aplazado-el-joventut-andorra-de-este-sabado-por-el-temporal-f202610-n/)<br>
+16:40 [¿Quién es Pau Torrens? El nuevo ‘recordman’ de la Liga U](https://as.com/baloncesto/mas_baloncesto/quien-es-pau-torrens-el-nuevo-recordman-de-la-liga-u-f202610-n/)<br>
 09:55 [La hora de Westermann](https://as.com/baloncesto/mas_baloncesto/la-hora-de-westermann-f202610-n/)<br>
 07:14 [El milagro de Joan Peñarroya](https://as.com/baloncesto/euroliga/el-milagro-de-joan-penarroya-f202610-n/)<br>
 05:49 [La Liga Femenina Endesa vuelve con todo](https://as.com/baloncesto/mas_baloncesto/la-liga-femenina-endesa-vuelve-con-todo-f202610-n/)<br>
 05:49 [Iñaki Martín: “Tengo un grupo impresionante, de soldados”](https://as.com/baloncesto/mas_baloncesto/inaki-martin-tengo-un-grupo-impresionante-de-soldados-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:44 [La lluvia obliga a cerrar algunos accesos al metro y el andén de la L3 en Liceu](https://www.elperiodico.com/es/videos/sociedad/lluvia-obliga-cerrar-accesos-metro/134966954.shtml)<br>
+18:41 [La alerta por lluvias obliga a suspender actividades culturales como el inicio de temporada del Liceu o la fiesta del Lliure](https://www.elperiodico.com/es/videos/sociedad/alerta-lluvias-obliga-suspender-actividades/134966729.shtml)<br>
+18:33 [TMB suspende el servicio nocturno de metro en Barcelona por el temporal: cerrará a medianoche y reabrirá a las 5.00 horas](https://www.elperiodico.com/es/trafico-y-transportes/20261003/metro-barcelona-temporal-altera-cierres-estaciones-andenes-134966292)<br>
+18:00 [Un proyecto denuncia en la Barceloneta el declive de las sardinas, los pescadores y los vecinos del barrio](https://www.elperiodico.com/es/barcelona/20261003/arranca-barceloneta-xarxa-oberta-proyecto-barcelona-pesca-sardina-vecinos-134921033)<br>
+16:31 [Éric Vuillard: "Hay que tener el corazón de piedra para ser indiferente a la vida de Billy el Niño"](https://www.elperiodico.com/es/ocio-y-cultura/20261003/eric-vuillard-publica-los-desesperados-novela-sobre-billy-el-nino-134916743)<br>
+16:30 [Pau Gasol (46 años) transmite el legado de Kobe Bryant a sus hijos: "Lo consideren su tío. Saben lo que pasó y tengo una relación muy cercana con Vanessa Bryant y sus hijas"](https://www.elperiodico.com/es/gente/20261003/pau-gasol-vida-familia-kobe-bryant-baloncesto-dv-et-134754036)<br>
+16:23 [A Contra Blues cumple 20 años contra viento y marea: “Antes, Barcelona te daba oportunidades”](https://www.elperiodico.com/es/ocio-y-cultura/20261003/blues-cumple-20-anos-viento-134951150)<br>
+16:19 [La ACB suspende el Joventut - Andorra por la alerta meteorológica de lluvias](https://www.elperiodico.com/es/deportes/20261003/acb-suspende-joventut-andorra-alerta-134962455)<br>
+15:35 [Así fue la primera fiesta para gente alta en Barcelona | VÍDEO](https://www.elperiodico.com/es/que-hacer/planes/20261003/primera-fiesta-gente-alta-barcelona-video-viral-altos-134960186)<br>
+15:33 [Barcelona, bajo la lluvia y a la espera de un minihuracán del Mediterráneo](https://www.elperiodico.com/es/fotos/sociedad/barcelona-lluvia-espera-minihuracan-mediterraneo-134961282)<br>
 15:28 [22 meses seguidos como principal preocupación de los españoles: la evolución del problema de la vivienda en las encuestas del CIS](https://www.elperiodico.com/es/internacional/20261003/evolucion-vivienda-principal-problema-espanoles-encuestas-cis-134961183)<br>
 15:21 [La primera fiesta para gente alta de Barcelona](https://www.elperiodico.com/es/videos/ocio-y-cultura/primera-fiesta-gente-alta-barcelona/134957595.shtml)<br>
 15:03 [Protecció Civil pide restringir todas las actividades a partir de esta tarde en Catalunya ante el episodio "excepcional" de lluvias](https://www.elperiodico.com/es/videos/sociedad/proteccio-civil-pide-restringir-actividades/134960396.shtml)<br>
@@ -39,6 +51,7 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 12:31 [Qué es un 'medicane', el huracán mediterráneo que se puede formar en Catalunya y que eleva el peligro de lluvias torrenciales](https://www.elperiodico.com/es/tiempo/20261003/que-es-medicane-huracan-mediterraneo-catalunya-peligro-lluvias-torrenciales-dv-134954323)<br>
 12:05 [El rincón de Mollet que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/20261003/gallecs-mollet-cine-peliculas-barcelona-cataluna-dv-loc-130794761)<br>
 11:49 [Verdi feat, politono](https://www.elperiodico.com/es/opinion/20261003/verdi-feat-politono-articulo-agnes-marques-134952367)<br>
+10:50 [Autoexigencia, presión familiar y miedo a equivocarse: la cara menos visible de los alumnos excelentes](https://www.elperiodico.com/es/sociedad/20261003/estudiantes-hiperexigentes-familias-presion-notas-134831727)<br>
 10:01 [La crisis de la vivienda convierte separarse en un lujo: "Comparto casa con mi ex porque no puedo pagarme un piso"](https://www.elperiodico.com/es/sociedad/20261003/crisis-vivienda-separarse-divorcio-lujo-compartir-piso-ex-no-puedo-pagar-piso-134941405)<br>
 10:01 [Las oficinas disponibles en Barcelona caen al 11,4% por el aumento de la demanda y el empuje del 22@](https://www.elperiodico.com/es/barcelona/20261003/disponibilidad-oficinas-barcelona-cae-11-empuje-contrataciones-22-134835493)<br>
 10:01 [120 años del naufragio del 'Sirio' tras hacer escala en Barcelona: el capitán huido, pasajeros a navajazos y el héroe contrabandista](https://www.elperiodico.com/es/barcelona/20261003/120-anos-naufragio-sirio-cartagena-escala-barcelona-134935887)<br>

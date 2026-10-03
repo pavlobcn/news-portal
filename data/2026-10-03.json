@@ -1,5 +1,401 @@
 [
   {
+    "title": "La lluvia obliga a cerrar algunos accesos al metro y el andén de la L3 en Liceu",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/lluvia-obliga-cerrar-accesos-metro/134966954.shtml",
+    "pubDate": "2026-10-03 18:44:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La alerta por lluvias obliga a suspender actividades culturales como el inicio de temporada del Liceu o la fiesta del Lliure",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/alerta-lluvias-obliga-suspender-actividades/134966729.shtml",
+    "pubDate": "2026-10-03 18:41:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nadal: “En los últimos dos años, había tocado la raqueta cuatro veces”",
+    "link": "https://www.elperiodico.com/es/videos/deportes/nadal-ultimos-anos-habia-tocado-raqueta-cuatro-veces/134966871.shtml",
+    "pubDate": "2026-10-03 18:41:12",
+    "category": "",
+    "description": "Dice que le gustaría jugar una exhibición para testar su cuerpo del que, reconoce, han desaparecido los “dolores recurrentes”",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El defensor del Pueblo se reúne con las autoridades de Ceuta para hablar de la crisis en la ciudad",
+    "link": "https://www.elperiodico.com/es/sociedad/20261003/defensor-pueblo-reune-autoridades-ceuta-134966808",
+    "pubDate": "2026-10-03 18:39:35",
+    "category": "",
+    "description": "<h2>Ángel Gabilondo comenzó este jueves una visita a Ceuta que se prolongará hasta este sábado para conocer \"in situ\" el alcance de la emergencia humanitaria</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "TMB suspende el servicio nocturno de metro en Barcelona por el temporal: cerrará a medianoche y reabrirá a las 5.00 horas",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261003/metro-barcelona-temporal-altera-cierres-estaciones-andenes-134966292",
+    "pubDate": "2026-10-03 18:33:38",
+    "category": "",
+    "description": "<h2 class=\"item\"> Los trenes de la L3 no paran en Liceu en dirección Zona Universitària y el andén de Les Corts en ese mismo sentido ha quedado fuera de servicio</h2><h2 class=\"item\">La medida se adopta ante la excepcionalidad de la situación meteorológica y siguiendo las indicaciones de la Generalitat de Catalunya de restringir los desplazamientos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tiempo/20261003/proteccio-civil-pide-restringir-actividades-tarde-catalunya-episodio-excepcional-lluvias-134957621\" >Catalunya restringe la movilidad y suspende las actividades al aire libre en una veintena de comarcas</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261003/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Última hora de la alerta por lluvias en Catalunya, en directo | Avisos rojos de la Aemet y el Meteocat este sábado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Рейтинг AfD у Німеччині сягнув рекордних 30%",
+    "link": "https://ua.korrespondent.net/world/4917025-reitynh-AfD-u-nimechchyni-siahnuv-rekordnykh-30",
+    "pubDate": "2026-10-03 18:30:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584575.jpg\">Підтримка \"Альтернативи для Німеччини\" (AfD) вперше досягла 30%. Водночас рейтинг ХДС/ХСС опустився до історичного мінімуму, збільшивши розрив між партіями до 12 пунктів.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Статистика поразок збірної України фіксує перший офіційний розгром",
+    "link": "https://ua.korrespondent.net/sport/football/4917024-statystyka-porazok-zbirnoi-ukrainy-fiksuie-pershyi-ofitsiinyi-rozghrom",
+    "pubDate": "2026-10-03 18:25:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584531.jpg\">Раніше, як свідчать показники ігор збірної України, \"синьо-жовті\" з такою значною поразкою на офіційному рівні не грали.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Montero cree \"fundamental\" acabar con el \"negocio de la vivienda\" con una huelga general",
+    "link": "https://www.elperiodico.com/es/videos/politica/montero-fundamental-acabar-negocio-vivienda-huelga-general/134966344.shtml",
+    "pubDate": "2026-10-03 18:20:18",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Catalunya pierde la final de la Supercopa de Europa ante el poderoso Olympiacos",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/catalunya-pierde-final-supercopa-europa-134966029",
+    "pubDate": "2026-10-03 18:19:10",
+    "category": "",
+    "description": "<h2>El club barcelonés no puede hacer frente al conjunto griego y cae 18-4</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Asamblea de Ceuta estudiará un protocolo para responder a futuras crisis migratorias",
+    "link": "https://www.elperiodico.com/es/sociedad/20261003/asamblea-ceuta-estudiara-protocolo-responder-134966159",
+    "pubDate": "2026-10-03 18:15:46",
+    "category": "",
+    "description": "<h2>La iniciativa del Movimiento por la Dignidad y la Ciudadanía busca garantizar recursos materiales y humanos suficientes para la gestión de crisis en la frontera sur de España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "$90 від Трампа: за що заплатить президент США",
+    "link": "https://ua.korrespondent.net/business/financial/4917022-90-vid-trampa-za-scho-zaplatyt-prezydent-ssha",
+    "pubDate": "2026-10-03 18:11:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584554.jpg\">Президент США Дональд Трамп заявив про одноразові виплати по $90 для понад 20 мільйонів учасників Medicare. Гроші мають надійти на початку жовтня.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Fabián Ruiz deja la concentración de España para asistir al nacimiento de su primer hijo en París",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/fabian-ruiz-deja-concentracion-espana-134965873",
+    "pubDate": "2026-10-03 18:10:50",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Barça pide a Liga F que el clásico de este domingo se retrase a las 19 horas",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/barca-pide-liga-f-clasico-134965807",
+    "pubDate": "2026-10-03 18:10:33",
+    "category": "",
+    "description": "<h2>La entidad azulgrana ha contactado con la patronal para cambiar el horario del partido debido a la extrema situación meteorológica que vive Catalunya este fin de semana.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Zverev se cita con Djokovic en Pekín y Rybakina cae en su estreno como número uno",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/zverev-cita-djokovic-pekin-rybakina-134965858",
+    "pubDate": "2026-10-03 18:08:38",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Dimite el responsable de prisiones de Tennessee tras la fallida ejecución de Christa Pike",
+    "link": "https://www.elperiodico.com/es/internacional/20261003/dimite-responsable-prisiones-tennessee-fallida-134965906",
+    "pubDate": "2026-10-03 18:05:13",
+    "category": "",
+    "description": "<h2>\"Valoro su voluntad de anteponer los intereses de los ciudadanos de Tennessee en estos difíciles momentos\", ha explicado el Gobernador de Tennessee, Bill Lee</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Un proyecto denuncia en la Barceloneta el declive de las sardinas, los pescadores y los vecinos del barrio",
+    "link": "https://www.elperiodico.com/es/barcelona/20261003/arranca-barceloneta-xarxa-oberta-proyecto-barcelona-pesca-sardina-vecinos-134921033",
+    "pubDate": "2026-10-03 18:00:19",
+    "category": "",
+    "description": "<h2>La iniciativa, que concluirá en diciembre, consta de cuatro debates, cuatro talleres de remiendo de redes y un gran mantel tejido por residentes</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20241102/cristina-caparros-ninos-no-saben-hay-pescadores-barcelona-111062941\">Cristina Caparrós: “Muchos niños de Barcelona no saben que hay pescadores en la ciudad”</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський розповів про нові удари по РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4917018-zelenskyi-rozpoviv-pro-novi-udary-po-rf",
+    "pubDate": "2026-10-03 17:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584532.jpg\">Президент України Володимир Зеленський заявив про нові результати роботи української далекобійної зброї по об’єктах, які підтримують російську воєнну",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ярмоленко зреагував на поразку від збірної Північної Ірландії",
+    "link": "https://ua.korrespondent.net/sport/football/4917016-yarmolenko-zreahuvav-na-porazku-vid-zbirnoi-pivnichnoi-irlandii",
+    "pubDate": "2026-10-03 17:36:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584510.jpg\">Форвард української збірної прокоментував поєдинок, зокрема його результат, який, на його думку, не можна вважати катастрофічним.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El chef José Andrés y Jeff Bezos coinciden en que la solución para España es aumentar la oferta de viviendas",
+    "link": "https://www.elperiodico.com/es/economia/20261003/chef-jose-andres-jeff-bezos-134965157",
+    "pubDate": "2026-10-03 17:32:39",
+    "category": "",
+    "description": "<h2>\"La realidad es que tenemos a políticos que intentan crear decretos y soluciones cuando no tienen la preparación ni el conocimiento para idear una solución real al problema que vivimos\", opinó en 'X' el cocinero asturiano, anto lo que el fundador de Amazon respondió: \"Diagnóstico y prescripción correcta al 100%\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Demi Vollering se proclama también campeona de Europa",
+    "link": "https://www.elperiodico.com/es/deportes/ciclismo/20261003/demi-vollering-proclama-campeona-europa-ciclismo-134965081",
+    "pubDate": "2026-10-03 17:30:38",
+    "category": "",
+    "description": "<h2 class=\"item\">La corredora neerlandesa logra en la Eslovenia de Pogacar su primer triunfo vestida con el jersey arcoíris.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La patronal advierte de que una huelga general por la vivienda “no está dentro de la legalidad”",
+    "link": "https://www.elperiodico.com/es/videos/politica/patronal-advierte-huelga-general-vivienda-ilegal/134965017.shtml",
+    "pubDate": "2026-10-03 17:26:18",
+    "category": "",
+    "description": "Garamendi se pregunta si sería “contra la oposición o contra las empresas”",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Воротар збірної України попросив вибачити за третій пропущений гол",
+    "link": "https://ua.korrespondent.net/sport/football/4917014-vorotar-zbirnoi-ukrainy-poprosyv-vybachyty-za-tretii-propuschenyi-hol",
+    "pubDate": "2026-10-03 17:26:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584509.jpg\">Голкіпер збірної України Дмитро Різник, нагадаємо, помилився на виході в спробі зіграти на м'ячі.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Miles de personas salen a las calles de Palma contra la caída de los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/miles-personas-salen-calles-palma/134964710.shtml",
+    "pubDate": "2026-10-03 17:15:21",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Мальдера прокоментував поразку збірної від Північної Ірландії",
+    "link": "https://ua.korrespondent.net/sport/football/4917012-maldera-prokomentuvav-porazku-zbirnoi-vid-pivnichnoi-irlandii",
+    "pubDate": "2026-10-03 17:09:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584446.jpg\">Керманич \"синьо-жовтих\" розповів, чому команда програла і яким він бачив розклад на протистояння.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Manifestación por una vivienda en Las Palmas de Gran Canaria tras el rechazo de los 'decretos Maricarmen'",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/manifestacion-vivienda-palmas-gran-canaria-rechazo-decretos-maricarmen/134964562.shtml",
+    "pubDate": "2026-10-03 17:08:46",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Молдова вручила РФ ноту протесту через дрони та ракети",
+    "link": "https://ua.korrespondent.net/world/4917010-moldova-vruchyla-rf-notu-protestu-cherez-drony-ta-rakety",
+    "pubDate": "2026-10-03 17:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584488.jpg\">МЗС Молдови викликало посла Росії Олега Озерова після несанкціонованого прольоту дронів і ракет над країною. Уламки впали в чотирьох районах.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Aplazado el Joventut-Andorra de este sábado por el temporal",
+    "link": "https://as.com/baloncesto/acb/aplazado-el-joventut-andorra-de-este-sabado-por-el-temporal-f202610-n/",
+    "pubDate": "2026-10-03 17:01:00",
+    "category": "Baloncesto",
+    "description": "La Generalitat ha suspendido todas las actividades deportivas desde este sábado a las 20:00 hasta el domingo a las 14:00.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tensión y cargas policiales en la protesta por la vivienda de València",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/tension-cargas-policiales-protesta-vivienda-134964160",
+    "pubDate": "2026-10-03 16:54:35",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Переговори США і Росії включили угоду щодо Лукойлу",
+    "link": "https://ua.korrespondent.net/world/4917008-perehovory-ssha-i-rosii-vkluichyly-uhodu-schodo-lukoilu",
+    "pubDate": "2026-10-03 16:45:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584487.jpg\">Переговори США та Росії про завершення війни в Україні охопили можливий продаж міжнародних активів Лукойлу. Угода може коштувати мільярди доларів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Quién es Pau Torrens? El nuevo ‘recordman’ de la Liga U",
+    "link": "https://as.com/baloncesto/mas_baloncesto/quien-es-pau-torrens-el-nuevo-recordman-de-la-liga-u-f202610-n/",
+    "pubDate": "2026-10-03 16:40:22",
+    "category": "Liga U",
+    "description": "El base del Amara Lleida anotó 43 puntos y acabó con 50 de valoración en Bilbao.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nazareth Castellanos, neurocientífica, detalla qué pasa cuando vemos películas: “Nuestro cerebro desconecta para sentir lo que viven los personajes”",
+    "link": "https://www.elperiodico.com/es/salud/20261003/cerebro-desconexion-pelicula-serie-libro-aprendizaje-forma-sentir-ser-neurociencia-nazareth-castellanos-dv-127066756",
+    "pubDate": "2026-10-03 16:35:00",
+    "category": "",
+    "description": "<h2>La experta indica que es una buena forma de aprender otras maneras de sentir o ser</h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20251124/nazareth-castellanos-doctora-neurociencia-respiracion-123462166\">Nazareth Castellanos, doctora en Neurociencia: \"Una respiración a la deriva es una mente a la deriva\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/sanidad/20260128/ciencia-datos-salud-neurociencias-ciencias-de-la-vida-barcelona-global-hospital-del-mar-126168661\">Barcelona acelera en neurociencia y 'big data' para erigirse en referente mundial en ciencias de la vida</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Éric Vuillard: \"Hay que tener el corazón de piedra para ser indiferente a la vida de Billy el Niño\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261003/eric-vuillard-publica-los-desesperados-novela-sobre-billy-el-nino-134916743",
+    "pubDate": "2026-10-03 16:31:20",
+    "category": "",
+    "description": "<h2 class=\"item\">El autor francés se adentra en la espesa niebla que hay entre la persona y el mito del pistolero y extrae una historia fundacional de Estados Unidos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pau Gasol (46 años) transmite el legado de Kobe Bryant a sus hijos: \"Lo consideren su tío. Saben lo que pasó y tengo una relación muy cercana con Vanessa Bryant y sus hijas\"",
+    "link": "https://www.elperiodico.com/es/gente/20261003/pau-gasol-vida-familia-kobe-bryant-baloncesto-dv-et-134754036",
+    "pubDate": "2026-10-03 16:30:00",
+    "category": "",
+    "description": "<h2>Tras una carrera marcada por éxitos, lesiones y su paso por la NBA, el exjugador de baloncesto afronta una nueva etapa centrada en la familia</h2><h2><a href=\"https://www.elperiodico.com/es/deportes/20260618/pau-gasol-futuro-deporte-debe-131569931\">Pau Gasol: \"El futuro del deporte debe construirse con los atletas, no solo para los atletas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Європейські банки дедалі частіше блокують рахунки росіян",
+    "link": "https://ua.korrespondent.net/business/financial/4917004-yevropeiski-banky-dedali-chastishe-blokuuit-rakhunky-rosiian",
+    "pubDate": "2026-10-03 16:25:00",
+    "category": "Новини фінансів",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584425.jpg\">У першій половині 2026 року росіяни зіткнулися з найжорсткішими обмеженнями на закордонні рахунки від початку повномасштабної війни. Банки посилюють перевірки, блокують рахунки та переглядають умови обслуговування.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "A Contra Blues cumple 20 años contra viento y marea: “Antes, Barcelona te daba oportunidades”",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261003/blues-cumple-20-anos-viento-134951150",
+    "pubDate": "2026-10-03 16:23:38",
+    "category": "",
+    "description": "<h2 class=\"item\">El carismático grupo de blues y rock abre su gira de aniversario este domingo en el Festival de Blues de Cerdanyola con un bolo singular en el que contará con la Jove Orquestra de Cerdanyola</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La ACB suspende el Joventut - Andorra por la alerta meteorológica de lluvias",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/acb-suspende-joventut-andorra-alerta-134962455",
+    "pubDate": "2026-10-03 16:19:08",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261003/fcf-suspende-partidos-futbol-futbol-134962278\">La FCF suspende los partidos de fútbol y fútbol sala en múltiples zonas de Catalunya por el temporal de lluvias</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261003/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias en Catalunya, en directo | Avisos rojos de la Aemet y el Meteocat este sábado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Збірна України пропустила Північну Ірландію вперед у групі Ліги націй",
+    "link": "https://ua.korrespondent.net/sport/football/4917002-zbirna-ukrainy-propustyla-pivnichnu-irlandiui-vpered-u-hrupi-lihy-natsii",
+    "pubDate": "2026-10-03 16:13:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584403.jpg\">У рамках третього туру національна команда України програла своєму близькому конкуренту по групі з рахунком 0:3.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La FCF suspende los partidos de fútbol y fútbol sala en múltiples zonas de Catalunya por el temporal de lluvias",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/fcf-suspende-partidos-futbol-futbol-134962278",
+    "pubDate": "2026-10-03 16:09:47",
+    "category": "",
+    "description": "<h2 class=\"item\">La medida afecta a numerosos encuentros de este sábado por la tarde y del domingo por la mañana en buena parte de Catalunya</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261003/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias en Catalunya, en directo | Avisos rojos de la Aemet y el Meteocat este sábado</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Криза з житлом в Іспанії: тисячі людей вийшли на протести",
+    "link": "https://ua.korrespondent.net/world/4917000-kryza-z-zhytlom-v-ispanii-tysiachi-luidei-vyishly-na-protesty",
+    "pubDate": "2026-10-03 16:06:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584424.jpg\">В Іспанії тисячі людей вийшли на вулиці через кризу з орендою житла. Протести відбуваються після того, як парламент не підтримав надзвичайний закон уряду.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los políticos se besan en la fiesta de Cañete",
+    "link": "https://www.elperiodico.com/es/barcelona/20261003/politicos-besan-fiesta-canete-134925433",
+    "pubDate": "2026-10-03 16:00:50",
+    "category": "",
+    "description": "<h2>Los premios Pimec reúnen en una cena multitudinaria con 1.300 invitados a políticos de distinto signo y empresarios. Hubo entrevistas, actuaciones y abrazos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Miles de personas protestan en las calles de varias ciudades de España para reivindicar \"una vivienda digna\" y reclamar una huelga general",
+    "link": "https://www.elperiodico.com/es/politica/20261003/miles-personas-protestan-calles-ciudades-134962072",
+    "pubDate": "2026-10-03 15:56:10",
+    "category": "",
+    "description": "<h2>Los organizadores de la manifestación en Barcelona han decidido aplazar al lunes la protesta debido a las condiciones meteorológicas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Зеленський просить Трампа санкцій через \"Рассвет\"",
+    "link": "https://ua.korrespondent.net/ukraine/4916998-zelenskyi-prosyt-trampa-sanktsii-cherez-rassvet",
+    "pubDate": "2026-10-03 15:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584404.jpg\">Володимир Зеленський закликав Дональда Трампа запровадити санкції проти російських і китайських компаній, які можуть бути залучені до створення супутникової мережі \"Рассвет\".",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Así fue la primera fiesta para gente alta en Barcelona | VÍDEO",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261003/primera-fiesta-gente-alta-barcelona-video-viral-altos-134960186",
+    "pubDate": "2026-10-03 15:35:27",
+    "category": "",
+    "description": "<h2>Era el acontecimiento viral de la semana. Llevaba días ‘sold out’. Casi dos millones de visualizaciones solo entre el reel y el tiktok de este periódico. Cerca de 200 altos y altas se juntaron anoche en el debut del Tall People Club. Esta vez nadie les cortó la cabeza en las fotos</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261002/running-disco-barcelona-techno-dj-juxta-gratis-fiestas-runner-134904324\" target=\"_blank\">‘Running disco’: corre por Barcelona escuchando sesiones techno exclusivas de DJs</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona, bajo la lluvia y a la espera de un minihuracán del Mediterráneo",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/barcelona-lluvia-espera-minihuracan-mediterraneo-134961282",
+    "pubDate": "2026-10-03 15:33:07",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "22 meses seguidos como principal preocupación de los españoles: la evolución del problema de la vivienda en las encuestas del CIS",
     "link": "https://www.elperiodico.com/es/internacional/20261003/evolucion-vivienda-principal-problema-espanoles-encuestas-cis-134961183",
     "pubDate": "2026-10-03 15:28:23",
@@ -450,6 +846,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "El conflicto que cambió el nombre de uno de los Porsche más famosos",
+    "link": "https://www.elperiodico.com/es/motor/20261003/conflicto-cambio-nombre-porsche-mas-famoso-134793584",
+    "pubDate": "2026-10-03 12:00:26",
+    "category": "",
+    "description": "<h2>El 911 nació como Porsche 901, pero una disputa con Peugeot obligó a la marca alemana a cambiar su nombre cuando el modelo estaba a punto de llegar al mercado</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Verdi feat, politono",
     "link": "https://www.elperiodico.com/es/opinion/20261003/verdi-feat-politono-articulo-agnes-marques-134952367",
     "pubDate": "2026-10-03 11:49:15",
@@ -556,6 +961,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584121.jpg\">В останні роки Анатолій Кашпіровський активно вів свій YouTube-канал, проводячи там прямі ефіри та \"віддалені оздоровчі сеанси\".",
     "topic": "блогери",
     "topic_match_probability": 65
+  },
+  {
+    "title": "Autoexigencia, presión familiar y miedo a equivocarse: la cara menos visible de los alumnos excelentes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261003/estudiantes-hiperexigentes-familias-presion-notas-134831727",
+    "pubDate": "2026-10-03 10:50:12",
+    "category": "",
+    "description": "<h2 class=\"item\">Investigaciones de las universidades de Sevilla y Alicante alertan sobre cómo el perfeccionismo académico y las expectativas familiares excesivas disparan los niveles de estrés en los adolescentes</h2><h2 class=\"item\">\"El fallo forma parte del aprendizaje, pero son niños y niñas que se exigen acertar siempre\", explica la divulgadora Nora Kurtin, que pide a las familias no centrarse solo en las notas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "ЗСУ уразили місце пуску дронів на Донеччині",
