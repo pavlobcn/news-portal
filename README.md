@@ -1,11 +1,13 @@
-# News for 2026-10-03 10:19
+# News for 2026-10-03 14:45
 
 Previous day: [2026-10-02](./data/2026-10-02.md)
 
 ## ua.korrespondent.net
+13:42 [У Києві змінили правила руху мостами](https://ua.korrespondent.net/city/kiev/4916983-u-kyievi-zminyly-pravyla-rukhu-mostamy)<br>
 09:36 [На Полтавщині обмежили перебування цивільних в окремих районах](https://ua.korrespondent.net/ukraine/4916954-na-poltavschyni-obmezhyly-perebuvannia-tsyvilnykh-v-okremykh-raionakh)<br>
 08:42 [Північна Корея знову запустила балістичну ракету](https://ua.korrespondent.net/world/4916950-pivnichna-koreia-znovu-zapustyla-balistychnu-raketu)<br>
 08:20 [Летіли Бандеролі і "шахеди": як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4916948-letily-banderoli-i-shakhedy-yak-vidpratsuivala-ppo)<br>
+08:00 [У Києві відновили рух автобусів через Північний міст](https://ua.korrespondent.net/city/kiev/4916946-u-kyievi-vidnovyly-rukh-avtobusiv-cherez-pivnichnyi-mist)<br>
 07:47 [У Гостомелі зросло число постраждалих через атаку БпЛА](https://ua.korrespondent.net/ukraine/4916944-u-hostomeli-zroslo-chyslo-postrazhdalykh-cherez-ataku-bpla)<br>
 07:29 [Генштаб оцінив інтенсивність боїв за добу](https://ua.korrespondent.net/ukraine/4916942-henshtab-otsinyv-intensyvnist-boiv-za-dobu)<br>
 07:10 [Туреччина отримає від Британії військово-транспортні літаки](https://ua.korrespondent.net/world/4916940-turechchyna-otrymaie-vid-brytanii-viiskovo-transportni-litaky)<br>
@@ -22,6 +24,15 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 05:49 [Iñaki Martín: “Tengo un grupo impresionante, de soldados”](https://as.com/baloncesto/mas_baloncesto/inaki-martin-tengo-un-grupo-impresionante-de-soldados-f202610-n/)<br>
 
 ## www.elperiodico.com
+14:29 [Un proyecto denuncia en la Barceloneta el declive de las sardinas, los pescadores y los vecinos del barrio](https://www.elperiodico.com/es/videos/sociedad/proyecto-denuncia-barceloneta-declive-sardinas/134959113.shtml)<br>
+14:18 [Protecció Civil pide restringir todas las actividades a partir de esta tarde en Catalunya ante el episodio "excepcional" de lluvias](https://www.elperiodico.com/es/tiempo/20261003/proteccio-civil-pide-restringir-actividades-tarde-catalunya-episodio-excepcional-lluvias-134957621)<br>
+14:00 [Jill Mather, la jubilada que empezó recogiendo basura durante sus paseos en la pandemia y seis años después moviliza a 250 voluntarios](https://www.elperiodico.com/es/economia/20261003/jubilada-empezo-recogiendo-basura-pandemia-organizacion-voluntarios-estados-unidos-jill-mather-dv-et-134629557)<br>
+13:30 [Verònica Martín, del diagnóstico de autismo de su hija a revolucionar el interiorismo con la neuroarquitectura: "Un espacio te puede regular o generar malestar"](https://www.elperiodico.com/es/vida-y-estilo/20261003/veronica-martin-diagnostico-autismo-revolucionar-interiorismo-neuroarquitectura-134936669)<br>
+13:20 [Impactantes imágenes de la mayor riada desde los años 50 en Madrigueras, Albacete](https://www.elperiodico.com/es/videos/politica/impactantes-imagenes-mayor-riada-madrigueras-albacete/134956839.shtml)<br>
+13:04 [Hasta 200 euros por posar con Sam Gamyi o Frodo Bolsón: la Comic Con de Málaga pone precio a las fotos con las estrellas de Hollywood](https://www.elperiodico.com/es/ocio-y-cultura/20261003/comic-malaga-foto-sam-frodo-200-euros-estrellas-hollywood-134956037)<br>
+12:45 [Inundaciones en las tierras del ebre](https://www.elperiodico.com/es/videos/sociedad/inundaciones-tierras-ebre/134955824.shtml)<br>
+12:05 [El rincón de Mollet que ya está en la historia del cine](https://www.elperiodico.com/es/barcelona/20261003/gallecs-mollet-cine-peliculas-barcelona-cataluna-dv-loc-130794761)<br>
+11:49 [Verdi feat, politono](https://www.elperiodico.com/es/opinion/20261003/verdi-feat-politono-articulo-agnes-marques-134952367)<br>
 10:01 [La crisis de la vivienda convierte separarse en un lujo: "Comparto casa con mi ex porque no puedo pagarme un piso"](https://www.elperiodico.com/es/sociedad/20261003/crisis-vivienda-separarse-divorcio-lujo-compartir-piso-ex-no-puedo-pagar-piso-134941405)<br>
 10:01 [Las oficinas disponibles en Barcelona caen al 11,4% por el aumento de la demanda y el empuje del 22@](https://www.elperiodico.com/es/barcelona/20261003/disponibilidad-oficinas-barcelona-cae-11-empuje-contrataciones-22-134835493)<br>
 10:01 [120 años del naufragio del 'Sirio' tras hacer escala en Barcelona: el capitán huido, pasajeros a navajazos y el héroe contrabandista](https://www.elperiodico.com/es/barcelona/20261003/120-anos-naufragio-sirio-cartagena-escala-barcelona-134935887)<br>
