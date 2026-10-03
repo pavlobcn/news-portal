@@ -1,5 +1,68 @@
 [
   {
+    "title": "España-República Checa: Lamine Yamal no para de jugar ni de marcar",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/espana-republica-checa-lamine-yamal-134969845",
+    "pubDate": "2026-10-03 22:01:44",
+    "category": "",
+    "description": "<h2>El delantero es el único internacional que ha sido titular en los tres partidos y volvió a estrenar el marcador por tercera vez</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У РФ підірвали авто ката українських полонених",
+    "link": "https://ua.korrespondent.net/world/russia/4917062-u-rf-pidirvaly-avto-kata-ukrainskykh-polonenykh",
+    "pubDate": "2026-10-03 21:58:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584777.jpg\">У Новомосковську Тульської області підірвали автомобіль росіянина Романа Сиромятникова, якого Україна підозрює в катуванні українських військовополонених.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Llueve con intensidad en la Plaza Catalunya",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/llueve-intensidad-plaza-catalunya/134971769.shtml",
+    "pubDate": "2026-10-03 21:47:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Operación de Mossos contra el narcotráfico en Girona: siete detenidos y ocho toneladas de hachís requisados",
+    "link": "https://www.elperiodico.com/es/sucesos/20261003/operacion-mossos-narcotrafico-girona-siete-detenidos-hachis-ocho-toneladas-134971586",
+    "pubDate": "2026-10-03 21:40:14",
+    "category": "",
+    "description": "<h2>Cuatro de los sospechosos han ingresado en prisión</h2><h2><a href=\"https://www.elperiodico.com/es/sucesos/20260728/seguimiento-narcotaxi-permite-desmantelar-red-internacional-hachis-132874770\">El seguimiento de un 'narcotaxi' permite desmantelar una red de traficantes de hachís en Badalona</a></h2>",
+    "topic": "марихуана",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Україна закриє дефіцит бюджету до кінця року",
+    "link": "https://ua.korrespondent.net/business/economics/4917060-ukraina-zakryie-defitsyt-buidzhetu-do-kintsia-roku",
+    "pubDate": "2026-10-03 21:40:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584775.jpg\">Україна планує повністю закрити дефіцит державного бюджету до кінця 2026 року. Частину залучених коштів хочуть спрямувати на закупівлю дронів для армії на початок 2027-го.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Tensión en Sol: Unas 400 personas de grupos de ultraderecha tratan de llegar a la acampada por la vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261003/400-personas-convocadas-indignados-espana-134971681",
+    "pubDate": "2026-10-03 21:39:20",
+    "category": "",
+    "description": "<h2>Los acampados de Sol se concentran a su vez con proclamas antifascistas, en una jornada de movilizaciones por la vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Registrado un terremoto de magnitud 3,1 frente a la costa catalana",
+    "link": "https://www.elperiodico.com/es/sociedad/20261003/registrado-terremoto-magnitud-3-1-134971428",
+    "pubDate": "2026-10-03 21:37:39",
+    "category": "",
+    "description": "<h2>El sismo se ha detectado en aguas del mar Mediterráneo a las 19:36 horas y no ha dejado daños materiales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Nations League | España - República Checa, en directo",
     "link": "https://www.elperiodico.com/es/deportes/20261003/nations-league-espana-republica-checa-134969766",
     "pubDate": "2026-10-03 21:24:25",

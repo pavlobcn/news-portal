@@ -1,8 +1,9 @@
-# News for 2026-10-03 21:34
+# News for 2026-10-03 22:12
 
 Previous day: [2026-10-02](./data/2026-10-02.md)
 
 ## ua.korrespondent.net
+21:58 [У РФ підірвали авто ката українських полонених](https://ua.korrespondent.net/world/russia/4917062-u-rf-pidirvaly-avto-kata-ukrainskykh-polonenykh)<br>
 21:21 [У Росії приховують масштабний спалах чуми - ЗМІ](https://ua.korrespondent.net/world/russia/4917054-u-rosii-prykhovuuit-masshtabnyi-spalakh-chumy-zmi)<br>
 20:06 [У Конго тестують новий препарат проти Еболи](https://ua.korrespondent.net/world/4917042-u-konho-testuuit-novyi-preparat-proty-eboly)<br>
 19:26 [У Києві готують резервні переправи через Дніпро](https://ua.korrespondent.net/city/kiev/4917035-u-kyievi-hotuuit-rezervni-perepravy-cherez-dnipro)<br>
@@ -32,6 +33,8 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 05:49 [Iñaki Martín: “Tengo un grupo impresionante, de soldados”](https://as.com/baloncesto/mas_baloncesto/inaki-martin-tengo-un-grupo-impresionante-de-soldados-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:47 [Llueve con intensidad en la Plaza Catalunya](https://www.elperiodico.com/es/videos/sociedad/llueve-intensidad-plaza-catalunya/134971769.shtml)<br>
+21:37 [Registrado un terremoto de magnitud 3,1 frente a la costa catalana](https://www.elperiodico.com/es/sociedad/20261003/registrado-terremoto-magnitud-3-1-134971428)<br>
 21:10 [Los acampados de Barcelona siguen en Plaça Catalunya pese a la alerta del minihuracán](https://www.elperiodico.com/es/videos/sociedad/acampados-barcelona-siguen-placa-catalunya/134971069.shtml)<br>
 20:37 [Rodalies y FGC suspenden todo el servicio a partir de les 20.00 horas](https://www.elperiodico.com/es/videos/sociedad/rodalies-fgc-suspenden-servicio-partir/134970205.shtml)<br>
 20:34 [La patronal del ocio nocturno denuncia “inseguridad jurídica” ante el cierre de discotecas por el temporal](https://www.elperiodico.com/es/barcelona/20261003/patronal-ocio-nocturno-denuncia-inseguridad-134968932)<br>
