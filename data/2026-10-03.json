@@ -1,0 +1,74 @@
+[
+  {
+    "title": "В РФ на військових навчаннях \"окупували\" сусідню центральноазійську країну",
+    "link": "https://ua.korrespondent.net/world/russia/4916926-v-rf-na-viiskovykh-navchanniakh-okupuvaly-susidnui-tsentralnoaziisku-krainu",
+    "pubDate": "2026-10-03 03:37:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583678.jpg\">\"Країною-агресором\", відповідно до сценарію, ймовірно, був Казахстан, адже він найбільше підходить під опис.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "В МЗС спростували новину про \"евакуацію посольств\"",
+    "link": "https://ua.korrespondent.net/ukraine/4916924-v-mzs-sprostuvaly-novynu-pro-evakuatsiui-posolstv",
+    "pubDate": "2026-10-03 02:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583639.jpg\">Спікер відомства заперечив інформацію про плани евакуації  послів у Львів чи Польщу, яку оприлюднила газета The Guardian.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "La acuicultura mira al futuro: pescado para todos",
+    "link": "https://www.elperiodico.com/es/sociedad/20261003/acuicultura-mira-futuro-pescado-bc-134869978",
+    "pubDate": "2026-10-03 01:59:17",
+    "category": "",
+    "description": "<h2>Fresco, con mayores controles sanitarios y generando riqueza y empleo local, el sector del cultivo de pescado en Catalunya reivindica su papel esencial para garantizar el suministro de la proteína azul a los hogares.</h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЄС висунув Україні умову щодо реформ - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4916918-yes-vysunuv-ukraini-umovu-schodo-reform-zmi",
+    "pubDate": "2026-10-03 01:57:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583598.jpg\">Брюссель наполягає, щоб Київ виконав умови, які відкриють доступ до близько 34 млрд євро вже цього року.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Росія вдарила по пожежній частині на Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4916916-rosiia-vdaryla-po-pozhezhnii-chastyni-na-zaporizhzhi",
+    "pubDate": "2026-10-03 01:38:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583559.jpg\">Російські воєнні злочинці цілеспрямовано вдарили по території пожежно-рятувального підрозділу, написали в ДСНС.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Український Mirage уперше збив Бандероль з авіагармати",
+    "link": "https://ua.korrespondent.net/world/worldabus/4916914-ukrainskyi-Mirage-upershe-zbyv-banderol-z-aviaharmaty",
+    "pubDate": "2026-10-03 00:58:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583539.jpg\">Снаряди для бортової гармати коштують значно дешевше за ракети \"повітря-повітря\", яких Україні поки що бракує.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Спільний фонд України та США уклав першу угоду",
+    "link": "https://ua.korrespondent.net/world/worldabus/4916912-spilnyi-fond-ukrainy-ta-ssha-uklav-pershu-uhodu",
+    "pubDate": "2026-10-03 00:42:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583519.jpg\">Фонд придбає частку в капіталі когенераційної платформи для виробництва тепла та електроенергії.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Italia se refuerza con un meritorio empate en la visita a la Francia de Zidane (1-1)",
+    "link": "https://www.elperiodico.com/es/deportes/20261003/italia-refuerza-meritorio-empate-visita-134947337",
+    "pubDate": "2026-10-03 00:04:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Olise adelantó a los 'bleus' en Saint Denis pero un error en la defensa aprovechado por Bastoni permitió igualar a la escuadra de Mancini.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  }
+]

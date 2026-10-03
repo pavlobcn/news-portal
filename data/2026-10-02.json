@@ -126,6 +126,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Колапс логістики. Закриття Південного мосту",
+    "link": "https://ua.korrespondent.net/ukraine/4916920-kolaps-lohistyky-zakryttia-pivdennoho-mostu",
+    "pubDate": "2026-10-02 22:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4583618.jpg\">Міст проєктувався під навантаження 5 -7 тонн на один вантажний автомобіль, а наразі інтенсивність руху по ньому сягає 80-100 тисяч автомобілів на добу.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
     "title": "Puigdemont tacha al PSOE de \"irresponsables\" y denuncia una campaña contra Junts",
     "link": "https://www.elperiodico.com/es/politica/20261002/puigdemont-tacha-psoe-irresponsables-denuncia-134946499",
     "pubDate": "2026-10-02 22:22:53",
@@ -549,6 +558,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "Вторгнення Росії в Україну. Онлайн",
+    "link": "https://ua.korrespondent.net/ukraine/politics/4449684-vtorhnennia-rosii-v-ukrainu-onlain",
+    "pubDate": "2026-10-02 19:33:00",
+    "category": "Новини політики",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/2748609.jpg\">Володимир Путін почав повномасштабну війну проти України 24 лютого 2022 року. Не зумівши \"взяти Київ за три дні\", він сконцентрувався на захопленні Донбасу та південних областей України.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Росіяни вдарили по багатоповерхівці у Дніпрі",
     "link": "https://ua.korrespondent.net/city/dnepr/4916865-rosiiany-vdaryly-po-bahatopoverkhivtsi-u-dnipri",
     "pubDate": "2026-10-02 19:30:00",
@@ -799,6 +817,15 @@
     "description": "<h2 class=\"item\">Colectivos ecologistas de hasta ocho países exigen a la Unión Europea la imposición de moratorias ante el impacto ambiental de los macrocentros de datos, que consumen grandes cantidades de energía y agua</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tecnologia/20260726/mapa-centros-datos-paises-mundo-espana-inteligencia-artificial-132677382\" target=\"_blank\">Mapa mundial de los centros de datos: ¿Qué país tiene más? ¿Cuántos hay en España?</a></h2>",
     "topic": "політика",
     "topic_match_probability": 70
+  },
+  {
+    "title": "Війна на Близькому Сході. Онлайн",
+    "link": "https://ua.korrespondent.net/world/4858866-viina-na-blyzkomu-skhodi-onlain",
+    "pubDate": "2026-10-02 17:54:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4473659.jpg\">США та Ізраїль проводять масштабну операцію проти Ірану. Тегеран у відповідь атакує військові об'єкти США майже у всіх країнах Перської затоки.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Японія розширила санкції проти РФ: під обмеження потрапили 35 суден",
