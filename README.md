@@ -1,4 +1,4 @@
-# News for 2026-10-03 09:40
+# News for 2026-10-03 10:19
 
 Previous day: [2026-10-02](./data/2026-10-02.md)
 
@@ -16,11 +16,16 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 03:58 [Чорноморський флот РФ готується до ударів - АТЕШ](https://ua.korrespondent.net/world/russia/4916928-chornomorskyi-flot-rf-hotuietsia-do-udariv-atesh)<br>
 
 ## as.com
+09:55 [La hora de Westermann](https://as.com/baloncesto/mas_baloncesto/la-hora-de-westermann-f202610-n/)<br>
 07:14 [El milagro de Joan Peñarroya](https://as.com/baloncesto/euroliga/el-milagro-de-joan-penarroya-f202610-n/)<br>
 05:49 [La Liga Femenina Endesa vuelve con todo](https://as.com/baloncesto/mas_baloncesto/la-liga-femenina-endesa-vuelve-con-todo-f202610-n/)<br>
 05:49 [Iñaki Martín: “Tengo un grupo impresionante, de soldados”](https://as.com/baloncesto/mas_baloncesto/inaki-martin-tengo-un-grupo-impresionante-de-soldados-f202610-n/)<br>
 
 ## www.elperiodico.com
+10:01 [La crisis de la vivienda convierte separarse en un lujo: "Comparto casa con mi ex porque no puedo pagarme un piso"](https://www.elperiodico.com/es/sociedad/20261003/crisis-vivienda-separarse-divorcio-lujo-compartir-piso-ex-no-puedo-pagar-piso-134941405)<br>
+10:01 [Las oficinas disponibles en Barcelona caen al 11,4% por el aumento de la demanda y el empuje del 22@](https://www.elperiodico.com/es/barcelona/20261003/disponibilidad-oficinas-barcelona-cae-11-empuje-contrataciones-22-134835493)<br>
+10:01 [120 años del naufragio del 'Sirio' tras hacer escala en Barcelona: el capitán huido, pasajeros a navajazos y el héroe contrabandista](https://www.elperiodico.com/es/barcelona/20261003/120-anos-naufragio-sirio-cartagena-escala-barcelona-134935887)<br>
+09:56 [Última hora de la alerta por lluvias en Catalunya y Valencia, en directo | Avisos de la Aemet y el Meteocat en Tarragona, Barcelona y Castellón](https://www.elperiodico.com/es/sociedad/20261003/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025)<br>
 09:35 [Ana Iglesias, madre de 10 hijos, sobre cómo logra ir a restaurantes sin recurrir a las pantallas: "No les hace ningún bien"](https://www.elperiodico.com/es/sociedad/20261003/ana-iglesias-madre-10-hijos-restaurantes-pantallas-moviles-dv-et-134933271)<br>
 09:10 [Victoria Camps, filósofa (85 años): "Tenemos una educación excesivamente amable. La educación implica una cierta coacción, porque significa dirigir a la persona, educarla e imponerle una serie de cosas"](https://www.elperiodico.com/es/educacion/20261003/victoria-camps-filosofa-85-anos-educacion-excesivamente-amable-dv-et-134879095)<br>
 09:06 [La Justicia avala denegar la incapacidad permanente a la directora de una clínica estética con pérdida de visión](https://www.elperiodico.com/es/economia/20261003/justicia-avala-denegar-incapacidad-permanente-directora-clinica-estetica-perdida-vision-dv-134950355)<br>
