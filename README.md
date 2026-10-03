@@ -1,8 +1,10 @@
-# News for 2026-10-03 18:49
+# News for 2026-10-03 19:35
 
 Previous day: [2026-10-02](./data/2026-10-02.md)
 
 ## ua.korrespondent.net
+19:26 [У Києві готують резервні переправи через Дніпро](https://ua.korrespondent.net/city/kiev/4917035-u-kyievi-hotuuit-rezervni-perepravy-cherez-dnipro)<br>
+19:07 [Греція повернула Болгарії останки легендарного царя](https://ua.korrespondent.net/world/4917032-hretsiia-povernula-bolharii-ostanky-lehendarnoho-tsaria)<br>
 14:47 [Україна залучила €50 млн на знищене житло](https://ua.korrespondent.net/business/financial/4916992-ukraina-zaluchyla-50-mln-na-znyschene-zhytlo)<br>
 13:42 [У Києві змінили правила руху мостами](https://ua.korrespondent.net/city/kiev/4916983-u-kyievi-zminyly-pravyla-rukhu-mostamy)<br>
 09:36 [На Полтавщині обмежили перебування цивільних в окремих районах](https://ua.korrespondent.net/ukraine/4916954-na-poltavschyni-obmezhyly-perebuvannia-tsyvilnykh-v-okremykh-raionakh)<br>
@@ -27,6 +29,8 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 05:49 [Iñaki Martín: “Tengo un grupo impresionante, de soldados”](https://as.com/baloncesto/mas_baloncesto/inaki-martin-tengo-un-grupo-impresionante-de-soldados-f202610-n/)<br>
 
 ## www.elperiodico.com
+19:01 [La mitad de los menores acogidos por Canarias en 2026 resultaron ser mayores de edad](https://www.elperiodico.com/es/sociedad/20261003/mitad-menores-acogidos-canarias-2026-134967406)<br>
+18:51 [El Gobierno envía un ES-Alert para avisar del riesgo de lluvias torrenciales y suspender actividades y movilidad](https://www.elperiodico.com/es/videos/politica/gobierno-envia-alert-avisar-riesgo/134967052.shtml)<br>
 18:44 [La lluvia obliga a cerrar algunos accesos al metro y el andén de la L3 en Liceu](https://www.elperiodico.com/es/videos/sociedad/lluvia-obliga-cerrar-accesos-metro/134966954.shtml)<br>
 18:41 [La alerta por lluvias obliga a suspender actividades culturales como el inicio de temporada del Liceu o la fiesta del Lliure](https://www.elperiodico.com/es/videos/sociedad/alerta-lluvias-obliga-suspender-actividades/134966729.shtml)<br>
 18:33 [TMB suspende el servicio nocturno de metro en Barcelona por el temporal: cerrará a medianoche y reabrirá a las 5.00 horas](https://www.elperiodico.com/es/trafico-y-transportes/20261003/metro-barcelona-temporal-altera-cierres-estaciones-andenes-134966292)<br>

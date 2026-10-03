@@ -1,5 +1,68 @@
 [
   {
+    "title": "У Києві готують резервні переправи через Дніпро",
+    "link": "https://ua.korrespondent.net/city/kiev/4917035-u-kyievi-hotuuit-rezervni-perepravy-cherez-dnipro",
+    "pubDate": "2026-10-03 19:26:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584640.jpg\">У Києві наступного тижня планують розпочати будівництво резервних переправ через Дніпро. Вони мають забезпечити рух у разі пошкодження наявних мостів.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Світоліна в Пекіні з камбеком іде на третє коло",
+    "link": "https://ua.korrespondent.net/sport/tenis/4917031-svitolina-v-pekini-z-kambekom-ide-na-tretie-kolo",
+    "pubDate": "2026-10-03 19:22:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584576.jpg\">Українка виграла два сети після поразки у першому і змогла пройти до третього кола змагань.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Греція повернула Болгарії останки легендарного царя",
+    "link": "https://ua.korrespondent.net/world/4917032-hretsiia-povernula-bolharii-ostanky-lehendarnoho-tsaria",
+    "pubDate": "2026-10-03 19:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584618.jpg\">Після десятиліть переговорів Греція передала Болгарії останки середньовічного царя Самуїла. У Софії їх зустріли військовим літаком із державними почестями.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cuestión de Estado: Sánchez y el factor sorpresa",
+    "link": "https://www.elperiodico.com/es/politica/20261003/cuestion-sanchez-factor-sorpresa-elecciones-134961833",
+    "pubDate": "2026-10-03 19:01:01",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La mitad de los menores acogidos por Canarias en 2026 resultaron ser mayores de edad",
+    "link": "https://www.elperiodico.com/es/sociedad/20261003/mitad-menores-acogidos-canarias-2026-134967406",
+    "pubDate": "2026-10-03 19:01:00",
+    "category": "",
+    "description": "<h2>De los 530 jóvenes declarados mayores de edad, 370, un 47%, habían sido trasladados previamente desde centros de adultos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Gobierno envía un ES-Alert para avisar del riesgo de lluvias torrenciales y suspender actividades y movilidad",
+    "link": "https://www.elperiodico.com/es/videos/politica/gobierno-envia-alert-avisar-riesgo/134967052.shtml",
+    "pubDate": "2026-10-03 18:51:09",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський: Україна битиме по НПЗ Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4917029-zelenskyi-ukraina-bytyme-po-npz-rosii",
+    "pubDate": "2026-10-03 18:48:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4584617.jpg\">Володимир Зеленський заявив, що Україна продовжить удари по російських нафтопереробних заводах у відповідь на атаки Москви по українській енергетиці.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La lluvia obliga a cerrar algunos accesos al metro y el andén de la L3 en Liceu",
     "link": "https://www.elperiodico.com/es/videos/sociedad/lluvia-obliga-cerrar-accesos-metro/134966954.shtml",
     "pubDate": "2026-10-03 18:44:42",
