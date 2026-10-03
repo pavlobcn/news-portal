@@ -1,8 +1,10 @@
-# News for 2026-10-03 19:35
+# News for 2026-10-03 21:34
 
 Previous day: [2026-10-02](./data/2026-10-02.md)
 
 ## ua.korrespondent.net
+21:21 [У Росії приховують масштабний спалах чуми - ЗМІ](https://ua.korrespondent.net/world/russia/4917054-u-rosii-prykhovuuit-masshtabnyi-spalakh-chumy-zmi)<br>
+20:06 [У Конго тестують новий препарат проти Еболи](https://ua.korrespondent.net/world/4917042-u-konho-testuuit-novyi-preparat-proty-eboly)<br>
 19:26 [У Києві готують резервні переправи через Дніпро](https://ua.korrespondent.net/city/kiev/4917035-u-kyievi-hotuuit-rezervni-perepravy-cherez-dnipro)<br>
 19:07 [Греція повернула Болгарії останки легендарного царя](https://ua.korrespondent.net/world/4917032-hretsiia-povernula-bolharii-ostanky-lehendarnoho-tsaria)<br>
 14:47 [Україна залучила €50 млн на знищене житло](https://ua.korrespondent.net/business/financial/4916992-ukraina-zaluchyla-50-mln-na-znyschene-zhytlo)<br>
@@ -21,6 +23,7 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 03:58 [Чорноморський флот РФ готується до ударів - АТЕШ](https://ua.korrespondent.net/world/russia/4916928-chornomorskyi-flot-rf-hotuietsia-do-udariv-atesh)<br>
 
 ## as.com
+19:01 [El culto a Zeljko Obradovic](https://as.com/baloncesto/euroliga/el-culto-a-zeljko-obradovic-f202610-n/)<br>
 17:01 [Aplazado el Joventut-Andorra de este sábado por el temporal](https://as.com/baloncesto/acb/aplazado-el-joventut-andorra-de-este-sabado-por-el-temporal-f202610-n/)<br>
 16:40 [¿Quién es Pau Torrens? El nuevo ‘recordman’ de la Liga U](https://as.com/baloncesto/mas_baloncesto/quien-es-pau-torrens-el-nuevo-recordman-de-la-liga-u-f202610-n/)<br>
 09:55 [La hora de Westermann](https://as.com/baloncesto/mas_baloncesto/la-hora-de-westermann-f202610-n/)<br>
@@ -29,6 +32,10 @@ Previous day: [2026-10-02](./data/2026-10-02.md)
 05:49 [Iñaki Martín: “Tengo un grupo impresionante, de soldados”](https://as.com/baloncesto/mas_baloncesto/inaki-martin-tengo-un-grupo-impresionante-de-soldados-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:10 [Los acampados de Barcelona siguen en Plaça Catalunya pese a la alerta del minihuracán](https://www.elperiodico.com/es/videos/sociedad/acampados-barcelona-siguen-placa-catalunya/134971069.shtml)<br>
+20:37 [Rodalies y FGC suspenden todo el servicio a partir de les 20.00 horas](https://www.elperiodico.com/es/videos/sociedad/rodalies-fgc-suspenden-servicio-partir/134970205.shtml)<br>
+20:34 [La patronal del ocio nocturno denuncia “inseguridad jurídica” ante el cierre de discotecas por el temporal](https://www.elperiodico.com/es/barcelona/20261003/patronal-ocio-nocturno-denuncia-inseguridad-134968932)<br>
+20:04 [Más de 200 vuelos cancelados y retrasos de más de cuatro horas en el aeropuerto de Barcelona por las tormentas](https://www.elperiodico.com/es/barcelona/20261003/vuelos-cancelados-retrasos-aeropuerto-barcelona-el-prat-tormentas-134968830)<br>
 19:01 [La mitad de los menores acogidos por Canarias en 2026 resultaron ser mayores de edad](https://www.elperiodico.com/es/sociedad/20261003/mitad-menores-acogidos-canarias-2026-134967406)<br>
 18:51 [El Gobierno envía un ES-Alert para avisar del riesgo de lluvias torrenciales y suspender actividades y movilidad](https://www.elperiodico.com/es/videos/politica/gobierno-envia-alert-avisar-riesgo/134967052.shtml)<br>
 18:44 [La lluvia obliga a cerrar algunos accesos al metro y el andén de la L3 en Liceu](https://www.elperiodico.com/es/videos/sociedad/lluvia-obliga-cerrar-accesos-metro/134966954.shtml)<br>
