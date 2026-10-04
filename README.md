@@ -1,8 +1,11 @@
-# News for 2026-10-04 22:31
+# News for 2026-10-04 23:30
 
 Previous day: [2026-10-03](./data/2026-10-03.md)
 
 ## ua.korrespondent.net
+23:21 [Напад на борту Flydubai: пілот розповів, куди планував скерувати літак](https://ua.korrespondent.net/world/4917234-napad-na-bortu-Flydubai-pilot-rozpoviv-kudy-planuvav-skeruvaty-litak)<br>
+22:50 [У Харкові БПЛА влучив у багатоповерхівку, є жертва](https://ua.korrespondent.net/city/kharkov/4917230-u-kharkovi-bpla-vluchyv-u-bahatopoverkhivku-ye-zhertva)<br>
+22:21 [У Києві запускають додаткові рейси електрички між правим та лівим берегами](https://ua.korrespondent.net/city/kiev/4917225-u-kyievi-zapuskauit-dodatkovi-reisy-elektrychky-mizh-pravym-ta-livym-berehamy)<br>
 20:03 [Під ударом мости Києва: Сибіга заявив про новий етап атак РФ](https://ua.korrespondent.net/ukraine/4917207-pid-udarom-mosty-kyieva-sybiha-zaiavyv-pro-novyi-etap-atak-rf)<br>
 16:59 [Свята 5 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4917179-sviata-5-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 15:59 [РФ повторно атакувала житловий сектор Сум, є постраждалі](https://ua.korrespondent.net/ukraine/4917171-rf-povtorno-atakuvala-zhytlovyi-sektor-sum-ye-postrazhdali)<br>
@@ -46,6 +49,7 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 07:07 [Aggelopoulos: “Se está discutiendo la abolición de la Euroliga”](https://as.com/baloncesto/euroliga/aggelopoulos-se-esta-discutiendo-la-abolicion-de-la-euroliga-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:58 [Los Castellers de Vilafranca vuelven a ganar el Concurs de Castells con un histórico 9 de 9 con folre y una actuación memorable](https://www.elperiodico.com/es/ocio-y-cultura/20261004/castellers-vilafranca-vuelven-ganar-concurs-135000738)<br>
 21:49 [El cansado Barça de Sekulic cae en Murcia y se deja el liderato](https://www.elperiodico.com/es/deportes/20261004/cansado-barca-sekulic-cae-murcia-134999569)<br>
 21:21 [El temporal deja dos muertos y graves daños en infraestructuras tras unas lluvias históricas en Catalunya](https://www.elperiodico.com/es/tiempo/20261004/temporal-deja-muertos-graves-danos-lluvias-historicas-catalunya-134995071)<br>
 20:30 [Alfonso Muñoz, funcionario de la Seguridad Social: "Cuando creas que está cercana tu edad de jubilación, pide cita presencial o telefónica"](https://www.elperiodico.com/es/economia/20261004/alfonso-munoz-funcionario-seguridad-social-edad-jubilacion-dv-134921384)<br>
