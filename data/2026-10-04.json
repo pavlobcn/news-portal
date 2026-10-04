@@ -1,5 +1,68 @@
 [
   {
+    "title": "Un tiroteo durante una fiesta vecinal en Georgia deja al menos dos muertos y 35 heridos",
+    "link": "https://www.elperiodico.com/es/politica/20261004/tiroteo-durante-fiesta-vecinal-georgia-134997826",
+    "pubDate": "2026-10-04 20:20:53",
+    "category": "",
+    "description": "<h2>De momento no hay información sobre sospechosos ni detenidos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Під ударом мости Києва: Сибіга заявив про новий етап атак РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4917207-pid-udarom-mosty-kyieva-sybiha-zaiavyv-pro-novyi-etap-atak-rf",
+    "pubDate": "2026-10-04 20:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586227.jpg\">За кілька останніх днів російські війська шість разів завдали ударів по двох мостах у Києві. Причому атаки відбувалися, коли мостами рухався цивільний транспорт і їх перетинали поїзди метро.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Colts ganan en Londres a unos Commanders lastrados por las lesiones (13-30)",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/colts-ganan-londres-commanders-lastrados-134997293",
+    "pubDate": "2026-10-04 20:01:34",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El 78% de los compradores pagaría más por una vivienda sostenible, pero no basta con poner placas solares",
+    "link": "https://www.elperiodico.com/es/economia/20261004/78-compradores-pagaria-mas-vivienda-sostenible-no-basta-placas-solares-134992439",
+    "pubDate": "2026-10-04 20:00:32",
+    "category": "",
+    "description": "<h2>Aislamiento, ventanas, materiales, consumo de agua y confort son algunos de los factores que determinan la sostenibilidad real de un inmueble.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Claudia Pina, futbolista del Barça: \"El mejor club del mundo no está jugando en la liga más competitiva\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/claudia-pina-futbolista-barca-mejor-134886673",
+    "pubDate": "2026-10-04 20:00:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20260930/claudia-pina-graham-hansen-mandan-134855267\">Claudia Pina y Graham Hansen catapultan al Barça en Roma (0-6)</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Fabián, padre de Bertín, su primer hijo, será baja en el Croacia-España",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/fabian-padre-bertin-primer-hijo-134997284",
+    "pubDate": "2026-10-04 19:57:51",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Mbappé desafía las advertencias de Mourinho: \"Si te caes de la bici, te puedes perder tres partidos o partir una pierna\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/mbappe-desafia-advertencias-mourinho-real-madrid-134997129",
+    "pubDate": "2026-10-04 19:50:05",
+    "category": "",
+    "description": "<h2>El francés cuelga una foto en bicicleta estando lesionado mientras el portugués señala: \"No me importan tanto los contratos, sino la imagen que das\"</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "UCAM Murcia - Barcelona, en directo: Liga Endesa de baloncesto 2026-27 en vivo hoy",
     "link": "https://as.com/baloncesto/acb/ucam-murcia-barcelona-en-directo-liga-endesa-de-baloncesto-2026-27-en-vivo-hoy-f202610-d/",
     "pubDate": "2026-10-04 19:43:35",
@@ -1582,6 +1645,15 @@
     "description": "",
     "topic": "політика",
     "topic_match_probability": 85
+  },
+  {
+    "title": "Catalunya pierde la mitad de sus aves acuáticas invernantes en 15 años: \"Es un drama para la biodiversidad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261004/cataluna-pierde-mitad-aves-migratorias-mundo-declive-extincion-134927747",
+    "pubDate": "2026-10-04 07:01:16",
+    "category": "",
+    "description": "<h2 class=\"item\">Casi la mitad de las especies que registran mayor declive son cinegéticas y se sigue permitiendo su caza</h2><h2 class=\"item\"><atarget=\"_blank\">La presencia de tres aves insólitas pone en cuestión la temporada de caza en el delta del Ebro</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Barcelona encara la final decisiva para ser sede del congreso espacial más importante del mundo en 2029",
