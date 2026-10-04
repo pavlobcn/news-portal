@@ -1,4 +1,4 @@
-# News for 2026-10-04 23:30
+# News for 2026-10-05 01:31
 
 Previous day: [2026-10-03](./data/2026-10-03.md)
 
@@ -49,7 +49,9 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 07:07 [Aggelopoulos: “Se está discutiendo la abolición de la Euroliga”](https://as.com/baloncesto/euroliga/aggelopoulos-se-esta-discutiendo-la-abolicion-de-la-euroliga-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:59 [Rodalies, a medio gas tras las lluvias: el lunes empieza con cortes en la R1, la R2Nord, la R3, la R4, la R7 y la R8](https://www.elperiodico.com/es/sociedad/20261004/rodalies-recupera-lluvias-servicio-retoma-cortes-r1-r2-r3-r4-r7-r8-135001063)<br>
 22:58 [Los Castellers de Vilafranca vuelven a ganar el Concurs de Castells con un histórico 9 de 9 con folre y una actuación memorable](https://www.elperiodico.com/es/ocio-y-cultura/20261004/castellers-vilafranca-vuelven-ganar-concurs-135000738)<br>
+22:58 [Los Castellers de Vilafranca vuelven a coronarse reyes de los castells en el mejor Concurs de la historia](https://www.elperiodico.com/es/tarragona/20261004/castellers-vilafranca-reyes-mejor-concurs-castells-tarragona-historia-135000738)<br>
 21:49 [El cansado Barça de Sekulic cae en Murcia y se deja el liderato](https://www.elperiodico.com/es/deportes/20261004/cansado-barca-sekulic-cae-murcia-134999569)<br>
 21:21 [El temporal deja dos muertos y graves daños en infraestructuras tras unas lluvias históricas en Catalunya](https://www.elperiodico.com/es/tiempo/20261004/temporal-deja-muertos-graves-danos-lluvias-historicas-catalunya-134995071)<br>
 20:30 [Alfonso Muñoz, funcionario de la Seguridad Social: "Cuando creas que está cercana tu edad de jubilación, pide cita presencial o telefónica"](https://www.elperiodico.com/es/economia/20261004/alfonso-munoz-funcionario-seguridad-social-edad-jubilacion-dv-134921384)<br>
