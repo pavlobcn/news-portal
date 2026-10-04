@@ -1,5 +1,122 @@
 [
   {
+    "title": "El Real Madrid de Pedro Martínez no mejora y solo sobrevive ante el Obradoiro",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/real-madrid-pedro-martinez-mejora-134990438",
+    "pubDate": "2026-10-04 16:23:39",
+    "category": "",
+    "description": "<h2>El equipo blanco se impuso en la prórroga tras otra puesta en escena muy mala (107-114)</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Siguen las manifestaciones por la vivienda en más ciudades de España con una huelga general en el horizonte",
+    "link": "https://www.elperiodico.com/es/economia/20261004/siguen-manifestaciones-vivienda-ciudades-espana-134990789",
+    "pubDate": "2026-10-04 16:21:44",
+    "category": "",
+    "description": "<h2>Las calles de Bilbao, Oviedo, Almería, Badajoz, Salamanca y Cuenca han recogido este domingo el testigo de las multitudinarias manifestaciones convocadas por el Sindicato de Inquilinas para reclamar soluciones a la actual crisis de vivienda en España</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El San Pablo Burgos frustra el 25 aniversario del Barris Nord",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/san-pablo-burgos-frustra-25-134990441",
+    "pubDate": "2026-10-04 16:20:19",
+    "category": "",
+    "description": "<h2>El equipo manchego se impuso a los locales (81-94) en un partido decidido en la recta final</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nazareth Castellanos, neurocientífica, sobre la multitarea: \"Consume muchísimos recursos neuronales, por tanto, nos genera una gran sensación de cansancio. Esa fatiga está detrás de ese estado anímico de insatisfacción que nos deja\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261004/multitarea-atencion-nazareth-castellanos-neurocientifica-dv-et-134835785",
+    "pubDate": "2026-10-04 16:20:00",
+    "category": "",
+    "description": "<h2>Fragmentar la atención aumenta el cansancio mental y deteriora la memoria</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20240302/perdida-capacidad-atencion-adultos-tecnologia-moviles-resultados-pisa-98811536\" >El informe PISA alerta ante la caída de la atención: los expertos recuerdan que solo aguantamos 45 segundos en una misma pantalla</a></h2><h2><a href=\"https://www.elperiodico.com/es/ser-feliz/20260530/neurociencia-nazareth-castellanos-vemos-cosas-como-somos-dv-130446776\" >La neurocientífica Nazareth Castellanos: \"No vemos las cosas como son, sino como somos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El oro olímpico finlandés Iivo Niskanen, operado de un cáncer de piel",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/oro-olimpico-finlandes-iivo-niskanen-134990443",
+    "pubDate": "2026-10-04 16:16:22",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Immobile, sobre su adiós al fútbol: \"Era un Rolls Royce que ya no corría\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/immobile-adios-futbol-rolls-royce-134990456",
+    "pubDate": "2026-10-04 16:14:25",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Messi se despide de Argentina como dueño de una colección de récords",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/messi-despide-argentina-dueno-coleccion-134990457",
+    "pubDate": "2026-10-04 16:11:11",
+    "category": "",
+    "description": "<h2>El delantero se despedirá de la Albiceleste la madrugada del miércoles en un amistoso ante Benín</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Cavaliers conquistan Málaga y el Carpena",
+    "link": "https://as.com/baloncesto/los-cavaliers-conquistan-malaga-y-el-carpena-f202610-n/",
+    "pubDate": "2026-10-04 16:01:02",
+    "category": "NBA",
+    "description": "Casi 10.000 aficionados disfrutan de Harden, Mitchell y compañía en el cierre de una semana histórica para el baloncesto malagueño. Hezonja, de lo más destacado en ese partido de entrenamiento.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ повторно атакувала житловий сектор Сум, є постраждалі",
+    "link": "https://ua.korrespondent.net/ukraine/4917171-rf-povtorno-atakuvala-zhytlovyi-sektor-sum-ye-postrazhdali",
+    "pubDate": "2026-10-04 15:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585942.jpg\">Окупанти скинули на місто шість КАБів, влучивши у двох районах. Шестеро постраждалих, а загалом за день поранень зазнали щонайменше 19 людей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Persecución de vecinos y Policía Local a un hombre con un machete en Vigo",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/persecucion-vecinos-policia-local-hombre-machete-vigo/134989959.shtml",
+    "pubDate": "2026-10-04 15:40:41",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El mar en Sant Antoni de Calonge se tiñe de negro por las cenizas del incendio de las Gavarres del verano pasado",
+    "link": "https://www.elperiodico.com/es/sociedad/20261004/mar-sant-antoni-calonge-tine-negro-ceniza-incendio-gavarres-134989581",
+    "pubDate": "2026-10-04 15:35:29",
+    "category": "",
+    "description": "<h2>Las fuertes lluvias han arrastrado sedimentos y restos de la zona quemada hasta el litoral en plena jornada de temporal</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "На аеродромі в Адигеї уражено Су-35 та Су-34 - СБУ",
+    "link": "https://ua.korrespondent.net/world/russia/4917169-na-aerodromi-v-adyhei-urazheno-su-35-ta-su-34-sbu",
+    "pubDate": "2026-10-04 15:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585921.png\">Служба безпеки України заявила про ураження двох російських бойових літаків - Су-35 та Су-34 - на військовому аеродромі Ханська в Адигеї. Обидва типи літаків РФ використовує, зокрема, як носії КАБ.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Verge da la primera victoria para el Leyma Coruña",
+    "link": "https://as.com/baloncesto/acb/verge-da-la-primera-victoria-para-el-leyma-coruna-f202610-n/",
+    "pubDate": "2026-10-04 15:25:55",
+    "category": "Baloncesto",
+    "description": "Anotó 29 puntos y rompió con un brillante último cuarto un partido muy igualado que acabó en prórroga. Fue el regreso de A Coruña a la Liga Endesa.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Obradoiro - Real Madrid, en directo: Liga Endesa de baloncesto 2025-26 en vivo hoy",
     "link": "https://as.com/baloncesto/acb/obradoiro-real-madrid-en-directo-liga-endesa-de-baloncesto-2025-26-en-vivo-hoy-f202610-d/",
     "pubDate": "2026-10-04 15:21:35",
