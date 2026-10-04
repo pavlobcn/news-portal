@@ -1,5 +1,356 @@
 [
   {
+    "title": "UCAM Murcia - Barcelona, en directo: Liga Endesa de baloncesto 2026-27 en vivo hoy",
+    "link": "https://as.com/baloncesto/acb/ucam-murcia-barcelona-en-directo-liga-endesa-de-baloncesto-2026-27-en-vivo-hoy-f202610-d/",
+    "pubDate": "2026-10-04 19:43:35",
+    "category": "Baloncesto",
+    "description": "Sigue la retransmisión en directo de la segunda jornada de la Liga Endesa de baloncesto entre el UCAM Murcia y el Barça; hoy, a las 19:00, en As.com.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Déjà vu, sin Pau Romeva",
+    "link": "https://www.elperiodico.com/es/opinion/20261004/deja-vu-pau-romeva-134996144",
+    "pubDate": "2026-10-04 19:38:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ влучила в енергооб’єкт на Полтавщині: 22 тисячі абонентів без світла",
+    "link": "https://ua.korrespondent.net/ukraine/4917204-rf-vluchyla-v-enerhoobiekt-na-poltavschyni-22-tysiachi-abonentiv-bez-svitla",
+    "pubDate": "2026-10-04 19:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586186.jpg\">Російський безпілотник атакував енергетичний об’єкт на Полтавщині, спричинивши масштабне відключення електроенергії. Попередньо, без постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Shorts y Mirotic marcan el camino de Valencia Basket en Zaragoza",
+    "link": "https://as.com/baloncesto/acb/shorts-y-mirotic-marcan-el-camino-de-valencia-basket-en-zaragoza-f202610-n/",
+    "pubDate": "2026-10-04 19:26:01",
+    "category": "Valencia Basket Club",
+    "description": "El último cuarto (15-31) fue clave para la victoria taronja. Jaworski fue el máximo anotador del partido.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Zelenski y Merz cierran varios acuerdos y paquetes de ayuda a Kiev por valor de más de 8.500 millones",
+    "link": "https://www.elperiodico.com/es/internacional/20261004/zelenski-merz-acuerdos-ayuda-ucrania-8500-millones-interceptores-134996394",
+    "pubDate": "2026-10-04 19:22:03",
+    "category": "",
+    "description": "<h2>Ucrania cierra un memorando de cooperación con la empresa alemana Diehl Defence para adquirir miles de misiles interceptores</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський розповів про наступальні операції ЗСУ",
+    "link": "https://ua.korrespondent.net/ukraine/4917201-zelenskyi-rozpoviv-pro-nastupalni-operatsii-zsu",
+    "pubDate": "2026-10-04 19:16:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586184.jpg\">Сили оборони України провели дві успішні наступальні операції, одна з них була тривалою та охоплювала понад 700 км.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Escenas de la tormenta a su paso por Badajoz",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/escenas-tormenta-paso-badajoz/134995631.shtml",
+    "pubDate": "2026-10-04 18:55:26",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "РФ ударила FPV-дронами по Запорізькому району: є загиблі та поранені",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4917193-rf-udaryla-FPV-dronamy-po-zaporizkomu-raionu-ye-zahybli-ta-poraneni",
+    "pubDate": "2026-10-04 18:48:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586135.jpg\">За дві години російські дрони забрали два життя та скалічили ще два. Один із безпілотників атакував територію садового товариства в Кушугумі, інший - вантажівку в Новостепнянському.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Imágenes aéreas muestran el impacto de las lluvias y las inundaciones en Cataluña",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/imagenes-aereas-muestran-impacto-lluvias-inundaciones-cataluna/134995412.shtml",
+    "pubDate": "2026-10-04 18:46:31",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Policía de Brasil investiga una posible injerencia de EEUU en las elecciones",
+    "link": "https://www.elperiodico.com/es/internacional/20261004/policia-brasil-investiga-posible-injerencia-134995349",
+    "pubDate": "2026-10-04 18:44:27",
+    "category": "",
+    "description": "<h2>El director general de la Policía Federal de Brasil, Andrei Rodrigues, confirma la apertura de diligencias sobre el supuesto desvío de un millón de dólares estadounidenses destinados a programas judiciales</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Зеленський назвав ракетний запас Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4917191-zelenskyi-nazvav-raketnyi-zapas-rosii",
+    "pubDate": "2026-10-04 18:29:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586112.jpeg\">За даними української розвідки, у запасах РФ залишається близько 700 балістичних ракет, а щомісяця виробляється ще до 140 таких боєприпасів.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Trump pone al director del espionaje al frente de sus políticas hacia la IA tras permitir a la industria que se autoregule",
+    "link": "https://www.elperiodico.com/es/internacional/20261004/trump-nombra-jau-clayton-zar-ia-espionaje-industria-autoregulacion-134994547",
+    "pubDate": "2026-10-04 18:22:49",
+    "category": "",
+    "description": "<h2>El nombramiento de Jay Clayton servirá también para garantizar que el aparato de seguridad de EEUU tiene voz en el desarrollo de la nueva teconología</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "DeepState: війська РФ окупували село на Донеччині",
+    "link": "https://ua.korrespondent.net/ukraine/4917188-DeepState-viiska-rf-okupuvaly-selo-na-donechchyni",
+    "pubDate": "2026-10-04 18:06:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586091.jpg\">Російські окупаційні війська продовжують просування на Донеччині. За даними DeepState, ворог захопив Іванівку та просунувся у Новому Шаховому.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Evenepoel se convierte en campeón de Europa por la ‘foto finish’",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/evenepoel-convierte-campeon-europa-foto-finish-134993803",
+    "pubDate": "2026-10-04 18:02:10",
+    "category": "",
+    "description": "<h2 class=\"item\">Los jueces interpretaron que el corredor flamenco superó por milímetros a Giulio Ciccone en un final incierto en Eslovenia con Tadej Pogacar entre los espectadores.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Alerta si se te cae mucho el pelo en otoño: los dermatólogos explican cuándo deberías preocuparte",
+    "link": "https://www.elperiodico.com/es/salud/20261004/alerta-cae-pelo-otono-dermatologos-dv-et-134884890",
+    "pubDate": "2026-10-04 18:00:58",
+    "category": "",
+    "description": "<h2 class=\"item\">La caída del pelo puede aumentar después del verano, pero una pérdida de densidad o una caída muy intensa pueden tener otras causas</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20260308/espana-pais-mas-calvos-mundo-alopecia-127531450\">España, el país con mayor porcentaje de calvos del mundo: casi la mitad de hombres sufren alopecia</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dos detenidos por el linchamiento a un policía en las protestas estudiantiles en Francia",
+    "link": "https://www.elperiodico.com/es/sociedad/20261004/detenidos-linchamiento-policia-protestas-estudiantiles-134993519",
+    "pubDate": "2026-10-04 17:45:03",
+    "category": "",
+    "description": "<h2>Uno de los implicados interpuso este domingo una denuncia por intento de homicidio contra el agente agredido</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Zidane, sobre Cristiano Ronaldo: \"Me hizo ganar cosas increíbles, me quito el sombrero\"",
+    "link": "https://www.elperiodico.com/es/videos/deportes/zidane-cristiano-ronaldo-quito-sombrero/134993460.shtml",
+    "pubDate": "2026-10-04 17:44:05",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві впав ворожий дрон із нездетонованим боєприпасом",
+    "link": "https://ua.korrespondent.net/city/kiev/4917186-u-kyievi-vpav-vorozhyi-dron-iz-nezdetonovanym-boieprypasom",
+    "pubDate": "2026-10-04 17:41:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586070.jpg\">У Києві зафіксували ще одне падіння російського безпілотника. В Оболонському районі БпЛА впав із нездетонованою бойовою частиною.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "¿Gasta más un coche con las ventanillas bajadas o con el aire acondicionado?",
+    "link": "https://www.elperiodico.com/es/motor/20261004/gasta-coche-ventanillas-bajadas-o-aire-acondicionado-134749432",
+    "pubDate": "2026-10-04 17:30:50",
+    "category": "",
+    "description": "<h2>La respuesta depende de la velocidad a la que circules, pero hay una de las dos opciones que puede aumentar el consumo más de lo que muchos conductores imaginan</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Mi pizzería italiana favorita\": los elogios al mejor restaurante de Rubí, según Tripadvisor",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261004/elogios-mejor-restaurante-rubi-dv-loc-113284875",
+    "pubDate": "2026-10-04 17:30:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/cata-mayor/20250110/bar-rubi-aclamado-patatas-bravas-delicia-dv-loc-113277958\" >El bar de Rubí aclamado por sus patatas bravas</a></h2><h2><a href=\"https://www.elperiodico.com/es/rubi/20241227/rubi-mejores-restaurantes-tripadvisor-dv-111396138\" >Los 5 mejores restaurantes de Rubí según Tripadvisor</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Криму заявили про пожежі на двох великих СЕС",
+    "link": "https://ua.korrespondent.net/world/russia/4917183-u-krymu-zaiavyly-pro-pozhezhi-na-dvokh-velykykh-ses",
+    "pubDate": "2026-10-04 17:19:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586041.jpg\">У різних районах окупованого Криму спалахнули пожежі на двох сонячних електростанціях. Йдеться про СЕС Миколаївка поблизу Сімферополя та Охотникове у Сакському районі.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Manuel Viso (54 años), médico experto en nutrición, sobre cenar siempre yogur y fruta: \"Yo no lo haría\"",
+    "link": "https://www.elperiodico.com/es/salud/20261004/cena-yogur-y-fruta-manuel-viso-medico-buena-alimentacion-dv-et-134687755",
+    "pubDate": "2026-10-04 17:17:09",
+    "category": "",
+    "description": "<h2 class=\"item\"> El especialista destaca \"que lo que hacemos todos los días importa muchísimo más que lo que hacemos de vez en cuando\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260614/melisa-gomez-nutricionista-relajate-hijo-come-pizza-congelado-brocoli-131291741\">Melisa Gómez, nutricionista: “Relájate, no pasa nada porque tu hijo cene una noche pizza congelada”</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La psicóloga Lara Ferreiro, sobre las relaciones de pareja: \"A veces, el desprecio no aparece en forma de gritos o insultos; puede esconderse en gestos pequeños, bromas...\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261004/red-flag-pareja-microdesprecios-alerta-psicologa-lara-ferreiro-dv-et-134516041",
+    "pubDate": "2026-10-04 17:15:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La experta recomienda prestar atención a los \"microdesprecios\" y a la frecuencia con la que aparecen</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260902/lara-ferreiro-senales-relacion-sobrevive-feliz-psicologia-dv-et-133634762\" >Lara Ferreiro, psicóloga, desvela las 5 señales de que tu relación está en decadencia: \"Si solo estás sobreviviendo, quizá ha llegado el momento de preguntarte qué necesitas para volver a sentirte vivo dentro de ella\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ser-feliz/20260816/psicologa-relaciones-pareja-toxica-adiccion-drogas-lara-ferreiro-dv-119673831\" >Lara Ferreiro, psicóloga, sobre las relaciones tóxicas: \"Tu cerebro funciona exactamente igual que como si fueras un adicto a la cocaína\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Unos 60 detenidos en Moscú en un acto comunista que desembocó en una protesta antigubernamental",
+    "link": "https://www.elperiodico.com/es/internacional/20261004/60-detenidos-moscu-acto-comunista-134992160",
+    "pubDate": "2026-10-04 17:11:55",
+    "category": "",
+    "description": "<h2>El Partido Comunista de Rusia convocó el acto con motivo del aniversario del bombardeo del Parlamento en 1993, donde los asistentes denunciaron irregularidades en las recientes elecciones parlamentarias</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La empresa de EEUU Lockheed Martin busca ampliar su cooperación con Marruecos en la industria de la defensa",
+    "link": "https://www.elperiodico.com/es/politica/20261004/empresa-eeuu-lockheed-martin-busca-134992125",
+    "pubDate": "2026-10-04 17:08:40",
+    "category": "",
+    "description": "<h2>La firma estadounidense pretende incorporar empresas marroquíes en su cadena de suministro y explorar oportunidades de colaboración en futuros programas de defensa</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las lluvias torrenciales desbordan la riera de Pineda de Mar",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/lluvias-torrenciales-desbordan-riera-pineda-134991830",
+    "pubDate": "2026-10-04 17:04:46",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Suspendido el Atlético Unión Güímar - Sporting de Hortaleza de Copa tras ser apedreado el autobús visitante",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/suspendido-atletico-union-guimar-sporting-134991864",
+    "pubDate": "2026-10-04 17:04:37",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cruz Roja atiende a más de 2.000 personas que pasaron la noche en la estación de Sants",
+    "link": "https://www.elperiodico.com/es/tiempo/20261004/cruz-roja-atiende-2-000-personas-sants-134991582",
+    "pubDate": "2026-10-04 17:01:38",
+    "category": "",
+    "description": "<h2>Cruz Roja ha atendido a 4.036 personas afectadas por el temporal en siete municipios</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261004/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Última hora de la alerta por lluvias en Catalunya, en directo | Avisos rojos de la Aemet y el Meteocat este sábado</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jenny, madre viuda: “Te sientes soportando la bola del mundo con tus dos manos y que no se caiga”",
+    "link": "https://www.elperiodico.com/es/sociedad/20261004/jenny-madre-viuda-sientes-soportando-134887208",
+    "pubDate": "2026-10-04 17:00:19",
+    "category": "",
+    "description": "<h2>Hoy hablamos con tres madres que han llegado a la maternidad en solitario por caminos muy distintos, y que nos explican qué supone sostener una familia sin pareja: del duelo y la falta de conciliación a la necesidad de recuperar las redes de apoyo</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260927/abi-sisquella-psicologa-infantil-hay-134561144\">Abi Sisquella, psicóloga infantil: “Hay que entender por qué un niño quiere dejar una extraescolar antes de tomar una decisión\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Свята 5 жовтня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4917179-sviata-5-zhovtnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-10-04 16:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585993.jpg\">Церква сьогодні, як і зазвичай, застерігає від сварок, лайки та осуду, не підтримує злоби, помсти, заздрості та відмови в допомозі ближньому.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський зробив заяву про тристоронню зустріч",
+    "link": "https://ua.korrespondent.net/ukraine/4917181-zelenskyi-zrobyv-zaiavu-pro-trystoronnui-zustrich",
+    "pubDate": "2026-10-04 16:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586015.jpg\">Київ погодився на запропоновану США тристоронню технічну зустріч із РФ. За словами Зеленського, переговори можуть відбутися в ОАЕ або іншій країні, яку запропонує американська сторона.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Efectos del cambio climático: así es cómo el calor acumulado en el Mediterráneo ha alimentado el violento temporal que ha sacudido Catalunya",
+    "link": "https://www.elperiodico.com/es/sociedad/20261004/cambio-climatico-calor-mediterraneo-impacto-temporal-cataluna-explicacion-134989885",
+    "pubDate": "2026-10-04 16:50:50",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260926/nino-intensidad-previsiones-sequias-lluvias-torrenciales-inundaciones-134684053\" >El Niño cobra fuerza y ya se perfila como el más intenso desde 1950: medio mundo en riesgo de inundaciones, y el otro, de sequías</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261001/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo: previsión del tiempo del Meteocat y zonas afectadas por el INUNCAT</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La cancelación de trenes colapsa la estación de Sants",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/cancelacion-trenes-colapsa-estacion-sants-134991476",
+    "pubDate": "2026-10-04 16:47:12",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Pedro Martínez: “Nos faltó más contundencia defensiva para evitar sus parciales”",
+    "link": "https://as.com/baloncesto/acb/pedro-martinez-nos-falto-mas-contundencia-defensiva-para-evitar-sus-parciales-f202610-n/",
+    "pubDate": "2026-10-04 16:44:35",
+    "category": "Baloncesto",
+    "description": "El entrenador del Real Madrid valora la victoria de su equipo ante el Obradoiro en la 2ª jornada de la Liga Endesa 2026-27.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marta López (32 años), psicóloga, deja Catalunya para vivir en una autocaravana en Canarias: \"Estamos viviendo unos ritmos bastante insostenibles. La ansiedad y la depresión están a la orden del día\"",
+    "link": "https://www.elperiodico.com/es/economia/20261004/psicologa-barcelona-autocaravana-canarias-libertad-depresion-ansiedad-marta-lopez-dv-et-134868517",
+    "pubDate": "2026-10-04 16:38:12",
+    "category": "",
+    "description": "<h2>La experta explica por qué decide dejarlo todo atrás:  \"A veces, sentimos que nos queda mucho tiempo y vamos dejando algunas cosas para más adelante, pero no debería ser así\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260819/autocaravana-autosuficiente-viajes-europa-sin-facturas-matrimonio-maribel-vicente-dv-et-133242401\">Maribel y Vicente, la pareja que lleva más de 5 años viviendo en 10 m² sin pagar facturas: \"Esta idea nació para escaparnos de las rutinas, escaparnos de todo y vivir un poquito el tema de naturaleza\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260831/dejaron-barcelona-vivir-furgoneta-3-metros-cuadrados-islas-canarias-toni-sara-dv-et-133620927\">Toni y Sara dejaron Barcelona para vivir en una furgoneta de 3 m² y recorrer las Islas Canarias: \"Tienes que tener en cuenta que todo se acaba más rápido. Nos gastamos, tirando a la alta, unos 150 euros a la semana entre los dos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Djokovic gana a Zverev y supera el récord de Nadal con su victoria número 32 sin derrotas en Pekín",
+    "link": "https://www.elperiodico.com/es/deportes/20261004/djokovic-gana-zverev-supera-record-134990434",
+    "pubDate": "2026-10-04 16:30:17",
+    "category": "",
+    "description": "<h2>El serbio derrotó al alemán por 4-6, 6-4 y 6-4 para avanzar a semifinales del Abierto de Chin a</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Más de 500 globos aerostáticos llenan de color el cielo de Albuquerque",
+    "link": "https://www.elperiodico.com/es/videos/internacional/500-globos-aerostaticos-llenan-color-cielo/134990932.shtml",
+    "pubDate": "2026-10-04 16:27:31",
+    "category": "",
+    "description": "Este festival internacional en Nuevo México es la mayor cita de este tipo en el mundo con más de 500 participantes",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Іран заявив США про сім умов для відкриття Ормузької протоки",
+    "link": "https://ua.korrespondent.net/world/4917174-iran-zaiavyv-ssha-pro-sim-umov-dlia-vidkryttia-ormuzkoi-protoky",
+    "pubDate": "2026-10-04 16:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585967.jpg\">Спікер парламенту Ірану Мохаммад Галібаф заявив, що рух через стратегічний водний шлях не відновлять до виконання вимог, сформульованих на основі домовленостей зі США.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Гороскоп на 5 жовтня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4917166-horoskop-na-5-zhovtnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-10-04 16:25:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585879.jpg\">День добре підходить для справ, де потрібні впевненість, послідовність і здатність довести задум до результату.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Real Madrid de Pedro Martínez no mejora y solo sobrevive ante el Obradoiro",
     "link": "https://www.elperiodico.com/es/deportes/20261004/real-madrid-pedro-martinez-mejora-134990438",
     "pubDate": "2026-10-04 16:23:39",
@@ -558,6 +909,24 @@
     "topic_match_probability": 90
   },
   {
+    "title": "España, acusada en ámbitos occidentales de defensa por su exposición a la influencia china",
+    "link": "https://www.elperiodico.com/es/politica/20261004/espana-acusada-ambitos-occidentales-defensa-acercamiento-china-134944343",
+    "pubDate": "2026-10-04 12:00:42",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Un informe geopolítico británico advierte de que, a más dependencia de la inversión de Pekín, más difícil es tomar precauciones de seguridad</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Alexandra Prokopenko, investigadora del Centro Carnegie: \"Putin ha destruido todas las instituciones que podían hacerle de contrapeso en la guerra\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261004/alexandra-prokopenko-investigadora-centro-carnegie-putin-destruido-instituciones-contrapeso-guerra-134981510",
+    "pubDate": "2026-10-04 12:00:42",
+    "category": "",
+    "description": "<h2>Esta experta en la élite rusa sostiene que el líder del Kremlin ha creado un sistema político tóxico donde solo se valora la lealtad y en el que únicamente prosperan y sobreviven los oportunistas que renuncian a cualquier principio para satisfacer a sus superiores</h2><h2>La principal diferencia de la Rusia de Putin y la URSS, según Prokopenko, es que en la era soviética el partido comunista limitaba el margen de acción del KGB, mientras que en la actualidad no existe ningún control sobre los servicios secretos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "¿Es el PP antifrancés?",
     "link": "https://www.elperiodico.com/es/opinion/20261004/pp-francia-tratado-de-amistad-razones-134938953",
     "pubDate": "2026-10-04 12:00:41",
@@ -995,6 +1364,15 @@
     "pubDate": "2026-10-04 08:15:00",
     "category": "",
     "description": "<h2>La joven dedica su tiempo a aprender: \"Como yo me enamoré de un agricultor, he ido aprendiendo poco a poco el oficio\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260912/espanola-27-anos-vivir-campo-animales-cosecha-huerto-autosuficiencia-dv-et-133848743\">Una española de 27 años lo deja todo para vivir en el campo y criar a su bebé junto a los animales: \"Este proyecto está destinado a ser lo más autosuficiente posible\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260823/sandra-dejo-vivir-ciudad-pueblo-100-habitantes-perro-tranquilidad-dv-et-133367782\">Sandra (27 años) lo dejó todo para vivir en un pueblo de 100 habitantes: \"El dinero para mí no vale nada si para conseguirlo pierdes totalmente tu tiempo, tu libertad y si pones en riesgo tu salud\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los trenes de Rodalies no circularán este domingo hasta que la situación se normalice por completo",
+    "link": "https://www.elperiodico.com/es/sociedad/20261004/trenes-rodalies-cortados-domingo-lluvias-134975703",
+    "pubDate": "2026-10-04 08:14:36",
+    "category": "",
+    "description": "<h2>Renfe informa de que los único servicios que se siguen prestando son los de las líneas RL3, RL4 y R16, en Lleida y en Tortosa</h2>",
     "topic": "",
     "topic_match_probability": 0
   },
