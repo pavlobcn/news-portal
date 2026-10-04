@@ -1,8 +1,19 @@
-# News for 2026-10-04 04:34
+# News for 2026-10-04 09:38
 
 Previous day: [2026-10-03](./data/2026-10-03.md)
 
 ## ua.korrespondent.net
+08:34 [Температура Тихого океану під час нинішнього Ель-Ніньйо сягне антирекорду](https://ua.korrespondent.net/world/4917127-temperatura-tykhoho-okeanu-pid-chas-nynishnoho-el-ninio-siahne-antyrekordu)<br>
+08:01 [ППО відбила понад 91% дронів під час нічної атаки РФ](https://ua.korrespondent.net/ukraine/4917125-ppo-vidbyla-ponad-91-droniv-pid-chas-nichnoi-ataky-rf)<br>
+07:47 [Росіяни атакували центр Дніпра](https://ua.korrespondent.net/city/dnepr/4917123-rosiiany-atakuvaly-tsentr-dnipra)<br>
+07:44 [Ірак вперше за десятиліття провів танкер через Ормузьку протоку](https://ua.korrespondent.net/world/4917121-irak-vpershe-za-desiatylittia-proviv-tanker-cherez-ormuzku-protoku)<br>
+07:33 [У ДСНС показали наслідки атаки РФ на Київ](https://ua.korrespondent.net/city/kiev/4917119-u-dsns-pokazaly-naslidky-ataky-rf-na-kyiv)<br>
+07:23 [Генштаб озвучив ситуацію на фронті](https://ua.korrespondent.net/ukraine/4917117-henshtab-ozvuchyv-sytuatsiui-na-fronti)<br>
+06:59 [G7 відкриє стратегічні запаси нафти та дизеля](https://ua.korrespondent.net/business/economics/4917113-G7-vidkryie-stratehichni-zapasy-nafty-ta-dyzelia)<br>
+06:41 [Росіяни атакували Ізюм системами залпового вогню](https://ua.korrespondent.net/ukraine/4917111-rosiiany-atakuvaly-izuim-systemamy-zalpovoho-vohnui)<br>
+06:27 [Російські атаки здатні міняти погоду у Києві - ЗМІ](https://ua.korrespondent.net/city/kiev/4917109-rosiiski-ataky-zdatni-miniaty-pohodu-u-kyievi-zmi)<br>
+06:13 [Генштаб озвучив втрати росіян на 4 жовтня](https://ua.korrespondent.net/ukraine/4917107-henshtab-ozvuchyv-vtraty-rosiian-na-4-zhovtnia)<br>
+05:31 [Україна прорвала російську "зону ураження" - ЗМІ](https://ua.korrespondent.net/world/worldabus/4917105-ukraina-prorvala-rosiisku-zonu-urazhennia-zmi)<br>
 03:59 [ЗМІ дізналися подробиці випробування нової ракети КНДР](https://ua.korrespondent.net/world/4917099-zmi-diznalysia-podrobytsi-vyprobuvannia-novoi-rakety-kndr)<br>
 03:46 [Хусити атакували нафтовий об'єкт в Ер-Ріяді](https://ua.korrespondent.net/world/4917097-khusyty-atakuvaly-naftovyi-obiekt-v-er-riiadi)<br>
 02:54 [У разі нападу РФ: Швеція змінила концепцію реагування авіації](https://ua.korrespondent.net/world/4917093-u-razi-napadu-rf-shvetsiia-zminyla-kontseptsiui-reahuvannia-aviatsii)<br>
@@ -10,5 +21,40 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 02:23 [Медичний трансфер зник з радарів коло берегів США](https://ua.korrespondent.net/world/4917089-medychnyi-transfer-znyk-z-radariv-kolo-berehiv-ssha)<br>
 00:38 [У Києві внаслідок падіння уламків виникла пожежа](https://ua.korrespondent.net/city/kiev/4917083-u-kyievi-vnaslidok-padinnia-ulamkiv-vynykla-pozhezha)<br>
 
+## as.com
+08:08 [Dos Anjos: “El Madrid hará grandes cosas con Pedro Martínez”](https://as.com/baloncesto/acb/dos-anjos-el-madrid-hara-grandes-cosas-con-pedro-martinez-f202610-n/)<br>
+08:08 [El Barça, de Dubái a Murcia pasando por Turquía](https://as.com/baloncesto/acb/el-barca-de-dubai-a-murcia-pasando-por-turquia-f202610-n/)<br>
+07:07 [Aggelopoulos: “Se está discutiendo la abolición de la Euroliga”](https://as.com/baloncesto/euroliga/aggelopoulos-se-esta-discutiendo-la-abolicion-de-la-euroliga-f202610-n/)<br>
+
 ## www.elperiodico.com
+09:34 [A PIE DE CALLE | El Besòs amenaza con desbordarse tras multiplicar por 100 su caudal por las lluvias.](https://www.elperiodico.com/es/videos/sociedad/pie-calle-besos-amenaza-desbordarse/134977795.shtml)<br>
+09:13 [El rio Besòs amenaza con desbordarse tras multiplicar por 100 su caudal por las lluvias](https://www.elperiodico.com/es/fotos/sociedad/rio-besos-amenaza-desbordarse-multiplicar-134977292)<br>
+09:09 [La 'paradoja mediterránea': menos lluvias, pero más extremas y con mayor variabilidad](https://www.elperiodico.com/es/sociedad/20261004/paradoja-mediterranea-lluvias-extremas-mayor-variabilidad-extremas-menos-cantidad-134977343)<br>
+09:00 [María José Misa, psiquiatra perinatal: "La mujer no siempre es consciente de que está viviendo una psicosis posparto"](https://www.elperiodico.com/es/sanidad/20261004/maria-jose-misa-psiquiatra-mujer-no-sabe-psicosis-posparto-madre-134856808)<br>
+09:00 [La Policía inicia el desalojo del campamento de la playa del Trampolín en Ceuta](https://www.elperiodico.com/es/politica/20261004/policia-inicia-desalojo-campamento-playa-trampolin-ceuta-134976493)<br>
+08:59 [Sobre (vivir) a la crianza - Criar sola: cuando no hay nadie a quien pasarle el relevo](https://www.elperiodico.com/es/videos/podcast/vivir-crianza-criar-sola-hay/134918499.shtml)<br>
+08:59 [Eugenio Monesma recupera la memoria de los oficios perdidos: "Quiero brindarles el protagonismo que la historia les ha negado"](https://www.elperiodico.com/es/economia/20261004/eugenio-monesma-recupera-la-memoria-de-los-oficios-perdidos-quiero-brindarles-el-protagonismo-que-la-historia-les-ha-negado-134869333)<br>
+08:50 [Imágenes aéreas desde el dron de Bombers en la zona de Granollers](https://www.elperiodico.com/es/videos/sociedad/imagenes-aereas-dron-bombers-zona/134976419.shtml)<br>
+08:45 [¿Te despiertas a las 3 de la madrugada con la mente acelerada? Nuria Roure, psicóloga experta en sueño, explica por qué](https://www.elperiodico.com/es/vida-y-estilo/20261004/despertarse-madrugada-causa-nuria-roure-psicologa-experta-sueno-dv-129607461)<br>
+08:31 [El sábado ha sido el día más lluvioso de la historia en Barcelona y su área metropolitana](https://www.elperiodico.com/es/videos/sociedad/sabado-sido-dia-lluvioso-historia/134976169.shtml)<br>
+08:15 [Sonia (22 años), de administrativa en Barcelona a agricultora en un pueblo de 330 habitantes: "Son los valores que me gustaría inculcarles a mis hijos y por eso yo me quedo aquí"](https://www.elperiodico.com/es/economia/20261004/barcelona-pueblo-ciudad-real-agricultura-vida-rural-tranquilidad-sonia-pareja-dv-et-134560532)<br>
+08:07 [Los Bomberos rescatan a varios conductores atrapados por el agua en Granollers y Canovelles](https://www.elperiodico.com/es/videos/sociedad/bomberos-rescatan-conductores-atrapados-agua/134975845.shtml)<br>
+08:00 [Judit Argüera, maestra con autismo, publica un libro de cuentos: "Todas las mentes tienen su lugar en el mundo"](https://www.elperiodico.com/es/ser-feliz/20261004/judit-arguera-maestra-autismo-publica-132413575)<br>
+07:56 [Última hora de la alerta por lluvias en Catalunya, en directo | El violento temporal que barre Catalunya paraliza una veintena de comarcas](https://www.elperiodico.com/es/sociedad/20261004/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025)<br>
+07:46 [El Besòs amenaza con desbordarse tras multiplicar por más de 300 su caudal por las lluvias](https://www.elperiodico.com/es/barcelona/20261004/besos-multiplica-caudal-desbordamiento-lluvias-134975615)<br>
+07:24 [Así baja el río Besòs en su tramo final, que supera el umbral de peligro con 520 metros cúbicos](https://www.elperiodico.com/es/videos/sociedad/rio-besos-superado-umbral-peligro-caudal/134975602.shtml)<br>
+07:21 [Illa pide "no bajar la guardia" tras "una noche complicada" por las lluvias torrenciales](https://www.elperiodico.com/es/sociedad/20261004/illa-pide-bajar-guardia-noche-complicada-lluvias-torrenciales-134975585)<br>
+07:21 [El sábado ha sido el día más lluvioso de la historia en Barcelona y su área metropolitana](https://www.elperiodico.com/es/sociedad/20261004/sabado-sido-dia-lluvioso-barcelona-134975545)<br>
+07:14 [Los Bombers rescatan a varios conductores atrapados por la lluvia en Granollers y Canovelles](https://www.elperiodico.com/es/sucesos/20261004/bombers-rescatan-conductores-atrapados-lluvia-granollers-canovelles-134975544)<br>
+07:01 [Barcelona encara la final decisiva para ser sede del congreso espacial más importante del mundo en 2029](https://www.elperiodico.com/es/economia/20261004/barcelona-encara-final-decisiva-sede-134933100)<br>
+07:01 [Henrik Fexeus, mentalista: "Cuando a alguien le gustas te empieza a mirar a los ojos y la boca"](https://www.elperiodico.com/es/gente/20261004/mentalista-henrik-fexeus-whatsapp-tiktok-leer-mente-personas-entrevista-134628268)<br>
+06:00 [El sinhogarismo sigue al alza en Catalunya: 24.000 personas no tienen un hogar estable, más del doble que hace 10 años](https://www.elperiodico.com/es/sociedad/20261004/sin-hogar-cataluna-barcelona-cifras-aumento-personas-sin-techo-134815561)<br>
+06:00 [Los testimonios de la Fundació Heura](https://www.elperiodico.com/es/videos/sociedad/testimonios-fundacio-heura-video/134817812.shtml)<br>
+06:00 [Concurs de Castells de Tarragona: la gran jornada decisiva llega a la Tarraco Arena Plaça](https://www.elperiodico.com/es/tarragona/20261004/concurs-castells-tarragona-directo-espectaculo-tarraco-arena-placa-134926245)<br>
+06:00 [Decenas de vecinos chequearán los supermercados de Barcelona para detectar si aún ofrecen envases de un solo uso](https://www.elperiodico.com/es/sociedad/20261004/chequeo-decenas-vecinos-supermercados-barcelona-plasticos-solo-uso-134920659)<br>
+06:00 [Manuel Delgado: "La cultura es hoy en día la gran religión de Estado"](https://www.elperiodico.com/es/ocio-y-cultura/20261004/manuel-delgado-entrevista-todas-las-ciudades-estan-poseidas-134838939)<br>
+06:00 [Las empresas españolas buscan su sitio en un mundo de aranceles, guerras y dependencias](https://www.elperiodico.com/es/economia/20261004/empresas-espanolas-buscan-sitio-mundo-134974849)<br>
+06:00 [De la primera central de Barcelona a la revolución renovable: 150 años de electricidad en España](https://www.elperiodico.com/es/economia/20261004/primera-central-barcelona-revolucion-renovable-134897169)<br>
+06:00 [Las oficinas disponibles en Barcelona caen al 11,4% por el aumento de la demanda y el empuje del 22@](https://www.elperiodico.com/es/barcelona/20261004/disponibilidad-oficinas-barcelona-cae-11-empuje-contrataciones-22-134835493)<br>
+05:30 [Previsiones y fechas clave para la temporada de esquí 2026/27: cómo planificar la escapada a la nieve](https://www.elperiodico.com/es/que-hacer/20261004/previsiones-fechas-clave-temporada-esqui-bc-134914361)<br>
 00:22 [Las imágenes de las inundaciones en L'Hospitalet de Llobregat](https://www.elperiodico.com/es/fotos/sociedad/imagenes-inundaciones-lhospitalet-134974000)<br>
