@@ -1,4 +1,4 @@
-# News for 2026-10-04 20:22
+# News for 2026-10-04 22:31
 
 Previous day: [2026-10-03](./data/2026-10-03.md)
 
@@ -30,6 +30,9 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 00:38 [У Києві внаслідок падіння уламків виникла пожежа](https://ua.korrespondent.net/city/kiev/4917083-u-kyievi-vnaslidok-padinnia-ulamkiv-vynykla-pozhezha)<br>
 
 ## as.com
+21:45 [Resumen del UCAM Murcia vs Barcelona, jornada 2 de la Liga Endesa](https://as.com/videos/acb/resumen-del-ucam-murcia-vs-barcelona-jornada-2-de-la-liga-endesa-f202610-v/)<br>
+21:22 [El Murcia y la extenuación se comen al Barça](https://as.com/baloncesto/acb/el-murcia-y-la-extenuacion-se-comen-al-barca-f202610-n/)<br>
+21:06 [Segunda victoria baskonista de la semana](https://as.com/baloncesto/segunda-victoria-baskonista-de-la-semana-f202610-n/)<br>
 19:43 [UCAM Murcia - Barcelona, en directo: Liga Endesa de baloncesto 2026-27 en vivo hoy](https://as.com/baloncesto/acb/ucam-murcia-barcelona-en-directo-liga-endesa-de-baloncesto-2026-27-en-vivo-hoy-f202610-d/)<br>
 19:26 [Shorts y Mirotic marcan el camino de Valencia Basket en Zaragoza](https://as.com/baloncesto/acb/shorts-y-mirotic-marcan-el-camino-de-valencia-basket-en-zaragoza-f202610-n/)<br>
 16:44 [Pedro Martínez: “Nos faltó más contundencia defensiva para evitar sus parciales”](https://as.com/baloncesto/acb/pedro-martinez-nos-falto-mas-contundencia-defensiva-para-evitar-sus-parciales-f202610-n/)<br>
@@ -43,6 +46,9 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 07:07 [Aggelopoulos: “Se está discutiendo la abolición de la Euroliga”](https://as.com/baloncesto/euroliga/aggelopoulos-se-esta-discutiendo-la-abolicion-de-la-euroliga-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:49 [El cansado Barça de Sekulic cae en Murcia y se deja el liderato](https://www.elperiodico.com/es/deportes/20261004/cansado-barca-sekulic-cae-murcia-134999569)<br>
+21:21 [El temporal deja dos muertos y graves daños en infraestructuras tras unas lluvias históricas en Catalunya](https://www.elperiodico.com/es/tiempo/20261004/temporal-deja-muertos-graves-danos-lluvias-historicas-catalunya-134995071)<br>
+20:30 [Alfonso Muñoz, funcionario de la Seguridad Social: "Cuando creas que está cercana tu edad de jubilación, pide cita presencial o telefónica"](https://www.elperiodico.com/es/economia/20261004/alfonso-munoz-funcionario-seguridad-social-edad-jubilacion-dv-134921384)<br>
 20:20 [Un tiroteo durante una fiesta vecinal en Georgia deja al menos dos muertos y 35 heridos](https://www.elperiodico.com/es/politica/20261004/tiroteo-durante-fiesta-vecinal-georgia-134997826)<br>
 20:00 [El 78% de los compradores pagaría más por una vivienda sostenible, pero no basta con poner placas solares](https://www.elperiodico.com/es/economia/20261004/78-compradores-pagaria-mas-vivienda-sostenible-no-basta-placas-solares-134992439)<br>
 19:38 [Déjà vu, sin Pau Romeva](https://www.elperiodico.com/es/opinion/20261004/deja-vu-pau-romeva-134996144)<br>
@@ -74,6 +80,7 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 12:36 [La tormenta golpea l'Hospitalet de Llobregat](https://www.elperiodico.com/es/fotos/sociedad/tormenta-golpea-lhospitalet-llobregat-134983406)<br>
 12:31 [Los visados de obra de vivienda nueva rozan las 50.000 unidades hasta abril, un 10% más](https://www.elperiodico.com/es/economia/20261004/visados-obra-vivienda-nueva-rozan-134983376)<br>
 12:25 [José Manuel Felices, doctor, explica las 3 señales para detectar la tensión alta: alguna puede aparecer "cuando estás con más estrés"](https://www.elperiodico.com/es/salud/20261004/tension-alta-detectar-enfermedad-silenciosa-doctor-jose-manuel-felices-dv-et-134680839)<br>
+12:00 [Una nueva IA detecta en la retina una enfermedad arterial silenciosa asociada a infartos e ictus](https://www.elperiodico.com/es/sanidad/20261004/ia-detecta-retina-enfermedad-enfermedad-arterial-silenciosa-ictus-infartos-134878448)<br>
 11:53 [Rescate de tres personas en la desembocadura del río Besòs](https://www.elperiodico.com/es/fotos/sociedad/rescate-tres-personas-desembocadura-rio-134981058)<br>
 11:13 [Rosas en el asfalto](https://www.elperiodico.com/es/opinion/20261004/rosas-asfalto-articulo-emma-riverola-134979076)<br>
 10:43 [En 2019 una sonda israelí se estrelló en la Luna con criaturas a bordo: ¿Podrían volver a la vida?](https://www.elperiodico.com/es/medio-ambiente/20261004/increible-historia-seres-vivos-enviados-119746498)<br>
