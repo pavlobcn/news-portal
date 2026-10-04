@@ -1,8 +1,9 @@
-# News for 2026-10-04 03:52
+# News for 2026-10-04 04:34
 
 Previous day: [2026-10-03](./data/2026-10-03.md)
 
 ## ua.korrespondent.net
+03:59 [ЗМІ дізналися подробиці випробування нової ракети КНДР](https://ua.korrespondent.net/world/4917099-zmi-diznalysia-podrobytsi-vyprobuvannia-novoi-rakety-kndr)<br>
 03:46 [Хусити атакували нафтовий об'єкт в Ер-Ріяді](https://ua.korrespondent.net/world/4917097-khusyty-atakuvaly-naftovyi-obiekt-v-er-riiadi)<br>
 02:54 [У разі нападу РФ: Швеція змінила концепцію реагування авіації](https://ua.korrespondent.net/world/4917093-u-razi-napadu-rf-shvetsiia-zminyla-kontseptsiui-reahuvannia-aviatsii)<br>
 02:39 [В ООН назвали число цивільних жертв в Україні](https://ua.korrespondent.net/world/worldabus/4917091-v-oon-nazvaly-chyslo-tsyvilnykh-zhertv-v-ukraini)<br>
