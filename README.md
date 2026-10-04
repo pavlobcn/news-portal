@@ -1,8 +1,10 @@
-# News for 2026-10-04 09:38
+# News for 2026-10-04 10:44
 
 Previous day: [2026-10-03](./data/2026-10-03.md)
 
 ## ua.korrespondent.net
+10:04 [Російський дрон вдруге поцілив у Північний міст](https://ua.korrespondent.net/city/kiev/4917135-rosiiskyi-dron-vdruhe-potsilyv-u-pivnichnyi-mist)<br>
+09:46 [Азербайджан, Туреччина та Узбекистан вперше провели військові навчання](https://ua.korrespondent.net/world/4917133-azerbaidzhan-turechchyna-ta-uzbekystan-vpershe-provely-viiskovi-navchannia)<br>
 08:34 [Температура Тихого океану під час нинішнього Ель-Ніньйо сягне антирекорду](https://ua.korrespondent.net/world/4917127-temperatura-tykhoho-okeanu-pid-chas-nynishnoho-el-ninio-siahne-antyrekordu)<br>
 08:01 [ППО відбила понад 91% дронів під час нічної атаки РФ](https://ua.korrespondent.net/ukraine/4917125-ppo-vidbyla-ponad-91-droniv-pid-chas-nichnoi-ataky-rf)<br>
 07:47 [Росіяни атакували центр Дніпра](https://ua.korrespondent.net/city/dnepr/4917123-rosiiany-atakuvaly-tsentr-dnipra)<br>
@@ -27,6 +29,13 @@ Previous day: [2026-10-03](./data/2026-10-03.md)
 07:07 [Aggelopoulos: “Se está discutiendo la abolición de la Euroliga”](https://as.com/baloncesto/euroliga/aggelopoulos-se-esta-discutiendo-la-abolicion-de-la-euroliga-f202610-n/)<br>
 
 ## www.elperiodico.com
+10:43 [En 2019 una sonda israelí se estrelló en la Luna con criaturas a bordo: ¿Podrían volver a la vida?](https://www.elperiodico.com/es/medio-ambiente/20261004/increible-historia-seres-vivos-enviados-119746498)<br>
+10:30 [Adrián Granella, odontólogo: "Estuvimos siempre equivocados. Si después de comer te lavas los dientes es como pasar ácido con algo que va a raspar"](https://www.elperiodico.com/es/salud/20261004/lavar-dientes-cepillar-despues-comer-dano-esmalte-acido-odontologo-adrian-granella-dv-et-esmalt-134555536)<br>
+10:24 [La odisea del Girona para jugar contra el Baskonia: vuelo cancelado, pérdida de maletas y partido atrasado](https://www.elperiodico.com/es/deportes/20261004/odisea-girona-jugar-baskonia-vuelo-134978520)<br>
+10:04 [Inundaciones en el barrio de La Torreta, en La Roca del Vallès](https://www.elperiodico.com/es/videos/sociedad/inundaciones-barrio-torreta-roca-valles/134978330.shtml)<br>
+10:00 [Miquel Àngel Alegre, experto en política educativa: "Hablar de competencias no significa dejar de hablar de conocimientos"](https://www.elperiodico.com/es/sociedad/20261004/miquel-angel-alegre-competencias-aprendizajes-politica-educativa-134753648)<br>
+10:00 [El área de Barcelona contrató 195.000 m2 de oficinas en seis meses: del 22@ a los precios récord del eje de Diagonal](https://www.elperiodico.com/es/barcelona/20261004/area-barcelona-sumo-195000-metros-cuadrados-contratados-oficinas-diversos-sectores-134853816)<br>
+09:57 [A pie de calle | "El parque fluvial del Besòs está cerrado porque está impracticable, con el río fuera de su cauce"](https://www.elperiodico.com/es/barcelona/20261004/pie-calle-parque-fluvial-besos-134977940)<br>
 09:34 [A PIE DE CALLE | El Besòs amenaza con desbordarse tras multiplicar por 100 su caudal por las lluvias.](https://www.elperiodico.com/es/videos/sociedad/pie-calle-besos-amenaza-desbordarse/134977795.shtml)<br>
 09:13 [El rio Besòs amenaza con desbordarse tras multiplicar por 100 su caudal por las lluvias](https://www.elperiodico.com/es/fotos/sociedad/rio-besos-amenaza-desbordarse-multiplicar-134977292)<br>
 09:09 [La 'paradoja mediterránea': menos lluvias, pero más extremas y con mayor variabilidad](https://www.elperiodico.com/es/sociedad/20261004/paradoja-mediterranea-lluvias-extremas-mayor-variabilidad-extremas-menos-cantidad-134977343)<br>
