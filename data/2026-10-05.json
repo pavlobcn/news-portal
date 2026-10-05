@@ -1,5 +1,212 @@
 [
   {
+    "title": "Barcelona reconoce la trayectoria del arquitecto Josep Antoni Acebillo",
+    "link": "https://www.elperiodico.com/es/barcelona/20261005/barcelona-josep-antoni-acebillo-arquitecto-trayectoria-urbanismo-135039969",
+    "pubDate": "2026-10-05 22:49:38",
+    "category": "",
+    "description": "<h2>Collboni destaca la contribución del primer arquitecto jefe de la ciudad a la transformación urbanística de Barcelona</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Чума в РФ: Трамп пообіцяв допомогти",
+    "link": "https://ua.korrespondent.net/world/4917561-chuma-v-rf-tramp-poobitsiav-dopomohty",
+    "pubDate": "2026-10-05 22:46:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587647.jpg\">Глава Білого дому висловив готовність допомогти Росії боротися з легеневою чумою, попри те, що Москва не підтверджує захворювання.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "РФ атакувала багатоповерхівку у Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4917558-rf-atakuvala-bahatopoverkhivku-u-zaporizhzhi",
+    "pubDate": "2026-10-05 22:22:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587634.jpg\">Внаслідок влучання БПЛА загорілась квартира на п'ятому поверсі. Відомо про п'ятьох постраждалих.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Rodalies recupera gran parte del servicio de la R1 este martes, pero sigue con importantes cortes en ocho líneas",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/rodalies-recupera-gran-parte-servicio/135039762.shtml",
+    "pubDate": "2026-10-05 22:21:42",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Isaac Baley, tras recoger el premio Fundación Sabadell en Oviedo: \"La macroeconomía no deja de ser un conjunto de decisiones individuales\"",
+    "link": "https://www.elperiodico.com/es/economia/20261005/isaac-baley-recoger-premio-fundacion-135039647",
+    "pubDate": "2026-10-05 22:11:23",
+    "category": "",
+    "description": "<h2>El economista mexicano recibió el galardón de manos de Josep Oliu, que destacó \"la actualidad\" de sus investigaciones sobre las respuestas de empresas y trabajadores a las incertidumbres</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mueren los 32 ocupantes de un avión militar estrellado en Nigeria",
+    "link": "https://www.elperiodico.com/es/internacional/20261005/mueren-32-ocupantes-avion-militar-135039223",
+    "pubDate": "2026-10-05 21:48:58",
+    "category": "",
+    "description": "<h2>El ministro de Aviación y Desarrollo Aeroespacial del país, Festus Keyamo, confirmó en sus redes sociales la tragedia</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Гончаренка виключили з Євросолідарності",
+    "link": "https://ua.korrespondent.net/ukraine/4917552-honcharenka-vykluichyly-z-yevrosolidarnosti",
+    "pubDate": "2026-10-05 21:47:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587600.jpg\">Публічна позиція нардепа щодо завершення війни та майбутньої архітектури безпеки України розійшлася з принципами партії.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Cristiano Ronaldo, \"el GOAT\", vuelve con el Al-Nassr tras abandonar la concentración de Portugal",
+    "link": "https://www.elperiodico.com/es/deportes/20261005/cristiano-ronaldo-goat-vuelve-nassr-135038943",
+    "pubDate": "2026-10-05 21:38:41",
+    "category": "",
+    "description": "<h2 class=\"item\">El club saudí elogia a su estrella y confirma el retorno del luso, que suma 979 goles oficiales a sus 41 años.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20261001/espectaculo-deprimente-cristiano-ronaldo-conmociona-portugal-134879324\" target=\"_blank\">El \"espectáculo deprimente\" de Cristiano Ronaldo conmociona a Portugal</a>: \"Ha traicionado su legado\".</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los Mossos detienen a un conductor por circular ebrio, en sentido contrario y con el coche accidentado en el Pallars Sobirà",
+    "link": "https://www.elperiodico.com/es/sucesos/20261005/detenido-conductor-circular-ebrio-en-sentido-contrario-pallars-sobira-135038363",
+    "pubDate": "2026-10-05 21:35:08",
+    "category": "",
+    "description": "<h2>El detenido iba acompañado de otras tres personas en el coche, todas ellas en estado de embriaguez</h2><h2><a href=\"https://www.elperiodico.com/es/tarragona/20260619/autobus-tarragona-amposta-direccion-contraria-autopista-drogas-131599254\">Un conductor de autobús con varios menores, denunciado por circular en dirección contraria por la AP-7 y drogado en Amposta</a></h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Macias retira su ponencia sobre Turull porque no quiere que su fallo inste al Supremo a aplicar la amnistía como pide la mayoría",
+    "link": "https://www.elperiodico.com/es/politica/20261005/macias-retira-ponencia-turull-bloqueo-a-la-amnistia-135038956",
+    "pubDate": "2026-10-05 21:35:00",
+    "category": "",
+    "description": "<h2>¿Puede usar la Sala Penal el argumento de las elecciones anticipadas para aplazar la aplicación de la amnistía a los siete recurrentes en amparo contra la malversación?</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El fraude que debes vigilar si vas a vender tu coche a otro particular",
+    "link": "https://www.elperiodico.com/es/motor/20261005/fraude-debes-vigilar-vas-vender-coche-particular-135013928",
+    "pubDate": "2026-10-05 21:30:07",
+    "category": "",
+    "description": "<h2>Existen redes organizadas que solicitan informes de datos a través de páginas fraudulentas para cobrar entre 20 y 60 euros antes de desaparecer</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Manifestación por el derecho a la vivienda en Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/economia/manifestacion-derecho-vivienda-barcelona/135038823.shtml",
+    "pubDate": "2026-10-05 21:20:35",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Mujeres iraníes aprenden a usar armas de fuego en plena tensión con EEUU",
+    "link": "https://www.elperiodico.com/es/videos/internacional/mujeres-iranies-aprenden-armas-guerra-estados-unidos/135038846.shtml",
+    "pubDate": "2026-10-05 21:20:18",
+    "category": "",
+    "description": "Irán prepara a civiles para responder ante un hipotético ataque terrestre de las fuerzas estadounidenses",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Aznar fija el marco para el 29N y advierte de que si Sánchez vuelve a formar Gobierno \"la monarquía constitucional se acaba\"",
+    "link": "https://www.elperiodico.com/es/politica/20261005/aznar-fija-marco-campana-29n-135038668",
+    "pubDate": "2026-10-05 21:15:09",
+    "category": "",
+    "description": "<h2>El ex presidente del Gobierno protagoniza la primera jornada '1936: la guerra que todos perdimos', el ciclo de conferencias coordinado por Pérez Reverte celebrado en la sede de la Fundación Cajasol en Sevilla</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Santa Bárbara ficha a Ficosa para llevar la tecnología del automóvil a sus vehículos blindados",
+    "link": "https://www.elperiodico.com/es/economia/20261005/santa-barbara-ficha-ficosa-llevar-135038641",
+    "pubDate": "2026-10-05 21:15:07",
+    "category": "",
+    "description": "<h2>El acuerdo busca también reforzar la cadena industrial de Defensa en Catalunya y acelerar el desarrollo de tecnologías de uso dual </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Японія вироблятиме дешеві ракети для виснаження ППО",
+    "link": "https://ua.korrespondent.net/world/4917545-yaponiia-vyrobliatyme-deshevi-rakety-dlia-vysnazhennia-ppo",
+    "pubDate": "2026-10-05 21:03:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587560.jpg\">Токіо переглядає свою оборонну стратегію, від масового виробництва ракет до тіснішої військової співпраці з Україною.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Roban un valioso libro de 210 kilos con la cubierta de Salvador Dalí en un museo francés",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/roban-valioso-libro-dali-museo-frances-135038304",
+    "pubDate": "2026-10-05 21:03:00",
+    "category": "",
+    "description": "",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El horóscopo de mañana, martes 6 de octubre: amor, trabajo, dinero y salud para todos los signos del zodíaco",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261005/horoscopo-hoy-martes-6-octubre-dv-134849202",
+    "pubDate": "2026-10-05 21:01:02",
+    "category": "",
+    "description": "<h2 class=\"item\">Conoce la suerte de tu horóscopo a partir de los signos del zodíaco, según la astrología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/temas/horoscopo-11990\" >Consulta el horóscopo diario de tu signo de ayer, hoy y mañana</a></h2>",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Франція допоможе Україні посилити захист від БпЛА",
+    "link": "https://ua.korrespondent.net/world/4917539-frantsiia-dopomozhe-ukraini-posylyty-zakhyst-vid-bpla",
+    "pubDate": "2026-10-05 20:44:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587541.jpg\">Москва продовжує ігнорувати заклики до припинення вогню та завдає ударів по цивільних об'єктах, наголосив Макрон.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El secretismo rodea la muerte de una joven científica por posible peste en un instituto contra epidemias de Siberia",
+    "link": "https://www.elperiodico.com/es/internacional/20261005/secretismo-rodea-muerte-joven-cientifica-135037837",
+    "pubDate": "2026-10-05 20:34:51",
+    "category": "",
+    "description": "<h2>Las autoridades sanitarias locales hablan de una \"neumonía de etiología desconocida\", mientras medios independientes y canales vinculados a los servicios de seguridad evocan la peste pulmonar, una enfermedad mortal altamente contagiosa, como causa del fallecimiento</h2><h2>La UE y EEUU siguen con detenimiento la situación, estudian si la enfermedad sale de la región siberiana o traspasa fronteras, al tiempo que demandan transparencia a las autoridades sanitarias de Rusia</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "De la Fuente esconde sus planes con Lamine: \"Nadie va a jugar más de 270 minutos\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261005/fuente-esconde-planes-lamine-nadie-135037819",
+    "pubDate": "2026-10-05 20:34:03",
+    "category": "",
+    "description": "<h2>El seleccionador deja la puerta abierta a que la estrella azulgrana vuelva a ser titular este martes contra Croacia</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El creador de Oliver y Benji visita al Barça y recrea la figura de Lamine",
+    "link": "https://www.elperiodico.com/es/deportes/20261005/creador-oliver-benji-visita-barca-135036907",
+    "pubDate": "2026-10-05 20:32:16",
+    "category": "",
+    "description": "<h2 class=\"item\">El prestigioso artista japonés Yoichi Takahashi fue recibido este lunes por una delegación encabezada por el vicepresidente Joan Soler antes de pasar por el Camp Nou y el museo azulgrana.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedro Sánchez activa a un PSOE enchufado y encomienda a la dirección \"ganar las elecciones y gobernar\"",
+    "link": "https://www.elperiodico.com/es/politica/20261005/pedro-sanchez-activa-psoe-enchufado-135037776",
+    "pubDate": "2026-10-05 20:31:41",
+    "category": "",
+    "description": "<h2 class=\"item\">La Ejecutiva Federal recibe al secretario general con aplausos, mucho optimismo y entusiasmo</h2><h2 class=\"item\">Ferraz convoca el Comité Federal para el 17 de octubre, el sábado anterior a la presentación de las listas</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El error que muchos padres cometen al enseñar empatía a sus hijos, según el psicólogo Javier de Haro: \"Lo que a ti te gustaría no siempre es lo que el otro necesita\"",
     "link": "https://www.elperiodico.com/es/ser-feliz/20261005/empatia-padres-hijos-error-psicologo-javier-haro-dv-et-134749433",
     "pubDate": "2026-10-05 20:20:14",
@@ -81,6 +288,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "У Сумах РФ зруйнувала фармзавод, загинув працівник",
+    "link": "https://ua.korrespondent.net/ukraine/4917526-u-sumakh-rf-zruinuvala-farmzavod-zahynuv-pratsivnyk",
+    "pubDate": "2026-10-05 19:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587506.jpg\">Попри руйнування, у компанії заявили, що продовжать роботу та забезпечення України ліками.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "La Fiscalía recurre la concesión del tercer grado a la presa de ETA Idoia Mendizabal",
     "link": "https://www.elperiodico.com/es/politica/20261005/fiscalia-recurre-concesion-tercer-grado-135036306",
     "pubDate": "2026-10-05 19:48:23",
@@ -106,6 +322,15 @@
     "description": "",
     "topic": "виконавці поп музики",
     "topic_match_probability": 95
+  },
+  {
+    "title": "Мінфін озвучив доходи і запозичення держбюджету",
+    "link": "https://ua.korrespondent.net/ukraine/4917521-minfin-ozvuchyv-dokhody-i-zapozychennia-derzhbuidzhetu",
+    "pubDate": "2026-10-05 19:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587493.jpg\">За дев’ять місяців 2026 року Україна отримала до загального фонду держбюджету 2,49 трлн грн, тоді як державні запозичення становили 717,2 млрд грн. На погашення та обслуговування боргу за цей період спрямували понад 714 млрд грн.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Élite Taxi advierte de que las elecciones generales pueden retrasar la ley catalana del taxi",
@@ -153,6 +378,15 @@
     "topic_match_probability": 70
   },
   {
+    "title": "Terremoto en La Séptima tras el adelanto electoral de Sánchez: Javier Ruiz no hará las mañanas para liderar las noches y Sarah Santaolalla se suma a las tardes",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261005/la-septima-terremoto-adelanto-electoral-sanchez-javier-ruiz-salta-noche-sarah-santaolalla-135035152",
+    "pubDate": "2026-10-05 19:23:37",
+    "category": "",
+    "description": "<h2>La cadena reorganiza su parrilla de cara a su próximo lanzamiento, que coincidirá con la precampaña electoral</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
     "title": "UniCredit готує вихід із Росії: Путін дозволив продаж банку",
     "link": "https://ua.korrespondent.net/business/economics/4917513-UniCredit-hotuie-vykhid-iz-rosii-putin-dozvolyv-prodazh-banku",
     "pubDate": "2026-10-05 19:17:00",
@@ -180,6 +414,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "El adelanto electoral deja en el limbo las grandes promesas económicas de la legislatura",
+    "link": "https://www.elperiodico.com/es/economia/20261005/adelanto-electoral-deja-limbo-grandes-135034686",
+    "pubDate": "2026-10-05 19:01:40",
+    "category": "",
+    "description": "<h2>Presupuestos generales, financiación autonómica y la nueva ley de vivienda se quedan a medias</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Las lluvias torrenciales destapan la falta de adaptación de las ciudades ante inundaciones: \"No estamos preparados\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261005/lluvias-torrenciales-ausencia-medidas-ciudades-infraestructuras-135011927",
     "pubDate": "2026-10-05 19:00:56",
@@ -196,6 +439,15 @@
     "description": "<h2>La reportera recoge en el Col·legi de Periodistes de Catalunya el Premio Internacional Manuel Vázquez Montalbán</h2>",
     "topic": "політика",
     "topic_match_probability": 65
+  },
+  {
+    "title": "RTVE, Atresmedia y Mediaset proponen debates electorales cara a cara y a cuatro a los candidatos",
+    "link": "https://www.elperiodico.com/es/politica/20261005/rtve-atresmedia-meidaset-proponen-debates-135034115",
+    "pubDate": "2026-10-05 18:51:53",
+    "category": "",
+    "description": "<h2 class=\"item\">La Corporación pública también plantea un encuentro a ocho a las fuerzas con representación parlamentaria</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
   },
   {
     "title": "Pau Cubarsí, Marc Bernal y Xavi Espart, entre los 25 finalistas al Golden Boy",
@@ -351,6 +603,24 @@
     "topic_match_probability": 0
   },
   {
+    "title": "У Харкові зросла кількість загиблих",
+    "link": "https://ua.korrespondent.net/city/kharkov/4917481-u-kharkovi-zrosla-kilkist-zahyblykh",
+    "pubDate": "2026-10-05 17:21:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587392.jpg\">Пошкоджено десятки житлових будинків, цивільне підприємство і щонайменше 20 автомобілів. Загальна площа пожеж становила майже 15 тис. кв. м.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El Supremo mantiene la investigación del caso Montoro en Tarragona al rechazar la existencia de un conflicto de competencia",
+    "link": "https://www.elperiodico.com/es/politica/20261005/supremo-resuelve-debe-investigar-montoro-audiencia-135029517",
+    "pubDate": "2026-10-05 17:20:49",
+    "category": "",
+    "description": "<h2>Declara que no concurre contienda competencial entre diferentes juzgados que les corresponda dirimir</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
     "title": "La Nau Bostik acogerá el B-Murals Fest: el festival gratuito que pretende acercar el arte urbano a todos los públicos",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/nau-bostik-festival-b-murals-arte-urbano-135015728",
     "pubDate": "2026-10-05 17:16:28",
@@ -376,6 +646,15 @@
     "description": "<h2>El volumen basado en los apuntes del papa Francisco se publicará simultáneamente en cinco idiomas y 94 países distintos</h2>",
     "topic": "політика",
     "topic_match_probability": 25
+  },
+  {
+    "title": "Зеленський: Франція готує нові оборонні постачання",
+    "link": "https://ua.korrespondent.net/ukraine/4917475-zelenskyi-frantsiia-hotuie-novi-oboronni-postachannia",
+    "pubDate": "2026-10-05 17:03:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587367.jpg\">Українські пілоти вже найближчим часом розпочнуть навчання на французьких літаках Rafale у Франції, підтвердив президент.",
+    "topic": "політика",
+    "topic_match_probability": 95
   },
   {
     "title": "Page no aclara si hará campaña con Sánchez: \"Tomaré la decisión en función de lo que me planteen\"",
@@ -439,6 +718,15 @@
     "description": "<h2 class=\"item\">50 millones son créditos a coste 0 del Institut Català de Finances y se destinarán a que los afectados tengan liquidez inmediata </h2><h2 class=\"item\">Parlon avanza que pedirán la declaración de zona catastrófica para los municipios afectados</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Lluvia en Catalunya, en directo: última hora del tiempo, ES-Alert en el Vallès Oriental y Maresme, Garraf y Barcelonès y pronóstico del Meteocat</a></h2>",
     "topic": "політика",
     "topic_match_probability": 65
+  },
+  {
+    "title": "У Харкові десятки поранених через атаку Росії",
+    "link": "https://ua.korrespondent.net/city/kharkov/4917459-u-kharkovi-desiatky-poranenykh-cherez-ataku-rosii",
+    "pubDate": "2026-10-05 16:25:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587338.jpg\">Розпочато досудове розслідування за фактом вчинення воєнного злочину, що спричинив загибель людей.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Російські агромагнати заробляють у ЄС і фінансують війну Путіна - ГУР",
@@ -664,6 +952,15 @@
     "description": "<h2>La muestra inmersiva recorre su trayectoria futbolística y personal a través de una experiencia sensorial y lúdica para un público familiar</h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Харків зазнав удару КАБів, є загиблі",
+    "link": "https://ua.korrespondent.net/city/kharkov/4917426-kharkiv-zaznav-udaru-kabiv-ye-zahybli",
+    "pubDate": "2026-10-05 14:49:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587258.jpg\">У Слобідському районі міста горять складські приміщення. Також пошкоджені житлові будинки.",
+    "topic": "політика",
+    "topic_match_probability": 80
   },
   {
     "title": "Новий Ухань? Переполох через чуму в Росії",

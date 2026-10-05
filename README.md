@@ -1,4 +1,4 @@
-# News for 2026-10-05 20:23
+# News for 2026-10-05 22:52
 
 Previous day: [2026-10-04](./data/2026-10-04.md)
 
@@ -29,6 +29,10 @@ Previous day: [2026-10-04](./data/2026-10-04.md)
 07:06 [“Siempre fue especial que me compararan con Sergio Rodríguez”](https://as.com/baloncesto/mas_baloncesto/siempre-fue-especial-que-me-compararan-con-sergio-rodriguez-f202610-n/)<br>
 
 ## www.elperiodico.com
+22:49 [Barcelona reconoce la trayectoria del arquitecto Josep Antoni Acebillo](https://www.elperiodico.com/es/barcelona/20261005/barcelona-josep-antoni-acebillo-arquitecto-trayectoria-urbanismo-135039969)<br>
+22:21 [Rodalies recupera gran parte del servicio de la R1 este martes, pero sigue con importantes cortes en ocho líneas](https://www.elperiodico.com/es/videos/sociedad/rodalies-recupera-gran-parte-servicio/135039762.shtml)<br>
+22:11 [Isaac Baley, tras recoger el premio Fundación Sabadell en Oviedo: "La macroeconomía no deja de ser un conjunto de decisiones individuales"](https://www.elperiodico.com/es/economia/20261005/isaac-baley-recoger-premio-fundacion-135039647)<br>
+20:34 [El secretismo rodea la muerte de una joven científica por posible peste en un instituto contra epidemias de Siberia](https://www.elperiodico.com/es/internacional/20261005/secretismo-rodea-muerte-joven-cientifica-135037837)<br>
 20:20 [El error que muchos padres cometen al enseñar empatía a sus hijos, según el psicólogo Javier de Haro: "Lo que a ti te gustaría no siempre es lo que el otro necesita"](https://www.elperiodico.com/es/ser-feliz/20261005/empatia-padres-hijos-error-psicologo-javier-haro-dv-et-134749433)<br>
 20:08 [Rodalies recupera gran parte del servicio de la R1 este martes, pero sigue con importantes cortes en ocho líneas](https://www.elperiodico.com/es/sociedad/20261005/rodalies-recupera-gran-parte-servicio-r1-cortes-ocho-lineas-135035940)<br>
 19:32 [La farmacéutica catalana Noucor compra la alemana Helm Pharmaceuticals](https://www.elperiodico.com/es/economia/20261005/farmaceutica-catalana-noucor-compra-alemana-135034104)<br>
