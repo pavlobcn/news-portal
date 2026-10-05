@@ -1,8 +1,10 @@
-# News for 2026-10-05 15:28
+# News for 2026-10-05 20:23
 
 Previous day: [2026-10-04](./data/2026-10-04.md)
 
 ## ua.korrespondent.net
+18:05 [Курс долара оновив історичний рекорд в Україні](https://ua.korrespondent.net/business/financial/4917492-kurs-dolara-onovyv-istorychnyi-rekord-v-ukraini)<br>
+15:48 [Техномільярдери рекордно збагатилися на тлі ШІ-буму](https://ua.korrespondent.net/business/4917444-tekhnomiliardery-rekordno-zbahatylysia-na-tli-shi-bumu)<br>
 14:48 [Новий Ухань? Переполох через чуму в Росії](https://ua.korrespondent.net/world/russia/4917419-novyi-ukhan-perepolokh-cherez-chumu-v-rosii)<br>
 14:28 [Знахідка на Готланді: серед 45 денаріїв виявили підробки з України](https://ua.korrespondent.net/tech/science/4917224-znakhidka-na-hotlandi-sered-45-denariiv-vyiavyly-pidrobky-z-ukrainy)<br>
 13:51 [Мішель і Барак Обама поділилися зворушливими фото](https://ua.korrespondent.net/lifestyle/4917383-mishel-i-barak-obama-podilylysia-zvorushlyvymy-foto)<br>
@@ -27,6 +29,17 @@ Previous day: [2026-10-04](./data/2026-10-04.md)
 07:06 [“Siempre fue especial que me compararan con Sergio Rodríguez”](https://as.com/baloncesto/mas_baloncesto/siempre-fue-especial-que-me-compararan-con-sergio-rodriguez-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:20 [El error que muchos padres cometen al enseñar empatía a sus hijos, según el psicólogo Javier de Haro: "Lo que a ti te gustaría no siempre es lo que el otro necesita"](https://www.elperiodico.com/es/ser-feliz/20261005/empatia-padres-hijos-error-psicologo-javier-haro-dv-et-134749433)<br>
+20:08 [Rodalies recupera gran parte del servicio de la R1 este martes, pero sigue con importantes cortes en ocho líneas](https://www.elperiodico.com/es/sociedad/20261005/rodalies-recupera-gran-parte-servicio-r1-cortes-ocho-lineas-135035940)<br>
+19:32 [La farmacéutica catalana Noucor compra la alemana Helm Pharmaceuticals](https://www.elperiodico.com/es/economia/20261005/farmaceutica-catalana-noucor-compra-alemana-135034104)<br>
+19:00 [Las lluvias torrenciales destapan la falta de adaptación de las ciudades ante inundaciones: "No estamos preparados"](https://www.elperiodico.com/es/sociedad/20261005/lluvias-torrenciales-ausencia-medidas-ciudades-infraestructuras-135011927)<br>
+17:45 [El cambio climático inaugura la era de las "tormentas impredecibles" y de las lluvias "tropicales" en el Mediterráneo: "Estamos ante escenarios inéditos"](https://www.elperiodico.com/es/sociedad/20261005/tormentas-impredecibles-tropicales-mediterraneo-cambio-climatico-lluvias-cataluna-135028717)<br>
+17:35 [Rocío, inversora y gestora de 75 habitaciones en alquiler en España: "Con muy poquita inversión empiezas a generar ingresos"](https://www.elperiodico.com/es/videos/sociedad/rocio-inversora-gestora-75-habitaciones-video/135030043.shtml)<br>
+17:30 [La red de satélites que desplegará Open Cosmos rozará los 200 artefactos](https://www.elperiodico.com/es/economia/20261005/red-satelites-desplegara-open-cosmos-200-artefactos-135028270)<br>
+17:29 [Así ha evolucionado la tormenta que ha afectado hoy a Catalunya](https://www.elperiodico.com/es/videos/sociedad/evolucionado-tormenta-afectado-hoy-catalunya/135029744.shtml)<br>
+16:55 [El ruso Medvedev, descalificado por un pelotazo a un espectador, deja a Djokovic en la final de Pekín](https://www.elperiodico.com/es/deportes/20261005/ruso-medvedev-descalificado-pelotazo-espectador-135027967)<br>
+16:54 [Tiempo en Catalunya mañana martes: Continúan los avisos por lluvias en todo el territorio](https://www.elperiodico.com/es/tiempo/20261005/tiempo-cataluna-hoy-martes-6-de-octubre-lluvias-temperaturas-dv-loc-135025930)<br>
+15:34 [El episodio de lluvias "más extraordinario en 60 años" en Barcelona: 50 desprendimientos, dos escuelas cerradas y seis familias evacuadas](https://www.elperiodico.com/es/barcelona/20261005/episodio-lluvias-extraordinario-50-desprendimientos-dos-escuelas-cerradas-seis-familias-evacuadas-barcelona-135017156)<br>
 15:25 [Rocío, inversora y gestora de 75 habitaciones en alquiler en España: "Con muy poquita inversión empiezas a generar ingresos"](https://www.elperiodico.com/es/economia/20261005/rocio-propietaria-75-habitaciones-to-rent-inversion-vivienda-dv-131011289)<br>
 15:22 [La Tierra pudo desplazarse sobre su eje varias veces en la era de los dinosaurios, según un estudio](https://www.elperiodico.com/es/tendencias21/20261005/tierra-pudo-desplazarse-eje-veces-135024969)<br>
 15:02 [Las lluvias provocan afectaciones en varios centros sanitarios, sobre todo en Granollers, Barcelona y Girona](https://www.elperiodico.com/es/sociedad/20261005/lluvias-centros-sanitarios-hospitales-goteras-135023254)<br>
