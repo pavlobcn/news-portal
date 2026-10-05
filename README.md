@@ -1,8 +1,9 @@
-# News for 2026-10-05 14:32
+# News for 2026-10-05 15:28
 
 Previous day: [2026-10-04](./data/2026-10-04.md)
 
 ## ua.korrespondent.net
+14:48 [Новий Ухань? Переполох через чуму в Росії](https://ua.korrespondent.net/world/russia/4917419-novyi-ukhan-perepolokh-cherez-chumu-v-rosii)<br>
 14:28 [Знахідка на Готланді: серед 45 денаріїв виявили підробки з України](https://ua.korrespondent.net/tech/science/4917224-znakhidka-na-hotlandi-sered-45-denariiv-vyiavyly-pidrobky-z-ukrainy)<br>
 13:51 [Мішель і Барак Обама поділилися зворушливими фото](https://ua.korrespondent.net/lifestyle/4917383-mishel-i-barak-obama-podilylysia-zvorushlyvymy-foto)<br>
 13:04 [В Україні найближчими днями потеплішає до +23°](https://ua.korrespondent.net/ukraine/4917385-v-ukraini-naiblyzhchymy-dniamy-poteplishaie-do-23)<br>
@@ -18,6 +19,7 @@ Previous day: [2026-10-04](./data/2026-10-04.md)
 04:25 [У США прокоментували повідомлення про чуму в Росії](https://ua.korrespondent.net/world/4917255-u-ssha-prokomentuvaly-povidomlennia-pro-chumu-v-rosii)<br>
 
 ## as.com
+14:31 [Semana clave para el baloncesto europeo: “Queremos ser parte de la solución, no del problema”](https://as.com/baloncesto/euroliga/semana-clave-para-el-baloncesto-europeo-queremos-ser-parte-de-la-solucion-no-del-problema-f202610-n/)<br>
 13:37 [“Se nos pone la piel de gallina recordando la plata de París”](https://as.com/baloncesto/mas_baloncesto/deporte-en-positivo-f202610-n/)<br>
 13:18 [Carsen Edwards, detenido por conducir bajo los efectos del alcohol](https://as.com/baloncesto/euroliga/carsen-edwards-detenido-por-conducir-bajo-los-efectos-del-alcohol-f202610-n/)<br>
 10:38 [Una de las mejores jugadas de la historia: la locura de Jokic que está dando la vuelta al mundo](https://as.com/baloncesto/videos/una-de-las-mejores-jugadas-de-la-historia-la-locura-de-jokic-que-esta-dando-la-vuelta-al-mundo-f202610-v/)<br>
@@ -25,6 +27,15 @@ Previous day: [2026-10-04](./data/2026-10-04.md)
 07:06 [“Siempre fue especial que me compararan con Sergio Rodríguez”](https://as.com/baloncesto/mas_baloncesto/siempre-fue-especial-que-me-compararan-con-sergio-rodriguez-f202610-n/)<br>
 
 ## www.elperiodico.com
+15:25 [Rocío, inversora y gestora de 75 habitaciones en alquiler en España: "Con muy poquita inversión empiezas a generar ingresos"](https://www.elperiodico.com/es/economia/20261005/rocio-propietaria-75-habitaciones-to-rent-inversion-vivienda-dv-131011289)<br>
+15:22 [La Tierra pudo desplazarse sobre su eje varias veces en la era de los dinosaurios, según un estudio](https://www.elperiodico.com/es/tendencias21/20261005/tierra-pudo-desplazarse-eje-veces-135024969)<br>
+15:02 [Las lluvias provocan afectaciones en varios centros sanitarios, sobre todo en Granollers, Barcelona y Girona](https://www.elperiodico.com/es/sociedad/20261005/lluvias-centros-sanitarios-hospitales-goteras-135023254)<br>
+15:02 [La gemóloga Núria Ruiz reivindica la joya artesanal frente a la IA: "No sustituye la intención ni los acabados de una pieza artesanal"](https://www.elperiodico.com/es/gente/20261005/nuria-ruiz-ia-joyeria-artesanal-nur-barcelona-135022768)<br>
+14:55 [Cuenta atrás para el Nobel de Literatura: Enrique Vila-Matas se cuela entre los favoritos al premio](https://www.elperiodico.com/es/ocio-y-cultura/20261005/vila-matas-quinielas-nobel-literatura-135008104)<br>
+14:54 [Fero (78 años), el hombre que vive en el bosque recolectando plantas y apenas tiene dinero: "Soy feliz con muy poco. Para mí, la libertad es decidir irte cuándo y dónde quieras: eso no tiene precio"](https://www.elperiodico.com/es/economia/20261005/hombre-vive-bosque-plantas-sin-dinero-libertad-ahorro-italia-fero-dv-et-134362892)<br>
+14:52 [Los bomberos hacen unos cuarenta rescates de personas atrapadas en sus vehículos por el temporal](https://www.elperiodico.com/es/sociedad/20261005/bomberos-cuarenta-rescates-personas-atrapadas-vehiculos-135023192)<br>
+14:44 [El temporal y las fuertes lluvias golpean Granollers](https://www.elperiodico.com/es/fotos/sociedad/temporal-fuertes-lluvias-golpean-granollers-fotos-135023063)<br>
+14:33 [El Museo de Bellas Artes de Bilbao inaugura su nueva ampliación diseñada por Norman Foster y Luis María Uriarte](https://www.elperiodico.com/es/ocio-y-cultura/20261005/museo-bellas-artes-bilbao-inaugura-135022452)<br>
 14:26 ["En 30 minutos la casa se ha inundado": los vecinos de Granollers relatan el miedo vivido durante las lluvias torrenciales](https://www.elperiodico.com/es/barcelona/20261005/treinta-minutos-agua-inundado-casa-lluvias-torrenciales-granollers-135020395)<br>
 14:19 [El temporal aflojará por la tarde, pero se esperan chubascos torrenciales dispersos de Catalunya](https://www.elperiodico.com/es/sociedad/20261005/temporal-aflojara-tarde-esperan-chubascos-cataluna-135021203)<br>
 14:10 [Alex y Paula dejan Barcelona para vivir en una masía en medio del Montseny junto a su hija pequeña: "Confiar nuestra supervivencia a un sistema que se está cayendo para nosotros no tiene sentido"](https://www.elperiodico.com/es/economia/20261005/masia-reconstruida-montseny-cataluna-hija-autosuficiencia-alex-paula-dv-et-134769611)<br>
