@@ -1,5 +1,464 @@
 [
   {
+    "title": "Саудівська Аравія призупинила один із найамбітніших проєктів до ЧС-2034",
+    "link": "https://ua.korrespondent.net/sport/football/4917214-saudivska-araviia-pryzupynyla-odyn-iz-naiambitnishykh-proiektiv-do-chs-2034",
+    "pubDate": "2026-10-05 07:27:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586311.jpeg\">Країна фактично заморозила будівництво грандіозного NEOM Stadium у рамках мегапроєкту The Line, відмовившись від його використання під час світової першості.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удар по будинку у Харкові: ДСНС показало наслідки",
+    "link": "https://ua.korrespondent.net/city/kharkov/4917271-udar-po-budynku-u-kharkovi-dsns-pokazalo-naslidky",
+    "pubDate": "2026-10-05 07:16:00",
+    "category": "Харків",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586835.jpg\">Російські ракети вдарили по Індустріальному району Харкова. Внаслідок атаки загинула людина, ще шестеро постраждали, повідомили у ДСНС.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Guerra de Irán y el incidente del avión de Flydubai rumbo a Israel, en directo | Última hora del vuelo y reacciones",
+    "link": "https://www.elperiodico.com/es/internacional/20261005/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-05 07:14:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У збірній України відреагували на критику перед грою Ліги націй",
+    "link": "https://ua.korrespondent.net/sport/football/4917206-u-zbirnii-ukrainy-vidreahuvaly-na-krytyku-pered-hroui-lihy-natsii",
+    "pubDate": "2026-10-05 07:11:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586861.jpg\">Мальдера закликав зберегти психологічну рівновагу перед грою з Угорщиною та адекватно сприймати критику на адресу збірної.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "“Siempre fue especial que me compararan con Sergio Rodríguez”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/siempre-fue-especial-que-me-compararan-con-sergio-rodriguez-f202610-n/",
+    "pubDate": "2026-10-05 07:06:55",
+    "category": "Baloncesto",
+    "description": "Silvia Domínguez ingresa en el Hall of Fame un año después de su retirada. Un pequeño genio que desplegó su magia para colgarse nueve medallas con la Selección.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Última hora de la situación en Catalunya tras el histórico temporal de lluvia",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
+    "pubDate": "2026-10-05 07:05:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260926/nino-intensidad-previsiones-sequias-lluvias-torrenciales-inundaciones-134684053\" target=\"_blank\">El Niño cobra fuerza y ya se perfila como el más intenso desde 1950: medio mundo en riesgo de inundaciones, y el otro, de sequías</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Laura Encina, experta en finanzas: “Nuestra primera educación financiera no ocurre en un aula, ocurre en casa”",
+    "link": "https://www.elperiodico.com/es/economia/20261005/laura-encina-finanzas-dia-educacion-financiera-134993821",
+    "pubDate": "2026-10-05 07:03:24",
+    "category": "",
+    "description": "<h2>La experta señala que nuestros hábitos, emociones y experiencias familiares condicionan cómo ahorramos, gastamos e invertimos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El no adiós de Paco González",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/paco-gonzalez-no-adios-television-mas-134991126",
+    "pubDate": "2026-10-05 07:00:56",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "TVyMAS Lunes 5 Octubre",
+    "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-5-octubre/134991845.shtml",
+    "pubDate": "2026-10-05 07:00:56",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Vivienda, hagámoslo posible",
+    "link": "https://www.elperiodico.com/es/opinion/20261005/vivienda-hagamoslo-posible-dia-mundial-arquitectura-sandra-bestraten-134926554",
+    "pubDate": "2026-10-05 07:00:53",
+    "category": "",
+    "description": "<h2>Desde la sociedad civil estamos haciendo enormes esfuerzos para coordinarnos y sumar capacidades, y necesitamos que el conjunto de las fuerzas políticas incorpore esta misma lógica al conjunto de las políticas de vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "¿Por qué ha ganado Bolsonaro en Brasil? ¿Puede remontar Lula en la segunda vuelta? 5 claves de la sorpresa electoral",
+    "link": "https://www.elperiodico.com/es/internacional/20261005/elecciones-brasil-2026-que-ha-pasado-bolsonaro-lula-claves-135002482",
+    "pubDate": "2026-10-05 07:00:03",
+    "category": "",
+    "description": "<h2>El candidato ultraderechista le sacó menos de dos puntos de ventaja a Lula y llega al segundo turno del 25 de octubre en mejores condiciones que las esperadas</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Німеччина знову втрачає очки, поки Португалія вириває перемогу",
+    "link": "https://ua.korrespondent.net/sport/football/4917240-nimechchyna-znovu-vtrachaie-ochky-poky-portuhaliia-vyryvaie-peremohu",
+    "pubDate": "2026-10-05 06:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586859.jpg\">Збірна Німеччини знову не змогла подолати непоступливу Грецію, тоді як Португалія продемонструвала характер і вирвала перемогу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Vas a comprar un coche eléctrico? Estos son los 5 más vendidos en septiembre de 2026",
+    "link": "https://www.elperiodico.com/es/motor/20261005/5-coches-electricos-mas-vendidos-septiembre-2026-134874990",
+    "pubDate": "2026-10-05 06:57:37",
+    "category": "",
+    "description": "<h2>Te detallamos cuáles fueron los 5 vehículos eléctricos favoritos de los conductores españoles en el noveno mes del año</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Генштаб озвучив втрати росіян на 5 жовтня",
+    "link": "https://ua.korrespondent.net/ukraine/4917269-henshtab-ozvuchyv-vtraty-rosiian-na-5-zhovtnia",
+    "pubDate": "2026-10-05 06:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586816.jpg\">За минулу добу російська армія втратила близько 2 020 військових, а також сотні одиниць техніки. Загальні втрати особового складу РФ перевищили 1,54 млн осіб.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Троє гравців України ризикують пропустити матч з Угорщиною",
+    "link": "https://ua.korrespondent.net/sport/football/4917200-troie-hravtsiv-ukrainy-ryzykuuit-propustyty-match-z-uhorschynoui",
+    "pubDate": "2026-10-05 06:45:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586833.jpg\">За словами тренера, участь трьох ключових виконавців у матчі Ліги націй опинилася під питанням.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Чехія зупинила передачу Україні L-159 для боротьби з \"шахедами\"",
+    "link": "https://ua.korrespondent.net/world/4917265-chekhiia-zupynyla-peredachu-ukraini-L-159-dlia-borotby-z-shakhedamy",
+    "pubDate": "2026-10-05 06:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586814.jpeg\">Чехія розглядала передачу Україні легких бойових L-159 для боротьби з російськими дронами, але зрештою відмовилася від цього плану. Натомість Києву запропонували інший тип літаків.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Tráfico y transporte público en Catalunya, en directo: afectaciones en Rodalies tras el episodio de lluvias intensas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261005/trafico-cataluna-directo-carreteras-cortes-retenciones-133938712",
+    "pubDate": "2026-10-05 06:35:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Тренер Угорщини висловився про напруження після сутички з українцями",
+    "link": "https://ua.korrespondent.net/sport/football/4917196-trener-uhorschyny-vyslovyvsia-pro-napruzhennia-pislia-sutychky-z-ukraintsiamy",
+    "pubDate": "2026-10-05 06:28:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586815.jpg\">Наставник угорської команди висловив свою позицію щодо сутички футболістів і розповів про налаштування на повторне протистояння з українцями.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "США завдали удару по катеру наркоторговців у Карибському морі",
+    "link": "https://ua.korrespondent.net/world/4917263-ssha-zavdaly-udaru-po-kateru-narkotorhovtsiv-u-karybskomu-mori",
+    "pubDate": "2026-10-05 06:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586796.jpg\">Американські військові завдали удару по швидкісному катеру, який використовували на маршрутах наркотрафіку в Карибському морі. Внаслідок операції загинули четверо наркоторговців.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Correos y STEL Order resuelven las dudas sobre Verifactu en un encuentro práctico",
+    "link": "https://www.elperiodico.com/es/economia/20261005/correos-stel-order-claves-verifactu-bc-134927575",
+    "pubDate": "2026-10-05 06:15:00",
+    "category": "",
+    "description": "<h2>La jornada, disponible de forma presencial y online, mostrará cómo funciona una solución de gestión y facturación adaptada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Знову у грі: Ломаченко обирає між двома суперниками на бій",
+    "link": "https://ua.korrespondent.net/sport/boks/4917143-znovu-u-hri-lomachenko-obyraie-mizh-dvoma-supernykamy-na-bii",
+    "pubDate": "2026-10-05 06:10:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585640.jpg\">Промоутери вже визначили двох можливих суперників для українця на вечір боксу, який планується провести в листопаді.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Solo Márquez podía regalarle la victoria 100 a Dall’Igna con Ducati",
+    "link": "https://www.elperiodico.com/es/deportes/20261005/marquez-podia-regalarle-victoria-100-134993425",
+    "pubDate": "2026-10-05 06:09:04",
+    "category": "",
+    "description": "<h2 class=\"item\">Sexta victoria del año de Marc Márquez. Quinto doblete de la temporada del catalán. Triunfo número 100 de Gigi Dall'Igma, el gurú de Ducati. Y, por si faltaba poco, el nueve veces campeón del mundo coloca a Ducati como líder del Mundial de constructores, por vez primera este año. Todo eso, solo lo podía protagonizar Marc Márquez.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El problema creciente del cobre robado",
+    "link": "https://www.elperiodico.com/es/opinion/20261005/problema-creciente-cobre-robado-134993518",
+    "pubDate": "2026-10-05 06:00:57",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260921/alto-precio-cobre-dispara-robos-lineas-ferroviarias-134517940\" >El alto precio del cobre dispara los robos en las vías del tren a cifras récord: Catalunya acumula 4 de cada 10 saqueos</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El 'boom' del robo de cobre salta de las vías del tren a edificios, placas solares y electrolineras",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/robos-cobre-vias-tren-edificios-placas-solares-electrolineras-espana-134841296",
+    "pubDate": "2026-10-05 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">La sustracción de este material se ha disparado un 23% en el último año, azuzada por su alta cotización en el Mercado de Metales de Londres</h2><h2 class=\"item\">Un tercio de los puntos de recarga de coches eléctricos de España están inoperativos, muchos por el robo de mangueras </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261002/robo-cobre-sectores-construccion-energia-solar-indefension-134905640\" target=\"_blank\">El robo de cobre pone en alerta a la construcción y la energía solar: \"Da igual que tengas vigilancia, roban igual\"</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El precio del cobre se dispara por la alta demanda industrial, la escasez de producción y el acopio de China",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/precio-cobre-bate-records-alta-demanda-minas-china-134924374",
+    "pubDate": "2026-10-05 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">Este metal cotiza a 14.335 dólares la tonelada en la Bolsa de Metales de Londres, un 20,5% más que en abril, cuando se situaba en 11.900 dólares</h2><h2 class=\"item\">España es el octavo país que más cobre exporta del mundo y el cuarto de Europa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260921/alto-precio-cobre-dispara-robos-lineas-ferroviarias-134517940\" target=\"_blank\">El alto precio del cobre dispara los robos en las vías del tren a cifras récord: Catalunya acumula 4 de cada 10 saqueos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los Mossos intensifican la vigilancia de 'puntos críticos' de la red ferroviaria ante el aumento de robo de cobre",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/catalunya-refuerza-seguridad-robo-cobre-mossos-puntos-criticos-134890138",
+    "pubDate": "2026-10-05 06:00:56",
+    "category": "",
+    "description": "<h2 class=\"item\">En dos meses han elaborado seis estudios de lugares vulnerables para implementar medidas de seguridad</h2><h2 class=\"item\">La policía ha incrementado también los controles sobre las chatarrerías y los puntos de gestión de residuos </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261002/robos-cable-provocan-15-000-minutos-retrasos-septiembre-134924280\" target=\"_blank\">Los robos de cable provocan 15.000 minutos de retrasos en Rodalies en septiembre</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El robo de cobre pone en alerta a la construcción y la energía solar: \"Da igual que tengas vigilancia, roban igual\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/robo-cobre-sectores-construccion-energia-solar-indefension-134905640",
+    "pubDate": "2026-10-05 06:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Las empresas de la construcción estiman que este fenómeno ha provocado retrasos en un 44% de las obras </h2><h2 class=\"item\">El sector fotovoltaico reclama que suban las penas para los ladrones \"porque robar ahora sale gratis\"  </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261002/robos-cobre-vias-tren-edificios-placas-solares-electrolineras-espana-134841296\" target=\"_blank\">El 'boom' del robo de cobre salta de las vías del tren a edificios, placas solares y electrolineras</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los robos de cable en Rodalies baten récords: un 50% más de casos y el triple de detenciones en 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/robos-cable-rodalies-records-detenciones-cataluna-134869892",
+    "pubDate": "2026-10-05 06:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">En lo que va de año Adif ya ha denunciado 280 sustracciones, mientras que los Mossos han detenido a 69 personas</h2><h2 class=\"item\">La problemática se ha disparado en septiembre, con 35 hurtos y seis arrestos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260922/catalunya-endurecer-penas-ladrones-cobre-rodalies-134565038\">Catalunya quiere endurecer las penas para que los ladrones de cobre entren en prisión</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260715/cataluna-rodalies-renfe-concentra-robos-cable-trenes-espana-132477541\">Los robos de cable ferroviario se disparan en España: el 38% se producen en Catalunya</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Entrevista a Marc Toyas y Ruben Wagensberg.",
+    "link": "https://www.elperiodico.com/es/videos/deportes/entrevista-marc-toya-ruben-wagensberg-video/134861858.shtml",
+    "pubDate": "2026-10-05 06:00:54",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El Atlètic Hostafrancs y el Primavera Sound: \"Este club es también un espacio de bienvenida, de acogida\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261005/atletic-hostafrancs-primavera-sound-club-134857773",
+    "pubDate": "2026-10-05 06:00:53",
+    "category": "",
+    "description": "<h2>Marc Toyas y Ruben Wagensberg lideran un proyecto futbolístico de un equipo barcelonés que había  </h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las elecciones que Feijóo encomendó a Tellado",
+    "link": "https://www.elperiodico.com/es/politica/20261005/elecciones-feijoo-encomendo-tellado-134967020",
+    "pubDate": "2026-10-05 06:00:50",
+    "category": "",
+    "description": "<h2>El presidente del Partido Popular, Alberto Núñez Feijóo, ha confiado en su secretario general, Miguel Tellado, para dirigir la hoja de ruta electoral</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El caso de las chapuzas en cuarteles de la Guardia Civil llega a juicio con una petición de condena mínima para el teniente general y el empresario implicados",
+    "link": "https://www.elperiodico.com/es/politica/20261005/chapuzas-guardia-civil-juicio-jurado-penas-minimas-caso-cuarteles-134915655",
+    "pubDate": "2026-10-05 06:00:48",
+    "category": "",
+    "description": "<h2>Un jurado popular valorará si impone un año de cárcel teniente general en la reserva Pedro Vázquez Jarava y para el empresario Ángel Ramón 'Mon' Tejera de León por el amaño en obras a cambio de viajes y entradas para la Champions</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Red Eléctrica y las grandes energéticas cruzarán datos para tener un mapa total de la saturación de las redes",
+    "link": "https://www.elperiodico.com/es/economia/20261005/red-electrica-grandes-energeticas-cruzaran-134941168",
+    "pubDate": "2026-10-05 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">Competencia prepara un mecanismo de intercambio de información cada mes entre REE y las distribuidoras de todos los permisos de conexión concedidos a industrias, centros de datos y viviendas</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La crisis de Ceuta destapa los problemas informáticos en la Audiencia Nacional: \"No pueden fallar de forma recurrente como hasta ahora\"",
+    "link": "https://www.elperiodico.com/es/politica/20261005/crisis-ceuta-destapa-problemas-informaticos-134940645",
+    "pubDate": "2026-10-05 06:00:31",
+    "category": "",
+    "description": "<h2>La Sala de Gobierno de la Audiencia Nacional desvela que \"si a un magistrado se le estropea el ordenador debe esperar semanas, sino meses, a que se reponga su equipo. Esto no puede suceder en los próximos meses\", lamentan los magistrados</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La vivienda también tensiona la relación entre Illa y los Comuns",
+    "link": "https://www.elperiodico.com/es/politica/20261005/vivienda-catalunya-relacion-salvador-illa-govern-comuns-134934187",
+    "pubDate": "2026-10-05 06:00:28",
+    "category": "",
+    "description": "<h2>El debate de política general pone en evidencia que esta carpeta que ha hecho estragos en la coalición entre el PSOE y Sumar amenaza con aumentar las fricciones entre el Govern del PSC y su socio menor </h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261001/salvador-illa-debate-politica-general-catalunya-govern-erc-comuns-vivienda-reprobacion-junts-134879015\" target=\"_blank\">Illa se salva de su reprobación pero la oposición rehúsa su anuncio estrella en vivienda</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261002/vivienda-huelga-general-sindicatos-protestas-rechazo-decreto-maricarmen-134933423\" target=\"_blank\">Sindicatos y movimientos provivienda ultiman protestas y ponderan una huelga general tras el fracaso de los decretos 'Maricarmen'</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Iván García, CEO de NOX: \"Gestionar la velocidad es hoy uno de los grandes desafíos de cualquier empresa\"",
+    "link": "https://www.elperiodico.com/es/economia/20261005/ivan-garcia-ceo-nox-gestionar-134922139",
+    "pubDate": "2026-10-05 06:00:25",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/economia/20260928/merce-mullor-ceo-grupo-mullor-134688802\" target=\"_blank\">Mercè Mullor, CEO de Grupo Mullor: \"Suceder a mi madre, con su liderazgo, ha sido el mayor desafío\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Plesh incorpora a Ibai Llanos y Piqué como socios cofundadores y capta 3,75 millones de euros para ampliar público y puntos de venta",
+    "link": "https://www.elperiodico.com/es/economia/20261005/plesh-incorpora-ibai-llanos-pique-cofundadores-ronda-3-5-millones-134671575",
+    "pubDate": "2026-10-05 06:00:24",
+    "category": "",
+    "description": "<h2>El ‘streamer’ y el exfutbolista lideran esta operación de inversión en una empresa que ha cerrado también otro acuerdo para que les distribuya el grupo fabricante de los Lacasitos</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250410/plesh-chocolatina-saludable-flax-kale-disfrutar-pique-gasol-116056255\" target=\"_blank\">Plesh, la chocolatina con esencia Flax&Kale y Disfrutar que han apadrinado Piqué, Gasol o los hermanos Boix (Noel)</a></h2>",
+    "topic": "блогери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los trámites 'interminables' de la amnistía en el Tribunal de Cuentas y la Audiencia Nacional, pese a la sentencia del TJUE",
+    "link": "https://www.elperiodico.com/es/politica/20261005/tramites-interminables-amnistia-tribunal-cuentas-audiencia-nacional-134901975",
+    "pubDate": "2026-10-05 06:00:24",
+    "category": "",
+    "description": "<h2>La justicia europea declaró el pasado 16 de julio que la medida de gracia no afectaba a los intereses europeos, lo que significaba que se podía aplicar a la responsabilidad contable del 1-O y a los CDR con sustancias explosivas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Una técnica de diez segundos para hacer una pausa ante el estrés: qué dice la ciencia",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261005/tecnica-diez-segundos-pausa-estres-134759090",
+    "pubDate": "2026-10-05 06:00:23",
+    "category": "",
+    "description": "<h2 class=\"item\"><strong>No requiere una aplicación</strong>, una esterilla ni un lugar silencioso. Puede hacerse antes de una reunión, en una cola o en medio de una conversación difícil</h2><h2 class=\"item\">La evidencia global es prometedora, pero exige cautela</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La marca colectiva Corpinnat alcanza las 24 bodegas asociadas con la incorporación de Fèlix Massana Ràfols",
+    "link": "https://www.elperiodico.com/es/economia/20261005/colectiva-corpinnat-alcanza-24-boegas-felix-massana-rafols-134893031",
+    "pubDate": "2026-10-05 06:00:22",
+    "category": "",
+    "description": "<h2>Desde enero de 2025, cuando la entidad contaba con una docena de asociados, se ha duplicado el número de compañías que comercializan sus espumosos bajo este sello</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las 5 gasolineras más baratas de España para que rellenes tu depósito hoy",
+    "link": "https://www.elperiodico.com/es/motor/20261005/gasolineras-mas-baratas-hoy-lunes-5-octubre-2026-134871665",
+    "pubDate": "2026-10-05 06:00:21",
+    "category": "",
+    "description": "<h2>Si vas a llenar el depósito de tu vehículo hoy a continuación te contamos cuáles son las estaciones de servicio en las que te saldrá más barato </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261005/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-05 05:59:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Підсумки 04.10: Допомога ФРН і турелі у Києві",
+    "link": "https://ua.korrespondent.net/ukraine/4917173-pidsumky-0410-dopomoha-frn-i-tureli-u-kyievi",
+    "pubDate": "2026-10-05 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4585968.jpg\">Мерц прибув до Києва з неоголошеним візитом і привіз військову допомогу; У Києві встановили турелі для захисту від реактивних дронів. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Se pueden adelantar las elecciones para perderlas?",
+    "link": "https://www.elperiodico.com/es/opinion/20261005/adelantar-elecciones-perderlas-135001922",
+    "pubDate": "2026-10-05 05:52:42",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "ФІФА покарала клуб УПЛ трансферним баном",
+    "link": "https://ua.korrespondent.net/sport/football/4917190-fifa-pokarala-klub-upl-transfernym-banom",
+    "pubDate": "2026-10-05 05:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586423.jpg\">ФІФА офіційно заборонила трансферну діяльність Чорноморця, позбавивши клуб УПЛ права підписувати новачків.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Модрич зізнався, що пережив найгірший матч у складі збірної Хорватії",
+    "link": "https://ua.korrespondent.net/sport/football/4917185-modrych-ziznavsia-scho-perezhyv-naihirshyi-match-u-skladi-zbirnoi-khorvatii",
+    "pubDate": "2026-10-05 05:29:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586422.jpg\">За словами півзахисника, нищівна поразка стала справжньою катастрофою, а йому вперше в кар'єрі було соромно за гру збірної.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "\"Флеш\" показав Mesh-ретранслятори для шахедів",
+    "link": "https://ua.korrespondent.net/ukraine/4917259-flesh-pokazav-Mesh-retransliatory-dlia-shakhediv",
+    "pubDate": "2026-10-05 05:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586710.jpg\">Через невеличкі розміри пристрої дуже складно виявити. Натоміть ворогу потрібно лише підключити до ретрансляторів інтернет та живлення.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Habla el hijo del empresario de Manzanares asesinado y arrojado a un pozo: \"Nos han dejado sin padre por quedarse con 50.000 euros\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20261005/empresario-manzanares-asesinado-habla-hijo-135001755",
+    "pubDate": "2026-10-05 05:00:42",
+    "category": "",
+    "description": "<h2>Antonio Caba se enfrenta a 46 años de cárcel por matar a dos hombres en 2019 y 2022 para apropiarse de su dinero. Luego, ocultó sus cadáveres en dos pozos de Ciudad Real con ayuda de un cómplice</h2><h2>Nacho Isla, hijo de una de las víctimas, espera que el jurado popular tenga en cuenta \"las atrocidades que los asesinos hicieron a mi padre\" y a su familia: \"durante 8 meses lo buscamos mientras ellos lo insultaban y bromeaban, como acreditan las escuchas de la UCO\"</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Ф’юрі планує завершити кар’єру трилогією проти Усика",
+    "link": "https://ua.korrespondent.net/sport/boks/4917176-fuiri-planuie-zavershyty-karieru-trylohiieui-proty-usyka",
+    "pubDate": "2026-10-05 04:57:00",
+    "category": "Новини боксу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586401.jpg\">За словами британця, він прагне поставити крапку в професійному боксі саме третім поєдинком проти українця.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "ЗМІ назвали причини високих цін на нафту",
+    "link": "https://ua.korrespondent.net/world/4917257-zmi-nazvaly-prychyny-vysokykh-tsin-na-naftu",
+    "pubDate": "2026-10-05 04:56:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586692.jpg\">Хоча транспортування через Ормуз майже відновмлося, ринок продовжує закладати у вартість ризик нового загострення, виснаження світових запасів і дороге транспортування сировини.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У США прокоментували повідомлення про чуму в Росії",
+    "link": "https://ua.korrespondent.net/world/4917255-u-ssha-prokomentuvaly-povidomlennia-pro-chumu-v-rosii",
+    "pubDate": "2026-10-05 04:25:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586640.jpg\">В Адміністрації Трампа стежать за інформацією про можливі випадки Чуми в Іркутської області.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "РФ атакувала об'єкт інфраструктури Запоріжжя",
     "link": "https://ua.korrespondent.net/city/zaporozhye/4917253-rf-atakuvala-obiekt-infrastruktury-zaporizhzhia",
     "pubDate": "2026-10-05 03:51:00",

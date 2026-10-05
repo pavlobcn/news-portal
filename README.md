@@ -1,3 +1,22 @@
-# News for 2026-10-05 04:18
+# News for 2026-10-05 07:29
 
 Previous day: [2026-10-04](./data/2026-10-04.md)
+
+## ua.korrespondent.net
+04:56 [ЗМІ назвали причини високих цін на нафту](https://ua.korrespondent.net/world/4917257-zmi-nazvaly-prychyny-vysokykh-tsin-na-naftu)<br>
+04:25 [У США прокоментували повідомлення про чуму в Росії](https://ua.korrespondent.net/world/4917255-u-ssha-prokomentuvaly-povidomlennia-pro-chumu-v-rosii)<br>
+
+## as.com
+07:06 [“Siempre fue especial que me compararan con Sergio Rodríguez”](https://as.com/baloncesto/mas_baloncesto/siempre-fue-especial-que-me-compararan-con-sergio-rodriguez-f202610-n/)<br>
+
+## www.elperiodico.com
+07:05 [Última hora de la situación en Catalunya tras el histórico temporal de lluvia](https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025)<br>
+07:03 [Laura Encina, experta en finanzas: “Nuestra primera educación financiera no ocurre en un aula, ocurre en casa”](https://www.elperiodico.com/es/economia/20261005/laura-encina-finanzas-dia-educacion-financiera-134993821)<br>
+07:00 [El no adiós de Paco González](https://www.elperiodico.com/es/ocio-y-cultura/20261005/paco-gonzalez-no-adios-television-mas-134991126)<br>
+06:15 [Correos y STEL Order resuelven las dudas sobre Verifactu en un encuentro práctico](https://www.elperiodico.com/es/economia/20261005/correos-stel-order-claves-verifactu-bc-134927575)<br>
+06:00 [El precio del cobre se dispara por la alta demanda industrial, la escasez de producción y el acopio de China](https://www.elperiodico.com/es/sociedad/20261005/precio-cobre-bate-records-alta-demanda-minas-china-134924374)<br>
+06:00 [Red Eléctrica y las grandes energéticas cruzarán datos para tener un mapa total de la saturación de las redes](https://www.elperiodico.com/es/economia/20261005/red-electrica-grandes-energeticas-cruzaran-134941168)<br>
+06:00 [La crisis de Ceuta destapa los problemas informáticos en la Audiencia Nacional: "No pueden fallar de forma recurrente como hasta ahora"](https://www.elperiodico.com/es/politica/20261005/crisis-ceuta-destapa-problemas-informaticos-134940645)<br>
+06:00 [Iván García, CEO de NOX: "Gestionar la velocidad es hoy uno de los grandes desafíos de cualquier empresa"](https://www.elperiodico.com/es/economia/20261005/ivan-garcia-ceo-nox-gestionar-134922139)<br>
+06:00 [Una técnica de diez segundos para hacer una pausa ante el estrés: qué dice la ciencia](https://www.elperiodico.com/es/ser-feliz/20261005/tecnica-diez-segundos-pausa-estres-134759090)<br>
+06:00 [La marca colectiva Corpinnat alcanza las 24 bodegas asociadas con la incorporación de Fèlix Massana Ràfols](https://www.elperiodico.com/es/economia/20261005/colectiva-corpinnat-alcanza-24-boegas-felix-massana-rafols-134893031)<br>
