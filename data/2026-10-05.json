@@ -1,5 +1,50 @@
 [
   {
+    "title": "РФ атакувала об'єкт інфраструктури Запоріжжя",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4917253-rf-atakuvala-obiekt-infrastruktury-zaporizhzhia",
+    "pubDate": "2026-10-05 03:51:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586622.jpg\">Росіяни здійснили чергову атаку на Запоріжжя. У місті фіксують пошкодження, обійшлося без поранених.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Бомбардувальники США покинули авіабазу у Британії після спроби теракту",
+    "link": "https://ua.korrespondent.net/world/4917251-bombarduvalnyky-ssha-pokynuly-aviabazu-u-brytanii-pislia-sproby-teraktu",
+    "pubDate": "2026-10-05 03:24:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586604.jpg\">Офіційно причину не називають, однак неофіційно джерела ЗМІ в уряді визнають зв'язок із нещодавнім інцидентом.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "У Франції через протести призупинять роботу до 500 шкіл",
+    "link": "https://ua.korrespondent.net/world/4917249-u-frantsii-cherez-protesty-pryzupyniat-robotu-do-500-shkil",
+    "pubDate": "2026-10-05 02:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586586.jpg\">Навчання призупиняють, якщо в школах неможливо гарантувати безпеку або працівники стають об'єктами нападів.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Зеленський: Україні не вистачає $4млрд",
+    "link": "https://ua.korrespondent.net/ukraine/4917247-zelenskyi-ukraini-ne-vystachaie-4mlrd",
+    "pubDate": "2026-10-05 02:23:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586568.jpg\">Міністерство фінансів знає, де можна залучити близько три чверті із необхідної суми, однак поки не покрило цей дефіцит.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Трамп пригрозив, що не дасть гроші штату Огайо в разі перемоги демократів",
+    "link": "https://ua.korrespondent.net/world/4917245-tramp-pryhrozyv-scho-ne-dast-hroshi-shtatu-ohaio-v-razi-peremohy-demokrativ",
+    "pubDate": "2026-10-05 01:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586550.jpg\">Глава Білого дому заявив, що якщо на проміжних виборах в Огайо виграють демократи, він не буде відповідати на їхні запити щодо фінансування штату.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
     "title": "На Дніпропетровщині сталася ДТП за участю працівників ТЦК",
     "link": "https://ua.korrespondent.net/ukraine/4917243-na-dnipropetrovschyni-stalasia-dtp-za-uchastui-pratsivnykiv-ttsk",
     "pubDate": "2026-10-05 01:22:00",
