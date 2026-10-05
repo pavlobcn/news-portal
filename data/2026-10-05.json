@@ -1,0 +1,38 @@
+[
+  {
+    "title": "На Дніпропетровщині сталася ДТП за участю працівників ТЦК",
+    "link": "https://ua.korrespondent.net/ukraine/4917243-na-dnipropetrovschyni-stalasia-dtp-za-uchastui-pratsivnykiv-ttsk",
+    "pubDate": "2026-10-05 01:22:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586515.jpg\">У відомсві зазначили, що аварія не була пов'язана і заходами мобілізації, а викликана порушенням ПДД.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна і ФРН підписали документи на €8,5 млрд",
+    "link": "https://ua.korrespondent.net/ukraine/4917228-ukraina-i-frn-pidpysaly-dokumenty-na-85-mlrd",
+    "pubDate": "2026-10-05 00:49:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586400.jpg\">Серед домовленостей - як готові оборонні контракти, так і меморандуми про наміри. Зокрема йдеться про установки і ракети IRIS-T.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 5 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/portada-periodico-5-octubre-2026-135001245",
+    "pubDate": "2026-10-05 00:41:01",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удар по літаках РФ: з’явилося супутникове фото",
+    "link": "https://ua.korrespondent.net/world/russia/4917241-udar-po-litakakh-rf-ziavylosia-suputnykove-foto",
+    "pubDate": "2026-10-05 00:20:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4586497.jpg\">На знімку видно щонаменше два місця влучання зі слідами горіння. Перед цим СБУ заявляла про ураження двох літаків на аеродромі.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  }
+]
