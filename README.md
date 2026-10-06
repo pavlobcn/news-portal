@@ -1,8 +1,19 @@
-# News for 2026-10-06 17:04
+# News for 2026-10-06 21:01
 
 Previous day: [2026-10-05](./data/2026-10-05.md)
 
 ## ua.korrespondent.net
+20:49 [Китайські НПЗ кинулися скуповувати іракську нафту](https://ua.korrespondent.net/business/economics/4917862-kytaiski-npz-kynulysia-skupovuvaty-iraksku-naftu)<br>
+20:02 [В Ормузькій протоці атакували судно з громадянами Індії](https://ua.korrespondent.net/world/4917852-v-ormuzkii-prototsi-atakuvaly-sudno-z-hromadianamy-indii)<br>
+19:09 [У підводному каньйоні біля Аргентини виявили 57 нових видів тварин](https://ua.korrespondent.net/tech/science/4917839-u-pidvodnomu-kanioni-bilia-arhentyny-vyiavyly-57-novykh-vydiv-tvaryn)<br>
+19:07 [У РФ зупинив роботу великий НПЗ після атаки дронів](https://ua.korrespondent.net/world/russia/4917838-u-rf-zupynyv-robotu-velykyi-npz-pislia-ataky-droniv)<br>
+18:37 [На Херсонщині через атаки РФ загинув чоловік, серед постраждалих є медики](https://ua.korrespondent.net/ukraine/4917832-na-khersonschyni-cherez-ataky-rf-zahynuv-cholovik-sered-postrazhdalykh-ye-medyky)<br>
+18:34 [Біля берегів Сочі спалахнув нафтовий танкер](https://ua.korrespondent.net/world/4917831-bilia-berehiv-sochi-spalakhnuv-naftovyi-tanker)<br>
+18:18 [Укренерго попередило про відключення на 7 жовтня](https://ua.korrespondent.net/ukraine/4917829-ukrenerho-poperedylo-pro-vidkluichennia-na-7-zhovtnia)<br>
+17:53 [Після штрафу на 135 млн грн: НБУ знову покарав City24](https://ua.korrespondent.net/business/companies/4917822-pislia-shtrafu-na-135-mln-hrn-nbu-znovu-pokarav-City24)<br>
+17:48 [Курс долара відступив від історичного максимуму](https://ua.korrespondent.net/business/financial/4917817-kurs-dolara-vidstupyv-vid-istorychnoho-maksymumu)<br>
+17:19 [Україна опинилася в епіцентрі глобальних кібератак: новий звіт Microsoft](https://ua.korrespondent.net/world/4917809-ukraina-opynylasia-v-epitsentri-hlobalnykh-kiberatak-novyi-zvit-Microsoft)<br>
+16:58 [Британія затримала сьомого підозрюваного у справі теракту біля авіабази](https://ua.korrespondent.net/world/4917799-brytaniia-zatrymala-somoho-pidozruivanoho-u-spravi-teraktu-bilia-aviabazy)<br>
 15:28 [У Польщі почали шукати поховання понад 300 українців](https://ua.korrespondent.net/ukraine/4917759-u-polschi-pochaly-shukaty-pokhovannia-ponad-300-ukraintsiv)<br>
 15:27 [Гігантські акули почали відбирати улов у рибалок](https://ua.korrespondent.net/world/4917747-hihantski-akuly-pochaly-vidbyraty-ulov-u-rybalok)<br>
 15:07 ["Чума" в Росії: реакція українців](https://ua.korrespondent.net/ukraine/4917750-chuma-v-rosii-reaktsiia-ukraintsiv)<br>
@@ -25,6 +36,7 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 12:11 [Литва зробила крок до розміщення ядерної зброї на своїй території](https://ua.korrespondent.net/world/4917691-lytva-zrobyla-krok-do-rozmischennia-yadernoi-zbroi-na-svoii-terytorii)<br>
 12:00 [Ексглаву німецької розвідки арештували за підозрою у шпигунстві](https://ua.korrespondent.net/world/4917689-ekshlavu-nimetskoi-rozvidky-areshtuvaly-za-pidozroui-u-shpyhunstvi)<br>
 11:57 [Долар знову сягнув психологічної межі в обмінниках](https://ua.korrespondent.net/business/financial/4917687-dolar-znovu-siahnuv-psykholohichnoi-mezhi-v-obminnykakh)<br>
+11:50 [Укрзалізниця скасовує два популярні поїзди на захід України](https://ua.korrespondent.net/business/companies/4917683-ukrzaliznytsia-skasovuie-dva-populiarni-poizdy-na-zakhid-ukrainy)<br>
 11:38 [Південна Корея незадоволена вибаченнями України](https://ua.korrespondent.net/world/4917679-pivdenna-koreia-nezadovolena-vybachenniamy-ukrainy)<br>
 11:35 [Росія вдарила по судну в Чорному морі, є жертви](https://ua.korrespondent.net/ukraine/4917676-rosiia-vdaryla-po-sudnu-v-chornomu-mori-ye-zhertvy)<br>
 11:20 [На Камчатці впав російський Мі-8: є постраждалі](https://ua.korrespondent.net/world/russia/4917668-na-kamchattsi-vpav-rosiiskyi-mi-8-ye-postrazhdali)<br>
@@ -38,6 +50,7 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 03:49 [Повінь у Непалі: пошуки завершили, п'ять тисяч людей так і не знайшли](https://ua.korrespondent.net/world/4917595-povin-u-nepali-poshuky-zavershyly-piat-tysiach-luidei-tak-i-ne-znaishly)<br>
 
 ## as.com
+18:23 [Tyson Pérez, operado por el médico que trató las rodillas de Rafa Nadal](https://as.com/baloncesto/tyson-perez-operado-por-el-medico-que-trato-las-rodillas-de-rafa-nadal-f202610-n/)<br>
 14:00 [as en w](https://as.com/baloncesto/videos/-f202610-v/)<br>
 13:23 [La Euroliga rechaza por ahora a la NBA](https://as.com/baloncesto/euroliga/la-euroliga-rechaza-a-la-nba-f202610-n/)<br>
 11:28 [Vidorreta, sobre el futuro del baloncesto europeo: “Queremos estar en la pomada”](https://as.com/baloncesto/vidorreta-sobre-el-futuro-del-baloncesto-europeo-queremos-estar-en-la-pomada-f202610-n/)<br>
@@ -47,6 +60,30 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 06:13 [La reconquista de la Champions](https://as.com/baloncesto/la-reconquista-de-la-champions-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:59 [El paseo marítimo de la playa de San Sebastián de Sitges inundado](https://www.elperiodico.com/es/videos/sociedad/paseo-maritimo-playa-san-sebastian/135077299.shtml)<br>
+20:51 [Protecció Civil vuelve a advertir a Granollers de lluvias torrenciales mientras se suspende la búsqueda del menor desaparecido](https://www.elperiodico.com/es/barcelona/20261006/granollers-es-alert-lluvias-torrenciales-menor-desaparecido-135076936)<br>
+20:48 [La intensa lluvia en Madrid inunda la acampada de Sol](https://www.elperiodico.com/es/videos/politica/intensa-lluvia-madrid-inunda-acampada-sol-vivienda/135077126.shtml)<br>
+20:09 [Cuktech 10 Ultra: el cargador de 100 W que pone cifras a la carga](https://www.elperiodico.com/es/tecnologia/20261006/cuktech-10-ultra-cargador-100-135075499)<br>
+20:04 [Las lluvias causan graves derrumbes en Torre Baró: “Los vecinos hemos quitado barro con palas y con las manos”](https://www.elperiodico.com/es/barcelona/20261006/lluvias-temporal-barcelona-torre-baro-danos-vecinos-135075323)<br>
+20:03 [La emocionante reacción de los hijos de Karl Deisseroth al descubrir que su padre ha ganado el Nobel de Medicina](https://www.elperiodico.com/es/videos/sociedad/emocionante-reaccion-hijos-karl-deisseroth-nobel-medicina/135075808.shtml)<br>
+20:01 [Los maquinistas se niegan a circular por varios de los tramos de Rodalies afectados por las lluvias](https://www.elperiodico.com/es/sociedad/20261006/maquinistas-niegan-circular-tramos-rodalies-cerrados-lluvia-135067001)<br>
+19:57 [Una calle inundada de Xerta](https://www.elperiodico.com/es/videos/sucesos/calle-inundada-xerta/135075633.shtml)<br>
+19:53 [LLuvia intensa en mont-Roig del Camp (Baix Camp)](https://www.elperiodico.com/es/videos/sucesos/lluvia-intensa-mont-roig-camp/135075513.shtml)<br>
+19:34 [El Museu Egipci luce un nuevo y sorprendente conjunto funerario de hace 2.500 años](https://www.elperiodico.com/es/ocio-y-cultura/20261006/museu-egipci-luce-nuevo-sorprendente-135030697)<br>
+19:32 [El músico Jordi Savall impulsa el Spotify del jazz y la música antigua, AEVUM, con 4 millones de canciones](https://www.elperiodico.com/es/ocio-y-cultura/20261006/musico-jordi-savall-impulsa-spotify-135074959)<br>
+19:27 [El temporal explota y obliga a activar avisos rojos en todo el litoral catalán ante el riesgo de más lluvias torrenciales](https://www.elperiodico.com/es/sociedad/20261006/temporal-explota-avisos-rojos-litoral-cataluna-martes-135074505)<br>
+19:25 [Rafa Guerrero, psicólogo, sobre la relación entre los hermanos: "Es muy importante el número que yo ocupe dentro de mi familia"](https://www.elperiodico.com/es/ser-feliz/20261006/relacion-hermanos-infancia-psicologo-rafa-guerrero-dv-et-134758970)<br>
+18:49 [Los bomberos rescatan a ocupantes de varios vehículos atrapados por la tormenta en Xerta](https://www.elperiodico.com/es/sucesos/20261006/bomberos-rescatan-ocupantes-vehiculos-atrapados-xerta-tormenta-135073468)<br>
+18:22 [Gillian Anderson pide a sus fans que dejen de ocupar la primera fila en el teatro porque la distraen](https://www.elperiodico.com/es/gente/20261006/gillian-anderson-pide-fans-dejen-135072064)<br>
+18:19 [La tecnológica JetBrains abrirá unas oficinas en Barcelona "como enclave estratégico de crecimiento"](https://www.elperiodico.com/es/economia/20261006/tecnologica-jetbrains-abrira-oficinas-barcelona-135069054)<br>
+18:01 [La infanta Elena y su momento 'tierra trágame' al coincidir en un estreno con Bárbara Rey y Álvaro de Marichalar](https://www.elperiodico.com/es/gente/20261006/infanta-elena-momento-tierra-tragame-135070380)<br>
+18:01 [Javier de Haro, psicólogo: "Tenemos que conseguir que, cuando tenemos hijos, esa casa no sea solo la estructura o la decoración, sea como nos hace sentir"](https://www.elperiodico.com/es/ser-feliz/20261006/ninos-casa-desarrollo-entorno-orden-javier-haro-psicologo-dv-et-134831046)<br>
+18:01 [Sitges 2026: Las directoras españolas irrumpen (por fin) en el cine de terror](https://www.elperiodico.com/es/ocio-y-cultura/20261006/festival-sitges-directoras-espanolas-cine-terror-135055666)<br>
+18:00 [Protecció Civil envía dos Es-Alert a seis comarcas de Tarragona y el Ebro por la previsión de lluvias intensas](https://www.elperiodico.com/es/tarragona/20261006/proteccio-civil-envia-alert-cuatro-comarcas-tarragona-ebro-135070609)<br>
+17:48 [El área de neonatos de Vall d'Hebron ya funciona al 80%, pero cuatro quirófanos siguen cerrados por los efectos de las lluvias torrenciales](https://www.elperiodico.com/es/sanidad/20261006/neonatos-vall-dhebron-funcionan-80-cuatro-quirofanos-parados-cataluna-135067914)<br>
+17:42 [Sílvia Munt dirige 'Panorama desde el pont' (Teatre Goya): "El machismo y el patriarcado siguen a la orden del día"](https://www.elperiodico.com/es/ocio-y-cultura/20261006/silvia-munt-panorama-pont-machismo-teatro-goya-barcelona-135057955)<br>
+17:37 [Tiempo en Catalunya mañana miércoles: Siguen las lluvias y los avisos en Barcelona, Girona y Tarragona](https://www.elperiodico.com/es/tiempo/20261006/tiempo-cataluna-hoy-miercoles-7-de-septiembre-lluvia-temperaturas-dv-loc-135067512)<br>
+17:19 [Celsa mejora resultados y busca nuevo propietario](https://www.elperiodico.com/es/economia/20261006/celsa-mejora-resultados-busca-nuevo-135054983)<br>
 17:00 [Carlos Cuevas (30 años), sobre la vivienda en Barcelona y Madrid: "En las ciudades hay muchos pisos vacíos que podrían ponerse al servicio del pueblo"](https://www.elperiodico.com/es/gente/20261006/carlos-cuevas-vivienda-cine-barcelona-madrid-dv-loc-et-135059688)<br>
 17:00 [Oreste (73 años) dejó su trabajo para vivir solo en una cabaña a 2.000 metros de altura: "A veces pienso que, si el paraíso existiera y fuera así, todos harían cualquier cosa para ganárselo"](https://www.elperiodico.com/es/economia/20261006/dimite-trabajo-ibm-vivir-cabana-aislada-animales-himalaya-italia-oreste-dv-et-134609561)<br>
 16:33 [Cholo Simeone tiene en propiedad más de 180 pisos en Madrid y 40 millones en activos](https://www.elperiodico.com/es/videos/economia/cholo-simeone-propiedad-180-pisos/135067122.shtml)<br>
@@ -66,6 +103,7 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 13:37 [Sergio Ramírez, escritor: "Si una novela cambia a una persona, eso ya es una tarea enorme"](https://www.elperiodico.com/es/ocio-y-cultura/20261006/sergio-ramirez-escritor-novela-cambia-135058407)<br>
 13:32 [Día de la Visión 2026](https://www.elperiodico.com/es/videos/sociedad/dia-vision-2026/135058392.shtml)<br>
 12:53 [Una patada en los testículos de su hijo de 4 años le salvó la vida: tenía cáncer](https://www.elperiodico.com/es/vida-y-estilo/20261006/cancer-patada-testiculos-dv-et-135047173)<br>
+11:55 [El Nobel de Física 2026 premia a Francis Halzen por capturar neutrinos cósmicos desde el Polo Sur](https://www.elperiodico.com/es/sociedad/20261006/nobel-fisica-2026-ganadores-135045120)<br>
 11:55 [César Bona, educador: "Si la inteligencia artificial sustituye al maestro, la humanidad estará perdida"](https://www.elperiodico.com/es/sociedad/20261006/cesar-bona-educador-hijo-inteligencia-artificial-ia-mas-preguntas-135034991)<br>
 11:43 [Muere Andrés Naya, activista vecinal histórico de Barcelona](https://www.elperiodico.com/es/barcelona/20261006/muere-andres-naya-activista-vecinal-nou-barris-135050849)<br>
 11:33 [Unas 470 personas buscan al menor de 12 años desaparecido en Granollers durante el temporal](https://www.elperiodico.com/es/barcelona/20261006/470-personas-buscan-menor-12-135050735)<br>
@@ -74,6 +112,7 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 10:56 [Catalunya activa para esta tarde avisos naranjas por intensidad de lluvias y pide extremar precauciones en el litoral](https://www.elperiodico.com/es/sociedad/20261006/cataluna-martes-avisos-lluvias-meteocat-prediccion-135048798)<br>
 10:43 [Peste pulmonar en Rusia: qué se sabe, cómo se transmite y por qué casi 200 personas están en cuarentena](https://www.elperiodico.com/es/salud/20261006/peste-neumonica-transmite-200-personas-cuarentena-rusia-135006983)<br>
 10:15 [Las lluvias torrenciales ponen al límite unas ciudades no adaptadas al nuevo clima: "Urge revisar el alcantarillado"](https://www.elperiodico.com/es/sociedad/20261006/lluvias-torrenciales-ausencia-medidas-ciudades-infraestructuras-135011927)<br>
+10:15 [Los ingenieros piden más depósitos pluviales y colectores para evitar inundaciones en los municipios catalanes](https://www.elperiodico.com/es/sociedad/20261006/ingenieros-depositos-colectores-lluvias-inundaciones-barcelona-cataluna-135049878)<br>
 10:00 [El Telescopio Solar Europeo entra en el ‘olimpo’ de la ciencia europea antes de construirse en La Palma](https://www.elperiodico.com/es/sociedad/20261006/telescopio-solar-europeo-entra-olimpo-135046531)<br>
 09:45 [Por qué una caída puede cambiar la vida de una persona mayor y cómo prevenirla: "Miedo, pérdida de fuerza y deterioro"](https://www.elperiodico.com/es/salud/20261006/caida-cambiar-vida-persona-mayor-135046342)<br>
 09:41 [Una amenaza climática oculta bajo la Antártida podría elevar el nivel del mar hasta 4 metros](https://www.elperiodico.com/es/tendencias21/20261006/amenaza-climatica-oculta-antartida-elevar-135046232)<br>
