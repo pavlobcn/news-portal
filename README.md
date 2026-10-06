@@ -1,8 +1,10 @@
-# News for 2026-10-06 21:01
+# News for 2026-10-06 22:12
 
 Previous day: [2026-10-05](./data/2026-10-05.md)
 
 ## ua.korrespondent.net
+21:57 [Російський дрон атакував людей біля ТЦ у Сумах](https://ua.korrespondent.net/ukraine/4917869-rosiiskyi-dron-atakuvav-luidei-bilia-tts-u-sumakh)<br>
+21:17 [У Франції скорочуються запаси питної води](https://ua.korrespondent.net/world/4917865-u-frantsii-skorochuuitsia-zapasy-pytnoi-vody)<br>
 20:49 [Китайські НПЗ кинулися скуповувати іракську нафту](https://ua.korrespondent.net/business/economics/4917862-kytaiski-npz-kynulysia-skupovuvaty-iraksku-naftu)<br>
 20:02 [В Ормузькій протоці атакували судно з громадянами Індії](https://ua.korrespondent.net/world/4917852-v-ormuzkii-prototsi-atakuvaly-sudno-z-hromadianamy-indii)<br>
 19:09 [У підводному каньйоні біля Аргентини виявили 57 нових видів тварин](https://ua.korrespondent.net/tech/science/4917839-u-pidvodnomu-kanioni-bilia-arhentyny-vyiavyly-57-novykh-vydiv-tvaryn)<br>
@@ -12,8 +14,10 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 18:18 [Укренерго попередило про відключення на 7 жовтня](https://ua.korrespondent.net/ukraine/4917829-ukrenerho-poperedylo-pro-vidkluichennia-na-7-zhovtnia)<br>
 17:53 [Після штрафу на 135 млн грн: НБУ знову покарав City24](https://ua.korrespondent.net/business/companies/4917822-pislia-shtrafu-na-135-mln-hrn-nbu-znovu-pokarav-City24)<br>
 17:48 [Курс долара відступив від історичного максимуму](https://ua.korrespondent.net/business/financial/4917817-kurs-dolara-vidstupyv-vid-istorychnoho-maksymumu)<br>
+17:33 [Марат Мамбетов посмертно став Героєм України](https://ua.korrespondent.net/ukraine/4917814-marat-mambetov-posmertno-stav-heroiem-ukrainy)<br>
 17:19 [Україна опинилася в епіцентрі глобальних кібератак: новий звіт Microsoft](https://ua.korrespondent.net/world/4917809-ukraina-opynylasia-v-epitsentri-hlobalnykh-kiberatak-novyi-zvit-Microsoft)<br>
 16:58 [Британія затримала сьомого підозрюваного у справі теракту біля авіабази](https://ua.korrespondent.net/world/4917799-brytaniia-zatrymala-somoho-pidozruivanoho-u-spravi-teraktu-bilia-aviabazy)<br>
+16:37 [Російському адміралу оголосили підозру за удар Калібрами по Києву](https://ua.korrespondent.net/ukraine/4917787-rosiiskomu-admiralu-oholosyly-pidozru-za-udar-kalibramy-po-kyievu)<br>
 15:28 [У Польщі почали шукати поховання понад 300 українців](https://ua.korrespondent.net/ukraine/4917759-u-polschi-pochaly-shukaty-pokhovannia-ponad-300-ukraintsiv)<br>
 15:27 [Гігантські акули почали відбирати улов у рибалок](https://ua.korrespondent.net/world/4917747-hihantski-akuly-pochaly-vidbyraty-ulov-u-rybalok)<br>
 15:07 ["Чума" в Росії: реакція українців](https://ua.korrespondent.net/ukraine/4917750-chuma-v-rosii-reaktsiia-ukraintsiv)<br>
@@ -60,6 +64,11 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 06:13 [La reconquista de la Champions](https://as.com/baloncesto/la-reconquista-de-la-champions-f202610-n/)<br>
 
 ## www.elperiodico.com
+21:47 [La tormenta de esta tarde en el centro de Barcelona.](https://www.elperiodico.com/es/videos/sociedad/tormenta-tarde-centro-barcelona/135078251.shtml)<br>
+21:33 [La tormenta de esta tarde desde el Fòrum de Barcelona.](https://www.elperiodico.com/es/videos/sucesos/tormenta-tarde-forum-barcelona/135077981.shtml)<br>
+21:25 [Vídeos | Las imágenes del temporal que descarga con fuerza en Catalunya: carreteras cortadas en Tarragona y 12 comarcas en aviso](https://www.elperiodico.com/es/sociedad/20261006/imagenes-temporal-descarga-fuerza-cataluna-tarragona-granollers-barcelona-hospitalet-135077607)<br>
+21:06 [Adiós a Andrés Naya, el alcalde de Nou Barris](https://www.elperiodico.com/es/opinion/20261006/adios-andres-naya-alcalde-nou-barris-prosperitat-135076898)<br>
+21:04 [Andrés Naya en la presentación de sus dos libros, entre los "cabezudos" del barrio](https://www.elperiodico.com/es/videos/barcelona/andres-naya-presentacion-libros-cabezudos/135077250.shtml)<br>
 20:59 [El paseo marítimo de la playa de San Sebastián de Sitges inundado](https://www.elperiodico.com/es/videos/sociedad/paseo-maritimo-playa-san-sebastian/135077299.shtml)<br>
 20:51 [Protecció Civil vuelve a advertir a Granollers de lluvias torrenciales mientras se suspende la búsqueda del menor desaparecido](https://www.elperiodico.com/es/barcelona/20261006/granollers-es-alert-lluvias-torrenciales-menor-desaparecido-135076936)<br>
 20:48 [La intensa lluvia en Madrid inunda la acampada de Sol](https://www.elperiodico.com/es/videos/politica/intensa-lluvia-madrid-inunda-acampada-sol-vivienda/135077126.shtml)<br>
