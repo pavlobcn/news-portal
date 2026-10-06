@@ -1,5 +1,50 @@
 [
   {
+    "title": "Miles de manifestantes calientan desde Barcelona una huelga general provivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261005/manifestacion-vivienda-barcelona-huelga-general-disturbios-mossos-135040538",
+    "pubDate": "2026-10-05 23:56:08",
+    "category": "",
+    "description": "<h2>Entre 120.000 asistentes, según los organizadores, y 20.000, según la Guardia Urbana, se movilizan por el centro de Barcelona en una protesta que finaliza en disturbios</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Milei anuncia un viaje a España en plena campaña electoral",
+    "link": "https://www.elperiodico.com/es/politica/20261005/milei-anuncia-viaje-espana-plena-135040556",
+    "pubDate": "2026-10-05 23:55:16",
+    "category": "",
+    "description": "<h2>Las fuentes del Gobierno argentino no precisaron los motivos del viaje, ni las fechas exactas, ni detalles de la agenda de Milei en España</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Muere el escritor superventas y político británico Jeffrey Archer",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/muere-escritor-superventas-politico-britanico-135040383",
+    "pubDate": "2026-10-05 23:40:38",
+    "category": "",
+    "description": "<h2>El escritor, que alcanzó gran popularidad con títulos como 'Caín y Abel', muere a los 86 años coincidiendo con la publicación de su nueva obra titulada 'Adán y Eva'</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Olise revoluciona a la Francia de Zidane contra Bélgica (4-1) y Mancini repite triunfo con Italia ante Turquía (3-1)",
+    "link": "https://www.elperiodico.com/es/deportes/20261005/olise-revoluciona-francia-zidane-belgica-135040353",
+    "pubDate": "2026-10-05 23:37:07",
+    "category": "",
+    "description": "<h2 class=\"item\">Los 'bleus' sufrieron hasta el último cuarto de hora para remontar el pulso frente al conjunto de Van Bommel.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 6 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261005/portada-periodico-6-octubre-2026-135040175",
+    "pubDate": "2026-10-05 23:02:29",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Barcelona reconoce la trayectoria del arquitecto Josep Antoni Acebillo",
     "link": "https://www.elperiodico.com/es/barcelona/20261005/barcelona-josep-antoni-acebillo-arquitecto-trayectoria-urbanismo-135039969",
     "pubDate": "2026-10-05 22:49:38",
