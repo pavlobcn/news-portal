@@ -1,4 +1,4 @@
-# News for 2026-10-06 22:12
+# News for 2026-10-07 00:58
 
 Previous day: [2026-10-05](./data/2026-10-05.md)
 
@@ -16,7 +16,9 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 17:48 [Курс долара відступив від історичного максимуму](https://ua.korrespondent.net/business/financial/4917817-kurs-dolara-vidstupyv-vid-istorychnoho-maksymumu)<br>
 17:33 [Марат Мамбетов посмертно став Героєм України](https://ua.korrespondent.net/ukraine/4917814-marat-mambetov-posmertno-stav-heroiem-ukrainy)<br>
 17:19 [Україна опинилася в епіцентрі глобальних кібератак: новий звіт Microsoft](https://ua.korrespondent.net/world/4917809-ukraina-opynylasia-v-epitsentri-hlobalnykh-kiberatak-novyi-zvit-Microsoft)<br>
+17:14 [У Києві відновили Північний міст після атак РФ](https://ua.korrespondent.net/city/kiev/4917803-u-kyievi-vidnovyly-pivnichnyi-mist-pislia-atak-rf)<br>
 16:58 [Британія затримала сьомого підозрюваного у справі теракту біля авіабази](https://ua.korrespondent.net/world/4917799-brytaniia-zatrymala-somoho-pidozruivanoho-u-spravi-teraktu-bilia-aviabazy)<br>
+16:46 [Світовий банк погіршив очікування щодо ВВП України](https://ua.korrespondent.net/business/economics/4917790-svitovyi-bank-pohirshyv-ochikuvannia-schodo-vvp-ukrainy)<br>
 16:37 [Російському адміралу оголосили підозру за удар Калібрами по Києву](https://ua.korrespondent.net/ukraine/4917787-rosiiskomu-admiralu-oholosyly-pidozru-za-udar-kalibramy-po-kyievu)<br>
 15:28 [У Польщі почали шукати поховання понад 300 українців](https://ua.korrespondent.net/ukraine/4917759-u-polschi-pochaly-shukaty-pokhovannia-ponad-300-ukraintsiv)<br>
 15:27 [Гігантські акули почали відбирати улов у рибалок](https://ua.korrespondent.net/world/4917747-hihantski-akuly-pochaly-vidbyraty-ulov-u-rybalok)<br>
@@ -54,6 +56,8 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 03:49 [Повінь у Непалі: пошуки завершили, п'ять тисяч людей так і не знайшли](https://ua.korrespondent.net/world/4917595-povin-u-nepali-poshuky-zavershyly-piat-tysiach-luidei-tak-i-ne-znaishly)<br>
 
 ## as.com
+22:57 [Sulejmanovic lidera la primera victoria europea del Joventut](https://as.com/baloncesto/mas_baloncesto/sulejmanovic-lidera-la-primera-victoria-europea-del-joventut-f202610-n/)<br>
+22:23 [El Bilbao sigue con su idilio europeo](https://as.com/baloncesto/el-bilbao-sigue-con-su-idilio-europeo-f202610-n/)<br>
 18:23 [Tyson Pérez, operado por el médico que trató las rodillas de Rafa Nadal](https://as.com/baloncesto/tyson-perez-operado-por-el-medico-que-trato-las-rodillas-de-rafa-nadal-f202610-n/)<br>
 14:00 [as en w](https://as.com/baloncesto/videos/-f202610-v/)<br>
 13:23 [La Euroliga rechaza por ahora a la NBA](https://as.com/baloncesto/euroliga/la-euroliga-rechaza-a-la-nba-f202610-n/)<br>
@@ -64,6 +68,12 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 06:13 [La reconquista de la Champions](https://as.com/baloncesto/la-reconquista-de-la-champions-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:49 [Muere Eva Marie Saint, protagonista de la mítica 'Con la muerte en los talones', a los 102 años](https://www.elperiodico.com/es/ocio-y-cultura/20261006/muere-eva-marie-saint-protagonista-135079686)<br>
+23:43 [Un centenar de pasajeros son evacuados tras el impacto de un talud contra un convoy en Catalunya](https://www.elperiodico.com/es/sociedad/20261006/arbol-talud-tren-vilanova-cunit-rodalies-lluvias-135079653)<br>
+23:38 [Christa Pike se encuentra consciente y hablando, según sus abogados](https://www.elperiodico.com/es/internacional/20261006/christa-pike-encuentra-consciente-hablando-135079613)<br>
+22:26 [El FIATC Girona debuta en Europa con un peleado triunfo ante el Dinamo de Bucarest (87-75)](https://www.elperiodico.com/es/deportes/20261006/fiatc-girona-debuta-europa-sufrido-135078543)<br>
+22:25 [Las PAU de 2027 serán el 1, 2 y 3 de junio y la convocatoria extraordinaria se adelanta por primera vez a julio](https://www.elperiodico.com/es/educacion/20261006/pau-seran-dias-1-2-y-3-de-junio-convocatoria-extraordinaria-julio-135072135)<br>
+22:20 [El temporal coge fuerza y descarga más de 40.000 rayos entre la costa catalana y las aguas del Mediterráneo](https://www.elperiodico.com/es/sociedad/20261006/temporal-martes-rayos-costa-cataluna-135078477)<br>
 21:47 [La tormenta de esta tarde en el centro de Barcelona.](https://www.elperiodico.com/es/videos/sociedad/tormenta-tarde-centro-barcelona/135078251.shtml)<br>
 21:33 [La tormenta de esta tarde desde el Fòrum de Barcelona.](https://www.elperiodico.com/es/videos/sucesos/tormenta-tarde-forum-barcelona/135077981.shtml)<br>
 21:25 [Vídeos | Las imágenes del temporal que descarga con fuerza en Catalunya: carreteras cortadas en Tarragona y 12 comarcas en aviso](https://www.elperiodico.com/es/sociedad/20261006/imagenes-temporal-descarga-fuerza-cataluna-tarragona-granollers-barcelona-hospitalet-135077607)<br>
