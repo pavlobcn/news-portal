@@ -1,8 +1,10 @@
-# News for 2026-10-06 15:30
+# News for 2026-10-06 17:04
 
 Previous day: [2026-10-05](./data/2026-10-05.md)
 
 ## ua.korrespondent.net
+15:28 [У Польщі почали шукати поховання понад 300 українців](https://ua.korrespondent.net/ukraine/4917759-u-polschi-pochaly-shukaty-pokhovannia-ponad-300-ukraintsiv)<br>
+15:27 [Гігантські акули почали відбирати улов у рибалок](https://ua.korrespondent.net/world/4917747-hihantski-akuly-pochaly-vidbyraty-ulov-u-rybalok)<br>
 15:07 ["Чума" в Росії: реакція українців](https://ua.korrespondent.net/ukraine/4917750-chuma-v-rosii-reaktsiia-ukraintsiv)<br>
 15:02 [Чи втомилися українці від війни: нові дані опитування](https://ua.korrespondent.net/ukraine/4917753-chy-vtomylysia-ukraintsi-vid-viiny-novi-dani-opytuvannia)<br>
 14:59 [Підсанкційні танкери возять пальне з Південної Кореї до Росії](https://ua.korrespondent.net/world/4917751-pidsanktsiini-tankery-voziat-palne-z-pivdennoi-korei-do-rosii)<br>
@@ -45,6 +47,13 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 06:13 [La reconquista de la Champions](https://as.com/baloncesto/la-reconquista-de-la-champions-f202610-n/)<br>
 
 ## www.elperiodico.com
+17:00 [Carlos Cuevas (30 años), sobre la vivienda en Barcelona y Madrid: "En las ciudades hay muchos pisos vacíos que podrían ponerse al servicio del pueblo"](https://www.elperiodico.com/es/gente/20261006/carlos-cuevas-vivienda-cine-barcelona-madrid-dv-loc-et-135059688)<br>
+17:00 [Oreste (73 años) dejó su trabajo para vivir solo en una cabaña a 2.000 metros de altura: "A veces pienso que, si el paraíso existiera y fuera así, todos harían cualquier cosa para ganárselo"](https://www.elperiodico.com/es/economia/20261006/dimite-trabajo-ibm-vivir-cabana-aislada-animales-himalaya-italia-oreste-dv-et-134609561)<br>
+16:33 [Cholo Simeone tiene en propiedad más de 180 pisos en Madrid y 40 millones en activos](https://www.elperiodico.com/es/videos/economia/cholo-simeone-propiedad-180-pisos/135067122.shtml)<br>
+16:25 [Los clubs de la Euroliga rechazan una fusión con la NBA Europa](https://www.elperiodico.com/es/deportes/20261006/clubs-euroliga-dan-portazo-nba-acuerdo-ampliar-competicion-135065025)<br>
+16:25 [Estas son las obras en casa que puedes hacer sin licencia: la comunidad puede intervenir si alteran la fachada, la estructura o la estética del edificio](https://www.elperiodico.com/es/vivienda/20261006/ley-propiedad-horizontal-permisos-licencias-obras-vivienda-dv-133862659)<br>
+15:56 [Una bolsa de aire frío provocará más lluvias torrenciales en Catalunya](https://www.elperiodico.com/es/videos/sociedad/bolsa-aire-frio-provocara-lluvias/135065215.shtml)<br>
+15:46 ["Pagamos las consecuencias de un problema que no es nuestro": agricultores del Baix Llobregat pierden cosechas por las inundaciones](https://www.elperiodico.com/es/barcelona/20261006/agricultores-baix-llobregat-pierden-cultivos-inundaciones-135064116)<br>
 15:08 [Futuros culturales](https://www.elperiodico.com/es/opinion/20261006/futuros-culturales-teatro-temporada-alta-articulo-josep-maria-fonalleras-135063059)<br>
 15:05 [El precio del euríbor hoy, 6 de octubre: el índice vuelve a sonreír a los titulares de hipotecas](https://www.elperiodico.com/es/economia/20261006/precio-euribor-hoy-6-octubre-dv-135063138)<br>
 15:02 [Francia hace desde un submarino el primer lanzamiento de prueba de un misil nuclear M51](https://www.elperiodico.com/es/videos/internacional/francia-submarino-primer-lanzamiento-prueba/135063248.shtml)<br>
