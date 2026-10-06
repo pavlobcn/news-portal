@@ -1,5 +1,599 @@
 [
   {
+    "title": "Sylvester Stallone, mucho más Rocky que Rambo",
+    "link": "https://www.elperiodico.com/es/opinion/20261006/sylvester-stallone-rocky-rambo-135042289",
+    "pubDate": "2026-10-06 08:22:00",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las muñecas de Famosa pierden más de la mitad de sus ventas en un año a la espera de su nuevo accionista chino",
+    "link": "https://www.elperiodico.com/es/economia/20261006/munecas-famosa-pierden-mitad-ventas-135044821",
+    "pubDate": "2026-10-06 08:17:19",
+    "category": "",
+    "description": "<h2>La juguetera alicantina está pendiente de la autorización de juzgado de Milán para hacer efectivo el acuerdo que dará la propiedad de la compañía a la multinacional asiática Superhisen</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Alerta por lluvias en Catalunya, en directo: última hora del tiempo y el aviso de Aemet y Meteocat para este martes",
+    "link": "https://www.elperiodico.com/es/sociedad/20261006/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
+    "pubDate": "2026-10-06 08:17:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260926/nino-intensidad-previsiones-sequias-lluvias-torrenciales-inundaciones-134684053\" target=\"_blank\">El Niño cobra fuerza y ya se perfila como el más intenso desde 1950: medio mundo en riesgo de inundaciones, y el otro, de sequías</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra civil en la televisión",
+    "link": "https://www.elperiodico.com/es/videos/tele/sergi-mas-guerra-civil-television-video/135026797.shtml",
+    "pubDate": "2026-10-06 08:14:19",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Amnistía a Carles Puigdemont, en directo: última hora de la decisión del Tribunal Constitucional y su regreso a España",
+    "link": "https://www.elperiodico.com/es/politica/20261006/carles-puigdemont-amnistia-ultima-hora-directo-135044373",
+    "pubDate": "2026-10-06 08:11:20",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261006/tc-despeja-vuelta-puigdemont-corregir-supremo-malversacion-135031761\" >El TC despejará hoy la vuelta de Puigdemont al corregir al Supremo y ordenar aplicar la amnistía a la malversación</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удар РФ по Одесі: пошкоджено підприємство",
+    "link": "https://ua.korrespondent.net/city/odessa/4917624-udar-rf-po-odesi-poshkodzheno-pidpryiemstvo",
+    "pubDate": "2026-10-06 08:11:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588016.jpg\">В Одесі після нічної атаки РФ пошкоджено будівлю приватного підприємства. На об’єкті спалахнула пожежа, однак обійшлося без постраждалих і руйнувань житлового сектору.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Google Pixel, Samsung, Xiaomi y iPhone: los 10 móviles que más caen de precio en el Amazon Prime Day 2026",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261006/google-pixel-samsung-xiaomi-iphone-135044590",
+    "pubDate": "2026-10-06 08:10:02",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">El Prime Day de Amazon derrumba los precios de los modelos más buscados de móviles de marcas como Samsung, Xiaomi o Google</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Fiesta de Ofertas Prime 2026 de Amazon: los 12 chollos que la editora de compras sí o sí ya tiene en su cesta",
+    "link": "https://www.elperiodico.com/es/shopping/20261006/ofertas-recomendadas-prime-fiesta-amazon-135017864",
+    "pubDate": "2026-10-06 08:05:42",
+    "category": "",
+    "description": "<h2>Hemos revisado cientos de descuentos para quedarnos con estos productos de la Fiesta de Ofertas Prime que realmente merecen la pena y que nosotros ya tenemos añadidos a la cesta </h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bajarse del mundo",
+    "link": "https://www.elperiodico.com/es/opinion/20261006/bajarse-mundo-135043252",
+    "pubDate": "2026-10-06 08:03:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Xbox ya tiene su propio trofeo de Platino y se llama “Logro Mítico”",
+    "link": "https://www.elperiodico.com/es/videojuegos/20261006/xbox-propio-trofeo-platino-llama-135041159",
+    "pubDate": "2026-10-06 08:01:52",
+    "category": "",
+    "description": "<h2>Microsoft ya prueba su alternativa al Platino de PlayStation con una recompensa que identifica los juegos cuyos logros originales han sido completados al 100%</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Barcelona buena y barata: Tonet del Mercat, el reino feliz del guiso y la casquería en el mercado del Ninot",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261006/restaurante-tonet-del-mercat-134996921",
+    "pubDate": "2026-10-06 08:01:05",
+    "category": "",
+    "description": "<h2 class=\"item\">Este puesto ofrece cocina del despojo en horario ininterrumpido desde las mañanas hasta los mediodías</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20231030/mejores-restaurantes-mercados-barcelona-93142786\">Los mejores restaurantes para saborear los mercados de Barcelona</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20240626/bar-el-david-barcelona-mercat-del-ninot-eixample-104249163\">Barcelona buena y barata: rabo de vacuno y bravas en el Bar El David (mercado del Ninot)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya pierde otra estrella Michelin: Deliranto deja Salou para instalarse en Andorra",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261006/deliranto-restaurante-andorra-134911822",
+    "pubDate": "2026-10-06 07:59:42",
+    "category": "",
+    "description": "<h2 class=\"item\">El restaurante de Pep Moreno se traslada al Grand Plaza Hotel & Wellness</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260620/deliranto-mejores-restaurantes-cataluna-130823455\">Deliranto: alta cocina performativa, el sabor del relato</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260915/restaurantes-provincia-tarragona-estrella-michelin-132991551\">Los restaurantes de la provincia de Tarragona con estrellas Michelin</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Estos dos restaurantes sirven las mejores bravas de Barcelona",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261006/mejores-bravas-barcelona-2026-ocana-sortidor-filomena-pages-135014124",
+    "pubDate": "2026-10-06 07:58:25",
+    "category": "",
+    "description": "<h2 class=\"item\">El Bravas Fest corona, con los premios del público y del jurado, las mejores propuestas de la ciudad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20260930/bravas-coloras-real-club-valderrama-mejores-mundo-2026-134786924\">Las Bravas Colorás del Real Club Valderrama, las mejores del mundo (y otras noticias gastro)</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/recetas/20190711/receta-patatas-bravas-picantes-marc-gascons-7548005\">Marc Gascons: la receta de unas bravas únicas (y picantes)</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Тренер вказав на головні психологічні проблеми збірної України",
+    "link": "https://ua.korrespondent.net/sport/football/4917622-trener-vkazav-na-holovni-psykholohichni-problemy-zbirnoi-ukrainy",
+    "pubDate": "2026-10-06 07:57:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588015.jpg\">Фахівець переконаний, що \"синьо-жовті\" не заслуговували на фіаско, проте брак міжнародного досвіду та ментальна незавершеність команди стали вирішальними чинниками підсумкового результату.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нічна атака дронами: ППО знешкодила 114 цілей",
+    "link": "https://ua.korrespondent.net/ukraine/4917620-nichna-ataka-dronamy-ppo-zneshkodyla-114-tsilei",
+    "pubDate": "2026-10-06 07:52:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588003.jpg\">Росія атакувала Україну 137 безпілотниками різних типів. Сили ППО за ніч знешкодили 114 ворожих цілей, однак зафіксовані влучання на 17 локаціях.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Mireia Oliván, experta en LinkedIn, revela una herramienta para buscar empleo: \"Reúne todas las ofertas del sector público de Catalunya, no solo de la Generalitat\"",
+    "link": "https://www.elperiodico.com/es/economia/20261006/empleo-publico-cataluna-cido-linkedin-mireia-olivan-dv-et-134833420",
+    "pubDate": "2026-10-06 07:50:38",
+    "category": "",
+    "description": "<h2>Este recurso digital también ofrece ayudas y subvenciones para emprendedores: \"Me parece una herramienta súper práctica\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260927/infojobs-davante-impulsan-acceso-empleo-bc-134666578\">InfoJobs y Davante impulsan el acceso al empleo público y la formación profesional</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Movilidad en Barcelona hoy, en directo: última hora de Rodalies, tráfico en las carreteras y rondas de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261006/trafico-barcelona-hoy-directo-rodalies-retenciones-temporal-133938712",
+    "pubDate": "2026-10-06 07:45:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Lluvia en Catalunya, en directo: última hora del tiempo, ES-Alert en el Vallès Oriental y Maresme y pronóstico del Meteocat</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Свята 6 жовтня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4917477-sviata-6-zhovtnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-10-06 07:42:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587382.jpg\">Якщо в небі видно зграї ворон, це свідчить про наближення морозів, час утеплюватися.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Росіяни понад 30 разів ударили по Сумщині: є загиблий і поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4917618-rosiiany-ponad-30-raziv-udaryly-po-sumschyni-ye-zahyblyi-i-poraneni",
+    "pubDate": "2026-10-06 07:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588002.jpg\">Російські війська за добу завдали понад 30 ударів по Сумщині. Внаслідок атак загинув чоловік, ще кілька людей отримали поранення та травми.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Війна міст. Новий план Путіна проти України",
+    "link": "https://ua.korrespondent.net/ukraine/4917584-viina-mist-novyi-plan-putina-proty-ukrainy",
+    "pubDate": "2026-10-06 07:32:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587767.jpg\">Пошкодження Південного, Північного, мосту Патона та мосту Метро може паралізувати життя багатомільйонного Києва, розділеного річкою, адже можливості для об'їзду вкрай обмежені.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Banc Sabadell se blinda con la entrada en su accionariado del francés BPCE",
+    "link": "https://www.elperiodico.com/es/economia/20261006/banc-sabadell-blinda-entrada-accionariado-135038494",
+    "pubDate": "2026-10-06 07:31:39",
+    "category": "",
+    "description": "<h2>La entidad gala adquiere un 7% de las acciones con el compromiso de no alcanzar el 10% y se convertirá en el máximo accionista</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20251016/sabadell-triunfa-bbva-opa-decae-122698888\">El Sabadell triunfa sobre el BBVA: la opa decae tras quedarse en el 25,47% de aceptación</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260505/gonzalez-bueno-imagino-nucleo-duro-129854999\">González-Bueno: \"No me imagino un núcleo más duro que nuestros clientes accionistas\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los auriculares inalámbricos que puedes comprar a su precio mínimo en el Prime Day de Amazon",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261006/auriculares-inalambricos-puedes-comprar-precio-135044216",
+    "pubDate": "2026-10-06 07:30:27",
+    "category": "",
+    "description": "<h2>¿No concibes tu día a día sin música? Entonces no puedes perderte la Fiesta Prime de Amazon. Es el momento perfecto para renovar tus auriculares inalámbricos y disfrutar de grandes descuentos en algunos de los modelos más interesantes del mercado. </h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Роналду здивував зміною іміджу на тлі скандалу",
+    "link": "https://ua.korrespondent.net/sport/football/4917550-ronaldu-zdyvuvav-zminoui-imidzhu-na-tli-skandalu",
+    "pubDate": "2026-10-06 07:23:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587559.jpg\">Португалець постав у новому образі, кардинально змінивши зачіску на тлі останніх подій у збірній Португалії.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Дешеве дизпаливо для американців: Трамп підписав новий указ",
+    "link": "https://ua.korrespondent.net/business/economics/4917614-desheve-dyzpalyvo-dlia-amerykantsiv-tramp-pidpysav-novyi-ukaz",
+    "pubDate": "2026-10-06 07:14:00",
+    "category": "Новини економіки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587989.jpg\">Президент США Дональд Трамп підписав указ, який тимчасово дозволяє використовувати на дорогах дешевше дизпаливо з червоним барвником. У Білому домі очікують, що це знизить витрати американців.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Показано емблеми Олімпіади та Паралімпіади-2032",
+    "link": "https://ua.korrespondent.net/sport/4917560-pokazano-emblemy-olimpiady-ta-paralimpiady-2032",
+    "pubDate": "2026-10-06 07:11:00",
+    "category": "Новини спорту",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587613.jpg\">Центральною фігурою та ключовим символом нових логотипів став какаду, який уособлює колорит та національну самобутність країни-господарки.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Гороскоп на 6 жовтня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4917446-horoskop-na-6-zhovtnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-10-06 07:05:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587302.jpg\">Не уникайте прямих розмов про важливе, але залишайте собі простір для маневру й переосмислення.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra civil en la televisión",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261006/guerra-civil-television-135025522",
+    "pubDate": "2026-10-06 07:00:34",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Bunbury se confiesa: \"He tenido días muy malos, recuerdo un concierto con Héroes del silencio en Monzón en el que pedí que le devolvieran el dinero a la gente\"",
+    "link": "https://www.elperiodico.com/es/gente/20261006/bunbury-confiesa-he-tenido-dias-135012880",
+    "pubDate": "2026-10-06 07:00:33",
+    "category": "",
+    "description": "<h2>El artista aragonés ha protagonizado un nuevo capítulo del videopodcast 'El tercer acto' de 'El País'</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Google Maps o Waze: qué navegador elegir para evitar atascos y planificar viajes",
+    "link": "https://www.elperiodico.com/es/motor/20261006/google-maps-o-waze-que-navegador-elegir-134636209",
+    "pubDate": "2026-10-06 07:00:32",
+    "category": "",
+    "description": "<h2>Aunque ambas aplicaciones forman parte del ecosistema de Google, su diseño, funcionalidad y algoritmo de navegación responden a perfiles de conductor totalmente diferentes</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Росіяни вдарили по мосту в Запоріжжі: є поранені",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4917610-rosiiany-vdaryly-po-mostu-v-zaporizhzhi-ye-poraneni",
+    "pubDate": "2026-10-06 06:56:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587977.jpg\">Російські військові атакували один із мостів через Дніпро у Запоріжжі. П’ятеро людей отримали поранення, рух переправою тимчасово перекрили.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Fiesta de Ofertas Prime: Skechers, Adidas, Puma, New Balance (y más) rebajan al mínimo sus zapatillas en Amazon",
+    "link": "https://www.elperiodico.com/es/shopping/20261006/zapatillas-ofertas-prime-skechers-adidas-amazon-135043477",
+    "pubDate": "2026-10-06 06:55:00",
+    "category": "",
+    "description": "<h2>La Fiesta de Ofertas Prime de Amazon reúne zapatillas rebajadas de marcas como Adidas, Puma, Skechers, Asics, New Balance y Geox.</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Чигринський відмовився залишити клуб росіянина після звільнення",
+    "link": "https://ua.korrespondent.net/sport/football/4917557-chyhrynskyi-vidmovyvsia-zalyshyty-klub-rosiianyna-pislia-zvilnennia",
+    "pubDate": "2026-10-06 06:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587976.jpg\">Сторони досі не змогли дійти згоди щодо умов розірвання контракту, оскільки український фахівець відхилив початкову пропозицію клубу.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "РФ модернізує ударні дрони: ISW попередив про нову кампанію атак",
+    "link": "https://ua.korrespondent.net/ukraine/4917607-rf-modernizuie-udarni-drony-ISW-poperedyv-pro-novu-kampaniui-atak",
+    "pubDate": "2026-10-06 06:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587961.jpg\">Росія розширює можливості своїх ударних безпілотників і готує нові модифікації. В ISW вважають, що восени та взимку РФ може посилити атаки на інфраструктуру України.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Las virtudes y los defectos del Barça",
+    "link": "https://as.com/baloncesto/euroliga/las-virtudes-y-los-defectos-del-barca-f202610-n/",
+    "pubDate": "2026-10-06 06:36:42",
+    "category": "Baloncesto",
+    "description": "El equipo de Aleksander Sekulic muestra una buena cara en el inicio del curso, pero también tiene carencias más allá de las lesiones: la dependencia de Punter, la gestión del calendario...",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mbappé ironiza sobre su supuesto enfado con el Madrid: “Y con mi tía abuela también”",
+    "link": "https://www.elperiodico.com/es/deportes/20261006/mbappe-ironiza-supuesto-enfado-madrid-135040540",
+    "pubDate": "2026-10-06 06:35:52",
+    "category": "",
+    "description": "",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "“Se normaliza mucho más el error del jugador que el del árbitro”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/se-normaliza-mucho-mas-el-error-del-jugador-que-el-del-arbitro-f202610-n/",
+    "pubDate": "2026-10-06 06:35:25",
+    "category": "Baloncesto",
+    "description": "El malagueño Daniel Hierrezuelo, un clásico del arbitraje en el baloncesto europeo, repasa en AS su carrera con motivo de su entrada en el Hall of Fame del baloncesto español.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ліга націй: шоу у виконанні Франції та витривалість Італії",
+    "link": "https://ua.korrespondent.net/sport/football/4917575-liha-natsii-shou-u-vykonanni-frantsii-ta-vytryvalist-italii",
+    "pubDate": "2026-10-06 06:32:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587963.jpg\">Збірна Франції оформила вольовий розгром Бельгії, а Італія здобула перемогу над Туреччиною.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El día de la verdad… o no tanto",
+    "link": "https://as.com/baloncesto/euroliga/el-dia-de-la-verdad-o-no-tanto-f202610-n/",
+    "pubDate": "2026-10-06 06:29:01",
+    "category": "Baloncesto",
+    "description": "Reunión clave de los equipos de la Euroliga con la NBA a la expectativa. El acuerdo para un frente común no parece muy cercano en el cortísimo plazo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Румунія без уряду: президент висунув четвертого кандидата на прем’єра",
+    "link": "https://ua.korrespondent.net/world/4917603-rumuniia-bez-uriadu-prezydent-vysunuv-chetvertoho-kandydata-na-premiera",
+    "pubDate": "2026-10-06 06:18:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587947.jpg\">Президент Румунії Нікушор Дан після нових консультацій із парламентськими силами висунув четвертого кандидата на посаду прем’єр-міністра. Попередні спроби сформувати уряд провалилися.",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La reconquista de la Champions",
+    "link": "https://as.com/baloncesto/la-reconquista-de-la-champions-f202610-n/",
+    "pubDate": "2026-10-06 06:13:08",
+    "category": "Basketball Champions League",
+    "description": "Joventut, Unicaja, Bilbao y UCAM Murcia, a por el séptimo título de la ACB en la undécima edición del torneo continental.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Скандал у матчі: росіянин травмував глядача м'ячем",
+    "link": "https://ua.korrespondent.net/sport/tenis/4917605-skandal-u-matchi-rosiianyn-travmuvav-hliadacha-miachem",
+    "pubDate": "2026-10-06 06:11:00",
+    "category": "Новини тенісу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587527.jpg\">Медведєв не зміг дограти поєдинок проти Джоковича спортсмена зняли з турніру після того, як випущений ним м'яч травмував уболівальника на трибунах.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los decretos de la vivienda, por la puerta de atrás",
+    "link": "https://www.elperiodico.com/es/opinion/20261006/decretos-vivienda-vuelven-puerta-atras-135040360",
+    "pubDate": "2026-10-06 06:01:32",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La mejor España visita a la última y decadente Croacia de Modric: \"Hemos arruinado nuestra reputación\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261006/espana-croacia-modric-nations-league-135037974",
+    "pubDate": "2026-10-06 06:01:27",
+    "category": "",
+    "description": "<h2 class=\"item\">La selección balcánica, tras una década prodigiosa, se estampó el sábado contra su nueva realidad, perdiendo 0-7 frente a Inglaterra</h2><h2 class=\"item\">\"Es la primera vez que siento vergüenza\", confesó el legendario centrocampista de 41 años, aún comprometido con la transición croata</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Aemet avanza que el escenario de inestabilidad atmosférica, lluvias y riesgo de tormentas se alargará hasta como mínimo el miércoles o jueves",
+    "link": "https://www.elperiodico.com/es/sociedad/20261006/aemet-prevision-lluvias-tormentas-semana-135035526",
+    "pubDate": "2026-10-06 06:01:24",
+    "category": "",
+    "description": "<h2 class=\"item\">El Servei Meteorològic de Catalunya mantiene activados avisos de nivel amarillo y naranja para las próximas jornadas y vuelve a señalar el litoral catalán como la zona donde estos fenómenos podrían ser más intensos</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261005/sistema-imprevisto-tormentas-cataluna-es-alert-maresme-valles-cataluna-135004544\" >Una línea de tormentas imprevistas obliga a activar una nueva tanda de alertas por lluvias torrenciales en Catalunya</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261001/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo: previsión del tiempo del Meteocat y zonas afectadas por el INUNCAT</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Tres jóvenes de Barcelona crean 'TePone', el té con alcohol que aspira a ser la bebida del 'tardeo'",
+    "link": "https://www.elperiodico.com/es/barcelona/20261006/tres-jovenes-barcelona-crean-bebida-startup-tepone-marca-alcohol-134852271",
+    "pubDate": "2026-10-06 06:01:22",
+    "category": "",
+    "description": "<h2>Lata de té helado con alcohol, ya se vende en unos 400 puntos de la capital y sus fundadores preparan una ronda de 300.000 euros para dar el salto a grandes superficies</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260912/caida-consumo-alcohol-golpea-restaurantes-ocio-nocturno-barcelona-impulsa-cambios-134110271\">La caída del consumo de alcohol golpea a restaurantes y locales de ocio de Barcelona e impulsa cambios</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Todo listo para \"el último tango\" de Messi con la selección argentina",
+    "link": "https://www.elperiodico.com/es/deportes/20261006/listo-ultimo-tango-messi-argentina-135034234",
+    "pubDate": "2026-10-06 06:01:14",
+    "category": "",
+    "description": "<h2 class=\"item\">El estadio de River Plate recibirá al exazulgrana en medio de aclamaciones y lágrimas. Y nunca más se gritará su apellido en una grada. La albiceleste juega contra Benín, pero el rival es lo que menos importa. Se trata, como en el tango, de bailar una tristeza.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El TC despejará hoy la vuelta de Puigdemont al corregir al Supremo y ordenar aplicar la amnistía a la malversación",
+    "link": "https://www.elperiodico.com/es/politica/20261006/tc-despeja-vuelta-puigdemont-corregir-supremo-malversacion-135031761",
+    "pubDate": "2026-10-06 06:01:11",
+    "category": "",
+    "description": "<h2>La doctrina establecida por la corte de garantías será aplicada por el Supremo al resto de condenados y a los procesados en rebeldía, que verán levantada, respectivamente, la pena de inhabilitación que aún cumplen o la orden de detención que tienen pendiente</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/carles-puigdemont-amnistia-ultima-hora-directo-135044373\" >Amnistía a Carles Puigdemont, en directo: última hora de la decisión del Tribunal Constitucional y su regreso a España</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Los financieros detenidos en el caso Zapatero ingresaron en sus empresas británicas 80 millones de euros del saqueo del oro venezolano",
+    "link": "https://www.elperiodico.com/es/politica/20261006/cabecillas-detenidos-caso-zapatero-ingresaron-135028727",
+    "pubDate": "2026-10-06 06:01:08",
+    "category": "",
+    "description": "<h2>La National Crime Agency británica detectó que varias sociedades implicadas en la venta de lingotes del país sudamericano en Emiratos Árabes Unidos pagaban los gastos personales de los acusados por el blanqueo de una parte del rescate de Plus Ultra, Luis Felipe Baca y Simon Verhoeven</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Lavar el coche en la calle puede acabar en multa",
+    "link": "https://www.elperiodico.com/es/motor/20261006/lavar-coche-calle-acabar-multa-134758496",
+    "pubDate": "2026-10-06 06:01:00",
+    "category": "",
+    "description": "<h2>Aunque parezca una tarea doméstica más, utilizar una manguera para limpiar el coche en determinados lugares puede incumplir las ordenanzas municipales y acabar con una sanción</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Sánchez anticipa una campaña con fuerte componente internacional: \"¿Queréis sumaros a la ola ultraderechista?\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261006/sanchez-elecciones-29n-internacional-marruecos-trump-135042291",
+    "pubDate": "2026-10-06 06:00:55",
+    "category": "",
+    "description": "<h2 class=\"item\">Enarbola su rechazo al \"altar del 5%\" del gasto en defensa de la OTAN y al \"genocidio en Gaza\", o su enfrentamiento con Trump y los tecno-oligarcas</h2><h2 class=\"item\">Será para él un lastre electoral su contemporización con Rabat durante la crisis de Ceuta y su política exterior hacia Marruecos y el Sáhara Occidental</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El reto al que se enfrentan los talleres con los coches eléctricos",
+    "link": "https://www.elperiodico.com/es/motor/20261006/reto-enfrentan-talleres-coches-electricos-134791445",
+    "pubDate": "2026-10-06 06:00:55",
+    "category": "",
+    "description": "<h2>La llegada de los vehículo eléctricos reduce algunas operaciones de mantenimiento, pero introduce nuevas exigencias relacionadas con la alta tensión, la electrónica y el diagnóstico </h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Gucci lanza unas zapatillas de 800 € 'Made in China': ¿el lujo se ha vuelto loco?",
+    "link": "https://www.elperiodico.com/es/gente/20261006/gucci-zapatillas-made-in-china-drip-demna-precio-polemica-lujo-134874610",
+    "pubDate": "2026-10-06 06:00:54",
+    "category": "",
+    "description": "<h2>La primera 'sneaker' de Demna para Gucci se fabrica en China, y no en Italia, por \"razones técnicas\", según la firma. La decisión llega cuando la casa necesita recuperar ventas sin perder deseo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "¿Tiene Sánchez alguna opción en las elecciones generales? ¿Ganará la derecha de calle? Pros y contras según las encuestas",
+    "link": "https://www.elperiodico.com/es/politica/20261006/pedro-sanchez-opciones-remontada-elecciones-generales-encuestas-sondeos-134993409",
+    "pubDate": "2026-10-06 06:00:53",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">DIRECTO | Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria electoral</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261005/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261004/encuestas-elecciones-cataluna-sondeos-catalunya-124137879\" target=\"_blank\">Encuestas de las elecciones en Catalunya: así están los sondeos</a></h2><h2><a href=\"https://www.elperiodico.com/es/internacional/20261004/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684\" target=\"_blank\">Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos de las 'midterm'</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Catalunya incorpora la biopsia líquida en cáncer de mama metastásico para personalizar los tratamientos",
+    "link": "https://www.elperiodico.com/es/sanidad/20261006/cataluna-incorpora-biopsia-liquida-cancer-mama-sanidad-publica-134755478",
+    "pubDate": "2026-10-06 06:00:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Se beneficiarán de esta herramienta las mujeres con tumores hormonodependientes en estadio IV, que representan hasta el 50% de casos de esta patología</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20260204/test-molecular-sangre-tratamiento-biopsia-liquida-cancer-pulmon-cataluna-126399426\" >Catalunya, con 44.000 casos nuevos de cáncer y 18.000 muertes en 2025, incorpora el test molecular de sangre para tratar el de pulmón</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20250131/startup-desarrolla-test-sangre-detectar-cinco-tipos-cancer-upf-113868261\" >Un test en sangre es capaz de detectar precozmente 5 tipos de cáncer y el órgano originario del tumor</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Підсумки 5.10: Гончаренко геть і удар по нафтобазі",
+    "link": "https://ua.korrespondent.net/ukraine/4917433-pidsumky-510-honcharenko-het-i-udar-po-naftobazi",
+    "pubDate": "2026-10-06 05:58:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587933.jpg\">Гончаренка виключили з Євросолідарності; Під Москвою горить велика нафтобаза. Кореспондент.net виділяє головні події вчорашнього дня.",
+    "topic": "підсумки (за попередній день, наприклад)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Siga en directo las reacciones políticas y ciudadanas tras el 'no' del Congreso a los decretos de vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261006/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-06 05:40:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Aquí, las elecciones del 29 de noviembre, al minuto.</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20261006/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-06 05:33:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Arranca la temporada antártica de HX Expeditions con nuevas aventuras al continente blanco",
+    "link": "https://www.elperiodico.com/es/destinos/20261006/arranca-temporada-antartica-hx-expeditions-bc-134804323",
+    "pubDate": "2026-10-06 05:30:48",
+    "category": "",
+    "description": "<h2>Cada etapa del verano austral ofrece experiencias diferentes, desde la majestuosidad de los primeros icebergs primaverales hasta el intenso ciclo de vida de pingüinos, focas y ballenas. Conocer qué sucede en cada mes es clave para elegir el momento perfecto para explorar el último gran territorio salvaje de la Tierra.</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261006/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-06 05:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Джорджа Мелоні реєструє свій голос як торговельну марку: навіщо їй це",
+    "link": "https://ua.korrespondent.net/world/4917600-dzhordzha-meloni-reiestruie-svii-holos-yak-torhovelnu-marku-navischo-yii-tse",
+    "pubDate": "2026-10-06 05:27:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587893.jpg\">Італійська прем'єрка, чиї зображення вже використовувалися для фейків, намагається захистити голос від використання у діпфейках.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Las mejores ofertas del Amazon Prime Day (6 de octubre): rebajas de hasta el 70 % de descuento",
+    "link": "https://www.elperiodico.com/es/shopping/20261006/amazon-mejores-ofertas-fiesta-prime-bc-135012921",
+    "pubDate": "2026-10-06 05:20:00",
+    "category": "",
+    "description": "<h2>La Fiesta de Ofertas Prime 2026 se celebrará el 6 y 7 de octubre, pero Amazon ya ha comenzado a lanzar sus primeras ofertas. Recopilamos los mejores chollos anticipados que puedes encontrar desde hoy</h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Нідерланди допоможуть з запчастинами та боєприпасами для F-16",
+    "link": "https://ua.korrespondent.net/ukraine/4917598-niderlandy-dopomozhut-z-zapchastynamy-ta-boieprypasamy-dlia-F-16",
+    "pubDate": "2026-10-06 04:55:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587879.jpeg\">Прем'єр країни заявив, що росіяни намагаються зробити українські міста непридатними для життя, тому посилення української ППО – це питання життя і смерті.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Під Москвою горить велика нафтобаза – OSINT",
+    "link": "https://ua.korrespondent.net/world/russia/4917596-pid-moskvoui-horyt-velyka-naftobaza-OSINT",
+    "pubDate": "2026-10-06 04:20:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587865.jpg\">Після кількохгодинної атаки безпілотників на Московську область сталася пожежа на найбільшій нафтобазі у регіоні.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Дві країни направляють війська у Саудівську Аравію",
+    "link": "https://ua.korrespondent.net/world/4917583-dvi-krainy-napravliauit-viiska-u-saudivsku-araviui",
+    "pubDate": "2026-10-06 03:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587761.jpg\">Згідно з пактом між Туреччиною, Саудівською Аравією та Пакисттаном, напад на одну з цих країн вважається нападом на усіх. Однак невідомо, чи залучать іноземні віська до бойових дій у Ємені.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Повінь у Непалі: пошуки завершили, п'ять тисяч людей так і не знайшли",
+    "link": "https://ua.korrespondent.net/world/4917595-povin-u-nepali-poshuky-zavershyly-piat-tysiach-luidei-tak-i-ne-znaishly",
+    "pubDate": "2026-10-06 03:49:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587838.jpg\">Тіла більше не шукатимуть цілеспрямовано. Проте рештки, майно та цінності, знайдені під час відновлювальних робіт, передаватимуть рідним.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Trump festeja la victoria de Flávio Bolsonaro en el primer turno de Brasil",
+    "link": "https://www.elperiodico.com/es/internacional/20261006/trump-festeja-victoria-flavio-bolsonaro-135041851",
+    "pubDate": "2026-10-06 03:48:47",
+    "category": "",
+    "description": "<h2>El presidente de Estados Unidos habló de una \"gran victoria\" del candidato de la ultraderecha</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "У РФ готують аеростатні загородження для захисту від дронів",
     "link": "https://ua.korrespondent.net/world/russia/4917593-u-rf-hotuuit-aerostatni-zahorodzhennia-dlia-zakhystu-vid-droniv",
     "pubDate": "2026-10-06 03:24:00",
