@@ -1,5 +1,68 @@
 [
   {
+    "title": "У РФ готують аеростатні загородження для захисту від дронів",
+    "link": "https://ua.korrespondent.net/world/russia/4917593-u-rf-hotuuit-aerostatni-zahorodzhennia-dlia-zakhystu-vid-droniv",
+    "pubDate": "2026-10-06 03:24:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587823.jpg\">Технологія вже готова до масового виробництва, але для захисту одного великого об'єкта знадобиться підняти в небо щонайменше 10 таких аеростатів.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Колишня речниця Трампа знайшла нову роботу",
+    "link": "https://ua.korrespondent.net/world/4917591-kolyshnia-rechnytsia-trampa-znaishla-novu-robotu",
+    "pubDate": "2026-10-06 02:51:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587796.jpg\">Керолайн Левітт буде надавати політичний аналіз та коментарі на всіх платформах Fox News прямо з дому у штаті Нью-Гемпшир.",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Московщина під масованою атакою БПЛА",
+    "link": "https://ua.korrespondent.net/world/russia/4917589-moskovschyna-pid-masovanoui-atakoui-bpla",
+    "pubDate": "2026-10-06 02:17:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587782.jpg\">Московська область опинилася під масованою атакою БПЛА, які залітали з різних напрямків. Чутно вибухи. Деякі дрони долетіли до Москви.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Клименко очолить Раду експертів з питань енергобезпеки",
+    "link": "https://ua.korrespondent.net/ukraine/4917581-klymenko-ocholyt-radu-ekspertiv-z-pytan-enerhobezpeky",
+    "pubDate": "2026-10-06 01:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587739.jpg\">Рада є дорадчим органом при РНБО, який аналізує стан та ефективність державної політики в енергетичній сфері.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Трамп придумав, як знизити ціни на дизтопливо перед виборами",
+    "link": "https://ua.korrespondent.net/world/4917579-tramp-prydumav-yak-znyzyty-tsiny-na-dyztoplyvo-pered-vyboramy",
+    "pubDate": "2026-10-06 01:22:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587725.jpg\">У Білому домі вирішили зменшити податки на дизельне паливо, яке за рік у США подорожчало у два з половиною рази.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "На Харківщині через атаки РФ загинула людина, 20 постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4917576-na-kharkivschyni-cherez-ataky-rf-zahynula-luidyna-20-postrazhdalykh",
+    "pubDate": "2026-10-06 00:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587711.jpg\">Російські загарбники били по містах і селах із з РСЗВ, атакували FPV-дронами. Пошкоджені будинки та автомобілі.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "В турецькому літаку знайшли записку про вибухівку, пасажирів евакуювали",
+    "link": "https://ua.korrespondent.net/world/4917573-v-turetskomu-litaku-znaishly-zapysku-pro-vybukhivku-pasazhyriv-evakuuivaly",
+    "pubDate": "2026-10-06 00:21:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4587686.jpeg\">Аеропорт Шанлиурфи, де приземлився \"замінований\" літак, тимчасово припинив приймати та відправляти всі заплановані рейси, а літаки, що були в повітрі, переправляли в сусідній аеропорт.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Disturbios al finalizar la manifestación de la vivienda",
     "link": "https://www.elperiodico.com/es/fotos/economia/disturbios-finalizar-manifestacion-vivienda-135040883",
     "pubDate": "2026-10-06 00:16:44",
