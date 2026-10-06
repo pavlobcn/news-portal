@@ -1,8 +1,10 @@
-# News for 2026-10-06 08:26
+# News for 2026-10-06 10:03
 
 Previous day: [2026-10-05](./data/2026-10-05.md)
 
 ## ua.korrespondent.net
+09:30 [Маск знову став трильйонером](https://ua.korrespondent.net/business/4917641-mask-znovu-stav-trylionerom)<br>
+09:03 [Під Араратом виявили невідомі раніше підземні проходи](https://ua.korrespondent.net/tech/science/4917502-pid-araratom-vyiavyly-nevidomi-ranishe-pidzemni-prokhody)<br>
 07:42 [Свята 6 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4917477-sviata-6-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 03:49 [Повінь у Непалі: пошуки завершили, п'ять тисяч людей так і не знайшли](https://ua.korrespondent.net/world/4917595-povin-u-nepali-poshuky-zavershyly-piat-tysiach-luidei-tak-i-ne-znaishly)<br>
 
@@ -13,6 +15,13 @@ Previous day: [2026-10-05](./data/2026-10-05.md)
 06:13 [La reconquista de la Champions](https://as.com/baloncesto/la-reconquista-de-la-champions-f202610-n/)<br>
 
 ## www.elperiodico.com
+10:00 [El Telescopio Solar Europeo entra en el ‘olimpo’ de la ciencia europea antes de construirse en La Palma](https://www.elperiodico.com/es/sociedad/20261006/telescopio-solar-europeo-entra-olimpo-135046531)<br>
+09:45 [Por qué una caída puede cambiar la vida de una persona mayor y cómo prevenirla: "Miedo, pérdida de fuerza y deterioro"](https://www.elperiodico.com/es/salud/20261006/caida-cambiar-vida-persona-mayor-135046342)<br>
+09:41 [Una amenaza climática oculta bajo la Antártida podría elevar el nivel del mar hasta 4 metros](https://www.elperiodico.com/es/tendencias21/20261006/amenaza-climatica-oculta-antartida-elevar-135046232)<br>
+09:38 [Consulta por horas el tiempo que va a hacer en Barcelona](https://www.elperiodico.com/es/tiempo/20261006/tiempo-barcelona-consulta-horas-dv-loc-135045802)<br>
+09:23 [Precio del petróleo hoy, 6 de octubre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261006/precio-petroleo-hoy-6-octubre-dv-135029459)<br>
+09:04 [La Aemet advierte de que el tiempo inestable y las lluvias se alargarán hasta el miércoles o el jueves](https://www.elperiodico.com/es/videos/sociedad/aemet-advierte-tiempo-inestable-lluvias-alargaran-miercoles-jueves-video/135045367.shtml)<br>
+09:00 [Rosa, barcelonesa vecina de un pueblo helado de 35 habitantes: "Aquí, ¿qué va a haber? El bar hace ya tiempo que cerró"](https://www.elperiodico.com/es/economia/20261006/pueblo-salamanca-malpartida-habitantes-invierno-sin-comercios-rosa-barcelonesa-dv-et-134684351)<br>
 08:22 [Sylvester Stallone, mucho más Rocky que Rambo](https://www.elperiodico.com/es/opinion/20261006/sylvester-stallone-rocky-rambo-135042289)<br>
 08:17 [Las muñecas de Famosa pierden más de la mitad de sus ventas en un año a la espera de su nuevo accionista chino](https://www.elperiodico.com/es/economia/20261006/munecas-famosa-pierden-mitad-ventas-135044821)<br>
 08:17 [Alerta por lluvias en Catalunya, en directo: última hora del tiempo y el aviso de Aemet y Meteocat para este martes](https://www.elperiodico.com/es/sociedad/20261006/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025)<br>
