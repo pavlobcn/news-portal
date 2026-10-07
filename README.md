@@ -1,4 +1,4 @@
-# News for 2026-10-07 09:58
+# News for 2026-10-07 10:55
 
 Previous day: [2026-10-06](./data/2026-10-06.md)
 
@@ -25,6 +25,15 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 07:21 [“Que nos quiten lo bailao de lo que vivimos”](https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/)<br>
 
 ## www.elperiodico.com
+10:40 [La Seguridad Social paga un complemento a casi 100.000 jubilados anticipados: estos son los requisitos para cobrarlo](https://www.elperiodico.com/es/economia/20261007/seguridad-social-paga-complemento-casi-100-mil-jubilados-anticipados-dv-135087719)<br>
+10:40 [Eleonora Viezzer, la física que aspira a imitar en la Tierra lo que sucede en el Sol: "Sevilla y Andalucía pueden ser como Silicon Valley"](https://www.elperiodico.com/es/sociedad/20261007/eleonora-viezzer-fisica-aspira-imitar-135085219)<br>
+10:38 [Tres años de retraso y tres prórrogas: el laberinto regulatorio de Verifactu sigue para empresas y autónomos](https://www.elperiodico.com/es/economia/20261007/tres-anos-retraso-tres-prorrogas-135087857)<br>
+10:32 [Europa da un salto de gigante en IA para competir con Estados Unidos y China](https://www.elperiodico.com/es/tecnologia/20261007/europa-da-salto-gigante-ia-carrera-mistral-aleph-alpha-openai-anthropic-google-competicion-135086719)<br>
+10:30 [España no quiere ser un "narcoestado": "No estamos en ese punto, pero sí corremos ese riesgo"](https://www.elperiodico.com/es/sociedad/20261007/espana-quiere-narcoestado-punto-corremos-135085190)<br>
+10:30 [Alerta mundial: el arsenal nuclear del planeta puede volver a crecer a partir de febrero](https://www.elperiodico.com/es/medio-ambiente/20261007/alerta-mundial-arsenal-nuclear-planeta-135087599)<br>
+10:21 [Murcia, una "nueva costa andaluza" para el narcotráfico y la inmigración ilegal](https://www.elperiodico.com/es/sociedad/20261007/murcia-nueva-costa-andaluza-narcotrafico-135085189)<br>
+10:00 [Marta Panizo, experta en duelo: "No tengas miedo de mencionar a quien murió"](https://www.elperiodico.com/es/ser-feliz/20261007/marta-panizo-experta-duelo-dv-et-135067809)<br>
+10:00 [Ana Iglesias, madre de 10 hijos, sobre cómo ir a restaurantes sin pantallas: "Prefiero levantarme de la mesa y salir fuera hasta que se calme"](https://www.elperiodico.com/es/sociedad/20261007/ana-iglesias-madre-10-hijos-restaurantes-pantallas-moviles-dv-et-134933271)<br>
 09:40 [El Nobel de Física 2026 reconoce a Francis Halzen por descubrir neutrinos de alta energía](https://www.elperiodico.com/es/tendencias21/20261007/nobel-fisica-2026-reconoce-francis-135085917)<br>
 09:16 [José Antonio Marina, filósofo, publica 'La vacuna contra las adicciones': "Si quitamos las anfetaminas, ¿por qué no el scroll infinito?"](https://www.elperiodico.com/es/ocio-y-cultura/20261007/jose-antonio-marina-filosofo-publica-135085255)<br>
 09:00 [Victoria Camps, filósofa (85 años): "Existe la tendencia de convertir cualquier deseo en derecho. Yo tengo derecho a ser feliz, por ejemplo. Los deseos no son derechos"](https://www.elperiodico.com/es/educacion/20261007/victoria-camps-filosofa-85-anos-educacion-excesivamente-amable-dv-et-134879095)<br>
