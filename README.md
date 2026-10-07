@@ -1,8 +1,11 @@
-# News for 2026-10-07 14:07
+# News for 2026-10-07 17:00
 
 Previous day: [2026-10-06](./data/2026-10-06.md)
 
 ## ua.korrespondent.net
+16:30 [Війна загрожує південній міграції рожевих пеліканів](https://ua.korrespondent.net/ukraine/events/4918093-viina-zahrozhuie-pivdennii-mihratsii-rozhevykh-pelikaniv)<br>
+16:11 [Американець визнав провину у продажу російського плутонію](https://ua.korrespondent.net/world/4918107-amerykanets-vyznav-provynu-u-prodazhu-rosiiskoho-plutoniui)<br>
+15:37 [В Антарктиді виявили "приховану бомбу", яка загрожує всьому світу](https://ua.korrespondent.net/tech/science/4918069-v-antarktydi-vyiavyly-prykhovanu-bombu-yaka-zahrozhuie-vsomu-svitu)<br>
 13:42 [У Слов’янську дрони атакували автобус та авто: є жертва і поранені](https://ua.korrespondent.net/ukraine/4918048-u-sloviansku-drony-atakuvaly-avtobus-ta-avto-ye-zhertva-i-poraneni)<br>
 13:37 [Повернення Трансформерів: деталі восьмого фільму](https://ua.korrespondent.net/showbiz/cinema/4918024-povernennia-transformeriv-detali-vosmoho-filmu)<br>
 13:26 [Сили оборони уразили аеродром в Росії](https://ua.korrespondent.net/ukraine/4918040-syly-oborony-urazyly-aerodrom-v-rosii)<br>
@@ -29,12 +32,23 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 00:48 [Чума в РФ: США закликали своїх громадян негайно покинути Росію](https://ua.korrespondent.net/world/4917881-chuma-v-rf-ssha-zaklykaly-svoikh-hromadian-nehaino-pokynuty-rosiui)<br>
 
 ## as.com
+15:36 [Pedro Martínez: “Lo que entrenamos no sale de la noche a la mañana”](https://as.com/baloncesto/euroliga/pedro-martinez-lo-que-entrenamos-no-sale-de-la-noche-a-la-manana-f202610-n/)<br>
 13:46 [Dinero, valores, formatos y el Atlántico](https://as.com/baloncesto/euroliga/dinero-valores-formatos-y-el-atlantico-f202610-n/)<br>
 13:42 [El AS Mónaco desaparece](https://as.com/baloncesto/euroliga/el-as-monaco-desaparece-f202610-n/)<br>
 07:24 [La Cibona está de vuelta](https://as.com/baloncesto/mas_baloncesto/la-cibona-esta-de-vuelta-f202610-n/)<br>
 07:21 [“Que nos quiten lo bailao de lo que vivimos”](https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/)<br>
 
 ## www.elperiodico.com
+16:53 [La Sindicatura de Comptes prevé que la línea Barcelona-Vallès de FGC se sature en 2029](https://www.elperiodico.com/es/barcelona/20261007/sindicatura-comptes-preve-linea-barcelona-135105379)<br>
+16:39 [La casa o la vida](https://www.elperiodico.com/es/opinion/20261007/casa-o-vida-madrid-articulo-carlos-perez-laporta-135105206)<br>
+16:32 [Ryanair reclama a Aena medidas urgentes para evitar nuevos fallos en la torre de control del aeropuerto de Barcelona-El Prat](https://www.elperiodico.com/es/economia/20261007/ryanair-reclama-aena-medidas-urgentes-fallos-torre-control-aeropuerto-barcelona-el-prat-135096934)<br>
+16:05 [Meteocat extiende los avisos amarillos por lluvia hasta como mínimo el jueves y advierte de más "chubascos fuertes" pero no torrenciales](https://www.elperiodico.com/es/sociedad/20261007/meteocat-avisos-amarillos-lluvia-miercoles-jueves-prevision-135103169)<br>
+16:00 [¿Qué ha fallado este miércoles en Rodalies? Las claves del segundo plante de los maquinistas en un año](https://www.elperiodico.com/es/sociedad/20261007/fallado-miercoles-rodalies-claves-segundo-planton-maquinistas-135099655)<br>
+15:47 [Spotify redobla su apuesta por el audiolibro y ofrece 350.000 títulos en más de 180 mercados](https://www.elperiodico.com/es/ocio-y-cultura/20261007/spotify-redobla-apuesta-audiolibro-ofrece-135097464)<br>
+15:37 [Nueva jornada de caos en Rodalies marcada por el plante de los maquinistas tras el temporal](https://www.elperiodico.com/es/videos/sociedad/nueva-jornada-caos-rodalies-marcada/135102677.shtml)<br>
+15:20 [Covid, bronquiolitis y gripe: Catalunya identifica el orden de llegada de los virus respiratorios](https://www.elperiodico.com/es/sanidad/20261007/cataluna-identifica-patron-aparicion-virus-invierno-covid-bronquiolitis-gripe-135097209)<br>
+15:18 [Votar por un paraguas digno](https://www.elperiodico.com/es/opinion/20261007/votar-paraguas-digno-vivienda-elecciones-articulo-miqui-otero-135101812)<br>
+14:59 [Un árbol cae sobre un tren en Vilanova i la Geltrú](https://www.elperiodico.com/es/videos/sociedad/arbol-cae-tren-vilanova-geltru-video/135101287.shtml)<br>
 14:01 [El Port de Tarragona convoca nuevas plazas fijas de Policia Portuària](https://www.elperiodico.com/es/tarragona/20261007/port-tarragona-convoca-nuevas-plazas-policia-portuaria-135097876)<br>
 14:00 [Jill Mather, la jubilada que empezó limpiando calles durante el confinamiento y hoy lidera un ejército de 250 voluntarios](https://www.elperiodico.com/es/economia/20261007/jubilada-empezo-recogiendo-basura-pandemia-organizacion-voluntarios-estados-unidos-jill-mather-dv-et-134629557)<br>
 13:46 [El precio del euríbor hoy, 7 de octubre: primer revés de la semana si tienes un hipoteca](https://www.elperiodico.com/es/economia/20261007/precio-euribor-hoy-7-octubre-dv-135097363)<br>
@@ -62,7 +76,10 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 09:16 [José Antonio Marina, filósofo, publica 'La vacuna contra las adicciones': "Si quitamos las anfetaminas, ¿por qué no el scroll infinito?"](https://www.elperiodico.com/es/ocio-y-cultura/20261007/jose-antonio-marina-filosofo-publica-135085255)<br>
 09:00 [Victoria Camps, filósofa (85 años): "Existe la tendencia de convertir cualquier deseo en derecho. Yo tengo derecho a ser feliz, por ejemplo. Los deseos no son derechos"](https://www.elperiodico.com/es/educacion/20261007/victoria-camps-filosofa-85-anos-educacion-excesivamente-amable-dv-et-134879095)<br>
 08:29 [La divertida reacción de la reina al escuchar al rey hablar finlandés](https://www.elperiodico.com/es/videos/internacional/divertida-reaccion-reina-escuchar-rey-finlandes/135084246.shtml)<br>
+06:45 ["Per a què serveix l'Es-Alert exactament? "](https://www.elperiodico.com/es/entre-todos/participacion/es-alert-avisos-serveix-tormentes-catalunya-carta-lector-ana-medina-134971897)<br>
 06:01 [Un escudo francés para Banco Sabadell](https://www.elperiodico.com/es/opinion/20261007/escudo-frances-banco-sabadell-135079205)<br>
+06:00 ["Las alertas funcionan y pueden salvar vidas"](https://www.elperiodico.com/es/entre-todos/participacion/alertas-funcionan-temporal-lluvias-inundaciones-catalunya-carta-lector-javier-radua-135061266)<br>
 06:00 [Josep González, presidente de la Fundació Pimec: "Si puedo cobrar un alquiler de 1000, no me quedaré con 800, esto es humano. Regular alquileres no me parece bien"](https://www.elperiodico.com/es/ser-feliz/20261007/josep-gonzalez-presidente-fundacio-pimec-135010691)<br>
 06:00 [Las expertas coinciden sobre las cejas de las pijitas madrileñas: "La más elegante es la que parece que nadie ha tocado, peinada hacia arriba, con su pelo y sin rastro de lápiz"](https://www.elperiodico.com/es/gente/20261007/ceja-pijitas-madrilenas-tamara-falco-natural-sofia-palazuelo-trucos-expertas-134935924)<br>
+06:00 ["Y los decretos no se aprobaron"](https://www.elperiodico.com/es/entre-todos/participacion/decretos-aprobaron-vivienda-congreso-carta-lector-rafael-soriano-134952446)<br>
 05:55 [En confianza con Josep González, de PIMEC](https://www.elperiodico.com/es/videos/sociedad/confianza-josep-gonzalez-pimec-video/135025385.shtml)<br>
