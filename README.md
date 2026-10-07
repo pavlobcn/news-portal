@@ -1,8 +1,11 @@
-# News for 2026-10-07 18:40
+# News for 2026-10-07 20:56
 
 Previous day: [2026-10-06](./data/2026-10-06.md)
 
 ## ua.korrespondent.net
+20:39 [В Іспанії річка почорніла через попіл від лісових пожеж](https://ua.korrespondent.net/world/4918182-v-ispanii-richka-pochornila-cherez-popil-vid-lisovykh-pozhezh)<br>
+20:16 [Хакери заволоділи даними мобільної мережі Дональда Трампа](https://ua.korrespondent.net/world/4918177-khakery-zavolodily-danymy-mobilnoi-merezhi-donalda-trampa)<br>
+18:56 [Україна змінила баланс торгівлі електрикою: експорт зріс, імпорт впав](https://ua.korrespondent.net/ukraine/4918152-ukraina-zminyla-balans-torhivli-elektrykoui-eksport-zris-import-vpav)<br>
 18:02 [Наслідки атаки РФ на Київ: число потерпілих зростає](https://ua.korrespondent.net/city/kiev/4918141-naslidky-ataky-rf-na-kyiv-chyslo-poterpilykh-zrostaie)<br>
 18:01 [Міжнародні резерви України знову знизилися](https://ua.korrespondent.net/business/financial/4918139-mizhnarodni-rezervy-ukrainy-znovu-znyzylysia)<br>
 17:59 [Свята 8 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4918114-sviata-8-zhovtnia-2026-roku-istoriia-tradytsii)<br>
@@ -46,6 +49,9 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 07:21 [“Que nos quiten lo bailao de lo que vivimos”](https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/)<br>
 
 ## www.elperiodico.com
+20:30 [Los psicólogos coinciden: las personas mayores conviven mejor con el silencio que los jóvenes](https://www.elperiodico.com/es/ser-feliz/20261007/mayores-silencio-soledad-mejor-jovenes-psicologia-dv-131391333)<br>
+20:13 [Jon Rahm no seguirá en LIV Golf](https://www.elperiodico.com/es/deportes/20261007/jon-rahm-seguira-liv-golf-135114409)<br>
+20:07 [Damm, Cordibaix y La Passió d’Olesa reciben los Premios FEmImpacte 2026 del Fòrum Empresarial del Llobregat](https://www.elperiodico.com/es/barcelona/20261007/damm-cordibaix-passio-d-olesa-premios-femimpacte-2026-ganadores-135110070)<br>
 18:30 [Encuesta CIS: El 77% de la población rural usa la banca online, pero los jubilados denuncian falta de atención de su entidad](https://www.elperiodico.com/es/economia/20261007/encuesta-cis-inclusion-exclusion-financiera-bancos-135109340)<br>
 18:04 [La familia de un menor que se suicidó denuncia que sufría acoso por su orientación sexual en un instituto de L'Hospitalet de Llobregat](https://www.elperiodico.com/es/sociedad/20261007/familia-adonis-menor-suicido-acoso-escolar-hospitalet-135108977)<br>
 18:02 [Carles Sans se despide de los escenarios con ‘Me’n vaig!!’ en el Teatre Poliorama](https://www.elperiodico.com/es/ocio-y-cultura/20261007/carles-sans-despide-escenarios-n-135109172)<br>

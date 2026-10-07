@@ -1,5 +1,275 @@
 [
   {
+    "title": "В Іспанії річка почорніла через попіл від лісових пожеж",
+    "link": "https://ua.korrespondent.net/world/4918182-v-ispanii-richka-pochornila-cherez-popil-vid-lisovykh-pozhezh",
+    "pubDate": "2026-10-07 20:39:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589848.jpg\">У місті Касав'єха, де стрімкі гірські потоки впадають у річку Тіетар, вода набула чорного кольору через насичені попелом стоки.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los porqués de Puigdemont",
+    "link": "https://www.elperiodico.com/es/opinion/20261007/porques-puigdemont-vivienda-elecciones-articulo-joan-tapia-135114879",
+    "pubDate": "2026-10-07 20:37:42",
+    "category": "",
+    "description": "<h2>El chorro de electores de protesta y que se pasan de Junts a Sílvia Orriols hace que no le interese que le puedan acusar de cómplice del Gobierno Sánchez</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261001/junts-voto-decretos-vivienda-gobierno-desahucios-alquiler-134887439\">Junts tumbará los decretos de vivienda que frenan los desahucios si el Gobierno no los retira y los vuelve a negociar</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/puigdemont-amnistia-regreso-espana-135069141\">Puigdemont regresará cuando su caso quede archivado y se plantea esperar hasta que pasen las elecciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un coro de niños sorprende a la reina Letizia en Helsinki con una canción de Perales",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/coro-ninos-sorprende-reina-letizia-cancion-perales/135115214.shtml",
+    "pubDate": "2026-10-07 20:34:32",
+    "category": "",
+    "description": "",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Jordi Martí se propone disputarle a Collboni la bandera del \"orden y la prosperidad\" en su candidatura como alcaldable de Barcelona",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/jordi-marti-propone-disputarle-collboni-bandera-orden-y-prosperidad-candidatura-alcalde-barcelona-135097787",
+    "pubDate": "2026-10-07 20:32:03",
+    "category": "",
+    "description": "<h2>El candidato ha sido presentado oficialmente este miércoles en el auditorio de la Escola Superior de Comerç de la UPF, acompañado por los expresidentes de la Generalitat Jordi Pujol y Artur Mas</h2><h2>TRIUNFO EN LAS PRIMARIAS | <a href=\"https://www.elperiodico.com/es/politica/20260621/quien-es-jordi-marti-galbis-candidato-junts-barcelona-elecciones-municipales-perfil-131322170\">Jordi Martí, el eterno 'número dos' de Trias que ganó el pulso a Puigdemont para liderar Junts en Barcelona</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Muere antes de volver a su casa Maricarmen, la mujer que se convirtió en el símbolo de la lucha contra la crisis de la vivienda",
+    "link": "https://www.elperiodico.com/es/sociedad/20261007/muere-maricarmen-mujer-simbolo-lucha-crisis-vivienda-madrid-135115126",
+    "pubDate": "2026-10-07 20:30:50",
+    "category": "",
+    "description": "<h2>La vecina de Retiro, de 87 años, estaba hospitalizada desde el 23 de septiembre, cuando fue desahuciada de su casa por la policía y desencadenó un movimiento histórico que ha acabado trascendiendo a su figura</h2>",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Los psicólogos coinciden: las personas mayores conviven mejor con el silencio que los jóvenes",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261007/mayores-silencio-soledad-mejor-jovenes-psicologia-dv-131391333",
+    "pubDate": "2026-10-07 20:30:00",
+    "category": "",
+    "description": "<h2 class=\"item\">El entorno con el que cada generación creció influye en la forma de sobrellevar la soledad</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20250923/prefieres-quedarte-casa-salir-amigos-dv-121618283\">¿Prefieres quedarte en casa a salir con amigos? Esto es lo que la psicología dice sobre ti</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Skoda представила свій перший повний гібрид",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4918179-Skoda-predstavyla-svii-pershyi-povnyi-hibryd",
+    "pubDate": "2026-10-07 20:26:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589832.jpg\">Octavia Hybrid отримала 1,5-літровий бензиновий двигун, два електромотори та батарею на 1,6 кВт·год, а її потужність сягає 168 к.с.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La Generalitat y el Ayuntamiento de Barcelona acuerdan la compra de un edificio de Sant Andreu para frenar el desahucio de 30 personas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/generalitat-ayuntamiento-barcelona-compran-edificio-llenguadoc-sant-andreu-desahucio-135114729",
+    "pubDate": "2026-10-07 20:21:02",
+    "category": "",
+    "description": "<h2>El consistorio ha llegado a \"un principio de acuerdo con la propiedad para comprar el edificio a través del fondo de emergencia que creó la Generalitat\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Хакери заволоділи даними мобільної мережі Дональда Трампа",
+    "link": "https://ua.korrespondent.net/world/4918177-khakery-zavolodily-danymy-mobilnoi-merezhi-donalda-trampa",
+    "pubDate": "2026-10-07 20:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589820.jpg\">Витік зачепив практично всю активну абонентську базу оператора та містить імена, адреси, номери телефонів, електронні адреси й історію замовлень.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jon Rahm no seguirá en LIV Golf",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/jon-rahm-seguira-liv-golf-135114409",
+    "pubDate": "2026-10-07 20:13:02",
+    "category": "",
+    "description": "<h2>El golfista español no estará en la versión 2.0 del renovado circuito; los jugadores tenían hasta el día 25 para decidir si se enrolaban en esta nueva aventura o no</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Damm, Cordibaix y La Passió d’Olesa reciben los Premios FEmImpacte 2026 del Fòrum Empresarial del Llobregat",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/damm-cordibaix-passio-d-olesa-premios-femimpacte-2026-ganadores-135110070",
+    "pubDate": "2026-10-07 20:07:01",
+    "category": "",
+    "description": "<h2>Los galardones reivindican un tejido empresarial \"diverso\" y destacan la contribución de las empresas al desarrollo del territorio</h2><h2>CONTEXTO |<a href=\"https://www.elperiodico.com/es/barcelona/20261006/premios-femimpacte-2026-candidatos-135048919\" target=\"_blank\"> Los Premios FEmImpacte 2026 reconocerán este miércoles seis iniciativas que transforman el Baix Llobregat</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Прилуках кількість загиблих зросла до 19",
+    "link": "https://ua.korrespondent.net/ukraine/4918175-u-prylukakh-kilkist-zahyblykh-zrosla-do-19",
+    "pubDate": "2026-10-07 20:07:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589819.jpg\">У місті загалом пошкоджено 15 багатоквартирних та 16 приватних будинків. Точна кількість ще встановлюється.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Comín y Puig volverán a Catalunya sin esperar a Puigdemont para reservarle un \"regreso institucional\"",
+    "link": "https://www.elperiodico.com/es/politica/20261007/comin-puig-volveran-catalunya-esperar-135101437",
+    "pubDate": "2026-10-07 20:00:58",
+    "category": "",
+    "description": "<h2>El exconseller de Salut acudirá a Madrid para recoger su acta como eurodiputado y el extitular de Cultura ejercerá como parlamentario en la Cámara catalana</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/puigdemont-amnistia-regreso-espana-135069141\">Puigdemont regresará cuando su caso quede archivado y se plantea esperar hasta que pasen las elecciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/cuando-volvera-puigdemont-amnistia-regreso-claves-135047464\">¿Cuándo volverá Puigdemont? ¿Cómo se plantea su regreso? Todas las claves</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/amnistia-puigdemont-regreso-junts-victoria-independentismo-135058976\">Junts llama a recibir a Puigdemont en Catalunya como \"el presidente de un país y no como líder de un partido\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Зеленський: Вбивство людей - \"подарунок\" Путіна",
+    "link": "https://ua.korrespondent.net/ukraine/4918172-zelenskyi-vbyvstvo-luidei-podarunok-putina",
+    "pubDate": "2026-10-07 19:59:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589802.jpg\">“Подарунок” Путіна собі на день народження - вбивство дітей і людей. Так Володимир Зеленський відреагував на масований російський удар по Україні, жертвами якого стали 25 людей.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "La derecha del Constitucional quería un fallo melifluo con margen para que el Supremo elevase una cuestión prejudicial al TJUE",
+    "link": "https://www.elperiodico.com/es/politica/20261007/derecha-tribunal-constitucional-queria-fallo-melifluo-tjue-135113734",
+    "pubDate": "2026-10-07 19:53:06",
+    "category": "",
+    "description": "<h2>La maniobra del magistrado Macías con la sentencia sobre Turull buscaba evitar un fallo contundente —\"¡apliquen ustedes la amnistía!\"— para dar una nueva oportunidad a sus amigos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Puigdemont traslada su oficina de expresident al distrito de Sarrià Sant-Gervasi de Barcelona",
+    "link": "https://www.elperiodico.com/es/politica/20261007/puigdemont-traslada-oficina-distrito-sarria-sant-gervasi-barcelona-135113661",
+    "pubDate": "2026-10-07 19:51:39",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261006/puigdemont-amnistia-regreso-espana-135069141\" target=\"_blank\">Puigdemont regresará cuando su caso quede archivado y se plantea esperar hasta que pasen las elecciones</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261006/juez-llarena-aplica-amnistia-puigdemont-135055035\" target=\"_blank\">El juez Llarena levanta la orden de arresto nacional a Puigdemont tras conocer la sentencia del TC</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Хетафе не взяв Карвахаля: гравець продовжить шукати клуб",
+    "link": "https://ua.korrespondent.net/sport/football/4918169-khetafe-ne-vziav-karvakhalia-hravets-prodovzhyt-shukaty-klub",
+    "pubDate": "2026-10-07 19:47:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589777.jpg\">Іспанський футболіст та іспанський клуб не знайшли спільних точок дотику, вирішивши відмовитися від планованої співпраці.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo pide “medidas adicionales” para garantizar la limpieza del voto por correo",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-medidas-adicionales-garantizar-voto-correo/135113769.shtml",
+    "pubDate": "2026-10-07 19:45:11",
+    "category": "",
+    "description": "Insiste en que no confía en los directivos de Correos",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "На Оболоні двоє загиблих внаслідок атаки РФ",
+    "link": "https://ua.korrespondent.net/city/kiev/4918168-na-oboloni-dvoie-zahyblykh-vnaslidok-ataky-rf",
+    "pubDate": "2026-10-07 19:43:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589787.jpg\">У Києві внаслідок падіння уламків виникло загоряння автомобілів припаркованих у дворі житлового будинку.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Плацдарм росіян на Осколі стискається - Трегубов",
+    "link": "https://ua.korrespondent.net/ukraine/4918166-platsdarm-rosiian-na-oskoli-styskaietsia-trehubov",
+    "pubDate": "2026-10-07 19:36:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589784.jpg\">Російським військовим досі інколи вдається проникати безпосередньо до Куп’янська. У ЗСУ кажуть, що проблема залишається, однак українські сили поступово витісняють ворога із західного берега Осколу.",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "La fiscalía pide a la Audiencia Nacional que archive la causa de los CDR al aplicarles la amnistía",
+    "link": "https://www.elperiodico.com/es/politica/20261007/fiscalia-pide-audiencia-nacional-archive-causa-cdr-explosivos-135113481",
+    "pubDate": "2026-10-07 19:35:31",
+    "category": "",
+    "description": "<h2>En un escueto informe el ministerio público pide decretar el sobreseimiento libre de las actuaciones en las que estuvo a punto de juzgarles por diversos delitos de terrorismo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "У Латвії ув'язнили прокремлівську активістку за донат для армії РФ",
+    "link": "https://ua.korrespondent.net/world/4918164-u-latvii-uviaznyly-prokremlivsku-aktyvistku-za-donat-dlia-armii-rf",
+    "pubDate": "2026-10-07 19:33:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589779.jpg\">Поліна Камльова передала €43 на придбання засобів придушення сигналів дронів для російської армії.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Gobierno francés promete medidas \"rápidas y concretas\" para frenar las protestas estudiantiles, pero no las detallará hasta finales de octubre",
+    "link": "https://www.elperiodico.com/es/internacional/20261007/gobierno-frances-promete-medidas-rapidas-concretas-frenar-protestas-finales-octubre-135113341",
+    "pubDate": "2026-10-07 19:31:48",
+    "category": "",
+    "description": "<h2>Sébastien Lecornu anuncia un aumento de 1.200 millones de euros para Educación, un alza que ya estaba presente en el proyecto de presupuestos de 2027</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El sur de Europa pide solidaridad a la UE ante la presión migratoria y advierte que Ceuta es un aviso",
+    "link": "https://www.elperiodico.com/es/internacional/20261007/med9-sur-europa-espana-pide-solidaridad-inmigracion-frontera-ceuta-135112785",
+    "pubDate": "2026-10-07 19:20:00",
+    "category": "",
+    "description": "<h2>La declaración del Med9 exige respuestas \"unidas\" ante crisis fronterizas \"repentinas y a gran escala\", mientras Meloni pide margen fiscal porque a causa de la crisis energética han surgido \"miles y miles de millones\" de gastos no previstos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "178 млн грн із державного лісгоспу: ДБР накрило злочинну організацію",
+    "link": "https://ua.korrespondent.net/ukraine/4918161-178-mln-hrn-iz-derzhavnoho-lishospu-dbr-nakrylo-zlochynnu-orhanizatsiui",
+    "pubDate": "2026-10-07 19:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589763.jpeg\">Фірма без працівників отримувала багатомільйонні договори на лісозаготівлю, а гроші після цього виводили через десятки ФОПів.",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Одесита викрили на створенні дитячого порно за допомогою ШІ",
+    "link": "https://ua.korrespondent.net/city/odessa/4918157-odesyta-vykryly-na-stvorenni-dytiachoho-porno-za-dopomohoui-shi",
+    "pubDate": "2026-10-07 19:04:00",
+    "category": "Одеса",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589749.jpg\">Максимальне покарання за цей злочин - 12 років позбавлення волі.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Jaguar повністю представила 1000-сильний електроседан Type 01",
+    "link": "https://ua.korrespondent.net/lifestyle/motors/4918155-Jaguar-povnistui-predstavyla-1000-sylnyi-elektrosedan-Type-01",
+    "pubDate": "2026-10-07 19:01:00",
+    "category": "Автомобілі",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589731.jpg\">Новий флагманський електромобіль має три двигуни, архітектуру на 850 В, батарею на 118 кВт·год і запас ходу до 644 км.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El adelanto electoral obliga a cancelar la visita a Barcelona de Jensen Huang, director ejecutivo de Nvidia",
+    "link": "https://www.elperiodico.com/es/tecnologia/20261007/jensen-huang-ia-barcelona-nvidia-bsc-adelanto-elecciones-espana-135069710",
+    "pubDate": "2026-10-07 19:00:40",
+    "category": "",
+    "description": "<h2>El presidente y consejero delegado de la empresa más valorada del mundo tenía previsto participar en la inauguración de la ampliación del superordenador del BSC, que incorporará una nueva factoría de inteligencia artificial</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Україна змінила баланс торгівлі електрикою: експорт зріс, імпорт впав",
+    "link": "https://ua.korrespondent.net/ukraine/4918152-ukraina-zminyla-balans-torhivli-elektrykoui-eksport-zris-import-vpav",
+    "pubDate": "2026-10-07 18:56:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589730.jpg\">У вересні Україна експортувала у понад шість разів більше електроенергії, ніж імпортувала. Експорт зріс на 24,4%, тоді як імпорт скоротився майже на 60%.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Page advierte a Puigdemont: “Que pierda toda esperanza de hacernos sentir humillados”",
+    "link": "https://www.elperiodico.com/es/videos/politica/page-advierte-puigdemont-pierda-esperanza-humillar-espanoles/135111134.shtml",
+    "pubDate": "2026-10-07 18:42:36",
+    "category": "",
+    "description": "Advierte que sólo se puede humillar a quienes firmaron “el contrato de compraventa” de la amnistía",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
     "title": "El Levante instala un Punto Violeta en el Ciutat de València para la prevención ante conductas sexistas",
     "link": "https://www.elperiodico.com/es/deportes/20261007/levante-instala-punto-violeta-ciutat-135109835",
     "pubDate": "2026-10-07 18:36:56",
@@ -7,6 +277,15 @@
     "description": "",
     "topic": "спорт",
     "topic_match_probability": 70
+  },
+  {
+    "title": "У Динамо вийшли на новий контракт зі своїм голкіпером",
+    "link": "https://ua.korrespondent.net/sport/football/4918149-u-dynamo-vyishly-na-novyi-kontrakt-zi-svoim-holkiperom",
+    "pubDate": "2026-10-07 18:35:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589717.jpg\">Київська команда вирішила продовжити співпрацю зі своїм воротарем, погодивши контракт на п’ять сезонів.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
   },
   {
     "title": "Україна готова до п'яти форматів перемир'я - МЗС",
