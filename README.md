@@ -1,4 +1,4 @@
-# News for 2026-10-07 23:18
+# News for 2026-10-08 01:32
 
 Previous day: [2026-10-06](./data/2026-10-06.md)
 
@@ -52,6 +52,7 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 07:21 [“Que nos quiten lo bailao de lo que vivimos”](https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/)<br>
 
 ## www.elperiodico.com
+23:31 ["¿Dónde estoy?", las primeras palabras de Christa Pike tras su fallida ejecución en EE.UU.](https://www.elperiodico.com/es/internacional/20261007/primeras-palabras-christa-pike-fallida-135118669)<br>
 22:11 [Las mujeres experimentan más dolor que los hombres: la clave está en las hormonas sexuales](https://www.elperiodico.com/es/sociedad/20261007/mujeres-experimentan-mas-dolor-hombres-hormonas-135113798)<br>
 21:39 [Madrid llora a Maricarmen: "Seguiremos luchando por ti, por todas"](https://www.elperiodico.com/es/sociedad/20261007/madrid-llora-muerte-maricarmen-135116539)<br>
 21:29 [Los sindicatos llaman a parar el país el 11-N: "Ganaremos la huelga general por ti, Maricarmen"](https://www.elperiodico.com/es/economia/20261007/huelga-general-sindicatos-llaman-parar-pais-maricarmen-135115978)<br>
