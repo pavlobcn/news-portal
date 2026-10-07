@@ -1,5 +1,662 @@
 [
   {
+    "title": "La soberanía sobre las Malvinas vuelve a la escena de la selección Argentina",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/soberania-malvinas-vuelve-escena-seleccion-135085931",
+    "pubDate": "2026-10-07 09:56:05",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20261007/despues-21-anos-messi-despide-135081183\">Después de 21 años, Messi se despide con un gol de la selección argentina: \"Les juro que me gustaría venir toda la vida\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Collboni decreta la situación de \"emergencia\" en Barcelona para contrataciones extraordinarias tras las lluvias torrenciales",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/collboni-decreta-situacion-emergencia-barcelona-contrataciones-extraordinarias-lluvias-torrenciales-135085791",
+    "pubDate": "2026-10-07 09:54:40",
+    "category": "",
+    "description": "<h2>La declaración permite tramitar contratos por la vía de urgencia para paliar los efectos de las últimas lluvias</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261005/episodio-lluvias-extraordinario-50-desprendimientos-dos-escuelas-cerradas-seis-familias-evacuadas-barcelona-135017156\">El episodio de lluvias \"más extraordinario en 60 años\" en Barcelona: 50 desprendimientos, dos escuelas cerradas y seis familias evacuadas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Los médicos aplazan la huelga indefinida prevista para finales de octubre tras la convocatoria electoral",
+    "link": "https://www.elperiodico.com/es/sanidad/20261007/medicos-aplazan-huelga-indefinida-prevista-octubre-adelanto-electoral-135026323",
+    "pubDate": "2026-10-07 09:53:30",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sanidad/20261005/pasa-ahora-huelga-indefinida-medicos-135007083\">¿Qué pasa ahora con la huelga indefinida de médicos prevista desde el 28 de octubre? Los sindicatos valoran si desconvocan el paro</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Tráfico y Rodalies en Barcelona, en directo: última hora de los trenes, carreteras y afectaciones por las lluvias",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712",
+    "pubDate": "2026-10-07 09:53:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Lluvia en Catalunya, en directo: última hora del tiempo, ES-Alert en el Vallès Oriental y Maresme y pronóstico del Meteocat</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Уламки ракети пробили павільйони кіностудії Довженка в Києві",
+    "link": "https://ua.korrespondent.net/city/kiev/4917952-ulamky-rakety-probyly-paviliony-kinostudii-dovzhenka-v-kyievi",
+    "pubDate": "2026-10-07 09:49:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589223.jpg\">Кіностудія Довженка в Києві знову постраждала через російську атаку. Уламки ракети пробили покрівлі двох знімальних павільйонів, на території спалахнула пожежа.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Scaloni se emociona ante Messi: \"En mi vida hubiera pensado que entrenaría al mejor de la historia\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/scaloni-emociona-messi-vida-hubiera-135085928",
+    "pubDate": "2026-10-07 09:48:57",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/deportes/20261007/despues-21-anos-messi-despide-135081183\">Después de 21 años, Messi se despide con un gol de la selección argentina: \"Les juro que me gustaría venir toda la vida\"</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Llarena y la Sala Segunda del Supremo ya tienen en su poder la sentencia del TC para aplicar la amnistía",
+    "link": "https://www.elperiodico.com/es/politica/20261007/llarena-sala-segunda-supremo-sentencia-tc-bassa-amnistia-135086059",
+    "pubDate": "2026-10-07 09:45:07",
+    "category": "",
+    "description": "<h2>El Constitucional notifica el fallo sobre Dolors Bassa a las partes personadas y al alto tribunal a primera hora de la mañana, trámite imprescindible para que sea amnistiada la malversación</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Es constitucional aprobar los decretos de vivienda en la Diputación Permanente? División entre los juristas",
+    "link": "https://www.elperiodico.com/es/politica/20261007/diputacion-permanente-decretos-vivienda-debate-constitucional-135085563",
+    "pubDate": "2026-10-07 09:42:04",
+    "category": "",
+    "description": "<h2>Bastida discrepa: \"Pueden alterar la voluntad de la mayoría e incurrir en fraude constitucional, una medida no por necesaria se convierte en acorde a la Constitución\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Illa exige \"humildad\" a Junts tras la aplicación de la amnistía: \"Es una victoria de todos\"",
+    "link": "https://www.elperiodico.com/es/politica/20261007/salvador-illa-amnistia-humildad-aplicacion-junts-carles-puigdemont-victoria-catalunya-135085461",
+    "pubDate": "2026-10-07 09:41:49",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261006/puigdemont-amnistia-regreso-espana-135069141\" target=\"_blank\">Puigdemont regresará cuando su caso quede archivado y se plantea esperar hasta que pasen las elecciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Nobel de Física 2026 reconoce a Francis Halzen por descubrir neutrinos de alta energía",
+    "link": "https://www.elperiodico.com/es/tendencias21/20261007/nobel-fisica-2026-reconoce-francis-135085917",
+    "pubDate": "2026-10-07 09:40:21",
+    "category": "",
+    "description": "<h2>El físico impulsó IceCube, el gigantesco observatorio construido bajo el hielo de la Antártida que ha abierto una nueva ventana para observar el Universo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Largas colas en Mataró para coger el autobús en la primera parada de la línea e11.1 de Mataró a Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/largas-colas-mataro-coger-autobus-barcelona-video/135085782.shtml",
+    "pubDate": "2026-10-07 09:36:10",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Precio del petróleo hoy, 7 de octubre por la Guerra en Irán: consulta el precio del barril de Brent",
+    "link": "https://www.elperiodico.com/es/economia/20261007/precio-petroleo-hoy-7-octubre-dv-135085614",
+    "pubDate": "2026-10-07 09:35:21",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Guerra de EEUU e Israel contra Irán, en directo</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20260303/afectara-espana-conflicto-iran-gas-gasolina-luz-inflacion-euribor-127492297\">¿Cómo afectará a España el conflicto con Irán? Gas, gasolina, luz, inflación y euríbor, en el punto de mira</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Росіяни два дні поспіль атакують мости в Запоріжжі",
+    "link": "https://ua.korrespondent.net/city/zaporozhye/4917946-rosiiany-dva-dni-pospil-atakuuit-mosty-v-zaporizhzhi",
+    "pubDate": "2026-10-07 09:35:00",
+    "category": "Запоріжжя",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589208.jpg\">Рух транспорту вдалося дуже швидко відновити. Наразі всі сполучення в місті працюють у штатному режимі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "НХЛ: Рейнджерс виявилися сильнішими за Айлендерс",
+    "link": "https://ua.korrespondent.net/sport/hokey/4917940-nkhl-reindzhers-vyiavylysia-sylnishymy-za-ailenders",
+    "pubDate": "2026-10-07 09:34:00",
+    "category": "Новини хокею",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589207.jpg\">У центрі уваги опинилося принципове нью-йоркське дербі, де Рейнджерс перемогли Айлендерс, а Кароліна обіграла Монреаль.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Таємниці корабля-близнюка Титаніка: дайвери підняли цінні артефакти",
+    "link": "https://ua.korrespondent.net/tech/science/4917756-taiemnytsi-korablia-blyznuika-tytanika-daivery-pidnialy-tsinni-artefakty",
+    "pubDate": "2026-10-07 09:31:00",
+    "category": "Новини науки",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588410.jpg\">Корабель Британік пішов на дно Егейського моря після того, як підірвався на морській міні.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Багато загиблих і поранених. Наслідки обстрілу",
+    "link": "https://ua.korrespondent.net/ukraine/4917941-bahato-zahyblykh-i-poranenykh-naslidky-obstrilu",
+    "pubDate": "2026-10-07 09:27:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589205.jpg\">Росіяни знищили висотку у Прилуках і цілу вулицю у Кременчуку. Є багато загиблих та поранених, людей продовжують шукати під завалами.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Скільки авіації втратили США у конфлікті з Іраном: дані Конгресу",
+    "link": "https://ua.korrespondent.net/world/4917942-skilky-aviatsii-vtratyly-ssha-u-konflikti-z-iranom-dani-konhresu",
+    "pubDate": "2026-10-07 09:23:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589204.jpeg\">Від початку конфлікту з Іраном американські військові втратили 25 літаків, 49 безпілотників і сім вертольотів. Такі дані наводить дослідницька служба Конгресу США.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "El parón de Rodalies desborda los autobuses del Vallès y el Maresme: \"La situación es un desastre\"",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/paron-rodalies-desborda-autobuses-valles-135084212",
+    "pubDate": "2026-10-07 09:22:40",
+    "category": "",
+    "description": "<h2 class=\"item\">La falta de servicio de trenes provoca aglomeraciones en las principales paradas de autobús de municipios como Mataró, Sabadell y Terrassa</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261007/maquinistas-plantan-incidencias-lluvias-dejan-rodalies-sin-servicio-caos-135083656\" >Los maquinistas se plantan tras las incidencias por las lluvias y dejan a Rodalies sin servicio</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Illa, sobre el caos en Rodalies: \"Un sindicato de maquinistas no ha hecho funcionar los trenes\"",
+    "link": "https://www.elperiodico.com/es/politica/20261007/salvador-illa-caos-rodalies-sindicato-maquinistas-trenes-parlament-govern-catalunya-135085199",
+    "pubDate": "2026-10-07 09:18:14",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20261007/trafico-rodalies-directo-trenes-carreteras-lluvias-133938712\" target=\"_blank\">DIRECTO | Última hora de los trenes, carreteras y afectaciones por las lluvias</a></h2>",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "José Antonio Marina, filósofo, publica 'La vacuna contra las adicciones': \"Si quitamos las anfetaminas, ¿por qué no el scroll infinito?\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261007/jose-antonio-marina-filosofo-publica-135085255",
+    "pubDate": "2026-10-07 09:16:49",
+    "category": "",
+    "description": "<h2>\"Dejarse manipular es muy sencillo, solo hay que dejarse llevar; tener pensamiento crítico es muy difícil, y muy pesado\", afirma</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Удар по Прилуках: четверо жертв, 20 постраждалих",
+    "link": "https://ua.korrespondent.net/ukraine/4917937-udar-po-prylukakh-chetvero-zhertv-20-postrazhdalykh",
+    "pubDate": "2026-10-07 09:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589189.jpg\">Російська атака на Прилуки забрала життя чотирьох людей. Ще 20 осіб отримали травми, серед постраждалих - троє дітей.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Concentración en Sant Andreu para intentar impedir el desahucio del bloque de Llenguadoc, 74",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/concentracion-sant-andreu-impedir-desahucio-bloque-llenguadoc-74-fotos-135085111",
+    "pubDate": "2026-10-07 09:05:12",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Victoria Camps, filósofa (85 años): \"Existe la tendencia de convertir cualquier deseo en derecho. Yo tengo derecho a ser feliz, por ejemplo. Los deseos no son derechos\"",
+    "link": "https://www.elperiodico.com/es/educacion/20261007/victoria-camps-filosofa-85-anos-educacion-excesivamente-amable-dv-et-134879095",
+    "pubDate": "2026-10-07 09:00:00",
+    "category": "",
+    "description": "<h2>\"El profesor, el padre, la madre, están a un nivel superior y, por lo tanto, tienen que imponer una serie de cosas\", sostiene la catedrática de Ética, que cree que \"todas estas palabras han desaparecido del mundo educativo\"</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20260430/emilio-lledo-filosofo-ignorante-poder-catastrofico-sociedad-dv-129476659\">El filósofo Emilio Lledó: \"Un ignorante con poder es catastrófico para la sociedad\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Rey reclama una respuesta europea común ante las \"amenazas\": “Nuestra frontera es una y la misma”",
+    "link": "https://www.elperiodico.com/es/videos/politica/rey-reclama-respuesta-europea-frontera-amenaza/135084761.shtml",
+    "pubDate": "2026-10-07 08:57:35",
+    "category": "",
+    "description": "El Monarca advierte en la cena de gala ofrecida por el presidente de Finlandia de que \"la paz ha dejado de ser un bien adquirido\" y Europa necesita reforzar su capacidad de acción",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Стало відомо, де планують жити Потап і Настя Каменських",
+    "link": "https://ua.korrespondent.net/lifestyle/4917860-stalo-vidomo-de-planuuit-zhyty-potap-i-nastia-kamenskykh",
+    "pubDate": "2026-10-07 08:57:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588478.jpg\">Скандально відома пара вирішила орендувати розкішні апартаменти в сонячному Маямі.",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Habla una de las cinco ciclistas arrolladas por un coche en Murcia: \"Vino a por nosotras a atropellarnos otra vez\"",
+    "link": "https://www.elperiodico.com/es/videos/sucesos/habla-cinco-ciclistas-arrolladas-coche/135084738.shtml",
+    "pubDate": "2026-10-07 08:56:41",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Мессі зі сльозами попрощався зі збірною Аргентини",
+    "link": "https://ua.korrespondent.net/sport/football/4917935-messi-zi-slozamy-poproschavsia-zi-zbirnoui-arhentyny",
+    "pubDate": "2026-10-07 08:55:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589145.jpg\">Аргентинець емоційно попрощався з національною командою зізнавшись, що радий був би залишитися на полі назавжди через неймовірну підтримку трибун.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Guerra de Irán, en directo | Última hora",
+    "link": "https://www.elperiodico.com/es/internacional/20261007/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+    "pubDate": "2026-10-07 08:55:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/internacional/20260410/guerra-ucrania-rusia-ultima-hora-zelenski-trump-putin-directo-126605559\" >DIRECTO | Guerra Ucrania - Rusia, en directo: última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las mejores ofertas del Amazon Prime Day (7 de octubre): rebajas de hasta el 70 % de descuento",
+    "link": "https://www.elperiodico.com/es/shopping/20261007/amazon-mejores-ofertas-fiesta-prime-bc-135012921",
+    "pubDate": "2026-10-07 08:55:00",
+    "category": "",
+    "description": "<h2>El Prime Day de octubre empieza su recta final y las mejores ofertas de Amazon ya se están agotando, para evitar que te pierdas nada... te hemos recopilado las mejores ofertas que, ahora mismo, ya puedes encontrar. </h2>",
+    "topic": "торгові центри, розпродажі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Usuarios en la estación de Sants en una mañana sin circulación de trenes de Rodalies",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/usuarios-estacion-sants-manana-sin-circulacion-rodalies-video/135084602.shtml",
+    "pubDate": "2026-10-07 08:52:33",
+    "category": "",
+    "description": "",
+    "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Los expertos en protocolo coinciden: \"Agitamos el café, pero nunca circular, siempre marcando las seis en punto\"",
+    "link": "https://www.elperiodico.com/es/vida-y-estilo/20261007/expertos-protocolo-coinciden-agitamos-cafe-nunca-circular-marcando-seis-punto-dv-et-135027476",
+    "pubDate": "2026-10-07 08:50:17",
+    "category": "",
+    "description": "<h2 class=\"item\">No son muchos los que se dan cuenta de los errores que cometen a diario en la cafetería o en una comida de trabajo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/vida-y-estilo/20261006/maria-jose-gomez-experta-protocolo-cortar-pan-mesa-cuchillo-dv-et-135025341\">María José Gómez, experta en protocolo: \"El pan nunca se corta en la mesa con cuchillo\"</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "РФ вдарила ракетами й дронами: що збила ППО",
+    "link": "https://ua.korrespondent.net/ukraine/4917933-rf-vdaryla-raketamy-y-dronamy-scho-zbyla-ppo",
+    "pubDate": "2026-10-07 08:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589163.jpg\">У ніч на 7 жовтня Росія атакувала Україну 44 ракетами та 130 ударними БпЛА. Сили ППО знешкодили 161 повітряну ціль, однак зафіксовані влучання на 18 локаціях.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Guerra Ucrania - Rusia, última hora en directo",
+    "link": "https://www.elperiodico.com/es/internacional/20261007/guerra-ucrania-rusia-ultima-hora-126605559",
+    "pubDate": "2026-10-07 08:50:00",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/internacional/20260319/iran-guerra-eeuu-israel-ultima-hora-directo-127474899\">Directo GUERRA DE IRÁN | Última hora</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Атака на Кременчук: двоє загиблих, сім поранених",
+    "link": "https://ua.korrespondent.net/ukraine/4917929-ataka-na-kremenchuk-dvoie-zahyblykh-sim-poranenykh",
+    "pubDate": "2026-10-07 08:38:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589146.jpg\">Унаслідок російської атаки на Кременчук загинули двоє людей, ще семеро дістали поранення. Рятувальники продовжують працювати на місці удару.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La divertida reacción de la reina al escuchar al rey hablar finlandés",
+    "link": "https://www.elperiodico.com/es/videos/internacional/divertida-reaccion-reina-escuchar-rey-finlandes/135084246.shtml",
+    "pubDate": "2026-10-07 08:29:39",
+    "category": "",
+    "description": "El Monarca advierte en la cena de gala ofrecida por el presidente de Finlandia de que \"la paz ha dejado de ser un bien adquirido\" y Europa necesita reforzar su capacidad de acción",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ліга націй: перемога Англії та яскрава дуель Хорватії з Іспанією",
+    "link": "https://ua.korrespondent.net/sport/football/4917922-liha-natsii-peremoha-anhlii-ta-yaskrava-duel-khorvatii-z-ispaniieui",
+    "pubDate": "2026-10-07 08:28:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589097.jpg\">Англійці без проблем розібралися з чехами, а хорвати влаштували справжню футбольну битву проти збірної Іспанії.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пішов із життя відомий український письменник",
+    "link": "https://ua.korrespondent.net/showbiz/culture/4917861-pishov-iz-zhyttia-vidomyi-ukrainskyi-pysmennyk",
+    "pubDate": "2026-10-07 08:23:00",
+    "category": "Новини культури",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588670.jpg\">Українська літературна спільнота зазнала втрати: у віці 67 років помер письменник Сергій Батурин.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Венесуелі спалахнув великий НПЗ: завод зупинили",
+    "link": "https://ua.korrespondent.net/world/4917926-u-venesueli-spalakhnuv-velykyi-npz-zavod-zupynyly",
+    "pubDate": "2026-10-07 08:19:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589132.jpg\">У Венесуелі після пожежі на газопроводі зупинили роботу НПЗ Cardon потужністю 310 тисяч барелів на добу. Влада заявила, що постраждалих немає.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Siga en directo las movilizaciones ciudadanas en defensa de la vivienda",
+    "link": "https://www.elperiodico.com/es/politica/20261007/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
+    "pubDate": "2026-10-07 08:15:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261005/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" target=\"_blank\">Aquí, las elecciones del 29 de noviembre, al minuto.</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "DIRECTO Amnistía a Carles Puigdemont: última hora de la decisión del Tribunal Constitucional, regreso a España y reacciones",
+    "link": "https://www.elperiodico.com/es/politica/20261007/carles-puigdemont-amnistia-ultima-hora-directo-135044373",
+    "pubDate": "2026-10-07 08:10:00",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261006/tc-despeja-vuelta-puigdemont-corregir-supremo-malversacion-135031761\" >El TC despejará hoy la vuelta de Puigdemont al corregir al Supremo y ordenar aplicar la amnistía a la malversación</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "'Fauda', la serie israelí de Netflix que recuerda y busca venganza por la masacre del 7 de octubre: \"Nos ardía por dentro\"",
+    "link": "https://www.elperiodico.com/es/tele/20261007/fauda-serie-israeli-netflix-gaza-135048636",
+    "pubDate": "2026-10-07 08:00:38",
+    "category": "",
+    "description": "<h2 class=\"item\">En la quinta temporada, la plataforma advierte en dos episodios de las escenas pueden herir sensibilidades</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20180405/netflix-afronta-campana-boicot-contra-fauda-6736952\">Netflix afronta una campaña de boicot contra su serie 'Faura'</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Estas son todas las medidas de vivienda que entran en vigor con el nuevo decreto (y no decaerá como el anterior)",
+    "link": "https://www.elperiodico.com/es/economia/20261007/medidas-vivienda-decreto-135083938",
+    "pubDate": "2026-10-07 08:00:22",
+    "category": "",
+    "description": "<h2>La Diputación Permanente deberá ratificar las medidas tras la disolución de las Cortes, consolidando un paquete normativo que refuerza la protección habitacional hasta finales de 2030</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Мессі влаштував шоу у прощальному матчі за збірну",
+    "link": "https://ua.korrespondent.net/sport/football/4917923-messi-vlashtuvav-shou-u-proschalnomu-matchi-za-zbirnu",
+    "pubDate": "2026-10-07 07:59:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589130.jpg\">Ліонель Мессі відзначився забитим м'ячем та двома результативними передачами у своєму прощальному матчі за національну команду проти Беніну.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ранковий удар по Прилуках: є загиблі й поранені",
+    "link": "https://ua.korrespondent.net/ukraine/4917924-rankovyi-udar-po-prylukakh-ye-zahybli-y-poraneni",
+    "pubDate": "2026-10-07 07:57:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589123.jpg\">Російські війська зранку завдали ракетного удару по Прилуках на Чернігівщині. Одне з влучань припало на житлову багатоповерхівку, є загиблі та поранені.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Свята 7 жовтня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4917792-sviata-7-zhovtnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-10-07 07:44:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588482.jpg\">Вважається, що з Сергія холоди стають дедалі ближчими, дні помітно коротшають, а ночі - довші й холодніші, з першими заморозками.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jordi Cruz abrirá un restaurante de cocina catalana junto al Àbac: “Es que yo también soy tradicional”",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261007/jordi-cruz-abrira-restaurante-cocina-catalana-barcelona-135069151",
+    "pubDate": "2026-10-07 07:43:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El Àbac Group sumará el restaurante número cinco y el cocinero afrontará la reforma del Ten's para acercarlo a la cocina de cuchara</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20220626/jordi-cruz-te-quiero-padre-dos-horas-antes-morir-entrevista-mesa-para-dos-13903018\">Jordi Cruz: \"Le dije por primera vez 'te quiero' a mi padre dos horas antes de que muriese\" | VÍDEO Mesa para dos</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260409/mejores-restaurantes-cocina-catalana-barcelona-83016258\">Los mejores restaurantes para 'descubrir' la cocina catalana</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "¿Por qué Barcelona es la capital española del cruasán?",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261007/mejores-cruasanes-espana-barcelona-135068103",
+    "pubDate": "2026-10-07 07:40:49",
+    "category": "",
+    "description": "<h2 class=\"item\">La enésima victoria de un obrador barcelonés en el concurso que distingue el <a href=\"https://www.elperiodico.com/es/gastronomia/20261006/mejor-cruasan-artesano-mantequilla-espana-2026-135029385\">mejor cruasán artesano de mantequilla de España</a> certifica la supremacía de la capital catalana en esta especialidad de la bollería</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20181023/tipos-cruasanes-alber-roca-7098277\">Cruasanes hasta el infinito y más allá de Albert Roca</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/cata-mayor/20171019/mejores-croissants-catalunya-6351698\">Los mejores cruasanes: los cuernos que más te gustan</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La tortilla de patatas sin cebolla de un restaurante de Elche, elegida como la mejor de España de 2026",
+    "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261007/mejor-tortilla-espana-restaurante-teulada-elche-135011428",
+    "pubDate": "2026-10-07 07:40:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La pieza ganadora es clásica, poco hecha, con huevo campero gurmet y patata gallega \"bien crujiente</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/20220603/tortilla-patata-cebolla-cocineros-opinion-117864850\">30 chefs responden: tortilla de patata, ¿con o sin cebolla?</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260916/mejores-tortillas-barcelona-11931369\">En estos restaurantes preparan las mejores tortillas de Barcelona</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У нього є его: легенда МЮ пояснив демарш Роналду",
+    "link": "https://ua.korrespondent.net/sport/football/4917835-u-noho-ye-eho-lehenda-mui-poiasnyv-demarsh-ronaldu",
+    "pubDate": "2026-10-07 07:31:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588271.jpg\">Ріо Фердінанд не залишився осторонь чергової хвилі критики на адресу Роналду і виправдав його демарш.",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "La Cibona está de vuelta",
+    "link": "https://as.com/baloncesto/mas_baloncesto/la-cibona-esta-de-vuelta-f202610-n/",
+    "pubDate": "2026-10-07 07:24:03",
+    "category": "Baloncesto",
+    "description": "Con la llegada de un multimillonario canadiense de raíces croatas al accionariado, el equipo debuta en la Champions con aviso: 96-76 ante el Galatasaray.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "“Que nos quiten lo bailao de lo que vivimos”",
+    "link": "https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/",
+    "pubDate": "2026-10-07 07:21:56",
+    "category": "Baloncesto",
+    "description": "Anna Junyer ingresa en el Hall of Fame tras toda una vida ligada al baloncesto. Una de las pioneras del deporte femenino, pasó de un palmarés extraordinario como jugadora a los banquillos, el 3x3 y la formación.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Dónde celebrar Halloween en Barcelona: planes para pasarlo de miedo",
+    "link": "https://www.elperiodico.com/es/que-hacer/planes/20261007/donde-celebrar-halloween-barcelona-planes-miedo-135079354",
+    "pubDate": "2026-10-07 07:00:41",
+    "category": "",
+    "description": "<h2>Por si tragarse toda una campaña electoral de Feijóo no sonase suficientemente terrorífico, Catalunya acaba de inaugurar la temporada de sustos. Desde mercadillos de brujas hasta una caminata zombi, estos son los mejores planes</h2><h2><a href=\"https://www.elperiodico.com/es/que-hacer/planes/20261006/horrorland-barcelona-mejor-parque-terror-europa-halloween-2026-134781877\" target=\"_blank\">Horrorland: abre este viernes en Barcelona el mejor parque de terror de Europa</a></h2>",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Programas y sucedáneos",
+    "link": "https://www.elperiodico.com/es/tele/20261007/programas-sucedaneos-135069500",
+    "pubDate": "2026-10-07 07:00:34",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Programas y sucedáneos",
+    "link": "https://www.elperiodico.com/es/videos/tele/programas-sucedaneos/135070066.shtml",
+    "pubDate": "2026-10-07 07:00:34",
+    "category": "",
+    "description": "",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ven’nus señala la presión de \"la cultura del ‘sold out’ como requisito para que tu proyecto tenga la validación\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261007/ven-nus-senala-presion-cultura-sold-out-entrevista-135036112",
+    "pubDate": "2026-10-07 07:00:29",
+    "category": "",
+    "description": "<h2>La cantante de Sabadell actúa este jueves en la sala La Nau, donde ofrecerá un concierto basado en su tercer álbum, ‘Mai vista trista’, acogida por el ciclo Directes Estrella Damm 150</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Este es el significado del testigo del reloj que aparece en el cuadro del coche",
+    "link": "https://www.elperiodico.com/es/motor/20261007/significado-testigo-reloj-aparece-cuadro-coche-134425899",
+    "pubDate": "2026-10-07 07:00:28",
+    "category": "",
+    "description": "<h2>El símbolo está relacionado con una función especialmente útil al recorrer largas distancias y mantener una velocidad constante</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Удари РФ по Україні: Польща привела авіацію у готовність",
+    "link": "https://ua.korrespondent.net/world/4917912-udary-rf-po-ukraini-polscha-pryvela-aviatsiui-u-hotovnist",
+    "pubDate": "2026-10-07 06:38:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589060.jpg\">Польща вранці 7 жовтня залучила військову авіацію на тлі масованої атаки Росії по Україні. У готовність також перевели ППО та радіолокаційну розвідку.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Márquez: \"Hace ya tiempo que nadie gana por 10 segundos de ventaja\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/marquez-tiempo-nadie-gana-10-135076273",
+    "pubDate": "2026-10-07 06:11:35",
+    "category": "",
+    "description": "<h2 class=\"item\">Ya nadie lo intenta. Es más, no tiene sentido. Los candidatos, los favoritos, en cada gran premio se dosifican a lo largo de las carreras y solo asumen un gran riesgo en el momento de alejarse de su más inmediato perseguidor. Logrado el segundo o los dos segundos de ventaja, dejan de asumir riesgos y controlan.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Un escudo francés para Banco Sabadell",
+    "link": "https://www.elperiodico.com/es/opinion/20261007/escudo-frances-banco-sabadell-135079205",
+    "pubDate": "2026-10-07 06:01:17",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las reservas de los embalses aumentan pero aún hay margen para recibir más lluvias",
+    "link": "https://www.elperiodico.com/es/sociedad/20261007/reservas-embalses-aumentan-margen-lluvias-135072824",
+    "pubDate": "2026-10-07 06:01:11",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Lluvia en Catalunya, en directo: última hora del tiempo, ES-Alert en el Vallès Oriental y Maresme y pronóstico del Meteocat</a></h2>",
+    "topic": "estado de los embalses",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La UDEF colabora con el FBI en la investigación sobre la venta del oro venezolano por parte de los financieros detenidos en el caso Zapatero",
+    "link": "https://www.elperiodico.com/es/politica/20261007/udef-colabora-fbi-investigacion-venta-135074023",
+    "pubDate": "2026-10-07 06:01:06",
+    "category": "",
+    "description": "<h2>\"Por investigaciones llevadas a cabo en el seno de este Grupo 22 con el FBI de EEUU se tuvo conocimiento de la participación conjunta de Gilberto Morales con Luis Felipe Baca en un negocio para enviar oro utilizando un avión privado hasta Turquía en el que habrían participado los administradores de la sociedad Noor Capital\", resalta un informe policial</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Yuval Abraham y Rachel Szor, directores de 'Naza': \"En la sociedad israelí impera la creencia de que todos los palestinos merecen morir\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261007/naza-yuval-abraham-rachel-szor-entrevista-directores-israeli-palestinos-morir-135071824",
+    "pubDate": "2026-10-07 06:01:03",
+    "category": "",
+    "description": "<h2>A través de 24 entrevistas realizadas en Tel Aviv, los directores denuncian el aparato de destrucción que mantiene el Estado de Israel</h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Cuerpo deja en manos de Sánchez su salto a las listas del PSOE para el 29N como independiente",
+    "link": "https://www.elperiodico.com/es/politica/20261007/cuerpo-sanchez-listas-psoe-elecciones-135071837",
+    "pubDate": "2026-10-07 06:01:02",
+    "category": "",
+    "description": "<h2>El ‘número dos’ del Gobierno, sin carné socialista, es el ministro mejor valorado según el CIS y reforzaría el discurso sobre el crecimiento económico</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Israel conmemora el tercer aniversario de los ataques de Hamás con el trauma aún presente: \"Duermo con un arma bajo la almohada\"",
+    "link": "https://www.elperiodico.com/es/internacional/20261007/israel-tercer-aniversario-ataques-hamas-7-octubre-trauma-135081612",
+    "pubDate": "2026-10-07 06:01:02",
+    "category": "",
+    "description": "<h2>Mientras el país se prepara para las primeras elecciones desde las masacres, una encuesta reciente del Instituto de la Democracia de Israel afirma que el 7 de octubre será un factor clave a la hora de decidir a qué partido votar para el 68% de los israelíes judíos</h2><h2>Los habitantes del kibbutz Be'eri cuentan el horror vivido: \"Por lo menos, ya no huele a muerto\"</h2><h2>Evacuados del sur de Israel: \"Si no matábamos a los milicianos de Hamás, nos mataban a nosotros\"</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El asesinato de Anna Politkóvskaya marcó hace 20 años el inicio del fin del periodismo independiente en Rusia",
+    "link": "https://www.elperiodico.com/es/internacional/20261007/asesinato-anna-politkovskaya-marco-inicio-fin-periodismo-independiente-rusia-135081586",
+    "pubDate": "2026-10-07 06:01:00",
+    "category": "",
+    "description": "<h2>La reportera de 'Nóvaya Gazeta' no solo había expuesto graves casos de corrupción y de violaciones de derechos humanos cometidos durante la guerra de Chechenia, sino los oscuros vínculos de los servicios secretos rusos con grupos extremistas para instrumentalizar el fenómeno del terrorismo</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Las farmacéuticas emergen como activo en el campo de la Defensa",
+    "link": "https://www.elperiodico.com/es/economia/20261007/farmaceuticas-emergen-activo-campo-defensa-135017284",
+    "pubDate": "2026-10-07 06:00:59",
+    "category": "",
+    "description": "<h2>Grifols tiene un proyecto junto al gobierno de EEUU, GSK ha inaugurado en España el primer laboratorio de nivel 4 de contención biológica e Hipra reserva parte de su capacidad productiva por si Europa necesita fabricar vacunas a contrarreloj</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Cuidar el comercio que ya tenemos",
+    "link": "https://www.elperiodico.com/es/opinion/20261007/cuidar-el-comercio-ya-tenemos-daniel-sirera-pp-135048235",
+    "pubDate": "2026-10-07 06:00:50",
+    "category": "",
+    "description": "<h2>Cuesta entender que, mientras habla de ayudar a los barceloneses a llenar la nevera, el gobierno municipal suba los costes a quienes cada día nos venden los alimentos</h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Josep González, presidente de la Fundació Pimec: \"Si puedo cobrar un alquiler de 1000, no me quedaré con 800, esto es humano. Regular alquileres no me parece bien\"",
+    "link": "https://www.elperiodico.com/es/ser-feliz/20261007/josep-gonzalez-presidente-fundacio-pimec-135010691",
+    "pubDate": "2026-10-07 06:00:45",
+    "category": "",
+    "description": "<h2 class=\"item\">\"Hay un abuso de las bajas por salud mental. No toda la culpa es del propio trabajador. Tenemos un sistema sanitario desbordado\"</h2><h2 class=\"item\">\"La gestión empresarial ha de ser humanista, la gente ya no acepta posiciones de mando\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Las expertas coinciden sobre las cejas de las pijitas madrileñas: \"La más elegante es la que parece que nadie ha tocado, peinada hacia arriba, con su pelo y sin rastro de lápiz\"",
+    "link": "https://www.elperiodico.com/es/gente/20261007/ceja-pijitas-madrilenas-tamara-falco-natural-sofia-palazuelo-trucos-expertas-134935924",
+    "pubDate": "2026-10-07 06:00:44",
+    "category": "",
+    "description": "<h2>Parece que basta con pasar un cepillo y aplicar gel, pero las especialistas Luisa Iglesias y Larisia Ghiulai, fundadoras de BrowGlam Institute, avisan: \"El verdadero trabajo empieza mucho antes\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "En confianza con Josep González, de PIMEC",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/confianza-josep-gonzalez-pimec-video/135025385.shtml",
+    "pubDate": "2026-10-07 05:55:19",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп і Путін обговорять чуму в Росії",
+    "link": "https://ua.korrespondent.net/world/4917903-tramp-i-putin-obhovoriat-chumu-v-rosii",
+    "pubDate": "2026-10-07 05:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589008.jpg\">Американський президент поговорить з головою кремлівського режиму про ситуацію в Іркутській області \"дуже скоро\".",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Después de 21 años, Messi se despide con un gol de la selección argentina: \"Les juro que me gustaría venir toda la vida\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/despues-21-anos-messi-despide-135081183",
+    "pubDate": "2026-10-07 05:03:10",
+    "category": "",
+    "description": "<h2>Frente a una multitud que abarrotó el estadio de River Plate, Messi cerró su ciclo histórico: un Mundial, dos subcampeonatos y dos Copa América</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Ізраїльські поселенці побили журналіста на очах у військових ЦАГАЛу - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4917897-izrailski-poselentsi-pobyly-zhurnalista-na-ochakh-u-viiskovykh-tsahalu-zmi",
+    "pubDate": "2026-10-07 04:12:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588969.jpg\">Інцидент стався поблизу палестинського селища Акраба на півночі Західного берега, повідомляє The Guardian.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
     "title": "Влада Києва повідомила про наслідки ударів РФ",
     "link": "https://ua.korrespondent.net/city/kiev/4917891-vlada-kyieva-povidomyla-pro-naslidky-udariv-rf",
     "pubDate": "2026-10-07 02:59:00",
@@ -23,6 +680,15 @@
     "pubDate": "2026-10-07 02:15:00",
     "category": "Новини світу",
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588891.jpg\">Українські інженери тепер мусять розробити власні рішення на реактивній тязі, пише Atlantic Council.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗМІ дізналися про протидію реактивним дронам РФ",
+    "link": "https://ua.korrespondent.net/world/worldabus/4917887-zmi-diznalysia-pro-protydiui-reaktyvnym-dronam-rf",
+    "pubDate": "2026-10-07 02:15:00",
+    "category": "Огляд преси",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4588891.jpg\">Українські інженери тепер мусять розробити власні вирішення на реактивній тязі, пише Atlantic Council.",
     "topic": "",
     "topic_match_probability": 0
   },

@@ -1,9 +1,35 @@
-# News for 2026-10-07 04:45
+# News for 2026-10-07 09:58
 
 Previous day: [2026-10-06](./data/2026-10-06.md)
 
 ## ua.korrespondent.net
+09:49 [Уламки ракети пробили павільйони кіностудії Довженка в Києві](https://ua.korrespondent.net/city/kiev/4917952-ulamky-rakety-probyly-paviliony-kinostudii-dovzhenka-v-kyievi)<br>
+09:35 [Росіяни два дні поспіль атакують мости в Запоріжжі](https://ua.korrespondent.net/city/zaporozhye/4917946-rosiiany-dva-dni-pospil-atakuuit-mosty-v-zaporizhzhi)<br>
+09:31 [Таємниці корабля-близнюка Титаніка: дайвери підняли цінні артефакти](https://ua.korrespondent.net/tech/science/4917756-taiemnytsi-korablia-blyznuika-tytanika-daivery-pidnialy-tsinni-artefakty)<br>
+09:27 [Багато загиблих і поранених. Наслідки обстрілу](https://ua.korrespondent.net/ukraine/4917941-bahato-zahyblykh-i-poranenykh-naslidky-obstrilu)<br>
+09:10 [Удар по Прилуках: четверо жертв, 20 постраждалих](https://ua.korrespondent.net/ukraine/4917937-udar-po-prylukakh-chetvero-zhertv-20-postrazhdalykh)<br>
+08:50 [РФ вдарила ракетами й дронами: що збила ППО](https://ua.korrespondent.net/ukraine/4917933-rf-vdaryla-raketamy-y-dronamy-scho-zbyla-ppo)<br>
+08:38 [Атака на Кременчук: двоє загиблих, сім поранених](https://ua.korrespondent.net/ukraine/4917929-ataka-na-kremenchuk-dvoie-zahyblykh-sim-poranenykh)<br>
+08:23 [Пішов із життя відомий український письменник](https://ua.korrespondent.net/showbiz/culture/4917861-pishov-iz-zhyttia-vidomyi-ukrainskyi-pysmennyk)<br>
+08:19 [У Венесуелі спалахнув великий НПЗ: завод зупинили](https://ua.korrespondent.net/world/4917926-u-venesueli-spalakhnuv-velykyi-npz-zavod-zupynyly)<br>
+07:57 [Ранковий удар по Прилуках: є загиблі й поранені](https://ua.korrespondent.net/ukraine/4917924-rankovyi-udar-po-prylukakh-ye-zahybli-y-poraneni)<br>
+07:44 [Свята 7 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4917792-sviata-7-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 02:59 [Влада Києва повідомила про наслідки ударів РФ](https://ua.korrespondent.net/city/kiev/4917891-vlada-kyieva-povidomyla-pro-naslidky-udariv-rf)<br>
 02:34 [Балістичні ракети РФ ударили по Києву](https://ua.korrespondent.net/city/kiev/4917889-balistychni-rakety-rf-udaryly-po-kyievu)<br>
 02:15 [ЗМІ дізналися про протидію реактивним дронам РФ](https://ua.korrespondent.net/world/4917887-zmi-diznalysia-pro-protydiui-reaktyvnym-dronam-rf)<br>
+02:15 [ЗМІ дізналися про протидію реактивним дронам РФ](https://ua.korrespondent.net/world/worldabus/4917887-zmi-diznalysia-pro-protydiui-reaktyvnym-dronam-rf)<br>
 00:48 [Чума в РФ: США закликали своїх громадян негайно покинути Росію](https://ua.korrespondent.net/world/4917881-chuma-v-rf-ssha-zaklykaly-svoikh-hromadian-nehaino-pokynuty-rosiui)<br>
+
+## as.com
+07:24 [La Cibona está de vuelta](https://as.com/baloncesto/mas_baloncesto/la-cibona-esta-de-vuelta-f202610-n/)<br>
+07:21 [“Que nos quiten lo bailao de lo que vivimos”](https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/)<br>
+
+## www.elperiodico.com
+09:40 [El Nobel de Física 2026 reconoce a Francis Halzen por descubrir neutrinos de alta energía](https://www.elperiodico.com/es/tendencias21/20261007/nobel-fisica-2026-reconoce-francis-135085917)<br>
+09:16 [José Antonio Marina, filósofo, publica 'La vacuna contra las adicciones': "Si quitamos las anfetaminas, ¿por qué no el scroll infinito?"](https://www.elperiodico.com/es/ocio-y-cultura/20261007/jose-antonio-marina-filosofo-publica-135085255)<br>
+09:00 [Victoria Camps, filósofa (85 años): "Existe la tendencia de convertir cualquier deseo en derecho. Yo tengo derecho a ser feliz, por ejemplo. Los deseos no son derechos"](https://www.elperiodico.com/es/educacion/20261007/victoria-camps-filosofa-85-anos-educacion-excesivamente-amable-dv-et-134879095)<br>
+08:29 [La divertida reacción de la reina al escuchar al rey hablar finlandés](https://www.elperiodico.com/es/videos/internacional/divertida-reaccion-reina-escuchar-rey-finlandes/135084246.shtml)<br>
+06:01 [Un escudo francés para Banco Sabadell](https://www.elperiodico.com/es/opinion/20261007/escudo-frances-banco-sabadell-135079205)<br>
+06:00 [Josep González, presidente de la Fundació Pimec: "Si puedo cobrar un alquiler de 1000, no me quedaré con 800, esto es humano. Regular alquileres no me parece bien"](https://www.elperiodico.com/es/ser-feliz/20261007/josep-gonzalez-presidente-fundacio-pimec-135010691)<br>
+06:00 [Las expertas coinciden sobre las cejas de las pijitas madrileñas: "La más elegante es la que parece que nadie ha tocado, peinada hacia arriba, con su pelo y sin rastro de lápiz"](https://www.elperiodico.com/es/gente/20261007/ceja-pijitas-madrilenas-tamara-falco-natural-sofia-palazuelo-trucos-expertas-134935924)<br>
+05:55 [En confianza con Josep González, de PIMEC](https://www.elperiodico.com/es/videos/sociedad/confianza-josep-gonzalez-pimec-video/135025385.shtml)<br>
