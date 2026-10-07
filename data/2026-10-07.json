@@ -1,5 +1,113 @@
 [
   {
+    "title": "El Levante instala un Punto Violeta en el Ciutat de València para la prevención ante conductas sexistas",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/levante-instala-punto-violeta-ciutat-135109835",
+    "pubDate": "2026-10-07 18:36:56",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Україна готова до п'яти форматів перемир'я - МЗС",
+    "link": "https://ua.korrespondent.net/ukraine/4918146-ukraina-hotova-do-piaty-formativ-peremyria-mzs",
+    "pubDate": "2026-10-07 18:31:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589718.png\">Повне припинення вогню, безпека судноплавства в Чорному морі та два енергетичні треки - Україна разом із партнерами працює над п'ятьма форматами можливого перемир'я.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Encuesta CIS: El 77% de la población rural usa la banca online, pero los jubilados denuncian falta de atención de su entidad",
+    "link": "https://www.elperiodico.com/es/economia/20261007/encuesta-cis-inclusion-exclusion-financiera-bancos-135109340",
+    "pubDate": "2026-10-07 18:30:55",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261007/encuestas-elecciones-generales-espana-sondeos-12274406\" target=\"_blank\">Encuestas de las elecciones generales 2026: así están los sondeos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "David Bondia toma posesión como síndic de Greuges de Barcelona en su segundo mandato: “Gracias por este regalo”",
+    "link": "https://www.elperiodico.com/es/barcelona/20261007/david-bondia-toma-posesion-sindic-greuges-barcelona-135110202",
+    "pubDate": "2026-10-07 18:29:35",
+    "category": "",
+    "description": "<h2>El defensor de los barceloneses lo es desde 2021 y encara su último periodo de cinco años, porque la normativa no permite un tercero</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260724/ayuntamiento-barcelona-luz-verde-reeleccion-david-bondia-sindic-greuges-132762273\">Barcelona revalida a David Bondia como Síndic de Greuges hasta 2031</a></h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20260701/david-bondia-impone-claridad-gemma-132004194\">David Bondia se impone con claridad a Gemma Calvet en el voto popular y roza la reelección como síndic de Greuges de Barcelona</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "У вересні українці придбали рекордну кількість вантажівок",
+    "link": "https://ua.korrespondent.net/business/auto/4918145-u-veresni-ukraintsi-prydbaly-rekordnu-kilkist-vantazhivok",
+    "pubDate": "2026-10-07 18:28:00",
+    "category": "Авто новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589705.jpg\">Лідером українського ринку минулого місяця стала Renault із 422 проданими автомобілями.",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Asesinada por su marido Hannah Cain, médica de la casa real británica, en una fiesta infantil en su domicilio",
+    "link": "https://www.elperiodico.com/es/gente/20261007/asesinada-marido-hannah-cain-medica-casa-real-britanica-fiesta-pijamas-135109480",
+    "pubDate": "2026-10-07 18:28:00",
+    "category": "",
+    "description": "<h2>Mark Cain, su pareja, está acusado de los hechos y en prisión preventiva, según la policía de Norfolk, y comparecerá en juicio este jueves</h2>",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Mbappé entrena con el grupo y regresan casi todos los internacionales al Real Madrid",
+    "link": "https://www.elperiodico.com/es/deportes/20261007/mbappe-entrena-grupo-regresan-internacionales-135109802",
+    "pubDate": "2026-10-07 18:20:28",
+    "category": "",
+    "description": "",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Solo cinco provincias venden más coches usados que hace un año: Toledo se dispara un 44,5%",
+    "link": "https://www.elperiodico.com/es/motor/20261007/mercado-vehiculos-usados-cae-septiembre-135085451",
+    "pubDate": "2026-10-07 18:15:57",
+    "category": "",
+    "description": "<h2>A pesar del retroceso mensual en turismos y furgonetas, el sector acumula 1.917.113 transferencias hasta septiembre, un 2,7% más que en el mismo periodo de 2025</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La huelga general por la vivienda será el miércoles 11 de noviembre",
+    "link": "https://www.elperiodico.com/es/videos/politica/huelga-general-vivienda-miercoles-11-noviembre/135109997.shtml",
+    "pubDate": "2026-10-07 18:15:18",
+    "category": "",
+    "description": "Los sindicatos mayoritarios y minoritarios concretan la fecha para un paro de 24 horas, unos días antes de que arranque formalmente la campaña electoral",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "El Rey alerta desde la frontera rusa de las \"amenazas híbridas\" y pide a Europa estar \"permanentemente en guardia\"",
+    "link": "https://www.elperiodico.com/es/politica/20261007/rey-frontera-rusa-amenazas-hibridas-permanentemente-guardia-135109865",
+    "pubDate": "2026-10-07 18:13:09",
+    "category": "",
+    "description": "<h2 class=\"item\">Felipe VI reclama solidaridad para la frontera sur y recuerda el esfuerzo de España, con unos 2.000 militares desplegados en el flanco oriental de Europa</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Los Comuns enfrían la propuesta de Más Madrid para que Colau sea candidata porque no es un \"acuerdo global\"",
+    "link": "https://www.elperiodico.com/es/politica/20261007/ada-colau-comuns-enfrian-mas-madrid-candidata-acuerdo-global-elecciones-generales-135108995",
+    "pubDate": "2026-10-07 18:09:23",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/politica/20261007/primarias-podemos-colau-candidatura-frente-amplio-135107388\" target=\"_blank\">Podemos insiste en primarias y se desentiende de la propuesta para que Colau encabece el Frente Amplio</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261007/madrid-propone-ada-colau-candidata-135105103\" target=\"_blank\">Más Madrid propone a Ada Colau como candidata de Frente Amplio a la Presidencia del Gobierno</a></h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261007/comuns-alianza-podemos-frente-amplio-ada-colau-negociaciones-elecciones-generales-135066023\" target=\"_blank\">Los Comuns presionan para lograr una alianza con Podemos bajo el impulso de Ada Colau</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "ЗСУ вдруге атакували найбільший нафтовий хаб під Самарою",
+    "link": "https://ua.korrespondent.net/ukraine/4918143-zsu-vdruhe-atakuvaly-naibilshyi-naftovyi-khab-pid-samaroui",
+    "pubDate": "2026-10-07 18:09:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589704.jpg\">Площа ураженого об'єкту перевищує 216 гектарів, резервуарний парк включає 71 ємність загальною місткістю понад 1,6 млн. кубометрів нафти.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
     "title": "El Parlament da luz verde a tramitar una ley de mecenazgo tras rechazar una enmienda de Vox",
     "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261007/parlament-da-luz-verde-tramitar-135109479",
     "pubDate": "2026-10-07 18:06:41",
@@ -34,6 +142,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589679.jpg\">У Києві внаслідок російської атаки постраждали вісім людей у Солом’янському районі. У Святошинському районі пошкоджено адмінбудівлю.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Наслідки атаки РФ на Київ: число поранених зростає",
+    "link": "https://ua.korrespondent.net/city/kiev/4918141-naslidky-ataky-rf-na-kyiv-chyslo-poranenykh-zrostaie",
+    "pubDate": "2026-10-07 18:02:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589679.jpg\">У Києві внаслідок російської атаки постраждали вісім людей у Солом’янському районі. У Святошинському районі пошкоджено адмінбудівлю.",
+    "topic": "політика",
+    "topic_match_probability": 90
   },
   {
     "title": "Міжнародні резерви України знову знизилися",
@@ -81,6 +198,15 @@
     "topic_match_probability": 100
   },
   {
+    "title": "Свята 8 жовтня 2026 року: історія, традиції",
+    "link": "https://ua.korrespondent.net/lifestyle/4918114-sviata-8-zhovtnia-2026-roku-istoriia-tradytsii",
+    "pubDate": "2026-10-07 17:59:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589613.jpg\">Сьогодні прийнято діставати теплі речі - куртки, шуби, шапки та рукавиці - перевіряти їхній стан і зашивати діряві кишені.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "“El Madrid, el Panathinaikos y el CSKA son el baloncesto europeo”",
     "link": "https://as.com/baloncesto/euroliga/el-madrid-el-panathinaikos-y-el-cska-son-el-baloncesto-europeo-f202610-n/",
     "pubDate": "2026-10-07 17:56:24",
@@ -117,6 +243,24 @@
     "topic_match_probability": 65
   },
   {
+    "title": "Учаснику сутички на Теремках призначили домашній арешт",
+    "link": "https://ua.korrespondent.net/city/kiev/4918136-uchasnyku-sutychky-na-teremkakh-pryznachyly-domashnii-aresht",
+    "pubDate": "2026-10-07 17:39:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589667.jpg\">Активіст назвав рішення суду непропорційним і заявив про можливе політичне переслідування.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Барселону посилить гравець, який після травми гратиме на захисті воріт",
+    "link": "https://ua.korrespondent.net/sport/football/4918134-barselonu-posylyt-hravets-yakyi-pislia-travmy-hratyme-na-zakhysti-vorit",
+    "pubDate": "2026-10-07 17:38:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589665.jpg\">До складу команди повернувся гравець, який травмувався у вересні і пропустив кілька матчів команди.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
     "title": "Засуджена у США до страти жінка після двох ін'єкцій отямилася і заговорила",
     "link": "https://ua.korrespondent.net/strange/4918132-zasudzhena-u-ssha-do-straty-zhinka-pislia-dvokh-iniektsii-otiamylasia-i-zahovoryla",
     "pubDate": "2026-10-07 17:34:00",
@@ -133,6 +277,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589666.jpg\">Ситуація в енергосистемі може змінюватися. Через це графіки можуть коригуватися протягом доби.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "Гороскоп на 8 жовтня 2026 року для всіх знаків зодіаку",
+    "link": "https://ua.korrespondent.net/lifestyle/4918097-horoskop-na-8-zhovtnia-2026-roku-dlia-vsikh-znakiv-zodiaku",
+    "pubDate": "2026-10-07 17:31:00",
+    "category": "LifestyleFashion",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4589578.jpg\">8 жовтня краще не зациклюватися на чітких планах і бути гнучкими. Це чудовий момент для розмов, де головне - не просто виговоритися, а по-справжньому почути один одного.",
+    "topic": "гороскопи",
+    "topic_match_probability": 100
   },
   {
     "title": "La gran banca española pierde 16.500 millones en Bolsa por el temor a una crisis económica en Francia",
@@ -1447,6 +1600,15 @@
     "description": "<h2>El equipo de Luis de la Fuente cierra el parón con pleno de victorias y sigue aumentando su histórica racha de imbatibilidad </h2>",
     "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
     "topic_match_probability": 100
+  },
+  {
+    "title": "Las administraciones piden la colaboración de los promotores para afrontar el déficit de vivienda",
+    "link": "https://www.elperiodico.com/es/economia/20261007/administraciones-piden-colaboracion-promotores-135089515",
+    "pubDate": "2026-10-07 11:18:18",
+    "category": "",
+    "description": "<h2>El Gobierno, la Generalitat de Catalunya y el Ayuntamiento de Barcelona reclaman la colaboración del sector privado para cerrar un déficit estructural que impide la creación de más de 110.000 viviendas anuales</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "\"Телебачення для суверенної Африки\": хунти створили канал за підтримки РФ",

@@ -1,10 +1,11 @@
-# News for 2026-10-07 18:08
+# News for 2026-10-07 18:40
 
 Previous day: [2026-10-06](./data/2026-10-06.md)
 
 ## ua.korrespondent.net
 18:02 [Наслідки атаки РФ на Київ: число потерпілих зростає](https://ua.korrespondent.net/city/kiev/4918141-naslidky-ataky-rf-na-kyiv-chyslo-poterpilykh-zrostaie)<br>
 18:01 [Міжнародні резерви України знову знизилися](https://ua.korrespondent.net/business/financial/4918139-mizhnarodni-rezervy-ukrainy-znovu-znyzylysia)<br>
+17:59 [Свята 8 жовтня 2026 року: історія, традиції](https://ua.korrespondent.net/lifestyle/4918114-sviata-8-zhovtnia-2026-roku-istoriia-tradytsii)<br>
 17:34 [Засуджена у США до страти жінка після двох ін'єкцій отямилася і заговорила](https://ua.korrespondent.net/strange/4918132-zasudzhena-u-ssha-do-straty-zhinka-pislia-dvokh-iniektsii-otiamylasia-i-zahovoryla)<br>
 17:31 [Укренерго анонсувало відключення у четвер](https://ua.korrespondent.net/ukraine/4918131-ukrenerho-anonsuvalo-vidkluichennia-u-chetver)<br>
 16:59 [У Прилуках вбито трьох 1-річних дітей - Зеленський](https://ua.korrespondent.net/ukraine/4918124-u-prylukakh-vbyto-trokh-1-richnykh-ditei-zelenskyi)<br>
@@ -45,6 +46,7 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 07:21 [“Que nos quiten lo bailao de lo que vivimos”](https://as.com/baloncesto/mas_baloncesto/que-nos-quiten-lo-bailao-de-lo-que-vivimos-f202610-n/)<br>
 
 ## www.elperiodico.com
+18:30 [Encuesta CIS: El 77% de la población rural usa la banca online, pero los jubilados denuncian falta de atención de su entidad](https://www.elperiodico.com/es/economia/20261007/encuesta-cis-inclusion-exclusion-financiera-bancos-135109340)<br>
 18:04 [La familia de un menor que se suicidó denuncia que sufría acoso por su orientación sexual en un instituto de L'Hospitalet de Llobregat](https://www.elperiodico.com/es/sociedad/20261007/familia-adonis-menor-suicido-acoso-escolar-hospitalet-135108977)<br>
 18:02 [Carles Sans se despide de los escenarios con ‘Me’n vaig!!’ en el Teatre Poliorama](https://www.elperiodico.com/es/ocio-y-cultura/20261007/carles-sans-despide-escenarios-n-135109172)<br>
 18:00 [Factorial abandona el sello de los RRHH y se autotransforma en un proveedor de IA para las empresas](https://www.elperiodico.com/es/economia/20261007/factorial-abandona-sello-rrhh-autotransforma-135087525)<br>
@@ -77,6 +79,7 @@ Previous day: [2026-10-06](./data/2026-10-06.md)
 11:43 [Caos en Sant Vicenç de Calders durante la reanudación del servicio ferroviario](https://www.elperiodico.com/es/tarragona/20261007/caos-sant-vicenc-calders-durante-reanudacion-servicio-rodalies-135089697)<br>
 11:33 [Halle Berry niega haber maltratado a su hijo neurodivergente de 12 años: "Nunca le haría daño"](https://www.elperiodico.com/es/gente/20261007/halle-berry-niega-haber-maltratado-135090032)<br>
 11:30 [Las 20 películas para no perderse en Sitges 2026](https://www.elperiodico.com/es/ocio-y-cultura/20261007/mejores-peliculas-festival-de-sitges-2026-hope-134526557)<br>
+11:18 [Las administraciones piden la colaboración de los promotores para afrontar el déficit de vivienda](https://www.elperiodico.com/es/economia/20261007/administraciones-piden-colaboracion-promotores-135089515)<br>
 10:40 [La Seguridad Social paga un complemento a casi 100.000 jubilados anticipados: estos son los requisitos para cobrarlo](https://www.elperiodico.com/es/economia/20261007/seguridad-social-paga-complemento-casi-100-mil-jubilados-anticipados-dv-135087719)<br>
 10:40 [Eleonora Viezzer, la física que aspira a imitar en la Tierra lo que sucede en el Sol: "Sevilla y Andalucía pueden ser como Silicon Valley"](https://www.elperiodico.com/es/sociedad/20261007/eleonora-viezzer-fisica-aspira-imitar-135085219)<br>
 10:38 [Tres años de retraso y tres prórrogas: el laberinto regulatorio de Verifactu sigue para empresas y autónomos](https://www.elperiodico.com/es/economia/20261007/tres-anos-retraso-tres-prorrogas-135087857)<br>
