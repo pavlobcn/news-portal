@@ -1,5 +1,446 @@
 [
   {
+    "title": "Adrián (33 años), propietario de 12 pisos: \"Yo compro viviendas grandes, las reformo y las alquilo por habitaciones para generar hasta 2.000€ al mes de cash flow\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/adrian-33-anos-propietario-12-pisos-dinero-dv-et-135101473",
+    "pubDate": "2026-10-08 12:00:36",
+    "category": "",
+    "description": "<h2 class=\"item\">El experto inmobiliario compartió su método para generar dinero a través de un vídeo de Instagram</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/economia/20261005/rocio-propietaria-75-habitaciones-to-rent-inversion-vivienda-dv-131011289\">Rocío, inversora y gestora de 75 habitaciones en alquiler en España: \"Con muy poquita inversión empiezas a generar ingresos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Mette-Marit de Noruega seguirá de baja hasta el próximo verano y la princesa Ingrid Alexandra regresará a Australia",
+    "link": "https://www.elperiodico.com/es/gente/20261008/mette-marit-noruega-baja-verano-haakon-ingrid-australia-135126433",
+    "pubDate": "2026-10-08 11:59:43",
+    "category": "",
+    "description": "<h2>La reina continuará recuperándose de su trasplante de pulmón, mientras Haakon VIII reorganiza la agenda de la Casa Real tras la muerte de Harald V</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gente/20261002/mette-marit-debut-reina-viernes-infeccion-respiratoria-parlamento-134915538\" target=\"_blank\">Mette-Marit cancela su debut como reina de Noruega por una infección respiratoria</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ayuso acusa a la izquierda de usar la muerte de Maricarmen: \"Hay fondos buitre y políticos buitres, ustedes\"",
+    "link": "https://www.elperiodico.com/es/politica/20261008/ayuso-acusa-izquierda-muerte-maricarmen-135130240",
+    "pubDate": "2026-10-08 11:56:14",
+    "category": "",
+    "description": "<h2>El fallecimiento de la mujer de 87 años desahuciada en Madrid hace dos semanas acapara el Pleno en la Asamblea de Madrid</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "¿Qué pasa con las ayudas al alquiler si hay elecciones?",
+    "link": "https://www.elperiodico.com/es/economia/20261008/que-pasa-ayudas-alquiler-si-hay-elecciones-135129981",
+    "pubDate": "2026-10-08 11:51:02",
+    "category": "",
+    "description": "<h2>El adelanto electoral no paraliza automáticamente las subvenciones, pero puede afectar a futuras convocatorias</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Влучання в магазин у Києві: є загиблі і поранені",
+    "link": "https://ua.korrespondent.net/city/kiev/4918317-vluchannia-v-mahazyn-u-kyievi-ye-zahybli-i-poraneni",
+    "pubDate": "2026-10-08 11:48:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590432.jpg\">Двоє людей загинули, ще троє дістали поранення внаслідок влучання російського БпЛА в магазин у Солом’янському районі Києва. На місці триває пошуково-рятувальна операція.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo no arropará a Llorca en el primer Nou d’Octubre tras la dana",
+    "link": "https://www.elperiodico.com/es/politica/20261008/feijoo-arropara-llorca-primer-nou-135123309",
+    "pubDate": "2026-10-08 11:47:28",
+    "category": "",
+    "description": "<h2>El presidente nacional del PP no tiene previsto acudir a los actos institucionales por el día de la Comunitat Valenciana mientras el Gobierno tampoco se volcará y solo estará representado por los dos ministros valencianos </h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Gobierno aprueba la 'ley Ferrovial' para facilitar la cotización de empresas españolas en Wall Street sin trasladar su sede",
+    "link": "https://www.elperiodico.com/es/economia/20261008/gobierno-aprueba-ley-ferrovial-facilitar-cotizacion-empresas-espanolas-wall-street-trasladar-sede-135129834",
+    "pubDate": "2026-10-08 11:46:30",
+    "category": "",
+    "description": "<h2 class=\"item\">La reforma permitirá a las compañías cotizar simultáneamente en España y Estados Unidos manteniendo a Iberclear como depositario central de referencia</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "El partido de Meloni lanza una campaña contra el \"integrismo islámico\" con las urnas en el horizonte",
+    "link": "https://www.elperiodico.com/es/internacional/20261008/partido-meloni-lanza-campana-contra-integrismo-islamico-elecciones-135129712",
+    "pubDate": "2026-10-08 11:44:32",
+    "category": "",
+    "description": "<h2>La iniciativa, que recorrerá el país hasta noviembre, llega tras el decreto que prohíbe el burka y el niqab en las aulas y en plena precampaña de las generales de 2027, sin que haya habido ningún incidente que la justifique</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "На Київщині погіршилася якість повітря: де ситуація найгірша",
+    "link": "https://ua.korrespondent.net/ukraine/4918315-na-kyivschyni-pohirshylasia-yakist-povitria-de-sytuatsiia-naihirsha",
+    "pubDate": "2026-10-08 11:44:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590429.jpg\">У кількох містах Київської області зафіксували тимчасове погіршення якості повітря. Основним забруднювачем став дрібнодисперсний пил.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Se amplía el perímetro de búsqueda del menor desaparecido el domingo en Granollers a los municipios de La Roca y Parets del Vallès",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/amplia-perimetro-busqueda-menor-desaparecido-granollers-roca-parets-video/135129300.shtml",
+    "pubDate": "2026-10-08 11:42:01",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський анонсував переговори з партнерами",
+    "link": "https://ua.korrespondent.net/ukraine/4918313-zelenskyi-anonsuvav-perehovory-z-partneramy",
+    "pubDate": "2026-10-08 11:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590430.jpg\">Глава держави подякував партнерам, які не промовчали про російські злочини, однак наголосив на важливості, щоб підтримка набувала конкретних форм у нових оборонних пакетах.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Dónde ver el documental israelí 'NAZA'",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/documental-israeli-naza-estara-disponible-134644632",
+    "pubDate": "2026-10-08 11:40:00",
+    "category": "",
+    "description": "<h2>El documental, premiado en la Mostra de Venecia, se estrena este viernes en sslas de cine y estará disponible en línea el próximo noviembre, tras las elecciones en Israel </h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261007/naza-yuval-abraham-rachel-szor-entrevista-directores-israeli-palestinos-morir-135071824\" target=\"_blank\">Yuval Abraham y Rachel Szor, directores de 'Naza': \"En la sociedad israelí impera la creencia de que todos los palestinos merecen morir\"</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Martí Gironell: \"Las mujeres curanderas se sentían libres, con un empoderamiento que les daba la madre naturaleza\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/marti-gironell-mujeres-curanderas-135127063",
+    "pubDate": "2026-10-08 11:37:36",
+    "category": "",
+    "description": "<h2>El escritor de Besalú publica Malaveïna (Columna), una novela histórica ambientada en el Empordà de finales del siglo XIX que sigue el poder sanador de la naturaleza, la leyenda de una mujer temida y respetada y el papel de los Rocabertí en la construcción de los jardines del castillo de Peralada y de un proyecto cultural y educativo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "В Україні створять нову службу для ветеранів: що зміниться",
+    "link": "https://ua.korrespondent.net/ukraine/4918306-v-ukraini-stvoriat-novu-sluzhbu-dlia-veteraniv-scho-zminytsia",
+    "pubDate": "2026-10-08 11:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590417.jpeg\">В Україні планують створити Державну службу супроводу ветеранів. Кожен ветеран матиме закріпленого фахівця, який координуватиме отримання необхідної допомоги — від лікування до працевлаштування.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "David Sánchez pide su absolución al considerar que le han condenado porque su hermano es el presidente del Gobierno",
+    "link": "https://www.elperiodico.com/es/politica/20261008/david-sanchez-pide-absolucion-considerar-135129107",
+    "pubDate": "2026-10-08 11:34:34",
+    "category": "",
+    "description": "<h2>El abogado considera que la condición de pariente de Pedro Sánchez \"es lo que dota de una indisimulada sospecha lo acontecido\"</h2>",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Detenidos tres hombres de un grupo criminal dedicado al robo de catalizadores de vehículos",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/detenidos-tres-hombres-grupo-criminal-robo-catalizadores-coches-video/135128914.shtml",
+    "pubDate": "2026-10-08 11:32:24",
+    "category": "",
+    "description": "",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Пєсков розповів, чи привітав Трамп Путіна з днем народження",
+    "link": "https://ua.korrespondent.net/world/russia/4918304-pieskov-rozpoviv-chy-pryvitav-tramp-putina-z-dnem-narodzhennia",
+    "pubDate": "2026-10-08 11:31:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590420.jpg\">Дональд Трамп напередодні заявив, що планує зателефонувати Володимиру Путіну в день його народження, однак обіцяної розмови не відбулося.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Chéjov ya sabía que acabaríamos así: la 'súper obra' que mezcla sus cuatro grandes clásicos para retratar nuestras miserias",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/chejov-sabia-acabariamos-super-obra-cuatro-clasicos-retratar-miserias-estreno-moscu-135127545",
+    "pubDate": "2026-10-08 11:30:24",
+    "category": "",
+    "description": "<h2>El Fernán Gómez estrena 'Moscú no existe', un montaje que funde 'Tío Vania', 'La gaviota', 'Las tres hermanas' y 'El jardín de los cerezos' para hablar de precariedad, ansiedad y frustración</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Marta López (32 años), psicóloga, deja Catalunya para vivir en una autocaravana en Canarias: \"La ansiedad y la depresión están a la orden del día, estamos viviendo unos ritmos bastante insostenibles\"",
+    "link": "https://www.elperiodico.com/es/economia/20261008/psicologa-barcelona-autocaravana-canarias-libertad-depresion-ansiedad-marta-lopez-dv-et-134868517",
+    "pubDate": "2026-10-08 11:30:00",
+    "category": "",
+    "description": "<h2>La experta explica por qué decide dejarlo todo atrás:  \"A veces, sentimos que nos queda mucho tiempo y vamos dejando algunas cosas para más adelante, pero no debería ser así\"</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260819/autocaravana-autosuficiente-viajes-europa-sin-facturas-matrimonio-maribel-vicente-dv-et-133242401\">Maribel y Vicente, la pareja que lleva más de 5 años viviendo en 10 m² sin pagar facturas: \"Esta idea nació para escaparnos de las rutinas, escaparnos de todo y vivir un poquito el tema de naturaleza\"</a></h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260831/dejaron-barcelona-vivir-furgoneta-3-metros-cuadrados-islas-canarias-toni-sara-dv-et-133620927\">Toni y Sara dejaron Barcelona para vivir en una furgoneta de 3 m² y recorrer las Islas Canarias: \"Tienes que tener en cuenta que todo se acaba más rápido. Nos gastamos, tirando a la alta, unos 150 euros a la semana entre los dos\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Almeida, al PSOE al hablar de Maricarmen: \"Aquí si hay buitres carroñeros son ustedes\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/almeida-psoe-hablar-maricarmen-hay/135128821.shtml",
+    "pubDate": "2026-10-08 11:28:17",
+    "category": "",
+    "description": "Maroto y Maestre acusan al alcalde no haber evitado el desahucio de la anciana y critican su negativa a guardar un minuto de silencio. El regidor las acusa de \"carroñeros\" y de utilizar el fallecimiento como una \"estrategia electoral\"",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Дезертир повернувся із СЗЧ, щоб шпигувати для росіян",
+    "link": "https://ua.korrespondent.net/ukraine/4918302-dezertyr-povernuvsia-iz-szch-schob-shpyhuvaty-dlia-rosiian",
+    "pubDate": "2026-10-08 11:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590416.jpg\">Зловмисник \"злив\" рашистам геолокацію пункту тимчасової дислокації батальйону, в якому проходив службу.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Anticorrupción ve indicios para imputar al PSOE en el caso de la 'fontanera' Leire Díez, aunque lo considera prematuro",
+    "link": "https://www.elperiodico.com/es/politica/20261008/anticorrupcion-ver-prematura-imputacion-psoe-caso-fontanera-leire-diez-135128486",
+    "pubDate": "2026-10-08 11:23:36",
+    "category": "",
+    "description": "<h2>El PP pidió al juez Santiago Pedraz que citara como investigado al partido socialista al día siguiente de que Pedro Sánchez convocara las elecciones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Cae una banda de narcos especializada en distribuir cocaína al por mayor a otros grupos en Barcelona y Lleida",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/cae-banda-narcos-especializada-distribuir-coca-por-mayor-barcelona-lleida-video/135128204.shtml",
+    "pubDate": "2026-10-08 11:17:13",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Silencio, Woody Allen rueda en el Prado ante decenas de curiosos: \"Soy súper fan desde pequeño y de repente me lo encuentro aquí, de cerca... Es un abuelazo\"",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/silencio-woody-allen-rueda-madrid-paseo-prado-decenas-curiosos-pelicula-madrid-135127563",
+    "pubDate": "2026-10-08 11:16:25",
+    "category": "",
+    "description": "<h2>El director neoyorquino ha elegido la entrada del Museo del Prado para rodar una de las escenas de la película que está rodando en Madrid, generando un gran expectación entre la multitud de personas que se lo encontraron sin esperarlo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Литва підняла військових для охорони кордону з Калінінградом",
+    "link": "https://ua.korrespondent.net/world/4918300-lytva-pidniala-viiskovykh-dlia-okhorony-kordonu-z-kalininhradom",
+    "pubDate": "2026-10-08 11:16:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590407.jpg\">Вільнюс залучив до 100 військових для патрулювання ділянки біля Калінінградської області. Рішення ухвалили після інциденту на латвійсько-білоруському кордоні та з огляду на можливу мобілізацію в Росії.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "Meteocat eleva los avisos por lluvias de este jueves de amarillo a naranja y advierte de posibles chubascos intensos hasta la noche",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/meteocat-avisos-lluvias-jueves-naranja-prevision-135126567",
+    "pubDate": "2026-10-08 11:07:21",
+    "category": "",
+    "description": "<h2 class=\"item\">Las previsiones apuntan a la llegada de nuevos frentes que podrían descargar hasta 20 litros por metro cuadrado en periodos de 30 minutos en varios puntos del litoral catalán</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261008/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\">Lluvias en Catalunya, en directo: última hora del tiempo, inundaciones por el temporal y avisos de Aemet y Meteocat</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Південна Корея відкликала свого посла з України",
+    "link": "https://ua.korrespondent.net/world/4918297-pivdenna-koreia-vidklykala-svoho-posla-z-ukrainy",
+    "pubDate": "2026-10-08 11:07:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590404.jpg\">У Сеулі сподіваються на \"безпроблемне вирішення всіх невирішених питань\" з Києвом та продовжать консультації з українською стороною.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Cae una banda de narcos especializada en distribuir cocaína al por mayor a otros grupos en Barcelona y Lleida",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/cae-banda-narcos-especializada-distribuir-135127445",
+    "pubDate": "2026-10-08 11:05:32",
+    "category": "",
+    "description": "<h2>La Guardia Civil interviene 51 kilos de droga y arresta a 20 sospechosos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Martín: \"¿El título? Para mí ya es bestial estar en la pelea con Marc\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261008/martin-titulo-bestial-pelea-marc-135126614",
+    "pubDate": "2026-10-08 11:02:58",
+    "category": "",
+    "description": "<h2 class=\"item\">El Mundial de motociclismo ha dado el salto, en días, de Japón a Indonesia, uno de los países más locos por las motos. Mandalika, un trazado propicio para las Aprilia y donde Marc Márquez no ha terminado nunca, es la próxima estación en la pelea por el título de MotoGP.</h2>",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La jueza imputa a instancias de Anticorrupción a la cúpula directiva de la polémica urbanización alicantina de Les Naus",
+    "link": "https://www.elperiodico.com/es/politica/20261008/jueza-imputa-instancias-anticorrupcion-cupula-135127392",
+    "pubDate": "2026-10-08 11:00:42",
+    "category": "",
+    "description": "<h2>La acusación pública solicita a la jueza que cite al presidente, a la vicepresidente y a la secretaria, todos con áticos en la urbanización, por los contratos que firmaron con mercantiles del promotor para vender los pisos cuando había lista de espera</h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Los 2′ de Aday Mara que han revolucionado Estados Unidos: es una exhibición de otro mundo",
+    "link": "https://as.com/baloncesto/videos/los-2-de-aday-mara-que-han-revolucionado-estados-unidos-es-una-exhibicion-de-otro-mundo-f202610-v/",
+    "pubDate": "2026-10-08 10:54:25",
+    "category": "Aday Mara",
+    "description": "El rookie de los Thunder firma 15/15 en tiros en sus dos primeros partidos de pretemporada. Ayer sumó 22 puntos frente a los Bucks.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Після чотирьох років паузи: Словаччина повертає військового аташе до РФ",
+    "link": "https://ua.korrespondent.net/world/4918291-pislia-chotyrokh-rokiv-pauzy-slovachchyna-povertaie-viiskovoho-atashe-do-rf",
+    "pubDate": "2026-10-08 10:48:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590393.jpg\">Словаччина та Росія вперше від початку повномасштабної війни відновлюють обмін військовими аташе. У словацькій опозиції рішення уряду Роберта Фіцо вже розкритикували.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "¿Se pueden retrasar las oposiciones por la convocatoria de elecciones del 29-N?",
+    "link": "https://www.elperiodico.com/es/economia/20261008/oposiciones-retrasar-convocatoria-elecciones-29-noviembre-dv-135124946",
+    "pubDate": "2026-10-08 10:44:22",
+    "category": "",
+    "description": "<h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261008/elecciones-generales-espana-2026-pedro-sanchez-ultima-hora-directo-135003267\" >Elecciones generales en España 2026, en directo: última hora y todas las reacciones a la convocatoria de Sánchez para el 29 de noviembre</a></h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Краматорську атаковано автобус, 12 загиблих",
+    "link": "https://ua.korrespondent.net/ukraine/4918286-u-kramatorsku-atakovano-avtobus-12-zahyblykh",
+    "pubDate": "2026-10-08 10:37:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590381.jpg\">Рашисти обстріляли Краматорськ із реактивної системи залпового вогню. В епіцентрі удару опинився рейсовий автобус.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Montesa aparca ocho décadas de historia en Terrassa",
+    "link": "https://www.elperiodico.com/es/motor/20261008/montesa-aparca-ocho-decadas-historia-terrassa-135097249",
+    "pubDate": "2026-10-08 10:35:31",
+    "category": "",
+    "description": "<h2>El MNACTEC reúne 80 motocicletas en una exposición que recorre la trayectoria de la marca, desde sus primeros modelos hasta su alianza con Honda</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Команди Трампа і Путіна готують газову угоду по Nord Stream - ЗМІ",
+    "link": "https://ua.korrespondent.net/world/4918283-komandy-trampa-i-putina-hotuuit-hazovu-uhodu-po-Nord-Stream-zmi",
+    "pubDate": "2026-10-08 10:26:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590375.jpg\">Команди Дональда Трампа і Володимира Путіна обговорюють можливість залучення американського інвестора до фінансування Північного потоку. У Вашингтоні розраховують на прибуток від енергетичних поставок до Європи.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El marido de la médica de la reina Camila, acusado de asesinarla durante una fiesta de pijamas infantil",
+    "link": "https://www.elperiodico.com/es/gente/20261008/marido-medica-reina-camila-acusado-asesinato-hannah-terry-135125584",
+    "pubDate": "2026-10-08 10:21:16",
+    "category": "",
+    "description": "<h2>Hannah Terry, de 45 años y madre de tres hijos, fue encontrada muerta con lesiones en la cabeza y el cuello en su casa, próxima a la residencia real de Sandringham</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Jordi Évole carga contra algunos medios tras la muerte de Maricarmen: \"Medios buitre, carroñeros\"",
+    "link": "https://www.elperiodico.com/es/tele/yotele/20261008/jordi-evole-carga-muerte-maricarmen-medios-buitre-carroneros-135125736",
+    "pubDate": "2026-10-08 10:20:16",
+    "category": "",
+    "description": "<h2>El periodista alude de forma indirecta a 'Horizonte' después de que el programa ocultara la identidad de un representante de Urbagestión durante una entrevista sobre el desahucio.</h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Bolaños urge al Supremo a resolver sobre la ley de nietos antes del 29N: \"Solo se puede privar al voto con sentencia firme\"",
+    "link": "https://www.elperiodico.com/es/politica/20261008/bolanos-supremo-ley-nietos-elecciones-135125778",
+    "pubDate": "2026-10-08 10:16:21",
+    "category": "",
+    "description": "<h2>El titular de Presidencia y Justicia no descarta que el Gobierno acuda al Tribunal Constitucional y asegura que ahora \"el censo está alterado porque hay 400.000 personas no pudiendo votar\"</h2>",
+    "topic": "вибори",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "У Києві є жертви через ранкові атаки \"шахедів\"",
+    "link": "https://ua.korrespondent.net/city/kiev/4918282-u-kyievi-ye-zhertvy-cherez-rankovi-ataky-shakhediv",
+    "pubDate": "2026-10-08 10:12:00",
+    "category": "Київ",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590367.jpg\">Також на правому березі столиці спостерігається зниження тиску у водопровідній мережі у зв'язку зі зниженням напруги в електромережі.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Illa recibe a una delegación de empresarios mexicanos y les pide que inviertan en Catalunya",
+    "link": "https://www.elperiodico.com/es/economia/20261008/salvador-illa-recibe-delegacion-empresarios-mexicanos-bbva-135125537",
+    "pubDate": "2026-10-08 10:11:51",
+    "category": "",
+    "description": "<h2>La Generalitat y el BBVA organizan una expedición de corporaciones de México para incrementar las relaciones comerciales entre ambos territorios, que intercambian cada año más de 2.600 millones de euros</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20251205/illa-afianza-vinculos-culturales-mexico-puente-latinoamerica-124370436\">Illa afianza los vínculos culturales con México para que sea el 'puente' de Catalunya con América Latina</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Así es el 'ditakh', la potente fruta antioxidante repleta de fibra, vitaminas y minerales",
+    "link": "https://www.elperiodico.com/es/salud/20261008/ditakh-detarium-senegalense-propiedades-fruto-arbol-detar-dv-134795874",
+    "pubDate": "2026-10-08 10:00:00",
+    "category": "",
+    "description": "<h2>Procedente de África, suele usarse para tratar afecciones como la anemia, la artritis o algunos trastornos digestivos</h2><h2><a href=\"https://www.elperiodico.com/es/salud/20261002/pan-mono-superalimento-arbol-baobab-beneficios-dv-134676991\">El pan de mono: la superfruta africana con multitud de propiedades beneficiosas</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las nuevas normas de la DGT que este puente del 12 de octubre pueden costarte 200 euros de multa",
+    "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261008/nuevas-normas-dgt-puente-12-octubre-200-euros-multa-dv-135124604",
+    "pubDate": "2026-10-08 09:59:50",
+    "category": "",
+    "description": "<h2>El puente del 12 de octubre es el primero desde que entraron en vigor las modificaciones del Reglamento General de Circulación</h2><h2><a href=\"https://www.elperiodico.com/es/trafico-y-transportes/20261006/vigor-nueva-norma-dgt-200-euros-multa-motoristas-guantes-carretera-dv-134914881\">Multas de 200 euros para los motoristas que no usen guantes: entra en vigor la nueva norma de la DGT</a></h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Укренерго попередило щодо аварійних відключень",
+    "link": "https://ua.korrespondent.net/ukraine/4918275-ukrenerho-poperedylo-schodo-avariinykh-vidkluichen",
+    "pubDate": "2026-10-08 09:53:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590355.jpg\">В частині областей упродовж доби застосовуються графіки погодинних відключень для всіх категорій споживачів, але їх збільшили удвічі – до 3 черг.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Горить дата-центр Яндекса: що відомо про удар",
+    "link": "https://ua.korrespondent.net/world/russia/4918269-horyt-data-tsentr-yandeksa-scho-vidomo-pro-udar",
+    "pubDate": "2026-10-08 09:46:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590354.jpg\">Україна завдала удару по ключовому російському оборонному заводу і центру обробки даних Яндекса.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Трамп назвав себе гідним Нобелівської премії миру",
+    "link": "https://ua.korrespondent.net/world/4918270-tramp-nazvav-sebe-hidnym-nobelivskoi-premii-myru",
+    "pubDate": "2026-10-08 09:43:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590340.jpg\">Дональд Трамп заявив, що заслуговує на Нобелівську премію миру, але сумнівається, що Норвезький Нобелівський комітет віддасть йому нагороду.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Bolaños, tras la muerte de Maricarmen: \"Se ha convertido en un símbolo de una causa justa y nos interpela\"",
+    "link": "https://www.elperiodico.com/es/politica/20261008/bolanos-muerte-maricarmen-convertido-simbolo-135124875",
+    "pubDate": "2026-10-08 09:39:23",
+    "category": "",
+    "description": "<h2>El ministro de Presidencia y Justicia confirma la intención del Ejecutivo de aprobar una subida del SMI antes de las elecciones generales del próximo 29 de noviembre y no descarta revalorizar las pensiones</h2>",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "В Україні викрили масштабну контрабанду бурштину",
+    "link": "https://ua.korrespondent.net/ukraine/4918267-v-ukraini-vykryly-masshtabnu-kontrabandu-burshtynu",
+    "pubDate": "2026-10-08 09:35:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590349.jpg\">Понад 4,7 тонни українського бурштину на мільйони гривень вивезли за кордон під виглядом литовського.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Hogar, dulce hogar para el Madrid",
+    "link": "https://as.com/baloncesto/euroliga/hogar-dulce-hogar-para-el-madrid-f202610-n/",
+    "pubDate": "2026-10-08 09:24:22",
+    "category": "Baloncesto",
+    "description": "El equipo blanco disputa su primer partido de la Euroliga 2026-27 en el Movistar Arena, donde sacó 18 victorias la pasada temporada. Solo perdió un duelo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
     "title": "Precio de la gasolina y diésel hoy, 8 de octubre en España: consulta el precio de los carburantes",
     "link": "https://www.elperiodico.com/es/economia/20261008/precio-gasolina-diesel-hoy-8-octubre-dv-135107636",
     "pubDate": "2026-10-08 09:17:36",
@@ -646,6 +1087,15 @@
     "description": "<h2><a href=\"https://www.elperiodico.com/es/barcelona/20260930/barcelona-redisenara-cuatro-grandes-accesos-aliviar-atascos-134836777\" target=\"_blank\">Barcelona rediseñará sus accesos por la Diagonal, la Gran Via y la Ronda Litoral para reducir atascos</a></h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025\" >Lluvia en Catalunya, en directo: última hora del tiempo, ES-Alert en el Vallès Oriental y Maresme y pronóstico del Meteocat</a></h2>",
     "topic": "ситуація на дорогах в Барселоні, автомобільні, мотоциклетні аварії",
     "topic_match_probability": 100
+  },
+  {
+    "title": "De la innovación a los resultados: el desafío empresarial de la IA",
+    "link": "https://www.elperiodico.com/es/sostenibilidad-ahorro/20261008/innovacion-resultados-desafio-empresarial-ia-bc-135101859",
+    "pubDate": "2026-10-08 05:30:31",
+    "category": "",
+    "description": "<h2>BBVA reunió en BNEW a varios expertos para analizar cómo llevar la inteligencia artificial de la experimentación a su integración real en las compañías</h2>",
+    "topic": "",
+    "topic_match_probability": 0
   },
   {
     "title": "Guerra Ucrania - Rusia, última hora en directo",
