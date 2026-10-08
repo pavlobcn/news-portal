@@ -1,8 +1,12 @@
-# News for 2026-10-08 08:14
+# News for 2026-10-08 09:20
 
 Previous day: [2026-10-07](./data/2026-10-07.md)
 
 ## ua.korrespondent.net
+08:59 [РФ запустила 142 дрони: як відпрацювала ППО](https://ua.korrespondent.net/ukraine/4918256-rf-zapustyla-142-drony-yak-vidpratsuivala-ppo)<br>
+08:45 [Інженер-програміст ПАЕС переміг у міжнародному конкурсі технологічних стартапів](https://ua.korrespondent.net/business/press_release/4918060-inzhener-prohramist-paes-peremih-u-mizhnarodnomu-konkursi-tekhnolohichnykh-startapiv)<br>
+08:40 [РФ посилила атаки: 224 боєзіткнення за добу](https://ua.korrespondent.net/ukraine/4918254-rf-posylyla-ataky-224-boiezitknennia-za-dobu)<br>
+08:20 [Ціни на нафту зросли через нові атаки на танкери](https://ua.korrespondent.net/business/4918249-tsiny-na-naftu-zrosly-cherez-novi-ataky-na-tankery)<br>
 07:44 [РФ вдарила по 26 населених пунктах Сумщини: є загиблі](https://ua.korrespondent.net/ukraine/4918243-rf-vdaryla-po-26-naselenykh-punktakh-sumschyny-ye-zahybli)<br>
 07:26 [У Прилуках зросла кількість жертв після удару РФ](https://ua.korrespondent.net/ukraine/4918240-u-prylukakh-zrosla-kilkist-zhertv-pislia-udaru-rf)<br>
 06:57 [Генштаб назвав втрати Росії за добу](https://ua.korrespondent.net/ukraine/4918237-henshtab-nazvav-vtraty-rosii-za-dobu)<br>
@@ -23,6 +27,9 @@ Previous day: [2026-10-07](./data/2026-10-07.md)
 06:51 [El resurgir de Begoña de Santiago](https://as.com/baloncesto/mas_baloncesto/el-resurgir-de-begona-de-santiago-f202610-n/)<br>
 
 ## www.elperiodico.com
+09:14 [Precio del petróleo hoy, 8 de octubre por la Guerra en Irán: consulta el precio del barril de Brent](https://www.elperiodico.com/es/economia/20261008/precio-petroleo-hoy-8-octubre-dv-135107628)<br>
+09:00 [José Manuel Felices, doctor, explica las 3 señales para detectar la tensión alta: "Es un dolor pulsátil, como si algo te bombeara la cabeza"](https://www.elperiodico.com/es/salud/20261008/tension-alta-detectar-enfermedad-silenciosa-doctor-jose-manuel-felices-dv-et-134680839)<br>
+08:45 [Rupert dejó una vida de lujo en Singapur para cultivar arroz de forma tradicional en Japón: "He descubierto que el mundo moderno es absurdo"](https://www.elperiodico.com/es/economia/20261008/felicidad-sin-dinero-japon-singapur-aislado-sociedad-materialista-rupert-dv-et-134773141)<br>
 07:20 [La dura vida de una familia aislada a más de 1.500 metros de altura: mucho frío, lluvia, un terreno muy complicado y trabajo constante con el ganado](https://www.elperiodico.com/es/economia/20261008/familia-aislada-montana-1500-metros-rural-ganaderia-clima-extremo-dv-et-135090352)<br>
 07:00 [Aparece en el Mediterráneo español un extraño sistema similar a un ciclón tropical: "No no son minihuracanes ni medicanes. Entramos en territorio desconocido"](https://www.elperiodico.com/es/medio-ambiente/20261008/aparece-mediterraneo-espanol-extrano-sistema-135121377)<br>
 06:01 [Un estudio asocia el duelo prolongado con un peor rendimiento cognitivo en personas mayores](https://www.elperiodico.com/es/ser-feliz/20261008/estudio-asocia-duelo-prolongado-peor-134917282)<br>
