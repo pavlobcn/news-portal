@@ -1,5 +1,680 @@
 [
   {
+    "title": "La política de la crueldad",
+    "link": "https://www.elperiodico.com/es/opinion/20261008/politica-crueldad-maricarmen-debate-publico-articulo-joan-canete-bayle-135141997",
+    "pubDate": "2026-10-08 15:25:37",
+    "category": "",
+    "description": "<h2>Los últimos días de vida de Maricarmen han puesto de manifiesto que la crueldad se ha normalizado en la conversación pública, que humillar al adversario y a los símbolos de sus políticas, aunque sean personas vulnerables, ya no es un exceso vergonzante, sino una estrategia política y comunicativa</h2><h2><a href=\"https://www.elperiodico.com/es/politica/20261008/bolanos-muerte-maricarmen-convertido-simbolo-135124875\">Bolaños, tras la muerte de Maricarmen: \"Se ha convertido en un símbolo de una causa justa y nos interpela\"</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Leandre Ribera, Premio Nacional de Circo 2026",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/leandre-ribera-premio-nacional-circo-135142120",
+    "pubDate": "2026-10-08 15:18:16",
+    "category": "",
+    "description": "<h2>El artista catalán suma este galardón nacional a una extensa lista de reconocimientos previos obtenidos por su trayectoria en el ámbito del mimo, el gesto y el teatro del absurdo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський пообіцяв Росії відповідь за Краматорськ",
+    "link": "https://ua.korrespondent.net/ukraine/4918390-zelenskyi-poobitsiav-rosii-vidpovid-za-kramatorsk",
+    "pubDate": "2026-10-08 15:13:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590553.jpg\">Російська бомба фактично вдарила по двох маршрутках. Частину загиблих досі не вдалося упізнати через тяжкість отриманих травм.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "París recupera el pulso de los grandes salones con decenas de primicias mundiales y europeas",
+    "link": "https://www.elperiodico.com/es/motor/20261008/salon-paris-2026-novedades-marcas-modelos-primicias-estrenos-135124220",
+    "pubDate": "2026-10-08 15:04:03",
+    "category": "",
+    "description": "<h2>Más de 100 expositores y 60 fabricantes convertirán París en escaparate de nuevos modelos, prototipos y tecnologías</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Supremo confirma que los jubilados anticipados por un despido colectivo involuntario pueden cobrar el complemento por hijos",
+    "link": "https://www.elperiodico.com/es/economia/20261008/supremo-jubilados-anticipados-despido-colectivo-involuntario-derecho-cobrar-complemento-hijos-dv-135139258",
+    "pubDate": "2026-10-08 15:01:47",
+    "category": "",
+    "description": "<h2>La sentencia reconoce el derecho de un padre de tres hijos al antiguo complemento de maternidad tras jubilarse anticipadamente</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "За Мудру внесли заставу у 20 млн грн",
+    "link": "https://ua.korrespondent.net/ukraine/4918388-za-mudru-vnesly-zastavu-u-20-mln-hrn",
+    "pubDate": "2026-10-08 15:01:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590551.jpg\">Ірина Мудра є підозрюваною у справі Форест Гамп. НАБУ заявляло про викриття злочинного угруповання, яке, за даними слідства, \"організувало й забезпечило легалізацію коштів, одержаних злочинним шляхом\".",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Gerard Piqué (39 años), sobre sus propiedades: \"Tengo la gran suerte de tener una casa en la Cerdanya. Lo que me hace más feliz es ir, encender el fuego, comer fuet y no hacer nada. No necesito nada más en la vida\"",
+    "link": "https://www.elperiodico.com/es/gente/20261008/gerard-pique-39-anos-propiedades-entrevista-dv-et-135137573",
+    "pubDate": "2026-10-08 15:00:37",
+    "category": "",
+    "description": "<h2 class=\"item\">El presidente del FC Andorra habló de cuál es su gran satisfacción en la vida en una entrevista con el creador de contenido Martí Miras, conocido como Spursito</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/catalunya/20260806/pueblos-cataluna-gerard-pique-girona-la-cerdanya-bolvir-dv-loc-130625666\">Así es el escondite de Gerard Piqué: un pueblo entre las montañas del Pirineo de solo 400 habitantes</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Un cartel recuerda a Maricarmen en la acampada de plaza de Catalunya en Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/sociedad/cartel-recuerda-maricarmen-acampada-plaza-catalunya-barcelona-video/135141383.shtml",
+    "pubDate": "2026-10-08 14:58:42",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Protecció Civil activará simultáneamente las 119 sirenas de riesgo químico de Catalunya el 19 de octubre",
+    "link": "https://www.elperiodico.com/es/tarragona/20261008/proteccio-civil-probara-sirenas-riesgo-quimico-catalunya-135139039",
+    "pubDate": "2026-10-08 14:56:53",
+    "category": "",
+    "description": "<h2 class=\"item\">Cerca de 930.000 personas estarán expuestas a la prueba, principalmente en las áreas de Barcelona y el Camp de Tarragona</h2><h2 class=\"item\">El objetivo del ejercicio es concienciar a la población que tiene qu confinarse en caso de accidente químico</h2><h2 class=\"item\">EN 2025 | <a href=\"https://www.elperiodico.com/es/tarragona/20250529/simulacro-confinamiento-tarragona-sorpresa-indiferencia-117994079\">El simulacro de confinamiento en Tarragona, entre la sorpresa y la indiferencia: \"Pensaba que era la guerra\"</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El poema favorito de Rosalía de Anne Carson: 'Salón', sobre la manicura",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/poema-favorito-rosalia-anne-carson-135139517",
+    "pubDate": "2026-10-08 14:54:06",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261008/anne-carson-premio-nobel-literatura-2026-135132249\">La poeta canadiense Anne Carson gana el premio Nobel de Literatura 2026 </a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261008/dia-premio-nobel-anne-carson-135135407\" target=\"_blank\">El día que la Premio Nobel Anne Carson aulló (literalmente) en Barcelona</a></h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Adif activa un segundo pago de emergencia por los robos de cobre en Rodalies: la factura ya asciende a 31 millones",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/adif-activa-segundo-pago-emergencia-robo-cobre-cable-rodalies-factura-asciende-31-millones-135136326",
+    "pubDate": "2026-10-08 14:54:00",
+    "category": "",
+    "description": "<h2 class=\"item\">La empresa ferroviaria deberá destinar 14 millones de euros para reparar los daños de un incendio provocado por ladrones que han dejado sin servicio un tramo de la R13 y la R14 desde junio hasta finales de año</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260910/gobierno-destina-millones-emergencia-robo-cobre-rodalies-134143484\">El Gobierno destina 17 millones de euros de emergencia a comprar 70 km de cable tras 63 robos en la R3</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261005/robos-cable-rodalies-records-detenciones-cataluna-134869892\">Los robos de cable en Rodalies baten récords: un 50% más de casos y el triple de detenciones en 2026</a></h2>",
+    "topic": "пограбування, афера",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Мелоні домоглася ухвалення нових правил виборів в Італії",
+    "link": "https://ua.korrespondent.net/world/4918385-meloni-domohlasia-ukhvalennia-novykh-pravyl-vyboriv-v-italii",
+    "pubDate": "2026-10-08 14:52:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590544.jpg\">Документ передбачає нову пропорційну систему та гарантує парламентську більшість альянсу, який набере понад 42% голосів. Реформа Мелоні викликала гостру критику опозиції.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La canadiense Anne Carson gana el Premio Nobel de Literatura 2026",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/canadiense-anne-carson-gana-premio-nobel-literatura/135140959.shtml",
+    "pubDate": "2026-10-08 14:47:33",
+    "category": "",
+    "description": "El galardón que otorga cada año la Academia Sueca está dotado con 11 millones de coronas suecas, algo más de un millón de euros",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Ambiente previo a la inauguración del Festival de Sitges",
+    "link": "https://www.elperiodico.com/es/fotos/ocio-y-cultura/ambiente-previo-inauguracion-festival-sitges-fotos-135140452",
+    "pubDate": "2026-10-08 14:46:15",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Викрито незаконні рубки у заказнику на Прикарпатті",
+    "link": "https://ua.korrespondent.net/ukraine/4918381-vykryto-nezakonni-rubky-u-zakaznyku-na-prykarpatti",
+    "pubDate": "2026-10-08 14:46:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590538.jpeg\">Рубки проводили на площі 15,4 га Майданського лісництва, що входить до складу заказника \"Чорний ліс\".",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "La acampada de la Puerta del Sol llora la muerte de Maricarmen: \"Si nadie la hubiese sacado a la fuerza de su casa, quizás hubiera vivido varios años más\"",
+    "link": "https://www.elperiodico.com/es/politica/20261008/acampada-puerta-sol-llora-muerte-maricarmen-desahucio-135140668",
+    "pubDate": "2026-10-08 14:45:49",
+    "category": "",
+    "description": "<h2 style=\"text-align: justify;\">Decenas de personas se acercan este jueves a un altar improvisado frente a la Real Casa de Correos al que acercan velas, flores y mensajes para despedir a la mujer que dió nombre a la lucha por la vivienda</h2>",
+    "topic": "політика",
+    "topic_match_probability": 65
+  },
+  {
+    "title": "Зеленський запропонував \"зашити рота\" Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4918380-zelenskyi-zaproponuvav-zashyty-rota-rosii",
+    "pubDate": "2026-10-08 14:40:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590536.jpg\">Президент закликав США допомогти Україні захистити небо та надати необхідні можливості Starlink.",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Viruela del mono: cuáles son sus síntomas y cuándo pueden aparecer complicaciones",
+    "link": "https://www.elperiodico.com/es/salud/20261008/viruela-mono-sintomas-complicaciones-135140231",
+    "pubDate": "2026-10-08 14:39:00",
+    "category": "",
+    "description": "<h2>La forma de contagio de la viruela del mono es, fundamentalmente, por contacto físico prolongado y estrecho, o a través de las secreciones de la persona infectada</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Yolanda Díaz avanza una fuerte subida del salario mínimo: \"Los beneficios empresariales son históricos, toca ajustarse el cinturón por arriba\"",
+    "link": "https://www.elperiodico.com/es/economia/20261008/salario-minimo-yolanda-diaz-avanza-fuerte-subida-135138551",
+    "pubDate": "2026-10-08 14:33:40",
+    "category": "",
+    "description": "<h2>Los expertos gubernamentales presentarán antes del 3 de noviembre su propuesta de revalorización del SMI</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20261007/yolanda-diaz-acelera-subir-salario-minimo-antes-elecciones-135105412\">Yolanda Díaz acelera para subir el salario mínimo antes de las elecciones</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Barcelona comprará un polémico solar ocupado del Raval, la segunda adquisición antidesahucio en 24 horas",
+    "link": "https://www.elperiodico.com/es/barcelona/20261008/barcelona-presenta-oferta-compra-sareb-agora-juan-andres-benitez-frena-desalojo-previsto-135137106",
+    "pubDate": "2026-10-08 14:31:28",
+    "category": "",
+    "description": "<h2>El Ayuntamiento de Barcelona ha presentado una oferta de compra a la Sareb por el solar del Ágora Juan Andrés Benítez, que frena el desalojo previsto</h2><h2>El consistorio declara que la voluntad de ambas partes es \"llegar a un acuerdo para resolver la situación de manera definitiva\"</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261007/generalitat-ayuntamiento-barcelona-compran-edificio-llenguadoc-sant-andreu-desahucio-135114729\">La Generalitat y el Ajuntament de Barcelona acuerdan la compra de un edificio de Sant Andreu para frenar el desahucio de 30 personas</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "В ЄС зреагували на атаку РФ по Краматорську",
+    "link": "https://ua.korrespondent.net/world/4918376-v-yes-zreahuvaly-na-ataku-rf-po-kramatorsku",
+    "pubDate": "2026-10-08 14:29:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590529.jpg\">Усі причетні до серйозних порушень міжнародного гуманітарного права мають бути притягнуті до відповідальності, наголосили у Брюсселі.",
+    "topic": "політика",
+    "topic_match_probability": 85
+  },
+  {
+    "title": "Сили оборони уразили рідкісну російську РЛС Ірбіс",
+    "link": "https://ua.korrespondent.net/ukraine/4918374-syly-oborony-urazyly-ridkisnu-rosiisku-rls-irbis",
+    "pubDate": "2026-10-08 14:25:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590528.jpg\">Українські військові вистежили та уразили російську контрбатарейну РЛС Ірбіс. Попри спробу змінити позицію, ворожий комплекс не встиг уникнути удару.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Comín recogerá su acta de eurodiputado para \"continuar con la internacionalización del 'procés'\"",
+    "link": "https://www.elperiodico.com/es/politica/20261008/comin-eurodiputado-internacionalizacion-proces-135139335",
+    "pubDate": "2026-10-08 14:23:15",
+    "category": "",
+    "description": "<h2>El exconseller desvincula su vuelta de la de Puigdemont al tener motivaciones políticas distintas</h2>",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "El Espanyol de Manolo quiere curarse las heridas en Málaga: \"Es pronto, no podemos quemarlo todo en dos días\"",
+    "link": "https://www.elperiodico.com/es/deportes/20261008/espanyol-manolo-quiere-curarse-heridas-135138360",
+    "pubDate": "2026-10-08 14:22:31",
+    "category": "",
+    "description": "<h2 class=\"item\">El equipo perico visita este viernes al colista bajo el recuerdo del batacazo sufrido contra el Elche antes del parón. \"Estoy bien, fuerte y convencido de darle la vuelta a la situación\", dice el técnico.</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/deportes/20260918/espanyol-penoso-sufre-revolcon-casa-134449142\" target=\"_blank\">Un Espanyol penoso sufre un revolcón en casa ante un Elche con 10</a></h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Albert Pla, Toni Clapés y Judit Martín, las nuevas caras de La 2Cat en catalán",
+    "link": "https://www.elperiodico.com/es/tele/20261008/albert-pla-toni-clapes-la-2cat-programacion-135124402",
+    "pubDate": "2026-10-08 14:22:23",
+    "category": "",
+    "description": "<h2 class=\"item\">La cadena ofrecerá más de ocho horas diarias de contenidos en directo</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/tele/20251007/la2cat-programacion-tve-candela-pena-jordi-baste-122326692\">Cristina Villanueva, Candela Peña, Nina y Jordi Basté, las nuevas caras de La 2Cat</a></h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Feijóo acusa a Sánchez de pretender manipular \"emocionalmente\" a los españoles tras la muerte de Maricarmen",
+    "link": "https://www.elperiodico.com/es/videos/politica/feijoo-acusa-sanchez-pretender-manipular-maricarmen/135139213.shtml",
+    "pubDate": "2026-10-08 14:22:03",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "La sudanesa Salas de Respuesta a Emergencias y varias organizaciones humanitarias lideran las quinielas para el Nobel de la Paz",
+    "link": "https://www.elperiodico.com/es/internacional/20261008/premio-nobel-paz-2026-135139076",
+    "pubDate": "2026-10-08 14:19:20",
+    "category": "",
+    "description": "<h2>Médicos sin Fronteras, la UNRWA o la Corte Penal Internacional figuran también entre los posibles galardonados este 2026</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Молдова готується до нової хвилі біженців з України",
+    "link": "https://ua.korrespondent.net/world/4918371-moldova-hotuietsia-do-novoi-khvyli-bizhentsiv-z-ukrainy",
+    "pubDate": "2026-10-08 14:17:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590521.jpg\">З 2022 року до Молдови прибули понад 1 млн українців, близько 100 000 із них залишилися у країні.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La farmacéutica polaca Adamed invertirá 100 millones de euros en reactivar la antigua planta de Sanofi en Riells i Viabrea",
+    "link": "https://www.elperiodico.com/es/economia/20261008/farmaceutica-polaca-adamed-invertira-100-millones-planta-sanofi-riells-girona-135105778",
+    "pubDate": "2026-10-08 14:16:05",
+    "category": "",
+    "description": "<h2>La compañía cerró la compra de la instalación este verano y pretende acabar fabricando en ella la mitad del producto que vende cada año a nivel mundial</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260122/francesa-sanofi-vende-planta-riells-adamed-pharma-125983466\" target=\"_blank\">La francesa Sanofi vende la planta de Riells i Viabrea (La Selva) a la polaca Adamed Pharma</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Nogueras repetirá como candidata de Junts a las elecciones generales",
+    "link": "https://www.elperiodico.com/es/politica/20261008/nogueras-repetira-candidata-junts-elecciones-generales-29n-135137132",
+    "pubDate": "2026-10-08 14:14:39",
+    "category": "",
+    "description": "<h2 class=\"item\">Cruset, Madrenas y Gavín serán los cabeza de lista de Tarragona Girona y Lleida</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/politica/20261007/junts-ve-imposible-volver-investir-sanchez-elecciones-29n-135086103\" target=\"_blank\">Junts ve \"imposible\" volver a investir a Sánchez tras las elecciones del 29-N</a></h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "TVBoy pinta un mural en homenaje a Maricarmen en Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/tvboy-pinta-mural-homenaje-maricarmen-barcelona-video/135138250.shtml",
+    "pubDate": "2026-10-08 14:07:37",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Cinco libros de Anne Carson, la ganadora del Nobel de Literatura 2026",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/5-lecturas-importantes-anne-carson-nobel-literatura-135134898",
+    "pubDate": "2026-10-08 14:05:44",
+    "category": "",
+    "description": "<h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261008/anne-carson-premio-nobel-literatura-2026-135132249\">La poeta canadiense Anne Carson gana el premio Nobel de Literatura 2026 </a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261008/dia-premio-nobel-anne-carson-135135407\" target=\"_blank\">El día que la Premio Nobel Anne Carson aulló (literalmente) en Barcelona</a></h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261008/poema-favorito-rosalia-anne-carson-135139517\">El poema favorito de Rosalía de Anne Carson: 'Salón', sobre la manicura</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Сумах є жертви через удар Росії",
+    "link": "https://ua.korrespondent.net/ukraine/4918367-u-sumakh-ye-zhertvy-cherez-udar-rosii",
+    "pubDate": "2026-10-08 14:05:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590520.jpg\">За попередньою інформацією, ворог застосував далекобійну реактивну артилерію. По місту випустили чотири снаряди.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Adiós Warner, hola Skydance: la nueva fuerza hegemónica del mercado audiovisual",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/skydance-warner-nueva-fusion-mercado-audiovisual-135131177",
+    "pubDate": "2026-10-08 14:00:26",
+    "category": "",
+    "description": "<h2 class=\"item\">Con el magnate David Ellison al frente, la fusión cuenta con Paramount, Warner, CNN, HBO Max, MTV y DC Studios entre otras productoras y plataformas </h2>",
+    "topic": "телебачення",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "Defensa desvela su nueva estrategia en Catalunya: llevar la materia a los foros de reflexión y rescatar la \"profunda\" historia militar de la comunidad",
+    "link": "https://www.elperiodico.com/es/economia/20261008/defensa-desvela-nueva-estrategia-catalunya-135135874",
+    "pubDate": "2026-10-08 13:57:32",
+    "category": "",
+    "description": "<h2>Las pymes del sector en el territorio echan en falta una empresa tractora que gane y distribuya contratos, así como mecanismos para poder crecer</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20260504/catalunya-ganar-1000-millones-10000-empleos-potencial-militar-129736380\" target=\"_blank\">Catalunya aspira a crecer en 1.000 millones de euros anuales y 10.000 empleos si despliega la industria de defensa</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Maroto, a PP y Vox al rechazar el minuto de silencio a Maricarmen: \"Todo el mundo llora a Maricarmen y ustedes se niegan a hacer un minuto de silencio\"",
+    "link": "https://www.elperiodico.com/es/videos/politica/maroto-pp-vox-rechazar-minuto-maricarmen/135137414.shtml",
+    "pubDate": "2026-10-08 13:55:58",
+    "category": "",
+    "description": "Maroto y Maestre acusan al alcalde no haber evitado el desahucio de la anciana y critican su negativa a guardar un minuto de silencio. El regidor las acusa de \"carroñeros\" y de utilizar el fallecimiento como una \"estrategia electoral\"",
+    "topic": "політика",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Meloni saca adelante en el Parlamento su polémica ley electoral que la oposición considera hecha a medida del Gobierno",
+    "link": "https://www.elperiodico.com/es/internacional/20261008/meloni-polemica-ley-electoral-oposicion-critica-hecha-a-medida-135137177",
+    "pubDate": "2026-10-08 13:52:30",
+    "category": "",
+    "description": "<h2>El Congreso italiano da luz verde por 227 votos a una reforma con 'premio de mayoría', listas bloqueadas y paridad diluida, que ahora afronta recursos ante el Constitucional</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Санду розкрила план Москви щодо Молдови",
+    "link": "https://ua.korrespondent.net/world/4918360-sandu-rozkryla-plan-moskvy-schodo-moldovy",
+    "pubDate": "2026-10-08 13:50:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590510.jpg\">Росія прагнула встановити контроль над Молдовою та використати її територію проти України й ЄС. Президентка Мая Санду заявила, що цей план вдалося зупинити на виборах.",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "TvBoy dedica un mural en Barcelona a la fallecida Maricarmen, convertida en símbolo de la lucha contra la crisis de la vivienda",
+    "link": "https://www.elperiodico.com/es/barcelona/20261008/tvboy-dedica-mural-maricarmen-barcelona-crisis-vivienda-dv-135135934",
+    "pubDate": "2026-10-08 13:48:41",
+    "category": "",
+    "description": "<h2 class=\"item\">\"¡Maricarmen para siempre!\", reza el mural que representa a Maricarmen con una túnica blanca, alas, una aureola y una llave dorada en la mano </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261007/muere-maricarmen-mujer-simbolo-lucha-crisis-vivienda-madrid-135115126\">Muere antes de volver a su casa Maricarmen, la mujer que se convirtió en el símbolo de la lucha contra la crisis de la vivienda</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El día que la Premio Nobel Anne Carson aulló (literalmente) en Barcelona",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/dia-premio-nobel-anne-carson-135135407",
+    "pubDate": "2026-10-08 13:46:45",
+    "category": "",
+    "description": "<h2>Anne Carson, nueva Premio Nobel de Literatura, cautivó al público barcelonés el pasado mes de mayo con una performance que incluyó música, poesía y una peculiar invitación al grito colectivo</h2><h2><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261008/5-lecturas-importantes-anne-carson-nobel-literatura-135134898\" target=\"_blank\">Cinco libros de Anne Carson, la ganadora del Nobel de Literatura 2026</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los municipios catalanes piden a la Generalitat más autobuses directos a Barcelona ante las crisis de Rodalies",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/municipios-catalanes-piden-generalitat-autobuses-directos-barcelona-crisis-rodalies-terrassa-vilassar-135130535",
+    "pubDate": "2026-10-08 13:40:14",
+    "category": "",
+    "description": "<h2 class=\"item\">Plataformas ciudadanas y ayuntamientos de localidades como Terrassa, Sant Celoni y Vilassar de Mar redoblan sus reclamaciones tras las incidencias de los últimos días</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261007/paron-rodalies-desborda-autobuses-valles-135084212\">El parón de Rodalies desborda los autobuses del Vallès y el Maresme: \"La situación es un desastre\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20261007/nueva-jornada-caos-rodalies-tumba-movilidad-cataluna-135090550\">Nueva jornada de caos en Rodalies marcada por el plante de los maquinistas tras el temporal</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Premio Nobel Anne Carson en el CCCB invitada por el Festival de Poesia de Barcelona",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/premio-nobel-anne-carson-cccb-invitada-festival-poesia-barcelona-video/135136058.shtml",
+    "pubDate": "2026-10-08 13:39:55",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Кадиров отримав новий титул після звання генерала армії РФ",
+    "link": "https://ua.korrespondent.net/world/russia/4918356-kadyrov-otrymav-novyi-tytul-pislia-zvannia-henerala-armii-rf",
+    "pubDate": "2026-10-08 13:38:00",
+    "category": "Росія новини",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590507.jpeg\">Рамзан Кадиров отримав нове звання в Росії - \"Почесний архітектор РФ\". Хуснуллін заявив, що глава Чечні особисто задумав і спроєктував район імені Володимира Путіна в Грозному.",
+    "topic": "політика",
+    "topic_match_probability": 80
+  },
+  {
+    "title": "ЄС продовжив санкції за гібридні дії Росії",
+    "link": "https://ua.korrespondent.net/world/4918355-yes-prodovzhyv-sanktsii-za-hibrydni-dii-rosii",
+    "pubDate": "2026-10-08 13:37:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590509.jpg\">Рішення ухвалили у відповідь на триваючу та зростаючу гібридну діяльність РФ, зокрема через маніпуляції інформацією та втручання, спрямовані проти Євросоюзу, його держав-членів і партнерів.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El Gran Recapte pone el foco en las \"nuevas pobrezas\": \"La inflación es un impuesto añadido a la precariedad\"",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/gran-recapte-banc-aliments-nuevas-pobrezas-pensionistas-jovenes-monoparentales-acompanamiento-integral-pobreza-precios-alimentos-135132393",
+    "pubDate": "2026-10-08 13:35:46",
+    "category": "",
+    "description": "<h2 class=\"item\">El Banc dels Aliments alerta de la vulnerabilidad de jubilados con pensiones bajas, familias monoparentales y jóvenes precarios</h2><h2 class=\"item\">La campaña, que busca 17.000 voluntarios, se realizará los días 13 y 14 de noviembre</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.cat/ca/opinio/20260405/menys-malbaratament-alimentari-128753362\">Menys malbaratament alimentari</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Хмельницькому мітинг через мобілізацію 25-річного тренера",
+    "link": "https://ua.korrespondent.net/ukraine/4918351-u-khmelnytskomu-mitynh-cherez-mobilizatsiui-25-richnoho-trenera",
+    "pubDate": "2026-10-08 13:33:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590496.jpg\">У Хмельницькому 8 жовтня біля збірного пункту ТЦК зібралися люди на підтримку 25-річного тренера Андрія Бриндака. Рідні заявляють про незаконну мобілізацію, у ТЦК це заперечують.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Una ex moderadora de contenidos de Facebook en Barcelona se suicida",
+    "link": "https://www.elperiodico.com/es/economia/20261008/suicidio-ex-moderadora-contenidos-facebook-barcelona-135134267",
+    "pubDate": "2026-10-08 13:31:43",
+    "category": "",
+    "description": "<h2>La mujer trabajó filtrando vídeos e imágenes sensibles para Meta entre 2022 y 2025 y ya se intentó quitar la vida durante ese periodo</h2><h2>La familia pondera denunciar y exigir responsabilidades a la subcontrata que gestionaba el servicio</h2><h2><a href=\"https://www.elperiodico.com/es/economia/20250504/telus-acuerdo-ere-subcontrata-meta-despidos-torre-glories-barcelona-117011076\">Acuerdo en el ERE de la subcontrata de Meta: Los 2.059 despedidos en la torre Glòries serán indemnizados con 33 días</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La Audiencia Nacional pide al CGPJ que le autorice a usar el logotipo elegido para conmemorar los 50 años de su creación",
+    "link": "https://www.elperiodico.com/es/politica/20261008/audiencia-nacional-pide-cgpj-le-135135656",
+    "pubDate": "2026-10-08 13:30:19",
+    "category": "",
+    "description": "<h2>La Sala de Gobierno cree \"adecuado y conveniente trasladar que el color del año '1977' sea plasmado en un tono más intenso que el propuesto\"</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los españoles adelantan la hora de la cena: la mitad de las reservas en los restaurantes son antes de las nueve de la noche",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/espanoles-adelantan-hora-cena-ocho-tarde-135131836",
+    "pubDate": "2026-10-08 13:28:56",
+    "category": "",
+    "description": "<h2 class=\"item\">El cambio de hábitos viene motivado por el deseo de cuidar la salud y descansar mejor y la pandemia ejerció como detonante</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/sociedad/20260529/tardeo-expansion-espana-discotecas-bares-ocio-ingresos-130764755\" target=\"_blank\">El tardeo se expande por España: más de la mitad de locales de ocio ya ofrecen sesiones de tarde</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Загострення кризи між Сеулом і Києвом: що відомо",
+    "link": "https://ua.korrespondent.net/world/4918348-zahostrennia-kryzy-mizh-seulom-i-kyievom-scho-vidomo",
+    "pubDate": "2026-10-08 13:28:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590498.jpg\">Південна Корея вирішила відкликати свого посла з України. Криза між двома країнами загострюється.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "La dislexia en la universidad: más tiempo para examinarse y menos penalización ortográfica",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/dislexia-universidad-mas-tiempo-examenes-menos-penalizacion-faltas-135133049",
+    "pubDate": "2026-10-08 13:25:27",
+    "category": "",
+    "description": "<h2 class=\"item\">Los universitarios con dislexia tienen más dificultades para planificar, cohesionar y corregir sus textos, pero igualan a sus compañeros en creatividad y riqueza de vocabulario</h2><h2 class=\"item\">Joan Cruz, diagnósticado a los 7 años, se doctoró en Neurociencias en la UPV-EHU y ahora imparte clase en un colegio de Huesca</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "VÍDEO | La Guardia Civil recupera en El Viso del Alcor una bula papal del siglo XVI vinculada a la batalla de Lepanto",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/video-guardia-civil-recupera-viso/135134479.shtml",
+    "pubDate": "2026-10-08 13:20:04",
+    "category": "",
+    "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Україна та Румунія відкрили новий пункт пропуску через Тису",
+    "link": "https://ua.korrespondent.net/ukraine/4918344-ukraina-ta-rumuniia-vidkryly-novyi-punkt-propusku-cherez-tysu",
+    "pubDate": "2026-10-08 13:17:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590482.jpg\">Пункт пропуску Біла Церква   Сігету-Мармацієй став першим новим переходом між країнами на Закарпатті майже за 20 років.",
+    "topic": "політика",
+    "topic_match_probability": 55
+  },
+  {
+    "title": "Jaume Subirós (El Motel), Premio Nacional de Gastronomía Toda una Vida 2026",
+    "link": "https://www.elperiodico.com/es/gastronomia/20261008/jaume-subiros-premio-nacional-gastronomia-2026-135131634",
+    "pubDate": "2026-10-08 13:16:50",
+    "category": "",
+    "description": "<h2 class=\"item\">El jurado ha destacado la trascendencia histórica de su figura, señalando \"lo que significa el Motel Empordà para la gastronomía\"</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260705/documental-motel-emporda-figueres-131971894\">VÍDEO | La historia de El Motel, el restaurante donde la cocina catalana tomó impulso: ' El señor Mercader, el señor Pla y el señor Subirós'</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/gastronomia/restaurantes/20260321/restaurante-el-motel-figueres-girona-127927977\">¡No toquen El Motel! 65 años en la carretera y un siglo del nacimiento del fundador del restaurante</a></h2>",
+    "topic": "ресторани, їжа",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Рубіо оцінив шанси мирного врегулювання в Україні",
+    "link": "https://ua.korrespondent.net/world/4918339-rubio-otsinyv-shansy-myrnoho-vrehuluivannia-v-ukraini",
+    "pubDate": "2026-10-08 13:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590481.jpg\">Зараз ситуація нагадує стратегічний глухий кут, що є небезпечним явищем, вважає Марко Рубіо.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "El nuevo Toyota Hilux llega a España con una versión eléctrica de 196 CV",
+    "link": "https://www.elperiodico.com/es/motor/20261008/nuevo-toyota-hilux-2026-motor-electrico-pick-up-135124789",
+    "pubDate": "2026-10-08 13:09:05",
+    "category": "",
+    "description": "<h2>La gama se completa con una versión diésel de 204 CV y hibridación ligera de 48 voltios, con tracción total y cambio automático de seis velocidades</h2>",
+    "topic": "автомобілі",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Toni Soler dice adiós al Barrio Gótico después de 25 años: \"Es difícil ser barcelonés y catalán y sentirte como en casa\"",
+    "link": "https://www.elperiodico.com/es/economia/20261008/toni-soler-mudanza-barrio-gotico-barcelona-turismo-dv-et-135096395",
+    "pubDate": "2026-10-08 13:08:14",
+    "category": "",
+    "description": "<h2>El turismo y la pérdida de identidad son los principales motivos de la mudanza del presentador y humorista</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Естонія витратить €195 млн на зброю та боєприпаси",
+    "link": "https://ua.korrespondent.net/world/4918338-estoniia-vytratyt-195-mln-na-zbroui-ta-boieprypasy",
+    "pubDate": "2026-10-08 13:08:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590480.jpg\">Естонія оголосила масштабний тендер на закупівлю озброєння та боєприпасів на €195 млн. Рамкові угоди діятимуть сім років.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
+    "title": "La poeta canadiense Anne Carson gana el premio Nobel de Literatura 2026",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/anne-carson-premio-nobel-literatura-2026-135132249",
+    "pubDate": "2026-10-08 13:02:32",
+    "category": "",
+    "description": "<h2 class=\"item\">El galardón que otorga cada año la Academia Sueca está dotado con 11 millones de coronas suecas, algo más de un millón de euros </h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20260225/laszlo-krasznahorkai-nobel-literatura-cosas-127256680\">László Krasznahorkai, Nobel de Literatura: \"Las cosas nunca han ido bien, ni siquiera cuando vivíamos en las cavernas\"</a></h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/ocio-y-cultura/20261005/vila-matas-quinielas-nobel-literatura-135008104\">Cuenta atrás para el Nobel de Literatura: Enrique Vila-Matas se cuela entre los favoritos al premio</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Los pilotos de MotoGP creen que el nuevo formato de GP pone en riesgo sus carreras",
+    "link": "https://www.elperiodico.com/es/deportes/20261008/pilotos-motogp-creen-nuevo-formato-135131284",
+    "pubDate": "2026-10-08 13:02:20",
+    "category": "",
+    "description": "<h2 class=\"item\">Los pilotos han llegado a Mandalika, Indonesia, y se han encontrado con que sus equipos han decidido, con el visto bueno de la organización del Mundial, añadir una 'quali' más, es decir, habrán tres, en un mismo fin de semana. Y, aunque algunos lo ven bien (Bagnaia, Marini y Bezzechi, pocos más), la mayoría son contrarios, pues es añadir más estrés, desgaste y peligro en el fin de semana.</h2>",
+    "topic": "спорт (футбол, бокс, олімпійські ігри, Ліга Чемпіонів, Barça; але не баскетбол і не з сайту as.com)",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Crítica de 'Ceniza en la boca': Excelente adaptación de la novela homónima de Brenda Navarro sobre una chica mexicana que no encuentra su lugar ni en Madrid ni en Barcelona",
+    "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261008/critica-ceniza-boca-adaptacion-135130391",
+    "pubDate": "2026-10-08 13:00:50",
+    "category": "",
+    "description": "<h2>Diego Luna dirige la adaptación cinematográfica de la novela de Brenda Navarro, un drama que recorre los escenarios de Madrid, Barcelona y México para narrar una historia sobre el desarraigo</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "У Польщі після нового нападу в школі є загибла: Туск скликає міністрів",
+    "link": "https://ua.korrespondent.net/world/4918336-u-polschi-pislia-novoho-napadu-v-shkoli-ye-zahybla-tusk-sklykaie-ministriv",
+    "pubDate": "2026-10-08 12:58:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590472.jpg\">Напад 15-річного підлітка у польській школі завершився смертю потрепілої. Прем’єр Дональд Туск скликав термінову нараду урядовців.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Al menos 33 muertos por un ataque de Rusia en la ciudad ucraniana de Kramatorsk",
+    "link": "https://www.elperiodico.com/es/internacional/20261008/33-muertos-ataque-rusia-ciudad-135133267",
+    "pubDate": "2026-10-08 12:52:15",
+    "category": "",
+    "description": "<h2>Las autoridades de Ucrania investigan como un crimen de guerra el bombardeo, que ha alcanzado a un autobús de pasajeros</h2>",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "El estreno perfecto de Aday Mara en la NBA",
+    "link": "https://www.elperiodico.com/es/deportes/20261008/estreno-perfecto-aday-mara-nba-135125554",
+    "pubDate": "2026-10-08 12:51:44",
+    "category": "",
+    "description": "<h2>El pívot español brilla sin fallar ningún tiro de campo en sus dos primeros partidos de pretemporada con los Oklahoma City Thunder </h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Feijóo acusa a Sánchez de pretender manipular \"emocionalmente\" a los españoles tras la muerte de Maricarmen",
+    "link": "https://www.elperiodico.com/es/politica/20261008/feijoo-comparte-junta-directiva-pp-135132139",
+    "pubDate": "2026-10-08 12:33:42",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Un altar improvisado recuerda a Maricarmen en la Puerta del Sol de Madrid",
+    "link": "https://www.elperiodico.com/es/fotos/sociedad/altar-improvisado-recuerda-maricarmen-puerta-sol-madrid-fotos-135132045",
+    "pubDate": "2026-10-08 12:33:05",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 50
+  },
+  {
+    "title": "El Gobierno cuestiona la constitucionalidad de la ley catalana contra el amianto",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/gobierno-ley-amianto-cataluna-tribunal-constitucional-articulos-135130994",
+    "pubDate": "2026-10-08 12:31:07",
+    "category": "",
+    "description": "<h2 class=\"item\">El Govern abre ahora una negociación con el Estado para llegar a un acuerdo sobre los artículos que generan discrepancias</h2><h2 class=\"item\"><a href=\"https://www.elperiodico.com/es/barcelona/20261002/ley-amianto-compraventa-alquiler-viviendas-certificado-cataluna-134849631\" target=\"_blank\">La nueva ley del amianto afectará la compraventa de vivienda: el vendedor deberá informar al comprador</a></h2>",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "Росія вбила 30 цивільних у Краматорську",
+    "link": "https://ua.korrespondent.net/ukraine/4918325-rosiia-vbyla-30-tsyvilnykh-u-kramatorsku",
+    "pubDate": "2026-10-08 12:28:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590457.jpg\">Також у селищ Біленьке Краматорської громади внаслідок обстрілу рашистів загинули троє людей.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Nueva York está en emergencia por sarampión, y en España \"no nos podemos descuidar porque cada vez hay más antivacunas\"",
+    "link": "https://www.elperiodico.com/es/salud/20261008/nueva-york-emergencia-sarampion-espana-antivacunas-135131590",
+    "pubDate": "2026-10-08 12:25:43",
+    "category": "",
+    "description": "<h2>El doctor Jaime Pérez, presidente de la Asociación Española de Vacunología, subraya la necesidad de mantener las coberturas vacunales en España ante la situación crítica que atraviesa Estados Unidos</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Amplían el perímetro de búsqueda del menor desaparecido el domingo en Granollers a los municipios de La Roca y Parets del Vallès",
+    "link": "https://www.elperiodico.com/es/barcelona/20261008/amplian-perimetro-busqueda-menor-desaparecido-granollers-la-roca-135130810",
+    "pubDate": "2026-10-08 12:19:35",
+    "category": "",
+    "description": "<h2>Además, trasladan de forma preventiva a 22 ancianos de una residencia ante el riesgo de que las lluvias afecten al camino de acceso</h2><h2><a href=\"https://www.elperiodico.com/es/barcelona/20261005/menor-12-anos-desaparece-granollers-lluvias-dificultan-operativo-mossos-135012669\" target=\"_blank\">Un menor de 12 años desaparece en Granollers y las lluvias dificultan el operativo de Mossos</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La NBA y la FIBA no retiran la mano",
+    "link": "https://as.com/baloncesto/nba/la-nba-y-la-fiba-no-retiran-la-mano-f202610-n/",
+    "pubDate": "2026-10-08 12:11:54",
+    "category": "Baloncesto",
+    "description": "Un comunicado conjunto de las dos organizaciones mantiene la puerta abierta a seguir con el diálogo dos días después del rechazo, con matices, de la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Другий напад за два дні: у Польщі підліток поранив трьох людей у школі",
+    "link": "https://ua.korrespondent.net/world/4918323-druhyi-napad-za-dva-dni-u-polschi-pidlitok-poranyv-trokh-luidei-u-shkoli",
+    "pubDate": "2026-10-08 12:11:00",
+    "category": "Новини світу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590444.jpg\">У Польщі зафіксували ще один інцидент із ножем у школі. Цього разу 15-річний підліток поранив трьох людей, а паралельно правоохоронці запобігли іншому можливому нападу.",
+    "topic": "дрібні злочини: пограбування, згвалтування, бійки, аварії, афери",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "Las lluvias torrenciales causan 117 millones de pérdidas en las empresas, según Pimec",
+    "link": "https://www.elperiodico.com/es/economia/20261008/lluvias-torrenciales-cataluna-perdidas-empresas-pimec-informe-135130004",
+    "pubDate": "2026-10-08 12:10:06",
+    "category": "",
+    "description": "<h2>Un estudio de Pimec identifica el Vallès Occidental como el territorio más damnificado y una de cada tres corporaciones reconoce que ha parado total o parcialmente su actividad estos días</h2><h2><a href=\"https://www.elperiodico.com/es/sociedad/20261008/meteocat-avisos-lluvias-jueves-naranja-prevision-135126567\">Meteocat eleva los avisos por lluvias de este jueves de amarillo a naranja y advierte de posibles chubascos intensos hasta la noche</a></h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "ЗСУ уразили нафтопереробний комплекс у Башкирії",
+    "link": "https://ua.korrespondent.net/ukraine/4918321-zsu-urazyly-naftopererobnyi-kompleks-u-bashkyrii",
+    "pubDate": "2026-10-08 12:08:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590443.jpg\">Газпром нефтехим Салават однин із найбільших нафтопереробних і нафтохімічних комплексів РФ, здатний переробляти до 10 млн тонн вуглеводневої сировини на рік.",
+    "topic": "політика",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "\"Es vergonzoso\": el adelanto electoral debilita (aún más) la ciberseguridad de España",
+    "link": "https://www.elperiodico.com/es/politica/20261008/vergonzoso-adelanto-electoral-debilita-ciberseguridad-espana-ciberataques-ley-ue-135087190",
+    "pubDate": "2026-10-08 12:07:25",
+    "category": "",
+    "description": "<h2>Expertos consultados por EL PERIÓDICO denuncian que el Gobierno lleva dos años incumpliendo los plazos para adaptar la ley europea contra los ciberataques y que la anticipación de las elecciones hará que las empresas sean \"más vulnerables\"</h2>",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 85
+  },
+  {
     "title": "Adrián (33 años), propietario de 12 pisos: \"Yo compro viviendas grandes, las reformo y las alquilo por habitaciones para generar hasta 2.000€ al mes de cash flow\"",
     "link": "https://www.elperiodico.com/es/sociedad/20261008/adrian-33-anos-propietario-12-pisos-dinero-dv-et-135101473",
     "pubDate": "2026-10-08 12:00:36",
@@ -86,6 +761,15 @@
     "pubDate": "2026-10-08 11:42:01",
     "category": "",
     "description": "",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El quién es quién del baloncesto europeo",
+    "link": "https://as.com/baloncesto/euroliga/el-quien-es-quien-del-baloncesto-europeo-f202610-n/",
+    "pubDate": "2026-10-08 11:40:46",
+    "category": "Baloncesto",
+    "description": "La Euroliga votó en bloque contra, por ahora, el proyecto de la NBA. Pero eso no significa que todos los equipos piensen lo mismo. Hay distintos intereses, sensibilidades...",
     "topic": "",
     "topic_match_probability": 0
   },
@@ -792,6 +1476,15 @@
     "topic_match_probability": 95
   },
   {
+    "title": "\"Me ofende que se cuestione el sistema de voto por correo\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/ofende-cuestione-sistema-voto-correo-carta-lector-isabel-vegas-135062797",
+    "pubDate": "2026-10-08 07:00:31",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "TVyMAS Jueves 8",
     "link": "https://www.elperiodico.com/es/videos/tele/tvymas-jueves-8/135107961.shtml",
     "pubDate": "2026-10-08 06:59:18",
@@ -864,6 +1557,15 @@
     "topic_match_probability": 0
   },
   {
+    "title": "\"De nada sirven los mítines electorales: promesas incumplidas y descalificaciones\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/mitines-electorales-promesas-incumplidas-elecciones-generales-29n-carta-lector-marina-tomas-135031797",
+    "pubDate": "2026-10-08 06:45:08",
+    "category": "",
+    "description": "",
+    "topic": "вибори (але не президента України чи США)",
+    "topic_match_probability": 100
+  },
+  {
     "title": "970 ударів за добу: РФ масовано атакувала Запорізьку область",
     "link": "https://ua.korrespondent.net/city/zaporozhye/4918232-970-udariv-za-dobu-rf-masovano-atakuvala-zaporizku-oblast",
     "pubDate": "2026-10-08 06:38:00",
@@ -889,6 +1591,15 @@
     "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590193.jpg\">SpaceX веде переговори з банками та інвесторами щодо кредиту до $40 млрд. Кошти планують спрямувати на закупівлю чипів Nvidia для розвитку обчислювальної інфраструктури.",
     "topic": "",
     "topic_match_probability": 0
+  },
+  {
+    "title": "\"Amnistía: ¿punto final o punto de partida?\"",
+    "link": "https://www.elperiodico.com/es/entre-todos/participacion/amnistia-catalunya-autodeterminacion-proces-carta-lector-roger-diaz-135056013",
+    "pubDate": "2026-10-08 06:15:20",
+    "category": "",
+    "description": "",
+    "topic": "політика",
+    "topic_match_probability": 100
   },
   {
     "title": "España, Lamine Yamal y Olise, el podio del parón de selecciones",
