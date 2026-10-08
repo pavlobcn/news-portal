@@ -1,5 +1,176 @@
 [
   {
+    "title": "Переговори Україна - США: хто і про що говоритиме",
+    "link": "https://ua.korrespondent.net/ukraine/4918529-perehovory-ukraina-ssha-khto-i-pro-scho-hovorytyme",
+    "pubDate": "2026-10-08 23:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590795.jpeg\">Зеленський розкрив склад перевірної групи, яка зустрінеться з Віткоффом і Кушнером. ЗМІ пишуть, що йтиметься про нову спільну пропозицію, що охоплює всі аспекти війни.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Shakira en 'La Revuelta': \"Hablo más catalán en Miami que en Catalunya\"",
+    "link": "https://www.elperiodico.com/es/tele/20261008/shakira-catalan-entrevista-revuelta-conciertos-madrid-dv-135157595",
+    "pubDate": "2026-10-08 23:47:13",
+    "category": "",
+    "description": "<h2>\"Mis hijos hablan catalán. Y hablo con ellos en Miami también, cuando ellos no quieren que los amigos nos entiendan\", ha explicado</h2>",
+    "topic": "виконавці поп музики",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Pedro Martínez: “Superar adversidades es muy positivo”",
+    "link": "https://as.com/baloncesto/euroliga/pedro-martinez-superar-adversidades-es-muy-positivo-f202610-n/",
+    "pubDate": "2026-10-08 23:30:31",
+    "category": "Baloncesto",
+    "description": "El técnico del Real Madrid destacó la capacidad de reacción de su equipo ante el Partizán y subrayó la importancia de la defensa para volver a ganar.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Попри дефіцит держбюджету: телемарафон отримає ще 63 млн",
+    "link": "https://ua.korrespondent.net/ukraine/4918522-popry-defitsyt-derzhbuidzhetu-telemarafon-otrymaie-sche-63-mln",
+    "pubDate": "2026-10-08 23:18:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590786.jpg\">Україні не вистачає грошей на оборону і потреби держави, але є кошти на телемарафон знайшлися.",
+    "topic": "телебачення",
+    "topic_match_probability": 95
+  },
+  {
+    "title": "El Valencia es colíder y la reconstrucción toca a su fin",
+    "link": "https://as.com/baloncesto/euroliga/el-valencia-es-colider-y-la-reconstruccion-toca-a-su-fin-f202610-n/",
+    "pubDate": "2026-10-08 23:14:12",
+    "category": "Baloncesto",
+    "description": "El equipo taronja suma su cuarta victoria consecutiva en el arranque de Euroliga, récord del club, y está igualado con el Panathinaikos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Real Madrid - Partizán, Euroliga 26/27 resumen y resultado (86-76)",
+    "link": "https://as.com/baloncesto/euroliga/real-madrid-partizan-en-directo-euroliga-en-vivo-hoy-f202610-d/",
+    "pubDate": "2026-10-08 23:08:25",
+    "category": "Baloncesto",
+    "description": "El Madrid se quita presión con un triunfo trabajado ante el Partizán tras un inicio complicado en la Euroliga.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El Madrid ya gana en la Euroliga: brillo, apagón y alivio final",
+    "link": "https://as.com/baloncesto/euroliga/el-madrid-ya-gana-en-la-euroliga-brillo-apagon-y-alivio-final-f202610-n/",
+    "pubDate": "2026-10-08 22:59:29",
+    "category": "Baloncesto",
+    "description": "Los blancos desbordan al Partizán en una gran primera parte, pero en la segunda sufren en ataque. Bien atrás. Buenos minutos de Campazzo y Maledon juntos.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Estas son las dos ciudades más verdes de Europa y ambas son españolas",
+    "link": "https://www.elperiodico.com/es/medio-ambiente/20261008/son-ciudades-verdes-europa-ambas-135157203",
+    "pubDate": "2026-10-08 22:58:25",
+    "category": "",
+    "description": "<h2>Un jurado internacional valoró siete indicadores ambientales para elegir a las más sostenibles</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "La portada de EL PERIÓDICO del 9 de octubre de 2026",
+    "link": "https://www.elperiodico.com/es/sociedad/20261008/portada-periodico-9-octubre-2026-135157130",
+    "pubDate": "2026-10-08 22:57:05",
+    "category": "",
+    "description": "",
+    "topic": "portada de EL PERIÓDICO",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Новий глухий кут. Безвихідь на перемовинах з РФ",
+    "link": "https://ua.korrespondent.net/ukraine/4918530-novyi-hlukhyi-kut-bezvykhid-na-peremovynakh-z-rf",
+    "pubDate": "2026-10-08 22:50:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590802.jpg\">Президент України Володимир Зеленський наголосив, що Україна не перебуває в дипломатичному глухому куті, і закликав Сполучені Штати натомість посилити економічний тиск на РФ та допомогти захистити українське небо.",
+    "topic": "політика",
+    "topic_match_probability": 90
+  },
+  {
+    "title": "Барселона контрактує свого таланта до 2030 року",
+    "link": "https://ua.korrespondent.net/sport/football/4918524-barselona-kontraktuie-svoho-talanta-do-2030-roku",
+    "pubDate": "2026-10-08 22:49:00",
+    "category": "Новини футболу",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590772.jpg\">Каталонська команда вирішила погодити умови співпраці з 19-річним гравцем до 30 червня 2030 року.",
+    "topic": "спорт",
+    "topic_match_probability": 100
+  },
+  {
+    "title": "Українського журналіста-розслідувача затримали у Відні",
+    "link": "https://ua.korrespondent.net/ukraine/4918520-ukrainskoho-zhurnalista-rozsliduvacha-zatrymaly-u-vidni",
+    "pubDate": "2026-10-08 22:45:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590779.jpg\">Михайло Ткач разом з колегою Ярославом Бондаренком виконували редакційне завдання, коли були затримані місцевими правоохоронцями.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Resultados Euroliga, jornada 4: horarios, TV, partidos y clasificación",
+    "link": "https://as.com/baloncesto/euroliga/resultados-euroliga-jornada-4-horarios-tv-partidos-y-clasificacion-f202610-n/",
+    "pubDate": "2026-10-08 22:40:20",
+    "category": "Baloncesto",
+    "description": "Euroliga 2026-27: resultados de los partidos y clasificación de la temporada en su jornada 4. Real Madrid, Barcelona, Baskonia, Valencia Basket…",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Valencia Basket - Hapoel Tel Aviv, en directo: Euroliga, hoy en vivo",
+    "link": "https://as.com/baloncesto/euroliga/valencia-basket-hapoel-tel-aviv-en-directo-euroliga-hoy-en-vivo-f202610-n/",
+    "pubDate": "2026-10-08 22:37:06",
+    "category": "Deportes",
+    "description": "Valencia Basket - Hapoel Tel Aviv, en directo: Euroliga, hoy en vivo",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Hallan muertos con signos de violencia en una casa de Cuenca a una pareja en trámites de separación, en un caso de \"presunta violencia de género\"",
+    "link": "https://www.elperiodico.com/es/sucesos/20261008/hallan-muertos-signos-violencia-hombre-135156412",
+    "pubDate": "2026-10-08 22:35:22",
+    "category": "",
+    "description": "<h2>La pareja tenía además dos hijas menores de 6 y 14 años de edad</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "El ogro verde está de vuelta",
+    "link": "https://as.com/baloncesto/euroliga/el-ogro-verde-esta-de-vuelta-f202610-n/",
+    "pubDate": "2026-10-08 22:29:20",
+    "category": "Baloncesto",
+    "description": "El Panathinaikos destroza al Fenerbahçe y el proyecto liderado por Zeljko Obradovic se le pone cara de favoritísimo.",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Зеленський підтвердив удар по дата-центру Яндекса",
+    "link": "https://ua.korrespondent.net/ukraine/4918518-zelenskyi-pidtverdyv-udar-po-data-tsentru-yandeksa",
+    "pubDate": "2026-10-08 22:24:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590771.jpg\">В Яндексі не можуть підтвердити можливість відновлення дата-центру в Сасово. Масштаб збитків ще оцінюється.",
+    "topic": "політика",
+    "topic_match_probability": 75
+  },
+  {
+    "title": "La 59ª edición del Festival Fantástico de Sitges",
+    "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/59a-edicion-festival-fantastico-sitges/135155923.shtml",
+    "pubDate": "2026-10-08 22:23:27",
+    "category": "",
+    "description": "",
+    "topic": "qué hacer esta semana en Barcelona",
+    "topic_match_probability": 60
+  },
+  {
+    "title": "Енергокриза в Києві. Кличко знову каже виїжджати",
+    "link": "https://ua.korrespondent.net/ukraine/4918526-enerhokryza-v-kyievi-klychko-znovu-kazhe-vyizhdzhaty",
+    "pubDate": "2026-10-08 22:10:00",
+    "category": "Новини України",
+    "description": "<img align=\"left\" vspace=\"5\" hspace=\"10\" src=\"https://kor.ill.in.ua/m/190x120/4590793.jpg\">Росія суттєво посилила атаки, навмисно цілячи у лінії електропередач та трансформатори, щоб унеможливити доставку світла споживачам.",
+    "topic": "політика",
+    "topic_match_probability": 70
+  },
+  {
     "title": "Una mujer y dos menores, desahuciados en La Rambla de Barcelona tras la entrada en vigor del nuevo decreto de vivienda",
     "link": "https://www.elperiodico.com/es/barcelona/20261008/mujer-menores-desahuciados-rambla-barcelona-nuevo-decreto-vivienda-135155241",
     "pubDate": "2026-10-08 22:07:43",
@@ -1013,6 +1184,15 @@
     "pubDate": "2026-10-08 16:30:50",
     "category": "",
     "description": "<h2>Los aduaneros franceses descubrieron la droga, valorada en más de un millón de euros, durante un control en el peaje del Voló y el conductor ya ha sido condenado a cuatro años de prisión</h2>",
+    "topic": "",
+    "topic_match_probability": 0
+  },
+  {
+    "title": "Márcio Santos: “España es un buen lugar para vivir”",
+    "link": "https://as.com/futbol/marcio-santos-espana-es-un-buen-lugar-para-vivir-f202610-n/",
+    "pubDate": "2026-10-08 16:26:28",
+    "category": "Baskonia",
+    "description": "Presentación en la sala de prensa del Buesa Arena del nuevo jugador del Baskonia, que llega para dos temporadas",
     "topic": "",
     "topic_match_probability": 0
   },
